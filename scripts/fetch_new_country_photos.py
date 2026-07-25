@@ -26,71 +26,51 @@ CTX = ssl.create_default_context(cafile=certifi.where())
 FORCE = True
 
 JOBS = [
-    # Spain cities
-    ("cities/madrid.jpg", "Madrid Spain Gran Via Puerta del Sol"),
-    ("cities/barcelona.jpg", "Barcelona Spain Sagrada Familia skyline"),
-    ("cities/seville.jpg", "Seville Spain Plaza de Espana"),
-    ("cities/granada.jpg", "Alhambra Granada Spain"),
-    ("cities/valencia.jpg", "Valencia Spain City of Arts"),
-    ("cities/malaga.jpg", "Malaga Spain harbor cathedral"),
-    ("cities/bilbao.jpg", "Guggenheim Museum Bilbao Spain"),
-    ("cities/toledo.jpg", "Toledo Spain old town skyline"),
-    ("cities/cordoba.jpg", "Mosque Cathedral Cordoba Spain"),
-    ("cities/san-sebastian.jpg", "San Sebastian La Concha beach Spain"),
-    # Portugal cities
-    ("cities/lisbon.jpg", "Lisbon Portugal Alfama tram"),
-    ("cities/porto.jpg", "Porto Portugal Douro river Ribeira"),
-    ("cities/sintra.jpg", "Pena Palace Sintra Portugal"),
-    ("cities/faro.jpg", "Faro Portugal old town Algarve"),
-    ("cities/coimbra.jpg", "Coimbra Portugal university"),
-    ("cities/funchal.jpg", "Funchal Madeira Portugal harbor"),
-    ("cities/lagos.jpg", "Lagos Algarve Portugal cliffs"),
-    # Greece cities
-    ("cities/athens.jpg", "Acropolis Athens Greece Parthenon"),
-    ("cities/santorini.jpg", "Santorini Oia white houses Greece"),
-    ("cities/heraklion.jpg", "Heraklion Crete harbor Greece"),
-    ("cities/mykonos.jpg", "Mykonos windmills Greece"),
-    ("cities/rhodes.jpg", "Rhodes old town Greece"),
-    ("cities/thessaloniki.jpg", "Thessaloniki White Tower Greece"),
-    ("cities/corfu.jpg", "Corfu old town Greece"),
-    ("cities/nafplio.jpg", "Nafplio fortress Greece"),
-    # Poland cities
-    ("cities/warsaw.jpg", "Warsaw Old Town Poland"),
-    ("cities/krakow.jpg", "Krakow Main Square Poland"),
-    ("cities/gdansk.jpg", "Gdansk old town Poland"),
-    ("cities/wroclaw.jpg", "Wroclaw Market Square Poland"),
-    ("cities/poznan.jpg", "Poznan Old Market Poland"),
-    ("cities/zakopane.jpg", "Zakopane Tatra mountains Poland"),
-    ("cities/torun.jpg", "Torun old town Poland"),
-    # Croatia cities
-    ("cities/zagreb.jpg", "Zagreb Croatia cathedral square"),
-    ("cities/dubrovnik.jpg", "Dubrovnik old town walls Croatia"),
-    ("cities/split.jpg", "Split Diocletian Palace Croatia"),
-    ("cities/zadar.jpg", "Zadar Croatia seafront"),
-    ("cities/rovinj.jpg", "Rovinj Croatia old town harbor"),
-    ("cities/hvar.jpg", "Hvar Croatia island town"),
-    # Ireland cities
-    ("cities/dublin.jpg", "Dublin Ireland Temple Bar Ha'penny Bridge"),
-    ("cities/galway.jpg", "Galway Ireland colorful streets"),
-    ("cities/cork.jpg", "Cork Ireland River Lee"),
-    ("cities/killarney.jpg", "Killarney National Park Ireland"),
-    ("cities/kilkenny.jpg", "Kilkenny Castle Ireland"),
-    ("cities/limerick.jpg", "Limerick Ireland King Johns Castle"),
-    # Iceland cities
-    ("cities/reykjavik.jpg", "Reykjavik Hallgrimskirkja Iceland"),
-    ("cities/akureyri.jpg", "Akureyri Iceland town fjord"),
-    ("cities/vik.jpg", "Vik Iceland black sand beach"),
-    ("cities/husavik.jpg", "Husavik Iceland harbor"),
-    ("cities/selfoss.jpg", "Selfoss Iceland town"),
+    # Turkey cities
+    ("cities/istanbul.jpg", "Istanbul Turkey Hagia Sophia Blue Mosque"),
+    ("cities/ankara.jpg", "Ankara Turkey Anitkabir"),
+    ("cities/izmir.jpg", "Izmir Turkey Konak clock tower"),
+    ("cities/antalya.jpg", "Antalya Turkey old harbor"),
+    ("cities/goreme.jpg", "Goreme Cappadocia Turkey fairy chimneys"),
+    ("cities/bursa.jpg", "Bursa Turkey Green Mosque"),
+    ("cities/trabzon.jpg", "Trabzon Turkey Sumela monastery"),
+    ("cities/pamukkale.jpg", "Pamukkale Turkey travertine terraces"),
+    # Bulgaria cities
+    ("cities/sofia.jpg", "Sofia Bulgaria Alexander Nevsky Cathedral"),
+    ("cities/plovdiv.jpg", "Plovdiv Bulgaria old town Roman theater"),
+    ("cities/varna.jpg", "Varna Bulgaria Black Sea beach"),
+    ("cities/veliko-tarnovo.jpg", "Veliko Tarnovo Bulgaria Tsarevets fortress"),
+    ("cities/nessebar.jpg", "Nessebar Bulgaria old town churches"),
+    # Romania cities
+    ("cities/bucharest.jpg", "Bucharest Romania Palace of Parliament"),
+    ("cities/brasov.jpg", "Brasov Romania Black Church"),
+    ("cities/sibiu.jpg", "Sibiu Romania old town square"),
+    ("cities/sighisoara.jpg", "Sighisoara Romania medieval citadel"),
+    ("cities/cluj-napoca.jpg", "Cluj-Napoca Romania Saint Michael Church"),
+    ("cities/timisoara.jpg", "Timisoara Romania Union Square"),
+    # Monaco
+    ("cities/monaco.jpg", "Monaco Prince Palace Rock"),
+    ("cities/monte-carlo.jpg", "Monte Carlo Casino Monaco"),
+    # Vatican
+    ("cities/vatican-city.jpg", "St Peters Basilica Vatican City"),
+    # Andorra
+    ("cities/andorra-la-vella.jpg", "Andorra la Vella mountains casa"),
+    ("cities/pas-de-la-casa.jpg", "Pas de la Casa Andorra mountains ski"),
+    ("cities/ordino.jpg", "Ordino Andorra valley village"),
+    # Liechtenstein
+    ("cities/vaduz.jpg", "Vaduz Castle Liechtenstein"),
+    ("cities/schaan.jpg", "Schaan Liechtenstein town"),
+    ("cities/malbun.jpg", "Malbun Liechtenstein alpine village ski"),
     # Landmarks
-    ("landmarks/landmark-es.jpg", "Sagrada Familia Barcelona Spain"),
-    ("landmarks/landmark-pt.jpg", "Belem Tower Lisbon Portugal"),
-    ("landmarks/landmark-gr.jpg", "Acropolis Parthenon Athens Greece"),
-    ("landmarks/landmark-pl.jpg", "Wawel Castle Krakow Poland"),
-    ("landmarks/landmark-hr.jpg", "Dubrovnik city walls Croatia"),
-    ("landmarks/landmark-ie.jpg", "Cliffs of Moher Ireland"),
-    ("landmarks/landmark-is.jpg", "Hallgrimskirkja Reykjavik Iceland"),
+    ("landmarks/landmark-tr.jpg", "Hagia Sophia Istanbul Turkey"),
+    ("landmarks/landmark-bg.jpg", "Alexander Nevsky Cathedral Sofia Bulgaria"),
+    ("landmarks/landmark-ro.jpg", "Palace of the Parliament Bucharest Romania"),
+    ("landmarks/landmark-mc.jpg", "Monte Carlo Casino Monaco"),
+    ("landmarks/landmark-va.jpg", "St Peters Basilica Vatican"),
+    ("landmarks/landmark-ad.jpg", "Andorra la Vella mountains Casa de la Vall"),
+    ("landmarks/landmark-li.jpg", "Vaduz Castle Liechtenstein"),
 ]
+
 
 
 def open_url(url: str) -> bytes:

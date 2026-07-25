@@ -281,6 +281,83 @@ export const countryPhrases: Record<string, CountryPhrases> = {
       howMuch: 'Hvað kostar þetta?',
     }),
   },
+  tr: {
+    languageLabel: { ko: '튀르키예어', en: 'Turkish' },
+    speechLangs: ['tr-TR', 'tr'],
+    lines: lines({
+      morning: 'Günaydın',
+      hello: 'Merhaba',
+      excuse: 'Affedersiniz',
+      thanks: 'Teşekkürler',
+      howMuch: 'Ne kadar?',
+    }),
+  },
+  bg: {
+    languageLabel: { ko: '불가리아어', en: 'Bulgarian' },
+    speechLangs: ['bg-BG', 'bg'],
+    lines: lines({
+      morning: 'Добро утро',
+      hello: 'Здравей',
+      excuse: 'Извинете',
+      thanks: 'Благодаря',
+      howMuch: 'Колко струва?',
+    }),
+  },
+  ro: {
+    languageLabel: { ko: '루마니아어', en: 'Romanian' },
+    speechLangs: ['ro-RO', 'ro'],
+    lines: lines({
+      morning: 'Bună dimineața',
+      hello: 'Bună',
+      excuse: 'Scuzați-mă',
+      thanks: 'Mulțumesc',
+      howMuch: 'Cât costă?',
+    }),
+  },
+  mc: {
+    languageLabel: { ko: '프랑스어', en: 'French' },
+    speechLangs: ['fr-FR', 'fr'],
+    lines: lines({
+      morning: 'Bonjour',
+      hello: 'Bonjour',
+      excuse: 'Excusez-moi',
+      thanks: 'Merci',
+      howMuch: 'Combien ça coûte ?',
+    }),
+  },
+  va: {
+    languageLabel: { ko: '이탈리아어', en: 'Italian' },
+    speechLangs: ['it-IT', 'it'],
+    lines: lines({
+      morning: 'Buongiorno',
+      hello: 'Ciao',
+      excuse: 'Mi scusi',
+      thanks: 'Grazie',
+      howMuch: 'Quanto costa?',
+    }),
+  },
+  ad: {
+    languageLabel: { ko: '카탈루냐어', en: 'Catalan' },
+    speechLangs: ['ca-ES', 'ca', 'es-ES'],
+    lines: lines({
+      morning: 'Bon dia',
+      hello: 'Hola',
+      excuse: 'Perdó',
+      thanks: 'Gràcies',
+      howMuch: 'Quant val?',
+    }),
+  },
+  li: {
+    languageLabel: { ko: '독일어', en: 'German' },
+    speechLangs: ['de-LI', 'de-DE', 'de'],
+    lines: lines({
+      morning: 'Guten Morgen',
+      hello: 'Hallo',
+      excuse: 'Entschuldigung',
+      thanks: 'Danke',
+      howMuch: 'Was kostet das?',
+    }),
+  },
 }
 
 export function getCountryPhrases(countryId: string): CountryPhrases | undefined {

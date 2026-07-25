@@ -1,4 +1,4 @@
-export type FxCode = 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK'
+export type FxCode = 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK' | 'TRY' | 'RON'
 
 export interface DailyRates {
   /** YYYY-MM-DD (로컬 날짜) */
@@ -8,8 +8,8 @@ export interface DailyRates {
   source: string
 }
 
-const STORAGE_KEY = 'mvp-fx-krw-daily-v4'
-const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK']
+const STORAGE_KEY = 'mvp-fx-krw-daily-v5'
+const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON']
 
 function todayKey() {
   const d = new Date()

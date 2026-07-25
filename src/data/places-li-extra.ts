@@ -1,0 +1,62 @@
+import { place } from './placeFactory'
+import type { Place } from '../types'
+
+export const placesLIExtra: Place[] = [
+  // —— vaduz ——
+  place('vaduz-fine_dining-1', 'vaduz', 'fine_dining', 'Restaurant Torkel', 4.6, 'Vaduz', '왕실 와이너리 다이닝.', 'Princely winery dining.', { reviewCount: 700 }),
+  place('vaduz-fine_dining-2', 'vaduz', 'fine_dining', 'Hotel restaurant Vaduz', 4.4, 'Vaduz', '호텔 파인 다이닝.', 'Hotel fine dining.', { reviewCount: 600 }),
+  place('vaduz-fine_dining-3', 'vaduz', 'fine_dining', 'Alpine bistro Vaduz', 4.4, 'Vaduz', '알파인 비스트로.', 'Alpine bistro.', { reviewCount: 800 }),
+  place('vaduz-fine_dining-4', 'vaduz', 'fine_dining', 'Rhine-view dining', 4.3, 'Vaduz', '라인 전망 다이닝.', 'Rhine-view dining.', { reviewCount: 540 }),
+  place('vaduz-fine_dining-5', 'vaduz', 'fine_dining', 'Local Liechtenstein cuisine', 4.3, 'Vaduz', '로컬 공국 요리.', 'Local princely cuisine.', { reviewCount: 720 }),
+  place('vaduz-bakery-1', 'vaduz', 'bakery', 'Bäckerei Vaduz', 4.5, 'Vaduz', '스위스식 빵집.', 'Swiss-style bakery.', { reviewCount: 800 }),
+  place('vaduz-bakery-2', 'vaduz', 'bakery', 'Konditorei Vaduz', 4.4, 'Vaduz', '케이크·페이스트리.', 'Cakes and pastries.', { reviewCount: 640 }),
+  place('vaduz-bakery-3', 'vaduz', 'bakery', 'Mountain bread shop', 4.3, 'Vaduz', '산악 빵집.', 'Mountain bread shop.', { reviewCount: 480 }),
+  place('vaduz-bakery-4', 'vaduz', 'bakery', 'Café bakery Städtle', 4.3, 'Vaduz', '슈테틀레 베이커리 카페.', 'Städtle bakery café.', { reviewCount: 700 }),
+  place('vaduz-cafe-1', 'vaduz', 'cafe', 'Specialty coffee Vaduz', 4.5, 'Vaduz', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 560 }),
+  place('vaduz-cafe-2', 'vaduz', 'cafe', 'Städtle café', 4.4, 'Vaduz', '메인 거리 카페.', 'Main-street café.', { reviewCount: 900 }),
+  place('vaduz-cafe-3', 'vaduz', 'cafe', 'Museum café', 4.3, 'Vaduz', '미술관 카페.', 'Museum café.', { reviewCount: 480 }),
+  place('vaduz-cafe-4', 'vaduz', 'cafe', 'Brunch café Vaduz', 4.3, 'Vaduz', '브런치 카페.', 'Brunch café.', { reviewCount: 420 }),
+  place('vaduz-korean-1', 'vaduz', 'korean', 'Korean Kitchen Vaduz', 4.2, 'Vaduz', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 160 }),
+  place('vaduz-korean-2', 'vaduz', 'korean', 'Bibimbap Vaduz', 4.2, 'Vaduz', '비빔밥.', 'Bibimbap.', { reviewCount: 120 }),
+  place('vaduz-korean-3', 'vaduz', 'korean', 'Korean BBQ Vaduz', 4.2, 'Vaduz', '고기구이.', 'Korean BBQ.', { reviewCount: 140 }),
+  place('vaduz-korean-4', 'vaduz', 'korean', 'Kimchi Vaduz', 4.1, 'Vaduz', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 100 }),
+
+  // —— schaan ——
+  place('schaan-fine_dining-1', 'schaan', 'fine_dining', 'Schaan Fine Dining 1', 4.5, 'Schaan', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('schaan-fine_dining-2', 'schaan', 'fine_dining', 'Schaan Fine Dining 2', 4.4, 'Schaan', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('schaan-fine_dining-3', 'schaan', 'fine_dining', 'Schaan Fine Dining 3', 4.3, 'Schaan', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('schaan-fine_dining-4', 'schaan', 'fine_dining', 'Schaan Bistro', 4.3, 'Schaan', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('schaan-fine_dining-5', 'schaan', 'fine_dining', 'Schaan Chef\'s Table', 4.4, 'Schaan', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('schaan-bakery-1', 'schaan', 'bakery', 'Schaan Bakery', 4.5, 'Schaan', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('schaan-bakery-2', 'schaan', 'bakery', 'Schaan Patisserie', 4.4, 'Schaan', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('schaan-bakery-3', 'schaan', 'bakery', 'Schaan Bread House', 4.3, 'Schaan', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('schaan-bakery-4', 'schaan', 'bakery', 'Café Bakery Schaan', 4.3, 'Schaan', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('schaan-cafe-1', 'schaan', 'cafe', 'Specialty Coffee Schaan', 4.5, 'Schaan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('schaan-cafe-2', 'schaan', 'cafe', 'Old Town Café Schaan', 4.4, 'Schaan', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('schaan-cafe-3', 'schaan', 'cafe', 'Brunch Café Schaan', 4.3, 'Schaan', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('schaan-cafe-4', 'schaan', 'cafe', 'Espresso Bar Schaan', 4.3, 'Schaan', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('schaan-korean-1', 'schaan', 'korean', 'Korean Kitchen Schaan', 4.4, 'Schaan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('schaan-korean-2', 'schaan', 'korean', 'Bibimbap Schaan', 4.3, 'Schaan', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('schaan-korean-3', 'schaan', 'korean', 'Korean BBQ Schaan', 4.3, 'Schaan', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('schaan-korean-4', 'schaan', 'korean', 'Kimchi House Schaan', 4.2, 'Schaan', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
+  // —— malbun ——
+  place('malbun-fine_dining-1', 'malbun', 'fine_dining', 'Malbun Fine Dining 1', 4.5, 'Malbun', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('malbun-fine_dining-2', 'malbun', 'fine_dining', 'Malbun Fine Dining 2', 4.4, 'Malbun', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('malbun-fine_dining-3', 'malbun', 'fine_dining', 'Malbun Fine Dining 3', 4.3, 'Malbun', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('malbun-fine_dining-4', 'malbun', 'fine_dining', 'Malbun Bistro', 4.3, 'Malbun', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('malbun-fine_dining-5', 'malbun', 'fine_dining', 'Malbun Chef\'s Table', 4.4, 'Malbun', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('malbun-bakery-1', 'malbun', 'bakery', 'Malbun Bakery', 4.5, 'Malbun', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('malbun-bakery-2', 'malbun', 'bakery', 'Malbun Patisserie', 4.4, 'Malbun', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('malbun-bakery-3', 'malbun', 'bakery', 'Malbun Bread House', 4.3, 'Malbun', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('malbun-bakery-4', 'malbun', 'bakery', 'Café Bakery Malbun', 4.3, 'Malbun', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('malbun-cafe-1', 'malbun', 'cafe', 'Specialty Coffee Malbun', 4.5, 'Malbun', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('malbun-cafe-2', 'malbun', 'cafe', 'Old Town Café Malbun', 4.4, 'Malbun', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('malbun-cafe-3', 'malbun', 'cafe', 'Brunch Café Malbun', 4.3, 'Malbun', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('malbun-cafe-4', 'malbun', 'cafe', 'Espresso Bar Malbun', 4.3, 'Malbun', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('malbun-korean-1', 'malbun', 'korean', 'Korean Kitchen Malbun', 4.4, 'Malbun', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('malbun-korean-2', 'malbun', 'korean', 'Bibimbap Malbun', 4.3, 'Malbun', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('malbun-korean-3', 'malbun', 'korean', 'Korean BBQ Malbun', 4.3, 'Malbun', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('malbun-korean-4', 'malbun', 'korean', 'Kimchi House Malbun', 4.2, 'Malbun', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
+]

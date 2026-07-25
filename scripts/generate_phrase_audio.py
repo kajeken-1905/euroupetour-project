@@ -35,6 +35,18 @@ VOICES: dict[str, str] = {
     "hr": "hr-HR-GabrijelaNeural",
     "ie": "en-IE-EmilyNeural",
     "is": "is-IS-GudrunNeural",
+    "tr": "tr-TR-EmelNeural",
+    "bg": "bg-BG-KalinaNeural",
+    "ro": "ro-RO-AlinaNeural",
+    "mc": "fr-FR-DeniseNeural",
+    "va": "it-IT-ElsaNeural",
+    "ad": "ca-ES-JoanaNeural",
+    "li": "de-DE-KatjaNeural",
+}
+
+# Fallback voices when primary locale voice is unavailable
+VOICE_FALLBACKS: dict[str, str] = {
+    "ad": "es-ES-ElviraNeural",
 }
 
 PHRASES: dict[str, dict[str, str]] = {
@@ -192,6 +204,55 @@ PHRASES: dict[str, dict[str, str]] = {
         "thanks": "Takk",
         "howMuch": "Hvað kostar þetta?",
     },
+    "tr": {
+        "morning": "Günaydın",
+        "hello": "Merhaba",
+        "excuse": "Affedersiniz",
+        "thanks": "Teşekkürler",
+        "howMuch": "Ne kadar?",
+    },
+    "bg": {
+        "morning": "Добро утро",
+        "hello": "Здравей",
+        "excuse": "Извинете",
+        "thanks": "Благодаря",
+        "howMuch": "Колко струва?",
+    },
+    "ro": {
+        "morning": "Bună dimineața",
+        "hello": "Bună",
+        "excuse": "Scuzați-mă",
+        "thanks": "Mulțumesc",
+        "howMuch": "Cât costă?",
+    },
+    "mc": {
+        "morning": "Bonjour",
+        "hello": "Bonjour",
+        "excuse": "Excusez-moi",
+        "thanks": "Merci",
+        "howMuch": "Combien ça coûte ?",
+    },
+    "va": {
+        "morning": "Buongiorno",
+        "hello": "Ciao",
+        "excuse": "Mi scusi",
+        "thanks": "Grazie",
+        "howMuch": "Quanto costa?",
+    },
+    "ad": {
+        "morning": "Bon dia",
+        "hello": "Hola",
+        "excuse": "Perdó",
+        "thanks": "Gràcies",
+        "howMuch": "Quant val?",
+    },
+    "li": {
+        "morning": "Guten Morgen",
+        "hello": "Hallo",
+        "excuse": "Entschuldigung",
+        "thanks": "Danke",
+        "howMuch": "Was kostet das?",
+    },
 }
 
 
@@ -211,7 +272,14 @@ async def main() -> None:
             if out.exists() and out.stat().st_size > 1000:
                 print(f"skip {out.relative_to(ROOT)}")
                 continue
-            await synthesize(voice, text, out)
+            try:
+                await synthesize(voice, text, out)
+            except Exception as exc:
+                fallback = VOICE_FALLBACKS.get(country)
+                if not fallback:
+                    raise
+                print(f"voice {voice} failed for {country}/{phrase_id}: {exc}; trying {fallback}")
+                await synthesize(fallback, text, out)
             await asyncio.sleep(0.15)
 
 
