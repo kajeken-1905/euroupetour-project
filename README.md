@@ -1,6 +1,6 @@
 # My Vacation Plan
 
-유럽 15개국 여행 체크리스트 · 도시 가이드 웹앱  
+유럽 22개국 여행 체크리스트 · 도시 가이드 웹앱  
 **사이트:** https://kajeken-1905.github.io/hslee2/
 
 ## 로컬 실행

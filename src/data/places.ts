@@ -18,6 +18,13 @@ import { placesFRExtra } from './places-fr-extra'
 import { placesCHExtra } from './places-ch-extra'
 import { placesDEExtra } from './places-de-extra'
 import { placesITExtra } from './places-it-extra'
+import { placesESExtra } from './places-es-extra'
+import { placesPTExtra } from './places-pt-extra'
+import { placesGRExtra } from './places-gr-extra'
+import { placesPLExtra } from './places-pl-extra'
+import { placesHRExtra } from './places-hr-extra'
+import { placesIEExtra } from './places-ie-extra'
+import { placesISExtra } from './places-is-extra'
 import { placesFashion } from './places-fashion'
 import { placesGrocery } from './places-grocery'
 import { placesAsian } from './places-asian'
@@ -43,6 +50,13 @@ export const places: Place[] = [
   ...placesCHExtra,
   ...placesDEExtra,
   ...placesITExtra,
+  ...placesESExtra,
+  ...placesPTExtra,
+  ...placesGRExtra,
+  ...placesPLExtra,
+  ...placesHRExtra,
+  ...placesIEExtra,
+  ...placesISExtra,
   ...placesFashion,
   ...placesGrocery,
   ...placesAsian,

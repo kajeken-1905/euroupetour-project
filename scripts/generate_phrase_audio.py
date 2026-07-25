@@ -28,6 +28,13 @@ VOICES: dict[str, str] = {
     "ch": "de-CH-LeniNeural",
     "de": "de-DE-KatjaNeural",
     "it": "it-IT-ElsaNeural",
+    "es": "es-ES-ElviraNeural",
+    "pt": "pt-PT-RaquelNeural",
+    "gr": "el-GR-AthinaNeural",
+    "pl": "pl-PL-ZofiaNeural",
+    "hr": "hr-HR-GabrijelaNeural",
+    "ie": "en-IE-EmilyNeural",
+    "is": "is-IS-GudrunNeural",
 }
 
 PHRASES: dict[str, dict[str, str]] = {
@@ -135,6 +142,55 @@ PHRASES: dict[str, dict[str, str]] = {
         "excuse": "Mi scusi",
         "thanks": "Grazie",
         "howMuch": "Quanto costa?",
+    },
+    "es": {
+        "morning": "Buenos días",
+        "hello": "Hola",
+        "excuse": "Perdón",
+        "thanks": "Gracias",
+        "howMuch": "¿Cuánto cuesta?",
+    },
+    "pt": {
+        "morning": "Bom dia",
+        "hello": "Olá",
+        "excuse": "Com licença",
+        "thanks": "Obrigado",
+        "howMuch": "Quanto custa?",
+    },
+    "gr": {
+        "morning": "Καλημέρα",
+        "hello": "Γεια σας",
+        "excuse": "Συγνώμη",
+        "thanks": "Ευχαριστώ",
+        "howMuch": "Πόσο κοστίζει;",
+    },
+    "pl": {
+        "morning": "Dzień dobry",
+        "hello": "Cześć",
+        "excuse": "Przepraszam",
+        "thanks": "Dziękuję",
+        "howMuch": "Ile to kosztuje?",
+    },
+    "hr": {
+        "morning": "Dobro jutro",
+        "hello": "Bok",
+        "excuse": "Oprostite",
+        "thanks": "Hvala",
+        "howMuch": "Koliko košta?",
+    },
+    "ie": {
+        "morning": "Good morning",
+        "hello": "Hello",
+        "excuse": "Excuse me",
+        "thanks": "Thank you",
+        "howMuch": "How much is it?",
+    },
+    "is": {
+        "morning": "Góðan daginn",
+        "hello": "Halló",
+        "excuse": "Afsakið",
+        "thanks": "Takk",
+        "howMuch": "Hvað kostar þetta?",
     },
 }
 

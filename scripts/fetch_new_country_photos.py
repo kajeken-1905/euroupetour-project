@@ -26,65 +26,70 @@ CTX = ssl.create_default_context(cafile=certifi.where())
 FORCE = True
 
 JOBS = [
-    # France cities
-    ("cities/paris.jpg", "Paris Eiffel Tower skyline"),
-    ("cities/lyon.jpg", "Lyon France cityscape"),
-    ("cities/marseille.jpg", "Marseille Vieux Port"),
-    ("cities/nice.jpg", "Nice France Promenade des Anglais"),
-    ("cities/bordeaux.jpg", "Bordeaux France Place de la Bourse"),
-    # Switzerland cities
-    ("cities/zurich.jpg", "Zurich Switzerland lake skyline"),
-    ("cities/geneva.jpg", "Geneva Jet d'Eau"),
-    ("cities/bern.jpg", "Bern Switzerland old town"),
-    ("cities/lucerne.jpg", "Lucerne Chapel Bridge"),
-    ("cities/interlaken.jpg", "Interlaken Switzerland Alps"),
-    # Germany cities
-    ("cities/berlin.jpg", "Berlin Brandenburg Gate"),
-    ("cities/munich.jpg", "Munich Marienplatz"),
-    ("cities/hamburg.jpg", "Hamburg Speicherstadt"),
-    ("cities/cologne.jpg", "Cologne Cathedral"),
-    ("cities/frankfurt.jpg", "Frankfurt skyline Main"),
-    # Italy cities
-    ("cities/rome.jpg", "Rome Colosseum"),
-    ("cities/milan.jpg", "Milan Duomo cathedral"),
-    ("cities/florence.jpg", "Florence Duomo cathedral"),
-    ("cities/venice.jpg", "Venice Grand Canal"),
-    ("cities/naples.jpg", "Naples Italy bay Vesuvius"),
+    # Spain cities
+    ("cities/madrid.jpg", "Madrid Spain Gran Via Puerta del Sol"),
+    ("cities/barcelona.jpg", "Barcelona Spain Sagrada Familia skyline"),
+    ("cities/seville.jpg", "Seville Spain Plaza de Espana"),
+    ("cities/granada.jpg", "Alhambra Granada Spain"),
+    ("cities/valencia.jpg", "Valencia Spain City of Arts"),
+    ("cities/malaga.jpg", "Malaga Spain harbor cathedral"),
+    ("cities/bilbao.jpg", "Guggenheim Museum Bilbao Spain"),
+    ("cities/toledo.jpg", "Toledo Spain old town skyline"),
+    ("cities/cordoba.jpg", "Mosque Cathedral Cordoba Spain"),
+    ("cities/san-sebastian.jpg", "San Sebastian La Concha beach Spain"),
+    # Portugal cities
+    ("cities/lisbon.jpg", "Lisbon Portugal Alfama tram"),
+    ("cities/porto.jpg", "Porto Portugal Douro river Ribeira"),
+    ("cities/sintra.jpg", "Pena Palace Sintra Portugal"),
+    ("cities/faro.jpg", "Faro Portugal old town Algarve"),
+    ("cities/coimbra.jpg", "Coimbra Portugal university"),
+    ("cities/funchal.jpg", "Funchal Madeira Portugal harbor"),
+    ("cities/lagos.jpg", "Lagos Algarve Portugal cliffs"),
+    # Greece cities
+    ("cities/athens.jpg", "Acropolis Athens Greece Parthenon"),
+    ("cities/santorini.jpg", "Santorini Oia white houses Greece"),
+    ("cities/heraklion.jpg", "Heraklion Crete harbor Greece"),
+    ("cities/mykonos.jpg", "Mykonos windmills Greece"),
+    ("cities/rhodes.jpg", "Rhodes old town Greece"),
+    ("cities/thessaloniki.jpg", "Thessaloniki White Tower Greece"),
+    ("cities/corfu.jpg", "Corfu old town Greece"),
+    ("cities/nafplio.jpg", "Nafplio fortress Greece"),
+    # Poland cities
+    ("cities/warsaw.jpg", "Warsaw Old Town Poland"),
+    ("cities/krakow.jpg", "Krakow Main Square Poland"),
+    ("cities/gdansk.jpg", "Gdansk old town Poland"),
+    ("cities/wroclaw.jpg", "Wroclaw Market Square Poland"),
+    ("cities/poznan.jpg", "Poznan Old Market Poland"),
+    ("cities/zakopane.jpg", "Zakopane Tatra mountains Poland"),
+    ("cities/torun.jpg", "Torun old town Poland"),
+    # Croatia cities
+    ("cities/zagreb.jpg", "Zagreb Croatia cathedral square"),
+    ("cities/dubrovnik.jpg", "Dubrovnik old town walls Croatia"),
+    ("cities/split.jpg", "Split Diocletian Palace Croatia"),
+    ("cities/zadar.jpg", "Zadar Croatia seafront"),
+    ("cities/rovinj.jpg", "Rovinj Croatia old town harbor"),
+    ("cities/hvar.jpg", "Hvar Croatia island town"),
+    # Ireland cities
+    ("cities/dublin.jpg", "Dublin Ireland Temple Bar Ha'penny Bridge"),
+    ("cities/galway.jpg", "Galway Ireland colorful streets"),
+    ("cities/cork.jpg", "Cork Ireland River Lee"),
+    ("cities/killarney.jpg", "Killarney National Park Ireland"),
+    ("cities/kilkenny.jpg", "Kilkenny Castle Ireland"),
+    ("cities/limerick.jpg", "Limerick Ireland King Johns Castle"),
+    # Iceland cities
+    ("cities/reykjavik.jpg", "Reykjavik Hallgrimskirkja Iceland"),
+    ("cities/akureyri.jpg", "Akureyri Iceland town fjord"),
+    ("cities/vik.jpg", "Vik Iceland black sand beach"),
+    ("cities/husavik.jpg", "Husavik Iceland harbor"),
+    ("cities/selfoss.jpg", "Selfoss Iceland town"),
     # Landmarks
-    ("landmarks/landmark-fr.jpg", "Eiffel Tower Paris"),
-    ("landmarks/landmark-ch.jpg", "Matterhorn Switzerland"),
-    ("landmarks/landmark-de.jpg", "Brandenburg Gate Berlin"),
-    ("landmarks/landmark-it.jpg", "Colosseum Rome"),
-    # Extra FR/CH/DE/IT cities
-    ("cities/strasbourg.jpg", "Strasbourg cathedral Petite France"),
-    ("cities/annecy.jpg", "Lake Annecy France"),
-    ("cities/avignon.jpg", "Palais des Papes Avignon"),
-    ("cities/basel.jpg", "Basel Rhine Minster"),
-    ("cities/zermatt.jpg", "Matterhorn Zermatt"),
-    ("cities/lausanne.jpg", "Lausanne Ouchy cathedral"),
-    ("cities/dresden.jpg", "Zwinger Dresden Frauenkirche"),
-    ("cities/heidelberg.jpg", "Heidelberg Castle"),
-    ("cities/nuremberg.jpg", "Nuremberg Castle Hauptmarkt"),
-    ("cities/bologna.jpg", "Bologna Two Towers Piazza Maggiore"),
-    ("cities/verona.jpg", "Verona Arena"),
-    ("cities/turin.jpg", "Mole Antonelliana Turin"),
-    # Batch2 FR/CH/DE/IT cities
-    ("cities/toulouse.jpg", "Toulouse Capitole pink city France"),
-    ("cities/montpellier.jpg", "Montpellier Place de la Comedie France"),
-    ("cities/dijon.jpg", "Dijon Palace of the Dukes France"),
-    ("cities/chamonix.jpg", "Chamonix Mont Blanc Alps France"),
-    ("cities/lugano.jpg", "Lugano lake Switzerland"),
-    ("cities/montreux.jpg", "Montreux Lake Geneva Switzerland"),
-    ("cities/grindelwald.jpg", "Grindelwald Alps Switzerland"),
-    ("cities/st-moritz.jpg", "St Moritz lake Alps Switzerland"),
-    ("cities/stuttgart.jpg", "Stuttgart Schlossplatz Germany"),
-    ("cities/leipzig.jpg", "Leipzig Markt square Germany"),
-    ("cities/rothenburg.jpg", "Rothenburg ob der Tauber Germany"),
-    ("cities/potsdam.jpg", "Sanssouci Palace Potsdam Germany"),
-    ("cities/amalfi.jpg", "Amalfi coast Italy town"),
-    ("cities/siena.jpg", "Siena Piazza del Campo Italy"),
-    ("cities/genoa.jpg", "Genoa harbor Italy"),
-    ("cities/palermo.jpg", "Palermo cathedral Sicily Italy"),
+    ("landmarks/landmark-es.jpg", "Sagrada Familia Barcelona Spain"),
+    ("landmarks/landmark-pt.jpg", "Belem Tower Lisbon Portugal"),
+    ("landmarks/landmark-gr.jpg", "Acropolis Parthenon Athens Greece"),
+    ("landmarks/landmark-pl.jpg", "Wawel Castle Krakow Poland"),
+    ("landmarks/landmark-hr.jpg", "Dubrovnik city walls Croatia"),
+    ("landmarks/landmark-ie.jpg", "Cliffs of Moher Ireland"),
+    ("landmarks/landmark-is.jpg", "Hallgrimskirkja Reykjavik Iceland"),
 ]
 
 
@@ -194,8 +199,8 @@ def main() -> None:
     fail = 0
     for rel, query in JOBS:
         out = ROOT / "public" / rel
-        if not FORCE and out.exists() and out.stat().st_size > 80000:
-            print(f"skip {rel}")
+        if out.exists() and out.stat().st_size >= 30_000:
+            print(f"skip {rel} ({out.stat().st_size // 1024}KB)")
             continue
         try:
             src = find_image(query)
