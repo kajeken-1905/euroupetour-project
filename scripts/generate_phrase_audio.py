@@ -21,6 +21,9 @@ VOICES: dict[str, str] = {
     "fi": "fi-FI-NooraNeural",
     "se": "sv-SE-SofieNeural",
     "dk": "da-DK-ChristelNeural",
+    "at": "de-AT-IngridNeural",
+    "hu": "hu-HU-NoemiNeural",
+    "cz": "cs-CZ-VlastaNeural",
 }
 
 PHRASES: dict[str, dict[str, str]] = {
@@ -80,6 +83,27 @@ PHRASES: dict[str, dict[str, str]] = {
         "thanks": "Tak",
         "howMuch": "Hvor meget koster det?",
     },
+    "at": {
+        "morning": "Guten Morgen",
+        "hello": "Hallo",
+        "excuse": "Entschuldigung",
+        "thanks": "Danke",
+        "howMuch": "Was kostet das?",
+    },
+    "hu": {
+        "morning": "Jó reggelt",
+        "hello": "Szia",
+        "excuse": "Elnézést",
+        "thanks": "Köszönöm",
+        "howMuch": "Mennyibe kerül?",
+    },
+    "cz": {
+        "morning": "Dobré ráno",
+        "hello": "Ahoj",
+        "excuse": "Promiňte",
+        "thanks": "Děkuji",
+        "howMuch": "Kolik to stojí?",
+    },
 }
 
 
@@ -91,16 +115,16 @@ async def synthesize(voice: str, text: str, path: Path) -> None:
 
 
 async def main() -> None:
-    tasks = []
+    # Only (re)generate missing files to avoid hitting rate limits.
     for country, lines in PHRASES.items():
         voice = VOICES[country]
         for phrase_id, text in lines.items():
             out = OUT / country / f"{phrase_id}.mp3"
-            tasks.append(synthesize(voice, text, out))
-    # sequential to avoid rate limits
-    for task in tasks:
-        await task
-        await asyncio.sleep(0.15)
+            if out.exists() and out.stat().st_size > 1000:
+                print(f"skip {out.relative_to(ROOT)}")
+                continue
+            await synthesize(voice, text, out)
+            await asyncio.sleep(0.15)
 
 
 if __name__ == "__main__":

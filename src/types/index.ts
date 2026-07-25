@@ -28,7 +28,7 @@ export interface Country {
     currency: { ko: string; en: string }
   }
   /** 환율 조회용 ISO 코드 */
-  currencyCode: 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK'
+  currencyCode: 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK'
   currencySymbol: string
   /** 솅겐 지역 가입 여부 */
   schengen: boolean

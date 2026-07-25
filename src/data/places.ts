@@ -11,6 +11,9 @@ import { placesNOExtra } from './places-no-extra'
 import { placesFIExtra } from './places-fi-extra'
 import { placesSEExtra } from './places-se-extra'
 import { placesDKExtra } from './places-dk-extra'
+import { placesATExtra } from './places-at-extra'
+import { placesHUExtra } from './places-hu-extra'
+import { placesCZExtra } from './places-cz-extra'
 import { placesFashion } from './places-fashion'
 import { placesGrocery } from './places-grocery'
 import { placesAsian } from './places-asian'
@@ -29,6 +32,9 @@ export const places: Place[] = [
   ...placesFIExtra,
   ...placesSEExtra,
   ...placesDKExtra,
+  ...placesATExtra,
+  ...placesHUExtra,
+  ...placesCZExtra,
   ...placesFashion,
   ...placesGrocery,
   ...placesAsian,
