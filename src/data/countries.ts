@@ -347,7 +347,7 @@ export const countries: Country[] = [
       background: '#EEF0F8',
       text: '#0A0A30',
     },
-    cityIds: ['paris', 'lyon', 'marseille', 'nice', 'bordeaux'],
+    cityIds: ['paris', 'lyon', 'marseille', 'nice', 'bordeaux', 'strasbourg', 'annecy', 'avignon', 'toulouse', 'montpellier', 'dijon', 'chamonix'],
   },
   {
     id: 'ch',
@@ -376,7 +376,7 @@ export const countries: Country[] = [
       background: '#FCE8E8',
       text: '#3A0000',
     },
-    cityIds: ['zurich', 'geneva', 'bern', 'lucerne', 'interlaken'],
+    cityIds: ['zurich', 'geneva', 'bern', 'lucerne', 'interlaken', 'basel', 'zermatt', 'lausanne', 'lugano', 'montreux', 'grindelwald', 'st-moritz'],
   },
   {
     id: 'de',
@@ -405,7 +405,7 @@ export const countries: Country[] = [
       background: '#F5F5F5',
       text: '#1A1A1A',
     },
-    cityIds: ['berlin', 'munich', 'hamburg', 'cologne', 'frankfurt'],
+    cityIds: ['berlin', 'munich', 'hamburg', 'cologne', 'frankfurt', 'dresden', 'heidelberg', 'nuremberg', 'stuttgart', 'leipzig', 'rothenburg', 'potsdam'],
   },
   {
     id: 'it',
@@ -434,7 +434,7 @@ export const countries: Country[] = [
       background: '#E8F5EE',
       text: '#0A2A18',
     },
-    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples'],
+    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples', 'bologna', 'verona', 'turin', 'amalfi', 'siena', 'genoa', 'palermo'],
   },
 ]
 

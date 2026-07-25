@@ -143,8 +143,11 @@ def main() -> None:
     fail: list[tuple[str, str, str]] = []
     used: set[str] = set()
 
+    MIN_BYTES = 30_000
     for hid, city_en, en, img_path in items:
-        if hid in done:
+        out_check = ROOT / "public" / img_path.lstrip("/")
+        needs = (not out_check.exists()) or out_check.stat().st_size < MIN_BYTES
+        if hid in done and not needs:
             success += 1
             continue
         query = f"{en} {city_en}".strip()
