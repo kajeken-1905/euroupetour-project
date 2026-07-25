@@ -109,7 +109,7 @@ def parse_items() -> list[tuple[str, str, str, str]]:
     items: list[tuple[str, str, str, str]] = []
     for cm in re.finditer(
         r'id: "([^"]+)",\n\s+countryId: "[^"]+",\n\s+signatureImage: "[^"]+",\n'
-        r'\s+name: \{ ko: "[^"]*", en: "([^"]*)" \},[\s\S]*?highlights: \[([\s\S]*?)\],\n  \},',
+        r'\s+name: \{ ko: "[^"]*", en: "([^"]*)" \},[\s\S]*?highlights: \[([\s\S]*?)\],\n  \},?',
         text,
     ):
         city_id, city_en, block = cm.group(1), cm.group(2), cm.group(3)

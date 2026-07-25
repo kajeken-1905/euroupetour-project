@@ -160,6 +160,50 @@ export const countryPhrases: Record<string, CountryPhrases> = {
       howMuch: 'Kolik to stojí?',
     }),
   },
+  fr: {
+    languageLabel: { ko: '프랑스어', en: 'French' },
+    speechLangs: ['fr-FR', 'fr'],
+    lines: lines({
+      morning: 'Bonjour',
+      hello: 'Salut',
+      excuse: 'Excusez-moi',
+      thanks: 'Merci',
+      howMuch: 'Combien ça coûte ?',
+    }),
+  },
+  ch: {
+    languageLabel: { ko: '독일어·프랑스어', en: 'German / French' },
+    speechLangs: ['de-CH', 'de-DE', 'fr-CH', 'fr-FR'],
+    lines: lines({
+      morning: 'Guten Morgen',
+      hello: 'Grüezi',
+      excuse: 'Entschuldigung',
+      thanks: 'Danke',
+      howMuch: 'Was kostet das?',
+    }),
+  },
+  de: {
+    languageLabel: { ko: '독일어', en: 'German' },
+    speechLangs: ['de-DE', 'de'],
+    lines: lines({
+      morning: 'Guten Morgen',
+      hello: 'Hallo',
+      excuse: 'Entschuldigung',
+      thanks: 'Danke',
+      howMuch: 'Was kostet das?',
+    }),
+  },
+  it: {
+    languageLabel: { ko: '이탈리아어', en: 'Italian' },
+    speechLangs: ['it-IT', 'it'],
+    lines: lines({
+      morning: 'Buongiorno',
+      hello: 'Ciao',
+      excuse: 'Mi scusi',
+      thanks: 'Grazie',
+      howMuch: 'Quanto costa?',
+    }),
+  },
 }
 
 export function getCountryPhrases(countryId: string): CountryPhrases | undefined {

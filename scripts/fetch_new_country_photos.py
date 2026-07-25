@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Fetch Openverse photos for new AT/HU/CZ city signatures + landmarks."""
+"""Fetch Openverse (Wikimedia fallback) photos for city signatures + landmarks.
+
+Force-overwrites existing files so small placeholders are replaced.
+"""
 
 from __future__ import annotations
 
@@ -19,25 +22,39 @@ ROOT = Path(__file__).resolve().parents[1]
 UA = "MyVacationPlan/1.0 (educational class project)"
 CTX = ssl.create_default_context(cafile=certifi.where())
 
+# Force overwrite always (user requested real photos for new countries).
+FORCE = True
+
 JOBS = [
-    ("cities/vienna.jpg", "Vienna skyline"),
-    ("cities/salzburg.jpg", "Salzburg old town"),
-    ("cities/innsbruck.jpg", "Innsbruck Alps"),
-    ("cities/graz.jpg", "Graz Schlossberg"),
-    ("cities/hallstatt.jpg", "Hallstatt lake Austria"),
-    ("cities/budapest.jpg", "Budapest parliament Danube"),
-    ("cities/debrecen.jpg", "Debrecen Great Church"),
-    ("cities/pecs.jpg", "Pecs Hungary"),
-    ("cities/szeged.jpg", "Szeged Votive Church"),
-    ("cities/eger.jpg", "Eger Castle Hungary"),
-    ("cities/prague.jpg", "Prague Charles Bridge"),
-    ("cities/brno.jpg", "Brno Czech Republic"),
-    ("cities/cesky-krumlov.jpg", "Cesky Krumlov castle"),
-    ("cities/karlovy-vary.jpg", "Karlovy Vary colonnade"),
-    ("cities/ceske-budejovice.jpg", "Ceske Budejovice square"),
-    ("landmarks/landmark-at.jpg", "Schönbrunn Palace Vienna"),
-    ("landmarks/landmark-hu.jpg", "Hungarian Parliament Budapest"),
-    ("landmarks/landmark-cz.jpg", "Prague Castle"),
+    # France cities
+    ("cities/paris.jpg", "Paris Eiffel Tower skyline"),
+    ("cities/lyon.jpg", "Lyon France cityscape"),
+    ("cities/marseille.jpg", "Marseille Vieux Port"),
+    ("cities/nice.jpg", "Nice France Promenade des Anglais"),
+    ("cities/bordeaux.jpg", "Bordeaux France Place de la Bourse"),
+    # Switzerland cities
+    ("cities/zurich.jpg", "Zurich Switzerland lake skyline"),
+    ("cities/geneva.jpg", "Geneva Jet d'Eau"),
+    ("cities/bern.jpg", "Bern Switzerland old town"),
+    ("cities/lucerne.jpg", "Lucerne Chapel Bridge"),
+    ("cities/interlaken.jpg", "Interlaken Switzerland Alps"),
+    # Germany cities
+    ("cities/berlin.jpg", "Berlin Brandenburg Gate"),
+    ("cities/munich.jpg", "Munich Marienplatz"),
+    ("cities/hamburg.jpg", "Hamburg Speicherstadt"),
+    ("cities/cologne.jpg", "Cologne Cathedral"),
+    ("cities/frankfurt.jpg", "Frankfurt skyline Main"),
+    # Italy cities
+    ("cities/rome.jpg", "Rome Colosseum"),
+    ("cities/milan.jpg", "Milan Duomo cathedral"),
+    ("cities/florence.jpg", "Florence Duomo cathedral"),
+    ("cities/venice.jpg", "Venice Grand Canal"),
+    ("cities/naples.jpg", "Naples Italy bay Vesuvius"),
+    # Landmarks
+    ("landmarks/landmark-fr.jpg", "Eiffel Tower Paris"),
+    ("landmarks/landmark-ch.jpg", "Matterhorn Switzerland"),
+    ("landmarks/landmark-de.jpg", "Brandenburg Gate Berlin"),
+    ("landmarks/landmark-it.jpg", "Colosseum Rome"),
 ]
 
 
@@ -49,7 +66,7 @@ def open_url(url: str) -> bytes:
                 return r.read()
         except urllib.error.HTTPError as e:
             if e.code in (429, 503):
-                time.sleep(min(30, 2 ** attempt))
+                time.sleep(min(30, 2**attempt))
                 continue
             raise
         except Exception:
@@ -57,7 +74,7 @@ def open_url(url: str) -> bytes:
     raise RuntimeError(url)
 
 
-def find_image(query: str) -> str | None:
+def find_openverse(query: str) -> str | None:
     qs = urllib.parse.urlencode(
         {
             "q": query,
@@ -71,7 +88,57 @@ def find_image(query: str) -> str | None:
         src = item.get("url") or item.get("thumbnail")
         if src:
             return src
+    # retry without category
+    qs2 = urllib.parse.urlencode(
+        {
+            "q": query,
+            "page_size": "8",
+            "license": "cc0,pdm,by,by-sa,by-nc,by-nd,by-nc-sa,by-nc-nd",
+        }
+    )
+    data = json.loads(open_url("https://api.openverse.org/v1/images/?" + qs2).decode())
+    for item in data.get("results") or []:
+        src = item.get("url") or item.get("thumbnail")
+        if src:
+            return src
     return None
+
+
+def find_wikimedia(query: str) -> str | None:
+    qs = urllib.parse.urlencode(
+        {
+            "action": "query",
+            "format": "json",
+            "generator": "search",
+            "gsrsearch": query,
+            "gsrlimit": "5",
+            "gsrnamespace": "6",
+            "prop": "imageinfo",
+            "iiprop": "url|mime|size",
+            "iiurlwidth": "1600",
+        }
+    )
+    data = json.loads(open_url("https://commons.wikimedia.org/w/api.php?" + qs).decode())
+    pages = (data.get("query") or {}).get("pages") or {}
+    for page in pages.values():
+        infos = page.get("imageinfo") or []
+        if not infos:
+            continue
+        info = infos[0]
+        mime = (info.get("mime") or "").lower()
+        if not mime.startswith("image/") or "svg" in mime:
+            continue
+        url = info.get("thumburl") or info.get("url")
+        if url:
+            return url
+    return None
+
+
+def find_image(query: str) -> str | None:
+    src = find_openverse(query)
+    if src:
+        return src
+    return find_wikimedia(query)
 
 
 def save_cover(url: str, out: Path) -> None:
@@ -93,21 +160,28 @@ def save_cover(url: str, out: Path) -> None:
 
 
 def main() -> None:
+    ok = 0
+    fail = 0
     for rel, query in JOBS:
         out = ROOT / "public" / rel
-        if out.exists() and out.stat().st_size > 5000:
+        if not FORCE and out.exists() and out.stat().st_size > 80000:
             print(f"skip {rel}")
             continue
         try:
             src = find_image(query)
             if not src:
                 print(f"FAIL no image {rel} {query!r}")
+                fail += 1
                 continue
             save_cover(src, out)
-            print(f"OK {rel} <- {query!r}")
+            size = out.stat().st_size
+            print(f"OK {rel} ({size // 1024}KB) <- {query!r}")
+            ok += 1
         except Exception as e:
             print(f"FAIL {rel} {type(e).__name__}:{e}")
+            fail += 1
         time.sleep(0.35)
+    print(f"DONE ok={ok} fail={fail}")
 
 
 if __name__ == "__main__":

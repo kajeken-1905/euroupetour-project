@@ -24,6 +24,10 @@ VOICES: dict[str, str] = {
     "at": "de-AT-IngridNeural",
     "hu": "hu-HU-NoemiNeural",
     "cz": "cs-CZ-VlastaNeural",
+    "fr": "fr-FR-DeniseNeural",
+    "ch": "de-CH-LeniNeural",
+    "de": "de-DE-KatjaNeural",
+    "it": "it-IT-ElsaNeural",
 }
 
 PHRASES: dict[str, dict[str, str]] = {
@@ -103,6 +107,34 @@ PHRASES: dict[str, dict[str, str]] = {
         "excuse": "Promiňte",
         "thanks": "Děkuji",
         "howMuch": "Kolik to stojí?",
+    },
+    "fr": {
+        "morning": "Bonjour",
+        "hello": "Salut",
+        "excuse": "Excusez-moi",
+        "thanks": "Merci",
+        "howMuch": "Combien ça coûte?",
+    },
+    "ch": {
+        "morning": "Guten Morgen",
+        "hello": "Grüezi",
+        "excuse": "Entschuldigung",
+        "thanks": "Danke",
+        "howMuch": "Was kostet das?",
+    },
+    "de": {
+        "morning": "Guten Morgen",
+        "hello": "Hallo",
+        "excuse": "Entschuldigung",
+        "thanks": "Danke",
+        "howMuch": "Was kostet das?",
+    },
+    "it": {
+        "morning": "Buongiorno",
+        "hello": "Ciao",
+        "excuse": "Mi scusi",
+        "thanks": "Grazie",
+        "howMuch": "Quanto costa?",
     },
 }
 
