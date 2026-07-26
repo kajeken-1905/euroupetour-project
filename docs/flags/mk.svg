@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 28">
+  <rect width="37" height="28" fill="#D20000"/>
+  <circle cx="18.5" cy="14" r="5" fill="#FFE600"/>
+  <polygon points="18.5,14 0,0 8,0" fill="#FFE600"/>
+  <polygon points="18.5,14 29,0 37,0" fill="#FFE600"/>
+  <polygon points="18.5,14 37,8 37,18" fill="#FFE600"/>
+  <polygon points="18.5,14 29,28 37,28" fill="#FFE600"/>
+  <polygon points="18.5,14 8,28 0,28" fill="#FFE600"/>
+  <polygon points="18.5,14 0,18 0,8" fill="#FFE600"/>
+  <circle cx="18.5" cy="14" r="4" fill="#D20000"/>
+  <circle cx="18.5" cy="14" r="3.2" fill="#FFE600"/>
+</svg>

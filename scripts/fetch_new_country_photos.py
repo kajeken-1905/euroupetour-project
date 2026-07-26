@@ -26,39 +26,52 @@ CTX = ssl.create_default_context(cafile=certifi.where())
 FORCE = True
 
 JOBS = [
-    # Slovakia cities
-    ("cities/bratislava.jpg", "Bratislava Castle Slovakia Danube"),
-    ("cities/kosice.jpg", "Kosice Slovakia St Elizabeth Cathedral"),
-    ("cities/poprad.jpg", "Poprad Slovakia High Tatras"),
-    ("cities/banska-bystrica.jpg", "Banska Bystrica Slovakia SNP Square"),
-    ("cities/trencin.jpg", "Trencin Castle Slovakia"),
-    # Slovenia cities
-    ("cities/ljubljana.jpg", "Ljubljana Castle Slovenia old town"),
-    ("cities/bled.jpg", "Lake Bled Slovenia island church"),
-    ("cities/piran.jpg", "Piran Slovenia Tartini Square Adriatic"),
-    ("cities/maribor.jpg", "Maribor Slovenia old town Drava"),
-    ("cities/postojna.jpg", "Postojna Cave Slovenia"),
-    # Bosnia cities
-    ("cities/sarajevo.jpg", "Sarajevo Bosnia Bascarsija"),
-    ("cities/mostar.jpg", "Mostar Old Bridge Bosnia"),
-    ("cities/banja-luka.jpg", "Banja Luka Bosnia Kastel fortress"),
-    ("cities/travnik.jpg", "Travnik Bosnia old town fortress"),
-    # Montenegro cities
-    ("cities/kotor.jpg", "Kotor Bay Montenegro old town"),
-    ("cities/budva.jpg", "Budva old town Montenegro Adriatic"),
-    ("cities/podgorica.jpg", "Podgorica Montenegro Millennium Bridge"),
-    ("cities/herceg-novi.jpg", "Herceg Novi Montenegro bay"),
-    # Serbia cities
-    ("cities/belgrade.jpg", "Belgrade Fortress Kalemegdan Serbia"),
-    ("cities/novi-sad.jpg", "Novi Sad Serbia Petrovaradin fortress"),
-    ("cities/nis.jpg", "Nis Serbia fortress city"),
-    ("cities/subotica.jpg", "Subotica Serbia City Hall Art Nouveau"),
+    # Georgia
+    ("cities/tbilisi.jpg", "Tbilisi old town Narikala Georgia"),
+    ("cities/batumi.jpg", "Batumi Georgia Black Sea boulevard"),
+    ("cities/kutaisi.jpg", "Kutaisi Georgia Bagrati Cathedral"),
+    ("cities/stepantsminda.jpg", "Stepantsminda Kazbegi Gergeti Trinity Church"),
+    ("cities/sighnaghi.jpg", "Sighnaghi Georgia Kakheti wall town"),
+    # North Macedonia
+    ("cities/skopje.jpg", "Skopje Macedonia Stone Bridge plaza"),
+    ("cities/ohrid.jpg", "Ohrid lake Macedonia old town"),
+    ("cities/bitola.jpg", "Bitola Macedonia Sirok Sokak"),
+    ("cities/tetovo.jpg", "Tetovo Macedonia Painted Mosque"),
+    # Cyprus
+    ("cities/nicosia.jpg", "Nicosia Cyprus old town Venetian walls"),
+    ("cities/limassol.jpg", "Limassol Cyprus marina seafront"),
+    ("cities/paphos.jpg", "Paphos Cyprus harbour castle"),
+    ("cities/ayia-napa.jpg", "Ayia Napa Cyprus beach cape greco"),
+    # Albania
+    ("cities/tirana.jpg", "Tirana Albania Skanderbeg Square"),
+    ("cities/berat.jpg", "Berat Albania white ottoman houses"),
+    ("cities/gjirokaster.jpg", "Gjirokaster Albania stone old town"),
+    ("cities/sarande.jpg", "Sarande Albania Ionian seafront"),
+    # Malta
+    ("cities/valletta.jpg", "Valletta Malta harbour fortifications"),
+    ("cities/mdina.jpg", "Mdina Malta silent city walls"),
+    ("cities/gozo.jpg", "Gozo Malta Victoria Citadel"),
+    # Estonia
+    ("cities/tallinn.jpg", "Tallinn Estonia old town walls"),
+    ("cities/tartu.jpg", "Tartu Estonia town hall square"),
+    ("cities/parnu.jpg", "Parnu Estonia beach promenade"),
+    # Latvia
+    ("cities/riga.jpg", "Riga Latvia old town house of blackheads"),
+    ("cities/jurmala.jpg", "Jurmala Latvia wooden villas beach"),
+    ("cities/sigulda.jpg", "Sigulda Latvia Turaida castle Gauja"),
+    # Lithuania
+    ("cities/vilnius.jpg", "Vilnius Lithuania old town cathedral"),
+    ("cities/kaunas.jpg", "Kaunas Lithuania old town town hall"),
+    ("cities/klaipeda.jpg", "Klaipeda Lithuania old town theatre square"),
     # Landmarks
-    ("landmarks/landmark-sk.jpg", "Bratislava Castle Slovakia"),
-    ("landmarks/landmark-si.jpg", "Lake Bled Slovenia island"),
-    ("landmarks/landmark-ba.jpg", "Mostar Old Bridge Stari Most Bosnia"),
-    ("landmarks/landmark-me.jpg", "Kotor Bay Montenegro"),
-    ("landmarks/landmark-rs.jpg", "Belgrade Fortress Kalemegdan Serbia"),
+    ("landmarks/landmark-ge.jpg", "Tbilisi Narikala old town Georgia"),
+    ("landmarks/landmark-mk.jpg", "Ohrid lake Macedonia church"),
+    ("landmarks/landmark-cy.jpg", "Paphos Aphrodite Rock Cyprus"),
+    ("landmarks/landmark-al.jpg", "Berat Albania ottoman houses UNESCO"),
+    ("landmarks/landmark-mt.jpg", "Valletta Malta Grand Harbour"),
+    ("landmarks/landmark-ee.jpg", "Tallinn old town Estonia"),
+    ("landmarks/landmark-lv.jpg", "Riga old town Latvia"),
+    ("landmarks/landmark-lt.jpg", "Vilnius old town Lithuania"),
 ]
 
 

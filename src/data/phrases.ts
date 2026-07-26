@@ -413,6 +413,95 @@ export const countryPhrases: Record<string, CountryPhrases> = {
       howMuch: 'Koliko košta?',
     }),
   },
+
+  ge: {
+    languageLabel: { ko: '조지아어', en: 'Georgian' },
+    speechLangs: ['ka-GE', 'ka'],
+    lines: lines({
+      morning: 'დილა მშვიდობისა',
+      hello: 'გამარჯობა',
+      excuse: 'ბოდიში',
+      thanks: 'გმადლობთ',
+      howMuch: 'რა ღირს?',
+    }),
+  },
+  mk: {
+    languageLabel: { ko: '마케도니아어', en: 'Macedonian' },
+    speechLangs: ['mk-MK', 'mk'],
+    lines: lines({
+      morning: 'Добро утро',
+      hello: 'Здраво',
+      excuse: 'Извинете',
+      thanks: 'Благодарам',
+      howMuch: 'Колку чини?',
+    }),
+  },
+  cy: {
+    languageLabel: { ko: '그리스어 (키프로스)', en: 'Greek (Cyprus)' },
+    speechLangs: ['el-CY', 'el-GR', 'el'],
+    lines: lines({
+      morning: 'Καλημέρα',
+      hello: 'Γεια σας',
+      excuse: 'Συγνώμη',
+      thanks: 'Ευχαριστώ',
+      howMuch: 'Πόσο κοστίζει;',
+    }),
+  },
+  al: {
+    languageLabel: { ko: '알바니아어', en: 'Albanian' },
+    speechLangs: ['sq-AL', 'sq'],
+    lines: lines({
+      morning: 'Mirëmëngjes',
+      hello: 'Tungjatjeta',
+      excuse: 'Më falni',
+      thanks: 'Faleminderit',
+      howMuch: 'Sa kushton?',
+    }),
+  },
+  mt: {
+    languageLabel: { ko: '몰타어', en: 'Maltese' },
+    speechLangs: ['mt-MT', 'mt', 'en-MT', 'en-GB'],
+    lines: lines({
+      morning: 'Bonġu',
+      hello: 'Hello',
+      excuse: 'Skużani',
+      thanks: 'Grazzi',
+      howMuch: 'Kemm jiswa?',
+    }),
+  },
+  ee: {
+    languageLabel: { ko: '에스토니아어', en: 'Estonian' },
+    speechLangs: ['et-EE', 'et'],
+    lines: lines({
+      morning: 'Tere hommikust',
+      hello: 'Tere',
+      excuse: 'Vabandust',
+      thanks: 'Aitäh',
+      howMuch: 'Kui palju maksab?',
+    }),
+  },
+  lv: {
+    languageLabel: { ko: '라트비아어', en: 'Latvian' },
+    speechLangs: ['lv-LV', 'lv'],
+    lines: lines({
+      morning: 'Labrīt',
+      hello: 'Sveiki',
+      excuse: 'Atvainojiet',
+      thanks: 'Paldies',
+      howMuch: 'Cik tas maksā?',
+    }),
+  },
+  lt: {
+    languageLabel: { ko: '리투아니아어', en: 'Lithuanian' },
+    speechLangs: ['lt-LT', 'lt'],
+    lines: lines({
+      morning: 'Labas rytas',
+      hello: 'Labas',
+      excuse: 'Atsiprašau',
+      thanks: 'Ačiū',
+      howMuch: 'Kiek kainuoja?',
+    }),
+  },
 }
 
 export function getCountryPhrases(countryId: string): CountryPhrases | undefined {

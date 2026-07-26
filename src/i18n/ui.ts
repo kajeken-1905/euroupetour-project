@@ -6,8 +6,8 @@ export const ui = {
     en: 'My Vacation Plan',
   },
   appSubtitle: {
-    ko: '34개국 유명 도시의 맛집·쇼핑 가이드',
-    en: 'Food & shopping guide across 34 countries’ top cities',
+    ko: '42개국 유명 도시의 맛집·쇼핑 가이드',
+    en: 'Food & shopping guide across 42 countries’ top cities',
   },
   checklistSubtitle: {
     ko: '출국 전 준비사항을 기록하세요',

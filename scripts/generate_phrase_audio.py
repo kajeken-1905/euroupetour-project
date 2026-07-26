@@ -47,12 +47,22 @@ VOICES: dict[str, str] = {
     "ba": "hr-HR-GabrijelaNeural",
     "me": "sr-RS-SophieNeural",
     "rs": "sr-RS-SophieNeural",
+    "ge": "ka-GE-EkaNeural",
+    "mk": "mk-MK-MarijaNeural",
+    "cy": "el-GR-AthinaNeural",
+    "al": "sq-AL-AnilaNeural",
+    "mt": "mt-MT-GraceNeural",
+    "ee": "et-EE-AnuNeural",
+    "lv": "lv-LV-EveritaNeural",
+    "lt": "lt-LT-OnaNeural",
 }
 
 # Fallback voices when primary locale voice is unavailable
 VOICE_FALLBACKS: dict[str, str] = {
     "ad": "es-ES-ElviraNeural",
     "ba": "sr-RS-SophieNeural",
+    "al": "sq-AL-IlirNeural",
+    "mt": "en-GB-SoniaNeural",
 }
 
 PHRASES: dict[str, dict[str, str]] = {
@@ -293,6 +303,62 @@ PHRASES: dict[str, dict[str, str]] = {
         "excuse": "Izvinite",
         "thanks": "Hvala",
         "howMuch": "Koliko košta?",
+    },
+    "ge": {
+        "morning": "დილა მშვიდობისა",
+        "hello": "გამარჯობა",
+        "excuse": "ბოდიში",
+        "thanks": "გმადლობთ",
+        "howMuch": "რა ღირს?",
+    },
+    "mk": {
+        "morning": "Добро утро",
+        "hello": "Здраво",
+        "excuse": "Извинете",
+        "thanks": "Благодарам",
+        "howMuch": "Колку чини?",
+    },
+    "cy": {
+        "morning": "Καλημέρα",
+        "hello": "Γεια σας",
+        "excuse": "Συγνώμη",
+        "thanks": "Ευχαριστώ",
+        "howMuch": "Πόσο κοστίζει;",
+    },
+    "al": {
+        "morning": "Mirëmëngjes",
+        "hello": "Tungjatjeta",
+        "excuse": "Më falni",
+        "thanks": "Faleminderit",
+        "howMuch": "Sa kushton?",
+    },
+    "mt": {
+        "morning": "Bonġu",
+        "hello": "Hello",
+        "excuse": "Skużani",
+        "thanks": "Grazzi",
+        "howMuch": "Kemm jiswa?",
+    },
+    "ee": {
+        "morning": "Tere hommikust",
+        "hello": "Tere",
+        "excuse": "Vabandust",
+        "thanks": "Aitäh",
+        "howMuch": "Kui palju maksab?",
+    },
+    "lv": {
+        "morning": "Labrīt",
+        "hello": "Sveiki",
+        "excuse": "Atvainojiet",
+        "thanks": "Paldies",
+        "howMuch": "Cik tas maksā?",
+    },
+    "lt": {
+        "morning": "Labas rytas",
+        "hello": "Labas",
+        "excuse": "Atsiprašau",
+        "thanks": "Ačiū",
+        "howMuch": "Kiek kainuoja?",
     },
 }
 
