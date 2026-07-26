@@ -883,4 +883,9 @@ export const placesFashion: Place[] = [
   place('girona-fashion-1', 'girona', 'fashion', 'Girona fashion street', 4.3, 'Girona', '[패션] Girona 메인 패션 거리.', '[Fashion] Girona fashion street.', { reviewCount: 1400 }),
   place('girona-fashion-2', 'girona', 'fashion', 'Girona outlet / day trip', 4.2, 'Girona', '[아울렛] Girona 권역 아울렛.', '[Outlet] Girona-area outlet.', { reviewCount: 1200 }),
   place('girona-fashion-3', 'girona', 'fashion', 'Girona mall fashion', 4.2, 'Girona', '[패션] Girona 몰 패션.', '[Fashion] Girona mall fashion.', { reviewCount: 1000 }),
+
+  // —— palma ——
+  place('palma-fashion-1', 'palma', 'fashion', 'Palma fashion street', 4.3, 'Palma', '[패션] Palma 메인 패션 거리.', '[Fashion] Palma fashion street.', { reviewCount: 1400 }),
+  place('palma-fashion-2', 'palma', 'fashion', 'Palma outlet / day trip', 4.2, 'Palma', '[아울렛] Palma 권역 아울렛.', '[Outlet] Palma-area outlet.', { reviewCount: 1200 }),
+  place('palma-fashion-3', 'palma', 'fashion', 'Palma mall fashion', 4.2, 'Palma', '[패션] Palma 몰 패션.', '[Fashion] Palma mall fashion.', { reviewCount: 1000 }),
 ]

@@ -881,4 +881,9 @@ export const placesAsian: Place[] = [
   place('girona-asian-1', 'girona', 'asian', 'Asian dining Girona', 4.3, 'Girona', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
   place('girona-asian-2', 'girona', 'asian', 'Sushi / ramen Girona', 4.3, 'Girona', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
   place('girona-asian-3', 'girona', 'asian', 'Thai / Vietnamese Girona', 4.2, 'Girona', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
+
+  // —— palma ——
+  place('palma-asian-1', 'palma', 'asian', 'Asian dining Palma', 4.3, 'Palma', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
+  place('palma-asian-2', 'palma', 'asian', 'Sushi / ramen Palma', 4.3, 'Palma', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
+  place('palma-asian-3', 'palma', 'asian', 'Thai / Vietnamese Palma', 4.2, 'Palma', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
 ]

@@ -1136,4 +1136,10 @@ export const placesGrocery: Place[] = [
   place('girona-grocery-2', 'girona', 'grocery', 'Hypermarket near Girona', 4.1, 'Girona', '[대형마트] Girona 근교 대형마트.', '[Hypermarket] Near Girona.', { reviewCount: 1600 }),
   place('girona-grocery-3', 'girona', 'grocery', 'Supermarket Girona', 4.0, 'Girona', '[슈퍼] Girona 슈퍼마켓.', '[Supermarket] Girona supermarket.', { reviewCount: 1200 }),
   place('girona-grocery-4', 'girona', 'grocery', 'Specialty groceries Girona', 4.3, 'Girona', '[식료품점] 특산·유기농 식료품.', '[Grocery] Specialty groceries.', { reviewCount: 800 }),
+
+  // —— palma ——
+  place('palma-grocery-1', 'palma', 'grocery', 'Palma food market', 4.4, 'Palma', '[식료품] Palma 식료품 마켓.', '[Grocery] Palma food market.', { reviewCount: 2200 }),
+  place('palma-grocery-2', 'palma', 'grocery', 'Hypermarket near Palma', 4.1, 'Palma', '[대형마트] Palma 근교 대형마트.', '[Hypermarket] Near Palma.', { reviewCount: 1600 }),
+  place('palma-grocery-3', 'palma', 'grocery', 'Supermarket Palma', 4.0, 'Palma', '[슈퍼] Palma 슈퍼마켓.', '[Supermarket] Palma supermarket.', { reviewCount: 1200 }),
+  place('palma-grocery-4', 'palma', 'grocery', 'Specialty groceries Palma', 4.3, 'Palma', '[식료품점] 특산·유기농 식료품.', '[Grocery] Specialty groceries.', { reviewCount: 800 }),
 ]

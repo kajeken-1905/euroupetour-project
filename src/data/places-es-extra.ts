@@ -306,4 +306,23 @@ export const placesESExtra: Place[] = [
   place('girona-korean-3', 'girona', 'korean', 'Korean BBQ Girona', 4.3, 'Girona', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
   place('girona-korean-4', 'girona', 'korean', 'Kimchi House Girona', 4.2, 'Girona', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
+  // —— palma ——
+  place('palma-fine_dining-1', 'palma', 'fine_dining', 'Palma Fine Dining 1', 4.5, 'Palma', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('palma-fine_dining-2', 'palma', 'fine_dining', 'Palma Fine Dining 2', 4.4, 'Palma', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('palma-fine_dining-3', 'palma', 'fine_dining', 'Palma Fine Dining 3', 4.3, 'Palma', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('palma-fine_dining-4', 'palma', 'fine_dining', 'Palma Bistro', 4.3, 'Palma', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('palma-fine_dining-5', 'palma', 'fine_dining', 'Palma Chef\'s Table', 4.4, 'Palma', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('palma-bakery-1', 'palma', 'bakery', 'Palma Bakery', 4.5, 'Palma', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('palma-bakery-2', 'palma', 'bakery', 'Palma Patisserie', 4.4, 'Palma', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('palma-bakery-3', 'palma', 'bakery', 'Palma Bread House', 4.3, 'Palma', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('palma-bakery-4', 'palma', 'bakery', 'Café Bakery Palma', 4.3, 'Palma', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('palma-cafe-1', 'palma', 'cafe', 'Specialty Coffee Palma', 4.5, 'Palma', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('palma-cafe-2', 'palma', 'cafe', 'Old Town Café Palma', 4.4, 'Palma', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('palma-cafe-3', 'palma', 'cafe', 'Brunch Café Palma', 4.3, 'Palma', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('palma-cafe-4', 'palma', 'cafe', 'Espresso Bar Palma', 4.3, 'Palma', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('palma-korean-1', 'palma', 'korean', 'Korean Kitchen Palma', 4.4, 'Palma', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('palma-korean-2', 'palma', 'korean', 'Bibimbap Palma', 4.3, 'Palma', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('palma-korean-3', 'palma', 'korean', 'Korean BBQ Palma', 4.3, 'Palma', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('palma-korean-4', 'palma', 'korean', 'Kimchi House Palma', 4.2, 'Palma', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
 ]
