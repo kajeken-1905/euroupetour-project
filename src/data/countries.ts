@@ -463,7 +463,7 @@ export const countries: Country[] = [
       background: '#FDF6E3',
       text: '#3A1010',
     },
-    cityIds: ['madrid', 'barcelona', 'seville', 'granada', 'valencia', 'malaga', 'bilbao', 'toledo', 'cordoba', 'san-sebastian'],
+    cityIds: ['madrid', 'barcelona', 'seville', 'granada', 'valencia', 'malaga', 'bilbao', 'toledo', 'cordoba', 'san-sebastian', 'zaragoza', 'salamanca', 'santiago', 'segovia', 'ronda', 'girona'],
   },
   {
     id: 'pt',
@@ -492,7 +492,7 @@ export const countries: Country[] = [
       background: '#E8F5E8',
       text: '#0A2A0A',
     },
-    cityIds: ['lisbon', 'porto', 'sintra', 'faro', 'coimbra', 'funchal', 'lagos'],
+    cityIds: ['lisbon', 'porto', 'sintra', 'faro', 'coimbra', 'funchal', 'lagos', 'cascais', 'aveiro', 'fatima', 'evora', 'obidos', 'braga'],
   },
   {
     id: 'gr',
