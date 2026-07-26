@@ -5683,10 +5683,10 @@ export const cities: City[] = [
       },
       {
         id: "madrid-h5",
-        name: { ko: "그란 비아", en: "Gran Vía" },
-        description: { ko: "쇼핑·극장 대로입니다.", en: "Shopping and theatre avenue." },
+        name: { ko: "솔 광장", en: "Puerta del Sol" },
+        description: { ko: "마드리드의 중심 광장. ‘킬로미터 0’이 있습니다.", en: "Madrid’s central square—home of Kilometre Zero." },
         image: "/highlights/madrid-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gran%20V%C3%ADa%20Madrid",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Puerta%20del%20Sol%20Madrid",
       }
     ],
   },
@@ -5765,8 +5765,8 @@ export const cities: City[] = [
       },
       {
         id: "seville-h3",
-        name: { ko: "플라사 데 에스파냐", en: "Plaza de España" },
-        description: { ko: "반원형 광장과 운하입니다.", en: "Semicircle plaza and canal." },
+        name: { ko: "스페인 광장", en: "Plaza de España" },
+        description: { ko: "반원형 광장과 운하·다리의 상징 명소입니다.", en: "Iconic semicircle plaza with canal and bridges." },
         image: "/highlights/seville-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20de%20Espa%C3%B1a%20Seville",
       },
