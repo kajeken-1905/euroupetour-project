@@ -358,6 +358,61 @@ export const countryPhrases: Record<string, CountryPhrases> = {
       howMuch: 'Was kostet das?',
     }),
   },
+  sk: {
+    languageLabel: { ko: '슬로바키아어', en: 'Slovak' },
+    speechLangs: ['sk-SK', 'sk'],
+    lines: lines({
+      morning: 'Dobré ráno',
+      hello: 'Ahoj',
+      excuse: 'Prepáčte',
+      thanks: 'Ďakujem',
+      howMuch: 'Koľko to stojí?',
+    }),
+  },
+  si: {
+    languageLabel: { ko: '슬로베니아어', en: 'Slovenian' },
+    speechLangs: ['sl-SI', 'sl'],
+    lines: lines({
+      morning: 'Dobro jutro',
+      hello: 'Živjo',
+      excuse: 'Oprostite',
+      thanks: 'Hvala',
+      howMuch: 'Koliko stane?',
+    }),
+  },
+  ba: {
+    languageLabel: { ko: '보스니아어', en: 'Bosnian' },
+    speechLangs: ['bs-BA', 'hr-HR', 'sr-RS'],
+    lines: lines({
+      morning: 'Dobro jutro',
+      hello: 'Zdravo',
+      excuse: 'Izvinite',
+      thanks: 'Hvala',
+      howMuch: 'Koliko košta?',
+    }),
+  },
+  me: {
+    languageLabel: { ko: '몬테네그로어', en: 'Montenegrin' },
+    speechLangs: ['sr-RS', 'hr-HR', 'sr'],
+    lines: lines({
+      morning: 'Dobro jutro',
+      hello: 'Zdravo',
+      excuse: 'Izvinite',
+      thanks: 'Hvala',
+      howMuch: 'Koliko košta?',
+    }),
+  },
+  rs: {
+    languageLabel: { ko: '세르비아어', en: 'Serbian' },
+    speechLangs: ['sr-RS', 'sr'],
+    lines: lines({
+      morning: 'Dobro jutro',
+      hello: 'Zdravo',
+      excuse: 'Izvinite',
+      thanks: 'Hvala',
+      howMuch: 'Koliko košta?',
+    }),
+  },
 }
 
 export function getCountryPhrases(countryId: string): CountryPhrases | undefined {

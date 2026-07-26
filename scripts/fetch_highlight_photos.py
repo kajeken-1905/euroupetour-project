@@ -85,8 +85,56 @@ def openverse_image(query: str, exclude: set[str]) -> str | None:
     return None
 
 
+
+
+def wikimedia_image(query: str, exclude: set[str]) -> str | None:
+    qs = urllib.parse.urlencode(
+        {
+            "action": "query",
+            "format": "json",
+            "generator": "search",
+            "gsrsearch": query,
+            "gsrlimit": "8",
+            "gsrnamespace": "6",
+            "prop": "imageinfo",
+            "iiprop": "url|mime|size",
+            "iiurlwidth": "1600",
+        }
+    )
+    data = json.loads(open_url("https://commons.wikimedia.org/w/api.php?" + qs, "application/json").decode())
+    pages = (data.get("query") or {}).get("pages") or {}
+    for page in pages.values():
+        infos = page.get("imageinfo") or []
+        if not infos:
+            continue
+        info = infos[0]
+        mime = (info.get("mime") or "").lower()
+        if not mime.startswith("image/") or "svg" in mime:
+            continue
+        url = info.get("thumburl") or info.get("url")
+        if url and url not in exclude:
+            return url
+    return None
+
+def wiki_thumb(url: str, width: int = 1280) -> str:
+    if "upload.wikimedia.org" not in url or "/thumb/" in url:
+        return url
+    try:
+        marker = "/wikipedia/"
+        i = url.index(marker)
+        rest = url[i + len(marker):]
+        parts = rest.split("/")
+        if len(parts) < 4:
+            return url
+        project, a, b, name = parts[0], parts[1], parts[2], "/".join(parts[3:])
+        fname = name.split("/")[-1]
+        return f"https://upload.wikimedia.org/wikipedia/{project}/thumb/{a}/{b}/{name}/{width}px-{fname}"
+    except Exception:
+        return url
+
+
 def save_cover(url: str, out_path: Path) -> None:
-    raw = open_url(url)
+    raw = open_url(wiki_thumb(url))
     img = Image.open(BytesIO(raw)).convert("RGB")
     w, h = img.size
     target = 1200 / 800
@@ -157,6 +205,12 @@ def main() -> None:
                 src = openverse_image(en, used)
             if not src:
                 src = openverse_image(city_en, used)
+            if not src:
+                src = wikimedia_image(query, used)
+            if not src:
+                src = wikimedia_image(en, used)
+            if not src:
+                src = wikimedia_image(city_en, used)
         except Exception as e:
             fail.append((hid, en, f"search:{type(e).__name__}:{e}"))
             log(f"FAIL {hid} {en!r} search:{type(e).__name__}:{e}")

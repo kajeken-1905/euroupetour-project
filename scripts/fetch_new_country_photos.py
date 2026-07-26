@@ -26,49 +26,39 @@ CTX = ssl.create_default_context(cafile=certifi.where())
 FORCE = True
 
 JOBS = [
-    # Turkey cities
-    ("cities/istanbul.jpg", "Istanbul Turkey Hagia Sophia Blue Mosque"),
-    ("cities/ankara.jpg", "Ankara Turkey Anitkabir"),
-    ("cities/izmir.jpg", "Izmir Turkey Konak clock tower"),
-    ("cities/antalya.jpg", "Antalya Turkey old harbor"),
-    ("cities/goreme.jpg", "Goreme Cappadocia Turkey fairy chimneys"),
-    ("cities/bursa.jpg", "Bursa Turkey Green Mosque"),
-    ("cities/trabzon.jpg", "Trabzon Turkey Sumela monastery"),
-    ("cities/pamukkale.jpg", "Pamukkale Turkey travertine terraces"),
-    # Bulgaria cities
-    ("cities/sofia.jpg", "Sofia Bulgaria Alexander Nevsky Cathedral"),
-    ("cities/plovdiv.jpg", "Plovdiv Bulgaria old town Roman theater"),
-    ("cities/varna.jpg", "Varna Bulgaria Black Sea beach"),
-    ("cities/veliko-tarnovo.jpg", "Veliko Tarnovo Bulgaria Tsarevets fortress"),
-    ("cities/nessebar.jpg", "Nessebar Bulgaria old town churches"),
-    # Romania cities
-    ("cities/bucharest.jpg", "Bucharest Romania Palace of Parliament"),
-    ("cities/brasov.jpg", "Brasov Romania Black Church"),
-    ("cities/sibiu.jpg", "Sibiu Romania old town square"),
-    ("cities/sighisoara.jpg", "Sighisoara Romania medieval citadel"),
-    ("cities/cluj-napoca.jpg", "Cluj-Napoca Romania Saint Michael Church"),
-    ("cities/timisoara.jpg", "Timisoara Romania Union Square"),
-    # Monaco
-    ("cities/monaco.jpg", "Monaco Prince Palace Rock"),
-    ("cities/monte-carlo.jpg", "Monte Carlo Casino Monaco"),
-    # Vatican
-    ("cities/vatican-city.jpg", "St Peters Basilica Vatican City"),
-    # Andorra
-    ("cities/andorra-la-vella.jpg", "Andorra la Vella mountains casa"),
-    ("cities/pas-de-la-casa.jpg", "Pas de la Casa Andorra mountains ski"),
-    ("cities/ordino.jpg", "Ordino Andorra valley village"),
-    # Liechtenstein
-    ("cities/vaduz.jpg", "Vaduz Castle Liechtenstein"),
-    ("cities/schaan.jpg", "Schaan Liechtenstein town"),
-    ("cities/malbun.jpg", "Malbun Liechtenstein alpine village ski"),
+    # Slovakia cities
+    ("cities/bratislava.jpg", "Bratislava Castle Slovakia Danube"),
+    ("cities/kosice.jpg", "Kosice Slovakia St Elizabeth Cathedral"),
+    ("cities/poprad.jpg", "Poprad Slovakia High Tatras"),
+    ("cities/banska-bystrica.jpg", "Banska Bystrica Slovakia SNP Square"),
+    ("cities/trencin.jpg", "Trencin Castle Slovakia"),
+    # Slovenia cities
+    ("cities/ljubljana.jpg", "Ljubljana Castle Slovenia old town"),
+    ("cities/bled.jpg", "Lake Bled Slovenia island church"),
+    ("cities/piran.jpg", "Piran Slovenia Tartini Square Adriatic"),
+    ("cities/maribor.jpg", "Maribor Slovenia old town Drava"),
+    ("cities/postojna.jpg", "Postojna Cave Slovenia"),
+    # Bosnia cities
+    ("cities/sarajevo.jpg", "Sarajevo Bosnia Bascarsija"),
+    ("cities/mostar.jpg", "Mostar Old Bridge Bosnia"),
+    ("cities/banja-luka.jpg", "Banja Luka Bosnia Kastel fortress"),
+    ("cities/travnik.jpg", "Travnik Bosnia old town fortress"),
+    # Montenegro cities
+    ("cities/kotor.jpg", "Kotor Bay Montenegro old town"),
+    ("cities/budva.jpg", "Budva old town Montenegro Adriatic"),
+    ("cities/podgorica.jpg", "Podgorica Montenegro Millennium Bridge"),
+    ("cities/herceg-novi.jpg", "Herceg Novi Montenegro bay"),
+    # Serbia cities
+    ("cities/belgrade.jpg", "Belgrade Fortress Kalemegdan Serbia"),
+    ("cities/novi-sad.jpg", "Novi Sad Serbia Petrovaradin fortress"),
+    ("cities/nis.jpg", "Nis Serbia fortress city"),
+    ("cities/subotica.jpg", "Subotica Serbia City Hall Art Nouveau"),
     # Landmarks
-    ("landmarks/landmark-tr.jpg", "Hagia Sophia Istanbul Turkey"),
-    ("landmarks/landmark-bg.jpg", "Alexander Nevsky Cathedral Sofia Bulgaria"),
-    ("landmarks/landmark-ro.jpg", "Palace of the Parliament Bucharest Romania"),
-    ("landmarks/landmark-mc.jpg", "Monte Carlo Casino Monaco"),
-    ("landmarks/landmark-va.jpg", "St Peters Basilica Vatican"),
-    ("landmarks/landmark-ad.jpg", "Andorra la Vella mountains Casa de la Vall"),
-    ("landmarks/landmark-li.jpg", "Vaduz Castle Liechtenstein"),
+    ("landmarks/landmark-sk.jpg", "Bratislava Castle Slovakia"),
+    ("landmarks/landmark-si.jpg", "Lake Bled Slovenia island"),
+    ("landmarks/landmark-ba.jpg", "Mostar Old Bridge Stari Most Bosnia"),
+    ("landmarks/landmark-me.jpg", "Kotor Bay Montenegro"),
+    ("landmarks/landmark-rs.jpg", "Belgrade Fortress Kalemegdan Serbia"),
 ]
 
 

@@ -42,11 +42,17 @@ VOICES: dict[str, str] = {
     "va": "it-IT-ElsaNeural",
     "ad": "ca-ES-JoanaNeural",
     "li": "de-DE-KatjaNeural",
+    "sk": "sk-SK-ViktoriaNeural",
+    "si": "sl-SI-PetraNeural",
+    "ba": "hr-HR-GabrijelaNeural",
+    "me": "sr-RS-SophieNeural",
+    "rs": "sr-RS-SophieNeural",
 }
 
 # Fallback voices when primary locale voice is unavailable
 VOICE_FALLBACKS: dict[str, str] = {
     "ad": "es-ES-ElviraNeural",
+    "ba": "sr-RS-SophieNeural",
 }
 
 PHRASES: dict[str, dict[str, str]] = {
@@ -252,6 +258,41 @@ PHRASES: dict[str, dict[str, str]] = {
         "excuse": "Entschuldigung",
         "thanks": "Danke",
         "howMuch": "Was kostet das?",
+    },
+    "sk": {
+        "morning": "Dobré ráno",
+        "hello": "Ahoj",
+        "excuse": "Prepáčte",
+        "thanks": "Ďakujem",
+        "howMuch": "Koľko to stojí?",
+    },
+    "si": {
+        "morning": "Dobro jutro",
+        "hello": "Živjo",
+        "excuse": "Oprostite",
+        "thanks": "Hvala",
+        "howMuch": "Koliko stane?",
+    },
+    "ba": {
+        "morning": "Dobro jutro",
+        "hello": "Zdravo",
+        "excuse": "Izvinite",
+        "thanks": "Hvala",
+        "howMuch": "Koliko košta?",
+    },
+    "me": {
+        "morning": "Dobro jutro",
+        "hello": "Zdravo",
+        "excuse": "Izvinite",
+        "thanks": "Hvala",
+        "howMuch": "Koliko košta?",
+    },
+    "rs": {
+        "morning": "Dobro jutro",
+        "hello": "Zdravo",
+        "excuse": "Izvinite",
+        "thanks": "Hvala",
+        "howMuch": "Koliko košta?",
     },
 }
 
