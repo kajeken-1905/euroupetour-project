@@ -1916,7 +1916,14 @@ export const cities: City[] = [
         image: "/highlights/helsinki-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Seurasaari",
       },
-    ],
+      {
+        id: "helsinki-h7",
+        name: { ko: "대통령궁", en: "Presidential Palace" },
+        description: { ko: "항구 옆의 옛 제국·왕실 궁전입니다.", en: "Waterfront former imperial palace, now presidential." },
+        image: "/highlights/helsinki-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Presidential%20Palace%20Helsinki",
+      }
+],
   },
   {
     id: "turku",
@@ -2875,8 +2882,15 @@ export const cities: City[] = [
         description: { ko: "파프리카·스트리트푸드 대형 시장입니다.", en: "Paprika and street-food market hall." },
         image: "/highlights/budapest-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Great%20Market%20Hall%20Budapest",
+      },
+      {
+        id: "budapest-h7",
+        name: { ko: "부다 왕궁", en: "Buda Castle Palace" },
+        description: { ko: "다뉴브가 내려다보이는 부다 언덕의 왕궁입니다.", en: "Royal palace complex overlooking the Danube." },
+        image: "/highlights/budapest-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Buda%20Castle%20Palace%20Budapest",
       }
-    ],
+],
   },
   {
     id: "debrecen",
@@ -3362,8 +3376,15 @@ export const cities: City[] = [
         description: { ko: "샹젤리제 끝의 개선문입니다.", en: "Triumphal arch at the top of the Champs-Élysées." },
         image: "/highlights/paris-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Arc%20de%20Triomphe%20Paris",
+      },
+      {
+        id: "paris-h7",
+        name: { ko: "베르사유 궁전", en: "Palace of Versailles" },
+        description: { ko: "태양왕의 바로크 궁전과 정원입니다.", en: "Sun King’s baroque palace and gardens." },
+        image: "/highlights/paris-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Versailles",
       }
-    ],
+],
   },
   {
     id: "lyon",
@@ -3856,8 +3877,15 @@ export const cities: City[] = [
         description: { ko: "도심 대형 공원입니다.", en: "Central city park." },
         image: "/highlights/berlin-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tiergarten%20Berlin",
+      },
+      {
+        id: "berlin-h7",
+        name: { ko: "샤를로텐부르크 궁전", en: "Charlottenburg Palace" },
+        description: { ko: "프로이센 왕실의 바로크 궁전과 정원입니다.", en: "Prussian royal baroque palace and gardens." },
+        image: "/highlights/berlin-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Charlottenburg%20Palace%20Berlin",
       }
-    ],
+],
   },
   {
     id: "munich",
@@ -4103,8 +4131,15 @@ export const cities: City[] = [
         description: { ko: "고대 로마의 중심 유적입니다.", en: "Heart of ancient Rome." },
         image: "/highlights/rome-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roman%20Forum",
+      },
+      {
+        id: "rome-h7",
+        name: { ko: "퀴리날레 궁전", en: "Quirinal Palace" },
+        description: { ko: "이탈리아 대통령 관저이자 옛 왕궁입니다.", en: "Presidential residence and former royal palace." },
+        image: "/highlights/rome-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palazzo%20del%20Quirinale%20Rome",
       }
-    ],
+],
   },
   {
     id: "milan",
@@ -5669,10 +5704,10 @@ export const cities: City[] = [
       },
       {
         id: "madrid-h3",
-        name: { ko: "왕궁", en: "Royal Palace" },
-        description: { ko: "유럽 최대급 왕궁 단지입니다.", en: "One of Europe’s largest palaces." },
+        name: { ko: "마드리드 왕궁", en: "Royal Palace of Madrid" },
+        description: { ko: "팔라시오 레알. 유럽 최대급 왕궁 단지입니다.", en: "Palacio Real—one of Europe’s largest royal palaces." },
         image: "/highlights/madrid-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20Madrid",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palacio%20Real%20Madrid",
       },
       {
         id: "madrid-h4",
@@ -6455,8 +6490,15 @@ export const cities: City[] = [
         description: { ko: "미식 푸드홀입니다.", en: "Gourmet food hall." },
         image: "/highlights/lisbon-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Time%20Out%20Market%20Lisbon",
+      },
+      {
+        id: "lisbon-h6",
+        name: { ko: "아주다 왕궁", en: "Ajuda National Palace" },
+        description: { ko: "리스본의 네오클래식 왕실 궁전입니다.", en: "Neoclassical royal palace of Lisbon." },
+        image: "/highlights/lisbon-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20Nacional%20da%20Ajuda%20Lisbon",
       }
-    ],
+],
   },
   {
     id: "porto",
@@ -7079,8 +7121,15 @@ export const cities: City[] = [
         description: { ko: "시장과 루프톱 전망입니다.", en: "Bazaar and rooftop views." },
         image: "/highlights/athens-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Monastiraki",
+      },
+      {
+        id: "athens-h6",
+        name: { ko: "구왕궁", en: "Old Royal Palace" },
+        description: { ko: "신타그마 광장의 옛 왕궁(현 의회의사당)입니다.", en: "Former royal palace on Syntagma—now Parliament." },
+        image: "/highlights/athens-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hellenic%20Parliament%20Athens%20Old%20Royal%20Palace",
       }
-    ],
+],
   },
   {
     id: "santorini",
@@ -7438,10 +7487,10 @@ export const cities: City[] = [
       },
       {
         id: "warsaw-h2",
-        name: { ko: "왕궁광장", en: "Castle Square" },
-        description: { ko: "지기스문트 탑이 있는 광장입니다.", en: "Square with Sigismund’s Column." },
+        name: { ko: "바르샤바 왕궁", en: "Royal Castle of Warsaw" },
+        description: { ko: "구시가 왕궁광장의 재건된 왕궁입니다.", en: "Rebuilt royal castle on Castle Square." },
         image: "/highlights/warsaw-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Castle%20Square%20Warsaw",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Royal%20Castle%20Warsaw",
       },
       {
         id: "warsaw-h3",
@@ -8615,8 +8664,15 @@ export const cities: City[] = [
         description: { ko: "구시가 전망의 중세 탑입니다.", en: "Medieval tower with old-town views." },
         image: "/highlights/istanbul-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Galata%20Tower",
+      },
+      {
+        id: "istanbul-h6",
+        name: { ko: "톱카프 궁전", en: "Topkapi Palace" },
+        description: { ko: "오스만 제국의 상징 왕궁과 하렘입니다.", en: "Ottoman imperial palace and harem." },
+        image: "/highlights/istanbul-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Topkapi%20Palace%20Istanbul",
       }
-    ],
+],
   },
   {
     id: "ankara",
@@ -8999,8 +9055,15 @@ export const cities: City[] = [
         description: { ko: "도심 옆 하이킹·스키 산입니다.", en: "City-side hiking and ski mountain." },
         image: "/highlights/sofia-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vitosha%20Mountain",
+      },
+      {
+        id: "sofia-h6",
+        name: { ko: "왕궁", en: "Former Royal Palace" },
+        description: { ko: "도심의 옛 불가리아 왕궁 건물입니다.", en: "Former Bulgarian royal palace in the centre." },
+        image: "/highlights/sofia-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20Sofia%20Bulgaria",
       }
-    ],
+],
   },
   {
     id: "plovdiv",
@@ -9239,8 +9302,15 @@ export const cities: City[] = [
         description: { ko: "돔형 콘서트홀입니다.", en: "Domed concert hall." },
         image: "/highlights/bucharest-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Romanian%20Athenaeum",
+      },
+      {
+        id: "bucharest-h6",
+        name: { ko: "왕궁", en: "Royal Palace of Bucharest" },
+        description: { ko: "혁명광장의 옛 왕궁(국립미술관)입니다.", en: "Former royal palace on Revolution Square." },
+        image: "/highlights/bucharest-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20Bucharest%20National%20Museum%20of%20Art",
       }
-    ],
+],
   },
   {
     id: "brasov",
@@ -10823,8 +10893,15 @@ export const cities: City[] = [
         description: { ko: "도나우 전망의 구시가 지구입니다.", en: "Old quarter with Danube views." },
         image: "/highlights/belgrade-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zemun%20Belgrade",
+      },
+      {
+        id: "belgrade-h6",
+        name: { ko: "구왕궁", en: "Old Palace" },
+        description: { ko: "도심의 세르비아 왕실 구왕궁입니다.", en: "Former Serbian royal Old Palace in the centre." },
+        image: "/highlights/belgrade-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stari%20Dvor%20Belgrade%20Old%20Palace",
       }
-    ],
+],
   },
   {
     id: "novi-sad",
@@ -11971,10 +12048,10 @@ export const cities: City[] = [
       },
       {
         id: "tallinn-h5",
-        name: { ko: "카드리오르그", en: "Kadriorg" },
-        description: { ko: "궁전과 공원의 바로크 지구입니다.", en: "Baroque palace and park district." },
+        name: { ko: "카드리오르그 궁전", en: "Kadriorg Palace" },
+        description: { ko: "표트르 대제가 지은 바로크 궁전과 공원입니다.", en: "Baroque palace and park built for Peter the Great." },
         image: "/highlights/tallinn-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kadriorg%20Tallinn",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kadriorg%20Palace%20Tallinn",
       }
     ],
   },
