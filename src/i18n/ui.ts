@@ -94,13 +94,32 @@ export const ui = {
     en: 'What should I check before departure?',
   },
   chatbotThinking: { ko: '답변 작성 중…', en: 'Thinking…' },
+  chatbotKeyTitle: { ko: 'OpenAI API 키', en: 'OpenAI API key' },
+  chatbotKeyHelp: {
+    ko: 'GitHub Pages에서는 아래 칸에 키를 넣고 저장하세요. 이 기기에만 저장되며 GitHub에는 올라가지 않습니다.',
+    en: 'On GitHub Pages, paste your key below and save. It stays on this device only and is never committed.',
+  },
+  chatbotKeyPlaceholder: {
+    ko: 'sk-... 키를 붙여넣기',
+    en: 'Paste sk-... key',
+  },
+  chatbotKeySave: { ko: '키 저장', en: 'Save key' },
+  chatbotKeyClear: { ko: '키 삭제', en: 'Clear key' },
+  chatbotKeyReady: {
+    ko: '키가 준비되었습니다. 질문을 입력해 보세요.',
+    en: 'API key ready. You can ask a question.',
+  },
+  chatbotKeySaved: {
+    ko: '키를 저장했습니다. 이제 채팅할 수 있습니다.',
+    en: 'Key saved. You can chat now.',
+  },
   chatbotMissingKey: {
-    ko: 'OpenAI API 키가 없습니다. 프로젝트 폴더에 .env 파일을 만들고 VITE_OPENAI_API_KEY를 넣은 뒤 개발 서버를 다시 실행하세요.',
-    en: 'No OpenAI API key. Create a .env file with VITE_OPENAI_API_KEY, then restart the dev server.',
+    ko: 'API 키가 없습니다. 위에 키를 입력하고 저장해 주세요. (로컬 개발 시 .env의 VITE_OPENAI_API_KEY도 사용됩니다.)',
+    en: 'No API key yet. Enter and save a key above. (Local .env VITE_OPENAI_API_KEY also works.)',
   },
   chatbotUnauthorized: {
-    ko: 'API 키가 유효하지 않습니다. .env의 VITE_OPENAI_API_KEY를 확인하세요.',
-    en: 'Invalid API key. Check VITE_OPENAI_API_KEY in your .env file.',
+    ko: 'API 키가 유효하지 않습니다. 키를 다시 저장해 주세요.',
+    en: 'Invalid API key. Please save a valid key again.',
   },
   chatbotRateLimit: {
     ko: '요청이 너무 많습니다. 잠시 후 다시 시도하세요.',

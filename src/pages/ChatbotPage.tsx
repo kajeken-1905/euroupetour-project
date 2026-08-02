@@ -4,8 +4,10 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 import {
+  clearStoredApiKey,
   hasOpenAIKey,
   sendChatCompletion,
+  setStoredApiKey,
   type ChatMessage,
 } from '../services/openaiChat'
 
@@ -30,14 +32,30 @@ export function ChatbotPage() {
   const [input, setInput] = useState('')
   const [busy, setBusy] = useState(false)
   const [messages, setMessages] = useState<UiMessage[]>([])
+  const [keyReady, setKeyReady] = useState(() => hasOpenAIKey())
+  const [keyDraft, setKeyDraft] = useState('')
+  const [keySavedNote, setKeySavedNote] = useState(false)
   const listRef = useRef<HTMLDivElement>(null)
-  const keyReady = hasOpenAIKey()
 
   useEffect(() => {
     const el = listRef.current
     if (!el) return
     el.scrollTop = el.scrollHeight
   }, [messages, busy])
+
+  function handleSaveKey(e: FormEvent) {
+    e.preventDefault()
+    setStoredApiKey(keyDraft)
+    setKeyReady(hasOpenAIKey())
+    setKeyDraft('')
+    setKeySavedNote(true)
+  }
+
+  function handleClearKey() {
+    clearStoredApiKey()
+    setKeyReady(hasOpenAIKey())
+    setKeySavedNote(false)
+  }
 
   async function handleSubmit(e: FormEvent) {
     e.preventDefault()
@@ -99,11 +117,38 @@ export function ChatbotPage() {
         <LanguageToggle />
       </header>
 
-      {!keyReady && (
-        <p className="chatbot-banner" role="status">
-          {t('chatbotMissingKey', lang)}
-        </p>
-      )}
+      <section className="chatbot-key-panel" aria-label={t('chatbotKeyTitle', lang)}>
+        <p className="chatbot-key-title">{t('chatbotKeyTitle', lang)}</p>
+        <p className="chatbot-key-help">{t('chatbotKeyHelp', lang)}</p>
+        <form className="chatbot-key-form" onSubmit={handleSaveKey}>
+          <input
+            type="password"
+            value={keyDraft}
+            onChange={(e) => setKeyDraft(e.target.value)}
+            placeholder={t('chatbotKeyPlaceholder', lang)}
+            autoComplete="off"
+            spellCheck={false}
+            aria-label={t('chatbotKeyPlaceholder', lang)}
+          />
+          <button type="submit" disabled={!keyDraft.trim()}>
+            {t('chatbotKeySave', lang)}
+          </button>
+          {keyReady && (
+            <button type="button" className="chatbot-key-clear" onClick={handleClearKey}>
+              {t('chatbotKeyClear', lang)}
+            </button>
+          )}
+        </form>
+        {keyReady ? (
+          <p className="chatbot-key-status chatbot-key-status-ok" role="status">
+            {keySavedNote ? t('chatbotKeySaved', lang) : t('chatbotKeyReady', lang)}
+          </p>
+        ) : (
+          <p className="chatbot-banner" role="status">
+            {t('chatbotMissingKey', lang)}
+          </p>
+        )}
+      </section>
 
       <div className="chatbot-messages" ref={listRef}>
         {messages.length === 0 && (
@@ -137,10 +182,10 @@ export function ChatbotPage() {
           value={input}
           onChange={(e) => setInput(e.target.value)}
           placeholder={t('chatbotPlaceholder', lang)}
-          disabled={busy}
+          disabled={busy || !keyReady}
           aria-label={t('chatbotPlaceholder', lang)}
         />
-        <button type="submit" disabled={busy || !input.trim()}>
+        <button type="submit" disabled={busy || !keyReady || !input.trim()}>
           {t('chatbotSend', lang)}
         </button>
       </form>

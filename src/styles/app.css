@@ -1070,6 +1070,76 @@ button.back-link {
   line-height: 1.45;
 }
 
+.chatbot-key-panel {
+  flex: 0 0 auto;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+
+.chatbot-key-title {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.chatbot-key-help {
+  margin: 6px 0 10px;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.chatbot-key-form {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+}
+
+.chatbot-key-form input {
+  grid-column: 1 / -1;
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+  background: #faf8f5;
+}
+
+.chatbot-key-form button {
+  border: 0;
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: #14110f;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.chatbot-key-form button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.chatbot-key-clear {
+  background: #f7f2eb !important;
+  color: #8a3b2c !important;
+}
+
+.chatbot-key-status {
+  margin: 8px 0 0;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.chatbot-key-status-ok {
+  color: #2f6b3a;
+}
+
 .chatbot-messages {
   flex: 1;
   min-height: 220px;

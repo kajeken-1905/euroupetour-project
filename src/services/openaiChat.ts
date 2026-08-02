@@ -12,8 +12,41 @@ type OpenAIChatResponse = {
   error?: { message?: string }
 }
 
-function getApiKey(): string {
+/** Browser-stored key for GitHub Pages / shared deploys (never commit secrets). */
+export const OPENAI_KEY_STORAGE = 'mvp-openai-api-key'
+
+function getEnvApiKey(): string {
   return (import.meta.env.VITE_OPENAI_API_KEY as string | undefined)?.trim() ?? ''
+}
+
+function getStoredApiKey(): string {
+  try {
+    return localStorage.getItem(OPENAI_KEY_STORAGE)?.trim() ?? ''
+  } catch {
+    return ''
+  }
+}
+
+/** Prefer key saved in the browser; fall back to local .env for development. */
+export function getApiKey(): string {
+  return getStoredApiKey() || getEnvApiKey()
+}
+
+export function setStoredApiKey(key: string): void {
+  const value = key.trim()
+  if (!value) {
+    clearStoredApiKey()
+    return
+  }
+  localStorage.setItem(OPENAI_KEY_STORAGE, value)
+}
+
+export function clearStoredApiKey(): void {
+  try {
+    localStorage.removeItem(OPENAI_KEY_STORAGE)
+  } catch {
+    /* ignore */
+  }
 }
 
 function getModel(): string {
