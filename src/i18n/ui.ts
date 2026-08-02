@@ -70,69 +70,6 @@ export const ui = {
   selectPlaceholder: { ko: '선택', en: 'Select' },
   home: { ko: '홈', en: 'Home' },
   countries: { ko: '국가', en: 'Countries' },
-  chatbot: { ko: '챗봇', en: 'Chat' },
-  chatbotPopupLabel: { ko: '여행 도우미', en: 'Travel assistant' },
-  chatbotPlaceholder: {
-    ko: '유럽 여행에 대해 물어보세요…',
-    en: 'Ask about your Europe trip…',
-  },
-  chatbotSend: { ko: '전송', en: 'Send' },
-  chatbotEmpty: {
-    ko: 'My Vacation Plan 여행 챗봇입니다. 아래처럼 물어보세요.',
-    en: 'Your My Vacation Plan travel chatbot. Try asking:',
-  },
-  chatbotHint1: {
-    ko: '스페인 7일 일정을 추천해줘',
-    en: 'Suggest a 7-day Spain itinerary',
-  },
-  chatbotHint2: {
-    ko: '카파도키아에서 꼭 볼 곳은?',
-    en: 'Must-sees in Cappadocia?',
-  },
-  chatbotHint3: {
-    ko: '출국 전 체크리스트 알려줘',
-    en: 'What should I check before departure?',
-  },
-  chatbotThinking: { ko: '답변 작성 중…', en: 'Thinking…' },
-  chatbotKeyTitle: { ko: 'OpenAI API 키', en: 'OpenAI API key' },
-  chatbotKeyHelp: {
-    ko: 'GitHub Pages에서는 아래 칸에 키를 넣고 저장하세요. 이 기기에만 저장되며 GitHub에는 올라가지 않습니다.',
-    en: 'On GitHub Pages, paste your key below and save. It stays on this device only and is never committed.',
-  },
-  chatbotKeyPlaceholder: {
-    ko: 'sk-... 키를 붙여넣기',
-    en: 'Paste sk-... key',
-  },
-  chatbotKeySave: { ko: '키 저장', en: 'Save key' },
-  chatbotKeyClear: { ko: '키 삭제', en: 'Clear key' },
-  chatbotKeyReady: {
-    ko: '키가 준비되었습니다. 질문을 입력해 보세요.',
-    en: 'API key ready. You can ask a question.',
-  },
-  chatbotKeySaved: {
-    ko: '키를 저장했습니다. 이제 채팅할 수 있습니다.',
-    en: 'Key saved. You can chat now.',
-  },
-  chatbotMissingKey: {
-    ko: 'API 키가 없습니다. 위에 키를 입력하고 저장해 주세요. (로컬 개발 시 .env의 VITE_OPENAI_API_KEY도 사용됩니다.)',
-    en: 'No API key yet. Enter and save a key above. (Local .env VITE_OPENAI_API_KEY also works.)',
-  },
-  chatbotUnauthorized: {
-    ko: 'API 키가 유효하지 않습니다. 키를 다시 저장해 주세요.',
-    en: 'Invalid API key. Please save a valid key again.',
-  },
-  chatbotRateLimit: {
-    ko: '요청이 너무 많습니다. 잠시 후 다시 시도하세요.',
-    en: 'Too many requests. Please try again shortly.',
-  },
-  chatbotNetworkError: {
-    ko: '네트워크 오류입니다. 연결을 확인한 뒤 다시 시도하세요.',
-    en: 'Network error. Check your connection and try again.',
-  },
-  chatbotGenericError: {
-    ko: '답변을 가져오지 못했습니다. 잠시 후 다시 시도하세요.',
-    en: 'Could not get a reply. Please try again.',
-  },
   adminContactNote: {
     ko: '문의/건의 사항이 있다면 메일 부탁드립니다',
     en: 'Please email us with questions or suggestions',
