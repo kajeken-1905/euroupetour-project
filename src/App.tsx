@@ -13,7 +13,7 @@ import './styles/app.css'
 export default function App() {
   return (
     <LanguageProvider>
-      <BrowserRouter basename="/hslee2">
+      <BrowserRouter basename="/euroupetour-project">
         <Routes>
           <Route element={<AppShell />}>
             <Route index element={<HomePage />} />
