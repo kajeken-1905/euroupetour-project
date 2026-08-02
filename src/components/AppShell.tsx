@@ -31,6 +31,7 @@ export function AppShell() {
             {t('home', lang)}
           </NavLink>
           <NavLink to="/countries">{t('countries', lang)}</NavLink>
+          <NavLink to="/chat">{t('chatbot', lang)}</NavLink>
         </nav>
       </div>
     </div>
