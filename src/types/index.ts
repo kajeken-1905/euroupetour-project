@@ -9,6 +9,45 @@ export type CategoryId =
   | 'fashion'
   | 'grocery'
 
+/** City / country transit guide modes */
+export type TransitModeId =
+  | 'metro'
+  | 'bus'
+  | 'tram'
+  | 'train'
+  | 'taxi'
+  | 'rideshare'
+  | 'ferry'
+  | 'bike'
+  | 'walk'
+
+export interface TransitApp {
+  name: string
+  url: string
+  /** App icon under /public, e.g. `/transit-apps/uber.png` */
+  icon?: string
+  note?: { ko: string; en: string }
+}
+
+/** Country-level common transit rules (shown once per country). */
+export interface CountryTransit {
+  summary: { ko: string; en: string }
+  drivingSide: 'left' | 'right'
+  longDistance: { ko: string; en: string }
+  nationalPasses?: { ko: string; en: string }
+  paymentTip?: { ko: string; en: string }
+  apps?: TransitApp[]
+}
+
+/** City-level how-to (modes, airport, tickets, apps). */
+export interface CityTransit {
+  modes: TransitModeId[]
+  airportToCity?: { ko: string; en: string }
+  howTo: { ko: string; en: string }
+  apps: TransitApp[]
+  tip?: { ko: string; en: string }
+}
+
 export interface Country {
   id: string
   name: { ko: string; en: string }

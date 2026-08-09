@@ -4,8 +4,10 @@ import { getCitiesByCountry } from '../data/cities'
 import { CityListItem } from '../components/CityListItem'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { PhrasePanel } from '../components/PhrasePanel'
+import { TransitCountryPanel } from '../components/TransitPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
+import { getCountryTransit } from '../data/transit'
 import { formatFxLine } from '../services/exchangeRates'
 import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
@@ -47,6 +49,7 @@ export function CountryPage() {
   if (!loading && rate) {
     rateText = formatFxLine(country.currencyCode, country.currencySymbol, rate, lang)
   }
+  const transit = getCountryTransit(country.id)
 
   const factItems = [
     { label: t('population', lang), value: country.facts.population[lang] },
@@ -130,6 +133,8 @@ export function CountryPage() {
       </section>
 
       <PhrasePanel countryId={country.id} />
+
+      {transit ? <TransitCountryPanel transit={transit} /> : null}
 
       <p className="section-label">{t('cities', lang)}</p>
       <div className="city-list">

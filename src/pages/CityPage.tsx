@@ -7,7 +7,9 @@ import { CategoryTabs } from '../components/CategoryTabs'
 import { PlaceCard } from '../components/PlaceCard'
 import { HighlightCard } from '../components/HighlightCard'
 import { LanguageToggle } from '../components/LanguageToggle'
+import { TransitCityPanel } from '../components/TransitPanel'
 import { useLanguage } from '../contexts/LanguageContext'
+import { getCityTransit } from '../data/transit'
 import { t } from '../i18n/ui'
 import type { CategoryId } from '../types'
 
@@ -22,6 +24,7 @@ export function CityPage() {
     () => (city ? getPlacesByCityAndCategory(city.id, category) : []),
     [city, category],
   )
+  const transit = city ? getCityTransit(city.id) : undefined
 
   if (!city || !country) {
     return (
@@ -66,6 +69,8 @@ export function CityPage() {
           <HighlightCard key={item.id} highlight={item} />
         ))}
       </div>
+
+      {transit ? <TransitCityPanel {...transit} /> : null}
 
       <p className="section-label" style={{ marginTop: 22 }}>
         {t('foodGuide', lang)}

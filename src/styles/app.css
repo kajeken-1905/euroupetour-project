@@ -1008,6 +1008,189 @@ button.back-link {
   font-size: 13px;
 }
 
+/* —— Transit guides —— */
+.transit-panel {
+  margin: 8px 0 4px;
+}
+
+.transit-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #fff;
+  padding: 14px 14px 16px;
+  box-shadow: 0 6px 18px rgba(20, 17, 15, 0.05);
+}
+
+.transit-summary {
+  margin: 0 0 12px;
+  font-size: 14px;
+  line-height: 1.45;
+  font-weight: 650;
+}
+
+.transit-facts {
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.transit-facts > div {
+  border-top: 1px solid var(--line);
+  padding-top: 10px;
+}
+
+.transit-facts dt {
+  margin: 0 0 4px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.transit-facts dd {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.transit-modes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.transit-mode-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  background: #f0ebe4;
+  color: #3d342c;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.transit-block {
+  border-top: 1px solid var(--line);
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.transit-block h3 {
+  margin: 0 0 4px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.transit-block p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.transit-apps {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.transit-apps-label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.transit-app-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.transit-app-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  max-width: 100%;
+  padding: 8px 12px 8px 8px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(20, 17, 15, 0.04);
+}
+
+.transit-app-thumb,
+.transit-app-fallback {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  flex: 0 0 auto;
+}
+
+.transit-app-thumb {
+  object-fit: cover;
+  background: #f3f1ec;
+}
+
+.transit-app-fallback {
+  display: grid;
+  place-items: center;
+  background: #14110f;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.transit-app-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.transit-app-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.transit-app-note {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.transit-tip {
+  margin: 12px 0 0;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: #f7f2ea;
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.transit-tip strong {
+  margin-right: 4px;
+  color: #7a4018;
+}
+
 @media (max-width: 480px) {
   .app-root {
     padding: 0;
