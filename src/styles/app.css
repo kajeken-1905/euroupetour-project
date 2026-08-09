@@ -73,7 +73,7 @@
   right: auto;
   bottom: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 8px;
   margin: 0;
   padding: 10px 12px calc(10px + var(--safe-bottom));
@@ -87,6 +87,11 @@
 }
 
 .bottom-tab a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
   text-align: center;
   padding: 12px 8px;
   border-radius: 14px;

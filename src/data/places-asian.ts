@@ -886,4 +886,17 @@ export const placesAsian: Place[] = [
   place('palma-asian-1', 'palma', 'asian', 'Asian dining Palma', 4.3, 'Palma', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
   place('palma-asian-2', 'palma', 'asian', 'Sushi / ramen Palma', 4.3, 'Palma', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
   place('palma-asian-3', 'palma', 'asian', 'Thai / Vietnamese Palma', 4.2, 'Palma', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
+  place('nazare-asian-1', 'nazare', 'asian', 'Asian dining Nazaré', 4.3, 'Nazaré', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
+  place('nazare-asian-2', 'nazare', 'asian', 'Sushi / ramen Nazaré', 4.3, 'Nazaré', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
+  place('nazare-asian-3', 'nazare', 'asian', 'Thai / Vietnamese Nazaré', 4.2, 'Nazaré', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
+  place('guimaraes-asian-1', 'guimaraes', 'asian', 'Asian dining Guimarães', 4.3, 'Guimarães', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
+  place('guimaraes-asian-2', 'guimaraes', 'asian', 'Sushi / ramen Guimarães', 4.3, 'Guimarães', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
+  place('guimaraes-asian-3', 'guimaraes', 'asian', 'Thai / Vietnamese Guimarães', 4.2, 'Guimarães', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
+  place('nerja-asian-1', 'nerja', 'asian', 'Asian dining Nerja', 4.3, 'Nerja', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
+  place('nerja-asian-2', 'nerja', 'asian', 'Sushi / ramen Nerja', 4.3, 'Nerja', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
+  place('nerja-asian-3', 'nerja', 'asian', 'Thai / Vietnamese Nerja', 4.2, 'Nerja', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
+  place('gibraltar-asian-1', 'gibraltar', 'asian', 'Asian dining Gibraltar', 4.3, 'Gibraltar', '아시안 다이닝.', 'Asian dining.', { reviewCount: 700 }),
+  place('gibraltar-asian-2', 'gibraltar', 'asian', 'Sushi / ramen Gibraltar', 4.3, 'Gibraltar', '스시·라멘.', 'Sushi and ramen.', { reviewCount: 600 }),
+  place('gibraltar-asian-3', 'gibraltar', 'asian', 'Thai / Vietnamese Gibraltar', 4.2, 'Gibraltar', '태국·베트남.', 'Thai and Vietnamese.', { reviewCount: 550 }),
+
 ]

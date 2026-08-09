@@ -249,4 +249,43 @@ export const placesPTExtra: Place[] = [
   place('braga-korean-3', 'braga', 'korean', 'Korean BBQ Braga', 4.3, 'Braga', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
   place('braga-korean-4', 'braga', 'korean', 'Kimchi House Braga', 4.2, 'Braga', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
+
+  // —— nazare ——
+  place('nazare-fine_dining-1', 'nazare', 'fine_dining', 'Nazaré Fine Dining 1', 4.5, 'Nazaré', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('nazare-fine_dining-2', 'nazare', 'fine_dining', 'Nazaré Fine Dining 2', 4.4, 'Nazaré', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('nazare-fine_dining-3', 'nazare', 'fine_dining', 'Nazaré Fine Dining 3', 4.3, 'Nazaré', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('nazare-fine_dining-4', 'nazare', 'fine_dining', 'Nazaré Bistro', 4.3, 'Nazaré', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('nazare-fine_dining-5', 'nazare', 'fine_dining', 'Nazaré Chef\'s Table', 4.4, 'Nazaré', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('nazare-bakery-1', 'nazare', 'bakery', 'Nazaré Bakery', 4.5, 'Nazaré', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('nazare-bakery-2', 'nazare', 'bakery', 'Nazaré Patisserie', 4.4, 'Nazaré', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('nazare-bakery-3', 'nazare', 'bakery', 'Nazaré Bread House', 4.3, 'Nazaré', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('nazare-bakery-4', 'nazare', 'bakery', 'Café Bakery Nazaré', 4.3, 'Nazaré', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('nazare-cafe-1', 'nazare', 'cafe', 'Specialty Coffee Nazaré', 4.5, 'Nazaré', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('nazare-cafe-2', 'nazare', 'cafe', 'Old Town Café Nazaré', 4.4, 'Nazaré', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('nazare-cafe-3', 'nazare', 'cafe', 'Brunch Café Nazaré', 4.3, 'Nazaré', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('nazare-cafe-4', 'nazare', 'cafe', 'Espresso Bar Nazaré', 4.3, 'Nazaré', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('nazare-korean-1', 'nazare', 'korean', 'Korean Kitchen Nazaré', 4.4, 'Nazaré', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('nazare-korean-2', 'nazare', 'korean', 'Bibimbap Nazaré', 4.3, 'Nazaré', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('nazare-korean-3', 'nazare', 'korean', 'Korean BBQ Nazaré', 4.3, 'Nazaré', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('nazare-korean-4', 'nazare', 'korean', 'Kimchi House Nazaré', 4.2, 'Nazaré', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
+  // —— guimaraes ——
+  place('guimaraes-fine_dining-1', 'guimaraes', 'fine_dining', 'Guimarães Fine Dining 1', 4.5, 'Guimarães', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('guimaraes-fine_dining-2', 'guimaraes', 'fine_dining', 'Guimarães Fine Dining 2', 4.4, 'Guimarães', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('guimaraes-fine_dining-3', 'guimaraes', 'fine_dining', 'Guimarães Fine Dining 3', 4.3, 'Guimarães', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('guimaraes-fine_dining-4', 'guimaraes', 'fine_dining', 'Guimarães Bistro', 4.3, 'Guimarães', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('guimaraes-fine_dining-5', 'guimaraes', 'fine_dining', 'Guimarães Chef\'s Table', 4.4, 'Guimarães', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('guimaraes-bakery-1', 'guimaraes', 'bakery', 'Guimarães Bakery', 4.5, 'Guimarães', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('guimaraes-bakery-2', 'guimaraes', 'bakery', 'Guimarães Patisserie', 4.4, 'Guimarães', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('guimaraes-bakery-3', 'guimaraes', 'bakery', 'Guimarães Bread House', 4.3, 'Guimarães', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('guimaraes-bakery-4', 'guimaraes', 'bakery', 'Café Bakery Guimarães', 4.3, 'Guimarães', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('guimaraes-cafe-1', 'guimaraes', 'cafe', 'Specialty Coffee Guimarães', 4.5, 'Guimarães', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('guimaraes-cafe-2', 'guimaraes', 'cafe', 'Old Town Café Guimarães', 4.4, 'Guimarães', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('guimaraes-cafe-3', 'guimaraes', 'cafe', 'Brunch Café Guimarães', 4.3, 'Guimarães', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('guimaraes-cafe-4', 'guimaraes', 'cafe', 'Espresso Bar Guimarães', 4.3, 'Guimarães', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('guimaraes-korean-1', 'guimaraes', 'korean', 'Korean Kitchen Guimarães', 4.4, 'Guimarães', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('guimaraes-korean-2', 'guimaraes', 'korean', 'Bibimbap Guimarães', 4.3, 'Guimarães', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('guimaraes-korean-3', 'guimaraes', 'korean', 'Korean BBQ Guimarães', 4.3, 'Guimarães', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('guimaraes-korean-4', 'guimaraes', 'korean', 'Kimchi House Guimarães', 4.2, 'Guimarães', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
 ]

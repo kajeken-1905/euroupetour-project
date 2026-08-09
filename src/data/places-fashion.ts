@@ -888,4 +888,17 @@ export const placesFashion: Place[] = [
   place('palma-fashion-1', 'palma', 'fashion', 'Palma fashion street', 4.3, 'Palma', '[패션] Palma 메인 패션 거리.', '[Fashion] Palma fashion street.', { reviewCount: 1400 }),
   place('palma-fashion-2', 'palma', 'fashion', 'Palma outlet / day trip', 4.2, 'Palma', '[아울렛] Palma 권역 아울렛.', '[Outlet] Palma-area outlet.', { reviewCount: 1200 }),
   place('palma-fashion-3', 'palma', 'fashion', 'Palma mall fashion', 4.2, 'Palma', '[패션] Palma 몰 패션.', '[Fashion] Palma mall fashion.', { reviewCount: 1000 }),
+  place('nazare-fashion-1', 'nazare', 'fashion', 'Nazaré fashion street', 4.3, 'Nazaré', '[패션] Nazaré 메인 패션 거리.', '[Fashion] Nazaré fashion street.', { reviewCount: 1400 }),
+  place('nazare-fashion-2', 'nazare', 'fashion', 'Nazaré outlet / day trip', 4.2, 'Nazaré', '[아울렛] Nazaré 권역 아울렛.', '[Outlet] Nazaré-area outlet.', { reviewCount: 1200 }),
+  place('nazare-fashion-3', 'nazare', 'fashion', 'Nazaré mall fashion', 4.2, 'Nazaré', '[패션] Nazaré 몰 패션.', '[Fashion] Nazaré mall fashion.', { reviewCount: 1000 }),
+  place('guimaraes-fashion-1', 'guimaraes', 'fashion', 'Guimarães fashion street', 4.3, 'Guimarães', '[패션] Guimarães 메인 패션 거리.', '[Fashion] Guimarães fashion street.', { reviewCount: 1400 }),
+  place('guimaraes-fashion-2', 'guimaraes', 'fashion', 'Guimarães outlet / day trip', 4.2, 'Guimarães', '[아울렛] Guimarães 권역 아울렛.', '[Outlet] Guimarães-area outlet.', { reviewCount: 1200 }),
+  place('guimaraes-fashion-3', 'guimaraes', 'fashion', 'Guimarães mall fashion', 4.2, 'Guimarães', '[패션] Guimarães 몰 패션.', '[Fashion] Guimarães mall fashion.', { reviewCount: 1000 }),
+  place('nerja-fashion-1', 'nerja', 'fashion', 'Nerja fashion street', 4.3, 'Nerja', '[패션] Nerja 메인 패션 거리.', '[Fashion] Nerja fashion street.', { reviewCount: 1400 }),
+  place('nerja-fashion-2', 'nerja', 'fashion', 'Nerja outlet / day trip', 4.2, 'Nerja', '[아울렛] Nerja 권역 아울렛.', '[Outlet] Nerja-area outlet.', { reviewCount: 1200 }),
+  place('nerja-fashion-3', 'nerja', 'fashion', 'Nerja mall fashion', 4.2, 'Nerja', '[패션] Nerja 몰 패션.', '[Fashion] Nerja mall fashion.', { reviewCount: 1000 }),
+  place('gibraltar-fashion-1', 'gibraltar', 'fashion', 'Gibraltar fashion street', 4.3, 'Gibraltar', '[패션] Gibraltar 메인 패션 거리.', '[Fashion] Gibraltar fashion street.', { reviewCount: 1400 }),
+  place('gibraltar-fashion-2', 'gibraltar', 'fashion', 'Gibraltar outlet / day trip', 4.2, 'Gibraltar', '[아울렛] Gibraltar 권역 아울렛.', '[Outlet] Gibraltar-area outlet.', { reviewCount: 1200 }),
+  place('gibraltar-fashion-3', 'gibraltar', 'fashion', 'Gibraltar mall fashion', 4.2, 'Gibraltar', '[패션] Gibraltar 몰 패션.', '[Fashion] Gibraltar mall fashion.', { reviewCount: 1000 }),
+
 ]

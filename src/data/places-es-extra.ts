@@ -325,4 +325,43 @@ export const placesESExtra: Place[] = [
   place('palma-korean-3', 'palma', 'korean', 'Korean BBQ Palma', 4.3, 'Palma', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
   place('palma-korean-4', 'palma', 'korean', 'Kimchi House Palma', 4.2, 'Palma', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
+
+  // —— nerja ——
+  place('nerja-fine_dining-1', 'nerja', 'fine_dining', 'Nerja Fine Dining 1', 4.5, 'Nerja', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('nerja-fine_dining-2', 'nerja', 'fine_dining', 'Nerja Fine Dining 2', 4.4, 'Nerja', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('nerja-fine_dining-3', 'nerja', 'fine_dining', 'Nerja Fine Dining 3', 4.3, 'Nerja', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('nerja-fine_dining-4', 'nerja', 'fine_dining', 'Nerja Bistro', 4.3, 'Nerja', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('nerja-fine_dining-5', 'nerja', 'fine_dining', 'Nerja Chef\'s Table', 4.4, 'Nerja', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('nerja-bakery-1', 'nerja', 'bakery', 'Nerja Bakery', 4.5, 'Nerja', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('nerja-bakery-2', 'nerja', 'bakery', 'Nerja Patisserie', 4.4, 'Nerja', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('nerja-bakery-3', 'nerja', 'bakery', 'Nerja Bread House', 4.3, 'Nerja', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('nerja-bakery-4', 'nerja', 'bakery', 'Café Bakery Nerja', 4.3, 'Nerja', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('nerja-cafe-1', 'nerja', 'cafe', 'Specialty Coffee Nerja', 4.5, 'Nerja', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('nerja-cafe-2', 'nerja', 'cafe', 'Old Town Café Nerja', 4.4, 'Nerja', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('nerja-cafe-3', 'nerja', 'cafe', 'Brunch Café Nerja', 4.3, 'Nerja', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('nerja-cafe-4', 'nerja', 'cafe', 'Espresso Bar Nerja', 4.3, 'Nerja', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('nerja-korean-1', 'nerja', 'korean', 'Korean Kitchen Nerja', 4.4, 'Nerja', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('nerja-korean-2', 'nerja', 'korean', 'Bibimbap Nerja', 4.3, 'Nerja', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('nerja-korean-3', 'nerja', 'korean', 'Korean BBQ Nerja', 4.3, 'Nerja', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('nerja-korean-4', 'nerja', 'korean', 'Kimchi House Nerja', 4.2, 'Nerja', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
+  // —— gibraltar ——
+  place('gibraltar-fine_dining-1', 'gibraltar', 'fine_dining', 'Gibraltar Fine Dining 1', 4.5, 'Gibraltar', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
+  place('gibraltar-fine_dining-2', 'gibraltar', 'fine_dining', 'Gibraltar Fine Dining 2', 4.4, 'Gibraltar', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
+  place('gibraltar-fine_dining-3', 'gibraltar', 'fine_dining', 'Gibraltar Fine Dining 3', 4.3, 'Gibraltar', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
+  place('gibraltar-fine_dining-4', 'gibraltar', 'fine_dining', 'Gibraltar Bistro', 4.3, 'Gibraltar', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
+  place('gibraltar-fine_dining-5', 'gibraltar', 'fine_dining', 'Gibraltar Chef\'s Table', 4.4, 'Gibraltar', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
+  place('gibraltar-bakery-1', 'gibraltar', 'bakery', 'Gibraltar Bakery', 4.5, 'Gibraltar', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
+  place('gibraltar-bakery-2', 'gibraltar', 'bakery', 'Gibraltar Patisserie', 4.4, 'Gibraltar', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
+  place('gibraltar-bakery-3', 'gibraltar', 'bakery', 'Gibraltar Bread House', 4.3, 'Gibraltar', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
+  place('gibraltar-bakery-4', 'gibraltar', 'bakery', 'Café Bakery Gibraltar', 4.3, 'Gibraltar', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
+  place('gibraltar-cafe-1', 'gibraltar', 'cafe', 'Specialty Coffee Gibraltar', 4.5, 'Gibraltar', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('gibraltar-cafe-2', 'gibraltar', 'cafe', 'Old Town Café Gibraltar', 4.4, 'Gibraltar', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
+  place('gibraltar-cafe-3', 'gibraltar', 'cafe', 'Brunch Café Gibraltar', 4.3, 'Gibraltar', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
+  place('gibraltar-cafe-4', 'gibraltar', 'cafe', 'Espresso Bar Gibraltar', 4.3, 'Gibraltar', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('gibraltar-korean-1', 'gibraltar', 'korean', 'Korean Kitchen Gibraltar', 4.4, 'Gibraltar', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
+  place('gibraltar-korean-2', 'gibraltar', 'korean', 'Bibimbap Gibraltar', 4.3, 'Gibraltar', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
+  place('gibraltar-korean-3', 'gibraltar', 'korean', 'Korean BBQ Gibraltar', 4.3, 'Gibraltar', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
+  place('gibraltar-korean-4', 'gibraltar', 'korean', 'Kimchi House Gibraltar', 4.2, 'Gibraltar', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
+
 ]
