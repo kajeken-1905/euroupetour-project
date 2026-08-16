@@ -50,7 +50,7 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("파리 허브 TGV, 지역은 TER. 야간열차·장거리 버스도 선택지입니다.", "TGV from Paris hubs; TER regionally. Night trains and coaches are options."),
         "nationalPasses": T("Eurail/Interrail + TGV 좌석 예약이 필요할 수 있습니다.", "Eurail/Interrail; TGV often needs seat reservations."),
         "paymentTip": T("대도시는 Navigo·연락처 없는 카드 태핑. 소도시는 티켓 키오스크를 확인하세요.", "Big cities: Navigo/contactless. Smaller towns may need ticket machines."),
-        "apps": [("sncf", ("기차·TGV", "Trains / TGV")), ("citymapper", ("파리 등", "Paris etc.")), ("uber", None)],
+        "apps": [("sncf", ("기차·TGV", "Trains / TGV")), ("uber", None), ("bolt", ("우버 대체", "Uber alternative"))],
     },
     "uk": {
         "summary": T("좌측통행. National Rail·장거리 버스·런던 Tube가 중심입니다.", "Drive on the left. National Rail, coaches, and the London Tube are core."),
@@ -58,7 +58,7 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("도시 간은 기차가 빠르지만 요금 변동이 큽니다. 사전 예약을 권합니다.", "Trains are fast between cities but prices swing—book ahead."),
         "nationalPasses": T("BritRail·Railcard 할인. Eurail은 영국 일부 구간에 제한이 있을 수 있습니다.", "BritRail/Railcards help. Eurail coverage in Britain can be limited."),
         "paymentTip": T("런던은 contactless/Oyster. 지방은 기차 앱·키오스크가 기본입니다.", "London: contactless/Oyster. Elsewhere: rail apps and ticket machines."),
-        "apps": [("tfl", ("런던", "London")), ("trainline", ("기차 예약", "Train booking")), ("uber", None)],
+        "apps": [("tfl", ("런던", "London")), ("trainline", ("기차 예약", "Train booking")), ("uber", None), ("bolt", ("런던 등", "London etc."))],
     },
     "ie": {
         "summary": T("좌측통행. Irish Rail·Bus Éireann·시내 버스로 이동합니다.", "Drive on the left. Irish Rail, Bus Éireann, and city buses link places."),
@@ -66,7 +66,7 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("더블린 거점 기차·장거리 버스. 서부·소도시는 버스·렌터가 편할 때가 많습니다.", "Trains/coaches from Dublin; west and small towns often need bus or car."),
         "nationalPasses": T("Leap Visitor·Eurail 일부 구간. 버스 패스도 시즌별 있습니다.", "Leap Visitor and partial Eurail; seasonal bus passes exist."),
         "paymentTip": T("더블린 Leap 카드. 소도시는 현금·카드 버스 결제를 확인하세요.", "Dublin Leap card; check cash/card rules on rural buses."),
-        "apps": [("irish-rail", ("기차", "Trains")), ("uber", ("더블린 등", "Dublin etc.")), ("bolt", None)],
+        "apps": [("irish-rail", ("기차", "Trains")), ("bolt", ("우버 대체", "Uber alternative")), ("free-now", ("면허 택시", "Licensed taxis")), ("uber", ("더블린 등", "Dublin etc."))],
     },
     "be": {
         "summary": T("우측통행. SNCB/NMBS 기차로 주요 도시가 잘 연결됩니다.", "Drive on the right. SNCB/NMBS trains connect main cities well."),
@@ -74,15 +74,15 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("브뤼셀 허브. 파리·암스테르담은 Thalys/Eurostar·고속 연결.", "Brussels hub; high-speed links to Paris and Amsterdam."),
         "nationalPasses": T("Eurail/Interrail + 벨기에 당일권·주말권이 유용합니다.", "Eurail/Interrail; Belgian day/weekend tickets help."),
         "paymentTip": T("MOBIB·앱 티켓. 브뤼셀·앤트워프는 연락처 없는 결제 확대 중.", "MOBIB/app tickets; contactless expanding in Brussels/Antwerp."),
-        "apps": [("sncb", ("국영 기차", "National trains")), ("citymapper", ("브뤼셀", "Brussels")), ("uber", None)],
+        "apps": [("sncb", ("국영 기차", "National trains")), ("uber", None), ("bolt", None)],
     },
     "nl": {
         "summary": T("우측통행. NS 기차·트램·버스·자전거가 일상입니다.", "Drive on the right. NS trains, trams, buses, and bikes are everyday."),
         "drivingSide": "right",
         "longDistance": T("암스테르담·로테르담·위트레흐트 허브. OV-chipkaart로 대부분 환승.", "Amsterdam/Rotterdam/Utrecht hubs; OV-chipkaart covers most transfers."),
         "nationalPasses": T("Eurail/Interrail + NS 당일권. 자전거 대여는 NS·시티바이크.", "Eurail/Interrail + NS day tickets; NS and city bike hire."),
-        "paymentTip": T("OV-chipkaart 또는 스마트폰 check-in/out 필수.", "OV-chipkaart or phone check-in/out is required."),
-        "apps": [("ns", ("기차", "Trains")), ("citymapper", ("암스테르담", "Amsterdam")), ("uber", None)],
+        "paymentTip": T("OV-chipkaart 또는 스마트폰 check-in/out 필수. Uber는 암스테르담·로테르담 중심, 다른 도시는 Bolt.", "OV-chipkaart or phone check-in/out. Uber is mainly Amsterdam/Rotterdam; Bolt elsewhere."),
+        "apps": [("ns", ("기차", "Trains")), ("uber", ("암스테르담·로테르담", "Amsterdam & Rotterdam")), ("bolt", ("우버 대체", "Uber alternative"))],
     },
     "lu": {
         "summary": T("우측통행. 국내 대중교통이 무료인 점이 특징입니다.", "Drive on the right. Notable for free nationwide public transport."),
@@ -90,22 +90,22 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("룩셈부르크–트리에르·브뤼셀·파리 연결 기차·버스.", "Trains/buses to Trier, Brussels, Paris."),
         "nationalPasses": T("국내 버스·기차·트램 무료. 국제선은 별도 요금.", "Domestic bus/train/tram free; cross-border tickets sold separately."),
         "paymentTip": T("국내선 티켓 불필요. 국경 넘는 구간만 결제하면 됩니다.", "No ticket inside Luxembourg; pay only for cross-border legs."),
-        "apps": [("cfl", ("기차·이동", "Rail & travel")), ("uber", None)],
+        "apps": [("cfl", ("기차·이동", "Rail & travel")), ("uber", ("룩셈부르크시", "Luxembourg City"))],
     },
     "mc": {
         "summary": T("우측통행. 모나코는 버스·도보·택시 중심의 작은 도시국가입니다.", "Drive on the right. Tiny city-state: buses, walking, and taxis."),
         "drivingSide": "right",
         "longDistance": T("니스·모나코 기차·버스. 공항은 니스 Côte d'Azur가 일반적입니다.", "Train/bus to Nice; Nice Côte d'Azur Airport is usual."),
-        "paymentTip": T("캠(CAM) 버스 카드·앱. 택시 미터요금.", "CAM bus card/app; metered taxis."),
-        "apps": [("uber", None), ("free-now", None)],
+        "paymentTip": T("캠(CAM) 버스 카드·앱. 우버는 모나코 안에서 호출이 안 되고, 니스에서 들어오는 식입니다.", "CAM bus card/app. Uber cannot pick up inside Monaco; rides usually start from Nice."),
+        "apps": [("free-now", ("니스·코트다쥐르", "Nice / Côte d'Azur"))],
     },
     "de": {
         "summary": T("우측통행. DB ICE/IC와 지역 S-Bahn·U-Bahn이 뼈대입니다.", "Drive on the right. DB ICE/IC plus regional S-/U-Bahn are the backbone."),
         "drivingSide": "right",
         "longDistance": T("ICE로 대도시 연결. 지역은 RE/RB·FlixBus. 파업·지연을 앱으로 확인하세요.", "ICE between cities; RE/RB and FlixBus regionally—check strikes/delays in apps."),
         "nationalPasses": T("Deutschland-Ticket(지역)·Eurail/Interrail. ICE는 예약이 편합니다.", "Deutschland-Ticket (regional) and Eurail/Interrail; reserve ICE seats."),
-        "paymentTip": T("대도시는 교통권·스마트폰. DB Navigator로 장거리 예매.", "City tickets/phone taps; DB Navigator for long-distance."),
-        "apps": [("db", ("DB 기차", "DB trains")), ("citymapper", ("베를린 등", "Berlin etc.")), ("free-now", None)],
+        "paymentTip": T("대도시는 교통권·스마트폰. 호출은 Free Now가 안정적이고, Uber·Bolt는 면허 택시 배차입니다.", "City tickets/phone taps; Free Now is reliable, Uber/Bolt dispatch licensed taxis."),
+        "apps": [("db", ("DB 기차", "DB trains")), ("free-now", ("우버 대체", "Uber alternative")), ("bolt", None)],
     },
     "ch": {
         "summary": T("우측통행. SBB 기차 정시성과 산악 연결이 뛰어납니다.", "Drive on the right. Excellent SBB punctuality and mountain links."),
@@ -113,7 +113,7 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("취리히·제네바·베른 허브. 산간은 기차+포스트버스·케이블카.", "Zürich/Geneva/Bern hubs; mountains via train + PostBus/cableways."),
         "nationalPasses": T("Swiss Travel Pass·Eurail. 산악 구간은 추가 요금이 있을 수 있습니다.", "Swiss Travel Pass/Eurail; mountain segments may cost extra."),
         "paymentTip": T("SBB 앱 티켓·Half Fare Card. 현금보다 카드가 편합니다.", "SBB app tickets/Half Fare Card; cards beat cash."),
-        "apps": [("sbb", ("기차·버스", "Trains & buses")), ("uber", ("주요 도시", "Major cities"))],
+        "apps": [("sbb", ("기차·버스", "Trains & buses")), ("uber", ("취리히·제네바 등", "Zürich, Geneva etc."))],
     },
     "at": {
         "summary": T("우측통행. ÖBB 기차와 빈·잘츠부르크 시내 교통이 잘 갖춰져 있습니다.", "Drive on the right. ÖBB trains and strong urban networks in Vienna/Salzburg."),
@@ -127,78 +127,78 @@ COUNTRIES: dict[str, dict] = {
         "summary": T("우측통행. 리히텐슈타인은 버스(LIEmobil)와 도보가 중심입니다.", "Drive on the right. Buses (LIEmobil) and walking dominate."),
         "drivingSide": "right",
         "longDistance": T("스위스·오스트리아 국경 기차역 환승 후 버스.", "Transfer at Swiss/Austrian border stations then bus."),
-        "paymentTip": T("LIEmobil 티켓·데이패스. 스위스 Travel Pass 특례를 확인하세요.", "LIEmobil tickets/day passes; check Swiss Travel Pass rules."),
-        "apps": [("sbb", ("인접 스위스 연결", "Swiss connections")), ("uber", None)],
+        "paymentTip": T("LIEmobil 티켓·데이패스. 우버·볼트는 없고 현지 택시입니다.", "LIEmobil tickets/day passes; no Uber/Bolt—use local taxis."),
+        "apps": [("sbb", ("인접 스위스 연결", "Swiss connections"))],
     },
     "cz": {
         "summary": T("우측통행. ČD 기차와 프라하 지하철·트램이 핵심입니다.", "Drive on the right. ČD trains and Prague metro/trams are key."),
         "drivingSide": "right",
         "longDistance": T("프라하 허브. 소도시는 버스·지역열차. RegioJet·FlixBus도 흔합니다.", "Prague hub; buses/regional trains for towns; RegioJet/FlixBus common."),
         "nationalPasses": T("Eurail/Interrail + ČD 할인. 프라하 관광권은 시내에 유용.", "Eurail/Interrail + ČD discounts; Prague tourist passes for the city."),
-        "paymentTip": T("프라하는 PID 리트바/앱. 택시 앱(Bolt·Uber) 추천.", "Prague PID Litacka/app; prefer Bolt/Uber over street taxis."),
-        "apps": [("cd", ("기차", "Trains")), ("bolt", None), ("uber", None)],
+        "paymentTip": T("프라하는 PID 리트바/앱. 호출은 Bolt가 기본, Uber는 프라하·브르노.", "Prague PID Litacka/app; Bolt first, Uber in Prague/Brno."),
+        "apps": [("cd", ("기차", "Trains")), ("bolt", ("우버 대체", "Uber alternative")), ("uber", ("프라하·브르노", "Prague & Brno"))],
     },
     "sk": {
         "summary": T("우측통행. ZSSK 기차와 시내버스로 이동합니다.", "Drive on the right. ZSSK trains and city buses."),
         "drivingSide": "right",
         "longDistance": T("브라티슬라바–빈은 기차가 매우 가깝습니다. 타트라 산악은 기차+버스.", "Bratislava–Vienna is a short train ride; Tatras need train+bus."),
         "nationalPasses": T("Eurail/Interrail. 국내 할인권을 시즌별로 확인하세요.", "Eurail/Interrail; check seasonal domestic discounts."),
-        "paymentTip": T("시내 티켓 앱·키오스크. Bolt가 대도시에서 편합니다.", "City tickets via app/kiosk; Bolt helps in bigger towns."),
-        "apps": [("trainline", ("예약 보조", "Booking help")), ("bolt", None), ("uber", None)],
+        "paymentTip": T("시내 티켓 앱·키오스크. 브라티슬라바는 Bolt가 편하고 Uber는 수도에서만 됩니다.", "City tickets via app/kiosk; Bolt is handy, Uber only in Bratislava."),
+        "apps": [("trainline", ("예약 보조", "Booking help")), ("bolt", None), ("uber", ("브라티슬라바만", "Bratislava only"))],
     },
     "hu": {
         "summary": T("우측통행. MÁV 기차와 부다페스트 지하철·트램이 중심입니다.", "Drive on the right. MÁV trains and Budapest metro/trams."),
         "drivingSide": "right",
         "longDistance": T("부다페스트 허브. 덱밴드·페치 등은 기차·버스.", "Budapest hub; Debrecen/Pécs by train or bus."),
         "nationalPasses": T("Eurail/Interrail + Budapest Card(시내).", "Eurail/Interrail plus Budapest Card in the city."),
-        "paymentTip": T("부다페스트는 BudapestGO. 택시보다 Bolt·Uber 권장.", "BudapestGO app; prefer Bolt/Uber to street taxis."),
-        "apps": [("mav", ("기차", "Trains")), ("bolt", None), ("uber", None)],
+        "paymentTip": T("부다페스트는 BudapestGO. 우버는 2016년부터 없고 Bolt가 표준입니다.", "BudapestGO app; Uber has been banned since 2016—use Bolt."),
+        "apps": [("mav", ("기차", "Trains")), ("bolt", ("우버 대체", "Uber alternative"))],
     },
     "pl": {
         "summary": T("우측통행. PKP Intercity와 도시 트램·버스가 잘 발달했습니다.", "Drive on the right. PKP Intercity plus strong city trams/buses."),
         "drivingSide": "right",
         "longDistance": T("바르샤바·크라쿠프·그단스크 허브. FlixBus·PolskiBus도 선택지.", "Warsaw/Kraków/Gdańsk hubs; FlixBus also useful."),
         "nationalPasses": T("Eurail/Interrail + PKP 할인. 좌석 예약을 권합니다.", "Eurail/Interrail + PKP discounts; reserve seats."),
-        "paymentTip": T("도시카드·Jakdojade 앱. Bolt·Uber가 흔합니다.", "City cards and Jakdojade; Bolt/Uber are common."),
-        "apps": [("pkp", ("기차", "Trains")), ("bolt", None), ("uber", None)],
+        "paymentTip": T("도시카드·Jakdojade 앱. 호출은 Bolt가 더 빠르고 Uber는 대도시 보조입니다.", "City cards and Jakdojade; Bolt is usually faster, Uber as backup in big cities."),
+        "apps": [("pkp", ("기차", "Trains")), ("bolt", ("더 잘 잡힘", "Usually more cars")), ("uber", None)],
     },
     "es": {
         "summary": T("우측통행. 도시 간은 Renfe(AVE 고속철)·장거리 버스(ALSA 등)가 중심입니다.", "Drive on the right. Renfe (AVE high-speed) and coaches (ALSA etc.) link cities."),
         "drivingSide": "right",
         "longDistance": T("마드리드–바르셀로나·세비야 등은 AVE. 코스타 델 솔·소도시는 버스가 편할 때가 많습니다.", "AVE for Madrid–Barcelona/Seville etc.; buses are often easier for Costa del Sol and smaller towns."),
         "nationalPasses": T("Eurail/Interrail + Renfe 좌석 예약. 스페인 국내 패스·할인 상품도 시즌별 있습니다.", "Eurail/Interrail plus Renfe seat reservations; seasonal Renfe passes/discounts also exist."),
-        "paymentTip": T("대도시는 교통카드·스마트폰 탭 가능. 택시 앱(Free Now, Cabify)과 Uber 사용 지역을 확인하세요.", "Big cities support transit cards or phone tap. Check Free Now, Cabify, and Uber coverage."),
-        "apps": [("renfe", ("기차·AVE", "Trains / AVE")), ("alsa", ("장거리 버스", "Coach buses")), ("citymapper", ("마드리드·바르셀로나", "Madrid & Barcelona"))],
+        "paymentTip": T("대도시는 교통카드·스마트폰 탭. 호출은 Cabify·Free Now·Bolt를 같이 두고, Uber는 도시마다 다릅니다.", "Big cities: transit cards or phone tap. Keep Cabify, Free Now, and Bolt; Uber coverage varies by city."),
+        "apps": [("renfe", ("기차·AVE", "Trains / AVE")), ("alsa", ("장거리 버스", "Coach buses")), ("cabify", ("우버 대체", "Uber alternative")), ("bolt", None)],
     },
     "pt": {
         "summary": T("우측통행. 도시 간은 Comboios(기차)·Rede Expressos(버스)가 기본입니다.", "Drive on the right. Between cities, Comboios (train) and Rede Expressos (bus) are the bases."),
         "drivingSide": "right",
         "longDistance": T("리스본–포르투 Alfa Pendular·인터시티, 알가르브는 기차 또는 장거리 버스.", "Lisbon–Porto Alfa Pendular / Intercidades; Algarve by train or coach."),
         "nationalPasses": T("Eurail/Interrail로 대부분 장거리 기차 이용 가능. 일부는 좌석 예약이 필요할 수 있습니다.", "Eurail/Interrail covers most long-distance trains; some need seat reservations."),
-        "paymentTip": T("도시 교통은 카드·모바일 결제 중심. 소도시는 현금 키오스크도 있습니다.", "City transit is mostly card/mobile; smaller towns may still use cash kiosks."),
-        "apps": [("cp", ("국영 기차", "National trains")), ("rede-expressos", ("장거리 버스", "Coach buses")), ("uber", ("주요 도시", "Major cities"))],
+        "paymentTip": T("도시 교통은 카드·모바일. TVDE 호출은 Bolt가 우버보다 잘 잡히는 경우가 많고 Cabify도 있습니다.", "City transit is card/mobile. For TVDE rides Bolt often has more cars than Uber; Cabify too."),
+        "apps": [("cp", ("국영 기차", "National trains")), ("rede-expressos", ("장거리 버스", "Coach buses")), ("bolt", ("우버보다 잘 잡히는 편", "Often easier than Uber")), ("uber", ("주요 도시", "Major cities"))],
     },
     "ad": {
         "summary": T("우측통행. 안도라는 버스가 사실상 유일한 장거리 대중교통입니다.", "Drive on the right. Buses are essentially the only long-distance public option."),
         "drivingSide": "right",
         "longDistance": T("바르셀로나·툴루즈 공항/역에서 장거리 버스 환승이 일반적입니다.", "Usually coach transfers from Barcelona or Toulouse airports/stations."),
         "paymentTip": T("버스 현장·온라인 예매. 택시·렌터도 산악 일정에 유용합니다.", "Book coaches online or on-site; taxis/rentals help in the mountains."),
-        "apps": [("alsa", ("바르셀로나 방면", "Toward Barcelona")), ("uber", None)],
+        "apps": [("alsa", ("바르셀로나 방면", "Toward Barcelona")), ("uber", ("안도라라베야", "Andorra la Vella")), ("cabify", None)],
     },
     "it": {
         "summary": T("우측통행. Trenitalia·Italo 고속철과 지역 버스가 중심입니다.", "Drive on the right. Trenitalia/Italo high-speed plus regional buses."),
         "drivingSide": "right",
         "longDistance": T("로마–밀라노–피렌체 Frecciarossa. 아말피·돌로미티는 버스·페리 조합.", "Frecciarossa on Rome–Milan–Florence; Amalfi/Dolomites need bus/ferry combos."),
         "nationalPasses": T("Eurail/Interrail + 좌석 예약. ITALO는 별도 티켓인 경우가 많습니다.", "Eurail/Interrail with seat reservations; Italo often separate."),
-        "paymentTip": T("대도시는 교통앱·메타네. 택시 앱·Uber 가능 도시를 확인하세요.", "City transit apps/contactless; check Uber coverage by city."),
-        "apps": [("trenitalia", ("기차", "Trains")), ("citymapper", ("로마·밀라노", "Rome & Milan")), ("uber", None)],
+        "paymentTip": T("대도시는 교통앱·컨택리스. 일반 택시는 Free Now, Uber는 블랙 등 프리미엄 위주입니다.", "City transit apps/contactless. Free Now for regular taxis; Uber is mostly Black/premium."),
+        "apps": [("trenitalia", ("기차", "Trains")), ("free-now", ("일반 택시", "Licensed taxis")), ("uber", ("블랙 위주", "Mostly Black"))],
     },
     "va": {
         "summary": T("바티칸은 보행 중심. 로마 시내 교통으로 접근합니다.", "Vatican City is walkable; access via Rome’s transit."),
         "drivingSide": "right",
         "longDistance": T("로마 테르미니·메트로 A Ottaviano/Cipro가 일반적입니다.", "Usually via Roma Termini or metro A (Ottaviano/Cipro)."),
         "paymentTip": T("로마 ATAC 티켓·앱. 바티칸 내부는 보안검색 후 도보.", "Rome ATAC tickets/apps; walk after Vatican security."),
-        "apps": [("trenitalia", None), ("uber", None)],
+        "apps": [("trenitalia", None), ("free-now", ("로마 택시", "Rome taxis")), ("uber", ("로마에서 블랙", "Black from Rome"))],
     },
     "mt": {
         "summary": T("좌측통행. 버스와 고조 페리가 핵심입니다.", "Drive on the left. Buses and the Gozo ferry are essential."),
@@ -219,16 +219,16 @@ COUNTRIES: dict[str, dict] = {
         "summary": T("좌측통행. 도시 간은 버스가 주력이며 렌터 수요가 큽니다.", "Drive on the left. Intercity buses dominate; car hire is popular."),
         "drivingSide": "left",
         "longDistance": T("니코시아·리마솔·파포스 장거리 버스. 야간·주말은 배차가 줄어듭니다.", "Intercity buses between Nicosia, Limassol, Paphos; thinner evening/weekend service."),
-        "paymentTip": T("버스 현금·카드. 택시 앱·전화 호출이 흔합니다.", "Bus cash/card; phone or app taxis are common."),
-        "apps": [("bolt", None), ("uber", None)],
+        "paymentTip": T("버스 현금·카드. 우버는 없고 Bolt가 표준입니다.", "Bus cash/card; no Uber—Bolt is the standard."),
+        "apps": [("bolt", ("우버 없음", "No Uber"))],
     },
     "dk": {
         "summary": T("우측통행. DSB 기차와 코펜하겐 메트로·버스가 우수합니다.", "Drive on the right. Excellent DSB trains and Copenhagen metro/buses."),
         "drivingSide": "right",
         "longDistance": T("코펜하겐–오르후스 등. 외레순 다리로 말뫼 연결.", "Copenhagen–Aarhus etc.; Øresund bridge to Malmö."),
         "nationalPasses": T("Eurail/Interrail + Rejsekort/city passes.", "Eurail/Interrail plus Rejsekort/city passes."),
-        "paymentTip": T("Rejsekort 또는 모바일 티켓. 도시는 contactless 확대.", "Rejsekort or mobile tickets; contactless expanding in cities."),
-        "apps": [("dsb", ("기차", "Trains")), ("citymapper", ("코펜하겐", "Copenhagen")), ("uber", None)],
+        "paymentTip": T("Rejsekort 또는 모바일 티켓. 2026년 우버가 재진입했지만 Bolt·공식 택시도 같이 두세요.", "Rejsekort or mobile tickets. Uber returned in 2026; still keep Bolt and official taxis."),
+        "apps": [("dsb", ("기차", "Trains")), ("bolt", ("우버 대체", "Uber alternative")), ("uber", ("코펜하겐 등", "Copenhagen etc."))],
     },
     "se": {
         "summary": T("우측통행. SJ 기차와 SL(스톡홀름) 등 시내 교통이 잘 연결되어 있습니다.", "Drive on the right. SJ trains and city systems like SL (Stockholm)."),
@@ -236,7 +236,7 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("스톡홀름·예테보리·말뫼 허브. 북부는 야간열차·국내선.", "Stockholm/Gothenburg/Malmö hubs; north needs night trains or flights."),
         "nationalPasses": T("Eurail/Interrail + SJ 예약. SL/Västtrafik 시내 패스.", "Eurail/Interrail + SJ bookings; SL/Västtrafik city passes."),
         "paymentTip": T("앱 티켓·contactless. 도시는 Uber·Bolt도 가능합니다.", "App tickets/contactless; Uber/Bolt in cities."),
-        "apps": [("sj", ("기차", "Trains")), ("uber", None), ("bolt", None)],
+        "apps": [("sj", ("기차", "Trains")), ("bolt", None), ("uber", None)],
     },
     "no": {
         "summary": T("우측통행. Vy 기차·장거리 버스·피요르드 페리가 핵심입니다.", "Drive on the right. Vy trains, coaches, and fjord ferries are key."),
@@ -244,7 +244,7 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("오슬로 허브. 베르겐선·북극행은 예약 필수. 산악·피요르드는 버스+페리.", "Oslo hub; book Bergen Line/Arctic services; mountains need bus+ferry."),
         "nationalPasses": T("Eurail/Interrail + Vy. 페리·관광 열차는 추가 요금.", "Eurail/Interrail + Vy; ferries/scenic trains often extra."),
         "paymentTip": T("Entur 앱으로 통합 조회. 도시는 Ruter 등 지역 앱.", "Entur for nationwide planning; city apps like Ruter."),
-        "apps": [("vy", ("기차·버스", "Trains & buses")), ("uber", ("오슬로 등", "Oslo etc.")), ("bolt", None)],
+        "apps": [("vy", ("기차·버스", "Trains & buses")), ("bolt", None), ("uber", ("오슬로·베르겐 등", "Oslo, Bergen etc."))],
     },
     "fi": {
         "summary": T("우측통행. VR 기차와 HSL(헬싱키) 시내 교통이 중심입니다.", "Drive on the right. VR trains and HSL (Helsinki) city transit."),
@@ -252,36 +252,36 @@ COUNTRIES: dict[str, dict] = {
         "longDistance": T("헬싱키 허브. 북부·라플란드는 야간열차·국내선.", "Helsinki hub; north/Lapland via night trains or flights."),
         "nationalPasses": T("Eurail/Interrail + VR. HSL day tickets for the capital region.", "Eurail/Interrail + VR; HSL day tickets for the capital."),
         "paymentTip": T("HSL 앱·VR 앱. Uber·Bolt가 헬싱키에서 흔합니다.", "HSL/VR apps; Uber/Bolt common in Helsinki."),
-        "apps": [("vr", ("기차", "Trains")), ("uber", None), ("bolt", None)],
+        "apps": [("vr", ("기차", "Trains")), ("bolt", None), ("uber", None)],
     },
     "is": {
         "summary": T("우측통행. 시외는 버스·렌터가 사실상 필수에 가깝습니다.", "Drive on the right. Outside Reykjavík, buses or rentals are nearly essential."),
         "drivingSide": "right",
         "longDistance": T("스트레이토 버스·관광 버스. 링로드는 렌터 일정이 일반적입니다.", "Strætó and tour coaches; Ring Road trips usually need a car."),
-        "paymentTip": T("레이캬비크 Klapp 앱. 택시·렌터 비용이 높은 편입니다.", "Reykjavík Klapp app; taxis/rentals are pricey."),
-        "apps": [("uber", None), ("bolt", None)],
+        "paymentTip": T("레이캬비크는 Bolt. 우버는 없고 공항–시내는 Flybus가 훨씬 쌉니다.", "Reykjavík: Bolt. No Uber; Flybus beats taxis to the airport."),
+        "apps": [("bolt", ("레이캬비크", "Reykjavík"))],
     },
     "ee": {
         "summary": T("우측통행. Elron 기차와 탈린 시내 교통이 편합니다.", "Drive on the right. Elron trains and Tallinn city transit work well."),
         "drivingSide": "right",
         "longDistance": T("탈린–타르투 기차·버스. 헬싱키는 페리.", "Tallinn–Tartu by train/bus; ferries to Helsinki."),
         "nationalPasses": T("Eurail 일부. 탈린 관광카드가 시내에 유용.", "Partial Eurail; Tallinn cards help in the city."),
-        "paymentTip": T("탈린은 교통카드·앱. Bolt가 널리 쓰입니다.", "Tallinn card/app; Bolt is widely used."),
-        "apps": [("bolt", None), ("uber", None)],
+        "paymentTip": T("탈린은 교통카드·앱. Bolt가 기본이고 Uber는 탈린에서만 됩니다.", "Tallinn card/app; Bolt is the default, Uber only in Tallinn."),
+        "apps": [("bolt", ("우버 대체", "Uber alternative")), ("uber", ("탈린만", "Tallinn only"))],
     },
     "lv": {
         "summary": T("우측통행. 리가는 트램·버스, 시외는 버스가 중심입니다.", "Drive on the right. Riga trams/buses; coaches elsewhere."),
         "drivingSide": "right",
         "longDistance": T("리가 허브 버스·기차. 탈린·빌뉴스 국제 버스가 흔합니다.", "Riga coach/train hub; frequent buses to Tallinn/Vilnius."),
-        "paymentTip": T("리가 e-talons. Bolt·택시 앱 권장.", "Riga e-talons; prefer Bolt/taxi apps."),
-        "apps": [("bolt", None), ("uber", None)],
+        "paymentTip": T("리가 e-talons. 우버는 없고 Bolt가 표준입니다.", "Riga e-talons; no Uber—Bolt is the standard."),
+        "apps": [("bolt", ("우버 없음", "No Uber"))],
     },
     "lt": {
         "summary": T("우측통행. 빌뉴스·카우나스 버스·트롤리·기차가 연결됩니다.", "Drive on the right. Vilnius/Kaunas buses, trolleys, and trains."),
         "drivingSide": "right",
         "longDistance": T("빌뉴스 허브. 폴란드·라트비아 방면 버스가 편합니다.", "Vilnius hub; buses toward Poland and Latvia are easy."),
-        "paymentTip": T("시내 교통카드·앱. Bolt가 일반적입니다.", "City cards/apps; Bolt is typical."),
-        "apps": [("bolt", None), ("uber", None)],
+        "paymentTip": T("시내 교통카드·앱. Bolt가 훨씬 잘 잡히고 Uber는 빌뉴스에서만, 대기 시간이 길 수 있습니다.", "City cards/apps; Bolt is far more reliable, Uber only in Vilnius with long waits."),
+        "apps": [("bolt", ("우버보다 잘 잡힘", "Usually more cars")), ("uber", ("빌뉴스만", "Vilnius only"))],
     },
     "hr": {
         "summary": T("우측통행. 장거리 버스·아드리아 페리가 핵심입니다.", "Drive on the right. Long-distance buses and Adriatic ferries are key."),
@@ -296,8 +296,8 @@ COUNTRIES: dict[str, dict] = {
         "drivingSide": "right",
         "longDistance": T("류블랴나 허브. 블레드·포스토이나는 버스가 편합니다.", "Ljubljana hub; Bled/Postojna are easy by bus."),
         "nationalPasses": T("Eurail/Interrail. 당일 버스 패스도 유용합니다.", "Eurail/Interrail; day bus tickets help."),
-        "paymentTip": T("시내 Urbana 등. Bolt·Uber 가능 도시를 확인하세요.", "City cards like Urbana; check Bolt/Uber coverage."),
-        "apps": [("trainline", None), ("bolt", None), ("uber", None)],
+        "paymentTip": T("시내 Urbana 등. 우버는 없고 Bolt를 쓰세요.", "City cards like Urbana; no Uber—use Bolt."),
+        "apps": [("trainline", None), ("bolt", ("우버 없음", "No Uber"))],
     },
     "ba": {
         "summary": T("우측통행. 장거리 버스가 도시 간 이동의 기본입니다.", "Drive on the right. Intercity buses are the default."),
@@ -310,8 +310,8 @@ COUNTRIES: dict[str, dict] = {
         "summary": T("우측통행. 해안 버스와 렌터가 여행에 유용합니다.", "Drive on the right. Coastal buses and rentals help a lot."),
         "drivingSide": "right",
         "longDistance": T("포드를리차·코토르·부드바 버스. 두브로브니크 방면 국제 버스.", "Buses Podgorica–Kotor–Budva; coaches toward Dubrovnik."),
-        "paymentTip": T("터미널·온라인 버스 티켓. 택시 요금은 미리 확인하세요.", "Station/online bus tickets; confirm taxi fares first."),
-        "apps": [("bolt", None), ("uber", None)],
+        "paymentTip": T("터미널·온라인 버스 티켓. 우버는 없고 Bolt·현지 택시입니다.", "Station/online bus tickets; no Uber—Bolt or local taxis."),
+        "apps": [("bolt", ("우버 없음", "No Uber"))],
     },
     "rs": {
         "summary": T("우측통행. Srbija Voz 기차와 장거리 버스가 병행됩니다.", "Drive on the right. Srbija Voz trains plus long-distance buses."),
@@ -347,22 +347,22 @@ COUNTRIES: dict[str, dict] = {
         "drivingSide": "right",
         "longDistance": T("부쿠레슈티 허브. 브라쇼브·클루지 기차·버스.", "Bucharest hub; Brașov/Cluj by train or bus."),
         "nationalPasses": T("Eurail/Interrail + CFR 예약.", "Eurail/Interrail with CFR reservations."),
-        "paymentTip": T("부쿠레슈티 Metrorex 카드. Bolt·Uber가 편합니다.", "Bucharest Metrorex card; Bolt/Uber help."),
-        "apps": [("trainline", ("예약 보조", "Booking help")), ("bolt", None), ("uber", None)],
+        "paymentTip": T("부쿠레슈티 Metrorex 카드. Bolt가 기본이고 Uber는 대도시 보조입니다.", "Bucharest Metrorex card; Bolt first, Uber as backup in big cities."),
+        "apps": [("trainline", ("예약 보조", "Booking help")), ("bolt", ("우버 대체", "Uber alternative")), ("uber", None)],
     },
     "tr": {
         "summary": T("우측통행. 고속철·장거리 버스·도시 메트로/페리가 발달했습니다.", "Drive on the right. High-speed rail, coaches, and city metro/ferries."),
         "drivingSide": "right",
         "longDistance": T("이스탄불·앙카라 허브. 국내선·고속버스(Metro/Kamil Koç 등)가 흔합니다.", "Istanbul/Ankara hubs; domestic flights and big coaches are common."),
-        "paymentTip": T("이스탄불kart. BiTaksi·Uber 가능. 장거리는 bus apps.", "Istanbulkart; BiTaksi/Uber; coach apps for long trips."),
-        "apps": [("uber", None), ("bolt", None), ("flixbus", None)],
+        "paymentTip": T("이스탄불kart. BiTaksi·Bolt·Uber(규제 변동 있음). 장거리는 고속버스 앱.", "Istanbulkart; BiTaksi, Bolt, and Uber (rules shift). Coaches for long trips."),
+        "apps": [("bolt", ("우버 대체", "Uber alternative")), ("uber", ("대도시·규제 확인", "Big cities; check rules"))],
     },
     "ge": {
         "summary": T("우측통행. 기차·마슈루트카·장거리 버스로 이동합니다.", "Drive on the right. Trains, marshrutkas, and coaches."),
         "drivingSide": "right",
         "longDistance": T("트빌리시 허브. 바투미 기차·버스. 카즈베기는 미니버스·렌터.", "Tbilisi hub; Batumi by train/bus; Kazbegi by minibus/rental."),
         "paymentTip": T("트빌리시 MetroMoney. Bolt·Yandex Go가 흔합니다.", "Tbilisi MetroMoney; Bolt/Yandex Go are common."),
-        "apps": [("bolt", None), ("uber", None)],
+        "apps": [("bolt", ("우버 없음", "No Uber"))],
     },
 }
 
@@ -375,8 +375,8 @@ CURATED: dict[str, dict] = {
         "Viva Viagem / Navegante 카드 또는 교통 앱. 90분 환승 티켓·일일권이 편합니다. 28번 트램은 혼잡하니 일찍 타세요.",
         "Viva Viagem / Navegante card or transit apps. 90-min transfers or day passes work well. Tram 28 is crowded—go early.",
         ["citymapper", "carris", "metro-lisboa", "uber"],
-        airport_ko="공항 메트로(vermelho)로 Saldanha·Baixa 방면 약 25–40분. Uber/택시 약 15–25€.",
-        airport_en="Metro (red line) toward Saldanha/Baixa ~25–40 min. Uber/taxi about €15–25.",
+        airport_ko="공항 메트로(vermelho)로 Saldanha·Baixa 방면 약 25–40분. Bolt/Uber/택시 약 15–25€.",
+        airport_en="Metro (red line) toward Saldanha/Baixa ~25–40 min. Bolt/Uber/taxi about €15–25.",
         tip_ko="알파마·바이샤는 언덕이 많아 트램·엘리베이터·케이블카를 같이 쓰면 편합니다.",
         tip_en="Alfama and Baixa are hilly—combine trams, elevators, and funiculars.",
         notes={"carris": ("시내 버스·트램", "City bus & tram")},
@@ -386,8 +386,8 @@ CURATED: dict[str, dict] = {
         "Andante 카드로 메트로·버스 통합. 존(zone)별 요금. Sao Bento–Campanhã 기차·시내 이동에 유용합니다.",
         "Andante card covers metro and buses by zone. Handy with São Bento–Campanhã trains.",
         ["citymapper", "metro-porto", "uber"],
-        airport_ko="메트로 E선으로 시내(트린다지 등) 약 30–40분. 택시·Uber 약 20–30€.",
-        airport_en="Metro line E to downtown (e.g. Trindade) ~30–40 min. Taxi/Uber about €20–30.",
+        airport_ko="메트로 E선으로 시내(트린다지 등) 약 30–40분. Bolt/택시 약 20–30€.",
+        airport_en="Metro line E to downtown (e.g. Trindade) ~30–40 min. Bolt/taxi about €20–30.",
         tip_ko="히베이라·빌라 노바 드 가이아 강변은 도보·메트로·수상 택시 조합이 좋습니다.",
         tip_en="Ribeira and Gaia waterfront work well on foot, metro, or water taxi.",
     ),
@@ -422,8 +422,8 @@ CURATED: dict[str, dict] = {
         "시내는 도보·시내버스. Bom Jesus는 버스 또는 Uber + 언덕 엘리베이터/계단.",
         "Walk or city bus downtown. Bom Jesus: bus/Uber plus funicular or stairs.",
         ["cp", "uber"],
-        airport_ko="포르투 공항에서 버스·기차 환승 또는 Uber(약 40–50분).",
-        airport_en="From Porto airport: bus/train transfer or Uber (~40–50 min).",
+        airport_ko="포르투 공항에서 버스·기차 환승 또는 Bolt(약 40–50분).",
+        airport_en="From Porto airport: bus/train transfer or Bolt (~40–50 min).",
     ),
     "nazare": city(
         ["bus", "taxi", "rideshare", "walk"],
@@ -897,51 +897,183 @@ CURATED.update({
     ),
 })
 
-# Default apps by country
+# Default transit apps by country (rideshare is merged in merge_rideshare)
 COUNTRY_CITY_APPS: dict[str, list[str]] = {
-    "fr": ["sncf", "uber", "citymapper"],
-    "uk": ["trainline", "uber", "tfl"],
-    "ie": ["irish-rail", "uber", "bolt"],
-    "be": ["sncb", "uber", "citymapper"],
-    "nl": ["ns", "uber", "citymapper"],
-    "lu": ["cfl", "uber"],
-    "mc": ["uber", "free-now"],
-    "de": ["db", "free-now", "uber"],
-    "ch": ["sbb", "uber"],
-    "at": ["oebb", "uber", "bolt"],
-    "li": ["sbb", "uber"],
-    "cz": ["cd", "bolt", "uber"],
-    "sk": ["bolt", "uber", "trainline"],
-    "hu": ["mav", "bolt", "uber"],
-    "pl": ["pkp", "bolt", "uber"],
-    "es": ["renfe", "uber", "cabify"],
-    "pt": ["cp", "uber", "rede-expressos"],
-    "ad": ["alsa", "uber"],
-    "it": ["trenitalia", "uber", "free-now"],
-    "va": ["trenitalia", "uber"],
-    "mt": ["bolt", "uber"],
-    "gr": ["bolt", "uber"],
-    "cy": ["bolt", "uber"],
-    "dk": ["dsb", "uber"],
-    "se": ["sj", "uber", "bolt"],
-    "no": ["vy", "uber", "bolt"],
-    "fi": ["vr", "uber", "bolt"],
-    "is": ["uber", "bolt"],
-    "ee": ["bolt", "uber"],
-    "lv": ["bolt", "uber"],
-    "lt": ["bolt", "uber"],
-    "hr": ["flixbus", "bolt", "uber"],
-    "si": ["bolt", "uber", "trainline"],
-    "ba": ["bolt", "flixbus"],
-    "me": ["bolt", "uber"],
-    "rs": ["bolt", "flixbus"],
-    "mk": ["bolt"],
-    "al": ["bolt"],
-    "bg": ["bolt", "flixbus"],
-    "ro": ["bolt", "uber", "trainline"],
-    "tr": ["uber", "bolt"],
-    "ge": ["bolt", "uber"],
+    "fr": ["sncf", "citymapper"],
+    "uk": ["trainline", "tfl"],
+    "ie": ["irish-rail"],
+    "be": ["sncb", "citymapper"],
+    "nl": ["ns", "citymapper"],
+    "lu": ["cfl"],
+    "mc": [],
+    "de": ["db", "citymapper"],
+    "ch": ["sbb"],
+    "at": ["oebb", "citymapper"],
+    "li": ["sbb"],
+    "cz": ["cd"],
+    "sk": ["trainline"],
+    "hu": ["mav"],
+    "pl": ["pkp"],
+    "es": ["renfe"],
+    "pt": ["cp", "rede-expressos"],
+    "ad": ["alsa"],
+    "it": ["trenitalia", "citymapper"],
+    "va": ["trenitalia"],
+    "mt": [],
+    "gr": [],
+    "cy": [],
+    "dk": ["dsb", "citymapper"],
+    "se": ["sj"],
+    "no": ["vy"],
+    "fi": ["vr"],
+    "is": [],
+    "ee": [],
+    "lv": [],
+    "lt": [],
+    "hr": ["flixbus"],
+    "si": ["trainline"],
+    "ba": ["flixbus"],
+    "me": [],
+    "rs": ["flixbus"],
+    "mk": [],
+    "al": [],
+    "bg": ["flixbus"],
+    "ro": ["trainline"],
+    "tr": [],
+    "ge": [],
 }
+
+RIDE_IDS = ("bolt", "cabify", "free-now", "uber")
+
+# Uber banned / never launched (tourist-relevant).
+NO_UBER_COUNTRIES = {
+    "hu", "bg", "ge", "is", "cy", "lv", "li", "mc", "me", "rs", "mk", "al", "ba", "si",
+}
+
+# If a country is listed, Uber only in these cities (not nationwide).
+UBER_ONLY_CITIES: dict[str, set[str]] = {
+    "nl": {"amsterdam", "rotterdam"},
+    "sk": {"bratislava"},
+    "ee": {"tallinn"},
+    "lt": {"vilnius"},
+    "no": {"oslo", "bergen", "stavanger", "tromso", "trondheim"},
+    "ch": {"zurich", "geneva", "basel", "lausanne"},
+    "gr": {"athens", "thessaloniki", "corfu", "santorini"},
+    "cz": {"prague", "brno"},
+    "ie": {"dublin", "cork", "galway", "limerick"},
+    "de": {"berlin", "munich", "hamburg", "cologne", "frankfurt", "stuttgart"},
+    "mt": {"valletta"},
+    "ad": {"andorra-la-vella"},
+    "lu": {"luxembourg-city"},
+    "at": {"vienna", "salzburg", "graz"},
+    "dk": {"copenhagen"},
+    "be": {"brussels", "antwerp", "ghent", "leuven"},
+}
+
+# Bolt is weak / absent.
+NO_BOLT_COUNTRIES = {"li", "mc", "ch", "ad"}
+BOLT_ONLY_CITIES: dict[str, set[str]] = {
+    "is": {"reykjavik"},
+}
+
+CABIFY_COUNTRIES = {"es", "pt", "ad"}
+FREE_NOW_COUNTRIES = {"de", "at", "uk", "ie", "es", "it", "fr", "be", "nl", "pt", "va"}
+
+UBER_NOTES = {
+    "it": ("블랙·밴 위주 (우버X 없음)", "Mostly Black/Van, not UberX"),
+    "de": ("면허 택시 배차", "Licensed taxis via the app"),
+    "va": ("로마에서 호출", "Hail from Rome"),
+    "mc": ("니스에서 출발", "Usually starts in Nice"),
+}
+BOLT_NOTES = {
+    "pt": ("우버보다 잘 잡히는 편", "Often more cars than Uber"),
+    "hu": ("우버 대체", "Uber alternative"),
+    "bg": ("우버 없음", "No Uber here"),
+    "ge": ("우버 없음 · Yandex도 흔함", "No Uber; Yandex Go also common"),
+    "is": ("우버 없음", "No Uber"),
+    "cy": ("우버 없음", "No Uber"),
+    "lv": ("우버 없음", "No Uber"),
+    "si": ("우버 없음", "No Uber"),
+    "ba": ("우버 없음", "No Uber"),
+    "me": ("우버 없음", "No Uber"),
+    "rs": ("우버 없음", "No Uber"),
+    "mk": ("우버 없음", "No Uber"),
+    "al": ("우버 없음", "No Uber"),
+    "pl": ("우버보다 빠른 편", "Often faster than Uber"),
+    "lt": ("우버보다 잘 잡힘", "Usually more cars than Uber"),
+    "ee": ("탈린 기본 앱", "Default in Tallinn"),
+}
+
+
+def _as_pair(item) -> tuple[str, tuple[str, str] | None]:
+    if isinstance(item, tuple):
+        return item[0], item[1]
+    return item, None
+
+
+def uber_ok(country_id: str, city_id: str | None = None) -> bool:
+    if country_id in NO_UBER_COUNTRIES:
+        return False
+    allow = UBER_ONLY_CITIES.get(country_id)
+    if allow is None:
+        return True
+    if city_id is None:
+        return True
+    return city_id in allow
+
+
+def bolt_ok(country_id: str, city_id: str | None = None) -> bool:
+    if country_id in NO_BOLT_COUNTRIES:
+        return False
+    allow = BOLT_ONLY_CITIES.get(country_id)
+    if allow is None:
+        return True
+    if city_id is None:
+        return True
+    return city_id in allow
+
+
+def merge_rideshare(country_id: str, city_id: str | None, apps: list) -> list:
+    if city_id == "gibraltar":
+        return list(apps)
+    parsed = [_as_pair(a) for a in apps]
+    notes = {i: n for i, n in parsed if n}
+    non_ride = [(i, n) for i, n in parsed if i not in RIDE_IDS]
+    ride_order: list[tuple[str, tuple[str, str] | None]] = []
+
+    if bolt_ok(country_id, city_id):
+        ride_order.append(("bolt", notes.get("bolt") or BOLT_NOTES.get(country_id)))
+    if country_id in CABIFY_COUNTRIES:
+        ride_order.append(("cabify", notes.get("cabify") or ("우버 대체", "Uber alternative")))
+    if country_id in FREE_NOW_COUNTRIES or country_id == "mc":
+        fn_note = notes.get("free-now")
+        if country_id == "mc":
+            fn_note = fn_note or ("모나코 안 우버 불가 · 니스에서", "No Uber pickup in Monaco; try from Nice")
+        elif not fn_note:
+            fn_note = ("면허 택시", "Licensed taxis")
+        ride_order.append(("free-now", fn_note))
+    if uber_ok(country_id, city_id):
+        ride_order.append(("uber", notes.get("uber") or UBER_NOTES.get(country_id)))
+
+    seen: set[str] = set()
+    out: list[tuple[str, tuple[str, str] | None]] = []
+    for raw in non_ride + ride_order:
+        i, n = raw if isinstance(raw[0], str) else _as_pair(raw)
+        if not isinstance(i, str):
+            i, n = _as_pair(i)
+        if i in seen:
+            continue
+        seen.add(i)
+        out.append((i, n))
+    return out
+
+
+def strip_rideshare_mode(modes: list[str], apps: list) -> list[str]:
+    ids = {a[0] if isinstance(a, tuple) else a for a in apps}
+    if ids & set(RIDE_IDS):
+        return modes
+    return [m for m in modes if m != "rideshare"]
+
 
 # City class heuristics for modes / copy
 METRO_CITIES = {
@@ -989,10 +1121,13 @@ def label(city_id: str) -> str:
 
 def synthesize(country_id: str, city_id: str) -> dict:
     if city_id in CURATED:
-        return CURATED[city_id]
+        entry = dict(CURATED[city_id])
+        entry["apps"] = merge_rideshare(country_id, city_id, entry["apps"])
+        entry["modes"] = strip_rideshare_mode(list(entry["modes"]), entry["apps"])
+        return entry
 
     name = label(city_id)
-    apps = list(COUNTRY_CITY_APPS.get(country_id, ["uber", "bolt"]))
+    apps = merge_rideshare(country_id, city_id, list(COUNTRY_CITY_APPS.get(country_id, [])))
     modes = ["bus", "taxi", "walk"]
 
     if city_id in METRO_CITIES:
@@ -1016,6 +1151,7 @@ def synthesize(country_id: str, city_id: str) -> dict:
     # Deduplicate preserving order
     seen = set()
     modes = [m for m in modes if not (m in seen or seen.add(m))]
+    modes = strip_rideshare_mode(modes, apps)
 
     how_ko = f"{name}: 시내버스·도보가 기본입니다. 인근 도시는 기차·장거리 버스를 이용하세요."
     how_en = f"{name} is mainly local buses and walking. Use trains or coaches for nearby cities."
@@ -1150,10 +1286,9 @@ def emit_apps(apps: list, indent: int) -> str:
     sp = " " * indent
     lines = [f"{sp}apps: ["]
     for item in apps:
-        if isinstance(item, tuple):
-            app_id, note = item
-        else:
-            app_id, note = item, None
+        app_id, note = _as_pair(item)
+        if not isinstance(app_id, str):
+            app_id, note = _as_pair(app_id)
         if note:
             lines.append(
                 f"{sp}  ta('{app_id}', {{ ko: '{esc(note[0])}', en: '{esc(note[1])}' }}),"
@@ -1210,6 +1345,10 @@ def emit_country(cid: str, data: dict, indent: int = 2) -> str:
 
 
 def main() -> None:
+    for cid, data in COUNTRIES.items():
+        if data.get("apps"):
+            data["apps"] = merge_rideshare(cid, None, data["apps"])
+
     # Build all cities
     all_cities: dict[str, dict] = {}
     for cid, city_ids in MAP.items():

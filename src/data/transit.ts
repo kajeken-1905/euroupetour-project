@@ -108,7 +108,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('sncf', { ko: '기차·TGV', en: 'Trains / TGV' }),
-      ta('citymapper', { ko: '파리 등', en: 'Paris etc.' }),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -133,6 +134,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('tfl', { ko: '런던', en: 'London' }),
       ta('trainline', { ko: '기차 예약', en: 'Train booking' }),
+      ta('bolt', { ko: '런던 등', en: 'London etc.' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -156,8 +159,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('irish-rail', { ko: '기차', en: 'Trains' }),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '더블린 등', en: 'Dublin etc.' }),
-      ta('bolt'),
     ],
   },
   be: {
@@ -180,7 +184,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('sncb', { ko: '국영 기차', en: 'National trains' }),
-      ta('citymapper', { ko: '브뤼셀', en: 'Brussels' }),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -199,13 +204,14 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail + NS day tickets; NS and city bike hire.',
     },
     paymentTip: {
-      ko: 'OV-chipkaart 또는 스마트폰 check-in/out 필수.',
-      en: 'OV-chipkaart or phone check-in/out is required.',
+      ko: 'OV-chipkaart 또는 스마트폰 check-in/out 필수. Uber는 암스테르담·로테르담 중심, 다른 도시는 Bolt.',
+      en: 'OV-chipkaart or phone check-in/out. Uber is mainly Amsterdam/Rotterdam; Bolt elsewhere.',
     },
     apps: [
       ta('ns', { ko: '기차', en: 'Trains' }),
-      ta('citymapper', { ko: '암스테르담', en: 'Amsterdam' }),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '암스테르담·로테르담', en: 'Amsterdam & Rotterdam' }),
     ],
   },
   lu: {
@@ -228,7 +234,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('cfl', { ko: '기차·이동', en: 'Rail & travel' }),
-      ta('uber'),
+      ta('bolt'),
+      ta('uber', { ko: '룩셈부르크시', en: 'Luxembourg City' }),
     ],
   },
   mc: {
@@ -242,12 +249,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Train/bus to Nice; Nice Côte d\'Azur Airport is usual.',
     },
     paymentTip: {
-      ko: '캠(CAM) 버스 카드·앱. 택시 미터요금.',
-      en: 'CAM bus card/app; metered taxis.',
+      ko: '캠(CAM) 버스 카드·앱. 우버는 모나코 안에서 호출이 안 되고, 니스에서 들어오는 식입니다.',
+      en: 'CAM bus card/app. Uber cannot pick up inside Monaco; rides usually start from Nice.',
     },
     apps: [
-      ta('uber'),
-      ta('free-now'),
+      ta('free-now', { ko: '니스·코트다쥐르', en: 'Nice / Côte d\'Azur' }),
     ],
   },
   de: {
@@ -265,13 +271,14 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Deutschland-Ticket (regional) and Eurail/Interrail; reserve ICE seats.',
     },
     paymentTip: {
-      ko: '대도시는 교통권·스마트폰. DB Navigator로 장거리 예매.',
-      en: 'City tickets/phone taps; DB Navigator for long-distance.',
+      ko: '대도시는 교통권·스마트폰. 호출은 Free Now가 안정적이고, Uber·Bolt는 면허 택시 배차입니다.',
+      en: 'City tickets/phone taps; Free Now is reliable, Uber/Bolt dispatch licensed taxis.',
     },
     apps: [
       ta('db', { ko: 'DB 기차', en: 'DB trains' }),
-      ta('citymapper', { ko: '베를린 등', en: 'Berlin etc.' }),
-      ta('free-now'),
+      ta('bolt'),
+      ta('free-now', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   ch: {
@@ -294,7 +301,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('sbb', { ko: '기차·버스', en: 'Trains & buses' }),
-      ta('uber', { ko: '주요 도시', en: 'Major cities' }),
+      ta('uber', { ko: '취리히·제네바 등', en: 'Zürich, Geneva etc.' }),
     ],
   },
   at: {
@@ -318,6 +325,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('oebb', { ko: 'ÖBB 기차', en: 'ÖBB trains' }),
       ta('citymapper', { ko: '빈', en: 'Vienna' }),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -332,12 +341,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Transfer at Swiss/Austrian border stations then bus.',
     },
     paymentTip: {
-      ko: 'LIEmobil 티켓·데이패스. 스위스 Travel Pass 특례를 확인하세요.',
-      en: 'LIEmobil tickets/day passes; check Swiss Travel Pass rules.',
+      ko: 'LIEmobil 티켓·데이패스. 우버·볼트는 없고 현지 택시입니다.',
+      en: 'LIEmobil tickets/day passes; no Uber/Bolt—use local taxis.',
     },
     apps: [
       ta('sbb', { ko: '인접 스위스 연결', en: 'Swiss connections' }),
-      ta('uber'),
     ],
   },
   cz: {
@@ -355,13 +363,13 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail + ČD discounts; Prague tourist passes for the city.',
     },
     paymentTip: {
-      ko: '프라하는 PID 리트바/앱. 택시 앱(Bolt·Uber) 추천.',
-      en: 'Prague PID Litacka/app; prefer Bolt/Uber over street taxis.',
+      ko: '프라하는 PID 리트바/앱. 호출은 Bolt가 기본, Uber는 프라하·브르노.',
+      en: 'Prague PID Litacka/app; Bolt first, Uber in Prague/Brno.',
     },
     apps: [
       ta('cd', { ko: '기차', en: 'Trains' }),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('uber', { ko: '프라하·브르노', en: 'Prague & Brno' }),
     ],
   },
   sk: {
@@ -379,13 +387,13 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail; check seasonal domestic discounts.',
     },
     paymentTip: {
-      ko: '시내 티켓 앱·키오스크. Bolt가 대도시에서 편합니다.',
-      en: 'City tickets via app/kiosk; Bolt helps in bigger towns.',
+      ko: '시내 티켓 앱·키오스크. 브라티슬라바는 Bolt가 편하고 Uber는 수도에서만 됩니다.',
+      en: 'City tickets via app/kiosk; Bolt is handy, Uber only in Bratislava.',
     },
     apps: [
       ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
       ta('bolt'),
-      ta('uber'),
+      ta('uber', { ko: '브라티슬라바만', en: 'Bratislava only' }),
     ],
   },
   hu: {
@@ -403,13 +411,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail plus Budapest Card in the city.',
     },
     paymentTip: {
-      ko: '부다페스트는 BudapestGO. 택시보다 Bolt·Uber 권장.',
-      en: 'BudapestGO app; prefer Bolt/Uber to street taxis.',
+      ko: '부다페스트는 BudapestGO. 우버는 2016년부터 없고 Bolt가 표준입니다.',
+      en: 'BudapestGO app; Uber has been banned since 2016—use Bolt.',
     },
     apps: [
       ta('mav', { ko: '기차', en: 'Trains' }),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   pl: {
@@ -427,12 +434,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail + PKP discounts; reserve seats.',
     },
     paymentTip: {
-      ko: '도시카드·Jakdojade 앱. Bolt·Uber가 흔합니다.',
-      en: 'City cards and Jakdojade; Bolt/Uber are common.',
+      ko: '도시카드·Jakdojade 앱. 호출은 Bolt가 더 빠르고 Uber는 대도시 보조입니다.',
+      en: 'City cards and Jakdojade; Bolt is usually faster, Uber as backup in big cities.',
     },
     apps: [
       ta('pkp', { ko: '기차', en: 'Trains' }),
-      ta('bolt'),
+      ta('bolt', { ko: '더 잘 잡힘', en: 'Usually more cars' }),
       ta('uber'),
     ],
   },
@@ -451,13 +458,16 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail plus Renfe seat reservations; seasonal Renfe passes/discounts also exist.',
     },
     paymentTip: {
-      ko: '대도시는 교통카드·스마트폰 탭 가능. 택시 앱(Free Now, Cabify)과 Uber 사용 지역을 확인하세요.',
-      en: 'Big cities support transit cards or phone tap. Check Free Now, Cabify, and Uber coverage.',
+      ko: '대도시는 교통카드·스마트폰 탭. 호출은 Cabify·Free Now·Bolt를 같이 두고, Uber는 도시마다 다릅니다.',
+      en: 'Big cities: transit cards or phone tap. Keep Cabify, Free Now, and Bolt; Uber coverage varies by city.',
     },
     apps: [
       ta('renfe', { ko: '기차·AVE', en: 'Trains / AVE' }),
       ta('alsa', { ko: '장거리 버스', en: 'Coach buses' }),
-      ta('citymapper', { ko: '마드리드·바르셀로나', en: 'Madrid & Barcelona' }),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   pt: {
@@ -475,12 +485,15 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail covers most long-distance trains; some need seat reservations.',
     },
     paymentTip: {
-      ko: '도시 교통은 카드·모바일 결제 중심. 소도시는 현금 키오스크도 있습니다.',
-      en: 'City transit is mostly card/mobile; smaller towns may still use cash kiosks.',
+      ko: '도시 교통은 카드·모바일. TVDE 호출은 Bolt가 우버보다 잘 잡히는 경우가 많고 Cabify도 있습니다.',
+      en: 'City transit is card/mobile. For TVDE rides Bolt often has more cars than Uber; Cabify too.',
     },
     apps: [
       ta('cp', { ko: '국영 기차', en: 'National trains' }),
       ta('rede-expressos', { ko: '장거리 버스', en: 'Coach buses' }),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often easier than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '주요 도시', en: 'Major cities' }),
     ],
   },
@@ -500,7 +513,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('alsa', { ko: '바르셀로나 방면', en: 'Toward Barcelona' }),
-      ta('uber'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('uber', { ko: '안도라라베야', en: 'Andorra la Vella' }),
     ],
   },
   it: {
@@ -518,13 +532,14 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail with seat reservations; Italo often separate.',
     },
     paymentTip: {
-      ko: '대도시는 교통앱·메타네. 택시 앱·Uber 가능 도시를 확인하세요.',
-      en: 'City transit apps/contactless; check Uber coverage by city.',
+      ko: '대도시는 교통앱·컨택리스. 일반 택시는 Free Now, Uber는 블랙 등 프리미엄 위주입니다.',
+      en: 'City transit apps/contactless. Free Now for regular taxis; Uber is mostly Black/premium.',
     },
     apps: [
       ta('trenitalia', { ko: '기차', en: 'Trains' }),
-      ta('citymapper', { ko: '로마·밀라노', en: 'Rome & Milan' }),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '일반 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙 위주', en: 'Mostly Black' }),
     ],
   },
   va: {
@@ -543,7 +558,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '로마 택시', en: 'Rome taxis' }),
+      ta('uber', { ko: '로마에서 블랙', en: 'Black from Rome' }),
     ],
   },
   mt: {
@@ -600,12 +617,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Intercity buses between Nicosia, Limassol, Paphos; thinner evening/weekend service.',
     },
     paymentTip: {
-      ko: '버스 현금·카드. 택시 앱·전화 호출이 흔합니다.',
-      en: 'Bus cash/card; phone or app taxis are common.',
+      ko: '버스 현금·카드. 우버는 없고 Bolt가 표준입니다.',
+      en: 'Bus cash/card; no Uber—Bolt is the standard.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   dk: {
@@ -623,13 +639,13 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail plus Rejsekort/city passes.',
     },
     paymentTip: {
-      ko: 'Rejsekort 또는 모바일 티켓. 도시는 contactless 확대.',
-      en: 'Rejsekort or mobile tickets; contactless expanding in cities.',
+      ko: 'Rejsekort 또는 모바일 티켓. 2026년 우버가 재진입했지만 Bolt·공식 택시도 같이 두세요.',
+      en: 'Rejsekort or mobile tickets. Uber returned in 2026; still keep Bolt and official taxis.',
     },
     apps: [
       ta('dsb', { ko: '기차', en: 'Trains' }),
-      ta('citymapper', { ko: '코펜하겐', en: 'Copenhagen' }),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('uber', { ko: '코펜하겐 등', en: 'Copenhagen etc.' }),
     ],
   },
   se: {
@@ -652,8 +668,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('sj', { ko: '기차', en: 'Trains' }),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   no: {
@@ -676,8 +692,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('vy', { ko: '기차·버스', en: 'Trains & buses' }),
-      ta('uber', { ko: '오슬로 등', en: 'Oslo etc.' }),
       ta('bolt'),
+      ta('uber', { ko: '오슬로·베르겐 등', en: 'Oslo, Bergen etc.' }),
     ],
   },
   fi: {
@@ -700,8 +716,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('vr', { ko: '기차', en: 'Trains' }),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   is: {
@@ -715,12 +731,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Strætó and tour coaches; Ring Road trips usually need a car.',
     },
     paymentTip: {
-      ko: '레이캬비크 Klapp 앱. 택시·렌터 비용이 높은 편입니다.',
-      en: 'Reykjavík Klapp app; taxis/rentals are pricey.',
+      ko: '레이캬비크는 Bolt. 우버는 없고 공항–시내는 Flybus가 훨씬 쌉니다.',
+      en: 'Reykjavík: Bolt. No Uber; Flybus beats taxis to the airport.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
+      ta('bolt', { ko: '레이캬비크', en: 'Reykjavík' }),
     ],
   },
   ee: {
@@ -738,12 +753,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Partial Eurail; Tallinn cards help in the city.',
     },
     paymentTip: {
-      ko: '탈린은 교통카드·앱. Bolt가 널리 쓰입니다.',
-      en: 'Tallinn card/app; Bolt is widely used.',
+      ko: '탈린은 교통카드·앱. Bolt가 기본이고 Uber는 탈린에서만 됩니다.',
+      en: 'Tallinn card/app; Bolt is the default, Uber only in Tallinn.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('uber', { ko: '탈린만', en: 'Tallinn only' }),
     ],
   },
   lv: {
@@ -757,12 +772,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Riga coach/train hub; frequent buses to Tallinn/Vilnius.',
     },
     paymentTip: {
-      ko: '리가 e-talons. Bolt·택시 앱 권장.',
-      en: 'Riga e-talons; prefer Bolt/taxi apps.',
+      ko: '리가 e-talons. 우버는 없고 Bolt가 표준입니다.',
+      en: 'Riga e-talons; no Uber—Bolt is the standard.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   lt: {
@@ -776,12 +790,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Vilnius hub; buses toward Poland and Latvia are easy.',
     },
     paymentTip: {
-      ko: '시내 교통카드·앱. Bolt가 일반적입니다.',
-      en: 'City cards/apps; Bolt is typical.',
+      ko: '시내 교통카드·앱. Bolt가 훨씬 잘 잡히고 Uber는 빌뉴스에서만, 대기 시간이 길 수 있습니다.',
+      en: 'City cards/apps; Bolt is far more reliable, Uber only in Vilnius with long waits.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars' }),
+      ta('uber', { ko: '빌뉴스만', en: 'Vilnius only' }),
     ],
   },
   hr: {
@@ -823,13 +837,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail; day bus tickets help.',
     },
     paymentTip: {
-      ko: '시내 Urbana 등. Bolt·Uber 가능 도시를 확인하세요.',
-      en: 'City cards like Urbana; check Bolt/Uber coverage.',
+      ko: '시내 Urbana 등. 우버는 없고 Bolt를 쓰세요.',
+      en: 'City cards like Urbana; no Uber—use Bolt.',
     },
     apps: [
       ta('trainline'),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   ba: {
@@ -847,8 +860,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Buy bus tickets at stations; use Bolt/taxis in cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   me: {
@@ -862,12 +875,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Buses Podgorica–Kotor–Budva; coaches toward Dubrovnik.',
     },
     paymentTip: {
-      ko: '터미널·온라인 버스 티켓. 택시 요금은 미리 확인하세요.',
-      en: 'Station/online bus tickets; confirm taxi fares first.',
+      ko: '터미널·온라인 버스 티켓. 우버는 없고 Bolt·현지 택시입니다.',
+      en: 'Station/online bus tickets; no Uber—Bolt or local taxis.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   rs: {
@@ -885,8 +897,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City bus cards/apps; CarGo/Bolt help in big cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   mk: {
@@ -904,7 +916,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Station tickets; city buses/taxis/Bolt.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   al: {
@@ -922,7 +934,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Cash is common; agree taxi fares first.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   bg: {
@@ -944,8 +956,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City transit cards; prefer TaxiMe/Bolt.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
     ],
   },
   ro: {
@@ -963,12 +975,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail with CFR reservations.',
     },
     paymentTip: {
-      ko: '부쿠레슈티 Metrorex 카드. Bolt·Uber가 편합니다.',
-      en: 'Bucharest Metrorex card; Bolt/Uber help.',
+      ko: '부쿠레슈티 Metrorex 카드. Bolt가 기본이고 Uber는 대도시 보조입니다.',
+      en: 'Bucharest Metrorex card; Bolt first, Uber as backup in big cities.',
     },
     apps: [
       ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
-      ta('bolt'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber'),
     ],
   },
@@ -983,13 +995,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Istanbul/Ankara hubs; domestic flights and big coaches are common.',
     },
     paymentTip: {
-      ko: '이스탄불kart. BiTaksi·Uber 가능. 장거리는 bus apps.',
-      en: 'Istanbulkart; BiTaksi/Uber; coach apps for long trips.',
+      ko: '이스탄불kart. BiTaksi·Bolt·Uber(규제 변동 있음). 장거리는 고속버스 앱.',
+      en: 'Istanbulkart; BiTaksi, Bolt, and Uber (rules shift). Coaches for long trips.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
-      ta('flixbus'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('uber', { ko: '대도시·규제 확인', en: 'Big cities; check rules' }),
     ],
   },
   ge: {
@@ -1007,8 +1018,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Tbilisi MetroMoney; Bolt/Yandex Go are common.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
 }
@@ -1028,8 +1038,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('citymapper'),
       ta('idfm', { ko: '일드프랑스 모빌리테', en: 'Île-de-France Mobilités' }),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('free-now'),
     ],
     tip: {
       ko: '성수기 메트로는 혼잡합니다. 박물관 구간은 일찍 이동하세요.',
@@ -1048,8 +1059,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   marseille: {
@@ -1064,8 +1077,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   nice: {
@@ -1080,8 +1095,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   bordeaux: {
@@ -1092,8 +1109,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   strasbourg: {
@@ -1104,8 +1123,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   annecy: {
@@ -1116,8 +1137,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   avignon: {
@@ -1128,8 +1151,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   toulouse: {
@@ -1140,8 +1165,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   montpellier: {
@@ -1152,8 +1179,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   dijon: {
@@ -1164,8 +1193,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   chamonix: {
@@ -1176,8 +1207,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncf'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -1198,8 +1231,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('tfl'),
       ta('citymapper'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
     tip: {
       ko: '혼잡 요금·피크 요금을 피하려면 오프피크 이동이 유리합니다.',
@@ -1218,6 +1253,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -1233,8 +1270,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   bath: {
@@ -1245,8 +1284,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   oxford: {
@@ -1257,8 +1298,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   cambridge: {
@@ -1269,8 +1312,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   liverpool: {
@@ -1281,8 +1326,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   brighton: {
@@ -1293,8 +1340,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   york: {
@@ -1305,8 +1354,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   bristol: {
@@ -1317,8 +1368,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trainline'),
-      ta('uber'),
       ta('tfl'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   // —— ie ——
@@ -1334,8 +1387,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('irish-rail'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   galway: {
@@ -1346,8 +1400,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('irish-rail'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   cork: {
@@ -1358,8 +1413,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('irish-rail'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   killarney: {
@@ -1370,8 +1426,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('irish-rail'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   kilkenny: {
@@ -1382,8 +1438,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('irish-rail'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   limerick: {
@@ -1394,8 +1450,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('irish-rail'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   // —— be ——
@@ -1412,8 +1469,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('sncb'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('free-now'),
     ],
   },
   bruges: {
@@ -1424,8 +1482,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncb'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   ghent: {
@@ -1436,8 +1495,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncb'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   antwerp: {
@@ -1448,8 +1509,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncb'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   leuven: {
@@ -1460,8 +1523,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncb'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   dinant: {
@@ -1472,8 +1537,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sncb'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   // —— nl ——
@@ -1490,6 +1556,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('ns'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -1505,8 +1573,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   'the-hague': {
@@ -1517,8 +1587,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   utrecht: {
@@ -1529,8 +1600,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   haarlem: {
@@ -1541,8 +1613,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   delft: {
@@ -1553,8 +1626,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   maastricht: {
@@ -1565,8 +1639,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   giethoorn: {
@@ -1577,8 +1652,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('ns'),
-      ta('uber'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -1594,6 +1670,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cfl'),
+      ta('bolt'),
       ta('uber'),
     ],
   },
@@ -1605,7 +1682,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cfl'),
-      ta('uber'),
+      ta('bolt'),
     ],
   },
   echternach: {
@@ -1616,7 +1693,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cfl'),
-      ta('uber'),
+      ta('bolt'),
     ],
   },
   remich: {
@@ -1627,7 +1704,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cfl'),
-      ta('uber'),
+      ta('bolt'),
     ],
   },
   // —— mc ——
@@ -1638,8 +1715,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Combine ferry, bus, and walking in Monaco. Check boat timetables first.',
     },
     apps: [
-      ta('uber'),
-      ta('free-now'),
+      ta('free-now', { ko: '모나코 안 우버 불가 · 니스에서', en: 'No Uber pickup in Monaco; try from Nice' }),
     ],
   },
   'monte-carlo': {
@@ -1649,8 +1725,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Combine ferry, bus, and walking in Monte Carlo. Check boat timetables first.',
     },
     apps: [
-      ta('uber'),
-      ta('free-now'),
+      ta('free-now', { ko: '모나코 안 우버 불가 · 니스에서', en: 'No Uber pickup in Monaco; try from Nice' }),
     ],
   },
   // —— de ——
@@ -1667,8 +1742,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('db'),
       ta('citymapper'),
-      ta('free-now'),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   munich: {
@@ -1684,8 +1760,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('db'),
       ta('citymapper'),
-      ta('free-now'),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   hamburg: {
@@ -1700,8 +1777,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   cologne: {
@@ -1712,8 +1791,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   frankfurt: {
@@ -1728,8 +1809,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   dresden: {
@@ -1740,8 +1823,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   heidelberg: {
@@ -1752,8 +1836,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   nuremberg: {
@@ -1764,8 +1849,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   stuttgart: {
@@ -1776,8 +1862,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
   leipzig: {
@@ -1788,8 +1876,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   rothenburg: {
@@ -1800,8 +1889,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -1816,8 +1906,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('db'),
-      ta('free-now'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   // —— ch ——
@@ -1852,36 +1943,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   bern: {
-    modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
+    modes: ['tram', 'bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Bern: 트램·버스가 중심입니다. 구시가는 도보가 편할 때가 많습니다.',
       en: 'Bern centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   lucerne: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Lucerne: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
       en: 'Reach Lucerne by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   interlaken: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Interlaken: 기차·산악열차·버스·케이블카 조합이 기본입니다. 자동차 규제를 확인하세요.',
       en: 'Interlaken usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -1900,14 +1988,13 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   zermatt: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Zermatt: 기차·산악열차·버스·케이블카 조합이 기본입니다. 자동차 규제를 확인하세요.',
       en: 'Zermatt usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -1926,36 +2013,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   lugano: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Lugano: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
       en: 'Reach Lugano by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   montreux: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Montreux: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
       en: 'Reach Montreux by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   grindelwald: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'Grindelwald: 기차·산악열차·버스·케이블카 조합이 기본입니다. 자동차 규제를 확인하세요.',
       en: 'Grindelwald usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -1963,14 +2047,13 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
   },
   'st-moritz': {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
       ko: 'St Moritz: 기차·산악열차·버스·케이블카 조합이 기본입니다. 자동차 규제를 확인하세요.',
       en: 'St Moritz usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -1991,8 +2074,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('oebb'),
       ta('citymapper'),
-      ta('uber'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   salzburg: {
@@ -2003,8 +2087,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('oebb'),
-      ta('uber'),
+      ta('citymapper'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   innsbruck: {
@@ -2015,8 +2101,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('oebb'),
-      ta('uber'),
+      ta('citymapper'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
   graz: {
@@ -2027,8 +2114,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('oebb'),
-      ta('uber'),
+      ta('citymapper'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   hallstatt: {
@@ -2039,8 +2128,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('oebb'),
-      ta('uber'),
+      ta('citymapper'),
       ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -2049,7 +2139,7 @@ export const cityTransitById: Record<string, CityTransit> = {
   },
   // —— li ——
   vaduz: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Vaduz에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Vaduz from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -2060,11 +2150,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   schaan: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Schaan에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Schaan from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -2075,11 +2164,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   malbun: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Malbun에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Malbun from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -2090,7 +2178,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sbb'),
-      ta('uber'),
     ],
   },
   // —— cz ——
@@ -2106,9 +2193,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cd'),
+      ta('citymapper'),
       ta('bolt'),
       ta('uber'),
-      ta('citymapper'),
     ],
   },
   brno: {
@@ -2132,7 +2219,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('cd'),
       ta('bolt'),
-      ta('uber'),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -2148,7 +2234,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('cd'),
       ta('bolt'),
-      ta('uber'),
     ],
   },
   'ceske-budejovice': {
@@ -2160,7 +2245,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('cd'),
       ta('bolt'),
-      ta('uber'),
     ],
   },
   // —— sk ——
@@ -2171,9 +2255,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bratislava centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   kosice: {
@@ -2183,9 +2267,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Kosice by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt'),
     ],
   },
   poprad: {
@@ -2195,9 +2278,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Poprad by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt'),
     ],
   },
   'banska-bystrica': {
@@ -2207,9 +2289,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Banska Bystrica by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt'),
     ],
   },
   trencin: {
@@ -2219,9 +2300,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Trencin by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt'),
     ],
   },
   // —— hu ——
@@ -2237,8 +2317,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('mav'),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   debrecen: {
@@ -2249,8 +2328,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('mav'),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   pecs: {
@@ -2261,8 +2339,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('mav'),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   szeged: {
@@ -2273,8 +2350,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('mav'),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   eger: {
@@ -2285,8 +2361,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('mav'),
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   // —— pl ——
@@ -2302,7 +2377,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2318,7 +2393,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2334,7 +2409,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2350,7 +2425,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2362,7 +2437,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2374,7 +2449,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2386,7 +2461,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('pkp'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
     ],
   },
@@ -2404,7 +2479,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('citymapper'),
       ta('metro-madrid'),
-      ta('free-now'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2425,8 +2502,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('citymapper'),
       ta('tmb'),
-      ta('free-now'),
-      ta('cabify'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
     tip: {
       ko: '사그라다 파밀리아·고딕 지구는 메트로+도보. 소매치기 주의로 가방은 앞으로.',
@@ -2444,9 +2523,11 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'EMT buses and metro. Island trains toward Sóller etc. Old town is walkable.',
     },
     apps: [
-      ta('uber'),
-      ta('cabify'),
       ta('renfe'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   seville: {
@@ -2461,7 +2542,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('tussam', { ko: '시내버스', en: 'City buses' }),
-      ta('cabify'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2476,8 +2559,10 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Alhambra needs timed tickets + bus C30/C32 or taxi. Albaicín: minibuses and walking.',
     },
     apps: [
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('cabify'),
     ],
   },
   valencia: {
@@ -2492,6 +2577,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('metrovalencia'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2507,8 +2595,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('renfe-cercanias'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('cabify'),
     ],
   },
   bilbao: {
@@ -2522,9 +2612,11 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Metro Bilbao, tram, and buses with Barik card. Guggenheim is tram/walk.',
     },
     apps: [
-      ta('uber'),
-      ta('cabify'),
       ta('renfe'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   toledo: {
@@ -2540,6 +2632,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('renfe'),
       ta('alsa'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2559,8 +2654,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('renfe'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('cabify'),
     ],
   },
   'san-sebastian': {
@@ -2574,9 +2671,11 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'City buses and walking for beach/old town. Euskotren/RENFE toward Bilbao/Hendaye.',
     },
     apps: [
-      ta('uber'),
-      ta('cabify'),
       ta('renfe'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   zaragoza: {
@@ -2591,8 +2690,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('renfe'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('cabify'),
     ],
   },
   salamanca: {
@@ -2608,6 +2709,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('renfe'),
       ta('alsa'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2624,6 +2728,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('renfe'),
       ta('alsa'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2640,6 +2747,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('renfe'),
       ta('alsa'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2656,6 +2766,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('renfe'),
       ta('alsa'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2671,8 +2784,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('renfe'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
-      ta('cabify'),
     ],
   },
   nerja: {
@@ -2687,6 +2802,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('alsa'),
+      ta('bolt'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2695,7 +2813,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
   },
   gibraltar: {
-    modes: ['bus', 'taxi', 'walk', 'rideshare'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '지브롤터 공항은 활주로를 건너 시내로 연결. 스페인(라 리네아)에서 도보 입국 후 버스·택시가 흔합니다.',
       en: 'Gibraltar Airport links on foot across the runway. Many arrive via La Línea (Spain) then bus/taxi.',
@@ -2716,8 +2834,8 @@ export const cityTransitById: Record<string, CityTransit> = {
   lisbon: {
     modes: ['metro', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
-      ko: '공항 메트로(vermelho)로 Saldanha·Baixa 방면 약 25–40분. Uber/택시 약 15–25€.',
-      en: 'Metro (red line) toward Saldanha/Baixa ~25–40 min. Uber/taxi about €15–25.',
+      ko: '공항 메트로(vermelho)로 Saldanha·Baixa 방면 약 25–40분. Bolt/Uber/택시 약 15–25€.',
+      en: 'Metro (red line) toward Saldanha/Baixa ~25–40 min. Bolt/Uber/taxi about €15–25.',
     },
     howTo: {
       ko: 'Viva Viagem / Navegante 카드 또는 교통 앱. 90분 환승 티켓·일일권이 편합니다. 28번 트램은 혼잡하니 일찍 타세요.',
@@ -2727,6 +2845,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('citymapper'),
       ta('carris', { ko: '시내 버스·트램', en: 'City bus & tram' }),
       ta('metro-lisboa'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2737,8 +2858,8 @@ export const cityTransitById: Record<string, CityTransit> = {
   porto: {
     modes: ['metro', 'bus', 'train', 'tram', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
-      ko: '메트로 E선으로 시내(트린다지 등) 약 30–40분. 택시·Uber 약 20–30€.',
-      en: 'Metro line E to downtown (e.g. Trindade) ~30–40 min. Taxi/Uber about €20–30.',
+      ko: '메트로 E선으로 시내(트린다지 등) 약 30–40분. Bolt/택시 약 20–30€.',
+      en: 'Metro line E to downtown (e.g. Trindade) ~30–40 min. Bolt/taxi about €20–30.',
     },
     howTo: {
       ko: 'Andante 카드로 메트로·버스 통합. 존(zone)별 요금. Sao Bento–Campanhã 기차·시내 이동에 유용합니다.',
@@ -2747,6 +2868,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('citymapper'),
       ta('metro-porto'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2766,6 +2890,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2785,6 +2912,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2800,6 +2930,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2814,6 +2947,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'City buses (HF) and taxis. Hilly—use cable cars/Uber. Flights to/from the mainland.',
     },
     apps: [
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2833,8 +2969,11 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
-      ta('uber'),
       ta('rede-expressos'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber'),
     ],
   },
   cascais: {
@@ -2849,6 +2988,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2864,6 +3006,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2879,6 +3024,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('rede-expressos'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2895,6 +3043,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('cp'),
       ta('rede-expressos'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2910,6 +3061,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('rede-expressos'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2920,8 +3074,8 @@ export const cityTransitById: Record<string, CityTransit> = {
   braga: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     airportToCity: {
-      ko: '포르투 공항에서 버스·기차 환승 또는 Uber(약 40–50분).',
-      en: 'From Porto airport: bus/train transfer or Uber (~40–50 min).',
+      ko: '포르투 공항에서 버스·기차 환승 또는 Bolt(약 40–50분).',
+      en: 'From Porto airport: bus/train transfer or Bolt (~40–50 min).',
     },
     howTo: {
       ko: '시내는 도보·시내버스. Bom Jesus는 버스 또는 Uber + 언덕 엘리베이터/계단.',
@@ -2929,6 +3083,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2944,6 +3101,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('rede-expressos'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
     tip: {
@@ -2963,6 +3123,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('cp'),
+      ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
     ],
   },
@@ -2979,6 +3142,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('alsa'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber'),
     ],
   },
@@ -2994,7 +3158,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('alsa'),
-      ta('uber'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   ordino: {
@@ -3009,7 +3173,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('alsa'),
-      ta('uber'),
+      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
   },
   // —— it ——
@@ -3026,8 +3190,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('trenitalia'),
       ta('citymapper'),
-      ta('uber'),
-      ta('free-now'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
     tip: {
       ko: '바티칸·콜로세오는 메트로+도보. 소매치기 주의.',
@@ -3047,8 +3212,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('trenitalia'),
       ta('citymapper'),
-      ta('uber'),
-      ta('free-now'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   florence: {
@@ -3063,7 +3229,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   venice: {
@@ -3078,7 +3246,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
     tip: {
       ko: '수상택시는 비쌉니다. 데이패스로 충분할 때가 많습니다.',
@@ -3097,8 +3267,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   bologna: {
@@ -3109,8 +3281,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   verona: {
@@ -3121,8 +3295,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   turin: {
@@ -3133,8 +3309,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   amalfi: {
@@ -3145,8 +3323,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   siena: {
@@ -3157,8 +3337,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   genoa: {
@@ -3169,8 +3351,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   palermo: {
@@ -3181,8 +3365,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
-      ta('free-now'),
+      ta('citymapper'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
   // —— va ——
@@ -3194,7 +3380,9 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
-      ta('uber'),
+      ta('bolt'),
+      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+      ta('uber', { ko: '로마에서 호출', en: 'Hail from Rome' }),
     ],
     tip: {
       ko: '성 베드로 광장 줄이 깁니다. 일찍 또는 예약 투어를 이용하세요.',
@@ -3229,7 +3417,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('bolt'),
-      ta('uber'),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -3248,7 +3435,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('bolt'),
-      ta('uber'),
     ],
   },
   // —— gr ——
@@ -3263,9 +3449,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ath.ena tickets. Metro to sights; Piraeus ferries link by metro.',
     },
     apps: [
+      ta('citymapper'),
       ta('bolt'),
       ta('uber'),
-      ta('citymapper'),
     ],
     tip: {
       ko: '섬 일정은 Blue Star 등 페리 예약을 먼저 하세요.',
@@ -3291,7 +3477,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('bolt'),
-      ta('uber'),
     ],
   },
   mykonos: {
@@ -3302,7 +3487,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('bolt'),
-      ta('uber'),
     ],
   },
   rhodes: {
@@ -3313,7 +3497,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('bolt'),
-      ta('uber'),
     ],
   },
   thessaloniki: {
@@ -3346,7 +3529,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('bolt'),
-      ta('uber'),
     ],
   },
   // —— cy ——
@@ -3361,8 +3543,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Nicosia is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   limassol: {
@@ -3376,8 +3557,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Limassol is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   paphos: {
@@ -3391,8 +3571,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Paphos is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   'ayia-napa': {
@@ -3406,8 +3585,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ayia Napa is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— dk ——
@@ -3424,6 +3602,7 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('dsb'),
       ta('citymapper'),
+      ta('bolt'),
       ta('uber'),
     ],
   },
@@ -3435,7 +3614,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('dsb'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
     ],
   },
   odense: {
@@ -3446,7 +3626,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('dsb'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
     ],
   },
   aalborg: {
@@ -3457,7 +3638,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('dsb'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
     ],
   },
   roskilde: {
@@ -3468,7 +3650,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('dsb'),
-      ta('uber'),
+      ta('citymapper'),
+      ta('bolt'),
     ],
   },
   // —— se ——
@@ -3484,8 +3667,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sj'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   gothenburg: {
@@ -3496,8 +3679,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sj'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   malmo: {
@@ -3508,8 +3691,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sj'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   uppsala: {
@@ -3520,8 +3703,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sj'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   kiruna: {
@@ -3532,8 +3715,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('sj'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   // —— no ——
@@ -3549,8 +3732,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   bergen: {
@@ -3561,8 +3744,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   tromso: {
@@ -3573,8 +3756,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   stavanger: {
@@ -3585,8 +3768,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   trondheim: {
@@ -3597,8 +3780,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   alesund: {
@@ -3609,7 +3792,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
     ],
   },
@@ -3621,7 +3803,6 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vy'),
-      ta('uber'),
       ta('bolt'),
     ],
     tip: {
@@ -3642,8 +3823,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vr'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   turku: {
@@ -3654,8 +3835,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vr'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   tampere: {
@@ -3666,8 +3847,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vr'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   rovaniemi: {
@@ -3678,8 +3859,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vr'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   porvoo: {
@@ -3690,8 +3871,8 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('vr'),
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   // —— is ——
@@ -3706,12 +3887,11 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Strætó buses/Klapp app. Walk downtown; Golden Circle needs tour or rental.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   akureyri: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Akureyri에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Akureyri from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -3721,12 +3901,10 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Akureyri is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
     ],
   },
   vik: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Vik에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Vik from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -3736,12 +3914,10 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Vik is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
     ],
   },
   husavik: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Husavik에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Husavik from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -3751,12 +3927,10 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Husavik is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
     ],
   },
   selfoss: {
-    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     airportToCity: {
       ko: '인근 공항에서 버스·택시·렌터로 Selfoss에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
       en: 'Reach Selfoss from the nearest airport by bus, taxi, or rental—check sparse schedules.',
@@ -3766,8 +3940,6 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Selfoss is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
     ],
   },
   // —— ee ——
@@ -3782,7 +3954,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Tallinn centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '탈린 기본 앱', en: 'Default in Tallinn' }),
       ta('uber'),
     ],
   },
@@ -3793,8 +3965,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Tartu is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '탈린 기본 앱', en: 'Default in Tallinn' }),
     ],
   },
   parnu: {
@@ -3804,8 +3975,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Parnu is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '탈린 기본 앱', en: 'Default in Tallinn' }),
     ],
   },
   // —— lv ——
@@ -3820,8 +3990,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Riga centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   jurmala: {
@@ -3831,8 +4000,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Jurmala is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   sigulda: {
@@ -3842,8 +4010,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Sigulda is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— lt ——
@@ -3858,7 +4025,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Vilnius is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars than Uber' }),
       ta('uber'),
     ],
   },
@@ -3869,8 +4036,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Kaunas centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars than Uber' }),
     ],
   },
   klaipeda: {
@@ -3880,8 +4046,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Klaipeda is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars than Uber' }),
     ],
   },
   // —— hr ——
@@ -3977,9 +4142,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ljubljana is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   bled: {
@@ -3989,9 +4153,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bled is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -4005,9 +4168,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Combine ferry, bus, and walking in Piran. Check boat timetables first.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
     tip: {
       ko: '구시가는 차가 제한되는 구간이 많습니다. 외곽 주차장·셔틀을 이용하세요.',
@@ -4021,9 +4183,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Maribor is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   postojna: {
@@ -4033,9 +4194,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Postojna is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
       ta('trainline'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— ba ——
@@ -4046,8 +4206,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Sarajevo centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   mostar: {
@@ -4057,8 +4217,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Mostar is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   'banja-luka': {
@@ -4068,8 +4228,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Banja Luka is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   travnik: {
@@ -4079,8 +4239,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Travnik is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— me ——
@@ -4095,8 +4255,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Kotor is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   budva: {
@@ -4110,8 +4269,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Budva is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   podgorica: {
@@ -4125,8 +4283,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Podgorica is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   'herceg-novi': {
@@ -4140,8 +4297,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Herceg Novi is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— rs ——
@@ -4156,8 +4312,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Belgrade, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   'novi-sad': {
@@ -4167,8 +4323,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Novi Sad is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   nis: {
@@ -4178,8 +4334,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Nis is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   subotica: {
@@ -4189,8 +4345,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Subotica is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— mk ——
@@ -4205,7 +4361,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Skopje is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   ohrid: {
@@ -4219,7 +4375,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ohrid is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   bitola: {
@@ -4233,7 +4389,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bitola is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   tetovo: {
@@ -4247,7 +4403,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Tetovo is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— al ——
@@ -4262,7 +4418,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Tirana is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   berat: {
@@ -4276,7 +4432,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Berat is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   gjirokaster: {
@@ -4290,7 +4446,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Gjirokaster is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   sarande: {
@@ -4304,7 +4460,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Sarande is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
   // —— bg ——
@@ -4319,8 +4475,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Sofia, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
     ],
   },
   plovdiv: {
@@ -4330,8 +4486,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Plovdiv is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
     ],
   },
   varna: {
@@ -4341,8 +4497,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Varna is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
     ],
   },
   'veliko-tarnovo': {
@@ -4352,8 +4508,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Veliko Tarnovo is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
     ],
   },
   nessebar: {
@@ -4363,8 +4519,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Nessebar is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
       ta('flixbus'),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
     ],
   },
   // —— ro ——
@@ -4379,9 +4535,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Bucharest, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   brasov: {
@@ -4391,9 +4547,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Brasov is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   sibiu: {
@@ -4403,9 +4559,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Sibiu is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   sighisoara: {
@@ -4415,9 +4571,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Sighisoara is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   'cluj-napoca': {
@@ -4427,9 +4583,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Cluj Napoca is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   timisoara: {
@@ -4439,9 +4595,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Timisoara is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
+      ta('trainline'),
       ta('bolt'),
       ta('uber'),
-      ta('trainline'),
     ],
   },
   // —— tr ——
@@ -4456,9 +4612,9 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Istanbulkart for metro, tram, bus, ferry. Bosphorus ferries are handy.',
     },
     apps: [
-      ta('uber'),
-      ta('bolt'),
       ta('citymapper'),
+      ta('bolt'),
+      ta('uber'),
     ],
     tip: {
       ko: '구시가(술탄아흐메트)는 트램+도보가 가장 편합니다.',
@@ -4472,8 +4628,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Goreme usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -4487,8 +4643,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Ankara, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   izmir: {
@@ -4498,8 +4654,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Izmir, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   antalya: {
@@ -4509,8 +4665,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Antalya is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   bursa: {
@@ -4520,8 +4676,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bursa is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   trabzon: {
@@ -4531,8 +4687,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Trabzon is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
   },
   pamukkale: {
@@ -4542,8 +4698,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Pamukkale usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
-      ta('uber'),
       ta('bolt'),
+      ta('uber'),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -4562,8 +4718,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'MetroMoney card. Two metro lines + buses; cable car/funicular for hills.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음 · Yandex도 흔함', en: 'No Uber; Yandex Go also common' }),
     ],
   },
   batumi: {
@@ -4573,8 +4728,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Combine ferry, bus, and walking in Batumi. Check boat timetables first.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음 · Yandex도 흔함', en: 'No Uber; Yandex Go also common' }),
     ],
   },
   kutaisi: {
@@ -4584,8 +4738,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Kutaisi is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음 · Yandex도 흔함', en: 'No Uber; Yandex Go also common' }),
     ],
   },
   stepantsminda: {
@@ -4595,8 +4748,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Stepantsminda usually needs train, mountain rail, bus, and cableways—check car restrictions.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음 · Yandex도 흔함', en: 'No Uber; Yandex Go also common' }),
     ],
     tip: {
       ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
@@ -4610,8 +4762,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Sighnaghi is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
-      ta('bolt'),
-      ta('uber'),
+      ta('bolt', { ko: '우버 없음 · Yandex도 흔함', en: 'No Uber; Yandex Go also common' }),
     ],
   },
 }
