@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+__pycache__/
 
 # Secrets / local env (never commit API keys)
 .env
