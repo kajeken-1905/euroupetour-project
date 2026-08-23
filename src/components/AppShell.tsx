@@ -1,4 +1,4 @@
-import { NavLink, Outlet } from 'react-router-dom'
+import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 
@@ -6,10 +6,12 @@ const ADMIN_EMAIL = 'kajeken@gmail.com'
 
 export function AppShell() {
   const { lang } = useLanguage()
+  const { pathname } = useLocation()
+  const isHome = pathname === '/'
 
   return (
     <div className="app-root">
-      <div className="phone-shell">
+      <div className={`phone-shell${isHome ? ' phone-shell--neon' : ''}`}>
         <div className="phone-status" />
         <div className="phone-content">
           <Outlet />

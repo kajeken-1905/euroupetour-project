@@ -1203,3 +1203,212 @@ button.back-link {
     box-shadow: none;
   }
 }
+
+/* —— K-pop neon home —— */
+.phone-shell--neon {
+  background:
+    radial-gradient(120% 60% at 12% -10%, rgba(255, 45, 149, 0.35) 0%, transparent 55%),
+    radial-gradient(120% 60% at 105% 8%, rgba(45, 227, 255, 0.28) 0%, transparent 55%),
+    radial-gradient(140% 70% at 50% 120%, rgba(139, 45, 255, 0.32) 0%, transparent 60%),
+    linear-gradient(180deg, #0a0616 0%, #120a1f 55%, #0a0616 100%);
+}
+
+.phone-shell--neon .admin-footer {
+  background: rgba(10, 6, 20, 0.92);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.phone-shell--neon .admin-footer-line {
+  color: #f2ecff;
+}
+
+.phone-shell--neon .admin-footer-email {
+  color: #ff6fc0;
+}
+
+.phone-shell--neon .admin-footer-note {
+  color: #b8a8d9;
+}
+
+.phone-shell--neon .bottom-tab {
+  background: rgba(10, 6, 20, 0.94);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.phone-shell--neon .bottom-tab a {
+  color: #b8a8d9;
+}
+
+.phone-shell--neon .bottom-tab a.active {
+  background: linear-gradient(135deg, #ff2d95, #8b2dff);
+  color: #fff;
+  box-shadow: 0 0 16px rgba(255, 45, 149, 0.5);
+}
+
+.home-neon {
+  color: #f2ecff;
+}
+
+.home-kicker {
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.06);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: #ff8fd0;
+}
+
+.home-neon .top-bar h1 {
+  font-family: 'Black Han Sans', var(--font-display);
+  font-size: 32px;
+  letter-spacing: -0.01em;
+  background: linear-gradient(90deg, #ff6fc0, #b98bff 45%, #5fe3ff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 24px rgba(255, 45, 149, 0.35);
+}
+
+.home-neon .top-bar p {
+  color: #b8a8d9;
+}
+
+.home-neon .lang-toggle {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.25);
+  color: #f2ecff;
+}
+
+.home-neon .phase-note {
+  color: #9a8cc0;
+}
+
+.home-neon .checklist-section {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(14px);
+}
+
+.home-neon .checklist-section--nested {
+  background: rgba(255, 255, 255, 0.03);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.home-neon .checklist-section-head h2,
+.home-neon .checklist-section-toggle-title,
+.home-neon .traveler-subtitle {
+  color: #f2ecff;
+}
+
+.home-neon .checklist-section-toggle-summary,
+.home-neon .checklist-field-label,
+.home-neon .checklist-help,
+.home-neon .checklist-section-chevron {
+  color: #9a8cc0;
+}
+
+.home-neon .checklist-step {
+  background: linear-gradient(135deg, #ff2d95, #8b2dff);
+  box-shadow: 0 0 12px rgba(255, 45, 149, 0.55);
+  color: #fff;
+}
+
+.home-neon .checklist-input,
+.home-neon .checklist-select {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.14);
+  color: #f2ecff;
+}
+
+.home-neon .checklist-select {
+  background-image: linear-gradient(45deg, transparent 50%, #b8a8d9 50%),
+    linear-gradient(135deg, #b8a8d9 50%, transparent 50%);
+}
+
+.home-neon .checklist-input::placeholder {
+  color: #7c6fa0;
+}
+
+.home-neon .checklist-input:focus,
+.home-neon .checklist-select:focus {
+  outline: 2px solid rgba(95, 227, 255, 0.55);
+  background: rgba(255, 255, 255, 0.09);
+}
+
+.home-neon .checklist-add--ghost {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.18);
+  color: #f2ecff;
+}
+
+.home-neon .checklist-shortcut,
+.home-neon .checklist-add {
+  background: linear-gradient(135deg, #ff2d95, #8b2dff);
+  color: #fff;
+  box-shadow: 0 6px 18px rgba(139, 45, 255, 0.4);
+}
+
+.home-neon .checklist-reset {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.16);
+  color: #b8a8d9;
+}
+
+.home-neon .checklist-remove {
+  background: rgba(255, 70, 70, 0.12);
+  color: #ff9d9d;
+}
+
+.home-neon .traveler-subblock {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+/* —— Country page theming (per-nation flag colors) —— */
+.country-hero {
+  position: relative;
+}
+
+.country-hero-stripe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: linear-gradient(
+    90deg,
+    var(--c-primary) 0%,
+    var(--c-primary) 33%,
+    var(--c-secondary) 33%,
+    var(--c-secondary) 66%,
+    var(--c-accent) 66%,
+    var(--c-accent) 100%
+  );
+}
+
+.country-page .section-label {
+  color: var(--c-primary);
+  font-weight: 800;
+}
+
+.country-page .country-fact {
+  border-color: color-mix(in srgb, var(--c-accent) 40%, transparent);
+}
+
+.country-page .phrase-toggle,
+.country-page .transit-card {
+  border-left: 4px solid var(--c-primary);
+}
+
+.country-page .city-item {
+  border-top: 4px solid var(--c-secondary);
+}
+
+.country-page .phrase-play,
+.country-page .transit-app-fallback {
+  background: linear-gradient(135deg, var(--c-primary), var(--c-secondary));
+}

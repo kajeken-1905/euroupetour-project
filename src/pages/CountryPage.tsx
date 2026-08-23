@@ -1,3 +1,4 @@
+import type { CSSProperties } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { getCountry } from '../data/countries'
 import { getCitiesByCountry } from '../data/cities'
@@ -11,6 +12,7 @@ import { getCountryTransit } from '../data/transit'
 import { formatFxLine } from '../services/exchangeRates'
 import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
+import { hexToRgba } from '../utils/color'
 
 export function CountryPage() {
   const { countryId = '' } = useParams()
@@ -50,6 +52,12 @@ export function CountryPage() {
     rateText = formatFxLine(country.currencyCode, country.currencySymbol, rate, lang)
   }
   const transit = getCountryTransit(country.id)
+  const { primary, secondary, accent } = country.flagColors
+  const themeVars = {
+    '--c-primary': primary,
+    '--c-secondary': secondary,
+    '--c-accent': accent,
+  } as CSSProperties
 
   const factItems = [
     { label: t('population', lang), value: country.facts.population[lang] },
@@ -69,16 +77,18 @@ export function CountryPage() {
   ] as const
 
   return (
-    <>
+    <div className="country-page" style={themeVars}>
       <section
         className="country-hero country-hero--flag"
         style={{
           backgroundImage: `
-            linear-gradient(180deg, rgba(8, 10, 16, 0.78) 0%, rgba(8, 10, 16, 0.55) 45%, rgba(8, 10, 16, 0.82) 100%),
+            linear-gradient(180deg, rgba(8, 10, 16, 0.72) 0%, rgba(8, 10, 16, 0.38) 45%, rgba(8, 10, 16, 0.8) 100%),
+            linear-gradient(150deg, ${hexToRgba(primary, 0.55)} 0%, transparent 55%, ${hexToRgba(secondary, 0.5)} 100%),
             url(${assetUrl(country.flagImage)})
           `,
         }}
       >
+        <span className="country-hero-stripe" aria-hidden />
         <div className="top-bar" style={{ paddingTop: 0 }}>
           <div>
             <button type="button" className="back-link" onClick={goBack}>
@@ -143,6 +153,6 @@ export function CountryPage() {
         ))}
       </div>
       <p className="phase-note">{t('phaseNote', lang)}</p>
-    </>
+    </div>
   )
 }

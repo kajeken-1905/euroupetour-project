@@ -479,9 +479,10 @@ export function HomePage() {
   } = useTravelChecklist()
 
   return (
-    <>
+    <div className="home-neon">
       <header className="top-bar">
         <div>
+          <span className="home-kicker">EUROPE TOUR</span>
           <h1>{t('appTitle', lang)}</h1>
           <p>{t('checklistSubtitle', lang)}</p>
         </div>
@@ -570,6 +571,6 @@ export function HomePage() {
           </button>
         </div>
       </div>
-    </>
+    </div>
   )
 }
