@@ -18,17 +18,24 @@ export const placesTRExtra: Place[] = [
   place('istanbul-cafe-4', 'istanbul', 'cafe', 'Karabatak', 4.4, 'Istanbul', '카라쾨이 브런치 카페.', 'Karaköy brunch café.', { reviewCount: 2400 }),
 
   // —— ankara ——
+  place('ankara-fine_dining-1', 'ankara', 'fine_dining', 'La Gioia', 4.5, 'Arjantin Caddesi, Attar Sk. No:6, Gaziosmanpaşa, 06700 Ankara, Turkey', '가지오스만파샤에 위치한 고급 이탈리안 유러피언 레스토랑', 'Upscale Italian and European restaurant in the Gaziosmanpaşa district'),
 
   // —— izmir ——
+  place('izmir-fine_dining-1', 'izmir', 'fine_dining', 'Etçi Ahmet', 4.6, 'Cemal Bülbül Sk. 15/A, 35590 Karşıyaka/İzmir, Turkey', '특별한 날을 위한 최고급 스테이크와 정통 요리로 유명한 카르시야카의 레스토랑', 'High-quality restaurant in Karşıyaka known for premium steaks, a favorite for special occasions'),
 
   // —— antalya ——
+  place('antalya-fine_dining-1', 'antalya', 'fine_dining', 'Seraser Fine Dining Restaurant', 4.6, 'Karanlık Sokak, Kaleiçi, 07100 Antalya, Turkey', '칼레이치 구시가지 보행자 골목에 자리한 안탈리아 최고의 파인다이닝, 감귤나무 그늘의 야외 테라스가 특징', 'Antalya\'s premier fine-dining restaurant on a quiet pedestrian street in the old town of Kaleiçi, with an open-air terrace shaded by citrus trees'),
 
   // —— goreme ——
+  place('goreme-fine_dining-1', 'goreme', 'fine_dining', 'Dibek Restaurant', 4.5, 'Konak Sokak, 50180 Göreme, Nevşehir, Turkey', '475년 된 전통 가옥에서 튀르키예 전통 좌식 스타일로 식사를 즐길 수 있는 괴레메의 명소', 'Restaurant set inside a 475-year-old building offering traditional Turkish floor seating in Göreme'),
 
   // —— bursa ——
+  place('bursa-fine_dining-1', 'bursa', 'fine_dining', 'Da Vittorio Restaurant Italiano', 4.5, 'Çekirge Cd. No:81, Çekirge, 16265 Osmangazi/Bursa, Turkey', '이탈리아 감성의 우아한 인테리어가 돋보이는 부르사의 이탈리안 레스토랑', 'Bursa\'s elegant Italian restaurant with classic decor that transports diners to Italy'),
 
   // —— trabzon ——
+  place('trabzon-fine_dining-1', 'trabzon', 'fine_dining', 'Cephanelik Restaurant & Cafe', 4.5, 'Boztepe Mahallesi, Cephanelik Mevkii No:89, Ortahisar, 61080 Trabzon, Turkey', '보즈테페 언덕에서 트라브존 전경을 내려다보며 즐기는 파노라마 뷰 레스토랑', 'Restaurant on Boztepe hill offering panoramic views over Trabzon along with exquisite cuisine'),
 
   // —— pamukkale ——
+  place('pamukkale-fine_dining-1', 'pamukkale', 'fine_dining', 'Kayas Wine House', 4.5, 'Atatürk Cd. No:3, 20260 Pamukkale/Denizli, Turkey', '지역 요리와 훌륭한 와인을 함께 즐길 수 있는 파묵칼레의 대표 레스토랑', 'Pamukkale\'s leading restaurant offering delightful local cuisine paired with exceptional wines'),
 
 ]

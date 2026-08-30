@@ -30,5 +30,6 @@ export const placesROExtra: Place[] = [
   place('cluj-napoca-fine_dining-1', 'cluj-napoca', 'fine_dining', 'Samsara Foodhouse', 4.5, 'Strada Alexandru Ciurea 6, 400000 Cluj-Napoca', '올리브 나무가 있는 채식·비건 레스토랑.', 'Vegan-friendly restaurant with an olive tree indoors.'),
 
   // —— timisoara ——
+  place('timisoara-fine_dining-1', 'timisoara', 'fine_dining', 'La Calul Alb', 4.6, 'Strada Mărășești 10, 300070 Timișoara, Romania', '구시가지에 위치한 창의적인 요리와 세심한 디테일로 유명한 파인다이닝 레스토랑', 'Creative fine-dining restaurant in the historic center known for attention to detail'),
 
 ]

@@ -3,6 +3,7 @@ import type { Place } from '../types'
 
 export const placesUAExtra: Place[] = [
   // —— kyiv ——
+  place('kyiv-fine_dining-1', 'kyiv', 'fine_dining', 'Mirali', 4.6, 'Tarasa Shevchenko Blvd 1, Kyiv, 01004, Ukraine', '포딜 지구에 위치한 우크라이나 계절 식재료를 활용한 창의적인 파인다이닝', 'Fine-dining restaurant in the Podil district celebrating Ukrainian seasonal and local ingredients with innovative gastronomy'),
   place('kyiv-fine_dining-1', 'kyiv', 'fine_dining', 'Kyiv Fine Dining 1', 4.5, 'Kyiv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 320 }),
   place('kyiv-fine_dining-2', 'kyiv', 'fine_dining', 'Kyiv Fine Dining 2', 4.6, 'Kyiv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
   place('kyiv-bakery-1', 'kyiv', 'bakery', 'Kyiv Bakery 1', 4.5, 'Kyiv', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 1400 }),
@@ -13,6 +14,7 @@ export const placesUAExtra: Place[] = [
   place('kyiv-cafe-3', 'kyiv', 'cafe', 'Kyiv Café 3', 4.3, 'Kyiv', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
 
   // —— lviv ——
+  place('lviv-fine_dining-1', 'lviv', 'fine_dining', 'Amadeus', 4.5, 'Yana Mateika St 6, Lviv, 79000, Ukraine', '리비우 중심가의 옛 오스트리아풍 인테리어가 돋보이는 유서 깊은 레스토랑', 'Renowned restaurant in the heart of Lviv with an atmospheric Old Austrian-style interior'),
   place('lviv-fine_dining-1', 'lviv', 'fine_dining', 'Lviv Fine Dining 1', 4.6, 'Lviv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 560 }),
   place('lviv-fine_dining-2', 'lviv', 'fine_dining', 'Lviv Fine Dining 2', 4.5, 'Lviv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 860 }),
   place('lviv-fine_dining-3', 'lviv', 'fine_dining', 'Lviv Fine Dining 3', 4.3, 'Lviv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
@@ -24,6 +26,7 @@ export const placesUAExtra: Place[] = [
   place('lviv-cafe-3', 'lviv', 'cafe', 'Lviv Café 3', 4.3, 'Lviv', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 980 }),
 
   // —— odesa ——
+  place('odesa-fine_dining-1', 'odesa', 'fine_dining', 'Bernardazzi', 4.7, 'Deribasivska St 20, Odesa, 65026, Ukraine', '오데사 최고급 레스토랑으로 꼽히는 아르누보 양식의 이탈리안 레스토랑', 'Widely regarded as Odesa\'s finest restaurant, an upscale Italian dining room in an authentic Art Nouveau setting'),
   place('odesa-fine_dining-1', 'odesa', 'fine_dining', 'Odesa Fine Dining 1', 4.5, 'Odesa', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
   place('odesa-fine_dining-2', 'odesa', 'fine_dining', 'Odesa Fine Dining 2', 4.2, 'Odesa', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
   place('odesa-fine_dining-3', 'odesa', 'fine_dining', 'Odesa Fine Dining 3', 4.6, 'Odesa', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),

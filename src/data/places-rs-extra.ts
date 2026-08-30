@@ -18,9 +18,12 @@ export const placesRSExtra: Place[] = [
   place('belgrade-cafe-4', 'belgrade', 'cafe', 'Brunch Belgrade peers', 4.4, 'Belgrade', '브런치 카페.', 'Brunch café.', { reviewCount: 1800 }),
 
   // —— novi-sad ——
+  place('novi-sad-fine_dining-1', 'novi-sad', 'fine_dining', 'Plata', 4.6, 'Đorđa Jovanovića 2, 21000 Novi Sad, Serbia', '고풍스러운 저택에 자리한 파인다이닝 레스토랑 겸 와인바로 전통과 혁신 요리를 함께 선보임', 'Fine-dining restaurant and wine bar in an elegant villa serving both traditional and innovative dishes'),
 
   // —— nis ——
+  place('nis-fine_dining-1', 'nis', 'fine_dining', 'Stambolijski', 4.5, 'Nikole Pašića 36, 18000 Niš, Serbia', '19세기 오스만 시대 저택을 개조한 레스토랑으로 발칸 전통 요리와 훌륭한 와인 리스트를 제공', 'Restaurant in a preserved 19th-century Ottoman-era house serving traditional Balkan cuisine with an excellent wine list'),
 
   // —— subotica ——
+  place('subotica-fine_dining-1', 'subotica', 'fine_dining', 'Mali Trg', 4.5, 'Branislava Nušića 4a, 24000 Subotica, Serbia', '세련된 인테리어와 정교한 플레이팅으로 알려진 수보티차의 대표 파인다이닝 레스토랑', 'Subotica\'s leading fine-dining restaurant known for elegant interiors and refined plating'),
 
 ]

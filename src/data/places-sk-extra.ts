@@ -18,11 +18,15 @@ export const placesSKExtra: Place[] = [
   place('bratislava-cafe-4', 'bratislava', 'cafe', 'Brunch spots Bratislava', 4.4, 'Bratislava', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— kosice ——
+  place('kosice-fine_dining-1', 'kosice', 'fine_dining', 'Villa Regia', 4.5, 'Dominikánske námestie 3, 040 01 Košice, Slovakia', '코시체 도미니칸 광장에 위치한 동슬로바키아 전통 요리 전문 레스토랑', 'Restaurant on Dominican Square serving traditional Eastern Slovak dishes in the heart of Košice'),
 
   // —— poprad ——
+  place('poprad-fine_dining-1', 'poprad', 'fine_dining', 'PREZO Restaurant', 4.5, 'Levočská 211/2, 058 01 Poprad, Slovakia', '전통과 혁신이 조화를 이루는 포프라드 최고의 슬로바키아 요리 레스토랑', 'Poprad\'s leading Slovak restaurant where tradition meets innovation in every dish'),
 
   // —— banska-bystrica ——
+  place('banska-bystrica-fine_dining-1', 'banska-bystrica', 'fine_dining', 'Mamma Mia Steak', 4.5, 'Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia', '정교한 요리와 인상적인 와인 셀렉션으로 유명한 반스카비스트리차의 이탈리안 파인다이닝', 'Italian fine-dining restaurant known for its carefully crafted menu and impressive wine selection'),
 
   // —— trencin ——
+  place('trencin-fine_dining-1', 'trencin', 'fine_dining', 'Pod hradom', 4.6, 'Matúšova 12/68, 911 01 Trenčín, Slovakia', '트렌친 성이 바로 보이는 구시가지에 위치한 아늑한 레스토랑', 'Charming restaurant in the historic center with a direct view of Trenčín Castle'),
 
 ]

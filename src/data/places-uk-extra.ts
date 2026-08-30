@@ -71,6 +71,7 @@ export const placesUKExtra: Place[] = [
   place('oxford-cafe-5', 'oxford', 'cafe', 'Coffee House Oxford', 4.3, 'Oxford', '학생 인기 카페.', 'Student favourite café.', { reviewCount: 1100 }),
 
   // —— cambridge ——
+  place('cambridge-fine_dining-1', 'cambridge', 'fine_dining', 'Midsummer House', 4.7, 'Midsummer Common, Cambridge CB4 1HA, UK', '미드서머 커먼 강변에 위치한 케임브리지 유일의 미쉐린 2스타 레스토랑', 'Cambridge\'s only 2-Michelin-starred restaurant, set beside the river on Midsummer Common'),
   place('cambridge-fine_dining-1', 'cambridge', 'fine_dining', 'Midsummer House', 4.7, 'Cambridge', '케임브리지 대표 미슐랭.', 'Cambridge’s flagship Michelin.', { reviewCount: 1100 }),
   place('cambridge-fine_dining-2', 'cambridge', 'fine_dining', 'Restaurant Alimentum', 4.5, 'Cambridge', '모던 유러피안.', 'Modern European.', { reviewCount: 720 }),
   place('cambridge-fine_dining-3', 'cambridge', 'fine_dining', 'The Oak Bistro', 4.4, 'Cambridge', '로컬 인기 비스트로.', 'Local favourite bistro.', { reviewCount: 980 }),

@@ -3,6 +3,7 @@ import type { Place } from '../types'
 
 export const placesXKExtra: Place[] = [
   // —— pristina ——
+  place('pristina-fine_dining-1', 'pristina', 'fine_dining', 'Sospiro Restaurant', 4.6, 'Rruga California 52, Marigona Residence, Prishtina, Kosovo', '코소보 최초의 이탈리안 파인다이닝 레스토랑', 'Kosovo\'s first exclusive Italian fine-dining restaurant'),
   place('pristina-fine_dining-1', 'pristina', 'fine_dining', 'Pristina Fine Dining 1', 4.6, 'Pristina', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 320 }),
   place('pristina-fine_dining-2', 'pristina', 'fine_dining', 'Pristina Fine Dining 2', 4.2, 'Pristina', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 560 }),
   place('pristina-fine_dining-3', 'pristina', 'fine_dining', 'Pristina Fine Dining 3', 4.5, 'Pristina', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 720 }),
@@ -14,6 +15,7 @@ export const placesXKExtra: Place[] = [
   place('pristina-cafe-3', 'pristina', 'cafe', 'Pristina Café 3', 4.5, 'Pristina', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 560 }),
 
   // —— prizren ——
+  place('prizren-fine_dining-1', 'prizren', 'fine_dining', 'Te Syla', 4.5, 'Rruga Sejdi Begu, Prizren 20000, Kosovo', '샤데르반 광장 인근 비스트리차 강이 내려다보이는 테라스로 유명한 프리즈렌의 대표 레스토랑', 'Prizren\'s best-known restaurant, near Shadërvan Square with a terrace overlooking the Bistrica River'),
   place('prizren-fine_dining-1', 'prizren', 'fine_dining', 'Prizren Fine Dining 1', 4.5, 'Prizren', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 2100 }),
   place('prizren-fine_dining-2', 'prizren', 'fine_dining', 'Prizren Fine Dining 2', 4.3, 'Prizren', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
   place('prizren-fine_dining-3', 'prizren', 'fine_dining', 'Prizren Fine Dining 3', 4.6, 'Prizren', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 980 }),
@@ -25,6 +27,7 @@ export const placesXKExtra: Place[] = [
   place('prizren-cafe-3', 'prizren', 'cafe', 'Prizren Café 3', 4.6, 'Prizren', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 980 }),
 
   // —— peja ——
+  place('peja-fine_dining-1', 'peja', 'fine_dining', 'Kulla e Zenel Beut', 4.5, '51 William Walker Street, Pejë, Kosovo', '페야 중심가에 위치한 문화유산 저택을 개조한 레스토랑으로 두카기니 지역 전통 요리를 선보임', 'Restaurant in a historic tower house in central Peja serving traditional dishes of the Dukagjini region'),
   place('peja-fine_dining-1', 'peja', 'fine_dining', 'Peja Fine Dining 1', 4.6, 'Peja', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
   place('peja-fine_dining-2', 'peja', 'fine_dining', 'Peja Fine Dining 2', 4.3, 'Peja', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1100 }),
   place('peja-fine_dining-3', 'peja', 'fine_dining', 'Peja Fine Dining 3', 4.4, 'Peja', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
