@@ -2603,7 +2603,7 @@ export const cities: City[] = [
     highlights: [
       {
         id: "vienna-h1",
-        name: { ko: "シェーン브룬 궁전", en: "Schönbrunn Palace" },
+        name: { ko: "쉔브룬 궁전", en: "Schönbrunn Palace" },
         description: { ko: "합스부르크 여름 궁전과 정원입니다.", en: "Habsburg summer palace and gardens." },
         image: "/highlights/vienna-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6nbrunn%20Palace%20Vienna",
