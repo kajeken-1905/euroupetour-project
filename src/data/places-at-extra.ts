@@ -19,11 +19,15 @@ export const placesATExtra: Place[] = [
   place('vienna-korean-1', 'vienna', 'korean', 'Yori', 4.5, 'Wiesingerstraße 8, 1010 Wien', '빈 시내의 정통 한식당.', 'Authentic Korean dining in central Vienna.'),
 
   // —— salzburg ——
+  place('salzburg-fine_dining-1', 'salzburg', 'fine_dining', 'Esszimmer', 4.6, 'Müllner Hauptstraße 33, 5020 Salzburg', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
 
   // —— innsbruck ——
+  place('innsbruck-fine_dining-1', 'innsbruck', 'fine_dining', 'Ottoburg', 4.5, 'Herzog-Friedrich-Straße 1, 6020 Innsbruck', '구시가 최고 전망의 레스토랑.', 'Restaurant with the Old Town\'s best views.'),
 
   // —— graz ——
+  place('graz-fine_dining-1', 'graz', 'fine_dining', 'Artis', 4.5, 'Schmiedgasse 20, 8010 Graz', '미쉐린 가이드 등재 레스토랑.', 'Michelin Guide-listed restaurant.'),
 
   // —— hallstatt ——
+  place('hallstatt-fine_dining-1', 'hallstatt', 'fine_dining', 'Bräugasthof', 4.5, 'Salzbergstraße 1, 4830 Hallstatt', '호수 전망의 전통 오스트리아 요리.', 'Traditional Austrian dishes with lake views.'),
 
 ]

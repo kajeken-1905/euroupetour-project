@@ -18,9 +18,12 @@ export const placesALExtra: Place[] = [
   place('tirana-cafe-4', 'tirana', 'cafe', 'Brunch Tirana peers', 4.4, 'Tirana', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— berat ——
+  place('berat-fine_dining-1', 'berat', 'fine_dining', 'Homemade Food Lili', 4.5, 'Rruga Nikolla Buhuri, Berat 5001', '구시가의 전통 알바니아 가정식.', 'Traditional Albanian home cooking in the Old Town.'),
 
   // —— gjirokaster ——
+  place('gjirokaster-fine_dining-1', 'gjirokaster', 'fine_dining', 'Te Kalaja Restaurant', 4.6, 'Gjirokastër Castle area, Gjirokastër 6001', '요새 근처의 전통 레스토랑.', 'Traditional restaurant near the fortress.'),
 
   // —— sarande ——
+  place('sarande-fine_dining-1', 'sarande', 'fine_dining', 'Observatory Restaurant', 4.9, 'Godine Nr. 75, Lagja Nr.1, Saranda 9702', '해산물 전문 레스토랑.', 'Seafood-focused restaurant.'),
 
 ]

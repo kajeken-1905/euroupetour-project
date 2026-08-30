@@ -18,7 +18,9 @@ export const placesADExtra: Place[] = [
   place('andorra-la-vella-cafe-4', 'andorra-la-vella', 'cafe', 'Brunch café Caldea area', 4.3, 'Andorra la Vella', '칼데아 인근 브런치.', 'Brunch near Caldea.', { reviewCount: 640 }),
 
   // —— pas-de-la-casa ——
+  place('pas-de-la-casa-fine_dining-1', 'pas-de-la-casa', 'fine_dining', 'El Provençal', 4.5, 'Carrer Catalunya 13, AD200 Pas de la Casa', '프랑스 요리 전문 레스토랑.', 'Restaurant specializing in French cuisine.'),
 
   // —— ordino ——
+  place('ordino-fine_dining-1', 'ordino', 'fine_dining', 'Topic Restaurant', 4.5, 'Carrer Mossèn Cinto Verdaguer 1, AD300 Ordino', '안도라 전통 요리 레스토랑.', 'Andorran cuisine restaurant.'),
 
 ]

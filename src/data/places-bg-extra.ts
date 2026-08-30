@@ -18,11 +18,15 @@ export const placesBGExtra: Place[] = [
   place('sofia-cafe-4', 'sofia', 'cafe', 'Brunch cafés Vitosha', 4.4, 'Sofia', '비토샤 브런치.', 'Vitosha brunch cafés.', { reviewCount: 1400 }),
 
   // —— plovdiv ——
+  place('plovdiv-fine_dining-1', 'plovdiv', 'fine_dining', 'Pavaj', 4.5, 'Zlatarska 7, Kapana District, Plovdiv 4000', '카파나 지구의 대표 불가리아 요리.', 'Leading Bulgarian restaurant in the Kapana District.'),
 
   // —— varna ——
+  place('varna-fine_dining-1', 'varna', 'fine_dining', 'Mehana Kashtata', 4.4, 'Makedonia 154, 9000 Varna', '전통 불가리아 가정식.', 'Traditional Bulgarian home cooking.'),
 
   // —— veliko-tarnovo ——
+  place('veliko-tarnovo-fine_dining-1', 'veliko-tarnovo', 'fine_dining', 'Kolyo Ficheto Complex', 4.5, 'Georgi S. Rakovski 19, Veliko Tarnovo 5000', '19세기 건물의 역사적인 레스토랑.', 'Historic restaurant in a 19th-century inn.'),
 
   // —— nessebar ——
+  place('nessebar-fine_dining-1', 'nessebar', 'fine_dining', 'Old Nessebar', 4.5, 'Ivan Alexander 11, Nessebar 8230', '바다 전망의 시푸드 레스토랑.', 'Seafood restaurant with sea views.'),
 
 ]

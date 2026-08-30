@@ -20,6 +20,7 @@ export const placesBEExtra: Place[] = [
   place('bruges-cafe-5', 'bruges', 'cafe', 'Canal-side cafés', 4.2, 'Bruges', '운하 카페.', 'Canal cafés.', { reviewCount: 2100 }),
 
   // —— ghent ——
+  place('ghent-fine_dining-1', 'ghent', 'fine_dining', 'OAK', 4.6, 'Ottergemsesteenweg Zuid 808, 9000 Gent', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
   place('ghent-fine_dining-1', 'ghent', 'fine_dining', 'Restaurant Publiek', 4.6, 'Ghent', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 860 }),
   place('ghent-fine_dining-2', 'ghent', 'fine_dining', 'Oak', 4.5, 'Ghent', '모던 다이닝.', 'Modern dining.', { reviewCount: 720 }),
   place('ghent-fine_dining-3', 'ghent', 'fine_dining', 'Belga Queen Gent', 4.4, 'Ghent', '벨지안.', 'Belgian.', { reviewCount: 1100 }),
@@ -37,6 +38,7 @@ export const placesBEExtra: Place[] = [
   place('ghent-cafe-5', 'ghent', 'cafe', 'Graslei cafés', 4.2, 'Ghent', '그라스레이 카페.', 'Graslei cafés.', { reviewCount: 2200 }),
 
   // —— antwerp ——
+  place('antwerp-fine_dining-1', 'antwerp', 'fine_dining', 'Dôme', 4.5, 'Grotehondstraat 2, 2018 Antwerpen', '미쉐린 가이드 등재 레스토랑.', 'Michelin Guide-listed restaurant.'),
   place('antwerp-fine_dining-1', 'antwerp', 'fine_dining', 'The Jane', 4.7, 'Antwerp', '세계적 미슐랭 다이닝.', 'World-class Michelin dining.', { reviewCount: 1400 }),
   place('antwerp-fine_dining-2', 'antwerp', 'fine_dining', 'Hertog Jan peer / local stars', 4.6, 'Antwerp', '미슐랭 씬.', 'Michelin scene.', { reviewCount: 720 }),
   place('antwerp-fine_dining-3', 'antwerp', 'fine_dining', 'Nathan', 4.5, 'Antwerp', '모던 다이닝.', 'Modern dining.', { reviewCount: 640 }),
@@ -54,6 +56,7 @@ export const placesBEExtra: Place[] = [
   place('antwerp-cafe-5', 'antwerp', 'cafe', 'Vitrin', 4.3, 'Antwerp', '모던 카페.', 'Modern café.', { reviewCount: 720 }),
 
   // —— leuven ——
+  place('leuven-fine_dining-1', 'leuven', 'fine_dining', 'EED', 4.5, 'Vaartstraat 14, 3000 Leuven', '미쉐린 가이드 등재 레스토랑.', 'Michelin Guide-listed restaurant.'),
   place('leuven-fine_dining-1', 'leuven', 'fine_dining', 'Restaurant Essentiel', 4.5, 'Leuven', '모던 다이닝.', 'Modern dining.', { reviewCount: 640 }),
   place('leuven-fine_dining-2', 'leuven', 'fine_dining', 'Zarza', 4.4, 'Leuven', '로컬 인기.', 'Local favourite.', { reviewCount: 860 }),
   place('leuven-fine_dining-3', 'leuven', 'fine_dining', 'Myoku / peers', 4.4, 'Leuven', '파인 캐주얼.', 'Fine-casual.', { reviewCount: 520 }),

@@ -18,9 +18,12 @@ export const placesBAExtra: Place[] = [
   place('sarajevo-cafe-4', 'sarajevo', 'cafe', 'Brunch cafés Centar', 4.4, 'Sarajevo', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— mostar ——
+  place('mostar-fine_dining-1', 'mostar', 'fine_dining', 'Restoran Hindin Han', 4.5, 'Jusovina bb, Mostar 88000', '네레트바 강변의 전통 보스니아 요리.', 'Traditional Bosnian cuisine on the Neretva River.'),
 
   // —— banja-luka ——
+  place('banja-luka-fine_dining-1', 'banja-luka', 'fine_dining', 'Cova Buraz', 4.5, 'Kralja Petra I Karađorđevića 97, Banja Luka 78000', '전통 그릴 요리 레스토랑.', 'Traditional grill restaurant.'),
 
   // —— travnik ——
+  place('travnik-fine_dining-1', 'travnik', 'fine_dining', 'Ćevabdžinica Hari', 4.5, 'Donja čaršija bb, Travnik 72270', '트라브니크 명물 체바피.', 'Travnik\'s famous ćevapi.'),
 
 ]

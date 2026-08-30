@@ -3,6 +3,7 @@ import type { Place } from '../types'
 
 export const placesAMExtra: Place[] = [
   // —— yerevan ——
+  place('yerevan-fine_dining-1', 'yerevan', 'fine_dining', 'Lavash', 4.5, '21 Tumanyan St, Yerevan 0001', '예레반의 인기 아르메니아 레스토랑.', 'Popular Armenian restaurant in Yerevan.'),
   place('yerevan-fine_dining-1', 'yerevan', 'fine_dining', 'Yerevan Fine Dining 1', 4.4, 'Yerevan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 560 }),
   place('yerevan-fine_dining-2', 'yerevan', 'fine_dining', 'Yerevan Fine Dining 2', 4.5, 'Yerevan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
   place('yerevan-fine_dining-3', 'yerevan', 'fine_dining', 'Yerevan Fine Dining 3', 4.7, 'Yerevan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1600 }),
@@ -14,6 +15,7 @@ export const placesAMExtra: Place[] = [
   place('yerevan-cafe-3', 'yerevan', 'cafe', 'Yerevan Café 3', 4.2, 'Yerevan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
 
   // —— gyumri ——
+  place('gyumri-fine_dining-1', 'gyumri', 'fine_dining', 'Gwoog Gastrohouse', 4.6, 'Tigran Mets Avenue 11/3, Gyumri', '귬리의 대표 로컬 레스토랑.', 'Well-loved local restaurant in Gyumri.'),
   place('gyumri-fine_dining-1', 'gyumri', 'fine_dining', 'Gyumri Fine Dining 1', 4.3, 'Gyumri', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
   place('gyumri-fine_dining-2', 'gyumri', 'fine_dining', 'Gyumri Fine Dining 2', 4.6, 'Gyumri', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 980 }),
   place('gyumri-fine_dining-3', 'gyumri', 'fine_dining', 'Gyumri Fine Dining 3', 4.7, 'Gyumri', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
@@ -25,6 +27,7 @@ export const placesAMExtra: Place[] = [
   place('gyumri-cafe-3', 'gyumri', 'cafe', 'Gyumri Café 3', 4.3, 'Gyumri', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
 
   // —— dilijan ——
+  place('dilijan-fine_dining-1', 'dilijan', 'fine_dining', 'Tava Restaurant', 4.5, 'Myasnikyan 37/4, Dilijan', '딜리잔의 대표 레스토랑.', 'Leading restaurant in Dilijan.'),
   place('dilijan-fine_dining-1', 'dilijan', 'fine_dining', 'Dilijan Fine Dining 1', 4.2, 'Dilijan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
   place('dilijan-fine_dining-2', 'dilijan', 'fine_dining', 'Dilijan Fine Dining 2', 4.7, 'Dilijan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 860 }),
   place('dilijan-fine_dining-3', 'dilijan', 'fine_dining', 'Dilijan Fine Dining 3', 4.2, 'Dilijan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),

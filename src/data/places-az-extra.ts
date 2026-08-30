@@ -3,6 +3,7 @@ import type { Place } from '../types'
 
 export const placesAZExtra: Place[] = [
   // —— baku ——
+  place('baku-fine_dining-1', 'baku', 'fine_dining', 'Nergiz Restaurant', 4.5, 'Fountain Square, 9 Tərlan Əliyarbəyov, Bakı 1000', '정통 아제르바이잔 요리.', 'Authentic Azerbaijani cuisine.'),
   place('baku-fine_dining-1', 'baku', 'fine_dining', 'Baku Fine Dining 1', 4.5, 'Baku', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 2100 }),
   place('baku-fine_dining-2', 'baku', 'fine_dining', 'Baku Fine Dining 2', 4.2, 'Baku', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 980 }),
   place('baku-fine_dining-3', 'baku', 'fine_dining', 'Baku Fine Dining 3', 4.6, 'Baku', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
@@ -14,6 +15,7 @@ export const placesAZExtra: Place[] = [
   place('baku-cafe-3', 'baku', 'cafe', 'Baku Café 3', 4.2, 'Baku', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
 
   // —— sheki ——
+  place('sheki-fine_dining-1', 'sheki', 'fine_dining', 'M.E. Restaurant', 4.4, 'Rasulzade Street 187, Sheki 5500', '셰키의 대표 레스토랑.', 'Leading restaurant in Sheki.'),
   place('sheki-fine_dining-1', 'sheki', 'fine_dining', 'Sheki Fine Dining 1', 4.4, 'Sheki', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 980 }),
   place('sheki-fine_dining-2', 'sheki', 'fine_dining', 'Sheki Fine Dining 2', 4.7, 'Sheki', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 560 }),
   place('sheki-fine_dining-3', 'sheki', 'fine_dining', 'Sheki Fine Dining 3', 4.4, 'Sheki', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 980 }),
@@ -25,6 +27,7 @@ export const placesAZExtra: Place[] = [
   place('sheki-cafe-3', 'sheki', 'cafe', 'Sheki Café 3', 4.5, 'Sheki', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
 
   // —— gabala ——
+  place('gabala-fine_dining-1', 'gabala', 'fine_dining', 'Caspian Baliq Evi', 4.4, '2120 Demiraparan Chai Gabala, Qəbələ', '가발란드 인근 해산물 레스토랑.', 'Seafood restaurant near Gabaland.'),
   place('gabala-fine_dining-1', 'gabala', 'fine_dining', 'Gabala Fine Dining 1', 4.3, 'Gabala', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
   place('gabala-fine_dining-2', 'gabala', 'fine_dining', 'Gabala Fine Dining 2', 4.2, 'Gabala', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 560 }),
   place('gabala-fine_dining-3', 'gabala', 'fine_dining', 'Gabala Fine Dining 3', 4.2, 'Gabala', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
