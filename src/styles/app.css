@@ -1204,50 +1204,50 @@ button.back-link {
   }
 }
 
-/* —— K-pop neon home —— */
+/* —— K-pop light home —— */
 .phone-shell--neon {
   background:
-    radial-gradient(120% 60% at 12% -10%, rgba(255, 45, 149, 0.35) 0%, transparent 55%),
-    radial-gradient(120% 60% at 105% 8%, rgba(45, 227, 255, 0.28) 0%, transparent 55%),
-    radial-gradient(140% 70% at 50% 120%, rgba(139, 45, 255, 0.32) 0%, transparent 60%),
-    linear-gradient(180deg, #0a0616 0%, #120a1f 55%, #0a0616 100%);
+    radial-gradient(120% 60% at 12% -10%, rgba(255, 45, 149, 0.22) 0%, transparent 55%),
+    radial-gradient(120% 60% at 105% 8%, rgba(0, 200, 255, 0.16) 0%, transparent 55%),
+    radial-gradient(140% 70% at 50% 120%, rgba(139, 45, 255, 0.16) 0%, transparent 60%),
+    linear-gradient(180deg, #fff9fc 0%, #fdf4ff 45%, #f3f0ff 100%);
 }
 
 .phone-shell--neon .admin-footer {
-  background: rgba(10, 6, 20, 0.92);
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.85);
+  border-top: 1px solid rgba(40, 20, 60, 0.08);
 }
 
 .phone-shell--neon .admin-footer-line {
-  color: #f2ecff;
+  color: #2a1840;
 }
 
 .phone-shell--neon .admin-footer-email {
-  color: #ff6fc0;
+  color: #d6006f;
 }
 
 .phone-shell--neon .admin-footer-note {
-  color: #b8a8d9;
+  color: #8b7fa8;
 }
 
 .phone-shell--neon .bottom-tab {
-  background: rgba(10, 6, 20, 0.94);
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.4);
+  background: rgba(255, 255, 255, 0.92);
+  border-top: 1px solid rgba(40, 20, 60, 0.08);
+  box-shadow: 0 -8px 24px rgba(120, 40, 160, 0.1);
 }
 
 .phone-shell--neon .bottom-tab a {
-  color: #b8a8d9;
+  color: #8b7fa8;
 }
 
 .phone-shell--neon .bottom-tab a.active {
   background: linear-gradient(135deg, #ff2d95, #8b2dff);
   color: #fff;
-  box-shadow: 0 0 16px rgba(255, 45, 149, 0.5);
+  box-shadow: 0 4px 16px rgba(255, 45, 149, 0.35);
 }
 
 .home-neon {
-  color: #f2ecff;
+  color: #2a1840;
 }
 
 .home-kicker {
@@ -1255,117 +1255,118 @@ button.back-link {
   margin-bottom: 8px;
   padding: 4px 10px;
   border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(214, 0, 111, 0.25);
+  background: rgba(255, 45, 149, 0.08);
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.18em;
-  color: #ff8fd0;
+  color: #d6006f;
 }
 
 .home-neon .top-bar h1 {
   font-family: 'Black Han Sans', var(--font-display);
   font-size: 32px;
   letter-spacing: -0.01em;
-  background: linear-gradient(90deg, #ff6fc0, #b98bff 45%, #5fe3ff);
+  background: linear-gradient(90deg, #ff2d95, #8b2dff 45%, #00b8d9);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  text-shadow: 0 0 24px rgba(255, 45, 149, 0.35);
+  text-shadow: 0 2px 20px rgba(255, 45, 149, 0.2);
 }
 
 .home-neon .top-bar p {
-  color: #b8a8d9;
+  color: #8b7fa8;
 }
 
 .home-neon .lang-toggle {
-  background: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.25);
-  color: #f2ecff;
+  background: rgba(255, 255, 255, 0.8);
+  border-color: rgba(139, 45, 255, 0.2);
+  color: #2a1840;
 }
 
 .home-neon .phase-note {
-  color: #9a8cc0;
+  color: #9585ad;
 }
 
 .home-neon .checklist-section {
-  background: rgba(255, 255, 255, 0.05);
-  border-color: rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.7);
+  border-color: rgba(139, 45, 255, 0.14);
   backdrop-filter: blur(14px);
+  box-shadow: 0 10px 30px rgba(120, 40, 160, 0.08);
 }
 
 .home-neon .checklist-section--nested {
-  background: rgba(255, 255, 255, 0.03);
-  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.45);
+  border-color: rgba(139, 45, 255, 0.1);
 }
 
 .home-neon .checklist-section-head h2,
 .home-neon .checklist-section-toggle-title,
 .home-neon .traveler-subtitle {
-  color: #f2ecff;
+  color: #2a1840;
 }
 
 .home-neon .checklist-section-toggle-summary,
 .home-neon .checklist-field-label,
 .home-neon .checklist-help,
 .home-neon .checklist-section-chevron {
-  color: #9a8cc0;
+  color: #9585ad;
 }
 
 .home-neon .checklist-step {
   background: linear-gradient(135deg, #ff2d95, #8b2dff);
-  box-shadow: 0 0 12px rgba(255, 45, 149, 0.55);
+  box-shadow: 0 4px 14px rgba(255, 45, 149, 0.35);
   color: #fff;
 }
 
 .home-neon .checklist-input,
 .home-neon .checklist-select {
-  background: rgba(255, 255, 255, 0.06);
-  border-color: rgba(255, 255, 255, 0.14);
-  color: #f2ecff;
+  background: rgba(255, 255, 255, 0.7);
+  border-color: rgba(139, 45, 255, 0.18);
+  color: #2a1840;
 }
 
 .home-neon .checklist-select {
-  background-image: linear-gradient(45deg, transparent 50%, #b8a8d9 50%),
-    linear-gradient(135deg, #b8a8d9 50%, transparent 50%);
+  background-image: linear-gradient(45deg, transparent 50%, #9585ad 50%),
+    linear-gradient(135deg, #9585ad 50%, transparent 50%);
 }
 
 .home-neon .checklist-input::placeholder {
-  color: #7c6fa0;
+  color: #b3a5c9;
 }
 
 .home-neon .checklist-input:focus,
 .home-neon .checklist-select:focus {
-  outline: 2px solid rgba(95, 227, 255, 0.55);
-  background: rgba(255, 255, 255, 0.09);
+  outline: 2px solid rgba(139, 45, 255, 0.35);
+  background: rgba(255, 255, 255, 0.95);
 }
 
 .home-neon .checklist-add--ghost {
-  background: rgba(255, 255, 255, 0.04);
-  border-color: rgba(255, 255, 255, 0.18);
-  color: #f2ecff;
+  background: rgba(255, 255, 255, 0.5);
+  border-color: rgba(139, 45, 255, 0.22);
+  color: #2a1840;
 }
 
 .home-neon .checklist-shortcut,
 .home-neon .checklist-add {
   background: linear-gradient(135deg, #ff2d95, #8b2dff);
   color: #fff;
-  box-shadow: 0 6px 18px rgba(139, 45, 255, 0.4);
+  box-shadow: 0 6px 18px rgba(139, 45, 255, 0.25);
 }
 
 .home-neon .checklist-reset {
-  background: rgba(255, 255, 255, 0.04);
-  border-color: rgba(255, 255, 255, 0.16);
-  color: #b8a8d9;
+  background: rgba(255, 255, 255, 0.5);
+  border-color: rgba(139, 45, 255, 0.18);
+  color: #8b7fa8;
 }
 
 .home-neon .checklist-remove {
-  background: rgba(255, 70, 70, 0.12);
-  color: #ff9d9d;
+  background: rgba(255, 70, 70, 0.08);
+  color: #c23b3b;
 }
 
 .home-neon .traveler-subblock {
-  border-top-color: rgba(255, 255, 255, 0.1);
+  border-top-color: rgba(139, 45, 255, 0.14);
 }
 
 /* —— Country page theming (per-nation flag colors) —— */
@@ -1413,9 +1414,9 @@ button.back-link {
   background: linear-gradient(135deg, var(--c-primary), var(--c-secondary));
 }
 
-/* —— Dark themed detail pages (country / city / place) —— */
+/* —— Light themed detail pages (country / city / place) —— */
 .theme-page {
-  color: #f2ecff;
+  color: #2a1840;
 }
 
 .theme-page .page-header h2,
@@ -1430,7 +1431,7 @@ button.back-link {
 .theme-page .transit-app-name,
 .theme-page .transit-mode-chip,
 .theme-page .category-tabs button {
-  color: #f2ecff;
+  color: #2a1840;
 }
 
 .theme-page .page-header .blurb,
@@ -1448,13 +1449,13 @@ button.back-link {
 .theme-page .highlight-card-body p,
 .theme-page .place-card .desc,
 .theme-page .place-card .addr {
-  color: #b8a8d9;
+  color: #8b7fa8;
 }
 
 .theme-page .lang-toggle {
-  background: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.25);
-  color: #f2ecff;
+  background: rgba(255, 255, 255, 0.8);
+  border-color: rgba(139, 45, 255, 0.2);
+  color: #2a1840;
 }
 
 .theme-page .phrase-toggle,
@@ -1465,9 +1466,9 @@ button.back-link {
 .theme-page .place-detail,
 .theme-page .transit-app-chip,
 .theme-page .empty-state {
-  background: rgba(255, 255, 255, 0.05);
-  border-color: rgba(255, 255, 255, 0.14);
-  box-shadow: none;
+  background: rgba(255, 255, 255, 0.72);
+  border-color: rgba(139, 45, 255, 0.14);
+  box-shadow: 0 8px 24px rgba(120, 40, 160, 0.08);
   backdrop-filter: blur(14px);
 }
 
@@ -1475,12 +1476,12 @@ button.back-link {
 .theme-page .transit-facts > div,
 .theme-page .transit-block,
 .theme-page .transit-apps {
-  border-top-color: rgba(255, 255, 255, 0.1);
+  border-top-color: rgba(139, 45, 255, 0.12);
 }
 
 .theme-page .transit-mode-chip,
 .theme-page .category-tabs button {
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(139, 45, 255, 0.08);
 }
 
 .theme-page .category-tabs button.active {
@@ -1489,7 +1490,7 @@ button.back-link {
 }
 
 .theme-page .transit-app-thumb {
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(139, 45, 255, 0.06);
 }
 
 .theme-page .maps-btn {
@@ -1498,23 +1499,18 @@ button.back-link {
 }
 
 .theme-page .highlight-card-maps {
-  color: var(--c-secondary);
+  color: var(--c-primary);
 }
 
 .theme-page .transit-tip {
-  background: rgba(255, 255, 255, 0.06);
-  color: #f2ecff;
+  background: rgba(139, 45, 255, 0.06);
+  color: #2a1840;
 }
 
 .theme-page .transit-tip strong {
-  color: var(--c-accent);
-}
-
-.theme-page .rating,
-.theme-page .rating .star {
-  color: #ffd76b;
+  color: var(--c-primary);
 }
 
 .theme-page .top-bar h1 {
-  color: #f2ecff;
+  color: #2a1840;
 }
