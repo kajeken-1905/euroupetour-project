@@ -18,7 +18,9 @@ export const placesMTExtra: Place[] = [
   place('valletta-cafe-4', 'valletta', 'cafe', 'Brunch Valletta peers', 4.4, 'Valletta', '브런치 카페.', 'Brunch café.', { reviewCount: 1100 }),
 
   // —— mdina ——
+  place('mdina-fine_dining-1', 'mdina', 'fine_dining', 'Medina Restaurant', 4.5, '7 Holy Cross Street, Mdina MDN 1231', '구시가 성벽 안의 미식 레스토랑.', 'Fine dining within Mdina\'s historic walls.'),
 
   // —— gozo ——
+  place('gozo-fine_dining-1', 'gozo', 'fine_dining', 'Tmun', 4.6, 'Triq Martino Garces, Mġarr Harbour, Għajnsielem', '미쉐린 가이드 등재 시푸드 레스토랑.', 'Michelin Guide-listed seafood restaurant.'),
 
 ]

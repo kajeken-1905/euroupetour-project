@@ -18,9 +18,12 @@ export const placesMEExtra: Place[] = [
   place('kotor-cafe-4', 'kotor', 'cafe', 'Harbour espresso bars', 4.3, 'Kotor', '항구 에스프레소.', 'Harbour espresso.', { reviewCount: 1100 }),
 
   // —— budva ——
+  place('budva-fine_dining-1', 'budva', 'fine_dining', 'Restora Rivijera', 4.5, '16 Njegoševa, Budva', '구시가의 전통 몬테네그로 요리.', 'Traditional Montenegrin cuisine in the Old Town.'),
 
   // —— podgorica ——
+  place('podgorica-fine_dining-1', 'podgorica', 'fine_dining', 'Lanterna', 4.6, 'Marka Miljanova 41, Podgorica', '포드고리차의 인기 이탈리안 레스토랑.', 'Popular Italian-style restaurant in Podgorica.'),
 
   // —— herceg-novi ——
+  place('herceg-novi-fine_dining-1', 'herceg-novi', 'fine_dining', 'Feral', 4.6, 'Njegoševa, Herceg Novi', '신선한 해산물 전문 레스토랑.', 'Restaurant known for impeccably fresh seafood.'),
 
 ]

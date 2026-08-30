@@ -3,6 +3,7 @@ import type { Place } from '../types'
 
 export const placesMDExtra: Place[] = [
   // —— chisinau ——
+  place('chisinau-fine_dining-1', 'chisinau', 'fine_dining', 'La Taifas', 4.6, 'Strada Pușkin 20B, Chișinău', '전통 몰도바 가옥 콘셉트 레스토랑.', 'Restaurant styled after a traditional Moldovan house.'),
   place('chisinau-fine_dining-1', 'chisinau', 'fine_dining', 'Chișinău Fine Dining 1', 4.4, 'Chișinău', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 720 }),
   place('chisinau-fine_dining-2', 'chisinau', 'fine_dining', 'Chișinău Fine Dining 2', 4.7, 'Chișinău', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 2100 }),
   place('chisinau-fine_dining-3', 'chisinau', 'fine_dining', 'Chișinău Fine Dining 3', 4.5, 'Chișinău', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
@@ -14,6 +15,7 @@ export const placesMDExtra: Place[] = [
   place('chisinau-cafe-3', 'chisinau', 'cafe', 'Chișinău Café 3', 4.6, 'Chișinău', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
 
   // —— orheiul-vechi ——
+  place('orheiul-vechi-fine_dining-1', 'orheiul-vechi', 'fine_dining', 'Ellada', 4.5, 'Strada Vasile Lupu 46, Orhei', '오르헤이 중심의 몰도바 요리.', 'Moldovan cuisine in central Orhei.'),
   place('orheiul-vechi-fine_dining-1', 'orheiul-vechi', 'fine_dining', 'Orheiul Vechi Fine Dining 1', 4.3, 'Orheiul Vechi', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
   place('orheiul-vechi-fine_dining-2', 'orheiul-vechi', 'fine_dining', 'Orheiul Vechi Fine Dining 2', 4.5, 'Orheiul Vechi', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1600 }),
   place('orheiul-vechi-fine_dining-3', 'orheiul-vechi', 'fine_dining', 'Orheiul Vechi Fine Dining 3', 4.4, 'Orheiul Vechi', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1600 }),
@@ -25,6 +27,7 @@ export const placesMDExtra: Place[] = [
   place('orheiul-vechi-cafe-3', 'orheiul-vechi', 'cafe', 'Orheiul Vechi Café 3', 4.6, 'Orheiul Vechi', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 980 }),
 
   // —— soroca ——
+  place('soroca-fine_dining-1', 'soroca', 'fine_dining', 'Restaurant Apollon', 4.5, 'Strada A. Cosmescu 1, Soroca', '드네스트르강 전망의 유러피언 요리.', 'European cuisine with Dniester River views.'),
   place('soroca-fine_dining-1', 'soroca', 'fine_dining', 'Soroca Fine Dining 1', 4.6, 'Soroca', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 320 }),
   place('soroca-fine_dining-2', 'soroca', 'fine_dining', 'Soroca Fine Dining 2', 4.5, 'Soroca', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
   place('soroca-fine_dining-3', 'soroca', 'fine_dining', 'Soroca Fine Dining 3', 4.5, 'Soroca', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),

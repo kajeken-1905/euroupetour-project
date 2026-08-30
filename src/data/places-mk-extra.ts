@@ -18,9 +18,12 @@ export const placesMKExtra: Place[] = [
   place('skopje-cafe-4', 'skopje', 'cafe', 'Brunch Skopje peers', 4.4, 'Skopje', '브런치 카페.', 'Brunch café.', { reviewCount: 1200 }),
 
   // —— ohrid ——
+  place('ohrid-fine_dining-1', 'ohrid', 'fine_dining', 'Gladiator', 4.6, 'Ohrid', '고대 원형극장 옆의 마케도니아 가정식.', 'Macedonian home cooking beside the ancient amphitheatre.'),
 
   // —— bitola ——
+  place('bitola-fine_dining-1', 'bitola', 'fine_dining', 'Gradska Kefeana', 4.5, 'Marshal Tito bb, Bitola 7000', '비톨라 중심가의 고급 레스토랑.', 'Upscale restaurant on Bitola\'s main street.'),
 
   // —— tetovo ——
+  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 4.7, 'Tetovo', '테토보 최고 평가의 파인 레스토랑.', 'Top-rated fine restaurant in Tetovo.'),
 
 ]
