@@ -18,17 +18,24 @@ export const placesGRExtra: Place[] = [
   place('athens-cafe-4', 'athens', 'cafe', 'Little Tree Books & Coffee', 4.4, 'Athens', '북카페.', 'Book café.', { reviewCount: 980 }),
 
   // —— santorini ——
+  place('santorini-fine_dining-1', 'santorini', 'fine_dining', 'Selene', 4.6, 'Pyrgos, Santorini 84700', '그리스 최고 레스토랑 중 하나.', 'Regarded as one of Greece\'s best restaurants.'),
 
   // —— heraklion ——
+  place('heraklion-fine_dining-1', 'heraklion', 'fine_dining', 'Thigaterra', 4.6, 'Leof. Andrea Papandreou 109, Heraklion 71414', '모던하게 재해석한 크레타 요리.', 'Cretan cuisine reimagined in a modern style.'),
 
   // —— mykonos ——
+  place('mykonos-fine_dining-1', 'mykonos', 'fine_dining', 'M-Eating', 4.6, 'Kouzi Georgouli 53, Mykonos 84600', '미코노스 타운 최고 평가 레스토랑.', 'Top-rated restaurant in Mykonos Town.'),
 
   // —— rhodes ——
+  place('rhodes-fine_dining-1', 'rhodes', 'fine_dining', 'Marco Polo Mansion', 4.6, 'Agiou Fanouriou 40-42, Rhodes 85100', '구시가의 인기 레스토랑.', 'Popular restaurant in the Old Town.'),
 
   // —— thessaloniki ——
+  place('thessaloniki-fine_dining-1', 'thessaloniki', 'fine_dining', 'Ergon Agora', 4.6, 'P. Mela 42, Thessaloniki 54622', '팜투테이블 콘셉트의 레스토랑.', 'Farm-to-table concept restaurant.'),
 
   // —— corfu ——
+  place('corfu-fine_dining-1', 'corfu', 'fine_dining', 'The Venetian Well', 4.6, '1 Lilli Desylla Square, Kerkyra 49100', '구시가 광장의 분위기 있는 레스토랑.', 'Atmospheric restaurant on the Old Town square.'),
 
   // —— nafplio ——
+  place('nafplio-fine_dining-1', 'nafplio', 'fine_dining', 'Byzantio', 4.5, 'Papanikolaou 32, Nafplio 21100', '그리스·세르비아 요리 레스토랑.', 'Restaurant serving Greek and Serbian cuisine.'),
 
 ]

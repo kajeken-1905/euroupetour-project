@@ -18,11 +18,15 @@ export const placesGEExtra: Place[] = [
   place('tbilisi-cafe-4', 'tbilisi', 'cafe', 'Brunch Tbilisi peers', 4.4, 'Tbilisi', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— batumi ——
+  place('batumi-fine_dining-1', 'batumi', 'fine_dining', 'Lurji Sufra', 4.6, '43 Memed Abashidze Avenue, Batumi', '정통 조지아 요리 레스토랑.', 'Restaurant serving classic Georgian dishes.'),
 
   // —— kutaisi ——
+  place('kutaisi-fine_dining-1', 'kutaisi', 'fine_dining', 'Sisters Restaurant', 4.6, '2 Davit & Konstantine Mkeidze Street, Kutaisi', '레드 브리지 인근 전통 조지아 연회.', 'Traditional Georgian feast near the Red Bridge.'),
 
   // —— stepantsminda ——
+  place('stepantsminda-fine_dining-1', 'stepantsminda', 'fine_dining', 'Kazbegi Good Food', 4.6, 'Gergetis Ubani E117, Stepantsminda 4485', '아늑한 분위기의 조지아 가정식.', 'Cozy Georgian home cooking.'),
 
   // —— sighnaghi ——
+  place('sighnaghi-fine_dining-1', 'sighnaghi', 'fine_dining', 'Restaurant Burji', 4.6, 'Chavchavadze St. 9, Signagi 383210', '도시 최고 전망의 조지아 요리.', 'Georgian cuisine with the town\'s best views.'),
 
 ]
