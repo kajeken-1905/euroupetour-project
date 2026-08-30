@@ -3,6 +3,7 @@ import type { Place } from '../types'
 
 export const placesNLExtra: Place[] = [
   // —— rotterdam ——
+  place('rotterdam-fine_dining-1', 'rotterdam', 'fine_dining', 'Parkheuvel', 4.6, 'Heuvellaan 21, 3016 GL Rotterdam', '모던 유러피언 미쉐린 레스토랑.', 'Modern European Michelin restaurant.'),
   place('rotterdam-fine_dining-1', 'rotterdam', 'fine_dining', 'FG Restaurant', 4.7, 'Rotterdam', '미슐랭 파인 다이닝.', 'Michelin fine dining.', { reviewCount: 860 }),
   place('rotterdam-fine_dining-2', 'rotterdam', 'fine_dining', 'Restaurant De Jong', 4.6, 'Rotterdam', '창의 더치 다이닝.', 'Creative Dutch dining.', { reviewCount: 720 }),
   place('rotterdam-fine_dining-3', 'rotterdam', 'fine_dining', 'Fenix Food Factory dining', 4.4, 'Rotterdam', '하버 푸드홀 다이닝.', 'Harbour food-hall dining.', { reviewCount: 1800 }),
@@ -82,6 +83,7 @@ export const placesNLExtra: Place[] = [
   place('delft-cafe-4', 'delft', 'cafe', 'DOK Delft cafés', 4.2, 'Delft', '도서관 카페.', 'Library cafés.', { reviewCount: 680 }),
 
   // —— maastricht ——
+  place('maastricht-fine_dining-1', 'maastricht', 'fine_dining', 'Château Neercanne', 4.6, 'Vondopfflaan 798, 6213 NG Maastricht', '17세기 성의 미쉐린 레스토랑.', 'Michelin restaurant in a 17th-century château.'),
   place('maastricht-fine_dining-1', 'maastricht', 'fine_dining', 'Restaurant Beluga Loves You', 4.7, 'Maastricht', '미슐랭 파인 다이닝.', 'Michelin fine dining.', { reviewCount: 980 }),
   place('maastricht-fine_dining-2', 'maastricht', 'fine_dining', 'Tout à Fait', 4.6, 'Maastricht', '프렌치 다이닝.', 'French dining.', { reviewCount: 720 }),
   place('maastricht-fine_dining-3', 'maastricht', 'fine_dining', 'Restaurant Petit Bonheur', 4.5, 'Maastricht', '아늑한 파인 다이닝.', 'Intimate fine dining.', { reviewCount: 640 }),

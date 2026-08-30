@@ -19,15 +19,21 @@ export const placesPLExtra: Place[] = [
   place('warsaw-korean-1', 'warsaw', 'korean', 'Miss Kimchi', 4.5, 'Żelazna 28/30, Warszawa', '한국식 치킨으로 유명한 한식당.', 'Korean restaurant known for its fried chicken.'),
 
   // —— krakow ——
+  place('krakow-fine_dining-1', 'krakow', 'fine_dining', 'Starka', 4.6, 'Józefa 14, 31-056 Kraków', '카지미에시 지구의 전통 폴란드 요리.', 'Traditional Polish cuisine in the Kazimierz district.'),
 
   // —— gdansk ——
+  place('gdansk-fine_dining-1', 'gdansk', 'fine_dining', 'Kubicki Restaurant', 4.5, 'Wartka 5, 80-855 Gdańsk', '그단스크 구시가의 대표 레스토랑.', 'Leading restaurant in Gdańsk\'s Old Town.'),
 
   // —— wroclaw ——
+  place('wroclaw-fine_dining-1', 'wroclaw', 'fine_dining', 'Restauracja Katedralna 9', 4.5, 'Katedralna 9, 50-328 Wrocław', '오스트루프 툼스키의 전망 좋은 레스토랑.', 'Restaurant with views on Ostrów Tumski.'),
 
   // —— poznan ——
+  place('poznan-fine_dining-1', 'poznan', 'fine_dining', 'Ptasie Radio', 4.6, 'Stanisława Wyspiańskiego 26A, 60-751 Poznań', '아르누보 건물의 컨트리 시크 레스토랑.', 'Country-chic restaurant in an Art Nouveau building.'),
 
   // —— zakopane ——
+  place('zakopane-fine_dining-1', 'zakopane', 'fine_dining', 'Zakopiańska', 4.6, 'Jagiellońska 18, 34-500 Zakopane', '자코파네 최고 평가 레스토랑.', 'Widely regarded as the best restaurant in Zakopane.'),
 
   // —— torun ——
+  place('torun-fine_dining-1', 'torun', 'fine_dining', '4 Pory Roku', 4.6, 'Toruń', '토룬 최고 평가 레스토랑.', 'Widely regarded as the best restaurant in Toruń.'),
 
 ]
