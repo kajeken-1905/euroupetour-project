@@ -13,11 +13,17 @@ export const placesCYExtra: Place[] = [
 
   // —— limassol ——
   place('limassol-fine_dining-1', 'limassol', 'fine_dining', 'Ousia Soulful Kitchen', 4.5, '24 Irenes Street, Medieval Castle Square, Limassol 3042', '구시가 캐슬 광장의 레스토랑.', 'Restaurant by the Old Town\'s Castle Square.'),
+  place('limassol-bakery-1', 'limassol', 'bakery', 'Bakery Kafeneio Healthy Foodbar', 4.5, 'Archiepiskopou Makariou III 241A, Limassol, Cyprus', '글루텐프리·비건 옵션을 갖춘 리마솔의 건강식 베이커리', 'Health-focused Limassol bakery with gluten-free and vegan options'),
+  place('limassol-cafe-1', 'limassol', 'cafe', 'Uluwatu', 4.5, 'Anexartisias 10, 3036 Limassol, Cyprus', '훌륭한 스페셜티 커피와 아이스크림으로 유명한 리마솔의 카페', 'Limassol café famous for excellent specialty coffee and ice cream'),
 
   // —— paphos ——
   place('paphos-fine_dining-1', 'paphos', 'fine_dining', '7 St. George\'s Tavern', 4.6, 'Anthipolochagou Georgiou Savva 37, Yeroskipou, Paphos 8201', '유기농 재료의 정통 키프로스 메제.', 'Authentic Cypriot meze from organic, local ingredients.'),
+  place('paphos-bakery-1', 'paphos', 'bakery', 'Sunfresh Bakery', 4.5, 'Leoforos Tafon ton Vasileon 7, Paphos, Cyprus', '24시간 운영하는 파포스 최고의 베이커리 겸 카페', 'Paphos\'s top bakery café, open 24 hours'),
+  place('paphos-cafe-1', 'paphos', 'cafe', 'Nest Cafe Snack Bar', 4.6, 'Paphos, Cyprus', '파포스 최고의 라떼로 알려진 아늑한 숨은 카페', 'Cozy hidden-gem café known for the best latte in Paphos'),
 
   // —— ayia-napa ——
   place('ayia-napa-fine_dining-1', 'ayia-napa', 'fine_dining', 'Old Village Tavern', 4.5, '48 Nissi Avenue, Ayia Napa 5330', '전통 키프로스 타베르나.', 'Traditional Cypriot taverna.'),
 
+  place('ayia-napa-bakery-1', 'ayia-napa', 'bakery', 'Zorbas Bakery', 4.4, 'Nissi Avenue 17, 5330 Ayia Napa, Cyprus', '아이아 나파 최고의 베이커리로 꼽히는 인기 빵집', 'Ayia Napa\'s top-ranked bakery'),
+  place('ayia-napa-cafe-1', 'ayia-napa', 'cafe', 'The Liquid Cafe N Bar', 4.3, 'Ayia Napa, Cyprus', '아침부터 저녁까지 다양한 메뉴를 즐길 수 있는 아이아 나파 중심가의 카페', 'Central Ayia Napa café offering everything from breakfast to evening drinks'),
 ]

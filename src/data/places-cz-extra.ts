@@ -20,14 +20,22 @@ export const placesCZExtra: Place[] = [
 
   // —— brno ——
   place('brno-fine_dining-1', 'brno', 'fine_dining', 'Špaliček', 4.5, 'Zelný trh 332/12, 602 00 Brno', '전통 체코 요리 레스토랑.', 'Traditional Czech restaurant.'),
+  place('brno-bakery-1', 'brno', 'bakery', 'Matějovo pekařství', 4.5, 'Hybešova 437/46, 602 00 Brno, Czech Republic', '1953년부터 이어온 브르노 첼니 트르흐의 전통 빵집', 'Traditional Brno bakery near the Cabbage Market, operating since 1953'),
+  place('brno-cafe-1', 'brno', 'cafe', 'SKØG', 4.6, 'Dominikánské náměstí 5, 602 00 Brno, Czech Republic', '훌륭한 커피와 홈메이드 빵으로 유명한 브르노의 인기 카페', 'Popular Brno café known for great coffee and homemade bread'),
 
   // —— cesky-krumlov ——
   place('cesky-krumlov-fine_dining-1', 'cesky-krumlov', 'fine_dining', 'Švejk Restaurant', 4.5, 'Šatlavská 157, 381 01 Český Krumlov', '구시가의 전통 체코 요리.', 'Traditional Czech cuisine in the Old Town.'),
+  place('cesky-krumlov-bakery-1', 'cesky-krumlov', 'bakery', 'Grill Baguette Rustika', 4.4, 'Panská 32, 381 01 Český Krumlov, Czech Republic', '바게트 샌드위치와 아침 메뉴로 유명한 체스키크룸로프의 베이커리', 'Český Krumlov bakery known for baguette sandwiches and breakfast items'),
+  place('cesky-krumlov-cafe-1', 'cesky-krumlov', 'cafe', 'Drunken Coffee', 4.6, 'Dlouhá 95, 381 01 Český Krumlov, Czech Republic', '성 전망을 즐기며 스페셜티 커피를 마실 수 있는 체스키크룸로프의 카페', 'Český Krumlov café with panoramic castle-tower views and specialty roasted espresso'),
 
   // —— karlovy-vary ——
   place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Promenáda', 4.5, 'Karlovy Vary', '카를로비바리 최고 평가 레스토랑.', 'Top-rated restaurant in Karlovy Vary.'),
+  place('karlovy-vary-bakery-1', 'karlovy-vary', 'bakery', 'Just Cake', 4.6, 'T. G. Masaryka 894, 360 01 Karlovy Vary, Czech Republic', '자매가 운영하는 카를로비바리의 인기 케이크 전문점', 'Popular Karlovy Vary bakery run by two sisters, known for beautiful cakes'),
+  place('karlovy-vary-cafe-1', 'karlovy-vary', 'cafe', 'Café Pupp', 4.5, 'Mírové náměstí 2, 360 01 Karlovy Vary, Czech Republic', '그랜드호텔 품에 위치한 카를로비바리의 유서 깊은 카페', 'Historic café inside the Grandhotel Pupp, carrying Karlovy Vary\'s oldest hospitality tradition'),
 
   // —— ceske-budejovice ——
   place('ceske-budejovice-fine_dining-1', 'ceske-budejovice', 'fine_dining', 'BRIO Restaurant', 4.6, 'Riegrova 1867/8, 370 01 České Budějovice', '매일 바뀌는 런치 메뉴의 레스토랑.', 'Restaurant with a daily-changing lunch menu.'),
 
+  place('ceske-budejovice-bakery-1', 'ceske-budejovice', 'bakery', 'DéKáčko', 4.3, 'Nádražní 1759, 370 01 České Budějovice, Czech Republic', '커피와 다양한 페이스트리·샌드위치를 즐길 수 있는 베이커리 카페', 'Bakery café offering a wide variety of coffee, pastries and sandwiches'),
+  place('ceske-budejovice-cafe-1', 'ceske-budejovice', 'cafe', 'Cukrárna Jindrak', 4.4, 'České Budějovice, Czech Republic', '체스케부데요비체에서 가장 유명한 전통 제과점', 'České Budějovice\'s most famous traditional confectionery'),
 ]
