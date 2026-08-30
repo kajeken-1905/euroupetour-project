@@ -27,6 +27,11 @@ export const placesESExtra: Place[] = [
   place('granada-korean-1', 'granada', 'korean', 'CoreOlé Korean Food Bar', 4.5, 'C. Elvira, 114, 18010 Granada', '알바이신 지구의 한식당.', 'Korean restaurant in the Albaicín district.'),
 
   // —— valencia ——
+  place('valencia-fine_dining-1', 'valencia', 'fine_dining', 'Ricard Camarena Restaurant', 4.5, 'Carrer del Dr. Sumsi 4, 46005 València', '미쉐린 2스타 파인 다이닝.', 'Two-Michelin-star fine dining.'),
+  place('valencia-fine_dining-2', 'valencia', 'fine_dining', 'El Poblet', 4.5, 'Carrer dels Correus 8, 46002 València', '미쉐린 2스타 발렌시아 요리.', 'Two-Michelin-star Valencian cuisine.'),
+  place('valencia-fine_dining-3', 'valencia', 'fine_dining', 'Fierro', 4.5, 'Carrer Dr. Serrano 4, 46006 València', '미쉐린 1스타 지중해 요리.', 'One-Michelin-star Mediterranean cuisine.'),
+  place('valencia-bakery-1', 'valencia', 'bakery', 'La Más Bonita Ruzafa', 4.4, 'Pujada del Toledà 8, 46001 València', '루사파의 인기 베이커리 카페.', 'Popular bakery café in Ruzafa.'),
+  place('valencia-cafe-1', 'valencia', 'cafe', 'Bluebell Coffee Co.', 4.4, 'Mercat Central, 46001 València', '발렌시아 최초의 스페셜티 커피.', "Valencia's first specialty coffee shop."),
 
   // —— malaga ——
 
