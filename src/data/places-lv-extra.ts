@@ -18,33 +18,7 @@ export const placesLVExtra: Place[] = [
   place('riga-cafe-4', 'riga', 'cafe', 'Brunch Riga peers', 4.4, 'Riga', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— jurmala ——
-  place('jurmala-fine_dining-1', 'jurmala', 'fine_dining', 'Jūrmala Fine Dining 1', 4.5, 'Jūrmala', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
-  place('jurmala-fine_dining-2', 'jurmala', 'fine_dining', 'Jūrmala Fine Dining 2', 4.4, 'Jūrmala', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
-  place('jurmala-fine_dining-3', 'jurmala', 'fine_dining', 'Jūrmala Fine Dining 3', 4.3, 'Jūrmala', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
-  place('jurmala-fine_dining-4', 'jurmala', 'fine_dining', 'Jūrmala Bistro', 4.3, 'Jūrmala', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
-  place('jurmala-fine_dining-5', 'jurmala', 'fine_dining', 'Jūrmala Chef\'s Table', 4.4, 'Jūrmala', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
-  place('jurmala-bakery-1', 'jurmala', 'bakery', 'Jūrmala Bakery', 4.5, 'Jūrmala', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
-  place('jurmala-bakery-2', 'jurmala', 'bakery', 'Jūrmala Patisserie', 4.4, 'Jūrmala', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
-  place('jurmala-bakery-3', 'jurmala', 'bakery', 'Jūrmala Bread House', 4.3, 'Jūrmala', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
-  place('jurmala-bakery-4', 'jurmala', 'bakery', 'Café Bakery Jūrmala', 4.3, 'Jūrmala', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
-  place('jurmala-cafe-1', 'jurmala', 'cafe', 'Specialty Coffee Jūrmala', 4.5, 'Jūrmala', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('jurmala-cafe-2', 'jurmala', 'cafe', 'Old Town Café Jūrmala', 4.4, 'Jūrmala', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
-  place('jurmala-cafe-3', 'jurmala', 'cafe', 'Brunch Café Jūrmala', 4.3, 'Jūrmala', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
-  place('jurmala-cafe-4', 'jurmala', 'cafe', 'Espresso Bar Jūrmala', 4.3, 'Jūrmala', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
 
   // —— sigulda ——
-  place('sigulda-fine_dining-1', 'sigulda', 'fine_dining', 'Sigulda Fine Dining 1', 4.5, 'Sigulda', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
-  place('sigulda-fine_dining-2', 'sigulda', 'fine_dining', 'Sigulda Fine Dining 2', 4.4, 'Sigulda', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
-  place('sigulda-fine_dining-3', 'sigulda', 'fine_dining', 'Sigulda Fine Dining 3', 4.3, 'Sigulda', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
-  place('sigulda-fine_dining-4', 'sigulda', 'fine_dining', 'Sigulda Bistro', 4.3, 'Sigulda', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
-  place('sigulda-fine_dining-5', 'sigulda', 'fine_dining', 'Sigulda Chef\'s Table', 4.4, 'Sigulda', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
-  place('sigulda-bakery-1', 'sigulda', 'bakery', 'Sigulda Bakery', 4.5, 'Sigulda', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
-  place('sigulda-bakery-2', 'sigulda', 'bakery', 'Sigulda Patisserie', 4.4, 'Sigulda', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
-  place('sigulda-bakery-3', 'sigulda', 'bakery', 'Sigulda Bread House', 4.3, 'Sigulda', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
-  place('sigulda-bakery-4', 'sigulda', 'bakery', 'Café Bakery Sigulda', 4.3, 'Sigulda', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
-  place('sigulda-cafe-1', 'sigulda', 'cafe', 'Specialty Coffee Sigulda', 4.5, 'Sigulda', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('sigulda-cafe-2', 'sigulda', 'cafe', 'Old Town Café Sigulda', 4.4, 'Sigulda', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
-  place('sigulda-cafe-3', 'sigulda', 'cafe', 'Brunch Café Sigulda', 4.3, 'Sigulda', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
-  place('sigulda-cafe-4', 'sigulda', 'cafe', 'Espresso Bar Sigulda', 4.3, 'Sigulda', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
 
 ]

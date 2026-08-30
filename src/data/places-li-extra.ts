@@ -18,33 +18,7 @@ export const placesLIExtra: Place[] = [
   place('vaduz-cafe-4', 'vaduz', 'cafe', 'Brunch café Vaduz', 4.3, 'Vaduz', '브런치 카페.', 'Brunch café.', { reviewCount: 420 }),
 
   // —— schaan ——
-  place('schaan-fine_dining-1', 'schaan', 'fine_dining', 'Schaan Fine Dining 1', 4.5, 'Schaan', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
-  place('schaan-fine_dining-2', 'schaan', 'fine_dining', 'Schaan Fine Dining 2', 4.4, 'Schaan', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
-  place('schaan-fine_dining-3', 'schaan', 'fine_dining', 'Schaan Fine Dining 3', 4.3, 'Schaan', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
-  place('schaan-fine_dining-4', 'schaan', 'fine_dining', 'Schaan Bistro', 4.3, 'Schaan', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
-  place('schaan-fine_dining-5', 'schaan', 'fine_dining', 'Schaan Chef\'s Table', 4.4, 'Schaan', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
-  place('schaan-bakery-1', 'schaan', 'bakery', 'Schaan Bakery', 4.5, 'Schaan', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
-  place('schaan-bakery-2', 'schaan', 'bakery', 'Schaan Patisserie', 4.4, 'Schaan', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
-  place('schaan-bakery-3', 'schaan', 'bakery', 'Schaan Bread House', 4.3, 'Schaan', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
-  place('schaan-bakery-4', 'schaan', 'bakery', 'Café Bakery Schaan', 4.3, 'Schaan', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
-  place('schaan-cafe-1', 'schaan', 'cafe', 'Specialty Coffee Schaan', 4.5, 'Schaan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('schaan-cafe-2', 'schaan', 'cafe', 'Old Town Café Schaan', 4.4, 'Schaan', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
-  place('schaan-cafe-3', 'schaan', 'cafe', 'Brunch Café Schaan', 4.3, 'Schaan', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
-  place('schaan-cafe-4', 'schaan', 'cafe', 'Espresso Bar Schaan', 4.3, 'Schaan', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
 
   // —— malbun ——
-  place('malbun-fine_dining-1', 'malbun', 'fine_dining', 'Malbun Fine Dining 1', 4.5, 'Malbun', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
-  place('malbun-fine_dining-2', 'malbun', 'fine_dining', 'Malbun Fine Dining 2', 4.4, 'Malbun', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
-  place('malbun-fine_dining-3', 'malbun', 'fine_dining', 'Malbun Fine Dining 3', 4.3, 'Malbun', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
-  place('malbun-fine_dining-4', 'malbun', 'fine_dining', 'Malbun Bistro', 4.3, 'Malbun', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
-  place('malbun-fine_dining-5', 'malbun', 'fine_dining', 'Malbun Chef\'s Table', 4.4, 'Malbun', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
-  place('malbun-bakery-1', 'malbun', 'bakery', 'Malbun Bakery', 4.5, 'Malbun', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
-  place('malbun-bakery-2', 'malbun', 'bakery', 'Malbun Patisserie', 4.4, 'Malbun', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
-  place('malbun-bakery-3', 'malbun', 'bakery', 'Malbun Bread House', 4.3, 'Malbun', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
-  place('malbun-bakery-4', 'malbun', 'bakery', 'Café Bakery Malbun', 4.3, 'Malbun', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
-  place('malbun-cafe-1', 'malbun', 'cafe', 'Specialty Coffee Malbun', 4.5, 'Malbun', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('malbun-cafe-2', 'malbun', 'cafe', 'Old Town Café Malbun', 4.4, 'Malbun', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
-  place('malbun-cafe-3', 'malbun', 'cafe', 'Brunch Café Malbun', 4.3, 'Malbun', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
-  place('malbun-cafe-4', 'malbun', 'cafe', 'Espresso Bar Malbun', 4.3, 'Malbun', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
 
 ]

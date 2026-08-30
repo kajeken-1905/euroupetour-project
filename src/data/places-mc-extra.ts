@@ -18,18 +18,5 @@ export const placesMCExtra: Place[] = [
   place('monaco-cafe-4', 'monaco', 'cafe', 'Brunch café Carré d\'Or', 4.4, 'Monaco', '럭셔리 지구 브런치.', 'Luxury-district brunch.', { reviewCount: 980 }),
 
   // —— monte-carlo ——
-  place('monte-carlo-fine_dining-1', 'monte-carlo', 'fine_dining', 'Monte Carlo Fine Dining 1', 4.5, 'Monte Carlo', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
-  place('monte-carlo-fine_dining-2', 'monte-carlo', 'fine_dining', 'Monte Carlo Fine Dining 2', 4.4, 'Monte Carlo', '모던 로컬 다이닝.', 'Modern local dining.', { reviewCount: 520 }),
-  place('monte-carlo-fine_dining-3', 'monte-carlo', 'fine_dining', 'Monte Carlo Fine Dining 3', 4.3, 'Monte Carlo', '클래식 다이닝.', 'Classic dining.', { reviewCount: 480 }),
-  place('monte-carlo-fine_dining-4', 'monte-carlo', 'fine_dining', 'Monte Carlo Bistro', 4.3, 'Monte Carlo', '캐주얼 파인 비스트로.', 'Casual fine bistro.', { reviewCount: 700 }),
-  place('monte-carlo-fine_dining-5', 'monte-carlo', 'fine_dining', 'Monte Carlo Chef\'s Table', 4.4, 'Monte Carlo', '셰프 테이블.', 'Chef’s table.', { reviewCount: 390 }),
-  place('monte-carlo-bakery-1', 'monte-carlo', 'bakery', 'Monte Carlo Bakery', 4.5, 'Monte Carlo', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 900 }),
-  place('monte-carlo-bakery-2', 'monte-carlo', 'bakery', 'Monte Carlo Patisserie', 4.4, 'Monte Carlo', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
-  place('monte-carlo-bakery-3', 'monte-carlo', 'bakery', 'Monte Carlo Bread House', 4.3, 'Monte Carlo', '로컬 빵집.', 'Local bakery.', { reviewCount: 580 }),
-  place('monte-carlo-bakery-4', 'monte-carlo', 'bakery', 'Café Bakery Monte Carlo', 4.3, 'Monte Carlo', '베이커리 카페.', 'Bakery café.', { reviewCount: 640 }),
-  place('monte-carlo-cafe-1', 'monte-carlo', 'cafe', 'Specialty Coffee Monte Carlo', 4.5, 'Monte Carlo', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('monte-carlo-cafe-2', 'monte-carlo', 'cafe', 'Old Town Café Monte Carlo', 4.4, 'Monte Carlo', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
-  place('monte-carlo-cafe-3', 'monte-carlo', 'cafe', 'Brunch Café Monte Carlo', 4.3, 'Monte Carlo', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
-  place('monte-carlo-cafe-4', 'monte-carlo', 'cafe', 'Espresso Bar Monte Carlo', 4.3, 'Monte Carlo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
 
 ]

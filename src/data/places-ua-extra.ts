@@ -5,7 +5,6 @@ export const placesUAExtra: Place[] = [
   // —— kyiv ——
   place('kyiv-fine_dining-1', 'kyiv', 'fine_dining', 'Kyiv Fine Dining 1', 4.5, 'Kyiv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 320 }),
   place('kyiv-fine_dining-2', 'kyiv', 'fine_dining', 'Kyiv Fine Dining 2', 4.6, 'Kyiv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
-  place('kyiv-fine_dining-3', 'kyiv', 'fine_dining', 'Kyiv Fine Dining 3', 4.3, 'Kyiv', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
   place('kyiv-bakery-1', 'kyiv', 'bakery', 'Kyiv Bakery 1', 4.5, 'Kyiv', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 1400 }),
   place('kyiv-bakery-2', 'kyiv', 'bakery', 'Kyiv Bakery 2', 4.2, 'Kyiv', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 980 }),
   place('kyiv-bakery-3', 'kyiv', 'bakery', 'Kyiv Bakery 3', 4.2, 'Kyiv', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 480 }),
