@@ -77,7 +77,7 @@ export function CountryPage() {
   ] as const
 
   return (
-    <div className="country-page" style={themeVars}>
+    <div className="country-page theme-page" style={themeVars}>
       <section
         className="country-hero country-hero--flag"
         style={{

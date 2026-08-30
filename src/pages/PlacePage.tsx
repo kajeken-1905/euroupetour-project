@@ -1,6 +1,8 @@
+import type { CSSProperties } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { getPlace } from '../data/places'
 import { getCity } from '../data/cities'
+import { getCountry } from '../data/countries'
 import { RatingStars } from '../components/RatingStars'
 import { MapLinks } from '../components/MapLinks'
 import { LanguageToggle } from '../components/LanguageToggle'
@@ -13,9 +15,10 @@ export function PlacePage() {
   const { lang } = useLanguage()
   const place = getPlace(placeId)
   const city = place ? getCity(place.cityId) : undefined
+  const country = city ? getCountry(city.countryId) : undefined
   const category = CATEGORIES.find((c) => c.id === place?.category)
 
-  if (!place || !city) {
+  if (!place || !city || !country) {
     return (
       <div className="page-header">
         <Link to="/" className="back-link">
@@ -31,8 +34,15 @@ export function PlacePage() {
       ? `https://www.openstreetmap.org/export/embed.html?bbox=${place.lng - 0.01}%2C${place.lat - 0.01}%2C${place.lng + 0.01}%2C${place.lat + 0.01}&layer=mapnik&marker=${place.lat}%2C${place.lng}`
       : null
 
+  const { primary, secondary, accent } = country.flagColors
+  const themeVars = {
+    '--c-primary': primary,
+    '--c-secondary': secondary,
+    '--c-accent': accent,
+  } as CSSProperties
+
   return (
-    <>
+    <div className="place-page theme-page" style={themeVars}>
       <header className="page-header">
         <div className="top-bar" style={{ paddingTop: 0 }}>
           <div>
@@ -75,6 +85,6 @@ export function PlacePage() {
       ) : null}
 
       <p className="disclaimer">{t('disclaimer', lang)}</p>
-    </>
+    </div>
   )
 }

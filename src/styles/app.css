@@ -1390,7 +1390,7 @@ button.back-link {
   );
 }
 
-.country-page .section-label {
+.theme-page .section-label {
   color: var(--c-primary);
   font-weight: 800;
 }
@@ -1399,8 +1399,8 @@ button.back-link {
   border-color: color-mix(in srgb, var(--c-accent) 40%, transparent);
 }
 
-.country-page .phrase-toggle,
-.country-page .transit-card {
+.theme-page .phrase-toggle,
+.theme-page .transit-card {
   border-left: 4px solid var(--c-primary);
 }
 
@@ -1408,7 +1408,109 @@ button.back-link {
   border-top: 4px solid var(--c-secondary);
 }
 
-.country-page .phrase-play,
-.country-page .transit-app-fallback {
+.theme-page .phrase-play,
+.theme-page .transit-app-fallback {
   background: linear-gradient(135deg, var(--c-primary), var(--c-secondary));
+}
+
+/* —— Dark themed detail pages (country / city / place) —— */
+.theme-page {
+  color: #f2ecff;
+}
+
+.theme-page .page-header h2,
+.theme-page .local-title-alt,
+.theme-page .place-detail h2,
+.theme-page .phrase-native,
+.theme-page .transit-summary,
+.theme-page .transit-facts dd,
+.theme-page .transit-block p,
+.theme-page .highlight-card-body h3,
+.theme-page .place-card h3,
+.theme-page .transit-app-name,
+.theme-page .transit-mode-chip,
+.theme-page .category-tabs button {
+  color: #f2ecff;
+}
+
+.theme-page .page-header .blurb,
+.theme-page .disclaimer,
+.theme-page .phase-note,
+.theme-page .empty-state,
+.theme-page .back-link,
+.theme-page .phrase-toggle-meta,
+.theme-page .phrase-toggle-chevron,
+.theme-page .phrase-ko,
+.theme-page .transit-app-note,
+.theme-page .transit-facts dt,
+.theme-page .transit-block h3,
+.theme-page .transit-apps-label,
+.theme-page .highlight-card-body p,
+.theme-page .place-card .desc,
+.theme-page .place-card .addr {
+  color: #b8a8d9;
+}
+
+.theme-page .lang-toggle {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.25);
+  color: #f2ecff;
+}
+
+.theme-page .phrase-toggle,
+.theme-page .phrase-list,
+.theme-page .transit-card,
+.theme-page .highlight-card,
+.theme-page .place-card,
+.theme-page .place-detail,
+.theme-page .transit-app-chip,
+.theme-page .empty-state {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.14);
+  box-shadow: none;
+  backdrop-filter: blur(14px);
+}
+
+.theme-page .phrase-row,
+.theme-page .transit-facts > div,
+.theme-page .transit-block,
+.theme-page .transit-apps {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.theme-page .transit-mode-chip,
+.theme-page .category-tabs button {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.theme-page .category-tabs button.active {
+  background: linear-gradient(135deg, var(--c-primary), var(--c-secondary));
+  color: #fff;
+}
+
+.theme-page .transit-app-thumb {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.theme-page .maps-btn {
+  background: linear-gradient(135deg, var(--c-primary), var(--c-secondary));
+  color: #fff;
+}
+
+.theme-page .highlight-card-maps {
+  color: var(--c-secondary);
+}
+
+.theme-page .transit-tip {
+  background: rgba(255, 255, 255, 0.06);
+  color: #f2ecff;
+}
+
+.theme-page .transit-tip strong {
+  color: var(--c-accent);
+}
+
+.theme-page .rating,
+.theme-page .rating .star {
+  color: #ffd76b;
 }

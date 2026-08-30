@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useMemo, useState, type CSSProperties } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { getCity } from '../data/cities'
 import { getCountry } from '../data/countries'
@@ -41,8 +41,15 @@ export function CityPage() {
     .filter((v, i, arr) => v !== city.name.ko && arr.indexOf(v) === i)
     .join(' · ')
 
+  const { primary, secondary, accent } = country.flagColors
+  const themeVars = {
+    '--c-primary': primary,
+    '--c-secondary': secondary,
+    '--c-accent': accent,
+  } as CSSProperties
+
   return (
-    <>
+    <div className="city-page theme-page" style={themeVars}>
       <header className="page-header">
         <div className="top-bar" style={{ paddingTop: 0 }}>
           <div>
@@ -91,6 +98,6 @@ export function CityPage() {
           </div>
         </>
       )}
-    </>
+    </div>
   )
 }
