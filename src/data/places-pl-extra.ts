@@ -16,6 +16,7 @@ export const placesPLExtra: Place[] = [
   place('warsaw-cafe-2', 'warsaw', 'cafe', 'Cukiernia Pawłowicz café', 4.3, 'Warsaw', '클래식 카페.', 'Classic café.', { reviewCount: 2100 }),
   place('warsaw-cafe-3', 'warsaw', 'cafe', 'Forum Meat & Coffee peers', 4.4, 'Warsaw', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
   place('warsaw-cafe-4', 'warsaw', 'cafe', 'Coffee Affair', 4.4, 'Warsaw', '로스터리 카페.', 'Roastery café.', { reviewCount: 1100 }),
+  place('warsaw-korean-1', 'warsaw', 'korean', 'Miss Kimchi', 4.5, 'Żelazna 28/30, Warszawa', '한국식 치킨으로 유명한 한식당.', 'Korean restaurant known for its fried chicken.'),
 
   // —— krakow ——
   place('krakow-fine_dining-1', 'krakow', 'fine_dining', 'Kraków Fine Dining 1', 4.5, 'Kraków', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

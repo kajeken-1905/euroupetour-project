@@ -16,6 +16,7 @@ export const placesATExtra: Place[] = [
   place('vienna-cafe-2', 'vienna', 'cafe', 'Café Sacher', 4.4, 'Philharmoniker Str. 4, Vienna', '자허토르테의 본거지.', 'Home of the Sachertorte.', { reviewCount: 14000 }),
   place('vienna-cafe-3', 'vienna', 'cafe', 'Café Hawelka', 4.4, 'Dorotheergasse 6, Vienna', '예술가들의 카페.', 'Artists’ café.', { reviewCount: 6200 }),
   place('vienna-cafe-4', 'vienna', 'cafe', 'Balthasar Kaffee Bar', 4.6, 'Vienna', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1800 }),
+  place('vienna-korean-1', 'vienna', 'korean', 'Yori', 4.5, 'Wiesingerstraße 8, 1010 Wien', '빈 시내의 정통 한식당.', 'Authentic Korean dining in central Vienna.'),
 
   // —— salzburg ——
   place('salzburg-fine_dining-1', 'salzburg', 'fine_dining', 'Salzburg Fine Dining 1', 4.5, 'Salzburg', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

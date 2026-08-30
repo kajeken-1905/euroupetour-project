@@ -247,6 +247,19 @@ export const placesPart4: Place[] = [
     priceLevel: '€€',
   },
   {
+    id: 'sto-kr-1',
+    cityId: 'stockholm',
+    category: 'korean',
+    name: 'Chingu',
+    description: {
+      ko: '도심의 한식 바비큐 맛집.',
+      en: 'Korean BBQ spot in the city centre.',
+    },
+    rating: 4.5,
+    address: 'Mäster Samuelsgatan 42, Stockholm',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Chingu+Mäster+Samuelsgatan+42%2C+Stockholm',
+  },
+  {
     id: 'cph-fd-1',
     cityId: 'copenhagen',
     category: 'fine_dining',
@@ -498,5 +511,18 @@ export const placesPart4: Place[] = [
     lat: 55.6795,
     lng: 12.5825,
     priceLevel: '€€',
-  }
+  },
+  {
+    id: 'cph-kr-1',
+    cityId: 'copenhagen',
+    category: 'korean',
+    name: 'SSAM Korean Food Bar',
+    description: {
+      ko: '코펜하겐의 인기 한식 바.',
+      en: 'Popular Korean food bar in Copenhagen.',
+    },
+    rating: 4.5,
+    address: 'Colbjørnsensgade 7, 1652 København V',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=SSAM+Korean+Food+Bar+Colbjørnsensgade+7%2C+1652+København+V',
+  },
 ]

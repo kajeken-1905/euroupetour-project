@@ -16,6 +16,7 @@ export const placesPTExtra: Place[] = [
   place('lisbon-cafe-2', 'lisbon', 'cafe', 'Copenhagen Coffee Lab', 4.5, 'Lisbon', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
   place('lisbon-cafe-3', 'lisbon', 'cafe', 'Fabrica Coffee Roasters', 4.5, 'Lisbon', '로스터리 카페.', 'Roastery café.', { reviewCount: 2400 }),
   place('lisbon-cafe-4', 'lisbon', 'cafe', 'Dear Breakfast', 4.4, 'Lisbon', '브런치 카페.', 'Brunch café.', { reviewCount: 2800 }),
+  place('lisbon-korean-1', 'lisbon', 'korean', 'Pabul', 4.5, 'Rua do Crucifixo 30, Lisboa', '리스본 최고 평가의 한식당.', 'Top-rated Korean restaurant in Lisbon.'),
 
   // —— porto ——
   place('porto-fine_dining-1', 'porto', 'fine_dining', 'Porto Fine Dining 1', 4.5, 'Porto', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -76,6 +77,7 @@ export const placesPTExtra: Place[] = [
   place('coimbra-cafe-2', 'coimbra', 'cafe', 'Old Town Café Coimbra', 4.4, 'Coimbra', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('coimbra-cafe-3', 'coimbra', 'cafe', 'Brunch Café Coimbra', 4.3, 'Coimbra', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('coimbra-cafe-4', 'coimbra', 'cafe', 'Espresso Bar Coimbra', 4.3, 'Coimbra', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('coimbra-korean-1', 'coimbra', 'korean', 'Gangnam Korean BBQ', 4.5, 'Praça do Comércio 12, Coimbra', '포르투갈 최초의 정통 한식 바비큐.', 'Portugal\'s first authentic Korean BBQ restaurant.'),
 
   // —— funchal ——
   place('funchal-fine_dining-1', 'funchal', 'fine_dining', 'Funchal Fine Dining 1', 4.5, 'Funchal', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

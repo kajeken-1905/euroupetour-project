@@ -16,6 +16,7 @@ export const placesCZExtra: Place[] = [
   place('prague-cafe-2', 'prague', 'cafe', 'The Miners / EMA espresso', 4.6, 'Prague', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2400 }),
   place('prague-cafe-3', 'prague', 'cafe', 'Café Savoy', 4.5, 'Prague', '그랜드 카페.', 'Grand café.', { reviewCount: 7200 }),
   place('prague-cafe-4', 'prague', 'cafe', 'Můj šálek kávy', 4.5, 'Prague', '로스터리 카페.', 'Roastery café.', { reviewCount: 3100 }),
+  place('prague-korean-1', 'prague', 'korean', 'Matzip', 4.5, 'Dušní 1082/6, 110 00 Praha 1', '구시가의 한식 비스트로.', 'Korean bistro in the Old Town.'),
 
   // —— brno ——
   place('brno-fine_dining-1', 'brno', 'fine_dining', 'Brno Fine Dining 1', 4.5, 'Brno', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

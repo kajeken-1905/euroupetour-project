@@ -16,6 +16,7 @@ export const placesFRExtra: Place[] = [
   place('paris-cafe-2', 'paris', 'cafe', 'Beans on Fire', 4.5, 'Paris', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('paris-cafe-3', 'paris', 'cafe', 'Coutume Café', 4.5, 'Paris', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100 }),
   place('paris-cafe-4', 'paris', 'cafe', 'Café Kitsuné', 4.4, 'Paris', '트렌디 카페.', 'Trendy café.', { reviewCount: 2600 }),
+  place('paris-korean-1', 'paris', 'korean', 'La Table de Mee', 4.5, '6 Rue des Ciseaux, 75006 Paris', '미쉐린 빕 구르망 한식당.', 'Michelin Bib Gourmand Korean restaurant.'),
 
   // —— lyon ——
   place('lyon-fine_dining-1', 'lyon', 'fine_dining', 'Lyon Fine Dining 1', 4.5, 'Lyon', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

@@ -262,6 +262,19 @@ export const places: Place[] = [
     priceLevel: '££',
   },
   {
+    id: 'lon-kr-1',
+    cityId: 'london',
+    category: 'korean',
+    name: 'Cah Chi',
+    description: {
+      ko: '뉴몰든 코리아타운의 대표 한식당.',
+      en: 'Flagship Korean restaurant in New Malden\'s Koreatown.',
+    },
+    rating: 4.5,
+    address: '79-81 Kingston Rd, New Malden, London KT3 3PB',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Cah+Chi+79-81+Kingston+Rd%2C+New+Malden%2C+London+KT3+3PB',
+  },
+  {
     id: 'ams-fd-1',
     cityId: 'amsterdam',
     category: 'fine_dining',
@@ -515,5 +528,18 @@ export const places: Place[] = [
     lat: 52.3765,
     lng: 4.8815,
     priceLevel: '€€',
-  }
+  },
+  {
+    id: 'ams-kr-1',
+    cityId: 'amsterdam',
+    category: 'korean',
+    name: 'Miss Korea BBQ',
+    description: {
+      ko: '폭넓은 메뉴의 한식 바비큐.',
+      en: 'Korean BBQ with a wide menu.',
+    },
+    rating: 4.5,
+    address: 'Van Boshuizenstraat 207-209, Amsterdam',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Miss+Korea+BBQ+Van+Boshuizenstraat+207-209%2C+Amsterdam',
+  },
 ]

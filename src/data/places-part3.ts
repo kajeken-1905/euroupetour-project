@@ -245,6 +245,19 @@ export const placesPart3: Place[] = [
     priceLevel: '€€',
   },
   {
+    id: 'osl-kr-1',
+    cityId: 'oslo',
+    category: 'korean',
+    name: 'Gangnam Korean Restaurant',
+    description: {
+      ko: '2015년부터 이어온 정통 한식당.',
+      en: 'Authentic Korean restaurant serving since 2015.',
+    },
+    rating: 4.5,
+    address: 'Munkedamsveien 59, 0270 Oslo',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Gangnam+Korean+Restaurant+Munkedamsveien+59%2C+0270+Oslo',
+  },
+  {
     id: 'hel-fd-1',
     cityId: 'helsinki',
     category: 'fine_dining',
@@ -490,5 +503,18 @@ export const placesPart3: Place[] = [
     address: 'Mannerheimintie, Helsinki',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=La+Torrefazione+Helsinki',
     priceLevel: '€€',
-  }
+  },
+  {
+    id: 'hel-kr-1',
+    cityId: 'helsinki',
+    category: 'korean',
+    name: 'GIWA',
+    description: {
+      ko: '헬싱키의 정통 한식당.',
+      en: 'Authentic Korean restaurant in Helsinki.',
+    },
+    rating: 4.5,
+    address: 'Bulevardi 19 A, 00120 Helsinki',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=GIWA+Bulevardi+19+A%2C+00120+Helsinki',
+  },
 ]

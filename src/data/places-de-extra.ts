@@ -16,6 +16,7 @@ export const placesDEExtra: Place[] = [
   place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Berlin', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800 }),
   place('berlin-cafe-3', 'berlin', 'cafe', 'Café Einstein Stammhaus', 4.4, 'Berlin', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 5400 }),
   place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Berlin', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600 }),
+  place('berlin-korean-1', 'berlin', 'korean', 'Feel Seoul Good', 4.5, 'Husemannstraße 2, 10405 Berlin', '프렌츠라우어베르크의 한식 맛집.', 'Korean favourite in Prenzlauer Berg.'),
 
   // —— munich ——
   place('munich-fine_dining-1', 'munich', 'fine_dining', 'Munich Fine Dining 1', 4.5, 'Munich', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -76,6 +77,7 @@ export const placesDEExtra: Place[] = [
   place('frankfurt-cafe-2', 'frankfurt', 'cafe', 'Old Town Café Frankfurt', 4.4, 'Frankfurt', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('frankfurt-cafe-3', 'frankfurt', 'cafe', 'Brunch Café Frankfurt', 4.3, 'Frankfurt', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('frankfurt-cafe-4', 'frankfurt', 'cafe', 'Espresso Bar Frankfurt', 4.3, 'Frankfurt', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('frankfurt-korean-1', 'frankfurt', 'korean', 'Sonamu', 4.5, 'Berger Straße 184, 60385 Frankfurt', '보른하임의 모던 한식당.', 'Modern Korean restaurant in Bornheim.'),
 
   // —— dresden ——
   place('dresden-fine_dining-1', 'dresden', 'fine_dining', 'Dresden Fine Dining 1', 4.5, 'Dresden', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

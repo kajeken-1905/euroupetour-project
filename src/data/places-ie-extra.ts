@@ -16,6 +16,7 @@ export const placesIEExtra: Place[] = [
   place('dublin-cafe-2', 'dublin', 'cafe', 'Kaph', 4.5, 'Dublin', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('dublin-cafe-3', 'dublin', 'cafe', 'Bewley\'s', 4.3, 'Dublin', '클래식 카페.', 'Classic café.', { reviewCount: 6200 }),
   place('dublin-cafe-4', 'dublin', 'cafe', 'Two Boys Brew', 4.4, 'Dublin', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
+  place('dublin-korean-1', 'dublin', 'korean', 'Arisu', 4.5, '120 Capel St, Dublin D01 KC63', '더블린 최초의 한식 바비큐 전문점.', 'Dublin\'s first Korean BBQ restaurant.'),
 
   // —— galway ——
   place('galway-fine_dining-1', 'galway', 'fine_dining', 'Galway Fine Dining 1', 4.5, 'Galway', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

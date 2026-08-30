@@ -16,6 +16,7 @@ export const placesESExtra: Place[] = [
   place('madrid-cafe-2', 'madrid', 'cafe', 'HanSo Café', 4.5, 'Madrid', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('madrid-cafe-3', 'madrid', 'cafe', 'Café Comercial', 4.3, 'Madrid', '클래식 카페.', 'Classic café.', { reviewCount: 5400 }),
   place('madrid-cafe-4', 'madrid', 'cafe', 'Toma Café', 4.5, 'Madrid', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100 }),
+  place('madrid-korean-1', 'madrid', 'korean', 'Maru', 4.5, 'Calle de la Reina 37, 28004 Madrid', '마드리드의 대표 한식당.', 'Well-known Korean restaurant in Madrid.'),
 
   // —— barcelona ——
   place('barcelona-fine_dining-1', 'barcelona', 'fine_dining', 'Barcelona Fine Dining 1', 4.5, 'Barcelona', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -31,6 +32,7 @@ export const placesESExtra: Place[] = [
   place('barcelona-cafe-2', 'barcelona', 'cafe', 'Old Town Café Barcelona', 4.4, 'Barcelona', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('barcelona-cafe-3', 'barcelona', 'cafe', 'Brunch Café Barcelona', 4.3, 'Barcelona', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('barcelona-cafe-4', 'barcelona', 'cafe', 'Espresso Bar Barcelona', 4.3, 'Barcelona', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('barcelona-korean-1', 'barcelona', 'korean', 'Shingané', 4.5, 'Carrer de Calàbria 232, 08029 Barcelona', '에이샴플레 지구의 정통 한식당.', 'Authentic Korean restaurant in Eixample.'),
 
   // —— seville ——
   place('seville-fine_dining-1', 'seville', 'fine_dining', 'Seville Fine Dining 1', 4.5, 'Seville', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -61,6 +63,7 @@ export const placesESExtra: Place[] = [
   place('granada-cafe-2', 'granada', 'cafe', 'Old Town Café Granada', 4.4, 'Granada', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('granada-cafe-3', 'granada', 'cafe', 'Brunch Café Granada', 4.3, 'Granada', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('granada-cafe-4', 'granada', 'cafe', 'Espresso Bar Granada', 4.3, 'Granada', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('granada-korean-1', 'granada', 'korean', 'CoreOlé Korean Food Bar', 4.5, 'C. Elvira, 114, 18010 Granada', '알바이신 지구의 한식당.', 'Korean restaurant in the Albaicín district.'),
 
   // —— valencia ——
   place('valencia-fine_dining-1', 'valencia', 'fine_dining', 'Valencia Fine Dining 1', 4.5, 'Valencia', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

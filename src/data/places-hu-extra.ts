@@ -16,6 +16,7 @@ export const placesHUExtra: Place[] = [
   place('budapest-cafe-2', 'budapest', 'cafe', 'Espresso Embassy', 4.6, 'Budapest', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
   place('budapest-cafe-3', 'budapest', 'cafe', 'My Little Melbourne', 4.5, 'Budapest', '스페셜티·브런치.', 'Specialty and brunch.', { reviewCount: 2800 }),
   place('budapest-cafe-4', 'budapest', 'cafe', 'Café Gerbeaud', 4.4, 'Budapest', '역사적 카페.', 'Historic café.', { reviewCount: 12000 }),
+  place('budapest-korean-1', 'budapest', 'korean', 'Arirang', 4.5, 'Ilka utca 22, 1043 Budapest', '조용한 골목의 정통 한식당.', 'Authentic Korean restaurant on a quiet street.'),
 
   // —— debrecen ——
   place('debrecen-fine_dining-1', 'debrecen', 'fine_dining', 'Debrecen Fine Dining 1', 4.5, 'Debrecen', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

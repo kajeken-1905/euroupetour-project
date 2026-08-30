@@ -16,6 +16,7 @@ export const placesITExtra: Place[] = [
   place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 4.4, 'Rome', '판테온 근처 커피.', 'Coffee near the Pantheon.', { reviewCount: 7600 }),
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 4.5, 'Rome', '역사적 카페.', 'Historic café.', { reviewCount: 2400 }),
   place('rome-cafe-4', 'rome', 'cafe', 'Faroe / specialty peers', 4.5, 'Rome', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('rome-korean-1', 'rome', 'korean', 'Gainn', 4.5, 'Via dei Mille 18, 00185 Roma', '미쉐린 가이드 등재 한식당.', 'Michelin Guide-listed Korean restaurant.'),
 
   // —— milan ——
   place('milan-fine_dining-1', 'milan', 'fine_dining', 'Milan Fine Dining 1', 4.5, 'Milan', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -31,6 +32,7 @@ export const placesITExtra: Place[] = [
   place('milan-cafe-2', 'milan', 'cafe', 'Old Town Café Milan', 4.4, 'Milan', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('milan-cafe-3', 'milan', 'cafe', 'Brunch Café Milan', 4.3, 'Milan', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('milan-cafe-4', 'milan', 'cafe', 'Espresso Bar Milan', 4.3, 'Milan', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('milan-korean-1', 'milan', 'korean', 'Ginmi', 4.5, 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥이 유명한 한식당.', 'Korean restaurant known for dolsot bibimbap.'),
 
   // —— florence ——
   place('florence-fine_dining-1', 'florence', 'fine_dining', 'Florence Fine Dining 1', 4.5, 'Florence', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

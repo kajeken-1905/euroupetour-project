@@ -16,6 +16,7 @@ export const placesCHExtra: Place[] = [
   place('zurich-cafe-2', 'zurich', 'cafe', 'Milchbar', 4.5, 'Zurich', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1800 }),
   place('zurich-cafe-3', 'zurich', 'cafe', 'Balthasar / specialty peers', 4.5, 'Zurich', '스페셜티.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('zurich-cafe-4', 'zurich', 'cafe', 'Café Sprüngli', 4.4, 'Zurich', '페이스트리 카페.', 'Pastry café.', { reviewCount: 5400 }),
+  place('zurich-korean-1', 'zurich', 'korean', 'Akaraka', 4.5, 'Bäckerstrasse 30, 8004 Zürich', '취리히의 정통 한식당.', 'Authentic Korean restaurant in Zürich.'),
 
   // —— geneva ——
   place('geneva-fine_dining-1', 'geneva', 'fine_dining', 'Geneva Fine Dining 1', 4.5, 'Geneva', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -31,6 +32,7 @@ export const placesCHExtra: Place[] = [
   place('geneva-cafe-2', 'geneva', 'cafe', 'Old Town Café Geneva', 4.4, 'Geneva', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('geneva-cafe-3', 'geneva', 'cafe', 'Brunch Café Geneva', 4.3, 'Geneva', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('geneva-cafe-4', 'geneva', 'cafe', 'Espresso Bar Geneva', 4.3, 'Geneva', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
+  place('geneva-korean-1', 'geneva', 'korean', 'BAP Urban Korean Food', 4.5, 'Rue de Coutance 25, 1201 Genève', '생제르베 지구의 한식 레스토랑.', 'Korean restaurant in the Saint-Gervais district.'),
 
   // —— bern ——
   place('bern-fine_dining-1', 'bern', 'fine_dining', 'Bern Fine Dining 1', 4.5, 'Bern', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),

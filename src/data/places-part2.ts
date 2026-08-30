@@ -490,5 +490,18 @@ export const placesPart2: Place[] = [
     address: 'Ixelles, Bruxelles',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Warm+Cafe+Bruxelles',
     priceLevel: '€€',
-  }
+  },
+  {
+    id: 'bru-kr-1',
+    cityId: 'brussels',
+    category: 'korean',
+    name: 'Maru',
+    description: {
+      ko: '미쉐린 가이드 등재 한식당.',
+      en: 'Michelin Guide-listed Korean restaurant.',
+    },
+    rating: 4.5,
+    address: 'Chaussée de Waterloo 510, 1050 Ixelles',
+    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Maru+Chaussée+de+Waterloo+510%2C+1050+Ixelles',
+  },
 ]
