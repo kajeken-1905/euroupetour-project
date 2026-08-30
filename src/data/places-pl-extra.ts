@@ -20,6 +20,8 @@ export const placesPLExtra: Place[] = [
 
   // —— krakow ——
   place('krakow-fine_dining-1', 'krakow', 'fine_dining', 'Starka', 4.6, 'Józefa 14, 31-056 Kraków', '카지미에시 지구의 전통 폴란드 요리.', 'Traditional Polish cuisine in the Kazimierz district.'),
+  place('krakow-bakery-1', 'krakow', 'bakery', 'Massolit Bakery & Cafe', 4.5, 'Kazimierza Brodzińskiego 4, 30-506 Kraków, Poland', '카지미에시 지구 게토 영웅 광장 인근의 인기 베이커리 카페, 맛있는 빵과 베이글로 유명', 'Popular Kraków bakery café near Plac Bohaterów Getta, known for delicious bread and bagels'),
+  place('krakow-cafe-1', 'krakow', 'cafe', 'Lajkonik Bakery & Cafe', 4.4, 'Tomasza 25, 31-027 Kraków, Poland', '달콤한 폰치키(잼 도넛)로 유명한 크라쿠프의 베이커리 카페 체인', 'Kraków bakery café chain known for its sweet pączki jelly donuts'),
 
   // —— gdansk ——
   place('gdansk-fine_dining-1', 'gdansk', 'fine_dining', 'Kubicki Restaurant', 4.5, 'Wartka 5, 80-855 Gdańsk', '그단스크 구시가의 대표 레스토랑.', 'Leading restaurant in Gdańsk\'s Old Town.'),
