@@ -4,38 +4,11 @@ import type { Place } from '../types'
 export const placesMDExtra: Place[] = [
   // —— chisinau ——
   place('chisinau-fine_dining-1', 'chisinau', 'fine_dining', 'La Taifas', 4.6, 'Strada Pușkin 20B, Chișinău', '전통 몰도바 가옥 콘셉트 레스토랑.', 'Restaurant styled after a traditional Moldovan house.'),
-  place('chisinau-fine_dining-1', 'chisinau', 'fine_dining', 'Chișinău Fine Dining 1', 4.4, 'Chișinău', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 720 }),
-  place('chisinau-fine_dining-2', 'chisinau', 'fine_dining', 'Chișinău Fine Dining 2', 4.7, 'Chișinău', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 2100 }),
-  place('chisinau-fine_dining-3', 'chisinau', 'fine_dining', 'Chișinău Fine Dining 3', 4.5, 'Chișinău', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 640 }),
-  place('chisinau-bakery-1', 'chisinau', 'bakery', 'Chișinău Bakery 1', 4.5, 'Chișinău', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 320 }),
-  place('chisinau-bakery-2', 'chisinau', 'bakery', 'Chișinău Bakery 2', 4.3, 'Chișinău', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 320 }),
-  place('chisinau-bakery-3', 'chisinau', 'bakery', 'Chișinău Bakery 3', 4.6, 'Chișinău', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 980 }),
-  place('chisinau-cafe-1', 'chisinau', 'cafe', 'Specialty Coffee Chișinău 1', 4.3, 'Chișinău', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 640 }),
-  place('chisinau-cafe-2', 'chisinau', 'cafe', 'Chișinău Café 2', 4.7, 'Chișinău', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
-  place('chisinau-cafe-3', 'chisinau', 'cafe', 'Chișinău Café 3', 4.6, 'Chișinău', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
 
   // —— orheiul-vechi ——
   place('orheiul-vechi-fine_dining-1', 'orheiul-vechi', 'fine_dining', 'Ellada', 4.5, 'Strada Vasile Lupu 46, Orhei', '오르헤이 중심의 몰도바 요리.', 'Moldovan cuisine in central Orhei.'),
-  place('orheiul-vechi-fine_dining-1', 'orheiul-vechi', 'fine_dining', 'Orheiul Vechi Fine Dining 1', 4.3, 'Orheiul Vechi', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
-  place('orheiul-vechi-fine_dining-2', 'orheiul-vechi', 'fine_dining', 'Orheiul Vechi Fine Dining 2', 4.5, 'Orheiul Vechi', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1600 }),
-  place('orheiul-vechi-fine_dining-3', 'orheiul-vechi', 'fine_dining', 'Orheiul Vechi Fine Dining 3', 4.4, 'Orheiul Vechi', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1600 }),
-  place('orheiul-vechi-bakery-1', 'orheiul-vechi', 'bakery', 'Orheiul Vechi Bakery 1', 4.4, 'Orheiul Vechi', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 640 }),
-  place('orheiul-vechi-bakery-2', 'orheiul-vechi', 'bakery', 'Orheiul Vechi Bakery 2', 4.7, 'Orheiul Vechi', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 560 }),
-  place('orheiul-vechi-bakery-3', 'orheiul-vechi', 'bakery', 'Orheiul Vechi Bakery 3', 4.5, 'Orheiul Vechi', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 480 }),
-  place('orheiul-vechi-cafe-1', 'orheiul-vechi', 'cafe', 'Specialty Coffee Orheiul Vechi 1', 4.6, 'Orheiul Vechi', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
-  place('orheiul-vechi-cafe-2', 'orheiul-vechi', 'cafe', 'Orheiul Vechi Café 2', 4.3, 'Orheiul Vechi', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 560 }),
-  place('orheiul-vechi-cafe-3', 'orheiul-vechi', 'cafe', 'Orheiul Vechi Café 3', 4.6, 'Orheiul Vechi', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 980 }),
 
   // —— soroca ——
   place('soroca-fine_dining-1', 'soroca', 'fine_dining', 'Restaurant Apollon', 4.5, 'Strada A. Cosmescu 1, Soroca', '드네스트르강 전망의 유러피언 요리.', 'European cuisine with Dniester River views.'),
-  place('soroca-fine_dining-1', 'soroca', 'fine_dining', 'Soroca Fine Dining 1', 4.6, 'Soroca', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 320 }),
-  place('soroca-fine_dining-2', 'soroca', 'fine_dining', 'Soroca Fine Dining 2', 4.5, 'Soroca', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
-  place('soroca-fine_dining-3', 'soroca', 'fine_dining', 'Soroca Fine Dining 3', 4.5, 'Soroca', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
-  place('soroca-bakery-1', 'soroca', 'bakery', 'Soroca Bakery 1', 4.6, 'Soroca', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 2100 }),
-  place('soroca-bakery-2', 'soroca', 'bakery', 'Soroca Bakery 2', 4.4, 'Soroca', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 720 }),
-  place('soroca-bakery-3', 'soroca', 'bakery', 'Soroca Bakery 3', 4.4, 'Soroca', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 1100 }),
-  place('soroca-cafe-1', 'soroca', 'cafe', 'Specialty Coffee Soroca 1', 4.2, 'Soroca', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 720 }),
-  place('soroca-cafe-2', 'soroca', 'cafe', 'Soroca Café 2', 4.7, 'Soroca', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 560 }),
-  place('soroca-cafe-3', 'soroca', 'cafe', 'Soroca Café 3', 4.5, 'Soroca', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
 
 ]
