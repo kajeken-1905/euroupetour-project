@@ -3470,7 +3470,7 @@ export const cities: City[] = [
         id: "marseille-h4",
         name: { ko: "카랑크 국립공원", en: "Calanques" },
         description: { ko: "석회암 절벽과 터키석 바다입니다.", en: "Limestone cliffs and turquoise water." },
-        image: "/highlights/marseille-4.jpg",
+        image: "/highlights/marseille-4.svg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Calanques%20Marseille",
       },
       {
