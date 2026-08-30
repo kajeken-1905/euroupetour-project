@@ -18,5 +18,6 @@ export const placesMCExtra: Place[] = [
   place('monaco-cafe-4', 'monaco', 'cafe', 'Brunch café Carré d\'Or', 4.4, 'Monaco', '럭셔리 지구 브런치.', 'Luxury-district brunch.', { reviewCount: 980 }),
 
   // —— monte-carlo ——
+  place('monte-carlo-fine_dining-1', 'monte-carlo', 'fine_dining', 'Le Louis XV - Alain Ducasse', 4.7, 'Avenue Princesse Grace, 98000 Monaco', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
 
 ]

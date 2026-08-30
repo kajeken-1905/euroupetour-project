@@ -18,7 +18,9 @@ export const placesLTExtra: Place[] = [
   place('vilnius-cafe-4', 'vilnius', 'cafe', 'Brunch Vilnius peers', 4.4, 'Vilnius', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— kaunas ——
+  place('kaunas-fine_dining-1', 'kaunas', 'fine_dining', 'Nüman', 4.6, 'Nemuno g. 43, 44288 Kaunas', '구시가의 미쉐린 어워드 레스토랑.', 'Michelin-recognized restaurant in the Old Town.'),
 
   // —— klaipeda ——
+  place('klaipeda-fine_dining-1', 'klaipeda', 'fine_dining', 'Monai', 4.6, 'Liepų Gatvė 4, 92114 Klaipėda', '미쉐린 가이드 등재 레스토랑.', 'Michelin Guide-listed restaurant.'),
 
 ]

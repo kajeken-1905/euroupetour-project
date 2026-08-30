@@ -18,7 +18,9 @@ export const placesLIExtra: Place[] = [
   place('vaduz-cafe-4', 'vaduz', 'cafe', 'Brunch café Vaduz', 4.3, 'Vaduz', '브런치 카페.', 'Brunch café.', { reviewCount: 420 }),
 
   // —— schaan ——
+  place('schaan-fine_dining-1', 'schaan', 'fine_dining', 'Restaurant Forum', 4.4, 'Gapetschstrasse 87, 9494 Schaan', '슈니첼·코르동 블루의 전통 요리.', 'Traditional dishes like schnitzel and cordon bleu.'),
 
   // —— malbun ——
+  place('malbun-fine_dining-1', 'malbun', 'fine_dining', 'Restaurant Vogeli', 4.3, '9497 Malbun', '산악 전망의 유러피언 요리.', 'European cuisine with mountain views.'),
 
 ]

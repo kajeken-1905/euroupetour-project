@@ -18,7 +18,9 @@ export const placesLVExtra: Place[] = [
   place('riga-cafe-4', 'riga', 'cafe', 'Brunch Riga peers', 4.4, 'Riga', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
 
   // —— jurmala ——
+  place('jurmala-fine_dining-1', 'jurmala', 'fine_dining', '36.Line Grill Restaurant', 4.4, 'Baznīcas iela 12/14, LV-2015 Jūrmala', '시푸드·지중해 요리 레스토랑.', 'Seafood and Mediterranean cuisine.'),
 
   // —— sigulda ——
+  place('sigulda-fine_dining-1', 'sigulda', 'fine_dining', 'Pasēdnīca', 4.5, 'Raiņa iela 2-3, LV-2150 Sigulda', '합리적인 가격의 로컬 요리.', 'Local cuisine at reasonable prices.'),
 
 ]
