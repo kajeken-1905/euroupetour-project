@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesMCExtra: Place[] = [
   // —— monaco ——
   place('monaco-fine_dining-1', 'monaco', 'fine_dining', 'Le Louis XV – Alain Ducasse', 4.8, 'Monaco', '미슐랭 클래식 파인.', 'Michelin classic fine dining.', { reviewCount: 1600 }),
-  place('monaco-fine_dining-2', 'monaco', 'fine_dining', 'Blue Bay / Joel Robuchon peers', 4.6, 'Monaco', '호텔 파인 다이닝.', 'Hotel fine dining.', { reviewCount: 1200 }),
+  place('monaco-fine_dining-2', 'monaco', 'fine_dining', 'Blue Bay', 4.6, 'Monaco', '호텔 파인 다이닝.', 'Hotel fine dining.', { reviewCount: 1200 }),
   place('monaco-fine_dining-3', 'monaco', 'fine_dining', 'Yoshi', 4.5, 'Monaco', '일식 파인 다이닝.', 'Japanese fine dining.', { reviewCount: 900 }),
   place('monaco-fine_dining-4', 'monaco', 'fine_dining', 'Cafe de Paris Monte-Carlo', 4.4, 'Monaco', '카지노 광장 브라세리.', 'Casino-square brasserie.', { reviewCount: 6400 }),
   place('monaco-fine_dining-5', 'monaco', 'fine_dining', 'Beefbar Monaco', 4.4, 'Monaco', '스테이크·캐주얼 파인.', 'Steak casual fine.', { reviewCount: 2100 }),

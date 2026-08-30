@@ -88,7 +88,7 @@ export const placesNLExtra: Place[] = [
   place('maastricht-fine_dining-2', 'maastricht', 'fine_dining', 'Tout à Fait', 4.6, 'Maastricht', '프렌치 다이닝.', 'French dining.', { reviewCount: 720 }),
   place('maastricht-fine_dining-3', 'maastricht', 'fine_dining', 'Restaurant Petit Bonheur', 4.5, 'Maastricht', '아늑한 파인 다이닝.', 'Intimate fine dining.', { reviewCount: 640 }),
   place('maastricht-fine_dining-4', 'maastricht', 'fine_dining', 'Nur', 4.5, 'Maastricht', '모던 다이닝.', 'Modern dining.', { reviewCount: 580 }),
-  place('maastricht-fine_dining-5', 'maastricht', 'fine_dining', 'Hapskoek / local peers', 4.3, 'Maastricht', '로컬.', 'Local.', { reviewCount: 520 }),
+  place('maastricht-fine_dining-5', 'maastricht', 'fine_dining', 'Hapskoek', 4.3, 'Maastricht', '로컬.', 'Local.', { reviewCount: 520 }),
   place('maastricht-bakery-1', 'maastricht', 'bakery', 'Bisschopsmolen', 4.6, 'Maastricht', '역사적 제분소 베이커리.', 'Historic mill bakery.', { reviewCount: 1800 }),
   place('maastricht-bakery-2', 'maastricht', 'bakery', 'Local Maastricht bakers', 4.4, 'Maastricht', '아티산.', 'Artisan.', { reviewCount: 720 }),
   place('maastricht-bakery-3', 'maastricht', 'bakery', 'Patisserie', 4.4, 'Maastricht', '페이스트리.', 'Pastries.', { reviewCount: 680 }),

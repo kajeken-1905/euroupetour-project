@@ -10,7 +10,7 @@ export const placesSEExtra: Place[] = [
   place('gothenburg-fine_dining-5', 'gothenburg', 'fine_dining', 'Feskekörka dining counters', 4.4, 'Gothenburg', '생선시장 다이닝.', 'Fish church dining.', { reviewCount: 1800 }),
   place('gothenburg-bakery-1', 'gothenburg', 'bakery', 'Pågen / local bakers', 4.3, 'Gothenburg', '로컬 브레드.', 'Local breads.', { reviewCount: 900 }),
   place('gothenburg-bakery-2', 'gothenburg', 'bakery', 'Da Matteo bakery', 4.6, 'Gothenburg', '사워도우·커피.', 'Sourdough and coffee.', { reviewCount: 1600 }),
-  place('gothenburg-bakery-3', 'gothenburg', 'bakery', 'Conditori Nordstan peers', 4.3, 'Gothenburg', '파티세리.', 'Patisserie.', { reviewCount: 1100 }),
+  place('gothenburg-bakery-3', 'gothenburg', 'bakery', 'Conditori Nordstan', 4.3, 'Gothenburg', '파티세리.', 'Patisserie.', { reviewCount: 1100 }),
   place('gothenburg-bakery-4', 'gothenburg', 'bakery', 'Haga almond bun bakeries', 4.5, 'Gothenburg', '하가 아몬드번.', 'Haga almond buns.', { reviewCount: 2200 }),
   place('gothenburg-bakery-5', 'gothenburg', 'bakery', 'Local sourdough', 4.4, 'Gothenburg', '사워도우.', 'Sourdough.', { reviewCount: 720 }),
   place('gothenburg-cafe-1', 'gothenburg', 'cafe', 'Da Matteo', 4.6, 'Gothenburg', '스페셜티.', 'Specialty.', { reviewCount: 1800 }),

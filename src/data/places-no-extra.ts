@@ -23,7 +23,7 @@ export const placesNOExtra: Place[] = [
   place('tromso-fine_dining-1', 'tromso', 'fine_dining', 'Restaurant Smak', 4.6, 'Tromsø', '북극 미식.', 'Arctic fine dining.', { reviewCount: 720 }),
   place('tromso-fine_dining-2', 'tromso', 'fine_dining', 'Fiskekompaniet', 4.5, 'Tromsø', '시푸드.', 'Seafood.', { reviewCount: 1100 }),
   place('tromso-fine_dining-3', 'tromso', 'fine_dining', 'Mathallen Tromsø dining', 4.4, 'Tromsø', '마켓 다이닝.', 'Market dining.', { reviewCount: 860 }),
-  place('tromso-fine_dining-4', 'tromso', 'fine_dining', 'Hilde’s restaurant peers', 4.3, 'Tromsø', '로컬.', 'Local.', { reviewCount: 540 }),
+  place('tromso-fine_dining-4', 'tromso', 'fine_dining', 'Hilde\'s Restaurant', 4.3, 'Tromsø', '로컬.', 'Local.', { reviewCount: 540 }),
   place('tromso-fine_dining-5', 'tromso', 'fine_dining', 'Raketten / casual iconic', 4.2, 'Tromsø', '핫도그 스탠드 아이콘.', 'Iconic hotdog stand.', { reviewCount: 1800 }),
   place('tromso-bakery-1', 'tromso', 'bakery', 'Bakeri Tromsø', 4.4, 'Tromsø', '베이커리.', 'Bakery.', { reviewCount: 640 }),
   place('tromso-bakery-2', 'tromso', 'bakery', 'Local cinnamon bun bakeries', 4.4, 'Tromsø', '시나몬롤.', 'Cinnamon buns.', { reviewCount: 860 }),
@@ -35,7 +35,7 @@ export const placesNOExtra: Place[] = [
 
   // —— stavanger ——
   place('stavanger-fine_dining-1', 'stavanger', 'fine_dining', 'RE-NAA', 4.8, 'Stavanger', '3스타급 노르딕.', 'Top-tier Nordic dining.', { reviewCount: 980 }),
-  place('stavanger-fine_dining-2', 'stavanger', 'fine_dining', 'Sabi Omakase / peers', 4.5, 'Stavanger', '파인 다이닝.', 'Fine dining.', { reviewCount: 640 }),
+  place('stavanger-fine_dining-2', 'stavanger', 'fine_dining', 'Sabi Omakase', 4.5, 'Stavanger', '파인 다이닝.', 'Fine dining.', { reviewCount: 640 }),
   place('stavanger-fine_dining-3', 'stavanger', 'fine_dining', 'Bare Vestland', 4.5, 'Stavanger', '로컬 재료.', 'Local produce.', { reviewCount: 720 }),
   place('stavanger-fine_dining-4', 'stavanger', 'fine_dining', 'Renaa Sølvberget', 4.4, 'Stavanger', '캐주얼 파인.', 'Casual fine dining.', { reviewCount: 1100 }),
   place('stavanger-fine_dining-5', 'stavanger', 'fine_dining', 'Fish restaurants harbour', 4.3, 'Stavanger', '항구 시푸드.', 'Harbour seafood.', { reviewCount: 1400 }),
@@ -56,14 +56,14 @@ export const placesNOExtra: Place[] = [
   place('trondheim-bakery-1', 'trondheim', 'bakery', 'Bakeriet i Trondheim', 4.5, 'Trondheim', '베이커리.', 'Bakery.', { reviewCount: 860 }),
   place('trondheim-bakery-2', 'trondheim', 'bakery', 'Godt Brød', 4.4, 'Trondheim', '유기농.', 'Organic.', { reviewCount: 1100 }),
   place('trondheim-bakery-3', 'trondheim', 'bakery', 'Local sourdough', 4.4, 'Trondheim', '사워도우.', 'Sourdough.', { reviewCount: 640 }),
-  place('trondheim-cafe-1', 'trondheim', 'cafe', 'Cocoro / specialty peers', 4.5, 'Trondheim', '스페셜티.', 'Specialty.', { reviewCount: 980 }),
+  place('trondheim-cafe-1', 'trondheim', 'cafe', 'Cocoro', 4.5, 'Trondheim', '스페셜티.', 'Specialty.', { reviewCount: 980 }),
   place('trondheim-cafe-2', 'trondheim', 'cafe', 'Café Dromedar', 4.4, 'Trondheim', '로컬 카페.', 'Local café.', { reviewCount: 1200 }),
   place('trondheim-cafe-3', 'trondheim', 'cafe', 'Bakklandet cafés', 4.3, 'Trondheim', '컬러풀 카페.', 'Colourful cafés.', { reviewCount: 1600 }),
   place('trondheim-cafe-4', 'trondheim', 'cafe', 'Student cafés', 4.2, 'Trondheim', '대학 카페.', 'Student cafés.', { reviewCount: 860 }),
 
   // —— alesund ——
   place('alesund-fine_dining-1', 'alesund', 'fine_dining', 'Hotel Brosundet restaurant', 4.5, 'Ålesund', '항구 파인 다이닝.', 'Harbour fine dining.', { reviewCount: 720 }),
-  place('alesund-fine_dining-2', 'alesund', 'fine_dining', 'XL Diner / peers', 4.3, 'Ålesund', '시푸드.', 'Seafood.', { reviewCount: 860 }),
+  place('alesund-fine_dining-2', 'alesund', 'fine_dining', 'XL Diner', 4.3, 'Ålesund', '시푸드.', 'Seafood.', { reviewCount: 860 }),
   place('alesund-fine_dining-3', 'alesund', 'fine_dining', 'Fjellstua dining', 4.4, 'Ålesund', '악슬라 전망 다이닝.', 'Aksla viewpoint dining.', { reviewCount: 1400 }),
   place('alesund-fine_dining-4', 'alesund', 'fine_dining', 'Apotekergata dining', 4.3, 'Ålesund', '시내 다이닝.', 'Town dining.', { reviewCount: 640 }),
   place('alesund-bakery-1', 'alesund', 'bakery', 'Local Ålesund bakery', 4.4, 'Ålesund', '베이커리.', 'Bakery.', { reviewCount: 540 }),

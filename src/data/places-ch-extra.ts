@@ -14,7 +14,7 @@ export const placesCHExtra: Place[] = [
   place('zurich-bakery-4', 'zurich', 'bakery', 'Bäckerei Conditorei local', 4.3, 'Zurich', '로컬 빵집.', 'Local bakery.', { reviewCount: 900 }),
   place('zurich-cafe-1', 'zurich', 'cafe', 'Café Schober', 4.4, 'Zurich', '클래식 카페.', 'Classic café.', { reviewCount: 3200 }),
   place('zurich-cafe-2', 'zurich', 'cafe', 'Milchbar', 4.5, 'Zurich', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1800 }),
-  place('zurich-cafe-3', 'zurich', 'cafe', 'Balthasar / specialty peers', 4.5, 'Zurich', '스페셜티.', 'Specialty coffee.', { reviewCount: 1400 }),
+  place('zurich-cafe-3', 'zurich', 'cafe', 'Balthasar', 4.5, 'Zurich', '스페셜티.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('zurich-cafe-4', 'zurich', 'cafe', 'Café Sprüngli', 4.4, 'Zurich', '페이스트리 카페.', 'Pastry café.', { reviewCount: 5400 }),
   place('zurich-korean-1', 'zurich', 'korean', 'Akaraka', 4.5, 'Bäckerstrasse 30, 8004 Zürich', '취리히의 정통 한식당.', 'Authentic Korean restaurant in Zürich.'),
 

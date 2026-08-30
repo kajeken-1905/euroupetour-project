@@ -9,7 +9,7 @@ export const placesIEExtra: Place[] = [
   place('dublin-fine_dining-4', 'dublin', 'fine_dining', 'Fallon & Byrne', 4.4, 'Dublin', '마켓·다이닝.', 'Market dining.', { reviewCount: 2800 }),
   place('dublin-fine_dining-5', 'dublin', 'fine_dining', 'The Winding Stair', 4.4, 'Dublin', '리버뷰 아일랜드 요리.', 'River-view Irish cooking.', { reviewCount: 2100 }),
   place('dublin-bakery-1', 'dublin', 'bakery', 'Bread 41', 4.6, 'Dublin', '사워도우 베이커리.', 'Sourdough bakery.', { reviewCount: 2400 }),
-  place('dublin-bakery-2', 'dublin', 'bakery', 'Joe\'s Bakery / peers', 4.4, 'Dublin', '로컬 빵집.', 'Local bakery.', { reviewCount: 1200 }),
+  place('dublin-bakery-2', 'dublin', 'bakery', 'Joe\'s Bakery', 4.4, 'Dublin', '로컬 빵집.', 'Local bakery.', { reviewCount: 1200 }),
   place('dublin-bakery-3', 'dublin', 'bakery', 'The Cake Café', 4.4, 'Dublin', '케이크·브런치.', 'Cakes and brunch.', { reviewCount: 1800 }),
   place('dublin-bakery-4', 'dublin', 'bakery', 'Cornucopia bakery counter', 4.3, 'Dublin', '베이커리 카운터.', 'Bakery counter.', { reviewCount: 1600 }),
   place('dublin-cafe-1', 'dublin', 'cafe', '3fe Coffee', 4.6, 'Dublin', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2800 }),

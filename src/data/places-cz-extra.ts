@@ -5,7 +5,7 @@ export const placesCZExtra: Place[] = [
   // —— prague ——
   place('prague-fine_dining-1', 'prague', 'fine_dining', 'La Degustation Bohême Bourgeoise', 4.7, 'Prague', '미슐랭 보헤미안 코스.', 'Michelin Bohemian tasting.', { reviewCount: 1400 }),
   place('prague-fine_dining-2', 'prague', 'fine_dining', 'Field', 4.6, 'Prague', '시즌 체코 파인 다이닝.', 'Seasonal Czech fine dining.', { reviewCount: 1100 }),
-  place('prague-fine_dining-3', 'prague', 'fine_dining', 'Ambiente Czechasek / Lokal peers', 4.4, 'Prague', '모던 체코 다이닝.', 'Modern Czech dining.', { reviewCount: 2800 }),
+  place('prague-fine_dining-3', 'prague', 'fine_dining', 'Lokál', 4.4, 'Prague', '모던 체코 다이닝.', 'Modern Czech dining.', { reviewCount: 2800 }),
   place('prague-fine_dining-4', 'prague', 'fine_dining', 'Kantýna', 4.5, 'Prague', '정육점 감성 다이닝.', 'Butchery-style dining.', { reviewCount: 3600 }),
   place('prague-fine_dining-5', 'prague', 'fine_dining', 'U Modré Kachničky', 4.4, 'Prague', '클래식 체코 요리.', 'Classic Czech cuisine.', { reviewCount: 4200 }),
   place('prague-bakery-1', 'prague', 'bakery', 'Antonínovo pekařství', 4.5, 'Prague', '사워도우 베이커리.', 'Sourdough bakery.', { reviewCount: 1800 }),

@@ -3,8 +3,8 @@ import type { Place } from '../types'
 
 export const placesADExtra: Place[] = [
   // —— andorra-la-vella ——
-  place('andorra-la-vella-fine_dining-1', 'andorra-la-vella', 'fine_dining', 'Bokè Wine & Grill / peers', 4.5, 'Andorra la Vella', '산악 그릴·와인.', 'Mountain grill and wine.', { reviewCount: 700 }),
-  place('andorra-la-vella-fine_dining-2', 'andorra-la-vella', 'fine_dining', 'Celler d\'en Toni peers', 4.4, 'Andorra la Vella', '카탈란·안도라 다이닝.', 'Catalan–Andorran dining.', { reviewCount: 600 }),
+  place('andorra-la-vella-fine_dining-1', 'andorra-la-vella', 'fine_dining', 'Bokè Wine & Grill', 4.5, 'Andorra la Vella', '산악 그릴·와인.', 'Mountain grill and wine.', { reviewCount: 700 }),
+  place('andorra-la-vella-fine_dining-2', 'andorra-la-vella', 'fine_dining', 'Celler d\'en Toni', 4.4, 'Andorra la Vella', '카탈란·안도라 다이닝.', 'Catalan–Andorran dining.', { reviewCount: 600 }),
   place('andorra-la-vella-fine_dining-3', 'andorra-la-vella', 'fine_dining', 'Hotel fine dining Andorra', 4.4, 'Andorra la Vella', '호텔 파인 다이닝.', 'Hotel fine dining.', { reviewCount: 800 }),
   place('andorra-la-vella-fine_dining-4', 'andorra-la-vella', 'fine_dining', 'Mountain bistro centre', 4.3, 'Andorra la Vella', '산악 비스트로.', 'Mountain bistro.', { reviewCount: 900 }),
   place('andorra-la-vella-fine_dining-5', 'andorra-la-vella', 'fine_dining', 'Grill & local cuisine', 4.3, 'Andorra la Vella', '로컬 그릴 요리.', 'Local grill cuisine.', { reviewCount: 1100 }),

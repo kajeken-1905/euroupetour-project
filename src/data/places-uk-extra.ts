@@ -24,7 +24,7 @@ export const placesUKExtra: Place[] = [
   place('manchester-fine_dining-2', 'manchester', 'fine_dining', 'The French at Midland Hotel', 4.6, 'Manchester', '클래식 프렌치 파인 다이닝.', 'Classic French fine dining.', { reviewCount: 920 }),
   place('manchester-fine_dining-3', 'manchester', 'fine_dining', 'Adam Reid at The French', 4.5, 'Manchester', '현대 브리티시 코스.', 'Modern British tasting menus.', { reviewCount: 710 }),
   place('manchester-fine_dining-4', 'manchester', 'fine_dining', 'Higher Ground', 4.5, 'Manchester', '산지 재료 중심 모던 다이닝.', 'Producer-led modern dining.', { reviewCount: 580 }),
-  place('manchester-fine_dining-5', 'manchester', 'fine_dining', 'Where The Light Gets In (day trip fame) / local peers', 4.4, 'Manchester', '북서부 모던 다이닝 씬.', 'NW England modern dining scene.', { reviewCount: 450 }),
+  place('manchester-fine_dining-5', 'manchester', 'fine_dining', 'Where The Light Gets In', 4.4, 'Manchester', '북서부 모던 다이닝 씬.', 'NW England modern dining scene.', { reviewCount: 450 }),
   place('manchester-bakery-1', 'manchester', 'bakery', 'Pollen Bakery', 4.7, 'Manchester', '사워도우로 유명한 베이커리.', 'Famous sourdough bakery.', { reviewCount: 1600 }),
   place('manchester-bakery-2', 'manchester', 'bakery', 'Companio Bakery', 4.6, 'Manchester', '아티산 브레드·페이스트리.', 'Artisan breads and pastries.', { reviewCount: 980 }),
   place('manchester-bakery-3', 'manchester', 'bakery', 'Gooey', 4.5, 'Manchester', '시나몬롤·브런치 인기.', 'Cinnamon buns and brunch favourite.', { reviewCount: 1200 }),

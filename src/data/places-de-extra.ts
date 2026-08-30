@@ -7,7 +7,7 @@ export const placesDEExtra: Place[] = [
   place('berlin-fine_dining-2', 'berlin', 'fine_dining', 'Cordo', 4.6, 'Berlin', '모던 저먼 코스.', 'Modern German tasting.', { reviewCount: 1100 }),
   place('berlin-fine_dining-3', 'berlin', 'fine_dining', 'Nobelhart & Schmutzig', 4.6, 'Berlin', '로컬 재료 코스.', 'Local-ingredient tasting.', { reviewCount: 1600 }),
   place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 4.3, 'Berlin', '역사적 독일 식당.', 'Historic German restaurant.', { reviewCount: 4800 }),
-  place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap peers / local classics', 4.4, 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { reviewCount: 12000 }),
+  place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 4.4, 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { reviewCount: 12000 }),
   place('berlin-bakery-1', 'berlin', 'bakery', 'Zeit für Brot', 4.5, 'Berlin', '시나몬롤·빵.', 'Cinnamon rolls and bread.', { reviewCount: 3600 }),
   place('berlin-bakery-2', 'berlin', 'bakery', 'Soluna Brot und Öl', 4.5, 'Berlin', '사워도우.', 'Sourdough.', { reviewCount: 1800 }),
   place('berlin-bakery-3', 'berlin', 'bakery', 'Café Einstein bakery', 4.3, 'Berlin', '카페 베이커리.', 'Café bakery.', { reviewCount: 2100 }),

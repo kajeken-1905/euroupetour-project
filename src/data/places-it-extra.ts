@@ -15,7 +15,7 @@ export const placesITExtra: Place[] = [
   place('rome-cafe-1', 'rome', 'cafe', 'Sant\'Eustachio Il Caffè', 4.5, 'Rome', '로마 에스프레소 클래식.', 'Classic Roman espresso.', { reviewCount: 9800 }),
   place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 4.4, 'Rome', '판테온 근처 커피.', 'Coffee near the Pantheon.', { reviewCount: 7600 }),
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 4.5, 'Rome', '역사적 카페.', 'Historic café.', { reviewCount: 2400 }),
-  place('rome-cafe-4', 'rome', 'cafe', 'Faroe / specialty peers', 4.5, 'Rome', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('rome-cafe-4', 'rome', 'cafe', 'Faroe', 4.5, 'Rome', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
   place('rome-korean-1', 'rome', 'korean', 'Gainn', 4.5, 'Via dei Mille 18, 00185 Roma', '미쉐린 가이드 등재 한식당.', 'Michelin Guide-listed Korean restaurant.'),
 
   // —— milan ——

@@ -5,7 +5,6 @@ export const placesVAExtra: Place[] = [
   // —— vatican-city ——
   place('vatican-city-fine_dining-1', 'vatican-city', 'fine_dining', 'Ristorante near St Peter\'s', 4.4, 'Vatican area', '대성당 인근 이탈리안.', 'Italian near the basilica.', { reviewCount: 1800 }),
   place('vatican-city-fine_dining-2', 'vatican-city', 'fine_dining', 'Borgo Pio trattoria', 4.4, 'Borgo', '보르고 트라토리아.', 'Borgo trattoria.', { reviewCount: 2100 }),
-  place('vatican-city-fine_dining-3', 'vatican-city', 'fine_dining', 'Prati fine dining peers', 4.5, 'Prati', '프라티 파인 다이닝.', 'Prati fine dining.', { reviewCount: 1200 }),
   place('vatican-city-fine_dining-4', 'vatican-city', 'fine_dining', 'Hotel Vatican-area dining', 4.3, 'Vatican area', '호텔 다이닝.', 'Hotel dining.', { reviewCount: 900 }),
   place('vatican-city-fine_dining-5', 'vatican-city', 'fine_dining', 'Roman classic near Vatican', 4.4, 'Vatican area', '로마 클래식 요리.', 'Classic Roman cooking.', { reviewCount: 2400 }),
   place('vatican-city-bakery-1', 'vatican-city', 'bakery', 'Panificio near Vatican', 4.5, 'Prati', '로마 빵집.', 'Roman bakery.', { reviewCount: 1600 }),
