@@ -20,14 +20,22 @@ export const placesATExtra: Place[] = [
 
   // —— salzburg ——
   place('salzburg-fine_dining-1', 'salzburg', 'fine_dining', 'Esszimmer', 4.6, 'Müllner Hauptstraße 33, 5020 Salzburg', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
+  place('salzburg-bakery-1', 'salzburg', 'bakery', 'The Bakery by Didi Maier', 4.5, 'Müllner Hauptstraße 4, 5020 Salzburg, Austria', '모던 감성의 잘츠부르크 인기 베이커리 카페', 'Modern, urban bakery café popular in Salzburg'),
+  place('salzburg-cafe-1', 'salzburg', 'cafe', 'Café Tomaselli', 4.4, 'Kapitelplatz 8, 5020 Salzburg, Austria', '1703년부터 이어온 잘츠부르크 구시가지의 유서 깊은 커피하우스', 'Historic coffee house in Salzburg\'s old town, serving since 1703'),
 
   // —— innsbruck ——
   place('innsbruck-fine_dining-1', 'innsbruck', 'fine_dining', 'Ottoburg', 4.5, 'Herzog-Friedrich-Straße 1, 6020 Innsbruck', '구시가 최고 전망의 레스토랑.', 'Restaurant with the Old Town\'s best views.'),
+  place('innsbruck-bakery-1', 'innsbruck', 'bakery', 'Joast', 4.5, 'Maria-Theresien-Straße 57, 6020 Innsbruck, Austria', '유기농 재료를 사용하는 인스브루크의 베이커리 카페', 'Organic bakery café on Innsbruck\'s main street'),
+  place('innsbruck-cafe-1', 'innsbruck', 'cafe', 'Katzunghaus', 4.4, 'Herzog-Friedrich-Straße 16, 6020 Innsbruck, Austria', '직접 구운 케이크와 슈트루델로 유명한 구시가지 카페', 'Café in the old town known for its own freshly baked cakes and strudels'),
 
   // —— graz ——
   place('graz-fine_dining-1', 'graz', 'fine_dining', 'Artis', 4.5, 'Schmiedgasse 20, 8010 Graz', '미쉐린 가이드 등재 레스토랑.', 'Michelin Guide-listed restaurant.'),
+  place('graz-bakery-1', 'graz', 'bakery', 'Bäckerei Sorger', 4.4, 'Dietrichsteinplatz 13, 8010 Graz, Austria', '직접 로스팅한 커피와 아침 식사로 유명한 그라츠 베이커리 체인', 'Bakery chain known for fresh breakfast and its own coffee roasting'),
+  place('graz-cafe-1', 'graz', 'cafe', 'Martin Auer', 4.5, 'Theodor-Körner-Straße 60, 8010 Graz, Austria', '자체 제과로 만든 데니시 페이스트리가 유명한 그라츠 카페', 'Café known for Danish pastries baked in its own bakery'),
 
   // —— hallstatt ——
   place('hallstatt-fine_dining-1', 'hallstatt', 'fine_dining', 'Bräugasthof', 4.5, 'Salzbergstraße 1, 4830 Hallstatt', '호수 전망의 전통 오스트리아 요리.', 'Traditional Austrian dishes with lake views.'),
 
+  place('hallstatt-bakery-1', 'hallstatt', 'bakery', 'Maislinger', 4.4, 'Seestraße 156, 4830 Hallstatt, Austria', '할슈타트 호숫가에 위치한 전통 베이커리, 자연 발효 사워도우로 유명', 'Lakeside bakery in Hallstatt known for its own natural sourdough'),
+  place('hallstatt-cafe-1', 'hallstatt', 'cafe', 'Café Derbl', 4.3, 'Hallstatt, 4830, Austria', '마을 중심가에서 커피와 홈메이드 케이크를 즐길 수 있는 카페', 'Café in the town center known for coffee and homemade cakes'),
 ]
