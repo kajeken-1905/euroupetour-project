@@ -9,7 +9,7 @@ export function CountriesPage() {
   const { lang } = useLanguage()
 
   return (
-    <>
+    <div className="theme-page">
       <header className="top-bar">
         <div>
           <Link to="/" className="back-link">
@@ -24,6 +24,6 @@ export function CountriesPage() {
           <CountryCard key={country.id} country={country} />
         ))}
       </div>
-    </>
+    </div>
   )
 }

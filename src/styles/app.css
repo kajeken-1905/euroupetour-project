@@ -1514,3 +1514,7 @@ button.back-link {
 .theme-page .rating .star {
   color: #ffd76b;
 }
+
+.theme-page .top-bar h1 {
+  color: #f2ecff;
+}

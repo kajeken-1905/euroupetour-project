@@ -9,6 +9,7 @@ export function AppShell() {
   const { pathname } = useLocation()
   const isDarkRoute =
     pathname === '/' ||
+    pathname === '/countries' ||
     pathname.startsWith('/country/') ||
     pathname.startsWith('/city/') ||
     pathname.startsWith('/place/')
