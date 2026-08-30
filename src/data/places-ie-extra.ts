@@ -19,13 +19,18 @@ export const placesIEExtra: Place[] = [
   place('dublin-korean-1', 'dublin', 'korean', 'Arisu', 4.5, '120 Capel St, Dublin D01 KC63', '더블린 최초의 한식 바비큐 전문점.', 'Dublin\'s first Korean BBQ restaurant.'),
 
   // —— galway ——
+  place('galway-fine_dining-1', 'galway', 'fine_dining', 'Ard Bia at Nimmo\'s', 4.6, 'Long Walk, Spanish Arch, Galway City', '코립강 전망의 대표 레스토랑.', 'Leading restaurant overlooking the River Corrib.'),
 
   // —— cork ——
+  place('cork-fine_dining-1', 'cork', 'fine_dining', 'Market Lane Restaurant', 4.6, '5-6 Oliver Plunkett St, Cork City, T12 T959', '코크 시내 중심의 수상 경력 레스토랑.', 'Award-winning restaurant in central Cork.'),
 
   // —— killarney ——
+  place('killarney-fine_dining-1', 'killarney', 'fine_dining', 'Bricín Restaurant and Boxty House', 4.6, '26 High Street, Killarney, V93 EE61', '하이 스트리트의 정통 아일랜드 요리.', 'Traditional Irish cuisine on High Street.'),
 
   // —— kilkenny ——
+  place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'The Arches', 4.5, '5 Gas House Ln, Kilkenny, R95 X092', '킬케니의 인기 레스토랑.', 'Popular restaurant in Kilkenny.'),
 
   // —— limerick ——
+  place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Freddy\'s', 4.5, '100 O\'Connell St, Limerick, V94 XY0P', '리머릭의 활기찬 다이닝 명소.', 'A lively dining spot in Limerick.'),
 
 ]

@@ -18,11 +18,15 @@ export const placesISExtra: Place[] = [
   place('reykjavik-cafe-4', 'reykjavik', 'cafe', 'Stofan Café', 4.4, 'Reykjavík', '아늑한 카페.', 'Cosy café.', { reviewCount: 1800 }),
 
   // —— akureyri ——
+  place('akureyri-fine_dining-1', 'akureyri', 'fine_dining', 'Aurora Restaurant', 4.5, 'Hafnarstræti 87-89, 600 Akureyri', '북유럽 퓨전 요리 레스토랑.', 'Contemporary Scandinavian-style fusion cuisine.'),
 
   // —— vik ——
+  place('vik-fine_dining-1', 'vik', 'fine_dining', 'Suður-Vík', 4.5, 'Suðurvíkurvegur 1, 870 Vík', '언덕 전망의 아이슬란드 가정식.', 'Icelandic comfort food with hillside views.'),
 
   // —— husavik ——
+  place('husavik-fine_dining-1', 'husavik', 'fine_dining', 'Naustið', 4.6, 'Ásgarðsvegur 1, 640 Húsavík', '신선한 해산물의 가족 운영 레스토랑.', 'Family-run restaurant known for fresh seafood.'),
 
   // —— selfoss ——
+  place('selfoss-fine_dining-1', 'selfoss', 'fine_dining', 'Messinn Selfossi', 4.5, 'Brúarstræti 12a, 800 Selfoss', '아이슬란드 해산물 전문 레스토랑.', 'Restaurant specializing in Icelandic seafood.'),
 
 ]

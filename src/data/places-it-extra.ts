@@ -22,18 +22,21 @@ export const placesITExtra: Place[] = [
   place('milan-korean-1', 'milan', 'korean', 'Ginmi', 4.5, 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥이 유명한 한식당.', 'Korean restaurant known for dolsot bibimbap.'),
 
   // —— florence ——
+  place('florence-fine_dining-1', 'florence', 'fine_dining', 'Enoteca Pinchiorri', 4.6, 'Via Ghibellina 87, 50122 Firenze', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
 
   // —— venice ——
 
   // —— naples ——
 
   // —— bologna ——
+  place('bologna-fine_dining-1', 'bologna', 'fine_dining', 'All\'Osteria Bottega', 4.6, 'Via Santa Caterina 51, 40123 Bologna', '미쉐린 가이드 등재, 정통 에밀리아 요리.', 'Michelin Guide-listed, authentic Emilian cooking.'),
 
   // —— verona ——
 
   // —— turin ——
 
   // —— amalfi ——
+  place('amalfi-fine_dining-1', 'amalfi', 'fine_dining', 'Da Gemma', 4.6, 'Via Fra Gerardo Sasso 9, 84011 Amalfi', '아말피의 역사적인 시푸드 레스토랑.', 'Historic seafood restaurant in Amalfi.'),
 
   // —— siena ——
 
