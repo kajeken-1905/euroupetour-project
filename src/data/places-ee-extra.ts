@@ -18,7 +18,9 @@ export const placesEEExtra: Place[] = [
   place('tallinn-cafe-4', 'tallinn', 'cafe', 'Brunch Tallinn peers', 4.4, 'Tallinn', '브런치 카페.', 'Brunch café.', { reviewCount: 1600 }),
 
   // —— tartu ——
+  place('tartu-fine_dining-1', 'tartu', 'fine_dining', 'Restaurant Fii', 4.6, 'Rüütli 7, 51007 Tartu', '소피아 호텔의 미식 레스토랑.', 'Fine dining at the Sophia Hotel.'),
 
   // —— parnu ——
+  place('parnu-fine_dining-1', 'parnu', 'fine_dining', 'Noot Restaurant', 4.6, 'Anton Hansen Tammsaare puiestee 4a, 80010 Pärnu', '패르누의 대표 레스토랑.', 'Leading restaurant in Pärnu.'),
 
 ]
