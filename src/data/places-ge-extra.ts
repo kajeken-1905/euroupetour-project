@@ -16,10 +16,6 @@ export const placesGEExtra: Place[] = [
   place('tbilisi-cafe-2', 'tbilisi', 'cafe', 'Etseri / courtyard cafés', 4.4, 'Tbilisi', '중정 카페.', 'Courtyard café.', { reviewCount: 1600 }),
   place('tbilisi-cafe-3', 'tbilisi', 'cafe', 'Rustaveli café terraces', 4.3, 'Tbilisi', '대로 테라스 카페.', 'Avenue terrace cafés.', { reviewCount: 2400 }),
   place('tbilisi-cafe-4', 'tbilisi', 'cafe', 'Brunch Tbilisi peers', 4.4, 'Tbilisi', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('tbilisi-korean-1', 'tbilisi', 'korean', 'Korean Kitchen Tbilisi', 4.3, 'Tbilisi', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 480 }),
-  place('tbilisi-korean-2', 'tbilisi', 'korean', 'Bibimbap Tbilisi', 4.3, 'Tbilisi', '비빔밥.', 'Bibimbap.', { reviewCount: 360 }),
-  place('tbilisi-korean-3', 'tbilisi', 'korean', 'Korean BBQ Tbilisi', 4.2, 'Tbilisi', '고기구이.', 'Korean BBQ.', { reviewCount: 400 }),
-  place('tbilisi-korean-4', 'tbilisi', 'korean', 'Kimchi Tbilisi', 4.2, 'Tbilisi', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 280 }),
 
   // —— batumi ——
   place('batumi-fine_dining-1', 'batumi', 'fine_dining', 'Batumi Fine Dining 1', 4.5, 'Batumi', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesGEExtra: Place[] = [
   place('batumi-cafe-2', 'batumi', 'cafe', 'Old Town Café Batumi', 4.4, 'Batumi', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('batumi-cafe-3', 'batumi', 'cafe', 'Brunch Café Batumi', 4.3, 'Batumi', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('batumi-cafe-4', 'batumi', 'cafe', 'Espresso Bar Batumi', 4.3, 'Batumi', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('batumi-korean-1', 'batumi', 'korean', 'Korean Kitchen Batumi', 4.4, 'Batumi', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('batumi-korean-2', 'batumi', 'korean', 'Bibimbap Batumi', 4.3, 'Batumi', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('batumi-korean-3', 'batumi', 'korean', 'Korean BBQ Batumi', 4.3, 'Batumi', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('batumi-korean-4', 'batumi', 'korean', 'Kimchi House Batumi', 4.2, 'Batumi', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— kutaisi ——
   place('kutaisi-fine_dining-1', 'kutaisi', 'fine_dining', 'Kutaisi Fine Dining 1', 4.5, 'Kutaisi', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesGEExtra: Place[] = [
   place('kutaisi-cafe-2', 'kutaisi', 'cafe', 'Old Town Café Kutaisi', 4.4, 'Kutaisi', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('kutaisi-cafe-3', 'kutaisi', 'cafe', 'Brunch Café Kutaisi', 4.3, 'Kutaisi', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('kutaisi-cafe-4', 'kutaisi', 'cafe', 'Espresso Bar Kutaisi', 4.3, 'Kutaisi', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('kutaisi-korean-1', 'kutaisi', 'korean', 'Korean Kitchen Kutaisi', 4.4, 'Kutaisi', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('kutaisi-korean-2', 'kutaisi', 'korean', 'Bibimbap Kutaisi', 4.3, 'Kutaisi', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('kutaisi-korean-3', 'kutaisi', 'korean', 'Korean BBQ Kutaisi', 4.3, 'Kutaisi', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('kutaisi-korean-4', 'kutaisi', 'korean', 'Kimchi House Kutaisi', 4.2, 'Kutaisi', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— stepantsminda ——
   place('stepantsminda-fine_dining-1', 'stepantsminda', 'fine_dining', 'Stepantsminda Fine Dining 1', 4.5, 'Stepantsminda', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesGEExtra: Place[] = [
   place('stepantsminda-cafe-2', 'stepantsminda', 'cafe', 'Old Town Café Stepantsminda', 4.4, 'Stepantsminda', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('stepantsminda-cafe-3', 'stepantsminda', 'cafe', 'Brunch Café Stepantsminda', 4.3, 'Stepantsminda', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('stepantsminda-cafe-4', 'stepantsminda', 'cafe', 'Espresso Bar Stepantsminda', 4.3, 'Stepantsminda', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('stepantsminda-korean-1', 'stepantsminda', 'korean', 'Korean Kitchen Stepantsminda', 4.4, 'Stepantsminda', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('stepantsminda-korean-2', 'stepantsminda', 'korean', 'Bibimbap Stepantsminda', 4.3, 'Stepantsminda', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('stepantsminda-korean-3', 'stepantsminda', 'korean', 'Korean BBQ Stepantsminda', 4.3, 'Stepantsminda', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('stepantsminda-korean-4', 'stepantsminda', 'korean', 'Kimchi House Stepantsminda', 4.2, 'Stepantsminda', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— sighnaghi ——
   place('sighnaghi-fine_dining-1', 'sighnaghi', 'fine_dining', 'Sighnaghi Fine Dining 1', 4.5, 'Sighnaghi', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesGEExtra: Place[] = [
   place('sighnaghi-cafe-2', 'sighnaghi', 'cafe', 'Old Town Café Sighnaghi', 4.4, 'Sighnaghi', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('sighnaghi-cafe-3', 'sighnaghi', 'cafe', 'Brunch Café Sighnaghi', 4.3, 'Sighnaghi', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('sighnaghi-cafe-4', 'sighnaghi', 'cafe', 'Espresso Bar Sighnaghi', 4.3, 'Sighnaghi', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('sighnaghi-korean-1', 'sighnaghi', 'korean', 'Korean Kitchen Sighnaghi', 4.4, 'Sighnaghi', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('sighnaghi-korean-2', 'sighnaghi', 'korean', 'Bibimbap Sighnaghi', 4.3, 'Sighnaghi', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('sighnaghi-korean-3', 'sighnaghi', 'korean', 'Korean BBQ Sighnaghi', 4.3, 'Sighnaghi', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('sighnaghi-korean-4', 'sighnaghi', 'korean', 'Kimchi House Sighnaghi', 4.2, 'Sighnaghi', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

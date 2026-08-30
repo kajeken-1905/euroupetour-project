@@ -18,10 +18,6 @@ export const placesNLExtra: Place[] = [
   place('rotterdam-cafe-3', 'rotterdam', 'cafe', 'Urban Espresso Bar', 4.4, 'Rotterdam', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
   place('rotterdam-cafe-4', 'rotterdam', 'cafe', 'Hopper Coffee', 4.4, 'Rotterdam', '브런치 카페.', 'Brunch café.', { reviewCount: 1100 }),
   place('rotterdam-cafe-5', 'rotterdam', 'cafe', 'Anne&Max', 4.3, 'Rotterdam', '캐주얼 카페.', 'Casual café.', { reviewCount: 1400 }),
-  place('rotterdam-korean-1', 'rotterdam', 'korean', 'Seoul Food Rotterdam', 4.4, 'Rotterdam', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 860 }),
-  place('rotterdam-korean-2', 'rotterdam', 'korean', 'Korean BBQ Rotterdam', 4.3, 'Rotterdam', '구이.', 'BBQ.', { reviewCount: 640 }),
-  place('rotterdam-korean-3', 'rotterdam', 'korean', 'Kimchi Rotterdam', 4.3, 'Rotterdam', '한식.', 'Korean.', { reviewCount: 520 }),
-  place('rotterdam-korean-4', 'rotterdam', 'korean', 'Bibimbap Rotterdam', 4.2, 'Rotterdam', '볼.', 'Bowls.', { reviewCount: 410 }),
 
   // —— the-hague ——
   place('the-hague-fine_dining-1', 'the-hague', 'fine_dining', 'Restaurant Flair', 4.6, 'The Hague', '모던 파인 다이닝.', 'Modern fine dining.', { reviewCount: 720 }),
@@ -39,9 +35,6 @@ export const placesNLExtra: Place[] = [
   place('the-hague-cafe-3', 'the-hague', 'cafe', 'Va konz Coffee', 4.5, 'The Hague', '로스터리.', 'Roastery.', { reviewCount: 860 }),
   place('the-hague-cafe-4', 'the-hague', 'cafe', 'The Coffee Company', 4.3, 'The Hague', '캐주얼.', 'Casual.', { reviewCount: 1400 }),
   place('the-hague-cafe-5', 'the-hague', 'cafe', 'Scheveningen beach cafés', 4.2, 'Scheveningen', '해변 카페.', 'Beach cafés.', { reviewCount: 1800 }),
-  place('the-hague-korean-1', 'the-hague', 'korean', 'Korean The Hague', 4.3, 'The Hague', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 560 }),
-  place('the-hague-korean-2', 'the-hague', 'korean', 'Kimchi Den Haag', 4.2, 'The Hague', '한식.', 'Korean.', { reviewCount: 420 }),
-  place('the-hague-korean-3', 'the-hague', 'korean', 'Korean BBQ Den Haag', 4.2, 'The Hague', '구이.', 'BBQ.', { reviewCount: 480 }),
 
   // —— utrecht ——
   place('utrecht-fine_dining-1', 'utrecht', 'fine_dining', 'Restaurant Blauw', 4.5, 'Utrecht', '인니·모던 다이닝 감성.', 'Modern Indonesian dining.', { reviewCount: 1600 }),
@@ -59,9 +52,6 @@ export const placesNLExtra: Place[] = [
   place('utrecht-cafe-3', 'utrecht', 'cafe', 'ACU café / indie cafés', 4.3, 'Utrecht', '인디 카페.', 'Indie cafés.', { reviewCount: 720 }),
   place('utrecht-cafe-4', 'utrecht', 'cafe', 'Broei', 4.4, 'Utrecht', '브런치.', 'Brunch.', { reviewCount: 980 }),
   place('utrecht-cafe-5', 'utrecht', 'cafe', 'Cartier Café', 4.3, 'Utrecht', '운하 카페.', 'Canal café.', { reviewCount: 1400 }),
-  place('utrecht-korean-1', 'utrecht', 'korean', 'Korean Utrecht', 4.3, 'Utrecht', '한식.', 'Korean.', { reviewCount: 580 }),
-  place('utrecht-korean-2', 'utrecht', 'korean', 'Kimchi Utrecht', 4.3, 'Utrecht', '캐주얼.', 'Casual.', { reviewCount: 460 }),
-  place('utrecht-korean-3', 'utrecht', 'korean', 'Korean BBQ Utrecht', 4.2, 'Utrecht', '구이.', 'BBQ.', { reviewCount: 420 }),
 
   // —— haarlem ——
   place('haarlem-fine_dining-1', 'haarlem', 'fine_dining', 'Restaurant Mr. & Mrs.', 4.6, 'Haarlem', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 860 }),
@@ -77,7 +67,6 @@ export const placesNLExtra: Place[] = [
   place('haarlem-cafe-2', 'haarlem', 'cafe', 'SPØK Haarlem coffee', 4.5, 'Haarlem', '스페셜티.', 'Specialty.', { reviewCount: 720 }),
   place('haarlem-cafe-3', 'haarlem', 'cafe', 'Café Brinkmann', 4.3, 'Haarlem', '광장 카페.', 'Square café.', { reviewCount: 1600 }),
   place('haarlem-cafe-4', 'haarlem', 'cafe', 'Anne&Max Haarlem', 4.3, 'Haarlem', '캐주얼.', 'Casual.', { reviewCount: 980 }),
-  place('haarlem-korean-1', 'haarlem', 'korean', 'Korean Haarlem', 4.2, 'Haarlem', '제한적 한식.', 'Limited Korean.', { reviewCount: 320 }),
 
   // —— delft ——
   place('delft-fine_dining-1', 'delft', 'fine_dining', 'Kek', 4.4, 'Delft', '브런치·라이트 다이닝.', 'Brunch and light dining.', { reviewCount: 1200 }),
@@ -91,7 +80,6 @@ export const placesNLExtra: Place[] = [
   place('delft-cafe-2', 'delft', 'cafe', 'Kek Delft', 4.5, 'Delft', '인기 카페.', 'Popular café.', { reviewCount: 1600 }),
   place('delft-cafe-3', 'delft', 'cafe', 'Coffee & Cookies Delft', 4.3, 'Delft', '캐주얼.', 'Casual.', { reviewCount: 720 }),
   place('delft-cafe-4', 'delft', 'cafe', 'DOK Delft cafés', 4.2, 'Delft', '도서관 카페.', 'Library cafés.', { reviewCount: 680 }),
-  place('delft-korean-1', 'delft', 'korean', 'Korean Delft / Hague day options', 4.1, 'Delft', '한식 제한적.', 'Limited Korean.', { reviewCount: 240 }),
 
   // —— maastricht ——
   place('maastricht-fine_dining-1', 'maastricht', 'fine_dining', 'Restaurant Beluga Loves You', 4.7, 'Maastricht', '미슐랭 파인 다이닝.', 'Michelin fine dining.', { reviewCount: 980 }),
@@ -105,7 +93,6 @@ export const placesNLExtra: Place[] = [
   place('maastricht-cafe-1', 'maastricht', 'cafe', 'Coffee Lounge Maastricht', 4.4, 'Maastricht', '카페.', 'Café.', { reviewCount: 960 }),
   place('maastricht-cafe-2', 'maastricht', 'cafe', 'Café Zuid', 4.3, 'Maastricht', '캐주얼.', 'Casual.', { reviewCount: 1100 }),
   place('maastricht-cafe-3', 'maastricht', 'cafe', 'Triangel café', 4.3, 'Maastricht', '광장 카페.', 'Square café.', { reviewCount: 860 }),
-  place('maastricht-korean-1', 'maastricht', 'korean', 'Korean Maastricht', 4.2, 'Maastricht', '제한적.', 'Limited.', { reviewCount: 300 }),
 
   // —— giethoorn ——
   place('giethoorn-fine_dining-1', 'giethoorn', 'fine_dining', 'Restaurant De Lindenhof', 4.7, 'Giethoorn', '미슐랭 다이닝(근교 포함).', 'Michelin dining (area).', { reviewCount: 860 }),
@@ -114,6 +101,5 @@ export const placesNLExtra: Place[] = [
   place('giethoorn-bakery-1', 'giethoorn', 'bakery', 'Local Giethoorn bakery', 4.3, 'Giethoorn', '마을 베이커리.', 'Village bakery.', { reviewCount: 420 }),
   place('giethoorn-cafe-1', 'giethoorn', 'cafe', 'Café Fanfare', 4.3, 'Giethoorn', '영화로도 유명한 카페.', 'Café known from film fame.', { reviewCount: 1600 }),
   place('giethoorn-cafe-2', 'giethoorn', 'cafe', 'Canal cafés', 4.2, 'Giethoorn', '보트 투어 후 카페.', 'Post-boat-tour cafés.', { reviewCount: 1100 }),
-  place('giethoorn-korean-1', 'giethoorn', 'korean', 'Nearby city Korean (Zwolle day trip)', 4.0, 'Zwolle area', '근교 도시 한식 권장.', 'Better Korean options in nearby cities.', { reviewCount: 120 }),
 
 ]

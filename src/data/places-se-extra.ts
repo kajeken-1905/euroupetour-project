@@ -18,10 +18,6 @@ export const placesSEExtra: Place[] = [
   place('gothenburg-cafe-3', 'gothenburg', 'cafe', 'Bar Italia', 4.3, 'Gothenburg', '에스프레소.', 'Espresso.', { reviewCount: 980 }),
   place('gothenburg-cafe-4', 'gothenburg', 'cafe', 'Linné cafés', 4.4, 'Gothenburg', '린네 지구 카페.', 'Linné district cafés.', { reviewCount: 1200 }),
   place('gothenburg-cafe-5', 'gothenburg', 'cafe', 'Haga cafés', 4.3, 'Gothenburg', '하가 카페.', 'Haga cafés.', { reviewCount: 1600 }),
-  place('gothenburg-korean-1', 'gothenburg', 'korean', 'Korean Gothenburg', 4.4, 'Gothenburg', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 720 }),
-  place('gothenburg-korean-2', 'gothenburg', 'korean', 'Kimchi Göteborg', 4.3, 'Gothenburg', '한식.', 'Korean.', { reviewCount: 560 }),
-  place('gothenburg-korean-3', 'gothenburg', 'korean', 'Korean BBQ Göteborg', 4.3, 'Gothenburg', '구이.', 'BBQ.', { reviewCount: 640 }),
-  place('gothenburg-korean-4', 'gothenburg', 'korean', 'Bibimbap Göteborg', 4.2, 'Gothenburg', '볼.', 'Bowls.', { reviewCount: 420 }),
 
   // —— malmo ——
   place('malmo-fine_dining-1', 'malmo', 'fine_dining', 'Vollmers', 4.7, 'Malmö', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 860 }),
@@ -38,9 +34,6 @@ export const placesSEExtra: Place[] = [
   place('malmo-cafe-3', 'malmo', 'cafe', 'Lilla Kafferosteriet', 4.5, 'Malmö', '로스터리.', 'Roastery.', { reviewCount: 1100 }),
   place('malmo-cafe-4', 'malmo', 'cafe', 'Stjärnor / centre cafés', 4.3, 'Malmö', '센터 카페.', 'Centre cafés.', { reviewCount: 860 }),
   place('malmo-cafe-5', 'malmo', 'cafe', 'Västra Hamnen cafés', 4.2, 'Malmö', '서항 카페.', 'Western Harbour cafés.', { reviewCount: 980 }),
-  place('malmo-korean-1', 'malmo', 'korean', 'Korean Malmö', 4.3, 'Malmö', '다문화 한식.', 'Multicultural Korean scene.', { reviewCount: 640 }),
-  place('malmo-korean-2', 'malmo', 'korean', 'Kimchi Malmö', 4.3, 'Malmö', '캐주얼.', 'Casual.', { reviewCount: 480 }),
-  place('malmo-korean-3', 'malmo', 'korean', 'Korean BBQ Malmö', 4.2, 'Malmö', '구이.', 'BBQ.', { reviewCount: 520 }),
 
   // —— uppsala ——
   place('uppsala-fine_dining-1', 'uppsala', 'fine_dining', 'Domtrappkällaren', 4.5, 'Uppsala', '역사 지하 다이닝.', 'Historic cellar dining.', { reviewCount: 860 }),
@@ -54,7 +47,6 @@ export const placesSEExtra: Place[] = [
   place('uppsala-cafe-2', 'uppsala', 'cafe', 'Specialty coffee Uppsala', 4.4, 'Uppsala', '스페셜티.', 'Specialty.', { reviewCount: 900 }),
   place('uppsala-cafe-3', 'uppsala', 'cafe', 'Student cafés', 4.2, 'Uppsala', '대학 카페.', 'Student cafés.', { reviewCount: 1100 }),
   place('uppsala-cafe-4', 'uppsala', 'cafe', 'Cathedral cafés', 4.3, 'Uppsala', '대성당 권역.', 'Cathedral area.', { reviewCount: 860 }),
-  place('uppsala-korean-1', 'uppsala', 'korean', 'Korean Uppsala', 4.2, 'Uppsala', '학생가 한식.', 'Student-area Korean.', { reviewCount: 360 }),
 
   // —— kiruna ——
   place('kiruna-fine_dining-1', 'kiruna', 'fine_dining', 'Icehotel restaurant (Jukkasjärvi)', 4.6, 'Jukkasjärvi', '아이스호텔 다이닝.', 'Icehotel dining.', { reviewCount: 1600 }),

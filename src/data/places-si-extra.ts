@@ -16,10 +16,6 @@ export const placesSIExtra: Place[] = [
   place('ljubljana-cafe-2', 'ljubljana', 'cafe', 'Tozd / riverside cafés', 4.4, 'Ljubljana', '강변 카페.', 'Riverside café.', { reviewCount: 2100 }),
   place('ljubljana-cafe-3', 'ljubljana', 'cafe', 'Slovenska / centre cafés', 4.3, 'Ljubljana', '도심 클래식 카페.', 'Central classic café.', { reviewCount: 1800 }),
   place('ljubljana-cafe-4', 'ljubljana', 'cafe', 'Brunch Ljubljana peers', 4.4, 'Ljubljana', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('ljubljana-korean-1', 'ljubljana', 'korean', 'Korean Kitchen Ljubljana', 4.4, 'Ljubljana', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 560 }),
-  place('ljubljana-korean-2', 'ljubljana', 'korean', 'Bibimbap Ljubljana', 4.3, 'Ljubljana', '비빔밥.', 'Bibimbap.', { reviewCount: 420 }),
-  place('ljubljana-korean-3', 'ljubljana', 'korean', 'Korean BBQ Ljubljana', 4.3, 'Ljubljana', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('ljubljana-korean-4', 'ljubljana', 'korean', 'Kimchi Ljubljana', 4.2, 'Ljubljana', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 320 }),
 
   // —— bled ——
   place('bled-fine_dining-1', 'bled', 'fine_dining', 'Bled Fine Dining 1', 4.5, 'Bled', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesSIExtra: Place[] = [
   place('bled-cafe-2', 'bled', 'cafe', 'Old Town Café Bled', 4.4, 'Bled', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('bled-cafe-3', 'bled', 'cafe', 'Brunch Café Bled', 4.3, 'Bled', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('bled-cafe-4', 'bled', 'cafe', 'Espresso Bar Bled', 4.3, 'Bled', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('bled-korean-1', 'bled', 'korean', 'Korean Kitchen Bled', 4.4, 'Bled', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bled-korean-2', 'bled', 'korean', 'Bibimbap Bled', 4.3, 'Bled', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('bled-korean-3', 'bled', 'korean', 'Korean BBQ Bled', 4.3, 'Bled', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('bled-korean-4', 'bled', 'korean', 'Kimchi House Bled', 4.2, 'Bled', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— piran ——
   place('piran-fine_dining-1', 'piran', 'fine_dining', 'Piran Fine Dining 1', 4.5, 'Piran', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesSIExtra: Place[] = [
   place('piran-cafe-2', 'piran', 'cafe', 'Old Town Café Piran', 4.4, 'Piran', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('piran-cafe-3', 'piran', 'cafe', 'Brunch Café Piran', 4.3, 'Piran', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('piran-cafe-4', 'piran', 'cafe', 'Espresso Bar Piran', 4.3, 'Piran', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('piran-korean-1', 'piran', 'korean', 'Korean Kitchen Piran', 4.4, 'Piran', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('piran-korean-2', 'piran', 'korean', 'Bibimbap Piran', 4.3, 'Piran', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('piran-korean-3', 'piran', 'korean', 'Korean BBQ Piran', 4.3, 'Piran', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('piran-korean-4', 'piran', 'korean', 'Kimchi House Piran', 4.2, 'Piran', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— maribor ——
   place('maribor-fine_dining-1', 'maribor', 'fine_dining', 'Maribor Fine Dining 1', 4.5, 'Maribor', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesSIExtra: Place[] = [
   place('maribor-cafe-2', 'maribor', 'cafe', 'Old Town Café Maribor', 4.4, 'Maribor', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('maribor-cafe-3', 'maribor', 'cafe', 'Brunch Café Maribor', 4.3, 'Maribor', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('maribor-cafe-4', 'maribor', 'cafe', 'Espresso Bar Maribor', 4.3, 'Maribor', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('maribor-korean-1', 'maribor', 'korean', 'Korean Kitchen Maribor', 4.4, 'Maribor', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('maribor-korean-2', 'maribor', 'korean', 'Bibimbap Maribor', 4.3, 'Maribor', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('maribor-korean-3', 'maribor', 'korean', 'Korean BBQ Maribor', 4.3, 'Maribor', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('maribor-korean-4', 'maribor', 'korean', 'Kimchi House Maribor', 4.2, 'Maribor', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— postojna ——
   place('postojna-fine_dining-1', 'postojna', 'fine_dining', 'Postojna Fine Dining 1', 4.5, 'Postojna', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesSIExtra: Place[] = [
   place('postojna-cafe-2', 'postojna', 'cafe', 'Old Town Café Postojna', 4.4, 'Postojna', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('postojna-cafe-3', 'postojna', 'cafe', 'Brunch Café Postojna', 4.3, 'Postojna', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('postojna-cafe-4', 'postojna', 'cafe', 'Espresso Bar Postojna', 4.3, 'Postojna', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('postojna-korean-1', 'postojna', 'korean', 'Korean Kitchen Postojna', 4.4, 'Postojna', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('postojna-korean-2', 'postojna', 'korean', 'Bibimbap Postojna', 4.3, 'Postojna', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('postojna-korean-3', 'postojna', 'korean', 'Korean BBQ Postojna', 4.3, 'Postojna', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('postojna-korean-4', 'postojna', 'korean', 'Kimchi House Postojna', 4.2, 'Postojna', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

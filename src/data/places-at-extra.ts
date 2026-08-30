@@ -16,10 +16,6 @@ export const placesATExtra: Place[] = [
   place('vienna-cafe-2', 'vienna', 'cafe', 'Café Sacher', 4.4, 'Philharmoniker Str. 4, Vienna', '자허토르테의 본거지.', 'Home of the Sachertorte.', { reviewCount: 14000 }),
   place('vienna-cafe-3', 'vienna', 'cafe', 'Café Hawelka', 4.4, 'Dorotheergasse 6, Vienna', '예술가들의 카페.', 'Artists’ café.', { reviewCount: 6200 }),
   place('vienna-cafe-4', 'vienna', 'cafe', 'Balthasar Kaffee Bar', 4.6, 'Vienna', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1800 }),
-  place('vienna-korean-1', 'vienna', 'korean', 'Kimchi Restaurant Vienna', 4.4, 'Vienna', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 900 }),
-  place('vienna-korean-2', 'vienna', 'korean', 'Seoul Kitchen Vienna', 4.3, 'Vienna', '비빔밥·불고기.', 'Bibimbap and bulgogi.', { reviewCount: 720 }),
-  place('vienna-korean-3', 'vienna', 'korean', 'Korean BBQ Vienna', 4.3, 'Vienna', '고기구이.', 'Korean BBQ.', { reviewCount: 640 }),
-  place('vienna-korean-4', 'vienna', 'korean', 'Bibimbap Bowl Vienna', 4.2, 'Vienna', '덮밥·볼.', 'Rice bowls.', { reviewCount: 480 }),
 
   // —— salzburg ——
   place('salzburg-fine_dining-1', 'salzburg', 'fine_dining', 'Salzburg Fine Dining 1', 4.5, 'Salzburg', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesATExtra: Place[] = [
   place('salzburg-cafe-2', 'salzburg', 'cafe', 'Old Town Café Salzburg', 4.4, 'Salzburg', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('salzburg-cafe-3', 'salzburg', 'cafe', 'Brunch Café Salzburg', 4.3, 'Salzburg', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('salzburg-cafe-4', 'salzburg', 'cafe', 'Espresso Bar Salzburg', 4.3, 'Salzburg', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('salzburg-korean-1', 'salzburg', 'korean', 'Korean Kitchen Salzburg', 4.4, 'Salzburg', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('salzburg-korean-2', 'salzburg', 'korean', 'Bibimbap Salzburg', 4.3, 'Salzburg', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('salzburg-korean-3', 'salzburg', 'korean', 'Korean BBQ Salzburg', 4.3, 'Salzburg', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('salzburg-korean-4', 'salzburg', 'korean', 'Kimchi House Salzburg', 4.2, 'Salzburg', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— innsbruck ——
   place('innsbruck-fine_dining-1', 'innsbruck', 'fine_dining', 'Innsbruck Fine Dining 1', 4.5, 'Innsbruck', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesATExtra: Place[] = [
   place('innsbruck-cafe-2', 'innsbruck', 'cafe', 'Old Town Café Innsbruck', 4.4, 'Innsbruck', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('innsbruck-cafe-3', 'innsbruck', 'cafe', 'Brunch Café Innsbruck', 4.3, 'Innsbruck', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('innsbruck-cafe-4', 'innsbruck', 'cafe', 'Espresso Bar Innsbruck', 4.3, 'Innsbruck', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('innsbruck-korean-1', 'innsbruck', 'korean', 'Korean Kitchen Innsbruck', 4.4, 'Innsbruck', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('innsbruck-korean-2', 'innsbruck', 'korean', 'Bibimbap Innsbruck', 4.3, 'Innsbruck', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('innsbruck-korean-3', 'innsbruck', 'korean', 'Korean BBQ Innsbruck', 4.3, 'Innsbruck', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('innsbruck-korean-4', 'innsbruck', 'korean', 'Kimchi House Innsbruck', 4.2, 'Innsbruck', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— graz ——
   place('graz-fine_dining-1', 'graz', 'fine_dining', 'Graz Fine Dining 1', 4.5, 'Graz', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesATExtra: Place[] = [
   place('graz-cafe-2', 'graz', 'cafe', 'Old Town Café Graz', 4.4, 'Graz', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('graz-cafe-3', 'graz', 'cafe', 'Brunch Café Graz', 4.3, 'Graz', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('graz-cafe-4', 'graz', 'cafe', 'Espresso Bar Graz', 4.3, 'Graz', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('graz-korean-1', 'graz', 'korean', 'Korean Kitchen Graz', 4.4, 'Graz', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('graz-korean-2', 'graz', 'korean', 'Bibimbap Graz', 4.3, 'Graz', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('graz-korean-3', 'graz', 'korean', 'Korean BBQ Graz', 4.3, 'Graz', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('graz-korean-4', 'graz', 'korean', 'Kimchi House Graz', 4.2, 'Graz', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— hallstatt ——
   place('hallstatt-fine_dining-1', 'hallstatt', 'fine_dining', 'Hallstatt Fine Dining 1', 4.5, 'Hallstatt', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesATExtra: Place[] = [
   place('hallstatt-cafe-2', 'hallstatt', 'cafe', 'Old Town Café Hallstatt', 4.4, 'Hallstatt', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('hallstatt-cafe-3', 'hallstatt', 'cafe', 'Brunch Café Hallstatt', 4.3, 'Hallstatt', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('hallstatt-cafe-4', 'hallstatt', 'cafe', 'Espresso Bar Hallstatt', 4.3, 'Hallstatt', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('hallstatt-korean-1', 'hallstatt', 'korean', 'Korean Kitchen Hallstatt', 4.4, 'Hallstatt', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('hallstatt-korean-2', 'hallstatt', 'korean', 'Bibimbap Hallstatt', 4.3, 'Hallstatt', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('hallstatt-korean-3', 'hallstatt', 'korean', 'Korean BBQ Hallstatt', 4.3, 'Hallstatt', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('hallstatt-korean-4', 'hallstatt', 'korean', 'Kimchi House Hallstatt', 4.2, 'Hallstatt', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

@@ -16,10 +16,6 @@ export const placesBGExtra: Place[] = [
   place('sofia-cafe-2', 'sofia', 'cafe', 'The Stairs / loft cafés', 4.4, 'Sofia', '로프트 카페.', 'Loft café.', { reviewCount: 1200 }),
   place('sofia-cafe-3', 'sofia', 'cafe', 'Cafe Theatre peers', 4.3, 'Sofia', '클래식 카페.', 'Classic café.', { reviewCount: 1800 }),
   place('sofia-cafe-4', 'sofia', 'cafe', 'Brunch cafés Vitosha', 4.4, 'Sofia', '비토샤 브런치.', 'Vitosha brunch cafés.', { reviewCount: 1400 }),
-  place('sofia-korean-1', 'sofia', 'korean', 'Korean Kitchen Sofia', 4.4, 'Sofia', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 480 }),
-  place('sofia-korean-2', 'sofia', 'korean', 'Bibimbap Sofia', 4.3, 'Sofia', '비빔밥.', 'Bibimbap.', { reviewCount: 360 }),
-  place('sofia-korean-3', 'sofia', 'korean', 'Korean BBQ Sofia', 4.3, 'Sofia', '고기구이.', 'Korean BBQ.', { reviewCount: 400 }),
-  place('sofia-korean-4', 'sofia', 'korean', 'Kimchi Sofia', 4.2, 'Sofia', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 280 }),
 
   // —— plovdiv ——
   place('plovdiv-fine_dining-1', 'plovdiv', 'fine_dining', 'Plovdiv Fine Dining 1', 4.5, 'Plovdiv', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesBGExtra: Place[] = [
   place('plovdiv-cafe-2', 'plovdiv', 'cafe', 'Old Town Café Plovdiv', 4.4, 'Plovdiv', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('plovdiv-cafe-3', 'plovdiv', 'cafe', 'Brunch Café Plovdiv', 4.3, 'Plovdiv', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('plovdiv-cafe-4', 'plovdiv', 'cafe', 'Espresso Bar Plovdiv', 4.3, 'Plovdiv', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('plovdiv-korean-1', 'plovdiv', 'korean', 'Korean Kitchen Plovdiv', 4.4, 'Plovdiv', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('plovdiv-korean-2', 'plovdiv', 'korean', 'Bibimbap Plovdiv', 4.3, 'Plovdiv', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('plovdiv-korean-3', 'plovdiv', 'korean', 'Korean BBQ Plovdiv', 4.3, 'Plovdiv', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('plovdiv-korean-4', 'plovdiv', 'korean', 'Kimchi House Plovdiv', 4.2, 'Plovdiv', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— varna ——
   place('varna-fine_dining-1', 'varna', 'fine_dining', 'Varna Fine Dining 1', 4.5, 'Varna', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesBGExtra: Place[] = [
   place('varna-cafe-2', 'varna', 'cafe', 'Old Town Café Varna', 4.4, 'Varna', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('varna-cafe-3', 'varna', 'cafe', 'Brunch Café Varna', 4.3, 'Varna', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('varna-cafe-4', 'varna', 'cafe', 'Espresso Bar Varna', 4.3, 'Varna', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('varna-korean-1', 'varna', 'korean', 'Korean Kitchen Varna', 4.4, 'Varna', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('varna-korean-2', 'varna', 'korean', 'Bibimbap Varna', 4.3, 'Varna', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('varna-korean-3', 'varna', 'korean', 'Korean BBQ Varna', 4.3, 'Varna', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('varna-korean-4', 'varna', 'korean', 'Kimchi House Varna', 4.2, 'Varna', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— veliko-tarnovo ——
   place('veliko-tarnovo-fine_dining-1', 'veliko-tarnovo', 'fine_dining', 'Veliko Tarnovo Fine Dining 1', 4.5, 'Veliko Tarnovo', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesBGExtra: Place[] = [
   place('veliko-tarnovo-cafe-2', 'veliko-tarnovo', 'cafe', 'Old Town Café Veliko Tarnovo', 4.4, 'Veliko Tarnovo', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('veliko-tarnovo-cafe-3', 'veliko-tarnovo', 'cafe', 'Brunch Café Veliko Tarnovo', 4.3, 'Veliko Tarnovo', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('veliko-tarnovo-cafe-4', 'veliko-tarnovo', 'cafe', 'Espresso Bar Veliko Tarnovo', 4.3, 'Veliko Tarnovo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('veliko-tarnovo-korean-1', 'veliko-tarnovo', 'korean', 'Korean Kitchen Veliko Tarnovo', 4.4, 'Veliko Tarnovo', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('veliko-tarnovo-korean-2', 'veliko-tarnovo', 'korean', 'Bibimbap Veliko Tarnovo', 4.3, 'Veliko Tarnovo', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('veliko-tarnovo-korean-3', 'veliko-tarnovo', 'korean', 'Korean BBQ Veliko Tarnovo', 4.3, 'Veliko Tarnovo', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('veliko-tarnovo-korean-4', 'veliko-tarnovo', 'korean', 'Kimchi House Veliko Tarnovo', 4.2, 'Veliko Tarnovo', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— nessebar ——
   place('nessebar-fine_dining-1', 'nessebar', 'fine_dining', 'Nesebar Fine Dining 1', 4.5, 'Nesebar', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesBGExtra: Place[] = [
   place('nessebar-cafe-2', 'nessebar', 'cafe', 'Old Town Café Nesebar', 4.4, 'Nesebar', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('nessebar-cafe-3', 'nessebar', 'cafe', 'Brunch Café Nesebar', 4.3, 'Nesebar', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('nessebar-cafe-4', 'nessebar', 'cafe', 'Espresso Bar Nesebar', 4.3, 'Nesebar', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('nessebar-korean-1', 'nessebar', 'korean', 'Korean Kitchen Nesebar', 4.4, 'Nesebar', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('nessebar-korean-2', 'nessebar', 'korean', 'Bibimbap Nesebar', 4.3, 'Nesebar', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('nessebar-korean-3', 'nessebar', 'korean', 'Korean BBQ Nesebar', 4.3, 'Nesebar', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('nessebar-korean-4', 'nessebar', 'korean', 'Kimchi House Nesebar', 4.2, 'Nesebar', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

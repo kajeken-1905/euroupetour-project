@@ -12,9 +12,6 @@ export const placesSMExtra: Place[] = [
   place('san-marino-city-cafe-1', 'san-marino-city', 'cafe', 'Specialty Coffee San Marino 1', 4.5, 'San Marino', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 560 }),
   place('san-marino-city-cafe-2', 'san-marino-city', 'cafe', 'San Marino Café 2', 4.7, 'San Marino', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
   place('san-marino-city-cafe-3', 'san-marino-city', 'cafe', 'San Marino Café 3', 4.6, 'San Marino', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
-  place('san-marino-city-korean-1', 'san-marino-city', 'korean', 'Korean Kitchen San Marino 1', 4.3, 'San Marino', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1100 }),
-  place('san-marino-city-korean-2', 'san-marino-city', 'korean', 'San Marino Korean 2', 4.6, 'San Marino', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 720 }),
-  place('san-marino-city-korean-3', 'san-marino-city', 'korean', 'San Marino Korean 3', 4.5, 'San Marino', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 2100 }),
 
   // —— borgo-maggiore ——
   place('borgo-maggiore-fine_dining-1', 'borgo-maggiore', 'fine_dining', 'Borgo Maggiore Fine Dining 1', 4.5, 'Borgo Maggiore', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 2100 }),
@@ -26,8 +23,5 @@ export const placesSMExtra: Place[] = [
   place('borgo-maggiore-cafe-1', 'borgo-maggiore', 'cafe', 'Specialty Coffee Borgo Maggiore 1', 4.3, 'Borgo Maggiore', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('borgo-maggiore-cafe-2', 'borgo-maggiore', 'cafe', 'Borgo Maggiore Café 2', 4.3, 'Borgo Maggiore', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
   place('borgo-maggiore-cafe-3', 'borgo-maggiore', 'cafe', 'Borgo Maggiore Café 3', 4.3, 'Borgo Maggiore', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
-  place('borgo-maggiore-korean-1', 'borgo-maggiore', 'korean', 'Korean Kitchen Borgo Maggiore 1', 4.6, 'Borgo Maggiore', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1400 }),
-  place('borgo-maggiore-korean-2', 'borgo-maggiore', 'korean', 'Borgo Maggiore Korean 2', 4.4, 'Borgo Maggiore', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 320 }),
-  place('borgo-maggiore-korean-3', 'borgo-maggiore', 'korean', 'Borgo Maggiore Korean 3', 4.2, 'Borgo Maggiore', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 980 }),
 
 ]

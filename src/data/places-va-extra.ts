@@ -16,9 +16,5 @@ export const placesVAExtra: Place[] = [
   place('vatican-city-cafe-2', 'vatican-city', 'cafe', 'Specialty coffee Prati', 4.5, 'Prati', '프라티 스페셜티.', 'Prati specialty coffee.', { reviewCount: 1100 }),
   place('vatican-city-cafe-3', 'vatican-city', 'cafe', 'Borgo espresso bar', 4.4, 'Borgo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 1600 }),
   place('vatican-city-cafe-4', 'vatican-city', 'cafe', 'Brunch café near Vatican', 4.3, 'Vatican area', '브런치 카페.', 'Brunch café.', { reviewCount: 900 }),
-  place('vatican-city-korean-1', 'vatican-city', 'korean', 'Korean Kitchen Vatican area', 4.3, 'Prati', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 360 }),
-  place('vatican-city-korean-2', 'vatican-city', 'korean', 'Bibimbap near Vatican', 4.2, 'Prati', '비빔밥.', 'Bibimbap.', { reviewCount: 280 }),
-  place('vatican-city-korean-3', 'vatican-city', 'korean', 'Korean BBQ Prati', 4.2, 'Prati', '고기구이.', 'Korean BBQ.', { reviewCount: 300 }),
-  place('vatican-city-korean-4', 'vatican-city', 'korean', 'Kimchi House Prati', 4.2, 'Prati', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 220 }),
 
 ]

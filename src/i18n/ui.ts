@@ -104,6 +104,10 @@ export const ui = {
     ko: '이 도시에서 해당 카테고리 추천이 제한적입니다.',
     en: 'Limited recommendations in this category for this city.',
   },
+  noKoreanRestaurant: {
+    ko: '이 도시에는 확인된 한식당이 없습니다.',
+    en: 'No confirmed Korean restaurant in this city.',
+  },
   disclaimer: {
     ko: '별점·영업정보는 방문 전 Google Maps에서 재확인하세요.',
     en: 'Please reconfirm ratings and hours on Google Maps before visiting.',

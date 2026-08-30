@@ -85,7 +85,9 @@ export function CityPage() {
       <CategoryTabs value={category} onChange={setCategory} />
 
       {placeList.length === 0 ? (
-        <div className="empty-state">{t('limitedCategory', lang)}</div>
+        <div className="empty-state">
+          {t(category === 'korean' ? 'noKoreanRestaurant' : 'limitedCategory', lang)}
+        </div>
       ) : (
         <>
           {placeList.length < 5 ? (

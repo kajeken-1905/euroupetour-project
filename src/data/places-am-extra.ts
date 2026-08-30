@@ -12,9 +12,6 @@ export const placesAMExtra: Place[] = [
   place('yerevan-cafe-1', 'yerevan', 'cafe', 'Specialty Coffee Yerevan 1', 4.3, 'Yerevan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 640 }),
   place('yerevan-cafe-2', 'yerevan', 'cafe', 'Yerevan Café 2', 4.6, 'Yerevan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
   place('yerevan-cafe-3', 'yerevan', 'cafe', 'Yerevan Café 3', 4.2, 'Yerevan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('yerevan-korean-1', 'yerevan', 'korean', 'Korean Kitchen Yerevan 1', 4.6, 'Yerevan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1400 }),
-  place('yerevan-korean-2', 'yerevan', 'korean', 'Yerevan Korean 2', 4.6, 'Yerevan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 560 }),
-  place('yerevan-korean-3', 'yerevan', 'korean', 'Yerevan Korean 3', 4.5, 'Yerevan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1400 }),
 
   // —— gyumri ——
   place('gyumri-fine_dining-1', 'gyumri', 'fine_dining', 'Gyumri Fine Dining 1', 4.3, 'Gyumri', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
@@ -26,9 +23,6 @@ export const placesAMExtra: Place[] = [
   place('gyumri-cafe-1', 'gyumri', 'cafe', 'Specialty Coffee Gyumri 1', 4.4, 'Gyumri', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('gyumri-cafe-2', 'gyumri', 'cafe', 'Gyumri Café 2', 4.4, 'Gyumri', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 640 }),
   place('gyumri-cafe-3', 'gyumri', 'cafe', 'Gyumri Café 3', 4.3, 'Gyumri', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
-  place('gyumri-korean-1', 'gyumri', 'korean', 'Korean Kitchen Gyumri 1', 4.2, 'Gyumri', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1400 }),
-  place('gyumri-korean-2', 'gyumri', 'korean', 'Gyumri Korean 2', 4.3, 'Gyumri', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('gyumri-korean-3', 'gyumri', 'korean', 'Gyumri Korean 3', 4.2, 'Gyumri', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 2100 }),
 
   // —— dilijan ——
   place('dilijan-fine_dining-1', 'dilijan', 'fine_dining', 'Dilijan Fine Dining 1', 4.2, 'Dilijan', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 480 }),
@@ -40,8 +34,5 @@ export const placesAMExtra: Place[] = [
   place('dilijan-cafe-1', 'dilijan', 'cafe', 'Specialty Coffee Dilijan 1', 4.5, 'Dilijan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 640 }),
   place('dilijan-cafe-2', 'dilijan', 'cafe', 'Dilijan Café 2', 4.6, 'Dilijan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 980 }),
   place('dilijan-cafe-3', 'dilijan', 'cafe', 'Dilijan Café 3', 4.3, 'Dilijan', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
-  place('dilijan-korean-1', 'dilijan', 'korean', 'Korean Kitchen Dilijan 1', 4.5, 'Dilijan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 860 }),
-  place('dilijan-korean-2', 'dilijan', 'korean', 'Dilijan Korean 2', 4.4, 'Dilijan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1100 }),
-  place('dilijan-korean-3', 'dilijan', 'korean', 'Dilijan Korean 3', 4.6, 'Dilijan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 320 }),
 
 ]

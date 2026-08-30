@@ -16,10 +16,6 @@ export const placesFRExtra: Place[] = [
   place('paris-cafe-2', 'paris', 'cafe', 'Beans on Fire', 4.5, 'Paris', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('paris-cafe-3', 'paris', 'cafe', 'Coutume Café', 4.5, 'Paris', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100 }),
   place('paris-cafe-4', 'paris', 'cafe', 'Café Kitsuné', 4.4, 'Paris', '트렌디 카페.', 'Trendy café.', { reviewCount: 2600 }),
-  place('paris-korean-1', 'paris', 'korean', 'Restaurant Coreén Paris', 4.4, 'Paris', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1200 }),
-  place('paris-korean-2', 'paris', 'korean', 'Bibimbap Paris', 4.3, 'Paris', '비빔밥.', 'Bibimbap.', { reviewCount: 900 }),
-  place('paris-korean-3', 'paris', 'korean', 'Korean BBQ Paris', 4.3, 'Paris', '고기구이.', 'Korean BBQ.', { reviewCount: 1100 }),
-  place('paris-korean-4', 'paris', 'korean', 'Kimchi Paris', 4.2, 'Paris', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 700 }),
 
   // —— lyon ——
   place('lyon-fine_dining-1', 'lyon', 'fine_dining', 'Lyon Fine Dining 1', 4.5, 'Lyon', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesFRExtra: Place[] = [
   place('lyon-cafe-2', 'lyon', 'cafe', 'Old Town Café Lyon', 4.4, 'Lyon', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('lyon-cafe-3', 'lyon', 'cafe', 'Brunch Café Lyon', 4.3, 'Lyon', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('lyon-cafe-4', 'lyon', 'cafe', 'Espresso Bar Lyon', 4.3, 'Lyon', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('lyon-korean-1', 'lyon', 'korean', 'Korean Kitchen Lyon', 4.4, 'Lyon', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('lyon-korean-2', 'lyon', 'korean', 'Bibimbap Lyon', 4.3, 'Lyon', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('lyon-korean-3', 'lyon', 'korean', 'Korean BBQ Lyon', 4.3, 'Lyon', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('lyon-korean-4', 'lyon', 'korean', 'Kimchi House Lyon', 4.2, 'Lyon', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— marseille ——
   place('marseille-fine_dining-1', 'marseille', 'fine_dining', 'Marseille Fine Dining 1', 4.5, 'Marseille', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesFRExtra: Place[] = [
   place('marseille-cafe-2', 'marseille', 'cafe', 'Old Town Café Marseille', 4.4, 'Marseille', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('marseille-cafe-3', 'marseille', 'cafe', 'Brunch Café Marseille', 4.3, 'Marseille', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('marseille-cafe-4', 'marseille', 'cafe', 'Espresso Bar Marseille', 4.3, 'Marseille', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('marseille-korean-1', 'marseille', 'korean', 'Korean Kitchen Marseille', 4.4, 'Marseille', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('marseille-korean-2', 'marseille', 'korean', 'Bibimbap Marseille', 4.3, 'Marseille', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('marseille-korean-3', 'marseille', 'korean', 'Korean BBQ Marseille', 4.3, 'Marseille', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('marseille-korean-4', 'marseille', 'korean', 'Kimchi House Marseille', 4.2, 'Marseille', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— nice ——
   place('nice-fine_dining-1', 'nice', 'fine_dining', 'Nice Fine Dining 1', 4.5, 'Nice', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesFRExtra: Place[] = [
   place('nice-cafe-2', 'nice', 'cafe', 'Old Town Café Nice', 4.4, 'Nice', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('nice-cafe-3', 'nice', 'cafe', 'Brunch Café Nice', 4.3, 'Nice', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('nice-cafe-4', 'nice', 'cafe', 'Espresso Bar Nice', 4.3, 'Nice', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('nice-korean-1', 'nice', 'korean', 'Korean Kitchen Nice', 4.4, 'Nice', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('nice-korean-2', 'nice', 'korean', 'Bibimbap Nice', 4.3, 'Nice', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('nice-korean-3', 'nice', 'korean', 'Korean BBQ Nice', 4.3, 'Nice', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('nice-korean-4', 'nice', 'korean', 'Kimchi House Nice', 4.2, 'Nice', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— bordeaux ——
   place('bordeaux-fine_dining-1', 'bordeaux', 'fine_dining', 'Bordeaux Fine Dining 1', 4.5, 'Bordeaux', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesFRExtra: Place[] = [
   place('bordeaux-cafe-2', 'bordeaux', 'cafe', 'Old Town Café Bordeaux', 4.4, 'Bordeaux', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('bordeaux-cafe-3', 'bordeaux', 'cafe', 'Brunch Café Bordeaux', 4.3, 'Bordeaux', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('bordeaux-cafe-4', 'bordeaux', 'cafe', 'Espresso Bar Bordeaux', 4.3, 'Bordeaux', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('bordeaux-korean-1', 'bordeaux', 'korean', 'Korean Kitchen Bordeaux', 4.4, 'Bordeaux', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bordeaux-korean-2', 'bordeaux', 'korean', 'Bibimbap Bordeaux', 4.3, 'Bordeaux', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('bordeaux-korean-3', 'bordeaux', 'korean', 'Korean BBQ Bordeaux', 4.3, 'Bordeaux', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('bordeaux-korean-4', 'bordeaux', 'korean', 'Kimchi House Bordeaux', 4.2, 'Bordeaux', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— strasbourg ——
   place('strasbourg-fine_dining-1', 'strasbourg', 'fine_dining', 'Strasbourg Fine Dining 1', 4.5, 'Strasbourg', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesFRExtra: Place[] = [
   place('strasbourg-cafe-2', 'strasbourg', 'cafe', 'Old Town Café Strasbourg', 4.4, 'Strasbourg', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('strasbourg-cafe-3', 'strasbourg', 'cafe', 'Brunch Café Strasbourg', 4.3, 'Strasbourg', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('strasbourg-cafe-4', 'strasbourg', 'cafe', 'Espresso Bar Strasbourg', 4.3, 'Strasbourg', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('strasbourg-korean-1', 'strasbourg', 'korean', 'Korean Kitchen Strasbourg', 4.4, 'Strasbourg', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('strasbourg-korean-2', 'strasbourg', 'korean', 'Bibimbap Strasbourg', 4.3, 'Strasbourg', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('strasbourg-korean-3', 'strasbourg', 'korean', 'Korean BBQ Strasbourg', 4.3, 'Strasbourg', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('strasbourg-korean-4', 'strasbourg', 'korean', 'Kimchi House Strasbourg', 4.2, 'Strasbourg', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— annecy ——
   place('annecy-fine_dining-1', 'annecy', 'fine_dining', 'Annecy Fine Dining 1', 4.5, 'Annecy', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesFRExtra: Place[] = [
   place('annecy-cafe-2', 'annecy', 'cafe', 'Old Town Café Annecy', 4.4, 'Annecy', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('annecy-cafe-3', 'annecy', 'cafe', 'Brunch Café Annecy', 4.3, 'Annecy', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('annecy-cafe-4', 'annecy', 'cafe', 'Espresso Bar Annecy', 4.3, 'Annecy', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('annecy-korean-1', 'annecy', 'korean', 'Korean Kitchen Annecy', 4.4, 'Annecy', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('annecy-korean-2', 'annecy', 'korean', 'Bibimbap Annecy', 4.3, 'Annecy', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('annecy-korean-3', 'annecy', 'korean', 'Korean BBQ Annecy', 4.3, 'Annecy', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('annecy-korean-4', 'annecy', 'korean', 'Kimchi House Annecy', 4.2, 'Annecy', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— avignon ——
   place('avignon-fine_dining-1', 'avignon', 'fine_dining', 'Avignon Fine Dining 1', 4.5, 'Avignon', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,10 +121,6 @@ export const placesFRExtra: Place[] = [
   place('avignon-cafe-2', 'avignon', 'cafe', 'Old Town Café Avignon', 4.4, 'Avignon', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('avignon-cafe-3', 'avignon', 'cafe', 'Brunch Café Avignon', 4.3, 'Avignon', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('avignon-cafe-4', 'avignon', 'cafe', 'Espresso Bar Avignon', 4.3, 'Avignon', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('avignon-korean-1', 'avignon', 'korean', 'Korean Kitchen Avignon', 4.4, 'Avignon', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('avignon-korean-2', 'avignon', 'korean', 'Bibimbap Avignon', 4.3, 'Avignon', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('avignon-korean-3', 'avignon', 'korean', 'Korean BBQ Avignon', 4.3, 'Avignon', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('avignon-korean-4', 'avignon', 'korean', 'Kimchi House Avignon', 4.2, 'Avignon', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— toulouse ——
   place('toulouse-fine_dining-1', 'toulouse', 'fine_dining', 'Toulouse Fine Dining 1', 4.5, 'Toulouse', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -168,10 +136,6 @@ export const placesFRExtra: Place[] = [
   place('toulouse-cafe-2', 'toulouse', 'cafe', 'Old Town Café Toulouse', 4.4, 'Toulouse', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('toulouse-cafe-3', 'toulouse', 'cafe', 'Brunch Café Toulouse', 4.3, 'Toulouse', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('toulouse-cafe-4', 'toulouse', 'cafe', 'Espresso Bar Toulouse', 4.3, 'Toulouse', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('toulouse-korean-1', 'toulouse', 'korean', 'Korean Kitchen Toulouse', 4.4, 'Toulouse', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('toulouse-korean-2', 'toulouse', 'korean', 'Bibimbap Toulouse', 4.3, 'Toulouse', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('toulouse-korean-3', 'toulouse', 'korean', 'Korean BBQ Toulouse', 4.3, 'Toulouse', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('toulouse-korean-4', 'toulouse', 'korean', 'Kimchi House Toulouse', 4.2, 'Toulouse', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— montpellier ——
   place('montpellier-fine_dining-1', 'montpellier', 'fine_dining', 'Montpellier Fine Dining 1', 4.5, 'Montpellier', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -187,10 +151,6 @@ export const placesFRExtra: Place[] = [
   place('montpellier-cafe-2', 'montpellier', 'cafe', 'Old Town Café Montpellier', 4.4, 'Montpellier', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('montpellier-cafe-3', 'montpellier', 'cafe', 'Brunch Café Montpellier', 4.3, 'Montpellier', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('montpellier-cafe-4', 'montpellier', 'cafe', 'Espresso Bar Montpellier', 4.3, 'Montpellier', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('montpellier-korean-1', 'montpellier', 'korean', 'Korean Kitchen Montpellier', 4.4, 'Montpellier', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('montpellier-korean-2', 'montpellier', 'korean', 'Bibimbap Montpellier', 4.3, 'Montpellier', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('montpellier-korean-3', 'montpellier', 'korean', 'Korean BBQ Montpellier', 4.3, 'Montpellier', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('montpellier-korean-4', 'montpellier', 'korean', 'Kimchi House Montpellier', 4.2, 'Montpellier', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— dijon ——
   place('dijon-fine_dining-1', 'dijon', 'fine_dining', 'Dijon Fine Dining 1', 4.5, 'Dijon', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -206,10 +166,6 @@ export const placesFRExtra: Place[] = [
   place('dijon-cafe-2', 'dijon', 'cafe', 'Old Town Café Dijon', 4.4, 'Dijon', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('dijon-cafe-3', 'dijon', 'cafe', 'Brunch Café Dijon', 4.3, 'Dijon', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('dijon-cafe-4', 'dijon', 'cafe', 'Espresso Bar Dijon', 4.3, 'Dijon', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('dijon-korean-1', 'dijon', 'korean', 'Korean Kitchen Dijon', 4.4, 'Dijon', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('dijon-korean-2', 'dijon', 'korean', 'Bibimbap Dijon', 4.3, 'Dijon', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('dijon-korean-3', 'dijon', 'korean', 'Korean BBQ Dijon', 4.3, 'Dijon', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('dijon-korean-4', 'dijon', 'korean', 'Kimchi House Dijon', 4.2, 'Dijon', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— chamonix ——
   place('chamonix-fine_dining-1', 'chamonix', 'fine_dining', 'Chamonix Fine Dining 1', 4.5, 'Chamonix', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -225,9 +181,5 @@ export const placesFRExtra: Place[] = [
   place('chamonix-cafe-2', 'chamonix', 'cafe', 'Old Town Café Chamonix', 4.4, 'Chamonix', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('chamonix-cafe-3', 'chamonix', 'cafe', 'Brunch Café Chamonix', 4.3, 'Chamonix', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('chamonix-cafe-4', 'chamonix', 'cafe', 'Espresso Bar Chamonix', 4.3, 'Chamonix', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('chamonix-korean-1', 'chamonix', 'korean', 'Korean Kitchen Chamonix', 4.4, 'Chamonix', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('chamonix-korean-2', 'chamonix', 'korean', 'Bibimbap Chamonix', 4.3, 'Chamonix', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('chamonix-korean-3', 'chamonix', 'korean', 'Korean BBQ Chamonix', 4.3, 'Chamonix', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('chamonix-korean-4', 'chamonix', 'korean', 'Kimchi House Chamonix', 4.2, 'Chamonix', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

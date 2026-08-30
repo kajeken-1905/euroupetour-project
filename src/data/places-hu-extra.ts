@@ -16,10 +16,6 @@ export const placesHUExtra: Place[] = [
   place('budapest-cafe-2', 'budapest', 'cafe', 'Espresso Embassy', 4.6, 'Budapest', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
   place('budapest-cafe-3', 'budapest', 'cafe', 'My Little Melbourne', 4.5, 'Budapest', '스페셜티·브런치.', 'Specialty and brunch.', { reviewCount: 2800 }),
   place('budapest-cafe-4', 'budapest', 'cafe', 'Café Gerbeaud', 4.4, 'Budapest', '역사적 카페.', 'Historic café.', { reviewCount: 12000 }),
-  place('budapest-korean-1', 'budapest', 'korean', 'Korean Kitchen Budapest', 4.4, 'Budapest', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 800 }),
-  place('budapest-korean-2', 'budapest', 'korean', 'Seoul Restaurant Budapest', 4.3, 'Budapest', '한식 정식.', 'Korean set meals.', { reviewCount: 640 }),
-  place('budapest-korean-3', 'budapest', 'korean', 'Kimchi Budapest', 4.3, 'Budapest', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 520 }),
-  place('budapest-korean-4', 'budapest', 'korean', 'Korean BBQ Budapest', 4.2, 'Budapest', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
 
   // —— debrecen ——
   place('debrecen-fine_dining-1', 'debrecen', 'fine_dining', 'Debrecen Fine Dining 1', 4.5, 'Debrecen', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesHUExtra: Place[] = [
   place('debrecen-cafe-2', 'debrecen', 'cafe', 'Old Town Café Debrecen', 4.4, 'Debrecen', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('debrecen-cafe-3', 'debrecen', 'cafe', 'Brunch Café Debrecen', 4.3, 'Debrecen', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('debrecen-cafe-4', 'debrecen', 'cafe', 'Espresso Bar Debrecen', 4.3, 'Debrecen', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('debrecen-korean-1', 'debrecen', 'korean', 'Korean Kitchen Debrecen', 4.4, 'Debrecen', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('debrecen-korean-2', 'debrecen', 'korean', 'Bibimbap Debrecen', 4.3, 'Debrecen', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('debrecen-korean-3', 'debrecen', 'korean', 'Korean BBQ Debrecen', 4.3, 'Debrecen', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('debrecen-korean-4', 'debrecen', 'korean', 'Kimchi House Debrecen', 4.2, 'Debrecen', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— pecs ——
   place('pecs-fine_dining-1', 'pecs', 'fine_dining', 'Pécs Fine Dining 1', 4.5, 'Pécs', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesHUExtra: Place[] = [
   place('pecs-cafe-2', 'pecs', 'cafe', 'Old Town Café Pécs', 4.4, 'Pécs', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('pecs-cafe-3', 'pecs', 'cafe', 'Brunch Café Pécs', 4.3, 'Pécs', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('pecs-cafe-4', 'pecs', 'cafe', 'Espresso Bar Pécs', 4.3, 'Pécs', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('pecs-korean-1', 'pecs', 'korean', 'Korean Kitchen Pécs', 4.4, 'Pécs', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('pecs-korean-2', 'pecs', 'korean', 'Bibimbap Pécs', 4.3, 'Pécs', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('pecs-korean-3', 'pecs', 'korean', 'Korean BBQ Pécs', 4.3, 'Pécs', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('pecs-korean-4', 'pecs', 'korean', 'Kimchi House Pécs', 4.2, 'Pécs', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— szeged ——
   place('szeged-fine_dining-1', 'szeged', 'fine_dining', 'Szeged Fine Dining 1', 4.5, 'Szeged', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesHUExtra: Place[] = [
   place('szeged-cafe-2', 'szeged', 'cafe', 'Old Town Café Szeged', 4.4, 'Szeged', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('szeged-cafe-3', 'szeged', 'cafe', 'Brunch Café Szeged', 4.3, 'Szeged', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('szeged-cafe-4', 'szeged', 'cafe', 'Espresso Bar Szeged', 4.3, 'Szeged', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('szeged-korean-1', 'szeged', 'korean', 'Korean Kitchen Szeged', 4.4, 'Szeged', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('szeged-korean-2', 'szeged', 'korean', 'Bibimbap Szeged', 4.3, 'Szeged', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('szeged-korean-3', 'szeged', 'korean', 'Korean BBQ Szeged', 4.3, 'Szeged', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('szeged-korean-4', 'szeged', 'korean', 'Kimchi House Szeged', 4.2, 'Szeged', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— eger ——
   place('eger-fine_dining-1', 'eger', 'fine_dining', 'Eger Fine Dining 1', 4.5, 'Eger', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesHUExtra: Place[] = [
   place('eger-cafe-2', 'eger', 'cafe', 'Old Town Café Eger', 4.4, 'Eger', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('eger-cafe-3', 'eger', 'cafe', 'Brunch Café Eger', 4.3, 'Eger', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('eger-cafe-4', 'eger', 'cafe', 'Espresso Bar Eger', 4.3, 'Eger', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('eger-korean-1', 'eger', 'korean', 'Korean Kitchen Eger', 4.4, 'Eger', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('eger-korean-2', 'eger', 'korean', 'Bibimbap Eger', 4.3, 'Eger', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('eger-korean-3', 'eger', 'korean', 'Korean BBQ Eger', 4.3, 'Eger', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('eger-korean-4', 'eger', 'korean', 'Kimchi House Eger', 4.2, 'Eger', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

@@ -16,10 +16,6 @@ export const placesBAExtra: Place[] = [
   place('sarajevo-cafe-2', 'sarajevo', 'cafe', 'Specialty coffee Sarajevo', 4.5, 'Sarajevo', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
   place('sarajevo-cafe-3', 'sarajevo', 'cafe', 'Baščaršija tea & coffee', 4.3, 'Sarajevo', '시장가 차·커피.', 'Bazaar tea and coffee.', { reviewCount: 3600 }),
   place('sarajevo-cafe-4', 'sarajevo', 'cafe', 'Brunch cafés Centar', 4.4, 'Sarajevo', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('sarajevo-korean-1', 'sarajevo', 'korean', 'Korean Kitchen Sarajevo', 4.3, 'Sarajevo', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 360 }),
-  place('sarajevo-korean-2', 'sarajevo', 'korean', 'Bibimbap Sarajevo', 4.2, 'Sarajevo', '비빔밥.', 'Bibimbap.', { reviewCount: 280 }),
-  place('sarajevo-korean-3', 'sarajevo', 'korean', 'Korean BBQ Sarajevo', 4.2, 'Sarajevo', '고기구이.', 'Korean BBQ.', { reviewCount: 300 }),
-  place('sarajevo-korean-4', 'sarajevo', 'korean', 'Kimchi Sarajevo', 4.2, 'Sarajevo', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 220 }),
 
   // —— mostar ——
   place('mostar-fine_dining-1', 'mostar', 'fine_dining', 'Mostar Fine Dining 1', 4.5, 'Mostar', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesBAExtra: Place[] = [
   place('mostar-cafe-2', 'mostar', 'cafe', 'Old Town Café Mostar', 4.4, 'Mostar', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('mostar-cafe-3', 'mostar', 'cafe', 'Brunch Café Mostar', 4.3, 'Mostar', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('mostar-cafe-4', 'mostar', 'cafe', 'Espresso Bar Mostar', 4.3, 'Mostar', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('mostar-korean-1', 'mostar', 'korean', 'Korean Kitchen Mostar', 4.4, 'Mostar', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('mostar-korean-2', 'mostar', 'korean', 'Bibimbap Mostar', 4.3, 'Mostar', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('mostar-korean-3', 'mostar', 'korean', 'Korean BBQ Mostar', 4.3, 'Mostar', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('mostar-korean-4', 'mostar', 'korean', 'Kimchi House Mostar', 4.2, 'Mostar', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— banja-luka ——
   place('banja-luka-fine_dining-1', 'banja-luka', 'fine_dining', 'Banja Luka Fine Dining 1', 4.5, 'Banja Luka', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesBAExtra: Place[] = [
   place('banja-luka-cafe-2', 'banja-luka', 'cafe', 'Old Town Café Banja Luka', 4.4, 'Banja Luka', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('banja-luka-cafe-3', 'banja-luka', 'cafe', 'Brunch Café Banja Luka', 4.3, 'Banja Luka', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('banja-luka-cafe-4', 'banja-luka', 'cafe', 'Espresso Bar Banja Luka', 4.3, 'Banja Luka', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('banja-luka-korean-1', 'banja-luka', 'korean', 'Korean Kitchen Banja Luka', 4.4, 'Banja Luka', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('banja-luka-korean-2', 'banja-luka', 'korean', 'Bibimbap Banja Luka', 4.3, 'Banja Luka', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('banja-luka-korean-3', 'banja-luka', 'korean', 'Korean BBQ Banja Luka', 4.3, 'Banja Luka', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('banja-luka-korean-4', 'banja-luka', 'korean', 'Kimchi House Banja Luka', 4.2, 'Banja Luka', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— travnik ——
   place('travnik-fine_dining-1', 'travnik', 'fine_dining', 'Travnik Fine Dining 1', 4.5, 'Travnik', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,9 +61,5 @@ export const placesBAExtra: Place[] = [
   place('travnik-cafe-2', 'travnik', 'cafe', 'Old Town Café Travnik', 4.4, 'Travnik', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('travnik-cafe-3', 'travnik', 'cafe', 'Brunch Café Travnik', 4.3, 'Travnik', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('travnik-cafe-4', 'travnik', 'cafe', 'Espresso Bar Travnik', 4.3, 'Travnik', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('travnik-korean-1', 'travnik', 'korean', 'Korean Kitchen Travnik', 4.4, 'Travnik', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('travnik-korean-2', 'travnik', 'korean', 'Bibimbap Travnik', 4.3, 'Travnik', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('travnik-korean-3', 'travnik', 'korean', 'Korean BBQ Travnik', 4.3, 'Travnik', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('travnik-korean-4', 'travnik', 'korean', 'Kimchi House Travnik', 4.2, 'Travnik', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

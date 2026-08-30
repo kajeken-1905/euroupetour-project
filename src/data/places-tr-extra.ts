@@ -16,10 +16,6 @@ export const placesTRExtra: Place[] = [
   place('istanbul-cafe-2', 'istanbul', 'cafe', 'Mandabatmaz', 4.4, 'Istanbul', '터키식 커피 클래식.', 'Classic Turkish coffee.', { reviewCount: 4200 }),
   place('istanbul-cafe-3', 'istanbul', 'cafe', 'Petra Roasting Co.', 4.5, 'Istanbul', '로스터리 카페.', 'Roastery café.', { reviewCount: 1800 }),
   place('istanbul-cafe-4', 'istanbul', 'cafe', 'Karabatak', 4.4, 'Istanbul', '카라쾨이 브런치 카페.', 'Karaköy brunch café.', { reviewCount: 2400 }),
-  place('istanbul-korean-1', 'istanbul', 'korean', 'Korean Kitchen Istanbul', 4.4, 'Istanbul', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 900 }),
-  place('istanbul-korean-2', 'istanbul', 'korean', 'Bibimbap Istanbul', 4.3, 'Istanbul', '비빔밥.', 'Bibimbap.', { reviewCount: 720 }),
-  place('istanbul-korean-3', 'istanbul', 'korean', 'Korean BBQ Istanbul', 4.3, 'Istanbul', '고기구이.', 'Korean BBQ.', { reviewCount: 800 }),
-  place('istanbul-korean-4', 'istanbul', 'korean', 'Kimchi Istanbul', 4.2, 'Istanbul', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 560 }),
 
   // —— ankara ——
   place('ankara-fine_dining-1', 'ankara', 'fine_dining', 'Ankara Fine Dining 1', 4.5, 'Ankara', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesTRExtra: Place[] = [
   place('ankara-cafe-2', 'ankara', 'cafe', 'Old Town Café Ankara', 4.4, 'Ankara', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('ankara-cafe-3', 'ankara', 'cafe', 'Brunch Café Ankara', 4.3, 'Ankara', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('ankara-cafe-4', 'ankara', 'cafe', 'Espresso Bar Ankara', 4.3, 'Ankara', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('ankara-korean-1', 'ankara', 'korean', 'Korean Kitchen Ankara', 4.4, 'Ankara', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('ankara-korean-2', 'ankara', 'korean', 'Bibimbap Ankara', 4.3, 'Ankara', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('ankara-korean-3', 'ankara', 'korean', 'Korean BBQ Ankara', 4.3, 'Ankara', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('ankara-korean-4', 'ankara', 'korean', 'Kimchi House Ankara', 4.2, 'Ankara', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— izmir ——
   place('izmir-fine_dining-1', 'izmir', 'fine_dining', 'İzmir Fine Dining 1', 4.5, 'İzmir', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesTRExtra: Place[] = [
   place('izmir-cafe-2', 'izmir', 'cafe', 'Old Town Café İzmir', 4.4, 'İzmir', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('izmir-cafe-3', 'izmir', 'cafe', 'Brunch Café İzmir', 4.3, 'İzmir', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('izmir-cafe-4', 'izmir', 'cafe', 'Espresso Bar İzmir', 4.3, 'İzmir', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('izmir-korean-1', 'izmir', 'korean', 'Korean Kitchen İzmir', 4.4, 'İzmir', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('izmir-korean-2', 'izmir', 'korean', 'Bibimbap İzmir', 4.3, 'İzmir', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('izmir-korean-3', 'izmir', 'korean', 'Korean BBQ İzmir', 4.3, 'İzmir', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('izmir-korean-4', 'izmir', 'korean', 'Kimchi House İzmir', 4.2, 'İzmir', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— antalya ——
   place('antalya-fine_dining-1', 'antalya', 'fine_dining', 'Antalya Fine Dining 1', 4.5, 'Antalya', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesTRExtra: Place[] = [
   place('antalya-cafe-2', 'antalya', 'cafe', 'Old Town Café Antalya', 4.4, 'Antalya', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('antalya-cafe-3', 'antalya', 'cafe', 'Brunch Café Antalya', 4.3, 'Antalya', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('antalya-cafe-4', 'antalya', 'cafe', 'Espresso Bar Antalya', 4.3, 'Antalya', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('antalya-korean-1', 'antalya', 'korean', 'Korean Kitchen Antalya', 4.4, 'Antalya', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('antalya-korean-2', 'antalya', 'korean', 'Bibimbap Antalya', 4.3, 'Antalya', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('antalya-korean-3', 'antalya', 'korean', 'Korean BBQ Antalya', 4.3, 'Antalya', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('antalya-korean-4', 'antalya', 'korean', 'Kimchi House Antalya', 4.2, 'Antalya', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— goreme ——
   place('goreme-fine_dining-1', 'goreme', 'fine_dining', 'Göreme Fine Dining 1', 4.5, 'Göreme', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesTRExtra: Place[] = [
   place('goreme-cafe-2', 'goreme', 'cafe', 'Old Town Café Göreme', 4.4, 'Göreme', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('goreme-cafe-3', 'goreme', 'cafe', 'Brunch Café Göreme', 4.3, 'Göreme', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('goreme-cafe-4', 'goreme', 'cafe', 'Espresso Bar Göreme', 4.3, 'Göreme', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('goreme-korean-1', 'goreme', 'korean', 'Korean Kitchen Göreme', 4.4, 'Göreme', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('goreme-korean-2', 'goreme', 'korean', 'Bibimbap Göreme', 4.3, 'Göreme', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('goreme-korean-3', 'goreme', 'korean', 'Korean BBQ Göreme', 4.3, 'Göreme', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('goreme-korean-4', 'goreme', 'korean', 'Kimchi House Göreme', 4.2, 'Göreme', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— bursa ——
   place('bursa-fine_dining-1', 'bursa', 'fine_dining', 'Bursa Fine Dining 1', 4.5, 'Bursa', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesTRExtra: Place[] = [
   place('bursa-cafe-2', 'bursa', 'cafe', 'Old Town Café Bursa', 4.4, 'Bursa', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('bursa-cafe-3', 'bursa', 'cafe', 'Brunch Café Bursa', 4.3, 'Bursa', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('bursa-cafe-4', 'bursa', 'cafe', 'Espresso Bar Bursa', 4.3, 'Bursa', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('bursa-korean-1', 'bursa', 'korean', 'Korean Kitchen Bursa', 4.4, 'Bursa', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bursa-korean-2', 'bursa', 'korean', 'Bibimbap Bursa', 4.3, 'Bursa', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('bursa-korean-3', 'bursa', 'korean', 'Korean BBQ Bursa', 4.3, 'Bursa', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('bursa-korean-4', 'bursa', 'korean', 'Kimchi House Bursa', 4.2, 'Bursa', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— trabzon ——
   place('trabzon-fine_dining-1', 'trabzon', 'fine_dining', 'Trabzon Fine Dining 1', 4.5, 'Trabzon', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesTRExtra: Place[] = [
   place('trabzon-cafe-2', 'trabzon', 'cafe', 'Old Town Café Trabzon', 4.4, 'Trabzon', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('trabzon-cafe-3', 'trabzon', 'cafe', 'Brunch Café Trabzon', 4.3, 'Trabzon', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('trabzon-cafe-4', 'trabzon', 'cafe', 'Espresso Bar Trabzon', 4.3, 'Trabzon', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('trabzon-korean-1', 'trabzon', 'korean', 'Korean Kitchen Trabzon', 4.4, 'Trabzon', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('trabzon-korean-2', 'trabzon', 'korean', 'Bibimbap Trabzon', 4.3, 'Trabzon', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('trabzon-korean-3', 'trabzon', 'korean', 'Korean BBQ Trabzon', 4.3, 'Trabzon', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('trabzon-korean-4', 'trabzon', 'korean', 'Kimchi House Trabzon', 4.2, 'Trabzon', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— pamukkale ——
   place('pamukkale-fine_dining-1', 'pamukkale', 'fine_dining', 'Pamukkale Fine Dining 1', 4.5, 'Pamukkale', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,9 +121,5 @@ export const placesTRExtra: Place[] = [
   place('pamukkale-cafe-2', 'pamukkale', 'cafe', 'Old Town Café Pamukkale', 4.4, 'Pamukkale', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('pamukkale-cafe-3', 'pamukkale', 'cafe', 'Brunch Café Pamukkale', 4.3, 'Pamukkale', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('pamukkale-cafe-4', 'pamukkale', 'cafe', 'Espresso Bar Pamukkale', 4.3, 'Pamukkale', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('pamukkale-korean-1', 'pamukkale', 'korean', 'Korean Kitchen Pamukkale', 4.4, 'Pamukkale', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('pamukkale-korean-2', 'pamukkale', 'korean', 'Bibimbap Pamukkale', 4.3, 'Pamukkale', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('pamukkale-korean-3', 'pamukkale', 'korean', 'Korean BBQ Pamukkale', 4.3, 'Pamukkale', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('pamukkale-korean-4', 'pamukkale', 'korean', 'Kimchi House Pamukkale', 4.2, 'Pamukkale', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

@@ -16,10 +16,6 @@ export const placesMKExtra: Place[] = [
   place('skopje-cafe-2', 'skopje', 'cafe', 'Debar Maalo cafés', 4.4, 'Skopje', '카페 거리.', 'Café streets.', { reviewCount: 2100 }),
   place('skopje-cafe-3', 'skopje', 'cafe', 'Square espresso bars', 4.3, 'Skopje', '광장 에스프레소.', 'Square espresso.', { reviewCount: 1800 }),
   place('skopje-cafe-4', 'skopje', 'cafe', 'Brunch Skopje peers', 4.4, 'Skopje', '브런치 카페.', 'Brunch café.', { reviewCount: 1200 }),
-  place('skopje-korean-1', 'skopje', 'korean', 'Korean Kitchen Skopje', 4.3, 'Skopje', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 420 }),
-  place('skopje-korean-2', 'skopje', 'korean', 'Bibimbap Skopje', 4.2, 'Skopje', '비빔밥.', 'Bibimbap.', { reviewCount: 320 }),
-  place('skopje-korean-3', 'skopje', 'korean', 'Korean BBQ Skopje', 4.2, 'Skopje', '고기구이.', 'Korean BBQ.', { reviewCount: 360 }),
-  place('skopje-korean-4', 'skopje', 'korean', 'Kimchi Skopje', 4.2, 'Skopje', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 260 }),
 
   // —— ohrid ——
   place('ohrid-fine_dining-1', 'ohrid', 'fine_dining', 'Ohrid Fine Dining 1', 4.5, 'Ohrid', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesMKExtra: Place[] = [
   place('ohrid-cafe-2', 'ohrid', 'cafe', 'Old Town Café Ohrid', 4.4, 'Ohrid', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('ohrid-cafe-3', 'ohrid', 'cafe', 'Brunch Café Ohrid', 4.3, 'Ohrid', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('ohrid-cafe-4', 'ohrid', 'cafe', 'Espresso Bar Ohrid', 4.3, 'Ohrid', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('ohrid-korean-1', 'ohrid', 'korean', 'Korean Kitchen Ohrid', 4.4, 'Ohrid', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('ohrid-korean-2', 'ohrid', 'korean', 'Bibimbap Ohrid', 4.3, 'Ohrid', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('ohrid-korean-3', 'ohrid', 'korean', 'Korean BBQ Ohrid', 4.3, 'Ohrid', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('ohrid-korean-4', 'ohrid', 'korean', 'Kimchi House Ohrid', 4.2, 'Ohrid', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— bitola ——
   place('bitola-fine_dining-1', 'bitola', 'fine_dining', 'Bitola Fine Dining 1', 4.5, 'Bitola', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesMKExtra: Place[] = [
   place('bitola-cafe-2', 'bitola', 'cafe', 'Old Town Café Bitola', 4.4, 'Bitola', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('bitola-cafe-3', 'bitola', 'cafe', 'Brunch Café Bitola', 4.3, 'Bitola', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('bitola-cafe-4', 'bitola', 'cafe', 'Espresso Bar Bitola', 4.3, 'Bitola', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('bitola-korean-1', 'bitola', 'korean', 'Korean Kitchen Bitola', 4.4, 'Bitola', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bitola-korean-2', 'bitola', 'korean', 'Bibimbap Bitola', 4.3, 'Bitola', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('bitola-korean-3', 'bitola', 'korean', 'Korean BBQ Bitola', 4.3, 'Bitola', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('bitola-korean-4', 'bitola', 'korean', 'Kimchi House Bitola', 4.2, 'Bitola', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— tetovo ——
   place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Tetovo Fine Dining 1', 4.5, 'Tetovo', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,9 +61,5 @@ export const placesMKExtra: Place[] = [
   place('tetovo-cafe-2', 'tetovo', 'cafe', 'Old Town Café Tetovo', 4.4, 'Tetovo', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('tetovo-cafe-3', 'tetovo', 'cafe', 'Brunch Café Tetovo', 4.3, 'Tetovo', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('tetovo-cafe-4', 'tetovo', 'cafe', 'Espresso Bar Tetovo', 4.3, 'Tetovo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('tetovo-korean-1', 'tetovo', 'korean', 'Korean Kitchen Tetovo', 4.4, 'Tetovo', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('tetovo-korean-2', 'tetovo', 'korean', 'Bibimbap Tetovo', 4.3, 'Tetovo', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('tetovo-korean-3', 'tetovo', 'korean', 'Korean BBQ Tetovo', 4.3, 'Tetovo', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('tetovo-korean-4', 'tetovo', 'korean', 'Kimchi House Tetovo', 4.2, 'Tetovo', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

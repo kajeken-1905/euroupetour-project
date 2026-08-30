@@ -18,11 +18,6 @@ export const placesUKExtra: Place[] = [
   place('edinburgh-cafe-3', 'edinburgh', 'cafe', 'The Milkman', 4.5, 'Edinburgh', '로열 마일 근처 작은 커피 바.', 'Tiny coffee bar near the Royal Mile.', { reviewCount: 2100 }),
   place('edinburgh-cafe-4', 'edinburgh', 'cafe', 'Cairngorm Coffee', 4.4, 'Edinburgh', '밝고 모던한 브런치 카페.', 'Bright modern brunch café.', { reviewCount: 1300 }),
   place('edinburgh-cafe-5', 'edinburgh', 'cafe', 'Fortitude Coffee', 4.4, 'Edinburgh', '에스프레소 바 스타일.', 'Espresso-bar style café.', { reviewCount: 870 }),
-  place('edinburgh-korean-1', 'edinburgh', 'korean', 'Kimchi Cult', 4.5, 'Edinburgh', '캐주얼 한식·치맥.', 'Casual Korean and fried chicken.', { reviewCount: 1100 }),
-  place('edinburgh-korean-2', 'edinburgh', 'korean', 'Jeju', 4.4, 'Edinburgh', '현대적 한식 플레이팅.', 'Modern Korean plating.', { reviewCount: 640 }),
-  place('edinburgh-korean-3', 'edinburgh', 'korean', 'Hanja', 4.3, 'Edinburgh', '기본 한식이 안정적.', 'Reliable classic Korean dishes.', { reviewCount: 520 }),
-  place('edinburgh-korean-4', 'edinburgh', 'korean', 'Seoul Edinburgh', 4.3, 'Edinburgh', '불고기·비빔밥 중심.', 'Bulgogi and bibimbap focused.', { reviewCount: 480 }),
-  place('edinburgh-korean-5', 'edinburgh', 'korean', 'Korean BBQ locals', 4.2, 'Edinburgh', '그룹용 고기구이.', 'Korean BBQ for groups.', { reviewCount: 390 }),
 
   // —— manchester ——
   place('manchester-fine_dining-1', 'manchester', 'fine_dining', 'Mana', 4.7, 'Manchester', '뉴 노르딕 감성 미슐랭 다이닝.', 'New Nordic-spirited Michelin dining.', { reviewCount: 860 }),
@@ -40,11 +35,6 @@ export const placesUKExtra: Place[] = [
   place('manchester-cafe-3', 'manchester', 'cafe', 'Grindsmith', 4.4, 'Manchester', '모던 에스프레소 바.', 'Modern espresso bars.', { reviewCount: 1300 }),
   place('manchester-cafe-4', 'manchester', 'cafe', 'Coffee Shop Co.', 4.4, 'Manchester', '브런치·커피 균형.', 'Balanced brunch and coffee.', { reviewCount: 900 }),
   place('manchester-cafe-5', 'manchester', 'cafe', 'Fig + Sparrow', 4.3, 'Manchester', '디자인 감성 카페.', 'Design-led café.', { reviewCount: 1500 }),
-  place('manchester-korean-1', 'manchester', 'korean', 'This & That style Korean / local', 4.3, 'Manchester', '캐주얼 한식 스팟.', 'Casual Korean spots.', { reviewCount: 720 }),
-  place('manchester-korean-2', 'manchester', 'korean', 'Kimchi Manchester', 4.3, 'Manchester', '김치·찌개 중심.', 'Kimchi and stew focused.', { reviewCount: 580 }),
-  place('manchester-korean-3', 'manchester', 'korean', 'Seoul Bird / Korean fried chicken peers', 4.4, 'Manchester', '한식 치킨 인기.', 'Korean fried chicken favourite.', { reviewCount: 980 }),
-  place('manchester-korean-4', 'manchester', 'korean', 'Bibimbap bowls', 4.2, 'Manchester', '빠른 한 끼 볼.', 'Quick bowl lunches.', { reviewCount: 410 }),
-  place('manchester-korean-5', 'manchester', 'korean', 'Korean BBQ Manchester', 4.2, 'Manchester', '그룹 구이.', 'Group BBQ.', { reviewCount: 460 }),
 
   // —— bath ——
   place('bath-fine_dining-1', 'bath', 'fine_dining', 'Menu Gordon Jones', 4.6, 'Bath', '인티메이트 테이스팅 메뉴.', 'Intimate tasting menus.', { reviewCount: 720 }),
@@ -62,8 +52,6 @@ export const placesUKExtra: Place[] = [
   place('bath-cafe-3', 'bath', 'cafe', 'Café Retro', 4.4, 'Bath', '캐주얼 브런치.', 'Casual brunch.', { reviewCount: 1200 }),
   place('bath-cafe-4', 'bath', 'cafe', 'The Carefully Curated Coffee Co.', 4.4, 'Bath', '인디 커피.', 'Indie coffee.', { reviewCount: 680 }),
   place('bath-cafe-5', 'bath', 'cafe', 'Boston Tea Party', 4.3, 'Bath', '브런치 체인 인기점.', 'Popular brunch spot.', { reviewCount: 2200 }),
-  place('bath-korean-1', 'bath', 'korean', 'Korean BBQ Bath / local Asian kitchens', 4.2, 'Bath', '한식 선택 제한적.', 'Limited Korean options.', { reviewCount: 320 }),
-  place('bath-korean-2', 'bath', 'korean', 'Bibimbap / East Asian cafés', 4.1, 'Bath', '캐주얼 아시안 한식 메뉴.', 'Casual Asian-Korean menus.', { reviewCount: 280 }),
 
   // —— oxford ——
   place('oxford-fine_dining-1', 'oxford', 'fine_dining', 'Restaurant Torr', 4.5, 'Oxford', '모던 브리티시.', 'Modern British.', { reviewCount: 480 }),
@@ -81,9 +69,6 @@ export const placesUKExtra: Place[] = [
   place('oxford-cafe-3', 'oxford', 'cafe', 'Handle Bar Café', 4.4, 'Oxford', '자전거 테마 카페.', 'Bike-themed café.', { reviewCount: 1600 }),
   place('oxford-cafe-4', 'oxford', 'cafe', 'Vaults & Garden', 4.4, 'Oxford', '교회 정원 카페.', 'Churchyard café.', { reviewCount: 2800 }),
   place('oxford-cafe-5', 'oxford', 'cafe', 'Coffee House Oxford', 4.3, 'Oxford', '학생 인기 카페.', 'Student favourite café.', { reviewCount: 1100 }),
-  place('oxford-korean-1', 'oxford', 'korean', 'Seoul Plaza / Korean Oxford', 4.3, 'Oxford', '대학가 한식.', 'Student-area Korean.', { reviewCount: 640 }),
-  place('oxford-korean-2', 'oxford', 'korean', 'Bibimbap Oxford', 4.2, 'Oxford', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 480 }),
-  place('oxford-korean-3', 'oxford', 'korean', 'Kimchi & BBQ locals', 4.2, 'Oxford', '구이·김치 메뉴.', 'BBQ and kimchi menus.', { reviewCount: 390 }),
 
   // —— cambridge ——
   place('cambridge-fine_dining-1', 'cambridge', 'fine_dining', 'Midsummer House', 4.7, 'Cambridge', '케임브리지 대표 미슐랭.', 'Cambridge’s flagship Michelin.', { reviewCount: 1100 }),
@@ -101,9 +86,6 @@ export const placesUKExtra: Place[] = [
   place('cambridge-cafe-3', 'cambridge', 'cafe', 'Espresso Library', 4.5, 'Cambridge', '스페셜티·브런치.', 'Specialty and brunch.', { reviewCount: 1400 }),
   place('cambridge-cafe-4', 'cambridge', 'cafe', 'Urban Larder', 4.4, 'Cambridge', '캐주얼 카페.', 'Casual café.', { reviewCount: 720 }),
   place('cambridge-cafe-5', 'cambridge', 'cafe', 'Michaelhouse Café', 4.3, 'Cambridge', '교회 안 카페.', 'Café inside a church.', { reviewCount: 1800 }),
-  place('cambridge-korean-1', 'cambridge', 'korean', 'K-Plate / Korean Cambridge', 4.3, 'Cambridge', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 520 }),
-  place('cambridge-korean-2', 'cambridge', 'korean', 'Bibimbap Cambridge', 4.2, 'Cambridge', '볼 메뉴.', 'Bowl menus.', { reviewCount: 410 }),
-  place('cambridge-korean-3', 'cambridge', 'korean', 'Korean BBQ locals', 4.1, 'Cambridge', '소수 구이 옵션.', 'Limited BBQ options.', { reviewCount: 300 }),
 
   // —— liverpool ——
   place('liverpool-fine_dining-1', 'liverpool', 'fine_dining', 'Restaurant Fraiche (Wirral peer) / local fine', 4.5, 'Liverpool', '머지사이드 파인 다이닝.', 'Merseyside fine dining.', { reviewCount: 480 }),
@@ -121,10 +103,6 @@ export const placesUKExtra: Place[] = [
   place('liverpool-cafe-3', 'liverpool', 'cafe', 'Cow & Co Coffee', 4.4, 'Liverpool', '도크사이드 카페.', 'Dockside café.', { reviewCount: 960 }),
   place('liverpool-cafe-4', 'liverpool', 'cafe', 'Public', 4.4, 'Liverpool', '모던 카페.', 'Modern café.', { reviewCount: 880 }),
   place('liverpool-cafe-5', 'liverpool', 'cafe', 'Leaf', 4.3, 'Liverpool', '차·커피·공연 공간.', 'Tea, coffee, and events.', { reviewCount: 1500 }),
-  place('liverpool-korean-1', 'liverpool', 'korean', 'Korean BBQ Liverpool', 4.3, 'Liverpool', '그룹 한식.', 'Group Korean.', { reviewCount: 640 }),
-  place('liverpool-korean-2', 'liverpool', 'korean', 'Kimchi Liverpool', 4.3, 'Liverpool', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 520 }),
-  place('liverpool-korean-3', 'liverpool', 'korean', 'Seoul Kitchen Liverpool', 4.2, 'Liverpool', '기본 한식.', 'Classic Korean.', { reviewCount: 450 }),
-  place('liverpool-korean-4', 'liverpool', 'korean', 'Fried chicken Korean spots', 4.2, 'Liverpool', '치맥.', 'Fried chicken.', { reviewCount: 480 }),
 
   // —— brighton ——
   place('brighton-fine_dining-1', 'brighton', 'fine_dining', 'The Salt Room', 4.6, 'Brighton', '시푸드 파인 다이닝.', 'Seafood fine dining.', { reviewCount: 1400 }),
@@ -142,10 +120,6 @@ export const placesUKExtra: Place[] = [
   place('brighton-cafe-3', 'brighton', 'cafe', 'Metrodeco', 4.5, 'Brighton', '빈티지 티·커피.', 'Vintage tea and coffee.', { reviewCount: 1400 }),
   place('brighton-cafe-4', 'brighton', 'cafe', 'Baywood Coffee', 4.4, 'Brighton', '로스터리.', 'Roastery.', { reviewCount: 820 }),
   place('brighton-cafe-5', 'brighton', 'cafe', 'Fondant Frosting café', 4.3, 'Brighton', '디저트 카페.', 'Dessert café.', { reviewCount: 980 }),
-  place('brighton-korean-1', 'brighton', 'korean', 'Momo Korean / Brighton Korean', 4.4, 'Brighton', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 780 }),
-  place('brighton-korean-2', 'brighton', 'korean', 'Kimchi Brighton', 4.3, 'Brighton', '한식 사이드.', 'Korean sides.', { reviewCount: 540 }),
-  place('brighton-korean-3', 'brighton', 'korean', 'Korean BBQ Brighton', 4.3, 'Brighton', '구이.', 'BBQ.', { reviewCount: 610 }),
-  place('brighton-korean-4', 'brighton', 'korean', 'Bibimbap Brighton', 4.2, 'Brighton', '볼 메뉴.', 'Bowls.', { reviewCount: 420 }),
 
   // —— york ——
   place('york-fine_dining-1', 'york', 'fine_dining', 'The Star Inn the City', 4.5, 'York', '강변 모던 브리티시.', 'Riverside modern British.', { reviewCount: 1600 }),
@@ -163,8 +137,6 @@ export const placesUKExtra: Place[] = [
   place('york-cafe-3', 'york', 'cafe', 'Bettys', 4.5, 'York', '전설적 티룸.', 'Legendary tearoom.', { reviewCount: 12000 }),
   place('york-cafe-4', 'york', 'cafe', 'Partisan', 4.5, 'York', '모던 카페.', 'Modern café.', { reviewCount: 980 }),
   place('york-cafe-5', 'york', 'cafe', 'Perky Peacock', 4.4, 'York', '탑 게이트 카페.', 'Tower gateway café.', { reviewCount: 1500 }),
-  place('york-korean-1', 'york', 'korean', 'Korean York locals', 4.2, 'York', '한식 제한적.', 'Limited Korean scene.', { reviewCount: 320 }),
-  place('york-korean-2', 'york', 'korean', 'Asian-Korean kitchens', 4.1, 'York', '캐주얼 한식 메뉴.', 'Casual Korean menus.', { reviewCount: 280 }),
 
   // —— bristol ——
   place('bristol-fine_dining-1', 'bristol', 'fine_dining', 'Bulrush', 4.6, 'Bristol', '미슐랭 모던 브리티시.', 'Michelin modern British.', { reviewCount: 860 }),
@@ -182,9 +154,5 @@ export const placesUKExtra: Place[] = [
   place('bristol-cafe-3', 'bristol', 'cafe', 'Small Street Espresso', 4.5, 'Bristol', '작은 커피 바.', 'Tiny coffee bar.', { reviewCount: 1200 }),
   place('bristol-cafe-4', 'bristol', 'cafe', 'Friska', 4.3, 'Bristol', '헬시 카페.', 'Healthy café.', { reviewCount: 1400 }),
   place('bristol-cafe-5', 'bristol', 'cafe', 'Boston Tea Party Bristol', 4.3, 'Bristol', '브런치.', 'Brunch.', { reviewCount: 2100 }),
-  place('bristol-korean-1', 'bristol', 'korean', 'Korean Bristol', 4.4, 'Bristol', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 720 }),
-  place('bristol-korean-2', 'bristol', 'korean', 'Kimchi Bristol', 4.3, 'Bristol', '한식 사이드.', 'Korean sides.', { reviewCount: 540 }),
-  place('bristol-korean-3', 'bristol', 'korean', 'Korean BBQ Bristol', 4.3, 'Bristol', '구이.', 'BBQ.', { reviewCount: 610 }),
-  place('bristol-korean-4', 'bristol', 'korean', 'Bibimbap Bristol', 4.2, 'Bristol', '볼.', 'Bowls.', { reviewCount: 430 }),
 
 ]

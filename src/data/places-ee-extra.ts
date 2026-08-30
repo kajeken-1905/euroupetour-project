@@ -16,10 +16,6 @@ export const placesEEExtra: Place[] = [
   place('tallinn-cafe-2', 'tallinn', 'cafe', 'Telliskivi cafés', 4.5, 'Tallinn', '텔리스키비 카페.', 'Telliskivi cafés.', { reviewCount: 2400 }),
   place('tallinn-cafe-3', 'tallinn', 'cafe', 'Old Town café terraces', 4.3, 'Tallinn', '구시가 테라스.', 'Old-town terraces.', { reviewCount: 3200 }),
   place('tallinn-cafe-4', 'tallinn', 'cafe', 'Brunch Tallinn peers', 4.4, 'Tallinn', '브런치 카페.', 'Brunch café.', { reviewCount: 1600 }),
-  place('tallinn-korean-1', 'tallinn', 'korean', 'Korean Kitchen Tallinn', 4.4, 'Tallinn', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 700 }),
-  place('tallinn-korean-2', 'tallinn', 'korean', 'Bibimbap Tallinn', 4.3, 'Tallinn', '비빔밥.', 'Bibimbap.', { reviewCount: 520 }),
-  place('tallinn-korean-3', 'tallinn', 'korean', 'Korean BBQ Tallinn', 4.3, 'Tallinn', '고기구이.', 'Korean BBQ.', { reviewCount: 600 }),
-  place('tallinn-korean-4', 'tallinn', 'korean', 'Kimchi Tallinn', 4.2, 'Tallinn', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 400 }),
 
   // —— tartu ——
   place('tartu-fine_dining-1', 'tartu', 'fine_dining', 'Tartu Fine Dining 1', 4.5, 'Tartu', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesEEExtra: Place[] = [
   place('tartu-cafe-2', 'tartu', 'cafe', 'Old Town Café Tartu', 4.4, 'Tartu', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('tartu-cafe-3', 'tartu', 'cafe', 'Brunch Café Tartu', 4.3, 'Tartu', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('tartu-cafe-4', 'tartu', 'cafe', 'Espresso Bar Tartu', 4.3, 'Tartu', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('tartu-korean-1', 'tartu', 'korean', 'Korean Kitchen Tartu', 4.4, 'Tartu', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('tartu-korean-2', 'tartu', 'korean', 'Bibimbap Tartu', 4.3, 'Tartu', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('tartu-korean-3', 'tartu', 'korean', 'Korean BBQ Tartu', 4.3, 'Tartu', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('tartu-korean-4', 'tartu', 'korean', 'Kimchi House Tartu', 4.2, 'Tartu', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— parnu ——
   place('parnu-fine_dining-1', 'parnu', 'fine_dining', 'Pärnu Fine Dining 1', 4.5, 'Pärnu', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,9 +46,5 @@ export const placesEEExtra: Place[] = [
   place('parnu-cafe-2', 'parnu', 'cafe', 'Old Town Café Pärnu', 4.4, 'Pärnu', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('parnu-cafe-3', 'parnu', 'cafe', 'Brunch Café Pärnu', 4.3, 'Pärnu', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('parnu-cafe-4', 'parnu', 'cafe', 'Espresso Bar Pärnu', 4.3, 'Pärnu', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('parnu-korean-1', 'parnu', 'korean', 'Korean Kitchen Pärnu', 4.4, 'Pärnu', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('parnu-korean-2', 'parnu', 'korean', 'Bibimbap Pärnu', 4.3, 'Pärnu', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('parnu-korean-3', 'parnu', 'korean', 'Korean BBQ Pärnu', 4.3, 'Pärnu', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('parnu-korean-4', 'parnu', 'korean', 'Kimchi House Pärnu', 4.2, 'Pärnu', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

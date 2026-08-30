@@ -16,10 +16,6 @@ export const placesMEExtra: Place[] = [
   place('kotor-cafe-2', 'kotor', 'cafe', 'Specialty coffee Kotor', 4.4, 'Kotor', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 700 }),
   place('kotor-cafe-3', 'kotor', 'cafe', 'Walls viewpoint café peers', 4.3, 'Kotor', '전망 카페.', 'Viewpoint café.', { reviewCount: 900 }),
   place('kotor-cafe-4', 'kotor', 'cafe', 'Harbour espresso bars', 4.3, 'Kotor', '항구 에스프레소.', 'Harbour espresso.', { reviewCount: 1100 }),
-  place('kotor-korean-1', 'kotor', 'korean', 'Korean Kitchen Kotor', 4.2, 'Kotor', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 200 }),
-  place('kotor-korean-2', 'kotor', 'korean', 'Bibimbap Kotor', 4.2, 'Kotor', '비빔밥.', 'Bibimbap.', { reviewCount: 160 }),
-  place('kotor-korean-3', 'kotor', 'korean', 'Korean BBQ Kotor', 4.2, 'Kotor', '고기구이.', 'Korean BBQ.', { reviewCount: 180 }),
-  place('kotor-korean-4', 'kotor', 'korean', 'Kimchi Kotor', 4.1, 'Kotor', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 140 }),
 
   // —— budva ——
   place('budva-fine_dining-1', 'budva', 'fine_dining', 'Budva Fine Dining 1', 4.5, 'Budva', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesMEExtra: Place[] = [
   place('budva-cafe-2', 'budva', 'cafe', 'Old Town Café Budva', 4.4, 'Budva', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('budva-cafe-3', 'budva', 'cafe', 'Brunch Café Budva', 4.3, 'Budva', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('budva-cafe-4', 'budva', 'cafe', 'Espresso Bar Budva', 4.3, 'Budva', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('budva-korean-1', 'budva', 'korean', 'Korean Kitchen Budva', 4.4, 'Budva', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('budva-korean-2', 'budva', 'korean', 'Bibimbap Budva', 4.3, 'Budva', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('budva-korean-3', 'budva', 'korean', 'Korean BBQ Budva', 4.3, 'Budva', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('budva-korean-4', 'budva', 'korean', 'Kimchi House Budva', 4.2, 'Budva', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— podgorica ——
   place('podgorica-fine_dining-1', 'podgorica', 'fine_dining', 'Podgorica Fine Dining 1', 4.5, 'Podgorica', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesMEExtra: Place[] = [
   place('podgorica-cafe-2', 'podgorica', 'cafe', 'Old Town Café Podgorica', 4.4, 'Podgorica', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('podgorica-cafe-3', 'podgorica', 'cafe', 'Brunch Café Podgorica', 4.3, 'Podgorica', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('podgorica-cafe-4', 'podgorica', 'cafe', 'Espresso Bar Podgorica', 4.3, 'Podgorica', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('podgorica-korean-1', 'podgorica', 'korean', 'Korean Kitchen Podgorica', 4.4, 'Podgorica', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('podgorica-korean-2', 'podgorica', 'korean', 'Bibimbap Podgorica', 4.3, 'Podgorica', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('podgorica-korean-3', 'podgorica', 'korean', 'Korean BBQ Podgorica', 4.3, 'Podgorica', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('podgorica-korean-4', 'podgorica', 'korean', 'Kimchi House Podgorica', 4.2, 'Podgorica', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— herceg-novi ——
   place('herceg-novi-fine_dining-1', 'herceg-novi', 'fine_dining', 'Herceg Novi Fine Dining 1', 4.5, 'Herceg Novi', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,9 +61,5 @@ export const placesMEExtra: Place[] = [
   place('herceg-novi-cafe-2', 'herceg-novi', 'cafe', 'Old Town Café Herceg Novi', 4.4, 'Herceg Novi', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('herceg-novi-cafe-3', 'herceg-novi', 'cafe', 'Brunch Café Herceg Novi', 4.3, 'Herceg Novi', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('herceg-novi-cafe-4', 'herceg-novi', 'cafe', 'Espresso Bar Herceg Novi', 4.3, 'Herceg Novi', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('herceg-novi-korean-1', 'herceg-novi', 'korean', 'Korean Kitchen Herceg Novi', 4.4, 'Herceg Novi', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('herceg-novi-korean-2', 'herceg-novi', 'korean', 'Bibimbap Herceg Novi', 4.3, 'Herceg Novi', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('herceg-novi-korean-3', 'herceg-novi', 'korean', 'Korean BBQ Herceg Novi', 4.3, 'Herceg Novi', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('herceg-novi-korean-4', 'herceg-novi', 'korean', 'Kimchi House Herceg Novi', 4.2, 'Herceg Novi', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

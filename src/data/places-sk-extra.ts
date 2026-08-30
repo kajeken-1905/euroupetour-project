@@ -16,10 +16,6 @@ export const placesSKExtra: Place[] = [
   place('bratislava-cafe-2', 'bratislava', 'cafe', 'Café Trafačka peers', 4.4, 'Bratislava', '로스터리 카페.', 'Roastery café.', { reviewCount: 1200 }),
   place('bratislava-cafe-3', 'bratislava', 'cafe', 'Old Town café terraces', 4.3, 'Bratislava', '구시가 테라스 카페.', 'Old-town terrace cafés.', { reviewCount: 2400 }),
   place('bratislava-cafe-4', 'bratislava', 'cafe', 'Brunch spots Bratislava', 4.4, 'Bratislava', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('bratislava-korean-1', 'bratislava', 'korean', 'Korean Kitchen Bratislava', 4.4, 'Bratislava', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 700 }),
-  place('bratislava-korean-2', 'bratislava', 'korean', 'Bibimbap Bratislava', 4.3, 'Bratislava', '비빔밥.', 'Bibimbap.', { reviewCount: 520 }),
-  place('bratislava-korean-3', 'bratislava', 'korean', 'Korean BBQ Bratislava', 4.3, 'Bratislava', '고기구이.', 'Korean BBQ.', { reviewCount: 600 }),
-  place('bratislava-korean-4', 'bratislava', 'korean', 'Kimchi Bratislava', 4.2, 'Bratislava', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 400 }),
 
   // —— kosice ——
   place('kosice-fine_dining-1', 'kosice', 'fine_dining', 'Košice Fine Dining 1', 4.5, 'Košice', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesSKExtra: Place[] = [
   place('kosice-cafe-2', 'kosice', 'cafe', 'Old Town Café Košice', 4.4, 'Košice', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('kosice-cafe-3', 'kosice', 'cafe', 'Brunch Café Košice', 4.3, 'Košice', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('kosice-cafe-4', 'kosice', 'cafe', 'Espresso Bar Košice', 4.3, 'Košice', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('kosice-korean-1', 'kosice', 'korean', 'Korean Kitchen Košice', 4.4, 'Košice', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('kosice-korean-2', 'kosice', 'korean', 'Bibimbap Košice', 4.3, 'Košice', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('kosice-korean-3', 'kosice', 'korean', 'Korean BBQ Košice', 4.3, 'Košice', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('kosice-korean-4', 'kosice', 'korean', 'Kimchi House Košice', 4.2, 'Košice', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— poprad ——
   place('poprad-fine_dining-1', 'poprad', 'fine_dining', 'Poprad Fine Dining 1', 4.5, 'Poprad', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesSKExtra: Place[] = [
   place('poprad-cafe-2', 'poprad', 'cafe', 'Old Town Café Poprad', 4.4, 'Poprad', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('poprad-cafe-3', 'poprad', 'cafe', 'Brunch Café Poprad', 4.3, 'Poprad', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('poprad-cafe-4', 'poprad', 'cafe', 'Espresso Bar Poprad', 4.3, 'Poprad', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('poprad-korean-1', 'poprad', 'korean', 'Korean Kitchen Poprad', 4.4, 'Poprad', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('poprad-korean-2', 'poprad', 'korean', 'Bibimbap Poprad', 4.3, 'Poprad', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('poprad-korean-3', 'poprad', 'korean', 'Korean BBQ Poprad', 4.3, 'Poprad', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('poprad-korean-4', 'poprad', 'korean', 'Kimchi House Poprad', 4.2, 'Poprad', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— banska-bystrica ——
   place('banska-bystrica-fine_dining-1', 'banska-bystrica', 'fine_dining', 'Banská Bystrica Fine Dining 1', 4.5, 'Banská Bystrica', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesSKExtra: Place[] = [
   place('banska-bystrica-cafe-2', 'banska-bystrica', 'cafe', 'Old Town Café Banská Bystrica', 4.4, 'Banská Bystrica', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('banska-bystrica-cafe-3', 'banska-bystrica', 'cafe', 'Brunch Café Banská Bystrica', 4.3, 'Banská Bystrica', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('banska-bystrica-cafe-4', 'banska-bystrica', 'cafe', 'Espresso Bar Banská Bystrica', 4.3, 'Banská Bystrica', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('banska-bystrica-korean-1', 'banska-bystrica', 'korean', 'Korean Kitchen Banská Bystrica', 4.4, 'Banská Bystrica', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('banska-bystrica-korean-2', 'banska-bystrica', 'korean', 'Bibimbap Banská Bystrica', 4.3, 'Banská Bystrica', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('banska-bystrica-korean-3', 'banska-bystrica', 'korean', 'Korean BBQ Banská Bystrica', 4.3, 'Banská Bystrica', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('banska-bystrica-korean-4', 'banska-bystrica', 'korean', 'Kimchi House Banská Bystrica', 4.2, 'Banská Bystrica', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— trencin ——
   place('trencin-fine_dining-1', 'trencin', 'fine_dining', 'Trenčín Fine Dining 1', 4.5, 'Trenčín', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesSKExtra: Place[] = [
   place('trencin-cafe-2', 'trencin', 'cafe', 'Old Town Café Trenčín', 4.4, 'Trenčín', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('trencin-cafe-3', 'trencin', 'cafe', 'Brunch Café Trenčín', 4.3, 'Trenčín', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('trencin-cafe-4', 'trencin', 'cafe', 'Espresso Bar Trenčín', 4.3, 'Trenčín', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('trencin-korean-1', 'trencin', 'korean', 'Korean Kitchen Trenčín', 4.4, 'Trenčín', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('trencin-korean-2', 'trencin', 'korean', 'Bibimbap Trenčín', 4.3, 'Trenčín', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('trencin-korean-3', 'trencin', 'korean', 'Korean BBQ Trenčín', 4.3, 'Trenčín', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('trencin-korean-4', 'trencin', 'korean', 'Kimchi House Trenčín', 4.2, 'Trenčín', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

@@ -16,10 +16,6 @@ export const placesPLExtra: Place[] = [
   place('warsaw-cafe-2', 'warsaw', 'cafe', 'Cukiernia Pawłowicz café', 4.3, 'Warsaw', '클래식 카페.', 'Classic café.', { reviewCount: 2100 }),
   place('warsaw-cafe-3', 'warsaw', 'cafe', 'Forum Meat & Coffee peers', 4.4, 'Warsaw', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
   place('warsaw-cafe-4', 'warsaw', 'cafe', 'Coffee Affair', 4.4, 'Warsaw', '로스터리 카페.', 'Roastery café.', { reviewCount: 1100 }),
-  place('warsaw-korean-1', 'warsaw', 'korean', 'Korean Kitchen Warsaw', 4.4, 'Warsaw', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 800 }),
-  place('warsaw-korean-2', 'warsaw', 'korean', 'Bibimbap Warsaw', 4.3, 'Warsaw', '비빔밥.', 'Bibimbap.', { reviewCount: 600 }),
-  place('warsaw-korean-3', 'warsaw', 'korean', 'Korean BBQ Warsaw', 4.3, 'Warsaw', '고기구이.', 'Korean BBQ.', { reviewCount: 720 }),
-  place('warsaw-korean-4', 'warsaw', 'korean', 'Kimchi Warsaw', 4.2, 'Warsaw', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 480 }),
 
   // —— krakow ——
   place('krakow-fine_dining-1', 'krakow', 'fine_dining', 'Kraków Fine Dining 1', 4.5, 'Kraków', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesPLExtra: Place[] = [
   place('krakow-cafe-2', 'krakow', 'cafe', 'Old Town Café Kraków', 4.4, 'Kraków', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('krakow-cafe-3', 'krakow', 'cafe', 'Brunch Café Kraków', 4.3, 'Kraków', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('krakow-cafe-4', 'krakow', 'cafe', 'Espresso Bar Kraków', 4.3, 'Kraków', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('krakow-korean-1', 'krakow', 'korean', 'Korean Kitchen Kraków', 4.4, 'Kraków', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('krakow-korean-2', 'krakow', 'korean', 'Bibimbap Kraków', 4.3, 'Kraków', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('krakow-korean-3', 'krakow', 'korean', 'Korean BBQ Kraków', 4.3, 'Kraków', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('krakow-korean-4', 'krakow', 'korean', 'Kimchi House Kraków', 4.2, 'Kraków', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— gdansk ——
   place('gdansk-fine_dining-1', 'gdansk', 'fine_dining', 'Gdańsk Fine Dining 1', 4.5, 'Gdańsk', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesPLExtra: Place[] = [
   place('gdansk-cafe-2', 'gdansk', 'cafe', 'Old Town Café Gdańsk', 4.4, 'Gdańsk', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('gdansk-cafe-3', 'gdansk', 'cafe', 'Brunch Café Gdańsk', 4.3, 'Gdańsk', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('gdansk-cafe-4', 'gdansk', 'cafe', 'Espresso Bar Gdańsk', 4.3, 'Gdańsk', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('gdansk-korean-1', 'gdansk', 'korean', 'Korean Kitchen Gdańsk', 4.4, 'Gdańsk', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('gdansk-korean-2', 'gdansk', 'korean', 'Bibimbap Gdańsk', 4.3, 'Gdańsk', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('gdansk-korean-3', 'gdansk', 'korean', 'Korean BBQ Gdańsk', 4.3, 'Gdańsk', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('gdansk-korean-4', 'gdansk', 'korean', 'Kimchi House Gdańsk', 4.2, 'Gdańsk', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— wroclaw ——
   place('wroclaw-fine_dining-1', 'wroclaw', 'fine_dining', 'Wrocław Fine Dining 1', 4.5, 'Wrocław', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesPLExtra: Place[] = [
   place('wroclaw-cafe-2', 'wroclaw', 'cafe', 'Old Town Café Wrocław', 4.4, 'Wrocław', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('wroclaw-cafe-3', 'wroclaw', 'cafe', 'Brunch Café Wrocław', 4.3, 'Wrocław', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('wroclaw-cafe-4', 'wroclaw', 'cafe', 'Espresso Bar Wrocław', 4.3, 'Wrocław', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('wroclaw-korean-1', 'wroclaw', 'korean', 'Korean Kitchen Wrocław', 4.4, 'Wrocław', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('wroclaw-korean-2', 'wroclaw', 'korean', 'Bibimbap Wrocław', 4.3, 'Wrocław', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('wroclaw-korean-3', 'wroclaw', 'korean', 'Korean BBQ Wrocław', 4.3, 'Wrocław', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('wroclaw-korean-4', 'wroclaw', 'korean', 'Kimchi House Wrocław', 4.2, 'Wrocław', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— poznan ——
   place('poznan-fine_dining-1', 'poznan', 'fine_dining', 'Poznań Fine Dining 1', 4.5, 'Poznań', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesPLExtra: Place[] = [
   place('poznan-cafe-2', 'poznan', 'cafe', 'Old Town Café Poznań', 4.4, 'Poznań', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('poznan-cafe-3', 'poznan', 'cafe', 'Brunch Café Poznań', 4.3, 'Poznań', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('poznan-cafe-4', 'poznan', 'cafe', 'Espresso Bar Poznań', 4.3, 'Poznań', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('poznan-korean-1', 'poznan', 'korean', 'Korean Kitchen Poznań', 4.4, 'Poznań', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('poznan-korean-2', 'poznan', 'korean', 'Bibimbap Poznań', 4.3, 'Poznań', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('poznan-korean-3', 'poznan', 'korean', 'Korean BBQ Poznań', 4.3, 'Poznań', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('poznan-korean-4', 'poznan', 'korean', 'Kimchi House Poznań', 4.2, 'Poznań', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— zakopane ——
   place('zakopane-fine_dining-1', 'zakopane', 'fine_dining', 'Zakopane Fine Dining 1', 4.5, 'Zakopane', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesPLExtra: Place[] = [
   place('zakopane-cafe-2', 'zakopane', 'cafe', 'Old Town Café Zakopane', 4.4, 'Zakopane', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('zakopane-cafe-3', 'zakopane', 'cafe', 'Brunch Café Zakopane', 4.3, 'Zakopane', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('zakopane-cafe-4', 'zakopane', 'cafe', 'Espresso Bar Zakopane', 4.3, 'Zakopane', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('zakopane-korean-1', 'zakopane', 'korean', 'Korean Kitchen Zakopane', 4.4, 'Zakopane', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('zakopane-korean-2', 'zakopane', 'korean', 'Bibimbap Zakopane', 4.3, 'Zakopane', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('zakopane-korean-3', 'zakopane', 'korean', 'Korean BBQ Zakopane', 4.3, 'Zakopane', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('zakopane-korean-4', 'zakopane', 'korean', 'Kimchi House Zakopane', 4.2, 'Zakopane', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— torun ——
   place('torun-fine_dining-1', 'torun', 'fine_dining', 'Toruń Fine Dining 1', 4.5, 'Toruń', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,9 +106,5 @@ export const placesPLExtra: Place[] = [
   place('torun-cafe-2', 'torun', 'cafe', 'Old Town Café Toruń', 4.4, 'Toruń', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('torun-cafe-3', 'torun', 'cafe', 'Brunch Café Toruń', 4.3, 'Toruń', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('torun-cafe-4', 'torun', 'cafe', 'Espresso Bar Toruń', 4.3, 'Toruń', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('torun-korean-1', 'torun', 'korean', 'Korean Kitchen Toruń', 4.4, 'Toruń', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('torun-korean-2', 'torun', 'korean', 'Bibimbap Toruń', 4.3, 'Toruń', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('torun-korean-3', 'torun', 'korean', 'Korean BBQ Toruń', 4.3, 'Toruń', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('torun-korean-4', 'torun', 'korean', 'Kimchi House Toruń', 4.2, 'Toruń', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

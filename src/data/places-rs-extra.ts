@@ -16,10 +16,6 @@ export const placesRSExtra: Place[] = [
   place('belgrade-cafe-2', 'belgrade', 'cafe', 'Kafeterija / peers', 4.4, 'Belgrade', '로스터리 카페.', 'Roastery café.', { reviewCount: 1600 }),
   place('belgrade-cafe-3', 'belgrade', 'cafe', 'Dorćol café streets', 4.4, 'Belgrade', '도르촐 카페 거리.', 'Dorćol café streets.', { reviewCount: 2400 }),
   place('belgrade-cafe-4', 'belgrade', 'cafe', 'Brunch Belgrade peers', 4.4, 'Belgrade', '브런치 카페.', 'Brunch café.', { reviewCount: 1800 }),
-  place('belgrade-korean-1', 'belgrade', 'korean', 'Korean Kitchen Belgrade', 4.4, 'Belgrade', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 800 }),
-  place('belgrade-korean-2', 'belgrade', 'korean', 'Bibimbap Belgrade', 4.3, 'Belgrade', '비빔밥.', 'Bibimbap.', { reviewCount: 600 }),
-  place('belgrade-korean-3', 'belgrade', 'korean', 'Korean BBQ Belgrade', 4.3, 'Belgrade', '고기구이.', 'Korean BBQ.', { reviewCount: 720 }),
-  place('belgrade-korean-4', 'belgrade', 'korean', 'Kimchi Belgrade', 4.2, 'Belgrade', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 480 }),
 
   // —— novi-sad ——
   place('novi-sad-fine_dining-1', 'novi-sad', 'fine_dining', 'Novi Sad Fine Dining 1', 4.5, 'Novi Sad', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesRSExtra: Place[] = [
   place('novi-sad-cafe-2', 'novi-sad', 'cafe', 'Old Town Café Novi Sad', 4.4, 'Novi Sad', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('novi-sad-cafe-3', 'novi-sad', 'cafe', 'Brunch Café Novi Sad', 4.3, 'Novi Sad', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('novi-sad-cafe-4', 'novi-sad', 'cafe', 'Espresso Bar Novi Sad', 4.3, 'Novi Sad', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('novi-sad-korean-1', 'novi-sad', 'korean', 'Korean Kitchen Novi Sad', 4.4, 'Novi Sad', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('novi-sad-korean-2', 'novi-sad', 'korean', 'Bibimbap Novi Sad', 4.3, 'Novi Sad', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('novi-sad-korean-3', 'novi-sad', 'korean', 'Korean BBQ Novi Sad', 4.3, 'Novi Sad', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('novi-sad-korean-4', 'novi-sad', 'korean', 'Kimchi House Novi Sad', 4.2, 'Novi Sad', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— nis ——
   place('nis-fine_dining-1', 'nis', 'fine_dining', 'Niš Fine Dining 1', 4.5, 'Niš', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesRSExtra: Place[] = [
   place('nis-cafe-2', 'nis', 'cafe', 'Old Town Café Niš', 4.4, 'Niš', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('nis-cafe-3', 'nis', 'cafe', 'Brunch Café Niš', 4.3, 'Niš', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('nis-cafe-4', 'nis', 'cafe', 'Espresso Bar Niš', 4.3, 'Niš', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('nis-korean-1', 'nis', 'korean', 'Korean Kitchen Niš', 4.4, 'Niš', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('nis-korean-2', 'nis', 'korean', 'Bibimbap Niš', 4.3, 'Niš', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('nis-korean-3', 'nis', 'korean', 'Korean BBQ Niš', 4.3, 'Niš', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('nis-korean-4', 'nis', 'korean', 'Kimchi House Niš', 4.2, 'Niš', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— subotica ——
   place('subotica-fine_dining-1', 'subotica', 'fine_dining', 'Subotica Fine Dining 1', 4.5, 'Subotica', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,9 +61,5 @@ export const placesRSExtra: Place[] = [
   place('subotica-cafe-2', 'subotica', 'cafe', 'Old Town Café Subotica', 4.4, 'Subotica', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('subotica-cafe-3', 'subotica', 'cafe', 'Brunch Café Subotica', 4.3, 'Subotica', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('subotica-cafe-4', 'subotica', 'cafe', 'Espresso Bar Subotica', 4.3, 'Subotica', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('subotica-korean-1', 'subotica', 'korean', 'Korean Kitchen Subotica', 4.4, 'Subotica', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('subotica-korean-2', 'subotica', 'korean', 'Bibimbap Subotica', 4.3, 'Subotica', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('subotica-korean-3', 'subotica', 'korean', 'Korean BBQ Subotica', 4.3, 'Subotica', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('subotica-korean-4', 'subotica', 'korean', 'Kimchi House Subotica', 4.2, 'Subotica', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

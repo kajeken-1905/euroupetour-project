@@ -16,10 +16,6 @@ export const placesDEExtra: Place[] = [
   place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Berlin', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800 }),
   place('berlin-cafe-3', 'berlin', 'cafe', 'Café Einstein Stammhaus', 4.4, 'Berlin', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 5400 }),
   place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Berlin', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600 }),
-  place('berlin-korean-1', 'berlin', 'korean', 'Kimchi Princess', 4.4, 'Berlin', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 2100 }),
-  place('berlin-korean-2', 'berlin', 'korean', 'Seoulkitchen Berlin', 4.3, 'Berlin', '한식 정식.', 'Korean meals.', { reviewCount: 1200 }),
-  place('berlin-korean-3', 'berlin', 'korean', 'Korean BBQ Berlin', 4.3, 'Berlin', '고기구이.', 'Korean BBQ.', { reviewCount: 1600 }),
-  place('berlin-korean-4', 'berlin', 'korean', 'Bibimbap Berlin', 4.2, 'Berlin', '비빔밥.', 'Bibimbap.', { reviewCount: 900 }),
 
   // —— munich ——
   place('munich-fine_dining-1', 'munich', 'fine_dining', 'Munich Fine Dining 1', 4.5, 'Munich', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesDEExtra: Place[] = [
   place('munich-cafe-2', 'munich', 'cafe', 'Old Town Café Munich', 4.4, 'Munich', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('munich-cafe-3', 'munich', 'cafe', 'Brunch Café Munich', 4.3, 'Munich', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('munich-cafe-4', 'munich', 'cafe', 'Espresso Bar Munich', 4.3, 'Munich', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('munich-korean-1', 'munich', 'korean', 'Korean Kitchen Munich', 4.4, 'Munich', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('munich-korean-2', 'munich', 'korean', 'Bibimbap Munich', 4.3, 'Munich', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('munich-korean-3', 'munich', 'korean', 'Korean BBQ Munich', 4.3, 'Munich', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('munich-korean-4', 'munich', 'korean', 'Kimchi House Munich', 4.2, 'Munich', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— hamburg ——
   place('hamburg-fine_dining-1', 'hamburg', 'fine_dining', 'Hamburg Fine Dining 1', 4.5, 'Hamburg', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesDEExtra: Place[] = [
   place('hamburg-cafe-2', 'hamburg', 'cafe', 'Old Town Café Hamburg', 4.4, 'Hamburg', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('hamburg-cafe-3', 'hamburg', 'cafe', 'Brunch Café Hamburg', 4.3, 'Hamburg', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('hamburg-cafe-4', 'hamburg', 'cafe', 'Espresso Bar Hamburg', 4.3, 'Hamburg', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('hamburg-korean-1', 'hamburg', 'korean', 'Korean Kitchen Hamburg', 4.4, 'Hamburg', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('hamburg-korean-2', 'hamburg', 'korean', 'Bibimbap Hamburg', 4.3, 'Hamburg', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('hamburg-korean-3', 'hamburg', 'korean', 'Korean BBQ Hamburg', 4.3, 'Hamburg', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('hamburg-korean-4', 'hamburg', 'korean', 'Kimchi House Hamburg', 4.2, 'Hamburg', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— cologne ——
   place('cologne-fine_dining-1', 'cologne', 'fine_dining', 'Cologne Fine Dining 1', 4.5, 'Cologne', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesDEExtra: Place[] = [
   place('cologne-cafe-2', 'cologne', 'cafe', 'Old Town Café Cologne', 4.4, 'Cologne', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('cologne-cafe-3', 'cologne', 'cafe', 'Brunch Café Cologne', 4.3, 'Cologne', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('cologne-cafe-4', 'cologne', 'cafe', 'Espresso Bar Cologne', 4.3, 'Cologne', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('cologne-korean-1', 'cologne', 'korean', 'Korean Kitchen Cologne', 4.4, 'Cologne', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('cologne-korean-2', 'cologne', 'korean', 'Bibimbap Cologne', 4.3, 'Cologne', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('cologne-korean-3', 'cologne', 'korean', 'Korean BBQ Cologne', 4.3, 'Cologne', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('cologne-korean-4', 'cologne', 'korean', 'Kimchi House Cologne', 4.2, 'Cologne', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— frankfurt ——
   place('frankfurt-fine_dining-1', 'frankfurt', 'fine_dining', 'Frankfurt Fine Dining 1', 4.5, 'Frankfurt', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesDEExtra: Place[] = [
   place('frankfurt-cafe-2', 'frankfurt', 'cafe', 'Old Town Café Frankfurt', 4.4, 'Frankfurt', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('frankfurt-cafe-3', 'frankfurt', 'cafe', 'Brunch Café Frankfurt', 4.3, 'Frankfurt', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('frankfurt-cafe-4', 'frankfurt', 'cafe', 'Espresso Bar Frankfurt', 4.3, 'Frankfurt', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('frankfurt-korean-1', 'frankfurt', 'korean', 'Korean Kitchen Frankfurt', 4.4, 'Frankfurt', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('frankfurt-korean-2', 'frankfurt', 'korean', 'Bibimbap Frankfurt', 4.3, 'Frankfurt', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('frankfurt-korean-3', 'frankfurt', 'korean', 'Korean BBQ Frankfurt', 4.3, 'Frankfurt', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('frankfurt-korean-4', 'frankfurt', 'korean', 'Kimchi House Frankfurt', 4.2, 'Frankfurt', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— dresden ——
   place('dresden-fine_dining-1', 'dresden', 'fine_dining', 'Dresden Fine Dining 1', 4.5, 'Dresden', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesDEExtra: Place[] = [
   place('dresden-cafe-2', 'dresden', 'cafe', 'Old Town Café Dresden', 4.4, 'Dresden', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('dresden-cafe-3', 'dresden', 'cafe', 'Brunch Café Dresden', 4.3, 'Dresden', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('dresden-cafe-4', 'dresden', 'cafe', 'Espresso Bar Dresden', 4.3, 'Dresden', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('dresden-korean-1', 'dresden', 'korean', 'Korean Kitchen Dresden', 4.4, 'Dresden', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('dresden-korean-2', 'dresden', 'korean', 'Bibimbap Dresden', 4.3, 'Dresden', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('dresden-korean-3', 'dresden', 'korean', 'Korean BBQ Dresden', 4.3, 'Dresden', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('dresden-korean-4', 'dresden', 'korean', 'Kimchi House Dresden', 4.2, 'Dresden', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— heidelberg ——
   place('heidelberg-fine_dining-1', 'heidelberg', 'fine_dining', 'Heidelberg Fine Dining 1', 4.5, 'Heidelberg', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesDEExtra: Place[] = [
   place('heidelberg-cafe-2', 'heidelberg', 'cafe', 'Old Town Café Heidelberg', 4.4, 'Heidelberg', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('heidelberg-cafe-3', 'heidelberg', 'cafe', 'Brunch Café Heidelberg', 4.3, 'Heidelberg', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('heidelberg-cafe-4', 'heidelberg', 'cafe', 'Espresso Bar Heidelberg', 4.3, 'Heidelberg', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('heidelberg-korean-1', 'heidelberg', 'korean', 'Korean Kitchen Heidelberg', 4.4, 'Heidelberg', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('heidelberg-korean-2', 'heidelberg', 'korean', 'Bibimbap Heidelberg', 4.3, 'Heidelberg', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('heidelberg-korean-3', 'heidelberg', 'korean', 'Korean BBQ Heidelberg', 4.3, 'Heidelberg', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('heidelberg-korean-4', 'heidelberg', 'korean', 'Kimchi House Heidelberg', 4.2, 'Heidelberg', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— nuremberg ——
   place('nuremberg-fine_dining-1', 'nuremberg', 'fine_dining', 'Nuremberg Fine Dining 1', 4.5, 'Nuremberg', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,10 +121,6 @@ export const placesDEExtra: Place[] = [
   place('nuremberg-cafe-2', 'nuremberg', 'cafe', 'Old Town Café Nuremberg', 4.4, 'Nuremberg', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('nuremberg-cafe-3', 'nuremberg', 'cafe', 'Brunch Café Nuremberg', 4.3, 'Nuremberg', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('nuremberg-cafe-4', 'nuremberg', 'cafe', 'Espresso Bar Nuremberg', 4.3, 'Nuremberg', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('nuremberg-korean-1', 'nuremberg', 'korean', 'Korean Kitchen Nuremberg', 4.4, 'Nuremberg', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('nuremberg-korean-2', 'nuremberg', 'korean', 'Bibimbap Nuremberg', 4.3, 'Nuremberg', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('nuremberg-korean-3', 'nuremberg', 'korean', 'Korean BBQ Nuremberg', 4.3, 'Nuremberg', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('nuremberg-korean-4', 'nuremberg', 'korean', 'Kimchi House Nuremberg', 4.2, 'Nuremberg', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— stuttgart ——
   place('stuttgart-fine_dining-1', 'stuttgart', 'fine_dining', 'Stuttgart Fine Dining 1', 4.5, 'Stuttgart', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -168,10 +136,6 @@ export const placesDEExtra: Place[] = [
   place('stuttgart-cafe-2', 'stuttgart', 'cafe', 'Old Town Café Stuttgart', 4.4, 'Stuttgart', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('stuttgart-cafe-3', 'stuttgart', 'cafe', 'Brunch Café Stuttgart', 4.3, 'Stuttgart', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('stuttgart-cafe-4', 'stuttgart', 'cafe', 'Espresso Bar Stuttgart', 4.3, 'Stuttgart', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('stuttgart-korean-1', 'stuttgart', 'korean', 'Korean Kitchen Stuttgart', 4.4, 'Stuttgart', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('stuttgart-korean-2', 'stuttgart', 'korean', 'Bibimbap Stuttgart', 4.3, 'Stuttgart', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('stuttgart-korean-3', 'stuttgart', 'korean', 'Korean BBQ Stuttgart', 4.3, 'Stuttgart', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('stuttgart-korean-4', 'stuttgart', 'korean', 'Kimchi House Stuttgart', 4.2, 'Stuttgart', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— leipzig ——
   place('leipzig-fine_dining-1', 'leipzig', 'fine_dining', 'Leipzig Fine Dining 1', 4.5, 'Leipzig', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -187,10 +151,6 @@ export const placesDEExtra: Place[] = [
   place('leipzig-cafe-2', 'leipzig', 'cafe', 'Old Town Café Leipzig', 4.4, 'Leipzig', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('leipzig-cafe-3', 'leipzig', 'cafe', 'Brunch Café Leipzig', 4.3, 'Leipzig', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('leipzig-cafe-4', 'leipzig', 'cafe', 'Espresso Bar Leipzig', 4.3, 'Leipzig', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('leipzig-korean-1', 'leipzig', 'korean', 'Korean Kitchen Leipzig', 4.4, 'Leipzig', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('leipzig-korean-2', 'leipzig', 'korean', 'Bibimbap Leipzig', 4.3, 'Leipzig', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('leipzig-korean-3', 'leipzig', 'korean', 'Korean BBQ Leipzig', 4.3, 'Leipzig', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('leipzig-korean-4', 'leipzig', 'korean', 'Kimchi House Leipzig', 4.2, 'Leipzig', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— rothenburg ——
   place('rothenburg-fine_dining-1', 'rothenburg', 'fine_dining', 'Rothenburg ob der Tauber Fine Dining 1', 4.5, 'Rothenburg ob der Tauber', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -206,10 +166,6 @@ export const placesDEExtra: Place[] = [
   place('rothenburg-cafe-2', 'rothenburg', 'cafe', 'Old Town Café Rothenburg ob der Tauber', 4.4, 'Rothenburg ob der Tauber', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('rothenburg-cafe-3', 'rothenburg', 'cafe', 'Brunch Café Rothenburg ob der Tauber', 4.3, 'Rothenburg ob der Tauber', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('rothenburg-cafe-4', 'rothenburg', 'cafe', 'Espresso Bar Rothenburg ob der Tauber', 4.3, 'Rothenburg ob der Tauber', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('rothenburg-korean-1', 'rothenburg', 'korean', 'Korean Kitchen Rothenburg ob der Tauber', 4.4, 'Rothenburg ob der Tauber', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('rothenburg-korean-2', 'rothenburg', 'korean', 'Bibimbap Rothenburg ob der Tauber', 4.3, 'Rothenburg ob der Tauber', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('rothenburg-korean-3', 'rothenburg', 'korean', 'Korean BBQ Rothenburg ob der Tauber', 4.3, 'Rothenburg ob der Tauber', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('rothenburg-korean-4', 'rothenburg', 'korean', 'Kimchi House Rothenburg ob der Tauber', 4.2, 'Rothenburg ob der Tauber', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— potsdam ——
   place('potsdam-fine_dining-1', 'potsdam', 'fine_dining', 'Potsdam Fine Dining 1', 4.5, 'Potsdam', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -225,9 +181,5 @@ export const placesDEExtra: Place[] = [
   place('potsdam-cafe-2', 'potsdam', 'cafe', 'Old Town Café Potsdam', 4.4, 'Potsdam', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('potsdam-cafe-3', 'potsdam', 'cafe', 'Brunch Café Potsdam', 4.3, 'Potsdam', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('potsdam-cafe-4', 'potsdam', 'cafe', 'Espresso Bar Potsdam', 4.3, 'Potsdam', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('potsdam-korean-1', 'potsdam', 'korean', 'Korean Kitchen Potsdam', 4.4, 'Potsdam', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('potsdam-korean-2', 'potsdam', 'korean', 'Bibimbap Potsdam', 4.3, 'Potsdam', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('potsdam-korean-3', 'potsdam', 'korean', 'Korean BBQ Potsdam', 4.3, 'Potsdam', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('potsdam-korean-4', 'potsdam', 'korean', 'Kimchi House Potsdam', 4.2, 'Potsdam', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

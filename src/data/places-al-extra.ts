@@ -16,10 +16,6 @@ export const placesALExtra: Place[] = [
   place('tirana-cafe-2', 'tirana', 'cafe', 'Blloku café terraces', 4.4, 'Tirana', '블로쿠 테라스.', 'Blloku terrace cafés.', { reviewCount: 2800 }),
   place('tirana-cafe-3', 'tirana', 'cafe', 'Square espresso bars', 4.3, 'Tirana', '광장 에스프레소.', 'Square espresso.', { reviewCount: 2100 }),
   place('tirana-cafe-4', 'tirana', 'cafe', 'Brunch Tirana peers', 4.4, 'Tirana', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('tirana-korean-1', 'tirana', 'korean', 'Korean Kitchen Tirana', 4.3, 'Tirana', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 420 }),
-  place('tirana-korean-2', 'tirana', 'korean', 'Bibimbap Tirana', 4.2, 'Tirana', '비빔밥.', 'Bibimbap.', { reviewCount: 320 }),
-  place('tirana-korean-3', 'tirana', 'korean', 'Korean BBQ Tirana', 4.2, 'Tirana', '고기구이.', 'Korean BBQ.', { reviewCount: 360 }),
-  place('tirana-korean-4', 'tirana', 'korean', 'Kimchi Tirana', 4.2, 'Tirana', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 260 }),
 
   // —— berat ——
   place('berat-fine_dining-1', 'berat', 'fine_dining', 'Berat Fine Dining 1', 4.5, 'Berat', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesALExtra: Place[] = [
   place('berat-cafe-2', 'berat', 'cafe', 'Old Town Café Berat', 4.4, 'Berat', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('berat-cafe-3', 'berat', 'cafe', 'Brunch Café Berat', 4.3, 'Berat', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('berat-cafe-4', 'berat', 'cafe', 'Espresso Bar Berat', 4.3, 'Berat', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('berat-korean-1', 'berat', 'korean', 'Korean Kitchen Berat', 4.4, 'Berat', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('berat-korean-2', 'berat', 'korean', 'Bibimbap Berat', 4.3, 'Berat', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('berat-korean-3', 'berat', 'korean', 'Korean BBQ Berat', 4.3, 'Berat', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('berat-korean-4', 'berat', 'korean', 'Kimchi House Berat', 4.2, 'Berat', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— gjirokaster ——
   place('gjirokaster-fine_dining-1', 'gjirokaster', 'fine_dining', 'Gjirokastër Fine Dining 1', 4.5, 'Gjirokastër', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesALExtra: Place[] = [
   place('gjirokaster-cafe-2', 'gjirokaster', 'cafe', 'Old Town Café Gjirokastër', 4.4, 'Gjirokastër', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('gjirokaster-cafe-3', 'gjirokaster', 'cafe', 'Brunch Café Gjirokastër', 4.3, 'Gjirokastër', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('gjirokaster-cafe-4', 'gjirokaster', 'cafe', 'Espresso Bar Gjirokastër', 4.3, 'Gjirokastër', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('gjirokaster-korean-1', 'gjirokaster', 'korean', 'Korean Kitchen Gjirokastër', 4.4, 'Gjirokastër', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('gjirokaster-korean-2', 'gjirokaster', 'korean', 'Bibimbap Gjirokastër', 4.3, 'Gjirokastër', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('gjirokaster-korean-3', 'gjirokaster', 'korean', 'Korean BBQ Gjirokastër', 4.3, 'Gjirokastër', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('gjirokaster-korean-4', 'gjirokaster', 'korean', 'Kimchi House Gjirokastër', 4.2, 'Gjirokastër', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— sarande ——
   place('sarande-fine_dining-1', 'sarande', 'fine_dining', 'Sarandë Fine Dining 1', 4.5, 'Sarandë', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,9 +61,5 @@ export const placesALExtra: Place[] = [
   place('sarande-cafe-2', 'sarande', 'cafe', 'Old Town Café Sarandë', 4.4, 'Sarandë', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('sarande-cafe-3', 'sarande', 'cafe', 'Brunch Café Sarandë', 4.3, 'Sarandë', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('sarande-cafe-4', 'sarande', 'cafe', 'Espresso Bar Sarandë', 4.3, 'Sarandë', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('sarande-korean-1', 'sarande', 'korean', 'Korean Kitchen Sarandë', 4.4, 'Sarandë', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('sarande-korean-2', 'sarande', 'korean', 'Bibimbap Sarandë', 4.3, 'Sarandë', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('sarande-korean-3', 'sarande', 'korean', 'Korean BBQ Sarandë', 4.3, 'Sarandë', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('sarande-korean-4', 'sarande', 'korean', 'Kimchi House Sarandë', 4.2, 'Sarandë', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

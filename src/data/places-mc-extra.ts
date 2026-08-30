@@ -16,10 +16,6 @@ export const placesMCExtra: Place[] = [
   place('monaco-cafe-2', 'monaco', 'cafe', 'Specialty coffee Monaco', 4.5, 'Monaco', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 800 }),
   place('monaco-cafe-3', 'monaco', 'cafe', 'Port Hercule cafés', 4.3, 'Monaco', '항구 카페.', 'Harbour cafés.', { reviewCount: 1600 }),
   place('monaco-cafe-4', 'monaco', 'cafe', 'Brunch café Carré d\'Or', 4.4, 'Monaco', '럭셔리 지구 브런치.', 'Luxury-district brunch.', { reviewCount: 980 }),
-  place('monaco-korean-1', 'monaco', 'korean', 'Korean Kitchen Monaco', 4.3, 'Monaco', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 280 }),
-  place('monaco-korean-2', 'monaco', 'korean', 'Bibimbap Monaco', 4.2, 'Monaco', '비빔밥.', 'Bibimbap.', { reviewCount: 200 }),
-  place('monaco-korean-3', 'monaco', 'korean', 'Korean BBQ Monaco', 4.2, 'Monaco', '고기구이.', 'Korean BBQ.', { reviewCount: 220 }),
-  place('monaco-korean-4', 'monaco', 'korean', 'Kimchi Monaco', 4.2, 'Monaco', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 160 }),
 
   // —— monte-carlo ——
   place('monte-carlo-fine_dining-1', 'monte-carlo', 'fine_dining', 'Monte Carlo Fine Dining 1', 4.5, 'Monte Carlo', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,9 +31,5 @@ export const placesMCExtra: Place[] = [
   place('monte-carlo-cafe-2', 'monte-carlo', 'cafe', 'Old Town Café Monte Carlo', 4.4, 'Monte Carlo', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('monte-carlo-cafe-3', 'monte-carlo', 'cafe', 'Brunch Café Monte Carlo', 4.3, 'Monte Carlo', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('monte-carlo-cafe-4', 'monte-carlo', 'cafe', 'Espresso Bar Monte Carlo', 4.3, 'Monte Carlo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('monte-carlo-korean-1', 'monte-carlo', 'korean', 'Korean Kitchen Monte Carlo', 4.4, 'Monte Carlo', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('monte-carlo-korean-2', 'monte-carlo', 'korean', 'Bibimbap Monte Carlo', 4.3, 'Monte Carlo', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('monte-carlo-korean-3', 'monte-carlo', 'korean', 'Korean BBQ Monte Carlo', 4.3, 'Monte Carlo', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('monte-carlo-korean-4', 'monte-carlo', 'korean', 'Kimchi House Monte Carlo', 4.2, 'Monte Carlo', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

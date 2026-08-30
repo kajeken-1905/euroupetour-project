@@ -16,10 +16,6 @@ export const placesCYExtra: Place[] = [
   place('nicosia-cafe-2', 'nicosia', 'cafe', 'Ledra Street cafés', 4.3, 'Nicosia', '레드라 카페.', 'Ledra Street cafés.', { reviewCount: 2100 }),
   place('nicosia-cafe-3', 'nicosia', 'cafe', 'Courtyard coffee houses', 4.4, 'Nicosia', '중정 커피하우스.', 'Courtyard coffee houses.', { reviewCount: 1600 }),
   place('nicosia-cafe-4', 'nicosia', 'cafe', 'Brunch Nicosia peers', 4.4, 'Nicosia', '브런치 카페.', 'Brunch café.', { reviewCount: 1100 }),
-  place('nicosia-korean-1', 'nicosia', 'korean', 'Korean Kitchen Nicosia', 4.3, 'Nicosia', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 480 }),
-  place('nicosia-korean-2', 'nicosia', 'korean', 'Bibimbap Nicosia', 4.3, 'Nicosia', '비빔밥.', 'Bibimbap.', { reviewCount: 360 }),
-  place('nicosia-korean-3', 'nicosia', 'korean', 'Korean BBQ Nicosia', 4.2, 'Nicosia', '고기구이.', 'Korean BBQ.', { reviewCount: 400 }),
-  place('nicosia-korean-4', 'nicosia', 'korean', 'Kimchi Nicosia', 4.2, 'Nicosia', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 280 }),
 
   // —— limassol ——
   place('limassol-fine_dining-1', 'limassol', 'fine_dining', 'Limassol Fine Dining 1', 4.5, 'Limassol', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesCYExtra: Place[] = [
   place('limassol-cafe-2', 'limassol', 'cafe', 'Old Town Café Limassol', 4.4, 'Limassol', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('limassol-cafe-3', 'limassol', 'cafe', 'Brunch Café Limassol', 4.3, 'Limassol', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('limassol-cafe-4', 'limassol', 'cafe', 'Espresso Bar Limassol', 4.3, 'Limassol', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('limassol-korean-1', 'limassol', 'korean', 'Korean Kitchen Limassol', 4.4, 'Limassol', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('limassol-korean-2', 'limassol', 'korean', 'Bibimbap Limassol', 4.3, 'Limassol', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('limassol-korean-3', 'limassol', 'korean', 'Korean BBQ Limassol', 4.3, 'Limassol', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('limassol-korean-4', 'limassol', 'korean', 'Kimchi House Limassol', 4.2, 'Limassol', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— paphos ——
   place('paphos-fine_dining-1', 'paphos', 'fine_dining', 'Paphos Fine Dining 1', 4.5, 'Paphos', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesCYExtra: Place[] = [
   place('paphos-cafe-2', 'paphos', 'cafe', 'Old Town Café Paphos', 4.4, 'Paphos', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('paphos-cafe-3', 'paphos', 'cafe', 'Brunch Café Paphos', 4.3, 'Paphos', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('paphos-cafe-4', 'paphos', 'cafe', 'Espresso Bar Paphos', 4.3, 'Paphos', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('paphos-korean-1', 'paphos', 'korean', 'Korean Kitchen Paphos', 4.4, 'Paphos', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('paphos-korean-2', 'paphos', 'korean', 'Bibimbap Paphos', 4.3, 'Paphos', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('paphos-korean-3', 'paphos', 'korean', 'Korean BBQ Paphos', 4.3, 'Paphos', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('paphos-korean-4', 'paphos', 'korean', 'Kimchi House Paphos', 4.2, 'Paphos', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— ayia-napa ——
   place('ayia-napa-fine_dining-1', 'ayia-napa', 'fine_dining', 'Ayia Napa Fine Dining 1', 4.5, 'Ayia Napa', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,9 +61,5 @@ export const placesCYExtra: Place[] = [
   place('ayia-napa-cafe-2', 'ayia-napa', 'cafe', 'Old Town Café Ayia Napa', 4.4, 'Ayia Napa', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('ayia-napa-cafe-3', 'ayia-napa', 'cafe', 'Brunch Café Ayia Napa', 4.3, 'Ayia Napa', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('ayia-napa-cafe-4', 'ayia-napa', 'cafe', 'Espresso Bar Ayia Napa', 4.3, 'Ayia Napa', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('ayia-napa-korean-1', 'ayia-napa', 'korean', 'Korean Kitchen Ayia Napa', 4.4, 'Ayia Napa', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('ayia-napa-korean-2', 'ayia-napa', 'korean', 'Bibimbap Ayia Napa', 4.3, 'Ayia Napa', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('ayia-napa-korean-3', 'ayia-napa', 'korean', 'Korean BBQ Ayia Napa', 4.3, 'Ayia Napa', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('ayia-napa-korean-4', 'ayia-napa', 'korean', 'Kimchi House Ayia Napa', 4.2, 'Ayia Napa', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

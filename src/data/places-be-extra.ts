@@ -18,7 +18,6 @@ export const placesBEExtra: Place[] = [
   place('bruges-cafe-3', 'bruges', 'cafe', 'Café Vlissinghe', 4.4, 'Bruges', '역사적 카페.', 'Historic café.', { reviewCount: 1800 }),
   place('bruges-cafe-4', 'bruges', 'cafe', 'Petit Coffee Spot', 4.3, 'Bruges', '작은 커피.', 'Tiny coffee spot.', { reviewCount: 720 }),
   place('bruges-cafe-5', 'bruges', 'cafe', 'Canal-side cafés', 4.2, 'Bruges', '운하 카페.', 'Canal cafés.', { reviewCount: 2100 }),
-  place('bruges-korean-1', 'bruges', 'korean', 'Korean Bruges / Brussels day options', 4.1, 'Bruges', '한식 제한적.', 'Limited Korean.', { reviewCount: 220 }),
 
   // —— ghent ——
   place('ghent-fine_dining-1', 'ghent', 'fine_dining', 'Restaurant Publiek', 4.6, 'Ghent', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 860 }),
@@ -36,9 +35,6 @@ export const placesBEExtra: Place[] = [
   place('ghent-cafe-3', 'ghent', 'cafe', 'Café Theatre', 4.3, 'Ghent', '광장 카페.', 'Square café.', { reviewCount: 1400 }),
   place('ghent-cafe-4', 'ghent', 'cafe', 'Vooruit café', 4.3, 'Ghent', '문화 공간 카페.', 'Cultural venue café.', { reviewCount: 1100 }),
   place('ghent-cafe-5', 'ghent', 'cafe', 'Graslei cafés', 4.2, 'Ghent', '그라스레이 카페.', 'Graslei cafés.', { reviewCount: 2200 }),
-  place('ghent-korean-1', 'ghent', 'korean', 'Korean Ghent', 4.3, 'Ghent', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 560 }),
-  place('ghent-korean-2', 'ghent', 'korean', 'Kimchi Ghent', 4.2, 'Ghent', '한식.', 'Korean.', { reviewCount: 420 }),
-  place('ghent-korean-3', 'ghent', 'korean', 'Korean BBQ Ghent', 4.2, 'Ghent', '구이.', 'BBQ.', { reviewCount: 480 }),
 
   // —— antwerp ——
   place('antwerp-fine_dining-1', 'antwerp', 'fine_dining', 'The Jane', 4.7, 'Antwerp', '세계적 미슐랭 다이닝.', 'World-class Michelin dining.', { reviewCount: 1400 }),
@@ -56,10 +52,6 @@ export const placesBEExtra: Place[] = [
   place('antwerp-cafe-3', 'antwerp', 'cafe', 'Café Kostbaar', 4.4, 'Antwerp', '브런치.', 'Brunch.', { reviewCount: 980 }),
   place('antwerp-cafe-4', 'antwerp', 'cafe', 'Buchbar', 4.4, 'Antwerp', '북카페.', 'Book café.', { reviewCount: 860 }),
   place('antwerp-cafe-5', 'antwerp', 'cafe', 'Vitrin', 4.3, 'Antwerp', '모던 카페.', 'Modern café.', { reviewCount: 720 }),
-  place('antwerp-korean-1', 'antwerp', 'korean', 'Korean Antwerp', 4.4, 'Antwerp', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 780 }),
-  place('antwerp-korean-2', 'antwerp', 'korean', 'Kimchi Antwerp', 4.3, 'Antwerp', '한식.', 'Korean.', { reviewCount: 560 }),
-  place('antwerp-korean-3', 'antwerp', 'korean', 'Korean BBQ Antwerp', 4.3, 'Antwerp', '구이.', 'BBQ.', { reviewCount: 640 }),
-  place('antwerp-korean-4', 'antwerp', 'korean', 'Bibimbap Antwerp', 4.2, 'Antwerp', '볼.', 'Bowls.', { reviewCount: 420 }),
 
   // —— leuven ——
   place('leuven-fine_dining-1', 'leuven', 'fine_dining', 'Restaurant Essentiel', 4.5, 'Leuven', '모던 다이닝.', 'Modern dining.', { reviewCount: 640 }),
@@ -74,8 +66,6 @@ export const placesBEExtra: Place[] = [
   place('leuven-cafe-2', 'leuven', 'cafe', 'Café Commerce', 4.3, 'Leuven', '클래식.', 'Classic.', { reviewCount: 1100 }),
   place('leuven-cafe-3', 'leuven', 'cafe', 'Oude Markt cafés', 4.2, 'Leuven', '광장 카페.', 'Square cafés.', { reviewCount: 1600 }),
   place('leuven-cafe-4', 'leuven', 'cafe', 'De Blauwe Kater café vibe', 4.3, 'Leuven', '인디 카페.', 'Indie café.', { reviewCount: 720 }),
-  place('leuven-korean-1', 'leuven', 'korean', 'Korean Leuven', 4.3, 'Leuven', '학생가 한식.', 'Student-area Korean.', { reviewCount: 560 }),
-  place('leuven-korean-2', 'leuven', 'korean', 'Kimchi Leuven', 4.2, 'Leuven', '캐주얼.', 'Casual.', { reviewCount: 420 }),
 
   // —— dinant ——
   place('dinant-fine_dining-1', 'dinant', 'fine_dining', 'Citadel-view restaurants', 4.4, 'Dinant', '시타델 전망 식당.', 'Citadel-view restaurants.', { reviewCount: 860 }),

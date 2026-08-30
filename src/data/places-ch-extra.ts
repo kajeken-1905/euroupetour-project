@@ -16,10 +16,6 @@ export const placesCHExtra: Place[] = [
   place('zurich-cafe-2', 'zurich', 'cafe', 'Milchbar', 4.5, 'Zurich', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1800 }),
   place('zurich-cafe-3', 'zurich', 'cafe', 'Balthasar / specialty peers', 4.5, 'Zurich', '스페셜티.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('zurich-cafe-4', 'zurich', 'cafe', 'Café Sprüngli', 4.4, 'Zurich', '페이스트리 카페.', 'Pastry café.', { reviewCount: 5400 }),
-  place('zurich-korean-1', 'zurich', 'korean', 'Korean Kitchen Zurich', 4.4, 'Zurich', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 800 }),
-  place('zurich-korean-2', 'zurich', 'korean', 'Bibimbap Zurich', 4.3, 'Zurich', '비빔밥.', 'Bibimbap.', { reviewCount: 620 }),
-  place('zurich-korean-3', 'zurich', 'korean', 'Korean BBQ Zurich', 4.3, 'Zurich', '고기구이.', 'Korean BBQ.', { reviewCount: 700 }),
-  place('zurich-korean-4', 'zurich', 'korean', 'Kimchi Zurich', 4.2, 'Zurich', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 480 }),
 
   // —— geneva ——
   place('geneva-fine_dining-1', 'geneva', 'fine_dining', 'Geneva Fine Dining 1', 4.5, 'Geneva', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesCHExtra: Place[] = [
   place('geneva-cafe-2', 'geneva', 'cafe', 'Old Town Café Geneva', 4.4, 'Geneva', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('geneva-cafe-3', 'geneva', 'cafe', 'Brunch Café Geneva', 4.3, 'Geneva', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('geneva-cafe-4', 'geneva', 'cafe', 'Espresso Bar Geneva', 4.3, 'Geneva', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('geneva-korean-1', 'geneva', 'korean', 'Korean Kitchen Geneva', 4.4, 'Geneva', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('geneva-korean-2', 'geneva', 'korean', 'Bibimbap Geneva', 4.3, 'Geneva', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('geneva-korean-3', 'geneva', 'korean', 'Korean BBQ Geneva', 4.3, 'Geneva', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('geneva-korean-4', 'geneva', 'korean', 'Kimchi House Geneva', 4.2, 'Geneva', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— bern ——
   place('bern-fine_dining-1', 'bern', 'fine_dining', 'Bern Fine Dining 1', 4.5, 'Bern', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesCHExtra: Place[] = [
   place('bern-cafe-2', 'bern', 'cafe', 'Old Town Café Bern', 4.4, 'Bern', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('bern-cafe-3', 'bern', 'cafe', 'Brunch Café Bern', 4.3, 'Bern', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('bern-cafe-4', 'bern', 'cafe', 'Espresso Bar Bern', 4.3, 'Bern', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('bern-korean-1', 'bern', 'korean', 'Korean Kitchen Bern', 4.4, 'Bern', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bern-korean-2', 'bern', 'korean', 'Bibimbap Bern', 4.3, 'Bern', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('bern-korean-3', 'bern', 'korean', 'Korean BBQ Bern', 4.3, 'Bern', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('bern-korean-4', 'bern', 'korean', 'Kimchi House Bern', 4.2, 'Bern', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— lucerne ——
   place('lucerne-fine_dining-1', 'lucerne', 'fine_dining', 'Lucerne Fine Dining 1', 4.5, 'Lucerne', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesCHExtra: Place[] = [
   place('lucerne-cafe-2', 'lucerne', 'cafe', 'Old Town Café Lucerne', 4.4, 'Lucerne', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('lucerne-cafe-3', 'lucerne', 'cafe', 'Brunch Café Lucerne', 4.3, 'Lucerne', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('lucerne-cafe-4', 'lucerne', 'cafe', 'Espresso Bar Lucerne', 4.3, 'Lucerne', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('lucerne-korean-1', 'lucerne', 'korean', 'Korean Kitchen Lucerne', 4.4, 'Lucerne', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('lucerne-korean-2', 'lucerne', 'korean', 'Bibimbap Lucerne', 4.3, 'Lucerne', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('lucerne-korean-3', 'lucerne', 'korean', 'Korean BBQ Lucerne', 4.3, 'Lucerne', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('lucerne-korean-4', 'lucerne', 'korean', 'Kimchi House Lucerne', 4.2, 'Lucerne', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— interlaken ——
   place('interlaken-fine_dining-1', 'interlaken', 'fine_dining', 'Interlaken Fine Dining 1', 4.5, 'Interlaken', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesCHExtra: Place[] = [
   place('interlaken-cafe-2', 'interlaken', 'cafe', 'Old Town Café Interlaken', 4.4, 'Interlaken', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('interlaken-cafe-3', 'interlaken', 'cafe', 'Brunch Café Interlaken', 4.3, 'Interlaken', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('interlaken-cafe-4', 'interlaken', 'cafe', 'Espresso Bar Interlaken', 4.3, 'Interlaken', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('interlaken-korean-1', 'interlaken', 'korean', 'Korean Kitchen Interlaken', 4.4, 'Interlaken', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('interlaken-korean-2', 'interlaken', 'korean', 'Bibimbap Interlaken', 4.3, 'Interlaken', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('interlaken-korean-3', 'interlaken', 'korean', 'Korean BBQ Interlaken', 4.3, 'Interlaken', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('interlaken-korean-4', 'interlaken', 'korean', 'Kimchi House Interlaken', 4.2, 'Interlaken', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— basel ——
   place('basel-fine_dining-1', 'basel', 'fine_dining', 'Basel Fine Dining 1', 4.5, 'Basel', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesCHExtra: Place[] = [
   place('basel-cafe-2', 'basel', 'cafe', 'Old Town Café Basel', 4.4, 'Basel', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('basel-cafe-3', 'basel', 'cafe', 'Brunch Café Basel', 4.3, 'Basel', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('basel-cafe-4', 'basel', 'cafe', 'Espresso Bar Basel', 4.3, 'Basel', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('basel-korean-1', 'basel', 'korean', 'Korean Kitchen Basel', 4.4, 'Basel', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('basel-korean-2', 'basel', 'korean', 'Bibimbap Basel', 4.3, 'Basel', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('basel-korean-3', 'basel', 'korean', 'Korean BBQ Basel', 4.3, 'Basel', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('basel-korean-4', 'basel', 'korean', 'Kimchi House Basel', 4.2, 'Basel', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— zermatt ——
   place('zermatt-fine_dining-1', 'zermatt', 'fine_dining', 'Zermatt Fine Dining 1', 4.5, 'Zermatt', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesCHExtra: Place[] = [
   place('zermatt-cafe-2', 'zermatt', 'cafe', 'Old Town Café Zermatt', 4.4, 'Zermatt', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('zermatt-cafe-3', 'zermatt', 'cafe', 'Brunch Café Zermatt', 4.3, 'Zermatt', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('zermatt-cafe-4', 'zermatt', 'cafe', 'Espresso Bar Zermatt', 4.3, 'Zermatt', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('zermatt-korean-1', 'zermatt', 'korean', 'Korean Kitchen Zermatt', 4.4, 'Zermatt', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('zermatt-korean-2', 'zermatt', 'korean', 'Bibimbap Zermatt', 4.3, 'Zermatt', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('zermatt-korean-3', 'zermatt', 'korean', 'Korean BBQ Zermatt', 4.3, 'Zermatt', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('zermatt-korean-4', 'zermatt', 'korean', 'Kimchi House Zermatt', 4.2, 'Zermatt', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— lausanne ——
   place('lausanne-fine_dining-1', 'lausanne', 'fine_dining', 'Lausanne Fine Dining 1', 4.5, 'Lausanne', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,10 +121,6 @@ export const placesCHExtra: Place[] = [
   place('lausanne-cafe-2', 'lausanne', 'cafe', 'Old Town Café Lausanne', 4.4, 'Lausanne', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('lausanne-cafe-3', 'lausanne', 'cafe', 'Brunch Café Lausanne', 4.3, 'Lausanne', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('lausanne-cafe-4', 'lausanne', 'cafe', 'Espresso Bar Lausanne', 4.3, 'Lausanne', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('lausanne-korean-1', 'lausanne', 'korean', 'Korean Kitchen Lausanne', 4.4, 'Lausanne', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('lausanne-korean-2', 'lausanne', 'korean', 'Bibimbap Lausanne', 4.3, 'Lausanne', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('lausanne-korean-3', 'lausanne', 'korean', 'Korean BBQ Lausanne', 4.3, 'Lausanne', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('lausanne-korean-4', 'lausanne', 'korean', 'Kimchi House Lausanne', 4.2, 'Lausanne', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— lugano ——
   place('lugano-fine_dining-1', 'lugano', 'fine_dining', 'Lugano Fine Dining 1', 4.5, 'Lugano', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -168,10 +136,6 @@ export const placesCHExtra: Place[] = [
   place('lugano-cafe-2', 'lugano', 'cafe', 'Old Town Café Lugano', 4.4, 'Lugano', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('lugano-cafe-3', 'lugano', 'cafe', 'Brunch Café Lugano', 4.3, 'Lugano', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('lugano-cafe-4', 'lugano', 'cafe', 'Espresso Bar Lugano', 4.3, 'Lugano', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('lugano-korean-1', 'lugano', 'korean', 'Korean Kitchen Lugano', 4.4, 'Lugano', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('lugano-korean-2', 'lugano', 'korean', 'Bibimbap Lugano', 4.3, 'Lugano', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('lugano-korean-3', 'lugano', 'korean', 'Korean BBQ Lugano', 4.3, 'Lugano', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('lugano-korean-4', 'lugano', 'korean', 'Kimchi House Lugano', 4.2, 'Lugano', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— montreux ——
   place('montreux-fine_dining-1', 'montreux', 'fine_dining', 'Montreux Fine Dining 1', 4.5, 'Montreux', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -187,10 +151,6 @@ export const placesCHExtra: Place[] = [
   place('montreux-cafe-2', 'montreux', 'cafe', 'Old Town Café Montreux', 4.4, 'Montreux', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('montreux-cafe-3', 'montreux', 'cafe', 'Brunch Café Montreux', 4.3, 'Montreux', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('montreux-cafe-4', 'montreux', 'cafe', 'Espresso Bar Montreux', 4.3, 'Montreux', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('montreux-korean-1', 'montreux', 'korean', 'Korean Kitchen Montreux', 4.4, 'Montreux', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('montreux-korean-2', 'montreux', 'korean', 'Bibimbap Montreux', 4.3, 'Montreux', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('montreux-korean-3', 'montreux', 'korean', 'Korean BBQ Montreux', 4.3, 'Montreux', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('montreux-korean-4', 'montreux', 'korean', 'Kimchi House Montreux', 4.2, 'Montreux', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— grindelwald ——
   place('grindelwald-fine_dining-1', 'grindelwald', 'fine_dining', 'Grindelwald Fine Dining 1', 4.5, 'Grindelwald', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -206,10 +166,6 @@ export const placesCHExtra: Place[] = [
   place('grindelwald-cafe-2', 'grindelwald', 'cafe', 'Old Town Café Grindelwald', 4.4, 'Grindelwald', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('grindelwald-cafe-3', 'grindelwald', 'cafe', 'Brunch Café Grindelwald', 4.3, 'Grindelwald', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('grindelwald-cafe-4', 'grindelwald', 'cafe', 'Espresso Bar Grindelwald', 4.3, 'Grindelwald', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('grindelwald-korean-1', 'grindelwald', 'korean', 'Korean Kitchen Grindelwald', 4.4, 'Grindelwald', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('grindelwald-korean-2', 'grindelwald', 'korean', 'Bibimbap Grindelwald', 4.3, 'Grindelwald', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('grindelwald-korean-3', 'grindelwald', 'korean', 'Korean BBQ Grindelwald', 4.3, 'Grindelwald', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('grindelwald-korean-4', 'grindelwald', 'korean', 'Kimchi House Grindelwald', 4.2, 'Grindelwald', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— st-moritz ——
   place('st-moritz-fine_dining-1', 'st-moritz', 'fine_dining', 'St. Moritz Fine Dining 1', 4.5, 'St. Moritz', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -225,9 +181,5 @@ export const placesCHExtra: Place[] = [
   place('st-moritz-cafe-2', 'st-moritz', 'cafe', 'Old Town Café St. Moritz', 4.4, 'St. Moritz', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('st-moritz-cafe-3', 'st-moritz', 'cafe', 'Brunch Café St. Moritz', 4.3, 'St. Moritz', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('st-moritz-cafe-4', 'st-moritz', 'cafe', 'Espresso Bar St. Moritz', 4.3, 'St. Moritz', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('st-moritz-korean-1', 'st-moritz', 'korean', 'Korean Kitchen St. Moritz', 4.4, 'St. Moritz', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('st-moritz-korean-2', 'st-moritz', 'korean', 'Bibimbap St. Moritz', 4.3, 'St. Moritz', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('st-moritz-korean-3', 'st-moritz', 'korean', 'Korean BBQ St. Moritz', 4.3, 'St. Moritz', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('st-moritz-korean-4', 'st-moritz', 'korean', 'Kimchi House St. Moritz', 4.2, 'St. Moritz', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

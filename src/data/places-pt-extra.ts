@@ -16,10 +16,6 @@ export const placesPTExtra: Place[] = [
   place('lisbon-cafe-2', 'lisbon', 'cafe', 'Copenhagen Coffee Lab', 4.5, 'Lisbon', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
   place('lisbon-cafe-3', 'lisbon', 'cafe', 'Fabrica Coffee Roasters', 4.5, 'Lisbon', '로스터리 카페.', 'Roastery café.', { reviewCount: 2400 }),
   place('lisbon-cafe-4', 'lisbon', 'cafe', 'Dear Breakfast', 4.4, 'Lisbon', '브런치 카페.', 'Brunch café.', { reviewCount: 2800 }),
-  place('lisbon-korean-1', 'lisbon', 'korean', 'Korean Kitchen Lisbon', 4.4, 'Lisbon', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 700 }),
-  place('lisbon-korean-2', 'lisbon', 'korean', 'Bibimbap Lisbon', 4.3, 'Lisbon', '비빔밥.', 'Bibimbap.', { reviewCount: 560 }),
-  place('lisbon-korean-3', 'lisbon', 'korean', 'Korean BBQ Lisbon', 4.3, 'Lisbon', '고기구이.', 'Korean BBQ.', { reviewCount: 520 }),
-  place('lisbon-korean-4', 'lisbon', 'korean', 'Kimchi Lisbon', 4.2, 'Lisbon', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 400 }),
 
   // —— porto ——
   place('porto-fine_dining-1', 'porto', 'fine_dining', 'Porto Fine Dining 1', 4.5, 'Porto', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesPTExtra: Place[] = [
   place('porto-cafe-2', 'porto', 'cafe', 'Old Town Café Porto', 4.4, 'Porto', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('porto-cafe-3', 'porto', 'cafe', 'Brunch Café Porto', 4.3, 'Porto', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('porto-cafe-4', 'porto', 'cafe', 'Espresso Bar Porto', 4.3, 'Porto', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('porto-korean-1', 'porto', 'korean', 'Korean Kitchen Porto', 4.4, 'Porto', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('porto-korean-2', 'porto', 'korean', 'Bibimbap Porto', 4.3, 'Porto', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('porto-korean-3', 'porto', 'korean', 'Korean BBQ Porto', 4.3, 'Porto', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('porto-korean-4', 'porto', 'korean', 'Kimchi House Porto', 4.2, 'Porto', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— sintra ——
   place('sintra-fine_dining-1', 'sintra', 'fine_dining', 'Sintra Fine Dining 1', 4.5, 'Sintra', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesPTExtra: Place[] = [
   place('sintra-cafe-2', 'sintra', 'cafe', 'Old Town Café Sintra', 4.4, 'Sintra', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('sintra-cafe-3', 'sintra', 'cafe', 'Brunch Café Sintra', 4.3, 'Sintra', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('sintra-cafe-4', 'sintra', 'cafe', 'Espresso Bar Sintra', 4.3, 'Sintra', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('sintra-korean-1', 'sintra', 'korean', 'Korean Kitchen Sintra', 4.4, 'Sintra', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('sintra-korean-2', 'sintra', 'korean', 'Bibimbap Sintra', 4.3, 'Sintra', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('sintra-korean-3', 'sintra', 'korean', 'Korean BBQ Sintra', 4.3, 'Sintra', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('sintra-korean-4', 'sintra', 'korean', 'Kimchi House Sintra', 4.2, 'Sintra', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— faro ——
   place('faro-fine_dining-1', 'faro', 'fine_dining', 'Faro Fine Dining 1', 4.5, 'Faro', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesPTExtra: Place[] = [
   place('faro-cafe-2', 'faro', 'cafe', 'Old Town Café Faro', 4.4, 'Faro', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('faro-cafe-3', 'faro', 'cafe', 'Brunch Café Faro', 4.3, 'Faro', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('faro-cafe-4', 'faro', 'cafe', 'Espresso Bar Faro', 4.3, 'Faro', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('faro-korean-1', 'faro', 'korean', 'Korean Kitchen Faro', 4.4, 'Faro', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('faro-korean-2', 'faro', 'korean', 'Bibimbap Faro', 4.3, 'Faro', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('faro-korean-3', 'faro', 'korean', 'Korean BBQ Faro', 4.3, 'Faro', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('faro-korean-4', 'faro', 'korean', 'Kimchi House Faro', 4.2, 'Faro', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— coimbra ——
   place('coimbra-fine_dining-1', 'coimbra', 'fine_dining', 'Coimbra Fine Dining 1', 4.5, 'Coimbra', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesPTExtra: Place[] = [
   place('coimbra-cafe-2', 'coimbra', 'cafe', 'Old Town Café Coimbra', 4.4, 'Coimbra', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('coimbra-cafe-3', 'coimbra', 'cafe', 'Brunch Café Coimbra', 4.3, 'Coimbra', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('coimbra-cafe-4', 'coimbra', 'cafe', 'Espresso Bar Coimbra', 4.3, 'Coimbra', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('coimbra-korean-1', 'coimbra', 'korean', 'Korean Kitchen Coimbra', 4.4, 'Coimbra', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('coimbra-korean-2', 'coimbra', 'korean', 'Bibimbap Coimbra', 4.3, 'Coimbra', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('coimbra-korean-3', 'coimbra', 'korean', 'Korean BBQ Coimbra', 4.3, 'Coimbra', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('coimbra-korean-4', 'coimbra', 'korean', 'Kimchi House Coimbra', 4.2, 'Coimbra', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— funchal ——
   place('funchal-fine_dining-1', 'funchal', 'fine_dining', 'Funchal Fine Dining 1', 4.5, 'Funchal', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesPTExtra: Place[] = [
   place('funchal-cafe-2', 'funchal', 'cafe', 'Old Town Café Funchal', 4.4, 'Funchal', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('funchal-cafe-3', 'funchal', 'cafe', 'Brunch Café Funchal', 4.3, 'Funchal', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('funchal-cafe-4', 'funchal', 'cafe', 'Espresso Bar Funchal', 4.3, 'Funchal', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('funchal-korean-1', 'funchal', 'korean', 'Korean Kitchen Funchal', 4.4, 'Funchal', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('funchal-korean-2', 'funchal', 'korean', 'Bibimbap Funchal', 4.3, 'Funchal', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('funchal-korean-3', 'funchal', 'korean', 'Korean BBQ Funchal', 4.3, 'Funchal', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('funchal-korean-4', 'funchal', 'korean', 'Kimchi House Funchal', 4.2, 'Funchal', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— lagos ——
   place('lagos-fine_dining-1', 'lagos', 'fine_dining', 'Lagos Fine Dining 1', 4.5, 'Lagos', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesPTExtra: Place[] = [
   place('lagos-cafe-2', 'lagos', 'cafe', 'Old Town Café Lagos', 4.4, 'Lagos', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('lagos-cafe-3', 'lagos', 'cafe', 'Brunch Café Lagos', 4.3, 'Lagos', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('lagos-cafe-4', 'lagos', 'cafe', 'Espresso Bar Lagos', 4.3, 'Lagos', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('lagos-korean-1', 'lagos', 'korean', 'Korean Kitchen Lagos', 4.4, 'Lagos', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('lagos-korean-2', 'lagos', 'korean', 'Bibimbap Lagos', 4.3, 'Lagos', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('lagos-korean-3', 'lagos', 'korean', 'Korean BBQ Lagos', 4.3, 'Lagos', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('lagos-korean-4', 'lagos', 'korean', 'Kimchi House Lagos', 4.2, 'Lagos', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— cascais ——
   place('cascais-fine_dining-1', 'cascais', 'fine_dining', 'Cascais Fine Dining 1', 4.5, 'Cascais', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,10 +121,6 @@ export const placesPTExtra: Place[] = [
   place('cascais-cafe-2', 'cascais', 'cafe', 'Old Town Café Cascais', 4.4, 'Cascais', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('cascais-cafe-3', 'cascais', 'cafe', 'Brunch Café Cascais', 4.3, 'Cascais', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('cascais-cafe-4', 'cascais', 'cafe', 'Espresso Bar Cascais', 4.3, 'Cascais', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('cascais-korean-1', 'cascais', 'korean', 'Korean Kitchen Cascais', 4.4, 'Cascais', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('cascais-korean-2', 'cascais', 'korean', 'Bibimbap Cascais', 4.3, 'Cascais', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('cascais-korean-3', 'cascais', 'korean', 'Korean BBQ Cascais', 4.3, 'Cascais', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('cascais-korean-4', 'cascais', 'korean', 'Kimchi House Cascais', 4.2, 'Cascais', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— aveiro ——
   place('aveiro-fine_dining-1', 'aveiro', 'fine_dining', 'Aveiro Fine Dining 1', 4.5, 'Aveiro', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -168,10 +136,6 @@ export const placesPTExtra: Place[] = [
   place('aveiro-cafe-2', 'aveiro', 'cafe', 'Old Town Café Aveiro', 4.4, 'Aveiro', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('aveiro-cafe-3', 'aveiro', 'cafe', 'Brunch Café Aveiro', 4.3, 'Aveiro', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('aveiro-cafe-4', 'aveiro', 'cafe', 'Espresso Bar Aveiro', 4.3, 'Aveiro', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('aveiro-korean-1', 'aveiro', 'korean', 'Korean Kitchen Aveiro', 4.4, 'Aveiro', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('aveiro-korean-2', 'aveiro', 'korean', 'Bibimbap Aveiro', 4.3, 'Aveiro', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('aveiro-korean-3', 'aveiro', 'korean', 'Korean BBQ Aveiro', 4.3, 'Aveiro', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('aveiro-korean-4', 'aveiro', 'korean', 'Kimchi House Aveiro', 4.2, 'Aveiro', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— fatima ——
   place('fatima-fine_dining-1', 'fatima', 'fine_dining', 'Fátima Fine Dining 1', 4.5, 'Fátima', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -187,10 +151,6 @@ export const placesPTExtra: Place[] = [
   place('fatima-cafe-2', 'fatima', 'cafe', 'Old Town Café Fátima', 4.4, 'Fátima', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('fatima-cafe-3', 'fatima', 'cafe', 'Brunch Café Fátima', 4.3, 'Fátima', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('fatima-cafe-4', 'fatima', 'cafe', 'Espresso Bar Fátima', 4.3, 'Fátima', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('fatima-korean-1', 'fatima', 'korean', 'Korean Kitchen Fátima', 4.4, 'Fátima', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('fatima-korean-2', 'fatima', 'korean', 'Bibimbap Fátima', 4.3, 'Fátima', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('fatima-korean-3', 'fatima', 'korean', 'Korean BBQ Fátima', 4.3, 'Fátima', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('fatima-korean-4', 'fatima', 'korean', 'Kimchi House Fátima', 4.2, 'Fátima', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— evora ——
   place('evora-fine_dining-1', 'evora', 'fine_dining', 'Évora Fine Dining 1', 4.5, 'Évora', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -206,10 +166,6 @@ export const placesPTExtra: Place[] = [
   place('evora-cafe-2', 'evora', 'cafe', 'Old Town Café Évora', 4.4, 'Évora', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('evora-cafe-3', 'evora', 'cafe', 'Brunch Café Évora', 4.3, 'Évora', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('evora-cafe-4', 'evora', 'cafe', 'Espresso Bar Évora', 4.3, 'Évora', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('evora-korean-1', 'evora', 'korean', 'Korean Kitchen Évora', 4.4, 'Évora', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('evora-korean-2', 'evora', 'korean', 'Bibimbap Évora', 4.3, 'Évora', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('evora-korean-3', 'evora', 'korean', 'Korean BBQ Évora', 4.3, 'Évora', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('evora-korean-4', 'evora', 'korean', 'Kimchi House Évora', 4.2, 'Évora', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— obidos ——
   place('obidos-fine_dining-1', 'obidos', 'fine_dining', 'Óbidos Fine Dining 1', 4.5, 'Óbidos', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -225,10 +181,6 @@ export const placesPTExtra: Place[] = [
   place('obidos-cafe-2', 'obidos', 'cafe', 'Old Town Café Óbidos', 4.4, 'Óbidos', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('obidos-cafe-3', 'obidos', 'cafe', 'Brunch Café Óbidos', 4.3, 'Óbidos', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('obidos-cafe-4', 'obidos', 'cafe', 'Espresso Bar Óbidos', 4.3, 'Óbidos', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('obidos-korean-1', 'obidos', 'korean', 'Korean Kitchen Óbidos', 4.4, 'Óbidos', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('obidos-korean-2', 'obidos', 'korean', 'Bibimbap Óbidos', 4.3, 'Óbidos', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('obidos-korean-3', 'obidos', 'korean', 'Korean BBQ Óbidos', 4.3, 'Óbidos', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('obidos-korean-4', 'obidos', 'korean', 'Kimchi House Óbidos', 4.2, 'Óbidos', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— braga ——
   place('braga-fine_dining-1', 'braga', 'fine_dining', 'Braga Fine Dining 1', 4.5, 'Braga', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -244,10 +196,6 @@ export const placesPTExtra: Place[] = [
   place('braga-cafe-2', 'braga', 'cafe', 'Old Town Café Braga', 4.4, 'Braga', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('braga-cafe-3', 'braga', 'cafe', 'Brunch Café Braga', 4.3, 'Braga', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('braga-cafe-4', 'braga', 'cafe', 'Espresso Bar Braga', 4.3, 'Braga', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('braga-korean-1', 'braga', 'korean', 'Korean Kitchen Braga', 4.4, 'Braga', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('braga-korean-2', 'braga', 'korean', 'Bibimbap Braga', 4.3, 'Braga', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('braga-korean-3', 'braga', 'korean', 'Korean BBQ Braga', 4.3, 'Braga', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('braga-korean-4', 'braga', 'korean', 'Kimchi House Braga', 4.2, 'Braga', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 
   // —— nazare ——
@@ -264,10 +212,6 @@ export const placesPTExtra: Place[] = [
   place('nazare-cafe-2', 'nazare', 'cafe', 'Old Town Café Nazaré', 4.4, 'Nazaré', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('nazare-cafe-3', 'nazare', 'cafe', 'Brunch Café Nazaré', 4.3, 'Nazaré', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('nazare-cafe-4', 'nazare', 'cafe', 'Espresso Bar Nazaré', 4.3, 'Nazaré', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('nazare-korean-1', 'nazare', 'korean', 'Korean Kitchen Nazaré', 4.4, 'Nazaré', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('nazare-korean-2', 'nazare', 'korean', 'Bibimbap Nazaré', 4.3, 'Nazaré', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('nazare-korean-3', 'nazare', 'korean', 'Korean BBQ Nazaré', 4.3, 'Nazaré', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('nazare-korean-4', 'nazare', 'korean', 'Kimchi House Nazaré', 4.2, 'Nazaré', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— guimaraes ——
   place('guimaraes-fine_dining-1', 'guimaraes', 'fine_dining', 'Guimarães Fine Dining 1', 4.5, 'Guimarães', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -283,9 +227,5 @@ export const placesPTExtra: Place[] = [
   place('guimaraes-cafe-2', 'guimaraes', 'cafe', 'Old Town Café Guimarães', 4.4, 'Guimarães', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('guimaraes-cafe-3', 'guimaraes', 'cafe', 'Brunch Café Guimarães', 4.3, 'Guimarães', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('guimaraes-cafe-4', 'guimaraes', 'cafe', 'Espresso Bar Guimarães', 4.3, 'Guimarães', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('guimaraes-korean-1', 'guimaraes', 'korean', 'Korean Kitchen Guimarães', 4.4, 'Guimarães', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('guimaraes-korean-2', 'guimaraes', 'korean', 'Bibimbap Guimarães', 4.3, 'Guimarães', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('guimaraes-korean-3', 'guimaraes', 'korean', 'Korean BBQ Guimarães', 4.3, 'Guimarães', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('guimaraes-korean-4', 'guimaraes', 'korean', 'Kimchi House Guimarães', 4.2, 'Guimarães', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

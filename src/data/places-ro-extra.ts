@@ -16,10 +16,6 @@ export const placesROExtra: Place[] = [
   place('bucharest-cafe-2', 'bucharest', 'cafe', 'Steam Coffee / peers', 4.5, 'Bucharest', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('bucharest-cafe-3', 'bucharest', 'cafe', 'Cafeneaua Veche peers', 4.3, 'Bucharest', '구시가 클래식 카페.', 'Old-town classic café.', { reviewCount: 2800 }),
   place('bucharest-cafe-4', 'bucharest', 'cafe', 'brunch cafés Centru Vechi', 4.4, 'Bucharest', '구시가 브런치.', 'Old-town brunch.', { reviewCount: 1600 }),
-  place('bucharest-korean-1', 'bucharest', 'korean', 'Korean Kitchen Bucharest', 4.4, 'Bucharest', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bucharest-korean-2', 'bucharest', 'korean', 'Bibimbap Bucharest', 4.3, 'Bucharest', '비빔밥.', 'Bibimbap.', { reviewCount: 480 }),
-  place('bucharest-korean-3', 'bucharest', 'korean', 'Korean BBQ Bucharest', 4.3, 'Bucharest', '고기구이.', 'Korean BBQ.', { reviewCount: 520 }),
-  place('bucharest-korean-4', 'bucharest', 'korean', 'Kimchi Bucharest', 4.2, 'Bucharest', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 360 }),
 
   // —— brasov ——
   place('brasov-fine_dining-1', 'brasov', 'fine_dining', 'Brașov Fine Dining 1', 4.5, 'Brașov', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesROExtra: Place[] = [
   place('brasov-cafe-2', 'brasov', 'cafe', 'Old Town Café Brașov', 4.4, 'Brașov', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('brasov-cafe-3', 'brasov', 'cafe', 'Brunch Café Brașov', 4.3, 'Brașov', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('brasov-cafe-4', 'brasov', 'cafe', 'Espresso Bar Brașov', 4.3, 'Brașov', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('brasov-korean-1', 'brasov', 'korean', 'Korean Kitchen Brașov', 4.4, 'Brașov', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('brasov-korean-2', 'brasov', 'korean', 'Bibimbap Brașov', 4.3, 'Brașov', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('brasov-korean-3', 'brasov', 'korean', 'Korean BBQ Brașov', 4.3, 'Brașov', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('brasov-korean-4', 'brasov', 'korean', 'Kimchi House Brașov', 4.2, 'Brașov', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— sibiu ——
   place('sibiu-fine_dining-1', 'sibiu', 'fine_dining', 'Sibiu Fine Dining 1', 4.5, 'Sibiu', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesROExtra: Place[] = [
   place('sibiu-cafe-2', 'sibiu', 'cafe', 'Old Town Café Sibiu', 4.4, 'Sibiu', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('sibiu-cafe-3', 'sibiu', 'cafe', 'Brunch Café Sibiu', 4.3, 'Sibiu', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('sibiu-cafe-4', 'sibiu', 'cafe', 'Espresso Bar Sibiu', 4.3, 'Sibiu', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('sibiu-korean-1', 'sibiu', 'korean', 'Korean Kitchen Sibiu', 4.4, 'Sibiu', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('sibiu-korean-2', 'sibiu', 'korean', 'Bibimbap Sibiu', 4.3, 'Sibiu', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('sibiu-korean-3', 'sibiu', 'korean', 'Korean BBQ Sibiu', 4.3, 'Sibiu', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('sibiu-korean-4', 'sibiu', 'korean', 'Kimchi House Sibiu', 4.2, 'Sibiu', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— sighisoara ——
   place('sighisoara-fine_dining-1', 'sighisoara', 'fine_dining', 'Sighișoara Fine Dining 1', 4.5, 'Sighișoara', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesROExtra: Place[] = [
   place('sighisoara-cafe-2', 'sighisoara', 'cafe', 'Old Town Café Sighișoara', 4.4, 'Sighișoara', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('sighisoara-cafe-3', 'sighisoara', 'cafe', 'Brunch Café Sighișoara', 4.3, 'Sighișoara', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('sighisoara-cafe-4', 'sighisoara', 'cafe', 'Espresso Bar Sighișoara', 4.3, 'Sighișoara', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('sighisoara-korean-1', 'sighisoara', 'korean', 'Korean Kitchen Sighișoara', 4.4, 'Sighișoara', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('sighisoara-korean-2', 'sighisoara', 'korean', 'Bibimbap Sighișoara', 4.3, 'Sighișoara', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('sighisoara-korean-3', 'sighisoara', 'korean', 'Korean BBQ Sighișoara', 4.3, 'Sighișoara', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('sighisoara-korean-4', 'sighisoara', 'korean', 'Kimchi House Sighișoara', 4.2, 'Sighișoara', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— cluj-napoca ——
   place('cluj-napoca-fine_dining-1', 'cluj-napoca', 'fine_dining', 'Cluj-Napoca Fine Dining 1', 4.5, 'Cluj-Napoca', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesROExtra: Place[] = [
   place('cluj-napoca-cafe-2', 'cluj-napoca', 'cafe', 'Old Town Café Cluj-Napoca', 4.4, 'Cluj-Napoca', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('cluj-napoca-cafe-3', 'cluj-napoca', 'cafe', 'Brunch Café Cluj-Napoca', 4.3, 'Cluj-Napoca', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('cluj-napoca-cafe-4', 'cluj-napoca', 'cafe', 'Espresso Bar Cluj-Napoca', 4.3, 'Cluj-Napoca', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('cluj-napoca-korean-1', 'cluj-napoca', 'korean', 'Korean Kitchen Cluj-Napoca', 4.4, 'Cluj-Napoca', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('cluj-napoca-korean-2', 'cluj-napoca', 'korean', 'Bibimbap Cluj-Napoca', 4.3, 'Cluj-Napoca', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('cluj-napoca-korean-3', 'cluj-napoca', 'korean', 'Korean BBQ Cluj-Napoca', 4.3, 'Cluj-Napoca', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('cluj-napoca-korean-4', 'cluj-napoca', 'korean', 'Kimchi House Cluj-Napoca', 4.2, 'Cluj-Napoca', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— timisoara ——
   place('timisoara-fine_dining-1', 'timisoara', 'fine_dining', 'Timișoara Fine Dining 1', 4.5, 'Timișoara', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,9 +91,5 @@ export const placesROExtra: Place[] = [
   place('timisoara-cafe-2', 'timisoara', 'cafe', 'Old Town Café Timișoara', 4.4, 'Timișoara', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('timisoara-cafe-3', 'timisoara', 'cafe', 'Brunch Café Timișoara', 4.3, 'Timișoara', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('timisoara-cafe-4', 'timisoara', 'cafe', 'Espresso Bar Timișoara', 4.3, 'Timișoara', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('timisoara-korean-1', 'timisoara', 'korean', 'Korean Kitchen Timișoara', 4.4, 'Timișoara', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('timisoara-korean-2', 'timisoara', 'korean', 'Bibimbap Timișoara', 4.3, 'Timișoara', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('timisoara-korean-3', 'timisoara', 'korean', 'Korean BBQ Timișoara', 4.3, 'Timișoara', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('timisoara-korean-4', 'timisoara', 'korean', 'Kimchi House Timișoara', 4.2, 'Timișoara', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

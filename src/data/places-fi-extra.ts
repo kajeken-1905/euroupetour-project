@@ -15,7 +15,6 @@ export const placesFIExtra: Place[] = [
   place('turku-cafe-2', 'turku', 'cafe', 'Café Staffeln', 4.3, 'Turku', '로컬 카페.', 'Local café.', { reviewCount: 680 }),
   place('turku-cafe-3', 'turku', 'cafe', 'River cafés', 4.3, 'Turku', '강변 카페.', 'River cafés.', { reviewCount: 1200 }),
   place('turku-cafe-4', 'turku', 'cafe', 'Market Square cafés', 4.2, 'Turku', '시장 카페.', 'Market cafés.', { reviewCount: 900 }),
-  place('turku-korean-1', 'turku', 'korean', 'Korean Turku', 4.2, 'Turku', '제한적.', 'Limited.', { reviewCount: 280 }),
 
   // —— tampere ——
   place('tampere-fine_dining-1', 'tampere', 'fine_dining', 'Restaurant Bertha', 4.5, 'Tampere', '모던 다이닝.', 'Modern dining.', { reviewCount: 640 }),
@@ -30,8 +29,6 @@ export const placesFIExtra: Place[] = [
   place('tampere-cafe-2', 'tampere', 'cafe', 'Specialty coffee Tampere', 4.5, 'Tampere', '스페셜티.', 'Specialty.', { reviewCount: 980 }),
   place('tampere-cafe-3', 'tampere', 'cafe', 'Finlayson area cafés', 4.3, 'Tampere', '공장지구 카페.', 'Factory-area cafés.', { reviewCount: 860 }),
   place('tampere-cafe-4', 'tampere', 'cafe', 'Student cafés', 4.2, 'Tampere', '대학 카페.', 'Student cafés.', { reviewCount: 720 }),
-  place('tampere-korean-1', 'tampere', 'korean', 'Korean Tampere', 4.3, 'Tampere', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 420 }),
-  place('tampere-korean-2', 'tampere', 'korean', 'Kimchi Tampere', 4.2, 'Tampere', '한식.', 'Korean.', { reviewCount: 320 }),
 
   // —— rovaniemi ——
   place('rovaniemi-fine_dining-1', 'rovaniemi', 'fine_dining', 'Arctic Boulevard restaurants', 4.4, 'Rovaniemi', '북극 테마 다이닝.', 'Arctic-themed dining.', { reviewCount: 980 }),
@@ -43,7 +40,6 @@ export const placesFIExtra: Place[] = [
   place('rovaniemi-cafe-1', 'rovaniemi', 'cafe', 'Café & Shop Arktikum', 4.3, 'Rovaniemi', '박물관 카페.', 'Museum café.', { reviewCount: 860 }),
   place('rovaniemi-cafe-2', 'rovaniemi', 'cafe', 'Town centre cafés', 4.3, 'Rovaniemi', '시내 카페.', 'Town cafés.', { reviewCount: 980 }),
   place('rovaniemi-cafe-3', 'rovaniemi', 'cafe', 'Santa Village cafés', 4.2, 'Rovaniemi', '산타 마을 카페.', 'Santa Village cafés.', { reviewCount: 1800 }),
-  place('rovaniemi-korean-1', 'rovaniemi', 'korean', 'Korean Rovaniemi', 4.0, 'Rovaniemi', '한식 제한적.', 'Limited Korean.', { reviewCount: 140 }),
 
   // —— porvoo ——
   place('porvoo-fine_dining-1', 'porvoo', 'fine_dining', 'Restaurant Wanha Laamanni', 4.5, 'Porvoo', '역사 건물 다이닝.', 'Historic building dining.', { reviewCount: 860 }),

@@ -16,10 +16,6 @@ export const placesIEExtra: Place[] = [
   place('dublin-cafe-2', 'dublin', 'cafe', 'Kaph', 4.5, 'Dublin', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('dublin-cafe-3', 'dublin', 'cafe', 'Bewley\'s', 4.3, 'Dublin', '클래식 카페.', 'Classic café.', { reviewCount: 6200 }),
   place('dublin-cafe-4', 'dublin', 'cafe', 'Two Boys Brew', 4.4, 'Dublin', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('dublin-korean-1', 'dublin', 'korean', 'Korean Kitchen Dublin', 4.4, 'Dublin', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 900 }),
-  place('dublin-korean-2', 'dublin', 'korean', 'Bibimbap Dublin', 4.3, 'Dublin', '비빔밥.', 'Bibimbap.', { reviewCount: 700 }),
-  place('dublin-korean-3', 'dublin', 'korean', 'Korean BBQ Dublin', 4.3, 'Dublin', '고기구이.', 'Korean BBQ.', { reviewCount: 800 }),
-  place('dublin-korean-4', 'dublin', 'korean', 'Kimchi Dublin', 4.2, 'Dublin', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 520 }),
 
   // —— galway ——
   place('galway-fine_dining-1', 'galway', 'fine_dining', 'Galway Fine Dining 1', 4.5, 'Galway', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesIEExtra: Place[] = [
   place('galway-cafe-2', 'galway', 'cafe', 'Old Town Café Galway', 4.4, 'Galway', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('galway-cafe-3', 'galway', 'cafe', 'Brunch Café Galway', 4.3, 'Galway', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('galway-cafe-4', 'galway', 'cafe', 'Espresso Bar Galway', 4.3, 'Galway', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('galway-korean-1', 'galway', 'korean', 'Korean Kitchen Galway', 4.4, 'Galway', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('galway-korean-2', 'galway', 'korean', 'Bibimbap Galway', 4.3, 'Galway', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('galway-korean-3', 'galway', 'korean', 'Korean BBQ Galway', 4.3, 'Galway', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('galway-korean-4', 'galway', 'korean', 'Kimchi House Galway', 4.2, 'Galway', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— cork ——
   place('cork-fine_dining-1', 'cork', 'fine_dining', 'Cork Fine Dining 1', 4.5, 'Cork', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesIEExtra: Place[] = [
   place('cork-cafe-2', 'cork', 'cafe', 'Old Town Café Cork', 4.4, 'Cork', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('cork-cafe-3', 'cork', 'cafe', 'Brunch Café Cork', 4.3, 'Cork', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('cork-cafe-4', 'cork', 'cafe', 'Espresso Bar Cork', 4.3, 'Cork', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('cork-korean-1', 'cork', 'korean', 'Korean Kitchen Cork', 4.4, 'Cork', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('cork-korean-2', 'cork', 'korean', 'Bibimbap Cork', 4.3, 'Cork', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('cork-korean-3', 'cork', 'korean', 'Korean BBQ Cork', 4.3, 'Cork', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('cork-korean-4', 'cork', 'korean', 'Kimchi House Cork', 4.2, 'Cork', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— killarney ——
   place('killarney-fine_dining-1', 'killarney', 'fine_dining', 'Killarney Fine Dining 1', 4.5, 'Killarney', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesIEExtra: Place[] = [
   place('killarney-cafe-2', 'killarney', 'cafe', 'Old Town Café Killarney', 4.4, 'Killarney', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('killarney-cafe-3', 'killarney', 'cafe', 'Brunch Café Killarney', 4.3, 'Killarney', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('killarney-cafe-4', 'killarney', 'cafe', 'Espresso Bar Killarney', 4.3, 'Killarney', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('killarney-korean-1', 'killarney', 'korean', 'Korean Kitchen Killarney', 4.4, 'Killarney', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('killarney-korean-2', 'killarney', 'korean', 'Bibimbap Killarney', 4.3, 'Killarney', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('killarney-korean-3', 'killarney', 'korean', 'Korean BBQ Killarney', 4.3, 'Killarney', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('killarney-korean-4', 'killarney', 'korean', 'Kimchi House Killarney', 4.2, 'Killarney', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— kilkenny ——
   place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'Kilkenny Fine Dining 1', 4.5, 'Kilkenny', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesIEExtra: Place[] = [
   place('kilkenny-cafe-2', 'kilkenny', 'cafe', 'Old Town Café Kilkenny', 4.4, 'Kilkenny', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('kilkenny-cafe-3', 'kilkenny', 'cafe', 'Brunch Café Kilkenny', 4.3, 'Kilkenny', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('kilkenny-cafe-4', 'kilkenny', 'cafe', 'Espresso Bar Kilkenny', 4.3, 'Kilkenny', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('kilkenny-korean-1', 'kilkenny', 'korean', 'Korean Kitchen Kilkenny', 4.4, 'Kilkenny', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('kilkenny-korean-2', 'kilkenny', 'korean', 'Bibimbap Kilkenny', 4.3, 'Kilkenny', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('kilkenny-korean-3', 'kilkenny', 'korean', 'Korean BBQ Kilkenny', 4.3, 'Kilkenny', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('kilkenny-korean-4', 'kilkenny', 'korean', 'Kimchi House Kilkenny', 4.2, 'Kilkenny', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— limerick ——
   place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Limerick Fine Dining 1', 4.5, 'Limerick', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,9 +91,5 @@ export const placesIEExtra: Place[] = [
   place('limerick-cafe-2', 'limerick', 'cafe', 'Old Town Café Limerick', 4.4, 'Limerick', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('limerick-cafe-3', 'limerick', 'cafe', 'Brunch Café Limerick', 4.3, 'Limerick', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('limerick-cafe-4', 'limerick', 'cafe', 'Espresso Bar Limerick', 4.3, 'Limerick', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('limerick-korean-1', 'limerick', 'korean', 'Korean Kitchen Limerick', 4.4, 'Limerick', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('limerick-korean-2', 'limerick', 'korean', 'Bibimbap Limerick', 4.3, 'Limerick', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('limerick-korean-3', 'limerick', 'korean', 'Korean BBQ Limerick', 4.3, 'Limerick', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('limerick-korean-4', 'limerick', 'korean', 'Kimchi House Limerick', 4.2, 'Limerick', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

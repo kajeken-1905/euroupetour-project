@@ -16,10 +16,6 @@ export const placesISExtra: Place[] = [
   place('reykjavik-cafe-2', 'reykjavik', 'cafe', 'Kaffitár', 4.3, 'Reykjavík', '로컬 커피 체인.', 'Local coffee chain.', { reviewCount: 2100 }),
   place('reykjavik-cafe-3', 'reykjavik', 'cafe', 'The Coocoo\'s Nest', 4.4, 'Reykjavík', '브런치 카페.', 'Brunch café.', { reviewCount: 1600 }),
   place('reykjavik-cafe-4', 'reykjavik', 'cafe', 'Stofan Café', 4.4, 'Reykjavík', '아늑한 카페.', 'Cosy café.', { reviewCount: 1800 }),
-  place('reykjavik-korean-1', 'reykjavik', 'korean', 'Korean Kitchen Reykjavík', 4.3, 'Reykjavík', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 320 }),
-  place('reykjavik-korean-2', 'reykjavik', 'korean', 'Bibimbap Reykjavík', 4.2, 'Reykjavík', '비빔밥.', 'Bibimbap.', { reviewCount: 240 }),
-  place('reykjavik-korean-3', 'reykjavik', 'korean', 'Korean BBQ Reykjavík', 4.2, 'Reykjavík', '고기구이.', 'Korean BBQ.', { reviewCount: 280 }),
-  place('reykjavik-korean-4', 'reykjavik', 'korean', 'Kimchi Reykjavík', 4.2, 'Reykjavík', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 200 }),
 
   // —— akureyri ——
   place('akureyri-fine_dining-1', 'akureyri', 'fine_dining', 'Akureyri Fine Dining 1', 4.5, 'Akureyri', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesISExtra: Place[] = [
   place('akureyri-cafe-2', 'akureyri', 'cafe', 'Old Town Café Akureyri', 4.4, 'Akureyri', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('akureyri-cafe-3', 'akureyri', 'cafe', 'Brunch Café Akureyri', 4.3, 'Akureyri', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('akureyri-cafe-4', 'akureyri', 'cafe', 'Espresso Bar Akureyri', 4.3, 'Akureyri', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('akureyri-korean-1', 'akureyri', 'korean', 'Korean Kitchen Akureyri', 4.4, 'Akureyri', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('akureyri-korean-2', 'akureyri', 'korean', 'Bibimbap Akureyri', 4.3, 'Akureyri', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('akureyri-korean-3', 'akureyri', 'korean', 'Korean BBQ Akureyri', 4.3, 'Akureyri', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('akureyri-korean-4', 'akureyri', 'korean', 'Kimchi House Akureyri', 4.2, 'Akureyri', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— vik ——
   place('vik-fine_dining-1', 'vik', 'fine_dining', 'Vík Fine Dining 1', 4.5, 'Vík', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesISExtra: Place[] = [
   place('vik-cafe-2', 'vik', 'cafe', 'Old Town Café Vík', 4.4, 'Vík', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('vik-cafe-3', 'vik', 'cafe', 'Brunch Café Vík', 4.3, 'Vík', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('vik-cafe-4', 'vik', 'cafe', 'Espresso Bar Vík', 4.3, 'Vík', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('vik-korean-1', 'vik', 'korean', 'Korean Kitchen Vík', 4.4, 'Vík', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('vik-korean-2', 'vik', 'korean', 'Bibimbap Vík', 4.3, 'Vík', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('vik-korean-3', 'vik', 'korean', 'Korean BBQ Vík', 4.3, 'Vík', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('vik-korean-4', 'vik', 'korean', 'Kimchi House Vík', 4.2, 'Vík', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— husavik ——
   place('husavik-fine_dining-1', 'husavik', 'fine_dining', 'Húsavík Fine Dining 1', 4.5, 'Húsavík', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesISExtra: Place[] = [
   place('husavik-cafe-2', 'husavik', 'cafe', 'Old Town Café Húsavík', 4.4, 'Húsavík', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('husavik-cafe-3', 'husavik', 'cafe', 'Brunch Café Húsavík', 4.3, 'Húsavík', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('husavik-cafe-4', 'husavik', 'cafe', 'Espresso Bar Húsavík', 4.3, 'Húsavík', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('husavik-korean-1', 'husavik', 'korean', 'Korean Kitchen Húsavík', 4.4, 'Húsavík', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('husavik-korean-2', 'husavik', 'korean', 'Bibimbap Húsavík', 4.3, 'Húsavík', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('husavik-korean-3', 'husavik', 'korean', 'Korean BBQ Húsavík', 4.3, 'Húsavík', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('husavik-korean-4', 'husavik', 'korean', 'Kimchi House Húsavík', 4.2, 'Húsavík', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— selfoss ——
   place('selfoss-fine_dining-1', 'selfoss', 'fine_dining', 'Selfoss Fine Dining 1', 4.5, 'Selfoss', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesISExtra: Place[] = [
   place('selfoss-cafe-2', 'selfoss', 'cafe', 'Old Town Café Selfoss', 4.4, 'Selfoss', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('selfoss-cafe-3', 'selfoss', 'cafe', 'Brunch Café Selfoss', 4.3, 'Selfoss', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('selfoss-cafe-4', 'selfoss', 'cafe', 'Espresso Bar Selfoss', 4.3, 'Selfoss', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('selfoss-korean-1', 'selfoss', 'korean', 'Korean Kitchen Selfoss', 4.4, 'Selfoss', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('selfoss-korean-2', 'selfoss', 'korean', 'Bibimbap Selfoss', 4.3, 'Selfoss', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('selfoss-korean-3', 'selfoss', 'korean', 'Korean BBQ Selfoss', 4.3, 'Selfoss', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('selfoss-korean-4', 'selfoss', 'korean', 'Kimchi House Selfoss', 4.2, 'Selfoss', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

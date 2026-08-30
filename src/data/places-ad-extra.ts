@@ -16,10 +16,6 @@ export const placesADExtra: Place[] = [
   place('andorra-la-vella-cafe-2', 'andorra-la-vella', 'cafe', 'Meritxell terrace café', 4.3, 'Andorra la Vella', '쇼핑가 테라스 카페.', 'Shopping terrace café.', { reviewCount: 1200 }),
   place('andorra-la-vella-cafe-3', 'andorra-la-vella', 'cafe', 'Old town café', 4.4, 'Andorra la Vella', '구시가 카페.', 'Old-town café.', { reviewCount: 860 }),
   place('andorra-la-vella-cafe-4', 'andorra-la-vella', 'cafe', 'Brunch café Caldea area', 4.3, 'Andorra la Vella', '칼데아 인근 브런치.', 'Brunch near Caldea.', { reviewCount: 640 }),
-  place('andorra-la-vella-korean-1', 'andorra-la-vella', 'korean', 'Korean Kitchen Andorra', 4.3, 'Andorra la Vella', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 240 }),
-  place('andorra-la-vella-korean-2', 'andorra-la-vella', 'korean', 'Bibimbap Andorra', 4.2, 'Andorra la Vella', '비빔밥.', 'Bibimbap.', { reviewCount: 180 }),
-  place('andorra-la-vella-korean-3', 'andorra-la-vella', 'korean', 'Korean BBQ Andorra', 4.2, 'Andorra la Vella', '고기구이.', 'Korean BBQ.', { reviewCount: 200 }),
-  place('andorra-la-vella-korean-4', 'andorra-la-vella', 'korean', 'Kimchi Andorra', 4.2, 'Andorra la Vella', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 140 }),
 
   // —— pas-de-la-casa ——
   place('pas-de-la-casa-fine_dining-1', 'pas-de-la-casa', 'fine_dining', 'Pas de la Casa Fine Dining 1', 4.5, 'Pas de la Casa', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesADExtra: Place[] = [
   place('pas-de-la-casa-cafe-2', 'pas-de-la-casa', 'cafe', 'Old Town Café Pas de la Casa', 4.4, 'Pas de la Casa', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('pas-de-la-casa-cafe-3', 'pas-de-la-casa', 'cafe', 'Brunch Café Pas de la Casa', 4.3, 'Pas de la Casa', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('pas-de-la-casa-cafe-4', 'pas-de-la-casa', 'cafe', 'Espresso Bar Pas de la Casa', 4.3, 'Pas de la Casa', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('pas-de-la-casa-korean-1', 'pas-de-la-casa', 'korean', 'Korean Kitchen Pas de la Casa', 4.4, 'Pas de la Casa', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('pas-de-la-casa-korean-2', 'pas-de-la-casa', 'korean', 'Bibimbap Pas de la Casa', 4.3, 'Pas de la Casa', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('pas-de-la-casa-korean-3', 'pas-de-la-casa', 'korean', 'Korean BBQ Pas de la Casa', 4.3, 'Pas de la Casa', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('pas-de-la-casa-korean-4', 'pas-de-la-casa', 'korean', 'Kimchi House Pas de la Casa', 4.2, 'Pas de la Casa', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— ordino ——
   place('ordino-fine_dining-1', 'ordino', 'fine_dining', 'Ordino Fine Dining 1', 4.5, 'Ordino', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,9 +46,5 @@ export const placesADExtra: Place[] = [
   place('ordino-cafe-2', 'ordino', 'cafe', 'Old Town Café Ordino', 4.4, 'Ordino', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('ordino-cafe-3', 'ordino', 'cafe', 'Brunch Café Ordino', 4.3, 'Ordino', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('ordino-cafe-4', 'ordino', 'cafe', 'Espresso Bar Ordino', 4.3, 'Ordino', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('ordino-korean-1', 'ordino', 'korean', 'Korean Kitchen Ordino', 4.4, 'Ordino', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('ordino-korean-2', 'ordino', 'korean', 'Bibimbap Ordino', 4.3, 'Ordino', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('ordino-korean-3', 'ordino', 'korean', 'Korean BBQ Ordino', 4.3, 'Ordino', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('ordino-korean-4', 'ordino', 'korean', 'Kimchi House Ordino', 4.2, 'Ordino', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

@@ -16,10 +16,6 @@ export const placesHRExtra: Place[] = [
   place('zagreb-cafe-2', 'zagreb', 'cafe', 'Eli\'s Caffé', 4.4, 'Zagreb', '로스터리 카페.', 'Roastery café.', { reviewCount: 1200 }),
   place('zagreb-cafe-3', 'zagreb', 'cafe', 'Kino Europa café peers', 4.3, 'Zagreb', '클래식 카페.', 'Classic café.', { reviewCount: 900 }),
   place('zagreb-cafe-4', 'zagreb', 'cafe', 'Botaničar', 4.4, 'Zagreb', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('zagreb-korean-1', 'zagreb', 'korean', 'Korean Kitchen Zagreb', 4.4, 'Zagreb', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 480 }),
-  place('zagreb-korean-2', 'zagreb', 'korean', 'Bibimbap Zagreb', 4.3, 'Zagreb', '비빔밥.', 'Bibimbap.', { reviewCount: 360 }),
-  place('zagreb-korean-3', 'zagreb', 'korean', 'Korean BBQ Zagreb', 4.3, 'Zagreb', '고기구이.', 'Korean BBQ.', { reviewCount: 400 }),
-  place('zagreb-korean-4', 'zagreb', 'korean', 'Kimchi Zagreb', 4.2, 'Zagreb', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 280 }),
 
   // —— dubrovnik ——
   place('dubrovnik-fine_dining-1', 'dubrovnik', 'fine_dining', 'Dubrovnik Fine Dining 1', 4.5, 'Dubrovnik', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesHRExtra: Place[] = [
   place('dubrovnik-cafe-2', 'dubrovnik', 'cafe', 'Old Town Café Dubrovnik', 4.4, 'Dubrovnik', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('dubrovnik-cafe-3', 'dubrovnik', 'cafe', 'Brunch Café Dubrovnik', 4.3, 'Dubrovnik', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('dubrovnik-cafe-4', 'dubrovnik', 'cafe', 'Espresso Bar Dubrovnik', 4.3, 'Dubrovnik', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('dubrovnik-korean-1', 'dubrovnik', 'korean', 'Korean Kitchen Dubrovnik', 4.4, 'Dubrovnik', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('dubrovnik-korean-2', 'dubrovnik', 'korean', 'Bibimbap Dubrovnik', 4.3, 'Dubrovnik', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('dubrovnik-korean-3', 'dubrovnik', 'korean', 'Korean BBQ Dubrovnik', 4.3, 'Dubrovnik', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('dubrovnik-korean-4', 'dubrovnik', 'korean', 'Kimchi House Dubrovnik', 4.2, 'Dubrovnik', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— split ——
   place('split-fine_dining-1', 'split', 'fine_dining', 'Split Fine Dining 1', 4.5, 'Split', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesHRExtra: Place[] = [
   place('split-cafe-2', 'split', 'cafe', 'Old Town Café Split', 4.4, 'Split', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('split-cafe-3', 'split', 'cafe', 'Brunch Café Split', 4.3, 'Split', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('split-cafe-4', 'split', 'cafe', 'Espresso Bar Split', 4.3, 'Split', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('split-korean-1', 'split', 'korean', 'Korean Kitchen Split', 4.4, 'Split', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('split-korean-2', 'split', 'korean', 'Bibimbap Split', 4.3, 'Split', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('split-korean-3', 'split', 'korean', 'Korean BBQ Split', 4.3, 'Split', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('split-korean-4', 'split', 'korean', 'Kimchi House Split', 4.2, 'Split', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— zadar ——
   place('zadar-fine_dining-1', 'zadar', 'fine_dining', 'Zadar Fine Dining 1', 4.5, 'Zadar', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesHRExtra: Place[] = [
   place('zadar-cafe-2', 'zadar', 'cafe', 'Old Town Café Zadar', 4.4, 'Zadar', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('zadar-cafe-3', 'zadar', 'cafe', 'Brunch Café Zadar', 4.3, 'Zadar', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('zadar-cafe-4', 'zadar', 'cafe', 'Espresso Bar Zadar', 4.3, 'Zadar', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('zadar-korean-1', 'zadar', 'korean', 'Korean Kitchen Zadar', 4.4, 'Zadar', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('zadar-korean-2', 'zadar', 'korean', 'Bibimbap Zadar', 4.3, 'Zadar', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('zadar-korean-3', 'zadar', 'korean', 'Korean BBQ Zadar', 4.3, 'Zadar', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('zadar-korean-4', 'zadar', 'korean', 'Kimchi House Zadar', 4.2, 'Zadar', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— rovinj ——
   place('rovinj-fine_dining-1', 'rovinj', 'fine_dining', 'Rovinj Fine Dining 1', 4.5, 'Rovinj', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesHRExtra: Place[] = [
   place('rovinj-cafe-2', 'rovinj', 'cafe', 'Old Town Café Rovinj', 4.4, 'Rovinj', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('rovinj-cafe-3', 'rovinj', 'cafe', 'Brunch Café Rovinj', 4.3, 'Rovinj', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('rovinj-cafe-4', 'rovinj', 'cafe', 'Espresso Bar Rovinj', 4.3, 'Rovinj', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('rovinj-korean-1', 'rovinj', 'korean', 'Korean Kitchen Rovinj', 4.4, 'Rovinj', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('rovinj-korean-2', 'rovinj', 'korean', 'Bibimbap Rovinj', 4.3, 'Rovinj', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('rovinj-korean-3', 'rovinj', 'korean', 'Korean BBQ Rovinj', 4.3, 'Rovinj', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('rovinj-korean-4', 'rovinj', 'korean', 'Kimchi House Rovinj', 4.2, 'Rovinj', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— hvar ——
   place('hvar-fine_dining-1', 'hvar', 'fine_dining', 'Hvar Fine Dining 1', 4.5, 'Hvar', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,9 +91,5 @@ export const placesHRExtra: Place[] = [
   place('hvar-cafe-2', 'hvar', 'cafe', 'Old Town Café Hvar', 4.4, 'Hvar', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('hvar-cafe-3', 'hvar', 'cafe', 'Brunch Café Hvar', 4.3, 'Hvar', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('hvar-cafe-4', 'hvar', 'cafe', 'Espresso Bar Hvar', 4.3, 'Hvar', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('hvar-korean-1', 'hvar', 'korean', 'Korean Kitchen Hvar', 4.4, 'Hvar', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('hvar-korean-2', 'hvar', 'korean', 'Bibimbap Hvar', 4.3, 'Hvar', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('hvar-korean-3', 'hvar', 'korean', 'Korean BBQ Hvar', 4.3, 'Hvar', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('hvar-korean-4', 'hvar', 'korean', 'Kimchi House Hvar', 4.2, 'Hvar', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

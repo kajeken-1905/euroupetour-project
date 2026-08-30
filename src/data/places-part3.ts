@@ -1,7 +1,6 @@
 import type { Place } from '../types'
 
 export const placesPart3: Place[] = [
-  // ——— Oslo ———
   {
     id: 'osl-fd-1',
     cityId: 'oslo',
@@ -244,68 +243,7 @@ export const placesPart3: Place[] = [
     lat: 59.9165,
     lng: 10.7555,
     priceLevel: '€€',
-  },  {
-    id: 'osl-kr-1',
-    cityId: 'oslo',
-    category: 'korean',
-    name: 'Korea House',
-    description: {
-      ko: '오슬로에서 오래 알려진 한식당.',
-      en: 'A long-established Korean restaurant in Oslo.',
-    },
-    rating: 4.3,
-    reviewCount: 860,
-    address: 'Oslo',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Korea+House+Oslo',
-    priceLevel: '€€',
   },
-  {
-    id: 'osl-kr-2',
-    cityId: 'oslo',
-    category: 'korean',
-    name: 'Mr. Kim / Korean kitchens',
-    description: {
-      ko: '캐주얼 한식·치맥 스타일 스팟.',
-      en: 'Casual Korean and fried-chicken style spots.',
-    },
-    rating: 4.3,
-    reviewCount: 640,
-    address: 'Grünerløkka / centre',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Korean+restaurant+Oslo',
-    priceLevel: '€€',
-  },
-  {
-    id: 'osl-kr-3',
-    cityId: 'oslo',
-    category: 'korean',
-    name: 'Seoul Restaurant Oslo',
-    description: {
-      ko: '기본 한식 메뉴가 안정적인 로컬 선택.',
-      en: 'Local pick with reliable classic Korean dishes.',
-    },
-    rating: 4.2,
-    reviewCount: 510,
-    address: 'Oslo',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Seoul+restaurant+Oslo',
-    priceLevel: '€€',
-  },
-  {
-    id: 'osl-kr-4',
-    cityId: 'oslo',
-    category: 'korean',
-    name: 'Bibimbap & BBQ locals',
-    description: {
-      ko: '비빔밥·구이 중심의 캐주얼 한식.',
-      en: 'Casual Korean centred on bibimbap and BBQ.',
-    },
-    rating: 4.1,
-    reviewCount: 390,
-    address: 'Oslo',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Bibimbap+Oslo',
-    priceLevel: '€€',
-  },
-
-  // ——— Helsinki ———
   {
     id: 'hel-fd-1',
     cityId: 'helsinki',
@@ -552,64 +490,5 @@ export const placesPart3: Place[] = [
     address: 'Mannerheimintie, Helsinki',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=La+Torrefazione+Helsinki',
     priceLevel: '€€',
-  },  {
-    id: 'hel-kr-1',
-    cityId: 'helsinki',
-    category: 'korean',
-    name: 'Seoul Kitchen',
-    description: {
-      ko: '헬싱키에서 찾기 쉬운 한식·치맥 스팟.',
-      en: 'Easy-to-find Korean and fried-chicken spot.',
-    },
-    rating: 4.3,
-    reviewCount: 740,
-    address: 'Helsinki',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Seoul+Kitchen+Helsinki',
-    priceLevel: '€€',
-  },
-  {
-    id: 'hel-kr-2',
-    cityId: 'helsinki',
-    category: 'korean',
-    name: 'Restaurant Korea',
-    description: {
-      ko: '전통 한식 메뉴가 안정적인 로컬 레스토랑.',
-      en: 'Local restaurant with reliable traditional dishes.',
-    },
-    rating: 4.2,
-    reviewCount: 560,
-    address: 'Helsinki',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Restaurant+Korea+Helsinki',
-    priceLevel: '€€',
-  },
-  {
-    id: 'hel-kr-3',
-    cityId: 'helsinki',
-    category: 'korean',
-    name: 'Bibimbap Helsinki spots',
-    description: {
-      ko: '비빔밥·덮밥 중심 캐주얼 한식.',
-      en: 'Casual Korean focused on bibimbap bowls.',
-    },
-    rating: 4.2,
-    reviewCount: 480,
-    address: 'Helsinki centre / Kallio',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Korean+restaurant+Helsinki',
-    priceLevel: '€€',
-  },
-  {
-    id: 'hel-kr-4',
-    cityId: 'helsinki',
-    category: 'korean',
-    name: 'Kimchi / local Korean kitchens',
-    description: {
-      ko: '한식 선택지가 제한적인 도시에서 현지 추천 티어.',
-      en: 'Strong local-tier picks in a smaller Korean scene.',
-    },
-    rating: 4.1,
-    reviewCount: 350,
-    address: 'Helsinki',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Kimchi+restaurant+Helsinki',
-    priceLevel: '€€',
-  },
+  }
 ]

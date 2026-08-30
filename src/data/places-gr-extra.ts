@@ -16,10 +16,6 @@ export const placesGRExtra: Place[] = [
   place('athens-cafe-2', 'athens', 'cafe', 'Bean Around Town peers', 4.4, 'Athens', '로스터리 카페.', 'Roastery café.', { reviewCount: 1100 }),
   place('athens-cafe-3', 'athens', 'cafe', 'Café Avissinia', 4.3, 'Athens', '모나스티라키 전망 카페.', 'Monastiraki view café.', { reviewCount: 2800 }),
   place('athens-cafe-4', 'athens', 'cafe', 'Little Tree Books & Coffee', 4.4, 'Athens', '북카페.', 'Book café.', { reviewCount: 980 }),
-  place('athens-korean-1', 'athens', 'korean', 'Korean Kitchen Athens', 4.4, 'Athens', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('athens-korean-2', 'athens', 'korean', 'Bibimbap Athens', 4.3, 'Athens', '비빔밥.', 'Bibimbap.', { reviewCount: 480 }),
-  place('athens-korean-3', 'athens', 'korean', 'Korean BBQ Athens', 4.3, 'Athens', '고기구이.', 'Korean BBQ.', { reviewCount: 520 }),
-  place('athens-korean-4', 'athens', 'korean', 'Kimchi Athens', 4.2, 'Athens', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 360 }),
 
   // —— santorini ——
   place('santorini-fine_dining-1', 'santorini', 'fine_dining', 'Santorini Fine Dining 1', 4.5, 'Santorini', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesGRExtra: Place[] = [
   place('santorini-cafe-2', 'santorini', 'cafe', 'Old Town Café Santorini', 4.4, 'Santorini', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('santorini-cafe-3', 'santorini', 'cafe', 'Brunch Café Santorini', 4.3, 'Santorini', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('santorini-cafe-4', 'santorini', 'cafe', 'Espresso Bar Santorini', 4.3, 'Santorini', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('santorini-korean-1', 'santorini', 'korean', 'Korean Kitchen Santorini', 4.4, 'Santorini', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('santorini-korean-2', 'santorini', 'korean', 'Bibimbap Santorini', 4.3, 'Santorini', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('santorini-korean-3', 'santorini', 'korean', 'Korean BBQ Santorini', 4.3, 'Santorini', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('santorini-korean-4', 'santorini', 'korean', 'Kimchi House Santorini', 4.2, 'Santorini', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— heraklion ——
   place('heraklion-fine_dining-1', 'heraklion', 'fine_dining', 'Heraklion Fine Dining 1', 4.5, 'Heraklion', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesGRExtra: Place[] = [
   place('heraklion-cafe-2', 'heraklion', 'cafe', 'Old Town Café Heraklion', 4.4, 'Heraklion', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('heraklion-cafe-3', 'heraklion', 'cafe', 'Brunch Café Heraklion', 4.3, 'Heraklion', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('heraklion-cafe-4', 'heraklion', 'cafe', 'Espresso Bar Heraklion', 4.3, 'Heraklion', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('heraklion-korean-1', 'heraklion', 'korean', 'Korean Kitchen Heraklion', 4.4, 'Heraklion', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('heraklion-korean-2', 'heraklion', 'korean', 'Bibimbap Heraklion', 4.3, 'Heraklion', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('heraklion-korean-3', 'heraklion', 'korean', 'Korean BBQ Heraklion', 4.3, 'Heraklion', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('heraklion-korean-4', 'heraklion', 'korean', 'Kimchi House Heraklion', 4.2, 'Heraklion', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— mykonos ——
   place('mykonos-fine_dining-1', 'mykonos', 'fine_dining', 'Mykonos Fine Dining 1', 4.5, 'Mykonos', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesGRExtra: Place[] = [
   place('mykonos-cafe-2', 'mykonos', 'cafe', 'Old Town Café Mykonos', 4.4, 'Mykonos', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('mykonos-cafe-3', 'mykonos', 'cafe', 'Brunch Café Mykonos', 4.3, 'Mykonos', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('mykonos-cafe-4', 'mykonos', 'cafe', 'Espresso Bar Mykonos', 4.3, 'Mykonos', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('mykonos-korean-1', 'mykonos', 'korean', 'Korean Kitchen Mykonos', 4.4, 'Mykonos', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('mykonos-korean-2', 'mykonos', 'korean', 'Bibimbap Mykonos', 4.3, 'Mykonos', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('mykonos-korean-3', 'mykonos', 'korean', 'Korean BBQ Mykonos', 4.3, 'Mykonos', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('mykonos-korean-4', 'mykonos', 'korean', 'Kimchi House Mykonos', 4.2, 'Mykonos', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— rhodes ——
   place('rhodes-fine_dining-1', 'rhodes', 'fine_dining', 'Rhodes Fine Dining 1', 4.5, 'Rhodes', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesGRExtra: Place[] = [
   place('rhodes-cafe-2', 'rhodes', 'cafe', 'Old Town Café Rhodes', 4.4, 'Rhodes', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('rhodes-cafe-3', 'rhodes', 'cafe', 'Brunch Café Rhodes', 4.3, 'Rhodes', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('rhodes-cafe-4', 'rhodes', 'cafe', 'Espresso Bar Rhodes', 4.3, 'Rhodes', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('rhodes-korean-1', 'rhodes', 'korean', 'Korean Kitchen Rhodes', 4.4, 'Rhodes', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('rhodes-korean-2', 'rhodes', 'korean', 'Bibimbap Rhodes', 4.3, 'Rhodes', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('rhodes-korean-3', 'rhodes', 'korean', 'Korean BBQ Rhodes', 4.3, 'Rhodes', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('rhodes-korean-4', 'rhodes', 'korean', 'Kimchi House Rhodes', 4.2, 'Rhodes', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— thessaloniki ——
   place('thessaloniki-fine_dining-1', 'thessaloniki', 'fine_dining', 'Thessaloniki Fine Dining 1', 4.5, 'Thessaloniki', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesGRExtra: Place[] = [
   place('thessaloniki-cafe-2', 'thessaloniki', 'cafe', 'Old Town Café Thessaloniki', 4.4, 'Thessaloniki', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('thessaloniki-cafe-3', 'thessaloniki', 'cafe', 'Brunch Café Thessaloniki', 4.3, 'Thessaloniki', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('thessaloniki-cafe-4', 'thessaloniki', 'cafe', 'Espresso Bar Thessaloniki', 4.3, 'Thessaloniki', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('thessaloniki-korean-1', 'thessaloniki', 'korean', 'Korean Kitchen Thessaloniki', 4.4, 'Thessaloniki', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('thessaloniki-korean-2', 'thessaloniki', 'korean', 'Bibimbap Thessaloniki', 4.3, 'Thessaloniki', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('thessaloniki-korean-3', 'thessaloniki', 'korean', 'Korean BBQ Thessaloniki', 4.3, 'Thessaloniki', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('thessaloniki-korean-4', 'thessaloniki', 'korean', 'Kimchi House Thessaloniki', 4.2, 'Thessaloniki', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— corfu ——
   place('corfu-fine_dining-1', 'corfu', 'fine_dining', 'Corfu Fine Dining 1', 4.5, 'Corfu', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesGRExtra: Place[] = [
   place('corfu-cafe-2', 'corfu', 'cafe', 'Old Town Café Corfu', 4.4, 'Corfu', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('corfu-cafe-3', 'corfu', 'cafe', 'Brunch Café Corfu', 4.3, 'Corfu', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('corfu-cafe-4', 'corfu', 'cafe', 'Espresso Bar Corfu', 4.3, 'Corfu', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('corfu-korean-1', 'corfu', 'korean', 'Korean Kitchen Corfu', 4.4, 'Corfu', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('corfu-korean-2', 'corfu', 'korean', 'Bibimbap Corfu', 4.3, 'Corfu', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('corfu-korean-3', 'corfu', 'korean', 'Korean BBQ Corfu', 4.3, 'Corfu', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('corfu-korean-4', 'corfu', 'korean', 'Kimchi House Corfu', 4.2, 'Corfu', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— nafplio ——
   place('nafplio-fine_dining-1', 'nafplio', 'fine_dining', 'Nafplio Fine Dining 1', 4.5, 'Nafplio', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,9 +121,5 @@ export const placesGRExtra: Place[] = [
   place('nafplio-cafe-2', 'nafplio', 'cafe', 'Old Town Café Nafplio', 4.4, 'Nafplio', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('nafplio-cafe-3', 'nafplio', 'cafe', 'Brunch Café Nafplio', 4.3, 'Nafplio', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('nafplio-cafe-4', 'nafplio', 'cafe', 'Espresso Bar Nafplio', 4.3, 'Nafplio', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('nafplio-korean-1', 'nafplio', 'korean', 'Korean Kitchen Nafplio', 4.4, 'Nafplio', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('nafplio-korean-2', 'nafplio', 'korean', 'Bibimbap Nafplio', 4.3, 'Nafplio', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('nafplio-korean-3', 'nafplio', 'korean', 'Korean BBQ Nafplio', 4.3, 'Nafplio', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('nafplio-korean-4', 'nafplio', 'korean', 'Kimchi House Nafplio', 4.2, 'Nafplio', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

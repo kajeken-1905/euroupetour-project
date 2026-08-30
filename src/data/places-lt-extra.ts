@@ -16,10 +16,6 @@ export const placesLTExtra: Place[] = [
   place('vilnius-cafe-2', 'vilnius', 'cafe', 'Old Town café courtyards', 4.4, 'Vilnius', '구시가 중정 카페.', 'Old-town courtyard cafés.', { reviewCount: 2400 }),
   place('vilnius-cafe-3', 'vilnius', 'cafe', 'Užupis cafés', 4.4, 'Vilnius', '우주피스 카페.', 'Užupis cafés.', { reviewCount: 1600 }),
   place('vilnius-cafe-4', 'vilnius', 'cafe', 'Brunch Vilnius peers', 4.4, 'Vilnius', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('vilnius-korean-1', 'vilnius', 'korean', 'Korean Kitchen Vilnius', 4.4, 'Vilnius', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 700 }),
-  place('vilnius-korean-2', 'vilnius', 'korean', 'Bibimbap Vilnius', 4.3, 'Vilnius', '비빔밥.', 'Bibimbap.', { reviewCount: 520 }),
-  place('vilnius-korean-3', 'vilnius', 'korean', 'Korean BBQ Vilnius', 4.3, 'Vilnius', '고기구이.', 'Korean BBQ.', { reviewCount: 600 }),
-  place('vilnius-korean-4', 'vilnius', 'korean', 'Kimchi Vilnius', 4.2, 'Vilnius', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 400 }),
 
   // —— kaunas ——
   place('kaunas-fine_dining-1', 'kaunas', 'fine_dining', 'Kaunas Fine Dining 1', 4.5, 'Kaunas', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesLTExtra: Place[] = [
   place('kaunas-cafe-2', 'kaunas', 'cafe', 'Old Town Café Kaunas', 4.4, 'Kaunas', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('kaunas-cafe-3', 'kaunas', 'cafe', 'Brunch Café Kaunas', 4.3, 'Kaunas', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('kaunas-cafe-4', 'kaunas', 'cafe', 'Espresso Bar Kaunas', 4.3, 'Kaunas', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('kaunas-korean-1', 'kaunas', 'korean', 'Korean Kitchen Kaunas', 4.4, 'Kaunas', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('kaunas-korean-2', 'kaunas', 'korean', 'Bibimbap Kaunas', 4.3, 'Kaunas', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('kaunas-korean-3', 'kaunas', 'korean', 'Korean BBQ Kaunas', 4.3, 'Kaunas', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('kaunas-korean-4', 'kaunas', 'korean', 'Kimchi House Kaunas', 4.2, 'Kaunas', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— klaipeda ——
   place('klaipeda-fine_dining-1', 'klaipeda', 'fine_dining', 'Klaipėda Fine Dining 1', 4.5, 'Klaipėda', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,9 +46,5 @@ export const placesLTExtra: Place[] = [
   place('klaipeda-cafe-2', 'klaipeda', 'cafe', 'Old Town Café Klaipėda', 4.4, 'Klaipėda', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('klaipeda-cafe-3', 'klaipeda', 'cafe', 'Brunch Café Klaipėda', 4.3, 'Klaipėda', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('klaipeda-cafe-4', 'klaipeda', 'cafe', 'Espresso Bar Klaipėda', 4.3, 'Klaipėda', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('klaipeda-korean-1', 'klaipeda', 'korean', 'Korean Kitchen Klaipėda', 4.4, 'Klaipėda', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('klaipeda-korean-2', 'klaipeda', 'korean', 'Bibimbap Klaipėda', 4.3, 'Klaipėda', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('klaipeda-korean-3', 'klaipeda', 'korean', 'Korean BBQ Klaipėda', 4.3, 'Klaipėda', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('klaipeda-korean-4', 'klaipeda', 'korean', 'Kimchi House Klaipėda', 4.2, 'Klaipėda', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

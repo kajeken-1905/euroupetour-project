@@ -16,10 +16,6 @@ export const placesLIExtra: Place[] = [
   place('vaduz-cafe-2', 'vaduz', 'cafe', 'Städtle café', 4.4, 'Vaduz', '메인 거리 카페.', 'Main-street café.', { reviewCount: 900 }),
   place('vaduz-cafe-3', 'vaduz', 'cafe', 'Museum café', 4.3, 'Vaduz', '미술관 카페.', 'Museum café.', { reviewCount: 480 }),
   place('vaduz-cafe-4', 'vaduz', 'cafe', 'Brunch café Vaduz', 4.3, 'Vaduz', '브런치 카페.', 'Brunch café.', { reviewCount: 420 }),
-  place('vaduz-korean-1', 'vaduz', 'korean', 'Korean Kitchen Vaduz', 4.2, 'Vaduz', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 160 }),
-  place('vaduz-korean-2', 'vaduz', 'korean', 'Bibimbap Vaduz', 4.2, 'Vaduz', '비빔밥.', 'Bibimbap.', { reviewCount: 120 }),
-  place('vaduz-korean-3', 'vaduz', 'korean', 'Korean BBQ Vaduz', 4.2, 'Vaduz', '고기구이.', 'Korean BBQ.', { reviewCount: 140 }),
-  place('vaduz-korean-4', 'vaduz', 'korean', 'Kimchi Vaduz', 4.1, 'Vaduz', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 100 }),
 
   // —— schaan ——
   place('schaan-fine_dining-1', 'schaan', 'fine_dining', 'Schaan Fine Dining 1', 4.5, 'Schaan', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesLIExtra: Place[] = [
   place('schaan-cafe-2', 'schaan', 'cafe', 'Old Town Café Schaan', 4.4, 'Schaan', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('schaan-cafe-3', 'schaan', 'cafe', 'Brunch Café Schaan', 4.3, 'Schaan', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('schaan-cafe-4', 'schaan', 'cafe', 'Espresso Bar Schaan', 4.3, 'Schaan', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('schaan-korean-1', 'schaan', 'korean', 'Korean Kitchen Schaan', 4.4, 'Schaan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('schaan-korean-2', 'schaan', 'korean', 'Bibimbap Schaan', 4.3, 'Schaan', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('schaan-korean-3', 'schaan', 'korean', 'Korean BBQ Schaan', 4.3, 'Schaan', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('schaan-korean-4', 'schaan', 'korean', 'Kimchi House Schaan', 4.2, 'Schaan', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— malbun ——
   place('malbun-fine_dining-1', 'malbun', 'fine_dining', 'Malbun Fine Dining 1', 4.5, 'Malbun', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,9 +46,5 @@ export const placesLIExtra: Place[] = [
   place('malbun-cafe-2', 'malbun', 'cafe', 'Old Town Café Malbun', 4.4, 'Malbun', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('malbun-cafe-3', 'malbun', 'cafe', 'Brunch Café Malbun', 4.3, 'Malbun', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('malbun-cafe-4', 'malbun', 'cafe', 'Espresso Bar Malbun', 4.3, 'Malbun', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('malbun-korean-1', 'malbun', 'korean', 'Korean Kitchen Malbun', 4.4, 'Malbun', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('malbun-korean-2', 'malbun', 'korean', 'Bibimbap Malbun', 4.3, 'Malbun', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('malbun-korean-3', 'malbun', 'korean', 'Korean BBQ Malbun', 4.3, 'Malbun', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('malbun-korean-4', 'malbun', 'korean', 'Kimchi House Malbun', 4.2, 'Malbun', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

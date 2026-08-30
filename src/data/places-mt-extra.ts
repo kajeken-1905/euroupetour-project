@@ -16,10 +16,6 @@ export const placesMTExtra: Place[] = [
   place('valletta-cafe-2', 'valletta', 'cafe', 'Republic Street cafés', 4.3, 'Valletta', '대로 카페.', 'Main-street cafés.', { reviewCount: 2400 }),
   place('valletta-cafe-3', 'valletta', 'cafe', 'Harbour terrace cafés', 4.4, 'Valletta', '항구 테라스.', 'Harbour terrace cafés.', { reviewCount: 1800 }),
   place('valletta-cafe-4', 'valletta', 'cafe', 'Brunch Valletta peers', 4.4, 'Valletta', '브런치 카페.', 'Brunch café.', { reviewCount: 1100 }),
-  place('valletta-korean-1', 'valletta', 'korean', 'Korean Kitchen Valletta', 4.3, 'Valletta', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 360 }),
-  place('valletta-korean-2', 'valletta', 'korean', 'Bibimbap Valletta', 4.2, 'Valletta', '비빔밥.', 'Bibimbap.', { reviewCount: 280 }),
-  place('valletta-korean-3', 'valletta', 'korean', 'Korean BBQ Valletta', 4.2, 'Valletta', '고기구이.', 'Korean BBQ.', { reviewCount: 300 }),
-  place('valletta-korean-4', 'valletta', 'korean', 'Kimchi Valletta', 4.2, 'Valletta', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 220 }),
 
   // —— mdina ——
   place('mdina-fine_dining-1', 'mdina', 'fine_dining', 'Mdina Fine Dining 1', 4.5, 'Mdina', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesMTExtra: Place[] = [
   place('mdina-cafe-2', 'mdina', 'cafe', 'Old Town Café Mdina', 4.4, 'Mdina', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('mdina-cafe-3', 'mdina', 'cafe', 'Brunch Café Mdina', 4.3, 'Mdina', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('mdina-cafe-4', 'mdina', 'cafe', 'Espresso Bar Mdina', 4.3, 'Mdina', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('mdina-korean-1', 'mdina', 'korean', 'Korean Kitchen Mdina', 4.4, 'Mdina', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('mdina-korean-2', 'mdina', 'korean', 'Bibimbap Mdina', 4.3, 'Mdina', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('mdina-korean-3', 'mdina', 'korean', 'Korean BBQ Mdina', 4.3, 'Mdina', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('mdina-korean-4', 'mdina', 'korean', 'Kimchi House Mdina', 4.2, 'Mdina', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— gozo ——
   place('gozo-fine_dining-1', 'gozo', 'fine_dining', 'Gozo Fine Dining 1', 4.5, 'Gozo', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,9 +46,5 @@ export const placesMTExtra: Place[] = [
   place('gozo-cafe-2', 'gozo', 'cafe', 'Old Town Café Gozo', 4.4, 'Gozo', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('gozo-cafe-3', 'gozo', 'cafe', 'Brunch Café Gozo', 4.3, 'Gozo', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('gozo-cafe-4', 'gozo', 'cafe', 'Espresso Bar Gozo', 4.3, 'Gozo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('gozo-korean-1', 'gozo', 'korean', 'Korean Kitchen Gozo', 4.4, 'Gozo', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('gozo-korean-2', 'gozo', 'korean', 'Bibimbap Gozo', 4.3, 'Gozo', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('gozo-korean-3', 'gozo', 'korean', 'Korean BBQ Gozo', 4.3, 'Gozo', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('gozo-korean-4', 'gozo', 'korean', 'Kimchi House Gozo', 4.2, 'Gozo', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

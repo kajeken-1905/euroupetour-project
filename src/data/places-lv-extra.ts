@@ -16,10 +16,6 @@ export const placesLVExtra: Place[] = [
   place('riga-cafe-2', 'riga', 'cafe', 'Old Town cafés', 4.3, 'Riga', '구시가 카페.', 'Old-town cafés.', { reviewCount: 2800 }),
   place('riga-cafe-3', 'riga', 'cafe', 'Kalnciema / neighbourhood cafés', 4.4, 'Riga', '동네 카페.', 'Neighbourhood cafés.', { reviewCount: 1600 }),
   place('riga-cafe-4', 'riga', 'cafe', 'Brunch Riga peers', 4.4, 'Riga', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('riga-korean-1', 'riga', 'korean', 'Korean Kitchen Riga', 4.4, 'Riga', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('riga-korean-2', 'riga', 'korean', 'Bibimbap Riga', 4.3, 'Riga', '비빔밥.', 'Bibimbap.', { reviewCount: 480 }),
-  place('riga-korean-3', 'riga', 'korean', 'Korean BBQ Riga', 4.3, 'Riga', '고기구이.', 'Korean BBQ.', { reviewCount: 560 }),
-  place('riga-korean-4', 'riga', 'korean', 'Kimchi Riga', 4.2, 'Riga', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 360 }),
 
   // —— jurmala ——
   place('jurmala-fine_dining-1', 'jurmala', 'fine_dining', 'Jūrmala Fine Dining 1', 4.5, 'Jūrmala', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesLVExtra: Place[] = [
   place('jurmala-cafe-2', 'jurmala', 'cafe', 'Old Town Café Jūrmala', 4.4, 'Jūrmala', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('jurmala-cafe-3', 'jurmala', 'cafe', 'Brunch Café Jūrmala', 4.3, 'Jūrmala', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('jurmala-cafe-4', 'jurmala', 'cafe', 'Espresso Bar Jūrmala', 4.3, 'Jūrmala', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('jurmala-korean-1', 'jurmala', 'korean', 'Korean Kitchen Jūrmala', 4.4, 'Jūrmala', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('jurmala-korean-2', 'jurmala', 'korean', 'Bibimbap Jūrmala', 4.3, 'Jūrmala', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('jurmala-korean-3', 'jurmala', 'korean', 'Korean BBQ Jūrmala', 4.3, 'Jūrmala', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('jurmala-korean-4', 'jurmala', 'korean', 'Kimchi House Jūrmala', 4.2, 'Jūrmala', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— sigulda ——
   place('sigulda-fine_dining-1', 'sigulda', 'fine_dining', 'Sigulda Fine Dining 1', 4.5, 'Sigulda', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,9 +46,5 @@ export const placesLVExtra: Place[] = [
   place('sigulda-cafe-2', 'sigulda', 'cafe', 'Old Town Café Sigulda', 4.4, 'Sigulda', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('sigulda-cafe-3', 'sigulda', 'cafe', 'Brunch Café Sigulda', 4.3, 'Sigulda', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('sigulda-cafe-4', 'sigulda', 'cafe', 'Espresso Bar Sigulda', 4.3, 'Sigulda', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('sigulda-korean-1', 'sigulda', 'korean', 'Korean Kitchen Sigulda', 4.4, 'Sigulda', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('sigulda-korean-2', 'sigulda', 'korean', 'Bibimbap Sigulda', 4.3, 'Sigulda', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('sigulda-korean-3', 'sigulda', 'korean', 'Korean BBQ Sigulda', 4.3, 'Sigulda', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('sigulda-korean-4', 'sigulda', 'korean', 'Kimchi House Sigulda', 4.2, 'Sigulda', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

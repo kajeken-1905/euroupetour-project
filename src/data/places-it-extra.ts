@@ -16,10 +16,6 @@ export const placesITExtra: Place[] = [
   place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 4.4, 'Rome', '판테온 근처 커피.', 'Coffee near the Pantheon.', { reviewCount: 7600 }),
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 4.5, 'Rome', '역사적 카페.', 'Historic café.', { reviewCount: 2400 }),
   place('rome-cafe-4', 'rome', 'cafe', 'Faroe / specialty peers', 4.5, 'Rome', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('rome-korean-1', 'rome', 'korean', 'Korean Kitchen Rome', 4.3, 'Rome', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 700 }),
-  place('rome-korean-2', 'rome', 'korean', 'Bibimbap Rome', 4.2, 'Rome', '비빔밥.', 'Bibimbap.', { reviewCount: 520 }),
-  place('rome-korean-3', 'rome', 'korean', 'Korean BBQ Rome', 4.3, 'Rome', '고기구이.', 'Korean BBQ.', { reviewCount: 640 }),
-  place('rome-korean-4', 'rome', 'korean', 'Kimchi Rome', 4.2, 'Rome', '김치·반찬.', 'Kimchi-focused.', { reviewCount: 400 }),
 
   // —— milan ——
   place('milan-fine_dining-1', 'milan', 'fine_dining', 'Milan Fine Dining 1', 4.5, 'Milan', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesITExtra: Place[] = [
   place('milan-cafe-2', 'milan', 'cafe', 'Old Town Café Milan', 4.4, 'Milan', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('milan-cafe-3', 'milan', 'cafe', 'Brunch Café Milan', 4.3, 'Milan', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('milan-cafe-4', 'milan', 'cafe', 'Espresso Bar Milan', 4.3, 'Milan', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('milan-korean-1', 'milan', 'korean', 'Korean Kitchen Milan', 4.4, 'Milan', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('milan-korean-2', 'milan', 'korean', 'Bibimbap Milan', 4.3, 'Milan', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('milan-korean-3', 'milan', 'korean', 'Korean BBQ Milan', 4.3, 'Milan', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('milan-korean-4', 'milan', 'korean', 'Kimchi House Milan', 4.2, 'Milan', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— florence ——
   place('florence-fine_dining-1', 'florence', 'fine_dining', 'Florence Fine Dining 1', 4.5, 'Florence', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesITExtra: Place[] = [
   place('florence-cafe-2', 'florence', 'cafe', 'Old Town Café Florence', 4.4, 'Florence', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('florence-cafe-3', 'florence', 'cafe', 'Brunch Café Florence', 4.3, 'Florence', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('florence-cafe-4', 'florence', 'cafe', 'Espresso Bar Florence', 4.3, 'Florence', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('florence-korean-1', 'florence', 'korean', 'Korean Kitchen Florence', 4.4, 'Florence', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('florence-korean-2', 'florence', 'korean', 'Bibimbap Florence', 4.3, 'Florence', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('florence-korean-3', 'florence', 'korean', 'Korean BBQ Florence', 4.3, 'Florence', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('florence-korean-4', 'florence', 'korean', 'Kimchi House Florence', 4.2, 'Florence', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— venice ——
   place('venice-fine_dining-1', 'venice', 'fine_dining', 'Venice Fine Dining 1', 4.5, 'Venice', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesITExtra: Place[] = [
   place('venice-cafe-2', 'venice', 'cafe', 'Old Town Café Venice', 4.4, 'Venice', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('venice-cafe-3', 'venice', 'cafe', 'Brunch Café Venice', 4.3, 'Venice', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('venice-cafe-4', 'venice', 'cafe', 'Espresso Bar Venice', 4.3, 'Venice', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('venice-korean-1', 'venice', 'korean', 'Korean Kitchen Venice', 4.4, 'Venice', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('venice-korean-2', 'venice', 'korean', 'Bibimbap Venice', 4.3, 'Venice', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('venice-korean-3', 'venice', 'korean', 'Korean BBQ Venice', 4.3, 'Venice', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('venice-korean-4', 'venice', 'korean', 'Kimchi House Venice', 4.2, 'Venice', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— naples ——
   place('naples-fine_dining-1', 'naples', 'fine_dining', 'Naples Fine Dining 1', 4.5, 'Naples', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,10 +76,6 @@ export const placesITExtra: Place[] = [
   place('naples-cafe-2', 'naples', 'cafe', 'Old Town Café Naples', 4.4, 'Naples', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('naples-cafe-3', 'naples', 'cafe', 'Brunch Café Naples', 4.3, 'Naples', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('naples-cafe-4', 'naples', 'cafe', 'Espresso Bar Naples', 4.3, 'Naples', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('naples-korean-1', 'naples', 'korean', 'Korean Kitchen Naples', 4.4, 'Naples', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('naples-korean-2', 'naples', 'korean', 'Bibimbap Naples', 4.3, 'Naples', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('naples-korean-3', 'naples', 'korean', 'Korean BBQ Naples', 4.3, 'Naples', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('naples-korean-4', 'naples', 'korean', 'Kimchi House Naples', 4.2, 'Naples', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— bologna ——
   place('bologna-fine_dining-1', 'bologna', 'fine_dining', 'Bologna Fine Dining 1', 4.5, 'Bologna', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -111,10 +91,6 @@ export const placesITExtra: Place[] = [
   place('bologna-cafe-2', 'bologna', 'cafe', 'Old Town Café Bologna', 4.4, 'Bologna', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('bologna-cafe-3', 'bologna', 'cafe', 'Brunch Café Bologna', 4.3, 'Bologna', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('bologna-cafe-4', 'bologna', 'cafe', 'Espresso Bar Bologna', 4.3, 'Bologna', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('bologna-korean-1', 'bologna', 'korean', 'Korean Kitchen Bologna', 4.4, 'Bologna', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('bologna-korean-2', 'bologna', 'korean', 'Bibimbap Bologna', 4.3, 'Bologna', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('bologna-korean-3', 'bologna', 'korean', 'Korean BBQ Bologna', 4.3, 'Bologna', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('bologna-korean-4', 'bologna', 'korean', 'Kimchi House Bologna', 4.2, 'Bologna', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— verona ——
   place('verona-fine_dining-1', 'verona', 'fine_dining', 'Verona Fine Dining 1', 4.5, 'Verona', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -130,10 +106,6 @@ export const placesITExtra: Place[] = [
   place('verona-cafe-2', 'verona', 'cafe', 'Old Town Café Verona', 4.4, 'Verona', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('verona-cafe-3', 'verona', 'cafe', 'Brunch Café Verona', 4.3, 'Verona', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('verona-cafe-4', 'verona', 'cafe', 'Espresso Bar Verona', 4.3, 'Verona', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('verona-korean-1', 'verona', 'korean', 'Korean Kitchen Verona', 4.4, 'Verona', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('verona-korean-2', 'verona', 'korean', 'Bibimbap Verona', 4.3, 'Verona', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('verona-korean-3', 'verona', 'korean', 'Korean BBQ Verona', 4.3, 'Verona', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('verona-korean-4', 'verona', 'korean', 'Kimchi House Verona', 4.2, 'Verona', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— turin ——
   place('turin-fine_dining-1', 'turin', 'fine_dining', 'Turin Fine Dining 1', 4.5, 'Turin', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -149,10 +121,6 @@ export const placesITExtra: Place[] = [
   place('turin-cafe-2', 'turin', 'cafe', 'Old Town Café Turin', 4.4, 'Turin', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('turin-cafe-3', 'turin', 'cafe', 'Brunch Café Turin', 4.3, 'Turin', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('turin-cafe-4', 'turin', 'cafe', 'Espresso Bar Turin', 4.3, 'Turin', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('turin-korean-1', 'turin', 'korean', 'Korean Kitchen Turin', 4.4, 'Turin', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('turin-korean-2', 'turin', 'korean', 'Bibimbap Turin', 4.3, 'Turin', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('turin-korean-3', 'turin', 'korean', 'Korean BBQ Turin', 4.3, 'Turin', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('turin-korean-4', 'turin', 'korean', 'Kimchi House Turin', 4.2, 'Turin', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— amalfi ——
   place('amalfi-fine_dining-1', 'amalfi', 'fine_dining', 'Amalfi Fine Dining 1', 4.5, 'Amalfi', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -168,10 +136,6 @@ export const placesITExtra: Place[] = [
   place('amalfi-cafe-2', 'amalfi', 'cafe', 'Old Town Café Amalfi', 4.4, 'Amalfi', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('amalfi-cafe-3', 'amalfi', 'cafe', 'Brunch Café Amalfi', 4.3, 'Amalfi', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('amalfi-cafe-4', 'amalfi', 'cafe', 'Espresso Bar Amalfi', 4.3, 'Amalfi', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('amalfi-korean-1', 'amalfi', 'korean', 'Korean Kitchen Amalfi', 4.4, 'Amalfi', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('amalfi-korean-2', 'amalfi', 'korean', 'Bibimbap Amalfi', 4.3, 'Amalfi', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('amalfi-korean-3', 'amalfi', 'korean', 'Korean BBQ Amalfi', 4.3, 'Amalfi', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('amalfi-korean-4', 'amalfi', 'korean', 'Kimchi House Amalfi', 4.2, 'Amalfi', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— siena ——
   place('siena-fine_dining-1', 'siena', 'fine_dining', 'Siena Fine Dining 1', 4.5, 'Siena', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -187,10 +151,6 @@ export const placesITExtra: Place[] = [
   place('siena-cafe-2', 'siena', 'cafe', 'Old Town Café Siena', 4.4, 'Siena', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('siena-cafe-3', 'siena', 'cafe', 'Brunch Café Siena', 4.3, 'Siena', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('siena-cafe-4', 'siena', 'cafe', 'Espresso Bar Siena', 4.3, 'Siena', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('siena-korean-1', 'siena', 'korean', 'Korean Kitchen Siena', 4.4, 'Siena', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('siena-korean-2', 'siena', 'korean', 'Bibimbap Siena', 4.3, 'Siena', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('siena-korean-3', 'siena', 'korean', 'Korean BBQ Siena', 4.3, 'Siena', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('siena-korean-4', 'siena', 'korean', 'Kimchi House Siena', 4.2, 'Siena', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— genoa ——
   place('genoa-fine_dining-1', 'genoa', 'fine_dining', 'Genoa Fine Dining 1', 4.5, 'Genoa', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -206,10 +166,6 @@ export const placesITExtra: Place[] = [
   place('genoa-cafe-2', 'genoa', 'cafe', 'Old Town Café Genoa', 4.4, 'Genoa', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('genoa-cafe-3', 'genoa', 'cafe', 'Brunch Café Genoa', 4.3, 'Genoa', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('genoa-cafe-4', 'genoa', 'cafe', 'Espresso Bar Genoa', 4.3, 'Genoa', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('genoa-korean-1', 'genoa', 'korean', 'Korean Kitchen Genoa', 4.4, 'Genoa', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('genoa-korean-2', 'genoa', 'korean', 'Bibimbap Genoa', 4.3, 'Genoa', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('genoa-korean-3', 'genoa', 'korean', 'Korean BBQ Genoa', 4.3, 'Genoa', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('genoa-korean-4', 'genoa', 'korean', 'Kimchi House Genoa', 4.2, 'Genoa', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— palermo ——
   place('palermo-fine_dining-1', 'palermo', 'fine_dining', 'Palermo Fine Dining 1', 4.5, 'Palermo', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -225,9 +181,5 @@ export const placesITExtra: Place[] = [
   place('palermo-cafe-2', 'palermo', 'cafe', 'Old Town Café Palermo', 4.4, 'Palermo', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('palermo-cafe-3', 'palermo', 'cafe', 'Brunch Café Palermo', 4.3, 'Palermo', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('palermo-cafe-4', 'palermo', 'cafe', 'Espresso Bar Palermo', 4.3, 'Palermo', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('palermo-korean-1', 'palermo', 'korean', 'Korean Kitchen Palermo', 4.4, 'Palermo', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('palermo-korean-2', 'palermo', 'korean', 'Bibimbap Palermo', 4.3, 'Palermo', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('palermo-korean-3', 'palermo', 'korean', 'Korean BBQ Palermo', 4.3, 'Palermo', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('palermo-korean-4', 'palermo', 'korean', 'Kimchi House Palermo', 4.2, 'Palermo', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]

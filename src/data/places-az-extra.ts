@@ -12,9 +12,6 @@ export const placesAZExtra: Place[] = [
   place('baku-cafe-1', 'baku', 'cafe', 'Specialty Coffee Baku 1', 4.4, 'Baku', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
   place('baku-cafe-2', 'baku', 'cafe', 'Baku Café 2', 4.4, 'Baku', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('baku-cafe-3', 'baku', 'cafe', 'Baku Café 3', 4.2, 'Baku', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
-  place('baku-korean-1', 'baku', 'korean', 'Korean Kitchen Baku 1', 4.7, 'Baku', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 320 }),
-  place('baku-korean-2', 'baku', 'korean', 'Baku Korean 2', 4.7, 'Baku', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('baku-korean-3', 'baku', 'korean', 'Baku Korean 3', 4.3, 'Baku', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1100 }),
 
   // —— sheki ——
   place('sheki-fine_dining-1', 'sheki', 'fine_dining', 'Sheki Fine Dining 1', 4.4, 'Sheki', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 980 }),
@@ -26,9 +23,6 @@ export const placesAZExtra: Place[] = [
   place('sheki-cafe-1', 'sheki', 'cafe', 'Specialty Coffee Sheki 1', 4.3, 'Sheki', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 720 }),
   place('sheki-cafe-2', 'sheki', 'cafe', 'Sheki Café 2', 4.3, 'Sheki', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 320 }),
   place('sheki-cafe-3', 'sheki', 'cafe', 'Sheki Café 3', 4.5, 'Sheki', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
-  place('sheki-korean-1', 'sheki', 'korean', 'Korean Kitchen Sheki 1', 4.2, 'Sheki', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 860 }),
-  place('sheki-korean-2', 'sheki', 'korean', 'Sheki Korean 2', 4.2, 'Sheki', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1600 }),
-  place('sheki-korean-3', 'sheki', 'korean', 'Sheki Korean 3', 4.4, 'Sheki', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 1400 }),
 
   // —— gabala ——
   place('gabala-fine_dining-1', 'gabala', 'fine_dining', 'Gabala Fine Dining 1', 4.3, 'Gabala', '모던 코스 다이닝.', 'Modern course dining.', { reviewCount: 1400 }),
@@ -40,8 +34,5 @@ export const placesAZExtra: Place[] = [
   place('gabala-cafe-1', 'gabala', 'cafe', 'Specialty Coffee Gabala 1', 4.2, 'Gabala', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 480 }),
   place('gabala-cafe-2', 'gabala', 'cafe', 'Gabala Café 2', 4.4, 'Gabala', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('gabala-cafe-3', 'gabala', 'cafe', 'Gabala Café 3', 4.5, 'Gabala', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 860 }),
-  place('gabala-korean-1', 'gabala', 'korean', 'Korean Kitchen Gabala 1', 4.7, 'Gabala', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('gabala-korean-2', 'gabala', 'korean', 'Gabala Korean 2', 4.5, 'Gabala', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 860 }),
-  place('gabala-korean-3', 'gabala', 'korean', 'Gabala Korean 3', 4.3, 'Gabala', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 980 }),
 
 ]

@@ -1,7 +1,6 @@
 import type { Place } from '../types'
 
 export const placesPart2: Place[] = [
-  // ——— Luxembourg City ———
   {
     id: 'lux-fd-1',
     cityId: 'luxembourg-city',
@@ -244,53 +243,7 @@ export const placesPart2: Place[] = [
     address: 'Luxembourg City',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Soft+Cafe+Luxembourg',
     priceLevel: '€€',
-  },  {
-    id: 'lux-kr-1',
-    cityId: 'luxembourg-city',
-    category: 'korean',
-    name: 'Restaurant Korea',
-    description: {
-      ko: '시내에서 찾기 쉬운 전통 한식당.',
-      en: 'Traditional Korean restaurant easy to find in town.',
-    },
-    rating: 4.3,
-    reviewCount: 380,
-    address: 'Luxembourg City',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Korean+restaurant+Luxembourg+City',
-    priceLevel: '€€',
   },
-  {
-    id: 'lux-kr-2',
-    cityId: 'luxembourg-city',
-    category: 'korean',
-    name: 'Seoul Restaurant Luxembourg',
-    description: {
-      ko: '불고기·비빔밥 등 기본 한식이 안정적.',
-      en: 'Solid classics like bulgogi and bibimbap.',
-    },
-    rating: 4.2,
-    reviewCount: 290,
-    address: 'Luxembourg City',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Seoul+restaurant+Luxembourg',
-    priceLevel: '€€',
-  },
-  {
-    id: 'lux-kr-3',
-    cityId: 'luxembourg-city',
-    category: 'korean',
-    name: 'Kimchi House (local pick)',
-    description: {
-      ko: '한식 선택지가 적은 도시에서 현지인이 찾는 캐주얼 한식.',
-      en: 'A casual local pick in a city with fewer Korean options.',
-    },
-    rating: 4.1,
-    reviewCount: 210,
-    address: 'Luxembourg City',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Kimchi+Korean+Luxembourg',
-    priceLevel: '€€',
-  },
-
-  // ——— Brussels ———
   {
     id: 'bru-fd-1',
     cityId: 'brussels',
@@ -537,81 +490,5 @@ export const placesPart2: Place[] = [
     address: 'Ixelles, Bruxelles',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Warm+Cafe+Bruxelles',
     priceLevel: '€€',
-  },  {
-    id: 'bru-kr-1',
-    cityId: 'brussels',
-    category: 'korean',
-    name: 'Kimchi',
-    description: {
-      ko: '브뤼셀에서 오래 사랑받은 한식당.',
-      en: 'A long-loved Korean restaurant in Brussels.',
-    },
-    rating: 4.4,
-    reviewCount: 1200,
-    address: 'Rue de la Vierge Noire 10, 1000 Bruxelles',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Kimchi+restaurant+Brussels',
-    lat: 50.8495,
-    lng: 4.3465,
-    priceLevel: '€€',
-  },
-  {
-    id: 'bru-kr-2',
-    cityId: 'brussels',
-    category: 'korean',
-    name: 'Seoul',
-    description: {
-      ko: '기본 한식 메뉴가 탄탄한 로컬 스팟.',
-      en: 'Local spot with a solid classic Korean menu.',
-    },
-    rating: 4.3,
-    reviewCount: 880,
-    address: 'Brussels',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Seoul+Korean+restaurant+Brussels',
-    priceLevel: '€€',
-  },
-  {
-    id: 'bru-kr-3',
-    cityId: 'brussels',
-    category: 'korean',
-    name: 'K-BOB / Korean BBQ spots',
-    description: {
-      ko: '고기구이 중심의 캐주얼 한식.',
-      en: 'Casual Korean focused on barbecue.',
-    },
-    rating: 4.3,
-    reviewCount: 760,
-    address: 'Ixelles / Saint-Gilles area',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Korean+BBQ+Brussels',
-    priceLevel: '€€',
-  },
-  {
-    id: 'bru-kr-4',
-    cityId: 'brussels',
-    category: 'korean',
-    name: 'Miss K Pop Chicken',
-    description: {
-      ko: '치맥·한식 사이드가 인기인 캐주얼 매장.',
-      en: 'Casual fried chicken and Korean sides.',
-    },
-    rating: 4.2,
-    reviewCount: 950,
-    address: 'Brussels',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Miss+K+Pop+Chicken+Brussels',
-    priceLevel: '€€',
-  },
-  {
-    id: 'bru-kr-5',
-    cityId: 'brussels',
-    category: 'korean',
-    name: 'Hapjeon / local Korean kitchens',
-    description: {
-      ko: '집밥 감성의 한식. 현지 직장인에게 인기.',
-      en: 'Home-style Korean popular with local office workers.',
-    },
-    rating: 4.2,
-    reviewCount: 540,
-    address: 'Brussels',
-    mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Korean+restaurant+near+me+Brussels',
-    priceLevel: '€€',
-  },
+  }
 ]

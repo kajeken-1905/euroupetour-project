@@ -16,10 +16,6 @@ export const placesCZExtra: Place[] = [
   place('prague-cafe-2', 'prague', 'cafe', 'The Miners / EMA espresso', 4.6, 'Prague', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2400 }),
   place('prague-cafe-3', 'prague', 'cafe', 'Café Savoy', 4.5, 'Prague', '그랜드 카페.', 'Grand café.', { reviewCount: 7200 }),
   place('prague-cafe-4', 'prague', 'cafe', 'Můj šálek kávy', 4.5, 'Prague', '로스터리 카페.', 'Roastery café.', { reviewCount: 3100 }),
-  place('prague-korean-1', 'prague', 'korean', 'Korean House Prague', 4.4, 'Prague', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 900 }),
-  place('prague-korean-2', 'prague', 'korean', 'Seoul Prague', 4.3, 'Prague', '한식 정식.', 'Korean meals.', { reviewCount: 700 }),
-  place('prague-korean-3', 'prague', 'korean', 'Bibimbap Prague', 4.3, 'Prague', '비빔밥.', 'Bibimbap.', { reviewCount: 560 }),
-  place('prague-korean-4', 'prague', 'korean', 'Korean BBQ Prague', 4.2, 'Prague', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
 
   // —— brno ——
   place('brno-fine_dining-1', 'brno', 'fine_dining', 'Brno Fine Dining 1', 4.5, 'Brno', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -35,10 +31,6 @@ export const placesCZExtra: Place[] = [
   place('brno-cafe-2', 'brno', 'cafe', 'Old Town Café Brno', 4.4, 'Brno', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('brno-cafe-3', 'brno', 'cafe', 'Brunch Café Brno', 4.3, 'Brno', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('brno-cafe-4', 'brno', 'cafe', 'Espresso Bar Brno', 4.3, 'Brno', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('brno-korean-1', 'brno', 'korean', 'Korean Kitchen Brno', 4.4, 'Brno', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('brno-korean-2', 'brno', 'korean', 'Bibimbap Brno', 4.3, 'Brno', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('brno-korean-3', 'brno', 'korean', 'Korean BBQ Brno', 4.3, 'Brno', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('brno-korean-4', 'brno', 'korean', 'Kimchi House Brno', 4.2, 'Brno', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— cesky-krumlov ——
   place('cesky-krumlov-fine_dining-1', 'cesky-krumlov', 'fine_dining', 'Český Krumlov Fine Dining 1', 4.5, 'Český Krumlov', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -54,10 +46,6 @@ export const placesCZExtra: Place[] = [
   place('cesky-krumlov-cafe-2', 'cesky-krumlov', 'cafe', 'Old Town Café Český Krumlov', 4.4, 'Český Krumlov', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('cesky-krumlov-cafe-3', 'cesky-krumlov', 'cafe', 'Brunch Café Český Krumlov', 4.3, 'Český Krumlov', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('cesky-krumlov-cafe-4', 'cesky-krumlov', 'cafe', 'Espresso Bar Český Krumlov', 4.3, 'Český Krumlov', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('cesky-krumlov-korean-1', 'cesky-krumlov', 'korean', 'Korean Kitchen Český Krumlov', 4.4, 'Český Krumlov', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('cesky-krumlov-korean-2', 'cesky-krumlov', 'korean', 'Bibimbap Český Krumlov', 4.3, 'Český Krumlov', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('cesky-krumlov-korean-3', 'cesky-krumlov', 'korean', 'Korean BBQ Český Krumlov', 4.3, 'Český Krumlov', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('cesky-krumlov-korean-4', 'cesky-krumlov', 'korean', 'Kimchi House Český Krumlov', 4.2, 'Český Krumlov', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— karlovy-vary ——
   place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Karlovy Vary Fine Dining 1', 4.5, 'Karlovy Vary', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -73,10 +61,6 @@ export const placesCZExtra: Place[] = [
   place('karlovy-vary-cafe-2', 'karlovy-vary', 'cafe', 'Old Town Café Karlovy Vary', 4.4, 'Karlovy Vary', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('karlovy-vary-cafe-3', 'karlovy-vary', 'cafe', 'Brunch Café Karlovy Vary', 4.3, 'Karlovy Vary', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('karlovy-vary-cafe-4', 'karlovy-vary', 'cafe', 'Espresso Bar Karlovy Vary', 4.3, 'Karlovy Vary', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('karlovy-vary-korean-1', 'karlovy-vary', 'korean', 'Korean Kitchen Karlovy Vary', 4.4, 'Karlovy Vary', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('karlovy-vary-korean-2', 'karlovy-vary', 'korean', 'Bibimbap Karlovy Vary', 4.3, 'Karlovy Vary', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('karlovy-vary-korean-3', 'karlovy-vary', 'korean', 'Korean BBQ Karlovy Vary', 4.3, 'Karlovy Vary', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('karlovy-vary-korean-4', 'karlovy-vary', 'korean', 'Kimchi House Karlovy Vary', 4.2, 'Karlovy Vary', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
   // —— ceske-budejovice ——
   place('ceske-budejovice-fine_dining-1', 'ceske-budejovice', 'fine_dining', 'České Budějovice Fine Dining 1', 4.5, 'České Budějovice', '시즌 코스 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 640 }),
@@ -92,9 +76,5 @@ export const placesCZExtra: Place[] = [
   place('ceske-budejovice-cafe-2', 'ceske-budejovice', 'cafe', 'Old Town Café České Budějovice', 4.4, 'České Budějovice', '구시가 카페.', 'Old-town café.', { reviewCount: 980 }),
   place('ceske-budejovice-cafe-3', 'ceske-budejovice', 'cafe', 'Brunch Café České Budějovice', 4.3, 'České Budějovice', '브런치 카페.', 'Brunch café.', { reviewCount: 860 }),
   place('ceske-budejovice-cafe-4', 'ceske-budejovice', 'cafe', 'Espresso Bar České Budějovice', 4.3, 'České Budějovice', '에스프레소 바.', 'Espresso bar.', { reviewCount: 720 }),
-  place('ceske-budejovice-korean-1', 'ceske-budejovice', 'korean', 'Korean Kitchen České Budějovice', 4.4, 'České Budějovice', '캐주얼 한식.', 'Casual Korean.', { reviewCount: 640 }),
-  place('ceske-budejovice-korean-2', 'ceske-budejovice', 'korean', 'Bibimbap České Budějovice', 4.3, 'České Budějovice', '비빔밥·덮밥.', 'Bibimbap bowls.', { reviewCount: 520 }),
-  place('ceske-budejovice-korean-3', 'ceske-budejovice', 'korean', 'Korean BBQ České Budějovice', 4.3, 'České Budějovice', '고기구이.', 'Korean BBQ.', { reviewCount: 480 }),
-  place('ceske-budejovice-korean-4', 'ceske-budejovice', 'korean', 'Kimchi House České Budějovice', 4.2, 'České Budějovice', '김치·반찬 중심.', 'Kimchi-focused Korean.', { reviewCount: 390 }),
 
 ]
