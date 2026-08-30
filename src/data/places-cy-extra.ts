@@ -18,9 +18,12 @@ export const placesCYExtra: Place[] = [
   place('nicosia-cafe-4', 'nicosia', 'cafe', 'Brunch Nicosia peers', 4.4, 'Nicosia', '브런치 카페.', 'Brunch café.', { reviewCount: 1100 }),
 
   // —— limassol ——
+  place('limassol-fine_dining-1', 'limassol', 'fine_dining', 'Ousia Soulful Kitchen', 4.5, '24 Irenes Street, Medieval Castle Square, Limassol 3042', '구시가 캐슬 광장의 레스토랑.', 'Restaurant by the Old Town\'s Castle Square.'),
 
   // —— paphos ——
+  place('paphos-fine_dining-1', 'paphos', 'fine_dining', '7 St. George\'s Tavern', 4.6, 'Anthipolochagou Georgiou Savva 37, Yeroskipou, Paphos 8201', '유기농 재료의 정통 키프로스 메제.', 'Authentic Cypriot meze from organic, local ingredients.'),
 
   // —— ayia-napa ——
+  place('ayia-napa-fine_dining-1', 'ayia-napa', 'fine_dining', 'Old Village Tavern', 4.5, '48 Nissi Avenue, Ayia Napa 5330', '전통 키프로스 타베르나.', 'Traditional Cypriot taverna.'),
 
 ]

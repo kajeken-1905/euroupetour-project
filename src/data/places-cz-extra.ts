@@ -19,11 +19,15 @@ export const placesCZExtra: Place[] = [
   place('prague-korean-1', 'prague', 'korean', 'Matzip', 4.5, 'Dušní 1082/6, 110 00 Praha 1', '구시가의 한식 비스트로.', 'Korean bistro in the Old Town.'),
 
   // —— brno ——
+  place('brno-fine_dining-1', 'brno', 'fine_dining', 'Špaliček', 4.5, 'Zelný trh 332/12, 602 00 Brno', '전통 체코 요리 레스토랑.', 'Traditional Czech restaurant.'),
 
   // —— cesky-krumlov ——
+  place('cesky-krumlov-fine_dining-1', 'cesky-krumlov', 'fine_dining', 'Švejk Restaurant', 4.5, 'Šatlavská 157, 381 01 Český Krumlov', '구시가의 전통 체코 요리.', 'Traditional Czech cuisine in the Old Town.'),
 
   // —— karlovy-vary ——
+  place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Promenáda', 4.5, 'Karlovy Vary', '카를로비바리 최고 평가 레스토랑.', 'Top-rated restaurant in Karlovy Vary.'),
 
   // —— ceske-budejovice ——
+  place('ceske-budejovice-fine_dining-1', 'ceske-budejovice', 'fine_dining', 'BRIO Restaurant', 4.6, 'Riegrova 1867/8, 370 01 České Budějovice', '매일 바뀌는 런치 메뉴의 레스토랑.', 'Restaurant with a daily-changing lunch menu.'),
 
 ]
