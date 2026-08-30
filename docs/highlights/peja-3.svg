@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="ghipeja3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#244AA5"/>
+      <stop offset="100%" stop-color="#122552"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#ghipeja3)"/>
+  <rect width="1200" height="800" fill="#FFD700" opacity="0.08"/>
+  <circle cx="1020" cy="140" r="260" fill="#FFD700" opacity="0.12"/>
+  <circle cx="120" cy="700" r="220" fill="#FFD700" opacity="0.10"/>
+  <text x="600" y="380" font-size="120" text-anchor="middle" dominant-baseline="middle">🇽🇰</text>
+  <text x="600" y="470" font-family="'Fraunces', Georgia, serif" font-size="44" font-weight="600" fill="#FFFFFF" text-anchor="middle" opacity="0.95">Peja Old Bazaar</text>
+  <text x="600" y="516" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle" opacity="0.75">Peja</text>
+  <text x="600" y="758" font-family="Arial, sans-serif" font-size="18" letter-spacing="2" fill="#FFFFFF" text-anchor="middle" opacity="0.55">PHOTO COMING SOON</text>
+</svg>

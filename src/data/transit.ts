@@ -1021,6 +1021,102 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
+  ua: {
+    summary: {
+      ko: '우측통행. 기차·마슈루트카·장거리 버스로 이동합니다.',
+      en: 'Drive on the right. Trains, marshrutkas, and coaches.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '우크르잘리즈니차(국영철도) 기차가 도시 간 이동의 중심입니다.',
+      en: 'Ukrainian Railways (Ukrzaliznytsia) trains link major cities.',
+    },
+    paymentTip: {
+      ko: 'Bolt·Uklon 택시 앱이 흔합니다.',
+      en: 'Bolt and Uklon taxi apps are common.',
+    },
+    apps: [ta('bolt')],
+  },
+  md: {
+    summary: {
+      ko: '우측통행. 미니버스(루트비카)와 기차로 이동합니다.',
+      en: 'Drive on the right. Marshrutka minibuses and trains.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '키시너우가 허브. 오르헤이울 베키·소로카는 투어나 렌터카가 편합니다.',
+      en: 'Chișinău is the hub; Orheiul Vechi and Soroca are easiest by tour or rental car.',
+    },
+    paymentTip: {
+      ko: 'Bolt·Yandex Go 택시 앱을 씁니다.',
+      en: 'Bolt and Yandex Go taxi apps are common.',
+    },
+    apps: [ta('bolt')],
+  },
+  am: {
+    summary: {
+      ko: '우측통행. 마슈루트카와 기차·시외버스로 이동합니다.',
+      en: 'Drive on the right. Marshrutka minibuses, trains, and intercity buses.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '예레반이 허브. 귬리·딜리잔은 마슈루트카로 이동합니다.',
+      en: 'Yerevan is the hub; reach Gyumri and Dilijan by marshrutka.',
+    },
+    paymentTip: {
+      ko: 'Yandex Go·GG 택시 앱이 흔합니다.',
+      en: 'Yandex Go and GG taxi apps are common.',
+    },
+    apps: [ta('bolt', { ko: '주요 도시 위주', en: 'Mainly major cities' })],
+  },
+  az: {
+    summary: {
+      ko: '우측통행. 바쿠 메트로와 장거리 버스로 이동합니다.',
+      en: 'Drive on the right. Baku metro and intercity buses.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '바쿠가 허브. 셰키·가발라는 버스나 렌터카로 이동합니다.',
+      en: 'Baku is the hub; reach Sheki and Gabala by bus or rental car.',
+    },
+    paymentTip: {
+      ko: 'BakıKart 교통카드. Bolt 택시 앱이 흔합니다.',
+      en: 'BakıKart transit card; Bolt taxi app is common.',
+    },
+    apps: [ta('bolt')],
+  },
+  sm: {
+    summary: {
+      ko: '우측통행. 리미니에서 버스로 접근하는 작은 산악 공화국입니다.',
+      en: 'Drive on the right. A small mountain republic reached by bus from Rimini.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '리미니 기차역에서 버스로 약 45분. 공항도 리미니가 일반적입니다.',
+      en: 'About 45 min by bus from Rimini train station; Rimini airport is usual.',
+    },
+    paymentTip: {
+      ko: '구시가는 도보 중심. 티타노산은 케이블카로 오릅니다.',
+      en: 'Old town is walkable; take the cable car up Mount Titano.',
+    },
+    apps: [ta('trainline', { ko: '리미니 기차 예약', en: 'Rimini train booking' })],
+  },
+  xk: {
+    summary: {
+      ko: '우측통행. 미니버스와 장거리 버스로 이동합니다.',
+      en: 'Drive on the right. Minibuses and intercity coaches.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '프리슈티나가 허브. 프리즈렌·페야는 버스로 1시간 내외입니다.',
+      en: 'Pristina is the hub; Prizren and Peja are about an hour by bus.',
+    },
+    paymentTip: {
+      ko: '유로 현금 사용이 흔합니다.',
+      en: 'Cash euros are commonly used.',
+    },
+    apps: [ta('bolt', { ko: '프리슈티나 위주', en: 'Mainly Pristina' })],
+  },
 }
 
 export const cityTransitById: Record<string, CityTransit> = {
@@ -4764,6 +4860,142 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('bolt', { ko: '우버 없음 · Yandex도 흔함', en: 'No Uber; Yandex Go also common' }),
     ],
+  },
+  kyiv: {
+    modes: ['metro', 'bus', 'tram', 'rideshare', 'taxi', 'walk'],
+    howTo: {
+      ko: '메트로 3개 노선이 뼈대. 버스·트램을 함께 씁니다.',
+      en: 'Three metro lines form the backbone; combine with buses and trams.',
+    },
+    apps: [ta('bolt')],
+  },
+  lviv: {
+    modes: ['tram', 'bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '트램·버스망이 촘촘한 도보 친화 구시가입니다.',
+      en: 'Dense tram/bus network; the old town itself is walkable.',
+    },
+    apps: [ta('bolt')],
+  },
+  odesa: {
+    modes: ['tram', 'bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '트램·버스가 기본. 해안 지구는 도보로 충분합니다.',
+      en: 'Trams and buses are standard; the seafront district is walkable.',
+    },
+    apps: [ta('bolt')],
+  },
+  chisinau: {
+    modes: ['bus', 'tram', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '트롤리버스·버스망이 시내 전역을 덮습니다.',
+      en: 'Trolleybus and bus network covers the whole city.',
+    },
+    apps: [ta('bolt')],
+  },
+  'orheiul-vechi': {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '키시너우에서 투어나 렌터카로 당일치기하기 좋습니다.',
+      en: 'Best as a day trip from Chișinău by tour or rental car.',
+    },
+    apps: [ta('bolt')],
+  },
+  soroca: {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '키시너우에서 버스나 렌터카로 이동합니다.',
+      en: 'Reach it from Chișinău by bus or rental car.',
+    },
+    apps: [ta('bolt')],
+  },
+  yerevan: {
+    modes: ['metro', 'bus', 'rideshare', 'taxi', 'walk'],
+    howTo: {
+      ko: '단일 메트로 노선 + 버스망을 씁니다.',
+      en: 'A single metro line plus a bus network.',
+    },
+    apps: [ta('bolt')],
+  },
+  gyumri: {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '예레반에서 마슈루트카·기차로 이동합니다.',
+      en: 'Reach it from Yerevan by marshrutka or train.',
+    },
+    apps: [ta('bolt')],
+  },
+  dilijan: {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '예레반에서 마슈루트카로 약 2시간입니다.',
+      en: 'About 2 hours from Yerevan by marshrutka.',
+    },
+    apps: [ta('bolt')],
+  },
+  baku: {
+    modes: ['metro', 'bus', 'rideshare', 'taxi', 'walk'],
+    howTo: {
+      ko: '메트로 3개 노선 + BakıKart 버스를 씁니다.',
+      en: 'Three metro lines plus BakıKart buses.',
+    },
+    apps: [ta('bolt')],
+  },
+  sheki: {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '바쿠에서 버스로 약 5~6시간입니다.',
+      en: 'About 5–6 hours from Baku by bus.',
+    },
+    apps: [ta('bolt')],
+  },
+  gabala: {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '바쿠에서 버스나 렌터카로 이동합니다.',
+      en: 'Reach it from Baku by bus or rental car.',
+    },
+    apps: [ta('bolt')],
+  },
+  'san-marino-city': {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '구시가는 전부 도보권입니다. 케이블카로 보르고 마조레와 연결됩니다.',
+      en: 'The old town is entirely walkable; a cable car links to Borgo Maggiore.',
+    },
+    apps: [],
+  },
+  'borgo-maggiore': {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '케이블카로 산마리노 시와 몇 분 만에 연결됩니다.',
+      en: 'A few minutes from the City of San Marino by cable car.',
+    },
+    apps: [],
+  },
+  pristina: {
+    modes: ['bus', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '시내버스망과 도보로 대부분 이동 가능합니다.',
+      en: 'Most of the city is reachable by local bus or on foot.',
+    },
+    apps: [ta('bolt')],
+  },
+  prizren: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '프리슈티나에서 버스로 약 1시간입니다.',
+      en: 'About 1 hour from Pristina by bus.',
+    },
+    apps: [],
+  },
+  peja: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '프리슈티나에서 버스로 약 1시간입니다.',
+      en: 'About 1 hour from Pristina by bus.',
+    },
+    apps: [],
   },
 }
 

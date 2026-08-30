@@ -12748,6 +12748,584 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Klaip%C4%97da%20port%20promenade",
       }
     ],
+  },
+  {
+    id: "kyiv",
+    countryId: "ua",
+    signatureImage: "/cities/kyiv.svg",
+    name: { ko: "키이우", en: "Kyiv" },
+    nativeName: "Київ",
+    blurb: {
+      ko: "드니프로강의 황금 돔 수도. 페체르스카 라브라가 상징입니다.",
+      en: "Golden-domed capital on the Dnipro—Kyiv Pechersk Lavra leads.",
+    },
+    highlights: [
+      {
+        id: "kyiv-h1",
+        name: { ko: "페체르스카 라브라", en: "Kyiv Pechersk Lavra" },
+        description: { ko: "황금 돔의 동굴 수도원입니다.", en: "Golden-domed cave monastery." },
+        image: "/highlights/kyiv-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kyiv%20Pechersk%20Lavra",
+      },
+      {
+        id: "kyiv-h2",
+        name: { ko: "성 소피아 대성당", en: "St Sophia's Cathedral" },
+        description: { ko: "유네스코 등재 비잔틴 성당입니다.", en: "UNESCO-listed Byzantine cathedral." },
+        image: "/highlights/kyiv-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Sophia's%20Cathedral%20Kyiv",
+      },
+      {
+        id: "kyiv-h3",
+        name: { ko: "안드리이우 언덕", en: "Andriyivskyy Descent" },
+        description: { ko: "예술가 거리이자 골동품 시장입니다.", en: "Artists' street and antique market." },
+        image: "/highlights/kyiv-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Andriyivskyy%20Descent%20Kyiv",
+      }
+    ],
+  },
+  {
+    id: "lviv",
+    countryId: "ua",
+    signatureImage: "/cities/lviv.svg",
+    name: { ko: "리비우", en: "Lviv" },
+    nativeName: "Львів",
+    blurb: {
+      ko: "합스부르크 정취가 남은 유네스코 구시가입니다.",
+      en: "Habsburg-era old town, UNESCO-listed.",
+    },
+    highlights: [
+      {
+        id: "lviv-h1",
+        name: { ko: "리비우 구시가 광장", en: "Rynok Square" },
+        description: { ko: "르네상스 건물이 둘러싼 중앙 광장입니다.", en: "Renaissance buildings ring the main square." },
+        image: "/highlights/lviv-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rynok%20Square%20Lviv",
+      },
+      {
+        id: "lviv-h2",
+        name: { ko: "리비우 오페라 극장", en: "Lviv Opera House" },
+        description: { ko: "네오르네상스 양식의 오페라 극장입니다.", en: "Neo-Renaissance opera house." },
+        image: "/highlights/lviv-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lviv%20Opera%20House",
+      },
+      {
+        id: "lviv-h3",
+        name: { ko: "성 유라 대성당", en: "St George's Cathedral" },
+        description: { ko: "우크라이나 바로크 양식 대성당입니다.", en: "Ukrainian Baroque cathedral." },
+        image: "/highlights/lviv-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20George's%20Cathedral%20Lviv",
+      }
+    ],
+  },
+  {
+    id: "odesa",
+    countryId: "ua",
+    signatureImage: "/cities/odesa.svg",
+    name: { ko: "오데사", en: "Odesa" },
+    nativeName: "Одеса",
+    blurb: {
+      ko: "흑해의 항구 도시. 포템킨 계단이 유명합니다.",
+      en: "Black Sea port city, famed for the Potemkin Stairs.",
+    },
+    highlights: [
+      {
+        id: "odesa-h1",
+        name: { ko: "포템킨 계단", en: "Potemkin Stairs" },
+        description: { ko: "항구로 이어지는 상징적 계단입니다.", en: "Iconic staircase to the harbour." },
+        image: "/highlights/odesa-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Potemkin%20Stairs%20Odesa",
+      },
+      {
+        id: "odesa-h2",
+        name: { ko: "데리바시브스카 거리", en: "Deribasivska Street" },
+        description: { ko: "카페와 상점이 늘어선 번화가입니다.", en: "Café-lined pedestrian avenue." },
+        image: "/highlights/odesa-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Deribasivska%20Street%20Odesa",
+      },
+      {
+        id: "odesa-h3",
+        name: { ko: "오데사 국립 오페라 극장", en: "Odesa Opera House" },
+        description: { ko: "바로크 양식의 국립 오페라 극장입니다.", en: "Baroque national opera house." },
+        image: "/highlights/odesa-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Odesa%20National%20Opera%20Theatre",
+      }
+    ],
+  },
+  {
+    id: "chisinau",
+    countryId: "md",
+    signatureImage: "/cities/chisinau.svg",
+    name: { ko: "키시너우", en: "Chișinău" },
+    nativeName: "Chișinău",
+    blurb: {
+      ko: "공원과 와인 바가 어우러진 초록 수도입니다.",
+      en: "Green capital of parks and wine bars.",
+    },
+    highlights: [
+      {
+        id: "chisinau-h1",
+        name: { ko: "승리 개선문", en: "Triumphal Arch" },
+        description: { ko: "키시너우 중심의 개선문입니다.", en: "Triumphal arch in the city centre." },
+        image: "/highlights/chisinau-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Triumphal%20Arch%20Chisinau",
+      },
+      {
+        id: "chisinau-h2",
+        name: { ko: "슈테판 첼 마레 공원", en: "Stefan cel Mare Park" },
+        description: { ko: "도심 속 대표 공원입니다.", en: "Central city park." },
+        image: "/highlights/chisinau-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stefan%20cel%20Mare%20Park%20Chisinau",
+      },
+      {
+        id: "chisinau-h3",
+        name: { ko: "키시너우 중앙시장", en: "Chișinău Central Market" },
+        description: { ko: "현지 먹거리 노천 시장입니다.", en: "Open-air local produce market." },
+        image: "/highlights/chisinau-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chisinau%20Central%20Market",
+      }
+    ],
+  },
+  {
+    id: "orheiul-vechi",
+    countryId: "md",
+    signatureImage: "/cities/orheiul-vechi.svg",
+    name: { ko: "오르헤이울 베키", en: "Orheiul Vechi" },
+    nativeName: "Orheiul Vechi",
+    blurb: {
+      ko: "절벽 위 동굴 수도원 유적지입니다.",
+      en: "Cliffside cave-monastery archaeological reserve.",
+    },
+    highlights: [
+      {
+        id: "orheiul-vechi-h1",
+        name: { ko: "동굴 수도원", en: "Cave Monastery" },
+        description: { ko: "석회암 절벽의 동굴 수도원입니다.", en: "Cave monastery carved into limestone cliffs." },
+        image: "/highlights/orheiul-vechi-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Orheiul%20Vechi%20Cave%20Monastery",
+      },
+      {
+        id: "orheiul-vechi-h2",
+        name: { ko: "부트강 전망대", en: "Raut River viewpoint" },
+        description: { ko: "협곡을 굽어보는 전망대입니다.", en: "Overlook above the river gorge." },
+        image: "/highlights/orheiul-vechi-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Orheiul%20Vechi%20viewpoint",
+      },
+      {
+        id: "orheiul-vechi-h3",
+        name: { ko: "부투체니 마을", en: "Butuceni village" },
+        description: { ko: "전통 가옥이 남은 마을입니다.", en: "Village of traditional houses." },
+        image: "/highlights/orheiul-vechi-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Butuceni%20village%20Moldova",
+      }
+    ],
+  },
+  {
+    id: "soroca",
+    countryId: "md",
+    signatureImage: "/cities/soroca.svg",
+    name: { ko: "소로카", en: "Soroca" },
+    nativeName: "Soroca",
+    blurb: {
+      ko: "드네스트르강변의 중세 요새 도시입니다.",
+      en: "Medieval fortress town on the Dniester.",
+    },
+    highlights: [
+      {
+        id: "soroca-h1",
+        name: { ko: "소로카 요새", en: "Soroca Fort" },
+        description: { ko: "15세기에 지어진 원형 요새입니다.", en: "Circular 15th-century fortress." },
+        image: "/highlights/soroca-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Soroca%20Fort",
+      },
+      {
+        id: "soroca-h2",
+        name: { ko: "집시 언덕", en: "Gypsy Hill" },
+        description: { ko: "화려한 저택들이 늘어선 언덕입니다.", en: "Hillside of ornate mansions." },
+        image: "/highlights/soroca-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Soroca%20Gypsy%20Hill",
+      },
+      {
+        id: "soroca-h3",
+        name: { ko: "드네스트르 강변", en: "Dniester riverside" },
+        description: { ko: "강변 산책로입니다.", en: "Riverside promenade." },
+        image: "/highlights/soroca-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Soroca%20Dniester%20riverside",
+      }
+    ],
+  },
+  {
+    id: "yerevan",
+    countryId: "am",
+    signatureImage: "/cities/yerevan.svg",
+    name: { ko: "예레반", en: "Yerevan" },
+    nativeName: "Երևան",
+    blurb: {
+      ko: "아라라트산이 보이는 장미빛 도시입니다.",
+      en: "Pink city with Mount Ararat views.",
+    },
+    highlights: [
+      {
+        id: "yerevan-h1",
+        name: { ko: "캐스케이드 콤플렉스", en: "Cascade Complex" },
+        description: { ko: "계단식 전망대이자 현대미술 공간입니다.", en: "Tiered staircase and modern-art venue." },
+        image: "/highlights/yerevan-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cascade%20Complex%20Yerevan",
+      },
+      {
+        id: "yerevan-h2",
+        name: { ko: "공화국 광장", en: "Republic Square" },
+        description: { ko: "분수쇼로 유명한 중앙 광장입니다.", en: "Central square famed for its fountain show." },
+        image: "/highlights/yerevan-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Republic%20Square%20Yerevan",
+      },
+      {
+        id: "yerevan-h3",
+        name: { ko: "마테나다란", en: "Matenadaran" },
+        description: { ko: "고대 필사본을 소장한 박물관입니다.", en: "Museum of ancient manuscripts." },
+        image: "/highlights/yerevan-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Matenadaran%20Yerevan",
+      }
+    ],
+  },
+  {
+    id: "gyumri",
+    countryId: "am",
+    signatureImage: "/cities/gyumri.svg",
+    name: { ko: "귬리", en: "Gyumri" },
+    nativeName: "Գյումրի",
+    blurb: {
+      ko: "19세기 건축이 남은 두 번째 도시입니다.",
+      en: "Armenia's second city, rich in 19th-century architecture.",
+    },
+    highlights: [
+      {
+        id: "gyumri-h1",
+        name: { ko: "바르타나츠 광장", en: "Vartanants Square" },
+        description: { ko: "구시가 중심 광장입니다.", en: "Old-town central square." },
+        image: "/highlights/gyumri-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vartanants%20Square%20Gyumri",
+      },
+      {
+        id: "gyumri-h2",
+        name: { ko: "검은 요새", en: "Black Fortress" },
+        description: { ko: "러시아 제국 시대 요새입니다.", en: "Fortress from the Russian imperial era." },
+        image: "/highlights/gyumri-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Black%20Fortress%20Gyumri",
+      },
+      {
+        id: "gyumri-h3",
+        name: { ko: "귬리 미술관", en: "Gyumri Fine Arts Museum" },
+        description: { ko: "지역 미술 소장품입니다.", en: "Regional fine-art collection." },
+        image: "/highlights/gyumri-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gyumri%20Fine%20Arts%20Museum",
+      }
+    ],
+  },
+  {
+    id: "dilijan",
+    countryId: "am",
+    signatureImage: "/cities/dilijan.svg",
+    name: { ko: "딜리잔", en: "Dilijan" },
+    nativeName: "Դիլիջան",
+    blurb: {
+      ko: "숲과 온천의 ‘아르메니아 스위스’입니다.",
+      en: "Forested spa town, Armenia's 'Little Switzerland'.",
+    },
+    highlights: [
+      {
+        id: "dilijan-h1",
+        name: { ko: "딜리잔 국립공원", en: "Dilijan National Park" },
+        description: { ko: "울창한 숲의 국립공원입니다.", en: "Densely forested national park." },
+        image: "/highlights/dilijan-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dilijan%20National%20Park",
+      },
+      {
+        id: "dilijan-h2",
+        name: { ko: "하가르친 수도원", en: "Haghartsin Monastery" },
+        description: { ko: "숲 속의 중세 수도원입니다.", en: "Medieval monastery in the woods." },
+        image: "/highlights/dilijan-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Haghartsin%20Monastery",
+      },
+      {
+        id: "dilijan-h3",
+        name: { ko: "딜리잔 구시가", en: "Dilijan Old Town" },
+        description: { ko: "전통 목조 발코니 거리입니다.", en: "Street of traditional wooden balconies." },
+        image: "/highlights/dilijan-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dilijan%20Old%20Town",
+      }
+    ],
+  },
+  {
+    id: "baku",
+    countryId: "az",
+    signatureImage: "/cities/baku.svg",
+    name: { ko: "바쿠", en: "Baku" },
+    nativeName: "Bakı",
+    blurb: {
+      ko: "카스피해변 불꽃 타워의 도시입니다.",
+      en: "Caspian shoreline city of the Flame Towers.",
+    },
+    highlights: [
+      {
+        id: "baku-h1",
+        name: { ko: "불꽃 타워", en: "Flame Towers" },
+        description: { ko: "바쿠 스카이라인의 랜드마크입니다.", en: "Landmark trio on the Baku skyline." },
+        image: "/highlights/baku-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Flame%20Towers%20Baku",
+      },
+      {
+        id: "baku-h2",
+        name: { ko: "이체리셰헤르", en: "Icherisheher Old City" },
+        description: { ko: "유네스코 등재 성곽 구시가입니다.", en: "UNESCO-listed walled old city." },
+        image: "/highlights/baku-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Icherisheher%20Baku",
+      },
+      {
+        id: "baku-h3",
+        name: { ko: "처녀의 탑", en: "Maiden Tower" },
+        description: { ko: "구시가의 상징적 석탑입니다.", en: "Iconic stone tower in the old city." },
+        image: "/highlights/baku-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Maiden%20Tower%20Baku",
+      }
+    ],
+  },
+  {
+    id: "sheki",
+    countryId: "az",
+    signatureImage: "/cities/sheki.svg",
+    name: { ko: "셰키", en: "Sheki" },
+    nativeName: "Şəki",
+    blurb: {
+      ko: "실크로드의 칸 궁전 도시입니다.",
+      en: "Silk Road town of the Khan's Palace.",
+    },
+    highlights: [
+      {
+        id: "sheki-h1",
+        name: { ko: "셰키 칸 궁전", en: "Sheki Khan's Palace" },
+        description: { ko: "스테인드글라스로 유명한 궁전입니다.", en: "Palace famed for stained-glass windows." },
+        image: "/highlights/sheki-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sheki%20Khan's%20Palace",
+      },
+      {
+        id: "sheki-h2",
+        name: { ko: "카라반사라이", en: "Sheki Caravanserai" },
+        description: { ko: "옛 대상 숙소를 개조한 건물입니다.", en: "Converted historic caravanserai." },
+        image: "/highlights/sheki-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sheki%20Caravanserai",
+      },
+      {
+        id: "sheki-h3",
+        name: { ko: "셰키 구시가", en: "Sheki Old Town" },
+        description: { ko: "산기슭의 전통 가옥 지구입니다.", en: "Traditional-house district at the foothills." },
+        image: "/highlights/sheki-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sheki%20Old%20Town",
+      }
+    ],
+  },
+  {
+    id: "gabala",
+    countryId: "az",
+    signatureImage: "/cities/gabala.svg",
+    name: { ko: "가발라", en: "Gabala" },
+    nativeName: "Qəbələ",
+    blurb: {
+      ko: "코카서스 산기슭의 리조트 타운입니다.",
+      en: "Resort town at the foot of the Caucasus.",
+    },
+    highlights: [
+      {
+        id: "gabala-h1",
+        name: { ko: "투판다그 리조트", en: "Tufandag mountain resort" },
+        description: { ko: "케이블카가 있는 산악 리조트입니다.", en: "Mountain resort with a cable car." },
+        image: "/highlights/gabala-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tufandag%20Mountain%20Resort%20Gabala",
+      },
+      {
+        id: "gabala-h2",
+        name: { ko: "노후르 호수", en: "Nohur Lake" },
+        description: { ko: "산속의 인공 호수입니다.", en: "Man-made lake in the hills." },
+        image: "/highlights/gabala-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nohur%20Lake%20Gabala",
+      },
+      {
+        id: "gabala-h3",
+        name: { ko: "가발라 고대 유적", en: "Gabala archaeological site" },
+        description: { ko: "고대 카프카스 알바니아 유적입니다.", en: "Ancient Caucasian Albania ruins." },
+        image: "/highlights/gabala-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gabala%20archaeological%20site",
+      }
+    ],
+  },
+  {
+    id: "san-marino-city",
+    countryId: "sm",
+    signatureImage: "/cities/san-marino-city.svg",
+    name: { ko: "산마리노 시", en: "City of San Marino" },
+    nativeName: "Città di San Marino",
+    blurb: {
+      ko: "티타노산 정상의 3개 탑이 상징입니다.",
+      en: "Three towers crown Mount Titano.",
+    },
+    highlights: [
+      {
+        id: "san-marino-city-h1",
+        name: { ko: "구아이타 탑", en: "Guaita Tower" },
+        description: { ko: "가장 오래된 첫 번째 탑입니다.", en: "The oldest of the three towers." },
+        image: "/highlights/san-marino-city-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Guaita%20Tower%20San%20Marino",
+      },
+      {
+        id: "san-marino-city-h2",
+        name: { ko: "체스타 탑", en: "Cesta Tower" },
+        description: { ko: "무기 박물관이 있는 두 번째 탑입니다.", en: "Second tower, home to a weapons museum." },
+        image: "/highlights/san-marino-city-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cesta%20Tower%20San%20Marino",
+      },
+      {
+        id: "san-marino-city-h3",
+        name: { ko: "산마리노 대성당", en: "Basilica di San Marino" },
+        description: { ko: "신고전주의 양식의 대성당입니다.", en: "Neoclassical basilica." },
+        image: "/highlights/san-marino-city-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Marino",
+      }
+    ],
+  },
+  {
+    id: "borgo-maggiore",
+    countryId: "sm",
+    signatureImage: "/cities/borgo-maggiore.svg",
+    name: { ko: "보르고 마조레", en: "Borgo Maggiore" },
+    nativeName: "Borgo Maggiore",
+    blurb: {
+      ko: "케이블카로 이어지는 시장 마을입니다.",
+      en: "Market town linked by cable car.",
+    },
+    highlights: [
+      {
+        id: "borgo-maggiore-h1",
+        name: { ko: "산마리노 케이블카", en: "San Marino cable car" },
+        description: { ko: "티타노산을 잇는 케이블카입니다.", en: "Cable car up to Mount Titano." },
+        image: "/highlights/borgo-maggiore-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=San%20Marino%20cable%20car",
+      },
+      {
+        id: "borgo-maggiore-h2",
+        name: { ko: "그란데 광장", en: "Piazza Grande" },
+        description: { ko: "마을 중심 광장입니다.", en: "Central town square." },
+        image: "/highlights/borgo-maggiore-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Grande%20Borgo%20Maggiore",
+      },
+      {
+        id: "borgo-maggiore-h3",
+        name: { ko: "목요 시장", en: "Thursday market" },
+        description: { ko: "매주 열리는 전통 시장입니다.", en: "Weekly traditional market." },
+        image: "/highlights/borgo-maggiore-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Borgo%20Maggiore%20market",
+      }
+    ],
+  },
+  {
+    id: "pristina",
+    countryId: "xk",
+    signatureImage: "/cities/pristina.svg",
+    name: { ko: "프리슈티나", en: "Pristina" },
+    nativeName: "Prishtinë",
+    blurb: {
+      ko: "젊고 활기찬 발칸의 수도입니다.",
+      en: "Youthful, energetic Balkan capital.",
+    },
+    highlights: [
+      {
+        id: "pristina-h1",
+        name: { ko: "뉴본 기념비", en: "NEWBORN Monument" },
+        description: { ko: "코소보 독립을 기념하는 조형물입니다.", en: "Monument marking Kosovo's independence." },
+        image: "/highlights/pristina-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Newborn%20Monument%20Pristina",
+      },
+      {
+        id: "pristina-h2",
+        name: { ko: "코소보 국립도서관", en: "National Library of Kosovo" },
+        description: { ko: "독특한 격자 외관의 도서관입니다.", en: "Library famed for its lattice facade." },
+        image: "/highlights/pristina-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=National%20Library%20of%20Kosovo",
+      },
+      {
+        id: "pristina-h3",
+        name: { ko: "마더 테레사 대로", en: "Mother Teresa Boulevard" },
+        description: { ko: "카페가 늘어선 보행자 거리입니다.", en: "Café-lined pedestrian boulevard." },
+        image: "/highlights/pristina-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mother%20Teresa%20Boulevard%20Pristina",
+      }
+    ],
+  },
+  {
+    id: "prizren",
+    countryId: "xk",
+    signatureImage: "/cities/prizren.svg",
+    name: { ko: "프리즈렌", en: "Prizren" },
+    nativeName: "Prizren",
+    blurb: {
+      ko: "오스만 정취가 남은 강변 고도입니다.",
+      en: "Riverside old town with Ottoman charm.",
+    },
+    highlights: [
+      {
+        id: "prizren-h1",
+        name: { ko: "프리즈렌 요새", en: "Prizren Fortress" },
+        description: { ko: "도시를 굽어보는 언덕 요새입니다.", en: "Hilltop fortress overlooking the town." },
+        image: "/highlights/prizren-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Prizren%20Fortress",
+      },
+      {
+        id: "prizren-h2",
+        name: { ko: "시난 파샤 모스크", en: "Sinan Pasha Mosque" },
+        description: { ko: "오스만 시대의 대표 모스크입니다.", en: "Landmark Ottoman-era mosque." },
+        image: "/highlights/prizren-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sinan%20Pasha%20Mosque%20Prizren",
+      },
+      {
+        id: "prizren-h3",
+        name: { ko: "프리즈렌 구시가", en: "Prizren Old Town" },
+        description: { ko: "돌다리와 옛 상점가입니다.", en: "Stone bridge and old bazaar street." },
+        image: "/highlights/prizren-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Prizren%20Old%20Town",
+      }
+    ],
+  },
+  {
+    id: "peja",
+    countryId: "xk",
+    signatureImage: "/cities/peja.svg",
+    name: { ko: "페야", en: "Peja" },
+    nativeName: "Pejë",
+    blurb: {
+      ko: "루고바 협곡 관문의 산악 도시입니다.",
+      en: "Mountain gateway to the Rugova Canyon.",
+    },
+    highlights: [
+      {
+        id: "peja-h1",
+        name: { ko: "루고바 협곡", en: "Rugova Canyon" },
+        description: { ko: "깎아지른 절벽의 협곡입니다.", en: "Canyon flanked by sheer cliffs." },
+        image: "/highlights/peja-1.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rugova%20Canyon",
+      },
+      {
+        id: "peja-h2",
+        name: { ko: "페치 총대주교좌 수도원", en: "Patriarchate of Peć Monastery" },
+        description: { ko: "세르비아 정교 총대주교좌입니다.", en: "Seat of the Serbian Orthodox Patriarchate." },
+        image: "/highlights/peja-2.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Patriarchate%20of%20Pec%20Monastery",
+      },
+      {
+        id: "peja-h3",
+        name: { ko: "페야 구시장", en: "Peja Old Bazaar" },
+        description: { ko: "전통 수공예 시장입니다.", en: "Traditional craft bazaar." },
+        image: "/highlights/peja-3.svg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Peja%20Old%20Bazaar",
+      }
+    ],
   }
 ]
 

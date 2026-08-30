@@ -38,6 +38,12 @@ import { placesBAExtra } from './places-ba-extra'
 import { placesMEExtra } from './places-me-extra'
 import { placesRSExtra } from './places-rs-extra'
 import { placesGEExtra } from './places-ge-extra'
+import { placesUAExtra } from './places-ua-extra'
+import { placesMDExtra } from './places-md-extra'
+import { placesAMExtra } from './places-am-extra'
+import { placesAZExtra } from './places-az-extra'
+import { placesSMExtra } from './places-sm-extra'
+import { placesXKExtra } from './places-xk-extra'
 import { placesMKExtra } from './places-mk-extra'
 import { placesCYExtra } from './places-cy-extra'
 import { placesALExtra } from './places-al-extra'
@@ -100,6 +106,12 @@ export const places: Place[] = [
   ...placesFashion,
   ...placesGrocery,
   ...placesAsian,
+  ...placesUAExtra,
+  ...placesMDExtra,
+  ...placesAMExtra,
+  ...placesAZExtra,
+  ...placesSMExtra,
+  ...placesXKExtra,
 ]
 
 export function getPlace(id: string) {

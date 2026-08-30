@@ -502,6 +502,72 @@ export const countryPhrases: Record<string, CountryPhrases> = {
       howMuch: 'Kiek kainuoja?',
     }),
   },
+  ua: {
+    languageLabel: { ko: '우크라이나어', en: 'Ukrainian' },
+    speechLangs: ['uk-UA', 'uk'],
+    lines: lines({
+      morning: 'Доброго ранку',
+      hello: 'Привіт',
+      excuse: 'Перепрошую',
+      thanks: 'Дякую',
+      howMuch: 'Скільки коштує?',
+    }),
+  },
+  md: {
+    languageLabel: { ko: '루마니아어', en: 'Romanian' },
+    speechLangs: ['ro-MD', 'ro-RO', 'ro'],
+    lines: lines({
+      morning: 'Bună dimineața',
+      hello: 'Salut',
+      excuse: 'Scuzați-mă',
+      thanks: 'Mulțumesc',
+      howMuch: 'Cât costă?',
+    }),
+  },
+  am: {
+    languageLabel: { ko: '아르메니아어', en: 'Armenian' },
+    speechLangs: ['hy-AM', 'hy'],
+    lines: lines({
+      morning: 'Բարի լույս',
+      hello: 'Բարև',
+      excuse: 'Ներողություն',
+      thanks: 'Շնորհակալություն',
+      howMuch: 'Ինչքա՞ն արժե',
+    }),
+  },
+  az: {
+    languageLabel: { ko: '아제르바이잔어', en: 'Azerbaijani' },
+    speechLangs: ['az-AZ', 'az'],
+    lines: lines({
+      morning: 'Sabahınız xeyir',
+      hello: 'Salam',
+      excuse: 'Bağışlayın',
+      thanks: 'Sağ olun',
+      howMuch: 'Neçəyədir?',
+    }),
+  },
+  sm: {
+    languageLabel: { ko: '이탈리아어', en: 'Italian' },
+    speechLangs: ['it-IT', 'it'],
+    lines: lines({
+      morning: 'Buongiorno',
+      hello: 'Ciao',
+      excuse: 'Mi scusi',
+      thanks: 'Grazie',
+      howMuch: 'Quanto costa?',
+    }),
+  },
+  xk: {
+    languageLabel: { ko: '알바니아어', en: 'Albanian' },
+    speechLangs: ['sq-AL', 'sq'],
+    lines: lines({
+      morning: 'Mirëmëngjes',
+      hello: 'Tungjatjeta',
+      excuse: 'Më falni',
+      thanks: 'Faleminderit',
+      howMuch: 'Sa kushton?',
+    }),
+  },
 }
 
 export function getCountryPhrases(countryId: string): CountryPhrases | undefined {
