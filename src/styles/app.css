@@ -163,6 +163,23 @@
   transform: scale(0.98);
 }
 
+.country-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image: inherit;
+  background-size: cover;
+  background-position: center;
+  transform: scale(1);
+  transition: transform 0.45s ease;
+}
+
+.country-card:hover::before,
+.country-card:focus-visible::before {
+  transform: scale(1.08);
+}
+
 .country-card::after {
   display: none;
 }
@@ -525,6 +542,8 @@ button.back-link {
 
 .city-item {
   display: block;
+  position: relative;
+  overflow: hidden;
   padding: 18px 16px;
   border-radius: 16px;
   color: #fff;
@@ -540,7 +559,26 @@ button.back-link {
   transform: scale(0.98);
 }
 
+.city-item::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image: inherit;
+  background-size: cover;
+  background-position: center;
+  transform: scale(1);
+  transition: transform 0.45s ease;
+}
+
+.city-item:hover::before,
+.city-item:focus-visible::before {
+  transform: scale(1.08);
+}
+
 .city-item strong {
+  position: relative;
+  z-index: 1;
   display: block;
   font-size: 17px;
   margin-bottom: 4px;
@@ -548,6 +586,8 @@ button.back-link {
 }
 
 .city-item .city-highlight {
+  position: relative;
+  z-index: 1;
   color: rgba(255, 255, 255, 0.88);
   font-size: 13px;
   line-height: 1.4;
@@ -632,6 +672,13 @@ button.back-link {
 .highlight-card-media {
   background-size: cover;
   background-position: center;
+  transform: scale(1);
+  transition: transform 0.45s ease;
+}
+
+.highlight-card:hover .highlight-card-media,
+.highlight-card:focus-visible .highlight-card-media {
+  transform: scale(1.08);
 }
 
 .highlight-card-body {
@@ -698,6 +745,12 @@ button.back-link {
   border-radius: 16px;
   background: #fff;
   border: 1px solid var(--line);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.place-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 24px rgba(20, 17, 15, 0.1);
 }
 
 .place-card .row {
@@ -1513,4 +1566,13 @@ button.back-link {
 
 .theme-page .top-bar h1 {
   color: #2a1840;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .country-card::before,
+  .city-item::before,
+  .highlight-card-media,
+  .place-card {
+    transition: none;
+  }
 }
