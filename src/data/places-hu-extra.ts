@@ -19,11 +19,15 @@ export const placesHUExtra: Place[] = [
   place('budapest-korean-1', 'budapest', 'korean', 'Arirang', 4.5, 'Ilka utca 22, 1043 Budapest', '조용한 골목의 정통 한식당.', 'Authentic Korean restaurant on a quiet street.'),
 
   // —— debrecen ——
+  place('debrecen-fine_dining-1', 'debrecen', 'fine_dining', 'IKON', 4.6, 'Piac utca 23, 4031 Debrecen', '부다페스트 밖 헝가리 최고 레스토랑.', 'One of Hungary\'s best restaurants outside Budapest.'),
 
   // —— pecs ——
+  place('pecs-fine_dining-1', 'pecs', 'fine_dining', 'Bagolyvár', 4.5, 'Felsőhavi dűlő 6, 7627 Pécs', '테티에 언덕의 전망 좋은 레스토랑.', 'Restaurant with panoramic views on Tettye hill.'),
 
   // —— szeged ——
+  place('szeged-fine_dining-1', 'szeged', 'fine_dining', 'Régi Híd Vendéglő', 4.5, 'Oskola u. 4, 6720 Szeged', '합리적인 가격의 정통 헝가리 요리.', 'Authentic Hungarian cuisine at fair prices.'),
 
   // —— eger ——
+  place('eger-fine_dining-1', 'eger', 'fine_dining', 'Macok Bistro', 4.6, 'Tinódi S. tér 4, 3300 Eger', '헝가리 전역에서 손꼽히는 비스트로.', 'Bistro ranked among the best in Hungary.'),
 
 ]
