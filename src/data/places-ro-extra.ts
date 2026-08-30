@@ -18,12 +18,16 @@ export const placesROExtra: Place[] = [
   place('bucharest-cafe-4', 'bucharest', 'cafe', 'brunch cafés Centru Vechi', 4.4, 'Bucharest', '구시가 브런치.', 'Old-town brunch.', { reviewCount: 1600 }),
 
   // —— brasov ——
+  place('brasov-fine_dining-1', 'brasov', 'fine_dining', 'Albert Social Bistro', 4.6, 'Strada Apollonia Hirscher 12, 500015 Brașov', '구 와인 저장고의 유러피언 비스트로.', 'European bistro in a former wine cellar.'),
 
   // —— sibiu ——
+  place('sibiu-fine_dining-1', 'sibiu', 'fine_dining', 'Syndicat Gourmet', 4.5, 'Strada Târgului 10, 550195 Sibiu', '루마니아·인도 퓨전 요리.', 'Romanian-Indian fusion cuisine.'),
 
   // —— sighisoara ——
+  place('sighisoara-fine_dining-1', 'sighisoara', 'fine_dining', 'Casa Georgius Krauss', 4.6, 'Strada Bastionului 11, 545400 Sighișoara', '성벽 안 트란실바니아 요리.', 'Transylvanian cuisine within the citadel walls.'),
 
   // —— cluj-napoca ——
+  place('cluj-napoca-fine_dining-1', 'cluj-napoca', 'fine_dining', 'Samsara Foodhouse', 4.5, 'Strada Alexandru Ciurea 6, 400000 Cluj-Napoca', '올리브 나무가 있는 채식·비건 레스토랑.', 'Vegan-friendly restaurant with an olive tree indoors.'),
 
   // —— timisoara ——
 
