@@ -20,4 +20,6 @@ export const placesMCExtra: Place[] = [
   // —— monte-carlo ——
   place('monte-carlo-fine_dining-1', 'monte-carlo', 'fine_dining', 'Le Louis XV - Alain Ducasse', 4.7, 'Avenue Princesse Grace, 98000 Monaco', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
 
+  place('monte-carlo-bakery-1', 'monte-carlo', 'bakery', 'Pâtisserie Riviera', 4.5, '27 Boulevard des Moulins, 98000 Monte-Carlo, Monaco', '1955년부터 이어온 몬테카를로의 대표 제과점', 'Monte Carlo\'s leading pastry shop, beloved since 1955'),
+  place('monte-carlo-cafe-1', 'monte-carlo', 'cafe', 'MetCafé Monte Carlo', 4.5, '17 Av. des Spélugues, 98000 Monaco', '유명 셰프가 선보이는 몬테카를로 메트로폴 쇼핑몰의 세련된 카페', 'Chic Monte Carlo café at the Metropole Shopping Center, created by a renowned chef'),
 ]

@@ -14,8 +14,12 @@ export const placesLTExtra: Place[] = [
 
   // —— kaunas ——
   place('kaunas-fine_dining-1', 'kaunas', 'fine_dining', 'Nüman', 4.6, 'Nemuno g. 43, 44288 Kaunas', '구시가의 미쉐린 어워드 레스토랑.', 'Michelin-recognized restaurant in the Old Town.'),
+  place('kaunas-bakery-1', 'kaunas', 'bakery', 'Motiejaus kepyklėlė', 4.7, 'Vilniaus gatvė 7, 44280 Kaunas, Lithuania', '리투아니아 최고의 베이커리로 꼽히는 카우나스 구시가지의 명소', 'Widely regarded as one of the best bakeries in Lithuania, in Kaunas\'s Old Town'),
+  place('kaunas-cafe-1', 'kaunas', 'cafe', 'Koffee Lab', 4.5, 'K. Donelaičio g. 60, 44248 Kaunas, Lithuania', '자체 로스팅 커피로 유명한 카우나스의 모던 카페', 'Modern Kaunas café known for its on-site roasted coffee'),
 
   // —— klaipeda ——
   place('klaipeda-fine_dining-1', 'klaipeda', 'fine_dining', 'Monai', 4.6, 'Liepų Gatvė 4, 92114 Klaipėda', '미쉐린 가이드 등재 레스토랑.', 'Michelin Guide-listed restaurant.'),
 
+  place('klaipeda-bakery-1', 'klaipeda', 'bakery', 'Gardumėlis', 4.5, 'Sandėlių g. 15, Klaipėda, Lithuania', '밀푀유와 리투아니아 전통 키비나이로 유명한 클라이페다의 베이커리 카페', 'Klaipėda bakery café known for millefeuille pastries and traditional Lithuanian kibinai'),
+  place('klaipeda-cafe-1', 'klaipeda', 'cafe', 'Vanilės namai', 4.5, 'H. Manto g. 9, Klaipėda, Lithuania', '강가 근처에 위치한 클라이페다의 매력적인 디저트 카페', 'Charming dessert café near the river in Klaipėda'),
 ]

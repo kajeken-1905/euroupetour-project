@@ -19,8 +19,12 @@ export const placesLIExtra: Place[] = [
 
   // —— schaan ——
   place('schaan-fine_dining-1', 'schaan', 'fine_dining', 'Restaurant Forum', 4.4, 'Gapetschstrasse 87, 9494 Schaan', '슈니첼·코르동 블루의 전통 요리.', 'Traditional dishes like schnitzel and cordon bleu.'),
+  place('schaan-bakery-1', 'schaan', 'bakery', 'Bäckerei Gassner', 4.5, 'Landstrasse 170, 9494 Schaan, Liechtenstein', '전통 제빵 기술로 만든 빵과 페이스트리로 유명한 샤안의 베이커리', 'Schaan bakery known for traditional baking and homemade specialties'),
+  place('schaan-cafe-1', 'schaan', 'cafe', 'Café Wanger', 4.4, 'Landstrasse 40a, 9494 Schaan, Liechtenstein', '매주 토요일 아침 뷔페로 인기 있는 샤안의 카페 겸 베이커리', 'Schaan café and bakery popular for its Saturday breakfast buffet'),
 
   // —— malbun ——
   place('malbun-fine_dining-1', 'malbun', 'fine_dining', 'Restaurant Vogeli', 4.3, '9497 Malbun', '산악 전망의 유러피언 요리.', 'European cuisine with mountain views.'),
 
+  place('malbun-bakery-1', 'malbun', 'bakery', 'Vögeli Alpenhotel Malbun', 4.3, 'Malbun, 9497 Triesenberg, Liechtenstein', '지역 특산 재료로 만든 아침 뷔페로 유명한 말분의 알펜호텔', 'Malbun\'s oldest alpine hotel, known for its breakfast buffet of local ingredients'),
+  place('malbun-cafe-1', 'malbun', 'cafe', 'Restaurant Turna', 4.3, 'Im Malbun 55, 9497 Triesenberg, Liechtenstein', '지역 특선 요리와 올데이 다이닝을 제공하는 말분의 레스토랑 겸 카페', 'Malbun restaurant and café offering regional specialties and all-day dining'),
 ]
