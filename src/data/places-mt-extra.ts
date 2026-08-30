@@ -13,8 +13,12 @@ export const placesMTExtra: Place[] = [
 
   // —— mdina ——
   place('mdina-fine_dining-1', 'mdina', 'fine_dining', 'Medina Restaurant', 4.5, '7 Holy Cross Street, Mdina MDN 1231', '구시가 성벽 안의 미식 레스토랑.', 'Fine dining within Mdina\'s historic walls.'),
+  place('mdina-bakery-1', 'mdina', 'bakery', 'Crystal Palace Bar', 4.5, 'Mdina Gate, Mdina, Malta', '24시간 운영하는 음디나의 명물 파스티치 바', '24-hour Mdina institution famous for its always-fresh pastizzi'),
+  place('mdina-cafe-1', 'mdina', 'cafe', 'Fontanella Tea Garden', 4.5, '1 Bastion Street, Mdina, Malta', '몰타 전경이 내려다보이는 음디나의 홈메이드 케이크 카페', 'Mdina café known for homemade cakes and stunning views over Malta'),
 
   // —— gozo ——
   place('gozo-fine_dining-1', 'gozo', 'fine_dining', 'Tmun', 4.6, 'Triq Martino Garces, Mġarr Harbour, Għajnsielem', '미쉐린 가이드 등재 시푸드 레스토랑.', 'Michelin Guide-listed seafood restaurant.'),
 
+  place('gozo-bakery-1', 'gozo', 'bakery', 'Ta\' Saminu Bakery', 4.8, 'Triq Tal-Ħamrija, Ix-Xewkija, Gozo, Malta', '장작 오븐으로 고조 전통 프티라를 굽는 가족 운영 베이커리', 'Family-run Gozo bakery baking traditional ftira in a wood-burning oven'),
+  place('gozo-cafe-1', 'gozo', 'cafe', 'Cafe Jubilee', 4.5, 'Pjazza l-Indipendenza, Ir-Rabat, Gozo, Malta', '라바트 중심 광장에 위치한 고조의 인기 카페', 'Popular Gozo café on Rabat\'s central square'),
 ]
