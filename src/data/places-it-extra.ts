@@ -12,11 +12,17 @@ export const placesITExtra: Place[] = [
   place('rome-bakery-2', 'rome', 'bakery', 'Pasticceria Boccione', 4.5, 'Rome', '유대인 게토 페이스트리.', 'Jewish Ghetto pastries.', { reviewCount: 3200 }),
   place('rome-bakery-3', 'rome', 'bakery', 'Antico Forno', 4.4, 'Rome', '전통 빵집.', 'Traditional bakery.', { reviewCount: 2100 }),
   place('rome-bakery-4', 'rome', 'bakery', 'Regoli', 4.5, 'Rome', '클래식 파티스리.', 'Classic pasticceria.', { reviewCount: 2800 }),
+  place('rome-bakery-5', 'rome', 'bakery', "Forno Campo de' Fiori", 4.5, "Campo de' Fiori 22, 00186 Roma, Italy", '캄포 데 피오리 광장의 인기 포르노, 이른 아침 간식과 피자 비안카로 유명', "Popular bakery on Campo de' Fiori square, favored for early-morning snacks and pizza bianca", { reviewCount: 3600 }),
   place('rome-cafe-1', 'rome', 'cafe', 'Sant\'Eustachio Il Caffè', 4.5, 'Rome', '로마 에스프레소 클래식.', 'Classic Roman espresso.', { reviewCount: 9800 }),
   place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 4.4, 'Rome', '판테온 근처 커피.', 'Coffee near the Pantheon.', { reviewCount: 7600 }),
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 4.5, 'Rome', '역사적 카페.', 'Historic café.', { reviewCount: 2400 }),
   place('rome-cafe-4', 'rome', 'cafe', 'Faroe', 4.5, 'Rome', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('rome-cafe-5', 'rome', 'cafe', 'Barnum Cafè', 4.5, 'Via del Pellegrino 87, 00186 Roma, Italy', '캄포 데 피오리 인근 로마 도심의 인기 스페셜티 커피숍', "Popular specialty coffee spot in central Rome, just off Campo de' Fiori", { reviewCount: 1600 }),
   place('rome-korean-1', 'rome', 'korean', 'Gainn', 4.5, 'Via dei Mille 18, 00185 Roma', '미쉐린 가이드 등재 한식당.', 'Michelin Guide-listed Korean restaurant.'),
+  place('rome-korean-2', 'rome', 'korean', 'Galbi', 4.5, 'Via Cremera 25, 00198 Roma, Italy', '숯불 직화로 굽는 정통 한국식 바비큐 레스토랑', 'Authentic Korean BBQ restaurant grilling over oak coals'),
+  place('rome-korean-3', 'rome', 'korean', 'StarBaps', 4.4, 'Via di Santa Maria Maggiore 116, 00184 Roma, Italy', '비빔밥·불고기 등 정통 한식을 선보이는 로마의 한식당', 'Rome Korean restaurant serving traditional dishes like bibimbap and bulgogi'),
+  place('rome-korean-4', 'rome', 'korean', 'Seoul Restaurant', 4.3, 'Via Filippo Turati 49, 00185 Roma, Italy', '테르미니역 인근의 정통 한식당', 'Authentic Korean restaurant near Rome\'s Termini station'),
+  place('rome-korean-5', 'rome', 'korean', 'Ristorante Midam', 4.4, 'Via Filippo Turati 54-56, 00185 Roma, Italy', '가정식 백반으로 유명한 로마의 한식당', 'Rome Korean restaurant known for its home-style baekban set meals'),
 
   // —— milan ——
   place('milan-korean-1', 'milan', 'korean', 'Ginmi', 4.5, 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥이 유명한 한식당.', 'Korean restaurant known for dolsot bibimbap.'),

@@ -12,11 +12,17 @@ export const placesESExtra: Place[] = [
   place('madrid-bakery-2', 'madrid', 'bakery', 'Moulin Chocolat', 4.5, 'Madrid', '페이스트리·초콜릿.', 'Pastries and chocolate.', { reviewCount: 2400 }),
   place('madrid-bakery-3', 'madrid', 'bakery', 'Panic', 4.4, 'Madrid', '장인 빵집.', 'Artisan bakery.', { reviewCount: 1800 }),
   place('madrid-bakery-4', 'madrid', 'bakery', 'La Duquesita', 4.4, 'Madrid', '역사적 파티스리.', 'Historic pastry shop.', { reviewCount: 3200 }),
+  place('madrid-bakery-5', 'madrid', 'bakery', 'Alma Nomad Bakery', 4.6, 'Calle de Santa Feliciana 10, 28010 Madrid, Spain', '사워도우 빵과 페이스트리로 유명한 챔버리 지구의 인기 베이커리', 'Popular Chamberí-district bakery known for its sourdough bread and pastries', { reviewCount: 1800 }),
   place('madrid-cafe-1', 'madrid', 'cafe', 'Café Federal', 4.5, 'Madrid', '브런치·스페셜티.', 'Brunch and specialty.', { reviewCount: 2800 }),
   place('madrid-cafe-2', 'madrid', 'cafe', 'HanSo Café', 4.5, 'Madrid', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('madrid-cafe-3', 'madrid', 'cafe', 'Café Comercial', 4.3, 'Madrid', '클래식 카페.', 'Classic café.', { reviewCount: 5400 }),
   place('madrid-cafe-4', 'madrid', 'cafe', 'Toma Café', 4.5, 'Madrid', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100 }),
+  place('madrid-cafe-5', 'madrid', 'cafe', 'Wilko', 4.6, 'Calle de Fernández de los Ríos 40, 28015 Madrid, Spain', '챔버리 지구의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in the Chamberí district'),
   place('madrid-korean-1', 'madrid', 'korean', 'Maru', 4.5, 'Calle de la Reina 37, 28004 Madrid', '마드리드의 대표 한식당.', 'Well-known Korean restaurant in Madrid.'),
+  place('madrid-korean-2', 'madrid', 'korean', 'Hanok Korean Street Food', 4.5, 'Calle de Leganitos 10, 28013 Madrid, Spain', '떡볶이·김밥·K-도그 등 한국식 길거리 분식을 선보이는 마드리드의 캐주얼 한식당', 'Casual Madrid Korean eatery serving street-food bunsik like tteokbokki, kimbap and K-dogs'),
+  place('madrid-korean-3', 'madrid', 'korean', 'Qiqihary Chueca Korean BBQ', 4.6, 'Calle de la Reina 27, 28004 Madrid, Spain', '추에카 지구의 인기 한식 바비큐 레스토랑', 'Popular Korean BBQ restaurant in the Chueca district', { reviewCount: 7300 }),
+  place('madrid-korean-4', 'madrid', 'korean', 'Dimibang', 4.5, 'Calle de Rodríguez San Pedro 67, 28015 Madrid, Spain', '다양한 사이드 반찬과 함께 즐기는 챔버리 지구의 한식 바비큐 레스토랑', 'Chamberí-district Korean BBQ restaurant known for its array of side dishes'),
+  place('madrid-korean-5', 'madrid', 'korean', 'Izakaya Han', 4.4, 'Calle de San Bartolomé 10, 28004 Madrid, Spain', '추에카 인근의 정통 한식당', 'Authentic Korean restaurant near Chueca'),
 
   // —— barcelona ——
   place('barcelona-fine_dining-1', 'barcelona', 'fine_dining', 'Alkimia', 4.6, 'Ronda de Sant Antoni 41, 08011 Barcelona', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),

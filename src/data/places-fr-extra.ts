@@ -12,11 +12,17 @@ export const placesFRExtra: Place[] = [
   place('paris-bakery-2', 'paris', 'bakery', 'Poilâne', 4.5, 'Paris', '상징적 빵집.', 'Iconic bakery.', { reviewCount: 5600 }),
   place('paris-bakery-3', 'paris', 'bakery', 'Stohrer', 4.5, 'Paris', '역사적 파티스리.', 'Historic pâtisserie.', { reviewCount: 3900 }),
   place('paris-bakery-4', 'paris', 'bakery', 'Blé Sucré', 4.6, 'Paris', '크루아상·타르트.', 'Croissants and tarts.', { reviewCount: 2800 }),
+  place('paris-bakery-5', 'paris', 'bakery', 'Boulangerie Utopie', 4.6, '20 Rue Jean-Pierre Timbaud, 75011 Paris, France', '2024년 파리 최고의 바게트로 선정된 11구의 인기 베이커리', "Popular 11th-arrondissement bakery awarded Paris's best baguette in 2024", { reviewCount: 2200 }),
   place('paris-cafe-1', 'paris', 'cafe', 'Café de Flore', 4.3, 'Paris', '생제르맹 클래식 카페.', 'Classic Saint-Germain café.', { reviewCount: 16000 }),
   place('paris-cafe-2', 'paris', 'cafe', 'Beans on Fire', 4.5, 'Paris', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('paris-cafe-3', 'paris', 'cafe', 'Coutume Café', 4.5, 'Paris', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100 }),
   place('paris-cafe-4', 'paris', 'cafe', 'Café Kitsuné', 4.4, 'Paris', '트렌디 카페.', 'Trendy café.', { reviewCount: 2600 }),
+  place('paris-cafe-5', 'paris', 'cafe', 'Ten Belles', 4.5, '10 Rue de la Grange aux Belles, 75010 Paris, France', '생마르탱 운하 인근의 파리 대표 스페셜티 커피 로스터리', "Landmark Paris specialty coffee roastery near the Canal Saint-Martin", { reviewCount: 1900 }),
   place('paris-korean-1', 'paris', 'korean', 'La Table de Mee', 4.5, '6 Rue des Ciseaux, 75006 Paris', '미쉐린 빕 구르망 한식당.', 'Michelin Bib Gourmand Korean restaurant.'),
+  place('paris-korean-2', 'paris', 'korean', 'Guibine', 4.4, '44 Rue Sainte-Anne, 75002 Paris, France', '생트안 거리의 인기 한식당', 'Popular Korean restaurant on Rue Sainte-Anne'),
+  place('paris-korean-3', 'paris', 'korean', 'MariMari', 4.5, "23 Rue d'Antin, 75002 Paris, France", '김밥·떡볶이 등 한국식 길거리 분식을 선보이는 파리의 캐주얼 한식당', 'Casual Paris Korean eatery specializing in street-food bunsik like kimbap and tteokbokki'),
+  place('paris-korean-4', 'paris', 'korean', 'K-CHIMAEK', 4.4, '139 Rue de Tolbiac, 75013 Paris, France', '치맥과 떡볶이로 유명한 파리의 한식 분식 전문점', 'Paris Korean bunsik spot known for chimaek (fried chicken and beer) and tteokbokki'),
+  place('paris-korean-5', 'paris', 'korean', 'Kimchi', 4.3, '5 Rue de Louvois, 75002 Paris, France', '생트안 지구 인근의 정통 한식당', "Authentic Korean restaurant near Paris's Rue Sainte-Anne district"),
 
   // —— lyon ——
   place('lyon-fine_dining-1', 'lyon', 'fine_dining', 'La Mère Brazier', 4.6, '16 Rue Saint-Georges, 69005 Lyon', '리옹 미식의 전설, 미쉐린 스타 레스토랑.', 'Legendary Lyon dining, Michelin-starred.'),
