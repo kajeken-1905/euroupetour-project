@@ -121,8 +121,8 @@ export const CATEGORIES: {
   ko: string
   en: string
 }[] = [
-  { id: 'fine_dining', ko: '파인 다이닝', en: 'Fine Dining' },
-  { id: 'korean', ko: '한식당', en: 'Korean' },
+  { id: 'fine_dining', ko: '로컬푸드', en: 'Local Food' },
+  { id: 'korean', ko: '한국음식점', en: 'Korean Food' },
   { id: 'asian', ko: '아시안 레스토랑', en: 'Asian Restaurant' },
   { id: 'cafe', ko: '카페', en: 'Café' },
   { id: 'bakery', ko: '베이커리', en: 'Bakery' },
