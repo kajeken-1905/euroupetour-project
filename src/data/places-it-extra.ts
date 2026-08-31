@@ -25,8 +25,25 @@ export const placesITExtra: Place[] = [
 
   // —— florence ——
   place('florence-fine_dining-1', 'florence', 'fine_dining', 'Enoteca Pinchiorri', 4.6, 'Via Ghibellina 87, 50122 Firenze', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
+  place('florence-fine_dining-2', 'florence', 'fine_dining', "All'Antico Vinaio", 4.6, 'Via dei Neri 65r, 50122 Firenze, Italy', '항상 긴 줄이 늘어서는 피렌체의 상징적인 파니니 맛집', "Florence's iconic panini shop, famous for its ever-present line", { reviewCount: 24000 }),
+  place('florence-fine_dining-3', 'florence', 'fine_dining', 'Trattoria Sostanza', 4.5, 'Via del Porcellana 25/R, 50123 Firenze, Italy', "버터에 익힌 치킨(폴로 알 부로)으로 유명한 피렌체의 역사적인 트라토리아", 'Historic Florence trattoria famous for its butter-cooked chicken (pollo al burro)', { reviewCount: 5600 }),
+  place('florence-fine_dining-4', 'florence', 'fine_dining', 'Trattoria Cammillo', 4.5, 'Borgo San Jacopo 57/r, 50125 Firenze, Italy', '1945년부터 이어온 가족 운영 트라토리아, 아티초크 튀김이 인기', 'Family-run trattoria since 1945, known for its legendary fried artichokes', { reviewCount: 3200 }),
+  place('florence-fine_dining-5', 'florence', 'fine_dining', 'Trattoria Da Mario', 4.4, 'Via Rosina 2, 50123 Firenze, Italy', '산 로렌초 시장 인근의 로컬들이 즐겨 찾는 인기 트라토리아', 'Popular San Lorenzo-market-area trattoria beloved by locals', { reviewCount: 8400 }),
+  place('florence-korean-1', 'florence', 'korean', 'Goong', 4.4, 'Borgo Ognissanti 68R, 50123 Firenze, Italy', '오니산티 지구의 정통 한식당', 'Authentic Korean restaurant in the Ognissanti district'),
+  place('florence-korean-2', 'florence', 'korean', 'Gangnam', 4.4, 'Via Guelfa 46, 50123 Firenze, Italy', '피렌체 중심가의 인기 한식 바비큐 레스토랑', 'Popular Korean barbecue restaurant in central Florence'),
+  place('florence-korean-3', 'florence', 'korean', 'Han Korean Barbecue', 4.5, 'Piazza Ugo di Toscana 21, 50144 Firenze, Italy', '푸짐한 한식 바비큐로 인기 있는 피렌체의 한식당', 'Florence Korean BBQ restaurant popular for its generous portions'),
+  place('florence-korean-4', 'florence', 'korean', 'Sapori di Korea', 4.5, 'Via dei Magazzini 27R, 50122 Firenze, Italy', '김밥·분식 메뉴와 한국 식료품까지 함께 갖춘 부부 운영 한식당', 'Husband-and-wife-run Korean eatery serving kimbap and bunsik alongside a small Korean grocery'),
+  place('florence-korean-5', 'florence', 'korean', 'Hallasan', 4.6, 'Via Guelfa 98R, 50129 Firenze, Italy', '피렌체 중심가에서 고베규를 취급하는 몇 안 되는 고급 한식 바비큐 레스토랑', 'Upscale Korean BBQ restaurant, one of the few in central Florence licensed to serve Kobe beef'),
   place('florence-bakery-1', 'florence', 'bakery', 'Pugi Forno', 4.6, 'Piazza San Marco 9B, 50121 Firenze, Italy', '1925년부터 이어온 피렌체의 대표 베이커리', 'Florentine baking institution since 1925'),
+  place('florence-bakery-2', 'florence', 'bakery', 'Dolci e Dolcezze', 4.6, 'Via Pietra Piana 24, 50121 Firenze, Italy', '무설탕 초콜릿 케이크로 유명한 피렌체의 정교한 파티스리', 'Refined Florence patisserie known for its flourless chocolate cake', { reviewCount: 1400 }),
+  place('florence-bakery-3', 'florence', 'bakery', 'Cantinetta dei Verrazzano', 4.5, 'Via dei Tavolini 18 Rosso, 50122 Firenze, Italy', '베이커리·와인바·카페를 겸하는 피렌체의 인기 명소, 매장에서 직접 구운 포카치아로 유명', 'Popular Florence bakery, wine bar and café known for its fresh in-house focaccia', { reviewCount: 3600 }),
+  place('florence-bakery-4', 'florence', 'bakery', 'Pasticceria Buonamici', 4.6, "Via dell'Orto 27R, 50124 Firenze, Italy", '산 프레디아노 지구의 장인 파티스리, 브리오슈와 봄볼로니로 유명', 'Artisan patisserie in San Frediano known for its brioche and bomboloni'),
+  place('florence-bakery-5', 'florence', 'bakery', 'Forno Becagli', 4.5, 'Borgo Ognissanti 92 Rosso, 50123 Firenze, Italy', '항상 줄이 늘어서는 피렌체의 인기 포르노, 샌드위치로 유명', 'Popular Florence forno known for its sandwiches, with a line out the door'),
   place('florence-cafe-1', 'florence', 'cafe', 'Rivoire', 4.4, 'Piazza della Signoria 5r, 50122 Firenze, Italy', '1872년부터 이어온 전설적인 핫초콜릿으로 유명한 피렌체의 카페', 'Historic Florence café since 1872, famous for its legendary hot chocolate'),
+  place('florence-cafe-2', 'florence', 'cafe', 'Ditta Artigianale', 4.5, 'Via dei Neri 30/32R, 50122 Firenze, Italy', '2013년 챔피언 바리스타가 설립한 피렌체 스페셜티 커피의 선구자', "Florence's specialty coffee pioneer, founded in 2013 by a champion barista", { reviewCount: 4200 }),
+  place('florence-cafe-3', 'florence', 'cafe', 'Coffee Mantra', 4.6, 'Borgo La Croce 71r, 50121 Firenze, Italy', '산타 크로체 지구의 피렌체 초기 서드웨이브 커피숍 중 하나', "One of Florence's earliest third-wave coffee shops, in the Santa Croce district"),
+  place('florence-cafe-4', 'florence', 'cafe', 'Melaleuca', 4.6, 'Lungarno delle Grazie 18, 50122 Firenze, Italy', '아르노 강변에 위치한 호주인 운영 베이커리 겸 카페', 'Australian-run bakery and café overlooking the Arno river', { reviewCount: 1200 }),
+  place('florence-cafe-5', 'florence', 'cafe', 'SimBIOsi Organic Cafè', 4.5, "Via de' Ginori 64r, 50123 Firenze, Italy", '유기농 브런치와 훌륭한 커피로 유명한 피렌체 구시가의 카페', "Old-town Florence café known for its organic brunch and great coffee"),
 
   // —— venice ——
   place('venice-fine_dining-1', 'venice', 'fine_dining', 'Antiche Carampane', 4.6, 'Rio Terà de le Carampane 1911, 30125 Venezia', '정통 베네치아 해산물 요리.', 'Authentic Venetian seafood cuisine.'),
