@@ -71,8 +71,19 @@ export const placesESExtra: Place[] = [
 
   // —— bilbao ——
   place('bilbao-fine_dining-1', 'bilbao', 'fine_dining', 'Nerua Guggenheim Bilbao', 4.6, 'Abandoibarra Etorbidea 2, 48001 Bilbao', '구겐하임 미술관 안의 미쉐린 레스토랑.', 'Michelin restaurant inside the Guggenheim Museum.'),
+  place('bilbao-fine_dining-2', 'bilbao', 'fine_dining', 'Gure Toki', 4.9, 'Plaza Nueva 12, 48005 Bilbao', '수많은 핀초 대회 수상 경력의 명소.', 'Award-winning pintxos bar with many competition wins.', { reviewCount: 1000 }),
+  place('bilbao-fine_dining-3', 'bilbao', 'fine_dining', 'Rio-Oja', 4.2, 'Calle del Perro 4, 48005 Bilbao', '1959년부터 3대째 이어온 바스크 전통 요리.', 'Third-generation family-run traditional Basque cuisine since 1959.', { reviewCount: 4700 }),
+  place('bilbao-fine_dining-4', 'bilbao', 'fine_dining', 'La Viña del Ensanche', 4.4, 'Diputación 10, 48008 Bilbao', '1927년부터 이어온 하몬 전문 핀초스 바.', 'Pintxos bar known for Iberian ham, since 1927.', { reviewCount: 1200 }),
+  place('bilbao-fine_dining-5', 'bilbao', 'fine_dining', 'Restaurante Enol', 4.6, 'Calle Licenciado Poza 73, 48013 Bilbao', '신선한 해산물과 핀초스로 유명한 바스크 요리.', 'Basque cuisine known for fresh seafood and pintxos.', { reviewCount: 644 }),
   place('bilbao-bakery-1', 'bilbao', 'bakery', 'Pastelería Don Manuel', 4.5, 'Mazarredo Zumarkalea 79, 48009 Bilbao, Spain', '빌바오 전통 페이스트리와 카롤리나 케이크로 유명한 제과점', 'Bilbao pastry shop famous for traditional treats and its Carolina cake'),
+  place('bilbao-bakery-2', 'bilbao', 'bakery', 'Pastelería Martina de Zuricalday', 4.3, 'Areilza Doktorearen Zumarkalea 38, 48010 Bilbao', '1830년부터 이어온 바스크 지방 최고령 제과점.', "Basque Country's oldest artisan pastry shop, since 1830.", { reviewCount: 350 }),
+  place('bilbao-bakery-3', 'bilbao', 'bakery', 'Pastelería Suiza', 4.5, 'Portuko Markesaren Kalea 4, 48009 Bilbao', '60년 넘게 이어온 아몬드 크루아상 명가.', 'Beloved for almond croissants for over 60 years.', { reviewCount: 640 }),
+  place('bilbao-bakery-4', 'bilbao', 'bakery', 'Arrese', 4.4, 'Bilbao', '1852년부터 이어온 트러플·케이크 전문점.', 'Truffle and cake specialist since 1852.', { reviewCount: 800 }),
   place('bilbao-cafe-1', 'bilbao', 'cafe', 'Cokooncafé', 4.5, 'Poza Lizentziatuaren Kalea 55, 48013 Bilbao, Spain', '구겐하임 미술관 인근의 스페셜티 커피 베이커리', 'Specialty coffee bakery café near the Guggenheim Museum Bilbao'),
+  place('bilbao-cafe-2', 'bilbao', 'cafe', 'ARVO Specialty Coffee', 4.7, 'Barraincúa Kalea 9, 48001 Bilbao', '구겐하임 인근, 스페인 최고 커피숍으로 3년 연속 선정.', "Named one of Spain's best coffee shops three years running.", { reviewCount: 1600 }),
+  place('bilbao-cafe-3', 'bilbao', 'cafe', 'East Crema Coffee', 4.5, 'Bilbao', '도쿄 카페 감성의 스페셜티 커피 체인.', 'Specialty coffee chain inspired by Tokyo café culture.', { reviewCount: 900 }),
+  place('bilbao-cafe-4', 'bilbao', 'cafe', 'Café Bertiz', 4.4, 'Bilbao', '다양한 페이스트리와 스페셜티 음료.', 'Wide selection of pastries and specialty drinks.', { reviewCount: 500 }),
+  place('bilbao-korean-1', 'bilbao', 'korean', 'Gangnam Korean BBQ', 4.7, 'Alameda San Mamés 43, 48010 Bilbao', '바스크 지방 유일의 한국식 바베큐 뷔페.', 'The only Korean BBQ buffet in the Basque Country.', { reviewCount: 1000 }),
 
   // —— toledo ——
   place('toledo-fine_dining-1', 'toledo', 'fine_dining', 'Adolfo', 4.6, 'Calle Hombre de Palo 7, 45001 Toledo', '14세기 건물의 톨레도 미식.', 'Toledo fine dining in a 14th-century house.'),
@@ -81,8 +92,18 @@ export const placesESExtra: Place[] = [
 
   // —— cordoba ——
   place('cordoba-fine_dining-1', 'cordoba', 'fine_dining', 'Noor', 4.6, 'Paseo de la Victoria s/n, 14004 Córdoba', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
+  place('cordoba-fine_dining-2', 'cordoba', 'fine_dining', 'Taberna Salinas', 4.4, 'Calle Tundidores 3, 14002 Córdoba', '100년 넘은 미쉐린 추천 전통 타베르나.', 'Century-old, Michelin-recommended traditional tavern.', { reviewCount: 3100 }),
+  place('cordoba-fine_dining-3', 'cordoba', 'fine_dining', 'Casa Pedro Ximénez', 4.8, 'Calle Deanes 10, 14003 Córdoba', '유대인 지구의 안달루시아 전통 요리, 메스키타 전망 루프탑.', 'Traditional Andalusian cuisine in the Jewish Quarter with a Mezquita-view rooftop.', { reviewCount: 3000 }),
+  place('cordoba-fine_dining-4', 'cordoba', 'fine_dining', 'Bodegas Mezquita', 4.6, 'C. Corregidor Luis de la Cerda 45, 14003 Córdoba', '메스키타 인근의 전통 안달루시아 와인 타베르나.', 'Traditional Andalusian wine tavern near the Mezquita.', { reviewCount: 2000 }),
+  place('cordoba-fine_dining-5', 'cordoba', 'fine_dining', 'Garum 2.1', 4.5, 'Córdoba', '미쉐린 추천, 코르도바 전통 요리의 창의적 재해석.', 'Michelin-recommended creative take on Cordoban classics.', { reviewCount: 900 }),
   place('cordoba-bakery-1', 'cordoba', 'bakery', 'La Tarterie', 4.6, 'P.º de la Ribera 1, 14002 Córdoba, Spain', '코르도바 구시가지 최고의 홈메이드 타르트와 케이크 전문점', 'Córdoba old-town bakery serving the city\'s best homemade tarts and cakes'),
+  place('cordoba-bakery-2', 'cordoba', 'bakery', 'Pastelería Ángel Salazar', 4.0, 'Calle Juan de Gortz 1, 14011 Córdoba', '빵과 페이스트리를 함께 파는 동네 제과점.', 'Neighborhood bakery selling bread and pastries.', { reviewCount: 125 }),
+  place('cordoba-bakery-3', 'cordoba', 'bakery', 'Maddness Coffee', 4.6, 'Córdoba', '코르도바 최고의 스페셜티 로스터리 겸 베이커리.', "The city's top specialty coffee roastery, also strong on pastries.", { reviewCount: 400 }),
+  place('cordoba-bakery-4', 'cordoba', 'bakery', 'Deluca', 4.5, 'Córdoba', '크루아상과 초콜릿 알파호르로 유명한 카페 겸 베이커리.', 'Café-bakery known for croissants and chocolate alfajores.', { reviewCount: 300 }),
   place('cordoba-cafe-1', 'cordoba', 'cafe', 'Café Viena', 4.4, 'C. Claudio Marcelo 13, 14002 Córdoba, Spain', '환상적인 아이스크림으로 유명한 코르도바 구시가 중심의 카페', 'Café in the heart of old Córdoba known for its fabulous ice cream'),
+  place('cordoba-cafe-2', 'cordoba', 'cafe', 'Arábiga Specialty Coffee', 5.0, 'C. Lucano 15, 14003 Córdoba', '섬세한 스페셜티 커피와 홈메이드 쿠키.', 'Meticulous specialty coffee and homemade cookies.', { reviewCount: 200 }),
+  place('cordoba-cafe-3', 'cordoba', 'cafe', 'Maddness Coffee Roasters', 4.6, 'Córdoba', '코르도바 최고의 스페셜티 로스터리.', "The city's top specialty coffee roaster.", { reviewCount: 400 }),
+  place('cordoba-cafe-4', 'cordoba', 'cafe', 'Deluca Café', 4.5, 'Córdoba', '커피와 크루아상으로 사랑받는 카페.', 'Beloved café for coffee and croissants.', { reviewCount: 300 }),
 
   // —— san-sebastian ——
   place('san-sebastian-fine_dining-1', 'san-sebastian', 'fine_dining', 'Arzak', 4.7, 'Alcalde J. Elosegi Hiribidea 273, 20015 Donostia', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
