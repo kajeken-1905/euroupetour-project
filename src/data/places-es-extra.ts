@@ -53,9 +53,18 @@ export const placesESExtra: Place[] = [
 
   // —— granada ——
   place('granada-fine_dining-1', 'granada', 'fine_dining', 'Damasqueros', 4.6, 'Calle Damasqueros 3, 18009 Granada', '미쉐린 추천 창의적 테이스팅 메뉴.', 'Michelin-recommended creative tasting menus.'),
+  place('granada-fine_dining-2', 'granada', 'fine_dining', 'Bar Los Diamantes', 4.4, 'Calle Navas 28, 18009 Granada', '1942년부터 이어온 신선한 해산물 타파스.', 'Fresh seafood tapas since 1942.', { reviewCount: 3000 }),
+  place('granada-fine_dining-3', 'granada', 'fine_dining', 'Bodegas Castañeda', 3.9, 'Calle Almireceros 1-3, 18010 Granada', '1953년부터 이어온 그라나다 대표 타베르나.', "Granada's iconic tavern since 1953.", { reviewCount: 4000 }),
+  place('granada-fine_dining-4', 'granada', 'fine_dining', 'Chikito', 3.8, 'Plaza del Campillo 9, 18009 Granada', '가르시아 로르카가 사랑한 그라나다 전통 식당.', "Traditional restaurant beloved by García Lorca.", { reviewCount: 1500 }),
+  place('granada-fine_dining-5', 'granada', 'fine_dining', 'Mirador de Morayma', 4.1, 'Calle del Pianista García Carrillo 2, 18010 Granada', '알바이신에서 알함브라 전망을 즐기는 안달루시아 요리.', 'Andalusian cuisine with Alhambra views from the Albaicín.', { reviewCount: 700 }),
   place('granada-korean-1', 'granada', 'korean', 'CoreOlé Korean Food Bar', 4.5, 'C. Elvira, 114, 18010 Granada', '알바이신 지구의 한식당.', 'Korean restaurant in the Albaicín district.'),
+  place('granada-korean-2', 'granada', 'korean', 'Miso Restaurant Coreano', 4.3, 'Camino de Ronda, 18004 Granada', '갈비·프라이드치킨·라면 등 다양한 한식.', 'Varied Korean menu — ribs, fried chicken, ramyeon.', { reviewCount: 1900 }),
   place('granada-bakery-1', 'granada', 'bakery', 'Casa Ysla Pastelería-Cafetería', 4.6, 'C. Recogidas 36, 18002 Granada, Spain', '그라나다 명물 피오노노 케이크를 처음 만든 곳', 'Birthplace of Granada\'s famous Piononos cake'),
+  place('granada-bakery-2', 'granada', 'bakery', 'Barrio Specialty Coffee & Bakery', 4.7, 'Plaza de San Isidro 1, 18012 Granada', '알바이신의 가족 운영 스페셜티 커피·베이커리.', 'Family-run specialty coffee and bakery in the Albaicín.', { reviewCount: 150 }),
+  place('granada-bakery-3', 'granada', 'bakery', 'Café Pastelería López-Mezquita', 4.5, 'Calle Trinidad 2, 18001 Granada', '그라나다의 명물 피오노노로 유명한 역사적 제과점.', "Historic pastry shop famed for Granada's signature pionono.", { reviewCount: 800 }),
   place('granada-cafe-1', 'granada', 'cafe', 'Malamiga', 4.6, 'Granada, Spain', '천연 발효 사워도우 빵으로 유명한 그라나다의 모던 베이커리 카페', 'Modern Granada bakery café known for slow-fermented natural sourdough'),
+  place('granada-cafe-2', 'granada', 'cafe', 'La Finca Coffee', 4.6, 'Calle Colegio Catalino 3, 18001 Granada', '대성당 인근, 자체 로스팅 스페셜티 커피.', "In-house roasted specialty coffee near the Cathedral.", { reviewCount: 400 }),
+  place('granada-cafe-3', 'granada', 'cafe', 'Minuit Pan y Café', 4.2, 'Calle Colcha 6, 18009 Granada', '레예스 카톨리코스 인근 스페셜티 커피와 베이커리.', 'Specialty coffee and bakery near Reyes Católicos street.', { reviewCount: 1100 }),
 
   // —— valencia ——
   place('valencia-fine_dining-1', 'valencia', 'fine_dining', 'Ricard Camarena Restaurant', 4.5, 'Carrer del Dr. Sumsi 4, 46005 València', '미쉐린 2스타 파인 다이닝.', 'Two-Michelin-star fine dining.'),
@@ -66,8 +75,19 @@ export const placesESExtra: Place[] = [
 
   // —— malaga ——
   place('malaga-fine_dining-1', 'malaga', 'fine_dining', 'José Carlos García Restaurante', 4.6, 'Puerto de Málaga, Plaza de la Capilla 1, 29016 Málaga', '말라가 유일의 미쉐린 스타 레스토랑.', 'Málaga\'s only Michelin-starred restaurant.'),
+  place('malaga-fine_dining-2', 'malaga', 'fine_dining', 'La Tranca', 4.6, 'Calle Carretería 92, 29008 Málaga', '전통 타파스로 줄 서는 인기 타베르나.', 'Popular tavern with queues for traditional tapas.', { reviewCount: 12800 }),
+  place('malaga-fine_dining-3', 'malaga', 'fine_dining', 'Mesón Mariano', 4.5, 'Calle Granados 2, 29008 Málaga', '아티초크와 말라가식 가스파추엘로로 유명.', "Known for artichokes and Málaga-style gazpachuelo.", { reviewCount: 4000 }),
+  place('malaga-fine_dining-4', 'malaga', 'fine_dining', 'Cortijo de Pepe', 4.0, 'Plaza de la Merced 2, 29012 Málaga', '1971년부터 이어온 활기찬 타파스 바.', 'Lively tapas bar since 1971.', { reviewCount: 8400 }),
+  place('malaga-fine_dining-5', 'malaga', 'fine_dining', 'Bodegas Quitapenas', 3.3, 'Calle Marín García 4, 29005 Málaga', '1880년부터 이어온 말라가의 전통 타베르나.', "Málaga's traditional tavern since 1880.", { reviewCount: 1500 }),
   place('malaga-bakery-1', 'malaga', 'bakery', 'La Mallorquina', 4.5, 'Avenida Carlos Haya 1, 29010 Málaga, Spain', '말라가의 명절 디저트로 유명한 가족 운영 제과점', 'Family-run Málaga institution known for holiday sweets and pastries'),
+  place('malaga-bakery-2', 'malaga', 'bakery', 'Ana La Fantástica', 4.6, 'Calle Castillo de Sohail 5, 29005 Málaga', '갈리시아식 사워도우 빵과 크루아상.', 'Galician-style sourdough bread and croissants.', { reviewCount: 300 }),
+  place('malaga-bakery-3', 'malaga', 'bakery', 'Mia Coffee House', 4.9, 'Calle Vendeja 9, 29001 Málaga', '스페셜티 커피와 홈메이드 페이스트리, 작은 베이커리.', 'Specialty coffee with homemade pastries and a small bakery.', { reviewCount: 1200 }),
   place('malaga-cafe-1', 'malaga', 'cafe', 'La Canasta', 4.4, 'C. Herrería del Rey 2, 29005 Málaga, Spain', '맛있는 커피와 아침 식사로 유명한 말라가의 카페', 'Málaga café known for delicious coffee and breakfast'),
+  place('malaga-cafe-2', 'malaga', 'cafe', 'Mia Coffee House', 4.9, 'Calle Vendeja 9, 29001 Málaga', '안달루시아 최고로 꼽히는 스페셜티 커피.', 'Regarded as some of the best specialty coffee in Andalusia.', { reviewCount: 1200 }),
+  place('malaga-cafe-3', 'malaga', 'cafe', 'Bertani Café', 4.5, 'Málaga', '말라가 최초의 스페셜티 커피숍.', "Málaga's first specialty coffee shop.", { reviewCount: 400 }),
+  place('malaga-korean-1', 'malaga', 'korean', 'WOOCOCO 우꼬꼬', 5.0, 'Calle de Ramón Franquelo 10, 29008 Málaga', '불고기와 한국식 치킨으로 유명한 소규모 정통 한식당.', 'Small authentic Korean restaurant known for bulgogi and fried chicken.', { reviewCount: 700 }),
+  place('malaga-korean-2', 'malaga', 'korean', 'Konan Korean BBQ', 5.0, 'Calle José Denis Belgrano 17, 29008 Málaga', '테이블 그릴 한국식 바베큐 뷔페.', 'Table-grill Korean BBQ buffet.', { reviewCount: 100 }),
+  place('malaga-korean-3', 'malaga', 'korean', 'Restaurante Han Wei JU', 4.3, 'Calle Porcelana 2, 29591 Málaga', '바베큐 고기와 한국식 찌개 전문점.', 'Specialist in BBQ meats and Korean stews.', { reviewCount: 150 }),
 
   // —— bilbao ——
   place('bilbao-fine_dining-1', 'bilbao', 'fine_dining', 'Nerua Guggenheim Bilbao', 4.6, 'Abandoibarra Etorbidea 2, 48001 Bilbao', '구겐하임 미술관 안의 미쉐린 레스토랑.', 'Michelin restaurant inside the Guggenheim Museum.'),
@@ -137,8 +157,17 @@ export const placesESExtra: Place[] = [
 
   // —— girona ——
   place('girona-fine_dining-1', 'girona', 'fine_dining', 'El Celler de Can Roca', 4.7, 'Can Sunyer 48, 17007 Girona', '미쉐린 3스타, 세계 최고 레스토랑 중 하나.', 'Three-Michelin-star restaurant, among the world\'s best.'),
+  place('girona-fine_dining-2', 'girona', 'fine_dining', 'Casa Marieta', 4.0, 'Plaça Independència 5-6, 17001 Girona', '1892년부터 5대째 이어온 카탈루냐 전통 요리.', 'Traditional Catalan cuisine run by five generations since 1892.', { reviewCount: 300 }),
+  place('girona-fine_dining-3', 'girona', 'fine_dining', "L'Alqueria", 4.4, 'Girona', '카탈루냐식 파에야와 아로스 네그레 전문.', 'Specialist in Catalan paella and arròs negre.', { reviewCount: 500 }),
+  place('girona-fine_dining-4', 'girona', 'fine_dining', 'Can Vidal', 4.3, 'Girona', '달팽이·버섯 등 지로나 향토 요리.', "Girona regional dishes — snails, seasonal mushrooms.", { reviewCount: 400 }),
+  place('girona-fine_dining-5', 'girona', 'fine_dining', 'El Cul de Món', 4.4, 'Girona', '성벽 옆, 모로코풍을 더한 카탈루냐 요리.', 'Catalan food with a Moroccan twist beside the city wall.', { reviewCount: 350 }),
   place('girona-bakery-1', 'girona', 'bakery', 'Casamoner', 4.6, 'Carrer de Joan Maragall 36, 17002 Girona, Spain', '1892년부터 이어온 지로나의 인기 베이커리, 츄이쇼로 유명', 'Popular Girona bakery since 1892, known for its xuixo pastry'),
   place('girona-cafe-1', 'girona', 'cafe', 'La Comuna Café', 4.6, 'Carrer de la Cort Reial 5, 17004 Girona, Spain', '프로 사이클리스트 부부가 운영하는 지로나의 스페셜티 커피 카페', 'Girona specialty coffee café founded by a professional cyclist and his wife'),
+  place('girona-cafe-2', 'girona', 'cafe', 'Oniria Cafè', 4.9, 'Carrer del Nord 11, 17001 Girona', '카탈루냐-독일 듀오가 운영하는 스페셜티 커피.', 'Specialty coffee run by a Catalan-German duo.', { reviewCount: 260 }),
+  place('girona-cafe-3', 'girona', 'cafe', 'Espresso Mafia Coffee', 4.6, 'Girona', '지로나 중심가의 인기 커피숍.', 'Popular coffee shop in central Girona.', { reviewCount: 300 }),
+  place('girona-cafe-4', 'girona', 'cafe', 'Syra Coffee', 4.5, 'Girona', '페드렛 다리 인근의 세련된 에스프레소 바.', 'Sleek espresso bar near Pont de Pedret.', { reviewCount: 250 }),
+  place('girona-korean-1', 'girona', 'korean', 'Restaurant A4MANS', 4.6, 'Plaça Pompeu Fabra 9, 17001 Girona', '카탈루냐-한국 커플이 운영하는 퓨전 다이닝.', 'Catalan-Korean fusion dining run by a Catalan-Korean couple.', { reviewCount: 235 }),
+  place('girona-korean-2', 'girona', 'korean', 'Yooki Ramen Korean Fried Chicken', 5.0, 'Av. 20 de Juny 1, 17001 Girona', '정통 라멘과 바삭한 한국식 치킨.', 'Authentic ramen and crispy Korean fried chicken.', { reviewCount: 50 }),
 
   // —— palma ——
   place('palma-fine_dining-1', 'palma', 'fine_dining', 'Marc Fosh Restaurant', 4.6, 'Carrer de la Missió 7, 07003 Palma', '미쉐린 1스타 지중해 요리.', 'One-Michelin-star Mediterranean cuisine.'),
@@ -148,12 +177,24 @@ export const placesESExtra: Place[] = [
 
   // —— nerja ——
   place('nerja-fine_dining-1', 'nerja', 'fine_dining', 'Oliva', 4.6, 'Plaza de España 2, 29780 Nerja', '지중해·스페인 요리의 미식 레스토랑.', 'Gourmet Mediterranean and Spanish cuisine.'),
+  place('nerja-fine_dining-2', 'nerja', 'fine_dining', 'Bar Dolores "El Chispa"', 4.1, 'Calle San Pedro 12, 29780 Nerja', '해산물 타파스로 유명한 로컬 바.', "Local's bar known for seafood tapas.", { reviewCount: 6100 }),
+  place('nerja-fine_dining-3', 'nerja', 'fine_dining', 'Bar El Pulguilla', 4.1, 'Calle Almirante Ferrándiz 26, 29780 Nerja', '발콘 데 에우로파 인근의 신선한 해산물 타파스.', "Fresh seafood tapas near the Balcón de Europa.", { reviewCount: 500 }),
+  place('nerja-fine_dining-4', 'nerja', 'fine_dining', 'La Puntilla', 4.3, 'Calle Bolivia 1, 29780 Nerja', '현지인이 찾는 생선 타파스 바.', 'Local favorite fish tapas bar.', { reviewCount: 5700 }),
+  place('nerja-fine_dining-5', 'nerja', 'fine_dining', 'Atipiko Nerja', 4.8, 'Plaza Balcón de Europa 11, 29780 Nerja', '지중해·퓨전 요리, 발콘 데 에우로파 전망.', 'Mediterranean-fusion cuisine with Balcón de Europa views.', { reviewCount: 260 }),
   place('nerja-bakery-1', 'nerja', 'bakery', 'Panadería minimarket Salvana', 4.5, 'C. Rodríguez Acosta 5, 29780 Nerja, Spain', '정통 프랑스식 크루아상으로 유명한 네르하 최고의 베이커리', 'Widely regarded as Nerja\'s best bakery, known for authentic French-style croissants'),
+  place('nerja-bakery-2', 'nerja', 'bakery', 'Nybakat Café & Bakery', 4.8, 'Camino de Burriana, Ed. Burriana Playa local 5, 29780 Nerja', '부리아나 해변의 스웨덴식 베이커리, 사워도우와 시나몬롤.', 'Swedish bakery at Burriana Beach — sourdough and cinnamon rolls.', { reviewCount: 400 }),
+  place('nerja-bakery-3', 'nerja', 'bakery', 'Panadería Salvador', 4.6, 'Calle Granada 92, 29780 Nerja', '신선한 페이스트리와 다양한 빵으로 인기.', 'Popular for fresh pastries and a wide bread selection.', { reviewCount: 685 }),
   place('nerja-cafe-1', 'nerja', 'cafe', 'Cafetería Pastelería Tiramisu', 4.4, 'Calle Jaén 5, 29780 Nerja, Spain', '갓 구운 페이스트리와 향긋한 커피로 유명한 네르하의 카페', 'Cozy Nerja café known for freshly baked pastries and aromatic coffee'),
+  place('nerja-cafe-2', 'nerja', 'cafe', 'Nybakat Café & Bakery', 4.8, 'Camino de Burriana, Ed. Burriana Playa local 5, 29780 Nerja', '부리아나 해변의 인기 브런치·커피 카페.', 'Popular brunch and coffee café at Burriana Beach.', { reviewCount: 400 }),
 
   // —— gibraltar ——
   place('gibraltar-fine_dining-1', 'gibraltar', 'fine_dining', 'Rock Salt', 4.5, 'Unit 2, Chatham Counterguard, GX11 1AA Gibraltar', '지브롤터 해협 전망 레스토랑.', 'Restaurant with views over the Strait of Gibraltar.'),
+  place('gibraltar-fine_dining-2', 'gibraltar', 'fine_dining', 'AquaTerra', 4.9, '2 Main Street Unit G8, Casemates Square, Gibraltar GX11 1AA', '지중해·이베리아식 그릴과 해산물.', 'Mediterranean and Iberian-style grills and seafood.', { reviewCount: 1057 }),
+  place('gibraltar-fine_dining-3', 'gibraltar', 'fine_dining', "Sacarello's Cafe-Restaurant", 4.0, '57 Irish Town, Gibraltar', '샐러드바와 스콘으로 유명한 오랜 전통의 카페 레스토랑.', 'Long-standing café-restaurant known for its salad bar and scones.', { reviewCount: 900 }),
+  place('gibraltar-fine_dining-4', 'gibraltar', 'fine_dining', "Charlie's Steak House and Grill", 4.4, '4/5 Britannia House, Marina Bay, Gibraltar GX11 1AA', '두툼한 스테이크로 현지인들에게 인기.', 'Popular with locals for its hearty steaks.', { reviewCount: 1795 }),
+  place('gibraltar-fine_dining-5', 'gibraltar', 'fine_dining', 'Casa Pepe', 4.0, 'Unit 18, Queensway Quay Marina, Gibraltar', '퀸스웨이 퀘이의 정통 스페인·해산물 레스토랑.', 'Authentic Spanish-seafood restaurant at Queensway Quay.', { reviewCount: 400 }),
 
   place('gibraltar-bakery-1', 'gibraltar', 'bakery', 'The Gibraltar Bakery', 4.3, 'Unit G10 ICC, Casemates Square, Gibraltar GX11 1AA', '케이스메이츠 광장에 위치한 지브롤터의 베이커리 카페', 'Bakery café on Casemates Square in Gibraltar'),
   place('gibraltar-cafe-1', 'gibraltar', 'cafe', 'Amar\'s', 4.3, '1A Convent Place, Gibraltar', '아침 식사와 점심 메뉴로 유명한 지브롤터의 카페', 'Gibraltar café known for its breakfast and lunch menu'),
+  place('gibraltar-cafe-2', 'gibraltar', 'cafe', 'The Kasbar', 4.7, '5 Castle Street, Gibraltar GX11 1AA', '지브롤터 유일의 100% 비건 카페 겸 아트카페.', "Gibraltar's only 100% vegan arts café.", { reviewCount: 200 }),
 ]
