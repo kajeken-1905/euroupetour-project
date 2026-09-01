@@ -12,11 +12,17 @@ export const placesHUExtra: Place[] = [
   place('budapest-bakery-2', 'budapest', 'bakery', 'Butter Birds', 4.5, 'Budapest', '페이스트리·브런치.', 'Pastries and brunch.', { reviewCount: 1600 }),
   place('budapest-bakery-3', 'budapest', 'bakery', 'Jenői Pékség', 4.4, 'Budapest', '사워도우.', 'Sourdough.', { reviewCount: 1100 }),
   place('budapest-bakery-4', 'budapest', 'bakery', 'Café Gerbeaud bakery', 4.4, 'Vörösmarty tér, Budapest', '클래식 페이스트리.', 'Classic pastries.', { reviewCount: 9800 }),
+  place('budapest-bakery-5', 'budapest', 'bakery', 'Auguszt Cukrászda', 4.3, 'Kossuth Lajos utca 14–16, 1053 Budapest', '1870년부터 이어온 헝가리 최고령 제과점.', "Hungary's oldest confectionery, established 1870.", { reviewCount: 800 }),
   place('budapest-cafe-1', 'budapest', 'cafe', 'New York Café', 4.5, 'Budapest', '화려한 카페하우스.', 'Ornate coffee house.', { reviewCount: 22000 }),
   place('budapest-cafe-2', 'budapest', 'cafe', 'Espresso Embassy', 4.6, 'Budapest', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
   place('budapest-cafe-3', 'budapest', 'cafe', 'My Little Melbourne', 4.5, 'Budapest', '스페셜티·브런치.', 'Specialty and brunch.', { reviewCount: 2800 }),
   place('budapest-cafe-4', 'budapest', 'cafe', 'Café Gerbeaud', 4.4, 'Budapest', '역사적 카페.', 'Historic café.', { reviewCount: 12000 }),
+  place('budapest-cafe-5', 'budapest', 'cafe', 'Mantra Specialty Coffee Bar', 4.7, 'Veres Pálné utca 17, 1053 Budapest', '다운타운 뒷골목의 스페셜티 커피.', 'Specialty coffee on a charming downtown backstreet.', { reviewCount: 500 }),
   place('budapest-korean-1', 'budapest', 'korean', 'Arirang', 4.5, 'Ilka utca 22, 1043 Budapest', '조용한 골목의 정통 한식당.', 'Authentic Korean restaurant on a quiet street.'),
+  place('budapest-korean-2', 'budapest', 'korean', 'Seoul House', 4.4, 'Fő utca 8, 1011 Budapest', '1990년부터 이어온 부다페스트 최초의 한식당.', "Budapest's first Korean restaurant, since 1990.", { reviewCount: 500 }),
+  place('budapest-korean-3', 'budapest', 'korean', 'The Gangnam', 4.6, 'Sas utca 25, 1051 Budapest', '정통 한식과 한국식 바베큐.', 'Authentic Korean cuisine and BBQ.', { reviewCount: 620 }),
+  place('budapest-korean-4', 'budapest', 'korean', 'K-Bunsik', 4.5, 'Ráday utca 7, 1092 Budapest', '떡볶이·김밥 등 한국식 길거리 분식과 치킨.', 'Korean street food bunsik — tteokbokki, kimbap, fried chicken.', { reviewCount: 200 }),
+  place('budapest-korean-5', 'budapest', 'korean', 'Manna Korean Restaurant', 4.4, 'Akácfa utca 7, 1072 Budapest', '바삭한 한국식 치킨으로 유명.', 'Known for crispy Korean fried chicken.', { reviewCount: 300 }),
 
   // —— debrecen ——
   place('debrecen-fine_dining-1', 'debrecen', 'fine_dining', 'IKON', 4.6, 'Piac utca 23, 4031 Debrecen', '부다페스트 밖 헝가리 최고 레스토랑.', 'One of Hungary\'s best restaurants outside Budapest.'),

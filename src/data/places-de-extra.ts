@@ -20,8 +20,24 @@ export const placesDEExtra: Place[] = [
 
   // —— munich ——
   place('munich-fine_dining-1', 'munich', 'fine_dining', 'Atelier', 4.6, 'Promenadeplatz 2-6, 80333 München', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
+  place('munich-fine_dining-2', 'munich', 'fine_dining', 'Augustiner Bräustuben', 4.9, 'Landsberger Str. 19, 80339 München', '1895년부터 이어온 아우구스티너 브루어리 직영 비어홀.', "Augustiner brewery's own beer hall since 1895.", { reviewCount: 22000 }),
+  place('munich-fine_dining-3', 'munich', 'fine_dining', 'Hofbräuhaus', 4.0, 'Platzl 9, 80331 München', '1589년부터 이어온 세계적으로 유명한 비어홀.', 'World-famous beer hall dating to 1589.', { reviewCount: 45000 }),
+  place('munich-fine_dining-4', 'munich', 'fine_dining', 'Gasthaus Isarthor', 4.3, 'Kanalstr. 2, 80538 München', '전통 바이스부어스트와 아우구스티너 생맥주.', 'Traditional Weisswurst breakfast with Augustiner beer.', { reviewCount: 2000 }),
+  place('munich-fine_dining-5', 'munich', 'fine_dining', 'Steinheil 16', 4.5, 'Steinheilstraße 16, 80333 München', '푸짐한 바이에른식 슈니첼 맛집.', 'Beloved spot for generous Bavarian schnitzel.', { reviewCount: 6000 }),
   place('munich-bakery-1', 'munich', 'bakery', 'Rischart am Markt', 4.5, 'Viktualienmarkt 2, 80331 München, Germany', '빅투알리엔 시장에 위치한 뮌헨의 대표 베이커리, 루프탑 테라스가 특징', 'Munich\'s iconic bakery chain at Viktualienmarkt, with a rooftop terrace'),
+  place('munich-bakery-2', 'munich', 'bakery', 'Chocolatte Konditorei & Bäckerei', 4.6, 'Prinzregentenstr. 111, 81677 München', '뮌헨 최고의 크루아상으로 손꼽히는 베이커리·카페.', 'Bakery-café known for some of the best croissants in Munich.', { reviewCount: 1200 }),
+  place('munich-bakery-3', 'munich', 'bakery', 'Maelu confectionery & café', 4.0, 'Theatinerstraße 32, 80333 München', '1995년부터 이어온 가족 운영 파티세리.', 'Family-run patisserie since 1995.', { reviewCount: 5400 }),
+  place('munich-bakery-4', 'munich', 'bakery', 'Julius Brantner Brothandwerk', 4.8, 'Nordendstraße 23, 80801 München', '슈바빙의 유기농 아르티장 베이커리.', "Organic artisan bakery in Schwabing.", { reviewCount: 1100 }),
   place('munich-cafe-1', 'munich', 'cafe', 'Café Frischhut', 4.5, 'Prälat-Zistl-Straße 8, 80331 München, Germany', '구시가지의 유서 깊은 뮌헨 카페, 슈말츠누들로 유명', 'Historic Munich café in the old town, known for its Schmalznudel pastry'),
+  place('munich-cafe-2', 'munich', 'cafe', 'Café Blá', 4.4, 'Lilienstr. 34, 81669 München', '이자르강 인근의 노르딕 감성 스페셜티 커피.', 'Nordic-inspired specialty coffee near the Isar river.', { reviewCount: 1700 }),
+  place('munich-cafe-3', 'munich', 'cafe', 'Man Versus Machine Coffee Roasters', 4.5, 'Müllerstr. 23, 80469 München', '자체 로스팅 원두를 사용하는 미니멀 커피숍.', 'Minimalist coffee shop using in-house roasted beans.', { reviewCount: 500 }),
+  place('munich-cafe-4', 'munich', 'cafe', 'Sweet Spot Kaffee', 4.8, 'Heiliggeiststraße 1, 80331 München', '마리엔플라츠 인근 스페셜티 커피.', 'Specialty coffee near Marienplatz.', { reviewCount: 1600 }),
+  place('munich-cafe-5', 'munich', 'cafe', 'Coffee Twins', 4.9, 'Ehrengutstraße 18, 80469 München', '쌍둥이 형제가 운영하는 스페셜티 커피와 홈메이드 페이스트리.', 'Specialty coffee and homemade pastries run by twin brothers.', { reviewCount: 240 }),
+  place('munich-korean-1', 'munich', 'korean', 'Anyong! Korean Street Food', 4.6, 'Brunnstraße 1, 80331 München', '떡볶이·라면·닭갈비 등 한국식 길거리 분식.', 'Korean street food — tteokbokki, ramyeon, dakgalbi.', { reviewCount: 1200 }),
+  place('munich-korean-2', 'munich', 'korean', 'Hansik', 4.6, 'Thomas-Wimmer-Ring 9, 80539 München', '불고기·김밥·떡볶이 등 정통 가정식.', 'Home-style Korean cooking — bulgogi, kimbap, tteokbokki.', { reviewCount: 500 }),
+  place('munich-korean-3', 'munich', 'korean', 'Bokki and Bap', 4.5, 'Sendlinger Straße 28, 80331 München', '불고기·닭갈비·비빔밥 등 한식 퓨전.', 'Korean-fusion — bulgogi, dakgalbi, bibimbap.', { reviewCount: 300 }),
+  place('munich-korean-4', 'munich', 'korean', 'Kimbu Korean Kimbap & Burger', 4.5, 'Tal 1, 80331 München', '구시가지의 한국식 치킨·김밥·떡볶이 스트리트푸드.', "Korean street food in the old town — fried chicken, kimbap, tteokbokki.", { reviewCount: 200 }),
+  place('munich-korean-5', 'munich', 'korean', 'Sunhye Korean Streetfood', 4.4, 'Margarete-Vollmar-Straße 1, 81248 München', '한국식 길거리 음식 전문점.', 'Korean street food specialist.', { reviewCount: 150 }),
 
   // —— hamburg ——
   place('hamburg-fine_dining-1', 'hamburg', 'fine_dining', 'The Table Kevin Fehling', 4.7, 'Shanghaiallee 15, 20457 Hamburg', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
