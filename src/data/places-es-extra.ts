@@ -81,8 +81,17 @@ export const placesESExtra: Place[] = [
   place('valencia-fine_dining-1', 'valencia', 'fine_dining', 'Ricard Camarena Restaurant', 4.5, 'Carrer del Dr. Sumsi 4, 46005 València', '미쉐린 2스타 파인 다이닝.', 'Two-Michelin-star fine dining.'),
   place('valencia-fine_dining-2', 'valencia', 'fine_dining', 'El Poblet', 4.5, 'Carrer dels Correus 8, 46002 València', '미쉐린 2스타 발렌시아 요리.', 'Two-Michelin-star Valencian cuisine.'),
   place('valencia-fine_dining-3', 'valencia', 'fine_dining', 'Fierro', 4.5, 'Carrer Dr. Serrano 4, 46006 València', '미쉐린 1스타 지중해 요리.', 'One-Michelin-star Mediterranean cuisine.'),
+  place('valencia-fine_dining-4', 'valencia', 'fine_dining', 'Casa Carmela', 4.2, "Calle d'Isabel de Villena 155, 46011 València", '1922년부터 이어온 장작불 파에야 명가, 말바로사 해변가.', 'Wood-fired paella institution since 1922, on Malvarrosa beach.'),
+  place('valencia-fine_dining-5', 'valencia', 'fine_dining', 'Casa Roberto', 3.9, 'Calle del Maestro Gozalbo 19, 46005 València', '발렌시아 현지인들이 사랑하는 전통 파에야 맛집.', "Traditional paella restaurant beloved by Valencia locals.", { reviewCount: 1412 }),
   place('valencia-bakery-1', 'valencia', 'bakery', 'La Más Bonita Ruzafa', 4.4, 'Pujada del Toledà 8, 46001 València', '루사파의 인기 베이커리 카페.', 'Popular bakery café in Ruzafa.'),
+  place('valencia-bakery-2', 'valencia', 'bakery', 'Blackbird', 4.5, 'Carrer de la Reina Na Maria 7, 46006 València', '루사파의 스페셜티 커피와 홈메이드 페이스트리.', 'Specialty coffee and homemade pastries in Ruzafa.'),
   place('valencia-cafe-1', 'valencia', 'cafe', 'Bluebell Coffee Co.', 4.4, 'Mercat Central, 46001 València', '발렌시아 최초의 스페셜티 커피.', "Valencia's first specialty coffee shop."),
+  place('valencia-cafe-2', 'valencia', 'cafe', 'Cafe Malbec', 4.8, 'Carrer del Batxiller 16, 46003 València', '아르헨티나풍 페이스트리와 스페셜티 커피.', 'Argentine-style pastries and specialty coffee.'),
+  place('valencia-cafe-3', 'valencia', 'cafe', 'Café ArtySana - Ruzafa', 4.7, 'Calle Denia 49, 46004 València', '비건·베지테리언 요리와 스페셜티 커피를 갖춘 아트풀한 카페.', 'Artful café with vegan and vegetarian dishes plus specialty coffee.', { reviewCount: 252 }),
+  place('valencia-cafe-4', 'valencia', 'cafe', 'Los Picos Café', 3.5, 'Plaça de Manuel Granero 20, 46006 València', '루사파의 아늑한 아침식사·커피 명소.', 'Cozy breakfast and coffee spot in Ruzafa.'),
+  place('valencia-korean-1', 'valencia', 'korean', 'La Taula de Yoon', 4.7, 'Calle del Doctor Serrano 19, 46006 València', '정통 한식을 선보이는 인기 한식당.', 'Popular restaurant serving authentic Korean cuisine.'),
+  place('valencia-korean-2', 'valencia', 'korean', 'Jalasán', 4.4, "Carrer de Ciscar 43, 46005 València", '친근한 분위기의 정통 한식당.', 'Authentic Korean restaurant with a friendly vibe.'),
+  place('valencia-korean-3', 'valencia', 'korean', 'Kim Chi', 3.8, "Carrer d'Alberic 13, 46008 València", '한식 전문 레스토랑.', 'Restaurant specializing in Korean cuisine.'),
 
   // —— malaga ——
   place('malaga-fine_dining-1', 'malaga', 'fine_dining', 'José Carlos García Restaurante', 4.6, 'Puerto de Málaga, Plaza de la Capilla 1, 29016 Málaga', '말라가 유일의 미쉐린 스타 레스토랑.', 'Málaga\'s only Michelin-starred restaurant.'),
@@ -118,7 +127,12 @@ export const placesESExtra: Place[] = [
 
   // —— toledo ——
   place('toledo-fine_dining-1', 'toledo', 'fine_dining', 'Adolfo', 4.6, 'Calle Hombre de Palo 7, 45001 Toledo', '14세기 건물의 톨레도 미식.', 'Toledo fine dining in a 14th-century house.'),
+  place('toledo-fine_dining-2', 'toledo', 'fine_dining', 'El Albero', 4.6, 'Calle Diputacion 6, 45004 Toledo', '미슐랭 가이드 추천, 창의적인 로컬 요리.', "Michelin Guide-recommended, creative local cuisine."),
+  place('toledo-fine_dining-3', 'toledo', 'fine_dining', 'Restaurante Iván Cerdeño', 4.5, 'Cigarral del Ángel, Carretera de la Puebla s/n, 45004 Toledo', '타호 강변의 미슐랭 2스타 레스토랑.', 'Two-Michelin-star restaurant on the banks of the Tagus.', { reviewCount: 104 }),
+  place('toledo-fine_dining-4', 'toledo', 'fine_dining', 'Lo Nuestro - Tapería & Restaurante', 4.5, 'Calle San Juan de Dios 7, 45002 Toledo', '유대인 지구의 전통 카스티야 요리 타파스.', 'Traditional Castilian tapas in the old Jewish quarter.'),
+  place('toledo-fine_dining-5', 'toledo', 'fine_dining', 'Bar Ludeña', 4.1, 'Plaza Horno de La Magdalena 10, 45001 Toledo', '톨레도 명물 카르카무사스로 유명한 전통 바.', "Traditional bar famous for Toledo's carcamusas stew.", { reviewCount: 6391 }),
   place('toledo-bakery-1', 'toledo', 'bakery', 'Panadería MasaMadre', 4.6, 'C. de Santo Tomé 3, 45002 Toledo, Spain', '초콜릿 크루아상과 향긋한 커피로 유명한 톨레도의 베이커리 카페', 'Toledo bakery café known for chocolate-filled croissants and aromatic coffee'),
+  place('toledo-bakery-2', 'toledo', 'bakery', 'Obrador San Félix', 5.0, 'C. Camarín de San Cipriano 4, 45002 Toledo', '케이크와 컵케이크를 전문으로 하는 제과점.', 'Bakery specializing in cakes and cupcakes.'),
   place('toledo-cafe-1', 'toledo', 'cafe', 'El Café de las Monjas', 4.5, 'C. Cadenas 6, 45001 Toledo, Spain', '인근 수녀원의 수녀들이 만든 수제 과자로 유명한 대성당 옆 카페', 'Café near the cathedral known for handmade sweets baked by nuns'),
 
   // —— cordoba ——
@@ -152,8 +166,16 @@ export const placesESExtra: Place[] = [
 
   // —— zaragoza ——
   place('zaragoza-fine_dining-1', 'zaragoza', 'fine_dining', 'La Prensa', 4.6, 'Calle de los Estébanes 10, 50003 Zaragoza', '미쉐린 1스타 아라곤 요리.', 'One-Michelin-star Aragonese cuisine.'),
+  place('zaragoza-fine_dining-2', 'zaragoza', 'fine_dining', 'Méli Melo', 4.3, 'Calle Mayor 45, 50001 Zaragoza', '구시가의 창의적인 타파스·핀초스 맛집.', 'Creative tapas and pintxos in the old town.', { reviewCount: 1373 }),
+  place('zaragoza-fine_dining-3', 'zaragoza', 'fine_dining', 'Casa Domino', 4.2, 'Plaza Santa Marta s/n, 50001 Zaragoza', '이베리코 육가공품과 타파스로 유명한 구시가 바.', "Old-town bar known for Iberian cured meats and tapas."),
+  place('zaragoza-fine_dining-4', 'zaragoza', 'fine_dining', 'La Papa Arrugá', 4.0, 'Calle San Lorenzo 1, Casco Antiguo, 50001 Zaragoza', '가족적인 분위기의 타파스·라시온 바.', "Family-friendly tapas and raciones bar."),
+  place('zaragoza-fine_dining-5', 'zaragoza', 'fine_dining', 'Tragantua', 3.8, 'Plaza Santa Marta, 50001 Zaragoza', '해산물 타파스로 유명한 클래식 베르무테리아.', "Classic vermouth bar known for seafood tapas."),
   place('zaragoza-bakery-1', 'zaragoza', 'bakery', 'Panishop Bakery', 4.4, 'C. de Canfranc 5, 50004 Zaragoza, Spain', '빵과 페이스트리를 다양하게 갖춘 사라고사의 인기 베이커리', 'Popular Zaragoza bakery with a wide range of bread and pastries'),
+  place('zaragoza-bakery-2', 'zaragoza', 'bakery', 'Pistacho Bakery & Coffee', 4.1, 'Av. de San Juan de la Peña 7, 50015 Zaragoza', '파리 감성의 아늑한 베이커리 카페.', 'Cozy bakery café with a Parisian feel.', { reviewCount: 254 }),
   place('zaragoza-cafe-1', 'zaragoza', 'cafe', 'Doña Hipólita', 4.4, 'C. de Pedro Cerbuna 3, 50009 Zaragoza, Spain', '빈티지한 분위기의 사라고사 구시가지 카페', 'Charming vintage-style café in Zaragoza\'s historic center'),
+  place('zaragoza-cafe-2', 'zaragoza', 'cafe', 'Café Botánico', 4.2, 'C. de Santiago 5, 50003 Zaragoza', '필라르 광장 인근의 홈메이드 케이크 카페.', 'Café near Plaza del Pilar known for homemade cakes.'),
+  place('zaragoza-korean-1', 'zaragoza', 'korean', 'Roro Chikin Restaurante Coreano', 4.8, 'Av. de Sta. Isabel 18, local 5, 50016 Zaragoza', '정통 한식을 친절하게 안내하는 한식당.', 'Korean restaurant with staff who warmly guide newcomers through the menu.', { reviewCount: 124 }),
+  place('zaragoza-korean-2', 'zaragoza', 'korean', 'Korean Style Barbecue Hotpot', 4.0, 'Plaza De España 6, 50001 Zaragoza', '한국식 바베큐와 훠궈를 함께 선보이는 레스토랑.', 'Restaurant offering Korean BBQ alongside hotpot.'),
 
   // —— salamanca ——
   place('salamanca-fine_dining-1', 'salamanca', 'fine_dining', 'Restaurante Víctor Gutiérrez', 4.6, 'Calle Empedrada 4, 37001 Salamanca', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
