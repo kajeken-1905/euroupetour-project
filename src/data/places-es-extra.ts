@@ -48,8 +48,19 @@ export const placesESExtra: Place[] = [
 
   // —— seville ——
   place('seville-fine_dining-1', 'seville', 'fine_dining', 'Lalola de Javi Abascal', 4.6, 'Marco Sancho 1, 41003 Sevilla', '미쉐린 빕 구르망 레스토랑.', 'Michelin Bib Gourmand restaurant.'),
+  place('seville-fine_dining-2', 'seville', 'fine_dining', 'Bodeguita Romero', 4.3, 'Calle Harinas, Arenal, 41001 Sevilla', '세비야 명물 프링가 몬타디토로 유명한 전통 바.', "Traditional bar famous for Seville's iconic pringa montadito sandwich."),
+  place('seville-fine_dining-3', 'seville', 'fine_dining', 'Casa Morales', 4.1, 'C. García de Vinuesa 11, 41001 Sevilla', '1850년부터 이어온 세비야에서 가장 오래된 타파스 바 중 하나.', "One of Seville's oldest tapas bars, operating since 1850."),
+  place('seville-fine_dining-4', 'seville', 'fine_dining', 'Taberna Coloniales', 4.0, 'Calle Fernandez y González 36, 41001 Sevilla', '대성당 맞은편의 합리적인 가격의 타파스 바.', 'Affordable tapas bar opposite the cathedral.'),
+  place('seville-fine_dining-5', 'seville', 'fine_dining', 'Las Teresas', 3.5, 'C. Santa Teresa 2, 41004 Sevilla', '산타 크루스 지구의 역사적인 이베리코 햄 전문 바.', 'Historic bar in the Santa Cruz quarter, known for Iberian ham.'),
   place('seville-bakery-1', 'seville', 'bakery', 'Cafetería Pastelería La Canasta', 4.4, 'C. Regina 14, 41003 Sevilla, Spain', '다양한 빵과 페이스트리를 갖춘 세비야의 인기 베이커리 카페', 'Popular Seville bakery café with a wide range of bread and pastries'),
+  place('seville-bakery-2', 'seville', 'bakery', 'Ofelia Bakery', 4.6, 'Calle Huelva 5, 41004 Sevilla', '수제 케이크와 컵케이크로 유명한 구시가의 베이커리.', 'Old-town bakery known for handmade cakes and cupcakes.', { reviewCount: 1273 }),
+  place('seville-bakery-3', 'seville', 'bakery', 'Lalita Café', 3.5, 'Calle José Luis de Casso 38, 41005 Sevilla', '네르비온 지구 최고의 베이커리 카페.', "The Nervión district's top bakery café."),
   place('seville-cafe-1', 'seville', 'cafe', 'Horno San Ginés', 4.5, 'Pl. Jesús de la Pasión 8, 41004 Sevilla, Spain', '현지인들이 즐겨찾는 세비야의 카페콘레체 명소', 'Popular Seville spot where locals gather over café con leche'),
+  place('seville-cafe-2', 'seville', 'cafe', 'East Crema Coffee Santa María', 4.3, 'C. Sta. María de Gracia 1, 41002 Sevilla', '자연광이 가득한 편안한 분위기의 스페셜티 커피.', 'Specialty coffee in a relaxed, light-filled space.', { reviewCount: 325 }),
+  place('seville-cafe-3', 'seville', 'cafe', 'Syra Coffee - Las Setas', 4.4, 'Calle de Álvarez Quintero 20, 41004 Sevilla', '비건 베이커리를 갖춘 테이크아웃 스페셜티 커피.', 'Takeaway specialty coffee with vegan baked goods.'),
+  place('seville-korean-1', 'seville', 'korean', 'Restaurante Coreano Moon', 4.5, 'Avenida de Menéndez Pelayo 8, 41004 Sevilla', '정통 한식과 한국식 파전으로 유명한 한식당.', 'Korean restaurant known for authentic dishes and pajeon.', { reviewCount: 229 }),
+  place('seville-korean-2', 'seville', 'korean', "Han's Korean Restaurant", 4.7, 'C. Alfonso XII 23, Sevilla', '정통 한식을 선보이는 아늑한 한식당.', 'Cozy restaurant serving authentic Korean cuisine.'),
+  place('seville-korean-3', 'seville', 'korean', 'Seoul', 4.3, 'Avenida de la Innovación 3, Sevilla', '한국식 바베큐와 정통 요리를 갖춘 한식당.', 'Korean restaurant offering BBQ and traditional dishes.'),
 
   // —— granada ——
   place('granada-fine_dining-1', 'granada', 'fine_dining', 'Damasqueros', 4.6, 'Calle Damasqueros 3, 18009 Granada', '미쉐린 추천 창의적 테이스팅 메뉴.', 'Michelin-recommended creative tasting menus.'),
@@ -162,12 +173,26 @@ export const placesESExtra: Place[] = [
 
   // —— santiago ——
   place('santiago-fine_dining-1', 'santiago', 'fine_dining', 'Abastos 2.0', 4.6, 'Rúa das Hortas 1, 15705 Santiago de Compostela', '아바스토스 시장의 갈리시아 요리.', 'Galician cuisine at the Abastos market.'),
+  place('santiago-fine_dining-2', 'santiago', 'fine_dining', 'O Sendeiro', 4.7, 'Rua do Olvido 22, 15703 Santiago de Compostela', '전통 갈리시아 요리를 현대적으로 재해석한 인기 레스토랑.', 'Popular restaurant giving a modern twist to traditional Galician food.', { reviewCount: 1492 }),
+  place('santiago-fine_dining-3', 'santiago', 'fine_dining', 'Casa Marcelo', 4.6, 'Rúa das Hortas 1, 15705 Santiago de Compostela', '갈리시아-아시아 퓨전, 미슐랭 가이드 등재.', 'Galician-Asian fusion, listed in the Michelin Guide.'),
+  place('santiago-fine_dining-4', 'santiago', 'fine_dining', 'O Curro da Parra', 4.5, 'Rua Travesa O Curro Da Parra 7, 15704 Santiago de Compostela', '구시가의 창의적인 갈리시아 타파스 레스토랑.', 'Creative Galician tapas restaurant in the old quarter.', { reviewCount: 2105 }),
+  place('santiago-fine_dining-5', 'santiago', 'fine_dining', 'Los Caracoles', 4.3, 'Rúa da Raíña 14, 15705 Santiago de Compostela', '1986년부터 이어온 달팽이 요리 전문점.', 'Restaurant known for its snail dishes, serving since 1986.'),
   place('santiago-bakery-1', 'santiago', 'bakery', 'Panadería A Tafona', 4.6, 'R. de Frei Rosendo Salvado 11, 15701 Santiago de Compostela, Spain', '중세풍의 매력을 간직한 산티아고데콤포스텔라의 베이커리', 'Santiago de Compostela bakery with medieval charm and an open kitchen'),
+  place('santiago-bakery-2', 'santiago', 'bakery', 'Lusco & Fusco Bakery Café', 4.7, 'Rua de San Clemente 11, 15705 Santiago de Compostela', '매일 구운 미국식 파이·케이크·스콘을 갖춘 아늑한 베이커리 카페.', 'Cozy bakery café baking American-style pies, cakes and scones daily.', { reviewCount: 144 }),
   place('santiago-cafe-1', 'santiago', 'cafe', 'Confeitaría Caylo', 4.6, 'Rúa do Xeneral Pardiñas 6, 15701 Santiago de Compostela, Spain', '타르타 데 산티아고로 유명한 유서 깊은 제과점', 'Historic confectionery famous for the iconic Tarta de Santiago almond cake'),
+  place('santiago-cafe-2', 'santiago', 'cafe', 'O Mundial', 4.5, 'Conga 6 bajo, Santiago de Compostela', '세계 각국 요리와 좋은 커피, 갓 구운 케이크로 유명한 카페.', 'Café known for good coffee, freshly baked cakes and dishes from around the world.'),
+  place('santiago-cafe-3', 'santiago', 'cafe', 'Café Iacobus', 3.8, 'Rúa da Senra 24, Santiago de Compostela', '츄러스와 타르타 데 산티아고로 유명한 아늑한 카페.', 'Cozy café known for churros and Tarta de Santiago.'),
+  place('santiago-korean-1', 'santiago', 'korean', 'NuMaru', 4.6, 'Rua de Vista Alegre 58, Santiago de Compostela', '분식과 정통 한식을 함께 선보이는 아늑한 한식당.', 'Cozy Korean restaurant serving bunsik alongside traditional dishes.', { reviewCount: 1484 }),
+  place('santiago-korean-2', 'santiago', 'korean', 'Korean BBQ Fafa Buffet', 4.2, 'Rúa de Frei Rosendo Salvado 16, 15701 Santiago de Compostela', '고품질 육류와 해산물을 갖춘 한국식 바베큐 뷔페.', 'Korean BBQ buffet with high-quality meats and seafood.', { reviewCount: 197 }),
 
   // —— segovia ——
   place('segovia-fine_dining-1', 'segovia', 'fine_dining', 'José María', 4.6, 'Cronista Lecea 11, 40001 Segovia', '세고비아 명물 코치니요 아사도.', 'Segovia\'s classic roast suckling pig.'),
+  place('segovia-fine_dining-2', 'segovia', 'fine_dining', 'Mesón Don Jimeno', 4.4, 'Calle de Daoiz 15, 40003 Segovia', '대성당과 알카사르 사이 아늑한 코치니요 맛집.', 'Cozy suckling-pig restaurant between the Cathedral and the Alcázar.'),
+  place('segovia-fine_dining-3', 'segovia', 'fine_dining', 'El Fogón Sefardí', 4.0, 'Calle Isabel la Católica 8, 40001 Segovia', '유대인 지구의 세파르디 요리 전문점.', 'Restaurant specializing in Sephardic cuisine in the old Jewish quarter.'),
+  place('segovia-fine_dining-4', 'segovia', 'fine_dining', 'Mesón de Cándido', 3.9, 'Plaza Azoguejo 5, 40001 Segovia', '수도교 옆, 1786년부터 이어온 코치니요 명가.', 'Legendary suckling-pig house beside the aqueduct, serving since 1786.', { reviewCount: 4254 }),
+  place('segovia-fine_dining-5', 'segovia', 'fine_dining', 'Casa Duque', 3.9, 'Calle Cervantes 12, 40001 Segovia', '1895년부터 이어온 세고비아에서 가장 오래된 레스토랑.', 'Segovia\'s oldest restaurant, operating since 1895.'),
   place('segovia-bakery-1', 'segovia', 'bakery', 'Granier Panes Artesanos', 4.4, 'Pz. Corpus Christi 3, 40001 Segovia, Spain', '장인이 구운 빵으로 유명한 세고비아의 베이커리 체인', 'Segovia branch of the artisan bread bakery chain'),
+  place('segovia-bakery-2', 'segovia', 'bakery', 'Pastelería Limón y Menta', 4.1, 'C. Isabel la Católica 2, 40001 Segovia', '세고비아 명물 폰체 세고비아노로 유명한 제과점.', 'Pastry shop famous for the local Ponche Segoviano cake.', { reviewCount: 603 }),
   place('segovia-cafe-1', 'segovia', 'cafe', 'La Colonial', 4.4, 'Segovia, Spain', '붉은 인테리어가 인상적인 세고비아 구시가지 중심의 카페', 'Segovia café in the heart of the old town, known for its vibrant red interior'),
 
   // —— ronda ——
