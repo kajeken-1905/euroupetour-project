@@ -26,8 +26,14 @@ export const placesFRExtra: Place[] = [
 
   // —— lyon ——
   place('lyon-fine_dining-1', 'lyon', 'fine_dining', 'La Mère Brazier', 4.6, '16 Rue Saint-Georges, 69005 Lyon', '리옹 미식의 전설, 미쉐린 스타 레스토랑.', 'Legendary Lyon dining, Michelin-starred.'),
+  place('lyon-fine_dining-2', 'lyon', 'fine_dining', 'Café des Fédérations', 4.2, '8 Rue du Major Martin, 69001 Lyon', '150년 넘는 역사의 정통 리옹 부숑.', 'Authentic Lyon bouchon with over 150 years of history.'),
+  place('lyon-fine_dining-3', 'lyon', 'fine_dining', "Le Poêlon d'Or", 4.4, "29 Rue des Remparts d'Ainay, 69002 Lyon", '아네 지구의 정통 부숑, 리옹식 샐러드로 유명.', 'Authentic bouchon in the Ainay district, known for its Lyon salad.'),
+  place('lyon-fine_dining-4', 'lyon', 'fine_dining', 'Bouchon Les Lyonnais', 4.1, '19 Rue de la Bombarde, 69005 Lyon', '비외 리옹의 전통 부숑 레스토랑.', 'Traditional bouchon restaurant in Vieux Lyon.'),
   place('lyon-bakery-1', 'lyon', 'bakery', 'Boulangerie du Palais', 4.5, '8 Rue du Palais de Justice, 69005 Lyon, France', '리옹 구시가지 생장 거리에 위치한 분홍빛 창문의 베이커리', 'Bakery with a distinctive pink window in Lyon\'s old town on Rue Saint Jean'),
   place('lyon-cafe-1', 'lyon', 'cafe', 'Slake Coffee House', 4.6, '9 Rue de l\'Ancienne Préfecture, 69002 Lyon, France', '2015년부터 스페셜티 커피와 홈메이드 페이스트리를 선보이는 리옹의 카페', 'Lyon café serving specialty coffee and homemade pastries since 2015'),
+  place('lyon-cafe-2', 'lyon', 'cafe', 'Puzzle Café', 5.0, '4 rue de la Poulaillerie, 69002 Lyon', '유럽 각지의 로스터리를 순환 소개하는 스페셜티 커피.', 'Specialty coffee shop rotating craft roasters from across Europe.'),
+  place('lyon-cafe-3', 'lyon', 'cafe', 'Café Mokxa', 4.3, '5 Rue Bellecordière, 69002 Lyon', '2011년부터 이어온 리옹 최초의 스페셜티 커피 로스터리.', "Lyon's original specialty coffee roastery, since 2011.", { reviewCount: 480 }),
+  place('lyon-korean-1', 'lyon', 'korean', 'Kimchique', 5.0, '74 Rue Garibaldi, 69006 Lyon', '일식과 한식을 함께 선보이는 인기 레스토랑.', 'Popular restaurant blending Japanese and Korean cuisine.', { reviewCount: 107 }),
 
   // —— marseille ——
   place('marseille-fine_dining-1', 'marseille', 'fine_dining', 'Le Petit Nice Passedat', 4.7, '17 Rue des Braves Anse de Maldormé, 13007 Marseille', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
