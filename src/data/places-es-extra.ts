@@ -152,8 +152,15 @@ export const placesESExtra: Place[] = [
 
   // —— ronda ——
   place('ronda-fine_dining-1', 'ronda', 'fine_dining', 'Bardal', 4.7, 'Calle José Aparicio 1, 29400 Ronda', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
+  place('ronda-fine_dining-2', 'ronda', 'fine_dining', 'Restaurante Almocabar', 4.5, 'Plaza Ruedo Alameda 5, 29400 Ronda', '구시가 남쪽 모로 지구의 로컬 맛집, 육류 요리로 유명.', 'Local favorite in the old Moorish quarter, known for meat dishes.', { reviewCount: 900 }),
+  place('ronda-fine_dining-3', 'ronda', 'fine_dining', 'Bar El Barrio', 5.0, 'Calle de San Francisco de Asís 111, 29400 Ronda', '정육점을 겸하는 주인이 굽는 바비큐 맛집.', 'BBQ favorite run by an owner who is also a butcher.', { reviewCount: 200 }),
+  place('ronda-fine_dining-4', 'ronda', 'fine_dining', 'Mesón El Sacristán', 4.5, 'Plaza Duquesa de Parcent 14, 29400 Ronda', '장작 화덕에 구운 육류 요리로 유명한 구시가 레스토랑.', 'Old-town restaurant known for meats grilled in a wood-burning oven.', { reviewCount: 600 }),
+  place('ronda-fine_dining-5', 'ronda', 'fine_dining', 'De Locos Tapas', 4.5, 'Plazuela Arquitecto Francisco Pons Sorolla 7, 29400 Ronda', '안달루시아·바스크 퓨전 타파스 맛집.', 'Andalusian-Basque fusion tapas favorite.', { reviewCount: 2100 }),
   place('ronda-bakery-1', 'ronda', 'bakery', 'Confitería Las Campanas', 4.4, 'Carrera Espinel 64, 29400 Ronda, Spain', '론다 중심가의 전통 제과점', 'Traditional confectionery on Ronda\'s main street'),
+  place('ronda-bakery-2', 'ronda', 'bakery', 'Panadería Alba, Obrador de Pan', 4.5, 'C. Padre Francisco Piquer 18, 29400 Ronda', '장인 정신이 담긴 빵과 페이스트리 전문점.', 'Artisan bread and pastry shop.'),
   place('ronda-cafe-1', 'ronda', 'cafe', 'Confitería Pastelería Patricia', 4.5, 'C. de Espinillos 4, 29400 Ronda, Spain', '30년 넘게 사랑받아온 론다의 페이스트리·홈메이드 아이스크림 전문점', 'Beloved Ronda pastry shop for over thirty years, known for homemade ice cream'),
+  place('ronda-cafe-2', 'ronda', 'cafe', 'Confitería Daver', 4.3, 'Calle Virgen de los Remedios 6, 29400 Ronda', '전통·모던 케이크와 커피로 유명한 론다 최고의 제과 카페.', "Ronda's top confectionery café, known for traditional and modern cakes.", { reviewCount: 300 }),
+  place('ronda-cafe-3', 'ronda', 'cafe', 'La Sastrería', 3.5, 'Carrera Espinel 77, 29400 Ronda', '츄러스와 커피로 유명한 쇼핑가의 브런치 카페.', 'Brunch café on the main shopping street, known for churros and coffee.', { reviewCount: 130 }),
 
   // —— girona ——
   place('girona-fine_dining-1', 'girona', 'fine_dining', 'El Celler de Can Roca', 4.7, 'Can Sunyer 48, 17007 Girona', '미쉐린 3스타, 세계 최고 레스토랑 중 하나.', 'Three-Michelin-star restaurant, among the world\'s best.'),
@@ -171,9 +178,24 @@ export const placesESExtra: Place[] = [
 
   // —— palma ——
   place('palma-fine_dining-1', 'palma', 'fine_dining', 'Marc Fosh Restaurant', 4.6, 'Carrer de la Missió 7, 07003 Palma', '미쉐린 1스타 지중해 요리.', 'One-Michelin-star Mediterranean cuisine.'),
+  place('palma-fine_dining-2', 'palma', 'fine_dining', 'Adrián Quetglas', 4.6, 'Passeig de Mallorca 20, 07012 Palma de Mallorca', '운하변 미쉐린 셀렉션 모던 지중해 요리.', 'Michelin-selected modern Mediterranean cuisine beside the canal.', { reviewCount: 2000 }),
+  place('palma-fine_dining-3', 'palma', 'fine_dining', 'DINS Santi Taura', 4.5, 'Plaça de Llorenç Villalonga 4, 07001 Palma de Mallorca', '미쉐린 1스타, 마요르카 역사 요리 재해석 코스.', 'One-Michelin-star tasting menu reinterpreting historic Mallorcan cuisine.', { reviewCount: 400 }),
+  place('palma-fine_dining-4', 'palma', 'fine_dining', 'Casa Maruka', 4.4, 'Carrer de la Reina Maria Cristina 7, 07004 Palma de Mallorca', '전통 마요르카 가정식으로 유명한 로컬 맛집.', 'Local favorite known for traditional Mallorcan home cooking.', { reviewCount: 700 }),
+  place('palma-fine_dining-5', 'palma', 'fine_dining', 'La Rosa Vermutería & Colmado', 4.1, 'Carrer de la Rosa 5, 07003 Palma de Mallorca', '구시가의 활기찬 베르무트 바 겸 타파스 식당.', 'Lively vermouth bar and tapas spot in the old town.', { reviewCount: 1400 }),
 
   place('palma-bakery-1', 'palma', 'bakery', 'Forn del Santo Cristo', 4.5, 'Carrer d\'Anníbal 24, 07013 Palma, Spain', '1910년부터 이어온 팔마의 대표 엔사이마다 전문점', 'Palma\'s leading ensaimada bakery, operating since 1910'),
+  place('palma-bakery-2', 'palma', 'bakery', 'Fornet de la Soca', 4.1, 'Plaça de Weyler 9, 07001 Palma', '잊혀진 마요르카 전통 레시피를 되살린 베이커리.', 'Bakery reviving forgotten traditional Mallorcan recipes.', { reviewCount: 300 }),
+  place('palma-bakery-3', 'palma', 'bakery', 'Lluís Perez Pastisser', 4.5, 'Carrer de Bonaire 14, 07012 Palma de Mallorca', '크루아상·케이크로 유명한 팔마 중심가의 제과점.', 'Central Palma patisserie known for croissants and cakes.', { reviewCount: 780 }),
+  place('palma-bakery-4', 'palma', 'bakery', 'Panadería Forn Sa Plaça', 4.4, 'Carrer Bartomeu Castell 7, Palma', '콜 덴 라바사 지역의 인기 동네 빵집.', 'Popular neighborhood bakery in the Coll d\'en Rabassa district.'),
+  place('palma-bakery-5', 'palma', 'bakery', 'Forn San Agustin', 3.7, 'Avinguda Joan Miró 354, 07015 Palma de Mallorca', '1968년부터 이어온 전통 마요르카 베이커리.', 'Traditional Mallorcan bakery operating since 1968.'),
   place('palma-cafe-1', 'palma', 'cafe', 'Ca\'n Joan de s\'Aigo', 4.5, 'Palma de Mallorca, Spain', '팔마에서 가장 오래된 페이스트리 숍 중 하나', 'One of Palma\'s oldest and best-known pastry shops'),
+  place('palma-cafe-2', 'palma', 'cafe', 'Mistral Coffee Roasters', 4.7, 'Carrer del Banc 4, 07001 Palma de Mallorca', '마요르카 최초의 스페셜티 커피 로스터리.', 'Mallorca\'s pioneering specialty coffee roastery.', { reviewCount: 880 }),
+  place('palma-cafe-3', 'palma', 'cafe', 'Cafè Riutort', 4.8, 'Carrer del Carme 25, 07003 Palma', '아늑한 분위기의 스페셜티 커피·브런치 카페.', 'Cozy specialty coffee and brunch café.', { reviewCount: 870 }),
+  place('palma-cafe-4', 'palma', 'cafe', 'La Molienda', 4.2, 'Calle Obispo Campins 11, 07001 Palma de Mallorca', '테라스가 있는 스페셜티 커피·브런치 카페.', 'Specialty coffee and brunch café with a terrace.'),
+  place('palma-cafe-5', 'palma', 'cafe', 'Arabay Coffee', 4.0, 'Carrer del Sindicat 5, 07002 Palma', '싱글 오리진 스페셜티 커피 전문점.', 'Specialty coffee shop focused on single-origin beans.', { reviewCount: 200 }),
+  place('palma-korean-1', 'palma', 'korean', 'Seoul Korean Cuisine & Bar', 4.7, 'Carrer de Catalunya 4, 07011 Palma de Mallorca', '산타 카탈리나 인근 정통 한식·바베큐.', 'Authentic Korean cuisine and BBQ near Santa Catalina.', { reviewCount: 300 }),
+  place('palma-korean-2', 'palma', 'korean', 'Hanok Corea BBQ', 4.5, 'Carrer del Bisbe Maura 6, 07003 Palma', '테이블에서 직접 굽는 한국식 바베큐.', 'Korean BBQ grilled tableside.', { reviewCount: 100 }),
+  place('palma-korean-3', 'palma', 'korean', 'Bi Bap', 4.3, 'Plaça del Mercat 3, 07001 Palma de Mallorca', '비빔밥 등 한식과 아시아 요리를 함께 선보이는 인기 맛집.', 'Popular spot serving bibimbap and Korean-Asian fusion dishes.', { reviewCount: 479 }),
 
   // —— nerja ——
   place('nerja-fine_dining-1', 'nerja', 'fine_dining', 'Oliva', 4.6, 'Plaza de España 2, 29780 Nerja', '지중해·스페인 요리의 미식 레스토랑.', 'Gourmet Mediterranean and Spanish cuisine.'),
