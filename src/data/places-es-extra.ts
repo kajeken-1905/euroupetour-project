@@ -127,8 +127,17 @@ export const placesESExtra: Place[] = [
 
   // —— san-sebastian ——
   place('san-sebastian-fine_dining-1', 'san-sebastian', 'fine_dining', 'Arzak', 4.7, 'Alcalde J. Elosegi Hiribidea 273, 20015 Donostia', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
+  place('san-sebastian-fine_dining-2', 'san-sebastian', 'fine_dining', 'Borda Berri', 4.5, 'Fermin Calbeton Kalea 12, 20003 Donostia', '구시가의 인기 핀초스 바, 즉석 조리 요리로 유명.', 'Popular Old Town pintxos bar known for made-to-order dishes.', { reviewCount: 2466 }),
+  place('san-sebastian-fine_dining-3', 'san-sebastian', 'fine_dining', 'La Cuchara de San Telmo', 4.4, 'C/ 31 de Agosto 28, 20003 Donostia', '정교한 플레이팅의 즉석 조리 핀초스 바.', 'Pintxos bar known for elaborately plated, made-to-order dishes.', { reviewCount: 3164 }),
+  place('san-sebastian-fine_dining-4', 'san-sebastian', 'fine_dining', 'Gandarias Jatetxea', 4.5, '31 de Agosto Kalea 23, 20003 Donostia', '구시가의 대표적인 바스크 핀초스 레스토랑.', "One of the Old Town's most popular Basque pintxos restaurants.", { reviewCount: 1800 }),
+  place('san-sebastian-fine_dining-5', 'san-sebastian', 'fine_dining', 'Casa Urola', 4.3, 'Fermin Calbeton Kalea 20, 20003 Donostia', '핀초스 바와 정찬 다이닝을 함께 갖춘 구시가 레스토랑.', 'Old Town restaurant combining a pintxos bar with a formal dining room.', { reviewCount: 900 }),
   place('san-sebastian-bakery-1', 'san-sebastian', 'bakery', 'Casa Otaegui', 4.6, 'Parte Vieja, 20003 Donostia / San Sebastián, Spain', '1886년부터 이어온 산세바스티안에서 가장 오래된 제과점', 'San Sebastián\'s oldest pastry shop, producing confectionery since 1886'),
+  place('san-sebastian-bakery-2', 'san-sebastian', 'bakery', 'Meyvi', 4.7, '35 Ategorrieta Hiribidea, 20013 Donostia', '홈메이드 페이스트리와 좋은 커피로 유명한 아기자기한 베이커리 카페.', 'Cute bakery café known for homemade pastries and good coffee.', { reviewCount: 300 }),
+  place('san-sebastian-bakery-3', 'san-sebastian', 'bakery', 'Somos - Coffee & Bakery', 4.8, 'Antonio Gaztañeta Kalea 4, 20018 Donostia', '안티구오 지구의 인기 아침식사 베이커리 카페.', 'Popular breakfast bakery café in the Antiguo district.', { reviewCount: 468 }),
   place('san-sebastian-cafe-1', 'san-sebastian', 'cafe', 'Sweet Roma', 4.5, 'Sánchez Toca 3, 20003 Donostia / San Sebastián, Spain', '부엔 파스토르 대성당 바로 뒤에 위치한 산세바스티안의 카페', 'San Sebastián café just behind the Buen Pastor Cathedral'),
+  place('san-sebastian-cafe-2', 'san-sebastian', 'cafe', 'Koh Tao', 4.3, 'Calle Bengoetxea 2, 20004 Donostia', '트렌디한 분위기의 카페 겸 바.', 'Trendy café-bar.', { reviewCount: 1391 }),
+  place('san-sebastian-korean-1', 'san-sebastian', 'korean', 'B Star Korean Mongolian Food', 4.7, 'Larramendi Kalea 21, 20006 Donostia', '비빔밥·김치찌개 등 정통 한식과 몽골 요리.', 'Authentic Korean cuisine (bibimbap, kimchi jjigae) alongside Mongolian dishes.'),
+  place('san-sebastian-korean-2', 'san-sebastian', 'korean', 'Kuili Korean BBQ', 4.5, 'Kolon Pasealekua 4, 20002 Donostia', '그로스 지구의 한국식 바베큐 레스토랑.', 'Korean BBQ restaurant in the Gros district.'),
 
   // —— zaragoza ——
   place('zaragoza-fine_dining-1', 'zaragoza', 'fine_dining', 'La Prensa', 4.6, 'Calle de los Estébanes 10, 50003 Zaragoza', '미쉐린 1스타 아라곤 요리.', 'One-Michelin-star Aragonese cuisine.'),
@@ -137,8 +146,19 @@ export const placesESExtra: Place[] = [
 
   // —— salamanca ——
   place('salamanca-fine_dining-1', 'salamanca', 'fine_dining', 'Restaurante Víctor Gutiérrez', 4.6, 'Calle Empedrada 4, 37001 Salamanca', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
+  place('salamanca-fine_dining-2', 'salamanca', 'fine_dining', 'Río de la Plata', 4.1, 'Plaza del Peso, 37001 Salamanca', '1958년부터 이어온 마요르 광장 인근 전통 스페인 요리.', 'Traditional Spanish cuisine near Plaza Mayor, serving since 1958.', { reviewCount: 800 }),
+  place('salamanca-fine_dining-3', 'salamanca', 'fine_dining', 'La Posada del Ermitaño', 4.5, 'Calle Van Dyck 24, 37005 Salamanca', '타파스·라시온으로 유명한 비노테카.', 'Wine bar known for tapas and raciones.', { reviewCount: 400 }),
+  place('salamanca-fine_dining-4', 'salamanca', 'fine_dining', 'Casa de Comidas Montero', 3.7, 'Plaza Corrillo 12, 37002 Salamanca', '마요르 광장 인근의 전통 타파스 식당.', 'Traditional tapas restaurant near Plaza Mayor.', { reviewCount: 400 }),
+  place('salamanca-fine_dining-5', 'salamanca', 'fine_dining', 'Casa Paca', 3.4, 'Plaza del Peso 10, 37001 Salamanca', '플라사 델 페소의 전통 카스티야 요리.', 'Traditional Castilian cuisine on Plaza del Peso.', { reviewCount: 2300 }),
   place('salamanca-bakery-1', 'salamanca', 'bakery', 'Confitería Pastelería Santa Lucía', 4.5, 'C. del Prior 11, 37002 Salamanca, Spain', '마요르 광장 인근에서 플로레타 등 전통 과자로 유명한 살라망카의 제과점', 'Salamanca confectionery near Plaza Mayor known for traditional sweets like the Floreta'),
+  place('salamanca-bakery-2', 'salamanca', 'bakery', 'Confitería la Industrial', 4.1, 'Calle Rúa Mayor 8, 37002 Salamanca', '전통 방식의 제과·제빵점.', 'Traditional confectionery and bakery.', { reviewCount: 300 }),
+  place('salamanca-bakery-3', 'salamanca', 'bakery', "Toni's Cupcakes", 5.0, 'Calle Pozo Amarillo 28, 37001 Salamanca', '컵케이크 전문 베이커리.', 'Bakery specializing in cupcakes.'),
+  place('salamanca-bakery-4', 'salamanca', 'bakery', 'Celi&Co Gluten Free Bakery', 4.2, 'C. Pozo Amarillo 8, 37001 Salamanca', '글루텐프리 전문 베이커리.', 'Dedicated gluten-free bakery.', { reviewCount: 700 }),
   place('salamanca-cafe-1', 'salamanca', 'cafe', 'Santagloria Coffee & Bakery', 4.4, 'C. José Jáuregui 37, 37002 Salamanca, Spain', '다양한 케이크와 페이스트리로 유명한 살라망카 최고의 커피 명소', 'Salamanca\'s top coffee destination, known for its array of cakes and pastries'),
+  place('salamanca-cafe-2', 'salamanca', 'cafe', 'PAP', 4.5, 'C. de la Velles 21, 37007 Salamanca', '1905년 창립, 살라망카에서 가장 오래된 문학 카페.', "Founded in 1905, Salamanca's oldest literary café.", { reviewCount: 98 }),
+  place('salamanca-cafe-3', 'salamanca', 'cafe', 'Café Novelty', 3.2, 'Plaza Mayor 2 Bajo, 37002 Salamanca', '마요르 광장의 역사적인 카페.', 'Historic café on Plaza Mayor.', { reviewCount: 834 }),
+  place('salamanca-cafe-4', 'salamanca', 'cafe', 'Cafetería Unamuno', 3.4, 'Calle Zamora 49-51, 37001 Salamanca', '사모라 거리의 인기 아침식사·브런치 카페.', 'Popular breakfast and brunch café on Calle Zamora.', { reviewCount: 525 }),
+  place('salamanca-korean-1', 'salamanca', 'korean', 'Busan Go!', 4.5, 'Gran Vía 10, 37001 Salamanca', '테이블에서 직접 굽는 한국식 바베큐.', 'Korean BBQ grilled tableside.', { reviewCount: 453 }),
 
   // —— santiago ——
   place('santiago-fine_dining-1', 'santiago', 'fine_dining', 'Abastos 2.0', 4.6, 'Rúa das Hortas 1, 15705 Santiago de Compostela', '아바스토스 시장의 갈리시아 요리.', 'Galician cuisine at the Abastos market.'),
