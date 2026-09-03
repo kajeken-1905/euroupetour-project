@@ -102,22 +102,39 @@ export const placesFRExtra: Place[] = [
 
   // —— toulouse ——
   place('toulouse-fine_dining-1', 'toulouse', 'fine_dining', 'Michel Sarran', 4.6, '21 Boulevard Armand Duportal, 31000 Toulouse', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
+  place('toulouse-fine_dining-2', 'toulouse', 'fine_dining', 'Le Colombier', 4.3, '14 Rue Bayard, 31000 Toulouse', '1874년부터 이어온 카술레 전문점, 툴루즈의 대표 노포.', 'Toulouse institution serving cassoulet since 1874.', { reviewCount: 1382 }),
+  place('toulouse-fine_dining-3', 'toulouse', 'fine_dining', 'Émile', 4.4, '13 Place Saint-Georges, 31000 Toulouse', '1947년부터 이어온 남서프랑스 요리 전문점, 오리콩피 카술레로 유명.', "South-West French restaurant since 1947, known for its duck confit cassoulet.", { reviewCount: 3648 }),
   place('toulouse-bakery-1', 'toulouse', 'bakery', 'La Boulange Saint Georges', 4.6, '21 Rue Charles de Rémusat, 31000 Toulouse, France', '툴루즈 최고의 팽 오 레쟁과 크루아상으로 유명한 베이커리', 'Toulouse bakery known for some of the best pain au raisin and croissants in the city'),
   place('toulouse-cafe-1', 'toulouse', 'cafe', 'L\'Autre Salon de Thé', 4.5, '7 Pl. de la Patte d\'Oie, 31300 Toulouse, France', '매력적인 분위기의 툴루즈 티살롱', 'Charming tea salon in Toulouse'),
+  place('toulouse-cafe-2', 'toulouse', 'cafe', 'La Fiancée', 4.6, '54 Rue Peyrolières, 31000 Toulouse', '테라스와 홈메이드 시럽 커피로 인기 있는 브런치 카페.', 'Popular brunch café known for its terrace and homemade-syrup coffees.'),
+  place('toulouse-korean-1', 'toulouse', 'korean', 'Séoul Restaurant Coréen', 4.2, 'Toulouse, 31000, France', '툴루즈에서 유일하게 한국식 바베큐를 선보이는 레스토랑.', "Toulouse's only restaurant offering Korean barbecue.", { reviewCount: 703 }),
+  place('toulouse-korean-2', 'toulouse', 'korean', 'Hwaban', 4.7, '1 Place Riquet, 31000 Toulouse', '한국 길거리 음식 전문점, 비빔밥으로 호평.', 'Korean street food specialist, praised for its bibimbap.'),
 
   // —— montpellier ——
   place('montpellier-fine_dining-1', 'montpellier', 'fine_dining', 'Le Jardin des Sens', 4.6, 'Place de la Canourgue, 34000 Montpellier', '지중해 정원 뷰의 미쉐린 레스토랑.', 'Michelin restaurant with Mediterranean garden views.'),
+  place('montpellier-fine_dining-2', 'montpellier', 'fine_dining', 'Leclère', 4.6, '6 Rue des Écoles Laïques, 34000 Montpellier', '미슐랭 스타 레스토랑, 매일 들어오는 신선한 식재료로 짠 단일 코스.', 'Michelin-starred restaurant serving a single tasting menu built on ultra-fresh daily produce.', { reviewCount: 2228 }),
+  place('montpellier-fine_dining-3', 'montpellier', 'fine_dining', 'Bistrot des Arceaux', 4.4, '25 Rue Hippolyte, 34000 Montpellier', '아르소 지구의 아늑한 비스트로, 홈메이드 요리로 호평.', 'Cozy bistro in the Arceaux district, praised for its homemade dishes.', { reviewCount: 304 }),
   place('montpellier-bakery-1', 'montpellier', 'bakery', 'Au Rythme du Pain', 4.6, '2 Rue de la Carbonnerie, 34000 Montpellier, France', '100% 유기농 재료로 빵을 만드는 몽펠리에의 베이커리', 'Montpellier bakery celebrating bread-making with 100% organic ingredients'),
   place('montpellier-cafe-1', 'montpellier', 'cafe', 'PANA Boulangerie', 4.6, 'Montpellier, 34000, France', '포카차와 사워도우로 정평이 난 몽펠리에의 베이커리 카페', 'Highly recommended Montpellier bakery café known for focaccia and sourdough'),
+  place('montpellier-cafe-2', 'montpellier', 'cafe', 'Café BUN', 4.6, '5 Rue des Étuves, 34000 Montpellier', '몽펠리에의 서드웨이브 스페셜티 로스터리.', "Montpellier's third-wave specialty coffee roastery.", { reviewCount: 822 }),
+  place('montpellier-korean-1', 'montpellier', 'korean', 'Umami - La Cinquième Saveur', 4.7, 'Montpellier, 34000, France', '2017년 마스터셰프 코리아 출신 셰프가 연 한·일·프 퓨전 비스트로노미, 비빔밥 우마미로 유명.', "Korean-Japanese-French fusion bistronomy opened in 2017 by a former MasterChef Korea finalist, known for its Bibimbap Umami.", { reviewCount: 305 }),
 
   // —— dijon ——
   place('dijon-fine_dining-1', 'dijon', 'fine_dining', 'L\'Essentiel', 4.6, '12 Rue Audra, 21000 Dijon', '계절 메뉴의 모던 프렌치 요리.', 'Modern French cuisine with a seasonal menu.'),
+  place('dijon-fine_dining-2', 'dijon', 'fine_dining', "DZ'envies", 4.0, '12 Rue Odebert, 21000 Dijon', '디종 중앙시장 맞은편의 비스트로노미, 계절 시장 식재료 활용.', "Bistronomy restaurant opposite Dijon's covered market, built on seasonal market produce.", { reviewCount: 8810 }),
   place('dijon-bakery-1', 'dijon', 'bakery', 'Jean-Rémi Gallet\'s Bakery', 4.6, '19 Av. Gustave Eiffel, 21000 Dijon, France', '지역 친환경 재료로 만든 100% 홈메이드 페이스트리로 유명한 디종의 베이커리', 'Dijon bakery known for 100% homemade pastries using local, eco-friendly ingredients'),
+  place('dijon-bakery-2', 'dijon', 'bakery', "Tartin'Art", 4.2, '8 Rue Musette, 21000 Dijon', '다양한 빵과 페이스트리, 가성비 좋은 아침 세트로 유명한 베이커리.', 'Bakery known for its wide bread and pastry selection and good-value breakfast sets.', { reviewCount: 618 }),
   place('dijon-cafe-1', 'dijon', 'cafe', 'Patisserie-Café', 4.4, '2 Rue Jean Jacques Rousseau, 21000 Dijon, France', '갓 구운 크루아상과 팽오쇼콜라를 즐길 수 있는 디종의 카페', 'Dijon café offering fresh croissants, pastries and pain au chocolat'),
+  place('dijon-cafe-2', 'dijon', 'cafe', 'Espresso-T', 4.6, '21 Rue de la Poste, 21000 Dijon', '프랑스 바리스타 챔피언십 결선 진출자가 운영하는 커피숍, 대만식 버블티도 인기.', 'Coffee shop run by a French barista championship finalist, also known for Taiwanese bubble tea.', { reviewCount: 142 }),
+  place('dijon-korean-1', 'dijon', 'korean', 'Épicerie Coréenne', 4.6, '65 Rue Monge, 21000 Dijon', '한국 식료품점 겸 식당, 김치볶음밥·비빔밥 등 100% 홈메이드 한식.', 'Korean grocery store and eatery serving 100% homemade Korean dishes like kimchi fried rice and bibimbap.'),
 
   // —— chamonix ——
   place('chamonix-fine_dining-1', 'chamonix', 'fine_dining', 'Restaurant Albert 1er', 4.6, '38 Route du Bouchet, 74400 Chamonix-Mont-Blanc', '1903년부터 이어온 전통 레스토랑.', 'Traditional restaurant serving since 1903.'),
-
+  place('chamonix-fine_dining-2', 'chamonix', 'fine_dining', 'Le Monchu', 4.4, '1 Rue Lyret, 74400 Chamonix-Mont-Blanc', '샤모니 중심가의 사부아 요리 전문점, 퐁뒤·라클렛으로 유명.', 'Savoyard restaurant in central Chamonix, known for fondue and raclette.', { reviewCount: 5297 }),
+  place('chamonix-fine_dining-3', 'chamonix', 'fine_dining', 'La Calèche', 4.2, '18 Rue du Docteur Paccard, 74400 Chamonix-Mont-Blanc', '옛 석조 농가 건물의 전통 사부아 요리 전문점, 20여 가지 사부아 요리.', 'Traditional Savoyard restaurant in an old stone farmhouse, offering over 20 Savoyard dishes.', { reviewCount: 4347 }),
   place('chamonix-bakery-1', 'chamonix', 'bakery', 'Le Fournil Chamoniard', 4.5, '195 Av. de l\'Aiguille du Midi, 74400 Chamonix-Mont-Blanc, France', '지역 주민과 방문객 모두에게 사랑받는 샤모니의 베이커리', 'Popular Chamonix bakery beloved by locals and visitors alike'),
+  place('chamonix-bakery-2', 'chamonix', 'bakery', "Boulangerie L'Al'Pain", 4.4, '620 Route du Plagnolet, 74400 Chamonix-Mont-Blanc', '수상 경력의 크루아상으로 유명한 아르장티에르의 베이커리.', 'Award-winning bakery in Argentière known for its croissants.'),
   place('chamonix-cafe-1', 'chamonix', 'cafe', 'Café Tartine', 4.5, 'Chamonix, 74400, France', '직접 구운 두꺼운 빵 위에 타르틴을 올려주는 샤모니 중심가의 카페', 'Café in the heart of Chamonix known for tartines on thick house-baked bread'),
+  place('chamonix-cafe-2', 'chamonix', 'cafe', 'Moody Coffee Roasters', 4.9, "195 Avenue de l'Aiguille du Midi, 74400 Chamonix-Mont-Blanc", '샤모니의 소규모 스페셜티 커피 로스터리 겸 베이커리.', 'Small-batch specialty coffee roastery and artisanal bakery in Chamonix.', { reviewCount: 67 }),
+  place('chamonix-korean-1', 'chamonix', 'korean', 'Munchie', 4.4, '87 Rue des Moulins, 74400 Chamonix-Mont-Blanc', '샤모니 중심가의 한식당, 해물 전골로 호평.', 'Korean restaurant in central Chamonix, praised for its seafood hotpot.', { reviewCount: 706 }),
 ]
