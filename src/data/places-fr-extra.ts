@@ -72,18 +72,33 @@ export const placesFRExtra: Place[] = [
 
   // —— strasbourg ——
   place('strasbourg-fine_dining-1', 'strasbourg', 'fine_dining', 'Restaurant Chez Yvonne', 4.5, '10 Rue du Sanglier, 67000 Strasbourg', '스트라스부르의 대표 전통 윈스튜브.', 'Strasbourg\'s iconic traditional winstub.'),
+  place('strasbourg-fine_dining-2', 'strasbourg', 'fine_dining', 'Le Tire-Bouchon', 4.1, '5 Rue des Tailleurs de Pierre, 67000 Strasbourg', '미슐랭 빕구르망 선정, 대성당 인근의 전통 알자스 윈스튜브.', 'Michelin Bib Gourmand traditional Alsatian winstub near the Cathedral.', { reviewCount: 10536 }),
+  place('strasbourg-fine_dining-3', 'strasbourg', 'fine_dining', 'Winstub Zuem Strissel', 4.5, '5 Place de la Grande Boucherie, 67000 Strasbourg', '1385년부터 이어온 스트라스부르에서 가장 오래된 윈스튜브.', "Strasbourg's oldest winstub, dating back to 1385."),
+  place('strasbourg-fine_dining-4', 'strasbourg', 'fine_dining', "L'Atelier 116", 4.4, '116 Grand Rue, 67000 Strasbourg', '프티 프랑스 인근의 인기 베이커리 겸 레스토랑.', 'Popular bakery-restaurant near Petite France.', { reviewCount: 4657 }),
   place('strasbourg-bakery-1', 'strasbourg', 'bakery', 'La Gare\'Mandise', 4.4, '8 Place de la Gare, 67000 Strasbourg, France', '스트라스부르 기차역 앞의 베이커리 겸 살롱 드 테', 'Bakery and tea salon in front of Strasbourg\'s train station'),
   place('strasbourg-cafe-1', 'strasbourg', 'cafe', 'Chez Christian', 4.5, 'Rue Mercière, 67000 Strasbourg, France', '스트라스부르 대성당 옆의 고급 페이스트리·초콜릿 전문점', 'Upscale pastry and chocolate shop next to Strasbourg Cathedral'),
+  place('strasbourg-cafe-2', 'strasbourg', 'cafe', 'Café Bretelles', 4.4, '36 Rue du Bain aux Plantes, 67000 Strasbourg', '2014년부터 이어온 스트라스부르 최초의 스페셜티 커피숍.', "Strasbourg's original specialty coffee shop, open since 2014."),
+  place('strasbourg-korean-1', 'strasbourg', 'korean', 'Seoul Station', 4.8, '24 Rue des Frères, 67000 Strasbourg', '스트라스부르의 한식당.', 'Korean restaurant in Strasbourg.', { reviewCount: 1365 }),
+  place('strasbourg-korean-2', 'strasbourg', 'korean', 'Miriné', 4.6, '3 Rue du 22 Novembre, 67000 Strasbourg', '스트라스부르의 한식당.', 'Korean restaurant in Strasbourg.'),
 
   // —— annecy ——
   place('annecy-fine_dining-1', 'annecy', 'fine_dining', 'Cozna', 4.6, '22 Faubourg Sainte-Claire, 74000 Annecy', '구시가의 우아하고 창의적인 요리.', 'Elegant, innovative cuisine in the Old Town.'),
+  place('annecy-fine_dining-2', 'annecy', 'fine_dining', 'Savoie Bar', 4.5, '1 Place Saint François de Sales, 74000 Annecy', '19세기 말부터 이어온 사부아 가정식 레스토랑.', 'Savoyard home-style restaurant operating since the late 19th century.'),
+  place('annecy-fine_dining-3', 'annecy', 'fine_dining', 'Ô Savoyard', 3.6, '1 Rue Perrière, 74000 Annecy', '라클렛·타르티플레트·퐁뒤 등 사부아 전통 요리 전문점.', 'Restaurant specializing in traditional Savoyard dishes — raclette, tartiflette, fondue.'),
   place('annecy-bakery-1', 'annecy', 'bakery', 'Boulangerie Rouge', 4.5, 'Annecy, 74000, France', '사부아식 특산 빵으로 유명한 안시의 인기 베이커리', 'Popular Annecy bakery known for Savoie specialty breads'),
+  place('annecy-bakery-2', 'annecy', 'bakery', 'Boulangerie Pâtisserie Alexandre Perchat', 4.5, '6 Rue Président Favre, 74000 Annecy', '구시가 중심의 아름다운 제과점, 크루아상으로 유명.', "Beautiful patisserie in the heart of the Old Town, known for its croissants."),
   place('annecy-cafe-1', 'annecy', 'cafe', 'Au Péché Mignon', 4.5, '9 Rue Jean-Jacques Rousseau, 74000 Annecy, France', '달콤한 디저트로 유명한 안시 구시가지의 아담한 카페', 'Quaint café in Annecy\'s old town serving delectable sweets'),
+  place('annecy-cafe-2', 'annecy', 'cafe', 'Café Bunna', 4.8, '17 Rue Jean-Jacques Rousseau, 74000 Annecy', '안시 최고의 카페로 꼽히는 곳, 플랫화이트와 홈메이드 페이스트리.', "Widely regarded as Annecy's best café, known for its flat white and homemade pastries."),
+  place('annecy-korean-1', 'annecy', 'korean', 'TOM', 4.9, '9 Avenue du Rhône, 74000 Annecy', '한식·일식·몽골식을 함께 선보이는 레스토랑, 김치찌개로 호평.', 'Restaurant blending Korean, Japanese and Mongolian cuisine, praised for its kimchi jjigae.', { reviewCount: 179 }),
 
   // —— avignon ——
   place('avignon-fine_dining-1', 'avignon', 'fine_dining', 'La Mirande', 4.6, '4 Place de la Mirande, 84000 Avignon', '클래식 프렌치 요리 레스토랑.', 'Classic French cuisine restaurant.'),
+  place('avignon-fine_dining-2', 'avignon', 'fine_dining', 'Pollen', 4.8, '18 Rue Joseph Vernet, 84000 Avignon', '미슐랭 1스타, 제철 로컬 식재료를 활용한 서프라이즈 코스.', 'One-Michelin-star restaurant offering a surprise tasting menu built on seasonal local produce.', { reviewCount: 500 }),
+  place('avignon-fine_dining-3', 'avignon', 'fine_dining', "L'Agapé", 4.4, '21 Place des Corps Saints, 84000 Avignon', '미슐랭 빕구르망 선정, 초록빛 광장 테라스가 있는 레스토랑.', 'Michelin Bib Gourmand restaurant with a leafy square terrace.', { reviewCount: 1895 }),
   place('avignon-bakery-1', 'avignon', 'bakery', 'Maison Violette', 4.6, 'Place des Corps Saints, 84000 Avignon, France', '훌륭한 빵과 페이스트리로 유명한 아비뇽의 전통 베이커리', 'Traditional Avignon bakery known for exceptional bread and pastries'),
   place('avignon-cafe-1', 'avignon', 'cafe', 'Bella Ciao – Boulangerie Utopiste', 4.5, 'Avignon, 84000, France', '통곡물 빵과 갓 만든 샌드위치로 유명한 아비뇽의 베이커리 카페', 'Avignon bakery café known for whole-grain bread and made-to-order sandwiches'),
+  place('avignon-cafe-2', 'avignon', 'cafe', 'Café Tulipe', 4.5, '21 Rue des Trois Faucons, 84000 Avignon', '케멕스·니트로 콜드브루 등 다양한 추출 방식의 스페셜티 커피숍.', 'Specialty coffee shop offering chemex, nitro cold brew and more.'),
+  place('avignon-korean-1', 'avignon', 'korean', 'BAPJIP', 4.8, '6 Place de la Principale, 84000 Avignon', '아비뇽 중심가의 한식당, 파전·비빔밥으로 호평.', 'Korean restaurant in central Avignon, praised for its pajeon and bibimbap.', { reviewCount: 13 }),
 
   // —— toulouse ——
   place('toulouse-fine_dining-1', 'toulouse', 'fine_dining', 'Michel Sarran', 4.6, '21 Boulevard Armand Duportal, 31000 Toulouse', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
