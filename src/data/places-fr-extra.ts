@@ -37,18 +37,38 @@ export const placesFRExtra: Place[] = [
 
   // —— marseille ——
   place('marseille-fine_dining-1', 'marseille', 'fine_dining', 'Le Petit Nice Passedat', 4.7, '17 Rue des Braves Anse de Maldormé, 13007 Marseille', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
+  place('marseille-fine_dining-2', 'marseille', 'fine_dining', 'Une Table au Sud', 4.5, '2 Quai du Port, 13002 Marseille', '구항구 전망의 미슐랭 1스타 레스토랑, 부야베스로 유명.', 'One-Michelin-star restaurant overlooking the Old Port, known for its bouillabaisse.', { reviewCount: 2612 }),
+  place('marseille-fine_dining-3', 'marseille', 'fine_dining', 'Chez Madie Les Galinettes', 4.3, '138 Quai du Port, 13002 Marseille', '1995년부터 이어온 구항구뷰 프로방스 로컬 식당, 부야베스로 유명.', 'Provençal local restaurant overlooking the Old Port, operating since 1995, known for bouillabaisse.'),
+  place('marseille-fine_dining-4', 'marseille', 'fine_dining', 'Chez Fonfon', 4.9, '140 Rue du Vallon des Auffes, 13007 Marseille', '발롱 데 오프 어촌의 전통 부야베스 명소.', 'Traditional bouillabaisse restaurant in the fishing cove of Vallon des Auffes.', { reviewCount: 8631 }),
+  place('marseille-fine_dining-5', 'marseille', 'fine_dining', 'Restaurant Péron', 4.3, '56 Corniche Président John Fitzgerald Kennedy, 13007 Marseille', '1885년부터 이어온 마르세유에서 가장 오래된 레스토랑, 해안 전망.', "Marseille's oldest continuously operating restaurant, since 1885, with sweeping coastal views."),
   place('marseille-bakery-1', 'marseille', 'bakery', 'Le Four des Navettes', 4.5, '136 Rue Sainte, 13007 Marseille, France', '1781년부터 이어온 마르세유에서 가장 오래된 베이커리', 'Marseille\'s oldest bakery, operating since 1781'),
+  place('marseille-bakery-2', 'marseille', 'bakery', 'Le Bar à Pain MARSEILLE', 3.9, '18 Cours Joseph Thierry, 13001 Marseille', '유기농 밀가루로 만든 빵과 페이스트리로 유명한 베이커리.', 'Bakery known for bread and pastries made with organic flour.', { reviewCount: 2599 }),
   place('marseille-cafe-1', 'marseille', 'cafe', 'Sylvain Depuichaffray', 4.5, 'Marseille, France', '훌륭한 커피로 정평이 난 마르세유의 인기 카페', 'Popular Marseille café praised for its excellent coffee'),
+  place('marseille-cafe-2', 'marseille', 'cafe', 'Torréfaction Noailles', 4.3, '56 la Canebière, 13001 Marseille', '1927년부터 이어온 가족 운영 커피 로스터리.', 'Family-run coffee roastery operating since 1927.', { reviewCount: 179 }),
+  place('marseille-korean-1', 'marseille', 'korean', 'Ma.Ma.Co', 4.8, '14 Rue Corneille, 13001 Marseille', '마르세유 오페라 인근의 한식당, 떡볶이·비빔밥·프라이드치킨 등.', 'Korean restaurant near the Marseille Opera serving tteokbokki, bibimbap, fried chicken and more.', { reviewCount: 88 }),
+  place('marseille-korean-2', 'marseille', 'korean', 'Busan Castellane', 4.6, '6 Rue du Rouet, 13006 Marseille', '카스텔란 지구의 한국식 바베큐 전문점, 자가제 김치.', 'Korean BBQ specialist in the Castellane district, known for homemade kimchi.', { reviewCount: 650 }),
 
   // —— nice ——
   place('nice-fine_dining-1', 'nice', 'fine_dining', 'Le Chantecler', 4.6, '37 Promenade des Anglais, 06000 Nice', '네그레스코 호텔의 미식 레스토랑.', 'Fine dining at the Hotel Negresco.'),
+  place('nice-fine_dining-2', 'nice', 'fine_dining', 'Chez Pipo', 4.5, '13 Rue Bavastro, 06300 Nice', '1923년부터 이어온 소카(병아리콩 팬케이크) 명소, 장작 오븐 사용.', "Nice's iconic socca (chickpea pancake) spot since 1923, cooked in a wood-fired oven."),
+  place('nice-fine_dining-3', 'nice', 'fine_dining', "Chez Thérésa", 4.0, '28 Rue Droite, 06300 Nice', '1925년부터 이어온 니스 구시가의 전통 소카 노점.', "Traditional socca stall in Vieux Nice, serving since 1925."),
+  place('nice-fine_dining-4', 'nice', 'fine_dining', "La Socca d'Or", 4.3, '45 Rue Bonaparte, 06300 Nice', '1989년부터 이어온 니스 로컬 요리 전문점.', 'Nice specialties restaurant serving locals and visitors since 1989.'),
   place('nice-bakery-1', 'nice', 'bakery', 'Pâtisserie Canet', 4.6, '25 Boulevard Gambetta, 06000 Nice, France', '니스 최고의 페이스트리로 꼽히는 제과점', 'Widely regarded as having the best pastries in Nice'),
+  place('nice-bakery-2', 'nice', 'bakery', 'Boulangerie Jeannot', 4.0, '8 Rue Saint-François de Paule, 06300 Nice', '니스 오페라하우스 인근의 구시가 베이커리, 크루아상으로 유명.', "Old Town bakery near the Nice Opera House, known for its croissants.", { reviewCount: 1212 }),
   place('nice-cafe-1', 'nice', 'cafe', 'Mama Baker', 4.5, '13 Rue de Lépante, 06000 Nice, France', '초콜릿 번으로 유명한 니스의 유기농 베이커리 카페', 'Organic Nice bakery café known for its unrivaled chocolate buns'),
+  place('nice-cafe-2', 'nice', 'cafe', 'Maison Karlie', 4.8, '36 Rue Pastorelli, 06000 Nice', '2022년부터 이어온 마이크로 로스터리 겸 카페.', 'Micro-roastery and coffeeshop operating since 2022.'),
+  place('nice-korean-1', 'nice', 'korean', 'Sixsa', 4.5, '9 Rue Chauvain, 06000 Nice', '2020년부터 이어온 한식당, 비빔밥·불고기 등.', 'Korean restaurant since 2020 serving bibimbap, bulgogi and more.', { reviewCount: 728 }),
 
   // —— bordeaux ——
   place('bordeaux-fine_dining-1', 'bordeaux', 'fine_dining', 'Le Cent 33', 4.6, '133 Rue du Jardin public, 33000 Bordeaux', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
+  place('bordeaux-fine_dining-2', 'bordeaux', 'fine_dining', 'La Tupina', 4.6, '6 Rue Porte de la Monnaie, 33000 Bordeaux', '전통 화덕 요리로 유명한 보르도의 대표 레스토랑.', 'Bordeaux institution known for cooking over a traditional open fire.', { reviewCount: 4059 }),
+  place('bordeaux-fine_dining-3', 'bordeaux', 'fine_dining', 'Le Bouchon Bordelais', 4.7, '2 Rue Courbin, 33000 Bordeaux', '창의적인 테이스팅 메뉴로 호평받는 비스트로.', 'Bistro praised for its creative, artfully presented tasting menus.'),
   place('bordeaux-bakery-1', 'bordeaux', 'bakery', 'Cassonade', 4.5, 'Rue Saint-James, 33000 Bordeaux, France', '그로스 클로슈 종탑 인근의 유명 보르도 베이커리', 'Renowned Bordeaux bakery near the Grosse Cloche belfry'),
+  place('bordeaux-bakery-2', 'bordeaux', 'bakery', 'Boulangerie Louis Lamour', 4.5, '7 Rue Ravez, 33000 Bordeaux', '보르도 중심가의 정통 베이커리, 매일 아침 신선하게 굽는다.', 'Traditional bakery in central Bordeaux, everything baked fresh each morning.', { reviewCount: 939 }),
   place('bordeaux-cafe-1', 'bordeaux', 'cafe', 'Goûtu par Oven Heaven', 4.6, 'Marché des Capucins, 33000 Bordeaux, France', '갓 구운 크루아상과 훌륭한 커피로 보르도 최고로 꼽히는 카페', 'Widely regarded as Bordeaux\'s best café, with fresh croissants and expertly crafted coffee'),
+  place('bordeaux-cafe-2', 'bordeaux', 'cafe', 'Black List Café', 4.7, '27 Place Pey Berland, 33000 Bordeaux', '페이 베를랑 광장 인근의 보헤미안풍 커피숍, 브런치와 홈메이드 페이스트리.', 'Bohemian coffee shop near Place Pey Berland, known for brunch and homemade pastries.'),
+  place('bordeaux-korean-1', 'bordeaux', 'korean', 'Mokoji Grill', 4.3, '45 Rue du Pas Saint Georges, 33000 Bordeaux', '보르도의 한국식 바비큐·와인 레스토랑.', 'Korean BBQ and wine restaurant in Bordeaux.', { reviewCount: 2012 }),
+  place('bordeaux-korean-2', 'bordeaux', 'korean', 'Korea Box', 4.5, '4 Rue de Cursol, 33000 Bordeaux', '보르도의 한식당.', 'Korean restaurant in Bordeaux.', { reviewCount: 109 }),
 
   // —— strasbourg ——
   place('strasbourg-fine_dining-1', 'strasbourg', 'fine_dining', 'Restaurant Chez Yvonne', 4.5, '10 Rue du Sanglier, 67000 Strasbourg', '스트라스부르의 대표 전통 윈스튜브.', 'Strasbourg\'s iconic traditional winstub.'),
