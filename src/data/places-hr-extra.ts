@@ -3,18 +3,18 @@ import type { Place } from '../types'
 
 export const placesHRExtra: Place[] = [
   // —— zagreb ——
-  place('zagreb-fine_dining-1', 'zagreb', 'fine_dining', 'Noel', 4.6, 'Zagreb', '미슐랭 모던 크로아티아.', 'Michelin modern Croatian.', { reviewCount: 900 }),
-  place('zagreb-fine_dining-2', 'zagreb', 'fine_dining', 'Dubravkin Put', 4.5, 'Zagreb', '시즌 파인 다이닝.', 'Seasonal fine dining.', { reviewCount: 1100 }),
-  place('zagreb-fine_dining-3', 'zagreb', 'fine_dining', 'Mundoaka Street Food', 4.4, 'Zagreb', '창의 캐주얼.', 'Creative casual.', { reviewCount: 1600 }),
-  place('zagreb-fine_dining-4', 'zagreb', 'fine_dining', 'Vinodol', 4.4, 'Zagreb', '전통 크로아티아.', 'Traditional Croatian.', { reviewCount: 2800 }),
-  place('zagreb-fine_dining-5', 'zagreb', 'fine_dining', 'Zinfandel\'s', 4.5, 'Zagreb', '호텔 파인 다이닝.', 'Hotel fine dining.', { reviewCount: 1200 }),
-  place('zagreb-bakery-1', 'zagreb', 'bakery', 'Pecivo bakery counters', 4.3, 'Zagreb', '로컬 베이커리.', 'Local bakery.', { reviewCount: 1400 }),
-  place('zagreb-bakery-2', 'zagreb', 'bakery', 'Vincek', 4.5, 'Zagreb', '케이크·페이스트리.', 'Cakes and pastries.', { reviewCount: 3200 }),
-  place('zagreb-bakery-3', 'zagreb', 'bakery', 'Torte i to', 4.4, 'Zagreb', '토르트 전문.', 'Torte specialists.', { reviewCount: 1800 }),
-  place('zagreb-cafe-1', 'zagreb', 'cafe', 'Cogito Coffee', 4.5, 'Zagreb', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
-  place('zagreb-cafe-2', 'zagreb', 'cafe', 'Eli\'s Caffé', 4.4, 'Zagreb', '로스터리 카페.', 'Roastery café.', { reviewCount: 1200 }),
-  place('zagreb-cafe-3', 'zagreb', 'cafe', 'Kino Europa Café', 4.3, 'Zagreb', '클래식 카페.', 'Classic café.', { reviewCount: 900 }),
-  place('zagreb-cafe-4', 'zagreb', 'cafe', 'Botaničar', 4.4, 'Zagreb', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
+  place('zagreb-fine_dining-1', 'zagreb', 'fine_dining', 'Noel', 4.5, 'Ul. popa Dukljanina 1, 10000 Zagreb', '자그레브 최초의 미슐랭 1스타 레스토랑, 계절별 테이스팅 메뉴.', "Zagreb's first Michelin-star restaurant, with a seasonal tasting menu.", { reviewCount: 1641 }),
+  place('zagreb-fine_dining-2', 'zagreb', 'fine_dining', 'Dubravkin Put', 4.5, 'Dubravkin Put 2, 10000 Zagreb', '투슈카나츠 숲속의 미슐랭 1스타 레스토랑, 생선 요리로 유명.', 'One-Michelin-star restaurant in Tuškanac Forest, known for its fish dishes.'),
+  place('zagreb-fine_dining-3', 'zagreb', 'fine_dining', 'Mundoaka Street Food', 4.5, 'Petrinjska Ulica 2, 10000 Zagreb', '반 옐라치치 광장 인근의 창의적인 스트리트 푸드 레스토랑.', 'Creative street food restaurant near Ban Jelačić Square.', { reviewCount: 1886 }),
+  place('zagreb-fine_dining-4', 'zagreb', 'fine_dining', 'Vinodol', 4.2, 'Ulica Nikole Tesle 10, 10000 Zagreb', '자그레브 중심가의 전통 크로아티아 요리 레스토랑, 슈트루클리로 유명.', 'Traditional Croatian restaurant in central Zagreb, known for its štrukli.', { reviewCount: 11017 }),
+  place('zagreb-fine_dining-5', 'zagreb', 'fine_dining', 'Zinfandel\'s', 4.6, 'Antuna Mihanovića 1, 10000 Zagreb', '에스플러네이드 호텔 내 미슐랭 그린스타 레스토랑.', 'Michelin Green Star restaurant inside the historic Esplanade Hotel.', { reviewCount: 1542 }),
+  place('zagreb-bakery-1', 'zagreb', 'bakery', 'Pekara Dubravica', 4.5, 'Dolac 2, 10000 Zagreb', '자그레브 최고의 베이커리로 꼽히는 곳, 부렉이 유명.', "Widely regarded as Zagreb's best bakery, known for its burek.", { reviewCount: 416 }),
+  place('zagreb-bakery-2', 'zagreb', 'bakery', 'Vincek', 4.5, 'Ilica 18, 10000 Zagreb', '1977년부터 이어온 케이크·아이스크림 전문점.', 'Cake and ice cream specialist since 1977.', { reviewCount: 3066 }),
+  place('zagreb-bakery-3', 'zagreb', 'bakery', 'Torte i to', 4.5, 'Grahorova Ul. 5, 10000 Zagreb', '치즈케이크와 베이글로 유명한 인기 페이스트리숍.', 'Popular pastry shop known for its cheesecake and bagels.'),
+  place('zagreb-cafe-1', 'zagreb', 'cafe', 'Cogito Coffee', 4.7, 'Varšavska Ulica 11, 10000 Zagreb', '크로아티아에 서드웨이브 커피를 처음 소개한 로스터리.', "One of the first to bring third-wave coffee to Croatia.", { reviewCount: 99 }),
+  place('zagreb-cafe-2', 'zagreb', 'cafe', 'Eli\'s Caffé', 4.6, 'Ilica 63, 10000 Zagreb', '도시 최고의 에스프레소로 꼽히는 인기 카페.', "Popular café known for some of the city's best espresso.", { reviewCount: 1330 }),
+  place('zagreb-cafe-3', 'zagreb', 'cafe', 'Kino Europa Café', 4.5, 'Varšavska ulica 3, 10000 Zagreb', '1925년 지어진 영화관 내 카페, 예술영화 상영과 함께.', 'Café inside a 1925 cinema, alongside independent and festival film screenings.'),
+  place('zagreb-cafe-4', 'zagreb', 'cafe', 'Botaničar', 4.6, 'Trg Marka Marulića 6, 10000 Zagreb', '식물원 인근의 보태니컬 콘셉트 카페.', 'Botanical-themed café near the Botanical Garden.', { reviewCount: 2224 }),
 
   // —— dubrovnik ——
   place('dubrovnik-fine_dining-1', 'dubrovnik', 'fine_dining', 'Nautika Restaurant', 4.6, 'Brsalje 3, 20000 Dubrovnik', '구시가 성벽 옆의 대표 레스토랑.', 'Landmark restaurant by the Old Town walls.'),
