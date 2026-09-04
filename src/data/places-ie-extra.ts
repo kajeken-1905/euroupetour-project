@@ -23,27 +23,35 @@ export const placesIEExtra: Place[] = [
 
   // —— galway ——
   place('galway-fine_dining-1', 'galway', 'fine_dining', 'Ard Bia at Nimmo\'s', 4.6, 'Long Walk, Spanish Arch, Galway City', '코립강 전망의 대표 레스토랑.', 'Leading restaurant overlooking the River Corrib.'),
+  place('galway-fine_dining-2', 'galway', 'fine_dining', 'Rúibín Bar & Restaurant', 4.8, '1 Dock Rd, Galway H91 D7NE', '골웨이 역사적인 도크랜드 전망의 레스토랑, 독창적인 요리로 호평.', "Restaurant overlooking Galway's historic docklands, praised for its innovative cuisine.", { reviewCount: 963 }),
+  place('galway-fine_dining-3', 'galway', 'fine_dining', 'Kai Café + Restaurant', 4.7, '20 Sea Road, Galway', '미슐랭 그린스타를 받은 레스토랑, 지속가능한 요리로 호평.', 'Michelin Green Star restaurant praised for its sustainable cooking.', { reviewCount: 1136 }),
   place('galway-bakery-1', 'galway', 'bakery', 'Magpie Bakery', 4.6, 'Unit 12, The Cornstore, Galway H91 CC44, Ireland', '매일 매장에서 직접 사워도우 빵과 페이스트리를 만드는 골웨이의 베이커리', 'Galway bakery baking sourdough bread and pastries on-site daily'),
   place('galway-cafe-1', 'galway', 'cafe', 'C\'est la Vie Fabrique Boulangerie Café', 4.6, 'Galway, Ireland', '파리지앵 정통 불랑주리를 경험할 수 있는 골웨이의 프렌치 베이커리 카페', 'Galway French bakery café offering an authentic Parisian boulangerie experience'),
+  place('galway-cafe-2', 'galway', 'cafe', 'Espresso 44', 4.6, '44 William Street, Galway H91 W8D3', '갤웨이 최고의 커피로 꼽히는 카페.', "Café widely regarded as serving Galway's best coffee.", { reviewCount: 175 }),
 
   // —— cork ——
   place('cork-fine_dining-1', 'cork', 'fine_dining', 'Market Lane Restaurant', 4.6, '5-6 Oliver Plunkett St, Cork City, T12 T959', '코크 시내 중심의 수상 경력 레스토랑.', 'Award-winning restaurant in central Cork.'),
+  place('cork-fine_dining-2', 'cork', 'fine_dining', 'Goldie', 4.7, '128 Oliver Plunkett Street, Cork', '미슐랭 빕구르망 선정 해산물 레스토랑, 신선한 생선 요리로 호평.', 'Michelin Bib Gourmand seafood restaurant, praised for its fresh fish dishes.', { reviewCount: 314 }),
   place('cork-bakery-1', 'cork', 'bakery', 'Ross Bakery & Café', 4.5, 'Magazine Rd, The Lough, Cork T12 VK61, Ireland', '합리적인 가격에 다양한 빵을 즐길 수 있는 코크의 인기 베이커리', 'Popular Cork bakery known for its delightful atmosphere and reasonable prices'),
   place('cork-cafe-1', 'cork', 'cafe', 'The Grumpy Bakers', 4.5, 'Cork, Ireland', '훌륭한 페이스트리와 커피로 유명한 코크의 아늑한 카페', 'Cozy Cork café known for delectable pastries and heavenly coffee'),
+  place('cork-cafe-2', 'cork', 'cafe', 'SOMA Coffee Company', 4.6, '23 Tuckey Street, Cork', '코크 시내 중심의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in central Cork.'),
+  place('cork-cafe-3', 'cork', 'cafe', 'Three Fools Coffee', 4.8, 'The Glass Pod, Kiosk 2, Grand Parade, Cork', '그랜드 퍼레이드의 인기 커피숍.', 'Popular coffee kiosk on Grand Parade.', { reviewCount: 1199 }),
 
   // —— killarney ——
   place('killarney-fine_dining-1', 'killarney', 'fine_dining', 'Bricín Restaurant and Boxty House', 4.6, '26 High Street, Killarney, V93 EE61', '하이 스트리트의 정통 아일랜드 요리.', 'Traditional Irish cuisine on High Street.'),
+  place('killarney-fine_dining-2', 'killarney', 'fine_dining', 'Cronins Restaurant', 4.7, '9 College Street, Killarney', '1957년부터 이어온 가족 운영 레스토랑, 해산물과 스테이크로 유명.', 'Family-run restaurant since 1957, known for its seafood and steaks.', { reviewCount: 167 }),
   place('killarney-bakery-1', 'killarney', 'bakery', 'Killarney Bakery', 4.5, '19 Plunkett St, Killarney V93 K290, Co. Kerry, Ireland', '킬라니 최고로 꼽히는 전통 베이커리', 'Widely regarded as Killarney\'s best bakery'),
   place('killarney-cafe-1', 'killarney', 'cafe', 'Reidy\'s Cafe & Bakery', 4.5, 'Killarney, Co. Kerry, Ireland', '숙련된 바리스타의 스페셜티 커피와 매일 구운 페이스트리로 유명한 킬라니의 카페', 'Killarney café known for skilled-barista specialty coffee and daily-baked pastries'),
 
   // —— kilkenny ——
-  place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'The Arches', 4.5, '5 Gas House Ln, Kilkenny, R95 X092', '킬케니의 인기 레스토랑.', 'Popular restaurant in Kilkenny.'),
+  place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'Campagne', 4.7, '5 Gas House Ln, Kilkenny, R95 X092', '2008년 개업, 2014년부터 미슐랭 1스타를 유지해온 프렌치 레스토랑.', 'French restaurant opened in 2008, holding a Michelin star since 2014.', { reviewCount: 521 }),
+  place('kilkenny-fine_dining-2', 'kilkenny', 'fine_dining', 'Petronella', 4.7, 'Butterslip Lane, Kilkenny', '따뜻하고 세심한 서비스로 호평받는 킬케니 최고의 레스토랑.', "Kilkenny's top-rated restaurant, praised for warm and attentive service."),
   place('kilkenny-bakery-1', 'kilkenny', 'bakery', 'Arán Artisan Bakery and Bistro', 4.6, '8 Barrack Street, Kilkenny R95 YF30, Ireland', '아일랜드 타임스 선정 최고의 점심 명소에 오른 킬케니의 아르티장 베이커리', 'Kilkenny artisan bakery named among Ireland\'s top lunch spots by the Irish Times'),
   place('kilkenny-cafe-1', 'kilkenny', 'cafe', 'The Pantry Country Kitchen', 4.4, 'Kieran Street, Kilkenny, Ireland', '직접 만드는 빵과 페이스트리로 유명한 킬케니 시내의 카페', 'Kilkenny city-center café known for freshly made breads and pastries'),
 
   // —— limerick ——
   place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Freddy\'s', 4.5, '100 O\'Connell St, Limerick, V94 XY0P', '리머릭의 활기찬 다이닝 명소.', 'A lively dining spot in Limerick.'),
-
+  place('limerick-fine_dining-2', 'limerick', 'fine_dining', 'The Curragower Bar & Restaurant', 4.6, 'Clancy Strand, Limerick', '중세 지구에 위치, 킹존스 성과 커러거워 폭포 전망의 레스토랑.', "Restaurant in Limerick's medieval quarter with views of King John's Castle and the Curragower Falls.", { reviewCount: 2884 }),
   place('limerick-bakery-1', 'limerick', 'bakery', 'Bean a Tí Bakery & Cafe', 4.5, '1 Little Catherine Street, Limerick, Ireland', '1966년부터 이어온 리머릭의 가족 운영 베이커리', 'Family-run Limerick bakery baking since 1966'),
   place('limerick-cafe-1', 'limerick', 'cafe', 'Bowes Ryan Bakery & Cafe', 4.4, 'Arthurs Quay, Limerick, Ireland', '아서스 퀘이에 위치한 리머릭의 베이커리 카페', 'Limerick bakery café at Arthurs Quay'),
 ]
