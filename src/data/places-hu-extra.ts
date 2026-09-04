@@ -36,17 +36,22 @@ export const placesHUExtra: Place[] = [
 
   // —— pecs ——
   place('pecs-fine_dining-1', 'pecs', 'fine_dining', 'Bagolyvár', 4.5, 'Felsőhavi dűlő 6, 7627 Pécs', '테티에 언덕의 전망 좋은 레스토랑.', 'Restaurant with panoramic views on Tettye hill.'),
+  place('pecs-fine_dining-2', 'pecs', 'fine_dining', 'Original Csülök Bár', 4.8, 'Pellérdi út 31, 7632 Pécs', '2014년부터 이어온 가족 운영 헝가리 요리 레스토랑, 넉넉한 양으로 호평.', 'Family-run Hungarian restaurant since 2014, praised for generous portions.', { reviewCount: 70 }),
   place('pecs-bakery-1', 'pecs', 'bakery', 'Capri Patisserie', 4.5, 'Pécs, 7621, Hungary', '우체국 궁전 앞에 위치한 페치 현지인들의 숨은 페이스트리 명소', 'Hidden pastry shop favorite of local families, in front of the Palace of the Post Office in Pécs'),
   place('pecs-cafe-1', 'pecs', 'cafe', 'Morzsa', 4.5, 'Király utca 14, 7622 Pécs, Hungary', '스칸디나비아풍 감성의 페치 베이커리 겸 레스토랑', 'Pécs bakery-restaurant with Scandinavian flair'),
+  place('pecs-cafe-2', 'pecs', 'cafe', 'Pécsi Kávé', 4.8, 'Irgalmasok utcája 6, 7621 Pécs', '아이르갈머쇼크 거리의 작은 정원에 숨은 스페셜티 커피숍.', 'Specialty coffee shop tucked in a small garden off Irgalmasok street.'),
 
   // —— szeged ——
   place('szeged-fine_dining-1', 'szeged', 'fine_dining', 'Régi Híd Vendéglő', 4.5, 'Oskola u. 4, 6720 Szeged', '합리적인 가격의 정통 헝가리 요리.', 'Authentic Hungarian cuisine at fair prices.'),
+  place('szeged-fine_dining-2', 'szeged', 'fine_dining', 'Roosevelt téri Halászcsárda', 4.5, 'Roosevelt tér 14, 6720 Szeged', '티서강변의 복고풍 생선 요리 전문점, 어부 수프로 유명.', 'Retro-styled fish restaurant by the Tisza river, known for its fisherman\'s soup.'),
   place('szeged-bakery-1', 'szeged', 'bakery', 'Emmarozs', 4.6, 'Mérey utca 15/a, 6722 Szeged, Hungary', '세게드에서 가장 잘 알려진 아르티장 베이커리', 'One of the best-known artisan bakeries in Szeged'),
   place('szeged-cafe-1', 'szeged', 'cafe', 'A Cappella Cukrászda', 4.5, 'Kárász utca 6, 6720 Szeged, Hungary', '전통과 현대 케이크를 두루 갖춘 세게드 중심가의 카페', 'Café in central Szeged offering a huge selection of traditional and modern cakes'),
+  place('szeged-korean-1', 'szeged', 'korean', 'KIM Korean Chicken', 4.5, 'Nagy Jenő u. 4, Szeged', '한국인 셰프가 신선한 재료로 요리하는 한식 패스트푸드 레스토랑.', 'Korean fast-food restaurant with a Korean chef using fresh ingredients.', { reviewCount: 429 }),
 
   // —— eger ——
   place('eger-fine_dining-1', 'eger', 'fine_dining', 'Macok Bistro', 4.6, 'Tinódi S. tér 4, 3300 Eger', '헝가리 전역에서 손꼽히는 비스트로.', 'Bistro ranked among the best in Hungary.'),
-
+  place('eger-fine_dining-2', 'eger', 'fine_dining', 'Forst-Ház Étterem és Kávézó', 4.5, 'Dobó tér 1, 3300 Eger', '도보 광장 전망 테라스가 있는 헝가리 요리 레스토랑, 그릴 플래터로 호평.', 'Hungarian restaurant with a terrace overlooking Dobó Square, praised for its grill platter.', { reviewCount: 1400 }),
   place('eger-bakery-1', 'eger', 'bakery', 'Lipóti Bakery & Café', 4.6, 'Eger, 3300, Hungary', '도보 이슈트반 광장 인근의 헝가리식 페이스트리 베이커리 카페', 'Bakery café near Dobó István Square offering Hungarian pastries'),
+  place('eger-bakery-2', 'eger', 'bakery', 'Kávésdoboz Coffee Bar & Deli', 4.6, 'Jókai Mór utca 2, 3300 Eger', '헝가리 최고의 마이크로 로스터리 원두를 사용하는 베이커리 겸 델리.', "Bakery and deli using beans from Hungary's top micro-roasters."),
   place('eger-cafe-1', 'eger', 'cafe', 'Greek Café', 4.5, 'Dobó István u. 22, 3300 Eger, Hungary', '30여 종의 커피와 가장 진한 핫초콜릿으로 유명한 에게르의 카페', 'Eger café serving over 30 coffee specialities and famously rich hot chocolate'),
 ]
