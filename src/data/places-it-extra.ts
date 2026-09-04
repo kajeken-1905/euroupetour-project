@@ -25,8 +25,13 @@ export const placesITExtra: Place[] = [
   place('rome-korean-5', 'rome', 'korean', 'Ristorante Midam', 4.4, 'Via Filippo Turati 54-56, 00185 Roma, Italy', '가정식 백반으로 유명한 로마의 한식당', 'Rome Korean restaurant known for its home-style baekban set meals'),
 
   // —— milan ——
+  place('milan-fine_dining-1', 'milan', 'fine_dining', 'Ratanà', 4.9, 'Via Gaetano de Castillia 28, 20124 Milano', '개조된 철도 건물의 밀라노·롬바르디아 요리 레스토랑, 현대적으로 재해석한 리조토 알라 밀라네제로 유명.', 'Milanese-Lombard restaurant in a converted railway building, known for its modern take on risotto alla Milanese.', { reviewCount: 6888 }),
+  place('milan-fine_dining-2', 'milan', 'fine_dining', 'Risoelatte', 4.5, 'Via Laura Solera Mantegazza 5, 20122 Milano', '1960년대 인테리어가 인상적인 정통 밀라노 요리 레스토랑.', 'Authentic Milanese restaurant with distinctive 1960s decor.'),
   place('milan-korean-1', 'milan', 'korean', 'Ginmi', 4.5, 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥이 유명한 한식당.', 'Korean restaurant known for dolsot bibimbap.'),
+  place('milan-korean-2', 'milan', 'korean', 'Seoul Ristorante Coreano', 4.5, 'Milano, Italy', '밀라노 최고의 한식당 중 하나로 꼽히는 곳.', "Regarded as one of Milan's best Korean restaurants."),
+  place('milan-korean-3', 'milan', 'korean', 'Hana Ristorante Coreano', 3.9, 'Milano, Italy', '1998년부터 이어온 밀라노의 정통 한식당.', 'Authentic Korean restaurant in Milan since 1998.'),
   place('milan-bakery-1', 'milan', 'bakery', 'Marchesi 1824', 4.6, 'Via Santa Maria alla Porta, 20123 Milano, Italy', '1824년부터 이어온 밀라노의 전설적인 제과점, 스포르체스코 성 인근에 위치', 'Legendary Milan bakery since 1824, near Castello Sforzesco'),
+  place('milan-bakery-2', 'milan', 'bakery', 'Pavé', 4.1, 'Via Felice Casati 27, 20124 Milano', '다양한 종류의 크루아상으로 유명한 인기 베이커리.', 'Popular bakery known for its wide variety of croissants.', { reviewCount: 8443 }),
   place('milan-cafe-1', 'milan', 'cafe', 'Cova Montenapoleone', 4.5, 'Via Montenapoleone, 20121 Milano, Italy', '몬테나폴레오네 거리의 유명 케이크숍이자 카페', 'Well-known cake shop and café on Via Montenapoleone'),
 
   // —— florence ——
@@ -53,18 +58,27 @@ export const placesITExtra: Place[] = [
 
   // —— venice ——
   place('venice-fine_dining-1', 'venice', 'fine_dining', 'Antiche Carampane', 4.6, 'Rio Terà de le Carampane 1911, 30125 Venezia', '정통 베네치아 해산물 요리.', 'Authentic Venetian seafood cuisine.'),
+  place('venice-fine_dining-2', 'venice', 'fine_dining', "All'Arco", 4.7, 'San Polo 436, 30125 Venezia', '작지만 인기 많은 치케티(베네치아식 타파스) 바.', 'Small, beloved bar serving cicchetti (Venetian tapas).'),
+  place('venice-fine_dining-3', 'venice', 'fine_dining', 'Cantina Do Mori', 4.4, 'Sestiere San Polo 429, 30125 Venezia', '1462년부터 이어온 베네치아에서 가장 오래된 바카로, 카사노바가 즐겨 찾던 곳.', "Venice's oldest bacaro, dating to 1462, a favorite haunt of Casanova.", { reviewCount: 1000 }),
   place('venice-bakery-1', 'venice', 'bakery', 'Pasticceria Tonolo', 4.6, 'Calle San Pantalon 3764, 30123 Venezia, Italy', '베네치아 현지인들이 아침마다 즐겨 찾는 유명 베이커리', 'Beloved Venice bakery famous among locals for breakfast'),
   place('venice-cafe-1', 'venice', 'cafe', 'Rosa Salva', 4.4, 'San Marco 950, Calle Fiubera, 30124 Venezia, Italy', '1870년부터 이어온 베네치아의 가족 운영 카페 겸 제과점', 'Family-owned Venice café and pasticceria since 1870'),
+  place('venice-korean-1', 'venice', 'korean', 'Bada Korean Restaurant', 4.5, 'Via Sertorio Orsato 3M, 30175 Venezia', '베네치아의 한식당.', 'Korean restaurant in Venice.', { reviewCount: 1063 }),
+  place('venice-korean-2', 'venice', 'korean', 'Manna Korean Restaurant', 4.7, 'Via Riccardo Zandonai 7, 30174 Venezia', '베네치아의 한식당.', 'Korean restaurant in Venice.', { reviewCount: 1021 }),
 
   // —— naples ——
   place('naples-fine_dining-1', 'naples', 'fine_dining', 'Palazzo Petrucci', 4.6, 'Via Posillipo 16C, 80123 Napoli', '나폴리 최초의 미쉐린 스타 레스토랑.', 'Naples\' first Michelin-starred restaurant.'),
+  place('naples-fine_dining-2', 'naples', 'fine_dining', 'La Notizia 53', 4.4, 'Via Caravaggio Michelangelo 53, 80126 Napoli', '미슐랭 셀렉션에 오른 나폴리 정통 피체리아.', "Michelin-selected pizzeria serving classic Neapolitan pizza.", { reviewCount: 2549 }),
+  place('naples-fine_dining-3', 'naples', 'fine_dining', '50 Kalò', 4.5, 'Piazza Sannazaro 201, 80121 Napoli', '나폴리 최고의 피자 장인 중 한 명이 운영하는 미슐랭 셀렉션 피체리아.', 'Michelin-selected pizzeria run by one of Naples\' most celebrated pizza chefs.', { reviewCount: 17324 }),
   place('naples-bakery-1', 'naples', 'bakery', 'Scaturchio', 4.5, 'Piazza San Domenico Maggiore 19, 80134 Napoli, Italy', '1910년부터 이어온 나폴리 구시가지의 유서 깊은 베이커리', 'Historic Naples bakery in the old town dating back to 1910'),
   place('naples-cafe-1', 'naples', 'cafe', 'Gran Caffè Gambrinus', 4.5, 'Via Chiaia 1, 80132 Napoli, Italy', '1860년부터 이어온 나폴리의 문학 카페, 여러 유명 인사들이 찾던 곳', 'Historic literary café in Naples since 1860, once a haunt of famous visitors'),
 
   // —— bologna ——
   place('bologna-fine_dining-1', 'bologna', 'fine_dining', 'All\'Osteria Bottega', 4.6, 'Via Santa Caterina 51, 40123 Bologna', '미쉐린 가이드 등재, 정통 에밀리아 요리.', 'Michelin Guide-listed, authentic Emilian cooking.'),
+  place('bologna-fine_dining-2', 'bologna', 'fine_dining', 'Da Cesari', 4.6, 'Via de\' Carbonesi 8, 40123 Bologna', '1955년부터 이어온 가족 운영 볼로냐 전통 레스토랑.', 'Family-run traditional Bolognese restaurant since 1955.', { reviewCount: 2151 }),
+  place('bologna-fine_dining-3', 'bologna', 'fine_dining', "Osteria dell'Orsa", 4.2, 'Via Mentana 1F, 40126 Bologna', '대학가에 위치한 캐주얼한 볼로냐 요리 오스테리아, 탈리아텔레로 유명.', 'Casual Bolognese osteria in the university district, known for its tagliatelle.', { reviewCount: 13000 }),
   place('bologna-bakery-1', 'bologna', 'bakery', 'Impero Bakery & Cafe', 4.5, 'Strada Maggiore 51c, 40125 Bologna, Italy', '장인정신이 담긴 페이스트리와 디저트로 유명한 볼로냐의 베이커리 카페', 'Bologna bakery café known for its artisan pastries and delectable desserts'),
   place('bologna-cafe-1', 'bologna', 'cafe', 'Caffè Terzi', 4.6, 'Via Guglielmo Oberdan 31b, 40126 Bologna, Italy', '볼로냐 최고로 꼽히는 스페셜티 커피 전문점', 'Widely regarded as Bologna\'s best specialty coffee spot'),
+  place('bologna-korean-1', 'bologna', 'korean', 'Soon - Ristorante Coreano', 4.5, 'Viale Antonio Silvani 10/h, Bologna', '볼로냐 대로변의 정통 한식당, 비빔밥·불고기·떡볶이로 호평.', 'Authentic Korean restaurant on a main road in Bologna, praised for its bibimbap, bulgogi and tteokbokki.', { reviewCount: 1740 }),
 
   // —— verona ——
   place('verona-fine_dining-1', 'verona', 'fine_dining', 'Ristorante il Desco', 4.6, 'Via Dietro San Sebastiano 5-7, 37121 Verona', '미쉐린 스타 레스토랑.', 'Michelin-starred restaurant.'),
