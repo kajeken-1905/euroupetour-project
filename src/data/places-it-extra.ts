@@ -82,32 +82,41 @@ export const placesITExtra: Place[] = [
 
   // —— verona ——
   place('verona-fine_dining-1', 'verona', 'fine_dining', 'Ristorante il Desco', 4.6, 'Via Dietro San Sebastiano 5-7, 37121 Verona', '미쉐린 스타 레스토랑.', 'Michelin-starred restaurant.'),
+  place('verona-fine_dining-2', 'verona', 'fine_dining', 'Osteria del Bugiardo', 4.3, 'Corso Porta Borsari 17/A, 37121 Verona', '베로나 중심가의 정통 오스테리아, 다양한 안티파스티와 치즈로 유명.', 'Authentic osteria in central Verona, known for its antipasti and cheese selection.', { reviewCount: 6589 }),
+  place('verona-fine_dining-3', 'verona', 'fine_dining', 'Antica Bottega del Vino', 4.2, 'Vicolo Scudo di Francia 3, 37121 Verona', '16세기부터 이어온 역사적인 와인바, 1만 8천 병 이상의 와인 셀러 보유.', 'Historic wine bar dating to the 16th century, with a cellar of over 18,000 bottles.', { reviewCount: 9511 }),
   place('verona-bakery-1', 'verona', 'bakery', 'Elk Bakery', 4.5, 'Corso Porta Borsari 15D, 37121 Verona, Italy', '홈메이드 브런치 메뉴로 유명한 베로나의 베이커리 카페', 'Verona bakery café known for its homemade brunch menu'),
   place('verona-cafe-1', 'verona', 'cafe', 'Antica Pasticceria Piazza Isolo', 4.5, 'Piazza Isolo, 37121 Verona, Italy', '베로나 최고의 코르네토로 유명한 아늑한 제과점', 'Cozy Verona pastry shop known for some of the city\'s best cornetti'),
 
   // —— turin ——
   place('turin-fine_dining-1', 'turin', 'fine_dining', 'Al Gatto Nero', 4.5, 'Piazza Vittorio Veneto 2, 10123 Torino', '토리노의 전통 피에몬테 요리.', 'Traditional Piedmontese cuisine in Turin.'),
+  place('turin-fine_dining-2', 'turin', 'fine_dining', 'La Taverna dei Mercanti', 4.6, 'Via Santa Chiara 13, 10122 Torino', '가족이 운영하는 정통 피에몬테 요리 레스토랑.', 'Family-run restaurant serving authentic Piedmontese cuisine.', { reviewCount: 4019 }),
   place('turin-bakery-1', 'turin', 'bakery', 'Perino Vesco', 4.5, 'Piazza San Carlo 191, 10123 Torino, Italy', '오븐 옆 좌석과 다양한 파니니로 유명한 토리노의 베이커리', 'Turin bakery with oven-side seating, known for its panini'),
   place('turin-cafe-1', 'turin', 'cafe', 'Roma già Talmone', 4.5, 'Corso Vittorio Emanuele II 72, 10121 Torino, Italy', '페이스트리와 트라메지니로 유명한 토리노의 역사적 카페', 'Historic Turin café known for pastries and tramezzini'),
+  place('turin-korean-1', 'turin', 'korean', 'Sonamu Korean Restaurant', 4.4, 'Corso Peschiera 160, Torino', '토리노의 한식당.', 'Korean restaurant in Turin.', { reviewCount: 1940 }),
 
   // —— amalfi ——
   place('amalfi-fine_dining-1', 'amalfi', 'fine_dining', 'Da Gemma', 4.6, 'Via Fra Gerardo Sasso 9, 84011 Amalfi', '아말피의 역사적인 시푸드 레스토랑.', 'Historic seafood restaurant in Amalfi.'),
+  place('amalfi-fine_dining-2', 'amalfi', 'fine_dining', 'La Caravella dal 1959', 4.3, 'Via Matteo Camera 12, 84011 Amalfi', '1959년부터 이어온 미슐랭 스타 레스토랑, 남부 이탈리아 최초의 미슐랭 스타.', "Michelin-starred restaurant since 1959, the first in southern Italy to earn a star."),
   place('amalfi-bakery-1', 'amalfi', 'bakery', 'Pasticceria Andrea Pansa', 4.6, 'Piazza Duomo, 84011 Amalfi, Italy', '1830년부터 이어온 아말피의 역사적인 제과점, 두오모 광장 바로 옆에 위치', 'Historic Amalfi pastry shop since 1830, right next to the Duomo square'),
   place('amalfi-cafe-1', 'amalfi', 'cafe', 'Gran Caffè Canasta', 4.5, 'Amalfi, 84011, Italy', '훌륭한 커피와 카놀로로 유명한 아말피의 카페', 'Amalfi café known for top-notch coffee and some of the best cannoli'),
 
   // —— siena ——
   place('siena-fine_dining-1', 'siena', 'fine_dining', 'Particolare di Siena', 4.6, 'Via Baldassarre Peruzzi 26, 53100 Siena', '미쉐린 스타 레스토랑.', 'Michelin-starred restaurant.'),
+  place('siena-fine_dining-2', 'siena', 'fine_dining', 'Caffè Fiaschetteria Il Pulcino', 4.1, 'Via dei Termini, 53100 Siena', '홈메이드 피치(시에나식 파스타)로 유명한 현지인들의 점심 명소.', 'Local lunch spot known for homemade pici pasta.', { reviewCount: 243 }),
   place('siena-bakery-1', 'siena', 'bakery', 'Pasticceria Le Campane', 4.5, 'Via Caduti di Vicobello 37, 53100 Siena, Italy', '가족이 운영하는 시에나의 전통 제과점', 'Family-run traditional pastry shop in Siena'),
   place('siena-cafe-1', 'siena', 'cafe', 'Bar Pasticceria Nannini', 4.4, 'Piazza Giacomo Matteotti 28, 53100 Siena, Italy', '100년 넘게 이어온 시에나의 대표 제과 카페', 'Siena institution for over 100 years, serving pastries and gelato'),
 
   // —— genoa ——
   place('genoa-fine_dining-1', 'genoa', 'fine_dining', 'Hostaria Ducale', 4.6, 'Salita di S. Matteo 29R, 16123 Genova', '미쉐린 가이드 등재 리구리아 요리.', 'Michelin Guide-listed Ligurian cuisine.'),
   place('genoa-bakery-1', 'genoa', 'bakery', 'Antico Forno della Casana', 4.5, 'Via San Vincenzo 59, 16121 Genova, Italy', '포카차로 유명한 제노바 구시가지의 전통 베이커리', 'Traditional Genoa Old Town bakery known for its focaccia'),
+  place('genoa-bakery-2', 'genoa', 'bakery', 'Focaccia e Dintorni', 4.4, 'Sottoripa, 16123 Genova', '제노바 소토리파 골목의 명물 포카차 전문점.', "Iconic focaccia spot in Genoa's Sottoripa alleys.", { reviewCount: 404 }),
   place('genoa-cafe-1', 'genoa', 'cafe', 'Fratelli Klainguti', 4.5, 'Genova, 16123, Italy', '1828년 스위스 형제가 문을 연 제노바의 역사적 카페', 'Historic Genoa café opened by four Swiss brothers in 1828'),
 
   // —— palermo ——
   place('palermo-fine_dining-1', 'palermo', 'fine_dining', 'Gagini Restaurant', 4.6, 'Via dei Cassari 35, 90133 Palermo', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
+  place('palermo-fine_dining-2', 'palermo', 'fine_dining', "Nni Franco 'u Vastiddaru", 4.1, 'Via Vittorio Emanuele 102, 90133 Palermo', '판 콘 라 밀차(비장 샌드위치) 전문점, 팔레르모 스트리트 푸드의 대표 명소.', 'Palermo street food institution specializing in pane con la milza (spleen sandwiches).'),
 
   place('palermo-bakery-1', 'palermo', 'bakery', 'Pasticceria Oscar 1965', 4.5, 'Via Principe di Belmonte 107, 90139 Palermo, Italy', '코르네토 리코타로 유명한 팔레르모의 인기 제과점', 'Popular Palermo pastry shop known for its cornetto ricotta'),
   place('palermo-cafe-1', 'palermo', 'cafe', 'Bakery Cafe', 4.4, 'Via Giuseppe La Masa 3/A, 90144 Palermo, Italy', '팔레르모의 베이커리 카페', 'Bakery café in Palermo'),
+  place('palermo-cafe-2', 'palermo', 'cafe', 'Cafeteria del Corso', 4.5, 'Via Vittorio Emanuele 370, 90134 Palermo', '메인 거리에 위치한 인기 아침식사 명소.', 'Popular breakfast spot on one of the main streets.'),
 ]
