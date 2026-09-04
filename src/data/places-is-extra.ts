@@ -20,8 +20,11 @@ export const placesISExtra: Place[] = [
 
   // —— akureyri ——
   place('akureyri-fine_dining-1', 'akureyri', 'fine_dining', 'Aurora Restaurant', 4.5, 'Hafnarstræti 87-89, 600 Akureyri', '북유럽 퓨전 요리 레스토랑.', 'Contemporary Scandinavian-style fusion cuisine.'),
+  place('akureyri-fine_dining-2', 'akureyri', 'fine_dining', 'Strikið', 4.4, 'Skipagata 14, 600 Akureyri', '피오르 전망의 아쿠레이리 중심가 가스트로펍.', 'Gastropub in central Akureyri with views over the fjord.', { reviewCount: 653 }),
+  place('akureyri-fine_dining-3', 'akureyri', 'fine_dining', 'Rub23', 4.4, 'Akureyri, Iceland', '지역 어부·농가의 신선한 재료를 사용하는 해산물·스시 레스토랑.', 'Seafood and sushi restaurant using fresh ingredients from local fishermen and farmers.'),
   place('akureyri-bakery-1', 'akureyri', 'bakery', 'Kristjans Bakari', 4.5, 'Hafnarstræti 108, Akureyri, Iceland', '1912년부터 이어온 아쿠레이리의 가장 오래된 베이커리 중 하나', 'One of Iceland\'s oldest continuously operating bakeries, founded in Akureyri in 1912'),
   place('akureyri-cafe-1', 'akureyri', 'cafe', 'Blaa Kannan Cafe', 4.5, 'Hafnarstræti 96, Akureyri, Iceland', '파란 건물이 인상적인 아쿠레이리 중심가의 아늑한 카페', 'Cozy, old-fashioned café in a striking blue building in central Akureyri'),
+  place('akureyri-cafe-2', 'akureyri', 'cafe', 'Ketilkaffi', 4.7, 'Kaupvangsstræti 8, 600 Akureyri', '아쿠레이리 미술관 안의 카페, 고품질 커피와 아침 메뉴로 인기.', 'Café inside the Akureyri Art Museum, popular for high-quality coffee and breakfast items.', { reviewCount: 590 }),
 
   // —— vik ——
   place('vik-fine_dining-1', 'vik', 'fine_dining', 'Suður-Vík', 4.5, 'Suðurvíkurvegur 1, 870 Vík', '언덕 전망의 아이슬란드 가정식.', 'Icelandic comfort food with hillside views.'),
@@ -32,10 +35,11 @@ export const placesISExtra: Place[] = [
   place('husavik-fine_dining-1', 'husavik', 'fine_dining', 'Naustið', 4.6, 'Ásgarðsvegur 1, 640 Húsavík', '신선한 해산물의 가족 운영 레스토랑.', 'Family-run restaurant known for fresh seafood.'),
   place('husavik-bakery-1', 'husavik', 'bakery', 'Heimabakarí', 4.6, 'Garðarsbraut, Húsavík, Iceland', '후사비크 명물 시나몬롤 스누두르로 유명한 가족 운영 베이커리', 'Family-run Húsavík bakery famous for its snúður cinnamon roll'),
   place('husavik-cafe-1', 'husavik', 'cafe', 'Bákari', 4.3, 'Garðarsbraut, Húsavík, Iceland', '빵과 샌드위치를 함께 즐길 수 있는 후사비크의 베이커리', 'Húsavík bakery offering both baked goods and sandwiches'),
+  place('husavik-cafe-2', 'husavik', 'cafe', 'Hérna Húsavík', 4.8, 'Stórigarður 11, Húsavík', '홈메이드 케이크와 향긋한 커피로 유명한 후사비크 중심가의 카페.', "Café in central Húsavík known for its homemade cakes and fragrant coffee."),
 
   // —— selfoss ——
   place('selfoss-fine_dining-1', 'selfoss', 'fine_dining', 'Messinn Selfossi', 4.5, 'Brúarstræti 12a, 800 Selfoss', '아이슬란드 해산물 전문 레스토랑.', 'Restaurant specializing in Icelandic seafood.'),
-
+  place('selfoss-fine_dining-2', 'selfoss', 'fine_dining', 'Tryggvaskáli', 4.6, 'Tryggvatorg, 800 Selfoss', '셀포스에서 가장 오래된 건물(1890년)에 자리한 북유럽 요리 레스토랑.', "Scandinavian restaurant in Selfoss's oldest house, dating to 1890.", { reviewCount: 1130 }),
   place('selfoss-bakery-1', 'selfoss', 'bakery', 'GK Bakarí', 4.4, 'Austurvegur 31b, Selfoss, Iceland', '비건 페이스트리와 무유제품 커피를 갖춘 셀포스의 베이커리', 'Selfoss bakery offering vegan pastries and dairy-free coffee options'),
   place('selfoss-cafe-1', 'selfoss', 'cafe', 'Kaffi Krús', 4.4, 'Selfoss, Iceland', '아늑한 옛 가옥에 자리한 셀포스의 카페', 'Selfoss café set in a charming old house'),
 ]
