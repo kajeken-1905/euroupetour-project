@@ -3,19 +3,20 @@ import type { Place } from '../types'
 
 export const placesISExtra: Place[] = [
   // —— reykjavik ——
-  place('reykjavik-fine_dining-1', 'reykjavik', 'fine_dining', 'Dill Restaurant', 4.7, 'Reykjavík', '뉴 노르딕 미슐랭.', 'New Nordic Michelin.', { reviewCount: 1100 }),
-  place('reykjavik-fine_dining-2', 'reykjavik', 'fine_dining', 'ÓX', 4.6, 'Reykjavík', '셰프스 테이블.', 'Chef’s table.', { reviewCount: 600 }),
-  place('reykjavik-fine_dining-3', 'reykjavik', 'fine_dining', 'Grillmarkaðurinn', 4.5, 'Reykjavík', '그릴·로컬 재료.', 'Grill and local produce.', { reviewCount: 2800 }),
-  place('reykjavik-fine_dining-4', 'reykjavik', 'fine_dining', 'Fish Market', 4.5, 'Reykjavík', '아이슬란드 해산물.', 'Icelandic seafood.', { reviewCount: 2400 }),
-  place('reykjavik-fine_dining-5', 'reykjavik', 'fine_dining', 'Matur og Drykkur', 4.4, 'Reykjavík', '전통 재해석.', 'Reimagined tradition.', { reviewCount: 1600 }),
-  place('reykjavik-bakery-1', 'reykjavik', 'bakery', 'Brauð & Co', 4.6, 'Reykjavík', '시나몬롤·사워도우.', 'Cinnamon rolls and sourdough.', { reviewCount: 4200 }),
-  place('reykjavik-bakery-2', 'reykjavik', 'bakery', 'Sandholt', 4.5, 'Reykjavík', '장인 베이커리.', 'Artisan bakery.', { reviewCount: 2800 }),
-  place('reykjavik-bakery-3', 'reykjavik', 'bakery', 'Bernhöftsbakarí', 4.3, 'Reykjavík', '역사적 빵집.', 'Historic bakery.', { reviewCount: 1800 }),
-  place('reykjavik-bakery-4', 'reykjavik', 'bakery', 'Café Babalú', 4.3, 'Reykjavík', '베이커리 카페.', 'Bakery café.', { reviewCount: 1200 }),
-  place('reykjavik-cafe-1', 'reykjavik', 'cafe', 'Reykjavík Roasters', 4.6, 'Reykjavík', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2400 }),
-  place('reykjavik-cafe-2', 'reykjavik', 'cafe', 'Kaffitár', 4.3, 'Reykjavík', '로컬 커피 체인.', 'Local coffee chain.', { reviewCount: 2100 }),
-  place('reykjavik-cafe-3', 'reykjavik', 'cafe', 'The Coocoo\'s Nest', 4.4, 'Reykjavík', '브런치 카페.', 'Brunch café.', { reviewCount: 1600 }),
-  place('reykjavik-cafe-4', 'reykjavik', 'cafe', 'Stofan Café', 4.4, 'Reykjavík', '아늑한 카페.', 'Cosy café.', { reviewCount: 1800 }),
+  place('reykjavik-fine_dining-1', 'reykjavik', 'fine_dining', 'Dill Restaurant', 4.7, 'Laugavegur 59, 101 Reykjavík', '2017년 아이슬란드 최초로 미슐랭 1스타를 받은 뉴 노르딕 레스토랑.', "New Nordic restaurant, Iceland's first to earn a Michelin star, in 2017.", { reviewCount: 1100 }),
+  place('reykjavik-fine_dining-2', 'reykjavik', 'fine_dining', 'ÓX', 4.9, 'Laugavegur 55, 101 Reykjavík', '미슐랭 1스타, 16석 규모의 레이캬비크 최고급 셰프스 테이블.', "One-Michelin-star restaurant, Reykjavik's most exclusive chef's table with just 16 seats.", { reviewCount: 240 }),
+  place('reykjavik-fine_dining-3', 'reykjavik', 'fine_dining', 'Grillmarkaðurinn', 4.6, 'Lækjargata 2A, 101 Reykjavík', '현지 농가와 협업하는 그릴 전문 레스토랑, 양갈비로 유명.', 'Grill restaurant working with local farmers, known for its lamb chops.', { reviewCount: 12100 }),
+  place('reykjavik-fine_dining-4', 'reykjavik', 'fine_dining', 'Fiskmarkaðurinn (Fish Market)', 4.6, 'Aðalstræti 12, 101 Reykjavík', '2007년부터 이어온 아시아풍 아이슬란드 퓨전 해산물 레스토랑.', 'Icelandic-Asian fusion seafood restaurant since 2007.', { reviewCount: 7083 }),
+  place('reykjavik-fine_dining-5', 'reykjavik', 'fine_dining', 'Matur og Drykkur', 4.6, 'Grandagarður 2, 101 Reykjavík', '2017년부터 미슐랭 가이드에 오른 전통 재해석 레스토랑.', 'Restaurant reimagining Icelandic tradition, Michelin-recognized since 2017.', { reviewCount: 2567 }),
+  place('reykjavik-bakery-1', 'reykjavik', 'bakery', 'Brauð & Co', 4.8, 'Austurstræti 17, 101 Reykjavík', '갓 구운 시나몬롤로 유명한 인기 베이커리.', 'Popular bakery known for its freshly baked cinnamon rolls.', { reviewCount: 8460 }),
+  place('reykjavik-bakery-2', 'reykjavik', 'bakery', 'Sandholt', 4.6, 'Laugavegur 36, 101 Reykjavík', '1920년부터 4대째 이어온 아이슬란드 최고령 베이커리, 아몬드 크루아상으로 유명.', "One of Iceland's oldest bakeries, run by the fourth generation since 1920, known for its almond croissants.", { reviewCount: 3549 }),
+  place('reykjavik-bakery-3', 'reykjavik', 'bakery', 'Bernhöftsbakarí', 4.7, 'Bergstaðastræti 13, 101 Reykjavík', '1834년부터 이어온 레이캬비크에서 가장 오래된 베이커리.', "Reykjavik's oldest bakery, operating since 1834."),
+  place('reykjavik-bakery-4', 'reykjavik', 'bakery', 'Café Babalú', 4.4, 'Skólavörðustígur 22a, 101 Reykjavík', '빈티지 소품으로 꾸며진 개성 넘치는 베이커리 카페, 할그림스키르캬 성당 전망.', 'Quirky bakery café decorated with vintage knick-knacks, with views of Hallgrímskirkja church.', { reviewCount: 4734 }),
+  place('reykjavik-cafe-1', 'reykjavik', 'cafe', 'Reykjavík Roasters', 4.7, 'Brautarholti 2, 105 Reykjavík', '싱글 오리진 원두를 직접 로스팅하는 스페셜티 로스터리.', 'Specialty roastery that sources and roasts single-origin beans in-house.', { reviewCount: 5829 }),
+  place('reykjavik-cafe-2', 'reykjavik', 'cafe', 'Kaffitár', 4.5, 'Bankastræti 8, 101 Reykjavík', '아이슬란드 전역에 매장을 둔 로컬 커피 체인.', 'Local coffee chain with locations across Iceland.'),
+  place('reykjavik-cafe-3', 'reykjavik', 'cafe', 'The Laundromat Café', 4.4, 'Austurstræti 9, 101 Reykjavík', '2011년부터 이어온 레이캬비크의 브런치 명소, 셀프서비스 세탁소를 겸함.', "Reykjavik brunch institution since 2011, doubling as a self-service laundromat.", { reviewCount: 2360 }),
+  place('reykjavik-cafe-4', 'reykjavik', 'cafe', 'Stofan Café', 4.5, 'Vesturgata 3, 101 Reykjavík', '1842년 지어진 건물에 자리한 아늑한 카페.', 'Cozy café housed in a building dating back to 1842.', { reviewCount: 735 }),
+  place('reykjavik-korean-1', 'reykjavik', 'korean', 'KORE', 4.3, 'Grandi Mathöll, Grandagarður 16, 101 Reykjavík', '한국식 프라이드치킨과 타코, 김치로 유명한 한식 스트리트 푸드 레스토랑.', 'Korean street food restaurant known for its fried chicken, tacos and kimchi.', { reviewCount: 82 }),
 
   // —— akureyri ——
   place('akureyri-fine_dining-1', 'akureyri', 'fine_dining', 'Aurora Restaurant', 4.5, 'Hafnarstræti 87-89, 600 Akureyri', '북유럽 퓨전 요리 레스토랑.', 'Contemporary Scandinavian-style fusion cuisine.'),
