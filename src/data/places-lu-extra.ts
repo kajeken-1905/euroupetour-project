@@ -3,27 +3,19 @@ import type { Place } from '../types'
 
 export const placesLUExtra: Place[] = [
   // —— vianden ——
-  place('vianden-fine_dining-1', 'vianden', 'fine_dining', 'Restaurant Victor Hugo', 4.5, 'Vianden', '성 전망 다이닝.', 'Castle-view dining.', { reviewCount: 720 }),
-  place('vianden-fine_dining-2', 'vianden', 'fine_dining', 'Hotel Heintz restaurant', 4.4, 'Vianden', '호텔 레스토랑.', 'Hotel restaurant.', { reviewCount: 540 }),
-  place('vianden-fine_dining-3', 'vianden', 'fine_dining', 'Castle-area bistros', 4.3, 'Vianden', '캐슬 주변 비스트로.', 'Castle-area bistros.', { reviewCount: 860 }),
-  place('vianden-bakery-1', 'vianden', 'bakery', 'Boulangerie Vianden', 4.3, 'Vianden', '마을 베이커리.', 'Village bakery.', { reviewCount: 320 }),
-  place('vianden-cafe-1', 'vianden', 'cafe', 'Café du Pont', 4.3, 'Vianden', '강변 카페.', 'Riverside café.', { reviewCount: 680 }),
-  place('vianden-cafe-2', 'vianden', 'cafe', 'Old town cafés', 4.2, 'Vianden', '구시가 카페.', 'Old-town cafés.', { reviewCount: 540 }),
+  place('vianden-fine_dining-1', 'vianden', 'fine_dining', 'Restaurant Victor Hugo', 4.0, '1 Rue Victor Hugo, Vianden', '강변 좌석의 프랑스 요리 레스토랑, 비앙덴 최고로 꼽히는 곳.', "French cuisine restaurant with waterside seating, regarded as Vianden's best."),
+  place('vianden-fine_dining-2', 'vianden', 'fine_dining', 'Auberge Aal Veinen "Beim Hunn"', 4.6, '114 Grand-rue, L-9411 Vianden', '비앙덴 성 아래 옛 대장간 건물의 레스토랑, 숯불구이 요리로 유명.', "Restaurant in a former castle forge below Vianden Castle, known for its charcoal-grilled specialties.", { reviewCount: 1000 }),
+  place('vianden-bakery-1', 'vianden', 'bakery', "Au Croissant D'Or", 3.7, 'Grand Rue, Vianden', '구시가 중심의 아르티장 베이커리, 사워도우 빵과 크루아상으로 유명.', "Artisan bakery in the heart of the Old Town, known for its sourdough bread and croissants."),
+  place('vianden-cafe-1', 'vianden', 'cafe', 'Café du Pont', 4.0, '1 Grand-Rue, Vianden', '강변 전망의 카페.', 'Café with riverside views.'),
 
   // —— echternach ——
-  place('echternach-fine_dining-1', 'echternach', 'fine_dining', 'Restaurant La Grappe d’Or', 4.4, 'Echternach', '로컬 파인 캐주얼.', 'Local fine-casual.', { reviewCount: 480 }),
-  place('echternach-fine_dining-2', 'echternach', 'fine_dining', 'Lake-area restaurants', 4.3, 'Echternach', '호수 주변 식당.', 'Lake-area restaurants.', { reviewCount: 720 }),
-  place('echternach-fine_dining-3', 'echternach', 'fine_dining', 'Abbey-area dining', 4.2, 'Echternach', '수도원 권역 식당.', 'Abbey-area dining.', { reviewCount: 560 }),
-  place('echternach-bakery-1', 'echternach', 'bakery', 'Boulangerie Echternach', 4.3, 'Echternach', '베이커리.', 'Bakery.', { reviewCount: 360 }),
-  place('echternach-cafe-1', 'echternach', 'cafe', 'Lake cafés', 4.3, 'Echternach', '호수 카페.', 'Lake cafés.', { reviewCount: 640 }),
-  place('echternach-cafe-2', 'echternach', 'cafe', 'Town square cafés', 4.2, 'Echternach', '광장 카페.', 'Town square cafés.', { reviewCount: 580 }),
+  place('echternach-fine_dining-1', 'echternach', 'fine_dining', 'Café de la Poste "Beim Wohli"', 3.5, 'Place du Marché, Echternach', '에히터나흐 중앙 광장에 위치한 카페 겸 레스토랑, 간단한 요리와 다양한 벨기에 맥주.', "Café-restaurant on Echternach's central market square, serving simple dishes and a range of Belgian beers.", { reviewCount: 24 }),
+  place('echternach-fine_dining-2', 'echternach', 'fine_dining', 'Café Restaurant du Musée', 4.0, '6 Rue du Pont, L-6471 Echternach', '박물관 인근의 카페 겸 레스토랑.', 'Café-restaurant near the local museum.'),
+  place('echternach-bakery-1', 'echternach', 'bakery', 'Pâtisserie Hoffmann', 4.4, '6-8 Rue de la Montagne, L-6470 Echternach', '친절한 서비스로 호평받는 에히터나흐의 제과점.', 'Echternach pâtisserie praised for its friendly service.'),
 
   // —— remich ——
-  place('remich-fine_dining-1', 'remich', 'fine_dining', 'Moselle wine terrace restaurants', 4.4, 'Remich', '와인 테라스 다이닝.', 'Wine-terrace dining.', { reviewCount: 860 }),
-  place('remich-fine_dining-2', 'remich', 'fine_dining', 'Quai restaurants', 4.3, 'Remich', '강변 식당.', 'Quay restaurants.', { reviewCount: 720 }),
-  place('remich-fine_dining-3', 'remich', 'fine_dining', 'Local wineries with dining', 4.3, 'Remich', '와이너리 다이닝.', 'Winery dining.', { reviewCount: 540 }),
-  place('remich-bakery-1', 'remich', 'bakery', 'Boulangerie Remich', 4.3, 'Remich', '베이커리.', 'Bakery.', { reviewCount: 300 }),
-  place('remich-cafe-1', 'remich', 'cafe', 'Promenade cafés', 4.3, 'Remich', '산책로 카페.', 'Promenade cafés.', { reviewCount: 680 }),
-  place('remich-cafe-2', 'remich', 'cafe', 'Wine-bar cafés', 4.2, 'Remich', '와인바 카페.', 'Wine-bar cafés.', { reviewCount: 520 }),
+  place('remich-fine_dining-1', 'remich', 'fine_dining', 'Café De L\'Europe Bofferding', 4.5, 'Quai de la Moselle, Remich', '모젤강변의 카페 겸 레스토랑, 차분한 분위기와 친절한 서비스로 호평.', "Café-restaurant on the Moselle riverbank, praised for its calm atmosphere and friendly service."),
+  place('remich-fine_dining-2', 'remich', 'fine_dining', 'Café de la Poste', 4.3, '16 Place du Marché, Remich', '좋은 커피로 유명한 레미히 광장의 카페.', "Café on Remich's market square, known for its good coffee.", { reviewCount: 102 }),
+  place('remich-bakery-1', 'remich', 'bakery', 'Patisserie Haan Boulangerie', 3.8, '19 Place du Marché, Remich', '빵과 페이스트리, 초콜릿을 갖춘 레미히의 베이커리.', 'Remich bakery offering bread, pastries and chocolates.', { reviewCount: 24 }),
 
 ]
