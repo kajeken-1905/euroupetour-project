@@ -3,17 +3,18 @@ import type { Place } from '../types'
 
 export const placesSKExtra: Place[] = [
   // —— bratislava ——
-  place('bratislava-fine_dining-1', 'bratislava', 'fine_dining', 'Albrecht', 4.6, 'Bratislava', '슬로바키아 시즌 파인.', 'Seasonal Slovak fine dining.', { reviewCount: 900 }),
-  place('bratislava-fine_dining-2', 'bratislava', 'fine_dining', 'UFO Restaurant', 4.5, 'Bratislava', '다리 탑 전망 다이닝.', 'Bridge-tower view dining.', { reviewCount: 2800 }),
-  place('bratislava-fine_dining-4', 'bratislava', 'fine_dining', 'Slovak Pub', 4.4, 'Bratislava', '전통 슬로바키아 가정식.', 'Traditional Slovak home cooking.', { reviewCount: 3200 }),
-  place('bratislava-bakery-1', 'bratislava', 'bakery', 'Kübler Bakery', 4.5, 'Bratislava', '로컬 빵·페이스트리.', 'Local bread and pastries.', { reviewCount: 1800 }),
-  place('bratislava-bakery-2', 'bratislava', 'bakery', 'Urban bakery Bratislava', 4.4, 'Bratislava', '사워도우 베이커리.', 'Sourdough bakery.', { reviewCount: 1100 }),
-  place('bratislava-bakery-3', 'bratislava', 'bakery', 'Cake & pastry shops Old Town', 4.4, 'Bratislava', '구시가 케이크 숍.', 'Old-town cake shops.', { reviewCount: 2100 }),
-  place('bratislava-bakery-4', 'bratislava', 'bakery', 'Trdelník / sweet stalls', 4.3, 'Bratislava', '트르델니크·스위트.', 'Trdelník and sweets.', { reviewCount: 2800 }),
-  place('bratislava-cafe-1', 'bratislava', 'cafe', 'Štúr Café', 4.5, 'Bratislava', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
-  place('bratislava-cafe-2', 'bratislava', 'cafe', 'Café Trafačka', 4.4, 'Bratislava', '로스터리 카페.', 'Roastery café.', { reviewCount: 1200 }),
-  place('bratislava-cafe-3', 'bratislava', 'cafe', 'Old Town café terraces', 4.3, 'Bratislava', '구시가 테라스 카페.', 'Old-town terrace cafés.', { reviewCount: 2400 }),
-  place('bratislava-cafe-4', 'bratislava', 'cafe', 'Brunch spots Bratislava', 4.4, 'Bratislava', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
+  place('bratislava-fine_dining-1', 'bratislava', 'fine_dining', 'Albrecht', 4.7, 'Mudroňova 4237/82, 811 03 Bratislava, Slovakia', '호텔 알브레히트 내에 위치한 브라티슬라바의 파인다이닝, 계절 메뉴를 선보임', 'Fine-dining restaurant inside Hotel Albrecht in Bratislava, serving a seasonal menu', { reviewCount: 278 }),
+  place('bratislava-fine_dining-2', 'bratislava', 'fine_dining', 'UFO Restaurant', 4.4, 'Most SNP, 851 01 Bratislava, Slovakia', 'SNP 다리 전망대에 위치한 브라티슬라바의 명물 레스토랑, 도시 전경을 감상할 수 있음', 'Bratislava landmark restaurant atop the UFO observation deck on the SNP Bridge, with panoramic city views', { reviewCount: 5371 }),
+  place('bratislava-fine_dining-4', 'bratislava', 'fine_dining', 'Slovak Pub', 4.2, 'Obchodná 62, 811 06 Bratislava, Slovakia', '옵호드나 거리의 전통 슬로바키아 요리 전문 가스트로펍, 마늘 수프로 유명', 'Traditional Slovak gastropub on Obchodná street known for its garlic soup', { reviewCount: 15903 }),
+  place('bratislava-bakery-1', 'bratislava', 'bakery', 'Fleur bakery', 4.8, 'Štúrova 14/8, 811 02 Bratislava, Slovakia', '슈투로바 거리의 인기 베이커리, 신선한 빵과 페이스트리로 알려짐', 'Popular bakery on Štúrova street known for fresh bread and pastries', { reviewCount: 574 }),
+  place('bratislava-bakery-2', 'bratislava', 'bakery', 'KRUH remeselná pekáreň', 4.7, 'Vajnorská 21, 831 03 Bratislava, Slovakia', '바이노르스카 거리의 수제 베이커리, 사워도우 빵으로 유명', 'Artisan bakery on Vajnorská street known for its sourdough bread', { reviewCount: 1273 }),
+  place('bratislava-bakery-3', 'bratislava', 'bakery', 'Pasteleria', 4.8, 'Panská 246, 811 01 Bratislava, Slovakia', '구시가지 판스카 거리의 디저트 전문점, 케이크와 페이스트리로 인기', 'Dessert specialty shop on Panská street in the Old Town, popular for its cakes and pastries', { reviewCount: 666 }),
+  place('bratislava-bakery-4', 'bratislava', 'bakery', 'Bratislava Chimney Cake', 4.6, 'Laurinská 2, 811 01 Bratislava, Slovakia', '라우린스카 거리의 트르델니크(굴뚝빵) 전문점', "Trdelník (chimney cake) specialty shop on Laurinská street in the Old Town", { reviewCount: 168 }),
+  place('bratislava-cafe-1', 'bratislava', 'cafe', 'Kauka', 4.8, 'Veterná 642/8, 811 03 Bratislava, Slovakia', '베테르나 거리의 인기 커피숍', "Popular coffee shop on Veterná street in Bratislava's Old Town", { reviewCount: 394 }),
+  place('bratislava-cafe-2', 'bratislava', 'cafe', 'DRAK&FINCH Winebar Coffeeshop', 4.7, 'Mikulášska 6652/1b, 811 01 Bratislava, Slovakia', '미쿨라시스카 거리의 와인바 겸 커피숍', 'Wine bar and coffeeshop on Mikulášska street in the Old Town', { reviewCount: 438 }),
+  place('bratislava-cafe-3', 'bratislava', 'cafe', 'Matsu premium matcha & coffee', 4.7, 'Hlavné námestie 2, 811 01 Bratislava, Slovakia', '흘라브네 광장(중앙광장)에 위치한 말차·커피 전문 카페', "Matcha and coffee specialty cafe on Hlavné námestie, Bratislava's main square", { reviewCount: 166 }),
+  place('bratislava-cafe-4', 'bratislava', 'cafe', 'Mimosa', 4.7, 'Biela 2, 811 01 Bratislava, Slovakia', '비엘라 거리의 브런치·와인·커피 전문 카페', 'Brunch, wine and coffee cafe on Biela street in the Old Town', { reviewCount: 167 }),
+  place('bratislava-korean-1', 'bratislava', 'korean', 'HanCook Korean Restaurant', 4.7, 'Obchodná 531/54, 811 06 Bratislava, Slovakia', '옵호드나 거리의 인기 한식당', 'Popular Korean restaurant on Obchodná street in Bratislava', { reviewCount: 1782 }),
 
   // —— kosice ——
   place('kosice-fine_dining-1', 'kosice', 'fine_dining', 'Villa Regia', 4.5, 'Dominikánske námestie 3, 040 01 Košice, Slovakia', '코시체 도미니칸 광장에 위치한 동슬로바키아 전통 요리 전문 레스토랑', 'Restaurant on Dominican Square serving traditional Eastern Slovak dishes in the heart of Košice'),
