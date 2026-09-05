@@ -3,16 +3,16 @@ import type { Place } from '../types'
 
 export const placesBAExtra: Place[] = [
   // —— sarajevo ——
-  place('sarajevo-fine_dining-1', 'sarajevo', 'fine_dining', 'Restaurant Park Princeva', 4.5, 'Sarajevo', '전망 보스니아 다이닝.', 'Viewpoint Bosnian dining.', { reviewCount: 1800 }),
-  place('sarajevo-fine_dining-3', 'sarajevo', 'fine_dining', 'Inat Kuća', 4.4, 'Sarajevo', '전통 보스니아 가정식.', 'Traditional Bosnian home cooking.', { reviewCount: 3200 }),
-  place('sarajevo-fine_dining-4', 'sarajevo', 'fine_dining', 'Ćevabdžinica Željo', 4.5, 'Sarajevo', '체바피 클래식.', 'Ćevapi classic.', { reviewCount: 8600 }),
-  place('sarajevo-bakery-1', 'sarajevo', 'bakery', 'Somun / pita bakeries', 4.5, 'Sarajevo', '소문·피타 빵집.', 'Somun and pita bakeries.', { reviewCount: 4200 }),
-  place('sarajevo-bakery-2', 'sarajevo', 'bakery', 'Baklava pastry shops', 4.5, 'Sarajevo', '바클라바·과자.', 'Baklava and sweets.', { reviewCount: 2800 }),
-  place('sarajevo-bakery-3', 'sarajevo', 'bakery', 'Old Town bakery counters', 4.3, 'Sarajevo', '구시가 빵 카운터.', 'Old-town bakery counters.', { reviewCount: 1600 }),
-  place('sarajevo-cafe-1', 'sarajevo', 'cafe', 'Zlatna Ribica / classic cafés', 4.4, 'Sarajevo', '클래식 카페.', 'Classic café.', { reviewCount: 2100 }),
-  place('sarajevo-cafe-2', 'sarajevo', 'cafe', 'Specialty coffee Sarajevo', 4.5, 'Sarajevo', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
-  place('sarajevo-cafe-3', 'sarajevo', 'cafe', 'Baščaršija tea & coffee', 4.3, 'Sarajevo', '시장가 차·커피.', 'Bazaar tea and coffee.', { reviewCount: 3600 }),
-  place('sarajevo-cafe-4', 'sarajevo', 'cafe', 'Brunch cafés Centar', 4.4, 'Sarajevo', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
+  place('sarajevo-fine_dining-1', 'sarajevo', 'fine_dining', 'Park Prinčeva', 4.0, 'Iza Hrida 7, Sarajevo 71000', '전망 보스니아 다이닝.', 'Viewpoint Bosnian dining.', { reviewCount: 2630 }),
+  place('sarajevo-fine_dining-3', 'sarajevo', 'fine_dining', 'Inat Kuća (House of Spite)', 4.4, 'Veliki Alifakovac 1, Sarajevo 71000', '전통 보스니아 가정식.', 'Traditional Bosnian home cooking.', { reviewCount: 2561 }),
+  place('sarajevo-fine_dining-4', 'sarajevo', 'fine_dining', 'Ćevabdžinica Željo', 4.5, 'Kundurdžiluk 19, Sarajevo 71000', '체바피 클래식.', 'Ćevapi classic.', { reviewCount: 12416 }),
+  place('sarajevo-bakery-1', 'sarajevo', 'bakery', 'Pita Ispod Sača - Kod Seje', 4.8, 'Koturova, Sarajevo 71000', '사치 화덕 피타.', 'Pita baked under a sač dome.', { reviewCount: 201 }),
+  place('sarajevo-bakery-2', 'sarajevo', 'bakery', 'Baklava Dućan', 4.7, 'Čizmedžiluk 20, Sarajevo', '바클라바 전문점.', 'Baklava specialist.', { reviewCount: 616 }),
+  place('sarajevo-bakery-3', 'sarajevo', 'bakery', 'Pekara Poričanin', 4.8, 'Safvet-bega Bašagića 16, Sarajevo', '구시가 인근 베이커리.', 'Bakery near the old town.', { reviewCount: 644 }),
+  place('sarajevo-cafe-1', 'sarajevo', 'cafe', 'Zlatna Ribica', 4.7, 'Kaptol 5, Sarajevo 71000', '클래식 카페 겸 바.', 'Classic café and bar.', { reviewCount: 1777 }),
+  place('sarajevo-cafe-2', 'sarajevo', 'cafe', 'Fabrika Coffee Sarajevo', 4.6, 'Sarači 32, Sarajevo', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 828 }),
+  place('sarajevo-cafe-3', 'sarajevo', 'cafe', 'Bašča', 4.1, 'Baščaršija 18A, Sarajevo', '바슈차르시야 시장가 카페.', 'Café on Baščaršija bazaar street.', { reviewCount: 785 }),
+  place('sarajevo-cafe-4', 'sarajevo', 'cafe', 'Brunch Sa', 4.7, 'Gazi Husrev-begova 61, Sarajevo', '센타르 브런치 카페.', 'Brunch café in Centar.', { reviewCount: 2278 }),
 
   // —— mostar ——
   place('mostar-fine_dining-1', 'mostar', 'fine_dining', 'Restoran Hindin Han', 4.5, 'Jusovina bb, Mostar 88000', '네레트바 강변의 전통 보스니아 요리.', 'Traditional Bosnian cuisine on the Neretva River.'),
