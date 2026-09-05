@@ -13,7 +13,7 @@ export const placesCZExtra: Place[] = [
   place('prague-bakery-3', 'prague', 'bakery', 'Café Savoy bakery counter', 4.4, 'Prague', '페이스트리 카운터.', 'Pastry counter.', { reviewCount: 2100 }),
   place('prague-bakery-4', 'prague', 'bakery', 'Good Food Coffee & Bakery', 4.3, 'Prague', '베이커리 카페.', 'Bakery café.', { reviewCount: 980 }),
   place('prague-cafe-1', 'prague', 'cafe', 'Café Louvre', 4.5, 'Prague', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 8600 }),
-  place('prague-cafe-2', 'prague', 'cafe', 'The Miners / EMA espresso', 4.6, 'Prague', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2400 }),
+  place('prague-cafe-2', 'prague', 'cafe', 'EMA espresso bar', 4.6, 'Na Florenci 1420/3, Prague', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 3813 }),
   place('prague-cafe-3', 'prague', 'cafe', 'Café Savoy', 4.5, 'Prague', '그랜드 카페.', 'Grand café.', { reviewCount: 7200 }),
   place('prague-cafe-4', 'prague', 'cafe', 'Můj šálek kávy', 4.5, 'Prague', '로스터리 카페.', 'Roastery café.', { reviewCount: 3100 }),
   place('prague-korean-1', 'prague', 'korean', 'Matzip', 4.5, 'Dušní 1082/6, 110 00 Praha 1', '구시가의 한식 비스트로.', 'Korean bistro in the Old Town.'),
