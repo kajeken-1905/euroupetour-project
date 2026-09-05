@@ -3,20 +3,20 @@ import type { Place } from '../types'
 
 export const placesPLExtra: Place[] = [
   // —— warsaw ——
-  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 4.6, 'Warsaw', '모던 폴란드 파인.', 'Modern Polish fine dining.', { reviewCount: 900 }),
-  place('warsaw-fine_dining-2', 'warsaw', 'fine_dining', 'Nolita', 4.5, 'Warsaw', '창의 코스.', 'Creative tasting.', { reviewCount: 1100 }),
-  place('warsaw-fine_dining-3', 'warsaw', 'fine_dining', 'Stary Dom', 4.4, 'Warsaw', '전통 폴란드 요리.', 'Traditional Polish cuisine.', { reviewCount: 2800 }),
-  place('warsaw-fine_dining-4', 'warsaw', 'fine_dining', 'Polka', 4.4, 'Warsaw', '홈스타일 폴란드.', 'Homestyle Polish.', { reviewCount: 2100 }),
-  place('warsaw-fine_dining-5', 'warsaw', 'fine_dining', 'Bibenda', 4.5, 'Warsaw', '시즌 비스트로.', 'Seasonal bistro.', { reviewCount: 1600 }),
-  place('warsaw-bakery-1', 'warsaw', 'bakery', 'Cukiernia Sowa', 4.4, 'Warsaw', '케이크·페이스트리.', 'Cakes and pastries.', { reviewCount: 3200 }),
-  place('warsaw-bakery-2', 'warsaw', 'bakery', 'Piecyk bakery', 4.4, 'Warsaw', '로컬 빵집.', 'Local bakery.', { reviewCount: 1200 }),
-  place('warsaw-bakery-3', 'warsaw', 'bakery', 'Zieniec', 4.5, 'Warsaw', '사워도우.', 'Sourdough.', { reviewCount: 900 }),
-  place('warsaw-bakery-4', 'warsaw', 'bakery', 'A. Blikle', 4.4, 'Warsaw', '역사적 파티스리.', 'Historic pastry shop.', { reviewCount: 4800 }),
-  place('warsaw-cafe-1', 'warsaw', 'cafe', 'Cafe Kafka', 4.5, 'Warsaw', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
-  place('warsaw-cafe-2', 'warsaw', 'cafe', 'Cukiernia Pawłowicz café', 4.3, 'Warsaw', '클래식 카페.', 'Classic café.', { reviewCount: 2100 }),
-  place('warsaw-cafe-3', 'warsaw', 'cafe', 'Forum Meat & Coffee', 4.4, 'Warsaw', '브런치 카페.', 'Brunch café.', { reviewCount: 1400 }),
-  place('warsaw-cafe-4', 'warsaw', 'cafe', 'Coffee Affair', 4.4, 'Warsaw', '로스터리 카페.', 'Roastery café.', { reviewCount: 1100 }),
-  place('warsaw-korean-1', 'warsaw', 'korean', 'Miss Kimchi', 4.5, 'Żelazna 28/30, Warszawa', '한국식 치킨으로 유명한 한식당.', 'Korean restaurant known for its fried chicken.'),
+  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 4.6, 'Bielańska 12, 00-085 Warszawa', '미쉐린 1스타 레스토랑, 폴란드 전통 풍미를 현대적으로 재해석.', 'One-Michelin-star restaurant reinterpreting classic Polish flavors with modern technique.'),
+  place('warsaw-fine_dining-2', 'warsaw', 'fine_dining', 'Nolita', 4.6, 'Wilcza 46, 00-679 Warszawa', '오픈 키친에서 폴란드·지중해·동남아 요리를 결합한 모던 다이닝.', 'Modern dining with an open kitchen blending Polish, Mediterranean, and Southeast Asian flavors.', { reviewCount: 1876 }),
+  place('warsaw-fine_dining-3', 'warsaw', 'fine_dining', 'Stary Dom', 4.6, 'Puławska 104/106, 02-620 Warszawa', '전통 폴란드 요리를 선보이는 대형 브라세리.', 'Large brasserie serving traditional Polish cuisine.'),
+  place('warsaw-fine_dining-4', 'warsaw', 'fine_dining', 'Polka', 3.5, 'Świętojańska 2, 00-288 Warszawa', '구시가 왕궁 옆 옛 건물에서 즐기는 프렌치풍 폴란드 요리.', 'French-inflected Polish cuisine served in a historic building next to the Royal Castle in the Old Town.', { reviewCount: 5264 }),
+  place('warsaw-fine_dining-5', 'warsaw', 'fine_dining', 'Bibenda', 4.3, 'Nowogrodzka 10, 00-511 Warszawa', '채식 메뉴가 풍부한 인기 와인 비스트로.', 'Popular wine bistro with a wine-forward, vegetarian-friendly menu.', { reviewCount: 4620 }),
+
+  place('warsaw-bakery-1', 'warsaw', 'bakery', 'Cukiernia Sowa', 4.1, 'Chmielna 11, 00-021 Warszawa', '1946년 창업한 가족 운영 제과점 체인, 케이크·페이스트리로 유명.', 'Family-run patisserie chain founded in 1946, known for cakes and pastries.'),
+  place('warsaw-bakery-2', 'warsaw', 'bakery', 'A. Blikle', 4.1, 'Nowy Świat 35, 00-029 Warszawa', '1869년부터 이어온 바르샤바에서 가장 유명한 제과점, 폰치키(잼 도넛)로 유명.', 'Warsaw\'s most famous patisserie since 1869, renowned for its pączki jelly doughnuts.', { reviewCount: 529 }),
+
+  place('warsaw-cafe-1', 'warsaw', 'cafe', 'Cafe Kafka', 4.5, 'Oboźna 3, 00-340 Warszawa', '노트북 작업하기 좋은 바르샤바의 인기 카페.', 'Popular laptop-friendly café in Warsaw.'),
+  place('warsaw-cafe-2', 'warsaw', 'cafe', 'Cukiernia Pawłowicz', 4.5, 'Chmielna 13, Warszawa', '1917년 창업한 전통 폴란드 파치키(도넛) 제과점.', 'Traditional Polish pączki (doughnut) patisserie, established in 1917.', { reviewCount: 800 }),
+  place('warsaw-cafe-3', 'warsaw', 'cafe', 'Forum', 4.9, 'Elektoralna 11, 00-137 Warszawa', '폴란드 바리스타 챔피언십 수상자들이 운영하는 바르샤바 최고의 스페셜티 커피바.', 'Warsaw\'s most decorated specialty coffee bar, run by Polish Barista Championship title holders.'),
+
+  place('warsaw-korean-1', 'warsaw', 'korean', 'Miss Kimchi', 4.4, 'Żelazna 58/62, Warszawa', '한국식 치킨으로 유명한 한식당.', 'Korean restaurant known for its fried chicken.', { reviewCount: 8108 }),
 
   // —— krakow ——
   place('krakow-fine_dining-1', 'krakow', 'fine_dining', 'Starka', 4.6, 'Józefa 14, 31-056 Kraków', '카지미에시 지구의 전통 폴란드 요리.', 'Traditional Polish cuisine in the Kazimierz district.'),
