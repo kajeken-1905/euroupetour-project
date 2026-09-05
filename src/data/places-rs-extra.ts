@@ -3,17 +3,18 @@ import type { Place } from '../types'
 
 export const placesRSExtra: Place[] = [
   // —— belgrade ——
-  place('belgrade-fine_dining-1', 'belgrade', 'fine_dining', 'Homa', 4.7, 'Belgrade', '미슐랭 모던 세르비아.', 'Michelin modern Serbian.', { reviewCount: 900 }),
-  place('belgrade-fine_dining-2', 'belgrade', 'fine_dining', 'Langouste', 4.6, 'Belgrade', '해산물 파인 다이닝.', 'Seafood fine dining.', { reviewCount: 1100 }),
-  place('belgrade-fine_dining-3', 'belgrade', 'fine_dining', 'Salon 1905', 4.5, 'Belgrade', '클래식 파인.', 'Classic fine dining.', { reviewCount: 1200 }),
-  place('belgrade-fine_dining-4', 'belgrade', 'fine_dining', 'Skadarlija tavern classics', 4.4, 'Belgrade', '스카다르리야 선술집.', 'Skadarlija tavern classics.', { reviewCount: 4800 }),
-  place('belgrade-fine_dining-5', 'belgrade', 'fine_dining', 'Lorenzo & Kakalamba', 4.5, 'Belgrade', '창의 캐주얼 파인.', 'Creative casual fine.', { reviewCount: 2100 }),
-  place('belgrade-bakery-1', 'belgrade', 'bakery', 'Pekara local chains', 4.3, 'Belgrade', '로컬 빵집.', 'Local bakery.', { reviewCount: 2800 }),
-  place('belgrade-bakery-3', 'belgrade', 'bakery', 'Burek & pastry shops', 4.5, 'Belgrade', '부렉·페이스트리.', 'Burek and pastries.', { reviewCount: 4200 }),
-  place('belgrade-bakery-4', 'belgrade', 'bakery', 'Cake shops Centar', 4.4, 'Belgrade', '도심 케이크 숍.', 'Central cake shops.', { reviewCount: 1800 }),
-  place('belgrade-cafe-1', 'belgrade', 'cafe', 'Specialty coffee Belgrade', 4.5, 'Belgrade', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
-  place('belgrade-cafe-2', 'belgrade', 'cafe', 'Kafeterija', 4.4, 'Belgrade', '로스터리 카페.', 'Roastery café.', { reviewCount: 1600 }),
-  place('belgrade-cafe-3', 'belgrade', 'cafe', 'Dorćol café streets', 4.4, 'Belgrade', '도르촐 카페 거리.', 'Dorćol café streets.', { reviewCount: 2400 }),
+  place('belgrade-fine_dining-1', 'belgrade', 'fine_dining', 'Homa Central Bistrot', 4.5, 'Senjanina Ive 4, Beograd 11000, Serbia', '모던 유럽 요리를 선보이는 베오그라드의 인기 비스트로', 'Popular Belgrade bistro serving modern European cuisine', { reviewCount: 915 }),
+  place('belgrade-fine_dining-2', 'belgrade', 'fine_dining', 'Langouste', 4.7, 'Kosančićev venac 29, Beograd 11000, Serbia', '다뉴브 강이 보이는 구시가지의 대표 해산물 파인다이닝, 테이스팅 메뉴로 호평', "Belgrade's leading seafood fine-dining restaurant in the old town with Danube river views, praised for its tasting menu", { reviewCount: 753 }),
+  place('belgrade-fine_dining-3', 'belgrade', 'fine_dining', 'Salon 1905', 4.5, 'Karađorđeva 48, Beograd 11000, Serbia', '사바말라의 유서 깊은 게오자보드 건물에 자리한 바로크·아르누보 양식의 파인다이닝', 'Fine-dining restaurant in the historic Geozavod building in Savamala, blending Baroque and Art Nouveau architecture', { reviewCount: 858 }),
+  place('belgrade-fine_dining-4', 'belgrade', 'fine_dining', 'Tri šešira', 4.5, 'Skadarska 29, Beograd 11000, Serbia', '스카다르리야 거리의 대표 전통 세르비아 레스토랑, 라이브 악단 연주로 유명', "Skadarlija's landmark traditional Serbian restaurant, known for live band performances", { reviewCount: 13846 }),
+  place('belgrade-fine_dining-5', 'belgrade', 'fine_dining', 'Lorenzo & Kakalamba', 4.6, 'Cvijićeva 110, Beograd 11000, Serbia', '달리풍의 독특한 인테리어와 이탈리아·세르비아 퓨전 요리로 유명한 베오그라드의 명물 레스토랑', "Belgrade landmark restaurant known for its eccentric Dalí-esque interior and Italian-Serbian fusion cuisine", { reviewCount: 6389 }),
+  place('belgrade-bakery-1', 'belgrade', 'bakery', 'Trpkovic Bakery', 4.6, 'Nemanjina 32, Beograd 11000, Serbia', '네마니나 거리에 위치한 베오그라드의 대표적인 전통 베이커리 체인', "Well-known traditional bakery chain on Nemanjina street in Belgrade", { reviewCount: 6419 }),
+  place('belgrade-bakery-3', 'belgrade', 'bakery', 'GOGA buregdžinica', 4.9, 'Kralja Milana 47, Beograd 11000, Serbia', '카랄랴 밀라나 거리의 부렉 전문점, 신선한 부렉으로 현지인들에게 인기', 'Popular burek specialty shop on Kralja Milana street loved by locals for fresh burek', { reviewCount: 238 }),
+  place('belgrade-bakery-4', 'belgrade', 'bakery', 'Mandarina', 4.6, 'Gračanička 16, Beograd 11000, Serbia', '스타리 그라드 중심가의 케이크·페이스트리 전문점', "Cake and pastry shop in the heart of Belgrade's old town, Stari Grad", { reviewCount: 1473 }),
+  place('belgrade-cafe-1', 'belgrade', 'cafe', 'Artist Specialty Coffee', 4.9, 'Kondina 26, Beograd 11000, Serbia', '스타리 그라드에 위치한 베오그라드의 인기 스페셜티 커피숍', "Popular specialty coffee shop in Belgrade's Stari Grad old town", { reviewCount: 1104 }),
+  place('belgrade-cafe-2', 'belgrade', 'cafe', 'Kafeterija Vračar', 4.4, 'Koče Kapetana 32, Beograd 11000, Serbia', '브라차르 지역의 인기 커피 체인점', 'Popular Belgrade coffee chain location in the Vračar district', { reviewCount: 1552 }),
+  place('belgrade-cafe-3', 'belgrade', 'cafe', 'DRIP Specialty Coffee', 4.8, 'Gospodar-Jevremova 46a, Beograd 11000, Serbia', '도르촐 지역 고스포다르 예브레모바 거리의 스페셜티 커피숍', "Specialty coffee shop on Gospodar-Jevremova street in Belgrade's Dorćol district", { reviewCount: 767 }),
+  place('belgrade-korean-1', 'belgrade', 'korean', 'Aigo Mashisoyo', 4.9, 'Svetozara Markovića 27, Beograd 11000, Serbia', '스베토자라 마르코비차 거리의 인기 한식당', 'Popular Korean restaurant on Svetozara Markovića street in Belgrade', { reviewCount: 559 }),
 
   // —— novi-sad ——
   place('novi-sad-fine_dining-1', 'novi-sad', 'fine_dining', 'Plata', 4.6, 'Đorđa Jovanovića 2, 21000 Novi Sad, Serbia', '고풍스러운 저택에 자리한 파인다이닝 레스토랑 겸 와인바로 전통과 혁신 요리를 함께 선보임', 'Fine-dining restaurant and wine bar in an elegant villa serving both traditional and innovative dishes'),
