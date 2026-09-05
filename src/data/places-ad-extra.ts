@@ -3,19 +3,19 @@ import type { Place } from '../types'
 
 export const placesADExtra: Place[] = [
   // —— andorra-la-vella ——
-  place('andorra-la-vella-fine_dining-1', 'andorra-la-vella', 'fine_dining', 'Bokè Wine & Grill', 4.5, 'Andorra la Vella', '산악 그릴·와인.', 'Mountain grill and wine.', { reviewCount: 700 }),
-  place('andorra-la-vella-fine_dining-2', 'andorra-la-vella', 'fine_dining', 'Celler d\'en Toni', 4.4, 'Andorra la Vella', '카탈란·안도라 다이닝.', 'Catalan–Andorran dining.', { reviewCount: 600 }),
-  place('andorra-la-vella-fine_dining-3', 'andorra-la-vella', 'fine_dining', 'Hotel fine dining Andorra', 4.4, 'Andorra la Vella', '호텔 파인 다이닝.', 'Hotel fine dining.', { reviewCount: 800 }),
-  place('andorra-la-vella-fine_dining-4', 'andorra-la-vella', 'fine_dining', 'Mountain bistro centre', 4.3, 'Andorra la Vella', '산악 비스트로.', 'Mountain bistro.', { reviewCount: 900 }),
-  place('andorra-la-vella-fine_dining-5', 'andorra-la-vella', 'fine_dining', 'Grill & local cuisine', 4.3, 'Andorra la Vella', '로컬 그릴 요리.', 'Local grill cuisine.', { reviewCount: 1100 }),
-  place('andorra-la-vella-bakery-1', 'andorra-la-vella', 'bakery', 'Forn / panaderia Andorra', 4.4, 'Andorra la Vella', '카탈란식 빵집.', 'Catalan-style bakery.', { reviewCount: 900 }),
-  place('andorra-la-vella-bakery-2', 'andorra-la-vella', 'bakery', 'Pastisseria local', 4.4, 'Andorra la Vella', '페이스트리 숍.', 'Pastry shop.', { reviewCount: 720 }),
-  place('andorra-la-vella-bakery-3', 'andorra-la-vella', 'bakery', 'Croissant & mountain bread', 4.3, 'Andorra la Vella', '크루아상·산악 빵.', 'Croissants and mountain bread.', { reviewCount: 640 }),
-  place('andorra-la-vella-bakery-4', 'andorra-la-vella', 'bakery', 'Café bakery Meritxell', 4.3, 'Andorra la Vella', '쇼핑가 베이커리 카페.', 'Shopping-street bakery café.', { reviewCount: 800 }),
-  place('andorra-la-vella-cafe-1', 'andorra-la-vella', 'cafe', 'Specialty coffee Andorra', 4.5, 'Andorra la Vella', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 700 }),
-  place('andorra-la-vella-cafe-2', 'andorra-la-vella', 'cafe', 'Meritxell terrace café', 4.3, 'Andorra la Vella', '쇼핑가 테라스 카페.', 'Shopping terrace café.', { reviewCount: 1200 }),
-  place('andorra-la-vella-cafe-3', 'andorra-la-vella', 'cafe', 'Old town café', 4.4, 'Andorra la Vella', '구시가 카페.', 'Old-town café.', { reviewCount: 860 }),
-  place('andorra-la-vella-cafe-4', 'andorra-la-vella', 'cafe', 'Brunch café Caldea area', 4.3, 'Andorra la Vella', '칼데아 인근 브런치.', 'Brunch near Caldea.', { reviewCount: 640 }),
+  place('andorra-la-vella-fine_dining-1', 'andorra-la-vella', 'fine_dining', 'Vitobe - Wine BAR', 4.6, 'Carrer Prat de la Creu, 29, Andorra la Vella', '와인 바 겸 그릴.', 'Wine bar and grill.', { reviewCount: 99 }),
+  place('andorra-la-vella-fine_dining-2', 'andorra-la-vella', 'fine_dining', 'Restaurant Celler d\'En Toni', 4.5, 'Carrer Verge del Pilar, 4, AD500 Andorra la Vella', '카탈란·안도라 다이닝.', 'Catalan–Andorran dining.', { reviewCount: 574 }),
+  place('andorra-la-vella-fine_dining-3', 'andorra-la-vella', 'fine_dining', 'Restaurant Eric Marty', 4.9, 'C/ Mossèn Tremosa, 6, Andorra la Vella', '프렌치·안도라 파인 다이닝.', 'French-Andorran fine dining.', { reviewCount: 388 }),
+  place('andorra-la-vella-fine_dining-4', 'andorra-la-vella', 'fine_dining', 'Restaurant el Crostó', 4.7, 'Cap del Carrer, 7, Andorra la Vella', '전통 안도라 요리.', 'Traditional Andorran cuisine.', { reviewCount: 703 }),
+  place('andorra-la-vella-fine_dining-5', 'andorra-la-vella', 'fine_dining', 'Alta Taberna Aires Gourmet', 4.9, 'Carrer Bonaventura Riberaygua, 9, Andorra la Vella', '고메 타파스·그릴.', 'Gourmet tapas and grill.', { reviewCount: 685 }),
+  place('andorra-la-vella-bakery-1', 'andorra-la-vella', 'bakery', 'ART I PA II', 4.2, 'Carrer Ciutat de Consuegra, 4, Andorra la Vella', '카탈란식 빵집.', 'Catalan-style bakery.', { reviewCount: 510 }),
+  place('andorra-la-vella-bakery-2', 'andorra-la-vella', 'bakery', 'Levaduramadre', 4.4, 'Carrer Bonaventura Riberaygua, 18, Andorra la Vella', '스페인 베이커리 체인.', 'Spanish bakery chain branch.', { reviewCount: 48 }),
+  place('andorra-la-vella-bakery-3', 'andorra-la-vella', 'bakery', 'Horno', 4.5, 'Av. Meritxell, 11, Andorra la Vella', '베이커리.', 'Bakery.', { reviewCount: 38 }),
+  place('andorra-la-vella-bakery-4', 'andorra-la-vella', 'bakery', 'Hugo Pa', 4.4, 'Cap del Carrer, 3, Andorra la Vella', '베이커리.', 'Bakery.', { reviewCount: 41 }),
+  place('andorra-la-vella-cafe-1', 'andorra-la-vella', 'cafe', 'Kofi - Specialty Coffee Roasters & Brunch', 4.8, 'Av. Dr. Mitjavila, 45, Local 2, Andorra la Vella', '스페셜티 로스터리·브런치.', 'Specialty coffee roastery and brunch.', { reviewCount: 520 }),
+  place('andorra-la-vella-cafe-2', 'andorra-la-vella', 'cafe', 'Coffee To Be (Co.Be)', 4.6, 'Carrer Prat de la Creu, 29, Andorra la Vella', '스페셜티 커피·브런치.', 'Specialty coffee and brunch.', { reviewCount: 241 }),
+  place('andorra-la-vella-cafe-3', 'andorra-la-vella', 'cafe', 'Riverside Brunch & Lunch', 4.4, 'Av. Dr. Mitjavila, 36, Andorra la Vella', '브런치·스페셜티 커피.', 'Brunch and specialty coffee.', { reviewCount: 398 }),
+  place('andorra-la-vella-cafe-4', 'andorra-la-vella', 'cafe', 'Alt Benestar Cafe', 4.8, 'Carrer Copríncep François Mitterrand, 2, Local 5, Andorra la Vella', '카페.', 'Café.', { reviewCount: 229 }),
 
   // —— pas-de-la-casa ——
   place('pas-de-la-casa-fine_dining-1', 'pas-de-la-casa', 'fine_dining', 'El Provençal', 4.5, 'Carrer Catalunya 13, AD200 Pas de la Casa', '프랑스 요리 전문 레스토랑.', 'Restaurant specializing in French cuisine.'),
