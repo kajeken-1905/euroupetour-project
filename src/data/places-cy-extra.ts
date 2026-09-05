@@ -3,13 +3,18 @@ import type { Place } from '../types'
 
 export const placesCYExtra: Place[] = [
   // —— nicosia ——
-  place('nicosia-fine_dining-2', 'nicosia', 'fine_dining', 'Meze house classics', 4.5, 'Nicosia', '전통 메제.', 'Classic meze house.', { reviewCount: 2800 }),
-  place('nicosia-bakery-1', 'nicosia', 'bakery', 'Halloumi pie bakeries', 4.5, 'Nicosia', '할루미 파이 빵집.', 'Halloumi pie bakeries.', { reviewCount: 2100 }),
-  place('nicosia-bakery-2', 'nicosia', 'bakery', 'Baklava pastry shops', 4.5, 'Nicosia', '바클라바·과자.', 'Baklava and sweets.', { reviewCount: 1800 }),
-  place('nicosia-bakery-3', 'nicosia', 'bakery', 'Village bread counters', 4.3, 'Nicosia', '빌리지 브레드.', 'Village bread.', { reviewCount: 1200 }),
-  place('nicosia-cafe-1', 'nicosia', 'cafe', 'Specialty coffee Nicosia', 4.5, 'Nicosia', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
-  place('nicosia-cafe-2', 'nicosia', 'cafe', 'Ledra Street cafés', 4.3, 'Nicosia', '레드라 카페.', 'Ledra Street cafés.', { reviewCount: 2100 }),
-  place('nicosia-cafe-3', 'nicosia', 'cafe', 'Courtyard coffee houses', 4.4, 'Nicosia', '중정 커피하우스.', 'Courtyard coffee houses.', { reviewCount: 1600 }),
+  place('nicosia-fine_dining-1', 'nicosia', 'fine_dining', 'Fisa & Masa Tavern', 4.9, 'Ledras 55, Nicosia', '전통 키프로스 타베르나.', 'Traditional Cypriot tavern.', { reviewCount: 456 }),
+  place('nicosia-fine_dining-2', 'nicosia', 'fine_dining', 'Paparouna Meze', 4.6, 'Arrenagogeiou 34, Nicosia', '전통 메제.', 'Classic meze house.', { reviewCount: 1204 }),
+  place('nicosia-fine_dining-3', 'nicosia', 'fine_dining', 'Topika Meze Bar', 4.8, 'Christodoulou Sozou 2, Nicosia', '모던 메제 바.', 'Modern meze bar.', { reviewCount: 341 }),
+  place('nicosia-fine_dining-4', 'nicosia', 'fine_dining', 'Zanettos Cypriot Tavern', 4.6, 'Trikoupi 65, Nicosia', '오랜 역사의 키프로스 타베르나.', 'Long-standing Cypriot tavern.', { reviewCount: 1011 }),
+  place('nicosia-fine_dining-5', 'nicosia', 'fine_dining', 'Piatsa Gourounaki', 4.8, 'Faneromenis 92, Nicosia', '캐주얼 그릴·메제.', 'Casual grill and meze.', { reviewCount: 2882 }),
+  place('nicosia-bakery-1', 'nicosia', 'bakery', 'HONEST BREAD', 4.8, 'Athalassas Ave 146B, Nicosia', '사워도우 베이커리.', 'Sourdough bakery.', { reviewCount: 340 }),
+  place('nicosia-bakery-2', 'nicosia', 'bakery', 'Seed of Happiness', 4.8, 'Kritis 5, Nicosia', '베이커리.', 'Bakery.', { reviewCount: 139 }),
+  place('nicosia-bakery-3', 'nicosia', 'bakery', 'Constantinides Bakery Downtown', 4.6, 'Stasandrou 1, Nicosia', '다운타운 베이커리.', 'Downtown bakery.', { reviewCount: 133 }),
+  place('nicosia-bakery-4', 'nicosia', 'bakery', 'ΜΑΡΩ Cakes & More', 4.8, 'Stadiou 63, Nicosia', '케이크·페이스트리.', 'Cakes and pastries.', { reviewCount: 26 }),
+  place('nicosia-cafe-1', 'nicosia', 'cafe', 'Coffee Therapy (Old City)', 5.0, 'Aristokyprou 37, Nicosia', '구시가 스페셜티 커피.', 'Specialty coffee in the Old City.', { reviewCount: 267 }),
+  place('nicosia-cafe-2', 'nicosia', 'cafe', 'Pieto', 4.6, 'Ledras 207, Nicosia', '레드라 거리 카페.', 'Café on Ledra Street.', { reviewCount: 1118 }),
+  place('nicosia-cafe-3', 'nicosia', 'cafe', 'Two Chimp. Coffee & Cake', 5.0, 'Pindarou 18Δ, Nicosia', '커피·케이크 카페.', 'Coffee and cake café.', { reviewCount: 244 }),
 
   // —— limassol ——
   place('limassol-fine_dining-1', 'limassol', 'fine_dining', 'Ousia Soulful Kitchen', 4.5, '24 Irenes Street, Medieval Castle Square, Limassol 3042', '구시가 캐슬 광장의 레스토랑.', 'Restaurant by the Old Town\'s Castle Square.'),
