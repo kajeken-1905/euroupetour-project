@@ -9,6 +9,10 @@ export const placesNOExtra: Place[] = [
   place('bergen-fine_dining-4', 'bergen', 'fine_dining', 'Gaptrast', 5.0, 'Baneveien 16, Bergen', '미쉐린 2스타 레스토랑, 서부 노르웨이 식재료를 살린 야심찬 요리.', 'Two-Michelin-star restaurant serving ambitious, ingredient-driven Western Norway cuisine.'),
 
   place('bergen-bakery-1', 'bergen', 'bakery', 'Godt Brød', 4.4, 'Marken 1, 5017 Bergen', '역사적인 마르켄 거리에 위치한 노르웨이 유기농 베이커리 체인.', 'Norwegian organic-bakery chain outlet on the historic Marken street.'),
+  place('bergen-bakery-2', 'bergen', 'bakery', 'Omni Kaiser Patisserie', 4.6, 'Olav Kyrres gate 31, 5015 Bergen', '올라브 쿠레스 거리의 평점 높은 파티스리.', 'Highly rated patisserie on Olav Kyrres gate.', { reviewCount: 145 }),
+  place('bergen-bakery-3', 'bergen', 'bakery', 'Donutbakeren', 4.7, 'C. Sundts gate 26, 5004 Bergen', '평점 높은 도넛 전문 베이커리.', 'Highly rated bakery specializing in donuts.', { reviewCount: 264 }),
+  place('bergen-bakery-4', 'bergen', 'bakery', 'Good Bread Floyen', 4.5, 'Vetrlidsallmenningen 19, 5014 Bergen', '평점 높은 인기 베이커리, 배달 서비스도 운영.', 'Popular, highly rated bakery that also offers delivery.', { reviewCount: 1028 }),
+  place('bergen-bakery-5', 'bergen', 'bakery', 'Baker Brun', 4.6, 'Klostergaten 2, 5005 Bergen', '베르겐의 역사적인 베이커리 체인, 스킬링스볼레(계피빵)로 유명.', 'Historic Bergen bakery chain famous for its skillingsboller cinnamon buns.', { reviewCount: 239 }),
 
   place('bergen-cafe-1', 'bergen', 'cafe', 'Det Lille Kaffekompaniet', 4.7, 'Nedre Fjellsmauet 2, 5018 Bergen', '당근 케이크와 카푸치노로 유명한 베르겐의 작은 스페셜티 커피숍.', 'Tiny, highly rated specialty coffee shop famed for its carrot cake and cappuccinos.'),
   place('bergen-cafe-2', 'bergen', 'cafe', 'Café Opera', 3.8, 'Engen 18, 5011 Bergen', '국립극장 옆 35년 전통의 카페 겸 레스토랑 겸 갤러리.', 'A 35-year-old café-restaurant-art-gallery institution next to the National Theatre.'),
@@ -35,6 +39,9 @@ export const placesNOExtra: Place[] = [
   place('stavanger-fine_dining-4', 'stavanger', 'fine_dining', 'Matbaren Bistro by Renaa', 4.4, 'Steinkargata 10, Breitorget, 4006 Stavanger', '레나 레스토랑 그룹의 프렌치풍 비스트로, 편안한 분위기의 스몰 플레이트.', 'French-inspired bistro from the Renaa restaurant group, offering refined small plates in a relaxed setting.', { reviewCount: 805 }),
 
   place('stavanger-bakery-1', 'stavanger', 'bakery', 'Kanelsnurren Verksgata', 4.5, 'Verksgata 24, 4013 Stavanger', '큼직한 시나몬롤로 현지에서 사랑받는 베이커리 카페.', 'Bakery-café beloved locally for its oversized cinnamon rolls.'),
+  place('stavanger-bakery-2', 'stavanger', 'bakery', 'Kanelsnurren avd. Stavanger sentrum', 4.5, 'Søregata 4, 4006 Stavanger', '스타방에르 시내 중심가의 카넬스누렌 지점.', 'City-centre branch of the Kanelsnurren cinnamon-roll bakery chain.', { reviewCount: 246 }),
+  place('stavanger-bakery-3', 'stavanger', 'bakery', 'Rosenkildehaven Bageri', 4.9, 'Bakergata 9, 4013 Stavanger', '평점 높은 베이커리.', 'Highly rated bakery.', { reviewCount: 63 }),
+  place('stavanger-bakery-4', 'stavanger', 'bakery', 'Molinå Bakery', 4.7, 'Verksgata 17A, 4013 Stavanger', '평점 높은 베이커리.', 'Highly rated bakery.', { reviewCount: 180 }),
 
   place('stavanger-cafe-1', 'stavanger', 'cafe', 'Kokko Kaffebar', 4.8, 'Østervåg 43, 4006 Stavanger', '세련된 노르딕 디자인의 3층 건물에 위치한 스페셜티 커피 로스터리.', 'Specialty coffee roastery spread across three floors of striking Nordic design.'),
   place('stavanger-cafe-2', 'stavanger', 'cafe', 'Bøker og Børst', 4.6, 'Øvre Holmegate 32, 4006 Stavanger', '수제 커피와 중고 서점, 보드게임을 함께 즐길 수 있는 독특한 카페.', 'Quirky café combining craft coffee with secondhand books and board games.'),
@@ -47,6 +54,10 @@ export const placesNOExtra: Place[] = [
   place('trondheim-fine_dining-4', 'trondheim', 'fine_dining', 'Baklandet Skydsstation', 4.8, 'Øvre Bakklandet 33, Trondheim', '내셔널지오그래픽이 선정한 적 있는, 100년 넘은 옛 역참 카페 겸 레스토랑.', 'A century-old former coaching-station café-restaurant once named "Café of the Year" by National Geographic.', { reviewCount: 3225 }),
 
   place('trondheim-bakery-1', 'trondheim', 'bakery', 'Hevd Bakeri & Pizzeria', 4.8, 'Kongens gate 18, 7011 Trondheim', '낮에는 사워도우·페이스트리 베이커리, 밤에는 화덕 피자집.', 'Bakery by day serving sourdough and pastries, wood-fired pizzeria by night.', { reviewCount: 665 }),
+  place('trondheim-bakery-2', 'trondheim', 'bakery', 'Rosenborg Bakeri', 4.4, 'Rosenborg gate 8-10, 7014 Trondheim', '로센보르 거리의 인기 베이커리.', 'Popular bakery on Rosenborg gate.', { reviewCount: 562 }),
+  place('trondheim-bakery-3', 'trondheim', 'bakery', 'French pleasures AS', 4.8, 'Haakon VIIs gt. 27, 7041 Trondheim', '평점 높은 프렌치풍 베이커리.', 'Highly rated French-style bakery.', { reviewCount: 196 }),
+  place('trondheim-bakery-4', 'trondheim', 'bakery', 'Backstube Trondheim Jomfrugata', 4.7, 'Jomfrugata 5, 7014 Trondheim', '욤프루가타 거리의 평점 높은 베이커리.', 'Highly rated bakery on Jomfrugata street.', { reviewCount: 145 }),
+  place('trondheim-bakery-5', 'trondheim', 'bakery', 'ISAK Bakeri', 4.9, 'Kongens gate 2, 7011 Trondheim', '평점 높은 베이커리.', 'Highly rated bakery.', { reviewCount: 80 }),
 
   place('trondheim-cafe-1', 'trondheim', 'cafe', 'Dromedar Kaffebar (Øya)', 4.8, 'Håkon Jarls Gate 2, 7030 Trondheim', '트론헤임의 인기 로컬 커피 체인 드로메다르의 지점.', 'Neighborhood outpost of Trondheim\'s popular home-grown coffee bar chain.'),
   place('trondheim-cafe-2', 'trondheim', 'cafe', 'Dromedar Kaffebar (Bakklandet)', 4.3, 'Nedre Bakklandet 3, 7014 Trondheim', '역사적인 바클란데트 지구에 위치한 드로메다르 커피바.', 'Coffee bar in the historic Bakklandet district, part of the local Dromedar chain.'),
