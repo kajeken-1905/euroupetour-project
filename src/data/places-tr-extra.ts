@@ -11,7 +11,7 @@ export const placesTRExtra: Place[] = [
   place('istanbul-bakery-1', 'istanbul', 'bakery', 'Filizler Tarihi Fırın', 4.5, 'Istanbul', '시밋·로컬 빵.', 'Simit and local bread.', { reviewCount: 2800 }),
   place('istanbul-bakery-2', 'istanbul', 'bakery', 'Karaköy Güllüoğlu', 4.6, 'Istanbul', '바클라바 전문.', 'Baklava specialists.', { reviewCount: 12000 }),
   place('istanbul-bakery-3', 'istanbul', 'bakery', 'Baylan Pastanesi', 4.4, 'Istanbul', '클래식 파티스리.', 'Classic pastry shop.', { reviewCount: 3600 }),
-  place('istanbul-bakery-4', 'istanbul', 'bakery', 'Çırağan bakery counters', 4.3, 'Istanbul', '호텔·베이커리 카운터.', 'Hotel bakery counters.', { reviewCount: 1400 }),
+  place('istanbul-bakery-4', 'istanbul', 'bakery', 'Hafız Mustafa 1864', 4.7, 'Hoca Paşa, Muradiye Cd. No:51, 34080 Fatih/İstanbul, Turkey', '1864년부터 이어온 전통 제과점, 바클라바·로쿰 전문.', 'Historic pastry shop since 1864, known for baklava and Turkish delight.', { reviewCount: 48524 }),
   place('istanbul-cafe-1', 'istanbul', 'cafe', 'Kronotrop', 4.5, 'Istanbul', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2100 }),
   place('istanbul-cafe-2', 'istanbul', 'cafe', 'Mandabatmaz', 4.4, 'Istanbul', '터키식 커피 클래식.', 'Classic Turkish coffee.', { reviewCount: 4200 }),
   place('istanbul-cafe-3', 'istanbul', 'cafe', 'Petra Roasting Co.', 4.5, 'Istanbul', '로스터리 카페.', 'Roastery café.', { reviewCount: 1800 }),
