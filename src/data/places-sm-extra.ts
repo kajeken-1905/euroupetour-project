@@ -4,6 +4,7 @@ import type { Place } from '../types'
 export const placesSMExtra: Place[] = [
   // —— san-marino-city ——
   place('san-marino-city-fine_dining-1', 'san-marino-city', 'fine_dining', 'Righi la Taverna', 4.4, 'Piazza della Libertà, 47890 San Marino City, San Marino', '산마리노 자유광장에 위치한 인기 이탈리안 레스토랑', 'Popular Italian restaurant on Piazza della Libertà in the historic center of San Marino City'),
+  place('san-marino-city-fine_dining-2', 'san-marino-city', 'fine_dining', 'La Terrazza', 4.4, 'Contrada del Collegio 31, 47890 San Marino City, San Marino', '호텔 티타노 내 레스토랑, 중앙 광장이 내려다보이는 전망으로 유명', 'Restaurant inside Hotel Titano, known for its view overlooking the main square', { reviewCount: 1380 }),
   place('san-marino-city-bakery-1', 'san-marino-city', 'bakery', 'Pasticceria Patrizia dal 1980', 4.5, 'Via Ca\' dei Lunghi 16, 47890 San Marino Città, San Marino', '1980년부터 이어온 산마리노 시티의 전통 파티스리, 다양한 이탈리안 페이스트리로 유명', 'San Marino City patisserie serving since 1980, known for its wide range of Italian pastries'),
   place('san-marino-city-cafe-1', 'san-marino-city', 'cafe', 'Caffè Titano', 4.4, 'Piazzetta del Titano 4, 47890 San Marino Città, San Marino', '산마리노 구시가지 중심에 위치한 명소 카페 겸 스낵바', 'Landmark cafe and snack bar in the heart of San Marino\'s historic center'),
 
