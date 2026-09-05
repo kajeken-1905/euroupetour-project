@@ -3,14 +3,14 @@ import type { Place } from '../types'
 
 export const placesEEExtra: Place[] = [
   // —— tallinn ——
-  place('tallinn-fine_dining-1', 'tallinn', 'fine_dining', 'NOA', 4.6, 'Tallinn', '모던 에스토니아 파인.', 'Modern Estonian fine dining.', { reviewCount: 1200 }),
-  place('tallinn-bakery-1', 'tallinn', 'bakery', 'Karakter', 4.5, 'Tallinn', '모던 베이커리.', 'Modern bakery.', { reviewCount: 1600 }),
-  place('tallinn-bakery-2', 'tallinn', 'bakery', 'Kringel & pastry shops', 4.4, 'Tallinn', '크링겔·페이스트리.', 'Kringel and pastries.', { reviewCount: 2100 }),
-  place('tallinn-bakery-3', 'tallinn', 'bakery', 'Old Town bakery counters', 4.3, 'Tallinn', '구시가 빵 카운터.', 'Old-town bakery counters.', { reviewCount: 1800 }),
-  place('tallinn-bakery-4', 'tallinn', 'bakery', 'Rye bread houses', 4.4, 'Tallinn', '호밀빵집.', 'Rye bread houses.', { reviewCount: 1400 }),
-  place('tallinn-cafe-1', 'tallinn', 'cafe', 'Specialty coffee Tallinn', 4.5, 'Tallinn', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2100 }),
-  place('tallinn-cafe-2', 'tallinn', 'cafe', 'Telliskivi cafés', 4.5, 'Tallinn', '텔리스키비 카페.', 'Telliskivi cafés.', { reviewCount: 2400 }),
-  place('tallinn-cafe-3', 'tallinn', 'cafe', 'Old Town café terraces', 4.3, 'Tallinn', '구시가 테라스.', 'Old-town terraces.', { reviewCount: 3200 }),
+  place('tallinn-fine_dining-1', 'tallinn', 'fine_dining', 'NOA', 4.6, 'Ranna tee 3, Tallinn', '모던 에스토니아 파인.', 'Modern Estonian fine dining.', { reviewCount: 2306 }),
+  place('tallinn-bakery-1', 'tallinn', 'bakery', 'RØST Bakery', 4.8, 'Rotermanni tn 14, Tallinn', '모던 베이커리.', 'Modern bakery.', { reviewCount: 3044 }),
+  place('tallinn-bakery-2', 'tallinn', 'bakery', 'PullaBakery', 4.9, 'Voorimehe 7, Tallinn', '페이스트리·번 전문점.', 'Pastry and bun specialist.', { reviewCount: 1661 }),
+  place('tallinn-bakery-3', 'tallinn', 'bakery', 'Kalamaja Bakery', 4.7, 'Jahu tänav 11, Tallinn', '칼라마야 지구 베이커리.', 'Bakery in the Kalamaja district.', { reviewCount: 1015 }),
+  place('tallinn-bakery-4', 'tallinn', 'bakery', 'Bekker Pagariäri', 4.8, 'Kopli tn 27, Tallinn', '호밀빵 전문점.', 'Rye bread specialist.', { reviewCount: 714 }),
+  place('tallinn-cafe-1', 'tallinn', 'cafe', 'The Brick Coffee Roastery', 4.8, 'Telliskivi tn 60, Tallinn', '스페셜티 커피 로스터리.', 'Specialty coffee roastery.', { reviewCount: 388 }),
+  place('tallinn-cafe-2', 'tallinn', 'cafe', 'Fika Cafe', 4.6, 'Telliskivi tn 60a, Tallinn', '텔리스키비 카페.', 'Telliskivi district café.', { reviewCount: 486 }),
+  place('tallinn-cafe-3', 'tallinn', 'cafe', 'Cafe Maiasmokk', 4.5, 'Pikk tn 16, Tallinn', '1864년 개업한 구시가 역사 카페.', 'Historic Old Town café, opened 1864.', { reviewCount: 3894 }),
 
   // —— tartu ——
   place('tartu-fine_dining-1', 'tartu', 'fine_dining', 'Restaurant Fii', 4.6, 'Rüütli 7, 51007 Tartu', '소피아 호텔의 미식 레스토랑.', 'Fine dining at the Sophia Hotel.'),
