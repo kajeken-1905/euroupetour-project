@@ -134,6 +134,9 @@ export const placesESExtra: Place[] = [
   place('toledo-bakery-1', 'toledo', 'bakery', 'Panadería MasaMadre', 4.6, 'C. de Santo Tomé 3, 45002 Toledo, Spain', '초콜릿 크루아상과 향긋한 커피로 유명한 톨레도의 베이커리 카페', 'Toledo bakery café known for chocolate-filled croissants and aromatic coffee'),
   place('toledo-bakery-2', 'toledo', 'bakery', 'Obrador San Félix', 5.0, 'C. Camarín de San Cipriano 4, 45002 Toledo', '케이크와 컵케이크를 전문으로 하는 제과점.', 'Bakery specializing in cakes and cupcakes.'),
   place('toledo-cafe-1', 'toledo', 'cafe', 'El Café de las Monjas', 4.5, 'C. Cadenas 6, 45001 Toledo, Spain', '인근 수녀원의 수녀들이 만든 수제 과자로 유명한 대성당 옆 카페', 'Café near the cathedral known for handmade sweets baked by nuns'),
+  place('toledo-cafe-2', 'toledo', 'cafe', 'IL CAPPUCCINO Specialty coffee', 4.8, 'Pl. de la Magdalena 4, Toledo, Spain', '톨레도의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in Toledo', { reviewCount: 1589 }),
+  place('toledo-cafe-3', 'toledo', 'cafe', 'LA VILLA', 4.8, 'Número dos La Villa, P.º de Bachilleres, Toledo, Spain', '톨레도에서 평점이 매우 높은 커피숍', 'Highly rated coffee shop in Toledo', { reviewCount: 447 }),
+  place('toledo-cafe-4', 'toledo', 'cafe', 'Naturalmente Italian Coffee & Bakery', 4.6, 'Pl. de San Juan de los Reyes 2, Toledo, Spain', '이탈리아식 커피와 베이커리를 함께 즐길 수 있는 카페', 'Café serving Italian-style coffee alongside baked goods', { reviewCount: 620 }),
 
   // —— cordoba ——
   place('cordoba-fine_dining-1', 'cordoba', 'fine_dining', 'Noor', 4.6, 'Paseo de la Victoria s/n, 14004 Córdoba', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
@@ -216,6 +219,9 @@ export const placesESExtra: Place[] = [
   place('segovia-bakery-1', 'segovia', 'bakery', 'Granier Panes Artesanos', 4.4, 'Pz. Corpus Christi 3, 40001 Segovia, Spain', '장인이 구운 빵으로 유명한 세고비아의 베이커리 체인', 'Segovia branch of the artisan bread bakery chain'),
   place('segovia-bakery-2', 'segovia', 'bakery', 'Pastelería Limón y Menta', 4.1, 'C. Isabel la Católica 2, 40001 Segovia', '세고비아 명물 폰체 세고비아노로 유명한 제과점.', 'Pastry shop famous for the local Ponche Segoviano cake.', { reviewCount: 603 }),
   place('segovia-cafe-1', 'segovia', 'cafe', 'La Colonial', 4.4, 'Segovia, Spain', '붉은 인테리어가 인상적인 세고비아 구시가지 중심의 카페', 'Segovia café in the heart of the old town, known for its vibrant red interior'),
+  place('segovia-cafe-2', 'segovia', 'cafe', 'Kofe Lab - Specialty Coffee', 4.7, 'Bajada de la Canaleja 5, Segovia, Spain', '세고비아의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in Segovia', { reviewCount: 564 }),
+  place('segovia-cafe-3', 'segovia', 'cafe', "Cafetería Paloma's", 4.9, 'Travesía Dr. Sancho 5, Segovia, Spain', '세고비아에서 평점이 매우 높은 카페', 'Highly rated café in Segovia', { reviewCount: 222 }),
+  place('segovia-cafe-4', 'segovia', 'cafe', 'CHIPÉN SEGOVIA', 4.3, 'Av. Acueducto 5, Segovia, Spain', '수도교 인근의 카페 겸 수제 아이스크림 전문점', 'Café and artisanal ice cream shop near the aqueduct', { reviewCount: 1893 }),
 
   // —— ronda ——
   place('ronda-fine_dining-1', 'ronda', 'fine_dining', 'Bardal', 4.7, 'Calle José Aparicio 1, 29400 Ronda', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
@@ -236,6 +242,10 @@ export const placesESExtra: Place[] = [
   place('girona-fine_dining-4', 'girona', 'fine_dining', 'Can Vidal', 4.3, 'Girona', '달팽이·버섯 등 지로나 향토 요리.', "Girona regional dishes — snails, seasonal mushrooms.", { reviewCount: 400 }),
   place('girona-fine_dining-5', 'girona', 'fine_dining', 'El Cul de Món', 4.4, 'Girona', '성벽 옆, 모로코풍을 더한 카탈루냐 요리.', 'Catalan food with a Moroccan twist beside the city wall.', { reviewCount: 350 }),
   place('girona-bakery-1', 'girona', 'bakery', 'Casamoner', 4.6, 'Carrer de Joan Maragall 36, 17002 Girona, Spain', '1892년부터 이어온 지로나의 인기 베이커리, 츄이쇼로 유명', 'Popular Girona bakery since 1892, known for its xuixo pastry'),
+  place('girona-bakery-2', 'girona', 'bakery', 'Antiga Casa Bellsolà 1892', 4.5, 'Plaça del Vi 12, Girona, Spain', '1892년부터 이어온 지로나의 전통 제과점', 'Traditional Girona pastry shop operating since 1892', { reviewCount: 165 }),
+  place('girona-bakery-3', 'girona', 'bakery', 'Oriell 1887', 4.7, 'Carrer de Sta. Clara 10, Girona, Spain', '1887년부터 이어온 지로나의 역사적인 베이커리', 'Historic Girona bakery operating since 1887', { reviewCount: 450 }),
+  place('girona-bakery-4', 'girona', 'bakery', 'La Puntual (Pa i Brioixeria)', 4.9, 'Carrer Ramon Turró i Darder 33, Girona, Spain', '브리오슈 빵으로 유명한 인기 베이커리', 'Popular bakery known for its brioche bread', { reviewCount: 714 }),
+  place('girona-bakery-5', 'girona', 'bakery', 'Pastisseria Forn Montserrat', 4.7, 'Carrer dels Calderers 13, Girona, Spain', '동네 주민들에게 사랑받는 제과점', 'Well-loved neighborhood pastry shop', { reviewCount: 59 }),
   place('girona-cafe-1', 'girona', 'cafe', 'La Comuna Café', 4.6, 'Carrer de la Cort Reial 5, 17004 Girona, Spain', '프로 사이클리스트 부부가 운영하는 지로나의 스페셜티 커피 카페', 'Girona specialty coffee café founded by a professional cyclist and his wife'),
   place('girona-cafe-2', 'girona', 'cafe', 'Oniria Cafè', 4.9, 'Carrer del Nord 11, 17001 Girona', '카탈루냐-독일 듀오가 운영하는 스페셜티 커피.', 'Specialty coffee run by a Catalan-German duo.', { reviewCount: 260 }),
   place('girona-cafe-3', 'girona', 'cafe', 'Espresso Mafia Coffee', 4.6, 'Girona', '지로나 중심가의 인기 커피숍.', 'Popular coffee shop in central Girona.', { reviewCount: 300 }),
@@ -284,6 +294,9 @@ export const placesESExtra: Place[] = [
   place('gibraltar-fine_dining-5', 'gibraltar', 'fine_dining', 'Casa Pepe', 4.0, 'Unit 18, Queensway Quay Marina, Gibraltar', '퀸스웨이 퀘이의 정통 스페인·해산물 레스토랑.', 'Authentic Spanish-seafood restaurant at Queensway Quay.', { reviewCount: 400 }),
 
   place('gibraltar-bakery-1', 'gibraltar', 'bakery', 'The Gibraltar Bakery', 4.3, 'Unit G10 ICC, Casemates Square, Gibraltar GX11 1AA', '케이스메이츠 광장에 위치한 지브롤터의 베이커리 카페', 'Bakery café on Casemates Square in Gibraltar'),
+  place('gibraltar-bakery-2', 'gibraltar', 'bakery', 'Piece of Cake Boutique Bakery', 4.6, 'The Residence, 29-35 Engineer Ln, Gibraltar', '케이크와 페이스트리를 전문으로 하는 부티크 베이커리', 'Boutique bakery specializing in cakes and pastries', { reviewCount: 101 }),
+  place('gibraltar-bakery-3', 'gibraltar', 'bakery', 'The Portuguese Nata', 5.0, 'Block 2, Unit 2.0, Eurotowers, 16 Europort Rd, Gibraltar', '포르투갈식 에그타르트(파스텔 데 나타) 전문점', 'Specialist in Portuguese custard tarts (pastéis de nata)', { reviewCount: 13 }),
+  place('gibraltar-bakery-4', 'gibraltar', 'bakery', 'chök - Main Street', 4.4, '249 Main St, Gibraltar', '초콜릿 디저트로 유명한 베이커리 체인', 'Bakery chain known for its chocolate-based desserts', { reviewCount: 236 }),
   place('gibraltar-cafe-1', 'gibraltar', 'cafe', 'Amar\'s', 4.3, '1A Convent Place, Gibraltar', '아침 식사와 점심 메뉴로 유명한 지브롤터의 카페', 'Gibraltar café known for its breakfast and lunch menu'),
   place('gibraltar-cafe-2', 'gibraltar', 'cafe', 'The Kasbar', 4.7, '5 Castle Street, Gibraltar GX11 1AA', '지브롤터 유일의 100% 비건 카페 겸 아트카페.', "Gibraltar's only 100% vegan arts café.", { reviewCount: 200 }),
 ]
