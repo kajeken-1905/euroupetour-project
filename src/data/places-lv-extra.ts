@@ -21,12 +21,31 @@ export const placesLVExtra: Place[] = [
 
   // —— jurmala ——
   place('jurmala-fine_dining-1', 'jurmala', 'fine_dining', '36.Line Grill Restaurant', 4.4, 'Baznīcas iela 2B, LV-2015 Jūrmala', '해변 바로 옆에 위치한 유르말라 1위 레스토랑, 시푸드·지중해 요리 전문(미쉐린 가이드 등재).', 'Jūrmala\'s top-rated beachfront restaurant specializing in seafood and Mediterranean cuisine (listed in the Michelin Guide).'),
+  place('jurmala-fine_dining-2', 'jurmala', 'fine_dining', 'KinzaHouse', 4.6, 'Baznīcas iela 2/3, Jūrmala', '많은 리뷰를 받은 유르말라의 조지아 요리 레스토랑.', 'Georgian restaurant in Jūrmala with a large number of reviews.', { reviewCount: 4215 }),
+  place('jurmala-fine_dining-3', 'jurmala', 'fine_dining', 'Majorenhoff', 4.4, 'Jomas iela 42, Jūrmala', '요마스 거리의 인기 레스토랑.', 'Popular restaurant on Jomas Street.', { reviewCount: 1572 }),
+  place('jurmala-fine_dining-4', 'jurmala', 'fine_dining', 'HOUSE OF LIGHT', 4.5, 'Jomas iela 63, Jūrmala', '요마스 거리의 인기 레스토랑.', 'Popular restaurant on Jomas Street.', { reviewCount: 2139 }),
+  place('jurmala-fine_dining-5', 'jurmala', 'fine_dining', 'Dukāts', 4.4, 'Baznīcas iela 12/14, Jūrmala', '많은 리뷰를 받은 유르말라의 비스트로.', 'Bistro in Jūrmala with a large number of reviews.', { reviewCount: 1832 }),
   place('jurmala-bakery-1', 'jurmala', 'bakery', 'Kalnakrastu Rausu fabrika', 4.5, 'Vienibas prospekts 35, Jūrmala, Latvia', '유르말라 최고의 케이크로 꼽히는 인기 베이커리', 'Jūrmala\'s top-ranked bakery, known for its excellent cakes'),
+  place('jurmala-bakery-2', 'jurmala', 'bakery', 'Bitīte', 4.7, 'Jomas iela 63, Jūrmala', '많은 리뷰를 받은 유르말라의 제과점.', 'Bakery in Jūrmala with a large number of reviews.', { reviewCount: 1440 }),
+  place('jurmala-bakery-3', 'jurmala', 'bakery', 'The Loaf', 4.5, 'Jomas iela 37, Jūrmala', '요마스 거리의 제과점.', 'Bakery on Jomas Street.', { reviewCount: 19 }),
   place('jurmala-cafe-1', 'jurmala', 'cafe', 'Madam Brioš', 4.5, 'Mellužu prospekts 9, Jūrmala LV-2008, Latvia', '프랑스식 정취가 물씬 풍기는 유르말라의 노변 카페 겸 베이커리', 'Roadside café and bakery in Jūrmala capturing French culinary charm'),
+  place('jurmala-cafe-2', 'jurmala', 'cafe', 'Simply Beach House', 4.5, 'Pilsoņu iela 1, Majori, Jūrmala', '많은 리뷰를 받은 유르말라 해변가의 커피숍.', 'Beachfront coffee shop in Jūrmala with a large number of reviews.', { reviewCount: 960 }),
+  place('jurmala-cafe-3', 'jurmala', 'cafe', 'Kafijas stūrītis', 4.5, 'Bulduru prospekts 35, Jūrmala', '많은 리뷰를 받은 유르말라의 카페.', 'Café in Jūrmala with a large number of reviews.', { reviewCount: 863 }),
+  place('jurmala-cafe-4', 'jurmala', 'cafe', 'Atmosphere Cafe Bulduri', 4.5, 'Vienības prospekts, Bulduri, Jūrmala', '불두리 지구의 카페.', 'Café in the Bulduri district.', { reviewCount: 384 }),
+  place('jurmala-cafe-5', 'jurmala', 'cafe', 'MT Caffe', 4.9, 'Jomas iela 58-k-3, Jūrmala', '높은 평점의 유르말라 카페.', 'Highly rated café in Jūrmala.', { reviewCount: 56 }),
 
   // —— sigulda ——
   place('sigulda-fine_dining-1', 'sigulda', 'fine_dining', 'Pasēdnīca', 4.5, 'Raiņa iela 2-3, LV-2150 Sigulda', '합리적인 가격의 로컬 요리.', 'Local cuisine at reasonable prices.'),
+  place('sigulda-fine_dining-2', 'sigulda', 'fine_dining', 'Kungu rija, restorāns', 4.7, 'Kungu rija, Sigulda', '많은 리뷰를 받은 시굴다의 레스토랑.', 'Restaurant in Sigulda with a large number of reviews.', { reviewCount: 1861 }),
+  place('sigulda-fine_dining-3', 'sigulda', 'fine_dining', 'Hotel Sigulda restaurant', 4.6, 'Pils iela 6, Sigulda', '시굴다의 호텔 레스토랑.', 'Hotel restaurant in Sigulda.', { reviewCount: 131 }),
+  place('sigulda-fine_dining-4', 'sigulda', 'fine_dining', 'Bazārs', 4.8, 'Ausekļa iela 7b, Sigulda', '높은 평점의 시굴다 뷔페 레스토랑.', 'Highly rated buffet restaurant in Sigulda.', { reviewCount: 183 }),
+  place('sigulda-fine_dining-5', 'sigulda', 'fine_dining', 'Kazene', 4.5, 'Pils iela 4b, Sigulda', '시굴다의 레스토랑.', 'Restaurant in Sigulda.', { reviewCount: 108 }),
 
   place('sigulda-bakery-1', 'sigulda', 'bakery', 'GUSTAVbeķereja', 5.0, 'Krišjāņa Valdemāra iela 2, Sigulda, LV-2150', '신선한 머핀으로 유명한 시굴다의 베이커리', 'Sigulda bakery known for its fresh and delicious muffins'),
+  place('sigulda-bakery-2', 'sigulda', 'bakery', 'Sucre, kafejnīca', 4.9, 'Rūdolfa Blaumaņa iela 2, Sigulda', '만점에 가까운 평점의 시굴다 베이커리.', 'Near-perfectly rated bakery in Sigulda.', { reviewCount: 372 }),
   place('sigulda-cafe-1', 'sigulda', 'cafe', 'Doma cafe', 4.5, 'L. Paegles iela 15a, Sigulda, Latvia', '아늑한 안뜰과 훌륭한 커피로 유명한 시굴다의 카페', 'Sigulda café known for its cozy courtyard and excellent coffee'),
+  place('sigulda-cafe-2', 'sigulda', 'cafe', 'Mr. Biskvits', 4.7, 'Ausekļa iela 9, Sigulda', '많은 리뷰를 받은 시굴다의 카페.', 'Café in Sigulda with a large number of reviews.', { reviewCount: 2137 }),
+  place('sigulda-cafe-3', 'sigulda', 'cafe', 'Complex Cathouse (Kaķu Māja)', 4.5, 'Pils iela 8, Sigulda', '고양이 테마의 시굴다 카페.', 'Cat-themed café in Sigulda.', { reviewCount: 2126 }),
+  place('sigulda-cafe-4', 'sigulda', 'cafe', 'Eklers', 4.6, 'Pils iela 1, Sigulda', '많은 리뷰를 받은 시굴다의 카페.', 'Café in Sigulda with a large number of reviews.', { reviewCount: 947 }),
+  place('sigulda-cafe-5', 'sigulda', 'cafe', 'Pie Vītoliem', 4.7, 'Pils iela 1-A, Sigulda', '높은 평점의 시굴다 카페.', 'Highly rated café in Sigulda.', { reviewCount: 348 }),
 ]
