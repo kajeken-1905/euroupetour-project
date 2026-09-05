@@ -34,9 +34,17 @@ export const placesGEExtra: Place[] = [
 
   // —— stepantsminda ——
   place('stepantsminda-fine_dining-1', 'stepantsminda', 'fine_dining', 'Kazbegi Good Food', 4.6, 'Gergetis Ubani E117, Stepantsminda 4485', '아늑한 분위기의 조지아 가정식.', 'Cozy Georgian home cooking.'),
+  place('stepantsminda-fine_dining-2', 'stepantsminda', 'fine_dining', 'Maisi - Restaurant in Kazbegi', 4.8, 'N18 Betlemi St, Stepantsminda, Georgia', '스테판츠민다에서 평점이 매우 높은 조지아 요리 레스토랑.', 'Highly rated Georgian cuisine restaurant in Stepantsminda.', { reviewCount: 1472 }),
+  place('stepantsminda-fine_dining-3', 'stepantsminda', 'fine_dining', 'Samani Restaurant', 4.6, 'N12 Aleksandre Kazbegi St, Stepantsminda, Georgia', '많은 리뷰를 받은 스테판츠민다의 레스토랑.', 'Popular restaurant in Stepantsminda with a large number of reviews.', { reviewCount: 2558 }),
   place('stepantsminda-cafe-1', 'stepantsminda', 'cafe', 'Cafe-Restaurant Kazbegya', 4.4, 'Stepantsminda, Georgia', '알렉산드레 카즈베기 동상 인근 스테판츠민다 중심가의 카페 겸 레스토랑', 'Café-restaurant in central Stepantsminda, steps from the Kazbegi monument'),
+  place('stepantsminda-cafe-2', 'stepantsminda', 'cafe', 'Art-cafe MARI', 4.3, 'Aleksandre Kazbegi St, Stepantsminda, Georgia', '스테판츠민다의 아트 카페 겸 레스토랑.', 'Art café and restaurant in Stepantsminda.', { reviewCount: 174 }),
+  place('stepantsminda-cafe-3', 'stepantsminda', 'cafe', 'Cafe Planet Kazbegi', 4.8, '12a Kazbegi St, Stepantsminda, Georgia', '높은 평점의 스테판츠민다 카페 겸 레스토랑.', 'Highly rated café and restaurant in Stepantsminda.', { reviewCount: 50 }),
 
   // —— sighnaghi ——
   place('sighnaghi-fine_dining-1', 'sighnaghi', 'fine_dining', 'Restaurant Burji', 4.6, 'Chavchavadze St. 9, Signagi 383210', '도시 최고 전망의 조지아 요리.', 'Georgian cuisine with the town\'s best views.'),
+  place('sighnaghi-fine_dining-2', 'sighnaghi', 'fine_dining', 'Sighnaghi Estate', 4.8, 'Sighnaghi, Georgia', '많은 리뷰를 받은 시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi with a large number of reviews.', { reviewCount: 5775 }),
+  place('sighnaghi-fine_dining-3', 'sighnaghi', 'fine_dining', 'Restaurant Qiziki', 4.9, '6 Sarajishvili St, Sighnaghi, Georgia', '시그나기에서 평점이 매우 높은 조지아 요리 레스토랑.', 'Highly rated Georgian cuisine restaurant in Sighnaghi.', { reviewCount: 601 }),
+  place('sighnaghi-fine_dining-4', 'sighnaghi', 'fine_dining', 'Balcony Sighnaghi', 4.7, '21 Vakhtang Gorgasali St, Sighnaghi, Georgia', '많은 리뷰를 받은 시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi with a large number of reviews.', { reviewCount: 5011 }),
   place('sighnaghi-cafe-1', 'sighnaghi', 'cafe', 'ChikChiki Cafe', 4.2, 'Sighnaghi, Georgia', '조지아 요리와 라이브 음악을 함께 즐길 수 있는 시그나기 중심가의 카페', 'Café in the heart of Sighnaghi offering Georgian cuisine and live music'),
+  place('sighnaghi-cafe-2', 'sighnaghi', 'cafe', 'Cafe "Medea"', 4.8, '3 Ketevan Tsamebuli St, Sighnaghi, Georgia', '높은 평점의 시그나기 카페.', 'Highly rated café in Sighnaghi.', { reviewCount: 121 }),
 ]
