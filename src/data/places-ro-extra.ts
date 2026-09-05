@@ -10,12 +10,12 @@ export const placesROExtra: Place[] = [
   place('bucharest-fine_dining-5', 'bucharest', 'fine_dining', 'Lacrimi și Sfinți', 4.5, 'Bucharest', '전통 재해석.', 'Reimagined tradition.', { reviewCount: 2100 }),
   place('bucharest-bakery-1', 'bucharest', 'bakery', 'French Revolution', 4.5, 'Bucharest', '사워도우·페이스트리.', 'Sourdough and pastries.', { reviewCount: 1800 }),
   place('bucharest-bakery-2', 'bucharest', 'bakery', 'Grace Bakery', 4.4, 'Bucharest', '로컬 베이커리.', 'Local bakery.', { reviewCount: 1200 }),
-  place('bucharest-bakery-3', 'bucharest', 'bakery', 'Cofoarie / covrig stalls', 4.3, 'Bucharest', '코브리지 가판.', 'Covrigi stalls.', { reviewCount: 2400 }),
-  place('bucharest-bakery-4', 'bucharest', 'bakery', 'Hotel pastry counters', 4.3, 'Bucharest', '호텔 파티스리.', 'Hotel pastry counters.', { reviewCount: 900 }),
+  place('bucharest-bakery-3', 'bucharest', 'bakery', 'Grain Trip Bakery', 4.6, 'Strada Nerva Traian 16, Bucharest', '장인 사워도우 베이커리.', 'Artisan sourdough bakery.', { reviewCount: 1447 }),
+  place('bucharest-bakery-4', 'bucharest', 'bakery', 'Piața9 Victoriei', 4.6, 'Calea Victoriei 145, Bucharest', '베이커리 겸 파티스리.', 'Bakery and pastry shop.', { reviewCount: 1128 }),
   place('bucharest-cafe-1', 'bucharest', 'cafe', 'Origo Coffee', 4.6, 'Bucharest', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2100 }),
   place('bucharest-cafe-2', 'bucharest', 'cafe', 'Steam Coffee', 4.5, 'Bucharest', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('bucharest-cafe-3', 'bucharest', 'cafe', 'Cafeneaua Veche', 4.3, 'Bucharest', '구시가 클래식 카페.', 'Old-town classic café.', { reviewCount: 2800 }),
-  place('bucharest-cafe-4', 'bucharest', 'cafe', 'brunch cafés Centru Vechi', 4.4, 'Bucharest', '구시가 브런치.', 'Old-town brunch.', { reviewCount: 1600 }),
+  place('bucharest-cafe-4', 'bucharest', 'cafe', 'Grand Café Van Gogh', 4.2, 'Strada Smârdan 9, Bucharest', '구시가 브런치·조식 카페.', 'Old-town brunch and breakfast café.', { reviewCount: 12991 }),
 
   // —— brasov ——
   place('brasov-fine_dining-1', 'brasov', 'fine_dining', 'Albert Social Bistro', 4.6, 'Strada Apollonia Hirscher 12, 500015 Brașov', '구 와인 저장고의 유러피언 비스트로.', 'European bistro in a former wine cellar.'),
