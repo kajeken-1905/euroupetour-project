@@ -3,16 +3,17 @@ import type { Place } from '../types'
 
 export const placesSIExtra: Place[] = [
   // —— ljubljana ——
-  place('ljubljana-fine_dining-1', 'ljubljana', 'fine_dining', 'Strelec', 4.7, 'Ljubljana', '성 안 미슐랭 다이닝.', 'Castle Michelin dining.', { reviewCount: 1100 }),
-  place('ljubljana-fine_dining-2', 'ljubljana', 'fine_dining', 'JB Restaurant', 4.6, 'Ljubljana', '클래식 파인 다이닝.', 'Classic fine dining.', { reviewCount: 900 }),
-  place('ljubljana-fine_dining-3', 'ljubljana', 'fine_dining', 'AS', 4.5, 'Ljubljana', '모던 슬로베니아.', 'Modern Slovenian.', { reviewCount: 1200 }),
-  place('ljubljana-fine_dining-4', 'ljubljana', 'fine_dining', 'Gostilna local classics', 4.4, 'Ljubljana', '전통 고스틸나.', 'Traditional gostilna.', { reviewCount: 2100 }),
-  place('ljubljana-bakery-1', 'ljubljana', 'bakery', 'Žito / local bakery counters', 4.3, 'Ljubljana', '로컬 베이커리.', 'Local bakery.', { reviewCount: 1800 }),
-  place('ljubljana-bakery-3', 'ljubljana', 'bakery', 'Potica & pastry shops', 4.4, 'Ljubljana', '포티차·페이스트리.', 'Potica and pastries.', { reviewCount: 1400 }),
-  place('ljubljana-bakery-4', 'ljubljana', 'bakery', 'Market bakery stalls', 4.3, 'Ljubljana', '시장 빵 가판.', 'Market bread stalls.', { reviewCount: 1200 }),
-  place('ljubljana-cafe-1', 'ljubljana', 'cafe', 'Čokl', 4.5, 'Ljubljana', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
-  place('ljubljana-cafe-2', 'ljubljana', 'cafe', 'Tozd / riverside cafés', 4.4, 'Ljubljana', '강변 카페.', 'Riverside café.', { reviewCount: 2100 }),
-  place('ljubljana-cafe-3', 'ljubljana', 'cafe', 'Slovenska / centre cafés', 4.3, 'Ljubljana', '도심 클래식 카페.', 'Central classic café.', { reviewCount: 1800 }),
+  place('ljubljana-fine_dining-1', 'ljubljana', 'fine_dining', 'Strelec', 4.7, 'Grajska planota 1, 1000 Ljubljana, Slovenia', '류블랴나 성 안에 자리한 파인다이닝, 도시 전망과 함께 다코스 테이스팅 메뉴를 제공', 'Fine-dining restaurant inside Ljubljana Castle offering multi-course tasting menus with city views', { reviewCount: 811 }),
+  place('ljubljana-fine_dining-2', 'ljubljana', 'fine_dining', 'JB Restaurant', 4.6, 'Volčji Potok 43G, 1235 Radomlje, Slovenia', '류블랴나 인근 라돔리예에 위치한 야네즈 브라토브지 셰프의 파인다이닝, 테이스팅 메뉴로 유명', 'Fine-dining restaurant by chef Janez Bratovž in Radomlje near Ljubljana, known for its tasting menus', { reviewCount: 608 }),
+  place('ljubljana-fine_dining-3', 'ljubljana', 'fine_dining', 'AS', 4.3, 'Čopova ulica 5a, 1000 Ljubljana, Slovenia', '촙바 거리의 인기 레스토랑, 스테이크와 파스타로 알려짐', 'Popular restaurant on Čopova street known for its steaks and pasta', { reviewCount: 1004 }),
+  place('ljubljana-fine_dining-4', 'ljubljana', 'fine_dining', 'Gostilna Sokol', 4.3, 'Ciril-Metodov trg 18, 1000 Ljubljana, Slovenia', '치릴-메토드 광장에 위치한 류블랴나의 대표 전통 슬로베니아 선술집', "Ljubljana's landmark traditional Slovenian gostilna on Ciril-Metodov square", { reviewCount: 9920 }),
+  place('ljubljana-bakery-1', 'ljubljana', 'bakery', 'Brot Pekarna', 4.8, 'Poljanska cesta 11, 1000 Ljubljana, Slovenia', '폴랸스카 거리의 높은 평점을 받는 베이커리', 'Highly rated bakery on Poljanska street in Ljubljana', { reviewCount: 443 }),
+  place('ljubljana-bakery-3', 'ljubljana', 'bakery', 'Butik lePotica', 4.4, 'Stari trg 10, 1000 Ljubljana, Slovenia', '스타리 광장의 전통 포티차(호두빵) 전문점, 미니 사이즈로도 판매', 'Specialty shop on Stari trg selling traditional Slovenian potica nut roll, including mini sizes', { reviewCount: 125 }),
+  place('ljubljana-bakery-4', 'ljubljana', 'bakery', 'Pekarna Pečjak (Tržnica Arkade)', 4.5, 'Adamič-Lundrovo nabrežje 4, 1000 Ljubljana, Slovenia', '류블랴나 중앙시장 아케이드에 위치한 페치니 베이커리 매장', "Pečjak bakery outlet inside the arcade of Ljubljana's central market (Tržnica)", { reviewCount: 84 }),
+  place('ljubljana-cafe-1', 'ljubljana', 'cafe', 'Čokl', 4.6, 'Krekov trg 9, 1000 Ljubljana, Slovenia', '크레코브 광장의 카페, 테라스에서 류블랴나 성과 인형극장이 보임', 'Cafe on Krekov trg with a terrace overlooking Ljubljana Castle and the puppet theatre', { reviewCount: 655 }),
+  place('ljubljana-cafe-2', 'ljubljana', 'cafe', 'Tozd', 4.5, 'Cankarjeva cesta 8, 1000 Ljubljana, Slovenia', '칸카르예바 거리의 힙스터 감성 카페 겸 바', 'Hipster-style cafe and bar on Cankarjeva cesta near the riverside', { reviewCount: 1412 }),
+  place('ljubljana-cafe-3', 'ljubljana', 'cafe', 'Cafetino', 4.7, 'Stari trg 5, 1000 Ljubljana, Slovenia', '스타리 광장의 인기 커피숍, 원두를 직접 골라 마실 수 있음', 'Popular coffee shop on Stari trg where customers can choose their own coffee beans', { reviewCount: 1202 }),
+  place('ljubljana-korean-1', 'ljubljana', 'korean', '오감 (Ogam)', 4.6, 'Kolodvorska ulica 7, 1000 Ljubljana, Slovenia', '콜로드보르스카 거리의 인기 한식당', 'Popular Korean restaurant on Kolodvorska street in Ljubljana', { reviewCount: 838 }),
 
   // —— bled ——
   place('bled-fine_dining-1', 'bled', 'fine_dining', 'Restaurant Julijana', 4.6, 'Cesta Svobode 12, 4260 Bled, Slovenia', '그랜드 호텔 토플리체 내 위치한 블레드 호수 전망 파인다이닝, 슬로베니아 미쉐린 가이드 등재', 'Elegant lake-view restaurant at the Grand Hotel Toplice, one of the few Slovenian restaurants featured in the Michelin Guide'),
