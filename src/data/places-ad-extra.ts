@@ -24,6 +24,8 @@ export const placesADExtra: Place[] = [
 
   // —— ordino ——
   place('ordino-fine_dining-1', 'ordino', 'fine_dining', 'Topic Restaurant', 4.5, 'Carrer Mossèn Cinto Verdaguer 1, AD300 Ordino', '안도라 전통 요리 레스토랑.', 'Andorran cuisine restaurant.'),
+  place('ordino-fine_dining-2', 'ordino', 'fine_dining', 'Vertical Ordino', 4.8, 'Ordino, AD300, Andorra', '지역민들이 극찬하는 오르디노의 유러피안·지중해 레스토랑', 'Highly rated European–Mediterranean restaurant in Ordino', { reviewCount: 1136 }),
+  place('ordino-fine_dining-3', 'ordino', 'fine_dining', 'Restaurant Gaspá', 4.7, 'Ordino, AD300, Andorra', '24시간 운영하는 오르디노의 유러피안·스페인 레스토랑', '24-hour European–Spanish restaurant in Ordino', { reviewCount: 184 }),
 
   place('ordino-bakery-1', 'ordino', 'bakery', 'Fleca Font', 4.4, 'Ordino, AD300, Andorra', '매일 아침 갓 구운 페이스트리 향이 가득한 오르디노의 인기 빵집', 'Beloved Ordino bakery filling the morning air with the aroma of fresh pastries'),
   place('ordino-cafe-1', 'ordino', 'cafe', 'Hors Categorie Andorra', 4.3, 'Plaça Major 10, AD300 Ordino, Andorra', '오르디노 중앙 광장에 위치한 카페 겸 레스토랑', 'Café and restaurant on Ordino\'s central square'),
