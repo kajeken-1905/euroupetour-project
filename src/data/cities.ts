@@ -5896,6 +5896,13 @@ export const cities: City[] = [
         description: { ko: "포르트 벨 앞, 그리핀 조각으로 장식된 19세기 세관 건물입니다.", en: "Griffin-topped 19th-century customs house by Port Vell." },
         image: "/highlights/barcelona-23.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Antiga%20Duana%20de%20Barcelona",
+      },
+      {
+        id: "barcelona-h24",
+        name: { ko: "로마 성벽과 산타 아가타 예배당", en: "Roman Walls & Santa Àgata Chapel" },
+        description: { ko: "로마 시대 성벽 위에 고딕 예배당이 얹힌 라몬 베렝게르 광장의 풍경입니다.", en: "A Gothic chapel perched atop the Roman city walls at Plaça de Ramon Berenguer." },
+        image: "/highlights/barcelona-24.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pla%C3%A7a%20de%20Ramon%20Berenguer%20el%20Gran%20Barcelona",
       }
 ],
   },
