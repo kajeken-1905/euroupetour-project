@@ -6058,6 +6058,20 @@ export const cities: City[] = [
         description: { ko: "찻집과 모로코 상점이 늘어선 '작은 모로코' 골목입니다.", en: "\"Little Morocco\" alley lined with tea houses and Moroccan shops." },
         image: "/highlights/granada-10.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Calle%20Calderer%C3%ADa%20Nueva%20Granada",
+      },
+      {
+        id: "granada-h11",
+        name: { ko: "아라야네스 정원", en: "Court of the Myrtles" },
+        description: { ko: "코마레스 궁의 긴 반사 연못이 있는 나스르 궁전 안뜰입니다.", en: "Nasrid courtyard with the long reflecting pool of the Comares Palace." },
+        image: "/highlights/granada-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Patio%20de%20los%20Arrayanes%20Alhambra",
+      },
+      {
+        id: "granada-h12",
+        name: { ko: "알카사바", en: "Alcazaba" },
+        description: { ko: "알함브라에서 가장 오래된 군사 요새, 벨라 탑 전망대가 있습니다.", en: "The Alhambra's oldest part — the military fortress, with the Vela watchtower and its views." },
+        image: "/highlights/granada-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Alcazaba%20Alhambra%20Granada",
       }
     ],
   },
