@@ -4,6 +4,9 @@ import type { Place } from '../types'
 export const placesMTExtra: Place[] = [
   // —— valletta ——
   place('valletta-fine_dining-1', 'valletta', 'fine_dining', 'Under Grain', 4.6, '167 Merchants Street, Valletta VLT 1174', '로셀리 호텔에 위치한 미쉐린 1스타 레스토랑, 몬타 계절 요리 전문.', 'One-Michelin-star restaurant inside the Rosselli Hotel, specializing in seasonal Maltese cuisine.', { reviewCount: 249 }),
+  place('valletta-fine_dining-2', 'valletta', 'fine_dining', 'ION Harbour by Simon Rogan', 4.6, 'Iniala Harbour House, St Barbara Bastion, Valletta', '이니알라 하버 하우스 4층의 미슐랭 2스타 레스토랑, 사이먼 로건이 이끄는 제철 몰타 식재료 요리, 그랜드 하버 전망.', 'Two-Michelin-star restaurant on the 4th floor of Iniala Harbour House, seasonal Maltese produce under Simon Rogan, overlooking the Grand Harbour.', { reviewCount: 470 }),
+  place('valletta-fine_dining-3', 'valletta', 'fine_dining', 'Noni', 4.6, '211 Republic Street, Valletta VLT 1116', '발레타 태생 셰프 조너선 브린캇이 이끄는 미슐랭 1스타 레스토랑, 리퍼블릭 스트리트의 타운하우스에 위치.', 'One-Michelin-star restaurant by Valletta-born chef Jonathan Brincat, in a Republic Street townhouse.', { reviewCount: 700 }),
+  place('valletta-fine_dining-4', 'valletta', 'fine_dining', 'Rubino', 4.5, '53 Old Bakery Street, Valletta VLT 1454', '1906년 제과점이던 공간에 자리한, 매일 바뀌는 흑판 메뉴의 전통 몰타 요리 레스토랑.', 'Traditional Maltese restaurant in a former 1906 confectionery, with a daily blackboard menu.', { reviewCount: 900 }),
 
   place('valletta-bakery-1', 'valletta', 'bakery', 'Malta Pastizzi (Manuela)', 4.8, '57 Merchants Street, Valletta VLT 1173', '매일 아침 갓 구워 점심 전에 매진되는 발레타의 인기 파스티치 가게.', 'Popular Valletta pastizzi shop, freshly baked each morning and often sold out by lunch.'),
   place('valletta-bakery-2', 'valletta', 'bakery', 'Grano', 4.4, '26 Triq Santa Lucia, Valletta VLT 1183', '몰타 최고의 프티라로 꼽히는 발레타의 작은 샌드위치 가게.', 'Small Valletta sandwich shop said to serve the best ftira in Malta.'),
