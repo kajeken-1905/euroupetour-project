@@ -5812,6 +5812,27 @@ export const cities: City[] = [
         description: { ko: "바르셀로나 FC의 홈구장입니다.", en: "Home stadium of FC Barcelona." },
         image: "/highlights/barcelona-11.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Camp%20Nou%20Barcelona",
+      },
+      {
+        id: "barcelona-h12",
+        name: { ko: "개선문", en: "Arc de Triomf" },
+        description: { ko: "1888년 만국박람회의 정문입니다.", en: "Gateway arch built for the 1888 World's Fair." },
+        image: "/highlights/barcelona-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Arc%20de%20Triomf%20Barcelona",
+      },
+      {
+        id: "barcelona-h13",
+        name: { ko: "피카소 미술관", en: "Museu Picasso" },
+        description: { ko: "중세 저택에 자리한 피카소 초기작 컬렉션입니다.", en: "Picasso's early works, set in medieval palaces." },
+        image: "/highlights/barcelona-13.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museu%20Picasso%20Barcelona",
+      },
+      {
+        id: "barcelona-h14",
+        name: { ko: "카사 비센스", en: "Casa Vicens" },
+        description: { ko: "가우디가 지은 첫 주택, 타일 파사드가 특징입니다.", en: "Gaudí's first house, with a tiled façade." },
+        image: "/highlights/barcelona-14.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Casa%20Vicens%20Barcelona",
       }
 ],
   },
