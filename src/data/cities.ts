@@ -5764,6 +5764,27 @@ export const cities: City[] = [
         description: { ko: "마요르 광장 옆의 유리 철골 미식 시장입니다.", en: "Wrought-iron gourmet market hall beside Plaza Mayor." },
         image: "/highlights/madrid-11.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mercado%20de%20San%20Miguel%20Madrid",
+      },
+      {
+        id: "madrid-h12",
+        name: { ko: "산티아고 베르나베우", en: "Santiago Bernabéu Stadium" },
+        description: { ko: "레알 마드리드의 홈구장, 새 곡면 외관이 특징입니다.", en: "Real Madrid's home stadium, wrapped in its new curved skin." },
+        image: "/highlights/madrid-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Santiago%20Bernab%C3%A9u%20Stadium",
+      },
+      {
+        id: "madrid-h13",
+        name: { ko: "레알 극장", en: "Teatro Real" },
+        description: { ko: "오리엔테 광장 맞은편의 왕립 오페라 극장입니다.", en: "Royal opera house facing Plaza de Oriente." },
+        image: "/highlights/madrid-13.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Teatro%20Real%20Madrid",
+      },
+      {
+        id: "madrid-h14",
+        name: { ko: "아토차역", en: "Atocha Station" },
+        description: { ko: "마드리드의 주요 기차역, 열대 식물 정원으로 유명합니다.", en: "Madrid's main railway station, famous for its indoor tropical garden." },
+        image: "/highlights/madrid-14.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n%20de%20Madrid%20Atocha",
       }
     ],
   },
@@ -6629,6 +6650,13 @@ export const cities: City[] = [
         description: { ko: "무데하르 탑이 있는 로마네스크 교회, 구시가 광장에 자리합니다.", en: "Romanesque church with a Mudéjar tower on an old-town square." },
         image: "/highlights/segovia-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Mart%C3%ADn%20Segovia",
+      },
+      {
+        id: "segovia-h8",
+        name: { ko: "산 안드레스 문과 성벽", en: "Puerta de San Andrés & City Walls" },
+        description: { ko: "유대인 지구에 남은 중세 성문과 이어지는 옛 성벽입니다.", en: "Medieval city gate in the Jewish quarter and the surviving old walls." },
+        image: "/highlights/segovia-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Puerta%20de%20San%20Andr%C3%A9s%20Segovia",
       }
     ],
   },
