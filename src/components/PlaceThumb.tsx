@@ -1,4 +1,5 @@
 import type { Place } from '../types'
+import { assetUrl } from '../utils/assetUrl'
 
 /**
  * Renders a visited-in-person photo for a place when one has been added
@@ -11,7 +12,7 @@ export function PlaceThumb({ place, size = 104 }: { place: Place; size?: number 
   return (
     <img
       className="place-thumb"
-      src={place.image}
+      src={assetUrl(place.image)}
       alt={place.name}
       loading="lazy"
       width={size}

@@ -45,6 +45,7 @@ export const placesESExtra: Place[] = [
   place('barcelona-cafe-3', 'barcelona', 'cafe', 'Balzac Café', 4.6, 'Passeig de Sant Joan 127, 08037 Barcelona, Spain', '엄선된 재료로 만든 개성 있는 음료로 인기 있는 에이샴플레의 카페', "Eixample cafe popular for its creative drinks made from scratch with top-notch ingredients"),
   place('barcelona-cafe-4', "barcelona", 'cafe', "Satan's Coffee Corner", 4.5, "Carrer de l'Arc de Sant Ramon del Call 11, 08002 Barcelona, Spain", '고딕 지구에 위치한 바르셀로나의 대표 스페셜티 커피숍', "Barcelona's landmark specialty coffee shop in the Gothic Quarter", { reviewCount: 2600 }),
   place('barcelona-cafe-5', 'barcelona', 'cafe', 'Three Marks Coffee', 4.6, "Carrer d'Ausiàs Marc 151, 08013 Barcelona, Spain", '엘 포르트 피엔크 지역의 첫 스페셜티 커피숍이자 자체 로스터리', "El Fort Pienc's first specialty coffee shop, also operating as its own roastery"),
+  place('barcelona-cafe-6', 'barcelona', 'cafe', 'Granja La Pallaresa', 4.2, 'Carrer de Petritxol 11, 08002 Barcelona', '1947년부터 이어온 페트리촐 거리의 전통 그란하, 휘핑크림을 얹은 수이스(핫초코)와 엔사이마다로 유명.', 'Traditional granja on Carrer Petritxol since 1947, famous for its suís (whipped-cream hot chocolate) and ensaïmada.', { reviewCount: 3800, image: '/places/barcelona-cafe-6.jpg' }),
 
   // —— seville ——
   place('seville-fine_dining-1', 'seville', 'fine_dining', 'Lalola de Javi Abascal', 4.6, 'Marco Sancho 1, 41003 Sevilla', '미쉐린 빕 구르망 레스토랑.', 'Michelin Bib Gourmand restaurant.'),
@@ -52,6 +53,7 @@ export const placesESExtra: Place[] = [
   place('seville-fine_dining-3', 'seville', 'fine_dining', 'Casa Morales', 4.1, 'C. García de Vinuesa 11, 41001 Sevilla', '1850년부터 이어온 세비야에서 가장 오래된 타파스 바 중 하나.', "One of Seville's oldest tapas bars, operating since 1850."),
   place('seville-fine_dining-4', 'seville', 'fine_dining', 'Taberna Coloniales', 4.0, 'Calle Fernandez y González 36, 41001 Sevilla', '대성당 맞은편의 합리적인 가격의 타파스 바.', 'Affordable tapas bar opposite the cathedral.'),
   place('seville-fine_dining-5', 'seville', 'fine_dining', 'Las Teresas', 3.5, 'C. Santa Teresa 2, 41004 Sevilla', '산타 크루스 지구의 역사적인 이베리코 햄 전문 바.', 'Historic bar in the Santa Cruz quarter, known for Iberian ham.'),
+  place('seville-fine_dining-6', 'seville', 'fine_dining', 'Realcázar', 4.4, 'Calle San Fernando 27, 41004 Sevilla', '레알 알카사르 성벽에 맞닿은 안달루시아·지중해 요리 레스토랑, 성 전망 테라스.', 'Andalusian-Mediterranean restaurant sharing a wall with the Real Alcázar, with a terrace facing the palace.', { reviewCount: 1320, image: '/places/seville-fine_dining-6.jpg' }),
   place('seville-bakery-1', 'seville', 'bakery', 'Cafetería Pastelería La Canasta', 4.4, 'C. Regina 14, 41003 Sevilla, Spain', '다양한 빵과 페이스트리를 갖춘 세비야의 인기 베이커리 카페', 'Popular Seville bakery café with a wide range of bread and pastries'),
   place('seville-bakery-2', 'seville', 'bakery', 'Ofelia Bakery', 4.6, 'Calle Huelva 5, 41004 Sevilla', '수제 케이크와 컵케이크로 유명한 구시가의 베이커리.', 'Old-town bakery known for handmade cakes and cupcakes.', { reviewCount: 1273 }),
   place('seville-bakery-3', 'seville', 'bakery', 'Lalita Café', 3.5, 'Calle José Luis de Casso 38, 41005 Sevilla', '네르비온 지구 최고의 베이커리 카페.', "The Nervión district's top bakery café."),
@@ -69,7 +71,7 @@ export const placesESExtra: Place[] = [
   place('granada-fine_dining-4', 'granada', 'fine_dining', 'Chikito', 3.8, 'Plaza del Campillo 9, 18009 Granada', '가르시아 로르카가 사랑한 그라나다 전통 식당.', "Traditional restaurant beloved by García Lorca.", { reviewCount: 1500 }),
   place('granada-fine_dining-5', 'granada', 'fine_dining', 'Mirador de Morayma', 4.1, 'Calle del Pianista García Carrillo 2, 18010 Granada', '알바이신에서 알함브라 전망을 즐기는 안달루시아 요리.', 'Andalusian cuisine with Alhambra views from the Albaicín.', { reviewCount: 700 }),
   place('granada-korean-1', 'granada', 'korean', 'CoreOlé Korean Food Bar', 4.5, 'C. Elvira, 114, 18010 Granada', '알바이신 지구의 한식당.', 'Korean restaurant in the Albaicín district.'),
-  place('granada-korean-2', 'granada', 'korean', 'Miso Restaurant Coreano', 4.3, 'Camino de Ronda, 18004 Granada', '갈비·프라이드치킨·라면 등 다양한 한식.', 'Varied Korean menu — ribs, fried chicken, ramyeon.', { reviewCount: 1900 }),
+  place('granada-korean-2', 'granada', 'korean', 'Miso Restaurant Coreano', 4.3, 'Camino de Ronda, 18004 Granada', '갈비·프라이드치킨·라면 등 다양한 한식.', 'Varied Korean menu — ribs, fried chicken, ramyeon.', { reviewCount: 1900, image: '/places/granada-korean-2.jpg' }),
   place('granada-bakery-1', 'granada', 'bakery', 'Casa Ysla Pastelería-Cafetería', 4.6, 'C. Recogidas 36, 18002 Granada, Spain', '그라나다 명물 피오노노 케이크를 처음 만든 곳', 'Birthplace of Granada\'s famous Piononos cake'),
   place('granada-bakery-2', 'granada', 'bakery', 'Barrio Specialty Coffee & Bakery', 4.7, 'Plaza de San Isidro 1, 18012 Granada', '알바이신의 가족 운영 스페셜티 커피·베이커리.', 'Family-run specialty coffee and bakery in the Albaicín.', { reviewCount: 150 }),
   place('granada-bakery-3', 'granada', 'bakery', 'Café Pastelería López-Mezquita', 4.5, 'Calle Trinidad 2, 18001 Granada', '그라나다의 명물 피오노노로 유명한 역사적 제과점.', "Historic pastry shop famed for Granada's signature pionono.", { reviewCount: 800 }),
@@ -137,6 +139,7 @@ export const placesESExtra: Place[] = [
   place('toledo-cafe-2', 'toledo', 'cafe', 'IL CAPPUCCINO Specialty coffee', 4.8, 'Pl. de la Magdalena 4, Toledo, Spain', '톨레도의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in Toledo', { reviewCount: 1589 }),
   place('toledo-cafe-3', 'toledo', 'cafe', 'LA VILLA', 4.8, 'Número dos La Villa, P.º de Bachilleres, Toledo, Spain', '톨레도에서 평점이 매우 높은 커피숍', 'Highly rated coffee shop in Toledo', { reviewCount: 447 }),
   place('toledo-cafe-4', 'toledo', 'cafe', 'Naturalmente Italian Coffee & Bakery', 4.6, 'Pl. de San Juan de los Reyes 2, Toledo, Spain', '이탈리아식 커피와 베이커리를 함께 즐길 수 있는 카페', 'Café serving Italian-style coffee alongside baked goods', { reviewCount: 620 }),
+  place('toledo-cafe-5', 'toledo', 'cafe', 'Cañas y Tapas', 3.9, 'Plaza de Zocodover 11, 45001 Toledo', '소코도베르 광장의 접근성 좋은 아침·타파스 체인점.', 'Handy breakfast-and-tapas chain spot right on Plaza de Zocodover.', { image: '/places/toledo-cafe-5.jpg' }),
 
   // —— cordoba ——
   place('cordoba-fine_dining-1', 'cordoba', 'fine_dining', 'Noor', 4.6, 'Paseo de la Victoria s/n, 14004 Córdoba', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
