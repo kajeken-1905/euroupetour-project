@@ -654,6 +654,22 @@ button.back-link {
   margin: 8px 0 8px;
 }
 
+.highlight-group {
+  margin: 10px 0 0;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: #14110f;
+}
+
+.highlight-group:first-child {
+  margin-top: 0;
+}
+
+.theme-page .highlight-group {
+  color: var(--c-primary);
+}
+
 .highlight-card {
   display: grid;
   grid-template-rows: 140px auto;

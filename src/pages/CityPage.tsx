@@ -1,4 +1,4 @@
-import { useMemo, useState, type CSSProperties } from 'react'
+import { Fragment, useMemo, useState, type CSSProperties } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { getCity } from '../data/cities'
 import { getCountry } from '../data/countries'
@@ -72,9 +72,18 @@ export function CityPage() {
         {t('highlightHint', lang)}
       </p>
       <div className="highlight-list">
-        {city.highlights.map((item) => (
-          <HighlightCard key={item.id} highlight={item} />
-        ))}
+        {city.highlights.map((item, i) => {
+          const prevGroup = city.highlights[i - 1]?.group?.[lang]
+          const showGroup = item.group && item.group[lang] !== prevGroup
+          return (
+            <Fragment key={item.id}>
+              {showGroup ? (
+                <p className="highlight-group">{item.group![lang]}</p>
+              ) : null}
+              <HighlightCard highlight={item} />
+            </Fragment>
+          )
+        })}
       </div>
 
       {transit ? <TransitCityPanel {...transit} /> : null}

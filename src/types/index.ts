@@ -84,6 +84,8 @@ export interface CityHighlight {
   description: { ko: string; en: string }
   image: string
   mapsUrl: string
+  /** Optional tour-course grouping; a heading is shown when it changes. */
+  group?: { ko: string; en: string }
 }
 
 export interface City {
