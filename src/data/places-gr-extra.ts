@@ -33,6 +33,9 @@ export const placesGRExtra: Place[] = [
   place('heraklion-fine_dining-2', 'heraklion', 'fine_dining', 'Peskesi', 4.8, 'Kapetan Haralampi 6-8, Heraklion 71202', '복원된 저택에서 선보이는 정통 크레타 요리, 자체 농장 식재료 사용.', 'Authentic Cretan cuisine in a restored mansion, using ingredients from its own farm.', { reviewCount: 9736 }),
   place('heraklion-fine_dining-3', 'heraklion', 'fine_dining', 'Antipodas', 4.5, 'Korai 13, Iraklio 71202', '넉넉한 양과 친절한 서비스로 호평받는 전통 크레타 요리 레스토랑.', 'Traditional Cretan restaurant praised for generous portions and friendly service.', { reviewCount: 791 }),
   place('heraklion-bakery-1', 'heraklion', 'bakery', 'Kritikos Fournos Daily Bakery', 4.6, 'Leoforos Ikarou 32, 71306 Heraklion, Greece', '크레타 최고의 베이커리로 꼽히는 이라클리오의 인기 명소', 'Widely regarded as the best bakery in Crete'),
+  place('heraklion-bakery-2', 'heraklion', 'bakery', 'Phyllosophies (Liontaria)', 4.8, 'Plateia Liontarion 33, Heraklion 71202', '크레타 최고의 부가차로 유명한 리온다리아 광장의 명소.', "Famous spot on Lion Square known for Crete's best bougatsa.", { reviewCount: 5141 }),
+  place('heraklion-bakery-3', 'heraklion', 'bakery', 'La Maison Du Pain', 4.8, 'Leoforos Dimokratias, Heraklion 71306', '이라클리오의 인기 프랑스식 베이커리.', 'Popular French-style bakery in Heraklion.', { reviewCount: 575 }),
+  place('heraklion-bakery-4', 'heraklion', 'bakery', 'Zimoto', 4.7, 'Plateia Kallergon, Heraklion 71202', '칼레르곤 광장의 인기 페이스트리 전문점.', 'Popular pastry shop on Plateia Kallergon.', { reviewCount: 655 }),
   place('heraklion-cafe-1', 'heraklion', 'cafe', 'Crumb Cafe', 4.5, 'Heraklion, Greece', '비건·글루텐프리 옵션을 갖춘 이라클리오의 브런치 카페', 'Heraklion brunch café with vegan and gluten-free options'),
   place('heraklion-cafe-2', 'heraklion', 'cafe', 'Utopia Cafe', 4.5, 'Chandakos 51, Heraklion 71202', '초콜릿과 다양한 맥주 셀렉션으로 유명한 카페.', 'Café known for its chocolate selection and diverse beer menu.', { reviewCount: 2800 }),
 
@@ -41,13 +44,21 @@ export const placesGRExtra: Place[] = [
   place('mykonos-fine_dining-2', 'mykonos', 'fine_dining', 'Baboulas Ouzeri', 4.8, 'Old Port, Mykonos Town 84600', '미코노스 구항구의 가족 운영 그리스 해산물 레스토랑.', 'Family-run Greek seafood restaurant at the Old Port of Mykonos.', { reviewCount: 2781 }),
   place('mykonos-fine_dining-3', 'mykonos', 'fine_dining', 'Karavaki', 4.7, 'Agios Eleftherios, Vencia Boutique Hotel, Mykonos Town 84600', '미코노스 타운 전경이 내려다보이는 테라스 레스토랑.', 'Restaurant with a terrace overlooking Mykonos Town.', { reviewCount: 1482 }),
   place('mykonos-bakery-1', 'mykonos', 'bakery', 'Il Forno di Gerasimo', 4.4, 'Ignatiou Basoula 21, Mykonos 846 00, Greece', '미코노스 초라에서 24시간 운영하는 베이커리 겸 카페', '24-hour bakery and café in Mykonos\'s Chora district'),
+  place('mykonos-bakery-2', 'mykonos', 'bakery', 'Anamnisis Mykonos Pastry Shop', 4.9, 'Agiou Vlasiou, Mykonos 846 00', '미코노스에서 평점이 매우 높은 제과점.', 'Highly rated pastry shop in Mykonos.', { reviewCount: 383 }),
+  place('mykonos-bakery-3', 'mykonos', 'bakery', 'Gioras Wood Medieval Mykonian Bakery', 4.6, 'Agiou Efthimiou, Mykonos 846 00', '전통 장작 화덕으로 유명한 미코노스의 베이커리.', 'Mykonos bakery known for its traditional wood-fired oven.', { reviewCount: 720 }),
+  place('mykonos-bakery-4', 'mykonos', 'bakery', 'Bakery Psilos', 4.7, 'Kalogera 31, Mykonos 846 00', '초라 중심가의 인기 베이커리.', 'Popular bakery in central Chora.', { reviewCount: 162 }),
   place('mykonos-cafe-1', 'mykonos', 'cafe', 'Kastro\'s Restaurant', 4.5, 'Agion Anargyron 1, Little Venice, Mykonos 846 00, Greece', '리틀 베니스의 바다 전망 테라스로 유명한 미코노스의 카페 겸 레스토랑', 'Mykonos café-restaurant in Little Venice famous for its seaside terrace views'),
+  place('mykonos-cafe-2', 'mykonos', 'cafe', 'SiaMo Cafe', 5.0, 'Riga Feraiou & Papachrantou corner, Mykonos 846 00', '미코노스에서 평점이 매우 높은 커피숍.', 'Highly rated coffee shop in Mykonos.', { reviewCount: 1062 }),
+  place('mykonos-cafe-3', 'mykonos', 'cafe', 'Cafe Vero', 4.9, 'Kaminaki, Mykonos 846 00', '높은 평점의 미코노스 커피숍.', 'Highly rated coffee shop in Mykonos.', { reviewCount: 291 }),
+  place('mykonos-cafe-4', 'mykonos', 'cafe', 'Feel Good Cafe', 4.7, 'Eparchiaki Odos Mikonou Argyrania, Mykonos 846 00', '아르기라이나 지역의 인기 카페.', 'Popular café in the Argyraina area.', { reviewCount: 411 }),
 
   // —— rhodes ——
   place('rhodes-fine_dining-1', 'rhodes', 'fine_dining', 'Marco Polo Mansion', 4.6, 'Agiou Fanouriou 40-42, Rhodes 85100', '구시가의 인기 레스토랑.', 'Popular restaurant in the Old Town.'),
   place('rhodes-fine_dining-2', 'rhodes', 'fine_dining', 'Alexis 4 Seasons', 4.5, 'Old Town, Rhodes 85100', '로도스 구시가의 아늑한 안뜰 해산물 레스토랑.', 'Seafood restaurant with a charming courtyard in the Old Town of Rhodes.', { reviewCount: 907 }),
   place('rhodes-fine_dining-3', 'rhodes', 'fine_dining', 'Romeo Restaurant', 4.6, '7-9 Menekleous St, Old Town, Rhodes', '중세 도시 한가운데의 그리스·지중해 요리 레스토랑, 라이브 음악 공연.', 'Greek-Mediterranean restaurant in the heart of the Medieval City, with live music.'),
   place('rhodes-bakery-1', 'rhodes', 'bakery', 'Stani Bakery & Pastry Shop', 4.5, 'Agias Anastasias 28, Rodos 851 00, Greece', '로도스의 인기 베이커리 겸 페이스트리 숍', 'Popular bakery and pastry shop in Rhodes'),
+  place('rhodes-bakery-2', 'rhodes', 'bakery', 'Fournariko Bakery', 4.6, 'Sokratous, Old Town, Rhodes 851 00', '중세 구시가 옛 시장통의 24시간 전통 베이커리, 장작 화덕으로 구운 빵과 파이.', 'Traditional 24-hour bakery in the Old Market of the medieval town, with wood-fired breads and pies.'),
+  place('rhodes-bakery-3', 'rhodes', 'bakery', 'Old Town Corner Bakery Shop', 4.5, 'Old Town, Rhodes 851 00', '갓 구운 케이크와 브리오슈 번, 커피로 유명한 구시가 중심의 베이커리 카페.', 'Old Town bakery-café known for freshly made cakes, brioche buns and coffee.'),
   place('rhodes-cafe-1', 'rhodes', 'cafe', 'Bon Bonheur', 4.5, 'Agias Anastasias & Paleon Patron Germanou, Rodos 851 00, Greece', '도넛과 와플, 샌드위치로 유명한 로도스의 아침식사 카페', 'Rhodes breakfast café known for donuts, waffles and sandwiches'),
   place('rhodes-cafe-2', 'rhodes', 'cafe', 'Monk Coffee / The Pure Roasters', 4.9, 'Ethnarchou Makariou 14, Rodos 85131', '로도스 최고 수준의 스페셜티 커피 로스터리.', "One of Rhodes's top specialty coffee roasteries.", { reviewCount: 936 }),
 
@@ -56,6 +67,8 @@ export const placesGRExtra: Place[] = [
   place('thessaloniki-fine_dining-2', 'thessaloniki', 'fine_dining', 'Massalia', 4.5, '6 Manousogiannaki Emmanouil St & 23 Filikis Etaireias St, Thessaloniki 54621', '넉넉한 양과 합리적인 가격으로 호평받는 그리스 요리 레스토랑.', 'Greek restaurant praised for generous portions and reasonable prices.', { reviewCount: 2710 }),
   place('thessaloniki-fine_dining-3', 'thessaloniki', 'fine_dining', 'Omikron', 4.6, 'Ladadika district, Thessaloniki', '프랑스에서 요리를 배운 셰프의 그리스·지중해 요리 레스토랑, 10여 개 테이블의 아담한 공간.', 'Intimate Greek-Mediterranean restaurant with only about ten tables, run by a France-trained chef.'),
   place('thessaloniki-bakery-1', 'thessaloniki', 'bakery', 'Bougatsa Bantis', 4.6, 'Panagias Faneromenis 33, 546 32 Thessaloniki, Greece', '부가차의 명소로 꼽히는 테살로니키의 전통 제과점', 'Thessaloniki institution famous for its bougatsa pastry'),
+  place('thessaloniki-bakery-2', 'thessaloniki', 'bakery', 'Terkenlis', 4.5, 'Tsimiski 30 & Aristotelous, Thessaloniki 546 36', '1948년 창업한 테살로니키의 대표 제과점, 초콜릿 추레키로 전국적으로 유명.', "Thessaloniki's flagship patisserie since 1948, nationally famous for its chocolate tsoureki.", { reviewCount: 900 }),
+  place('thessaloniki-bakery-3', 'thessaloniki', 'bakery', 'Trigona Elenidi', 4.6, 'Dimitriou Gounari 13, Thessaloniki 546 22', '소아시아 난민의 레시피에서 시작된 트리고나 파노라마토스(크림 채운 필로 삼각과자) 전문점.', 'Specialist in trigona panoramatos — syrup-soaked phyllo triangles filled with custard, from a recipe brought by Asia Minor refugees.', { reviewCount: 1200 }),
   place('thessaloniki-cafe-1', 'thessaloniki', 'cafe', 'Blé Taste Gallery', 4.6, 'P. Mela 37, 546 22 Thessaloniki, Greece', '고급 페이스트리와 수제 아이스크림으로 유명한 테살로니키의 카페', 'Thessaloniki café known for refined pastries and handmade ice cream'),
   place('thessaloniki-cafe-2', 'thessaloniki', 'cafe', 'Father Coffee & Vinyl', 4.7, 'Paleon Patron Germanou 17, Thessaloniki 54622', '2020년 문을 연 커피숍 겸 바이닐 레코드숍.', 'Coffee shop with an upstairs vinyl record store, established in 2020.'),
   place('thessaloniki-korean-1', 'thessaloniki', 'korean', 'Moonkiz Café', 5.0, 'Geor. Stavrou 8, Thessaloniki 54623', '테살로니키 최초의 한국풍 카페, 버블티와 한국식 핫도그로 유명.', "Thessaloniki's first Korean-style café, known for boba milk tea and Korean corn dogs.", { reviewCount: 4 }),
@@ -64,6 +77,8 @@ export const placesGRExtra: Place[] = [
   place('corfu-fine_dining-1', 'corfu', 'fine_dining', 'The Venetian Well', 4.6, '1 Lilli Desylla Square, Kerkyra 49100', '구시가 광장의 분위기 있는 레스토랑.', 'Atmospheric restaurant on the Old Town square.'),
   place('corfu-fine_dining-2', 'corfu', 'fine_dining', 'Rex Restaurant', 4.1, 'Kapodistriou 66, Kerkyra 49100', '1932년부터 이어온 리스톤 인근의 케르키라 요리 레스토랑.', 'Corfiot cuisine restaurant near the Liston, operating since 1932.'),
   place('corfu-bakery-1', 'corfu', 'bakery', 'Starenio Bakery', 4.6, 'Themistokleous Kotardou 42, 491 00 Kerkyra, Greece', '1994년부터 이어온 케르키라 시청 광장의 베이커리', 'Corfu Town Hall Square bakery serving delightful treats since 1994'),
+  place('corfu-bakery-2', 'corfu', 'bakery', 'Panetteria', 4.7, 'Old Town, Kerkyra 491 00', '구시가의 좁은 골목에 자리한, 코르푸 최고로 꼽히는 베이커리 — 샌드위치와 페이스트리로 유명.', "Institution in a narrow Old Town alley, widely called Corfu's best bakery, known for sandwiches and pastries.", { reviewCount: 15 }),
+  place('corfu-bakery-3', 'corfu', 'bakery', "Rosy's Bakery", 4.6, 'Paleologou 71, Kerkyra 491 00', '30여 종의 바클라바를 갖춘 구시가의 작은 비건 베이커리.', 'Tiny all-vegan bakery in the Old Town with some 30 kinds of baklava.'),
   place('corfu-cafe-1', 'corfu', 'cafe', 'Bristol Café', 4.4, 'Kapodistriou Street, 491 00 Kerkyra, Greece', '베네치아 양식 건물에 자리한 케르키라 구시가지의 레트로 카페', 'Retro café in a Venetian building in Corfu\'s old town'),
   place('corfu-cafe-2', 'corfu', 'cafe', 'Cafetierra', 4.8, 'Kapodistriou 8, Kerkyra 49100', '항구 인근의 자가 로스팅 에스프레소 바.', 'Self-roasting espresso bar near the harbor.'),
 
@@ -72,6 +87,7 @@ export const placesGRExtra: Place[] = [
   place('nafplio-fine_dining-2', 'nafplio', 'fine_dining', 'Karima Kastro', 4.6, 'Papanikolaou 32, Nafplio 21100', '나프플리오 구시가의 그리스·지중해 요리 레스토랑.', 'Greek-Mediterranean restaurant in the Old Town of Nafplio.'),
 
   place('nafplio-bakery-1', 'nafplio', 'bakery', 'Kosmos Bakery', 4.5, 'Nafplio, 211 00, Greece', '빵과 디저트, 아이스크림을 두루 갖춘 나프플리오 초입의 베이커리', 'Bakery at the entrance of Nafplio offering pastries, breads and desserts'),
+  place('nafplio-bakery-2', 'nafplio', 'bakery', 'Central Bakery Old Town', 4.5, 'Leof. Vasilisis Amalias 19, Nafplio 211 00', '아침식사와 페이스트리로 인기 있는 나프플리오 구시가의 베이커리 카페.', 'Old Town bakery-café in Nafplio popular for breakfast and pastries.'),
   place('nafplio-cafe-1', 'nafplio', 'cafe', 'Sokaki Cafe', 4.4, 'Plateia Syndagmatos 3, 211 00 Nafplio, Greece', '신타그마 광장에 위치한 나프플리오의 카페', 'Nafplio café on Constitution Square'),
   place('nafplio-cafe-2', 'nafplio', 'cafe', 'Coffee Style', 5.0, 'Bouboulinas 81 & Othonos, Nafplio 21100', '나프플리오의 인기 커피숍, 아침부터 자정까지 운영.', 'Popular coffee shop in Nafplio, open from morning until midnight.'),
 ]
