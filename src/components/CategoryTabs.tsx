@@ -1,8 +1,8 @@
 import { CATEGORIES, type CategoryId } from '../types'
 import { useLanguage } from '../contexts/LanguageContext'
 
-const ROW1: CategoryId[] = ['fine_dining', 'korean', 'asian', 'cafe']
-const ROW2: CategoryId[] = ['bakery', 'fashion', 'grocery']
+const ROW1: CategoryId[] = ['fine_dining', 'korean']
+const ROW2: CategoryId[] = ['cafe', 'bakery']
 
 export function CategoryTabs({
   value,
