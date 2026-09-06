@@ -5889,6 +5889,13 @@ export const cities: City[] = [
         description: { ko: "수백 장의 작은 사진으로 만든 '키스' 포토모자이크 벽화입니다.", en: "\"The world is born in every kiss\" — a photomosaic of two lips made of hundreds of tiny photos." },
         image: "/highlights/barcelona-22.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=El%20m%C3%B3n%20neix%20en%20cada%20bes%20Barcelona",
+      },
+      {
+        id: "barcelona-h23",
+        name: { ko: "옛 세관 건물", en: "Old Customs House" },
+        description: { ko: "포르트 벨 앞, 그리핀 조각으로 장식된 19세기 세관 건물입니다.", en: "Griffin-topped 19th-century customs house by Port Vell." },
+        image: "/highlights/barcelona-23.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Antiga%20Duana%20de%20Barcelona",
       }
 ],
   },
