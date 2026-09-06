@@ -21,6 +21,9 @@ export const placesSEExtra: Place[] = [
   place('malmo-fine_dining-2', 'malmo', 'fine_dining', 'Atmosfär', 4.9, 'Fersens Väg 4, Malmö', '모던 스칸디나비안.', 'Modern Scandinavian.', { reviewCount: 2723 }),
   place('malmo-fine_dining-3', 'malmo', 'fine_dining', 'Bastard', 4.7, 'Mäster Johansgatan 11, 211 21 Malmö', '와인바 다이닝, 빕 구르망.', 'Wine-bar dining, Bib Gourmand.', { reviewCount: 322 }),
   place('malmo-fine_dining-4', 'malmo', 'fine_dining', 'Lyran', 4.7, 'Simrishamnsgatan 36A, Malmö', '지하 셀러 다이닝.', 'Cellar dining.', { reviewCount: 819 }),
+  place('malmo-bakery-1', 'malmo', 'bakery', 'Hollandia', 4.4, 'Södra Förstadsgatan 8, 211 43 Malmö', '1903년 문을 연 말뫼에서 가장 오래된 콘디토리, 프린세스토르타로 유명.', "Malmö's oldest konditori, opened 1903, famous for its princess cake.", { reviewCount: 1600 }),
+  place('malmo-bakery-2', 'malmo', 'bakery', 'St Jakobs Stenugnsbageri', 4.5, 'Malmö, Sweden', '카르다몸 번과 계절 특선으로 유명한, 시내에 여러 지점을 둔 장작 화덕 베이커리.', 'Wood-fired bakery with several city locations, known for cardamom buns and seasonal specials.'),
+  place('malmo-bakery-3', 'malmo', 'bakery', 'Söderberg & Sara', 4.4, 'Malmö, Sweden', '사워도우 빵과 카르다몸 번, 장작 화덕 피자로 유명한 베이커리.', 'Bakery known for sourdough breads, cardamom buns and wood-fired pizza.'),
   place('malmo-cafe-1', 'malmo', 'cafe', 'Solde Coffee', 4.5, 'Hantverkaregatan 12, 211 55 Malmö', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1200 }),
   place('malmo-cafe-2', 'malmo', 'cafe', 'Far i Hatten', 4.3, 'Amiralsgatan 35, Folkets Park, 214 37 Malmö', '공원 안 레스토랑·카페.', 'Restaurant-café in Folkets Park.', { reviewCount: 1400 }),
   place('malmo-cafe-3', 'malmo', 'cafe', 'Lilla Kafferosteriet', 4.1, 'Baltzarsgatan 24A, Malmö', '커피 로스터리.', 'Coffee roastery.', { reviewCount: 10 }),
@@ -32,6 +35,9 @@ export const placesSEExtra: Place[] = [
   place('uppsala-bakery-1', 'uppsala', 'bakery', 'Ofvandahls', 4.2, 'Sysslomansgatan 5, 753 11 Uppsala', '1878년 개업 전통 콘디토리.', 'Classic konditori since 1878.', { reviewCount: 940 }),
   place('uppsala-bakery-2', 'uppsala', 'bakery', 'Güntherska Hovkonditori', 5.0, 'Östra Ågatan 31, Uppsala', '전통 스위스풍 콘디토리.', 'Traditional Swiss-style konditori.'),
   place('uppsala-cafe-1', 'uppsala', 'cafe', 'Ofvandahls', 4.2, 'Sysslomansgatan 5, 753 11 Uppsala', '전통 카페.', 'Traditional café.', { reviewCount: 940 }),
+  place('uppsala-cafe-2', 'uppsala', 'cafe', 'Kafferummet Storken', 4.4, 'Stortorget, 753 20 Uppsala', '1989년부터 이어온 스토르토리에트의 아늑한 카페.', 'Cosy café on Stortorget, going since 1989.'),
+  place('uppsala-cafe-3', 'uppsala', 'cafe', 'Stationen', 4.3, 'Uppsala, Sweden', '우플란드 최고의 에스프레소로 꼽히는 카페 겸 브라스리.', "Café-brasserie regarded for possibly Uppsala's best espresso."),
+  place('uppsala-cafe-4', 'uppsala', 'cafe', 'Broströms Kafé Godsmagasinet', 4.4, 'Uppsala, Sweden', '웁살라 커피 로스터리의 원두를 쓰는 아늑한 카페.', 'Cosy café serving beans from Uppsala Kafferosteriet.'),
 
   // —— kiruna ——
   place('kiruna-fine_dining-1', 'kiruna', 'fine_dining', 'Icehotel Restaurant (The Veranda)', 5.0, 'Marknadsvägen 63, 981 91 Jukkasjärvi', '아이스호텔 다이닝.', 'Icehotel dining.'),
