@@ -740,7 +740,9 @@ button.back-link {
 }
 
 .place-card {
-  display: block;
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
   padding: 14px;
   border-radius: 16px;
   background: #fff;
@@ -753,11 +755,76 @@ button.back-link {
   box-shadow: 0 10px 24px rgba(20, 17, 15, 0.1);
 }
 
+.place-card-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.place-card-media {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.place-thumb {
+  width: 104px;
+  height: 104px;
+  border-radius: 12px;
+  object-fit: cover;
+  display: block;
+  background: #efeae3;
+  border: 1px solid var(--line);
+}
+
+.place-thumb-ph {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 8px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.place-thumb-glyph {
+  font-size: 26px;
+  line-height: 1;
+}
+
+.place-thumb-name {
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 1.2;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 360px) {
+  .place-thumb {
+    width: 84px;
+    height: 84px;
+  }
+}
+
 .place-card .row {
   display: flex;
   justify-content: space-between;
   gap: 10px;
   align-items: flex-start;
+}
+
+.place-detail-media {
+  margin-top: 12px;
+}
+
+.place-detail-media .place-thumb {
+  width: 140px;
+  height: 140px;
 }
 
 .place-card h3 {

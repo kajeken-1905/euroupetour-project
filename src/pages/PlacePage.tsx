@@ -4,6 +4,7 @@ import { getPlace } from '../data/places'
 import { getCity } from '../data/cities'
 import { getCountry } from '../data/countries'
 import { RatingStars } from '../components/RatingStars'
+import { PlaceThumb } from '../components/PlaceThumb'
 import { MapLinks } from '../components/MapLinks'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
@@ -65,6 +66,9 @@ export function PlacePage() {
             {place.reviewCount.toLocaleString()} {t('reviews', lang)}
           </p>
         ) : null}
+        <div className="place-detail-media">
+          <PlaceThumb place={place} size={140} />
+        </div>
         <p className="desc" style={{ marginTop: 12 }}>
           {place.description[lang]}
         </p>

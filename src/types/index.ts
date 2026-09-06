@@ -111,6 +111,11 @@ export interface Place {
   lat?: number
   lng?: number
   priceLevel?: string
+  /**
+   * Optional signature-dish / storefront photo. When unset, the UI looks for
+   * `/places/<id>.jpg` and otherwise shows a category placeholder tile.
+   */
+  image?: string
 }
 
 export const CATEGORIES: {
