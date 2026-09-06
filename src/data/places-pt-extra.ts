@@ -123,9 +123,12 @@ export const placesPTExtra: Place[] = [
   // —— evora ——
   place('evora-fine_dining-1', 'evora', 'fine_dining', 'Origens Restaurant', 4.6, 'Rua de Burgos 10, 7000-863 Évora', '에보라 최고 평가 레스토랑.', 'Évora\'s top-rated restaurant.'),
   place('evora-fine_dining-2', 'evora', 'fine_dining', 'Restaurante Fialho', 4.4, 'Travessa das Mascarenhas 14, 7000-557 Évora', '1945년 창업, 3대째 이어오는 에보라의 상징적인 알렌테주 요리 전문점.', "Founded in 1945 and now run by the third generation, this Évora institution is a benchmark for Alentejo cuisine.", { reviewCount: 5496 }),
+  place('evora-fine_dining-3', 'evora', 'fine_dining', 'Botequim da Mouraria', 4.6, 'Rua da Mouraria 16A, 7000-585 Évora', '12석 카운터만 있는 무어인 지구의 작은 알렌테주 요리 식당, 예약 불가, 평일 점심만 영업.', 'Tiny 12-seat counter in the Moorish quarter serving Alentejo cuisine; no reservations, weekday lunch only.', { reviewCount: 900 }),
+  place('evora-fine_dining-4', 'evora', 'fine_dining', 'Dom Joaquim', 4.4, 'Évora, Portugal', '미슐랭의 주목을 받은 에보라의 알렌테주 요리 명소, 구운 양고기와 제철 사냥 요리로 유명.', 'Évora institution noted by Michelin for its Alentejo cooking — roast lamb and seasonal game.', { reviewCount: 1500 }),
   place('evora-bakery-1', 'evora', 'bakery', 'Pastelaria Conventual Pão de Rala', 4.6, 'Rua do Cicioso 47, 7000-658 Évora, Portugal', '대를 이어 운영되는 에보라의 수도원식 전통 디저트 전문점', 'Family-run Évora bakery specializing in traditional convent-style regional sweets'),
   place('evora-bakery-2', 'evora', 'bakery', 'The Bakery Lounge', 4.3, 'R. de Burgos 6, 7000-863 Évora', '갓 구운 크루아상과 홈메이드 잼으로 인기 있는 에보라의 베이커리 카페.', "Évora bakery café popular for its fresh croissants and homemade jam."),
   place('evora-cafe-1', 'evora', 'cafe', 'Do Largo', 4.5, 'Largo d\'Alvaro Velho 5, 7000-799 Évora, Portugal', '유기농 허브 농장과 연계된 에보라의 낮 카페, 좋은 와인도 함께', 'Daytime Évora cafe connected to an organic herb farm, also known for quality wine'),
+  place('evora-cafe-2', 'evora', 'cafe', 'Passion Café', 4.4, 'Évora, Portugal', '아늑한 분위기와 푸짐한 점심으로 알려진 에보라 구시가의 카페.', 'Cosy café in the Évora old town known for hearty lunches.'),
 
   // —— obidos ——
   place('obidos-fine_dining-1', 'obidos', 'fine_dining', '41 Restaurante', 4.6, 'Rua Direita Nº41, 2510-001 Óbidos', '오비두스 최고 평가 레스토랑.', 'Widely regarded as Óbidos\' best restaurant.'),
@@ -136,8 +139,11 @@ export const placesPTExtra: Place[] = [
   // —— braga ——
   place('braga-fine_dining-1', 'braga', 'fine_dining', 'Le Brito\'s', 4.5, 'Praça Mouzinho de Albuquerque 49, 4710-301 Braga', '그릴 요리 전문 레스토랑.', 'Restaurant specializing in grilled dishes.'),
   place('braga-fine_dining-2', 'braga', 'fine_dining', 'Cozinha da Sé', 4.5, 'Rua D. Frei Caetano Brandão 129, 4700-031 Braga', '브라가 대성당 바로 옆에 위치한 모던 포르투갈 요리 레스토랑.', "Modern Portuguese restaurant located right next to Braga Cathedral."),
+  place('braga-fine_dining-3', 'braga', 'fine_dining', 'Restaurante Cruz Sobral', 4.5, 'Campo das Hortas 7-8, 4700-210 Braga', '1926년부터 캄푸 다스 오르타스에서 장작 화덕으로 미뉴 지방 전통 요리를 선보이는 가족 운영 레스토랑.', 'Family-run restaurant serving wood-fired Minho cuisine at Campo das Hortas since 1926.', { reviewCount: 1100 }),
+  place('braga-fine_dining-4', 'braga', 'fine_dining', 'Félix Taberna', 4.4, 'Largo da Praça Velha 18, 4700-435 Braga', '골동품으로 꾸민 향수 어린 분위기의 미뉴 전통 요리 타베르나.', 'Minho-cuisine tavern with a nostalgic, antique-filled interior.', { reviewCount: 1500 }),
 
   place('braga-bakery-1', 'braga', 'bakery', 'Pastelaria Ferreira Capa', 4.5, 'R. dos Capelistas 45, 4700-307 Braga, Portugal', '거의 100년 역사를 지닌 브라가의 전통 제과점 겸 티룸', 'Braga bakery and tea room with nearly a century of history'),
+  place('braga-bakery-2', 'braga', 'bakery', 'Frigideiras do Cantinho', 4.4, 'Largo São João do Souto 1, 4700-326 Braga', '1796년부터 이어진 브라가에서 가장 오래된 카페 겸 제과점, 프리지데이라(고기 파이)로 유명.', "Braga's oldest café-bakery, in business since 1796, famed for its frigideiras (meat pies).", { reviewCount: 1300 }),
   place('braga-cafe-1', 'braga', 'cafe', 'Nordico Coffee Shop', 4.7, 'Rua do Anjo 90A, 4700-305 Braga, Portugal', '북유럽풍 인테리어의 브라가 스페셜티 커피 & 브런치 카페', 'Scandinavian-inspired Braga specialty coffee and brunch shop'),
   place('braga-cafe-2', 'braga', 'cafe', 'Café A Brasileira', 4.0, 'Largo do Barão de São Martinho, 4700-306 Braga', '1907년 문을 연 브라가에서 가장 유서 깊은 카페.', "Braga's most storied café, opened in 1907.", { reviewCount: 900 }),
 
@@ -150,6 +156,8 @@ export const placesPTExtra: Place[] = [
   // —— guimaraes ——
   place('guimaraes-fine_dining-1', 'guimaraes', 'fine_dining', 'A Cozinha por António Loureiro', 4.6, 'Rua de Couros 20, 4810-225 Guimarães', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
   place('guimaraes-fine_dining-2', 'guimaraes', 'fine_dining', 'Taberna Trovador', 4.5, 'Largo do Trovador 10, 4810-451 Guimarães', '기마랑이스 구시가의 인기 프티스코스(타파스) 전문 타스카.', 'Popular petiscos (Portuguese tapas) tavern in Guimarães Old Town.', { reviewCount: 1250 }),
+  place('guimaraes-fine_dining-3', 'guimaraes', 'fine_dining', 'Le Babachris', 4.5, 'Rua de Valdonas 6, 4800-421 Guimarães', '프랑스인 셰프 크리스티앙 룰랑이 이끄는 미슐랭 빕 구르망 비스트로, 옛 성벽 일부가 보존된 건물.', 'Michelin Bib Gourmand bistro by French chef Christian Rullan, in a building preserving part of the old city wall.', { reviewCount: 600 }),
+  place('guimaraes-fine_dining-4', 'guimaraes', 'fine_dining', 'Cor de Tangerina', 4.4, 'Largo Martins Sarmento 89, 4800-432 Guimarães', '2006년 문을 연 유기농·채식 협동조합 레스토랑.', 'Organic vegetarian cooperative restaurant, opened 2006.', { reviewCount: 700 }),
 
   place('guimaraes-bakery-1', 'guimaraes', 'bakery', 'Pastelaria Clarinha', 4.4, 'Largo do Toural 86/88, 4810-427 Guimarães, Portugal', '기마랑이스 명물 토르타 데 기마랑이스로 유명한 전통 제과점', 'Classic Guimarães bakery famous for its signature Tortas de Guimarães'),
   place('guimaraes-bakery-2', 'guimaraes', 'bakery', 'Casa Costinhas', 4.7, 'Rua de Santa Maria 68, 4800-675 Guimarães', '기마랑이스 구시가의 전통 제과점, 토르타 데 기마랑이스 전문.', "Traditional pastry shop in Guimarães Old Town, specializing in Torta de Guimarães."),
