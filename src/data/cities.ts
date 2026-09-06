@@ -5833,6 +5833,13 @@ export const cities: City[] = [
         description: { ko: "가우디가 지은 첫 주택, 타일 파사드가 특징입니다.", en: "Gaudí's first house, with a tiled façade." },
         image: "/highlights/barcelona-14.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Casa%20Vicens%20Barcelona",
+      },
+      {
+        id: "barcelona-h15",
+        name: { ko: "바르셀로나 대성당", en: "Barcelona Cathedral" },
+        description: { ko: "고딕 지구 한복판의 14세기 대성당입니다.", en: "14th-century Gothic cathedral at the heart of the Barri Gòtic." },
+        image: "/highlights/barcelona-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Barcelona",
       }
 ],
   },
