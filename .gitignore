@@ -30,3 +30,6 @@ __pycache__/
 *.sw?
 
 scripts/highlight_fetch_*.txt
+
+# Local staging for place photos (not deployed)
+photos-inbox/
