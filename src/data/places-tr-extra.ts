@@ -19,18 +19,34 @@ export const placesTRExtra: Place[] = [
 
   // —— ankara ——
   place('ankara-fine_dining-1', 'ankara', 'fine_dining', 'La Gioia', 4.5, 'Arjantin Caddesi, Attar Sk. No:6, Gaziosmanpaşa, 06700 Ankara, Turkey', '가지오스만파샤에 위치한 고급 이탈리안 유러피언 레스토랑', 'Upscale Italian and European restaurant in the Gaziosmanpaşa district'),
+  place('ankara-fine_dining-2', 'ankara', 'fine_dining', 'Trilye', 4.5, 'Kavaklıdere, Hafta Sk. No:11, 06700 Çankaya/Ankara', '앙카라 최고의 해산물 파인다이닝으로 꼽히는 레스토랑, 안뜰 정원이 유명.', "Widely regarded as Ankara's best seafood fine-dining restaurant, known for its courtyard garden.", { reviewCount: 3100 }),
+  place('ankara-fine_dining-3', 'ankara', 'fine_dining', 'Çengelhan Brasserie', 4.4, 'Çengelhan Rahmi M. Koç Müzesi, Sutepe, 06250 Altındağ/Ankara', '1523년 캐러밴서라이를 개조한 앙카라 성채의 브라스리, 자동차·복엽기 전시 사이에서 식사.', 'Brasserie in a 1523 caravanserai by the Ankara Citadel, dining among displays of vintage cars and biplanes.', { reviewCount: 2400 }),
   place('ankara-bakery-1', 'ankara', 'bakery', 'Hatun Pastanesi', 4.5, 'Nene Hatun Cd. No:28B, Çankaya, 06690 Ankara, Turkey', '30년 넘는 전통을 이어온 앙카라의 인기 제과점, 정성스러운 터키 전통 디저트로 유명', 'Ankara bakery with over 30 years of history, known for its time-honored Turkish pastries'),
+  place('ankara-bakery-2', 'ankara', 'bakery', 'Cafe Des Cafe', 4.4, 'Kavaklıdere, Tunalı Hilmi Cd. No:83/A, 06680 Çankaya/Ankara', '프로피테롤과 디저트로 유명한 투날르 힐미의 카페 겸 파티스리.', 'Tunalı Hilmi café-patisserie known for its profiteroles and desserts.'),
   place('ankara-cafe-1', 'ankara', 'cafe', 'Guzu Coffee', 4.6, '36/A, 06540 Çankaya/Ankara, Turkey', '환상적인 피스타치오 치즈케이크로 유명한 앙카라의 카페', 'Ankara cafe known for its spectacular creamy pistachio cheesecake'),
+  place('ankara-cafe-2', 'ankara', 'cafe', 'PROD', 4.6, 'Kavaklıdere, John F. Kennedy Cd. No:31, 06680 Çankaya/Ankara', '서드웨이브 커피를 표방하는 카바클르데레의 커피 아틀리에.', 'Third-wave coffee atelier in Kavaklıdere.'),
+  place('ankara-cafe-3', 'ankara', 'cafe', 'Kakule Kahve', 4.5, 'Kavaklıdere, Kızılırmak Cd. No:17, 06680 Çankaya/Ankara', '카바클르데레의 인기 스페셜티 커피숍.', 'Popular specialty coffee shop in Kavaklıdere.'),
 
   // —— izmir ——
   place('izmir-fine_dining-1', 'izmir', 'fine_dining', 'Etçi Ahmet', 4.6, 'Cemal Bülbül Sk. 15/A, 35590 Karşıyaka/İzmir, Turkey', '특별한 날을 위한 최고급 스테이크와 정통 요리로 유명한 카르시야카의 레스토랑', 'High-quality restaurant in Karşıyaka known for premium steaks, a favorite for special occasions'),
+  place('izmir-fine_dining-2', 'izmir', 'fine_dining', 'Deniz Restaurant', 4.5, 'Atatürk Cd. No:188/B, Alsancak, 35220 Konak/İzmir', '1981년부터 이어온 알산작 해변가의 해산물·메제 레스토랑.', 'Seafood-and-meze restaurant on the Alsancak seafront, established 1981.', { reviewCount: 3500 }),
+  place('izmir-fine_dining-3', 'izmir', 'fine_dining', 'North Pier', 4.4, 'Konak Pier, Atatürk Cd. No:19, Alsancak, 35250 Konak/İzmir', '코나크 피어에 자리한 유러피언·터키 퓨전 파인다이닝.', 'European-Turkish fusion fine dining at Konak Pier.', { reviewCount: 900 }),
+  place('izmir-fine_dining-4', 'izmir', 'fine_dining', 'İzmir Sakız Alsancak', 4.4, 'Pasaport, Atatürk Cd., 35210 Konak/İzmir', '파사포르트 부두변의 메이하네 스타일 해산물 레스토랑.', 'Meyhane-style seafood restaurant by the Pasaport pier.', { reviewCount: 2200 }),
   place('izmir-bakery-1', 'izmir', 'bakery', 'Çelebi Unlu Mamuller', 4.5, 'Kültür, 1388. Sk. No:5, 35220 Konak/İzmir, Turkey', '이즈미르 명물 디저트 \'봄바\'로 유명한 제과점, 초콜릿이 흘러나오는 특별한 도우', 'Izmir bakery famous for its signature \'Bomba\' dessert, a dough shell with a liquid chocolate center'),
+  place('izmir-bakery-2', 'izmir', 'bakery', 'Alsancak Dostlar Fırını', 4.4, 'Alsancak, 35220 Konak/İzmir', '이즈미르의 상징 페이스트리 \'보요즈\' 전문 빵집.', "Bakery specialising in boyoz, Izmir's signature pastry."),
+  place('izmir-bakery-3', 'izmir', 'bakery', 'Arpège Patisserie', 4.5, 'Alsancak, 35220 Konak/İzmir', '페이스트리 셰프 메틴 사루한르가 이끄는 이즈미르 중심가의 파티스리.', 'Central Izmir patisserie led by pastry chef Metin Saruhanlı.'),
   place('izmir-cafe-1', 'izmir', 'cafe', 'AWAKE Coffee & Espresso', 4.6, 'Barbaros, Mithatpaşa Cd. 85-87/A, 35260 Konak/İzmir, Turkey', '이즈미르 3세대 커피 문화를 이끈 선구자적인 커피숍', 'Pioneering Izmir coffee shop that helped launch the city\'s third-wave coffee scene'),
+  place('izmir-cafe-2', 'izmir', 'cafe', 'Baristocrat', 4.5, 'Alsancak, 35220 Konak/İzmir', '원두를 직접 수입·로스팅하는 이즈미르의 대표 서드웨이브 로스터리.', 'Izmir third-wave roaster that imports and roasts its own beans.'),
 
   // —— antalya ——
   place('antalya-fine_dining-1', 'antalya', 'fine_dining', 'Seraser Fine Dining Restaurant', 4.6, 'Karanlık Sokak, Kaleiçi, 07100 Antalya, Turkey', '칼레이치 구시가지 보행자 골목에 자리한 안탈리아 최고의 파인다이닝, 감귤나무 그늘의 야외 테라스가 특징', 'Antalya\'s premier fine-dining restaurant on a quiet pedestrian street in the old town of Kaleiçi, with an open-air terrace shaded by citrus trees'),
+  place('antalya-fine_dining-2', 'antalya', 'fine_dining', 'Vanilla Restaurant', 4.6, 'Hesapçı Sk. No:33, Kaleiçi, 07100 Muratpaşa/Antalya', '2007년부터 칼레이치 구시가에서 영국인 셰프가 이끄는 모던 인터내셔널 파인다이닝.', 'British chef-led modern international fine dining in Kaleiçi since 2007.', { reviewCount: 2600 }),
+  place('antalya-fine_dining-3', 'antalya', 'fine_dining', '7 Mehmet', 4.4, 'Atatürk Kültür Parkı No:333, Muratpaşa/Antalya', '1958년부터 이어온 안탈리아의 전통 터키 요리 명소, 트레이 케밥으로 유명.', 'Antalya institution since 1958, known for its tray kebab.', { reviewCount: 5200 }),
+  place('antalya-fine_dining-4', 'antalya', 'fine_dining', 'Arma Restaurant', 4.4, 'Kaleiçi Yat Limanı, 07100 Muratpaşa/Antalya', '구항구 요트항의 지중해 전망 해산물 레스토랑.', 'Seafood restaurant with Mediterranean views at the old-harbour marina.', { reviewCount: 2100 }),
   place('antalya-bakery-1', 'antalya', 'bakery', 'Pikan Fırın', 4.5, 'Fener, Bülent Ecevit Blv. No:40/B, 07160 Muratpaşa/Antalya, Turkey', '신선하고 건강한 빵과 아침 식사로 인기 있는 안탈리아의 베이커리', 'Popular Antalya bakery known for fresh, healthy bread and great breakfast options'),
+  place('antalya-bakery-2', 'antalya', 'bakery', 'Tarihi Balık Pazarı Unlu Mamülleri', 4.4, 'Kaleiçi, 07100 Muratpaşa/Antalya', '칼레이치 옛 어시장 자리의 전통 빵·페이스트리·푸딩 가게.', "Traditional bread, pastry and pudding shop on the site of Kaleiçi's old fish market."),
   place('antalya-cafe-1', 'antalya', 'cafe', 'The Sudd Coffee Kaleiçi', 4.6, 'Kılıçarslan Mah. Hamam Sk. No:27, Muratpaşa, 07100 Antalya, Turkey', '안탈리아 구시가 칼레이치에 위치한 세련된 스페셜티 커피숍', 'Stylish specialty coffee shop in Antalya\'s historic Kaleiçi old town'),
+  place('antalya-cafe-2', 'antalya', 'cafe', 'Arabica Coffee House Kaleiçi', 4.4, 'Kaleiçi, 07100 Muratpaşa/Antalya', '튀르키예 부티크 커피의 선구자 격인 구시가 커피하우스.', 'Old-town coffee house, a pioneer of Turkish boutique coffee.'),
 
   // —— goreme ——
   place('goreme-fine_dining-1', 'goreme', 'fine_dining', 'Dibek Restaurant', 4.5, 'Konak Sokak, 50180 Göreme, Nevşehir, Turkey', '475년 된 전통 가옥에서 튀르키예 전통 좌식 스타일로 식사를 즐길 수 있는 괴레메의 명소', 'Restaurant set inside a 475-year-old building offering traditional Turkish floor seating in Göreme'),
@@ -39,12 +55,18 @@ export const placesTRExtra: Place[] = [
 
   // —— bursa ——
   place('bursa-fine_dining-1', 'bursa', 'fine_dining', 'Da Vittorio Restaurant Italiano', 4.5, 'Çekirge Cd. No:81, Çekirge, 16265 Osmangazi/Bursa, Turkey', '이탈리아 감성의 우아한 인테리어가 돋보이는 부르사의 이탈리안 레스토랑', 'Bursa\'s elegant Italian restaurant with classic decor that transports diners to Italy'),
+  place('bursa-fine_dining-2', 'bursa', 'fine_dining', 'Kebapçı İskender', 4.4, 'Ünlü Cd. No:7, 16010 Osmangazi/Bursa', '이스켄데르 케밥 창시자 가문이 운영하는, 목조 오스만 건물의 레스토랑.', 'Restaurant in a wooden Ottoman building, run by the family that invented İskender kebab.', { reviewCount: 6800 }),
+  place('bursa-fine_dining-3', 'bursa', 'fine_dining', 'Yüce Hünkar', 4.3, 'Kirişçi, 1. Murat Cd. No:5, 16050 Osmangazi/Bursa', '50년 넘게 부르사식 되네르 케밥을 선보여온 레스토랑.', 'Restaurant serving Bursa-style döner kebab for over 50 years.', { reviewCount: 3900 }),
   place('bursa-bakery-1', 'bursa', 'bakery', 'Tarihi İnanç Fırını', 4.6, 'Muradiye, 2. Murat Cd. No:4, 16050 Osmangazi/Bursa, Turkey', '수십 년간 전통 화덕으로 타히닐리 피데를 구워온 부르사의 역사적인 제과점', 'Historic Bursa bakery baking tahinli pide in traditional wood-fired ovens for decades'),
+  place('bursa-bakery-2', 'bursa', 'bakery', 'Kafkas Kestane Şekeri', 4.5, 'Kavaklı, Namazgah Cd., 16010 Osmangazi/Bursa', '부르사 명물 밤 설탕절임(케스타네 셰케리)의 대표 상점.', "The best-known shop for Bursa's signature candied chestnuts (kestane şekeri).", { reviewCount: 700 }),
   place('bursa-cafe-1', 'bursa', 'cafe', 'Mahfel', 4.4, 'Kurtoğlu, Atatürk Cd. No:1, 16360 Yıldırım/Bursa, Turkey', '괵데레 강변, 이르간드 다리 인근의 100년 넘은 역사적인 부르사의 카페', 'Historic Bursa cafe over a century old, by the Gökdere river near the Irgandi Bridge'),
 
   // —— trabzon ——
   place('trabzon-fine_dining-1', 'trabzon', 'fine_dining', 'Cephanelik Restaurant & Cafe', 4.5, 'Boztepe Mahallesi, Cephanelik Mevkii No:89, Ortahisar, 61080 Trabzon, Turkey', '보즈테페 언덕에서 트라브존 전경을 내려다보며 즐기는 파노라마 뷰 레스토랑', 'Restaurant on Boztepe hill offering panoramic views over Trabzon along with exquisite cuisine'),
+  place('trabzon-fine_dining-2', 'trabzon', 'fine_dining', 'Bordo Mavi Balık', 4.4, 'Ortahisar, Trabzon', '흑해 제철 생선과 메제로 유명한 트라브존의 해산물 레스토랑.', 'Trabzon seafood restaurant known for seasonal Black Sea fish and meze.'),
+  place('trabzon-fine_dining-3', 'trabzon', 'fine_dining', 'Cemilusta', 4.3, 'Kalkınma, Devlet Sahil Yolu Cd., Ortahisar/Trabzon', '아크차아바트 쾨프테(미트볼)로 유명한 트라브존의 인기 식당.', 'Popular Trabzon restaurant famous for Akçaabat köfte.', { reviewCount: 1400 }),
   place('trabzon-bakery-1', 'trabzon', 'bakery', 'Zemu Swiss Bakery', 4.5, '3 Nolu Erdoğdu, Manolya Cd. No:47, 61040 Trabzon Merkez/Trabzon, Turkey', '신선한 로컬·인터내셔널 베이커리 제품을 세련되게 선보이는 트라브존의 베이커리', 'Trabzon bakery offering a range of fresh local and international baked goods in a modern setting'),
+  place('trabzon-bakery-2', 'trabzon', 'bakery', 'Huna Bakery', 4.5, 'Ortahisar, Trabzon', '디저트와 커피로 사랑받는 트라브존 중심가의 베이커리 카페.', "City-centre bakery-café loved for its desserts and coffee."),
   place('trabzon-cafe-1', 'trabzon', 'cafe', 'Coffee Shop Company Trabzon', 4.5, 'İskenderpaşa Merkez, Uzun Sk., 61100 Ortahisar/Trabzon, Turkey', '구시장과 신시장을 잇는 중심가에 위치한 트라브존의 인기 커피숍', 'Popular Trabzon coffee shop connecting the old and new markets in the city center'),
 
   // —— pamukkale ——
