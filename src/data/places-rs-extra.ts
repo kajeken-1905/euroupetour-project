@@ -35,6 +35,8 @@ export const placesRSExtra: Place[] = [
   place('nis-bakery-1', 'nis', 'bakery', 'Bakery Anton Plus', 4.5, 'Trg Pavla Stojkovića 17, 18000 Niš, Serbia', '애플롤과 초콜릿 크루아상으로 추천받는 니시의 인기 베이커리', 'Popular Niš bakery recommended for its apple roll and chocolate croissant'),
   place('nis-bakery-2', 'nis', 'bakery', 'Pekara Čair', 4.8, 'Dušana Popovića 16, 18109 Niš, Serbia', '아펠로바츠 지역의 인기 베이커리', 'Popular bakery in the Apelovac district of Niš', { reviewCount: 574 }),
   place('nis-cafe-1', 'nis', 'cafe', 'ART caffe 018', 4.5, 'Dejana Dinića 2A, 18000 Niš, Serbia', '세련된 인테리어와 넓은 주차 공간을 갖춘 니시의 인기 카페', 'Popular Niš cafe with a stylish interior and ample parking'),
+  place('nis-cafe-2', 'nis', 'cafe', 'Biro Kafeterija', 4.5, 'city centre, 18000 Niš, Serbia', '세르비아 스페셜티 커피 가이드에 오른 니시 중심가의 브루하우스.', "Brewhouse in central Niš listed in Serbia's Specialty Coffee Guide."),
+  place('nis-cafe-3', 'nis', 'cafe', 'Stock Coffee', 4.5, 'city centre, 18000 Niš, Serbia', '천장에 커피 자루가 걸린 니시의 모던 스페셜티 커피숍.', 'Modern Niš specialty coffee shop with burlap coffee sacks hanging from the ceiling.'),
 
   // —— subotica ——
   place('subotica-fine_dining-1', 'subotica', 'fine_dining', 'Mali Trg', 4.5, 'Branislava Nušića 4a, 24000 Subotica, Serbia', '세련된 인테리어와 정교한 플레이팅으로 알려진 수보티차의 대표 파인다이닝 레스토랑', 'Subotica\'s leading fine-dining restaurant known for elegant interiors and refined plating'),
@@ -42,5 +44,7 @@ export const placesRSExtra: Place[] = [
   place('subotica-fine_dining-3', 'subotica', 'fine_dining', 'Konoba "Tinel"', 4.8, 'Huga Badalića 14, 24000 Subotica, Serbia', '유러피언·지중해·크로아티아 요리를 선보이는 수보티차의 인기 코노바(선술집) 레스토랑', 'Popular konoba-style restaurant in Subotica serving European, Mediterranean and Croatian cuisine', { reviewCount: 1446 }),
 
   place('subotica-bakery-1', 'subotica', 'bakery', 'Kafe Prića', 4.5, 'Ulica Korzo 9, 24000 Subotica, Serbia', '수보티차 중심가 안뜰에 숨겨진 정통 커피와 디저트 명소', 'Authentic Subotica coffee and dessert spot tucked in a courtyard in the city center'),
+  place('subotica-bakery-2', 'subotica', 'bakery', 'Artos', 4.4, 'Subotica, Serbia', '비건 옵션을 갖춘 수보티차의 베이커리.', 'Subotica bakery with vegan options.'),
   place('subotica-cafe-1', 'subotica', 'cafe', 'Hausbrandt Caffe', 4.5, 'Trg Cara Jovana Nenada 9, 24000 Subotica, Serbia', '아르누보 시청 앞 광장에 위치한 수보티차의 인기 카페, 카푸치노로 유명', 'Popular Subotica cafe facing the Art Nouveau city hall square, known for its cappuccino'),
+  place('subotica-cafe-2', 'subotica', 'cafe', 'Boss Caffe', 4.5, 'Subotica, Serbia', '아르누보풍 입구와 정원이 딸린 수보티차의 카페 겸 베이커리.', 'Subotica café-bakery with an Art Nouveau entrance and a garden.'),
 ]
