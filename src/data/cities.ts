@@ -5762,7 +5762,7 @@ export const cities: City[] = [
         name: { ko: "람블라스", en: "La Rambla" },
         description: { ko: "카페와 시장이 있는 산책로입니다.", en: "Promenade of cafés and markets." },
         image: "/highlights/barcelona-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=La%20Rambla%20Barcelona",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=La%20Rambla%2C%20Barcelona%2C%20Spain",
       },
       {
         id: "barcelona-h5",
