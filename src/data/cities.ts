@@ -5882,6 +5882,13 @@ export const cities: City[] = [
         description: { ko: "고딕 지구 안뜰에 남은 로마 신전 기둥입니다.", en: "Roman temple columns preserved in a Gothic-quarter courtyard." },
         image: "/highlights/barcelona-21.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Temple%20d'August%20Barcelona",
+      },
+      {
+        id: "barcelona-h22",
+        name: { ko: "키스의 벽", en: "The Kiss Mural" },
+        description: { ko: "수백 장의 작은 사진으로 만든 '키스' 포토모자이크 벽화입니다.", en: "\"The world is born in every kiss\" — a photomosaic of two lips made of hundreds of tiny photos." },
+        image: "/highlights/barcelona-22.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=El%20m%C3%B3n%20neix%20en%20cada%20bes%20Barcelona",
       }
 ],
   },
