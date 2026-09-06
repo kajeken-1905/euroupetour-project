@@ -66,9 +66,11 @@ export function PlacePage() {
             {place.reviewCount.toLocaleString()} {t('reviews', lang)}
           </p>
         ) : null}
-        <div className="place-detail-media">
-          <PlaceThumb place={place} size={140} />
-        </div>
+        {place.image ? (
+          <div className="place-detail-media">
+            <PlaceThumb place={place} size={140} />
+          </div>
+        ) : null}
         <p className="desc" style={{ marginTop: 12 }}>
           {place.description[lang]}
         </p>

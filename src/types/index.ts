@@ -112,8 +112,9 @@ export interface Place {
   lng?: number
   priceLevel?: string
   /**
-   * Optional signature-dish / storefront photo. When unset, the UI looks for
-   * `/places/<id>.jpg` and otherwise shows a category placeholder tile.
+   * Optional visited-in-person photo, e.g. `/places/<id>.jpg`. Shown to the
+   * right of the rating on the card and on the detail page. When unset, no
+   * image is shown.
    */
   image?: string
 }
