@@ -7116,6 +7116,13 @@ export const cities: City[] = [
         description: { ko: "동 주앙 1세 기마상이 있는 바이샤의 광장입니다.", en: "Baixa square with the equestrian statue of King João I." },
         image: "/highlights/lisbon-16.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20da%20Figueira",
+      },
+      {
+        id: "lisbon-h17",
+        name: { ko: "카몽이스 광장", en: "Praça Luís de Camões" },
+        description: { ko: "시아두의 시인 카몽이스 동상이 있는 광장입니다.", en: "Chiado square with the statue of poet Luís de Camões." },
+        image: "/highlights/lisbon-17.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20Lu%C3%ADs%20de%20Cam%C3%B5es%20Lisbon",
       }
 ],
   },
