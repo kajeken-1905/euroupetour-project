@@ -4366,6 +4366,13 @@ export const cities: City[] = [
         description: { ko: "알록달록 집의 섬입니다.", en: "Island of colourful houses." },
         image: "/highlights/venice-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Burano%20Venice",
+      },
+      {
+        id: "venice-h6",
+        name: { ko: "베네치아 가면", en: "Venetian Carnival Masks" },
+        description: { ko: "정교하게 장식된 전통 카니발 가면 상점입니다.", en: "Shop window of ornate traditional carnival masks." },
+        image: "/highlights/venice-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Venetian%20mask%20shop",
       }
     ],
   },
