@@ -80,7 +80,7 @@ export const placesITExtra: Place[] = [
   // —— naples ——
   place('naples-fine_dining-1', 'naples', 'fine_dining', 'Palazzo Petrucci', 4.6, 'Via Posillipo 16C, 80123 Napoli', '나폴리 최초의 미쉐린 스타 레스토랑.', 'Naples\' first Michelin-starred restaurant.'),
   place('naples-fine_dining-2', 'naples', 'fine_dining', 'La Notizia 53', 4.4, 'Via Caravaggio Michelangelo 53, 80126 Napoli', '미슐랭 셀렉션에 오른 나폴리 정통 피체리아.', "Michelin-selected pizzeria serving classic Neapolitan pizza.", { reviewCount: 2549 }),
-  place('naples-fine_dining-3', 'naples', 'fine_dining', '50 Kalò', 4.5, 'Piazza Sannazaro 201, 80121 Napoli', '나폴리 최고의 피자 장인 중 한 명이 운영하는 미슐랭 셀렉션 피체리아.', 'Michelin-selected pizzeria run by one of Naples\' most celebrated pizza chefs.', { reviewCount: 17324 }),
+  place('naples-fine_dining-3', 'naples', 'fine_dining', '50 Kalò', 4.5, 'Piazza Sannazaro 201, 80121 Napoli', '나폴리 최고의 피자 장인 중 한 명이 운영하는 미슐랭 셀렉션 피체리아.', 'Michelin-selected pizzeria run by one of Naples\' most celebrated pizza chefs.', { reviewCount: 17324, image: '/places/naples-fine_dining-3.jpg' }),
   place('naples-bakery-1', 'naples', 'bakery', 'Scaturchio', 4.5, 'Piazza San Domenico Maggiore 19, 80134 Napoli, Italy', '1910년부터 이어온 나폴리 구시가지의 유서 깊은 베이커리', 'Historic Naples bakery in the old town dating back to 1910'),
   place('naples-bakery-2', 'naples', 'bakery', 'Sfogliatelle Attanasio', 4.6, 'Vico Ferrovia 1, 80142 Napoli, Italy', '나폴리 중앙역 인근의 명물 스폴리아텔레 전문점.', "Famous sfogliatella specialist near Naples' central station.", { reviewCount: 7726 }),
   place('naples-bakery-3', 'naples', 'bakery', 'Moccia Panificio dal 1936', 4.5, 'Via S. Pasquale 21, 80121 Napoli, Italy', '1936년부터 이어온 나폴리의 제과점.', 'Naples bakery operating since 1936.', { reviewCount: 154 }),

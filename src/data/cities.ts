@@ -4477,6 +4477,13 @@ export const cities: City[] = [
         description: { ko: "해안 산책로입니다.", en: "Seafront promenade." },
         image: "/highlights/naples-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lungomare%20Naples",
+      },
+      {
+        id: "naples-h6",
+        name: { ko: "나폴리 대성당", en: "Naples Cathedral" },
+        description: { ko: "산 젠나로를 모신 고딕 양식 대성당입니다.", en: "Gothic cathedral dedicated to San Gennaro." },
+        image: "/highlights/naples-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Naples%20Cathedral",
       }
     ],
   },
