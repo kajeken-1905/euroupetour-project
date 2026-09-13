@@ -7074,6 +7074,27 @@ export const cities: City[] = [
         description: { ko: "가파른 골목을 오르내리는 노란 케이블카입니다.", en: "Yellow funicular climbing a steep old-town lane." },
         image: "/highlights/lisbon-10.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Elevador%20da%20Bica",
+      },
+      {
+        id: "lisbon-h11",
+        name: { ko: "리스본 대성당", en: "Sé de Lisboa" },
+        description: { ko: "장미창이 있는 로마네스크 요새형 대성당입니다.", en: "Fortress-like Romanesque cathedral with a rose window." },
+        image: "/highlights/lisbon-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=S%C3%A9%20de%20Lisboa",
+      },
+      {
+        id: "lisbon-h12",
+        name: { ko: "28번 트램", en: "Tram 28" },
+        description: { ko: "구시가 언덕길을 오르내리는 상징적인 노란 트램입니다.", en: "Iconic yellow tram winding through the hilly old town." },
+        image: "/highlights/lisbon-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Elétrico%2028%20Lisbon",
+      },
+      {
+        id: "lisbon-h13",
+        name: { ko: "포르타스 두 솔 전망대", en: "Miradouro das Portas do Sol" },
+        description: { ko: "알파마 지붕과 강이 내려다보이는 전망대입니다.", en: "Viewpoint over Alfama's rooftops and the river." },
+        image: "/highlights/lisbon-13.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Miradouro%20das%20Portas%20do%20Sol",
       }
 ],
   },
