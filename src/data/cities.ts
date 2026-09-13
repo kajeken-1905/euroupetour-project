@@ -10754,6 +10754,13 @@ export const cities: City[] = [
         description: { ko: "강변 산책과 국경 풍경입니다.", en: "Riverside walks and border views." },
         image: "/highlights/vaduz-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rhine%20Vaduz",
+      },
+      {
+        id: "vaduz-h6",
+        name: { ko: "성 플로린 대성당", en: "Cathedral of St. Florin" },
+        description: { ko: "슈테틀레에 있는 네오고딕 성당입니다.", en: "Neo-Gothic cathedral in the Städtle." },
+        image: "/highlights/vaduz-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kathedrale%20St%20Florin%20Vaduz",
       }
     ],
   },
