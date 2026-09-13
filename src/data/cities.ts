@@ -7095,6 +7095,13 @@ export const cities: City[] = [
         description: { ko: "알파마 지붕과 강이 내려다보이는 전망대입니다.", en: "Viewpoint over Alfama's rooftops and the river." },
         image: "/highlights/lisbon-13.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Miradouro%20das%20Portas%20do%20Sol",
+      },
+      {
+        id: "lisbon-h14",
+        name: { ko: "산타 후스타 엘리베이터", en: "Elevador de Santa Justa" },
+        description: { ko: "바이샤 지구에 우뚝 솟은 네오고딕 철제 승강기입니다.", en: "Neo-Gothic iron lift towering over the Baixa district." },
+        image: "/highlights/lisbon-14.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Elevador%20de%20Santa%20Justa",
       }
 ],
   },
