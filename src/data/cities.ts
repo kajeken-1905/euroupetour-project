@@ -3795,6 +3795,20 @@ export const cities: City[] = [
         description: { ko: "기차·자동차 체험 박물관입니다.", en: "Trains, cars, and interactive exhibits." },
         image: "/highlights/lucerne-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Verkehrshaus%20Lucerne",
+      },
+      {
+        id: "lucerne-h6",
+        name: { ko: "루체른 기차역", en: "Lucerne Railway Station" },
+        description: { ko: "웅장한 아치형 입구의 중앙역입니다.", en: "Central station with a grand arched entrance." },
+        image: "/highlights/lucerne-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Luzern%20Bahnhof",
+      },
+      {
+        id: "lucerne-h7",
+        name: { ko: "예수회 성당", en: "Jesuit Church" },
+        description: { ko: "로이스 강변의 바로크 양식 성당입니다.", en: "Baroque church on the banks of the Reuss." },
+        image: "/highlights/lucerne-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jesuitenkirche%20Luzern",
       }
     ],
   },
