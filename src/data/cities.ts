@@ -3630,6 +3630,27 @@ export const cities: City[] = [
         description: { ko: "럭셔리 쇼핑 거리입니다.", en: "Luxury shopping avenue." },
         image: "/highlights/zurich-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse%20Zurich",
+      },
+      {
+        id: "zurich-h7",
+        name: { ko: "프라우뮌스터", en: "Fraumünster" },
+        description: { ko: "샤갈의 스테인드글라스로 유명한 청록색 첨탑 성당입니다.", en: "Church with a slender teal spire, famed for its Chagall stained glass." },
+        image: "/highlights/zurich-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fraum%C3%BCnster%20Zurich",
+      },
+      {
+        id: "zurich-h8",
+        name: { ko: "성 페터 교회", en: "St. Peter Church" },
+        description: { ko: "유럽에서 가장 큰 시계 문자판이 있는 교회입니다.", en: "Church with the largest clock face in Europe." },
+        image: "/highlights/zurich-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Peter%20Church%20Zurich",
+      },
+      {
+        id: "zurich-h9",
+        name: { ko: "취리히 중앙역", en: "Zürich Hauptbahnhof" },
+        description: { ko: "스위스에서 가장 분주한 중앙 기차역입니다.", en: "Switzerland's busiest central train station." },
+        image: "/highlights/zurich-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrich%20Hauptbahnhof",
       }
     ],
   },
