@@ -3747,6 +3747,13 @@ export const cities: City[] = [
         description: { ko: "에메랄드빛 강변 산책로입니다.", en: "Emerald riverside walks." },
         image: "/highlights/bern-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aare%20Bern",
+      },
+      {
+        id: "bern-h6",
+        name: { ko: "베른 대성당", en: "Bern Münster" },
+        description: { ko: "스위스에서 가장 높은 첨탑의 고딕 성당입니다.", en: "Gothic cathedral with Switzerland's tallest spire." },
+        image: "/highlights/bern-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bern%20M%C3%BCnster",
       }
     ],
   },
