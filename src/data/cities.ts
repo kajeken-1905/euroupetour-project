@@ -3699,6 +3699,27 @@ export const cities: City[] = [
         description: { ko: "호숫가 공원과 산책로입니다.", en: "Lakeside parks and promenades." },
         image: "/highlights/geneva-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Quai%20du%20Mont-Blanc",
+      },
+      {
+        id: "geneva-h6",
+        name: { ko: "부러진 의자", en: "Broken Chair" },
+        description: { ko: "UN 광장 앞의 지뢰 반대 조형물입니다.", en: "Anti-landmine sculpture facing the UN square." },
+        image: "/highlights/geneva-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Broken%20Chair%20Geneva",
+      },
+      {
+        id: "geneva-h7",
+        name: { ko: "꽃시계", en: "L'Horloge Fleurie" },
+        description: { ko: "영국정원의 상징적인 꽃 시계입니다.", en: "Iconic flower clock in the Jardin Anglais." },
+        image: "/highlights/geneva-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=L%27Horloge%20Fleurie%20Geneva",
+      },
+      {
+        id: "geneva-h8",
+        name: { ko: "종교개혁 기념벽", en: "Reformation Wall" },
+        description: { ko: "종교개혁 지도자들을 새긴 거대한 돋을새김 벽입니다.", en: "Massive relief wall honouring the leaders of the Reformation." },
+        image: "/highlights/geneva-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Reformation%20Wall%20Geneva",
       }
     ],
   },
