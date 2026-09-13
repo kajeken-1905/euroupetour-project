@@ -3837,6 +3837,13 @@ export const cities: City[] = [
         description: { ko: "로이스 강변의 바로크 양식 성당입니다.", en: "Baroque church on the banks of the Reuss." },
         image: "/highlights/lucerne-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jesuitenkirche%20Luzern",
+      },
+      {
+        id: "lucerne-h8",
+        name: { ko: "리기산", en: "Mount Rigi" },
+        description: { ko: "톱니바퀴 열차로 오르는 '산의 여왕' 전망대입니다.", en: "Cogwheel-train summit known as the 'Queen of the Mountains'." },
+        image: "/highlights/lucerne-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rigi%20Kulm",
       }
     ],
   },
