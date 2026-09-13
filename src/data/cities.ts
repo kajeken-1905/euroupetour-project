@@ -7102,6 +7102,20 @@ export const cities: City[] = [
         description: { ko: "바이샤 지구에 우뚝 솟은 네오고딕 철제 승강기입니다.", en: "Neo-Gothic iron lift towering over the Baixa district." },
         image: "/highlights/lisbon-14.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Elevador%20de%20Santa%20Justa",
+      },
+      {
+        id: "lisbon-h15",
+        name: { ko: "호시우 광장", en: "Rossio Square" },
+        description: { ko: "동 페드루 4세 기둥이 서 있는 리스본의 중심 광장입니다.", en: "Central Lisbon square with the Dom Pedro IV column." },
+        image: "/highlights/lisbon-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rossio%20Square%20Lisbon",
+      },
+      {
+        id: "lisbon-h16",
+        name: { ko: "피게이라 광장", en: "Praça da Figueira" },
+        description: { ko: "동 주앙 1세 기마상이 있는 바이샤의 광장입니다.", en: "Baixa square with the equestrian statue of King João I." },
+        image: "/highlights/lisbon-16.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20da%20Figueira",
       }
 ],
   },
