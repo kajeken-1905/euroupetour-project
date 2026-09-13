@@ -4256,6 +4256,20 @@ export const cities: City[] = [
         description: { ko: "미술관과 부티크 골목입니다.", en: "Art gallery and boutique lanes." },
         image: "/highlights/milan-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Brera%20Milan",
+      },
+      {
+        id: "milan-h6",
+        name: { ko: "밀라노 중앙역", en: "Milano Centrale" },
+        description: { ko: "아르데코 양식의 웅장한 중앙 기차역입니다.", en: "Grand Art Deco central railway station." },
+        image: "/highlights/milan-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Milano%20Centrale",
+      },
+      {
+        id: "milan-h7",
+        name: { ko: "평화의 문", en: "Arco della Pace" },
+        description: { ko: "청동 전차상이 얹힌 신고전주의 개선문입니다.", en: "Neoclassical arch topped with a bronze chariot." },
+        image: "/highlights/milan-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Arco%20della%20Pace%20Milan",
       }
     ],
   },
