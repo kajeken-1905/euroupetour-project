@@ -4836,6 +4836,47 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "pisa",
+    countryId: "it",
+    signatureImage: "/cities/pisa.jpg",
+    name: { ko: "피사", en: "Pisa" },
+    nativeName: "Pisa",
+    blurb: {
+      ko: "기울어진 탑으로 유명한 토스카나의 소도시. 기적의 광장이 상징입니다.",
+      en: "Tuscan town famous for its leaning tower—the Piazza dei Miracoli is the icon.",
+    },
+    highlights: [
+      {
+        id: "pisa-h1",
+        name: { ko: "피사의 사탑", en: "Leaning Tower of Pisa" },
+        description: { ko: "기울어진 채로 서 있는 세계적인 종탑입니다.", en: "World-famous bell tower, tilted for centuries." },
+        image: "/highlights/pisa-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leaning%20Tower%20of%20Pisa",
+      },
+      {
+        id: "pisa-h2",
+        name: { ko: "피사 대성당", en: "Pisa Cathedral" },
+        description: { ko: "줄무늬 대리석이 인상적인 로마네스크 대성당입니다.", en: "Romanesque cathedral with striking striped marble." },
+        image: "/highlights/pisa-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pisa%20Cathedral",
+      },
+      {
+        id: "pisa-h3",
+        name: { ko: "산 조반니 세례당", en: "Baptistery of San Giovanni" },
+        description: { ko: "이탈리아에서 가장 큰 세례당입니다.", en: "Italy's largest baptistery." },
+        image: "/highlights/pisa-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Baptistery%20of%20San%20Giovanni%20Pisa",
+      },
+      {
+        id: "pisa-h4",
+        name: { ko: "기적의 광장", en: "Piazza dei Miracoli" },
+        description: { ko: "사탑과 대성당이 함께 서 있는 잔디 광장입니다.", en: "Grassy square where the tower and cathedral stand together." },
+        image: "/highlights/pisa-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20dei%20Miracoli",
+      }
+    ],
+  },
+  {
     id: "bologna",
     countryId: "it",
     signatureImage: "/cities/bologna.jpg",

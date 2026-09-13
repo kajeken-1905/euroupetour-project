@@ -553,7 +553,7 @@ export const countries: Country[] = [
       background: '#E8F5EE',
       text: '#0A2A18',
     },
-    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples', 'bologna', 'verona', 'turin', 'amalfi', 'siena', 'genoa', 'palermo'],
+    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples', 'bologna', 'verona', 'turin', 'amalfi', 'siena', 'genoa', 'palermo', 'pisa'],
   },
   {
     id: 'va',
