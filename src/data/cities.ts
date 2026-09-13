@@ -7067,6 +7067,13 @@ export const cities: City[] = [
         description: { ko: "대항해시대를 기리는 강변 기념비입니다.", en: "Riverside monument honouring the Age of Discovery." },
         image: "/highlights/lisbon-9.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Padr%C3%A3o%20dos%20Descobrimentos",
+      },
+      {
+        id: "lisbon-h10",
+        name: { ko: "비카 푸니쿨라", en: "Elevador da Bica" },
+        description: { ko: "가파른 골목을 오르내리는 노란 케이블카입니다.", en: "Yellow funicular climbing a steep old-town lane." },
+        image: "/highlights/lisbon-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Elevador%20da%20Bica",
       }
 ],
   },
@@ -7136,6 +7143,13 @@ export const cities: City[] = [
         description: { ko: "포르투 대표 전통 실내 시장입니다.", en: "Porto's iconic traditional indoor market." },
         image: "/highlights/porto-8.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mercado%20do%20Bolh%C3%A3o",
+      },
+      {
+        id: "porto-h9",
+        name: { ko: "포르투 대학교", en: "University of Porto" },
+        description: { ko: "사자 분수가 있는 고메스 테이셰이라 광장의 옛 본관입니다.", en: "Historic Reitoria building on Praça de Gomes Teixeira, with its lion fountain." },
+        image: "/highlights/porto-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Universidade%20do%20Porto%20Reitoria",
       }
     ],
   },
@@ -7493,6 +7507,13 @@ export const cities: City[] = [
         description: { ko: "전통 소금 생산지와 전망입니다.", en: "Traditional salt pans." },
         image: "/highlights/aveiro-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Salinas%20de%20Aveiro",
+      },
+      {
+        id: "aveiro-h6",
+        name: { ko: "아베이루 기차역", en: "Aveiro Railway Station" },
+        description: { ko: "아줄레주로 뒤덮인 파사드가 인상적인 기차역입니다.", en: "Train station with a striking azulejo-covered facade." },
+        image: "/highlights/aveiro-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Esta%C3%A7%C3%A3o%20de%20Aveiro",
       }
     ],
   },
