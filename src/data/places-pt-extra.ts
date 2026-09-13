@@ -4,11 +4,11 @@ import type { Place } from '../types'
 export const placesPTExtra: Place[] = [
   // —— lisbon ——
   place('lisbon-fine_dining-1', 'lisbon', 'fine_dining', 'Belcanto', 4.7, 'Lisbon', '미슐랭 포르투갈 코스.', 'Michelin Portuguese tasting.', { reviewCount: 1600 }),
-  place('lisbon-fine_dining-2', 'lisbon', 'fine_dining', 'Time Out Market stalls', 4.5, 'Lisbon', '미식 푸드홀.', 'Gourmet food hall.', { reviewCount: 18000 }),
+  place('lisbon-fine_dining-2', 'lisbon', 'fine_dining', 'Time Out Market stalls', 4.5, 'Lisbon', '미식 푸드홀.', 'Gourmet food hall.', { reviewCount: 18000, image: '/places/lisbon-fine_dining-2.jpg' }),
   place('lisbon-fine_dining-3', 'lisbon', 'fine_dining', 'Cervejaria Ramiro', 4.6, 'Lisbon', '해산물 클래식.', 'Seafood classic.', { reviewCount: 12000 }),
   place('lisbon-fine_dining-4', 'lisbon', 'fine_dining', 'A Cevicheria', 4.5, 'Lisbon', '세비체·창의 다이닝.', 'Ceviche and creative dining.', { reviewCount: 4200 }),
   place('lisbon-fine_dining-5', 'lisbon', 'fine_dining', 'Prado', 4.5, 'Lisbon', '시즌 로컬 다이닝.', 'Seasonal local dining.', { reviewCount: 1800 }),
-  place('lisbon-bakery-1', 'lisbon', 'bakery', 'Pastéis de Belém', 4.6, 'Lisbon', '에그타르트 원조.', 'Original egg tarts.', { reviewCount: 42000 }),
+  place('lisbon-bakery-1', 'lisbon', 'bakery', 'Pastéis de Belém', 4.6, 'Lisbon', '에그타르트 원조.', 'Original egg tarts.', { reviewCount: 42000, image: '/places/lisbon-bakery-1.jpg' }),
   place('lisbon-bakery-2', 'lisbon', 'bakery', 'Manteigaria', 4.6, 'Lisbon', '나타 전문.', 'Nata specialists.', { reviewCount: 12000 }),
   place('lisbon-bakery-3', 'lisbon', 'bakery', 'Padaria Portuguesa', 4.3, 'Lisbon', '로컬 베이커리 체인.', 'Local bakery chain.', { reviewCount: 4800 }),
   place('lisbon-bakery-4', 'lisbon', 'bakery', 'Fábrica da Nata', 4.4, 'Lisbon', '따뜻한 나타.', 'Warm natas.', { reviewCount: 3600 }),
@@ -71,7 +71,7 @@ export const placesPTExtra: Place[] = [
   place('coimbra-fine_dining-1', 'coimbra', 'fine_dining', 'MA', 4.6, 'Rua do Norte 13, 3000-295 Coimbra', '미쉐린 가이드 등재 일식 레스토랑.', 'Michelin Guide-listed Japanese restaurant.'),
   place('coimbra-fine_dining-2', 'coimbra', 'fine_dining', 'Zé Manel dos Ossos', 4.5, 'Beco do Forno 12, 3000-192 Coimbra', '1959년부터 이어온 코임브라 바이샤 지역의 작은 명물 식당, 넉넉한 전통 포르투갈 요리로 유명.', 'Tiny Coimbra Baixa institution since 1959, known for generous traditional Portuguese fare.', { reviewCount: 2253 }),
   place('coimbra-fine_dining-3', 'coimbra', 'fine_dining', 'Dux Taberna Urbana', 4.4, 'R. Dr. Manuel Rodrigues 39, 3000-229 Coimbra', '다양한 프티스코스와 포르투갈 와인을 선보이는 도심 타파스 바.', 'Urban tapas bar offering a range of petiscos and an impressive Portuguese wine selection.'),
-  place('coimbra-korean-1', 'coimbra', 'korean', 'Gangnam Korean BBQ', 4.5, 'Praça do Comércio 12, Coimbra', '포르투갈 최초의 정통 한식 바비큐.', 'Portugal\'s first authentic Korean BBQ restaurant.'),
+  place('coimbra-korean-1', 'coimbra', 'korean', 'Gangnam Korean BBQ', 4.5, 'Praça do Comércio 12, Coimbra', '포르투갈 최초의 정통 한식 바비큐.', 'Portugal\'s first authentic Korean BBQ restaurant.', { image: '/places/coimbra-korean-1.jpg' }),
   place('coimbra-bakery-1', 'coimbra', 'bakery', 'Pastelaria Penta', 4.5, 'Av. Fernão de Magalhães 22, 3000-171 Coimbra, Portugal', '신선한 페이스트리로 인기 있는 코임브라의 베이커리', 'Popular Coimbra bakery known for wonderfully fresh pastries'),
   place('coimbra-bakery-2', 'coimbra', 'bakery', 'Pastelaria Briosa', 4.2, 'R. Ferreira Borges 211, 3000-180 Coimbra', '코임브라에서 가장 유명한 제과점 중 하나, 다양한 지역 케이크와 커피로 인기.', "One of Coimbra's most famous bakeries, popular for its wide variety of local cakes and coffee."),
   place('coimbra-cafe-1', 'coimbra', 'cafe', 'Café Santa Cruz', 4.4, 'Praça 8 de Maio 4, 6, 7, 3000-300 Coimbra, Portugal', '옛 산타 크루즈 수도원 건물에 위치한 1923년부터 이어온 코임브라의 명소 카페', 'Landmark Coimbra cafe since 1923, housed in the former Santa Cruz Monastery hall'),
