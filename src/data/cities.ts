@@ -2841,6 +2841,13 @@ export const cities: City[] = [
         description: { ko: "호수 마을 중심 광장입니다.", en: "Lakeside village square." },
         image: "/highlights/hallstatt-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hallstatt%20Marktplatz",
+      },
+      {
+        id: "hallstatt-h5",
+        name: { ko: "개신교회", en: "Protestant Church" },
+        description: { ko: "뾰족한 첨탑이 산과 어우러지는 교회입니다.", en: "Church with a slender spire framed by the mountains." },
+        image: "/highlights/hallstatt-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Evangelische%20Pfarrkirche%20Hallstatt",
       }
     ],
   },
