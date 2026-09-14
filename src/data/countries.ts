@@ -29,7 +29,7 @@ export const countries: Country[] = [
       background: '#EEF0F8',
       text: '#0A0A30',
     },
-    cityIds: ['paris', 'lyon', 'marseille', 'nice', 'bordeaux', 'strasbourg', 'annecy', 'avignon', 'toulouse', 'montpellier', 'dijon', 'chamonix'],
+    cityIds: ['paris', 'lyon', 'marseille', 'nice', 'bordeaux', 'strasbourg', 'annecy', 'avignon', 'toulouse', 'montpellier', 'dijon', 'chamonix', 'cannes'],
   },
   {
     id: 'uk',

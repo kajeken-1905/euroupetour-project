@@ -5444,6 +5444,39 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "cannes",
+    countryId: "fr",
+    signatureImage: "/cities/cannes.jpg",
+    name: { ko: "칸", en: "Cannes" },
+    nativeName: "Cannes",
+    blurb: {
+      ko: "영화제와 요트의 코트다쥐르 리조트 도시입니다.", en: "Côte d'Azur resort town of film festivals and yachts.",
+    },
+    highlights: [
+      {
+        id: "cannes-h1",
+        name: { ko: "팔레 데 페스티벌", en: "Palais des Festivals" },
+        description: { ko: "칸 영화제가 열리는 요트 항구변 상영관입니다.", en: "Festival venue on the yacht harbor, home of the Cannes Film Festival." },
+        image: "/highlights/cannes-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palais%20des%20Festivals%20Cannes",
+      },
+      {
+        id: "cannes-h2",
+        name: { ko: "라 크루아제트", en: "La Croisette" },
+        description: { ko: "야자수와 명품 호텔이 늘어선 해변 대로입니다.", en: "Palm-lined seafront boulevard of grand hotels." },
+        image: "/highlights/cannes-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=La%20Croisette%20Cannes",
+      },
+      {
+        id: "cannes-h3",
+        name: { ko: "르 쉬케", en: "Le Suquet" },
+        description: { ko: "구시가와 항구가 내려다보이는 옛 언덕 마을입니다.", en: "Old hilltop quarter overlooking the town and harbor." },
+        image: "/highlights/cannes-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Le%20Suquet%20Cannes",
+      }
+    ],
+  },
+  {
     id: "lugano",
     countryId: "ch",
     signatureImage: "/cities/lugano.jpg",
