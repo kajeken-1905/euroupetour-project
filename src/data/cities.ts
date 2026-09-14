@@ -2889,6 +2889,20 @@ export const cities: City[] = [
         description: { ko: "다뉴브가 내려다보이는 부다 언덕의 왕궁입니다.", en: "Royal palace complex overlooking the Danube." },
         image: "/highlights/budapest-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Buda%20Castle%20Palace%20Budapest",
+      },
+      {
+        id: "budapest-h8",
+        name: { ko: "성 이슈트반 대성당", en: "St. Stephen's Basilica" },
+        description: { ko: "헝가리 초대 국왕을 기리는 대성당입니다.", en: "Basilica honouring Hungary's first king." },
+        image: "/highlights/budapest-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Stephen's%20Basilica%20Budapest",
+      },
+      {
+        id: "budapest-h9",
+        name: { ko: "마차시 성당", en: "Matthias Church" },
+        description: { ko: "다채로운 타일 지붕의 고딕 성당입니다.", en: "Gothic church with a colourful tiled roof." },
+        image: "/highlights/budapest-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Matthias%20Church%20Budapest",
       }
 ],
   },
