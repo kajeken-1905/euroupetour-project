@@ -2690,6 +2690,20 @@ export const cities: City[] = [
         description: { ko: "성으로 오르는 푸니쿨라입니다.", en: "Funicular up to the fortress." },
         image: "/highlights/salzburg-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Festungsbahn%20Salzburg",
+      },
+      {
+        id: "salzburg-h6",
+        name: { ko: "잘츠부르크 대성당", en: "Salzburg Cathedral" },
+        description: { ko: "쌍둥이 탑의 바로크 대성당입니다.", en: "Twin-towered Baroque cathedral." },
+        image: "/highlights/salzburg-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Salzburg%20Cathedral",
+      },
+      {
+        id: "salzburg-h7",
+        name: { ko: "카피텔플라츠 황금공", en: "Sphaera, Kapitelplatz" },
+        description: { ko: "황금 공 위에 사람이 서 있는 현대 조형물입니다.", en: "Contemporary sculpture of a figure standing atop a golden sphere." },
+        image: "/highlights/salzburg-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kapitelplatz%20Salzburg",
       }
     ],
   },
