@@ -1257,6 +1257,13 @@ export const cities: City[] = [
         image: "/highlights/brussels-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mont%20des%20Arts%20brussels",
       },
+      {
+        id: "brussels-h8",
+        name: { ko: "국회의사당 기념탑", en: "Congress Column" },
+        description: { ko: "황금 왕관을 얹은 벨기에 독립 기념탑입니다.", en: "Crown-topped monument commemorating Belgian independence." },
+        image: "/highlights/brussels-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congress%20Column%20Brussels",
+      },
     ],
   },
   {
