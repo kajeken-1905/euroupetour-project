@@ -3267,6 +3267,13 @@ export const cities: City[] = [
         description: { ko: "성 아래를 지나는 강 래프팅입니다.", en: "Rafting past the castle bends." },
         image: "/highlights/cesky-krumlov-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vltava%20rafting%20Krumlov",
+      },
+      {
+        id: "cesky-krumlov-h5",
+        name: { ko: "성 곰 해자", en: "Castle Bear Moat" },
+        description: { ko: "16세기부터 이어진 성 해자의 진짜 곰들입니다.", en: "Live bears kept in the castle moat since the 16th century." },
+        image: "/highlights/cesky-krumlov-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Medv%C4%9Bd%C3%AD%20p%C5%99%C3%ADkop%20%C4%8Cesk%C3%BD%20Krumlov",
       }
     ],
   },
