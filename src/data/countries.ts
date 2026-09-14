@@ -932,7 +932,7 @@ export const countries: Country[] = [
       background: '#FCE8E8',
       text: '#1A0A20',
     },
-    cityIds: ['zagreb', 'dubrovnik', 'split', 'zadar', 'rovinj', 'hvar'],
+    cityIds: ['zagreb', 'dubrovnik', 'split', 'zadar', 'rovinj', 'hvar', 'plitvice'],
   },
   {
     id: 'si',

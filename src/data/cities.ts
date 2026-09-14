@@ -9086,6 +9086,46 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "plitvice",
+    countryId: "hr",
+    signatureImage: "/cities/plitvice.jpg",
+    name: { ko: "플리트비체", en: "Plitvice Lakes" },
+    nativeName: "Plitvička jezera",
+    blurb: {
+      ko: "터키석빛 호수와 폭포가 이어지는 유네스코 국립공원입니다.", en: "UNESCO national park of turquoise lakes and cascading waterfalls.",
+    },
+    highlights: [
+      {
+        id: "plitvice-h1",
+        name: { ko: "벨리키 슬라프", en: "Veliki Slap" },
+        description: { ko: "공원에서 가장 큰 폭포입니다.", en: "The park's tallest waterfall." },
+        image: "/highlights/plitvice-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Veliki%20Slap",
+      },
+      {
+        id: "plitvice-h2",
+        name: { ko: "터키석빛 호수", en: "Turquoise Lakes" },
+        description: { ko: "석회화 지형이 만든 에메랄드빛 호수들입니다.", en: "Emerald lakes formed by travertine barriers." },
+        image: "/highlights/plitvice-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plitvice%20Lakes",
+      },
+      {
+        id: "plitvice-h3",
+        name: { ko: "목재 산책로", en: "Wooden Boardwalks" },
+        description: { ko: "폭포 사이를 가로지르는 산책로입니다.", en: "Boardwalk trails weaving between the falls." },
+        image: "/highlights/plitvice-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plitvice%20Lakes%20boardwalk",
+      },
+      {
+        id: "plitvice-h4",
+        name: { ko: "라스토케", en: "Rastoke" },
+        description: { ko: "물레방아 집들이 폭포 위에 서 있는 마을입니다.", en: "Village of watermill houses perched over waterfalls." },
+        image: "/highlights/plitvice-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rastoke%20Slunj",
+      }
+    ],
+  },
+  {
     id: "dublin",
     countryId: "ie",
     signatureImage: "/cities/dublin.jpg",
