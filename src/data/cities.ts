@@ -2642,6 +2642,13 @@ export const cities: City[] = [
         description: { ko: "대관람차와 공원이 있는 레저 지구입니다.", en: "Ferris wheel and park leisure district." },
         image: "/highlights/vienna-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wiener%20Prater",
+      },
+      {
+        id: "vienna-h7",
+        name: { ko: "빈 국립오페라극장", en: "Vienna State Opera" },
+        description: { ko: "세계 최고 수준의 오페라 하우스입니다.", en: "One of the world's leading opera houses." },
+        image: "/highlights/vienna-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vienna%20State%20Opera",
       }
     ],
   },
