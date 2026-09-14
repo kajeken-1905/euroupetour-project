@@ -4223,6 +4223,13 @@ export const cities: City[] = [
         description: { ko: "아펠바인 선술집 지구입니다.", en: "Apfelwein tavern district." },
         image: "/highlights/frankfurt-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sachsenhausen%20Frankfurt",
+      },
+      {
+        id: "frankfurt-h6",
+        name: { ko: "프랑크푸르트 중앙역", en: "Frankfurt Hauptbahnhof" },
+        description: { ko: "웅장한 아치형 유리 지붕의 중앙역입니다.", en: "Central station with a grand arched glass roof." },
+        image: "/highlights/frankfurt-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Frankfurt%20Hauptbahnhof",
       }
     ],
   },
