@@ -1,3 +1,4 @@
+import { useEffect, useRef } from 'react'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
@@ -7,6 +8,7 @@ const ADMIN_EMAIL = 'kajeken@gmail.com'
 export function AppShell() {
   const { lang } = useLanguage()
   const { pathname } = useLocation()
+  const contentRef = useRef<HTMLDivElement>(null)
   const isDarkRoute =
     pathname === '/' ||
     pathname === '/countries' ||
@@ -14,11 +16,15 @@ export function AppShell() {
     pathname.startsWith('/city/') ||
     pathname.startsWith('/place/')
 
+  useEffect(() => {
+    contentRef.current?.scrollTo(0, 0)
+  }, [pathname])
+
   return (
     <div className="app-root">
       <div className={`phone-shell${isDarkRoute ? ' phone-shell--neon' : ''}`}>
         <div className="phone-status" />
-        <div className="phone-content">
+        <div className="phone-content" ref={contentRef}>
           <Outlet />
         </div>
         <footer className="admin-footer">
