@@ -3481,6 +3481,13 @@ export const cities: City[] = [
         description: { ko: "파이프가 드러난 파격적인 현대미술관입니다.", en: "Modern art museum with its pipes and ducts exposed inside-out." },
         image: "/highlights/paris-8.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Centre%20Pompidou",
+      },
+      {
+        id: "paris-h9",
+        name: { ko: "바스티유 광장", en: "Place de la Bastille" },
+        description: { ko: "7월 혁명을 기리는 청동 기둥이 서 있는 광장입니다.", en: "Square with the bronze July Column commemorating the July Revolution." },
+        image: "/highlights/paris-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Bastille",
       }
 ],
   },
