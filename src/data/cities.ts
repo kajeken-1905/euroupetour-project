@@ -4100,6 +4100,13 @@ export const cities: City[] = [
         description: { ko: "상징적인 맥주홀입니다.", en: "Iconic beer hall." },
         image: "/highlights/munich-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hofbr%C3%A4uhaus%20Munich",
+      },
+      {
+        id: "munich-h6",
+        name: { ko: "성 미하엘 교회", en: "St. Michael's Church" },
+        description: { ko: "알프스 이북 최대의 르네상스 양식 교회입니다.", en: "The largest Renaissance church north of the Alps." },
+        image: "/highlights/munich-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Michael's%20Church%20Munich",
       }
     ],
   },
