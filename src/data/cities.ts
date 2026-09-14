@@ -3178,6 +3178,20 @@ export const cities: City[] = [
         description: { ko: "구회당과 묘지가 있는 역사 지구입니다.", en: "Historic synagogues and cemetery." },
         image: "/highlights/prague-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Josefov%20Prague",
+      },
+      {
+        id: "prague-h7",
+        name: { ko: "틴 성당", en: "Church of Our Lady before Týn" },
+        description: { ko: "구시가 광장을 굽어보는 고딕 첨탑 성당입니다.", en: "Gothic spired church towering over the Old Town Square." },
+        image: "/highlights/prague-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Church%20of%20Our%20Lady%20before%20T%C3%BDn",
+      },
+      {
+        id: "prague-h8",
+        name: { ko: "화약탑", en: "Powder Tower" },
+        description: { ko: "구시가 입구를 지키던 고딕 성문입니다.", en: "Gothic gate tower guarding the entrance to the Old Town." },
+        image: "/highlights/prague-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Powder%20Tower%20Prague",
       }
     ],
   },
