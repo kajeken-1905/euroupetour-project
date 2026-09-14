@@ -8890,6 +8890,20 @@ export const cities: City[] = [
         description: { ko: "보트 데이트립 섬입니다.", en: "Boat day-trip island." },
         image: "/highlights/dubrovnik-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lokrum",
+      },
+      {
+        id: "dubrovnik-h6",
+        name: { ko: "두브로브니크 대성당", en: "Dubrovnik Cathedral" },
+        description: { ko: "바로크 양식의 성모승천 대성당입니다.", en: "Baroque cathedral of the Assumption." },
+        image: "/highlights/dubrovnik-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dubrovnik%20Cathedral",
+      },
+      {
+        id: "dubrovnik-h7",
+        name: { ko: "루자 광장", en: "Luža Square" },
+        description: { ko: "시계탑과 스폰자 궁전이 있는 구시가 중심 광장입니다.", en: "Old town's central square, with the bell tower and Sponza Palace." },
+        image: "/highlights/dubrovnik-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lu%C5%BEa%20Square%20Dubrovnik",
       }
     ],
   },
