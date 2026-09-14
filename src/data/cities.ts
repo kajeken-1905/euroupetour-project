@@ -3199,6 +3199,27 @@ export const cities: City[] = [
         description: { ko: "구시가 입구를 지키던 고딕 성문입니다.", en: "Gothic gate tower guarding the entrance to the Old Town." },
         image: "/highlights/prague-8.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Powder%20Tower%20Prague",
+      },
+      {
+        id: "prague-h9",
+        name: { ko: "성 비투스 대성당", en: "St. Vitus Cathedral" },
+        description: { ko: "프라하 성 안에 우뚝 솟은 고딕 대성당입니다.", en: "Gothic cathedral towering within Prague Castle." },
+        image: "/highlights/prague-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Vitus%20Cathedral%20Prague",
+      },
+      {
+        id: "prague-h10",
+        name: { ko: "존 레논 벽", en: "Lennon Wall" },
+        description: { ko: "평화와 사랑의 낙서로 뒤덮인 벽입니다.", en: "Wall covered in peace-and-love graffiti." },
+        image: "/highlights/prague-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lennon%20Wall%20Prague",
+      },
+      {
+        id: "prague-h11",
+        name: { ko: "춤추는 건물", en: "Dancing House" },
+        description: { ko: "프랭크 게리가 설계한 파격적인 곡선형 건물입니다.", en: "Frank Gehry's deconstructivist building with a swirling glass facade." },
+        image: "/highlights/prague-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dancing%20House%20Prague",
       }
     ],
   },
