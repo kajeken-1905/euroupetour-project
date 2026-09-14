@@ -8952,6 +8952,13 @@ export const cities: City[] = [
         description: { ko: "섬으로 가는 페리 허브입니다.", en: "Ferry hub to the islands." },
         image: "/highlights/split-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Split%20ferry%20port",
+      },
+      {
+        id: "split-h6",
+        name: { ko: "성 돔니우스 대성당 종탑", en: "St. Domnius Bell Tower" },
+        description: { ko: "궁전 한가운데 솟은 로마네스크 종탑입니다.", en: "Romanesque bell tower rising from the heart of the palace." },
+        image: "/highlights/split-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20Saint%20Domnius",
       }
     ],
   },
@@ -9096,6 +9103,46 @@ export const cities: City[] = [
         description: { ko: "유네스코 평야의 옛 마을입니다.", en: "Old town by UNESCO plain." },
         image: "/highlights/hvar-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stari%20Grad%20Hvar",
+      }
+    ],
+  },
+  {
+    id: "trogir",
+    countryId: "hr",
+    signatureImage: "/cities/trogir.jpg",
+    name: { ko: "트로기르", en: "Trogir" },
+    nativeName: "Trogir",
+    blurb: {
+      ko: "유네스코 옛 성곽 섬 도시. 야자수 리바와 카메를렝고 요새가 상징입니다.", en: "UNESCO walled island town—palm-lined riva and Kamerlengo Fortress.",
+    },
+    highlights: [
+      {
+        id: "trogir-h1",
+        name: { ko: "성 라우렌스 대성당", en: "Cathedral of St. Lawrence" },
+        description: { ko: "로마네스크-고딕 양식의 종탑입니다.", en: "Romanesque-Gothic bell tower." },
+        image: "/highlights/trogir-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20St%20Lawrence%20Trogir",
+      },
+      {
+        id: "trogir-h2",
+        name: { ko: "카메를렝고 요새", en: "Kamerlengo Fortress" },
+        description: { ko: "바다를 마주한 15세기 요새입니다.", en: "15th-century fortress facing the sea." },
+        image: "/highlights/trogir-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kamerlengo%20Fortress",
+      },
+      {
+        id: "trogir-h3",
+        name: { ko: "리바 산책로", en: "Riva Promenade" },
+        description: { ko: "야자수가 늘어선 항구 산책로입니다.", en: "Palm-lined harborfront promenade." },
+        image: "/highlights/trogir-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Trogir%20Riva",
+      },
+      {
+        id: "trogir-h4",
+        name: { ko: "로지아 시계탑", en: "Loggia Clock Tower" },
+        description: { ko: "구시가 중심 광장의 시계탑입니다.", en: "Clock tower on the old town's main square." },
+        image: "/highlights/trogir-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Trogir%20Loggia",
       }
     ],
   },
