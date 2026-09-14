@@ -3446,6 +3446,13 @@ export const cities: City[] = [
         description: { ko: "태양왕의 바로크 궁전과 정원입니다.", en: "Sun King’s baroque palace and gardens." },
         image: "/highlights/paris-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Versailles",
+      },
+      {
+        id: "paris-h8",
+        name: { ko: "퐁피두 센터", en: "Centre Pompidou" },
+        description: { ko: "파이프가 드러난 파격적인 현대미술관입니다.", en: "Modern art museum with its pipes and ducts exposed inside-out." },
+        image: "/highlights/paris-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Centre%20Pompidou",
       }
 ],
   },
