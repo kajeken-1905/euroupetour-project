@@ -3147,7 +3147,7 @@ export const cities: City[] = [
       {
         id: "prague-h1",
         name: { ko: "프라하 성", en: "Prague Castle" },
-        description: { ko: "세계 최대급 성 단지와 성 비투스 성당입니다.", en: "Vast castle complex and St Vitus." },
+        description: { ko: "언덕 위에 자리한 세계 최대급 성 단지입니다.", en: "One of the world's largest castle complexes, crowning the hilltop." },
         image: "/highlights/prague-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Prague%20Castle",
       },
@@ -3220,6 +3220,13 @@ export const cities: City[] = [
         description: { ko: "프랭크 게리가 설계한 파격적인 곡선형 건물입니다.", en: "Frank Gehry's deconstructivist building with a swirling glass facade." },
         image: "/highlights/prague-11.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dancing%20House%20Prague",
+      },
+      {
+        id: "prague-h12",
+        name: { ko: "대통령궁", en: "Presidential Palace" },
+        description: { ko: "격투하는 거인상과 근위병이 지키는 정문입니다.", en: "Main gate guarded by honor guards beneath the Fighting Giants statues." },
+        image: "/highlights/prague-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Prague%20Castle%20main%20gate",
       }
     ],
   },
