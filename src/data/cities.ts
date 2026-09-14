@@ -4492,6 +4492,27 @@ export const cities: City[] = [
         description: { ko: "정교하게 장식된 전통 카니발 가면 상점입니다.", en: "Shop window of ornate traditional carnival masks." },
         image: "/highlights/venice-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Venetian%20mask%20shop",
+      },
+      {
+        id: "venice-h7",
+        name: { ko: "산 시메오네 피콜로 성당", en: "Chiesa di San Simeone Piccolo" },
+        description: { ko: "기차역 건너편, 대운하변의 초록 돔 성당입니다.", en: "Green-domed church across the Grand Canal from the train station." },
+        image: "/highlights/venice-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20San%20Simeone%20Piccolo",
+      },
+      {
+        id: "venice-h8",
+        name: { ko: "스칼치 성당", en: "Chiesa degli Scalzi" },
+        description: { ko: "기차역 바로 옆의 하얀 대리석 바로크 성당입니다.", en: "White marble Baroque church right beside the train station." },
+        image: "/highlights/venice-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chiesa%20degli%20Scalzi%20Venice",
+      },
+      {
+        id: "venice-h9",
+        name: { ko: "팔라초 델 시네마", en: "Palazzo del Cinema" },
+        description: { ko: "베네치아 국제영화제가 열리는 리도의 상영관입니다.", en: "The Lido venue hosting the Venice International Film Festival." },
+        image: "/highlights/venice-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palazzo%20del%20Cinema%20Venice%20Lido",
       }
     ],
   },
