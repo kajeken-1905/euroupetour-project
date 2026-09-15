@@ -176,7 +176,18 @@ export function EuropeMap() {
           projectionConfig={{ center: DEFAULT_CENTER, scale: 570 }}
           className="europe-map-svg"
         >
-          <ZoomableGroup center={zoomCenter} zoom={zoomLevel} minZoom={1} maxZoom={6} className="europe-map-zoom">
+          <ZoomableGroup
+            center={zoomCenter}
+            zoom={zoomLevel}
+            minZoom={1}
+            maxZoom={6}
+            className="europe-map-zoom"
+            // Manual pinch/drag gestures are computed in the SVG's own (un-rotated)
+            // coordinate space, so they visually go the wrong way and misfire under
+            // our ancestor -90° CSS rotation. Disable them entirely and rely only on
+            // tap-to-select, which drives zoom/center via controlled props instead.
+            filterZoomEvent={() => false}
+          >
             <Geographies geography={geoData}>
               {({ geographies }) =>
                 geographies
