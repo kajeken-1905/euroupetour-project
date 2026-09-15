@@ -2,15 +2,20 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
-import { geoCentroid, geoMercator, geoPath } from 'd3-geo'
+import { geoArea, geoCentroid, geoMercator, geoPath } from 'd3-geo'
 import type { Topology } from 'topojson-specification'
-import type { FeatureCollection, Geometry } from 'geojson'
+import type { Feature, FeatureCollection, Geometry, MultiPolygon, Polygon } from 'geojson'
 import worldTopology from 'world-atlas/countries-50m.json'
 import { countries } from '../data/countries'
 import { cities } from '../data/cities'
 import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '../data/countryIsoMap'
 import { useLanguage } from '../contexts/LanguageContext'
 import { hexToRgba } from '../utils/color'
+import { assetUrl } from '../utils/assetUrl'
+
+/** Opacity applied to the selected country's flag-image fill so it reads as a
+ * pale tint that the white city pins still stand out against. */
+const FLAG_FILL_OPACITY = 0.45
 
 const MAP_WIDTH = 800
 const MAP_HEIGHT = 485
@@ -32,6 +37,30 @@ const MICRO_STATE_COORDS: Record<string, [number, number]> = {
 }
 
 const isoToCountry = new Map(countries.map((c) => [countryIsoMap[c.id], c]))
+
+/**
+ * Some countries' MultiPolygon geometry includes distant overseas exclaves
+ * (French Guiana, Dutch Caribbean islands, ...), which would otherwise blow
+ * up the bounding box used to size the flag pattern. Returns just the
+ * largest ring by area so the flag maps onto the mainland shape only.
+ */
+function mainlandRing(geoFeature: Feature<Geometry>): Feature<Polygon> {
+  const geometry = geoFeature.geometry
+  if (geometry.type !== 'MultiPolygon') {
+    return { type: 'Feature', geometry: geometry as Polygon, properties: {} }
+  }
+  const rings = (geometry as MultiPolygon).coordinates
+  let largest = rings[0]
+  let largestArea = -1
+  for (const ring of rings) {
+    const area = geoArea({ type: 'Polygon', coordinates: ring })
+    if (area > largestArea) {
+      largestArea = area
+      largest = ring
+    }
+  }
+  return { type: 'Feature', geometry: { type: 'Polygon', coordinates: largest }, properties: {} }
+}
 
 export function EuropeMap() {
   const navigate = useNavigate()
@@ -63,6 +92,13 @@ export function EuropeMap() {
     const topology = worldTopology as unknown as Topology
     return feature(topology, 'countries') as unknown as FeatureCollection<Geometry, { name: string }>
   }, [])
+
+  // Matches ComposableMap's own projectionConfig, so bounds computed here line up
+  // exactly with where Geography actually draws each country's path.
+  const boundsPath = useMemo(
+    () => geoPath(geoMercator().center(DEFAULT_CENTER).scale(570).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])),
+    [],
+  )
 
   const centroidById = useMemo(() => {
     const map = new Map<string, [number, number]>()
@@ -152,33 +188,58 @@ export function EuropeMap() {
                       : isoToCountry.get(String(geo.id))
                     const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
                     const isSelected = country ? country.id === selectedId : false
+                    const patternId = country ? `flag-pattern-${country.id}` : ''
 
                     return (
-                      <Geography
-                        key={geo.rsmKey}
-                        geography={geo}
-                        onClick={() => {
-                          if (country) {
-                            handleSelect(country.id)
-                          } else {
-                            setSelectedId(null)
-                            setSelectedCityId(null)
-                          }
-                        }}
-                        className={country ? 'map-country map-country--covered' : 'map-country'}
-                        style={{
-                          fill: country
-                            ? isSelected
-                              ? hexToRgba(country.flagColors.primary, 0.3)
-                              : 'var(--map-default)'
-                            : 'var(--map-neutral)',
-                          stroke: 'var(--surface)',
-                          strokeWidth: 0.5,
-                          outline: 'none',
-                          cursor: country ? 'pointer' : 'default',
-                          opacity: isMicroState ? 0.85 : 1,
-                        }}
-                      />
+                      <g key={geo.rsmKey}>
+                        {isSelected && country ? (
+                          (() => {
+                            const [[bx0, by0], [bx1, by1]] = boundsPath.bounds(mainlandRing(geo))
+                            const bw = Math.max(bx1 - bx0, 1)
+                            const bh = Math.max(by1 - by0, 1)
+                            return (
+                              <defs>
+                                <pattern id={patternId} patternUnits="userSpaceOnUse" x={bx0} y={by0} width={bw} height={bh}>
+                                  {/* Counter-rotated + dimension-swapped: an <image> referencing an
+                                      external SVG renders sideways when an ancestor has a CSS rotate
+                                      (our -90° map wrapper) — this rotate(90) cancels that out. */}
+                                  <g transform="rotate(90)">
+                                    <image
+                                      href={assetUrl(country.flagImage)}
+                                      x={0}
+                                      y={-bw}
+                                      width={bh}
+                                      height={bw}
+                                      preserveAspectRatio="xMidYMid slice"
+                                    />
+                                  </g>
+                                </pattern>
+                              </defs>
+                            )
+                          })()
+                        ) : null}
+                        <Geography
+                          geography={geo}
+                          onClick={() => {
+                            if (country) {
+                              handleSelect(country.id)
+                            } else {
+                              setSelectedId(null)
+                              setSelectedCityId(null)
+                            }
+                          }}
+                          className={country ? 'map-country map-country--covered' : 'map-country'}
+                          style={{
+                            fill: country ? (isSelected ? `url(#${patternId})` : 'var(--map-default)') : 'var(--map-neutral)',
+                            fillOpacity: isSelected ? FLAG_FILL_OPACITY : 1,
+                            stroke: 'var(--surface)',
+                            strokeWidth: 0.5,
+                            outline: 'none',
+                            cursor: country ? 'pointer' : 'default',
+                            opacity: isMicroState ? 0.85 : 1,
+                          }}
+                        />
+                      </g>
                     )
                   })
               }
@@ -237,6 +298,29 @@ export function EuropeMap() {
               role="button"
               aria-label={iceland.name[lang]}
             >
+              {selectedId === 'is' ? (
+                <defs>
+                  <pattern
+                    id="flag-pattern-is"
+                    patternUnits="userSpaceOnUse"
+                    x={ICELAND_INSET_BOX.x}
+                    y={ICELAND_INSET_BOX.y}
+                    width={ICELAND_INSET_BOX.width}
+                    height={ICELAND_INSET_BOX.height}
+                  >
+                    <g transform="rotate(90)">
+                      <image
+                        href={assetUrl(iceland.flagImage)}
+                        x={0}
+                        y={-ICELAND_INSET_BOX.width}
+                        width={ICELAND_INSET_BOX.height}
+                        height={ICELAND_INSET_BOX.width}
+                        preserveAspectRatio="xMidYMid slice"
+                      />
+                    </g>
+                  </pattern>
+                </defs>
+              ) : null}
               <rect
                 x={ICELAND_INSET_BOX.x - 2}
                 y={ICELAND_INSET_BOX.y - 2}
@@ -248,7 +332,8 @@ export function EuropeMap() {
                 d={icelandPath}
                 className="map-country map-country--covered"
                 style={{
-                  fill: selectedId === 'is' ? hexToRgba(iceland.flagColors.primary, 0.3) : 'var(--map-default)',
+                  fill: selectedId === 'is' ? 'url(#flag-pattern-is)' : 'var(--map-default)',
+                  fillOpacity: selectedId === 'is' ? FLAG_FILL_OPACITY : 1,
                   stroke: 'var(--surface)',
                   strokeWidth: 0.5,
                 }}
