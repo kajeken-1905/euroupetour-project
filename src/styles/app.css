@@ -145,8 +145,7 @@
 }
 
 .europe-map-wrap {
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
+  margin: 0 -16px;
   background: #eef2f6;
   overflow: hidden;
 }
@@ -163,6 +162,18 @@
 
 .map-country--covered:hover {
   fill: var(--map-accent-hover) !important;
+}
+
+.map-iceland-inset {
+  cursor: pointer;
+}
+
+.map-iceland-inset-box {
+  fill: none;
+  stroke: var(--muted);
+  stroke-width: 0.75;
+  stroke-dasharray: 3 2;
+  opacity: 0.6;
 }
 
 .map-micro-marker {
