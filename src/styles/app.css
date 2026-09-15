@@ -73,7 +73,7 @@
   right: auto;
   bottom: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 8px;
   margin: 0;
   padding: 10px 12px calc(10px + var(--safe-bottom));
@@ -142,6 +142,80 @@
 .country-grid {
   display: grid;
   gap: 12px;
+}
+
+.europe-map-wrap {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  background: #eef2f6;
+  overflow: hidden;
+}
+
+.europe-map-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.map-country {
+  transition: fill 0.15s ease;
+}
+
+.map-country--covered:hover {
+  fill: var(--map-accent-hover) !important;
+}
+
+.map-micro-marker {
+  cursor: pointer;
+}
+
+.map-micro-hit {
+  fill: transparent;
+  pointer-events: all;
+}
+
+.map-micro-dot {
+  fill: var(--map-accent);
+  stroke: var(--surface);
+  stroke-width: 1.5;
+  pointer-events: none;
+}
+
+.map-micro-marker:hover .map-micro-dot {
+  fill: var(--map-accent-hover);
+}
+
+.map-legend {
+  display: flex;
+  gap: 16px;
+  padding: 14px 4px 4px;
+}
+
+.map-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.map-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.map-legend-dot--covered {
+  background: var(--map-accent);
+}
+
+.map-legend-dot--micro {
+  background: var(--map-accent);
+  opacity: 0.85;
+  outline: 1.5px solid var(--surface);
+  outline-offset: -1.5px;
 }
 
 .country-card {

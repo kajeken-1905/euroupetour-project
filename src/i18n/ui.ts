@@ -70,6 +70,13 @@ export const ui = {
   selectPlaceholder: { ko: '선택', en: 'Select' },
   home: { ko: '홈', en: 'Home' },
   countries: { ko: '국가', en: 'Countries' },
+  map: { ko: '지도', en: 'Map' },
+  mapSubtitle: {
+    ko: '가이드가 완성된 48개국을 지도에서 한눈에 확인하세요.',
+    en: 'See all 48 guide-complete countries at a glance.',
+  },
+  mapLegendCovered: { ko: '가이드 완성', en: 'Guide complete' },
+  mapLegendMicro: { ko: '소도시 국가', en: 'Micro-state' },
   adminContactNote: {
     ko: '문의/건의 사항이 있다면 메일 부탁드립니다',
     en: 'Please email us with questions or suggestions',

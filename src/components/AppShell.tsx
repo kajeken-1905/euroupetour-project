@@ -12,6 +12,7 @@ export function AppShell() {
   const isDarkRoute =
     pathname === '/' ||
     pathname === '/countries' ||
+    pathname === '/map' ||
     pathname.startsWith('/country/') ||
     pathname.startsWith('/city/') ||
     pathname.startsWith('/place/')
@@ -44,6 +45,7 @@ export function AppShell() {
             {t('home', lang)}
           </NavLink>
           <NavLink to="/countries">{t('countries', lang)}</NavLink>
+          <NavLink to="/map">{t('map', lang)}</NavLink>
         </nav>
       </div>
     </div>

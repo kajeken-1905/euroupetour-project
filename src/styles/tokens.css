@@ -10,6 +10,9 @@
   --frame-max: 430px;
   --font-display: 'Fraunces', 'Apple SD Gothic Neo', serif;
   --font-body: 'Pretendard', 'Avenir Next', 'Apple SD Gothic Neo', sans-serif;
+  --map-accent: #f2803c;
+  --map-accent-hover: #d9631f;
+  --map-neutral: #e2dccf;
 }
 
 * {

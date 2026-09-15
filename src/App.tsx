@@ -1,3 +1,4 @@
+import { lazy, Suspense } from 'react'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 import { LanguageProvider } from './contexts/LanguageContext'
 import { AppShell } from './components/AppShell'
@@ -9,6 +10,8 @@ import { PlacePage } from './pages/PlacePage'
 import './styles/tokens.css'
 import './styles/app.css'
 
+const MapPage = lazy(() => import('./pages/MapPage').then((m) => ({ default: m.MapPage })))
+
 export default function App() {
   return (
     <LanguageProvider>
@@ -17,6 +20,14 @@ export default function App() {
           <Route element={<AppShell />}>
             <Route index element={<HomePage />} />
             <Route path="countries" element={<CountriesPage />} />
+            <Route
+              path="map"
+              element={
+                <Suspense fallback={null}>
+                  <MapPage />
+                </Suspense>
+              }
+            />
             <Route path="country/:countryId" element={<CountryPage />} />
             <Route path="city/:cityId" element={<CityPage />} />
             <Route path="place/:placeId" element={<PlacePage />} />
