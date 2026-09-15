@@ -10,6 +10,7 @@ import { countries } from '../data/countries'
 import { cities } from '../data/cities'
 import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '../data/countryIsoMap'
 import { useLanguage } from '../contexts/LanguageContext'
+import { hexToRgba } from '../utils/color'
 
 const MAP_WIDTH = 800
 const MAP_HEIGHT = 485
@@ -38,6 +39,7 @@ export function EuropeMap() {
   const wrapRef = useRef<HTMLDivElement>(null)
   const [containerWidth, setContainerWidth] = useState(360)
   const [selectedId, setSelectedId] = useState<string | null>(null)
+  const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
 
   useEffect(() => {
     const el = wrapRef.current
@@ -112,6 +114,15 @@ export function EuropeMap() {
       navigate(`/country/${countryId}`)
     } else {
       setSelectedId(countryId)
+      setSelectedCityId(null)
+    }
+  }
+
+  const handleSelectCity = (cityId: string) => {
+    if (selectedCityId === cityId) {
+      navigate(`/city/${cityId}`)
+    } else {
+      setSelectedCityId(cityId)
     }
   }
 
@@ -146,10 +157,21 @@ export function EuropeMap() {
                       <Geography
                         key={geo.rsmKey}
                         geography={geo}
-                        onClick={() => (country ? handleSelect(country.id) : setSelectedId(null))}
+                        onClick={() => {
+                          if (country) {
+                            handleSelect(country.id)
+                          } else {
+                            setSelectedId(null)
+                            setSelectedCityId(null)
+                          }
+                        }}
                         className={country ? 'map-country map-country--covered' : 'map-country'}
                         style={{
-                          fill: country ? (isSelected ? 'var(--map-selected)' : 'var(--map-default)') : 'var(--map-neutral)',
+                          fill: country
+                            ? isSelected
+                              ? hexToRgba(country.flagColors.primary, 0.3)
+                              : 'var(--map-default)'
+                            : 'var(--map-neutral)',
                           stroke: 'var(--surface)',
                           strokeWidth: 0.5,
                           outline: 'none',
@@ -176,24 +198,37 @@ export function EuropeMap() {
                     <circle
                       r={4}
                       className="map-micro-dot"
-                      style={{ fill: isSelected ? 'var(--map-selected)' : 'var(--map-default)' }}
+                      style={{ fill: isSelected ? hexToRgba(c.flagColors.primary, 0.55) : 'var(--map-default)' }}
                     />
                     <title>{c.name[lang]}</title>
                   </Marker>
                 )
               })}
-            {selectedCities.map((city) => (
-              <Marker
-                key={city.id}
-                coordinates={[city.lng, city.lat]}
-                onClick={() => navigate(`/city/${city.id}`)}
-                className="map-city-marker"
-              >
-                <circle r={6} className="map-city-hit" />
-                <circle r={1.4} className="map-city-dot" />
-                <title>{city.name[lang]}</title>
-              </Marker>
-            ))}
+            {selectedCities.map((city) => {
+              const isCitySelected = city.id === selectedCityId
+              return (
+                <Marker
+                  key={city.id}
+                  coordinates={[city.lng, city.lat]}
+                  onClick={() => handleSelectCity(city.id)}
+                  className="map-city-marker"
+                >
+                  <circle r={6} className="map-city-hit" />
+                  <circle r={1.4} className={isCitySelected ? 'map-city-dot map-city-dot--selected' : 'map-city-dot'} />
+                  {isCitySelected ? (
+                    // Countered against the map's own -90° CSS rotation (internal +x runs to
+                    // screen "up") so the label sits above the pin and reads upright on screen.
+                    <g transform="translate(3, 0) rotate(90)">
+                      <text className="map-city-label" textAnchor="middle" dy="-4">
+                        {city.name[lang]}
+                      </text>
+                    </g>
+                  ) : (
+                    <title>{city.name[lang]}</title>
+                  )}
+                </Marker>
+              )
+            })}
           </ZoomableGroup>
           {icelandPath && iceland ? (
             <g
@@ -213,7 +248,7 @@ export function EuropeMap() {
                 d={icelandPath}
                 className="map-country map-country--covered"
                 style={{
-                  fill: selectedId === 'is' ? 'var(--map-selected)' : 'var(--map-default)',
+                  fill: selectedId === 'is' ? hexToRgba(iceland.flagColors.primary, 0.3) : 'var(--map-default)',
                   stroke: 'var(--surface)',
                   strokeWidth: 0.5,
                 }}

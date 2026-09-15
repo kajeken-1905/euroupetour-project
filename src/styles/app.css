@@ -221,6 +221,22 @@
   fill: var(--map-selected);
 }
 
+.map-city-dot--selected {
+  fill: var(--map-selected);
+  r: 2.2;
+}
+
+.map-city-label {
+  font-size: 7px;
+  font-weight: 700;
+  fill: var(--text);
+  paint-order: stroke;
+  stroke: var(--surface);
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+
 .country-card {
   display: block;
   border-radius: var(--radius);
