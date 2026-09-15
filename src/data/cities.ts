@@ -4,6 +4,8 @@ export const cities: City[] = [
   {
     id: "london",
     countryId: "uk",
+    lat: 51.5074,
+    lng: -0.1278,
     signatureImage: "/cities/london.jpg",
     name: { ko: "런던", en: "London" },
     nativeName: "London",
@@ -66,6 +68,8 @@ export const cities: City[] = [
   {
     id: "edinburgh",
     countryId: "uk",
+    lat: 55.9533,
+    lng: -3.1883,
     signatureImage: "/cities/edinburgh.jpg",
     name: { ko: "에든버러", en: "Edinburgh" },
     nativeName: "Edinburgh",
@@ -128,6 +132,8 @@ export const cities: City[] = [
   {
     id: "manchester",
     countryId: "uk",
+    lat: 53.4808,
+    lng: -2.2426,
     signatureImage: "/cities/manchester.jpg",
     name: { ko: "맨체스터", en: "Manchester" },
     nativeName: "Manchester",
@@ -190,6 +196,8 @@ export const cities: City[] = [
   {
     id: "bath",
     countryId: "uk",
+    lat: 51.3811,
+    lng: -2.359,
     signatureImage: "/cities/bath.jpg",
     name: { ko: "바스", en: "Bath" },
     nativeName: "Bath",
@@ -245,6 +253,8 @@ export const cities: City[] = [
   {
     id: "oxford",
     countryId: "uk",
+    lat: 51.752,
+    lng: -1.2577,
     signatureImage: "/cities/oxford.jpg",
     name: { ko: "옥스퍼드", en: "Oxford" },
     nativeName: "Oxford",
@@ -300,6 +310,8 @@ export const cities: City[] = [
   {
     id: "cambridge",
     countryId: "uk",
+    lat: 52.2053,
+    lng: 0.1218,
     signatureImage: "/cities/cambridge.jpg",
     name: { ko: "케임브리지", en: "Cambridge" },
     nativeName: "Cambridge",
@@ -355,6 +367,8 @@ export const cities: City[] = [
   {
     id: "liverpool",
     countryId: "uk",
+    lat: 53.4084,
+    lng: -2.9916,
     signatureImage: "/cities/liverpool.jpg",
     name: { ko: "리버풀", en: "Liverpool" },
     nativeName: "Liverpool",
@@ -410,6 +424,8 @@ export const cities: City[] = [
   {
     id: "brighton",
     countryId: "uk",
+    lat: 50.8225,
+    lng: -0.1372,
     signatureImage: "/cities/brighton.jpg",
     name: { ko: "브라이튼", en: "Brighton" },
     nativeName: "Brighton",
@@ -465,6 +481,8 @@ export const cities: City[] = [
   {
     id: "york",
     countryId: "uk",
+    lat: 53.96,
+    lng: -1.0873,
     signatureImage: "/cities/york.jpg",
     name: { ko: "요크", en: "York" },
     nativeName: "York",
@@ -520,6 +538,8 @@ export const cities: City[] = [
   {
     id: "bristol",
     countryId: "uk",
+    lat: 51.4545,
+    lng: -2.5879,
     signatureImage: "/cities/bristol.jpg",
     name: { ko: "브리스틀", en: "Bristol" },
     nativeName: "Bristol",
@@ -575,6 +595,8 @@ export const cities: City[] = [
   {
     id: "amsterdam",
     countryId: "nl",
+    lat: 52.3676,
+    lng: 4.9041,
     signatureImage: "/cities/amsterdam.jpg",
     name: { ko: "암스테르담", en: "Amsterdam" },
     nativeName: "Amsterdam",
@@ -637,6 +659,8 @@ export const cities: City[] = [
   {
     id: "rotterdam",
     countryId: "nl",
+    lat: 51.9244,
+    lng: 4.4777,
     signatureImage: "/cities/rotterdam.jpg",
     name: { ko: "로테르담", en: "Rotterdam" },
     nativeName: "Rotterdam",
@@ -692,6 +716,8 @@ export const cities: City[] = [
   {
     id: "the-hague",
     countryId: "nl",
+    lat: 52.0705,
+    lng: 4.3007,
     signatureImage: "/cities/the-hague.jpg",
     name: { ko: "헤이그", en: "The Hague" },
     nativeName: "Den Haag",
@@ -754,6 +780,8 @@ export const cities: City[] = [
   {
     id: "utrecht",
     countryId: "nl",
+    lat: 52.0907,
+    lng: 5.1214,
     signatureImage: "/cities/utrecht.jpg",
     name: { ko: "위트레흐트", en: "Utrecht" },
     nativeName: "Utrecht",
@@ -809,6 +837,8 @@ export const cities: City[] = [
   {
     id: "haarlem",
     countryId: "nl",
+    lat: 52.3874,
+    lng: 4.6462,
     signatureImage: "/cities/haarlem.jpg",
     name: { ko: "하를렘", en: "Haarlem" },
     nativeName: "Haarlem",
@@ -864,6 +894,8 @@ export const cities: City[] = [
   {
     id: "delft",
     countryId: "nl",
+    lat: 52.0116,
+    lng: 4.3571,
     signatureImage: "/cities/delft.jpg",
     name: { ko: "델프트", en: "Delft" },
     nativeName: "Delft",
@@ -919,6 +951,8 @@ export const cities: City[] = [
   {
     id: "maastricht",
     countryId: "nl",
+    lat: 50.8514,
+    lng: 5.691,
     signatureImage: "/cities/maastricht.jpg",
     name: { ko: "마스트리흐트", en: "Maastricht" },
     nativeName: "Maastricht",
@@ -974,6 +1008,8 @@ export const cities: City[] = [
   {
     id: "giethoorn",
     countryId: "nl",
+    lat: 52.7405,
+    lng: 6.0779,
     signatureImage: "/cities/giethoorn.jpg",
     name: { ko: "기트호른", en: "Giethoorn" },
     nativeName: "Giethoorn",
@@ -1015,6 +1051,8 @@ export const cities: City[] = [
   {
     id: "luxembourg-city",
     countryId: "lu",
+    lat: 49.6116,
+    lng: 6.1319,
     signatureImage: "/cities/luxembourg-city.jpg",
     name: { ko: "룩셈부르크 시티", en: "Luxembourg City" },
     nativeName: "Lëtzebuerg",
@@ -1077,6 +1115,8 @@ export const cities: City[] = [
   {
     id: "vianden",
     countryId: "lu",
+    lat: 49.9351,
+    lng: 6.2072,
     signatureImage: "/cities/vianden.jpg",
     name: { ko: "비안덴", en: "Vianden" },
     nativeName: "Veianen",
@@ -1118,6 +1158,8 @@ export const cities: City[] = [
   {
     id: "echternach",
     countryId: "lu",
+    lat: 49.8117,
+    lng: 6.4217,
     signatureImage: "/cities/echternach.jpg",
     name: { ko: "에히터나흐", en: "Echternach" },
     nativeName: "Iechternach",
@@ -1159,6 +1201,8 @@ export const cities: City[] = [
   {
     id: "remich",
     countryId: "lu",
+    lat: 49.5453,
+    lng: 6.3654,
     signatureImage: "/cities/remich.jpg",
     name: { ko: "레미히", en: "Remich" },
     nativeName: "Réimech",
@@ -1200,6 +1244,8 @@ export const cities: City[] = [
   {
     id: "brussels",
     countryId: "be",
+    lat: 50.8503,
+    lng: 4.3517,
     signatureImage: "/cities/brussels.jpg",
     name: { ko: "브뤼셀", en: "Brussels" },
     nativeName: "Brussel / Bruxelles",
@@ -1269,6 +1315,8 @@ export const cities: City[] = [
   {
     id: "bruges",
     countryId: "be",
+    lat: 51.2093,
+    lng: 3.2247,
     signatureImage: "/cities/bruges.jpg",
     name: { ko: "브뤼헤", en: "Bruges" },
     nativeName: "Brugge",
@@ -1324,6 +1372,8 @@ export const cities: City[] = [
   {
     id: "ghent",
     countryId: "be",
+    lat: 51.0543,
+    lng: 3.7174,
     signatureImage: "/cities/ghent.jpg",
     name: { ko: "겐트", en: "Ghent" },
     nativeName: "Gent",
@@ -1379,6 +1429,8 @@ export const cities: City[] = [
   {
     id: "antwerp",
     countryId: "be",
+    lat: 51.2194,
+    lng: 4.4025,
     signatureImage: "/cities/antwerp.jpg",
     name: { ko: "안트베르펜", en: "Antwerp" },
     nativeName: "Antwerpen",
@@ -1434,6 +1486,8 @@ export const cities: City[] = [
   {
     id: "leuven",
     countryId: "be",
+    lat: 50.8798,
+    lng: 4.7005,
     signatureImage: "/cities/leuven.jpg",
     name: { ko: "뢰번", en: "Leuven" },
     nativeName: "Leuven",
@@ -1489,6 +1543,8 @@ export const cities: City[] = [
   {
     id: "dinant",
     countryId: "be",
+    lat: 50.2601,
+    lng: 4.9098,
     signatureImage: "/cities/dinant.jpg",
     name: { ko: "디낭", en: "Dinant" },
     nativeName: "Dinant",
@@ -1530,6 +1586,8 @@ export const cities: City[] = [
   {
     id: "oslo",
     countryId: "no",
+    lat: 59.9139,
+    lng: 10.7522,
     signatureImage: "/cities/oslo.jpg",
     name: { ko: "오슬로", en: "Oslo" },
     nativeName: "Oslo",
@@ -1592,6 +1650,8 @@ export const cities: City[] = [
   {
     id: "bergen",
     countryId: "no",
+    lat: 60.3913,
+    lng: 5.3221,
     signatureImage: "/cities/bergen.jpg",
     name: { ko: "베르겐", en: "Bergen" },
     nativeName: "Bergen",
@@ -1647,6 +1707,8 @@ export const cities: City[] = [
   {
     id: "tromso",
     countryId: "no",
+    lat: 69.6492,
+    lng: 18.9553,
     signatureImage: "/cities/tromso.jpg",
     name: { ko: "트롬쇠", en: "Tromsø" },
     nativeName: "Tromsø",
@@ -1695,6 +1757,8 @@ export const cities: City[] = [
   {
     id: "stavanger",
     countryId: "no",
+    lat: 58.97,
+    lng: 5.7331,
     signatureImage: "/cities/stavanger.jpg",
     name: { ko: "스타방에르", en: "Stavanger" },
     nativeName: "Stavanger",
@@ -1743,6 +1807,8 @@ export const cities: City[] = [
   {
     id: "trondheim",
     countryId: "no",
+    lat: 63.4305,
+    lng: 10.3951,
     signatureImage: "/cities/trondheim.jpg",
     name: { ko: "트론헤임", en: "Trondheim" },
     nativeName: "Trondheim",
@@ -1791,6 +1857,8 @@ export const cities: City[] = [
   {
     id: "alesund",
     countryId: "no",
+    lat: 62.4722,
+    lng: 6.1495,
     signatureImage: "/cities/alesund.jpg",
     name: { ko: "올레순", en: "Ålesund" },
     nativeName: "Ålesund",
@@ -1832,6 +1900,8 @@ export const cities: City[] = [
   {
     id: "flam",
     countryId: "no",
+    lat: 60.8624,
+    lng: 7.114,
     signatureImage: "/cities/flam.jpg",
     name: { ko: "플롬", en: "Flåm" },
     nativeName: "Flåm",
@@ -1873,6 +1943,8 @@ export const cities: City[] = [
   {
     id: "helsinki",
     countryId: "fi",
+    lat: 60.1699,
+    lng: 24.9384,
     signatureImage: "/cities/helsinki.jpg",
     name: { ko: "헬싱키", en: "Helsinki" },
     nativeName: "Helsinki",
@@ -1935,6 +2007,8 @@ export const cities: City[] = [
   {
     id: "turku",
     countryId: "fi",
+    lat: 60.4518,
+    lng: 22.2666,
     signatureImage: "/cities/turku.jpg",
     name: { ko: "투르쿠", en: "Turku" },
     nativeName: "Turku",
@@ -1983,6 +2057,8 @@ export const cities: City[] = [
   {
     id: "tampere",
     countryId: "fi",
+    lat: 61.4978,
+    lng: 23.761,
     signatureImage: "/cities/tampere.jpg",
     name: { ko: "탐페레", en: "Tampere" },
     nativeName: "Tampere",
@@ -2031,6 +2107,8 @@ export const cities: City[] = [
   {
     id: "rovaniemi",
     countryId: "fi",
+    lat: 66.5039,
+    lng: 25.7294,
     signatureImage: "/cities/rovaniemi.jpg",
     name: { ko: "로바니에미", en: "Rovaniemi" },
     nativeName: "Rovaniemi",
@@ -2072,6 +2150,8 @@ export const cities: City[] = [
   {
     id: "porvoo",
     countryId: "fi",
+    lat: 60.3928,
+    lng: 25.6644,
     signatureImage: "/cities/porvoo.jpg",
     name: { ko: "포르보", en: "Porvoo" },
     nativeName: "Porvoo",
@@ -2113,6 +2193,8 @@ export const cities: City[] = [
   {
     id: "stockholm",
     countryId: "se",
+    lat: 59.3293,
+    lng: 18.0686,
     signatureImage: "/cities/stockholm.jpg",
     name: { ko: "스톡홀름", en: "Stockholm" },
     nativeName: "Stockholm",
@@ -2175,6 +2257,8 @@ export const cities: City[] = [
   {
     id: "gothenburg",
     countryId: "se",
+    lat: 57.7089,
+    lng: 11.9746,
     signatureImage: "/cities/gothenburg.jpg",
     name: { ko: "예테보리", en: "Gothenburg" },
     nativeName: "Göteborg",
@@ -2230,6 +2314,8 @@ export const cities: City[] = [
   {
     id: "malmo",
     countryId: "se",
+    lat: 55.605,
+    lng: 13.0038,
     signatureImage: "/cities/malmo.jpg",
     name: { ko: "말뫼", en: "Malmö" },
     nativeName: "Malmö",
@@ -2278,6 +2364,8 @@ export const cities: City[] = [
   {
     id: "uppsala",
     countryId: "se",
+    lat: 59.8586,
+    lng: 17.6389,
     signatureImage: "/cities/uppsala.jpg",
     name: { ko: "웁살라", en: "Uppsala" },
     nativeName: "Uppsala",
@@ -2326,6 +2414,8 @@ export const cities: City[] = [
   {
     id: "kiruna",
     countryId: "se",
+    lat: 67.8558,
+    lng: 20.2253,
     signatureImage: "/cities/kiruna.jpg",
     name: { ko: "키루나", en: "Kiruna" },
     nativeName: "Kiruna",
@@ -2367,6 +2457,8 @@ export const cities: City[] = [
   {
     id: "copenhagen",
     countryId: "dk",
+    lat: 55.6761,
+    lng: 12.5683,
     signatureImage: "/cities/copenhagen.jpg",
     name: { ko: "코펜하겐", en: "Copenhagen" },
     nativeName: "København",
@@ -2429,6 +2521,8 @@ export const cities: City[] = [
   {
     id: "aarhus",
     countryId: "dk",
+    lat: 56.1629,
+    lng: 10.2039,
     signatureImage: "/cities/aarhus.jpg",
     name: { ko: "오르후스", en: "Aarhus" },
     nativeName: "Aarhus",
@@ -2477,6 +2571,8 @@ export const cities: City[] = [
   {
     id: "odense",
     countryId: "dk",
+    lat: 55.4038,
+    lng: 10.4024,
     signatureImage: "/cities/odense.jpg",
     name: { ko: "오덴세", en: "Odense" },
     nativeName: "Odense",
@@ -2518,6 +2614,8 @@ export const cities: City[] = [
   {
     id: "aalborg",
     countryId: "dk",
+    lat: 57.0488,
+    lng: 9.9217,
     signatureImage: "/cities/aalborg.jpg",
     name: { ko: "올보르", en: "Aalborg" },
     nativeName: "Aalborg",
@@ -2559,6 +2657,8 @@ export const cities: City[] = [
   {
     id: "roskilde",
     countryId: "dk",
+    lat: 55.6415,
+    lng: 12.0803,
     signatureImage: "/cities/roskilde.jpg",
     name: { ko: "로스킬데", en: "Roskilde" },
     nativeName: "Roskilde",
@@ -2600,6 +2700,8 @@ export const cities: City[] = [
   {
     id: "vienna",
     countryId: "at",
+    lat: 48.2082,
+    lng: 16.3738,
     signatureImage: "/cities/vienna.jpg",
     name: { ko: "빈", en: "Vienna" },
     nativeName: "Wien",
@@ -2662,6 +2764,8 @@ export const cities: City[] = [
   {
     id: "salzburg",
     countryId: "at",
+    lat: 47.8095,
+    lng: 13.055,
     signatureImage: "/cities/salzburg.jpg",
     name: { ko: "잘츠부르크", en: "Salzburg" },
     nativeName: "Salzburg",
@@ -2724,6 +2828,8 @@ export const cities: City[] = [
   {
     id: "innsbruck",
     countryId: "at",
+    lat: 47.2692,
+    lng: 11.4041,
     signatureImage: "/cities/innsbruck.jpg",
     name: { ko: "인스브루크", en: "Innsbruck" },
     nativeName: "Innsbruck",
@@ -2772,6 +2878,8 @@ export const cities: City[] = [
   {
     id: "graz",
     countryId: "at",
+    lat: 47.0707,
+    lng: 15.4395,
     signatureImage: "/cities/graz.jpg",
     name: { ko: "그라츠", en: "Graz" },
     nativeName: "Graz",
@@ -2820,6 +2928,8 @@ export const cities: City[] = [
   {
     id: "hallstatt",
     countryId: "at",
+    lat: 47.5622,
+    lng: 13.6493,
     signatureImage: "/cities/hallstatt.jpg",
     name: { ko: "할슈타트", en: "Hallstatt" },
     nativeName: "Hallstatt",
@@ -2868,6 +2978,8 @@ export const cities: City[] = [
   {
     id: "budapest",
     countryId: "hu",
+    lat: 47.4979,
+    lng: 19.0402,
     signatureImage: "/cities/budapest.jpg",
     name: { ko: "부다페스트", en: "Budapest" },
     nativeName: "Budapest",
@@ -2944,6 +3056,8 @@ export const cities: City[] = [
   {
     id: "debrecen",
     countryId: "hu",
+    lat: 47.5316,
+    lng: 21.6273,
     signatureImage: "/cities/debrecen.jpg",
     name: { ko: "데브레첸", en: "Debrecen" },
     nativeName: "Debrecen",
@@ -2992,6 +3106,8 @@ export const cities: City[] = [
   {
     id: "pecs",
     countryId: "hu",
+    lat: 46.0727,
+    lng: 18.233,
     signatureImage: "/cities/pecs.jpg",
     name: { ko: "페치", en: "Pécs" },
     nativeName: "Pécs",
@@ -3040,6 +3156,8 @@ export const cities: City[] = [
   {
     id: "szeged",
     countryId: "hu",
+    lat: 46.253,
+    lng: 20.1414,
     signatureImage: "/cities/szeged.jpg",
     name: { ko: "세게드", en: "Szeged" },
     nativeName: "Szeged",
@@ -3088,6 +3206,8 @@ export const cities: City[] = [
   {
     id: "eger",
     countryId: "hu",
+    lat: 47.9025,
+    lng: 20.3772,
     signatureImage: "/cities/eger.jpg",
     name: { ko: "에게르", en: "Eger" },
     nativeName: "Eger",
@@ -3136,6 +3256,8 @@ export const cities: City[] = [
   {
     id: "prague",
     countryId: "cz",
+    lat: 50.0755,
+    lng: 14.4378,
     signatureImage: "/cities/prague.jpg",
     name: { ko: "프라하", en: "Prague" },
     nativeName: "Praha",
@@ -3233,6 +3355,8 @@ export const cities: City[] = [
   {
     id: "brno",
     countryId: "cz",
+    lat: 49.1951,
+    lng: 16.6068,
     signatureImage: "/cities/brno.jpg",
     name: { ko: "브르노", en: "Brno" },
     nativeName: "Brno",
@@ -3281,6 +3405,8 @@ export const cities: City[] = [
   {
     id: "cesky-krumlov",
     countryId: "cz",
+    lat: 48.8127,
+    lng: 14.3175,
     signatureImage: "/cities/cesky-krumlov.jpg",
     name: { ko: "체스키 크룸로프", en: "Český Krumlov" },
     nativeName: "Český Krumlov",
@@ -3329,6 +3455,8 @@ export const cities: City[] = [
   {
     id: "karlovy-vary",
     countryId: "cz",
+    lat: 50.2311,
+    lng: 12.8718,
     signatureImage: "/cities/karlovy-vary.jpg",
     name: { ko: "카를로비 바리", en: "Karlovy Vary" },
     nativeName: "Karlovy Vary",
@@ -3377,6 +3505,8 @@ export const cities: City[] = [
   {
     id: "ceske-budejovice",
     countryId: "cz",
+    lat: 48.9747,
+    lng: 14.4744,
     signatureImage: "/cities/ceske-budejovice.jpg",
     name: { ko: "체스케 부데요비체", en: "České Budějovice" },
     nativeName: "České Budějovice",
@@ -3425,6 +3555,8 @@ export const cities: City[] = [
   {
     id: "paris",
     countryId: "fr",
+    lat: 48.8566,
+    lng: 2.3522,
     signatureImage: "/cities/paris.jpg",
     name: { ko: "파리", en: "Paris" },
     nativeName: "Paris",
@@ -3501,6 +3633,8 @@ export const cities: City[] = [
   {
     id: "lyon",
     countryId: "fr",
+    lat: 45.764,
+    lng: 4.8357,
     signatureImage: "/cities/lyon.jpg",
     name: { ko: "리옹", en: "Lyon" },
     nativeName: "Lyon",
@@ -3549,6 +3683,8 @@ export const cities: City[] = [
   {
     id: "marseille",
     countryId: "fr",
+    lat: 43.2965,
+    lng: 5.3698,
     signatureImage: "/cities/marseille.jpg",
     name: { ko: "마르세유", en: "Marseille" },
     nativeName: "Marseille",
@@ -3597,6 +3733,8 @@ export const cities: City[] = [
   {
     id: "nice",
     countryId: "fr",
+    lat: 43.7102,
+    lng: 7.262,
     signatureImage: "/cities/nice.jpg",
     name: { ko: "니스", en: "Nice" },
     nativeName: "Nice",
@@ -3645,6 +3783,8 @@ export const cities: City[] = [
   {
     id: "bordeaux",
     countryId: "fr",
+    lat: 44.8378,
+    lng: -0.5792,
     signatureImage: "/cities/bordeaux.jpg",
     name: { ko: "보르도", en: "Bordeaux" },
     nativeName: "Bordeaux",
@@ -3693,6 +3833,8 @@ export const cities: City[] = [
   {
     id: "zurich",
     countryId: "ch",
+    lat: 47.3769,
+    lng: 8.5417,
     signatureImage: "/cities/zurich.jpg",
     name: { ko: "취리히", en: "Zurich" },
     nativeName: "Zürich",
@@ -3769,6 +3911,8 @@ export const cities: City[] = [
   {
     id: "geneva",
     countryId: "ch",
+    lat: 46.2044,
+    lng: 6.1432,
     signatureImage: "/cities/geneva.jpg",
     name: { ko: "제네바", en: "Geneva" },
     nativeName: "Genève",
@@ -3838,6 +3982,8 @@ export const cities: City[] = [
   {
     id: "bern",
     countryId: "ch",
+    lat: 46.948,
+    lng: 7.4474,
     signatureImage: "/cities/bern.jpg",
     name: { ko: "베른", en: "Bern" },
     nativeName: "Bern",
@@ -3893,6 +4039,8 @@ export const cities: City[] = [
   {
     id: "lucerne",
     countryId: "ch",
+    lat: 47.0502,
+    lng: 8.3093,
     signatureImage: "/cities/lucerne.jpg",
     name: { ko: "루체른", en: "Lucerne" },
     nativeName: "Luzern",
@@ -3962,6 +4110,8 @@ export const cities: City[] = [
   {
     id: "interlaken",
     countryId: "ch",
+    lat: 46.6863,
+    lng: 7.8632,
     signatureImage: "/cities/interlaken.jpg",
     name: { ko: "인터라켄", en: "Interlaken" },
     nativeName: "Interlaken",
@@ -4010,6 +4160,8 @@ export const cities: City[] = [
   {
     id: "berlin",
     countryId: "de",
+    lat: 52.52,
+    lng: 13.405,
     signatureImage: "/cities/berlin.jpg",
     name: { ko: "베를린", en: "Berlin" },
     nativeName: "Berlin",
@@ -4072,6 +4224,8 @@ export const cities: City[] = [
   {
     id: "munich",
     countryId: "de",
+    lat: 48.1351,
+    lng: 11.582,
     signatureImage: "/cities/munich.jpg",
     name: { ko: "뮌헨", en: "Munich" },
     nativeName: "München",
@@ -4127,6 +4281,8 @@ export const cities: City[] = [
   {
     id: "hamburg",
     countryId: "de",
+    lat: 53.5511,
+    lng: 9.9937,
     signatureImage: "/cities/hamburg.jpg",
     name: { ko: "함부르크", en: "Hamburg" },
     nativeName: "Hamburg",
@@ -4175,6 +4331,8 @@ export const cities: City[] = [
   {
     id: "cologne",
     countryId: "de",
+    lat: 50.9375,
+    lng: 6.9603,
     signatureImage: "/cities/cologne.jpg",
     name: { ko: "쾰른", en: "Cologne" },
     nativeName: "Köln",
@@ -4223,6 +4381,8 @@ export const cities: City[] = [
   {
     id: "frankfurt",
     countryId: "de",
+    lat: 50.1109,
+    lng: 8.6821,
     signatureImage: "/cities/frankfurt.jpg",
     name: { ko: "프랑크푸르트", en: "Frankfurt" },
     nativeName: "Frankfurt am Main",
@@ -4278,6 +4438,8 @@ export const cities: City[] = [
   {
     id: "rome",
     countryId: "it",
+    lat: 41.9028,
+    lng: 12.4964,
     signatureImage: "/cities/rome.jpg",
     name: { ko: "로마", en: "Rome" },
     nativeName: "Roma",
@@ -4368,6 +4530,8 @@ export const cities: City[] = [
   {
     id: "milan",
     countryId: "it",
+    lat: 45.4642,
+    lng: 9.19,
     signatureImage: "/cities/milan.jpg",
     name: { ko: "밀라노", en: "Milan" },
     nativeName: "Milano",
@@ -4430,6 +4594,8 @@ export const cities: City[] = [
   {
     id: "florence",
     countryId: "it",
+    lat: 43.7696,
+    lng: 11.2558,
     signatureImage: "/cities/florence.jpg",
     name: { ko: "피렌체", en: "Florence" },
     nativeName: "Firenze",
@@ -4506,6 +4672,8 @@ export const cities: City[] = [
   {
     id: "venice",
     countryId: "it",
+    lat: 45.4408,
+    lng: 12.3155,
     signatureImage: "/cities/venice.jpg",
     name: { ko: "베네치아", en: "Venice" },
     nativeName: "Venezia",
@@ -4582,6 +4750,8 @@ export const cities: City[] = [
   {
     id: "naples",
     countryId: "it",
+    lat: 40.8518,
+    lng: 14.2681,
     signatureImage: "/cities/naples.jpg",
     name: { ko: "나폴리", en: "Naples" },
     nativeName: "Napoli",
@@ -4637,6 +4807,8 @@ export const cities: City[] = [
   {
     id: "strasbourg",
     countryId: "fr",
+    lat: 48.5734,
+    lng: 7.7521,
     signatureImage: "/cities/strasbourg.jpg",
     name: { ko: "스트라스부르", en: "Strasbourg" },
     nativeName: "Strasbourg",
@@ -4685,6 +4857,8 @@ export const cities: City[] = [
   {
     id: "annecy",
     countryId: "fr",
+    lat: 45.8992,
+    lng: 6.1294,
     signatureImage: "/cities/annecy.jpg",
     name: { ko: "안시", en: "Annecy" },
     nativeName: "Annecy",
@@ -4733,6 +4907,8 @@ export const cities: City[] = [
   {
     id: "avignon",
     countryId: "fr",
+    lat: 43.9493,
+    lng: 4.8055,
     signatureImage: "/cities/avignon.jpg",
     name: { ko: "아비뇽", en: "Avignon" },
     nativeName: "Avignon",
@@ -4781,6 +4957,8 @@ export const cities: City[] = [
   {
     id: "basel",
     countryId: "ch",
+    lat: 47.5596,
+    lng: 7.5886,
     signatureImage: "/cities/basel.jpg",
     name: { ko: "바젤", en: "Basel" },
     nativeName: "Basel",
@@ -4829,6 +5007,8 @@ export const cities: City[] = [
   {
     id: "zermatt",
     countryId: "ch",
+    lat: 46.0207,
+    lng: 7.7491,
     signatureImage: "/cities/zermatt.jpg",
     name: { ko: "체르마트", en: "Zermatt" },
     nativeName: "Zermatt",
@@ -4877,6 +5057,8 @@ export const cities: City[] = [
   {
     id: "lausanne",
     countryId: "ch",
+    lat: 46.5197,
+    lng: 6.6323,
     signatureImage: "/cities/lausanne.jpg",
     name: { ko: "로잔", en: "Lausanne" },
     nativeName: "Lausanne",
@@ -4925,6 +5107,8 @@ export const cities: City[] = [
   {
     id: "dresden",
     countryId: "de",
+    lat: 51.0504,
+    lng: 13.7373,
     signatureImage: "/cities/dresden.jpg",
     name: { ko: "드레스덴", en: "Dresden" },
     nativeName: "Dresden",
@@ -4973,6 +5157,8 @@ export const cities: City[] = [
   {
     id: "heidelberg",
     countryId: "de",
+    lat: 49.3988,
+    lng: 8.6724,
     signatureImage: "/cities/heidelberg.jpg",
     name: { ko: "하이델베르크", en: "Heidelberg" },
     nativeName: "Heidelberg",
@@ -5021,6 +5207,8 @@ export const cities: City[] = [
   {
     id: "nuremberg",
     countryId: "de",
+    lat: 49.4521,
+    lng: 11.0767,
     signatureImage: "/cities/nuremberg.jpg",
     name: { ko: "뉘른베르크", en: "Nuremberg" },
     nativeName: "Nürnberg",
@@ -5069,6 +5257,8 @@ export const cities: City[] = [
   {
     id: "pisa",
     countryId: "it",
+    lat: 43.7228,
+    lng: 10.4017,
     signatureImage: "/cities/pisa.jpg",
     name: { ko: "피사", en: "Pisa" },
     nativeName: "Pisa",
@@ -5110,6 +5300,8 @@ export const cities: City[] = [
   {
     id: "san-gimignano",
     countryId: "it",
+    lat: 43.4674,
+    lng: 11.0431,
     signatureImage: "/cities/san-gimignano.jpg",
     name: { ko: "산 지미냐노", en: "San Gimignano" },
     nativeName: "San Gimignano",
@@ -5150,6 +5342,8 @@ export const cities: City[] = [
   {
     id: "bologna",
     countryId: "it",
+    lat: 44.4949,
+    lng: 11.3426,
     signatureImage: "/cities/bologna.jpg",
     name: { ko: "볼로냐", en: "Bologna" },
     nativeName: "Bologna",
@@ -5198,6 +5392,8 @@ export const cities: City[] = [
   {
     id: "verona",
     countryId: "it",
+    lat: 45.4384,
+    lng: 10.9916,
     signatureImage: "/cities/verona.jpg",
     name: { ko: "베로나", en: "Verona" },
     nativeName: "Verona",
@@ -5246,6 +5442,8 @@ export const cities: City[] = [
   {
     id: "turin",
     countryId: "it",
+    lat: 45.0703,
+    lng: 7.6869,
     signatureImage: "/cities/turin.jpg",
     name: { ko: "토리노", en: "Turin" },
     nativeName: "Torino",
@@ -5294,6 +5492,8 @@ export const cities: City[] = [
   {
     id: "toulouse",
     countryId: "fr",
+    lat: 43.6047,
+    lng: 1.4442,
     signatureImage: "/cities/toulouse.jpg",
     name: { ko: "툴루즈", en: "Toulouse" },
     nativeName: "Toulouse",
@@ -5342,6 +5542,8 @@ export const cities: City[] = [
   {
     id: "montpellier",
     countryId: "fr",
+    lat: 43.6108,
+    lng: 3.8767,
     signatureImage: "/cities/montpellier.jpg",
     name: { ko: "몽펠리에", en: "Montpellier" },
     nativeName: "Montpellier",
@@ -5390,6 +5592,8 @@ export const cities: City[] = [
   {
     id: "dijon",
     countryId: "fr",
+    lat: 47.322,
+    lng: 5.0415,
     signatureImage: "/cities/dijon.jpg",
     name: { ko: "디종", en: "Dijon" },
     nativeName: "Dijon",
@@ -5438,6 +5642,8 @@ export const cities: City[] = [
   {
     id: "chamonix",
     countryId: "fr",
+    lat: 45.9237,
+    lng: 6.8694,
     signatureImage: "/cities/chamonix.jpg",
     name: { ko: "샤모니", en: "Chamonix" },
     nativeName: "Chamonix-Mont-Blanc",
@@ -5486,6 +5692,8 @@ export const cities: City[] = [
   {
     id: "cannes",
     countryId: "fr",
+    lat: 43.5528,
+    lng: 7.0174,
     signatureImage: "/cities/cannes.jpg",
     name: { ko: "칸", en: "Cannes" },
     nativeName: "Cannes",
@@ -5519,6 +5727,8 @@ export const cities: City[] = [
   {
     id: "mont-saint-michel",
     countryId: "fr",
+    lat: 48.6361,
+    lng: -1.5115,
     signatureImage: "/cities/mont-saint-michel.jpg",
     name: { ko: "몽생미셸", en: "Mont Saint-Michel" },
     nativeName: "Mont Saint-Michel",
@@ -5559,6 +5769,8 @@ export const cities: City[] = [
   {
     id: "lugano",
     countryId: "ch",
+    lat: 46.0037,
+    lng: 8.9511,
     signatureImage: "/cities/lugano.jpg",
     name: { ko: "루가노", en: "Lugano" },
     nativeName: "Lugano",
@@ -5607,6 +5819,8 @@ export const cities: City[] = [
   {
     id: "montreux",
     countryId: "ch",
+    lat: 46.4312,
+    lng: 6.9107,
     signatureImage: "/cities/montreux.jpg",
     name: { ko: "몽트뢰", en: "Montreux" },
     nativeName: "Montreux",
@@ -5655,6 +5869,8 @@ export const cities: City[] = [
   {
     id: "grindelwald",
     countryId: "ch",
+    lat: 46.6244,
+    lng: 8.0414,
     signatureImage: "/cities/grindelwald.jpg",
     name: { ko: "그린델발트", en: "Grindelwald" },
     nativeName: "Grindelwald",
@@ -5703,6 +5919,8 @@ export const cities: City[] = [
   {
     id: "st-moritz",
     countryId: "ch",
+    lat: 46.4908,
+    lng: 9.8355,
     signatureImage: "/cities/st-moritz.jpg",
     name: { ko: "생모리츠", en: "St. Moritz" },
     nativeName: "St. Moritz",
@@ -5751,6 +5969,8 @@ export const cities: City[] = [
   {
     id: "stuttgart",
     countryId: "de",
+    lat: 48.7758,
+    lng: 9.1829,
     signatureImage: "/cities/stuttgart.jpg",
     name: { ko: "슈투트가르트", en: "Stuttgart" },
     nativeName: "Stuttgart",
@@ -5799,6 +6019,8 @@ export const cities: City[] = [
   {
     id: "leipzig",
     countryId: "de",
+    lat: 51.3397,
+    lng: 12.3731,
     signatureImage: "/cities/leipzig.jpg",
     name: { ko: "라이프치히", en: "Leipzig" },
     nativeName: "Leipzig",
@@ -5847,6 +6069,8 @@ export const cities: City[] = [
   {
     id: "rothenburg",
     countryId: "de",
+    lat: 49.3755,
+    lng: 10.1858,
     signatureImage: "/cities/rothenburg.jpg",
     name: { ko: "로텐부르크", en: "Rothenburg ob der Tauber" },
     nativeName: "Rothenburg ob der Tauber",
@@ -5895,6 +6119,8 @@ export const cities: City[] = [
   {
     id: "potsdam",
     countryId: "de",
+    lat: 52.3906,
+    lng: 13.0645,
     signatureImage: "/cities/potsdam.jpg",
     name: { ko: "포츠담", en: "Potsdam" },
     nativeName: "Potsdam",
@@ -5943,6 +6169,8 @@ export const cities: City[] = [
   {
     id: "amalfi",
     countryId: "it",
+    lat: 40.634,
+    lng: 14.6027,
     signatureImage: "/cities/amalfi.jpg",
     name: { ko: "아말피", en: "Amalfi" },
     nativeName: "Amalfi",
@@ -5991,6 +6219,8 @@ export const cities: City[] = [
   {
     id: "siena",
     countryId: "it",
+    lat: 43.3188,
+    lng: 11.3308,
     signatureImage: "/cities/siena.jpg",
     name: { ko: "시에나", en: "Siena" },
     nativeName: "Siena",
@@ -6039,6 +6269,8 @@ export const cities: City[] = [
   {
     id: "genoa",
     countryId: "it",
+    lat: 44.4056,
+    lng: 8.9463,
     signatureImage: "/cities/genoa.jpg",
     name: { ko: "제노바", en: "Genoa" },
     nativeName: "Genova",
@@ -6087,6 +6319,8 @@ export const cities: City[] = [
   {
     id: "palermo",
     countryId: "it",
+    lat: 38.1157,
+    lng: 13.3613,
     signatureImage: "/cities/palermo.jpg",
     name: { ko: "팔레르모", en: "Palermo" },
     nativeName: "Palermo",
@@ -6135,6 +6369,8 @@ export const cities: City[] = [
   {
     id: "madrid",
     countryId: "es",
+    lat: 40.4168,
+    lng: -3.7038,
     signatureImage: "/cities/madrid.jpg",
     name: { ko: "마드리드", en: "Madrid" },
     nativeName: "Madrid",
@@ -6260,6 +6496,8 @@ export const cities: City[] = [
   {
     id: "barcelona",
     countryId: "es",
+    lat: 41.3851,
+    lng: 2.1734,
     signatureImage: "/cities/barcelona.jpg",
     name: { ko: "바르셀로나", en: "Barcelona" },
     nativeName: "Barcelona",
@@ -6465,6 +6703,8 @@ export const cities: City[] = [
   {
     id: "seville",
     countryId: "es",
+    lat: 37.3891,
+    lng: -5.9845,
     signatureImage: "/cities/seville.jpg",
     name: { ko: "세비야", en: "Seville" },
     nativeName: "Sevilla",
@@ -6558,6 +6798,8 @@ export const cities: City[] = [
   {
     id: "granada",
     countryId: "es",
+    lat: 37.1773,
+    lng: -3.5986,
     signatureImage: "/cities/granada.jpg",
     name: { ko: "그라나다", en: "Granada" },
     nativeName: "Granada",
@@ -6667,6 +6909,8 @@ export const cities: City[] = [
   {
     id: "valencia",
     countryId: "es",
+    lat: 39.4699,
+    lng: -0.3763,
     signatureImage: "/cities/valencia.jpg",
     name: { ko: "발렌시아", en: "Valencia" },
     nativeName: "València",
@@ -6715,6 +6959,8 @@ export const cities: City[] = [
   {
     id: "malaga",
     countryId: "es",
+    lat: 36.7213,
+    lng: -4.4214,
     signatureImage: "/cities/malaga.jpg",
     name: { ko: "말라가", en: "Málaga" },
     nativeName: "Málaga",
@@ -6763,6 +7009,8 @@ export const cities: City[] = [
   {
     id: "bilbao",
     countryId: "es",
+    lat: 43.263,
+    lng: -2.935,
     signatureImage: "/cities/bilbao.jpg",
     name: { ko: "빌바오", en: "Bilbao" },
     nativeName: "Bilbo",
@@ -6811,6 +7059,8 @@ export const cities: City[] = [
   {
     id: "toledo",
     countryId: "es",
+    lat: 39.8628,
+    lng: -4.0273,
     signatureImage: "/cities/toledo.jpg",
     name: { ko: "톨레도", en: "Toledo" },
     nativeName: "Toledo",
@@ -6888,6 +7138,8 @@ export const cities: City[] = [
   {
     id: "cordoba",
     countryId: "es",
+    lat: 37.8882,
+    lng: -4.7794,
     signatureImage: "/cities/cordoba.jpg",
     name: { ko: "코르도바", en: "Córdoba" },
     nativeName: "Córdoba",
@@ -6936,6 +7188,8 @@ export const cities: City[] = [
   {
     id: "san-sebastian",
     countryId: "es",
+    lat: 43.3183,
+    lng: -1.9812,
     signatureImage: "/cities/san-sebastian.jpg",
     name: { ko: "산세바스티안", en: "San Sebastián" },
     nativeName: "Donostia",
@@ -6984,6 +7238,8 @@ export const cities: City[] = [
   {
     id: "zaragoza",
     countryId: "es",
+    lat: 41.6488,
+    lng: -0.8891,
     signatureImage: "/cities/zaragoza.jpg",
     name: { ko: "사라고사", en: "Zaragoza" },
     nativeName: "Zaragoza",
@@ -7032,6 +7288,8 @@ export const cities: City[] = [
   {
     id: "salamanca",
     countryId: "es",
+    lat: 40.9701,
+    lng: -5.6635,
     signatureImage: "/cities/salamanca.jpg",
     name: { ko: "살라망카", en: "Salamanca" },
     nativeName: "Salamanca",
@@ -7080,6 +7338,8 @@ export const cities: City[] = [
   {
     id: "santiago",
     countryId: "es",
+    lat: 42.8782,
+    lng: -8.5448,
     signatureImage: "/cities/santiago.jpg",
     name: { ko: "산티아고 데 콤포스텔라", en: "Santiago de Compostela" },
     nativeName: "Santiago de Compostela",
@@ -7128,6 +7388,8 @@ export const cities: City[] = [
   {
     id: "segovia",
     countryId: "es",
+    lat: 40.9429,
+    lng: -4.1088,
     signatureImage: "/cities/segovia.jpg",
     name: { ko: "세고비아", en: "Segovia" },
     nativeName: "Segovia",
@@ -7205,6 +7467,8 @@ export const cities: City[] = [
   {
     id: "ronda",
     countryId: "es",
+    lat: 36.7461,
+    lng: -5.1635,
     signatureImage: "/cities/ronda.jpg",
     name: { ko: "론다", en: "Ronda" },
     nativeName: "Ronda",
@@ -7253,6 +7517,8 @@ export const cities: City[] = [
   {
     id: "girona",
     countryId: "es",
+    lat: 41.9794,
+    lng: 2.8214,
     signatureImage: "/cities/girona.jpg",
     name: { ko: "지로나", en: "Girona" },
     nativeName: "Girona",
@@ -7301,6 +7567,8 @@ export const cities: City[] = [
   {
     id: "montserrat",
     countryId: "es",
+    lat: 41.5936,
+    lng: 1.8362,
     signatureImage: "/cities/montserrat.jpg",
     name: { ko: "몬세라트", en: "Montserrat" },
     nativeName: "Montserrat",
@@ -7341,6 +7609,8 @@ export const cities: City[] = [
   {
     id: "nerja",
     countryId: "es",
+    lat: 36.7473,
+    lng: -3.8748,
     signatureImage: "/cities/nerja.jpg",
     name: { ko: "네르하", en: "Nerja" },
     nativeName: "Nerja",
@@ -7389,6 +7659,8 @@ export const cities: City[] = [
   {
     id: "gibraltar",
     countryId: "es",
+    lat: 36.1408,
+    lng: -5.3536,
     signatureImage: "/cities/gibraltar.jpg",
     name: { ko: "지브롤터", en: "Gibraltar" },
     nativeName: "Gibraltar",
@@ -7437,6 +7709,8 @@ export const cities: City[] = [
   {
     id: "palma",
     countryId: "es",
+    lat: 39.5696,
+    lng: 2.6502,
     signatureImage: "/cities/palma.jpg",
     name: { ko: "팔마 데 마요르카", en: "Palma de Mallorca" },
     nativeName: "Palma",
@@ -7492,6 +7766,8 @@ export const cities: City[] = [
   {
     id: "lisbon",
     countryId: "pt",
+    lat: 38.7223,
+    lng: -9.1393,
     signatureImage: "/cities/lisbon.jpg",
     name: { ko: "리스본", en: "Lisbon" },
     nativeName: "Lisboa",
@@ -7624,6 +7900,8 @@ export const cities: City[] = [
   {
     id: "porto",
     countryId: "pt",
+    lat: 41.1579,
+    lng: -8.6291,
     signatureImage: "/cities/porto.jpg",
     name: { ko: "포르투", en: "Porto" },
     nativeName: "Porto",
@@ -7700,6 +7978,8 @@ export const cities: City[] = [
   {
     id: "sintra",
     countryId: "pt",
+    lat: 38.8029,
+    lng: -9.3817,
     signatureImage: "/cities/sintra.jpg",
     name: { ko: "신트라", en: "Sintra" },
     nativeName: "Sintra",
@@ -7755,6 +8035,8 @@ export const cities: City[] = [
   {
     id: "faro",
     countryId: "pt",
+    lat: 37.0194,
+    lng: -7.9304,
     signatureImage: "/cities/faro.jpg",
     name: { ko: "파로", en: "Faro" },
     nativeName: "Faro",
@@ -7803,6 +8085,8 @@ export const cities: City[] = [
   {
     id: "coimbra",
     countryId: "pt",
+    lat: 40.2033,
+    lng: -8.4103,
     signatureImage: "/cities/coimbra.jpg",
     name: { ko: "코임브라", en: "Coimbra" },
     nativeName: "Coimbra",
@@ -7865,6 +8149,8 @@ export const cities: City[] = [
   {
     id: "funchal",
     countryId: "pt",
+    lat: 32.6669,
+    lng: -16.9241,
     signatureImage: "/cities/funchal.jpg",
     name: { ko: "푼샬", en: "Funchal" },
     nativeName: "Funchal",
@@ -7913,6 +8199,8 @@ export const cities: City[] = [
   {
     id: "lagos",
     countryId: "pt",
+    lat: 37.1019,
+    lng: -8.6743,
     signatureImage: "/cities/lagos.jpg",
     name: { ko: "라고스", en: "Lagos" },
     nativeName: "Lagos",
@@ -7961,6 +8249,8 @@ export const cities: City[] = [
   {
     id: "cascais",
     countryId: "pt",
+    lat: 38.6979,
+    lng: -9.4215,
     signatureImage: "/cities/cascais.jpg",
     name: { ko: "카스카이스", en: "Cascais" },
     nativeName: "Cascais",
@@ -8009,6 +8299,8 @@ export const cities: City[] = [
   {
     id: "aveiro",
     countryId: "pt",
+    lat: 40.6443,
+    lng: -8.6455,
     signatureImage: "/cities/aveiro.jpg",
     name: { ko: "아베이루", en: "Aveiro" },
     nativeName: "Aveiro",
@@ -8064,6 +8356,8 @@ export const cities: City[] = [
   {
     id: "fatima",
     countryId: "pt",
+    lat: 39.6274,
+    lng: -8.6727,
     signatureImage: "/cities/fatima.jpg",
     name: { ko: "파티마", en: "Fátima" },
     nativeName: "Fátima",
@@ -8112,6 +8406,8 @@ export const cities: City[] = [
   {
     id: "evora",
     countryId: "pt",
+    lat: 38.5714,
+    lng: -7.9135,
     signatureImage: "/cities/evora.jpg",
     name: { ko: "에보라", en: "Évora" },
     nativeName: "Évora",
@@ -8160,6 +8456,8 @@ export const cities: City[] = [
   {
     id: "obidos",
     countryId: "pt",
+    lat: 39.3609,
+    lng: -9.1566,
     signatureImage: "/cities/obidos.jpg",
     name: { ko: "오비두스", en: "Óbidos" },
     nativeName: "Óbidos",
@@ -8208,6 +8506,8 @@ export const cities: City[] = [
   {
     id: "braga",
     countryId: "pt",
+    lat: 41.5454,
+    lng: -8.4265,
     signatureImage: "/cities/braga.jpg",
     name: { ko: "브라가", en: "Braga" },
     nativeName: "Braga",
@@ -8263,6 +8563,8 @@ export const cities: City[] = [
   {
     id: "nazare",
     countryId: "pt",
+    lat: 39.6011,
+    lng: -9.0714,
     signatureImage: "/cities/nazare.jpg",
     name: { ko: "나자레", en: "Nazaré" },
     nativeName: "Nazaré",
@@ -8311,6 +8613,8 @@ export const cities: City[] = [
   {
     id: "guimaraes",
     countryId: "pt",
+    lat: 41.4425,
+    lng: -8.2918,
     signatureImage: "/cities/guimaraes.jpg",
     name: { ko: "기마랑이스", en: "Guimarães" },
     nativeName: "Guimarães",
@@ -8359,6 +8663,8 @@ export const cities: City[] = [
   {
     id: "athens",
     countryId: "gr",
+    lat: 37.9838,
+    lng: 23.7275,
     signatureImage: "/cities/athens.jpg",
     name: { ko: "아테네", en: "Athens" },
     nativeName: "Athína",
@@ -8414,6 +8720,8 @@ export const cities: City[] = [
   {
     id: "santorini",
     countryId: "gr",
+    lat: 36.3932,
+    lng: 25.4615,
     signatureImage: "/cities/santorini.jpg",
     name: { ko: "산토리니", en: "Santorini" },
     nativeName: "Santoríni",
@@ -8462,6 +8770,8 @@ export const cities: City[] = [
   {
     id: "heraklion",
     countryId: "gr",
+    lat: 35.3387,
+    lng: 25.1442,
     signatureImage: "/cities/heraklion.jpg",
     name: { ko: "이라클리온", en: "Heraklion" },
     nativeName: "Heráklio",
@@ -8510,6 +8820,8 @@ export const cities: City[] = [
   {
     id: "mykonos",
     countryId: "gr",
+    lat: 37.4467,
+    lng: 25.3289,
     signatureImage: "/cities/mykonos.jpg",
     name: { ko: "미코노스", en: "Mykonos" },
     nativeName: "Mýkonos",
@@ -8558,6 +8870,8 @@ export const cities: City[] = [
   {
     id: "rhodes",
     countryId: "gr",
+    lat: 36.4341,
+    lng: 28.2176,
     signatureImage: "/cities/rhodes.jpg",
     name: { ko: "로도스", en: "Rhodes" },
     nativeName: "Ródos",
@@ -8606,6 +8920,8 @@ export const cities: City[] = [
   {
     id: "thessaloniki",
     countryId: "gr",
+    lat: 40.6401,
+    lng: 22.9444,
     signatureImage: "/cities/thessaloniki.jpg",
     name: { ko: "테살로니키", en: "Thessaloniki" },
     nativeName: "Thessaloníki",
@@ -8654,6 +8970,8 @@ export const cities: City[] = [
   {
     id: "corfu",
     countryId: "gr",
+    lat: 39.6243,
+    lng: 19.9217,
     signatureImage: "/cities/corfu.jpg",
     name: { ko: "코르푸", en: "Corfu" },
     nativeName: "Kérkyra",
@@ -8702,6 +9020,8 @@ export const cities: City[] = [
   {
     id: "nafplio",
     countryId: "gr",
+    lat: 37.5673,
+    lng: 22.8075,
     signatureImage: "/cities/nafplio.jpg",
     name: { ko: "나플리오", en: "Nafplio" },
     nativeName: "Náfplio",
@@ -8750,6 +9070,8 @@ export const cities: City[] = [
   {
     id: "warsaw",
     countryId: "pl",
+    lat: 52.2297,
+    lng: 21.0122,
     signatureImage: "/cities/warsaw.jpg",
     name: { ko: "바르샤바", en: "Warsaw" },
     nativeName: "Warszawa",
@@ -8798,6 +9120,8 @@ export const cities: City[] = [
   {
     id: "krakow",
     countryId: "pl",
+    lat: 50.0647,
+    lng: 19.945,
     signatureImage: "/cities/krakow.jpg",
     name: { ko: "크라쿠프", en: "Kraków" },
     nativeName: "Kraków",
@@ -8846,6 +9170,8 @@ export const cities: City[] = [
   {
     id: "gdansk",
     countryId: "pl",
+    lat: 54.352,
+    lng: 18.6466,
     signatureImage: "/cities/gdansk.jpg",
     name: { ko: "그단스크", en: "Gdańsk" },
     nativeName: "Gdańsk",
@@ -8894,6 +9220,8 @@ export const cities: City[] = [
   {
     id: "wroclaw",
     countryId: "pl",
+    lat: 51.1079,
+    lng: 17.0385,
     signatureImage: "/cities/wroclaw.jpg",
     name: { ko: "브로츠와프", en: "Wrocław" },
     nativeName: "Wrocław",
@@ -8942,6 +9270,8 @@ export const cities: City[] = [
   {
     id: "poznan",
     countryId: "pl",
+    lat: 52.4064,
+    lng: 16.9252,
     signatureImage: "/cities/poznan.jpg",
     name: { ko: "포즈난", en: "Poznań" },
     nativeName: "Poznań",
@@ -8990,6 +9320,8 @@ export const cities: City[] = [
   {
     id: "zakopane",
     countryId: "pl",
+    lat: 49.2992,
+    lng: 19.9496,
     signatureImage: "/cities/zakopane.jpg",
     name: { ko: "자코파네", en: "Zakopane" },
     nativeName: "Zakopane",
@@ -9038,6 +9370,8 @@ export const cities: City[] = [
   {
     id: "torun",
     countryId: "pl",
+    lat: 53.0138,
+    lng: 18.5984,
     signatureImage: "/cities/torun.jpg",
     name: { ko: "토룬", en: "Toruń" },
     nativeName: "Toruń",
@@ -9086,6 +9420,8 @@ export const cities: City[] = [
   {
     id: "zagreb",
     countryId: "hr",
+    lat: 45.815,
+    lng: 15.9819,
     signatureImage: "/cities/zagreb.jpg",
     name: { ko: "자그레브", en: "Zagreb" },
     nativeName: "Zagreb",
@@ -9134,6 +9470,8 @@ export const cities: City[] = [
   {
     id: "dubrovnik",
     countryId: "hr",
+    lat: 42.6507,
+    lng: 18.0944,
     signatureImage: "/cities/dubrovnik.jpg",
     name: { ko: "두브로브니크", en: "Dubrovnik" },
     nativeName: "Dubrovnik",
@@ -9196,6 +9534,8 @@ export const cities: City[] = [
   {
     id: "split",
     countryId: "hr",
+    lat: 43.5081,
+    lng: 16.4402,
     signatureImage: "/cities/split.jpg",
     name: { ko: "스플리트", en: "Split" },
     nativeName: "Split",
@@ -9251,6 +9591,8 @@ export const cities: City[] = [
   {
     id: "zadar",
     countryId: "hr",
+    lat: 44.1194,
+    lng: 15.2314,
     signatureImage: "/cities/zadar.jpg",
     name: { ko: "자다르", en: "Zadar" },
     nativeName: "Zadar",
@@ -9299,6 +9641,8 @@ export const cities: City[] = [
   {
     id: "rovinj",
     countryId: "hr",
+    lat: 45.0811,
+    lng: 13.6387,
     signatureImage: "/cities/rovinj.jpg",
     name: { ko: "로비니", en: "Rovinj" },
     nativeName: "Rovinj",
@@ -9347,6 +9691,8 @@ export const cities: City[] = [
   {
     id: "hvar",
     countryId: "hr",
+    lat: 43.1729,
+    lng: 16.4413,
     signatureImage: "/cities/hvar.jpg",
     name: { ko: "흐바르", en: "Hvar" },
     nativeName: "Hvar",
@@ -9395,6 +9741,8 @@ export const cities: City[] = [
   {
     id: "trogir",
     countryId: "hr",
+    lat: 43.5147,
+    lng: 16.2514,
     signatureImage: "/cities/trogir.jpg",
     name: { ko: "트로기르", en: "Trogir" },
     nativeName: "Trogir",
@@ -9435,6 +9783,8 @@ export const cities: City[] = [
   {
     id: "plitvice",
     countryId: "hr",
+    lat: 44.8654,
+    lng: 15.582,
     signatureImage: "/cities/plitvice.jpg",
     name: { ko: "플리트비체", en: "Plitvice Lakes" },
     nativeName: "Plitvička jezera",
@@ -9475,6 +9825,8 @@ export const cities: City[] = [
   {
     id: "dublin",
     countryId: "ie",
+    lat: 53.3498,
+    lng: -6.2603,
     signatureImage: "/cities/dublin.jpg",
     name: { ko: "더블린", en: "Dublin" },
     nativeName: "Baile Átha Cliath",
@@ -9523,6 +9875,8 @@ export const cities: City[] = [
   {
     id: "galway",
     countryId: "ie",
+    lat: 53.2707,
+    lng: -9.0568,
     signatureImage: "/cities/galway.jpg",
     name: { ko: "골웨이", en: "Galway" },
     nativeName: "Gaillimh",
@@ -9571,6 +9925,8 @@ export const cities: City[] = [
   {
     id: "cork",
     countryId: "ie",
+    lat: 51.8985,
+    lng: -8.4756,
     signatureImage: "/cities/cork.jpg",
     name: { ko: "코크", en: "Cork" },
     nativeName: "Corcaigh",
@@ -9619,6 +9975,8 @@ export const cities: City[] = [
   {
     id: "killarney",
     countryId: "ie",
+    lat: 52.0599,
+    lng: -9.5044,
     signatureImage: "/cities/killarney.jpg",
     name: { ko: "킬라니", en: "Killarney" },
     nativeName: "Cill Airne",
@@ -9667,6 +10025,8 @@ export const cities: City[] = [
   {
     id: "kilkenny",
     countryId: "ie",
+    lat: 52.6541,
+    lng: -7.2448,
     signatureImage: "/cities/kilkenny.jpg",
     name: { ko: "킬케니", en: "Kilkenny" },
     nativeName: "Cill Chainnigh",
@@ -9715,6 +10075,8 @@ export const cities: City[] = [
   {
     id: "limerick",
     countryId: "ie",
+    lat: 52.6638,
+    lng: -8.6267,
     signatureImage: "/cities/limerick.jpg",
     name: { ko: "리머릭", en: "Limerick" },
     nativeName: "Luimneach",
@@ -9763,6 +10125,8 @@ export const cities: City[] = [
   {
     id: "reykjavik",
     countryId: "is",
+    lat: 64.1466,
+    lng: -21.9426,
     signatureImage: "/cities/reykjavik.jpg",
     name: { ko: "레이캬비크", en: "Reykjavík" },
     nativeName: "Reykjavík",
@@ -9811,6 +10175,8 @@ export const cities: City[] = [
   {
     id: "akureyri",
     countryId: "is",
+    lat: 65.6835,
+    lng: -18.0878,
     signatureImage: "/cities/akureyri.jpg",
     name: { ko: "아쿠레이리", en: "Akureyri" },
     nativeName: "Akureyri",
@@ -9859,6 +10225,8 @@ export const cities: City[] = [
   {
     id: "vik",
     countryId: "is",
+    lat: 63.4186,
+    lng: -19.006,
     signatureImage: "/cities/vik.jpg",
     name: { ko: "비크", en: "Vík" },
     nativeName: "Vík í Mýrdal",
@@ -9907,6 +10275,8 @@ export const cities: City[] = [
   {
     id: "husavik",
     countryId: "is",
+    lat: 66.0449,
+    lng: -17.3389,
     signatureImage: "/cities/husavik.jpg",
     name: { ko: "후사빅", en: "Húsavík" },
     nativeName: "Húsavík",
@@ -9955,6 +10325,8 @@ export const cities: City[] = [
   {
     id: "selfoss",
     countryId: "is",
+    lat: 63.9336,
+    lng: -20.9971,
     signatureImage: "/cities/selfoss.jpg",
     name: { ko: "셀포스", en: "Selfoss" },
     nativeName: "Selfoss",
@@ -10003,6 +10375,8 @@ export const cities: City[] = [
   {
     id: "istanbul",
     countryId: "tr",
+    lat: 41.0082,
+    lng: 28.9784,
     signatureImage: "/cities/istanbul.jpg",
     name: { ko: "이스탄불", en: "Istanbul" },
     nativeName: "İstanbul",
@@ -10058,6 +10432,8 @@ export const cities: City[] = [
   {
     id: "ankara",
     countryId: "tr",
+    lat: 39.9334,
+    lng: 32.8597,
     signatureImage: "/cities/ankara.jpg",
     name: { ko: "앙카라", en: "Ankara" },
     nativeName: "Ankara",
@@ -10106,6 +10482,8 @@ export const cities: City[] = [
   {
     id: "izmir",
     countryId: "tr",
+    lat: 38.4237,
+    lng: 27.1428,
     signatureImage: "/cities/izmir.jpg",
     name: { ko: "이즈미르", en: "İzmir" },
     nativeName: "İzmir",
@@ -10154,6 +10532,8 @@ export const cities: City[] = [
   {
     id: "antalya",
     countryId: "tr",
+    lat: 36.8969,
+    lng: 30.7133,
     signatureImage: "/cities/antalya.jpg",
     name: { ko: "안탈리아", en: "Antalya" },
     nativeName: "Antalya",
@@ -10202,6 +10582,8 @@ export const cities: City[] = [
   {
     id: "goreme",
     countryId: "tr",
+    lat: 38.6431,
+    lng: 34.8289,
     signatureImage: "/cities/goreme.jpg",
     name: { ko: "카파도키아", en: "Cappadocia" },
     nativeName: "Kapadokya / Göreme",
@@ -10271,6 +10653,8 @@ export const cities: City[] = [
   {
     id: "bursa",
     countryId: "tr",
+    lat: 40.1826,
+    lng: 29.0665,
     signatureImage: "/cities/bursa.jpg",
     name: { ko: "부르사", en: "Bursa" },
     nativeName: "Bursa",
@@ -10319,6 +10703,8 @@ export const cities: City[] = [
   {
     id: "trabzon",
     countryId: "tr",
+    lat: 41.0027,
+    lng: 39.7168,
     signatureImage: "/cities/trabzon.jpg",
     name: { ko: "트라브존", en: "Trabzon" },
     nativeName: "Trabzon",
@@ -10367,6 +10753,8 @@ export const cities: City[] = [
   {
     id: "pamukkale",
     countryId: "tr",
+    lat: 37.9203,
+    lng: 29.12,
     signatureImage: "/cities/pamukkale.jpg",
     name: { ko: "파묵칼레", en: "Pamukkale" },
     nativeName: "Pamukkale",
@@ -10415,6 +10803,8 @@ export const cities: City[] = [
   {
     id: "sofia",
     countryId: "bg",
+    lat: 42.6977,
+    lng: 23.3219,
     signatureImage: "/cities/sofia.jpg",
     name: { ko: "소피아", en: "Sofia" },
     nativeName: "София",
@@ -10470,6 +10860,8 @@ export const cities: City[] = [
   {
     id: "plovdiv",
     countryId: "bg",
+    lat: 42.1354,
+    lng: 24.7453,
     signatureImage: "/cities/plovdiv.jpg",
     name: { ko: "플로브디프", en: "Plovdiv" },
     nativeName: "Пловдив",
@@ -10518,6 +10910,8 @@ export const cities: City[] = [
   {
     id: "varna",
     countryId: "bg",
+    lat: 43.2141,
+    lng: 27.9147,
     signatureImage: "/cities/varna.jpg",
     name: { ko: "바르나", en: "Varna" },
     nativeName: "Варна",
@@ -10566,6 +10960,8 @@ export const cities: City[] = [
   {
     id: "veliko-tarnovo",
     countryId: "bg",
+    lat: 43.0757,
+    lng: 25.6172,
     signatureImage: "/cities/veliko-tarnovo.jpg",
     name: { ko: "벨리코터르노보", en: "Veliko Tarnovo" },
     nativeName: "Велико Търново",
@@ -10614,6 +11010,8 @@ export const cities: City[] = [
   {
     id: "nessebar",
     countryId: "bg",
+    lat: 42.6587,
+    lng: 27.7351,
     signatureImage: "/cities/nessebar.jpg",
     name: { ko: "네세바르", en: "Nesebar" },
     nativeName: "Несебър",
@@ -10662,6 +11060,8 @@ export const cities: City[] = [
   {
     id: "bucharest",
     countryId: "ro",
+    lat: 44.4268,
+    lng: 26.1025,
     signatureImage: "/cities/bucharest.jpg",
     name: { ko: "부쿠레슈티", en: "Bucharest" },
     nativeName: "București",
@@ -10717,6 +11117,8 @@ export const cities: City[] = [
   {
     id: "brasov",
     countryId: "ro",
+    lat: 45.6427,
+    lng: 25.5887,
     signatureImage: "/cities/brasov.jpg",
     name: { ko: "브라쇼브", en: "Brașov" },
     nativeName: "Brașov",
@@ -10765,6 +11167,8 @@ export const cities: City[] = [
   {
     id: "sibiu",
     countryId: "ro",
+    lat: 45.7983,
+    lng: 24.1256,
     signatureImage: "/cities/sibiu.jpg",
     name: { ko: "시비우", en: "Sibiu" },
     nativeName: "Sibiu",
@@ -10813,6 +11217,8 @@ export const cities: City[] = [
   {
     id: "sighisoara",
     countryId: "ro",
+    lat: 46.2197,
+    lng: 24.7925,
     signatureImage: "/cities/sighisoara.jpg",
     name: { ko: "시기쇼아라", en: "Sighișoara" },
     nativeName: "Sighișoara",
@@ -10861,6 +11267,8 @@ export const cities: City[] = [
   {
     id: "cluj-napoca",
     countryId: "ro",
+    lat: 46.7712,
+    lng: 23.6236,
     signatureImage: "/cities/cluj-napoca.jpg",
     name: { ko: "클루지나포카", en: "Cluj-Napoca" },
     nativeName: "Cluj-Napoca",
@@ -10909,6 +11317,8 @@ export const cities: City[] = [
   {
     id: "timisoara",
     countryId: "ro",
+    lat: 45.7489,
+    lng: 21.2087,
     signatureImage: "/cities/timisoara.jpg",
     name: { ko: "티미쇼아라", en: "Timișoara" },
     nativeName: "Timișoara",
@@ -10957,6 +11367,8 @@ export const cities: City[] = [
   {
     id: "monaco",
     countryId: "mc",
+    lat: 43.7384,
+    lng: 7.4246,
     signatureImage: "/cities/monaco.jpg",
     name: { ko: "모나코", en: "Monaco" },
     nativeName: "Monaco",
@@ -11005,6 +11417,8 @@ export const cities: City[] = [
   {
     id: "monte-carlo",
     countryId: "mc",
+    lat: 43.7396,
+    lng: 7.4276,
     signatureImage: "/cities/monte-carlo.jpg",
     name: { ko: "몬테카를로", en: "Monte Carlo" },
     nativeName: "Monte-Carlo",
@@ -11053,6 +11467,8 @@ export const cities: City[] = [
   {
     id: "vatican-city",
     countryId: "va",
+    lat: 41.9029,
+    lng: 12.4534,
     signatureImage: "/cities/vatican-city.jpg",
     name: { ko: "바티칸", en: "Vatican City" },
     nativeName: "Città del Vaticano",
@@ -11101,6 +11517,8 @@ export const cities: City[] = [
   {
     id: "andorra-la-vella",
     countryId: "ad",
+    lat: 42.5063,
+    lng: 1.5218,
     signatureImage: "/cities/andorra-la-vella.jpg",
     name: { ko: "안도라라베야", en: "Andorra la Vella" },
     nativeName: "Andorra la Vella",
@@ -11149,6 +11567,8 @@ export const cities: City[] = [
   {
     id: "pas-de-la-casa",
     countryId: "ad",
+    lat: 42.5427,
+    lng: 1.7332,
     signatureImage: "/cities/pas-de-la-casa.jpg",
     name: { ko: "파스데라카사", en: "Pas de la Casa" },
     nativeName: "Pas de la Casa",
@@ -11197,6 +11617,8 @@ export const cities: City[] = [
   {
     id: "ordino",
     countryId: "ad",
+    lat: 42.5563,
+    lng: 1.533,
     signatureImage: "/cities/ordino.jpg",
     name: { ko: "오르디노", en: "Ordino" },
     nativeName: "Ordino",
@@ -11245,6 +11667,8 @@ export const cities: City[] = [
   {
     id: "vaduz",
     countryId: "li",
+    lat: 47.141,
+    lng: 9.5209,
     signatureImage: "/cities/vaduz.jpg",
     name: { ko: "파두츠", en: "Vaduz" },
     nativeName: "Vaduz",
@@ -11300,6 +11724,8 @@ export const cities: City[] = [
   {
     id: "schaan",
     countryId: "li",
+    lat: 47.1667,
+    lng: 9.5093,
     signatureImage: "/cities/schaan.jpg",
     name: { ko: "샨", en: "Schaan" },
     nativeName: "Schaan",
@@ -11348,6 +11774,8 @@ export const cities: City[] = [
   {
     id: "malbun",
     countryId: "li",
+    lat: 47.0975,
+    lng: 9.6127,
     signatureImage: "/cities/malbun.jpg",
     name: { ko: "말분", en: "Malbun" },
     nativeName: "Malbun",
@@ -11396,6 +11824,8 @@ export const cities: City[] = [
   {
     id: "bratislava",
     countryId: "sk",
+    lat: 48.1486,
+    lng: 17.1077,
     signatureImage: "/cities/bratislava.jpg",
     name: { ko: "브라티슬라바", en: "Bratislava" },
     nativeName: "Bratislava",
@@ -11444,6 +11874,8 @@ export const cities: City[] = [
   {
     id: "kosice",
     countryId: "sk",
+    lat: 48.7164,
+    lng: 21.2611,
     signatureImage: "/cities/kosice.jpg",
     name: { ko: "코시체", en: "Košice" },
     nativeName: "Košice",
@@ -11492,6 +11924,8 @@ export const cities: City[] = [
   {
     id: "poprad",
     countryId: "sk",
+    lat: 49.0522,
+    lng: 20.2976,
     signatureImage: "/cities/poprad.jpg",
     name: { ko: "포프라트", en: "Poprad" },
     nativeName: "Poprad",
@@ -11540,6 +11974,8 @@ export const cities: City[] = [
   {
     id: "banska-bystrica",
     countryId: "sk",
+    lat: 48.7362,
+    lng: 19.1462,
     signatureImage: "/cities/banska-bystrica.jpg",
     name: { ko: "반스카비스트리차", en: "Banská Bystrica" },
     nativeName: "Banská Bystrica",
@@ -11588,6 +12024,8 @@ export const cities: City[] = [
   {
     id: "trencin",
     countryId: "sk",
+    lat: 48.8945,
+    lng: 18.0444,
     signatureImage: "/cities/trencin.jpg",
     name: { ko: "트렌친", en: "Trenčín" },
     nativeName: "Trenčín",
@@ -11636,6 +12074,8 @@ export const cities: City[] = [
   {
     id: "ljubljana",
     countryId: "si",
+    lat: 46.0569,
+    lng: 14.5058,
     signatureImage: "/cities/ljubljana.jpg",
     name: { ko: "류블랴나", en: "Ljubljana" },
     nativeName: "Ljubljana",
@@ -11684,6 +12124,8 @@ export const cities: City[] = [
   {
     id: "bled",
     countryId: "si",
+    lat: 46.3683,
+    lng: 14.1146,
     signatureImage: "/cities/bled.jpg",
     name: { ko: "블레드", en: "Bled" },
     nativeName: "Bled",
@@ -11732,6 +12174,8 @@ export const cities: City[] = [
   {
     id: "piran",
     countryId: "si",
+    lat: 45.5285,
+    lng: 13.5686,
     signatureImage: "/cities/piran.jpg",
     name: { ko: "피란", en: "Piran" },
     nativeName: "Piran",
@@ -11780,6 +12224,8 @@ export const cities: City[] = [
   {
     id: "maribor",
     countryId: "si",
+    lat: 46.5547,
+    lng: 15.6459,
     signatureImage: "/cities/maribor.jpg",
     name: { ko: "마리보르", en: "Maribor" },
     nativeName: "Maribor",
@@ -11828,6 +12274,8 @@ export const cities: City[] = [
   {
     id: "postojna",
     countryId: "si",
+    lat: 45.7761,
+    lng: 14.2131,
     signatureImage: "/cities/postojna.jpg",
     name: { ko: "포스트오이나", en: "Postojna" },
     nativeName: "Postojna",
@@ -11876,6 +12324,8 @@ export const cities: City[] = [
   {
     id: "sarajevo",
     countryId: "ba",
+    lat: 43.8563,
+    lng: 18.4131,
     signatureImage: "/cities/sarajevo.jpg",
     name: { ko: "사라예보", en: "Sarajevo" },
     nativeName: "Sarajevo",
@@ -11924,6 +12374,8 @@ export const cities: City[] = [
   {
     id: "mostar",
     countryId: "ba",
+    lat: 43.3438,
+    lng: 17.8078,
     signatureImage: "/cities/mostar.jpg",
     name: { ko: "모스타르", en: "Mostar" },
     nativeName: "Mostar",
@@ -11972,6 +12424,8 @@ export const cities: City[] = [
   {
     id: "banja-luka",
     countryId: "ba",
+    lat: 44.7722,
+    lng: 17.191,
     signatureImage: "/cities/banja-luka.jpg",
     name: { ko: "바냐루카", en: "Banja Luka" },
     nativeName: "Banja Luka",
@@ -12020,6 +12474,8 @@ export const cities: City[] = [
   {
     id: "travnik",
     countryId: "ba",
+    lat: 44.2286,
+    lng: 17.665,
     signatureImage: "/cities/travnik.jpg",
     name: { ko: "트라브니크", en: "Travnik" },
     nativeName: "Travnik",
@@ -12068,6 +12524,8 @@ export const cities: City[] = [
   {
     id: "kotor",
     countryId: "me",
+    lat: 42.4247,
+    lng: 18.7712,
     signatureImage: "/cities/kotor.jpg",
     name: { ko: "코토르", en: "Kotor" },
     nativeName: "Kotor",
@@ -12116,6 +12574,8 @@ export const cities: City[] = [
   {
     id: "budva",
     countryId: "me",
+    lat: 42.2864,
+    lng: 18.84,
     signatureImage: "/cities/budva.jpg",
     name: { ko: "부드바", en: "Budva" },
     nativeName: "Budva",
@@ -12164,6 +12624,8 @@ export const cities: City[] = [
   {
     id: "podgorica",
     countryId: "me",
+    lat: 42.4304,
+    lng: 19.2594,
     signatureImage: "/cities/podgorica.jpg",
     name: { ko: "포드고리차", en: "Podgorica" },
     nativeName: "Podgorica",
@@ -12212,6 +12674,8 @@ export const cities: City[] = [
   {
     id: "herceg-novi",
     countryId: "me",
+    lat: 42.4531,
+    lng: 18.5375,
     signatureImage: "/cities/herceg-novi.jpg",
     name: { ko: "헤르체그노비", en: "Herceg Novi" },
     nativeName: "Herceg Novi",
@@ -12260,6 +12724,8 @@ export const cities: City[] = [
   {
     id: "belgrade",
     countryId: "rs",
+    lat: 44.7866,
+    lng: 20.4489,
     signatureImage: "/cities/belgrade.jpg",
     name: { ko: "베오그라드", en: "Belgrade" },
     nativeName: "Beograd",
@@ -12315,6 +12781,8 @@ export const cities: City[] = [
   {
     id: "novi-sad",
     countryId: "rs",
+    lat: 45.2671,
+    lng: 19.8335,
     signatureImage: "/cities/novi-sad.jpg",
     name: { ko: "노비사드", en: "Novi Sad" },
     nativeName: "Novi Sad",
@@ -12363,6 +12831,8 @@ export const cities: City[] = [
   {
     id: "nis",
     countryId: "rs",
+    lat: 43.3209,
+    lng: 21.8958,
     signatureImage: "/cities/nis.jpg",
     name: { ko: "니시", en: "Niš" },
     nativeName: "Niš",
@@ -12411,6 +12881,8 @@ export const cities: City[] = [
   {
     id: "subotica",
     countryId: "rs",
+    lat: 46.1005,
+    lng: 19.665,
     signatureImage: "/cities/subotica.jpg",
     name: { ko: "수보티차", en: "Subotica" },
     nativeName: "Subotica",
@@ -12459,6 +12931,8 @@ export const cities: City[] = [
   {
     id: "tbilisi",
     countryId: "ge",
+    lat: 41.7151,
+    lng: 44.8271,
     signatureImage: "/cities/tbilisi.jpg",
     name: { ko: "트빌리시", en: "Tbilisi" },
     nativeName: "თბილისი",
@@ -12507,6 +12981,8 @@ export const cities: City[] = [
   {
     id: "batumi",
     countryId: "ge",
+    lat: 41.6168,
+    lng: 41.6367,
     signatureImage: "/cities/batumi.jpg",
     name: { ko: "바투미", en: "Batumi" },
     nativeName: "ბათუმი",
@@ -12555,6 +13031,8 @@ export const cities: City[] = [
   {
     id: "kutaisi",
     countryId: "ge",
+    lat: 42.2679,
+    lng: 42.6946,
     signatureImage: "/cities/kutaisi.jpg",
     name: { ko: "쿠타이스", en: "Kutaisi" },
     nativeName: "ქუთაისი",
@@ -12603,6 +13081,8 @@ export const cities: City[] = [
   {
     id: "stepantsminda",
     countryId: "ge",
+    lat: 42.6578,
+    lng: 44.6435,
     signatureImage: "/cities/stepantsminda.jpg",
     name: { ko: "스테판츠민다", en: "Stepantsminda" },
     nativeName: "სტეფანწმინდა",
@@ -12651,6 +13131,8 @@ export const cities: City[] = [
   {
     id: "sighnaghi",
     countryId: "ge",
+    lat: 41.6206,
+    lng: 45.9174,
     signatureImage: "/cities/sighnaghi.jpg",
     name: { ko: "시그나기", en: "Sighnaghi" },
     nativeName: "სიღნაღი",
@@ -12699,6 +13181,8 @@ export const cities: City[] = [
   {
     id: "skopje",
     countryId: "mk",
+    lat: 41.9981,
+    lng: 21.4254,
     signatureImage: "/cities/skopje.jpg",
     name: { ko: "스코페", en: "Skopje" },
     nativeName: "Скопје",
@@ -12747,6 +13231,8 @@ export const cities: City[] = [
   {
     id: "ohrid",
     countryId: "mk",
+    lat: 41.1231,
+    lng: 20.8016,
     signatureImage: "/cities/ohrid.jpg",
     name: { ko: "오흐리드", en: "Ohrid" },
     nativeName: "Охрид",
@@ -12795,6 +13281,8 @@ export const cities: City[] = [
   {
     id: "bitola",
     countryId: "mk",
+    lat: 41.0297,
+    lng: 21.3347,
     signatureImage: "/cities/bitola.jpg",
     name: { ko: "비톨라", en: "Bitola" },
     nativeName: "Битола",
@@ -12843,6 +13331,8 @@ export const cities: City[] = [
   {
     id: "tetovo",
     countryId: "mk",
+    lat: 42.01,
+    lng: 20.9714,
     signatureImage: "/cities/tetovo.jpg",
     name: { ko: "테토보", en: "Tetovo" },
     nativeName: "Тетово",
@@ -12891,6 +13381,8 @@ export const cities: City[] = [
   {
     id: "nicosia",
     countryId: "cy",
+    lat: 35.1856,
+    lng: 33.3823,
     signatureImage: "/cities/nicosia.jpg",
     name: { ko: "니코시아", en: "Nicosia" },
     nativeName: "Λευκωσία / Lefkoşa",
@@ -12939,6 +13431,8 @@ export const cities: City[] = [
   {
     id: "limassol",
     countryId: "cy",
+    lat: 34.7071,
+    lng: 33.0226,
     signatureImage: "/cities/limassol.jpg",
     name: { ko: "리마솔", en: "Limassol" },
     nativeName: "Λεμεσός",
@@ -12987,6 +13481,8 @@ export const cities: City[] = [
   {
     id: "paphos",
     countryId: "cy",
+    lat: 34.772,
+    lng: 32.4297,
     signatureImage: "/cities/paphos.jpg",
     name: { ko: "파포스", en: "Paphos" },
     nativeName: "Πάφος",
@@ -13035,6 +13531,8 @@ export const cities: City[] = [
   {
     id: "ayia-napa",
     countryId: "cy",
+    lat: 34.9885,
+    lng: 34.0056,
     signatureImage: "/cities/ayia-napa.jpg",
     name: { ko: "아야나파", en: "Ayia Napa" },
     nativeName: "Αγία Νάπα",
@@ -13083,6 +13581,8 @@ export const cities: City[] = [
   {
     id: "tirana",
     countryId: "al",
+    lat: 41.3275,
+    lng: 19.8187,
     signatureImage: "/cities/tirana.jpg",
     name: { ko: "티라나", en: "Tirana" },
     nativeName: "Tiranë",
@@ -13131,6 +13631,8 @@ export const cities: City[] = [
   {
     id: "berat",
     countryId: "al",
+    lat: 40.7058,
+    lng: 19.9522,
     signatureImage: "/cities/berat.jpg",
     name: { ko: "베라트", en: "Berat" },
     nativeName: "Berati",
@@ -13179,6 +13681,8 @@ export const cities: City[] = [
   {
     id: "gjirokaster",
     countryId: "al",
+    lat: 40.0758,
+    lng: 20.1381,
     signatureImage: "/cities/gjirokaster.jpg",
     name: { ko: "지로카스트라", en: "Gjirokastër" },
     nativeName: "Gjirokastra",
@@ -13227,6 +13731,8 @@ export const cities: City[] = [
   {
     id: "sarande",
     countryId: "al",
+    lat: 39.8756,
+    lng: 20.0053,
     signatureImage: "/cities/sarande.jpg",
     name: { ko: "사란다", en: "Sarandë" },
     nativeName: "Saranda",
@@ -13275,6 +13781,8 @@ export const cities: City[] = [
   {
     id: "valletta",
     countryId: "mt",
+    lat: 35.8989,
+    lng: 14.5146,
     signatureImage: "/cities/valletta.jpg",
     name: { ko: "발레타", en: "Valletta" },
     nativeName: "Valletta",
@@ -13323,6 +13831,8 @@ export const cities: City[] = [
   {
     id: "mdina",
     countryId: "mt",
+    lat: 35.8878,
+    lng: 14.403,
     signatureImage: "/cities/mdina.jpg",
     name: { ko: "므디나", en: "Mdina" },
     nativeName: "L-Imdina",
@@ -13371,6 +13881,8 @@ export const cities: City[] = [
   {
     id: "gozo",
     countryId: "mt",
+    lat: 36.0443,
+    lng: 14.244,
     signatureImage: "/cities/gozo.jpg",
     name: { ko: "고조", en: "Gozo" },
     nativeName: "Għawdex / Victoria",
@@ -13419,6 +13931,8 @@ export const cities: City[] = [
   {
     id: "tallinn",
     countryId: "ee",
+    lat: 59.437,
+    lng: 24.7536,
     signatureImage: "/cities/tallinn.jpg",
     name: { ko: "탈린", en: "Tallinn" },
     nativeName: "Tallinn",
@@ -13467,6 +13981,8 @@ export const cities: City[] = [
   {
     id: "tartu",
     countryId: "ee",
+    lat: 58.3776,
+    lng: 26.729,
     signatureImage: "/cities/tartu.jpg",
     name: { ko: "타르투", en: "Tartu" },
     nativeName: "Tartu",
@@ -13515,6 +14031,8 @@ export const cities: City[] = [
   {
     id: "parnu",
     countryId: "ee",
+    lat: 58.3859,
+    lng: 24.4971,
     signatureImage: "/cities/parnu.jpg",
     name: { ko: "패르누", en: "Pärnu" },
     nativeName: "Pärnu",
@@ -13563,6 +14081,8 @@ export const cities: City[] = [
   {
     id: "riga",
     countryId: "lv",
+    lat: 56.9496,
+    lng: 24.1052,
     signatureImage: "/cities/riga.jpg",
     name: { ko: "리가", en: "Riga" },
     nativeName: "Rīga",
@@ -13611,6 +14131,8 @@ export const cities: City[] = [
   {
     id: "jurmala",
     countryId: "lv",
+    lat: 56.968,
+    lng: 23.77,
     signatureImage: "/cities/jurmala.jpg",
     name: { ko: "유르말라", en: "Jūrmala" },
     nativeName: "Jūrmala",
@@ -13659,6 +14181,8 @@ export const cities: City[] = [
   {
     id: "sigulda",
     countryId: "lv",
+    lat: 57.1536,
+    lng: 24.8514,
     signatureImage: "/cities/sigulda.jpg",
     name: { ko: "시굴다", en: "Sigulda" },
     nativeName: "Sigulda",
@@ -13707,6 +14231,8 @@ export const cities: City[] = [
   {
     id: "vilnius",
     countryId: "lt",
+    lat: 54.6872,
+    lng: 25.2797,
     signatureImage: "/cities/vilnius.jpg",
     name: { ko: "빌뉴스", en: "Vilnius" },
     nativeName: "Vilnius",
@@ -13755,6 +14281,8 @@ export const cities: City[] = [
   {
     id: "kaunas",
     countryId: "lt",
+    lat: 54.8985,
+    lng: 23.9036,
     signatureImage: "/cities/kaunas.jpg",
     name: { ko: "카우나스", en: "Kaunas" },
     nativeName: "Kaunas",
@@ -13803,6 +14331,8 @@ export const cities: City[] = [
   {
     id: "klaipeda",
     countryId: "lt",
+    lat: 55.7033,
+    lng: 21.1443,
     signatureImage: "/cities/klaipeda.jpg",
     name: { ko: "클라이페다", en: "Klaipėda" },
     nativeName: "Klaipėda",
@@ -13851,6 +14381,8 @@ export const cities: City[] = [
   {
     id: "kyiv",
     countryId: "ua",
+    lat: 50.4501,
+    lng: 30.5234,
     signatureImage: "/cities/kyiv.svg",
     name: { ko: "키이우", en: "Kyiv" },
     nativeName: "Київ",
@@ -13885,6 +14417,8 @@ export const cities: City[] = [
   {
     id: "lviv",
     countryId: "ua",
+    lat: 49.8397,
+    lng: 24.0297,
     signatureImage: "/cities/lviv.svg",
     name: { ko: "리비우", en: "Lviv" },
     nativeName: "Львів",
@@ -13919,6 +14453,8 @@ export const cities: City[] = [
   {
     id: "odesa",
     countryId: "ua",
+    lat: 46.4825,
+    lng: 30.7233,
     signatureImage: "/cities/odesa.svg",
     name: { ko: "오데사", en: "Odesa" },
     nativeName: "Одеса",
@@ -13953,6 +14489,8 @@ export const cities: City[] = [
   {
     id: "chisinau",
     countryId: "md",
+    lat: 47.0105,
+    lng: 28.8638,
     signatureImage: "/cities/chisinau.svg",
     name: { ko: "키시너우", en: "Chișinău" },
     nativeName: "Chișinău",
@@ -13987,6 +14525,8 @@ export const cities: City[] = [
   {
     id: "orheiul-vechi",
     countryId: "md",
+    lat: 47.3617,
+    lng: 28.9847,
     signatureImage: "/cities/orheiul-vechi.svg",
     name: { ko: "오르헤이울 베키", en: "Orheiul Vechi" },
     nativeName: "Orheiul Vechi",
@@ -14021,6 +14561,8 @@ export const cities: City[] = [
   {
     id: "soroca",
     countryId: "md",
+    lat: 48.159,
+    lng: 28.2934,
     signatureImage: "/cities/soroca.svg",
     name: { ko: "소로카", en: "Soroca" },
     nativeName: "Soroca",
@@ -14055,6 +14597,8 @@ export const cities: City[] = [
   {
     id: "yerevan",
     countryId: "am",
+    lat: 40.1792,
+    lng: 44.4991,
     signatureImage: "/cities/yerevan.svg",
     name: { ko: "예레반", en: "Yerevan" },
     nativeName: "Երևան",
@@ -14089,6 +14633,8 @@ export const cities: City[] = [
   {
     id: "gyumri",
     countryId: "am",
+    lat: 40.7942,
+    lng: 43.8474,
     signatureImage: "/cities/gyumri.svg",
     name: { ko: "귬리", en: "Gyumri" },
     nativeName: "Գյումրի",
@@ -14123,6 +14669,8 @@ export const cities: City[] = [
   {
     id: "dilijan",
     countryId: "am",
+    lat: 40.7439,
+    lng: 44.8646,
     signatureImage: "/cities/dilijan.svg",
     name: { ko: "딜리잔", en: "Dilijan" },
     nativeName: "Դիլիջան",
@@ -14157,6 +14705,8 @@ export const cities: City[] = [
   {
     id: "baku",
     countryId: "az",
+    lat: 40.4093,
+    lng: 49.8671,
     signatureImage: "/cities/baku.svg",
     name: { ko: "바쿠", en: "Baku" },
     nativeName: "Bakı",
@@ -14191,6 +14741,8 @@ export const cities: City[] = [
   {
     id: "sheki",
     countryId: "az",
+    lat: 41.1919,
+    lng: 47.1706,
     signatureImage: "/cities/sheki.svg",
     name: { ko: "셰키", en: "Sheki" },
     nativeName: "Şəki",
@@ -14225,6 +14777,8 @@ export const cities: City[] = [
   {
     id: "gabala",
     countryId: "az",
+    lat: 40.9958,
+    lng: 47.8492,
     signatureImage: "/cities/gabala.svg",
     name: { ko: "가발라", en: "Gabala" },
     nativeName: "Qəbələ",
@@ -14259,6 +14813,8 @@ export const cities: City[] = [
   {
     id: "san-marino-city",
     countryId: "sm",
+    lat: 43.9424,
+    lng: 12.4578,
     signatureImage: "/cities/san-marino-city.svg",
     name: { ko: "산마리노 시", en: "City of San Marino" },
     nativeName: "Città di San Marino",
@@ -14293,6 +14849,8 @@ export const cities: City[] = [
   {
     id: "borgo-maggiore",
     countryId: "sm",
+    lat: 43.9505,
+    lng: 12.4489,
     signatureImage: "/cities/borgo-maggiore.svg",
     name: { ko: "보르고 마조레", en: "Borgo Maggiore" },
     nativeName: "Borgo Maggiore",
@@ -14327,6 +14885,8 @@ export const cities: City[] = [
   {
     id: "pristina",
     countryId: "xk",
+    lat: 42.6629,
+    lng: 21.1655,
     signatureImage: "/cities/pristina.svg",
     name: { ko: "프리슈티나", en: "Pristina" },
     nativeName: "Prishtinë",
@@ -14361,6 +14921,8 @@ export const cities: City[] = [
   {
     id: "prizren",
     countryId: "xk",
+    lat: 42.2139,
+    lng: 20.7397,
     signatureImage: "/cities/prizren.svg",
     name: { ko: "프리즈렌", en: "Prizren" },
     nativeName: "Prizren",
@@ -14395,6 +14957,8 @@ export const cities: City[] = [
   {
     id: "peja",
     countryId: "xk",
+    lat: 42.6591,
+    lng: 20.2883,
     signatureImage: "/cities/peja.svg",
     name: { ko: "페야", en: "Peja" },
     nativeName: "Pejë",

@@ -98,6 +98,9 @@ export interface City {
   highlights: CityHighlight[]
   /** 도시 시그니처(랜드마크) 배경 이미지 */
   signatureImage: string
+  /** 지도 핀 좌표 (선택) */
+  lat?: number
+  lng?: number
 }
 
 export interface Place {

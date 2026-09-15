@@ -201,6 +201,26 @@
   transition: fill 0.2s ease;
 }
 
+.map-city-marker {
+  cursor: pointer;
+}
+
+.map-city-hit {
+  fill: transparent;
+  pointer-events: all;
+}
+
+.map-city-dot {
+  fill: var(--surface);
+  stroke: var(--map-selected);
+  stroke-width: 0.6;
+  pointer-events: none;
+}
+
+.map-city-marker:hover .map-city-dot {
+  fill: var(--map-selected);
+}
+
 .country-card {
   display: block;
   border-radius: var(--radius);

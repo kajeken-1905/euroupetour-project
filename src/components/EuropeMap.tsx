@@ -7,6 +7,7 @@ import type { Topology } from 'topojson-specification'
 import type { FeatureCollection, Geometry } from 'geojson'
 import worldTopology from 'world-atlas/countries-50m.json'
 import { countries } from '../data/countries'
+import { cities } from '../data/cities'
 import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '../data/countryIsoMap'
 import { useLanguage } from '../contexts/LanguageContext'
 
@@ -93,6 +94,19 @@ export function EuropeMap() {
 
   const iceland = countries.find((c) => c.id === 'is')
 
+  const citiesByCountry = useMemo(() => {
+    const map = new Map<string, { id: string; lat: number; lng: number; name: { ko: string; en: string } }[]>()
+    for (const city of cities) {
+      if (city.lat === undefined || city.lng === undefined) continue
+      const list = map.get(city.countryId) ?? []
+      list.push({ id: city.id, lat: city.lat, lng: city.lng, name: city.name })
+      map.set(city.countryId, list)
+    }
+    return map
+  }, [])
+
+  const selectedCities = selectedId ? (citiesByCountry.get(selectedId) ?? []) : []
+
   const handleSelect = (countryId: string) => {
     if (selectedId === countryId) {
       navigate(`/country/${countryId}`)
@@ -168,6 +182,18 @@ export function EuropeMap() {
                   </Marker>
                 )
               })}
+            {selectedCities.map((city) => (
+              <Marker
+                key={city.id}
+                coordinates={[city.lng, city.lat]}
+                onClick={() => navigate(`/city/${city.id}`)}
+                className="map-city-marker"
+              >
+                <circle r={6} className="map-city-hit" />
+                <circle r={1.4} className="map-city-dot" />
+                <title>{city.name[lang]}</title>
+              </Marker>
+            ))}
           </ZoomableGroup>
           {icelandPath && iceland ? (
             <g
