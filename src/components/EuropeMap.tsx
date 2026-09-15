@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
-import { geoMercator, geoPath } from 'd3-geo'
+import { geoCentroid, geoMercator, geoPath } from 'd3-geo'
 import type { Topology } from 'topojson-specification'
 import type { FeatureCollection, Geometry } from 'geojson'
 import worldTopology from 'world-atlas/countries-50m.json'
@@ -13,6 +13,8 @@ import { useLanguage } from '../contexts/LanguageContext'
 const MAP_WIDTH = 800
 const MAP_HEIGHT = 485
 const ICELAND_ISO = '352'
+const DEFAULT_CENTER: [number, number] = [20, 52.5]
+const SELECTED_ZOOM = 4
 
 /** Iceland is rendered as a boxed inset above the UK instead of in its true
  * far-northwest position, so the main map isn't zoomed out to accommodate it. */
@@ -34,6 +36,7 @@ export function EuropeMap() {
   const { lang } = useLanguage()
   const wrapRef = useRef<HTMLDivElement>(null)
   const [containerWidth, setContainerWidth] = useState(360)
+  const [selectedId, setSelectedId] = useState<string | null>(null)
 
   useEffect(() => {
     const el = wrapRef.current
@@ -58,6 +61,23 @@ export function EuropeMap() {
     return feature(topology, 'countries') as unknown as FeatureCollection<Geometry, { name: string }>
   }, [])
 
+  const centroidById = useMemo(() => {
+    const map = new Map<string, [number, number]>()
+    for (const geoFeature of geoData.features) {
+      if (geoFeature.id === ICELAND_ISO) continue
+      const isKosovo = geoFeature.properties?.name === KOSOVO_NAME
+      const country = isKosovo
+        ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
+        : isoToCountry.get(String(geoFeature.id))
+      if (!country) continue
+      map.set(country.id, geoCentroid(geoFeature) as [number, number])
+    }
+    for (const [id, coords] of Object.entries(MICRO_STATE_COORDS)) {
+      map.set(id, coords)
+    }
+    return map
+  }, [geoData])
+
   const icelandPath = useMemo(() => {
     const icelandFeature = geoData.features.find((f) => f.id === ICELAND_ISO)
     if (!icelandFeature) return null
@@ -73,6 +93,18 @@ export function EuropeMap() {
 
   const iceland = countries.find((c) => c.id === 'is')
 
+  const handleSelect = (countryId: string) => {
+    if (selectedId === countryId) {
+      navigate(`/country/${countryId}`)
+    } else {
+      setSelectedId(countryId)
+    }
+  }
+
+  const selectedCentroid = selectedId ? centroidById.get(selectedId) : undefined
+  const zoomCenter = selectedCentroid ?? DEFAULT_CENTER
+  const zoomLevel = selectedCentroid ? SELECTED_ZOOM : 1
+
   return (
     <div className="europe-map-wrap" ref={wrapRef} style={{ height: rotatedHeight }}>
       <div className="europe-map-rotate" style={{ width: preRotateWidth, height: preRotateHeight }}>
@@ -80,10 +112,10 @@ export function EuropeMap() {
           width={MAP_WIDTH}
           height={MAP_HEIGHT}
           projection="geoMercator"
-          projectionConfig={{ center: [20, 52.5], scale: 570 }}
+          projectionConfig={{ center: DEFAULT_CENTER, scale: 570 }}
           className="europe-map-svg"
         >
-          <ZoomableGroup center={[20, 52.5]} zoom={1} minZoom={1} maxZoom={6}>
+          <ZoomableGroup center={zoomCenter} zoom={zoomLevel} minZoom={1} maxZoom={6} className="europe-map-zoom">
             <Geographies geography={geoData}>
               {({ geographies }) =>
                 geographies
@@ -94,15 +126,16 @@ export function EuropeMap() {
                       ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
                       : isoToCountry.get(String(geo.id))
                     const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
+                    const isSelected = country ? country.id === selectedId : false
 
                     return (
                       <Geography
                         key={geo.rsmKey}
                         geography={geo}
-                        onClick={() => country && navigate(`/country/${country.id}`)}
+                        onClick={() => (country ? handleSelect(country.id) : setSelectedId(null))}
                         className={country ? 'map-country map-country--covered' : 'map-country'}
                         style={{
-                          fill: country ? 'var(--map-accent)' : 'var(--map-neutral)',
+                          fill: country ? (isSelected ? 'var(--map-selected)' : 'var(--map-default)') : 'var(--map-neutral)',
                           stroke: 'var(--surface)',
                           strokeWidth: 0.5,
                           outline: 'none',
@@ -116,23 +149,30 @@ export function EuropeMap() {
             </Geographies>
             {countries
               .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
-              .map((c) => (
-                <Marker
-                  key={c.id}
-                  coordinates={MICRO_STATE_COORDS[c.id]}
-                  onClick={() => navigate(`/country/${c.id}`)}
-                  className="map-micro-marker"
-                >
-                  <circle r={10} className="map-micro-hit" />
-                  <circle r={4} className="map-micro-dot" />
-                  <title>{c.name[lang]}</title>
-                </Marker>
-              ))}
+              .map((c) => {
+                const isSelected = c.id === selectedId
+                return (
+                  <Marker
+                    key={c.id}
+                    coordinates={MICRO_STATE_COORDS[c.id]}
+                    onClick={() => handleSelect(c.id)}
+                    className="map-micro-marker"
+                  >
+                    <circle r={10} className="map-micro-hit" />
+                    <circle
+                      r={4}
+                      className="map-micro-dot"
+                      style={{ fill: isSelected ? 'var(--map-selected)' : 'var(--map-default)' }}
+                    />
+                    <title>{c.name[lang]}</title>
+                  </Marker>
+                )
+              })}
           </ZoomableGroup>
           {icelandPath && iceland ? (
             <g
               className="map-iceland-inset"
-              onClick={() => navigate('/country/is')}
+              onClick={() => handleSelect('is')}
               role="button"
               aria-label={iceland.name[lang]}
             >
@@ -146,7 +186,11 @@ export function EuropeMap() {
               <path
                 d={icelandPath}
                 className="map-country map-country--covered"
-                style={{ fill: 'var(--map-accent)', stroke: 'var(--surface)', strokeWidth: 0.5 }}
+                style={{
+                  fill: selectedId === 'is' ? 'var(--map-selected)' : 'var(--map-default)',
+                  stroke: 'var(--surface)',
+                  strokeWidth: 0.5,
+                }}
               />
               <title>{iceland.name[lang]}</title>
             </g>

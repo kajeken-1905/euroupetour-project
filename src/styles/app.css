@@ -165,12 +165,12 @@
   height: auto;
 }
 
-.map-country {
-  transition: fill 0.15s ease;
+.europe-map-zoom {
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-.map-country--covered:hover {
-  fill: var(--map-accent-hover) !important;
+.map-country {
+  transition: fill 0.2s ease;
 }
 
 .map-iceland-inset {
@@ -195,47 +195,10 @@
 }
 
 .map-micro-dot {
-  fill: var(--map-accent);
   stroke: var(--surface);
   stroke-width: 1.5;
   pointer-events: none;
-}
-
-.map-micro-marker:hover .map-micro-dot {
-  fill: var(--map-accent-hover);
-}
-
-.map-legend {
-  display: flex;
-  gap: 16px;
-  padding: 14px 4px 4px;
-}
-
-.map-legend-item {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--muted);
-}
-
-.map-legend-dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-.map-legend-dot--covered {
-  background: var(--map-accent);
-}
-
-.map-legend-dot--micro {
-  background: var(--map-accent);
-  opacity: 0.85;
-  outline: 1.5px solid var(--surface);
-  outline-offset: -1.5px;
+  transition: fill 0.2s ease;
 }
 
 .country-card {

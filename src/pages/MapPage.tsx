@@ -16,16 +16,6 @@ export function MapPage() {
         <LanguageToggle />
       </header>
       <EuropeMap />
-      <div className="map-legend">
-        <span className="map-legend-item">
-          <span className="map-legend-dot map-legend-dot--covered" />
-          {t('mapLegendCovered', lang)}
-        </span>
-        <span className="map-legend-item">
-          <span className="map-legend-dot map-legend-dot--micro" />
-          {t('mapLegendMicro', lang)}
-        </span>
-      </div>
     </div>
   )
 }
