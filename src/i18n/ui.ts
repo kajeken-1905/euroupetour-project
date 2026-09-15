@@ -75,6 +75,10 @@ export const ui = {
     ko: '가이드가 완성된 48개국을 지도에서 한눈에 확인하세요.',
     en: 'See all 48 guide-complete countries at a glance.',
   },
+  mapTapAgainHint: {
+    ko: '한번 더 클릭하면, 국가 설명으로 넘어갑니다',
+    en: 'Tap once more to open this country’s guide',
+  },
   adminContactNote: {
     ko: '문의/건의 사항이 있다면 메일 부탁드립니다',
     en: 'Please email us with questions or suggestions',

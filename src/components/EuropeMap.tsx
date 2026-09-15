@@ -12,6 +12,7 @@ import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '
 import { useLanguage } from '../contexts/LanguageContext'
 import { hexToRgba } from '../utils/color'
 import { assetUrl } from '../utils/assetUrl'
+import { t } from '../i18n/ui'
 
 /** Opacity applied to the selected country's flag-image fill so it reads as a
  * pale tint that the white city pins still stand out against. */
@@ -22,6 +23,12 @@ const MAP_HEIGHT = 485
 const ICELAND_ISO = '352'
 const DEFAULT_CENTER: [number, number] = [20, 52.5]
 const SELECTED_ZOOM = 4
+const MAX_ZOOM = 6
+/** Shrinks the fit-to-screen target box a bit so a selected country isn't flush against the edges. */
+const FIT_MARGIN = 0.85
+/** Fixed position for the selected-country label: the viewBox's right-edge-middle,
+ * which is what maps to "top-center of the screen" once the -90° CSS rotation applies. */
+const LABEL_ANCHOR: [number, number] = [MAP_WIDTH - 24, MAP_HEIGHT / 2]
 
 /** Iceland is rendered as a boxed inset above the UK instead of in its true
  * far-northwest position, so the main map isn't zoomed out to accommodate it. */
@@ -67,18 +74,30 @@ export function EuropeMap() {
   const { lang } = useLanguage()
   const wrapRef = useRef<HTMLDivElement>(null)
   const [containerWidth, setContainerWidth] = useState(360)
+  const [viewportHeight, setViewportHeight] = useState(700)
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
 
   useEffect(() => {
     const el = wrapRef.current
     if (!el) return
-    const observer = new ResizeObserver((entries) => {
+    // The scrollable ancestor's visible height, not the map's own (much taller,
+    // scrollable) box — used so a selected country's zoom fits one screenful.
+    const scrollParent = (el.closest('.phone-content') as HTMLElement | null) ?? el
+    const widthObserver = new ResizeObserver((entries) => {
       const width = entries[0]?.contentRect.width
       if (width) setContainerWidth(width)
     })
-    observer.observe(el)
-    return () => observer.disconnect()
+    const heightObserver = new ResizeObserver(() => {
+      setViewportHeight(scrollParent.clientHeight)
+    })
+    widthObserver.observe(el)
+    heightObserver.observe(scrollParent)
+    setViewportHeight(scrollParent.clientHeight)
+    return () => {
+      widthObserver.disconnect()
+      heightObserver.disconnect()
+    }
   }, [])
 
   // The map is rotated 90° so its wide (Iceland–Turkey) axis runs along the
@@ -117,6 +136,28 @@ export function EuropeMap() {
     return map
   }, [geoData])
 
+  const selectedGeoFeature = useMemo(() => {
+    if (!selectedId || selectedId === 'is') return null
+    return (
+      geoData.features.find((f) => {
+        if (f.id === ICELAND_ISO) return false
+        const isKosovo = f.properties?.name === KOSOVO_NAME
+        const c = isKosovo ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID) : isoToCountry.get(String(f.id))
+        return c?.id === selectedId
+      }) ?? null
+    )
+  }, [geoData, selectedId])
+
+  // Bounds (in the map's own pre-rotation SVG units) of the selected country's
+  // mainland — reused both to size the flag pattern and to pick a zoom level
+  // that fits the whole shape on one screen instead of a fixed zoom that crops
+  // long countries like Sweden.
+  const selectedBounds = useMemo(() => {
+    if (!selectedGeoFeature) return null
+    const [[bx0, by0], [bx1, by1]] = boundsPath.bounds(mainlandRing(selectedGeoFeature))
+    return { x: bx0, y: by0, width: Math.max(bx1 - bx0, 1), height: Math.max(by1 - by0, 1) }
+  }, [selectedGeoFeature, boundsPath])
+
   const icelandPath = useMemo(() => {
     const icelandFeature = geoData.features.find((f) => f.id === ICELAND_ISO)
     if (!icelandFeature) return null
@@ -131,6 +172,7 @@ export function EuropeMap() {
   }, [geoData])
 
   const iceland = countries.find((c) => c.id === 'is')
+  const selectedCountry = selectedId ? countries.find((c) => c.id === selectedId) : undefined
 
   const citiesByCountry = useMemo(() => {
     const map = new Map<string, { id: string; lat: number; lng: number; name: { ko: string; en: string } }[]>()
@@ -164,7 +206,18 @@ export function EuropeMap() {
 
   const selectedCentroid = selectedId ? centroidById.get(selectedId) : undefined
   const zoomCenter = selectedCentroid ?? DEFAULT_CENTER
-  const zoomLevel = selectedCentroid ? SELECTED_ZOOM : 1
+
+  // Fit the selected country's own bounding box into one screenful instead of
+  // a fixed zoom — a fixed level either crops long countries (Sweden, Norway,
+  // Italy) or under-zooms tiny ones, since size varies hugely between them.
+  const zoomLevel = useMemo(() => {
+    if (!selectedCentroid) return 1
+    if (!selectedBounds) return SELECTED_ZOOM
+    const unitPx = containerWidth / MAP_HEIGHT
+    const fitWidth = (MAP_HEIGHT * FIT_MARGIN) / selectedBounds.height
+    const fitHeight = ((viewportHeight / unitPx) * FIT_MARGIN) / selectedBounds.width
+    return Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
+  }, [selectedCentroid, selectedBounds, containerWidth, viewportHeight])
 
   return (
     <div className="europe-map-wrap" ref={wrapRef} style={{ height: rotatedHeight }}>
@@ -180,7 +233,7 @@ export function EuropeMap() {
             center={zoomCenter}
             zoom={zoomLevel}
             minZoom={1}
-            maxZoom={6}
+            maxZoom={MAX_ZOOM}
             className="europe-map-zoom"
             // Manual pinch/drag gestures are computed in the SVG's own (un-rotated)
             // coordinate space, so they visually go the wrong way and misfire under
@@ -203,31 +256,31 @@ export function EuropeMap() {
 
                     return (
                       <g key={geo.rsmKey}>
-                        {isSelected && country ? (
-                          (() => {
-                            const [[bx0, by0], [bx1, by1]] = boundsPath.bounds(mainlandRing(geo))
-                            const bw = Math.max(bx1 - bx0, 1)
-                            const bh = Math.max(by1 - by0, 1)
-                            return (
-                              <defs>
-                                <pattern id={patternId} patternUnits="userSpaceOnUse" x={bx0} y={by0} width={bw} height={bh}>
-                                  {/* Counter-rotated + dimension-swapped: an <image> referencing an
-                                      external SVG renders sideways when an ancestor has a CSS rotate
-                                      (our -90° map wrapper) — this rotate(90) cancels that out. */}
-                                  <g transform="rotate(90)">
-                                    <image
-                                      href={assetUrl(country.flagImage)}
-                                      x={0}
-                                      y={-bw}
-                                      width={bh}
-                                      height={bw}
-                                      preserveAspectRatio="xMidYMid slice"
-                                    />
-                                  </g>
-                                </pattern>
-                              </defs>
-                            )
-                          })()
+                        {isSelected && country && selectedBounds ? (
+                          <defs>
+                            <pattern
+                              id={patternId}
+                              patternUnits="userSpaceOnUse"
+                              x={selectedBounds.x}
+                              y={selectedBounds.y}
+                              width={selectedBounds.width}
+                              height={selectedBounds.height}
+                            >
+                              {/* Counter-rotated + dimension-swapped: an <image> referencing an
+                                  external SVG renders sideways when an ancestor has a CSS rotate
+                                  (our -90° map wrapper) — this rotate(90) cancels that out. */}
+                              <g transform="rotate(90)">
+                                <image
+                                  href={assetUrl(country.flagImage)}
+                                  x={0}
+                                  y={-selectedBounds.width}
+                                  width={selectedBounds.height}
+                                  height={selectedBounds.width}
+                                  preserveAspectRatio="xMidYMid slice"
+                                />
+                              </g>
+                            </pattern>
+                          </defs>
                         ) : null}
                         <Geography
                           geography={geo}
@@ -302,6 +355,20 @@ export function EuropeMap() {
               )
             })}
           </ZoomableGroup>
+          {selectedCountry ? (
+            <g className="map-country-label">
+              <g transform={`translate(${LABEL_ANCHOR[0] + 7}, ${LABEL_ANCHOR[1]}) rotate(90)`}>
+                <text textAnchor="middle" className="map-country-label-name">
+                  {selectedCountry.name[lang]}
+                </text>
+              </g>
+              <g transform={`translate(${LABEL_ANCHOR[0] - 9}, ${LABEL_ANCHOR[1]}) rotate(90)`}>
+                <text textAnchor="middle" className="map-country-label-hint">
+                  {t('mapTapAgainHint', lang)}
+                </text>
+              </g>
+            </g>
+          ) : null}
           {icelandPath && iceland ? (
             <g
               className="map-iceland-inset"
