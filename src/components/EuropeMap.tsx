@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
@@ -26,9 +26,8 @@ const SELECTED_ZOOM = 4
 const MAX_ZOOM = 6
 /** Shrinks the fit-to-screen target box a bit so a selected country isn't flush against the edges. */
 const FIT_MARGIN = 0.85
-/** Fixed position for the selected-country label: the viewBox's right-edge-middle,
- * which is what maps to "top-center of the screen" once the -90° CSS rotation applies. */
-const LABEL_ANCHOR: [number, number] = [MAP_WIDTH - 24, MAP_HEIGHT / 2]
+/** Fixed screen position for the selected-country label, in the map's own viewBox units. */
+const LABEL_ANCHOR: [number, number] = [MAP_WIDTH / 2, 18]
 
 /** Iceland is rendered as a boxed inset above the UK instead of in its true
  * far-northwest position, so the main map isn't zoomed out to accommodate it. */
@@ -72,40 +71,8 @@ function mainlandRing(geoFeature: Feature<Geometry>): Feature<Polygon> {
 export function EuropeMap() {
   const navigate = useNavigate()
   const { lang } = useLanguage()
-  const wrapRef = useRef<HTMLDivElement>(null)
-  const [containerWidth, setContainerWidth] = useState(360)
-  const [viewportHeight, setViewportHeight] = useState(700)
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
-
-  useEffect(() => {
-    const el = wrapRef.current
-    if (!el) return
-    // The scrollable ancestor's visible height, not the map's own (much taller,
-    // scrollable) box — used so a selected country's zoom fits one screenful.
-    const scrollParent = (el.closest('.phone-content') as HTMLElement | null) ?? el
-    const widthObserver = new ResizeObserver((entries) => {
-      const width = entries[0]?.contentRect.width
-      if (width) setContainerWidth(width)
-    })
-    const heightObserver = new ResizeObserver(() => {
-      setViewportHeight(scrollParent.clientHeight)
-    })
-    widthObserver.observe(el)
-    heightObserver.observe(scrollParent)
-    setViewportHeight(scrollParent.clientHeight)
-    return () => {
-      widthObserver.disconnect()
-      heightObserver.disconnect()
-    }
-  }, [])
-
-  // The map is rotated 90° so its wide (Iceland–Turkey) axis runs along the
-  // phone's scrollable height instead of its cramped width — swap width/height
-  // for the pre-rotation box so the rotated footprint exactly fills the container.
-  const rotatedHeight = containerWidth * (MAP_WIDTH / MAP_HEIGHT)
-  const preRotateWidth = rotatedHeight
-  const preRotateHeight = containerWidth
 
   const geoData = useMemo(() => {
     const topology = worldTopology as unknown as Topology
@@ -148,10 +115,10 @@ export function EuropeMap() {
     )
   }, [geoData, selectedId])
 
-  // Bounds (in the map's own pre-rotation SVG units) of the selected country's
-  // mainland — reused both to size the flag pattern and to pick a zoom level
-  // that fits the whole shape on one screen instead of a fixed zoom that crops
-  // long countries like Sweden.
+  // Bounds (in the map's own SVG units) of the selected country's mainland —
+  // reused both to size the flag pattern and to pick a zoom level that fits
+  // the whole shape on screen instead of a fixed zoom that crops long
+  // countries like Sweden.
   const selectedBounds = useMemo(() => {
     if (!selectedGeoFeature) return null
     const [[bx0, by0], [bx1, by1]] = boundsPath.bounds(mainlandRing(selectedGeoFeature))
@@ -207,220 +174,197 @@ export function EuropeMap() {
   const selectedCentroid = selectedId ? centroidById.get(selectedId) : undefined
   const zoomCenter = selectedCentroid ?? DEFAULT_CENTER
 
-  // Fit the selected country's own bounding box into one screenful instead of
-  // a fixed zoom — a fixed level either crops long countries (Sweden, Norway,
-  // Italy) or under-zooms tiny ones, since size varies hugely between them.
+  // Fit the selected country's own bounding box into the map's own fixed
+  // viewBox — a flat zoom either crops long countries (Sweden, Norway, Italy)
+  // or under-zooms tiny ones, since size varies hugely between them.
   const zoomLevel = useMemo(() => {
     if (!selectedCentroid) return 1
     if (!selectedBounds) return SELECTED_ZOOM
-    const unitPx = containerWidth / MAP_HEIGHT
-    const fitWidth = (MAP_HEIGHT * FIT_MARGIN) / selectedBounds.height
-    const fitHeight = ((viewportHeight / unitPx) * FIT_MARGIN) / selectedBounds.width
+    const fitWidth = (MAP_WIDTH * FIT_MARGIN) / selectedBounds.width
+    const fitHeight = (MAP_HEIGHT * FIT_MARGIN) / selectedBounds.height
     return Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
-  }, [selectedCentroid, selectedBounds, containerWidth, viewportHeight])
+  }, [selectedCentroid, selectedBounds])
 
   return (
-    <div className="europe-map-wrap" ref={wrapRef} style={{ height: rotatedHeight }}>
-      <div className="europe-map-rotate" style={{ width: preRotateWidth, height: preRotateHeight }}>
-        <ComposableMap
-          width={MAP_WIDTH}
-          height={MAP_HEIGHT}
-          projection="geoMercator"
-          projectionConfig={{ center: DEFAULT_CENTER, scale: 570 }}
-          className="europe-map-svg"
+    <div className="europe-map-wrap">
+      <ComposableMap
+        width={MAP_WIDTH}
+        height={MAP_HEIGHT}
+        projection="geoMercator"
+        projectionConfig={{ center: DEFAULT_CENTER, scale: 570 }}
+        className="europe-map-svg"
+      >
+        <ZoomableGroup
+          center={zoomCenter}
+          zoom={zoomLevel}
+          minZoom={1}
+          maxZoom={MAX_ZOOM}
+          className="europe-map-zoom"
         >
-          <ZoomableGroup
-            center={zoomCenter}
-            zoom={zoomLevel}
-            minZoom={1}
-            maxZoom={MAX_ZOOM}
-            className="europe-map-zoom"
-            // Manual pinch/drag gestures are computed in the SVG's own (un-rotated)
-            // coordinate space, so they visually go the wrong way and misfire under
-            // our ancestor -90° CSS rotation. Disable them entirely and rely only on
-            // tap-to-select, which drives zoom/center via controlled props instead.
-            filterZoomEvent={() => false}
-          >
-            <Geographies geography={geoData}>
-              {({ geographies }) =>
-                geographies
-                  .filter((geo) => geo.id !== ICELAND_ISO)
-                  .map((geo) => {
-                    const isKosovo = geo.properties?.name === KOSOVO_NAME
-                    const country = isKosovo
-                      ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
-                      : isoToCountry.get(String(geo.id))
-                    const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
-                    const isSelected = country ? country.id === selectedId : false
-                    const patternId = country ? `flag-pattern-${country.id}` : ''
+          <Geographies geography={geoData}>
+            {({ geographies }) =>
+              geographies
+                .filter((geo) => geo.id !== ICELAND_ISO)
+                .map((geo) => {
+                  const isKosovo = geo.properties?.name === KOSOVO_NAME
+                  const country = isKosovo
+                    ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
+                    : isoToCountry.get(String(geo.id))
+                  const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
+                  const isSelected = country ? country.id === selectedId : false
+                  const patternId = country ? `flag-pattern-${country.id}` : ''
 
-                    return (
-                      <g key={geo.rsmKey}>
-                        {isSelected && country && selectedBounds ? (
-                          <defs>
-                            <pattern
-                              id={patternId}
-                              patternUnits="userSpaceOnUse"
-                              x={selectedBounds.x}
-                              y={selectedBounds.y}
+                  return (
+                    <g key={geo.rsmKey}>
+                      {isSelected && country && selectedBounds ? (
+                        <defs>
+                          <pattern
+                            id={patternId}
+                            patternUnits="userSpaceOnUse"
+                            x={selectedBounds.x}
+                            y={selectedBounds.y}
+                            width={selectedBounds.width}
+                            height={selectedBounds.height}
+                          >
+                            <image
+                              href={assetUrl(country.flagImage)}
+                              x={0}
+                              y={0}
                               width={selectedBounds.width}
                               height={selectedBounds.height}
-                            >
-                              {/* Counter-rotated + dimension-swapped: an <image> referencing an
-                                  external SVG renders sideways when an ancestor has a CSS rotate
-                                  (our -90° map wrapper) — this rotate(90) cancels that out. */}
-                              <g transform="rotate(90)">
-                                <image
-                                  href={assetUrl(country.flagImage)}
-                                  x={0}
-                                  y={-selectedBounds.width}
-                                  width={selectedBounds.height}
-                                  height={selectedBounds.width}
-                                  preserveAspectRatio="xMidYMid slice"
-                                />
-                              </g>
-                            </pattern>
-                          </defs>
-                        ) : null}
-                        <Geography
-                          geography={geo}
-                          onClick={() => {
-                            if (country) {
-                              handleSelect(country.id)
-                            } else {
-                              setSelectedId(null)
-                              setSelectedCityId(null)
-                            }
-                          }}
-                          className={country ? 'map-country map-country--covered' : 'map-country'}
-                          style={{
-                            fill: country ? (isSelected ? `url(#${patternId})` : 'var(--map-default)') : 'var(--map-neutral)',
-                            fillOpacity: isSelected ? FLAG_FILL_OPACITY : 1,
-                            stroke: 'var(--surface)',
-                            strokeWidth: 0.5,
-                            outline: 'none',
-                            cursor: country ? 'pointer' : 'default',
-                            opacity: isMicroState ? 0.85 : 1,
-                          }}
-                        />
-                      </g>
-                    )
-                  })
-              }
-            </Geographies>
-            {countries
-              .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
-              .map((c) => {
-                const isSelected = c.id === selectedId
-                return (
-                  <Marker
-                    key={c.id}
-                    coordinates={MICRO_STATE_COORDS[c.id]}
-                    onClick={() => handleSelect(c.id)}
-                    className="map-micro-marker"
-                  >
-                    <circle r={10} className="map-micro-hit" />
-                    <circle
-                      r={4}
-                      className="map-micro-dot"
-                      style={{ fill: isSelected ? hexToRgba(c.flagColors.primary, 0.55) : 'var(--map-default)' }}
-                    />
-                    <title>{c.name[lang]}</title>
-                  </Marker>
-                )
-              })}
-            {selectedCities.map((city) => {
-              const isCitySelected = city.id === selectedCityId
+                              preserveAspectRatio="xMidYMid slice"
+                            />
+                          </pattern>
+                        </defs>
+                      ) : null}
+                      <Geography
+                        geography={geo}
+                        onClick={() => {
+                          if (country) {
+                            handleSelect(country.id)
+                          } else {
+                            setSelectedId(null)
+                            setSelectedCityId(null)
+                          }
+                        }}
+                        className={country ? 'map-country map-country--covered' : 'map-country'}
+                        style={{
+                          fill: country ? (isSelected ? `url(#${patternId})` : 'var(--map-default)') : 'var(--map-neutral)',
+                          fillOpacity: isSelected ? FLAG_FILL_OPACITY : 1,
+                          stroke: 'var(--surface)',
+                          strokeWidth: 0.5,
+                          outline: 'none',
+                          cursor: country ? 'pointer' : 'default',
+                          opacity: isMicroState ? 0.85 : 1,
+                        }}
+                      />
+                    </g>
+                  )
+                })
+            }
+          </Geographies>
+          {countries
+            .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
+            .map((c) => {
+              const isSelected = c.id === selectedId
               return (
                 <Marker
-                  key={city.id}
-                  coordinates={[city.lng, city.lat]}
-                  onClick={() => handleSelectCity(city.id)}
-                  className="map-city-marker"
+                  key={c.id}
+                  coordinates={MICRO_STATE_COORDS[c.id]}
+                  onClick={() => handleSelect(c.id)}
+                  className="map-micro-marker"
                 >
-                  <circle r={6} className="map-city-hit" />
-                  <circle r={1.4} className={isCitySelected ? 'map-city-dot map-city-dot--selected' : 'map-city-dot'} />
-                  {isCitySelected ? (
-                    // Countered against the map's own -90° CSS rotation (internal +x runs to
-                    // screen "up") so the label sits above the pin and reads upright on screen.
-                    <g transform="translate(3, 0) rotate(90)">
-                      <text className="map-city-label" textAnchor="middle" dy="-4">
-                        {city.name[lang]}
-                      </text>
-                    </g>
-                  ) : (
-                    <title>{city.name[lang]}</title>
-                  )}
+                  <circle r={10} className="map-micro-hit" />
+                  <circle
+                    r={4}
+                    className="map-micro-dot"
+                    style={{ fill: isSelected ? hexToRgba(c.flagColors.primary, 0.55) : 'var(--map-default)' }}
+                  />
+                  <title>{c.name[lang]}</title>
                 </Marker>
               )
             })}
-          </ZoomableGroup>
-          {selectedCountry ? (
-            <g className="map-country-label">
-              <g transform={`translate(${LABEL_ANCHOR[0] + 7}, ${LABEL_ANCHOR[1]}) rotate(90)`}>
-                <text textAnchor="middle" className="map-country-label-name">
-                  {selectedCountry.name[lang]}
-                </text>
-              </g>
-              <g transform={`translate(${LABEL_ANCHOR[0] - 9}, ${LABEL_ANCHOR[1]}) rotate(90)`}>
-                <text textAnchor="middle" className="map-country-label-hint">
-                  {t('mapTapAgainHint', lang)}
-                </text>
-              </g>
-            </g>
-          ) : null}
-          {icelandPath && iceland ? (
-            <g
-              className="map-iceland-inset"
-              onClick={() => handleSelect('is')}
-              role="button"
-              aria-label={iceland.name[lang]}
-            >
-              {selectedId === 'is' ? (
-                <defs>
-                  <pattern
-                    id="flag-pattern-is"
-                    patternUnits="userSpaceOnUse"
-                    x={ICELAND_INSET_BOX.x}
-                    y={ICELAND_INSET_BOX.y}
+          {selectedCities.map((city) => {
+            const isCitySelected = city.id === selectedCityId
+            return (
+              <Marker
+                key={city.id}
+                coordinates={[city.lng, city.lat]}
+                onClick={() => handleSelectCity(city.id)}
+                className="map-city-marker"
+              >
+                <circle r={6} className="map-city-hit" />
+                <circle r={1.4} className={isCitySelected ? 'map-city-dot map-city-dot--selected' : 'map-city-dot'} />
+                {isCitySelected ? (
+                  <text className="map-city-label" textAnchor="middle" y={-4}>
+                    {city.name[lang]}
+                  </text>
+                ) : (
+                  <title>{city.name[lang]}</title>
+                )}
+              </Marker>
+            )
+          })}
+        </ZoomableGroup>
+        {selectedCountry ? (
+          <g className="map-country-label">
+            <text x={LABEL_ANCHOR[0]} y={LABEL_ANCHOR[1]} textAnchor="middle" className="map-country-label-name">
+              {selectedCountry.name[lang]}
+            </text>
+            <text x={LABEL_ANCHOR[0]} y={LABEL_ANCHOR[1] + 12} textAnchor="middle" className="map-country-label-hint">
+              {t('mapTapAgainHint', lang)}
+            </text>
+          </g>
+        ) : null}
+        {icelandPath && iceland ? (
+          <g
+            className="map-iceland-inset"
+            onClick={() => handleSelect('is')}
+            role="button"
+            aria-label={iceland.name[lang]}
+          >
+            {selectedId === 'is' ? (
+              <defs>
+                <pattern
+                  id="flag-pattern-is"
+                  patternUnits="userSpaceOnUse"
+                  x={ICELAND_INSET_BOX.x}
+                  y={ICELAND_INSET_BOX.y}
+                  width={ICELAND_INSET_BOX.width}
+                  height={ICELAND_INSET_BOX.height}
+                >
+                  <image
+                    href={assetUrl(iceland.flagImage)}
+                    x={0}
+                    y={0}
                     width={ICELAND_INSET_BOX.width}
                     height={ICELAND_INSET_BOX.height}
-                  >
-                    <g transform="rotate(90)">
-                      <image
-                        href={assetUrl(iceland.flagImage)}
-                        x={0}
-                        y={-ICELAND_INSET_BOX.width}
-                        width={ICELAND_INSET_BOX.height}
-                        height={ICELAND_INSET_BOX.width}
-                        preserveAspectRatio="xMidYMid slice"
-                      />
-                    </g>
-                  </pattern>
-                </defs>
-              ) : null}
-              <rect
-                x={ICELAND_INSET_BOX.x - 2}
-                y={ICELAND_INSET_BOX.y - 2}
-                width={ICELAND_INSET_BOX.width + 4}
-                height={ICELAND_INSET_BOX.height + 4}
-                className="map-iceland-inset-box"
-              />
-              <path
-                d={icelandPath}
-                className="map-country map-country--covered"
-                style={{
-                  fill: selectedId === 'is' ? 'url(#flag-pattern-is)' : 'var(--map-default)',
-                  fillOpacity: selectedId === 'is' ? FLAG_FILL_OPACITY : 1,
-                  stroke: 'var(--surface)',
-                  strokeWidth: 0.5,
-                }}
-              />
-              <title>{iceland.name[lang]}</title>
-            </g>
-          ) : null}
-        </ComposableMap>
-      </div>
+                    preserveAspectRatio="xMidYMid slice"
+                  />
+                </pattern>
+              </defs>
+            ) : null}
+            <rect
+              x={ICELAND_INSET_BOX.x - 2}
+              y={ICELAND_INSET_BOX.y - 2}
+              width={ICELAND_INSET_BOX.width + 4}
+              height={ICELAND_INSET_BOX.height + 4}
+              className="map-iceland-inset-box"
+            />
+            <path
+              d={icelandPath}
+              className="map-country map-country--covered"
+              style={{
+                fill: selectedId === 'is' ? 'url(#flag-pattern-is)' : 'var(--map-default)',
+                fillOpacity: selectedId === 'is' ? FLAG_FILL_OPACITY : 1,
+                stroke: 'var(--surface)',
+                strokeWidth: 0.5,
+              }}
+            />
+            <title>{iceland.name[lang]}</title>
+          </g>
+        ) : null}
+      </ComposableMap>
     </div>
   )
 }
