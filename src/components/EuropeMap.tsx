@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
@@ -32,6 +32,26 @@ const isoToCountry = new Map(countries.map((c) => [countryIsoMap[c.id], c]))
 export function EuropeMap() {
   const navigate = useNavigate()
   const { lang } = useLanguage()
+  const wrapRef = useRef<HTMLDivElement>(null)
+  const [containerWidth, setContainerWidth] = useState(360)
+
+  useEffect(() => {
+    const el = wrapRef.current
+    if (!el) return
+    const observer = new ResizeObserver((entries) => {
+      const width = entries[0]?.contentRect.width
+      if (width) setContainerWidth(width)
+    })
+    observer.observe(el)
+    return () => observer.disconnect()
+  }, [])
+
+  // The map is rotated 90° so its wide (Iceland–Turkey) axis runs along the
+  // phone's scrollable height instead of its cramped width — swap width/height
+  // for the pre-rotation box so the rotated footprint exactly fills the container.
+  const rotatedHeight = containerWidth * (MAP_WIDTH / MAP_HEIGHT)
+  const preRotateWidth = rotatedHeight
+  const preRotateHeight = containerWidth
 
   const geoData = useMemo(() => {
     const topology = worldTopology as unknown as Topology
@@ -54,83 +74,85 @@ export function EuropeMap() {
   const iceland = countries.find((c) => c.id === 'is')
 
   return (
-    <div className="europe-map-wrap">
-      <ComposableMap
-        width={MAP_WIDTH}
-        height={MAP_HEIGHT}
-        projection="geoMercator"
-        projectionConfig={{ center: [20, 52.5], scale: 570 }}
-        className="europe-map-svg"
-      >
-        <ZoomableGroup center={[20, 52.5]} zoom={1} minZoom={1} maxZoom={6}>
-          <Geographies geography={geoData}>
-            {({ geographies }) =>
-              geographies
-                .filter((geo) => geo.id !== ICELAND_ISO)
-                .map((geo) => {
-                  const isKosovo = geo.properties?.name === KOSOVO_NAME
-                  const country = isKosovo
-                    ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
-                    : isoToCountry.get(String(geo.id))
-                  const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
+    <div className="europe-map-wrap" ref={wrapRef} style={{ height: rotatedHeight }}>
+      <div className="europe-map-rotate" style={{ width: preRotateWidth, height: preRotateHeight }}>
+        <ComposableMap
+          width={MAP_WIDTH}
+          height={MAP_HEIGHT}
+          projection="geoMercator"
+          projectionConfig={{ center: [20, 52.5], scale: 570 }}
+          className="europe-map-svg"
+        >
+          <ZoomableGroup center={[20, 52.5]} zoom={1} minZoom={1} maxZoom={6}>
+            <Geographies geography={geoData}>
+              {({ geographies }) =>
+                geographies
+                  .filter((geo) => geo.id !== ICELAND_ISO)
+                  .map((geo) => {
+                    const isKosovo = geo.properties?.name === KOSOVO_NAME
+                    const country = isKosovo
+                      ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
+                      : isoToCountry.get(String(geo.id))
+                    const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
 
-                  return (
-                    <Geography
-                      key={geo.rsmKey}
-                      geography={geo}
-                      onClick={() => country && navigate(`/country/${country.id}`)}
-                      className={country ? 'map-country map-country--covered' : 'map-country'}
-                      style={{
-                        fill: country ? 'var(--map-accent)' : 'var(--map-neutral)',
-                        stroke: 'var(--surface)',
-                        strokeWidth: 0.5,
-                        outline: 'none',
-                        cursor: country ? 'pointer' : 'default',
-                        opacity: isMicroState ? 0.85 : 1,
-                      }}
-                    />
-                  )
-                })
-            }
-          </Geographies>
-          {countries
-            .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
-            .map((c) => (
-              <Marker
-                key={c.id}
-                coordinates={MICRO_STATE_COORDS[c.id]}
-                onClick={() => navigate(`/country/${c.id}`)}
-                className="map-micro-marker"
-              >
-                <circle r={10} className="map-micro-hit" />
-                <circle r={4} className="map-micro-dot" />
-                <title>{c.name[lang]}</title>
-              </Marker>
-            ))}
-        </ZoomableGroup>
-        {icelandPath && iceland ? (
-          <g
-            className="map-iceland-inset"
-            onClick={() => navigate('/country/is')}
-            role="button"
-            aria-label={iceland.name[lang]}
-          >
-            <rect
-              x={ICELAND_INSET_BOX.x - 2}
-              y={ICELAND_INSET_BOX.y - 2}
-              width={ICELAND_INSET_BOX.width + 4}
-              height={ICELAND_INSET_BOX.height + 4}
-              className="map-iceland-inset-box"
-            />
-            <path
-              d={icelandPath}
-              className="map-country map-country--covered"
-              style={{ fill: 'var(--map-accent)', stroke: 'var(--surface)', strokeWidth: 0.5 }}
-            />
-            <title>{iceland.name[lang]}</title>
-          </g>
-        ) : null}
-      </ComposableMap>
+                    return (
+                      <Geography
+                        key={geo.rsmKey}
+                        geography={geo}
+                        onClick={() => country && navigate(`/country/${country.id}`)}
+                        className={country ? 'map-country map-country--covered' : 'map-country'}
+                        style={{
+                          fill: country ? 'var(--map-accent)' : 'var(--map-neutral)',
+                          stroke: 'var(--surface)',
+                          strokeWidth: 0.5,
+                          outline: 'none',
+                          cursor: country ? 'pointer' : 'default',
+                          opacity: isMicroState ? 0.85 : 1,
+                        }}
+                      />
+                    )
+                  })
+              }
+            </Geographies>
+            {countries
+              .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
+              .map((c) => (
+                <Marker
+                  key={c.id}
+                  coordinates={MICRO_STATE_COORDS[c.id]}
+                  onClick={() => navigate(`/country/${c.id}`)}
+                  className="map-micro-marker"
+                >
+                  <circle r={10} className="map-micro-hit" />
+                  <circle r={4} className="map-micro-dot" />
+                  <title>{c.name[lang]}</title>
+                </Marker>
+              ))}
+          </ZoomableGroup>
+          {icelandPath && iceland ? (
+            <g
+              className="map-iceland-inset"
+              onClick={() => navigate('/country/is')}
+              role="button"
+              aria-label={iceland.name[lang]}
+            >
+              <rect
+                x={ICELAND_INSET_BOX.x - 2}
+                y={ICELAND_INSET_BOX.y - 2}
+                width={ICELAND_INSET_BOX.width + 4}
+                height={ICELAND_INSET_BOX.height + 4}
+                className="map-iceland-inset-box"
+              />
+              <path
+                d={icelandPath}
+                className="map-country map-country--covered"
+                style={{ fill: 'var(--map-accent)', stroke: 'var(--surface)', strokeWidth: 0.5 }}
+              />
+              <title>{iceland.name[lang]}</title>
+            </g>
+          ) : null}
+        </ComposableMap>
+      </div>
     </div>
   )
 }
