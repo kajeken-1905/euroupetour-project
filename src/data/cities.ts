@@ -5108,6 +5108,46 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "san-gimignano",
+    countryId: "it",
+    signatureImage: "/cities/san-gimignano.jpg",
+    name: { ko: "산 지미냐노", en: "San Gimignano" },
+    nativeName: "San Gimignano",
+    blurb: {
+      ko: "중세 탑들이 솟은 토스카나의 '탑의 도시'입니다.", en: "Tuscany's \"Town of Fine Towers,\" bristling with medieval stone towers.",
+    },
+    highlights: [
+      {
+        id: "san-gimignano-h1",
+        name: { ko: "중세 탑 스카이라인", en: "Medieval Towers" },
+        description: { ko: "중세 귀족 가문이 경쟁하듯 세운 탑들의 스카이라인입니다.", en: "Skyline of stone towers built by rival noble families." },
+        image: "/highlights/san-gimignano-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=San%20Gimignano%20towers",
+      },
+      {
+        id: "san-gimignano-h2",
+        name: { ko: "치스테르나 광장", en: "Piazza della Cisterna" },
+        description: { ko: "13세기 우물이 있는 부채꼴 광장입니다.", en: "Fan-shaped square centered on a 13th-century well." },
+        image: "/highlights/san-gimignano-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20della%20Cisterna%20San%20Gimignano",
+      },
+      {
+        id: "san-gimignano-h3",
+        name: { ko: "토레 그로사", en: "Torre Grossa" },
+        description: { ko: "마을에서 가장 높은 탑의 전망대입니다.", en: "Lookout atop the town's tallest tower." },
+        image: "/highlights/san-gimignano-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Torre%20Grossa%20San%20Gimignano",
+      },
+      {
+        id: "san-gimignano-h4",
+        name: { ko: "두오모 광장", en: "Piazza del Duomo" },
+        description: { ko: "참사회 성당과 시청사가 마주한 중심 광장입니다.", en: "Main square facing the Collegiate Church and town hall." },
+        image: "/highlights/san-gimignano-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Duomo%20San%20Gimignano",
+      }
+    ],
+  },
+  {
     id: "bologna",
     countryId: "it",
     signatureImage: "/cities/bologna.jpg",
@@ -5473,6 +5513,46 @@ export const cities: City[] = [
         description: { ko: "구시가와 항구가 내려다보이는 옛 언덕 마을입니다.", en: "Old hilltop quarter overlooking the town and harbor." },
         image: "/highlights/cannes-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Le%20Suquet%20Cannes",
+      }
+    ],
+  },
+  {
+    id: "mont-saint-michel",
+    countryId: "fr",
+    signatureImage: "/cities/mont-saint-michel.jpg",
+    name: { ko: "몽생미셸", en: "Mont Saint-Michel" },
+    nativeName: "Mont Saint-Michel",
+    blurb: {
+      ko: "밀물 때 바다 위에 떠오르는 첨탑 수도원 섬마을입니다.", en: "Tidal island village crowned by a spired abbey that seems to float at high tide.",
+    },
+    highlights: [
+      {
+        id: "mont-saint-michel-h1",
+        name: { ko: "몽생미셸 수도원", en: "Mont Saint-Michel Abbey" },
+        description: { ko: "섬 정상에 우뚝 솟은 중세 베네딕토 수도원입니다.", en: "Medieval Benedictine abbey crowning the island's summit." },
+        image: "/highlights/mont-saint-michel-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mont%20Saint-Michel%20Abbey",
+      },
+      {
+        id: "mont-saint-michel-h2",
+        name: { ko: "그랑드 뤼", en: "Grande Rue" },
+        description: { ko: "좁은 골목에 상점과 여관이 늘어선 마을 중심 거리입니다.", en: "Narrow main street lined with shops and inns inside the walls." },
+        image: "/highlights/mont-saint-michel-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Grande%20Rue%20Mont%20Saint-Michel",
+      },
+      {
+        id: "mont-saint-michel-h3",
+        name: { ko: "성벽 산책로", en: "Ramparts Walk" },
+        description: { ko: "요새 성벽을 따라 걷는 만 전망길입니다.", en: "Fortified rampart walk with sweeping bay views." },
+        image: "/highlights/mont-saint-michel-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mont%20Saint-Michel%20ramparts",
+      },
+      {
+        id: "mont-saint-michel-h4",
+        name: { ko: "몽생미셸 만", en: "Bay of Mont Saint-Michel" },
+        description: { ko: "유럽에서 조수 간만의 차가 가장 큰 만 위로 섬이 떠오릅니다.", en: "The island appears to float above one of Europe's most extreme tidal bays." },
+        image: "/highlights/mont-saint-michel-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Baie%20du%20Mont%20Saint-Michel",
       }
     ],
   },
@@ -7215,6 +7295,46 @@ export const cities: City[] = [
         description: { ko: "로마네스크 양식의 아랍 목욕탕입니다.", en: "Romanesque-style Arab baths." },
         image: "/highlights/girona-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Banys%20%C3%80rabs%20Girona",
+      }
+    ],
+  },
+  {
+    id: "montserrat",
+    countryId: "es",
+    signatureImage: "/cities/montserrat.jpg",
+    name: { ko: "몬세라트", en: "Montserrat" },
+    nativeName: "Montserrat",
+    blurb: {
+      ko: "톱니 모양 기암산 위에 자리한 카탈루냐의 성지 수도원입니다.", en: "Catalonia's sacred mountain abbey, perched among jagged rock spires.",
+    },
+    highlights: [
+      {
+        id: "montserrat-h1",
+        name: { ko: "몬세라트 수도원", en: "Santa Maria de Montserrat Abbey" },
+        description: { ko: "검은 성모상을 모신 베네딕토 수도원입니다.", en: "Benedictine abbey home to the Black Madonna." },
+        image: "/highlights/montserrat-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Montserrat%20Abbey",
+      },
+      {
+        id: "montserrat-h2",
+        name: { ko: "기암절벽", en: "Serrated Rock Peaks" },
+        description: { ko: "톱니처럼 솟은 몬세라트산의 독특한 암봉들입니다.", en: "The mountain's distinctive serrated rock pinnacles." },
+        image: "/highlights/montserrat-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Montserrat%20mountain",
+      },
+      {
+        id: "montserrat-h3",
+        name: { ko: "산 조안 푸니쿨라", en: "Sant Joan Funicular" },
+        description: { ko: "산 위 전망대로 오르는 푸니쿨라입니다.", en: "Funicular climbing to a summit viewpoint." },
+        image: "/highlights/montserrat-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sant%20Joan%20Funicular%20Montserrat",
+      },
+      {
+        id: "montserrat-h4",
+        name: { ko: "검은 성모상", en: "La Moreneta" },
+        description: { ko: "카탈루냐의 수호성인으로 모셔지는 목조 성모상입니다.", en: "Wooden statue of the Black Madonna, Catalonia's patron." },
+        image: "/highlights/montserrat-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=La%20Moreneta%20Montserrat",
       }
     ],
   },
