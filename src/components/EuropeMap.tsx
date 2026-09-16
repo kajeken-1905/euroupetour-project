@@ -251,8 +251,12 @@ export function EuropeMap() {
                         style={{
                           fill: country ? (isSelected ? `url(#${patternId})` : 'var(--map-default)') : 'var(--map-neutral)',
                           fillOpacity: isSelected ? FLAG_FILL_OPACITY : 1,
-                          stroke: 'var(--surface)',
-                          strokeWidth: 0.5,
+                          stroke: isSelected ? 'var(--map-selected)' : 'var(--surface)',
+                          strokeWidth: isSelected ? 2.5 : 0.5,
+                          // Keeps the stroke a constant on-screen thickness regardless of
+                          // zoom — without this, a selected (zoomed-in) country's thin
+                          // border balloons into a wide pale gap around its edges.
+                          vectorEffect: 'non-scaling-stroke',
                           outline: 'none',
                           cursor: country ? 'pointer' : 'default',
                           opacity: isMicroState ? 0.85 : 1,
@@ -357,8 +361,9 @@ export function EuropeMap() {
               style={{
                 fill: selectedId === 'is' ? 'url(#flag-pattern-is)' : 'var(--map-default)',
                 fillOpacity: selectedId === 'is' ? FLAG_FILL_OPACITY : 1,
-                stroke: 'var(--surface)',
-                strokeWidth: 0.5,
+                stroke: selectedId === 'is' ? 'var(--map-selected)' : 'var(--surface)',
+                strokeWidth: selectedId === 'is' ? 2 : 0.5,
+                vectorEffect: 'non-scaling-stroke',
               }}
             />
             <title>{iceland.name[lang]}</title>

@@ -162,7 +162,7 @@
 }
 
 .map-country {
-  transition: fill 0.2s ease;
+  transition: fill 0.2s ease, stroke 0.2s ease, stroke-width 0.2s ease;
 }
 
 .map-iceland-inset {
