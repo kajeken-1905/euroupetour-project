@@ -10,6 +10,7 @@ import { countries } from '../data/countries'
 import { cities } from '../data/cities'
 import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '../data/countryIsoMap'
 import { useLanguage } from '../contexts/LanguageContext'
+import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { hexToRgba } from '../utils/color'
 import { assetUrl } from '../utils/assetUrl'
 import { t } from '../i18n/ui'
@@ -134,8 +135,20 @@ function nearMainlandFeature(
 export function EuropeMap() {
   const navigate = useNavigate()
   const { lang } = useLanguage()
+  const { data: visitedData } = useVisitedPlaces()
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
+
+  // A country reads as "visited" once it has its own visit record, or any of
+  // its cities does — marking a city visited implies its country was too.
+  const visitedCountryIds = useMemo(() => {
+    const ids = new Set(Object.keys(visitedData.countries))
+    for (const cityId of Object.keys(visitedData.cities)) {
+      const city = cities.find((c) => c.id === cityId)
+      if (city) ids.add(city.countryId)
+    }
+    return ids
+  }, [visitedData])
 
   const geoData = useMemo(() => {
     const topology = worldTopology as unknown as Topology
@@ -302,6 +315,7 @@ export function EuropeMap() {
                     : isoToCountry.get(String(geo.id))
                   const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
                   const isSelected = country ? country.id === selectedId : false
+                  const isVisited = country ? visitedCountryIds.has(country.id) : false
                   const clipId = country ? `flag-clip-${country.id}` : ''
 
                   return (
@@ -325,7 +339,11 @@ export function EuropeMap() {
                         }}
                         className={country ? 'map-country map-country--covered' : 'map-country'}
                         style={{
-                          fill: country ? 'var(--map-default)' : 'var(--map-neutral)',
+                          fill: country
+                            ? isVisited
+                              ? 'var(--map-visited)'
+                              : 'var(--map-default)'
+                            : 'var(--map-neutral)',
                           stroke: isSelected ? 'var(--map-selected)' : 'var(--surface)',
                           strokeWidth: isSelected ? 2.5 : 0.5,
                           // Keeps the stroke a constant on-screen thickness regardless of
@@ -359,6 +377,7 @@ export function EuropeMap() {
             .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
             .map((c) => {
               const isSelected = c.id === selectedId
+              const isVisited = visitedCountryIds.has(c.id)
               return (
                 <Marker
                   key={c.id}
@@ -370,7 +389,13 @@ export function EuropeMap() {
                   <circle
                     r={4}
                     className="map-micro-dot"
-                    style={{ fill: isSelected ? hexToRgba(c.flagColors.primary, 0.55) : 'var(--map-default)' }}
+                    style={{
+                      fill: isSelected
+                        ? hexToRgba(c.flagColors.primary, 0.55)
+                        : isVisited
+                          ? 'var(--map-visited)'
+                          : 'var(--map-default)',
+                    }}
                   />
                   <title>{c.name[lang]}</title>
                 </Marker>
@@ -433,7 +458,7 @@ export function EuropeMap() {
               d={icelandPath}
               className="map-country map-country--covered"
               style={{
-                fill: 'var(--map-default)',
+                fill: visitedCountryIds.has('is') ? 'var(--map-visited)' : 'var(--map-default)',
                 stroke: selectedId === 'is' ? 'var(--map-selected)' : 'var(--surface)',
                 strokeWidth: selectedId === 'is' ? 2 : 0.5,
                 vectorEffect: 'non-scaling-stroke',

@@ -12,6 +12,7 @@
   --font-display: 'Fraunces', 'Apple SD Gothic Neo', serif;
   --font-body: 'Pretendard', 'Avenir Next', 'Apple SD Gothic Neo', sans-serif;
   --map-default: #f3c7dc;
+  --map-visited: #e0569b;
   --map-selected: #d6006f;
   --map-neutral: #e2dccf;
 }
