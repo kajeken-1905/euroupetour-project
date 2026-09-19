@@ -8,6 +8,7 @@ import { PlaceCard } from '../components/PlaceCard'
 import { HighlightCard } from '../components/HighlightCard'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { TransitCityPanel } from '../components/TransitPanel'
+import { VisitStamps } from '../components/VisitStamps'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityTransit } from '../data/transit'
 import { t } from '../i18n/ui'
@@ -63,7 +64,10 @@ export function CityPage() {
             </h2>
             <p className="blurb">{city.blurb[lang]}</p>
           </div>
-          <LanguageToggle />
+          <div className="top-bar-side">
+            <LanguageToggle />
+            <VisitStamps kind="cities" placeId={city.id} />
+          </div>
         </div>
       </header>
 

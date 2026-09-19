@@ -5,6 +5,7 @@ import { getCitiesByCountry } from '../data/cities'
 import { CityListItem } from '../components/CityListItem'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { PhrasePanel } from '../components/PhrasePanel'
+import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
@@ -105,7 +106,10 @@ export function CountryPage() {
             </h2>
             <p className="blurb">{country.blurb[lang]}</p>
           </div>
-          <LanguageToggle />
+          <div className="top-bar-side">
+            <LanguageToggle />
+            <VisitStamps kind="countries" placeId={country.id} />
+          </div>
         </div>
 
         <div className="country-facts" aria-label={t('countryFacts', lang)}>

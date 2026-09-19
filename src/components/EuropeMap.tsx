@@ -1,10 +1,10 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
 import { geoArea, geoCentroid, geoMercator, geoPath } from 'd3-geo'
 import type { Topology } from 'topojson-specification'
-import type { Feature, FeatureCollection, Geometry, MultiPolygon, Polygon } from 'geojson'
+import type { Feature, FeatureCollection, Geometry, MultiPolygon, Polygon, Position } from 'geojson'
 import worldTopology from 'world-atlas/countries-50m.json'
 import { countries } from '../data/countries'
 import { cities } from '../data/cities'
@@ -17,6 +17,14 @@ import { t } from '../i18n/ui'
 /** Opacity applied to the selected country's flag-image fill so it reads as a
  * pale tint that the white city pins still stand out against. */
 const FLAG_FILL_OPACITY = 0.45
+
+/** How far (in map SVG units) a ring's center may sit outside the mainland
+ * ring's own box and still count as "near" it — large enough to reach a
+ * representative nearby island (Northern Ireland for the UK, Corsica for
+ * France, the Balearics for Spain, Sicily/Sardinia for Italy, ...), small
+ * enough to exclude a true distant overseas exclave (French Guiana, the
+ * Canaries, ...), which barely reads at mobile size anyway. */
+const NEAR_MAINLAND_MARGIN = 35
 
 const MAP_WIDTH = 800
 const MAP_HEIGHT = 485
@@ -68,6 +76,61 @@ function mainlandRing(geoFeature: Feature<Geometry>): Feature<Polygon> {
   return { type: 'Feature', geometry: { type: 'Polygon', coordinates: largest }, properties: {} }
 }
 
+/**
+ * The mainland ring plus any other ring that sits within `margin` map units
+ * of it — a nearby island (Northern Ireland, Corsica, the Balearics, Sicily,
+ * ...) — but not a truly distant exclave. Used to size and clip a single flag
+ * image so it covers the mainland and those nearby islands, without either
+ * shrinking to fit a stray overseas territory or leaving nearby islands bare.
+ */
+function nearMainlandFeature(
+  geoFeature: Feature<Geometry>,
+  boundsPath: ReturnType<typeof geoPath>,
+  margin: number,
+): { feature: Feature<MultiPolygon>; bounds: { x: number; y: number; width: number; height: number } } {
+  const geometry = geoFeature.geometry
+  const rings: Position[][][] =
+    geometry.type === 'MultiPolygon' ? (geometry as MultiPolygon).coordinates : [(geometry as Polygon).coordinates]
+
+  let mainIdx = 0
+  let mainArea = -1
+  rings.forEach((ring, i) => {
+    const area = geoArea({ type: 'Polygon', coordinates: ring })
+    if (area > mainArea) {
+      mainArea = area
+      mainIdx = i
+    }
+  })
+  const [[mx0, my0], [mx1, my1]] = boundsPath.bounds({ type: 'Polygon', coordinates: rings[mainIdx] })
+  const ex0 = mx0 - margin
+  const ey0 = my0 - margin
+  const ex1 = mx1 + margin
+  const ey1 = my1 + margin
+
+  const included: Position[][][] = []
+  let bx0 = Infinity
+  let by0 = Infinity
+  let bx1 = -Infinity
+  let by1 = -Infinity
+  rings.forEach((ring, i) => {
+    const [[rx0, ry0], [rx1, ry1]] = boundsPath.bounds({ type: 'Polygon', coordinates: ring })
+    const cx = (rx0 + rx1) / 2
+    const cy = (ry0 + ry1) / 2
+    const isNear = i === mainIdx || (cx >= ex0 && cx <= ex1 && cy >= ey0 && cy <= ey1)
+    if (!isNear) return
+    included.push(ring)
+    bx0 = Math.min(bx0, rx0)
+    by0 = Math.min(by0, ry0)
+    bx1 = Math.max(bx1, rx1)
+    by1 = Math.max(by1, ry1)
+  })
+
+  return {
+    feature: { type: 'Feature', geometry: { type: 'MultiPolygon', coordinates: included }, properties: {} },
+    bounds: { x: bx0, y: by0, width: Math.max(bx1 - bx0, 1), height: Math.max(by1 - by0, 1) },
+  }
+}
+
 export function EuropeMap() {
   const navigate = useNavigate()
   const { lang } = useLanguage()
@@ -95,7 +158,11 @@ export function EuropeMap() {
         ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
         : isoToCountry.get(String(geoFeature.id))
       if (!country) continue
-      map.set(country.id, geoCentroid(geoFeature) as [number, number])
+      // Use just the mainland ring's centroid — the raw multi-ring centroid is
+      // pulled far off-continent by distant overseas territories (France's
+      // French Guiana/Réunion/Martinique, etc.), landing nowhere near the
+      // country's actual on-screen position.
+      map.set(country.id, geoCentroid(mainlandRing(geoFeature)) as [number, number])
     }
     for (const [id, coords] of Object.entries(MICRO_STATE_COORDS)) {
       map.set(id, coords)
@@ -115,15 +182,20 @@ export function EuropeMap() {
     )
   }, [geoData, selectedId])
 
-  // Bounds (in the map's own SVG units) of the selected country's mainland —
-  // reused both to size the flag pattern and to pick a zoom level that fits
-  // the whole shape on screen instead of a fixed zoom that crops long
-  // countries like Sweden.
-  const selectedBounds = useMemo(() => {
+  // The mainland plus any nearby island (Northern Ireland, Corsica, the
+  // Balearics, ...), combined — both its outline (to clip a single flag image
+  // to) and its bounds (to size that image, and to pick a zoom level that
+  // fits it on screen instead of a fixed zoom that crops long countries like
+  // Sweden).
+  const selectedNear = useMemo(() => {
     if (!selectedGeoFeature) return null
-    const [[bx0, by0], [bx1, by1]] = boundsPath.bounds(mainlandRing(selectedGeoFeature))
-    return { x: bx0, y: by0, width: Math.max(bx1 - bx0, 1), height: Math.max(by1 - by0, 1) }
+    return nearMainlandFeature(selectedGeoFeature, boundsPath, NEAR_MAINLAND_MARGIN)
   }, [selectedGeoFeature, boundsPath])
+  const selectedBounds = selectedNear?.bounds ?? null
+  const selectedPathD = useMemo(() => {
+    if (!selectedNear) return null
+    return boundsPath(selectedNear.feature)
+  }, [selectedNear, boundsPath])
 
   const icelandPath = useMemo(() => {
     const icelandFeature = geoData.features.find((f) => f.id === ICELAND_ISO)
@@ -171,19 +243,37 @@ export function EuropeMap() {
     }
   }
 
-  const selectedCentroid = selectedId ? centroidById.get(selectedId) : undefined
-  const zoomCenter = selectedCentroid ?? DEFAULT_CENTER
+  // Iceland has no real position on the main map (it's drawn as a fixed inset
+  // instead, see below) so there's nothing on the main map to pan/zoom to for
+  // it — selecting it leaves the main map's view exactly as it was, rather
+  // than snapping back to the default view.
+  const [mapView, setMapView] = useState<{ center: [number, number]; zoom: number }>({
+    center: DEFAULT_CENTER,
+    zoom: 1,
+  })
 
-  // Fit the selected country's own bounding box into the map's own fixed
-  // viewBox — a flat zoom either crops long countries (Sweden, Norway, Italy)
-  // or under-zooms tiny ones, since size varies hugely between them.
-  const zoomLevel = useMemo(() => {
-    if (!selectedCentroid) return 1
-    if (!selectedBounds) return SELECTED_ZOOM
-    const fitWidth = (MAP_WIDTH * FIT_MARGIN) / selectedBounds.width
-    const fitHeight = (MAP_HEIGHT * FIT_MARGIN) / selectedBounds.height
-    return Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
-  }, [selectedCentroid, selectedBounds])
+  useEffect(() => {
+    if (selectedId === null) {
+      setMapView({ center: DEFAULT_CENTER, zoom: 1 })
+      return
+    }
+    if (selectedId === 'is') return
+    const centroid = centroidById.get(selectedId)
+    if (!centroid) return
+    // Fit the selected country's own bounding box into the map's own fixed
+    // viewBox — a flat zoom either crops long countries (Sweden, Norway,
+    // Italy) or under-zooms tiny ones, since size varies hugely between them.
+    let zoom = SELECTED_ZOOM
+    if (selectedBounds) {
+      const fitWidth = (MAP_WIDTH * FIT_MARGIN) / selectedBounds.width
+      const fitHeight = (MAP_HEIGHT * FIT_MARGIN) / selectedBounds.height
+      zoom = Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
+    }
+    setMapView({ center: centroid, zoom })
+  }, [selectedId, centroidById, selectedBounds])
+
+  const zoomCenter = mapView.center
+  const zoomLevel = mapView.zoom
 
   return (
     <div className="europe-map-wrap">
@@ -212,29 +302,15 @@ export function EuropeMap() {
                     : isoToCountry.get(String(geo.id))
                   const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
                   const isSelected = country ? country.id === selectedId : false
-                  const patternId = country ? `flag-pattern-${country.id}` : ''
+                  const clipId = country ? `flag-clip-${country.id}` : ''
 
                   return (
                     <g key={geo.rsmKey}>
-                      {isSelected && country && selectedBounds ? (
+                      {isSelected && country && selectedPathD ? (
                         <defs>
-                          <pattern
-                            id={patternId}
-                            patternUnits="userSpaceOnUse"
-                            x={selectedBounds.x}
-                            y={selectedBounds.y}
-                            width={selectedBounds.width}
-                            height={selectedBounds.height}
-                          >
-                            <image
-                              href={assetUrl(country.flagImage)}
-                              x={0}
-                              y={0}
-                              width={selectedBounds.width}
-                              height={selectedBounds.height}
-                              preserveAspectRatio="xMidYMid slice"
-                            />
-                          </pattern>
+                          <clipPath id={clipId}>
+                            <path d={selectedPathD} />
+                          </clipPath>
                         </defs>
                       ) : null}
                       <Geography
@@ -249,8 +325,7 @@ export function EuropeMap() {
                         }}
                         className={country ? 'map-country map-country--covered' : 'map-country'}
                         style={{
-                          fill: country ? (isSelected ? `url(#${patternId})` : 'var(--map-default)') : 'var(--map-neutral)',
-                          fillOpacity: isSelected ? FLAG_FILL_OPACITY : 1,
+                          fill: country ? 'var(--map-default)' : 'var(--map-neutral)',
                           stroke: isSelected ? 'var(--map-selected)' : 'var(--surface)',
                           strokeWidth: isSelected ? 2.5 : 0.5,
                           // Keeps the stroke a constant on-screen thickness regardless of
@@ -262,6 +337,19 @@ export function EuropeMap() {
                           opacity: isMicroState ? 0.85 : 1,
                         }}
                       />
+                      {isSelected && country && selectedPathD && selectedBounds ? (
+                        <image
+                          href={assetUrl(country.flagImage)}
+                          x={selectedBounds.x}
+                          y={selectedBounds.y}
+                          width={selectedBounds.width}
+                          height={selectedBounds.height}
+                          preserveAspectRatio="none"
+                          clipPath={`url(#${clipId})`}
+                          opacity={FLAG_FILL_OPACITY}
+                          style={{ pointerEvents: 'none' }}
+                        />
+                      ) : null}
                     </g>
                   )
                 })
@@ -320,7 +408,7 @@ export function EuropeMap() {
             </text>
           </g>
         ) : null}
-        {icelandPath && iceland ? (
+        {icelandPath && iceland && (!selectedId || selectedId === 'is') ? (
           <g
             className="map-iceland-inset"
             onClick={() => handleSelect('is')}
@@ -329,23 +417,9 @@ export function EuropeMap() {
           >
             {selectedId === 'is' ? (
               <defs>
-                <pattern
-                  id="flag-pattern-is"
-                  patternUnits="userSpaceOnUse"
-                  x={ICELAND_INSET_BOX.x}
-                  y={ICELAND_INSET_BOX.y}
-                  width={ICELAND_INSET_BOX.width}
-                  height={ICELAND_INSET_BOX.height}
-                >
-                  <image
-                    href={assetUrl(iceland.flagImage)}
-                    x={0}
-                    y={0}
-                    width={ICELAND_INSET_BOX.width}
-                    height={ICELAND_INSET_BOX.height}
-                    preserveAspectRatio="xMidYMid slice"
-                  />
-                </pattern>
+                <clipPath id="flag-clip-is">
+                  <path d={icelandPath} />
+                </clipPath>
               </defs>
             ) : null}
             <rect
@@ -359,13 +433,25 @@ export function EuropeMap() {
               d={icelandPath}
               className="map-country map-country--covered"
               style={{
-                fill: selectedId === 'is' ? 'url(#flag-pattern-is)' : 'var(--map-default)',
-                fillOpacity: selectedId === 'is' ? FLAG_FILL_OPACITY : 1,
+                fill: 'var(--map-default)',
                 stroke: selectedId === 'is' ? 'var(--map-selected)' : 'var(--surface)',
                 strokeWidth: selectedId === 'is' ? 2 : 0.5,
                 vectorEffect: 'non-scaling-stroke',
               }}
             />
+            {selectedId === 'is' ? (
+              <image
+                href={assetUrl(iceland.flagImage)}
+                x={ICELAND_INSET_BOX.x}
+                y={ICELAND_INSET_BOX.y}
+                width={ICELAND_INSET_BOX.width}
+                height={ICELAND_INSET_BOX.height}
+                preserveAspectRatio="none"
+                clipPath="url(#flag-clip-is)"
+                opacity={FLAG_FILL_OPACITY}
+                style={{ pointerEvents: 'none' }}
+              />
+            ) : null}
             <title>{iceland.name[lang]}</title>
           </g>
         ) : null}

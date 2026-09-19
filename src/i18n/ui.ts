@@ -79,6 +79,10 @@ export const ui = {
     ko: '한번 더 클릭하면, 국가 설명으로 넘어갑니다',
     en: 'Tap once more to open this country’s guide',
   },
+  visitStamps: { ko: '방문 스탬프', en: 'Visit stamps' },
+  noVisitsYet: { ko: '아직 방문 기록이 없어요.', en: 'No visits recorded yet.' },
+  addVisit: { ko: '방문 기록 추가', en: 'Add visit' },
+  removeVisit: { ko: '이 방문 기록 삭제', en: 'Remove this visit' },
   adminContactNote: {
     ko: '문의/건의 사항이 있다면 메일 부탁드립니다',
     en: 'Please email us with questions or suggestions',
