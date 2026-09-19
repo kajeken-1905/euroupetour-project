@@ -1967,3 +1967,84 @@ button.back-link {
     transition: none;
   }
 }
+
+/* ----------------------------------------------------------------------
+ * Desktop / wide-viewport layout
+ *
+ * Everything above this point is the untouched mobile design. Below
+ * 1024px none of this applies, so the phone-frame experience is exactly
+ * what it was before. At 1024px+ the same "app in a frame" shell widens
+ * into a desktop dashboard: the bottom tab bar becomes a top nav, and
+ * pages that were single-column stacks pick up extra grid columns.
+ * ---------------------------------------------------------------------- */
+
+@media (min-width: 1024px) {
+  .app-root {
+    padding: 40px 24px;
+  }
+
+  .phone-shell {
+    width: min(94vw, var(--frame-max-desktop));
+    height: min(92dvh, 980px);
+  }
+
+  .phone-status {
+    display: none;
+  }
+
+  .phone-content {
+    padding: 0 40px 32px;
+  }
+
+  .admin-footer {
+    padding: 10px 40px 8px;
+  }
+
+  .bottom-tab,
+  .phone-shell--neon .bottom-tab {
+    order: -1;
+    display: flex;
+    width: auto;
+    justify-content: flex-start;
+    gap: 6px;
+    padding: 18px 40px 14px;
+    border-top: 0;
+    border-bottom: 1px solid var(--line);
+    box-shadow: none;
+  }
+
+  .bottom-tab a {
+    width: auto;
+    min-width: 96px;
+    padding: 10px 18px;
+  }
+
+  .country-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+  }
+
+  .city-list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+
+  .place-list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+
+  .highlight-list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+
+  .country-facts {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+  }
+
+  .country-fact--wide {
+    grid-column: span 2;
+  }
+}

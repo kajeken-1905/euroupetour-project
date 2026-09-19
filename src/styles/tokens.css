@@ -8,6 +8,7 @@
   --radius: 18px;
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   --frame-max: 430px;
+  --frame-max-desktop: 1180px;
   --font-display: 'Fraunces', 'Apple SD Gothic Neo', serif;
   --font-body: 'Pretendard', 'Avenir Next', 'Apple SD Gothic Neo', sans-serif;
   --map-default: #f3c7dc;
