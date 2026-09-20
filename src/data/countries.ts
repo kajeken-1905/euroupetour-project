@@ -1230,7 +1230,7 @@ export const countries: Country[] = [
     name: { ko: '우크라이나', en: 'Ukraine' },
     nativeName: 'Україна',
     flagImage: '/flags/ua.svg',
-    landmarkImage: '/landmarks/landmark-ua.svg',
+    landmarkImage: '/landmarks/landmark-ua.jpg',
     flag: '🇺🇦',
     blurb: {
       ko: '해바라기 들판과 저력의 나라. 키이우·리비우·오데사가 핵심입니다.',
@@ -1259,7 +1259,7 @@ export const countries: Country[] = [
     name: { ko: '몰도바', en: 'Moldova' },
     nativeName: 'Republica Moldova',
     flagImage: '/flags/md.svg',
-    landmarkImage: '/landmarks/landmark-md.svg',
+    landmarkImage: '/landmarks/landmark-md.jpg',
     flag: '🇲🇩',
     blurb: {
       ko: '와인과 수도원의 나라. 키시너우와 오르헤이울 베키가 중심입니다.',
@@ -1288,7 +1288,7 @@ export const countries: Country[] = [
     name: { ko: '아르메니아', en: 'Armenia' },
     nativeName: 'Հայաստան',
     flagImage: '/flags/am.svg',
-    landmarkImage: '/landmarks/landmark-am.svg',
+    landmarkImage: '/landmarks/landmark-am.jpg',
     flag: '🇦🇲',
     blurb: {
       ko: '코카서스의 첫 기독교 왕국. 예레반과 아라라트산 전망이 상징입니다.',
@@ -1317,7 +1317,7 @@ export const countries: Country[] = [
     name: { ko: '아제르바이잔', en: 'Azerbaijan' },
     nativeName: 'Azərbaycan',
     flagImage: '/flags/az.svg',
-    landmarkImage: '/landmarks/landmark-az.svg',
+    landmarkImage: '/landmarks/landmark-az.jpg',
     flag: '🇦🇿',
     blurb: {
       ko: '불의 땅, 카스피해의 관문. 바쿠의 불꽃 타워가 상징입니다.',
@@ -1346,7 +1346,7 @@ export const countries: Country[] = [
     name: { ko: '산마리노', en: 'San Marino' },
     nativeName: 'San Marino',
     flagImage: '/flags/sm.svg',
-    landmarkImage: '/landmarks/landmark-sm.svg',
+    landmarkImage: '/landmarks/landmark-sm.jpg',
     flag: '🇸🇲',
     blurb: {
       ko: '세계에서 가장 오래된 공화국. 티타노산의 요새 마을입니다.',
@@ -1375,7 +1375,7 @@ export const countries: Country[] = [
     name: { ko: '코소보', en: 'Kosovo' },
     nativeName: 'Kosovë / Kosovo',
     flagImage: '/flags/xk.svg',
-    landmarkImage: '/landmarks/landmark-xk.svg',
+    landmarkImage: '/landmarks/landmark-xk.jpg',
     flag: '🇽🇰',
     blurb: {
       ko: '발칸의 젊은 나라. 프리슈티나와 프리즈렌의 오스만 정취가 매력입니다.',
