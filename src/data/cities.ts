@@ -4851,6 +4851,13 @@ export const cities: City[] = [
         description: { ko: "강변 산책로입니다.", en: "Riverside walks." },
         image: "/highlights/strasbourg-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rhine%20Strasbourg",
+      },
+      {
+        id: "strasbourg-h6",
+        name: { ko: "크리스마스 마켓", en: "Christmas Market" },
+        description: { ko: "프랑스에서 가장 오래된 크리스마스 마켓입니다.", en: "France's oldest Christmas market." },
+        image: "/highlights/strasbourg-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20No%C3%ABl%20de%20Strasbourg",
       }
     ],
   },
