@@ -47,4 +47,9 @@ export const placesBAExtra: Place[] = [
   place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 4.4, 'Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Highly rated traditional coffee spot in Travnik'),
   place('travnik-cafe-2', 'travnik', 'cafe', 'My Place Café Travnik', 4.6, 'Bosanska 33, Travnik 72270', '트라브니크의 커피 전문점.', 'Coffee shop in Travnik.', { reviewCount: 912 }),
   place('travnik-cafe-3', 'travnik', 'cafe', 'Cafe Vremeplov', 4.8, 'Varoš 10, Travnik 72270', '바로슈 지구의 커피 전문점.', 'Coffee shop in the Varoš quarter.', { reviewCount: 364 }),
+
+  // —— neum ——
+  place('neum-fine_dining-1', 'neum', 'fine_dining', 'Restoran Laguna', 4.7, 'Kralja Tomislava 26, Neum 88390', '네움 1위 시푸드 레스토랑. 오징어찜과 리조토가 인기입니다.', "Neum's top-rated seafood restaurant, known for stuffed calamari and risotto.", { reviewCount: 3247 }),
+  place('neum-fine_dining-2', 'neum', 'fine_dining', 'Villa Dom Restoran Pizzeria', 4.8, 'Primorska 79, Neum', '해변 전망의 피자·시푸드 레스토랑입니다.', 'Pizza and seafood restaurant with beach views.', { reviewCount: 59 }),
+  place('neum-fine_dining-3', 'neum', 'fine_dining', 'Caffe Grill Adriatic', 4.6, 'Kamenice bb, Neum 88390', '신선한 해산물과 아드리아식 그릴 요리를 내는 인기 그릴 레스토랑입니다.', 'Popular grill restaurant serving fresh seafood and Adriatic-style grilled dishes.', { reviewCount: 36 }),
 ]
