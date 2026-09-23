@@ -12578,6 +12578,42 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "neum",
+    countryId: "ba",
+    lat: 42.9297,
+    lng: 17.6136,
+    signatureImage: "/cities/neum.jpg",
+    name: { ko: "네움", en: "Neum" },
+    nativeName: "Neum",
+    blurb: {
+      ko: "보스니아의 유일한 해안 도시. 아드리아해로 짧게 나가는 관문입니다.",
+      en: "Bosnia's only coastal town—a short gateway to the Adriatic.",
+    },
+    highlights: [
+      {
+        id: "neum-h1",
+        name: { ko: "네움 해변", en: "Neum beach" },
+        description: { ko: "아드리아해를 접하는 자갈·모래 해변입니다.", en: "Pebble-and-sand beach on the Adriatic." },
+        image: "/highlights/neum-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neum%20beach",
+      },
+      {
+        id: "neum-h2",
+        name: { ko: "해안 산책로", en: "Coastal promenade" },
+        description: { ko: "바다를 따라 걷는 산책로입니다.", en: "Seafront walkway along the coast." },
+        image: "/highlights/neum-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neum%20promenade",
+      },
+      {
+        id: "neum-h3",
+        name: { ko: "클렉 전망대", en: "Klek viewpoint" },
+        description: { ko: "네움 만이 내려다보이는 전망 포인트입니다.", en: "Viewpoint overlooking the Neum bay." },
+        image: "/highlights/neum-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Klek%20viewpoint%20Neum",
+      }
+    ],
+  },
+  {
     id: "kotor",
     countryId: "me",
     lat: 42.4247,
