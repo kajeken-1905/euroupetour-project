@@ -112,3 +112,9 @@ highlights/fussen-3.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Ne
 highlights/fussen-4.jpg | https://commons.wikimedia.org/wiki/File:Alpsee_Neuschwanstein.jpg | CC BY-SA 4.0 | Dmytro Balkhovitin
 highlights/fussen-5.jpg | https://commons.wikimedia.org/wiki/File:Fuessen-JR-E-4537-2020-06-22.jpg | CC BY-SA 3.0 de | Johannes Robalotoff
 highlights/istanbul-1.jpg | https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg | CC BY-SA 3.0 | Arild Vågen
+
+# Edinburgh highlight replacements (2026-09-24)
+highlights/edinburgh-3.jpg | https://commons.wikimedia.org/wiki/File:The_Royal_Mile,_Edinburgh_-_geograph.org.uk_-_2050206.jpg | CC BY-SA 2.0 | Stanley Howe <a href="//commons.wikimedi
+highlights/edinburgh-6.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_Scotland.jpg | CC BY-SA 3.0 | No machine-readable author provided. Maccoinnich~commonswiki assumed (based on copyright cl
+highlights/edinburgh-7.jpg | https://commons.wikimedia.org/wiki/File:Grassmarket,_Edinburgh,_Scotland.jpg | CC BY 2.0 | rboed*
+highlights/edinburgh-2.jpg | image supplied by the site owner (Edinburgh.png) | not a Commons image | -
