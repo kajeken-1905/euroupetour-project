@@ -151,11 +151,27 @@ export function CountryPage() {
       {transit ? <TransitCountryPanel transit={transit} /> : null}
 
       <p className="section-label">{t('cities', lang)}</p>
-      <div className="city-list">
-        {cityList.map((city) => (
-          <CityListItem key={city.id} city={city} />
-        ))}
-      </div>
+      {country.cityGroups ? (
+        country.cityGroups.map((group) => (
+          <section key={group.title.en} className="city-group">
+            <p className="city-group-title">{group.title[lang]}</p>
+            <div className="city-list">
+              {group.cityIds
+                .map((id) => cityList.find((c) => c.id === id))
+                .filter((city) => city !== undefined)
+                .map((city) => (
+                  <CityListItem key={city.id} city={city} />
+                ))}
+            </div>
+          </section>
+        ))
+      ) : (
+        <div className="city-list">
+          {cityList.map((city) => (
+            <CityListItem key={city.id} city={city} />
+          ))}
+        </div>
+      )}
       <p className="phase-note">{t('phaseNote', lang)}</p>
     </div>
   )

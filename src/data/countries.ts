@@ -203,7 +203,12 @@ export const countries: Country[] = [
       background: '#E8F5EE',
       text: '#0A2A18',
     },
-    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples', 'bologna', 'verona', 'turin', 'amalfi', 'siena', 'genoa', 'palermo', 'pisa', 'san-gimignano', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'portofino', 'cinque-terre', 'modena', 'parma', 'ferrara', 'ravenna', 'lucca', 'montepulciano', 'assisi', 'perugia', 'orvieto', 'urbino', 'pompeii', 'sorrento', 'positano', 'capri', 'matera', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'tropea', 'taormina', 'catania', 'siracusa', 'agrigento', 'cefalu', 'cagliari', 'alghero'],
+    cityIds: ['milan', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'turin', 'genoa', 'portofino', 'cinque-terre', 'venice', 'verona', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'bologna', 'modena', 'parma', 'ferrara', 'ravenna', 'rome', 'florence', 'pisa', 'lucca', 'siena', 'san-gimignano', 'montepulciano', 'perugia', 'assisi', 'orvieto', 'urbino', 'naples', 'pompeii', 'sorrento', 'positano', 'amalfi', 'capri', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'matera', 'tropea', 'palermo', 'cefalu', 'agrigento', 'siracusa', 'catania', 'taormina', 'cagliari', 'alghero'],
+    cityGroups: [
+      { title: { ko: '북부', en: 'Northern Italy' }, cityIds: ['milan', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'turin', 'genoa', 'portofino', 'cinque-terre', 'venice', 'verona', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'bologna', 'modena', 'parma', 'ferrara', 'ravenna'] },
+      { title: { ko: '중부', en: 'Central Italy' }, cityIds: ['rome', 'florence', 'pisa', 'lucca', 'siena', 'san-gimignano', 'montepulciano', 'perugia', 'assisi', 'orvieto', 'urbino'] },
+      { title: { ko: '남부', en: 'Southern Italy' }, cityIds: ['naples', 'pompeii', 'sorrento', 'positano', 'amalfi', 'capri', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'matera', 'tropea', 'palermo', 'cefalu', 'agrigento', 'siracusa', 'catania', 'taormina', 'cagliari', 'alghero'] },
+    ],
   },
   {
     id: 'va',

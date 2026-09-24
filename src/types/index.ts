@@ -76,6 +76,8 @@ export interface Country {
     text: string
   }
   cityIds: string[]
+  /** Optional regional grouping of cities (shown with headings on the country page, in this order). */
+  cityGroups?: { title: { ko: string; en: string }; cityIds: string[] }[]
 }
 
 export interface CityHighlight {

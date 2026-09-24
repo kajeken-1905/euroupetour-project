@@ -765,6 +765,22 @@ button.back-link {
   gap: 10px;
 }
 
+.city-group + .city-group {
+  margin-top: 18px;
+}
+
+.city-group-title {
+  margin: 0 0 8px;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: #14110f;
+}
+
+.theme-page .city-group-title {
+  color: var(--c-primary);
+}
+
 .city-item {
   display: block;
   position: relative;
