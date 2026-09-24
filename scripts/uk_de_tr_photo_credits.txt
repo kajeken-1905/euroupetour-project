@@ -123,3 +123,7 @@ highlights/edinburgh-2.jpg | image supplied by the site owner (Edinburgh.png) | 
 highlights/lyon-2.jpg | https://commons.wikimedia.org/wiki/File:Basilique_de_Fourvière_from_Saone_(Lyon).jpg | CC BY-SA 3.0 | MickaëlG
 highlights/chamonix-3.jpg | https://commons.wikimedia.org/wiki/File:Chamonix-Mont-Blanc_Centre_Village.jpg | CC BY-SA 4.0 | Zairon
 highlights/marseille-2.jpg | https://commons.wikimedia.org/wiki/File:Marseille_Basilique_Notre-Dame-de-la-Garde_Extérieure_Dôme_4.jpg | CC BY-SA 4.0 | Zairon
+
+# Brighton fixes (2026-09-24)
+cities/brighton.jpg | https://commons.wikimedia.org/wiki/File:Brighton_seafront,_west_of_Palace_Pier_-_geograph.org.uk_-_8313300.jpg | CC BY-SA 2.0 | David Martin <a href="//commons.wikimed
+highlights/brighton-4.jpg | https://commons.wikimedia.org/wiki/File:Brighton_Wheel_on_the_beach_of_Brighton_in_summer_2013_(11).JPG | CC BY-SA 3.0 | Chmee2
