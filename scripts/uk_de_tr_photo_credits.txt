@@ -127,3 +127,10 @@ highlights/marseille-2.jpg | https://commons.wikimedia.org/wiki/File:Marseille_B
 # Brighton fixes (2026-09-24)
 cities/brighton.jpg | https://commons.wikimedia.org/wiki/File:Brighton_seafront,_west_of_Palace_Pier_-_geograph.org.uk_-_8313300.jpg | CC BY-SA 2.0 | David Martin <a href="//commons.wikimed
 highlights/brighton-4.jpg | https://commons.wikimedia.org/wiki/File:Brighton_Wheel_on_the_beach_of_Brighton_in_summer_2013_(11).JPG | CC BY-SA 3.0 | Chmee2
+
+# Liverpool fixes (2026-09-24)
+cities/liverpool.jpg | https://commons.wikimedia.org/wiki/File:Liverpool’s_Three_Graces.jpg | CC BY-SA 2.0 | Colin Hepburn
+highlights/liverpool-2.jpg | https://commons.wikimedia.org/wiki/File:Entrance_to_The_Beatles_Story_-_Liverpool.jpg | CC BY-SA 3.0 | Lipinski
+highlights/liverpool-4.jpg | https://commons.wikimedia.org/wiki/File:MERSEYSIDE_MARITIME_MUSEUM_ALBERT_DOCK_LIVERPOOL_MAY_2013_(8720157490).jpg | CC BY-SA 2.0 | calflier001
+highlights/liverpool-5.jpg | https://commons.wikimedia.org/wiki/File:Leisure_Terrace,_Liverpool_ONE.jpg | CC BY 2.0 | yellow book
+highlights/liverpool-6.jpg | https://commons.wikimedia.org/wiki/File:Philharmonic_Hall_front_after_renovation.jpg | CC BY-SA 4.0 | Samwalton9
