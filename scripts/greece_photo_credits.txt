@@ -1,0 +1,45 @@
+# Greece expansion photo credits (Wikimedia Commons, CC/PD licensed)
+# public path | Commons file | license | author
+
+cities/meteora.jpg | https://commons.wikimedia.org/wiki/File:Μετεωρα_by_night.jpg | CC BY-SA 4.0 | Argiriskaramouzas
+highlights/meteora-1.jpg | https://commons.wikimedia.org/wiki/File:Great_Meteoron_Monastery_06.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/meteora-2.jpg | https://commons.wikimedia.org/wiki/File:1005_Courtyard_of_the_Monastery_of_Varlaam_in_Meteora_Photo_by_Giles_Laurent.jpg | CC BY-SA 4.0 | Giles Laurent
+highlights/meteora-3.jpg | https://commons.wikimedia.org/wiki/File:Roussanou_Monastery,_Meteora.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/meteora-4.jpg | https://commons.wikimedia.org/wiki/File:Monastery_of_the_Holy_Trinity,_Meteora_(2025-02).jpg | CC BY-SA 4.0 | Sadopaul
+highlights/meteora-5.jpg | https://commons.wikimedia.org/wiki/File:Roussanou_Monastery_among_the_snow-covered_rocks_of_Meteora,_Greece,_2009.jpg | CC BY-SA 4.0 | Josep M. Gracia
+cities/delphi.jpg | https://commons.wikimedia.org/wiki/File:Delphi_Temple_of_Apollo.jpg | CC BY-SA 4.0 | Skyring
+highlights/delphi-1.jpg | https://commons.wikimedia.org/wiki/File:Delphi_BW_2017-10-08_11-44-18.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/delphi-2.jpg | https://commons.wikimedia.org/wiki/File:Tholos_of_Delphi_03.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/delphi-3.jpg | https://commons.wikimedia.org/wiki/File:Ancient_Greek_theatre_of_Delphi_-_diazoma.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/delphi-4.jpg | https://commons.wikimedia.org/wiki/File:Delphi_Charioteer_15.JPG | CC0 | Karmakolle
+highlights/delphi-5.jpg | https://commons.wikimedia.org/wiki/File:Arachova,_Greece.jpg | CC BY-SA 2.0 | cgrand
+cities/sounion.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Poseidon_from_the_East,_June_2012.jpg | CC BY-SA 3.0 | Nikthestoned
+highlights/sounion-1.jpg | https://commons.wikimedia.org/wiki/File:Greece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/sounion-2.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Poseidon_at_sunset.jpg | CC BY-SA 4.0 | TMorata
+highlights/sounion-3.jpg | https://commons.wikimedia.org/wiki/File:Vouliagmenis_lake_2.JPG | CC0 | C messier
+highlights/sounion-4.jpg | https://commons.wikimedia.org/wiki/File:Vouliagmeni_beach.JPG | CC0 | C messier
+cities/zakynthos.jpg | https://commons.wikimedia.org/wiki/File:Zakynthos_44_(21513126478).jpg | CC BY 2.0 | Tony Hisgett from Birmingham, UK
+highlights/zakynthos-1.jpg | https://commons.wikimedia.org/wiki/File:Navagio,_Zante_02.jpg | CC BY-SA 4.0 | Wilnel José Verdú Guerrero
+highlights/zakynthos-2.jpg | https://commons.wikimedia.org/wiki/File:Blue_Caves_Zakynthos.jpg | CC BY 4.0 | Bouke ten Cate
+highlights/zakynthos-3.jpg | https://commons.wikimedia.org/wiki/File:Marathonisi,_Zakynthos,_Greece_09.jpg | CC BY 3.0 | Christaras A
+highlights/zakynthos-4.jpg | https://commons.wikimedia.org/wiki/File:The_port_which_can_be_found_in_Zakynthos_City.JPG | CC BY-SA 3.0 | OliwierEOB
+cities/olympia.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Ancient_Olympia_-_10.jpg | CC BY-SA 4.0 | Annatsach
+highlights/olympia-1.jpg | https://commons.wikimedia.org/wiki/File:Palaestra_at_Olympia_-_3.jpg | CC BY-SA 4.0 | Annatsach
+highlights/olympia-2.jpg | https://commons.wikimedia.org/wiki/File:Krypte_monumental_entrance_at_the_Stadium_in_Olympia,_Greece_(51222344712).jpg | CC BY 2.0 | dronepicr
+highlights/olympia-3.jpg | https://commons.wikimedia.org/wiki/File:Olympia_-_Temple_of_Hera_3.jpg | CC BY-SA 2.5 | Matěj Baťha
+highlights/olympia-4.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Zeus_in_Olympia_-_2.jpg | CC BY-SA 4.0 | Annatsach
+highlights/olympia-5.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_Museum_of_Olympia_by_Joy_of_Museums.jpg | CC BY-SA 4.0 | Joyofmuseums
+cities/chania.jpg | https://commons.wikimedia.org/wiki/File:Chania,_old_harbour_2019a.jpg | CC BY-SA 4.0 | Cayambe
+highlights/chania-1.jpg | https://commons.wikimedia.org/wiki/File:Chania_-_Venetian_harbor_1.jpg | CC BY-SA 3.0 de | Lapplaender
+highlights/chania-2.jpg | https://commons.wikimedia.org/wiki/File:Lighthouse_in_Chania._Crete,_Greece.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/chania-3.jpg | https://commons.wikimedia.org/wiki/File:BalosLagoonCreta.jpg | CC BY-SA 4.0 | Mwchalmers
+highlights/chania-4.jpg | https://commons.wikimedia.org/wiki/File:Παραλία_Ελαφονησίου_1261.jpg | CC BY-SA 4.0 | C messier
+highlights/chania-5.jpg | https://commons.wikimedia.org/wiki/File:Φαράγγι_Σαμαριάς_3754.jpg | CC BY-SA 4.0 | C messier
+cities/naxos.jpg | https://commons.wikimedia.org/wiki/File:Naxos_Νάξος_Chora_2020-08-20_34_Portara_Πορτάρα_Blues_Star_Ferry_Delos.jpg | CC BY-SA 4.0 | Manfred Werner (Tsui)
+highlights/naxos-1.jpg | https://commons.wikimedia.org/wiki/File:Naxos_Νάξος_Chora_2020-08-20_28_Portara_Πορτάρα.jpg | CC BY-SA 4.0 | Manfred Werner (Tsui)
+highlights/naxos-2.jpg | https://commons.wikimedia.org/wiki/File:Naxos_Νάξος_2020-08-20_14_Chora.jpg | CC BY-SA 4.0 | Manfred Werner (Tsui)
+highlights/naxos-3.jpg | https://commons.wikimedia.org/wiki/File:Agios_Prokopios_Beach_at_sunset,_Naxos,_Greece_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+highlights/naxos-4.jpg | https://commons.wikimedia.org/wiki/File:Χαλκί_1776.jpg | CC BY-SA 4.0 | C messier
+highlights/naxos-5.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Demeter,_Naxos,_Greece_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+highlights/nafplio-6.jpg | https://commons.wikimedia.org/wiki/File:Lion_Gate,_Hattusa_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/nafplio-7.jpg | https://commons.wikimedia.org/wiki/File:Theatre_of_Epidaurus_OLC.jpg | CC BY-SA 3.0 | Olecorre

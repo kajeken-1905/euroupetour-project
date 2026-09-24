@@ -854,11 +854,11 @@ export const countries: Country[] = [
       background: '#E8F0FA',
       text: '#0A1A30',
     },
-    cityIds: ['thessaloniki', 'corfu', 'athens', 'nafplio', 'mykonos', 'santorini', 'heraklion', 'rhodes'],
+    cityIds: ['thessaloniki', 'meteora', 'corfu', 'athens', 'sounion', 'delphi', 'zakynthos', 'nafplio', 'olympia', 'mykonos', 'naxos', 'santorini', 'heraklion', 'chania', 'rhodes'],
     cityGroups: [
-      { title: { ko: '북부', en: 'Northern Greece' }, cityIds: ['thessaloniki', 'corfu'] },
-      { title: { ko: '중부', en: 'Central Greece' }, cityIds: ['athens', 'nafplio'] },
-      { title: { ko: '남부', en: 'Southern Greece' }, cityIds: ['mykonos', 'santorini', 'heraklion', 'rhodes'] },
+      { title: { ko: '북부', en: 'Northern Greece' }, cityIds: ['thessaloniki', 'meteora', 'corfu'] },
+      { title: { ko: '중부', en: 'Central Greece' }, cityIds: ['athens', 'sounion', 'delphi', 'zakynthos'] },
+      { title: { ko: '남부', en: 'Southern Greece' }, cityIds: ['nafplio', 'olympia', 'mykonos', 'naxos', 'santorini', 'heraklion', 'chania', 'rhodes'] },
     ],
   },
   {

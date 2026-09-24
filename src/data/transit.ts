@@ -4054,6 +4054,69 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Neuschwanstein tickets are timed—book online in advance.',
     },
   },
+  meteora: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '아테네·테살로니키에서 기차로 칼람바카역까지. 수도원 사이는 버스·택시·투어나 도보 트레일로 다닙니다.',
+      en: 'Train to Kalambaka from Athens or Thessaloniki; bus, taxi, tour or trails between monasteries.',
+    },
+    apps: [
+    ],
+  },
+  delphi: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '아테네 리오시온 터미널에서 KTEL 버스로 약 2시간 30분. 유적은 마을에서 걸어갑니다.',
+      en: 'KTEL bus from Athens Liosion terminal (~2.5 hrs); walk from the village to the site.',
+    },
+    apps: [
+    ],
+  },
+  sounion: {
+    modes: ['bus', 'taxi'],
+    howTo: {
+      ko: '아테네 페디온 아레오스에서 KTEL 해안 버스로 약 1시간 30분. 일몰 투어도 많습니다.',
+      en: 'KTEL coastal bus from Pedion Areos in Athens (~1.5 hrs); many sunset tours.',
+    },
+    apps: [
+    ],
+  },
+  olympia: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '피르고스까지 버스 후 올림피아 지선 열차·버스로 갑니다. 유적은 마을에서 도보.',
+      en: 'Bus to Pyrgos, then the local train or bus to Olympia; the site is walkable from town.',
+    },
+    apps: [
+    ],
+  },
+  chania: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '하니아 공항·이라클리온에서 KTEL 버스. 발로스·엘라포니시는 버스·투어·렌터카로 갑니다.',
+      en: 'KTEL buses from Chania airport and Heraklion; bus, tour or car to Balos and Elafonissi.',
+    },
+    apps: [
+    ],
+  },
+  naxos: {
+    modes: ['ferry', 'bus', 'walk'],
+    howTo: {
+      ko: '아테네 피레우스·산토리니·미코노스에서 페리. 섬 안은 KTEL 버스나 렌터카.',
+      en: 'Ferries from Piraeus, Santorini and Mykonos; KTEL buses or a rental car on the island.',
+    },
+    apps: [
+    ],
+  },
+  zakynthos: {
+    modes: ['ferry', 'bus', 'taxi'],
+    howTo: {
+      ko: '킬리니항에서 페리 약 1시간, 또는 비행기. 나바요 해변은 보트 투어로 갑니다.',
+      en: '~1 hr ferry from Kyllini or fly in; boat tours to Navagio Beach.',
+    },
+    apps: [
+    ],
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],

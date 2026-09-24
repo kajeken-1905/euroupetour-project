@@ -90,4 +90,38 @@ export const placesGRExtra: Place[] = [
   place('nafplio-bakery-2', 'nafplio', 'bakery', 'Central Bakery Old Town', 4.5, 'Leof. Vasilisis Amalias 19, Nafplio 211 00', '아침식사와 페이스트리로 인기 있는 나프플리오 구시가의 베이커리 카페.', 'Old Town bakery-café in Nafplio popular for breakfast and pastries.'),
   place('nafplio-cafe-1', 'nafplio', 'cafe', 'Sokaki Cafe', 4.4, 'Plateia Syndagmatos 3, 211 00 Nafplio, Greece', '신타그마 광장에 위치한 나프플리오의 카페', 'Nafplio café on Constitution Square'),
   place('nafplio-cafe-2', 'nafplio', 'cafe', 'Coffee Style', 5.0, 'Bouboulinas 81 & Othonos, Nafplio 21100', '나프플리오의 인기 커피숍, 아침부터 자정까지 운영.', 'Popular coffee shop in Nafplio, open from morning until midnight.'),
+
+  // —— meteora ——
+  place('meteora-fine_dining-1', 'meteora', 'fine_dining', 'Meteora Restaurant (Gkertsou)', 4.6, 'Kalambaka, Greece', '1925년부터 가족이 운영, 할머니 레시피의 무사카·가지 사가나키.', 'Family-run since 1925; grandmother\'s moussaka and eggplant saganaki.'),
+  place('meteora-fine_dining-2', 'meteora', 'fine_dining', 'Taverna Xarama', 4.6, 'Kastraki, Greece', '1982년부터 바위 아래에서 양고기 구이를 내는 가족 타베르나.', 'Family taverna under the rocks since 1982, known for grilled lamb.'),
+  place('meteora-fine_dining-3', 'meteora', 'fine_dining', 'Taverna Gardenia', 4.5, 'Kastraki, Greece', '카스트라키 중심가의 가정식 그리스 타베르나.', 'Home-style Greek taverna on Kastraki\'s main street.'),
+  place('meteora-fine_dining-4', 'meteora', 'fine_dining', 'Panellinio', 4.4, 'Central Square, Kalambaka, Greece', '칼람바카 중앙 광장의 그리스 가정식 식당.', 'Greek classics on Kalambaka\'s central square.'),
+
+  // —— delphi ——
+  place('delphi-fine_dining-1', 'delphi', 'fine_dining', 'Epikouros', 4.5, '33 V. Pavlou & Friderikis, Delphi 330 54', '델포이 계곡과 올리브 숲이 보이는 타베르나.', 'Taverna with views over the Delphi gorge and olive groves.'),
+  place('delphi-fine_dining-2', 'delphi', 'fine_dining', 'Taverna Vakhos', 4.6, 'Delphi, Greece', '계곡 전망 테라스의 가족 운영 타베르나.', 'Family-run taverna with a valley-view terrace.'),
+
+  // —— sounion ——
+  place('sounion-fine_dining-1', 'sounion', 'fine_dining', 'Elias Fish Restaurant', 4.3, 'Sounio, Greece', '포세이돈 신전에서 가장 가까운 바다 전망 해산물 식당.', 'Sea-view seafood taverna closest to the temple.'),
+  place('sounion-fine_dining-2', 'sounion', 'fine_dining', 'Theodoros & Eleni', 4.5, 'Legrena, Greece', '신선한 해산물로 유명한 레그레나의 타베르나.', 'Legrena taverna known for fresh seafood.'),
+  place('sounion-fine_dining-3', 'sounion', 'fine_dining', 'Taverna Syrtaki', 4.4, 'Sounio, Greece', '카바치 해변 옆 도로변의 타베르나.', 'Roadside taverna by Kavatsi beach.'),
+
+  // —— olympia ——
+  place('olympia-fine_dining-1', 'olympia', 'fine_dining', 'Taverna Bacchus', 4.6, 'Miraka, Ancient Olympia, Greece', '들판 속 가족 운영 타베르나 겸 여관.', 'Family-run taverna and inn among the fields.'),
+  place('olympia-fine_dining-2', 'olympia', 'fine_dining', 'Aegean Restaurant', 4.4, 'Ancient Olympia, Greece', '지역 식재료로 채식 메뉴가 다양한 광장의 식당.', 'Main-square restaurant with many vegetarian dishes from local produce.'),
+  place('olympia-fine_dining-3', 'olympia', 'fine_dining', 'Taverna Orestis', 4.6, 'Ancient Olympia, Greece', '유적지에서 걸어갈 수 있는 현지 분위기 타베르나.', 'Local-feeling taverna a short walk from the site.'),
+
+  // —— chania ——
+  place('chania-fine_dining-1', 'chania', 'fine_dining', 'Tamam', 4.5, 'Zampeliou 49, Chania 731 31', '옛 오스만 목욕탕을 개조한 크레타·지중해 요리 식당.', 'Cretan-Mediterranean cooking in a former Ottoman bathhouse.'),
+  place('chania-fine_dining-2', 'chania', 'fine_dining', 'Chrisostomos', 4.6, 'Chania, Greece', '스파키아 향토 요리와 장작 화덕 요리의 크레타 전통 식당.', 'Traditional Cretan food from Sfakia, much of it wood-fired.'),
+  place('chania-bakery-1', 'chania', 'bakery', 'Bougatsa Iordanis', 4.7, 'Apokoronou 24, Chania 731 34', '1924년 개업, 하니아에서 가장 오래된 부가차 가게.', 'Chania\'s oldest bougatsa shop, since 1924.'),
+
+  // —— naxos ——
+  place('naxos-fine_dining-1', 'naxos', 'fine_dining', 'Scirocco', 4.6, 'Protodikiou Square, Naxos Town', '20년 가까이 이어온 가족 운영 그리스 타베르나.', 'Family-run Greek taverna going for nearly 20 years.'),
+  place('naxos-fine_dining-2', 'naxos', 'fine_dining', 'Taverna Axiotissa', 4.7, 'Kastraki, Naxos, Greece', '유기농 재료로 창작 요리를 내는 인기 타베르나.', 'Popular taverna of creative dishes from organic produce.'),
+
+  // —— zakynthos ——
+  place('zakynthos-fine_dining-1', 'zakynthos', 'fine_dining', 'Spartakos Tavern', 4.5, 'Zakynthos Town, Greece', '자킨토스 타운의 저녁 식사 명소 타베르나.', 'Top dinner taverna in Zakynthos Town.'),
+  place('zakynthos-fine_dining-2', 'zakynthos', 'fine_dining', 'Porto Limnionas Tavern', 4.4, 'Porto Limnionas, Zakynthos', '만의 절경을 내려다보는 절벽 위 타베르나.', 'Clifftop taverna overlooking a turquoise cove.'),
+  place('zakynthos-fine_dining-3', 'zakynthos', 'fine_dining', 'Taverna Apelati', 4.6, 'Kampi, Zakynthos, Greece', '직접 기른 채소로 요리하는 산속 농장 타베르나.', 'Mountain farm taverna cooking its own produce.'),
 ]
