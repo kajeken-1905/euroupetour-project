@@ -1,0 +1,114 @@
+# UK expansion + Füssen + Istanbul Hagia Sophia photo credits (Wikimedia Commons, CC/PD licensed)
+# public path | Commons file | license | author
+
+cities/belfast.jpg | https://commons.wikimedia.org/wiki/File:Belfast_City_Hall_2.jpg | CC BY 2.0 | Macnolete
+cities/canterbury.jpg | https://commons.wikimedia.org/wiki/File:River_Stour_in_Canterbury,_England_-_May_08.jpg | CC BY-SA 3.0 | Diliff
+cities/cardiff.jpg | https://commons.wikimedia.org/wiki/File:Cardiff_city_centre_(19613107789).jpg | CC BY 2.0 | Jeremy Segrott from Cardiff, Wales, UK
+cities/conwy.jpg | https://commons.wikimedia.org/wiki/File:Conwy_Castle_MMB_07.jpg | CC BY-SA 3.0 | mattbuck (<a href="//commons.wikimedia.org/wiki/Category:Images_taken_by_mattbuck" title="Category:Images t
+cities/cotswolds.jpg | https://commons.wikimedia.org/wiki/File:Broadway-02.jpg | CC BY-SA 3.0 | Mrfinch
+cities/derry.jpg | https://commons.wikimedia.org/wiki/File:Derry_City_Walls,_Derry_-_Londonderry_-_geograph.org.uk_-_5845101.jpg | CC BY-SA 2.0 | Kenneth  Allen <a href="//commons.wikime
+cities/giants-causeway.jpg | https://commons.wikimedia.org/wiki/File:Giant’s_Causeway_Shore_06.jpg | CC BY-SA 4.0 | XaetaRhythm
+cities/glasgow.jpg | https://commons.wikimedia.org/wiki/File:Glasgow_City_Chambers_Exterior.jpg | CC0 | Michael D Beckwith
+cities/inverness.jpg | https://commons.wikimedia.org/wiki/File:Inverness_Greig_Street_Bridge_20211025.jpg | CC BY-SA 3.0 | Daniel Kraft
+cities/isle-of-skye.jpg | https://commons.wikimedia.org/wiki/File:Quiraing_Isle_of_Skye_Pano.jpg | CC BY-SA 3.0 | Stefan Krause, Germany
+cities/lake-district.jpg | https://commons.wikimedia.org/wiki/File:Windermere_lake_in_Lake_District_03.jpg | CC BY-SA 4.0 | DariusLT
+cities/salisbury.jpg | https://commons.wikimedia.org/wiki/File:View_south_across_Market_Place,_Salisbury_-_geograph.org.uk_-_5866270.jpg | CC BY-SA 2.0 | Brian Robert Marshall <a href="//commons
+cities/snowdonia.jpg | https://commons.wikimedia.org/wiki/File:Beauty_of_Eryri_-_Flickr_-_Petersrockypics_(1).jpg | CC BY-SA 2.0 | Petersrockypics
+cities/st-andrews.jpg | https://commons.wikimedia.org/wiki/File:St_Andrews_Harbour_-_geograph.org.uk_-_4857213.jpg | CC BY-SA 2.0 | frank smith <a href="//commons.wikimedi
+cities/st-ives.jpg | https://commons.wikimedia.org/wiki/File:St_Ives_habour_July_2026_01.jpg | CC BY-SA 4.0 | ArildV
+cities/stirling.jpg | https://commons.wikimedia.org/wiki/File:Stirling_Castle_Royal_Palace.jpg | CC BY-SA 4.0 | DeFacto
+cities/stratford-upon-avon.jpg | https://commons.wikimedia.org/wiki/File:Tudor_House_Stratford_(5664646469).jpg | CC BY 2.0 | Tony Hisgett from Birmingham, UK
+cities/tenby.jpg | https://commons.wikimedia.org/wiki/File:Tenby_Harbour,_Tenby,_Pembrokeshire_-_geograph.org.uk_-_4324682.jpg | CC BY-SA 2.0 | Ian S <a href="//commons.wikimedia.org/
+cities/windsor.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Castle_-_geograph.org.uk_-_3972293.jpg | CC BY-SA 2.0 | Peter S <a href="//commons.wikimedia.or
+highlights/belfast-1.jpg | https://commons.wikimedia.org/wiki/File:Titanic_Signature_Building,_Belfast_20180427.jpg | CC BY-SA 4.0 | Suicasmo
+highlights/belfast-2.jpg | https://commons.wikimedia.org/wiki/File:Belfast_City_Hall_007.jpg | CC BY-SA 4.0 | Simon Burchell
+highlights/belfast-3.jpg | https://commons.wikimedia.org/wiki/File:The_Alexandra_Park_peace_wall,_Belfast_-_panoramio_(1).jpg | CC BY 3.0 | Keith Ruffles
+highlights/belfast-4.jpg | https://commons.wikimedia.org/wiki/File:St_Georges_Market,_Belfast,_July_2010_(02).JPG | CC BY-SA 3.0 | Ardfern
+highlights/canterbury-1.jpg | https://commons.wikimedia.org/wiki/File:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg | CC BY-SA 4.0 | Hans Musil
+highlights/canterbury-2.jpg | https://commons.wikimedia.org/wiki/File:A_channel_of_the_River_Great_Stour,_seen_from_King's_Bridge,_Canterbury_-_geograph.org.uk_-_7204678.jpg | CC BY-SA 2.0 | Ruth Sharville <a href="//commons.wikim
+highlights/canterbury-3.jpg | https://commons.wikimedia.org/wiki/File:Westgate_Towers,_Canterbury_-_geograph.org.uk_-_4804969.jpg | CC BY-SA 2.0 | Julian Paren <a href="//commons.wikimedi
+highlights/canterbury-4.jpg | https://commons.wikimedia.org/wiki/File:St_Augustine's_Abbey,_Canterbury_2024-12-29.jpg | CC0 | Andy Li
+highlights/cardiff-1.jpg | https://commons.wikimedia.org/wiki/File:Cardiff_Castle_keep_with_Christmas_trees.jpg | CC BY-SA 4.0 | Dominic Nelson
+highlights/cardiff-2.jpg | https://commons.wikimedia.org/wiki/File:Wales_Millennium_Centre,_Cardiff_Bay.jpg | CC BY-SA 4.0 | The wub
+highlights/cardiff-3.jpg | https://commons.wikimedia.org/wiki/File:Millennium_Stadium_support_stanchion.jpg | CC BY-SA 3.0 | mattbuck (<a href="//commons.wikimedia.org/wiki/Category:Images_taken_by_mattbuck" title="Category:Images t
+highlights/cardiff-4.jpg | https://commons.wikimedia.org/wiki/File:Castell_Coch_2018.jpg | CC BY-SA 4.0 | DeFacto
+highlights/cardiff-5.jpg | https://commons.wikimedia.org/wiki/File:St_Fagans_Museum_Main_Building_2018.jpg | CC BY-SA 4.0 | Sionk
+highlights/conwy-1.jpg | https://commons.wikimedia.org/wiki/File:Conwy_Castle_(7989).jpg | CC BY-SA 4.0 | Nilfanion
+highlights/conwy-2.jpg | https://commons.wikimedia.org/wiki/File:Conwy_Town_Walls_-_geograph.org.uk_-_1723348.jpg | CC BY-SA 2.0 | David Dixon
+highlights/conwy-3.jpg | https://commons.wikimedia.org/wiki/File:The_Smallest_House_in_Great_Britain,_Conwy_-_geograph.org.uk_-_3832391.jpg | CC BY-SA 2.0 | Ian S <a href="//commons.wikimedia.org/
+highlights/conwy-4.jpg | https://commons.wikimedia.org/wiki/File:Plas_Mawr,_Conwy_-_geograph.org.uk_-_3075503.jpg | CC BY-SA 2.0 | Richard Hoare <a href="//commons.wikime
+highlights/cotswolds-1.jpg | https://commons.wikimedia.org/wiki/File:Bridge-over_Bourton_Waters.jpg | CC BY-SA 3.0 | Saffron Blaze
+highlights/cotswolds-2.jpg | https://commons.wikimedia.org/wiki/File:Arlington_Row_Bibury.jpg | CC BY-SA 3.0 | Saffron Blaze
+highlights/cotswolds-3.jpg | https://commons.wikimedia.org/wiki/File:Castle_combe_river.jpg | CC BY-SA 3.0 | Saffron Blaze
+highlights/cotswolds-4.jpg | https://commons.wikimedia.org/wiki/File:Stow-on-the-Wold.JPG | Public domain | Charlesdrakew
+highlights/cotswolds-5.jpg | https://commons.wikimedia.org/wiki/File:Broadway_tower_edit.jpg | CC BY 2.5 | The author is Newton2 (cropped by <a href="//commons.wikimedia.org/wiki/User:Yummifruitbat" title="User:Yu
+highlights/derry-1.jpg | https://commons.wikimedia.org/wiki/File:Derry_City_Walls_-_geograph.org.uk_-_7115676.jpg | CC BY-SA 2.0 | N Chadwick <a href="//commons.wikimedia.
+highlights/derry-2.jpg | https://commons.wikimedia.org/wiki/File:Peace_Bridge,_Derry_-_Londonderry_-_geograph.org.uk_-_6162073.jpg | CC BY-SA 2.0 | Kenneth  Allen <a href="//commons.wikime
+highlights/derry-3.jpg | https://commons.wikimedia.org/wiki/File:Guildhall,Derry.jpg | CC BY-SA 4.0 | Udit Kapoor
+highlights/derry-4.jpg | https://commons.wikimedia.org/wiki/File:Bogside_mural,_Derry_-_Londonderry_-_geograph.org.uk_-_6161642.jpg | CC BY-SA 2.0 | Kenneth  Allen <a href="//commons.wikime
+highlights/giants-causeway-1.jpg | https://commons.wikimedia.org/wiki/File:Giant's_Causeway_(14).JPG | CC BY 3.0 | Chmee2
+highlights/giants-causeway-2.jpg | https://commons.wikimedia.org/wiki/File:Carrick-a-Rede_Rope_bridge-20120829.jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/giants-causeway-3.jpg | https://commons.wikimedia.org/wiki/File:Dunluce_Castle_Northern_Ireland_1.jpg | CC BY-SA 4.0 | Iain Irwin
+highlights/giants-causeway-4.jpg | https://commons.wikimedia.org/wiki/File:Dark_Hedges_near_Armoy,_Co_Antrim_(cropped).jpg | CC BY-SA 2.0 | Colin Park
+highlights/giants-causeway-5.jpg | https://commons.wikimedia.org/wiki/File:Old_Bushmills_Distillery_-_geograph.org.uk_-_1748888.jpg | CC BY-SA 2.0 | Dr Neil Clifton
+highlights/glasgow-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_Of_St_Mungo.jpg | CC BY-SA 4.0 | TomZoy
+highlights/glasgow-2.jpg | https://commons.wikimedia.org/wiki/File:Kelvingrove_Art_Gallery_and_Museum_1.jpg | CC BY 2.0 | Zhi Yong Lee from Glasgow, UK
+highlights/glasgow-3.jpg | https://commons.wikimedia.org/wiki/File:Wfm_glasgow_necropolis.jpg | CC BY-SA 3.0 | No machine-readable author provided. Finlay McWalter assumed (based on copyright claims).
+highlights/glasgow-4.jpg | https://commons.wikimedia.org/wiki/File:Riverside_Museum_Glasgow_EC2018.jpg | CC BY-SA 4.0 | Cutkiller2018
+highlights/glasgow-5.jpg | https://commons.wikimedia.org/wiki/File:Statue_Of_James_Watt.jpg | CC BY-SA 4.0 | TomZoy
+highlights/inverness-1.jpg | https://commons.wikimedia.org/wiki/File:The_Loch_Ness_and_Urquhart_castle.jpg | CC BY 3.0 | Eusebius
+highlights/inverness-2.jpg | https://commons.wikimedia.org/wiki/File:Urquhart_Castle_distance_2.jpg | CC BY-SA 3.0 | Wknight94
+highlights/inverness-3.jpg | https://commons.wikimedia.org/wiki/File:Battle_of_Culloden_battlefield_2009-10.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net)
+highlights/inverness-4.jpg | https://commons.wikimedia.org/wiki/File:Inverness_Castle,_Scotland_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/inverness-5.jpg | https://commons.wikimedia.org/wiki/File:River_Ness_at_Ness_Islands_Inverness_Scotland_(5697310416).jpg | CC BY 2.0 | Dave Conner from Inverness, Scotland
+highlights/isle-of-skye-1.jpg | https://commons.wikimedia.org/wiki/File:Old_Man_of_Storr_-_geograph.org.uk_-_2391779.jpg | CC BY-SA 2.0 | John Allan <a href="//commons.wikimedia.
+highlights/isle-of-skye-2.jpg | https://commons.wikimedia.org/wiki/File:The_Fairy_Pools._Skye._-_Flickr_-_gailhampshire.jpg | CC BY 2.0 | gailhampshire from Cradley, Malvern, U.K
+highlights/isle-of-skye-3.jpg | https://commons.wikimedia.org/wiki/File:Quiraing,_Isle_of_Skye,_Scotland_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/isle-of-skye-4.jpg | https://commons.wikimedia.org/wiki/File:Portree_harbour_front_2016.jpg | CC BY-SA 4.0 | DeFacto
+highlights/isle-of-skye-5.jpg | https://commons.wikimedia.org/wiki/File:Neist_Point_Lighthouse_20140624_182526_P1110708.jpg | CC BY-SA 3.0 | Lionel Ulmer
+highlights/lake-district-1.jpg | https://commons.wikimedia.org/wiki/File:Lake_Windermere_MMB_A3_Bowness-on-Windermere.jpg | CC BY-SA 3.0 | mattbuck (<a href="//commons.wikimedia.org/wiki/Category:Images_taken_by_mattbuck" title="Category:Images t
+highlights/lake-district-2.jpg | https://commons.wikimedia.org/wiki/File:Grasmere_2,_Cumbria_-_June_2009.jpg | CC BY-SA 3.0 | User:Diliff
+highlights/lake-district-3.jpg | https://commons.wikimedia.org/wiki/File:Hill_Top,_Beatrix_Potter's_farm.jpg | CC0 | KenSwe72
+highlights/lake-district-4.jpg | https://commons.wikimedia.org/wiki/File:Castlerigg_Stone_Circle_with_Latrigg_behind.jpg | CC BY-SA 4.0 | Dominic Nelson
+highlights/lake-district-5.jpg | https://commons.wikimedia.org/wiki/File:The_Western_Belle_on_Ullswater.jpg | CC BY-SA 4.0 | DeFacto
+highlights/salisbury-1.jpg | https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_09.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/salisbury-2.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Salisbury,_Salisbury,_Inglaterra,_2014-08-12,_DD_03.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/salisbury-3.jpg | https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Old_Sarum_site,_on_departure_from_Old_Sarum_airfield.jpg | CC BY-SA 4.0 | MARKEDWARDS
+highlights/salisbury-4.jpg | https://commons.wikimedia.org/wiki/File:Avebury_Stone_Circles.jpg | CC BY 3.0 | Rxfelix
+highlights/snowdonia-1.jpg | https://commons.wikimedia.org/wiki/File:Yr_Wyddfa_towards_Llyn_Llydaw_Crib_Goch_2019_01.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/snowdonia-2.jpg | https://commons.wikimedia.org/wiki/File:Clogwyn_Station_with_steam_train.jpg | CC BY 2.0 | Denis Egan
+highlights/snowdonia-3.jpg | https://commons.wikimedia.org/wiki/File:Betws-y-Coed_-_geograph.org.uk_-_1917328.jpg | CC BY-SA 2.0 | Ian Greig <a href="//commons.wikimedia.o
+highlights/snowdonia-4.jpg | https://commons.wikimedia.org/wiki/File:Swallow_Falls,_Betws-y-Coed_-_geograph.org.uk_-_2409196.jpg | CC BY-SA 2.0 | Peter S <a href="//commons.wikimedia.or
+highlights/snowdonia-5.jpg | https://commons.wikimedia.org/wiki/File:Portmerion_Hotel_-_view_from_NE.jpg | CC BY-SA 4.0 | Tom Parnell
+highlights/st-andrews-1.jpg | https://commons.wikimedia.org/wiki/File:R&A_Clubhouse,_Old_Course,_Swilcan_Burn_bridge.jpg | CC BY-SA 3.0 | Optograph
+highlights/st-andrews-2.jpg | https://commons.wikimedia.org/wiki/File:St_Andrews_Cathedral_Ruins_-_geograph.org.uk_-_2927130.jpg | CC BY-SA 2.0 | Colin Smith <a href="//commons.wikimedia
+highlights/st-andrews-3.jpg | https://commons.wikimedia.org/wiki/File:West_Sands,_St_Andrews_-_geograph.org.uk_-_4120776.jpg | CC BY-SA 2.0 | Mike Pennington <a href="//commons.wikim
+highlights/st-andrews-4.jpg | https://commons.wikimedia.org/wiki/File:General_view_of_castle_from_SE.jpg | CC BY-SA 4.0 | Tom Parnell
+highlights/st-ives-1.jpg | https://commons.wikimedia.org/wiki/File:St_Ives_Habour_July_2026_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/st-ives-2.jpg | https://commons.wikimedia.org/wiki/File:St_Ives,_Tate_St_Ives_-_geograph.org.uk_-_4384536.jpg | CC BY-SA 2.0 | Jonathan Hutchins <a href="//commons.wi
+highlights/st-ives-3.jpg | https://commons.wikimedia.org/wiki/File:Porthminster_Beach_2026_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/st-ives-4.jpg | https://commons.wikimedia.org/wiki/File:St_Michael's_Mount_July_2026_07.jpg | CC BY-SA 4.0 | ArildV
+highlights/st-ives-5.jpg | https://commons.wikimedia.org/wiki/File:Cliffs_at_Land's_End_-_geograph.org.uk_-_6204079.jpg | CC BY-SA 2.0 | G Laird <a href="//commons.wikimedia.or
+highlights/stirling-1.jpg | https://commons.wikimedia.org/wiki/File:Stirling_Castle_2017.jpg | CC BY-SA 4.0 | DeFacto
+highlights/stirling-2.jpg | https://commons.wikimedia.org/wiki/File:Wallace_monument.jpg | CC BY 3.0 | Eusebius
+highlights/stirling-3.jpg | https://commons.wikimedia.org/wiki/File:Stirling_old_bridge.jpg | CC BY-SA 4.0 | Ellievking1
+highlights/stirling-4.jpg | https://commons.wikimedia.org/wiki/File:The_Kelpies_at_The_Helix_in_Falkirk,_Scotland,_June_2014.jpg | CC BY 2.0 | Steven Straiton
+highlights/stratford-upon-avon-1.jpg | https://commons.wikimedia.org/wiki/File:Shakespeare's_Birthplace.jpg | CC BY-SA 2.0 | Stuart Yeates [1]
+highlights/stratford-upon-avon-2.jpg | https://commons.wikimedia.org/wiki/File:Anne_Hathaway's_Cottage_-_geograph.org.uk_-_7549242.jpg | CC BY-SA 2.0 | Philip Halling <a href="//commons.wikime
+highlights/stratford-upon-avon-3.jpg | https://commons.wikimedia.org/wiki/File:Royal_Shakespeare_Theatre_south.jpg | CC BY-SA 4.0 | DeFacto
+highlights/stratford-upon-avon-4.jpg | https://commons.wikimedia.org/wiki/File:Holy_Trinity_Church,_Stratford-upon-Avon.jpg | CC BY-SA 4.0 | DeFacto
+highlights/tenby-1.jpg | https://commons.wikimedia.org/wiki/File:Tenby_Harbour_sunset-ish.jpg | CC BY 4.0 | Mac Edmunds
+highlights/tenby-2.jpg | https://commons.wikimedia.org/wiki/File:Tenby_,_North_Beach_-_geograph.org.uk_-_3901930.jpg | CC BY-SA 2.0 | Lewis Clarke <a href="//commons.wikimed
+highlights/tenby-3.jpg | https://commons.wikimedia.org/wiki/File:Cliffs_on_Caldey_Island_(6552).jpg | CC BY-SA 4.0 | Nilfanion
+highlights/tenby-4.jpg | https://commons.wikimedia.org/wiki/File:Five_Arches_on_St_George's_Street,_Tenby_-_geograph.org.uk_-_4326731.jpg | CC BY-SA 2.0 | Ian S <a href="//commons.wikimedia.org/
+highlights/windsor-1.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg | CC BY 3.0 | Diliff
+highlights/windsor-2.jpg | https://commons.wikimedia.org/wiki/File:St._Georges_Chapel,_Windsor_Castle_(2).jpg | CC BY-SA 2.0 | Aurelien Guichard from London, United Kingdom (changes by <a href="//commons.wikimedia.org/wiki/User:Raban
+highlights/windsor-3.jpg | https://commons.wikimedia.org/wiki/File:The_Long_Walk_to_Windsor_Castle_-_geograph.org.uk_-_5606153.jpg | CC BY-SA 2.0 | Len Williams <a href="//commons.wikimed
+highlights/windsor-4.jpg | https://commons.wikimedia.org/wiki/File:MK17792_Eton_College_Chapel.jpg | CC BY-SA 3.0 | Martin Kraft
+cities/fussen.jpg | https://commons.wikimedia.org/wiki/File:Füssen_-_Altstadt.JPG | CC BY-SA 4.0 | C.Stadler/Bwag (talk / <a href="//commons
+highlights/fussen-1.jpg | https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg | CC0 | Wilfredor
+highlights/fussen-2.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Hohenschwangau_2021.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-
+highlights/fussen-3.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Neuschwanstein_desde_Marienbrücke,_Füssen,_Alemania,_2012-10-06,_DD_07.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/fussen-4.jpg | https://commons.wikimedia.org/wiki/File:Alpsee_Neuschwanstein.jpg | CC BY-SA 4.0 | Dmytro Balkhovitin
+highlights/fussen-5.jpg | https://commons.wikimedia.org/wiki/File:Fuessen-JR-E-4537-2020-06-22.jpg | CC BY-SA 3.0 de | Johannes Robalotoff
+highlights/istanbul-1.jpg | https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg | CC BY-SA 3.0 | Arild Vågen

@@ -3851,6 +3851,209 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  canterbury: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '런던 세인트판크라스에서 고속열차로 약 1시간. 구시가는 도보로 충분합니다.',
+      en: '~1 hr by high-speed train from London St Pancras; the old town is walkable.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  windsor: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '런던 워털루 또는 패딩턴(슬라우 환승)에서 기차로 약 1시간. 역에서 성까지 걸어갑니다.',
+      en: '~1 hr by train from London Waterloo or Paddington (change at Slough); walk from the station to the castle.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  salisbury: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '런던 워털루에서 기차로 약 1시간 30분. 스톤헨지는 역 앞 투어버스로 갑니다.',
+      en: '~1.5 hrs by train from London Waterloo; Stonehenge tour bus from the station.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  cotswolds: {
+    modes: ['train', 'bus', 'taxi'],
+    howTo: {
+      ko: '모턴인마시·킹엄역까지 기차, 마을 사이는 버스가 드물어 렌터카나 투어가 편합니다.',
+      en: 'Train to Moreton-in-Marsh or Kingham; buses between villages are sparse—car or tour is easiest.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'stratford-upon-avon': {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '버밍엄·런던 메릴본에서 기차로 연결. 시내는 걸어서 둘러봅니다.',
+      en: 'Trains from Birmingham and London Marylebone; the town is walkable.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'lake-district': {
+    modes: ['train', 'bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '옥슨홀름에서 윈더미어역까지 기차, 이후 555번 버스와 호수 유람선으로 다닙니다.',
+      en: 'Train via Oxenholme to Windermere, then the 555 bus and lake cruises.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'st-ives': {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '세인트어스에서 해안선 지선 기차로 약 15분(경치 좋은 노선). 구시가는 도보입니다.',
+      en: 'Scenic 15-min branch train from St Erth; the town is on foot.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  glasgow: {
+    modes: ['metro', 'train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '공항버스(500번)로 시내까지. 순환 지하철 \'서브웨이\'와 도보가 편합니다.',
+      en: 'Airport Express 500 bus to the center; the circular Subway and walking cover most sights.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  stirling: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '에든버러·글래스고에서 기차로 약 45분. 역에서 성까지 오르막 도보.',
+      en: '~45 min by train from Edinburgh or Glasgow; uphill walk to the castle.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'st-andrews': {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '에든버러에서 기차로 루카스역까지 간 뒤 버스로 약 10분.',
+      en: 'Train from Edinburgh to Leuchars, then ~10 min by bus.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  inverness: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '에든버러·글래스고에서 기차로 약 3시간 30분. 네스호는 버스나 투어로 갑니다.',
+      en: '~3.5 hrs by train from Edinburgh or Glasgow; bus or tour to Loch Ness.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'isle-of-skye': {
+    modes: ['bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '인버네스·포트윌리엄에서 시티링크 버스, 또는 말레이그에서 페리. 섬 안은 렌터카가 가장 편합니다.',
+      en: 'Citylink bus from Inverness or Fort William, or ferry from Mallaig; a car is best on the island.',
+    },
+    apps: [
+    ],
+  },
+  cardiff: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '런던 패딩턴에서 기차로 약 2시간. 카디프 베이는 버스나 기차로 갑니다.',
+      en: '~2 hrs by train from London Paddington; bus or train to Cardiff Bay.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  conwy: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '체스터·런던에서 북웨일스 해안선 기차로 연결. 마을은 성벽 안 도보입니다.',
+      en: 'North Wales coast line trains from Chester and London; the walled town is on foot.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  snowdonia: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '베투시코이드는 콘위 밸리선 기차로, 란베리스는 뱅거에서 버스로 갑니다. 스노든 셰르파 버스가 등산로를 잇습니다.',
+      en: 'Conwy Valley line to Betws-y-Coed; bus from Bangor to Llanberis; Snowdon Sherpa buses link trailheads.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  tenby: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '카디프·스완지에서 기차로 연결. 구시가와 해변은 도보로 다닙니다.',
+      en: 'Trains from Cardiff and Swansea; the old town and beaches are walkable.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  belfast: {
+    modes: ['bus', 'train', 'taxi', 'walk'],
+    howTo: {
+      ko: '공항에서 에어포트 익스프레스 버스로 시내까지. 시내는 글라이더 버스와 도보.',
+      en: 'Airport Express bus into the center; Glider buses and walking in town.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'giants-causeway': {
+    modes: ['bus', 'train', 'taxi'],
+    howTo: {
+      ko: '콜레인·포트러시까지 기차 후 402번 코즈웨이 해안 버스. 투어버스가 가장 편합니다.',
+      en: 'Train to Coleraine or Portrush, then the 402 Causeway Rambler bus; tours are easiest.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  derry: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '벨파스트에서 기차로 약 2시간(해안 절경 노선). 성벽 안은 도보입니다.',
+      en: '~2 hrs by scenic train from Belfast; inside the walls on foot.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  fussen: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '뮌헨에서 지역열차로 약 2시간(바이에른 티켓 사용 가능). 역 앞에서 73·78번 버스로 호엔슈방가우 매표소까지 갑니다.',
+      en: 'Regional train from Munich (~2 hrs, Bayern-Ticket valid); buses 73/78 from the station to the Hohenschwangau ticket center.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+    tip: {
+      ko: '노이슈반슈타인 성 입장권은 시간 지정제라 미리 온라인 예약하세요.',
+      en: 'Neuschwanstein tickets are timed—book online in advance.',
+    },
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],

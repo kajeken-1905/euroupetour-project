@@ -92,10 +92,12 @@ export const countries: Country[] = [
       background: '#E8EEF7',
       text: '#0A1628',
     },
-    cityIds: ['london', 'oxford', 'cambridge', 'brighton', 'bath', 'bristol', 'manchester', 'liverpool', 'york', 'edinburgh'],
+    cityIds: ['london', 'windsor', 'canterbury', 'brighton', 'oxford', 'cotswolds', 'stratford-upon-avon', 'cambridge', 'bath', 'bristol', 'salisbury', 'st-ives', 'manchester', 'liverpool', 'york', 'lake-district', 'edinburgh', 'glasgow', 'stirling', 'st-andrews', 'inverness', 'isle-of-skye', 'cardiff', 'tenby', 'snowdonia', 'conwy', 'belfast', 'giants-causeway', 'derry'],
     cityGroups: [
-      { title: { ko: '잉글랜드', en: 'England' }, cityIds: ['london', 'oxford', 'cambridge', 'brighton', 'bath', 'bristol', 'manchester', 'liverpool', 'york'] },
-      { title: { ko: '스코틀랜드', en: 'Scotland' }, cityIds: ['edinburgh'] },
+      { title: { ko: '잉글랜드', en: 'England' }, cityIds: ['london', 'windsor', 'canterbury', 'brighton', 'oxford', 'cotswolds', 'stratford-upon-avon', 'cambridge', 'bath', 'bristol', 'salisbury', 'st-ives', 'manchester', 'liverpool', 'york', 'lake-district'] },
+      { title: { ko: '스코틀랜드', en: 'Scotland' }, cityIds: ['edinburgh', 'glasgow', 'stirling', 'st-andrews', 'inverness', 'isle-of-skye'] },
+      { title: { ko: '웨일스', en: 'Wales' }, cityIds: ['cardiff', 'tenby', 'snowdonia', 'conwy'] },
+      { title: { ko: '북아일랜드', en: 'Northern Ireland' }, cityIds: ['belfast', 'giants-causeway', 'derry'] },
     ],
   },
   {
@@ -304,11 +306,11 @@ export const countries: Country[] = [
       background: '#F5F5F5',
       text: '#1A1A1A',
     },
-    cityIds: ['hamburg', 'berlin', 'potsdam', 'cologne', 'frankfurt', 'leipzig', 'dresden', 'heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'munich'],
+    cityIds: ['hamburg', 'berlin', 'potsdam', 'cologne', 'frankfurt', 'leipzig', 'dresden', 'heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'munich', 'fussen'],
     cityGroups: [
       { title: { ko: '북부', en: 'Northern Germany' }, cityIds: ['hamburg', 'berlin', 'potsdam'] },
       { title: { ko: '중부', en: 'Central Germany' }, cityIds: ['cologne', 'frankfurt', 'leipzig', 'dresden'] },
-      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'munich'] },
+      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'munich', 'fussen'] },
     ],
   },
   {
@@ -497,7 +499,12 @@ export const countries: Country[] = [
       background: '#E8F5E8',
       text: '#0A2A0A',
     },
-    cityIds: ['lisbon', 'porto', 'sintra', 'faro', 'coimbra', 'funchal', 'lagos', 'cascais', 'aveiro', 'fatima', 'evora', 'obidos', 'braga', 'nazare', 'guimaraes'],
+    cityIds: ['porto', 'braga', 'guimaraes', 'aveiro', 'coimbra', 'fatima', 'nazare', 'obidos', 'lisbon', 'sintra', 'cascais', 'evora', 'lagos', 'faro', 'funchal'],
+    cityGroups: [
+      { title: { ko: '북부', en: 'Northern Portugal' }, cityIds: ['porto', 'braga', 'guimaraes', 'aveiro'] },
+      { title: { ko: '중부', en: 'Central Portugal' }, cityIds: ['coimbra', 'fatima', 'nazare', 'obidos', 'lisbon', 'sintra', 'cascais'] },
+      { title: { ko: '남부', en: 'Southern Portugal' }, cityIds: ['evora', 'lagos', 'faro', 'funchal'] },
+    ],
   },
   // —— 북유럽 ——
   {

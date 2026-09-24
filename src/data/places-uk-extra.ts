@@ -155,4 +155,99 @@ export const placesUKExtra: Place[] = [
   place('bristol-cafe-4', 'bristol', 'cafe', 'Friska', 4.3, 'Bristol', '헬시 카페.', 'Healthy café.', { reviewCount: 1400 }),
   place('bristol-cafe-5', 'bristol', 'cafe', 'Boston Tea Party Bristol', 4.3, 'Bristol', '브런치.', 'Brunch.', { reviewCount: 2100 }),
 
+  // —— canterbury ——
+  place('canterbury-fine_dining-1', 'canterbury', 'fine_dining', 'The Goods Shed', 4.5, 'Station Road West, Canterbury CT2 8AN', '매일 열리는 농산물 시장 위의 제철 요리 레스토랑.', 'Seasonal restaurant above a daily farmers\' market.'),
+  place('canterbury-bakery-1', 'canterbury', 'bakery', 'The Goods Shed Bakery', 4.5, 'Station Road West, Canterbury CT2 8AN', '굿즈 셰드 안에서 직접 굽는 빵과 페이스트리.', 'In-house breads and pastries at The Goods Shed.'),
+  place('canterbury-cafe-1', 'canterbury', 'cafe', 'The Refectory Kitchen', 4.6, 'Canterbury, UK', '세인트 던스턴의 인기 브런치 카페.', 'Popular St Dunstan\'s brunch café.'),
+  place('canterbury-cafe-2', 'canterbury', 'cafe', 'Cafe Chambers', 4.5, 'Canterbury, UK', '위층에서 대성당이 보이는 팬케이크 카페.', 'Pancake café with cathedral views from upstairs.'),
+
+  // —— windsor ——
+  place('windsor-fine_dining-1', 'windsor', 'fine_dining', 'The Boatman', 4.2, 'Windsor, UK', '윈저 성 아래 템스강변의 유일한 펍.', 'Windsor\'s only riverside pub, below the castle.'),
+  place('windsor-fine_dining-2', 'windsor', 'fine_dining', 'Meimo', 4.5, 'Windsor, UK', '성 근처의 모로코·지중해 레스토랑.', 'Moroccan-Mediterranean restaurant near the castle.'),
+  place('windsor-fine_dining-3', 'windsor', 'fine_dining', 'The Waterman\'s Arms', 4.3, 'Brocas Street, Eton, UK', '1542년 개업, 이튼 쪽 다리 건너의 펍.', 'Eton pub founded in 1542, just over the bridge.'),
+  place('windsor-bakery-1', 'windsor', 'bakery', 'Clarence Bakery', 4.5, 'Windsor, UK', '성에서 걸어서 5분, 크루아상과 소시지롤이 인기.', 'Five minutes from the castle; croissants and sausage rolls.'),
+
+  // —— salisbury ——
+  place('salisbury-fine_dining-1', 'salisbury', 'fine_dining', 'Haunch of Venison', 4.3, '1-5 Minster Street, Salisbury SP1 1TB', '솔즈베리에서 가장 오래된 여관 겸 펍, 사슴고기 요리.', 'Salisbury\'s oldest hostelry, known for venison dishes.'),
+  place('salisbury-cafe-1', 'salisbury', 'cafe', 'Salisbury Museum Café', 4.4, 'The Close, Salisbury, UK', '대성당 맞은편 박물관 카페, 크림 티.', 'Museum café opposite the cathedral, with cream teas.'),
+
+  // —— cotswolds ——
+  place('cotswolds-fine_dining-1', 'cotswolds', 'fine_dining', 'The Old New Inn', 4.3, 'Bourton-on-the-Water, UK', '텃밭 재료를 쓰는 버턴온더워터의 펍.', 'Bourton pub cooking with its own allotment produce.'),
+  place('cotswolds-fine_dining-2', 'cotswolds', 'fine_dining', 'The Porch House', 4.4, 'Stow-on-the-Wold, UK', '스토온더월드의 오래된 여관 펍.', 'Historic inn-pub in Stow-on-the-Wold.'),
+  place('cotswolds-bakery-1', 'cotswolds', 'bakery', 'The Bakery on the Water', 4.6, 'Bourton-on-the-Water, UK', '강가의 베이커리, 페이스트리와 스콘.', 'Riverside bakery for pastries and scones.'),
+  place('cotswolds-cafe-1', 'cotswolds', 'cafe', 'Bantam Tea Rooms', 4.5, 'Chipping Campden, UK', '300년 된 치핑캠든의 티룸.', '300-year-old tea room in Chipping Campden.'),
+
+  // —— stratford-upon-avon ——
+  place('stratford-upon-avon-fine_dining-1', 'stratford-upon-avon', 'fine_dining', 'The Opposition', 4.5, '13 Sheep Street, Stratford-upon-Avon CV37 6EF', '16세기 건물의 공연 전후 식사 명소 비스트로.', 'Pre- and post-theatre bistro in a 16th-century building.'),
+  place('stratford-upon-avon-bakery-1', 'stratford-upon-avon', 'bakery', 'Hobsons Patisseries', 4.4, 'Henley Street, Stratford-upon-Avon, UK', '셰익스피어 생가 근처의 파이·애프터눈 티.', 'Pies and afternoon tea near Shakespeare\'s Birthplace.'),
+  place('stratford-upon-avon-cafe-1', 'stratford-upon-avon', 'cafe', 'Fourteas Tea Room', 4.6, 'Sheep Street, Stratford-upon-Avon, UK', '1940년대 콘셉트의 빈티지 티룸.', '1940s-themed vintage tea room.'),
+
+  // —— lake-district ——
+  place('lake-district-fine_dining-1', 'lake-district', 'fine_dining', 'Forest Side', 4.7, 'Keswick Road, Grasmere, UK', '텃밭과 채집 재료로 요리하는 그래스미어의 레스토랑.', 'Grasmere restaurant cooking from its garden and foraging.'),
+  place('lake-district-fine_dining-2', 'lake-district', 'fine_dining', 'The Old Stamp House', 4.7, 'Ambleside, UK', '컴브리아 향토 요리를 내는 앰블사이드의 작은 레스토랑.', 'Small Ambleside restaurant championing Cumbrian dishes.'),
+  place('lake-district-bakery-1', 'lake-district', 'bakery', 'Grasmere Gingerbread Shop', 4.7, 'Grasmere, UK', '1854년 사라 넬슨이 만든 그래스미어 진저브레드의 원조.', 'Home of Sarah Nelson\'s Grasmere gingerbread since 1854.'),
+  place('lake-district-fine_dining-3', 'lake-district', 'fine_dining', 'Zeffirellis', 4.4, 'Ambleside, UK', '채식 이탈리안 레스토랑 겸 재즈 카페.', 'Vegetarian Italian restaurant and jazz café.'),
+
+  // —— st-ives ——
+  place('st-ives-fine_dining-1', 'st-ives', 'fine_dining', 'Porthminster Beach Café', 4.5, 'Porthminster Beach, St Ives TR26 2EB', '해변 위의 수상 경력 해산물 레스토랑.', 'Award-winning seafood restaurant right on the beach.'),
+  place('st-ives-fine_dining-2', 'st-ives', 'fine_dining', 'Porthminster Kitchen', 4.4, 'St Ives, UK', '항구가 내려다보이는 자매 레스토랑.', 'Sister restaurant overlooking the harbor.'),
+
+  // —— glasgow ——
+  place('glasgow-fine_dining-1', 'glasgow', 'fine_dining', 'Ubiquitous Chip', 4.4, '12 Ashton Lane, Glasgow G12 8SJ', '1971년부터 창의적인 스코틀랜드 요리를 내는 웨스트엔드 명소.', 'West End institution for inventive Scottish food since 1971.'),
+  place('glasgow-fine_dining-2', 'glasgow', 'fine_dining', 'Ox and Finch', 4.6, '920 Sauchiehall Street, Glasgow G3 7TF', '미쉐린 가이드에 오른 지중해풍 스몰 플레이트 비스트로.', 'Michelin-listed bistro of Mediterranean small plates.'),
+  place('glasgow-cafe-1', 'glasgow', 'cafe', 'Mackintosh at the Willow', 4.4, '215-217 Sauchiehall Street, Glasgow G2 3EX', '찰스 레니 매킨토시가 설계한 티룸의 애프터눈 티.', 'Afternoon tea in Charles Rennie Mackintosh\'s tea room.'),
+
+  // —— stirling ——
+  place('stirling-cafe-1', 'stirling', 'cafe', 'Darnley Coffee House', 4.7, '18 Bow Street, Stirling FK8 1BS', '성 아래 역사 건물의 수프·토스티 카페.', 'Soup-and-toastie café in a historic building below the castle.'),
+  place('stirling-fine_dining-1', 'stirling', 'fine_dining', 'Brea', 4.5, 'Stirling, UK', '성 근처의 스코틀랜드 가정식 카페 레스토랑.', 'Café-restaurant of Scottish home cooking near the castle.'),
+  place('stirling-cafe-2', 'stirling', 'cafe', 'Cowane\'s Hospital Coffee Shop', 4.4, 'Stirling, UK', '길드홀 안과 정원 테라스의 커피숍.', 'Coffee shop in the Guildhall and its garden terrace.'),
+
+  // —— st-andrews ——
+  place('st-andrews-fine_dining-1', 'st-andrews', 'fine_dining', 'The Seafood Ristorante', 4.3, 'The Scores, St Andrews KY16 9AB', '바다 위 유리 큐브 속 해산물 레스토랑.', 'Seafood restaurant in a glass cube over the bay.'),
+  place('st-andrews-bakery-1', 'st-andrews', 'bakery', 'Jannettas Gelateria', 4.5, '31 South Street, St Andrews KY16 9QR', '54가지 맛의 오래된 젤라테리아.', 'Long-running gelateria with 54 flavors.'),
+  place('st-andrews-cafe-1', 'st-andrews', 'cafe', 'Northpoint Cafe', 4.4, '24 North Street, St Andrews KY16 9AQ', '윌리엄 왕자 커플이 다녔다는 브런치 카페.', 'Brunch café known as a royal-couple haunt.'),
+
+  // —— inverness ——
+  place('inverness-fine_dining-1', 'inverness', 'fine_dining', 'Rocpool', 4.5, '1 Ness Walk, Inverness IV3 5NE', '인버네스 최고로 꼽히는 강변 레스토랑.', 'Riverside restaurant often ranked Inverness\'s best.'),
+  place('inverness-fine_dining-2', 'inverness', 'fine_dining', 'The Mustard Seed', 4.4, '16 Fraser Street, Inverness IV1 1DW', '옛 교회 건물의 강 전망 레스토랑.', 'River-view restaurant in a former church.'),
+  place('inverness-fine_dining-3', 'inverness', 'fine_dining', 'Café 1', 4.5, '75 Castle Street, Inverness IV2 3EA', '성 근처의 모던 스코틀랜드 비스트로.', 'Modern Scottish bistro near the castle.'),
+
+  // —— isle-of-skye ——
+  place('isle-of-skye-fine_dining-1', 'isle-of-skye', 'fine_dining', 'The Three Chimneys', 4.6, 'Colbost, Dunvegan, Isle of Skye IV55 8ZT', '100년 된 돌집의 스카이섬 대표 레스토랑.', 'Skye\'s celebrated restaurant in a century-old stone cottage.'),
+  place('isle-of-skye-fine_dining-2', 'isle-of-skye', 'fine_dining', 'Scorrybreac', 4.7, '7 Bosville Terrace, Portree IV51 9DG', '포트리 항구 위의 모던 스코틀랜드 요리.', 'Modern Scottish cooking above Portree harbour.'),
+  place('isle-of-skye-cafe-1', 'isle-of-skye', 'cafe', 'Cafe Arriba', 4.5, 'Quay Brae, Portree IV51 9DB', '항구가 보이는 포트리의 캐주얼 카페.', 'Casual Portree café overlooking the harbour.'),
+
+  // —— cardiff ——
+  place('cardiff-cafe-1', 'cardiff', 'cafe', 'Hard Lines', 4.6, 'Cardiff Market, St Mary Street, Cardiff', '카디프 마켓 안의 스페셜티 커피 로스터리 카페.', 'Specialty roaster\'s coffee bar in Cardiff Market.'),
+  place('cardiff-bakery-1', 'cardiff', 'bakery', 'Cardiff Bakestones', 4.7, 'Cardiff Market, St Mary Street, Cardiff', '전통 철판에서 굽는 웰시 케이크.', 'Welsh cakes cooked on a traditional bakestone.'),
+  place('cardiff-bakery-2', 'cardiff', 'bakery', 'Fabulous Welshcakes', 4.5, 'Cardiff, UK', '다양한 맛의 웰시 케이크 전문점.', 'Welsh cake shop with many flavors.'),
+
+  // —— conwy ——
+  place('conwy-fine_dining-1', 'conwy', 'fine_dining', 'Watson\'s Bistro', 4.6, 'Bishop\'s Yard, Chapel Street, Conwy LL32 8BP', '지역 식재료를 쓰는 가족 운영 비스트로.', 'Family-run bistro showcasing local produce.'),
+  place('conwy-fine_dining-2', 'conwy', 'fine_dining', 'The Erskine Arms', 4.4, 'Rosehill Street, Conwy LL32 8LD', '성 근처 조지 시대 여관의 펍 레스토랑.', 'Pub-restaurant in a Georgian coaching inn by the castle.'),
+  place('conwy-cafe-1', 'conwy', 'cafe', 'L\'s Coffee & Bookshop', 4.7, 'Conwy, UK', '책방을 겸한 콘위의 커피숍.', 'Coffee shop and bookshop in Conwy.'),
+
+  // —— snowdonia ——
+  place('snowdonia-cafe-1', 'snowdonia', 'cafe', 'Pete\'s Eats', 4.4, '40 High Street, Llanberis LL55 4EU', '등산가들의 전설적인 아지트였던 란베리스 식당.', 'Llanberis café-restaurant, a legendary climbers\' hangout.'),
+  place('snowdonia-fine_dining-1', 'snowdonia', 'fine_dining', 'Hangin\' Pizzeria', 4.6, 'Betws-y-Coed, UK', '베투시코이드의 캐주얼 피자 가게.', 'Laid-back pizza spot in Betws-y-Coed.'),
+  place('snowdonia-cafe-2', 'snowdonia', 'cafe', 'The Alpine Coffee Shop', 4.5, 'Station Approach, Betws-y-Coed, UK', '베투시코이드역 옆의 친환경 커피숍.', 'Eco-minded coffee shop by Betws-y-Coed station.'),
+
+  // —— tenby ——
+  place('tenby-fine_dining-1', 'tenby', 'fine_dining', 'Plantagenet House', 4.4, 'Quay Hill, Tenby SA70 7BX', '텐비에서 가장 오래된 건물 속 레스토랑.', 'Restaurant in Tenby\'s oldest building.'),
+  place('tenby-fine_dining-2', 'tenby', 'fine_dining', 'D. Fecci and Sons', 4.5, 'Lower Frog Street, Tenby, UK', '1935년부터 이어온 피시 앤 칩스.', 'Fish and chips since 1935.'),
+  place('tenby-bakery-1', 'tenby', 'bakery', 'The Original Fecci\'s Ice Cream Parlour', 4.5, 'Tenby, UK', '1919년부터 이어온 텐비의 아이스크림 가게.', 'Tenby\'s ice-cream institution since 1919.'),
+
+  // —— belfast ——
+  place('belfast-fine_dining-1', 'belfast', 'fine_dining', 'OX', 4.7, '1 Oxford Street, Belfast BT1 3LA', '미쉐린 스타를 받은 강변 레스토랑.', 'Michelin-starred riverside restaurant.'),
+  place('belfast-fine_dining-2', 'belfast', 'fine_dining', 'Deanes EIPIC', 4.6, '28-40 Howard Street, Belfast BT1 6PF', '마이클 딘 셰프의 미쉐린 스타 레스토랑.', 'Chef Michael Deane\'s Michelin-starred restaurant.'),
+  place('belfast-cafe-1', 'belfast', 'cafe', 'Established Coffee', 4.6, '54 Hill Street, Belfast BT1 2LB', '캐시드럴 쿼터의 스페셜티 커피숍.', 'Specialty coffee in the Cathedral Quarter.'),
+
+  // —— giants-causeway ——
+  place('giants-causeway-fine_dining-1', 'giants-causeway', 'fine_dining', 'The Bushmills Inn', 4.5, '9 Dunluce Road, Bushmills BT57 8QG', 'AA 로제트를 받은 오래된 여관 레스토랑.', 'AA Rosette-winning restaurant in an old coaching inn.'),
+  place('giants-causeway-fine_dining-2', 'giants-causeway', 'fine_dining', 'The French Rooms', 4.6, 'Bushmills, UK', '부시밀스의 프렌치풍 레스토랑.', 'French-inspired restaurant in Bushmills.'),
+  place('giants-causeway-fine_dining-3', 'giants-causeway', 'fine_dining', 'Tartine at the Distillers Arms', 4.5, '140 Main Street, Bushmills BT57 8QE', '옛 증류소를 개조한 레스토랑.', 'Restaurant in a converted distillery building.'),
+
+  // —— derry ——
+  place('derry-fine_dining-1', 'derry', 'fine_dining', 'Walled City Brewery', 4.6, 'Ebrington Square, Derry BT47 6FA', '양조장과 레스토랑을 함께 운영하는 브루펍.', 'Brewpub with a working brewery and restaurant.'),
+  place('derry-fine_dining-2', 'derry', 'fine_dining', 'Pyke \'N\' Pommes', 4.6, 'Derry, UK', '푸드트럭에서 시작한 강변 레스토랑.', 'Riverside restaurant that began as a food truck.'),
 ]

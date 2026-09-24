@@ -174,4 +174,11 @@ export const placesDEExtra: Place[] = [
   place('potsdam-cafe-1', 'potsdam', 'cafe', 'Café Heider', 4.5, 'Friedrich-Ebert-Straße 29, 14467 Potsdam, Germany', '1878년부터 이어온 포츠담에서 가장 오래된 카페', 'Potsdam\'s oldest café, serving since 1878'),
   place('potsdam-cafe-2', 'potsdam', 'cafe', 'Buena Vida Coffee Roasters', 4.6, 'Am Bassin 7, Potsdam', '포츠담의 커피 로스터리.', 'Coffee roastery in Potsdam.', { reviewCount: 1430 }),
   place('potsdam-cafe-3', 'potsdam', 'cafe', 'Lukas Café', 4.8, 'Karl-Liebknecht-Straße 20, Potsdam', '포츠담의 인기 카페.', 'Popular café in Potsdam.', { reviewCount: 513 }),
+
+  // —— fussen ——
+  place('fussen-fine_dining-1', 'fussen', 'fine_dining', 'Zum Hechten', 4.1, 'Ritterstraße 6, 87629 Füssen', '호에스 슐로스 바로 아래의 바이에른 향토 요리 식당.', 'Bavarian regional cooking right below the Hohes Schloss.'),
+  place('fussen-fine_dining-2', 'fussen', 'fine_dining', 'Beim Olivenbauer', 4.4, 'Füssen, Germany', '구시가 가장자리의 바이에른·지중해 요리 식당.', 'Bavarian and Mediterranean dishes at the old town\'s edge.'),
+  place('fussen-cafe-1', 'fussen', 'cafe', 'Caffè Lucca', 4.5, 'Füssen, Germany', '호에스 슐로스 아래, 아침 식사와 이탈리아 커피가 좋은 카페.', 'Café below the Hohes Schloss for breakfast and Italian coffee.'),
+  place('fussen-cafe-2', 'fussen', 'cafe', 'Cafe Baumgarten', 4.4, 'Rittergasse 1, 87629 Füssen', '페이스트리와 진한 커피로 유명한 아늑한 카페.', 'Cozy café known for pastries and strong coffee.'),
+  place('fussen-bakery-1', 'fussen', 'bakery', 'Bäckerei Brunners', 4.4, 'Füssen, Germany', '지역 전통 빵을 파는 퓌센의 빵집.', 'Füssen bakery selling regional specialties.'),
 ]
