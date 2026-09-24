@@ -134,3 +134,8 @@ highlights/liverpool-2.jpg | https://commons.wikimedia.org/wiki/File:Entrance_to
 highlights/liverpool-4.jpg | https://commons.wikimedia.org/wiki/File:MERSEYSIDE_MARITIME_MUSEUM_ALBERT_DOCK_LIVERPOOL_MAY_2013_(8720157490).jpg | CC BY-SA 2.0 | calflier001
 highlights/liverpool-5.jpg | https://commons.wikimedia.org/wiki/File:Leisure_Terrace,_Liverpool_ONE.jpg | CC BY 2.0 | yellow book
 highlights/liverpool-6.jpg | https://commons.wikimedia.org/wiki/File:Philharmonic_Hall_front_after_renovation.jpg | CC BY-SA 4.0 | Samwalton9
+
+# York fixes (2026-09-24)
+cities/york.jpg | https://commons.wikimedia.org/wiki/File:York_Minster_from_the_city_walls_-_geograph.org.uk_-_7551008.jpg | CC BY-SA 2.0 | Oscar Taylor <a href="//commons.wikime
+highlights/york-3.jpg | https://commons.wikimedia.org/wiki/File:Bar_Walls,_York_(26707002522).jpg | CC BY 2.0 | Tim Green from Bradford
+highlights/york-6.jpg | https://commons.wikimedia.org/wiki/File:National_Railway_Museum_-_York_-_(11)_-_geograph.org.uk_-_2928444.jpg | CC BY-SA 2.0 | The Carlisle Kid <a href="//commons.wik
