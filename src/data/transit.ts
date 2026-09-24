@@ -3467,6 +3467,342 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
+  como: {
+    modes: ['train', 'ferry', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '밀라노에서 기차로 약 40~60분. 호수 마을은 페리(Navigazione Laghi)로 다닙니다.',
+      en: 'About 40–60 min by train from Milan; lake villages by Navigazione Laghi ferries.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  bergamo: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '밀라노에서 기차로 약 50분, 오리오 알 세리오 공항에서 버스. 윗마을은 푸니콜라레로 오릅니다.',
+      en: '~50 min by train from Milan; airport bus from Orio al Serio. Funicular up to Città Alta.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  stresa: {
+    modes: ['train', 'ferry', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '밀라노에서 기차로 약 1시간. 보로메오 섬은 선착장에서 페리로 갑니다.',
+      en: '~1 hr by train from Milan; ferries from the pier to the Borromean Islands.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  sirmione: {
+    modes: ['train', 'bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '데센차노 델 가르다역에서 버스·페리로 이동. 구시가는 차량 통제 구역입니다.',
+      en: 'Train to Desenzano del Garda, then bus or ferry; the old town is car-free.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  padua: {
+    modes: ['train', 'tram', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '베네치아에서 기차로 약 30분. 역에서 시내까지 트램 한 노선이 다닙니다.',
+      en: '~30 min by train from Venice; a single tram line runs from the station into town.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  trieste: {
+    modes: ['train', 'bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '베네치아에서 기차로 약 2시간. 시내는 버스와 도보로 충분합니다.',
+      en: '~2 hrs by train from Venice; buses and walking cover the city.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  bolzano: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '베로나·인스브루크에서 기차로 연결. 레논 고원은 시내에서 케이블카로 오릅니다.',
+      en: 'Rail links to Verona and Innsbruck; cable car from town up to the Renon plateau.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  cortina: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '기차역이 없습니다. 베네치아·칼랄초역에서 Cortina Express·Dolomiti Bus를 탑니다. 트레킹 출발점도 버스로 갑니다.',
+      en: 'No railway—take Cortina Express or Dolomiti Bus from Venice or Calalzo; trailheads by bus.',
+    },
+    apps: [
+    ],
+  },
+  portofino: {
+    modes: ['train', 'ferry', 'bus', 'walk'],
+    howTo: {
+      ko: '산타 마르게리타 리구레역에서 버스 또는 페리. 마을 안 차량 진입은 제한됩니다.',
+      en: 'Train to Santa Margherita Ligure, then bus or ferry; cars are restricted in the village.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  'cinque-terre': {
+    modes: ['train', 'ferry', 'walk'],
+    howTo: {
+      ko: '라 스페치아에서 Cinque Terre Express 기차로 다섯 마을을 잇습니다. 친퀘테레 카드가 편리합니다. 계절에 따라 페리도 다닙니다.',
+      en: 'The Cinque Terre Express train links La Spezia and all five villages—get the Cinque Terre Card; seasonal ferries too.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  modena: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '볼로냐에서 기차로 약 20분. 구시가는 도보, 페라리 박물관은 셔틀버스를 탑니다.',
+      en: '~20 min by train from Bologna; walk the center, shuttle bus to the Ferrari museums.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  parma: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '볼로냐·밀라노에서 기차로 1시간 안팎. 구시가는 걸어서 둘러봅니다.',
+      en: 'About an hour by train from Bologna or Milan; the center is walkable.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  ravenna: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '볼로냐에서 기차로 약 1시간 10분. 모자이크 명소는 도보, 클라세는 버스·기차로 갑니다.',
+      en: '~70 min by train from Bologna; walk to mosaics, bus or train out to Classe.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  lucca: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '피렌체·피사에서 기차로 연결. 성벽 위는 자전거 대여가 인기입니다.',
+      en: 'Trains from Florence and Pisa; rent a bike to ride the walls.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  montepulciano: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '키우시·시에나에서 버스를 탑니다. 발도르차 마을은 렌터카가 가장 편합니다.',
+      en: 'Buses from Chiusi or Siena; a rental car is easiest for the Val d\'Orcia.',
+    },
+    apps: [
+    ],
+  },
+  assisi: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '페루자·로마·피렌체에서 기차. 역에서 언덕 위 구시가까지 버스로 오릅니다.',
+      en: 'Trains from Perugia, Rome or Florence; bus from the station up to the old town.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  perugia: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '기차역에서 무인 경전철 미니메트로로 구시가까지 갑니다. 로카 파올리나에는 에스컬레이터가 있습니다.',
+      en: 'Minimetrò people-mover from the station to the center; escalators through Rocca Paolina.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  orvieto: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '로마·피렌체에서 기차. 역 앞 푸니콜라레로 절벽 위 구시가에 오릅니다.',
+      en: 'Trains from Rome and Florence; funicular from the station up to the old town.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  pompeii: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '나폴리에서 치르쿰베수비아나선 Pompei Scavi역 하차(약 35분). 유적은 도보로 둘러봅니다.',
+      en: 'Circumvesuviana from Naples to Pompei Scavi (~35 min); explore the site on foot.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  sorrento: {
+    modes: ['train', 'ferry', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '나폴리에서 치르쿰베수비아나(약 70분) 또는 페리. 아말피 해안은 SITA 버스, 카프리는 페리로 갑니다.',
+      en: 'Circumvesuviana (~70 min) or ferry from Naples; SITA buses to the Amalfi Coast, ferries to Capri.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  capri: {
+    modes: ['ferry', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '나폴리·소렌토에서 페리. 마리나 그란데에서 푸니콜라레로 카프리 마을까지, 섬 안은 미니버스로 다닙니다.',
+      en: 'Ferry from Naples or Sorrento; funicular from Marina Grande to Capri town, minibuses around the island.',
+    },
+    apps: [
+    ],
+  },
+  matera: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '바리에서 FAL 사철로 약 1시간 30분. 사시 지구는 걸어서 둘러봅니다.',
+      en: 'FAL regional train from Bari (~1.5 hrs); explore the Sassi on foot.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  bari: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '공항에서 기차로 약 20분. 바리 베키아는 도보로 다닙니다. 풀리아 소도시는 기차로 이어집니다.',
+      en: '~20 min train from the airport; Bari Vecchia on foot; trains out to Puglia towns.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  alberobello: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '바리에서 FSE 기차로 약 1시간 30분. 트룰리 지구는 도보로 둘러봅니다.',
+      en: 'FSE train from Bari (~1.5 hrs); trulli districts on foot.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  'polignano-a-mare': {
+    modes: ['train', 'walk'],
+    howTo: {
+      ko: '바리에서 기차로 약 30분. 역에서 구시가까지 걸어서 10분입니다.',
+      en: '~30 min by train from Bari; the old town is a 10-min walk from the station.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  lecce: {
+    modes: ['train', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '바리에서 기차로 약 1시간 30분. 구시가는 도보, 살렌토 해안은 버스·렌터카로 갑니다.',
+      en: '~1.5 hrs by train from Bari; walk the center, bus or car for the Salento coast.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  tropea: {
+    modes: ['train', 'taxi', 'walk'],
+    howTo: {
+      ko: '라메치아 테르메역에서 지역 기차로 약 1시간. 구시가와 해변은 계단으로 이어집니다.',
+      en: 'Regional train from Lamezia Terme (~1 hr); steps link the old town and the beach.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  taormina: {
+    modes: ['bus', 'train', 'taxi', 'walk'],
+    howTo: {
+      ko: '카타니아 공항·시내에서 버스로 약 1시간 30분. 해변은 케이블카로 내려갑니다.',
+      en: '~1.5 hrs by bus from Catania; cable car down to the beaches.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  catania: {
+    modes: ['metro', 'bus', 'train', 'taxi', 'walk'],
+    howTo: {
+      ko: '공항에서 알리버스(Alibus)로 시내까지. 에트나 투어는 AST 버스나 투어를 이용합니다.',
+      en: 'Alibus from the airport to the center; AST bus or tours for Etna.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  siracusa: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '카타니아에서 기차·버스로 약 1시간 30분. 오르티자는 도보로 다닙니다.',
+      en: '~1.5 hrs by train or bus from Catania; Ortigia on foot.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  agrigento: {
+    modes: ['train', 'bus', 'taxi'],
+    howTo: {
+      ko: '팔레르모에서 기차로 약 2시간. 신전의 계곡은 시내에서 버스로 갑니다.',
+      en: '~2 hrs by train from Palermo; city buses to the Valley of the Temples.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  cefalu: {
+    modes: ['train', 'walk'],
+    howTo: {
+      ko: '팔레르모에서 기차로 약 1시간. 역에서 구시가까지 걸어서 갑니다.',
+      en: '~1 hr by train from Palermo; walk from the station to the old town.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  cagliari: {
+    modes: ['train', 'bus', 'tram', 'taxi', 'walk'],
+    howTo: {
+      ko: '공항에서 기차로 약 10분. 포에토 해변은 시내버스로, 카스텔로 지구는 엘리베이터를 이용하면 편합니다.',
+      en: '~10 min train from the airport; city bus to Poetto, public lifts up to Castello.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  alghero: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '공항에서 버스로 약 20분. 넵튠 동굴은 버스나 항구 보트로 갑니다.',
+      en: '~20 min by bus from the airport; bus or harbor boat to Neptune\'s Grotto.',
+    },
+    apps: [
+    ],
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],

@@ -1,0 +1,199 @@
+# Italy expansion photo credits (Wikimedia Commons, CC/PD licensed)
+# public path | Commons file | license | author
+
+cities/agrigento.jpg | https://commons.wikimedia.org/wiki/File:Olive_in_the_Valley_of_the_Temples._Agrigento.jpg | CC BY-SA 3.0 | Ввласенко
+cities/alberobello.jpg | https://commons.wikimedia.org/wiki/File:Street_with_trulli_Alberobello.jpg | CC BY-SA 4.0 | MPhernambucq
+cities/alghero.jpg | https://commons.wikimedia.org/wiki/File:Alghero_-_Panorama_(02).jpg | CC BY-SA 4.0 | Gianni Careddu
+cities/assisi.jpg | https://commons.wikimedia.org/wiki/File:ASSISI_3.jpg | Public domain | Photo made by Gunnar Bach Pedersen. Colours enhanced by <a href="//commons.wikimedia.org/wiki/User:Wikipeder" title="
+cities/bari.jpg | https://commons.wikimedia.org/wiki/File:Bari_Vecchia_(40106893452).jpg | CC BY 2.0 | Evelyn Hill from Rome, Italy
+cities/bergamo.jpg | https://commons.wikimedia.org/wiki/File:The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg | CC BY-SA 3.0 | Ввласенко
+cities/bolzano.jpg | https://commons.wikimedia.org/wiki/File:Meran_Laubengasse_08.jpg | CC BY-SA 4.0 | Zairon
+cities/cagliari.jpg | https://commons.wikimedia.org/wiki/File:Marina_(Cagliari).jpg | CC BY-SA 3.0 it | Municipality of Cagliari
+cities/capri.jpg | https://commons.wikimedia.org/wiki/File:1960_Capri_Marina_Grande_with_hillside.jpg | CC BY-SA 4.0 | my late related person
+cities/catania.jpg | https://commons.wikimedia.org/wiki/File:Catania,_piazza_del_Duomo.jpg | CC BY-SA 4.0 | Cayambe
+cities/cefalu.jpg | https://commons.wikimedia.org/wiki/File:Cefalù_BW_2025-05-01_13-53-35.jpg | CC BY-SA 4.0 | Berthold Werner
+cities/cinque-terre.jpg | https://commons.wikimedia.org/wiki/File:View_West_Manarola_Cinque_Terre_Sep23_A7C_07144.jpg | CC BY-SA 4.0 | <a href="https://upload.wikimedia.org/wikipedia/commons/2/24/View_West_Manarola_Cinq
+cities/como.jpg | https://commons.wikimedia.org/wiki/File:Como_and_its_lake.jpg | CC0 | Pxhere
+cities/cortina.jpg | https://commons.wikimedia.org/wiki/File:Faloria_Cortina_d'Ampezzo_10.jpg | CC BY-SA 4.0 | kallerna
+cities/lecce.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Sant'Oronzo_(Lecce).jpg | CC0 | Bernard Gagnon
+cities/lucca.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Lucca_vom_Torre_Guinigi_2009-07.jpg | CC BY-SA 3.0 | H005
+cities/matera.jpg | https://commons.wikimedia.org/wiki/File:View_of_Sassi_di_Matera,_Matera,_Italy_(PPL2-Enhanced)_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+cities/modena.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Grande_a_Modena.jpg | CC BY-SA 4.0 | Albypino
+cities/montepulciano.jpg | https://commons.wikimedia.org/wiki/File:Montepulciano_panorama_al_tramonto.jpg | CC BY-SA 4.0 | PROPOLI87
+cities/orvieto.jpg | https://commons.wikimedia.org/wiki/File:Orvieto,_panorama_(07).jpg | CC BY-SA 4.0 | Gianni Careddu
+cities/padua.jpg | https://commons.wikimedia.org/wiki/File:Prato_della_Valle_e_Basilica_di_Santa_Giustina,_settembre_2022_(Padova)_01.jpg | CC BY-SA 4.0 | Threecharlie
+cities/parma.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Duomo_Parma_2009-08.jpg | CC BY 3.0 | Filippo Aneli
+cities/perugia.jpg | https://commons.wikimedia.org/wiki/File:Corso-Perugia.jpg | CC BY-SA 2.0 | justinknabb
+cities/polignano-a-mare.jpg | https://commons.wikimedia.org/wiki/File:Polignano_a_mare_-Lama_Monachile.jpg | CC BY-SA 4.0 | ParisTaras
+cities/pompeii.jpg | https://commons.wikimedia.org/wiki/File:02004_Ruins_of_Pompeii,_Vesuvius.jpg | CC BY-SA 4.0 | Silar
+cities/portofino.jpg | https://commons.wikimedia.org/wiki/File:Marina_of_Portofino_(7).jpg | CC BY 3.0 pl | Radosław Botev
+cities/ravenna.jpg | https://commons.wikimedia.org/wiki/File:Basilica_of_San_Vitale_-_Lamb_of_God_mosaic.jpg | CC BY-SA 4.0 | Petar Milošević
+cities/siracusa.jpg | https://commons.wikimedia.org/wiki/File:Siracusa_--_Ortigia.jpg | CC BY-SA 2.0 | tomislav medak
+cities/sirmione.jpg | https://commons.wikimedia.org/wiki/File:SIR_-_Lake_Garda_and_Sirmione_peninsula_seen_from_Scaligero_Castle,_Italy,_2014.jpg | CC BY-SA 4.0 | Josep M. Gracia
+cities/sorrento.jpg | https://commons.wikimedia.org/wiki/File:2014_Cliffs_Sorrento_6.JPG | CC BY 3.0 | Bärwinkel,Klaus
+cities/stresa.jpg | https://commons.wikimedia.org/wiki/File:Stresa_Vista_sul_Lago_Maggiore_23.jpg | CC BY-SA 4.0 | Zairon
+cities/taormina.jpg | https://commons.wikimedia.org/wiki/File:Taormina_towards_SW_2024b.jpg | CC BY 4.0 | Cayambe
+cities/trieste.jpg | https://commons.wikimedia.org/wiki/File:Trieste_Piazza_Unita_4.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+cities/tropea.jpg | https://commons.wikimedia.org/wiki/File:Santa_Maria_dell'Isola_-_Tropea_-_Calabria_-_Italy_-_July_25th_2013_-_03.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/agrigento-1.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Concordia,_Agrigento_BW_2012-10-07_13-09-13.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/agrigento-2.jpg | https://commons.wikimedia.org/wiki/File:Agrigent_BW_2012-10-07_12-24-45.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/agrigento-3.jpg | https://commons.wikimedia.org/wiki/File:Agrigento_kolymbetra.jpg | CC BY 2.0 | fab.
+highlights/agrigento-4.jpg | https://commons.wikimedia.org/wiki/File:Scala_dei_Turchi_panorama.jpg | CC BY 3.0 | Carnby
+highlights/alberobello-1.jpg | https://commons.wikimedia.org/wiki/File:Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/alberobello-2.jpg | https://commons.wikimedia.org/wiki/File:Alberobello_-_Trullo_Sovrano_-_1.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/alberobello-3.jpg | https://commons.wikimedia.org/wiki/File:Alberobello_-_Trulli_del_Rione_Aia_Piccola_-_02.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/alberobello-4.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_a_Trullo._-_panoramio.jpg | CC BY-SA 3.0 | Carlo Pelagalli
+highlights/alghero-1.jpg | https://commons.wikimedia.org/wiki/File:Bastioni_Alghero_2019.jpg | CC BY 4.0 | Photo2023
+highlights/alghero-2.jpg | https://commons.wikimedia.org/wiki/File:Grotta_di_nettuno_sardinien.jpg | CC BY-SA 2.5 | Tobias Helfrich
+highlights/alghero-3.jpg | https://commons.wikimedia.org/wiki/File:Alghero_-_Capo_Caccia_(07).JPG | CC BY-SA 3.0 | Gianni Careddu
+highlights/alghero-4.jpg | https://commons.wikimedia.org/wiki/File:Alghero_jamaica_inn_(15485570142).jpg | CC BY 2.0 | Jose Hidalgo from Punta Arenas y South Lake Tahoe, Chile y California
+highlights/alghero-5.jpg | https://commons.wikimedia.org/wiki/File:Alghero_-_Katedra.jpg | CC BY-SA 4.0 | Robert Ciekanowski
+highlights/assisi-1.jpg | https://commons.wikimedia.org/wiki/File:Rear_NW_Basilica_Francesco_Assisi_Sep23_A7C_07913.jpg | CC BY-SA 4.0 | <a href="https://upload.wikimedia.org/wikipedia/commons/5/52/Rear_NW_Basilica_France
+highlights/assisi-2.jpg | https://commons.wikimedia.org/wiki/File:Italy,_Assisi,_Basilica_of_Santa_Chiara_BW_2021-09-25_12-44-16.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/assisi-3.jpg | https://commons.wikimedia.org/wiki/File:Assisi_Piazza_del_Comune_BW_5.JPG | Public domain | Berthold Werner
+highlights/assisi-4.jpg | https://commons.wikimedia.org/wiki/File:Rocca_Maggiore_-_Assisi.jpg | CC BY-SA 4.0 | Stifone
+highlights/bari-1.jpg | https://commons.wikimedia.org/wiki/File:Bari_-_basilica_di_San_Nicola_-_202109141230.jpg | CC BY-SA 4.0 | Michele0069
+highlights/bari-2.jpg | https://commons.wikimedia.org/wiki/File:Bari_Vecchia_85401.jpg | CC BY-SA 4.0 | Luistxo
+highlights/bari-3.jpg | https://commons.wikimedia.org/wiki/File:Le_orecchiette_di_Bari.jpg | CC BY-SA 4.0 | Maddy16869
+highlights/bari-4.jpg | https://commons.wikimedia.org/wiki/File:Castello_normanno-svevo,_Bari_02.jpg | CC BY-SA 4.0 | GattoCeliaco
+highlights/bari-5.jpg | https://commons.wikimedia.org/wiki/File:Lungomare_(Bari)_03.jpg | CC0 | Bernard Gagnon
+highlights/bergamo-1.jpg | https://commons.wikimedia.org/wiki/File:Cloister_of_the_University_of_Bergamo._Italy.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/bergamo-2.jpg | https://commons.wikimedia.org/wiki/File:Bergamo,_Piazza_Vecchia,_2016-06_CN-01.jpg | CC BY-SA 4.0 | Steffen Schmitz
+highlights/bergamo-3.jpg | https://commons.wikimedia.org/wiki/File:Bergamo,_Cappella_Colleoni,_2016-06_CN-01.jpg | CC BY-SA 4.0 | Steffen Schmitz
+highlights/bergamo-4.jpg | https://commons.wikimedia.org/wiki/File:Mura_Venete_(Bergamo).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/bergamo-5.jpg | https://commons.wikimedia.org/wiki/File:Bergamo,_San_Vigilio_Funicular.JPG | CC BY-SA 4.0 | MOs810
+highlights/bolzano-1.jpg | https://commons.wikimedia.org/wiki/File:Waltherplatz_Bozen_Luftansicht.jpg | CC BY-SA 4.0 | Aciarium
+highlights/bolzano-2.jpg | https://commons.wikimedia.org/wiki/File:BozenArchMuseum.jpg | CC BY 3.0 | Hubert Berberich (HubiB)
+highlights/bolzano-3.jpg | https://commons.wikimedia.org/wiki/File:Meran_Laubengasse_11.jpg | CC BY-SA 4.0 | Zairon
+highlights/bolzano-4.jpg | https://commons.wikimedia.org/wiki/File:Renon-Ritten_earth_pyramids_20060225.jpg | Public domain | User:Julian Mendez
+highlights/bolzano-5.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_bolzano,_01.JPG | CC BY-SA 3.0 | sailko
+highlights/cagliari-1.jpg | https://commons.wikimedia.org/wiki/File:Castello_(Cagliari).jpg | CC BY-SA 3.0 it | Municipality of Cagliari
+highlights/cagliari-2.jpg | https://commons.wikimedia.org/wiki/File:Bastione_di_San_Remy,_prospetto.jpg | CC BY-SA 4.0 | Elisa.Mnn
+highlights/cagliari-3.jpg | https://commons.wikimedia.org/wiki/File:Poetto_beach.jpg | CC BY 2.0 | Chris
+highlights/cagliari-4.jpg | https://commons.wikimedia.org/wiki/File:Greater_Flamingos_(Fenicottero_Rosa)_(Phoenicopterus_roseus)_-_Cagliari,_Italy_2024-04-01_(01).jpg | CC BY-SA 4.0 | Ryan Hodnett
+highlights/cagliari-5.jpg | https://commons.wikimedia.org/wiki/File:Cagliari_Kathedrale.jpg | CC BY-SA 3.0 de | Martin Kraft
+highlights/capri-1.jpg | https://commons.wikimedia.org/wiki/File:Grotta_azzurra.capri.JPG | CC BY-SA 4.0 | Elenagm
+highlights/capri-2.jpg | https://commons.wikimedia.org/wiki/File:Capri_Portrait.jpg | CC BY-SA 4.0 | Mайкл Гиммельфарб
+highlights/capri-3.jpg | https://commons.wikimedia.org/wiki/File:Al_Piccolo_Bar,_piazzetta_di_Capri.jpg | CC BY-SA 2.0 | Antonio Manfredonio
+highlights/capri-4.jpg | https://commons.wikimedia.org/wiki/File:Capri_Centre_Belvedere.jpg | CC BY 3.0 | Paolo Costa Baldi
+highlights/capri-5.jpg | https://commons.wikimedia.org/wiki/File:Giardini_di_Augusto_001.JPG | CC BY-SA 4.0 | Mentnafunangann
+highlights/catania-1.jpg | https://commons.wikimedia.org/wiki/File:Elefante,_Catania.JPG | CC BY-SA 3.0 | Lucarelli
+highlights/catania-2.jpg | https://commons.wikimedia.org/wiki/File:Catania,_pescheria_(fish_market).jpg | CC BY-SA 2.0 | jim
+highlights/catania-3.jpg | https://commons.wikimedia.org/wiki/File:Giuseppe_Garibaldi_monument_in_Catania_2024a.jpg | CC BY-SA 4.0 | Cayambe
+highlights/catania-4.jpg | https://commons.wikimedia.org/wiki/File:Castello_Ursino,_Catania_2024.jpg | CC BY-SA 4.0 | Cayambe
+highlights/catania-5.jpg | https://commons.wikimedia.org/wiki/File:Catania_BW_2012-10-06_11-11-06.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/cefalu-1.jpg | https://commons.wikimedia.org/wiki/File:Cefalù_-_Duomo_di_Cefalù_-_2025-09-10_22-33-38_001.jpg | CC BY-SA 4.0 | Enricopis
+highlights/cefalu-2.jpg | https://commons.wikimedia.org/wiki/File:Cefalu-bjs2007-01.jpg | CC0 | Bjs
+highlights/cefalu-3.jpg | https://commons.wikimedia.org/wiki/File:Cefalu_Beach_BW_2012-10-11_15-12-24_1.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/cefalu-4.jpg | https://commons.wikimedia.org/wiki/File:Lavatoio_medievale_cefalu.jpg | CC BY 3.0 | Matthias Süßen
+highlights/cinque-terre-1.jpg | https://commons.wikimedia.org/wiki/File:Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg | CC BY-SA 4.0 | <a href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Manarola_NW_Cinque_Terr
+highlights/cinque-terre-2.jpg | https://commons.wikimedia.org/wiki/File:Vernazza_harbour_panorama,_Cinque_Terre,_Liguria,_Italy,_April_2026.jpg | CC BY-SA 4.0 | Mathieu Chollet - MChollet
+highlights/cinque-terre-3.jpg | https://commons.wikimedia.org/wiki/File:Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg | CC BY-SA 4.0 | <a href="https://upload.wikimedia.org/wikipedia/commons/7/76/Riomaggiore_From_Ferry_
+highlights/cinque-terre-4.jpg | https://commons.wikimedia.org/wiki/File:Monterosso_al_Mare-panorama-Fegina1.jpg | CC BY-SA 3.0 | Davide Papalini
+highlights/cinque-terre-5.jpg | https://commons.wikimedia.org/wiki/File:Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg | CC BY-SA 4.0 | <a href="https://upload.wikimedia.org/wikipedia/commons/d/d2/Manarola_NW_Cemetery_Co
+highlights/cinque-terre-6.jpg | https://commons.wikimedia.org/wiki/File:Sentiero_Azzurro_near_Vernazza.jpg | CC BY-SA 2.5 ca | СССР
+highlights/como-1.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Como_by_Marco.jpg | CC BY-SA 4.0 | Corby1960
+highlights/como-2.jpg | https://commons.wikimedia.org/wiki/File:Funicolare_Como_Brunate_-_Veicolo_in_direzione_Como.jpg | CC0 | Emanu37429
+highlights/como-3.jpg | https://commons.wikimedia.org/wiki/File:Town_of_Bellagio_(Lake_Como)_seen_from_the_lake_(36722979021).jpg | CC BY-SA 2.0 | Ray Swi-hymn from Sijhih-Taipei, Taiwan
+highlights/como-4.jpg | https://commons.wikimedia.org/wiki/File:The_Villa_del_Balbianello_in_Italy.jpg | CC BY-SA 4.0 | Sheeba Samuel
+highlights/cortina-1.jpg | https://commons.wikimedia.org/wiki/File:Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg | CC BY-SA 3.0 | <a href="//commons.wikimedia.org/wiki/File:Emblem-camera.svg"
+highlights/cortina-2.jpg | https://commons.wikimedia.org/wiki/File:Lago_di_Braies_South_Tyrol_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/cortina-3.jpg | https://commons.wikimedia.org/wiki/File:Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes_Cinque_Torri.jpg | CC BY-SA 3.0 | <a href="//commons.wikimedia.org/wiki/File:Emblem-camera.svg"
+highlights/cortina-4.jpg | https://commons.wikimedia.org/wiki/File:Lago_di_Sorapis_1.jpg | CC BY-SA 4.0 | kallerna
+highlights/lecce-1.jpg | https://commons.wikimedia.org/wiki/File:Basilica_of_Santa_Croce,_Lecce_05.jpg | CC0 | Bernard Gagnon
+highlights/lecce-2.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Del_Duomo_Lecce_Italy_Travel_Photography_(171395721).jpeg | CC BY 3.0 | Giuseppe Milo
+highlights/lecce-3.jpg | https://commons.wikimedia.org/wiki/File:Lecce_amphi_romano_pano.jpg | CC BY-SA 3.0 | Velvet
+highlights/lecce-4.jpg | https://commons.wikimedia.org/wiki/File:Porta_Napoli,_Lecce.jpg | CC0 | Bernard Gagnon
+highlights/lucca-1.jpg | https://commons.wikimedia.org/wiki/File:Mura_di_Lucca_(LU).jpg | CC BY-SA 4.0 | Alex2015Genova
+highlights/lucca-2.jpg | https://commons.wikimedia.org/wiki/File:Lucca_-_Piazza_Anfiteatro_View.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/lucca-3.jpg | https://commons.wikimedia.org/wiki/File:Lucca_-_Torre_Guinigi_from_Campanile.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/lucca-4.jpg | https://commons.wikimedia.org/wiki/File:Lucca_-_Cattedrale_di_San_Martino_-_Backside.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/lucca-5.jpg | https://commons.wikimedia.org/wiki/File:Lucca_San_Michele_in_Foro_01.jpg | CC BY-SA 4.0 | Spike
+highlights/matera-1.jpg | https://commons.wikimedia.org/wiki/File:Sasso_Barisano_(Matera)_04.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/matera-2.jpg | https://commons.wikimedia.org/wiki/File:Sasso_Caveoso_(Matera)_05.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/matera-3.jpg | https://commons.wikimedia.org/wiki/File:Matera_from_Piazzetta_Pascoli-2930.jpg | CC BY-SA 4.0 | Isiwal
+highlights/matera-4.jpg | https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Belvedere_Murgia_Timone_-_06.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/matera-5.jpg | https://commons.wikimedia.org/wiki/File:Cave_house_in_Sasso_Caveoso_(Matera).jpg | CC BY 4.0 | Bernard Gagnon
+highlights/modena-1.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Modena_20.JPG | CC BY-SA 4.0 | Mongolo1984
+highlights/modena-2.jpg | https://commons.wikimedia.org/wiki/File:Modena_-_Piazza_Grande_-_Prospettiva.jpg | CC BY-SA 4.0 | Gerolamondo
+highlights/modena-3.jpg | https://commons.wikimedia.org/wiki/File:Ferrari_340_MM_front-left_Enzo_Ferrari_Museum.jpg | CC BY-SA 3.0 | Morio
+highlights/modena-4.jpg | https://commons.wikimedia.org/wiki/File:Mercato_Albinelli_cancellata.JPG | CC BY-SA 3.0 | Rossoporpora
+highlights/modena-5.jpg | https://commons.wikimedia.org/wiki/File:Acetaia_di_Novellara_1.jpg | CC BY-SA 4.0 | Mauro Storchi
+highlights/montepulciano-1.jpg | https://commons.wikimedia.org/wiki/File:Vue_de_la_piazza_grande_(Montepulciano).jpg | CC BY-SA 4.0 | Gzen92
+highlights/montepulciano-2.jpg | https://commons.wikimedia.org/wiki/File:Vista_da_Montepulciano.jpg | CC BY-SA 4.0 | <a href="//commons.wikimedia.org/wiki/File:Emblem-camera.svg"
+highlights/montepulciano-3.jpg | https://commons.wikimedia.org/wiki/File:Resale_of_wine_(Montepulciano).jpg | CC BY-SA 4.0 | Walter Giannetti
+highlights/montepulciano-4.jpg | https://commons.wikimedia.org/wiki/File:1996_wurde_Pienza_Weltkulturerbe._12.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/montepulciano-5.jpg | https://commons.wikimedia.org/wiki/File:Cypress_avenue_at_Via_Cassia_in_Val_d'Orcia.jpg | CC BY 2.0 | Enrico Pighetti from Civitanova Marche, Italia
+highlights/orvieto-1.jpg | https://commons.wikimedia.org/wiki/File:Portali_del_Duomo_di_Orvieto.jpg | CC BY-SA 2.5 ca | The Cosmonaut
+highlights/orvieto-2.jpg | https://commons.wikimedia.org/wiki/File:Pozzo_di_San_Patrizio_Oriveto.JPG | CC BY-SA 3.0 | Antichitera
+highlights/orvieto-3.jpg | https://commons.wikimedia.org/wiki/File:Orvieto-Citta_sotterranea-102.jpg | CC BY-SA 4.0 | Asurnipal
+highlights/orvieto-4.jpg | https://commons.wikimedia.org/wiki/File:Orvieto_-_Veduta_dalla_Torre_del_Moro,_Duomo.jpg | CC BY-SA 4.0 | Luca Aless
+highlights/padua-1.jpg | https://commons.wikimedia.org/wiki/File:Padova_Cappella_degli_Scrovegni_Innen_Fresken_1.jpg | CC BY-SA 4.0 | Zairon
+highlights/padua-2.jpg | https://commons.wikimedia.org/wiki/File:(Padova)_Basilica_di_Sant'Antonio_di_Padova_-_Chiostro_del_noviziato_-_East_view.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/padua-3.jpg | https://commons.wikimedia.org/wiki/File:Prato_della_Valle_in_Padua.JPG | CC BY-SA 4.0 | AnatolyPm
+highlights/padua-4.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_Palazzo_della_Ragione_(Padua).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/padua-5.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_Bo_-_Wikigita_Padova_16_settembre_2022_f08.jpg | CC BY-SA 4.0 | Marco Chemello (Wikimedia Italia)
+highlights/parma-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_(Parma)_-_Assumption_by_Correggio.jpg | CC BY-SA 4.0 | Antonio da Correggio</
+highlights/parma-2.jpg | https://commons.wikimedia.org/wiki/File:Parma,_battistero_e_Palazzo_Vescovile.jpg | CC BY-SA 4.0 | Palickap
+highlights/parma-3.jpg | https://commons.wikimedia.org/wiki/File:Parma-teatro-farnese-in-national-gallery.jpg | CC BY-SA 4.0 | www.bestofcinqueterre.com
+highlights/parma-4.jpg | https://commons.wikimedia.org/wiki/File:Parco_Ducale,_scorcio_novembre_2022_(Parma)_02.jpg | CC BY-SA 4.0 | Threecharlie
+highlights/parma-5.jpg | https://commons.wikimedia.org/wiki/File:Parmigiano-Reggiano_from_The_Grand_Cafe.jpg | CC BY-SA 4.0 | Peachyeung316
+highlights/perugia-1.jpg | https://commons.wikimedia.org/wiki/File:Fuente_Mayor,_Perugia,_Italia,_2022-09-20,_DD_25.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/perugia-2.jpg | https://commons.wikimedia.org/wiki/File:Palacio_de_los_Priores,_Perugia,_Italia,_2022-09-20,_DD_07.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/perugia-3.jpg | https://commons.wikimedia.org/wiki/File:22_Rocca_Paolina_(Perugia).jpg | CC BY-SA 4.0 | Enric
+highlights/perugia-4.jpg | https://commons.wikimedia.org/wiki/File:Perugia_Arco_Etrusco.jpg | CC BY 2.0 | Francesco Gasparetti
+highlights/perugia-5.jpg | https://commons.wikimedia.org/wiki/File:Perugia-acquedotto01.jpg | CC BY-SA 2.0 | scudsone
+highlights/polignano-a-mare-1.jpg | https://commons.wikimedia.org/wiki/File:Lama_Monachile.jpg | CC BY-SA 4.0 | Calogero77
+highlights/polignano-a-mare-2.jpg | https://commons.wikimedia.org/wiki/File:POL_-_Coastal_houses_and_cliffs_in_Polignano_a_Mare,_Italy,_2022.jpg | CC BY-SA 4.0 | Josep M. Gracia
+highlights/polignano-a-mare-3.jpg | https://commons.wikimedia.org/wiki/File:POL_-_Statue_of_Domenico_Modugno_in_Polignano_a_Mare,_Italy,_2022.jpg | CC BY-SA 4.0 | Josep M. Gracia
+highlights/polignano-a-mare-4.jpg | https://commons.wikimedia.org/wiki/File:Polignano_a_Mare_-_Grotta_Palazzese_dal_mare.jpg | CC BY-SA 4.0 | Lucamato
+highlights/pompeii-1.jpg | https://commons.wikimedia.org/wiki/File:Forum_(Pompeii)_and_the_Vesuvio.jpg | CC BY-SA 4.0 | Commonists
+highlights/pompeii-2.jpg | https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Pompeii,_Exterior,_Sunset.jpg | CC BY-SA 4.0 | Marco Ober
+highlights/pompeii-3.jpg | https://commons.wikimedia.org/wiki/File:Pompeii,_House_of_the_Tragic_Poet_(Pompeii)_with_Impluvium_and_Lararium_(48443768027).jpg | Public domain | Gary Todd from Xinzheng, China
+highlights/pompeii-4.jpg | https://commons.wikimedia.org/wiki/File:Fresque_des_mytères,_Pompéi.jpg | Public domain | Unknown authorUnknown author
+highlights/pompeii-5.jpg | https://commons.wikimedia.org/wiki/File:Herculaneum's_ruins_-_panoramio.jpg | CC BY-SA 3.0 | Michael Karavanov
+highlights/portofino-1.jpg | https://commons.wikimedia.org/wiki/File:Portofino_-_2016-06-02_-_Harbor.jpg | CC BY 4.0 | Pierre-Selim Huard
+highlights/portofino-2.jpg | https://commons.wikimedia.org/wiki/File:Castello_Brown_Portofino_01.jpg | CC BY-SA 4.0 | Superchilum
+highlights/portofino-3.jpg | https://commons.wikimedia.org/wiki/File:Foto_dell'Ottica_del_Faro_di_Portofino.jpg | CC BY-SA 4.0 | Francesco Adami
+highlights/portofino-4.jpg | https://commons.wikimedia.org/wiki/File:Abbey_of_San_Fruttuoso_Camogli_Liguria.jpg | CC BY 4.0 | Hayden Soloviev
+highlights/portofino-5.jpg | https://commons.wikimedia.org/wiki/File:Santa_Margherita_Ligure,_Italy.jpg | CC BY 4.0 | Quintin Soloviev
+highlights/ravenna-1.jpg | https://commons.wikimedia.org/wiki/File:Apse_mosaic_-_Basilica_of_San_Vitale_(Ravenna).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/ravenna-2.jpg | https://commons.wikimedia.org/wiki/File:Mausoleum_of_Galla_Placidia_mosaics_(Ravenna).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/ravenna-3.jpg | https://commons.wikimedia.org/wiki/File:Three_Wise_Men_from_the_East._Part_of_the_mosaic_on_the_left_wall_of_the_Basilica_of_Sant'Apollinare-Nuovo._Ravenna,_Italy.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/ravenna-4.jpg | https://commons.wikimedia.org/wiki/File:Ravenna,_tomba_di_Dante_(09).jpg | CC BY-SA 4.0 | Gianni Careddu
+highlights/ravenna-5.jpg | https://commons.wikimedia.org/wiki/File:Ravenna_-_Basilica_di_Sant'Apollinare_in_Classe_-_2024-09-14_21-12-34_001.jpg | CC BY-SA 4.0 | Terragio67
+
+
+		
+			<div
+highlights/siracusa-1.jpg | https://commons.wikimedia.org/wiki/File:Lungomare_Alfeo.jpg | CC BY 2.0 | Gregory Palmer
+highlights/siracusa-2.jpg | https://commons.wikimedia.org/wiki/File:Blue_Hour_Piazza_Duomo_5_-_Syracuse_-_Unesco_World_Heritage.jpg | CC BY-SA 4.0 | Dario Giannobile
+highlights/siracusa-3.jpg | https://commons.wikimedia.org/wiki/File:Greek_theater_of_Syracuse_AvL.JPG | CC BY-SA 3.0 | AlexanderVanLoon
+highlights/siracusa-4.jpg | https://commons.wikimedia.org/wiki/File:Ear_of_Dionysius_Archeological_park_in_Syracuse_01.jpg | CC BY-SA 4.0 | Eleroja
+highlights/siracusa-5.jpg | https://commons.wikimedia.org/wiki/File:Lungomare_Alfeo_and_Fonte_Aretusa._Siracusa,_Italy.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/sirmione-1.jpg | https://commons.wikimedia.org/wiki/File:Castello_Scaligero_lato_Sud_di_Sirmione.jpg | CC BY-SA 4.0 | <a href="//commons.wikimedia.org/wiki/File:Emblem-camera.svg"
+highlights/sirmione-2.jpg | https://commons.wikimedia.org/wiki/File:Grotte_di_Catullo_H_Sirmione.jpg | CC BY-SA 4.0 | <a href="//commons.wikimedia.org/wiki/File:Emblem-camera.svg"
+highlights/sirmione-3.jpg | https://commons.wikimedia.org/wiki/File:Jamaica_Beach_Sirmione.jpg | CC BY-SA 4.0 | Airb97
+highlights/sirmione-4.jpg | https://commons.wikimedia.org/wiki/File:Hafen_-_Sirmione.JPG | CC BY 3.0 | Jan Sende
+highlights/sorrento-1.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Tasso_-_Sorrento_BW_2013-05-12.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/sorrento-2.jpg | https://commons.wikimedia.org/wiki/File:View_of_Marina_Grande_from_SS145_at_golden_hour,_Sorrento,_2010.jpg | CC0 | DimiTalen
+highlights/sorrento-3.jpg | https://commons.wikimedia.org/wiki/File:View_of_beach_huts_at_the_port_of_Sorrento,_from_Villa_Comunale,_2010.jpg | CC0 | DimiTalen
+highlights/sorrento-4.jpg | https://commons.wikimedia.org/wiki/File:Valle_dei_Mulini_(Sorrento)_1.JPG | CC BY-SA 3.0 | Mentnafunangann
+highlights/stresa-1.jpg | https://commons.wikimedia.org/wiki/File:Isola_Bella_Palazzo_Borromeo_da_Baveno.JPG | CC0 | Torsade de Pointes
+highlights/stresa-2.jpg | https://commons.wikimedia.org/wiki/File:Lago_Maggiore_Isola_Superiore_from_Isola_Bella.jpg | CC BY-SA 4.0 | Isiwal
+highlights/stresa-3.jpg | https://commons.wikimedia.org/wiki/File:Isola_Madre_Garden.jpg | CC BY-SA 4.0 | Dominik Landwehr
+highlights/stresa-4.jpg | https://commons.wikimedia.org/wiki/File:Lago_Maggiore_from_Monte_Mottarone_(28960167103).jpg | CC BY-SA 2.0 | Les Olson
+highlights/taormina-1.jpg | https://commons.wikimedia.org/wiki/File:Teatro_Antico_di_Taormina_(44895386195).jpg | CC BY 2.0 | Radek Kucharski from Warsaw, Poland
+highlights/taormina-2.jpg | https://commons.wikimedia.org/wiki/File:Isola_Bella_Island_Taormina_Sicily_09.jpg | CC BY 4.0 | Scott Wylie
+highlights/taormina-3.jpg | https://commons.wikimedia.org/wiki/File:Corso_Umberto_Taormina_-_panoramio.jpg | CC BY-SA 3.0 | trolvag
+highlights/taormina-4.jpg | https://commons.wikimedia.org/wiki/File:Taormina_BW_2025-04-27_14-13-52.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/taormina-5.jpg | https://commons.wikimedia.org/wiki/File:Mount_Etna_2024_25.jpg | CC BY 4.0 | Cayambe
+highlights/trieste-1.jpg | https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Trieste,_Italia,_2017-04-15,_DD_10.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/trieste-2.jpg | https://commons.wikimedia.org/wiki/File:Castello_di_Miramare.JPG | CC BY-SA 3.0 | Adiel lo
+highlights/trieste-3.jpg | https://commons.wikimedia.org/wiki/File:Ponte_Rosso_-_Canal_Grande_-_Trieste.JPG | CC BY-SA 3.0 | Andou
+highlights/trieste-4.jpg | https://commons.wikimedia.org/wiki/File:Castello_di_San_Giusto_01.jpg | CC BY-SA 4.0 | Marchetto da Trieste
+highlights/trieste-5.jpg | https://commons.wikimedia.org/wiki/File:Sailing_Boat,_Molo_Audace,_Trieste.JPG | CC BY-SA 3.0 | Andou
+highlights/tropea-1.jpg | https://commons.wikimedia.org/wiki/File:Tropea_-_Santa_Maria_dell'Isola_-_2.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/tropea-2.jpg | https://commons.wikimedia.org/wiki/File:Beach_in_Tropea_-_Calabria_-_Italy_-_July_17th_2013_-_02.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/tropea-3.jpg | https://commons.wikimedia.org/wiki/File:Palaces_of_the_old_town_of_Tropea_perched_on_a_Cliff_overlooking_the_beach_below_-_Province_of_Vibo_Valentia,_Calabria,_Italy.jpg | CC BY-SA 3.0 | The original uploader was Luigino at <a href="https://en.wikipedia.org/wiki/it:" class="extiw" title
+highlights/tropea-4.jpg | https://commons.wikimedia.org/wiki/File:Tropea,_Cattedrale_(02).jpg | CC BY 3.0 | Bayreuth2009
