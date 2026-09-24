@@ -142,3 +142,6 @@ highlights/york-6.jpg | https://commons.wikimedia.org/wiki/File:National_Railway
 
 # London: Houses of Parliament (2026-09-25)
 highlights/london-15.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames,_London.jpg | CC BY-SA 4.0 | Christian David
+
+# London: Big Ben (2026-09-25)
+highlights/london-2.jpg | https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunset_-_2014-10-27_17-30.jpg | CC BY-SA 4.0 | Colin
