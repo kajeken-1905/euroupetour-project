@@ -29,6 +29,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Big%20Ben%20london",
       },
       {
+        id: "london-h15",
+        name: { ko: "국회의사당 (웨스트민스터 궁전)", en: "Houses of Parliament" },
+        description: { ko: "템스강변에 선 고딕 리바이벌 양식의 영국 의회 건물로, 유네스코 세계유산입니다.", en: "Gothic Revival seat of the UK Parliament on the Thames, a UNESCO World Heritage Site." },
+        image: "/highlights/london-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Westminster%20London",
+      },
+      {
         id: "london-h3",
         name: { ko: "웨스트민스터 사원", en: "Westminster Abbey" },
         description: { ko: "대관식과 왕실 결혼식이 열리는 고딕 사원입니다.", en: "Gothic abbey church for coronations and royal weddings." },

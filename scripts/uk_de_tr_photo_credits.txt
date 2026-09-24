@@ -139,3 +139,6 @@ highlights/liverpool-6.jpg | https://commons.wikimedia.org/wiki/File:Philharmoni
 cities/york.jpg | https://commons.wikimedia.org/wiki/File:York_Minster_from_the_city_walls_-_geograph.org.uk_-_7551008.jpg | CC BY-SA 2.0 | Oscar Taylor 
 highlights/york-3.jpg | https://commons.wikimedia.org/wiki/File:Bar_Walls,_York_(26707002522).jpg | CC BY 2.0 | Tim Green from Bradford
 highlights/york-6.jpg | https://commons.wikimedia.org/wiki/File:National_Railway_Museum_-_York_-_(11)_-_geograph.org.uk_-_2928444.jpg | CC BY-SA 2.0 | The Carlisle Kid 
+
+# London: Houses of Parliament (2026-09-25)
+highlights/london-15.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames,_London.jpg | CC BY-SA 4.0 | Christian David
