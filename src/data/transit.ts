@@ -3803,6 +3803,45 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  mantua: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '베로나에서 기차로 약 45분. 구시가는 도보·자전거로 충분합니다.',
+      en: '~45 min by train from Verona; walk or bike the compact center.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  vicenza: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '베네치아·베로나에서 기차로 약 45분. 빌라 라 로톤다는 버스나 도보로 갑니다.',
+      en: '~45 min by train from Venice or Verona; bus or walk out to Villa La Rotonda.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  ferrara: {
+    modes: ['train', 'bus', 'walk', 'bike'],
+    howTo: {
+      ko: '볼로냐에서 기차로 약 30분. 자전거의 도시라 대여 자전거가 편합니다.',
+      en: '~30 min by train from Bologna; rent a bike—it\'s Italy\'s cycling city.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  urbino: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '기차역이 없습니다. 페사로역에서 버스로 약 1시간. 구시가는 언덕길 도보입니다.',
+      en: 'No railway—bus from Pesaro station (~1 hr); the old town is hilly and walkable.',
+    },
+    apps: [
+    ],
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],

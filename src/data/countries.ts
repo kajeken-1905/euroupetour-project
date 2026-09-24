@@ -203,7 +203,7 @@ export const countries: Country[] = [
       background: '#E8F5EE',
       text: '#0A2A18',
     },
-    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples', 'bologna', 'verona', 'turin', 'amalfi', 'siena', 'genoa', 'palermo', 'pisa', 'san-gimignano', 'como', 'bergamo', 'stresa', 'sirmione', 'padua', 'trieste', 'bolzano', 'cortina', 'portofino', 'cinque-terre', 'modena', 'parma', 'ravenna', 'lucca', 'montepulciano', 'assisi', 'perugia', 'orvieto', 'pompeii', 'sorrento', 'capri', 'matera', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'tropea', 'taormina', 'catania', 'siracusa', 'agrigento', 'cefalu', 'cagliari', 'alghero'],
+    cityIds: ['rome', 'milan', 'florence', 'venice', 'naples', 'bologna', 'verona', 'turin', 'amalfi', 'siena', 'genoa', 'palermo', 'pisa', 'san-gimignano', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'portofino', 'cinque-terre', 'modena', 'parma', 'ferrara', 'ravenna', 'lucca', 'montepulciano', 'assisi', 'perugia', 'orvieto', 'urbino', 'pompeii', 'sorrento', 'capri', 'matera', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'tropea', 'taormina', 'catania', 'siracusa', 'agrigento', 'cefalu', 'cagliari', 'alghero'],
   },
   {
     id: 'va',

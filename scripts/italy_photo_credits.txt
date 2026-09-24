@@ -197,3 +197,26 @@ highlights/tropea-1.jpg | https://commons.wikimedia.org/wiki/File:Tropea_-_Santa
 highlights/tropea-2.jpg | https://commons.wikimedia.org/wiki/File:Beach_in_Tropea_-_Calabria_-_Italy_-_July_17th_2013_-_02.jpg | CC BY-SA 3.0 | Norbert Nagel
 highlights/tropea-3.jpg | https://commons.wikimedia.org/wiki/File:Palaces_of_the_old_town_of_Tropea_perched_on_a_Cliff_overlooking_the_beach_below_-_Province_of_Vibo_Valentia,_Calabria,_Italy.jpg | CC BY-SA 3.0 | The original uploader was Luigino at <a href="https://en.wikipedia.org/wiki/it:" class="extiw" title
 highlights/tropea-4.jpg | https://commons.wikimedia.org/wiki/File:Tropea,_Cattedrale_(02).jpg | CC BY 3.0 | Bayreuth2009
+cities/ferrara.jpg | https://commons.wikimedia.org/wiki/File:Ferrara,_cattedrale_di_San_Giorgio_(08).jpg | CC BY-SA 4.0 | Gianni Careddu
+cities/mantua.jpg | https://commons.wikimedia.org/wiki/File:Tramonto_su_Mantova.jpg | CC BY-SA 4.0 | Daniele Sala Photography ©
+cities/urbino.jpg | https://commons.wikimedia.org/wiki/File:Urbino_-_Comune_di_Urbino_-_Panorama_-_2024-09-24_19-35-54_001.jpg | CC BY-SA 4.0 | Terragio67
+cities/vicenza.jpg | https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_(Vicenza).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/ferrara-1.jpg | https://commons.wikimedia.org/wiki/File:Ferrara_Castello_Estense_28mar06_01.jpg | CC BY-SA 2.5 | Marcok - it.wikipedia.org
+highlights/ferrara-2.jpg | https://commons.wikimedia.org/wiki/File:Ferrara,_cattedrale_di_San_Giorgio_(04).jpg | CC BY-SA 4.0 | Gianni Careddu
+highlights/ferrara-3.jpg | https://commons.wikimedia.org/wiki/File:01_Palazzo_dei_Diamanti_-_Ferrara.jpg | CC BY-SA 2.5 | Lungoleno
+highlights/ferrara-4.jpg | https://commons.wikimedia.org/wiki/File:Mura_di_Ferrara_00.jpg | CC BY-SA 4.0 | Nicola Quirico
+highlights/ferrara-5.jpg | https://commons.wikimedia.org/wiki/File:Ferrara,_Via_delle_Volte_(3).jpg | CC BY-SA 4.0 | Palickap
+highlights/mantua-1.jpg | https://commons.wikimedia.org/wiki/File:Mantoue_palais_ducal.jpg | CC BY-SA 4.0 | Velvet
+highlights/mantua-2.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_Te_Mantova_4.jpg | CC BY-SA 3.0 | Marcok
+highlights/mantua-3.jpg | https://commons.wikimedia.org/wiki/File:Mantova-basilica_di_sant'andrea-cupola.jpg | CC BY-SA 3.0 | Davide Papalini
+highlights/mantua-4.jpg | https://commons.wikimedia.org/wiki/File:Mantova_Piazza_delle_Erbe_4.jpg | CC BY-SA 4.0 | Zairon
+highlights/mantua-5.jpg | https://commons.wikimedia.org/wiki/File:Mantova_-_Castello_di_San_Giorgio_-_panoramio.jpg | CC BY-SA 3.0 | Andrea Albini
+highlights/urbino-1.jpg | https://commons.wikimedia.org/wiki/File:Courtyard_of_the_Ducal_Palace_of_Urbino,_Italy.jpg | CC0 | Julian Lupyan
+highlights/urbino-2.jpg | https://commons.wikimedia.org/wiki/File:Urbino,_casa_di_raffello_02.JPG | CC BY-SA 3.0 | sailko
+highlights/urbino-3.jpg | https://commons.wikimedia.org/wiki/File:Urbino_-_Duomo_di_Urbino_-_Visto_da_via_Puccinotti_(1)_-_2024-09-23_16-14-34_001.jpg | CC BY-SA 4.0 | Terragio67
+highlights/urbino-4.jpg | https://commons.wikimedia.org/wiki/File:Urbino_Fortezza_Albornoz.JPG | CC BY-SA 4.0 | Limoncellista
+highlights/vicenza-1.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_Teatro_Olimpico_(Vicenza)_scena_.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/vicenza-2.jpg | https://commons.wikimedia.org/wiki/File:Basilica_Palladiana_(Vicenza)_-_facade_on_Piazza_dei_signori.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/vicenza-3.jpg | https://commons.wikimedia.org/wiki/File:07-Villa-Rotonda-Palladio.jpg | CC BY-SA 4.0 | Quinok
+highlights/vicenza-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_Vicenza_from_Santuario_della_Madonna_di_Monte_Berico._Italy.jpg | CC BY-SA 3.0 | Ввласенко/Volodymyr Vlasenko
+highlights/vicenza-5.jpg | https://commons.wikimedia.org/wiki/File:Vicenza,_Corso_Palladio_(1).jpg | CC BY-SA 4.0 | Palickap

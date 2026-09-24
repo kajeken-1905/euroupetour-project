@@ -342,4 +342,27 @@ export const placesITExtra: Place[] = [
   place('alghero-fine_dining-1', 'alghero', 'fine_dining', 'Al Tuguri', 4.6, 'Via Maiorca 113, 07041 Alghero', '1973년 개업, 24석의 사르데냐·카탈루냐 요리 식당.', '24-seat Sardinian-Catalan restaurant opened in 1973.'),
   place('alghero-fine_dining-2', 'alghero', 'fine_dining', 'Mabrouk', 4.5, 'Via Santa Barbara 4, 07041 Alghero', '저녁에만 여는 코스형 생선 요리 전문점.', 'Evening-only fixed-menu fish restaurant.'),
   place('alghero-bakery-1', 'alghero', 'bakery', 'Bar Pasticceria Ciro', 4.4, 'Alghero, Italy', '크레마 브루치아타 등 사르데냐 과자로 유명한 제과점.', 'Pastry bar known for Sardinian sweets.'),
+
+  // —— mantua ——
+  place('mantua-fine_dining-1', 'mantua', 'fine_dining', 'Antica Osteria Ai Ranari', 4.4, 'Via Trieste 11, 46100 Mantova', '호박 토르텔리와 리소토 알라 필로타로 유명한 소박한 오스테리아.', 'Unpretentious osteria famed for pumpkin tortelli and risotto alla pilota.'),
+  place('mantua-fine_dining-2', 'mantua', 'fine_dining', 'Osteria Piazza Sordello 26', 4.4, 'Piazza Sordello 26, 46100 Mantova', '두칼레 궁전 앞 광장의 호박 토르텔리 명소.', 'Tortelli di zucca on the square facing Palazzo Ducale.'),
+  place('mantua-fine_dining-3', 'mantua', 'fine_dining', 'Osteria La Bottega', 4.4, 'Via Filippo Corridoni 44/46, 46100 Mantova', '토르텔로니 디 추카와 카푼세이 등 만토바 향토 요리.', 'Mantuan classics like pumpkin tortelloni and capunsei.'),
+
+  // —— vicenza ——
+  place('vicenza-fine_dining-1', 'vicenza', 'fine_dining', 'Trattoria Tre Visi', 4.3, 'Contrà Porti, 36100 Vicenza', '비골리·바칼라 등 가정식 베네토 요리를 내는 역사 깊은 식당.', 'Historic trattoria serving homemade Veneto dishes like bigoli and baccalà.'),
+  place('vicenza-fine_dining-2', 'vicenza', 'fine_dining', 'Trattoria Ponte delle Bele', 4.4, 'Vicenza, Italy', '구시가에서 바칼라 알라 비첸티나를 맛볼 수 있는 트라토리아.', 'Old-town trattoria for baccalà alla vicentina.'),
+  place('vicenza-fine_dining-3', 'vicenza', 'fine_dining', 'Al Pestello', 4.5, 'Vicenza, Italy', '1910년부터 이어진 식당, 저온 조리한 바칼라 알라 비첸티나.', 'Since 1910; slow-cooked baccalà alla vicentina.'),
+  place('vicenza-fine_dining-4', 'vicenza', 'fine_dining', 'Giorgio & Chiara', 4.4, 'Vicenza, Italy', '바칼라 협회가 선정한 비첸차 식당.', 'Vicenza restaurant selected by the Baccalà Confraternity.'),
+
+  // —— ferrara ——
+  place('ferrara-fine_dining-1', 'ferrara', 'fine_dining', 'Hostaria Savonarola', 4.3, 'Piazza Girolamo Savonarola 18, 44121 Ferrara', '에스텐세 성 바로 앞, 호박 카펠라치의 가정식 트라토리아.', 'Family-style trattoria by the castle, known for pumpkin cappellacci.'),
+  place('ferrara-fine_dining-2', 'ferrara', 'fine_dining', 'Trattoria Da Noemi', 4.5, 'Ferrara, Italy', '페라라 전통 요리를 정갈하게 내는 트라토리아.', 'Refined take on traditional Ferrarese cooking.'),
+  place('ferrara-fine_dining-3', 'ferrara', 'fine_dining', 'Osteria I Quattro Angeli', 4.2, 'Ferrara, Italy', '에스텐세 성이 보이는 광장의 오스테리아.', 'Osteria on the square facing Castello Estense.'),
+  place('ferrara-bakery-1', 'ferrara', 'bakery', 'Panificio Cappelli', 4.5, 'Ferrara, Italy', '40년 넘은 빵집 겸 트라토리아, 페라라 꽈배기빵 코피아가 유명.', 'Bakery-trattoria of 40+ years, known for Ferrara\'s coppia bread.'),
+
+  // —— urbino ——
+  place('urbino-fine_dining-1', 'urbino', 'fine_dining', 'Osteria Km 0', 4.5, 'Urbino, Italy', '대성당 앞, 크레샤 스폴리아타와 지역 식재료 요리.', 'Facing the cathedral; crescia sfogliata and local produce.'),
+  place('urbino-fine_dining-2', 'urbino', 'fine_dining', 'Ragno D\'Oro', 4.5, 'Urbino, Italy', '성벽 밖 라파엘로 기념비 옆, 크레샤 스폴리아타 명소.', 'Just outside the walls by Raphael\'s monument; famed for crescia.'),
+  place('urbino-fine_dining-3', 'urbino', 'fine_dining', 'Il Girarrosto', 4.3, 'Urbino, Italy', '크레샤와 구운 고기를 내는 우르비노의 오래된 식당.', 'Historic spot for crescia and grilled meats.'),
+  place('urbino-fine_dining-4', 'urbino', 'fine_dining', 'Il Cortegiano', 4.2, 'Urbino, Italy', '대성당이 보이는 테라스의 레스토랑.', 'Restaurant with a terrace overlooking the cathedral.'),
 ]
