@@ -145,3 +145,20 @@ highlights/london-15.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Wes
 
 # London: Big Ben (2026-09-25)
 highlights/london-2.jpg | https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunset_-_2014-10-27_17-30.jpg | CC BY-SA 4.0 | Colin
+
+# Ireland/Switzerland photo fixes (2026-09-25)
+cities/galway.jpg | https://commons.wikimedia.org/wiki/File:River_Corrib_and_The_Long_Walk,_Galway_(506191)_(25819624134).jpg | CC BY 2.0 | Robert Linsdell from St. Andrews, Canada
+highlights/dublin-3.jpg | https://commons.wikimedia.org/wiki/File:Dublin_-_Guinness_Storehouse_-_20160907154622.jpg | CC BY-SA 4.0 | Dieglop
+highlights/basel-1.jpg | https://commons.wikimedia.org/wiki/File:View_of_Basel_Minster.JPG | CC BY-SA 3.0 | Bic
+highlights/basel-2.jpg | https://commons.wikimedia.org/wiki/File:Basel_BS_Kunstmuseum_Basel_Hauptbau_Innenhof_St._Alban-Graben_16.jpg | CC BY-SA 4.0 | PantaRhei
+highlights/basel-4.jpg | https://commons.wikimedia.org/wiki/File:Basel-Rathaus-10-gje.jpg | CC BY-SA 4.0 | Gerd Eichmann
+highlights/zermatt-1.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_as_seen_from_Zermatt,_Wallis,_Switzerland,_2012_August.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/zermatt-3.jpg | https://commons.wikimedia.org/wiki/File:Bahnhofstrasse_(Zermatt)_12.jpg | CC BY-SA 4.0 | Abxbay
+highlights/zermatt-5.jpg | https://commons.wikimedia.org/wiki/File:MATTERHORN_MUSEUM_ZERMATLANTIS_Walliser_Käse.jpg | CC BY-SA 4.0 | Evelyscher
+cities/lausanne.jpg | https://commons.wikimedia.org/wiki/File:Lausanne_Panorama_2.JPG | CC BY-SA 3.0 | Zairon
+highlights/lausanne-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_@_Lausanne_(36067419974).jpg | CC BY 2.0 | Guilhem Vellut from Annecy, France
+highlights/lausanne-3.jpg | https://commons.wikimedia.org/wiki/File:Lausanne,_Switzerland_-_panoramio_(34).jpg | CC BY-SA 3.0 | Tom Key
+highlights/lugano-1.jpg | https://commons.wikimedia.org/wiki/File:Lugano.Promenade.jpg | Public domain | Wici
+highlights/lugano-5.jpg | https://commons.wikimedia.org/wiki/File:Parco_Ciani_am_Lago_di_Lugano_in_Lugano_(2013).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/montreux-2.jpg | https://commons.wikimedia.org/wiki/File:Blossoms_and_Platanus_trees_by_lake_Geneva.jpg | CC BY-SA 4.0 | Dghosal
+highlights/montreux-4.jpg | https://commons.wikimedia.org/wiki/File:Marché_couvert_de_Montreux,_à_gauche_la_statue_de_Freddie_Mercury.jpg | CC BY-SA 4.0 | Chrissyway

@@ -8974,10 +8974,10 @@ export const cities: City[] = [
       },
       {
         id: "montreux-h4",
-        name: { ko: "구시가 시장", en: "Old Town market" },
-        description: { ko: "언덕 위 골목과 시장입니다.", en: "Hill lanes and market." },
+        name: { ko: "몽트뢰 시장 (마르셰 쿠베르)", en: "Montreux Market (Marché Couvert)" },
+        description: { ko: "호숫가 철제 지붕 아래 매주 금요일 장이 서는 시장입니다.", en: "Lakeside covered market hall that hosts the Friday market." },
         image: "/highlights/montreux-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Montreux%20Old%20Town",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20couvert%20Montreux",
       },
       {
         id: "montreux-h5",
