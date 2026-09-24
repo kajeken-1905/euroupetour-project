@@ -365,4 +365,10 @@ export const placesITExtra: Place[] = [
   place('urbino-fine_dining-2', 'urbino', 'fine_dining', 'Ragno D\'Oro', 4.5, 'Urbino, Italy', '성벽 밖 라파엘로 기념비 옆, 크레샤 스폴리아타 명소.', 'Just outside the walls by Raphael\'s monument; famed for crescia.'),
   place('urbino-fine_dining-3', 'urbino', 'fine_dining', 'Il Girarrosto', 4.3, 'Urbino, Italy', '크레샤와 구운 고기를 내는 우르비노의 오래된 식당.', 'Historic spot for crescia and grilled meats.'),
   place('urbino-fine_dining-4', 'urbino', 'fine_dining', 'Il Cortegiano', 4.2, 'Urbino, Italy', '대성당이 보이는 테라스의 레스토랑.', 'Restaurant with a terrace overlooking the cathedral.'),
+
+  // —— positano ——
+  place('positano-fine_dining-1', 'positano', 'fine_dining', 'Da Vincenzo', 4.6, 'Viale Pasitea 172, 84017 Positano', '1958년 개업, 절벽 속 가족 레스토랑. 해산물 스칼라티엘리가 대표 메뉴.', 'Family restaurant in the cliffside since 1958, known for seafood scialatielli.'),
+  place('positano-fine_dining-2', 'positano', 'fine_dining', 'Chez Black', 4.2, 'Via del Brigantino 19, 84017 Positano', '1949년 개업, 스피아자 그란데 해변 바로 앞의 해산물 레스토랑.', 'Beachfront seafood institution on Spiaggia Grande since 1949.'),
+  place('positano-bakery-1', 'positano', 'bakery', 'La Zagara', 4.3, 'Via dei Mulini 8, 84017 Positano', '델리치아 알 리모네 등 쇼윈도 디저트로 유명한 제과점.', 'Pastry shop famed for its window of desserts like delizia al limone.'),
+  place('positano-bakery-2', 'positano', 'bakery', 'Collina Bakery', 4.5, 'Positano, Italy', '페이스트리·샌드위치·티라미수를 파는 합리적인 가격의 베이커리 카페.', 'Well-priced bakery café for pastries, sandwiches and tiramisu.'),
 ]

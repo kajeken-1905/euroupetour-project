@@ -220,3 +220,9 @@ highlights/vicenza-2.jpg | https://commons.wikimedia.org/wiki/File:Basilica_Pall
 highlights/vicenza-3.jpg | https://commons.wikimedia.org/wiki/File:07-Villa-Rotonda-Palladio.jpg | CC BY-SA 4.0 | Quinok
 highlights/vicenza-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_Vicenza_from_Santuario_della_Madonna_di_Monte_Berico._Italy.jpg | CC BY-SA 3.0 | Ввласенко/Volodymyr Vlasenko
 highlights/vicenza-5.jpg | https://commons.wikimedia.org/wiki/File:Vicenza,_Corso_Palladio_(1).jpg | CC BY-SA 4.0 | Palickap
+cities/positano.jpg | https://commons.wikimedia.org/wiki/File:Positano_(Italy)_03.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/positano-1.jpg | https://commons.wikimedia.org/wiki/File:Blick_auf_die_Spiaggia_Grande_(Positano)_von_der_Via_Cristoforo_Colombo_-_02.jpg | CC0 | Rudolfo Kithera
+highlights/positano-2.jpg | https://commons.wikimedia.org/wiki/File:Santa_Maria_Assunta_(Positano)_02.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/positano-3.jpg | https://commons.wikimedia.org/wiki/File:Sentiero_degli_Dei_15_Campania.jpg | CC BY-SA 3.0 | <a href="//commons.wikimedia.org/wiki/File:Emblem-camera.svg"
+highlights/positano-4.jpg | https://commons.wikimedia.org/wiki/File:Positano_-_Fornillo_Beach.jpg | CC BY-SA 4.0 | Mihael Grmek
+highlights/positano-5.jpg | https://commons.wikimedia.org/wiki/File:Positano_at_dusk,_Amalfi_Coast,_Italy.jpg | CC BY 2.0 | Eric Hossinger

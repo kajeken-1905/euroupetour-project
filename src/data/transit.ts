@@ -3842,6 +3842,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  positano: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '기차역이 없습니다. 소렌토·아말피에서 SITA 버스를 타거나, 여름에는 아말피·살레르노·카프리에서 페리로 옵니다. 마을 안은 계단길 도보입니다.',
+      en: 'No railway—take the SITA bus from Sorrento or Amalfi, or summer ferries from Amalfi, Salerno and Capri. Getting around town means steps on foot.',
+    },
+    apps: [
+    ],
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],

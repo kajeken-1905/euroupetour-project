@@ -7167,6 +7167,55 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "positano",
+    countryId: "it",
+    lat: 40.6281,
+    lng: 14.485,
+    signatureImage: "/cities/positano.jpg",
+    name: { ko: "포지타노", en: "Positano" },
+    nativeName: "Positano",
+    blurb: {
+      ko: "절벽을 따라 파스텔빛 집들이 바다로 쏟아져 내리는 아말피 해안의 대표 마을입니다.", en: "The Amalfi Coast's iconic village of pastel houses tumbling down to the sea.",
+    },
+    highlights: [
+      {
+        id: "positano-h1",
+        name: { ko: "스피아자 그란데", en: "Spiaggia Grande" },
+        description: { ko: "마을 아래 펼쳐진 대표 해변입니다.", en: "The main beach below the village." },
+        image: "/highlights/positano-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Spiaggia%20Grande%20Positano",
+      },
+      {
+        id: "positano-h2",
+        name: { ko: "산타 마리아 아순타 성당", en: "Santa Maria Assunta" },
+        description: { ko: "마졸리카 타일 돔이 빛나는 성당입니다.", en: "Church with a gleaming majolica-tiled dome." },
+        image: "/highlights/positano-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chiesa%20di%20Santa%20Maria%20Assunta%20Positano",
+      },
+      {
+        id: "positano-h3",
+        name: { ko: "신들의 길", en: "Path of the Gods" },
+        description: { ko: "해안 절벽 위를 걷는 유명한 하이킹 코스입니다.", en: "Famous clifftop hike above the coast." },
+        image: "/highlights/positano-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sentiero%20degli%20Dei",
+      },
+      {
+        id: "positano-h4",
+        name: { ko: "포르닐로 해변", en: "Fornillo Beach" },
+        description: { ko: "산책로로 이어진 한적한 해변입니다.", en: "Quieter beach reached by a coastal path." },
+        image: "/highlights/positano-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Spiaggia%20di%20Fornillo",
+      },
+      {
+        id: "positano-h5",
+        name: { ko: "마을 전망", en: "Village viewpoint" },
+        description: { ko: "절벽에 층층이 쌓인 마을 전경을 보는 곳입니다.", en: "Classic view of the village stacked on the cliff." },
+        image: "/highlights/positano-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Positano%20viewpoint",
+      }
+    ],
+  },
+  {
     id: "bologna",
     countryId: "it",
     lat: 44.4949,
