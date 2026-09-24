@@ -118,3 +118,8 @@ highlights/edinburgh-3.jpg | https://commons.wikimedia.org/wiki/File:The_Royal_M
 highlights/edinburgh-6.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_Scotland.jpg | CC BY-SA 3.0 | No machine-readable author provided. Maccoinnich~commonswiki assumed (based on copyright cl
 highlights/edinburgh-7.jpg | https://commons.wikimedia.org/wiki/File:Grassmarket,_Edinburgh,_Scotland.jpg | CC BY 2.0 | rboed*
 highlights/edinburgh-2.jpg | image supplied by the site owner (Edinburgh.png) | not a Commons image | -
+
+# France highlight replacements (2026-09-24)
+highlights/lyon-2.jpg | https://commons.wikimedia.org/wiki/File:Basilique_de_Fourvière_from_Saone_(Lyon).jpg | CC BY-SA 3.0 | MickaëlG
+highlights/chamonix-3.jpg | https://commons.wikimedia.org/wiki/File:Chamonix-Mont-Blanc_Centre_Village.jpg | CC BY-SA 4.0 | Zairon
+highlights/marseille-2.jpg | https://commons.wikimedia.org/wiki/File:Marseille_Basilique_Notre-Dame-de-la-Garde_Extérieure_Dôme_4.jpg | CC BY-SA 4.0 | Zairon
