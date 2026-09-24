@@ -87,7 +87,11 @@ export const countries: Country[] = [
       background: '#E8EEF7',
       text: '#0A1628',
     },
-    cityIds: ['london', 'edinburgh', 'manchester', 'bath', 'oxford', 'cambridge', 'liverpool', 'brighton', 'york', 'bristol'],
+    cityIds: ['london', 'oxford', 'cambridge', 'brighton', 'bath', 'bristol', 'manchester', 'liverpool', 'york', 'edinburgh'],
+    cityGroups: [
+      { title: { ko: '잉글랜드', en: 'England' }, cityIds: ['london', 'oxford', 'cambridge', 'brighton', 'bath', 'bristol', 'manchester', 'liverpool', 'york'] },
+      { title: { ko: '스코틀랜드', en: 'Scotland' }, cityIds: ['edinburgh'] },
+    ],
   },
   {
     id: 'ie',
