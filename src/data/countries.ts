@@ -29,7 +29,12 @@ export const countries: Country[] = [
       background: '#EEF0F8',
       text: '#0A0A30',
     },
-    cityIds: ['paris', 'lyon', 'marseille', 'nice', 'bordeaux', 'strasbourg', 'annecy', 'avignon', 'toulouse', 'montpellier', 'dijon', 'chamonix', 'cannes', 'mont-saint-michel'],
+    cityIds: ['paris', 'mont-saint-michel', 'strasbourg', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'],
+    cityGroups: [
+      { title: { ko: '북부', en: 'Northern France' }, cityIds: ['paris', 'mont-saint-michel', 'strasbourg'] },
+      { title: { ko: '중부', en: 'Central France' }, cityIds: ['dijon', 'lyon', 'annecy', 'chamonix'] },
+      { title: { ko: '남부', en: 'Southern France' }, cityIds: ['bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'] },
+    ],
   },
   {
     id: 'mc',
@@ -299,7 +304,12 @@ export const countries: Country[] = [
       background: '#F5F5F5',
       text: '#1A1A1A',
     },
-    cityIds: ['berlin', 'munich', 'hamburg', 'cologne', 'frankfurt', 'dresden', 'heidelberg', 'nuremberg', 'stuttgart', 'leipzig', 'rothenburg', 'potsdam'],
+    cityIds: ['hamburg', 'berlin', 'potsdam', 'cologne', 'frankfurt', 'leipzig', 'dresden', 'heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'munich'],
+    cityGroups: [
+      { title: { ko: '북부', en: 'Northern Germany' }, cityIds: ['hamburg', 'berlin', 'potsdam'] },
+      { title: { ko: '중부', en: 'Central Germany' }, cityIds: ['cologne', 'frankfurt', 'leipzig', 'dresden'] },
+      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'munich'] },
+    ],
   },
   {
     id: 'be',
