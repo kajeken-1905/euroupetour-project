@@ -1291,7 +1291,7 @@ export const cities: City[] = [
       {
         id: "remich-h4",
         name: { ko: "나비 정원", en: "Butterfly Garden" },
-        description: { ko: "근교의 열대 나비 온실 명소입니다.", en: "A nearby tropical butterfly greenhouse." },
+        description: { ko: "레미히에서 모젤강을 따라 약 20km 떨어진 그레벤마허의 열대 나비 온실입니다.", en: "Tropical butterfly greenhouse in Grevenmacher, about 20 km down the Moselle." },
         image: "/highlights/remich-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jardins%20des%20Papillons%20Grevenmacher",
       },

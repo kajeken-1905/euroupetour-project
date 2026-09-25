@@ -191,3 +191,44 @@ highlights/stuttgart-5.jpg | https://commons.wikimedia.org/wiki/File:Canstatter_
 cities/rothenburg.jpg | https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_BW_2008-07-01_16-39-18.jpg | CC BY-SA 4.0 | Berthold Werner
 highlights/rothenburg-2.jpg | https://commons.wikimedia.org/wiki/File:Plönlein,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_38.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/nuremberg-2.jpg | https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_Frauenkirche_4669.jpg | CC BY-SA 4.0 | Hubertl
+
+# Belgium / Netherlands / Luxembourg / Coimbra photo review (2026-09-25)
+cities/brussels.jpg | https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_Bélgica,_2021-12-15,_DD_184-186_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/brussels-1.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Brussels,_10_July_2026.jpg | CC BY-SA 4.0 | Danny William Wilson
+highlights/brussels-4.jpg | https://commons.wikimedia.org/wiki/File:Bruxelles_-_Église_Sainte-Catherine_(40333328593).jpg | CC BY 2.0 | Fred Romero from Paris, France
+cities/bruges.jpg | https://commons.wikimedia.org/wiki/File:Rozenhoedkaai_(canal)_and_Belfry_of_Bruges,_Bruges,_Belgium_(Ank_Kumar,_Infosys_Limited)_01.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/bruges-3.jpg | https://commons.wikimedia.org/wiki/File:Belgium-5966_-_Canal_Ride_(13901861834).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+highlights/bruges-6.jpg | https://commons.wikimedia.org/wiki/File:Brugge_Dijver_R01.jpg | CC BY 3.0 | Marc Ryckaert
+cities/ghent.jpg | https://commons.wikimedia.org/wiki/File:Graslei_Ghent.jpg | CC BY-SA 4.0 | Martinvl
+highlights/ghent-4.jpg | https://commons.wikimedia.org/wiki/File:Gent_-_Het_Belfort_van_Gent_(48186963176).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/ghent-6.jpg | https://commons.wikimedia.org/wiki/File:Smakedificio.jpg | Public domain | Cristina Pastor
+cities/antwerp.jpg | https://commons.wikimedia.org/wiki/File:Brabo_Fountain_and_Antwerpen_Cathedral.jpg | CC BY 4.0 | Ankermast
+cities/leuven.jpg | https://commons.wikimedia.org/wiki/File:Leuven_Grote_Markt.JPG | CC BY-SA 3.0 | Latinista
+highlights/leuven-2.jpg | https://commons.wikimedia.org/wiki/File:20091015_leuven_biblio.jpg | CC BY-SA 4.0 | Jean Housen
+cities/dinant.jpg | https://commons.wikimedia.org/wiki/File:Dinant_JPG01.jpg | CC BY 2.0 | Jean-Pol GRANDMONT
+cities/amsterdam.jpg | https://commons.wikimedia.org/wiki/File:Colorful_windows_and_canal_houses_at_blue_hour_with_water_reflection_in_Damrak_Amsterdam_Netherlands.jpg | CC BY-SA 4.0 | Basile Morin
+highlights/amsterdam-3.jpg | https://commons.wikimedia.org/wiki/File:Van_Gogh_Museum,_Kurokawa_wing.jpg | CC BY 4.0 | Sebastian Koppehel
+cities/rotterdam.jpg | https://commons.wikimedia.org/wiki/File:Skyline-rotterdam-_erasmusbrug-wilhelminapier_(27922388397).jpg | CC BY 2.0 | Leo Luijten from Netherlands
+cities/the-hague.jpg | https://commons.wikimedia.org/wiki/File:Den_Haag,_het_Binnenhof_diverse_RM_met_de_Hofvijver_op_de_voorgrond_foto8_2015-08-05_18.56.jpg | CC BY-SA 4.0 | Michielverbeek
+highlights/the-hague-1.jpg | https://commons.wikimedia.org/wiki/File:Denhaag_paleis_noordeinde.jpg | Public domain | Wikifrits
+highlights/the-hague-3.jpg | https://commons.wikimedia.org/wiki/File:Mauritishuis_Museum_1822_Koninklijk_Kabinet_van_Schilderijen_Mauritshuis_in_Den_Haag_Niederlande_Foto_Wolfgang_Pehlemann_IMG_1226.jpg | CC BY-SA 3.0 de | Wolfgang Pehlemann
+highlights/the-hague-6.jpg | https://commons.wikimedia.org/wiki/File:Madurodam_pays_bas.JPG | CC BY-SA 2.5 | Cqui
+cities/utrecht.jpg | https://commons.wikimedia.org/wiki/File:Utrecht,_de_Domtoren_(RM36075)_vanaf_de_Oudegracht_230_ongeveer_foto5_2015-11-01_08.56.jpg | CC BY-SA 4.0 | Michielverbeek
+cities/haarlem.jpg | https://commons.wikimedia.org/wiki/File:Grote_Markt_Stadthuis_Harlem.jpg | CC BY-SA 4.0 | unknown
+cities/delft.jpg | https://commons.wikimedia.org/wiki/File:Nieuwe-Kerk-vanuit-het-westen.JPG | Public domain | Taks
+highlights/delft-4.jpg | https://commons.wikimedia.org/wiki/File:Oude_Kerk_-_Delft_-_interior_-_arcade_separating_north_aisle_from_the_nave.jpg | CC BY-SA 4.0 | AgainErick
+highlights/maastricht-3.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_University_2019.jpg | CC BY-SA 4.0 | Vysotsky
+cities/giethoorn.jpg | https://commons.wikimedia.org/wiki/File:Giethoorn_Netherlands_Channels-and-houses-of-Giethoorn-06.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+cities/luxembourg-city.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg,_Grund_panorama_07.2023_(101).jpg | CC BY-SA 4.0 | GilPe
+highlights/luxembourg-city-2.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg-5106_-_Chemin_de_la_Corniche_(12726455424).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+highlights/luxembourg-city-3.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Casemates_(21).jpg | CC BY-SA 3.0 | LoKiLeCh
+highlights/luxembourg-city-4.jpg | https://commons.wikimedia.org/wiki/File:Philharmonie_Luxembourg_01.jpg | CC BY-SA 4.0 | Geugeor
+cities/vianden.jpg | https://commons.wikimedia.org/wiki/File:Vianden_Castle_and_town.jpg | CC BY-SA 4.0 | EEJCC
+cities/echternach.jpg | https://commons.wikimedia.org/wiki/File:Echternach_-_Porte_St_Willibrord_-_Panorama_View_the_Basilica_Entrance_on_1737_Baroque_architecture_02.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/echternach-1.jpg | https://commons.wikimedia.org/wiki/File:Lac_de_Echternach_1.jpg | CC BY-SA 3.0 | Michiel1972
+highlights/echternach-2.jpg | https://commons.wikimedia.org/wiki/File:SAINT_WILLIBRORD_BASILICA_ECHTERNACH,_Lu.jpg | CC BY-SA 4.0 | Denise Hastert
+cities/remich.jpg | https://commons.wikimedia.org/wiki/File:Moselle_River_in_Remich_2008_(2).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/remich-4.jpg | https://commons.wikimedia.org/wiki/File:Schmetterlingshaus_Grevenmacher.jpg | CC BY-SA 3.0 | Viatoris
+highlights/coimbra-1.jpg | https://commons.wikimedia.org/wiki/File:Coimbra_University_Tower_2.jpg | Public domain | Elapsed at English Wikip
+highlights/coimbra-2.jpg | https://commons.wikimedia.org/wiki/File:Biblioteca_Joanina_(4782245244).jpg | CC BY 2.0 | Varun Shiv Kapur from New Delhi, India
+highlights/ghent-2.jpg | https://commons.wikimedia.org/wiki/File:Western_facade_of_Saint_Bavo's_Cathedral,_Ghent_01.jpg | CC BY-SA 4.0 | John Samuel
