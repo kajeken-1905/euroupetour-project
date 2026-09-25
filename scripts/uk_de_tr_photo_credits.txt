@@ -232,3 +232,13 @@ highlights/remich-4.jpg | https://commons.wikimedia.org/wiki/File:Schmetterlings
 highlights/coimbra-1.jpg | https://commons.wikimedia.org/wiki/File:Coimbra_University_Tower_2.jpg | Public domain | Elapsed at English Wikip
 highlights/coimbra-2.jpg | https://commons.wikimedia.org/wiki/File:Biblioteca_Joanina_(4782245244).jpg | CC BY 2.0 | Varun Shiv Kapur from New Delhi, India
 highlights/ghent-2.jpg | https://commons.wikimedia.org/wiki/File:Western_facade_of_Saint_Bavo's_Cathedral,_Ghent_01.jpg | CC BY-SA 4.0 | John Samuel
+
+# Iceland photo review (2026-09-25)
+landmarks/landmark-is.jpg | https://commons.wikimedia.org/wiki/File:Skógafoss_Waterfall,_Iceland,_20240720_1318_2975.jpg | CC BY 4.0 | Jakub Hałun
+highlights/reykjavik-2.jpg | https://commons.wikimedia.org/wiki/File:Icelandic_Coast_Guard_ship_and_Harpa_concert_hall.jpg | CC0 | Ypsilon from Finland
+highlights/reykjavik-5.jpg | https://commons.wikimedia.org/wiki/File:Blue_Lagoon_with_Þorbjörn,_Iceland,_20230430_1626_3692.jpg | CC BY-SA 4.0 | Jakub Hałun
+cities/akureyri.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Akureyri.jpg | CC BY-SA 2.0 | Jonathan Sewell from Chesterfield, England
+cities/vik.jpg | https://commons.wikimedia.org/wiki/File:A_village_church_in_winter_(Unsplash).jpg | CC0 | Jon Flobrant jonflobrant
+highlights/vik-5.jpg | https://commons.wikimedia.org/wiki/File:Seljalandsfoss_-_panoramio_(7).jpg | CC BY-SA 3.0 | Zoran Kurelić Rabko
+cities/selfoss.jpg | https://commons.wikimedia.org/wiki/File:Selfoss_in_summer_2009_(5).jpg | CC BY 3.0 | Chmee2
+highlights/selfoss-2.jpg | https://commons.wikimedia.org/wiki/File:Gullfoss,_Suðurland,_Islandia,_2014-08-16,_DD_119.JPG | CC BY-SA 4.0 | Diego Delso
