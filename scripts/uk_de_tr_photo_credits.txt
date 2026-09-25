@@ -242,3 +242,41 @@ cities/vik.jpg | https://commons.wikimedia.org/wiki/File:A_village_church_in_win
 highlights/vik-5.jpg | https://commons.wikimedia.org/wiki/File:Seljalandsfoss_-_panoramio_(7).jpg | CC BY-SA 3.0 | Zoran Kurelić Rabko
 cities/selfoss.jpg | https://commons.wikimedia.org/wiki/File:Selfoss_in_summer_2009_(5).jpg | CC BY 3.0 | Chmee2
 highlights/selfoss-2.jpg | https://commons.wikimedia.org/wiki/File:Gullfoss,_Suðurland,_Islandia,_2014-08-16,_DD_119.JPG | CC BY-SA 4.0 | Diego Delso
+
+# Nordic photo review (2026-09-25)
+cities/copenhagen.jpg | https://commons.wikimedia.org/wiki/File:Nyhavn,_Copenhagen,_20220618_1726_7351.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/copenhagen-1.jpg | https://commons.wikimedia.org/wiki/File:Frederik_V_statue_in_Amalienborg_Palace_-_DSC07144.JPG | CC0 | Daderot
+cities/aarhus.jpg | https://commons.wikimedia.org/wiki/File:Aarhus_to_Samsø_passenger_ferry_Lilleøre_in_Aarhus_harbour_Denmark_02.jpg | CC BY-SA 4.0 | Ciara Ní Riain
+highlights/aarhus-3.jpg | https://commons.wikimedia.org/wiki/File:Latinerfestival_(Aarhus).jpg | CC BY-SA 4.0 | RhinoMind
+cities/odense.jpg | https://commons.wikimedia.org/wiki/File:Odense_Altstadt.JPG | Public domain | unknown
+highlights/odense-1.jpg | https://commons.wikimedia.org/wiki/File:H.C._Andersens_Hus_(Geburtshaus).JPG | CC BY-SA 2.0 de | Marco Kahlund, (Benutzer:mk-sl)
+highlights/odense-2.jpg | https://commons.wikimedia.org/wiki/File:Hans_Jensens_Stræde,_Odense_1.jpg | CC BY 4.0 | JakobHosp
+cities/roskilde.jpg | https://commons.wikimedia.org/wiki/File:Roskilde_Cathedral_aerial.jpg | CC BY 2.0 | CucombreLibre from New York, NY, USA
+cities/stockholm.jpg | https://commons.wikimedia.org/wiki/File:Stockhoim_-_Gamla_Stan_(3343920277).jpg | CC BY-SA 2.0 | Roger W from Sarasota, Florida, U.S.A.
+highlights/stockholm-1.jpg | https://commons.wikimedia.org/wiki/File:Royal_Castle_in_Stockholm_(by_Pudelek).jpg | CC BY-SA 4.0 | Pudelek
+cities/gothenburg.jpg | https://commons.wikimedia.org/wiki/File:Gothenburg_Canals_(15182348247).jpg | CC BY 2.0 | Tony Webster from Portland, Oregon, United States
+cities/malmo.jpg | https://commons.wikimedia.org/wiki/File:Turning_torso_by_night1.jpg | CC BY 2.0 | bjaglin from Lund, Sweden
+cities/uppsala.jpg | https://commons.wikimedia.org/wiki/File:Uppsala_cathedral,_northern_side,_from_the_Fyris_river.jpg | Public domain | Szilas
+cities/kiruna.jpg | https://commons.wikimedia.org/wiki/File:Kiruna_September_2017_01.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/kiruna-4.jpg | https://commons.wikimedia.org/wiki/File:Kiruna_Mine_at_Sunset.jpg | CC BY 4.0 | -tacitos-
+cities/helsinki.jpg | https://commons.wikimedia.org/wiki/File:Helsinki_skyline_banner.jpg | CC BY-SA 4.0 | Helen Ilus
+highlights/helsinki-3.jpg | https://commons.wikimedia.org/wiki/File:Kanavakatu_4_Helsinki_20180304.jpg | CC0 | Estormiz
+highlights/helsinki-4.jpg | https://commons.wikimedia.org/wiki/File:Market_Square_in_Helsinki,_Finland,_2024_May.jpg | CC BY 4.0 | Tuula Sipilä
+cities/turku.jpg | https://commons.wikimedia.org/wiki/File:Cindy_Turku_on_the_Aura_River_01.jpg | CC0 | Tochiprecious
+highlights/turku-3.jpg | https://commons.wikimedia.org/wiki/File:Papa_Joe_Turku_on_the_Aura_River.jpg | CC0 | Tochiprecious
+cities/tampere.jpg | https://commons.wikimedia.org/wiki/File:Tammerkoski_in_Tampere,_Finland,_2024_July.jpg | CC BY 2.0 | Pete
+highlights/tampere-1.jpg | https://commons.wikimedia.org/wiki/File:Pyynikki_observation_tower_on_5th_January_2016_3.jpg | CC BY-SA 4.0 | Lauren Stevens
+cities/rovaniemi.jpg | https://commons.wikimedia.org/wiki/File:Rovaniemi_-The_”Lumberjack's_Candle_Bridge3.jpg | CC BY 2.0 | Tarja Mitrovic
+cities/porvoo.jpg | https://commons.wikimedia.org/wiki/File:Old_Porvoo_riverside.jpg | CC BY-SA 3.0 | kallerna
+highlights/porvoo-3.jpg | https://commons.wikimedia.org/wiki/File:Shore_houses_in_Porvoo.jpg | CC BY-SA 4.0 | Mylsar
+cities/oslo.jpg | https://commons.wikimedia.org/wiki/File:New_Opera_in_Oslo.jpg | CC BY-SA 4.0 | Pudelek (Marcin Szala)
+highlights/oslo-1.jpg | https://commons.wikimedia.org/wiki/File:00_7737_Royal_Palace,_Oslo.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/oslo-2.jpg | https://commons.wikimedia.org/wiki/File:Oslo_Opera_house_(2015)(2).jpg | CC BY-SA 4.0 | Beata May
+cities/bergen.jpg | https://commons.wikimedia.org/wiki/File:Bryggen-Bergen-April-2011_01.jpg | CC BY 4.0 | Acediscovery
+highlights/bergen-3.jpg | https://commons.wikimedia.org/wiki/File:"Lecker!"_Der_Fischmarkt_in_Bergen._01.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+cities/tromso.jpg | https://commons.wikimedia.org/wiki/File:Tromsø_vom_Fjellheisen_aus_gesehen.jpg | CC BY-SA 4.0 | JoachimKohlerBremen
+cities/stavanger.jpg | https://commons.wikimedia.org/wiki/File:Stavanger_harbour_01.jpg | CC BY 2.0 | Guillaume Baviere from Helsingborg, Sweden
+cities/trondheim.jpg | https://commons.wikimedia.org/wiki/File:Nidelva_Warehouses_Trondheim_2009_2.JPG | CC BY-SA 3.0 | User:Sveter (Please credit as "Petr Šmerkl, Wikipedia" in case you use this outside WMF projects.)
+cities/alesund.jpg | https://commons.wikimedia.org/wiki/File:"Alesund_ist_berühmt_für_seine_Jugendstilarchitektur"._14.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/alesund-3.jpg | https://commons.wikimedia.org/wiki/File:Giske_DSC_0297.jpg | CC BY-SA 3.0 | GangerRolf
+cities/flam.jpg | https://commons.wikimedia.org/wiki/File:Flåm_2013_06_03_1807.jpg | CC BY-SA 2.0 | Harvey Barrison from Massapequa, NY, USA
