@@ -280,3 +280,17 @@ cities/trondheim.jpg | https://commons.wikimedia.org/wiki/File:Nidelva_Warehouse
 cities/alesund.jpg | https://commons.wikimedia.org/wiki/File:"Alesund_ist_berühmt_für_seine_Jugendstilarchitektur"._14.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
 highlights/alesund-3.jpg | https://commons.wikimedia.org/wiki/File:Giske_DSC_0297.jpg | CC BY-SA 3.0 | GangerRolf
 cities/flam.jpg | https://commons.wikimedia.org/wiki/File:Flåm_2013_06_03_1807.jpg | CC BY-SA 2.0 | Harvey Barrison from Massapequa, NY, USA
+
+# Landmark illustrations -> photos (2026-09-25)
+landmarks/landmark-uk.jpg | https://commons.wikimedia.org/wiki/File:Tower_Bridge_golden_hour.jpg | CC BY-SA 2.5 ca | The Cosmonaut
+landmarks/landmark-be.jpg | https://commons.wikimedia.org/wiki/File:2018_flower_carpet_at_Grand_Place,_Brussels_(DSCF6849).jpg | CC BY 4.0 | Trougnouf (Benoit Brummer)
+landmarks/landmark-nl.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam_Canal_Houses_(Unsplash).jpg | CC0 | Kaci Baum kacibaum
+landmarks/landmark-lu.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Grund_from_Verlorenkost_01.jpg | CC BY-SA 3.0 | Cayambe
+landmarks/landmark-dk.jpg | https://commons.wikimedia.org/wiki/File:Boats_at_Nyhavn,_Copenhagen,_20220616_1937_6628.jpg | CC BY-SA 4.0 | Jakub Hałun
+landmarks/landmark-se.jpg | https://commons.wikimedia.org/wiki/File:Riddarholmen_(by_Pudelek).JPG | CC BY-SA 4.0 | Pudelek
+landmarks/landmark-fi.jpg | https://commons.wikimedia.org/wiki/File:Catedral_Luterana_de_Helsinki,_Finlandia,_2012-08-14,_DD_14.JPG | CC BY-SA 3.0 | Diego Delso
+landmarks/landmark-no.jpg | https://commons.wikimedia.org/wiki/File:Fiordo_de_Geiranger_desde_Flydalsjuvet,_Noruega,_2019-09-07,_DD_59.jpg | CC BY-SA 4.0 | Diego Delso
+landmarks/landmark-me.jpg | https://commons.wikimedia.org/wiki/File:Bay_of_Kotor_3.jpg | CC BY-SA 4.0 | kallerna
+landmarks/landmark-fr.jpg | https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg | CC BY-SA 3.0 | Jorge Royan
+landmarks/landmark-de.jpg | https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_from_Marienbrücke,_2011_May.jpg | CC BY-SA 3.0 | Ximonic, Simo Räsänen (post-processing) & Tauno Räsänen (photograph)
+cities/aalborg.jpg | https://commons.wikimedia.org/wiki/File:Jens_Bangs_Stenhus,_Østerågade,_Aalborg.jpg | CC BY-SA 3.0 | Liberaler Humanist
