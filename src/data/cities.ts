@@ -18041,16 +18041,9 @@ export const cities: City[] = [
       {
         id: "borgo-maggiore-h2",
         name: { ko: "그란데 광장", en: "Piazza Grande" },
-        description: { ko: "마을 중심 광장입니다.", en: "Central town square." },
-        image: "/highlights/borgo-maggiore-2.svg",
+        description: { ko: "아케이드가 둘러싼 마을 중심 광장으로, 매주 목요일 전통 시장이 열립니다.", en: "Arcaded main square that hosts the traditional Thursday market." },
+        image: "/highlights/borgo-maggiore-2.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Grande%20Borgo%20Maggiore",
-      },
-      {
-        id: "borgo-maggiore-h3",
-        name: { ko: "목요 시장", en: "Thursday market" },
-        description: { ko: "매주 열리는 전통 시장입니다.", en: "Weekly traditional market." },
-        image: "/highlights/borgo-maggiore-3.svg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Borgo%20Maggiore%20market",
       }
     ],
   },

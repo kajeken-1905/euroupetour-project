@@ -166,3 +166,7 @@ highlights/montreux-4.jpg | https://commons.wikimedia.org/wiki/File:Marché_couv
 # Herceg Novi fixes (2026-09-25)
 cities/herceg-novi.jpg | https://commons.wikimedia.org/wiki/File:Herceg_Novi,_Old_Town.jpg | CC BY-SA 2.0 | Jocelyn Erskine-Kellie
 highlights/herceg-novi-3.jpg | https://commons.wikimedia.org/wiki/File:2024-02-04_Fortress_Spanjola,_Herceg_Novi_1.jpg | CC BY 4.0 | Alexkom000
+
+# San Marino fixes (2026-09-25)
+cities/san-marino-city.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_Pubblico-Repubblica_di_San_Marino_-_panoramio.jpg | CC BY-SA 3.0 | trolvag
+highlights/borgo-maggiore-2.jpg | https://commons.wikimedia.org/wiki/File:RSM-Borgo_Maggiore026.jpg | CC BY-SA 4.0 | Szeder László
