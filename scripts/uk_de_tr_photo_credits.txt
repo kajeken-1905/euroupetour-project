@@ -162,3 +162,7 @@ highlights/lugano-1.jpg | https://commons.wikimedia.org/wiki/File:Lugano.Promena
 highlights/lugano-5.jpg | https://commons.wikimedia.org/wiki/File:Parco_Ciani_am_Lago_di_Lugano_in_Lugano_(2013).jpg | CC BY-SA 4.0 | JoachimKohler-HB
 highlights/montreux-2.jpg | https://commons.wikimedia.org/wiki/File:Blossoms_and_Platanus_trees_by_lake_Geneva.jpg | CC BY-SA 4.0 | Dghosal
 highlights/montreux-4.jpg | https://commons.wikimedia.org/wiki/File:Marché_couvert_de_Montreux,_à_gauche_la_statue_de_Freddie_Mercury.jpg | CC BY-SA 4.0 | Chrissyway
+
+# Herceg Novi fixes (2026-09-25)
+cities/herceg-novi.jpg | https://commons.wikimedia.org/wiki/File:Herceg_Novi,_Old_Town.jpg | CC BY-SA 2.0 | Jocelyn Erskine-Kellie
+highlights/herceg-novi-3.jpg | https://commons.wikimedia.org/wiki/File:2024-02-04_Fortress_Spanjola,_Herceg_Novi_1.jpg | CC BY 4.0 | Alexkom000
