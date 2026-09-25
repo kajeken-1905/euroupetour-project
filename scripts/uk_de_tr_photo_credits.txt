@@ -170,3 +170,24 @@ highlights/herceg-novi-3.jpg | https://commons.wikimedia.org/wiki/File:2024-02-0
 # San Marino fixes (2026-09-25)
 cities/san-marino-city.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_Pubblico-Repubblica_di_San_Marino_-_panoramio.jpg | CC BY-SA 3.0 | trolvag
 highlights/borgo-maggiore-2.jpg | https://commons.wikimedia.org/wiki/File:RSM-Borgo_Maggiore026.jpg | CC BY-SA 4.0 | Szeder László
+
+# Germany photo review (2026-09-25)
+cities/hamburg.jpg | https://commons.wikimedia.org/wiki/File:Hamburg,_Speicherstadt,_Wasserschloss_--_2016_--_3265-71.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/hamburg-2.jpg | https://commons.wikimedia.org/wiki/File:"Cap_San_Diego"_&_Elbphilharmonie_(Hamburg,_2019).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+cities/berlin.jpg | https://commons.wikimedia.org/wiki/File:Berlin,_Brandenburger_Tor_--_2008_--_0153.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/berlin-7.jpg | https://commons.wikimedia.org/wiki/File:Berlin,_Charlottenburg,_Schloss,_2012-07_CN-03.jpg | CC BY-SA 3.0 de | kaʁstn Disk/
+cities/potsdam.jpg | https://commons.wikimedia.org/wiki/File:Alter_Markt_Potsdam_-_East_side.jpg | CC0 | Charlotte Heineccius
+highlights/potsdam-2.jpg | https://commons.wikimedia.org/wiki/File:Neues_Palais_Potsdam_-_Nordflügel_Gartenseite_01.jpg | CC BY-SA 3.0 | H. Zell
+highlights/potsdam-3.jpg | https://commons.wikimedia.org/wiki/File:Holländisches_Viertel,_Mittelstraße,_Potsdam_1.jpg | CC BY-SA 4.0 | Angel Miklashevsky
+highlights/potsdam-4.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Cecilienhof_2013.jpg | CC BY-SA 3.0 | ernstol
+cities/cologne.jpg | https://commons.wikimedia.org/wiki/File:Cologne_2_(45886931222).jpg | CC BY-SA 2.0 | Markus Trienke
+highlights/cologne-1.jpg | https://commons.wikimedia.org/wiki/File:Kölner_Dom_vom_Roncalliplatz_aus.jpg | CC BY-SA 4.0 | TeKappa
+cities/frankfurt.jpg | https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg | CC BY-SA 3.0 de | Christian Wolf (www.c-w-design.de)
+highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Sachsenhausen,_courtyard_restaurant.jpg | CC0 | Gerda Arendt
+highlights/leipzig-1.jpg | https://commons.wikimedia.org/wiki/File:Statue_of_Johann_Sebastian_Bach_at_the_St._Thomas_Church_in_Leipzig.jpg | CC BY-SA 4.0 | Yair Haklai
+cities/stuttgart.jpg | https://commons.wikimedia.org/wiki/File:Stadtansicht_Uhlandshöhe_mit_Sternwarte_Stuttgart_-_panoramio.jpg | CC BY 3.0 | Otto FARAGO
+highlights/stuttgart-4.jpg | https://commons.wikimedia.org/wiki/File:Wilhelma_Maurisches_Landhaus_qtl1.jpg | CC BY-SA 3.0 | Quartl
+highlights/stuttgart-5.jpg | https://commons.wikimedia.org/wiki/File:Canstatter_Rebhaenge-10-2014-gje.jpg | CC BY 4.0 | Gerd Eichmann
+cities/rothenburg.jpg | https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_BW_2008-07-01_16-39-18.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/rothenburg-2.jpg | https://commons.wikimedia.org/wiki/File:Plönlein,_Rothenburg_ob_der_Tauber,_Alemania,_2023-06-17,_DD_38.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/nuremberg-2.jpg | https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_Frauenkirche_4669.jpg | CC BY-SA 4.0 | Hubertl
