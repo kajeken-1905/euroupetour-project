@@ -4857,6 +4857,13 @@ export const cities: City[] = [
         description: { ko: "산 젠나로를 모신 고딕 양식 대성당입니다.", en: "Gothic cathedral dedicated to San Gennaro." },
         image: "/highlights/naples-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Naples%20Cathedral",
+      },
+      {
+        id: "naples-h7",
+        name: { ko: "나폴리 피자", en: "Neapolitan pizza" },
+        description: { ko: "마르게리타가 탄생한 피자의 본고장입니다. 50 칼로, 다 미켈레, 소르빌로 등 명소가 많습니다.", en: "Birthplace of pizza Margherita—try 50 Kalò, Da Michele or Sorbillo." },
+        image: "/highlights/naples-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=50%20Kal%C3%B2%20Napoli",
       }
     ],
   },
