@@ -538,3 +538,30 @@ highlights/ljubljana-1.jpg | https://commons.wikimedia.org/wiki/File:Gallusovo_n
 highlights/ljubljana-5.jpg | https://commons.wikimedia.org/wiki/File:Ljubljana_-_Central_Market.jpg | CC BY-SA 3.0 | Tiia Monto
 highlights/maribor-4.jpg | https://commons.wikimedia.org/wiki/File:Drava_river_and_Lent_in_Maribor_Slovenia_(50547812083).jpg | CC BY 2.0 | Jernej Furman from Maribor, Slovenia
 highlights/postojna-1.jpg | https://commons.wikimedia.org/wiki/File:Postojna_Cave._Concert_Hall._2012-07-26_13-43-03.jpg | CC BY-SA 4.0 | Shesmax
+
+# Sardinia & Corsica new cities — owner-selected photos (2026-09-26)
+cities/olbia.jpg | https://commons.wikimedia.org/wiki/File:Wv_Costa_Smeralda_banner2.jpg | Public domain | Evgeny Zhukov - User: (WT-shared) Evgeny at  wts wikivoyage
+highlights/olbia-1.jpg | https://commons.wikimedia.org/wiki/File:2018_Porto_Cervo_4.jpg | CC BY-SA 4.0 | Bärwinkel,Klaus
+highlights/olbia-2.jpg | https://commons.wikimedia.org/wiki/File:Porto_Cervo_il_porto.jpg | CC BY-SA 4.0 | Preppo456
+highlights/olbia-3.jpg | https://commons.wikimedia.org/wiki/File:Arcipelago_di_La_Maddalena_National_Park_-_panoramio_(44).jpg | CC BY-SA 3.0 | Patrick Nouhailler's…
+highlights/olbia-4.jpg | https://commons.wikimedia.org/wiki/File:San_Simplicio_Olbia_01.jpg | CC BY-SA 4.0 | Clemensfranz
+cities/cala-gonone.jpg | https://commons.wikimedia.org/wiki/File:Cala_Gonone_P1011383mod.jpg | CC BY-SA 4.0 | JYB Devot
+highlights/cala-gonone-1.jpg | https://commons.wikimedia.org/wiki/File:Cala_Luna_Grotto.jpg | CC0 | Alexander Fradellafra
+highlights/cala-gonone-2.jpg | https://commons.wikimedia.org/wiki/File:Cala_Goloritzè_13_sept._2017.jpg | CC BY-SA 4.0 | Nicola Secci
+highlights/cala-gonone-3.jpg | https://commons.wikimedia.org/wiki/File:Bue_Marino_P1011292mod.jpg | CC BY-SA 4.0 | JYB Devot
+highlights/cala-gonone-4.jpg | https://commons.wikimedia.org/wiki/File:Cala_Gonone_P1011383mod.jpg | CC BY-SA 4.0 | JYB Devot
+cities/ajaccio.jpg | https://commons.wikimedia.org/wiki/File:Ajaccio_(40419104272).jpg | CC BY 2.0 | Mike McBey
+highlights/ajaccio-2.jpg | https://commons.wikimedia.org/wiki/File:Ajaccio-Archipel_des_sanguinaires.JPG | CC BY 3.0 | Jean-Christophe BENOIST
+highlights/ajaccio-3.jpg | https://commons.wikimedia.org/wiki/File:AjaccioPalaisFesch_2018-04.jpg | CC BY-SA 4.0 | Mussklprozz
+highlights/ajaccio-4.jpg | https://commons.wikimedia.org/wiki/File:Ajaccio_phare_citadelle.jpg | CC BY-SA 3.0 | Myrabella
+cities/bonifacio.jpg | https://commons.wikimedia.org/wiki/File:Citadel_and_cliffs_of_Bonifacio_2.jpg | CC BY-SA 4.0 | Einaz80
+highlights/bonifacio-1.jpg | https://commons.wikimedia.org/wiki/File:Bonifacio,_veduta_dalla_place_manichella_01.jpg | CC BY 3.0 | Sailko
+highlights/bonifacio-2.jpg | https://commons.wikimedia.org/wiki/File:Bonifacio_falaises_escalier_roi_Aragon_2.jpg | CC BY-SA 3.0 | Myrabella
+highlights/bonifacio-3.jpg | https://commons.wikimedia.org/wiki/File:Bonifacio_port.jpg | CC BY-SA 2.0 | Matthieu FAURE
+highlights/bonifacio-4.jpg | https://commons.wikimedia.org/wiki/File:Cala_du_Chiesa_-_îles_Lavezzi.jpg | CC BY-SA 4.0 | Gzzz
+cities/calvi.jpg | https://commons.wikimedia.org/wiki/File:Citadel_of_Calvi,_Corsica,_France_(52724224695).jpg | CC BY 2.0 | dronepicr
+highlights/calvi-1.jpg | https://commons.wikimedia.org/wiki/File:0_Calvi_-_Port_et_citadelle_(1).JPG | CC BY-SA 3.0 | Jean-Pol GRANDMONT
+highlights/calvi-2.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_l'Alga_Calvi_Corse_20060518g.jpg | CC BY 4.0 | Tigerente
+highlights/calvi-3.jpg | https://commons.wikimedia.org/wiki/File:Calvi_N-D_de_La_Serra_panorama.jpg | CC BY-SA 3.0 | Pierre Bona
+highlights/calvi-4.jpg | https://commons.wikimedia.org/wiki/File:Lumio_îlot_de_Spano.jpg | CC BY-SA 4.0 | Pierre Bona
+highlights/ajaccio-1.jpg | https://commons.wikimedia.org/wiki/File:Musée_de_la_maison_Bonaparte.jpg | CC BY-SA 4.0 | Sebring12Hrs

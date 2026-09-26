@@ -211,4 +211,19 @@ export const placesFRExtra: Place[] = [
   // —— biarritz ——
   place('biarritz-bakery-1', 'biarritz', 'bakery', 'Miremont', 4.4, '1 Bis Place Georges Clemenceau, 64200 Biarritz', '1872년 개업, 바다가 보이는 비아리츠 최고(最古)의 찻집.', 'Biarritz\'s oldest tearoom (1872) with sea views.'),
   place('biarritz-fine_dining-1', 'biarritz', 'fine_dining', 'La Belloteka', 4.5, 'Les Halles, 64200 Biarritz', '레알 시장 안의 바스크 요리 식당.', 'Basque dishes in the Les Halles market.'),
+
+  // —— ajaccio ——
+  place('ajaccio-fine_dining-1', 'ajaccio', 'fine_dining', 'A Nepita', 4.6, 'Rue San Lazaro, Ajaccio', '코르시카 요리를 현대적으로 내는 아늑한 식당.', 'Cozy spot for modern Corsican cooking.'),
+  place('ajaccio-fine_dining-2', 'ajaccio', 'fine_dining', 'A Terrazza (Les Mouettes)', 4.5, 'Cours Lucien Bonaparte, Ajaccio', '아작시오만 전망 테라스의 호텔 레스토랑.', 'Hotel restaurant with a terrace over the bay.'),
+  place('ajaccio-fine_dining-3', 'ajaccio', 'fine_dining', 'Rosette et Charlotte', 4.6, 'Ajaccio, France', '제철 재료의 가정식 요리.', 'Seasonal, home-style cooking.'),
+
+  // —— bonifacio ——
+  place('bonifacio-fine_dining-1', 'bonifacio', 'fine_dining', 'Da Passano', 4.4, 'Rue du Palais de Garde, Bonifacio', '절벽 위 구시가의 코르시카 요리 레스토랑.', 'Corsican classics in the clifftop old town.'),
+  place('bonifacio-fine_dining-2', 'bonifacio', 'fine_dining', 'Kissing Pigs', 4.4, 'Quai Banda del Ferro, Bonifacio', '자체 농장 돼지로 만든 샤퀴테리 레스토랑.', 'Charcuterie from the owner\'s own farm, by the marina.'),
+  place('bonifacio-fine_dining-3', 'bonifacio', 'fine_dining', 'L\'A Cheda', 4.6, 'Bonifacio, France', '정원 텃밭 재료를 쓰는 호텔 레스토랑.', 'Hotel restaurant cooking from its own garden.'),
+
+  // —— calvi ——
+  place('calvi-fine_dining-1', 'calvi', 'fine_dining', 'Umami', 4.4, 'Quai Adolphe Landry, Calvi', '항구 앞 코르시카 요리 레스토랑.', 'Corsican cooking on the harbour quay.'),
+  place('calvi-fine_dining-2', 'calvi', 'fine_dining', 'A Casetta', 4.5, 'Calvi, France', '바다 전망 테라스의 샤퀴테리·브루스케타.', 'Sea-view terrace for charcuterie boards.'),
+  place('calvi-fine_dining-3', 'calvi', 'fine_dining', 'A Mandria di Pigna', 4.5, 'Pigna, Haute-Corse', '옛 양 우리를 개조한 코르시카 향토 요리 식당(칼비에서 차로 20분).', 'Corsican grill in an old sheepfold, 20 min from Calvi.'),
 ]

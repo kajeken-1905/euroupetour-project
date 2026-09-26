@@ -29,11 +29,12 @@ export const countries: Country[] = [
       background: '#EEF0F8',
       text: '#0A0A30',
     },
-    cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg', 'amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'],
+    cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg', 'amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice', 'ajaccio', 'bonifacio', 'calvi'],
     cityGroups: [
       { title: { ko: '북부', en: 'Northern France' }, cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg'] },
       { title: { ko: '중부', en: 'Central France' }, cityIds: ['amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix'] },
       { title: { ko: '남부', en: 'Southern France' }, cityIds: ['bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'] },
+      { title: { ko: '코르시카', en: 'Corsica' }, cityIds: ['ajaccio', 'bonifacio', 'calvi'] },
     ],
   },
   {
@@ -214,11 +215,13 @@ export const countries: Country[] = [
       background: '#E8F5EE',
       text: '#0A2A18',
     },
-    cityIds: ['milan', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'turin', 'genoa', 'portofino', 'cinque-terre', 'venice', 'verona', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'bologna', 'modena', 'parma', 'ferrara', 'ravenna', 'rome', 'florence', 'pisa', 'lucca', 'siena', 'san-gimignano', 'montepulciano', 'perugia', 'assisi', 'orvieto', 'urbino', 'naples', 'pompeii', 'sorrento', 'positano', 'amalfi', 'capri', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'matera', 'tropea', 'palermo', 'cefalu', 'agrigento', 'siracusa', 'catania', 'taormina', 'cagliari', 'alghero'],
+    cityIds: ['milan', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'turin', 'genoa', 'portofino', 'cinque-terre', 'venice', 'verona', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'bologna', 'modena', 'parma', 'ferrara', 'ravenna', 'rome', 'florence', 'pisa', 'lucca', 'siena', 'san-gimignano', 'montepulciano', 'perugia', 'assisi', 'orvieto', 'urbino', 'naples', 'pompeii', 'sorrento', 'positano', 'amalfi', 'capri', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'matera', 'tropea', 'palermo', 'cefalu', 'agrigento', 'siracusa', 'catania', 'taormina', 'cagliari', 'alghero', 'olbia', 'cala-gonone'],
     cityGroups: [
       { title: { ko: '북부', en: 'Northern Italy' }, cityIds: ['milan', 'como', 'bergamo', 'stresa', 'sirmione', 'mantua', 'turin', 'genoa', 'portofino', 'cinque-terre', 'venice', 'verona', 'vicenza', 'padua', 'trieste', 'bolzano', 'cortina', 'bologna', 'modena', 'parma', 'ferrara', 'ravenna'] },
       { title: { ko: '중부', en: 'Central Italy' }, cityIds: ['rome', 'florence', 'pisa', 'lucca', 'siena', 'san-gimignano', 'montepulciano', 'perugia', 'assisi', 'orvieto', 'urbino'] },
-      { title: { ko: '남부', en: 'Southern Italy' }, cityIds: ['naples', 'pompeii', 'sorrento', 'positano', 'amalfi', 'capri', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'matera', 'tropea', 'palermo', 'cefalu', 'agrigento', 'siracusa', 'catania', 'taormina', 'cagliari', 'alghero'] },
+      { title: { ko: '남부', en: 'Southern Italy' }, cityIds: ['naples', 'pompeii', 'sorrento', 'positano', 'amalfi', 'capri', 'bari', 'alberobello', 'polignano-a-mare', 'lecce', 'matera', 'tropea'] },
+      { title: { ko: '시칠리아', en: 'Sicily' }, cityIds: ['palermo', 'cefalu', 'agrigento', 'siracusa', 'catania', 'taormina'] },
+      { title: { ko: '사르데냐', en: 'Sardinia' }, cityIds: ['cagliari', 'alghero', 'olbia', 'cala-gonone'] },
     ],
   },
   {

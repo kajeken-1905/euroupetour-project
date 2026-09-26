@@ -371,4 +371,14 @@ export const placesITExtra: Place[] = [
   place('positano-fine_dining-2', 'positano', 'fine_dining', 'Chez Black', 4.2, 'Via del Brigantino 19, 84017 Positano', '1949년 개업, 스피아자 그란데 해변 바로 앞의 해산물 레스토랑.', 'Beachfront seafood institution on Spiaggia Grande since 1949.'),
   place('positano-bakery-1', 'positano', 'bakery', 'La Zagara', 4.3, 'Via dei Mulini 8, 84017 Positano', '델리치아 알 리모네 등 쇼윈도 디저트로 유명한 제과점.', 'Pastry shop famed for its window of desserts like delizia al limone.'),
   place('positano-bakery-2', 'positano', 'bakery', 'Collina Bakery', 4.5, 'Positano, Italy', '페이스트리·샌드위치·티라미수를 파는 합리적인 가격의 베이커리 카페.', 'Well-priced bakery café for pastries, sandwiches and tiramisu.'),
+
+  // —— olbia ——
+  place('olbia-fine_dining-1', 'olbia', 'fine_dining', 'Il Pescatore', 4.4, 'Porto Cervo Marina Vecchia, Arzachena', '포르토 체르보 옛 항구의 대표 해산물 레스토랑.', 'Renowned seafood restaurant on Porto Cervo\'s old harbour.'),
+  place('olbia-fine_dining-2', 'olbia', 'fine_dining', 'White Villa', 4.5, 'Porto Cervo, Arzachena', '지중해·사르데냐 해산물을 현대적으로 내는 레스토랑.', 'Modern Mediterranean-Sardinian seafood.'),
+  place('olbia-fine_dining-3', 'olbia', 'fine_dining', 'La Briciola', 4.4, 'Porto Cervo, Arzachena', '문어 요리가 좋은 아늑한 식당.', 'Cozy spot known for its octopus.'),
+
+  // —— cala-gonone ——
+  place('cala-gonone-fine_dining-1', 'cala-gonone', 'fine_dining', 'Il Nuovo Gabbiano', 4.4, 'Piazza del Porto, Cala Gonone', '항구 광장의 해산물 레스토랑.', 'Seafood restaurant on the harbour square.'),
+  place('cala-gonone-fine_dining-2', 'cala-gonone', 'fine_dining', 'Da Graziano Il Pescatore', 4.3, 'Cala Gonone, Dorgali', '해산물 스파게티와 지역 생선 요리.', 'Seafood spaghetti and local fish.'),
+  place('cala-gonone-fine_dining-3', 'cala-gonone', 'fine_dining', 'La Poltrona', 4.4, 'Cala Gonone, Dorgali', '현지인이 즐겨 찾는 피자·레스토랑.', 'Local-favourite pizzeria-restaurant.'),
 ]

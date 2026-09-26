@@ -4245,6 +4245,51 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  olbia: {
+    modes: ['bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '올비아 공항·항구에서 버스·렌터카로 코스타 스메랄다까지 약 30분. 라 마달레나는 팔라우항에서 페리.',
+      en: 'From Olbia airport/port, ~30 min by bus or car to the Costa Smeralda; ferry from Palau to La Maddalena.',
+    },
+    apps: [
+    ],
+  },
+  'cala-gonone': {
+    modes: ['bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '올비아·누오로에서 버스로 도르갈리 경유. 해변들은 항구에서 보트로 갑니다.',
+      en: 'Bus via Dorgali from Olbia or Nuoro; boats from the harbour to the coves.',
+    },
+    apps: [
+    ],
+  },
+  ajaccio: {
+    modes: ['bus', 'train', 'ferry', 'walk'],
+    howTo: {
+      ko: '공항에서 버스로 약 20분. 코르시카 협궤 열차로 바스티아·코르테와 연결됩니다.',
+      en: '~20 min bus from the airport; narrow-gauge train to Corte and Bastia.',
+    },
+    apps: [
+    ],
+  },
+  bonifacio: {
+    modes: ['bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '피가리 공항에서 버스·택시. 사르데냐 산타 테레사행 페리가 다닙니다.',
+      en: 'Bus or taxi from Figari airport; ferries to Santa Teresa in Sardinia.',
+    },
+    apps: [
+    ],
+  },
+  calvi: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '칼비 공항에서 차로 약 10분. 해안 열차 \'트라미네\'가 일 루스까지 이어집니다.',
+      en: '~10 min from Calvi airport; the coastal \'Tramway de Balagne\' runs to L\'Île-Rousse.',
+    },
+    apps: [
+    ],
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],
