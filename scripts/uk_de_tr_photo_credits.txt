@@ -327,3 +327,59 @@ cities/innsbruck.jpg | https://commons.wikimedia.org/wiki/File:Nordkette_vom_Inn
 cities/szeged.jpg | https://commons.wikimedia.org/wiki/File:Dom_ter_6_in_Szeged_(1).jpg | CC BY 4.0 | Tournasol7
 highlights/gdansk-4.jpg | https://commons.wikimedia.org/wiki/File:European_Solidarity_Centre_2015_004.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net)
 highlights/zagreb-2.jpg | https://commons.wikimedia.org/wiki/File:Flag_museum_of_broken_relationships.jpg | CC BY-SA 4.0 | Estsiiri
+
+# Baltics/Balkans/Greece/Monaco review — photos chosen by the site owner (2026-09-26)
+cities/tartu.jpg | https://commons.wikimedia.org/wiki/File:Tartu,_Emajõgi_--_2009.JPG | CC BY-SA 3.0 | Flying Saucer
+cities/parnu.jpg | https://commons.wikimedia.org/wiki/File:Pärnu_jõgi_Sindis.jpg | CC BY 4.0 | Kristian Pikner
+highlights/parnu-1.jpg | https://commons.wikimedia.org/wiki/File:Loojang_Pärnu_rannas_-_Sunset_in_Pärnu_beach_(2)_copy.jpg | CC BY 4.0 | Kristian Pikner
+highlights/parnu-5.jpg | https://commons.wikimedia.org/wiki/File:Pärnu_kesklinn_-_Aerial_photo_of_Pärnu_in_Estonia_(2).jpg | CC BY-SA 4.0 | Kristian Pikner
+highlights/riga-1.jpg | https://commons.wikimedia.org/wiki/File:Latvia,_Riga,_Old_Town,_Street_Scene_150502-19.jpg | CC BY 4.0 | Richardmaackphotog
+highlights/jurmala-4.jpg | https://commons.wikimedia.org/wiki/File:Wooden_structure_in_Majori,_Jūrmala,_Latvia.JPG | CC BY-SA 3.0 | Adbar
+cities/sigulda.jpg | https://commons.wikimedia.org/wiki/File:The_new_Sigulda_castle_(2).JPG | CC BY-SA 4.0 | PIERRE ANDRE LECLERCQ
+highlights/sigulda-1.jpg | https://commons.wikimedia.org/wiki/File:Turaida_castle_from_the_opposite_side.jpg | CC BY-SA 4.0 | Fawksik
+highlights/vilnius-1.jpg | https://commons.wikimedia.org/wiki/File:Vilnius_old_town_August_2015_(9).JPG | CC BY-SA 4.0 | © Pierre André
+highlights/vilnius-5.jpg | https://commons.wikimedia.org/wiki/File:Vilnius_Aušros_Vartai_Stadtseite_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/kaunas-2.jpg | https://commons.wikimedia.org/wiki/File:Laisves_St.,_Kaunas,_Lithuania,_11_Sept._2008_-_Flickr_-_PhillipC.jpg | CC BY 2.0 | Phillip Capper from Wellington, New Zealand
+cities/klaipeda.jpg | https://commons.wikimedia.org/wiki/File:Quite_summer_evening_in_the_port_city_Klaipeda.jpg | CC BY 2.0 | Mantas Volungevicius
+cities/kotor.jpg | https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg | CC BY-SA 3.0 | User:Ggia
+cities/budva.jpg | https://commons.wikimedia.org/wiki/File:View_of_Budva_Old_Town.jpg | CC BY-SA 4.0 | Jaakko Luttinen
+cities/podgorica.jpg | https://commons.wikimedia.org/wiki/File:PodgoricaOverview.jpg | CC BY 3.0 | Nije bitno...
+landmarks/landmark-rs.jpg | https://commons.wikimedia.org/wiki/File:Belgrade_Fortress_Kalemegdan-9878.NEF.jpg | CC BY-SA 4.0 | Zcvetkovic
+cities/belgrade.jpg | https://commons.wikimedia.org/wiki/File:Sava_and_Danube_in_Belgrade,_view_from_Kalemegdan_Park_at_the_Victor_statue.jpg | CC BY 3.0 pl | Radosław Botev
+highlights/belgrade-1.jpg | https://commons.wikimedia.org/wiki/File:Kalemegdan,_a23.jpg | CC BY-SA 4.0 | Mickey Mystique
+highlights/belgrade-4.jpg | https://commons.wikimedia.org/wiki/File:Bělehrad,_Knez_Mihailova_IV.jpg | CC BY 3.0 | I would appreciate being notified if you use my work outside Wikimedia.
+More of my work can be foun
+cities/novi-sad.jpg | https://commons.wikimedia.org/wiki/File:Freedom_Square,_Novi_Sad_1.jpg | CC BY-SA 4.0 | Vacant0
+highlights/novi-sad-3.jpg | https://commons.wikimedia.org/wiki/File:Dunavski_park,_Novi_Sad,_07-2023-105.jpg | CC BY-SA 4.0 | MikyM
+cities/nis.jpg | https://commons.wikimedia.org/wiki/File:Niš_Fortress,_Niš,_Serbia.jpg | CC BY-SA 3.0 | MrPanyGoff
+highlights/nis-5.jpg | https://commons.wikimedia.org/wiki/File:Medijana_u_Nišu,slikano_ispred_kuće_sa_mozaicima.JPG | CC BY-SA 3.0 | J tomic m
+cities/subotica.jpg | https://commons.wikimedia.org/wiki/File:Christchurch_Town_Hall_of_the_Performing_Arts,_New_Zealand.jpg | CC BY-SA 4.0 | Michal Klajban
+highlights/subotica-1.jpg | https://commons.wikimedia.org/wiki/File:Gradska_kuća_u_Subotici.jpg | CC BY-SA 4.0 | Nter25
+cities/skopje.jpg | https://commons.wikimedia.org/wiki/File:Skopje_–_Vardar_Bridge_(2017).jpg | CC BY-SA 3.0 | Julian Nyča
+highlights/skopje-5.jpg | https://commons.wikimedia.org/wiki/File:KaleFortress-Skopje1.JPG | Public domain | Yemc
+highlights/bitola-4.jpg | https://commons.wikimedia.org/wiki/File:Dragor_river_(Bitola).jpg | CC BY-SA 4.0 | Petar Milošević
+cities/tirana.jpg | https://commons.wikimedia.org/wiki/File:Monumento_a_Skanderbeg,_Tirana,_Albania,_2014-04-17,_DD_03.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/tirana-4.jpg | https://commons.wikimedia.org/wiki/File:Pyramid_of_Tirana_1.jpg | CC BY-SA 4.0 | BBB2021
+highlights/berat-1.jpg | https://commons.wikimedia.org/wiki/File:Berat_-_Festung_2a_Haupttor.jpg | CC BY-SA 4.0 | Wolfgang Sauber
+highlights/sofia-4.jpg | https://commons.wikimedia.org/wiki/File:Boyana_Church_Mural_Paintings.jpg | CC BY-SA 4.0 | Interact-Bulgaria
+highlights/sofia-5.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg | CC BY 2.0 | Deensel
+cities/plovdiv.jpg | https://commons.wikimedia.org/wiki/File:Renovated_house_in_plovdiv_old_town.jpg | CC BY 2.0 | Faces&&Places
+cities/varna.jpg | https://commons.wikimedia.org/wiki/File:Dormition_of_the_Theotokos_Cathedral_Vladimir_2016-06-23_6389.jpg | CC BY-SA 4.0 | Mike1979 Russia
+highlights/veliko-tarnovo-3.jpg | https://commons.wikimedia.org/wiki/File:BG_BT_Tarnovo_Holy_Martyrs_church_02.jpg | CC BY-SA 4.0 | Andrei Stroe
+highlights/veliko-tarnovo-4.jpg | https://commons.wikimedia.org/wiki/File:Monument_of_the_Asens,_Veliko_Tarnovo,_Bulgaria_(5680801255).jpg | CC BY 2.0 | yeowatzup
+cities/nessebar.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Christ_Pantocrator_Nesebar.jpg | CC BY-SA 4.0 | Chrumps
+highlights/nessebar-1.jpg | https://commons.wikimedia.org/wiki/File:Old_town_of_Nesebar_05.JPG | CC BY-SA 3.0 | Cherubino
+cities/corfu.jpg | https://commons.wikimedia.org/wiki/File:The_Old_Fortress_and_the_Old_Town_of_Corfu_-_September_2017.jpg | CC BY-SA 4.0 | Martin Falbisoner
+highlights/corfu-5.jpg | https://commons.wikimedia.org/wiki/File:Αχίλλειον_Achilleion_Corfu.jpg | CC BY-SA 4.0 | ChrLoukop
+cities/athens.jpg | https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg | CC BY-SA 3.0 | A.Savin
+highlights/athens-1.jpg | https://commons.wikimedia.org/wiki/File:Parthenon_from_west.jpg | Public domain | User:Mountain
+cities/nafplio.jpg | https://commons.wikimedia.org/wiki/File:View_of_the_Castle_of_Palamidi,_the_Akronafplia_and_the_town_of_Nafplio_from_the_Argolic_Gulf_on_30_March_2019.jpg | CC0 | George E. Koronaios
+highlights/olympia-1.jpg | https://commons.wikimedia.org/wiki/File:Olympia_Palaestra_panoramic.jpg | CC BY-SA 3.0 | Wknight94
+highlights/santorini-4.jpg | https://commons.wikimedia.org/wiki/File:Akrotiri_Archaeological_Site_in_Santorini_by_Joy_of_Museums.jpg | CC BY-SA 4.0 | Joyofmuseums
+highlights/santorini-5.jpg | https://commons.wikimedia.org/wiki/File:Santorini_78.jpg | CC BY-SA 4.0 | LBM1948
+cities/rhodes.jpg | https://commons.wikimedia.org/wiki/File:Trou_hole_walls_muraille_Rhodes_Port_Harbour.jpg | CC0 | Jebulon
+highlights/rhodes-3.jpg | https://commons.wikimedia.org/wiki/File:Lindos_Acropolis_Ακρόπολη_της_Λίνδου_Rhodes_Ρόδος_2019-11-24_24.jpg | CC BY-SA 4.0 | Manfred Werner (Tsui)
+cities/monaco.jpg | https://commons.wikimedia.org/wiki/File:Port_Hercules,_Monaco.jpg | CC BY-SA 4.0 | Uhooep
+landmarks/landmark-mc.jpg | https://commons.wikimedia.org/wiki/File:2013_Monaco_Grand_Prix_-_Sunday.jpg | CC BY-SA 2.0 | Charles Coates/LAT Photographic
+highlights/jurmala-3.jpg | https://commons.wikimedia.org/wiki/File:Dzintari_Beach,_2006_(03).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/banja-luka-5.jpg | https://commons.wikimedia.org/wiki/File:Ферхадија_(Ferhat-pasha_mosque,_Banja_Luka,_Republika_Srpska).jpg | CC BY-SA 4.0 | Petar Milošević
