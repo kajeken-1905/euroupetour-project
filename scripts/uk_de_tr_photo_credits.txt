@@ -456,3 +456,12 @@ cities/chartres.jpg | https://commons.wikimedia.org/wiki/File:Cathédrale_Notre-
 highlights/chartres-1.jpg | https://commons.wikimedia.org/wiki/File:Chartres_cathedral_(West_façade).jpg | CC BY-SA 3.0 | Dcconsta
 highlights/chartres-2.jpg | https://commons.wikimedia.org/wiki/File:Vitrail_Chartres_210209_07.jpg | Public domain | Vassil
 cities/bayeux.jpg | https://commons.wikimedia.org/wiki/File:Aure_River_Bayeux_007.JPG | CC BY-SA 3.0 | Chatsam
+
+# Italy (original 14 cities) — owner-selected photos (2026-09-26)
+highlights/rome-7.jpg | https://commons.wikimedia.org/wiki/File:Quirinale_palazzo_e_obelisco_con_dioscuri_Roma.jpg | CC BY-SA 3.0 | unknown
+cities/bologna.jpg | https://commons.wikimedia.org/wiki/File:Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/bologna-1.jpg | https://commons.wikimedia.org/wiki/File:Torre_degli_Asinelli_e_Torre_della_Garisenda_a_Bologna.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/bologna-5.jpg | https://commons.wikimedia.org/wiki/File:Bologna_Via_Pescherie_Vecchie.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+highlights/genoa-2.jpg | https://commons.wikimedia.org/wiki/File:Genova_panorama_Molo_Carignano.jpg | CC BY-SA 4.0 | Bbruno
+highlights/palermo-1.jpg | https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_BW_2025-04-29_11-57-44.jpg | CC BY-SA 4.0 | Berthold Werner
+cities/naples.jpg | https://commons.wikimedia.org/wiki/File:Borgo_Marinari_harbour_and_mount_Vesuvius_-_Naples_(2014).jpg | CC BY-SA 4.0 | Poiesia
