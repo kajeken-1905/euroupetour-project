@@ -294,3 +294,29 @@ landmarks/landmark-me.jpg | https://commons.wikimedia.org/wiki/File:Bay_of_Kotor
 landmarks/landmark-fr.jpg | https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg | CC BY-SA 3.0 | Jorge Royan
 landmarks/landmark-de.jpg | https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_from_Marienbrücke,_2011_May.jpg | CC BY-SA 3.0 | Ximonic, Simo Räsänen (post-processing) & Tauno Räsänen (photograph)
 cities/aalborg.jpg | https://commons.wikimedia.org/wiki/File:Jens_Bangs_Stenhus,_Østerågade,_Aalborg.jpg | CC BY-SA 3.0 | Liberaler Humanist
+
+# Austria/Czechia/Hungary/Poland/Croatia review (2026-09-26)
+landmarks/landmark-at.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Schönbrunn_Wien_2014_(Zuschnitt_1).jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-
+cities/salzburg.jpg | https://commons.wikimedia.org/wiki/File:Salzburg_Altstadt_Panorama_20240728_Gold_P.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/innsbruck-4.jpg | https://commons.wikimedia.org/wiki/File:AUT_Innsbruck,_Herzog-Friedrich-Strasse_001.jpg | CC BY-SA 4.0 | -wuppertaler
+highlights/graz-1.jpg | https://commons.wikimedia.org/wiki/File:Grazer_Uhrturm_02.JPG | CC BY-SA 3.0 at | Uoaei1
+highlights/graz-3.jpg | https://commons.wikimedia.org/wiki/File:Graz-hauptplatz-2007.jpg | Public domain | Mgrueter
+highlights/hallstatt-2.jpg | https://commons.wikimedia.org/wiki/File:A-Hallstatt-salzw-eingang-stollen.jpg | CC BY-SA 4.0 | Balou46
+cities/brno.jpg | https://commons.wikimedia.org/wiki/File:Panoramo_de_Zelný_trh,_Brno.jpg | CC BY-SA 3.0 | Rowland
+highlights/brno-2.jpg | https://commons.wikimedia.org/wiki/File:Villa_Tugendhat,_Brno.jpg | CC BY 4.0 | Thomas Ledl
+cities/cesky-krumlov.jpg | https://commons.wikimedia.org/wiki/File:View_over_Český_Krumlov_in_2012.JPG | CC BY 3.0 de | High Contrast
+highlights/karlovy-vary-3.jpg | https://commons.wikimedia.org/wiki/File:Karlovy_Vary_stanice_lanovky_Jelení_skok_(03).jpg | CC BY-SA 4.0 | Zorka Sojka
+highlights/karlovy-vary-5.jpg | https://commons.wikimedia.org/wiki/File:Karlovy_Vary_městské_divadlo_květen_2022_(1).jpg | CC BY-SA 4.0 | Lubor Ferenc
+highlights/ceske-budejovice-3.jpg | https://commons.wikimedia.org/wiki/File:Budweiser_Budvar_brewery,_01.jpg | CC BY-SA 4.0 | Czeva
+cities/debrecen.jpg | https://commons.wikimedia.org/wiki/File:Debrecen_KCSV6_504_villamos_Kossuth_tér_Nagytemplom.jpg | CC BY-SA 4.0 | Kisafka
+cities/pecs.jpg | https://commons.wikimedia.org/wiki/File:Pécs-Uránváros_panoráma.jpg | Public domain | Szajci
+highlights/eger-3.jpg | https://commons.wikimedia.org/wiki/File:Eger_-_Dobó_István_tér_-_panoramio.jpg | CC BY 3.0 | h_laca
+highlights/eger-4.jpg | https://commons.wikimedia.org/wiki/File:IMG_0417_-_Hungary_-_Valley_of_Beautiful_Women_(Szépasszonyvölgy).JPG | CC BY-SA 2.5 | Andrew Bossi
+cities/krakow.jpg | https://commons.wikimedia.org/wiki/File:Krakow_-_Wawel_from_Vistula_-_1.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/krakow-5.jpg | https://commons.wikimedia.org/wiki/File:St._Mary's_Basilica_and_Adam_Mickiewicz_Monument._Kraków,_Poland.jpg | CC BY-SA 3.0 | Ввласенко
+cities/gdansk.jpg | https://commons.wikimedia.org/wiki/File:Gdansk_LOC_Motlawa.jpg | Public domain | Unknown authorUnknown author
+cities/wroclaw.jpg | https://commons.wikimedia.org/wiki/File:Rynek_-_Wrocław_(2026).jpg | CC BY-SA 4.0 | Sneeuwvlakte
+cities/zagreb.jpg | https://commons.wikimedia.org/wiki/File:Zagrebačka_katedrala_-_pogled_s_Gornjeg_Grada_(Zagreb_Cathedral_-_view_from_Upper_Town)_-_panoramio.jpg | CC BY 3.0 | Nikolai Karaneschev
+highlights/rovinj-3.jpg | https://commons.wikimedia.org/wiki/File:Boats_in_Rovinj_(43682081675).jpg | CC BY 2.0 | Mateusz Kamiński from Gdańsk, Poland
+cities/hvar.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_through_the_Yachts_(5969965094).jpg | CC BY 2.0 | Alex Proimos from Sydney, Australia
+highlights/hvar-1.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_-_Fortress_and_houses.jpg | CC BY-SA 4.0 | Shawabunga
