@@ -29,11 +29,11 @@ export const countries: Country[] = [
       background: '#EEF0F8',
       text: '#0A0A30',
     },
-    cityIds: ['paris', 'mont-saint-michel', 'strasbourg', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'],
+    cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg', 'amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'],
     cityGroups: [
-      { title: { ko: '북부', en: 'Northern France' }, cityIds: ['paris', 'mont-saint-michel', 'strasbourg'] },
-      { title: { ko: '중부', en: 'Central France' }, cityIds: ['dijon', 'lyon', 'annecy', 'chamonix'] },
-      { title: { ko: '남부', en: 'Southern France' }, cityIds: ['bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'] },
+      { title: { ko: '북부', en: 'Northern France' }, cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg'] },
+      { title: { ko: '중부', en: 'Central France' }, cityIds: ['amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix'] },
+      { title: { ko: '남부', en: 'Southern France' }, cityIds: ['bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'marseille', 'cannes', 'nice'] },
     ],
   },
   {

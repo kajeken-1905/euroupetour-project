@@ -156,4 +156,59 @@ export const placesFRExtra: Place[] = [
   place('chamonix-cafe-1', 'chamonix', 'cafe', 'Café Tartine', 4.5, 'Chamonix, 74400, France', '직접 구운 두꺼운 빵 위에 타르틴을 올려주는 샤모니 중심가의 카페', 'Café in the heart of Chamonix known for tartines on thick house-baked bread'),
   place('chamonix-cafe-2', 'chamonix', 'cafe', 'Moody Coffee Roasters', 4.9, "195 Avenue de l'Aiguille du Midi, 74400 Chamonix-Mont-Blanc", '샤모니의 소규모 스페셜티 커피 로스터리 겸 베이커리.', 'Small-batch specialty coffee roastery and artisanal bakery in Chamonix.', { reviewCount: 67 }),
   place('chamonix-korean-1', 'chamonix', 'korean', 'Munchie', 4.4, '87 Rue des Moulins, 74400 Chamonix-Mont-Blanc', '샤모니 중심가의 한식당, 해물 전골로 호평.', 'Korean restaurant in central Chamonix, praised for its seafood hotpot.', { reviewCount: 706 }),
+
+  // —— giverny ——
+  place('giverny-fine_dining-1', 'giverny', 'fine_dining', 'Les Nymphéas', 4.2, '109 Rue Claude Monet, 27620 Giverny', '모네의 정원 바로 맞은편의 노르망디 요리 식당.', 'Normandy restaurant right across from Monet\'s garden.'),
+  place('giverny-fine_dining-2', 'giverny', 'fine_dining', 'Ancien Hôtel Baudy', 4.3, '81 Rue Claude Monet, 27620 Giverny', '인상파 화가들이 묵던 옛 호텔 레스토랑, 바우디 오믈렛이 대표 메뉴.', 'Former Impressionists\' inn, known for its omelette Baudy.'),
+
+  // —— fontainebleau ——
+  place('fontainebleau-bakery-1', 'fontainebleau', 'bakery', 'Frédéric Cassel', 4.4, '71 Rue Grande, 77300 Fontainebleau', '밀푀유와 마카롱으로 유명한 파티시에 매장.', 'Renowned pâtissier known for mille-feuille and macarons.'),
+  place('fontainebleau-fine_dining-1', 'fontainebleau', 'fine_dining', 'La Petite Ardoise', 4.5, 'Fontainebleau, France', '파리풍 분위기의 합리적인 비스트로.', 'Well-priced bistro with a Parisian feel.'),
+
+  // —— chartres ——
+  place('chartres-fine_dining-1', 'chartres', 'fine_dining', 'Le Georges', 4.7, '22 Place des Épars, 28000 Chartres', '그랑 모나르크 호텔의 미쉐린 스타 레스토랑, 그랑 마르니에 수플레가 명물.', 'Michelin-starred restaurant of the Grand Monarque; famed Grand Marnier soufflé.'),
+  place('chartres-fine_dining-2', 'chartres', 'fine_dining', 'Le Bistrot de la Cathédrale', 4.4, '1 Cloître Notre-Dame, 28000 Chartres', '대성당이 보이는 테라스의 비스트로.', 'Bistro with a terrace facing the cathedral.'),
+
+  // —— reims ——
+  place('reims-fine_dining-1', 'reims', 'fine_dining', 'Le Parc Les Crayères', 4.7, '64 Boulevard Henry Vasnier, 51100 Reims', '샴페인 900종을 갖춘 미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant with ~900 Champagnes.'),
+  place('reims-cafe-1', 'reims', 'cafe', 'Café du Palais', 4.3, '14 Place Myron Herrick, 51100 Reims', '아르데코풍의 오래된 랭스 카페 겸 브라스리.', 'Long-running Art Deco café-brasserie.'),
+  place('reims-bakery-1', 'reims', 'bakery', 'Maison Fossier', 4.4, '25 Cours Langlet, 51100 Reims', '1756년부터 랭스의 분홍 비스킷을 굽는 과자점.', 'Maker of Reims pink biscuits since 1756.'),
+
+  // —— amboise ——
+  place('amboise-fine_dining-1', 'amboise', 'fine_dining', 'L\'Écluse', 4.6, 'Rue Racine, 37400 Amboise', '루아르강이 보이는 창작 요리 레스토랑.', 'Creative cooking with a view of the Loire.'),
+  place('amboise-bakery-1', 'amboise', 'bakery', 'Pâtisserie Bigot', 4.2, '2 Rue Nationale, 37400 Amboise', '1913년부터 앙부아즈 성 맞은편의 제과점 겸 찻집.', 'Pâtisserie and tearoom opposite the château since 1913.'),
+
+  // —— rouen ——
+  place('rouen-fine_dining-1', 'rouen', 'fine_dining', 'La Couronne', 4.3, '31 Place du Vieux-Marché, 76000 Rouen', '1345년부터 영업한 프랑스에서 가장 오래된 여관.', 'France\'s oldest inn, serving since 1345.'),
+  place('rouen-fine_dining-2', 'rouen', 'fine_dining', 'Gill', 4.6, '8-9 Quai de la Bourse, 76000 Rouen', '센강이 보이는 루앙의 파인다이닝, 파티스리도 유명.', 'Rouen fine dining by the Seine, with a renowned pâtisserie.'),
+  place('rouen-cafe-1', 'rouen', 'cafe', 'Dame Cakes', 4.4, '70 Rue Saint-Romain, 76000 Rouen', '대성당 옆 루이 15세풍 찻집.', 'Louis XV-style tearoom beside the cathedral.'),
+
+  // —— honfleur ——
+  place('honfleur-fine_dining-1', 'honfleur', 'fine_dining', 'SaQuaNa', 4.5, 'Honfleur, France', '2스타 셰프의 베이커리 겸 이자카야.', 'Bakery-izakaya from a two-star chef.'),
+  place('honfleur-fine_dining-2', 'honfleur', 'fine_dining', 'La Fleur de Sel', 4.6, '17 Rue Haute, 14600 Honfleur', '비외 바생 근처의 미쉐린 가이드 레스토랑.', 'Michelin-listed restaurant near the Vieux Bassin.'),
+  place('honfleur-fine_dining-3', 'honfleur', 'fine_dining', 'Le Bréard', 4.5, '7 Rue du Puits, 14600 Honfleur', '생트 카트린 광장 근처의 미식 레스토랑.', 'Gourmet restaurant near Place Sainte-Catherine.'),
+
+  // —— etretat ——
+  place('etretat-fine_dining-1', 'etretat', 'fine_dining', 'Le Clos Lupin', 4.5, 'Étretat, France', '칠판 메뉴의 제철 프랑스 비스트로.', 'Seasonal French bistro with a chalkboard menu.'),
+  place('etretat-fine_dining-2', 'etretat', 'fine_dining', 'Le Donjon (Domaine Saint Clair)', 4.3, 'Chemin de Saint-Clair, 76790 Étretat', '언덕 위 성 호텔의 레스토랑.', 'Restaurant in a hilltop castle hotel.'),
+
+  // —— bayeux ——
+  place('bayeux-fine_dining-1', 'bayeux', 'fine_dining', 'La Rapière', 4.6, '53 Rue Saint-Jean, 14400 Bayeux', '15세기 건물 속 미쉐린 가이드 레스토랑.', 'Michelin-listed restaurant in a 15th-century building.'),
+  place('bayeux-fine_dining-2', 'bayeux', 'fine_dining', 'Le Pommier', 4.5, '38-40 Rue des Cuisiniers, 14400 Bayeux', '노르망디 향토 요리 레스토랑.', 'Traditional Normandy cooking.'),
+
+  // —— saint-malo ——
+  place('saint-malo-fine_dining-1', 'saint-malo', 'fine_dining', 'Le Comptoir Breizh Café', 4.5, '6 Rue de l\'Orme, 35400 Saint-Malo', '유기농 메밀 갈레트와 사과주 60종의 크레프 레스토랑.', 'Crêperie with organic buckwheat galettes and 60 ciders.'),
+
+  // —— la-rochelle ——
+  place('la-rochelle-fine_dining-1', 'la-rochelle', 'fine_dining', 'Christopher Coutanceau', 4.7, 'Plage de la Concurrence, 17000 La Rochelle', '미쉐린 3스타 해산물 레스토랑.', 'Three-Michelin-star seafood restaurant.'),
+  place('la-rochelle-fine_dining-2', 'la-rochelle', 'fine_dining', 'Bar André', 4.1, '5 Rue Saint-Jean du Pérot, 17000 La Rochelle', '1947년부터 구항구 앞 해산물 레스토랑.', 'Old-port seafood institution since 1947.'),
+
+  // —— arcachon ——
+  place('arcachon-fine_dining-1', 'arcachon', 'fine_dining', 'La Cabane du Mimbeau', 4.5, 'Cap Ferret, France', '6대째 굴 양식가가 운영하는 굴 오두막.', 'Oyster shack run by six generations of oyster farmers.'),
+  place('arcachon-fine_dining-2', 'arcachon', 'fine_dining', 'Chez Boulan', 4.4, 'Cap Ferret, France', '수상 경력 굴을 맛보는 캅 페레의 굴 식당.', 'Cap Ferret spot for award-winning oysters.'),
+  place('arcachon-fine_dining-3', 'arcachon', 'fine_dining', 'La Cabane d\'Hortense', 4.3, 'Cap Ferret, France', '필라 사구가 보이는 굴·홍합 오두막.', 'Oysters and mussels facing the Dune du Pilat.'),
+
+  // —— biarritz ——
+  place('biarritz-bakery-1', 'biarritz', 'bakery', 'Miremont', 4.4, '1 Bis Place Georges Clemenceau, 64200 Biarritz', '1872년 개업, 바다가 보이는 비아리츠 최고(最古)의 찻집.', 'Biarritz\'s oldest tearoom (1872) with sea views.'),
+  place('biarritz-fine_dining-1', 'biarritz', 'fine_dining', 'La Belloteka', 4.5, 'Les Halles, 64200 Biarritz', '레알 시장 안의 바스크 요리 식당.', 'Basque dishes in the Les Halles market.'),
 ]

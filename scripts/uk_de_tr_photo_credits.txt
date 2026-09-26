@@ -383,3 +383,76 @@ cities/monaco.jpg | https://commons.wikimedia.org/wiki/File:Port_Hercules,_Monac
 landmarks/landmark-mc.jpg | https://commons.wikimedia.org/wiki/File:2013_Monaco_Grand_Prix_-_Sunday.jpg | CC BY-SA 2.0 | Charles Coates/LAT Photographic
 highlights/jurmala-3.jpg | https://commons.wikimedia.org/wiki/File:Dzintari_Beach,_2006_(03).jpg | CC BY-SA 4.0 | Bahnfrend
 highlights/banja-luka-5.jpg | https://commons.wikimedia.org/wiki/File:Ферхадија_(Ferhat-pasha_mosque,_Banja_Luka,_Republika_Srpska).jpg | CC BY-SA 4.0 | Petar Milošević
+
+# France: 13 new cities — photos chosen by the site owner (2026-09-26)
+highlights/giverny-1.jpg | https://commons.wikimedia.org/wiki/File:Jardins_de_Claude_Monet_à_Giverny.jpg | CC0 | World3000
+highlights/giverny-2.jpg | https://commons.wikimedia.org/wiki/File:La_maison_de_Claude_Monet_(Giverny)_(48744281997).jpg | CC BY 2.0 | Jean-Pierre Dalbéra from Paris, France
+highlights/giverny-3.jpg | https://commons.wikimedia.org/wiki/File:Giverny_la_maison_et_les_jardins_du_peintre_(1).jpg | CC BY-SA 4.0 | Pierre André Leclercq
+highlights/giverny-4.jpg | https://commons.wikimedia.org/wiki/File:©Musée_des_impressionnismes_Giverny_-_2018_François_Guillemin_(6).jpg | CC BY-SA 4.0 | Mdig
+cities/fontainebleau.jpg | https://commons.wikimedia.org/wiki/File:Château_de_Fontainebleau_(Fontainebleau)_edited_(2).jpg | CC BY-SA 4.0 | Gzen92
+
+Edited by User:Radomianin
+highlights/fontainebleau-1.jpg | https://commons.wikimedia.org/wiki/File:Château_de_Fontainebleau_(Fontainebleau)_edited_(2).jpg | CC BY-SA 4.0 | Gzen92
+
+Edited by User:Radomianin
+highlights/fontainebleau-2.jpg | https://commons.wikimedia.org/wiki/File:Fontainebleau_Château_de_Fontainebleau_Große_Freitreppe_2.jpg | CC BY-SA 4.0 | Zairon
+highlights/fontainebleau-3.jpg | https://commons.wikimedia.org/wiki/File:Forêt_de_Fontainebleau-Rochers_du_Mont_Ussy_(7)-20180525.jpg | CC BY-SA 4.0 | Daniel VILLAFRUELA.
+highlights/fontainebleau-4.jpg | https://commons.wikimedia.org/wiki/File:Barbizon_(77)_Grande-Rue_319.jpg | CC BY-SA 4.0 | GFreihalter
+highlights/chartres-3.jpg | https://commons.wikimedia.org/wiki/File:Chartres_Basse_ville.JPG | CC BY-SA 3.0 | Ireneed
+highlights/chartres-4.jpg | https://commons.wikimedia.org/wiki/File:LaLumiere_CathedraleDeChartres_DSC08351.jpg | CC BY-SA 4.0 | PtrQs
+cities/reims.jpg | https://commons.wikimedia.org/wiki/File:Architectural_Detail_-_Reims_-_Champagne_-_France_-_June_2022.jpg | CC BY 2.0 | Adam Jones
+highlights/reims-1.jpg | https://commons.wikimedia.org/wiki/File:Palais_du_Tau_and_Cathédrale_Notre-Dame_de_Reims,_East_View_20140306.jpg | CC BY-SA 3.0 | DXR
+highlights/reims-2.jpg | https://commons.wikimedia.org/wiki/File:Deya_at_Champagne_Taittinger_Reims_France_(35052893212).jpg | CC BY 2.0 | Nan Palmero from San Antonio, TX, USA
+highlights/reims-3.jpg | https://commons.wikimedia.org/wiki/File:Palais_du_Tau_and_Cathédrale_Notre-Dame_de_Reims,_East_View_20140306.jpg | CC BY-SA 3.0 | DXR
+highlights/reims-4.jpg | https://commons.wikimedia.org/wiki/File:Reims_-_basilique_Saint-Remi_-_2023-06-25_-_06.jpg | CC BY 4.0 | Mathieu Kappler
+highlights/reims-5.jpg | https://commons.wikimedia.org/wiki/File:Épernay_-_avenue_de_Champagne_(13).JPG | CC BY-SA 4.0 | Fab5669
+cities/amboise.jpg | https://commons.wikimedia.org/wiki/File:Amboise_(Indre-et-Loire)_(11945569416).jpg | CC BY 2.0 | Daniel Jolivet
+highlights/amboise-1.jpg | https://commons.wikimedia.org/wiki/File:Château_et_tour_des_Minimes_(Amboise).jpg | CC BY-SA 4.0 | Gzen92
+highlights/amboise-2.jpg | https://commons.wikimedia.org/wiki/File:Clos_luce_04.jpg | CC BY-SA 3.0 | Nadègevillain
+highlights/amboise-3.jpg | https://commons.wikimedia.org/wiki/File:Château_de_Chenonceau_-_est_(Chenonceaux)_(1).jpg | CC BY-SA 4.0 | Gzen92
+highlights/amboise-4.jpg | https://commons.wikimedia.org/wiki/File:Chambord_Castle_Northwest_facade.jpg | CC BY-SA 3.0 | Benh LIEU SONG
+cities/rouen.jpg | https://commons.wikimedia.org/wiki/File:Rouen_Old_Town_(30784770452).jpg | CC BY 2.0 | Jorge Láscar from Melbourne, Australia
+highlights/rouen-1.jpg | https://commons.wikimedia.org/wiki/File:Rouen,_Cathédrale_de_Notre-Dame.JPG | CC BY-SA 3.0 | Parsifall
+highlights/rouen-2.jpg | https://commons.wikimedia.org/wiki/File:Looking_down_Rue_du_Gros-Horloge,_with_balloons,_Rouen,_2024.jpg | CC0 | DimiTalen
+highlights/rouen-3.jpg | https://commons.wikimedia.org/wiki/File:Place_du_Vieux-Marché,_Rouen.jpg | CC BY-SA 4.0 | Supercarwaar
+highlights/rouen-4.jpg | https://commons.wikimedia.org/wiki/File:The_old_town_of_Rouen_includes_about_2,000_half-timbered_houses,_of_which_half_have_been_restored_(30785211662).jpg | CC BY 2.0 | Jorge Láscar from Melbourne, Australia
+cities/honfleur.jpg | https://commons.wikimedia.org/wiki/File:Old_port_in_Honfleur._France.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/honfleur-1.jpg | https://commons.wikimedia.org/wiki/File:Honfleur_Vieux_Bassin_8.jpg | CC BY-SA 4.0 | Zairon
+highlights/honfleur-2.jpg | https://commons.wikimedia.org/wiki/File:Honfleur_-_Place_Sainte-Catherine_-_Church_Entrance_of_Église_Sainte-Catherine_-_View_West.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/honfleur-3.jpg | https://commons.wikimedia.org/wiki/File:(Agen)_Corvette_russe_dans_le_port_du_Havre_1887_-_Eugène_Boudin_-_Musée_des_Beaux-Arts_d'Agen.jpg | Public domain | Didier Descouens
+highlights/honfleur-4.jpg | https://commons.wikimedia.org/wiki/File:Le_Pont_de_Normandie_depuis_Honfleur.jpg | CC BY-SA 4.0 | Korido
+cities/etretat.jpg | https://commons.wikimedia.org/wiki/File:La_chapelle_Notre-Dame-de-la-Garde_et_les_falaises_d'Etretat.jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/etretat-1.jpg | https://commons.wikimedia.org/wiki/File:Porte_d'Aval_(Vue_depuis_la_Manneporte).jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/etretat-2.jpg | https://commons.wikimedia.org/wiki/File:Étretat_Falaises_d'Étretat_Aiguille_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/etretat-3.jpg | https://commons.wikimedia.org/wiki/File:Porte_d'Amont_(Étretat).jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/etretat-4.jpg | https://commons.wikimedia.org/wiki/File:Beach_and_Cliffs_of_Étretat,_Normandy-8172.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/bayeux-1.jpg | https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Museum_2025-03-26.jpg | CC0 | Andy Li
+highlights/bayeux-2.jpg | https://commons.wikimedia.org/wiki/File:Chevet_of_Bayeux_Cathedral_2025-03-26.jpg | CC0 | Andy Li
+highlights/bayeux-3.jpg | https://commons.wikimedia.org/wiki/File:Les_Braves_-_Omaha_Beach_Memorial.jpg | CC BY-SA 4.0 | Jonovision82
+highlights/bayeux-4.jpg | https://commons.wikimedia.org/wiki/File:Plan_d'eau_(Colleville-sur-Mer).jpg | CC BY-SA 4.0 | Gzen92
+highlights/bayeux-5.jpg | https://commons.wikimedia.org/wiki/File:01_Pointe_du_Hoc.jpg | CC BY-SA 3.0 | Myrabella
+cities/saint-malo.jpg | https://commons.wikimedia.org/wiki/File:00_1552_Saint-Malo,_France.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/saint-malo-1.jpg | https://commons.wikimedia.org/wiki/File:Saint-Malo_les_remparts_de_la_cité_(25).jpg | CC BY-SA 4.0 | Pierre André Leclercq
+highlights/saint-malo-2.jpg | https://commons.wikimedia.org/wiki/File:2025-01-07_Saint-Malo_Grand_Bé_and_Petit_Bé.jpg | CC0 | RAIL P (
+highlights/saint-malo-3.jpg | https://commons.wikimedia.org/wiki/File:Fort-National-DSC_6293.jpg | CC BY-SA 3.0 | Pline
+highlights/saint-malo-4.jpg | https://commons.wikimedia.org/wiki/File:Quaint_river_town_(Unsplash).jpg | CC0 | Pedro Lastra peterlaster
+cities/la-rochelle.jpg | https://commons.wikimedia.org/wiki/File:La_rochelle,_Le_vieux_port.JPG | CC BY-SA 3.0 | Mister Brown
+highlights/la-rochelle-1.jpg | https://commons.wikimedia.org/wiki/File:Entrance_La_Rochelle_old_harbor.jpg | CC0 | Jebulon
+highlights/la-rochelle-2.jpg | https://commons.wikimedia.org/wiki/File:Grosse_horloge_La_Rochelle.jpg | CC0 | Jebulon
+highlights/la-rochelle-3.jpg | https://commons.wikimedia.org/wiki/File:Abbaye_Notre-Dame_de_Ré,_Ré_island,_Charente-Maritime,_France.jpg | CC0 | Jebulon
+highlights/la-rochelle-4.jpg | https://commons.wikimedia.org/wiki/File:Arcades_Rue_Chaudrier_-_La_Rochelle_(FR17)_-_2026-08-03_-_2.jpg | CC BY-SA 4.0 | Chabe01
+cities/arcachon.jpg | https://commons.wikimedia.org/wiki/File:Arcachon-Jetee-Eyrac-byRundvald.jpg | CC BY-SA 4.0 | Rundvald
+highlights/arcachon-1.jpg | https://commons.wikimedia.org/wiki/File:Dune-du-Pilat-Banc-dArguin-passe-sud-byRundvald.jpg | CC BY-SA 4.0 | Rundvald
+highlights/arcachon-2.jpg | https://commons.wikimedia.org/wiki/File:Bassin_d'Arcachon_Royal_Regenbogen.jpg | CC BY-SA 4.0 | Akiramifune
+highlights/arcachon-3.jpg | https://commons.wikimedia.org/wiki/File:Arcachon_-_Villa_Fragonard.jpg | CC BY-SA 4.0 | PA
+highlights/arcachon-4.jpg | https://commons.wikimedia.org/wiki/File:Dune_du_Pilat_(Cap_Ferret).jpg | CC BY-SA 4.0 | Jörg Braukmann
+cities/biarritz.jpg | https://commons.wikimedia.org/wiki/File:Costa_de_Biarritz,_Francia,_2023-01-06,_DD_04.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/biarritz-1.jpg | https://commons.wikimedia.org/wiki/File:00_1767_Grande_Plage,_Biarritz.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/biarritz-2.jpg | https://commons.wikimedia.org/wiki/File:Virgen_de_la_Roca,_Biarritz,_Francia,_2023-01-06,_DD_23-25_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/biarritz-3.jpg | https://commons.wikimedia.org/wiki/File:Phare_de_Biarritz_depuis_Rocher_du_Basta.jpg | CC BY-SA 4.0 | Christian David
+highlights/biarritz-4.jpg | https://commons.wikimedia.org/wiki/File:Puerto,_San_Juan_de_Luz,_Francia,_2023-01-05,_DD_01-03_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+cities/giverny.jpg | https://commons.wikimedia.org/wiki/File:Voie_verte_Vernonnet-Giverny_au_sud_du_village_de_Giverny.jpg | CC0 | VVVCFFrance
+cities/chartres.jpg | https://commons.wikimedia.org/wiki/File:Cathédrale_Notre-Dame_(Chartres)_(2).jpg | CC BY-SA 4.0 | Gzen92
+highlights/chartres-1.jpg | https://commons.wikimedia.org/wiki/File:Chartres_cathedral_(West_façade).jpg | CC BY-SA 3.0 | Dcconsta
+highlights/chartres-2.jpg | https://commons.wikimedia.org/wiki/File:Vitrail_Chartres_210209_07.jpg | Public domain | Vassil
+cities/bayeux.jpg | https://commons.wikimedia.org/wiki/File:Aure_River_Bayeux_007.JPG | CC BY-SA 3.0 | Chatsam

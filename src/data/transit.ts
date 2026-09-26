@@ -4117,6 +4117,134 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  giverny: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '파리 생라자르역에서 베르농행 기차(약 50분) 후 셔틀버스로 약 15분.',
+      en: 'Train from Paris Saint-Lazare to Vernon (~50 min), then a ~15 min shuttle bus.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  fontainebleau: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '파리 리옹역에서 기차로 약 40분, 역에서 궁전까지 1번 버스.',
+      en: '~40 min train from Paris Gare de Lyon; bus 1 from the station to the palace.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  chartres: {
+    modes: ['train', 'walk'],
+    howTo: {
+      ko: '파리 몽파르나스역에서 기차로 약 1시간. 역에서 대성당까지 걸어갑니다.',
+      en: '~1 hr train from Paris Montparnasse; walk to the cathedral.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  reims: {
+    modes: ['train', 'tram', 'walk'],
+    howTo: {
+      ko: '파리 동역에서 TGV로 약 45분. 시내는 트램과 도보.',
+      en: '~45 min TGV from Paris Gare de l\'Est; tram and walking in town.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  amboise: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '투르에서 기차로 약 20분. 고성들은 투어버스나 렌터카·자전거로 다닙니다.',
+      en: '~20 min train from Tours; tour buses, cars or bikes for the châteaux.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  rouen: {
+    modes: ['train', 'metro', 'bus', 'walk'],
+    howTo: {
+      ko: '파리 생라자르역에서 기차로 약 1시간 10분. 구시가는 도보.',
+      en: '~70 min train from Paris Saint-Lazare; the old town is walkable.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  honfleur: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '기차역이 없습니다. 르아브르·캉·도빌에서 버스로 갑니다.',
+      en: 'No railway—buses from Le Havre, Caen or Deauville.',
+    },
+    apps: [
+    ],
+  },
+  etretat: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '기차역이 없습니다. 르아브르에서 버스로 약 1시간.',
+      en: 'No railway—~1 hr bus from Le Havre.',
+    },
+    apps: [
+    ],
+  },
+  bayeux: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '파리 생라자르역에서 캉 경유 기차. 상륙 해변은 투어나 렌터카로 갑니다.',
+      en: 'Train from Paris Saint-Lazare via Caen; tours or a car for the D-Day beaches.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'saint-malo': {
+    modes: ['train', 'bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '파리 몽파르나스역에서 TGV로 약 2시간 30분. 디나르는 페리로 건넙니다.',
+      en: '~2.5 hr TGV from Paris Montparnasse; ferry across to Dinard.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'la-rochelle': {
+    modes: ['train', 'bus', 'ferry', 'bike', 'walk'],
+    howTo: {
+      ko: '파리에서 TGV로 약 3시간. 구항구는 도보, 레 섬은 버스·자전거로 갑니다.',
+      en: '~3 hr TGV from Paris; walk the old port, bus or bike to Île de Ré.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  arcachon: {
+    modes: ['train', 'bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '보르도에서 기차로 약 50분. 필라 사구는 버스, 캅 페레는 페리로 갑니다.',
+      en: '~50 min train from Bordeaux; bus to the Dune du Pilat, ferry to Cap Ferret.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  biarritz: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '보르도에서 기차로 약 2시간, 비아리츠역에서 버스로 시내. 생장드뤼즈까지 기차 10분.',
+      en: '~2 hr train from Bordeaux, bus from Biarritz station; 10 min train to Saint-Jean-de-Luz.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   // —— va ——
   'vatican-city': {
     modes: ['metro', 'bus', 'walk', 'taxi'],
