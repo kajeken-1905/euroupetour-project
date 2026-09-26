@@ -497,3 +497,17 @@ highlights/santiago-1.jpg | https://commons.wikimedia.org/wiki/File:2010-Catedra
 highlights/palma-5.jpg | https://commons.wikimedia.org/wiki/File:July_2009_in_Palma_de_Mallorca_-_c.jpg | CC BY-SA 4.0 | Thomas Dahlstrøm Nielsen
 cities/toledo.jpg | https://commons.wikimedia.org/wiki/File:Alcázar_of_Toledo,_Spain.jpg | CC BY-SA 3.0 | Ввласенко
 highlights/toledo-9.jpg | https://commons.wikimedia.org/wiki/File:Palacio_de_Galiana._Vega_de_Toledo.jpg | CC BY 2.0 | Miguel Angel Masegosa Martínez
+
+# France (original cities) — owner-selected photos (2026-09-26)
+cities/dijon.jpg | https://commons.wikimedia.org/wiki/File:Dijon_-_Place_de_la_Libération_-_Nuit_-_01.jpg | CC BY-SA 4.0 | Benjamin Smith
+cities/lyon.jpg | https://commons.wikimedia.org/wiki/File:Lyon_by_Night_-_Les_quais_de_Saône_la_nuit_de_la_fête_de_lumière.JPG | CC BY-SA 4.0 | Jitrixis
+highlights/lyon-3.jpg | https://commons.wikimedia.org/wiki/File:Place_Bellecour_Lyon_3.jpg | CC BY-SA 4.0 | Chabe01
+cities/chamonix.jpg | https://commons.wikimedia.org/wiki/File:2025-05-23_Chamonix-Mont-Blanc.jpg | CC BY 4.0 | Alexkom000
+highlights/chamonix-4.jpg | https://commons.wikimedia.org/wiki/File:Brévent_Depuis_Chamonix_19082008.jpg | CC BY-SA 3.0 | Franck Langlois
+highlights/bordeaux-1.jpg | https://commons.wikimedia.org/wiki/File:Miroir_d'eau_et_place_de_la_Bourse_(Bordeaux)_(6).jpg | CC BY-SA 4.0 | Gzen92
+highlights/bordeaux-5.jpg | https://commons.wikimedia.org/wiki/File:Chartrons,_Bordeaux,_France_-_panoramio_(8).jpg | CC BY-SA 3.0 | Matthew Perosi
+highlights/toulouse-4.jpg | https://commons.wikimedia.org/wiki/File:Pont-Neuf_de_Toulouse_7.jpg | CC BY-SA 4.0 | kallerna
+cities/avignon.jpg | https://commons.wikimedia.org/wiki/File:Avignon_-_Île_de_Piot_-_Chemin_des_Berges_-_Panorama_View_from_the_Rhône_river_bank_towards_Pont_Saint_Bénézet_(Pont_d'Avignon),_Jardin_des_doms,_Avignon_Cathedral,_Palais_des_Papes_&_Pont_Édouard_Daladier_03.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+cities/marseille.jpg | https://commons.wikimedia.org/wiki/File:Marseille_Basilique_Notre-Dame-de-la-Garde_Vue_sur_le_Vieux-Port_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/marseille-4.jpg | https://commons.wikimedia.org/wiki/File:Calanca_de_Sugiton.JPG | CC BY-SA 3.0 | Nicolas Eynaud
+cities/bordeaux.jpg | https://commons.wikimedia.org/wiki/File:Saint-Émilion_and_Vineyards.jpg | CC BY-SA 3.0 | Jordy Meow
