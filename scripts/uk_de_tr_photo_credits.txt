@@ -320,3 +320,10 @@ cities/zagreb.jpg | https://commons.wikimedia.org/wiki/File:Zagrebačka_katedral
 highlights/rovinj-3.jpg | https://commons.wikimedia.org/wiki/File:Boats_in_Rovinj_(43682081675).jpg | CC BY 2.0 | Mateusz Kamiński from Gdańsk, Poland
 cities/hvar.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_through_the_Yachts_(5969965094).jpg | CC BY 2.0 | Alex Proimos from Sydney, Australia
 highlights/hvar-1.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_-_Fortress_and_houses.jpg | CC BY-SA 4.0 | Shawabunga
+
+# Central Europe follow-up (2026-09-26)
+highlights/karlovy-vary-3.jpg | https://commons.wikimedia.org/wiki/File:Karlovy_Vary_rozhledna_Diana_(2).jpg | CC BY-SA 4.0 | Lubor Ferenc
+cities/innsbruck.jpg | https://commons.wikimedia.org/wiki/File:Nordkette_vom_Innsbrucker_Marktplatz_gesehen.jpg | CC BY-SA 3.0 | Weissbier1328 at
+cities/szeged.jpg | https://commons.wikimedia.org/wiki/File:Dom_ter_6_in_Szeged_(1).jpg | CC BY 4.0 | Tournasol7
+highlights/gdansk-4.jpg | https://commons.wikimedia.org/wiki/File:European_Solidarity_Centre_2015_004.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net)
+highlights/zagreb-2.jpg | https://commons.wikimedia.org/wiki/File:Flag_museum_of_broken_relationships.jpg | CC BY-SA 4.0 | Estsiiri
