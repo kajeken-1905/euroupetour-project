@@ -511,3 +511,15 @@ cities/avignon.jpg | https://commons.wikimedia.org/wiki/File:Avignon_-_Île_de_P
 cities/marseille.jpg | https://commons.wikimedia.org/wiki/File:Marseille_Basilique_Notre-Dame-de-la-Garde_Vue_sur_le_Vieux-Port_3.jpg | CC BY-SA 4.0 | Zairon
 highlights/marseille-4.jpg | https://commons.wikimedia.org/wiki/File:Calanca_de_Sugiton.JPG | CC BY-SA 3.0 | Nicolas Eynaud
 cities/bordeaux.jpg | https://commons.wikimedia.org/wiki/File:Saint-Émilion_and_Vineyards.jpg | CC BY-SA 3.0 | Jordy Meow
+
+# Switzerland — owner-selected photos (2026-09-26)
+cities/zurich.jpg | https://commons.wikimedia.org/wiki/File:Zürich_view_Quaibrücke_20200702.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/zurich-4.jpg | https://commons.wikimedia.org/wiki/File:Alps_from_zurich.jpg | CC BY-SA 4.0 | Matias Senger
+highlights/geneva-2.jpg | https://commons.wikimedia.org/wiki/File:Place_du_Bourg-de-Four_in_Geneva_old_town.jpg | CC0 | Ypsilon from Finland
+highlights/geneva-3.jpg | https://commons.wikimedia.org/wiki/File:St_Pierre_Cathedral_-_Geneva,_Switzerland_-_panoramio.jpg | CC BY-SA 3.0 | Sergey Ashmarin
+highlights/geneva-5.jpg | https://commons.wikimedia.org/wiki/File:Genève_-_Bains_des_Pâquis_150814-02.JPG | CC BY-SA 4.0 | Pymouss
+highlights/interlaken-3.jpg | https://commons.wikimedia.org/wiki/File:5506_-_Iseltwald_-_Brienzersee.JPG | CC BY-SA 2.5 | Andrew Bossi
+highlights/interlaken-5.jpg | https://commons.wikimedia.org/wiki/File:CH.BE.Grindelwald_2021-04-20_Jungfraujoch_Sphinx-Observatory.jpg | CC BY-SA 4.0 | NOTE: This image is a panorama of Jungfraujoch Sphinx-Observatory consisting of 5 frames that were merged or stitched in PTGui Pro 12.2. As a result, this image necessarily underwent some form
+highlights/grindelwald-5.jpg | https://commons.wikimedia.org/wiki/File:Eiger_seen_from_Grindelwald_village_2022-10-02_01.jpg | CC0 | Leonhard Lenz
+highlights/st-moritz-5.jpg | https://commons.wikimedia.org/wiki/File:Schulhaus_Dorf_Sankt_Moritz_2022-09-25_01.jpg | CC0 | Leonhard Lenz
+highlights/zurich-10.jpg | https://commons.wikimedia.org/wiki/File:Kilchberg_-_Lindt_&_Sprüngli_-_Zürichsee_2010-06-04_19-57-12.jpg | CC BY-SA 3.0 | Roland zh

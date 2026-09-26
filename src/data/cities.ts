@@ -3961,6 +3961,13 @@ export const cities: City[] = [
         description: { ko: "스위스에서 가장 분주한 중앙 기차역입니다.", en: "Switzerland's busiest central train station." },
         image: "/highlights/zurich-9.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Z%C3%BCrich%20Hauptbahnhof",
+      },
+      {
+        id: "zurich-h10",
+        name: { ko: "린트 초콜릿 박물관", en: "Lindt Home of Chocolate" },
+        description: { ko: "킬히베르크 린트 본사 옆 초콜릿 박물관으로, 9m 높이 초콜릿 분수와 시식 코너가 있습니다.", en: "Lindt's chocolate museum in Kilchberg, with a 9 m chocolate fountain and tastings." },
+        image: "/highlights/zurich-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lindt%20Home%20of%20Chocolate%20Kilchberg",
       }
     ],
   },
