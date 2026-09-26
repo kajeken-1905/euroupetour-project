@@ -465,3 +465,35 @@ highlights/bologna-5.jpg | https://commons.wikimedia.org/wiki/File:Bologna_Via_P
 highlights/genoa-2.jpg | https://commons.wikimedia.org/wiki/File:Genova_panorama_Molo_Carignano.jpg | CC BY-SA 4.0 | Bbruno
 highlights/palermo-1.jpg | https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_BW_2025-04-29_11-57-44.jpg | CC BY-SA 4.0 | Berthold Werner
 cities/naples.jpg | https://commons.wikimedia.org/wiki/File:Borgo_Marinari_harbour_and_mount_Vesuvius_-_Naples_(2014).jpg | CC BY-SA 4.0 | Poiesia
+
+# Spain — owner-selected photos (2026-09-26)
+highlights/madrid-13.jpg | https://commons.wikimedia.org/wiki/File:Teatro_Real_de_Madrid_2025.jpg | CC BY-SA 4.0 | Fernando
+highlights/madrid-14.jpg | https://commons.wikimedia.org/wiki/File:Madrid_Atocha_Station_(52142142963).jpg | CC BY 2.0 | ajay_suresh
+cities/segovia.jpg | https://commons.wikimedia.org/wiki/File:Segovia_acueducto.JPG | CC BY-SA 2.5 es | © Alejandro Moreno Calvo
+highlights/barcelona-11.jpg | https://commons.wikimedia.org/wiki/File:Barcelona_BW_2019-10-07_10-48-36.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/girona-3.jpg | https://commons.wikimedia.org/wiki/File:City_walls_in_Girona,_Spain_03.jpg | CC BY-SA 4.0 | Zorro2212
+cities/zaragoza.jpg | https://commons.wikimedia.org/wiki/File:Catedral-Basílica_de_Nuestra_Señora_del_Pilar,_Zaragoza_-_panoramio.jpg | CC BY 3.0 | edu1975
+highlights/zaragoza-1.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_Magistral_de_Nuestra_Señora_del_Pilar_-_Zaragoza_(ES).jpg | CC BY-SA 3.0 es | David Caponera
+highlights/zaragoza-5.jpg | https://commons.wikimedia.org/wiki/File:WLM_-_2021_-_Zaragoza_-_01.jpg | CC BY-SA 4.0 | Moahim
+cities/valencia.jpg | https://commons.wikimedia.org/wiki/File:Plaza_de_la_Virgen,_Valencia,_España,_2014-06-30,_DD_163.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/valencia-3.jpg | https://commons.wikimedia.org/wiki/File:El_Micalet_(campana).JPG | CC BY-SA 3.0 | Joanbanjo
+highlights/valencia-4.jpg | https://commons.wikimedia.org/wiki/File:Valencia_-_La_Lonja_de_la_Seda_2.jpg | CC0 | Coralma*
+highlights/valencia-5.jpg | https://commons.wikimedia.org/wiki/File:Playa_de_la_Malvarrosa_(Valencia)_01.jpg | CC BY 2.0 | Manuel Martín Vicente from
+cities/palma.jpg | https://commons.wikimedia.org/wiki/File:La_Seu,_The_Cathedral_of_Santa_Maria_of_Palma_(7197921788).jpg | CC BY 2.0 | Tobias Lindman from Stockholm, Sweden
+highlights/palma-1.jpg | https://commons.wikimedia.org/wiki/File:La_Seu,_Palma.jpg | CC BY-SA 4.0 | Horchatamivida
+highlights/palma-3.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Palma_de_Mallorca_y_La_Almudaina,_fachada_sur,_desde_el_lago.jpg | CC BY-SA 4.0 | Malopez 21
+highlights/palma-6.jpg | https://commons.wikimedia.org/wiki/File:PortixolPalma.jpg | CC BY-SA 4.0 | Rafael Ortega Díaz
+cities/cordoba.jpg | https://commons.wikimedia.org/wiki/File:Centro_Histórico,_16.9_--_2023_--_Córdoba,_España.jpg | CC BY-SA 4.0 | Jose María Ligero Loarte
+highlights/cordoba-2.jpg | https://commons.wikimedia.org/wiki/File:Juderia_de_Córdoba_(3).jpg | CC BY 4.0 | Alberto-g-rovi
+highlights/cordoba-3.jpg | https://commons.wikimedia.org/wiki/File:Jardins_alcazar_reyes_cristianos_cordoba.jpg | Public domain | Jebulon
+highlights/ronda-2.jpg | https://commons.wikimedia.org/wiki/File:Puente_Nuevo_and_the_El_Tajo_gorge,_Ronda,_at_night_(2026).jpg | CC BY-SA 4.0 | Paul Colin Hennig firstdorsal.eu
+highlights/ronda-3.jpg | https://commons.wikimedia.org/wiki/File:PlazaDeTorosDeRonda.jpg | CC BY-SA 3.0 | Andreas Tille
+highlights/nerja-1.jpg | https://commons.wikimedia.org/wiki/File:Nerja,_the_"Balcón_de_Europa".jpg | CC BY 3.0 | Dguendel
+highlights/nerja-4.jpg | https://commons.wikimedia.org/wiki/File:Jesús_Enterrado_-_Iglesia_de_El_Salvador,_Nerja_(40678770894).jpg | CC BY-SA 2.0 | Haydn Blackey from Cardiff, Wales
+highlights/gibraltar-2.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_Cable_car_cabin_from_Queen's_Road.jpg | CC BY-SA 4.0 | Ymblanter
+cities/bilbao.jpg | https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_España.jpg | CC BY-SA 4.0 | José Ligero Loarte
+highlights/bilbao-2.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Casco_Viejo_10.jpg | CC0 | Zarateman
+highlights/santiago-1.jpg | https://commons.wikimedia.org/wiki/File:2010-Catedral_de_Santiago_de_Compostela-Galicia_(Spain)_3.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez
+highlights/palma-5.jpg | https://commons.wikimedia.org/wiki/File:July_2009_in_Palma_de_Mallorca_-_c.jpg | CC BY-SA 4.0 | Thomas Dahlstrøm Nielsen
+cities/toledo.jpg | https://commons.wikimedia.org/wiki/File:Alcázar_of_Toledo,_Spain.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/toledo-9.jpg | https://commons.wikimedia.org/wiki/File:Palacio_de_Galiana._Vega_de_Toledo.jpg | CC BY 2.0 | Miguel Angel Masegosa Martínez

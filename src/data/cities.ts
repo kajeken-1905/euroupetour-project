@@ -10822,6 +10822,14 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n%20de%20Toledo",
         group: { ko: "강 건너 전망 · 도착", en: "River views & getting in" },
       },
+      {
+        id: "toledo-h9",
+        name: { ko: "갈리아나 궁전", en: "Palacio de Galiana" },
+        description: { ko: "타호강변 정원에 선 이슬람·무데하르 양식의 옛 왕궁입니다.", en: "Old Moorish-Mudéjar royal palace set in gardens by the Tagus." },
+        image: "/highlights/toledo-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Galiana%20Toledo",
+        group: { ko: "강 건너 전망 · 도착", en: "River views & getting in" },
+      },
     ],
   },
   {
