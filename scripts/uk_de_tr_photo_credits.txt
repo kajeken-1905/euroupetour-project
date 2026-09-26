@@ -523,3 +523,18 @@ highlights/interlaken-5.jpg | https://commons.wikimedia.org/wiki/File:CH.BE.Grin
 highlights/grindelwald-5.jpg | https://commons.wikimedia.org/wiki/File:Eiger_seen_from_Grindelwald_village_2022-10-02_01.jpg | CC0 | Leonhard Lenz
 highlights/st-moritz-5.jpg | https://commons.wikimedia.org/wiki/File:Schulhaus_Dorf_Sankt_Moritz_2022-09-25_01.jpg | CC0 | Leonhard Lenz
 highlights/zurich-10.jpg | https://commons.wikimedia.org/wiki/File:Kilchberg_-_Lindt_&_Sprüngli_-_Zürichsee_2010-06-04_19-57-12.jpg | CC BY-SA 3.0 | Roland zh
+
+# Slovakia/Slovenia — owner-selected photos (2026-09-26)
+landmarks/landmark-sk.jpg | https://commons.wikimedia.org/wiki/File:Strbske_Pleso_-_Mountains.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/kosice-1.jpg | https://commons.wikimedia.org/wiki/File:St_Elisabeth_Cathedral_Kosice.jpeg | CC BY-SA 3.0 | Ingo Mehling
+highlights/kosice-2.jpg | https://commons.wikimedia.org/wiki/File:Košice_-_Hlavná_ulica_-a.jpg | CC BY-SA 4.0 | Ladislav Luppa
+cities/poprad.jpg | https://commons.wikimedia.org/wiki/File:Dolny_Smokovec_Slovakia_16.JPG | CC BY 3.0 | Ing.Mgr. Jozef Kotulič
+highlights/poprad-1.jpg | https://commons.wikimedia.org/wiki/File:Stadler_GTW_2-6_-_Tatra_Electric_Railway_(4).jpg | CC BY-SA 4.0 | Midnight Runner
+highlights/banska-bystrica-1.jpg | https://commons.wikimedia.org/wiki/File:Banská_Bystrica_-_Námestie_SNP_004.jpg | CC BY-SA 4.0 | Milan Bališin
+landmarks/landmark-si.jpg | https://commons.wikimedia.org/wiki/File:Bled_Island_in_Lake_Bled,_Slovenia,_20240504_0901_8297.jpg | CC BY 4.0 | Jakub Hałun
+cities/bled.jpg | https://commons.wikimedia.org/wiki/File:Bled_Island_&_Bled_Castle_(1).jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/ljubljana.jpg | https://commons.wikimedia.org/wiki/File:Triple_Bridge_and_Preseren_Square_fron_the_Ljubljanica.jpg | CC BY-SA 4.0 | Valerio2468
+highlights/ljubljana-1.jpg | https://commons.wikimedia.org/wiki/File:Gallusovo_nabrezje_in_Ljubljana_(2).jpg | CC BY 4.0 | Tournasol7
+highlights/ljubljana-5.jpg | https://commons.wikimedia.org/wiki/File:Ljubljana_-_Central_Market.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/maribor-4.jpg | https://commons.wikimedia.org/wiki/File:Drava_river_and_Lent_in_Maribor_Slovenia_(50547812083).jpg | CC BY 2.0 | Jernej Furman from Maribor, Slovenia
+highlights/postojna-1.jpg | https://commons.wikimedia.org/wiki/File:Postojna_Cave._Concert_Hall._2012-07-26_13-43-03.jpg | CC BY-SA 4.0 | Shesmax
