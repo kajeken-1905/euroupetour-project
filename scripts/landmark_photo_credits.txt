@@ -64,6 +64,19 @@ places/paris-cafe-4.jpg | https://www.flickr.com/photos/68147320@N02/20668933102
 places/paris-cafe-5.jpg | https://www.flickr.com/photos/7831824@N04/33310678015 | BY 2.0 | Bex.Walton
 places/paris-korean-2.jpg | https://www.flickr.com/photos/71368551@N00/6802132109 | BY-SA 2.0 | Tonio Vega
 
+# Barcelona place photos
+places/barcelona-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Alkimia.jpg | CC BY-SA 3.0 | Pere prlpz
+places/barcelona-fine_dining-2.jpg | https://www.flickr.com/photos/72969462@N00/3620962676 | BY 2.0 | Ruby Grace Reyes
+places/barcelona-fine_dining-3.jpg | https://www.flickr.com/photos/89814034@N02/14151983890 | BY-NC-SA 2.0 | Natalia Piernas
+places/barcelona-fine_dining-4.jpg | https://www.flickr.com/photos/66722164@N00/4145480051 | BY 2.0 | veritatem
+places/barcelona-fine_dining-5.jpg | https://www.flickr.com/photos/27454212@N00/7422499666 | BY-SA 2.0 | Kent Wang
+places/barcelona-bakery-1.jpg | https://www.flickr.com/photos/7394371@N06/4672643574 | BY-NC-SA 2.0 | Ibán
+places/barcelona-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Barcelona_-_Pastisseria_Escrib%C3%A0.jpg | CC BY 2.0 | Fred Romero
+places/barcelona-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Fleca_Mistral_Ronda_Sant_Antoni_Barcelona.JPG | CC BY-SA 3.0 | No machine-readable author provided. 1997 assumed (based on 
+places/barcelona-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:039_Pastisseria_Mauri,_rambla_de_Catalunya_102_(Barcelona),_interior_amb_ous_de_Pasqua.jpg | CC BY 4.0 | Enric
+places/barcelona-cafe-2.jpg | https://www.flickr.com/photos/35237098986@N01/15042979936 | BY-NC-SA 2.0 | seanbonner
+places/barcelona-cafe-4.jpg | https://www.flickr.com/photos/11043119@N00/33351262314 | BY-NC-SA 2.0 | cherbert
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
