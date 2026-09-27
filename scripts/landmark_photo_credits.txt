@@ -86,7 +86,7 @@ places/lisbon-bakery-4.jpg | https://www.flickr.com/photos/17726320@N03/52239961
 places/lisbon-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Pastelaria_O_Careca.jpg | CC BY-SA 4.0 | DiogoBaptista
 places/lisbon-cafe-1.jpg | https://www.flickr.com/photos/24866547@N02/3093365622 | BY 2.0 | andrea.prave
 places/lisbon-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/28503727345 | BY 2.0 | Bex.Walton
-places/lisbon-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Flat_white_at_F%C3%A1brica_Coffee_Roasters,_Porto_(51706667301).jpg | CC BY 2.0 | Bex Walton from London, England
+places/lisbon-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/22180347070 | BY 2.0 | Bex.Walton
 
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
