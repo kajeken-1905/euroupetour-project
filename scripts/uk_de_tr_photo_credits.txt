@@ -105,7 +105,6 @@ highlights/windsor-1.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Castl
 highlights/windsor-2.jpg | https://commons.wikimedia.org/wiki/File:St._Georges_Chapel,_Windsor_Castle_(2).jpg | CC BY-SA 2.0 | Aurelien Guichard from London, United Kingdom (changes by
 highlights/windsor-3.jpg | https://commons.wikimedia.org/wiki/File:The_Long_Walk_to_Windsor_Castle_-_geograph.org.uk_-_5606153.jpg | CC BY-SA 2.0 | Len Williams 
 highlights/windsor-4.jpg | https://commons.wikimedia.org/wiki/File:MK17792_Eton_College_Chapel.jpg | CC BY-SA 3.0 | Martin Kraft
-cities/fussen.jpg | https://commons.wikimedia.org/wiki/File:Füssen_-_Altstadt.JPG | CC BY-SA 4.0 | C.Stadler/Bwag (talk /
 highlights/fussen-1.jpg | https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg | CC0 | Wilfredor
 highlights/fussen-2.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Hohenschwangau_2021.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-
 highlights/fussen-3.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Neuschwanstein_desde_Marienbrücke,_Füssen,_Alemania,_2012-10-06,_DD_07.jpg | CC BY-SA 3.0 | Diego Delso
@@ -174,7 +173,6 @@ highlights/borgo-maggiore-2.jpg | https://commons.wikimedia.org/wiki/File:RSM-Bo
 # Germany photo review (2026-09-25)
 cities/hamburg.jpg | https://commons.wikimedia.org/wiki/File:Hamburg,_Speicherstadt,_Wasserschloss_--_2016_--_3265-71.jpg | CC BY-SA 4.0 | Dietmar Rabich
 highlights/hamburg-2.jpg | https://commons.wikimedia.org/wiki/File:"Cap_San_Diego"_&_Elbphilharmonie_(Hamburg,_2019).jpg | CC BY-SA 4.0 | JoachimKohler-HB
-cities/berlin.jpg | https://commons.wikimedia.org/wiki/File:Berlin,_Brandenburger_Tor_--_2008_--_0153.jpg | CC BY-SA 4.0 | Dietmar Rabich
 highlights/berlin-7.jpg | https://commons.wikimedia.org/wiki/File:Berlin,_Charlottenburg,_Schloss,_2012-07_CN-03.jpg | CC BY-SA 3.0 de | kaʁstn Disk/
 cities/potsdam.jpg | https://commons.wikimedia.org/wiki/File:Alter_Markt_Potsdam_-_East_side.jpg | CC0 | Charlotte Heineccius
 highlights/potsdam-2.jpg | https://commons.wikimedia.org/wiki/File:Neues_Palais_Potsdam_-_Nordflügel_Gartenseite_01.jpg | CC BY-SA 3.0 | H. Zell
@@ -185,7 +183,6 @@ highlights/cologne-1.jpg | https://commons.wikimedia.org/wiki/File:Kölner_Dom_v
 cities/frankfurt.jpg | https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg | CC BY-SA 3.0 de | Christian Wolf (www.c-w-design.de)
 highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Sachsenhausen,_courtyard_restaurant.jpg | CC0 | Gerda Arendt
 highlights/leipzig-1.jpg | https://commons.wikimedia.org/wiki/File:Statue_of_Johann_Sebastian_Bach_at_the_St._Thomas_Church_in_Leipzig.jpg | CC BY-SA 4.0 | Yair Haklai
-cities/stuttgart.jpg | https://commons.wikimedia.org/wiki/File:Stadtansicht_Uhlandshöhe_mit_Sternwarte_Stuttgart_-_panoramio.jpg | CC BY 3.0 | Otto FARAGO
 highlights/stuttgart-4.jpg | https://commons.wikimedia.org/wiki/File:Wilhelma_Maurisches_Landhaus_qtl1.jpg | CC BY-SA 3.0 | Quartl
 highlights/stuttgart-5.jpg | https://commons.wikimedia.org/wiki/File:Canstatter_Rebhaenge-10-2014-gje.jpg | CC BY 4.0 | Gerd Eichmann
 cities/rothenburg.jpg | https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_BW_2008-07-01_16-39-18.jpg | CC BY-SA 4.0 | Berthold Werner

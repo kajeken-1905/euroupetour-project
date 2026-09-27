@@ -7,6 +7,10 @@ landmarks/landmark-ch.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_v
 highlights/aveiro-4.jpg | https://commons.wikimedia.org/wiki/File:Houses_of_Costa_Nova_(10249347345).jpg | CC BY 2.0 | François Philipp from Darmstadt, Germany
 landmarks/landmark-uk.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg | CC BY-SA 2.5 | Diliff
 cities/london.jpg | https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Dusk_Feb_2006.jpg | CC BY-SA 3.0 | Diliff
+cities/berlin.jpg | https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg | CC0 | Leonhard Lenz
+cities/fussen.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_at_morning3.jpg | CC BY-SA 2.0 | Christoph Strässler
+cities/munich.jpg | https://commons.wikimedia.org/wiki/File:Munich_skyline.jpg | CC BY-SA 3.0 | Stefan Kühn
+cities/stuttgart.jpg | https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz_Stuttgart_2015_04.jpg | CC BY 4.0 | Julian Herzog (Website)
 
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
