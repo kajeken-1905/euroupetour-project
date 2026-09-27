@@ -50,6 +50,17 @@ highlights/paris-38.jpg | https://commons.wikimedia.org/wiki/File:Grande_Arche,_
 highlights/paris-39.jpg | https://commons.wikimedia.org/wiki/File:Cemetery_P%C3%A8re-Lachaise_in_autumn_01.jpg | CC BY-SA 3.0 | Pierre-Yves Beaudouin
 # highlights/paris-36.jpg | moved from previous highlights/paris-4.jpg (source not recorded)
 
+# Paris place photos (Openverse/Flickr + Commons)
+places/paris-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Arp%C3%A8ge.jpg | CC BY-SA 2.0 | NIeFH from Taipei, Taiwan
+places/paris-fine_dining-2.jpg | https://www.flickr.com/photos/34377776@N00/6354818383 | BY-SA 2.0 | awduthie
+places/paris-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Bouillon_Chartier_Montparnasse.jpg | CC BY-SA 4.0 | Arthur Weidmann
+places/paris-fine_dining-5.jpg | https://www.flickr.com/photos/58165732@N00/3979316291 | BY 2.0 | imgdive
+places/paris-bakery-1.jpg | https://www.flickr.com/photos/61802231@N00/4552596663 | BY-NC 2.0 | Mirka23
+places/paris-bakery-2.jpg | https://www.flickr.com/photos/76396789@N00/382057625 | BY 2.0 | Tjeerd
+places/paris-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:51_Rue_Montorgueil,_Paris_(02).jpg | CC BY-SA 4.0 | Neoclassicism Enthusiast
+places/paris-bakery-5.jpg | https://www.flickr.com/photos/41111966@N04/5129980173 | BY-NC-SA 2.0 | ER's Eyes - Our planet is beautiful.
+places/paris-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore.jpg | Public domain | Arnaud 25
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
