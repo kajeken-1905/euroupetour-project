@@ -193,7 +193,6 @@ highlights/rothenburg-2.jpg | https://commons.wikimedia.org/wiki/File:Plönlein,
 highlights/nuremberg-2.jpg | https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_Frauenkirche_4669.jpg | CC BY-SA 4.0 | Hubertl
 
 # Belgium / Netherlands / Luxembourg / Coimbra photo review (2026-09-25)
-cities/brussels.jpg | https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_Bélgica,_2021-12-15,_DD_184-186_HDR.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/brussels-1.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_of_Brussels,_10_July_2026.jpg | CC BY-SA 4.0 | Danny William Wilson
 highlights/brussels-4.jpg | https://commons.wikimedia.org/wiki/File:Bruxelles_-_Église_Sainte-Catherine_(40333328593).jpg | CC BY 2.0 | Fred Romero from Paris, France
 cities/bruges.jpg | https://commons.wikimedia.org/wiki/File:Rozenhoedkaai_(canal)_and_Belfry_of_Bruges,_Bruges,_Belgium_(Ank_Kumar,_Infosys_Limited)_01.jpg | CC BY-SA 4.0 | Ank Kumar
@@ -283,7 +282,6 @@ cities/flam.jpg | https://commons.wikimedia.org/wiki/File:Flåm_2013_06_03_1807.
 
 # Landmark illustrations -> photos (2026-09-25)
 landmarks/landmark-uk.jpg | https://commons.wikimedia.org/wiki/File:Tower_Bridge_golden_hour.jpg | CC BY-SA 2.5 ca | The Cosmonaut
-landmarks/landmark-be.jpg | https://commons.wikimedia.org/wiki/File:2018_flower_carpet_at_Grand_Place,_Brussels_(DSCF6849).jpg | CC BY 4.0 | Trougnouf (Benoit Brummer)
 landmarks/landmark-nl.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam_Canal_Houses_(Unsplash).jpg | CC0 | Kaci Baum kacibaum
 landmarks/landmark-lu.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Grund_from_Verlorenkost_01.jpg | CC BY-SA 3.0 | Cayambe
 landmarks/landmark-dk.jpg | https://commons.wikimedia.org/wiki/File:Boats_at_Nyhavn,_Copenhagen,_20220616_1937_6628.jpg | CC BY-SA 4.0 | Jakub Hałun
@@ -513,7 +511,6 @@ highlights/marseille-4.jpg | https://commons.wikimedia.org/wiki/File:Calanca_de_
 cities/bordeaux.jpg | https://commons.wikimedia.org/wiki/File:Saint-Émilion_and_Vineyards.jpg | CC BY-SA 3.0 | Jordy Meow
 
 # Switzerland — owner-selected photos (2026-09-26)
-cities/zurich.jpg | https://commons.wikimedia.org/wiki/File:Zürich_view_Quaibrücke_20200702.jpg | CC BY-SA 3.0 | Daniel Kraft
 highlights/zurich-4.jpg | https://commons.wikimedia.org/wiki/File:Alps_from_zurich.jpg | CC BY-SA 4.0 | Matias Senger
 highlights/geneva-2.jpg | https://commons.wikimedia.org/wiki/File:Place_du_Bourg-de-Four_in_Geneva_old_town.jpg | CC0 | Ypsilon from Finland
 highlights/geneva-3.jpg | https://commons.wikimedia.org/wiki/File:St_Pierre_Cathedral_-_Geneva,_Switzerland_-_panoramio.jpg | CC BY-SA 3.0 | Sergey Ashmarin

@@ -1,0 +1,13 @@
+# Country card (landmarkImage) + city card (signatureImage) photo credits (Wikimedia Commons, CC/PD licensed)
+# public path | Commons file | license | author
+
+landmarks/landmark-fr.jpg | https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%27%C3%89toile_June_16,_2012.jpg | CC BY-SA 2.0 | Falko MD
+cities/paris.jpg | https://commons.wikimedia.org/wiki/File:Blue_hour_in_Paris_(27212135337).jpg | CC BY 2.0 | salomon10 from Germany
+landmarks/landmark-ch.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_vom_Stellisee_aus_betrachtet.jpg | CC BY-SA 4.0 | David Kratschmann
+
+# Owner's own photos (no attribution needed)
+# landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
+# landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
+# cities/zurich.jpg | IMG_6127 (2023-10-25, Limmat skyline) | owner
+# landmarks/landmark-be.jpg | 20170803_131210_HDR (2017-08-03, Grand-Place town hall) | owner
+# cities/brussels.jpg | 20170803_131210_HDR (2017-08-03, Grand-Place) | owner
