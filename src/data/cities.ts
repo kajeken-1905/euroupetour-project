@@ -18546,7 +18546,7 @@ export const cities: City[] = [
         id: "soroca-h2",
         name: { ko: "집시 언덕", en: "Gypsy Hill" },
         description: { ko: "화려한 저택들이 늘어선 언덕입니다.", en: "Hillside of ornate mansions." },
-        image: "/highlights/soroca-2.svg",
+        image: "/highlights/soroca-2.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Soroca%20Gypsy%20Hill",
       },
       {

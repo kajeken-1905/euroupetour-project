@@ -565,3 +565,61 @@ highlights/calvi-2.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_l'Alga
 highlights/calvi-3.jpg | https://commons.wikimedia.org/wiki/File:Calvi_N-D_de_La_Serra_panorama.jpg | CC BY-SA 3.0 | Pierre Bona
 highlights/calvi-4.jpg | https://commons.wikimedia.org/wiki/File:Lumio_îlot_de_Spano.jpg | CC BY-SA 4.0 | Pierre Bona
 highlights/ajaccio-1.jpg | https://commons.wikimedia.org/wiki/File:Musée_de_la_maison_Bonaparte.jpg | CC BY-SA 4.0 | Sebring12Hrs
+
+# Romania/Turkey/Cyprus/Malta/Caucasus/Ukraine/Moldova — owner-selected (2026-09-27)
+cities/bucharest.jpg | https://commons.wikimedia.org/wiki/File:Bucharest_-_Sunset_on_Lipscani_Street_(28592940111).jpg | CC BY 2.0 | Ștefan Jurcă from Munich, Germany
+highlights/bucharest-4.jpg | https://commons.wikimedia.org/wiki/File:Lake_Herăstrău_(AP4P1019_1PS)_(29510654861).jpg | CC BY 2.0 | Alexandru Panoiu from Bucharest, Romania
+highlights/bucharest-6.jpg | https://commons.wikimedia.org/wiki/File:Centre_part_of_the_façade_of_the_Royal_Palace_in_Bucharest_(Romania),_now_the_National_Museum_of_Art_of_Romania.jpg | CC BY-SA 4.0 | Neoclassicism Enthusiast
+cities/brasov.jpg | https://commons.wikimedia.org/wiki/File:RO_BV_Council_Square_from_Tampa.jpg | CC BY-SA 4.0 | Andrei Stroe
+highlights/brasov-3.jpg | https://commons.wikimedia.org/wiki/File:RO_BV_Tampa_from_west.jpg | CC0 | Whitepixels
+highlights/brasov-4.jpg | https://commons.wikimedia.org/wiki/File:Bran_Castle_TB1.jpg | CC BY-SA 4.0 | Todor Bozhinov
+highlights/sibiu-1.jpg | https://commons.wikimedia.org/wiki/File:2023_Piata_Mare_din_Sibiu.jpg | CC BY 4.0 | Chainwit.
+cities/cluj-napoca.jpg | https://commons.wikimedia.org/wiki/File:Piața_Unirii_din_Cluj-Napoca_(52055213738).jpg | CC BY-SA 2.0 | Nuță Lucian from Cluj-Napoca, Romania
+landmarks/landmark-tr.jpg | https://commons.wikimedia.org/wiki/File:Hot_air_balloon_start_in_Cappadocia_2014.jpg | CC BY-SA 3.0 | unknown
+cities/istanbul.jpg | https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg | CC0 | Hunanuk
+highlights/istanbul-2.jpg | https://commons.wikimedia.org/wiki/File:Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)
+highlights/istanbul-5.jpg | https://commons.wikimedia.org/wiki/File:Karaköy_ve_Galata_Kulesi_Günbatımı_Silüeti.jpg | CC0 | Hamdigumus
+highlights/goreme-8.jpg | https://commons.wikimedia.org/wiki/File:Kızılırmak_River_in_Avanos_in_2011_9703.jpg | CC BY-SA 4.0 | Dosseman
+cities/ankara.jpg | https://commons.wikimedia.org/wiki/File:Kocatepe_Camii_Ankara.JPG | CC BY-SA 3.0 | Bjørn Christian Tørrissen
+highlights/ankara-1.jpg | https://commons.wikimedia.org/wiki/File:Ataturk's_Mausoleum_(6225341313).jpg | CC BY 2.0 | William Neuheisel from DC, US
+highlights/ankara-3.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations001.jpg | CC BY-SA 3.0 | Georges Jansoone (JoJan)
+highlights/izmir-1.jpg | https://commons.wikimedia.org/wiki/File:Izmir-kordonboyu_-_panoramio_-_HALUK_COMERTEL_(7).jpg | CC BY 3.0 | HALUK COMERTEL
+cities/bursa.jpg | https://commons.wikimedia.org/wiki/File:Grand_Mosque_of_Bursa_at_South_exterior_side_in_2006_3022.jpg | CC BY-SA 4.0 | Dosseman
+highlights/trabzon-5.jpg | https://commons.wikimedia.org/wiki/File:Boztepe,_Trabzon_-_panoramio_(2).jpg | CC BY 3.0 | Murat Atasoy
+highlights/limassol-3.jpg | https://commons.wikimedia.org/wiki/File:Limassol_Molos_01.jpg | CC BY-SA 4.0 | Lomaine
+highlights/limassol-5.jpg | https://commons.wikimedia.org/wiki/File:OmodosMar152023_02.jpg | CC BY-SA 4.0 | Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר
+highlights/paphos-3.jpg | https://commons.wikimedia.org/wiki/File:Tombs_of_the_Kings,_Paphos,_Cyprus.jpg | CC BY-SA 4.0 | Seainme
+cities/ayia-napa.jpg | https://commons.wikimedia.org/wiki/File:Ayia_Napa_beach_(14101813595).jpg | CC BY 2.0 | Evgeniy Isaev from Moscow, Russia
+landmarks/landmark-mt.jpg | https://commons.wikimedia.org/wiki/File:Grand_Harbour_seen_from_Triq_Girolamo_Cassar_n02.jpg | CC BY 2.5 | Marie-Lan Nguyen
+cities/mdina.jpg | https://commons.wikimedia.org/wiki/File:Malta_Mdina_BW_2011-10-05_13-02-11_1.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/mdina-3.jpg | https://commons.wikimedia.org/wiki/File:Casa_del_Tesoriere,_Mdina.jpg | CC BY-SA 4.0 | Marika Caruana
+highlights/mdina-4.jpg | https://commons.wikimedia.org/wiki/File:Street_in_Mdina,_Malta_(34813566116).jpg | CC BY 2.0 | Sebastiaan ter Burg from Utrecht, The Netherlands
+highlights/mdina-5.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_Falson_Mdina_1.jpg | CC0 | Edelmauswaldgeist
+cities/gozo.jpg | https://commons.wikimedia.org/wiki/File:Xlendi_Bucht_Panorama.jpg | CC BY-SA 3.0 | Wusel007
+landmarks/landmark-ge.jpg | https://commons.wikimedia.org/wiki/File:Gergeti_Trinity_Church_and_Kuru_mountain_range_as_seen_from_Kazbek_slopes,_Georgia.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/tbilisi-1.jpg | https://commons.wikimedia.org/wiki/File:Narikala,_Tiflis,_Georgia,_2016-09-29,_DD_91.jpg | CC BY-SA 4.0 | Diego Delso
+cities/batumi.jpg | https://commons.wikimedia.org/wiki/File:Seafront_Promenade,_Batumi,_Georgia_-_panoramio.jpg | CC BY 3.0 | Андрей Бобровский
+highlights/batumi-3.jpg | https://commons.wikimedia.org/wiki/File:Mtsvane_Kontskhi,_Batumi_botanical_garden_08.jpg | CC BY-SA 4.0 | Jaba1977
+highlights/batumi-5.jpg | https://commons.wikimedia.org/wiki/File:Batumi_Piazza,_a_townsquare_in_central_Batumi.jpg | CC BY-SA 2.0 | Uwe Brodrecht
+cities/kutaisi.jpg | https://commons.wikimedia.org/wiki/File:Rioni_River,_Kutaisi.jpg | CC BY-SA 2.0 | Andrzej Wójtowicz
+cities/sighnaghi.jpg | https://commons.wikimedia.org/wiki/File:View_of_Sighnaghi_02.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/gyumri-3.jpg | https://commons.wikimedia.org/wiki/File:2014_Prowincja_Szirak,_Giumri,_Dawny_budynek_mieszkalny_rodziny_Dzitoghtsian_(02).jpg | CC BY-SA 4.0 | Marcin Konsek
+cities/dilijan.jpg | https://commons.wikimedia.org/wiki/File:Dilijan_town_lake,_April_2026,_no._8.jpg | CC0 | Textfabrikant
+highlights/baku-3.jpg | https://commons.wikimedia.org/wiki/File:MAIDEN_TOWER_BAKU_DAYTIME.מגדל_העלמה_באקו_ביום.jpg | CC0 | Avisadehh
+cities/sheki.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Kish-_one_of_the_oldest_in_the_Caucasians_(37278302982).jpg | CC BY 2.0 | shankar s. from Dubai, united arab emirates
+cities/kyiv.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Kyiv_Pechersk_Lavra_03.jpg | CC BY-SA 4.0 | Visem
+cities/odesa.jpg | https://commons.wikimedia.org/wiki/File:Odesa_Opera_2006.JPG | Public domain | Igor Turzhanskyy
+landmarks/landmark-md.jpg | https://commons.wikimedia.org/wiki/File:Orhei_Vechi_08.JPG | CC BY-SA 4.0 | Julian Nyča
+highlights/orheiul-vechi-2.jpg | https://commons.wikimedia.org/wiki/File:Orheiul_Vechi,_Rîul_Răut.jpg | CC BY-SA 4.0 | Denissemihov
+highlights/orheiul-vechi-3.jpg | https://commons.wikimedia.org/wiki/File:Wikimeetup_in_April_in_Moldova_18.JPG | CC BY-SA 4.0 | Jbuket
+highlights/soroca-1.jpg | https://commons.wikimedia.org/wiki/File:Сорокская_крепость_Cetatea_Soroca_Soroca_Fortress_(44738809521).jpg | CC0 | Photobank MD from Chisinau, Moldova
+
+# Eastern re-search — owner-selected (2026-09-27)
+highlights/bucharest-2.jpg | https://commons.wikimedia.org/wiki/File:Bucharest_-_Lipscani_Street_-_Leipziger_Straße_(28488410741).jpg | CC BY 2.0 | Ștefan Jurcă from Munich, Germany
+highlights/trabzon-4.jpg | https://commons.wikimedia.org/wiki/File:TRABZON_ATATÜRK_KÖŞKÜ_-_panoramio.jpg | CC BY 3.0 | Hüseyin Öcal
+highlights/bursa-2.jpg | https://commons.wikimedia.org/wiki/File:Yeşil_türbe_bursa_-_panoramio.jpg | CC BY 3.0 | Mustafa DUMAN
+highlights/trabzon-2.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_Hagia_Sophia_of_Trabzon.jpg | CC BY-SA 4.0 | User:Balkanique
+highlights/limassol-2.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Kolossi,_Chipre,_2021-12-14,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/sighnaghi-4.jpg | https://commons.wikimedia.org/wiki/File:Sighnaghi,_Georgia_-_panoramio_(36).jpg | CC BY 3.0 | Daibo Taku
+highlights/sheki-3.jpg | https://commons.wikimedia.org/wiki/File:Sheki_Upper_Caravanserai_-_photo_3.jpg | CC BY 4.0 | Rüfət Həsənli
+highlights/soroca-2.jpg | https://commons.wikimedia.org/wiki/File:Soroca.jpg | CC BY 2.0 | akk_rus
