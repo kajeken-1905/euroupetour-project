@@ -4,6 +4,7 @@
 landmarks/landmark-fr.jpg | https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%27%C3%89toile_June_16,_2012.jpg | CC BY-SA 2.0 | Falko MD
 cities/paris.jpg | https://commons.wikimedia.org/wiki/File:Blue_hour_in_Paris_(27212135337).jpg | CC BY 2.0 | salomon10 from Germany
 landmarks/landmark-ch.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_vom_Stellisee_aus_betrachtet.jpg | CC BY-SA 4.0 | David Kratschmann
+highlights/aveiro-4.jpg | https://commons.wikimedia.org/wiki/File:Houses_of_Costa_Nova_(10249347345).jpg | CC BY 2.0 | François Philipp from Darmstadt, Germany
 
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
@@ -15,3 +16,6 @@ landmarks/landmark-ch.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_v
 # cities/porto.jpg | IMG_0618 (2024-11-12, Douro sunset) | owner
 # highlights/lisbon-1.jpg | IMG_0868 (2024-11-16, Belém Tower) | owner
 # landmarks/landmark-pt.jpg | IMG_0165 (2024-11-08, Arco da Rua Augusta) | owner
+# cities/aveiro.jpg | IMG_0699 (2024-11-13, Aveiro canal) | owner
+# highlights/aveiro-1.jpg | IMG_0706 (2024-11-13, Canal Central) | owner
+# highlights/aveiro-2.jpg | IMG_0699 (2024-11-13, moliceiros on canal) | owner
