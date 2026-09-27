@@ -281,7 +281,6 @@ highlights/alesund-3.jpg | https://commons.wikimedia.org/wiki/File:Giske_DSC_029
 cities/flam.jpg | https://commons.wikimedia.org/wiki/File:Flåm_2013_06_03_1807.jpg | CC BY-SA 2.0 | Harvey Barrison from Massapequa, NY, USA
 
 # Landmark illustrations -> photos (2026-09-25)
-landmarks/landmark-uk.jpg | https://commons.wikimedia.org/wiki/File:Tower_Bridge_golden_hour.jpg | CC BY-SA 2.5 ca | The Cosmonaut
 landmarks/landmark-nl.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam_Canal_Houses_(Unsplash).jpg | CC0 | Kaci Baum kacibaum
 landmarks/landmark-lu.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Grund_from_Verlorenkost_01.jpg | CC BY-SA 3.0 | Cayambe
 landmarks/landmark-dk.jpg | https://commons.wikimedia.org/wiki/File:Boats_at_Nyhavn,_Copenhagen,_20220616_1937_6628.jpg | CC BY-SA 4.0 | Jakub Hałun

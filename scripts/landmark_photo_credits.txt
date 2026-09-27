@@ -5,6 +5,8 @@ landmarks/landmark-fr.jpg | https://commons.wikimedia.org/wiki/File:Arc_de_Triom
 cities/paris.jpg | https://commons.wikimedia.org/wiki/File:Blue_hour_in_Paris_(27212135337).jpg | CC BY 2.0 | salomon10 from Germany
 landmarks/landmark-ch.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_vom_Stellisee_aus_betrachtet.jpg | CC BY-SA 4.0 | David Kratschmann
 highlights/aveiro-4.jpg | https://commons.wikimedia.org/wiki/File:Houses_of_Costa_Nova_(10249347345).jpg | CC BY 2.0 | François Philipp from Darmstadt, Germany
+landmarks/landmark-uk.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg | CC BY-SA 2.5 | Diliff
+cities/london.jpg | https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Dusk_Feb_2006.jpg | CC BY-SA 3.0 | Diliff
 
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
