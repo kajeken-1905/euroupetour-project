@@ -12,6 +12,43 @@ cities/fussen.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanste
 cities/munich.jpg | https://commons.wikimedia.org/wiki/File:Munich_skyline.jpg | CC BY-SA 3.0 | Stefan Kühn
 cities/stuttgart.jpg | https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz_Stuttgart_2015_04.jpg | CC BY 4.0 | Julian Herzog (Website)
 
+# Paris highlights (2026-09-27)
+highlights/paris-4.jpg | https://commons.wikimedia.org/wiki/File:Montmartre,_Place_du_Tertre._Fortepan_69849.jpg | CC BY-SA 3.0 | FOTO:Fortepan — ID 69849: Adományozó/Donor: A R.
+highlights/paris-10.jpg | https://commons.wikimedia.org/wiki/File:Paris_View_from_the_Eiffel_Tower_third_floor_Palais_de_Chaillot_2015_01.jpg | CC0 | Maxime Homme
+highlights/paris-11.jpg | https://commons.wikimedia.org/wiki/File:Paris_75007_Champ-de-Mars_lawn_20170526_Eiffel_Tower_(6).jpg | CC BY 2.0 | xiquinhosilva from Cacau
+highlights/paris-12.jpg | https://commons.wikimedia.org/wiki/File:H%C3%B4tel_des_Invalides_-_20150801_16h09_(10630).jpg | CC BY-SA 4.0 | Another one of my pictures:
+
+
+
+This photograph was taken by 
+highlights/paris-13.jpg | https://commons.wikimedia.org/wiki/File:Le_Penseur_in_the_Jardin_du_Mus%C3%A9e_Rodin,_Paris_August_2013_003.jpg | CC BY 2.0 | Shadowgate from Novara, ITALY
+highlights/paris-14.jpg | https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg | CC BY 2.0 | Getfunky Paris
+highlights/paris-15.jpg | https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe,_Avenue_des_Champs-%C3%89lys%C3%A9es,_Paris,_France_(_Ank_Kumar_,_Infosys_Limited_)_01.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/paris-16.jpg | https://commons.wikimedia.org/wiki/File:Grand_Palais,_Paris_13_March_2019.jpg | CC BY 2.0 | Ștefan Jurcă from Paris, France
+highlights/paris-17.jpg | https://commons.wikimedia.org/wiki/File:Obelisk_and_fountain_in_Place_de_la_Concorde,_Paris.JPG | CC BY-SA 3.0 | Rodrigo Menezes
+highlights/paris-18.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_L%27Orangerie_Water_Lilies_Room.jpg | CC BY-SA 4.0 | Brady Brenot
+highlights/paris-19.jpg | https://commons.wikimedia.org/wiki/File:Grand_bassin_octogonal_Jardin_des_Tuileries_003.jpg | CC BY-SA 3.0 | Moonik
+highlights/paris-20.jpg | https://commons.wikimedia.org/wiki/File:Paris_Palais_Royal_Colonnes_de_Buren_4.jpg | CC BY-SA 4.0 | Zairon
+highlights/paris-21.jpg | https://commons.wikimedia.org/wiki/File:Principal_facade_of_the_Op%C3%A9ra_Garnier_20150803.jpg | CC BY-SA 4.0 | Suicasmo
+highlights/paris-22.jpg | https://commons.wikimedia.org/wiki/File:Paris_panorama_opera_A.jpg | Public domain | Wouter Hagens
+highlights/paris-23.jpg | https://commons.wikimedia.org/wiki/File:Place_Vend%C3%B4me_(Paris),_2006_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/paris-24.jpg | https://commons.wikimedia.org/wiki/File:The_Madeleine,_Paris,_France,_ca._1890-1900.jpg | Public domain | Unknown authorUnknown author
+highlights/paris-25.jpg | https://commons.wikimedia.org/wiki/File:Sainte-Chapelle,_Paris,_from_street.jpg | CC0 | Gerda Arendt
+highlights/paris-26.jpg | https://commons.wikimedia.org/wiki/File:Paris,_Conciergerie_--_2014_--_1320.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/paris-27.jpg | https://commons.wikimedia.org/wiki/File:Pont_Neuf_-_Paris_-_France.jpg | CC BY-SA 4.0 | Sumit Surai
+highlights/paris-28.jpg | https://commons.wikimedia.org/wiki/File:Paris,_H%C3%B4tel_de_Ville_--_2014_--_1720-5_-_2.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/paris-29.jpg | https://commons.wikimedia.org/wiki/File:Plaza_de_los_Vosgos,_Par%C3%ADs,_Francia,_2022-10-30,_DD_58.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/paris-30.jpg | https://commons.wikimedia.org/wiki/File:Pont_Royal_and_Mus%C3%A9e_d%27Orsay,_Paris_10_July_2020.jpg | CC0 | Pierre Blaché from Paris, France
+highlights/paris-31.jpg | https://commons.wikimedia.org/wiki/File:Panth%C3%A9on_de_Paris_in_July_2022_(2).jpg | CC BY-SA 4.0 | Maksim Sokolov (maxergon.com)
+highlights/paris-32.jpg | https://commons.wikimedia.org/wiki/File:2017_-_Le_palais_du_Luxembourg,_dans_le_jardin_du_Luxembourg,_Paris_-_3.jpg | CC BY-SA 4.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/paris-33.jpg | https://commons.wikimedia.org/wiki/File:Boulevard_Saint-Germain,_Paris_June_2010.jpg | CC BY-SA 2.0 | Aleksandr Zykov from Russia
+highlights/paris-34.jpg | https://commons.wikimedia.org/wiki/File:Shakespeare_and_Company_Bookshop_-_Paris_2012-04-07_n2.jpg | CC BY 2.0 | Jim Linwood from London
+highlights/paris-35.jpg | https://commons.wikimedia.org/wiki/File:Tour_Montparnasse_from_the_Eiffel_Tower,_16_August_2006.jpg | CC BY-SA 2.0 | mwanasimba from La Réunion
+highlights/paris-37.jpg | https://commons.wikimedia.org/wiki/File:Moulin_Rouge,_17_April_2011.jpg | CC BY 2.0 | Juanedc from Zaragoza, España
+highlights/paris-38.jpg | https://commons.wikimedia.org/wiki/File:Grande_Arche,_France_-_April_2011.jpg | CC BY 2.0 | Cristian Bortes from Cluj-Napoca, Romania
+highlights/paris-39.jpg | https://commons.wikimedia.org/wiki/File:Cemetery_P%C3%A8re-Lachaise_in_autumn_01.jpg | CC BY-SA 3.0 | Pierre-Yves Beaudouin
+# highlights/paris-36.jpg | moved from previous highlights/paris-4.jpg (source not recorded)
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

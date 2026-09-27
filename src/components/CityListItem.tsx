@@ -9,7 +9,7 @@ import { assetUrl } from '../utils/assetUrl'
 export function CityListItem({ city }: { city: City }) {
   const { lang } = useLanguage()
   const { data: visitedData } = useVisitedPlaces()
-  const highlight = city.highlights[0]?.name[lang] ?? ''
+  const highlight = city.cardTagline?.[lang] ?? city.highlights[0]?.name[lang] ?? ''
   const altNames = [city.name.en, city.nativeName]
     .filter((v, i, arr) => v !== city.name.ko && arr.indexOf(v) === i)
     .join(' · ')

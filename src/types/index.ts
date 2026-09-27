@@ -98,6 +98,8 @@ export interface City {
   nativeName: string
   blurb: { ko: string; en: string }
   highlights: CityHighlight[]
+  /** 도시 목록 카드의 한 줄 소개 (없으면 첫 번째 하이라이트 이름) */
+  cardTagline?: { ko: string; en: string }
   /** 도시 시그니처(랜드마크) 배경 이미지 */
   signatureImage: string
   /** 지도 핀 좌표 (선택) */
