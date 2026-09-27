@@ -77,6 +77,17 @@ places/barcelona-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:039_Pastis
 places/barcelona-cafe-2.jpg | https://www.flickr.com/photos/35237098986@N01/15042979936 | BY-NC-SA 2.0 | seanbonner
 places/barcelona-cafe-4.jpg | https://www.flickr.com/photos/11043119@N00/33351262314 | BY-NC-SA 2.0 | cherbert
 
+# Lisbon place photos
+places/lisbon-fine_dining-3.jpg | https://www.flickr.com/photos/27454212@N00/29109096678 | BY-SA 2.0 | Kent Wang
+places/lisbon-fine_dining-4.jpg | https://www.flickr.com/photos/29217566@N00/28627089198 | BY 2.0 | yawper
+places/lisbon-bakery-2.jpg | https://www.flickr.com/photos/7831824@N04/22342423936 | BY 2.0 | Bex.Walton
+places/lisbon-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:A_Padaria_Portuguesa_-_Rossio_(20240212201811).jpg | CC0 | JnpoJuwan
+places/lisbon-bakery-4.jpg | https://www.flickr.com/photos/17726320@N03/52239961836 | BY-NC-SA 2.0 | Kalboz
+places/lisbon-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Pastelaria_O_Careca.jpg | CC BY-SA 4.0 | DiogoBaptista
+places/lisbon-cafe-1.jpg | https://www.flickr.com/photos/24866547@N02/3093365622 | BY 2.0 | andrea.prave
+places/lisbon-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/28503727345 | BY 2.0 | Bex.Walton
+places/lisbon-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Flat_white_at_F%C3%A1brica_Coffee_Roasters,_Porto_(51706667301).jpg | CC BY 2.0 | Bex Walton from London, England
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
