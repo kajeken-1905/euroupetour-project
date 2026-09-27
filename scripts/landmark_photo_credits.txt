@@ -87,6 +87,13 @@ places/porto-fine_dining-5.jpg | https://www.flickr.com/photos/35995738@N00/2211
 places/porto-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/51707556015 | BY 2.0 | Bex.Walton
 places/porto-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/51706674956 | BY 2.0 | Bex.Walton
 
+# Madrid place photos
+places/madrid-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:DiverXO_AV4A3451_(27539839788).jpg | CC BY 2.0 | City Foodsters
+places/madrid-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_(Casa_Bot%C3%ADn)_Restaurant,_Madrid,_Spain_(_Ank_Kumar_)_05.jpg | CC BY-SA 4.0 | Ank Kumar
+places/madrid-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:StreetXO_barra.jpg | CC BY-SA 4.0 | Triplecaña
+places/madrid-fine_dining-5.jpg | https://www.flickr.com/photos/59170444@N05/46603244694 | CC0 1.0 | Txemai Argazki
+places/madrid-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Comercial_Exterior.jpg | CC0 | https://www.flickr.com/photos/boklm/
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
