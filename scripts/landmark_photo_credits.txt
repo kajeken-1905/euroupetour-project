@@ -55,7 +55,6 @@ places/paris-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Arp%C3%
 places/paris-fine_dining-2.jpg | https://www.flickr.com/photos/34377776@N00/6354818383 | BY-SA 2.0 | awduthie
 places/paris-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Bouillon_Chartier_Montparnasse.jpg | CC BY-SA 4.0 | Arthur Weidmann
 places/paris-fine_dining-5.jpg | https://www.flickr.com/photos/58165732@N00/3979316291 | BY 2.0 | imgdive
-places/paris-bakery-1.jpg | https://www.flickr.com/photos/61802231@N00/4552596663 | BY-NC 2.0 | Mirka23
 places/paris-bakery-2.jpg | https://www.flickr.com/photos/76396789@N00/382057625 | BY 2.0 | Tjeerd
 places/paris-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:51_Rue_Montorgueil,_Paris_(02).jpg | CC BY-SA 4.0 | Neoclassicism Enthusiast
 places/paris-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore.jpg | Public domain | Arnaud 25
@@ -67,26 +66,26 @@ places/paris-korean-2.jpg | https://www.flickr.com/photos/71368551@N00/680213210
 # Barcelona place photos
 places/barcelona-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Alkimia.jpg | CC BY-SA 3.0 | Pere prlpz
 places/barcelona-fine_dining-2.jpg | https://www.flickr.com/photos/72969462@N00/3620962676 | BY 2.0 | Ruby Grace Reyes
-places/barcelona-fine_dining-3.jpg | https://www.flickr.com/photos/89814034@N02/14151983890 | BY-NC-SA 2.0 | Natalia Piernas
 places/barcelona-fine_dining-4.jpg | https://www.flickr.com/photos/66722164@N00/4145480051 | BY 2.0 | veritatem
 places/barcelona-fine_dining-5.jpg | https://www.flickr.com/photos/27454212@N00/7422499666 | BY-SA 2.0 | Kent Wang
-places/barcelona-bakery-1.jpg | https://www.flickr.com/photos/7394371@N06/4672643574 | BY-NC-SA 2.0 | Ibán
 places/barcelona-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Barcelona_-_Pastisseria_Escrib%C3%A0.jpg | CC BY 2.0 | Fred Romero
 places/barcelona-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Fleca_Mistral_Ronda_Sant_Antoni_Barcelona.JPG | CC BY-SA 3.0 | No machine-readable author provided. 1997 assumed (based on 
 places/barcelona-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:039_Pastisseria_Mauri,_rambla_de_Catalunya_102_(Barcelona),_interior_amb_ous_de_Pasqua.jpg | CC BY 4.0 | Enric
-places/barcelona-cafe-2.jpg | https://www.flickr.com/photos/35237098986@N01/15042979936 | BY-NC-SA 2.0 | seanbonner
-places/barcelona-cafe-4.jpg | https://www.flickr.com/photos/11043119@N00/33351262314 | BY-NC-SA 2.0 | cherbert
 
 # Lisbon place photos
 places/lisbon-fine_dining-3.jpg | https://www.flickr.com/photos/27454212@N00/29109096678 | BY-SA 2.0 | Kent Wang
 places/lisbon-fine_dining-4.jpg | https://www.flickr.com/photos/29217566@N00/28627089198 | BY 2.0 | yawper
 places/lisbon-bakery-2.jpg | https://www.flickr.com/photos/7831824@N04/22342423936 | BY 2.0 | Bex.Walton
 places/lisbon-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:A_Padaria_Portuguesa_-_Rossio_(20240212201811).jpg | CC0 | JnpoJuwan
-places/lisbon-bakery-4.jpg | https://www.flickr.com/photos/17726320@N03/52239961836 | BY-NC-SA 2.0 | Kalboz
 places/lisbon-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Pastelaria_O_Careca.jpg | CC BY-SA 4.0 | DiogoBaptista
 places/lisbon-cafe-1.jpg | https://www.flickr.com/photos/24866547@N02/3093365622 | BY 2.0 | andrea.prave
 places/lisbon-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/28503727345 | BY 2.0 | Bex.Walton
 places/lisbon-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/22180347070 | BY 2.0 | Bex.Walton
+
+# Porto place photos
+places/porto-fine_dining-5.jpg | https://www.flickr.com/photos/35995738@N00/22116365132 | BY-SA 2.0 | Effervescing Elephant
+places/porto-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/51707556015 | BY 2.0 | Bex.Walton
+places/porto-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/51706674956 | BY 2.0 | Bex.Walton
 
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner

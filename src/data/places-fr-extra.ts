@@ -8,7 +8,7 @@ export const placesFRExtra: Place[] = [
   place('paris-fine_dining-3', 'paris', 'fine_dining', 'Septime', 4.6, 'Paris', '모던 프렌치 코스.', 'Modern French tasting.', { reviewCount: 2100 }),
   place('paris-fine_dining-4', 'paris', 'fine_dining', 'Bouillon Chartier', 4.3, 'Paris', '전통 부용 식당.', 'Historic bouillon canteen.', { reviewCount: 18000, image: '/places/paris-fine_dining-4.jpg' }),
   place('paris-fine_dining-5', 'paris', 'fine_dining', 'L\'Ami Jean', 4.5, 'Paris', '바스크 감성 비스트로.', 'Basque-spirited bistro.', { reviewCount: 3200, image: '/places/paris-fine_dining-5.jpg' }),
-  place('paris-bakery-1', 'paris', 'bakery', 'Du Pain et des Idées', 4.6, 'Paris', '유명 사워도우·페이스트리.', 'Famous sourdough and pastries.', { reviewCount: 4800, image: '/places/paris-bakery-1.jpg' }),
+  place('paris-bakery-1', 'paris', 'bakery', 'Du Pain et des Idées', 4.6, 'Paris', '유명 사워도우·페이스트리.', 'Famous sourdough and pastries.', { reviewCount: 4800 }),
   place('paris-bakery-2', 'paris', 'bakery', 'Poilâne', 4.5, 'Paris', '상징적 빵집.', 'Iconic bakery.', { reviewCount: 5600, image: '/places/paris-bakery-2.jpg' }),
   place('paris-bakery-3', 'paris', 'bakery', 'Stohrer', 4.5, 'Paris', '역사적 파티스리.', 'Historic pâtisserie.', { reviewCount: 3900, image: '/places/paris-bakery-3.jpg' }),
   place('paris-bakery-4', 'paris', 'bakery', 'Blé Sucré', 4.6, 'Paris', '크루아상·타르트.', 'Croissants and tarts.', { reviewCount: 2800 }),
