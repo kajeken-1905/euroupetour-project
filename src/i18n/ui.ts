@@ -114,6 +114,7 @@ export const ui = {
   playPhrase: { ko: '발음 재생', en: 'Play pronunciation' },
   countryFacts: { ko: '국가 정보', en: 'Country facts' },
   openMaps: { ko: 'Google Maps에서 열기', en: 'Open in Google Maps' },
+  viewPhotos: { ko: '사진 보기', en: 'Photos' },
   rating: { ko: '별점', en: 'Rating' },
   reviews: { ko: '리뷰', en: 'reviews' },
   back: { ko: '이전 페이지', en: 'Previous page' },

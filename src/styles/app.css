@@ -1048,6 +1048,29 @@ button.back-link {
   border: 1px solid var(--line);
 }
 
+.place-thumb--link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.place-thumb-icon {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.place-thumb-sub {
+  font-size: 10px;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
 @media (max-width: 360px) {
   .place-thumb {
     width: 84px;

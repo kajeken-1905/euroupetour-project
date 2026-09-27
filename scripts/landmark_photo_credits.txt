@@ -58,8 +58,11 @@ places/paris-fine_dining-5.jpg | https://www.flickr.com/photos/58165732@N00/3979
 places/paris-bakery-1.jpg | https://www.flickr.com/photos/61802231@N00/4552596663 | BY-NC 2.0 | Mirka23
 places/paris-bakery-2.jpg | https://www.flickr.com/photos/76396789@N00/382057625 | BY 2.0 | Tjeerd
 places/paris-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:51_Rue_Montorgueil,_Paris_(02).jpg | CC BY-SA 4.0 | Neoclassicism Enthusiast
-places/paris-bakery-5.jpg | https://www.flickr.com/photos/41111966@N04/5129980173 | BY-NC-SA 2.0 | ER's Eyes - Our planet is beautiful.
 places/paris-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore.jpg | Public domain | Arnaud 25
+places/paris-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/26977246754 | BY 2.0 | Bex.Walton
+places/paris-cafe-4.jpg | https://www.flickr.com/photos/68147320@N02/20668933102 | BY 2.0 | T.Tseng
+places/paris-cafe-5.jpg | https://www.flickr.com/photos/7831824@N04/33310678015 | BY 2.0 | Bex.Walton
+places/paris-korean-2.jpg | https://www.flickr.com/photos/71368551@N00/6802132109 | BY-SA 2.0 | Tonio Vega
 
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
