@@ -19,3 +19,4 @@ highlights/aveiro-4.jpg | https://commons.wikimedia.org/wiki/File:Houses_of_Cost
 # cities/aveiro.jpg | IMG_0699 (2024-11-13, Aveiro canal) | owner
 # highlights/aveiro-1.jpg | IMG_0706 (2024-11-13, Canal Central) | owner
 # highlights/aveiro-2.jpg | IMG_0699 (2024-11-13, moliceiros on canal) | owner
+# landmarks/landmark-es.jpg | IMG_4137 (2025-11-18, Sagrada Família Passion façade) | owner
