@@ -13,6 +13,7 @@ export const placesFRExtra: Place[] = [
   place('paris-bakery-3', 'paris', 'bakery', 'Stohrer', 4.5, 'Paris', '역사적 파티스리.', 'Historic pâtisserie.', { reviewCount: 3900, image: '/places/paris-bakery-3.jpg' }),
   place('paris-bakery-4', 'paris', 'bakery', 'Blé Sucré', 4.6, 'Paris', '크루아상·타르트.', 'Croissants and tarts.', { reviewCount: 2800 }),
   place('paris-bakery-5', 'paris', 'bakery', 'Boulangerie Utopie', 4.6, '20 Rue Jean-Pierre Timbaud, 75011 Paris, France', '2024년 파리 최고의 바게트로 선정된 11구의 인기 베이커리', "Popular 11th-arrondissement bakery awarded Paris's best baguette in 2024", { reviewCount: 2200 }),
+  place('paris-bakery-6', 'paris', 'bakery', 'Ladurée Royale', 4.3, '16 Rue Royale, 75008 Paris, France', '1862년 창업한 마카롱의 대명사, 마들렌 성당 근처의 본점 살롱 드 테', 'The macaron house founded in 1862 — its original tea room near La Madeleine', { image: '/places/paris-bakery-6.jpg' }),
   place('paris-cafe-1', 'paris', 'cafe', 'Café de Flore', 4.3, 'Paris', '생제르맹 클래식 카페.', 'Classic Saint-Germain café.', { reviewCount: 16000, image: '/places/paris-cafe-1.jpg' }),
   place('paris-cafe-2', 'paris', 'cafe', 'Beans on Fire', 4.5, 'Paris', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
   place('paris-cafe-3', 'paris', 'cafe', 'Coutume Café', 4.5, 'Paris', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100, image: '/places/paris-cafe-3.jpg' }),

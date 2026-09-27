@@ -81,3 +81,4 @@ places/paris-korean-2.jpg | https://www.flickr.com/photos/71368551@N00/680213210
 # cities/barcelona.jpg | IMG_4183 (2025-11-18, Sagrada Família Nativity side) | owner
 # highlights/barcelona-1.jpg | IMG_4147 (2025-11-18, Sagrada Família backlit) | owner
 # highlights/paris-6.jpg | owner photo (Arc de Triomphe, Place Charles-de-Gaulle) | owner
+# places/paris-bakery-6.jpg | 20170811_125644_HDR (2017-08-11, Ladurée macarons, bought at CDG airport shop) | owner
