@@ -11,3 +11,7 @@ landmarks/landmark-ch.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_v
 # cities/zurich.jpg | IMG_6127 (2023-10-25, Limmat skyline) | owner
 # landmarks/landmark-be.jpg | 20170803_131210_HDR (2017-08-03, Grand-Place town hall) | owner
 # cities/brussels.jpg | 20170803_131210_HDR (2017-08-03, Grand-Place) | owner
+# cities/lisbon.jpg | IMG_1034 (2024-11-18, Bica funicular) | owner
+# cities/porto.jpg | IMG_0618 (2024-11-12, Douro sunset) | owner
+# highlights/lisbon-1.jpg | IMG_0868 (2024-11-16, Belém Tower) | owner
+# landmarks/landmark-pt.jpg | IMG_0165 (2024-11-08, Arco da Rua Augusta) | owner
