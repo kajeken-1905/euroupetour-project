@@ -11,6 +11,7 @@ cities/berlin.jpg | https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Ber
 cities/fussen.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_at_morning3.jpg | CC BY-SA 2.0 | Christoph Strässler
 cities/munich.jpg | https://commons.wikimedia.org/wiki/File:Munich_skyline.jpg | CC BY-SA 3.0 | Stefan Kühn
 cities/stuttgart.jpg | https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz_Stuttgart_2015_04.jpg | CC BY 4.0 | Julian Herzog (Website)
+landmarks/landmark-de.jpg | https://commons.wikimedia.org/wiki/File:Daniel_Cox_-_Brandenburger_Tor_in_Berlin_bei_Sonnenaufgang_(DEU).jpg | CC BY-SA 4.0 | Daniel Cox
 
 # Paris highlights (2026-09-27)
 highlights/paris-4.jpg | https://commons.wikimedia.org/wiki/File:Montmartre,_Place_du_Tertre._Fortepan_69849.jpg | CC BY-SA 3.0 | FOTO:Fortepan — ID 69849: Adományozó/Donor: A R.
@@ -65,3 +66,4 @@ highlights/paris-39.jpg | https://commons.wikimedia.org/wiki/File:Cemetery_P%C3%
 # landmarks/landmark-es.jpg | IMG_4137 (2025-11-18, Sagrada Família Passion façade) | owner
 # cities/barcelona.jpg | IMG_4183 (2025-11-18, Sagrada Família Nativity side) | owner
 # highlights/barcelona-1.jpg | IMG_4147 (2025-11-18, Sagrada Família backlit) | owner
+# highlights/paris-6.jpg | owner photo (Arc de Triomphe, Place Charles-de-Gaulle) | owner
