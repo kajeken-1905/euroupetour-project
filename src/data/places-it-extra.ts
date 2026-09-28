@@ -272,7 +272,7 @@ export const placesITExtra: Place[] = [
   place('orvieto-fine_dining-2', 'orvieto', 'fine_dining', 'I Sette Consoli', 4.5, 'Piazza Sant\'Angelo 1/A, 05018 Orvieto', '대성당이 보이는 정원의 오르비에토 레스토랑.', 'Orvieto restaurant with a garden facing the cathedral.'),
 
   // —— capri ——
-  place('capri-fine_dining-1', 'capri', 'fine_dining', 'Da Paolino', 4.3, 'Via Palazzo a Mare 11, 80073 Capri', '레몬 나무 그늘 아래 카프리 전통 요리와 디저트 뷔페.', 'Caprese cooking under lemon trees, with a famous dessert buffet.'),
+  place('capri-fine_dining-1', 'capri', 'fine_dining', 'Da Paolino', 4.3, 'Via Palazzo a Mare 11, 80073 Capri', '레몬 나무 그늘 아래 카프리 전통 요리와 디저트 뷔페.', 'Caprese cooking under lemon trees, with a famous dessert buffet.', { image: '/places/capri-fine_dining-1.jpg' }),
   place('capri-fine_dining-2', 'capri', 'fine_dining', 'Aurora', 4.4, 'Via Fuorlovado 18, 80073 Capri', '얇고 바삭한 피자와 카프레제로 유명한 카프리의 명소.', 'Island icon known for ultra-thin pizza and caprese.'),
   place('capri-bakery-1', 'capri', 'bakery', 'Gelateria Buonocore', 4.5, 'Via Vittorio Emanuele 35, 80073 Capri', '1950년부터 이어진 수제 와플콘 젤라테리아.', 'Family gelateria with fresh waffle cones since 1950.'),
 
@@ -305,7 +305,7 @@ export const placesITExtra: Place[] = [
   place('lecce-bakery-1', 'lecce', 'bakery', 'Caffè Alvino', 4.3, 'Piazza Sant\'Oronzo 30, 73100 Lecce', '원형극장 앞 광장의 파스티치오토 명가.', 'Pasticciotto institution on Piazza Sant\'Oronzo.'),
   place('lecce-bakery-2', 'lecce', 'bakery', 'Natale Pasticceria', 4.5, 'Lecce, Italy', '산토론초 광장 인근의 제과점 겸 젤라테리아.', 'Pastry shop and gelateria near Piazza Sant\'Oronzo.'),
   place('lecce-fine_dining-1', 'lecce', 'fine_dining', 'Alle Due Corti', 4.4, 'Corte dei Giugni 1, 73100 Lecce', '치체리 에 트리아 등 살렌토 전통 요리 식당.', 'Traditional Salento cooking such as ciceri e tria.'),
-  place('lecce-fine_dining-2', 'lecce', 'fine_dining', 'Doppiozero', 4.5, 'Lecce, Italy', '대성당 뒤 골목의 작은 비스트로.', 'Small bistro on a lane behind the cathedral.'),
+  place('lecce-fine_dining-2', 'lecce', 'fine_dining', 'Doppiozero', 4.5, 'Lecce, Italy', '대성당 뒤 골목의 작은 비스트로.', 'Small bistro on a lane behind the cathedral.', { image: '/places/lecce-fine_dining-2.jpg' }),
 
   // —— tropea ——
   place('tropea-bakery-1', 'tropea', 'bakery', 'Gelateria Tonino', 4.6, 'Tropea, Italy', '붉은 양파·은두야 젤라토로 유명한 가게.', 'Gelateria famous for red-onion and \'nduja flavors.'),

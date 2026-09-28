@@ -122,6 +122,10 @@ places/siena-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Siena,_Nanni
 places/montepulciano-cafe-1.jpg | https://www.flickr.com/photos/10101918@N08/30247232168 | BY-SA 2.0 | g_u
 places/perugia-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A9_Sandri_Perugia.JPG | CC BY-SA 4.0 | Adri08
 
+# Southern Italy place photos
+places/capri-fine_dining-1.jpg | https://www.flickr.com/photos/81195835@N00/33521513134 | BY 2.0 | .curt.
+places/lecce-fine_dining-2.jpg | https://www.flickr.com/photos/51035756584@N01/36806107232 | BY 2.0 | Kaeru
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
