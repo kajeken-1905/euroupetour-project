@@ -126,6 +126,10 @@ places/perugia-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A9_S
 places/capri-fine_dining-1.jpg | https://www.flickr.com/photos/81195835@N00/33521513134 | BY 2.0 | .curt.
 places/lecce-fine_dining-2.jpg | https://www.flickr.com/photos/51035756584@N01/36806107232 | BY 2.0 | Kaeru
 
+# Sicily place photos
+places/siracusa-fine_dining-1.jpg | https://www.flickr.com/photos/49399018@N00/52720771251 | BY 2.0 | amanderson2
+places/taormina-cafe-1.jpg | https://www.flickr.com/photos/118744179@N03/13054296643 | BY-SA 2.0 | j.tarallo
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

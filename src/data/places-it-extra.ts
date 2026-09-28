@@ -312,7 +312,7 @@ export const placesITExtra: Place[] = [
   place('tropea-fine_dining-1', 'tropea', 'fine_dining', 'Osteria del Pescatore', 4.3, 'Tropea, Italy', '트로페아 구시가의 해산물 오스테리아.', 'Seafood osteria in Tropea\'s old town.'),
 
   // —— taormina ——
-  place('taormina-cafe-1', 'taormina', 'cafe', 'Bam Bar', 4.5, 'Via di Giovanni 43, 98039 Taormina', '타오르미나를 대표하는 그라니타 명소.', 'Taormina\'s most famous granita spot.'),
+  place('taormina-cafe-1', 'taormina', 'cafe', 'Bam Bar', 4.5, 'Via di Giovanni 43, 98039 Taormina', '타오르미나를 대표하는 그라니타 명소.', 'Taormina\'s most famous granita spot.', { image: '/places/taormina-cafe-1.jpg' }),
   place('taormina-bakery-1', 'taormina', 'bakery', 'Pasticceria D\'Amore', 4.6, 'Via Costantino Patricio 28, 98039 Taormina', '카놀리와 그라니타로 유명한 수제 제과점.', 'Artisan pastry shop known for cannoli and granita.'),
 
   // —— catania ——
@@ -320,7 +320,7 @@ export const placesITExtra: Place[] = [
   place('catania-fine_dining-1', 'catania', 'fine_dining', 'Osteria Antica Marina', 4.4, 'Via Pardo 29, 95121 Catania', '어시장 안 해산물 오스테리아.', 'Seafood osteria inside the fish market.'),
 
   // —— siracusa ——
-  place('siracusa-fine_dining-1', 'siracusa', 'fine_dining', 'Caseificio Borderi', 4.8, 'Via Emmanuele de Benedictis 6, 96100 Siracusa', '오르티자 시장의 거대 파니니 가게.', 'Ortigia market deli famous for huge panini.'),
+  place('siracusa-fine_dining-1', 'siracusa', 'fine_dining', 'Caseificio Borderi', 4.8, 'Via Emmanuele de Benedictis 6, 96100 Siracusa', '오르티자 시장의 거대 파니니 가게.', 'Ortigia market deli famous for huge panini.', { image: '/places/siracusa-fine_dining-1.jpg' }),
   place('siracusa-fine_dining-2', 'siracusa', 'fine_dining', 'Ristorante Don Camillo', 4.5, 'Via Maestranza 96, 96100 Siracusa', '시칠리아 고전 요리를 정교하게 내는 오르티자 레스토랑.', 'Ortigia restaurant with refined classic Sicilian dishes.'),
   place('siracusa-bakery-1', 'siracusa', 'bakery', 'Pasticceria Artale', 4.5, 'Via Landolina 32, 96100 Siracusa', '카놀리·카사타·그라니타의 오르티자 제과점.', 'Ortigia pastry shop for cannoli, cassata and granita.'),
 
