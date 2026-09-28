@@ -181,7 +181,7 @@ export const placesITExtra: Place[] = [
 
   place('palermo-bakery-1', 'palermo', 'bakery', 'Pasticceria Oscar 1965', 4.5, 'Via Principe di Belmonte 107, 90139 Palermo, Italy', '코르네토 리코타로 유명한 팔레르모의 인기 제과점', 'Popular Palermo pastry shop known for its cornetto ricotta'),
   place('palermo-bakery-2', 'palermo', 'bakery', 'Pasticceria Cappello', 4.4, 'Via Colonna Rotta 68, 90133 Palermo, Italy', '팔레르모의 유명 케이크 전문점.', 'Well-known cake shop in Palermo.', { reviewCount: 2651 }),
-  place('palermo-bakery-3', 'palermo', 'bakery', 'Cannoli', 4.8, 'Via Maqueda 266, 90134 Palermo, Italy', '팔레르모의 카놀리 전문점.', 'Cannoli specialist in Palermo.', { reviewCount: 2269 }),
+  place('palermo-bakery-3', 'palermo', 'bakery', 'Cannoli & Co.', 4.8, 'Via Maqueda 266-268, 90134 Palermo, Italy', '팔레르모의 카놀리 전문점.', 'Cannoli specialist in Palermo.', { reviewCount: 2269 }),
   place('palermo-bakery-4', 'palermo', 'bakery', 'I Segreti del Chiostro', 4.6, 'P.za Bellini 33, 90133 Palermo, Italy', '벨리니 광장의 팔레르모 케이크 전문점.', 'Cake shop on Piazza Bellini in Palermo.', { reviewCount: 2413 }),
   place('palermo-bakery-5', 'palermo', 'bakery', 'Pasticceria Costa', 4.7, 'Via Filippo Patti 30, 90141 Palermo, Italy', '팔레르모의 인기 제과점.', 'Popular pastry shop in Palermo.', { reviewCount: 1291 }),
   place('palermo-cafe-1', 'palermo', 'cafe', 'Bakery Cafe', 4.4, 'Via Giuseppe La Masa 3/A, 90144 Palermo, Italy', '팔레르모의 베이커리 카페', 'Bakery café in Palermo'),
