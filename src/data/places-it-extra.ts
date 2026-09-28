@@ -39,8 +39,8 @@ export const placesITExtra: Place[] = [
   place('milan-cafe-5', 'milan', 'cafe', 'Caffè Napoli Giardino', 4.5, 'Via Gaetano Giardino 1, 20124 Milano, Italy', '밀라노의 인기 커피숍.', 'Popular coffee shop in Milan.', { reviewCount: 894 }),
 
   // —— florence ——
-  place('florence-fine_dining-1', 'florence', 'fine_dining', 'Enoteca Pinchiorri', 4.6, 'Via Ghibellina 87, 50122 Firenze', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
-  place('florence-fine_dining-2', 'florence', 'fine_dining', "All'Antico Vinaio", 4.6, 'Via dei Neri 65r, 50122 Firenze, Italy', '항상 긴 줄이 늘어서는 피렌체의 상징적인 파니니 맛집', "Florence's iconic panini shop, famous for its ever-present line", { reviewCount: 24000 }),
+  place('florence-fine_dining-1', 'florence', 'fine_dining', 'Enoteca Pinchiorri', 4.6, 'Via Ghibellina 87, 50122 Firenze', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.', { image: '/places/florence-fine_dining-1.jpg' }),
+  place('florence-fine_dining-2', 'florence', 'fine_dining', "All'Antico Vinaio", 4.6, 'Via dei Neri 65r, 50122 Firenze, Italy', '항상 긴 줄이 늘어서는 피렌체의 상징적인 파니니 맛집', "Florence's iconic panini shop, famous for its ever-present line", { reviewCount: 24000, image: '/places/florence-fine_dining-2.jpg' }),
   place('florence-fine_dining-3', 'florence', 'fine_dining', 'Trattoria Sostanza', 4.5, 'Via del Porcellana 25/R, 50123 Firenze, Italy', "버터에 익힌 치킨(폴로 알 부로)으로 유명한 피렌체의 역사적인 트라토리아", 'Historic Florence trattoria famous for its butter-cooked chicken (pollo al burro)', { reviewCount: 5600 }),
   place('florence-fine_dining-4', 'florence', 'fine_dining', 'Trattoria Cammillo', 4.5, 'Borgo San Jacopo 57/r, 50125 Firenze, Italy', '1945년부터 이어온 가족 운영 트라토리아, 아티초크 튀김이 인기', 'Family-run trattoria since 1945, known for its legendary fried artichokes', { reviewCount: 3200 }),
   place('florence-fine_dining-5', 'florence', 'fine_dining', 'Trattoria Da Mario', 4.4, 'Via Rosina 2, 50123 Firenze, Italy', '산 로렌초 시장 인근의 로컬들이 즐겨 찾는 인기 트라토리아', 'Popular San Lorenzo-market-area trattoria beloved by locals', { reviewCount: 8400 }),
@@ -54,7 +54,7 @@ export const placesITExtra: Place[] = [
   place('florence-bakery-3', 'florence', 'bakery', 'Cantinetta dei Verrazzano', 4.5, 'Via dei Tavolini 18 Rosso, 50122 Firenze, Italy', '베이커리·와인바·카페를 겸하는 피렌체의 인기 명소, 매장에서 직접 구운 포카치아로 유명', 'Popular Florence bakery, wine bar and café known for its fresh in-house focaccia', { reviewCount: 3600 }),
   place('florence-bakery-4', 'florence', 'bakery', 'Pasticceria Buonamici', 4.6, "Via dell'Orto 27R, 50124 Firenze, Italy", '산 프레디아노 지구의 장인 파티스리, 브리오슈와 봄볼로니로 유명', 'Artisan patisserie in San Frediano known for its brioche and bomboloni'),
   place('florence-bakery-5', 'florence', 'bakery', 'Forno Becagli', 4.5, 'Borgo Ognissanti 92 Rosso, 50123 Firenze, Italy', '항상 줄이 늘어서는 피렌체의 인기 포르노, 샌드위치로 유명', 'Popular Florence forno known for its sandwiches, with a line out the door'),
-  place('florence-cafe-1', 'florence', 'cafe', 'Rivoire', 4.4, 'Piazza della Signoria 5r, 50122 Firenze, Italy', '1872년부터 이어온 전설적인 핫초콜릿으로 유명한 피렌체의 카페', 'Historic Florence café since 1872, famous for its legendary hot chocolate'),
+  place('florence-cafe-1', 'florence', 'cafe', 'Rivoire', 4.4, 'Piazza della Signoria 5r, 50122 Firenze, Italy', '1872년부터 이어온 전설적인 핫초콜릿으로 유명한 피렌체의 카페', 'Historic Florence café since 1872, famous for its legendary hot chocolate', { image: '/places/florence-cafe-1.jpg' }),
   place('florence-cafe-2', 'florence', 'cafe', 'Ditta Artigianale', 4.5, 'Via dei Neri 30/32R, 50122 Firenze, Italy', '2013년 챔피언 바리스타가 설립한 피렌체 스페셜티 커피의 선구자', "Florence's specialty coffee pioneer, founded in 2013 by a champion barista", { reviewCount: 4200 }),
   place('florence-cafe-3', 'florence', 'cafe', 'Coffee Mantra', 4.6, 'Borgo La Croce 71r, 50121 Firenze, Italy', '산타 크로체 지구의 피렌체 초기 서드웨이브 커피숍 중 하나', "One of Florence's earliest third-wave coffee shops, in the Santa Croce district"),
   place('florence-cafe-4', 'florence', 'cafe', 'Melaleuca', 4.6, 'Lungarno delle Grazie 18, 50122 Firenze, Italy', '아르노 강변에 위치한 호주인 운영 베이커리 겸 카페', 'Australian-run bakery and café overlooking the Arno river', { reviewCount: 1200 }),
@@ -153,7 +153,7 @@ export const placesITExtra: Place[] = [
   place('siena-fine_dining-1', 'siena', 'fine_dining', 'Particolare di Siena', 4.6, 'Via Baldassarre Peruzzi 26, 53100 Siena', '미쉐린 스타 레스토랑.', 'Michelin-starred restaurant.'),
   place('siena-fine_dining-2', 'siena', 'fine_dining', 'Caffè Fiaschetteria Il Pulcino', 4.1, 'Via dei Termini, 53100 Siena', '홈메이드 피치(시에나식 파스타)로 유명한 현지인들의 점심 명소.', 'Local lunch spot known for homemade pici pasta.', { reviewCount: 243 }),
   place('siena-bakery-1', 'siena', 'bakery', 'Pasticceria Le Campane', 4.5, 'Via Caduti di Vicobello 37, 53100 Siena, Italy', '가족이 운영하는 시에나의 전통 제과점', 'Family-run traditional pastry shop in Siena'),
-  place('siena-bakery-2', 'siena', 'bakery', "Pasticceria Nannini Conca D'Oro", 4.1, 'Via Banchi di Sopra 24, 53100 Siena, Italy', '시에나의 유명 제과점 난니니.', 'Well-known Nannini pastry shop in Siena.', { reviewCount: 4370 }),
+  place('siena-bakery-2', 'siena', 'bakery', "Pasticceria Nannini Conca D'Oro", 4.1, 'Via Banchi di Sopra 24, 53100 Siena, Italy', '시에나의 유명 제과점 난니니.', 'Well-known Nannini pastry shop in Siena.', { reviewCount: 4370, image: '/places/siena-bakery-2.jpg' }),
   place('siena-bakery-3', 'siena', 'bakery', 'Pasticceria Buti Siena', 4.6, 'Viale Vittorio Emanuele II 53, 53100 Siena, Italy', '시에나의 케이크 전문점.', 'Cake shop in Siena.', { reviewCount: 761 }),
   place('siena-bakery-4', 'siena', 'bakery', 'Bakery Il Magnifico', 4.7, 'Via dei Pellegrini 27, 53100 Siena, Italy', '시에나의 베이커리.', 'Bakery in Siena.', { reviewCount: 352 }),
   place('siena-bakery-5', 'siena', 'bakery', 'Pasticceria Corsini Siena', 4.4, 'Viale Armando Diaz 4, 53100 Siena, Italy', '시에나의 케이크 전문점.', 'Cake shop in Siena.', { reviewCount: 947 }),
@@ -252,19 +252,19 @@ export const placesITExtra: Place[] = [
 
   // —— lucca ——
   place('lucca-fine_dining-1', 'lucca', 'fine_dining', 'Buca di Sant\'Antonio', 4.4, 'Via della Cervia 3, 55100 Lucca', '1782년부터 이어진 루카의 가장 오래된 레스토랑 중 하나.', 'One of Lucca\'s oldest restaurants, going since 1782.'),
-  place('lucca-bakery-1', 'lucca', 'bakery', 'Taddeucci', 4.5, 'Piazza San Michele 34, 55100 Lucca', '1881년부터 루카 명물 부첼라토를 굽는 제과점.', 'Baking Lucca\'s buccellato since 1881.'),
+  place('lucca-bakery-1', 'lucca', 'bakery', 'Taddeucci', 4.5, 'Piazza San Michele 34, 55100 Lucca', '1881년부터 루카 명물 부첼라토를 굽는 제과점.', 'Baking Lucca\'s buccellato since 1881.', { image: '/places/lucca-bakery-1.jpg' }),
   place('lucca-bakery-2', 'lucca', 'bakery', 'Pizzeria Da Felice', 4.6, 'Via Buia 12, 55100 Lucca', '조각 피자와 카스타냐초로 유명한 오래된 가게.', 'Old-school spot for pizza by the slice and castagnaccio.'),
 
   // —— montepulciano ——
   place('montepulciano-fine_dining-1', 'montepulciano', 'fine_dining', 'La Grotta', 4.5, 'Via di San Biagio 15, 53045 Montepulciano', '산 비아조 성당 맞은편의 토스카나 레스토랑.', 'Tuscan restaurant facing the Tempio di San Biagio.'),
   place('montepulciano-fine_dining-2', 'montepulciano', 'fine_dining', 'Osteria Acquacheta', 4.6, 'Via del Teatro 22, 53045 Montepulciano', '비스테카 알라 피오렌티나로 유명한 작은 오스테리아.', 'Small osteria famed for bistecca alla fiorentina.'),
-  place('montepulciano-cafe-1', 'montepulciano', 'cafe', 'Caffè Poliziano', 4.3, 'Via di Voltaia nel Corso 27, 53045 Montepulciano', '1868년 개업, 계곡 전망 테라스의 아르누보 카페.', 'Art Nouveau café from 1868 with a valley-view terrace.'),
+  place('montepulciano-cafe-1', 'montepulciano', 'cafe', 'Caffè Poliziano', 4.3, 'Via di Voltaia nel Corso 27, 53045 Montepulciano', '1868년 개업, 계곡 전망 테라스의 아르누보 카페.', 'Art Nouveau café from 1868 with a valley-view terrace.', { image: '/places/montepulciano-cafe-1.jpg' }),
 
   // —— assisi ——
   place('assisi-bakery-1', 'assisi', 'bakery', 'Pasticceria Sensi', 4.3, 'Corso Giuseppe Mazzini 14, 06081 Assisi', '아시시 전통 과자 로차타로 유명한 제과점.', 'Pastry shop known for Assisi\'s rocciata.'),
 
   // —— perugia ——
-  place('perugia-cafe-1', 'perugia', 'cafe', 'Pasticceria Sandri', 4.5, 'Corso Vannucci 32, 06121 Perugia', '1860년 개업, 프레스코 천장의 역사 카페 겸 제과점.', 'Historic café-pastry shop from 1860 with frescoed ceilings.'),
+  place('perugia-cafe-1', 'perugia', 'cafe', 'Pasticceria Sandri', 4.5, 'Corso Vannucci 32, 06121 Perugia', '1860년 개업, 프레스코 천장의 역사 카페 겸 제과점.', 'Historic café-pastry shop from 1860 with frescoed ceilings.', { image: '/places/perugia-cafe-1.jpg' }),
   place('perugia-fine_dining-1', 'perugia', 'fine_dining', 'Osteria a Priori', 4.5, 'Via dei Priori 39, 06123 Perugia', '슬로푸드 원칙의 움브리아 향토 요리 오스테리아.', 'Slow Food-minded osteria serving Umbrian dishes.'),
 
   // —— orvieto ——

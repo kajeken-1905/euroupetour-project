@@ -113,6 +113,15 @@ places/padua-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Ped
 places/trieste-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A8_San_Marco-Trieste.jpg | Public domain | Tiesse
 places/modena-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Osteria_Francescana_IMG_2703_(23174690034).jpg | CC BY 2.0 | City Foodsters
 
+# Central Italy place photos
+places/florence-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_jacometti-ciofi_(enoteca_pinchiorri).JPG | CC BY 2.5 | sailko
+places/florence-fine_dining-2.jpg | https://www.flickr.com/photos/27454212@N00/16154759518 | BY-SA 2.0 | Kent Wang
+places/florence-cafe-1.jpg | https://www.flickr.com/photos/27454212@N00/16340565691 | BY-SA 2.0 | Kent Wang
+places/lucca-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Buccellato_di_Lucca_Taddeucci_01.jpg | CC BY-SA 4.0 | Camelia.boban
+places/siena-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Siena,_Nannini_conca_d%27oro.jpg | CC BY 4.0 | Alienautic
+places/montepulciano-cafe-1.jpg | https://www.flickr.com/photos/10101918@N08/30247232168 | BY-SA 2.0 | g_u
+places/perugia-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A9_Sandri_Perugia.JPG | CC BY-SA 4.0 | Adri08
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
