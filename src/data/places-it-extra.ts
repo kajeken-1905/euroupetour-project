@@ -26,7 +26,7 @@ export const placesITExtra: Place[] = [
 
   // —— milan ——
   place('milan-fine_dining-1', 'milan', 'fine_dining', 'Ratanà', 4.9, 'Via Gaetano de Castillia 28, 20124 Milano', '개조된 철도 건물의 밀라노·롬바르디아 요리 레스토랑, 현대적으로 재해석한 리조토 알라 밀라네제로 유명.', 'Milanese-Lombard restaurant in a converted railway building, known for its modern take on risotto alla Milanese.', { reviewCount: 6888 }),
-  place('milan-fine_dining-2', 'milan', 'fine_dining', 'Risoelatte', 4.5, 'Via Laura Solera Mantegazza 5, 20122 Milano', '1960년대 인테리어가 인상적인 정통 밀라노 요리 레스토랑.', 'Authentic Milanese restaurant with distinctive 1960s decor.'),
+  place('milan-fine_dining-2', 'milan', 'fine_dining', 'Risoelatte', 4.5, 'Via Laura Solera Mantegazza 5, 20122 Milano', '1960년대 인테리어가 인상적인 정통 밀라노 요리 레스토랑.', 'Authentic Milanese restaurant with distinctive 1960s decor.', { image: '/places/milan-fine_dining-2.jpg' }),
   place('milan-korean-1', 'milan', 'korean', 'Ginmi', 4.5, 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥이 유명한 한식당.', 'Korean restaurant known for dolsot bibimbap.'),
   place('milan-korean-2', 'milan', 'korean', 'Seoul Ristorante Coreano', 4.5, 'Milano, Italy', '밀라노 최고의 한식당 중 하나로 꼽히는 곳.', "Regarded as one of Milan's best Korean restaurants."),
   place('milan-korean-3', 'milan', 'korean', 'Hana Ristorante Coreano', 3.9, 'Milano, Italy', '1998년부터 이어온 밀라노의 정통 한식당.', 'Authentic Korean restaurant in Milan since 1998.'),
@@ -69,7 +69,7 @@ export const placesITExtra: Place[] = [
   place('venice-bakery-3', 'venice', 'bakery', 'Pasticceria Rizzardini', 4.7, 'Campiello dei Meloni 1415, 30125 Venezia, Italy', '베네치아의 오래된 케이크 전문점.', 'Long-running cake shop in Venice.', { reviewCount: 737 }),
   place('venice-bakery-4', 'venice', 'bakery', 'Pasticceria Bonifacio', 4.7, 'C. degli Albanesi 4237, 30122 Venezia, Italy', '베네치아의 케이크 전문점.', 'Cake shop in Venice.', { reviewCount: 519 }),
   place('venice-bakery-5', 'venice', 'bakery', 'Venice Bakery - Master Artisan', 4.6, 'Calle de le Rasse 4537, 30122 Venezia, Italy', '베네치아의 아르티장 베이커리.', 'Artisan bakery in Venice.', { reviewCount: 522 }),
-  place('venice-cafe-1', 'venice', 'cafe', 'Rosa Salva', 4.4, 'San Marco 950, Calle Fiubera, 30124 Venezia, Italy', '1870년부터 이어온 베네치아의 가족 운영 카페 겸 제과점', 'Family-owned Venice café and pasticceria since 1870'),
+  place('venice-cafe-1', 'venice', 'cafe', 'Rosa Salva', 4.4, 'San Marco 950, Calle Fiubera, 30124 Venezia, Italy', '1870년부터 이어온 베네치아의 가족 운영 카페 겸 제과점', 'Family-owned Venice café and pasticceria since 1870', { image: '/places/venice-cafe-1.jpg' }),
   place('venice-cafe-2', 'venice', 'cafe', 'Caffè Florian', 3.8, 'P.za San Marco 57, 30124 Venezia, Italy', '1720년 개업한 산 마르코 광장의 세계에서 가장 오래된 카페 중 하나.', 'One of the world\'s oldest cafés, opened in 1720 on St. Mark\'s Square.', { reviewCount: 7995, image: '/places/venice-cafe-2.jpg' }),
   place('venice-cafe-3', 'venice', 'cafe', 'Caffè del Doge', 4.3, 'Rialto, Calle dei Cinque 609, 30125 Venezia, Italy', '리알토 지역의 베네치아 에스프레소 바.', 'Espresso bar in the Rialto area of Venice.', { reviewCount: 2179 }),
   place('venice-cafe-4', 'venice', 'cafe', 'Caffè Cannaregio', 4.4, 'Fondamenta dei Ormesini 2804, 30121 Venezia, Italy', '카나레조 지구의 베네치아 커피숍.', 'Coffee shop in the Cannaregio district of Venice.', { reviewCount: 2222 }),
@@ -111,7 +111,7 @@ export const placesITExtra: Place[] = [
   // —— verona ——
   place('verona-fine_dining-1', 'verona', 'fine_dining', 'Ristorante il Desco', 4.6, 'Via Dietro San Sebastiano 5-7, 37121 Verona', '미쉐린 스타 레스토랑.', 'Michelin-starred restaurant.'),
   place('verona-fine_dining-2', 'verona', 'fine_dining', 'Osteria del Bugiardo', 4.3, 'Corso Porta Borsari 17/A, 37121 Verona', '베로나 중심가의 정통 오스테리아, 다양한 안티파스티와 치즈로 유명.', 'Authentic osteria in central Verona, known for its antipasti and cheese selection.', { reviewCount: 6589 }),
-  place('verona-fine_dining-3', 'verona', 'fine_dining', 'Antica Bottega del Vino', 4.2, 'Vicolo Scudo di Francia 3, 37121 Verona', '16세기부터 이어온 역사적인 와인바, 1만 8천 병 이상의 와인 셀러 보유.', 'Historic wine bar dating to the 16th century, with a cellar of over 18,000 bottles.', { reviewCount: 9511 }),
+  place('verona-fine_dining-3', 'verona', 'fine_dining', 'Antica Bottega del Vino', 4.2, 'Vicolo Scudo di Francia 3, 37121 Verona', '16세기부터 이어온 역사적인 와인바, 1만 8천 병 이상의 와인 셀러 보유.', 'Historic wine bar dating to the 16th century, with a cellar of over 18,000 bottles.', { reviewCount: 9511, image: '/places/verona-fine_dining-3.jpg' }),
   place('verona-bakery-1', 'verona', 'bakery', 'Elk Bakery', 4.5, 'Corso Porta Borsari 15D, 37121 Verona, Italy', '홈메이드 브런치 메뉴로 유명한 베로나의 베이커리 카페', 'Verona bakery café known for its homemade brunch menu'),
   place('verona-bakery-2', 'verona', 'bakery', 'Il Tiramisù di Giulietta', 4.9, 'Via Cappello 21, 37121 Verona, Italy', '줄리엣의 집 인근의 베로나 티라미수 전문점.', "Tiramisu specialist near Juliet's House in Verona.", { reviewCount: 1526 }),
   place('verona-bakery-3', 'verona', 'bakery', 'Pasticceria Roma', 4.3, 'Via Cesena 14, 37135 Verona, Italy', '베로나의 인기 제과점.', 'Popular pastry shop in Verona.', { reviewCount: 2159 }),
@@ -131,9 +131,9 @@ export const placesITExtra: Place[] = [
   place('turin-bakery-3', 'turin', 'bakery', 'Pasticceria Venier', 4.6, 'Via Monte di Pietà 22, 10121 Torino, Italy', '토리노의 디저트 전문점.', 'Dessert shop in Turin.', { reviewCount: 1258 }),
   place('turin-bakery-4', 'turin', 'bakery', 'Cabaret Pasticceria dal 1991', 4.8, 'Via dei Mercanti 8b, 10122 Torino, Italy', '1991년부터 이어온 토리노의 제과점.', 'Turin pastry shop operating since 1991.', { reviewCount: 438 }),
   place('turin-bakery-5', 'turin', 'bakery', 'Sa Fancy', 4.9, 'Via Po 27, 10124 Torino, Italy', '토리노 포 거리의 제과점.', 'Pastry shop on Via Po in Turin.', { reviewCount: 218 }),
-  place('turin-cafe-1', 'turin', 'cafe', 'Roma già Talmone', 4.5, 'Corso Vittorio Emanuele II 72, 10121 Torino, Italy', '페이스트리와 트라메지니로 유명한 토리노의 역사적 카페', 'Historic Turin café known for pastries and tramezzini'),
-  place('turin-cafe-2', 'turin', 'cafe', 'Caffé Al Bicerin', 4.3, 'Piazza della Consolata 5, 10122 Torino, Italy', '비체린 음료가 탄생한 토리노의 역사적인 카페.', 'Historic Turin café where the bicerin drink was invented.', { reviewCount: 3778 }),
-  place('turin-cafe-3', 'turin', 'cafe', 'Baratti & Milano', 4.3, 'P.za Castello 29, 10121 Torino, Italy', '카스텔로 광장의 토리노 역사적 카페.', 'Historic café on Piazza Castello in Turin.', { reviewCount: 2506 }),
+  place('turin-cafe-1', 'turin', 'cafe', 'Roma già Talmone', 4.5, 'Corso Vittorio Emanuele II 72, 10121 Torino, Italy', '페이스트리와 트라메지니로 유명한 토리노의 역사적 카페', 'Historic Turin café known for pastries and tramezzini', { image: '/places/turin-cafe-1.jpg' }),
+  place('turin-cafe-2', 'turin', 'cafe', 'Caffé Al Bicerin', 4.3, 'Piazza della Consolata 5, 10122 Torino, Italy', '비체린 음료가 탄생한 토리노의 역사적인 카페.', 'Historic Turin café where the bicerin drink was invented.', { reviewCount: 3778, image: '/places/turin-cafe-2.jpg' }),
+  place('turin-cafe-3', 'turin', 'cafe', 'Baratti & Milano', 4.3, 'P.za Castello 29, 10121 Torino, Italy', '카스텔로 광장의 토리노 역사적 카페.', 'Historic café on Piazza Castello in Turin.', { reviewCount: 2506, image: '/places/turin-cafe-3.jpg' }),
   place('turin-cafe-4', 'turin', 'cafe', 'Orso Laboratorio del Caffè', 4.5, 'Via Claudio Luigi Berthollet 30h, 10125 Torino, Italy', '토리노의 인기 에스프레소 바.', 'Popular espresso bar in Turin.', { reviewCount: 1765 }),
   place('turin-cafe-5', 'turin', 'cafe', 'ARTIFACT - Specialty Coffee', 5.0, 'Via della Misericordia 3c, 10122 Torino, Italy', '토리노의 스페셜티 커피숍.', 'Specialty coffee shop in Turin.', { reviewCount: 428 }),
   place('turin-korean-1', 'turin', 'korean', 'Sonamu Korean Restaurant', 4.4, 'Corso Peschiera 160, Torino', '토리노의 한식당.', 'Korean restaurant in Turin.', { reviewCount: 1940 }),
@@ -205,13 +205,13 @@ export const placesITExtra: Place[] = [
   place('sirmione-fine_dining-1', 'sirmione', 'fine_dining', 'La Rucola 2.0', 4.4, 'Vicolo Strentelle 7, 25019 Sirmione', '스칼리제라 성 옆 미쉐린 1스타 레스토랑.', 'Michelin-starred restaurant steps from the Scaliger Castle.'),
 
   // —— padua ——
-  place('padua-cafe-1', 'padua', 'cafe', 'Caffè Pedrocchi', 4.3, 'Via VIII Febbraio 15, 35122 Padova', '\'문 없는 카페\'로 불린 1831년 개업 역사 카페.', 'Historic 1831 café, once called the \'café without doors\'.'),
+  place('padua-cafe-1', 'padua', 'cafe', 'Caffè Pedrocchi', 4.3, 'Via VIII Febbraio 15, 35122 Padova', '\'문 없는 카페\'로 불린 1831년 개업 역사 카페.', 'Historic 1831 café, once called the \'café without doors\'.', { image: '/places/padua-cafe-1.jpg' }),
   place('padua-bakery-1', 'padua', 'bakery', 'Pasticceria Biasetto', 4.6, 'Via Facciolati 12, 35126 Padova', '월드 페이스트리 챔피언 루이지 비아세토의 제과점.', 'Pastry shop of world pastry champion Luigi Biasetto.'),
   place('padua-cafe-2', 'padua', 'cafe', 'Caffetteria Goppion', 4.5, 'Padova, Italy', '파도바 중심의 모던한 커피 전문점.', 'Modern coffee bar in central Padua.'),
 
   // —— trieste ——
   place('trieste-fine_dining-1', 'trieste', 'fine_dining', 'Buffet da Pepi', 4.4, 'Via della Cassa di Risparmio 3, 34121 Trieste', '1897년 개업, 트리에스테식 삶은 고기 뷔페의 원조.', 'Since 1897, the original Trieste boiled-meat buffet.'),
-  place('trieste-cafe-1', 'trieste', 'cafe', 'Caffè San Marco', 4.5, 'Via Cesare Battisti 18, 34125 Trieste', '문인들이 모이던 1914년 개업 역사 카페 겸 서점.', 'Literary coffee house and bookshop opened in 1914.'),
+  place('trieste-cafe-1', 'trieste', 'cafe', 'Caffè San Marco', 4.5, 'Via Cesare Battisti 18, 34125 Trieste', '문인들이 모이던 1914년 개업 역사 카페 겸 서점.', 'Literary coffee house and bookshop opened in 1914.', { image: '/places/trieste-cafe-1.jpg' }),
 
   // —— bolzano ——
   place('bolzano-fine_dining-1', 'bolzano', 'fine_dining', 'Batzen Häusl', 4.4, 'Via Andreas Hofer 30, 39100 Bolzano', '수제 맥주와 남티롤 향토 요리를 내는 전통 스투베.', 'Traditional stube with house beer and South Tyrolean dishes.'),
@@ -235,7 +235,7 @@ export const placesITExtra: Place[] = [
   place('cinque-terre-fine_dining-2', 'cinque-terre', 'fine_dining', 'Trattoria dal Billy', 4.6, 'Via Aldo Rollandi 122, 19017 Manarola', '마나롤라 위쪽 언덕의 바다 전망 트라토리아.', 'Hilltop Manarola trattoria with sea views.'),
 
   // —— modena ——
-  place('modena-fine_dining-1', 'modena', 'fine_dining', 'Osteria Francescana', 4.7, 'Via Stella 22, 41121 Modena', '마시모 보투라의 미쉐린 3스타 레스토랑.', 'Massimo Bottura\'s three-Michelin-star restaurant.'),
+  place('modena-fine_dining-1', 'modena', 'fine_dining', 'Osteria Francescana', 4.7, 'Via Stella 22, 41121 Modena', '마시모 보투라의 미쉐린 3스타 레스토랑.', 'Massimo Bottura\'s three-Michelin-star restaurant.', { image: '/places/modena-fine_dining-1.jpg' }),
   place('modena-fine_dining-2', 'modena', 'fine_dining', 'Hosteria Giusti', 4.7, 'Via Farini 75, 41121 Modena', '살루메리아 뒤편 4테이블 점심 전용 전통 식당.', 'Four-table, lunch-only institution behind a salumeria.'),
   place('modena-fine_dining-3', 'modena', 'fine_dining', 'Trattoria Aldina', 4.4, 'Via Albinelli 40, 41121 Modena', '가정식 모데나 요리를 내는 시장 옆 트라토리아.', 'Home-style Modenese trattoria by the market.'),
   place('modena-cafe-1', 'modena', 'cafe', 'Bar Schiavoni', 4.5, 'Mercato Albinelli, Via Albinelli, 41121 Modena', '알비넬리 시장 안 뇨코 프리토 샌드위치 바.', 'Sandwich bar inside Mercato Albinelli serving gnocco fritto.'),

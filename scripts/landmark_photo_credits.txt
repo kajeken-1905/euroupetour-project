@@ -102,6 +102,17 @@ places/rome-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Boccione_Bake
 places/rome-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Roma_-_Caff%C3%A8_Sant%27Eustachio.jpg | CC BY-SA 4.0 | Blackcat
 places/rome-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:La_Casa_del_Caffe_Tazza_D%60oro_%E9%87%91%E6%9D%AF%E5%92%96%E5%95%A1%E9%A4%A8_-_panoramio.jpg | CC BY 3.0 | lienyuan lee
 
+# Northern Italy place photos
+places/milan-fine_dining-2.jpg | https://www.flickr.com/photos/87922801@N08/18986344295 | BY-SA 2.0 | grits2go
+places/turin-cafe-1.jpg | https://www.flickr.com/photos/129231073@N06/39473426581 | BY 2.0 | corno.fulgur75
+places/turin-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Torino_Caff%C3%A8_Al_Bicerin_(52738271224).jpg | CC BY 2.0 | Jorge Franganillo
+places/turin-cafe-3.jpg | https://www.flickr.com/photos/55598459@N00/2341716288 | BY-SA 2.0 | Salvatore Costa
+places/venice-cafe-1.jpg | https://www.flickr.com/photos/48600078653@N01/51364637700 | BY-SA 2.0 | jmerelo
+places/verona-fine_dining-3.jpg | https://www.flickr.com/photos/24314126@N05/10079284893 | BY 2.0 | jamesonf
+places/padua-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Pedrocchi_Padova.jpg | CC BY-SA 4.0 | Camelia.boban
+places/trieste-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A8_San_Marco-Trieste.jpg | Public domain | Tiesse
+places/modena-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Osteria_Francescana_IMG_2703_(23174690034).jpg | CC BY 2.0 | City Foodsters
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
