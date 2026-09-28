@@ -94,6 +94,14 @@ places/madrid-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Street
 places/madrid-fine_dining-5.jpg | https://www.flickr.com/photos/59170444@N05/46603244694 | CC0 1.0 | Txemai Argazki
 places/madrid-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Comercial_Exterior.jpg | CC0 | https://www.flickr.com/photos/boklm/
 
+# Rome place photos
+places/rome-fine_dining-2.jpg | https://www.flickr.com/photos/87605170@N00/23194273764 | BY 2.0 | Kyle T.
+places/rome-fine_dining-4.jpg | https://www.flickr.com/photos/49169223@N00/15302934362 | BY-SA 2.0 | daryl_mitchell
+places/rome-bakery-1.jpg | https://www.flickr.com/photos/49399018@N00/52652823885 | PDM 1.0 | amanderson2
+places/rome-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Boccione_Bakery.jpg | CC BY-SA 4.0 | JSFarman
+places/rome-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Roma_-_Caff%C3%A8_Sant%27Eustachio.jpg | CC BY-SA 4.0 | Blackcat
+places/rome-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:La_Casa_del_Caffe_Tazza_D%60oro_%E9%87%91%E6%9D%AF%E5%92%96%E5%95%A1%E9%A4%A8_-_panoramio.jpg | CC BY 3.0 | lienyuan lee
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
