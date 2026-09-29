@@ -44,9 +44,9 @@ export const placesFRExtra: Place[] = [
   place('marseille-fine_dining-1', 'marseille', 'fine_dining', 'Le Petit Nice Passedat', 4.7, '17 Rue des Braves Anse de Maldormé, 13007 Marseille', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
   place('marseille-fine_dining-2', 'marseille', 'fine_dining', 'Une Table au Sud', 4.5, '2 Quai du Port, 13002 Marseille', '구항구 전망의 미슐랭 1스타 레스토랑, 부야베스로 유명.', 'One-Michelin-star restaurant overlooking the Old Port, known for its bouillabaisse.', { reviewCount: 2612 }),
   place('marseille-fine_dining-3', 'marseille', 'fine_dining', 'Chez Madie Les Galinettes', 4.3, '138 Quai du Port, 13002 Marseille', '1995년부터 이어온 구항구뷰 프로방스 로컬 식당, 부야베스로 유명.', 'Provençal local restaurant overlooking the Old Port, operating since 1995, known for bouillabaisse.'),
-  place('marseille-fine_dining-4', 'marseille', 'fine_dining', 'Chez Fonfon', 4.9, '140 Rue du Vallon des Auffes, 13007 Marseille', '발롱 데 오프 어촌의 전통 부야베스 명소.', 'Traditional bouillabaisse restaurant in the fishing cove of Vallon des Auffes.', { reviewCount: 8631 }),
+  place('marseille-fine_dining-4', 'marseille', 'fine_dining', 'Chez Fonfon', 4.9, '140 Rue du Vallon des Auffes, 13007 Marseille', '발롱 데 오프 어촌의 전통 부야베스 명소.', 'Traditional bouillabaisse restaurant in the fishing cove of Vallon des Auffes.', { reviewCount: 8631, image: '/places/marseille-fine_dining-4.jpg' }),
   place('marseille-fine_dining-5', 'marseille', 'fine_dining', 'Restaurant Péron', 4.3, '56 Corniche Président John Fitzgerald Kennedy, 13007 Marseille', '1885년부터 이어온 마르세유에서 가장 오래된 레스토랑, 해안 전망.', "Marseille's oldest continuously operating restaurant, since 1885, with sweeping coastal views."),
-  place('marseille-bakery-1', 'marseille', 'bakery', 'Le Four des Navettes', 4.5, '136 Rue Sainte, 13007 Marseille, France', '1781년부터 이어온 마르세유에서 가장 오래된 베이커리', 'Marseille\'s oldest bakery, operating since 1781'),
+  place('marseille-bakery-1', 'marseille', 'bakery', 'Le Four des Navettes', 4.5, '136 Rue Sainte, 13007 Marseille, France', '1781년부터 이어온 마르세유에서 가장 오래된 베이커리', 'Marseille\'s oldest bakery, operating since 1781', { image: '/places/marseille-bakery-1.jpg' }),
   place('marseille-bakery-2', 'marseille', 'bakery', 'Le Bar à Pain MARSEILLE', 3.9, '18 Cours Joseph Thierry, 13001 Marseille', '유기농 밀가루로 만든 빵과 페이스트리로 유명한 베이커리.', 'Bakery known for bread and pastries made with organic flour.', { reviewCount: 2599 }),
   place('marseille-cafe-1', 'marseille', 'cafe', 'Sylvain Depuichaffray', 4.5, '66 Rue Grignan, 13006 Marseille, France', '훌륭한 커피로 정평이 난 마르세유의 인기 카페', 'Popular Marseille café praised for its excellent coffee'),
   place('marseille-cafe-2', 'marseille', 'cafe', 'Torréfaction Noailles', 4.3, '56 la Canebière, 13001 Marseille', '1927년부터 이어온 가족 운영 커피 로스터리.', 'Family-run coffee roastery operating since 1927.', { reviewCount: 179 }),
@@ -55,7 +55,7 @@ export const placesFRExtra: Place[] = [
 
   // —— nice ——
   place('nice-fine_dining-1', 'nice', 'fine_dining', 'Le Chantecler', 4.6, '37 Promenade des Anglais, 06000 Nice', '네그레스코 호텔의 미식 레스토랑.', 'Fine dining at the Hotel Negresco.'),
-  place('nice-fine_dining-2', 'nice', 'fine_dining', 'Chez Pipo', 4.5, '13 Rue Bavastro, 06300 Nice', '1923년부터 이어온 소카(병아리콩 팬케이크) 명소, 장작 오븐 사용.', "Nice's iconic socca (chickpea pancake) spot since 1923, cooked in a wood-fired oven."),
+  place('nice-fine_dining-2', 'nice', 'fine_dining', 'Chez Pipo', 4.5, '13 Rue Bavastro, 06300 Nice', '1923년부터 이어온 소카(병아리콩 팬케이크) 명소, 장작 오븐 사용.', "Nice's iconic socca (chickpea pancake) spot since 1923, cooked in a wood-fired oven.", { image: '/places/nice-fine_dining-2.jpg' }),
   place('nice-fine_dining-3', 'nice', 'fine_dining', "Chez Thérésa", 4.0, '28 Rue Droite, 06300 Nice', '1925년부터 이어온 니스 구시가의 전통 소카 노점.', "Traditional socca stall in Vieux Nice, serving since 1925."),
   place('nice-fine_dining-4', 'nice', 'fine_dining', "La Socca d'Or", 4.3, '45 Rue Bonaparte, 06300 Nice', '1989년부터 이어온 니스 로컬 요리 전문점.', 'Nice specialties restaurant serving locals and visitors since 1989.'),
   place('nice-bakery-1', 'nice', 'bakery', 'Pâtisserie Canet', 4.6, '25 Boulevard Gambetta, 06000 Nice, France', '니스 최고의 페이스트리로 꼽히는 제과점', 'Widely regarded as having the best pastries in Nice'),
@@ -66,9 +66,9 @@ export const placesFRExtra: Place[] = [
 
   // —— bordeaux ——
   place('bordeaux-fine_dining-1', 'bordeaux', 'fine_dining', 'Le Cent 33', 4.6, '133 Rue du Jardin public, 33000 Bordeaux', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.'),
-  place('bordeaux-fine_dining-2', 'bordeaux', 'fine_dining', 'La Tupina', 4.6, '6 Rue Porte de la Monnaie, 33000 Bordeaux', '전통 화덕 요리로 유명한 보르도의 대표 레스토랑.', 'Bordeaux institution known for cooking over a traditional open fire.', { reviewCount: 4059 }),
+  place('bordeaux-fine_dining-2', 'bordeaux', 'fine_dining', 'La Tupina', 4.6, '6 Rue Porte de la Monnaie, 33000 Bordeaux', '전통 화덕 요리로 유명한 보르도의 대표 레스토랑.', 'Bordeaux institution known for cooking over a traditional open fire.', { reviewCount: 4059, image: '/places/bordeaux-fine_dining-2.jpg' }),
   place('bordeaux-fine_dining-3', 'bordeaux', 'fine_dining', 'Le Bouchon Bordelais', 4.7, '2 Rue Courbin, 33000 Bordeaux', '창의적인 테이스팅 메뉴로 호평받는 비스트로.', 'Bistro praised for its creative, artfully presented tasting menus.'),
-  place('bordeaux-bakery-1', 'bordeaux', 'bakery', 'Cassonade', 4.5, 'Rue Saint-James, 33000 Bordeaux, France', '그로스 클로슈 종탑 인근의 유명 보르도 베이커리', 'Renowned Bordeaux bakery near the Grosse Cloche belfry'),
+  place('bordeaux-bakery-1', 'bordeaux', 'bakery', 'Cassonade', 4.5, 'Rue Saint-James, 33000 Bordeaux, France', '그로스 클로슈 종탑 인근의 유명 보르도 베이커리', 'Renowned Bordeaux bakery near the Grosse Cloche belfry', { image: '/places/bordeaux-bakery-1.jpg' }),
   place('bordeaux-bakery-2', 'bordeaux', 'bakery', 'Boulangerie Louis Lamour', 4.5, '7 Rue Ravez, 33000 Bordeaux', '보르도 중심가의 정통 베이커리, 매일 아침 신선하게 굽는다.', 'Traditional bakery in central Bordeaux, everything baked fresh each morning.', { reviewCount: 939 }),
   place('bordeaux-cafe-1', 'bordeaux', 'cafe', 'Goûtu par Oven Heaven', 4.6, 'Marché des Capucins, 33000 Bordeaux, France', '갓 구운 크루아상과 훌륭한 커피로 보르도 최고로 꼽히는 카페', 'Widely regarded as Bordeaux\'s best café, with fresh croissants and expertly crafted coffee'),
   place('bordeaux-cafe-2', 'bordeaux', 'cafe', 'Black List Café', 4.7, '27 Place Pey Berland, 33000 Bordeaux', '페이 베를랑 광장 인근의 보헤미안풍 커피숍, 브런치와 홈메이드 페이스트리.', 'Bohemian coffee shop near Place Pey Berland, known for brunch and homemade pastries.'),
@@ -100,7 +100,7 @@ export const placesFRExtra: Place[] = [
   place('annecy-korean-1', 'annecy', 'korean', 'TOM', 4.9, '9 Avenue du Rhône, 74000 Annecy', '한식·일식·몽골식을 함께 선보이는 레스토랑, 김치찌개로 호평.', 'Restaurant blending Korean, Japanese and Mongolian cuisine, praised for its kimchi jjigae.', { reviewCount: 179 }),
 
   // —— avignon ——
-  place('avignon-fine_dining-1', 'avignon', 'fine_dining', 'La Mirande', 4.6, '4 Place de la Mirande, 84000 Avignon', '클래식 프렌치 요리 레스토랑.', 'Classic French cuisine restaurant.'),
+  place('avignon-fine_dining-1', 'avignon', 'fine_dining', 'La Mirande', 4.6, '4 Place de la Mirande, 84000 Avignon', '클래식 프렌치 요리 레스토랑.', 'Classic French cuisine restaurant.', { image: '/places/avignon-fine_dining-1.jpg' }),
   place('avignon-fine_dining-2', 'avignon', 'fine_dining', 'Pollen', 4.8, '18 Rue Joseph Vernet, 84000 Avignon', '미슐랭 1스타, 제철 로컬 식재료를 활용한 서프라이즈 코스.', 'One-Michelin-star restaurant offering a surprise tasting menu built on seasonal local produce.', { reviewCount: 500 }),
   place('avignon-fine_dining-3', 'avignon', 'fine_dining', "L'Agapé", 4.4, '21 Place des Corps Saints, 84000 Avignon', '미슐랭 빕구르망 선정, 초록빛 광장 테라스가 있는 레스토랑.', 'Michelin Bib Gourmand restaurant with a leafy square terrace.', { reviewCount: 1895 }),
   place('avignon-bakery-1', 'avignon', 'bakery', 'Maison Violette', 4.6, 'Place des Corps Saints, 84000 Avignon, France', '훌륭한 빵과 페이스트리로 유명한 아비뇽의 전통 베이커리', 'Traditional Avignon bakery known for exceptional bread and pastries'),
@@ -127,7 +127,7 @@ export const placesFRExtra: Place[] = [
   place('toulouse-korean-2', 'toulouse', 'korean', 'Hwaban', 4.7, '1 Place Riquet, 31000 Toulouse', '한국 길거리 음식 전문점, 비빔밥으로 호평.', 'Korean street food specialist, praised for its bibimbap.'),
 
   // —— montpellier ——
-  place('montpellier-fine_dining-1', 'montpellier', 'fine_dining', 'Le Jardin des Sens', 4.6, 'Place de la Canourgue, 34000 Montpellier', '지중해 정원 뷰의 미쉐린 레스토랑.', 'Michelin restaurant with Mediterranean garden views.'),
+  place('montpellier-fine_dining-1', 'montpellier', 'fine_dining', 'Le Jardin des Sens', 4.6, 'Place de la Canourgue, 34000 Montpellier', '지중해 정원 뷰의 미쉐린 레스토랑.', 'Michelin restaurant with Mediterranean garden views.', { image: '/places/montpellier-fine_dining-1.jpg' }),
   place('montpellier-fine_dining-2', 'montpellier', 'fine_dining', 'Leclère', 4.6, '6 Rue des Écoles Laïques, 34000 Montpellier', '미슐랭 스타 레스토랑, 매일 들어오는 신선한 식재료로 짠 단일 코스.', 'Michelin-starred restaurant serving a single tasting menu built on ultra-fresh daily produce.', { reviewCount: 2228 }),
   place('montpellier-fine_dining-3', 'montpellier', 'fine_dining', 'Bistrot des Arceaux', 4.4, '25 Rue Hippolyte, 34000 Montpellier', '아르소 지구의 아늑한 비스트로, 홈메이드 요리로 호평.', 'Cozy bistro in the Arceaux district, praised for its homemade dishes.', { reviewCount: 304 }),
   place('montpellier-bakery-1', 'montpellier', 'bakery', 'Au Rythme du Pain', 4.6, '2 Rue de la Carbonnerie, 34000 Montpellier, France', '100% 유기농 재료로 빵을 만드는 몽펠리에의 베이커리', 'Montpellier bakery celebrating bread-making with 100% organic ingredients'),
@@ -210,7 +210,7 @@ export const placesFRExtra: Place[] = [
   place('arcachon-fine_dining-3', 'arcachon', 'fine_dining', 'La Cabane d\'Hortense', 4.3, 'Cap Ferret, France', '필라 사구가 보이는 굴·홍합 오두막.', 'Oysters and mussels facing the Dune du Pilat.'),
 
   // —— biarritz ——
-  place('biarritz-bakery-1', 'biarritz', 'bakery', 'Miremont', 4.4, '1 Bis Place Georges Clemenceau, 64200 Biarritz', '1872년 개업, 바다가 보이는 비아리츠 최고(最古)의 찻집.', 'Biarritz\'s oldest tearoom (1872) with sea views.'),
+  place('biarritz-bakery-1', 'biarritz', 'bakery', 'Miremont', 4.4, '1 Bis Place Georges Clemenceau, 64200 Biarritz', '1872년 개업, 바다가 보이는 비아리츠 최고(最古)의 찻집.', 'Biarritz\'s oldest tearoom (1872) with sea views.', { image: '/places/biarritz-bakery-1.jpg' }),
   place('biarritz-fine_dining-1', 'biarritz', 'fine_dining', 'La Belloteka', 4.5, 'Les Halles, 64200 Biarritz', '레알 시장 안의 바스크 요리 식당.', 'Basque dishes in the Les Halles market.'),
 
   // —— ajaccio ——

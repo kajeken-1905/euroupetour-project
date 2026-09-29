@@ -148,6 +148,16 @@ places/lyon-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Rue
 places/lyon-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Galerie_B%C3%A9raudier,_p%C3%A2tisserie_Aux_Merveilleux_de_Fred.jpg | CC BY-SA 4.0 | TCY
 places/chamonix-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%22La_Caleche%22_%D0%B2_%D0%A8%D0%B0%D0%BC%D0%BE%D0%BD%D0%B8,_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%90%D0%BB%D1%8C%D0%BF%D1%8B.(_rue_du_docteure_Paccard.18)_-_panoramio.jpg | CC BY-SA 3.0 | oleg.kuh
 
+# Southern France place photos
+places/bordeaux-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Bordeaux_La_Tupina_agneau_et_haricots_de_Tarbes.jpg | CC BY-SA 4.0 | Guallendra
+places/bordeaux-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Bordeaux_-_Rue_Saint-James_-_Boutique_Cassonade_-_G%C3%A2teaux_dans_la_vitrine.jpg | CC0 | Romainbehar
+places/biarritz-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:P%C3%A2tisserie_Miremont_-_Biarritz_(1).jpg | CC BY-SA 3.0 | Ayack
+places/montpellier-fine_dining-1.jpg | https://www.flickr.com/photos/23178876@N03/5480972789 | BY-SA 2.0 | cyclonebill
+places/avignon-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Avignon_-_Rue_de_la_Peyrolerie_-_View_ENE_on_Place_La_Mirande.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+places/marseille-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Bouillabaisse_de_chez_Fonfon_dans_un_restaurant_du_Vieux-Port_(Marseille)_en_novembre_2022.JPG | CC0 | Benoît Prieur
+places/marseille-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Four_des_navettes_Marseille_2015.JPG | CC BY-SA 4.0 | Alexmar983
+places/nice-fine_dining-2.jpg | https://www.flickr.com/photos/13595617@N00/10301282876 | BY 2.0 | tammylo
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
