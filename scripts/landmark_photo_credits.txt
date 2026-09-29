@@ -130,6 +130,16 @@ places/lecce-fine_dining-2.jpg | https://www.flickr.com/photos/51035756584@N01/3
 places/siracusa-fine_dining-1.jpg | https://www.flickr.com/photos/49399018@N00/52720771251 | BY 2.0 | amanderson2
 places/taormina-cafe-1.jpg | https://www.flickr.com/photos/118744179@N03/13054296643 | BY-SA 2.0 | j.tarallo
 
+# Northern France place photos
+places/giverny-fine_dining-2.jpg | https://www.flickr.com/photos/38712296@N07/6135656976 | BY 2.0 | zigazou76
+places/fontainebleau-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:2020-10-04_15-22-58_-_Fontainebleau_-_Boutique_Fr%C3%A9d%C3%A9ric_Cassel.jpg | CC BY-SA 4.0 | Baidax
+places/reims-bakery-1.jpg | https://www.flickr.com/photos/135897188@N04/25397099860 | BY 2.0 | inra.dist
+places/reims-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_du_palais_1563914.jpg | CC BY-SA 4.0 | Gérald Garitan
+places/rouen-cafe-1.jpg | https://www.flickr.com/photos/96214671@N08/52402491974 | BY 2.0 | JingKe888
+places/strasbourg-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Winstub_Chez_Yvonne_avril_2014_04.jpg | CC BY-SA 3.0 | Photo Claude TRUONG-NGOC
+places/strasbourg-fine_dining-2.jpg | https://www.flickr.com/photos/22539273@N00/44855977114 | BY 2.0 | *_*
+places/strasbourg-cafe-1.jpg | https://www.flickr.com/photos/26480501@N06/3154355512 | BY 2.0 | dierk schaefer
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

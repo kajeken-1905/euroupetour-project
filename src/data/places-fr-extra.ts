@@ -76,15 +76,15 @@ export const placesFRExtra: Place[] = [
   place('bordeaux-korean-2', 'bordeaux', 'korean', 'Korea Box', 4.5, '4 Rue de Cursol, 33000 Bordeaux', '보르도의 한식당.', 'Korean restaurant in Bordeaux.', { reviewCount: 109 }),
 
   // —— strasbourg ——
-  place('strasbourg-fine_dining-1', 'strasbourg', 'fine_dining', 'Restaurant Chez Yvonne', 4.5, '10 Rue du Sanglier, 67000 Strasbourg', '스트라스부르의 대표 전통 윈스튜브.', 'Strasbourg\'s iconic traditional winstub.'),
-  place('strasbourg-fine_dining-2', 'strasbourg', 'fine_dining', 'Le Tire-Bouchon', 4.1, '5 Rue des Tailleurs de Pierre, 67000 Strasbourg', '미슐랭 빕구르망 선정, 대성당 인근의 전통 알자스 윈스튜브.', 'Michelin Bib Gourmand traditional Alsatian winstub near the Cathedral.', { reviewCount: 10536 }),
+  place('strasbourg-fine_dining-1', 'strasbourg', 'fine_dining', 'Restaurant Chez Yvonne', 4.5, '10 Rue du Sanglier, 67000 Strasbourg', '스트라스부르의 대표 전통 윈스튜브.', 'Strasbourg\'s iconic traditional winstub.', { image: '/places/strasbourg-fine_dining-1.jpg' }),
+  place('strasbourg-fine_dining-2', 'strasbourg', 'fine_dining', 'Le Tire-Bouchon', 4.1, '5 Rue des Tailleurs de Pierre, 67000 Strasbourg', '미슐랭 빕구르망 선정, 대성당 인근의 전통 알자스 윈스튜브.', 'Michelin Bib Gourmand traditional Alsatian winstub near the Cathedral.', { reviewCount: 10536, image: '/places/strasbourg-fine_dining-2.jpg' }),
   place('strasbourg-fine_dining-3', 'strasbourg', 'fine_dining', 'Winstub Zuem Strissel', 4.5, '5 Place de la Grande Boucherie, 67000 Strasbourg', '1385년부터 이어온 스트라스부르에서 가장 오래된 윈스튜브.', "Strasbourg's oldest winstub, dating back to 1385."),
   place('strasbourg-fine_dining-4', 'strasbourg', 'fine_dining', "L'Atelier 116", 4.4, '116 Grand Rue, 67000 Strasbourg', '프티 프랑스 인근의 인기 베이커리 겸 레스토랑.', 'Popular bakery-restaurant near Petite France.', { reviewCount: 4657 }),
   place('strasbourg-bakery-1', 'strasbourg', 'bakery', 'La Gare\'Mandise', 4.4, '8 Place de la Gare, 67000 Strasbourg, France', '스트라스부르 기차역 앞의 베이커리 겸 살롱 드 테', 'Bakery and tea salon in front of Strasbourg\'s train station'),
   place('strasbourg-bakery-2', 'strasbourg', 'bakery', "L'Eden Libre de Gluten Strasbourg", 4.6, '15 Place du Temple Neuf, 67000 Strasbourg, France', '스트라스부르의 글루텐프리 전문 베이커리.', 'Gluten-free specialty bakery in Strasbourg.', { reviewCount: 694 }),
   place('strasbourg-bakery-3', 'strasbourg', 'bakery', 'Au Pain De Mon Grand-père', 4.2, '1 Rue des Hallebardes, 67000 Strasbourg, France', '대성당 인근의 인기 베이커리.', 'Popular bakery near the Cathedral.', { reviewCount: 1174 }),
   place('strasbourg-bakery-4', 'strasbourg', 'bakery', 'Les Mains Dans la Farine', 3.8, '16 Rue du 22 Novembre, 67000 Strasbourg, France', '다양한 빵과 페이스트리를 갖춘 스트라스부르의 베이커리.', 'Strasbourg bakery with a wide selection of bread and pastries.', { reviewCount: 1433 }),
-  place('strasbourg-cafe-1', 'strasbourg', 'cafe', 'Chez Christian', 4.5, 'Rue Mercière, 67000 Strasbourg, France', '스트라스부르 대성당 옆의 고급 페이스트리·초콜릿 전문점', 'Upscale pastry and chocolate shop next to Strasbourg Cathedral'),
+  place('strasbourg-cafe-1', 'strasbourg', 'cafe', 'Chez Christian', 4.5, 'Rue Mercière, 67000 Strasbourg, France', '스트라스부르 대성당 옆의 고급 페이스트리·초콜릿 전문점', 'Upscale pastry and chocolate shop next to Strasbourg Cathedral', { image: '/places/strasbourg-cafe-1.jpg' }),
   place('strasbourg-cafe-2', 'strasbourg', 'cafe', 'Café Bretelles', 4.4, '36 Rue du Bain aux Plantes, 67000 Strasbourg', '2014년부터 이어온 스트라스부르 최초의 스페셜티 커피숍.', "Strasbourg's original specialty coffee shop, open since 2014."),
   place('strasbourg-korean-1', 'strasbourg', 'korean', 'Seoul Station', 4.8, '24 Rue des Frères, 67000 Strasbourg', '스트라스부르의 한식당.', 'Korean restaurant in Strasbourg.', { reviewCount: 1365 }),
   place('strasbourg-korean-2', 'strasbourg', 'korean', 'Miriné', 4.6, '3 Rue du 22 Novembre, 67000 Strasbourg', '스트라스부르의 한식당.', 'Korean restaurant in Strasbourg.'),
@@ -160,10 +160,10 @@ export const placesFRExtra: Place[] = [
 
   // —— giverny ——
   place('giverny-fine_dining-1', 'giverny', 'fine_dining', 'Les Nymphéas', 4.2, '109 Rue Claude Monet, 27620 Giverny', '모네의 정원 바로 맞은편의 노르망디 요리 식당.', 'Normandy restaurant right across from Monet\'s garden.'),
-  place('giverny-fine_dining-2', 'giverny', 'fine_dining', 'Ancien Hôtel Baudy', 4.3, '81 Rue Claude Monet, 27620 Giverny', '인상파 화가들이 묵던 옛 호텔 레스토랑, 바우디 오믈렛이 대표 메뉴.', 'Former Impressionists\' inn, known for its omelette Baudy.'),
+  place('giverny-fine_dining-2', 'giverny', 'fine_dining', 'Ancien Hôtel Baudy', 4.3, '81 Rue Claude Monet, 27620 Giverny', '인상파 화가들이 묵던 옛 호텔 레스토랑, 바우디 오믈렛이 대표 메뉴.', 'Former Impressionists\' inn, known for its omelette Baudy.', { image: '/places/giverny-fine_dining-2.jpg' }),
 
   // —— fontainebleau ——
-  place('fontainebleau-bakery-1', 'fontainebleau', 'bakery', 'Frédéric Cassel', 4.4, '71 Rue Grande, 77300 Fontainebleau', '밀푀유와 마카롱으로 유명한 파티시에 매장.', 'Renowned pâtissier known for mille-feuille and macarons.'),
+  place('fontainebleau-bakery-1', 'fontainebleau', 'bakery', 'Frédéric Cassel', 4.4, '71 Rue Grande, 77300 Fontainebleau', '밀푀유와 마카롱으로 유명한 파티시에 매장.', 'Renowned pâtissier known for mille-feuille and macarons.', { image: '/places/fontainebleau-bakery-1.jpg' }),
   place('fontainebleau-fine_dining-1', 'fontainebleau', 'fine_dining', 'La Petite Ardoise', 4.5, 'Fontainebleau, France', '파리풍 분위기의 합리적인 비스트로.', 'Well-priced bistro with a Parisian feel.'),
 
   // —— chartres ——
@@ -172,8 +172,8 @@ export const placesFRExtra: Place[] = [
 
   // —— reims ——
   place('reims-fine_dining-1', 'reims', 'fine_dining', 'Le Parc Les Crayères', 4.7, '64 Boulevard Henry Vasnier, 51100 Reims', '샴페인 900종을 갖춘 미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant with ~900 Champagnes.'),
-  place('reims-cafe-1', 'reims', 'cafe', 'Café du Palais', 4.3, '14 Place Myron Herrick, 51100 Reims', '아르데코풍의 오래된 랭스 카페 겸 브라스리.', 'Long-running Art Deco café-brasserie.'),
-  place('reims-bakery-1', 'reims', 'bakery', 'Maison Fossier', 4.4, '25 Cours Langlet, 51100 Reims', '1756년부터 랭스의 분홍 비스킷을 굽는 과자점.', 'Maker of Reims pink biscuits since 1756.'),
+  place('reims-cafe-1', 'reims', 'cafe', 'Café du Palais', 4.3, '14 Place Myron Herrick, 51100 Reims', '아르데코풍의 오래된 랭스 카페 겸 브라스리.', 'Long-running Art Deco café-brasserie.', { image: '/places/reims-cafe-1.jpg' }),
+  place('reims-bakery-1', 'reims', 'bakery', 'Maison Fossier', 4.4, '25 Cours Langlet, 51100 Reims', '1756년부터 랭스의 분홍 비스킷을 굽는 과자점.', 'Maker of Reims pink biscuits since 1756.', { image: '/places/reims-bakery-1.jpg' }),
 
   // —— amboise ——
   place('amboise-fine_dining-1', 'amboise', 'fine_dining', 'L\'Écluse', 4.6, 'Rue Racine, 37400 Amboise', '루아르강이 보이는 창작 요리 레스토랑.', 'Creative cooking with a view of the Loire.'),
@@ -182,7 +182,7 @@ export const placesFRExtra: Place[] = [
   // —— rouen ——
   place('rouen-fine_dining-1', 'rouen', 'fine_dining', 'La Couronne', 4.3, '31 Place du Vieux-Marché, 76000 Rouen', '1345년부터 영업한 프랑스에서 가장 오래된 여관.', 'France\'s oldest inn, serving since 1345.'),
   place('rouen-fine_dining-2', 'rouen', 'fine_dining', 'Gill', 4.6, '8-9 Quai de la Bourse, 76000 Rouen', '센강이 보이는 루앙의 파인다이닝, 파티스리도 유명.', 'Rouen fine dining by the Seine, with a renowned pâtisserie.'),
-  place('rouen-cafe-1', 'rouen', 'cafe', 'Dame Cakes', 4.4, '70 Rue Saint-Romain, 76000 Rouen', '대성당 옆 루이 15세풍 찻집.', 'Louis XV-style tearoom beside the cathedral.'),
+  place('rouen-cafe-1', 'rouen', 'cafe', 'Dame Cakes', 4.4, '70 Rue Saint-Romain, 76000 Rouen', '대성당 옆 루이 15세풍 찻집.', 'Louis XV-style tearoom beside the cathedral.', { image: '/places/rouen-cafe-1.jpg' }),
 
   // —— honfleur ——
   place('honfleur-fine_dining-1', 'honfleur', 'fine_dining', 'SaQuaNa', 4.5, 'Honfleur, France', '2스타 셰프의 베이커리 겸 이자카야.', 'Bakery-izakaya from a two-star chef.'),
@@ -190,7 +190,7 @@ export const placesFRExtra: Place[] = [
   place('honfleur-fine_dining-3', 'honfleur', 'fine_dining', 'Le Bréard', 4.5, '7 Rue du Puits, 14600 Honfleur', '생트 카트린 광장 근처의 미식 레스토랑.', 'Gourmet restaurant near Place Sainte-Catherine.'),
 
   // —— etretat ——
-  place('etretat-fine_dining-1', 'etretat', 'fine_dining', 'Le Clos Lupin', 4.5, 'Étretat, France', '칠판 메뉴의 제철 프랑스 비스트로.', 'Seasonal French bistro with a chalkboard menu.'),
+  place('etretat-fine_dining-1', 'etretat', 'fine_dining', 'Le Clos Lupin', 4.5, '37 Rue Alphonse Karr, 76790 Étretat, France', '칠판 메뉴의 제철 프랑스 비스트로.', 'Seasonal French bistro with a chalkboard menu.'),
   place('etretat-fine_dining-2', 'etretat', 'fine_dining', 'Le Donjon (Domaine Saint Clair)', 4.3, 'Chemin de Saint-Clair, 76790 Étretat', '언덕 위 성 호텔의 레스토랑.', 'Restaurant in a hilltop castle hotel.'),
 
   // —— bayeux ——
