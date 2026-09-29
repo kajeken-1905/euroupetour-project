@@ -225,11 +225,13 @@ export const placesITExtra: Place[] = [
 
   // —— portofino ——
   place('portofino-fine_dining-1', 'portofino', 'fine_dining', 'Ristorante Puny', 4.4, 'Vico dritto, 16038 Portofino, Italy', '항구 광장에 자리한 포르토피노의 대표 해산물 레스토랑.', 'Portofino\'s signature seafood restaurant on the harbor piazzetta.'),
+  place('portofino-bakery-2', 'portofino', 'bakery', 'Panificio Canale', 3.1, 'Via Roma 30, 16034 Portofino, Italy', '1911년 문을 연 포르토피노 유일의 빵집, 양파·치즈 포카치아가 명물', "Portofino's only bakery since 1911, known for onion and cheese focaccia", { reviewCount: 244 }),
 
   // —— cinque-terre ——
   place('cinque-terre-fine_dining-1', 'cinque-terre', 'fine_dining', 'Ristorante Belforte', 4.4, 'Via Guidoni 42, 19018 Vernazza', '베르나차 항구 옛 요새 위 바다 전망 레스토랑.', 'Sea-view restaurant built into Vernazza\'s old fortress.'),
   place('cinque-terre-cafe-1', 'cinque-terre', 'cafe', 'Nessun Dorma', 4.6, 'Località Punta Bonfiglio, 19017 Manarola', '마나롤라 전경을 보며 즐기는 아페리티보 명소.', 'Aperitivo spot with the classic view of Manarola.'),
   place('cinque-terre-fine_dining-2', 'cinque-terre', 'fine_dining', 'Trattoria dal Billy', 4.6, 'Via Aldo Rollandi 122, 19017 Manarola', '마나롤라 위쪽 언덕의 바다 전망 트라토리아.', 'Hilltop Manarola trattoria with sea views.'),
+  place('cinque-terre-bakery-2', 'cinque-terre', 'bakery', 'Pizzeria & Focacceria La Cambusa', 4.2, 'Via Renato Birolli 114, 19017 Manarola, Italy', '마나롤라 중심 골목의 조각 포카치아·피자 가게', 'Focaccia and pizza by the slice on Manarola’s main lane'),
 
   // —— modena ——
   place('modena-fine_dining-1', 'modena', 'fine_dining', 'Osteria Francescana', 4.7, 'Via Stella 22, 41121 Modena', '마시모 보투라의 미쉐린 3스타 레스토랑.', 'Massimo Bottura\'s three-Michelin-star restaurant.', { image: '/places/modena-fine_dining-1.jpg' }),
