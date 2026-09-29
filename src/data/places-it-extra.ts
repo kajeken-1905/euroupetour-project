@@ -94,7 +94,7 @@ export const placesITExtra: Place[] = [
 
   // —— bologna ——
   place('bologna-fine_dining-1', 'bologna', 'fine_dining', 'All\'Osteria Bottega', 4.6, 'Via Santa Caterina 51, 40123 Bologna', '미쉐린 가이드 등재, 정통 에밀리아 요리.', 'Michelin Guide-listed, authentic Emilian cooking.'),
-  place('bologna-fine_dining-2', 'bologna', 'fine_dining', 'Da Cesari', 4.6, "Via de' Carbonesi 8, 40123 Bologna, Italy" Carbonesi 8, 40123 Bologna', '1955년부터 이어온 가족 운영 볼로냐 전통 레스토랑.', 'Family-run traditional Bolognese restaurant since 1955.', { reviewCount: 2151 }),
+  place('bologna-fine_dining-2', 'bologna', 'fine_dining', 'Da Cesari', 4.6, "Via de' Carbonesi 8, 40123 Bologna, Italy", '1955년부터 이어온 가족 운영 볼로냐 전통 레스토랑.', 'Family-run traditional Bolognese restaurant since 1955.', { reviewCount: 2151 }),
   place('bologna-fine_dining-3', 'bologna', 'fine_dining', "Osteria dell'Orsa", 4.2, 'Via Mentana 1F, 40126 Bologna', '대학가에 위치한 캐주얼한 볼로냐 요리 오스테리아, 탈리아텔레로 유명.', 'Casual Bolognese osteria in the university district, known for its tagliatelle.', { reviewCount: 13000 }),
   place('bologna-bakery-1', 'bologna', 'bakery', 'Impero Bakery & Cafe', 4.5, 'Strada Maggiore 51c, 40125 Bologna, Italy', '장인정신이 담긴 페이스트리와 디저트로 유명한 볼로냐의 베이커리 카페', 'Bologna bakery café known for its artisan pastries and delectable desserts'),
   place('bologna-bakery-2', 'bologna', 'bakery', 'Paolo Atti & Figli Panificio', 4.5, 'Via Drapperie 6a, 40124 Bologna, Italy', '볼로냐의 역사적인 제과점, 시장 골목 드라페리에 거리에 위치.', 'Historic bakery in Bologna, on Via Drapperie in the old market district.', { reviewCount: 393 }),
@@ -225,7 +225,7 @@ export const placesITExtra: Place[] = [
   place('cortina-bakery-2', 'cortina', 'bakery', 'Pasticceria Alverà', 4.5, 'Corso Italia, 32043 Cortina d\'Ampezzo', '100년 넘은 빵집, 봄볼로니가 인기.', 'Century-old bakery loved for its bomboloni.'),
 
   // —— portofino ——
-  place('portofino-fine_dining-1', 'portofino', 'fine_dining', 'Ristorante Puny', 4.4, 'Vico dritto, 16038 Portofino, Italy'Olivetta 5, 16034 Portofino', '항구 광장에 자리한 포르토피노의 대표 해산물 레스토랑.', 'Portofino\'s signature seafood restaurant on the harbor piazzetta.'),
+  place('portofino-fine_dining-1', 'portofino', 'fine_dining', 'Ristorante Puny', 4.4, 'Vico dritto, 16038 Portofino, Italy', '항구 광장에 자리한 포르토피노의 대표 해산물 레스토랑.', 'Portofino\'s signature seafood restaurant on the harbor piazzetta.'),
   place('portofino-bakery-1', 'portofino', 'bakery', 'Da Nicola', 4.4, 'Piazza Martiri dell\'Olivetta 2, 16034 Portofino', '치즈 포카치아로 유명한 광장 앞 가게.', 'Piazzetta spot famed for cheese focaccia.'),
 
   // —— cinque-terre ——
@@ -286,7 +286,7 @@ export const placesITExtra: Place[] = [
   place('pompeii-bakery-1', 'pompeii', 'bakery', 'Pasticceria De Vivo', 4.6, 'Via Roma, 80045 Pompei, Italy', '유적 입구 200m 거리, 1955년 개업 제과점 겸 젤라테리아.', '1955 pastry shop and gelateria 200 m from the ruins.'),
 
   // —— matera ——
-  place('matera-fine_dining-1', 'matera', 'fine_dining', 'Baccanti', 4.5, "Via Sant'Angelo 58/61, 75100 Matera, Italy"Angelo 58, 75100 Matera', '사시 동굴 속 바실리카타 향토 요리 레스토랑.', 'Cave restaurant in the Sassi serving Lucanian cuisine.'),
+  place('matera-fine_dining-1', 'matera', 'fine_dining', 'Baccanti', 4.5, "Via Sant'Angelo 58/61, 75100 Matera, Italy", '사시 동굴 속 바실리카타 향토 요리 레스토랑.', 'Cave restaurant in the Sassi serving Lucanian cuisine.'),
   place('matera-fine_dining-2', 'matera', 'fine_dining', 'Vitantonio Lombardo', 4.7, 'Via Madonna delle Virtù 13, 75100 Matera', '응회암 동굴 속 미쉐린 1스타 레스토랑.', 'Michelin-starred restaurant in a tufa cave.'),
   place('matera-fine_dining-3', 'matera', 'fine_dining', 'Osteria Pico', 4.4, 'Via Fiorentini 42, 75100 Matera', '동굴 구조 속 남부 이탈리아 가정식 오스테리아.', 'Cave osteria serving southern Italian classics.'),
 
@@ -302,7 +302,7 @@ export const placesITExtra: Place[] = [
   place('polignano-a-mare-cafe-1', 'polignano-a-mare', 'cafe', 'Il Super Mago del Gelo Mario Campanella', 4.5, 'Piazza Giuseppe Garibaldi 22, 70044 Polignano a Mare', '1935년 개업, 카페 스페치알레와 젤라토의 원조.', 'Since 1935, home of the Caffè Speciale and gelato.'),
 
   // —— lecce ——
-  place('lecce-bakery-1', 'lecce', 'bakery', 'Caffè Alvino', 4.3, "Piazza Sant'Oronzo 30, 73100 Lecce, Italy"Oronzo 30, 73100 Lecce', '원형극장 앞 광장의 파스티치오토 명가.', 'Pasticciotto institution on Piazza Sant\'Oronzo.'),
+  place('lecce-bakery-1', 'lecce', 'bakery', 'Caffè Alvino', 4.3, "Piazza Sant'Oronzo 30, 73100 Lecce, Italy", '원형극장 앞 광장의 파스티치오토 명가.', 'Pasticciotto institution on Piazza Sant\'Oronzo.'),
   place('lecce-bakery-2', 'lecce', 'bakery', 'Natale Pasticceria', 4.5, 'Via Salvatore Trinchese 7, 73100 Lecce, Italy', '산토론초 광장 인근의 제과점 겸 젤라테리아.', 'Pastry shop and gelateria near Piazza Sant\'Oronzo.'),
   place('lecce-fine_dining-1', 'lecce', 'fine_dining', 'Alle Due Corti', 4.4, 'Corte dei Giugni 1, 73100 Lecce', '치체리 에 트리아 등 살렌토 전통 요리 식당.', 'Traditional Salento cooking such as ciceri e tria.'),
   place('lecce-fine_dining-2', 'lecce', 'fine_dining', 'Doppiozero', 4.5, 'Via Guglielmo Paladini 2, 73100 Lecce, Italy', '대성당 뒤 골목의 작은 비스트로.', 'Small bistro on a lane behind the cathedral.', { image: '/places/lecce-fine_dining-2.jpg' }),

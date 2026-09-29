@@ -127,7 +127,7 @@ export const placesPTExtra: Place[] = [
   place('evora-fine_dining-4', 'evora', 'fine_dining', 'Dom Joaquim', 4.4, 'Rua dos Penedos 6, 7000-531 Évora, Portugal', '미슐랭의 주목을 받은 에보라의 알렌테주 요리 명소, 구운 양고기와 제철 사냥 요리로 유명.', 'Évora institution noted by Michelin for its Alentejo cooking — roast lamb and seasonal game.', { reviewCount: 1500 }),
   place('evora-bakery-1', 'evora', 'bakery', 'Pastelaria Conventual Pão de Rala', 4.6, 'Rua do Cicioso 47, 7000-658 Évora, Portugal', '대를 이어 운영되는 에보라의 수도원식 전통 디저트 전문점', 'Family-run Évora bakery specializing in traditional convent-style regional sweets'),
   place('evora-bakery-2', 'evora', 'bakery', 'The Bakery Lounge', 4.3, 'R. de Burgos 6, 7000-863 Évora', '갓 구운 크루아상과 홈메이드 잼으로 인기 있는 에보라의 베이커리 카페.', "Évora bakery café popular for its fresh croissants and homemade jam."),
-  place('evora-cafe-1', 'evora', 'cafe', 'Do Largo', 4.5, 'Rua de Aviz, 7000-574 Évora, Portugal'Alvaro Velho 5, 7000-799 Évora, Portugal', '유기농 허브 농장과 연계된 에보라의 낮 카페, 좋은 와인도 함께', 'Daytime Évora cafe connected to an organic herb farm, also known for quality wine'),
+  place('evora-cafe-1', 'evora', 'cafe', 'Do Largo', 4.5, 'Rua de Aviz, 7000-574 Évora, Portugal', '유기농 허브 농장과 연계된 에보라의 낮 카페, 좋은 와인도 함께', 'Daytime Évora cafe connected to an organic herb farm, also known for quality wine'),
   place('evora-cafe-2', 'evora', 'cafe', 'Passion Café', 4.4, 'Évora, Portugal', '아늑한 분위기와 푸짐한 점심으로 알려진 에보라 구시가의 카페.', 'Cosy café in the Évora old town known for hearty lunches.'),
 
   // —— obidos ——

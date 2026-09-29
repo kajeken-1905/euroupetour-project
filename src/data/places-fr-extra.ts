@@ -26,14 +26,14 @@ export const placesFRExtra: Place[] = [
   place('paris-korean-5', 'paris', 'korean', 'Kimchi', 4.3, '5 Rue de Louvois, 75002 Paris, France', '생트안 지구 인근의 정통 한식당', "Authentic Korean restaurant near Paris's Rue Sainte-Anne district"),
 
   // —— lyon ——
-  place('lyon-fine_dining-1', 'lyon', 'fine_dining', 'La Mère Brazier', 4.6, '16 Rue Saint-Georges, 69005 Lyon', '리옹 미식의 전설, 미쉐린 스타 레스토랑.', 'Legendary Lyon dining, Michelin-starred.'),
-  place('lyon-fine_dining-2', 'lyon', 'fine_dining', 'Café des Fédérations', 4.2, '8 Rue du Major Martin, 69001 Lyon', '150년 넘는 역사의 정통 리옹 부숑.', 'Authentic Lyon bouchon with over 150 years of history.'),
+  place('lyon-fine_dining-1', 'lyon', 'fine_dining', 'La Mère Brazier', 4.6, '16 Rue Saint-Georges, 69005 Lyon', '리옹 미식의 전설, 미쉐린 스타 레스토랑.', 'Legendary Lyon dining, Michelin-starred.', { image: '/places/lyon-fine_dining-1.jpg' }),
+  place('lyon-fine_dining-2', 'lyon', 'fine_dining', 'Café des Fédérations', 4.2, '8 Rue du Major Martin, 69001 Lyon', '150년 넘는 역사의 정통 리옹 부숑.', 'Authentic Lyon bouchon with over 150 years of history.', { image: '/places/lyon-fine_dining-2.jpg' }),
   place('lyon-fine_dining-3', 'lyon', 'fine_dining', "Le Poêlon d'Or", 4.4, "29 Rue des Remparts d'Ainay, 69002 Lyon", '아네 지구의 정통 부숑, 리옹식 샐러드로 유명.', 'Authentic bouchon in the Ainay district, known for its Lyon salad.'),
   place('lyon-fine_dining-4', 'lyon', 'fine_dining', 'Bouchon Les Lyonnais', 4.1, '19 Rue de la Bombarde, 69005 Lyon', '비외 리옹의 전통 부숑 레스토랑.', 'Traditional bouchon restaurant in Vieux Lyon.'),
-  place('lyon-bakery-1', 'lyon', 'bakery', 'Boulangerie du Palais', 4.5, '8 Rue du Palais de Justice, 69005 Lyon, France', '리옹 구시가지 생장 거리에 위치한 분홍빛 창문의 베이커리', 'Bakery with a distinctive pink window in Lyon\'s old town on Rue Saint Jean'),
+  place('lyon-bakery-1', 'lyon', 'bakery', 'Boulangerie du Palais', 4.5, '8 Rue du Palais de Justice, 69005 Lyon, France', '리옹 구시가지 생장 거리에 위치한 분홍빛 창문의 베이커리', 'Bakery with a distinctive pink window in Lyon\'s old town on Rue Saint Jean', { image: '/places/lyon-bakery-1.jpg' }),
   place('lyon-bakery-2', 'lyon', 'bakery', 'Boulangerie Saint Paul', 4.7, '8 Place Saint-Paul, 69005 Lyon, France', '생폴 광장의 인기 베이커리.', 'Popular bakery on Place Saint-Paul.', { reviewCount: 1008 }),
   place('lyon-bakery-3', 'lyon', 'bakery', 'Pralus La Boulangerie', 4.6, '18 Quai Saint-Antoine, 69002 Lyon, France', '프랄뤼 초콜릿 브랜드가 운영하는 베이커리.', 'Bakery run by the renowned Pralus chocolate house.', { reviewCount: 372 }),
-  place('lyon-bakery-4', 'lyon', 'bakery', 'Aux Merveilleux De Fred', 4.6, '32 Rue Grenette, 69002 Lyon, France', '머랭 케이크 메르베유로 유명한 프랑스 제과 체인.', "French pastry chain famous for its meringue-based Merveilleux cakes.", { reviewCount: 1484 }),
+  place('lyon-bakery-4', 'lyon', 'bakery', 'Aux Merveilleux De Fred', 4.6, '32 Rue Grenette, 69002 Lyon, France', '머랭 케이크 메르베유로 유명한 프랑스 제과 체인.', "French pastry chain famous for its meringue-based Merveilleux cakes.", { reviewCount: 1484, image: '/places/lyon-bakery-4.jpg' }),
   place('lyon-bakery-5', 'lyon', 'bakery', 'partisan boulanger', 4.7, "2 Rue du Chariot d'Or, 69004 Lyon, France", '리옹의 인기 장인 베이커리.', 'Popular artisan bakery in Lyon.', { reviewCount: 532 }),
   place('lyon-cafe-1', 'lyon', 'cafe', 'Slake Coffee House', 4.6, '9 Rue de l\'Ancienne Préfecture, 69002 Lyon, France', '2015년부터 스페셜티 커피와 홈메이드 페이스트리를 선보이는 리옹의 카페', 'Lyon café serving specialty coffee and homemade pastries since 2015'),
   place('lyon-cafe-2', 'lyon', 'cafe', 'Puzzle Café', 5.0, '4 rue de la Poulaillerie, 69002 Lyon', '유럽 각지의 로스터리를 순환 소개하는 스페셜티 커피.', 'Specialty coffee shop rotating craft roasters from across Europe.'),
@@ -151,7 +151,7 @@ export const placesFRExtra: Place[] = [
   // —— chamonix ——
   place('chamonix-fine_dining-1', 'chamonix', 'fine_dining', 'Restaurant Albert 1er', 4.6, '38 Route du Bouchet, 74400 Chamonix-Mont-Blanc', '1903년부터 이어온 전통 레스토랑.', 'Traditional restaurant serving since 1903.'),
   place('chamonix-fine_dining-2', 'chamonix', 'fine_dining', 'Le Monchu', 4.4, '1 Rue Lyret, 74400 Chamonix-Mont-Blanc', '샤모니 중심가의 사부아 요리 전문점, 퐁뒤·라클렛으로 유명.', 'Savoyard restaurant in central Chamonix, known for fondue and raclette.', { reviewCount: 5297 }),
-  place('chamonix-fine_dining-3', 'chamonix', 'fine_dining', 'La Calèche', 4.2, '18 Rue du Docteur Paccard, 74400 Chamonix-Mont-Blanc', '옛 석조 농가 건물의 전통 사부아 요리 전문점, 20여 가지 사부아 요리.', 'Traditional Savoyard restaurant in an old stone farmhouse, offering over 20 Savoyard dishes.', { reviewCount: 4347 }),
+  place('chamonix-fine_dining-3', 'chamonix', 'fine_dining', 'La Calèche', 4.2, '18 Rue du Docteur Paccard, 74400 Chamonix-Mont-Blanc', '옛 석조 농가 건물의 전통 사부아 요리 전문점, 20여 가지 사부아 요리.', 'Traditional Savoyard restaurant in an old stone farmhouse, offering over 20 Savoyard dishes.', { reviewCount: 4347, image: '/places/chamonix-fine_dining-3.jpg' }),
   place('chamonix-bakery-1', 'chamonix', 'bakery', 'Le Fournil Chamoniard', 4.5, '195 Av. de l\'Aiguille du Midi, 74400 Chamonix-Mont-Blanc, France', '지역 주민과 방문객 모두에게 사랑받는 샤모니의 베이커리', 'Popular Chamonix bakery beloved by locals and visitors alike'),
   place('chamonix-bakery-2', 'chamonix', 'bakery', "Boulangerie L'Al'Pain", 4.4, '620 Route du Plagnolet, 74400 Chamonix-Mont-Blanc', '수상 경력의 크루아상으로 유명한 아르장티에르의 베이커리.', 'Award-winning bakery in Argentière known for its croissants.'),
   place('chamonix-cafe-1', 'chamonix', 'cafe', 'Café Tartine', 4.5, 'Chamonix, 74400, France', '직접 구운 두꺼운 빵 위에 타르틴을 올려주는 샤모니 중심가의 카페', 'Café in the heart of Chamonix known for tartines on thick house-baked bread'),
@@ -202,7 +202,7 @@ export const placesFRExtra: Place[] = [
 
   // —— la-rochelle ——
   place('la-rochelle-fine_dining-1', 'la-rochelle', 'fine_dining', 'Christopher Coutanceau', 4.7, 'Plage de la Concurrence, 17000 La Rochelle', '미쉐린 3스타 해산물 레스토랑.', 'Three-Michelin-star seafood restaurant.'),
-  place('la-rochelle-fine_dining-2', 'la-rochelle', 'fine_dining', 'Bar André', 4.1, '5 Rue Saint-Jean du Pérot, 17000 La Rochelle', '1947년부터 구항구 앞 해산물 레스토랑.', 'Old-port seafood institution since 1947.'),
+  place('la-rochelle-fine_dining-2', 'la-rochelle', 'fine_dining', 'Bar André', 4.1, '5 Rue Saint-Jean du Pérot, 17000 La Rochelle', '1947년부터 구항구 앞 해산물 레스토랑.', 'Old-port seafood institution since 1947.', { image: '/places/la-rochelle-fine_dining-2.jpg' }),
 
   // —— arcachon ——
   place('arcachon-fine_dining-1', 'arcachon', 'fine_dining', 'La Cabane du Mimbeau', 4.5, 'Avenue de la Conche, 33970 Lège-Cap-Ferret, France', '6대째 굴 양식가가 운영하는 굴 오두막.', 'Oyster shack run by six generations of oyster farmers.'),

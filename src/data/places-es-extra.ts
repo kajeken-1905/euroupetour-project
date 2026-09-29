@@ -263,7 +263,7 @@ export const placesESExtra: Place[] = [
   place('palma-fine_dining-4', 'palma', 'fine_dining', 'Casa Maruka', 4.4, 'Carrer de la Reina Maria Cristina 7, 07004 Palma de Mallorca', '전통 마요르카 가정식으로 유명한 로컬 맛집.', 'Local favorite known for traditional Mallorcan home cooking.', { reviewCount: 700 }),
   place('palma-fine_dining-5', 'palma', 'fine_dining', 'La Rosa Vermutería & Colmado', 4.1, 'Carrer de la Rosa 5, 07003 Palma de Mallorca', '구시가의 활기찬 베르무트 바 겸 타파스 식당.', 'Lively vermouth bar and tapas spot in the old town.', { reviewCount: 1400 }),
 
-  place('palma-bakery-1', 'palma', 'bakery', 'Forn del Santo Cristo', 4.5, 'Carrer de Sant Miquel 47, 07002 Palma de Mallorca, Spain'Anníbal 24, 07013 Palma, Spain', '1910년부터 이어온 팔마의 대표 엔사이마다 전문점', 'Palma\'s leading ensaimada bakery, operating since 1910'),
+  place('palma-bakery-1', 'palma', 'bakery', 'Forn del Santo Cristo', 4.5, 'Carrer de Sant Miquel 47, 07002 Palma de Mallorca, Spain', '1910년부터 이어온 팔마의 대표 엔사이마다 전문점', 'Palma\'s leading ensaimada bakery, operating since 1910'),
   place('palma-bakery-2', 'palma', 'bakery', 'Fornet de la Soca', 4.1, 'Plaça de Weyler 9, 07001 Palma', '잊혀진 마요르카 전통 레시피를 되살린 베이커리.', 'Bakery reviving forgotten traditional Mallorcan recipes.', { reviewCount: 300 }),
   place('palma-bakery-3', 'palma', 'bakery', 'Lluís Perez Pastisser', 4.5, 'Carrer de Bonaire 14, 07012 Palma de Mallorca', '크루아상·케이크로 유명한 팔마 중심가의 제과점.', 'Central Palma patisserie known for croissants and cakes.', { reviewCount: 780 }),
   place('palma-bakery-4', 'palma', 'bakery', 'Panadería Forn Sa Plaça', 4.4, 'Carrer Bartomeu Castell 7, Palma', '콜 덴 라바사 지역의 인기 동네 빵집.', 'Popular neighborhood bakery in the Coll d\'en Rabassa district.'),
