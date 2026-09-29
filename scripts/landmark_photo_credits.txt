@@ -158,6 +158,9 @@ places/marseille-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Bou
 places/marseille-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Four_des_navettes_Marseille_2015.JPG | CC BY-SA 4.0 | Alexmar983
 places/nice-fine_dining-2.jpg | https://www.flickr.com/photos/13595617@N00/10301282876 | BY 2.0 | tammylo
 
+# Monaco place photos
+places/monaco-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Cafe_de_Paris_Monte-Carlo_-_panoramio.jpg | CC BY 3.0 | Mister No
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
