@@ -34,7 +34,7 @@ export const placesPTExtra: Place[] = [
   place('porto-bakery-2', 'porto', 'bakery', 'Castro - Atelier de Pastéis de Nata', 4.7, 'Rua de Mouzinho da Silveira 61, 4050-420 Porto', '따뜻하게 갓 구운 파스텔 드 나타 전문점.', 'Specialist in warm, freshly baked pastéis de nata.', { reviewCount: 2200 }),
   place('porto-bakery-3', 'porto', 'bakery', 'Confeitaria do Bolhão', 4.3, 'Rua Formosa 339, 4000-252 Porto', '1919년부터 이어온 역사적 제과점.', 'Historic pastry shop since 1919.', { reviewCount: 900 }),
   place('porto-bakery-4', 'porto', 'bakery', 'My Green Pastry', 4.6, 'Praça da República 195, 4050-498 Porto', '비건·글루텐프리 페이스트리 전문점.', 'Vegan and gluten-free pastry specialist.', { reviewCount: 2100 }),
-  place('porto-bakery-5', 'porto', 'bakery', 'São Jorge Padaria e Pastelaria', 4.4, 'Porto', '전통 제빵·제과 전문점.', 'Traditional bakery and pastry shop.', { reviewCount: 800 }),
+  place('porto-bakery-5', 'porto', 'bakery', 'São Jorge Padaria e Pastelaria', 4.4, 'Rua Dr. Alfredo Magalhães 78, 4000-290 Porto, Portugal', '전통 제빵·제과 전문점.', 'Traditional bakery and pastry shop.', { reviewCount: 800 }),
   place('porto-cafe-1', 'porto', 'cafe', 'Combi Coffee', 4.6, 'Rua do Morgado de Mateus nº29, 4000-334 Porto, Portugal', '포르투 봉핑 지구 최초의 스페셜티 커피숍', 'Porto\'s first specialty coffee shop, located in the trendy Bonfim neighborhood', { image: '/places/porto-cafe-1.jpg' }),
   place('porto-cafe-2', 'porto', 'cafe', 'Fábrica Coffee Roasters', 4.6, 'Rua José Falcão 122, 4050-315 Porto', '자체 로스팅 스페셜티 커피와 브런치.', 'In-house roasted specialty coffee and brunch.', { reviewCount: 1500, image: '/places/porto-cafe-2.jpg' }),
   place('porto-cafe-3', 'porto', 'cafe', "C'Alma Specialty Coffee Room", 4.7, 'R. de Passos Manuel 44, 4000-381 Porto', '역사적 건물 안 스페셜티 커피룸.', 'Specialty coffee room inside a historic building.', { reviewCount: 700 }),
@@ -128,7 +128,6 @@ export const placesPTExtra: Place[] = [
   place('evora-bakery-1', 'evora', 'bakery', 'Pastelaria Conventual Pão de Rala', 4.6, 'Rua do Cicioso 47, 7000-658 Évora, Portugal', '대를 이어 운영되는 에보라의 수도원식 전통 디저트 전문점', 'Family-run Évora bakery specializing in traditional convent-style regional sweets'),
   place('evora-bakery-2', 'evora', 'bakery', 'The Bakery Lounge', 4.3, 'R. de Burgos 6, 7000-863 Évora', '갓 구운 크루아상과 홈메이드 잼으로 인기 있는 에보라의 베이커리 카페.', "Évora bakery café popular for its fresh croissants and homemade jam."),
   place('evora-cafe-1', 'evora', 'cafe', 'Do Largo', 4.5, 'Rua de Aviz, 7000-574 Évora, Portugal', '유기농 허브 농장과 연계된 에보라의 낮 카페, 좋은 와인도 함께', 'Daytime Évora cafe connected to an organic herb farm, also known for quality wine'),
-  place('evora-cafe-2', 'evora', 'cafe', 'Passion Café', 4.4, 'Évora, Portugal', '아늑한 분위기와 푸짐한 점심으로 알려진 에보라 구시가의 카페.', 'Cosy café in the Évora old town known for hearty lunches.'),
 
   // —— obidos ——
   place('obidos-fine_dining-1', 'obidos', 'fine_dining', '41 Restaurante', 4.6, 'Rua Direita Nº41, 2510-001 Óbidos', '오비두스 최고 평가 레스토랑.', 'Widely regarded as Óbidos\' best restaurant.'),

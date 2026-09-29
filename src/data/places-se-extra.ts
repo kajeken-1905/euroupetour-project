@@ -37,7 +37,7 @@ export const placesSEExtra: Place[] = [
   place('uppsala-cafe-1', 'uppsala', 'cafe', 'Ofvandahls', 4.2, 'Sysslomansgatan 5, 753 11 Uppsala', '전통 카페.', 'Traditional café.', { reviewCount: 940 }),
   place('uppsala-cafe-2', 'uppsala', 'cafe', 'Kafferummet Storken', 4.4, 'Stortorget, 753 20 Uppsala', '1989년부터 이어온 스토르토리에트의 아늑한 카페.', 'Cosy café on Stortorget, going since 1989.'),
   place('uppsala-cafe-3', 'uppsala', 'cafe', 'Stationen', 4.3, 'Olof Palmes plats 6, 753 19 Uppsala, Sweden', '우플란드 최고의 에스프레소로 꼽히는 카페 겸 브라스리.', "Café-brasserie regarded for possibly Uppsala's best espresso."),
-  place('uppsala-cafe-4', 'uppsala', 'cafe', 'Broströms Kafé Godsmagasinet', 4.4, 'Uppsala, Sweden', '웁살라 커피 로스터리의 원두를 쓰는 아늑한 카페.', 'Cosy café serving beans from Uppsala Kafferosteriet.'),
+  place('uppsala-cafe-4', 'uppsala', 'cafe', 'Broströms Kafé Godsmagasinet', 4.4, 'Roslagsgatan 1, Godsmagasinet, 753 27 Uppsala, Sweden', '웁살라 커피 로스터리의 원두를 쓰는 아늑한 카페.', 'Cosy café serving beans from Uppsala Kafferosteriet.'),
 
   // —— kiruna ——
   place('kiruna-fine_dining-1', 'kiruna', 'fine_dining', 'Icehotel Restaurant (The Veranda)', 5.0, 'Marknadsvägen 63, 981 91 Jukkasjärvi', '아이스호텔 다이닝.', 'Icehotel dining.'),

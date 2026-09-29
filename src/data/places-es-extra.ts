@@ -137,7 +137,7 @@ export const placesESExtra: Place[] = [
   place('toledo-bakery-2', 'toledo', 'bakery', 'Obrador San Félix', 5.0, 'C. Camarín de San Cipriano 4, 45002 Toledo', '케이크와 컵케이크를 전문으로 하는 제과점.', 'Bakery specializing in cakes and cupcakes.'),
   place('toledo-cafe-1', 'toledo', 'cafe', 'El Café de las Monjas', 4.5, 'C. Cadenas 6, 45001 Toledo, Spain', '인근 수녀원의 수녀들이 만든 수제 과자로 유명한 대성당 옆 카페', 'Café near the cathedral known for handmade sweets baked by nuns'),
   place('toledo-cafe-2', 'toledo', 'cafe', 'IL CAPPUCCINO Specialty coffee', 4.8, 'Pl. de la Magdalena 4, Toledo, Spain', '톨레도의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in Toledo', { reviewCount: 1589 }),
-  place('toledo-cafe-3', 'toledo', 'cafe', 'LA VILLA', 4.8, 'Número dos La Villa, P.º de Bachilleres, Toledo, Spain', '톨레도에서 평점이 매우 높은 커피숍', 'Highly rated coffee shop in Toledo', { reviewCount: 447 }),
+  place('toledo-cafe-3', 'toledo', 'cafe', 'LA VILLA', 4.8, 'Paseo de Bachilleres 2, 45003 Toledo, Spain', '톨레도에서 평점이 매우 높은 커피숍', 'Highly rated coffee shop in Toledo', { reviewCount: 447 }),
   place('toledo-cafe-4', 'toledo', 'cafe', 'Naturalmente Italian Coffee & Bakery', 4.6, 'Pl. de San Juan de los Reyes 2, Toledo, Spain', '이탈리아식 커피와 베이커리를 함께 즐길 수 있는 카페', 'Café serving Italian-style coffee alongside baked goods', { reviewCount: 620 }),
   place('toledo-cafe-5', 'toledo', 'cafe', 'Cañas y Tapas', 3.9, 'Plaza de Zocodover 11, 45001 Toledo', '소코도베르 광장의 접근성 좋은 아침·타파스 체인점.', 'Handy breakfast-and-tapas chain spot right on Plaza de Zocodover.', { image: '/places/toledo-cafe-5.jpg' }),
 
@@ -149,11 +149,9 @@ export const placesESExtra: Place[] = [
   place('cordoba-fine_dining-5', 'cordoba', 'fine_dining', 'Garum 2.1', 4.5, 'Calle Cardenal González, 14003 Córdoba, Spain', '미쉐린 추천, 코르도바 전통 요리의 창의적 재해석.', 'Michelin-recommended creative take on Cordoban classics.', { reviewCount: 900 }),
   place('cordoba-bakery-1', 'cordoba', 'bakery', 'La Tarterie', 4.6, 'P.º de la Ribera 1, 14002 Córdoba, Spain', '코르도바 구시가지 최고의 홈메이드 타르트와 케이크 전문점', 'Córdoba old-town bakery serving the city\'s best homemade tarts and cakes'),
   place('cordoba-bakery-2', 'cordoba', 'bakery', 'Pastelería Ángel Salazar', 4.0, 'Calle Juan de Gortz 1, 14011 Córdoba', '빵과 페이스트리를 함께 파는 동네 제과점.', 'Neighborhood bakery selling bread and pastries.', { reviewCount: 125 }),
-  place('cordoba-bakery-3', 'cordoba', 'bakery', 'Maddness Coffee', 4.6, 'Córdoba', '코르도바 최고의 스페셜티 로스터리 겸 베이커리.', "The city's top specialty coffee roastery, also strong on pastries.", { reviewCount: 400 }),
   place('cordoba-bakery-4', 'cordoba', 'bakery', 'Deluca', 4.5, 'Avenida Córdoba, C1120AAT Buenos Aires, Argentina', '크루아상과 초콜릿 알파호르로 유명한 카페 겸 베이커리.', 'Café-bakery known for croissants and chocolate alfajores.', { reviewCount: 300 }),
   place('cordoba-cafe-1', 'cordoba', 'cafe', 'Café Viena', 4.4, 'C. Claudio Marcelo 13, 14002 Córdoba, Spain', '환상적인 아이스크림으로 유명한 코르도바 구시가 중심의 카페', 'Café in the heart of old Córdoba known for its fabulous ice cream'),
   place('cordoba-cafe-2', 'cordoba', 'cafe', 'Arábiga Specialty Coffee', 5.0, 'C. Lucano 15, 14003 Córdoba', '섬세한 스페셜티 커피와 홈메이드 쿠키.', 'Meticulous specialty coffee and homemade cookies.', { reviewCount: 200 }),
-  place('cordoba-cafe-3', 'cordoba', 'cafe', 'Maddness Coffee Roasters', 4.6, 'Córdoba', '코르도바 최고의 스페셜티 로스터리.', "The city's top specialty coffee roaster.", { reviewCount: 400 }),
   place('cordoba-cafe-4', 'cordoba', 'cafe', 'Deluca Café', 4.5, 'Córdoba', '커피와 크루아상으로 사랑받는 카페.', 'Beloved café for coffee and croissants.', { reviewCount: 300 }),
 
   // —— san-sebastian ——
@@ -252,7 +250,7 @@ export const placesESExtra: Place[] = [
   place('girona-cafe-1', 'girona', 'cafe', 'La Comuna Café', 4.6, 'Carrer de la Cort Reial 5, 17004 Girona, Spain', '프로 사이클리스트 부부가 운영하는 지로나의 스페셜티 커피 카페', 'Girona specialty coffee café founded by a professional cyclist and his wife'),
   place('girona-cafe-2', 'girona', 'cafe', 'Oniria Cafè', 4.9, 'Carrer del Nord 11, 17001 Girona', '카탈루냐-독일 듀오가 운영하는 스페셜티 커피.', 'Specialty coffee run by a Catalan-German duo.', { reviewCount: 260 }),
   place('girona-cafe-3', 'girona', 'cafe', 'Espresso Mafia Coffee', 4.6, 'Carrer de la Cort Reial 5, 17004 Girona, Spain', '지로나 중심가의 인기 커피숍.', 'Popular coffee shop in central Girona.', { reviewCount: 300 }),
-  place('girona-cafe-4', 'girona', 'cafe', 'Syra Coffee', 4.5, 'Girona', '페드렛 다리 인근의 세련된 에스프레소 바.', 'Sleek espresso bar near Pont de Pedret.', { reviewCount: 250 }),
+  place('girona-cafe-4', 'girona', 'cafe', 'Syra Coffee', 4.5, 'Carrer de Santa Clara 26, 17001 Girona, Spain', '페드렛 다리 인근의 세련된 에스프레소 바.', 'Sleek espresso bar near Pont de Pedret.', { reviewCount: 250 }),
   place('girona-korean-1', 'girona', 'korean', 'Restaurant A4MANS', 4.6, 'Plaça Pompeu Fabra 9, 17001 Girona', '카탈루냐-한국 커플이 운영하는 퓨전 다이닝.', 'Catalan-Korean fusion dining run by a Catalan-Korean couple.', { reviewCount: 235 }),
   place('girona-korean-2', 'girona', 'korean', 'Yooki Ramen Korean Fried Chicken', 5.0, 'Av. 20 de Juny 1, 17001 Girona', '정통 라멘과 바삭한 한국식 치킨.', 'Authentic ramen and crispy Korean fried chicken.', { reviewCount: 50 }),
 

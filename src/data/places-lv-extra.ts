@@ -36,7 +36,7 @@ export const placesLVExtra: Place[] = [
 
   // —— sigulda ——
   place('sigulda-fine_dining-1', 'sigulda', 'fine_dining', 'Pasēdnīca', 4.5, 'Raiņa iela 2-3, LV-2150 Sigulda', '합리적인 가격의 로컬 요리.', 'Local cuisine at reasonable prices.'),
-  place('sigulda-fine_dining-2', 'sigulda', 'fine_dining', 'Kungu rija, restorāns', 4.7, 'Kungu rija, Sigulda', '많은 리뷰를 받은 시굴다의 레스토랑.', 'Restaurant in Sigulda with a large number of reviews.', { reviewCount: 1861 }),
+  place('sigulda-fine_dining-2', 'sigulda', 'fine_dining', 'Kungu rija, restorāns', 4.7, 'Kungu rija, Turaida, Krimuldas pagasts, LV-2150 Siguldas novads, Latvia', '많은 리뷰를 받은 시굴다의 레스토랑.', 'Restaurant in Sigulda with a large number of reviews.', { reviewCount: 1861 }),
   place('sigulda-fine_dining-3', 'sigulda', 'fine_dining', 'Hotel Sigulda restaurant', 4.6, 'Pils iela 6, Sigulda', '시굴다의 호텔 레스토랑.', 'Hotel restaurant in Sigulda.', { reviewCount: 131 }),
   place('sigulda-fine_dining-4', 'sigulda', 'fine_dining', 'Bazārs', 4.8, 'Ausekļa iela 7b, Sigulda', '높은 평점의 시굴다 뷔페 레스토랑.', 'Highly rated buffet restaurant in Sigulda.', { reviewCount: 183 }),
   place('sigulda-fine_dining-5', 'sigulda', 'fine_dining', 'Kazene', 4.5, 'Pils iela 4b, Sigulda', '시굴다의 레스토랑.', 'Restaurant in Sigulda.', { reviewCount: 108 }),

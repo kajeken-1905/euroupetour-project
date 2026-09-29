@@ -34,7 +34,7 @@ export const placesCYExtra: Place[] = [
   place('paphos-bakery-1', 'paphos', 'bakery', 'Sunfresh Bakery', 4.5, 'Leoforos Tafon ton Vasileon 7, Paphos, Cyprus', '24시간 운영하는 파포스 최고의 베이커리 겸 카페', 'Paphos\'s top bakery café, open 24 hours'),
   place('paphos-bakery-2', 'paphos', 'bakery', 'Zorbas Bakery (Φούρνος ΖΟΡΠΑΣ)', 4.7, 'Apostolou Pavlou Ave, Paphos', '24시간 운영하는 파포스의 제과점.', '24-hour bakery in Paphos.', { reviewCount: 1431 }),
   place('paphos-bakery-3', 'paphos', 'bakery', 'Georges Alain Pâtisserie', 4.7, 'Constantinou Kanari 40, Paphos', '프랑스식 제과점.', 'French-style patisserie.', { reviewCount: 283 }),
-  place('paphos-cafe-1', 'paphos', 'cafe', 'Nest Cafe Snack Bar', 4.6, 'Paphos, Cyprus', '파포스 최고의 라떼로 알려진 아늑한 숨은 카페', 'Cozy hidden-gem café known for the best latte in Paphos'),
+  place('paphos-cafe-1', 'paphos', 'cafe', 'Nest Cafe Snack Bar', 4.6, 'Poseidonos Avenue 23, Filios Court, 8042 Paphos, Cyprus', '파포스 최고의 라떼로 알려진 아늑한 숨은 카페', 'Cozy hidden-gem café known for the best latte in Paphos'),
   place('paphos-cafe-2', 'paphos', 'cafe', "Campo de'Fiori", 4.8, 'Petraki Miltriadou 12-Shop 8, Paphos', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 939 }),
   place('paphos-cafe-3', 'paphos', 'cafe', 'Grafico Cafe', 4.8, 'Agoras, 8010 Paphos Municipality, Cyprus', '파포스의 카페.', 'Café in Paphos.', { reviewCount: 246 }),
 
@@ -44,9 +44,9 @@ export const placesCYExtra: Place[] = [
   place('ayia-napa-fine_dining-3', 'ayia-napa', 'fine_dining', "Opa's Tavern Ayia Napa", 4.8, 'Kryou Nerou, Ayia Napa', '그리스 요리 타베르나.', 'Greek cuisine taverna.', { reviewCount: 3756 }),
 
   place('ayia-napa-bakery-1', 'ayia-napa', 'bakery', 'Zorbas Bakery', 4.4, 'Nissi Avenue 17, 5330 Ayia Napa, Cyprus', '아이아 나파 최고의 베이커리로 꼽히는 인기 빵집', 'Ayia Napa\'s top-ranked bakery'),
-  place('ayia-napa-bakery-2', 'ayia-napa', 'bakery', 'Sigma Bakeries Ayia Napa', 4.8, 'Nissi Ave, Ayia Napa', '24시간 운영하는 아이아 나파의 제과점.', '24-hour bakery in Ayia Napa.', { reviewCount: 917 }),
+  place('ayia-napa-bakery-2', 'ayia-napa', 'bakery', 'Sigma Bakeries Ayia Napa', 4.8, 'Nissi Avenue 28, 5330 Ayia Napa, Cyprus', '24시간 운영하는 아이아 나파의 제과점.', '24-hour bakery in Ayia Napa.', { reviewCount: 917 }),
   place('ayia-napa-bakery-3', 'ayia-napa', 'bakery', 'The Bakery Co.', 4.4, 'Archiepiskopou Makariou III 14, Ayia Napa', '아이아 나파의 제과점.', 'Bakery in Ayia Napa.', { reviewCount: 807 }),
-  place('ayia-napa-cafe-1', 'ayia-napa', 'cafe', 'The Liquid Cafe N Bar', 4.3, 'Ayia Napa, Cyprus', '아침부터 저녁까지 다양한 메뉴를 즐길 수 있는 아이아 나파 중심가의 카페', 'Central Ayia Napa café offering everything from breakfast to evening drinks'),
+  place('ayia-napa-cafe-1', 'ayia-napa', 'cafe', 'The Liquid Cafe N Bar', 4.3, 'Kryou Nerou 8, 5330 Ayia Napa, Cyprus', '아침부터 저녁까지 다양한 메뉴를 즐길 수 있는 아이아 나파 중심가의 카페', 'Central Ayia Napa café offering everything from breakfast to evening drinks'),
   place('ayia-napa-cafe-2', 'ayia-napa', 'cafe', 'Φusis (Fusis) - Coffee shop in Ayia Napa', 4.9, 'Kryou Nerou 33, Ayia Napa', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 169 }),
   place('ayia-napa-cafe-3', 'ayia-napa', 'cafe', 'Zoumpoulias Coffee Roasters', 4.9, 'Archiepieskopou Makariou III 24, Ayia Napa', '스페셜티 커피 로스터리.', 'Specialty coffee roastery.', { reviewCount: 209 }),
 ]

@@ -24,7 +24,6 @@ export const placesAZExtra: Place[] = [
 
   place('sheki-bakery-1', 'sheki', 'bakery', 'Karbala\'I Sadiq\'s Bakery', 4.4, 'Sheki, Azerbaijan', '셰키 칸 궁전으로 향하는 길목의 전통 빵집', 'Traditional bread bakery on the main street toward the Khan\'s Palace'),
 
-  place('sheki-cafe-1', 'sheki', 'cafe', 'Espresso House', 4.9, 'Mirza Fatali Akhundzade Avenue, Sheki', '셰키 구시가지 인근의 커피 전문 카페', 'Coffee-focused café near Sheki\'s old town', { reviewCount: 20 }),
   place('sheki-cafe-2', 'sheki', 'cafe', 'Nuran Cafe', 4.7, 'Mikayil Mushfig Street, Sheki', '아제르바이잔 가정식을 선보이는 정원이 있는 카페', 'Café with a garden serving home-style Azerbaijani dishes', { reviewCount: 3 }),
 
   // —— gabala ——

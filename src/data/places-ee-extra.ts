@@ -31,7 +31,7 @@ export const placesEEExtra: Place[] = [
   place('parnu-fine_dining-2', 'parnu', 'fine_dining', 'Supelsaksad Pärnu', 4.7, 'Nikolai tn 32, Pärnu', '패르누의 인기 레스토랑.', 'Popular restaurant in Pärnu.', { reviewCount: 2396 }),
   place('parnu-fine_dining-3', 'parnu', 'fine_dining', 'Mon Ami', 4.6, 'Kuninga tn 11, Pärnu', '패르누의 레스토랑.', 'Restaurant in Pärnu.', { reviewCount: 633 }),
 
-  place('parnu-bakery-1', 'parnu', 'bakery', 'Pärnamäed bakery and café', 4.6, 'Pärnu, Estonia', '레이우 강변에 위치한 패르누의 인기 베이커리 카페', 'Popular Pärnu bakery café on the banks of the River Reiu'),
+  place('parnu-bakery-1', 'parnu', 'bakery', 'Pärnamäed bakery and café', 4.6, 'Reiu küla, Häädemeeste vald, 86101 Pärnu maakond, Estonia', '레이우 강변에 위치한 패르누의 인기 베이커리 카페', 'Popular Pärnu bakery café on the banks of the River Reiu'),
   place('parnu-bakery-2', 'parnu', 'bakery', 'Leivakas - Pagaritöökoda / Kiviahjupitsa', 4.7, 'Lai tn 10-3, Pärnu', '패르누의 제과점.', 'Bakery in Pärnu.', { reviewCount: 436 }),
   place('parnu-cafe-1', 'parnu', 'cafe', 'Pagaripoisid', 4.5, 'Rüütli tänav 45, 80011 Pärnu, Estonia', '포리지와 커피, 페이스트리로 아침 식사하기 좋은 패르누의 카페', 'Pärnu café perfect for breakfast with porridge, coffee, and pastries'),
   place('parnu-cafe-2', 'parnu', 'cafe', 'Kohvila', 4.8, 'Lai tn 10, Pärnu', '패르누의 카페.', 'Café in Pärnu.', { reviewCount: 161 }),

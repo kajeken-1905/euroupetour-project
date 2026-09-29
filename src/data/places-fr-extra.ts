@@ -215,7 +215,7 @@ export const placesFRExtra: Place[] = [
 
   // —— ajaccio ——
   place('ajaccio-fine_dining-1', 'ajaccio', 'fine_dining', 'A Nepita', 4.6, '4 Rue San Lazaro, 20000 Ajaccio, France', '코르시카 요리를 현대적으로 내는 아늑한 식당.', 'Cozy spot for modern Corsican cooking.'),
-  place('ajaccio-fine_dining-2', 'ajaccio', 'fine_dining', 'A Terrazza (Les Mouettes)', 4.5, 'Cours Lucien Bonaparte, Ajaccio', '아작시오만 전망 테라스의 호텔 레스토랑.', 'Hotel restaurant with a terrace over the bay.'),
+  place('ajaccio-fine_dining-2', 'ajaccio', 'fine_dining', 'A Terrazza (Les Mouettes)', 4.5, '9 Cours Lucien Bonaparte, 20000 Ajaccio, France', '아작시오만 전망 테라스의 호텔 레스토랑.', 'Hotel restaurant with a terrace over the bay.'),
   place('ajaccio-fine_dining-3', 'ajaccio', 'fine_dining', 'Rosette et Charlotte', 4.6, '87 Rue Cardinal Fesch, 20090 Ajaccio, France', '제철 재료의 가정식 요리.', 'Seasonal, home-style cooking.'),
 
   // —— bonifacio ——

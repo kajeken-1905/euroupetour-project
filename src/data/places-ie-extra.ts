@@ -54,7 +54,7 @@ export const placesIEExtra: Place[] = [
   place('killarney-cafe-2', 'killarney', 'cafe', 'Curious Cat Café', 4.5, '1 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 인기 커피숍.', 'Popular coffee shop in Killarney.', { reviewCount: 935 }),
   place('killarney-cafe-3', 'killarney', 'cafe', 'Lir Cafe', 4.6, 'Kenmare Place, V93 P962 Killarney, Ireland', '케나레 플레이스의 킬라니 커피숍.', 'Coffee shop on Kenmare Place in Killarney.', { reviewCount: 719 }),
   place('killarney-cafe-4', 'killarney', 'cafe', 'Good Boy Coffee', 4.9, '9 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 인기 커피숍.', 'Popular coffee shop in Killarney.', { reviewCount: 429 }),
-  place('killarney-cafe-5', 'killarney', 'cafe', 'Boardwalk Coffee Killarney', 5.0, 'Main St, Killarney, Co. Kerry, Ireland', '킬라니 메인 스트리트의 카페.', 'Café on Main Street in Killarney.', { reviewCount: 152 }),
+  place('killarney-cafe-5', 'killarney', 'cafe', 'Boardwalk Coffee Killarney', 5.0, 'Unit 1, Main Street, Killarney V93 CHR4, Ireland', '킬라니 메인 스트리트의 카페.', 'Café on Main Street in Killarney.', { reviewCount: 152 }),
 
   // —— kilkenny ——
   place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'Campagne', 4.7, '5 Gas House Ln, Kilkenny, R95 X092', '2008년 개업, 2014년부터 미슐랭 1스타를 유지해온 프렌치 레스토랑.', 'French restaurant opened in 2008, holding a Michelin star since 2014.', { reviewCount: 521 }),
@@ -72,13 +72,12 @@ export const placesIEExtra: Place[] = [
 
   // —— limerick ——
   place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Freddy\'s', 4.5, '100 O\'Connell St, Limerick, V94 XY0P', '리머릭의 활기찬 다이닝 명소.', 'A lively dining spot in Limerick.'),
-  place('limerick-fine_dining-2', 'limerick', 'fine_dining', 'The Curragower Bar & Restaurant', 4.6, 'Clancy Strand, Limerick', '중세 지구에 위치, 킹존스 성과 커러거워 폭포 전망의 레스토랑.', "Restaurant in Limerick's medieval quarter with views of King John's Castle and the Curragower Falls.", { reviewCount: 2884 }),
+  place('limerick-fine_dining-2', 'limerick', 'fine_dining', 'The Curragower Bar & Restaurant', 4.6, "Clancy's Strand, Limerick, Ireland", '중세 지구에 위치, 킹존스 성과 커러거워 폭포 전망의 레스토랑.', "Restaurant in Limerick's medieval quarter with views of King John's Castle and the Curragower Falls.", { reviewCount: 2884 }),
   place('limerick-bakery-1', 'limerick', 'bakery', 'Bean a Tí Bakery & Cafe', 4.5, '1 Little Catherine Street, Limerick, Ireland', '1966년부터 이어온 리머릭의 가족 운영 베이커리', 'Family-run Limerick bakery baking since 1966'),
   place('limerick-bakery-2', 'limerick', 'bakery', 'Angel Dust Patisserie and Bakery', 4.9, '12 Thomas St, Limerick, Ireland', '리머릭의 프랑스식 파티스리 겸 베이커리.', 'French-style patisserie and bakery in Limerick.', { reviewCount: 126 }),
   place('limerick-bakery-3', 'limerick', 'bakery', "Gusto d'Italia", 4.6, '30 William St, Limerick, Ireland', '리머릭의 이탈리아식 베이커리.', 'Italian-style bakery in Limerick.', { reviewCount: 678 }),
   place('limerick-bakery-4', 'limerick', 'bakery', 'The Danes Bakery and Wedding Gallery', 4.8, '54-55 Upper William St, Limerick, Ireland', '웨딩 케이크로도 유명한 리머릭의 베이커리.', 'Limerick bakery also known for its wedding cakes.', { reviewCount: 99 }),
-  place('limerick-bakery-5', 'limerick', 'bakery', 'La Patisserie', 4.9, 'Jetland Centre, Ennis Rd, Limerick, Ireland', '리머릭의 프랑스식 파티스리.', 'French-style patisserie in Limerick.', { reviewCount: 43 }),
-  place('limerick-cafe-1', 'limerick', 'cafe', 'Bowes Ryan Bakery & Cafe', 4.4, 'Arthurs Quay, Limerick, Ireland', '아서스 퀘이에 위치한 리머릭의 베이커리 카페', 'Limerick bakery café at Arthurs Quay'),
+  place('limerick-cafe-1', 'limerick', 'cafe', 'Bowes Ryan Bakery & Cafe', 4.4, "Arthur's Quay, Limerick V94 WN50, Ireland", '아서스 퀘이에 위치한 리머릭의 베이커리 카페', 'Limerick bakery café at Arthurs Quay'),
   place('limerick-cafe-2', 'limerick', 'cafe', 'Café Rosé', 4.8, '40 Roches St, Limerick, Ireland', '리머릭의 인기 카페.', 'Popular café in Limerick.', { reviewCount: 706 }),
   place('limerick-cafe-3', 'limerick', 'cafe', 'Rift Coffee', 4.6, '30 Upper Mallow St, Limerick, Ireland', '리머릭의 인기 커피숍.', 'Popular coffee shop in Limerick.', { reviewCount: 608 }),
   place('limerick-cafe-4', 'limerick', 'cafe', 'Aroma Coffee House', 4.6, '43 Roches St, Limerick, Ireland', '리머릭의 커피숍.', 'Coffee house in Limerick.', { reviewCount: 404 }),

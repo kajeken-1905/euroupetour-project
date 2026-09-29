@@ -5,7 +5,7 @@ export const placesCHExtra: Place[] = [
   // —— zurich ——
   place('zurich-fine_dining-1', 'zurich', 'fine_dining', 'Restaurant Bindella', 4.5, 'In Gassen 6, 8001 Zurich, Switzerland', '이탈리안·스위스 파인.', 'Italian-Swiss fine dining.', { reviewCount: 1600 }),
   place('zurich-fine_dining-2', 'zurich', 'fine_dining', 'Kronenhalle', 4.5, 'Rämistrasse 4, 8001 Zurich, Switzerland', '클래식 취리히 다이닝.', 'Classic Zurich dining.', { reviewCount: 4200 }),
-  place('zurich-fine_dining-3', 'zurich', 'fine_dining', 'Maison Manesse', 4.6, 'Zurich', '모던 시즌 코스.', 'Modern seasonal tasting.', { reviewCount: 980 }),
+  place('zurich-fine_dining-3', 'zurich', 'fine_dining', 'Maison Manesse', 4.6, 'Hopfenstrasse 2, 8045 Zürich, Switzerland', '모던 시즌 코스.', 'Modern seasonal tasting.', { reviewCount: 980 }),
   place('zurich-fine_dining-4', 'zurich', 'fine_dining', 'Zeughauskeller', 4.4, 'Bahnhofstrasse 28a, 8001 Zurich, Switzerland', '전통 스위스 요리.', 'Traditional Swiss.', { reviewCount: 6800 }),
   place('zurich-fine_dining-5', 'zurich', 'fine_dining', 'Hiltl', 4.4, 'Sihlstrasse 28, 8001 Zurich, Switzerland', '채식 다이닝 클래식.', 'Classic vegetarian dining.', { reviewCount: 5200 }),
   place('zurich-bakery-1', 'zurich', 'bakery', 'Confiserie Sprüngli', 4.4, 'Bahnhofstrasse 21, Zurich', '초콜릿·페이스트리.', 'Chocolate and pastries.', { reviewCount: 4927 }),
@@ -71,7 +71,7 @@ export const placesCHExtra: Place[] = [
   place('lucerne-bakery-1', 'lucerne', 'bakery', 'Confiserie Bachmann', 4.5, 'Bahnhofplatz, 6003 Luzern, Switzerland', '루체른의 대표 제과점으로 갓 만든 초콜릿과 아이스크림으로 유명', 'Lucerne\'s leading confiserie, known for fresh chocolates and ice cream'),
   place('lucerne-bakery-2', 'lucerne', 'bakery', 'Bäckerei-Konditorei Merz', 4.5, 'Eisengasse 12, 6004 Luzern', '루체른 구시가지의 전통 제과점.', "Traditional bakery in Lucerne's old town.", { reviewCount: 300 }),
   place('lucerne-bakery-3', 'lucerne', 'bakery', 'Kuchenhaus Annamelie', 4.7, 'Löwenstrasse 12, 6004 Luzern', '헝가리식 케이크 전문점.', 'Specialist in Hungarian-style cakes.', { reviewCount: 250 }),
-  place('lucerne-bakery-4', 'lucerne', 'bakery', 'Bäckerei Café Bachmann', 4.4, 'Luzern', '루체른 곳곳의 인기 베이커리 체인.', 'Popular bakery chain with several Lucerne locations.', { reviewCount: 900 }),
+  place('lucerne-bakery-4', 'lucerne', 'bakery', 'Bäckerei Café Bachmann', 4.4, 'Schwanenplatz 7, 6004 Luzern, Switzerland', '루체른 곳곳의 인기 베이커리 체인.', 'Popular bakery chain with several Lucerne locations.', { reviewCount: 900 }),
   place('lucerne-cafe-1', 'lucerne', 'cafe', 'Macchi', 4.4, 'Pilatusstrasse 5, 6003 Luzern, Switzerland', '루체른 기차역 인근의 합리적인 가격의 베이커리 카페', 'Bakery café near Lucerne train station offering fresh pastries at fair prices'),
   place('lucerne-cafe-2', 'lucerne', 'cafe', 'Café Tacuba', 4.8, 'Eichwaldstrasse 10, 6005 Luzern', '엘살바도르 출신 바리스타의 스페셜티 커피.', 'Specialty coffee run by a barista from El Salvador.', { reviewCount: 200 }),
   place('lucerne-cafe-3', 'lucerne', 'cafe', 'Grüezi Cafe', 4.5, 'Kapellplatz 1A, 6004 Luzern', '카펠교 인근의 커피 트럭 카페.', 'Coffee-truck café near the Chapel Bridge.', { reviewCount: 150 }),
@@ -148,14 +148,14 @@ export const placesCHExtra: Place[] = [
 
   // —— montreux ——
   place('montreux-fine_dining-1', 'montreux', 'fine_dining', 'La Rouvenaz', 4.4, 'Rue du Marché 1, 1820 Montreux', '해산물·피자 전문 이탈리안 레스토랑.', 'Italian restaurant known for seafood and pizza.'),
-  place('montreux-fine_dining-2', 'montreux', 'fine_dining', 'Safran', 4.7, 'Grand\' Rue 81, Montreux', '몽트뢰의 인기 레스토랑.', 'Popular restaurant in Montreux.', { reviewCount: 4063 }),
+  place('montreux-fine_dining-2', 'montreux', 'fine_dining', 'Safran', 4.7, 'Grand-Rue 81, 1820 Montreux, Switzerland', '몽트뢰의 인기 레스토랑.', 'Popular restaurant in Montreux.', { reviewCount: 4063 }),
   place('montreux-fine_dining-3', 'montreux', 'fine_dining', 'Restaurant All\' angolo', 4.9, 'Rue du Marché 23, Montreux', '몽트뢰의 이탈리안 레스토랑.', 'Italian restaurant in Montreux.', { reviewCount: 307 }),
   place('montreux-fine_dining-4', 'montreux', 'fine_dining', 'Montreux Jazz Café', 4.6, 'Av. Claude-Nobs 2, Montreux', '몽트뢰 재즈 페스티벌을 테마로 한 레스토랑.', 'Restaurant themed around the Montreux Jazz Festival.', { reviewCount: 879 }),
   place('montreux-bakery-1', 'montreux', 'bakery', 'Zurcher', 4.6, 'Avenue du Casino 45, 1820 Montreux, Switzerland', '장인 빵과 초콜릿, 아늑한 티룸을 갖춘 몽트뢰의 대표 제과점', 'Montreux\'s leading confiserie with artisanal bread, chocolates and a cosy tearoom'),
   place('montreux-bakery-2', 'montreux', 'bakery', 'La Bergamote', 4.7, 'Av. de Chillon 58, Montreux', '몽트뢰의 부랑주리 겸 살롱 드 테.', 'Boulangerie and tea salon in Montreux.', { reviewCount: 32 }),
   place('montreux-cafe-1', 'montreux', 'cafe', 'Tea Room de la Baye', 4.6, 'Vieille Ville, 1820 Montreux, Switzerland', '몽트뢰 구시가지에 위치한 평이 좋은 티룸', 'Highly rated tea room in Montreux\'s old town'),
-  place('montreux-cafe-2', 'montreux', 'cafe', 'Le Cosy', 4.4, 'Grand\' Rue 64, Montreux', '몽트뢰의 초콜릿 카페.', 'Chocolate café in Montreux.', { reviewCount: 351 }),
-  place('montreux-cafe-3', 'montreux', 'cafe', 'Tea-room La Primerose', 4.6, 'Rue de l\'Eglise Catholique 12, Montreux', '몽트뢰의 티룸.', 'Tea room in Montreux.', { reviewCount: 40 }),
+  place('montreux-cafe-2', 'montreux', 'cafe', 'Le Cosy', 4.4, 'Grand-Rue 64, 1820 Montreux, Switzerland', '몽트뢰의 초콜릿 카페.', 'Chocolate café in Montreux.', { reviewCount: 351 }),
+  place('montreux-cafe-3', 'montreux', 'cafe', 'Tea-room La Primerose', 4.6, "Rue de l'Église-Catholique 12, 1820 Montreux, Switzerland", '몽트뢰의 티룸.', 'Tea room in Montreux.', { reviewCount: 40 }),
 
   // —— grindelwald ——
   place('grindelwald-fine_dining-1', 'grindelwald', 'fine_dining', 'Glacier', 4.6, 'Endweg 55, 3818 Grindelwald', '알프스 전망의 모던 스위스 요리.', 'Modern Swiss cuisine with Alpine views.'),

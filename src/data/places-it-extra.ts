@@ -6,17 +6,17 @@ export const placesITExtra: Place[] = [
   place('rome-fine_dining-1', 'rome', 'fine_dining', 'La Pergola', 4.7, 'Via Alberto Cadlolo 101, 00136 Rome, Italy', '미슐랭 로마 파인 다이닝.', 'Michelin Rome fine dining.', { reviewCount: 1800 }),
   place('rome-fine_dining-2', 'rome', 'fine_dining', 'Roscioli Salumeria', 4.6, 'Via dei Giubbonari 21, 00186 Rome, Italy', '살루메리아·파스타.', 'Salumeria and pasta.', { reviewCount: 6200, image: '/places/rome-fine_dining-2.jpg' }),
   place('rome-fine_dining-3', 'rome', 'fine_dining', 'Armando al Pantheon', 4.5, "Salita de' Crescenzi 31, 00186 Rome, Italy", '클래식 로마 트라토리아.', 'Classic Roman trattoria.', { reviewCount: 4800 }),
-  place('rome-fine_dining-4', 'rome', 'fine_dining', 'Da Enzo al 29', 4.5, 'Rome', '트라스테베레 트라토리아.', 'Trastevere trattoria.', { reviewCount: 7200, image: '/places/rome-fine_dining-4.jpg' }),
+  place('rome-fine_dining-4', 'rome', 'fine_dining', 'Da Enzo al 29', 4.5, 'Via dei Vascellari 29, 00153 Rome, Italy', '트라스테베레 트라토리아.', 'Trastevere trattoria.', { reviewCount: 7200, image: '/places/rome-fine_dining-4.jpg' }),
   place('rome-fine_dining-5', 'rome', 'fine_dining', 'Felice a Testaccio', 4.5, 'Via Mastro Giorgio 29, 00153 Rome, Italy', '카르보나라·로컬 클래식.', 'Carbonara and local classics.', { reviewCount: 5600 }),
   place('rome-bakery-1', 'rome', 'bakery', 'Roscioli Forno', 4.6, 'Via dei Chiavari 34, 00186 Rome, Italy', '피자 비안카·빵.', 'Pizza bianca and bread.', { reviewCount: 4800, image: '/places/rome-bakery-1.jpg' }),
-  place('rome-bakery-2', 'rome', 'bakery', 'Pasticceria Boccione', 4.5, 'Rome', '유대인 게토 페이스트리.', 'Jewish Ghetto pastries.', { reviewCount: 3200, image: '/places/rome-bakery-2.jpg' }),
+  place('rome-bakery-2', 'rome', 'bakery', 'Pasticceria Boccione', 4.5, "Via del Portico d'Ottavia 1, 00186 Rome, Italy", '유대인 게토 페이스트리.', 'Jewish Ghetto pastries.', { reviewCount: 3200, image: '/places/rome-bakery-2.jpg' }),
   place('rome-bakery-3', 'rome', 'bakery', 'Antico Forno', 4.4, 'Rome', '전통 빵집.', 'Traditional bakery.', { reviewCount: 2100 }),
   place('rome-bakery-4', 'rome', 'bakery', 'Regoli', 4.5, 'Via dello Statuto 60, 62, 00185 Rome, Italy', '클래식 파티스리.', 'Classic pasticceria.', { reviewCount: 2800 }),
   place('rome-bakery-5', 'rome', 'bakery', "Forno Campo de' Fiori", 4.5, "Campo de' Fiori 22, 00186 Roma, Italy", '캄포 데 피오리 광장의 인기 포르노, 이른 아침 간식과 피자 비안카로 유명', "Popular bakery on Campo de' Fiori square, favored for early-morning snacks and pizza bianca", { reviewCount: 3600 }),
   place('rome-cafe-1', 'rome', 'cafe', 'Sant\'Eustachio Il Caffè', 4.5, 'Rome', '로마 에스프레소 클래식.', 'Classic Roman espresso.', { reviewCount: 9800, image: '/places/rome-cafe-1.jpg' }),
   place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 4.4, 'Rome', '판테온 근처 커피.', 'Coffee near the Pantheon.', { reviewCount: 7600, image: '/places/rome-cafe-2.jpg' }),
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 4.5, 'Via Fabio Massimo 80a, 00192 Rome, Italy', '역사적 카페.', 'Historic café.', { reviewCount: 2400 }),
-  place('rome-cafe-4', 'rome', 'cafe', 'Faroe', 4.5, 'Rome', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
+  place('rome-cafe-4', 'rome', 'cafe', 'Faro - Caffè Specialty', 4.5, 'Via Piave 55, 00187 Rome, Italy', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1100 }),
   place('rome-cafe-5', 'rome', 'cafe', 'Barnum Cafè', 4.5, 'Via del Pellegrino 87, 00186 Roma, Italy', '캄포 데 피오리 인근 로마 도심의 인기 스페셜티 커피숍', "Popular specialty coffee spot in central Rome, just off Campo de' Fiori", { reviewCount: 1600 }),
   place('rome-korean-1', 'rome', 'korean', 'Gainn', 4.5, 'Via dei Mille 18, 00185 Roma', '미쉐린 가이드 등재 한식당.', 'Michelin Guide-listed Korean restaurant.'),
   place('rome-korean-2', 'rome', 'korean', 'Galbi', 4.5, 'Via Cremera 25, 00198 Roma, Italy', '숯불 직화로 굽는 정통 한국식 바비큐 레스토랑', 'Authentic Korean BBQ restaurant grilling over oak coals'),
@@ -28,8 +28,7 @@ export const placesITExtra: Place[] = [
   place('milan-fine_dining-1', 'milan', 'fine_dining', 'Ratanà', 4.9, 'Via Gaetano de Castillia 28, 20124 Milano', '개조된 철도 건물의 밀라노·롬바르디아 요리 레스토랑, 현대적으로 재해석한 리조토 알라 밀라네제로 유명.', 'Milanese-Lombard restaurant in a converted railway building, known for its modern take on risotto alla Milanese.', { reviewCount: 6888 }),
   place('milan-fine_dining-2', 'milan', 'fine_dining', 'Risoelatte', 4.5, 'Via Laura Solera Mantegazza 5, 20122 Milano', '1960년대 인테리어가 인상적인 정통 밀라노 요리 레스토랑.', 'Authentic Milanese restaurant with distinctive 1960s decor.', { image: '/places/milan-fine_dining-2.jpg' }),
   place('milan-korean-1', 'milan', 'korean', 'Ginmi', 4.5, 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥이 유명한 한식당.', 'Korean restaurant known for dolsot bibimbap.'),
-  place('milan-korean-2', 'milan', 'korean', 'Seoul Ristorante Coreano', 4.5, 'Milano, Italy', '밀라노 최고의 한식당 중 하나로 꼽히는 곳.', "Regarded as one of Milan's best Korean restaurants."),
-  place('milan-korean-3', 'milan', 'korean', 'Hana Ristorante Coreano', 3.9, 'Milano, Italy', '1998년부터 이어온 밀라노의 정통 한식당.', 'Authentic Korean restaurant in Milan since 1998.'),
+  place('milan-korean-2', 'milan', 'korean', 'Seoul Ristorante Coreano', 4.5, 'Corso Cristoforo Colombo 4, 20144 Milan, Italy', '밀라노 최고의 한식당 중 하나로 꼽히는 곳.', "Regarded as one of Milan's best Korean restaurants."),
   place('milan-bakery-1', 'milan', 'bakery', 'Marchesi 1824', 4.6, 'Via Santa Maria alla Porta, 20123 Milano, Italy', '1824년부터 이어온 밀라노의 전설적인 제과점, 스포르체스코 성 인근에 위치', 'Legendary Milan bakery since 1824, near Castello Sforzesco'),
   place('milan-bakery-2', 'milan', 'bakery', 'Pavé', 4.1, 'Via Felice Casati 27, 20124 Milano', '다양한 종류의 크루아상으로 유명한 인기 베이커리.', 'Popular bakery known for its wide variety of croissants.', { reviewCount: 8443 }),
   place('milan-cafe-1', 'milan', 'cafe', 'Cova Montenapoleone', 4.5, 'Via Montenapoleone, 20121 Milano, Italy', '몬테나폴레오네 거리의 유명 케이크숍이자 카페', 'Well-known cake shop and café on Via Montenapoleone'),
@@ -217,7 +216,7 @@ export const placesITExtra: Place[] = [
   place('bolzano-fine_dining-1', 'bolzano', 'fine_dining', 'Batzen Häusl', 4.4, 'Via Andreas Hofer 30, 39100 Bolzano', '수제 맥주와 남티롤 향토 요리를 내는 전통 스투베.', 'Traditional stube with house beer and South Tyrolean dishes.'),
   place('bolzano-bakery-1', 'bolzano', 'bakery', 'Panificio Grandi', 4.5, 'Via dei Bottai - Bindergasse 16, 39100 Bolzano, Italy', '프레첼·슈트루델·양귀비씨 빵으로 유명한 볼차노 빵집.', 'Bolzano bakery known for pretzels, strudel and poppy-seed pastries.'),
   place('bolzano-bakery-2', 'bolzano', 'bakery', 'Franziskaner Bakery', 4.4, 'Piazza delle Erbe - Obstplatz, 39100 Bolzano, Italy', '볼차노 곳곳에 지점을 둔 가족 수제 베이커리.', 'Family artisan bakery with outlets across Bolzano.'),
-  place('bolzano-cafe-1', 'bolzano', 'cafe', 'Loacker Moccaria', 4.4, 'Bolzano, Italy', '발터 광장의 로아커 웨이퍼 카페.', 'Loacker\'s wafer café on Piazza Walther.'),
+  place('bolzano-cafe-1', 'bolzano', 'cafe', 'Loacker Moccaria', 4.4, 'Piazza Walther 11, 39100 Bolzano, Italy', '발터 광장의 로아커 웨이퍼 카페.', 'Loacker\'s wafer café on Piazza Walther.'),
 
   // —— cortina ——
   place('cortina-fine_dining-1', 'cortina', 'fine_dining', 'El Brite de Larieto', 4.6, 'Passo Tre Croci, Località Larieto, 32043 Cortina d\'Ampezzo', '숲속 농장에서 운영하는 팜투테이블 알프스 레스토랑.', 'Farm-to-table alpine restaurant in a larch forest.'),
@@ -226,12 +225,10 @@ export const placesITExtra: Place[] = [
 
   // —— portofino ——
   place('portofino-fine_dining-1', 'portofino', 'fine_dining', 'Ristorante Puny', 4.4, 'Vico dritto, 16038 Portofino, Italy', '항구 광장에 자리한 포르토피노의 대표 해산물 레스토랑.', 'Portofino\'s signature seafood restaurant on the harbor piazzetta.'),
-  place('portofino-bakery-1', 'portofino', 'bakery', 'Da Nicola', 4.4, 'Piazza Martiri dell\'Olivetta 2, 16034 Portofino', '치즈 포카치아로 유명한 광장 앞 가게.', 'Piazzetta spot famed for cheese focaccia.'),
 
   // —— cinque-terre ——
   place('cinque-terre-fine_dining-1', 'cinque-terre', 'fine_dining', 'Ristorante Belforte', 4.4, 'Via Guidoni 42, 19018 Vernazza', '베르나차 항구 옛 요새 위 바다 전망 레스토랑.', 'Sea-view restaurant built into Vernazza\'s old fortress.'),
   place('cinque-terre-cafe-1', 'cinque-terre', 'cafe', 'Nessun Dorma', 4.6, 'Località Punta Bonfiglio, 19017 Manarola', '마나롤라 전경을 보며 즐기는 아페리티보 명소.', 'Aperitivo spot with the classic view of Manarola.'),
-  place('cinque-terre-bakery-1', 'cinque-terre', 'bakery', 'La Cambusa', 4.5, 'Manarola, Italy', '파리나타와 포카치아로 유명한 마나롤라 가게.', 'Manarola spot known for farinata and focaccia.'),
   place('cinque-terre-fine_dining-2', 'cinque-terre', 'fine_dining', 'Trattoria dal Billy', 4.6, 'Via Aldo Rollandi 122, 19017 Manarola', '마나롤라 위쪽 언덕의 바다 전망 트라토리아.', 'Hilltop Manarola trattoria with sea views.'),
 
   // —— modena ——
@@ -269,7 +266,7 @@ export const placesITExtra: Place[] = [
 
   // —— orvieto ——
   place('orvieto-fine_dining-1', 'orvieto', 'fine_dining', 'Trattoria del Moro Aronne', 4.5, 'Via San Leonardo 7, 05018 Orvieto', '수제 파스타의 가족 운영 오르비에토 트라토리아.', 'Family-run Orvieto trattoria with handmade pasta.'),
-  place('orvieto-fine_dining-2', 'orvieto', 'fine_dining', 'I Sette Consoli', 4.5, 'Piazza Sant\'Angelo 1/A, 05018 Orvieto', '대성당이 보이는 정원의 오르비에토 레스토랑.', 'Orvieto restaurant with a garden facing the cathedral.'),
+  place('orvieto-fine_dining-2', 'orvieto', 'fine_dining', 'I Sette Consoli', 4.5, "Piazza Sant'Angelo 1/A, 05018 Orvieto, Italy", '대성당이 보이는 정원의 오르비에토 레스토랑.', 'Orvieto restaurant with a garden facing the cathedral.'),
 
   // —— capri ——
   place('capri-fine_dining-1', 'capri', 'fine_dining', 'Da Paolino', 4.3, 'Via Palazzo a Mare 11, 80073 Capri', '레몬 나무 그늘 아래 카프리 전통 요리와 디저트 뷔페.', 'Caprese cooking under lemon trees, with a famous dessert buffet.', { image: '/places/capri-fine_dining-1.jpg' }),
@@ -293,7 +290,7 @@ export const placesITExtra: Place[] = [
   // —— bari ——
   place('bari-bakery-1', 'bari', 'bakery', 'Panificio Fiore', 4.6, 'Strada Palazzo di Città 38, 70122 Bari', '옛 성당 안 장작 화덕에서 포카치아 바레제를 굽는 100년 빵집.', 'Century-old bakery in a former church, famed for focaccia barese.'),
   place('bari-fine_dining-1', 'bari', 'fine_dining', 'La Uascezze', 4.4, "Corte Sant'Agostino 2-4, 70121 Bari, Italy", '산 니콜라 성당 근처 오레키에테 등 바리 향토 요리.', 'Barese dishes like orecchiette near San Nicola.'),
-  place('bari-fine_dining-2', 'bari', 'fine_dining', 'Mastro Ciccio', 4.6, 'Bari, Italy', '문어 파니니로 유명한 풀리아 스트리트 푸드 가게.', 'Puglian street-food spot famous for its octopus panino.'),
+  place('bari-fine_dining-2', 'bari', 'fine_dining', 'Mastro Ciccio', 4.6, 'Corso Vittorio Emanuele II 15, 70122 Bari, Italy', '문어 파니니로 유명한 풀리아 스트리트 푸드 가게.', 'Puglian street-food spot famous for its octopus panino.'),
 
   // —— alberobello ——
   place('alberobello-fine_dining-1', 'alberobello', 'fine_dining', 'Il Poeta Contadino', 4.2, 'Via Monte San Michele 25/29, 70011 Alberobello', '1990년부터 미쉐린 스타를 받은 트룰리 마을 레스토랑.', 'Michelin-starred since 1990, in the heart of the trulli.'),
@@ -308,7 +305,7 @@ export const placesITExtra: Place[] = [
   place('lecce-fine_dining-2', 'lecce', 'fine_dining', 'Doppiozero', 4.5, 'Via Guglielmo Paladini 2, 73100 Lecce, Italy', '대성당 뒤 골목의 작은 비스트로.', 'Small bistro on a lane behind the cathedral.', { image: '/places/lecce-fine_dining-2.jpg' }),
 
   // —— tropea ——
-  place('tropea-bakery-1', 'tropea', 'bakery', 'Gelateria Tonino', 4.6, 'Tropea, Italy', '붉은 양파·은두야 젤라토로 유명한 가게.', 'Gelateria famous for red-onion and \'nduja flavors.'),
+  place('tropea-bakery-1', 'tropea', 'bakery', 'Gelateria Tonino', 4.6, 'Corso Vittorio Emanuele 52, 89861 Tropea, Italy', '붉은 양파·은두야 젤라토로 유명한 가게.', 'Gelateria famous for red-onion and \'nduja flavors.'),
   place('tropea-fine_dining-1', 'tropea', 'fine_dining', 'Osteria del Pescatore', 4.3, 'Via del Monte, 89861 Tropea, Italy', '트로페아 구시가의 해산물 오스테리아.', 'Seafood osteria in Tropea\'s old town.'),
 
   // —— taormina ——
@@ -331,11 +328,11 @@ export const placesITExtra: Place[] = [
   // —— cefalu ——
   place('cefalu-fine_dining-1', 'cefalu', 'fine_dining', 'Ostaria del Duomo', 4.2, 'Via Seminario 5, 90015 Cefalù', '대성당 광장 가장자리의 레스토랑.', 'Restaurant on the edge of the cathedral square.'),
   place('cefalu-bakery-1', 'cefalu', 'bakery', 'Duomo Serio 1952', 4.4, 'Piazza Duomo, 90015 Cefalù', '1952년 개업, 대성당 광장의 카놀리·카사타 제과점.', 'Since 1952, cannoli and cassata on the Duomo square.'),
-  place('cefalu-bakery-2', 'cefalu', 'bakery', 'Pasticceria Cangelosi', 4.5, 'Cefalù, Italy', '합리적인 가격의 인기 제과점, 비녜와 미니 카놀리가 인기.', 'Popular, well-priced pastry shop for bignè and mini cannoli.'),
+  place('cefalu-bakery-2', 'cefalu', 'bakery', 'Pasticceria Cangelosi', 4.5, 'Via Aldo Moro 13, 90015 Cefalù, Italy', '합리적인 가격의 인기 제과점, 비녜와 미니 카놀리가 인기.', 'Popular, well-priced pastry shop for bignè and mini cannoli.'),
 
   // —— cagliari ——
   place('cagliari-fine_dining-1', 'cagliari', 'fine_dining', 'Sa Domu Sarda', 4.5, 'Via Sassari 51, 09124 Cagliari', '사르데냐 향토 고기 요리와 와인 레스토랑.', 'Traditional Sardinian meat dishes and wine.'),
-  place('cagliari-bakery-1', 'cagliari', 'bakery', 'Pasticceria Piemontese', 4.6, 'Cagliari, Italy', '크림 칸노치니로 유명한 제과점.', 'Pastry shop famed for cream cannoncini.'),
+  place('cagliari-bakery-1', 'cagliari', 'bakery', 'Pasticceria Piemontese', 4.6, 'Via Enrico Lai 4/8, 09128 Cagliari, Italy', '크림 칸노치니로 유명한 제과점.', 'Pastry shop famed for cream cannoncini.'),
   place('cagliari-cafe-1', 'cagliari', 'cafe', 'Caffè Svizzero', 4.2, 'Largo Carlo Felice 6, 09124 Cagliari', '1901년 개업, 아치형 천장의 역사 카페.', 'Historic vaulted café opened in 1901.'),
 
   // —— alghero ——
@@ -358,10 +355,10 @@ export const placesITExtra: Place[] = [
   place('ferrara-fine_dining-1', 'ferrara', 'fine_dining', 'Hostaria Savonarola', 4.3, 'Piazza Girolamo Savonarola 18, 44121 Ferrara', '에스텐세 성 바로 앞, 호박 카펠라치의 가정식 트라토리아.', 'Family-style trattoria by the castle, known for pumpkin cappellacci.'),
   place('ferrara-fine_dining-2', 'ferrara', 'fine_dining', 'Trattoria Da Noemi', 4.5, 'Via Ragno 31, 44121 Ferrara, Italy', '페라라 전통 요리를 정갈하게 내는 트라토리아.', 'Refined take on traditional Ferrarese cooking.'),
   place('ferrara-fine_dining-3', 'ferrara', 'fine_dining', 'Osteria I Quattro Angeli', 4.2, 'Piazzetta del Castello 10, 44121 Ferrara, Italy', '에스텐세 성이 보이는 광장의 오스테리아.', 'Osteria on the square facing Castello Estense.'),
-  place('ferrara-bakery-1', 'ferrara', 'bakery', 'Panificio Cappelli', 4.5, 'Ferrara, Italy', '40년 넘은 빵집 겸 트라토리아, 페라라 꽈배기빵 코피아가 유명.', 'Bakery-trattoria of 40+ years, known for Ferrara\'s coppia bread.'),
+  place('ferrara-bakery-1', 'ferrara', 'bakery', 'Panificio Cappelli', 4.5, 'Via Ripagrande 4/6, 44121 Ferrara, Italy', '40년 넘은 빵집 겸 트라토리아, 페라라 꽈배기빵 코피아가 유명.', 'Bakery-trattoria of 40+ years, known for Ferrara\'s coppia bread.'),
 
   // —— urbino ——
-  place('urbino-fine_dining-1', 'urbino', 'fine_dining', 'Osteria Km 0', 4.5, 'Urbino, Italy', '대성당 앞, 크레샤 스폴리아타와 지역 식재료 요리.', 'Facing the cathedral; crescia sfogliata and local produce.'),
+  place('urbino-fine_dining-1', 'urbino', 'fine_dining', 'Osteria Km 0', 4.5, 'Via Francesco Puccinotti 21, 61029 Urbino, Italy', '대성당 앞, 크레샤 스폴리아타와 지역 식재료 요리.', 'Facing the cathedral; crescia sfogliata and local produce.'),
   place('urbino-fine_dining-2', 'urbino', 'fine_dining', 'Ragno D\'Oro', 4.5, 'Urbino, Italy', '성벽 밖 라파엘로 기념비 옆, 크레샤 스폴리아타 명소.', 'Just outside the walls by Raphael\'s monument; famed for crescia.'),
   place('urbino-fine_dining-3', 'urbino', 'fine_dining', 'Il Girarrosto', 4.3, 'Piazza San Francesco 3, 61029 Urbino, Italy', '크레샤와 구운 고기를 내는 우르비노의 오래된 식당.', 'Historic spot for crescia and grilled meats.'),
   place('urbino-fine_dining-4', 'urbino', 'fine_dining', 'Il Cortegiano', 4.2, 'Via Federico Veterani 1, 61029 Urbino, Italy', '대성당이 보이는 테라스의 레스토랑.', 'Restaurant with a terrace overlooking the cathedral.'),
@@ -370,15 +367,15 @@ export const placesITExtra: Place[] = [
   place('positano-fine_dining-1', 'positano', 'fine_dining', 'Da Vincenzo', 4.6, 'Viale Pasitea 172, 84017 Positano', '1958년 개업, 절벽 속 가족 레스토랑. 해산물 스칼라티엘리가 대표 메뉴.', 'Family restaurant in the cliffside since 1958, known for seafood scialatielli.'),
   place('positano-fine_dining-2', 'positano', 'fine_dining', 'Chez Black', 4.2, 'Via del Brigantino 19, 84017 Positano', '1949년 개업, 스피아자 그란데 해변 바로 앞의 해산물 레스토랑.', 'Beachfront seafood institution on Spiaggia Grande since 1949.'),
   place('positano-bakery-1', 'positano', 'bakery', 'La Zagara', 4.3, 'Via dei Mulini 8, 84017 Positano', '델리치아 알 리모네 등 쇼윈도 디저트로 유명한 제과점.', 'Pastry shop famed for its window of desserts like delizia al limone.'),
-  place('positano-bakery-2', 'positano', 'bakery', 'Collina Bakery', 4.5, 'Positano, Italy', '페이스트리·샌드위치·티라미수를 파는 합리적인 가격의 베이커리 카페.', 'Well-priced bakery café for pastries, sandwiches and tiramisu.'),
+  place('positano-bakery-2', 'positano', 'bakery', 'Collina Bakery', 4.5, 'Via Cristoforo Colombo 1/3, 84017 Positano, Italy', '페이스트리·샌드위치·티라미수를 파는 합리적인 가격의 베이커리 카페.', 'Well-priced bakery café for pastries, sandwiches and tiramisu.'),
 
   // —— olbia ——
-  place('olbia-fine_dining-1', 'olbia', 'fine_dining', 'Il Pescatore', 4.4, 'Porto Cervo Marina Vecchia, Arzachena', '포르토 체르보 옛 항구의 대표 해산물 레스토랑.', 'Renowned seafood restaurant on Porto Cervo\'s old harbour.'),
-  place('olbia-fine_dining-2', 'olbia', 'fine_dining', 'White Villa', 4.5, 'Porto Cervo, Arzachena', '지중해·사르데냐 해산물을 현대적으로 내는 레스토랑.', 'Modern Mediterranean-Sardinian seafood.'),
-  place('olbia-fine_dining-3', 'olbia', 'fine_dining', 'La Briciola', 4.4, 'Porto Cervo, Arzachena', '문어 요리가 좋은 아늑한 식당.', 'Cozy spot known for its octopus.'),
+  place('olbia-fine_dining-1', 'olbia', 'fine_dining', 'Il Pescatore', 4.4, 'Viale Aldo Moro 347, 07026 Olbia, Italy', '포르토 체르보 옛 항구의 대표 해산물 레스토랑.', 'Renowned seafood restaurant on Porto Cervo\'s old harbour.'),
+  place('olbia-fine_dining-2', 'olbia', 'fine_dining', 'White Villa', 4.5, 'Piccolo Pevero, SP59, 07021 Porto Cervo, Italy', '지중해·사르데냐 해산물을 현대적으로 내는 레스토랑.', 'Modern Mediterranean-Sardinian seafood.'),
+  place('olbia-fine_dining-3', 'olbia', 'fine_dining', 'La Briciola', 4.4, 'Località Liscia di Vacca, 07021 Porto Cervo, Italy', '문어 요리가 좋은 아늑한 식당.', 'Cozy spot known for its octopus.'),
 
   // —— cala-gonone ——
-  place('cala-gonone-fine_dining-1', 'cala-gonone', 'fine_dining', 'Il Nuovo Gabbiano', 4.4, 'Piazza del Porto, Cala Gonone', '항구 광장의 해산물 레스토랑.', 'Seafood restaurant on the harbour square.'),
-  place('cala-gonone-fine_dining-2', 'cala-gonone', 'fine_dining', 'Da Graziano Il Pescatore', 4.3, 'Cala Gonone, Dorgali', '해산물 스파게티와 지역 생선 요리.', 'Seafood spaghetti and local fish.'),
+  place('cala-gonone-fine_dining-1', 'cala-gonone', 'fine_dining', 'Il Nuovo Gabbiano', 4.4, 'Piazza del Porto, 08022 Cala Gonone, Italy', '항구 광장의 해산물 레스토랑.', 'Seafood restaurant on the harbour square.'),
+  place('cala-gonone-fine_dining-2', 'cala-gonone', 'fine_dining', 'Da Graziano Il Pescatore', 4.3, 'Via Vasco de Gama 22, 08022 Cala Gonone, Italy', '해산물 스파게티와 지역 생선 요리.', 'Seafood spaghetti and local fish.'),
   place('cala-gonone-fine_dining-3', 'cala-gonone', 'fine_dining', 'La Poltrona', 4.4, 'Zona Centro Sportivo, 08022 Cala Gonone, Italy', '현지인이 즐겨 찾는 피자·레스토랑.', 'Local-favourite pizzeria-restaurant.'),
 ]

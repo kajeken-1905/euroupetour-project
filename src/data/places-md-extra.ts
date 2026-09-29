@@ -32,7 +32,6 @@ export const placesMDExtra: Place[] = [
   place('soroca-fine_dining-1', 'soroca', 'fine_dining', 'Restaurant Apollon', 4.3, 'Strada Vasile Alecsandri 2, Soroca', '드네스트르강 전망의 유러피언 요리.', 'European cuisine with Dniester River views.'),
   place('soroca-fine_dining-2', 'soroca', 'fine_dining', 'La Faleza', 4.3, 'Str. Bogdan Petriceicu Hașdeu, Soroca', '드네스트르강 전망의 소로카 음식점.', 'Restaurant in Soroca with views over the Dniester River.', { reviewCount: 184 }),
 
-  place('soroca-bakery-1', 'soroca', 'bakery', 'Brutăria Al-Irina', 4.3, 'Soroca, Moldova', '태양광 에너지로 매일 빵을 굽는 소로카의 베이커리', 'Soroca bakery baking bread daily using solar energy'),
   place('soroca-bakery-2', 'soroca', 'bakery', 'DaviDan Bakery', 4.7, 'Alexandru cel Bun 2, Soroca', '프랑스식 소로카 제과점.', 'French-style bakery in Soroca.', { reviewCount: 14 }),
   place('soroca-cafe-1', 'soroca', 'cafe', 'In Vogue Cafe', 4.4, 'Independenței 76, Soroca, Moldova', '드네스트르 강변 소로카 요새 인근의 카페', 'Café near Soroca Fortress on the banks of the Dniester'),
   place('soroca-cafe-2', 'soroca', 'cafe', 'COFFEEIN', 4.6, 'Alhionia 8, Soroca', '소로카의 에스프레소 바.', 'Espresso bar in Soroca.', { reviewCount: 205 }),

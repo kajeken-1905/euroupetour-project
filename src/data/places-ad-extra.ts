@@ -19,7 +19,7 @@ export const placesADExtra: Place[] = [
 
   // —— pas-de-la-casa ——
   place('pas-de-la-casa-fine_dining-1', 'pas-de-la-casa', 'fine_dining', 'El Provençal', 4.5, 'Carrer Catalunya 13, AD200 Pas de la Casa', '프랑스 요리 전문 레스토랑.', 'Restaurant specializing in French cuisine.'),
-  place('pas-de-la-casa-bakery-1', 'pas-de-la-casa', 'bakery', 'Pastisseria La Camarguesa', 4.5, 'Av. d\'Encamp 29, AD200 Pas de la Casa, Andorra', '1986년부터 이어온 파스 데 라 카사의 프랑스식 베이커리, 스키 슬로프 전망 테라스가 특징', 'French-style bakery in Pas de la Casa since 1986, with a sunny terrace overlooking the ski slopes'),
+  place('pas-de-la-casa-bakery-1', 'pas-de-la-casa', 'bakery', 'Pastisseria La Camarguesa', 4.5, "Avinguda d'Encamp 29, AD200 Pas de la Casa, Andorra", '1986년부터 이어온 파스 데 라 카사의 프랑스식 베이커리, 스키 슬로프 전망 테라스가 특징', 'French-style bakery in Pas de la Casa since 1986, with a sunny terrace overlooking the ski slopes'),
   place('pas-de-la-casa-cafe-1', 'pas-de-la-casa', 'cafe', 'Chez André', 4.4, 'Pas de la Casa, AD200, Andorra', '합리적인 가격의 맛있는 아침 식사로 인기 있는 파스 데 라 카사의 카페', 'Popular Pas de la Casa breakfast spot known for good food at fair prices'),
 
   // —— ordino ——

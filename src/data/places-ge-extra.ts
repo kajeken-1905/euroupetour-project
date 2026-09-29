@@ -26,7 +26,7 @@ export const placesGEExtra: Place[] = [
 
   // —— kutaisi ——
   place('kutaisi-fine_dining-1', 'kutaisi', 'fine_dining', 'Sisters Restaurant', 4.6, '2 Davit & Konstantine Mkeidze Street, Kutaisi', '레드 브리지 인근 전통 조지아 연회.', 'Traditional Georgian feast near the Red Bridge.'),
-  place('kutaisi-fine_dining-2', 'kutaisi', 'fine_dining', 'Georgian Cuisine Magnolia', 4.4, 'Kutaisi, Georgia', '쿠타이시 전망이 아름다운 아늑한 조지아 요리 레스토랑.', 'Cozy Georgian restaurant with beautiful views of Kutaisi.'),
+  place('kutaisi-fine_dining-2', 'kutaisi', 'fine_dining', 'Georgian Cuisine Magnolia', 4.4, 'Galaktion Tabidze Street 1, 4600 Kutaisi, Georgia', '쿠타이시 전망이 아름다운 아늑한 조지아 요리 레스토랑.', 'Cozy Georgian restaurant with beautiful views of Kutaisi.'),
   place('kutaisi-bakery-1', 'kutaisi', 'bakery', 'Bubliki Bakery', 4.5, 'Tsminda Nino St 11, 4600 Kutaisi, Georgia', '1997년부터 이어온 쿠타이시 중심가의 베이커리', 'Kutaisi bakery in the city center, operating since 1997'),
   place('kutaisi-bakery-2', 'kutaisi', 'bakery', 'Bakery Sanimusho', 4.5, 'N16 Tamar The Queen St, Kutaisi', '가성비 좋은 한 끼와 향긋한 커피로 유명한 베이커리.', 'Bakery known for its good-value meals and aromatic coffee.', { reviewCount: 162 }),
   place('kutaisi-cafe-1', 'kutaisi', 'cafe', 'Cafe Neta', 4.4, 'Tamar Mepe Street, 4600 Kutaisi, Georgia', '훌륭한 커피와 케이크로 유명한 쿠타이시의 카페', 'Kutaisi café known for expertly crafted coffee and delectable cakes'),
@@ -36,7 +36,7 @@ export const placesGEExtra: Place[] = [
   place('stepantsminda-fine_dining-1', 'stepantsminda', 'fine_dining', 'Kazbegi Good Food', 4.6, 'Gergetis Ubani E117, Stepantsminda 4485', '아늑한 분위기의 조지아 가정식.', 'Cozy Georgian home cooking.'),
   place('stepantsminda-fine_dining-2', 'stepantsminda', 'fine_dining', 'Maisi - Restaurant in Kazbegi', 4.8, 'N18 Betlemi St, Stepantsminda, Georgia', '스테판츠민다에서 평점이 매우 높은 조지아 요리 레스토랑.', 'Highly rated Georgian cuisine restaurant in Stepantsminda.', { reviewCount: 1472 }),
   place('stepantsminda-fine_dining-3', 'stepantsminda', 'fine_dining', 'Samani Restaurant', 4.6, 'N12 Aleksandre Kazbegi St, Stepantsminda, Georgia', '많은 리뷰를 받은 스테판츠민다의 레스토랑.', 'Popular restaurant in Stepantsminda with a large number of reviews.', { reviewCount: 2558 }),
-  place('stepantsminda-cafe-1', 'stepantsminda', 'cafe', 'Cafe-Restaurant Kazbegya', 4.4, 'Stepantsminda, Georgia', '알렉산드레 카즈베기 동상 인근 스테판츠민다 중심가의 카페 겸 레스토랑', 'Café-restaurant in central Stepantsminda, steps from the Kazbegi monument'),
+  place('stepantsminda-cafe-1', 'stepantsminda', 'cafe', 'Cafe-Restaurant Kazbegya', 4.4, 'Tergdaleulebi Street 2, Stepantsminda, Georgia', '알렉산드레 카즈베기 동상 인근 스테판츠민다 중심가의 카페 겸 레스토랑', 'Café-restaurant in central Stepantsminda, steps from the Kazbegi monument'),
   place('stepantsminda-cafe-2', 'stepantsminda', 'cafe', 'Art-cafe MARI', 4.3, 'Aleksandre Kazbegi St, Stepantsminda, Georgia', '스테판츠민다의 아트 카페 겸 레스토랑.', 'Art café and restaurant in Stepantsminda.', { reviewCount: 174 }),
   place('stepantsminda-cafe-3', 'stepantsminda', 'cafe', 'Cafe Planet Kazbegi', 4.8, '12a Kazbegi St, Stepantsminda, Georgia', '높은 평점의 스테판츠민다 카페 겸 레스토랑.', 'Highly rated café and restaurant in Stepantsminda.', { reviewCount: 50 }),
 

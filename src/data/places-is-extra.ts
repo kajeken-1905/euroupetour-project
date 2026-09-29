@@ -32,7 +32,7 @@ export const placesISExtra: Place[] = [
   place('vik-fine_dining-1', 'vik', 'fine_dining', 'Suður-Vík', 4.5, 'Suðurvíkurvegur 1, 870 Vík', '언덕 전망의 아이슬란드 가정식.', 'Icelandic comfort food with hillside views.'),
   place('vik-fine_dining-2', 'vik', 'fine_dining', 'The Soup Company', 4.7, 'Víkurbraut 5, 870 Vík', '비크의 수프 전문점.', 'Soup specialist in Vík.', { reviewCount: 3362 }),
   place('vik-fine_dining-3', 'vik', 'fine_dining', 'Smiðjan Brugghús', 4.7, 'Sunnubraut 15, 870 Vík', '수제 맥주와 버거로 유명한 비크의 브루하우스.', 'Brewhouse in Vík known for its craft beer and burgers.', { reviewCount: 2255 }),
-  place('vik-bakery-1', 'vik', 'bakery', 'Lava Bakery and Coffee', 4.4, 'Vík í Mýrdal, Iceland', '다양한 아르티장 빵과 페이스트리로 유명한 비크의 베이커리 카페', 'Vík bakery café known for artisanal breads, pastries and cakes'),
+  place('vik-bakery-1', 'vik', 'bakery', 'Lava Bakery and Coffee', 4.4, 'Austurvegur 20, 870 Vík, Iceland', '다양한 아르티장 빵과 페이스트리로 유명한 비크의 베이커리 카페', 'Vík bakery café known for artisanal breads, pastries and cakes'),
   place('vik-cafe-1', 'vik', 'cafe', 'Halldorskaffi', 4.3, 'Víkurbraut 28, 870 Vik, Iceland', '비크에서 가장 오래된 건물 중 하나에 자리한 아늑한 카페 겸 레스토랑', 'Cozy café-restaurant housed in one of the oldest buildings in Vík'),
   place('vik-cafe-2', 'vik', 'cafe', 'Skool Beans', 4.9, 'Mósastallur, 870 Vík', '비크의 인기 카페.', 'Popular café in Vík.', { reviewCount: 1851 }),
 
@@ -43,7 +43,6 @@ export const placesISExtra: Place[] = [
   place('husavik-fine_dining-4', 'husavik', 'fine_dining', 'Lókal Bistro', 4.6, 'Garðarsbraut 7, 640 Húsavík', '후사비크의 비스트로.', 'Bistro in Húsavík.', { reviewCount: 220 }),
   place('husavik-bakery-1', 'husavik', 'bakery', 'Heimabakarí', 4.6, 'Garðarsbraut 15, 640 Húsavík, Iceland', '후사비크 명물 시나몬롤 스누두르로 유명한 가족 운영 베이커리', 'Family-run Húsavík bakery famous for its snúður cinnamon roll'),
   place('husavik-bakery-2', 'husavik', 'bakery', 'Dísu Café', 5.0, 'Vallholtsvegur 3, 640 Húsavík', '후사비크의 베이커리 카페.', 'Bakery café in Húsavík.', { reviewCount: 116 }),
-  place('husavik-cafe-1', 'husavik', 'cafe', 'Bákari', 4.3, 'Garðarsbraut, Húsavík, Iceland', '빵과 샌드위치를 함께 즐길 수 있는 후사비크의 베이커리', 'Húsavík bakery offering both baked goods and sandwiches'),
   place('husavik-cafe-2', 'husavik', 'cafe', 'Hérna Húsavík', 4.8, 'Stórigarður 11, Húsavík', '홈메이드 케이크와 향긋한 커피로 유명한 후사비크 중심가의 카페.', "Café in central Húsavík known for its homemade cakes and fragrant coffee."),
 
   // —— selfoss ——

@@ -63,10 +63,10 @@ export const placesTRExtra: Place[] = [
 
   // —— trabzon ——
   place('trabzon-fine_dining-1', 'trabzon', 'fine_dining', 'Cephanelik Restaurant & Cafe', 4.5, 'Boztepe Mahallesi, Cephanelik Mevkii No:89, Ortahisar, 61080 Trabzon, Turkey', '보즈테페 언덕에서 트라브존 전경을 내려다보며 즐기는 파노라마 뷰 레스토랑', 'Restaurant on Boztepe hill offering panoramic views over Trabzon along with exquisite cuisine'),
-  place('trabzon-fine_dining-2', 'trabzon', 'fine_dining', 'Bordo Mavi Balık', 4.4, 'Ortahisar, Trabzon', '흑해 제철 생선과 메제로 유명한 트라브존의 해산물 레스토랑.', 'Trabzon seafood restaurant known for seasonal Black Sea fish and meze.'),
+  place('trabzon-fine_dining-2', 'trabzon', 'fine_dining', 'Bordo Mavi Balık', 4.4, 'Boztepe Mahallesi, İpekyolu Caddesi No:91/A, 61030 Ortahisar/Trabzon, Türkiye', '흑해 제철 생선과 메제로 유명한 트라브존의 해산물 레스토랑.', 'Trabzon seafood restaurant known for seasonal Black Sea fish and meze.'),
   place('trabzon-fine_dining-3', 'trabzon', 'fine_dining', 'Cemilusta', 4.3, 'Trabzon Meydan Parkı 6, 61050 Trabzon, Turkey', '아크차아바트 쾨프테(미트볼)로 유명한 트라브존의 인기 식당.', 'Popular Trabzon restaurant famous for Akçaabat köfte.', { reviewCount: 1400 }),
   place('trabzon-bakery-1', 'trabzon', 'bakery', 'Zemu Swiss Bakery', 4.5, '3 Nolu Erdoğdu, Manolya Cd. No:47, 61040 Trabzon Merkez/Trabzon, Turkey', '신선한 로컬·인터내셔널 베이커리 제품을 세련되게 선보이는 트라브존의 베이커리', 'Trabzon bakery offering a range of fresh local and international baked goods in a modern setting'),
-  place('trabzon-bakery-2', 'trabzon', 'bakery', 'Huna Bakery', 4.5, 'Ortahisar, Trabzon', '디저트와 커피로 사랑받는 트라브존 중심가의 베이커리 카페.', "City-centre bakery-café loved for its desserts and coffee."),
+  place('trabzon-bakery-2', 'trabzon', 'bakery', 'Huna Bakery', 4.5, 'Kemerkaya Mahallesi, Ziyad Nemli Sanat Sokak No:2, Kasımoğlu İş Merkezi Kat:7, Ortahisar/Trabzon, Türkiye', '디저트와 커피로 사랑받는 트라브존 중심가의 베이커리 카페.', "City-centre bakery-café loved for its desserts and coffee."),
   place('trabzon-cafe-1', 'trabzon', 'cafe', 'Coffee Shop Company Trabzon', 4.5, 'İskenderpaşa Merkez, Uzun Sk., 61100 Ortahisar/Trabzon, Turkey', '구시장과 신시장을 잇는 중심가에 위치한 트라브존의 인기 커피숍', 'Popular Trabzon coffee shop connecting the old and new markets in the city center'),
 
   // —— pamukkale ——

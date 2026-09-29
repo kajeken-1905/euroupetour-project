@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesDEExtra: Place[] = [
   // —— berlin ——
   place('berlin-fine_dining-1', 'berlin', 'fine_dining', 'Restaurant Tim Raue', 4.7, 'Rudi-Dutschke-Straße 26, 10969 Berlin, Germany', '아시안 인플루언스 파인.', 'Asian-influenced fine dining.', { reviewCount: 2400 }),
-  place('berlin-fine_dining-2', 'berlin', 'fine_dining', 'Cordo', 4.6, 'Berlin', '모던 저먼 코스.', 'Modern German tasting.', { reviewCount: 1100 }),
+  place('berlin-fine_dining-2', 'berlin', 'fine_dining', 'Cordo', 4.6, 'Große Hamburger Straße 32, 10115 Berlin, Germany', '모던 저먼 코스.', 'Modern German tasting.', { reviewCount: 1100 }),
   place('berlin-fine_dining-3', 'berlin', 'fine_dining', 'Nobelhart & Schmutzig', 4.6, 'Friedrichstrasse 218, 10969 Berlin, Germany', '로컬 재료 코스.', 'Local-ingredient tasting.', { reviewCount: 1600 }),
   place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 4.3, 'Waisenstraße 14-16, 10179 Berlin, Germany', '역사적 독일 식당.', 'Historic German restaurant.', { reviewCount: 4800 }),
   place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 4.4, 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { reviewCount: 12000 }),
@@ -14,7 +14,6 @@ export const placesDEExtra: Place[] = [
   place('berlin-bakery-4', 'berlin', 'bakery', "Brammibal's Donuts (Maybachufer)", 4.5, 'Maybachufer 8, Berlin', '비건 도넛 전문점.', 'Vegan donut specialist.', { reviewCount: 3266 }),
   place('berlin-cafe-1', 'berlin', 'cafe', 'The Barn', 4.6, 'Alte Potsdamer Straße 5, 10785 Berlin, Germany', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 3200 }),
   place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Jägerstraße 58, 10117 Berlin, Germany', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800 }),
-  place('berlin-cafe-3', 'berlin', 'cafe', 'Café Einstein Stammhaus', 4.4, 'Berlin', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 5400 }),
   place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Kollwitzstraße 98, 10435 Berlin, Germany', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600 }),
   place('berlin-korean-1', 'berlin', 'korean', 'Feel Seoul Good', 4.5, 'Husemannstraße 2, 10405 Berlin', '프렌츠라우어베르크의 한식 맛집.', 'Korean favourite in Prenzlauer Berg.'),
 
@@ -180,5 +179,5 @@ export const placesDEExtra: Place[] = [
   place('fussen-fine_dining-2', 'fussen', 'fine_dining', 'Beim Olivenbauer', 4.4, 'Uferstraße 30, 87629 Füssen, Germany', '구시가 가장자리의 바이에른·지중해 요리 식당.', 'Bavarian and Mediterranean dishes at the old town\'s edge.'),
   place('fussen-cafe-1', 'fussen', 'cafe', 'Caffè Lucca', 4.5, 'Ritterstraße 9, 87629 Füssen, Germany', '호에스 슐로스 아래, 아침 식사와 이탈리아 커피가 좋은 카페.', 'Café below the Hohes Schloss for breakfast and Italian coffee.'),
   place('fussen-cafe-2', 'fussen', 'cafe', 'Cafe Baumgarten', 4.4, 'Rittergasse 1, 87629 Füssen', '페이스트리와 진한 커피로 유명한 아늑한 카페.', 'Cozy café known for pastries and strong coffee.'),
-  place('fussen-bakery-1', 'fussen', 'bakery', 'Bäckerei Brunners', 4.4, 'Füssen, Germany', '지역 전통 빵을 파는 퓌센의 빵집.', 'Füssen bakery selling regional specialties.'),
+  place('fussen-bakery-1', 'fussen', 'bakery', 'Bäckerei Brunners', 4.4, 'Reichenstraße 25, 87629 Füssen, Germany', '지역 전통 빵을 파는 퓌센의 빵집.', 'Füssen bakery selling regional specialties.'),
 ]

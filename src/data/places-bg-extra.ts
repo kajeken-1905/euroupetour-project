@@ -43,7 +43,7 @@ export const placesBGExtra: Place[] = [
   place('veliko-tarnovo-fine_dining-1', 'veliko-tarnovo', 'fine_dining', 'Kolyo Ficheto Complex', 4.5, 'Georgi S. Rakovski 19, Veliko Tarnovo 5000', '19세기 건물의 역사적인 레스토랑.', 'Historic restaurant in a 19th-century inn.'),
   place('veliko-tarnovo-fine_dining-2', 'veliko-tarnovo', 'fine_dining', 'Shtastliveca', 4.6, 'ul. "Stefan Stambolov" 79, Veliko Tarnovo 5000', '벨리코 터르노보의 인기 레스토랑.', 'Popular restaurant in Veliko Tarnovo.', { reviewCount: 14052 }),
   place('veliko-tarnovo-fine_dining-3', 'veliko-tarnovo', 'fine_dining', 'Restaurant Asenevtsi', 4.7, 'ul. "Alexander Stamboliyski" 7, Veliko Tarnovo 5000', '벨리코 터르노보의 레스토랑.', 'Restaurant in Veliko Tarnovo.', { reviewCount: 2260 }),
-  place('veliko-tarnovo-bakery-1', 'veliko-tarnovo', 'bakery', 'Kozunacheni Komincheta', 4.4, 'Veliko Tarnovo, Bulgaria', '달콤한 코주낙 빵으로 유명한 벨리코 터르노보의 인기 베이커리', 'Popular Veliko Tarnovo bakery known for its sweet kozunak bread'),
+  place('veliko-tarnovo-bakery-1', 'veliko-tarnovo', 'bakery', 'Kozunacheni Komincheta', 4.4, 'Vastanicheska 46, 5000 Veliko Tarnovo, Bulgaria', '달콤한 코주낙 빵으로 유명한 벨리코 터르노보의 인기 베이커리', 'Popular Veliko Tarnovo bakery known for its sweet kozunak bread'),
   place('veliko-tarnovo-bakery-2', 'veliko-tarnovo', 'bakery', 'Пекарна & Сладкарница Асеневци', 4.7, 'ul. "Narodni buditeli" 21, Veliko Tarnovo 5000', '벨리코 터르노보의 제과점.', 'Bakery in Veliko Tarnovo.', { reviewCount: 656 }),
   place('veliko-tarnovo-cafe-1', 'veliko-tarnovo', 'cafe', 'Amaretto', 4.4, 'bul. Nezavisimost 39, 5000 Veliko Tarnovo, Bulgaria', '셀프 서비스 방식의 인기 커피숍, 페이스트리로 유명', 'Popular self-service coffee shop known for its pastries'),
   place('veliko-tarnovo-cafe-2', 'veliko-tarnovo', 'cafe', 'Samurai Coffee Shop', 4.9, 'ul. "Stefan Stambolov" 38, Veliko Tarnovo 5000', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 1388 }),
@@ -57,7 +57,7 @@ export const placesBGExtra: Place[] = [
   place('nessebar-bakery-1', 'nessebar', 'bakery', 'Foyer Café & Bakery', 4.6, 'str. Perla 55, Nessebar, Bulgaria', '네세바르 신시가지에서 연중 운영되는 인기 베이커리 카페', 'Popular year-round bakery café in Nessebar\'s New Town'),
   place('nessebar-bakery-2', 'nessebar', 'bakery', 'Кафе сладкарница Захаро - Несебър', 4.6, 'ul. "Struma" 23, Nessebar 8230', '네세바르 신시가지의 제과점.', 'Bakery-café in Nessebar\'s New Town.', { reviewCount: 698 }),
   place('nessebar-bakery-3', 'nessebar', 'bakery', 'Dumi68', 4.7, 'ul. "Mladost" 85, Nessebar 8230', '네세바르 신시가지의 제과점.', 'Bakery in Nessebar\'s New Town.', { reviewCount: 204 }),
-  place('nessebar-cafe-1', 'nessebar', 'cafe', '221B Baker Street', 4.6, 'Nessebar, Bulgaria', '네세바르에서 최고의 페이스트리와 홈메이드 케이크로 알려진 카페', 'Café known for the best pastry and homemade cakes in Nessebar'),
+  place('nessebar-cafe-1', 'nessebar', 'cafe', '221B Baker Street', 4.6, 'Han Krum 16, 8231 Nessebar, Bulgaria', '네세바르에서 최고의 페이스트리와 홈메이드 케이크로 알려진 카페', 'Café known for the best pastry and homemade cakes in Nessebar'),
   place('nessebar-cafe-2', 'nessebar', 'cafe', 'Retro Cafe', 4.9, 'ul. "Han Krum" 22, Nessebar 8230', '네세바르 신시가지의 스페셜티 커피.', 'Specialty coffee in Nessebar\'s New Town.', { reviewCount: 177 }),
   place('nessebar-cafe-3', 'nessebar', 'cafe', 'Кафе Арт Дворът', 4.8, 'ul. "Mesembrija" 24, Nessebar 8230', '네세바르 구시가의 카페.', 'Café in Nessebar\'s Old Town.', { reviewCount: 186 }),
 ]

@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesMKExtra: Place[] = [
   // —— skopje ——
   place('skopje-fine_dining-1', 'skopje', 'fine_dining', 'Destan', 4.2, 'Bulevar Partizanski odredi 35, Skopje', '1913년부터 이어온 구시장의 대표 케밥 레스토랑.', 'Old Bazaar institution serving traditional finger-kebab since 1913.', { reviewCount: 1100 }),
-  place('skopje-fine_dining-2', 'skopje', 'fine_dining', 'Pivnica An', 3.8, 'Old Bazaar, Skopje', '오스만 시대 여관 건물의 구시장 레스토랑, 무츠칼리차·굴라시가 유명.', 'Restaurant in a former Ottoman-era inn in the Old Bazaar, known for mućkalica stew and goulash.'),
+  place('skopje-fine_dining-2', 'skopje', 'fine_dining', 'Pivnica An', 3.8, 'Kapan An, Old Bazaar, 1000 Skopje, North Macedonia', '오스만 시대 여관 건물의 구시장 레스토랑, 무츠칼리차·굴라시가 유명.', 'Restaurant in a former Ottoman-era inn in the Old Bazaar, known for mućkalica stew and goulash.'),
   place('skopje-fine_dining-3', 'skopje', 'fine_dining', 'Soul Kitchen - Macedonian Wine & Cuisine', 4.3, 'Kej 13-ti Noemvri, Skopje', '바르다르 강변에서 전통 마케도니아 요리와 인터내셔널 퓨전을 선보이는 레스토랑.', 'Vardar riverside restaurant blending traditional Macedonian dishes with international fusion.', { reviewCount: 3684 }),
 
   place('skopje-bakery-1', 'skopje', 'bakery', 'Silbo Furna', 4.3, 'Majakovski 2, Skopje', '24시간 운영하는 스코페 최고 인기의 부렉 베이커리.', 'Skopje\'s most popular 24-hour bakery, known for its burek.'),
@@ -39,8 +39,8 @@ export const placesMKExtra: Place[] = [
   place('ohrid-cafe-5', 'ohrid', 'cafe', 'Cafe Galerija', 4.4, 'St Clement of Ohrid 118, Ohrid', '성 클레멘트 거리의 인기 커피숍.', 'Popular coffee shop on St. Clement of Ohrid street.', { reviewCount: 153 }),
 
   // —— bitola ——
-  place('bitola-fine_dining-1', 'bitola', 'fine_dining', 'Gradska Kefeana', 4.1, 'Shirok Sokak, Bitola', '비톨라 중심 보행자거리의 고급 레스토랑, 현지에서는 "호텔 에피날"로도 불림.', 'Upscale restaurant on Bitola\'s pedestrian main street, locally known as "Hotel Epinal".'),
-  place('bitola-fine_dining-2', 'bitola', 'fine_dining', 'Restoran Adriatik', 4.6, 'Ilco Stojanovski b.b, Bitola', '일코 스토야놉스키 거리의 인기 레스토랑.', 'Popular restaurant on Ilco Stojanovski street.', { reviewCount: 452 }),
+  place('bitola-fine_dining-1', 'bitola', 'fine_dining', 'Gradska Kefeana', 4.1, 'Marshal Tito 85, 7000 Bitola, North Macedonia', '비톨라 중심 보행자거리의 고급 레스토랑, 현지에서는 "호텔 에피날"로도 불림.', 'Upscale restaurant on Bitola\'s pedestrian main street, locally known as "Hotel Epinal".'),
+  place('bitola-fine_dining-2', 'bitola', 'fine_dining', 'Restoran Adriatik', 4.6, 'Kumrovec b.b., Bukovski Livadi, 7000 Bitola, North Macedonia', '일코 스토야놉스키 거리의 인기 레스토랑.', 'Popular restaurant on Ilco Stojanovski street.', { reviewCount: 452 }),
   place('bitola-fine_dining-3', 'bitola', 'fine_dining', 'Lounge Bar Manaki', 4.5, 'Roosevelt 17, Bitola', '루즈벨트 거리의 인기 라운지바 겸 레스토랑.', 'Popular lounge bar and restaurant on Roosevelt street.', { reviewCount: 715 }),
   place('bitola-fine_dining-4', 'bitola', 'fine_dining', 'Meze Bar Dionis', 4.8, 'Vlatko Milenkoski 7, Bitola', '블라트코 밀렌콥스키 거리의 평점 높은 발칸 메제(전채) 전문 레스토랑.', 'Highly rated restaurant on Vlatko Milenkoski street specializing in Balkan meze.', { reviewCount: 146 }),
   place('bitola-fine_dining-5', 'bitola', 'fine_dining', 'Gostilnica Sokak', 4.6, 'Kopanki 6, Bitola', '코판키 거리의 전통 가정식 레스토랑.', 'Traditional home-style restaurant on Kopanki street.', { reviewCount: 141 }),
@@ -58,7 +58,7 @@ export const placesMKExtra: Place[] = [
   place('bitola-cafe-5', 'bitola', 'cafe', 'GT Caffe', 4.5, 'Marsal Tito 55, Bitola', '마르샬 티토 거리의 인기 카페.', 'Popular café on Marshal Tito street.', { reviewCount: 815 }),
 
   // —— tetovo ——
-  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 4.7, 'Marshal Tito, Brvenica, Tetovo', '테토보 최고 평가의 파인 레스토랑, 인터내셔널·바비큐 요리와 버섯 요리로 유명.', 'Tetovo\'s top-rated fine restaurant, known for international/barbecue cuisine and mushroom dishes.'),
+  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 4.7, 'Marshal Tito, Brvenica 1216, North Macedonia', '테토보 최고 평가의 파인 레스토랑, 인터내셔널·바비큐 요리와 버섯 요리로 유명.', 'Tetovo\'s top-rated fine restaurant, known for international/barbecue cuisine and mushroom dishes.'),
   place('tetovo-fine_dining-2', 'tetovo', 'fine_dining', 'Restoran Belamia', 4.8, 'Goce Delchev 108, Tetovo', '고체 델체프 거리의 평점 높은 레스토랑.', 'Highly rated restaurant on Goce Delchev street.', { reviewCount: 559 }),
   place('tetovo-fine_dining-3', 'tetovo', 'fine_dining', 'Restaurant Dubrovnik', 4.7, 'Jane Sandanski 116, Tetovo', '야네 산단스키 거리의 평점 높은 레스토랑.', 'Highly rated restaurant on Jane Sandanski street.', { reviewCount: 250 }),
   place('tetovo-fine_dining-4', 'tetovo', 'fine_dining', 'Bocata', 4.6, 'Marshal Tito 46, Tetovo', '마르샬 티토 거리의 인기 레스토랑.', 'Popular restaurant on Marshal Tito street.', { reviewCount: 392 }),
