@@ -3,19 +3,19 @@ import type { Place } from '../types'
 
 export const placesCZExtra: Place[] = [
   // —— prague ——
-  place('prague-fine_dining-1', 'prague', 'fine_dining', 'La Degustation Bohême Bourgeoise', 4.7, 'Prague', '미슐랭 보헤미안 코스.', 'Michelin Bohemian tasting.', { reviewCount: 1400 }),
+  place('prague-fine_dining-1', 'prague', 'fine_dining', 'La Degustation Bohême Bourgeoise', 4.7, 'Haštalská 18, 110 00 Prague, Czechia', '미슐랭 보헤미안 코스.', 'Michelin Bohemian tasting.', { reviewCount: 1400 }),
   place('prague-fine_dining-2', 'prague', 'fine_dining', 'Field', 4.6, 'Prague', '시즌 체코 파인 다이닝.', 'Seasonal Czech fine dining.', { reviewCount: 1100 }),
-  place('prague-fine_dining-3', 'prague', 'fine_dining', 'Lokál', 4.4, 'Prague', '모던 체코 다이닝.', 'Modern Czech dining.', { reviewCount: 2800 }),
-  place('prague-fine_dining-4', 'prague', 'fine_dining', 'Kantýna', 4.5, 'Prague', '정육점 감성 다이닝.', 'Butchery-style dining.', { reviewCount: 3600 }),
-  place('prague-fine_dining-5', 'prague', 'fine_dining', 'U Modré Kachničky', 4.4, 'Prague', '클래식 체코 요리.', 'Classic Czech cuisine.', { reviewCount: 4200 }),
-  place('prague-bakery-1', 'prague', 'bakery', 'Antonínovo pekařství', 4.5, 'Prague', '사워도우 베이커리.', 'Sourdough bakery.', { reviewCount: 1800 }),
-  place('prague-bakery-2', 'prague', 'bakery', 'Pekařství Kabát', 4.4, 'Prague', '로컬 빵집.', 'Local bakery.', { reviewCount: 1200 }),
+  place('prague-fine_dining-3', 'prague', 'fine_dining', 'Lokál', 4.4, 'Míšeňská 12, 118 00 Prague, Czechia', '모던 체코 다이닝.', 'Modern Czech dining.', { reviewCount: 2800 }),
+  place('prague-fine_dining-4', 'prague', 'fine_dining', 'Kantýna', 4.5, 'Politických vězňů 1511/5, 116 47 Prague, Czechia', '정육점 감성 다이닝.', 'Butchery-style dining.', { reviewCount: 3600 }),
+  place('prague-fine_dining-5', 'prague', 'fine_dining', 'U Modré Kachničky', 4.4, 'Michalská, 116 65 Prague, Czechia', '클래식 체코 요리.', 'Classic Czech cuisine.', { reviewCount: 4200 }),
+  place('prague-bakery-1', 'prague', 'bakery', 'Antonínovo pekařství', 4.5, 'Francouzská 585/1, 120 00 Prague, Czechia', '사워도우 베이커리.', 'Sourdough bakery.', { reviewCount: 1800 }),
+  place('prague-bakery-2', 'prague', 'bakery', 'Pekařství Kabát', 4.4, 'Nové Butovice, 158 00 Prague, Czechia', '로컬 빵집.', 'Local bakery.', { reviewCount: 1200 }),
   place('prague-bakery-3', 'prague', 'bakery', 'Café Savoy bakery counter', 4.4, 'Prague', '페이스트리 카운터.', 'Pastry counter.', { reviewCount: 2100 }),
-  place('prague-bakery-4', 'prague', 'bakery', 'Good Food Coffee & Bakery', 4.3, 'Prague', '베이커리 카페.', 'Bakery café.', { reviewCount: 980 }),
-  place('prague-cafe-1', 'prague', 'cafe', 'Café Louvre', 4.5, 'Prague', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 8600 }),
+  place('prague-bakery-4', 'prague', 'bakery', 'Good Food Coffee & Bakery', 4.3, 'Karlova 3, 110 00 Prague, Czechia', '베이커리 카페.', 'Bakery café.', { reviewCount: 980 }),
+  place('prague-cafe-1', 'prague', 'cafe', 'Café Louvre', 4.5, 'Národní 22, 110 00 Prague, Czechia', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 8600 }),
   place('prague-cafe-2', 'prague', 'cafe', 'EMA espresso bar', 4.6, 'Na Florenci 1420/3, Prague', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 3813 }),
-  place('prague-cafe-3', 'prague', 'cafe', 'Café Savoy', 4.5, 'Prague', '그랜드 카페.', 'Grand café.', { reviewCount: 7200 }),
-  place('prague-cafe-4', 'prague', 'cafe', 'Můj šálek kávy', 4.5, 'Prague', '로스터리 카페.', 'Roastery café.', { reviewCount: 3100 }),
+  place('prague-cafe-3', 'prague', 'cafe', 'Café Savoy', 4.5, 'Vítězná 124/5, 150 00 Prague, Czechia', '그랜드 카페.', 'Grand café.', { reviewCount: 7200 }),
+  place('prague-cafe-4', 'prague', 'cafe', 'Můj šálek kávy', 4.5, 'Křižíkova 386/105, 186 00 Prague, Czechia', '로스터리 카페.', 'Roastery café.', { reviewCount: 3100 }),
   place('prague-korean-1', 'prague', 'korean', 'Matzip', 4.5, 'Dušní 1082/6, 110 00 Praha 1', '구시가의 한식 비스트로.', 'Korean bistro in the Old Town.'),
 
   // —— brno ——
@@ -41,7 +41,7 @@ export const placesCZExtra: Place[] = [
   place('cesky-krumlov-cafe-3', 'cesky-krumlov', 'cafe', 'Cafein', 4.8, 'Latrán 106, 381 01 Český Krumlov', '체스키크룸로프의 스페셜티 커피.', 'Specialty coffee in Český Krumlov.', { reviewCount: 283 }),
 
   // —— karlovy-vary ——
-  place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Promenáda', 4.5, 'Karlovy Vary', '카를로비바리 최고 평가 레스토랑.', 'Top-rated restaurant in Karlovy Vary.'),
+  place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Promenáda', 4.5, 'Tržiště 31, 360 01 Karlovy Vary, Czechia', '카를로비바리 최고 평가 레스토랑.', 'Top-rated restaurant in Karlovy Vary.'),
   place('karlovy-vary-fine_dining-2', 'karlovy-vary', 'fine_dining', 'Staroslovanská kuchyně Karlovy Vary', 4.7, 'Moskevská 1010/18, 360 01 Karlovy Vary', '카를로비바리의 인기 레스토랑.', 'Popular restaurant in Karlovy Vary.', { reviewCount: 4358 }),
   place('karlovy-vary-fine_dining-3', 'karlovy-vary', 'fine_dining', 'Restaurace La Hospoda Karlovy Vary', 4.7, 'nábř. J. Palacha 1024/26, 360 01 Karlovy Vary', '카를로비바리의 레스토랑.', 'Restaurant in Karlovy Vary.', { reviewCount: 2146 }),
   place('karlovy-vary-bakery-1', 'karlovy-vary', 'bakery', 'Just Cake', 4.6, 'T. G. Masaryka 894, 360 01 Karlovy Vary, Czech Republic', '자매가 운영하는 카를로비바리의 인기 케이크 전문점', 'Popular Karlovy Vary bakery run by two sisters, known for beautiful cakes'),

@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesMTExtra: Place[] = [
   // —— valletta ——
   place('valletta-fine_dining-1', 'valletta', 'fine_dining', 'Under Grain', 4.6, '167 Merchants Street, Valletta VLT 1174', '로셀리 호텔에 위치한 미쉐린 1스타 레스토랑, 몬타 계절 요리 전문.', 'One-Michelin-star restaurant inside the Rosselli Hotel, specializing in seasonal Maltese cuisine.', { reviewCount: 249 }),
-  place('valletta-fine_dining-2', 'valletta', 'fine_dining', 'ION Harbour by Simon Rogan', 4.6, 'Iniala Harbour House, St Barbara Bastion, Valletta', '이니알라 하버 하우스 4층의 미슐랭 2스타 레스토랑, 사이먼 로건이 이끄는 제철 몰타 식재료 요리, 그랜드 하버 전망.', 'Two-Michelin-star restaurant on the 4th floor of Iniala Harbour House, seasonal Maltese produce under Simon Rogan, overlooking the Grand Harbour.', { reviewCount: 470 }),
+  place('valletta-fine_dining-2', 'valletta', 'fine_dining', 'ION Harbour by Simon Rogan', 4.6, '11 Saint Barbara Bastion, VLT 1232 Valletta, Malta', '이니알라 하버 하우스 4층의 미슐랭 2스타 레스토랑, 사이먼 로건이 이끄는 제철 몰타 식재료 요리, 그랜드 하버 전망.', 'Two-Michelin-star restaurant on the 4th floor of Iniala Harbour House, seasonal Maltese produce under Simon Rogan, overlooking the Grand Harbour.', { reviewCount: 470 }),
   place('valletta-fine_dining-3', 'valletta', 'fine_dining', 'Noni', 4.6, '211 Republic Street, Valletta VLT 1116', '발레타 태생 셰프 조너선 브린캇이 이끄는 미슐랭 1스타 레스토랑, 리퍼블릭 스트리트의 타운하우스에 위치.', 'One-Michelin-star restaurant by Valletta-born chef Jonathan Brincat, in a Republic Street townhouse.', { reviewCount: 700 }),
   place('valletta-fine_dining-4', 'valletta', 'fine_dining', 'Rubino', 4.5, '53 Old Bakery Street, Valletta VLT 1454', '1906년 제과점이던 공간에 자리한, 매일 바뀌는 흑판 메뉴의 전통 몰타 요리 레스토랑.', 'Traditional Maltese restaurant in a former 1906 confectionery, with a daily blackboard menu.', { reviewCount: 900 }),
 
@@ -12,14 +12,14 @@ export const placesMTExtra: Place[] = [
   place('valletta-bakery-2', 'valletta', 'bakery', 'Grano', 4.4, '26 Triq Santa Lucia, Valletta VLT 1183', '몰타 최고의 프티라로 꼽히는 발레타의 작은 샌드위치 가게.', 'Small Valletta sandwich shop said to serve the best ftira in Malta.'),
 
   place('valletta-cafe-1', 'valletta', 'cafe', 'Lot Sixty One Coffee Roasters', 4.7, '30 Triq it-Teatru l-Antik, Valletta', '유럽 50대 커피숍에 선정된 발레타의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in Valletta, named one of Europe\'s 50 best coffee shops.'),
-  place('valletta-cafe-2', 'valletta', 'cafe', 'Caffe Cordina', 4.0, 'Republic Street, Valletta', '1837년 개업한 발레타의 상징적인 카페, 리퍼블릭 광장에 위치.', 'Iconic Valletta café on Republic Square, open since 1837.'),
+  place('valletta-cafe-2', 'valletta', 'cafe', 'Caffe Cordina', 4.0, '244/245 Republic Street, VLT 0004 Valletta, Malta', '1837년 개업한 발레타의 상징적인 카페, 리퍼블릭 광장에 위치.', 'Iconic Valletta café on Republic Square, open since 1837.'),
 
   place('valletta-korean-1', 'valletta', 'korean', 'S:UN Fusion Dining', 4.7, '95-96 Strait Street, Valletta VLT 1436', '한국식 프라이드치킨·라멘·스시를 선보이는 발레타의 아시안 퓨전 레스토랑.', 'Asian fusion restaurant in Valletta serving Korean fried chicken, ramen, and sushi.'),
   place('valletta-korean-2', 'valletta', 'korean', 'Seoul Food', 4.0, 'Is-Suq tal-Belt, Triq il-Merkanti, Valletta', '이스숙 탈벨트 푸드마켓에 위치한 정통 한식당, 비빔밥·불고기 전문.', 'Authentic Korean restaurant in the Is-Suq tal-Belt food market, specializing in bibimbap and bulgogi.'),
 
   // —— mdina ——
   place('mdina-fine_dining-1', 'mdina', 'fine_dining', 'Medina Restaurant', 4.5, '7 Holy Cross Street, Mdina MDN 1231', '구시가 성벽 안의 미식 레스토랑.', 'Fine dining within Mdina\'s historic walls.'),
-  place('mdina-fine_dining-2', 'mdina', 'fine_dining', 'The Knights Kitchen', 4.8, 'Triq L-Imhazen, Mdina', '음디나 구시가 성벽 안의 평점 높은 레스토랑.', 'Highly rated restaurant within Mdina\'s historic walls.', { reviewCount: 2936 }),
+  place('mdina-fine_dining-2', 'mdina', 'fine_dining', 'The Knights Kitchen', 4.8, 'Triq l-Imħażen, MDN 1201 Mdina, Malta', '음디나 구시가 성벽 안의 평점 높은 레스토랑.', 'Highly rated restaurant within Mdina\'s historic walls.', { reviewCount: 2936 }),
   place('mdina-fine_dining-3', 'mdina', 'fine_dining', "Coogi's Restaurant & Tea Garden", 4.6, "5 St Agatha's Esplanade, Mdina", '성 아가타 에스플러네이드의 이탈리안 레스토랑 겸 티가든.', 'Italian restaurant and tea garden on St. Agatha\'s Esplanade.', { reviewCount: 9572 }),
   place('mdina-fine_dining-4', 'mdina', 'fine_dining', 'The de Mondion Restaurant', 4.8, 'Misraħ il-Kunsill, Mdina', '자라 팰리스 호텔 옥상에 위치한 파인 다이닝 레스토랑.', 'Rooftop fine-dining restaurant atop the Xara Palace hotel.', { reviewCount: 341 }),
   place('mdina-fine_dining-5', 'mdina', 'fine_dining', 'SCALA', 4.8, '26 Saqqajja Hill, Mdina', '사카야 힐의 평점 높은 파인 다이닝 레스토랑.', 'Highly rated fine-dining restaurant on Saqqajja Hill.', { reviewCount: 437 }),
@@ -34,7 +34,7 @@ export const placesMTExtra: Place[] = [
   place('mdina-cafe-2', 'mdina', 'cafe', 'Gustav Café', 4.6, 'Triq Il-Villegaignon, Mdina', '빌레가뇽 거리의 평점 높은 카페.', 'Highly rated café on Triq Il-Villegaignon.', { reviewCount: 279 }),
   place('mdina-cafe-3', 'mdina', 'cafe', "Bar One Café", 4.5, '7 Villegaignon Street, Mdina', '빌레가뇽 거리의 인기 카페.', 'Popular café on Villegaignon Street.', { reviewCount: 264 }),
   place('mdina-cafe-4', 'mdina', 'cafe', 'CHALK cafe eatery wine', 4.6, '36 Triq San Pawl, Mdina', '성 바오로 거리의 평점 높은 카페 겸 와인바.', 'Highly rated café and wine bar on Triq San Pawl.', { reviewCount: 1179 }),
-  place('mdina-cafe-5', 'mdina', 'cafe', 'Courtyard Lounge Cafe', 4.4, 'Aragon Alley, Palazzo Bifora, Mdina', '팔라조 비포라 안뜰의 라운지 카페.', 'Courtyard lounge café inside Palazzo Bifora.', { reviewCount: 48 }),
+  place('mdina-cafe-5', 'mdina', 'cafe', 'Courtyard Lounge Cafe', 4.4, 'Sqaq Aragona, MDN 1260 Mdina, Malta', '팔라조 비포라 안뜰의 라운지 카페.', 'Courtyard lounge café inside Palazzo Bifora.', { reviewCount: 48 }),
 
   // —— gozo ——
   place('gozo-fine_dining-1', 'gozo', 'fine_dining', 'Tmun', 4.6, 'Triq Martino Garces, Mġarr Harbour, Għajnsielem', '30년 넘게 이어온 가족 운영 레스토랑, 당일 잡은 신선한 생선 요리로 유명한 미쉐린 가이드 등재 시푸드 레스토랑.', 'Family-run for over 30 years, this Michelin Guide-listed restaurant is known for dishes built around the day\'s fresh catch.'),
@@ -46,11 +46,11 @@ export const placesMTExtra: Place[] = [
   place('gozo-bakery-1', 'gozo', 'bakery', 'Ta\' Saminu Bakery', 4.9, 'Triq Tal-Ħamrija, Ix-Xewkija, Gozo, Malta', '장작 오븐으로 고조 전통 프티라를 굽는 가족 운영 베이커리', 'Family-run Gozo bakery baking traditional ftira in a wood-burning oven'),
   place('gozo-bakery-2', 'gozo', 'bakery', "Mekren's Bakery", 4.6, 'Triq Hanaq, Gozo', '하나크 거리의 평점 높은 인기 베이커리.', 'Highly rated, popular bakery on Triq Hanaq.', { reviewCount: 1391 }),
   place('gozo-bakery-3', 'gozo', 'bakery', "David's Bakery", 4.7, 'Triq il-Madonna tas-Sokkors, Gozo', '평점 높은 고조 베이커리, 배달 서비스도 운영.', 'Highly rated Gozo bakery that also offers delivery.', { reviewCount: 293 }),
-  place('gozo-bakery-4', 'gozo', 'bakery', 'Manouche Craft Bakery & Bistro Gozo', 4.5, 'Triq San Ġorġ, Gozo', '성 조지 거리의 베이커리 겸 비스트로.', 'Bakery and bistro on Triq San Ġorġ.', { reviewCount: 524 }),
+  place('gozo-bakery-4', 'gozo', 'bakery', 'Manouche Craft Bakery & Bistro Gozo', 4.5, 'Triq San Ġorġ, VCT 1103 Victoria, Malta', '성 조지 거리의 베이커리 겸 비스트로.', 'Bakery and bistro on Triq San Ġorġ.', { reviewCount: 524 }),
 
-  place('gozo-cafe-1', 'gozo', 'cafe', 'Cafe Jubilee', 4.3, 'Pjazza l-Indipendenza, Ir-Rabat, Gozo, Malta', '1998년부터 이어온 라바트 중심 광장의 인기 카페 겸 비스트로.', 'Popular café-bistro on Rabat\'s central square, open since 1998.', { reviewCount: 751 }),
+  place('gozo-cafe-1', 'gozo', 'cafe', 'Cafe Jubilee', 4.3, 'Republic Street, VCT 1103 Victoria, Malta', '1998년부터 이어온 라바트 중심 광장의 인기 카페 겸 비스트로.', 'Popular café-bistro on Rabat\'s central square, open since 1998.', { reviewCount: 751 }),
   place('gozo-cafe-2', 'gozo', 'cafe', 'Karamelli Brunch Cafe', 4.8, '32 Triq ir-Repubblika, Gozo', '리퍼블릭 거리의 평점 높은 브런치 카페.', 'Highly rated brunch café on Triq ir-Repubblika.', { reviewCount: 1457 }),
-  place('gozo-cafe-3', 'gozo', 'cafe', 'Coffee Break Café & Bistro', 4.5, 'Triq Taħt Putirjal, Gozo', '인기 카페 겸 비스트로, 배달도 가능.', 'Popular café and bistro, also offering delivery.', { reviewCount: 2156 }),
-  place('gozo-cafe-4', 'gozo', 'cafe', 'Noble Cafe Bistro', 4.7, 'Fortunato Mizzi Street, Gozo', '24시간 운영하는 평점 높은 카페 겸 비스트로.', '24-hour café and bistro, highly rated.', { reviewCount: 625 }),
+  place('gozo-cafe-3', 'gozo', 'cafe', 'Coffee Break Café & Bistro', 4.5, 'Main Gate Street, VCT 1012 Victoria, Malta', '인기 카페 겸 비스트로, 배달도 가능.', 'Popular café and bistro, also offering delivery.', { reviewCount: 2156 }),
+  place('gozo-cafe-4', 'gozo', 'cafe', 'Noble Cafe Bistro', 4.7, 'Triq Fortunato Mizzi, VCT 2591 Victoria, Malta', '24시간 운영하는 평점 높은 카페 겸 비스트로.', '24-hour café and bistro, highly rated.', { reviewCount: 625 }),
   place('gozo-cafe-5', 'gozo', 'cafe', 'Black Cat Café', 4.7, '19 Triq Vajrinġa, Gozo', '평점 높은 아늑한 카페.', 'Highly rated, cozy café.', { reviewCount: 573 }),
 ]

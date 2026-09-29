@@ -28,7 +28,7 @@ export const placesMKExtra: Place[] = [
 
   place('ohrid-bakery-1', 'ohrid', 'bakery', 'Ohrid City Bakery', 4.1, 'Bulevar Turistichka 47, Ohrid, North Macedonia', '오흐리드에서 가장 오래된 제과점, 부렉으로 유명', 'Ohrid\'s oldest bakery institution, famous for burek'),
   place('ohrid-bakery-2', 'ohrid', 'bakery', 'Wake & Bake', 4.8, 'Lazo Trposki 5, Ohrid', '라조 트르포스키 거리의 평점 높은 베이커리.', 'Highly rated bakery on Lazo Trposki street.', { reviewCount: 326 }),
-  place('ohrid-bakery-3', 'ohrid', 'bakery', 'Bakery Lihnida', 4.3, 'Bulevar Makedonski Prosvetiteli, Ohrid', '마케돈스키 프로스비텔리 대로의 24시간 베이커리.', '24-hour bakery on Bulevar Makedonski Prosvetiteli.', { reviewCount: 753 }),
+  place('ohrid-bakery-3', 'ohrid', 'bakery', 'Bakery Lihnida', 4.3, 'Makedonski Prosvetiteli, 6000 Ohrid, North Macedonia', '마케돈스키 프로스비텔리 대로의 24시간 베이커리.', '24-hour bakery on Bulevar Makedonski Prosvetiteli.', { reviewCount: 753 }),
   place('ohrid-bakery-4', 'ohrid', 'bakery', 'Feniks Bakery', 4.5, '7-mi Noemvri 106, Ohrid', '7미 노엠브리 거리의 인기 베이커리.', 'Popular bakery on 7-mi Noemvri street.', { reviewCount: 209 }),
   place('ohrid-bakery-5', 'ohrid', 'bakery', 'Bakery Sofra', 4.7, 'Goce Delchev 258, Ohrid', '고체 델체프 거리의 평점 높은 베이커리.', 'Highly rated bakery on Goce Delchev street.', { reviewCount: 67 }),
 

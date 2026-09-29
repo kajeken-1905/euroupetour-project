@@ -19,7 +19,7 @@ export const placesCYExtra: Place[] = [
   // —— limassol ——
   place('limassol-fine_dining-1', 'limassol', 'fine_dining', 'Ousia Soulful Kitchen', 4.5, '24 Irenes Street, Medieval Castle Square, Limassol 3042', '구시가 캐슬 광장의 레스토랑.', 'Restaurant by the Old Town\'s Castle Square.'),
   place('limassol-fine_dining-2', 'limassol', 'fine_dining', 'MEZE Taverna Restaurant', 4.9, 'Agiou Andreou 209, Limassol', '그리스 요리 타베르나.', 'Greek cuisine taverna.', { reviewCount: 5824 }),
-  place('limassol-fine_dining-3', 'limassol', 'fine_dining', "Terry's place", 4.8, 'Panayioti Simeou, Limassol', '리마솔의 인기 레스토랑.', 'Popular restaurant in Limassol.', { reviewCount: 1253 }),
+  place('limassol-fine_dining-3', 'limassol', 'fine_dining', "Terry's place", 4.8, 'Παναγιώτη Συμεού 2, 3105 Limassol, Cyprus', '리마솔의 인기 레스토랑.', 'Popular restaurant in Limassol.', { reviewCount: 1253 }),
   place('limassol-bakery-1', 'limassol', 'bakery', 'Bakery Kafeneio Healthy Foodbar', 4.5, 'Archiepiskopou Makariou III 241A, Limassol, Cyprus', '글루텐프리·비건 옵션을 갖춘 리마솔의 건강식 베이커리', 'Health-focused Limassol bakery with gluten-free and vegan options'),
   place('limassol-bakery-2', 'limassol', 'bakery', 'Nomad Bread & Coffee', 4.5, 'Gladstonos 120, Limassol', '리마솔의 베이커리.', 'Bakery in Limassol.', { reviewCount: 561 }),
   place('limassol-bakery-3', 'limassol', 'bakery', 'Marios Snacks Bakery', 4.7, 'Agias Zonis 10, Limassol', '리마솔의 제과점.', 'Bakery in Limassol.', { reviewCount: 459 }),
@@ -36,7 +36,7 @@ export const placesCYExtra: Place[] = [
   place('paphos-bakery-3', 'paphos', 'bakery', 'Georges Alain Pâtisserie', 4.7, 'Constantinou Kanari 40, Paphos', '프랑스식 제과점.', 'French-style patisserie.', { reviewCount: 283 }),
   place('paphos-cafe-1', 'paphos', 'cafe', 'Nest Cafe Snack Bar', 4.6, 'Paphos, Cyprus', '파포스 최고의 라떼로 알려진 아늑한 숨은 카페', 'Cozy hidden-gem café known for the best latte in Paphos'),
   place('paphos-cafe-2', 'paphos', 'cafe', "Campo de'Fiori", 4.8, 'Petraki Miltriadou 12-Shop 8, Paphos', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 939 }),
-  place('paphos-cafe-3', 'paphos', 'cafe', 'Grafico Cafe', 4.8, 'Paphos, Cyprus', '파포스의 카페.', 'Café in Paphos.', { reviewCount: 246 }),
+  place('paphos-cafe-3', 'paphos', 'cafe', 'Grafico Cafe', 4.8, 'Agoras, 8010 Paphos Municipality, Cyprus', '파포스의 카페.', 'Café in Paphos.', { reviewCount: 246 }),
 
   // —— ayia-napa ——
   place('ayia-napa-fine_dining-1', 'ayia-napa', 'fine_dining', 'Old Village Tavern', 4.5, '48 Nissi Avenue, Ayia Napa 5330', '전통 키프로스 타베르나.', 'Traditional Cypriot taverna.'),

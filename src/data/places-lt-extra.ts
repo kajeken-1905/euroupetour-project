@@ -11,12 +11,12 @@ export const placesLTExtra: Place[] = [
   place('vilnius-bakery-4', 'vilnius', 'bakery', 'Pinavija Café & Bakery', 4.5, 'Vilniaus g. 21, Vilnius', '프랑스식 페이스트리를 선보이는 인기 베이커리 카페.', 'Popular bakery café serving French-style pastries.', { reviewCount: 1763 }),
   place('vilnius-bakery-5', 'vilnius', 'bakery', 'La Madeleine Bakery', 4.7, 'Užupio g. 13, Vilnius', '우주피스 지구의 프랑스식 제과점.', 'French bakery in the Užupis district.', { reviewCount: 264 }),
   place('vilnius-cafe-1', 'vilnius', 'cafe', 'BREW Specialty Coffee', 4.6, 'Algirdo g. 38, 03218 Vilnius', 'MO 뮤지엄 인근의 자가 로스팅 스페셜티 커피숍.', 'Specialty coffee shop near the MO Museum, roasting its own beans.', { reviewCount: 283 }),
-  place('vilnius-cafe-2', 'vilnius', 'cafe', 'Backstage Café', 4.3, 'Vokiečių g., Vilnius', '2017년부터 이어온 스페셜티 커피 로스터리, 시나몬 페이스트리로 유명.', 'Specialty coffee roastery since 2017, known for its cinnamon pastries.'),
+  place('vilnius-cafe-2', 'vilnius', 'cafe', 'Backstage Café', 4.3, 'Vokiečių g. 6, 01130 Vilnius, Lithuania', '2017년부터 이어온 스페셜티 커피 로스터리, 시나몬 페이스트리로 유명.', 'Specialty coffee roastery since 2017, known for its cinnamon pastries.'),
   place('vilnius-korean-1', 'vilnius', 'korean', 'Restoranas KOREAN TASTE', 4.2, 'Vokiečių g. 2, 01130 Vilnius', '직접 구워 먹는 한국식 바비큐 레스토랑.', 'Korean BBQ restaurant where guests grill their own meat.'),
 
   // —— kaunas ——
   place('kaunas-fine_dining-1', 'kaunas', 'fine_dining', 'Nüman', 4.6, 'Nemuno g. 43, 44288 Kaunas', '구시가의 미쉐린 어워드 레스토랑.', 'Michelin-recognized restaurant in the Old Town.'),
-  place('kaunas-fine_dining-2', 'kaunas', 'fine_dining', 'Bernelių Užeiga', 4.1, 'Kaunas Old Town, Lithuania', '전통 리투아니아 요리를 선보이는 카우나스의 대표 레스토랑, 민속 의상을 입은 직원들.', "Kaunas institution serving traditional Lithuanian cuisine, with staff in folk costumes.", { reviewCount: 793 }),
+  place('kaunas-fine_dining-2', 'kaunas', 'fine_dining', 'Bernelių Užeiga', 4.1, 'Baltų pr. 81, 48231 Kaunas, Lithuania', '전통 리투아니아 요리를 선보이는 카우나스의 대표 레스토랑, 민속 의상을 입은 직원들.', "Kaunas institution serving traditional Lithuanian cuisine, with staff in folk costumes.", { reviewCount: 793 }),
   place('kaunas-fine_dining-3', 'kaunas', 'fine_dining', 'Avilys', 4.5, 'Vilniaus gatvė 34, 44287 Kaunas', '구시가 지하 공간의 리투아니아·유럽 요리 레스토랑, 자가 양조 맥주로 유명.', "Lithuanian-European restaurant in a cellar-like Old Town space, known for its house-brewed beer.", { reviewCount: 1080 }),
   place('kaunas-bakery-1', 'kaunas', 'bakery', 'Motiejaus kepyklėlė', 4.7, 'Vilniaus gatvė 7, 44280 Kaunas, Lithuania', '리투아니아 최고의 베이커리로 꼽히는 카우나스 구시가지의 명소', 'Widely regarded as one of the best bakeries in Lithuania, in Kaunas\'s Old Town'),
   place('kaunas-bakery-2', 'kaunas', 'bakery', 'Kasdienybės Bakehouse', 4.8, 'E. Ožeškienės g. 3, Kaunas', '높은 평점의 카우나스 베이크하우스.', 'Highly rated bakehouse in Kaunas.', { reviewCount: 402 }),

@@ -113,7 +113,7 @@ export const placesPLExtra: Place[] = [
   place('zakopane-cafe-5', 'zakopane', 'cafe', 'Cafe Tygodnik Podhalański', 4.5, 'Tadeusza Kościuszki 3, 34-500 Zakopane', '평점 높은 카페.', 'Highly rated café.', { reviewCount: 2060 }),
 
   // —— torun ——
-  place('torun-fine_dining-1', 'torun', 'fine_dining', '4 Pory Roku', 4.6, 'Toruń', '토룬 최고 평가 레스토랑.', 'Widely regarded as the best restaurant in Toruń.'),
+  place('torun-fine_dining-1', 'torun', 'fine_dining', '4 Pory Roku', 4.6, 'Przedzamcze 4-6, 87-100 Toruń, Poland', '토룬 최고 평가 레스토랑.', 'Widely regarded as the best restaurant in Toruń.'),
   place('torun-fine_dining-2', 'torun', 'fine_dining', 'Restauracja Chleb i Wino Toruń', 4.7, 'Rynek Staromiejski 22, 87-100 Toruń', '중앙광장의 평점 높은 유러피언 요리 레스토랑.', 'Highly rated European cuisine restaurant on the Old Market Square.', { reviewCount: 13065 }),
   place('torun-fine_dining-3', 'torun', 'fine_dining', 'Pierogarnia Stary Toruń', 4.6, 'Most Pauliński 2/10, 87-100 Toruń', '만두(피에로기) 전문점, 평점 높은 인기 레스토랑.', 'Pierogi specialist, a highly rated and popular restaurant.', { reviewCount: 16127 }),
   place('torun-fine_dining-4', 'torun', 'fine_dining', 'Restauracja Piernicova', 4.8, 'Przedzamcze 6B, 87-100 Toruń', '토룬 명물 진저브레드(피에르니크)를 테마로 한 평점 높은 레스토랑.', 'Highly rated restaurant themed around Toruń\'s iconic gingerbread (piernik).', { reviewCount: 1623 }),

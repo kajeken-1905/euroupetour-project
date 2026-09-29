@@ -3,19 +3,19 @@ import type { Place } from '../types'
 
 export const placesDEExtra: Place[] = [
   // —— berlin ——
-  place('berlin-fine_dining-1', 'berlin', 'fine_dining', 'Restaurant Tim Raue', 4.7, 'Berlin', '아시안 인플루언스 파인.', 'Asian-influenced fine dining.', { reviewCount: 2400 }),
+  place('berlin-fine_dining-1', 'berlin', 'fine_dining', 'Restaurant Tim Raue', 4.7, 'Rudi-Dutschke-Straße 26, 10969 Berlin, Germany', '아시안 인플루언스 파인.', 'Asian-influenced fine dining.', { reviewCount: 2400 }),
   place('berlin-fine_dining-2', 'berlin', 'fine_dining', 'Cordo', 4.6, 'Berlin', '모던 저먼 코스.', 'Modern German tasting.', { reviewCount: 1100 }),
-  place('berlin-fine_dining-3', 'berlin', 'fine_dining', 'Nobelhart & Schmutzig', 4.6, 'Berlin', '로컬 재료 코스.', 'Local-ingredient tasting.', { reviewCount: 1600 }),
-  place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 4.3, 'Berlin', '역사적 독일 식당.', 'Historic German restaurant.', { reviewCount: 4800 }),
+  place('berlin-fine_dining-3', 'berlin', 'fine_dining', 'Nobelhart & Schmutzig', 4.6, 'Friedrichstrasse 218, 10969 Berlin, Germany', '로컬 재료 코스.', 'Local-ingredient tasting.', { reviewCount: 1600 }),
+  place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 4.3, 'Waisenstraße 14-16, 10179 Berlin, Germany', '역사적 독일 식당.', 'Historic German restaurant.', { reviewCount: 4800 }),
   place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 4.4, 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { reviewCount: 12000 }),
   place('berlin-bakery-1', 'berlin', 'bakery', 'Zeit für Brot', 4.5, 'Alte Schönhauser Str. 4, Berlin', '시나몬롤·빵.', 'Cinnamon rolls and bread.', { reviewCount: 5939 }),
   place('berlin-bakery-2', 'berlin', 'bakery', 'SoLuna Bäckerei', 4.5, 'Gneisenaustraße 58, Berlin', '사워도우.', 'Sourdough.', { reviewCount: 210 }),
   place('berlin-bakery-3', 'berlin', 'bakery', 'EINSTEIN Unter den Linden', 4.1, 'Unter den Linden 42, Berlin', '빈 스타일 카페·페이스트리.', 'Viennese-style café and pastries.', { reviewCount: 7108 }),
   place('berlin-bakery-4', 'berlin', 'bakery', "Brammibal's Donuts (Maybachufer)", 4.5, 'Maybachufer 8, Berlin', '비건 도넛 전문점.', 'Vegan donut specialist.', { reviewCount: 3266 }),
-  place('berlin-cafe-1', 'berlin', 'cafe', 'The Barn', 4.6, 'Berlin', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 3200 }),
-  place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Berlin', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800 }),
+  place('berlin-cafe-1', 'berlin', 'cafe', 'The Barn', 4.6, 'Alte Potsdamer Straße 5, 10785 Berlin, Germany', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 3200 }),
+  place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Jägerstraße 58, 10117 Berlin, Germany', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800 }),
   place('berlin-cafe-3', 'berlin', 'cafe', 'Café Einstein Stammhaus', 4.4, 'Berlin', '클래식 카페하우스.', 'Classic coffee house.', { reviewCount: 5400 }),
-  place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Berlin', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600 }),
+  place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Kollwitzstraße 98, 10435 Berlin, Germany', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600 }),
   place('berlin-korean-1', 'berlin', 'korean', 'Feel Seoul Good', 4.5, 'Husemannstraße 2, 10405 Berlin', '프렌츠라우어베르크의 한식 맛집.', 'Korean favourite in Prenzlauer Berg.'),
 
   // —— munich ——
@@ -46,7 +46,7 @@ export const placesDEExtra: Place[] = [
   place('hamburg-fine_dining-4', 'hamburg', 'fine_dining', "Erika's Eck", 4.6, 'Sternstraße 98, 20357 Hamburg', '슈니첼로 유명한 함부르크의 오랜 로컬 맛집.', 'Long-running local favorite known for schnitzel.', { reviewCount: 4162 }),
   place('hamburg-bakery-1', 'hamburg', 'bakery', 'Die Kleine Konditorei', 4.5, 'Bahrenfelder Str. 231, 22765 Hamburg, Germany', '오텐젠 지역의 사랑받는 함부르크 베이커리', 'Beloved Hamburg bakery in the Ottensen district'),
   place('hamburg-bakery-2', 'hamburg', 'bakery', 'Der Kiezbäcker', 4.7, 'Silbersackstraße 8, 20359 Hamburg', '장크트 파울리의 인기 베이커리, 프란츠브뢰첸으로 유명.', 'Popular St. Pauli bakery known for Franzbrötchen.', { reviewCount: 2040 }),
-  place('hamburg-cafe-1', 'hamburg', 'cafe', 'Konditorei Lindtner', 4.5, 'Hamburg, Germany', '전통 독일 카페하우스 문화를 경험할 수 있는 함부르크 카페', 'Hamburg café offering a taste of traditional German coffee-house culture'),
+  place('hamburg-cafe-1', 'hamburg', 'cafe', 'Konditorei Lindtner', 4.5, 'Eppendorfer Landstraße 88, 20249 Hamburg, Germany', '전통 독일 카페하우스 문화를 경험할 수 있는 함부르크 카페', 'Hamburg café offering a taste of traditional German coffee-house culture'),
   place('hamburg-cafe-2', 'hamburg', 'cafe', 'elbgold', 4.6, 'Lagerstraße 34c, 20357 Hamburg', '샨체 지역의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in the Schanze district.', { reviewCount: 2521 }),
   place('hamburg-korean-1', 'hamburg', 'korean', 'Hanmi Restaurant', 4.6, 'Kleine Seilerstraße 1, Hamburg', '한식 바비큐와 덮밥 요리를 선보이는 식당.', 'Restaurant serving Korean barbecue and rice bowls.', { reviewCount: 2994 }),
 
@@ -133,7 +133,7 @@ export const placesDEExtra: Place[] = [
   place('stuttgart-bakery-2', 'stuttgart', 'bakery', 'La Boulangerie', 4.8, 'Schwabstraße 127, Stuttgart', '슈투트가르트의 프랑스식 베이커리.', 'French-style bakery in Stuttgart.', { reviewCount: 443 }),
   place('stuttgart-bakery-3', 'stuttgart', 'bakery', 'Königsbäck', 4.7, 'Gablenberger Hauptstraße 77, Stuttgart', '가블렌베르크 지역의 인기 베이커리.', 'Popular bakery in the Gablenberg district.', { reviewCount: 754 }),
   place('stuttgart-bakery-4', 'stuttgart', 'bakery', 'Petite France - Boulangerie', 4.6, 'Eberhardstraße 51, Stuttgart', '프랑스식 부랑주리.', 'French-style boulangerie.', { reviewCount: 253 }),
-  place('stuttgart-cafe-1', 'stuttgart', 'cafe', 'Trölsch', 4.4, 'Stuttgarter Straße, Stuttgart, Germany', '페이스트리 애호가들의 안식처로 불리는 슈투트가르트의 제과 카페', 'Stuttgart bakery café described as a haven for pastry lovers'),
+  place('stuttgart-cafe-1', 'stuttgart', 'cafe', 'Trölsch', 4.4, 'Stuttgarter Straße 104, 70469 Stuttgart, Germany', '페이스트리 애호가들의 안식처로 불리는 슈투트가르트의 제과 카페', 'Stuttgart bakery café described as a haven for pastry lovers'),
   place('stuttgart-cafe-2', 'stuttgart', 'cafe', 'Mókuska Kaffeerösterei', 4.7, 'Johannesstraße 34, Stuttgart', '슈투트가르트의 커피 로스터리 카페.', 'Coffee roastery café in Stuttgart.', { reviewCount: 1400 }),
   place('stuttgart-cafe-3', 'stuttgart', 'cafe', 'Harry\'s Coffee Roastery', 4.5, 'Eberhardstraße 10, Stuttgart', '슈투트가르트의 커피 로스터리.', 'Coffee roastery in Stuttgart.', { reviewCount: 1008 }),
   place('stuttgart-cafe-4', 'stuttgart', 'cafe', 'misch misch coffee', 4.7, 'Tübinger Str. 95, Stuttgart', '튀빙거슈트라세의 커피숍.', 'Coffee shop on Tübinger Straße.', { reviewCount: 617 }),
@@ -177,8 +177,8 @@ export const placesDEExtra: Place[] = [
 
   // —— fussen ——
   place('fussen-fine_dining-1', 'fussen', 'fine_dining', 'Zum Hechten', 4.1, 'Ritterstraße 6, 87629 Füssen', '호에스 슐로스 바로 아래의 바이에른 향토 요리 식당.', 'Bavarian regional cooking right below the Hohes Schloss.'),
-  place('fussen-fine_dining-2', 'fussen', 'fine_dining', 'Beim Olivenbauer', 4.4, 'Füssen, Germany', '구시가 가장자리의 바이에른·지중해 요리 식당.', 'Bavarian and Mediterranean dishes at the old town\'s edge.'),
-  place('fussen-cafe-1', 'fussen', 'cafe', 'Caffè Lucca', 4.5, 'Füssen, Germany', '호에스 슐로스 아래, 아침 식사와 이탈리아 커피가 좋은 카페.', 'Café below the Hohes Schloss for breakfast and Italian coffee.'),
+  place('fussen-fine_dining-2', 'fussen', 'fine_dining', 'Beim Olivenbauer', 4.4, 'Uferstraße 30, 87629 Füssen, Germany', '구시가 가장자리의 바이에른·지중해 요리 식당.', 'Bavarian and Mediterranean dishes at the old town\'s edge.'),
+  place('fussen-cafe-1', 'fussen', 'cafe', 'Caffè Lucca', 4.5, 'Ritterstraße 9, 87629 Füssen, Germany', '호에스 슐로스 아래, 아침 식사와 이탈리아 커피가 좋은 카페.', 'Café below the Hohes Schloss for breakfast and Italian coffee.'),
   place('fussen-cafe-2', 'fussen', 'cafe', 'Cafe Baumgarten', 4.4, 'Rittergasse 1, 87629 Füssen', '페이스트리와 진한 커피로 유명한 아늑한 카페.', 'Cozy café known for pastries and strong coffee.'),
   place('fussen-bakery-1', 'fussen', 'bakery', 'Bäckerei Brunners', 4.4, 'Füssen, Germany', '지역 전통 빵을 파는 퓌센의 빵집.', 'Füssen bakery selling regional specialties.'),
 ]

@@ -44,7 +44,7 @@ export const placesRSExtra: Place[] = [
   place('subotica-fine_dining-3', 'subotica', 'fine_dining', 'Konoba "Tinel"', 4.8, 'Huga Badalića 14, 24000 Subotica, Serbia', '유러피언·지중해·크로아티아 요리를 선보이는 수보티차의 인기 코노바(선술집) 레스토랑', 'Popular konoba-style restaurant in Subotica serving European, Mediterranean and Croatian cuisine', { reviewCount: 1446 }),
 
   place('subotica-bakery-1', 'subotica', 'bakery', 'Kafe Prića', 4.5, 'Ulica Korzo 9, 24000 Subotica, Serbia', '수보티차 중심가 안뜰에 숨겨진 정통 커피와 디저트 명소', 'Authentic Subotica coffee and dessert spot tucked in a courtyard in the city center'),
-  place('subotica-bakery-2', 'subotica', 'bakery', 'Artos', 4.4, 'Subotica, Serbia', '비건 옵션을 갖춘 수보티차의 베이커리.', 'Subotica bakery with vegan options.'),
+  place('subotica-bakery-2', 'subotica', 'bakery', 'Artos', 4.4, 'Змај Јовина 7a, 24000 Subotica, Serbia', '비건 옵션을 갖춘 수보티차의 베이커리.', 'Subotica bakery with vegan options.'),
   place('subotica-cafe-1', 'subotica', 'cafe', 'Hausbrandt Caffe', 4.5, 'Trg Cara Jovana Nenada 9, 24000 Subotica, Serbia', '아르누보 시청 앞 광장에 위치한 수보티차의 인기 카페, 카푸치노로 유명', 'Popular Subotica cafe facing the Art Nouveau city hall square, known for its cappuccino'),
-  place('subotica-cafe-2', 'subotica', 'cafe', 'Boss Caffe', 4.5, 'Subotica, Serbia', '아르누보풍 입구와 정원이 딸린 수보티차의 카페 겸 베이커리.', 'Subotica café-bakery with an Art Nouveau entrance and a garden.'),
+  place('subotica-cafe-2', 'subotica', 'cafe', 'Boss Caffe', 4.5, 'Матије Корвина, 24000 Subotica, Serbia', '아르누보풍 입구와 정원이 딸린 수보티차의 카페 겸 베이커리.', 'Subotica café-bakery with an Art Nouveau entrance and a garden.'),
 ]

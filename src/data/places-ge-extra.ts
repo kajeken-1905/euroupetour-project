@@ -29,7 +29,7 @@ export const placesGEExtra: Place[] = [
   place('kutaisi-fine_dining-2', 'kutaisi', 'fine_dining', 'Georgian Cuisine Magnolia', 4.4, 'Kutaisi, Georgia', '쿠타이시 전망이 아름다운 아늑한 조지아 요리 레스토랑.', 'Cozy Georgian restaurant with beautiful views of Kutaisi.'),
   place('kutaisi-bakery-1', 'kutaisi', 'bakery', 'Bubliki Bakery', 4.5, 'Tsminda Nino St 11, 4600 Kutaisi, Georgia', '1997년부터 이어온 쿠타이시 중심가의 베이커리', 'Kutaisi bakery in the city center, operating since 1997'),
   place('kutaisi-bakery-2', 'kutaisi', 'bakery', 'Bakery Sanimusho', 4.5, 'N16 Tamar The Queen St, Kutaisi', '가성비 좋은 한 끼와 향긋한 커피로 유명한 베이커리.', 'Bakery known for its good-value meals and aromatic coffee.', { reviewCount: 162 }),
-  place('kutaisi-cafe-1', 'kutaisi', 'cafe', 'Cafe Neta', 4.4, 'Tamar Mepe Street, Kutaisi, Georgia', '훌륭한 커피와 케이크로 유명한 쿠타이시의 카페', 'Kutaisi café known for expertly crafted coffee and delectable cakes'),
+  place('kutaisi-cafe-1', 'kutaisi', 'cafe', 'Cafe Neta', 4.4, 'Tamar Mepe Street, 4600 Kutaisi, Georgia', '훌륭한 커피와 케이크로 유명한 쿠타이시의 카페', 'Kutaisi café known for expertly crafted coffee and delectable cakes'),
   place('kutaisi-cafe-2', 'kutaisi', 'cafe', 'Coffee Bean', 4.3, '11 Tsminda Nino St, Kutaisi', '누구나 만날 수 있는 상징적인 커피숍.', 'Iconic coffee spot where everyone in town meets.'),
 
   // —— stepantsminda ——
@@ -42,7 +42,7 @@ export const placesGEExtra: Place[] = [
 
   // —— sighnaghi ——
   place('sighnaghi-fine_dining-1', 'sighnaghi', 'fine_dining', 'Restaurant Burji', 4.6, 'Chavchavadze St. 9, Signagi 383210', '도시 최고 전망의 조지아 요리.', 'Georgian cuisine with the town\'s best views.'),
-  place('sighnaghi-fine_dining-2', 'sighnaghi', 'fine_dining', 'Sighnaghi Estate', 4.8, 'Sighnaghi, Georgia', '많은 리뷰를 받은 시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi with a large number of reviews.', { reviewCount: 5775 }),
+  place('sighnaghi-fine_dining-2', 'sighnaghi', 'fine_dining', 'Sighnaghi Estate', 4.8, 'ვახტანგ გორგასლის II ჩიხი, 4200 Sighnaghi, Georgia', '많은 리뷰를 받은 시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi with a large number of reviews.', { reviewCount: 5775 }),
   place('sighnaghi-fine_dining-3', 'sighnaghi', 'fine_dining', 'Restaurant Qiziki', 4.9, '6 Sarajishvili St, Sighnaghi, Georgia', '시그나기에서 평점이 매우 높은 조지아 요리 레스토랑.', 'Highly rated Georgian cuisine restaurant in Sighnaghi.', { reviewCount: 601 }),
   place('sighnaghi-fine_dining-4', 'sighnaghi', 'fine_dining', 'Balcony Sighnaghi', 4.7, '21 Vakhtang Gorgasali St, Sighnaghi, Georgia', '많은 리뷰를 받은 시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi with a large number of reviews.', { reviewCount: 5011 }),
   place('sighnaghi-cafe-1', 'sighnaghi', 'cafe', 'ChikChiki Cafe', 4.2, 'Sighnaghi, Georgia', '조지아 요리와 라이브 음악을 함께 즐길 수 있는 시그나기 중심가의 카페', 'Café in the heart of Sighnaghi offering Georgian cuisine and live music'),

@@ -22,7 +22,7 @@ export const placesEEExtra: Place[] = [
   place('tartu-fine_dining-3', 'tartu', 'fine_dining', 'Chez Andre', 4.6, 'Küütri tn 3, Tartu', '타르투의 레스토랑.', 'Restaurant in Tartu.', { reviewCount: 775 }),
   place('tartu-bakery-1', 'tartu', 'bakery', 'Cruffin Pagarikoda', 4.6, 'J. Kuperjanovi tn 18a, 60517 Tartu, Estonia', '타르투 중심가의 아늑한 베이커리', 'Delightful bakery in the heart of Tartu'),
   place('tartu-bakery-2', 'tartu', 'bakery', 'Patisserie "Almond"', 4.8, 'Veski tn 5a, Tartu', '타르투의 제과점.', 'Patisserie in Tartu.', { reviewCount: 380 }),
-  place('tartu-cafe-1', 'tartu', 'cafe', 'Reval Café', 4.4, 'Tartu, Estonia', '크바르탈 쇼핑센터 맞은편의 믿을 수 있는 타르투 카페', 'Reliable Tartu café across from the Kvartal shopping center'),
+  place('tartu-cafe-1', 'tartu', 'cafe', 'Reval Café', 4.4, 'Riia 4, 51004 Tartu, Estonia', '크바르탈 쇼핑센터 맞은편의 믿을 수 있는 타르투 카페', 'Reliable Tartu café across from the Kvartal shopping center'),
   place('tartu-cafe-2', 'tartu', 'cafe', 'Cafe-restaurant Werner', 4.6, 'Ülikooli tn 11, Tartu', '타르투의 역사적인 카페.', 'Historic café in Tartu.', { reviewCount: 2486 }),
   place('tartu-cafe-3', 'tartu', 'cafe', 'Karlova Kohv', 4.7, 'Tähe tn 63, Tartu', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 506 }),
 

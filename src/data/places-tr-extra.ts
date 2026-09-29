@@ -3,19 +3,19 @@ import type { Place } from '../types'
 
 export const placesTRExtra: Place[] = [
   // —— istanbul ——
-  place('istanbul-fine_dining-1', 'istanbul', 'fine_dining', 'Mikla', 4.7, 'Istanbul', '보스포러스 전망 모던 터키.', 'Modern Turkish with Bosphorus views.', { reviewCount: 2400 }),
-  place('istanbul-fine_dining-2', 'istanbul', 'fine_dining', 'Neolokal', 4.6, 'Istanbul', '아나톨리아 재해석 코스.', 'Reimagined Anatolian tasting.', { reviewCount: 1800 }),
-  place('istanbul-fine_dining-3', 'istanbul', 'fine_dining', 'Nusr-Et', 4.4, 'Istanbul', '스테이크·캐주얼 파인.', 'Steak and casual fine.', { reviewCount: 6200 }),
-  place('istanbul-fine_dining-4', 'istanbul', 'fine_dining', 'Ciya Sofrası', 4.5, 'Istanbul', '지역 가정식 클래식.', 'Regional home-style classic.', { reviewCount: 4800 }),
-  place('istanbul-fine_dining-5', 'istanbul', 'fine_dining', 'Pandeli', 4.4, 'Istanbul', '역사적 오스만 다이닝.', 'Historic Ottoman dining.', { reviewCount: 3200 }),
+  place('istanbul-fine_dining-1', 'istanbul', 'fine_dining', 'Mikla', 4.7, 'Meşrutiyet Caddesi 15, 34430 Beyoğlu, Turkey', '보스포러스 전망 모던 터키.', 'Modern Turkish with Bosphorus views.', { reviewCount: 2400 }),
+  place('istanbul-fine_dining-2', 'istanbul', 'fine_dining', 'Neolokal', 4.6, 'Bereketzade Medresesi Sokağı 11, 34421 Beyoğlu, Turkey', '아나톨리아 재해석 코스.', 'Reimagined Anatolian tasting.', { reviewCount: 1800 }),
+  place('istanbul-fine_dining-3', 'istanbul', 'fine_dining', 'Nusr-Et', 4.4, 'Terziler Sokağı, 34126 Istanbul, Turkey', '스테이크·캐주얼 파인.', 'Steak and casual fine.', { reviewCount: 6200 }),
+  place('istanbul-fine_dining-4', 'istanbul', 'fine_dining', 'Ciya Sofrası', 4.5, 'Güneşlibahçe Sokağı 43, 34710 Kadıköy, Turkey', '지역 가정식 클래식.', 'Regional home-style classic.', { reviewCount: 4800 }),
+  place('istanbul-fine_dining-5', 'istanbul', 'fine_dining', 'Pandeli', 4.4, 'Yenicami Meydani Sokağı 1, 34435 Istanbul, Turkey', '역사적 오스만 다이닝.', 'Historic Ottoman dining.', { reviewCount: 3200 }),
   place('istanbul-bakery-1', 'istanbul', 'bakery', 'Filizler Tarihi Fırın', 4.5, 'Istanbul', '시밋·로컬 빵.', 'Simit and local bread.', { reviewCount: 2800 }),
-  place('istanbul-bakery-2', 'istanbul', 'bakery', 'Karaköy Güllüoğlu', 4.6, 'Istanbul', '바클라바 전문.', 'Baklava specialists.', { reviewCount: 12000 }),
-  place('istanbul-bakery-3', 'istanbul', 'bakery', 'Baylan Pastanesi', 4.4, 'Istanbul', '클래식 파티스리.', 'Classic pastry shop.', { reviewCount: 3600 }),
+  place('istanbul-bakery-2', 'istanbul', 'bakery', 'Karaköy Güllüoğlu', 4.6, 'Kemankeş Caddesi 67, 36827 Beyoğlu, Turkey', '바클라바 전문.', 'Baklava specialists.', { reviewCount: 12000 }),
+  place('istanbul-bakery-3', 'istanbul', 'bakery', 'Baylan Pastanesi', 4.4, 'Muvakkıthane Caddesi 19, 34710 Kadıköy, Turkey', '클래식 파티스리.', 'Classic pastry shop.', { reviewCount: 3600 }),
   place('istanbul-bakery-4', 'istanbul', 'bakery', 'Hafız Mustafa 1864', 4.7, 'Hoca Paşa, Muradiye Cd. No:51, 34080 Fatih/İstanbul, Turkey', '1864년부터 이어온 전통 제과점, 바클라바·로쿰 전문.', 'Historic pastry shop since 1864, known for baklava and Turkish delight.', { reviewCount: 48524 }),
-  place('istanbul-cafe-1', 'istanbul', 'cafe', 'Kronotrop', 4.5, 'Istanbul', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2100 }),
-  place('istanbul-cafe-2', 'istanbul', 'cafe', 'Mandabatmaz', 4.4, 'Istanbul', '터키식 커피 클래식.', 'Classic Turkish coffee.', { reviewCount: 4200 }),
-  place('istanbul-cafe-3', 'istanbul', 'cafe', 'Petra Roasting Co.', 4.5, 'Istanbul', '로스터리 카페.', 'Roastery café.', { reviewCount: 1800 }),
-  place('istanbul-cafe-4', 'istanbul', 'cafe', 'Karabatak', 4.4, 'Istanbul', '카라쾨이 브런치 카페.', 'Karaköy brunch café.', { reviewCount: 2400 }),
+  place('istanbul-cafe-1', 'istanbul', 'cafe', 'Kronotrop', 4.5, 'Aydın Sokağı, 34340 Beşiktaş, Turkey', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2100 }),
+  place('istanbul-cafe-2', 'istanbul', 'cafe', 'Mandabatmaz', 4.4, 'Olivya Geçidi Sokağı 1a, 34430 Beyoğlu, Turkey', '터키식 커피 클래식.', 'Classic Turkish coffee.', { reviewCount: 4200 }),
+  place('istanbul-cafe-3', 'istanbul', 'cafe', 'Petra Roasting Co.', 4.5, 'Prof. Dr. Orhan Ersek Sokağı 18, 34365 Şişli, Turkey', '로스터리 카페.', 'Roastery café.', { reviewCount: 1800 }),
+  place('istanbul-cafe-4', 'istanbul', 'cafe', 'Karabatak', 4.4, 'Meclis-i Mebusan Caddesi 7, 34433 Beyoğlu, Turkey', '카라쾨이 브런치 카페.', 'Karaköy brunch café.', { reviewCount: 2400 }),
 
   // —— ankara ——
   place('ankara-fine_dining-1', 'ankara', 'fine_dining', 'La Gioia', 4.5, 'Arjantin Caddesi, Attar Sk. No:6, Gaziosmanpaşa, 06700 Ankara, Turkey', '가지오스만파샤에 위치한 고급 이탈리안 유러피언 레스토랑', 'Upscale Italian and European restaurant in the Gaziosmanpaşa district'),
@@ -64,7 +64,7 @@ export const placesTRExtra: Place[] = [
   // —— trabzon ——
   place('trabzon-fine_dining-1', 'trabzon', 'fine_dining', 'Cephanelik Restaurant & Cafe', 4.5, 'Boztepe Mahallesi, Cephanelik Mevkii No:89, Ortahisar, 61080 Trabzon, Turkey', '보즈테페 언덕에서 트라브존 전경을 내려다보며 즐기는 파노라마 뷰 레스토랑', 'Restaurant on Boztepe hill offering panoramic views over Trabzon along with exquisite cuisine'),
   place('trabzon-fine_dining-2', 'trabzon', 'fine_dining', 'Bordo Mavi Balık', 4.4, 'Ortahisar, Trabzon', '흑해 제철 생선과 메제로 유명한 트라브존의 해산물 레스토랑.', 'Trabzon seafood restaurant known for seasonal Black Sea fish and meze.'),
-  place('trabzon-fine_dining-3', 'trabzon', 'fine_dining', 'Cemilusta', 4.3, 'Kalkınma, Devlet Sahil Yolu Cd., Ortahisar/Trabzon', '아크차아바트 쾨프테(미트볼)로 유명한 트라브존의 인기 식당.', 'Popular Trabzon restaurant famous for Akçaabat köfte.', { reviewCount: 1400 }),
+  place('trabzon-fine_dining-3', 'trabzon', 'fine_dining', 'Cemilusta', 4.3, 'Trabzon Meydan Parkı 6, 61050 Trabzon, Turkey', '아크차아바트 쾨프테(미트볼)로 유명한 트라브존의 인기 식당.', 'Popular Trabzon restaurant famous for Akçaabat köfte.', { reviewCount: 1400 }),
   place('trabzon-bakery-1', 'trabzon', 'bakery', 'Zemu Swiss Bakery', 4.5, '3 Nolu Erdoğdu, Manolya Cd. No:47, 61040 Trabzon Merkez/Trabzon, Turkey', '신선한 로컬·인터내셔널 베이커리 제품을 세련되게 선보이는 트라브존의 베이커리', 'Trabzon bakery offering a range of fresh local and international baked goods in a modern setting'),
   place('trabzon-bakery-2', 'trabzon', 'bakery', 'Huna Bakery', 4.5, 'Ortahisar, Trabzon', '디저트와 커피로 사랑받는 트라브존 중심가의 베이커리 카페.', "City-centre bakery-café loved for its desserts and coffee."),
   place('trabzon-cafe-1', 'trabzon', 'cafe', 'Coffee Shop Company Trabzon', 4.5, 'İskenderpaşa Merkez, Uzun Sk., 61100 Ortahisar/Trabzon, Turkey', '구시장과 신시장을 잇는 중심가에 위치한 트라브존의 인기 커피숍', 'Popular Trabzon coffee shop connecting the old and new markets in the city center'),

@@ -8,7 +8,7 @@ export const placesAZExtra: Place[] = [
   place('baku-fine_dining-3', 'baku', 'fine_dining', 'Dolma Restaurant', 5.0, '12F Mammad Amin Rasulzade Street, Baku', '올드 바쿠풍 인테리어의 가족 운영 아제르바이잔·유럽 레스토랑', 'Family-run Azerbaijani-European restaurant with an old-Baku-themed interior', { reviewCount: 879 }),
   place('baku-fine_dining-4', 'baku', 'fine_dining', 'Mugam Club & Restaurant', 4.9, '46 Asef Zeynalli Street, Baku', '옛 대상 숙소(카라반사라이)를 개조한 곳, 전통 무감 음악 공연과 아제르바이잔 요리', 'Azerbaijani restaurant in a converted historic caravanserai with live traditional mugam music', { reviewCount: 55 }),
 
-  place('baku-bakery-1', 'baku', 'bakery', 'Entrée', 4.5, 'Dilara Aliyeva küçəsi, Baku, Azerbaijan', '바쿠 전역에 지점을 둔 인기 베이커리 카페 체인, 크루아상으로 유명', 'Popular bakery café chain across Baku, known for its croissants'),
+  place('baku-bakery-1', 'baku', 'bakery', 'Entrée', 4.5, 'Rasul Rza Street 26G, 1005 Baku, Azerbaijan', '바쿠 전역에 지점을 둔 인기 베이커리 카페 체인, 크루아상으로 유명', 'Popular bakery café chain across Baku, known for its croissants'),
   place('baku-bakery-2', 'baku', 'bakery', 'AZZA Cake House', 4.7, '53F Resid Behbudov Street, Baku', '케이크와 디저트 전문 베이커리', 'Confectionery specializing in cakes and desserts', { reviewCount: 19 }),
   place('baku-bakery-3', 'baku', 'bakery', 'Paul Bakery', 4.9, '151 Neftchilar Avenue, Baku', '포트 바쿠 인근의 프랑스 베이커리 체인, 크루아상·에클레어로 유명', 'French bakery chain branch near Port Baku, known for croissants and éclairs', { reviewCount: 39 }),
 

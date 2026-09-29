@@ -8,7 +8,7 @@ export const placesGRExtra: Place[] = [
   place('athens-fine_dining-3', 'athens', 'fine_dining', 'Funky Gourmet', 4.5, '13 Paramithias St & Salaminos, Kerameikos, Athens 10435', '미슐랭 2스타 레스토랑, 예술적 프레젠테이션으로 유명.', 'Two-Michelin-star restaurant known for its artistic presentation.'),
   place('athens-fine_dining-4', 'athens', 'fine_dining', 'Klimataria', 4.1, 'Plateia Theatrou 2, Athina 105 52', '1927년부터 이어온 프시리 지구의 전통 타베르나.', 'Traditional taverna in Psirri, operating since 1927.'),
   place('athens-fine_dining-5', 'athens', 'fine_dining', 'Seychelles', 5.0, 'Keramikou 49, Athina 104 36', '전통 타베르나의 감성을 유지하면서 현대적 요리를 선보이는 레스토랑.', 'Restaurant keeping the charm of an old-school taverna while serving modern cuisine.', { reviewCount: 7404 }),
-  place('athens-bakery-1', 'athens', 'bakery', 'Ariston', 4.5, 'off Ermou St near Syntagma Square, Athens', '1910년부터 이어온 아테네의 전통 파이 전문점, 쿠루 치즈파이로 유명.', "Athens institution serving pies since 1910, famous for its kourou cheese pie."),
+  place('athens-bakery-1', 'athens', 'bakery', 'Ariston', 4.5, 'Μιχαήλ Βόδα, 104 40 Athens, Greece', '1910년부터 이어온 아테네의 전통 파이 전문점, 쿠루 치즈파이로 유명.', "Athens institution serving pies since 1910, famous for its kourou cheese pie."),
   place('athens-bakery-2', 'athens', 'bakery', 'Takis Bakery', 4.7, 'Misaraliotou 14, Athens 117 42', '1961년부터 이어온 쿠카키 지구의 전설적인 베이커리, 티로피타로 유명.', 'Legendary Koukaki bakery since 1961, known for its cheese pie (tiropita).', { reviewCount: 170 }),
   place('athens-bakery-3', 'athens', 'bakery', 'Choureal', 4.7, 'Panagiotou Anagnostopoulou 44, Athina 106 73', '아테네 최고의 프로피테롤을 맛볼 수 있는 슈 페이스트리 전문점.', "Choux pastry specialist serving Athens' best profiteroles."),
   place('athens-bakery-4', 'athens', 'bakery', 'To Koulouri tou Psyrri', 4.6, '23 Karaiskaki St, Psyrri, Athens', '1990년대부터 이어온 프시리의 명물 쿨루리(참깨 빵) 전문점.', 'Iconic koulouri (sesame bread ring) spot in Psyrri since the 1990s.'),
@@ -65,7 +65,7 @@ export const placesGRExtra: Place[] = [
   // —— thessaloniki ——
   place('thessaloniki-fine_dining-1', 'thessaloniki', 'fine_dining', 'Ergon Agora', 4.6, 'P. Mela 42, Thessaloniki 54622', '팜투테이블 콘셉트의 레스토랑.', 'Farm-to-table concept restaurant.'),
   place('thessaloniki-fine_dining-2', 'thessaloniki', 'fine_dining', 'Massalia', 4.5, '6 Manousogiannaki Emmanouil St & 23 Filikis Etaireias St, Thessaloniki 54621', '넉넉한 양과 합리적인 가격으로 호평받는 그리스 요리 레스토랑.', 'Greek restaurant praised for generous portions and reasonable prices.', { reviewCount: 2710 }),
-  place('thessaloniki-fine_dining-3', 'thessaloniki', 'fine_dining', 'Omikron', 4.6, 'Ladadika district, Thessaloniki', '프랑스에서 요리를 배운 셰프의 그리스·지중해 요리 레스토랑, 10여 개 테이블의 아담한 공간.', 'Intimate Greek-Mediterranean restaurant with only about ten tables, run by a France-trained chef.'),
+  place('thessaloniki-fine_dining-3', 'thessaloniki', 'fine_dining', 'Omikron', 4.6, 'Ζεύξιδος, 546 22 Thessaloniki Municipal Unit, Greece', '프랑스에서 요리를 배운 셰프의 그리스·지중해 요리 레스토랑, 10여 개 테이블의 아담한 공간.', 'Intimate Greek-Mediterranean restaurant with only about ten tables, run by a France-trained chef.'),
   place('thessaloniki-bakery-1', 'thessaloniki', 'bakery', 'Bougatsa Bantis', 4.6, 'Panagias Faneromenis 33, 546 32 Thessaloniki, Greece', '부가차의 명소로 꼽히는 테살로니키의 전통 제과점', 'Thessaloniki institution famous for its bougatsa pastry'),
   place('thessaloniki-bakery-2', 'thessaloniki', 'bakery', 'Terkenlis', 4.5, 'Tsimiski 30 & Aristotelous, Thessaloniki 546 36', '1948년 창업한 테살로니키의 대표 제과점, 초콜릿 추레키로 전국적으로 유명.', "Thessaloniki's flagship patisserie since 1948, nationally famous for its chocolate tsoureki.", { reviewCount: 900 }),
   place('thessaloniki-bakery-3', 'thessaloniki', 'bakery', 'Trigona Elenidi', 4.6, 'Dimitriou Gounari 13, Thessaloniki 546 22', '소아시아 난민의 레시피에서 시작된 트리고나 파노라마토스(크림 채운 필로 삼각과자) 전문점.', 'Specialist in trigona panoramatos — syrup-soaked phyllo triangles filled with custard, from a recipe brought by Asia Minor refugees.', { reviewCount: 1200 }),
@@ -94,7 +94,7 @@ export const placesGRExtra: Place[] = [
   // —— meteora ——
   place('meteora-fine_dining-1', 'meteora', 'fine_dining', 'Meteora Restaurant (Gkertsou)', 4.6, 'Kalambaka, Greece', '1925년부터 가족이 운영, 할머니 레시피의 무사카·가지 사가나키.', 'Family-run since 1925; grandmother\'s moussaka and eggplant saganaki.'),
   place('meteora-fine_dining-2', 'meteora', 'fine_dining', 'Taverna Xarama', 4.6, 'Kastraki, Greece', '1982년부터 바위 아래에서 양고기 구이를 내는 가족 타베르나.', 'Family taverna under the rocks since 1982, known for grilled lamb.'),
-  place('meteora-fine_dining-3', 'meteora', 'fine_dining', 'Taverna Gardenia', 4.5, 'Kastraki, Greece', '카스트라키 중심가의 가정식 그리스 타베르나.', 'Home-style Greek taverna on Kastraki\'s main street.'),
+  place('meteora-fine_dining-3', 'meteora', 'fine_dining', 'Taverna Gardenia', 4.5, 'Αγίων Αποστόλων, 422 00 Kalambaka, Greece', '카스트라키 중심가의 가정식 그리스 타베르나.', 'Home-style Greek taverna on Kastraki\'s main street.'),
   place('meteora-fine_dining-4', 'meteora', 'fine_dining', 'Panellinio', 4.4, 'Central Square, Kalambaka, Greece', '칼람바카 중앙 광장의 그리스 가정식 식당.', 'Greek classics on Kalambaka\'s central square.'),
 
   // —— delphi ——
@@ -109,7 +109,7 @@ export const placesGRExtra: Place[] = [
   // —— olympia ——
   place('olympia-fine_dining-1', 'olympia', 'fine_dining', 'Taverna Bacchus', 4.6, 'Miraka, Ancient Olympia, Greece', '들판 속 가족 운영 타베르나 겸 여관.', 'Family-run taverna and inn among the fields.'),
   place('olympia-fine_dining-2', 'olympia', 'fine_dining', 'Aegean Restaurant', 4.4, 'Ancient Olympia, Greece', '지역 식재료로 채식 메뉴가 다양한 광장의 식당.', 'Main-square restaurant with many vegetarian dishes from local produce.'),
-  place('olympia-fine_dining-3', 'olympia', 'fine_dining', 'Taverna Orestis', 4.6, 'Ancient Olympia, Greece', '유적지에서 걸어갈 수 있는 현지 분위기 타베르나.', 'Local-feeling taverna a short walk from the site.'),
+  place('olympia-fine_dining-3', 'olympia', 'fine_dining', 'Taverna Orestis', 4.6, 'Π. Σπηλιοπούλου, 270 65 Municipal Unit of Archea Olympia, Greece', '유적지에서 걸어갈 수 있는 현지 분위기 타베르나.', 'Local-feeling taverna a short walk from the site.'),
 
   // —— chania ——
   place('chania-fine_dining-1', 'chania', 'fine_dining', 'Tamam', 4.5, 'Zampeliou 49, Chania 731 31', '옛 오스만 목욕탕을 개조한 크레타·지중해 요리 식당.', 'Cretan-Mediterranean cooking in a former Ottoman bathhouse.'),
@@ -117,8 +117,8 @@ export const placesGRExtra: Place[] = [
   place('chania-bakery-1', 'chania', 'bakery', 'Bougatsa Iordanis', 4.7, 'Apokoronou 24, Chania 731 34', '1924년 개업, 하니아에서 가장 오래된 부가차 가게.', 'Chania\'s oldest bougatsa shop, since 1924.'),
 
   // —— naxos ——
-  place('naxos-fine_dining-1', 'naxos', 'fine_dining', 'Scirocco', 4.6, 'Protodikiou Square, Naxos Town', '20년 가까이 이어온 가족 운영 그리스 타베르나.', 'Family-run Greek taverna going for nearly 20 years.'),
-  place('naxos-fine_dining-2', 'naxos', 'fine_dining', 'Taverna Axiotissa', 4.7, 'Kastraki, Naxos, Greece', '유기농 재료로 창작 요리를 내는 인기 타베르나.', 'Popular taverna of creative dishes from organic produce.'),
+  place('naxos-fine_dining-1', 'naxos', 'fine_dining', 'Scirocco', 4.6, 'Αμοργού, 843 00 Naxos, Greece', '20년 가까이 이어온 가족 운영 그리스 타베르나.', 'Family-run Greek taverna going for nearly 20 years.'),
+  place('naxos-fine_dining-2', 'naxos', 'fine_dining', 'Taverna Axiotissa', 4.7, 'ΠΥΡΓΑΚΙ ΑΓΙΑΣΟΣ, 843 02 Municipality of Naxos and the Lesser Cyclades, Greece', '유기농 재료로 창작 요리를 내는 인기 타베르나.', 'Popular taverna of creative dishes from organic produce.'),
 
   // —— zakynthos ——
   place('zakynthos-fine_dining-1', 'zakynthos', 'fine_dining', 'Spartakos Tavern', 4.5, 'Zakynthos Town, Greece', '자킨토스 타운의 저녁 식사 명소 타베르나.', 'Top dinner taverna in Zakynthos Town.'),

@@ -3,7 +3,7 @@ import type { Place } from '../types'
 
 export const placesMEExtra: Place[] = [
   // —— kotor ——
-  place('kotor-fine_dining-1', 'kotor', 'fine_dining', 'Galion', 4.2, 'Šuranj bb, Kotor', '코토르 마리나와 구시가 전망의 해산물 파인 다이닝.', 'Waterfront fine-dining restaurant with views of Kotor marina and the Old Town, known for seafood.', { reviewCount: 1200 }),
+  place('kotor-fine_dining-1', 'kotor', 'fine_dining', 'Galion', 4.2, 'Njegoseva, 85339 Kotor, Montenegro', '코토르 마리나와 구시가 전망의 해산물 파인 다이닝.', 'Waterfront fine-dining restaurant with views of Kotor marina and the Old Town, known for seafood.', { reviewCount: 1200 }),
   place('kotor-fine_dining-2', 'kotor', 'fine_dining', 'Konoba Scala Santa', 4.4, 'Stari Grad 295, Kotor', '1931년 개업한 코토르에서 가장 오래된 레스토랑, 신선한 해산물 요리.', 'Kotor\'s oldest restaurant, open since 1931, known for fresh fish and seafood.', { reviewCount: 3183 }),
   place('kotor-fine_dining-3', 'kotor', 'fine_dining', 'Konoba Cesarica', 4.3, 'Stari Grad 375, Kotor', '현지 어부가 직접 잡은 해산물로 매일 메뉴가 바뀌는 가족 운영 코노바.', 'Family-run konoba whose menu changes daily with the owner-fisherman\'s fresh catch.'),
 
@@ -14,22 +14,22 @@ export const placesMEExtra: Place[] = [
   place('kotor-bakery-5', 'kotor', 'bakery', 'Dolce Boka', 4.9, 'Ulica 2 (sjever-jug), Kotor', '높은 평점의 코토르 제과점.', 'Highly rated bakery in Kotor.', { reviewCount: 89 }),
 
   place('kotor-cafe-1', 'kotor', 'cafe', 'CAVE Coffee Specialty', 4.9, 'TC Kamelija, Square Mata Petrovića, Kotor', '코토르의 스페셜티 커피 기준점, 지역·해외 로스터리 원두 사용.', 'Kotor\'s benchmark for specialty coffee, sourcing beans from regional and international roasters.', { reviewCount: 700 }),
-  place('kotor-cafe-2', 'kotor', 'cafe', 'Forza Cafe', 3.7, 'Square of the Arms, Kotor', '구시가 중심 광장의 카페, 모스크바 케이크로 유명.', 'Café on the Old Town\'s main square, famous for its Moscow cake.'),
+  place('kotor-cafe-2', 'kotor', 'cafe', 'Forza Cafe', 3.7, 'Armory square, 85330 Kotor, Montenegro', '구시가 중심 광장의 카페, 모스크바 케이크로 유명.', 'Café on the Old Town\'s main square, famous for its Moscow cake.'),
 
   // —— budva ——
   place('budva-fine_dining-1', 'budva', 'fine_dining', 'Rivijera Restaurant', 4.6, '16 Njegoševa, Budva', '구시가의 전통 몬테네그로 요리, 해산물·지중해 요리로 인기.', 'Restaurant in the Old Town popular for Montenegrin and Mediterranean seafood dishes.'),
-  place('budva-fine_dining-2', 'budva', 'fine_dining', 'Jadran', 4.3, 'Slovenska Obala, Budva', '매우 많은 리뷰를 받은 부드바의 해안가 해산물 레스토랑.', 'Beachfront seafood restaurant in Budva with an exceptionally large number of reviews.', { reviewCount: 8124 }),
+  place('budva-fine_dining-2', 'budva', 'fine_dining', 'Jadran', 4.3, 'Lovćenska, 86000 Budva, Montenegro', '매우 많은 리뷰를 받은 부드바의 해안가 해산물 레스토랑.', 'Beachfront seafood restaurant in Budva with an exceptionally large number of reviews.', { reviewCount: 8124 }),
   place('budva-fine_dining-3', 'budva', 'fine_dining', 'Pastabar', 4.6, 'Petra I Petrovića, Budva', '매우 많은 리뷰를 받은 부드바의 음식점.', 'Restaurant in Budva with an exceptionally large number of reviews.', { reviewCount: 2190 }),
   place('budva-fine_dining-4', 'budva', 'fine_dining', 'Pera, Focaccia & Resto-Bar', 4.9, '18 Vranjak, Budva', '높은 평점의 부드바 이탈리아 레스토랑.', 'Highly rated Italian restaurant in Budva.', { reviewCount: 1439 }),
   place('budva-fine_dining-5', 'budva', 'fine_dining', 'Piano Nobile', 4.5, '7 Cara Dušana, Budva', '많은 리뷰를 받은 부드바의 스테이크 레스토랑.', 'Steak restaurant in Budva with a large number of reviews.', { reviewCount: 1163 }),
-  place('budva-bakery-1', 'budva', 'bakery', 'Good Food Bakery', 5.0, 'Jadranski put bb, Budva', '부드바 중심가에서 훌륭한 빵과 로컬 특산품으로 유명한 베이커리', 'Bakery on Budva\'s main street known for excellent bread and local specialities'),
+  place('budva-bakery-1', 'budva', 'bakery', 'Good Food Bakery', 5.0, 'Nikole Tesle 34, 81350 Budva, Montenegro', '부드바 중심가에서 훌륭한 빵과 로컬 특산품으로 유명한 베이커리', 'Bakery on Budva\'s main street known for excellent bread and local specialities'),
   place('budva-bakery-2', 'budva', 'bakery', 'SKJAĆATA', 5.0, '4 Stjepana Mitrova Ljubiše, Budva', '만점 평점의 부드바 제과점.', 'Perfectly rated bakery in Budva.', { reviewCount: 178 }),
   place('budva-bakery-3', 'budva', 'bakery', 'Branka Pastry Shop', 4.6, '11 Mediteranska, Budva', '많은 리뷰를 받은 부드바의 패스트리숍.', 'Pastry shop in Budva with a large number of reviews.', { reviewCount: 485 }),
   place('budva-bakery-4', 'budva', 'bakery', 'Cap Cap Bakery', 4.5, '37 Mediteranska, Budva', '많은 리뷰를 받은 부드바의 제과점.', 'Bakery in Budva with a large number of reviews.', { reviewCount: 152 }),
   place('budva-bakery-5', 'budva', 'bakery', 'Old Town Bakery', 4.4, '22 Petra I Petrovića, Budva', '부드바 구시가지의 제과점.', 'Bakery in Budva\'s Old Town.', { reviewCount: 104 }),
   place('budva-cafe-1', 'budva', 'cafe', 'Monteco Cafe', 5.0, 'The Old Bakery Residences, Budva', '부드바 최고의 커피와 코워킹 공간을 갖춘 카페', 'Budva café known for its great coffee and co-working space'),
   place('budva-cafe-2', 'budva', 'cafe', 'Caffe Fiorino Budva', 4.8, '20 Stjepana Mitrova Ljubiše, Budva', '많은 리뷰를 받은 부드바의 카페.', 'Café in Budva with a large number of reviews.', { reviewCount: 777 }),
-  place('budva-cafe-3', 'budva', 'cafe', 'North Coffee Shop', 4.9, 'Stjepana Mitrova Ljubiše, Budva', '높은 평점의 부드바 커피숍.', 'Highly rated coffee shop in Budva.', { reviewCount: 658 }),
+  place('budva-cafe-3', 'budva', 'cafe', 'North Coffee Shop', 4.9, 'Stefan Mitrov Ljubiša, 85313 Budva, Montenegro', '높은 평점의 부드바 커피숍.', 'Highly rated coffee shop in Budva.', { reviewCount: 658 }),
   place('budva-cafe-4', 'budva', 'cafe', 'Akacia Coffee Budva', 4.7, '36 Blaža Jovanovića, Budva', '많은 리뷰를 받은 부드바의 커피숍.', 'Coffee shop in Budva with a large number of reviews.', { reviewCount: 440 }),
   place('budva-cafe-5', 'budva', 'cafe', 'Peacock Coffee House', 4.8, '54 Mainski put, Budva', '많은 리뷰를 받은 부드바의 커피숍.', 'Coffee shop in Budva with a large number of reviews.', { reviewCount: 404 }),
   place('budva-korean-1', 'budva', 'korean', 'Korean Food Montenegro', 4.1, 'Ulica 13. Jula 4, Budva', '한국 식재료를 직접 공수해 비빔밥·라면·김치 등을 선보이는 부드바의 정통 한식당.', 'Budva\'s authentic Korean kitchen serving bibimbap, ramen, and kimchi with ingredients sourced from Korea.'),
@@ -51,7 +51,7 @@ export const placesMEExtra: Place[] = [
 
   // —— herceg-novi ——
   place('herceg-novi-fine_dining-1', 'herceg-novi', 'fine_dining', 'Konoba Feral', 4.3, 'Vasa Ćukovića 4, Herceg Novi', '30년 넘게 전통 요리를 지켜온 헤르체그노비의 대표 코노바, 신선한 해산물 전문.', 'Herceg Novi\'s go-to konoba, preserving traditional recipes for over 30 years with impeccably fresh seafood.'),
-  place('herceg-novi-fine_dining-2', 'herceg-novi', 'fine_dining', 'Amber restaurant', 4.9, 'Mića Vavića bb, Herceg Novi', '높은 평점의 헤르체그노비 음식점.', 'Highly rated restaurant in Herceg Novi.', { reviewCount: 1167 }),
+  place('herceg-novi-fine_dining-2', 'herceg-novi', 'fine_dining', 'Amber restaurant', 4.9, 'Njegoševa, 85347 Herceg Novi, Montenegro', '높은 평점의 헤르체그노비 음식점.', 'Highly rated restaurant in Herceg Novi.', { reviewCount: 1167 }),
   place('herceg-novi-fine_dining-3', 'herceg-novi', 'fine_dining', 'Tri Lipe', 4.5, 'Stepenište Iva Andrića 28, Herceg Novi', '매우 많은 리뷰를 받은 헤르체그노비의 음식점.', 'Restaurant in Herceg Novi with an exceptionally large number of reviews.', { reviewCount: 2155 }),
   place('herceg-novi-fine_dining-4', 'herceg-novi', 'fine_dining', 'Konoba Kruso Herceg Novi', 4.5, 'Šetalište Pet Danica, Herceg Novi', '많은 리뷰를 받은 헤르체그노비의 지중해 요리 코노바.', 'Mediterranean-cuisine konoba in Herceg Novi with a large number of reviews.', { reviewCount: 1321 }),
   place('herceg-novi-fine_dining-5', 'herceg-novi', 'fine_dining', 'Konoba Kaleta Karaca', 4.9, 'Stari Grad, Herceg Novi', '높은 평점의 헤르체그노비 구시가지 코노바.', 'Highly rated konoba in Herceg Novi\'s Old Town.', { reviewCount: 441 }),

@@ -21,7 +21,7 @@ export const placesBAExtra: Place[] = [
   place('mostar-bakery-1', 'mostar', 'bakery', 'Caffe Slastičarna Aldi 2', 4.5, 'Mostarskog bataljona, Mostar, Bosnia and Herzegovina', '스타리 모스트 다리에서 가까운 모스타르 구시가지의 인기 제과점', 'Popular bakery-café near the Stari Most bridge in Mostar\'s Old Town'),
   place('mostar-bakery-2', 'mostar', 'bakery', 'Pekara Lučki Most', 4.8, 'Maršala Tita, Mostar 88000', '모스타르의 인기 제과점.', 'Popular bakery in Mostar.', { reviewCount: 248 }),
   place('mostar-bakery-3', 'mostar', 'bakery', 'PEKARA stari most', 4.7, 'Maršala Tita 108, Mostar 88000', '모스타르 구시가지 인근 제과점.', 'Bakery near Mostar\'s Old Town.', { reviewCount: 156 }),
-  place('mostar-cafe-1', 'mostar', 'cafe', 'Café de Alma', 4.5, 'Stari Most, Mostar, Bosnia and Herzegovina', '네레트바 강변 스타리 모스트 바로 옆에 위치한 모스타르 최고의 카페', 'Widely regarded as Mostar\'s best café, right by the Stari Most on the Neretva River'),
+  place('mostar-cafe-1', 'mostar', 'cafe', 'Café de Alma', 4.5, 'Rade Bitange, 88000 Mostar, Bosnia and Herzegovina', '네레트바 강변 스타리 모스트 바로 옆에 위치한 모스타르 최고의 카페', 'Widely regarded as Mostar\'s best café, right by the Stari Most on the Neretva River'),
   place('mostar-cafe-2', 'mostar', 'cafe', 'Fabrika Coffee', 4.7, 'Braće Fejića 30, Mostar 88000', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 1438 }),
   place('mostar-cafe-3', 'mostar', 'cafe', 'Caffe bar Tecó', 4.7, 'Stjepana Radića 39, Mostar 88000', '모스타르의 인기 카페.', 'Popular café in Mostar.', { reviewCount: 1048 }),
 
@@ -44,7 +44,7 @@ export const placesBAExtra: Place[] = [
   place('travnik-bakery-1', 'travnik', 'bakery', 'Konak - Bečka Kafana', 4.3, 'Vezirska bb, 72270 Travnik, Bosnia and Herzegovina', '발칸식 카페 겸 베이커리로 트라브니크에서 오랫동안 사랑받아온 곳', 'Long-loved Balkan café and bakery in Travnik'),
   place('travnik-bakery-2', 'travnik', 'bakery', 'Pekara ABA Travnik', 4.5, 'Bosanska 117, Travnik 72270', '트라브니크의 제과점.', 'Bakery in Travnik.', { reviewCount: 132 }),
   place('travnik-bakery-3', 'travnik', 'bakery', 'Royal Cafe & Patisserie', 4.4, 'Travnik 72270, Bosnia and Herzegovina', '카페 겸 제과점.', 'Café and patisserie.', { reviewCount: 598 }),
-  place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 4.4, 'Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Highly rated traditional coffee spot in Travnik'),
+  place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 4.4, 'Šumeće, 72270 Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Highly rated traditional coffee spot in Travnik'),
   place('travnik-cafe-2', 'travnik', 'cafe', 'My Place Café Travnik', 4.6, 'Bosanska 33, Travnik 72270', '트라브니크의 커피 전문점.', 'Coffee shop in Travnik.', { reviewCount: 912 }),
   place('travnik-cafe-3', 'travnik', 'cafe', 'Cafe Vremeplov', 4.8, 'Varoš 10, Travnik 72270', '바로슈 지구의 커피 전문점.', 'Coffee shop in the Varoš quarter.', { reviewCount: 364 }),
 

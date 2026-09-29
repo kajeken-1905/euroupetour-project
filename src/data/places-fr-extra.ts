@@ -3,21 +3,21 @@ import type { Place } from '../types'
 
 export const placesFRExtra: Place[] = [
   // —— paris ——
-  place('paris-fine_dining-1', 'paris', 'fine_dining', 'Arpège', 4.7, 'Paris', '미슐랭 채소 중심 파인 다이닝.', 'Michelin vegetable-focused fine dining.', { reviewCount: 1800, image: '/places/paris-fine_dining-1.jpg' }),
-  place('paris-fine_dining-2', 'paris', 'fine_dining', 'Le Comptoir du Relais', 4.5, 'Paris', '비스트로 클래식.', 'Classic bistro.', { reviewCount: 4200, image: '/places/paris-fine_dining-2.jpg' }),
-  place('paris-fine_dining-3', 'paris', 'fine_dining', 'Septime', 4.6, 'Paris', '모던 프렌치 코스.', 'Modern French tasting.', { reviewCount: 2100 }),
-  place('paris-fine_dining-4', 'paris', 'fine_dining', 'Bouillon Chartier', 4.3, 'Paris', '전통 부용 식당.', 'Historic bouillon canteen.', { reviewCount: 18000, image: '/places/paris-fine_dining-4.jpg' }),
+  place('paris-fine_dining-1', 'paris', 'fine_dining', 'Arpège', 4.7, '84 Rue de Varenne, 75007 Paris, France', '미슐랭 채소 중심 파인 다이닝.', 'Michelin vegetable-focused fine dining.', { reviewCount: 1800, image: '/places/paris-fine_dining-1.jpg' }),
+  place('paris-fine_dining-2', 'paris', 'fine_dining', 'Le Comptoir du Relais', 4.5, "Carrefour de l'Odéon, 75006 Paris, France", '비스트로 클래식.', 'Classic bistro.', { reviewCount: 4200, image: '/places/paris-fine_dining-2.jpg' }),
+  place('paris-fine_dining-3', 'paris', 'fine_dining', 'Septime', 4.6, '80 Rue de Charonne, 75011 Paris, France', '모던 프렌치 코스.', 'Modern French tasting.', { reviewCount: 2100 }),
+  place('paris-fine_dining-4', 'paris', 'fine_dining', 'Bouillon Chartier', 4.3, '7 Rue du Faubourg Montmartre, 75009 Paris, France', '전통 부용 식당.', 'Historic bouillon canteen.', { reviewCount: 18000, image: '/places/paris-fine_dining-4.jpg' }),
   place('paris-fine_dining-5', 'paris', 'fine_dining', 'L\'Ami Jean', 4.5, 'Paris', '바스크 감성 비스트로.', 'Basque-spirited bistro.', { reviewCount: 3200, image: '/places/paris-fine_dining-5.jpg' }),
-  place('paris-bakery-1', 'paris', 'bakery', 'Du Pain et des Idées', 4.6, 'Paris', '유명 사워도우·페이스트리.', 'Famous sourdough and pastries.', { reviewCount: 4800 }),
-  place('paris-bakery-2', 'paris', 'bakery', 'Poilâne', 4.5, 'Paris', '상징적 빵집.', 'Iconic bakery.', { reviewCount: 5600, image: '/places/paris-bakery-2.jpg' }),
-  place('paris-bakery-3', 'paris', 'bakery', 'Stohrer', 4.5, 'Paris', '역사적 파티스리.', 'Historic pâtisserie.', { reviewCount: 3900, image: '/places/paris-bakery-3.jpg' }),
-  place('paris-bakery-4', 'paris', 'bakery', 'Blé Sucré', 4.6, 'Paris', '크루아상·타르트.', 'Croissants and tarts.', { reviewCount: 2800 }),
+  place('paris-bakery-1', 'paris', 'bakery', 'Du Pain et des Idées', 4.6, 'Rue de Marseille, 75010 Paris, France', '유명 사워도우·페이스트리.', 'Famous sourdough and pastries.', { reviewCount: 4800 }),
+  place('paris-bakery-2', 'paris', 'bakery', 'Poilâne', 4.5, '38 Rue Debelleyme, 75003 Paris, France', '상징적 빵집.', 'Iconic bakery.', { reviewCount: 5600, image: '/places/paris-bakery-2.jpg' }),
+  place('paris-bakery-3', 'paris', 'bakery', 'Stohrer', 4.5, '51 Rue Montorgueil, 75002 Paris, France', '역사적 파티스리.', 'Historic pâtisserie.', { reviewCount: 3900, image: '/places/paris-bakery-3.jpg' }),
+  place('paris-bakery-4', 'paris', 'bakery', 'Blé Sucré', 4.6, '7 Rue Antoine Vollon, 75012 Paris, France', '크루아상·타르트.', 'Croissants and tarts.', { reviewCount: 2800 }),
   place('paris-bakery-5', 'paris', 'bakery', 'Boulangerie Utopie', 4.6, '20 Rue Jean-Pierre Timbaud, 75011 Paris, France', '2024년 파리 최고의 바게트로 선정된 11구의 인기 베이커리', "Popular 11th-arrondissement bakery awarded Paris's best baguette in 2024", { reviewCount: 2200 }),
   place('paris-bakery-6', 'paris', 'bakery', 'Ladurée Royale', 4.3, '16 Rue Royale, 75008 Paris, France', '1862년 창업한 마카롱의 대명사, 마들렌 성당 근처의 본점 살롱 드 테', 'The macaron house founded in 1862 — its original tea room near La Madeleine', { image: '/places/paris-bakery-6.jpg' }),
-  place('paris-cafe-1', 'paris', 'cafe', 'Café de Flore', 4.3, 'Paris', '생제르맹 클래식 카페.', 'Classic Saint-Germain café.', { reviewCount: 16000, image: '/places/paris-cafe-1.jpg' }),
-  place('paris-cafe-2', 'paris', 'cafe', 'Beans on Fire', 4.5, 'Paris', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
-  place('paris-cafe-3', 'paris', 'cafe', 'Coutume Café', 4.5, 'Paris', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100, image: '/places/paris-cafe-3.jpg' }),
-  place('paris-cafe-4', 'paris', 'cafe', 'Café Kitsuné', 4.4, 'Paris', '트렌디 카페.', 'Trendy café.', { reviewCount: 2600, image: '/places/paris-cafe-4.jpg' }),
+  place('paris-cafe-1', 'paris', 'cafe', 'Café de Flore', 4.3, 'Rue Saint-Benoît, 75006 Paris, France', '생제르맹 클래식 카페.', 'Classic Saint-Germain café.', { reviewCount: 16000, image: '/places/paris-cafe-1.jpg' }),
+  place('paris-cafe-2', 'paris', 'cafe', 'Beans on Fire', 4.5, 'Route de la Porte Saint-James, 75116 Paris, France', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
+  place('paris-cafe-3', 'paris', 'cafe', 'Coutume Café', 4.5, '47 Rue de Babylone, 75007 Paris, France', '로스터리 카페.', 'Roastery café.', { reviewCount: 2100, image: '/places/paris-cafe-3.jpg' }),
+  place('paris-cafe-4', 'paris', 'cafe', 'Café Kitsuné', 4.4, "Avenue de l'Opéra, 75002 Paris, France", '트렌디 카페.', 'Trendy café.', { reviewCount: 2600, image: '/places/paris-cafe-4.jpg' }),
   place('paris-cafe-5', 'paris', 'cafe', 'Ten Belles', 4.5, '10 Rue de la Grange aux Belles, 75010 Paris, France', '생마르탱 운하 인근의 파리 대표 스페셜티 커피 로스터리', "Landmark Paris specialty coffee roastery near the Canal Saint-Martin", { reviewCount: 1900, image: '/places/paris-cafe-5.jpg' }),
   place('paris-korean-1', 'paris', 'korean', 'La Table de Mee', 4.5, '6 Rue des Ciseaux, 75006 Paris', '미쉐린 빕 구르망 한식당.', 'Michelin Bib Gourmand Korean restaurant.'),
   place('paris-korean-2', 'paris', 'korean', 'Guibine', 4.4, '44 Rue Sainte-Anne, 75002 Paris, France', '생트안 거리의 인기 한식당', 'Popular Korean restaurant on Rue Sainte-Anne', { image: '/places/paris-korean-2.jpg' }),
@@ -48,7 +48,7 @@ export const placesFRExtra: Place[] = [
   place('marseille-fine_dining-5', 'marseille', 'fine_dining', 'Restaurant Péron', 4.3, '56 Corniche Président John Fitzgerald Kennedy, 13007 Marseille', '1885년부터 이어온 마르세유에서 가장 오래된 레스토랑, 해안 전망.', "Marseille's oldest continuously operating restaurant, since 1885, with sweeping coastal views."),
   place('marseille-bakery-1', 'marseille', 'bakery', 'Le Four des Navettes', 4.5, '136 Rue Sainte, 13007 Marseille, France', '1781년부터 이어온 마르세유에서 가장 오래된 베이커리', 'Marseille\'s oldest bakery, operating since 1781'),
   place('marseille-bakery-2', 'marseille', 'bakery', 'Le Bar à Pain MARSEILLE', 3.9, '18 Cours Joseph Thierry, 13001 Marseille', '유기농 밀가루로 만든 빵과 페이스트리로 유명한 베이커리.', 'Bakery known for bread and pastries made with organic flour.', { reviewCount: 2599 }),
-  place('marseille-cafe-1', 'marseille', 'cafe', 'Sylvain Depuichaffray', 4.5, 'Marseille, France', '훌륭한 커피로 정평이 난 마르세유의 인기 카페', 'Popular Marseille café praised for its excellent coffee'),
+  place('marseille-cafe-1', 'marseille', 'cafe', 'Sylvain Depuichaffray', 4.5, '66 Rue Grignan, 13006 Marseille, France', '훌륭한 커피로 정평이 난 마르세유의 인기 카페', 'Popular Marseille café praised for its excellent coffee'),
   place('marseille-cafe-2', 'marseille', 'cafe', 'Torréfaction Noailles', 4.3, '56 la Canebière, 13001 Marseille', '1927년부터 이어온 가족 운영 커피 로스터리.', 'Family-run coffee roastery operating since 1927.', { reviewCount: 179 }),
   place('marseille-korean-1', 'marseille', 'korean', 'Ma.Ma.Co', 4.8, '14 Rue Corneille, 13001 Marseille', '마르세유 오페라 인근의 한식당, 떡볶이·비빔밥·프라이드치킨 등.', 'Korean restaurant near the Marseille Opera serving tteokbokki, bibimbap, fried chicken and more.', { reviewCount: 88 }),
   place('marseille-korean-2', 'marseille', 'korean', 'Busan Castellane', 4.6, '6 Rue du Rouet, 13006 Marseille', '카스텔란 지구의 한국식 바베큐 전문점, 자가제 김치.', 'Korean BBQ specialist in the Castellane district, known for homemade kimchi.', { reviewCount: 650 }),
@@ -164,7 +164,7 @@ export const placesFRExtra: Place[] = [
 
   // —— fontainebleau ——
   place('fontainebleau-bakery-1', 'fontainebleau', 'bakery', 'Frédéric Cassel', 4.4, '71 Rue Grande, 77300 Fontainebleau', '밀푀유와 마카롱으로 유명한 파티시에 매장.', 'Renowned pâtissier known for mille-feuille and macarons.', { image: '/places/fontainebleau-bakery-1.jpg' }),
-  place('fontainebleau-fine_dining-1', 'fontainebleau', 'fine_dining', 'La Petite Ardoise', 4.5, 'Fontainebleau, France', '파리풍 분위기의 합리적인 비스트로.', 'Well-priced bistro with a Parisian feel.'),
+  place('fontainebleau-fine_dining-1', 'fontainebleau', 'fine_dining', 'La Petite Ardoise', 4.5, '16 Rue Montebello, 77300 Fontainebleau, France', '파리풍 분위기의 합리적인 비스트로.', 'Well-priced bistro with a Parisian feel.'),
 
   // —— chartres ——
   place('chartres-fine_dining-1', 'chartres', 'fine_dining', 'Le Georges', 4.7, '22 Place des Épars, 28000 Chartres', '그랑 모나르크 호텔의 미쉐린 스타 레스토랑, 그랑 마르니에 수플레가 명물.', 'Michelin-starred restaurant of the Grand Monarque; famed Grand Marnier soufflé.'),
@@ -185,7 +185,7 @@ export const placesFRExtra: Place[] = [
   place('rouen-cafe-1', 'rouen', 'cafe', 'Dame Cakes', 4.4, '70 Rue Saint-Romain, 76000 Rouen', '대성당 옆 루이 15세풍 찻집.', 'Louis XV-style tearoom beside the cathedral.', { image: '/places/rouen-cafe-1.jpg' }),
 
   // —— honfleur ——
-  place('honfleur-fine_dining-1', 'honfleur', 'fine_dining', 'SaQuaNa', 4.5, 'Honfleur, France', '2스타 셰프의 베이커리 겸 이자카야.', 'Bakery-izakaya from a two-star chef.'),
+  place('honfleur-fine_dining-1', 'honfleur', 'fine_dining', 'SaQuaNa', 4.5, '22 Place Hamelin, 14600 Honfleur, France', '2스타 셰프의 베이커리 겸 이자카야.', 'Bakery-izakaya from a two-star chef.'),
   place('honfleur-fine_dining-2', 'honfleur', 'fine_dining', 'La Fleur de Sel', 4.6, '17 Rue Haute, 14600 Honfleur', '비외 바생 근처의 미쉐린 가이드 레스토랑.', 'Michelin-listed restaurant near the Vieux Bassin.'),
   place('honfleur-fine_dining-3', 'honfleur', 'fine_dining', 'Le Bréard', 4.5, '7 Rue du Puits, 14600 Honfleur', '생트 카트린 광장 근처의 미식 레스토랑.', 'Gourmet restaurant near Place Sainte-Catherine.'),
 
@@ -205,8 +205,8 @@ export const placesFRExtra: Place[] = [
   place('la-rochelle-fine_dining-2', 'la-rochelle', 'fine_dining', 'Bar André', 4.1, '5 Rue Saint-Jean du Pérot, 17000 La Rochelle', '1947년부터 구항구 앞 해산물 레스토랑.', 'Old-port seafood institution since 1947.'),
 
   // —— arcachon ——
-  place('arcachon-fine_dining-1', 'arcachon', 'fine_dining', 'La Cabane du Mimbeau', 4.5, 'Cap Ferret, France', '6대째 굴 양식가가 운영하는 굴 오두막.', 'Oyster shack run by six generations of oyster farmers.'),
-  place('arcachon-fine_dining-2', 'arcachon', 'fine_dining', 'Chez Boulan', 4.4, 'Cap Ferret, France', '수상 경력 굴을 맛보는 캅 페레의 굴 식당.', 'Cap Ferret spot for award-winning oysters.'),
+  place('arcachon-fine_dining-1', 'arcachon', 'fine_dining', 'La Cabane du Mimbeau', 4.5, 'Avenue de la Conche, 33970 Lège-Cap-Ferret, France', '6대째 굴 양식가가 운영하는 굴 오두막.', 'Oyster shack run by six generations of oyster farmers.'),
+  place('arcachon-fine_dining-2', 'arcachon', 'fine_dining', 'Chez Boulan', 4.4, '2 Rue des Palmiers, 33970 Lège-Cap-Ferret, France', '수상 경력 굴을 맛보는 캅 페레의 굴 식당.', 'Cap Ferret spot for award-winning oysters.'),
   place('arcachon-fine_dining-3', 'arcachon', 'fine_dining', 'La Cabane d\'Hortense', 4.3, 'Cap Ferret, France', '필라 사구가 보이는 굴·홍합 오두막.', 'Oysters and mussels facing the Dune du Pilat.'),
 
   // —— biarritz ——
@@ -214,17 +214,17 @@ export const placesFRExtra: Place[] = [
   place('biarritz-fine_dining-1', 'biarritz', 'fine_dining', 'La Belloteka', 4.5, 'Les Halles, 64200 Biarritz', '레알 시장 안의 바스크 요리 식당.', 'Basque dishes in the Les Halles market.'),
 
   // —— ajaccio ——
-  place('ajaccio-fine_dining-1', 'ajaccio', 'fine_dining', 'A Nepita', 4.6, 'Rue San Lazaro, Ajaccio', '코르시카 요리를 현대적으로 내는 아늑한 식당.', 'Cozy spot for modern Corsican cooking.'),
+  place('ajaccio-fine_dining-1', 'ajaccio', 'fine_dining', 'A Nepita', 4.6, '4 Rue San Lazaro, 20000 Ajaccio, France', '코르시카 요리를 현대적으로 내는 아늑한 식당.', 'Cozy spot for modern Corsican cooking.'),
   place('ajaccio-fine_dining-2', 'ajaccio', 'fine_dining', 'A Terrazza (Les Mouettes)', 4.5, 'Cours Lucien Bonaparte, Ajaccio', '아작시오만 전망 테라스의 호텔 레스토랑.', 'Hotel restaurant with a terrace over the bay.'),
   place('ajaccio-fine_dining-3', 'ajaccio', 'fine_dining', 'Rosette et Charlotte', 4.6, 'Ajaccio, France', '제철 재료의 가정식 요리.', 'Seasonal, home-style cooking.'),
 
   // —— bonifacio ——
-  place('bonifacio-fine_dining-1', 'bonifacio', 'fine_dining', 'Da Passano', 4.4, 'Rue du Palais de Garde, Bonifacio', '절벽 위 구시가의 코르시카 요리 레스토랑.', 'Corsican classics in the clifftop old town.'),
-  place('bonifacio-fine_dining-2', 'bonifacio', 'fine_dining', 'Kissing Pigs', 4.4, 'Quai Banda del Ferro, Bonifacio', '자체 농장 돼지로 만든 샤퀴테리 레스토랑.', 'Charcuterie from the owner\'s own farm, by the marina.'),
+  place('bonifacio-fine_dining-1', 'bonifacio', 'fine_dining', 'Da Passano', 4.4, 'Quai Jérome Comparetti, 20169 Bonifacio / Bunifaziu, France', '절벽 위 구시가의 코르시카 요리 레스토랑.', 'Corsican classics in the clifftop old town.'),
+  place('bonifacio-fine_dining-2', 'bonifacio', 'fine_dining', 'Kissing Pigs', 4.4, 'Quai Banda del Ferro, 20169 Bonifacio / Bunifaziu, France', '자체 농장 돼지로 만든 샤퀴테리 레스토랑.', 'Charcuterie from the owner\'s own farm, by the marina.'),
   place('bonifacio-fine_dining-3', 'bonifacio', 'fine_dining', 'L\'A Cheda', 4.6, 'Bonifacio, France', '정원 텃밭 재료를 쓰는 호텔 레스토랑.', 'Hotel restaurant cooking from its own garden.'),
 
   // —— calvi ——
-  place('calvi-fine_dining-1', 'calvi', 'fine_dining', 'Umami', 4.4, 'Quai Adolphe Landry, Calvi', '항구 앞 코르시카 요리 레스토랑.', 'Corsican cooking on the harbour quay.'),
-  place('calvi-fine_dining-2', 'calvi', 'fine_dining', 'A Casetta', 4.5, 'Calvi, France', '바다 전망 테라스의 샤퀴테리·브루스케타.', 'Sea-view terrace for charcuterie boards.'),
-  place('calvi-fine_dining-3', 'calvi', 'fine_dining', 'A Mandria di Pigna', 4.5, 'Pigna, Haute-Corse', '옛 양 우리를 개조한 코르시카 향토 요리 식당(칼비에서 차로 20분).', 'Corsican grill in an old sheepfold, 20 min from Calvi.'),
+  place('calvi-fine_dining-1', 'calvi', 'fine_dining', 'Umami', 4.4, 'Quai Adolphe Landry, 20260 Calvi, France', '항구 앞 코르시카 요리 레스토랑.', 'Corsican cooking on the harbour quay.'),
+  place('calvi-fine_dining-2', 'calvi', 'fine_dining', 'A Casetta', 4.5, 'Strada di Casta, 20246 Santo-Pietro-di-Tenda, France', '바다 전망 테라스의 샤퀴테리·브루스케타.', 'Sea-view terrace for charcuterie boards.'),
+  place('calvi-fine_dining-3', 'calvi', 'fine_dining', 'A Mandria di Pigna', 4.5, 'Strada di a Croce, 20220 Pigna, France', '옛 양 우리를 개조한 코르시카 향토 요리 식당(칼비에서 차로 20분).', 'Corsican grill in an old sheepfold, 20 min from Calvi.'),
 ]

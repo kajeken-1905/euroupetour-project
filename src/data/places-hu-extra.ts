@@ -60,7 +60,7 @@ export const placesHUExtra: Place[] = [
   place('szeged-cafe-1', 'szeged', 'cafe', 'A Cappella Cukrászda', 4.5, 'Kárász utca 6, 6720 Szeged, Hungary', '전통과 현대 케이크를 두루 갖춘 세게드 중심가의 카페', 'Café in central Szeged offering a huge selection of traditional and modern cakes'),
   place('szeged-cafe-2', 'szeged', 'cafe', 'Kék Elefánt Kávézó', 4.9, 'Klauzál tér 5, Szeged', '클라우잘 광장의 인기 카페.', 'Popular café on Klauzál Square.', { reviewCount: 799 }),
   place('szeged-cafe-3', 'szeged', 'cafe', 'Corso Café', 4.6, 'Kárász u. 16, Szeged', '세게드 중심가의 인기 카페.', 'Popular café in central Szeged.', { reviewCount: 1253 }),
-  place('szeged-cafe-4', 'szeged', 'cafe', 'Saint Cafe & Bistro', 4.7, 'Szent István tér, Szeged', '세게드의 카페 겸 비스트로.', 'Café and bistro in Szeged.', { reviewCount: 636 }),
+  place('szeged-cafe-4', 'szeged', 'cafe', 'Saint Cafe & Bistro', 4.7, 'Szent István tér, 6721 Szeged, Hungary', '세게드의 카페 겸 비스트로.', 'Café and bistro in Szeged.', { reviewCount: 636 }),
   place('szeged-cafe-5', 'szeged', 'cafe', 'Hét Kávézó', 4.9, 'Horváth Mihály u. 7, Szeged', '세게드의 인기 커피숍.', 'Popular coffee shop in Szeged.', { reviewCount: 514 }),
   place('szeged-korean-1', 'szeged', 'korean', 'KIM Korean Chicken', 4.5, 'Nagy Jenő u. 4, Szeged', '한국인 셰프가 신선한 재료로 요리하는 한식 패스트푸드 레스토랑.', 'Korean fast-food restaurant with a Korean chef using fresh ingredients.', { reviewCount: 429 }),
 

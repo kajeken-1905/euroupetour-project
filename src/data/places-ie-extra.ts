@@ -38,8 +38,8 @@ export const placesIEExtra: Place[] = [
   place('cork-bakery-1', 'cork', 'bakery', 'Ross Bakery & Café', 4.5, 'Magazine Rd, The Lough, Cork T12 VK61, Ireland', '합리적인 가격에 다양한 빵을 즐길 수 있는 코크의 인기 베이커리', 'Popular Cork bakery known for its delightful atmosphere and reasonable prices'),
   place('cork-bakery-2', 'cork', 'bakery', 'Cameron Bakery', 4.5, '25 Washington Street West, Cork, Ireland', '코크 워싱턴 스트리트의 인기 베이커리.', 'Popular bakery on Washington Street in Cork.', { reviewCount: 738 }),
   place('cork-bakery-3', 'cork', 'bakery', 'Boname Patisserie', 4.7, '92 N Main St, Cork, Ireland', '코크의 프랑스식 파티스리.', 'French-style patisserie in Cork.', { reviewCount: 200 }),
-  place('cork-bakery-4', 'cork', 'bakery', 'The Natural Foods Bakery Blackrock', 4.5, 'Pier Head House, Blackrock, Cork, Ireland', '블랙록에 위치한 코크의 내추럴 베이커리.', 'Natural-foods bakery in the Blackrock area of Cork.', { reviewCount: 617 }),
-  place('cork-cafe-1', 'cork', 'cafe', 'The Grumpy Bakers', 4.5, 'Cork, Ireland', '훌륭한 페이스트리와 커피로 유명한 코크의 아늑한 카페', 'Cozy Cork café known for delectable pastries and heavenly coffee'),
+  place('cork-bakery-4', 'cork', 'bakery', 'The Natural Foods Bakery Blackrock', 4.5, 'Blackrock Road, T12 TY70 Cork, Ireland', '블랙록에 위치한 코크의 내추럴 베이커리.', 'Natural-foods bakery in the Blackrock area of Cork.', { reviewCount: 617 }),
+  place('cork-cafe-1', 'cork', 'cafe', 'The Grumpy Bakers', 4.5, '2 Washington Street, T12 C677 Cork, Ireland', '훌륭한 페이스트리와 커피로 유명한 코크의 아늑한 카페', 'Cozy Cork café known for delectable pastries and heavenly coffee'),
   place('cork-cafe-2', 'cork', 'cafe', 'SOMA Coffee Company', 4.6, '23 Tuckey Street, Cork', '코크 시내 중심의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in central Cork.'),
   place('cork-cafe-3', 'cork', 'cafe', 'Three Fools Coffee', 4.8, 'The Glass Pod, Kiosk 2, Grand Parade, Cork', '그랜드 퍼레이드의 인기 커피숍.', 'Popular coffee kiosk on Grand Parade.', { reviewCount: 1199 }),
 
@@ -52,13 +52,13 @@ export const placesIEExtra: Place[] = [
   place('killarney-bakery-4', 'killarney', 'bakery', 'LUNA', 4.7, '1 Brewery Ln, Kenmare Pl, Killarney, Co. Kerry, Ireland', '케나레 플레이스의 킬라니 베이커리 카페.', 'Bakery café on Kenmare Place in Killarney.', { reviewCount: 345 }),
   place('killarney-cafe-1', 'killarney', 'cafe', 'Reidy\'s Cafe & Bakery', 4.5, 'Killarney, Co. Kerry, Ireland', '숙련된 바리스타의 스페셜티 커피와 매일 구운 페이스트리로 유명한 킬라니의 카페', 'Killarney café known for skilled-barista specialty coffee and daily-baked pastries'),
   place('killarney-cafe-2', 'killarney', 'cafe', 'Curious Cat Café', 4.5, '1 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 인기 커피숍.', 'Popular coffee shop in Killarney.', { reviewCount: 935 }),
-  place('killarney-cafe-3', 'killarney', 'cafe', 'Lir Cafe', 4.6, 'Kenmare Pl, Killarney, Co. Kerry, Ireland', '케나레 플레이스의 킬라니 커피숍.', 'Coffee shop on Kenmare Place in Killarney.', { reviewCount: 719 }),
+  place('killarney-cafe-3', 'killarney', 'cafe', 'Lir Cafe', 4.6, 'Kenmare Place, V93 P962 Killarney, Ireland', '케나레 플레이스의 킬라니 커피숍.', 'Coffee shop on Kenmare Place in Killarney.', { reviewCount: 719 }),
   place('killarney-cafe-4', 'killarney', 'cafe', 'Good Boy Coffee', 4.9, '9 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 인기 커피숍.', 'Popular coffee shop in Killarney.', { reviewCount: 429 }),
   place('killarney-cafe-5', 'killarney', 'cafe', 'Boardwalk Coffee Killarney', 5.0, 'Main St, Killarney, Co. Kerry, Ireland', '킬라니 메인 스트리트의 카페.', 'Café on Main Street in Killarney.', { reviewCount: 152 }),
 
   // —— kilkenny ——
   place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'Campagne', 4.7, '5 Gas House Ln, Kilkenny, R95 X092', '2008년 개업, 2014년부터 미슐랭 1스타를 유지해온 프렌치 레스토랑.', 'French restaurant opened in 2008, holding a Michelin star since 2014.', { reviewCount: 521 }),
-  place('kilkenny-fine_dining-2', 'kilkenny', 'fine_dining', 'Petronella', 4.7, 'Butterslip Lane, Kilkenny', '따뜻하고 세심한 서비스로 호평받는 킬케니 최고의 레스토랑.', "Kilkenny's top-rated restaurant, praised for warm and attentive service."),
+  place('kilkenny-fine_dining-2', 'kilkenny', 'fine_dining', 'Petronella', 4.7, "Saint Kieran's Street, R95 KN80 Cill Chainnigh, Ireland", '따뜻하고 세심한 서비스로 호평받는 킬케니 최고의 레스토랑.', "Kilkenny's top-rated restaurant, praised for warm and attentive service."),
   place('kilkenny-bakery-1', 'kilkenny', 'bakery', 'Arán Artisan Bakery and Bistro', 4.6, '8 Barrack Street, Kilkenny R95 YF30, Ireland', '아일랜드 타임스 선정 최고의 점심 명소에 오른 킬케니의 아르티장 베이커리', 'Kilkenny artisan bakery named among Ireland\'s top lunch spots by the Irish Times'),
   place('kilkenny-bakery-2', 'kilkenny', 'bakery', 'Cakeface', 4.7, '16 Irishtown, Kilkenny, Ireland', '킬케니의 프랑스식 제과점.', 'French-style pastry shop in Kilkenny.', { reviewCount: 727 }),
   place('kilkenny-bakery-3', 'kilkenny', 'bakery', 'The Pantry Patisserie', 4.3, "St Kieran's St, Kilkenny, Ireland", '킬케니의 프랑스식 파티스리.', 'French-style patisserie in Kilkenny.', { reviewCount: 327 }),
