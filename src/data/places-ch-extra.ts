@@ -26,7 +26,7 @@ export const placesCHExtra: Place[] = [
 
   // —— geneva ——
   place('geneva-fine_dining-1', 'geneva', 'fine_dining', 'Domaine de Chateauvieux', 4.6, 'Place du Petit-Saconnex 6, 1209 Genève', '제네바 근교의 미쉐린 레스토랑.', 'Michelin restaurant near Geneva.'),
-  place('geneva-fine_dining-2', 'geneva', 'fine_dining', 'Restaurant Les Armures', 4.6, 'Rue du Soleil-Levant, Genève', '구시가지의 유서 깊은 스위스 요리 레스토랑.', 'Historic Swiss cuisine restaurant in the old town.', { reviewCount: 4081 }),
+  place('geneva-fine_dining-2', 'geneva', 'fine_dining', 'Restaurant Les Armures', 4.6, 'Rue du Puits-Saint-Pierre 1, 1204 Geneva, Switzerland', '구시가지의 유서 깊은 스위스 요리 레스토랑.', 'Historic Swiss cuisine restaurant in the old town.', { reviewCount: 4081 }),
   place('geneva-fine_dining-3', 'geneva', 'fine_dining', 'Auberge de Savièse', 4.6, 'Rue des Pâquis 20, Genève', '파키 지역의 인기 스위스 요리 레스토랑.', 'Popular Swiss cuisine restaurant in the Pâquis district.', { reviewCount: 5335 }),
   place('geneva-fine_dining-4', 'geneva', 'fine_dining', 'Brasserie Lipp', 4.5, 'Confédération Centre, Rue de la Confédération 8, Genève', '제네바 중심가의 프랑스식 브라스리.', 'French brasserie in central Geneva.', { reviewCount: 4350 }),
   place('geneva-fine_dining-5', 'geneva', 'fine_dining', 'Café du Soleil', 4.5, 'Pl. du Petit-Saconnex 6, Genève', '400년 역사를 지닌 친근한 분위기의 스위스 요리 식당.', 'Swiss restaurant with a friendly atmosphere and 400 years of history.', { reviewCount: 3335 }),
@@ -126,7 +126,7 @@ export const placesCHExtra: Place[] = [
   place('lausanne-bakery-4', 'lausanne', 'bakery', 'Boulangerie Grin & Cie', 4.8, 'Rue du Valentin 66, Lausanne', '로잔의 베이커리.', 'Bakery in Lausanne.', { reviewCount: 933 }),
   place('lausanne-cafe-1', 'lausanne', 'cafe', 'Bluebird Café', 4.5, 'Rôtillon, 1003 Lausanne, Switzerland', '로잔 로티용 지구에 위치한 인기 카페', 'Popular café in Lausanne\'s Rôtillon district'),
   place('lausanne-cafe-2', 'lausanne', 'cafe', 'Ça Passe Crème', 4.9, 'Bd de Grancy 49, Lausanne', '로잔의 스페셜티 커피숍.', 'Specialty coffee shop in Lausanne.', { reviewCount: 775 }),
-  place('lausanne-cafe-3', 'lausanne', 'cafe', 'Bold Coffee Club', 4.9, 'Av. d\'Ouchy 16, Lausanne', '우시 지역의 커피숍.', 'Coffee shop in the Ouchy district.', { reviewCount: 465 }),
+  place('lausanne-cafe-3', 'lausanne', 'cafe', 'Bold Coffee Club', 4.9, "Avenue d'Ouchy 16, 1006 Lausanne, Switzerland", '우시 지역의 커피숍.', 'Coffee shop in the Ouchy district.', { reviewCount: 465 }),
   place('lausanne-cafe-4', 'lausanne', 'cafe', 'Bel-Air Coffee', 4.8, 'Rue des Terreaux 6, Lausanne', '로잔의 스페셜티 커피숍.', 'Specialty coffee shop in Lausanne.', { reviewCount: 416 }),
   place('lausanne-korean-1', 'lausanne', 'korean', 'Bibibowl', 4.8, 'Pl. Grand-Saint-Jean 2, Lausanne', '로잔의 한식당.', 'Korean restaurant in Lausanne.', { reviewCount: 292 }),
   place('lausanne-korean-2', 'lausanne', 'korean', 'Sopoong', 4.9, 'Rue Caroline 12, Lausanne', '로잔의 한식당.', 'Korean restaurant in Lausanne.', { reviewCount: 97 }),

@@ -24,7 +24,7 @@ export const placesBGExtra: Place[] = [
   place('plovdiv-bakery-1', 'plovdiv', 'bakery', 'Bakery Art', 4.5, 'Kiril i Metodiy St 16, 4000 Plovdiv, Bulgaria', '플로브디프에서 가장 오래된 빵집 중 하나로 다양한 페이스트리로 유명', 'One of Plovdiv\'s oldest bakeries, known for its wide variety of pastries'),
   place('plovdiv-bakery-2', 'plovdiv', 'bakery', 'Novelli - Specialty Coffee & Bakery', 4.9, 'ul. "Karlovska" 35, Plovdiv 4000', '스페셜티 커피·베이커리.', 'Specialty coffee and bakery.', { reviewCount: 75 }),
   place('plovdiv-bakery-3', 'plovdiv', 'bakery', 'Kapana Bakery', 4.6, 'pl. "Kapana" 6, Plovdiv 4000', '카파나 지구의 베이커리.', 'Bakery in the Kapana District.', { reviewCount: 553 }),
-  place('plovdiv-cafe-1', 'plovdiv', 'cafe', 'El Greco', 4.4, 'Plovdiv, Bulgaria', '플로브디프 중심가의 인기 베이커리 카페', 'Popular bakery café in central Plovdiv'),
+  place('plovdiv-cafe-1', 'plovdiv', 'cafe', 'El Greco', 4.4, 'Antim 1-vi 7, 4000 Plovdiv, Bulgaria', '플로브디프 중심가의 인기 베이커리 카페', 'Popular bakery café in central Plovdiv'),
   place('plovdiv-cafe-2', 'plovdiv', 'cafe', 'Dwell Coffee House', 4.9, 'ul. "Prolet" 2, Plovdiv 4000', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 523 }),
   place('plovdiv-cafe-3', 'plovdiv', 'cafe', 'The Family Coffee Roasters', 4.7, 'ul. "Rayko Daskalov" 54, Plovdiv 4000', '스페셜티 커피 로스터리.', 'Specialty coffee roastery.', { reviewCount: 655 }),
 

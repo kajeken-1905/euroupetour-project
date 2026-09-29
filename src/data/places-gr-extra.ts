@@ -15,7 +15,7 @@ export const placesGRExtra: Place[] = [
   place('athens-cafe-1', 'athens', 'cafe', 'Tailor Made Coffee Roasters', 4.5, 'Agias Eirinis Square, Athens', '모나스티라키 인근의 스페셜티 커피 로스터리.', 'Specialty coffee roastery near Monastiraki.'),
   place('athens-cafe-2', 'athens', 'cafe', 'TAF Coffee', 4.6, '7 Emmanouil Benaki, Exarchia, Athens', '2009년 문을 연 아테네 최초의 스페셜티 커피숍.', "Athens' first specialty coffee shop, opened in 2009.", { reviewCount: 149 }),
   place('athens-cafe-3', 'athens', 'cafe', 'Café Avissinia', 4.2, '7 Kynetou, Monastiraki, Athens 105 55', '아크로폴리스 전망의 루프탑 테라스로 유명한 모나스티라키의 카페.', "Monastiraki café known for its rooftop terrace with Acropolis views."),
-  place('athens-cafe-4', 'athens', 'cafe', 'Little Tree Books & Coffee', 4.7, 'behind the Acropolis Museum, Athens', '아크로폴리스 박물관 뒤편의 아늑한 북카페.', 'Cozy book café located behind the Acropolis Museum.', { reviewCount: 395 }),
+  place('athens-cafe-4', 'athens', 'cafe', 'Little Tree Books & Coffee', 4.7, 'Καβαλλότι 2, 117 42 Athens, Greece', '아크로폴리스 박물관 뒤편의 아늑한 북카페.', 'Cozy book café located behind the Acropolis Museum.', { reviewCount: 395 }),
   place('athens-korean-1', 'athens', 'korean', 'Dosirak', 4.4, '33 Voulis, Syntagma, Athens', '신타그마의 일식·한식 레스토랑.', 'Japanese-Korean restaurant in Syntagma.'),
   place('athens-korean-2', 'athens', 'korean', 'Seoul House', 4.0, 'Zisimopoulou 40, Palaio Faliro, Athens 17564', '팔레오 팔리로의 한식당, 한국식 바베큐로 유명.', 'Korean restaurant in Palaio Faliro, known for its Korean barbecue.', { reviewCount: 601 }),
 

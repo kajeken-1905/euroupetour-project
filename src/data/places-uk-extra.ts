@@ -81,7 +81,7 @@ export const placesUKExtra: Place[] = [
   place('cambridge-bakery-3', 'cambridge', 'bakery', 'Bramasole bakery café', 4.4, 'Cambridge', '페이스트리·커피.', 'Pastries and coffee.', { reviewCount: 540 }),
   place('cambridge-bakery-4', 'cambridge', 'bakery', 'Gail’s Cambridge', 4.3, 'Cambridge', '체인 베이커리.', 'Bakery chain.', { reviewCount: 1200 }),
   place('cambridge-bakery-5', 'cambridge', 'bakery', 'Bread & Meat bakery snacks', 4.4, 'Cambridge', '샌드위치·브레드.', 'Sandwiches and breads.', { reviewCount: 900 }),
-  place('cambridge-cafe-1', 'cambridge', 'cafe', 'Hot Numbers Coffee', 4.6, 'Cambridge', '로스터리 카페.', 'Roastery café.', { reviewCount: 1600 }),
+  place('cambridge-cafe-1', 'cambridge', 'cafe', 'Hot Numbers Coffee', 4.6, '4 Trumpington Street, CB2 1QA Cambridge, United Kingdom', '로스터리 카페.', 'Roastery café.', { reviewCount: 1600 }),
   place('cambridge-cafe-2', 'cambridge', 'cafe', 'Bould Brothers Coffee', 4.7, '16 Round Church St, Cambridge CB5 8AD, UK', '케임브리지 최고 인기 스페셜티 커피숍.', 'One of Cambridge\'s most popular specialty coffee shops.', { reviewCount: 1226 }),
   place('cambridge-cafe-3', 'cambridge', 'cafe', 'Espresso Library', 4.5, '210 East Road, CB1 1BG Cambridge, United Kingdom', '스페셜티·브런치.', 'Specialty and brunch.', { reviewCount: 1400 }),
   place('cambridge-cafe-4', 'cambridge', 'cafe', 'Urban Larder', 4.4, '9 The Broadway, CB1 3AH Cambridge, United Kingdom', '캐주얼 카페.', 'Casual café.', { reviewCount: 720 }),
@@ -95,7 +95,7 @@ export const placesUKExtra: Place[] = [
   place('liverpool-fine_dining-5', 'liverpool', 'fine_dining', 'Belzan', 4.5, 'Liverpool', '남부 리버풀 핫플.', 'South Liverpool hotspot.', { reviewCount: 980 }),
   place('liverpool-bakery-1', 'liverpool', 'bakery', 'Rough Handmade', 4.7, 'Britannia Pavilion, Royal Albert Dock, Liverpool L3 4AD, UK', '로열 알버트 독의 인기 베이커리, 크루아상으로 유명.', 'Popular bakery at the Royal Albert Dock, known for its croissants.', { reviewCount: 1476 }),
   place('liverpool-bakery-2', 'liverpool', 'bakery', 'Puro Liverpool bakery', 4.4, 'Liverpool', '브레드·커피.', 'Bread and coffee.', { reviewCount: 720 }),
-  place('liverpool-bakery-3', 'liverpool', 'bakery', 'The Baltic Bakehouse', 4.6, 'Liverpool', '사워도우 유명.', 'Known for sourdough.', { reviewCount: 1400 }),
+  place('liverpool-bakery-3', 'liverpool', 'bakery', 'The Baltic Bakehouse', 4.6, '46 Bridgewater Street, L1 0AY Liverpool, United Kingdom', '사워도우 유명.', 'Known for sourdough.', { reviewCount: 1400 }),
   place('liverpool-bakery-4', 'liverpool', 'bakery', 'Homebaked Anfield', 4.5, 'Liverpool', '커뮤니티 베이커리.', 'Community bakery.', { reviewCount: 1100 }),
   place('liverpool-bakery-5', 'liverpool', 'bakery', 'Gail’s / centre bakeries', 4.2, 'Liverpool', '센터 베이커리.', 'Centre bakeries.', { reviewCount: 800 }),
   place('liverpool-cafe-1', 'liverpool', 'cafe', 'Bold Street Coffee', 4.6, '89 Bold Street, L1 4HF Liverpool, United Kingdom', '볼드스트리트 스페셜티.', 'Bold Street specialty.', { reviewCount: 1800 }),
@@ -122,21 +122,21 @@ export const placesUKExtra: Place[] = [
   place('brighton-cafe-5', 'brighton', 'cafe', 'Fondant Frosting café', 4.3, 'Brighton', '디저트 카페.', 'Dessert café.', { reviewCount: 980 }),
 
   // —— york ——
-  place('york-fine_dining-1', 'york', 'fine_dining', 'The Star Inn the City', 4.5, 'York', '강변 모던 브리티시.', 'Riverside modern British.', { reviewCount: 1600 }),
+  place('york-fine_dining-1', 'york', 'fine_dining', 'The Star Inn the City', 4.5, 'Museum Street, YO1 7DR York, United Kingdom', '강변 모던 브리티시.', 'Riverside modern British.', { reviewCount: 1600 }),
   place('york-fine_dining-2', 'york', 'fine_dining', 'Roots', 4.6, 'Marygate, YO30 7BH York, United Kingdom', '톰슨의 시즌 다이닝.', 'Seasonal dining from Tommy Banks team.', { reviewCount: 860 }),
   place('york-fine_dining-3', 'york', 'fine_dining', 'Skosh', 4.6, '98 Micklegate, YO1 6JX York, United Kingdom', '스몰플레이트 창의 요리.', 'Creative small plates.', { reviewCount: 980 }),
   place('york-fine_dining-4', 'york', 'fine_dining', 'The Path', 4.5, "The Queen's Path, YO1 7JD York, United Kingdom", '모던 테이스팅.', 'Modern tasting menus.', { reviewCount: 520 }),
   place('york-fine_dining-5', 'york', 'fine_dining', 'Melton’s', 4.4, 'York', '로컬 클래식.', 'Local classic.', { reviewCount: 720 }),
-  place('york-bakery-1', 'york', 'bakery', 'Spring Espresso bakery', 4.5, 'York', '베이크·커피.', 'Bakes and coffee.', { reviewCount: 1200 }),
+  place('york-bakery-1', 'york', 'bakery', 'Spring Espresso bakery', 4.5, '21 Lendal, YO1 8AQ York, United Kingdom', '베이크·커피.', 'Bakes and coffee.', { reviewCount: 1200 }),
   place('york-bakery-2', 'york', 'bakery', 'Birdhouse Bakery', 4.5, 'York', '페이스트리.', 'Pastries.', { reviewCount: 680 }),
   place('york-bakery-3', 'york', 'bakery', 'Haxby Bakehouse', 4.6, 'Ryedale Court, YO32 3SA Haxby, United Kingdom', '사워도우 유명.', 'Known for sourdough.', { reviewCount: 1100 }),
   place('york-bakery-4', 'york', 'bakery', 'Brew & Brownie bakery side', 4.4, 'York', '브런치 베이크.', 'Brunch bakes.', { reviewCount: 1400 }),
-  place('york-bakery-5', 'york', 'bakery', 'Bettys Café Tea Rooms bakery', 4.5, 'York', '요크셔 티룸 베이크.', 'Yorkshire tearoom bakes.', { reviewCount: 8500 }),
+  place('york-bakery-5', 'york', 'bakery', 'Bettys Café Tea Rooms bakery', 4.5, "6-8 St Helen's Square, YO1 8QP York, United Kingdom", '요크셔 티룸 베이크.', 'Yorkshire tearoom bakes.', { reviewCount: 8500 }),
   place('york-cafe-1', 'york', 'cafe', 'Spring Espresso', 4.6, '21 Lendal, YO1 8AQ York, United Kingdom', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1600 }),
   place('york-cafe-2', 'york', 'cafe', 'Brew & Brownie', 4.5, '5 Museum Street, YO1 7DT York, United Kingdom', '브런치 카페.', 'Brunch café.', { reviewCount: 2100 }),
   place('york-cafe-3', 'york', 'cafe', 'Bettys', 4.5, '1 Parliament Street, HG1 2QU Harrogate, United Kingdom', '전설적 티룸.', 'Legendary tearoom.', { reviewCount: 12000 }),
   place('york-cafe-4', 'york', 'cafe', 'Partisan', 4.5, '112 Micklegate, YO1 6JX York, United Kingdom', '모던 카페.', 'Modern café.', { reviewCount: 980 }),
-  place('york-cafe-5', 'york', 'cafe', 'Perky Peacock', 4.4, 'York', '탑 게이트 카페.', 'Tower gateway café.', { reviewCount: 1500 }),
+  place('york-cafe-5', 'york', 'cafe', 'Perky Peacock', 4.4, '3-5 Tanner Row, YO1 6HU York, United Kingdom', '탑 게이트 카페.', 'Tower gateway café.', { reviewCount: 1500 }),
 
   // —— bristol ——
   place('bristol-fine_dining-1', 'bristol', 'fine_dining', 'Bulrush', 4.6, '21 Cotham Road South, BS6 5TZ Bristol, United Kingdom', '미슐랭 모던 브리티시.', 'Michelin modern British.', { reviewCount: 860 }),
@@ -145,13 +145,13 @@ export const placesUKExtra: Place[] = [
   place('bristol-fine_dining-4', 'bristol', 'fine_dining', 'Casamia', 4.7, 'Bristol', '창의 미슐랭 다이닝.', 'Creative Michelin dining.', { reviewCount: 980 }),
   place('bristol-fine_dining-5', 'bristol', 'fine_dining', 'Birch', 4.5, 'Herbert Street, BS5 9BL Bristol, United Kingdom', '내추럴 와인·스몰플레이트.', 'Natural wine and small plates.', { reviewCount: 640 }),
   place('bristol-bakery-1', 'bristol', 'bakery', 'Hart’s Bakery', 4.7, 'Bristol', '역 앞 전설 베이커리.', 'Legendary bakery by the station.', { reviewCount: 2800 }),
-  place('bristol-bakery-2', 'bristol', 'bakery', 'Better Food bakery', 4.4, 'Bristol', '유기농 베이크.', 'Organic bakes.', { reviewCount: 900 }),
+  place('bristol-bakery-2', 'bristol', 'bakery', 'Better Food bakery', 4.4, 'Gaol Ferry Steps, BS1 6WE Bristol, United Kingdom', '유기농 베이크.', 'Organic bakes.', { reviewCount: 900 }),
   place('bristol-bakery-3', 'bristol', 'bakery', 'The Bristol Loaf', 4.5, '94-96 Bedminster Parade, BS3 4HL Bristol, United Kingdom', '사워도우.', 'Sourdough.', { reviewCount: 760 }),
   place('bristol-bakery-4', 'bristol', 'bakery', 'Cocolicious', 4.4, 'Bristol', '페이스트리·케이크.', 'Pastries and cakes.', { reviewCount: 680 }),
   place('bristol-bakery-5', 'bristol', 'bakery', 'Flour & Green', 4.4, 'Bristol', '비건 베이크.', 'Vegan bakes.', { reviewCount: 820 }),
   place('bristol-cafe-1', 'bristol', 'cafe', 'Full Court Press', 4.6, '59 Broad Street, BS1 2EJ Bristol, United Kingdom', '스페셜티 성지.', 'Specialty coffee landmark.', { reviewCount: 1600 }),
   place('bristol-cafe-2', 'bristol', 'cafe', 'Tradewind Espresso', 4.5, 'Bristol', '에스프레소 바.', 'Espresso bar.', { reviewCount: 980 }),
-  place('bristol-cafe-3', 'bristol', 'cafe', 'Small Street Espresso', 4.5, 'Bristol', '작은 커피 바.', 'Tiny coffee bar.', { reviewCount: 1200 }),
+  place('bristol-cafe-3', 'bristol', 'cafe', 'Small Street Espresso', 4.5, '23 Small Street, BS1 1DW Bristol, United Kingdom', '작은 커피 바.', 'Tiny coffee bar.', { reviewCount: 1200 }),
   place('bristol-cafe-4', 'bristol', 'cafe', 'Friska', 4.3, 'Bristol', '헬시 카페.', 'Healthy café.', { reviewCount: 1400 }),
   place('bristol-cafe-5', 'bristol', 'cafe', 'Boston Tea Party Bristol', 4.3, '4 Whiteladies Road, BS8 2QY Bristol, United Kingdom', '브런치.', 'Brunch.', { reviewCount: 2100 }),
 
@@ -234,7 +234,7 @@ export const placesUKExtra: Place[] = [
 
   // —— tenby ——
   place('tenby-fine_dining-1', 'tenby', 'fine_dining', 'Plantagenet House', 4.4, 'Quay Hill, Tenby SA70 7BX', '텐비에서 가장 오래된 건물 속 레스토랑.', 'Restaurant in Tenby\'s oldest building.'),
-  place('tenby-fine_dining-2', 'tenby', 'fine_dining', 'D. Fecci and Sons', 4.5, 'Lower Frog Street, Tenby, UK', '1935년부터 이어온 피시 앤 칩스.', 'Fish and chips since 1935.'),
+  place('tenby-fine_dining-2', 'tenby', 'fine_dining', 'D. Fecci and Sons', 4.5, 'Lower Frog Street, SA70 7HT Tenby, United Kingdom', '1935년부터 이어온 피시 앤 칩스.', 'Fish and chips since 1935.'),
   place('tenby-bakery-1', 'tenby', 'bakery', 'The Original Fecci\'s Ice Cream Parlour', 4.5, 'Tenby, UK', '1919년부터 이어온 텐비의 아이스크림 가게.', 'Tenby\'s ice-cream institution since 1919.'),
 
   // —— belfast ——

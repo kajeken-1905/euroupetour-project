@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesPTExtra: Place[] = [
   // —— lisbon ——
   place('lisbon-fine_dining-1', 'lisbon', 'fine_dining', 'Belcanto', 4.7, 'Rua Serpa Pinto 10A, 1200-410 Lisbon, Portugal', '미슐랭 포르투갈 코스.', 'Michelin Portuguese tasting.', { reviewCount: 1600 }),
-  place('lisbon-fine_dining-2', 'lisbon', 'fine_dining', 'Time Out Market stalls', 4.5, 'Lisbon', '미식 푸드홀.', 'Gourmet food hall.', { reviewCount: 18000, image: '/places/lisbon-fine_dining-2.jpg' }),
+  place('lisbon-fine_dining-2', 'lisbon', 'fine_dining', 'Time Out Market stalls', 4.5, 'Praça D. Luís I 49, 1200-479 Lisbon, Portugal', '미식 푸드홀.', 'Gourmet food hall.', { reviewCount: 18000, image: '/places/lisbon-fine_dining-2.jpg' }),
   place('lisbon-fine_dining-3', 'lisbon', 'fine_dining', 'Cervejaria Ramiro', 4.6, 'Avenida Almirante Reis 104, 1169-199 Lisbon, Portugal', '해산물 클래식.', 'Seafood classic.', { reviewCount: 12000, image: '/places/lisbon-fine_dining-3.jpg' }),
   place('lisbon-fine_dining-4', 'lisbon', 'fine_dining', 'A Cevicheria', 4.5, 'Rua Dom Pedro V, 1250-184 Lisbon, Portugal', '세비체·창의 다이닝.', 'Ceviche and creative dining.', { reviewCount: 4200, image: '/places/lisbon-fine_dining-4.jpg' }),
   place('lisbon-fine_dining-5', 'lisbon', 'fine_dining', 'Prado', 4.5, 'Travessa das Pedras Negras 2, 1100-404 Lisbon, Portugal', '시즌 로컬 다이닝.', 'Seasonal local dining.', { reviewCount: 1800 }),
