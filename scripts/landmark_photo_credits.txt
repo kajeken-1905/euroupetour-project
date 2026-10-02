@@ -429,6 +429,13 @@ places/hel-cf-2.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Regatta_in_He
 places/hel-cf-4.jpg | https://www.flickr.com/photos/47402349@N00/2075777 | BY-SA 2.0 | eirikso
 places/hel-cf-5.jpg | https://commons.wikimedia.org/wiki/File:Pasta_Bolognese_at_La_Torrefazione.jpg | CC BY-SA 4.0 | JIP
 
+# Finland place photos
+places/turku-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Pinellan_terassi_2018.jpg | CC BY-SA 4.0 | Vilho Verkkotoimitus
+places/tampere-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Tampere_-_Tiiliholvi.jpg | CC BY-SA 3.0 | Tiia Monto
+places/tampere-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Konditoria_Mari_2017.jpg | CC BY 2.0 | Vapriikin kuva-arkisto
+places/rovaniemi-fine_dining-2.jpg | https://www.flickr.com/photos/126293612@N07/52073665129 | PDM 1.0 | dickinsonjohn02
+places/rovaniemi-fine_dining-3.jpg | https://www.flickr.com/photos/11724697@N00/28246895786 | BY-SA 2.0 | Sami Keinänen
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
