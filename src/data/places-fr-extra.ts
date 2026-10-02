@@ -220,7 +220,7 @@ export const placesFRExtra: Place[] = [
 
   // —— bonifacio ——
   place('bonifacio-fine_dining-1', 'bonifacio', 'fine_dining', 'Da Passano', 4.4, 'Quai Jérome Comparetti, 20169 Bonifacio / Bunifaziu, France', '절벽 위 구시가의 코르시카 요리 레스토랑.', 'Corsican classics in the clifftop old town.'),
-  place('bonifacio-fine_dining-2', 'bonifacio', 'fine_dining', 'Kissing Pigs', 4.4, 'Quai Banda del Ferro, 20169 Bonifacio / Bunifaziu, France', '자체 농장 돼지로 만든 샤퀴테리 레스토랑.', 'Charcuterie from the owner\'s own farm, by the marina.'),
+  place('bonifacio-fine_dining-2', 'bonifacio', 'fine_dining', 'Kissing Pigs', 4.4, 'Quai Banda del Ferro, 20169 Bonifacio / Bunifaziu, France', '자체 농장 돼지로 만든 샤퀴테리 레스토랑.', 'Charcuterie from the owner\'s own farm, by the marina.', { image: '/places/bonifacio-fine_dining-2.jpg' }),
   place('bonifacio-fine_dining-3', 'bonifacio', 'fine_dining', 'L\'A Cheda', 4.6, 'Bonifacio, France', '정원 텃밭 재료를 쓰는 호텔 레스토랑.', 'Hotel restaurant cooking from its own garden.'),
 
   // —— calvi ——

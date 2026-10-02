@@ -218,6 +218,15 @@ places/conwy-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Erskine
 places/derry-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Walled_City_Brewery,_Ebrington_Square,_Derry_-_geograph.org.uk_-_5501243.jpg | CC BY-SA 2.0 | Robert Eva
 places/derry-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Pyke_%27n%27_Pommes,_Derry_-_Londonderry_-_geograph.org.uk_-_7963228.jpg | CC BY-SA 2.0 | Kenneth  Allen
 
+# Ireland & Corsica place photos
+places/dublin-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Chapter_One_sign.jpg | CC BY-SA 2.0 | William Murphy
+places/dublin-fine_dining-4.jpg | https://www.flickr.com/photos/7503705@N07/8704032125 | BY-SA 2.0 | Kristian Lindqvist
+places/dublin-fine_dining-5.jpg | https://www.flickr.com/photos/68893306@N00/6004163842 | BY 2.0 | lisa_h
+places/dublin-bakery-1.jpg | https://www.flickr.com/photos/80824546@N00/31680656367 | BY-SA 2.0 | infomatique
+places/dublin-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:At_Bewley%27s_Cafe_in_Dublin_03.JPG | CC BY-SA 3.0 | BKP
+places/dublin-korean-1.jpg | https://www.flickr.com/photos/80824546@N00/37948183304 | BY-SA 2.0 | infomatique
+places/bonifacio-fine_dining-2.jpg | https://www.flickr.com/photos/7815453@N05/5790718813 | BY-SA 2.0 | paspog
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
