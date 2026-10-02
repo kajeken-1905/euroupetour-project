@@ -3,14 +3,14 @@ import type { Place } from '../types'
 
 export const placesDKExtra: Place[] = [
   // —— aarhus ——
-  place('aarhus-fine_dining-1', 'aarhus', 'fine_dining', 'Domestic', 4.7, 'Mejlgade 35B, 8000 Aarhus C', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 786 }),
-  place('aarhus-fine_dining-2', 'aarhus', 'fine_dining', 'Frederikshøj', 4.9, 'Oddervej 19-21, 8000 Aarhus C', '미슐랭 2스타.', 'Two-Michelin-star dining.', { reviewCount: 1061 }),
-  place('aarhus-fine_dining-3', 'aarhus', 'fine_dining', 'Substans', 4.9, 'Marianne Thomsens Gade 2F, 8000 Aarhus C', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 509 }),
-  place('aarhus-fine_dining-4', 'aarhus', 'fine_dining', 'Gastromé', 4.7, 'Grenåvej 127, 8200 Aarhus N', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 197 }),
+  place('aarhus-fine_dining-1', 'aarhus', 'fine_dining', 'Domestic', 4.7, 'Mejlgade 35B, 8000 Aarhus C', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 786, image: '/places/aarhus-fine_dining-1.jpg' }),
+  place('aarhus-fine_dining-2', 'aarhus', 'fine_dining', 'Frederikshøj', 4.9, 'Oddervej 19-21, 8000 Aarhus C', '미슐랭 2스타.', 'Two-Michelin-star dining.', { reviewCount: 1061, image: '/places/aarhus-fine_dining-2.jpg' }),
+  place('aarhus-fine_dining-3', 'aarhus', 'fine_dining', 'Substans', 4.9, 'Marianne Thomsens Gade 2F, 8000 Aarhus C', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 509, image: '/places/aarhus-fine_dining-3.jpg' }),
+  place('aarhus-fine_dining-4', 'aarhus', 'fine_dining', 'Gastromé', 4.7, 'Grenåvej 127, 8200 Aarhus N', '미슐랭 다이닝.', 'Michelin dining.', { reviewCount: 197, image: '/places/aarhus-fine_dining-4.jpg' }),
   place('aarhus-fine_dining-5', 'aarhus', 'fine_dining', 'Restaurant Malt', 4.2, 'Ceresbyen 63C, 8000 Aarhus C', '옛 세레스 양조장의 로컬 인기 레스토랑.', 'Local favorite in the old Ceres brewery.', { reviewCount: 3041 }),
   place('aarhus-bakery-1', 'aarhus', 'bakery', 'Lagkagehuset Aarhus', 4.5, 'M. P. Bruuns Gade 34, 8000 Aarhus C', '베이커리 체인.', 'Bakery chain.', { reviewCount: 994 }),
   place('aarhus-bakery-2', 'aarhus', 'bakery', 'La Cabra Bakery', 4.7, 'Borggade 4F, 8000 Aarhus C', '라틴쿼터 사워도우 베이커리.', 'Sourdough bakery in the Latin Quarter.', { reviewCount: 187 }),
-  place('aarhus-bakery-3', 'aarhus', 'bakery', 'DavidBreadHead', 4.5, 'Ny Munkegade 4B, 8000 Aarhus C', '사워도우 마이크로 베이커리.', 'Sourdough micro-bakery.', { reviewCount: 349 }),
+  place('aarhus-bakery-3', 'aarhus', 'bakery', 'DavidBreadHead', 4.5, 'Ny Munkegade 4B, 8000 Aarhus C', '사워도우 마이크로 베이커리.', 'Sourdough micro-bakery.', { reviewCount: 349, image: '/places/aarhus-bakery-3.jpg' }),
   place('aarhus-bakery-4', 'aarhus', 'bakery', 'Strandvejens Bageri', 4.7, 'Nordre Strandvej 11A, 8240 Risskov', '해안가 베이커리.', 'Seaside bakery in Risskov.', { reviewCount: 10 }),
   place('aarhus-cafe-1', 'aarhus', 'cafe', 'La Cabra Coffee', 4.4, 'Graven 20, 8000 Aarhus C', '스페셜티 로스터리.', 'Specialty coffee roastery.', { reviewCount: 121 }),
   place('aarhus-cafe-2', 'aarhus', 'cafe', 'Café Faust', 4.3, 'Åboulevarden 38, 8000 Aarhus C', '클래식 브런치 카페.', 'Classic brunch café.', { reviewCount: 489 }),
@@ -23,12 +23,12 @@ export const placesDKExtra: Place[] = [
   place('odense-fine_dining-1', 'odense', 'fine_dining', 'Under Lindetræet', 4.5, 'Ramsherred 2, 5000 Odense C', '1771년 건물의 고급 다이닝.', 'Fine dining in an 1771 building.', { reviewCount: 858 }),
   place('odense-fine_dining-2', 'odense', 'fine_dining', 'ARO', 4.9, 'Østerbro 32, 5000 Odense C', '미슐랭 1스타.', 'One-Michelin-star dining.', { reviewCount: 397 }),
   place('odense-fine_dining-3', 'odense', 'fine_dining', 'Pasfall', 4.8, 'Brandts Passage 31, 5000 Odense C', '모던 데니시 다이닝.', 'Modern Danish dining.', { reviewCount: 526 }),
-  place('odense-fine_dining-4', 'odense', 'fine_dining', 'Den Gamle Kro', 4.4, 'Overgade 23, 5000 Odense C', '전통 덴마크 요리.', 'Traditional Danish cuisine.', { reviewCount: 1126 }),
+  place('odense-fine_dining-4', 'odense', 'fine_dining', 'Den Gamle Kro', 4.4, 'Overgade 23, 5000 Odense C', '전통 덴마크 요리.', 'Traditional Danish cuisine.', { reviewCount: 1126, image: '/places/odense-fine_dining-4.jpg' }),
   place('odense-bakery-1', 'odense', 'bakery', 'Baker Boys', 4.5, 'Edisonsvej 27, 5000 Odense C', '모던 아티산 베이커리.', 'Modern artisan bakery.', { reviewCount: 113 }),
   place('odense-bakery-2', 'odense', 'bakery', 'Smörbagt', 4.5, 'Vestergade 44, 5000 Odense C', '사워도우와 크루아상.', 'Sourdough and croissants.', {}),
   place('odense-cafe-1', 'odense', 'cafe', 'Café Sølle', 4.8, 'Nedergade 18, 5000 Odense C', '스페셜티 커피와 내추럴 와인.', 'Specialty coffee and natural wine.', { reviewCount: 188 }),
-  place('odense-cafe-2', 'odense', 'cafe', 'Café Biografen', 4.3, 'Brandts Passage 41, 5000 Odense C', '시네마 카페.', 'Cinema café.', { reviewCount: 380 }),
-  place('odense-cafe-3', 'odense', 'cafe', "Nelle's Coffee & Wine", 4.4, 'Overgade 21B, 5000 Odense C', '올드타운 커피 & 와인바.', 'Old Town coffee and wine bar.', { reviewCount: 197 }),
+  place('odense-cafe-2', 'odense', 'cafe', 'Café Biografen', 4.3, 'Brandts Passage 41, 5000 Odense C', '시네마 카페.', 'Cinema café.', { reviewCount: 380, image: '/places/odense-cafe-2.jpg' }),
+  place('odense-cafe-3', 'odense', 'cafe', "Nelle's Coffee & Wine", 4.4, 'Overgade 21B, 5000 Odense C', '올드타운 커피 & 와인바.', 'Old Town coffee and wine bar.', { reviewCount: 197, image: '/places/odense-cafe-3.jpg' }),
   place('odense-korean-1', 'odense', 'korean', 'Sitta Korean BBQ', 3.7, 'Kongensgade 41, 5000 Odense C', '한국식 그릴셀프 BBQ.', 'Korean grill-it-yourself BBQ.', {}),
 
   // —— aalborg ——

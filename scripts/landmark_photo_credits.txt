@@ -355,6 +355,16 @@ places/cascais-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Forta
 places/funchal-fine_dining-1.jpg | https://www.flickr.com/photos/24001499@N03/4624015086 | BY 2.0 | PortoBay Trade
 places/funchal-fine_dining-2.jpg | https://www.flickr.com/photos/94611718@N00/6466754459 | BY-SA 2.0 | andynash
 
+# Denmark place photos
+places/aarhus-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Domestic_entrance,_Denmark_(2016-03-19).jpg | CC BY-SA 4.0 | RhinoMind
+places/aarhus-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Frederiksh%C3%B8j_Kro.jpg | CC BY-SA 4.0 | RhinoMind
+places/aarhus-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Substans.jpg | CC BY-SA 4.0 | RhinoMind
+places/aarhus-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Gastrom%C3%A9.jpg | CC BY-SA 4.0 | RhinoMind
+places/aarhus-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:DavidBreadHead_(J._M._M%C3%B8rks_Gade)_01.jpg | CC BY-SA 4.0 | RhinoMind
+places/odense-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Den_Gamle_Kro,_Odense.jpg | CC BY-SA 4.0 | Toxophilus
+places/odense-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Odense-Cafebiografen.jpg | CC BY-SA 3.0 | Kåre Thor Olsen
+places/odense-cafe-3.jpg | https://www.flickr.com/photos/75796607@N00/52669163614 | BY 2.0 | westher
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
