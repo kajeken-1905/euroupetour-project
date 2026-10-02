@@ -341,6 +341,20 @@ places/bilbao-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:%EB%B9
 places/bilbao-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Roscones_de_Reyes_en_la_Pasteler%C3%ADa_Arrese_(Gran_V%C3%ADa_n%C2%BA_24).jpg | CC0 | Zarateman
 places/san-sebastian-fine_dining-1.jpg | https://www.flickr.com/photos/27454212@N00/9665011477 | BY-SA 2.0 | Kent Wang
 
+# Portugal place photos
+places/porto-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Confeitaria_do_Bolh%C3%A3o.jpg | CC BY 2.0 | Jorge Franganillo
+places/braga-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:A_Brasileira_(Braga_3).JPG | CC BY-SA 3.0 | Béria Lima de Rodríguez
+places/aveiro-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Maias_confeitaria_peixinho.jpg | CC BY-SA 4.0 | Luísa Paulos
+places/coimbra-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Pastelaria_Penta,_Coimbra.jpg | CC BY-SA 4.0 | Joehawkins
+places/coimbra-cafe-1.jpg | https://www.flickr.com/photos/21446942@N00/16032215987 | BY-SA 2.0 | Portuguese_eyes
+places/lisbon-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:F%C3%A1brica_da_Nata_-_Past%C3%A9is_de_Nata_(50710421662).jpg | CC BY 2.0 | F Delventhal from Outside Washington, D.C., US
+places/sintra-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Sintra,_restaurant_Tacho_Real.JPG | CC BY 4.0 | Dguendel
+places/sintra-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Casa_Piriquita.jpg | CC BY-SA 4.0 | Lajmmoore
+places/sintra-cafe-2.jpg | https://www.flickr.com/photos/130450256@N03/36864551063 | BY-SA 2.0 | Janko Hoener
+places/cascais-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Fortaleza_do_Guincho_Hotel_do_Guincho_Cascais_01.jpg | CC BY-SA 4.0 | GualdimG
+places/funchal-fine_dining-1.jpg | https://www.flickr.com/photos/24001499@N03/4624015086 | BY 2.0 | PortoBay Trade
+places/funchal-fine_dining-2.jpg | https://www.flickr.com/photos/94611718@N00/6466754459 | BY-SA 2.0 | andynash
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
