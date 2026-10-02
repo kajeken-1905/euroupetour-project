@@ -436,6 +436,16 @@ places/tampere-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Konditoria
 places/rovaniemi-fine_dining-2.jpg | https://www.flickr.com/photos/126293612@N07/52073665129 | PDM 1.0 | dickinsonjohn02
 places/rovaniemi-fine_dining-3.jpg | https://www.flickr.com/photos/11724697@N00/28246895786 | BY-SA 2.0 | Sami Keinänen
 
+# Norway place photos
+places/bergen-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Lysverket_Bergen_tunliweb.jpg | CC BY-SA 4.0 | Svein-Magne Tunli - tunliweb.no
+places/bergen-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Baker_Brun.JPG | Public domain | Reinhardheydt
+places/bergen-cafe-1.jpg | https://www.flickr.com/photos/44289347@N06/4259721574 | BY 2.0 | Jon K. Bernhardsen
+places/bergen-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Opera_in_Bergen_-_panoramio.jpg | CC BY-SA 3.0 | Eduardo Manchon
+places/tromso-cafe-2.jpg | https://www.flickr.com/photos/16900221@N04/4732299891 | BY 2.0 | Signe Karin
+places/stavanger-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:RE-NAA_IMG_5343_(30924204340).jpg | CC BY 2.0 | City Foodsters
+places/trondheim-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Baklandet_Skydsstation_(Trondheim)_(kubos16)2677.JPG | CC BY-SA 3.0 no | Kubos16
+places/trondheim-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Rosenborg_bakeri_Rosenborg_gate_8-10_(Trondheim)_24JUL2023.jpg | CC BY-SA 4.0 | Kimberli Mäkäräinen
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
