@@ -49,10 +49,10 @@ export const placesESExtra: Place[] = [
 
   // —— seville ——
   place('seville-fine_dining-1', 'seville', 'fine_dining', 'Lalola de Javi Abascal', 4.6, 'Marco Sancho 1, 41003 Sevilla', '미쉐린 빕 구르망 레스토랑.', 'Michelin Bib Gourmand restaurant.'),
-  place('seville-fine_dining-2', 'seville', 'fine_dining', 'Bodeguita Romero', 4.3, 'Calle Harinas, Arenal, 41001 Sevilla', '세비야 명물 프링가 몬타디토로 유명한 전통 바.', "Traditional bar famous for Seville's iconic pringa montadito sandwich."),
-  place('seville-fine_dining-3', 'seville', 'fine_dining', 'Casa Morales', 4.1, 'C. García de Vinuesa 11, 41001 Sevilla', '1850년부터 이어온 세비야에서 가장 오래된 타파스 바 중 하나.', "One of Seville's oldest tapas bars, operating since 1850."),
+  place('seville-fine_dining-2', 'seville', 'fine_dining', 'Bodeguita Romero', 4.3, 'Calle Harinas, Arenal, 41001 Sevilla', '세비야 명물 프링가 몬타디토로 유명한 전통 바.', "Traditional bar famous for Seville's iconic pringa montadito sandwich.", { image: '/places/seville-fine_dining-2.jpg' }),
+  place('seville-fine_dining-3', 'seville', 'fine_dining', 'Casa Morales', 4.1, 'C. García de Vinuesa 11, 41001 Sevilla', '1850년부터 이어온 세비야에서 가장 오래된 타파스 바 중 하나.', "One of Seville's oldest tapas bars, operating since 1850.", { image: '/places/seville-fine_dining-3.jpg' }),
   place('seville-fine_dining-4', 'seville', 'fine_dining', 'Taberna Coloniales', 4.0, 'Calle Fernandez y González 36, 41001 Sevilla', '대성당 맞은편의 합리적인 가격의 타파스 바.', 'Affordable tapas bar opposite the cathedral.'),
-  place('seville-fine_dining-5', 'seville', 'fine_dining', 'Las Teresas', 3.5, 'C. Santa Teresa 2, 41004 Sevilla', '산타 크루스 지구의 역사적인 이베리코 햄 전문 바.', 'Historic bar in the Santa Cruz quarter, known for Iberian ham.'),
+  place('seville-fine_dining-5', 'seville', 'fine_dining', 'Las Teresas', 3.5, 'C. Santa Teresa 2, 41004 Sevilla', '산타 크루스 지구의 역사적인 이베리코 햄 전문 바.', 'Historic bar in the Santa Cruz quarter, known for Iberian ham.', { image: '/places/seville-fine_dining-5.jpg' }),
   place('seville-fine_dining-6', 'seville', 'fine_dining', 'Realcázar', 4.4, 'Calle San Fernando 27, 41004 Sevilla', '레알 알카사르 성벽에 맞닿은 안달루시아·지중해 요리 레스토랑, 성 전망 테라스.', 'Andalusian-Mediterranean restaurant sharing a wall with the Real Alcázar, with a terrace facing the palace.', { reviewCount: 1320, image: '/places/seville-fine_dining-6.jpg' }),
   place('seville-bakery-1', 'seville', 'bakery', 'Cafetería Pastelería La Canasta', 4.4, 'C. Regina 14, 41003 Sevilla, Spain', '다양한 빵과 페이스트리를 갖춘 세비야의 인기 베이커리 카페', 'Popular Seville bakery café with a wide range of bread and pastries'),
   place('seville-bakery-2', 'seville', 'bakery', 'Ofelia Bakery', 4.6, 'Calle Huelva 5, 41004 Sevilla', '수제 케이크와 컵케이크로 유명한 구시가의 베이커리.', 'Old-town bakery known for handmade cakes and cupcakes.', { reviewCount: 1273 }),
@@ -66,8 +66,8 @@ export const placesESExtra: Place[] = [
 
   // —— granada ——
   place('granada-fine_dining-1', 'granada', 'fine_dining', 'Damasqueros', 4.6, 'Calle Damasqueros 3, 18009 Granada', '미쉐린 추천 창의적 테이스팅 메뉴.', 'Michelin-recommended creative tasting menus.'),
-  place('granada-fine_dining-2', 'granada', 'fine_dining', 'Bar Los Diamantes', 4.4, 'Calle Navas 28, 18009 Granada', '1942년부터 이어온 신선한 해산물 타파스.', 'Fresh seafood tapas since 1942.', { reviewCount: 3000 }),
-  place('granada-fine_dining-3', 'granada', 'fine_dining', 'Bodegas Castañeda', 3.9, 'Calle Almireceros 1-3, 18010 Granada', '1953년부터 이어온 그라나다 대표 타베르나.', "Granada's iconic tavern since 1953.", { reviewCount: 4000 }),
+  place('granada-fine_dining-2', 'granada', 'fine_dining', 'Bar Los Diamantes', 4.4, 'Calle Navas 28, 18009 Granada', '1942년부터 이어온 신선한 해산물 타파스.', 'Fresh seafood tapas since 1942.', { reviewCount: 3000, image: '/places/granada-fine_dining-2.jpg' }),
+  place('granada-fine_dining-3', 'granada', 'fine_dining', 'Bodegas Castañeda', 3.9, 'Calle Almireceros 1-3, 18010 Granada', '1953년부터 이어온 그라나다 대표 타베르나.', "Granada's iconic tavern since 1953.", { reviewCount: 4000, image: '/places/granada-fine_dining-3.jpg' }),
   place('granada-fine_dining-4', 'granada', 'fine_dining', 'Chikito', 3.8, 'Plaza del Campillo 9, 18009 Granada', '가르시아 로르카가 사랑한 그라나다 전통 식당.', "Traditional restaurant beloved by García Lorca.", { reviewCount: 1500 }),
   place('granada-fine_dining-5', 'granada', 'fine_dining', 'Mirador de Morayma', 4.1, 'Calle del Pianista García Carrillo 2, 18010 Granada', '알바이신에서 알함브라 전망을 즐기는 안달루시아 요리.', 'Andalusian cuisine with Alhambra views from the Albaicín.', { reviewCount: 700 }),
   place('granada-korean-1', 'granada', 'korean', 'CoreOlé Korean Food Bar', 4.5, 'C. Elvira, 114, 18010 Granada', '알바이신 지구의 한식당.', 'Korean restaurant in the Albaicín district.'),
@@ -98,10 +98,10 @@ export const placesESExtra: Place[] = [
   // —— malaga ——
   place('malaga-fine_dining-1', 'malaga', 'fine_dining', 'José Carlos García Restaurante', 4.6, 'Puerto de Málaga, Plaza de la Capilla 1, 29016 Málaga', '말라가 유일의 미쉐린 스타 레스토랑.', 'Málaga\'s only Michelin-starred restaurant.'),
   place('malaga-fine_dining-2', 'malaga', 'fine_dining', 'La Tranca', 4.6, 'Calle Carretería 92, 29008 Málaga', '전통 타파스로 줄 서는 인기 타베르나.', 'Popular tavern with queues for traditional tapas.', { reviewCount: 12800 }),
-  place('malaga-fine_dining-3', 'malaga', 'fine_dining', 'Mesón Mariano', 4.5, 'Calle Granados 2, 29008 Málaga', '아티초크와 말라가식 가스파추엘로로 유명.', "Known for artichokes and Málaga-style gazpachuelo.", { reviewCount: 4000 }),
-  place('malaga-fine_dining-4', 'malaga', 'fine_dining', 'Cortijo de Pepe', 4.0, 'Plaza de la Merced 2, 29012 Málaga', '1971년부터 이어온 활기찬 타파스 바.', 'Lively tapas bar since 1971.', { reviewCount: 8400 }),
+  place('malaga-fine_dining-3', 'malaga', 'fine_dining', 'Mesón Mariano', 4.5, 'Calle Granados 2, 29008 Málaga', '아티초크와 말라가식 가스파추엘로로 유명.', "Known for artichokes and Málaga-style gazpachuelo.", { reviewCount: 4000, image: '/places/malaga-fine_dining-3.jpg' }),
+  place('malaga-fine_dining-4', 'malaga', 'fine_dining', 'Cortijo de Pepe', 4.0, 'Plaza de la Merced 2, 29012 Málaga', '1971년부터 이어온 활기찬 타파스 바.', 'Lively tapas bar since 1971.', { reviewCount: 8400, image: '/places/malaga-fine_dining-4.jpg' }),
   place('malaga-fine_dining-5', 'malaga', 'fine_dining', 'Bodegas Quitapenas', 3.3, 'Calle Marín García 4, 29005 Málaga', '1880년부터 이어온 말라가의 전통 타베르나.', "Málaga's traditional tavern since 1880.", { reviewCount: 1500 }),
-  place('malaga-bakery-1', 'malaga', 'bakery', 'La Mallorquina', 4.5, 'Avenida Carlos Haya 1, 29010 Málaga, Spain', '말라가의 명절 디저트로 유명한 가족 운영 제과점', 'Family-run Málaga institution known for holiday sweets and pastries'),
+  place('malaga-bakery-1', 'malaga', 'bakery', 'La Mallorquina', 4.5, 'Avenida Carlos Haya 1, 29010 Málaga, Spain', '말라가의 명절 디저트로 유명한 가족 운영 제과점', 'Family-run Málaga institution known for holiday sweets and pastries', { image: '/places/malaga-bakery-1.jpg' }),
   place('malaga-bakery-2', 'malaga', 'bakery', 'Ana La Fantástica', 4.6, 'Calle Castillo de Sohail 5, 29005 Málaga', '갈리시아식 사워도우 빵과 크루아상.', 'Galician-style sourdough bread and croissants.', { reviewCount: 300 }),
   place('malaga-bakery-3', 'malaga', 'bakery', 'Mia Coffee House', 4.9, 'Calle Vendeja 9, 29001 Málaga', '스페셜티 커피와 홈메이드 페이스트리, 작은 베이커리.', 'Specialty coffee with homemade pastries and a small bakery.', { reviewCount: 1200 }),
   place('malaga-cafe-1', 'malaga', 'cafe', 'La Canasta', 4.4, 'C. Herrería del Rey 2, 29005 Málaga, Spain', '맛있는 커피와 아침 식사로 유명한 말라가의 카페', 'Málaga café known for delicious coffee and breakfast'),
@@ -113,14 +113,14 @@ export const placesESExtra: Place[] = [
 
   // —— bilbao ——
   place('bilbao-fine_dining-1', 'bilbao', 'fine_dining', 'Nerua Guggenheim Bilbao', 4.6, 'Abandoibarra Etorbidea 2, 48001 Bilbao', '구겐하임 미술관 안의 미쉐린 레스토랑.', 'Michelin restaurant inside the Guggenheim Museum.'),
-  place('bilbao-fine_dining-2', 'bilbao', 'fine_dining', 'Gure Toki', 4.9, 'Plaza Nueva 12, 48005 Bilbao', '수많은 핀초 대회 수상 경력의 명소.', 'Award-winning pintxos bar with many competition wins.', { reviewCount: 1000 }),
+  place('bilbao-fine_dining-2', 'bilbao', 'fine_dining', 'Gure Toki', 4.9, 'Plaza Nueva 12, 48005 Bilbao', '수많은 핀초 대회 수상 경력의 명소.', 'Award-winning pintxos bar with many competition wins.', { reviewCount: 1000, image: '/places/bilbao-fine_dining-2.jpg' }),
   place('bilbao-fine_dining-3', 'bilbao', 'fine_dining', 'Rio-Oja', 4.2, 'Calle del Perro 4, 48005 Bilbao', '1959년부터 3대째 이어온 바스크 전통 요리.', 'Third-generation family-run traditional Basque cuisine since 1959.', { reviewCount: 4700 }),
-  place('bilbao-fine_dining-4', 'bilbao', 'fine_dining', 'La Viña del Ensanche', 4.4, 'Diputación 10, 48008 Bilbao', '1927년부터 이어온 하몬 전문 핀초스 바.', 'Pintxos bar known for Iberian ham, since 1927.', { reviewCount: 1200 }),
+  place('bilbao-fine_dining-4', 'bilbao', 'fine_dining', 'La Viña del Ensanche', 4.4, 'Diputación 10, 48008 Bilbao', '1927년부터 이어온 하몬 전문 핀초스 바.', 'Pintxos bar known for Iberian ham, since 1927.', { reviewCount: 1200, image: '/places/bilbao-fine_dining-4.jpg' }),
   place('bilbao-fine_dining-5', 'bilbao', 'fine_dining', 'Restaurante Enol', 4.6, 'Calle Licenciado Poza 73, 48013 Bilbao', '신선한 해산물과 핀초스로 유명한 바스크 요리.', 'Basque cuisine known for fresh seafood and pintxos.', { reviewCount: 644 }),
   place('bilbao-bakery-1', 'bilbao', 'bakery', 'Pastelería Don Manuel', 4.5, 'Mazarredo Zumarkalea 79, 48009 Bilbao, Spain', '빌바오 전통 페이스트리와 카롤리나 케이크로 유명한 제과점', 'Bilbao pastry shop famous for traditional treats and its Carolina cake'),
   place('bilbao-bakery-2', 'bilbao', 'bakery', 'Pastelería Martina de Zuricalday', 4.3, 'Areilza Doktorearen Zumarkalea 38, 48010 Bilbao', '1830년부터 이어온 바스크 지방 최고령 제과점.', "Basque Country's oldest artisan pastry shop, since 1830.", { reviewCount: 350 }),
   place('bilbao-bakery-3', 'bilbao', 'bakery', 'Pastelería Suiza', 4.5, 'Portuko Markesaren Kalea 4, 48009 Bilbao', '60년 넘게 이어온 아몬드 크루아상 명가.', 'Beloved for almond croissants for over 60 years.', { reviewCount: 640 }),
-  place('bilbao-bakery-4', 'bilbao', 'bakery', 'Arrese', 4.4, 'Foru kalea 2, 48005 Bilbao, Spain', '1852년부터 이어온 트러플·케이크 전문점.', 'Truffle and cake specialist since 1852.', { reviewCount: 800 }),
+  place('bilbao-bakery-4', 'bilbao', 'bakery', 'Arrese', 4.4, 'Foru kalea 2, 48005 Bilbao, Spain', '1852년부터 이어온 트러플·케이크 전문점.', 'Truffle and cake specialist since 1852.', { reviewCount: 800, image: '/places/bilbao-bakery-4.jpg' }),
   place('bilbao-cafe-1', 'bilbao', 'cafe', 'Cokooncafé', 4.5, 'Poza Lizentziatuaren Kalea 55, 48013 Bilbao, Spain', '구겐하임 미술관 인근의 스페셜티 커피 베이커리', 'Specialty coffee bakery café near the Guggenheim Museum Bilbao'),
   place('bilbao-cafe-2', 'bilbao', 'cafe', 'ARVO Specialty Coffee', 4.7, 'Barraincúa Kalea 9, 48001 Bilbao', '구겐하임 인근, 스페인 최고 커피숍으로 3년 연속 선정.', "Named one of Spain's best coffee shops three years running.", { reviewCount: 1600 }),
   place('bilbao-cafe-3', 'bilbao', 'cafe', 'East Crema Coffee', 4.5, 'Rodriguez Arias kalea 22, 48011 Bilbao, Spain', '도쿄 카페 감성의 스페셜티 커피 체인.', 'Specialty coffee chain inspired by Tokyo café culture.', { reviewCount: 900 }),
@@ -142,7 +142,7 @@ export const placesESExtra: Place[] = [
   place('toledo-cafe-5', 'toledo', 'cafe', 'Cañas y Tapas', 3.9, 'Plaza de Zocodover 11, 45001 Toledo', '소코도베르 광장의 접근성 좋은 아침·타파스 체인점.', 'Handy breakfast-and-tapas chain spot right on Plaza de Zocodover.', { image: '/places/toledo-cafe-5.jpg' }),
 
   // —— cordoba ——
-  place('cordoba-fine_dining-1', 'cordoba', 'fine_dining', 'Noor', 4.6, 'Paseo de la Victoria s/n, 14004 Córdoba', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
+  place('cordoba-fine_dining-1', 'cordoba', 'fine_dining', 'Noor', 4.6, 'Paseo de la Victoria s/n, 14004 Córdoba', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.', { image: '/places/cordoba-fine_dining-1.jpg' }),
   place('cordoba-fine_dining-2', 'cordoba', 'fine_dining', 'Taberna Salinas', 4.4, 'Calle Tundidores 3, 14002 Córdoba', '100년 넘은 미쉐린 추천 전통 타베르나.', 'Century-old, Michelin-recommended traditional tavern.', { reviewCount: 3100 }),
   place('cordoba-fine_dining-3', 'cordoba', 'fine_dining', 'Casa Pedro Ximénez', 4.8, 'Calle Deanes 10, 14003 Córdoba', '유대인 지구의 안달루시아 전통 요리, 메스키타 전망 루프탑.', 'Traditional Andalusian cuisine in the Jewish Quarter with a Mezquita-view rooftop.', { reviewCount: 3000 }),
   place('cordoba-fine_dining-4', 'cordoba', 'fine_dining', 'Bodegas Mezquita', 4.6, 'C. Corregidor Luis de la Cerda 45, 14003 Córdoba', '메스키타 인근의 전통 안달루시아 와인 타베르나.', 'Traditional Andalusian wine tavern near the Mezquita.', { reviewCount: 2000 }),
@@ -155,7 +155,7 @@ export const placesESExtra: Place[] = [
   place('cordoba-cafe-4', 'cordoba', 'cafe', 'Deluca Café', 4.5, 'Córdoba', '커피와 크루아상으로 사랑받는 카페.', 'Beloved café for coffee and croissants.', { reviewCount: 300 }),
 
   // —— san-sebastian ——
-  place('san-sebastian-fine_dining-1', 'san-sebastian', 'fine_dining', 'Arzak', 4.7, 'Alcalde J. Elosegi Hiribidea 273, 20015 Donostia', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
+  place('san-sebastian-fine_dining-1', 'san-sebastian', 'fine_dining', 'Arzak', 4.7, 'Alcalde J. Elosegi Hiribidea 273, 20015 Donostia', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.', { image: '/places/san-sebastian-fine_dining-1.jpg' }),
   place('san-sebastian-fine_dining-2', 'san-sebastian', 'fine_dining', 'Borda Berri', 4.5, 'Fermin Calbeton Kalea 12, 20003 Donostia', '구시가의 인기 핀초스 바, 즉석 조리 요리로 유명.', 'Popular Old Town pintxos bar known for made-to-order dishes.', { reviewCount: 2466 }),
   place('san-sebastian-fine_dining-3', 'san-sebastian', 'fine_dining', 'La Cuchara de San Telmo', 4.4, 'C/ 31 de Agosto 28, 20003 Donostia', '정교한 플레이팅의 즉석 조리 핀초스 바.', 'Pintxos bar known for elaborately plated, made-to-order dishes.', { reviewCount: 3164 }),
   place('san-sebastian-fine_dining-4', 'san-sebastian', 'fine_dining', 'Gandarias Jatetxea', 4.5, '31 de Agosto Kalea 23, 20003 Donostia', '구시가의 대표적인 바스크 핀초스 레스토랑.', "One of the Old Town's most popular Basque pintxos restaurants.", { reviewCount: 1800 }),
@@ -225,11 +225,11 @@ export const placesESExtra: Place[] = [
   place('segovia-cafe-4', 'segovia', 'cafe', 'CHIPÉN SEGOVIA', 4.3, 'Av. Acueducto 5, Segovia, Spain', '수도교 인근의 카페 겸 수제 아이스크림 전문점', 'Café and artisanal ice cream shop near the aqueduct', { reviewCount: 1893 }),
 
   // —— ronda ——
-  place('ronda-fine_dining-1', 'ronda', 'fine_dining', 'Bardal', 4.7, 'Calle José Aparicio 1, 29400 Ronda', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
+  place('ronda-fine_dining-1', 'ronda', 'fine_dining', 'Bardal', 4.7, 'Calle José Aparicio 1, 29400 Ronda', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.', { image: '/places/ronda-fine_dining-1.jpg' }),
   place('ronda-fine_dining-2', 'ronda', 'fine_dining', 'Restaurante Almocabar', 4.5, 'Plaza Ruedo Alameda 5, 29400 Ronda', '구시가 남쪽 모로 지구의 로컬 맛집, 육류 요리로 유명.', 'Local favorite in the old Moorish quarter, known for meat dishes.', { reviewCount: 900 }),
   place('ronda-fine_dining-3', 'ronda', 'fine_dining', 'Bar El Barrio', 5.0, 'Calle de San Francisco de Asís 111, 29400 Ronda', '정육점을 겸하는 주인이 굽는 바비큐 맛집.', 'BBQ favorite run by an owner who is also a butcher.', { reviewCount: 200 }),
   place('ronda-fine_dining-4', 'ronda', 'fine_dining', 'Mesón El Sacristán', 4.5, 'Plaza Duquesa de Parcent 14, 29400 Ronda', '장작 화덕에 구운 육류 요리로 유명한 구시가 레스토랑.', 'Old-town restaurant known for meats grilled in a wood-burning oven.', { reviewCount: 600 }),
-  place('ronda-fine_dining-5', 'ronda', 'fine_dining', 'De Locos Tapas', 4.5, 'Plazuela Arquitecto Francisco Pons Sorolla 7, 29400 Ronda', '안달루시아·바스크 퓨전 타파스 맛집.', 'Andalusian-Basque fusion tapas favorite.', { reviewCount: 2100 }),
+  place('ronda-fine_dining-5', 'ronda', 'fine_dining', 'De Locos Tapas', 4.5, 'Plazuela Arquitecto Francisco Pons Sorolla 7, 29400 Ronda', '안달루시아·바스크 퓨전 타파스 맛집.', 'Andalusian-Basque fusion tapas favorite.', { reviewCount: 2100, image: '/places/ronda-fine_dining-5.jpg' }),
   place('ronda-bakery-1', 'ronda', 'bakery', 'Confitería Las Campanas', 4.4, 'Carrera Espinel 64, 29400 Ronda, Spain', '론다 중심가의 전통 제과점', 'Traditional confectionery on Ronda\'s main street'),
   place('ronda-bakery-2', 'ronda', 'bakery', 'Panadería Alba, Obrador de Pan', 4.5, 'C. Padre Francisco Piquer 18, 29400 Ronda', '장인 정신이 담긴 빵과 페이스트리 전문점.', 'Artisan bread and pastry shop.'),
   place('ronda-cafe-1', 'ronda', 'cafe', 'Confitería Pastelería Patricia', 4.5, 'C. de Espinillos 4, 29400 Ronda, Spain', '30년 넘게 사랑받아온 론다의 페이스트리·홈메이드 아이스크림 전문점', 'Beloved Ronda pastry shop for over thirty years, known for homemade ice cream'),
@@ -276,14 +276,14 @@ export const placesESExtra: Place[] = [
   place('palma-korean-3', 'palma', 'korean', 'Bi Bap', 4.3, 'Plaça del Mercat 3, 07001 Palma de Mallorca', '비빔밥 등 한식과 아시아 요리를 함께 선보이는 인기 맛집.', 'Popular spot serving bibimbap and Korean-Asian fusion dishes.', { reviewCount: 479 }),
 
   // —— nerja ——
-  place('nerja-fine_dining-1', 'nerja', 'fine_dining', 'Oliva', 4.6, 'Plaza de España 2, 29780 Nerja', '지중해·스페인 요리의 미식 레스토랑.', 'Gourmet Mediterranean and Spanish cuisine.'),
+  place('nerja-fine_dining-1', 'nerja', 'fine_dining', 'Oliva', 4.6, 'Plaza de España 2, 29780 Nerja', '지중해·스페인 요리의 미식 레스토랑.', 'Gourmet Mediterranean and Spanish cuisine.', { image: '/places/nerja-fine_dining-1.jpg' }),
   place('nerja-fine_dining-2', 'nerja', 'fine_dining', 'Bar Dolores "El Chispa"', 4.1, 'Calle San Pedro 12, 29780 Nerja', '해산물 타파스로 유명한 로컬 바.', "Local's bar known for seafood tapas.", { reviewCount: 6100 }),
   place('nerja-fine_dining-3', 'nerja', 'fine_dining', 'Bar El Pulguilla', 4.1, 'Calle Almirante Ferrándiz 26, 29780 Nerja', '발콘 데 에우로파 인근의 신선한 해산물 타파스.', "Fresh seafood tapas near the Balcón de Europa.", { reviewCount: 500 }),
-  place('nerja-fine_dining-4', 'nerja', 'fine_dining', 'La Puntilla', 4.3, 'Calle Bolivia 1, 29780 Nerja', '현지인이 찾는 생선 타파스 바.', 'Local favorite fish tapas bar.', { reviewCount: 5700 }),
+  place('nerja-fine_dining-4', 'nerja', 'fine_dining', 'La Puntilla', 4.3, 'Calle Bolivia 1, 29780 Nerja', '현지인이 찾는 생선 타파스 바.', 'Local favorite fish tapas bar.', { reviewCount: 5700, image: '/places/nerja-fine_dining-4.jpg' }),
   place('nerja-fine_dining-5', 'nerja', 'fine_dining', 'Atipiko Nerja', 4.8, 'Plaza Balcón de Europa 11, 29780 Nerja', '지중해·퓨전 요리, 발콘 데 에우로파 전망.', 'Mediterranean-fusion cuisine with Balcón de Europa views.', { reviewCount: 260 }),
   place('nerja-bakery-1', 'nerja', 'bakery', 'Panadería minimarket Salvana', 4.5, 'C. Rodríguez Acosta 5, 29780 Nerja, Spain', '정통 프랑스식 크루아상으로 유명한 네르하 최고의 베이커리', 'Widely regarded as Nerja\'s best bakery, known for authentic French-style croissants'),
   place('nerja-bakery-2', 'nerja', 'bakery', 'Nybakat Café & Bakery', 4.8, 'Camino de Burriana, Ed. Burriana Playa local 5, 29780 Nerja', '부리아나 해변의 스웨덴식 베이커리, 사워도우와 시나몬롤.', 'Swedish bakery at Burriana Beach — sourdough and cinnamon rolls.', { reviewCount: 400 }),
-  place('nerja-bakery-3', 'nerja', 'bakery', 'Panadería Salvador', 4.6, 'Calle Granada 92, 29780 Nerja', '신선한 페이스트리와 다양한 빵으로 인기.', 'Popular for fresh pastries and a wide bread selection.', { reviewCount: 685 }),
+  place('nerja-bakery-3', 'nerja', 'bakery', 'Panadería Salvador', 4.6, 'Calle Granada 92, 29780 Nerja', '신선한 페이스트리와 다양한 빵으로 인기.', 'Popular for fresh pastries and a wide bread selection.', { reviewCount: 685, image: '/places/nerja-bakery-3.jpg' }),
   place('nerja-cafe-1', 'nerja', 'cafe', 'Cafetería Pastelería Tiramisu', 4.4, 'Calle Jaén 5, 29780 Nerja, Spain', '갓 구운 페이스트리와 향긋한 커피로 유명한 네르하의 카페', 'Cozy Nerja café known for freshly baked pastries and aromatic coffee'),
   place('nerja-cafe-2', 'nerja', 'cafe', 'Nybakat Café & Bakery', 4.8, 'Camino de Burriana, Ed. Burriana Playa local 5, 29780 Nerja', '부리아나 해변의 인기 브런치·커피 카페.', 'Popular brunch and coffee café at Burriana Beach.', { reviewCount: 400 }),
 

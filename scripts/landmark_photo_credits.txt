@@ -321,6 +321,26 @@ places/valencia-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Casa
 places/palma-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Entrada_Forn_del_Santo_Cristo_(convert.io).jpg | CC0 | Fullet
 places/palma-bakery-2.jpg | https://www.flickr.com/photos/47525329@N05/13161172173 | BY 2.0 | Iñaki Pérez de Albéniz
 
+# Spain (2) place photos
+places/seville-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Bodeguita_Romero_(7850724508).jpg | CC BY 2.0 | Rubén Vique
+places/seville-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Casa_Morales_(17137025117).jpg | CC BY 2.0 | Sandra Vallaure from Seville, Spain
+places/seville-fine_dining-5.jpg | https://www.flickr.com/photos/7831824@N04/49170419701 | BY 2.0 | Bex.Walton
+places/cordoba-fine_dining-1.jpg | https://www.flickr.com/photos/27454212@N00/52018046367 | BY-SA 2.0 | Kent Wang
+places/granada-fine_dining-2.jpg | https://www.flickr.com/photos/62518311@N00/517088926 | BY 2.0 | Daquella manera
+places/granada-fine_dining-3.jpg | https://www.flickr.com/photos/85563234@N00/14466340126 | BY-SA 2.0 | kerinin
+places/malaga-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Mes%C3%B3n_Mariano,_M%C3%A1laga.jpg | CC BY-SA 4.0 | Mentxuwiki
+places/malaga-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Restaurante_Cortijo_de_Pepe,_M%C3%A1laga.jpg | CC BY-SA 4.0 | Mentxuwiki
+places/malaga-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A1laga_-_La_Mallorquina.jpg | CC0 | Zarateman
+places/ronda-fine_dining-1.jpg | https://www.flickr.com/photos/27454212@N00/51994610919 | BY-SA 2.0 | Kent Wang
+places/ronda-fine_dining-5.jpg | https://www.flickr.com/photos/81669195@N00/38515341274 | BY-SA 2.0 | Wolf Gang
+places/nerja-fine_dining-1.jpg | https://www.flickr.com/photos/54549113@N00/8633347125 | BY-SA 2.0 | Haydn Blackey
+places/nerja-fine_dining-4.jpg | https://www.flickr.com/photos/54549113@N00/53635003954 | BY-SA 2.0 | Haydn Blackey
+places/nerja-bakery-3.jpg | https://www.flickr.com/photos/54549113@N00/25718493963 | BY-SA 2.0 | Haydn Blackey
+places/bilbao-fine_dining-2.jpg | https://www.flickr.com/photos/21160385@N02/33853015148 | BY 2.0 | paularps
+places/bilbao-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:%EB%B9%8C%EB%B0%94%EC%98%A4_%EB%A7%9B%EC%A7%91_-_La_Vina_del_Ensanche.jpg | CC BY-SA 4.0 | http://blog.naver.com/abraxasblog/220994809029
+places/bilbao-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Roscones_de_Reyes_en_la_Pasteler%C3%ADa_Arrese_(Gran_V%C3%ADa_n%C2%BA_24).jpg | CC0 | Zarateman
+places/san-sebastian-fine_dining-1.jpg | https://www.flickr.com/photos/27454212@N00/9665011477 | BY-SA 2.0 | Kent Wang
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
