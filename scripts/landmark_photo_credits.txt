@@ -365,6 +365,16 @@ places/odense-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Den_Ga
 places/odense-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Odense-Cafebiografen.jpg | CC BY-SA 3.0 | Kåre Thor Olsen
 places/odense-cafe-3.jpg | https://www.flickr.com/photos/75796607@N00/52669163614 | BY 2.0 | westher
 
+# Sweden place photos
+places/gothenburg-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurang_Project_i_G%C3%B6teborg.jpg | CC BY-SA 4.0 | Mattias Blomgren
+places/gothenburg-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurang_Koka_i_G%C3%B6teborg.jpg | CC BY-SA 4.0 | Mattias Blomgren
+places/gothenburg-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Sj%C3%B6magasinet,_framsidan.jpg | CC BY-SA 3.0 | Fluff
+places/gothenburg-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Restaurang_Bhoga.jpg | CC BY-SA 4.0 | Eskil Malmberg
+places/gothenburg-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Bread_at_da_Matteo_Panetteria_in_Gothenburg_(6488402675).jpg | CC BY 2.0 | Heather Cowper from Bristol, UK
+places/gothenburg-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Husaren_in_Haga,_Gothenburg_(6488513251).jpg | CC BY 2.0 | Heather Cowper from Bristol, UK
+places/malmo-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Far_i_Hatten,_Malm%C3%B6.jpg | CC BY 3.0 | Jorchr
+places/uppsala-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Ofvandahls_kafe.jpg | CC BY-SA 4.0 | Udo Schröter
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
