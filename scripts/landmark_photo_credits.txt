@@ -279,6 +279,18 @@ places/munich-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Munich
 places/munich-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_%E2%80%94_Hofbr%C3%A4uhaus-Kunstm%C3%BChle_2013.JPG | CC BY 2.0 de | User:Mattes
 places/munich-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Gasthaus_Isarthor_M%C3%BCnchen_01.jpg | CC BY-SA 4.0 | Burkhard Mücke
 
+# Belgium place photos
+places/bruges-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Sans_Cravate_-_Amuse_1_-_macaron.jpg | CC BY-SA 2.0 | FotoosVanRobin
+places/bruges-bakery-3.jpg | https://www.flickr.com/photos/10205031@N07/31041246180 | BY 2.0 | Antonio Campoy Ederra
+places/bruges-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Otto_Waffle_Atelier,_Bruges,_Belgium.jpg | CC BY-SA 4.0 | Stck w
+places/bruges-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Brugge_Vlissinghe_R06.jpg | CC BY 3.0 | Marc Ryckaert
+places/ghent-fine_dining-5.jpg | https://www.flickr.com/photos/72116883@N00/6933446786 | BY 2.0 | Guy Renard 25
+places/ghent-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Koffiehuis_Mokabon_-_384737_-_onroerenderfgoed.jpg | CC BY 4.0 | Vandeweghe, Evert
+places/ghent-cafe-4.jpg | https://www.flickr.com/photos/15218964@N00/4056289443 | BY-SA 2.0 | lukask
+places/antwerp-fine_dining-2.jpg | https://www.flickr.com/photos/63311602@N08/15144573570 | BY 2.0 | loustejskal.com
+places/leuven-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Leuven_Caf%C3%A9_huisbrouwerij_Domus_05.jpg | CC BY-SA 4.0 | Sally V
+places/dinant-cafe-2.jpg | https://www.flickr.com/photos/48783556@N08/14220920671 | BY 2.0 | Daviddje
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
