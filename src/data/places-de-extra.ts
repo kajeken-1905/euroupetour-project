@@ -3,25 +3,25 @@ import type { Place } from '../types'
 
 export const placesDEExtra: Place[] = [
   // —— berlin ——
-  place('berlin-fine_dining-1', 'berlin', 'fine_dining', 'Restaurant Tim Raue', 4.7, 'Rudi-Dutschke-Straße 26, 10969 Berlin, Germany', '아시안 인플루언스 파인.', 'Asian-influenced fine dining.', { reviewCount: 2400 }),
+  place('berlin-fine_dining-1', 'berlin', 'fine_dining', 'Restaurant Tim Raue', 4.7, 'Rudi-Dutschke-Straße 26, 10969 Berlin, Germany', '아시안 인플루언스 파인.', 'Asian-influenced fine dining.', { reviewCount: 2400, image: '/places/berlin-fine_dining-1.jpg' }),
   place('berlin-fine_dining-2', 'berlin', 'fine_dining', 'Cordo', 4.6, 'Große Hamburger Straße 32, 10115 Berlin, Germany', '모던 저먼 코스.', 'Modern German tasting.', { reviewCount: 1100 }),
   place('berlin-fine_dining-3', 'berlin', 'fine_dining', 'Nobelhart & Schmutzig', 4.6, 'Friedrichstrasse 218, 10969 Berlin, Germany', '로컬 재료 코스.', 'Local-ingredient tasting.', { reviewCount: 1600 }),
-  place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 4.3, 'Waisenstraße 14-16, 10179 Berlin, Germany', '역사적 독일 식당.', 'Historic German restaurant.', { reviewCount: 4800 }),
-  place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 4.4, 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { reviewCount: 12000 }),
+  place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 4.3, 'Waisenstraße 14-16, 10179 Berlin, Germany', '역사적 독일 식당.', 'Historic German restaurant.', { reviewCount: 4800, image: '/places/berlin-fine_dining-4.jpg' }),
+  place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 4.4, 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { reviewCount: 12000, image: '/places/berlin-fine_dining-5.jpg' }),
   place('berlin-bakery-1', 'berlin', 'bakery', 'Zeit für Brot', 4.5, 'Alte Schönhauser Str. 4, Berlin', '시나몬롤·빵.', 'Cinnamon rolls and bread.', { reviewCount: 5939 }),
   place('berlin-bakery-2', 'berlin', 'bakery', 'SoLuna Bäckerei', 4.5, 'Gneisenaustraße 58, Berlin', '사워도우.', 'Sourdough.', { reviewCount: 210 }),
   place('berlin-bakery-3', 'berlin', 'bakery', 'EINSTEIN Unter den Linden', 4.1, 'Unter den Linden 42, Berlin', '빈 스타일 카페·페이스트리.', 'Viennese-style café and pastries.', { reviewCount: 7108 }),
   place('berlin-bakery-4', 'berlin', 'bakery', "Brammibal's Donuts (Maybachufer)", 4.5, 'Maybachufer 8, Berlin', '비건 도넛 전문점.', 'Vegan donut specialist.', { reviewCount: 3266 }),
   place('berlin-cafe-1', 'berlin', 'cafe', 'The Barn', 4.6, 'Alte Potsdamer Straße 5, 10785 Berlin, Germany', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 3200 }),
-  place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Jägerstraße 58, 10117 Berlin, Germany', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800 }),
-  place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Kollwitzstraße 98, 10435 Berlin, Germany', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600 }),
+  place('berlin-cafe-2', 'berlin', 'cafe', 'Bonanza Coffee', 4.5, 'Jägerstraße 58, 10117 Berlin, Germany', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 2800, image: '/places/berlin-cafe-2.jpg' }),
+  place('berlin-cafe-4', 'berlin', 'cafe', 'Five Elephant', 4.5, 'Kollwitzstraße 98, 10435 Berlin, Germany', '커피·치즈케이크.', 'Coffee and cheesecake.', { reviewCount: 2600, image: '/places/berlin-cafe-4.jpg' }),
   place('berlin-korean-1', 'berlin', 'korean', 'Feel Seoul Good', 4.5, 'Husemannstraße 2, 10405 Berlin', '프렌츠라우어베르크의 한식 맛집.', 'Korean favourite in Prenzlauer Berg.'),
 
   // —— munich ——
   place('munich-fine_dining-1', 'munich', 'fine_dining', 'Atelier', 4.6, 'Promenadeplatz 2-6, 80333 München', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
-  place('munich-fine_dining-2', 'munich', 'fine_dining', 'Augustiner Bräustuben', 4.9, 'Landsberger Str. 19, 80339 München', '1895년부터 이어온 아우구스티너 브루어리 직영 비어홀.', "Augustiner brewery's own beer hall since 1895.", { reviewCount: 22000 }),
-  place('munich-fine_dining-3', 'munich', 'fine_dining', 'Hofbräuhaus', 4.0, 'Platzl 9, 80331 München', '1589년부터 이어온 세계적으로 유명한 비어홀.', 'World-famous beer hall dating to 1589.', { reviewCount: 45000 }),
-  place('munich-fine_dining-4', 'munich', 'fine_dining', 'Gasthaus Isarthor', 4.3, 'Kanalstr. 2, 80538 München', '전통 바이스부어스트와 아우구스티너 생맥주.', 'Traditional Weisswurst breakfast with Augustiner beer.', { reviewCount: 2000 }),
+  place('munich-fine_dining-2', 'munich', 'fine_dining', 'Augustiner Bräustuben', 4.9, 'Landsberger Str. 19, 80339 München', '1895년부터 이어온 아우구스티너 브루어리 직영 비어홀.', "Augustiner brewery's own beer hall since 1895.", { reviewCount: 22000, image: '/places/munich-fine_dining-2.jpg' }),
+  place('munich-fine_dining-3', 'munich', 'fine_dining', 'Hofbräuhaus', 4.0, 'Platzl 9, 80331 München', '1589년부터 이어온 세계적으로 유명한 비어홀.', 'World-famous beer hall dating to 1589.', { reviewCount: 45000, image: '/places/munich-fine_dining-3.jpg' }),
+  place('munich-fine_dining-4', 'munich', 'fine_dining', 'Gasthaus Isarthor', 4.3, 'Kanalstr. 2, 80538 München', '전통 바이스부어스트와 아우구스티너 생맥주.', 'Traditional Weisswurst breakfast with Augustiner beer.', { reviewCount: 2000, image: '/places/munich-fine_dining-4.jpg' }),
   place('munich-fine_dining-5', 'munich', 'fine_dining', 'Steinheil 16', 4.5, 'Steinheilstraße 16, 80333 München', '푸짐한 바이에른식 슈니첼 맛집.', 'Beloved spot for generous Bavarian schnitzel.', { reviewCount: 6000 }),
   place('munich-bakery-1', 'munich', 'bakery', 'Rischart am Markt', 4.5, 'Viktualienmarkt 2, 80331 München, Germany', '빅투알리엔 시장에 위치한 뮌헨의 대표 베이커리, 루프탑 테라스가 특징', 'Munich\'s iconic bakery chain at Viktualienmarkt, with a rooftop terrace'),
   place('munich-bakery-2', 'munich', 'bakery', 'Chocolatte Konditorei & Bäckerei', 4.6, 'Prinzregentenstr. 111, 81677 München', '뮌헨 최고의 크루아상으로 손꼽히는 베이커리·카페.', 'Bakery-café known for some of the best croissants in Munich.', { reviewCount: 1200 }),
@@ -40,25 +40,25 @@ export const placesDEExtra: Place[] = [
 
   // —— hamburg ——
   place('hamburg-fine_dining-1', 'hamburg', 'fine_dining', 'The Table Kevin Fehling', 4.7, 'Shanghaiallee 15, 20457 Hamburg', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.'),
-  place('hamburg-fine_dining-2', 'hamburg', 'fine_dining', 'Fischereihafen Restaurant', 4.7, 'Große Elbstraße 143, 22767 Hamburg', '알토나의 유명 해산물 레스토랑.', 'Renowned seafood restaurant in Altona.', { reviewCount: 3871 }),
+  place('hamburg-fine_dining-2', 'hamburg', 'fine_dining', 'Fischereihafen Restaurant', 4.7, 'Große Elbstraße 143, 22767 Hamburg', '알토나의 유명 해산물 레스토랑.', 'Renowned seafood restaurant in Altona.', { reviewCount: 3871, image: '/places/hamburg-fine_dining-2.jpg' }),
   place('hamburg-fine_dining-3', 'hamburg', 'fine_dining', 'Grill Royal Hamburg', 4.7, 'Ballindamm 17, 20095 Hamburg', '알스터 호수 인근의 프리미엄 스테이크하우스.', 'Premium steakhouse near the Alster lake.', { reviewCount: 392 }),
   place('hamburg-fine_dining-4', 'hamburg', 'fine_dining', "Erika's Eck", 4.6, 'Sternstraße 98, 20357 Hamburg', '슈니첼로 유명한 함부르크의 오랜 로컬 맛집.', 'Long-running local favorite known for schnitzel.', { reviewCount: 4162 }),
   place('hamburg-bakery-1', 'hamburg', 'bakery', 'Die Kleine Konditorei', 4.5, 'Bahrenfelder Str. 231, 22765 Hamburg, Germany', '오텐젠 지역의 사랑받는 함부르크 베이커리', 'Beloved Hamburg bakery in the Ottensen district'),
   place('hamburg-bakery-2', 'hamburg', 'bakery', 'Der Kiezbäcker', 4.7, 'Silbersackstraße 8, 20359 Hamburg', '장크트 파울리의 인기 베이커리, 프란츠브뢰첸으로 유명.', 'Popular St. Pauli bakery known for Franzbrötchen.', { reviewCount: 2040 }),
-  place('hamburg-cafe-1', 'hamburg', 'cafe', 'Konditorei Lindtner', 4.5, 'Eppendorfer Landstraße 88, 20249 Hamburg, Germany', '전통 독일 카페하우스 문화를 경험할 수 있는 함부르크 카페', 'Hamburg café offering a taste of traditional German coffee-house culture'),
+  place('hamburg-cafe-1', 'hamburg', 'cafe', 'Konditorei Lindtner', 4.5, 'Eppendorfer Landstraße 88, 20249 Hamburg, Germany', '전통 독일 카페하우스 문화를 경험할 수 있는 함부르크 카페', 'Hamburg café offering a taste of traditional German coffee-house culture', { image: '/places/hamburg-cafe-1.jpg' }),
   place('hamburg-cafe-2', 'hamburg', 'cafe', 'elbgold', 4.6, 'Lagerstraße 34c, 20357 Hamburg', '샨체 지역의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in the Schanze district.', { reviewCount: 2521 }),
   place('hamburg-korean-1', 'hamburg', 'korean', 'Hanmi Restaurant', 4.6, 'Kleine Seilerstraße 1, Hamburg', '한식 바비큐와 덮밥 요리를 선보이는 식당.', 'Restaurant serving Korean barbecue and rice bowls.', { reviewCount: 2994 }),
 
   // —— cologne ——
   place('cologne-fine_dining-1', 'cologne', 'fine_dining', 'Ox & Klee', 4.6, 'Im Zollhafen 18, 50678 Köln', '미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant.'),
-  place('cologne-fine_dining-2', 'cologne', 'fine_dining', 'Peters Brauhaus', 4.4, 'Mühlengasse 1, 50667 Köln', '알트슈타트의 전통 쾰쉬 브라우하우스.', 'Traditional Kölsch brewery restaurant in the Altstadt.', { reviewCount: 8697 }),
+  place('cologne-fine_dining-2', 'cologne', 'fine_dining', 'Peters Brauhaus', 4.4, 'Mühlengasse 1, 50667 Köln', '알트슈타트의 전통 쾰쉬 브라우하우스.', 'Traditional Kölsch brewery restaurant in the Altstadt.', { reviewCount: 8697, image: '/places/cologne-fine_dining-2.jpg' }),
   place('cologne-fine_dining-3', 'cologne', 'fine_dining', 'Gaststätte Lommerzheim', 4.6, 'Siegesstraße 18, 50679 Köln', '현지인들이 사랑하는 투박한 매력의 브라우하우스.', "Beloved local brauhaus known for its rough-around-the-edges charm.", { reviewCount: 4535 }),
-  place('cologne-fine_dining-4', 'cologne', 'fine_dining', 'Brauhaus FRÜH am Dom', 4.2, 'Am Hof 12-18, 50667 Köln', '대성당 옆의 역사적인 쾰쉬 브라우하우스.', 'Historic Kölsch brewery restaurant beside the cathedral.', { reviewCount: 1152 }),
+  place('cologne-fine_dining-4', 'cologne', 'fine_dining', 'Brauhaus FRÜH am Dom', 4.2, 'Am Hof 12-18, 50667 Köln', '대성당 옆의 역사적인 쾰쉬 브라우하우스.', 'Historic Kölsch brewery restaurant beside the cathedral.', { reviewCount: 1152, image: '/places/cologne-fine_dining-4.jpg' }),
   place('cologne-bakery-1', 'cologne', 'bakery', 'Bäckerei Zimmermann', 4.5, 'Antwerpener Str. 39, 50672 Köln, Germany', '1875년부터 이어온 쾰른의 사랑받는 베이커리, 호밀빵으로 유명', 'Beloved Cologne bakery since 1875, famous for its dark rye bread'),
   place('cologne-bakery-2', 'cologne', 'bakery', 'Bäckerei Balkhausen', 4.8, 'Apostelnstraße 27, Köln', '아포스텔른슈트라세의 인기 베이커리.', 'Popular bakery on Apostelnstraße.', { reviewCount: 872 }),
   place('cologne-bakery-3', 'cologne', 'bakery', 'Die Mehlwerkstatt', 4.8, 'Venloer Str. 202, Köln', '오이렌펠트 지역의 아르티장 베이커리.', 'Artisan bakery in the Ehrenfeld district.', { reviewCount: 1823 }),
   place('cologne-cafe-1', 'cologne', 'cafe', 'Goodchild Café', 4.6, 'Sudermannstraße, 50823 Köln, Germany', '손으로 하나하나 만드는 크루아상으로 유명한 쾰른의 프렌치 카페', 'French café in Cologne known for croissants rolled by hand'),
-  place('cologne-cafe-2', 'cologne', 'cafe', 'THE COFFEE GANG', 4.8, 'Hohenstaufenring 19, Köln', '커피와 샌드위치를 제공하는 심플한 카페.', 'Simple café serving coffee and sandwiches.', { reviewCount: 1373 }),
+  place('cologne-cafe-2', 'cologne', 'cafe', 'THE COFFEE GANG', 4.8, 'Hohenstaufenring 19, Köln', '커피와 샌드위치를 제공하는 심플한 카페.', 'Simple café serving coffee and sandwiches.', { reviewCount: 1373, image: '/places/cologne-cafe-2.jpg' }),
   place('cologne-korean-1', 'cologne', 'korean', 'Bulgogi Haus', 4.8, 'Neusser Str. 654, Köln', '쾰른의 한식 바베큐 전문점.', 'Korean barbecue specialist in Cologne.', { reviewCount: 2102 }),
 
   // —— frankfurt ——
@@ -74,7 +74,7 @@ export const placesDEExtra: Place[] = [
   place('frankfurt-bakery-2', 'frankfurt', 'bakery', 'ZEIT FÜR BROT', 4.5, 'Oeder Weg 15, 60318 Frankfurt am Main', '시나몬롤로 유명한 베이커리 체인.', 'Bakery chain known for cinnamon rolls.', { reviewCount: 2257 }),
   place('frankfurt-bakery-3', 'frankfurt', 'bakery', 'Liebesbrot', 4.6, 'Mendelssohnstraße 60, Frankfurt', '베스트엔트 지역의 아르티장 베이커리.', 'Artisan bakery in the Westend district.', { reviewCount: 813 }),
   place('frankfurt-bakery-4', 'frankfurt', 'bakery', 'Patisserie de l\'Arabie', 4.7, 'Hardenbergstraße 15, Frankfurt', '프랑스식 페이스트리 전문점.', 'Specialist in French-style pastries.', { reviewCount: 899 }),
-  place('frankfurt-cafe-1', 'frankfurt', 'cafe', 'Kaffeehaus Goldene Waage', 4.5, 'Römerberg, 60311 Frankfurt am Main, Germany', '성 바르톨로메우스 대성당 맞은편의 프랑크푸르트 카페', 'Frankfurt café across from the Cathedral of St. Bartholomew'),
+  place('frankfurt-cafe-1', 'frankfurt', 'cafe', 'Kaffeehaus Goldene Waage', 4.5, 'Römerberg, 60311 Frankfurt am Main, Germany', '성 바르톨로메우스 대성당 맞은편의 프랑크푸르트 카페', 'Frankfurt café across from the Cathedral of St. Bartholomew', { image: '/places/frankfurt-cafe-1.jpg' }),
   place('frankfurt-cafe-2', 'frankfurt', 'cafe', 'WHY! Specialty Coffee', 4.7, 'Kaiserstraße 36, Frankfurt', '프랑크푸르트 중심가의 스페셜티 커피.', 'Specialty coffee in central Frankfurt.', { reviewCount: 640 }),
   place('frankfurt-cafe-3', 'frankfurt', 'cafe', 'retablo specialty coffee', 4.9, 'Schifferstraße 12, Frankfurt', '스페셜티 커피 전문점.', 'Specialty coffee shop.', { reviewCount: 334 }),
   place('frankfurt-cafe-4', 'frankfurt', 'cafe', 'Bunca Barista & Caterer', 4.6, 'Kirchnerstraße 4, Frankfurt', '엄선한 에스프레소 음료와 페이스트리를 선보이는 카페.', 'Café known for curated espresso drinks and pastries.', { reviewCount: 1206 }),
@@ -83,8 +83,8 @@ export const placesDEExtra: Place[] = [
   place('dresden-fine_dining-1', 'dresden', 'fine_dining', 'Sophienkeller im Taschenbergpalais', 4.5, 'Taschenberg 3, 01067 Dresden', '중세 테마의 작센 요리.', 'Medieval-themed Saxon dining.'),
   place('dresden-fine_dining-2', 'dresden', 'fine_dining', 'Kutscherschänke', 4.5, 'Münzgasse 10, Dresden', '노이슈타트의 인기 전통 작센 레스토랑.', 'Popular traditional Saxon restaurant in the old town.', { reviewCount: 9009 }),
   place('dresden-fine_dining-3', 'dresden', 'fine_dining', 'Coselpalais - Restaurant & Grand Café', 4.6, 'An d. Frauenkirche 12, Dresden', '프라우엔키르헤 옆 우아한 레스토랑 겸 그랜드 카페.', 'Elegant restaurant and grand café beside the Frauenkirche.', { reviewCount: 4049 }),
-  place('dresden-fine_dining-4', 'dresden', 'fine_dining', 'Gänsedieb', 4.5, 'Weiße Gasse 1, Dresden', '구시가지의 인기 전통 레스토랑.', 'Popular traditional restaurant in the old town.', { reviewCount: 2567 }),
-  place('dresden-fine_dining-5', 'dresden', 'fine_dining', 'Zum Schießhaus', 4.5, 'Am Schießhaus 19, Dresden', '유럽식 요리를 선보이는 레스토랑.', 'Restaurant serving European cuisine.', { reviewCount: 3375 }),
+  place('dresden-fine_dining-4', 'dresden', 'fine_dining', 'Gänsedieb', 4.5, 'Weiße Gasse 1, Dresden', '구시가지의 인기 전통 레스토랑.', 'Popular traditional restaurant in the old town.', { reviewCount: 2567, image: '/places/dresden-fine_dining-4.jpg' }),
+  place('dresden-fine_dining-5', 'dresden', 'fine_dining', 'Zum Schießhaus', 4.5, 'Am Schießhaus 19, Dresden', '유럽식 요리를 선보이는 레스토랑.', 'Restaurant serving European cuisine.', { reviewCount: 3375, image: '/places/dresden-fine_dining-5.jpg' }),
   place('dresden-bakery-1', 'dresden', 'bakery', 'Bäckerei Emil Reimann', 4.3, 'Altmarkt 25, 01067 Dresden, Germany', '알트마르크트 갤러리 안에 위치한 드레스덴의 베이커리 아이스카페', 'Bakery ice-café inside the Altmarkt Galerie in Dresden'),
   place('dresden-bakery-2', 'dresden', 'bakery', 'émoi Patisserie and Café', 4.6, 'Kamenzer Str. 40, Dresden', '노이슈타트의 파티세리 겸 카페.', 'Patisserie and café in the Neustadt district.', { reviewCount: 537 }),
   place('dresden-bakery-3', 'dresden', 'bakery', 'Café am Ring - Bakery Krause', 4.7, 'Ringstraße 7, Dresden', '드레스덴의 인기 베이커리 카페.', 'Popular bakery café in Dresden.', { reviewCount: 819 }),
@@ -103,12 +103,12 @@ export const placesDEExtra: Place[] = [
   place('heidelberg-bakery-2', 'heidelberg', 'bakery', 'Südseite', 4.8, 'Wundtstraße 7/3, Heidelberg', '사워도우 베이커리 겸 스페셜티 커피 로스터리.', 'Sourdough bakery and specialty coffee roastery.', { reviewCount: 228 }),
   place('heidelberg-bakery-3', 'heidelberg', 'bakery', 'Macaronnerie', 4.7, 'Sofienstraße 23, Heidelberg', '프랑스식 페이스트리 전문점.', 'Specialist in French-style pastries.', { reviewCount: 820 }),
   place('heidelberg-cafe-1', 'heidelberg', 'cafe', 'Cafe Zimmermann', 4.4, 'Rohrbacher Straße 130, 69126 Heidelberg, Germany', '고풍스러운 조명이 있는 클래식한 분위기의 하이델베르크 카페', 'Classic coffeehouse-style café in Heidelberg with ornate lighting'),
-  place('heidelberg-cafe-2', 'heidelberg', 'cafe', 'Café Schafheutle', 4.7, 'Hauptstraße 94, Heidelberg', '하우프트슈트라세의 인기 카페.', 'Popular café on Hauptstraße.', { reviewCount: 2058 }),
+  place('heidelberg-cafe-2', 'heidelberg', 'cafe', 'Café Schafheutle', 4.7, 'Hauptstraße 94, Heidelberg', '하우프트슈트라세의 인기 카페.', 'Popular café on Hauptstraße.', { reviewCount: 2058, image: '/places/heidelberg-cafe-2.jpg' }),
   place('heidelberg-korean-1', 'heidelberg', 'korean', 'Restaurant ON', 4.7, 'Haspelgasse 4, Heidelberg', '구시가지의 한식당.', 'Korean restaurant in the old town.', { reviewCount: 675 }),
 
   // —— nuremberg ——
-  place('nuremberg-fine_dining-1', 'nuremberg', 'fine_dining', 'Schwarzer Adler', 4.5, 'Zirkelschmiedsgasse 26, 90402 Nürnberg', '모던 프랑코니아 요리.', 'Modern Franconian cuisine.'),
-  place('nuremberg-fine_dining-2', 'nuremberg', 'fine_dining', 'Albrecht-Dürer-Stube', 4.7, 'Albrecht-Dürer-Straße 6, Nürnberg', '알브레히트 뒤러 하우스 인근의 프랑코니아 레스토랑.', 'Franconian restaurant near the Albrecht Dürer House.', { reviewCount: 2028 }),
+  place('nuremberg-fine_dining-1', 'nuremberg', 'fine_dining', 'Schwarzer Adler', 4.5, 'Zirkelschmiedsgasse 26, 90402 Nürnberg', '모던 프랑코니아 요리.', 'Modern Franconian cuisine.', { image: '/places/nuremberg-fine_dining-1.jpg' }),
+  place('nuremberg-fine_dining-2', 'nuremberg', 'fine_dining', 'Albrecht-Dürer-Stube', 4.7, 'Albrecht-Dürer-Straße 6, Nürnberg', '알브레히트 뒤러 하우스 인근의 프랑코니아 레스토랑.', 'Franconian restaurant near the Albrecht Dürer House.', { reviewCount: 2028, image: '/places/nuremberg-fine_dining-2.jpg' }),
   place('nuremberg-fine_dining-3', 'nuremberg', 'fine_dining', 'Zum Flößla', 4.8, 'Unterer Bergauerpl. 12, Nürnberg', '뉘른베르크의 인기 프랑코니아 레스토랑.', 'Popular Franconian restaurant in Nuremberg.', { reviewCount: 1284 }),
   place('nuremberg-fine_dining-4', 'nuremberg', 'fine_dining', 'Wirtshaus Hütt\'n', 4.5, 'Bergstraße 20, Nürnberg', '카이저부르크 인근의 전통 프랑코니아 선술집.', 'Traditional Franconian tavern near the Kaiserburg.', { reviewCount: 4529 }),
   place('nuremberg-fine_dining-5', 'nuremberg', 'fine_dining', 'Trödelstuben', 4.5, 'Trödelmarkt 30, Nürnberg', '소박한 공간에서 즐기는 지역 음식과 맥주.', 'Regional food and beer in a rustic setting.', { reviewCount: 5060 }),
@@ -123,7 +123,7 @@ export const placesDEExtra: Place[] = [
   place('nuremberg-korean-1', 'nuremberg', 'korean', 'Seoul Kitchen Restaurant', 4.7, 'Pirckheimerstraße 75, Nürnberg', '뉘른베르크의 한식당.', 'Korean restaurant in Nuremberg.', { reviewCount: 805 }),
 
   // —— stuttgart ——
-  place('stuttgart-fine_dining-1', 'stuttgart', 'fine_dining', 'Speisemeisterei', 4.6, 'Hohenheimer Straße 28-30, 70599 Stuttgart', '호엔하임 궁전의 미쉐린 레스토랑.', 'Michelin restaurant at Hohenheim Palace.'),
+  place('stuttgart-fine_dining-1', 'stuttgart', 'fine_dining', 'Speisemeisterei', 4.6, 'Hohenheimer Straße 28-30, 70599 Stuttgart', '호엔하임 궁전의 미쉐린 레스토랑.', 'Michelin restaurant at Hohenheim Palace.', { image: '/places/stuttgart-fine_dining-1.jpg' }),
   place('stuttgart-fine_dining-2', 'stuttgart', 'fine_dining', 'Zum Becher', 4.8, 'Urbanstraße 33, Stuttgart', '슈투트가르트의 인기 슈바벤 레스토랑 겸 비어가든.', 'Popular Swabian restaurant and beer garden in Stuttgart.', { reviewCount: 792 }),
   place('stuttgart-fine_dining-3', 'stuttgart', 'fine_dining', 'Carls Brewery', 4.5, 'Stauffenbergstraße 1, Stuttgart', '넓은 공간의 독일식 브루어리 레스토랑.', 'Spacious German brewery restaurant.', { reviewCount: 10732 }),
   place('stuttgart-fine_dining-4', 'stuttgart', 'fine_dining', 'Restaurant "Zum Ackerbürger"', 4.7, 'Spreuergasse 38, Stuttgart', '슈투트가르트의 독일 요리 레스토랑.', 'German cuisine restaurant in Stuttgart.', { reviewCount: 1431 }),
@@ -139,16 +139,16 @@ export const placesDEExtra: Place[] = [
   place('stuttgart-korean-1', 'stuttgart', 'korean', 'Mandu', 4.6, 'Fritz-Elsas-Straße 60, Stuttgart', '슈투트가르트의 한식당.', 'Korean restaurant in Stuttgart.', { reviewCount: 1810 }),
 
   // —— leipzig ——
-  place('leipzig-fine_dining-1', 'leipzig', 'fine_dining', 'Stadtpfeiffer', 4.6, 'Augustusplatz 8, 04109 Leipzig', '노이에스 게반트하우스의 미식 레스토랑.', 'Fine dining in the Neues Gewandhaus.'),
+  place('leipzig-fine_dining-1', 'leipzig', 'fine_dining', 'Stadtpfeiffer', 4.6, 'Augustusplatz 8, 04109 Leipzig', '노이에스 게반트하우스의 미식 레스토랑.', 'Fine dining in the Neues Gewandhaus.', { image: '/places/leipzig-fine_dining-1.jpg' }),
   place('leipzig-fine_dining-2', 'leipzig', 'fine_dining', 'Ratskeller der Stadt Leipzig', 4.6, 'Lotterstraße 1, Leipzig', '라이프치히의 전통 시청 지하 레스토랑.', "Traditional town-hall-cellar restaurant in Leipzig.", { reviewCount: 5786 }),
-  place('leipzig-fine_dining-3', 'leipzig', 'fine_dining', 'Auerbachs Keller Leipzig', 4.4, 'Grimmaische Str. 2-4, 04109 Leipzig', '메들러 파사주에 위치한 괴테의 파우스트에 등장하는 유서 깊은 레스토랑.', "Historic restaurant in the Mädler-Passage featured in Goethe's Faust.", { reviewCount: 10033 }),
-  place('leipzig-fine_dining-4', 'leipzig', 'fine_dining', 'Restaurant Weinstock Leipzig', 4.6, 'Markt 7, Leipzig', '마르크트 광장의 레스토랑.', 'Restaurant on the Markt square.', { reviewCount: 972 }),
+  place('leipzig-fine_dining-3', 'leipzig', 'fine_dining', 'Auerbachs Keller Leipzig', 4.4, 'Grimmaische Str. 2-4, 04109 Leipzig', '메들러 파사주에 위치한 괴테의 파우스트에 등장하는 유서 깊은 레스토랑.', "Historic restaurant in the Mädler-Passage featured in Goethe's Faust.", { reviewCount: 10033, image: '/places/leipzig-fine_dining-3.jpg' }),
+  place('leipzig-fine_dining-4', 'leipzig', 'fine_dining', 'Restaurant Weinstock Leipzig', 4.6, 'Markt 7, Leipzig', '마르크트 광장의 레스토랑.', 'Restaurant on the Markt square.', { reviewCount: 972, image: '/places/leipzig-fine_dining-4.jpg' }),
   place('leipzig-fine_dining-5', 'leipzig', 'fine_dining', 'Wagners Restaurant und Weinwirtschaft', 4.7, 'Richard-Wagner-Platz 1, Leipzig', '라이프치히의 레스토랑 겸 와인바.', 'Restaurant and wine bar in Leipzig.', { reviewCount: 563 }),
   place('leipzig-bakery-1', 'leipzig', 'bakery', 'Confectionery & Café Krüsmann', 4.5, 'Willy-Brandt-Platz 7, 04109 Leipzig, Germany', '케이크와 커피로 유명한 라이프치히의 아늑한 베이커리', 'Charming Leipzig bakery renowned for cakes and coffee'),
   place('leipzig-bakery-2', 'leipzig', 'bakery', 'Backstein - Bäckerei für zeitgenössisches Brot', 4.8, 'Grassistraße 4, Leipzig', '현대적인 빵을 선보이는 라이프치히의 베이커리.', 'Bakery in Leipzig specializing in contemporary bread.', { reviewCount: 668 }),
   place('leipzig-bakery-3', 'leipzig', 'bakery', 'Hart & Herzlich Pâtisserie unplugged', 4.8, 'Georg-Schumann-Straße 130, Leipzig', '라이프치히의 프랑스식 파티세리.', 'French-style patisserie in Leipzig.', { reviewCount: 500 }),
   place('leipzig-bakery-4', 'leipzig', 'bakery', 'Macis Leipzig - Biobäckerei', 4.6, 'Markgrafenstraße 10, Leipzig', '라이프치히의 유기농 베이커리.', 'Organic bakery in Leipzig.', { reviewCount: 256 }),
-  place('leipzig-cafe-1', 'leipzig', 'cafe', 'Addis Café', 4.4, 'Brüderstraße 39, 04103 Leipzig, Germany', '라이프치히의 인기 카페', 'Popular café in Leipzig'),
+  place('leipzig-cafe-1', 'leipzig', 'cafe', 'Addis Café', 4.4, 'Brüderstraße 39, 04103 Leipzig, Germany', '라이프치히의 인기 카페', 'Popular café in Leipzig', { image: '/places/leipzig-cafe-1.jpg' }),
   place('leipzig-cafe-2', 'leipzig', 'cafe', 'FIX Coffee', 4.8, 'Nürnberger Str. 27, Leipzig', '라이프치히의 커피숍.', 'Coffee shop in Leipzig.', { reviewCount: 373 }),
   place('leipzig-cafe-3', 'leipzig', 'cafe', '7 shots coffee', 4.8, 'Philipp-Rosenthal-Straße 7, Leipzig', '라이프치히의 커피숍.', 'Coffee shop in Leipzig.', { reviewCount: 488 }),
   place('leipzig-cafe-4', 'leipzig', 'cafe', 'Café Kollwitz', 4.9, 'Marschnerstraße 11, Leipzig', '라이프치히의 인기 카페.', 'Popular café in Leipzig.', { reviewCount: 414 }),
@@ -163,14 +163,14 @@ export const placesDEExtra: Place[] = [
   place('rothenburg-cafe-2', 'rothenburg', 'cafe', 'Cafe Einzigartig', 4.7, 'Galgengasse 33, Rothenburg ob der Tauber', '로텐부르크의 인기 카페.', 'Popular café in Rothenburg ob der Tauber.', { reviewCount: 1952 }),
 
   // —— potsdam ——
-  place('potsdam-fine_dining-1', 'potsdam', 'fine_dining', 'Juliette', 4.6, 'Jägerstraße 39, 14467 Potsdam', '클래식 프렌치 요리 레스토랑.', 'Classic French cuisine restaurant.'),
+  place('potsdam-fine_dining-1', 'potsdam', 'fine_dining', 'Juliette', 4.6, 'Jägerstraße 39, 14467 Potsdam', '클래식 프렌치 요리 레스토랑.', 'Classic French cuisine restaurant.', { image: '/places/potsdam-fine_dining-1.jpg' }),
   place('potsdam-fine_dining-2', 'potsdam', 'fine_dining', 'Fine Dining Restaurant kochZIMMER', 4.8, 'Am Neuen Markt 10, Potsdam', '노이어 마르크트의 파인다이닝 레스토랑.', 'Fine dining restaurant on Am Neuen Markt.', { reviewCount: 323 }),
-  place('potsdam-fine_dining-3', 'potsdam', 'fine_dining', 'Zum Fliegenden Holländer', 4.4, 'Benkertstraße 5, Potsdam', '포츠담의 전통 독일 요리 레스토랑.', 'Traditional German cuisine restaurant in Potsdam.', { reviewCount: 2294 }),
+  place('potsdam-fine_dining-3', 'potsdam', 'fine_dining', 'Zum Fliegenden Holländer', 4.4, 'Benkertstraße 5, Potsdam', '포츠담의 전통 독일 요리 레스토랑.', 'Traditional German cuisine restaurant in Potsdam.', { reviewCount: 2294, image: '/places/potsdam-fine_dining-3.jpg' }),
   place('potsdam-fine_dining-4', 'potsdam', 'fine_dining', 'Dreimäderlhaus', 4.6, 'Hermann-Elflein-Straße 12, Potsdam', '포츠담의 독일 요리 레스토랑.', 'German cuisine restaurant in Potsdam.', { reviewCount: 930 }),
 
   place('potsdam-bakery-1', 'potsdam', 'bakery', 'Bäckerei und Konditorei Schröter', 4.4, 'Brandenburger Straße 4, 14467 Potsdam, Germany', '포츠담 중심가에 위치한 아담한 베이커리 카페', 'Compact bakery café in the heart of Potsdam'),
   place('potsdam-bakery-2', 'potsdam', 'bakery', 'ZEIT FÜR BROT', 4.5, 'Brandenburger Str. 28A, Potsdam', '브란덴부르크 거리의 베이커리 체인.', 'Bakery chain on Brandenburger Straße.', { reviewCount: 593 }),
-  place('potsdam-cafe-1', 'potsdam', 'cafe', 'Café Heider', 4.5, 'Friedrich-Ebert-Straße 29, 14467 Potsdam, Germany', '1878년부터 이어온 포츠담에서 가장 오래된 카페', 'Potsdam\'s oldest café, serving since 1878'),
+  place('potsdam-cafe-1', 'potsdam', 'cafe', 'Café Heider', 4.5, 'Friedrich-Ebert-Straße 29, 14467 Potsdam, Germany', '1878년부터 이어온 포츠담에서 가장 오래된 카페', 'Potsdam\'s oldest café, serving since 1878', { image: '/places/potsdam-cafe-1.jpg' }),
   place('potsdam-cafe-2', 'potsdam', 'cafe', 'Buena Vida Coffee Roasters', 4.6, 'Am Bassin 7, Potsdam', '포츠담의 커피 로스터리.', 'Coffee roastery in Potsdam.', { reviewCount: 1430 }),
   place('potsdam-cafe-3', 'potsdam', 'cafe', 'Lukas Café', 4.8, 'Karl-Liebknecht-Straße 20, Potsdam', '포츠담의 인기 카페.', 'Popular café in Potsdam.', { reviewCount: 513 }),
 

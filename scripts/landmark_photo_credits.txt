@@ -250,6 +250,35 @@ places/montreux-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Tea_Room_de
 places/grindelwald-fine_dining-1.jpg | https://www.flickr.com/photos/16253319@N00/32392053048 | BY 2.0 | travelmemo.com
 places/st-moritz-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:St._Moritz_Hanselmann.JPG | CC BY-SA 4.0 | Paebi
 
+# Germany place photos
+places/hamburg-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Fischereihafen_Restaurant_-_panoramio.jpg | CC BY 3.0 | hh oldman
+places/hamburg-cafe-1.jpg | https://www.flickr.com/photos/13101981@N03/4756285764 | BY-SA 2.0 | pixculture
+places/berlin-fine_dining-1.jpg | https://www.flickr.com/photos/27454212@N00/7422988912 | BY-SA 2.0 | Kent Wang
+places/berlin-fine_dining-4.jpg | https://www.flickr.com/photos/67975030@N00/2363561835 | BY 2.0 | Bernt Rostad
+places/berlin-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_(Berlin,_2018).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+places/berlin-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/47968090892 | BY 2.0 | Bex.Walton
+places/berlin-cafe-4.jpg | https://www.flickr.com/photos/7831824@N04/47968090263 | BY 2.0 | Bex.Walton
+places/potsdam-fine_dining-1.jpg | https://www.flickr.com/photos/192018235@N04/53000437386 | BY 2.0 | We Like Sharing
+places/potsdam-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Potsdam_Benkertstra%C3%9Fe_lub_2023-07-16_Zum_Fliegenden_Holl%C3%A4nder.jpg | CC BY-SA 4.0 | Lukas Beck
+places/potsdam-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Potsdam_Friedrich-Ebert-Stra%C3%9Fe_29_Cafe-Heider_20220904_130808.jpg | CC BY-SA 4.0 | Rigorius
+places/cologne-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Peters_Brauhaus,_K%C3%B6ln-8848.jpg | CC BY-SA 4.0 | Raimond Spekking
+places/cologne-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Brauhaus_Fr%C3%BCh_am_Dom_K%C3%B6ln_383-cv3.jpg | CC BY-SA 3.0 | Pedelecs
+places/cologne-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/32474090811 | BY 2.0 | Bex.Walton
+places/frankfurt-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Kaffeehaus_Goldene_Waage.jpeg | CC BY-SA 4.0 | RudolfSimon
+places/leipzig-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Stadtpfeiffer.jpg | CC BY-SA 3.0 | Geisler Martin
+places/leipzig-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Bierdeckel_DDR_-_Auerbachs_Keller_Leipzig_-_Bild_001.jpg | CC BY-SA 4.0 | Lupus in Saxonia
+places/leipzig-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Echter_Weinstock_Leipzig_Am_Markt_7.JPG | CC BY-SA 3.0 | Edlerin
+places/leipzig-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Leipzig,_Addis_Caf%C3%A9,_Ethiopian,_Br%C3%BCderstra%C3%9Fe.jpg | CC0 | Catatine
+places/dresden-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:DD-G%C3%A4nsedieb-pano.jpg | CC BY-SA 3.0 | Kolossos
+places/dresden-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Dresden,_Am_Schie%C3%9Fhaus_19,_Wirtschaft_Zum_Schie%C3%9Fhaus,_17.6.2.40-060561.jpg | CC BY-SA 4.0 | Albrecht Voß
+places/heidelberg-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Confiserie_Schafheutle_HD.JPG | CC BY-SA 3.0 | 4028mdk09
+places/stuttgart-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Speisemeisterei_im_Schloss_Stuttgart-Hohenheim_-_panoramio.jpg | CC BY 3.0 | qwesy qwesy
+places/nuremberg-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Nuremberg_Almoshof_Gasthaus_Schwarzer_Adler_001.JPG | CC BY 3.0 | Janericloebe
+places/nuremberg-fine_dining-2.jpg | https://www.flickr.com/photos/67975030@N00/8071333223 | BY 2.0 | Bernt Rostad
+places/munich-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Munich_--_Augustiner_Braustuben_02.jpg | CC BY-SA 4.0 | Explorer1940
+places/munich-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_%E2%80%94_Hofbr%C3%A4uhaus-Kunstm%C3%BChle_2013.JPG | CC BY 2.0 de | User:Mattes
+places/munich-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Gasthaus_Isarthor_M%C3%BCnchen_01.jpg | CC BY-SA 4.0 | Burkhard Mücke
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
