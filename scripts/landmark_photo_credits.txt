@@ -227,6 +227,29 @@ places/dublin-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:At_Bewley%27s
 places/dublin-korean-1.jpg | https://www.flickr.com/photos/80824546@N00/37948183304 | BY-SA 2.0 | infomatique
 places/bonifacio-fine_dining-2.jpg | https://www.flickr.com/photos/7815453@N05/5790718813 | BY-SA 2.0 | paspog
 
+# Switzerland place photos
+places/zurich-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Switzerland-Kronenhalle-Zurich-01.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+places/zurich-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Paradeplatz_-_Zeughauskeller_2011-03-15_17-42-48_ShiftN.jpg | CC BY-SA 3.0 | Roland zh
+places/zurich-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Hiltl_Z%C3%BCrich.jpg | CC BY-SA 3.0 | Adrian Michael
+places/zurich-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Confiserie_Spr%C3%BCngli_2010.jpg | CC BY-SA 3.0 | Adrian Michael
+places/zurich-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:7445_-_Z%C3%BCrich_-_Caf%C3%A9_Schober_-_Hot_Chocolate.JPG | CC BY-SA 2.5 | Andrew Bossi
+places/zurich-cafe-4.jpg | https://www.flickr.com/photos/25601791@N00/2203994426 | BY 2.0 | Global X
+places/geneva-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Hotel_les_Armures_Gen%C3%A8ve_(2026).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+places/bern-fine_dining-1.jpg | https://www.flickr.com/photos/35356997@N00/3063907357 | BY 2.0 | macronix
+places/bern-fine_dining-3.jpg | https://www.flickr.com/photos/54741099@N00/2939583246 | BY-SA 2.0 | Bods
+places/lucerne-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Switzerland-03276_-_Old_Swiss_House_(23733914622).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+places/lucerne-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Luzern_Rathaus_Brauerei_(2).jpg | CC BY-SA 4.0 | Paebi
+places/lucerne-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Wirtschaft_Stadtkeller.jpg | CC BY-SA 4.0 | Paradise Chronicle
+places/interlaken-cafe-2.jpg | https://www.flickr.com/photos/9445979@N03/32897373498 | BY 2.0 | ResonantFelicity
+places/basel-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Schl%C3%BCsselzunft.jpg | CC BY-SA 4.0 | HeinrichSchnorf
+places/basel-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Rudolf_Sandreuter_(1868%E2%80%931926)_Architekt._Restaurant_%C2%ABzum_Gifth%C3%BCttli%C2%BB_in_Basel_(1).jpg | CC BY-SA 4.0 | EinDao
+places/zermatt-fine_dining-1.jpg | https://www.flickr.com/photos/38101324@N00/3183888147 | BY-SA 2.0 | alex.ch
+places/lausanne-fine_dining-3.jpg | https://www.flickr.com/photos/90533773@N06/54203158402 | BY-SA 2.0 | Tery14
+places/montreux-fine_dining-4.jpg | https://www.flickr.com/photos/73293249@N00/14717655764 | BY-SA 2.0 | Olivier Bruchez
+places/montreux-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Tea_Room_de_la_Baye_(Montreux)-1.jpg | CC BY-SA 4.0 | MHM55
+places/grindelwald-fine_dining-1.jpg | https://www.flickr.com/photos/16253319@N00/32392053048 | BY 2.0 | travelmemo.com
+places/st-moritz-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:St._Moritz_Hanselmann.JPG | CC BY-SA 4.0 | Paebi
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

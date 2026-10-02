@@ -4,19 +4,19 @@ import type { Place } from '../types'
 export const placesCHExtra: Place[] = [
   // —— zurich ——
   place('zurich-fine_dining-1', 'zurich', 'fine_dining', 'Restaurant Bindella', 4.5, 'In Gassen 6, 8001 Zurich, Switzerland', '이탈리안·스위스 파인.', 'Italian-Swiss fine dining.', { reviewCount: 1600 }),
-  place('zurich-fine_dining-2', 'zurich', 'fine_dining', 'Kronenhalle', 4.5, 'Rämistrasse 4, 8001 Zurich, Switzerland', '클래식 취리히 다이닝.', 'Classic Zurich dining.', { reviewCount: 4200 }),
+  place('zurich-fine_dining-2', 'zurich', 'fine_dining', 'Kronenhalle', 4.5, 'Rämistrasse 4, 8001 Zurich, Switzerland', '클래식 취리히 다이닝.', 'Classic Zurich dining.', { reviewCount: 4200, image: '/places/zurich-fine_dining-2.jpg' }),
   place('zurich-fine_dining-3', 'zurich', 'fine_dining', 'Maison Manesse', 4.6, 'Hopfenstrasse 2, 8045 Zürich, Switzerland', '모던 시즌 코스.', 'Modern seasonal tasting.', { reviewCount: 980 }),
-  place('zurich-fine_dining-4', 'zurich', 'fine_dining', 'Zeughauskeller', 4.4, 'Bahnhofstrasse 28a, 8001 Zurich, Switzerland', '전통 스위스 요리.', 'Traditional Swiss.', { reviewCount: 6800 }),
-  place('zurich-fine_dining-5', 'zurich', 'fine_dining', 'Hiltl', 4.4, 'Sihlstrasse 28, 8001 Zurich, Switzerland', '채식 다이닝 클래식.', 'Classic vegetarian dining.', { reviewCount: 5200 }),
-  place('zurich-bakery-1', 'zurich', 'bakery', 'Confiserie Sprüngli', 4.4, 'Bahnhofstrasse 21, Zurich', '초콜릿·페이스트리.', 'Chocolate and pastries.', { reviewCount: 4927 }),
+  place('zurich-fine_dining-4', 'zurich', 'fine_dining', 'Zeughauskeller', 4.4, 'Bahnhofstrasse 28a, 8001 Zurich, Switzerland', '전통 스위스 요리.', 'Traditional Swiss.', { reviewCount: 6800, image: '/places/zurich-fine_dining-4.jpg' }),
+  place('zurich-fine_dining-5', 'zurich', 'fine_dining', 'Hiltl', 4.4, 'Sihlstrasse 28, 8001 Zurich, Switzerland', '채식 다이닝 클래식.', 'Classic vegetarian dining.', { reviewCount: 5200, image: '/places/zurich-fine_dining-5.jpg' }),
+  place('zurich-bakery-1', 'zurich', 'bakery', 'Confiserie Sprüngli', 4.4, 'Bahnhofstrasse 21, Zurich', '초콜릿·페이스트리.', 'Chocolate and pastries.', { reviewCount: 4927, image: '/places/zurich-bakery-1.jpg' }),
   place('zurich-bakery-2', 'zurich', 'bakery', 'Confiseur Bachmann', 4.1, 'Bahnhofstrasse 89, Zurich', '빵·페이스트리.', 'Bread and pastries.', { reviewCount: 1548 }),
   place('zurich-bakery-3', 'zurich', 'bakery', 'St. Jakob Beck & Kafi Viadukt', 4.4, 'Viaduktstrasse 20, Zurich', '비아둑트 마켓 베이커리.', 'Bakery in the Im Viadukt market hall area.', { reviewCount: 126 }),
   place('zurich-bakery-4', 'zurich', 'bakery', 'à vie baked goods', 4.9, 'Feldeggstrasse 53, Zurich', '로컬 베이커리.', 'Local bakery.', { reviewCount: 44 }),
   place('zurich-bakery-5', 'zurich', 'bakery', 'John Baker', 4.2, 'Bahnhofstrasse 9, 8001 Zürich', '오가닉 빵과 비건 샌드위치.', 'Organic bread and vegan sandwiches.', { reviewCount: 429 }),
-  place('zurich-cafe-1', 'zurich', 'cafe', 'Café Schober', 4.4, 'Stegengasse, 8001 Zurich, Switzerland', '클래식 카페.', 'Classic café.', { reviewCount: 3200 }),
+  place('zurich-cafe-1', 'zurich', 'cafe', 'Café Schober', 4.4, 'Stegengasse, 8001 Zurich, Switzerland', '클래식 카페.', 'Classic café.', { reviewCount: 3200, image: '/places/zurich-cafe-1.jpg' }),
   place('zurich-cafe-2', 'zurich', 'cafe', 'Milchbar', 4.5, 'Kappelergasse 16, 8001 Zurich, Switzerland', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1800 }),
   place('zurich-cafe-3', 'zurich', 'cafe', 'Balthasar', 4.5, 'Balthasar-Trüb-Weg, 8615 Uster, Switzerland', '스페셜티.', 'Specialty coffee.', { reviewCount: 1400 }),
-  place('zurich-cafe-4', 'zurich', 'cafe', 'Café Sprüngli', 4.4, 'Bahnhofstrasse 21, 8001 Zurich, Switzerland', '페이스트리 카페.', 'Pastry café.', { reviewCount: 5400 }),
+  place('zurich-cafe-4', 'zurich', 'cafe', 'Café Sprüngli', 4.4, 'Bahnhofstrasse 21, 8001 Zurich, Switzerland', '페이스트리 카페.', 'Pastry café.', { reviewCount: 5400, image: '/places/zurich-cafe-4.jpg' }),
   place('zurich-cafe-5', 'zurich', 'cafe', 'MAME', 4.7, 'Josefstrasse 160, 8005 Zürich', '취리히 대표 스페셜티 커피.', "Zurich's leading specialty coffee spot.", { reviewCount: 1500 }),
   place('zurich-korean-1', 'zurich', 'korean', 'Akaraka', 4.5, 'Bäckerstrasse 30, 8004 Zürich', '취리히의 정통 한식당.', 'Authentic Korean restaurant in Zürich.'),
   place('zurich-korean-2', 'zurich', 'korean', 'Haru Korean BBQ', 4.5, 'Stüssihofstatt 15, 8001 Zürich', '한국식 바베큐 전문점.', 'Korean barbecue specialist.', { reviewCount: 300 }),
@@ -26,7 +26,7 @@ export const placesCHExtra: Place[] = [
 
   // —— geneva ——
   place('geneva-fine_dining-1', 'geneva', 'fine_dining', 'Domaine de Chateauvieux', 4.6, 'Place du Petit-Saconnex 6, 1209 Genève', '제네바 근교의 미쉐린 레스토랑.', 'Michelin restaurant near Geneva.'),
-  place('geneva-fine_dining-2', 'geneva', 'fine_dining', 'Restaurant Les Armures', 4.6, 'Rue du Puits-Saint-Pierre 1, 1204 Geneva, Switzerland', '구시가지의 유서 깊은 스위스 요리 레스토랑.', 'Historic Swiss cuisine restaurant in the old town.', { reviewCount: 4081 }),
+  place('geneva-fine_dining-2', 'geneva', 'fine_dining', 'Restaurant Les Armures', 4.6, 'Rue du Puits-Saint-Pierre 1, 1204 Geneva, Switzerland', '구시가지의 유서 깊은 스위스 요리 레스토랑.', 'Historic Swiss cuisine restaurant in the old town.', { reviewCount: 4081, image: '/places/geneva-fine_dining-2.jpg' }),
   place('geneva-fine_dining-3', 'geneva', 'fine_dining', 'Auberge de Savièse', 4.6, 'Rue des Pâquis 20, Genève', '파키 지역의 인기 스위스 요리 레스토랑.', 'Popular Swiss cuisine restaurant in the Pâquis district.', { reviewCount: 5335 }),
   place('geneva-fine_dining-4', 'geneva', 'fine_dining', 'Brasserie Lipp', 4.5, 'Confédération Centre, Rue de la Confédération 8, Genève', '제네바 중심가의 프랑스식 브라스리.', 'French brasserie in central Geneva.', { reviewCount: 4350 }),
   place('geneva-fine_dining-5', 'geneva', 'fine_dining', 'Café du Soleil', 4.5, 'Pl. du Petit-Saconnex 6, Genève', '400년 역사를 지닌 친근한 분위기의 스위스 요리 식당.', 'Swiss restaurant with a friendly atmosphere and 400 years of history.', { reviewCount: 3335 }),
@@ -43,9 +43,9 @@ export const placesCHExtra: Place[] = [
   place('geneva-cafe-4', 'geneva', 'cafe', 'Coffee UP - Rive Droite', 4.9, 'Bd James-Fazy 14, Genève', '리브 드루아트의 커피숍.', 'Coffee shop on the Rive Droite.', { reviewCount: 378 }),
 
   // —— bern ——
-  place('bern-fine_dining-1', 'bern', 'fine_dining', 'Kornhauskeller', 4.5, 'Kornhausplatz 18, 3011 Bern', '역사적인 건물의 스위스·지중해 요리.', 'Swiss-Mediterranean cuisine in a historic building.'),
+  place('bern-fine_dining-1', 'bern', 'fine_dining', 'Kornhauskeller', 4.5, 'Kornhausplatz 18, 3011 Bern', '역사적인 건물의 스위스·지중해 요리.', 'Swiss-Mediterranean cuisine in a historic building.', { image: '/places/bern-fine_dining-1.jpg' }),
   place('bern-fine_dining-2', 'bern', 'fine_dining', 'Restaurant Harmonie', 4.2, 'Hotelgasse 3, 3011 Bern', '전설적인 치즈 퐁뒤로 유명한 베른의 전통 맛집.', "Bernese institution famed for its legendary cheese fondue.", { reviewCount: 400 }),
-  place('bern-fine_dining-3', 'bern', 'fine_dining', 'Altes Tramdepot', 4.0, 'Grosser Muristalden 6, 3006 Bern', '베른 곰 공원 옆 자체 양조 브루어리 레스토랑.', 'Brewery restaurant beside the Bear Park with in-house beer.', { reviewCount: 2500 }),
+  place('bern-fine_dining-3', 'bern', 'fine_dining', 'Altes Tramdepot', 4.0, 'Grosser Muristalden 6, 3006 Bern', '베른 곰 공원 옆 자체 양조 브루어리 레스토랑.', 'Brewery restaurant beside the Bear Park with in-house beer.', { reviewCount: 2500, image: '/places/bern-fine_dining-3.jpg' }),
   place('bern-fine_dining-4', 'bern', 'fine_dining', 'Restaurant Le Lötschberg', 4.3, 'Zeughausgasse 16, 3011 Bern', '스위스 와인과 퐁뒤·라클레트 전문점.', 'Specialist in Swiss wine, fondue and raclette.', { reviewCount: 2200 }),
   place('bern-fine_dining-5', 'bern', 'fine_dining', 'Klösterli Weincafe', 4.5, 'Klösterlistutz 16, 3013 Bern', '풍부한 와인 셀렉션으로 유명한 와인 카페 레스토랑.', 'Wine café restaurant known for its extensive wine selection.', { reviewCount: 1500 }),
   place('bern-bakery-1', 'bern', 'bakery', 'Bread à Porter', 4.5, 'Münstergasse 74, 3011 Bern, Switzerland', '사워도우와 지역 재료를 활용한 베른의 인기 베이커리', 'Popular Bern bakery known for sourdough and regional ingredients'),
@@ -65,9 +65,9 @@ export const placesCHExtra: Place[] = [
   // —— lucerne ——
   place('lucerne-fine_dining-1', 'lucerne', 'fine_dining', 'Zunfthausrestaurant Pfistern', 4.4, 'Kornmarkt 4, 6004 Luzern', '길드하우스의 전통 스위스 요리.', 'Traditional Swiss cuisine in a historic guild house.'),
   place('lucerne-fine_dining-2', 'lucerne', 'fine_dining', 'Wirtshaus Galliker', 4.3, 'Schützenstrasse 1, 6003 Luzern', '4대째 이어온 전통 스위스 가정식.', 'Fourth-generation family-run traditional Swiss home cooking.', { reviewCount: 700 }),
-  place('lucerne-fine_dining-3', 'lucerne', 'fine_dining', 'Old Swiss House', 4.4, 'Löwenplatz 4, 6004 Luzern', '사자 기념비 인근의 역사적 스위스 다이닝.', 'Historic Swiss dining near the Lion Monument.', { reviewCount: 2400 }),
-  place('lucerne-fine_dining-4', 'lucerne', 'fine_dining', 'Rathaus Brauerei', 4.4, 'Unter der Egg 2, 6004 Luzern', '시청 옆 브루어리 레스토랑.', 'Brewery restaurant next to the town hall.', { reviewCount: 1300 }),
-  place('lucerne-fine_dining-5', 'lucerne', 'fine_dining', 'Stadtkeller', 4.3, 'Sternenplatz 3, 6004 Luzern', '퐁뒤와 스위스 민속 공연으로 유명한 레스토랑.', 'Restaurant known for fondue and Swiss folklore shows.', { reviewCount: 1600 }),
+  place('lucerne-fine_dining-3', 'lucerne', 'fine_dining', 'Old Swiss House', 4.4, 'Löwenplatz 4, 6004 Luzern', '사자 기념비 인근의 역사적 스위스 다이닝.', 'Historic Swiss dining near the Lion Monument.', { reviewCount: 2400, image: '/places/lucerne-fine_dining-3.jpg' }),
+  place('lucerne-fine_dining-4', 'lucerne', 'fine_dining', 'Rathaus Brauerei', 4.4, 'Unter der Egg 2, 6004 Luzern', '시청 옆 브루어리 레스토랑.', 'Brewery restaurant next to the town hall.', { reviewCount: 1300, image: '/places/lucerne-fine_dining-4.jpg' }),
+  place('lucerne-fine_dining-5', 'lucerne', 'fine_dining', 'Stadtkeller', 4.3, 'Sternenplatz 3, 6004 Luzern', '퐁뒤와 스위스 민속 공연으로 유명한 레스토랑.', 'Restaurant known for fondue and Swiss folklore shows.', { reviewCount: 1600, image: '/places/lucerne-fine_dining-5.jpg' }),
   place('lucerne-bakery-1', 'lucerne', 'bakery', 'Confiserie Bachmann', 4.5, 'Bahnhofplatz, 6003 Luzern, Switzerland', '루체른의 대표 제과점으로 갓 만든 초콜릿과 아이스크림으로 유명', 'Lucerne\'s leading confiserie, known for fresh chocolates and ice cream'),
   place('lucerne-bakery-2', 'lucerne', 'bakery', 'Bäckerei-Konditorei Merz', 4.5, 'Eisengasse 12, 6004 Luzern', '루체른 구시가지의 전통 제과점.', "Traditional bakery in Lucerne's old town.", { reviewCount: 300 }),
   place('lucerne-bakery-3', 'lucerne', 'bakery', 'Kuchenhaus Annamelie', 4.7, 'Löwenstrasse 12, 6004 Luzern', '헝가리식 케이크 전문점.', 'Specialist in Hungarian-style cakes.', { reviewCount: 250 }),
@@ -86,13 +86,13 @@ export const placesCHExtra: Place[] = [
   place('interlaken-bakery-1', 'interlaken', 'bakery', 'Bäckerei-Konditorei Mohler', 4.6, 'Beatenbergstrasse 1, 3800 Unterseen, Interlaken, Switzerland', '현지인들이 아침마다 줄 서서 찾는 운터제엔의 인기 베이커리', 'Popular Unterseen bakery where locals queue every morning for fresh bread'),
   place('interlaken-bakery-2', 'interlaken', 'bakery', 'Bäckerei-Konditorei Steininger', 4.7, 'Metzgergasse 2, Interlaken', '인터라켄의 베이커리.', 'Bakery in Interlaken.', { reviewCount: 359 }),
   place('interlaken-cafe-1', 'interlaken', 'cafe', 'Confiserie Rieder', 4.5, 'Marktgasse 2, 3800 Interlaken, Switzerland', '디저트와 따뜻한 음료로 유명한 인터라켄의 카페', 'Interlaken café specializing in sweets and hot drinks'),
-  place('interlaken-cafe-2', 'interlaken', 'cafe', 'Velo Cafe', 4.6, 'Unionsgasse 10, Interlaken', '인터라켄의 인기 카페.', 'Popular café in Interlaken.', { reviewCount: 2016 }),
+  place('interlaken-cafe-2', 'interlaken', 'cafe', 'Velo Cafe', 4.6, 'Unionsgasse 10, Interlaken', '인터라켄의 인기 카페.', 'Popular café in Interlaken.', { reviewCount: 2016, image: '/places/interlaken-cafe-2.jpg' }),
 
   // —— basel ——
   place('basel-fine_dining-1', 'basel', 'fine_dining', 'Cheval Blanc', 4.6, 'St. Johanns-Ring 34, 4056 Basel', '프렌치 오트 퀴진 레스토랑.', 'French haute cuisine restaurant.'),
   place('basel-fine_dining-2', 'basel', 'fine_dining', 'Brasserie Les Trois Rois', 4.7, 'Blumenrain 8, Basel', '레 트루아 루아 호텔의 브라스리.', 'Brasserie inside the Les Trois Rois hotel.', { reviewCount: 712 }),
-  place('basel-fine_dining-3', 'basel', 'fine_dining', 'Schlüsselzunft', 4.6, 'Freie Str. 25, Basel', '길드하우스의 전통 스위스 요리 레스토랑.', 'Traditional Swiss cuisine restaurant in a historic guild house.', { reviewCount: 933 }),
-  place('basel-fine_dining-4', 'basel', 'fine_dining', 'Gifthüttli', 4.4, 'Schneidergasse 11, Basel', '바젤의 전통 스위스 요리 식당.', 'Traditional Swiss cuisine restaurant in Basel.', { reviewCount: 2237 }),
+  place('basel-fine_dining-3', 'basel', 'fine_dining', 'Schlüsselzunft', 4.6, 'Freie Str. 25, Basel', '길드하우스의 전통 스위스 요리 레스토랑.', 'Traditional Swiss cuisine restaurant in a historic guild house.', { reviewCount: 933, image: '/places/basel-fine_dining-3.jpg' }),
+  place('basel-fine_dining-4', 'basel', 'fine_dining', 'Gifthüttli', 4.4, 'Schneidergasse 11, Basel', '바젤의 전통 스위스 요리 식당.', 'Traditional Swiss cuisine restaurant in Basel.', { reviewCount: 2237, image: '/places/basel-fine_dining-4.jpg' }),
   place('basel-fine_dining-5', 'basel', 'fine_dining', 'Ufer7 Basel', 4.5, 'Rheingasse 11, Basel', '라인강변의 레스토랑.', 'Restaurant on the banks of the Rhine.', { reviewCount: 869 }),
   place('basel-bakery-1', 'basel', 'bakery', 'Confiserie Schiesser', 4.5, 'Marktplatz 19, 4051 Basel, Switzerland', '1870년부터 이어진 스위스에서 가장 오래된 커피하우스', 'Family-run institution since 1870, the oldest coffee house in Switzerland'),
   place('basel-bakery-2', 'basel', 'bakery', 'Konditorei-Confiserie Gilgen', 4.6, 'Spalenberg 6, Basel', '슈팔렌베르크의 전통 제과점.', 'Traditional confectionery on Spalenberg.', { reviewCount: 254 }),
@@ -106,7 +106,7 @@ export const placesCHExtra: Place[] = [
   place('basel-korean-2', 'basel', 'korean', 'Restaurant Bori', 4.6, 'Solothurnerstrasse 37, Basel', '바젤의 한식당.', 'Korean restaurant in Basel.', { reviewCount: 276 }),
 
   // —— zermatt ——
-  place('zermatt-fine_dining-1', 'zermatt', 'fine_dining', 'Zum See', 4.7, 'Zum See 24, 3920 Zermatt', '38년 전통의 산장 레스토랑.', 'Mountain restaurant with 38 years of tradition.'),
+  place('zermatt-fine_dining-1', 'zermatt', 'fine_dining', 'Zum See', 4.7, 'Zum See 24, 3920 Zermatt', '38년 전통의 산장 레스토랑.', 'Mountain restaurant with 38 years of tradition.', { image: '/places/zermatt-fine_dining-1.jpg' }),
   place('zermatt-fine_dining-2', 'zermatt', 'fine_dining', 'Chez Vrony', 4.8, 'Bord, 3920 Zermatt, Switzerland', '핀델른의 유명 산장 레스토랑.', 'Renowned mountain restaurant in Findeln.', { reviewCount: 2251 }),
   place('zermatt-fine_dining-3', 'zermatt', 'fine_dining', 'Findlerhof', 4.8, 'Ze Gassu, 3920 Zermatt, Switzerland', '핀델른의 전통 스위스 산장 레스토랑.', 'Traditional Swiss mountain restaurant in Findeln.', { reviewCount: 600 }),
   place('zermatt-fine_dining-4', 'zermatt', 'fine_dining', 'Restaurant Spycher', 4.8, 'Steinmattweg 7, Zermatt', '체르마트의 전통 스위스 요리 레스토랑.', 'Traditional Swiss cuisine restaurant in Zermatt.', { reviewCount: 687 }),
@@ -117,7 +117,7 @@ export const placesCHExtra: Place[] = [
   // —— lausanne ——
   place('lausanne-fine_dining-1', 'lausanne', 'fine_dining', 'Anne-Sophie Pic', 4.6, 'Chemin de Beau-Rivage 21, 1006 Lausanne', '프렌치 미식의 대가가 선보이는 레스토랑.', 'Restaurant by a celebrated French culinary master.'),
   place('lausanne-fine_dining-2', 'lausanne', 'fine_dining', 'La Table du Lausanne Palace', 4.8, 'Rue du Grand-Chêne 7-9, Lausanne', '로잔 팰리스 호텔의 고급 프랑스 요리 레스토랑.', 'Upscale French cuisine restaurant at the Lausanne Palace hotel.', { reviewCount: 254 }),
-  place('lausanne-fine_dining-3', 'lausanne', 'fine_dining', 'Vieux-Lausanne Restaurant & Giraf Bar', 4.6, 'Rue Pierre-Viret 6, Lausanne', '구시가지의 레스토랑 겸 바.', 'Restaurant and bar in the old town.', { reviewCount: 1632 }),
+  place('lausanne-fine_dining-3', 'lausanne', 'fine_dining', 'Vieux-Lausanne Restaurant & Giraf Bar', 4.6, 'Rue Pierre-Viret 6, Lausanne', '구시가지의 레스토랑 겸 바.', 'Restaurant and bar in the old town.', { reviewCount: 1632, image: '/places/lausanne-fine_dining-3.jpg' }),
   place('lausanne-fine_dining-4', 'lausanne', 'fine_dining', 'Brasserie Les 100 Suisses', 4.7, 'Rue Neuve 13, Lausanne', '로잔의 인기 브라스리.', 'Popular brasserie in Lausanne.', { reviewCount: 737 }),
   place('lausanne-fine_dining-5', 'lausanne', 'fine_dining', ':Maison66', 4.7, 'Rue de Genève 66, Lausanne', '로잔의 인기 레스토랑.', 'Popular restaurant in Lausanne.', { reviewCount: 961 }),
   place('lausanne-bakery-1', 'lausanne', 'bakery', 'Boulangerie Bread Store', 4.6, 'Rue Grand-Saint-Jean 6, 1003 Lausanne, Switzerland', '매일 빠르게 매진되는 르뱅 발효빵으로 유명한 로잔의 베이커리', 'Lausanne bakery known for its levain-leavened bread that sells out daily'),
@@ -150,15 +150,15 @@ export const placesCHExtra: Place[] = [
   place('montreux-fine_dining-1', 'montreux', 'fine_dining', 'La Rouvenaz', 4.4, 'Rue du Marché 1, 1820 Montreux', '해산물·피자 전문 이탈리안 레스토랑.', 'Italian restaurant known for seafood and pizza.'),
   place('montreux-fine_dining-2', 'montreux', 'fine_dining', 'Safran', 4.7, 'Grand-Rue 81, 1820 Montreux, Switzerland', '몽트뢰의 인기 레스토랑.', 'Popular restaurant in Montreux.', { reviewCount: 4063 }),
   place('montreux-fine_dining-3', 'montreux', 'fine_dining', 'Restaurant All\' angolo', 4.9, 'Rue du Marché 23, Montreux', '몽트뢰의 이탈리안 레스토랑.', 'Italian restaurant in Montreux.', { reviewCount: 307 }),
-  place('montreux-fine_dining-4', 'montreux', 'fine_dining', 'Montreux Jazz Café', 4.6, 'Av. Claude-Nobs 2, Montreux', '몽트뢰 재즈 페스티벌을 테마로 한 레스토랑.', 'Restaurant themed around the Montreux Jazz Festival.', { reviewCount: 879 }),
+  place('montreux-fine_dining-4', 'montreux', 'fine_dining', 'Montreux Jazz Café', 4.6, 'Av. Claude-Nobs 2, Montreux', '몽트뢰 재즈 페스티벌을 테마로 한 레스토랑.', 'Restaurant themed around the Montreux Jazz Festival.', { reviewCount: 879, image: '/places/montreux-fine_dining-4.jpg' }),
   place('montreux-bakery-1', 'montreux', 'bakery', 'Zurcher', 4.6, 'Avenue du Casino 45, 1820 Montreux, Switzerland', '장인 빵과 초콜릿, 아늑한 티룸을 갖춘 몽트뢰의 대표 제과점', 'Montreux\'s leading confiserie with artisanal bread, chocolates and a cosy tearoom'),
   place('montreux-bakery-2', 'montreux', 'bakery', 'La Bergamote', 4.7, 'Av. de Chillon 58, Montreux', '몽트뢰의 부랑주리 겸 살롱 드 테.', 'Boulangerie and tea salon in Montreux.', { reviewCount: 32 }),
-  place('montreux-cafe-1', 'montreux', 'cafe', 'Tea Room de la Baye', 4.6, 'Vieille Ville, 1820 Montreux, Switzerland', '몽트뢰 구시가지에 위치한 평이 좋은 티룸', 'Highly rated tea room in Montreux\'s old town'),
+  place('montreux-cafe-1', 'montreux', 'cafe', 'Tea Room de la Baye', 4.6, 'Vieille Ville, 1820 Montreux, Switzerland', '몽트뢰 구시가지에 위치한 평이 좋은 티룸', 'Highly rated tea room in Montreux\'s old town', { image: '/places/montreux-cafe-1.jpg' }),
   place('montreux-cafe-2', 'montreux', 'cafe', 'Le Cosy', 4.4, 'Grand-Rue 64, 1820 Montreux, Switzerland', '몽트뢰의 초콜릿 카페.', 'Chocolate café in Montreux.', { reviewCount: 351 }),
   place('montreux-cafe-3', 'montreux', 'cafe', 'Tea-room La Primerose', 4.6, "Rue de l'Église-Catholique 12, 1820 Montreux, Switzerland", '몽트뢰의 티룸.', 'Tea room in Montreux.', { reviewCount: 40 }),
 
   // —— grindelwald ——
-  place('grindelwald-fine_dining-1', 'grindelwald', 'fine_dining', 'Glacier', 4.6, 'Endweg 55, 3818 Grindelwald', '알프스 전망의 모던 스위스 요리.', 'Modern Swiss cuisine with Alpine views.'),
+  place('grindelwald-fine_dining-1', 'grindelwald', 'fine_dining', 'Glacier', 4.6, 'Endweg 55, 3818 Grindelwald', '알프스 전망의 모던 스위스 요리.', 'Modern Swiss cuisine with Alpine views.', { image: '/places/grindelwald-fine_dining-1.jpg' }),
   place('grindelwald-fine_dining-2', 'grindelwald', 'fine_dining', 'Restaurant «1910 · Gourmet by Hausers»', 4.7, 'Dorfstrasse 53, Grindelwald', '그린델발트의 고급 파인다이닝 레스토랑.', 'Upscale fine dining restaurant in Grindelwald.', { reviewCount: 85 }),
   place('grindelwald-fine_dining-3', 'grindelwald', 'fine_dining', 'Stallbeizli Heubode', 4.8, 'Itramenstrasse 2a, Grindelwald', '그린델발트의 전통 스위스 요리.', 'Traditional Swiss cuisine in Grindelwald.', { reviewCount: 473 }),
   place('grindelwald-bakery-1', 'grindelwald', 'bakery', 'Bäckerei Wüthrich', 4.5, 'Ischweg 1, 3818 Grindelwald, Switzerland', '그린델발트에서 신선한 빵과 페이스트리로 사랑받는 베이커리', 'Beloved Grindelwald bakery for fresh bread and pastries'),
@@ -173,5 +173,5 @@ export const placesCHExtra: Place[] = [
 
   place('st-moritz-bakery-1', 'st-moritz', 'bakery', 'Bäckerei Bad', 4.5, 'Via dal Bagn 4, 7500 St. Moritz, Switzerland', '1년 365일 문을 여는 생모리츠의 전통 베이커리, 엥가딘 너트 케이크로 유명', 'Traditional St. Moritz bakery open 365 days a year, known for Engadine nut cake'),
   place('st-moritz-bakery-2', 'st-moritz', 'bakery', 'Hauser Confiserie St. Moritz', 4.3, 'Via Traunter plazzas 7, St. Moritz', '생모리츠의 제과점.', 'Confectionery in St. Moritz.', { reviewCount: 75 }),
-  place('st-moritz-cafe-1', 'st-moritz', 'cafe', 'Cafe Hanselmann', 4.6, 'Via Maistra 8, 7500 St. Moritz, Switzerland', '125년 넘는 역사를 가진 생모리츠의 대표 카페 겸 초콜릿 숍', 'St. Moritz\'s iconic café and chocolate shop with over 125 years of history'),
+  place('st-moritz-cafe-1', 'st-moritz', 'cafe', 'Cafe Hanselmann', 4.6, 'Via Maistra 8, 7500 St. Moritz, Switzerland', '125년 넘는 역사를 가진 생모리츠의 대표 카페 겸 초콜릿 숍', 'St. Moritz\'s iconic café and chocolate shop with over 125 years of history', { image: '/places/st-moritz-cafe-1.jpg' }),
 ]
