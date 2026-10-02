@@ -291,6 +291,20 @@ places/antwerp-fine_dining-2.jpg | https://www.flickr.com/photos/63311602@N08/15
 places/leuven-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Leuven_Caf%C3%A9_huisbrouwerij_Domus_05.jpg | CC BY-SA 4.0 | Sally V
 places/dinant-cafe-2.jpg | https://www.flickr.com/photos/48783556@N08/14220920671 | BY 2.0 | Daviddje
 
+# Netherlands place photos
+places/rotterdam-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:1604_Parkheuvel_restaurant,_Rotterdam_152.jpg | CC BY-SA 4.0 | Jan Geerling
+places/rotterdam-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:FG_Restaurant_-_2018.jpg | CC BY-SA 4.0 | Magere Hein
+places/rotterdam-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Amarone_(Rotterdam).jpg | CC BY-SA 4.0 | Magere Hein
+places/the-hague-korean-1.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Garden,_The_Hague_(2018).jpg | CC BY-SA 4.0 | Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons.(Wa
+places/utrecht-fine_dining-1.jpg | https://www.flickr.com/photos/55626021@N03/33828122473 | BY 2.0 | Kim van Velzen
+places/utrecht-fine_dining-3.jpg | https://www.flickr.com/photos/81203773@N00/2457175038 | BY 2.0 | thms.nl
+places/haarlem-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:2015_0512_Jopenkerk.jpg | CC BY-SA 4.0 | Takeaway
+places/delft-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Le_Vieux_Jean,_Delft_(2023)_01.jpg | CC BY-SA 4.0 | Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - ©
+places/delft-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Delft_De_Waag_closed_building.jpg | CC BY-SA 4.0 | Ymblanter
+places/maastricht-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Neercanne_Neercanne_Castle_(Explore)_(6317792842).jpg | CC BY-SA 2.0 | Bert Kaufmann from Roermond, Netherlands
+places/maastricht-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_Bisschopsmolen_BW_2017-08-19_15-36-58.jpg | CC BY-SA 4.0 | Berthold Werner
+places/maastricht-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_Caf%C3%A9_Zuid_(17065960505).jpg | CC BY 2.0 | Jorge Franganillo
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

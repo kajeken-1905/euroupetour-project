@@ -3,10 +3,10 @@ import type { Place } from '../types'
 
 export const placesNLExtra: Place[] = [
   // —— rotterdam ——
-  place('rotterdam-fine_dining-1', 'rotterdam', 'fine_dining', 'Parkheuvel', 4.6, 'Heuvellaan 21, 3016 GL Rotterdam', '항구 전망의 미쉐린 2스타 레스토랑, 클래식 프렌치 요리.', 'Two-Michelin-star harbor-view restaurant known for classic French finesse.'),
-  place('rotterdam-fine_dining-2', 'rotterdam', 'fine_dining', 'FG Restaurant', 4.3, 'Katshoek 37b, 3032 AE Rotterdam', '로테르담을 미식 지도에 올린 미쉐린 2스타 테이스팅 메뉴 레스토랑.', 'Two-Michelin-star tasting-menu restaurant that put Rotterdam on the fine-dining map.'),
+  place('rotterdam-fine_dining-1', 'rotterdam', 'fine_dining', 'Parkheuvel', 4.6, 'Heuvellaan 21, 3016 GL Rotterdam', '항구 전망의 미쉐린 2스타 레스토랑, 클래식 프렌치 요리.', 'Two-Michelin-star harbor-view restaurant known for classic French finesse.', { image: '/places/rotterdam-fine_dining-1.jpg' }),
+  place('rotterdam-fine_dining-2', 'rotterdam', 'fine_dining', 'FG Restaurant', 4.3, 'Katshoek 37b, 3032 AE Rotterdam', '로테르담을 미식 지도에 올린 미쉐린 2스타 테이스팅 메뉴 레스토랑.', 'Two-Michelin-star tasting-menu restaurant that put Rotterdam on the fine-dining map.', { image: '/places/rotterdam-fine_dining-2.jpg' }),
   place('rotterdam-fine_dining-3', 'rotterdam', 'fine_dining', 'Zeezout', 4.6, 'Westerkade 11b, 3016 CL Rotterdam', '마스강변의 미쉐린 스타 시푸드 레스토랑.', 'Michelin-starred seafood restaurant on the Maas riverside.', { reviewCount: 1493 }),
-  place('rotterdam-fine_dining-4', 'rotterdam', 'fine_dining', 'Amarone', 4.4, 'Meent 72A, Rotterdam', '클래식 프렌치와 일식의 감각을 더한 미쉐린 스타 레스토랑.', 'Michelin-starred restaurant blending classic French technique with subtle Japanese influences.'),
+  place('rotterdam-fine_dining-4', 'rotterdam', 'fine_dining', 'Amarone', 4.4, 'Meent 72A, Rotterdam', '클래식 프렌치와 일식의 감각을 더한 미쉐린 스타 레스토랑.', 'Michelin-starred restaurant blending classic French technique with subtle Japanese influences.', { image: '/places/rotterdam-fine_dining-4.jpg' }),
   place('rotterdam-fine_dining-5', 'rotterdam', 'fine_dining', 'Fred', 4.5, 'Honingerdijk 263-265, 3063 AM Rotterdam', '테이블사이드 치즈 카트와 샴페인 서비스로 유명한 마스강 전망의 미쉐린 2스타 레스토랑.', 'Two-Michelin-star Maas-view restaurant famous for its tableside cheese cart and champagne service.'),
 
   place('rotterdam-bakery-1', 'rotterdam', 'bakery', 'Jan Bussing', 4.8, 'Van Vollenhovenstraat 48a, 3016 BJ Rotterdam', '로테르담 최고로 꼽히는 프렌치풍 전통 베이커리.', 'Widely regarded as Rotterdam\'s best bakery, a traditional French-style boulangerie.'),
@@ -38,12 +38,12 @@ export const placesNLExtra: Place[] = [
   place('the-hague-cafe-2', 'the-hague', 'cafe', 'August', 4.2, 'Turfmarkt 250, 2511 DJ Den Haag', '좋은 커피와 런치로 호평받는 캐주얼 런치 스팟.', 'Casual lunch spot praised for great coffee and lunch fare.', { reviewCount: 285 }),
   place('the-hague-cafe-3', 'the-hague', 'cafe', 'The Coffee Company', 4.1, 'Korte Poten 21, Den Haag', '헤이그 시내 중심가의 믿을 수 있는 네덜란드 커피 체인점.', 'Reliable Dutch coffee chain outpost in the city centre.'),
 
-  place('the-hague-korean-1', 'the-hague', 'korean', 'Seoul Garden', 4.1, 'Bagijnestraat 8, 2511 CK Den Haag', '헤이그 시내의 오래된 정통 한식당.', 'Long-running, classic Korean restaurant in the city centre.', { reviewCount: 109 }),
+  place('the-hague-korean-1', 'the-hague', 'korean', 'Seoul Garden', 4.1, 'Bagijnestraat 8, 2511 CK Den Haag', '헤이그 시내의 오래된 정통 한식당.', 'Long-running, classic Korean restaurant in the city centre.', { reviewCount: 109, image: '/places/the-hague-korean-1.jpg' }),
 
   // —— utrecht ——
-  place('utrecht-fine_dining-1', 'utrecht', 'fine_dining', 'Karel 5', 4.6, 'Geertebolwerk 1, 3511 XA Utrecht', '수도원을 개조한 그랜드 호텔 카럴 V 안의 미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant inside a historic monastery-turned-grand-hotel.', { reviewCount: 205 }),
+  place('utrecht-fine_dining-1', 'utrecht', 'fine_dining', 'Karel 5', 4.6, 'Geertebolwerk 1, 3511 XA Utrecht', '수도원을 개조한 그랜드 호텔 카럴 V 안의 미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant inside a historic monastery-turned-grand-hotel.', { reviewCount: 205, image: '/places/utrecht-fine_dining-1.jpg' }),
   place('utrecht-fine_dining-2', 'utrecht', 'fine_dining', 'Restaurant Blauw Utrecht', 4.5, 'Springweg 64, 3511 VT Utrecht', '화려한 라이스테이블로 유명한 미쉐린 빕 구르망 인도네시아 레스토랑.', 'Bib Gourmand Indonesian restaurant celebrated for its colourful rice-table feasts.', { reviewCount: 1076 }),
-  place('utrecht-fine_dining-3', 'utrecht', 'fine_dining', 'De Rechtbank', 4.0, 'Korte Nieuwstraat 14, 3512 NM Utrecht', '옛 법원 건물(코트 호텔) 안의 분위기 있는 올데이 다이닝 레스토랑.', 'Atmospheric restaurant set inside a former courthouse, serving all-day dining.', { reviewCount: 1554 }),
+  place('utrecht-fine_dining-3', 'utrecht', 'fine_dining', 'De Rechtbank', 4.0, 'Korte Nieuwstraat 14, 3512 NM Utrecht', '옛 법원 건물(코트 호텔) 안의 분위기 있는 올데이 다이닝 레스토랑.', 'Atmospheric restaurant set inside a former courthouse, serving all-day dining.', { reviewCount: 1554, image: '/places/utrecht-fine_dining-3.jpg' }),
   place('utrecht-fine_dining-4', 'utrecht', 'fine_dining', 'Broei', 4.4, 'Oosterkade 24, 3582 AV Utrecht', '운하변의 완전 채식 레스토랑, 창의적인 비건 요리로 유명.', 'Fully plant-based restaurant on the canal, known for creative vegan cooking.', { reviewCount: 1542 }),
 
   place('utrecht-bakery-1', 'utrecht', 'bakery', 'Bond & Smolders', 4.6, 'Lijnmarkt 9, 3511 KE Utrecht', '위트레흐트 최고의 베이커리로 꼽히는 아티산 제과점.', 'Widely cited as the best bakery in Utrecht, an artisanal bakery-patisserie.', { reviewCount: 703 }),
@@ -58,7 +58,7 @@ export const placesNLExtra: Place[] = [
   // —— haarlem ——
   place('haarlem-fine_dining-1', 'haarlem', 'fine_dining', 'Restaurant Brick', 4.7, 'Breestraat 24-26, 2011 ZZ Haarlem', '하를럼 1위로 꼽히는 레스토랑, 아늑한 분위기의 시즌 팬유러피언 요리.', 'Ranked the #1 restaurant in Haarlem, a cozy spot with seasonal pan-European cooking.', { reviewCount: 441 }),
   place('haarlem-fine_dining-2', 'haarlem', 'fine_dining', 'De Lachende Javaan', 4.5, 'Frankestraat 25-27, 2011 HT Haarlem', '전통 라이스테이블로 사랑받는 인도네시아 레스토랑.', 'Beloved Indonesian restaurant famous for its traditional rijsttafel feasts.', { reviewCount: 1237 }),
-  place('haarlem-fine_dining-3', 'haarlem', 'fine_dining', 'Jopenkerk', 4.2, 'Gedempte Voldersgracht 2, 2011 WD Haarlem', '19세기 교회를 개조한 양조장 겸 레스토랑·카페.', 'A working brewery, restaurant, and café housed in a converted 19th-century church.', { reviewCount: 7497 }),
+  place('haarlem-fine_dining-3', 'haarlem', 'fine_dining', 'Jopenkerk', 4.2, 'Gedempte Voldersgracht 2, 2011 WD Haarlem', '19세기 교회를 개조한 양조장 겸 레스토랑·카페.', 'A working brewery, restaurant, and café housed in a converted 19th-century church.', { reviewCount: 7497, image: '/places/haarlem-fine_dining-3.jpg' }),
   place('haarlem-fine_dining-4', 'haarlem', 'fine_dining', 'Ratatouille Food & Wine', 4.6, 'Spaarne 96, Haarlem', '스파르너 강변의 미쉐린 등재 모던 프렌치 레스토랑.', 'Michelin-listed modern French restaurant along the Spaarne river.', { reviewCount: 774 }),
 
   place('haarlem-bakery-1', 'haarlem', 'bakery', 'Artesano Bakkerij', 5.0, 'Tempeliersstraat 28, 2012 EE Haarlem', '하를럼 유일의 유기농 사워도우 베이커리 겸 스페셜티 커피숍.', 'Haarlem\'s only artisanal organic sourdough bakery, also serving specialty coffee.', { reviewCount: 240 }),
@@ -71,7 +71,7 @@ export const placesNLExtra: Place[] = [
   // —— delft ——
   place('delft-fine_dining-1', 'delft', 'fine_dining', 'Restaurant Azurite', 4.9, 'Houttuinen 2, Delft', '마리오 리더 셰프의 미쉐린급 파인 다이닝, 델프트 최고 평가 레스토랑 중 하나.', 'Michelin-recognized fine dining from chef Mario Ridder, one of Delft\'s most acclaimed tables.', { reviewCount: 204 }),
   place('delft-fine_dining-2', 'delft', 'fine_dining', 'Novaela', 4.9, 'Bagijnhof 118, Delft', '델프트 최고 평점 중 하나인 컨템포러리 미쉐린 등재 파인 다이닝.', 'Contemporary Michelin-listed fine-dining restaurant, among the highest-rated in Delft.', { reviewCount: 120 }),
-  place('delft-fine_dining-3', 'delft', 'fine_dining', 'Restaurant Le Vieux Jean', 4.7, 'HH Geestkerkhof 3, Delft', '아우더 케르크 인근의 유서 깊은 우아한 파인 다이닝.', 'Elegant, long-established fine-dining restaurant near the Oude Kerk.', { reviewCount: 276 }),
+  place('delft-fine_dining-3', 'delft', 'fine_dining', 'Restaurant Le Vieux Jean', 4.7, 'HH Geestkerkhof 3, Delft', '아우더 케르크 인근의 유서 깊은 우아한 파인 다이닝.', 'Elegant, long-established fine-dining restaurant near the Oude Kerk.', { reviewCount: 276, image: '/places/delft-fine_dining-3.jpg' }),
 
   place('delft-bakery-1', 'delft', 'bakery', 'Bakker Suikerbuik', 4.3, 'Hippolytusbuurt 22-24, 2611 HN Delft', '운하변 테라스를 갖춘 구시가지의 베이커리 겸 런치룸, 애프터눈티로 인기.', 'Historic-centre bakery and lunchroom with a canal-side terrace, popular for high tea.', { reviewCount: 981 }),
   place('delft-bakery-2', 'delft', 'bakery', 'City Bakery Diamond Ring', 4.5, 'Choorstraat 9, 2611 JE Delft', '인기 베이커리, 테이크아웃과 배달 전문.', 'Popular bakery specializing in takeaway and delivery.', { reviewCount: 598 }),
@@ -80,23 +80,23 @@ export const placesNLExtra: Place[] = [
   place('delft-bakery-5', 'delft', 'bakery', 'The English Bakery', 4.9, 'Molstraat 19-A, 2611 EN Delft', '평점 높은 영국식 베이커리.', 'Highly rated English-style bakery.', { reviewCount: 101 }),
 
   place('delft-cafe-1', 'delft', 'cafe', 'Kek - De koffiebar van Delft', 4.7, 'Voldersgracht 27, 2611 EV Delft', '델프트 3위 레스토랑으로 꼽히는 아늑한 올데이 커피 바 겸 브런치 스팟.', 'Ranked #3 restaurant in Delft, a cozy all-day coffee bar and brunch spot.', { reviewCount: 1266 }),
-  place('delft-cafe-2', 'delft', 'cafe', 'De Waag', 4.0, 'Markt 11, 2611 GP Delft', '중앙 광장의 역사적인 카페 겸 레스토랑, 수십 년째 이어진 델프트의 명소.', 'Historic café-restaurant on the main square, a Delft classic for decades.', { reviewCount: 2531 }),
+  place('delft-cafe-2', 'delft', 'cafe', 'De Waag', 4.0, 'Markt 11, 2611 GP Delft', '중앙 광장의 역사적인 카페 겸 레스토랑, 수십 년째 이어진 델프트의 명소.', 'Historic café-restaurant on the main square, a Delft classic for decades.', { reviewCount: 2531, image: '/places/delft-cafe-2.jpg' }),
   place('delft-cafe-3', 'delft', 'cafe', 'Neef Rob', 4.8, 'Choorstraat 34, 2611 JG Delft', '델프트 최고의 커피숍으로 여러 차례 선정된 곳, 수제 초콜릿과 차로도 유명.', 'Repeatedly voted Delft\'s best coffee shop, also known for handmade chocolates and teas.', { reviewCount: 333 }),
 
   // —— maastricht ——
-  place('maastricht-fine_dining-1', 'maastricht', 'fine_dining', 'Château Neercanne', 4.7, 'Von Dopfflaan 10, 6213 NG Maastricht', '네덜란드 유일의 계단식 성에 위치한 미쉐린 1스타 레스토랑, 벨기에 국경에 인접.', 'One-Michelin-star restaurant in the Netherlands\' only terraced castle, on the Belgian border.', { reviewCount: 1703 }),
+  place('maastricht-fine_dining-1', 'maastricht', 'fine_dining', 'Château Neercanne', 4.7, 'Von Dopfflaan 10, 6213 NG Maastricht', '네덜란드 유일의 계단식 성에 위치한 미쉐린 1스타 레스토랑, 벨기에 국경에 인접.', 'One-Michelin-star restaurant in the Netherlands\' only terraced castle, on the Belgian border.', { reviewCount: 1703, image: '/places/maastricht-fine_dining-1.jpg' }),
   place('maastricht-fine_dining-2', 'maastricht', 'fine_dining', 'Beluga Loves You', 4.7, 'Plein 1992 12, 6221 JP Maastricht', '셰프 세르베 틸만이 이끄는 미쉐린 1스타 모던 유러피언 레스토랑.', 'One-Michelin-star modern European restaurant led by chef Servais Tielman.', { reviewCount: 632 }),
   place('maastricht-fine_dining-3', 'maastricht', 'fine_dining', 'Tout à Fait', 4.5, 'St-Bernardusstraat 16-18, 6211 HL Maastricht', '2002년부터 미쉐린 스타를 유지해온 구시가지의 프렌치 레스토랑.', 'Michelin-starred (since 2002) French restaurant in the historic centre.', { reviewCount: 336 }),
   place('maastricht-fine_dining-4', 'maastricht', 'fine_dining', 'Petit Bonheur', 4.5, 'Achter de Molens 2, 6211 JC Maastricht', '예케르콰르티어 지구의 17세기 농가를 개조한 프렌치-지중해 레스토랑.', 'French-Mediterranean restaurant in a 17th-century farmhouse in the romantic Jekerkwartier.', { reviewCount: 541 }),
 
-  place('maastricht-bakery-1', 'maastricht', 'bakery', 'Bisschopsmolen', 4.5, 'Stenenbrug 3, 6211 HP Maastricht', '림뷔르흐 명물 플라이(파이)로 유명한 역사적인 제분소 베이커리.', 'Historic working watermill-bakery famous for its Limburgse vlaai.', { reviewCount: 1216 }),
+  place('maastricht-bakery-1', 'maastricht', 'bakery', 'Bisschopsmolen', 4.5, 'Stenenbrug 3, 6211 HP Maastricht', '림뷔르흐 명물 플라이(파이)로 유명한 역사적인 제분소 베이커리.', 'Historic working watermill-bakery famous for its Limburgse vlaai.', { reviewCount: 1216, image: '/places/maastricht-bakery-1.jpg' }),
   place('maastricht-bakery-2', 'maastricht', 'bakery', 'Patisserie Peter Lemmens', 4.6, 'Glacisweg 30H, 6212 BS Maastricht', '평점 높은 파티스리.', 'Highly rated patisserie.', { reviewCount: 625 }),
   place('maastricht-bakery-3', 'maastricht', 'bakery', 'Patisserie Noblesse', 4.9, 'Scharnerweg 37, 6224 JC Maastricht', '평점 높은 프렌치 파티스리.', 'Highly rated French patisserie.', { reviewCount: 156 }),
   place('maastricht-bakery-4', 'maastricht', 'bakery', 'Ginnies', 4.7, 'Brusselsestraat 95, 6211 PG Maastricht', '평점 높은 베이커리.', 'Highly rated bakery.', { reviewCount: 214 }),
   place('maastricht-bakery-5', 'maastricht', 'bakery', "Koekmakerij 't Keukske", 4.8, 'Nieuwstraat 24, 6211 SR Maastricht', '평점 높은 쿠키 전문점.', 'Highly rated cookie specialist.', { reviewCount: 325 }),
 
   place('maastricht-cafe-1', 'maastricht', 'cafe', 'Coffeelovers Dominicanen', 4.5, 'Dominicanerkerkstraat 1, 6211 CZ Maastricht', '"세계에서 가장 아름다운 서점"으로 불리는 13세기 도미니크 수도원 성당 안의 에스프레소 바.', 'Espresso bar set inside a converted 13th-century Dominican church, "the most beautiful bookstore in the world."', { reviewCount: 1619 }),
-  place('maastricht-cafe-2', 'maastricht', 'cafe', 'Café Zuid', 4.4, 'Plein 1992 15, 6221 JP Maastricht', '뫼즈강이 내려다보이는 선테라스를 갖춘 강변 카페.', 'Riverside café with a sun terrace overlooking the Maas.', { reviewCount: 1508 }),
+  place('maastricht-cafe-2', 'maastricht', 'cafe', 'Café Zuid', 4.4, 'Plein 1992 15, 6221 JP Maastricht', '뫼즈강이 내려다보이는 선테라스를 갖춘 강변 카페.', 'Riverside café with a sun terrace overlooking the Maas.', { reviewCount: 1508, image: '/places/maastricht-cafe-2.jpg' }),
 
   // —— giethoorn ——
   place('giethoorn-fine_dining-1', 'giethoorn', 'fine_dining', 'Restaurant De Lindenhof', 4.6, 'Beulakerweg 77, 8355 AC Giethoorn', '스위트룸을 갖춘 미쉐린 2스타 레스토랑, 네덜란드 최고의 파인 다이닝 중 하나.', 'Two-Michelin-star restaurant with suites, one of the country\'s top fine-dining destinations.', { reviewCount: 240 }),
