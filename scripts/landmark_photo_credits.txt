@@ -305,6 +305,22 @@ places/maastricht-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Ch
 places/maastricht-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_Bisschopsmolen_BW_2017-08-19_15-36-58.jpg | CC BY-SA 4.0 | Berthold Werner
 places/maastricht-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_Caf%C3%A9_Zuid_(17065960505).jpg | CC BY 2.0 | Jorge Franganillo
 
+# Luxembourg & Spain (1) place photos
+places/vianden-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_du_Pont_in_Vianden_viewed_from_the_bridge.jpg | CC BY-SA 4.0 | Андрей Романенко
+places/segovia-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Mes%C3%B3n_de_C%C3%A1ndido.jpg | CC BY-SA 4.0 | Mesón de Cándido
+places/segovia-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Segovia_-_Casa_Duque.jpg | CC0 | Zarateman
+places/salamanca-cafe-2.jpg | https://www.flickr.com/photos/13998657@N02/35061410140 | BY-SA 2.0 | jgbarah
+places/salamanca-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_literario_Novelty_Plaza_Mayor_Salamanca2.JPG | CC BY 3.0 | Pravdaverita
+places/barcelona-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Barcelona_-_entrance_of_Can_Culleretes_01.jpg | CC BY-SA 4.0 | Joe Mabel
+places/girona-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:El_Celler_de_Can_Roca_exterior.jpg | CC BY 2.0 | e_calamar
+places/zaragoza-fine_dining-4.jpg | https://www.flickr.com/photos/91572751@N00/3228471626 | BY-SA 2.0 | gorriti
+places/valencia-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Ricard_Camarena_Restaurant_4.jpg | CC BY 2.0 | https://www.flickr.com/photos/18472724@N00/
+places/valencia-fine_dining-2.jpg | https://www.flickr.com/photos/27454212@N00/14288716325 | BY-SA 2.0 | Kent Wang
+places/valencia-fine_dining-4.jpg | https://www.flickr.com/photos/26163384@N00/2297195360 | BY-SA 2.0 | spiderman (Frank)
+places/valencia-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Casa_Roberto.jpg | CC BY-SA 2.0 | https://www.flickr.com/photos/simbiosc/
+places/palma-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Entrada_Forn_del_Santo_Cristo_(convert.io).jpg | CC0 | Fullet
+places/palma-bakery-2.jpg | https://www.flickr.com/photos/47525329@N05/13161172173 | BY 2.0 | Iñaki Pérez de Albéniz
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

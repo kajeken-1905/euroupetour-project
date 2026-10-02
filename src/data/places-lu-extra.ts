@@ -6,7 +6,7 @@ export const placesLUExtra: Place[] = [
   place('vianden-fine_dining-1', 'vianden', 'fine_dining', 'Restaurant Victor Hugo', 4.0, '1 Rue Victor Hugo, Vianden', '강변 좌석의 프랑스 요리 레스토랑, 비앙덴 최고로 꼽히는 곳.', "French cuisine restaurant with waterside seating, regarded as Vianden's best."),
   place('vianden-fine_dining-2', 'vianden', 'fine_dining', 'Auberge Aal Veinen "Beim Hunn"', 4.6, '114 Grand-rue, L-9411 Vianden', '비앙덴 성 아래 옛 대장간 건물의 레스토랑, 숯불구이 요리로 유명.', "Restaurant in a former castle forge below Vianden Castle, known for its charcoal-grilled specialties.", { reviewCount: 1000 }),
   place('vianden-bakery-1', 'vianden', 'bakery', "Au Croissant D'Or", 3.7, '31 Grand-Rue, 9410 Vianden, Luxembourg', '구시가 중심의 아르티장 베이커리, 사워도우 빵과 크루아상으로 유명.', "Artisan bakery in the heart of the Old Town, known for its sourdough bread and croissants."),
-  place('vianden-cafe-1', 'vianden', 'cafe', 'Café du Pont', 4.0, '1 Grand-Rue, Vianden', '강변 전망의 카페.', 'Café with riverside views.'),
+  place('vianden-cafe-1', 'vianden', 'cafe', 'Café du Pont', 4.0, '1 Grand-Rue, Vianden', '강변 전망의 카페.', 'Café with riverside views.', { image: '/places/vianden-cafe-1.jpg' }),
   place('vianden-cafe-2', 'vianden', 'cafe', 'Collette Coffee Craft - Café & Roastery', 4.9, '70 Grand-Rue, Vianden', '비앙덴 성 인근의 카페 겸 로스터리.', 'Café and roastery near Vianden Castle.', { reviewCount: 203 }),
   place('vianden-cafe-3', 'vianden', 'cafe', 'Café & Nata', 5.0, '52 Rue du Sanatorium, Vianden', '포르투갈식 에그타르트를 선보이는 비앙덴의 카페.', 'Vianden café known for Portuguese-style egg tart pastries.', { reviewCount: 28 }),
 
