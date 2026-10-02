@@ -375,6 +375,60 @@ places/gothenburg-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Husa
 places/malmo-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Far_i_Hatten,_Malm%C3%B6.jpg | CC BY 3.0 | Jorchr
 places/uppsala-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Ofvandahls_kafe.jpg | CC BY-SA 4.0 | Udo Schröter
 
+# Capitals (London, Amsterdam, Brussels, Luxembourg, Copenhagen, Stockholm, Oslo, Helsinki) place photos
+places/lon-fd-3.jpg | https://www.flickr.com/photos/55935853@N00/5499132198 | BY-SA 2.0 | Ewan-M
+places/lon-fd-5.jpg | https://www.flickr.com/photos/55935853@N00/5881677793 | BY-SA 2.0 | Ewan-M
+places/lon-cf-1.jpg | https://www.flickr.com/photos/65947222@N00/42950705304 | BY-SA 2.0 | wongwt
+places/lon-cf-2.jpg | https://commons.wikimedia.org/wiki/File:Brunch_at_Ozone_Coffee_Roasters,_Bethnal_Green_(51001063636).jpg | CC BY 2.0 | Bex Walton from London, England
+places/lon-cf-3.jpg | https://commons.wikimedia.org/wiki/File:Workshop_Coffee,_Fitzrovia,_London_(49635208653).jpg | CC BY 2.0 | Bex Walton from London, England
+places/lon-cf-4.jpg | https://commons.wikimedia.org/wiki/File:Notes_coffee_shop_-_panoramio.jpg | CC BY-SA 3.0 | steven.thurgood
+places/lon-cf-5.jpg | https://www.flickr.com/photos/7831824@N04/28396334230 | BY 2.0 | Bex.Walton
+places/lon-kr-3.jpg | https://commons.wikimedia.org/wiki/File:Myung_Ga,_Soho,_W1_(6967097093).jpg | CC BY-SA 2.0 | Ewan Munro from London, UK
+places/ams-fd-2.jpg | https://www.flickr.com/photos/27898757@N02/4464864081 | BY-SA 2.0 | myravery
+places/ams-fd-5.jpg | https://www.flickr.com/photos/149305431@N02/50258178472 | BY 2.0 | christophebayard1
+places/ams-bk-2.jpg | https://www.flickr.com/photos/93171945@N00/15470772859 | BY-SA 2.0 | currystrumpet
+places/ams-cf-2.jpg | https://www.flickr.com/photos/7831824@N04/46279090731 | BY 2.0 | Bex.Walton
+places/ams-cf-3.jpg | https://www.flickr.com/photos/7831824@N04/32407507068 | BY 2.0 | Bex.Walton
+places/ams-cf-4.jpg | https://www.flickr.com/photos/7831824@N04/45555795204 | BY 2.0 | Bex.Walton
+places/bru-fd-3.jpg | https://www.flickr.com/photos/27454212@N00/14394432325 | BY-SA 2.0 | Kent Wang
+places/bru-bk-1.jpg | https://commons.wikimedia.org/wiki/File:Maison_Dandoy,_31_Rue_du_Beurre.jpg | CC BY-SA 4.0 | Ion Tichy
+places/bru-bk-2.jpg | https://www.flickr.com/photos/49539505@N04/7202572478 | BY-SA 2.0 | La Citta Vita
+places/bru-cf-4.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9-Mokaf%C3%A9%C2%A9Marie-Fran%C3%A7oise_Plissart.jpg | CC BY 4.0 | Marie-Françoise Plissart(Mfplissart)
+places/lux-bk-1.jpg | https://commons.wikimedia.org/wiki/File:Oberweis_Love_-_Luxembourg_City_-_DSC06092.JPG | CC0 | Daderot
+places/lux-bk-4.jpg | https://commons.wikimedia.org/wiki/File:Kaempff-Kohler,_Place_Guillaume_II_-_Luxembourg_City_-_DSC06074.JPG | CC0 | Daderot
+places/lux-cf-3.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg,_Grand_Caf%C3%A9_Pl%C3%ABss_(1).jpg | CC BY-SA 3.0 | GilPe
+places/cph-fd-1.jpg | https://commons.wikimedia.org/wiki/File:Geranium_IMG_7322_(15971980092).jpg | CC BY 2.0 | City Foodsters
+places/cph-fd-2.jpg | https://www.flickr.com/photos/93755244@N00/15669779020 | BY 2.0 | Håkan Dahlström
+places/cph-fd-3.jpg | https://commons.wikimedia.org/wiki/File:AlchemistAV4A4003_(48826061293).jpg | CC BY 2.0 | City Foodsters
+places/cph-fd-4.jpg | https://commons.wikimedia.org/wiki/File:Kong_Hans_K%C3%A6lder.jpg | CC BY 4.0 | Orf3us
+places/cph-bk-4.jpg | https://www.flickr.com/photos/63311602@N08/45318151682 | BY 2.0 | loustejskal.com
+places/cph-cf-1.jpg | https://commons.wikimedia.org/wiki/File:Coffee_Collective,_N%C3%B8rre_Voldgade.jpg | CC BY-SA 4.0 | Leif Jørgensen
+places/cph-cf-5.jpg | https://www.flickr.com/photos/23328561@N07/29491806336 | BY-SA 2.0 | Insights Unspoken
+places/sto-fd-1.jpg | https://commons.wikimedia.org/wiki/File:Frantz%C3%A9n_AV4A6971_(48484565592).jpg | CC BY 2.0 | City Foodsters
+places/sto-fd-2.jpg | https://commons.wikimedia.org/wiki/File:Operak%C3%A4llaren_2009w.jpg | CC BY-SA 3.0 | Holger.Ellgaard
+places/sto-fd-3.jpg | https://commons.wikimedia.org/wiki/File:Alo%C3%AB_(restaurang),_L%C3%A5ngbro,_febr_2020b.jpg | CC BY-SA 4.0 | Holger.Ellgaard
+places/sto-fd-4.jpg | https://commons.wikimedia.org/wiki/File:Gastrologik,_Stockholm_02.jpg | CC BY-SA 4.0 | I99pema
+places/sto-bk-1.jpg | https://www.flickr.com/photos/51035756584@N01/9872763886 | BY 2.0 | Kaeru
+places/sto-cf-1.jpg | https://www.flickr.com/photos/7831824@N04/30091905771 | BY 2.0 | Bex.Walton
+places/sto-cf-3.jpg | https://www.flickr.com/photos/7831824@N04/29547342843 | BY 2.0 | Bex.Walton
+places/osl-fd-1.jpg | https://commons.wikimedia.org/wiki/File:The_restaurant_Maaemo_in_Oslo,_Norway.JPG | CC BY-SA 3.0 | Ulflarsen
+places/osl-fd-2.jpg | https://www.flickr.com/photos/23597588@N00/53794357488 | BY-SA 2.0 | Navin75
+places/osl-fd-3.jpg | https://commons.wikimedia.org/wiki/File:Statholdergaarden_2012_3.jpg | CC BY 3.0 | Bjørn Erik Pedersen
+places/osl-bk-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%85pent_Bakeri_%C3%85sengata.jpg | CC BY-SA 4.0 | Jan-Tore Egge
+places/osl-bk-5.jpg | https://commons.wikimedia.org/wiki/File:Thv_Meyers_gate_49_(Godt_Br%C3%B8d_Gr%C3%BCnerl%C3%B8kka).jpg | CC BY-SA 4.0 | Jan-Tore Egge
+places/osl-cf-1.jpg | https://www.flickr.com/photos/43547678@N00/5848340637 | BY-SA 2.0 | nalundgaard
+places/osl-cf-2.jpg | https://www.flickr.com/photos/7831824@N04/36434124543 | BY 2.0 | Bex.Walton
+places/osl-cf-3.jpg | https://www.flickr.com/photos/7831824@N04/36850202910 | BY 2.0 | Bex.Walton
+places/hel-fd-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Demo_-_Helsinki_-_14.12.2017_at_15.21_-_by_Paju-m.jpg | CC BY-SA 3.0 | Paju~commonswiki
+places/hel-fd-4.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Gr%C3%B6n_-_Helsinki_-_14.12.2017_at_15.08_-_by_Paju-m.jpg | CC BY-SA 3.0 | Paju~commonswiki
+places/hel-fd-5.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Ask-Helsinki-March-2017m.jpg | CC BY-SA 3.0 | Paju~commonswiki
+places/hel-bk-1.jpg | https://commons.wikimedia.org/wiki/File:Fazer_Caf%C3%A9_Kluuvikatu_in_Helsinki,_Finland,_2021_November.jpg | CC BY 2.0 | Erik Ottosson / News Oresund
+places/hel-bk-2.jpg | https://www.flickr.com/photos/87308984@N00/9405345463 | BY 2.0 | Jarkko Laine
+places/hel-cf-1.jpg | https://www.flickr.com/photos/7831824@N04/28422192301 | BY 2.0 | Bex.Walton
+places/hel-cf-2.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Regatta_in_Helsinki.jpg | CC BY-SA 4.0 | Alicia Fagerving
+places/hel-cf-4.jpg | https://www.flickr.com/photos/47402349@N00/2075777 | BY-SA 2.0 | eirikso
+places/hel-cf-5.jpg | https://commons.wikimedia.org/wiki/File:Pasta_Bolognese_at_La_Torrefazione.jpg | CC BY-SA 4.0 | JIP
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

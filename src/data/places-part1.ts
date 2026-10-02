@@ -56,6 +56,7 @@ export const places: Place[] = [
     lat: 51.5162,
     lng: -0.2001,
     priceLevel: '£££',
+    image: '/places/lon-fd-3.jpg',
   },
   {
     id: 'lon-fd-4',
@@ -90,6 +91,7 @@ export const places: Place[] = [
     lat: 51.5024,
     lng: -0.1601,
     priceLevel: '£££',
+    image: '/places/lon-fd-5.jpg',
   },
   {
     id: 'lon-bk-1',
@@ -192,6 +194,7 @@ export const places: Place[] = [
     lat: 51.5056,
     lng: -0.0915,
     priceLevel: '££',
+    image: '/places/lon-cf-1.jpg',
   },
   {
     id: 'lon-cf-2',
@@ -209,6 +212,7 @@ export const places: Place[] = [
     lat: 51.5248,
     lng: -0.0842,
     priceLevel: '££',
+    image: '/places/lon-cf-2.jpg',
   },
   {
     id: 'lon-cf-3',
@@ -226,6 +230,7 @@ export const places: Place[] = [
     lat: 51.5243,
     lng: -0.0735,
     priceLevel: '££',
+    image: '/places/lon-cf-3.jpg',
   },
   {
     id: 'lon-cf-4',
@@ -243,6 +248,7 @@ export const places: Place[] = [
     lat: 51.5097,
     lng: -0.1265,
     priceLevel: '££',
+    image: '/places/lon-cf-4.jpg',
   },
   {
     id: 'lon-cf-5',
@@ -260,6 +266,7 @@ export const places: Place[] = [
     lat: 51.5129,
     lng: -0.1368,
     priceLevel: '££',
+    image: '/places/lon-cf-5.jpg',
   },
   {
     id: 'lon-kr-1',
@@ -299,6 +306,7 @@ export const places: Place[] = [
     rating: 4.4,
     address: '1 Kingly Street, Soho, London W1B 5PA',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Myung+Ga+1+Kingly+Street%2C+Soho%2C+London+W1B+5PA',
+    image: '/places/lon-kr-3.jpg',
   },
   {
     id: 'lon-kr-4',
@@ -359,6 +367,7 @@ export const places: Place[] = [
     lat: 52.3505,
     lng: 4.9305,
     priceLevel: '€€€',
+    image: '/places/ams-fd-2.jpg',
   },
   {
     id: 'ams-fd-3',
@@ -410,6 +419,7 @@ export const places: Place[] = [
     lat: 52.3612,
     lng: 4.9055,
     priceLevel: '€€€',
+    image: '/places/ams-fd-5.jpg',
   },
   {
     id: 'ams-bk-1',
@@ -444,6 +454,7 @@ export const places: Place[] = [
     lat: 52.3608,
     lng: 4.8912,
     priceLevel: '€€',
+    image: '/places/ams-bk-2.jpg',
   },
   {
     id: 'ams-bk-3',
@@ -529,6 +540,7 @@ export const places: Place[] = [
     lat: 52.3658,
     lng: 4.8712,
     priceLevel: '€€',
+    image: '/places/ams-cf-2.jpg',
   },
   {
     id: 'ams-cf-3',
@@ -546,6 +558,7 @@ export const places: Place[] = [
     lat: 52.3555,
     lng: 4.8925,
     priceLevel: '€€',
+    image: '/places/ams-cf-3.jpg',
   },
   {
     id: 'ams-cf-4',
@@ -563,6 +576,7 @@ export const places: Place[] = [
     lat: 52.3615,
     lng: 4.8885,
     priceLevel: '€€',
+    image: '/places/ams-cf-4.jpg',
   },
   {
     id: 'ams-cf-5',

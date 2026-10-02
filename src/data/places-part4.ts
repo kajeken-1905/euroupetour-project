@@ -17,6 +17,7 @@ export const placesPart4: Place[] = [
     lat: 59.3345,
     lng: 18.0665,
     priceLevel: '€€€',
+    image: '/places/sto-fd-1.jpg',
   },
   {
     id: 'sto-fd-2',
@@ -34,6 +35,7 @@ export const placesPart4: Place[] = [
     lat: 59.3295,
     lng: 18.0705,
     priceLevel: '€€€',
+    image: '/places/sto-fd-2.jpg',
   },
   {
     id: 'sto-fd-3',
@@ -49,6 +51,7 @@ export const placesPart4: Place[] = [
     address: 'Älvsjö area / Stockholm',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Aloe+Restaurant+Stockholm',
     priceLevel: '€€€',
+    image: '/places/sto-fd-3.jpg',
   },
   {
     id: 'sto-fd-4',
@@ -66,6 +69,7 @@ export const placesPart4: Place[] = [
     lat: 59.3375,
     lng: 18.0875,
     priceLevel: '€€€',
+    image: '/places/sto-fd-4.jpg',
   },
   {
     id: 'sto-fd-5',
@@ -100,6 +104,7 @@ export const placesPart4: Place[] = [
     lat: 59.3348,
     lng: 18.0615,
     priceLevel: '€€',
+    image: '/places/sto-bk-1.jpg',
   },
   {
     id: 'sto-bk-2',
@@ -179,6 +184,7 @@ export const placesPart4: Place[] = [
     lat: 59.3165,
     lng: 18.0655,
     priceLevel: '€€',
+    image: '/places/sto-cf-1.jpg',
   },
   {
     id: 'sto-cf-2',
@@ -213,6 +219,7 @@ export const placesPart4: Place[] = [
     lat: 59.3155,
     lng: 18.0645,
     priceLevel: '€€',
+    image: '/places/sto-cf-3.jpg',
   },
   {
     id: 'sto-cf-4',
@@ -275,6 +282,7 @@ export const placesPart4: Place[] = [
     lat: 55.7035,
     lng: 12.5755,
     priceLevel: '€€€',
+    image: '/places/cph-fd-1.jpg',
   },
   {
     id: 'cph-fd-2',
@@ -292,6 +300,7 @@ export const placesPart4: Place[] = [
     lat: 55.6825,
     lng: 12.6105,
     priceLevel: '€€€',
+    image: '/places/cph-fd-2.jpg',
   },
   {
     id: 'cph-fd-3',
@@ -309,6 +318,7 @@ export const placesPart4: Place[] = [
     lat: 55.6915,
     lng: 12.6155,
     priceLevel: '€€€',
+    image: '/places/cph-fd-3.jpg',
   },
   {
     id: 'cph-fd-4',
@@ -326,6 +336,7 @@ export const placesPart4: Place[] = [
     lat: 55.6785,
     lng: 12.5805,
     priceLevel: '€€€',
+    image: '/places/cph-fd-4.jpg',
   },
   {
     id: 'cph-fd-5',
@@ -411,6 +422,7 @@ export const placesPart4: Place[] = [
     lat: 55.6775,
     lng: 12.5455,
     priceLevel: '€€',
+    image: '/places/cph-bk-4.jpg',
   },
   {
     id: 'cph-bk-5',
@@ -445,6 +457,7 @@ export const placesPart4: Place[] = [
     lat: 55.6935,
     lng: 12.5435,
     priceLevel: '€€',
+    image: '/places/cph-cf-1.jpg',
   },
   {
     id: 'cph-cf-2',
@@ -511,6 +524,7 @@ export const placesPart4: Place[] = [
     lat: 55.6795,
     lng: 12.5825,
     priceLevel: '€€',
+    image: '/places/cph-cf-5.jpg',
   },
   {
     id: 'cph-kr-1',

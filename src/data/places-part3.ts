@@ -17,6 +17,7 @@ export const placesPart3: Place[] = [
     lat: 59.9075,
     lng: 10.7555,
     priceLevel: '€€€',
+    image: '/places/osl-fd-1.jpg',
   },
   {
     id: 'osl-fd-2',
@@ -34,6 +35,7 @@ export const placesPart3: Place[] = [
     lat: 59.9225,
     lng: 10.7515,
     priceLevel: '€€€',
+    image: '/places/osl-fd-2.jpg',
   },
   {
     id: 'osl-fd-3',
@@ -51,6 +53,7 @@ export const placesPart3: Place[] = [
     lat: 59.9105,
     lng: 10.7415,
     priceLevel: '€€€',
+    image: '/places/osl-fd-3.jpg',
   },
   {
     id: 'osl-fd-4',
@@ -98,6 +101,7 @@ export const placesPart3: Place[] = [
     lat: 59.9165,
     lng: 10.7215,
     priceLevel: '€€',
+    image: '/places/osl-bk-1.jpg',
   },
   {
     id: 'osl-bk-2',
@@ -158,6 +162,7 @@ export const placesPart3: Place[] = [
     address: 'Oslo',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Godt+Br%C3%B8d+Oslo',
     priceLevel: '€',
+    image: '/places/osl-bk-5.jpg',
   },
   {
     id: 'osl-cf-1',
@@ -175,6 +180,7 @@ export const placesPart3: Place[] = [
     lat: 59.9235,
     lng: 10.7575,
     priceLevel: '€€',
+    image: '/places/osl-cf-1.jpg',
   },
   {
     id: 'osl-cf-2',
@@ -192,6 +198,7 @@ export const placesPart3: Place[] = [
     lat: 59.9228,
     lng: 10.7585,
     priceLevel: '€€',
+    image: '/places/osl-cf-2.jpg',
   },
   {
     id: 'osl-cf-3',
@@ -209,6 +216,7 @@ export const placesPart3: Place[] = [
     lat: 59.9155,
     lng: 10.7385,
     priceLevel: '€€',
+    image: '/places/osl-cf-3.jpg',
   },
   {
     id: 'osl-cf-4',
@@ -290,6 +298,7 @@ export const placesPart3: Place[] = [
     lat: 60.1645,
     lng: 24.9355,
     priceLevel: '€€€',
+    image: '/places/hel-fd-2.jpg',
   },
   {
     id: 'hel-fd-3',
@@ -324,6 +333,7 @@ export const placesPart3: Place[] = [
     lat: 60.1635,
     lng: 24.9285,
     priceLevel: '€€€',
+    image: '/places/hel-fd-4.jpg',
   },
   {
     id: 'hel-fd-5',
@@ -341,6 +351,7 @@ export const placesPart3: Place[] = [
     lat: 60.1725,
     lng: 24.9585,
     priceLevel: '€€€',
+    image: '/places/hel-fd-5.jpg',
   },
   {
     id: 'hel-bk-1',
@@ -358,6 +369,7 @@ export const placesPart3: Place[] = [
     lat: 60.1685,
     lng: 24.9465,
     priceLevel: '€€',
+    image: '/places/hel-bk-1.jpg',
   },
   {
     id: 'hel-bk-2',
@@ -373,6 +385,7 @@ export const placesPart3: Place[] = [
     address: 'Helsinki (multiple)',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Kanniston+Leipomo+Helsinki',
     priceLevel: '€',
+    image: '/places/hel-bk-2.jpg',
   },
   {
     id: 'hel-bk-3',
@@ -437,6 +450,7 @@ export const placesPart3: Place[] = [
     lat: 60.1585,
     lng: 24.9345,
     priceLevel: '€€',
+    image: '/places/hel-cf-1.jpg',
   },
   {
     id: 'hel-cf-2',
@@ -454,6 +468,7 @@ export const placesPart3: Place[] = [
     lat: 60.1775,
     lng: 24.9105,
     priceLevel: '€',
+    image: '/places/hel-cf-2.jpg',
   },
   {
     id: 'hel-cf-3',
@@ -488,6 +503,7 @@ export const placesPart3: Place[] = [
     lat: 60.1695,
     lng: 24.9525,
     priceLevel: '€€',
+    image: '/places/hel-cf-4.jpg',
   },
   {
     id: 'hel-cf-5',
@@ -503,6 +519,7 @@ export const placesPart3: Place[] = [
     address: 'Mannerheimintie, Helsinki',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=La+Torrefazione+Helsinki',
     priceLevel: '€€',
+    image: '/places/hel-cf-5.jpg',
   },
   {
     id: 'hel-kr-1',

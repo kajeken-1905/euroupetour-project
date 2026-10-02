@@ -98,6 +98,7 @@ export const placesPart2: Place[] = [
     lat: 49.6115,
     lng: 6.1298,
     priceLevel: '€€',
+    image: '/places/lux-bk-1.jpg',
   },
   {
     id: 'lux-bk-2',
@@ -147,6 +148,7 @@ export const placesPart2: Place[] = [
     lat: 49.6112,
     lng: 6.1305,
     priceLevel: '€€',
+    image: '/places/lux-bk-4.jpg',
   },
   {
     id: 'lux-bk-5',
@@ -211,6 +213,7 @@ export const placesPart2: Place[] = [
     lat: 49.6118,
     lng: 6.1292,
     priceLevel: '€€',
+    image: '/places/lux-cf-3.jpg',
   },
   {
     id: 'lux-cf-4',
@@ -294,6 +297,7 @@ export const placesPart2: Place[] = [
     lat: 50.8515,
     lng: 4.3555,
     priceLevel: '€€€',
+    image: '/places/bru-fd-3.jpg',
   },
   {
     id: 'bru-fd-4',
@@ -343,6 +347,7 @@ export const placesPart2: Place[] = [
     lat: 50.8468,
     lng: 4.3515,
     priceLevel: '€€',
+    image: '/places/bru-bk-1.jpg',
   },
   {
     id: 'bru-bk-2',
@@ -360,6 +365,7 @@ export const placesPart2: Place[] = [
     lat: 50.8395,
     lng: 4.3555,
     priceLevel: '€€€',
+    image: '/places/bru-bk-2.jpg',
   },
   {
     id: 'bru-bk-3',
@@ -475,6 +481,7 @@ export const placesPart2: Place[] = [
     lat: 50.8475,
     lng: 4.3545,
     priceLevel: '€€',
+    image: '/places/bru-cf-4.jpg',
   },
   {
     id: 'bru-cf-5',

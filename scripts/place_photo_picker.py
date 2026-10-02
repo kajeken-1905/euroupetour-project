@@ -180,7 +180,7 @@ def cmd_sheet(s: str, title: str) -> None:
     os.makedirs(os.path.join(WORK, "t"), exist_ok=True)
     sec, sel, cur = [], {}, None
     for pid, c in cfg.items():
-        cat = pid.split("-")[-2]
+        cat = c.get("cat") or pid.split("-")[-2]
         if cat != cur:
             sec.append(f'<h2 class="sec">{CAT_KO[cat]}</h2>')
             cur = cat
@@ -264,6 +264,14 @@ def cmd_apply(s: str, label: str, which: str) -> None:
         for pid in cred:
             m = re.search(r"  place\('" + re.escape(pid) + r"',.*\),?\n", src)
             if not m:
+                # Object-literal entries (places-part*.ts): `{ id: 'pid', ... }` blocks.
+                o = re.search(r"\n    id: '" + re.escape(pid) + r"',\n(?:    .*\n)*?  \}", src)
+                if not o:
+                    continue
+                blk, img = o.group(0), f"    image: '/places/{pid}.jpg',\n"
+                new = re.sub(r"    image: '[^']*',\n", img, blk) if "    image:" in blk else blk[:-3] + img + "  }"
+                src = src.replace(blk, new)
+                done.add(pid)
                 continue
             line, img = m.group(0), f"image: '/places/{pid}.jpg'"
             if "image:" in line:
