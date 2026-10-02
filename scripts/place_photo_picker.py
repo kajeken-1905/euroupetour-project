@@ -242,15 +242,22 @@ def cmd_apply(s: str, label: str, which: str) -> None:
     sel = load(f"{s}_sel.json")
     keys = list(load(f"{s}_picks.json")["picks"].values()) if which == "@picks" else which.split(",")
     cred = {}
+    picks_mtime = os.path.getmtime(os.path.join(WORK, f"{s}_picks.json")) if which == "@picks" else 0
     for k in keys:
         x = sel[k]
         pid = x["pid"]
-        b = get(x["img"])
+        cred[pid] = f'places/{pid}.jpg | {x["page"]} | {x["lic"]} | {x["artist"]}'
+        dest = os.path.join(ROOT, f"public/places/{pid}.jpg")
+        if picks_mtime and os.path.exists(dest) and os.path.getmtime(dest) > picks_mtime:
+            print(k, pid, "already saved", flush=True)  # resume after an interrupted run
+            continue
+        # Commons originals can be tens of megapixels; its 900px thumbnail is plenty for a 600px square.
+        url = x["thumb"] if "upload.wikimedia.org" in (x.get("thumb") or "") else x["img"]
+        b = get(url)
         im = Image.open(BytesIO(b) if b else os.path.join(WORK, x["file"])).convert("RGB")
         out = square(im)
-        out.save(os.path.join(ROOT, f"public/places/{pid}.jpg"), quality=85, optimize=True, progressive=True)
-        cred[pid] = f'places/{pid}.jpg | {x["page"]} | {x["lic"]} | {x["artist"]}'
-        print(k, pid, im.size, out.size, x["lic"])
+        out.save(dest, quality=85, optimize=True, progressive=True)
+        print(k, pid, im.size, out.size, x["lic"], flush=True)
     done = set()
     for f in glob.glob(os.path.join(ROOT, "src/data/places*.ts")):
         src = orig = open(f).read()

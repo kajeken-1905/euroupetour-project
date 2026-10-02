@@ -161,6 +161,63 @@ places/nice-fine_dining-2.jpg | https://www.flickr.com/photos/13595617@N00/10301
 # Monaco place photos
 places/monaco-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Cafe_de_Paris_Monte-Carlo_-_panoramio.jpg | CC BY 3.0 | Mister No
 
+# United Kingdom place photos
+places/windsor-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Waterman%27s_Arms,_Brocas_Street,_Eton_-_geograph.org.uk_-_5963166.jpg | CC BY-SA 2.0 | Jaggery
+places/canterbury-fine_dining-1.jpg | https://www.flickr.com/photos/27678895@N02/34800288081 | BY 2.0 | ijclark
+places/canterbury-cafe-1.jpg | https://www.flickr.com/photos/27678895@N02/34673357953 | BY 2.0 | ijclark
+places/brighton-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:The_Coal_Shed,_8_Boyce%27s_Street,_The_Lanes,_Brighton_(December_2016).JPG | CC0 | Hassocks5489
+places/brighton-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Silos_beside_Basin_Road_South,_Portslade-by-Sea_-_geograph.org.uk_-_8032156.jpg | CC BY-SA 2.0 | JThomas
+places/brighton-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:The_Flour_Pot_Bakery,_Brighton_Road,_Worthing_2025-12-27.jpg | CC0 | Andy Li
+places/brighton-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Julien_Plumart,_Brighton_2025-03-09.jpg | CC0 | Andy Li
+places/brighton-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Metrodeco,_Brighton_-_geograph.org.uk_-_7721110.jpg | CC BY-SA 2.0 | Richard Rogerson
+places/oxford-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Cherwell_Boathouse_-_geograph.org.uk_-_7400464.jpg | CC BY-SA 2.0 | Philip Halling
+places/oxford-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:The_Perch_Inn_from_Binsey_Lane-geograph-3437342-by-Peter-Whatley.jpg | CC BY-SA 2.0 | Peter Whatley
+places/oxford-bakery-1.jpg | https://www.flickr.com/photos/7831824@N04/54580883108 | BY 2.0 | Bex.Walton
+places/oxford-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/49702433201 | BY 2.0 | Bex.Walton
+places/oxford-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/54580839834 | BY 2.0 | Bex.Walton
+places/oxford-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:The_Handle_Bar_Cafe_and_Kitchen_-_geograph.org.uk_-_7687638.jpg | CC BY-SA 2.0 | Philip Halling
+places/cotswolds-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Old_New_Inn,_Bourton-on-the-Water,_Gloucestershire_-_geograph.org.uk_-_3511645.jpg | CC BY-SA 2.0 | Christine Matthews
+places/cotswolds-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:The_Porch_House_-_geograph.org.uk_-_7765492.jpg | CC BY-SA 2.0 | Philip Halling
+places/cotswolds-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Bourton-on-The-Water_,_Bakery_on_the_Water_-_geograph.org.uk_-_8010600.jpg | CC BY-SA 2.0 | Lewis Clarke
+places/cambridge-fine_dining-1.jpg | https://www.flickr.com/photos/54549113@N00/51877743468 | BY-SA 2.0 | Haydn Blackey
+places/cambridge-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:The_Oak_Bistro_-_geograph.org.uk_-_6025058.jpg | CC BY-SA 2.0 | N Chadwick
+places/cambridge-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Fitzbillies_-_geograph.org.uk_-_7807461.jpg | CC BY-SA 2.0 | N Chadwick
+places/cambridge-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/33821301566 | BY 2.0 | Bex.Walton
+places/cambridge-cafe-5.jpg | https://commons.wikimedia.org/wiki/File:Michaelhouse_Caf%C3%A9_-_Cambridge.jpg | CC BY-SA 3.0 | Oxfordian Kissuth
+places/bath-fine_dining-2.jpg | https://www.flickr.com/photos/7831824@N04/50715726111 | BY 2.0 | Bex.Walton
+places/bath-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/24104120967 | BY 2.0 | Bex.Walton
+places/bath-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Retro_on_York_Street_-_geograph.org.uk_-_2063603.jpg | CC BY-SA 2.0 | Steve Daniels
+places/bristol-fine_dining-1.jpg | https://www.flickr.com/photos/7831824@N04/52017191557 | BY 2.0 | Bex.Walton
+places/bristol-bakery-1.jpg | https://www.flickr.com/photos/59993138@N00/14194041884 | BY-SA 2.0 | samsaundersbristol
+places/bristol-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/52018746010 | BY 2.0 | Bex.Walton
+places/bristol-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/52017189762 | BY 2.0 | Bex.Walton
+places/salisbury-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Salisbury_-_Haunch_of_Venison_-_geograph.org.uk_-_5260431.jpg | CC BY-SA 2.0 | Colin Smith
+places/st-ives-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Porthminster_Kitchen_building,_Wharf_Road,_St_Ives_-_October_2021.jpg | CC BY-SA 4.0 | Mutney
+places/manchester-cafe-1.jpg | https://www.flickr.com/photos/45454676@N00/43663894250 | BY 2.0 | @markheybo
+places/manchester-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/28616890466 | BY 2.0 | Bex.Walton
+places/liverpool-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Guinness_rarebit_potato_at_Belzan,_Liverpool.png | CC BY 4.0 | Jonathan Deamer
+places/york-fine_dining-1.jpg | https://www.flickr.com/photos/50191609@N00/15048408624 | BY 2.0 | Adam Bruderer
+places/york-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Roots_Restaurant_(formerly_The_Bay_Horse_public_house)_York_Apr24_03.jpg | CC BY-SA 4.0 | Malcolmxl5
+places/york-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Skosh_Micklegate_York_Mar26.jpg | CC0 | Malcolmxl5
+places/york-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Spring_Espresso_45_Fossgate_York_Mar25.jpg | CC0 | Malcolmxl5
+places/york-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Brew_%26_Brownie_Museum_Street_York.jpg | CC BY-SA 4.0 | Malcolmxl5
+places/york-cafe-3.jpg | https://www.flickr.com/photos/100732098@N06/49065261291 | BY 2.0 | Clive Varley
+places/york-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Partisan_Micklegate_York_May24.jpg | CC BY-SA 4.0 | Malcolmxl5
+places/york-cafe-5.jpg | https://commons.wikimedia.org/wiki/File:The_Perky_Peacock,_Under_Lendal_Bridge,_York_-_geograph.org.uk_-_5031360.jpg | CC BY-SA 2.0 | Ian S
+places/lake-district-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Day_4-_Stairs_at_Forest_Side_Hotel_(8410013066).jpg | CC BY-SA 2.0 | Takashi Hososhima from Tokyo, Japan
+places/edinburgh-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:The_Kitchin,_Edinburgh,_3.jpg | CC BY-SA 3.0 | Lokal_Profil
+places/edinburgh-fine_dining-3.jpg | https://www.flickr.com/photos/15441925@N00/2393137717 | BY 2.0 | www.theedinburghblog.co.uk
+places/edinburgh-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/51499999772 | BY 2.0 | Bex.Walton
+places/edinburgh-cafe-4.jpg | https://www.flickr.com/photos/7831824@N04/51501703125 | BY 2.0 | Bex.Walton
+places/edinburgh-cafe-5.jpg | https://www.flickr.com/photos/7831824@N04/51501497384 | BY 2.0 | Bex.Walton
+places/glasgow-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:The_Ubiquitous_Chip_-_geograph.org.uk_-_8291956.jpg | CC BY-SA 2.0 | Richard Sutcliffe
+places/glasgow-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Mackintosh_At_The_Willow.jpg | CC BY-SA 4.0 | JJCMarshall
+places/stirling-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Darnley_Coffee_House_-_geograph.org.uk_-_7121398.jpg | CC BY-SA 2.0 | Eirian Evans
+places/st-andrews-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Northpoint_Cafe,_North_Street,_St_Andrews_-_geograph.org.uk_-_6109154.jpg | CC BY-SA 2.0 | Richard Sutcliffe
+places/conwy-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Erskine_Arms,_Conwy_-_geograph.org.uk_-_6303058.jpg | CC BY-SA 2.0 | Jaggery
+places/derry-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Walled_City_Brewery,_Ebrington_Square,_Derry_-_geograph.org.uk_-_5501243.jpg | CC BY-SA 2.0 | Robert Eva
+places/derry-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Pyke_%27n%27_Pommes,_Derry_-_Londonderry_-_geograph.org.uk_-_7963228.jpg | CC BY-SA 2.0 | Kenneth  Allen
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
