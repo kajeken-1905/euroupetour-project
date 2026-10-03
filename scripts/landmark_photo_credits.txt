@@ -451,6 +451,30 @@ places/reykjavik-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Bab
 places/reykjavik-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Stofan_Caf%C3%A9,_Reykjavik_(7115831285).jpg | CC BY 2.0 | Rob Young from United Kingdom
 places/selfoss-cafe-1.jpg | https://www.flickr.com/photos/45457437@N00/44009961190 | BY 2.0 | David Jones
 
+# Austria place photos
+places/vienna-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg | CC BY-SA 4.0 | Diego Delso
+places/vienna-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Plachutta_Wollzeile_38,_1010_Wien.JPG | CC BY-SA 3.0 at | Feel free to use my photos, but please mention me as the aut
+places/vienna-fine_dining-5.jpg | https://www.flickr.com/photos/155335734@N04/23859220368 | PDM 1.0 | brimidooley
+places/vienna-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:U2_Station_Hausfeldstra%C3%9Fe_-_Str%C3%B6ck_Brot.jpg | CC BY-SA 4.0 | Herzi Pinki
+places/vienna-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Demel,_Vienna.jpg | Public domain | No machine-readable author provided. Gryffindor assumed (bas
+places/vienna-bakery-5.jpg | https://www.flickr.com/photos/68906987@N02/6351923995 | BY 2.0 | Wien-Vienna
+places/vienna-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Central,_Vienna.jpg | CC BY-SA 4.0 | Slyronit
+places/vienna-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Sacher_shop_interior,_Vienna.jpg | Public domain | No machine-readable author provided. Gryffindor assumed (bas
+places/vienna-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Hawelka01.jpg | Public domain | Priwo
+places/vienna-cafe-5.jpg | https://www.flickr.com/photos/12505664@N00/18305110674 | BY 2.0 | illustir
+places/salzburg-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Salzburg_Zum_Eulenspiegel.jpg | CC BY-SA 4.0 | Clemens Stockner
+places/salzburg-cafe-1.jpg | https://www.flickr.com/photos/72513606@N00/210171861 | BY-SA 2.0 | a4o
+places/salzburg-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Bazar_01.jpg | CC BY 3.0 | Photo: Andreas Praefcke
+places/innsbruck-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:AUT_Innsbruck,_Ottoburg_001.jpg | CC BY-SA 4.0 | -wuppertaler
+places/innsbruck-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Innsbruck,_Friedrichstr_14,_Weinhaus_Happ,_3.jpeg | CC0 | Renardo la vulpo
+places/innsbruck-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Strudel_bei_Strudel-Caf%C3%A9_Kr%C3%B6ll_in_Innsbruck_1.jpg | CC BY 4.0 | Burkhard Mücke
+places/innsbruck-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Hotel_Central_Innsbruck_01.jpg | CC BY-SA 4.0 | Luftschiffhafen
+places/graz-fine_dining-2.jpg | https://www.flickr.com/photos/33140066@N08/4523972334 | BY 2.0 | crosseye Marketing
+places/graz-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Graz_Hofb%C3%A4ckerei_Edegger-Tax.jpg | CC BY 3.0 | Photo: Andreas Praefcke
+places/graz-cafe-2.jpg | https://www.flickr.com/photos/61226174@N07/24712855102 | BY 2.0 | Plankoskop
+places/graz-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:20220708-b%C3%BCcherschrank-cafe-fotter-h%C3%B6rsaal-attemsgasse-graz-geidorf.jpg | CC BY-SA 4.0 | Chester100rot
+places/hallstatt-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Br%C3%A4ugasthof_Schild.JPG | CC BY-SA 3.0 | Werner100359
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
