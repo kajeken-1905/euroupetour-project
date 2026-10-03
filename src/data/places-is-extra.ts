@@ -11,11 +11,11 @@ export const placesISExtra: Place[] = [
   place('reykjavik-bakery-1', 'reykjavik', 'bakery', 'Brauð & Co', 4.8, 'Austurstræti 17, 101 Reykjavík', '갓 구운 시나몬롤로 유명한 인기 베이커리.', 'Popular bakery known for its freshly baked cinnamon rolls.', { reviewCount: 8460 }),
   place('reykjavik-bakery-2', 'reykjavik', 'bakery', 'Sandholt', 4.6, 'Laugavegur 36, 101 Reykjavík', '1920년부터 4대째 이어온 아이슬란드 최고령 베이커리, 아몬드 크루아상으로 유명.', "One of Iceland's oldest bakeries, run by the fourth generation since 1920, known for its almond croissants.", { reviewCount: 3549 }),
   place('reykjavik-bakery-3', 'reykjavik', 'bakery', 'Bernhöftsbakarí', 4.7, 'Bergstaðastræti 13, 101 Reykjavík', '1834년부터 이어온 레이캬비크에서 가장 오래된 베이커리.', "Reykjavik's oldest bakery, operating since 1834."),
-  place('reykjavik-bakery-4', 'reykjavik', 'bakery', 'Café Babalú', 4.4, 'Skólavörðustígur 22a, 101 Reykjavík', '빈티지 소품으로 꾸며진 개성 넘치는 베이커리 카페, 할그림스키르캬 성당 전망.', 'Quirky bakery café decorated with vintage knick-knacks, with views of Hallgrímskirkja church.', { reviewCount: 4734 }),
+  place('reykjavik-bakery-4', 'reykjavik', 'bakery', 'Café Babalú', 4.4, 'Skólavörðustígur 22a, 101 Reykjavík', '빈티지 소품으로 꾸며진 개성 넘치는 베이커리 카페, 할그림스키르캬 성당 전망.', 'Quirky bakery café decorated with vintage knick-knacks, with views of Hallgrímskirkja church.', { reviewCount: 4734, image: '/places/reykjavik-bakery-4.jpg' }),
   place('reykjavik-cafe-1', 'reykjavik', 'cafe', 'Reykjavík Roasters', 4.7, 'Brautarholti 2, 105 Reykjavík', '싱글 오리진 원두를 직접 로스팅하는 스페셜티 로스터리.', 'Specialty roastery that sources and roasts single-origin beans in-house.', { reviewCount: 5829 }),
   place('reykjavik-cafe-2', 'reykjavik', 'cafe', 'Kaffitár', 4.5, 'Bankastræti 8, 101 Reykjavík', '아이슬란드 전역에 매장을 둔 로컬 커피 체인.', 'Local coffee chain with locations across Iceland.'),
   place('reykjavik-cafe-3', 'reykjavik', 'cafe', 'The Laundromat Café', 4.4, 'Austurstræti 9, 101 Reykjavík', '2011년부터 이어온 레이캬비크의 브런치 명소, 셀프서비스 세탁소를 겸함.', "Reykjavik brunch institution since 2011, doubling as a self-service laundromat.", { reviewCount: 2360 }),
-  place('reykjavik-cafe-4', 'reykjavik', 'cafe', 'Stofan Café', 4.5, 'Vesturgata 3, 101 Reykjavík', '1842년 지어진 건물에 자리한 아늑한 카페.', 'Cozy café housed in a building dating back to 1842.', { reviewCount: 735 }),
+  place('reykjavik-cafe-4', 'reykjavik', 'cafe', 'Stofan Café', 4.5, 'Vesturgata 3, 101 Reykjavík', '1842년 지어진 건물에 자리한 아늑한 카페.', 'Cozy café housed in a building dating back to 1842.', { reviewCount: 735, image: '/places/reykjavik-cafe-4.jpg' }),
   place('reykjavik-korean-1', 'reykjavik', 'korean', 'KORE', 4.3, 'Grandi Mathöll, Grandagarður 16, 101 Reykjavík', '한국식 프라이드치킨과 타코, 김치로 유명한 한식 스트리트 푸드 레스토랑.', 'Korean street food restaurant known for its fried chicken, tacos and kimchi.', { reviewCount: 82 }),
 
   // —— akureyri ——
@@ -50,7 +50,7 @@ export const placesISExtra: Place[] = [
   place('selfoss-fine_dining-2', 'selfoss', 'fine_dining', 'Tryggvaskáli', 4.6, 'Tryggvatorg, 800 Selfoss', '셀포스에서 가장 오래된 건물(1890년)에 자리한 북유럽 요리 레스토랑.', "Scandinavian restaurant in Selfoss's oldest house, dating to 1890.", { reviewCount: 1130 }),
   place('selfoss-bakery-1', 'selfoss', 'bakery', 'GK Bakarí', 4.4, 'Austurvegur 31b, Selfoss, Iceland', '비건 페이스트리와 무유제품 커피를 갖춘 셀포스의 베이커리', 'Selfoss bakery offering vegan pastries and dairy-free coffee options'),
   place('selfoss-bakery-2', 'selfoss', 'bakery', 'Almar Bakari', 4.5, 'Larsenstræti, 800 Selfoss', '셀포스의 베이커리.', 'Bakery in Selfoss.', { reviewCount: 226 }),
-  place('selfoss-cafe-1', 'selfoss', 'cafe', 'Kaffi Krús', 4.4, 'Austurvegur 7, 800 Selfoss, Iceland', '아늑한 옛 가옥에 자리한 셀포스의 카페', 'Selfoss café set in a charming old house'),
+  place('selfoss-cafe-1', 'selfoss', 'cafe', 'Kaffi Krús', 4.4, 'Austurvegur 7, 800 Selfoss, Iceland', '아늑한 옛 가옥에 자리한 셀포스의 카페', 'Selfoss café set in a charming old house', { image: '/places/selfoss-cafe-1.jpg' }),
   place('selfoss-cafe-2', 'selfoss', 'cafe', 'Konungskaffi', 4.8, 'Brúarstræti 2, 800 Selfoss', '셀포스의 인기 커피숍.', 'Popular coffee shop in Selfoss.', { reviewCount: 356 }),
   place('selfoss-cafe-3', 'selfoss', 'cafe', 'Bókakaffið - Books & Coffee', 4.8, 'Austurvegur 22, 800 Selfoss', '책과 커피를 함께 즐기는 셀포스의 카페.', 'Café in Selfoss combining books and coffee.', { reviewCount: 311 }),
   place('selfoss-cafe-4', 'selfoss', 'cafe', 'Byrja', 4.9, 'Austurvegur 3-5, 800 Selfoss', '셀포스의 인기 브런치 카페.', 'Popular brunch café in Selfoss.', { reviewCount: 326 }),

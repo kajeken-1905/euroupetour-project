@@ -446,6 +446,11 @@ places/stavanger-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:RE-
 places/trondheim-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Baklandet_Skydsstation_(Trondheim)_(kubos16)2677.JPG | CC BY-SA 3.0 no | Kubos16
 places/trondheim-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Rosenborg_bakeri_Rosenborg_gate_8-10_(Trondheim)_24JUL2023.jpg | CC BY-SA 4.0 | Kimberli Mäkäräinen
 
+# Iceland place photos
+places/reykjavik-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Babalu_Reykjavik_Iceland_360_degree_panorama_2026-02-08_07-56-36_1.jpg | CC BY 4.0 | G. Edward Johnson
+places/reykjavik-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Stofan_Caf%C3%A9,_Reykjavik_(7115831285).jpg | CC BY 2.0 | Rob Young from United Kingdom
+places/selfoss-cafe-1.jpg | https://www.flickr.com/photos/45457437@N00/44009961190 | BY 2.0 | David Jones
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
