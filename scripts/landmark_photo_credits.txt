@@ -494,6 +494,14 @@ places/bratislava-fine_dining-2.jpg | https://www.flickr.com/photos/8383084@N06/
 places/bratislava-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:1.Slovak_pub_-_panoramio.jpg | CC BY 3.0 | Валерий Дед
 places/kosice-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Sl%C3%A1viaKo%C5%A1ice2.jpg | Public domain | Of
 
+# Hungary place photos
+places/budapest-fine_dining-1.jpg | https://www.flickr.com/photos/94611718@N00/9028487052 | BY-SA 2.0 | andynash
+places/budapest-fine_dining-2.jpg | https://www.flickr.com/photos/7831824@N04/29084309538 | BY 2.0 | Bex.Walton
+places/budapest-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Clocks_in_New_York_Caf%C3%A9_Budapest_(1).jpg | CC BY-SA 4.0 | Gzzz
+places/budapest-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/42907414452 | BY 2.0 | Bex.Walton
+places/budapest-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Gerbeaud_Budapest_2005_078.jpg | CC BY 2.5 | Norbert Aepli, Switzerland (User:Noebu)
+places/szeged-cafe-1.jpg | https://www.flickr.com/photos/129231073@N06/44799815711 | BY 2.0 | corno.fulgur75
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
