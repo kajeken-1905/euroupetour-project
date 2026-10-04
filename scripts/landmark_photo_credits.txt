@@ -488,6 +488,12 @@ places/cesky-krumlov-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File
 places/karlovy-vary-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:07548-Karlsbad-1906-Cafe_Pupp_-_Innenansicht-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg | CC0 | Brück &amp; Sohn Kunstverlag Meißen
 places/ceske-budejovice-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurace_Masn%C3%A9_kr%C3%A1my_-_panoramio.jpg | CC BY 3.0 | Mister No
 
+# Slovakia place photos
+places/bratislava-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Hotel_Albrecht_04.jpg | CC BY-SA 4.0 | Wizzard
+places/bratislava-fine_dining-2.jpg | https://www.flickr.com/photos/8383084@N06/3823797647 | BY 2.0 | Klearchos Kapoutsis
+places/bratislava-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:1.Slovak_pub_-_panoramio.jpg | CC BY 3.0 | Валерий Дед
+places/kosice-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Sl%C3%A1viaKo%C5%A1ice2.jpg | Public domain | Of
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
