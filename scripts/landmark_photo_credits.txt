@@ -534,6 +534,28 @@ places/jurmala-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Major
 places/vilnius-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:D%C5%BEiaugsmas,_4_July_2025,_white_and_green_aspargus.jpg | CC0 | Bdx
 places/vilnius-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Pilies_kepyklele,_Vilnius_LT.jpg | CC0 | Stefano Vigorelli
 
+# Balkans (Croatia, Slovenia, Bosnia, Montenegro, Serbia, North Macedonia, Kosovo) place photos
+places/zagreb-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Vinodol_restaurant_20150323_DSC_0265.JPG | CC BY-SA 4.0 | Branko Radovanović
+places/split-bakery-4.jpg | https://www.flickr.com/photos/79721788@N00/53692628080 | BY 2.0 | D-Stanley
+places/ljubljana-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/48701960297 | BY 2.0 | Bex.Walton
+places/ljubljana-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Tozd,_Ljubljana_(48701749506).jpg | CC BY 2.0 | Bex Walton from London, England
+places/maribor-cafe-3.jpg | https://www.flickr.com/photos/39423133@N04/52381884870 | BY-SA 2.0 | Debarshi Ray
+places/sarajevo-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Cevabdzinica_Zeljo.jpg | CC BY-SA 2.0 | Saskia van de Nieuwenhof from Edinburgh, United Kingdom
+places/sarajevo-cafe-1.jpg | https://www.flickr.com/photos/27731014@N00/1535177800 | BY-SA 2.0 | popmisa
+places/travnik-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Lutvina_kahva_(2351368919).jpg | CC BY 2.0 | Brenda Annerl
+places/budva-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Jadran_-_panoramio_-_lienyuan_lee.jpg | CC BY 3.0 | lienyuan lee
+places/belgrade-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Kafana_%22Tri_sesira%22,_Skadarlija,_Belgrade_02.jpg | CC BY-SA 4.0 | BuhaM
+places/novi-sad-fine_dining-2.jpg | https://www.flickr.com/photos/54191090@N06/21038658299 | BY 2.0 | theonewithout
+places/novi-sad-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:2014-04-17_19-49-50_Sokace.jpg | CC BY-SA 4.0 | Dekanski
+places/nis-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Wiki.Ni%C5%A1_foto_Ku%C4%87a_Stambolijskih_204.jpg | CC BY-SA 4.0 | Ванилица
+places/nis-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Kafana_Ni%C5%A1lijska_mehana.IMG_1692.jpg | CC BY-SA 4.0 | Intermedichbo
+places/tetovo-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Bakal_-_Brvenica_(29).JPG | CC BY-SA 3.0 | This illustration was made by Rašo. 
+An email to 
+
+Rašo woul
+places/pristina-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Liburnia_Prishtina2.jpg | CC BY-SA 4.0 | Arianit
+places/peja-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Kulla_e_Zenel_Beut.jpg | CC BY-SA 4.0 | Dini Begolli
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesXKExtra: Place[] = [
   // —— pristina ——
   place('pristina-fine_dining-1', 'pristina', 'fine_dining', 'Sospiro Restaurant', 4.6, 'Rruga California 52, Marigona Residence, Prishtina, Kosovo', '코소보 최초의 이탈리안 파인다이닝 레스토랑', 'Kosovo\'s first exclusive Italian fine-dining restaurant'),
-  place('pristina-fine_dining-2', 'pristina', 'fine_dining', 'Liburnia', 4.4, 'Meto Bajraktari 21, Prishtina, Kosovo', '1992년부터 이어온 프리슈티나의 대표 레스토랑, 그릴 요리와 전통 스튜로 유명', "Prishtina institution open since 1992, known for grilled meats and traditional stews"),
+  place('pristina-fine_dining-2', 'pristina', 'fine_dining', 'Liburnia', 4.4, 'Meto Bajraktari 21, Prishtina, Kosovo', '1992년부터 이어온 프리슈티나의 대표 레스토랑, 그릴 요리와 전통 스튜로 유명', "Prishtina institution open since 1992, known for grilled meats and traditional stews", { image: '/places/pristina-fine_dining-2.jpg' }),
   place('pristina-fine_dining-3', 'pristina', 'fine_dining', 'Home Restaurant & Lounge Bar', 4.5, 'Rruga Migjeni, Prishtina 10000, Kosovo', '스테이크와 해산물 등 다양한 월드 요리를 선보이는 프리슈티나의 인기 레스토랑', 'Popular Prishtina restaurant serving a range of world cuisine including steaks and seafood'),
   place('pristina-fine_dining-4', 'pristina', 'fine_dining', "Tiffany's", 4.2, 'Enver Zymberi 55, 10000 Pristina, Kosovo', '고정 메뉴 없이 그날그날 시장에서 구한 신선한 재료로 요리하는 프리슈티나의 오래된 알바니아 전통 레스토랑', "Long-running Prishtina institution serving traditional Albanian dishes made from the day's fresh market ingredients, with no fixed menu"),
   place('pristina-fine_dining-5', 'pristina', 'fine_dining', "Lisa's Restaurant", 4.7, 'Rruga Fehmi Agani 34/2, Prishtina, Kosovo', '스테이크로 유명한 프리슈티나의 트렌디한 지중해 레스토랑', "Trendy Prishtina Mediterranean restaurant known for its steaks"),
@@ -26,7 +26,7 @@ export const placesXKExtra: Place[] = [
   place('prizren-cafe-2', 'prizren', 'cafe', 'ARRA Cafe & Bar', 5.0, 'Sheshi Shadërvanit 35, Prizren, Kosovo', '샤데르반 광장 인근에 위치한 프리즈렌의 카페 겸 바', 'Cafe and bar near Shadërvan Square in Prizren'),
 
   // —— peja ——
-  place('peja-fine_dining-1', 'peja', 'fine_dining', 'Kulla e Zenel Beut', 4.5, '51 William Walker Street, Pejë, Kosovo', '페야 중심가에 위치한 문화유산 저택을 개조한 레스토랑으로 두카기니 지역 전통 요리를 선보임', 'Restaurant in a historic tower house in central Peja serving traditional dishes of the Dukagjini region'),
+  place('peja-fine_dining-1', 'peja', 'fine_dining', 'Kulla e Zenel Beut', 4.5, '51 William Walker Street, Pejë, Kosovo', '페야 중심가에 위치한 문화유산 저택을 개조한 레스토랑으로 두카기니 지역 전통 요리를 선보임', 'Restaurant in a historic tower house in central Peja serving traditional dishes of the Dukagjini region', { image: '/places/peja-fine_dining-1.jpg' }),
   place('peja-fine_dining-2', 'peja', 'fine_dining', "Flo's Restaurant", 4.6, 'Sheshi Haxhi Zeka, 30000 Peja, Kosovo', '메테 바이락타리 광장 인근 페야 중심가의 인기 레스토랑, 우드파이어 오븐 요리로 유명', "Popular restaurant in central Peja near Mete Bajraktari Plaza, known for its wood-fired oven dishes"),
 
   place('peja-bakery-1', 'peja', 'bakery', 'Pekara Sofra', 4.4, 'Çarshia e Gjatë (Old Bazaar), Pejë, Kosovo', '페야 구시장 인근에 위치한 향토 베이커리, 전통 피타로 유명', 'Local Peja bakery near the Old Bazaar, known for its traditional pita pastries'),

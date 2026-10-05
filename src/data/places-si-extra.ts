@@ -10,8 +10,8 @@ export const placesSIExtra: Place[] = [
   place('ljubljana-bakery-1', 'ljubljana', 'bakery', 'Brot Pekarna', 4.8, 'Poljanska cesta 11, 1000 Ljubljana, Slovenia', '폴랸스카 거리의 높은 평점을 받는 베이커리', 'Highly rated bakery on Poljanska street in Ljubljana', { reviewCount: 443 }),
   place('ljubljana-bakery-3', 'ljubljana', 'bakery', 'Butik lePotica', 4.4, 'Stari trg 10, 1000 Ljubljana, Slovenia', '스타리 광장의 전통 포티차(호두빵) 전문점, 미니 사이즈로도 판매', 'Specialty shop on Stari trg selling traditional Slovenian potica nut roll, including mini sizes', { reviewCount: 125 }),
   place('ljubljana-bakery-4', 'ljubljana', 'bakery', 'Pekarna Pečjak (Tržnica Arkade)', 4.5, 'Adamič-Lundrovo nabrežje 4, 1000 Ljubljana, Slovenia', '류블랴나 중앙시장 아케이드에 위치한 페치니 베이커리 매장', "Pečjak bakery outlet inside the arcade of Ljubljana's central market (Tržnica)", { reviewCount: 84 }),
-  place('ljubljana-cafe-1', 'ljubljana', 'cafe', 'Čokl', 4.6, 'Krekov trg 9, 1000 Ljubljana, Slovenia', '크레코브 광장의 카페, 테라스에서 류블랴나 성과 인형극장이 보임', 'Cafe on Krekov trg with a terrace overlooking Ljubljana Castle and the puppet theatre', { reviewCount: 655 }),
-  place('ljubljana-cafe-2', 'ljubljana', 'cafe', 'Tozd', 4.5, 'Cankarjeva cesta 8, 1000 Ljubljana, Slovenia', '칸카르예바 거리의 힙스터 감성 카페 겸 바', 'Hipster-style cafe and bar on Cankarjeva cesta near the riverside', { reviewCount: 1412 }),
+  place('ljubljana-cafe-1', 'ljubljana', 'cafe', 'Čokl', 4.6, 'Krekov trg 9, 1000 Ljubljana, Slovenia', '크레코브 광장의 카페, 테라스에서 류블랴나 성과 인형극장이 보임', 'Cafe on Krekov trg with a terrace overlooking Ljubljana Castle and the puppet theatre', { reviewCount: 655, image: '/places/ljubljana-cafe-1.jpg' }),
+  place('ljubljana-cafe-2', 'ljubljana', 'cafe', 'Tozd', 4.5, 'Cankarjeva cesta 8, 1000 Ljubljana, Slovenia', '칸카르예바 거리의 힙스터 감성 카페 겸 바', 'Hipster-style cafe and bar on Cankarjeva cesta near the riverside', { reviewCount: 1412, image: '/places/ljubljana-cafe-2.jpg' }),
   place('ljubljana-cafe-3', 'ljubljana', 'cafe', 'Cafetino', 4.7, 'Stari trg 5, 1000 Ljubljana, Slovenia', '스타리 광장의 인기 커피숍, 원두를 직접 골라 마실 수 있음', 'Popular coffee shop on Stari trg where customers can choose their own coffee beans', { reviewCount: 1202 }),
   place('ljubljana-korean-1', 'ljubljana', 'korean', '오감 (Ogam)', 4.6, 'Kolodvorska ulica 7, 1000 Ljubljana, Slovenia', '콜로드보르스카 거리의 인기 한식당', 'Popular Korean restaurant on Kolodvorska street in Ljubljana', { reviewCount: 838 }),
 
@@ -48,7 +48,7 @@ export const placesSIExtra: Place[] = [
   place('maribor-bakery-4', 'maribor', 'bakery', 'Pekarna Studenci', 4.7, 'Valvasorjeva ulica 70, 2000 Maribor, Slovenia', '발바소리예바 거리의 베이커리', 'Bakery on Valvasorjeva ulica in Maribor', { reviewCount: 141 }),
   place('maribor-cafe-1', 'maribor', 'cafe', 'HiKoFi', 4.7, 'Tyrševa 13, 2000 Maribor, Slovenia', '숙련된 바리스타가 내리는 마리보르 최고의 커피로 꼽히는 아담한 스페셜티 커피숍', 'Small specialty coffee shop widely regarded as serving the best coffee in Maribor'),
   place('maribor-cafe-2', 'maribor', 'cafe', 'my Cafe', 4.6, 'Partizanska cesta 1, 2000 Maribor, Slovenia', '파르티잔스카 대로의 인기 카페', 'Popular cafe on Partizanska cesta in Maribor', { reviewCount: 904 }),
-  place('maribor-cafe-3', 'maribor', 'cafe', 'Rooster Coffee', 4.8, 'Ulica 10. oktobra 1, 2000 Maribor, Slovenia', '10월 10일 거리의 인기 커피숍', 'Popular coffee shop on Ulica 10. oktobra in Maribor', { reviewCount: 882 }),
+  place('maribor-cafe-3', 'maribor', 'cafe', 'Rooster Coffee', 4.8, 'Ulica 10. oktobra 1, 2000 Maribor, Slovenia', '10월 10일 거리의 인기 커피숍', 'Popular coffee shop on Ulica 10. oktobra in Maribor', { reviewCount: 882, image: '/places/maribor-cafe-3.jpg' }),
   place('maribor-cafe-4', 'maribor', 'cafe', 'Caffe Bianco', 4.6, 'Šolska ulica 46, 2000 Maribor, Slovenia', '숄스카 거리의 커피 전문점', 'Coffee specialty shop on Šolska ulica in Maribor', { reviewCount: 715 }),
 
   // —— postojna ——

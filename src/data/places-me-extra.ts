@@ -18,7 +18,7 @@ export const placesMEExtra: Place[] = [
 
   // —— budva ——
   place('budva-fine_dining-1', 'budva', 'fine_dining', 'Rivijera Restaurant', 4.6, '16 Njegoševa, Budva', '구시가의 전통 몬테네그로 요리, 해산물·지중해 요리로 인기.', 'Restaurant in the Old Town popular for Montenegrin and Mediterranean seafood dishes.'),
-  place('budva-fine_dining-2', 'budva', 'fine_dining', 'Jadran', 4.3, 'Lovćenska, 86000 Budva, Montenegro', '매우 많은 리뷰를 받은 부드바의 해안가 해산물 레스토랑.', 'Beachfront seafood restaurant in Budva with an exceptionally large number of reviews.', { reviewCount: 8124 }),
+  place('budva-fine_dining-2', 'budva', 'fine_dining', 'Jadran', 4.3, 'Lovćenska, 86000 Budva, Montenegro', '매우 많은 리뷰를 받은 부드바의 해안가 해산물 레스토랑.', 'Beachfront seafood restaurant in Budva with an exceptionally large number of reviews.', { reviewCount: 8124, image: '/places/budva-fine_dining-2.jpg' }),
   place('budva-fine_dining-3', 'budva', 'fine_dining', 'Pastabar', 4.6, 'Petra I Petrovića, Old Town, 85310 Budva, Montenegro', '매우 많은 리뷰를 받은 부드바의 음식점.', 'Restaurant in Budva with an exceptionally large number of reviews.', { reviewCount: 2190 }),
   place('budva-fine_dining-4', 'budva', 'fine_dining', 'Pera, Focaccia & Resto-Bar', 4.9, '18 Vranjak, Budva', '높은 평점의 부드바 이탈리아 레스토랑.', 'Highly rated Italian restaurant in Budva.', { reviewCount: 1439 }),
   place('budva-fine_dining-5', 'budva', 'fine_dining', 'Piano Nobile', 4.5, '7 Cara Dušana, Budva', '많은 리뷰를 받은 부드바의 스테이크 레스토랑.', 'Steak restaurant in Budva with a large number of reviews.', { reviewCount: 1163 }),

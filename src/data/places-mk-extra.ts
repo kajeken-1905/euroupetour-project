@@ -58,7 +58,7 @@ export const placesMKExtra: Place[] = [
   place('bitola-cafe-5', 'bitola', 'cafe', 'GT Caffe', 4.5, 'Marsal Tito 55, Bitola', '마르샬 티토 거리의 인기 카페.', 'Popular café on Marshal Tito street.', { reviewCount: 815 }),
 
   // —— tetovo ——
-  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 4.7, 'Marshal Tito, Brvenica 1216, North Macedonia', '테토보 최고 평가의 파인 레스토랑, 인터내셔널·바비큐 요리와 버섯 요리로 유명.', 'Tetovo\'s top-rated fine restaurant, known for international/barbecue cuisine and mushroom dishes.'),
+  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 4.7, 'Marshal Tito, Brvenica 1216, North Macedonia', '테토보 최고 평가의 파인 레스토랑, 인터내셔널·바비큐 요리와 버섯 요리로 유명.', 'Tetovo\'s top-rated fine restaurant, known for international/barbecue cuisine and mushroom dishes.', { image: '/places/tetovo-fine_dining-1.jpg' }),
   place('tetovo-fine_dining-2', 'tetovo', 'fine_dining', 'Restoran Belamia', 4.8, 'Goce Delchev 108, Tetovo', '고체 델체프 거리의 평점 높은 레스토랑.', 'Highly rated restaurant on Goce Delchev street.', { reviewCount: 559 }),
   place('tetovo-fine_dining-3', 'tetovo', 'fine_dining', 'Restaurant Dubrovnik', 4.7, 'Jane Sandanski 116, Tetovo', '야네 산단스키 거리의 평점 높은 레스토랑.', 'Highly rated restaurant on Jane Sandanski street.', { reviewCount: 250 }),
   place('tetovo-fine_dining-4', 'tetovo', 'fine_dining', 'Bocata', 4.6, 'Marshal Tito 46, Tetovo', '마르샬 티토 거리의 인기 레스토랑.', 'Popular restaurant on Marshal Tito street.', { reviewCount: 392 }),

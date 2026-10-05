@@ -5,11 +5,11 @@ export const placesBAExtra: Place[] = [
   // —— sarajevo ——
   place('sarajevo-fine_dining-1', 'sarajevo', 'fine_dining', 'Park Prinčeva', 4.0, 'Iza Hrida 7, Sarajevo 71000', '전망 보스니아 다이닝.', 'Viewpoint Bosnian dining.', { reviewCount: 2630 }),
   place('sarajevo-fine_dining-3', 'sarajevo', 'fine_dining', 'Inat Kuća (House of Spite)', 4.4, 'Veliki Alifakovac 1, Sarajevo 71000', '전통 보스니아 가정식.', 'Traditional Bosnian home cooking.', { reviewCount: 2561 }),
-  place('sarajevo-fine_dining-4', 'sarajevo', 'fine_dining', 'Ćevabdžinica Željo', 4.5, 'Kundurdžiluk 19, Sarajevo 71000', '체바피 클래식.', 'Ćevapi classic.', { reviewCount: 12416 }),
+  place('sarajevo-fine_dining-4', 'sarajevo', 'fine_dining', 'Ćevabdžinica Željo', 4.5, 'Kundurdžiluk 19, Sarajevo 71000', '체바피 클래식.', 'Ćevapi classic.', { reviewCount: 12416, image: '/places/sarajevo-fine_dining-4.jpg' }),
   place('sarajevo-bakery-1', 'sarajevo', 'bakery', 'Pita Ispod Sača - Kod Seje', 4.8, 'Koturova, Sarajevo 71000', '사치 화덕 피타.', 'Pita baked under a sač dome.', { reviewCount: 201 }),
   place('sarajevo-bakery-2', 'sarajevo', 'bakery', 'Baklava Dućan', 4.7, 'Čizmedžiluk 20, Sarajevo', '바클라바 전문점.', 'Baklava specialist.', { reviewCount: 616 }),
   place('sarajevo-bakery-3', 'sarajevo', 'bakery', 'Pekara Poričanin', 4.8, 'Safvet-bega Bašagića 16, Sarajevo', '구시가 인근 베이커리.', 'Bakery near the old town.', { reviewCount: 644 }),
-  place('sarajevo-cafe-1', 'sarajevo', 'cafe', 'Zlatna Ribica', 4.7, 'Kaptol 5, Sarajevo 71000', '클래식 카페 겸 바.', 'Classic café and bar.', { reviewCount: 1777 }),
+  place('sarajevo-cafe-1', 'sarajevo', 'cafe', 'Zlatna Ribica', 4.7, 'Kaptol 5, Sarajevo 71000', '클래식 카페 겸 바.', 'Classic café and bar.', { reviewCount: 1777, image: '/places/sarajevo-cafe-1.jpg' }),
   place('sarajevo-cafe-2', 'sarajevo', 'cafe', 'Fabrika Coffee Sarajevo', 4.6, 'Sarači 32, Sarajevo', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 828 }),
   place('sarajevo-cafe-3', 'sarajevo', 'cafe', 'Bašča', 4.1, 'Baščaršija 18A, Sarajevo', '바슈차르시야 시장가 카페.', 'Café on Baščaršija bazaar street.', { reviewCount: 785 }),
   place('sarajevo-cafe-4', 'sarajevo', 'cafe', 'Brunch Sa', 4.7, 'Gazi Husrev-begova 61, Sarajevo', '센타르 브런치 카페.', 'Brunch café in Centar.', { reviewCount: 2278 }),
@@ -44,7 +44,7 @@ export const placesBAExtra: Place[] = [
   place('travnik-bakery-1', 'travnik', 'bakery', 'Konak - Bečka Kafana', 4.3, 'Vezirska bb, 72270 Travnik, Bosnia and Herzegovina', '발칸식 카페 겸 베이커리로 트라브니크에서 오랫동안 사랑받아온 곳', 'Long-loved Balkan café and bakery in Travnik'),
   place('travnik-bakery-2', 'travnik', 'bakery', 'Pekara ABA Travnik', 4.5, 'Bosanska 117, Travnik 72270', '트라브니크의 제과점.', 'Bakery in Travnik.', { reviewCount: 132 }),
   place('travnik-bakery-3', 'travnik', 'bakery', 'Royal Cafe & Patisserie', 4.4, 'Travnik 72270, Bosnia and Herzegovina', '카페 겸 제과점.', 'Café and patisserie.', { reviewCount: 598 }),
-  place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 4.4, 'Šumeće, 72270 Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Highly rated traditional coffee spot in Travnik'),
+  place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 4.4, 'Šumeće, 72270 Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Highly rated traditional coffee spot in Travnik', { image: '/places/travnik-cafe-1.jpg' }),
   place('travnik-cafe-2', 'travnik', 'cafe', 'My Place Café Travnik', 4.6, 'Bosanska 33, Travnik 72270', '트라브니크의 커피 전문점.', 'Coffee shop in Travnik.', { reviewCount: 912 }),
   place('travnik-cafe-3', 'travnik', 'cafe', 'Cafe Vremeplov', 4.8, 'Varoš 10, Travnik 72270', '바로슈 지구의 커피 전문점.', 'Coffee shop in the Varoš quarter.', { reviewCount: 364 }),
 
