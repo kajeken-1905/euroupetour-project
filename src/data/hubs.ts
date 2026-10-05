@@ -5,7 +5,7 @@ import { hubsEast } from './hubs-east'
 
 /** [official name, Korean name, optional note as 'ko|en'] */
 export type RawHub = [name: string, ko: string, note?: string]
-export type RawCityHubs = { air?: RawHub[]; rail?: RawHub[]; bus?: RawHub[] }
+export type RawCityHubs = { air?: RawHub[]; rail?: RawHub[]; bus?: RawHub[]; port?: RawHub[] }
 
 const RAW: Record<string, RawCityHubs> = {
   ...hubsWest,
@@ -26,5 +26,6 @@ export function getCityHubs(cityId: string): CityHubs | undefined {
     air: raw.air?.map(hub),
     rail: raw.rail?.map(hub),
     bus: raw.bus?.map(hub),
+    port: raw.port?.map(hub),
   }
 }

@@ -29,6 +29,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   valletta: {
     air: [MLA()],
     bus: [['Valletta Bus Terminus', '발레타 버스터미널', '몰타엔 철도 없음|no railways in Malta']],
+    port: [['Valletta Ferry Landing (Lascaris)', '발레타 페리 선착장', '스리 시티즈·고조행 배|boats to the Three Cities and Gozo']],
   },
   mdina: {
     air: [MLA()],
@@ -37,6 +38,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   gozo: {
     air: [MLA('몰타 본섬 · 페리 연결|main island · ferry link')],
     bus: [['Victoria Bus Terminus', '빅토리아 버스터미널']],
+    port: [['Mġarr Harbour', '므자르 항구', '몰타 본섬 치르케와행 페리|ferry to Ċirkewwa on the main island']],
   },
 
   // —— gr ——
@@ -53,6 +55,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   corfu: {
     air: [['Corfu Ioannis Kapodistrias (CFU)', '코르푸 공항 (CFU)']],
     bus: [['KTEL Kerkyra (Green Buses)', '코르푸 KTEL 버스터미널']],
+    port: [['Port of Corfu', '코르푸 항구', '이구메니차·이탈리아·알바니아행|ferries to Igoumenitsa, Italy and Albania']],
   },
   athens: {
     air: [['Athens Eleftherios Venizelos (ATH)', '아테네 국제공항 (ATH)']],
@@ -60,6 +63,10 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [
       ['KTEL Kifissos', '키피소스 버스터미널'],
       ['KTEL Liosion', '리오시온 버스터미널'],
+    ],
+    port: [
+      ['Port of Piraeus', '피레우스 항구', '에게해 섬행 페리|ferries to the Aegean islands'],
+      ['Port of Rafina', '라피나 항구', '키클라데스행 · 공항에서 가까움|Cyclades ferries · close to the airport'],
     ],
   },
   sounion: {
@@ -71,6 +78,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   zakynthos: {
     air: [['Zakynthos Dionysios Solomos (ZTH)', '자킨토스 공항 (ZTH)']],
     bus: [['KTEL Zakynthos', '자킨토스 KTEL 버스터미널']],
+    port: [['Port of Zakynthos', '자킨토스 항구', '본토 킬리니행 페리|ferry to Kyllini on the mainland']],
   },
   nafplio: {
     air: [ATH()],
@@ -85,24 +93,30 @@ export const hubsEast: Record<string, RawCityHubs> = {
   mykonos: {
     air: [['Mykonos (JMK)', '미코노스 공항 (JMK)']],
     bus: [['Fabrika Bus Station', '파브리카 버스터미널']],
+    port: [['Mykonos New Port (Tourlos)', '미코노스 신항 (투를로스)']],
   },
   naxos: {
     air: [['Naxos (JNX)', '낙소스 공항 (JNX)']],
+    port: [['Port of Naxos', '낙소스 항구']],
   },
   santorini: {
     air: [['Santorini Thira (JTR)', '산토리니 공항 (JTR)']],
     bus: [['Fira Bus Station', '피라 버스터미널']],
+    port: [['Athinios Port', '아티니오스 항구']],
   },
   heraklion: {
     air: [['Heraklion Nikos Kazantzakis (HER)', '이라클리온 공항 (HER)']],
     bus: [['KTEL Heraklion (Bus Station A)', '이라클리온 KTEL 버스터미널 A']],
+    port: [['Port of Heraklion', '이라클리온 항구', '피레우스·산토리니행 페리|ferries to Piraeus and Santorini']],
   },
   chania: {
     air: [['Chania Ioannis Daskalogiannis (CHQ)', '하니아 공항 (CHQ)']],
     bus: [['KTEL Chania', '하니아 KTEL 버스터미널']],
+    port: [['Port of Souda', '수다 항구', '수다 · 피레우스행 페리|Souda · ferry to Piraeus']],
   },
   rhodes: {
     air: [['Rhodes Diagoras (RHO)', '로도스 공항 (RHO)']],
+    port: [['Port of Rhodes', '로도스 항구', '피레우스·도데카네스 제도·튀르키예행|ferries to Piraeus, the Dodecanese and Türkiye']],
   },
 
   // —— cy ——
@@ -126,6 +140,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Tallinn Lennart Meri (TLL)', '탈린 공항 (TLL)']],
     rail: [['Balti jaam', '발티역 (탈린 중앙역)']],
     bus: [['Tallinna bussijaam', '탈린 버스터미널']],
+    port: [['Vanasadam (Old City Harbour)', '탈린 구시가지 항구', '헬싱키·스톡홀름행 페리|ferries to Helsinki and Stockholm']],
   },
   tartu: {
     air: [['Tartu (TAY)', '타르투 공항 (TAY)', '운항편 적음|few flights'], TLL()],
@@ -171,6 +186,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Palanga (PLQ)', '팔랑가 공항 (PLQ)', '팔랑가|Palanga']],
     rail: [['Klaipėdos geležinkelio stotis', '클라이페다역']],
     bus: [['Klaipėdos autobusų stotis', '클라이페다 버스터미널']],
+    port: [['Senoji perkėla (Old Ferry Terminal)', '구 페리터미널', '쿠로니아 사주행 배|ferry to the Curonian Spit']],
   },
 
   // —— hr ——
@@ -182,15 +198,18 @@ export const hubsEast: Record<string, RawCityHubs> = {
   dubrovnik: {
     air: [['Dubrovnik Čilipi (DBV)', '두브로브니크 공항 (DBV)']],
     bus: [['Autobusni kolodvor Dubrovnik', '두브로브니크 버스터미널', '그루즈 항구 옆 · 철도 없음|by Gruž port · no railway']],
+    port: [['Luka Gruž', '그루즈 항구', '섬·이탈리아 바리행 페리|ferries to the islands and Bari, Italy']],
   },
   split: {
     air: [['Split (SPU)', '스플리트 공항 (SPU)']],
     rail: [['Split', '스플리트역']],
     bus: [['Autobusni kolodvor Split', '스플리트 버스터미널']],
+    port: [['Trajektna luka Split', '스플리트 페리항', '흐바르·브라치 등 섬·이탈리아행|ferries to Hvar, Brač and Italy']],
   },
   zadar: {
     air: [['Zadar (ZAD)', '자다르 공항 (ZAD)']],
     bus: [['Autobusni kolodvor Zadar', '자다르 버스터미널']],
+    port: [['Luka Gaženica', '가제니차 항구', '섬·이탈리아행 카페리|car ferries to the islands and Italy']],
   },
   rovinj: {
     air: [['Pula (PUY)', '풀라 공항 (PUY)', '풀라|Pula']],
@@ -199,6 +218,10 @@ export const hubsEast: Record<string, RawCityHubs> = {
   hvar: {
     air: [SPU('스플리트 · 페리 연결|Split · ferry link')],
     bus: [['Autobusni kolodvor Hvar', '흐바르 버스터미널']],
+    port: [
+      ['Luka Hvar', '흐바르 타운 항구', '스플리트행 쾌속선|catamarans to Split'],
+      ['Trajektna luka Stari Grad', '스타리그라드 페리항', '스플리트행 카페리|car ferry to Split'],
+    ],
   },
   plitvice: {
     air: [ZAG(), ['Zadar (ZAD)', '자다르 공항 (ZAD)', '자다르|Zadar']],
@@ -346,6 +369,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Corfu Ioannis Kapodistrias (CFU)', '코르푸 공항 (CFU)', '그리스 코르푸 · 페리 연결|Corfu, Greece · ferry link'],
       TIA(),
     ],
+    port: [['Porti i Sarandës', '사란더 항구', '그리스 코르푸행 페리|ferries to Corfu, Greece']],
   },
 
   // —— xk ——
@@ -441,6 +465,11 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Sirkeci', '시르케지역', '마르마라이 통근선|Marmaray commuter line'],
     ],
     bus: [['Esenler Otogarı', '에센레르 버스터미널']],
+    port: [
+      ['Eminönü', '에미뇌뉘 선착장', '보스포루스 페리|Bosphorus ferries'],
+      ['Kadıköy', '카드쾨이 선착장', '아시아 지구|Asian side'],
+      ['Yenikapı İDO', '예니카프 페리터미널', '부르사·얄로바행 쾌속선|fast ferries to Bursa and Yalova'],
+    ],
   },
   goreme: {
     air: [
@@ -472,6 +501,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Bursa Yenişehir (YEI)', '부르사 예니셰히르 공항 (YEI)', '운항편 적음|few flights'],
     ],
     bus: [['Bursa Şehirlerarası Otobüs Terminali', '부르사 시외버스터미널', '철도 없음|no railway']],
+    port: [['Mudanya BUDO İskelesi', '무다니아 선착장', '무다니아 · 이스탄불행 쾌속선|Mudanya · fast ferry to Istanbul']],
   },
   trabzon: {
     air: [['Trabzon (TZX)', '트라브존 공항 (TZX)']],

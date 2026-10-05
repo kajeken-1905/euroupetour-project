@@ -143,6 +143,7 @@ export const ui = {
   transitHubAir: { ko: '공항', en: 'Airports' },
   transitHubRail: { ko: '기차역', en: 'Train stations' },
   transitHubBus: { ko: '버스터미널', en: 'Coach stations' },
+  transitHubPort: { ko: '항구', en: 'Ferry ports' },
   transitAirport: { ko: '공항 → 시내', en: 'Airport → city' },
   transitHowTo: { ko: '이용 방법', en: 'How to ride' },
   transitApps: { ko: '추천 앱', en: 'Useful apps' },

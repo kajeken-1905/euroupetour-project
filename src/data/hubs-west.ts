@@ -85,6 +85,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Dinard–Pleurtuit–Saint-Malo (DNR)', '디나르 공항 (DNR)', '디나르 · 운항편 적음|Dinard · few flights'],
     ],
     rail: [['Gare de Saint-Malo', '생말로역']],
+    port: [['Gare maritime du Naye', '나예 여객터미널', '영국·채널 제도행 페리|ferries to the UK and Channel Islands']],
   },
   strasbourg: {
     air: [['Strasbourg (SXB)', '스트라스부르 공항 (SXB)']],
@@ -158,23 +159,28 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)']],
     rail: [['Gare de Marseille-Saint-Charles', '마르세유 생샤를역']],
     bus: [['Gare routière Saint-Charles', '생샤를 버스터미널']],
+    port: [['Gare maritime de Marseille (La Joliette)', '마르세유 여객터미널 (라 졸리에트)', '코르시카·북아프리카행|ferries to Corsica and North Africa']],
   },
   cannes: {
     air: [NCE()],
     rail: [['Gare de Cannes', '칸역']],
     bus: [['Gare routière de Cannes', '칸 버스터미널']],
+    port: [['Vieux Port de Cannes', '칸 구항구', '레랭 제도행 배|boats to the Lérins Islands']],
   },
   nice: {
     air: [["Nice Côte d'Azur (NCE)", '니스 코트다쥐르 공항 (NCE)']],
     rail: [['Gare de Nice-Ville', '니스역']],
+    port: [['Port Lympia', '니스 항구 (포르 랭피아)']],
   },
   ajaccio: {
     air: [['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 나폴레옹 보나파르트 공항 (AJA)']],
     rail: [["Gare d'Ajaccio", '아작시오역']],
     bus: [["Gare routière d'Ajaccio", '아작시오 버스터미널']],
+    port: [["Gare maritime d'Ajaccio", '아작시오 여객터미널', '프랑스 본토행 페리|ferries to mainland France']],
   },
   bonifacio: {
     air: [['Figari–Sud Corse (FSC)', '피가리 쉬드 코르스 공항 (FSC)', '피가리|Figari']],
+    port: [['Port de Bonifacio', '보니파시오 항구', '사르데냐행 페리|ferries to Sardinia']],
   },
   calvi: {
     air: [['Calvi–Sainte-Catherine (CLY)', '칼비 생트카트린 공항 (CLY)']],
@@ -279,6 +285,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Liverpool John Lennon (LPL)', '리버풀 존 레넌 공항 (LPL)']],
     rail: [['Liverpool Lime Street', '리버풀 라임 스트리트역']],
     bus: [['Liverpool ONE Bus Station', '리버풀 원 버스 스테이션']],
+    port: [['Pier Head Ferry Terminal', '피어 헤드 페리터미널', '머지 페리·맨섬행|Mersey Ferry and Isle of Man']],
   },
   york: {
     air: [
@@ -339,6 +346,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Mallaig', '말레이그역', '본토 · 페리 연결|mainland · ferry link'],
     ],
     bus: [['Somerled Square, Portree', '포트리 소멀레드 스퀘어 정류장']],
+    port: [
+      ['Armadale Ferry Terminal', '아머데일 페리터미널', '말레이그행 페리|ferry to Mallaig'],
+      ['Uig Ferry Terminal', '위그 페리터미널', '아우터헤브리디스행|ferries to the Outer Hebrides'],
+    ],
   },
   cardiff: {
     air: [['Cardiff (CWL)', '카디프 공항 (CWL)']],
@@ -379,6 +390,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Lanyon Place', '래니언 플레이스역'],
     ],
     bus: [['Belfast Grand Central Station', '벨파스트 그랜드 센트럴역', '기차역과 통합|shared with the rail station']],
+    port: [['Belfast Harbour ferry terminals', '벨파스트 항구 페리터미널', '스코틀랜드·잉글랜드행 페리|ferries to Scotland and England']],
   },
   'giants-causeway': {
     air: [['Belfast International (BFS)', '벨파스트 국제공항 (BFS)', '벨파스트|Belfast']],
@@ -401,6 +413,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Dublin Connolly', '더블린 코널리역'],
     ],
     bus: [['Busáras', '부사라스 (중앙 버스터미널)']],
+    port: [['Dublin Port', '더블린 항구', '영국·프랑스행 페리|ferries to Britain and France']],
   },
   galway: {
     air: [
@@ -414,6 +427,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Cork (ORK)', '코크 공항 (ORK)']],
     rail: [['Cork Kent', '코크 켄트역']],
     bus: [['Parnell Place Bus Station', '파넬 플레이스 버스 스테이션']],
+    port: [['Ringaskiddy Ferry Terminal', '링가스키디 페리터미널', '프랑스행 페리|ferries to France']],
   },
   killarney: {
     air: [['Kerry (KIR)', '케리 공항 (KIR)', '파란포어|Farranfore']],
@@ -565,10 +579,12 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Genova Piazza Principe', '제노바 피아차 프린치페역'],
       ['Genova Brignole', '제노바 브리뇰레역'],
     ],
+    port: [['Stazione Marittima di Genova', '제노바 여객터미널', '사르데냐·시칠리아·코르시카행|ferries to Sardinia, Sicily and Corsica']],
   },
   portofino: {
     air: [['Genova Cristoforo Colombo (GOA)', '제노바 공항 (GOA)', '제노바|Genoa']],
     rail: [['Santa Margherita Ligure–Portofino', '산타 마르게리타 리구레-포르토피노역', '산타 마르게리타 · 포르토피노엔 역 없음|Santa Margherita · no station in Portofino']],
+    port: [['Molo Umberto I', '포르토피노 선착장', '산타 마르게리타·라팔로행 배|boats to Santa Margherita and Rapallo']],
   },
   'cinque-terre': {
     air: [
@@ -591,6 +607,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Venezia Mestre', '베네치아 메스트레역', '본토|mainland'],
     ],
     bus: [['Piazzale Roma', '피아찰레 로마 버스터미널']],
+    port: [['Venezia Terminal Passeggeri', '베네치아 여객터미널']],
   },
   verona: {
     air: [['Verona Villafranca (VRN)', '베로나 공항 (VRN)']],
@@ -711,6 +728,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Napoli Capodichino (NAP)', '나폴리 공항 (NAP)']],
     rail: [['Napoli Centrale', '나폴리 중앙역']],
     bus: [['Metropark Napoli Centrale', '나폴리 메트로파크 버스터미널', '중앙역 뒤|behind the main station']],
+    port: [
+      ['Molo Beverello', '몰로 베베렐로', '카프리·이스키아행 쾌속선|fast boats to Capri and Ischia'],
+      ['Calata Porta di Massa', '칼라타 포르타 디 마사', '카페리|car ferries'],
+    ],
   },
   pompeii: {
     air: [NAP()],
@@ -722,22 +743,27 @@ export const hubsWest: Record<string, RawCityHubs> = {
   sorrento: {
     air: [NAP()],
     rail: [['Sorrento', '소렌토역', '치르쿰베수비아나선|Circumvesuviana']],
+    port: [['Marina Piccola', '마리나 피콜라 항구', '카프리·나폴리행 배|boats to Capri and Naples']],
   },
   positano: {
     air: [NAP()],
     rail: [['Sorrento', '소렌토역', '소렌토 · SITA 버스 연결|Sorrento · SITA bus link']],
+    port: [['Molo di Positano (Spiaggia Grande)', '포지타노 선착장', '아말피·카프리행 배|boats to Amalfi and Capri']],
   },
   amalfi: {
     air: [NAP()],
     rail: [['Salerno', '살레르노역', '살레르노 · 버스·페리 연결|Salerno · bus and ferry link']],
     bus: [['Piazza Flavio Gioia', '피아차 플라비오 조이아 버스터미널']],
+    port: [['Molo Pennello', '몰로 펜넬로 선착장', '포지타노·살레르노·카프리행 배|boats to Positano, Salerno and Capri']],
   },
   capri: {
     air: [NAP()],
+    port: [['Marina Grande', '마리나 그란데 항구', '나폴리·소렌토행 배|boats to Naples and Sorrento']],
   },
   bari: {
     air: [['Bari Karol Wojtyła (BRI)', '바리 공항 (BRI)']],
     rail: [['Bari Centrale', '바리 중앙역']],
+    port: [['Porto di Bari', '바리 항구', '그리스·크로아티아·알바니아행 페리|ferries to Greece, Croatia and Albania']],
   },
   alberobello: {
     air: [BRI()],
@@ -762,6 +788,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
   palermo: {
     air: [['Palermo Falcone Borsellino (PMO)', '팔레르모 공항 (PMO)']],
     rail: [['Palermo Centrale', '팔레르모 중앙역']],
+    port: [['Porto di Palermo', '팔레르모 항구', '나폴리·제노바행 페리|ferries to Naples and Genoa']],
   },
   cefalu: {
     air: [['Palermo Falcone Borsellino (PMO)', '팔레르모 공항 (PMO)', '팔레르모|Palermo']],
@@ -780,6 +807,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Catania Fontanarossa (CTA)', '카타니아 공항 (CTA)']],
     rail: [['Catania Centrale', '카타니아 중앙역']],
     bus: [['Terminal Bus Catania', '카타니아 버스터미널', '중앙역 근처|near the main station']],
+    port: [['Porto di Catania', '카타니아 항구']],
   },
   taormina: {
     air: [CTA()],
@@ -790,6 +818,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Cagliari Elmas (CAG)', '칼리아리 공항 (CAG)']],
     rail: [['Cagliari', '칼리아리역']],
     bus: [['Stazione ARST Piazza Matteotti', '피아차 마테오티 ARST 버스터미널']],
+    port: [['Porto di Cagliari', '칼리아리 항구', '이탈리아 본토행 페리|ferries to mainland Italy']],
   },
   alghero: {
     air: [['Alghero Fertilia (AHO)', '알게로 공항 (AHO)']],
@@ -798,6 +827,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
   olbia: {
     air: [['Olbia Costa Smeralda (OLB)', '올비아 공항 (OLB)']],
     rail: [['Olbia', '올비아역']],
+    port: [['Porto di Olbia (Isola Bianca)', '올비아 항구 (이솔라 비앙카)', '이탈리아 본토행 페리|ferries to mainland Italy']],
   },
   'cala-gonone': {
     air: [['Olbia Costa Smeralda (OLB)', '올비아 공항 (OLB)', '올비아|Olbia']],

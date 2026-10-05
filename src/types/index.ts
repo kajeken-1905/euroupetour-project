@@ -58,6 +58,7 @@ export interface CityHubs {
   air?: TransitHub[]
   rail?: TransitHub[]
   bus?: TransitHub[]
+  port?: TransitHub[]
 }
 
 export interface Country {

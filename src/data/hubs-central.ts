@@ -153,10 +153,12 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Amsterdam Zuid', '암스테르담 자위트역'],
     ],
     bus: [['Amsterdam Sloterdijk', '암스테르담 슬로터데이크 버스 정류장', '장거리 버스|long-distance coaches']],
+    port: [['Felison Terminal, IJmuiden', '에이마위던 펠리손 터미널', '에이마위던 · 영국 뉴캐슬행|IJmuiden · ferry to Newcastle']],
   },
   rotterdam: {
     air: [['Rotterdam The Hague (RTM)', '로테르담 헤이그 공항 (RTM)'], AMS()],
     rail: [['Rotterdam Centraal', '로테르담 중앙역']],
+    port: [['Europoort ferry terminal', '유로포르트 페리터미널', '영국 헐행 페리|ferry to Hull']],
   },
   'the-hague': {
     air: [['Rotterdam The Hague (RTM)', '로테르담 헤이그 공항 (RTM)', '로테르담|Rotterdam'], AMS()],
@@ -250,6 +252,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Estació del Nord', '북부 버스터미널'],
       ['Estació d’Autobusos de Sants', '산츠 버스터미널'],
     ],
+    port: [['Port de Barcelona', '바르셀로나 항구', '발레아레스 제도·이탈리아행 페리|ferries to the Balearics and Italy']],
   },
   montserrat: {
     air: [BCN()],
@@ -275,11 +278,13 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['València Nord', '발렌시아 북역'],
     ],
     bus: [['Estació d’Autobusos de València', '발렌시아 버스터미널']],
+    port: [['Port de València', '발렌시아 항구', '발레아레스 제도행 페리|ferries to the Balearics']],
   },
   palma: {
     air: [['Palma de Mallorca (PMI)', '팔마 데 마요르카 공항 (PMI)']],
     rail: [['Estació Intermodal de Palma', '팔마 인테르모달역']],
     bus: [['Estació Intermodal de Palma', '팔마 인테르모달 버스터미널', '기차역과 통합|shared with the rail station']],
+    port: [['Port de Palma', '팔마 항구', '바르셀로나·발렌시아·이비사행 페리|ferries to Barcelona, Valencia and Ibiza']],
   },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
@@ -435,6 +440,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   },
   funchal: {
     air: [['Madeira Cristiano Ronaldo (FNC)', '마데이라 공항 (FNC)']],
+    port: [['Porto do Funchal', '푼샬 항구', '포르투산투행 페리|ferry to Porto Santo']],
   },
 
   // —— dk ——
@@ -445,6 +451,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Nørreport', '뇌레포르트역'],
     ],
     bus: [['Københavns Busterminal', '코펜하겐 버스터미널']],
+    port: [['DFDS Terminal København', '코펜하겐 DFDS 터미널', '오슬로행 페리|ferry to Oslo']],
   },
   aarhus: {
     air: [
@@ -453,6 +460,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     ],
     rail: [['Aarhus H', '오르후스 중앙역']],
     bus: [['Aarhus Rutebilstation', '오르후스 버스터미널']],
+    port: [['Aarhus Færgehavn', '오르후스 페리항', '셸란섬행 쾌속선|fast ferry to Zealand']],
   },
   odense: {
     air: [CPH(), ['Billund (BLL)', '빌룬 공항 (BLL)', '빌룬|Billund']],
@@ -477,11 +485,16 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     ],
     rail: [['Stockholm Central', '스톡홀름 중앙역']],
     bus: [['Cityterminalen', '시티터미널렌']],
+    port: [
+      ['Värtahamnen', '베르타함넨 항구', '헬싱키·탈린·투르쿠행|ferries to Helsinki, Tallinn and Turku'],
+      ['Stadsgården', '스타스고르덴 터미널', '바이킹 라인|Viking Line'],
+    ],
   },
   gothenburg: {
     air: [['Göteborg Landvetter (GOT)', '예테보리 란드베테르 공항 (GOT)']],
     rail: [['Göteborg Central', '예테보리 중앙역']],
     bus: [['Nils Ericson Terminalen', '닐스 에릭손 터미널']],
+    port: [['Stena Line Danmarksterminalen', '스테나 라인 덴마크 터미널', '덴마크 프레데릭스하운행|ferry to Frederikshavn, Denmark']],
   },
   malmo: {
     air: [CPH('덴마크 코펜하겐|Copenhagen, Denmark'), ['Malmö (MMX)', '말뫼 공항 (MMX)']],
@@ -504,11 +517,17 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Pasila', '파실라역'],
     ],
     bus: [['Kamppi', '캄피 버스터미널']],
+    port: [
+      ['Länsisatama (West Harbour)', '서항 (랜시사타마)', '탈린행 페리|ferries to Tallinn'],
+      ['Olympiaterminaali', '올림피아 터미널', '스톡홀름행|ferries to Stockholm'],
+      ['Katajanokan terminaali', '카타야노카 터미널', '스톡홀름·탈린행|ferries to Stockholm and Tallinn'],
+    ],
   },
   turku: {
     air: [['Turku (TKU)', '투르쿠 공항 (TKU)'], HEL()],
     rail: [['Turku', '투르쿠역']],
     bus: [['Turun linja-autoasema', '투르쿠 버스터미널']],
+    port: [['Turun satama', '투르쿠 항구', '스톡홀름행 페리|ferries to Stockholm']],
   },
   tampere: {
     air: [['Tampere-Pirkkala (TMP)', '탐페레 피르칼라 공항 (TMP)'], HEL()],
@@ -536,20 +555,30 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Nationaltheatret', '나쇼날테아트레역'],
     ],
     bus: [['Oslo bussterminal', '오슬로 버스터미널']],
+    port: [
+      ['Vippetangen (DFDS)', '비페탕엔 터미널', '코펜하겐행 페리|ferry to Copenhagen'],
+      ['Hjortnes (Color Line)', '요르트네스 터미널', '독일 킬행 페리|ferry to Kiel, Germany'],
+    ],
   },
   bergen: {
     air: [['Bergen Flesland (BGO)', '베르겐 공항 (BGO)']],
     rail: [['Bergen', '베르겐역']],
     bus: [['Bergen busstasjon', '베르겐 버스터미널']],
+    port: [
+      ['Strandkaiterminalen', '스트란카이 터미널', '피오르 쾌속선|fjord express boats'],
+      ['Hurtigruteterminalen', '후르티그루텐 터미널', '연안 여객선|coastal voyage'],
+    ],
   },
   tromso: {
     air: [['Tromsø Langnes (TOS)', '트롬쇠 공항 (TOS)']],
     bus: [['Prostneset', '프로스트네세 터미널', '철도 없음|no railway']],
+    port: [['Prostneset', '프로스트네세 터미널', '후르티그루텐 연안 여객선|Hurtigruten coastal voyage']],
   },
   stavanger: {
     air: [['Stavanger Sola (SVG)', '스타방에르 공항 (SVG)']],
     rail: [['Stavanger', '스타방에르역']],
     bus: [['Stavanger Byterminalen', '스타방에르 뷔터미널렌']],
+    port: [['Fiskepiren', '피스케피렌 터미널', '뤼세피오르 등 근교 배|boats to Lysefjord and nearby islands']],
   },
   trondheim: {
     air: [['Trondheim Værnes (TRD)', '트론헤임 공항 (TRD)']],
@@ -558,6 +587,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   alesund: {
     air: [['Ålesund Vigra (AES)', '올레순 공항 (AES)']],
     bus: [['Ålesund rutebilstasjon', '올레순 버스터미널', '철도 없음|no railway']],
+    port: [['Skansekaia', '스칸세카이아 부두', '후르티그루텐 연안 여객선|Hurtigruten coastal voyage']],
   },
   flam: {
     air: [BGO()],
@@ -565,6 +595,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Flåm', '플롬역', '플롬 산악철도|Flåm Railway'],
       ['Myrdal', '뮈르달역', '베르겐선 환승역|Bergen Line interchange'],
     ],
+    port: [['Flåm kai', '플롬 선착장', '구드방엔행 피오르 크루즈|fjord cruise to Gudvangen']],
   },
 
   // —— is ——
@@ -728,6 +759,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Gdańsk Lech Wałęsa (GDN)', '그단스크 공항 (GDN)']],
     rail: [['Gdańsk Główny', '그단스크 중앙역']],
     bus: [['Dworzec Autobusowy Gdańsk', '그단스크 버스터미널']],
+    port: [['Terminal Promowy Gdańsk', '그단스크 페리터미널', '스웨덴행 페리|ferry to Sweden']],
   },
   wroclaw: {
     air: [['Wrocław Copernicus (WRO)', '브로츠와프 공항 (WRO)']],

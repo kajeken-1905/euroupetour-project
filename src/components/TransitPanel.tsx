@@ -121,13 +121,15 @@ const HUB_ROWS = [
   ['air', '✈️', 'transitHubAir'],
   ['rail', '🚆', 'transitHubRail'],
   ['bus', '🚌', 'transitHubBus'],
+  ['port', '⛴️', 'transitHubPort'],
 ] as const
 
 const STATION_WORD = /gare|station|bahnhof|hbf|stazione|estaci|nádraží|stanica|stacija|stotis|jaam|kolodvor|garı|vağzal|centrale?|central|rautatieasema/i
 
-function hubMapsUrl(hub: TransitHub, kind: 'air' | 'rail' | 'bus', cityName: string): string {
-  // A note means the hub is outside the city (or needs no city hint), so don't pin it to the city name.
-  const where = hub.note ? '' : ` ${cityName}`
+function hubMapsUrl(hub: TransitHub, kind: 'air' | 'rail' | 'bus' | 'port', cityName: string): string {
+  // A note usually means the hub is outside the city, so don't pin it to the city name.
+  // Port notes describe routes rather than a location, so ports always get the city hint.
+  const where = hub.note && kind !== 'port' ? '' : ` ${cityName}`
   const suffix = kind === 'rail' && !STATION_WORD.test(hub.name) ? ' railway station' : ''
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hub.name + suffix + where)}`
 }
