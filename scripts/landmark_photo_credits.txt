@@ -502,6 +502,12 @@ places/budapest-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/429074144
 places/budapest-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Gerbeaud_Budapest_2005_078.jpg | CC BY 2.5 | Norbert Aepli, Switzerland (User:Noebu)
 places/szeged-cafe-1.jpg | https://www.flickr.com/photos/129231073@N06/44799815711 | BY 2.0 | corno.fulgur75
 
+# Poland place photos
+places/warsaw-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Warsaw_Senses_degustation_menu_2019_P04.jpg | CC BY-SA 4.0 | Fallaner
+places/warsaw-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Restauracja_Magdy_Gessler_Polka_-_Warszawa.JPG | CC BY 3.0 | Alina Zienowicz (Ala_z)
+places/krakow-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Gossip_Caf%C3%A9_in_Zwierzyniecka_Street,_Krak%C3%B3w,_Poland_2019.jpg | CC BY-SA 4.0 | Kgbo
+places/wroclaw-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw,_Konspira_(4).jpg | CC BY 4.0 | Palickap
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

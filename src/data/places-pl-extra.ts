@@ -3,10 +3,10 @@ import type { Place } from '../types'
 
 export const placesPLExtra: Place[] = [
   // —— warsaw ——
-  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 4.6, 'Bielańska 12, 00-085 Warszawa', '미쉐린 1스타 레스토랑, 폴란드 전통 풍미를 현대적으로 재해석.', 'One-Michelin-star restaurant reinterpreting classic Polish flavors with modern technique.'),
+  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 4.6, 'Bielańska 12, 00-085 Warszawa', '미쉐린 1스타 레스토랑, 폴란드 전통 풍미를 현대적으로 재해석.', 'One-Michelin-star restaurant reinterpreting classic Polish flavors with modern technique.', { image: '/places/warsaw-fine_dining-1.jpg' }),
   place('warsaw-fine_dining-2', 'warsaw', 'fine_dining', 'Nolita', 4.6, 'Wilcza 46, 00-679 Warszawa', '오픈 키친에서 폴란드·지중해·동남아 요리를 결합한 모던 다이닝.', 'Modern dining with an open kitchen blending Polish, Mediterranean, and Southeast Asian flavors.', { reviewCount: 1876 }),
   place('warsaw-fine_dining-3', 'warsaw', 'fine_dining', 'Stary Dom', 4.6, 'Puławska 104/106, 02-620 Warszawa', '전통 폴란드 요리를 선보이는 대형 브라세리.', 'Large brasserie serving traditional Polish cuisine.'),
-  place('warsaw-fine_dining-4', 'warsaw', 'fine_dining', 'Polka', 3.5, 'Świętojańska 2, 00-288 Warszawa', '구시가 왕궁 옆 옛 건물에서 즐기는 프렌치풍 폴란드 요리.', 'French-inflected Polish cuisine served in a historic building next to the Royal Castle in the Old Town.', { reviewCount: 5264 }),
+  place('warsaw-fine_dining-4', 'warsaw', 'fine_dining', 'Polka', 3.5, 'Świętojańska 2, 00-288 Warszawa', '구시가 왕궁 옆 옛 건물에서 즐기는 프렌치풍 폴란드 요리.', 'French-inflected Polish cuisine served in a historic building next to the Royal Castle in the Old Town.', { reviewCount: 5264, image: '/places/warsaw-fine_dining-4.jpg' }),
   place('warsaw-fine_dining-5', 'warsaw', 'fine_dining', 'Bibenda', 4.3, 'Nowogrodzka 10, 00-511 Warszawa', '채식 메뉴가 풍부한 인기 와인 비스트로.', 'Popular wine bistro with a wine-forward, vegetarian-friendly menu.', { reviewCount: 4620 }),
 
   place('warsaw-bakery-1', 'warsaw', 'bakery', 'Cukiernia Sowa', 4.1, 'Chmielna 11, 00-021 Warszawa', '1946년 창업한 가족 운영 제과점 체인, 케이크·페이스트리로 유명.', 'Family-run patisserie chain founded in 1946, known for cakes and pastries.'),
@@ -32,7 +32,7 @@ export const placesPLExtra: Place[] = [
   place('krakow-bakery-5', 'krakow', 'bakery', 'Lajkonik Piekarnia i Kawiarnia', 4.5, 'Plac Dominikański 2, 31-043 Kraków', '도미니칸 광장의 라이코니크 베이커리 카페 지점, 아침·점심 메뉴도 제공.', 'Dominican Square branch of the Lajkonik bakery-café chain, also serving breakfast and lunch.', { reviewCount: 2141 }),
 
   place('krakow-cafe-1', 'krakow', 'cafe', 'Lajkonik Bakery & Cafe', 4.4, 'Tomasza 25, 31-027 Kraków, Poland', '달콤한 폰치키(잼 도넛)로 유명한 크라쿠프의 베이커리 카페 체인', 'Kraków bakery café chain known for its sweet pączki jelly donuts'),
-  place('krakow-cafe-2', 'krakow', 'cafe', 'Gossip Cafe', 4.8, 'Świętego Jana 30, 31-018 Kraków', '평점 높은 인기 카페, 구시가지 중심가에 위치.', 'Highly rated, popular café in the heart of the Old Town.', { reviewCount: 4091 }),
+  place('krakow-cafe-2', 'krakow', 'cafe', 'Gossip Cafe', 4.8, 'Świętego Jana 30, 31-018 Kraków', '평점 높은 인기 카페, 구시가지 중심가에 위치.', 'Highly rated, popular café in the heart of the Old Town.', { reviewCount: 4091, image: '/places/krakow-cafe-2.jpg' }),
   place('krakow-cafe-3', 'krakow', 'cafe', 'B.O.H.O Coffee&Bar', 4.8, 'Stolarska 6, 31-043 Kraków', '평점 높은 스페셜티 커피 & 바.', 'Highly rated specialty coffee and bar.', { reviewCount: 1602 }),
   place('krakow-cafe-4', 'krakow', 'cafe', 'Cytat Café', 4.6, 'Miodowa 23, 31-055 Kraków', '카지미에시 지구의 평점 높은 카페.', 'Highly rated café in the Kazimierz district.', { reviewCount: 5462 }),
   place('krakow-cafe-5', 'krakow', 'cafe', 'Camelot Cafe', 4.5, 'Św. Tomasza 17, 31-021 Kraków', '구시가지의 인기 커피숍, 예약도 가능.', 'Popular coffee shop in the Old Town, with reservations available.', { reviewCount: 5264 }),
@@ -58,7 +58,7 @@ export const placesPLExtra: Place[] = [
 
   // —— wroclaw ——
   place('wroclaw-fine_dining-1', 'wroclaw', 'fine_dining', 'Restauracja Katedralna 9', 4.5, 'Katedralna 9, 50-328 Wrocław', '오스트루프 툼스키의 전망 좋은 레스토랑.', 'Restaurant with views on Ostrów Tumski.'),
-  place('wroclaw-fine_dining-2', 'wroclaw', 'fine_dining', 'Konspira', 4.6, 'Plac Solny 11, 50-062 Wrocław', '음식 양이 푸짐한 브로츠와프의 오래된 폴란드 요리 식당.', 'Long-running Polish restaurant known for generous portions.', { reviewCount: 12339 }),
+  place('wroclaw-fine_dining-2', 'wroclaw', 'fine_dining', 'Konspira', 4.6, 'Plac Solny 11, 50-062 Wrocław', '음식 양이 푸짐한 브로츠와프의 오래된 폴란드 요리 식당.', 'Long-running Polish restaurant known for generous portions.', { reviewCount: 12339, image: '/places/wroclaw-fine_dining-2.jpg' }),
   place('wroclaw-fine_dining-3', 'wroclaw', 'fine_dining', 'Wrocławska', 4.6, 'Szewska 59/60, 50-139 Wrocław', '평점 높은 인기 레스토랑, 브로츠와프 대표 요리를 선보인다.', 'Highly rated, popular restaurant showcasing signature Wrocław dishes.', { reviewCount: 4361 }),
   place('wroclaw-fine_dining-4', 'wroclaw', 'fine_dining', 'Pod Papugami - Restaurant & Cocktail Bar', 4.6, 'Sukiennice 9a, 50-107 Wrocław', '수키에니체의 평점 높은 레스토랑 겸 칵테일 바.', 'Highly rated restaurant and cocktail bar on Sukiennice.', { reviewCount: 3498 }),
   place('wroclaw-fine_dining-5', 'wroclaw', 'fine_dining', 'STÓŁ na Szwedzkiej - studio kulinarne', 4.8, 'Szwedzka 17A, 51-128 Wrocław', '평점 높은 컬리너리 스튜디오형 레스토랑.', 'Highly rated culinary-studio-style restaurant.', { reviewCount: 1860 }),
