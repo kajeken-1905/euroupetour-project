@@ -278,7 +278,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   mostar: {
     air: [['Mostar (OMO)', '모스타르 공항 (OMO)', '운항편 적음|few flights'], SJJ()],
     rail: [['Mostar', '모스타르역']],
-    bus: [['Autobuska stanica Mostar', '모스타르 버스터미널', '기차역 옆|next to the rail station']],
+    bus: [['Autobuska stanica Mostar (Istok)', '모스타르 동부 버스터미널', '기차역 옆|next to the rail station']],
   },
   'banja-luka': {
     air: [['Banja Luka (BNX)', '바냐루카 공항 (BNX)']],

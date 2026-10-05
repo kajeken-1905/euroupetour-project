@@ -453,7 +453,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Nørreport', '뇌레포르트역'],
     ],
     bus: [['Københavns Busterminal', '코펜하겐 버스터미널']],
-    port: [['DFDS Terminal København', '코펜하겐 DFDS 터미널', '오슬로행 페리|ferry to Oslo']],
+    port: [['Oslo ferry terminal (Dampfærgevej 30)', '오슬로행 페리터미널 (담프페르게바이)', '오슬로행 페리 · Go Nordic Cruiseline|ferry to Oslo · Go Nordic Cruiseline']],
   },
   aarhus: {
     air: [
@@ -558,7 +558,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     ],
     bus: [['Oslo bussterminal', '오슬로 버스터미널']],
     port: [
-      ['Vippetangen (DFDS)', '비페탕엔 터미널', '코펜하겐행 페리|ferry to Copenhagen'],
+      ['Vippetangen', '비페탕엔 터미널', '코펜하겐행 페리 · Go Nordic Cruiseline|ferry to Copenhagen · Go Nordic Cruiseline'],
       ['Hjortnes (Color Line)', '요르트네스 터미널', '독일 킬행 페리|ferry to Kiel, Germany'],
     ],
   },

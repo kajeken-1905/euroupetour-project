@@ -33,7 +33,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Gare Saint-Lazare', '생라자르역'],
       ["Gare d'Austerlitz", '오스테를리츠역'],
     ],
-    bus: [['Gare routière Paris Bercy Seine', '베르시 센 버스터미널']],
+    bus: [
+      ['Gare routière Paris Bercy Seine', '베르시 센 버스터미널'],
+      ['Gare routière Pershing (Porte Maillot)', '페르싱 버스터미널 (포르트 마요)', 'FlixBus 일부 노선 · 2025년 12월부터|some FlixBus routes · since December 2025'],
+    ],
   },
   giverny: {
     air: [CDG()],
@@ -171,7 +174,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
   nice: {
     air: [["Nice Côte d'Azur (NCE)", '니스 코트다쥐르 공항 (NCE)']],
     rail: [['Gare de Nice-Ville', '니스역']],
-    port: [['Port Lympia', '니스 항구 (포르 랭피아)']],
+    port: [['Port Lympia', '니스 항구 (포르 랭피아)', '코르시카행 페리|ferries to Corsica']],
   },
   ajaccio: {
     air: [['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 나폴레옹 보나파르트 공항 (AJA)']],
@@ -625,7 +628,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Venezia Mestre', '베네치아 메스트레역', '본토|mainland'],
     ],
     bus: [['Piazzale Roma', '피아찰레 로마 버스터미널']],
-    port: [['Venezia Terminal Passeggeri', '베네치아 여객터미널']],
+    port: [
+      ['Terminal San Basilio', '산 바실리오 터미널', '크로아티아·슬로베니아행 쾌속선|fast boats to Croatia and Slovenia'],
+      ['Terminal Fusina', '푸시나 터미널', '본토 · 그리스행 페리|mainland · ferries to Greece'],
+    ],
   },
   verona: {
     air: [['Verona Villafranca (VRN)', '베로나 공항 (VRN)']],
