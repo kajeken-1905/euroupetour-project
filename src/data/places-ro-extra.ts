@@ -18,7 +18,7 @@ export const placesROExtra: Place[] = [
   place('bucharest-cafe-4', 'bucharest', 'cafe', 'Grand Café Van Gogh', 4.2, 'Strada Smârdan 9, Bucharest', '구시가 브런치·조식 카페.', 'Old-town brunch and breakfast café.', { reviewCount: 12991 }),
 
   // —— brasov ——
-  place('brasov-fine_dining-1', 'brasov', 'fine_dining', 'Albert Social Bistro', 4.6, 'Strada Apollonia Hirscher 12, 500015 Brașov', '구 와인 저장고의 유러피언 비스트로.', 'European bistro in a former wine cellar.'),
+  place('brasov-fine_dining-1', 'brasov', 'fine_dining', 'Albert Social Bistro', 4.6, 'Strada Republicii 38, 500030 Brașov', '구 와인 저장고의 유러피언 비스트로.', 'European bistro in a former wine cellar.'),
   place('brasov-fine_dining-2', 'brasov', 'fine_dining', 'La Ceaun - Piața Sfatului', 4.7, 'Piața Sfatului 11-12, Brașov, Romania', '브라쇼브 대표 광장에 위치한 인기 루마니아 전통 요리 레스토랑', "Popular traditional Romanian restaurant on Brașov's central Piața Sfatului square", { reviewCount: 12131 }),
   place('brasov-fine_dining-3', 'brasov', 'fine_dining', 'Ograda', 4.8, 'Piața Sfatului 14, Brașov, Romania', '피아차 스파툴루이 광장의 인기 레스토랑', 'Popular restaurant on Piața Sfatului square in Brașov', { reviewCount: 4663 }),
   place('brasov-fine_dining-4', 'brasov', 'fine_dining', 'One Soul', 4.8, 'Strada Apollonia Hirscher 12, 500015 Brașov, Romania', '아폴로니아 히르셰르 거리의 고급 다이닝 레스토랑', 'Fine-dining restaurant on Strada Apollonia Hirscher in Brașov', { reviewCount: 984 }),
@@ -56,7 +56,7 @@ export const placesROExtra: Place[] = [
   place('sighisoara-cafe-2', 'sighisoara', 'cafe', 'Atelier Specialty Coffee', 4.9, 'Strada Octavian Goga 6, 545400 Sighișoara, Romania', '옥타비안 고가 거리의 인기 스페셜티 커피숍', 'Popular specialty coffee shop on Strada Octavian Goga in Sighișoara', { reviewCount: 950 }),
 
   // —— cluj-napoca ——
-  place('cluj-napoca-fine_dining-1', 'cluj-napoca', 'fine_dining', 'Samsara Foodhouse', 4.5, 'Strada Alexandru Ciurea 6, 400000 Cluj-Napoca', '올리브 나무가 있는 채식·비건 레스토랑.', 'Vegan-friendly restaurant with an olive tree indoors.'),
+  place('cluj-napoca-fine_dining-1', 'cluj-napoca', 'fine_dining', 'Samsara Foodhouse', 4.5, 'Strada Cardinal Iuliu Hossu 3, 400029 Cluj-Napoca', '올리브 나무가 있는 채식·비건 레스토랑.', 'Vegan-friendly restaurant with an olive tree indoors.'),
   place('cluj-napoca-fine_dining-2', 'cluj-napoca', 'fine_dining', 'Roata', 4.6, 'Strada Alexandru Ciurea 6, 400000 Cluj-Napoca, Romania', '클루지나포카 최고 인기의 루마니아 전통 요리 레스토랑', "Cluj-Napoca's most popular traditional Romanian restaurant", { reviewCount: 6669 }),
   place('cluj-napoca-fine_dining-3', 'cluj-napoca', 'fine_dining', 'Zama', 4.5, 'Str. Napoca 16, Cluj-Napoca, Romania', '나포카 거리의 인기 루마니아 요리 레스토랑', 'Popular Romanian-cuisine restaurant on Str. Napoca in Cluj-Napoca', { reviewCount: 5145 }),
   place('cluj-napoca-fine_dining-4', 'cluj-napoca', 'fine_dining', 'Kupaj Gourmet', 4.8, 'Strada Sindicatelor 4, Cluj-Napoca, Romania', '신디카텔로르 거리의 고급 구르메 레스토랑', 'Gourmet fine-dining restaurant on Strada Sindicatelor in Cluj-Napoca', { reviewCount: 633 }),
