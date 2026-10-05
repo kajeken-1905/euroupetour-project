@@ -556,6 +556,24 @@ Rašo woul
 places/pristina-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Liburnia_Prishtina2.jpg | CC BY-SA 4.0 | Arianit
 places/peja-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Kulla_e_Zenel_Beut.jpg | CC BY-SA 4.0 | Dini Begolli
 
+# Bulgaria, Romania, Türkiye, Armenia, Ukraine, Moldova place photos
+places/sofia-fine_dining-5.jpg | https://www.flickr.com/photos/14759783@N04/23943510586 | BY 2.0 | young shanahan
+places/bucharest-fine_dining-4.jpg | https://www.flickr.com/photos/46191841@N00/53692128431 | BY 2.0 | Jorge Franganillo
+places/bucharest-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%89clair_at_Bucharest_%22French_Revolution%22_dessert_store.jpg | CC BY-SA 4.0 | Chainwit.
+places/bucharest-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Cafeneaua_veche-0840.jpg | CC BY-SA 3.0 ro | Korinna
+places/istanbul-fine_dining-1.jpg | https://www.flickr.com/photos/20354625@N00/9338910131 | BY 2.0 | randwill
+places/istanbul-cafe-2.jpg | https://www.flickr.com/photos/45561728@N06/22041766685 | BY 2.0 | richardha101
+places/istanbul-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Karabatak_cafe_in_Karak%C3%B6y.jpg | CC BY 4.0 | Dor Shabashewitz
+places/ankara-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Kalamar_tava_in_Trilye_Restaurant.jpg | CC BY-SA 4.0 | E4024
+places/bursa-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Bursa_-setba%C5%9F%C4%B1-mahfel_-_panoramio.jpg | CC BY 3.0 | HALUK COMERTEL
+places/yerevan-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Ghapama,_Lavash_Restaurant_(Yerevan)_2018_(4).jpg | CC0 | Benoît Prieur
+places/yerevan-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Dolmama_(Yerevan)_May_2018.jpg | CC0 | Benoît Prieur
+places/yerevan-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Tavern_Yerevan_(Khorenatsi_Street)_May_2018.jpg | CC0 | Benoît Prieur
+places/yerevan-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Yerevan_-_Sherep_Restaurant,_Amiryan_Street_(2018).jpg | CC BY-SA 4.0 | Sebleouf
+places/kyiv-fine_dining-2.jpg | https://www.flickr.com/photos/31849470@N02/17086264791 | BY 2.0 | Oleksii Leonov
+places/lviv-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Lviv_Croissants_near_the_Lviv_railway_station.jpg | CC0 | Real archimedes of syracuse
+places/chisinau-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:La_Pl%C4%83cinte,_Kiev_Street_12,_Kiszyni%C3%B3w_(6).jpg | CC BY 4.0 | MOs810
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

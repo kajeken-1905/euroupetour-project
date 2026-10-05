@@ -3,10 +3,10 @@ import type { Place } from '../types'
 
 export const placesAMExtra: Place[] = [
   // —— yerevan ——
-  place('yerevan-fine_dining-1', 'yerevan', 'fine_dining', 'Lavash', 4.5, '21 Tumanyan St, Yerevan 0001', '예레반의 인기 아르메니아 레스토랑.', 'Popular Armenian restaurant in Yerevan.'),
-  place('yerevan-fine_dining-2', 'yerevan', 'fine_dining', 'Dolmama', 4.9, '10 Pushkin Street, Yerevan', '1998년부터 이어온 아르메니아 파인다이닝, 돌마(포도잎쌈)로 유명', 'Armenian fine-dining restaurant open since 1998, known for its dolma (stuffed grape leaves)', { reviewCount: 591 }),
-  place('yerevan-fine_dining-3', 'yerevan', 'fine_dining', 'Tavern Yerevan', 5.0, '29/2 Khorenatsi Street, Yerevan', '전통 아르메니아 가정식과 라이브 음악을 즐길 수 있는 타번 레스토랑', 'Tavern-style restaurant known for traditional Armenian home cooking (khorovats, ghapama) and live music', { reviewCount: 630 }),
-  place('yerevan-fine_dining-4', 'yerevan', 'fine_dining', 'Sherep', 5.0, '1 Amiryan Street, Yerevan', '공화국 광장 인근의 오픈 키친 레스토랑, 코카서스·인터내셔널 요리', 'Open-kitchen restaurant near Republic Square serving Caucasian and international cuisine', { reviewCount: 1717 }),
+  place('yerevan-fine_dining-1', 'yerevan', 'fine_dining', 'Lavash', 4.5, '21 Tumanyan St, Yerevan 0001', '예레반의 인기 아르메니아 레스토랑.', 'Popular Armenian restaurant in Yerevan.', { image: '/places/yerevan-fine_dining-1.jpg' }),
+  place('yerevan-fine_dining-2', 'yerevan', 'fine_dining', 'Dolmama', 4.9, '10 Pushkin Street, Yerevan', '1998년부터 이어온 아르메니아 파인다이닝, 돌마(포도잎쌈)로 유명', 'Armenian fine-dining restaurant open since 1998, known for its dolma (stuffed grape leaves)', { reviewCount: 591, image: '/places/yerevan-fine_dining-2.jpg' }),
+  place('yerevan-fine_dining-3', 'yerevan', 'fine_dining', 'Tavern Yerevan', 5.0, '29/2 Khorenatsi Street, Yerevan', '전통 아르메니아 가정식과 라이브 음악을 즐길 수 있는 타번 레스토랑', 'Tavern-style restaurant known for traditional Armenian home cooking (khorovats, ghapama) and live music', { reviewCount: 630, image: '/places/yerevan-fine_dining-3.jpg' }),
+  place('yerevan-fine_dining-4', 'yerevan', 'fine_dining', 'Sherep', 5.0, '1 Amiryan Street, Yerevan', '공화국 광장 인근의 오픈 키친 레스토랑, 코카서스·인터내셔널 요리', 'Open-kitchen restaurant near Republic Square serving Caucasian and international cuisine', { reviewCount: 1717, image: '/places/yerevan-fine_dining-4.jpg' }),
   place('yerevan-fine_dining-5', 'yerevan', 'fine_dining', 'Ararat Tavern', 5.0, '15 Sayat-Nova Avenue, Yerevan', '전통 아르메니아 요리를 선보이는 인기 타번 레스토랑', 'Popular tavern restaurant serving traditional Armenian cuisine', { reviewCount: 2662 }),
 
   place('yerevan-bakery-1', 'yerevan', 'bakery', 'Bakery Yerevan', 4.5, 'Tumanyan St 18, Yerevan, Armenia', '예레반 중심가의 인기 베이커리·파티세리', 'Popular bakery and patisserie in central Yerevan'),

@@ -7,7 +7,7 @@ export const placesBGExtra: Place[] = [
   place('sofia-fine_dining-2', 'sofia', 'fine_dining', 'Cosmos Restaurant', 4.6, 'Lavele St 19, Sofia Center', '창의 코스 파인.', 'Creative tasting fine dining.', { reviewCount: 3993 }),
   place('sofia-fine_dining-3', 'sofia', 'fine_dining', 'Raketa Rakia Bar', 4.5, 'Yanko Sakuzov Blvd 17, Sofia', '로컬 라키아·캐주얼.', 'Local rakia and casual dining.', { reviewCount: 7685 }),
   place('sofia-fine_dining-4', 'sofia', 'fine_dining', 'Moma Bulgarian Food and Wine', 4.2, 'Solunska Street 28, Sofia Center', '불가리아 요리·와인.', 'Bulgarian cuisine and wine.', { reviewCount: 5488 }),
-  place('sofia-fine_dining-5', 'sofia', 'fine_dining', 'Manastirska Magernitsa', 4.3, 'ul. "Han Asparuh" 67, Sofia Center', '전통 불가리아 요리.', 'Traditional Bulgarian cuisine.', { reviewCount: 4739 }),
+  place('sofia-fine_dining-5', 'sofia', 'fine_dining', 'Manastirska Magernitsa', 4.3, 'ul. "Han Asparuh" 67, Sofia Center', '전통 불가리아 요리.', 'Traditional Bulgarian cuisine.', { reviewCount: 4739, image: '/places/sofia-fine_dining-5.jpg' }),
   place('sofia-bakery-1', 'sofia', 'bakery', 'Фурна НадЕжко', 4.7, 'ul. "Beethoven L. V." 12, Sofia', '바니차·사워도우 빵집.', 'Banitsa and sourdough bakery.', { reviewCount: 335 }),
   place('sofia-bakery-2', 'sofia', 'bakery', 'Sweet and Salty Bakery/Cafe', 4.3, 'Vitosha Blvd 62a, Sofia', '케이크·페이스트리.', 'Cakes and pastries.', { reviewCount: 807 }),
   place('sofia-bakery-3', 'sofia', 'bakery', 'Black Label Coffee House and Bakery', 4.8, 'ul. "Han Asparuh" 13, Sofia', '커피 로스터리 겸 베이커리.', 'Coffee roastery and bakery.', { reviewCount: 799 }),

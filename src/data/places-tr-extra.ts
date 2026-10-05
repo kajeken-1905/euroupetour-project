@@ -3,7 +3,7 @@ import type { Place } from '../types'
 
 export const placesTRExtra: Place[] = [
   // —— istanbul ——
-  place('istanbul-fine_dining-1', 'istanbul', 'fine_dining', 'Mikla', 4.7, 'Meşrutiyet Caddesi 15, 34430 Beyoğlu, Turkey', '보스포러스 전망 모던 터키.', 'Modern Turkish with Bosphorus views.', { reviewCount: 2400 }),
+  place('istanbul-fine_dining-1', 'istanbul', 'fine_dining', 'Mikla', 4.7, 'Meşrutiyet Caddesi 15, 34430 Beyoğlu, Turkey', '보스포러스 전망 모던 터키.', 'Modern Turkish with Bosphorus views.', { reviewCount: 2400, image: '/places/istanbul-fine_dining-1.jpg' }),
   place('istanbul-fine_dining-2', 'istanbul', 'fine_dining', 'Neolokal', 4.6, 'Bereketzade Medresesi Sokağı 11, 34421 Beyoğlu, Turkey', '아나톨리아 재해석 코스.', 'Reimagined Anatolian tasting.', { reviewCount: 1800 }),
   place('istanbul-fine_dining-3', 'istanbul', 'fine_dining', 'Nusr-Et', 4.4, 'Terziler Sokağı, 34126 Istanbul, Turkey', '스테이크·캐주얼 파인.', 'Steak and casual fine.', { reviewCount: 6200 }),
   place('istanbul-fine_dining-4', 'istanbul', 'fine_dining', 'Ciya Sofrası', 4.5, 'Güneşlibahçe Sokağı 43, 34710 Kadıköy, Turkey', '지역 가정식 클래식.', 'Regional home-style classic.', { reviewCount: 4800 }),
@@ -13,13 +13,13 @@ export const placesTRExtra: Place[] = [
   place('istanbul-bakery-3', 'istanbul', 'bakery', 'Baylan Pastanesi', 4.4, 'Muvakkıthane Caddesi 19, 34710 Kadıköy, Turkey', '클래식 파티스리.', 'Classic pastry shop.', { reviewCount: 3600 }),
   place('istanbul-bakery-4', 'istanbul', 'bakery', 'Hafız Mustafa 1864', 4.7, 'Hoca Paşa, Muradiye Cd. No:51, 34080 Fatih/İstanbul, Turkey', '1864년부터 이어온 전통 제과점, 바클라바·로쿰 전문.', 'Historic pastry shop since 1864, known for baklava and Turkish delight.', { reviewCount: 48524 }),
   place('istanbul-cafe-1', 'istanbul', 'cafe', 'Kronotrop', 4.5, 'Aydın Sokağı, 34340 Beşiktaş, Turkey', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2100 }),
-  place('istanbul-cafe-2', 'istanbul', 'cafe', 'Mandabatmaz', 4.4, 'Olivya Geçidi Sokağı 1a, 34430 Beyoğlu, Turkey', '터키식 커피 클래식.', 'Classic Turkish coffee.', { reviewCount: 4200 }),
+  place('istanbul-cafe-2', 'istanbul', 'cafe', 'Mandabatmaz', 4.4, 'Olivya Geçidi Sokağı 1a, 34430 Beyoğlu, Turkey', '터키식 커피 클래식.', 'Classic Turkish coffee.', { reviewCount: 4200, image: '/places/istanbul-cafe-2.jpg' }),
   place('istanbul-cafe-3', 'istanbul', 'cafe', 'Petra Roasting Co.', 4.5, 'Prof. Dr. Orhan Ersek Sokağı 18, 34365 Şişli, Turkey', '로스터리 카페.', 'Roastery café.', { reviewCount: 1800 }),
-  place('istanbul-cafe-4', 'istanbul', 'cafe', 'Karabatak', 4.4, 'Meclis-i Mebusan Caddesi 7, 34433 Beyoğlu, Turkey', '카라쾨이 브런치 카페.', 'Karaköy brunch café.', { reviewCount: 2400 }),
+  place('istanbul-cafe-4', 'istanbul', 'cafe', 'Karabatak', 4.4, 'Meclis-i Mebusan Caddesi 7, 34433 Beyoğlu, Turkey', '카라쾨이 브런치 카페.', 'Karaköy brunch café.', { reviewCount: 2400, image: '/places/istanbul-cafe-4.jpg' }),
 
   // —— ankara ——
   place('ankara-fine_dining-1', 'ankara', 'fine_dining', 'La Gioia', 4.5, 'Arjantin Caddesi, Attar Sk. No:6, Gaziosmanpaşa, 06700 Ankara, Turkey', '가지오스만파샤에 위치한 고급 이탈리안 유러피언 레스토랑', 'Upscale Italian and European restaurant in the Gaziosmanpaşa district'),
-  place('ankara-fine_dining-2', 'ankara', 'fine_dining', 'Trilye', 4.5, 'Kavaklıdere, Hafta Sk. No:11, 06700 Çankaya/Ankara', '앙카라 최고의 해산물 파인다이닝으로 꼽히는 레스토랑, 안뜰 정원이 유명.', "Widely regarded as Ankara's best seafood fine-dining restaurant, known for its courtyard garden.", { reviewCount: 3100 }),
+  place('ankara-fine_dining-2', 'ankara', 'fine_dining', 'Trilye', 4.5, 'Kavaklıdere, Hafta Sk. No:11, 06700 Çankaya/Ankara', '앙카라 최고의 해산물 파인다이닝으로 꼽히는 레스토랑, 안뜰 정원이 유명.', "Widely regarded as Ankara's best seafood fine-dining restaurant, known for its courtyard garden.", { reviewCount: 3100, image: '/places/ankara-fine_dining-2.jpg' }),
   place('ankara-fine_dining-3', 'ankara', 'fine_dining', 'Çengelhan Brasserie', 4.4, 'Çengelhan Rahmi M. Koç Müzesi, Sutepe, 06250 Altındağ/Ankara', '1523년 캐러밴서라이를 개조한 앙카라 성채의 브라스리, 자동차·복엽기 전시 사이에서 식사.', 'Brasserie in a 1523 caravanserai by the Ankara Citadel, dining among displays of vintage cars and biplanes.', { reviewCount: 2400 }),
   place('ankara-bakery-1', 'ankara', 'bakery', 'Hatun Pastanesi', 4.5, 'Nene Hatun Cd. No:28B, Çankaya, 06690 Ankara, Turkey', '30년 넘는 전통을 이어온 앙카라의 인기 제과점, 정성스러운 터키 전통 디저트로 유명', 'Ankara bakery with over 30 years of history, known for its time-honored Turkish pastries'),
   place('ankara-bakery-2', 'ankara', 'bakery', 'Cafe Des Cafe', 4.4, 'Kavaklıdere, Tunalı Hilmi Cd. No:83/A, 06680 Çankaya/Ankara', '프로피테롤과 디저트로 유명한 투날르 힐미의 카페 겸 파티스리.', 'Tunalı Hilmi café-patisserie known for its profiteroles and desserts.'),
@@ -59,7 +59,7 @@ export const placesTRExtra: Place[] = [
   place('bursa-fine_dining-3', 'bursa', 'fine_dining', 'Yüce Hünkar', 4.3, 'Kirişçi, 1. Murat Cd. No:5, 16050 Osmangazi/Bursa', '50년 넘게 부르사식 되네르 케밥을 선보여온 레스토랑.', 'Restaurant serving Bursa-style döner kebab for over 50 years.', { reviewCount: 3900 }),
   place('bursa-bakery-1', 'bursa', 'bakery', 'Tarihi İnanç Fırını', 4.6, 'Muradiye, 2. Murat Cd. No:4, 16050 Osmangazi/Bursa, Turkey', '수십 년간 전통 화덕으로 타히닐리 피데를 구워온 부르사의 역사적인 제과점', 'Historic Bursa bakery baking tahinli pide in traditional wood-fired ovens for decades'),
   place('bursa-bakery-2', 'bursa', 'bakery', 'Kafkas Kestane Şekeri', 4.5, 'Kavaklı, Namazgah Cd., 16010 Osmangazi/Bursa', '부르사 명물 밤 설탕절임(케스타네 셰케리)의 대표 상점.', "The best-known shop for Bursa's signature candied chestnuts (kestane şekeri).", { reviewCount: 700 }),
-  place('bursa-cafe-1', 'bursa', 'cafe', 'Mahfel', 4.4, 'Kurtoğlu, Atatürk Cd. No:1, 16360 Yıldırım/Bursa, Turkey', '괵데레 강변, 이르간드 다리 인근의 100년 넘은 역사적인 부르사의 카페', 'Historic Bursa cafe over a century old, by the Gökdere river near the Irgandi Bridge'),
+  place('bursa-cafe-1', 'bursa', 'cafe', 'Mahfel', 4.4, 'Kurtoğlu, Atatürk Cd. No:1, 16360 Yıldırım/Bursa, Turkey', '괵데레 강변, 이르간드 다리 인근의 100년 넘은 역사적인 부르사의 카페', 'Historic Bursa cafe over a century old, by the Gökdere river near the Irgandi Bridge', { image: '/places/bursa-cafe-1.jpg' }),
 
   // —— trabzon ——
   place('trabzon-fine_dining-1', 'trabzon', 'fine_dining', 'Cephanelik Restaurant & Cafe', 4.5, 'Boztepe Mahallesi, Cephanelik Mevkii No:89, Ortahisar, 61080 Trabzon, Turkey', '보즈테페 언덕에서 트라브존 전경을 내려다보며 즐기는 파노라마 뷰 레스토랑', 'Restaurant on Boztepe hill offering panoramic views over Trabzon along with exquisite cuisine'),

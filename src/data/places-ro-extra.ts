@@ -6,15 +6,15 @@ export const placesROExtra: Place[] = [
   place('bucharest-fine_dining-1', 'bucharest', 'fine_dining', 'The Artist', 4.6, 'Calea Victoriei 147, Sector 1, 010072 Bucharest, Romania', '미슐랭 모던 루마니아.', 'Michelin modern Romanian.', { reviewCount: 1200 }),
   place('bucharest-fine_dining-2', 'bucharest', 'fine_dining', 'Kaiamo', 4.5, 'Strada Ermil Pangratti 30A, 011884 Bucharest, Romania', '시즌 창의 코스.', 'Seasonal creative tasting.', { reviewCount: 900 }),
   place('bucharest-fine_dining-3', 'bucharest', 'fine_dining', 'Casa di David', 4.4, 'Șoseaua Nordului 1D, 014101 Bucharest, Romania', '클래식 파인 다이닝.', 'Classic fine dining.', { reviewCount: 1600 }),
-  place('bucharest-fine_dining-4', 'bucharest', 'fine_dining', 'Caru\' cu Bere', 4.4, 'Bucharest', '역사적 맥주홀 다이닝.', 'Historic beer-hall dining.', { reviewCount: 8600 }),
+  place('bucharest-fine_dining-4', 'bucharest', 'fine_dining', 'Caru\' cu Bere', 4.4, 'Bucharest', '역사적 맥주홀 다이닝.', 'Historic beer-hall dining.', { reviewCount: 8600, image: '/places/bucharest-fine_dining-4.jpg' }),
   place('bucharest-fine_dining-5', 'bucharest', 'fine_dining', 'Lacrimi și Sfinți', 4.5, 'Strada Șepcari 16, 030116 Bucharest, Romania', '전통 재해석.', 'Reimagined tradition.', { reviewCount: 2100 }),
-  place('bucharest-bakery-1', 'bucharest', 'bakery', 'French Revolution', 4.5, 'Splaiul Unirii 165, 030131 Bucharest, Romania', '사워도우·페이스트리.', 'Sourdough and pastries.', { reviewCount: 1800 }),
+  place('bucharest-bakery-1', 'bucharest', 'bakery', 'French Revolution', 4.5, 'Splaiul Unirii 165, 030131 Bucharest, Romania', '사워도우·페이스트리.', 'Sourdough and pastries.', { reviewCount: 1800, image: '/places/bucharest-bakery-1.jpg' }),
   place('bucharest-bakery-2', 'bucharest', 'bakery', 'Grace Bakery', 4.4, 'Bucharest', '로컬 베이커리.', 'Local bakery.', { reviewCount: 1200 }),
   place('bucharest-bakery-3', 'bucharest', 'bakery', 'Grain Trip Bakery', 4.6, 'Strada Nerva Traian 16, Bucharest', '장인 사워도우 베이커리.', 'Artisan sourdough bakery.', { reviewCount: 1447 }),
   place('bucharest-bakery-4', 'bucharest', 'bakery', 'Piața9 Victoriei', 4.6, 'Calea Victoriei 145, Bucharest', '베이커리 겸 파티스리.', 'Bakery and pastry shop.', { reviewCount: 1128 }),
   place('bucharest-cafe-1', 'bucharest', 'cafe', 'Origo Coffee', 4.6, 'Strada Lipscani 9, 050071 Bucharest, Romania', '스페셜티 로스터리.', 'Specialty roastery.', { reviewCount: 2100 }),
   place('bucharest-cafe-2', 'bucharest', 'cafe', 'Steam Coffee', 4.5, 'Strada Visarion 2, 010421 Bucharest, Romania', '스페셜티 커피.', 'Specialty coffee.', { reviewCount: 1400 }),
-  place('bucharest-cafe-3', 'bucharest', 'cafe', 'Cafeneaua Veche', 4.3, 'Strada Covaci, 030096 Bucharest, Romania', '구시가 클래식 카페.', 'Old-town classic café.', { reviewCount: 2800 }),
+  place('bucharest-cafe-3', 'bucharest', 'cafe', 'Cafeneaua Veche', 4.3, 'Strada Covaci, 030096 Bucharest, Romania', '구시가 클래식 카페.', 'Old-town classic café.', { reviewCount: 2800, image: '/places/bucharest-cafe-3.jpg' }),
   place('bucharest-cafe-4', 'bucharest', 'cafe', 'Grand Café Van Gogh', 4.2, 'Strada Smârdan 9, Bucharest', '구시가 브런치·조식 카페.', 'Old-town brunch and breakfast café.', { reviewCount: 12991 }),
 
   // —— brasov ——
