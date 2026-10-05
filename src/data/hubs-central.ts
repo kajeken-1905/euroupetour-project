@@ -580,7 +580,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Stavanger Sola (SVG)', '스타방에르 공항 (SVG)']],
     rail: [['Stavanger', '스타방에르역']],
     bus: [['Stavanger Byterminalen', '스타방에르 뷔터미널렌']],
-    port: [['Fiskepiren', '피스케피렌 터미널', '뤼세피오르 등 근교 배|boats to Lysefjord and nearby islands']],
+    port: [
+      ['Strandkaien', '스트란카이엔 부두', '뤼세피오르 유람선|Lysefjord cruises'],
+      ['Fiskepiren', '피스케피렌 터미널', '근교 섬·피오르 마을행 쾌속선|express boats to nearby islands and fjord villages'],
+    ],
   },
   trondheim: {
     air: [['Trondheim Værnes (TRD)', '트론헤임 공항 (TRD)']],
@@ -670,7 +673,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [['Autobusové nádraží Český Krumlov', '체스키 크룸로프 버스터미널']],
   },
   'karlovy-vary': {
-    air: [PRG(), ['Karlovy Vary (KLV)', '카를로비 바리 공항 (KLV)', '운항편 적음|few flights']],
+    air: [PRG(), ['Karlovy Vary (KLV)', '카를로비 바리 공항 (KLV)', '정기편 없음 · 전세기 위주|no scheduled flights · charters only']],
     rail: [
       ['Karlovy Vary', '카를로비 바리역 (상부역)'],
       ['Karlovy Vary dolní nádraží', '카를로비 바리 하부역'],
@@ -695,7 +698,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [['Autobusová stanica Košice', '코시체 버스터미널']],
   },
   poprad: {
-    air: [['Poprad-Tatry (TAT)', '포프라트 타트리 공항 (TAT)', '운항편 적음|few flights'], KRK('폴란드 크라쿠프|Kraków, Poland')],
+    air: [['Poprad-Tatry (TAT)', '포프라트 타트리 공항 (TAT)', '런던행 주 2회 위주|mainly London twice a week'], KRK('폴란드 크라쿠프|Kraków, Poland')],
     rail: [['Poprad-Tatry', '포프라트 타트리역']],
     bus: [['Autobusová stanica Poprad', '포프라트 버스터미널']],
   },

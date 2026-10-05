@@ -289,7 +289,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Liverpool John Lennon (LPL)', '리버풀 존 레넌 공항 (LPL)']],
     rail: [['Liverpool Lime Street', '리버풀 라임 스트리트역']],
     bus: [['Liverpool ONE Bus Station', '리버풀 원 버스 스테이션']],
-    port: [['Pier Head Ferry Terminal', '피어 헤드 페리터미널', '머지 페리·맨섬행|Mersey Ferry and Isle of Man']],
+    port: [
+      ['Pier Head Ferry Terminal', '피어 헤드 페리터미널', '머지강 페리|Mersey Ferry'],
+      ['Isle of Man Ferry Terminal', '맨섬 페리터미널', '맨섬 더글러스행 · 2024년 새 터미널|ferries to Douglas, Isle of Man · new terminal since 2024'],
+    ],
   },
   york: {
     air: [

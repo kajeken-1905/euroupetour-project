@@ -144,7 +144,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
     port: [['Vanasadam (Old City Harbour)', '탈린 구시가지 항구', '헬싱키·스톡홀름행 페리|ferries to Helsinki and Stockholm']],
   },
   tartu: {
-    air: [['Tartu (TAY)', '타르투 공항 (TAY)', '운항편 적음|few flights'], TLL()],
+    air: [['Tartu (TAY)', '타르투 공항 (TAY)', '헬싱키행만 운항|Helsinki flights only'], TLL()],
     rail: [['Tartu', '타르투역']],
     bus: [['Tartu bussijaam', '타르투 버스터미널']],
   },
@@ -199,7 +199,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   dubrovnik: {
     air: [['Dubrovnik Ruđer Bošković (DBV)', '두브로브니크 공항 (DBV)']],
     bus: [['Autobusni kolodvor Dubrovnik', '두브로브니크 버스터미널', '그루즈 항구 옆 · 철도 없음|by Gruž port · no railway']],
-    port: [['Luka Gruž', '그루즈 항구', '섬·이탈리아 바리행 페리|ferries to the islands and Bari, Italy']],
+    port: [['Luka Gruž', '그루즈 항구', '섬행 페리 · 이탈리아 바리행은 봄~가을|ferries to the islands · Bari, Italy from spring to autumn']],
   },
   split: {
     air: [['Split (SPU)', '스플리트 공항 (SPU)']],
@@ -210,7 +210,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   zadar: {
     air: [['Zadar (ZAD)', '자다르 공항 (ZAD)']],
     bus: [['Autobusni kolodvor Zadar', '자다르 버스터미널']],
-    port: [['Luka Gaženica', '가제니차 항구', '섬·이탈리아행 카페리|car ferries to the islands and Italy']],
+    port: [['Luka Gaženica', '가제니차 항구', '섬행 카페리 · 이탈리아 안코나행은 여름철|car ferries to the islands · Ancona, Italy in summer']],
   },
   rovinj: {
     air: [['Pula (PUY)', '풀라 공항 (PUY)', '풀라|Pula']],
@@ -398,7 +398,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Central Bus Station Sofia', '소피아 중앙 버스터미널', '중앙역 옆|next to the rail station']],
   },
   plovdiv: {
-    air: [['Plovdiv (PDV)', '플로브디프 공항 (PDV)', '운항편 적음|few flights'], SOF()],
+    air: [['Plovdiv (PDV)', '플로브디프 공항 (PDV)', '저비용 항공 노선 소수|a handful of low-cost routes'], SOF()],
     rail: [['Plovdiv Central Station', '플로브디프 중앙역']],
     bus: [
       ['Avtogara Yug', '유그(남부) 버스터미널'],
