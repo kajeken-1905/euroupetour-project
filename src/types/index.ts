@@ -45,6 +45,21 @@ export interface CityTransit {
   tip?: { ko: string; en: string }
 }
 
+/** Airport / railway station / coach station serving a city. */
+export interface TransitHub {
+  /** Official local name (used for the English UI and the map search). */
+  name: string
+  ko: string
+  /** Where it is when not in the city itself, or a short remark. */
+  note?: { ko: string; en: string }
+}
+
+export interface CityHubs {
+  air?: TransitHub[]
+  rail?: TransitHub[]
+  bus?: TransitHub[]
+}
+
 export interface Country {
   id: string
   name: { ko: string; en: string }

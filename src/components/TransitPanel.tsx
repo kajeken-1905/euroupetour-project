@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
-import type { CountryTransit, TransitApp, TransitModeId } from '../types'
+import type { CityHubs, CountryTransit, TransitApp, TransitHub, TransitModeId } from '../types'
 import { TRANSIT_MODE_ORDER } from '../data/transit'
 import { assetUrl } from '../utils/assetUrl'
 
@@ -117,13 +117,66 @@ export function TransitCountryPanel({ transit }: { transit: CountryTransit }) {
   )
 }
 
+const HUB_ROWS = [
+  ['air', '✈️', 'transitHubAir'],
+  ['rail', '🚆', 'transitHubRail'],
+  ['bus', '🚌', 'transitHubBus'],
+] as const
+
+const STATION_WORD = /gare|station|bahnhof|hbf|stazione|estaci|nádraží|stanica|stacija|stotis|jaam|kolodvor|garı|vağzal|centrale?|central|rautatieasema/i
+
+function hubMapsUrl(hub: TransitHub, kind: 'air' | 'rail' | 'bus', cityName: string): string {
+  // A note means the hub is outside the city (or needs no city hint), so don't pin it to the city name.
+  const where = hub.note ? '' : ` ${cityName}`
+  const suffix = kind === 'rail' && !STATION_WORD.test(hub.name) ? ' railway station' : ''
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hub.name + suffix + where)}`
+}
+
+function TransitHubList({ hubs, cityName, lang }: { hubs: CityHubs; cityName: string; lang: 'ko' | 'en' }) {
+  const rows = HUB_ROWS.filter(([key]) => (hubs[key]?.length ?? 0) > 0)
+  if (rows.length === 0) return null
+
+  return (
+    <div className="transit-block">
+      <h3>{t('transitHubs', lang)}</h3>
+      <dl className="transit-hubs">
+        {rows.map(([key, icon, label]) => (
+          <div key={key}>
+            <dt>
+              <span aria-hidden>{icon}</span> {t(label, lang)}
+            </dt>
+            <dd>
+              {hubs[key]!.map((hub) => (
+                <a
+                  key={hub.name}
+                  className="transit-hub"
+                  href={hubMapsUrl(hub, key, cityName)}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {lang === 'ko' ? hub.ko : hub.name}
+                  {hub.note ? <span className="transit-hub-note">{hub.note[lang]}</span> : null}
+                </a>
+              ))}
+            </dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  )
+}
+
 export function TransitCityPanel({
   modes,
   airportToCity,
   howTo,
   apps,
   tip,
+  hubs,
+  cityName,
 }: {
+  hubs?: CityHubs
+  cityName: string
   modes: TransitModeId[]
   airportToCity?: { ko: string; en: string }
   howTo: { ko: string; en: string }
@@ -147,6 +200,7 @@ export function TransitCityPanel({
             </span>
           ))}
         </div>
+        {hubs ? <TransitHubList hubs={hubs} cityName={cityName} lang={lang} /> : null}
         {airportToCity ? (
           <div className="transit-block">
             <h3>{t('transitAirport', lang)}</h3>
