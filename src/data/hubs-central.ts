@@ -645,6 +645,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [SZG()],
     rail: [['Hallstatt', '할슈타트역', '호수 건너편 · 배로 연결|across the lake · boat link']],
     bus: [['Hallstatt Lahn', '할슈타트 란 버스 정류장']],
+    port: [['Hallstatt Markt', '할슈타트 마르크트 선착장', '기차역 연결 배·호수 유람선|boat to the rail station and lake cruises']],
   },
 
   // —— cz ——

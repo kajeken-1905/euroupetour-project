@@ -244,6 +244,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Bled Jezero', '블레드 예제로역', '호숫가 지선|lakeside branch line'],
     ],
     bus: [['Avtobusna postaja Bled', '블레드 버스터미널']],
+    port: [['Pletna boats (Mlino)', '플레트나 나룻배 선착장 (믈리노)', '블레드섬행 전통 나룻배|traditional boats to Bled Island']],
   },
   piran: {
     air: [
@@ -341,6 +342,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   ohrid: {
     air: [['Ohrid St. Paul the Apostle (OHD)', '오흐리드 공항 (OHD)'], SKP()],
     bus: [['Ohrid Bus Station', '오흐리드 버스터미널', '철도 없음|no railway']],
+    port: [['Ohrid Port', '오흐리드 항구', '성 나움행 호수 배 · 여름철|lake boats to Sveti Naum · summer']],
   },
   bitola: {
     air: [['Ohrid St. Paul the Apostle (OHD)', '오흐리드 공항 (OHD)', '오흐리드|Ohrid'], SKP()],

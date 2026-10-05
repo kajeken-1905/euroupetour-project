@@ -116,6 +116,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [GVA(), ['Lyon–Saint-Exupéry (LYS)', '리옹 생텍쥐페리 공항 (LYS)', '리옹|Lyon']],
     rail: [["Gare d'Annecy", '안시역']],
     bus: [["Gare routière d'Annecy", '안시 버스터미널']],
+    port: [["Embarcadère d'Annecy", '안시 선착장', '안시호 유람선|Lake Annecy boats']],
   },
   chamonix: {
     air: [GVA()],
@@ -301,6 +302,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Oxenholme Lake District', '옥슨홈 레이크 디스트릭트역', '본선 환승역|main-line interchange'],
       ['Penrith North Lakes', '펜리스역'],
     ],
+    port: [
+      ['Bowness Pier', '보네스 선착장', '윈더미어호 유람선|Windermere lake cruises'],
+      ['Ambleside Pier (Waterhead)', '앰블사이드 선착장', '윈더미어호 유람선|Windermere lake cruises'],
+    ],
   },
   edinburgh: {
     air: [['Edinburgh (EDI)', '에든버러 공항 (EDI)']],
@@ -449,11 +454,13 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)']],
     rail: [['Zürich HB', '취리히 중앙역']],
     bus: [['Busbahnhof Zürich Sihlquai', '취리히 질크바이 버스터미널']],
+    port: [['Zürich Bürkliplatz', '취리히 뷔르클리플라츠 선착장', '취리히호 유람선|Lake Zurich boats']],
   },
   geneva: {
     air: [['Genève Aéroport (GVA)', '제네바 공항 (GVA)']],
     rail: [['Genève-Cornavin', '제네바 코르나뱅역']],
     bus: [['Gare routière de Genève', '제네바 버스터미널']],
+    port: [['Genève Mont-Blanc (CGN)', '제네바 몽블랑 선착장', '레만호 유람선|Lake Geneva boats']],
   },
   bern: {
     air: [ZRH(), ['Bern (BRN)', '베른 공항 (BRN)', '운항편 적음|few flights']],
@@ -462,12 +469,17 @@ export const hubsWest: Record<string, RawCityHubs> = {
   lucerne: {
     air: [ZRH()],
     rail: [['Luzern', '루체른역']],
+    port: [['Luzern Bahnhofquai', '루체른 반호프케 선착장', '비츠나우·베기스·플뤼엘렌행 호수 배|lake boats to Vitznau, Weggis and Flüelen']],
   },
   interlaken: {
     air: [ZRH()],
     rail: [
       ['Interlaken Ost', '인터라켄 동역'],
       ['Interlaken West', '인터라켄 서역'],
+    ],
+    port: [
+      ['Interlaken Ost (See)', '인터라켄 동역 선착장', '브리엔츠호 유람선|Lake Brienz boats'],
+      ['Interlaken West (See)', '인터라켄 서역 선착장', '툰호 유람선|Lake Thun boats'],
     ],
   },
   basel: {
@@ -484,14 +496,17 @@ export const hubsWest: Record<string, RawCityHubs> = {
   lausanne: {
     air: [GVA('제네바|Geneva')],
     rail: [['Lausanne', '로잔역']],
+    port: [['Lausanne-Ouchy (CGN)', '로잔 우시 선착장', '프랑스 에비앙행 배|boats to Évian, France']],
   },
   lugano: {
     air: [['Milano Malpensa (MXP)', '밀라노 말펜사 공항 (MXP)', '이탈리아 밀라노|Milan, Italy'], ZRH()],
     rail: [['Lugano', '루가노역']],
+    port: [['Lugano Centrale (Navigazione Lago di Lugano)', '루가노 첸트랄레 선착장', '간드리아·모르코테행 호수 배|lake boats to Gandria and Morcote']],
   },
   montreux: {
     air: [GVA('제네바|Geneva')],
     rail: [['Montreux', '몽트뢰역']],
+    port: [['Montreux débarcadère (CGN)', '몽트뢰 선착장', '시옹성·브베·로잔행 배|boats to Chillon Castle, Vevey and Lausanne']],
   },
   grindelwald: {
     air: [ZRH()],
@@ -547,6 +562,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Como San Giovanni', '코모 산조반니역'],
       ['Como Lago', '코모 라고역'],
     ],
+    port: [['Como Piazza Cavour (Navigazione Lago di Como)', '코모 피아차 카보우르 선착장', '벨라조·바렌나행 호수 배|lake boats to Bellagio and Varenna']],
   },
   bergamo: {
     air: [['Milano Bergamo (BGY)', '베르가모 공항 (BGY)']],
@@ -556,10 +572,12 @@ export const hubsWest: Record<string, RawCityHubs> = {
   stresa: {
     air: [MXP()],
     rail: [['Stresa', '스트레사역']],
+    port: [['Imbarcadero di Stresa', '스트레사 선착장', '보로메오 제도행 배|boats to the Borromean Islands']],
   },
   sirmione: {
     air: [VRN()],
     rail: [['Desenzano del Garda–Sirmione', '데센차노 델 가르다-시르미오네역', '데센차노 · 시르미오네엔 역 없음|Desenzano · no station in Sirmione']],
+    port: [['Imbarcadero di Sirmione', '시르미오네 선착장', '데센차노 등 가르다호 마을행 배|lake boats to Desenzano and other Garda towns']],
   },
   mantua: {
     air: [VRN()],
