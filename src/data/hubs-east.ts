@@ -8,7 +8,7 @@ const TLL = (note = '탈린|Tallinn'): Raw => ['Tallinn Lennart Meri (TLL)', '�
 const RIX = (note = '리가|Riga'): Raw => ['Riga (RIX)', '리가 공항 (RIX)', note]
 const ZAG = (note = '자그레브|Zagreb'): Raw => ['Zagreb Franjo Tuđman (ZAG)', '자그레브 공항 (ZAG)', note]
 const SPU = (note = '스플리트|Split'): Raw => ['Split (SPU)', '스플리트 공항 (SPU)', note]
-const DBV = (note = '크로아티아 두브로브니크|Dubrovnik, Croatia'): Raw => ['Dubrovnik Čilipi (DBV)', '두브로브니크 공항 (DBV)', note]
+const DBV = (note = '크로아티아 두브로브니크|Dubrovnik, Croatia'): Raw => ['Dubrovnik Ruđer Bošković (DBV)', '두브로브니크 공항 (DBV)', note]
 const LJU = (note = '류블랴나|Ljubljana'): Raw => ['Ljubljana Jože Pučnik (LJU)', '류블랴나 공항 (LJU)', note]
 const SJJ = (note = '사라예보|Sarajevo'): Raw => ['Sarajevo (SJJ)', '사라예보 공항 (SJJ)', note]
 const TIV = (note = '티바트|Tivat'): Raw => ['Tivat (TIV)', '티바트 공항 (TIV)', note]
@@ -89,6 +89,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Kalamata (KLX)', '칼라마타 공항 (KLX)', '칼라마타|Kalamata'],
       ATH(),
     ],
+    rail: [['Olympia', '올림피아역', '카타콜로–피르고스 지선|Katakolo–Pyrgos branch line']],
   },
   mykonos: {
     air: [['Mykonos (JMK)', '미코노스 공항 (JMK)']],
@@ -196,7 +197,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Autobusni kolodvor Zagreb', '자그레브 버스터미널']],
   },
   dubrovnik: {
-    air: [['Dubrovnik Čilipi (DBV)', '두브로브니크 공항 (DBV)']],
+    air: [['Dubrovnik Ruđer Bošković (DBV)', '두브로브니크 공항 (DBV)']],
     bus: [['Autobusni kolodvor Dubrovnik', '두브로브니크 버스터미널', '그루즈 항구 옆 · 철도 없음|by Gruž port · no railway']],
     port: [['Luka Gruž', '그루즈 항구', '섬·이탈리아 바리행 페리|ferries to the islands and Bari, Italy']],
   },
@@ -217,7 +218,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   },
   hvar: {
     air: [SPU('스플리트 · 페리 연결|Split · ferry link')],
-    bus: [['Autobusni kolodvor Hvar', '흐바르 버스터미널']],
+    bus: [['Autobusni kolodvor Hvar', '흐바르 버스 정류장', '스타리그라드 페리항 연결 버스|buses to the Stari Grad ferry port']],
     port: [
       ['Luka Hvar', '흐바르 타운 항구', '스플리트행 쾌속선|catamarans to Split'],
       ['Trajektna luka Stari Grad', '스타리그라드 페리항', '스플리트행 카페리|car ferry to Split'],
@@ -346,7 +347,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   },
   bitola: {
     air: [['Ohrid St. Paul the Apostle (OHD)', '오흐리드 공항 (OHD)', '오흐리드|Ohrid'], SKP()],
-    rail: [['Bitola', '비톨라역']],
+    rail: [['Bitola', '비톨라역', '스코페행 하루 1~2회|one or two trains a day to Skopje']],
     bus: [['Bitola Bus Station', '비톨라 버스터미널']],
   },
   tetovo: {
@@ -377,7 +378,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   // —— xk ——
   pristina: {
     air: [['Prishtina Adem Jashari (PRN)', '프리슈티나 공항 (PRN)']],
-    rail: [['Fushë Kosovë', '푸셔코소버역', '시 외곽 · 운행 열차 적음|outside town · few trains']],
+    rail: [['Prishtinë', '프리슈티나역', '페야행 하루 2회|two trains a day to Peja']],
     bus: [['Stacioni i Autobusëve Prishtinë', '프리슈티나 버스터미널']],
   },
   prizren: {
@@ -386,7 +387,7 @@ export const hubsEast: Record<string, RawCityHubs> = {
   },
   peja: {
     air: [PRN()],
-    rail: [['Pejë', '페야역', '운행 열차 적음|few trains']],
+    rail: [['Pejë', '페야역', '프리슈티나행 하루 2회|two trains a day to Pristina']],
     bus: [['Stacioni i Autobusëve Pejë', '페야 버스터미널']],
   },
 
@@ -552,11 +553,11 @@ export const hubsEast: Record<string, RawCityHubs> = {
   gyumri: {
     air: [['Gyumri Shirak (LWN)', '귬리 시라크 공항 (LWN)'], EVN()],
     rail: [['Gyumri', '귬리역']],
-    bus: [['Gyumri Bus Station', '귬리 버스터미널']],
+    bus: [['Gyumri Central Bus Station', '귬리 중앙 버스터미널']],
   },
   dilijan: {
     air: [EVN()],
-    bus: [['Dilijan Bus Station', '딜리잔 버스터미널']],
+    bus: [['Northern Bus Station Yerevan', '예레반 북부 버스터미널', '예레반 · 딜리잔행 미니버스 출발|Yerevan · minibuses to Dilijan leave from here']],
   },
 
   // —— az ——

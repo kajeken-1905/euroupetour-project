@@ -82,7 +82,7 @@ export const hubsWest: Record<string, RawCityHubs> = {
   'saint-malo': {
     air: [
       ['Rennes–Saint-Jacques (RNS)', '렌 생자크 공항 (RNS)', '렌|Rennes'],
-      ['Dinard–Pleurtuit–Saint-Malo (DNR)', '디나르 공항 (DNR)', '디나르 · 운항편 적음|Dinard · few flights'],
+      ['Dinard–Pleurtuit–Saint-Malo (DNR)', '디나르 공항 (DNR)', '디나르 · 여름철 위주 운항|Dinard · mainly summer flights'],
     ],
     rail: [['Gare de Saint-Malo', '생말로역']],
     port: [['Gare maritime du Naye', '나예 여객터미널', '영국·채널 제도행 페리|ferries to the UK and Channel Islands']],
@@ -647,7 +647,11 @@ export const hubsWest: Record<string, RawCityHubs> = {
     bus: [['Autostazione di Trieste', '트리에스테 버스터미널']],
   },
   bolzano: {
-    air: [VRN(), ['Innsbruck (INN)', '인스브루크 공항 (INN)', '오스트리아 인스브루크|Innsbruck, Austria']],
+    air: [
+      ['Bolzano (BZO)', '볼차노 공항 (BZO)', '운항편 적음|few flights'],
+      VRN(),
+      ['Innsbruck (INN)', '인스브루크 공항 (INN)', '오스트리아 인스브루크|Innsbruck, Austria'],
+    ],
     rail: [['Bolzano/Bozen', '볼차노역']],
     bus: [['Autostazione di Bolzano', '볼차노 버스터미널']],
   },

@@ -343,6 +343,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   // —— ad ——
   'andorra-la-vella': {
     air: [
+      ["Andorra–La Seu d'Urgell (LEU)", '안도라–라 세우 두르젤 공항 (LEU)', '스페인 라 세우 두르젤 · 마드리드·팔마행 주 2회|La Seu d’Urgell, Spain · Madrid and Palma twice a week'],
       BCN('스페인 바르셀로나|Barcelona, Spain'),
       ['Toulouse–Blagnac (TLS)', '툴루즈 블라냑 공항 (TLS)', '프랑스 툴루즈|Toulouse, France'],
     ],
@@ -355,6 +356,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   },
   ordino: {
     air: [
+      ["Andorra–La Seu d'Urgell (LEU)", '안도라–라 세우 두르젤 공항 (LEU)', '스페인 라 세우 두르젤 · 마드리드·팔마행 주 2회|La Seu d’Urgell, Spain · Madrid and Palma twice a week'],
       BCN('스페인 바르셀로나|Barcelona, Spain'),
       ['Toulouse–Blagnac (TLS)', '툴루즈 블라냑 공항 (TLS)', '프랑스 툴루즈|Toulouse, France'],
     ],
@@ -586,7 +588,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   },
   alesund: {
     air: [['Ålesund Vigra (AES)', '올레순 공항 (AES)']],
-    bus: [['Ålesund rutebilstasjon', '올레순 버스터미널', '철도 없음|no railway']],
+    bus: [['Keiser Wilhelms gate', '카이세르 빌헬름스 거리 버스 정류장', '시내 중심 정류장 · 철도 없음|city-centre stops · no railway']],
     port: [['Skansekaia', '스칸세카이아 부두', '후르티그루텐 연안 여객선|Hurtigruten coastal voyage']],
   },
   flam: {
@@ -760,7 +762,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Gdańsk Lech Wałęsa (GDN)', '그단스크 공항 (GDN)']],
     rail: [['Gdańsk Główny', '그단스크 중앙역']],
     bus: [['Dworzec Autobusowy Gdańsk', '그단스크 버스터미널']],
-    port: [['Terminal Promowy Gdańsk', '그단스크 페리터미널', '스웨덴행 페리|ferry to Sweden']],
+    port: [['Terminal Promowy Westerplatte', '베스테르플라테 페리터미널', '스웨덴행 페리|ferry to Sweden']],
   },
   wroclaw: {
     air: [['Wrocław Copernicus (WRO)', '브로츠와프 공항 (WRO)']],
