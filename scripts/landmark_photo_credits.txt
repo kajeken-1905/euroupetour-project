@@ -523,6 +523,17 @@ places/santorini-fine_dining-3.jpg | https://www.flickr.com/photos/79792862@N05/
 places/heraklion-fine_dining-2.jpg | https://www.flickr.com/photos/50141284@N04/24573110292 | BY-SA 2.0 | Andy Montgomery
 places/chania-fine_dining-1.jpg | https://www.flickr.com/photos/27087959@N00/459580068 | BY 2.0 | ccarlstead
 
+# Baltics (Estonia, Latvia, Lithuania) place photos
+places/tallinn-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:NOA_restaurant_in_Meriv%C3%A4lja.JPG | Public domain | Dmitry G
+places/tallinn-fine_dining-5.jpg | https://www.flickr.com/photos/54549113@N00/53122293650 | BY-SA 2.0 | Haydn Blackey
+places/tallinn-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/47531289941 | BY 2.0 | Bex.Walton
+places/tallinn-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Maiasmokk_Feinschmecker_2018.jpg | CC BY-SA 4.0 | Olaf Meister
+places/riga-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Grey_peas_at_restaurant_Milda_in_Riga.jpg | CC BY-SA 4.0 | JIP
+places/riga-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurante_medieval_Rozengrals,_Riga,_Letonia,_2012-08-07,_DD_01.JPG | CC BY-SA 3.0 | Diego Delso
+places/jurmala-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Majorenhoff_Restaurant_in_Jurmala.jpg | CC BY-SA 4.0 | Андрей Романенко
+places/vilnius-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:D%C5%BEiaugsmas,_4_July_2025,_white_and_green_aspargus.jpg | CC0 | Bdx
+places/vilnius-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Pilies_kepyklele,_Vilnius_LT.jpg | CC0 | Stefano Vigorelli
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

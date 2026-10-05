@@ -4,8 +4,8 @@ import type { Place } from '../types'
 export const placesLTExtra: Place[] = [
   // —— vilnius ——
   place('vilnius-fine_dining-1', 'vilnius', 'fine_dining', 'Nineteen18', 4.8, 'Dominikonų g. 11, 01131 Vilnius', '미슐랭 1스타, 리투아니아 식재료로 만든 10코스 테이스팅 메뉴.', 'One-Michelin-star restaurant offering a 10-course tasting menu built on Lithuanian ingredients.', { reviewCount: 556 }),
-  place('vilnius-fine_dining-2', 'vilnius', 'fine_dining', 'Džiaugsmas', 4.6, 'Vilniaus g. 28, 01402 Vilnius', '2017년 개업한 미슐랭 1스타 레스토랑, 구시가 중심의 오픈 키친.', 'One-Michelin-star restaurant opened in 2017, with an open kitchen in the heart of the Old Town.', { reviewCount: 1232 }),
-  place('vilnius-bakery-1', 'vilnius', 'bakery', 'Pilies Kepyklėlė', 4.6, 'Pilies g. 19, 01123 Vilnius', '전통 리투아니아 요리와 현대적 카페 메뉴를 함께 선보이는 베이커리 카페.', 'Bakery café blending traditional Lithuanian dishes with modern café fare.'),
+  place('vilnius-fine_dining-2', 'vilnius', 'fine_dining', 'Džiaugsmas', 4.6, 'Vilniaus g. 28, 01402 Vilnius', '2017년 개업한 미슐랭 1스타 레스토랑, 구시가 중심의 오픈 키친.', 'One-Michelin-star restaurant opened in 2017, with an open kitchen in the heart of the Old Town.', { reviewCount: 1232, image: '/places/vilnius-fine_dining-2.jpg' }),
+  place('vilnius-bakery-1', 'vilnius', 'bakery', 'Pilies Kepyklėlė', 4.6, 'Pilies g. 19, 01123 Vilnius', '전통 리투아니아 요리와 현대적 카페 메뉴를 함께 선보이는 베이커리 카페.', 'Bakery café blending traditional Lithuanian dishes with modern café fare.', { image: '/places/vilnius-bakery-1.jpg' }),
   place('vilnius-bakery-2', 'vilnius', 'bakery', 'Boulangerie Vilnius', 4.6, 'Gėlių g. 3, Vilnius', '정통 프랑스식 제과점, 크루아상과 바게트로 인기.', 'Authentic French bakery popular for its croissants and baguettes.', { reviewCount: 821 }),
   place('vilnius-bakery-3', 'vilnius', 'bakery', 'Kmyninė kepykla (Duona)', 4.8, 'Liejyklos g. 6, Vilnius', '높은 평점의 구시가 인근 베이커리.', 'Highly rated bakery near the Old Town.', { reviewCount: 439 }),
   place('vilnius-bakery-4', 'vilnius', 'bakery', 'Pinavija Café & Bakery', 4.5, 'Vilniaus g. 21, Vilnius', '프랑스식 페이스트리를 선보이는 인기 베이커리 카페.', 'Popular bakery café serving French-style pastries.', { reviewCount: 1763 }),

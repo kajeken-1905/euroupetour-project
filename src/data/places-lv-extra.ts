@@ -3,8 +3,8 @@ import type { Place } from '../types'
 
 export const placesLVExtra: Place[] = [
   // —— riga ——
-  place('riga-fine_dining-1', 'riga', 'fine_dining', 'Milda', 4.4, 'Kungu iela 8, LV-1050 Riga', '라트비아 펠메니·회색 완두콩 요리 등 전통 요리를 선보이는 미쉐린 빕 구르망 레스토랑.', 'Bib Gourmand restaurant serving Latvian classics like pelmeni and grey peas with bacon.'),
-  place('riga-fine_dining-2', 'riga', 'fine_dining', 'Rozengrāls', 4.5, 'Rozena iela 1, LV-1050 Riga', '1293년부터 이어져 온 구시가지 지하 와인 저장고에서 즐기는 중세풍 라트비아 요리.', 'Medieval-themed Latvian restaurant in a historic Old Town wine cellar dating back to 1293.'),
+  place('riga-fine_dining-1', 'riga', 'fine_dining', 'Milda', 4.4, 'Kungu iela 8, LV-1050 Riga', '라트비아 펠메니·회색 완두콩 요리 등 전통 요리를 선보이는 미쉐린 빕 구르망 레스토랑.', 'Bib Gourmand restaurant serving Latvian classics like pelmeni and grey peas with bacon.', { image: '/places/riga-fine_dining-1.jpg' }),
+  place('riga-fine_dining-2', 'riga', 'fine_dining', 'Rozengrāls', 4.5, 'Rozena iela 1, LV-1050 Riga', '1293년부터 이어져 온 구시가지 지하 와인 저장고에서 즐기는 중세풍 라트비아 요리.', 'Medieval-themed Latvian restaurant in a historic Old Town wine cellar dating back to 1293.', { image: '/places/riga-fine_dining-2.jpg' }),
   place('riga-fine_dining-3', 'riga', 'fine_dining', 'Zviedru Vārti', 4.5, 'Torņa iela 4-1a, LV-1050 Riga', '스웨덴 문 옆에 위치한 가족 운영 레스토랑, 정통 라트비아 가정식 요리 전문.', 'Family-run restaurant beside the Swedish Gate specializing in authentic Latvian home cooking.'),
   place('riga-fine_dining-4', 'riga', 'fine_dining', 'Salve', 4.2, 'Rātslaukums 5, LV-1050 Riga', '구시가지 시청 광장의 역사적 건물에서 전통 라트비아 요리를 현대적으로 재해석.', 'Modern take on traditional Latvian cuisine in a historic building on Riga\'s Town Hall Square.'),
   place('riga-fine_dining-5', 'riga', 'fine_dining', 'LIDO Alus Sēta', 4.4, 'Krāmu iela 2, LV-1050 Riga', '구시가지의 인기 셀프서비스 라트비아 전통 음식점, 훈제고기·양배추롤 등 판매.', 'Popular self-service Latvian canteen in the Old Town serving smoked meats, cabbage rolls, and more.'),
@@ -22,7 +22,7 @@ export const placesLVExtra: Place[] = [
   // —— jurmala ——
   place('jurmala-fine_dining-1', 'jurmala', 'fine_dining', '36.Line Grill Restaurant', 4.4, 'Baznīcas iela 2B, LV-2015 Jūrmala', '해변 바로 옆에 위치한 유르말라 1위 레스토랑, 시푸드·지중해 요리 전문(미쉐린 가이드 등재).', 'Jūrmala\'s top-rated beachfront restaurant specializing in seafood and Mediterranean cuisine (listed in the Michelin Guide).'),
   place('jurmala-fine_dining-2', 'jurmala', 'fine_dining', 'KinzaHouse', 4.6, 'Baznīcas iela 2/3, Jūrmala', '많은 리뷰를 받은 유르말라의 조지아 요리 레스토랑.', 'Georgian restaurant in Jūrmala with a large number of reviews.', { reviewCount: 4215 }),
-  place('jurmala-fine_dining-3', 'jurmala', 'fine_dining', 'Majorenhoff', 4.4, 'Jomas iela 42, Jūrmala', '요마스 거리의 인기 레스토랑.', 'Popular restaurant on Jomas Street.', { reviewCount: 1572 }),
+  place('jurmala-fine_dining-3', 'jurmala', 'fine_dining', 'Majorenhoff', 4.4, 'Jomas iela 42, Jūrmala', '요마스 거리의 인기 레스토랑.', 'Popular restaurant on Jomas Street.', { reviewCount: 1572, image: '/places/jurmala-fine_dining-3.jpg' }),
   place('jurmala-fine_dining-4', 'jurmala', 'fine_dining', 'HOUSE OF LIGHT', 4.5, 'Jomas iela 63, Jūrmala', '요마스 거리의 인기 레스토랑.', 'Popular restaurant on Jomas Street.', { reviewCount: 2139 }),
   place('jurmala-fine_dining-5', 'jurmala', 'fine_dining', 'Dukāts', 4.4, 'Baznīcas iela 12/14, Jūrmala', '많은 리뷰를 받은 유르말라의 비스트로.', 'Bistro in Jūrmala with a large number of reviews.', { reviewCount: 1832 }),
   place('jurmala-bakery-1', 'jurmala', 'bakery', 'Kalnakrastu Rausu fabrika', 4.5, 'Vienibas prospekts 35, Jūrmala, Latvia', '유르말라 최고의 케이크로 꼽히는 인기 베이커리', 'Jūrmala\'s top-ranked bakery, known for its excellent cakes'),
