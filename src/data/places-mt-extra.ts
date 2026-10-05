@@ -5,11 +5,11 @@ export const placesMTExtra: Place[] = [
   // —— valletta ——
   place('valletta-fine_dining-1', 'valletta', 'fine_dining', 'Under Grain', 4.6, '167 Merchants Street, Valletta VLT 1174', '로셀리 호텔에 위치한 미쉐린 1스타 레스토랑, 몬타 계절 요리 전문.', 'One-Michelin-star restaurant inside the Rosselli Hotel, specializing in seasonal Maltese cuisine.', { reviewCount: 249 }),
   place('valletta-fine_dining-2', 'valletta', 'fine_dining', 'ION Harbour by Simon Rogan', 4.6, '11 Saint Barbara Bastion, VLT 1232 Valletta, Malta', '이니알라 하버 하우스 4층의 미슐랭 2스타 레스토랑, 사이먼 로건이 이끄는 제철 몰타 식재료 요리, 그랜드 하버 전망.', 'Two-Michelin-star restaurant on the 4th floor of Iniala Harbour House, seasonal Maltese produce under Simon Rogan, overlooking the Grand Harbour.', { reviewCount: 470 }),
-  place('valletta-fine_dining-3', 'valletta', 'fine_dining', 'Noni', 4.6, '211 Republic Street, Valletta VLT 1116', '발레타 태생 셰프 조너선 브린캇이 이끄는 미슐랭 1스타 레스토랑, 리퍼블릭 스트리트의 타운하우스에 위치.', 'One-Michelin-star restaurant by Valletta-born chef Jonathan Brincat, in a Republic Street townhouse.', { reviewCount: 700 }),
-  place('valletta-fine_dining-4', 'valletta', 'fine_dining', 'Rubino', 4.5, '53 Old Bakery Street, Valletta VLT 1454', '1906년 제과점이던 공간에 자리한, 매일 바뀌는 흑판 메뉴의 전통 몰타 요리 레스토랑.', 'Traditional Maltese restaurant in a former 1906 confectionery, with a daily blackboard menu.', { reviewCount: 900 }),
+  place('valletta-fine_dining-3', 'valletta', 'fine_dining', 'Noni', 4.6, '211 Republic Street, Valletta VLT 1116', '발레타 태생 셰프 조너선 브린캇이 이끄는 미슐랭 1스타 레스토랑, 리퍼블릭 스트리트의 타운하우스에 위치.', 'One-Michelin-star restaurant by Valletta-born chef Jonathan Brincat, in a Republic Street townhouse.', { reviewCount: 700, image: '/places/valletta-fine_dining-3.jpg' }),
+  place('valletta-fine_dining-4', 'valletta', 'fine_dining', 'Rubino', 4.5, '53 Old Bakery Street, Valletta VLT 1454', '1906년 제과점이던 공간에 자리한, 매일 바뀌는 흑판 메뉴의 전통 몰타 요리 레스토랑.', 'Traditional Maltese restaurant in a former 1906 confectionery, with a daily blackboard menu.', { reviewCount: 900, image: '/places/valletta-fine_dining-4.jpg' }),
 
   place('valletta-bakery-1', 'valletta', 'bakery', 'Malta Pastizzi (Manuela)', 4.8, '57 Merchants Street, Valletta VLT 1173', '매일 아침 갓 구워 점심 전에 매진되는 발레타의 인기 파스티치 가게.', 'Popular Valletta pastizzi shop, freshly baked each morning and often sold out by lunch.'),
-  place('valletta-bakery-2', 'valletta', 'bakery', 'Grano', 4.4, '26 Triq Santa Lucia, Valletta VLT 1183', '몰타 최고의 프티라로 꼽히는 발레타의 작은 샌드위치 가게.', 'Small Valletta sandwich shop said to serve the best ftira in Malta.'),
+  place('valletta-bakery-2', 'valletta', 'bakery', 'Grano', 4.4, '26 Triq Santa Lucia, Valletta VLT 1183', '몰타 최고의 프티라로 꼽히는 발레타의 작은 샌드위치 가게.', 'Small Valletta sandwich shop said to serve the best ftira in Malta.', { image: '/places/valletta-bakery-2.jpg' }),
 
   place('valletta-cafe-1', 'valletta', 'cafe', 'Lot Sixty One Coffee Roasters', 4.7, '30 Triq it-Teatru l-Antik, Valletta', '유럽 50대 커피숍에 선정된 발레타의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in Valletta, named one of Europe\'s 50 best coffee shops.'),
   place('valletta-cafe-2', 'valletta', 'cafe', 'Caffe Cordina', 4.0, '244/245 Republic Street, VLT 0004 Valletta, Malta', '1837년 개업한 발레타의 상징적인 카페, 리퍼블릭 광장에 위치.', 'Iconic Valletta café on Republic Square, open since 1837.'),
@@ -20,7 +20,7 @@ export const placesMTExtra: Place[] = [
   // —— mdina ——
   place('mdina-fine_dining-1', 'mdina', 'fine_dining', 'Medina Restaurant', 4.5, '7 Holy Cross Street, Mdina MDN 1231', '구시가 성벽 안의 미식 레스토랑.', 'Fine dining within Mdina\'s historic walls.'),
   place('mdina-fine_dining-2', 'mdina', 'fine_dining', 'The Knights Kitchen', 4.8, 'Triq l-Imħażen, MDN 1201 Mdina, Malta', '음디나 구시가 성벽 안의 평점 높은 레스토랑.', 'Highly rated restaurant within Mdina\'s historic walls.', { reviewCount: 2936 }),
-  place('mdina-fine_dining-3', 'mdina', 'fine_dining', "Coogi's Restaurant & Tea Garden", 4.6, "5 St Agatha's Esplanade, Mdina", '성 아가타 에스플러네이드의 이탈리안 레스토랑 겸 티가든.', 'Italian restaurant and tea garden on St. Agatha\'s Esplanade.', { reviewCount: 9572 }),
+  place('mdina-fine_dining-3', 'mdina', 'fine_dining', "Coogi's Restaurant & Tea Garden", 4.6, "5 St Agatha's Esplanade, Mdina", '성 아가타 에스플러네이드의 이탈리안 레스토랑 겸 티가든.', 'Italian restaurant and tea garden on St. Agatha\'s Esplanade.', { reviewCount: 9572, image: '/places/mdina-fine_dining-3.jpg' }),
   place('mdina-fine_dining-4', 'mdina', 'fine_dining', 'The de Mondion Restaurant', 4.8, 'The Xara Palace, Misraħ il-Kunsill, Mdina MDN 1050, Malta', '자라 팰리스 호텔 옥상에 위치한 파인 다이닝 레스토랑.', 'Rooftop fine-dining restaurant atop the Xara Palace hotel.', { reviewCount: 341 }),
   place('mdina-fine_dining-5', 'mdina', 'fine_dining', 'SCALA', 4.8, '26 Saqqajja Hill, Mdina', '사카야 힐의 평점 높은 파인 다이닝 레스토랑.', 'Highly rated fine-dining restaurant on Saqqajja Hill.', { reviewCount: 437 }),
 
@@ -30,7 +30,7 @@ export const placesMTExtra: Place[] = [
   place('mdina-bakery-4', 'mdina', 'bakery', 'Dulcissima Pasticceria & Gelateria Italiana', 4.6, '30 Triq San Kataldu, Rabat, Malta', '라바트의 이탈리안 파티스리 겸 젤라테리아.', 'Italian patisserie and gelateria in Rabat.', { reviewCount: 391 }),
   place('mdina-bakery-5', 'mdina', 'bakery', 'St. Catherine Bakery & Pastizzeria', 4.6, '114 Triq Santa Rita, Rabat, Malta', '산타 리타 거리의 평점 높은 파스티치 베이커리.', 'Highly rated pastizzi bakery on Triq Santa Rita.', { reviewCount: 61 }),
 
-  place('mdina-cafe-1', 'mdina', 'cafe', 'Fontanella Tea Garden', 4.2, '1 Bastion Street, Mdina, Malta', '몰타 전경이 내려다보이는 음디나의 홈메이드 케이크 카페', 'Mdina café known for homemade cakes and stunning views over Malta'),
+  place('mdina-cafe-1', 'mdina', 'cafe', 'Fontanella Tea Garden', 4.2, '1 Bastion Street, Mdina, Malta', '몰타 전경이 내려다보이는 음디나의 홈메이드 케이크 카페', 'Mdina café known for homemade cakes and stunning views over Malta', { image: '/places/mdina-cafe-1.jpg' }),
   place('mdina-cafe-2', 'mdina', 'cafe', 'Gustav Café', 4.6, 'Palazzo Falson, Villegaignon Street, Mdina MDN 1191, Malta', '빌레가뇽 거리의 평점 높은 카페.', 'Highly rated café on Triq Il-Villegaignon.', { reviewCount: 279 }),
   place('mdina-cafe-3', 'mdina', 'cafe', "Bar One Café", 4.5, '7 Villegaignon Street, Mdina', '빌레가뇽 거리의 인기 카페.', 'Popular café on Villegaignon Street.', { reviewCount: 264 }),
   place('mdina-cafe-4', 'mdina', 'cafe', 'CHALK cafe eatery wine', 4.6, '36 Triq San Pawl, Mdina', '성 바오로 거리의 평점 높은 카페 겸 와인바.', 'Highly rated café and wine bar on Triq San Pawl.', { reviewCount: 1179 }),
@@ -38,7 +38,7 @@ export const placesMTExtra: Place[] = [
 
   // —— gozo ——
   place('gozo-fine_dining-1', 'gozo', 'fine_dining', 'Tmun', 4.6, 'Triq Martino Garces, Mġarr Harbour, Għajnsielem GSM 2413, Malta', '30년 넘게 이어온 가족 운영 레스토랑, 당일 잡은 신선한 생선 요리로 유명한 미쉐린 가이드 등재 시푸드 레스토랑.', 'Family-run for over 30 years, this Michelin Guide-listed restaurant is known for dishes built around the day\'s fresh catch.'),
-  place('gozo-fine_dining-2', 'gozo', 'fine_dining', 'Casa Vostra', 4.9, '62 Republic Street, Rabat, Gozo', '라바트 리퍼블릭 스트리트의 평점 높은 인기 레스토랑.', 'Highly rated, popular restaurant on Republic Street in Rabat.', { reviewCount: 1969 }),
+  place('gozo-fine_dining-2', 'gozo', 'fine_dining', 'Casa Vostra', 4.9, '62 Republic Street, Rabat, Gozo', '라바트 리퍼블릭 스트리트의 평점 높은 인기 레스토랑.', 'Highly rated, popular restaurant on Republic Street in Rabat.', { reviewCount: 1969, image: '/places/gozo-fine_dining-2.jpg' }),
   place('gozo-fine_dining-3', 'gozo', 'fine_dining', 'Ta\' Frenċ Restaurant', 4.7, 'Daħla ta’ Għajn Damma, Xagħra, Gozo', '샤그라 마을의 전통 고조 농가를 개조한 파인 다이닝 레스토랑.', 'Fine-dining restaurant set in a converted traditional Gozitan farmhouse in Xagħra.', { reviewCount: 823 }),
   place('gozo-fine_dining-4', 'gozo', 'fine_dining', 'Roża | Restaurant', 4.7, '20 St George\'s Square, Victoria, Gozo', '빅토리아 성 조지 광장의 평점 높은 레스토랑.', 'Highly rated restaurant on St. George\'s Square in Victoria.', { reviewCount: 3151 }),
   place('gozo-fine_dining-5', 'gozo', 'fine_dining', 'one80, Mgarr Yacht Marina', 4.7, 'Triq Martino Garces, Mġarr Yacht Marina, Għajnsielem GSM 2413, Malta', '음가르 요트 마리나의 평점 높은 레스토랑.', 'Highly rated restaurant at Mgarr Yacht Marina.', { reviewCount: 1596 }),

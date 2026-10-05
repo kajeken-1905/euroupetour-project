@@ -3,7 +3,7 @@ import type { Place } from '../types'
 
 export const placesGRExtra: Place[] = [
   // —— athens ——
-  place('athens-fine_dining-1', 'athens', 'fine_dining', 'Hytra', 4.2, 'Leoforos Andrea Siggrou 107, 117 45 Athens', '오나시스 문화센터 최상층의 미슐랭 1스타 레스토랑, 아크로폴리스 전망.', 'One-Michelin-star restaurant atop the Onassis Cultural Centre with Acropolis views.', { reviewCount: 915 }),
+  place('athens-fine_dining-1', 'athens', 'fine_dining', 'Hytra', 4.2, 'Leoforos Andrea Siggrou 107, 117 45 Athens', '오나시스 문화센터 최상층의 미슐랭 1스타 레스토랑, 아크로폴리스 전망.', 'One-Michelin-star restaurant atop the Onassis Cultural Centre with Acropolis views.', { reviewCount: 915, image: '/places/athens-fine_dining-1.jpg' }),
   place('athens-fine_dining-2', 'athens', 'fine_dining', 'Cookoovaya', 4.0, '2a Mexi Chatzigianni, Athens 115 28', '현대 그리스 요리를 대표하는 세련된 레스토랑.', "One of the finest expressions of contemporary Greek cuisine."),
   place('athens-fine_dining-3', 'athens', 'fine_dining', 'Funky Gourmet', 4.5, '13 Paramithias St & Salaminos, Kerameikos, Athens 10435', '미슐랭 2스타 레스토랑, 예술적 프레젠테이션으로 유명.', 'Two-Michelin-star restaurant known for its artistic presentation.'),
   place('athens-fine_dining-4', 'athens', 'fine_dining', 'Klimataria', 4.1, 'Plateia Theatrou 2, Athina 105 52', '1927년부터 이어온 프시리 지구의 전통 타베르나.', 'Traditional taverna in Psirri, operating since 1927.'),
@@ -13,16 +13,16 @@ export const placesGRExtra: Place[] = [
   place('athens-bakery-3', 'athens', 'bakery', 'Choureal', 4.7, 'Panagiotou Anagnostopoulou 44, Athina 106 73', '아테네 최고의 프로피테롤을 맛볼 수 있는 슈 페이스트리 전문점.', "Choux pastry specialist serving Athens' best profiteroles."),
   place('athens-bakery-4', 'athens', 'bakery', 'To Koulouri tou Psyrri', 4.6, '23 Karaiskaki St, Psyrri, Athens', '1990년대부터 이어온 프시리의 명물 쿨루리(참깨 빵) 전문점.', 'Iconic koulouri (sesame bread ring) spot in Psyrri since the 1990s.'),
   place('athens-cafe-1', 'athens', 'cafe', 'Tailor Made Coffee Roasters', 4.5, 'Perikleous 37, 105 63 Athens, Greece', '모나스티라키 인근의 스페셜티 커피 로스터리.', 'Specialty coffee roastery near Monastiraki.'),
-  place('athens-cafe-2', 'athens', 'cafe', 'TAF Coffee', 4.6, '7 Emmanouil Benaki, Exarchia, Athens', '2009년 문을 연 아테네 최초의 스페셜티 커피숍.', "Athens' first specialty coffee shop, opened in 2009.", { reviewCount: 149 }),
+  place('athens-cafe-2', 'athens', 'cafe', 'TAF Coffee', 4.6, '7 Emmanouil Benaki, Exarchia, Athens', '2009년 문을 연 아테네 최초의 스페셜티 커피숍.', "Athens' first specialty coffee shop, opened in 2009.", { reviewCount: 149, image: '/places/athens-cafe-2.jpg' }),
   place('athens-cafe-3', 'athens', 'cafe', 'Café Avissinia', 4.2, '7 Kynetou, Monastiraki, Athens 105 55', '아크로폴리스 전망의 루프탑 테라스로 유명한 모나스티라키의 카페.', "Monastiraki café known for its rooftop terrace with Acropolis views."),
   place('athens-cafe-4', 'athens', 'cafe', 'Little Tree Books & Coffee', 4.7, 'Καβαλλότι 2, 117 42 Athens, Greece', '아크로폴리스 박물관 뒤편의 아늑한 북카페.', 'Cozy book café located behind the Acropolis Museum.', { reviewCount: 395 }),
   place('athens-korean-1', 'athens', 'korean', 'Dosirak', 4.4, '33 Voulis, Syntagma, Athens', '신타그마의 일식·한식 레스토랑.', 'Japanese-Korean restaurant in Syntagma.'),
   place('athens-korean-2', 'athens', 'korean', 'Seoul House', 4.0, 'Zisimopoulou 40, Palaio Faliro, Athens 17564', '팔레오 팔리로의 한식당, 한국식 바베큐로 유명.', 'Korean restaurant in Palaio Faliro, known for its Korean barbecue.', { reviewCount: 601 }),
 
   // —— santorini ——
-  place('santorini-fine_dining-1', 'santorini', 'fine_dining', 'Selene', 4.6, 'Pyrgos, Santorini 84700', '그리스 최고 레스토랑 중 하나.', 'Regarded as one of Greece\'s best restaurants.'),
+  place('santorini-fine_dining-1', 'santorini', 'fine_dining', 'Selene', 4.6, 'Pyrgos, Santorini 84700', '그리스 최고 레스토랑 중 하나.', 'Regarded as one of Greece\'s best restaurants.', { image: '/places/santorini-fine_dining-1.jpg' }),
   place('santorini-fine_dining-2', 'santorini', 'fine_dining', 'Argo Restaurant', 4.5, 'Fira, Santorini 847 00', '피라 중심가의 칼데라 전망 레스토랑, 현대적으로 재해석한 산토리니 요리.', 'Restaurant in central Fira with caldera views, offering a contemporary take on Santorinian cuisine.'),
-  place('santorini-fine_dining-3', 'santorini', 'fine_dining', 'Parea Tavern', 4.7, 'Fira, Santorini 847 00', '2005년부터 이어온 그리스·지중해 요리 타베르나, 무사카로 유명.', 'Greek-Mediterranean taverna since 2005, known for its moussaka.'),
+  place('santorini-fine_dining-3', 'santorini', 'fine_dining', 'Parea Tavern', 4.7, 'Fira, Santorini 847 00', '2005년부터 이어온 그리스·지중해 요리 타베르나, 무사카로 유명.', 'Greek-Mediterranean taverna since 2005, known for its moussaka.', { image: '/places/santorini-fine_dining-3.jpg' }),
   place('santorini-bakery-1', 'santorini', 'bakery', 'Furnissimo Bakery', 4.6, 'Mesarias-Archeas Thiras, Mesaria 490 83, Greece', '최고의 크루아상과 커피로 유명한 산토리니의 베이커리', 'Santorini bakery known for its excellent croissants and coffee'),
   place('santorini-bakery-2', 'santorini', 'bakery', 'The Family Bakery', 4.6, 'Eparchiaki Odos Firon-Ormou Perissis, Megalochori 84700', '전통 그리스 파이와 빵, 크루아상, 바클라바로 유명한 아늑한 베이커리.', 'Cozy bakery known for traditional Greek pies, breads, croissants and baklava.'),
   place('santorini-cafe-1', 'santorini', 'cafe', 'Milopetra', 4.5, 'Fira, Santorini 847 00, Greece', '전통과 서양식 케이크를 두루 갖춘 산토리니의 베이커리 카페', 'Santorini bakery café offering a wide variety of traditional and continental cakes'),
@@ -30,7 +30,7 @@ export const placesGRExtra: Place[] = [
 
   // —— heraklion ——
   place('heraklion-fine_dining-1', 'heraklion', 'fine_dining', 'Thigaterra', 4.6, 'Leof. Andrea Papandreou 109, Heraklion 71414', '모던하게 재해석한 크레타 요리.', 'Cretan cuisine reimagined in a modern style.'),
-  place('heraklion-fine_dining-2', 'heraklion', 'fine_dining', 'Peskesi', 4.8, 'Kapetan Haralampi 6-8, Heraklion 71202', '복원된 저택에서 선보이는 정통 크레타 요리, 자체 농장 식재료 사용.', 'Authentic Cretan cuisine in a restored mansion, using ingredients from its own farm.', { reviewCount: 9736 }),
+  place('heraklion-fine_dining-2', 'heraklion', 'fine_dining', 'Peskesi', 4.8, 'Kapetan Haralampi 6-8, Heraklion 71202', '복원된 저택에서 선보이는 정통 크레타 요리, 자체 농장 식재료 사용.', 'Authentic Cretan cuisine in a restored mansion, using ingredients from its own farm.', { reviewCount: 9736, image: '/places/heraklion-fine_dining-2.jpg' }),
   place('heraklion-fine_dining-3', 'heraklion', 'fine_dining', 'Antipodas', 4.5, 'Korai 13, Iraklio 71202', '넉넉한 양과 친절한 서비스로 호평받는 전통 크레타 요리 레스토랑.', 'Traditional Cretan restaurant praised for generous portions and friendly service.', { reviewCount: 791 }),
   place('heraklion-bakery-1', 'heraklion', 'bakery', 'Kritikos Fournos Daily Bakery', 4.6, 'Leoforos Ikarou 32, 71306 Heraklion, Greece', '크레타 최고의 베이커리로 꼽히는 이라클리오의 인기 명소', 'Widely regarded as the best bakery in Crete'),
   place('heraklion-bakery-2', 'heraklion', 'bakery', 'Phyllosophies (Liontaria)', 4.8, 'Plateia Liontarion 33, Heraklion 71202', '크레타 최고의 부가차로 유명한 리온다리아 광장의 명소.', "Famous spot on Lion Square known for Crete's best bougatsa.", { reviewCount: 5141 }),
@@ -108,11 +108,11 @@ export const placesGRExtra: Place[] = [
 
   // —— olympia ——
   place('olympia-fine_dining-1', 'olympia', 'fine_dining', 'Taverna Bacchus', 4.6, 'Miraka (Ancient Pisa) 10, 270 65 Ancient Olympia, Greece', '들판 속 가족 운영 타베르나 겸 여관.', 'Family-run taverna and inn among the fields.'),
-  place('olympia-fine_dining-2', 'olympia', 'fine_dining', 'Aegean Restaurant', 4.4, 'Georgiou Douma 4, 270 65 Ancient Olympia, Greece', '지역 식재료로 채식 메뉴가 다양한 광장의 식당.', 'Main-square restaurant with many vegetarian dishes from local produce.'),
+  place('olympia-fine_dining-2', 'olympia', 'fine_dining', 'Aegean Restaurant', 4.4, 'Georgiou Douma 4, 270 65 Ancient Olympia, Greece', '지역 식재료로 채식 메뉴가 다양한 광장의 식당.', 'Main-square restaurant with many vegetarian dishes from local produce.', { image: '/places/olympia-fine_dining-2.jpg' }),
   place('olympia-fine_dining-3', 'olympia', 'fine_dining', 'Taverna Orestis', 4.6, 'Π. Σπηλιοπούλου, 270 65 Municipal Unit of Archea Olympia, Greece', '유적지에서 걸어갈 수 있는 현지 분위기 타베르나.', 'Local-feeling taverna a short walk from the site.'),
 
   // —— chania ——
-  place('chania-fine_dining-1', 'chania', 'fine_dining', 'Tamam', 4.5, 'Zampeliou 49, Chania 731 31', '옛 오스만 목욕탕을 개조한 크레타·지중해 요리 식당.', 'Cretan-Mediterranean cooking in a former Ottoman bathhouse.'),
+  place('chania-fine_dining-1', 'chania', 'fine_dining', 'Tamam', 4.5, 'Zampeliou 49, Chania 731 31', '옛 오스만 목욕탕을 개조한 크레타·지중해 요리 식당.', 'Cretan-Mediterranean cooking in a former Ottoman bathhouse.', { image: '/places/chania-fine_dining-1.jpg' }),
   place('chania-fine_dining-2', 'chania', 'fine_dining', 'Chrisostomos', 4.6, 'Defkalionos & Ikarou, 731 32 Chania, Greece', '스파키아 향토 요리와 장작 화덕 요리의 크레타 전통 식당.', 'Traditional Cretan food from Sfakia, much of it wood-fired.'),
   place('chania-bakery-1', 'chania', 'bakery', 'Bougatsa Iordanis', 4.7, 'Apokoronou 24, Chania 731 34', '1924년 개업, 하니아에서 가장 오래된 부가차 가게.', 'Chania\'s oldest bougatsa shop, since 1924.'),
 

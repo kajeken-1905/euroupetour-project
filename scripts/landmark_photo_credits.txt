@@ -508,6 +508,21 @@ places/warsaw-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Restau
 places/krakow-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Gossip_Caf%C3%A9_in_Zwierzyniecka_Street,_Krak%C3%B3w,_Poland_2019.jpg | CC BY-SA 4.0 | Kgbo
 places/wroclaw-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw,_Konspira_(4).jpg | CC BY 4.0 | Palickap
 
+# Malta & Greece place photos
+places/valletta-fine_dining-3.jpg | https://www.flickr.com/photos/7831824@N04/51536395964 | BY 2.0 | Bex.Walton
+places/valletta-fine_dining-4.jpg | https://www.flickr.com/photos/24470821@N04/48365104116 | BY 2.0 | Andrew Milligan sumo
+places/valletta-bakery-2.jpg | https://www.flickr.com/photos/7831824@N04/51536612900 | BY 2.0 | Bex.Walton
+places/mdina-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Coogi%27s_Restaurant_%26_Tea_Garden,_5,_Saint_Agatha%27s_Esplanade,_L-Imdina_(2).jpg | CC BY-SA 4.0 | Benreis
+places/mdina-cafe-1.jpg | https://www.flickr.com/photos/24470821@N04/47986685112 | BY 2.0 | Andrew Milligan sumo
+places/gozo-fine_dining-2.jpg | https://www.flickr.com/photos/7831824@N04/51535675681 | BY 2.0 | Bex.Walton
+places/athens-fine_dining-1.jpg | https://www.flickr.com/photos/7831824@N04/52527725840 | BY 2.0 | Bex.Walton
+places/athens-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/52527532339 | BY 2.0 | Bex.Walton
+places/olympia-fine_dining-2.jpg | https://www.flickr.com/photos/29172291@N00/28477657926 | BY 2.0 | Andy Hay
+places/santorini-fine_dining-1.jpg | https://www.flickr.com/photos/76396789@N00/21117454425 | BY 2.0 | Tjeerd
+places/santorini-fine_dining-3.jpg | https://www.flickr.com/photos/79792862@N05/7316487228 | BY-SA 2.0 | Irene Grassi (sun sand & sea)
+places/heraklion-fine_dining-2.jpg | https://www.flickr.com/photos/50141284@N04/24573110292 | BY-SA 2.0 | Andy Montgomery
+places/chania-fine_dining-1.jpg | https://www.flickr.com/photos/27087959@N00/459580068 | BY 2.0 | ccarlstead
+
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
