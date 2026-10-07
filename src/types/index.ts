@@ -61,6 +61,34 @@ export interface CityHubs {
   port?: TransitHub[]
 }
 
+type Text = { ko: string; en: string }
+
+/** Practical, country-wide information a visitor needs on the ground. */
+export interface CountryEssentials {
+  /** Emergency numbers, most important first. */
+  emergency: { number: string; label: Text }[]
+  /** Korean embassy covering this country (may sit in a neighbouring country). */
+  embassy?: {
+    name: Text
+    address: string
+    phone: string
+    /** Duty phone outside office hours. */
+    afterHours?: string
+    note?: Text
+    /** Official site the contact details were taken from. */
+    source: string
+  }
+  power: Text
+  tipping: Text
+  water: Text
+  shops: Text
+  toilets: Text
+  time: Text
+  safety: Text
+  entry: Text
+  telecom: Text
+}
+
 export type RouteMode = 'train' | 'bus' | 'ferry' | 'mixed' | 'flight'
 
 /** A direct onward connection from one city to another, as seen from one end. */

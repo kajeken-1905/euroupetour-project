@@ -7,6 +7,8 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { PhrasePanel } from '../components/PhrasePanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
+import { EssentialsPanel } from '../components/EssentialsPanel'
+import { getCountryEssentials } from '../data/essentials'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
 import { getCountryTransit } from '../data/transit'
@@ -53,6 +55,7 @@ export function CountryPage() {
     rateText = formatFxLine(country.currencyCode, country.currencySymbol, rate, lang)
   }
   const transit = getCountryTransit(country.id)
+  const essentials = getCountryEssentials(country.id)
   const { primary, secondary, accent } = country.flagColors
   const themeVars = {
     '--c-primary': primary,
@@ -149,6 +152,8 @@ export function CountryPage() {
       <PhrasePanel countryId={country.id} />
 
       {transit ? <TransitCountryPanel transit={transit} /> : null}
+
+      {essentials ? <EssentialsPanel essentials={essentials} /> : null}
 
       <p className="section-label">{t('cities', lang)}</p>
       {country.cityGroups ? (

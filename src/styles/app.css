@@ -1572,6 +1572,38 @@ button.back-link {
   line-height: 1.45;
 }
 
+.transit-facts > .ess-first {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.ess-numbers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.ess-number {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: #f0ebe4;
+  color: #3d342c;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.ess-number strong {
+  font-size: 15px;
+}
+
+.ess-note {
+  font-size: 12px;
+  color: var(--muted);
+}
+
 .transit-modes {
   display: flex;
   flex-wrap: wrap;
