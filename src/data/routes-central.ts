@@ -134,7 +134,7 @@ export const routesCentral: RawRoute[] = [
   r('seville', 'lisbon', 'bus', 390, { n: '직통 열차 없음|no direct train' }),
   r('andorra-la-vella', 'pas-de-la-casa', 'bus', 45),
   r('andorra-la-vella', 'ordino', 'bus', 20),
-  r('toulouse', 'andorra-la-vella', 'bus', 180),
+  r('toulouse', 'andorra-la-vella', 'bus', 210),
 
   // —— pt ——
   r('lisbon', 'sintra', 'train', 40, { fa: '호시우역|Rossio' }),
@@ -151,11 +151,11 @@ export const routesCentral: RawRoute[] = [
   r('lisbon', 'funchal', 'flight', 105, { n: '여객 페리 없음|no passenger ferry' }),
   r('porto', 'braga', 'train', 60, { fa: '포르투 상벤투역|Porto-São Bento' }),
   r('porto', 'guimaraes', 'train', 70, { fa: '포르투 상벤투역|Porto-São Bento' }),
-  r('porto', 'aveiro', 'train', 75, { fa: '포르투 상벤투역|Porto-São Bento', n: '근교선 · 장거리 열차는 더 빠르고 예약 필수|suburban train · long-distance trains are faster and need a reservation' }),
+  r('porto', 'aveiro', 'train', 40, { ...R, fa: '포르투 캄파냐역|Porto-Campanhã', n: '장거리 열차 기준 · 근교선은 약 1시간 15분, 예약 불필요|long-distance trains · suburban trains take about 1h15 with no reservation' }),
   r('porto', 'coimbra', 'train', 65, { ...R, fa: '포르투 캄파냐역|Porto-Campanhã', fb: '코임브라 B역|Coimbra-B', n: CP }),
   r('coimbra', 'aveiro', 'train', 30, { ...R, fa: '코임브라 B역|Coimbra-B', n: CP }),
   r('coimbra', 'fatima', 'bus', 60),
-  r('faro', 'lagos', 'train', 105),
+  r('faro', 'lagos', 'train', 90),
 
   // —— dk / se / fi / no / is ——
   r('copenhagen', 'roskilde', 'train', 25),
@@ -166,7 +166,7 @@ export const routesCentral: RawRoute[] = [
   r('copenhagen', 'gothenburg', 'train', 220),
   r('copenhagen', 'stockholm', 'train', 315, { ...R, n: 'SJ 고속열차|SJ high-speed' }),
   r('copenhagen', 'oslo', 'flight', 70),
-  r('copenhagen', 'oslo', 'ferry', 1020, { n: OVERNIGHT }),
+  r('copenhagen', 'oslo', 'ferry', 1050, { n: OVERNIGHT }),
   r('aarhus', 'aalborg', 'train', 80),
   r('aarhus', 'odense', 'train', 100),
   r('stockholm', 'uppsala', 'train', 40),

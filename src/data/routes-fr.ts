@@ -58,7 +58,7 @@ export const routesFr: RawRoute[] = [
   ['cannes', 'monaco', 'train', 65, false, '칸역|Cannes', '모나코 몬테카를로역|Monaco–Monte-Carlo'],
 
   // —— Corsica ——
-  ['marseille', 'ajaccio', 'ferry', 720, true, '마르세유 여객터미널|Marseille ferry terminal', '아작시오 여객터미널|Ajaccio ferry terminal', '야간 페리|overnight ferry'],
+  ['marseille', 'ajaccio', 'ferry', 720, false, '마르세유 여객터미널|Marseille ferry terminal', '아작시오 여객터미널|Ajaccio ferry terminal', '야간 페리|overnight ferry'],
   ['ajaccio', 'bonifacio', 'bus', 300, false, undefined, undefined, '포르토베키오에서 환승|change at Porto-Vecchio'],
   ['ajaccio', 'calvi', 'train', 300, false, '아작시오역|Ajaccio', '칼비역|Calvi', '폰테 레차에서 환승|change at Ponte Leccia'],
 ]
