@@ -31,7 +31,7 @@ export const routesFr: RawRoute[] = [
   ['paris', 'toulouse', 'train', 260, true, MONTP, '툴루즈 마타비오역|Toulouse-Matabiau', 'TGV'],
   ['paris', 'saint-malo', 'train', 135, true, MONTP, '생말로역|Saint-Malo', 'TGV'],
   ['paris', 'bayeux', 'train', 130, false, LAZARE, '바이외역|Bayeux'],
-  ['paris', 'mont-saint-michel', 'mixed', 180, true, MONTP, '몽생미셸 셔틀 정류장|Mont Saint-Michel shuttle stop', '렌까지 TGV 후 직행버스|TGV to Rennes, then direct coach'],
+  ['paris', 'mont-saint-michel', 'mixed', 225, true, MONTP, '몽생미셸 셔틀 정류장|Mont Saint-Michel shuttle stop', '렌까지 TGV 후 직행버스|TGV to Rennes, then direct coach'],
 
   // —— Between regional cities ——
   ['lyon', 'dijon', 'train', 120, false, '리옹 파르디외역|Lyon Part-Dieu', '디종역|Dijon-Ville', '일반 열차(TER) 기준 · TGV는 더 빠르고 예약 필수|regional (TER) trains · TGVs are faster and need a reservation'],
@@ -40,6 +40,7 @@ export const routesFr: RawRoute[] = [
   ['lyon', 'marseille', 'train', 100, true, '리옹 파르디외역|Lyon Part-Dieu', '마르세유 생샤를역|Marseille-Saint-Charles', 'TGV'],
   ['lyon', 'montpellier', 'train', 105, true, '리옹 파르디외역|Lyon Part-Dieu', '몽펠리에 생로슈역|Montpellier-Saint-Roch', 'TGV'],
   ['lyon', 'strasbourg', 'train', 220, true, '리옹 파르디외역|Lyon Part-Dieu', '스트라스부르역|Strasbourg-Ville', 'TGV'],
+  ['annecy', 'chamonix', 'bus', 90, false, '안시 버스터미널|Annecy bus station', '샤모니 쉬드 버스터미널|Chamonix Sud bus station', '직행 버스|direct coach'],
   ['annecy', 'chamonix', 'train', 180, false, '안시역|Annecy', '샤모니 몽블랑역|Chamonix-Mont-Blanc', '라로슈쉬르포롱·생제르베에서 환승|change at La Roche-sur-Foron and Saint-Gervais'],
   ['strasbourg', 'dijon', 'train', 125, true, '스트라스부르역|Strasbourg-Ville', '디종역|Dijon-Ville', 'TGV'],
   ['bordeaux', 'arcachon', 'train', 50, false, '보르도 생장역|Bordeaux-Saint-Jean', '아르카숑역|Arcachon'],
