@@ -61,6 +61,21 @@ export interface CityHubs {
   port?: TransitHub[]
 }
 
+export type RouteMode = 'train' | 'bus' | 'ferry' | 'mixed' | 'flight'
+
+/** A direct onward connection from one city to another, as seen from one end. */
+export interface CityRoute {
+  toCityId: string
+  mode: RouteMode
+  /** Typical fastest journey time in minutes. */
+  minutes: number
+  /** Seat reservation is compulsory (matters for rail pass holders). */
+  reservation: boolean
+  /** Departure station/port on this city's side. */
+  from?: { ko: string; en: string }
+  note?: { ko: string; en: string }
+}
+
 export interface Country {
   id: string
   name: { ko: string; en: string }

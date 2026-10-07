@@ -12,6 +12,8 @@ import { VisitStamps } from '../components/VisitStamps'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityTransit } from '../data/transit'
 import { getCityHubs } from '../data/hubs'
+import { getCityRoutes } from '../data/routes'
+import { RoutesPanel } from '../components/RoutesPanel'
 import { t } from '../i18n/ui'
 import type { CategoryId } from '../types'
 
@@ -94,6 +96,8 @@ export function CityPage() {
       {transit ? (
         <TransitCityPanel {...transit} hubs={getCityHubs(city.id)} cityName={city.name.en} />
       ) : null}
+
+      <RoutesPanel routes={getCityRoutes(city.id)} />
 
       <p className="section-label" style={{ marginTop: 22 }}>
         {t('foodGuide', lang)}

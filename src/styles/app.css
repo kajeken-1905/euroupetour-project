@@ -1658,6 +1658,67 @@ button.back-link {
   color: var(--muted);
 }
 
+.route-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+
+@media (min-width: 900px) {
+  .route-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.route-item {
+  display: grid;
+  gap: 4px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: #f0ebe4;
+  color: #3d342c;
+  text-decoration: none;
+}
+
+.route-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 4px 12px;
+  align-items: baseline;
+}
+
+.route-city {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.route-time {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.route-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 10px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.route-resv {
+  font-weight: 700;
+  color: #9a4a1c;
+}
+
+.route-hint {
+  margin: 10px 0 0;
+  font-size: 11px;
+  color: var(--muted);
+}
+
 .transit-apps {
   margin-top: 12px;
   padding-top: 12px;
