@@ -925,8 +925,8 @@ button.back-link {
 }
 
 .highlight-card {
-  display: grid;
-  grid-template-rows: 140px auto;
+  display: flex;
+  flex-direction: column;
   border-radius: 18px;
   overflow: hidden;
   background: #fff;
@@ -939,6 +939,61 @@ button.back-link {
   transform: scale(0.985);
 }
 
+.highlight-card-main {
+  display: grid;
+  grid-template-rows: 140px auto;
+  flex: 1;
+  overflow: hidden;
+  color: inherit;
+  text-decoration: none;
+}
+
+.highlight-visit {
+  display: grid;
+  gap: 6px;
+  padding: 10px 14px 12px;
+  border-top: 1px solid var(--line);
+}
+
+.visit-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.visit-tag {
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: rgba(20, 17, 15, 0.06);
+  font-size: 12px;
+  font-weight: 600;
+  color: #3d342c;
+  white-space: nowrap;
+}
+
+.visit-tag-required {
+  background: rgba(200, 60, 40, 0.12);
+  color: #a3301c;
+}
+
+.visit-note {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.visit-link {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1f4b99;
+  overflow-wrap: anywhere;
+}
+
+.theme-page .visit-link {
+  color: var(--c-primary);
+}
+
 .highlight-card-media {
   background-size: cover;
   background-position: center;
@@ -946,8 +1001,8 @@ button.back-link {
   transition: transform 0.45s ease;
 }
 
-.highlight-card:hover .highlight-card-media,
-.highlight-card:focus-visible .highlight-card-media {
+.highlight-card-main:hover .highlight-card-media,
+.highlight-card-main:focus-visible .highlight-card-media {
   transform: scale(1.08);
 }
 

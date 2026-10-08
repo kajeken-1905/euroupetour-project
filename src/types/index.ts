@@ -149,6 +149,20 @@ export interface CityHighlight {
   group?: { ko: string; en: string }
 }
 
+/** Practical visiting info for a highlight (shown under its card). */
+export interface HighlightVisit {
+  /** Suggested time on site in minutes, [min, max]. */
+  minutes?: [number, number]
+  /** 'daily', or comma-separated closed weekdays such as 'mon' or 'mon,tue'. */
+  closed?: string
+  booking?: 'required' | 'recommended' | 'none'
+  /** Official website. */
+  site?: string
+  /** Official ticket / reservation page. */
+  tickets?: string
+  note?: { ko: string; en: string }
+}
+
 export interface City {
   id: string
   countryId: string
