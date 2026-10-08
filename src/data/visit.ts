@@ -6,6 +6,7 @@ import { visitIt } from './visit-it'
 import { visitBenelux } from './visit-benelux'
 import { visitIberia } from './visit-iberia'
 import { visitNordic } from './visit-nordic'
+import { visitCentral } from './visit-central'
 
 const VISIT: Record<string, HighlightVisit> = {
   ...visitFr,
@@ -15,6 +16,7 @@ const VISIT: Record<string, HighlightVisit> = {
   ...visitBenelux,
   ...visitIberia,
   ...visitNordic,
+  ...visitCentral,
 }
 
 export function getHighlightVisit(highlightId: string): HighlightVisit | undefined {
