@@ -79,8 +79,8 @@ const WATER_OK = T('수돗물을 마실 수 있습니다.', 'Tap water is safe t
 const WATER_BOTTLED = T('수돗물은 양치·세안에는 괜찮지만 마실 물은 생수를 사는 편이 좋습니다.', 'Tap water is fine for washing, but buy bottled water for drinking.')
 
 const ENTRY_SCHENGEN = T(
-  '한국 여권은 솅겐 지역에 180일 중 90일까지 무비자로 머물 수 있습니다. 입국 때 출입국 시스템(EES)에 지문과 얼굴 사진을 등록합니다. 사전 여행 허가(ETIAS)는 아직 시행 전입니다(2026년 10월 기준).',
-  'Korean passport holders can stay in the Schengen area visa-free for 90 days in any 180. Fingerprints and a photo are registered in the Entry/Exit System (EES) on arrival. The ETIAS travel authorisation is not yet in force (as of October 2026).',
+  '한국 여권은 솅겐 지역에 180일 중 90일까지 무비자로 머물 수 있습니다. 입국 때 출입국 시스템(EES)에 지문과 얼굴 사진을 등록합니다. 사전 여행 허가(ETIAS)는 아직 시행 전이며(2026년 10월 기준) 2026년 4분기 시행이 예고돼 있으니 출발 전에 확인하세요.',
+  'Korean passport holders can stay in the Schengen area visa-free for 90 days in any 180. Fingerprints and a photo are registered in the Entry/Exit System (EES) on arrival. The ETIAS travel authorisation is not yet in force (as of October 2026) but is due to start in the last quarter of 2026, so check before you travel.',
 )
 const entry90 = (ko: string, en: string) =>
   T(
@@ -100,6 +100,7 @@ const telNonEU = (ops: string, ko = 'EU 로밍 요금제에 포함되지 않는 
   )
 
 const TOILETS_PAID = T('역·터미널 화장실은 유료(0.5~1유로)가 많으니 동전을 준비하세요. 카페나 박물관 화장실을 이용하면 편합니다.', 'Station toilets usually charge (€0.50–1), so keep coins handy. Cafés and museums are the easy option.')
+const TOILETS_PAID_LOCAL = T('역·터미널 화장실은 유료인 곳이 많으니 현지 통화 동전을 조금 준비하세요. 카페나 박물관 화장실을 이용하면 편합니다.', 'Station toilets usually charge a small fee, so keep a few local coins handy. Cafés and museums are the easy option.')
 const TOILETS_FREE = T('공공 화장실과 쇼핑몰 화장실이 대체로 무료이고 깨끗합니다.', 'Public and shopping-centre toilets are mostly free and clean.')
 const TOILETS_MIXED = T('공공 화장실이 많지 않고 유료인 곳이 있습니다. 식당·카페·쇼핑몰 화장실을 이용하는 편이 편합니다.', 'Public toilets are scarce and sometimes charge. Restaurants, cafés and malls are easier.')
 
@@ -200,7 +201,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     telecom: telEU('TIM, Vodafone, WindTre, Iliad'),
   },
   va: {
-    emergency: [E112, num('113', '경찰', 'Police'), num('118', '구급', 'Ambulance')],
+    emergency: [E112],
     embassy: EMB.va,
     power: POWER_L,
     tipping: T('입장료 외에 팁은 필요 없습니다. 주변 로마 식당은 이탈리아 관례를 따릅니다.', 'No tipping is needed beyond entry fees. Restaurants nearby follow Italian custom.'),
@@ -291,7 +292,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     telecom: telEU('Movistar, Orange, Vodafone'),
   },
   ad: {
-    emergency: [E112, num('110', '경찰', 'Police'), num('118', '소방·구급', 'Fire and ambulance')],
+    emergency: [E112, num('110', '경찰', 'Police'), num('116', '구급', 'Ambulance'), num('118', '소방', 'Fire brigade')],
     embassy: covering('es', '안도라', 'Andorra'),
     power: POWER_CF,
     tipping: T('팁은 의무가 아니고 만족하면 5~10%를 남깁니다.', 'Tipping is optional; 5–10% for good service.'),
@@ -405,7 +406,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     tipping: T('식당에서는 10% 안팎이 보통입니다. 관광지 식당은 봉사료를 미리 넣는 곳이 있으니 계산서를 확인하세요.', 'Around 10% in restaurants. Tourist-area places sometimes add service already—check the bill.'),
     water: WATER_OK,
     shops: T('일요일에도 대부분 엽니다. 유로가 아닌 코루나를 쓰고, 길거리 환전소는 환율이 나쁜 곳이 많습니다.', 'Most shops open on Sundays. The currency is the koruna, not the euro, and street exchange booths often give poor rates.'),
-    toilets: TOILETS_PAID,
+    toilets: TOILETS_PAID_LOCAL,
     time: TIME_CET,
     safety: T('프라하 카를교·구시가 광장·22번 트램과 지하철에서 소매치기가 잦습니다. 길에서 환전을 권하는 사람과 미터기를 쓰지 않는 택시를 피하세요.', 'Pickpocketing is common on Charles Bridge, in Old Town Square, on tram 22 and the metro in Prague. Avoid street money changers and taxis that will not use the meter.'),
     entry: ENTRY_SCHENGEN,
@@ -431,7 +432,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     tipping: T('식당에서는 10~15%가 보통입니다. 계산서에 봉사료(szervizdíj)가 이미 들어 있는 곳이 많으니 확인하세요.', '10–15% is usual in restaurants. Many bills already include a service charge (szervizdíj)—check first.'),
     water: WATER_OK,
     shops: T('일요일에도 대부분 엽니다. 유로가 아닌 포린트를 쓰고, 길거리·공항 환전소는 환율이 나쁜 곳이 많습니다.', 'Most shops open on Sundays. The currency is the forint, not the euro, and street and airport exchange booths give poor rates.'),
-    toilets: TOILETS_PAID,
+    toilets: TOILETS_PAID_LOCAL,
     time: TIME_CET,
     safety: T('부다페스트 바치 거리·지하철·트램 2·4·6번에서 소매치기를 조심하세요. 길에서 말을 걸어 술집으로 데려가는 수법과, 대중교통 표를 개찰하지 않아 무는 벌금이 흔합니다.', 'Watch for pickpockets on Váci utca, the metro and trams 2, 4 and 6 in Budapest. Beware of strangers steering you to bars, and always validate transit tickets—fines are common.'),
     entry: ENTRY_SCHENGEN,
@@ -444,7 +445,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     tipping: T('식당에서는 10% 안팎이 보통입니다. 계산할 때 “고맙습니다”라고 하면 거스름돈을 팁으로 가져가니 주의하세요.', 'Around 10% in restaurants. Saying “thank you” as you hand over cash signals “keep the change”.'),
     water: WATER_OK,
     shops: T('일요일에는 법으로 대부분의 상점이 문을 닫습니다(연중 몇 번의 영업 일요일 제외). 편의점 Żabka와 주유소는 엽니다. 유로가 아닌 즈워티를 씁니다.', 'By law most shops close on Sundays (bar a few trading Sundays a year). Żabka convenience stores and petrol stations stay open. The currency is the złoty, not the euro.'),
-    toilets: TOILETS_PAID,
+    toilets: TOILETS_PAID_LOCAL,
     time: TIME_CET,
     safety: T('전반적으로 안전합니다. 바르샤바·크라쿠프의 기차역과 구시가지에서는 소매치기를 조심하고, 길거리 환전소(Kantor)는 환율을 꼭 확인하세요.', 'Generally safe. Watch for pickpockets at stations and in the old towns of Warsaw and Kraków, and check rates carefully at exchange booths (kantor).'),
     entry: ENTRY_SCHENGEN,
@@ -458,7 +459,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     power: POWER_G,
     tipping: T('식당에서는 5~10%가 보통입니다.', '5–10% is usual in restaurants.'),
     water: WATER_BOTTLED,
-    shops: T('일요일에는 대부분 문을 닫고 평일에도 점심시간에 쉬는 가게가 있습니다.', 'Most shops close on Sundays, and some close for lunch on weekdays.'),
+    shops: T('일요일에는 문을 닫는 가게가 많고(슬리마·발레타의 쇼핑몰과 관광지 상점은 여는 곳이 있음) 평일에도 점심시간에 쉬는 가게가 있습니다.', 'Many shops close on Sundays (malls and tourist shops in Sliema and Valletta often open), and some close for lunch on weekdays.'),
     toilets: TOILETS_FREE,
     time: TIME_CET,
     safety: T('안전합니다. 차는 좌측통행이고 길이 좁아 길을 건널 때 주의하세요. 여름 햇볕이 매우 강합니다.', 'Safe. Traffic drives on the left and roads are narrow—take care crossing. Summer sun is fierce.'),
@@ -484,7 +485,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     power: POWER_G,
     tipping: T('봉사료가 포함된 곳이 많고, 만족하면 5~10%를 더합니다.', 'Service is often included; add 5–10% for good service.'),
     water: WATER_OK,
-    shops: T('일요일에는 대부분 문을 닫고(관광지 제외) 수요일 오후에 쉬는 가게가 있습니다.', 'Most shops close on Sundays (tourist areas excepted) and some on Wednesday afternoons.'),
+    shops: T('슈퍼마켓과 관광지 상점은 일요일에도 열지만, 작은 가게는 일요일과 수·토요일 오후에 쉬는 곳이 있습니다.', 'Supermarkets and shops in tourist areas open on Sundays, but small shops may close on Sundays and on Wednesday and Saturday afternoons.'),
     toilets: TOILETS_FREE,
     time: TIME_EET,
     safety: T('안전합니다. 차는 좌측통행입니다. 북부(북키프로스)로 넘어갈 때는 니코시아 등 지정된 검문소에서 여권을 보여야 하고, 완충지대와 군사 시설은 사진 촬영이 금지됩니다.', 'Safe. Traffic drives on the left. Crossing to the north requires showing your passport at designated checkpoints such as in Nicosia; photographing the buffer zone and military sites is forbidden.'),
@@ -561,12 +562,12 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     telecom: telEU('Telekom Slovenije, A1, Telemach'),
   },
   ba: {
-    emergency: [E112, num('122', '경찰', 'Police'), num('124', '구급', 'Ambulance'), num('123', '소방', 'Fire brigade')],
+    emergency: [num('122', '경찰', 'Police'), num('124', '구급', 'Ambulance'), num('123', '소방', 'Fire brigade')],
     embassy: covering('hr', '보스니아 헤르체고비나', 'Bosnia and Herzegovina'),
     power: POWER_CF,
     tipping: T('식당에서는 금액을 올림하거나 5~10%를 남깁니다.', 'Round up or leave 5–10% in restaurants.'),
     water: WATER_OK,
-    shops: T('일요일에는 문을 닫는 가게가 많습니다. 유로가 아닌 태환 마르크(KM)를 쓰고 현금이 필요한 곳이 많습니다.', 'Many shops close on Sundays. The currency is the convertible mark (KM), not the euro, and cash is often needed.'),
+    shops: T('사라예보·모스타르가 속한 연방 지역은 2024년 11월부터 법으로 일요일에 대부분의 상점이 문을 닫습니다. 유로가 아닌 태환 마르크(KM)를 쓰고 현금이 필요한 곳이 많습니다.', 'In the Federation entity (Sarajevo, Mostar) most shops have been closed on Sundays by law since November 2024. The currency is the convertible mark (KM), not the euro, and cash is often needed.'),
     toilets: TOILETS_MIXED,
     time: TIME_CET,
     safety: T('도시는 안전합니다. 다만 전쟁 때 묻힌 지뢰가 남아 있으니 산과 시골에서는 포장도로와 표시된 길을 벗어나지 마세요.', 'Cities are safe. Landmines from the war remain, however—in the countryside and mountains never leave paved roads and marked paths.'),
@@ -658,7 +659,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     tipping: T('식당에서는 10% 안팎이 보통입니다.', 'Around 10% is usual in restaurants.'),
     water: WATER_OK,
     shops: T('일요일에도 대부분 엽니다. 유로가 아닌 레우를 씁니다.', 'Most shops open on Sundays. The currency is the leu, not the euro.'),
-    toilets: TOILETS_PAID,
+    toilets: TOILETS_PAID_LOCAL,
     time: TIME_EET,
     safety: T('전반적으로 안전합니다. 부쿠레슈티 북역 주변과 구시가지에서는 소매치기와 택시 바가지를 조심하고 앱으로 차를 부르세요. 시골과 산에서는 떠돌이 개와 곰을 조심하세요.', 'Generally safe. Around București Nord and the old town watch for pickpockets and taxi scams—use a ride app. In the countryside and mountains beware of stray dogs and bears.'),
     entry: ENTRY_SCHENGEN,
@@ -667,7 +668,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
 
   // —— Türkiye & the Caucasus ——
   tr: {
-    emergency: [E112, num('155', '경찰', 'Police')],
+    emergency: [E112],
     embassy: EMB.tr,
     power: POWER_CF,
     tipping: T('식당에서는 5~10%가 보통이고 현금으로 줍니다. 택시는 금액을 올림합니다.', '5–10% in restaurants, given in cash. Round up for taxis.'),
