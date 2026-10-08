@@ -149,6 +149,19 @@ export interface CityHighlight {
   group?: { ko: string; en: string }
 }
 
+/** One day (or side trip) of a suggested city itinerary. */
+export interface ItineraryDay {
+  title?: { ko: string; en: string }
+  /** Highlight ids in walking order. */
+  stops: string[]
+  /** Out-of-town trip that needs its own transport. */
+  trip?: boolean
+}
+
+export interface CityItinerary {
+  days: ItineraryDay[]
+}
+
 /** Practical visiting info for a highlight (shown under its card). */
 export interface HighlightVisit {
   /** Suggested time on site in minutes, [min, max]. */

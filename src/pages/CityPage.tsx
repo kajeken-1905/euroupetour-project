@@ -14,6 +14,7 @@ import { getCityTransit } from '../data/transit'
 import { getCityHubs } from '../data/hubs'
 import { getCityRoutes } from '../data/routes'
 import { RoutesPanel } from '../components/RoutesPanel'
+import { ItineraryPanel } from '../components/ItineraryPanel'
 import { t } from '../i18n/ui'
 import type { CategoryId } from '../types'
 
@@ -73,6 +74,8 @@ export function CityPage() {
           </div>
         </div>
       </header>
+
+      <ItineraryPanel city={city} />
 
       <p className="section-label">{t('highlights', lang)}</p>
       <p className="phase-note" style={{ marginTop: 0 }}>

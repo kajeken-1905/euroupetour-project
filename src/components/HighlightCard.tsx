@@ -4,7 +4,7 @@ import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
 import { getHighlightVisit } from '../data/visit'
 
-const DAYS: Record<string, { ko: string; en: string }> = {
+export const DAYS: Record<string, { ko: string; en: string }> = {
   mon: { ko: '월', en: 'Mon' },
   tue: { ko: '화', en: 'Tue' },
   wed: { ko: '수', en: 'Wed' },
@@ -73,7 +73,7 @@ export function HighlightCard({ highlight }: { highlight: CityHighlight }) {
   const visit = getHighlightVisit(highlight.id)
 
   return (
-    <article className="highlight-card">
+    <article className="highlight-card" id={highlight.id}>
       <a
         className="highlight-card-main"
         href={highlight.mapsUrl}

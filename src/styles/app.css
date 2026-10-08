@@ -2318,3 +2318,96 @@ button.back-link {
     grid-column: span 2;
   }
 }
+
+/* —— Suggested itinerary —— */
+.itinerary-panel {
+  margin: 0 0 18px;
+}
+
+.itinerary-days {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.itinerary-day + .itinerary-day,
+.itinerary-more {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+.itinerary-more {
+  margin-top: 12px;
+}
+
+.itinerary-day-title {
+  margin: 0 0 8px;
+  font-size: 13px;
+  font-weight: 800;
+  color: #14110f;
+}
+
+.theme-page .itinerary-day-title {
+  color: var(--c-primary);
+}
+
+.itinerary-stops {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+
+.itinerary-stop-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.itinerary-arrow {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.itinerary-stop {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  padding: 5px 11px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 650;
+  color: #14110f;
+  cursor: pointer;
+}
+
+.itinerary-stop:hover {
+  background: rgba(20, 17, 15, 0.05);
+}
+
+.itinerary-stop-more {
+  font-weight: 500;
+  color: #3d342c;
+}
+
+.itinerary-total,
+.itinerary-closed {
+  margin: 8px 0 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #3d342c;
+}
+
+.itinerary-closed {
+  margin-top: 3px;
+  color: #8a3b2c;
+}
+
+.itinerary-note {
+  margin: 12px 0 0;
+  font-size: 11px;
+  line-height: 1.45;
+  color: var(--muted);
+}
