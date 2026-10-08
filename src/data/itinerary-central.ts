@@ -8,17 +8,17 @@ export const itineraryCentral: Record<string, RawItinerary> = {
       ['박물관 광장|Museum Quarter', 7, 6, 3],
     ],
   },
-  rotterdam: [3, 1, 5, 6, 4, 2],
+  rotterdam: [3, 1, 4, 2, 5, 6],
   'the-hague': {
     days: [
       ['시내|City centre', 5, 3, 7, 1, 2],
       ['마뒤로담과 스헤베닝언|Madurodam & Scheveningen', 6, 4],
     ],
   },
-  utrecht: [3, 2, 1, 5, 4, 6],
+  utrecht: [3, 4, 2, 1, 5, 6],
   haarlem: [3, 1, 4, 5, 6, 2],
   delft: [3, 1, 5, 4, 6, 2],
-  maastricht: [1, 4, 3, 5, 6, 2],
+  maastricht: [6, 1, 4, 3, 5, 2],
   giethoorn: [1, 2, 3, 4],
   'luxembourg-city': [6, 5, 1, 2, 3, 7, 4],
   vianden: [3, 1, 4, 2],
@@ -53,7 +53,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   },
   munich: {
     days: [
-      ['시내|City centre', 4, 2, 5, 1, 6],
+      ['시내|City centre', 2, 4, 6, 1, 5],
       ['님펜부르크|Nymphenburg', 3],
     ],
   },

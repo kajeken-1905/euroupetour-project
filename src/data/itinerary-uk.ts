@@ -45,7 +45,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
       ['케직과 얼스워터|Keswick & Ullswater', 4, 5],
     ],
   },
-  'st-ives': { days: [['', 1, 2, 3]], trips: [['세인트 마이클스 마운트와 랜즈 엔드|St Michael’s Mount & Land’s End', 4, 5]] },
+  'st-ives': { days: [['', 3, 1, 2]], trips: [['세인트 마이클스 마운트와 랜즈 엔드|St Michael’s Mount & Land’s End', 4, 5]] },
   glasgow: [5, 1, 3, 2, 4],
   stirling: { days: [['', 1, 3, 2]], trips: [['켈피스|The Kelpies', 4]] },
   'st-andrews': [2, 4, 1, 3],

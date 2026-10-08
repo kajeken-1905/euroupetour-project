@@ -52,7 +52,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   plitvice: { days: [['', 1, 3, 2]], trips: [['라스토케|Rastoke', 4]] },
   istanbul: {
     days: [
-      ['술탄아흐메트|Sultanahmet', 1, 2, 6, 3],
+      ['술탄아흐메트|Sultanahmet', 6, 1, 2, 3],
       ['갈라타와 보스포루스|Galata & the Bosphorus', 5, 4],
     ],
   },
@@ -131,7 +131,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   bitola: [3, 5, 1, 4, 2],
   tetovo: { days: [['', 1, 5, 4, 2]], trips: [['샤르 산맥|Šar Mountains', 3]] },
   nicosia: [4, 1, 5, 3, 2],
-  limassol: [3, 1, 2, 4, 5],
+  limassol: { days: [['', 3, 1, 2, 4]], trips: [['와인 박물관|Wine Museum', 5]] },
   paphos: { days: [['', 3, 2, 1, 4]], trips: [['아프로디테 바위|Aphrodite’s Rock', 5]] },
   'ayia-napa': [1, 3, 4, 2, 5],
   tirana: { days: [['', 5, 1, 4, 2]], trips: [['다이티 산|Mount Dajti', 3]] },
