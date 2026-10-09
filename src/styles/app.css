@@ -2860,3 +2860,28 @@ button.back-link {
   flex: 1 1 auto;
   min-width: 0;
 }
+
+.trip-plan-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.trip-plan-head .trip-city {
+  margin-bottom: 0;
+}
+
+.trip-confirm {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
+.trip-plan-head .plan-btn,
+.search-group-head .plan-btn {
+  padding: 6px 12px;
+  font-size: 12px;
+}

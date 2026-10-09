@@ -90,6 +90,11 @@ export function setPlan(cityId: string, days: PlanDay[] | undefined) {
   commit({ ...data, plans })
 }
 
+/** Drop every city's plan; favourites are kept. */
+export function clearPlans() {
+  commit({ ...data, plans: {} })
+}
+
 /** Merge an imported backup: favourites are combined, plans in the file replace same-city plans. */
 export function mergeTrip(incoming: TripData) {
   commit({

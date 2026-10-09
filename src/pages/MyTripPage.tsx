@@ -7,7 +7,7 @@ import { cities, getCity } from '../data/cities'
 import { getPlace } from '../data/places'
 import { t } from '../i18n/ui'
 import type { City, CityHighlight, Place } from '../types'
-import { mergeTrip, parseTrip, useTrip } from '../trip/store'
+import { clearPlans, mergeTrip, parseTrip, setPlan, useTrip } from '../trip/store'
 
 let highlightCity: Map<string, City> | undefined
 
@@ -23,6 +23,8 @@ export function MyTripPage() {
   const navigate = useNavigate()
   const fileRef = useRef<HTMLInputElement>(null)
   const [message, setMessage] = useState('')
+  // What a delete button is waiting to confirm: a city id, or 'all' for the reset button.
+  const [confirming, setConfirming] = useState<string | null>(null)
 
   const plans = Object.entries(trip.plans)
     .map(([cityId, days]) => ({ city: getCity(cityId), days }))
@@ -84,16 +86,67 @@ export function MyTripPage() {
 
       {plans.length > 0 ? (
         <section className="search-group">
-          <p className="section-label">
-            {t('planTitle', lang)} {plans.length}
-          </p>
+          <div className="search-group-head">
+            <p className="section-label">
+              {t('planTitle', lang)} {plans.length}
+            </p>
+            {confirming === 'all' ? (
+              <span className="trip-confirm">
+                <button
+                  type="button"
+                  className="plan-btn plan-btn-danger"
+                  onClick={() => {
+                    clearPlans()
+                    setConfirming(null)
+                  }}
+                >
+                  {t('tripResetConfirm', lang)}
+                </button>
+                <button type="button" className="plan-btn" onClick={() => setConfirming(null)}>
+                  {t('planCancel', lang)}
+                </button>
+              </span>
+            ) : (
+              <button type="button" className="plan-btn" onClick={() => setConfirming('all')}>
+                {t('tripReset', lang)}
+              </button>
+            )}
+          </div>
           {plans.map(({ city, days }) => {
             const names = new Map<string, string>(city.highlights.map((h) => [h.id, h.name[lang]]))
             return (
               <div key={city.id} className="transit-card trip-plan">
-                <Link className="trip-city" to={`/city/${city.id}`}>
-                  {city.name[lang]} →
-                </Link>
+                <div className="trip-plan-head">
+                  <Link className="trip-city" to={`/city/${city.id}`}>
+                    {city.name[lang]} →
+                  </Link>
+                  {confirming === city.id ? (
+                    <span className="trip-confirm">
+                      <button
+                        type="button"
+                        className="plan-btn plan-btn-danger"
+                        onClick={() => {
+                          setPlan(city.id, undefined)
+                          setConfirming(null)
+                        }}
+                      >
+                        {t('planClearConfirm', lang)}
+                      </button>
+                      <button type="button" className="plan-btn" onClick={() => setConfirming(null)}>
+                        {t('planCancel', lang)}
+                      </button>
+                    </span>
+                  ) : (
+                    <button
+                      type="button"
+                      className="plan-btn"
+                      aria-label={`${city.name[lang]} — ${t('tripDeletePlan', lang)}`}
+                      onClick={() => setConfirming(city.id)}
+                    >
+                      {t('tripDeletePlan', lang)}
+                    </button>
+                  )}
+                </div>
                 <ol className="itinerary-days">
                   {days.map((day, d) => {
                     const stops = day.stops
