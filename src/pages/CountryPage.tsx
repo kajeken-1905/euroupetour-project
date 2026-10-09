@@ -8,6 +8,7 @@ import { PhrasePanel } from '../components/PhrasePanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
+import { OfflinePanel } from '../components/OfflinePanel'
 import { getCountryEssentials } from '../data/essentials'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
@@ -154,6 +155,8 @@ export function CountryPage() {
       {transit ? <TransitCountryPanel transit={transit} /> : null}
 
       {essentials ? <EssentialsPanel essentials={essentials} /> : null}
+
+      <OfflinePanel countryId={country.id} />
 
       <p className="section-label">{t('cities', lang)}</p>
       {country.cityGroups ? (

@@ -2,6 +2,7 @@ import { useEffect, useRef } from 'react'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
+import { UpdateBanner } from './UpdateBanner'
 
 const ADMIN_EMAIL = 'kajeken@gmail.com'
 
@@ -28,6 +29,7 @@ export function AppShell() {
         <div className="phone-content" ref={contentRef}>
           <Outlet />
         </div>
+        <UpdateBanner />
         <footer className="admin-footer">
           <p className="admin-footer-line">
             admin:{' '}

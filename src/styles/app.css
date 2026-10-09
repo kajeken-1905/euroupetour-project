@@ -2411,3 +2411,87 @@ button.back-link {
   line-height: 1.45;
   color: var(--muted);
 }
+
+/* —— Offline —— */
+.update-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 16px;
+  background: #14110f;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.update-banner button {
+  border: 0;
+  border-radius: 999px;
+  padding: 6px 14px;
+  background: #fff;
+  color: #14110f;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.offline-intro {
+  margin: 0 0 12px;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.offline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.offline-button {
+  border: 0;
+  border-radius: 999px;
+  padding: 9px 16px;
+  background: #14110f;
+  color: #fff;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.theme-page .offline-button {
+  background: var(--c-primary);
+}
+
+.offline-button-quiet,
+.theme-page .offline-button-quiet {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: #3d342c;
+  font-weight: 600;
+}
+
+.offline-saved {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.offline-progress {
+  display: grid;
+  gap: 6px;
+  font-size: 12px;
+  color: #3d342c;
+}
+
+.offline-progress progress {
+  width: 100%;
+  height: 8px;
+}
+
+.offline-failed {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: #8a3b2c;
+}
