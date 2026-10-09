@@ -149,6 +149,22 @@ export interface CityHighlight {
   group?: { ko: string; en: string }
 }
 
+export type SeasonRating = 'best' | 'ok' | 'avoid'
+
+/** One month of a city's travel-season summary. */
+export interface SeasonMonth {
+  high: number
+  low: number
+  wetDays: number
+  daylight: number
+  rating: SeasonRating
+}
+
+export interface CitySeason {
+  months: SeasonMonth[]
+  note?: { ko: string; en: string }
+}
+
 /** One day (or side trip) of a suggested city itinerary. */
 export interface ItineraryDay {
   title?: { ko: string; en: string }
