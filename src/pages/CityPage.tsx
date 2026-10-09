@@ -1,5 +1,5 @@
-import { Fragment, useMemo, useState, type CSSProperties } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Fragment, useEffect, useMemo, useState, type CSSProperties } from 'react'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import { getCity } from '../data/cities'
 import { getCountry } from '../data/countries'
 import { getPlacesByCityAndCategory } from '../data/places'
@@ -30,6 +30,16 @@ export function CityPage() {
     [city, category],
   )
   const transit = city ? getCityTransit(city.id) : undefined
+
+  // Arriving from search: jump to the highlight once the shell has reset its scroll position.
+  const highlightId = (useLocation().state as { highlightId?: string } | null)?.highlightId
+  useEffect(() => {
+    if (!highlightId) return
+    const timer = setTimeout(() => {
+      document.getElementById(highlightId)?.scrollIntoView({ block: 'center' })
+    }, 60)
+    return () => clearTimeout(timer)
+  }, [highlightId, cityId])
 
   if (!city || !country) {
     return (

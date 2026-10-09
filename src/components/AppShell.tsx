@@ -14,6 +14,7 @@ export function AppShell() {
     pathname === '/' ||
     pathname === '/countries' ||
     pathname === '/map' ||
+    pathname === '/search' ||
     pathname.startsWith('/country/') ||
     pathname.startsWith('/city/') ||
     pathname.startsWith('/place/')
@@ -48,6 +49,7 @@ export function AppShell() {
           </NavLink>
           <NavLink to="/countries">{t('countries', lang)}</NavLink>
           <NavLink to="/map">{t('map', lang)}</NavLink>
+          <NavLink to="/search">{t('search', lang)}</NavLink>
         </nav>
       </div>
     </div>
