@@ -73,10 +73,10 @@
   right: auto;
   bottom: auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 6px;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 4px;
   margin: 0;
-  padding: 10px 12px calc(10px + var(--safe-bottom));
+  padding: 10px 8px calc(10px + var(--safe-bottom));
   border-radius: 0;
   background: #ffffff;
   backdrop-filter: none;
@@ -93,8 +93,9 @@
   width: 100%;
   min-width: 0;
   text-align: center;
-  padding: 12px 8px;
+  padding: 12px 2px;
   border-radius: 14px;
+  white-space: nowrap;
   color: var(--muted);
   font-size: 13px;
   font-weight: 600;
@@ -2676,4 +2677,186 @@ button.back-link {
   margin: 10px 0 0;
   font-size: 13px;
   line-height: 1.45;
+}
+
+/* —— Favourites and personal plans —— */
+.fav-btn {
+  flex: 0 0 auto;
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: #fff;
+  color: #8b7fa8;
+  font-size: 17px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.fav-btn.is-saved {
+  border-color: #ff2d95;
+  color: #ff2d95;
+}
+
+.highlight-card {
+  position: relative;
+}
+
+.fav-btn-float {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border-color: transparent;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 2px 8px rgba(20, 17, 15, 0.18);
+}
+
+.place-card-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.place-card-head h2 {
+  margin: 0;
+}
+
+.plan-day-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.plan-text-btn {
+  flex: 0 0 auto;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font-size: 12px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.plan-stops {
+  display: grid;
+  gap: 6px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.plan-stop {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.plan-stop-name {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  color: inherit;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.plan-icon-btn {
+  flex: 0 0 auto;
+  width: 32px;
+  height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  color: #5b4f78;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.plan-icon-btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.plan-add {
+  width: 100%;
+  margin-top: 8px;
+  padding: 8px 10px;
+  border: 1px dashed #c9bfe0;
+  border-radius: 10px;
+  background: #fff;
+  color: #5b4f78;
+  font: inherit;
+  font-size: 13px;
+}
+
+.plan-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.plan-btn {
+  padding: 9px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: #2a2140;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.plan-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.plan-btn-danger {
+  border-color: #d92d5b;
+  background: #d92d5b;
+  color: #fff;
+}
+
+.trip-plan,
+.trip-fav-group {
+  margin-top: 10px;
+}
+
+.trip-city {
+  display: inline-block;
+  margin-bottom: 6px;
+  color: inherit;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.trip-stops {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.trip-fav {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.trip-fav .search-item {
+  flex: 1 1 auto;
+  min-width: 0;
 }

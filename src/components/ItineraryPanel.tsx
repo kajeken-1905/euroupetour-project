@@ -3,11 +3,12 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { getCityItinerary } from '../data/itinerary'
 import { getHighlightVisit } from '../data/visit'
 import { t } from '../i18n/ui'
+import { setPlan, useTrip } from '../trip/store'
 import { DAYS } from './HighlightCard'
 
 const HALF_DAY_MINUTES = 240
 
-function dayMinutes(day: ItineraryDay): [number, number] {
+export function dayMinutes(day: ItineraryDay): [number, number] {
   let min = 0
   let max = 0
   for (const id of day.stops) {
@@ -20,7 +21,7 @@ function dayMinutes(day: ItineraryDay): [number, number] {
   return [min, max]
 }
 
-function hours([min, max]: [number, number], lang: Lang) {
+export function hours([min, max]: [number, number], lang: Lang) {
   const h = (m: number) => Math.max(0.5, Math.round(m / 30) / 2)
   const a = h(min)
   const b = h(max)
@@ -29,7 +30,7 @@ function hours([min, max]: [number, number], lang: Lang) {
 }
 
 /** "월요일 휴무: 로댕 미술관" lines for the stops of one day. */
-function closures(day: ItineraryDay, byId: Map<string, CityHighlight>, lang: Lang) {
+export function closures(day: ItineraryDay, byId: Map<string, CityHighlight>, lang: Lang) {
   const byDay = new Map<string, string[]>()
   for (const id of day.stops) {
     const closed = getHighlightVisit(id)?.closed
@@ -46,12 +47,13 @@ function closures(day: ItineraryDay, byId: Map<string, CityHighlight>, lang: Lan
     )
 }
 
-function jump(id: string) {
+export function jump(id: string) {
   document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'center' })
 }
 
 export function ItineraryPanel({ city }: { city: City }) {
   const { lang } = useLanguage()
+  const hasPlan = city.id in useTrip().plans
   const itinerary = getCityItinerary(city.id)
   if (!itinerary) return null
 
@@ -130,6 +132,17 @@ export function ItineraryPanel({ city }: { city: City }) {
           </div>
         ) : null}
         <p className="itinerary-note">{t('itineraryNote', lang)}</p>
+        {hasPlan ? null : (
+          <div className="plan-actions">
+            <button
+              type="button"
+              className="plan-btn"
+              onClick={() => setPlan(city.id, days.map((d) => ({ ...(d.title ? { title: d.title } : {}), stops: d.stops })))}
+            >
+              {t('planImport', lang)}
+            </button>
+          </div>
+        )}
       </div>
     </section>
   )

@@ -4,6 +4,7 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { RatingStars } from './RatingStars'
 import { PlaceThumb } from './PlaceThumb'
 import { MapLinks } from './MapLinks'
+import { FavoriteButton } from './FavoriteButton'
 import { t } from '../i18n/ui'
 
 export function PlaceCard({ place }: { place: Place }) {
@@ -12,9 +13,12 @@ export function PlaceCard({ place }: { place: Place }) {
   return (
     <article className="place-card">
       <div className="place-card-body">
-        <Link to={`/place/${place.id}`}>
-          <h3>{place.name}</h3>
-        </Link>
+        <div className="place-card-head">
+          <Link to={`/place/${place.id}`}>
+            <h3>{place.name}</h3>
+          </Link>
+          <FavoriteButton kind="places" id={place.id} />
+        </div>
         <p className="desc">{place.description[lang]}</p>
         <p className="addr">{place.address}</p>
         {place.reviewCount ? (

@@ -8,6 +8,7 @@ import { PlaceThumb } from '../components/PlaceThumb'
 import { MapLinks } from '../components/MapLinks'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
+import { FavoriteButton } from '../components/FavoriteButton'
 import { t } from '../i18n/ui'
 import { CATEGORIES } from '../types'
 
@@ -59,7 +60,10 @@ export function PlacePage() {
         <p className="section-label">
           {category ? (lang === 'ko' ? category.ko : category.en) : ''}
         </p>
-        <h2>{place.name}</h2>
+        <div className="place-card-head">
+          <h2>{place.name}</h2>
+          <FavoriteButton kind="places" id={place.id} />
+        </div>
         <RatingStars rating={place.rating} />
         {place.reviewCount ? (
           <p className="addr" style={{ marginTop: 6 }}>

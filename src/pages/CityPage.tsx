@@ -16,6 +16,7 @@ import { getCityRoutes } from '../data/routes'
 import { RoutesPanel } from '../components/RoutesPanel'
 import { ItineraryPanel } from '../components/ItineraryPanel'
 import { SeasonPanel } from '../components/SeasonPanel'
+import { MyPlanPanel } from '../components/MyPlanPanel'
 import { t } from '../i18n/ui'
 import type { CategoryId } from '../types'
 
@@ -87,6 +88,8 @@ export function CityPage() {
       </header>
 
       <SeasonPanel city={city} />
+
+      <MyPlanPanel city={city} />
 
       <ItineraryPanel city={city} />
 

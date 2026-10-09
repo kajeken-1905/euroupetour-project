@@ -3,6 +3,7 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
 import { getHighlightVisit } from '../data/visit'
+import { FavoriteButton } from './FavoriteButton'
 
 export const DAYS: Record<string, { ko: string; en: string }> = {
   mon: { ko: '월', en: 'Mon' },
@@ -93,6 +94,7 @@ export function HighlightCard({ highlight }: { highlight: CityHighlight }) {
           <span className="highlight-card-maps">{t('openMaps', lang)}</span>
         </div>
       </a>
+      <FavoriteButton kind="highlights" id={highlight.id} className="fav-btn-float" />
       {visit ? <VisitInfo visit={visit} /> : null}
     </article>
   )

@@ -7,6 +7,7 @@ import { CountriesPage } from './pages/CountriesPage'
 import { CountryPage } from './pages/CountryPage'
 import { CityPage } from './pages/CityPage'
 import { PlacePage } from './pages/PlacePage'
+import { MyTripPage } from './pages/MyTripPage'
 import { SearchPage } from './pages/SearchPage'
 import './styles/tokens.css'
 import './styles/app.css'
@@ -30,6 +31,7 @@ export default function App() {
               }
             />
             <Route path="search" element={<SearchPage />} />
+            <Route path="trip" element={<MyTripPage />} />
             <Route path="country/:countryId" element={<CountryPage />} />
             <Route path="city/:cityId" element={<CityPage />} />
             <Route path="place/:placeId" element={<PlacePage />} />
