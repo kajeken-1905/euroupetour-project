@@ -4,7 +4,7 @@ import { getCity } from '../data/cities'
 import { t } from '../i18n/ui'
 import type { CityRoute, RouteMode } from '../types'
 
-const MODE_ICON: Record<RouteMode, string> = {
+export const MODE_ICON: Record<RouteMode, string> = {
   train: '🚆',
   bus: '🚌',
   ferry: '⛴️',
@@ -12,7 +12,7 @@ const MODE_ICON: Record<RouteMode, string> = {
   flight: '✈️',
 }
 
-function duration(minutes: number, lang: 'ko' | 'en'): string {
+export function duration(minutes: number, lang: 'ko' | 'en'): string {
   const h = Math.floor(minutes / 60)
   const m = minutes % 60
   if (lang === 'ko') return `약 ${h ? `${h}시간` : ''}${h && m ? ' ' : ''}${m ? `${m}분` : ''}`

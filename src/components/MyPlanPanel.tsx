@@ -1,3 +1,4 @@
+import { directionsUrl } from '../utils/directions'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { City } from '../types'
@@ -51,6 +52,9 @@ export function MyPlanPanel({ city }: { city: City }) {
           {days.map((day, d) => {
             const stops = day.stops.filter(known)
             const visible: PlanDay = { ...day, stops }
+            const directions = directionsUrl(
+              stops.map((id) => (highlightById.get(id) ?? placeById.get(id))!.mapsUrl),
+            )
             const total = dayMinutes(visible)
             const heading = [t('itineraryDayN', lang).replace('{n}', String(d + 1)), day.title?.[lang]]
               .filter(Boolean)
@@ -119,6 +123,11 @@ export function MyPlanPanel({ city }: { city: City }) {
                 {closures(visible, highlightById, lang).map((line) => (
                   <p key={line} className="itinerary-closed">🗓 {line}</p>
                 ))}
+                {directions ? (
+                  <a className="plan-map-link" href={directions} target="_blank" rel="noopener noreferrer">
+                    🗺 {t('planDirections', lang)} ↗
+                  </a>
+                ) : null}
                 {canAdd ? (
                   <select
                     className="plan-add"

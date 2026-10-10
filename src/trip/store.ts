@@ -13,6 +13,8 @@ export interface TripData {
   places: string[]
   /** City id → the user's own day-by-day plan. */
   plans: Record<string, PlanDay[]>
+  /** City ids in travel order; a city may appear twice (a round trip). */
+  route: string[]
 }
 
 export type FavoriteKind = 'highlights' | 'places'
@@ -43,15 +45,18 @@ export function parseTrip(value: unknown): TripData | undefined {
         })
     }
   }
-  return { highlights: strings(raw.highlights), places: strings(raw.places), plans }
+  const route = Array.isArray(raw.route) ? raw.route.filter((v): v is string => typeof v === 'string') : []
+  return { highlights: strings(raw.highlights), places: strings(raw.places), plans, route }
 }
+
+const EMPTY: TripData = { highlights: [], places: [], plans: {}, route: [] }
 
 function load(): TripData {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
-    return (raw && parseTrip(JSON.parse(raw))) || { highlights: [], places: [], plans: {} }
+    return (raw && parseTrip(JSON.parse(raw))) || EMPTY
   } catch {
-    return { highlights: [], places: [], plans: {} }
+    return EMPTY
   }
 }
 
@@ -95,11 +100,17 @@ export function clearPlans() {
   commit({ ...data, plans: {} })
 }
 
-/** Merge an imported backup: favourites are combined, plans in the file replace same-city plans. */
+/** Replace the multi-city route. */
+export function setRoute(route: string[]) {
+  commit({ ...data, route })
+}
+
+/** Merge an imported backup: favourites are combined; plans for the same city and a non-empty route come from the file. */
 export function mergeTrip(incoming: TripData) {
   commit({
     highlights: [...new Set([...data.highlights, ...incoming.highlights])],
     places: [...new Set([...data.places, ...incoming.places])],
     plans: { ...data.plans, ...incoming.plans },
+    route: incoming.route.length > 0 ? incoming.route : data.route,
   })
 }

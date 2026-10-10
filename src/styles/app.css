@@ -2891,3 +2891,145 @@ button.back-link {
   font-size: 11px;
   color: #2f8f5b;
 }
+
+/* —— Multi-city route (My trip) —— */
+.tour-stops {
+  list-style: none;
+  margin: 0 0 4px;
+  padding: 0;
+}
+
+.tour-stop {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tour-stop-n {
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #2a2140;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+}
+
+.tour-stop-city {
+  flex: 1 1 auto;
+  min-width: 0;
+  color: inherit;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.tour-stop-days {
+  margin-left: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.tour-leg {
+  display: grid;
+  gap: 6px;
+  margin: 6px 0 6px 11px;
+  padding: 8px 0 8px 18px;
+  border-left: 2px dashed var(--line);
+  color: #3d342c;
+}
+
+.tour-leg-none {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.tour-leg-line {
+  display: grid;
+  gap: 2px;
+}
+
+.tour-input {
+  margin-top: 12px;
+}
+
+.tour-picks {
+  margin-top: 8px;
+}
+
+.tour-pick-label {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.tour-button {
+  margin-top: 10px;
+}
+
+a.plan-btn {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* —— My route on the Europe map —— */
+.map-route-line {
+  fill: none;
+  stroke: #d92d5b;
+  stroke-width: 2px;
+  stroke-dasharray: 5 4;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+  pointer-events: none;
+}
+
+.map-route-marker {
+  pointer-events: none;
+}
+
+.map-route-dot {
+  fill: #d92d5b;
+  stroke: #fff;
+  stroke-width: 1.5px;
+  vector-effect: non-scaling-stroke;
+}
+
+.map-route-n {
+  fill: #fff;
+  font-weight: 700;
+}
+
+.map-route {
+  margin-top: 12px;
+  padding: 12px 16px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+
+.map-route-title {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.map-route-stops {
+  margin: 4px 0 10px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.plan-map-link {
+  display: inline-block;
+  margin-top: 8px;
+  color: #5b4f78;
+  font-size: 13px;
+  font-weight: 650;
+  text-decoration: none;
+}

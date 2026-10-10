@@ -13,6 +13,7 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { getCityTransit } from '../data/transit'
 import { getCityHubs } from '../data/hubs'
 import { getCityRoutes } from '../data/routes'
+import { TourButton } from '../components/TourButton'
 import { RoutesPanel } from '../components/RoutesPanel'
 import { ItineraryPanel } from '../components/ItineraryPanel'
 import { SeasonPanel } from '../components/SeasonPanel'
@@ -117,6 +118,7 @@ export function CityPage() {
       ) : null}
 
       <RoutesPanel routes={getCityRoutes(city.id)} />
+      <TourButton cityId={city.id} />
 
       <p className="section-label" style={{ marginTop: 22 }}>
         {t('foodGuide', lang)}

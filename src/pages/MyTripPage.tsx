@@ -2,10 +2,12 @@ import { useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { FavoriteButton } from '../components/FavoriteButton'
+import { TourPanel } from '../components/TourPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 import { cities, getCity } from '../data/cities'
 import { getPlace } from '../data/places'
 import { t } from '../i18n/ui'
+import { directionsUrl } from '../utils/directions'
 import type { City, CityHighlight, Place } from '../types'
 import { clearPlans, mergeTrip, parseTrip, setPlan, useTrip } from '../trip/store'
 
@@ -72,6 +74,7 @@ export function MyTripPage() {
   }
 
   const empty = plans.length === 0 && groups.size === 0
+  const nothingToExport = empty && trip.route.length === 0
 
   return (
     <div className="search-page">
@@ -81,6 +84,8 @@ export function MyTripPage() {
           <LanguageToggle />
         </div>
       </header>
+
+      <TourPanel />
 
       {empty ? <div className="empty-state">{t('tripEmpty', lang)}</div> : null}
 
@@ -114,6 +119,7 @@ export function MyTripPage() {
           </div>
           {plans.map(({ city, days }) => {
             const names = new Map<string, string>(city.highlights.map((h) => [h.id, h.name[lang]]))
+            const mapsUrls = new Map<string, string>(city.highlights.map((h) => [h.id, h.mapsUrl]))
             return (
               <div key={city.id} className="transit-card trip-plan">
                 <div className="trip-plan-head">
@@ -152,6 +158,11 @@ export function MyTripPage() {
                     const stops = day.stops
                       .map((id) => names.get(id) ?? getPlace(id)?.name)
                       .filter((n): n is string => !!n)
+                    const directions = directionsUrl(
+                      day.stops
+                        .map((id) => mapsUrls.get(id) ?? getPlace(id)?.mapsUrl)
+                        .filter((u): u is string => !!u),
+                    )
                     return (
                       <li key={d} className="itinerary-day">
                         <p className="itinerary-day-title">
@@ -160,6 +171,11 @@ export function MyTripPage() {
                             .join(' · ')}
                         </p>
                         <p className="trip-stops">{stops.length ? stops.join(' → ') : t('planEmptyDay', lang)}</p>
+                        {directions ? (
+                          <a className="plan-map-link" href={directions} target="_blank" rel="noopener noreferrer">
+                            🗺 {t('planDirections', lang)} ↗
+                          </a>
+                        ) : null}
                       </li>
                     )
                   })}
@@ -214,7 +230,7 @@ export function MyTripPage() {
         <div className="transit-card">
           <p className="itinerary-note" style={{ marginTop: 0 }}>{t('tripBackupNote', lang)}</p>
           <div className="plan-actions">
-            <button type="button" className="plan-btn" onClick={exportFile} disabled={empty}>
+            <button type="button" className="plan-btn" onClick={exportFile} disabled={nothingToExport}>
               {t('tripExport', lang)}
             </button>
             <button type="button" className="plan-btn" onClick={() => fileRef.current?.click()}>

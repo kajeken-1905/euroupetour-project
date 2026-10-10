@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
+import { ComposableMap, Geographies, Geography, Line, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
 import { geoArea, geoCentroid, geoMercator, geoPath } from 'd3-geo'
 import type { Topology } from 'topojson-specification'
@@ -11,6 +11,7 @@ import { cities } from '../data/cities'
 import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '../data/countryIsoMap'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
+import { useTrip } from '../trip/store'
 import { hexToRgba } from '../utils/color'
 import { assetUrl } from '../utils/assetUrl'
 import { t } from '../i18n/ui'
@@ -35,6 +36,8 @@ const SELECTED_ZOOM = 4
 const MAX_ZOOM = 6
 /** Shrinks the fit-to-screen target box a bit so a selected country isn't flush against the edges. */
 const FIT_MARGIN = 0.85
+/** Zoom used when the route is a single city (or several at the same spot). */
+const ROUTE_POINT_ZOOM = 4
 /** Fixed screen position for the selected-country label, in the map's own viewBox units. */
 const LABEL_ANCHOR: [number, number] = [MAP_WIDTH / 2, 18]
 
@@ -138,6 +141,9 @@ export function EuropeMap() {
   const { data: visitedData } = useVisitedPlaces()
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
+  const trip = useTrip()
+  // Whether the view is framed on the user's multi-city route instead of all of Europe.
+  const [routeView, setRouteView] = useState(false)
 
   // A country reads as "visited" once it has its own visit record, or any of
   // its cities does — marking a city visited implies its country was too.
@@ -239,7 +245,43 @@ export function EuropeMap() {
 
   const selectedCities = selectedId ? (citiesByCountry.get(selectedId) ?? []) : []
 
+  // The user's route, numbered in travel order. Iceland sits in an inset rather than at its true
+  // position, so its cities are left off the map (they keep their number in the list below it).
+  const routeStops = useMemo(
+    () =>
+      trip.route.map((id, i) => {
+        const city = cities.find((c) => c.id === id)
+        const onMap = city && city.countryId !== 'is' && city.lat !== undefined && city.lng !== undefined
+        return city
+          ? { n: i + 1, id: city.id, name: city.name, at: onMap ? ([city.lng!, city.lat!] as [number, number]) : null }
+          : null
+      }),
+    [trip.route],
+  )
+  const routeLegs = useMemo(() => {
+    const legs: [[number, number], [number, number]][] = []
+    for (let i = 1; i < routeStops.length; i += 1) {
+      const from = routeStops[i - 1]?.at
+      const to = routeStops[i]?.at
+      if (from && to && (from[0] !== to[0] || from[1] !== to[1])) legs.push([from, to])
+    }
+    return legs
+  }, [routeStops])
+  const routeFit = useMemo(() => {
+    const projection = geoMercator().center(DEFAULT_CENTER).scale(570).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])
+    const points = routeStops.flatMap((stop) => (stop?.at ? [projection(stop.at)!] : []))
+    if (points.length === 0) return null
+    const xs = points.map((p) => p[0])
+    const ys = points.map((p) => p[1])
+    const width = Math.max(...xs) - Math.min(...xs)
+    const height = Math.max(...ys) - Math.min(...ys)
+    const center = projection.invert!([(Math.max(...xs) + Math.min(...xs)) / 2, (Math.max(...ys) + Math.min(...ys)) / 2])!
+    const fit = Math.min((MAP_WIDTH * 0.7) / Math.max(width, 1), (MAP_HEIGHT * 0.7) / Math.max(height, 1))
+    return { center: center as [number, number], zoom: Math.min(Math.max(fit, 1), width + height < 2 ? ROUTE_POINT_ZOOM : MAX_ZOOM) }
+  }, [routeStops])
+
   const handleSelect = (countryId: string) => {
+    setRouteView(false)
     if (selectedId === countryId) {
       navigate(`/country/${countryId}`)
     } else {
@@ -267,7 +309,7 @@ export function EuropeMap() {
 
   useEffect(() => {
     if (selectedId === null) {
-      setMapView({ center: DEFAULT_CENTER, zoom: 1 })
+      setMapView(routeView && routeFit ? routeFit : { center: DEFAULT_CENTER, zoom: 1 })
       return
     }
     if (selectedId === 'is') return
@@ -283,7 +325,7 @@ export function EuropeMap() {
       zoom = Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
     }
     setMapView({ center: centroid, zoom })
-  }, [selectedId, centroidById, selectedBounds])
+  }, [selectedId, centroidById, selectedBounds, routeView, routeFit])
 
   const zoomCenter = mapView.center
   const zoomLevel = mapView.zoom
@@ -422,6 +464,25 @@ export function EuropeMap() {
               </Marker>
             )
           })}
+          {routeLegs.map(([from, to], i) => (
+            <Line key={i} from={from} to={to} className="map-route-line" />
+          ))}
+          {routeStops.map((stop) =>
+            stop?.at ? (
+              <Marker key={stop.n} coordinates={stop.at} className="map-route-marker">
+                <circle r={14 / zoomLevel} className="map-route-dot" />
+                <text
+                  className="map-route-n"
+                  textAnchor="middle"
+                  y={5.2 / zoomLevel}
+                  style={{ fontSize: `${15 / zoomLevel}px` }}
+                >
+                  {stop.n}
+                </text>
+                <title>{stop.name[lang]}</title>
+              </Marker>
+            ) : null,
+          )}
         </ZoomableGroup>
         {selectedCountry ? (
           <g className="map-country-label">
@@ -433,7 +494,7 @@ export function EuropeMap() {
             </text>
           </g>
         ) : null}
-        {icelandPath && iceland && (!selectedId || selectedId === 'is') ? (
+        {icelandPath && iceland && !routeView && (!selectedId || selectedId === 'is') ? (
           <g
             className="map-iceland-inset"
             onClick={() => handleSelect('is')}
@@ -481,6 +542,29 @@ export function EuropeMap() {
           </g>
         ) : null}
       </ComposableMap>
+      {routeStops.some(Boolean) ? (
+        <div className="map-route">
+          <p className="map-route-title">{t('mapRoute', lang)}</p>
+          <p className="map-route-stops">
+            {routeStops
+              .flatMap((stop) => (stop ? [`${stop.n} ${stop.name[lang]}`] : []))
+              .join(' → ')}
+          </p>
+          {routeFit ? (
+            <button
+              type="button"
+              className="plan-btn"
+              onClick={() => {
+                setSelectedId(null)
+                setSelectedCityId(null)
+                setRouteView(!routeView)
+              }}
+            >
+              {t(routeView ? 'mapRouteAll' : 'mapRouteFit', lang)}
+            </button>
+          ) : null}
+        </div>
+      ) : null}
     </div>
   )
 }

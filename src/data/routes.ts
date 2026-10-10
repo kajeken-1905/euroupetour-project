@@ -35,3 +35,22 @@ export function getCityRoutes(cityId: string): CityRoute[] {
   }
   return out.sort((x, y) => x.minutes - y.minutes)
 }
+
+/** Direct connections from one city to another, fastest first. */
+export function getRoutesBetween(fromCityId: string, toCityId: string): CityRoute[] {
+  return getCityRoutes(fromCityId).filter((route) => route.toCityId === toCityId)
+}
+
+/**
+ * When two cities have no direct entry: the one-change surface route with the shortest two legs.
+ * The legs are real entries; the time spent changing is not known and is left out.
+ */
+export function getViaRoute(fromCityId: string, toCityId: string): [CityRoute, CityRoute] | undefined {
+  let best: [CityRoute, CityRoute] | undefined
+  for (const first of getCityRoutes(fromCityId)) {
+    if (first.mode === 'flight' || first.toCityId === toCityId) continue
+    const second = getRoutesBetween(first.toCityId, toCityId).find((route) => route.mode !== 'flight')
+    if (second && (!best || first.minutes + second.minutes < best[0].minutes + best[1].minutes)) best = [first, second]
+  }
+  return best
+}
