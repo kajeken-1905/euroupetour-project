@@ -1,0 +1,1 @@
+function e(e,t){let n=e.replace(`#`,``);return`rgba(${parseInt(n.slice(0,2),16)}, ${parseInt(n.slice(2,4),16)}, ${parseInt(n.slice(4,6),16)}, ${t})`}export{e as t};

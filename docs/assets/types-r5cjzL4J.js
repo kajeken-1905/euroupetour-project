@@ -1,0 +1,1 @@
+var e=[{id:`fine_dining`,ko:`로컬푸드`,en:`Local Food`},{id:`korean`,ko:`한국음식점`,en:`Korean Food`},{id:`cafe`,ko:`카페`,en:`Café`},{id:`bakery`,ko:`베이커리`,en:`Bakery`}];export{e as t};
