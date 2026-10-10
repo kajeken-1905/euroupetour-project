@@ -119,7 +119,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Tromsø
   'tromso-h1': v(20, 30, { s: 'https://ishavskatedralen.no/en/' }),
   'tromso-h2': v(60, 90, { c: 'daily', s: 'https://www.fjellheisen.no/', n: '강풍이 불면 운휴합니다.|Stops in high winds.' }),
-  'tromso-h3': v(180, 300, { b: 'rec' }),
+  'tromso-h3': v(180, 300, { s: 'https://www.visittromso.no/boat-tours-tromso', b: 'rec', n: '여러 업체가 연중 운항하고 출발 시각은 계절마다 다릅니다. 겨울 오로라 크루즈는 몇 주 전에 매진되기도 하고 날씨에 따라 취소됩니다.|Several operators sail all year, with departure times changing by season. Winter aurora cruises can sell out weeks ahead and are weather-dependent.', k: '2026-10' }),
   'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/en/' }),
   'tromso-h5': v(45, 60),
   // Stavanger
@@ -141,7 +141,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'alesund-h4': v(30, 45),
   // Flåm
   'flam-h1': v(120, 120, { c: 'daily', b: 'rec', n: '왕복 2시간쯤 걸리고 여름에는 며칠 전에 매진됩니다.|About two hours return; it sells out days ahead in summer.', k: '2026-10' }),
-  'flam-h2': v(120, 120, { b: 'rec' }),
+  'flam-h2': v(120, 120, { s: 'https://www.norwaysbest.com/en/flam/things-to-do/fjord-cruise-naeroyfjord', b: 'rec', n: '연중 운항하지만 겨울에는 편수가 줄어듭니다. 돌아오는 셔틀버스도 함께 예약하세요.|Runs all year with fewer sailings in winter. Book the return shuttle bus at the same time.', k: '2026-10' }),
   'flam-h3': v(60, 90),
   'flam-h4': v(30, 45),
 
@@ -164,7 +164,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'vik-h4': v(15, 20),
   'vik-h5': v(60, 120),
   // Húsavík
-  'husavik-h1': v(180, 180, { b: 'rec', n: '날씨가 나쁘면 출항이 취소됩니다.|Trips are cancelled in bad weather.' }),
+  'husavik-h1': v(180, 180, { b: 'rec', n: '업체에 따라 대략 3~11월에 매일 출항하고 날씨가 나쁘면 취소됩니다. 대개 출발 24시간 전까지 무료로 취소할 수 있습니다.|Depending on the operator, trips run daily from about March to November and are cancelled in bad weather. Free cancellation is usually possible up to 24 hours ahead.', k: '2026-10' }),
   'husavik-h2': v(10, 15),
   'husavik-h3': v(45, 60, { s: 'https://www.hvalasafn.is/en/' }),
   'husavik-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.geosea.is/', k: '2026-10' }),

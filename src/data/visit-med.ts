@@ -153,7 +153,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'tartu-h4': v(45, 60),
   'tartu-h5': v(30, 45),
   'parnu-h1': v(60, 180),
-  'parnu-h2': v(90, 120, { b: 'rec' }),
+  'parnu-h2': v(90, 120, { s: 'https://www.hedonspa.com/en/spa/', b: 'rec', n: '옛 머드 배스 건물에는 지금 헤돈 스파가 있습니다. 머드 트리트먼트는 미리 예약해야 하고 48시간 안에 취소하면 전액이 청구됩니다.|The historic mud-baths building now houses Hedon Spa. Mud treatments should be booked well ahead; cancelling within 48 hours is charged in full.', k: '2026-10' }),
   'parnu-h3': v(45, 60),
   'parnu-h4': v(30, 45),
   'parnu-h5': v(20, 30),

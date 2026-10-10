@@ -61,7 +61,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'chartres-h4': v(60, 90, { s: 'https://www.chartresenlumieres.com/en/', n: '해가 진 뒤에만 볼 수 있는 계절 행사입니다. 기간은 해마다 다릅니다.|A seasonal after-dark event; dates change each year.' }),
   // Reims
   'reims-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.cathedrale-reims.com/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.' }),
-  'reims-h2': v(60, 90, { b: 'req', n: '샴페인 하우스 저장고 투어는 회사별 누리집에서 미리 예약해야 합니다.|Cellar tours must be booked ahead on each champagne house’s own site.' }),
+  'reims-h2': v(60, 90, { s: 'https://www.reims-tourisme.com/champagne-et-oenotourisme/visites-de-grandes-maisons/', b: 'req', n: '샴페인 하우스 저장고 투어는 회사별 누리집에서 미리 예약해야 합니다.|Cellar tours must be booked ahead on each champagne house’s own site.', k: '2026-10' }),
   'reims-h3': v(60, 75, { s: 'https://www.palais-du-tau.fr/en', n: '대규모 보수 공사로 장기간 휴관했던 곳이니 방문 전에 개방 여부를 확인하세요.|Closed for a long restoration—check that it has reopened before you go.' }),
   'reims-h4': v(30, 45),
   'reims-h5': v(180, 240),

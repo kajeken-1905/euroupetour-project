@@ -130,13 +130,13 @@ export const visitIt: Record<string, HighlightVisit> = {
   'modena-h2': v(15, 20),
   'modena-h3': v(75, 90, { c: 'daily', s: 'https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena' }),
   'modena-h4': v(30, 45, { c: 'sun', s: 'https://mercatoalbinelli.it/', k: '2026-10' }),
-  'modena-h5': v(60, 90, { b: 'req', n: '양조장 견학은 각 양조장에 미리 예약해야 합니다.|Visits must be booked ahead with each producer.' }),
+  'modena-h5': v(60, 90, { s: 'https://www.visitmodena.it/en/discover-modena/land-of-flavors/the-vinegar-factories', b: 'req', n: '양조장 견학은 연중 있지만 항상 예약이 필요합니다. 관광 안내소나 각 양조장에 미리 예약하세요. 시청 안 시립 양조장도 예약제입니다.|Tours run all year but always need a reservation—through the tourist office or the producer. The municipal acetaia in the town hall is by reservation too.', k: '2026-10' }),
   // Parma
   'parma-h1': v(30, 45, { b: 'no', s: 'https://www.piazzaduomoparma.com/en/', n: FREE }),
   'parma-h2': v(30, 40, { s: 'https://www.piazzaduomoparma.com/en/' }),
   'parma-h3': v(120, 150, { c: 'mon', s: 'https://complessopilotta.it/en/welcome/', k: '2026-10' }),
   'parma-h4': v(30, 45),
-  'parma-h5': v(90, 120, { b: 'req', n: '치즈 공방 견학은 오전에만 있고 미리 예약해야 합니다.|Dairy tours run in the morning only and must be booked ahead.' }),
+  'parma-h5': v(90, 120, { s: 'https://www.parmigianoreggiano.com/dairies-book-a-guided-tour', b: 'req', n: '치즈 만드는 과정은 오전에 볼 수 있어 견학이 대부분 아침에 있습니다. 협회 누리집에서 공방별로 예약합니다.|Cheese is made in the morning, so most tours start early. Book dairy by dairy on the consortium’s site.', k: '2026-10' }),
   // Ferrara
   'ferrara-h1': v(60, 90, { s: 'https://www.castelloestense.it/en' }),
   'ferrara-h2': v(15, 20),
@@ -274,7 +274,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'polignano-a-mare-h1': v(30, 60),
   'polignano-a-mare-h2': v(45, 60),
   'polignano-a-mare-h3': v(10, 15),
-  'polignano-a-mare-h4': v(10, 120, { b: 'req', n: '동굴 식당은 식사 손님만 들어가고 예약이 필수입니다.|The cave restaurant admits diners only, by reservation.' }),
+  'polignano-a-mare-h4': v(10, 120, { s: 'https://www.grottapalazzese.it/en/', b: 'req', n: '동굴 식당은 식사 손님만 들어가고 공식 누리집에서 예약합니다. 시즌제로 운영하며 저녁에는 남성의 반바지·샌들 차림을 받지 않습니다.|The cave restaurant admits diners only, booked on its own site. It runs seasonally, and men may not wear shorts or sandals at dinner.', k: '2026-10' }),
   // Lecce
   'lecce-h1': v(20, 30, { s: 'https://www.chieselecce.it/en/', n: '산타 크로체와 대성당 등 주요 성당은 통합 입장권으로 봅니다.|Santa Croce, the cathedral and other main churches share one combined ticket.' }),
   'lecce-h2': v(30, 45, { s: 'https://www.chieselecce.it/en/' }),

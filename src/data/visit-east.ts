@@ -82,7 +82,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'timisoara-h5': v(45, 60),
 
   // Istanbul
-  'istanbul-h1': v(60, 75, { c: 'daily', b: 'rec', s: 'https://ayasofyacamii.gov.tr/en', n: '관광객은 유료 입장권으로 2층 회랑만 봅니다. 금요일 낮 예배 시간(대략 12시 30분~14시 30분)에는 닫습니다.|Tourists enter on a paid ticket and see the upper gallery only. Closed around Friday midday prayers (about 12:30–2:30 pm).' }),
+  'istanbul-h1': v(60, 75, { c: 'daily', b: 'rec', s: 'https://ayasofyacamii.gov.tr/en', n: '관광객은 유료 입장권으로 2층 회랑만 봅니다. 예배 일정에 따라 입장이 제한되거나 멈출 수 있어 금요일 낮은 피하는 편이 좋습니다. 뮤지엄 패스는 쓸 수 없고 복장 규정이 있습니다.|Tourists enter on a paid ticket and see the upper gallery only. Entry can be restricted or paused for worship, so avoid Friday midday. Museum passes are not valid and a dress code applies.', k: '2026-10' }),
   'istanbul-h2': v(30, 45, { c: 'daily', b: 'no', n: MOSQUE }),
   'istanbul-h3': v(60, 90, { c: 'sun', b: 'no' }),
   'istanbul-h4': v(90, 120, { n: '에미뇌뉘 선착장에서 떠나는 공영 페리가 가장 쌉니다.|The public ferries from Eminönü are the cheapest option.' }),
@@ -136,7 +136,7 @@ export const visitEast: Record<string, HighlightVisit> = {
 
   // Tbilisi
   'tbilisi-h1': v(45, 60, { n: '복원 공사로 성벽 안쪽이 닫혀 있던 곳입니다. 케이블카로 올라가 전망은 볼 수 있으며, 내부 재개방 여부는 현지에서 확인하세요.|The interior has been closed for restoration. The cable car still gives the view—check locally whether the fortress itself has reopened.' }),
-  'tbilisi-h2': v(60, 90, { b: 'rec', n: '개인실은 미리 예약하는 편이 좋습니다.|Private rooms are best reserved ahead.' }),
+  'tbilisi-h2': v(60, 90, { s: 'https://georgia.travel/tbilisi-sulfur-baths', b: 'rec', n: '비수기에는 바로 들어갈 수도 있지만 개인실은 미리 예약하는 편이 좋습니다. 때밀이(키사)와 마사지는 추가 요금입니다.|Walk-ins are often possible off season, but private rooms are best reserved ahead. The kisa scrub and massage cost extra.', k: '2026-10' }),
   'tbilisi-h3': v(10, 15),
   'tbilisi-h4': v(30, 45, { c: 'daily', b: 'no', n: CHURCH }),
   'tbilisi-h5': v(60, 90),

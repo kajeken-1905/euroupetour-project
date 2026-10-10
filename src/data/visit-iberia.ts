@@ -203,7 +203,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'porto-h2': v(20, 30),
   'porto-h3': v(40, 45, { c: 'daily', s: 'https://www.torredosclerigos.pt/en/', n: '계단 225개를 오릅니다.|A climb of 225 steps.', k: '2026-10' }),
   'porto-h4': v(20, 30, { c: 'daily', b: 'req', s: 'https://livrarialello.pt/en/', n: '입장권을 온라인으로 미리 사야 하고, 책을 사면 입장료만큼 깎아 줍니다.|Buy the entry voucher online first; its value comes off any book you buy.', k: '2026-10' }),
-  'porto-h5': v(60, 90, { b: 'rec', n: '와인 저장고 투어는 각 회사 누리집에서 언어별 시간을 예약합니다.|Cellar tours are booked by language slot on each port house’s own site.' }),
+  'porto-h5': v(60, 90, { b: 'rec', n: '와인 저장고 투어는 각 회사 누리집에서 시간을 예약합니다. 테일러스처럼 오디오 가이드로 예약 없이 들어가는 곳도 있습니다.|Cellar tours are booked by time slot on each port house’s own site; a few, such as Taylor’s, offer walk-in audio tours.', k: '2026-10' }),
   'porto-h6': v(10, 15),
   'porto-h7': v(15, 20),
   'porto-h8': v(30, 45, { c: 'sun', s: 'https://mercadobolhao.pt/en/', k: '2026-10' }),
