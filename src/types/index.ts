@@ -190,6 +190,8 @@ export interface HighlightVisit {
   /** Official ticket / reservation page. */
   tickets?: string
   note?: { ko: string; en: string }
+  /** Month (YYYY-MM) the closed days and booking rule were last checked against the official site. */
+  checked?: string
 }
 
 export interface City {

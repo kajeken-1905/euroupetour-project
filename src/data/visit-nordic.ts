@@ -10,11 +10,11 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Copenhagen
   'copenhagen-h1': v(45, 75, { s: 'https://denkongeligesamling.dk/en/amalienborg-museum/', n: '근위병 교대식은 매일 정오에 광장에서 열립니다. 박물관은 겨울에 월요일 휴관합니다.|The guard changes on the square daily at noon. The museum closes on Mondays in winter.' }),
   'copenhagen-h2': v(30, 45),
-  'copenhagen-h3': v(180, 240, { b: 'rec', s: 'https://www.tivoli.dk/en', n: '여름·핼러윈·크리스마스 시즌에만 문을 열고 그 사이에는 쉽니다.|Open only for the summer, Halloween and Christmas seasons, closing in between.' }),
+  'copenhagen-h3': v(180, 240, { b: 'rec', s: 'https://www.tivoli.dk/en', n: '여름·핼러윈·크리스마스 시즌에만 문을 열고 그 사이에는 쉽니다.|Open only for the summer, Halloween and Christmas seasons, closing in between.', k: '2026-10' }),
   'copenhagen-h4': v(60, 90),
   'copenhagen-h5': v(10, 15),
   'copenhagen-h6': v(90, 120, { n: '탑 전망대는 무료이고 왕실 접견실 등은 유료입니다. 겨울에는 월요일에 쉽니다.|The tower is free; the royal reception rooms are ticketed. Closed on Mondays in winter.' }),
-  'copenhagen-h7': v(30, 45, { c: 'daily', s: 'https://www.rundetaarn.dk/en/front-page/' }),
+  'copenhagen-h7': v(30, 45, { c: 'daily', s: 'https://www.rundetaarn.dk/en/front-page/', k: '2026-10' }),
   // Aarhus
   'aarhus-h1': v(120, 150, { s: 'https://www.aros.dk/en/' }),
   'aarhus-h2': v(150, 180, { c: 'daily', s: 'https://www.dengamleby.dk/en/' }),
@@ -40,10 +40,10 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Stockholm
   'stockholm-h1': v(90, 120, { s: 'https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html', n: '국가 행사가 있으면 일부 또는 전체를 닫습니다. 근위병 교대식은 낮에 바깥뜰에서 열립니다.|Partly or fully closed for state occasions. The guard changes in the outer courtyard around midday.' }),
   'stockholm-h2': v(90, 120),
-  'stockholm-h3': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.vasamuseet.se/en' }),
-  'stockholm-h4': v(75, 90, { c: 'daily', s: 'https://stockholm.fotografiska.com/en' }),
-  'stockholm-h5': v(45, 60, { b: 'rec', s: 'https://stadshuset.stockholm/en/', n: '내부는 가이드 투어로만 보고, 탑은 여름에만 오릅니다.|The interior is by guided tour only; the tower opens in summer only.' }),
-  'stockholm-h6': v(180, 240, { c: 'daily', s: 'https://www.skansen.se/en/' }),
+  'stockholm-h3': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.vasamuseet.se/en', k: '2026-10' }),
+  'stockholm-h4': v(75, 90, { c: 'daily', s: 'https://stockholm.fotografiska.com/en', k: '2026-10' }),
+  'stockholm-h5': v(45, 60, { b: 'rec', s: 'https://stadshuset.stockholm/en/', n: '내부는 가이드 투어로만 보고, 탑은 여름에만 오릅니다.|The interior is by guided tour only; the tower opens in summer only.', k: '2026-10' }),
+  'stockholm-h6': v(180, 240, { c: 'daily', s: 'https://www.skansen.se/en/', k: '2026-10' }),
   'stockholm-h7': v(60, 90),
   // Gothenburg
   'gothenburg-h1': v(20, 30),

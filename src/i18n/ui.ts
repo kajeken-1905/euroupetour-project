@@ -176,6 +176,7 @@ export const ui = {
   visitBooking_recommended: { ko: '예약 권장', en: 'Booking recommended' },
   visitBooking_none: { ko: '예약 불필요', en: 'No booking needed' },
   visitTickets: { ko: '티켓 구매', en: 'Tickets' },
+  visitChecked: { ko: '{y}년 {m}월 공식 안내와 대조함', en: 'Checked against official information, {m}/{y}' },
   visitSite: { ko: '공식 사이트', en: 'Official site' },
   search: { ko: '검색', en: 'Search' },
   searchPlaceholder: { ko: '국가·도시·관광지·맛집 이름', en: 'Country, city, sight or restaurant' },

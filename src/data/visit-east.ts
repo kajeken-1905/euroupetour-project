@@ -86,8 +86,8 @@ export const visitEast: Record<string, HighlightVisit> = {
   'istanbul-h2': v(30, 45, { c: 'daily', b: 'no', n: MOSQUE }),
   'istanbul-h3': v(60, 90, { c: 'sun', b: 'no' }),
   'istanbul-h4': v(90, 120, { n: '에미뇌뉘 선착장에서 떠나는 공영 페리가 가장 쌉니다.|The public ferries from Eminönü are the cheapest option.' }),
-  'istanbul-h5': v(40, 45, { c: 'daily', t: MUZE, n: '시간당 입장 인원이 제한돼 줄이 깁니다.|Hourly numbers are capped, so queues are long.' }),
-  'istanbul-h6': v(150, 180, { c: 'tue', b: 'rec', s: 'https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en', n: '하렘과 아야 이리니 성당이 통합 입장권에 포함됩니다.|The combined ticket includes the Harem and Hagia Irene.' }),
+  'istanbul-h5': v(40, 45, { c: 'daily', t: MUZE, n: '시간당 입장 인원이 제한돼 줄이 깁니다.|Hourly numbers are capped, so queues are long.', k: '2026-10' }),
+  'istanbul-h6': v(150, 180, { c: 'tue', b: 'rec', s: 'https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en', n: '하렘과 아야 이리니 성당이 통합 입장권에 포함됩니다.|The combined ticket includes the Harem and Hagia Irene.', k: '2026-10' }),
   // Göreme (Cappadocia)
   'goreme-h1': v(180, 240, { b: 'req', n: '해 뜰 무렵에 뜨고 바람이 세면 당일 새벽에 취소됩니다. 이틀 이상 머무는 일정이 안전합니다.|Flights go at dawn and are cancelled that morning if it is windy—allow at least two days.' }),
   'goreme-h2': v(90, 120, { c: 'daily', t: MUZE, n: MUZE_NOTE }),

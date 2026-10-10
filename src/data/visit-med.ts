@@ -46,10 +46,10 @@ export const visitMed: Record<string, HighlightVisit> = {
   'corfu-h4': v(120, 180),
   'corfu-h5': v(30, 45, { s: 'https://achillion-corfu.gr/', n: '궁전 내부는 2021년부터 복원 공사로 닫혀 있고 정원만 계절에 따라 엽니다. 방문 전에 확인하세요.|The palace interior has been closed for restoration since 2021; only the gardens open seasonally. Check before you go.' }),
   // Athens
-  'athens-h1': v(120, 150, { c: 'daily', b: 'req', t: HH, n: '1시간 단위의 시간 지정 입장권이 필수이고 하루 2만 명으로 제한돼 성수기에는 5~7일 전에 매진됩니다. 폭염 때는 한낮에 닫습니다.|A one-hour timed ticket is compulsory and entries are capped at 20,000 a day, selling out 5–7 days ahead in summer. It closes at midday in heatwaves.' }),
-  'athens-h2': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.theacropolismuseum.gr/en', n: '아크로폴리스 유적과 표가 따로입니다.|Ticketed separately from the Acropolis itself.' }),
+  'athens-h1': v(120, 150, { c: 'daily', b: 'req', t: HH, n: '시간대를 정한 입장권이 필수이고 고른 시간대에만 들어갈 수 있습니다. 성수기에는 며칠 전에 매진되고, 폭염 때는 한낮에 닫습니다.|A timed ticket is compulsory and entry is only within the slot you chose. It sells out days ahead in summer and closes at midday in heatwaves.', k: '2026-10' }),
+  'athens-h2': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.theacropolismuseum.gr/en', n: '아크로폴리스 유적과 표가 따로입니다.|Ticketed separately from the Acropolis itself.', k: '2026-10' }),
   'athens-h3': v(60, 90),
-  'athens-h4': v(75, 90, { c: 'daily', t: HH, n: HH_NOTE }),
+  'athens-h4': v(75, 90, { c: 'daily', t: HH, n: HH_NOTE, k: '2026-10' }),
   'athens-h5': v(30, 45),
   'athens-h6': v(15, 20, { n: '지금은 국회의사당이며 앞에서 매시 정각에 근위병이 교대합니다. 일요일 11시에 가장 크게 열립니다.|Now the parliament; the guard changes on the hour out front, with the full ceremony on Sundays at 11 am.' }),
   // Sounion

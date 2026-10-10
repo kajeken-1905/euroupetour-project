@@ -2885,3 +2885,9 @@ button.back-link {
   padding: 6px 12px;
   font-size: 12px;
 }
+
+.visit-checked {
+  margin: 0;
+  font-size: 11px;
+  color: #2f8f5b;
+}

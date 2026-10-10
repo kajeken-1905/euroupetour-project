@@ -15,11 +15,11 @@ const BOAT = '배는 날씨와 파도에 따라 결항합니다.|Boats are cance
 /** Italy, Vatican City, San Marino */
 export const visitIt: Record<string, HighlightVisit> = {
   // Milan
-  'milan-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.duomomilano.it/en/', t: 'https://ticket.duomomilano.it/en/', n: '옥상 테라스는 별도 표이며 어깨와 무릎을 가려야 들어갑니다.|The rooftop terraces need their own ticket; shoulders and knees must be covered.' }),
+  'milan-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.duomomilano.it/en/', t: 'https://ticket.duomomilano.it/en/', n: '옥상 테라스는 별도 표이며 어깨와 무릎을 가려야 들어갑니다.|The rooftop terraces need their own ticket; shoulders and knees must be covered.', k: '2026-10' }),
   'milan-h2': v(20, 30),
   'milan-h3': v(60, 120, { s: 'https://www.milanocastello.it/en', n: '성 안뜰은 무료이고 안쪽 박물관은 월요일에 쉽니다.|The courtyards are free; the museums inside close on Mondays.' }),
   'milan-h4': v(60, 90),
-  'milan-h5': v(90, 120, { c: 'mon', b: 'rec', s: 'https://pinacotecabrera.org/en/' }),
+  'milan-h5': v(90, 120, { c: 'mon', b: 'rec', s: 'https://pinacotecabrera.org/en/', k: '2026-10' }),
   'milan-h6': v(10, 15),
   'milan-h7': v(15, 20),
   // Como
@@ -78,7 +78,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'venice-h1': v(60, 120, { s: 'https://www.basilicasanmarco.it/?lang=en', t: 'https://cda.ve.it/en/', n: '봄·여름 성수기 지정일에는 당일치기 방문객이 베네치아 입장료를 미리 내야 합니다(티켓 구매 주소 참고). 산 마르코 대성당은 예약하면 줄을 서지 않습니다.|On designated peak days in spring and summer day-trippers must pre-pay the Venice access fee (see the ticket link). Booking St Mark’s Basilica skips the queue.' }),
   'venice-h2': v(15, 20),
   'venice-h3': v(40, 60, { n: '수상버스 1번이 대운하 전 구간을 지납니다.|Vaporetto line 1 runs the full length of the canal.' }),
-  'venice-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://palazzoducale.visitmuve.it/en/' }),
+  'venice-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://palazzoducale.visitmuve.it/en/', k: '2026-10' }),
   'venice-h5': v(180, 240, { n: '본섬 폰다멘테 노베에서 수상버스로 약 45분 걸립니다.|About 45 minutes by vaporetto from Fondamente Nove.' }),
   'venice-h6': v(30, 45),
   'venice-h7': v(10, 15),
@@ -151,27 +151,27 @@ export const visitIt: Record<string, HighlightVisit> = {
   'ravenna-h5': v(30, 45, { n: '시내에서 5km 떨어져 있고 통합권과 표가 따로입니다.|Five kilometres out of town and not on the combined ticket.' }),
 
   // Rome
-  'rome-h1': v(120, 180, { c: 'daily', b: 'req', t: 'https://ticketing.colosseo.it/en/', n: '표는 이름이 적힌 시간 지정권이라 신분증이 필요하고, 포로 로마노·팔라티노 언덕과 함께 봅니다. 성수기에는 몇 주 전에 매진됩니다.|Tickets are named and timed (bring ID) and include the Roman Forum and Palatine. They sell out weeks ahead in high season.' }),
-  'rome-h2': v(180, 240, { c: 'sun', b: 'rec', s: VAT, t: VAT_T, n: '매월 마지막 일요일은 무료로 열지만 매우 붐빕니다. 어깨와 무릎을 가려야 합니다.|Open free on the last Sunday of the month, when it is very crowded. Cover shoulders and knees.' }),
+  'rome-h1': v(120, 180, { c: 'daily', b: 'req', t: 'https://ticketing.colosseo.it/en/', n: '표는 이름이 적힌 시간 지정권이라 신분증이 필요하고, 포로 로마노·팔라티노 언덕과 함께 봅니다. 성수기에는 몇 주 전에 매진됩니다.|Tickets are named and timed (bring ID) and include the Roman Forum and Palatine. They sell out weeks ahead in high season.', k: '2026-10' }),
+  'rome-h2': v(180, 240, { c: 'sun', b: 'rec', s: VAT, t: VAT_T, n: '매월 마지막 일요일은 무료로 열지만 매우 붐빕니다. 어깨와 무릎을 가려야 합니다.|Open free on the last Sunday of the month, when it is very crowded. Cover shoulders and knees.', k: '2026-10' }),
   'rome-h3': v(15, 30, { n: '2026년 2월부터 분수 바로 앞 구역은 2유로 입장권이 필요합니다(매일 9~22시). 위쪽 광장에서는 무료로 봅니다.|Since February 2026 the area right at the basin needs a €2 ticket (daily 9 am–10 pm); viewing from the square above is free.' }),
-  'rome-h4': v(30, 45, { c: 'daily', b: 'rec', s: 'https://www.pantheonroma.com/en/', n: '2023년부터 유료입니다.|Ticketed since 2023.' }),
+  'rome-h4': v(30, 45, { c: 'daily', b: 'rec', s: 'https://www.pantheonroma.com/en/', n: '2023년부터 유료입니다.|Ticketed since 2023.', k: '2026-10' }),
   'rome-h5': v(15, 20, { n: '계단에 앉으면 벌금을 뭅니다.|Sitting on the steps is fined.' }),
-  'rome-h6': v(90, 120, { c: 'daily', b: 'req', t: 'https://ticketing.colosseo.it/en/', n: '콜로세움 입장권으로 함께 봅니다.|Visited on the Colosseum ticket.' }),
-  'rome-h7': v(80, 90, { b: 'req', s: 'https://palazzo.quirinale.it/visitapalazzo/prenota_en.html', n: '가이드 투어로만 볼 수 있고 며칠 전에 예약해야 하며 여권이 필요합니다.|Guided tours only, booked days ahead; bring your passport.' }),
+  'rome-h6': v(90, 120, { c: 'daily', b: 'req', t: 'https://ticketing.colosseo.it/en/', n: '콜로세움 입장권으로 함께 봅니다.|Visited on the Colosseum ticket.', k: '2026-10' }),
+  'rome-h7': v(80, 90, { c: 'mon,thu', b: 'req', s: 'https://palazzo.quirinale.it/visitapalazzo/prenota_en.html', n: '예약한 시간에 단체로만 들어가고 안내는 이탈리아어로만 합니다. 예약한 이름과 신분증이 같아야 하며, 한여름에는 몇 주 동안 닫습니다.|Entry is in groups at a booked time and the guiding is in Italian only. The name on the booking must match your ID, and the palace closes for several weeks in high summer.', k: '2026-10' }),
   'rome-h8': v(20, 30),
   'rome-h9': v(20, 30),
-  'rome-h10': v(75, 90, { b: 'rec' }),
+  'rome-h10': v(75, 90, { c: 'mon', b: 'rec', s: 'https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/', n: '월요일에 쉬지만 2026년에는 매월 첫 월요일 오후에 특별 개방합니다.|Closed on Mondays, though in 2026 it opens on the afternoon of the first Monday of each month.', k: '2026-10' }),
   'rome-h11': v(30, 60, { s: 'https://vive.cultura.gov.it/en/', n: '기념관은 무료이고 옥상 전망 엘리베이터만 유료입니다.|The monument is free; only the panoramic lift to the roof is ticketed.' }),
   // Florence
-  'florence-h1': v(60, 150, { b: 'req', s: 'https://duomo.firenze.it/en/home', n: '성당 입장은 무료이지만 돔(계단 463개)과 종탑은 시간 지정 예약이 필수입니다. 일요일에는 관광 입장이 제한됩니다.|The cathedral is free, but the dome (463 steps) and bell tower need a timed booking. Sightseeing is restricted on Sundays.' }),
-  'florence-h2': v(150, 210, { c: 'mon', b: 'rec', s: 'https://www.uffizi.it/en' }),
+  'florence-h1': v(60, 150, { b: 'req', s: 'https://duomo.firenze.it/en/home', n: '성당 입장은 무료이지만 돔(계단 463개)과 종탑은 시간 지정 예약이 필수입니다. 일요일에는 관광 입장이 제한됩니다.|The cathedral is free, but the dome (463 steps) and bell tower need a timed booking. Sightseeing is restricted on Sundays.', k: '2026-10' }),
+  'florence-h2': v(150, 210, { c: 'mon', b: 'rec', s: 'https://www.uffizi.it/en', k: '2026-10' }),
   'florence-h3': v(15, 20),
   'florence-h4': v(30, 45),
-  'florence-h5': v(60, 75, { c: 'mon', b: 'req', s: 'https://www.galleriaaccademiafirenze.it/en/', n: '예약 없이 가면 줄이 1~2시간씩 걸립니다.|Without a booking the queue can run to one or two hours.' }),
+  'florence-h5': v(60, 75, { c: 'mon', b: 'req', s: 'https://www.galleriaaccademiafirenze.it/en/', n: '예약 없이 가면 줄이 1~2시간씩 걸립니다.|Without a booking the queue can run to one or two hours.', k: '2026-10' }),
   'florence-h6': v(75, 90, { s: 'https://cultura.comune.fi.it/pagina/musei-civici-fiorentini/museo-di-palazzo-vecchio', n: '목요일은 오후 2시까지만 엽니다.|On Thursdays it closes at 2 pm.' }),
   'florence-h7': v(45, 60, { s: 'https://www.smn.it/en/' }),
   'florence-h8': v(20, 30, { s: 'https://duomo.firenze.it/en/home', n: '대성당 통합권으로 봅니다.|Visited on the cathedral complex pass.' }),
-  'florence-h9': v(45, 60, { c: 'daily' }),
+  'florence-h9': v(45, 60, { c: 'daily', k: '2026-10' }),
   // Pisa
   'pisa-h1': v(30, 45, { c: 'daily', b: 'req', s: OPA, n: '탑에 오르려면 시간 지정 예약이 필요하고 만 8세 미만은 오를 수 없습니다.|Climbing needs a timed ticket; children under 8 are not admitted.' }),
   'pisa-h2': v(20, 30, { c: 'daily', s: OPA, n: '성당은 무료이지만 시간 지정 입장권을 받아야 합니다.|The cathedral is free but needs a timed pass.' }),
@@ -224,7 +224,7 @@ export const visitIt: Record<string, HighlightVisit> = {
 
   // Naples
   'naples-h1': v(60, 90),
-  'naples-h2': v(150, 180, { c: 'tue', b: 'no' }),
+  'naples-h2': v(150, 180, { c: 'tue', b: 'no', s: 'https://www.museoarcheologiconapoli.it/en/timetables-and-fares/', n: '화요일이 공휴일이면 그날 열고 다음 날인 수요일에 쉽니다. 공사 기간에는 일부 전시실이 번갈아 닫힙니다.|When a public holiday falls on a Tuesday it opens that day and closes on the Wednesday instead. Some galleries close in rotation during building works.', k: '2026-10' }),
   'naples-h3': v(20, 30, { n: '보수 공사로 내부가 닫혀 있고 재개방 날짜가 정해지지 않았습니다. 밖에서만 볼 수 있습니다.|The interior is closed for restoration with no reopening date; view it from outside.' }),
   'naples-h4': v(20, 30),
   'naples-h5': v(45, 60),

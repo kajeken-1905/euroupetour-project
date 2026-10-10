@@ -65,6 +65,11 @@ function VisitInfo({ visit }: { visit: HighlightVisit }) {
           {t('visitSite', lang)}: {host(visit.site)}
         </a>
       ) : null}
+      {visit.checked ? (
+        <p className="visit-checked">
+          ✓ {t('visitChecked', lang).replace('{y}', visit.checked.slice(0, 4)).replace('{m}', String(Number(visit.checked.slice(5))))}
+        </p>
+      ) : null}
     </div>
   )
 }
