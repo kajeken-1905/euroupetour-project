@@ -40,7 +40,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   // Frankfurt
   'frankfurt-h1': v(20, 30),
   'frankfurt-h2': v(30, 45, { s: 'https://www.maintower.de/en/', n: '악천후에는 전망대를 닫습니다.|The platform closes in bad weather.' }),
-  'frankfurt-h3': v(120, 180, { c: 'mon', n: '강변의 박물관은 대부분 월요일에 쉽니다.|Most of the riverside museums close on Mondays.' }),
+  'frankfurt-h3': v(120, 180, { c: 'mon', n: '슈테델 미술관을 비롯해 강변의 박물관은 대부분 월요일에 쉽니다. 슈테델은 목요일에 21시까지 엽니다.|The Städel and most of the riverside museums close on Mondays; the Städel stays open until 9 pm on Thursdays.', k: '2026-10' }),
   'frankfurt-h4': v(90, 120, { c: 'daily', s: 'https://www.palmengarten.de/en/' }),
   'frankfurt-h5': v(60, 90),
   'frankfurt-h6': v(10, 15),

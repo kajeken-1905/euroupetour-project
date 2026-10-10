@@ -22,7 +22,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'geneva-h1': v(15, 20, { n: '강풍이 불거나 영하로 내려가면 분수를 끕니다.|The fountain is switched off in strong wind or frost.' }),
   'geneva-h2': v(60, 90),
   'geneva-h3': v(30, 45, { s: 'https://www.cathedrale-geneve.ch/en/', n: '성당은 무료이고 탑과 지하 유적은 유료입니다.|The cathedral is free; the towers and archaeological site are ticketed.' }),
-  'geneva-h4': v(60, 75, { c: 'sat,sun', b: 'req', s: 'https://www.ungeneva.org/en/visit', n: '가이드 투어로만 볼 수 있고 여권이 필요합니다.|Seen on guided tours only; bring your passport.' }),
+  'geneva-h4': v(60, 75, { c: 'sat,sun', b: 'req', s: 'https://www.ungeneva.org/en/visit', n: '가이드 투어로만 볼 수 있고 온라인 예약이 필수입니다. 매달 20일에 다음 달 자리가 열리고 몇 주 전에 매진되기도 합니다. 여권을 지참하고 30분 전에 프레니 문에 도착하세요. 보수 공사로 투어가 줄어든 상태입니다.|Guided tours only, booked online. Next month’s slots open on the 20th and can sell out weeks ahead. Bring your passport and reach the Pregny Gate 30 minutes early. Tours are reduced during renovation works.' }),
   'geneva-h5': v(45, 60),
   'geneva-h6': v(10, 15),
   'geneva-h7': v(10, 15),

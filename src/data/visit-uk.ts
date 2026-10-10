@@ -81,7 +81,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'bath-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.romanbaths.co.uk/', k: '2026-10' }),
   'bath-h2': v(20, 30),
   'bath-h3': v(30, 45, { s: 'https://www.bathabbey.org/' }),
-  'bath-h4': v(60, 90, { b: 'rec' }),
+  'bath-h4': v(60, 90, { b: 'rec', s: 'https://thepumproombath.co.uk/', n: '애프터눈 티는 12시·14시(시기에 따라 16시) 회차로 운영하고 온라인 예약은 6명까지 됩니다. 온천수 시음대는 보수 중이라 마실 수 없습니다.|Afternoon tea is served in sittings at 12 and 2 pm (4 pm at some times of year); online booking takes up to six guests. The spa-water fountain is closed for maintenance.', k: '2026-10' }),
   'bath-h5': v(60, 90, { s: 'https://www.nationaltrust.org.uk/visit/bath-bristol/prior-park-landscape-garden' }),
   'bath-h6': v(10, 15),
   // Bristol

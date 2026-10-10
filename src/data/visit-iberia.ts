@@ -112,7 +112,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'seville-h2': v(75, 90, { c: 'daily', b: 'rec', s: SEV_CAT, n: '입장권에 히랄다 탑이 포함됩니다.|The ticket includes the Giralda.', k: '2026-10' }),
   'seville-h6': v(30, 40, { c: 'daily', s: SEV_CAT, n: '대성당 입장권으로 오르며 계단 대신 경사로 35개를 걷습니다.|Climbed on the cathedral ticket, by 35 ramps rather than stairs.', k: '2026-10' }),
   'seville-h7': v(30, 45, { b: 'no', n: FREE }),
-  'seville-h1': v(120, 150, { c: 'daily', b: 'req', s: 'https://alcazarsevilla.org/', n: '시간 지정 입장이며 성수기에는 며칠 전에 매진됩니다. 예약한 이름과 여권이 같아야 합니다.|Timed entry, selling out days ahead in season; the name on the booking must match your passport.' }),
+  'seville-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://alcazarsevilla.org/', n: '시간 지정 입장이며 성수기에는 며칠 전에 매진되니 온라인 예약을 권합니다. 현장 매표소(파티오 데 반데라스)는 카드 결제만 됩니다. 예약한 이름과 여권이 같아야 합니다.|Timed entry that sells out days ahead in season, so book online. The ticket office on Patio de Banderas takes cards only. The name on the booking must match your passport.', k: '2026-10' }),
   'seville-h9': v(10, 15),
   'seville-h5': v(30, 45),
   'seville-h8': v(45, 60, { s: 'https://www.realmaestranza.com/en/home/', n: '투우 경기가 있는 날은 관람이 제한됩니다.|Visits are restricted on bullfight days.' }),

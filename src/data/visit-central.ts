@@ -131,7 +131,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   // Pécs
   'pecs-h1': v(45, 60),
   'pecs-h2': v(20, 30),
-  'pecs-h3': v(60, 75, { c: 'mon' }),
+  'pecs-h3': v(60, 75, { c: 'mon', s: 'https://www.vilagoroksegpecs.hu/en/information/opening-hours', n: '11월 1일에도 쉽니다. 표는 문 닫기 30분 전까지 팝니다.|Also closed on 1 November. Ticket sales end 30 minutes before closing.', k: '2026-10' }),
   'pecs-h4': v(120, 150, { s: 'https://www.zsolnaynegyed.hu/en' }),
   'pecs-h5': v(15, 20),
   // Szeged

@@ -39,7 +39,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'paris-h22': v(60, 90, { c: 'daily', s: 'https://haussmann.galerieslafayette.com/en/', n: '옥상 테라스는 무료입니다.|The rooftop terrace is free.' }),
   'paris-h4': v(120, 180),
   'paris-h36': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.sacre-coeur-montmartre.com/en/', n: '성당은 무료이고 돔 전망대만 유료입니다. 돔 표는 현장에서만 팝니다.|The basilica is free; only the dome climb is ticketed, with tickets sold on site only.', k: '2026-10' }),
-  'paris-h37': v(120, 120, { b: 'req', s: 'https://www.moulinrouge.fr/en/', n: '공연 관람은 예약제입니다. 외관만 보면 10분이면 됩니다.|Shows are by reservation; the exterior takes ten minutes.' }),
+  'paris-h37': v(120, 120, { b: 'req', s: 'https://www.moulinrouge.fr/en/', n: '공연 관람은 예약제입니다. 외관만 보면 10분이면 됩니다.|Shows are by reservation; the exterior takes ten minutes.', k: '2026-10' }),
   'paris-h5': v(60, 75, { n: '유람선은 회사(바토 무슈, 바토 파리지앵, 브데트 뒤 퐁뇌프 등)마다 선착장과 표가 다릅니다.|Cruise piers and tickets differ by operator (Bateaux-Mouches, Bateaux Parisiens, Vedettes du Pont-Neuf).' }),
   'paris-h39': v(60, 120, { c: 'daily', b: 'no' }),
   'paris-h38': v(45, 90),

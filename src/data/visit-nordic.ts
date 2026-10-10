@@ -27,7 +27,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'odense-h3': v(30, 45),
   'odense-h4': v(20, 30, { b: 'no', n: FREE }),
   // Aalborg
-  'aalborg-h1': v(60, 75, { c: 'mon', s: 'https://utzoncenter.dk/en' }),
+  'aalborg-h1': v(60, 75, { c: 'mon', s: 'https://utzoncenter.dk/en', n: '여름 방학 기간(27~32주, 대략 7월~8월 초)에는 월요일에도 엽니다.|Open on Mondays too during the Danish summer holidays (weeks 27–32, roughly July to early August).', k: '2026-10' }),
   'aalborg-h2': v(30, 45),
   'aalborg-h3': v(20, 30),
   'aalborg-h4': v(15, 20),
@@ -68,7 +68,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'kiruna-h1': v(20, 30, { n: '도시 이전 사업으로 2025년에 교회 건물 전체를 새 시가지로 옮겼습니다. 재개방 여부를 확인하세요.|The whole church was moved to the new town centre in 2025 as part of the city relocation—check whether it has reopened.' }),
   'kiruna-h2': v(60, 90, { c: 'daily', s: 'https://www.icehotel.com/', n: '얼음으로 새로 짓는 겨울 호텔은 대략 12월부터 4월까지 볼 수 있고, 연중 운영하는 365관이 따로 있습니다.|The seasonal ice hotel stands from about December to April; a year-round section, Icehotel 365, is separate.' }),
   'kiruna-h3': v(180, 240, { n: '오로라는 대략 9월부터 3월 사이 맑은 밤에 볼 수 있습니다.|The aurora is visible on clear nights from roughly September to March.' }),
-  'kiruna-h4': v(165, 180, { b: 'req', n: '지하 540m 방문자 센터 투어는 관광 안내소에서 예약합니다.|Tours to the visitor centre 540 m underground are booked through the tourist office.' }),
+  'kiruna-h4': v(165, 180, { b: 'rec', s: 'https://kirunalapland.se/en/mine-tour/', n: '지하 540m 방문자 센터까지 관광 안내소에서 버스로 내려가며 약 3시간 걸립니다. 자리가 한정돼 키루나 라플란드 누리집 예약을 권합니다. 6세 이상만 참가합니다.|A bus from the tourist centre goes down to the visitor centre 540 m underground; allow about three hours. Places are limited, so book on the Kiruna Lapland site. Minimum age six.', k: '2026-10' }),
 
   // Helsinki
   'helsinki-h1': v(20, 30, { c: 'daily', n: '여름 성수기에는 입장료를 받습니다.|An entry fee is charged in the summer season.' }),
@@ -140,7 +140,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'alesund-h3': v(180, 240),
   'alesund-h4': v(30, 45),
   // Flåm
-  'flam-h1': v(120, 120, { c: 'daily', b: 'rec', n: '왕복 2시간쯤 걸리고 여름에는 며칠 전에 매진됩니다.|About two hours return; it sells out days ahead in summer.' }),
+  'flam-h1': v(120, 120, { c: 'daily', b: 'rec', n: '왕복 2시간쯤 걸리고 여름에는 며칠 전에 매진됩니다.|About two hours return; it sells out days ahead in summer.', k: '2026-10' }),
   'flam-h2': v(120, 120, { b: 'rec' }),
   'flam-h3': v(60, 90),
   'flam-h4': v(30, 45),

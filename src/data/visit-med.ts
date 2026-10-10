@@ -4,7 +4,7 @@ import { v } from './visit-helper'
 const FREE = '입장은 무료입니다.|Entry is free.'
 const HH = 'https://hhticket.gr/'
 const HH_NOTE = '그리스 국립 유적은 공식 예매처(hhticket.gr)에서 표를 팝니다.|Greek state sites sell tickets through the official platform, hhticket.gr.'
-const METEORA = '어깨와 무릎을 가려야 하고 여성은 치마(입구에서 빌려 줌)가 필요합니다. 정교회 축일에는 휴무가 바뀝니다.|Cover shoulders and knees; women need a skirt (lent at the door). Closed days change on Orthodox feast days.'
+const METEORA = '어깨와 무릎을 가려야 하고 여성은 치마(입구에서 빌려 줌)가 필요합니다. 휴무 요일은 여름(4~10월) 기준이고 겨울에는 쉬는 날이 늘어나는 수도원이 있습니다. 공식 누리집이 없고 수도원이 예고 없이 바꾸기도 하니 현지에서 확인하세요.|Cover shoulders and knees; women need a skirt (lent at the door). The closed day shown is for summer (April–October); some monasteries close extra days in winter. There is no official site and the monks may change days without notice, so check locally.|Cover shoulders and knees; women need a skirt (lent at the door). Closed days change on Orthodox feast days.'
 const BOAT = '배는 바람이 세면 결항합니다.|Boats are cancelled in strong wind.'
 const OLYMPIA = '유적과 박물관은 통합 입장권으로 봅니다.|The site and museum share one ticket.'
 
@@ -37,7 +37,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'meteora-h1': v(60, 75, { c: 'tue', b: 'no', n: METEORA }),
   'meteora-h2': v(45, 60, { c: 'fri', b: 'no', n: METEORA }),
   'meteora-h3': v(30, 40, { c: 'wed', b: 'no', n: METEORA }),
-  'meteora-h4': v(45, 60, { c: 'thu', b: 'no', n: '계단 약 140개를 올라야 합니다. 복장 규정이 있고 축일에는 휴무가 바뀝니다.|Reached by about 140 steps. A dress code applies and closed days change on feast days.' }),
+  'meteora-h4': v(45, 60, { c: 'thu', b: 'no', n: '계단 약 140개를 올라야 합니다. 복장 규정이 있습니다. 휴무 요일은 수도원이 예고 없이 바꾸기도 하니 현지에서 확인하세요.|Reached by about 140 steps. A dress code applies. The monks may change the closed day without notice, so check locally.' }),
   'meteora-h5': v(30, 45),
   // Corfu
   'corfu-h1': v(90, 120),
