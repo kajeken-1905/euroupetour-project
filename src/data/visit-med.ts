@@ -11,16 +11,16 @@ const OLYMPIA = '유적과 박물관은 통합 입장권으로 봅니다.|The si
 /** Malta, Greece, Cyprus, Estonia, Latvia, Lithuania */
 export const visitMed: Record<string, HighlightVisit> = {
   // Malta
-  'valletta-h1': v(60, 75, { c: 'sun', s: 'https://www.stjohnscocathedral.com/', n: '어깨와 무릎을 가려야 하고 굽이 뾰족한 구두는 신고 들어갈 수 없습니다.|Cover shoulders and knees; stiletto heels are not allowed.' }),
+  'valletta-h1': v(60, 75, { c: 'sun', s: 'https://www.stjohnscocathedral.com/', n: '일요일과 공휴일에는 관람객을 받지 않습니다. 어깨와 무릎을 가려야 하고 굽이 뾰족한 구두는 신고 들어갈 수 없습니다.|No visitors on Sundays and public holidays. Shoulders and knees must be covered and stiletto heels are not allowed.', k: '2026-10' }),
   'valletta-h2': v(20, 30, { b: 'no', n: '정원은 무료이고 정오와 오후 4시에 예포를 쏩니다.|The gardens are free; the saluting battery fires at noon and 4 pm.' }),
   'valletta-h3': v(30, 45),
   'valletta-h4': v(45, 60),
   'valletta-h5': v(90, 120, { c: 'daily', s: 'https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/' }),
   'mdina-h1': v(10, 10),
-  'mdina-h2': v(30, 45, { c: 'sun', s: 'https://metropolitanchapter.com/' }),
+  'mdina-h2': v(30, 45, { s: 'https://metropolitanchapter.com/', n: '일요일에는 오후(3~5시쯤)에만 관람객을 받고, 미사나 행사 때는 닫습니다. 옆의 대성당 박물관은 일요일과 공휴일에 쉽니다.|On Sundays visitors are admitted in the afternoon only (about 3–5pm), and not during services or events. The Cathedral Museum next door is closed on Sundays and public holidays.', k: '2026-10' }),
   'mdina-h3': v(15, 20),
   'mdina-h4': v(45, 60),
-  'mdina-h5': v(60, 75, { c: 'mon', s: 'https://www.palazzofalson.com/' }),
+  'mdina-h5': v(60, 75, { c: 'mon', s: 'https://www.palazzofalson.com/', k: '2026-10' }),
   'gozo-h1': v(60, 90, { b: 'no', n: '성채 경내는 무료입니다.|The citadel grounds are free.' }),
   'gozo-h2': v(60, 75, { c: 'daily', s: 'https://heritagemalta.mt/explore/ggantija-archaeological-park/' }),
   'gozo-h3': v(45, 60, { n: '바위 아치 "아주르 윈도"는 2017년에 무너져 지금은 없습니다.|The Azure Window rock arch collapsed in 2017 and is no longer there.' }),
@@ -87,7 +87,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'mykonos-h2': v(15, 20),
   'mykonos-h3': v(60, 90),
   'mykonos-h4': v(120, 180),
-  'mykonos-h5': v(240, 300, { c: 'mon', t: HH, n: '미코노스 옛 항구에서 배로 30분쯤 걸립니다. ' + BOAT.split('|')[0] + '|About 30 minutes by boat from the old port of Mykonos. ' + BOAT.split('|')[1] }),
+  'mykonos-h5': v(240, 300, { t: HH, n: '유적은 4월부터 11월까지만 열고 12~3월에는 닫습니다. 미코노스 옛 항구에서 배로 30분쯤 걸립니다. ' + BOAT.split('|')[0] + '|The site opens from April to November and is closed from December to March. About 30 minutes by boat from the old port of Mykonos. ' + BOAT.split('|')[1], k: '2026-10' }),
   // Naxos
   'naxos-h1': v(20, 30, { b: 'no', n: FREE }),
   'naxos-h2': v(60, 90),
@@ -101,7 +101,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'santorini-h4': v(60, 75, { t: HH, n: HH_NOTE }),
   'santorini-h5': v(60, 90, { b: 'rec' }),
   // Heraklion
-  'heraklion-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://knossospalace.gr/', t: HH, n: '고고학 박물관과 묶은 통합권이 있습니다.|A combined ticket with the Archaeological Museum is available.' }),
+  'heraklion-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://knossospalace.gr/', t: HH, n: '고고학 박물관과 묶은 통합권이 있습니다.|A combined ticket with the Archaeological Museum is available.', k: '2026-10' }),
   'heraklion-h2': v(90, 120, { c: 'daily', s: 'https://www.heraklionmuseum.gr/en/', t: HH }),
   'heraklion-h3': v(30, 40),
   'heraklion-h4': v(30, 45),
@@ -146,7 +146,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'tallinn-h2': v(45, 60),
   'tallinn-h3': v(15, 20, { b: 'no', n: '입장은 무료이고 내부 촬영은 금지입니다.|Free; no photography inside.' }),
   'tallinn-h4': v(60, 90),
-  'tallinn-h5': v(75, 90, { c: 'mon', s: 'https://kadriorumuuseum.ekm.ee/en/', n: '공원은 연중 무료입니다.|The park is free all year.' }),
+  'tallinn-h5': v(75, 90, { c: 'mon', s: 'https://kadriorumuuseum.ekm.ee/en/', n: '공원은 연중 무료입니다.|The park is free all year.', k: '2026-10' }),
   'tartu-h1': v(30, 45),
   'tartu-h2': v(15, 20),
   'tartu-h3': v(150, 180, { c: 'daily', s: 'https://www.ahhaa.ee/en' }),

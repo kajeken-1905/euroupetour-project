@@ -31,7 +31,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'bern-h1': v(15, 20, { n: '매시 정각 4분 전부터 인형 시계가 움직입니다.|The figures start moving four minutes before each hour.' }),
   'bern-h2': v(60, 90),
   'bern-h3': v(20, 30, { b: 'no', s: 'https://tierpark-bern.ch/baerenpark/', n: '입장은 무료이고 겨울에는 곰이 겨울잠을 잡니다.|Free; the bears hibernate in winter.' }),
-  'bern-h4': v(60, 60, { b: 'req', s: 'https://www.parlament.ch/en/services/visiting-the-parliament-building', n: '내부 투어는 무료이며 여권이 필요합니다. 의회 회기 중에는 투어가 없습니다.|Tours are free and need a passport. None run while parliament is in session.' }),
+  'bern-h4': v(60, 60, { b: 'req', s: 'https://www.parlament.ch/en/services/visiting-the-parliament-building', n: '내부 투어는 무료이며 여권이 필요합니다. 의회 회기 중에는 투어가 없습니다.|Tours are free and need a passport. None run while parliament is in session.', k: '2026-10' }),
   'bern-h5': v(30, 60),
   'bern-h6': v(30, 45, { n: '성당은 무료이고 탑 전망대만 유료입니다.|The minster is free; only the tower climb is ticketed.' }),
   // Lucerne
@@ -48,10 +48,10 @@ export const visitCh: Record<string, HighlightVisit> = {
   'interlaken-h2': v(120, 180, { s: 'https://www.bls-schiff.ch/en' }),
   'interlaken-h3': v(90, 120, { s: 'https://www.bls-schiff.ch/en' }),
   'interlaken-h4': v(75, 90, { s: 'https://www.jungfrau.ch/en-gb/harder-kulm/', n: '푸니쿨라는 봄부터 늦가을까지만 다닙니다.|The funicular runs from spring to late autumn only.' }),
-  'interlaken-h5': v(300, 360, { b: 'rec', s: 'https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/', n: '성수기에는 좌석 예약을 권합니다. 해발 3,454m라 고산 증세에 주의하세요.|Seat reservations are advised in high season. At 3,454 m, watch for altitude sickness.' }),
+  'interlaken-h5': v(300, 360, { b: 'req', s: 'https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/', n: '5~10월에는 융프라우 철도 좌석 예약(유료)이 의무이고, 그 밖의 달에도 권장됩니다.|A paid seat reservation on the Jungfrau Railway is compulsory from May to October and recommended in other months.', k: '2026-10' }),
   // Basel
   'basel-h1': v(30, 45, { b: 'no', s: 'https://www.baslermuenster.ch/' }),
-  'basel-h2': v(120, 150, { c: 'mon', b: 'no', s: 'https://kunstmuseumbasel.ch/en/' }),
+  'basel-h2': v(120, 150, { c: 'mon', b: 'no', s: 'https://kunstmuseumbasel.ch/en/', k: '2026-10' }),
   'basel-h3': v(30, 45),
   'basel-h4': v(15, 20),
   'basel-h5': v(10, 15),
@@ -89,13 +89,13 @@ export const visitCh: Record<string, HighlightVisit> = {
   'st-moritz-h1': v(45, 60),
   'st-moritz-h2': v(45, 60),
   'st-moritz-h3': v(120, 180, { s: 'https://www.mountains.ch/en', n: LIFT }),
-  'st-moritz-h4': v(45, 60, { c: 'mon', s: 'https://segantini-museum.ch/en/home_2/', n: '봄·가을 비수기에는 몇 주씩 휴관합니다.|Shuts for several weeks in the spring and autumn off-seasons.' }),
+  'st-moritz-h4': v(45, 60, { c: 'mon', s: 'https://segantini-museum.ch/en/home_2/', n: '월요일에 쉬고, 봄(4월 중순~5월 중순)과 늦가을(10월 하순~12월 초)에는 휴관합니다.|Closed on Mondays and between seasons (mid-April to mid-May and late October to early December).', k: '2026-10' }),
   'st-moritz-h5': v(20, 30),
 
   // Vaduz
   'vaduz-h1': v(20, 30, { n: '대공 가족이 사는 곳이라 내부는 공개하지 않습니다. 밖에서만 볼 수 있습니다.|The princely family lives here, so the interior is not open—view it from outside.' }),
   'vaduz-h2': v(30, 45),
-  'vaduz-h3': v(75, 90, { c: 'mon', s: 'https://www.kunstmuseum.li/en' }),
+  'vaduz-h3': v(75, 90, { c: 'mon', s: 'https://www.kunstmuseum.li/en', k: '2026-10' }),
   'vaduz-h4': v(30, 40, { b: 'no', n: FREE }),
   'vaduz-h5': v(30, 45),
   'vaduz-h6': v(10, 15),

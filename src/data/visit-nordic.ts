@@ -22,7 +22,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'aarhus-h4': v(20, 30, { b: 'no', n: FREE }),
   'aarhus-h5': v(20, 30, { b: 'no', n: FREE }),
   // Odense
-  'odense-h1': v(90, 120, { b: 'rec', s: 'https://hcandersenshus.dk/en/' }),
+  'odense-h1': v(90, 120, { b: 'rec', s: 'https://hcandersenshus.dk/en/', k: '2026-10' }),
   'odense-h2': v(45, 60),
   'odense-h3': v(30, 45),
   'odense-h4': v(20, 30, { b: 'no', n: FREE }),
@@ -86,7 +86,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'turku-h5': v(90, 120, { s: 'https://www.forum-marinum.fi/en/', n: '박물관선은 여름에만 공개합니다.|The museum ships open in summer only.' }),
   // Tampere
   'tampere-h1': v(30, 45),
-  'tampere-h2': v(60, 75, { c: 'mon', s: 'https://www.muumimuseo.fi/en/' }),
+  'tampere-h2': v(60, 75, { c: 'mon', s: 'https://www.muumimuseo.fi/en/', k: '2026-10' }),
   'tampere-h3': v(20, 30),
   'tampere-h4': v(20, 30, { b: 'no', n: FREE }),
   'tampere-h5': v(240, 360, { s: 'https://sarkanniemi.fi/en', n: '놀이기구는 여름 시즌에만 운영합니다.|The rides run in the summer season only.' }),
@@ -107,7 +107,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'oslo-h3': v(60, 90, { c: 'daily', b: 'no', s: 'https://vigeland.museum.no/en', n: '공원은 24시간 무료입니다.|The park is free and open round the clock.' }),
   'oslo-h4': v(45, 60),
   'oslo-h5': v(0, 0, { s: 'https://www.vikingtidsmuseet.no/english/', n: '바이킹 시대 박물관으로 증축하는 공사로 휴관 중이며 2027년 재개관 예정입니다.|Closed while it is rebuilt as the Museum of the Viking Age, due to open in 2027.' }),
-  'oslo-h6': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.munch.no/en/' }),
+  'oslo-h6': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.munch.no/en/', k: '2026-10' }),
   'oslo-h7': v(60, 90, { s: 'https://holmenkollen.com/en/' }),
   // Bergen
   'bergen-h1': v(45, 60),
@@ -133,7 +133,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'trondheim-h2': v(10, 15),
   'trondheim-h3': v(30, 45),
   'trondheim-h4': v(15, 20),
-  'trondheim-h5': v(90, 120, { c: 'mon', s: 'https://rockheim.no/en/' }),
+  'trondheim-h5': v(90, 120, { c: 'mon', s: 'https://rockheim.no/en/', n: '5~8월에는 월요일에도 엽니다.|Open on Mondays too from May to August.', k: '2026-10' }),
   // Ålesund
   'alesund-h1': v(45, 60, { n: '시내 공원에서 계단 418개를 오릅니다.|418 steps up from the town park.' }),
   'alesund-h2': v(45, 60),
@@ -150,7 +150,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'reykjavik-h2': v(30, 45, { b: 'no', s: 'https://www.harpa.is/en', n: '로비는 무료로 들어갑니다.|The foyer is free to enter.' }),
   'reykjavik-h3': v(10, 15),
   'reykjavik-h4': v(30, 45),
-  'reykjavik-h5': v(180, 240, { c: 'daily', b: 'req', s: 'https://www.bluelagoon.com/', n: '시간 지정 예약제입니다. 2023년 말부터 인근 화산 분화로 여러 차례 임시 휴장했으니 당일 운영 여부를 확인하세요.|Timed booking only. Since late 2023 nearby eruptions have forced several temporary closures—check on the day.' }),
+  'reykjavik-h5': v(180, 240, { c: 'daily', b: 'req', s: 'https://www.bluelagoon.com/', n: '시간 지정 예약제입니다. 2023년 말부터 인근 화산 분화로 여러 차례 임시 휴장했으니 당일 운영 여부를 확인하세요.|Timed booking only. Since late 2023 nearby eruptions have forced several temporary closures—check on the day.', k: '2026-10' }),
   // Akureyri
   'akureyri-h1': v(15, 20),
   'akureyri-h2': v(30, 45, { b: 'no', s: 'https://www.lystigardur.akureyri.is/', n: '입장은 무료이고 여름에만 엽니다.|Free; open in summer only.' }),
@@ -167,7 +167,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'husavik-h1': v(180, 180, { b: 'rec', n: '날씨가 나쁘면 출항이 취소됩니다.|Trips are cancelled in bad weather.' }),
   'husavik-h2': v(10, 15),
   'husavik-h3': v(45, 60, { s: 'https://www.hvalasafn.is/en/' }),
-  'husavik-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.geosea.is/' }),
+  'husavik-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.geosea.is/', k: '2026-10' }),
   'husavik-h5': v(120, 180),
   // Selfoss (Golden Circle)
   'selfoss-h1': v(45, 60, { b: 'no', n: '입장은 무료이고 간헐천은 5~10분마다 솟습니다.|Free; the geyser erupts every five to ten minutes.' }),

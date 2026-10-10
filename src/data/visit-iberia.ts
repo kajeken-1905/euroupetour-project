@@ -36,7 +36,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'segovia-h3': v(45, 60, { c: 'daily', s: 'https://catedralsegovia.es/en/' }),
   'segovia-h4': v(30, 45),
   'segovia-h8': v(20, 30),
-  'segovia-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.alcazardesegovia.com/', n: '시간 지정 입장이며 탑(계단 152개)은 표가 따로입니다.|Entry is timed; the tower (152 steps) is ticketed separately.' }),
+  'segovia-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.alcazardesegovia.com/', n: '시간 지정 입장이며 탑(계단 152개)은 표가 따로입니다.|Entry is timed; the tower (152 steps) is ticketed separately.', k: '2026-10' }),
   // Salamanca
   'salamanca-h1': v(20, 30),
   'salamanca-h2': v(45, 60),
@@ -46,7 +46,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Toledo
   'toledo-h1': v(75, 90, { c: 'daily', s: 'https://www.catedralprimada.es/en/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.' }),
   'toledo-h7': v(10, 15),
-  'toledo-h2': v(75, 90, { c: 'mon' }),
+  'toledo-h2': v(75, 90, { c: 'mon', k: '2026-10' }),
   'toledo-h3': v(20, 30, { c: 'daily', s: 'https://santotome.org/' }),
   'toledo-h4': v(30, 45),
   'toledo-h6': v(15, 20),
@@ -79,10 +79,10 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'barcelona-h8': v(120, 180),
   'barcelona-h11': v(60, 75, { b: 'rec', s: 'https://www.fcbarcelona.com/en/tickets/camp-nou-experience', n: '경기장 투어가 다시 열려 1층 관중석까지 가는 가이드 투어와 박물관을 함께 봅니다. 마무리 공사가 이어져 동선이 바뀔 수 있습니다.|Stadium tours are back: a guided route to the first tier plus the museum. Finishing works continue, so the route may change.', k: '2026-10' }),
   // Montserrat
-  'montserrat-h1': v(90, 120, { c: 'daily', b: 'req', s: 'https://www.montserratvisita.com/en', n: '2023년부터 성당 입장은 시간 지정 유료 예약제입니다.|Since 2023 basilica entry has been by timed paid reservation.' }),
+  'montserrat-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.montserratvisita.com/en', n: '2023년부터 관광객의 성당 입장은 시간 지정 유료 입장권으로 합니다. 현장에서도 사지만 붐비는 날은 정원이 차므로 온라인 예매를 권합니다.|Since 2023 tourists enter the basilica on a paid timed ticket. It is sold on site too, but busy days fill up, so book online.', k: '2026-10' }),
   'montserrat-h2': v(60, 120),
   'montserrat-h3': v(60, 90, { s: 'https://www.cremallerademontserrat.cat/en/', n: '정기 점검 기간에는 운휴합니다.|Closed during annual maintenance.' }),
-  'montserrat-h4': v(20, 30, { b: 'req', s: 'https://www.montserratvisita.com/en', n: '검은 성모상을 가까이서 보려면 입장권에 포함된 시간 예약이 필요합니다.|Seeing the Black Madonna up close needs the timed slot included with the ticket.' }),
+  'montserrat-h4': v(20, 30, { b: 'rec', s: 'https://www.montserratvisita.com/en', n: '검은 성모상을 가까이서 보려면 성모상 접견(Throne) 입장권이 필요하며, 온라인이 현장보다 쌉니다.|Getting close to the statue needs the Throne of Our Lady ticket, which is cheaper online than at the ticket office.', k: '2026-10' }),
   // Girona
   'girona-h1': v(45, 60, { c: 'daily', s: 'https://catedraldegirona.cat/en/' }),
   'girona-h2': v(45, 60),
@@ -97,15 +97,15 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'zaragoza-h5': v(30, 45),
   // Valencia
   'valencia-h1': v(180, 300, { c: 'daily', s: 'https://cac.es/en/', n: '과학관·수족관·아이맥스는 표가 각각이고 묶음권이 있습니다. 건물 밖은 무료로 걷습니다.|The science museum, aquarium and IMAX are ticketed separately, with combined passes; the grounds are free.' }),
-  'valencia-h2': v(30, 45, { c: 'sun', b: 'no', s: 'https://www.mercadocentralvalencia.es/', n: '오후 3시쯤 닫습니다.|Shuts at about 3 pm.' }),
+  'valencia-h2': v(30, 45, { c: 'sun', b: 'no', s: 'https://www.mercadocentralvalencia.es/', n: '오후 3시쯤 닫습니다.|Shuts at about 3 pm.', k: '2026-10' }),
   'valencia-h3': v(45, 60, { s: 'https://catedraldevalencia.es/en/' }),
   'valencia-h4': v(30, 40),
   'valencia-h5': v(60, 120),
   // Palma
-  'palma-h1': v(45, 60, { c: 'sun', s: 'https://catedraldemallorca.org/en/' }),
+  'palma-h1': v(45, 60, { c: 'sun', s: 'https://catedraldemallorca.org/en/', k: '2026-10' }),
   'palma-h2': v(15, 20),
-  'palma-h3': v(45, 60, { c: 'mon' }),
-  'palma-h4': v(60, 75, { c: 'mon' }),
+  'palma-h3': v(45, 60, { c: 'mon', n: '2026년 상반기에 전면 보수로 휴관했습니다. 다시 열었는지 예매 화면에서 확인하세요.|It was closed for a full refurbishment in the first half of 2026; check the ticket page to see that it has reopened.', k: '2026-10' }),
+  'palma-h4': v(60, 75, { c: 'mon', k: '2026-10' }),
   'palma-h5': v(90, 120),
   'palma-h6': v(60, 120),
   // Seville
@@ -120,9 +120,9 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'seville-h3': v(45, 60, { b: 'no', n: FREE }),
   'seville-h10': v(15, 20),
   // Córdoba
-  'cordoba-h1': v(75, 90, { c: 'daily', b: 'rec', s: 'https://mezquita-catedraldecordoba.es/en/', n: '월~토요일 아침 8시 30분~9시 30분은 무료로 개방합니다.|Free entry Monday to Saturday from 8:30 to 9:30 am.' }),
+  'cordoba-h1': v(75, 90, { c: 'daily', b: 'rec', s: 'https://mezquita-catedraldecordoba.es/en/', n: '월~토요일 아침 8시 30분~9시 30분은 무료로 개방합니다.|Free entry Monday to Saturday from 8:30 to 9:30 am.', k: '2026-10' }),
   'cordoba-h2': v(60, 90),
-  'cordoba-h3': v(60, 75, { c: 'mon' }),
+  'cordoba-h3': v(60, 75, { c: 'mon', k: '2026-10' }),
   'cordoba-h4': v(15, 20),
   'cordoba-h5': v(60, 90, { n: '5월 파티오 축제 기간에 가장 많은 집이 문을 엽니다.|Most courtyards open during the Patios festival in May.' }),
   // Granada
@@ -140,7 +140,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'granada-h5': v(60, 90),
   // Málaga
   'malaga-h1': v(60, 75, { c: 'daily', n: '히브랄파로 성과 묶은 통합권이 있습니다.|A combined ticket with Gibralfaro is available.' }),
-  'malaga-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.museopicassomalaga.org/en' }),
+  'malaga-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.museopicassomalaga.org/en', k: '2026-10' }),
   'malaga-h3': v(30, 45, { s: 'https://malagacatedral.com/en/' }),
   'malaga-h4': v(45, 60),
   'malaga-h5': v(60, 75, { c: 'daily' }),
@@ -152,7 +152,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'ronda-h5': v(15, 20),
   // Nerja
   'nerja-h1': v(15, 20),
-  'nerja-h2': v(60, 75, { c: 'daily', b: 'rec', s: 'https://cuevadenerja.es/en/' }),
+  'nerja-h2': v(60, 75, { c: 'daily', b: 'rec', s: 'https://cuevadenerja.es/en/', k: '2026-10' }),
   'nerja-h3': v(60, 180),
   'nerja-h4': v(10, 15),
   'nerja-h5': v(15, 20),
@@ -163,7 +163,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'gibraltar-h4': v(20, 30, { n: '원숭이에게 먹이를 주면 벌금을 뭅니다. 가방과 음식을 조심하세요.|Feeding the monkeys is fined. Watch your bags and food.' }),
   'gibraltar-h5': v(20, 30),
   // Bilbao
-  'bilbao-h1': v(120, 150, { c: 'mon', b: 'rec', s: 'https://www.guggenheim-bilbao.eus/en', n: '한여름에는 월요일에도 엽니다.|Open on Mondays too in high summer.' }),
+  'bilbao-h1': v(120, 150, { c: 'mon', b: 'rec', s: 'https://www.guggenheim-bilbao.eus/en', n: '한여름(6월 중순~9월 초)과 일부 연휴에는 월요일에도 엽니다. 입장권은 날짜와 시간이 정해져 있고 바꿀 수 없습니다.|Open on Mondays too in high summer (mid-June to early September) and on some holiday Mondays. Tickets are for a fixed date and time and cannot be changed.', k: '2026-10' }),
   'bilbao-h2': v(60, 90),
   'bilbao-h3': v(15, 20),
   'bilbao-h4': v(45, 60, { s: 'https://puente-colgante.com/en/' }),
@@ -182,10 +182,10 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'santiago-h5': v(30, 45),
 
   // Andorra
-  'andorra-la-vella-h1': v(30, 40, { c: 'mon', b: 'rec', s: 'https://www.casadelavall.ad/' }),
+  'andorra-la-vella-h1': v(30, 40, { c: 'mon', b: 'req', s: 'https://www.casadelavall.ad/', n: '예약한 사람만 입장합니다. 월요일에 쉬고, 일요일은 5~10월에 오전만 열며 11~4월에는 쉽니다.|Admission is by reservation only. Closed on Mondays; on Sundays it opens mornings only from May to October and stays closed from November to April.', k: '2026-10' }),
   'andorra-la-vella-h2': v(10, 15),
   'andorra-la-vella-h3': v(60, 90),
-  'andorra-la-vella-h4': v(180, 180, { c: 'daily', b: 'rec', s: 'https://www.caldea.com/en', n: '시설 점검으로 해마다 몇 주씩 쉬는 기간이 있습니다.|Shuts for a few weeks each year for maintenance.' }),
+  'andorra-la-vella-h4': v(180, 180, { c: 'daily', b: 'rec', s: 'https://www.caldea.com/en', n: '시설 점검으로 해마다 몇 주씩 쉬는 기간이 있습니다.|Shuts for a few weeks each year for maintenance.', k: '2026-10' }),
   'andorra-la-vella-h5': v(30, 45),
   'pas-de-la-casa-h1': v(240, 420, { s: 'https://www.grandvalira.com/en', n: '스키 시즌은 대략 12월부터 4월까지입니다.|The ski season runs roughly December to April.' }),
   'pas-de-la-casa-h2': v(60, 90),
@@ -229,8 +229,8 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'aveiro-h5': v(30, 45),
   'aveiro-h6': v(10, 15),
   // Coimbra
-  'coimbra-h1': v(120, 150, { c: 'daily', b: 'rec', s: UC }),
-  'coimbra-h2': v(20, 20, { b: 'req', s: UC, n: '대학 입장권에 적힌 시간에만 들어가며 20분쯤 머뭅니다.|Entered only at the time on your university ticket, for about 20 minutes.' }),
+  'coimbra-h1': v(120, 150, { c: 'daily', b: 'rec', s: UC, k: '2026-10' }),
+  'coimbra-h2': v(20, 20, { b: 'req', s: UC, n: '대학 입장권에 적힌 시간에만 들어가며 20분쯤 머뭅니다.|Entered only at the time on your university ticket, for about 20 minutes.', k: '2026-10' }),
   'coimbra-h3': v(20, 30),
   'coimbra-h4': v(20, 30),
   'coimbra-h5': v(30, 45),
@@ -273,10 +273,10 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lisbon-h16': v(10, 15),
   'lisbon-h17': v(10, 15),
   // Sintra
-  'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.' }),
+  'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.', k: '2026-10' }),
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA }),
   'sintra-h3': v(60, 75, { c: 'daily', s: SINTRA }),
-  'sintra-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.regaleira.pt/en/' }),
+  'sintra-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.regaleira.pt/en/', k: '2026-10' }),
   'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA }),
   'sintra-h6': v(30, 45),
   // Cascais
@@ -295,7 +295,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lagos-h1': v(60, 120),
   'lagos-h2': v(60, 180),
   'lagos-h3': v(20, 30),
-  'lagos-h4': v(30, 40, { c: 'mon' }),
+  'lagos-h4': v(30, 40, { c: 'mon', k: '2026-10' }),
   'lagos-h5': v(60, 120),
   // Faro
   'faro-h1': v(45, 60),
@@ -306,7 +306,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Funchal
   'funchal-h1': v(60, 90, { n: '편도 15분쯤 걸리고, 내려올 때는 썰매(토보간)를 타기도 합니다.|About 15 minutes each way; many come down by wicker toboggan.' }),
   'funchal-h2': v(75, 90, { c: 'daily' }),
-  'funchal-h3': v(30, 45, { c: 'sun' }),
+  'funchal-h3': v(30, 45, { c: 'sun', n: '일요일과 공휴일에 쉬고 토요일은 오후 2시에 닫습니다.|Closed on Sundays and public holidays; Saturdays end at 2pm.', k: '2026-10' }),
   'funchal-h4': v(15, 20),
   'funchal-h5': v(60, 90),
 }

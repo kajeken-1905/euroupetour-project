@@ -49,8 +49,8 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'hvar-h4': v(60, 90, { n: '라벤더는 6월 말~7월 초에 핍니다.|The lavender blooms in late June and early July.' }),
   'hvar-h5': v(90, 120),
   // Plitvice
-  'plitvice-h1': v(30, 45, { c: 'daily', b: 'req', s: PLIT, t: PLIT_T, n: '입장권은 시간 지정이고 하루 인원이 제한돼 성수기에는 온라인으로 미리 사야 합니다.|Tickets are timed with a daily cap—buy online in advance in season.' }),
-  'plitvice-h2': v(240, 360, { c: 'daily', b: 'req', s: PLIT, t: PLIT_T, n: '전체 코스는 4~6시간 걸립니다. 호수에서 수영은 금지입니다.|The full routes take four to six hours. Swimming in the lakes is forbidden.' }),
+  'plitvice-h1': v(30, 45, { c: 'daily', b: 'rec', s: PLIT, t: PLIT_T, n: '입장권은 입구와 시간이 정해져 있고 시간당 인원이 제한됩니다. 현장에서도 남은 표를 팔지만 성수기에는 온라인으로 미리 사세요.|Tickets are for a set entrance and time, with hourly limits. Leftover tickets are sold at the gate, but buy online ahead in high season.', k: '2026-10' }),
+  'plitvice-h2': v(240, 360, { c: 'daily', b: 'rec', s: PLIT, t: PLIT_T, n: '전체 코스는 4~6시간 걸립니다. 호수에서 수영은 금지입니다.|The full routes take four to six hours. Swimming in the lakes is forbidden.', k: '2026-10' }),
   'plitvice-h3': v(120, 180, { s: PLIT, t: PLIT_T }),
   'plitvice-h4': v(45, 60),
   // Trogir
@@ -64,7 +64,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'ljubljana-h2': v(10, 10),
   'ljubljana-h3': v(15, 20),
   'ljubljana-h4': v(45, 60),
-  'ljubljana-h5': v(30, 45, { c: 'sun', b: 'no' }),
+  'ljubljana-h5': v(30, 45, { b: 'no', n: '일요일과 공휴일에는 노천 시장 대부분이 쉽니다. 운영사 안내로는 여름 등 일부 기간에 일부 구역만 엽니다.|Most of the open-air market is closed on Sundays and holidays; according to the operator some sections open on Sundays in part of the year.' }),
   // Bled
   'bled-h1': v(90, 120, { n: '호수 한 바퀴는 약 6km입니다.|The lakeside loop is about 6 km.' }),
   'bled-h2': v(75, 90, { n: '전통 나룻배(플레트나)로 건넙니다. 호수가 얼거나 날씨가 나쁘면 다니지 않습니다.|Reached by traditional pletna boat; no service when the lake freezes or in bad weather.' }),
@@ -84,7 +84,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'maribor-h4': v(30, 45),
   'maribor-h5': v(120, 180),
   // Postojna
-  'postojna-h1': v(90, 120, { c: 'daily', b: 'rec', s: POSTOJNA, n: '정해진 시간에 출발하는 투어로만 들어갑니다. 동굴 안은 1년 내내 10도쯤입니다.|Entered on tours at fixed times only. It is about 10°C inside all year.' }),
+  'postojna-h1': v(90, 120, { c: 'daily', b: 'rec', s: POSTOJNA, n: '정해진 시간에 출발하는 투어로만 들어갑니다. 동굴 안은 1년 내내 10도쯤입니다.|Entered on tours at fixed times only. It is about 10°C inside all year.', k: '2026-10' }),
   'postojna-h2': v(60, 75, { c: 'daily', s: POSTOJNA, n: '동굴에서 9km 떨어져 있고 묶음권이 있습니다.|Nine kilometres from the cave, with combined tickets available.' }),
   'postojna-h3': v(30, 40, { s: POSTOJNA }),
   'postojna-h4': v(30, 45),
@@ -159,7 +159,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'novi-sad-h5': v(180, 240),
   // Niš
   'nis-h1': v(45, 60, { b: 'no', n: FREE }),
-  'nis-h2': v(20, 30, { c: 'mon' }),
+  'nis-h2': v(20, 30, { c: 'mon', k: '2026-10' }),
   'nis-h3': v(20, 30),
   'nis-h4': v(20, 30),
   'nis-h5': v(30, 45),
@@ -198,7 +198,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Tirana
   'tirana-h1': v(20, 30),
   'tirana-h2': v(45, 60),
-  'tirana-h3': v(150, 180, { c: 'tue', s: 'https://dajtiekspres.com/', n: '케이블카로 15분쯤 오릅니다. 공휴일이 아닌 화요일에는 쉽니다.|About 15 minutes up by cable car; closed on Tuesdays unless a public holiday.' }),
+  'tirana-h3': v(150, 180, { c: 'tue', s: 'https://dajtiekspres.com/', n: '케이블카로 15분쯤 오릅니다. 공휴일이 아닌 화요일에는 쉽니다.|About 15 minutes up by cable car; closed on Tuesdays unless a public holiday.', k: '2026-10' }),
   'tirana-h4': v(20, 30, { b: 'no', n: '바깥 계단으로 꼭대기까지 무료로 오릅니다.|Free to climb by the outside steps.' }),
   'tirana-h5': v(10, 15, { n: MOSQUE }),
   // Berat

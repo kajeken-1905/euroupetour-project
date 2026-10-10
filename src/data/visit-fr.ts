@@ -45,12 +45,12 @@ export const visitFr: Record<string, HighlightVisit> = {
   'paris-h38': v(45, 90),
   'paris-h7': v(240, 360, { c: 'mon', b: 'req', s: 'https://en.chateauversailles.fr/', t: 'https://ticket.chateauversailles.fr/en', n: '궁전 입장은 시간 지정 예약이 필요합니다. 파리에서 RER C로 약 40분 걸려 하루 일정으로 잡는 편이 좋습니다.|Palace entry needs a timed slot. It is about 40 minutes from Paris by RER C—plan a full day.', k: '2026-10' }),
   // Giverny
-  'giverny-h1': v(45, 60, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', n: '집과 정원은 표 한 장으로 함께 보며, 봄부터 가을(대략 4월~11월 초)에만 엽니다.|House and gardens share one ticket and open only from spring to autumn (roughly April to early November).' }),
-  'giverny-h2': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/' }),
-  'giverny-h3': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/' }),
+  'giverny-h1': v(45, 60, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', n: '집과 정원은 표 한 장으로 함께 보며, 봄부터 가을(대략 4월~11월 초)에만 엽니다.|House and gardens share one ticket and open only from spring to autumn (roughly April to early November).', k: '2026-10' }),
+  'giverny-h2': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', k: '2026-10' }),
+  'giverny-h3': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', k: '2026-10' }),
   'giverny-h4': v(45, 75, { s: 'https://www.mdig.fr/en/', n: '전시 교체 기간과 겨울에는 휴관합니다.|Closed between exhibitions and in winter.' }),
   // Fontainebleau
-  'fontainebleau-h1': v(120, 180, { c: 'tue', b: 'no', s: 'https://www.chateaudefontainebleau.fr/en/' }),
+  'fontainebleau-h1': v(120, 180, { c: 'tue', b: 'no', s: 'https://www.chateaudefontainebleau.fr/en/', k: '2026-10' }),
   'fontainebleau-h2': v(10, 15),
   'fontainebleau-h3': v(120, 240),
   'fontainebleau-h4': v(60, 90),
@@ -87,7 +87,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'bayeux-h4': v(60, 90, { b: 'no', s: 'https://www.abmc.gov/cemeteries-memorials/about-normandy-american-cemetery/', n: '입장은 무료입니다.|Entry is free.' }),
   'bayeux-h5': v(45, 60),
   // Mont Saint-Michel
-  'mont-saint-michel-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.abbaye-mont-saint-michel.fr/en', t: CMN, n: '주차장에서 섬까지 셔틀이나 도보로 30~40분을 더 잡으세요.|Allow another 30–40 minutes from the car park to the island by shuttle or on foot.' }),
+  'mont-saint-michel-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.abbaye-mont-saint-michel.fr/en', t: CMN, n: '개별 관람은 예약 없이 들어갑니다(표를 미리 사 두면 매표소 줄을 피합니다). 1월 1일·5월 1일·12월 25일은 쉽니다. 주차장에서 섬까지 셔틀이나 도보로 30~40분을 더 잡으세요.|No booking is needed for a self-guided visit (buying ahead skips the ticket queue). Closed 1 Jan, 1 May and 25 Dec. Allow 30–40 minutes more from the car park by shuttle or on foot.', k: '2026-10' }),
   'mont-saint-michel-h2': v(20, 30),
   'mont-saint-michel-h3': v(30, 45),
   'mont-saint-michel-h4': v(30, 60, { n: '갯벌은 조수가 빠르고 유사(流砂)가 있어 공인 가이드 없이 걸으면 위험합니다.|The bay has fast tides and quicksand—walk it only with a licensed guide.' }),
@@ -106,7 +106,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   // Amboise & Loire châteaux
   'amboise-h1': v(75, 105, { c: 'daily', s: 'https://www.chateau-amboise.com/en/' }),
   'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/' }),
-  'amboise-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.chenonceau.com/en/' }),
+  'amboise-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.chenonceau.com/en/', n: '성수기에 붐비는 날은 시간 지정 예약이 필수입니다.|On busy high-season days a timed slot must be booked.', k: '2026-10' }),
   'amboise-h4': v(150, 210, { c: 'daily', s: 'https://www.chambord.org/en/' }),
   // La Rochelle
   'la-rochelle-h1': v(60, 90, { s: 'https://www.tours-la-rochelle.fr/en', t: CMN }),
@@ -115,7 +115,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'la-rochelle-h4': v(30, 45),
   // Dijon
   'dijon-h1': v(15, 20),
-  'dijon-h2': v(90, 120, { c: 'tue', b: 'no', s: 'https://musees.dijon.fr/', n: '궁전 안 미술관은 상설 전시가 무료입니다.|The fine-arts museum inside is free for the permanent collection.' }),
+  'dijon-h2': v(90, 120, { c: 'tue', b: 'no', s: 'https://musees.dijon.fr/', n: '궁전 안 미술관은 상설 전시가 무료입니다.|The fine-arts museum inside is free for the permanent collection.', k: '2026-10' }),
   'dijon-h3': v(15, 20),
   'dijon-h4': v(15, 20),
   'dijon-h5': v(30, 45, { n: '장은 화·목·금·토요일 오전에 섭니다.|Market mornings are Tuesday, Thursday, Friday and Saturday.' }),
@@ -124,7 +124,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'lyon-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.fourviere.org/en/', n: '입장은 무료입니다.|Entry is free.' }),
   'lyon-h3': v(15, 20),
   'lyon-h4': v(60, 90),
-  'lyon-h5': v(45, 75, { c: 'mon', s: 'https://www.halles-de-lyon-paulbocuse.com/' }),
+  'lyon-h5': v(45, 75, { s: 'https://www.halles-de-lyon-paulbocuse.com/', n: '시장 전체가 쉬는 날은 없지만 월요일에는 문을 닫는 가게가 많고, 일요일은 오후 1시쯤 끝납니다.|The hall has no closing day, but many stalls shut on Mondays and Sunday trading ends around 1pm.', k: '2026-10' }),
   // Annecy
   'annecy-h1': v(60, 120),
   'annecy-h2': v(45, 60),
@@ -132,7 +132,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'annecy-h4': v(60, 75, { s: 'https://musees.annecy.fr/' }),
   'annecy-h5': v(15, 20),
   // Chamonix
-  'chamonix-h1': v(150, 210, { b: 'rec', s: 'https://aiguilledumidi.montblancnaturalresort.com/en', n: '날씨와 정기 점검으로 운휴하는 날이 있으니 당일 운행 여부를 확인하세요. 정상은 한여름에도 영하에 가깝습니다.|It closes for weather and maintenance—check on the day. The summit is near freezing even in summer.' }),
+  'chamonix-h1': v(150, 210, { b: 'req', s: 'https://aiguilledumidi.montblancnaturalresort.com/en', n: '시간 지정 예약이 필수입니다. 2026년 11월 2일~12월 18일은 정기 점검으로 운휴하며, 날씨로 멈추는 날도 있으니 당일 운행 여부를 확인하세요. 정상은 한여름에도 영하에 가깝습니다.|A timed booking is compulsory. Closed for maintenance 2 Nov–18 Dec 2026 and on bad-weather days, so check on the day. The summit stays near freezing even in midsummer.', k: '2026-10' }),
   'chamonix-h2': v(120, 180, { s: 'https://montenversmerdeglace.montblancnaturalresort.com/en' }),
   'chamonix-h3': v(45, 60),
   'chamonix-h4': v(90, 120, { n: '케이블카는 계절 운행이라 봄·가을에는 쉬는 기간이 있습니다.|The lifts are seasonal and shut for periods in spring and autumn.' }),
@@ -141,7 +141,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'bordeaux-h1': v(15, 20),
   'bordeaux-h2': v(15, 60, { s: 'https://www.opera-bordeaux.com/' }),
   'bordeaux-h3': v(45, 60),
-  'bordeaux-h4': v(120, 180, { c: 'daily', b: 'rec', s: 'https://www.laciteduvin.com/en' }),
+  'bordeaux-h4': v(120, 180, { c: 'daily', b: 'rec', s: 'https://www.laciteduvin.com/en', n: '12월 25일과 1월 마지막 주(정기 점검)에는 쉽니다.|Closed on 25 December and for maintenance in the last week of January.', k: '2026-10' }),
   'bordeaux-h5': v(45, 60),
   // Arcachon
   'arcachon-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://ladunedupilat.com/en/', n: '입장은 무료이고 주차장만 유료입니다.|The dune is free; only the car park charges.' }),
@@ -156,17 +156,17 @@ export const visitFr: Record<string, HighlightVisit> = {
   // Toulouse
   'toulouse-h1': v(20, 30),
   'toulouse-h2': v(30, 45, { b: 'no', s: 'https://basilique-saint-sernin.fr/', n: '성당 입장은 무료입니다.|Entry to the basilica is free.' }),
-  'toulouse-h3': v(45, 60, { c: 'mon' }),
+  'toulouse-h3': v(45, 60, { c: 'mon', k: '2026-10' }),
   'toulouse-h4': v(30, 45),
-  'toulouse-h5': v(240, 300, { b: 'rec', s: 'https://www.cite-espace.com/', n: '비수기에는 쉬는 날이 있으니 달력을 확인하세요.|Closed on some days outside peak season—check the calendar.' }),
+  'toulouse-h5': v(240, 300, { b: 'rec', s: 'https://www.cite-espace.com/', n: '9월~3월에는 방학 기간이 아닌 월요일에 쉬고, 1월에는 몇 주간 정기 휴관합니다. 달력을 확인하세요.|From September to March it closes on Mondays outside school holidays, and for some weeks in January; check the calendar.', k: '2026-10' }),
   // Montpellier
   'montpellier-h1': v(15, 20),
   'montpellier-h2': v(60, 90),
   'montpellier-h3': v(20, 30),
-  'montpellier-h4': v(90, 120, { c: 'mon', b: 'no', s: 'https://www.museefabre.fr/' }),
+  'montpellier-h4': v(90, 120, { c: 'mon', b: 'no', s: 'https://www.museefabre.fr/', k: '2026-10' }),
   'montpellier-h5': v(30, 45),
   // Avignon
-  'avignon-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://palais-des-papes.com/' }),
+  'avignon-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://palais-des-papes.com/', k: '2026-10' }),
   'avignon-h2': v(30, 45, { c: 'daily', s: 'https://avignon-pont.com/', n: '교황청과 묶은 통합권이 있습니다.|A combined ticket with the Palais des Papes is available.' }),
   'avignon-h3': v(30, 45),
   'avignon-h4': v(15, 20),
@@ -174,7 +174,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   // Marseille
   'marseille-h1': v(30, 45),
   'marseille-h2': v(60, 75, { c: 'daily', b: 'no', n: '입장은 무료입니다.|Entry is free.' }),
-  'marseille-h3': v(120, 180, { c: 'tue', b: 'no', s: 'https://www.mucem.org/en' }),
+  'marseille-h3': v(120, 180, { c: 'tue', b: 'no', s: 'https://www.mucem.org/en', k: '2026-10' }),
   'marseille-h4': v(240, 360, { s: 'https://www.calanques-parcnational.fr/en', n: '여름철 수지통(Sugiton) 만은 무료 사전 예약이 필수이고, 산불 위험이 큰 날에는 국립공원 출입이 통제됩니다.|In summer the Sugiton cove needs a free advance reservation, and the park closes on days of high fire risk.' }),
   'marseille-h5': v(45, 60),
   // Cannes
@@ -188,7 +188,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'nice-h4': v(30, 45, { n: '꽃·식료품 시장은 월요일에 쉬고 그날은 골동품 시장이 섭니다.|The flower and food market rests on Mondays, when an antiques market takes its place.' }),
   'nice-h5': v(60, 90, { c: 'mon', s: 'https://www.musee-beaux-arts-nice.org/en/', k: '2026-10' }),
   // Ajaccio
-  'ajaccio-h1': v(45, 60, { c: 'mon', s: 'https://musees-nationaux-malmaison.fr/musee-maisonbonaparte/' }),
+  'ajaccio-h1': v(45, 60, { c: 'mon', s: 'https://musees-nationaux-malmaison.fr/musee-maisonbonaparte/', k: '2026-10' }),
   'ajaccio-h2': v(60, 120),
   'ajaccio-h3': v(60, 90, { s: 'https://www.musee-fesch.com/' }),
   'ajaccio-h4': v(30, 45),

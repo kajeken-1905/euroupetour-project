@@ -44,7 +44,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'nessebar-h5': v(40, 45),
 
   // Bucharest
-  'bucharest-h1': v(60, 90, { c: 'daily', b: 'req', n: '가이드 투어로만 들어가며 하루 전까지 예약해야 합니다. 여권 원본이 없으면 입장할 수 없습니다.|Guided tours only, booked at least a day ahead. No entry without your original passport.' }),
+  'bucharest-h1': v(60, 90, { c: 'daily', b: 'req', n: '가이드 투어로만 들어가며 하루 전까지 전화로 예약해야 합니다(온라인 판매 없음, 표는 당일 현장 구매). 여권 원본이 없으면 입장할 수 없습니다.|Guided tours only, reserved by phone at least a day ahead (no online sales; tickets are bought on the day). You will not be admitted without your original passport.', k: '2026-10' }),
   'bucharest-h2': v(60, 90),
   'bucharest-h3': v(15, 20),
   'bucharest-h4': v(60, 90),
@@ -54,7 +54,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'brasov-h1': v(30, 45, { s: 'https://bisericaneagra.ro/en/', n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.' }),
   'brasov-h2': v(20, 30),
   'brasov-h3': v(60, 90, { n: '케이블카는 월요일 오전에 점검으로 쉽니다.|The cable car is shut for maintenance on Monday mornings.' }),
-  'brasov-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://bran-castle.com/', n: '브라쇼브에서 버스로 45분쯤 걸립니다.|About 45 minutes by bus from Brașov.' }),
+  'brasov-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://bran-castle.com/', n: '브라쇼브에서 버스로 45분쯤 걸립니다.|About 45 minutes by bus from Brașov.', k: '2026-10' }),
   'brasov-h5': v(20, 30),
   // Sibiu
   'sibiu-h1': v(20, 30),
@@ -149,7 +149,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Kutaisi
   'kutaisi-h1': v(30, 45, { b: 'no', n: CHURCH }),
   'kutaisi-h2': v(45, 60, { b: 'no', n: '수년째 복원 공사 중이라 비계가 쳐져 있고 일부만 들어갈 수 있습니다.|Under restoration for years—expect scaffolding and only partial access.' }),
-  'kutaisi-h3': v(75, 90, { c: 'mon', n: '가이드 투어로만 들어가며 안은 14도쯤입니다.|Guided tours only; it is about 14°C inside.' }),
+  'kutaisi-h3': v(75, 90, { n: '공식 안내가 매일 개방과 월요일 휴무로 서로 다르고 기술 점검으로 닫는 기간도 있으니 가기 전에 확인하세요. 가이드 투어로만 들어가며 안은 14도쯤입니다.|Official pages disagree (open daily, or closed on Mondays) and it sometimes closes for technical work, so check before going. Guided tours only; about 14°C inside.' }),
   'kutaisi-h4': v(10, 15),
   'kutaisi-h5': v(60, 75),
   // Stepantsminda (Kazbegi)
@@ -168,7 +168,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Armenia
   'yerevan-h1': v(60, 90, { s: 'https://www.cmf.am/en', n: '바깥 계단은 무료로 오르고, 안쪽 카페스지안 미술관은 월요일에 쉽니다.|The outdoor steps are free; the Cafesjian galleries inside close on Mondays.' }),
   'yerevan-h2': v(20, 30, { n: '여름철 저녁에는 음악 분수 쇼가 열립니다.|A musical fountain show runs on summer evenings.' }),
-  'yerevan-h3': v(60, 75, { c: 'sun,mon', s: 'https://matenadaran.am/en/matenadaran/home/' }),
+  'yerevan-h3': v(60, 75, { c: 'sun,mon', s: 'https://matenadaran.am/en/matenadaran/home/', k: '2026-10' }),
   'gyumri-h1': v(20, 30),
   'gyumri-h2': v(30, 45),
   'gyumri-h3': v(45, 60),

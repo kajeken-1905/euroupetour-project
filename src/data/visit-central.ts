@@ -32,13 +32,13 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'innsbruck-h5': v(90, 120, { s: 'https://www.schlossambras-innsbruck.at/en/', n: '11월에는 휴관합니다.|Closed in November.' }),
   // Graz
   'graz-h1': v(60, 90, { b: 'no', n: '언덕은 무료이고 엘리베이터·푸니쿨라는 유료입니다.|The hill is free; the lift and funicular charge.' }),
-  'graz-h2': v(60, 75, { c: 'mon', s: 'https://www.museum-joanneum.at/en/kunsthaus-graz' }),
+  'graz-h2': v(60, 75, { c: 'mon', s: 'https://www.museum-joanneum.at/en/kunsthaus-graz', k: '2026-10' }),
   'graz-h3': v(60, 90),
   'graz-h4': v(20, 30),
   'graz-h5': v(90, 120, { n: '궁전 내부는 대략 4월부터 10월까지 가이드 투어로만 봅니다. 정원은 연중 엽니다.|The state rooms are by guided tour only, roughly April to October; the park is open all year.' }),
   // Hallstatt
   'hallstatt-h1': v(45, 90),
-  'hallstatt-h2': v(180, 210, { b: 'rec', n: '푸니쿨라 교체 공사로 2025년 9월부터 닫았다가 2026년 8월 말 재개장했습니다. 겨울에는 쉬는 기간이 있습니다.|Closed from September 2025 for a new funicular and reopened at the end of August 2026. It shuts for part of the winter.' }),
+  'hallstatt-h2': v(180, 210, { b: 'rec', n: '푸니쿨라 교체 공사로 2025년 9월부터 닫았다가 2026년 8월 말 재개장했습니다. 겨울에는 쉬는 기간이 있습니다.|Closed from September 2025 for a new funicular and reopened at the end of August 2026. It shuts for part of the winter.', k: '2026-10' }),
   'hallstatt-h3': v(15, 20, { n: '소액의 입장료가 있고 겨울에는 닫습니다.|A small fee applies; closed in winter.' }),
   'hallstatt-h4': v(15, 20),
   'hallstatt-h5': v(10, 15),
@@ -58,12 +58,12 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'prague-h12': v(15, 20, { n: '근위병 교대식은 매시 정각에 있고 정오에 가장 크게 열립니다.|The guard changes hourly, with the full ceremony at noon.' }),
   // Brno
   'brno-h1': v(75, 90, { s: 'https://www.spilberk.cz/en/' }),
-  'brno-h2': v(60, 90, { c: 'mon', b: 'req', s: 'https://www.vilatugendhat.cz/en/', n: '내부 투어는 몇 달 전에 매진됩니다. 표가 없으면 정원만 볼 수 있습니다.|Interior tours sell out months ahead; without a ticket only the garden can be seen.' }),
+  'brno-h2': v(60, 90, { c: 'mon', b: 'req', s: 'https://www.vilatugendhat.cz/en/', n: '내부 투어는 몇 달 전에 매진됩니다. 표가 없으면 정원만 볼 수 있습니다.|Interior tours sell out months ahead; without a ticket only the garden can be seen.', k: '2026-10' }),
   'brno-h3': v(15, 20),
   'brno-h4': v(30, 45),
   'brno-h5': v(20, 30),
   // Český Krumlov
-  'cesky-krumlov-h1': v(90, 150, { c: 'mon', s: 'https://www.zamek-ceskykrumlov.cz/en', n: '성 내부는 대략 4월부터 10월까지 가이드 투어로만 봅니다. 안뜰은 연중 무료입니다.|The interiors are by guided tour, roughly April to October. The courtyards are free all year.' }),
+  'cesky-krumlov-h1': v(90, 150, { s: 'https://www.zamek-ceskykrumlov.cz/en', n: '월요일 휴무 여부가 코스와 계절마다 다릅니다(박물관과 탑은 9~10월에 매일, 12월에는 화~일요일). 가는 날의 시간표를 확인하세요.|Whether Monday is a closing day depends on the route and the season (the museum and tower open daily in September–October, Tuesday–Sunday in December). Check the timetable for your date.', k: '2026-10' }),
   'cesky-krumlov-h2': v(60, 90),
   'cesky-krumlov-h3': v(15, 20),
   'cesky-krumlov-h4': v(120, 180, { n: '여름철에만 할 수 있습니다.|A summer-only activity.' }),
@@ -77,12 +77,12 @@ export const visitCentral: Record<string, HighlightVisit> = {
   // České Budějovice
   'ceske-budejovice-h1': v(20, 30),
   'ceske-budejovice-h2': v(20, 30, { n: '계단 225개를 오르고 겨울에는 닫습니다.|225 steps; closed in winter.' }),
-  'ceske-budejovice-h3': v(60, 75, { b: 'req', n: '양조장 투어는 미리 예약해야 합니다.|Brewery tours must be booked ahead.' }),
+  'ceske-budejovice-h3': v(60, 75, { b: 'req', n: '양조장 투어는 미리 예약해야 합니다.|Brewery tours must be booked ahead.', k: '2026-10' }),
   'ceske-budejovice-h4': v(10, 15),
   'ceske-budejovice-h5': v(20, 30),
 
   // Bratislava
-  'bratislava-h1': v(60, 90, { c: 'tue', n: '성 바깥뜰과 전망은 무료이고 안쪽 박물관만 유료입니다.|The grounds and views are free; only the museum inside is ticketed.' }),
+  'bratislava-h1': v(60, 90, { c: 'tue', n: '성 바깥뜰과 전망은 무료이고 안쪽 박물관만 유료입니다.|The grounds and views are free; only the museum inside is ticketed.', k: '2026-10' }),
   'bratislava-h2': v(60, 90),
   'bratislava-h3': v(20, 30),
   'bratislava-h4': v(10, 150, { n: SHOW }),
@@ -90,7 +90,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   // Košice
   'kosice-h1': v(30, 45),
   'kosice-h2': v(30, 45),
-  'kosice-h3': v(45, 60, { c: 'mon' }),
+  'kosice-h3': v(45, 60, { c: 'mon', k: '2026-10' }),
   'kosice-h4': v(10, 15),
   'kosice-h5': v(15, 20),
   // Poprad
@@ -124,7 +124,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'budapest-h9': v(30, 45, { c: 'daily', s: 'https://matyas-templom.hu/en/', k: '2026-10' }),
   // Debrecen
   'debrecen-h1': v(30, 40),
-  'debrecen-h2': v(60, 75, { c: 'mon' }),
+  'debrecen-h2': v(60, 75, { c: 'mon', k: '2026-10' }),
   'debrecen-h3': v(60, 90),
   'debrecen-h4': v(15, 20),
   'debrecen-h5': v(180, 240),
@@ -138,7 +138,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'szeged-h1': v(30, 45),
   'szeged-h2': v(15, 20),
   'szeged-h3': v(30, 45),
-  'szeged-h4': v(30, 40, { c: 'sat' }),
+  'szeged-h4': v(30, 40, { c: 'mon,sat', n: '월요일·토요일과 유대교 명절에 쉬고, 금요일은 계절에 따라 일찍 닫습니다.|Closed on Mondays, Saturdays and Jewish holidays; Fridays end early in winter.', k: '2026-10' }),
   'szeged-h5': v(15, 30),
   // Eger
   'eger-h1': v(105, 120, { c: 'daily', s: 'https://www.egrivar.hu/en/' }),
@@ -149,10 +149,10 @@ export const visitCentral: Record<string, HighlightVisit> = {
 
   // Warsaw
   'warsaw-h1': v(90, 120),
-  'warsaw-h2': v(90, 120, { c: 'mon', n: '수요일은 상설 전시가 무료입니다.|The permanent route is free on Wednesdays.' }),
+  'warsaw-h2': v(90, 120, { c: 'mon', n: '수요일은 상설 전시가 무료입니다.|The permanent route is free on Wednesdays.', k: '2026-10' }),
   'warsaw-h3': v(90, 120, { s: 'https://www.lazienki-krolewskie.pl/en', n: '공원은 무료이고 궁전 건물은 월요일에 쉽니다. 여름 일요일에는 쇼팽 야외 연주회가 열립니다.|The park is free; the palace buildings close on Mondays. Free Chopin concerts run on summer Sundays.' }),
   'warsaw-h4': v(30, 45, { c: 'daily', s: 'https://pkin.pl/en/home/', n: '30층 전망대가 유료입니다.|The 30th-floor viewing terrace is ticketed.' }),
-  'warsaw-h5': v(120, 180, { c: 'tue', s: 'https://www.polin.pl/en', n: '목요일은 상설 전시가 무료입니다.|The core exhibition is free on Thursdays.' }),
+  'warsaw-h5': v(120, 180, { c: 'tue', s: 'https://www.polin.pl/en', n: '목요일은 상설 전시가 무료입니다.|The core exhibition is free on Thursdays.', k: '2026-10' }),
   // Kraków
   'krakow-h1': v(45, 60),
   'krakow-h2': v(120, 180, { c: 'daily', b: 'req', s: 'https://wawel.krakow.pl/en', t: 'https://bilety.wawel.krakow.pl/', n: '전시마다 표가 따로이고 시간 지정이며 하루 입장 인원이 제한됩니다. 성 안뜰과 대성당 본당은 무료입니다.|Each exhibition has its own timed ticket with a daily cap. The courtyard and the cathedral nave are free.', k: '2026-10' }),
@@ -170,7 +170,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'wroclaw-h2': v(45, 60),
   'wroclaw-h3': v(45, 60, { s: 'https://halastulecia.pl/en/for-visitors/', n: '행사가 있는 날은 내부 관람이 제한됩니다.|Interior visits are restricted on event days.' }),
   'wroclaw-h4': v(60, 120),
-  'wroclaw-h5': v(40, 45, { c: 'wed' }),
+  'wroclaw-h5': v(40, 45, { c: 'wed', k: '2026-10' }),
   // Poznań
   'poznan-h1': v(30, 45, { n: '매일 정오에 시청 시계탑에서 염소 두 마리가 뿔을 맞댑니다.|At noon each day two mechanical goats butt heads on the town hall clock.' }),
   'poznan-h2': v(45, 60),
@@ -179,14 +179,14 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'poznan-h5': v(60, 90),
   // Zakopane
   'zakopane-h1': v(60, 90, { s: PKL }),
-  'zakopane-h2': v(150, 180, { b: 'rec', s: PKL, n: '케이블카는 성수기에 며칠 전에 매진되고 봄·가을 정기 점검 기간에는 운휴합니다.|The cable car sells out days ahead in season and closes for maintenance in spring and autumn.' }),
+  'zakopane-h2': v(150, 180, { b: 'rec', s: PKL, n: '매표소 줄이 길어 온라인 예매를 권합니다. 가을에 정기 점검으로 몇 주 운휴하며(2026년은 10월 19일~11월 6일로 안내), 강풍이 불면 멈춥니다.|Queues at the ticket office are long, so buy online. It shuts for a few weeks of maintenance each autumn (announced as 19 Oct–6 Nov for 2026) and stops in strong wind.', k: '2026-10' }),
   'zakopane-h3': v(45, 60),
   'zakopane-h4': v(300, 360, { n: '주차장에서 호수까지 편도 약 9km를 걷습니다. 국립공원 입장료가 있고 성수기에는 주차 예약이 필요합니다.|About 9 km each way on foot from the car park. A national park fee applies, and parking must be pre-booked in season.' }),
   'zakopane-h5': v(45, 60),
   // Toruń
   'torun-h1': v(60, 90),
-  'torun-h2': v(45, 60, { c: 'mon' }),
+  'torun-h2': v(45, 60, { c: 'mon', k: '2026-10' }),
   'torun-h3': v(20, 30),
   'torun-h4': v(20, 30),
-  'torun-h5': v(60, 75, { c: 'daily', b: 'rec', s: 'https://muzeumpiernika.pl/en/', n: '정해진 시간에 시작하는 체험 프로그램으로 운영합니다.|Runs as hands-on sessions at fixed start times.' }),
+  'torun-h5': v(60, 75, { c: 'daily', b: 'rec', s: 'https://muzeumpiernika.pl/en/', n: '정해진 시간에 시작하는 체험 프로그램으로 운영합니다.|Runs as hands-on sessions at fixed start times.', k: '2026-10' }),
 }
