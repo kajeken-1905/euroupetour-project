@@ -40,11 +40,11 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Salamanca
   'salamanca-h1': v(20, 30),
   'salamanca-h2': v(45, 60),
-  'salamanca-h3': v(60, 90, { c: 'daily', s: 'https://catedralsalamanca.org/en/' }),
+  'salamanca-h3': v(60, 90, { c: 'daily', s: 'https://catedralsalamanca.org/en/', n: '12월 25일은 관광 입장이 없고 12월 24·31일은 14시에 닫습니다.|No sightseeing entry on 25 December; closes at 14:00 on 24 and 31 December.', k: '2026-10' }),
   'salamanca-h4': v(15, 20),
   'salamanca-h5': v(15, 20, { b: 'no', n: FREE }),
   // Toledo
-  'toledo-h1': v(75, 90, { c: 'daily', s: 'https://www.catedralprimada.es/en/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.' }),
+  'toledo-h1': v(75, 90, { c: 'daily', s: 'https://www.catedralprimada.es/en/', n: '일요일은 14시부터 관광 입장이 됩니다. 1월 1일과 12월 25일은 쉽니다.|On Sundays sightseeing entry starts at 14:00. Closed 1 January and 25 December.', k: '2026-10' }),
   'toledo-h7': v(10, 15),
   'toledo-h2': v(75, 90, { c: 'mon', k: '2026-10' }),
   'toledo-h3': v(20, 30, { c: 'daily', s: 'https://santotome.org/', k: '2026-10' }),
@@ -139,11 +139,11 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'granada-h2': v(90, 120),
   'granada-h5': v(60, 90),
   // Málaga
-  'malaga-h1': v(60, 75, { c: 'daily', n: '히브랄파로 성과 묶은 통합권이 있습니다.|A combined ticket with Gibralfaro is available.' }),
+  'malaga-h1': v(60, 75, { c: 'daily', n: '히브랄파로 성과 묶은 통합권이 있습니다.|A combined ticket with Gibralfaro is available.', k: '2026-10' }),
   'malaga-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.museopicassomalaga.org/en', k: '2026-10' }),
   'malaga-h3': v(30, 45, { s: 'https://malagacatedral.com/en/' }),
   'malaga-h4': v(45, 60),
-  'malaga-h5': v(60, 75, { c: 'daily' }),
+  'malaga-h5': v(60, 75, { c: 'daily', k: '2026-10' }),
   // Ronda
   'ronda-h1': v(20, 30),
   'ronda-h2': v(45, 60),
@@ -277,7 +277,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
   'sintra-h3': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
   'sintra-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.regaleira.pt/en/', k: '2026-10' }),
-  'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA }),
+  'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA, n: '궁전 지붕 복원 공사로 2027년 1분기까지 비계가 설치돼 있습니다.|Roof restoration keeps scaffolding on the palace until the first quarter of 2027.' }),
   'sintra-h6': v(30, 45),
   // Cascais
   'cascais-h1': v(60, 120),
@@ -288,7 +288,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Évora
   'evora-h1': v(10, 15),
   'evora-h2': v(45, 60, { s: 'https://www.evoracathedral.com/?lang=en' }),
-  'evora-h3': v(30, 40, { c: 'daily', s: 'https://igrejadesaofrancisco.pt/' }),
+  'evora-h3': v(30, 40, { c: 'daily', s: 'https://igrejadesaofrancisco.pt/', n: '1월 1일, 부활절 일요일, 12월 24일 오후, 12월 25일은 쉽니다.|Closed 1 January, Easter Sunday, the afternoon of 24 December and 25 December.', k: '2026-10' }),
   'evora-h4': v(15, 20),
   'evora-h5': v(15, 20),
   // Lagos
@@ -305,7 +305,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'faro-h5': v(120, 180),
   // Funchal
   'funchal-h1': v(60, 90, { n: '편도 15분쯤 걸리고, 내려올 때는 썰매(토보간)를 타기도 합니다.|About 15 minutes each way; many come down by wicker toboggan.' }),
-  'funchal-h2': v(75, 90, { c: 'daily' }),
+  'funchal-h2': v(75, 90, { c: 'daily', n: '12월 25일만 쉽니다.|Closed only on 25 December.', k: '2026-10' }),
   'funchal-h3': v(30, 45, { c: 'sun', n: '일요일과 공휴일에 쉬고 토요일은 오후 2시에 닫습니다.|Closed on Sundays and public holidays; Saturdays end at 2pm.', k: '2026-10' }),
   'funchal-h4': v(15, 20),
   'funchal-h5': v(60, 90),

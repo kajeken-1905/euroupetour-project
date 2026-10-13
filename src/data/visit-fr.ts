@@ -41,7 +41,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'paris-h36': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.sacre-coeur-montmartre.com/en/', n: '성당은 무료이고 돔 전망대만 유료입니다. 돔 표는 현장에서만 팝니다.|The basilica is free; only the dome climb is ticketed, with tickets sold on site only.', k: '2026-10' }),
   'paris-h37': v(120, 120, { b: 'req', s: 'https://www.moulinrouge.fr/en/', n: '공연 관람은 예약제입니다. 외관만 보면 10분이면 됩니다.|Shows are by reservation; the exterior takes ten minutes.', k: '2026-10' }),
   'paris-h5': v(60, 75, { n: '유람선은 회사(바토 무슈, 바토 파리지앵, 브데트 뒤 퐁뇌프 등)마다 선착장과 표가 다릅니다.|Cruise piers and tickets differ by operator (Bateaux-Mouches, Bateaux Parisiens, Vedettes du Pont-Neuf).' }),
-  'paris-h39': v(60, 120, { c: 'daily', b: 'no' }),
+  'paris-h39': v(60, 120, { c: 'daily', b: 'no', k: '2026-10' }),
   'paris-h38': v(45, 90),
   'paris-h7': v(240, 360, { c: 'mon', b: 'req', s: 'https://en.chateauversailles.fr/', t: 'https://ticket.chateauversailles.fr/en', n: '궁전 입장은 시간 지정 예약이 필요합니다. 파리에서 RER C로 약 40분 걸려 하루 일정으로 잡는 편이 좋습니다.|Palace entry needs a timed slot. It is about 40 minutes from Paris by RER C—plan a full day.', k: '2026-10' }),
   // Giverny
@@ -60,7 +60,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'chartres-h3': v(45, 60),
   'chartres-h4': v(60, 90, { s: 'https://www.chartresenlumieres.com/en/', n: '해가 진 뒤에만 볼 수 있는 계절 행사입니다. 기간은 해마다 다릅니다.|A seasonal after-dark event; dates change each year.' }),
   // Reims
-  'reims-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.cathedrale-reims.com/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.' }),
+  'reims-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.cathedrale-reims.com/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.', k: '2026-10' }),
   'reims-h2': v(60, 90, { s: 'https://www.reims-tourisme.com/champagne-et-oenotourisme/visites-de-grandes-maisons/', b: 'req', n: '샴페인 하우스 저장고 투어는 회사별 누리집에서 미리 예약해야 합니다.|Cellar tours must be booked ahead on each champagne house’s own site.', k: '2026-10' }),
   'reims-h3': v(60, 75, { s: 'https://www.palais-du-tau.fr/en', n: '대규모 보수 공사로 장기간 휴관했던 곳이니 방문 전에 개방 여부를 확인하세요.|Closed for a long restoration—check that it has reopened before you go.' }),
   'reims-h4': v(30, 45),
@@ -173,7 +173,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'avignon-h5': v(30, 45),
   // Marseille
   'marseille-h1': v(30, 45),
-  'marseille-h2': v(60, 75, { c: 'daily', b: 'no', n: '입장은 무료입니다.|Entry is free.' }),
+  'marseille-h2': v(60, 75, { c: 'daily', b: 'no', n: '입장은 무료입니다.|Entry is free.', k: '2026-10' }),
   'marseille-h3': v(120, 180, { c: 'tue', b: 'no', s: 'https://www.mucem.org/en', k: '2026-10' }),
   'marseille-h4': v(240, 360, { s: 'https://www.calanques-parcnational.fr/en', n: '여름철 수지통(Sugiton) 만은 무료 사전 예약이 필수이고, 산불 위험이 큰 날에는 국립공원 출입이 통제됩니다.|In summer the Sugiton cove needs a free advance reservation, and the park closes on days of high fire risk.' }),
   'marseille-h5': v(45, 60),

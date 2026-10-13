@@ -48,7 +48,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'leipzig-h1': v(20, 30, { b: 'no', s: 'https://www.thomaskirche.org/', n: FREE }),
   'leipzig-h2': v(15, 20),
   'leipzig-h3': v(15, 20),
-  'leipzig-h4': v(60, 90, { c: 'daily', n: '전망대까지 계단 약 500개를 오릅니다(중간까지 엘리베이터).|About 500 steps to the top platform (a lift covers the middle section).' }),
+  'leipzig-h4': v(60, 90, { c: 'daily', n: '전망대까지 계단 약 500개를 오릅니다(중간까지 엘리베이터). 12월 24일과 31일은 쉽니다.|About 500 steps to the top platform (a lift covers the middle section). Closed 24 and 31 December.', k: '2026-10' }),
   'leipzig-h5': v(60, 90, { s: 'https://www.spinnerei.de/', n: '갤러리는 대부분 화~토요일에만 엽니다.|Most galleries open Tuesday to Saturday only.' }),
   // Dresden
   'dresden-h1': v(120, 180, { c: 'mon', s: SKD, n: '안뜰은 무료이고 박물관(옛 거장 회화관 등)은 유료입니다.|The courtyard is free; the museums (Old Masters Gallery and others) are ticketed.', k: '2026-10' }),
@@ -66,7 +66,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'stuttgart-h1': v(150, 180, { c: 'mon', s: 'https://www.mercedes-benz.com/en/art-and-culture/museum/', k: '2026-10' }),
   'stuttgart-h2': v(90, 120, { c: 'mon', s: 'https://www.porsche.com/international/aboutporsche/porschemuseum/', k: '2026-10' }),
   'stuttgart-h3': v(20, 30),
-  'stuttgart-h4': v(180, 240, { c: 'daily', s: 'https://www.wilhelma.de/en/' }),
+  'stuttgart-h4': v(180, 240, { c: 'daily', s: 'https://www.wilhelma.de/en/', k: '2026-10' }),
   'stuttgart-h5': v(45, 60),
   // Rothenburg
   'rothenburg-h1': v(20, 30),
@@ -146,7 +146,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'amsterdam-h6': v(150, 210, { c: 'daily', b: 'req', s: 'https://www.rijksmuseum.nl/en', n: '입장 시작 시간을 온라인으로 예약해야 합니다.|A start time must be booked online.', k: '2026-10' }),
   'amsterdam-h7': v(15, 20),
   // Rotterdam
-  'rotterdam-h1': v(30, 45, { c: 'daily', b: 'no' }),
+  'rotterdam-h1': v(30, 45, { c: 'daily', b: 'no', k: '2026-10' }),
   'rotterdam-h2': v(15, 20),
   'rotterdam-h3': v(20, 30, { s: 'https://www.kubuswoning.nl/en/' }),
   'rotterdam-h4': v(75, 90, { s: 'https://www.spido.nl/en/' }),

@@ -95,7 +95,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'kosice-h5': v(15, 20),
   // Poprad
   'poprad-h1': v(40, 70),
-  'poprad-h2': v(180, 240, { c: 'daily', s: 'https://aquacity.sk/en/' }),
+  'poprad-h2': v(180, 240, { c: 'daily', s: 'https://aquacity.sk/en/', k: '2026-10' }),
   'poprad-h3': v(10, 15),
   'poprad-h4': v(240, 420, { n: '높은 산길은 11월부터 6월 중순까지 폐쇄됩니다.|High-level trails are closed from November to mid-June.' }),
   'poprad-h5': v(60, 90),
@@ -106,7 +106,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'banska-bystrica-h4': v(45, 60),
   'banska-bystrica-h5': v(45, 60),
   // Trenčín
-  'trencin-h1': v(75, 90, { c: 'daily' }),
+  'trencin-h1': v(75, 90, { c: 'daily', k: '2026-10' }),
   'trencin-h2': v(10, 15, { n: '호텔 엘리자베트(Elizabeth) 안 전망 창에서 봅니다.|Viewed from a window inside the Hotel Elizabeth.' }),
   'trencin-h3': v(15, 20),
   'trencin-h4': v(10, 15),
@@ -141,7 +141,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'szeged-h4': v(30, 40, { c: 'mon,sat', n: '월요일·토요일과 유대교 명절에 쉬고, 금요일은 계절에 따라 일찍 닫습니다.|Closed on Mondays, Saturdays and Jewish holidays; Fridays end early in winter.', k: '2026-10' }),
   'szeged-h5': v(15, 30),
   // Eger
-  'eger-h1': v(105, 120, { c: 'daily', s: 'https://www.egrivar.hu/en/' }),
+  'eger-h1': v(105, 120, { c: 'daily', s: 'https://www.egrivar.hu/en/', n: '12월 24~25일은 쉽니다. 겨울에는 전시관 운영이 줄 수 있으니 공식 시간표를 확인하세요.|Closed 24–25 December. Exhibitions may run reduced hours in winter—check the official timetable.' }),
   'eger-h2': v(15, 20, { n: '좁은 나선 계단 97개를 오르고 겨울에는 닫습니다.|97 narrow spiral steps; closed in winter.' }),
   'eger-h3': v(15, 20),
   'eger-h4': v(90, 120),
@@ -151,7 +151,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'warsaw-h1': v(90, 120),
   'warsaw-h2': v(90, 120, { c: 'mon', n: '수요일은 상설 전시가 무료입니다.|The permanent route is free on Wednesdays.', k: '2026-10' }),
   'warsaw-h3': v(90, 120, { s: 'https://www.lazienki-krolewskie.pl/en', n: '공원은 무료이고 궁전 건물은 월요일에 쉽니다. 여름 일요일에는 쇼팽 야외 연주회가 열립니다.|The park is free; the palace buildings close on Mondays. Free Chopin concerts run on summer Sundays.' }),
-  'warsaw-h4': v(30, 45, { c: 'daily', s: 'https://pkin.pl/en/home/', n: '30층 전망대가 유료입니다.|The 30th-floor viewing terrace is ticketed.' }),
+  'warsaw-h4': v(30, 45, { c: 'daily', s: 'https://pkin.pl/en/home/', n: '30층 전망대가 유료입니다. 11월 1일과 12월 24~26일은 쉽니다.|The 30th-floor viewing terrace is ticketed. Closed 1 November and 24–26 December.', k: '2026-10' }),
   'warsaw-h5': v(120, 180, { c: 'tue', s: 'https://www.polin.pl/en', n: '목요일은 상설 전시가 무료입니다.|The core exhibition is free on Thursdays.', k: '2026-10' }),
   // Kraków
   'krakow-h1': v(45, 60),

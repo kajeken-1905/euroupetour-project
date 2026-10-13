@@ -59,14 +59,14 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'malmo-h4': v(90, 120),
   'malmo-h5': v(45, 90),
   // Uppsala
-  'uppsala-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.svenskakyrkan.se/uppsaladomkyrka', n: FREE }),
+  'uppsala-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.svenskakyrkan.se/uppsaladomkyrka', n: FREE, k: '2026-10' }),
   'uppsala-h2': v(45, 60),
   'uppsala-h3': v(30, 45),
   'uppsala-h4': v(30, 60),
   'uppsala-h5': v(30, 45),
   // Kiruna
   'kiruna-h1': v(20, 30, { n: '도시 이전 사업으로 2025년에 교회 건물 전체를 새 시가지로 옮겼습니다. 재개방 여부를 확인하세요.|The whole church was moved to the new town centre in 2025 as part of the city relocation—check whether it has reopened.' }),
-  'kiruna-h2': v(60, 90, { c: 'daily', s: 'https://www.icehotel.com/', n: '얼음으로 새로 짓는 겨울 호텔은 대략 12월부터 4월까지 볼 수 있고, 연중 운영하는 365관이 따로 있습니다.|The seasonal ice hotel stands from about December to April; a year-round section, Icehotel 365, is separate.' }),
+  'kiruna-h2': v(60, 90, { c: 'daily', s: 'https://www.icehotel.com/', n: '얼음으로 새로 짓는 겨울 호텔은 대략 12월부터 4월까지 볼 수 있고, 연중 운영하는 365관이 따로 있습니다.|The seasonal ice hotel stands from about December to April; a year-round section, Icehotel 365, is separate.', k: '2026-10' }),
   'kiruna-h3': v(180, 240, { n: '오로라는 대략 9월부터 3월 사이 맑은 밤에 볼 수 있습니다.|The aurora is visible on clear nights from roughly September to March.' }),
   'kiruna-h4': v(165, 180, { b: 'rec', s: 'https://kirunalapland.se/en/mine-tour/', n: '지하 540m 방문자 센터까지 관광 안내소에서 버스로 내려가며 약 3시간 걸립니다. 자리가 한정돼 키루나 라플란드 누리집 예약을 권합니다. 6세 이상만 참가합니다.|A bus from the tourist centre goes down to the visitor centre 540 m underground; allow about three hours. Places are limited, so book on the Kiruna Lapland site. Minimum age six.', k: '2026-10' }),
 
@@ -91,7 +91,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'tampere-h4': v(20, 30, { b: 'no', n: FREE }),
   'tampere-h5': v(240, 360, { s: 'https://sarkanniemi.fi/en', n: '놀이기구는 여름 시즌에만 운영합니다.|The rides run in the summer season only.' }),
   // Rovaniemi
-  'rovaniemi-h1': v(120, 180, { c: 'daily', b: 'no', s: 'https://santaclausvillage.info/', n: '마을 입장과 산타 만남은 무료이고 사진은 유료입니다.|Entry and meeting Santa are free; the photo is paid.' }),
+  'rovaniemi-h1': v(120, 180, { c: 'daily', b: 'no', s: 'https://santaclausvillage.info/', n: '마을 입장과 산타 만남은 무료이고 사진은 유료입니다.|Entry and meeting Santa are free; the photo is paid.', k: '2026-10' }),
   'rovaniemi-h2': v(10, 15),
   'rovaniemi-h3': v(90, 120, { s: 'https://arktikum.fi/en/' }),
   'rovaniemi-h4': v(90, 150),
@@ -104,7 +104,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Oslo
   'oslo-h1': v(20, 60, { n: '내부 가이드 투어는 여름에만 있고 예매가 필요합니다. 근위병 교대식은 매일 13시 30분입니다.|Guided tours of the interior run in summer only and need booking. The guard changes daily at 1:30 pm.' }),
   'oslo-h2': v(30, 45, { b: 'no', s: 'https://www.operaen.no/en/', n: '지붕 위는 무료로 걸어 올라갑니다.|Walking up onto the roof is free.' }),
-  'oslo-h3': v(60, 90, { c: 'daily', b: 'no', s: 'https://vigeland.museum.no/en', n: '공원은 24시간 무료입니다.|The park is free and open round the clock.' }),
+  'oslo-h3': v(60, 90, { c: 'daily', b: 'no', s: 'https://vigeland.museum.no/en', n: '공원은 24시간 무료입니다.|The park is free and open round the clock.', k: '2026-10' }),
   'oslo-h4': v(45, 60),
   'oslo-h5': v(0, 0, { s: 'https://www.vikingtidsmuseet.no/english/', n: '바이킹 시대 박물관으로 증축하는 공사로 휴관 중이며 2027년 재개관 예정입니다.|Closed while it is rebuilt as the Museum of the Viking Age, due to open in 2027.' }),
   'oslo-h6': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.munch.no/en/', k: '2026-10' }),
@@ -118,14 +118,14 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'bergen-h6': v(90, 120, { s: 'https://ulriken643.no/en/', n: '강풍이 불면 케이블카가 서니 당일 운행 여부를 확인하세요.|The cable car stops in high winds—check on the day.' }),
   // Tromsø
   'tromso-h1': v(20, 30, { s: 'https://ishavskatedralen.no/en/' }),
-  'tromso-h2': v(60, 90, { c: 'daily', s: 'https://www.fjellheisen.no/', n: '강풍이 불면 운휴합니다.|Stops in high winds.' }),
+  'tromso-h2': v(60, 90, { c: 'daily', s: 'https://www.fjellheisen.no/', n: '강풍이 불면 운휴합니다.|Stops in high winds.', k: '2026-10' }),
   'tromso-h3': v(180, 300, { s: 'https://www.visittromso.no/boat-tours-tromso', b: 'rec', n: '여러 업체가 연중 운항하고 출발 시각은 계절마다 다릅니다. 겨울 오로라 크루즈는 몇 주 전에 매진되기도 하고 날씨에 따라 취소됩니다.|Several operators sail all year, with departure times changing by season. Winter aurora cruises can sell out weeks ahead and are weather-dependent.', k: '2026-10' }),
   'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/en/', k: '2026-10' }),
   'tromso-h5': v(45, 60),
   // Stavanger
   'stavanger-h1': v(240, 300, { b: 'no', s: 'https://preikestolen365.com/', n: '왕복 8km, 4시간쯤 걸리는 산행이고 난간이 없습니다. 겨울에는 장비와 가이드가 필요합니다.|An 8 km, roughly four-hour return hike with no railings. In winter it needs proper kit and a guide.' }),
   'stavanger-h2': v(30, 45),
-  'stavanger-h3': v(90, 120, { c: 'daily', s: 'https://www.norskolje.museum.no/en/' }),
+  'stavanger-h3': v(90, 120, { c: 'daily', s: 'https://www.norskolje.museum.no/en/', n: '9~5월은 월~토요일 16시에 닫습니다. 1월 1일, 성금요일, 부활절 일요일, 5월 17일, 12월 24·25·31일은 쉽니다.|From September to May it closes at 16:00 Monday to Saturday. Closed 1 January, Good Friday, Easter Sunday, 17 May and 24, 25 and 31 December.', k: '2026-10' }),
   'stavanger-h4': v(20, 30),
   'stavanger-h5': v(20, 30),
   // Trondheim
@@ -146,7 +146,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'flam-h4': v(30, 45),
 
   // Reykjavík
-  'reykjavik-h1': v(30, 45, { c: 'daily', n: '교회는 무료이고 탑 전망대만 유료입니다. 예배 중에는 탑을 닫습니다.|The church is free; only the tower is ticketed, and it closes during services.' }),
+  'reykjavik-h1': v(30, 45, { c: 'daily', n: '교회는 무료이고 탑 전망대만 유료입니다. 일요일 오전 예배(11시 전후) 동안에는 탑을 닫습니다.|The church is free; only the tower is ticketed, and it closes during the Sunday morning service (around 11:00).', k: '2026-10' }),
   'reykjavik-h2': v(30, 45, { b: 'no', s: 'https://www.harpa.is/en', n: '로비는 무료로 들어갑니다.|The foyer is free to enter.' }),
   'reykjavik-h3': v(10, 15),
   'reykjavik-h4': v(30, 45),

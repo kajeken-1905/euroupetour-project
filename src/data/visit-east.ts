@@ -12,7 +12,7 @@ const UA = '전쟁 중이며 한국 정부가 여행금지 지역으로 지정�
 /** Bulgaria, Romania, Türkiye, Georgia, Armenia, Azerbaijan, Ukraine, Moldova */
 export const visitEast: Record<string, HighlightVisit> = {
   // Sofia
-  'sofia-h1': v(30, 45, { c: 'daily', b: 'no', n: FREE }),
+  'sofia-h1': v(30, 45, { c: 'daily', b: 'no', n: FREE, k: '2026-10' }),
   'sofia-h2': v(15, 20, { b: 'no', n: FREE }),
   'sofia-h3': v(30, 45),
   'sofia-h4': v(30, 45, { c: 'daily', s: 'https://boyanachurch.org/indexen.htm', n: '프레스코 보호를 위해 소수 인원이 10분쯤만 들어갑니다. 시내에서 8km 떨어져 있습니다.|To protect the frescoes, small groups get about ten minutes inside. It is 8 km from the centre.', k: '2026-10' }),
@@ -31,7 +31,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'varna-h4': v(15, 20),
   'varna-h5': v(30, 45),
   // Veliko Tarnovo
-  'veliko-tarnovo-h1': v(90, 120, { c: 'daily', s: 'https://www.museumvt.com/en/' }),
+  'veliko-tarnovo-h1': v(90, 120, { c: 'daily', s: 'https://www.museumvt.com/en/', k: '2026-10' }),
   'veliko-tarnovo-h2': v(30, 45),
   'veliko-tarnovo-h3': v(20, 30),
   'veliko-tarnovo-h4': v(10, 15),
@@ -73,7 +73,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'cluj-napoca-h2': v(15, 20),
   'cluj-napoca-h3': v(30, 45),
   'cluj-napoca-h4': v(30, 45),
-  'cluj-napoca-h5': v(75, 90, { c: 'daily', s: 'https://gradinabotanica.ubbcluj.ro/en/home-3/' }),
+  'cluj-napoca-h5': v(75, 90, { c: 'daily', s: 'https://gradinabotanica.ubbcluj.ro/en/home-3/', n: '12월 25~26일, 1월 1일, 1월 24일은 쉽니다. 온실은 매달 첫 두 월요일에 닫습니다.|Closed 25–26 December, 1 January and 24 January. The greenhouses close on the first two Mondays of each month.', k: '2026-10' }),
   // Timișoara
   'timisoara-h1': v(20, 30),
   'timisoara-h2': v(20, 30),
@@ -83,7 +83,7 @@ export const visitEast: Record<string, HighlightVisit> = {
 
   // Istanbul
   'istanbul-h1': v(60, 75, { c: 'daily', b: 'rec', s: 'https://ayasofyacamii.gov.tr/en', n: '관광객은 유료 입장권으로 2층 회랑만 봅니다. 예배 일정에 따라 입장이 제한되거나 멈출 수 있어 금요일 낮은 피하는 편이 좋습니다. 뮤지엄 패스는 쓸 수 없고 복장 규정이 있습니다.|Tourists enter on a paid ticket and see the upper gallery only. Entry can be restricted or paused for worship, so avoid Friday midday. Museum passes are not valid and a dress code applies.', k: '2026-10' }),
-  'istanbul-h2': v(30, 45, { c: 'daily', b: 'no', n: MOSQUE }),
+  'istanbul-h2': v(30, 45, { c: 'daily', b: 'no', n: '금요일은 14시 30분부터 관광 입장이 됩니다. 예배 시간에는 들어갈 수 없고, 신발을 벗고 어깨와 무릎을 가리며 여성은 머리를 가립니다.|On Fridays visitors are admitted from 14:30. Closed to visitors during prayers; remove shoes, cover shoulders and knees, and women cover their hair.', k: '2026-10' }),
   'istanbul-h3': v(60, 90, { c: 'sun', b: 'no' }),
   'istanbul-h4': v(90, 120, { n: '에미뇌뉘 선착장에서 떠나는 공영 페리가 가장 쌉니다.|The public ferries from Eminönü are the cheapest option.' }),
   'istanbul-h5': v(40, 45, { c: 'daily', t: MUZE, n: '시간당 입장 인원이 제한돼 줄이 깁니다.|Hourly numbers are capped, so queues are long.', k: '2026-10' }),
@@ -93,14 +93,14 @@ export const visitEast: Record<string, HighlightVisit> = {
   'goreme-h2': v(90, 120, { c: 'daily', t: MUZE, n: MUZE_NOTE, k: '2026-10' }),
   'goreme-h3': v(60, 90),
   'goreme-h4': v(40, 45),
-  'goreme-h5': v(60, 90, { c: 'daily', t: MUZE, n: '통로가 좁고 낮아 폐소공포증이 있으면 힘듭니다.|The passages are low and narrow—difficult for the claustrophobic.' }),
+  'goreme-h5': v(60, 90, { c: 'daily', t: MUZE, n: '통로가 좁고 낮아 폐소공포증이 있으면 힘듭니다.|The passages are low and narrow—difficult for the claustrophobic.', k: '2026-10' }),
   'goreme-h6': v(30, 45, { t: MUZE }),
   'goreme-h7': v(120, 180),
   'goreme-h8': v(60, 90),
   // Ankara
-  'ankara-h1': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.anitkabir.tsk.tr/', n: '입장은 무료이고 입구에서 보안 검색을 합니다.|Free; there is a security check at the gate.' }),
+  'ankara-h1': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.anitkabir.tsk.tr/', n: '입장은 무료이고 입구에서 보안 검색을 합니다.|Free; there is a security check at the gate.', k: '2026-10' }),
   'ankara-h2': v(45, 60, { b: 'no', n: FREE }),
-  'ankara-h3': v(90, 120, { c: 'daily', t: MUZE, n: MUZE_NOTE }),
+  'ankara-h3': v(90, 120, { c: 'daily', t: MUZE, n: '앙카라관과 고전관은 보수 공사로 2027년 3월 2일까지 닫습니다. 표는 문화관광부 공식 누리집(muze.gov.tr)에서 팝니다.|The Ankara and Classical halls are closed for repairs until 2 March 2027. Tickets are sold on the ministry’s official site, muze.gov.tr.', k: '2026-10' }),
   'ankara-h4': v(15, 20),
   'ankara-h5': v(45, 60),
   // İzmir
@@ -143,7 +143,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Batumi
   'batumi-h1': v(60, 90),
   'batumi-h2': v(15, 30),
-  'batumi-h3': v(120, 180, { c: 'daily' }),
+  'batumi-h3': v(120, 180, { c: 'daily', k: '2026-10' }),
   'batumi-h4': v(10, 15, { n: '두 조형물이 10분 주기로 움직이며 해 진 뒤에 조명이 켜집니다.|The two figures move on a ten-minute cycle and are lit after dark.' }),
   'batumi-h5': v(20, 30),
   // Kutaisi

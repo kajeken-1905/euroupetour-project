@@ -147,7 +147,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Belgrade
   'belgrade-h1': v(90, 120, { b: 'no', n: '성채 공원은 24시간 무료입니다.|The fortress park is free and always open.' }),
   'belgrade-h2': v(45, 90),
-  'belgrade-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://hramsvetogsave.rs/', n: FREE }),
+  'belgrade-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://hramsvetogsave.rs/', n: FREE, k: '2026-10' }),
   'belgrade-h4': v(30, 45),
   'belgrade-h5': v(90, 120),
   'belgrade-h6': v(10, 15),

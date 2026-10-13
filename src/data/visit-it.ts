@@ -207,7 +207,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'perugia-h4': v(10, 15),
   'perugia-h5': v(20, 30),
   // Assisi
-  'assisi-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://basilica.sanfrancesco.org/', n: DRESS }),
+  'assisi-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://basilica.sanfrancesco.org/', n: DRESS, k: '2026-10' }),
   'assisi-h2': v(20, 30, { b: 'no', n: FREE }),
   'assisi-h3': v(15, 20),
   'assisi-h4': v(45, 60),
@@ -260,7 +260,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'capri-h4': v(60, 75, { s: 'https://www.capriseggiovia.it/en/', n: '아나카프리에서 1인용 체어리프트로 13분 오릅니다.|A 13-minute single-seat chairlift ride up from Anacapri.' }),
   'capri-h5': v(20, 30),
   // Bari
-  'bari-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.basilicasannicola.it/', n: FREE }),
+  'bari-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.basilicasannicola.it/', n: FREE, k: '2026-10' }),
   'bari-h2': v(60, 90),
   'bari-h3': v(20, 30, { n: '할머니들이 파스타를 빚는 모습은 오전에 볼 수 있습니다.|The pasta-making is best seen in the morning.' }),
   'bari-h4': v(45, 60),
@@ -292,7 +292,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'tropea-h3': v(10, 15),
   'tropea-h4': v(15, 20),
   // Palermo
-  'palermo-h1': v(45, 75, { c: 'daily', s: 'https://www.cattedrale.palermo.it/', n: '성당은 무료이고 지붕·왕릉·보물관은 유료입니다.|The cathedral is free; the roof, royal tombs and treasury are ticketed.' }),
+  'palermo-h1': v(45, 75, { c: 'daily', s: 'https://www.cattedrale.palermo.it/', n: '성당은 무료이고 지붕·왕릉·보물관은 유료입니다.|The cathedral is free; the roof, royal tombs and treasury are ticketed.', k: '2026-10' }),
   'palermo-h2': v(60, 75, { c: 'daily', b: 'rec', s: 'https://www.federicosecondo.org/en/home-english/', n: '일요일과 종교 행사 때는 예배당 관람 시간이 줄어듭니다.|Chapel visiting hours are reduced on Sundays and for services.', k: '2026-10' }),
   'palermo-h3': v(45, 60, { n: '시장은 오전에 가장 활기차고 일요일 오후에는 대부분 닫습니다.|Busiest in the morning; largely shut on Sunday afternoons.' }),
   'palermo-h4': v(10, 15),
@@ -310,7 +310,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Siracusa
   'siracusa-h1': v(120, 180),
   'siracusa-h2': v(30, 45),
-  'siracusa-h3': v(90, 120, { c: 'daily' }),
+  'siracusa-h3': v(90, 120, { c: 'daily', k: '2026-10' }),
   'siracusa-h4': v(10, 15, { n: '네아폴리스 고고학 공원 안에 있습니다.|Inside the Neapolis Archaeological Park.' }),
   'siracusa-h5': v(10, 15),
   // Catania
@@ -320,7 +320,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'catania-h4': v(45, 60),
   'catania-h5': v(15, 150, { s: 'https://www.teatromassimobellini.it/', n: '공연 관람은 예매가 필요합니다.|Performances need advance tickets.' }),
   // Taormina
-  'taormina-h1': v(60, 75, { c: 'daily', n: '여름 저녁에는 공연 준비로 일찍 닫는 날이 있습니다.|On some summer evenings it closes early for performances.' }),
+  'taormina-h1': v(60, 75, { c: 'daily', n: '여름 저녁에는 공연 준비로 일찍 닫는 날이 있습니다.|On some summer evenings it closes early for performances.', k: '2026-10' }),
   'taormina-h2': v(60, 120),
   'taormina-h3': v(45, 60),
   'taormina-h4': v(15, 20),
@@ -356,7 +356,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'vatican-city-h5': v(120, 120, { b: 'req', s: VAT, t: VAT_T, n: '가이드 투어로만 들어가며 일요일과 공휴일에는 투어가 없습니다.|Guided tours only; none on Sundays and public holidays.', k: '2026-10' }),
   // San Marino
   'san-marino-city-h1': v(40, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '두 탑을 묶은 통합권이 있습니다.|A combined ticket covers both towers.' }),
-  'san-marino-city-h2': v(30, 40, { c: 'daily', s: 'https://www.museidistato.sm/' }),
+  'san-marino-city-h2': v(30, 40, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|Closed on the afternoon of 2 November, 25 December and 1 January.', k: '2026-10' }),
   'san-marino-city-h3': v(15, 20, { b: 'no', n: FREE }),
   'borgo-maggiore-h1': v(10, 15, { n: '보르고 마조레에서 구시가까지 2분 걸립니다.|Two minutes from Borgo Maggiore up to the old town.' }),
   'borgo-maggiore-h2': v(15, 20),
