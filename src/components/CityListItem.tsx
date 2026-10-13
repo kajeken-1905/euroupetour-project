@@ -1,15 +1,15 @@
 import { Link } from 'react-router-dom'
-import type { City } from '../types'
+import type { CityBrief } from '../types'
 import { CountryStamp } from './CountryStamp'
 import { getCountry } from '../data/countries'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { assetUrl } from '../utils/assetUrl'
 
-export function CityListItem({ city }: { city: City }) {
+export function CityListItem({ city }: { city: CityBrief }) {
   const { lang } = useLanguage()
   const { data: visitedData } = useVisitedPlaces()
-  const highlight = city.cardTagline?.[lang] ?? city.highlights[0]?.name[lang] ?? ''
+  const highlight = city.cardTagline[lang]
   const altNames = [city.name.en, city.nativeName]
     .filter((v, i, arr) => v !== city.name.ko && arr.indexOf(v) === i)
     .join(' · ')

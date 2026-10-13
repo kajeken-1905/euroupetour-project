@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import { EuropeMap } from '../components/EuropeMap'
 import { LanguageToggle } from '../components/LanguageToggle'
-import { cities } from '../data/cities'
+import { cityIndex as cities } from '../data/cityIndex'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { t } from '../i18n/ui'

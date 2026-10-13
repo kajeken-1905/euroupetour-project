@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { cities } from '../data/cities'
+import { cityIndex as cities } from '../data/cityIndex'
 import { countries as countryCatalog } from '../data/countries'
 import {
   defaultChecklist,

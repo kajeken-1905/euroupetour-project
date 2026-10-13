@@ -4,7 +4,7 @@ import { ChecklistSection, Field } from '../components/ChecklistSection'
 import { YesNoSelect } from '../components/YesNoSelect'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useTravelChecklist } from '../hooks/useTravelChecklist'
-import { cities } from '../data/cities'
+import { cityIndex as cities } from '../data/cityIndex'
 import { countries } from '../data/countries'
 import { t } from '../i18n/ui'
 import {

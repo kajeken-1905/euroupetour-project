@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
-import { getCity } from '../data/cities'
+import { getCityBrief as getCity } from '../data/cityIndex'
 import { t } from '../i18n/ui'
 import type { CityRoute, RouteMode } from '../types'
 

@@ -1,14 +1,13 @@
-import type { CSSProperties } from 'react'
+import { lazy, Suspense, type CSSProperties } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { getCountry } from '../data/countries'
-import { getCitiesByCountry } from '../data/cities'
+import { getCityBriefsByCountry as getCitiesByCountry } from '../data/cityIndex'
 import { CityListItem } from '../components/CityListItem'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { PhrasePanel } from '../components/PhrasePanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
-import { OfflinePanel } from '../components/OfflinePanel'
 import { getCountryEssentials } from '../data/essentials'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
@@ -17,6 +16,9 @@ import { formatFxLine } from '../services/exchangeRates'
 import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
 import { hexToRgba } from '../utils/color'
+
+// Needs every sight and place of the country to list their photos, so it loads after the page.
+const OfflinePanel = lazy(() => import('../components/OfflinePanel').then((m) => ({ default: m.OfflinePanel })))
 
 export function CountryPage() {
   const { countryId = '' } = useParams()
@@ -156,7 +158,9 @@ export function CountryPage() {
 
       {essentials ? <EssentialsPanel essentials={essentials} /> : null}
 
-      <OfflinePanel countryId={country.id} />
+      <Suspense fallback={null}>
+        <OfflinePanel countryId={country.id} />
+      </Suspense>
 
       <p className="section-label">{t('cities', lang)}</p>
       {country.cityGroups ? (

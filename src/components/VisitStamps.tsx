@@ -1,6 +1,6 @@
 import { useId, useState } from 'react'
 import { CountryStamp } from './CountryStamp'
-import { cities } from '../data/cities'
+import { cityIndex as cities } from '../data/cityIndex'
 import { countries } from '../data/countries'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'

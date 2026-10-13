@@ -211,6 +211,11 @@ export interface City {
   lng?: number
 }
 
+/** What lists, the map and the checklist need of a city — see `data/cityIndex.ts`. */
+export type CityBrief = Omit<City, 'blurb' | 'highlights' | 'cardTagline'> & {
+  cardTagline: { ko: string; en: string }
+}
+
 export interface Place {
   id: string
   cityId: string
