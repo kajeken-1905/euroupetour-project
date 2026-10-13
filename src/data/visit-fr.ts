@@ -36,7 +36,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'paris-h17': v(10, 20),
   'paris-h24': v(20, 30, { s: 'https://lamadeleineparis.fr/' }),
   'paris-h21': v(60, 90, { b: 'req', s: 'https://www.operadeparis.fr/en/visits/palais-garnier', n: '관람권은 온라인으로만 팔고 현장 판매가 없습니다. 공연이나 리허설이 있는 날은 관람이 제한되니 방문 전 일정을 확인하세요.|Visit tickets are sold online only, not on site. Visits are restricted on performance and rehearsal days—check the calendar first.', k: '2026-10' }),
-  'paris-h22': v(60, 90, { c: 'daily', s: 'https://haussmann.galerieslafayette.com/en/', n: '옥상 테라스는 무료입니다.|The rooftop terrace is free.' }),
+  'paris-h22': v(60, 90, { c: 'daily', s: 'https://haussmann.galerieslafayette.com/en/', n: '옥상 테라스는 무료입니다.|The rooftop terrace is free.', k: '2026-10' }),
   'paris-h4': v(120, 180),
   'paris-h36': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.sacre-coeur-montmartre.com/en/', n: '성당은 무료이고 돔 전망대만 유료입니다. 돔 표는 현장에서만 팝니다.|The basilica is free; only the dome climb is ticketed, with tickets sold on site only.', k: '2026-10' }),
   'paris-h37': v(120, 120, { b: 'req', s: 'https://www.moulinrouge.fr/en/', n: '공연 관람은 예약제입니다. 외관만 보면 10분이면 됩니다.|Shows are by reservation; the exterior takes ten minutes.', k: '2026-10' }),
@@ -55,7 +55,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'fontainebleau-h3': v(120, 240),
   'fontainebleau-h4': v(60, 90),
   // Chartres
-  'chartres-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.cathedrale-chartres.org/en/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.' }),
+  'chartres-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.cathedrale-chartres.org/en/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.', k: '2026-10' }),
   'chartres-h2': v(30, 45),
   'chartres-h3': v(45, 60),
   'chartres-h4': v(60, 90, { s: 'https://www.chartresenlumieres.com/en/', n: '해가 진 뒤에만 볼 수 있는 계절 행사입니다. 기간은 해마다 다릅니다.|A seasonal after-dark event; dates change each year.' }),
@@ -97,17 +97,17 @@ export const visitFr: Record<string, HighlightVisit> = {
   'saint-malo-h3': v(30, 60),
   'saint-malo-h4': v(120, 180),
   // Strasbourg
-  'strasbourg-h1': v(45, 75, { c: 'daily', b: 'no', s: 'https://www.cathedrale-strasbourg.fr/en/', n: '성당 입장은 무료이고 전망대와 천문시계 시연은 유료입니다.|The cathedral is free; the viewing platform and the astronomical clock show are ticketed.' }),
+  'strasbourg-h1': v(45, 75, { c: 'daily', b: 'no', s: 'https://www.cathedrale-strasbourg.fr/en/', n: '성당 입장은 무료이고 전망대와 천문시계 시연은 유료입니다. 평일·토요일은 11시 15분~12시 45분에 닫고, 일요일·공휴일은 14시부터 엽니다.|The cathedral is free; the viewing platform and the astronomical clock show are ticketed. It closes 11:15 am–12:45 pm Monday to Saturday and opens at 2 pm on Sundays and holidays.', k: '2026-10' }),
   'strasbourg-h2': v(45, 60),
   'strasbourg-h3': v(60, 90, { s: 'https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg', n: '입장은 무료이며 신분증(여권)이 필요합니다. 본회의 주간에는 방문 방식이 달라집니다.|Free, but bring your passport. Arrangements differ during plenary weeks.' }),
   'strasbourg-h4': v(15, 20),
   'strasbourg-h5': v(30, 45),
   'strasbourg-h6': v(90, 150, { s: 'https://noel.strasbourg.eu/en/', n: '11월 말부터 크리스마스 전후까지만 열립니다.|Runs only from late November to around Christmas.' }),
   // Amboise & Loire châteaux
-  'amboise-h1': v(75, 105, { c: 'daily', s: 'https://www.chateau-amboise.com/en/' }),
-  'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/' }),
+  'amboise-h1': v(75, 105, { c: 'daily', s: 'https://www.chateau-amboise.com/en/', k: '2026-10' }),
+  'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/', k: '2026-10' }),
   'amboise-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.chenonceau.com/en/', n: '성수기에 붐비는 날은 시간 지정 예약이 필수입니다.|On busy high-season days a timed slot must be booked.', k: '2026-10' }),
-  'amboise-h4': v(150, 210, { c: 'daily', s: 'https://www.chambord.org/en/' }),
+  'amboise-h4': v(150, 210, { s: 'https://www.chambord.org/en/', n: '4~10월은 매일 열고, 11~3월 비수기에는 쉬는 월요일이 있습니다. 1월 1일과 12월 25일은 휴무입니다.|Open daily April–October; in the November–March low season it closes on some Mondays. Closed 1 January and 25 December.' }),
   // La Rochelle
   'la-rochelle-h1': v(60, 90, { s: 'https://www.tours-la-rochelle.fr/en', t: CMN }),
   'la-rochelle-h2': v(10, 15),
@@ -121,7 +121,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'dijon-h5': v(30, 45, { n: '장은 화·목·금·토요일 오전에 섭니다.|Market mornings are Tuesday, Thursday, Friday and Saturday.' }),
   // Lyon
   'lyon-h1': v(90, 120),
-  'lyon-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.fourviere.org/en/', n: '입장은 무료입니다.|Entry is free.' }),
+  'lyon-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.fourviere.org/en/', n: '입장은 무료입니다.|Entry is free.', k: '2026-10' }),
   'lyon-h3': v(15, 20),
   'lyon-h4': v(60, 90),
   'lyon-h5': v(45, 75, { s: 'https://www.halles-de-lyon-paulbocuse.com/', n: '시장 전체가 쉬는 날은 없지만 월요일에는 문을 닫는 가게가 많고, 일요일은 오후 1시쯤 끝납니다.|The hall has no closing day, but many stalls shut on Mondays and Sunday trading ends around 1pm.', k: '2026-10' }),
@@ -144,7 +144,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'bordeaux-h4': v(120, 180, { c: 'daily', b: 'rec', s: 'https://www.laciteduvin.com/en', n: '12월 25일과 1월 마지막 주(정기 점검)에는 쉽니다.|Closed on 25 December and for maintenance in the last week of January.', k: '2026-10' }),
   'bordeaux-h5': v(45, 60),
   // Arcachon
-  'arcachon-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://ladunedupilat.com/en/', n: '입장은 무료이고 주차장만 유료입니다.|The dune is free; only the car park charges.' }),
+  'arcachon-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://ladunedupilat.com/en/', n: '입장은 무료이고 주차장만 유료입니다.|The dune is free; only the car park charges.', k: '2026-10' }),
   'arcachon-h2': v(60, 120),
   'arcachon-h3': v(45, 60),
   'arcachon-h4': v(180, 240),
@@ -167,7 +167,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'montpellier-h5': v(30, 45),
   // Avignon
   'avignon-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://palais-des-papes.com/', k: '2026-10' }),
-  'avignon-h2': v(30, 45, { c: 'daily', s: 'https://avignon-pont.com/', n: '교황청과 묶은 통합권이 있습니다.|A combined ticket with the Palais des Papes is available.' }),
+  'avignon-h2': v(30, 45, { c: 'daily', s: 'https://avignon-pont.com/', n: '교황청과 묶은 통합권이 있습니다.|A combined ticket with the Palais des Papes is available.', k: '2026-10' }),
   'avignon-h3': v(30, 45),
   'avignon-h4': v(15, 20),
   'avignon-h5': v(30, 45),

@@ -45,7 +45,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'sirmione-h4': v(60, 180, { s: 'https://www.navigazionelaghi.it/en/' }),
   // Mantua
   'mantua-h1': v(120, 150, { c: 'mon', b: 'rec', n: '신부의 방(Camera degli Sposi)은 입장 인원이 제한돼 시간 지정 예약이 필요합니다.|The Camera degli Sposi has limited numbers and needs a timed slot.', k: '2026-10' }),
-  'mantua-h2': v(75, 90, { c: 'daily', s: 'https://www.centropalazzote.it/en/' }),
+  'mantua-h2': v(75, 90, { c: 'daily', s: 'https://www.centropalazzote.it/en/', n: '화요일은 13시부터 엽니다. 12월 25일은 휴무입니다.|Opens at 1 pm on Tuesdays. Closed 25 December.', k: '2026-10' }),
   'mantua-h3': v(20, 30, { b: 'no', n: FREE }),
   'mantua-h4': v(15, 20),
   'mantua-h5': v(30, 45, { n: '두칼레 궁전 입장권으로 함께 봅니다.|Visited on the Palazzo Ducale ticket.' }),
@@ -98,13 +98,13 @@ export const visitIt: Record<string, HighlightVisit> = {
   'vicenza-h5': v(20, 30),
   // Padua
   'padua-h1': v(45, 60, { b: 'req', s: 'https://www.cappelladegliscrovegni.it/index.php/en/', n: '시간 지정 입장이고 예배당 안에는 15~20분만 머뭅니다. 며칠 전에 예약하세요.|Entry is timed and you get 15–20 minutes inside the chapel. Book days ahead.', k: '2026-10' }),
-  'padua-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.santantonio.org/en', n: DRESS }),
+  'padua-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.santantonio.org/en', n: DRESS, k: '2026-10' }),
   'padua-h3': v(20, 30),
   'padua-h4': v(30, 45, { c: 'mon', k: '2026-10' }),
   'padua-h5': v(45, 60, { b: 'req', s: 'https://www.unipd.it/en/visitare-universita', n: '가이드 투어로만 볼 수 있습니다.|Seen on guided tours only.', k: '2026-10' }),
   // Trieste
   'trieste-h1': v(20, 30),
-  'trieste-h2': v(90, 120, { c: 'daily', n: '성을 둘러싼 공원은 무료입니다.|The park around the castle is free.' }),
+  'trieste-h2': v(90, 120, { c: 'daily', n: '성을 둘러싼 공원은 무료입니다.|The park around the castle is free.', k: '2026-10' }),
   'trieste-h3': v(15, 20),
   'trieste-h4': v(45, 60),
   'trieste-h5': v(10, 15),
@@ -128,7 +128,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Modena
   'modena-h1': v(30, 45, { b: 'no', n: FREE }),
   'modena-h2': v(15, 20),
-  'modena-h3': v(75, 90, { c: 'daily', s: 'https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena' }),
+  'modena-h3': v(75, 90, { c: 'daily', s: 'https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena', k: '2026-10' }),
   'modena-h4': v(30, 45, { c: 'sun', s: 'https://mercatoalbinelli.it/', k: '2026-10' }),
   'modena-h5': v(60, 90, { s: 'https://www.visitmodena.it/en/discover-modena/land-of-flavors/the-vinegar-factories', b: 'req', n: '양조장 견학은 연중 있지만 항상 예약이 필요합니다. 관광 안내소나 각 양조장에 미리 예약하세요. 시청 안 시립 양조장도 예약제입니다.|Tours run all year but always need a reservation—through the tourist office or the producer. The municipal acetaia in the town hall is by reservation too.', k: '2026-10' }),
   // Parma
@@ -144,9 +144,9 @@ export const visitIt: Record<string, HighlightVisit> = {
   'ferrara-h4': v(60, 120),
   'ferrara-h5': v(15, 20),
   // Ravenna
-  'ravenna-h1': v(30, 45, { c: 'daily', s: RAVENNA, n: RAVENNA_NOTE }),
+  'ravenna-h1': v(30, 45, { c: 'daily', s: RAVENNA, n: RAVENNA_NOTE, k: '2026-10' }),
   'ravenna-h2': v(15, 20, { c: 'daily', b: 'req', s: RAVENNA, n: '통합권에 시간 지정 예약을 더해야 들어갑니다.|Needs a timed slot added to the combined ticket.', k: '2026-10' }),
-  'ravenna-h3': v(20, 30, { c: 'daily', s: RAVENNA, n: RAVENNA_NOTE }),
+  'ravenna-h3': v(20, 30, { c: 'daily', s: RAVENNA, n: RAVENNA_NOTE, k: '2026-10' }),
   'ravenna-h4': v(10, 15, { b: 'no', n: FREE }),
   'ravenna-h5': v(30, 45, { n: '시내에서 5km 떨어져 있고 통합권과 표가 따로입니다.|Five kilometres out of town and not on the combined ticket.' }),
 
@@ -174,8 +174,8 @@ export const visitIt: Record<string, HighlightVisit> = {
   'florence-h9': v(45, 60, { c: 'daily', k: '2026-10' }),
   // Pisa
   'pisa-h1': v(30, 45, { c: 'daily', b: 'req', s: OPA, n: '탑에 오르려면 시간 지정 예약이 필요하고 만 8세 미만은 오를 수 없습니다.|Climbing needs a timed ticket; children under 8 are not admitted.', k: '2026-10' }),
-  'pisa-h2': v(20, 30, { c: 'daily', s: OPA, n: '성당은 무료이지만 시간 지정 입장권을 받아야 합니다.|The cathedral is free but needs a timed pass.' }),
-  'pisa-h3': v(20, 30, { c: 'daily', s: OPA }),
+  'pisa-h2': v(20, 30, { c: 'daily', s: OPA, n: '성당은 무료이지만 시간 지정 입장권을 받아야 합니다.|The cathedral is free but needs a timed pass.', k: '2026-10' }),
+  'pisa-h3': v(20, 30, { c: 'daily', s: OPA, k: '2026-10' }),
   'pisa-h4': v(30, 45),
   // Lucca
   'lucca-h1': v(60, 90, { b: 'no', n: '성벽 위 산책로는 무료입니다.|The path on top of the walls is free.' }),
@@ -212,7 +212,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'assisi-h3': v(15, 20),
   'assisi-h4': v(45, 60),
   // Orvieto
-  'orvieto-h1': v(45, 60, { c: 'daily', s: 'https://www.duomodiorvieto.it/en/' }),
+  'orvieto-h1': v(45, 60, { c: 'daily', s: 'https://www.duomodiorvieto.it/en/', n: '일요일과 축일(3~10월)에는 10~11시와 13시~17시 30분에만 관광 입장이 됩니다.|On Sundays and holy days (March–October) sightseeing is limited to 10–11 am and 1–5:30 pm.', k: '2026-10' }),
   'orvieto-h2': v(30, 45, { n: '깊이 53m의 이중 나선 계단 248개를 오르내립니다.|A 53-metre-deep double helix of 248 steps each way.' }),
   'orvieto-h3': v(45, 60, { b: 'rec', s: 'https://orvietounderground.it/en/home/', n: '가이드 투어로만 봅니다.|Guided tours only.', k: '2026-10' }),
   'orvieto-h4': v(20, 30),
@@ -235,7 +235,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'pompeii-h2': v(20, 30, { s: POMPEII }),
   'pompeii-h3': v(10, 15, { s: POMPEII }),
   'pompeii-h4': v(30, 45, { s: POMPEII, n: '유적 서쪽 끝에 있어 포럼에서 걸어서 20분쯤 걸립니다.|At the far western edge, about 20 minutes on foot from the Forum.' }),
-  'pompeii-h5': v(120, 150, { c: 'daily', s: 'https://ercolano.cultura.gov.it/?lang=en', n: '폼페이와 표가 따로이며 사철(Circumvesuviana)로 20분쯤 떨어져 있습니다.|Ticketed separately from Pompeii, about 20 minutes away on the Circumvesuviana.' }),
+  'pompeii-h5': v(120, 150, { c: 'daily', s: 'https://ercolano.cultura.gov.it/?lang=en', n: '폼페이와 표가 따로이며 사철(Circumvesuviana)로 20분쯤 떨어져 있습니다.|Ticketed separately from Pompeii, about 20 minutes away on the Circumvesuviana.', k: '2026-10' }),
   // Sorrento
   'sorrento-h1': v(15, 20),
   'sorrento-h2': v(45, 60),
@@ -349,7 +349,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'cala-gonone-h4': v(20, 30),
 
   // Vatican City
-  'vatican-city-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.basilicasanpietro.va/en', n: '성당은 무료이지만 보안 검색 줄이 1시간 넘게 걸리는 날이 많습니다. 돔은 유료이고 어깨와 무릎을 가려야 합니다. 수요일 오전은 교황 알현으로 입장이 늦어집니다.|Free, but security queues often top an hour. The dome is ticketed; cover shoulders and knees. Entry is delayed on Wednesday mornings for the papal audience.' }),
+  'vatican-city-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.basilicasanpietro.va/en', n: '성당은 무료이지만 보안 검색 줄이 1시간 넘게 걸리는 날이 많습니다. 돔은 유료이고 어깨와 무릎을 가려야 합니다. 수요일 오전은 교황 알현으로 입장이 늦어집니다.|Free, but security queues often top an hour. The dome is ticketed; cover shoulders and knees. Entry is delayed on Wednesday mornings for the papal audience.', k: '2026-10' }),
   'vatican-city-h2': v(20, 30),
   'vatican-city-h3': v(180, 240, { c: 'sun', b: 'rec', s: VAT, t: VAT_T, n: '매월 마지막 일요일은 무료로 열지만 매우 붐빕니다.|Open free on the last Sunday of the month, when it is very crowded.', k: '2026-10' }),
   'vatican-city-h4': v(20, 30, { c: 'sun', s: VAT, t: VAT_T, n: '바티칸 박물관 관람 동선의 끝에 있어 박물관 입장권으로 봅니다. 사진 촬영은 금지입니다.|At the end of the Vatican Museums route, on the museum ticket. Photography is forbidden.', k: '2026-10' }),

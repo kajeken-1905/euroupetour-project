@@ -15,7 +15,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sofia-h1': v(30, 45, { c: 'daily', b: 'no', n: FREE }),
   'sofia-h2': v(15, 20, { b: 'no', n: FREE }),
   'sofia-h3': v(30, 45),
-  'sofia-h4': v(30, 45, { c: 'daily', s: 'https://boyanachurch.org/indexen.htm', n: '프레스코 보호를 위해 소수 인원이 10분쯤만 들어갑니다. 시내에서 8km 떨어져 있습니다.|To protect the frescoes, small groups get about ten minutes inside. It is 8 km from the centre.' }),
+  'sofia-h4': v(30, 45, { c: 'daily', s: 'https://boyanachurch.org/indexen.htm', n: '프레스코 보호를 위해 소수 인원이 10분쯤만 들어갑니다. 시내에서 8km 떨어져 있습니다.|To protect the frescoes, small groups get about ten minutes inside. It is 8 km from the centre.', k: '2026-10' }),
   'sofia-h5': v(180, 300),
   'sofia-h6': v(15, 60),
   // Plovdiv
@@ -61,7 +61,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sibiu-h2': v(15, 20),
   'sibiu-h3': v(10, 10),
   'sibiu-h4': v(20, 30),
-  'sibiu-h5': v(150, 180, { c: 'daily', s: 'https://muzeulastra.ro/en/' }),
+  'sibiu-h5': v(150, 180, { c: 'daily', s: 'https://muzeulastra.ro/en/', n: '야외 박물관은 연중 열지만 실내 전시관은 수~일요일에만 엽니다.|The open-air museum is open all year; the indoor pavilions open Wednesday to Sunday only.', k: '2026-10' }),
   // Sighișoara
   'sighisoara-h1': v(40, 45, { c: 'mon' }),
   'sighisoara-h2': v(60, 90),
@@ -90,7 +90,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'istanbul-h6': v(150, 180, { c: 'tue', b: 'rec', s: 'https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en', n: '하렘과 아야 이리니 성당이 통합 입장권에 포함됩니다.|The combined ticket includes the Harem and Hagia Irene.', k: '2026-10' }),
   // Göreme (Cappadocia)
   'goreme-h1': v(180, 240, { b: 'req', n: '해 뜰 무렵에 뜨고 바람이 세면 당일 새벽에 취소됩니다. 이틀 이상 머무는 일정이 안전합니다.|Flights go at dawn and are cancelled that morning if it is windy—allow at least two days.' }),
-  'goreme-h2': v(90, 120, { c: 'daily', t: MUZE, n: MUZE_NOTE }),
+  'goreme-h2': v(90, 120, { c: 'daily', t: MUZE, n: MUZE_NOTE, k: '2026-10' }),
   'goreme-h3': v(60, 90),
   'goreme-h4': v(40, 45),
   'goreme-h5': v(60, 90, { c: 'daily', t: MUZE, n: '통로가 좁고 낮아 폐소공포증이 있으면 힘듭니다.|The passages are low and narrow—difficult for the claustrophobic.' }),
@@ -108,13 +108,13 @@ export const visitEast: Record<string, HighlightVisit> = {
   'izmir-h2': v(40, 45, { t: MUZE }),
   'izmir-h3': v(10, 15),
   'izmir-h4': v(30, 45),
-  'izmir-h5': v(180, 240, { c: 'daily', t: MUZE, n: '이즈미르에서 셀축까지 기차나 차로 1시간쯤 걸립니다. 그늘이 거의 없습니다.|About an hour from İzmir to Selçuk by train or road. There is very little shade.' }),
+  'izmir-h5': v(180, 240, { c: 'daily', t: MUZE, n: '이즈미르에서 셀축까지 기차나 차로 1시간쯤 걸립니다. 그늘이 거의 없습니다.|About an hour from İzmir to Selçuk by train or road. There is very little shade.', k: '2026-10' }),
   // Antalya
   'antalya-h1': v(90, 120),
   'antalya-h2': v(45, 60),
   'antalya-h3': v(90, 120, { t: MUZE }),
   'antalya-h4': v(120, 240),
-  'antalya-h5': v(60, 75, { c: 'daily', t: MUZE, n: '안탈리아에서 차로 45분쯤 걸립니다.|About 45 minutes by road from Antalya.' }),
+  'antalya-h5': v(60, 75, { c: 'daily', t: MUZE, n: '안탈리아에서 차로 45분쯤 걸립니다.|About 45 minutes by road from Antalya.', k: '2026-10' }),
   // Bursa
   'bursa-h1': v(20, 30, { b: 'no', n: MOSQUE }),
   'bursa-h2': v(20, 30, { b: 'no', n: FREE }),
@@ -122,14 +122,14 @@ export const visitEast: Record<string, HighlightVisit> = {
   'bursa-h4': v(180, 240, { n: '케이블카는 강풍이 불면 운휴합니다.|The cable car stops in high winds.' }),
   'bursa-h5': v(60, 90),
   // Trabzon
-  'trabzon-h1': v(120, 150, { c: 'daily', t: MUZE, n: '트라브존에서 차로 1시간쯤 걸리고 주차장에서 가파른 길을 걷습니다. 낙석 보강 공사로 일부 구역이 닫히기도 합니다.|About an hour by road from Trabzon, then a steep walk. Sections may be closed for rockfall works.' }),
+  'trabzon-h1': v(120, 150, { c: 'daily', t: MUZE, n: '트라브존에서 차로 1시간쯤 걸리고 주차장에서 가파른 길을 걷습니다. 낙석 보강 공사로 일부 구역이 닫히기도 합니다.|About an hour by road from Trabzon, then a steep walk. Sections may be closed for rockfall works.', k: '2026-10' }),
   'trabzon-h2': v(20, 30, { n: MOSQUE }),
   'trabzon-h3': v(120, 180),
   'trabzon-h4': v(40, 45),
   'trabzon-h5': v(30, 45),
   // Pamukkale
-  'pamukkale-h1': v(90, 120, { c: 'daily', t: MUZE, n: '석회 테라스 위는 신발을 벗고 맨발로 걸어야 합니다. ' + HIERAPOLIS.split('|')[0] + '|You must walk the travertines barefoot. ' + HIERAPOLIS.split('|')[1] }),
-  'pamukkale-h2': v(90, 120, { c: 'daily', t: MUZE, n: HIERAPOLIS }),
+  'pamukkale-h1': v(90, 120, { c: 'daily', t: MUZE, n: '석회 테라스 위는 신발을 벗고 맨발로 걸어야 합니다. ' + HIERAPOLIS.split('|')[0] + '|You must walk the travertines barefoot. ' + HIERAPOLIS.split('|')[1], k: '2026-10' }),
+  'pamukkale-h2': v(90, 120, { c: 'daily', t: MUZE, n: HIERAPOLIS, k: '2026-10' }),
   'pamukkale-h3': v(20, 30, { n: HIERAPOLIS }),
   'pamukkale-h4': v(60, 90, { n: '유적 입장권과 별도로 수영장 요금을 냅니다.|The pool has its own fee on top of the site ticket.' }),
   'pamukkale-h5': v(30, 45),

@@ -17,7 +17,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'copenhagen-h7': v(30, 45, { c: 'daily', s: 'https://www.rundetaarn.dk/en/front-page/', k: '2026-10' }),
   // Aarhus
   'aarhus-h1': v(120, 150, { s: 'https://www.aros.dk/en/' }),
-  'aarhus-h2': v(150, 180, { c: 'daily', s: 'https://www.dengamleby.dk/en/' }),
+  'aarhus-h2': v(150, 180, { c: 'daily', s: 'https://www.dengamleby.dk/en/', k: '2026-10' }),
   'aarhus-h3': v(45, 60),
   'aarhus-h4': v(20, 30, { b: 'no', n: FREE }),
   'aarhus-h5': v(20, 30, { b: 'no', n: FREE }),
@@ -32,7 +32,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'aalborg-h3': v(20, 30),
   'aalborg-h4': v(15, 20),
   // Roskilde
-  'roskilde-h1': v(120, 150, { c: 'daily', s: 'https://www.vikingeskibsmuseet.dk/en/' }),
+  'roskilde-h1': v(120, 150, { c: 'daily', s: 'https://www.vikingeskibsmuseet.dk/en/', k: '2026-10' }),
   'roskilde-h2': v(45, 60, { s: 'https://roskildedomkirke.dk/english', n: '예배·장례가 있으면 관광 입장이 중단됩니다.|Sightseeing stops during services and funerals.' }),
   'roskilde-h3': v(30, 45),
   'roskilde-h4': v(15, 20),
@@ -50,7 +50,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'gothenburg-h2': v(240, 360, { s: 'https://www.liseberg.se/en/', n: '여름·핼러윈·크리스마스 시즌에만 엽니다.|Open for the summer, Halloween and Christmas seasons only.' }),
   'gothenburg-h3': v(45, 60),
   'gothenburg-h4': v(50, 50, { n: '봄부터 가을까지만 다닙니다.|Runs spring to autumn only.' }),
-  'gothenburg-h5': v(150, 180, { c: 'daily', s: 'https://www.universeum.se/en/' }),
+  'gothenburg-h5': v(150, 180, { c: 'daily', s: 'https://www.universeum.se/en/', k: '2026-10' }),
   'gothenburg-h6': v(20, 30),
   // Malmö
   'malmo-h1': v(10, 15, { n: '주거 건물이라 내부는 공개하지 않습니다.|A residential tower—not open to visitors.' }),
@@ -111,7 +111,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'oslo-h7': v(60, 90, { s: 'https://holmenkollen.com/en/' }),
   // Bergen
   'bergen-h1': v(45, 60),
-  'bergen-h2': v(90, 120, { c: 'daily', s: 'https://www.floyen.no/en', n: '푸니쿨라로 6분쯤 오릅니다.|About six minutes up by funicular.' }),
+  'bergen-h2': v(90, 120, { c: 'daily', s: 'https://www.floyen.no/en', n: '푸니쿨라로 6분쯤 오릅니다. 2026년 11월 2~5일은 연례 점검으로 운휴합니다.|About six minutes up by funicular. Closed 2–5 November 2026 for annual maintenance.', k: '2026-10' }),
   'bergen-h3': v(30, 45),
   'bergen-h4': v(75, 90, { s: 'https://www.kodebergen.no/en/museums/troldhaugen' }),
   'bergen-h5': v(90, 120, { s: KODE, n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.' }),
@@ -120,7 +120,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'tromso-h1': v(20, 30, { s: 'https://ishavskatedralen.no/en/' }),
   'tromso-h2': v(60, 90, { c: 'daily', s: 'https://www.fjellheisen.no/', n: '강풍이 불면 운휴합니다.|Stops in high winds.' }),
   'tromso-h3': v(180, 300, { s: 'https://www.visittromso.no/boat-tours-tromso', b: 'rec', n: '여러 업체가 연중 운항하고 출발 시각은 계절마다 다릅니다. 겨울 오로라 크루즈는 몇 주 전에 매진되기도 하고 날씨에 따라 취소됩니다.|Several operators sail all year, with departure times changing by season. Winter aurora cruises can sell out weeks ahead and are weather-dependent.', k: '2026-10' }),
-  'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/en/' }),
+  'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/en/', k: '2026-10' }),
   'tromso-h5': v(45, 60),
   // Stavanger
   'stavanger-h1': v(240, 300, { b: 'no', s: 'https://preikestolen365.com/', n: '왕복 8km, 4시간쯤 걸리는 산행이고 난간이 없습니다. 겨울에는 장비와 가이드가 필요합니다.|An 8 km, roughly four-hour return hike with no railings. In winter it needs proper kit and a guide.' }),
@@ -129,7 +129,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'stavanger-h4': v(20, 30),
   'stavanger-h5': v(20, 30),
   // Trondheim
-  'trondheim-h1': v(60, 90, { c: 'daily', s: 'https://www.nidarosdomen.no/en/' }),
+  'trondheim-h1': v(60, 90, { c: 'daily', s: 'https://www.nidarosdomen.no/en/', n: '평일은 14시, 토요일은 13시에 닫고 일요일은 13~16시에만 엽니다. 교회 행사에 따라 바뀝니다.|Closes at 2 pm on weekdays and 1 pm on Saturdays; Sundays 1–4 pm only. Hours change with church events.', k: '2026-10' }),
   'trondheim-h2': v(10, 15),
   'trondheim-h3': v(30, 45),
   'trondheim-h4': v(15, 20),

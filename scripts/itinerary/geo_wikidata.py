@@ -7,41 +7,21 @@ around each candidate (--far, run after geo_nominatim.py).
 
 Usage: python3 scripts/itinerary/geo_wikidata.py [--far] [city-id …]
 """
-import json, math, os, re, subprocess, sys, time, unicodedata, urllib.parse
+import json, math, os, re, subprocess, sys, time, urllib.parse
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from names import same_place
 
 S = os.path.dirname(os.path.abspath(__file__))
 RADIUS = 4
 d = json.load(open(S + '/cities.json'))
 cache_p = S + '/geo-wd.json'
 cache = json.load(open(cache_p)) if os.path.exists(cache_p) else {}
-STOP = {'the', 'of', 'de', 'la', 'le', 'du', 'des', 'di', 'del', 'della', 'and', 'in', 'a', 'an', 'at', 'on'}
-GENERIC = {'st', 'san', 'santa', 'saint', 'museum', 'church', 'cathedral', 'square', 'old', 'town', 'castle',
-           'palace', 'park', 'market', 'bridge', 'tower', 'city', 'national', 'monastery', 'garden', 'gardens',
-           'hall', 'street', 'house', 'lake', 'fortress', 'new', 'main', 'central', 'royal', 'viewpoint', 'beach',
-           'harbour', 'harbor', 'port', 'quarter', 'district', 'centre', 'center', 'historic', 'gate', 'walls', 'wall'}
-
 
 def dist(a, b, c, e):
     p = math.radians
     x = math.sin(p(c - a) / 2) ** 2 + math.cos(p(a)) * math.cos(p(c)) * math.sin(p(e - b) / 2) ** 2
     return 2 * 6371 * math.asin(math.sqrt(x))
-
-
-def words(s):
-    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
-    return set(re.findall(r'[a-z0-9]+', s)) - STOP
-
-
-def same(name, label, city):
-    """True when the Wikidata label names the highlight itself rather than the town or a neighbour."""
-    n, l = words(name) - city, words(label) - city
-    if not n or not l:
-        return False
-    if n == l:
-        return True
-    ns, ls = n - GENERIC, l - GENERIC
-    # Distinctive words must be shared in full one way round: "Great Meteoron" ~ "Monastery of Great Meteoron".
-    return bool(ns) and bool(ls) and (ns <= l or ls <= n)
 
 
 def around(lat, lng, km, min_links=1):
@@ -77,12 +57,12 @@ def around(lat, lng, km, min_links=1):
 
 
 def match(h, c, items):
-    city = words(c['en'])
     names = {h['en'], urllib.parse.unquote(urllib.parse.parse_qs(urllib.parse.urlparse(h['maps']).query)['query'][0])}
     out = []
     for lat, lon, label, alts in items:
-        if any(same(n, x, city) for n in names for x in [label, *alts]):
-            out.append([round(lat, 5), round(lon, 5), label])
+        hit = next((x for x in [label, *sorted(alts)] if any(same_place(n, x, c['en']) for n in names)), None)
+        if hit:  # keep the text that matched, so geo_verify.py can re-check it
+            out.append([round(lat, 5), round(lon, 5), hit])
     return out[:8]
 
 
@@ -91,13 +71,16 @@ far = '--far' in sys.argv
 osm = json.load(open(S + '/geo.json'))
 nom = json.load(open(S + '/geo-nom.json')) if os.path.exists(S + '/geo-nom.json') else {}
 done = 0
+# --redo: look again (with the stricter name rule) for everything that has no pin yet.
+pinned = set(re.findall(r"'([^']+)': \[", open(S + '/../../src/data/geo.ts').read())) if '--redo' in sys.argv else None
+todo = (lambda i: i not in pinned and (i + '!v2') not in cache) if pinned is not None else (lambda i: i not in cache)
 for c in d:
     if args and c['id'] not in args:
         continue
     if far:
         # Candidates outside the city query (day trips): look around each one.
         for h in c['h']:
-            if cache.get(h['id']) or cache.get(h['id'] + '!far') is not None:
+            if cache.get(h['id']) or cache.get(h['id'] + ('!far2' if pinned is not None else '!far')) is not None or (pinned and h['id'] in pinned):
                 continue
             pts = [p for p in ([osm[h['id']]] if osm.get(h['id']) else []) + [x[:2] for x in nom.get(h['id']) or []]
                    if dist(c['lat'], c['lng'], p[0], p[1]) > RADIUS - 0.5]
@@ -110,9 +93,9 @@ for c in d:
             except Exception:
                 continue
             cache[h['id']] = got
-            cache[h['id'] + '!far'] = 1
+            cache[h['id'] + ('!far2' if pinned is not None else '!far')] = 1
             done += 1
-    elif any(h['id'] not in cache for h in c['h']):
+    elif any(todo(h['id']) for h in c['h']):
         try:
             items = around(c['lat'], c['lng'], RADIUS)
         except Exception:
@@ -122,10 +105,13 @@ for c in d:
                 print('failed', c['id'], flush=True)
                 continue
         for h in c['h']:
-            cache[h['id']] = match(h, c, items)
+            if pinned is None or h['id'] not in pinned:
+                cache[h['id']] = match(h, c, items)
+                cache[h['id'] + '!v2'] = 1
         done += 1
     if done and done % 5 == 0:
         json.dump(cache, open(cache_p, 'w'), ensure_ascii=False)
 json.dump(cache, open(cache_p, 'w'), ensure_ascii=False)
 ids = [h['id'] for c in d for h in c['h']]
+json.dump(cache, open(cache_p, 'w'), ensure_ascii=False)
 print('done', sum(1 for i in ids if i in cache), 'looked up,', sum(1 for i in ids if cache.get(i)), 'with a match')

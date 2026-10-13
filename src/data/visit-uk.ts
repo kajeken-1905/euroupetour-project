@@ -10,7 +10,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Monaco
   'monaco-h1': v(45, 60, { s: 'https://www.visitepalaisdemonaco.com/en/', n: '궁전 내부는 봄부터 가을까지만 공개합니다. 근위병 교대식은 매일 11시 55분에 광장에서 열립니다.|The state apartments open only from spring to autumn. The guard changes daily at 11:55 on the square.' }),
   'monaco-h2': v(15, 20, { b: 'no', n: FREE }),
-  'monaco-h3': v(90, 120, { c: 'daily', s: 'https://musee.oceano.org/en/' }),
+  'monaco-h3': v(90, 120, { c: 'daily', s: 'https://musee.oceano.org/en/', n: '12월 25일과 F1 그랑프리 주말에는 쉽니다.|Closed on 25 December and over the Formula 1 Grand Prix weekend.', k: '2026-10' }),
   'monaco-h4': v(20, 30),
   'monaco-h5': v(20, 30),
   'monte-carlo-h1': v(30, 60, { s: 'https://www.montecarlosbm.com/en/casino-monaco/casino-monte-carlo', n: '입장에는 여권이 필요하고 만 18세 이상만 들어갑니다. 오후 게임 시간에는 복장 규정이 있습니다.|Bring your passport; over-18s only. A dress code applies once gaming starts in the afternoon.' }),
@@ -41,12 +41,12 @@ export const visitUk: Record<string, HighlightVisit> = {
   'windsor-h3': v(30, 60),
   'windsor-h4': v(30, 45),
   // Canterbury
-  'canterbury-h1': v(75, 105, { c: 'daily', s: 'https://www.canterbury-cathedral.org/' }),
+  'canterbury-h1': v(75, 105, { c: 'daily', s: 'https://www.canterbury-cathedral.org/', n: '일요일에는 성당 안이 12시 30분부터 열립니다. 예배와 행사로 일부 구역이 닫히기도 합니다.|On Sundays the cathedral itself opens at 12:30 pm. Parts may close for services and events.', k: '2026-10' }),
   'canterbury-h2': v(40, 45),
   'canterbury-h3': v(20, 30),
   'canterbury-h4': v(45, 60),
   // Brighton
-  'brighton-h1': v(75, 90, { c: 'daily', s: 'https://brightonmuseums.org.uk/visit/royal-pavilion-garden/' }),
+  'brighton-h1': v(75, 90, { c: 'daily', s: 'https://brightonmuseums.org.uk/visit/royal-pavilion-garden/', k: '2026-10' }),
   'brighton-h2': v(45, 60, { b: 'no', s: 'https://www.brightonpier.co.uk/' }),
   'brighton-h3': v(30, 45),
   'brighton-h4': v(30, 60),
@@ -56,7 +56,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'oxford-h1': v(60, 90, { b: 'req', s: 'https://www.chch.ox.ac.uk/visit', n: '표는 온라인 사전 예매가 원칙이고, 다음 주 표가 매주 금요일에 풀립니다. 학교 행사로 대식당이나 성당이 닫히는 시간이 있습니다.|Tickets must be booked online in advance; each Friday the following week goes on sale. The hall or cathedral can close for college events.', k: '2026-10' }),
   'oxford-h2': v(30, 60, { b: 'rec', s: 'https://visit.bodleian.ox.ac.uk/', n: '내부는 가이드 투어로만 볼 수 있습니다.|The interior is seen on guided tours only.', k: '2026-10' }),
   'oxford-h3': v(10, 15),
-  'oxford-h4': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.ashmolean.org/', n: FREE }),
+  'oxford-h4': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.ashmolean.org/', n: FREE, k: '2026-10' }),
   'oxford-h5': v(30, 45),
   'oxford-h6': v(45, 60, { s: 'https://www.obga.ox.ac.uk/' }),
   // Cotswolds
@@ -113,12 +113,12 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Liverpool
   'liverpool-h1': v(60, 90),
   'liverpool-h2': v(90, 120, { c: 'daily', b: 'req', s: 'https://www.beatlesstory.com/', n: '시간 지정 표를 온라인으로 미리 사야 합니다(현장 무인 판매기로는 다음 빈 시간대를 삽니다). 12월 25·26일은 쉽니다.|Timed tickets must be bought online beforehand (kiosks at the door sell the next free slot). Closed 25–26 December.', k: '2026-10' }),
-  'liverpool-h3': v(45, 60, { c: 'daily', b: 'no', s: 'https://liverpoolcathedral.org.uk/', n: '입장은 무료이고 탑 전망대만 유료입니다.|Free; only the tower climb is ticketed.' }),
+  'liverpool-h3': v(45, 60, { c: 'daily', b: 'no', s: 'https://liverpoolcathedral.org.uk/', n: '입장은 무료이고 탑 전망대만 유료입니다.|Free; only the tower climb is ticketed.', k: '2026-10' }),
   'liverpool-h4': v(0, 0, { s: 'https://www.liverpoolmuseums.org.uk/maritime-museum', n: '2025년 1월부터 재개발 공사로 휴관 중이며 2028년 재개관이 목표입니다.|Closed for redevelopment since January 2025, with reopening targeted for 2028.' }),
   'liverpool-h5': v(45, 90),
   'liverpool-h6': v(15, 150, { n: '공연 관람은 예매가 필요합니다.|Concerts need advance tickets.' }),
   // York
-  'york-h1': v(75, 120, { c: 'daily', s: 'https://yorkminster.org/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.' }),
+  'york-h1': v(75, 120, { c: 'daily', s: 'https://yorkminster.org/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.', k: '2026-10' }),
   'york-h2': v(20, 30),
   'york-h3': v(90, 120, { b: 'no', n: FREE }),
   'york-h4': v(30, 45, { s: 'https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/' }),
@@ -140,9 +140,9 @@ export const visitUk: Record<string, HighlightVisit> = {
   'edinburgh-h7': v(30, 45),
   // Glasgow
   'glasgow-h1': v(30, 45, { b: 'no', s: 'https://glasgowcathedral.org/', n: FREE }),
-  'glasgow-h2': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum', n: FREE }),
+  'glasgow-h2': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum', n: FREE, k: '2026-10' }),
   'glasgow-h3': v(30, 45),
-  'glasgow-h4': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/riverside-museum', n: FREE }),
+  'glasgow-h4': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/riverside-museum', n: FREE, k: '2026-10' }),
   'glasgow-h5': v(10, 15),
   // Stirling
   'stirling-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/stirling-castle/', k: '2026-10' }),
@@ -167,7 +167,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'isle-of-skye-h4': v(45, 60),
   'isle-of-skye-h5': v(60, 90),
   // Cardiff
-  'cardiff-h1': v(90, 120, { c: 'daily', s: 'https://www.cardiffcastle.com/' }),
+  'cardiff-h1': v(90, 120, { c: 'daily', s: 'https://www.cardiffcastle.com/', k: '2026-10' }),
   'cardiff-h2': v(60, 90),
   'cardiff-h3': v(60, 75, { b: 'req', s: 'https://www.principalitystadium.wales/tours/', n: '경기와 행사 일정에 따라 투어가 없는 날이 있습니다.|No tours on some match and event days.', k: '2026-10' }),
   'cardiff-h4': v(60, 75, { s: 'https://cadw.gov.wales/visit/places-to-visit/castell-coch' }),
@@ -194,7 +194,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'belfast-h3': v(60, 90),
   'belfast-h4': v(45, 60, { c: 'mon,tue,wed,thu', n: '금·토·일요일에만 열립니다.|Open Friday to Sunday only.', k: '2026-10' }),
   // Giant's Causeway
-  'giants-causeway-h1': v(90, 120, { c: 'daily', s: 'https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway', n: '주상절리 자체는 무료이고 방문자 센터와 주차장이 유료입니다.|The stones are free; the visitor centre and car park charge.' }),
+  'giants-causeway-h1': v(90, 120, { c: 'daily', s: 'https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway', n: '주상절리 자체는 무료이고 방문자 센터와 주차장이 유료입니다.|The stones are free; the visitor centre and car park charge.', k: '2026-10' }),
   'giants-causeway-h2': v(60, 90, { b: 'req', s: 'https://www.nationaltrust.org.uk/visit/northern-ireland/carrick-a-rede', n: '다리 건너기는 시간 지정 예약이며 강풍이 불면 닫습니다.|Crossing is by timed ticket and closes in high winds.', k: '2026-10' }),
   'giants-causeway-h3': v(30, 45, { s: 'https://discovernorthernireland.com/listing/dunluce-castle/67501101/' }),
   'giants-causeway-h4': v(20, 30),
@@ -222,7 +222,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'cork-h2': v(30, 45),
   'cork-h3': v(30, 45),
   'cork-h4': v(30, 45),
-  'cork-h5': v(120, 180, { c: 'daily', s: 'https://blarneycastle.ie/' }),
+  'cork-h5': v(120, 180, { c: 'daily', s: 'https://blarneycastle.ie/', k: '2026-10' }),
   // Killarney
   'killarney-h1': v(180, 300),
   'killarney-h2': v(60, 90, { s: 'https://muckross-house.ie/' }),
@@ -230,7 +230,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'killarney-h4': v(360, 480),
   'killarney-h5': v(30, 45),
   // Kilkenny
-  'kilkenny-h1': v(60, 90, { c: 'daily', s: 'https://heritageireland.ie/places-to-visit/kilkenny-castle/' }),
+  'kilkenny-h1': v(60, 90, { c: 'daily', s: 'https://heritageireland.ie/places-to-visit/kilkenny-castle/', k: '2026-10' }),
   'kilkenny-h2': v(45, 60),
   'kilkenny-h3': v(30, 45, { s: 'https://www.stcanicescathedral.ie/' }),
   'kilkenny-h4': v(0, 0, { n: '2020년에 문을 닫은 뒤 영구 폐관했습니다. 지금은 방문할 수 없습니다.|Shut in 2020 and since closed permanently—it can no longer be visited.' }),

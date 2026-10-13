@@ -33,7 +33,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'segovia-h5': v(10, 15),
   'segovia-h6': v(10, 15),
   'segovia-h7': v(10, 15),
-  'segovia-h3': v(45, 60, { c: 'daily', s: 'https://catedralsegovia.es/en/' }),
+  'segovia-h3': v(45, 60, { c: 'daily', s: 'https://catedralsegovia.es/en/', n: '일요일은 13시 30분부터 관광 입장이 됩니다.|On Sundays sightseeing entry starts at 1:30 pm.', k: '2026-10' }),
   'segovia-h4': v(30, 45),
   'segovia-h8': v(20, 30),
   'segovia-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.alcazardesegovia.com/', n: '시간 지정 입장이며 탑(계단 152개)은 표가 따로입니다.|Entry is timed; the tower (152 steps) is ticketed separately.', k: '2026-10' }),
@@ -47,7 +47,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'toledo-h1': v(75, 90, { c: 'daily', s: 'https://www.catedralprimada.es/en/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.' }),
   'toledo-h7': v(10, 15),
   'toledo-h2': v(75, 90, { c: 'mon', k: '2026-10' }),
-  'toledo-h3': v(20, 30, { c: 'daily', s: 'https://santotome.org/' }),
+  'toledo-h3': v(20, 30, { c: 'daily', s: 'https://santotome.org/', k: '2026-10' }),
   'toledo-h4': v(30, 45),
   'toledo-h6': v(15, 20),
   'toledo-h5': v(30, 45),
@@ -84,13 +84,13 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'montserrat-h3': v(60, 90, { s: 'https://www.cremallerademontserrat.cat/en/', n: '정기 점검 기간에는 운휴합니다.|Closed during annual maintenance.' }),
   'montserrat-h4': v(20, 30, { b: 'rec', s: 'https://www.montserratvisita.com/en', n: '검은 성모상을 가까이서 보려면 성모상 접견(Throne) 입장권이 필요하며, 온라인이 현장보다 쌉니다.|Getting close to the statue needs the Throne of Our Lady ticket, which is cheaper online than at the ticket office.', k: '2026-10' }),
   // Girona
-  'girona-h1': v(45, 60, { c: 'daily', s: 'https://catedraldegirona.cat/en/' }),
+  'girona-h1': v(45, 60, { c: 'daily', s: 'https://catedraldegirona.cat/en/', n: '일요일은 12시부터 엽니다. 12월 25일과 1월 1일은 휴무입니다.|Opens at noon on Sundays. Closed 25 December and 1 January.', k: '2026-10' }),
   'girona-h2': v(45, 60),
   'girona-h3': v(45, 60, { b: 'no', n: FREE }),
   'girona-h4': v(15, 20),
   'girona-h5': v(20, 30, { s: 'https://www.banysarabs.cat/en/' }),
   // Zaragoza
-  'zaragoza-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://catedraldezaragoza.es/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The basilica is free; only the tower lift is ticketed.' }),
+  'zaragoza-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://catedraldezaragoza.es/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The basilica is free; only the tower lift is ticketed.', k: '2026-10' }),
   'zaragoza-h2': v(60, 75, { n: '아라곤 의회가 쓰는 건물이라 회의가 있는 날은 관람이 제한됩니다.|Home to the Aragonese parliament, so visits are restricted on sitting days.' }),
   'zaragoza-h3': v(45, 60, { s: 'https://catedraldezaragoza.es/' }),
   'zaragoza-h4': v(20, 30),
@@ -147,7 +147,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Ronda
   'ronda-h1': v(20, 30),
   'ronda-h2': v(45, 60),
-  'ronda-h3': v(45, 60, { c: 'daily', s: 'https://www.rmcr.org/en/' }),
+  'ronda-h3': v(45, 60, { c: 'daily', s: 'https://www.rmcr.org/en/', k: '2026-10' }),
   'ronda-h4': v(45, 60, { s: 'https://casadelreymoro.org/en/home/', n: '협곡 아래까지 계단 약 230개를 내려갑니다.|About 230 steps lead down to the river.' }),
   'ronda-h5': v(15, 20),
   // Nerja
@@ -274,8 +274,8 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lisbon-h17': v(10, 15),
   // Sintra
   'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.', k: '2026-10' }),
-  'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA }),
-  'sintra-h3': v(60, 75, { c: 'daily', s: SINTRA }),
+  'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
+  'sintra-h3': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
   'sintra-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.regaleira.pt/en/', k: '2026-10' }),
   'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA }),
   'sintra-h6': v(30, 45),

@@ -39,7 +39,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'lucerne-h2': v(60, 180, { s: 'https://www.lakelucerne.ch/en/', n: '유람선은 스위스 트래블 패스로 탈 수 있습니다.|Lake boats are covered by the Swiss Travel Pass.' }),
   'lucerne-h3': v(15, 20),
   'lucerne-h4': v(45, 60),
-  'lucerne-h5': v(180, 240, { c: 'daily', s: 'https://www.verkehrshaus.ch/en/' }),
+  'lucerne-h5': v(180, 240, { c: 'daily', s: 'https://www.verkehrshaus.ch/en/', k: '2026-10' }),
   'lucerne-h6': v(10, 15),
   'lucerne-h7': v(15, 20),
   'lucerne-h8': v(240, 300, { s: 'https://www.rigi.ch/en', n: '리기 산악열차와 케이블카는 스위스 트래블 패스로 무료입니다.|The Rigi railways and cable car are free with the Swiss Travel Pass.' }),
@@ -57,7 +57,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'basel-h5': v(10, 15),
   // Zermatt
   'zermatt-h1': v(30, 60),
-  'zermatt-h2': v(150, 180, { c: 'daily', s: 'https://www.gornergrat.ch/en/', n: PASS }),
+  'zermatt-h2': v(150, 180, { c: 'daily', s: 'https://www.gornergrat.ch/en/', n: PASS.replace('|', ' 2026년 11월 2~14일은 공사로 운휴합니다.|') + ' Out of service 2–14 November 2026 for construction work.', k: '2026-10' }),
   'zermatt-h3': v(30, 45),
   'zermatt-h4': v(60, 90, { n: '호수는 여름에만 얼음이 녹아 마터호른이 비칩니다.|The lake is ice-free—and mirrors the Matterhorn—only in summer.' }),
   'zermatt-h5': v(45, 60, { s: 'https://zermatt.swiss/en/discover-experience/tradition-culture/museum' }),
@@ -74,7 +74,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'lugano-h4': v(30, 45),
   'lugano-h5': v(30, 45),
   // Montreux
-  'montreux-h1': v(90, 120, { c: 'daily', s: 'https://www.chillon.ch/en/', n: PASS.replace('할인됩니다', '무료입니다').replace('get a discount', 'enter free') }),
+  'montreux-h1': v(90, 120, { c: 'daily', s: 'https://www.chillon.ch/en/', n: PASS.replace('할인됩니다', '무료입니다').replace('get a discount', 'enter free'), k: '2026-10' }),
   'montreux-h2': v(45, 60),
   'montreux-h3': v(10, 15),
   'montreux-h4': v(15, 20),

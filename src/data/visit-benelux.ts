@@ -32,7 +32,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'potsdam-h4': v(60, 75, { n: '2024년 11월부터 보수 공사로 내부가 닫혀 있고 2028년 말까지 이어질 예정입니다. 외관과 주변 신정원만 볼 수 있습니다.|The interior has been closed for renovation since November 2024, expected until the end of 2028. Only the exterior and the surrounding New Garden can be seen.', k: '2026-10' }),
   'potsdam-h5': v(60, 120),
   // Cologne
-  'cologne-h1': v(45, 90, { c: 'daily', b: 'no', s: 'https://www.koelner-dom.de/en', n: '성당은 무료이고 탑(계단 533개)과 보물관은 유료입니다.|The cathedral is free; the tower (533 steps) and treasury are ticketed.' }),
+  'cologne-h1': v(45, 90, { c: 'daily', b: 'no', s: 'https://www.koelner-dom.de/en', n: '2026년 7월 1일부터 관광 목적의 내부 관람은 유료입니다(기도 공간인 북쪽 익랑은 무료). 탑(계단 533개)과 보물관은 따로 유료입니다. 예배 중에는 관람할 수 없습니다.|Since 1 July 2026 sightseeing inside is ticketed (the north transept stays free for prayer). The tower (533 steps) and treasury are ticketed separately. No sightseeing during services.', k: '2026-10' }),
   'cologne-h2': v(60, 90),
   'cologne-h3': v(15, 20),
   'cologne-h4': v(60, 90, { c: 'tue', s: 'https://roemisch-germanisches-museum.de/Homepage', n: '대성당 옆 본관은 보수 공사로 닫혀 있고, 소장품은 노이마르크트 근처 벨기에 하우스(Belgisches Haus)에서 전시합니다.|The main building by the cathedral is closed for renovation; the collection is shown at the Belgisches Haus near Neumarkt.', k: '2026-10' }),
@@ -41,7 +41,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'frankfurt-h1': v(20, 30),
   'frankfurt-h2': v(30, 45, { s: 'https://www.maintower.de/en/', n: '악천후에는 전망대를 닫습니다.|The platform closes in bad weather.' }),
   'frankfurt-h3': v(120, 180, { c: 'mon', n: '슈테델 미술관을 비롯해 강변의 박물관은 대부분 월요일에 쉽니다. 슈테델은 목요일에 21시까지 엽니다.|The Städel and most of the riverside museums close on Mondays; the Städel stays open until 9 pm on Thursdays.', k: '2026-10' }),
-  'frankfurt-h4': v(90, 120, { c: 'daily', s: 'https://www.palmengarten.de/en/' }),
+  'frankfurt-h4': v(90, 120, { c: 'daily', s: 'https://www.palmengarten.de/en/', k: '2026-10' }),
   'frankfurt-h5': v(60, 90),
   'frankfurt-h6': v(10, 15),
   // Leipzig
@@ -57,7 +57,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'dresden-h4': v(20, 30),
   'dresden-h5': v(60, 90),
   // Heidelberg
-  'heidelberg-h1': v(90, 120, { c: 'daily', s: 'https://www.schloss-heidelberg.de/en/', n: '입장권에 산악 열차 왕복이 포함됩니다.|The ticket includes the funicular up and down.' }),
+  'heidelberg-h1': v(90, 120, { c: 'daily', s: 'https://www.schloss-heidelberg.de/en/', n: '입장권에 산악 열차 왕복이 포함됩니다.|The ticket includes the funicular up and down.', k: '2026-10' }),
   'heidelberg-h2': v(60, 90),
   'heidelberg-h3': v(45, 60),
   'heidelberg-h4': v(15, 20),
@@ -75,7 +75,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rothenburg-h4': v(75, 90, { s: 'https://www.kriminalmuseum.eu/en/?lang=en' }),
   'rothenburg-h5': v(20, 30),
   // Nuremberg
-  'nuremberg-h1': v(90, 120, { c: 'daily', s: 'https://www.kaiserburg-nuernberg.de/englisch/castle/index.htm' }),
+  'nuremberg-h1': v(90, 120, { c: 'daily', s: 'https://www.kaiserburg-nuernberg.de/englisch/castle/index.htm', k: '2026-10' }),
   'nuremberg-h2': v(20, 30, { n: '11월 말부터 크리스마스 전까지 크리스마스 마켓이 섭니다.|Hosts the Christmas market from late November until Christmas.' }),
   'nuremberg-h3': v(20, 30),
   'nuremberg-h4': v(120, 150, { s: 'https://museums.nuernberg.de/documentation-center', n: '여러 해에 걸친 개편 공사를 거쳤으니 방문 전에 운영 현황을 확인하세요.|It has been through a multi-year remodelling—check current arrangements before you go.' }),
@@ -113,13 +113,13 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   // Ghent
   'ghent-h1': v(20, 30),
   'ghent-h2': v(45, 60, { c: 'daily', b: 'rec', s: 'https://www.sintbaafskathedraal.be/en/', n: '성당은 무료이고 겐트 제단화는 시간 지정 유료 입장입니다.|The cathedral is free; the Ghent Altarpiece is by timed paid ticket.', k: '2026-10' }),
-  'ghent-h3': v(75, 90, { c: 'daily', s: 'https://historischehuizen.stad.gent/en/castle-counts' }),
-  'ghent-h4': v(30, 45, { c: 'daily', s: 'https://historischehuizen.stad.gent/nl/belfort' }),
+  'ghent-h3': v(75, 90, { c: 'daily', s: 'https://historischehuizen.stad.gent/en/castle-counts', k: '2026-10' }),
+  'ghent-h4': v(30, 45, { c: 'daily', s: 'https://historischehuizen.stad.gent/nl/belfort', k: '2026-10' }),
   'ghent-h5': v(30, 45),
   'ghent-h6': v(75, 90, { c: 'mon', s: 'https://smak.be/en', k: '2026-10' }),
   // Antwerp
   'antwerp-h1': v(15, 20),
-  'antwerp-h2': v(45, 60, { c: 'daily', s: 'https://www.dekathedraal.be/en' }),
+  'antwerp-h2': v(45, 60, { c: 'daily', s: 'https://www.dekathedraal.be/en', n: '토요일은 15시에 닫고 일요일은 13시부터 엽니다.|Closes at 3 pm on Saturdays and opens at 1 pm on Sundays.', k: '2026-10' }),
   'antwerp-h3': v(30, 45),
   'antwerp-h4': v(15, 20),
   'antwerp-h5': v(90, 120, { c: 'mon', s: 'https://mas.be/en', n: '옥상 전망대와 건물 통로는 무료입니다.|The rooftop panorama and the walk up through the building are free.', k: '2026-10' }),
@@ -151,14 +151,14 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rotterdam-h3': v(20, 30, { s: 'https://www.kubuswoning.nl/en/' }),
   'rotterdam-h4': v(75, 90, { s: 'https://www.spido.nl/en/' }),
   'rotterdam-h5': v(90, 120, { c: 'mon', s: 'https://www.boijmans.nl/en', n: '본관은 보수 공사로 휴관 중이고, 바로 옆 수장고(Depot)가 문을 엽니다.|The main museum is closed for renovation; the Depot next door is open.', k: '2026-10' }),
-  'rotterdam-h6': v(45, 60, { c: 'daily', s: 'https://euromast.nl/en/' }),
+  'rotterdam-h6': v(45, 60, { c: 'daily', s: 'https://euromast.nl/en/', k: '2026-10' }),
   // The Hague
   'the-hague-h1': v(10, 15, { n: '국왕 집무 궁전이라 내부는 공개하지 않습니다.|The King’s working palace—not open to visitors.' }),
   'the-hague-h2': v(30, 45, { s: 'https://www.vredespaleis.nl/visit/?lang=en', n: '방문자 센터는 무료이고, 건물 내부는 지정일 가이드 투어로만 봅니다.|The visitor centre is free; the building itself is seen on guided tours on set days only.' }),
   'the-hague-h3': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.mauritshuis.nl/en/', n: '월요일은 오후에만 엽니다.|On Mondays it opens in the afternoon only.', k: '2026-10' }),
   'the-hague-h4': v(90, 180),
   'the-hague-h5': v(15, 20, { n: '대규모 보수 공사로 안뜰과 건물에 들어갈 수 없습니다. 호수 건너편에서 외관만 봅니다.|Closed off for a major renovation; view it from across the Hofvijver pond.' }),
-  'the-hague-h6': v(90, 120, { c: 'daily', s: 'https://www.madurodam.nl/en' }),
+  'the-hague-h6': v(90, 120, { c: 'daily', s: 'https://www.madurodam.nl/en', k: '2026-10' }),
   'the-hague-h7': v(60, 75, { c: 'mon', s: 'https://escherinhetpaleis.nl/en?lang=en', k: '2026-10' }),
   // Utrecht
   'utrecht-h1': v(60, 60, { b: 'req', s: 'https://www.domtoren.nl/en', n: '가이드 투어로만 오르며 계단이 465개입니다.|Climbed on guided tours only—465 steps.', k: '2026-10' }),
@@ -176,10 +176,10 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'haarlem-h6': v(30, 45),
   // Delft
   'delft-h1': v(45, 60, { c: 'sun', s: DELFT_KERK, n: '신교회와 구교회는 표 한 장으로 함께 봅니다.|One ticket covers both the New and Old Church.', k: '2026-10' }),
-  'delft-h2': v(75, 90, { c: 'daily', s: 'https://museum.royaldelft.com/en/' }),
+  'delft-h2': v(75, 90, { c: 'daily', s: 'https://museum.royaldelft.com/en/', k: '2026-10' }),
   'delft-h3': v(15, 20),
   'delft-h4': v(30, 40, { c: 'sun', s: DELFT_KERK, k: '2026-10' }),
-  'delft-h5': v(45, 60, { c: 'daily', s: 'https://www.vermeerdelft.nl/en/', n: '진품은 없고 복제화로 생애와 기법을 소개합니다.|No originals—reproductions explain his life and technique.' }),
+  'delft-h5': v(45, 60, { c: 'daily', s: 'https://www.vermeerdelft.nl/en/', n: '진품은 없고 복제화로 생애와 기법을 소개합니다.|No originals—reproductions explain his life and technique.', k: '2026-10' }),
   'delft-h6': v(30, 45),
   // Maastricht
   'maastricht-h1': v(15, 20),
@@ -203,7 +203,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'luxembourg-city-h6': v(10, 15),
   'luxembourg-city-h7': v(45, 60),
   // Vianden
-  'vianden-h1': v(75, 90, { c: 'daily', s: 'https://castle-vianden.lu/gb/' }),
+  'vianden-h1': v(75, 90, { c: 'daily', s: 'https://castle-vianden.lu/gb/', k: '2026-10' }),
   'vianden-h2': v(20, 30),
   'vianden-h3': v(30, 45, { n: '체어리프트는 봄부터 가을까지만 다닙니다.|The chairlift runs spring to autumn only.' }),
   'vianden-h4': v(30, 45, { s: 'https://victor-hugo.lu/' }),

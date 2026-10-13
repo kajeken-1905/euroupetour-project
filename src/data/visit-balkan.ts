@@ -11,12 +11,12 @@ const POSTOJNA = 'https://www.postojnska-jama.eu/en/'
 export const visitBalkan: Record<string, HighlightVisit> = {
   // Zagreb
   'zagreb-h1': v(90, 120, { n: '매일 정오에 로트르슈차크 탑에서 대포를 쏩니다.|A cannon is fired from the Lotrščak Tower at noon each day.' }),
-  'zagreb-h2': v(45, 60, { c: 'daily', s: 'https://brokenships.com/' }),
+  'zagreb-h2': v(45, 60, { c: 'daily', s: 'https://brokenships.com/', n: '성탄 전야·성탄절·1월 1일·부활절·만성절(11월 1일)에는 쉽니다.|Closed on Christmas Eve, Christmas Day, New Year’s Day, Easter and All Saints’ Day.', k: '2026-10' }),
   'zagreb-h3': v(30, 45, { b: 'no', n: '시장은 오전에 서고 오후 일찍 파합니다.|A morning market, winding down in the early afternoon.' }),
   'zagreb-h4': v(15, 20),
   'zagreb-h5': v(45, 60, { b: 'no', n: FREE }),
   // Dubrovnik
-  'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.' }),
+  'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.', k: '2026-10' }),
   'dubrovnik-h2': v(20, 30),
   'dubrovnik-h3': v(30, 45, { n: '성벽 입장권으로 함께 봅니다.|Included with the city walls ticket.' }),
   'dubrovnik-h4': v(60, 75, { s: 'https://www.dubrovnikcablecar.com/', n: '강풍이 불면 운휴하고 겨울에는 쉬는 기간이 있습니다.|Stops in high winds and closes for part of the winter.' }),
@@ -60,7 +60,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'trogir-h4': v(10, 15),
 
   // Ljubljana
-  'ljubljana-h1': v(75, 90, { c: 'daily', s: 'https://www.ljubljanskigrad.si/en/', n: '성 안뜰은 무료이고 푸니쿨라와 전시는 유료입니다.|The courtyard is free; the funicular and exhibitions are ticketed.' }),
+  'ljubljana-h1': v(75, 90, { c: 'daily', s: 'https://www.ljubljanskigrad.si/en/', n: '성 안뜰은 무료이고 푸니쿨라와 전시는 유료입니다.|The courtyard is free; the funicular and exhibitions are ticketed.', k: '2026-10' }),
   'ljubljana-h2': v(10, 10),
   'ljubljana-h3': v(15, 20),
   'ljubljana-h4': v(45, 60),
@@ -68,7 +68,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Bled
   'bled-h1': v(90, 120, { n: '호수 한 바퀴는 약 6km입니다.|The lakeside loop is about 6 km.' }),
   'bled-h2': v(75, 90, { n: '전통 나룻배(플레트나)로 건넙니다. 호수가 얼거나 날씨가 나쁘면 다니지 않습니다.|Reached by traditional pletna boat; no service when the lake freezes or in bad weather.' }),
-  'bled-h3': v(60, 75, { c: 'daily', s: 'https://www.blejski-grad.si/en/' }),
+  'bled-h3': v(60, 75, { c: 'daily', s: 'https://www.blejski-grad.si/en/', k: '2026-10' }),
   'bled-h4': v(20, 30),
   'bled-h5': v(60, 75),
   // Piran
@@ -85,7 +85,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'maribor-h5': v(120, 180),
   // Postojna
   'postojna-h1': v(90, 120, { c: 'daily', b: 'rec', s: POSTOJNA, n: '정해진 시간에 출발하는 투어로만 들어갑니다. 동굴 안은 1년 내내 10도쯤입니다.|Entered on tours at fixed times only. It is about 10°C inside all year.', k: '2026-10' }),
-  'postojna-h2': v(60, 75, { c: 'daily', s: POSTOJNA, n: '동굴에서 9km 떨어져 있고 묶음권이 있습니다.|Nine kilometres from the cave, with combined tickets available.' }),
+  'postojna-h2': v(60, 75, { c: 'daily', s: POSTOJNA, n: '동굴에서 9km 떨어져 있고 묶음권이 있습니다.|Nine kilometres from the cave, with combined tickets available.', k: '2026-10' }),
   'postojna-h3': v(30, 40, { s: POSTOJNA }),
   'postojna-h4': v(30, 45),
   'postojna-h5': v(30, 45),

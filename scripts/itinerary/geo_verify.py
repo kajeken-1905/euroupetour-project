@@ -7,7 +7,10 @@ left without a pin. geo-manual.json can add hand-checked entries.
 
 Usage: python3 scripts/itinerary/geo_verify.py [--report]
 """
-import json, math, os, re, sys, unicodedata, urllib.parse
+import json, math, os, sys, urllib.parse
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from names import plain, same_place
 
 S = os.path.dirname(os.path.abspath(__file__))
 LIMIT = 300
@@ -20,48 +23,11 @@ wd = json.load(open(wd_p)) if os.path.exists(wd_p) else {}  # already matched by
 manual_p = S + '/geo-manual.json'
 manual = json.load(open(manual_p)) if os.path.exists(manual_p) else {}
 cities = json.load(open(S + '/cities.json'))
-STOP = {'the', 'of', 'de', 'la', 'le', 'du', 'des', 'di', 'del', 'della', 'and', 'st', 'san', 'santa', 'saint',
-        'museum', 'church', 'cathedral', 'square', 'old', 'town', 'castle', 'palace', 'park', 'market', 'bridge',
-        'tower', 'city', 'national', 'monastery', 'garden', 'gardens', 'hall', 'street', 'house', 'lake', 'fortress'}
-
 
 def dist(a, b, c, e):
     p = math.radians
     x = math.sin(p(c - a) / 2) ** 2 + math.cos(p(a)) * math.cos(p(c)) * math.sin(p(e - b) / 2) ** 2
     return 2 * 6371000 * math.asin(math.sqrt(x))
-
-
-def words(s):
-    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
-    return set(re.findall(r'[a-z0-9]+', s))
-
-
-GENERIC = STOP | {'new', 'main', 'central', 'royal', 'viewpoint', 'beach', 'harbour', 'harbor', 'port', 'quarter',
-                  'district', 'centre', 'center', 'historic', 'gate', 'walls', 'wall', 'in', 'a', 'an', 'at', 'on', 's'}
-
-# Words that recur from town to town; a name made only of these is "plain" and must stay near its city.
-COMMON = GENERIC | {'bazaar', 'hill', 'river', 'riverside', 'promenade', 'waterfront', 'station', 'theatre', 'theater',
-                    'opera', 'library', 'university', 'gallery', 'art', 'history', 'village', 'island', 'bay', 'fort',
-                    'basilica', 'chapel', 'abbey', 'mosque', 'synagogue', 'fountain', 'monument', 'memorial', 'zoo',
-                    'aquarium', 'botanical', 'cemetery', 'citadel', 'ruins', 'roman', 'medieval', 'great', 'grand',
-                    'little', 'upper', 'lower', 'avenue', 'boulevard', 'plaza', 'piazza', 'place', 'platz', 'cable',
-                    'car', 'funicular', 'lighthouse', 'pier', 'falls', 'waterfall', 'cave', 'caves', 'mine', 'valley',
-                    'gorge', 'mountain', 'view', 'lookout', 'walk', 'bath', 'baths', 'mill', 'clock', 'state', 'town'}
-
-
-def same_place(name, title, city):
-    """The reference must name the highlight itself, not the town around it or a neighbour that shares a word."""
-    c = words(city)
-    n, t = words(name) - c - {'s'}, words(title) - c - {'s'}
-    if not n or not t:
-        return False
-    if n == t:
-        return True
-    ns, ts = n - GENERIC, t - GENERIC
-    if not ns or not ts:
-        return False
-    # "Great Meteoron" ~ "Monastery of Great Meteoron"; a single shared word ("Westminster") is not enough.
-    return ns == ts or (min(len(ns), len(ts)) >= 2 and (ns <= ts or ts <= ns))
 
 
 def names(h):
@@ -88,8 +54,8 @@ for c in cities:
         else:
             pairs = [(dist(x[0], x[1], r[0], r[1]), x, r[2]) for x in cands for r in refs]
             # A name with no distinctive word ("Old Bazaar") also exists in the next town: keep it local.
-            plain = not all((words(n) - words(c['en']) - COMMON) for n in names(h))
-            agree = [p for p in pairs if p[0] <= LIMIT and (not plain or dist(c['lat'], c['lng'], p[1][0], p[1][1]) <= 5000)]
+            local = plain(names(h), c['en'])
+            agree = [p for p in pairs if p[0] <= LIMIT and (not local or dist(c['lat'], c['lng'], p[1][0], p[1][1]) <= 5000)]
             if agree:
                 # Namesakes exist in both sources (two Mottarones); keep the one nearest the city.
                 m, a, title = min(agree, key=lambda p: dist(c['lat'], c['lng'], p[1][0], p[1][1]))
