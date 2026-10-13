@@ -221,6 +221,23 @@ export const ui = {
     ko: '날씨는 Open-Meteo 과거 자료({y}) 평균이며 해마다 다릅니다. 비 오는 날은 약한 비까지 세어 실제보다 많게 나올 수 있습니다. 추천 시기는 참고용입니다.',
     en: 'Weather: Open-Meteo historical data ({y} averages); it varies year to year and wet days include light rain. Ratings are a rough guide.',
   },
+  cityMapTitle: { ko: '지도', en: 'Map' },
+  cityMapOpen: { ko: '🗺 관광 포인트 지도 열기', en: '🗺 Open the map of sights' },
+  cityMapHint: {
+    ko: '지도는 열 때 내려받으며 인터넷 연결이 필요합니다.',
+    en: 'The map is downloaded when opened and needs a connection.',
+  },
+  cityMapLoading: { ko: '지도를 불러오는 중…', en: 'Loading the map…' },
+  cityMapAll: { ko: '전체', en: 'All' },
+  cityMapNone: {
+    ko: '이 도시는 위치를 확인한 관광 포인트가 아직 없습니다.',
+    en: 'No sights in this city have a confirmed position yet.',
+  },
+  cityMapMissing: { ko: '위치를 확인하지 못해 지도에 없는 곳 {n}곳', en: '{n} not on the map (position unconfirmed)' },
+  cityMapNote: {
+    ko: '두 출처(오픈스트리트맵, 위키데이터·위키백과)의 좌표가 300m 안에서 일치한 곳만 표시합니다. 핀은 입구가 아니라 건물·구역의 중심일 수 있습니다. 점선은 순서만 잇는 직선이며 실제 길이 아닙니다.',
+    en: 'Only places where two sources (OpenStreetMap and Wikidata/Wikipedia) agree within 300 m are shown. A pin may mark the centre of a site, not its entrance. The dashed line only joins the stops in order; it is not a walking route.',
+  },
   itineraryTitle: { ko: '추천 일정', en: 'Suggested itinerary' },
   itineraryStay: { ko: '권장 체류', en: 'Suggested stay' },
   itineraryHalf: { ko: '반나절', en: 'Half a day' },

@@ -16,6 +16,7 @@ import { getCityRoutes } from '../data/routes'
 import { TourButton } from '../components/TourButton'
 import { RoutesPanel } from '../components/RoutesPanel'
 import { ItineraryPanel } from '../components/ItineraryPanel'
+import { CityMap } from '../components/CityMap'
 import { SeasonPanel } from '../components/SeasonPanel'
 import { MyPlanPanel } from '../components/MyPlanPanel'
 import { t } from '../i18n/ui'
@@ -93,6 +94,8 @@ export function CityPage() {
       <MyPlanPanel city={city} />
 
       <ItineraryPanel city={city} />
+
+      <CityMap city={city} />
 
       <p className="section-label">{t('highlights', lang)}</p>
       <p className="phase-note" style={{ marginTop: 0 }}>
