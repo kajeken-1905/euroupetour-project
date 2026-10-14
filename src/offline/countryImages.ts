@@ -1,6 +1,3 @@
-import { getCountry } from '../data/countries'
-import { getCitiesByCountry } from '../data/cities'
-import { places } from '../data/places'
 import { assetUrl } from '../utils/assetUrl'
 
 /** Must match the runtime image cache name in sw.template.js. */
@@ -9,18 +6,20 @@ const SAVED_KEY = 'offline-countries'
 
 export const offlineSupported = typeof window !== 'undefined' && 'caches' in window && 'serviceWorker' in navigator
 
-/** Public paths (e.g. `/highlights/x.jpg`) of every local photo shown for a country. */
-export function countryImagePaths(countryId: string): string[] {
-  const country = getCountry(countryId)
-  if (!country) return []
-  const cities = getCitiesByCountry(countryId)
-  const cityIds = new Set(cities.map((c) => c.id))
-  const paths = [
-    country.landmarkImage,
-    ...cities.flatMap((c) => [c.signatureImage, ...c.highlights.map((h) => h.image)]),
-    ...places.filter((p) => cityIds.has(p.cityId)).map((p) => p.image),
-  ]
-  return [...new Set(paths.filter((p): p is string => !!p && !/^(https?:|data:)/i.test(p)))]
+let lists: Promise<Record<string, string[]>> | undefined
+
+/**
+ * Public paths (e.g. `/highlights/x.jpg`) of every local photo shown for a country, from the build-time
+ * `offline-images.json` (scripts/gen-offline-images.ts); empty if it cannot be loaded.
+ */
+export async function countryImagePaths(countryId: string): Promise<string[]> {
+  lists ??= fetch(assetUrl('/offline-images.json')).then((r) => (r.ok ? r.json() : Promise.reject(new Error('lists'))))
+  try {
+    return (await lists)[countryId] ?? []
+  } catch {
+    lists = undefined
+    return []
+  }
 }
 
 let sizes: Promise<Record<string, number>> | undefined
@@ -30,7 +29,7 @@ export async function countryImageBytes(countryId: string): Promise<number | und
   sizes ??= fetch(assetUrl('/image-sizes.json')).then((r) => (r.ok ? r.json() : Promise.reject(new Error('sizes'))))
   try {
     const table = await sizes
-    return countryImagePaths(countryId).reduce((sum, p) => sum + (table[p.replace(/^\//, '')] ?? 0), 0)
+    return (await countryImagePaths(countryId)).reduce((sum, p) => sum + (table[p.replace(/^\//, '')] ?? 0), 0)
   } catch {
     sizes = undefined
     return undefined
@@ -63,7 +62,7 @@ export async function saveCountry(
   countryId: string,
   onProgress: (done: number, total: number) => void,
 ): Promise<number> {
-  const urls = countryImagePaths(countryId).map(assetUrl)
+  const urls = (await countryImagePaths(countryId)).map(assetUrl)
   const cache = await caches.open(IMAGES)
   navigator.storage?.persist?.().catch(() => {})
   let done = 0
@@ -93,10 +92,10 @@ export async function saveCountry(
 export async function removeCountry(countryId: string) {
   const saved = readSaved()
   delete saved[countryId]
-  const keep = new Set(Object.keys(saved).flatMap(countryImagePaths))
+  const keep = new Set((await Promise.all(Object.keys(saved).map(countryImagePaths))).flat())
   const cache = await caches.open(IMAGES)
   await Promise.all(
-    countryImagePaths(countryId)
+    (await countryImagePaths(countryId))
       .filter((p) => !keep.has(p))
       .map((p) => cache.delete(assetUrl(p))),
   )

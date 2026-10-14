@@ -17,6 +17,7 @@ function megabytes(bytes: number) {
 export function OfflinePanel({ countryId }: { countryId: string }) {
   const { lang } = useLanguage()
   const [bytes, setBytes] = useState<number>()
+  const [count, setCount] = useState(0)
   const [saved, setSaved] = useState(() => savedCount(countryId))
   const [progress, setProgress] = useState<[number, number]>()
   const [failed, setFailed] = useState(0)
@@ -26,6 +27,10 @@ export function OfflinePanel({ countryId }: { countryId: string }) {
     setSaved(savedCount(countryId))
     setFailed(0)
     setBytes(undefined)
+    setCount(0)
+    countryImagePaths(countryId).then((paths) => {
+      if (live) setCount(paths.length)
+    })
     countryImageBytes(countryId).then((b) => {
       if (live) setBytes(b)
     })
@@ -34,11 +39,11 @@ export function OfflinePanel({ countryId }: { countryId: string }) {
     }
   }, [countryId])
 
-  if (!offlineSupported || countryImagePaths(countryId).length === 0) return null
+  if (!offlineSupported || count === 0) return null
 
   const save = async () => {
     setFailed(0)
-    setProgress([0, countryImagePaths(countryId).length])
+    setProgress([0, count])
     const failures = await saveCountry(countryId, (done, total) => setProgress([done, total]))
     setProgress(undefined)
     setFailed(failures)

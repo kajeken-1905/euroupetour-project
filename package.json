@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "npm run gen && vite",
-    "gen": "node --experimental-strip-types --no-warnings scripts/gen-city-index.mjs",
+    "gen": "node --experimental-strip-types --no-warnings scripts/gen-city-index.mjs && node scripts/gen-europe-topo.mjs && rolldown scripts/gen-offline-images.ts --file node_modules/.cache/gen-offline-images.mjs --log-level silent && node node_modules/.cache/gen-offline-images.mjs",
     "build": "npm run gen && tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
