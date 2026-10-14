@@ -71,7 +71,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'kiruna-h4': v(165, 180, { b: 'rec', s: 'https://kirunalapland.se/en/mine-tour/', n: '지하 540m 방문자 센터까지 관광 안내소에서 버스로 내려가며 약 3시간 걸립니다. 자리가 한정돼 키루나 라플란드 누리집 예약을 권합니다. 6세 이상만 참가합니다.|A bus from the tourist centre goes down to the visitor centre 540 m underground; allow about three hours. Places are limited, so book on the Kiruna Lapland site. Minimum age six.', k: '2026-10' }),
 
   // Helsinki
-  'helsinki-h1': v(20, 30, { c: 'daily', n: '여름 성수기에는 입장료를 받습니다.|An entry fee is charged in the summer season.' }),
+  'helsinki-h1': v(20, 30, { s: 'https://helsingintuomiokirkko.fi/en/index/uusipaataso.html', n: '관람 시간은 계절과 교회 행사에 따라 바뀌고 예배 중에는 관람할 수 없습니다. 2026년 여름 공식 시간표에는 토요일이 없었으니 주간 시간표를 확인하세요. 6~10월은 유료, 11~5월은 자율 기부(권장 8유로)입니다.|Hours change with the season and church events, and there is no sightseeing during services; the official summer 2026 timetable had no Saturday hours, so check the weekly timetable. Paid June–October; voluntary donation (€8 suggested) November–May.', k: '2026-10' }),
   'helsinki-h2': v(180, 240, { b: 'no', s: 'https://suomenlinna.fi/en/', n: '섬 입장은 무료이고 마켓 광장에서 대중교통 페리로 15분 걸립니다.|The fortress is free; the public-transport ferry from Market Square takes 15 minutes.' }),
   'helsinki-h3': v(60, 90),
   'helsinki-h4': v(30, 45),

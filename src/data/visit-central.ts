@@ -141,7 +141,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'szeged-h4': v(30, 40, { c: 'mon,sat', n: '월요일·토요일과 유대교 명절에 쉬고, 금요일은 계절에 따라 일찍 닫습니다.|Closed on Mondays, Saturdays and Jewish holidays; Fridays end early in winter.', k: '2026-10' }),
   'szeged-h5': v(15, 30),
   // Eger
-  'eger-h1': v(105, 120, { c: 'daily', s: 'https://www.egrivar.hu/en/', n: '12월 24~25일은 쉽니다. 겨울에는 전시관 운영이 줄 수 있으니 공식 시간표를 확인하세요.|Closed 24–25 December. Exhibitions may run reduced hours in winter—check the official timetable.' }),
+  'eger-h1': v(105, 120, { c: 'daily', s: 'https://www.egrivar.hu/en/', n: '12월 24~25일은 쉽니다. 겨울에는 전시관 운영이 줄 수 있으니 공식 시간표를 확인하세요.|Closed 24–25 December. Exhibitions may run reduced hours in winter—check the official timetable.', k: '2026-10' }),
   'eger-h2': v(15, 20, { n: '좁은 나선 계단 97개를 오르고 겨울에는 닫습니다.|97 narrow spiral steps; closed in winter.' }),
   'eger-h3': v(15, 20),
   'eger-h4': v(90, 120),

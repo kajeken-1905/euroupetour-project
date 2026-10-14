@@ -93,7 +93,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Sarajevo
   'sarajevo-h1': v(60, 90),
   'sarajevo-h2': v(20, 30, { n: MOSQUE }),
-  'sarajevo-h3': v(60, 75, { c: 'daily', s: 'https://www.mcsarajevo.ba/tunel-spasa', n: '공항 근처에 있어 시내에서 택시로 20~30분 걸립니다.|Near the airport, 20–30 minutes by taxi from the centre.' }),
+  'sarajevo-h3': v(60, 75, { c: 'daily', s: 'https://www.mcsarajevo.ba/tunel-spasa', n: '공항 근처에 있어 시내에서 택시로 20~30분 걸립니다. 4~10월 8:30~17:00, 11~3월 9:00~16:00에 열고 마지막 입장은 닫기 30분 전입니다.|Near the airport, 20–30 minutes by taxi from the centre. Open 8:30–17:00 April–October and 9:00–16:00 November–March; last entry 30 minutes before closing.', k: '2026-10' }),
   'sarajevo-h4': v(10, 15),
   'sarajevo-h5': v(60, 90, { s: 'https://zicara.ba/' }),
   // Mostar
@@ -217,7 +217,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'sarande-h1': v(30, 45),
   'sarande-h2': v(30, 45),
   'sarande-h3': v(75, 90, { n: '주차장에서 샘까지 2km쯤 걷고 입장료가 있습니다. 수영은 금지입니다.|About 2 km on foot from the car park, with an entry fee. Swimming is banned.' }),
-  'sarande-h4': v(120, 150, { c: 'daily', s: 'https://butrint.al/' }),
+  'sarande-h4': v(120, 150, { c: 'daily', s: 'https://butrint.al/', n: '4~10월 8:30~20:00(마지막 입장 18:00), 11~3월 9:00~17:30(마지막 입장 15:00)입니다.|Open 8:30–20:00 April–October (last entry 18:00) and 9:00–17:30 November–March (last entry 15:00).', k: '2026-10' }),
   'sarande-h5': v(120, 240),
 
   // Kosovo

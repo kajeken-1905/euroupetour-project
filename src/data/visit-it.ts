@@ -355,7 +355,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'vatican-city-h4': v(20, 30, { c: 'sun', s: VAT, t: VAT_T, n: '바티칸 박물관 관람 동선의 끝에 있어 박물관 입장권으로 봅니다. 사진 촬영은 금지입니다.|At the end of the Vatican Museums route, on the museum ticket. Photography is forbidden.', k: '2026-10' }),
   'vatican-city-h5': v(120, 120, { b: 'req', s: VAT, t: VAT_T, n: '가이드 투어로만 들어가며 일요일과 공휴일에는 투어가 없습니다.|Guided tours only; none on Sundays and public holidays.', k: '2026-10' }),
   // San Marino
-  'san-marino-city-h1': v(40, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '두 탑을 묶은 통합권이 있습니다.|A combined ticket covers both towers.' }),
+  'san-marino-city-h1': v(40, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '두 탑을 묶은 통합권이 있습니다. 11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|A combined ticket covers both towers. Closed on the afternoon of 2 November, 25 December and 1 January.', k: '2026-10' }),
   'san-marino-city-h2': v(30, 40, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|Closed on the afternoon of 2 November, 25 December and 1 January.', k: '2026-10' }),
   'san-marino-city-h3': v(15, 20, { b: 'no', n: FREE }),
   'borgo-maggiore-h1': v(10, 15, { n: '보르고 마조레에서 구시가까지 2분 걸립니다.|Two minutes from Borgo Maggiore up to the old town.' }),

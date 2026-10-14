@@ -58,7 +58,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'sounion-h3': v(120, 180),
   'sounion-h4': v(60, 120),
   // Delphi
-  'delphi-h1': v(90, 120, { c: 'daily', t: HH, n: '유적과 박물관은 통합 입장권으로 봅니다. 오르막이라 한여름에는 아침에 가세요.|The site and museum share one ticket. It is uphill—go early in high summer.' }),
+  'delphi-h1': v(90, 120, { c: 'daily', t: HH, n: '유적과 박물관은 통합 입장권으로 봅니다. 11~3월은 8:30~15:30(마지막 입장 15:10)으로 짧아집니다. 오르막이라 한여름에는 아침에 가세요.|The site and museum share one ticket. November–March hours shorten to 8:30–15:30 (last entry 15:10). It is uphill—go early in high summer.', k: '2026-10' }),
   'delphi-h2': v(20, 30, { b: 'no', n: '본 유적에서 도로를 따라 10분쯤 내려가며 무료입니다.|Ten minutes down the road from the main site, and free.' }),
   'delphi-h3': v(15, 20, { n: '아폴론 신전 유적 안에 있습니다.|Inside the Sanctuary of Apollo site.' }),
   'delphi-h4': v(60, 75, { c: 'daily', t: HH, k: '2026-10' }),

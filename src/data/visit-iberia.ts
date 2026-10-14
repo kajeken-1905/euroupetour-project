@@ -96,7 +96,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'zaragoza-h4': v(20, 30),
   'zaragoza-h5': v(30, 45),
   // Valencia
-  'valencia-h1': v(180, 300, { c: 'daily', s: 'https://cac.es/en/', n: '과학관·수족관·아이맥스는 표가 각각이고 묶음권이 있습니다. 건물 밖은 무료로 걷습니다.|The science museum, aquarium and IMAX are ticketed separately, with combined passes; the grounds are free.' }),
+  'valencia-h1': v(180, 300, { c: 'daily', s: 'https://cac.es/en/', n: '과학관·수족관·아이맥스는 표가 각각이고 묶음권이 있습니다. 과학관은 대개 10:00~18:00이고 12월 25일은 쉽니다. 건물 밖은 무료로 걷습니다.|The science museum, aquarium and IMAX are ticketed separately, with combined passes. The science museum usually opens 10:00–18:00 and closes on 25 December; the grounds are free.', k: '2026-10' }),
   'valencia-h2': v(30, 45, { c: 'sun', b: 'no', s: 'https://www.mercadocentralvalencia.es/', n: '오후 3시쯤 닫습니다.|Shuts at about 3 pm.', k: '2026-10' }),
   'valencia-h3': v(45, 60, { s: 'https://catedraldevalencia.es/en/' }),
   'valencia-h4': v(30, 40),
@@ -175,7 +175,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'san-sebastian-h4': v(90, 120, { n: '섬으로 가는 배는 여름에만 다닙니다.|Boats to the island run in summer only.' }),
   'san-sebastian-h5': v(20, 30),
   // Santiago de Compostela
-  'santiago-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://catedraldesantiago.es/en/', n: '성당은 무료이고 영광의 문·박물관·지붕 투어는 유료 예약제입니다.|The cathedral is free; the Pórtico de la Gloria, museum and roof tours are paid and booked.' }),
+  'santiago-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://catedraldesantiago.es/en/', n: '성당은 매일 7:00~21:00에 무료로 열고(입구는 플라테리아스 문) 영광의 문·박물관·지붕 투어는 유료 예약제입니다.|The cathedral is free and open daily 7:00–21:00 (enter by the Praterías door); the Pórtico de la Gloria, museum and roof tours are paid and booked.', k: '2026-10' }),
   'santiago-h2': v(20, 30),
   'santiago-h3': v(10, 15),
   'santiago-h4': v(10, 15),
@@ -237,7 +237,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'coimbra-h6': v(10, 10),
   'coimbra-h7': v(15, 20),
   // Fátima
-  'fatima-h1': v(90, 120, { c: 'daily', b: 'no', s: FATIMA, n: FREE }),
+  'fatima-h1': v(90, 120, { c: 'daily', b: 'no', s: FATIMA, n: FREE, k: '2026-10' }),
   'fatima-h2': v(20, 30, { b: 'no', s: FATIMA }),
   'fatima-h3': v(15, 20, { b: 'no', s: FATIMA }),
   'fatima-h4': v(15, 20, { b: 'no', s: FATIMA }),
@@ -277,7 +277,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
   'sintra-h3': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
   'sintra-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.regaleira.pt/en/', k: '2026-10' }),
-  'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA, n: '궁전 지붕 복원 공사로 2027년 1분기까지 비계가 설치돼 있습니다.|Roof restoration keeps scaffolding on the palace until the first quarter of 2027.' }),
+  'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA, n: '궁전은 9:30~18:00(마지막 입장 17:30)이고 12월 24·25·31일과 1월 1일은 쉽니다. 2026년 11월 11일은 14시에 닫습니다. 지붕 복원 공사로 2027년 1분기까지 비계가 설치돼 있습니다.|The palace opens 9:30–18:00 (last entry 17:30) and closes on 24, 25 and 31 December and 1 January; on 11 November 2026 it closes at 14:00. Roof restoration keeps scaffolding up until the first quarter of 2027.', k: '2026-10' }),
   'sintra-h6': v(30, 45),
   // Cascais
   'cascais-h1': v(60, 120),
