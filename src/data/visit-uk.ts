@@ -230,7 +230,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'killarney-h4': v(360, 480),
   'killarney-h5': v(30, 45),
   // Kilkenny
-  'kilkenny-h1': v(60, 90, { c: 'daily', s: 'https://heritageireland.ie/places-to-visit/kilkenny-castle/', n: '2026년 11월 2~5일은 촬영으로 휴관합니다.|Closed 2–5 November 2026 for filming.', k: '2026-10' }),
+  'kilkenny-h1': v(60, 90, { c: 'daily', s: 'https://heritageireland.ie/places-to-visit/kilkenny-castle/', k: '2026-10', x: [['2026년 11월 2~5일은 촬영으로 휴관합니다.|Closed 2–5 November 2026 for filming.', '2026-11-05']] }),
   'kilkenny-h2': v(45, 60),
   'kilkenny-h3': v(30, 45, { s: 'https://www.stcanicescathedral.ie/' }),
   'kilkenny-h4': v(0, 0, { n: '2020년에 문을 닫은 뒤 영구 폐관했습니다. 지금은 방문할 수 없습니다.|Shut in 2020 and since closed permanently—it can no longer be visited.' }),

@@ -19,7 +19,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'hamburg-h5': v(30, 60),
   // Berlin
   'berlin-h1': v(15, 20),
-  'berlin-h2': v(180, 300, { c: 'mon', b: 'rec', s: 'https://www.smb.museum/en/museums-institutions/museumsinsel-berlin/home/', n: '페르가몬 박물관은 보수 공사로 휴관 중이며 2027년 6월 4일 일부 재개관 예정입니다. 나머지 박물관은 대부분 월요일에 쉽니다.|The Pergamon Museum is closed for restoration and due to partly reopen on 4 June 2027. Most of the other museums close on Mondays.', k: '2026-10' }),
+  'berlin-h2': v(180, 300, { c: 'mon', b: 'rec', s: 'https://www.smb.museum/en/museums-institutions/museumsinsel-berlin/home/', n: '나머지 박물관은 대부분 월요일에 쉽니다.|Most of the museums close on Mondays.', k: '2026-10', x: [['페르가몬 박물관은 보수 공사로 휴관 중이며 2027년 6월 4일 일부 재개관 예정입니다.|The Pergamon Museum is closed for restoration and due to partly reopen on 4 June 2027.', '2027-06-04']] }),
   'berlin-h3': v(45, 60),
   'berlin-h4': v(60, 90, { c: 'daily', b: 'req', s: 'https://www.bundestag.de/en/visittheBundestag/dome/registration-245686', n: '입장은 무료이지만 온라인 사전 등록이 필수이고 여권을 가져가야 합니다.|Free, but online registration in advance is compulsory; bring your passport.', k: '2026-10' }),
   'berlin-h5': v(15, 20),
@@ -97,7 +97,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   // Brussels
   'brussels-h1': v(60, 75, { s: 'https://www.monarchie.be/en/heritage/royal-palace-of-brussels', n: '내부는 여름(대략 7월 말~8월)에만 무료로 공개합니다. 그 밖에는 외관만 봅니다.|The interior opens free only in summer (roughly late July–August); otherwise view the exterior.' }),
   'brussels-h2': v(30, 45),
-  'brussels-h3': v(90, 120, { c: 'daily', b: 'rec', s: 'https://atomium.be/', n: '해마다 겨울에 정기 점검으로 몇 주 쉽니다(2027년은 1월 18일~2월 5일).|Closes for a few weeks of annual maintenance each winter (18 January–5 February in 2027).', k: '2026-10' }),
+  'brussels-h3': v(90, 120, { c: 'daily', b: 'rec', s: 'https://atomium.be/', n: '해마다 겨울에 정기 점검으로 몇 주 쉽니다.|Closes for a few weeks of annual maintenance each winter.', k: '2026-10', x: [['2027년 점검 휴관은 1월 18일~2월 5일입니다.|The 2027 maintenance closure is 18 January–5 February.', '2027-02-05']] }),
   'brussels-h4': v(30, 45),
   'brussels-h5': v(10, 15),
   'brussels-h6': v(75, 90, { c: 'mon', s: 'https://musee-magritte-museum.be/en', k: '2026-10' }),

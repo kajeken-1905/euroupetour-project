@@ -57,7 +57,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'basel-h5': v(10, 15),
   // Zermatt
   'zermatt-h1': v(30, 60),
-  'zermatt-h2': v(150, 180, { c: 'daily', s: 'https://www.gornergrat.ch/en/', n: PASS.replace('|', ' 2026년 11월 2~14일은 공사로 운휴합니다.|') + ' Out of service 2–14 November 2026 for construction work.', k: '2026-10' }),
+  'zermatt-h2': v(150, 180, { c: 'daily', s: 'https://www.gornergrat.ch/en/', n: PASS, k: '2026-10', x: [['2026년 11월 2~14일은 공사로 운휴합니다.|Out of service 2–14 November 2026 for construction work.', '2026-11-14']] }),
   'zermatt-h3': v(30, 45),
   'zermatt-h4': v(60, 90, { n: '호수는 여름에만 얼음이 녹아 마터호른이 비칩니다.|The lake is ice-free—and mirrors the Matterhorn—only in summer.' }),
   'zermatt-h5': v(45, 60, { s: 'https://zermatt.swiss/en/discover-experience/tradition-culture/museum' }),

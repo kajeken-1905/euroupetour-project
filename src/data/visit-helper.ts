@@ -13,6 +13,8 @@ interface Opts {
   n?: string
   /** month ('2026-10') the closed days and booking rule were checked against the official site */
   k?: string
+  /** notices that stop being true after a date: ['ko|en', 'YYYY-MM-DD' (last day shown)] */
+  x?: [string, string][]
 }
 
 const BOOKING = { req: 'required', rec: 'recommended', no: 'none' } as const
@@ -29,6 +31,12 @@ export function v(min: number, max: number, o: Opts = {}): HighlightVisit {
   if (o.n) {
     const [ko, en] = o.n.split('|')
     out.note = { ko, en: en ?? ko }
+  }
+  if (o.x) {
+    out.notices = o.x.map(([text, until]) => {
+      const [ko, en] = text.split('|')
+      return { text: { ko, en: en ?? ko }, until }
+    })
   }
   return out
 }

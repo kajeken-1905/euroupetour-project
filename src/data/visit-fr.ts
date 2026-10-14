@@ -132,7 +132,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'annecy-h4': v(60, 75, { s: 'https://musees.annecy.fr/' }),
   'annecy-h5': v(15, 20),
   // Chamonix
-  'chamonix-h1': v(150, 210, { b: 'req', s: 'https://aiguilledumidi.montblancnaturalresort.com/en', n: '시간 지정 예약이 필수입니다. 2026년 11월 2일~12월 18일은 정기 점검으로 운휴하며, 날씨로 멈추는 날도 있으니 당일 운행 여부를 확인하세요. 정상은 한여름에도 영하에 가깝습니다.|A timed booking is compulsory. Closed for maintenance 2 Nov–18 Dec 2026 and on bad-weather days, so check on the day. The summit stays near freezing even in midsummer.', k: '2026-10' }),
+  'chamonix-h1': v(150, 210, { b: 'req', s: 'https://aiguilledumidi.montblancnaturalresort.com/en', n: '시간 지정 예약이 필수입니다. 날씨로 멈추는 날도 있으니 당일 운행 여부를 확인하세요. 정상은 한여름에도 영하에 가깝습니다.|A timed booking is compulsory. It stops on bad-weather days, so check on the day. The summit stays near freezing even in midsummer.', k: '2026-10', x: [['2026년 11월 2일~12월 18일은 정기 점검으로 운휴합니다.|Closed for maintenance 2 November–18 December 2026.', '2026-12-18']] }),
   'chamonix-h2': v(120, 180, { s: 'https://montenversmerdeglace.montblancnaturalresort.com/en' }),
   'chamonix-h3': v(45, 60),
   'chamonix-h4': v(90, 120, { n: '케이블카는 계절 운행이라 봄·가을에는 쉬는 기간이 있습니다.|The lifts are seasonal and shut for periods in spring and autumn.' }),

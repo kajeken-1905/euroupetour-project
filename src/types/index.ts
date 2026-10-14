@@ -192,6 +192,8 @@ export interface HighlightVisit {
   note?: { ko: string; en: string }
   /** Month (YYYY-MM) the closed days and booking rule were last checked against the official site. */
   checked?: string
+  /** Temporary notices (closures, works, special hours), shown up to and including `until` (YYYY-MM-DD). */
+  notices?: { text: { ko: string; en: string }; until: string }[]
 }
 
 export interface City {

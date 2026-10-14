@@ -13,7 +13,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'vienna-h2': v(45, 75, { c: 'daily', b: 'no', s: 'https://www.stephanskirche.at/', n: '성당 뒤쪽은 무료이고 안쪽 구역·탑·지하 묘지는 유료입니다.|The rear of the nave is free; the inner area, towers and catacombs are ticketed.', k: '2026-10' }),
   'vienna-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.belvedere.at/en', n: '클림트 "키스"가 있는 상궁은 시간 지정 입장입니다.|The Upper Belvedere, home of Klimt’s Kiss, is by timed ticket.', k: '2026-10' }),
   'vienna-h4': v(60, 90, { n: '트램 1·2번을 이어 타면 한 바퀴 돕니다.|Trams 1 and 2 between them cover the loop.' }),
-  'vienna-h5': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.sisimuseum-hofburg.at/en/', n: '시시 박물관 구역은 개편 공사로 2026년 11월 18일까지 닫혀 있고, 그동안에는 황제 거처만 봅니다.|The Sisi Museum section is closed for a redesign until 18 November 2026; until then only the imperial apartments are open.', k: '2026-10' }),
+  'vienna-h5': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.sisimuseum-hofburg.at/en/', k: '2026-10', x: [['시시 박물관 구역은 개편 공사로 2026년 11월 18일까지 닫혀 있고, 그동안에는 황제 거처만 봅니다.|The Sisi Museum section is closed for a redesign until 18 November 2026; until then only the imperial apartments are open.', '2026-11-18']] }),
   'vienna-h6': v(60, 120, { b: 'no', s: 'https://wienerriesenrad.com/en/home/', n: '공원 입장은 무료이고 놀이기구마다 돈을 냅니다.|The park is free; each ride is paid separately.' }),
   'vienna-h7': v(40, 180, { s: 'https://www.wiener-staatsoper.at/en/', n: '내부 가이드 투어는 공연·리허설 일정에 따라 날마다 다릅니다. 입석표는 공연 당일에 팝니다.|Guided tours vary daily with rehearsals. Standing tickets go on sale on the day.' }),
   // Salzburg
@@ -179,7 +179,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'poznan-h5': v(60, 90),
   // Zakopane
   'zakopane-h1': v(60, 90, { s: PKL }),
-  'zakopane-h2': v(150, 180, { b: 'rec', s: PKL, n: '매표소 줄이 길어 온라인 예매를 권합니다. 가을에 정기 점검으로 몇 주 운휴하며(2026년은 10월 19일~11월 6일로 안내), 강풍이 불면 멈춥니다.|Queues at the ticket office are long, so buy online. It shuts for a few weeks of maintenance each autumn (announced as 19 Oct–6 Nov for 2026) and stops in strong wind.', k: '2026-10' }),
+  'zakopane-h2': v(150, 180, { b: 'rec', s: PKL, n: '매표소 줄이 길어 온라인 예매를 권합니다. 가을에 정기 점검으로 몇 주 운휴하며, 강풍이 불면 멈춥니다.|Queues at the ticket office are long, so buy online. It shuts for a few weeks of maintenance each autumn and stops in strong wind.', k: '2026-10', x: [['2026년 가을 점검 운휴는 10월 19일~11월 6일로 안내돼 있습니다.|The 2026 autumn maintenance closure is announced as 19 October–6 November.', '2026-11-06']] }),
   'zakopane-h3': v(45, 60),
   'zakopane-h4': v(300, 360, { n: '주차장에서 호수까지 편도 약 9km를 걷습니다. 국립공원 입장료가 있고 성수기에는 주차 예약이 필요합니다.|About 9 km each way on foot from the car park. A national park fee applies, and parking must be pre-booked in season.' }),
   'zakopane-h5': v(45, 60),

@@ -160,7 +160,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'rome-h7': v(80, 90, { c: 'mon,thu', b: 'req', s: 'https://palazzo.quirinale.it/visitapalazzo/prenota_en.html', n: '예약한 시간에 단체로만 들어가고 안내는 이탈리아어로만 합니다. 예약한 이름과 신분증이 같아야 하며, 한여름에는 몇 주 동안 닫습니다.|Entry is in groups at a booked time and the guiding is in Italian only. The name on the booking must match your ID, and the palace closes for several weeks in high summer.', k: '2026-10' }),
   'rome-h8': v(20, 30),
   'rome-h9': v(20, 30),
-  'rome-h10': v(75, 90, { c: 'mon', b: 'rec', s: 'https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/', n: '월요일에 쉬지만 2026년에는 매월 첫 월요일 오후에 특별 개방합니다.|Closed on Mondays, though in 2026 it opens on the afternoon of the first Monday of each month.', k: '2026-10' }),
+  'rome-h10': v(75, 90, { c: 'mon', b: 'rec', s: 'https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/', k: '2026-10', x: [['월요일에 쉬지만 2026년에는 매월 첫 월요일 오후에 특별 개방합니다.|Closed on Mondays, though in 2026 it opens on the afternoon of the first Monday of each month.', '2026-12-31']] }),
   'rome-h11': v(30, 60, { s: 'https://vive.cultura.gov.it/en/', n: '기념관은 무료이고 옥상 전망 엘리베이터만 유료입니다.|The monument is free; only the panoramic lift to the roof is ticketed.' }),
   // Florence
   'florence-h1': v(60, 150, { b: 'req', s: 'https://duomo.firenze.it/en/home', n: '성당 입장은 무료이지만 돔(계단 463개)과 종탑은 시간 지정 예약이 필수입니다. 일요일에는 관광 입장이 제한됩니다.|The cathedral is free, but the dome (463 steps) and bell tower need a timed booking. Sightseeing is restricted on Sundays.', k: '2026-10' }),

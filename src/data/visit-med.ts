@@ -64,7 +64,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'delphi-h4': v(60, 75, { c: 'daily', t: HH, k: '2026-10' }),
   'delphi-h5': v(45, 60),
   // Zakynthos
-  'zakynthos-h1': v(30, 60, { n: '산사태 위험으로 해변 상륙과 수영, 배의 접근이 금지돼 있습니다(적어도 2026년 10월 말까지). 절벽 위 전망대나 먼바다의 유람선에서만 볼 수 있습니다.|Landing, swimming and close approach by boat are banned for landslide risk (until at least the end of October 2026). See it from the clifftop viewpoint or from a boat offshore.' }),
+  'zakynthos-h1': v(30, 60, { n: '산사태 위험으로 해변 상륙과 수영, 배의 접근이 금지돼 왔으니 방문 전에 해제 여부를 확인하세요. 절벽 위 전망대나 먼바다의 유람선에서 볼 수 있습니다.|Landing, swimming and close approach by boat have been banned for landslide risk—check whether the ban has been lifted. It can be seen from the clifftop viewpoint or from a boat offshore.', x: [['공식 안내상 금지는 적어도 2026년 10월 말까지입니다.|The ban officially runs until at least the end of October 2026.', '2026-10-31']] }),
   'zakynthos-h2': v(60, 90, { n: BOAT }),
   'zakynthos-h3': v(120, 180, { n: '바다거북 산란지라 해변 일부는 출입이 제한됩니다.|A turtle nesting site—parts of the beach are off limits.' }),
   'zakynthos-h4': v(45, 60),

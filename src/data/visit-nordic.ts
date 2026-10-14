@@ -111,7 +111,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'oslo-h7': v(60, 90, { s: 'https://holmenkollen.com/en/' }),
   // Bergen
   'bergen-h1': v(45, 60),
-  'bergen-h2': v(90, 120, { c: 'daily', s: 'https://www.floyen.no/en', n: '푸니쿨라로 6분쯤 오릅니다. 2026년 11월 2~5일은 연례 점검으로 운휴합니다.|About six minutes up by funicular. Closed 2–5 November 2026 for annual maintenance.', k: '2026-10' }),
+  'bergen-h2': v(90, 120, { c: 'daily', s: 'https://www.floyen.no/en', n: '푸니쿨라로 6분쯤 오릅니다.|About six minutes up by funicular.', k: '2026-10', x: [['2026년 11월 2~5일은 연례 점검으로 운휴합니다.|Closed 2–5 November 2026 for annual maintenance.', '2026-11-05']] }),
   'bergen-h3': v(30, 45),
   'bergen-h4': v(75, 90, { s: 'https://www.kodebergen.no/en/museums/troldhaugen' }),
   'bergen-h5': v(90, 120, { s: KODE, n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.' }),

@@ -40,8 +40,16 @@ function host(url: string) {
   return url.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]
 }
 
+/** Today as YYYY-MM-DD in the traveller's own time zone. */
+function today() {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
+
 function VisitInfo({ visit }: { visit: HighlightVisit }) {
   const { lang } = useLanguage()
+  // A dated notice drops out once its last day has passed, so it never outlives what it describes.
+  const notices = (visit.notices ?? []).filter((n) => n.until >= today())
   const hasTags = visit.minutes || visit.closed || visit.booking
   return (
     <div className="highlight-visit">
@@ -55,6 +63,11 @@ function VisitInfo({ visit }: { visit: HighlightVisit }) {
         </div>
       ) : null}
       {visit.note ? <p className="visit-note">{visit.note[lang]}</p> : null}
+      {notices.map((n) => (
+        <p key={n.until + n.text.en} className="visit-note">
+          {n.text[lang]}
+        </p>
+      ))}
       {visit.tickets ? (
         <a className="visit-link" href={visit.tickets} target="_blank" rel="noreferrer">
           {t('visitTickets', lang)}: {host(visit.tickets)}

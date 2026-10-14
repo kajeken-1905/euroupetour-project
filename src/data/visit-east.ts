@@ -100,7 +100,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Ankara
   'ankara-h1': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.anitkabir.tsk.tr/', n: '입장은 무료이고 입구에서 보안 검색을 합니다.|Free; there is a security check at the gate.', k: '2026-10' }),
   'ankara-h2': v(45, 60, { b: 'no', n: FREE }),
-  'ankara-h3': v(90, 120, { c: 'daily', t: MUZE, n: '앙카라관과 고전관은 보수 공사로 2027년 3월 2일까지 닫습니다. 표는 문화관광부 공식 누리집(muze.gov.tr)에서 팝니다.|The Ankara and Classical halls are closed for repairs until 2 March 2027. Tickets are sold on the ministry’s official site, muze.gov.tr.', k: '2026-10' }),
+  'ankara-h3': v(90, 120, { c: 'daily', t: MUZE, n: '표는 문화관광부 공식 누리집(muze.gov.tr)에서 팝니다.|Tickets are sold on the ministry’s official site, muze.gov.tr.', k: '2026-10', x: [['앙카라관과 고전관은 보수 공사로 2027년 3월 2일까지 닫습니다.|The Ankara and Classical halls are closed for repairs until 2 March 2027.', '2027-03-02']] }),
   'ankara-h4': v(15, 20),
   'ankara-h5': v(45, 60),
   // İzmir
