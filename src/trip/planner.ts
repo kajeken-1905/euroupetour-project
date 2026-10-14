@@ -36,9 +36,11 @@ export interface PlannerResult {
 
 /** Walk assumed between two stops when either has no pin. */
 const HOP = 20
+/** A sight within this distance (km) of a day's stops counts as nearby. */
+const NEAR = 1.2
+/** ...and within this distance (km) of the sight the day was built around, so that a day does not creep across town. */
+const SPREAD = 2.5
 /** Stand-in distance (km) between two stops without pins: next to each other in the suggested plan, or not. */
-/** A sight this far (km) from every day so far starts a new day, while days are still to be opened. */
-const NEW_DAY = 2
 const SAME_GROUP = 0.4
 const OTHER_GROUP = 3
 
@@ -65,9 +67,9 @@ function dayLength(stops: string[], geo: PlannerInput['geo']) {
 }
 
 /**
- * A day-by-day plan from the traveller's conditions. Sights are chosen in order of importance (favourites,
- * then the best-known first) until the time is used up, then spread over the days so that
- * neighbours share a day and nothing lands on a weekday it is closed.
+ * A day-by-day plan from the traveller's conditions. Each day is built around the most important sight still
+ * waiting (favourites, then the best-known), filled with important sights nearby until the time is used up,
+ * and nothing lands on a weekday it is closed.
  */
 export function buildPlan(input: PlannerInput): PlannerResult {
   const { city, suggested, days, startWeekday, budget, favourites, geo } = input
@@ -95,65 +97,23 @@ export function buildPlan(input: PlannerInput): PlannerResult {
   }
   const townDays = plan.flatMap((d, i) => (d ? [] : [i]))
 
-  // 1) Choose: favourites first, then the city's own order, until the days are full.
-  // The city lists its sights district by district; the id number is the better guide to importance,
-  // because the best-known sights were entered first (paris-h1 is the Eiffel Tower, -h2 the Louvre).
+  // Importance: favourites first, then the id number. The city lists its sights district by district; the id
+  // number is the better guide, because the best-known sights were entered first (paris-h1 is the Eiffel Tower).
   const number = (id: string) => Number(id.slice(id.lastIndexOf('-h') + 2)) || 999
   const inTown = city.highlights
     .map((h) => h.id)
     .filter((id) => !outOfTown.has(id))
     .sort((a, b) => number(a) - number(b))
   const ranked = [...inTown.filter((id) => favourites.has(id)), ...inTown.filter((id) => !favourites.has(id))]
+  const rank = new Map(ranked.map((id, i) => [id, i]))
   const reason = new Map<string, 'time' | 'closed' | 'trip'>()
-  const chosen: string[] = []
-  let total = 0
-  for (const id of ranked) {
+  for (const id of ranked)
     if (townDays.every((day) => closedOn(id, day))) reason.set(id, townDays.length > 0 ? 'closed' : 'time')
-    else if (total + visitMinutes(id) + HOP > townDays.length * budget) reason.set(id, 'time')
-    else {
-      chosen.push(id)
-      total += visitMinutes(id) + HOP
-    }
-  }
 
-  // 2) Place, most important first (sights tied to a weekday ahead of the rest). A sight joins the day whose
-  //    stops are nearest; it opens a new day when it is far from all of them or fits in none, but only as many
-  //    days are opened this way as the chosen sights need, so that a long stay is not spread thin.
-  const stops = new Map(townDays.map((day) => [day, [] as string[]]))
   const apart = (a: string, b: string) =>
     geo[a] && geo[b] ? km(geo[a], geo[b]) : group.has(a) && group.get(a) === group.get(b) ? SAME_GROUP : OTHER_GROUP
-  const fits = (id: string, day: number) => {
-    const there = stops.get(day)!
-    return !closedOn(id, day) && (there.length === 0 || dayLength([...there, id], geo) <= budget * 1.05)
-  }
-  const needed = Math.min(townDays.length, Math.max(1, Math.ceil(total / budget)))
-  const open: number[] = []
-  const constrained = (id: string) => townDays.some((day) => closedOn(id, day))
-  const near = (id: string, day: number) => Math.min(...stops.get(day)!.map((other) => apart(id, other)))
-  for (const id of [...chosen].sort((x, y) => Number(constrained(y)) - Number(constrained(x)))) {
-    const beside = open.filter((d) => fits(id, d)).sort((x, y) => near(id, x) - near(id, y))[0]
-    const fresh = townDays.find((d) => stops.get(d)!.length === 0 && fits(id, d))
-    const day =
-      fresh !== undefined && open.length < needed && (beside === undefined || near(id, beside) > NEW_DAY)
-        ? fresh
-        : (beside ?? fresh)
-    if (day === undefined) reason.set(id, 'time')
-    else {
-      stops.get(day)!.push(id)
-      if (!open.includes(day)) open.push(day)
-    }
-  }
 
-  // The choice above only estimated the walks; where a day still has room, take the next sights in line.
-  for (const id of ranked) {
-    if (reason.get(id) !== 'time') continue
-    const day = open.filter((d) => fits(id, d)).sort((x, y) => near(id, x) - near(id, y))[0]
-    if (day === undefined) continue
-    stops.get(day)!.push(id)
-    reason.delete(id)
-  }
-
-  // 3) Order a day: start where the suggested plan starts, then always the nearest stop next.
+  // Order a day: start where the suggested plan starts, then always the nearest stop next.
   const routeIndex = (id: string) => (route.includes(id) ? route.indexOf(id) : route.length + inTown.indexOf(id))
   const tour = (placed: string[]) => {
     const todo = [...placed].sort((a, b) => routeIndex(a) - routeIndex(b))
@@ -171,7 +131,78 @@ export function buildPlan(input: PlannerInput): PlannerResult {
     return dayLength(walked, geo) <= dayLength(placed, geo) ? walked : placed
   }
 
-  // 4) Tidy up: the important sights took their places first, which can part neighbours (the Forum from the
+  // 1) Fill the days one by one. Each day starts from the most important sight still waiting (one that can only
+  //    go on this day comes first), then takes the most important sights near the ones it already has. A sight
+  //    further away joins only while the day is still short, so that a day stays in one part of town.
+  //    When everything fits with room to spare, the days are filled evenly rather than the last one left thin.
+  const waiting = ranked.filter((id) => !reason.has(id))
+  const allTime = waiting.reduce((sum, id) => sum + visitMinutes(id) + HOP, 0)
+  const needed = Math.min(townDays.length, Math.max(1, Math.ceil(allTime / budget)))
+  const target = allTime <= townDays.length * budget ? Math.min(budget, (allTime / needed) * 1.15) : budget
+  const stops = new Map(townDays.map((day) => [day, [] as string[]]))
+  // Before a day is opened beyond those needed, and at the end, a sight left over joins a nearby day with room.
+  const squeeze = () => {
+    for (const id of [...waiting]) {
+      const day = townDays
+        .filter((d) => stops.get(d)!.length > 0 && !closedOn(id, d))
+        .map((d) => ({ d, near: Math.min(...stops.get(d)!.map((other) => apart(id, other))) }))
+        .filter(({ d, near }) => near <= NEAR * 2 && dayLength(tour([...stops.get(d)!, id]), geo) <= budget * 1.05)
+        .sort((a, b) => a.near - b.near)[0]?.d
+      if (day === undefined) continue
+      stops.get(day)!.push(id)
+      waiting.splice(waiting.indexOf(id), 1)
+    }
+  }
+  for (const [n, day] of townDays.entries()) {
+    if (n >= needed) squeeze()
+    const later = townDays.slice(n)
+    const open = waiting.filter((id) => !closedOn(id, day))
+    if (open.length === 0) continue
+    const onlyHere = open
+      .slice(0, later.length)
+      .find((id) => later.every((other) => other === day || closedOn(id, other)))
+    const there = [onlyHere ?? open[0]]
+    waiting.splice(waiting.indexOf(there[0]), 1)
+    const limit = n < needed ? target : budget
+    for (;;) {
+      const fitting = waiting.filter((id) => !closedOn(id, day) && dayLength(tour([...there, id]), geo) <= limit * 1.05)
+      const distance = (id: string) => Math.min(...there.map((other) => apart(id, other)))
+      const next =
+        fitting.find((id) => distance(id) <= NEAR && apart(id, there[0]) <= SPREAD) ??
+        (dayLength(tour(there), geo) < limit * 0.6
+          ? fitting.slice(0, 5).sort((a, b) => distance(a) - distance(b))[0]
+          : undefined)
+      if (next === undefined) break
+      there.push(next)
+      waiting.splice(waiting.indexOf(next), 1)
+    }
+    stops.set(day, there)
+  }
+  squeeze()
+
+  // 2) A favourite that found no place takes the room of the least important sights of the nearest day.
+  for (const id of waiting.filter((id) => favourites.has(id))) {
+    const options = townDays
+      .filter((day) => !closedOn(id, day))
+      .map((day) => {
+        const kept = [...stops.get(day)!].sort((a, b) => rank.get(a)! - rank.get(b)!)
+        while (kept.length > 0 && dayLength(tour([...kept, id]), geo) > budget * 1.05 && !favourites.has(kept[kept.length - 1]))
+          kept.pop()
+        const near = Math.min(OTHER_GROUP * 2, ...stops.get(day)!.map((other) => apart(id, other)))
+        return { day, kept, near }
+      })
+      .filter((o) => dayLength(tour([...o.kept, id]), geo) <= budget * 1.05 || o.kept.length === 0)
+      .sort((a, b) => b.kept.length - a.kept.length || a.near - b.near)
+    if (options.length === 0) continue
+    const { day, kept } = options[0]
+    for (const dropped of stops.get(day)!) if (!kept.includes(dropped)) waiting.push(dropped)
+    stops.set(day, [...kept, id])
+    waiting.splice(waiting.indexOf(id), 1)
+  }
+  for (const id of waiting) reason.set(id, 'time')
+  const open = townDays.filter((day) => stops.get(day)!.length > 0)
+
+  // 3) Tidy up: the important sights took their places first, which can part neighbours (the Forum from the
   //    Colosseum). Swap two stops between days, or move one, whenever that shortens the walking overall.
   const ok = (list: string[], day: number) =>
     list.every((id) => !closedOn(id, day)) && (list.length <= 1 || dayLength(tour(list), geo) <= budget * 1.05)
@@ -204,6 +235,32 @@ export function buildPlan(input: PlannerInput): PlannerResult {
         }
       }
   }
+
+  // 4) A day left very short (a sight or two the estimate above did not see fitting elsewhere) is folded into
+  //    nearby days with room, when all of its stops find one.
+  for (const day of [...open].sort((a, b) => dayLength(stops.get(a)!, geo) - dayLength(stops.get(b)!, geo))) {
+    const short = stops.get(day)!
+    if (short.length === 0 || dayLength(tour(short), geo) >= target * 0.4) continue
+    const moved = new Map(open.filter((d) => d !== day).map((d) => [d, [...stops.get(d)!]]))
+    const placed = short.every((id) => {
+      const into = [...moved.keys()]
+        .filter((d) => moved.get(d)!.length > 0 && ok([...moved.get(d)!, id], d))
+        .map((d) => ({ d, near: Math.min(...moved.get(d)!.map((other) => apart(id, other))) }))
+        .filter(({ near }) => near <= NEAR * 2)
+        .sort((a, b) => a.near - b.near)[0]?.d
+      if (into !== undefined) moved.get(into)!.push(id)
+      return into !== undefined
+    })
+    if (!placed) continue
+    for (const [d, list] of moved) stops.set(d, list)
+    stops.set(day, [])
+  }
+
+  // Days used go first, so that the empty ones are at the end of the stay (unless that would move a sight onto
+  // a weekday it is closed).
+  const used = townDays.map((day) => stops.get(day)!).filter((list) => list.length > 0)
+  if (used.every((list, i) => list.every((id) => !closedOn(id, townDays[i]))))
+    townDays.forEach((day, i) => stops.set(day, used[i] ?? []))
   for (const day of townDays) {
     const walked = tour(stops.get(day)!)
     plan[day] = { stops: walked, minutes: dayLength(walked, geo) }
