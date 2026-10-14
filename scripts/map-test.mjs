@@ -35,7 +35,7 @@ const evaluate = async (expression) => {
 }
 const go = async (path) => { await send('Page.navigate', { url: URL + path }); await sleep(2500) }
 const shot = async (name) => writeFileSync(`${out}/${name}.png`, Buffer.from((await send('Page.captureScreenshot')).result.data, 'base64'))
-const state = () => evaluate(`JSON.stringify({ pins: document.querySelectorAll('.city-map-pin').length, numbered: document.querySelectorAll('.city-map-pin:not(.city-map-dot)').length, tiles: [...document.querySelectorAll('.leaflet-tile')].filter(i => i.complete && i.naturalWidth > 0).length, lines: document.querySelectorAll('.leaflet-overlay-pane path').length, hints: [...document.querySelectorAll('.city-map .route-hint')].map(e => e.textContent.slice(0, 90)) })`)
+const state = () => evaluate(`JSON.stringify({ pins: document.querySelectorAll('.city-map-pin:not(.city-map-stadium)').length, numbered: document.querySelectorAll('.city-map-pin:not(.city-map-dot):not(.city-map-stadium)').length, stadiums: document.querySelectorAll('.city-map-stadium').length, tiles: [...document.querySelectorAll('.leaflet-tile')].filter(i => i.complete && i.naturalWidth > 0).length, lines: document.querySelectorAll('.leaflet-overlay-pane path').length, hints: [...document.querySelectorAll('.city-map .route-hint')].map(e => e.textContent.slice(0, 90)) })`)
 const report = {}
 try {
   await send('Page.enable')

@@ -10,6 +10,8 @@ export interface MapPin {
   n?: number
   /** Drawn, but left out when framing the map. */
   far?: boolean
+  /** A football ground rather than a sight: drawn as a ball, its popup lists the clubs. */
+  stadium?: boolean
 }
 
 /** Street map of one city's highlights. Loaded on demand so Leaflet stays out of the main bundle. */
@@ -44,12 +46,14 @@ export default function CityMapView({ pins, onPick }: { pins: MapPin[]; onPick: 
       L.polyline(ordered.map((p) => p.at), { color: '#14110f', weight: 2, dashArray: '5 6', opacity: 0.7 }).addTo(group)
     }
     for (const p of pins) {
-      const icon = L.divIcon({
-        className: '',
-        html: `<span class="city-map-pin${p.n ? '' : ' city-map-dot'}">${p.n ?? ''}</span>`,
-        iconSize: p.n ? [26, 26] : [14, 14],
-        iconAnchor: p.n ? [13, 13] : [7, 7],
-      })
+      const icon = p.stadium
+        ? L.divIcon({ className: '', html: '<span class="city-map-pin city-map-stadium">⚽</span>', iconSize: [22, 22], iconAnchor: [11, 11] })
+        : L.divIcon({
+            className: '',
+            html: `<span class="city-map-pin${p.n ? '' : ' city-map-dot'}">${p.n ?? ''}</span>`,
+            iconSize: p.n ? [26, 26] : [14, 14],
+            iconAnchor: p.n ? [13, 13] : [7, 7],
+          })
       const link = document.createElement('button')
       link.type = 'button'
       link.className = 'city-map-popup'

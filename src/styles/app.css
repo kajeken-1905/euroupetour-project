@@ -3256,3 +3256,12 @@ a.plan-btn {
 .fb-credit a {
   color: inherit;
 }
+
+.city-map-stadium {
+  width: 22px;
+  height: 22px;
+  background: #fff;
+  border-color: #14110f;
+  font-size: 13px;
+  line-height: 1;
+}

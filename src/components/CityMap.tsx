@@ -1,10 +1,11 @@
 import { lazy, Suspense, useEffect, useState } from 'react'
-import type { City } from '../types'
+import type { City, FootballClub } from '../types'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityItinerary } from '../data/itinerary'
 import { t } from '../i18n/ui'
 import { useTrip } from '../trip/store'
 import { jump } from './ItineraryPanel'
+import type { MapPin } from './CityMapView'
 
 const CityMapView = lazy(() => import('./CityMapView'))
 
@@ -13,6 +14,7 @@ export function CityMap({ city }: { city: City }) {
   const { lang } = useLanguage()
   const [open, setOpen] = useState(false)
   const [geo, setGeo] = useState<Record<string, [number, number]> | null>(null)
+  const [clubs, setClubs] = useState<FootballClub[]>([])
   const [day, setDay] = useState(-1)
   const plan = useTrip().plans[city.id]
 
@@ -23,6 +25,14 @@ export function CityMap({ city }: { city: City }) {
   useEffect(() => {
     if (open && !geo) import('../data/geo').then((m) => setGeo(m.HIGHLIGHT_GEO))
   }, [open, geo])
+  useEffect(() => {
+    let live = true
+    setClubs([])
+    if (open) import('../data/football').then((m) => live && setClubs(m.FOOTBALL_CLUBS[city.id] ?? []))
+    return () => {
+      live = false
+    }
+  }, [open, city.id])
 
   const byId = new Map(city.highlights.map((h) => [h.id, h]))
   const suggested = getCityItinerary(city.id)?.days ?? []
@@ -34,7 +44,7 @@ export function CityMap({ city }: { city: City }) {
   // Day trips (Versailles from Paris) would zoom the overview out to the whole region.
   const far = new Set(suggested.filter((d) => d.trip).flatMap((d) => d.stops))
   const shown = day >= 0 && days[day] ? days[day].stops.map((id) => byId.get(id)!) : city.highlights
-  const pins = geo
+  const pins: MapPin[] = geo
     ? shown.flatMap((h, i) =>
         geo[h.id]
           ? [{ id: h.id, name: h.name[lang], at: geo[h.id], n: day >= 0 ? i + 1 : undefined, far: day < 0 && far.has(h.id) }]
@@ -42,6 +52,23 @@ export function CityMap({ city }: { city: City }) {
       )
     : []
   const missing = geo ? shown.filter((h) => !geo[h.id]) : []
+  // Football grounds join the overview (not a day's route), one pin per ground listing the clubs that play there.
+  // They never set the map's frame, so a ground out of town does not pull the view away from the sights.
+  if (geo && day < 0) {
+    const grounds = new Map<string, { at: [number, number]; names: string[] }>()
+    for (const club of clubs) {
+      if (!club.stadium) continue
+      const key = `${club.stadium.lat},${club.stadium.lng}`
+      const g = grounds.get(key) ?? { at: [club.stadium.lat, club.stadium.lng], names: [club.stadium.name[lang]] }
+      g.names.push(club.name[lang])
+      grounds.set(key, g)
+    }
+    const sights = pins.length > 0
+    for (const g of grounds.values()) {
+      const [ground, ...names] = g.names
+      pins.push({ id: 'football', name: `⚽ ${ground} · ${names.join(', ')}`, at: g.at, far: sights, stadium: true })
+    }
+  }
 
   let dayNo = 0
   return (
@@ -98,6 +125,9 @@ export function CityMap({ city }: { city: City }) {
                   </li>
                 ))}
               </ol>
+            ) : null}
+            {clubs.some((c) => c.stadium) && day < 0 && pins.length > 0 ? (
+              <p className="route-hint">{t('cityMapStadiums', lang)}</p>
             ) : null}
             {missing.length > 0 && pins.length > 0 ? (
               <p className="route-hint">
