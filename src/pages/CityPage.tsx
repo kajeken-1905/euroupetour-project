@@ -1,8 +1,7 @@
 import { Fragment, useEffect, useMemo, useState, type CSSProperties } from 'react'
 import { Link, useLocation, useParams } from 'react-router-dom'
-import { getCity } from '../data/cities'
+import { countryOfCity, getCity, getPlacesByCityAndCategory, useCountryData } from '../data/countryData'
 import { getCountry } from '../data/countries'
-import { getPlacesByCityAndCategory } from '../data/places'
 import { CategoryTabs } from '../components/CategoryTabs'
 import { PlaceCard } from '../components/PlaceCard'
 import { HighlightCard } from '../components/HighlightCard'
@@ -23,7 +22,14 @@ import { MyPlanPanel } from '../components/MyPlanPanel'
 import { t } from '../i18n/ui'
 import type { CategoryId } from '../types'
 
+/** Waits for the city's country to load (see countryData.ts). */
 export function CityPage() {
+  const { cityId = '' } = useParams()
+  const countryId = countryOfCity(cityId)
+  return useCountryData(countryId ? [countryId] : []) ? <CityView /> : null
+}
+
+function CityView() {
   const { cityId = '' } = useParams()
   const { lang } = useLanguage()
   const city = getCity(cityId)

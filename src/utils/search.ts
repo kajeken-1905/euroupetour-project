@@ -1,6 +1,5 @@
 import { countries, getCountry } from '../data/countries'
-import { cities, getCity } from '../data/cities'
-import { places } from '../data/places'
+import { getCity, loadedCities, loadedCountryCount, loadedPlaces } from '../data/countryData'
 import { CATEGORIES, type CategoryId } from '../types'
 
 export type SearchKind = 'country' | 'city' | 'highlight' | 'place'
@@ -80,13 +79,15 @@ function textOf(name: { ko: string; en: string }, description: { ko: string; en:
 }
 
 let index: SearchEntry[] | undefined
+/** Countries loaded when the index was built; it is rebuilt when more arrive. */
+let indexed = -1
 
 function buildIndex(): SearchEntry[] {
   const out: SearchEntry[] = []
   for (const c of countries) {
     out.push(entry('country', c.id, c.name, { ko: '', en: '' }, `/country/${c.id}`, [c.nativeName], undefined, { countryId: c.id }))
   }
-  for (const city of cities) {
+  for (const city of loadedCities()) {
     const country = getCountry(city.countryId)
     if (!country) continue
     const at = { cityId: city.id, countryId: country.id }
@@ -102,7 +103,7 @@ function buildIndex(): SearchEntry[] {
       )
     }
   }
-  for (const p of places) {
+  for (const p of loadedPlaces()) {
     const city = getCity(p.cityId)
     if (!city) continue
     const category = CATEGORIES.find((c) => c.id === p.category)
@@ -174,7 +175,10 @@ function scopedSearch(all: SearchEntry[], query: string): SearchEntry[] {
  * lists that kind of place there; otherwise names are matched exact, then prefix, then inner.
  */
 export function search(query: string, limit = 20): SearchResults {
-  index ??= buildIndex()
+  if (!index || indexed !== loadedCountryCount()) {
+    index = buildIndex()
+    indexed = loadedCountryCount()
+  }
   const results: SearchResults = {
     country: { items: [], total: 0 },
     city: { items: [], total: 0 },

@@ -4,8 +4,7 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { FavoriteButton } from '../components/FavoriteButton'
 import { TourPanel } from '../components/TourPanel'
 import { useLanguage } from '../contexts/LanguageContext'
-import { cities, getCity } from '../data/cities'
-import { getPlace } from '../data/places'
+import { getCity, getPlace, loadedCities, useCountryData } from '../data/countryData'
 import { t } from '../i18n/ui'
 import { directionsUrl } from '../utils/directions'
 import type { City, CityHighlight, Place } from '../types'
@@ -15,11 +14,16 @@ let highlightCity: Map<string, City> | undefined
 
 /** The city each highlight belongs to (ids alone do not say, since city ids contain hyphens). */
 function cityOfHighlight(id: string) {
-  highlightCity ??= new Map(cities.flatMap((c) => c.highlights.map((h) => [h.id, c] as const)))
+  highlightCity ??= new Map(loadedCities().flatMap((c) => c.highlights.map((h) => [h.id, c] as const)))
   return highlightCity.get(id)
 }
 
+/** Saved sights and places can be in any country, so the tab waits for all of them. */
 export function MyTripPage() {
+  return useCountryData('all') ? <MyTripView /> : null
+}
+
+function MyTripView() {
   const { lang } = useLanguage()
   const trip = useTrip()
   const navigate = useNavigate()

@@ -36,3 +36,6 @@ photos-inbox/
 
 # place photo picker work files
 .picker/
+
+# Generated per-country data (scripts/gen-country-data.ts)
+src/data/by-country/

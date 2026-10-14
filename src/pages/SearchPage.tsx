@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
+import { useCountryData } from '../data/countryData'
 import {
   clearRecentSearches,
   recentSearches,
@@ -14,7 +15,12 @@ import {
 
 const QUERY_KEY = 'search-query'
 
+/** Search covers every country's cities and places. */
 export function SearchPage() {
+  return useCountryData('all') ? <SearchView /> : null
+}
+
+function SearchView() {
   const { lang } = useLanguage()
   const navigate = useNavigate()
   const inputRef = useRef<HTMLInputElement>(null)

@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
-import { getCity } from '../data/cities'
+import { getCity } from '../data/countryData'
 import { getCityRoutes, getRoutesBetween, getViaRoute } from '../data/routes'
 import { t } from '../i18n/ui'
 import { setRoute, useTrip } from '../trip/store'

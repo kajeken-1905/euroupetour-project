@@ -1,7 +1,6 @@
 import type { CSSProperties } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { getPlace } from '../data/places'
-import { getCity } from '../data/cities'
+import { getCity, getPlace, useCountryData } from '../data/countryData'
 import { getCountry } from '../data/countries'
 import { RatingStars } from '../components/RatingStars'
 import { PlaceThumb } from '../components/PlaceThumb'
@@ -12,7 +11,13 @@ import { FavoriteButton } from '../components/FavoriteButton'
 import { t } from '../i18n/ui'
 import { CATEGORIES } from '../types'
 
+/** A place opened from its own city's screen is already loaded; one opened by link waits for every country. */
 export function PlacePage() {
+  const { placeId = '' } = useParams()
+  return useCountryData(getPlace(placeId) ? [] : 'all') ? <PlaceView /> : null
+}
+
+function PlaceView() {
   const { placeId = '' } = useParams()
   const { lang } = useLanguage()
   const place = getPlace(placeId)

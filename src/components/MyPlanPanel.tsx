@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { City } from '../types'
 import { useLanguage } from '../contexts/LanguageContext'
-import { places } from '../data/places'
+import { getPlacesByCity } from '../data/countryData'
 import { t } from '../i18n/ui'
 import { setPlan, useTrip, type PlanDay } from '../trip/store'
 import { closures, dayMinutes, hours, jump } from './ItineraryPanel'
@@ -31,7 +31,7 @@ export function MyPlanPanel({ city }: { city: City }) {
   if (!days) return null
 
   const highlightById = new Map(city.highlights.map((h) => [h.id, h]))
-  const cityPlaces = places.filter((p) => p.cityId === city.id)
+  const cityPlaces = getPlacesByCity(city.id)
   const placeById = new Map(cityPlaces.map((p) => [p.id, p]))
   const known = (id: string) => highlightById.has(id) || placeById.has(id)
   const used = new Set(days.flatMap((d) => d.stops))
