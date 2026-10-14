@@ -33,7 +33,7 @@ export function PhrasePanel({ countryId }: { countryId: string }) {
           {phrases.lines.map((line) => (
             <li key={line.id} className="phrase-row">
               <div className="phrase-text">
-                <span className="phrase-ko">{line.ko}</span>
+                <span className="phrase-ko">{line[lang]}</span>
                 <span className="phrase-native">{line.native}</span>
               </div>
               <button

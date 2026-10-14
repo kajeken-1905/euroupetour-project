@@ -15,6 +15,7 @@ import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
 import { getCountryTransit } from '../data/transit'
 import { formatFxLine } from '../services/exchangeRates'
 import { t } from '../i18n/ui'
+import { titleNames } from '../utils/placeNames'
 import { assetUrl } from '../utils/assetUrl'
 import { hexToRgba } from '../utils/color'
 
@@ -48,9 +49,7 @@ export function CountryPage() {
     )
   }
 
-  const altNames = [country.name.en, country.nativeName]
-    .filter((v, i, arr) => v !== country.name.ko && arr.indexOf(v) === i)
-    .join(' · ')
+  const { main, alt: altNames } = titleNames(country.name, country.nativeName, lang)
 
   const rate = getRate(country.currencyCode)
   let rateText = t('exchangeRateLoading', lang)
@@ -107,7 +106,7 @@ export function CountryPage() {
                 <span className="flag" aria-hidden>
                   {country.flag}
                 </span>{' '}
-                {country.name.ko}
+                {main}
               </span>
               {altNames ? <span className="local-title-alt">{altNames}</span> : null}
             </h2>

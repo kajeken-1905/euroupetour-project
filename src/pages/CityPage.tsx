@@ -21,6 +21,7 @@ import { SeasonPanel } from '../components/SeasonPanel'
 import { MyPlanPanel } from '../components/MyPlanPanel'
 import { FootballClubsPanel } from '../components/FootballPanel'
 import { t } from '../i18n/ui'
+import { bilingualName, titleNames } from '../utils/placeNames'
 import type { CategoryId } from '../types'
 
 /** Waits for the city's country to load (see countryData.ts). */
@@ -64,9 +65,7 @@ function CityView() {
     )
   }
 
-  const alt = [city.name.en, city.nativeName]
-    .filter((v, i, arr) => v !== city.name.ko && arr.indexOf(v) === i)
-    .join(' · ')
+  const { main, alt } = titleNames(city.name, city.nativeName, lang)
 
   const { primary, secondary, accent } = country.flagColors
   const themeVars = {
@@ -81,11 +80,10 @@ function CityView() {
         <div className="top-bar" style={{ paddingTop: 0 }}>
           <div>
             <Link to={`/country/${country.id}`} className="back-link">
-              ← {country.name.ko}
-              {country.name.en !== country.name.ko ? ` · ${country.name.en}` : ''}
+              ← {bilingualName(country.name, lang)}
             </Link>
             <h2 className="local-title">
-              <span className="local-title-main">{city.name.ko}</span>
+              <span className="local-title-main">{main}</span>
               {alt ? <span className="local-title-alt">{alt}</span> : null}
             </h2>
             <p className="blurb">{city.blurb[lang]}</p>

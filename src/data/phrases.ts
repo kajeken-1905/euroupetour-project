@@ -8,6 +8,8 @@ export type PhraseId =
 export interface PhraseLine {
   id: PhraseId
   ko: string
+  /** The meaning in English, for the English screen. */
+  en: string
   native: string
 }
 
@@ -28,10 +30,19 @@ const KO_LABELS: Record<PhraseId, string> = {
   howMuch: '얼마예요?',
 }
 
+const EN_LABELS: Record<PhraseId, string> = {
+  morning: 'Good morning',
+  hello: 'Hello',
+  excuse: 'Excuse me.',
+  thanks: 'Thank you.',
+  howMuch: 'How much is it?',
+}
+
 function lines(native: Record<PhraseId, string>): PhraseLine[] {
   return PHRASE_ORDER.map((id) => ({
     id,
     ko: KO_LABELS[id],
+    en: EN_LABELS[id],
     native: native[id],
   }))
 }

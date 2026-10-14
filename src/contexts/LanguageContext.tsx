@@ -1,6 +1,7 @@
 import {
   createContext,
   useContext,
+  useEffect,
   useMemo,
   useState,
   type ReactNode,
@@ -15,8 +16,27 @@ interface LanguageContextValue {
 
 const LanguageContext = createContext<LanguageContextValue | null>(null)
 
+const LANG_KEY = 'lang'
+
+/** The language picked last time on this device; Korean when none was picked or storage is unavailable. */
+function storedLang(): Lang {
+  try {
+    return localStorage.getItem(LANG_KEY) === 'en' ? 'en' : 'ko'
+  } catch {
+    return 'ko'
+  }
+}
+
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [lang, setLang] = useState<Lang>('ko')
+  const [lang, setLang] = useState<Lang>(storedLang)
+  useEffect(() => {
+    document.documentElement.lang = lang
+    try {
+      localStorage.setItem(LANG_KEY, lang)
+    } catch {
+      // Private mode or blocked storage: the choice simply lasts until the page is closed.
+    }
+  }, [lang])
   const value = useMemo(
     () => ({
       lang,

@@ -7,6 +7,7 @@ import { useTravelChecklist } from '../hooks/useTravelChecklist'
 import { cityIndex as cities } from '../data/cityIndex'
 import { countries } from '../data/countries'
 import { t } from '../i18n/ui'
+import { bilingualName } from '../utils/placeNames'
 import {
   EURAIL_APP_URL,
   MAX_COUNTRIES,
@@ -373,14 +374,14 @@ function CountryTripBlock({
   const { lang } = useLanguage()
   const step = index + 2
   const baseTitle = `${t('travelCountry', lang)} ${index + 1}`
-  const title = trip.countryName.trim()
-    ? `${baseTitle}  ${trip.countryName.trim()}`
-    : baseTitle
+  // The name is stored in the language it was picked in; show it in the current one when the country is known.
+  const countryName = countries.find((c) => c.id === trip.countryId)?.name[lang] ?? trip.countryName.trim()
+  const title = countryName ? `${baseTitle}  ${countryName}` : baseTitle
   const cityOptions = cities
     .filter((c) => c.countryId === trip.countryId)
     .map((c) => ({
       id: c.id,
-      label: cityLabel(c.name.ko, c.name.en, c.nativeName),
+      label: lang === 'ko' ? cityLabel(c.name.ko, c.name.en, c.nativeName) : cityLabel(c.name.en, c.nativeName, ''),
     }))
   const citySummary = trip.cities
     .map((c) => c.cityName.trim())
@@ -409,8 +410,7 @@ function CountryTripBlock({
             <option value="">{t('selectCountry', lang)}</option>
             {countries.map((c) => (
               <option key={c.id} value={c.id}>
-                {c.name.ko}
-                {c.name.en !== c.name.ko ? ` · ${c.name.en}` : ''}
+                {bilingualName(c.name, lang)}
               </option>
             ))}
           </select>

@@ -5,14 +5,13 @@ import { getCountry } from '../data/countries'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { assetUrl } from '../utils/assetUrl'
+import { titleNames } from '../utils/placeNames'
 
 export function CityListItem({ city }: { city: CityBrief }) {
   const { lang } = useLanguage()
   const { data: visitedData } = useVisitedPlaces()
   const highlight = city.cardTagline[lang]
-  const altNames = [city.name.en, city.nativeName]
-    .filter((v, i, arr) => v !== city.name.ko && arr.indexOf(v) === i)
-    .join(' · ')
+  const { main, alt: altNames } = titleNames(city.name, city.nativeName, lang)
 
   // A city's stamp is its parent country's — cities have no illustration of
   // their own, same convention as VisitStamps.
@@ -40,7 +39,7 @@ export function CityListItem({ city }: { city: CityBrief }) {
         />
       ) : null}
       <strong className="local-title">
-        <span className="local-title-main">{city.name.ko}</span>
+        <span className="local-title-main">{main}</span>
         {altNames ? <span className="local-title-alt">{altNames}</span> : null}
       </strong>
       <span className="city-highlight">{highlight}</span>

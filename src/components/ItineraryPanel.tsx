@@ -75,7 +75,10 @@ export function ItineraryPanel({ city }: { city: City }) {
   } else if (main.length > 1) {
     stayParts.push(t('itineraryDays', lang).replace('{n}', String(main.length)))
   }
-  if (trips.length > 0) stayParts.push(t('itineraryTrips', lang).replace('{n}', String(trips.length)))
+  if (trips.length > 0)
+    stayParts.push(
+      trips.length === 1 ? t('itineraryTrip1', lang) : t('itineraryTrips', lang).replace('{n}', String(trips.length)),
+    )
 
   let dayNo = 0
   return (
