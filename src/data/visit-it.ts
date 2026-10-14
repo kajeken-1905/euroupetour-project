@@ -17,7 +17,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Milan
   'milan-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.duomomilano.it/en/', t: 'https://ticket.duomomilano.it/en/', n: '옥상 테라스는 별도 표이며 어깨와 무릎을 가려야 들어갑니다.|The rooftop terraces need their own ticket; shoulders and knees must be covered.', k: '2026-10' }),
   'milan-h2': v(20, 30),
-  'milan-h3': v(60, 120, { s: 'https://www.milanocastello.it/en', n: '성 안뜰은 무료이고 안쪽 박물관은 월요일에 쉽니다.|The courtyards are free; the museums inside close on Mondays.' }),
+  'milan-h3': v(60, 120, { c: 'mon', s: 'https://www.milanocastello.it/en', n: '성 안뜰은 무료이고 안쪽 박물관은 월요일에 쉽니다. 월요일 휴관은 성 안 박물관 기준입니다.|The courtyards are free; the museums inside close on Mondays. The Monday closure applies to the castle museums.', k: '2026-10' }),
   'milan-h4': v(60, 90),
   'milan-h5': v(90, 120, { c: 'mon', b: 'rec', s: 'https://pinacotecabrera.org/en/', k: '2026-10' }),
   'milan-h6': v(10, 15),
@@ -70,7 +70,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Cinque Terre
   'cinque-terre-h1': v(60, 90),
   'cinque-terre-h2': v(60, 90),
-  'cinque-terre-h3': v(60, 90, { s: 'https://www.viadellamore.info/en/', n: '마나롤라로 이어지는 "사랑의 길"은 시간 지정 예약제입니다.|The Via dell’Amore to Manarola is by timed reservation.' }),
+  'cinque-terre-h3': v(60, 90, { c: 'daily', s: 'https://www.viadellamore.info/en/', n: '마나롤라로 이어지는 "사랑의 길"은 시간 지정 예약제입니다.|The Via dell’Amore to Manarola is by timed reservation.', k: '2026-10' }),
   'cinque-terre-h4': v(60, 120),
   'cinque-terre-h5': v(45, 60, { n: '역에서 마을까지 계단 약 380개를 오르거나 셔틀버스를 탑니다.|From the station it is about 380 steps up, or take the shuttle bus.' }),
   'cinque-terre-h6': v(120, 300, { s: 'https://www.parconazionale5terre.it/Eindex.php', n: '해안 탐방로를 걸으려면 친퀘테레 카드가 필요하고, 산사태나 악천후로 구간이 자주 닫힙니다.|The coastal path needs a Cinque Terre Card, and sections often close for landslides or bad weather.' }),
@@ -132,13 +132,13 @@ export const visitIt: Record<string, HighlightVisit> = {
   'modena-h4': v(30, 45, { c: 'sun', s: 'https://mercatoalbinelli.it/', k: '2026-10' }),
   'modena-h5': v(60, 90, { s: 'https://www.visitmodena.it/en/discover-modena/land-of-flavors/the-vinegar-factories', b: 'req', n: '양조장 견학은 연중 있지만 항상 예약이 필요합니다. 관광 안내소나 각 양조장에 미리 예약하세요. 시청 안 시립 양조장도 예약제입니다.|Tours run all year but always need a reservation—through the tourist office or the producer. The municipal acetaia in the town hall is by reservation too.', k: '2026-10' }),
   // Parma
-  'parma-h1': v(30, 45, { b: 'no', s: 'https://www.piazzaduomoparma.com/en/', n: FREE }),
-  'parma-h2': v(30, 40, { s: 'https://www.piazzaduomoparma.com/en/' }),
+  'parma-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.piazzaduomoparma.com/en/', n: FREE, k: '2026-10' }),
+  'parma-h2': v(30, 40, { c: 'daily', s: 'https://www.piazzaduomoparma.com/en/', k: '2026-10' }),
   'parma-h3': v(120, 150, { c: 'mon', s: 'https://complessopilotta.it/en/welcome/', k: '2026-10' }),
   'parma-h4': v(30, 45),
   'parma-h5': v(90, 120, { s: 'https://www.parmigianoreggiano.com/dairies-book-a-guided-tour', b: 'req', n: '치즈 만드는 과정은 오전에 볼 수 있어 견학이 대부분 아침에 있습니다. 협회 누리집에서 공방별로 예약합니다.|Cheese is made in the morning, so most tours start early. Book dairy by dairy on the consortium’s site.', k: '2026-10' }),
   // Ferrara
-  'ferrara-h1': v(60, 90, { s: 'https://www.castelloestense.it/en' }),
+  'ferrara-h1': v(60, 90, { c: 'tue', s: 'https://www.castelloestense.it/en', k: '2026-10' }),
   'ferrara-h2': v(15, 20),
   'ferrara-h3': v(60, 90, { s: 'https://www.palazzodiamanti.it/en/', n: '기획전이 있을 때만 엽니다.|Open only when an exhibition is on.' }),
   'ferrara-h4': v(60, 120),
@@ -161,7 +161,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'rome-h8': v(20, 30),
   'rome-h9': v(20, 30),
   'rome-h10': v(75, 90, { c: 'mon', b: 'rec', s: 'https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/', k: '2026-10', x: [['월요일에 쉬지만 2026년에는 매월 첫 월요일 오후에 특별 개방합니다.|Closed on Mondays, though in 2026 it opens on the afternoon of the first Monday of each month.', '2026-12-31']] }),
-  'rome-h11': v(30, 60, { s: 'https://vive.cultura.gov.it/en/', n: '기념관은 무료이고 옥상 전망 엘리베이터만 유료입니다.|The monument is free; only the panoramic lift to the roof is ticketed.' }),
+  'rome-h11': v(30, 60, { c: 'daily', s: 'https://vive.cultura.gov.it/en/', n: '기념관은 무료이고 옥상 전망 엘리베이터만 유료입니다.|The monument is free; only the panoramic lift to the roof is ticketed.', k: '2026-10' }),
   // Florence
   'florence-h1': v(60, 150, { b: 'req', s: 'https://duomo.firenze.it/en/home', n: '성당 입장은 무료이지만 돔(계단 463개)과 종탑은 시간 지정 예약이 필수입니다. 일요일에는 관광 입장이 제한됩니다.|The cathedral is free, but the dome (463 steps) and bell tower need a timed booking. Sightseeing is restricted on Sundays.', k: '2026-10' }),
   'florence-h2': v(150, 210, { c: 'mon', b: 'rec', s: 'https://www.uffizi.it/en', k: '2026-10' }),
@@ -169,7 +169,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'florence-h4': v(30, 45),
   'florence-h5': v(60, 75, { c: 'mon', b: 'req', s: 'https://www.galleriaaccademiafirenze.it/en/', n: '예약 없이 가면 줄이 1~2시간씩 걸립니다.|Without a booking the queue can run to one or two hours.', k: '2026-10' }),
   'florence-h6': v(75, 90, { s: 'https://cultura.comune.fi.it/pagina/musei-civici-fiorentini/museo-di-palazzo-vecchio', n: '목요일은 오후 2시까지만 엽니다.|On Thursdays it closes at 2 pm.' }),
-  'florence-h7': v(45, 60, { s: 'https://www.smn.it/en/' }),
+  'florence-h7': v(45, 60, { c: 'daily', s: 'https://www.smn.it/en/', k: '2026-10' }),
   'florence-h8': v(20, 30, { s: 'https://duomo.firenze.it/en/home', n: '대성당 통합권으로 봅니다.|Visited on the cathedral complex pass.' }),
   'florence-h9': v(45, 60, { c: 'daily', k: '2026-10' }),
   // Pisa
@@ -276,8 +276,8 @@ export const visitIt: Record<string, HighlightVisit> = {
   'polignano-a-mare-h3': v(10, 15),
   'polignano-a-mare-h4': v(10, 120, { s: 'https://www.grottapalazzese.it/en/', b: 'req', n: '동굴 식당은 식사 손님만 들어가고 공식 누리집에서 예약합니다. 시즌제로 운영하며 저녁에는 남성의 반바지·샌들 차림을 받지 않습니다.|The cave restaurant admits diners only, booked on its own site. It runs seasonally, and men may not wear shorts or sandals at dinner.', k: '2026-10' }),
   // Lecce
-  'lecce-h1': v(20, 30, { s: 'https://www.chieselecce.it/en/', n: '산타 크로체와 대성당 등 주요 성당은 통합 입장권으로 봅니다.|Santa Croce, the cathedral and other main churches share one combined ticket.' }),
-  'lecce-h2': v(30, 45, { s: 'https://www.chieselecce.it/en/' }),
+  'lecce-h1': v(20, 30, { c: 'daily', s: 'https://www.chieselecce.it/en/', n: '산타 크로체와 대성당 등 주요 성당은 통합 입장권으로 봅니다.|Santa Croce, the cathedral and other main churches share one combined ticket.', k: '2026-10' }),
+  'lecce-h2': v(30, 45, { c: 'daily', s: 'https://www.chieselecce.it/en/', k: '2026-10' }),
   'lecce-h3': v(15, 20),
   'lecce-h4': v(10, 15),
   // Matera

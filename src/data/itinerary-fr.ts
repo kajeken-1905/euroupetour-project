@@ -20,7 +20,7 @@ export const itineraryFr: Record<string, RawItinerary> = {
   giverny: [2, 3, 1, 4],
   fontainebleau: { days: [['', 2, 1]], trips: [['숲과 바르비종|Forest & Barbizon', 3, 4]] },
   chartres: [1, 2, 3, 4],
-  reims: { days: [['', 1, 3, 4, 2]], trips: [['에페르네|Épernay', 5]] },
+  reims: { days: [['', 1, 4, 2]], trips: [['에페르네|Épernay', 5]] },
   amboise: { days: [['', 1, 2]], trips: [['루아르 고성|Loire châteaux', 3, 4]] },
   rouen: [3, 2, 1, 4],
   honfleur: [1, 2, 3, 4],

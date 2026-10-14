@@ -39,17 +39,17 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'cologne-h5': v(30, 45),
   // Frankfurt
   'frankfurt-h1': v(20, 30),
-  'frankfurt-h2': v(30, 45, { s: 'https://www.maintower.de/en/', n: '악천후에는 전망대를 닫습니다.|The platform closes in bad weather.' }),
+  'frankfurt-h2': v(30, 45, { c: 'daily', s: 'https://www.maintower.de/en/', n: '악천후에는 전망대를 닫습니다.|The platform closes in bad weather.', k: '2026-10' }),
   'frankfurt-h3': v(120, 180, { c: 'mon', n: '슈테델 미술관을 비롯해 강변의 박물관은 대부분 월요일에 쉽니다. 슈테델은 목요일에 21시까지 엽니다.|The Städel and most of the riverside museums close on Mondays; the Städel stays open until 9 pm on Thursdays.', k: '2026-10' }),
   'frankfurt-h4': v(90, 120, { c: 'daily', s: 'https://www.palmengarten.de/en/', k: '2026-10' }),
   'frankfurt-h5': v(60, 90),
   'frankfurt-h6': v(10, 15),
   // Leipzig
-  'leipzig-h1': v(20, 30, { b: 'no', s: 'https://www.thomaskirche.org/', n: FREE }),
+  'leipzig-h1': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.thomaskirche.org/', n: FREE, k: '2026-10' }),
   'leipzig-h2': v(15, 20),
   'leipzig-h3': v(15, 20),
   'leipzig-h4': v(60, 90, { c: 'daily', n: '전망대까지 계단 약 500개를 오릅니다(중간까지 엘리베이터). 12월 24일과 31일은 쉽니다.|About 500 steps to the top platform (a lift covers the middle section). Closed 24 and 31 December.', k: '2026-10' }),
-  'leipzig-h5': v(60, 90, { s: 'https://www.spinnerei.de/', n: '갤러리는 대부분 화~토요일에만 엽니다.|Most galleries open Tuesday to Saturday only.' }),
+  'leipzig-h5': v(60, 90, { c: 'sun,mon', s: 'https://www.spinnerei.de/', n: '갤러리는 대부분 화~토요일에만 엽니다.|Most galleries open Tuesday to Saturday only.', k: '2026-10' }),
   // Dresden
   'dresden-h1': v(120, 180, { c: 'mon', s: SKD, n: '안뜰은 무료이고 박물관(옛 거장 회화관 등)은 유료입니다.|The courtyard is free; the museums (Old Masters Gallery and others) are ticketed.', k: '2026-10' }),
   'dresden-h2': v(30, 60, { b: 'no', s: 'https://www.frauenkirche-dresden.de/home', n: '성당은 무료이고 돔 전망대만 유료입니다. 예배와 연주회 때는 관람이 제한됩니다.|Free; only the dome climb is ticketed. Visits are restricted during services and concerts.' }),
@@ -72,13 +72,13 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rothenburg-h1': v(20, 30),
   'rothenburg-h2': v(10, 15),
   'rothenburg-h3': v(45, 60, { b: 'no', n: FREE }),
-  'rothenburg-h4': v(75, 90, { s: 'https://www.kriminalmuseum.eu/en/?lang=en' }),
+  'rothenburg-h4': v(75, 90, { c: 'daily', s: 'https://www.kriminalmuseum.eu/en/?lang=en', k: '2026-10' }),
   'rothenburg-h5': v(20, 30),
   // Nuremberg
   'nuremberg-h1': v(90, 120, { c: 'daily', s: 'https://www.kaiserburg-nuernberg.de/englisch/castle/index.htm', k: '2026-10' }),
   'nuremberg-h2': v(20, 30, { n: '11월 말부터 크리스마스 전까지 크리스마스 마켓이 섭니다.|Hosts the Christmas market from late November until Christmas.' }),
   'nuremberg-h3': v(20, 30),
-  'nuremberg-h4': v(120, 150, { s: 'https://museums.nuernberg.de/documentation-center', n: '여러 해에 걸친 개편 공사를 거쳤으니 방문 전에 운영 현황을 확인하세요.|It has been through a multi-year remodelling—check current arrangements before you go.' }),
+  'nuremberg-h4': v(120, 150, { c: 'daily', s: 'https://museums.nuernberg.de/documentation-center', n: '여러 해에 걸친 개편 공사를 거쳤으니 방문 전에 운영 현황을 확인하세요.|It has been through a multi-year remodelling—check current arrangements before you go.', k: '2026-10' }),
   'nuremberg-h5': v(60, 90, { c: 'mon', s: 'https://museums.nuernberg.de/toy-museum', k: '2026-10' }),
   // Munich
   'munich-h1': v(30, 45, { n: '시청 시계탑 인형극은 매일 11시와 12시에 열립니다(여름에는 17시에도).|The Glockenspiel plays daily at 11 am and noon (also 5 pm in summer).' }),
@@ -123,22 +123,22 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'antwerp-h3': v(30, 45),
   'antwerp-h4': v(15, 20),
   'antwerp-h5': v(90, 120, { c: 'mon', s: 'https://mas.be/en', n: '옥상 전망대와 건물 통로는 무료입니다.|The rooftop panorama and the walk up through the building are free.', k: '2026-10' }),
-  'antwerp-h6': v(45, 60, { s: 'https://rubenshuis.be/en', n: '루벤스가 살던 집은 보수 공사로 2030년까지 닫혀 있고, 정원·도서관과 체험 전시만 엽니다.|The artist’s house itself is closed for restoration until 2030; only the garden, library and the Rubens Experience are open.' }),
+  'antwerp-h6': v(45, 60, { c: 'wed', s: 'https://rubenshuis.be/en', n: '루벤스가 살던 집은 보수 공사로 2030년까지 닫혀 있고, 정원·도서관과 체험 전시만 엽니다.|The artist’s house itself is closed for restoration until 2030; only the garden, library and the Rubens Experience are open.', k: '2026-10' }),
   // Leuven
   'leuven-h1': v(15, 20),
   'leuven-h2': v(30, 45),
   'leuven-h3': v(20, 30),
-  'leuven-h4': v(20, 30, { s: 'https://www.mleuven.be/en' }),
+  'leuven-h4': v(20, 30, { c: 'daily', s: 'https://www.mleuven.be/en', k: '2026-10' }),
   'leuven-h5': v(30, 45, { b: 'no', n: FREE }),
   'leuven-h6': v(20, 30, { b: 'no', n: FREE }),
   // Dinant
-  'dinant-h1': v(75, 90, { s: 'https://www.citadellededinant.be/en', n: '케이블카나 계단 408개로 올라갑니다.|Reached by cable car or 408 steps.' }),
+  'dinant-h1': v(75, 90, { c: 'daily', s: 'https://www.citadellededinant.be/en', n: '케이블카나 계단 408개로 올라갑니다.|Reached by cable car or 408 steps.', k: '2026-10' }),
   'dinant-h2': v(15, 20),
   'dinant-h3': v(45, 60),
   'dinant-h4': v(10, 15),
 
   // Amsterdam
-  'amsterdam-h1': v(60, 75, { s: 'https://www.paleisamsterdam.nl/en/', n: '왕실 행사가 있는 날은 닫으니 달력을 확인하세요.|Closed on days of royal events—check the calendar.' }),
+  'amsterdam-h1': v(60, 75, { s: 'https://www.paleisamsterdam.nl/en/', n: '왕실 행사가 있는 날은 닫으니 달력을 확인하세요. 왕실 행사로 닫는 날이 많아 연간 230일가량 엽니다. 공식 달력에서 개방일을 확인하세요.|Closed on days of royal events—check the calendar. Royal events close it on many days; it opens about 230 days a year—check the official calendar.', k: '2026-10' }),
   'amsterdam-h2': v(60, 75),
   'amsterdam-h3': v(120, 150, { c: 'daily', b: 'req', s: 'https://www.vangoghmuseum.nl/en', n: '표는 온라인 시간 지정 예약으로만 팝니다.|Tickets are sold online only, by time slot.', k: '2026-10' }),
   'amsterdam-h4': v(60, 90),
@@ -148,13 +148,13 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   // Rotterdam
   'rotterdam-h1': v(30, 45, { c: 'daily', b: 'no', k: '2026-10' }),
   'rotterdam-h2': v(15, 20),
-  'rotterdam-h3': v(20, 30, { s: 'https://www.kubuswoning.nl/en/' }),
+  'rotterdam-h3': v(20, 30, { c: 'daily', s: 'https://www.kubuswoning.nl/en/', k: '2026-10' }),
   'rotterdam-h4': v(75, 90, { s: 'https://www.spido.nl/en/' }),
   'rotterdam-h5': v(90, 120, { c: 'mon', s: 'https://www.boijmans.nl/en', n: '본관은 보수 공사로 휴관 중이고, 바로 옆 수장고(Depot)가 문을 엽니다.|The main museum is closed for renovation; the Depot next door is open.', k: '2026-10' }),
   'rotterdam-h6': v(45, 60, { c: 'daily', s: 'https://euromast.nl/en/', k: '2026-10' }),
   // The Hague
   'the-hague-h1': v(10, 15, { n: '국왕 집무 궁전이라 내부는 공개하지 않습니다.|The King’s working palace—not open to visitors.' }),
-  'the-hague-h2': v(30, 45, { s: 'https://www.vredespaleis.nl/visit/?lang=en', n: '방문자 센터는 무료이고, 건물 내부는 지정일 가이드 투어로만 봅니다.|The visitor centre is free; the building itself is seen on guided tours on set days only.' }),
+  'the-hague-h2': v(30, 45, { c: 'mon,tue', s: 'https://www.vredespaleis.nl/visit/?lang=en', n: '방문자 센터는 무료이고, 건물 내부는 지정일 가이드 투어로만 봅니다. 방문자 센터 기준입니다.|The visitor centre is free; the building itself is seen on guided tours on set days only. As listed for the visitor centre.', k: '2026-10' }),
   'the-hague-h3': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.mauritshuis.nl/en/', n: '월요일은 오후에만 엽니다.|On Mondays it opens in the afternoon only.', k: '2026-10' }),
   'the-hague-h4': v(90, 180),
   'the-hague-h5': v(15, 20, { n: '대규모 보수 공사로 안뜰과 건물에 들어갈 수 없습니다. 호수 건너편에서 외관만 봅니다.|Closed off for a major renovation; view it from across the Hofvijver pond.' }),
@@ -185,7 +185,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'maastricht-h1': v(15, 20),
   'maastricht-h2': v(60, 75, { b: 'req', s: 'https://www.exploremaastricht.nl/en', n: '가이드 투어로만 들어가며 안은 1년 내내 11도쯤이라 겉옷이 필요합니다.|Guided tours only; it is about 11°C inside all year, so bring a layer.', k: '2026-10' }),
   'maastricht-h3': v(20, 30),
-  'maastricht-h4': v(30, 45, { s: 'https://www.sintservaas.nl/' }),
+  'maastricht-h4': v(30, 45, { c: 'daily', s: 'https://www.sintservaas.nl/', k: '2026-10' }),
   'maastricht-h5': v(10, 15),
   'maastricht-h6': v(30, 45),
   // Giethoorn
@@ -197,7 +197,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   // Luxembourg City
   'luxembourg-city-h1': v(15, 20, { s: LUX, n: '내부 가이드 투어는 한여름(대략 7월 중순~8월)에만 있고 관광 안내소에서 예약합니다.|Interior tours run only in midsummer (roughly mid-July to August), booked through the tourist office.' }),
   'luxembourg-city-h2': v(90, 120),
-  'luxembourg-city-h3': v(45, 60, { s: 'https://www.luxembourg-city.com/en/tours-activities/underground/bock-casemates', n: '겨울에는 닫는 기간이 있습니다.|Closed for part of the winter.' }),
+  'luxembourg-city-h3': v(45, 60, { c: 'daily', s: 'https://www.luxembourg-city.com/en/tours-activities/underground/bock-casemates', n: '겨울에는 닫는 기간이 있습니다. 12월 25일과 1월 1일은 쉽니다.|Closed for part of the winter. Closed 25 December and 1 January.', k: '2026-10' }),
   'luxembourg-city-h4': v(60, 90),
   'luxembourg-city-h5': v(15, 20, { b: 'no', n: FREE }),
   'luxembourg-city-h6': v(10, 15),
@@ -216,5 +216,5 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'remich-h1': v(30, 45),
   'remich-h2': v(120, 180),
   'remich-h3': v(20, 30),
-  'remich-h4': v(45, 60, { s: 'https://www.papillons.lu/en/', n: '그레벤마허(Grevenmacher)에 있으며 봄부터 가을까지만 엽니다.|In Grevenmacher; open spring to autumn only.' }),
+  'remich-h4': v(45, 60, { c: 'daily', s: 'https://www.papillons.lu/en/', n: '그레벤마허(Grevenmacher)에 있으며 봄부터 가을까지만 엽니다. 4~10월에만 엽니다.|In Grevenmacher; open spring to autumn only. Open April to October only.', k: '2026-10' }),
 }

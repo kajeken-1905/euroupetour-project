@@ -375,6 +375,7 @@ export const ui = {
   plannerLeftTime: { ko: '시간 부족', en: 'no time' },
   plannerLeftClosed: { ko: '기간 내내 휴무 요일', en: 'closed on these days' },
   plannerLeftTrip: { ko: '근교', en: 'out of town' },
+  plannerLeftShut: { ko: '휴관 중', en: 'closed for now' },
   plannerNote: {
     ko: '어림 계산입니다. 관람 시간은 권장 시간의 중간값, 이동은 직선거리를 걷는 속도로 환산한 값(위치를 모르면 20분)이며 식사·휴식은 뺐습니다. 개장 시각과 공휴일 휴관은 반영하지 못하니 🎫 표시(예약 필수·권장)와 운영 시간은 직접 확인하세요.',
     en: 'An estimate. Visits use the middle of the suggested time; walks are straight-line distance at walking pace (20 min where a position is unknown); meals and breaks are not counted. Opening hours and holiday closures are not considered—check them, and book where marked 🎫 (booking required or advised).',

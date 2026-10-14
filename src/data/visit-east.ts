@@ -51,7 +51,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'bucharest-h5': v(15, 120, { n: '공연이 없는 시간에 내부 관람이 되는 날이 있습니다.|The interior can be visited on some days outside concert times.' }),
   'bucharest-h6': v(90, 120, { n: '국립 미술관으로 쓰이며 월·화요일에 쉽니다.|Houses the National Museum of Art, closed Mondays and Tuesdays.' }),
   // Brașov
-  'brasov-h1': v(30, 45, { s: 'https://bisericaneagra.ro/en/', n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.' }),
+  'brasov-h1': v(30, 45, { c: 'daily', s: 'https://bisericaneagra.ro/en/', n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.', k: '2026-10' }),
   'brasov-h2': v(20, 30),
   'brasov-h3': v(60, 90, { n: '케이블카는 월요일 오전에 점검으로 쉽니다.|The cable car is shut for maintenance on Monday mornings.' }),
   'brasov-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://bran-castle.com/', n: '브라쇼브에서 버스로 45분쯤 걸립니다.|About 45 minutes by bus from Brașov.', k: '2026-10' }),
@@ -166,7 +166,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sighnaghi-h5': v(15, 20),
 
   // Armenia
-  'yerevan-h1': v(60, 90, { s: 'https://www.cmf.am/en', n: '바깥 계단은 무료로 오르고, 안쪽 카페스지안 미술관은 월요일에 쉽니다.|The outdoor steps are free; the Cafesjian galleries inside close on Mondays.' }),
+  'yerevan-h1': v(60, 90, { c: 'daily', s: 'https://www.cmf.am/en', n: '바깥 계단은 무료로 오르고, 안쪽 카페스지안 미술관은 월요일에 쉽니다.|The outdoor steps are free; the Cafesjian galleries inside close on Mondays.', k: '2026-10' }),
   'yerevan-h2': v(20, 30, { n: '여름철 저녁에는 음악 분수 쇼가 열립니다.|A musical fountain show runs on summer evenings.' }),
   'yerevan-h3': v(60, 75, { c: 'sun,mon', s: 'https://matenadaran.am/en/matenadaran/home/', k: '2026-10' }),
   'gyumri-h1': v(20, 30),

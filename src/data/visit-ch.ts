@@ -9,7 +9,7 @@ const PASS = '스위스 트래블 패스 소지자는 할인됩니다.|Swiss Tra
 export const visitCh: Record<string, HighlightVisit> = {
   // Zurich
   'zurich-h1': v(30, 45),
-  'zurich-h2': v(30, 45, { b: 'no', s: 'https://www.grossmuenster.ch/en/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The church is free; only the tower climb is ticketed.' }),
+  'zurich-h2': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.grossmuenster.ch/en/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The church is free; only the tower climb is ticketed.', k: '2026-10' }),
   'zurich-h3': v(15, 20),
   'zurich-h4': v(60, 90, { s: 'https://www.zsg.ch/en', n: '유람선은 스위스 트래블 패스로 탈 수 있습니다.|Lake boats are covered by the Swiss Travel Pass.' }),
   'zurich-h5': v(120, 150, { c: 'mon', b: 'no', s: 'https://www.kunsthaus.ch/en/', k: '2026-10' }),
@@ -30,7 +30,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   // Bern
   'bern-h1': v(15, 20, { n: '매시 정각 4분 전부터 인형 시계가 움직입니다.|The figures start moving four minutes before each hour.' }),
   'bern-h2': v(60, 90),
-  'bern-h3': v(20, 30, { b: 'no', s: 'https://tierpark-bern.ch/baerenpark/', n: '입장은 무료이고 겨울에는 곰이 겨울잠을 잡니다.|Free; the bears hibernate in winter.' }),
+  'bern-h3': v(20, 30, { c: 'daily', b: 'no', s: 'https://tierpark-bern.ch/baerenpark/', n: '입장은 무료이고 겨울에는 곰이 겨울잠을 잡니다.|Free; the bears hibernate in winter.', k: '2026-10' }),
   'bern-h4': v(60, 60, { b: 'req', s: 'https://www.parlament.ch/en/services/visiting-the-parliament-building', n: '내부 투어는 무료이며 여권이 필요합니다. 의회 회기 중에는 투어가 없습니다.|Tours are free and need a passport. None run while parliament is in session.', k: '2026-10' }),
   'bern-h5': v(30, 60),
   'bern-h6': v(30, 45, { n: '성당은 무료이고 탑 전망대만 유료입니다.|The minster is free; only the tower climb is ticketed.' }),
@@ -50,7 +50,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'interlaken-h4': v(75, 90, { s: 'https://www.jungfrau.ch/en-gb/harder-kulm/', n: '푸니쿨라는 봄부터 늦가을까지만 다닙니다.|The funicular runs from spring to late autumn only.' }),
   'interlaken-h5': v(300, 360, { b: 'req', s: 'https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/', n: '5~10월에는 융프라우 철도 좌석 예약(유료)이 의무이고, 그 밖의 달에도 권장됩니다.|A paid seat reservation on the Jungfrau Railway is compulsory from May to October and recommended in other months.', k: '2026-10' }),
   // Basel
-  'basel-h1': v(30, 45, { b: 'no', s: 'https://www.baslermuenster.ch/' }),
+  'basel-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.baslermuenster.ch/', k: '2026-10' }),
   'basel-h2': v(120, 150, { c: 'mon', b: 'no', s: 'https://kunstmuseumbasel.ch/en/', k: '2026-10' }),
   'basel-h3': v(30, 45),
   'basel-h4': v(15, 20),
@@ -62,7 +62,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'zermatt-h4': v(60, 90, { n: '호수는 여름에만 얼음이 녹아 마터호른이 비칩니다.|The lake is ice-free—and mirrors the Matterhorn—only in summer.' }),
   'zermatt-h5': v(45, 60, { s: 'https://zermatt.swiss/en/discover-experience/tradition-culture/museum' }),
   // Lausanne
-  'lausanne-h1': v(30, 45, { b: 'no', s: 'https://www.cathedrale-lausanne.ch/', n: '성당은 무료이고 탑만 유료입니다.|The cathedral is free; only the tower is ticketed.' }),
+  'lausanne-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.cathedrale-lausanne.ch/', n: '성당은 무료이고 탑만 유료입니다.|The cathedral is free; only the tower is ticketed.', k: '2026-10' }),
   'lausanne-h2': v(45, 60),
   'lausanne-h3': v(90, 120, { n: '비수기에는 월요일에 쉽니다.|Closed on Mondays outside the summer season.' }),
   'lausanne-h4': v(30, 45),
@@ -83,7 +83,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'grindelwald-h1': v(20, 30),
   'grindelwald-h2': v(150, 240, { s: 'https://www.jungfrau.ch/en-gb/grindelwaldfirst/', n: LIFT }),
   'grindelwald-h3': v(120, 180, { s: 'https://www.maennlichen.ch/en/', n: LIFT }),
-  'grindelwald-h4': v(60, 90, { s: 'https://www.outdoor.ch/en/outdoor-experience/glacier-canyon-grindelwald', n: '봄부터 가을까지만 엽니다.|Open spring to autumn only.' }),
+  'grindelwald-h4': v(60, 90, { c: 'daily', s: 'https://www.outdoor.ch/en/outdoor-experience/glacier-canyon-grindelwald', n: '봄부터 가을까지만 엽니다. 5~11월에만 엽니다.|Open spring to autumn only. Open May to November only.', k: '2026-10' }),
   'grindelwald-h5': v(30, 45),
   // St. Moritz
   'st-moritz-h1': v(45, 60),

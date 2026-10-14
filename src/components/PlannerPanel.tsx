@@ -123,7 +123,12 @@ export function PlannerPanel({ city }: { city: City }) {
     setSaved(true)
     setConfirming(false)
   }
-  const reasons = { time: 'plannerLeftTime', closed: 'plannerLeftClosed', trip: 'plannerLeftTrip' } as const
+  const reasons = {
+    time: 'plannerLeftTime',
+    closed: 'plannerLeftClosed',
+    trip: 'plannerLeftTrip',
+    shut: 'plannerLeftShut',
+  } as const
 
   return (
     <section className="itinerary-panel planner" aria-label={t('plannerTitle', lang)}>

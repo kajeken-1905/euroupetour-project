@@ -86,7 +86,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Postojna
   'postojna-h1': v(90, 120, { c: 'daily', b: 'rec', s: POSTOJNA, n: '정해진 시간에 출발하는 투어로만 들어갑니다. 동굴 안은 1년 내내 10도쯤입니다.|Entered on tours at fixed times only. It is about 10°C inside all year.', k: '2026-10' }),
   'postojna-h2': v(60, 75, { c: 'daily', s: POSTOJNA, n: '동굴에서 9km 떨어져 있고 묶음권이 있습니다.|Nine kilometres from the cave, with combined tickets available.', k: '2026-10' }),
-  'postojna-h3': v(30, 40, { s: POSTOJNA }),
+  'postojna-h3': v(30, 40, { c: 'daily', s: POSTOJNA, k: '2026-10' }),
   'postojna-h4': v(30, 45),
   'postojna-h5': v(30, 45),
 
@@ -95,7 +95,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'sarajevo-h2': v(20, 30, { n: MOSQUE }),
   'sarajevo-h3': v(60, 75, { c: 'daily', s: 'https://www.mcsarajevo.ba/tunel-spasa', n: '공항 근처에 있어 시내에서 택시로 20~30분 걸립니다. 4~10월 8:30~17:00, 11~3월 9:00~16:00에 열고 마지막 입장은 닫기 30분 전입니다.|Near the airport, 20–30 minutes by taxi from the centre. Open 8:30–17:00 April–October and 9:00–16:00 November–March; last entry 30 minutes before closing.', k: '2026-10' }),
   'sarajevo-h4': v(10, 15),
-  'sarajevo-h5': v(60, 90, { s: 'https://zicara.ba/' }),
+  'sarajevo-h5': v(60, 90, { c: 'mon,tue,wed', s: 'https://zicara.ba/', n: '공식 안내 기준 월~수요일은 운행하지 않습니다. 계절에 따라 바뀔 수 있으니 확인하세요.|Per the official notice it does not run Monday to Wednesday; this can change with the season.', k: '2026-10' }),
   // Mostar
   'mostar-h1': v(20, 30, { b: 'no', n: '다리는 무료이고 돌바닥이 미끄럽습니다.|The bridge is free; its stones are slippery.' }),
   'mostar-h2': v(30, 45),

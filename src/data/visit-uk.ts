@@ -47,10 +47,10 @@ export const visitUk: Record<string, HighlightVisit> = {
   'canterbury-h4': v(45, 60),
   // Brighton
   'brighton-h1': v(75, 90, { c: 'daily', s: 'https://brightonmuseums.org.uk/visit/royal-pavilion-garden/', k: '2026-10' }),
-  'brighton-h2': v(45, 60, { b: 'no', s: 'https://www.brightonpier.co.uk/' }),
+  'brighton-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.brightonpier.co.uk/', k: '2026-10' }),
   'brighton-h3': v(30, 45),
   'brighton-h4': v(30, 60),
-  'brighton-h5': v(30, 45, { s: 'https://www.brightoni360.co.uk/' }),
+  'brighton-h5': v(30, 45, { c: 'daily', s: 'https://www.brightoni360.co.uk/', k: '2026-10' }),
   'brighton-h6': v(30, 45),
   // Oxford
   'oxford-h1': v(60, 90, { b: 'req', s: 'https://www.chch.ox.ac.uk/visit', n: '표는 온라인 사전 예매가 원칙이고, 다음 주 표가 매주 금요일에 풀립니다. 학교 행사로 대식당이나 성당이 닫히는 시간이 있습니다.|Tickets must be booked online in advance; each Friday the following week goes on sale. The hall or cathedral can close for college events.', k: '2026-10' }),
@@ -58,17 +58,17 @@ export const visitUk: Record<string, HighlightVisit> = {
   'oxford-h3': v(10, 15),
   'oxford-h4': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.ashmolean.org/', n: FREE, k: '2026-10' }),
   'oxford-h5': v(30, 45),
-  'oxford-h6': v(45, 60, { s: 'https://www.obga.ox.ac.uk/' }),
+  'oxford-h6': v(45, 60, { c: 'daily', s: 'https://www.obga.ox.ac.uk/', k: '2026-10' }),
   // Cotswolds
   'cotswolds-h1': v(60, 90),
   'cotswolds-h2': v(30, 45),
   'cotswolds-h3': v(30, 45),
   'cotswolds-h4': v(45, 60),
-  'cotswolds-h5': v(45, 60, { s: 'https://broadwaytower.co.uk/' }),
+  'cotswolds-h5': v(45, 60, { c: 'daily', s: 'https://broadwaytower.co.uk/', k: '2026-10' }),
   // Stratford-upon-Avon
-  'stratford-upon-avon-h1': v(60, 75, { s: SBT }),
-  'stratford-upon-avon-h2': v(60, 75, { s: SBT }),
-  'stratford-upon-avon-h3': v(30, 180, { s: 'https://www.rsc.org.uk/', n: '공연 관람은 예매가 필요합니다.|Performances need advance tickets.' }),
+  'stratford-upon-avon-h1': v(60, 75, { c: 'daily', s: SBT, k: '2026-10' }),
+  'stratford-upon-avon-h2': v(60, 75, { c: 'daily', s: SBT, k: '2026-10' }),
+  'stratford-upon-avon-h3': v(30, 180, { c: 'daily', s: 'https://www.rsc.org.uk/', n: '공연 관람은 예매가 필요합니다.|Performances need advance tickets.', k: '2026-10' }),
   'stratford-upon-avon-h4': v(20, 30),
   // Cambridge
   'cambridge-h1': v(45, 60, { b: 'rec', s: 'https://www.kings.cam.ac.uk/visit-kings', n: '학기 중에는 개방 시간이 짧고 행사로 닫는 날이 있습니다.|Hours are shorter in term time and it closes for some events.', k: '2026-10' }),
@@ -80,12 +80,12 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Bath
   'bath-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.romanbaths.co.uk/', k: '2026-10' }),
   'bath-h2': v(20, 30),
-  'bath-h3': v(30, 45, { s: 'https://www.bathabbey.org/' }),
+  'bath-h3': v(30, 45, { c: 'daily', s: 'https://www.bathabbey.org/', k: '2026-10' }),
   'bath-h4': v(60, 90, { b: 'rec', s: 'https://thepumproombath.co.uk/', n: '애프터눈 티는 12시·14시(시기에 따라 16시) 회차로 운영하고 온라인 예약은 6명까지 됩니다. 온천수 시음대는 보수 중이라 마실 수 없습니다.|Afternoon tea is served in sittings at 12 and 2 pm (4 pm at some times of year); online booking takes up to six guests. The spa-water fountain is closed for maintenance.', k: '2026-10' }),
   'bath-h5': v(60, 90, { s: 'https://www.nationaltrust.org.uk/visit/bath-bristol/prior-park-landscape-garden' }),
   'bath-h6': v(10, 15),
   // Bristol
-  'bristol-h1': v(30, 45, { b: 'no', s: 'https://cliftonbridge.org.uk/' }),
+  'bristol-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://cliftonbridge.org.uk/', k: '2026-10' }),
   'bristol-h2': v(45, 60),
   'bristol-h3': v(60, 90),
   'bristol-h4': v(20, 30),
@@ -98,7 +98,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'salisbury-h4': v(60, 90, { b: 'no', n: '거석은 무료로 자유롭게 볼 수 있습니다.|The stones are free to walk among.' }),
   // St Ives
   'st-ives-h1': v(30, 45),
-  'st-ives-h2': v(60, 90, { s: 'https://www.tate.org.uk/visit/tate-st-ives' }),
+  'st-ives-h2': v(60, 90, { c: 'daily', s: 'https://www.tate.org.uk/visit/tate-st-ives', k: '2026-10' }),
   'st-ives-h3': v(45, 90),
   'st-ives-h4': v(120, 180, { c: 'sat', b: 'req', s: 'https://stmichaelsmount.co.uk/', n: '성은 토요일마다 쉽니다(정원은 여름 평일에만 엽니다). 썰물 때는 둑길을 걸어서, 밀물 때는 배로 건넙니다.|The castle is closed every Saturday (the garden opens on summer weekdays only). Walk the causeway at low tide; take the boat at high tide.', k: '2026-10' }),
   'st-ives-h5': v(45, 60),
@@ -108,22 +108,22 @@ export const visitUk: Record<string, HighlightVisit> = {
   'manchester-h3': v(90, 120, { b: 'rec', s: 'https://www.manutd.com/en/club/visit-old-trafford/museum-stadium-tours', n: '홈 경기일에는 투어가 없습니다. 온라인으로 미리 사면 현장보다 쌉니다.|No tours on home matchdays. Booking online is cheaper than buying at the door.', k: '2026-10' }),
   'manchester-h4': v(30, 45),
   'manchester-h5': v(20, 30),
-  'manchester-h6': v(45, 60, { b: 'no', s: 'https://www.library.manchester.ac.uk/rylands/', n: FREE }),
+  'manchester-h6': v(45, 60, { c: 'mon,tue', b: 'no', s: 'https://www.library.manchester.ac.uk/rylands/', n: FREE, k: '2026-10' }),
   'manchester-h7': v(45, 60),
   // Liverpool
   'liverpool-h1': v(60, 90),
   'liverpool-h2': v(90, 120, { c: 'daily', b: 'req', s: 'https://www.beatlesstory.com/', n: '시간 지정 표를 온라인으로 미리 사야 합니다(현장 무인 판매기로는 다음 빈 시간대를 삽니다). 12월 25·26일은 쉽니다.|Timed tickets must be bought online beforehand (kiosks at the door sell the next free slot). Closed 25–26 December.', k: '2026-10' }),
   'liverpool-h3': v(45, 60, { c: 'daily', b: 'no', s: 'https://liverpoolcathedral.org.uk/', n: '입장은 무료이고 탑 전망대만 유료입니다.|Free; only the tower climb is ticketed.', k: '2026-10' }),
-  'liverpool-h4': v(0, 0, { s: 'https://www.liverpoolmuseums.org.uk/maritime-museum', n: '2025년 1월부터 재개발 공사로 휴관 중이며 2028년 재개관이 목표입니다.|Closed for redevelopment since January 2025, with reopening targeted for 2028.' }),
+  'liverpool-h4': v(0, 0, { s: 'https://www.liverpoolmuseums.org.uk/maritime-museum', n: '2025년 1월부터 재개발 공사로 휴관 중이며 2028년 재개관이 목표입니다.|Closed for redevelopment since January 2025, with reopening targeted for 2028.', z: true }),
   'liverpool-h5': v(45, 90),
   'liverpool-h6': v(15, 150, { n: '공연 관람은 예매가 필요합니다.|Concerts need advance tickets.' }),
   // York
   'york-h1': v(75, 120, { c: 'daily', s: 'https://yorkminster.org/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.', k: '2026-10' }),
   'york-h2': v(20, 30),
   'york-h3': v(90, 120, { b: 'no', n: FREE }),
-  'york-h4': v(30, 45, { s: 'https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/' }),
-  'york-h5': v(60, 90, { s: 'https://www.yorkshiremuseum.org.uk/' }),
-  'york-h6': v(120, 180, { b: 'no', s: 'https://www.railwaymuseum.org.uk/', n: FREE }),
+  'york-h4': v(30, 45, { c: 'daily', s: 'https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/', k: '2026-10' }),
+  'york-h5': v(60, 90, { c: 'mon', s: 'https://www.yorkshiremuseum.org.uk/', k: '2026-10' }),
+  'york-h6': v(120, 180, { c: 'daily', b: 'no', s: 'https://www.railwaymuseum.org.uk/', n: FREE, k: '2026-10' }),
   // Lake District
   'lake-district-h1': v(90, 180),
   'lake-district-h2': v(60, 90),
@@ -148,7 +148,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'stirling-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/stirling-castle/', k: '2026-10' }),
   'stirling-h2': v(60, 90, { s: 'https://www.nationalwallacemonument.com/', n: '탑 꼭대기까지 계단 246개를 오릅니다.|The top is reached by 246 steps.' }),
   'stirling-h3': v(15, 20),
-  'stirling-h4': v(45, 60, { b: 'no', s: 'https://www.thehelix.co.uk/', n: '조형물은 무료로 볼 수 있습니다.|The sculptures are free to see.' }),
+  'stirling-h4': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.thehelix.co.uk/', n: '조형물은 무료로 볼 수 있습니다.|The sculptures are free to see.', k: '2026-10' }),
   // St Andrews
   'st-andrews-h1': v(30, 45, { s: 'https://www.standrews.com/', n: '일요일에는 경기가 없어 코스를 걸을 수 있습니다.|No golf is played on Sundays, when you can walk the course.' }),
   'st-andrews-h2': v(45, 60, { s: 'https://www.historicenvironment.scot/visit/all/st-andrews-cathedral/' }),
@@ -171,7 +171,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'cardiff-h2': v(60, 90),
   'cardiff-h3': v(60, 75, { b: 'req', s: 'https://www.principalitystadium.wales/tours/', n: '경기와 행사 일정에 따라 투어가 없는 날이 있습니다.|No tours on some match and event days.', k: '2026-10' }),
   'cardiff-h4': v(60, 75, { s: 'https://cadw.gov.wales/visit/places-to-visit/castell-coch' }),
-  'cardiff-h5': v(150, 210, { b: 'no', s: 'https://museum.wales/stfagans/', n: FREE }),
+  'cardiff-h5': v(150, 210, { c: 'daily', b: 'no', s: 'https://museum.wales/stfagans/', n: FREE, k: '2026-10' }),
   // Tenby
   'tenby-h1': v(30, 45),
   'tenby-h2': v(45, 90),
@@ -190,7 +190,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'conwy-h4': v(45, 60, { s: 'https://cadw.gov.wales/visit/places-to-visit/plas-mawr', n: '봄부터 가을까지만 엽니다.|Open spring to autumn only.' }),
   // Belfast
   'belfast-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.titanicbelfast.com/', k: '2026-10' }),
-  'belfast-h2': v(30, 60, { b: 'no', s: 'https://www.belfastcity.gov.uk/things-to-do/city-hall', n: FREE }),
+  'belfast-h2': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.belfastcity.gov.uk/things-to-do/city-hall', n: FREE, k: '2026-10' }),
   'belfast-h3': v(60, 90),
   'belfast-h4': v(45, 60, { c: 'mon,tue,wed,thu', n: '금·토·일요일에만 열립니다.|Open Friday to Sunday only.', k: '2026-10' }),
   // Giant's Causeway
@@ -225,18 +225,18 @@ export const visitUk: Record<string, HighlightVisit> = {
   'cork-h5': v(120, 180, { c: 'daily', s: 'https://blarneycastle.ie/', k: '2026-10' }),
   // Killarney
   'killarney-h1': v(180, 300),
-  'killarney-h2': v(60, 90, { s: 'https://muckross-house.ie/' }),
-  'killarney-h3': v(45, 60, { s: 'https://heritageireland.ie/places-to-visit/ross-castle/', n: '성 내부는 봄부터 가을까지만 가이드 투어로 공개합니다.|The interior opens spring to autumn only, by guided tour.' }),
+  'killarney-h2': v(60, 90, { s: 'https://muckross-house.ie/', n: '11~2월에는 휴관하고, 봄·가을에는 주말에만 엽니다(5~9월은 매일).|Closed November–February; weekends only in spring and autumn, daily May–September.', k: '2026-10' }),
+  'killarney-h3': v(45, 60, { c: 'daily', s: 'https://heritageireland.ie/places-to-visit/ross-castle/', n: '성 내부는 봄부터 가을까지만 가이드 투어로 공개합니다. 3월 초~11월 초에만 엽니다(2026년 3월 5일~11월 3일).|The interior opens spring to autumn only, by guided tour. Open early March to early November only (5 March–3 November in 2026).', k: '2026-10' }),
   'killarney-h4': v(360, 480),
   'killarney-h5': v(30, 45),
   // Kilkenny
   'kilkenny-h1': v(60, 90, { c: 'daily', s: 'https://heritageireland.ie/places-to-visit/kilkenny-castle/', k: '2026-10', x: [['2026년 11월 2~5일은 촬영으로 휴관합니다.|Closed 2–5 November 2026 for filming.', '2026-11-05']] }),
   'kilkenny-h2': v(45, 60),
-  'kilkenny-h3': v(30, 45, { s: 'https://www.stcanicescathedral.ie/' }),
-  'kilkenny-h4': v(0, 0, { n: '2020년에 문을 닫은 뒤 영구 폐관했습니다. 지금은 방문할 수 없습니다.|Shut in 2020 and since closed permanently—it can no longer be visited.' }),
+  'kilkenny-h3': v(30, 45, { c: 'sun', s: 'https://www.stcanicescathedral.ie/', n: '5~9월에는 일요일 오후에도 엽니다.|From May to September it also opens on Sunday afternoons.', k: '2026-10' }),
+  'kilkenny-h4': v(0, 0, { n: '2020년에 문을 닫은 뒤 영구 폐관했습니다. 지금은 방문할 수 없습니다.|Shut in 2020 and since closed permanently—it can no longer be visited.', z: true }),
   'kilkenny-h5': v(30, 45),
   // Limerick
-  'limerick-h1': v(75, 90, { s: 'https://kingjohnscastle.ie/' }),
+  'limerick-h1': v(75, 90, { c: 'daily', s: 'https://kingjohnscastle.ie/', k: '2026-10' }),
   'limerick-h2': v(10, 15),
   'limerick-h3': v(60, 75, { s: 'https://www.huntmuseum.com/' }),
   'limerick-h4': v(30, 45),

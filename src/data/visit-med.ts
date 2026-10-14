@@ -159,7 +159,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'parnu-h5': v(20, 30),
   // Latvia
   'riga-h1': v(120, 180),
-  'riga-h2': v(40, 45, { s: 'https://www.melngalvjunams.lv/en/', n: '행사가 있는 날은 관람이 제한됩니다.|Visits are restricted on event days.' }),
+  'riga-h2': v(40, 45, { c: 'daily', s: 'https://www.melngalvjunams.lv/en/', n: '행사가 있는 날은 관람이 제한됩니다.|Visits are restricted on event days.', k: '2026-10' }),
   'riga-h3': v(60, 90),
   'riga-h4': v(45, 60, { c: 'daily', b: 'no', n: '매달 첫 월요일은 청소일이라 실내 시장이 일찍 닫거나 쉽니다.|On the first Monday of each month the pavilions close early or stay shut for cleaning.', k: '2026-10' }),
   'riga-h5': v(10, 15),
@@ -182,7 +182,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'kaunas-h1': v(60, 90),
   'kaunas-h2': v(30, 45),
   'kaunas-h3': v(30, 40),
-  'kaunas-h4': v(90, 120, { s: 'https://www.9fortomuziejus.lt/en/home/?lang=en' }),
+  'kaunas-h4': v(90, 120, { c: 'mon', s: 'https://www.9fortomuziejus.lt/en/home/?lang=en', k: '2026-10' }),
   'kaunas-h5': v(45, 60),
   'klaipeda-h1': v(45, 60),
   'klaipeda-h2': v(10, 15),

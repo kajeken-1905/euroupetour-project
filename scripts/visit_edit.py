@@ -13,7 +13,7 @@ import re
 import sys
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'src', 'data')
-ORDER = ['c', 'b', 's', 't', 'n', 'k']
+ORDER = ['c', 'b', 's', 't', 'n', 'k', 'z']
 
 
 def apply(line, edit):
@@ -24,7 +24,7 @@ def apply(line, edit):
     m = re.match(r"(\s*'[a-z0-9-]+': v\(\d+, \d+)(?:, \{ (.*) \})?(\),?\s*)$", line)
     if not m:
         raise SystemExit('cannot parse: ' + line[:80])
-    fields = dict(re.findall(r"(\w+): ('(?:[^'\\]|\\.)*'|[A-Z_]+)", m.group(2) or ''))
+    fields = dict(re.findall(r"(\w+): ('(?:[^'\\]|\\.)*'|[A-Z_]+|true)", m.group(2) or ''))
     for key in ('c', 'b', 'n'):
         if key in edit:
             if edit[key] is None:

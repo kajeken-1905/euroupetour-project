@@ -16,7 +16,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'copenhagen-h6': v(90, 120, { n: '탑 전망대는 무료이고 왕실 접견실 등은 유료입니다. 겨울에는 월요일에 쉽니다.|The tower is free; the royal reception rooms are ticketed. Closed on Mondays in winter.' }),
   'copenhagen-h7': v(30, 45, { c: 'daily', s: 'https://www.rundetaarn.dk/en/front-page/', k: '2026-10' }),
   // Aarhus
-  'aarhus-h1': v(120, 150, { s: 'https://www.aros.dk/en/' }),
+  'aarhus-h1': v(120, 150, { c: 'daily', s: 'https://www.aros.dk/en/', k: '2026-10' }),
   'aarhus-h2': v(150, 180, { c: 'daily', s: 'https://www.dengamleby.dk/en/', k: '2026-10' }),
   'aarhus-h3': v(45, 60),
   'aarhus-h4': v(20, 30, { b: 'no', n: FREE }),
@@ -33,12 +33,12 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'aalborg-h4': v(15, 20),
   // Roskilde
   'roskilde-h1': v(120, 150, { c: 'daily', s: 'https://www.vikingeskibsmuseet.dk/en/', k: '2026-10' }),
-  'roskilde-h2': v(45, 60, { s: 'https://roskildedomkirke.dk/english', n: '예배·장례가 있으면 관광 입장이 중단됩니다.|Sightseeing stops during services and funerals.' }),
+  'roskilde-h2': v(45, 60, { c: 'daily', s: 'https://roskildedomkirke.dk/english', n: '예배·장례가 있으면 관광 입장이 중단됩니다.|Sightseeing stops during services and funerals.', k: '2026-10' }),
   'roskilde-h3': v(30, 45),
   'roskilde-h4': v(15, 20),
 
   // Stockholm
-  'stockholm-h1': v(90, 120, { s: 'https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html', n: '국가 행사가 있으면 일부 또는 전체를 닫습니다. 근위병 교대식은 낮에 바깥뜰에서 열립니다.|Partly or fully closed for state occasions. The guard changes in the outer courtyard around midday.' }),
+  'stockholm-h1': v(90, 120, { c: 'daily', s: 'https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html', n: '국가 행사가 있으면 일부 또는 전체를 닫습니다. 근위병 교대식은 낮에 바깥뜰에서 열립니다. 왕실 공식 행사가 있는 날에는 일부 또는 전부를 닫습니다.|Partly or fully closed for state occasions. The guard changes in the outer courtyard around midday. Parts or all of it close for official royal events.', k: '2026-10' }),
   'stockholm-h2': v(90, 120),
   'stockholm-h3': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.vasamuseet.se/en', k: '2026-10' }),
   'stockholm-h4': v(75, 90, { c: 'daily', s: 'https://stockholm.fotografiska.com/en', k: '2026-10' }),
@@ -82,8 +82,8 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'turku-h1': v(90, 120),
   'turku-h2': v(20, 30, { b: 'no', n: FREE }),
   'turku-h3': v(45, 60),
-  'turku-h4': v(60, 75, { s: 'https://luostarinmaki.fi/en/home-page/' }),
-  'turku-h5': v(90, 120, { s: 'https://www.forum-marinum.fi/en/', n: '박물관선은 여름에만 공개합니다.|The museum ships open in summer only.' }),
+  'turku-h4': v(60, 75, { c: 'mon', s: 'https://luostarinmaki.fi/en/home-page/', k: '2026-10' }),
+  'turku-h5': v(90, 120, { c: 'mon', s: 'https://www.forum-marinum.fi/en/', n: '박물관선은 여름에만 공개합니다.|The museum ships open in summer only.', k: '2026-10' }),
   // Tampere
   'tampere-h1': v(30, 45),
   'tampere-h2': v(60, 75, { c: 'mon', s: 'https://www.muumimuseo.fi/en/', k: '2026-10' }),
@@ -93,7 +93,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Rovaniemi
   'rovaniemi-h1': v(120, 180, { c: 'daily', b: 'no', s: 'https://santaclausvillage.info/', n: '마을 입장과 산타 만남은 무료이고 사진은 유료입니다.|Entry and meeting Santa are free; the photo is paid.', k: '2026-10' }),
   'rovaniemi-h2': v(10, 15),
-  'rovaniemi-h3': v(90, 120, { s: 'https://arktikum.fi/en/' }),
+  'rovaniemi-h3': v(90, 120, { c: 'mon', s: 'https://arktikum.fi/en/', n: '3~11월 기준입니다.|As listed for March to November.', k: '2026-10' }),
   'rovaniemi-h4': v(90, 150),
   // Porvoo
   'porvoo-h1': v(60, 90),
@@ -106,18 +106,18 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'oslo-h2': v(30, 45, { b: 'no', s: 'https://www.operaen.no/en/', n: '지붕 위는 무료로 걸어 올라갑니다.|Walking up onto the roof is free.' }),
   'oslo-h3': v(60, 90, { c: 'daily', b: 'no', s: 'https://vigeland.museum.no/en', n: '공원은 24시간 무료입니다.|The park is free and open round the clock.', k: '2026-10' }),
   'oslo-h4': v(45, 60),
-  'oslo-h5': v(0, 0, { s: 'https://www.vikingtidsmuseet.no/english/', n: '바이킹 시대 박물관으로 증축하는 공사로 휴관 중이며 2027년 재개관 예정입니다.|Closed while it is rebuilt as the Museum of the Viking Age, due to open in 2027.' }),
+  'oslo-h5': v(0, 0, { s: 'https://www.vikingtidsmuseet.no/english/', n: '바이킹 시대 박물관으로 증축하는 공사로 휴관 중이며 2027년 재개관 예정입니다.|Closed while it is rebuilt as the Museum of the Viking Age, due to open in 2027.', z: true }),
   'oslo-h6': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.munch.no/en/', k: '2026-10' }),
-  'oslo-h7': v(60, 90, { s: 'https://holmenkollen.com/en/' }),
+  'oslo-h7': v(60, 90, { c: 'daily', s: 'https://holmenkollen.com/en/', k: '2026-10' }),
   // Bergen
   'bergen-h1': v(45, 60),
   'bergen-h2': v(90, 120, { c: 'daily', s: 'https://www.floyen.no/en', n: '푸니쿨라로 6분쯤 오릅니다.|About six minutes up by funicular.', k: '2026-10', x: [['2026년 11월 2~5일은 연례 점검으로 운휴합니다.|Closed 2–5 November 2026 for annual maintenance.', '2026-11-05']] }),
   'bergen-h3': v(30, 45),
-  'bergen-h4': v(75, 90, { s: 'https://www.kodebergen.no/en/museums/troldhaugen' }),
+  'bergen-h4': v(75, 90, { c: 'mon', s: 'https://www.kodebergen.no/en/museums/troldhaugen', n: '5월 초~9월 중순에 화~일요일 열고, 그 밖의 기간에는 행사·공연 때만 엽니다.|Open Tuesday to Sunday from early May to mid-September; otherwise only for events and concerts.', k: '2026-10' }),
   'bergen-h5': v(90, 120, { s: KODE, n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.' }),
-  'bergen-h6': v(90, 120, { s: 'https://ulriken643.no/en/', n: '강풍이 불면 케이블카가 서니 당일 운행 여부를 확인하세요.|The cable car stops in high winds—check on the day.' }),
+  'bergen-h6': v(90, 120, { c: 'daily', s: 'https://ulriken643.no/en/', n: '강풍이 불면 케이블카가 서니 당일 운행 여부를 확인하세요. 4~9월 기준입니다.|The cable car stops in high winds—check on the day. As listed for April to September.', k: '2026-10' }),
   // Tromsø
-  'tromso-h1': v(20, 30, { s: 'https://ishavskatedralen.no/en/' }),
+  'tromso-h1': v(20, 30, { c: 'daily', s: 'https://ishavskatedralen.no/en/', k: '2026-10' }),
   'tromso-h2': v(60, 90, { c: 'daily', s: 'https://www.fjellheisen.no/', n: '강풍이 불면 운휴합니다.|Stops in high winds.', k: '2026-10' }),
   'tromso-h3': v(180, 300, { s: 'https://www.visittromso.no/boat-tours-tromso', b: 'rec', n: '여러 업체가 연중 운항하고 출발 시각은 계절마다 다릅니다. 겨울 오로라 크루즈는 몇 주 전에 매진되기도 하고 날씨에 따라 취소됩니다.|Several operators sail all year, with departure times changing by season. Winter aurora cruises can sell out weeks ahead and are weather-dependent.', k: '2026-10' }),
   'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/en/', k: '2026-10' }),
@@ -147,7 +147,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
 
   // Reykjavík
   'reykjavik-h1': v(30, 45, { c: 'daily', n: '교회는 무료이고 탑 전망대만 유료입니다. 일요일 오전 예배(11시 전후) 동안에는 탑을 닫습니다.|The church is free; only the tower is ticketed, and it closes during the Sunday morning service (around 11:00).', k: '2026-10' }),
-  'reykjavik-h2': v(30, 45, { b: 'no', s: 'https://www.harpa.is/en', n: '로비는 무료로 들어갑니다.|The foyer is free to enter.' }),
+  'reykjavik-h2': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.harpa.is/en', n: '로비는 무료로 들어갑니다.|The foyer is free to enter.', k: '2026-10' }),
   'reykjavik-h3': v(10, 15),
   'reykjavik-h4': v(30, 45),
   'reykjavik-h5': v(180, 240, { c: 'daily', b: 'req', s: 'https://www.bluelagoon.com/', n: '시간 지정 예약제입니다. 2023년 말부터 인근 화산 분화로 여러 차례 임시 휴장했으니 당일 운영 여부를 확인하세요.|Timed booking only. Since late 2023 nearby eruptions have forced several temporary closures—check on the day.', k: '2026-10' }),
@@ -166,7 +166,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Húsavík
   'husavik-h1': v(180, 180, { b: 'rec', n: '업체에 따라 대략 3~11월에 매일 출항하고 날씨가 나쁘면 취소됩니다. 대개 출발 24시간 전까지 무료로 취소할 수 있습니다.|Depending on the operator, trips run daily from about March to November and are cancelled in bad weather. Free cancellation is usually possible up to 24 hours ahead.', k: '2026-10' }),
   'husavik-h2': v(10, 15),
-  'husavik-h3': v(45, 60, { s: 'https://www.hvalasafn.is/en/' }),
+  'husavik-h3': v(45, 60, { c: 'daily', s: 'https://www.hvalasafn.is/en/', k: '2026-10' }),
   'husavik-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.geosea.is/', k: '2026-10' }),
   'husavik-h5': v(120, 180),
   // Selfoss (Golden Circle)

@@ -31,7 +31,7 @@ export interface PlannedDay {
 export interface PlannerResult {
   days: PlannedDay[]
   /** Highlights that did not make it, in the city's own order. */
-  left: { id: string; reason: 'time' | 'closed' | 'trip' }[]
+  left: { id: string; reason: 'time' | 'closed' | 'trip' | 'shut' }[]
 }
 
 /** Walk assumed between two stops when either has no pin. */
@@ -79,7 +79,10 @@ export function buildPlan(input: PlannerInput): PlannerResult {
 
   const route = suggested.flatMap((d) => d.stops)
   const group = new Map(suggested.flatMap((d, i) => d.stops.map((id) => [id, i] as const)))
-  const tripDays = suggested.filter((d) => d.trip && d.stops.length > 0)
+  const tripDays = suggested
+    .filter((d) => d.trip)
+    .map((d) => ({ ...d, stops: d.stops.filter((id) => !getHighlightVisit(id)?.shut) }))
+    .filter((d) => d.stops.length > 0)
   const outOfTown = new Set(tripDays.flatMap((d) => d.stops))
   const plan: (PlannedDay | undefined)[] = Array.from({ length: days }, () => undefined)
 
@@ -106,9 +109,11 @@ export function buildPlan(input: PlannerInput): PlannerResult {
     .sort((a, b) => number(a) - number(b))
   const ranked = [...inTown.filter((id) => favourites.has(id)), ...inTown.filter((id) => !favourites.has(id))]
   const rank = new Map(ranked.map((id, i) => [id, i]))
-  const reason = new Map<string, 'time' | 'closed' | 'trip'>()
+  const reason = new Map<string, 'time' | 'closed' | 'trip' | 'shut'>()
+  // Places shut for a long time (renovation, closed for good) are never planned.
+  for (const h of city.highlights) if (getHighlightVisit(h.id)?.shut) reason.set(h.id, 'shut')
   for (const id of ranked)
-    if (townDays.every((day) => closedOn(id, day))) reason.set(id, townDays.length > 0 ? 'closed' : 'time')
+    if (!reason.has(id) && townDays.every((day) => closedOn(id, day))) reason.set(id, townDays.length > 0 ? 'closed' : 'time')
 
   const apart = (a: string, b: string) =>
     geo[a] && geo[b] ? km(geo[a], geo[b]) : group.has(a) && group.get(a) === group.get(b) ? SAME_GROUP : OTHER_GROUP
@@ -266,7 +271,7 @@ export function buildPlan(input: PlannerInput): PlannerResult {
     plan[day] = { stops: walked, minutes: dayLength(walked, geo) }
   }
 
-  for (const id of outOfTown) if (!plan.some((d) => d?.stops.includes(id))) reason.set(id, 'trip')
+  for (const id of outOfTown) if (!reason.has(id) && !plan.some((d) => d?.stops.includes(id))) reason.set(id, 'trip')
   return {
     days: plan.map((d) => d ?? { stops: [], minutes: 0 }),
     left: city.highlights.flatMap((h) => (reason.has(h.id) ? [{ id: h.id, reason: reason.get(h.id)! }] : [])),
