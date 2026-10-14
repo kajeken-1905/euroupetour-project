@@ -3,23 +3,31 @@
 A highlight gets a pin when an OpenStreetMap hit (Photon in geo.json, Nominatim in geo-nom.json)
 and the coordinates Wikipedia/Wikidata give for that same place (geo-wiki.json, geo-wd.json) lie
 within LIMIT metres of each other; the pin uses the OpenStreetMap position. Everything else is
-left without a pin. geo-manual.json can add hand-checked entries.
+left without a pin. A highlight with no such match can still get one from geo-near.json: a Wikidata item
+within NEAR metres of the hit whose label passes the looser names.near_place. A large place whose two points lie apart is pinned
+when the reference point falls inside the extent in geo-bbox.json. geo-manual.json overrides (null removes a pin).
 
 Usage: python3 scripts/itinerary/geo_verify.py [--report]
 """
 import json, math, os, sys, urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from names import plain, same_place
+from names import near_place, plain, same_place
 
 S = os.path.dirname(os.path.abspath(__file__))
 LIMIT = 300
+SPAN = 5000  # geo_bbox.py: largest extent (diagonal, metres) taken as one place
+NEAR = 100  # geo_near.py: looser name rule, so the two points must almost coincide
 osm = json.load(open(S + '/geo.json'))
 wiki = json.load(open(S + '/geo-wiki.json'))
 nom_p = S + '/geo-nom.json'
 nom = json.load(open(nom_p)) if os.path.exists(nom_p) else {}
 wd_p = S + '/geo-wd.json'
 wd = json.load(open(wd_p)) if os.path.exists(wd_p) else {}  # already matched by name in geo_wikidata.py
+bbox_p = S + '/geo-bbox.json'
+bbox = json.load(open(bbox_p)) if os.path.exists(bbox_p) else {}
+near_p = S + '/geo-near.json'
+near = json.load(open(near_p)) if os.path.exists(near_p) else {}
 manual_p = S + '/geo-manual.json'
 manual = json.load(open(manual_p)) if os.path.exists(manual_p) else {}
 cities = json.load(open(S + '/cities.json'))
@@ -47,8 +55,15 @@ for c in cities:
         b = wiki.get(i)
         refs = [r for r in ([b] if b else []) + list(wd.get(i) or []) if any(same_place(n, r[2], c['en']) for n in names(h))]
         cands = ([osm[i]] if osm.get(i) else []) + [x[:2] for x in nom.get(i) or []]
+        beside = [(dist(x[0], x[1], r[0], r[1]), x, r[2]) for x in cands for r in near.get(i) or []
+                  if any(near_place(n, r[2], c['en']) for n in names(h))]
+        beside = [p for p in beside if p[0] <= NEAR and dist(c['lat'], c['lng'], p[1][0], p[1][1]) <= 30000]
         if not cands:
             rows.append((i, 'no-osm', '', h['en']))
+        elif not refs and beside:
+            m, a, title = min(beside)
+            out[i] = a
+            rows.append((i, 'near', f'{m:.0f}m {title}', h['en']))
         elif not refs:
             rows.append((i, 'other-article' if b or wd.get(i) else 'no-wiki', '', h['en']))
         else:
@@ -62,8 +77,18 @@ for c in cities:
                 out[i] = a
                 rows.append((i, 'ok', f'{m:.0f}m {title}', h['en']))
             else:
+                # A large place: the reference point lies inside the extent OpenStreetMap gives for the hit.
+                # The pin is the reference point here: the centre of a long street or aqueduct can be far from anything.
+                inside = [(dist(x[2], x[4], x[3], x[5]), r[:2], r[2]) for x in bbox.get(i) or [] for r in refs
+                          if x[2] <= r[0] <= x[3] and x[4] <= r[1] <= x[5]]
+                inside = [p for p in inside if p[0] <= SPAN and dist(c['lat'], c['lng'], p[1][0], p[1][1]) <= (5000 if local else 30000)]
                 m, a, title = min(pairs)
-                rows.append((i, 'apart', f'{m:.0f}m {title}', h['en']))
+                if inside:
+                    m, a, title = min(inside)
+                    out[i] = a
+                    rows.append((i, 'inside', f'{m:.0f}m wide {title}', h['en']))
+                else:
+                    rows.append((i, 'apart', f'{m:.0f}m {title}', h['en']))
 
 body = ''.join(f"  '{k}': [{v[0]}, {v[1]}],\n" for k, v in out.items())
 open(S + '/../../src/data/geo.ts', 'w').write(

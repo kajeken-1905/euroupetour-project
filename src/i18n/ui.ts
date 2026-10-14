@@ -235,8 +235,8 @@ export const ui = {
   },
   cityMapMissing: { ko: '위치를 확인하지 못해 지도에 없는 곳 {n}곳', en: '{n} not on the map (position unconfirmed)' },
   cityMapNote: {
-    ko: '두 출처(오픈스트리트맵, 위키데이터·위키백과)의 좌표가 300m 안에서 일치한 곳만 표시합니다. 핀은 입구가 아니라 건물·구역의 중심일 수 있습니다. 점선은 순서만 잇는 직선이며 실제 길이 아닙니다.',
-    en: 'Only places where two sources (OpenStreetMap and Wikidata/Wikipedia) agree within 300 m are shown. A pin may mark the centre of a site, not its entrance. The dashed line only joins the stops in order; it is not a walking route.',
+    ko: '두 출처(오픈스트리트맵, 위키데이터·위키백과)의 위치가 서로 맞는 곳만 표시합니다(대개 300m 이내, 공원·거리처럼 넓은 곳은 그 범위 안). 핀은 입구가 아니라 건물·구역의 중심일 수 있습니다. 점선은 순서만 잇는 직선이며 실제 길이 아닙니다.',
+    en: 'Only places where two sources (OpenStreetMap and Wikidata/Wikipedia) agree on the location are shown (usually within 300 m; for large places such as parks and streets, within their extent). A pin may mark the centre of a site, not its entrance. The dashed line only joins the stops in order; it is not a walking route.',
   },
   itineraryTitle: { ko: '추천 일정', en: 'Suggested itinerary' },
   itineraryStay: { ko: '권장 체류', en: 'Suggested stay' },

@@ -38,3 +38,26 @@ def same_place(name, label, city):
 
 def plain(names, city):
     return not all(words(n) - words(city) - COMMON for n in names)
+
+
+# The same kind of place in the languages the labels come in ("Mercado de San Miguel" ~ "Market of San Miguel").
+KIND = {'market': 'mercado mercato marche markt mercat', 'cathedral': 'catedral cattedrale cathedrale dom duomo se katedra',
+        'square': 'plaza piazza place platz praca praza plac namesti trg', 'church': 'iglesia chiesa eglise kirche igreja',
+        'museum': 'museo musee museu', 'palace': 'palacio palazzo palais palau', 'castle': 'castillo castello chateau schloss castelo burg',
+        'bridge': 'puente ponte pont brucke', 'tower': 'torre tour turm', 'garden': 'jardin jardim giardino garten',
+        'park': 'parque parco parc', 'stadium': 'estadio stadio stade stadion', 'street': 'calle via rue strasse rua'}
+KIND = {w: k for k, ws in KIND.items() for w in ws.split()}
+TYPES = COMMON | {'stadium'}
+
+
+def near_place(name, label, city):
+    """Looser rule for a label found right beside an OpenStreetMap hit for the highlight (geo_near.py):
+    one distinctive word may carry it ("Hofbräuhaus" ~ "Hofbräuhaus am Platzl"), but the kind of place must not
+    differ ("Ledra Street" is not "Ledra Palace") and the label may add at most two words."""
+    c = words(city)
+    n, l = ({KIND.get(w, w) for w in words(s) - c} for s in (name, label))
+    ns, ls = n - TYPES, l - TYPES
+    if not ns or not ls or not (ns <= ls or ls <= ns) or len(ns ^ ls) > 2:
+        return False
+    tn, tl = n & TYPES, l & TYPES
+    return not (tn and tl and not tn & tl)
