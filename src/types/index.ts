@@ -247,3 +247,38 @@ export const CATEGORIES: {
   { id: 'cafe', ko: '카페', en: 'Café' },
   { id: 'bakery', ko: '베이커리', en: 'Bakery' },
 ]
+
+/** A country's top football league (or a note when it has none), from the league's official site. */
+export interface FootballLeague {
+  /** Key shared with FootballClub.league; absent for a country without a league of its own. */
+  key?: string
+  name: { ko: string; en: string }
+  /** Part of the country it covers (the UK's four leagues). */
+  region?: { ko: string; en: string }
+  /** Clubs this season, when the official site states it. */
+  clubs?: number
+  /** First and last matchday (YYYY-MM-DD), when published. */
+  start?: string
+  end?: string
+  /** Played within a calendar year (spring to autumn) rather than August to May. */
+  calendarYear?: boolean
+  site?: string
+  note?: { ko: string; en: string }
+}
+
+/** A top-division club whose home ground is in or beside a city. */
+export interface FootballClub {
+  /** Wikidata item. */
+  id: string
+  name: { ko: string; en: string }
+  league: string
+  founded?: number
+  stadium?: { name: { ko: string; en: string }; capacity?: number; lat: number; lng: number }
+  /** Official website. */
+  site?: string
+  /** Stadium tour, or the club museum, on an official page. */
+  tour?: { kind: 'tour' | 'museum'; url: string; note?: { ko: string; en: string } }
+  /** The neighbouring town the ground is in, when it is not the city itself. */
+  suburb?: { ko: string; en: string }
+  note?: { ko: string; en: string }
+}

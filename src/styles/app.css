@@ -3149,3 +3149,71 @@ a.plan-btn {
   padding-top: 12px;
   border-top: 1px solid var(--line);
 }
+
+/* —— Football —— */
+.fb-native {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.fb-meta {
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.fb-cities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.fb-cities .itinerary-stop {
+  text-decoration: none;
+}
+
+.fb-clubs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.fb-club + .fb-club {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+.fb-club p {
+  margin: 0 0 3px;
+}
+
+.fb-club-name {
+  font-size: 15px;
+}
+
+.fb-stadium {
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.fb-suburb {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(20, 17, 15, 0.06);
+  font-size: 11px;
+  font-weight: 650;
+  color: var(--muted);
+}
+
+.fb-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin-top: 6px;
+  font-size: 13px;
+  font-weight: 650;
+}

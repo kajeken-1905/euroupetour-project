@@ -8,6 +8,7 @@ import { PhrasePanel } from '../components/PhrasePanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
+import { FootballLeaguePanel } from '../components/FootballPanel'
 import { getCountryEssentials } from '../data/essentials'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useDailyExchangeRates } from '../hooks/useDailyExchangeRates'
@@ -157,6 +158,8 @@ export function CountryPage() {
       {transit ? <TransitCountryPanel transit={transit} /> : null}
 
       {essentials ? <EssentialsPanel essentials={essentials} /> : null}
+
+      <FootballLeaguePanel countryId={country.id} />
 
       <Suspense fallback={null}>
         <OfflinePanel countryId={country.id} />

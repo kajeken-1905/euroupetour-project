@@ -19,6 +19,7 @@ import { CityMap } from '../components/CityMap'
 import { PlannerPanel } from '../components/PlannerPanel'
 import { SeasonPanel } from '../components/SeasonPanel'
 import { MyPlanPanel } from '../components/MyPlanPanel'
+import { FootballClubsPanel } from '../components/FootballPanel'
 import { t } from '../i18n/ui'
 import type { CategoryId } from '../types'
 
@@ -124,6 +125,8 @@ function CityView() {
           )
         })}
       </div>
+
+      <FootballClubsPanel cityId={city.id} />
 
       {transit ? (
         <TransitCityPanel {...transit} hubs={getCityHubs(city.id)} cityName={city.name.en} />

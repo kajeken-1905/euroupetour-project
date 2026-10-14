@@ -1,0 +1,364 @@
+{
+ "fr-ligue1": {
+  "name": "Ligue 1 McDonald's",
+  "clubs": 18,
+  "start": "2026-08-21",
+  "end": "2027-05-29",
+  "site": "https://ligue1.com",
+  "src": "https://ligue1.com/en/calendar/ligue1"
+ },
+ "uk-pl": {
+  "name": "Premier League",
+  "clubs": 20,
+  "start": "2026-08-21",
+  "end": "2027-05-30",
+  "site": "https://www.premierleague.com",
+  "src": "https://www.premierleague.com/en/news/4468487/dates-for-202627-premier-league-season-confirmed"
+ },
+ "uk-spfl": {
+  "name": "William Hill Premiership",
+  "clubs": 12,
+  "start": "2026-07-31",
+  "end": "2027-05-16",
+  "site": "https://spfl.co.uk",
+  "src": "https://spfl.co.uk/news/key-dates-for-202627"
+ },
+ "uk-cymru": {
+  "name": "JD Cymru Premier",
+  "clubs": 16,
+  "start": "2026-07-31",
+  "end": null,
+  "site": "https://faw.cymru/cymru-leagues/",
+  "src": "https://faw.cymru/cymru-leagues/news/jd-cymru-leagues-2026-27-composition-confirmed/"
+ },
+ "uk-nifl": {
+  "name": "BOYLE Sports Premiership",
+  "clubs": 12,
+  "start": "2026-08-07",
+  "end": "2027-04-24",
+  "site": "https://www.nifootballleague.com",
+  "src": "https://www.nifootballleague.com/news/2026/june/back-for-the-boyle-sports-premiership/"
+ },
+ "ie-loi": {
+  "name": "SSE Airtricity Men's Premier Division",
+  "clubs": 10,
+  "start": "2026-02-06",
+  "end": "2026-11-01",
+  "site": "https://www.leagueofireland.ie",
+  "src": "https://www.leagueofireland.ie/news/key-dates-schedule-confirmed-2026-loi-season/",
+  "calendarYear": true
+ },
+ "ch-ssl": {
+  "name": "Brack Super League",
+  "clubs": 12,
+  "start": "2026-07-25",
+  "end": "2027-05-30",
+  "site": "https://sfl.ch",
+  "src": "https://sfl.ch/de/articles/die-sfl-prasentiert-den-datenplan-fur-die-saison-202627"
+ },
+ "it-seriea": {
+  "name": "Serie A Enilive",
+  "clubs": 20,
+  "start": "2026-08-22",
+  "end": "2027-05-30",
+  "site": "https://www.legaseriea.it",
+  "src": "https://www.legaseriea.it/serie-a/news/le-date-della-stagione-2026-2027"
+ },
+ "de-bl": {
+  "name": "Bundesliga",
+  "clubs": 18,
+  "start": "2026-08-28",
+  "end": "2027-05-22",
+  "site": "https://www.bundesliga.com",
+  "src": "https://www.bundesliga.com/en/bundesliga/news/calendar-for-2026-27-season-world-cup-34676"
+ },
+ "be-jpl": {
+  "name": "Jupiler Pro League",
+  "clubs": 18,
+  "start": "2026-08-07",
+  "end": "2027-05-23",
+  "site": "https://www.proleague.be",
+  "src": "https://www.proleague.be/nieuws/dit-zijn-de-krijtlijnen-van-de-kalender-in-2026-2027-latere-start-geen-midweekvoetbal-en-croky-cup-finale-na-de-competitie"
+ },
+ "nl-ere": {
+  "name": "Eredivisie",
+  "clubs": 18,
+  "start": null,
+  "end": null,
+  "site": "https://eredivisie.nl",
+  "src": "https://eredivisie.nl/competitie/stand/"
+ },
+ "es-laliga": {
+  "name": "LALIGA EA SPORTS",
+  "clubs": 20,
+  "start": null,
+  "end": null,
+  "site": "https://www.laliga.com",
+  "src": "https://www.laliga.com/en-GB/laliga-easports/standing"
+ },
+ "pt-primeira": {
+  "name": "Liga Portugal Betclic",
+  "clubs": 18,
+  "start": "2026-08-09",
+  "end": "2027-05-16",
+  "site": "https://www.ligaportugal.pt",
+  "src": "https://www.ligaportugal.pt/news/27682/definido-o-arranque-das-competicoes-profissionais-2026-27"
+ },
+ "dk-superliga": {
+  "name": "3F Superliga",
+  "clubs": 12,
+  "start": "2026-07-24",
+  "end": null,
+  "site": "https://superliga.dk",
+  "src": "https://superliga.dk/nyheder/kamptidspunkter/2026-2027/kampprogrammet-for-grundspillet-2026-27-er-fastlagt"
+ },
+ "se-allsv": {
+  "name": "Allsvenskan",
+  "clubs": 16,
+  "start": "2026-04-04",
+  "end": null,
+  "site": "https://allsvenskan.se",
+  "src": "https://allsvenskan.se/nyheter/spelordningen-klar-for-2026/",
+  "calendarYear": true
+ },
+ "fi-veik": {
+  "name": "Veikkausliiga",
+  "clubs": 12,
+  "start": "2026-04-04",
+  "end": null,
+  "site": "https://www.veikkausliiga.com",
+  "src": "https://www.veikkausliiga.com/uutiset/2025/12/19/veikkausliigan-runkosarjan-2026-otteluohjelma-julkaistaan-ennatyksellisen-varhain-avauspaiva-44-aivan-taynna-otteluita",
+  "calendarYear": true
+ },
+ "no-elite": {
+  "name": "Eliteserien",
+  "clubs": 16,
+  "start": "2026-03-15",
+  "end": "2026-12-13",
+  "site": "https://www.eliteserien.no",
+  "src": "https://www.fotball.no/turneringer/eliteserien/2025/slik-spilles-eliteserien-2026/",
+  "calendarYear": true
+ },
+ "is-besta": {
+  "name": "Besta deild karla",
+  "clubs": 12,
+  "start": null,
+  "end": null,
+  "site": "https://www.ksi.is",
+  "src": "https://www.ksi.is/oll-mot/mot?id=7025510",
+  "calendarYear": true
+ },
+ "at-abl": {
+  "name": "ADMIRAL Bundesliga",
+  "clubs": 12,
+  "start": "2026-07-31",
+  "end": null,
+  "site": "https://www.bundesliga.at",
+  "src": "https://www.bundesliga.at/de/news/artikel/rahmenterminplan-fuer-die-saison-2026-27"
+ },
+ "cz-czl": {
+  "name": "Chance Liga",
+  "clubs": 16,
+  "start": "2026-07-25",
+  "end": "2027-05-30",
+  "site": "https://www.chanceliga.cz",
+  "src": "https://www.chanceliga.cz/clanek/18691-ligove-gremium-schvalilo-terminovou-listinu-pro-sezonu-2026-27-platby-solidarity-prinesou-klubum-vice-penez"
+ },
+ "sk-skl": {
+  "name": "Niké liga",
+  "clubs": 12,
+  "start": "2026-07-25",
+  "end": "2027-05-15",
+  "site": "https://www.nikeliga.sk",
+  "src": "https://www.nikeliga.sk/clanok/4784-majster-zacne-u-novacika-pozname-program-nike-ligy-2026-2027"
+ },
+ "hu-nb1": {
+  "name": "OTP Bank Liga (NB I)",
+  "clubs": 12,
+  "start": "2026-07-24",
+  "end": "2027-05-22",
+  "site": "https://www.mlsz.hu",
+  "src": "https://www.mlsz.hu/hir/a-nyiregyhaza-ujpest-merkozessel-indul-a-bajnoksag"
+ },
+ "pl-ekstra": {
+  "name": "PKO BP Ekstraklasa",
+  "clubs": 18,
+  "start": "2026-07-24",
+  "end": "2027-05-22",
+  "site": "https://www.ekstraklasa.org",
+  "src": "https://www.ekstraklasa.org/aktualnosci/23069/ramowy-terminarz-pko-bank-polski-ekstraklasy-na-sezon-2026-27/"
+ },
+ "gr-sl": {
+  "name": "Stoiximan Super League",
+  "clubs": 14,
+  "start": null,
+  "end": null,
+  "site": "https://www.slgr.gr",
+  "src": "https://www.slgr.gr/el/article/etesio-sunoptiko-programma-kanonikes-diarkeias-protathlematos-stoiximan-super-league-2026-27/"
+ },
+ "cy-cy": {
+  "name": "Cyprus League by Stoiximan",
+  "clubs": 14,
+  "start": "2026-08-29",
+  "end": "2027-05-23",
+  "site": "https://www.cfa.com.cy",
+  "src": "https://www.cfa.com.cy/Gr/news/53532"
+ },
+ "ee-ee": {
+  "name": "A. Le Coq Premium liiga",
+  "clubs": 10,
+  "start": "2026-03-07",
+  "end": "2026-11-07",
+  "site": "https://jalgpall.ee",
+  "src": "https://jalgpall.ee/voistlused/52/liigad/calendar?season=2026",
+  "calendarYear": true
+ },
+ "lv-lv": {
+  "name": "Tonybet Virslīga",
+  "clubs": 10,
+  "start": "2026-03-06",
+  "end": null,
+  "site": "https://lff.lv",
+  "src": "https://lff.lv/faniem/pasakumi-2026/",
+  "calendarYear": true
+ },
+ "lt-lt": {
+  "name": "TOPLYGA",
+  "clubs": 10,
+  "start": "2026-02-21",
+  "end": null,
+  "site": "https://toplyga.lt",
+  "src": "https://toplyga.lt/naujiena/naujasis-toplygos-sezonas-su-pazangiomis-naujovemis/9313",
+  "calendarYear": true
+ },
+ "hr-hnl": {
+  "name": "SuperSport HNL",
+  "clubs": 10,
+  "start": "2026-07-31",
+  "end": null,
+  "site": "https://hnl.hr",
+  "src": "https://semafor.hns.family/natjecanja/114137140/supersport-hrvatska-nogometna-liga-20262027/"
+ },
+ "si-si": {
+  "name": "Prva liga Telemach",
+  "clubs": 10,
+  "start": "2026-07-17",
+  "end": null,
+  "site": "https://www.prvaliga.si",
+  "src": "https://www.nzs.si/klubi/moski/prva-liga-telemach/tekme"
+ },
+ "ba-ba": {
+  "name": "WWIN liga BiH",
+  "clubs": 10,
+  "start": null,
+  "end": null,
+  "site": "https://www.nfsbih.ba",
+  "src": "https://www.nfsbih.ba/takmicenja/nogomet-muskarci/wwin-liga-bih/"
+ },
+ "me-me": {
+  "name": "Meridianbet 1. CFL",
+  "clubs": 10,
+  "start": "2026-08-02",
+  "end": null,
+  "site": "https://fscg.me",
+  "src": "https://fscg.me/vijesti/14252/saopstenje-izvrsnog-odbora-11062026/"
+ },
+ "rs-rs": {
+  "name": "Mozzart Bet Super liga Srbije",
+  "clubs": 14,
+  "start": "2026-07-17",
+  "end": null,
+  "site": "https://www.superliga.rs",
+  "src": "https://www.superliga.rs/en/sezona/tabela-takmicenja/"
+ },
+ "mk-mk": {
+  "name": "Prva MFL",
+  "clubs": 10,
+  "start": "2026-07-25",
+  "end": null,
+  "site": "https://www.ffm.mk",
+  "src": "https://www.ffm.mk/natprevaruvanje/prva-mfl27/"
+ },
+ "al-al": {
+  "name": "Abissnet Superiore",
+  "clubs": 10,
+  "start": "2026-08-21",
+  "end": null,
+  "site": "https://fshf.org",
+  "src": "https://fshf.org/sq/abissnet-superiore-2026-2027-percaktohen-datat-dhe-oraret-e-5-javeve-te-para-te-sezonit-te-ri/"
+ },
+ "bg-bg": {
+  "name": "efbet Liga",
+  "clubs": 14,
+  "start": "2026-07-17",
+  "end": null,
+  "site": "https://bfunion.bg",
+  "src": "https://bfunion.bg/news/51916/0"
+ },
+ "ro-ro": {
+  "name": "Superliga",
+  "clubs": 16,
+  "start": "2026-07-17",
+  "end": null,
+  "site": "https://lpf.ro",
+  "src": "https://lpf.ro/noutati/superliga-programul-turului-editiei-2026-2027/6593"
+ },
+ "tr-sl": {
+  "name": "Trendyol Süper Lig",
+  "clubs": 18,
+  "start": "2026-08-14",
+  "end": "2027-05-23",
+  "site": "https://www.tff.org",
+  "src": "https://www.tff.org/default.aspx?pageID=687&ftxtID=50517"
+ },
+ "ge-ge": {
+  "name": "Erovnuli Liga",
+  "clubs": 10,
+  "start": null,
+  "end": null,
+  "site": "https://erovnuliliga.ge",
+  "src": "https://erovnuliliga.ge/en/tables",
+  "calendarYear": true
+ },
+ "am-am": {
+  "name": "Armenian Premier League",
+  "clubs": 12,
+  "start": null,
+  "end": null,
+  "site": "https://premierleague.ffa.am",
+  "src": "https://www.ffa.am/en/news/armenian-premier-league"
+ },
+ "az-az": {
+  "name": "Misli Premyer Liqa",
+  "clubs": 12,
+  "start": null,
+  "end": null,
+  "site": "https://pfl.az",
+  "src": "https://pfl.az/"
+ },
+ "ua-ua": {
+  "name": "Ukrainian Premier League",
+  "clubs": 16,
+  "start": "2026-08-01",
+  "end": "2027-06-04",
+  "site": "https://upl.ua",
+  "src": "https://upl.ua/ua/news/view/11555"
+ },
+ "md-md": {
+  "name": "Liga 7777",
+  "clubs": 8,
+  "start": "2026-06-20",
+  "end": null,
+  "site": "https://www.fmf.md",
+  "src": "https://fmf.md/"
+ },
+ "mt-mt": {
+  "name": "VBET Malta Premier League",
+  "clubs": null,
+  "start": null,
+  "end": null,
+  "site": "https://www.mfa.com.mt",
+  "src": "https://www.mfa.com.mt/news/competitions/draws-held-ahead-of-202627-domestic-league-season/",
+  "noClubs": true
+ }
+}
