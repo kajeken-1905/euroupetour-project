@@ -8,7 +8,7 @@ import react from '@vitejs/plugin-react'
 const PRECACHE_DIRS = ['assets', 'flags', 'stamps', 'transit-apps', 'phrases', 'icons']
 const PRECACHE_FILES = ['index.html', 'favicon.svg', 'icons.svg', 'manifest.webmanifest', 'image-sizes.json', 'offline-images.json']
 /** Photo folders whose file sizes are published so the app can show download sizes. */
-const IMAGE_DIRS = ['cities', 'highlights', 'places', 'landmarks']
+const IMAGE_DIRS = ['cities', 'highlights', 'places', 'landmarks', 'crests']
 
 function walk(dir: string): string[] {
   return readdirSync(dir, { withFileTypes: true }).flatMap((entry) =>

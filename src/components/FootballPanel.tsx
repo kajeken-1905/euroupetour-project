@@ -160,8 +160,10 @@ const GENERIC =
 /** "Real Madrid CF" → "RM", "Liverpool F.C." → "L", for clubs without a free crest. */
 function initials(name: string) {
   // A club known by its letters (PAOK, AEK, FCSB, CSKA) keeps them.
-  const acronym = name.split(/\s+/).find((w) => /^[A-ZÀ-Ž]{3,5}$/.test(w) && !GENERIC.test(w))
-  if (acronym) return acronym
+  const acronym = name
+    .split(/\s+/)
+    .find((w) => /^[A-ZÀ-Ž]{3,5}$/.test(w) && !GENERIC.test(w));
+  if (acronym) return acronym;
   const words = name
     .replace(/[()]/g, "")
     .split(/[\s-]+/)
@@ -267,15 +269,17 @@ function ClubCard({
           <p className="fb-credit">
             {t("footballCrestCredit", lang)}:{" "}
             <a href={club.crest.source} target="_blank" rel="noreferrer">
-              {[
-                club.crest.author,
-                club.crest.license === "Public domain" && lang === "ko"
-                  ? "퍼블릭 도메인"
-                  : club.crest.license,
-                "Wikimedia Commons",
-              ]
-                .filter(Boolean)
-                .join(", ")}
+              {club.crest.license === "permission"
+                ? t("footballCrestPermission", lang)
+                : [
+                    club.crest.author,
+                    club.crest.license === "Public domain" && lang === "ko"
+                      ? "퍼블릭 도메인"
+                      : club.crest.license,
+                    "Wikimedia Commons",
+                  ]
+                    .filter(Boolean)
+                    .join(", ")}
             </a>
           </p>
         ) : null}
