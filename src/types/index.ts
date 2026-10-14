@@ -273,6 +273,8 @@ export interface FootballClub {
   name: { ko: string; en: string }
   league: string
   founded?: number
+  /** Crest from Wikimedia Commons (public domain or a free licence), served from /crests/<id>.png. */
+  crest?: { license: string; author?: string; source: string }
   stadium?: { name: { ko: string; en: string }; capacity?: number; lat: number; lng: number }
   /** Official website. */
   site?: string

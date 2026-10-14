@@ -1,7 +1,7 @@
 import json,re,sys
 from names import CLUB_KO,VENUE_KO,VENUE_EN,SUBURB,NO_STADIUM,NOTES
 from leagues_ko import LEAGUE_META,EXTRA
-keep=json.load(open('keep.json')); LV=json.load(open('leagues_verified.json')); LV.update(EXTRA)
+keep=json.load(open('keep.json')); CRESTS=json.load(open('crests.json')); LV=json.load(open('leagues_verified.json')); LV.update(EXTRA)
 def clean(s): return re.sub(r'\s*\([^)]*\)\s*$','',s or '').replace(" men's football",'').strip()
 def rnd(c):
     if not c: return None
@@ -17,6 +17,9 @@ for r in keep:
     if r['en']=='Inter Milan': en='Inter Milan'
     c={'id':r['qid'],'name':{'ko':ko,'en':en},'league':r['league']}
     if r['inception']: c['founded']=int(r['inception'])
+    if r['qid'] in CRESTS:
+        m=CRESTS[r['qid']]; c['crest']={'license':m['license'],'source':m['source']}
+        if m['author']: c['crest']['author']=m['author']
     v=r['venue']
     if r['en'] not in NO_STADIUM and v['en'] and v['coord']:
         vko=VENUE_KO.get(v['en']) or clean(v['kowiki'] or v['ko'])

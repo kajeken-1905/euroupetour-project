@@ -3217,3 +3217,42 @@ a.plan-btn {
   font-size: 13px;
   font-weight: 650;
 }
+
+.fb-club {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.fb-club-body {
+  min-width: 0;
+}
+
+.fb-crest {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.fb-crest-initials {
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1.5px solid var(--line);
+  background: rgba(20, 17, 15, 0.04);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+}
+
+.fb-credit {
+  margin-top: 4px;
+  font-size: 10px;
+  color: var(--muted);
+}
+
+.fb-credit a {
+  color: inherit;
+}

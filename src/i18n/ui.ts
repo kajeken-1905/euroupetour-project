@@ -338,6 +338,7 @@ export const ui = {
   footballHome: { ko: '공식 홈페이지', en: 'Official website' },
   footballTour: { ko: '경기장 투어', en: 'Stadium tour' },
   footballMuseum: { ko: '클럽 박물관', en: 'Club museum' },
+  footballCrestCredit: { ko: '엠블럼', en: 'Crest' },
   footballMap: { ko: '지도', en: 'Map' },
   footballNote: {
     ko: '2026-27 시즌(봄~가을 리그는 2026 시즌) 1부 리그 클럽 중 홈구장이 이 도시나 바로 옆 도시에 있는 곳입니다. 소속 리그는 리그 공식 사이트로 확인했습니다. 수용 인원은 공식 규모를 반올림한 값이라 실제 판매 좌석과 다를 수 있습니다. 경기 일정과 표, 투어 운영일은 공식 사이트에서 확인하세요.',
