@@ -296,7 +296,7 @@ export function HomePage() {
     removeCountry,
     addCityToCountry,
     removeCityFromCountry,
-    reset,
+    resetCountries,
   } = useTravelChecklist()
 
   return (
@@ -342,8 +342,8 @@ export function HomePage() {
           >
             + {t('addCountry', lang)}
           </button>
-          <button type="button" className="checklist-reset" onClick={reset}>
-            {t('resetChecklist', lang)}
+          <button type="button" className="checklist-reset" onClick={resetCountries}>
+            {t('resetCountries', lang)}
           </button>
         </div>
       </div>

@@ -65,6 +65,7 @@ export const ui = {
   removeCity: { ko: '이 도시 삭제', en: 'Remove this city' },
   removeCountry: { ko: '이 국가 삭제', en: 'Remove this country' },
   resetChecklist: { ko: '체크리스트 초기화', en: 'Reset checklist' },
+  resetCountries: { ko: '국가·도시 초기화', en: 'Clear countries & cities' },
   yes: { ko: 'Yes', en: 'Yes' },
   no: { ko: 'No', en: 'No' },
   selectPlaceholder: { ko: '선택', en: 'Select' },
