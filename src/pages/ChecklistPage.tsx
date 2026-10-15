@@ -1,0 +1,279 @@
+import { LanguageToggle } from '../components/LanguageToggle'
+import { ChecklistSection, Field } from '../components/ChecklistSection'
+import { YesNoSelect } from '../components/YesNoSelect'
+import { useLanguage } from '../contexts/LanguageContext'
+import { useTravelChecklist } from '../hooks/useTravelChecklist'
+import { t } from '../i18n/ui'
+import { EURAIL_APP_URL, MAX_TRAVELERS, type FlightInfo, type TravelerInfo } from '../types/checklist'
+
+function FlightFields({
+  value,
+  onChange,
+}: {
+  value: FlightInfo
+  onChange: (patch: Partial<FlightInfo>) => void
+}) {
+  const { lang } = useLanguage()
+
+  return (
+    <div className="checklist-grid">
+      <Field label={t('flightDate', lang)}>
+        <input
+          type="date"
+          className="checklist-input"
+          value={value.date}
+          onChange={(e) => onChange({ date: e.target.value })}
+        />
+      </Field>
+      <Field label={t('airport', lang)}>
+        <input
+          className="checklist-input"
+          value={value.airport}
+          onChange={(e) => onChange({ airport: e.target.value })}
+          placeholder={lang === 'ko' ? '예: ICN, AMS' : 'e.g. ICN, AMS'}
+        />
+      </Field>
+      <Field label={t('terminal', lang)}>
+        <input
+          className="checklist-input"
+          value={value.terminal}
+          onChange={(e) => onChange({ terminal: e.target.value })}
+          placeholder={lang === 'ko' ? '예: T1, T2' : 'e.g. T1, T2'}
+        />
+      </Field>
+      <Field label={t('airline', lang)}>
+        <input
+          className="checklist-input"
+          value={value.airline}
+          onChange={(e) => onChange({ airline: e.target.value })}
+        />
+      </Field>
+      <Field label={t('flightNumber', lang)}>
+        <input
+          className="checklist-input"
+          value={value.flightNumber}
+          onChange={(e) => onChange({ flightNumber: e.target.value })}
+          placeholder={lang === 'ko' ? '예: KE925' : 'e.g. KE925'}
+        />
+      </Field>
+      <Field label={t('boardingTime', lang)}>
+        <input
+          type="time"
+          className="checklist-input"
+          value={value.boardingTime}
+          onChange={(e) => onChange({ boardingTime: e.target.value })}
+        />
+      </Field>
+    </div>
+  )
+}
+
+function TravelerBlock({
+  traveler,
+  index,
+  canRemove,
+  onName,
+  onNameEn,
+  onPassport,
+  onEurail,
+  onFlight,
+  onRemove,
+}: {
+  traveler: TravelerInfo
+  index: number
+  canRemove: boolean
+  onName: (name: string) => void
+  onNameEn: (nameEn: string) => void
+  onPassport: (patch: Partial<TravelerInfo['passport']>) => void
+  onEurail: (patch: Partial<TravelerInfo['eurail']>) => void
+  onFlight: (key: 'outbound' | 'inbound', patch: Partial<FlightInfo>) => void
+  onRemove: () => void
+}) {
+  const { lang } = useLanguage()
+  const n = index + 1
+  const baseTitle = `${t('traveler', lang)} ${n}`
+  const nameParts = [traveler.name.trim(), traveler.nameEn.trim()].filter(Boolean)
+  const title = nameParts.length ? `${baseTitle}  ${nameParts.join(' · ')}` : baseTitle
+  const summary = nameParts.length ? nameParts.join(' · ') : undefined
+
+  return (
+    <ChecklistSection
+      step={`1-${n})`}
+      title={title}
+      nested
+      collapsible
+      defaultOpen={false}
+      summary={summary}
+    >
+      <div className="checklist-grid">
+        <Field label={t('travelerNameKo', lang)}>
+          <input
+            className="checklist-input"
+            value={traveler.name}
+            onChange={(e) => onName(e.target.value)}
+            placeholder={lang === 'ko' ? '예: 김민수' : 'Korean name'}
+          />
+        </Field>
+        <Field label={t('travelerNameEn', lang)}>
+          <input
+            className="checklist-input"
+            value={traveler.nameEn}
+            onChange={(e) => onNameEn(e.target.value)}
+            placeholder={lang === 'ko' ? '예: KIM MIN SU' : 'e.g. KIM MIN SU'}
+            autoCapitalize="characters"
+          />
+        </Field>
+      </div>
+
+      <div className="traveler-subblock">
+        <h3 className="traveler-subtitle">{t('passportInfo', lang)}</h3>
+        <div className="checklist-grid">
+          <Field label={t('prepared', lang)}>
+            <YesNoSelect
+              value={traveler.passport.ready}
+              onChange={(ready) => onPassport({ ready })}
+            />
+          </Field>
+          <Field label={t('passportNumber', lang)}>
+            <input
+              className="checklist-input"
+              value={traveler.passport.number}
+              onChange={(e) => onPassport({ number: e.target.value })}
+              autoComplete="off"
+            />
+          </Field>
+          <Field label={t('passportExpiry', lang)}>
+            <input
+              type="date"
+              className="checklist-input"
+              value={traveler.passport.expiry}
+              onChange={(e) => onPassport({ expiry: e.target.value })}
+            />
+          </Field>
+          <Field label={t('notes', lang)}>
+            <input
+              className="checklist-input"
+              value={traveler.passport.notes}
+              onChange={(e) => onPassport({ notes: e.target.value })}
+            />
+          </Field>
+        </div>
+      </div>
+
+      <div className="traveler-subblock">
+        <h3 className="traveler-subtitle">{t('eurailInfo', lang)}</h3>
+        <div className="checklist-grid">
+          <Field label={t('eurailReserved', lang)}>
+            <YesNoSelect
+              value={traveler.eurail.reserved}
+              onChange={(reserved) => onEurail({ reserved })}
+            />
+          </Field>
+          <Field label={t('notes', lang)}>
+            <input
+              className="checklist-input"
+              value={traveler.eurail.notes}
+              onChange={(e) => onEurail({ notes: e.target.value })}
+            />
+          </Field>
+        </div>
+        <a
+          className="checklist-shortcut"
+          href={EURAIL_APP_URL}
+          target="_blank"
+          rel="noreferrer"
+        >
+          {t('openEurailApp', lang)}
+        </a>
+      </div>
+
+      <div className="traveler-subblock">
+        <h3 className="traveler-subtitle">{t('outboundFlight', lang)}</h3>
+        <FlightFields
+          value={traveler.outbound}
+          onChange={(patch) => onFlight('outbound', patch)}
+        />
+      </div>
+
+      <div className="traveler-subblock">
+        <h3 className="traveler-subtitle">{t('inboundFlight', lang)}</h3>
+        <FlightFields
+          value={traveler.inbound}
+          onChange={(patch) => onFlight('inbound', patch)}
+        />
+      </div>
+
+      {canRemove ? (
+        <button type="button" className="checklist-remove" onClick={onRemove}>
+          {t('removeTraveler', lang)}
+        </button>
+      ) : null}
+    </ChecklistSection>
+  )
+}
+
+
+/** The Checklist tab: who is travelling, with each traveller's passport, Eurail pass and flights. */
+export function ChecklistPage() {
+  const { lang } = useLanguage()
+  const { data, addTraveler, removeTraveler, updateTraveler, updatePassport, updateEurail, updateFlight } =
+    useTravelChecklist()
+
+  return (
+    <div className="home-neon">
+      <header className="page-header">
+        <div className="top-bar" style={{ paddingTop: 0 }}>
+          <h2>{t('checklistTab', lang)}</h2>
+          <LanguageToggle />
+        </div>
+      </header>
+
+      <p className="phase-note">{t('checklistTabHint', lang)}</p>
+
+      <div className="checklist">
+        <ChecklistSection
+          step={1}
+          title={t('travelerCount', lang)}
+          summary={
+            data.travelers.length > 0
+              ? data.travelers
+                  .map((tr, i) => {
+                    const parts = [tr.name.trim(), tr.nameEn?.trim()].filter(Boolean)
+                    return parts.length
+                      ? `${t('traveler', lang)} ${i + 1} ${parts.join(' · ')}`
+                      : `${t('traveler', lang)} ${i + 1}`
+                  })
+                  .join(', ')
+              : undefined
+          }
+        >
+          <div className="traveler-tree">
+            {data.travelers.map((traveler, index) => (
+              <TravelerBlock
+                key={traveler.id}
+                traveler={traveler}
+                index={index}
+                canRemove={data.travelers.length > 1}
+                onName={(name) => updateTraveler(traveler.id, { name })}
+                onNameEn={(nameEn) => updateTraveler(traveler.id, { nameEn })}
+                onPassport={(patch) => updatePassport(traveler.id, patch)}
+                onEurail={(patch) => updateEurail(traveler.id, patch)}
+                onFlight={(key, patch) => updateFlight(traveler.id, key, patch)}
+                onRemove={() => removeTraveler(traveler.id)}
+              />
+            ))}
+          </div>
+
+          <button
+            type="button"
+            className="checklist-add checklist-add--ghost"
+            onClick={addTraveler}
+            disabled={data.travelers.length >= MAX_TRAVELERS}
+          >
+            + {t('addTraveler', lang)}
+          </button>
+        </ChecklistSection>
+      </div>
+    </div>
+  )
+}

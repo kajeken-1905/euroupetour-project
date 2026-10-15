@@ -1,8 +1,7 @@
 import { useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import { LanguageToggle } from '../components/LanguageToggle'
-import { FavoriteButton } from '../components/FavoriteButton'
-import { TourPanel } from '../components/TourPanel'
+import { FavoriteButton } from './FavoriteButton'
+import { TourPanel } from './TourPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCity, getPlace, loadedCities, useCountryData } from '../data/countryData'
 import { t } from '../i18n/ui'
@@ -18,12 +17,15 @@ function cityOfHighlight(id: string) {
   return highlightCity.get(id)
 }
 
-/** Saved sights and places can be in any country, so the tab waits for all of them. */
-export function MyTripPage() {
-  return useCountryData('all') ? <MyTripView /> : null
+/**
+ * The traveller's route, plans, favourites and backup, shown on the home screen. Saved sights and places can be
+ * in any country, so it waits for all of them; it is loaded on its own so the home screen stays light.
+ */
+export default function TripSections() {
+  return useCountryData('all') ? <TripView /> : null
 }
 
-function MyTripView() {
+function TripView() {
   const { lang } = useLanguage()
   const trip = useTrip()
   const navigate = useNavigate()
@@ -81,13 +83,7 @@ function MyTripView() {
   const nothingToExport = empty && trip.route.length === 0
 
   return (
-    <div className="search-page">
-      <header className="page-header">
-        <div className="top-bar" style={{ paddingTop: 0 }}>
-          <h2>{t('trip', lang)}</h2>
-          <LanguageToggle />
-        </div>
-      </header>
+    <div className="search-page trip-sections">
 
       <TourPanel />
 

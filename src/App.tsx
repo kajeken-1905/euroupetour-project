@@ -12,7 +12,7 @@ const MapPage = lazy(() => import('./pages/MapPage').then((m) => ({ default: m.M
 const CountryPage = lazy(() => import('./pages/CountryPage').then((m) => ({ default: m.CountryPage })))
 const CityPage = lazy(() => import('./pages/CityPage').then((m) => ({ default: m.CityPage })))
 const PlacePage = lazy(() => import('./pages/PlacePage').then((m) => ({ default: m.PlacePage })))
-const MyTripPage = lazy(() => import('./pages/MyTripPage').then((m) => ({ default: m.MyTripPage })))
+const ChecklistPage = lazy(() => import('./pages/ChecklistPage').then((m) => ({ default: m.ChecklistPage })))
 const SearchPage = lazy(() => import('./pages/SearchPage').then((m) => ({ default: m.SearchPage })))
 
 export default function App() {
@@ -32,7 +32,7 @@ export default function App() {
               }
             />
             <Route path="search" element={<Suspense fallback={null}><SearchPage /></Suspense>} />
-            <Route path="trip" element={<Suspense fallback={null}><MyTripPage /></Suspense>} />
+            <Route path="trip" element={<Suspense fallback={null}><ChecklistPage /></Suspense>} />
             <Route path="country/:countryId" element={<Suspense fallback={null}><CountryPage /></Suspense>} />
             <Route path="city/:cityId" element={<Suspense fallback={null}><CityPage /></Suspense>} />
             <Route path="place/:placeId" element={<Suspense fallback={null}><PlacePage /></Suspense>} />

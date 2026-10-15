@@ -10,12 +10,12 @@ export const ui = {
     en: 'Food & shopping guide across 48 countries’ top cities',
   },
   checklistSubtitle: {
-    ko: '출국 전 준비사항을 기록하세요',
-    en: 'Track what you need before you go',
+    ko: '여행할 나라와 도시, 내 여행 경로를 한곳에서',
+    en: 'Your countries, cities and route in one place',
   },
   checklistHint: {
-    ko: '여행자를 추가해 여권·유레일·항공권을 기록하세요. 국가는 먼저 고른 뒤 도시를 추가합니다. 입력값은 이 기기에 저장됩니다.',
-    en: 'Add travelers to record passport, Eurail, and flights. Pick a country first, then add cities. Saved on this device.',
+    ko: '국가를 먼저 고른 뒤 도시를 추가합니다. 여행자·여권·유레일·항공권은 체크리스트 탭에서 기록합니다. 입력값은 이 기기에 저장됩니다.',
+    en: 'Pick a country first, then add cities. Travellers, passports, Eurail and flights go in the Checklist tab. Saved on this device.',
   },
   travelerCount: { ko: '출발 인원', en: 'Travelers' },
   partySize: { ko: '인원 수', en: 'Party size' },
@@ -279,6 +279,17 @@ export const ui = {
   transitMode_bike: { ko: '자전거', en: 'Bike' },
   transitMode_walk: { ko: '도보', en: 'Walk' },
   trip: { ko: '내 여행', en: 'My trip' },
+  checklistTab: { ko: '체크리스트', en: 'Checklist' },
+  checklistTabHint: {
+    ko: '출국 전에 챙길 것을 기록하세요. 여행자를 추가해 여권·유레일·항공권을 적습니다. 입력값은 이 기기에 저장됩니다.',
+    en: 'Track what you need before you go: add travellers to record passports, Eurail and flights. Saved on this device.',
+  },
+  homeTripTitle: { ko: '내 여행', en: 'My trip' },
+  homeTripIntro: {
+    ko: '여행 경로, 내 일정, 즐겨찾기를 여기서 모아 봅니다. 도시를 순서대로 더하면 도시 사이 이동 방법을 함께 보여 줍니다.',
+    en: 'Your route, plans and favourites in one place. Add cities in travel order to see how to get between them.',
+  },
+  homeTripStart: { ko: '여행 경로 만들기', en: 'Start a route' },
   tripEmpty: {
     ko: '아직 저장한 곳이 없습니다. 관광 포인트나 맛집 카드의 ♡를 누르면 여기에 모입니다. 도시 화면의 추천 일정에서 내 일정을 만들 수 있습니다.',
     en: 'Nothing saved yet. Tap ♡ on a sight or restaurant to collect it here, or start your own plan from a city’s suggested itinerary.',

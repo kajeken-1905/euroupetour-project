@@ -55,7 +55,7 @@ try {
   await sleep(200)
   report.fromCityPage = await route()
   report.cityButton = await evaluate(`document.querySelector('.tour-button .plan-btn').textContent`)
-  await go('/trip')
+  await go('/'); await sleep(1500)
   report.onwardChips = await evaluate(`[...document.querySelectorAll('.tour-picks .itinerary-stop')].map(b => b.textContent).join('|')`)
   await pick('리옹')
   await pick('니스')
@@ -70,7 +70,7 @@ try {
   report.afterMoveUp = await route()
   await click('.tour-stop .plan-icon-btn', 4 * 3 + 2)
   report.afterRemove = await route()
-  await go('/trip')
+  await go('/'); await sleep(1500)
   report.persisted = await route()
   await shot('2-route-reloaded')
   // The Europe map draws the route; the button frames it.
@@ -86,7 +86,7 @@ try {
   await evaluate(`[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('가져오기')).click()`)
   await sleep(300)
   report.directions = await evaluate(`decodeURIComponent(document.querySelector('.plan-map-link')?.href ?? '').slice(0, 260)`)
-  await go('/trip')
+  await go('/'); await sleep(1500)
   report.tripDirections = await evaluate(`document.querySelectorAll('.plan-map-link').length`)
   await shot('7-trip-with-plan')
   // Search: city + kind.
@@ -101,7 +101,7 @@ try {
   await type('.search-input', '')
   await shot('4-search-hint')
   // Clearing the route.
-  await go('/trip')
+  await go('/'); await sleep(1500)
   await evaluate(`[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('경로 지우기')).click()`)
   await sleep(200)
   await click('.plan-btn-danger')

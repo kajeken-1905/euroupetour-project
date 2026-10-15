@@ -72,7 +72,7 @@ try {
   await shot('2-highlight-fav')
   await evaluate(`document.querySelector('.place-card').scrollIntoView({ block: 'center' })`)
   await shot('3-place-fav')
-  await go('/trip')
+  await go('/'); await sleep(1500)
   report.tripPage = await evaluate(`[...document.querySelectorAll('.section-label')].map(e => e.textContent).join('|')`)
   report.tripFavs = await evaluate(`[...document.querySelectorAll('.trip-fav .search-item-title')].map(e => e.textContent).join('|')`)
   await shot('4-trip')
@@ -84,7 +84,7 @@ try {
   await evaluate(`document.querySelector('.plan-btn-danger').click()`)
   await sleep(200)
   report.afterClear = await plan()
-  await go('/trip')
+  await go('/'); await sleep(1500)
   await shot('5-trip-favs-only')
 } finally {
   console.log(JSON.stringify(report, null, 1))

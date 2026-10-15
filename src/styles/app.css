@@ -3265,3 +3265,12 @@ a.plan-btn {
   font-size: 13px;
   line-height: 1;
 }
+
+/* —— My trip on the home screen —— */
+.home-trip {
+  margin-top: 26px;
+}
+
+.home-trip .trip-sections {
+  padding: 0;
+}
