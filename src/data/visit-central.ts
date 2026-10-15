@@ -14,7 +14,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'vienna-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.belvedere.at/en', n: '클림트 "키스"가 있는 상궁은 시간 지정 입장입니다.|The Upper Belvedere, home of Klimt’s Kiss, is by timed ticket.', k: '2026-10' }),
   'vienna-h4': v(60, 90, { n: '트램 1·2번을 이어 타면 한 바퀴 돕니다.|Trams 1 and 2 between them cover the loop.' }),
   'vienna-h5': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.sisimuseum-hofburg.at/en/', k: '2026-10', x: [['시시 박물관 구역은 개편 공사로 2026년 11월 18일까지 닫혀 있고, 그동안에는 황제 거처만 봅니다.|The Sisi Museum section is closed for a redesign until 18 November 2026; until then only the imperial apartments are open.', '2026-11-18']] }),
-  'vienna-h6': v(60, 120, { b: 'no', s: 'https://wienerriesenrad.com/en/home/', n: '공원 입장은 무료이고 놀이기구마다 돈을 냅니다.|The park is free; each ride is paid separately.' }),
+  'vienna-h6': v(60, 120, { b: 'no', s: 'https://wienerriesenrad.com/en/home/', n: '공원 입장은 무료이고 놀이기구마다 돈을 냅니다. 대관람차는 연중 매일 운행합니다.|The park is free; each ride is paid separately. The Giant Ferris Wheel runs every day of the year.', k: '2026-10' }),
   'vienna-h7': v(40, 180, { s: 'https://www.wiener-staatsoper.at/en/', n: '내부 가이드 투어는 공연·리허설 일정에 따라 날마다 다릅니다. 입석표는 공연 당일에 팝니다.|Guided tours vary daily with rehearsals. Standing tickets go on sale on the day.' }),
   // Salzburg
   'salzburg-h1': v(120, 150, { c: 'daily', s: 'https://www.festung-hohensalzburg.at/en/', n: '입장권에 푸니쿨라 왕복이 포함된 종류가 있습니다.|Some tickets include the funicular both ways.', k: '2026-10' }),
@@ -57,7 +57,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'prague-h11': v(10, 20),
   'prague-h12': v(15, 20, { n: '근위병 교대식은 매시 정각에 있고 정오에 가장 크게 열립니다.|The guard changes hourly, with the full ceremony at noon.' }),
   // Brno
-  'brno-h1': v(75, 90, { s: 'https://www.spilberk.cz/en/' }),
+  'brno-h1': v(75, 90, { c: 'daily', s: 'https://www.spilberk.cz/en/', k: '2026-10' }),
   'brno-h2': v(60, 90, { c: 'mon', b: 'req', s: 'https://www.vilatugendhat.cz/en/', n: '내부 투어는 몇 달 전에 매진됩니다. 표가 없으면 정원만 볼 수 있습니다.|Interior tours sell out months ahead; without a ticket only the garden can be seen.', k: '2026-10' }),
   'brno-h3': v(15, 20),
   'brno-h4': v(30, 45),
@@ -132,7 +132,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'pecs-h1': v(45, 60),
   'pecs-h2': v(20, 30),
   'pecs-h3': v(60, 75, { c: 'mon', s: 'https://www.vilagoroksegpecs.hu/en/information/opening-hours', n: '11월 1일에도 쉽니다. 표는 문 닫기 30분 전까지 팝니다.|Also closed on 1 November. Ticket sales end 30 minutes before closing.', k: '2026-10' }),
-  'pecs-h4': v(120, 150, { s: 'https://www.zsolnaynegyed.hu/en' }),
+  'pecs-h4': v(120, 150, { c: 'mon', s: 'https://www.zsolnaynegyed.hu/en', n: '전시장은 월요일에 쉽니다. 겨울(11월 초~봄)에는 상설 전시가 목~일요일에만 열고, 12월 24~26일은 모두 닫습니다.|Exhibitions close on Mondays. In winter (early November to spring) the permanent exhibitions open Thursday–Sunday only, and everything closes on 24–26 December.', k: '2026-10' }),
   'pecs-h5': v(15, 20),
   // Szeged
   'szeged-h1': v(30, 45),
@@ -163,7 +163,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'gdansk-h1': v(30, 45),
   'gdansk-h2': v(10, 10),
   'gdansk-h3': v(30, 45),
-  'gdansk-h4': v(120, 150, { s: 'https://ecs.gda.pl/en', n: '비수기에는 화요일에 쉽니다.|Closed on Tuesdays outside the summer season.' }),
+  'gdansk-h4': v(120, 150, { s: 'https://ecs.gda.pl/en', n: '비수기에는 화요일에 쉽니다.|Closed on Tuesdays outside the summer season.', k: '2026-10' }),
   'gdansk-h5': v(240, 300),
   // Wrocław
   'wroclaw-h1': v(45, 60),

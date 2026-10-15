@@ -19,7 +19,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.', k: '2026-10' }),
   'dubrovnik-h2': v(20, 30),
   'dubrovnik-h3': v(30, 45, { n: '성벽 입장권으로 함께 봅니다.|Included with the city walls ticket.' }),
-  'dubrovnik-h4': v(60, 75, { s: 'https://www.dubrovnikcablecar.com/', n: '강풍이 불면 운휴하고 겨울에는 쉬는 기간이 있습니다.|Stops in high winds and closes for part of the winter.' }),
+  'dubrovnik-h4': v(60, 75, { s: 'https://www.dubrovnikcablecar.com/', n: '1~3월과 12월에는 운휴하고, 강풍이나 낙뢰 때는 멈춥니다.|Closed January–March and in December; stops in high winds or lightning.', x: [['2026년 11월 10·11·20일은 정기 점검으로 운휴합니다.|Closed for scheduled maintenance on 10, 11 and 20 November 2026.', '2026-11-20']], k: '2026-10' }),
   'dubrovnik-h5': v(180, 240, { n: '옛 항구에서 배로 15분쯤 걸리고 대략 4월부터 11월 초까지만 다닙니다.|About 15 minutes by boat from the Old Port, running roughly April to early November.' }),
   'dubrovnik-h6': v(15, 20),
   'dubrovnik-h7': v(10, 15),

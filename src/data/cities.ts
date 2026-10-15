@@ -3181,7 +3181,7 @@ export const cities: City[] = [
       },
       {
         id: "pecs-h2",
-        name: { ko: "자미 키아베크", en: "Mosque of Pasha Qasim" },
+        name: { ko: "가지 카심 파샤 모스크", en: "Mosque of Pasha Qasim" },
         description: { ko: "이슬람 사원에서 교회로 바뀐 건물입니다.", en: "Ottoman mosque turned church." },
         image: "/highlights/pecs-2.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mosque%20of%20Pasha%20Qasim%20P%C3%A9cs",
@@ -3195,7 +3195,7 @@ export const cities: City[] = [
       },
       {
         id: "pecs-h4",
-        name: { ko: "젝 거리", en: "Zsolnay Quarter" },
+        name: { ko: "졸너이 문화 지구", en: "Zsolnay Quarter" },
         description: { ko: "도자기·문화 지구입니다.", en: "Ceramics and cultural quarter." },
         image: "/highlights/pecs-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zsolnay%20Quarter%20P%C3%A9cs",

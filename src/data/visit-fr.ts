@@ -14,7 +14,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'paris-h2': v(180, 240, { c: 'tue', b: 'rec', s: 'https://www.louvre.fr/en', t: 'https://ticket.louvre.fr', n: '성수기에는 시간 지정 예약이 있어야 입장이 보장됩니다.|In busy periods only a timed slot guarantees entry.', k: '2026-10' }),
   'paris-h19': v(20, 40),
   'paris-h18': v(60, 90, { c: 'tue', b: 'rec', s: 'https://www.musee-orangerie.fr/en', t: 'https://billetterie.musee-orangerie.fr', k: '2026-10' }),
-  'paris-h20': v(20, 30, { s: 'https://www.domaine-palais-royal.fr/en' }),
+  'paris-h20': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.domaine-palais-royal.fr/en', n: '정원은 무료이고 4~9월 8:00~22:30, 10~3월 8:00~20:30에 엽니다.|The garden is free and open 8:00–22:30 from April to September, 8:00–20:30 from October to March.', k: '2026-10' }),
   'paris-h23': v(10, 20),
   'paris-h25': v(45, 60, { c: 'daily', b: 'req', s: 'https://www.sainte-chapelle.fr/en', t: CMN, n: '예약 시간에 맞춰 가도 보안 검색 줄이 30분쯤 걸릴 수 있습니다.|Even with a slot, security queues can take around 30 minutes.', k: '2026-10' }),
   'paris-h26': v(45, 60, { c: 'daily', b: 'rec', s: 'https://www.paris-conciergerie.fr/en', t: CMN, k: '2026-10' }),
@@ -48,7 +48,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'giverny-h1': v(45, 60, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', n: '집과 정원은 표 한 장으로 함께 보며, 봄부터 가을(대략 4월~11월 초)에만 엽니다.|House and gardens share one ticket and open only from spring to autumn (roughly April to early November).', k: '2026-10' }),
   'giverny-h2': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', k: '2026-10' }),
   'giverny-h3': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', k: '2026-10' }),
-  'giverny-h4': v(45, 75, { s: 'https://www.mdig.fr/en/', n: '전시 교체 기간과 겨울에는 휴관합니다.|Closed between exhibitions and in winter.' }),
+  'giverny-h4': v(45, 75, { s: 'https://www.mdig.fr/en/', n: '전시가 열리는 기간에는 매일 10:00~18:00(마지막 입장 17:30)에 엽니다. 전시 교체 기간과 겨울에는 휴관합니다.|While an exhibition is on it opens daily 10:00–18:00 (last entry 17:30). Closed between exhibitions and in winter.', k: '2026-10' }),
   // Fontainebleau
   'fontainebleau-h1': v(120, 180, { c: 'tue', b: 'no', s: 'https://www.chateaudefontainebleau.fr/en/', k: '2026-10' }),
   'fontainebleau-h2': v(10, 15),
@@ -58,7 +58,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'chartres-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.cathedrale-chartres.org/en/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.', k: '2026-10' }),
   'chartres-h2': v(30, 45),
   'chartres-h3': v(45, 60),
-  'chartres-h4': v(60, 90, { s: 'https://www.chartresenlumieres.com/en/', n: '해가 진 뒤에만 볼 수 있는 계절 행사입니다. 기간은 해마다 다릅니다.|A seasonal after-dark event; dates change each year.' }),
+  'chartres-h4': v(60, 90, { s: 'https://www.chartresenlumieres.com/en/', n: '4월부터 이듬해 1월 초까지 매일 해가 진 뒤 켜는 계절 행사입니다. 기간은 해마다 다릅니다.|A seasonal show lit every evening after dark from April to early January; dates change each year.', k: '2026-10' }),
   // Reims
   'reims-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.cathedrale-reims.com/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.', k: '2026-10' }),
   'reims-h2': v(60, 90, { s: 'https://www.reims-tourisme.com/champagne-et-oenotourisme/visites-de-grandes-maisons/', b: 'req', n: '샴페인 하우스 저장고 투어는 회사별 누리집에서 미리 예약해야 합니다.|Cellar tours must be booked ahead on each champagne house’s own site.', k: '2026-10' }),
@@ -73,7 +73,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   // Honfleur
   'honfleur-h1': v(30, 45),
   'honfleur-h2': v(15, 20),
-  'honfleur-h3': v(45, 60, { s: 'https://www.musees-honfleur.fr/musee-eugene-boudin.html' }),
+  'honfleur-h3': v(45, 60, { c: 'tue', s: 'https://www.musees-honfleur.fr/musee-eugene-boudin.html', n: '1월 초~2월 중순 겨울 휴관 기간이 있습니다.|Closes for a winter break from early January to mid-February.', k: '2026-10' }),
   'honfleur-h4': v(15, 20),
   // Étretat
   'etretat-h1': v(45, 60),
@@ -81,7 +81,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'etretat-h3': v(45, 60),
   'etretat-h4': v(30, 45),
   // Bayeux
-  'bayeux-h1': v(0, 0, { s: 'https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/', n: '박물관이 2025년 9월부터 보수 공사로 휴관 중이며 2027년 10월 재개관 예정입니다.|The museum has been closed for renovation since September 2025 and is due to reopen in October 2027.', z: true }),
+  'bayeux-h1': v(0, 0, { s: 'https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/', n: '박물관이 2025년 9월부터 보수 공사로 휴관 중이며 2027년 10월 재개관 예정입니다.|The museum has been closed for renovation since September 2025 and is due to reopen in October 2027.', z: true, x: [['그동안 태피스트리 원본은 런던 대영박물관에서 2027년 7월 11일까지 전시합니다(유료·시간 지정 예매, 2026년 말까지는 매진).|Meanwhile the tapestry itself is on show at the British Museum in London until 11 July 2027 (paid, timed tickets; sold out to the end of 2026).', '2027-07-11']] }),
   'bayeux-h2': v(30, 45),
   'bayeux-h3': v(45, 60),
   'bayeux-h4': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.abmc.gov/cemeteries-memorials/about-normandy-american-cemetery/', n: '입장은 무료입니다. 12월 25일과 1월 1일은 쉽니다.|Entry is free. Closed 25 December and 1 January.', k: '2026-10' }),
@@ -102,14 +102,14 @@ export const visitFr: Record<string, HighlightVisit> = {
   'strasbourg-h3': v(60, 90, { s: 'https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg', n: '입장은 무료이며 신분증(여권)이 필요합니다. 본회의 주간에는 방문 방식이 달라집니다.|Free, but bring your passport. Arrangements differ during plenary weeks.' }),
   'strasbourg-h4': v(15, 20),
   'strasbourg-h5': v(30, 45),
-  'strasbourg-h6': v(90, 150, { s: 'https://noel.strasbourg.eu/en/', n: '11월 말부터 크리스마스 전후까지만 열립니다.|Runs only from late November to around Christmas.' }),
+  'strasbourg-h6': v(90, 150, { s: 'https://noel.strasbourg.eu/en/', n: '11월 말부터 크리스마스 전후까지만 열립니다.|Runs only from late November to around Christmas.', x: [['2026년 시장은 11월 27일(금)에 문을 엽니다.|The 2026 market opens on Friday 27 November.', '2026-12-31']], k: '2026-10' }),
   // Amboise & Loire châteaux
   'amboise-h1': v(75, 105, { c: 'daily', s: 'https://www.chateau-amboise.com/en/', k: '2026-10' }),
   'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/', k: '2026-10' }),
   'amboise-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.chenonceau.com/en/', n: '성수기에 붐비는 날은 시간 지정 예약이 필수입니다.|On busy high-season days a timed slot must be booked.', k: '2026-10' }),
   'amboise-h4': v(150, 210, { s: 'https://www.chambord.org/en/', n: '4~10월은 매일 열고, 11~3월 비수기에는 쉬는 월요일이 있습니다. 1월 1일과 12월 25일은 휴무입니다.|Open daily April–October; in the November–March low season it closes on some Mondays. Closed 1 January and 25 December.', k: '2026-10' }),
   // La Rochelle
-  'la-rochelle-h1': v(60, 90, { s: 'https://www.tours-la-rochelle.fr/en', t: CMN }),
+  'la-rochelle-h1': v(60, 90, { c: 'daily', s: 'https://www.tours-la-rochelle.fr/en', t: CMN, n: '1월 1일, 5월 1일, 12월 25일만 쉽니다. 생니콜라 탑은 당분간 닫혀 있고 샤인 탑과 랑테른 탑만 엽니다.|Closed only on 1 January, 1 May and 25 December. The Saint-Nicolas Tower is closed for now; the Chaîne and Lanterne towers are open.', k: '2026-10' }),
   'la-rochelle-h2': v(10, 15),
   'la-rochelle-h3': v(240, 360),
   'la-rochelle-h4': v(30, 45),
@@ -128,12 +128,12 @@ export const visitFr: Record<string, HighlightVisit> = {
   // Annecy
   'annecy-h1': v(60, 120),
   'annecy-h2': v(45, 60),
-  'annecy-h3': v(30, 45, { s: 'https://musees.annecy.fr/' }),
+  'annecy-h3': v(30, 45, { c: 'tue', s: 'https://musees.annecy.fr/', k: '2026-10' }),
   'annecy-h4': v(60, 75, { s: 'https://musees.annecy.fr/' }),
   'annecy-h5': v(15, 20),
   // Chamonix
   'chamonix-h1': v(150, 210, { b: 'req', s: 'https://aiguilledumidi.montblancnaturalresort.com/en', n: '시간 지정 예약이 필수입니다. 날씨로 멈추는 날도 있으니 당일 운행 여부를 확인하세요. 정상은 한여름에도 영하에 가깝습니다.|A timed booking is compulsory. It stops on bad-weather days, so check on the day. The summit stays near freezing even in midsummer.', k: '2026-10', x: [['2026년 11월 2일~12월 18일은 정기 점검으로 운휴합니다.|Closed for maintenance 2 November–18 December 2026.', '2026-12-18']] }),
-  'chamonix-h2': v(120, 180, { s: 'https://montenversmerdeglace.montblancnaturalresort.com/en' }),
+  'chamonix-h2': v(120, 180, { s: 'https://montenversmerdeglace.montblancnaturalresort.com/en', n: '몽탕베르 열차는 연중 다니지만 봄·가을 일부 기간에는 곤돌라와 얼음 동굴이 정비로 닫힙니다.|The Montenvers train runs all year, but the gondola and ice cave close for maintenance in parts of spring and autumn.', k: '2026-10' }),
   'chamonix-h3': v(45, 60),
   'chamonix-h4': v(90, 120, { n: '케이블카는 계절 운행이라 봄·가을에는 쉬는 기간이 있습니다.|The lifts are seasonal and shut for periods in spring and autumn.' }),
   'chamonix-h5': v(20, 30),

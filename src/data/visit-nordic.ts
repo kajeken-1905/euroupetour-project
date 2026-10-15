@@ -8,7 +8,7 @@ const KODE = 'https://www.kodebergen.no/en'
 /** Denmark, Sweden, Finland, Norway, Iceland */
 export const visitNordic: Record<string, HighlightVisit> = {
   // Copenhagen
-  'copenhagen-h1': v(45, 75, { s: 'https://denkongeligesamling.dk/en/amalienborg-museum/', n: '근위병 교대식은 매일 정오에 광장에서 열립니다. 박물관은 겨울에 월요일 휴관합니다.|The guard changes on the square daily at noon. The museum closes on Mondays in winter.' }),
+  'copenhagen-h1': v(45, 75, { s: 'https://denkongeligesamling.dk/en/amalienborg-museum/', n: '근위병 교대식은 매일 정오에 광장에서 열립니다. 박물관은 11월 초부터 3월 말까지 월요일에 쉽니다.|The guard changes on the square daily at noon. The museum closes on Mondays from early November to late March.', k: '2026-10' }),
   'copenhagen-h2': v(30, 45),
   'copenhagen-h3': v(180, 240, { b: 'rec', s: 'https://www.tivoli.dk/en', n: '여름·핼러윈·크리스마스 시즌에만 문을 열고 그 사이에는 쉽니다.|Open only for the summer, Halloween and Christmas seasons, closing in between.', k: '2026-10' }),
   'copenhagen-h4': v(60, 90),
@@ -47,7 +47,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'stockholm-h7': v(60, 90),
   // Gothenburg
   'gothenburg-h1': v(20, 30),
-  'gothenburg-h2': v(240, 360, { s: 'https://www.liseberg.se/en/', n: '여름·핼러윈·크리스마스 시즌에만 엽니다.|Open for the summer, Halloween and Christmas seasons only.' }),
+  'gothenburg-h2': v(240, 360, { s: 'https://www.liseberg.se/en/', n: '여름·핼러윈·크리스마스 시즌에만 엽니다.|Open for the summer, Halloween and Christmas seasons only.', k: '2026-10' }),
   'gothenburg-h3': v(45, 60),
   'gothenburg-h4': v(50, 50, { n: '봄부터 가을까지만 다닙니다.|Runs spring to autumn only.' }),
   'gothenburg-h5': v(150, 180, { c: 'daily', s: 'https://www.universeum.se/en/', k: '2026-10' }),
@@ -72,10 +72,10 @@ export const visitNordic: Record<string, HighlightVisit> = {
 
   // Helsinki
   'helsinki-h1': v(20, 30, { s: 'https://helsingintuomiokirkko.fi/en/index/uusipaataso.html', n: '관람 시간은 계절과 교회 행사에 따라 바뀌고 예배 중에는 관람할 수 없습니다. 2026년 여름 공식 시간표에는 토요일이 없었으니 주간 시간표를 확인하세요. 6~10월은 유료, 11~5월은 자율 기부(권장 8유로)입니다.|Hours change with the season and church events, and there is no sightseeing during services; the official summer 2026 timetable had no Saturday hours, so check the weekly timetable. Paid June–October; voluntary donation (€8 suggested) November–May.', k: '2026-10' }),
-  'helsinki-h2': v(180, 240, { b: 'no', s: 'https://suomenlinna.fi/en/', n: '섬 입장은 무료이고 마켓 광장에서 대중교통 페리로 15분 걸립니다.|The fortress is free; the public-transport ferry from Market Square takes 15 minutes.' }),
+  'helsinki-h2': v(180, 240, { b: 'no', s: 'https://suomenlinna.fi/en/', n: '섬 입장은 무료이고 마켓 광장에서 대중교통 페리로 15분 걸립니다.|The fortress is free; the public-transport ferry from Market Square takes 15 minutes.', k: '2026-10' }),
   'helsinki-h3': v(60, 90),
   'helsinki-h4': v(30, 45),
-  'helsinki-h5': v(20, 30, { s: 'https://www.temppeliaukionkirkko.fi/en/', n: '예배·행사 때는 관광 입장이 중단됩니다.|Closed to sightseers during services and events.' }),
+  'helsinki-h5': v(20, 30, { c: 'daily', s: 'https://www.temppeliaukionkirkko.fi/en/', n: '1년 내내 매일 열지만 결혼식·장례식·일요 예배 때는 관광 입장이 중단됩니다.|Open every day of the year, but closed to sightseers during weddings, funerals and the Sunday service.', k: '2026-10' }),
   'helsinki-h6': v(90, 120, { n: '섬은 연중 무료로 걸을 수 있고 야외 박물관 건물은 여름에만 엽니다.|The island is free all year; the open-air museum buildings open in summer only.' }),
   'helsinki-h7': v(10, 10),
   // Turku
@@ -89,7 +89,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'tampere-h2': v(60, 75, { c: 'mon', s: 'https://www.muumimuseo.fi/en/', k: '2026-10' }),
   'tampere-h3': v(20, 30),
   'tampere-h4': v(20, 30, { b: 'no', n: FREE }),
-  'tampere-h5': v(240, 360, { s: 'https://sarkanniemi.fi/en', n: '놀이기구는 여름 시즌에만 운영합니다.|The rides run in the summer season only.' }),
+  'tampere-h5': v(240, 360, { s: 'https://sarkanniemi.fi/en', n: '놀이기구는 여름 시즌에만 운영합니다.|The rides run in the summer season only.', k: '2026-10' }),
   // Rovaniemi
   'rovaniemi-h1': v(120, 180, { c: 'daily', b: 'no', s: 'https://santaclausvillage.info/', n: '마을 입장과 산타 만남은 무료이고 사진은 유료입니다.|Entry and meeting Santa are free; the photo is paid.', k: '2026-10' }),
   'rovaniemi-h2': v(10, 15),
@@ -103,10 +103,10 @@ export const visitNordic: Record<string, HighlightVisit> = {
 
   // Oslo
   'oslo-h1': v(20, 60, { n: '내부 가이드 투어는 여름에만 있고 예매가 필요합니다. 근위병 교대식은 매일 13시 30분입니다.|Guided tours of the interior run in summer only and need booking. The guard changes daily at 1:30 pm.' }),
-  'oslo-h2': v(30, 45, { b: 'no', s: 'https://www.operaen.no/en/', n: '지붕 위는 무료로 걸어 올라갑니다.|Walking up onto the roof is free.' }),
+  'oslo-h2': v(30, 45, { b: 'no', s: 'https://www.operaen.no/en/', n: '지붕 위는 무료로 걸어 올라갑니다.|Walking up onto the roof is free.', k: '2026-10' }),
   'oslo-h3': v(60, 90, { c: 'daily', b: 'no', s: 'https://vigeland.museum.no/en', n: '공원은 24시간 무료입니다.|The park is free and open round the clock.', k: '2026-10' }),
   'oslo-h4': v(45, 60),
-  'oslo-h5': v(0, 0, { s: 'https://www.vikingtidsmuseet.no/english/', n: '바이킹 시대 박물관으로 증축하는 공사로 휴관 중이며 2027년 재개관 예정입니다.|Closed while it is rebuilt as the Museum of the Viking Age, due to open in 2027.', z: true }),
+  'oslo-h5': v(0, 0, { s: 'https://www.vikingtidsmuseet.no/english/', n: '바이킹 시대 박물관으로 증축하는 공사로 휴관 중이며 2027년 말 개관 예정입니다. 정확한 날짜는 아직 발표되지 않았습니다.|Closed while it is rebuilt as the Museum of the Viking Age, due to open in late 2027; no exact date has been announced.', z: true }),
   'oslo-h6': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.munch.no/en/', k: '2026-10' }),
   'oslo-h7': v(60, 90, { c: 'daily', s: 'https://holmenkollen.com/en/', k: '2026-10' }),
   // Bergen
@@ -172,7 +172,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   // Selfoss (Golden Circle)
   'selfoss-h1': v(45, 60, { b: 'no', n: '입장은 무료이고 간헐천은 5~10분마다 솟습니다.|Free; the geyser erupts every five to ten minutes.' }),
   'selfoss-h2': v(45, 60, { b: 'no', n: FREE }),
-  'selfoss-h3': v(90, 120, { b: 'no', s: 'https://www.thingvellir.is/en/', n: '입장은 무료이고 주차만 유료입니다.|Free; only parking is charged.' }),
+  'selfoss-h3': v(90, 120, { b: 'no', s: 'https://www.thingvellir.is/en/', n: '입장은 무료이고 주차만 유료입니다.|Free; only parking is charged.', k: '2026-10' }),
   'selfoss-h4': v(30, 40, { s: 'https://kerid.is/', n: '소액의 입장료가 있습니다.|A small entry fee applies.' }),
   'selfoss-h5': v(30, 45),
 }

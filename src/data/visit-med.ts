@@ -44,7 +44,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'corfu-h2': v(60, 75, { t: HH, n: HH_NOTE }),
   'corfu-h3': v(15, 20),
   'corfu-h4': v(120, 180),
-  'corfu-h5': v(30, 45, { s: 'https://achillion-corfu.gr/', n: '궁전 내부는 2021년부터 복원 공사로 닫혀 있고 정원만 계절에 따라 엽니다. 방문 전에 확인하세요.|The palace interior has been closed for restoration since 2021; only the gardens open seasonally. Check before you go.' }),
+  'corfu-h5': v(30, 45, { c: 'daily', s: 'https://achillion-corfu.gr/', n: '궁전 내부는 2021년부터 복원 공사로 닫혀 있고 재개관 날짜는 정해지지 않았습니다. 정원은 매일 4~10월 8:00~20:00, 11~3월 8:00~16:00에 엽니다.|The palace interior has been closed for restoration since 2021 with no reopening date set. The gardens open daily, 8:00–20:00 April–October and 8:00–16:00 November–March.', k: '2026-10' }),
   // Athens
   'athens-h1': v(120, 150, { c: 'daily', b: 'req', t: HH, n: '시간대를 정한 입장권이 필수이고 고른 시간대에만 들어갈 수 있습니다. 성수기에는 며칠 전에 매진되고, 폭염 때는 한낮에 닫습니다.|A timed ticket is compulsory and entry is only within the slot you chose. It sells out days ahead in summer and closes at midday in heatwaves.', k: '2026-10' }),
   'athens-h2': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.theacropolismuseum.gr/en', n: '아크로폴리스 유적과 표가 따로입니다.|Ticketed separately from the Acropolis itself.', k: '2026-10' }),
@@ -175,7 +175,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'sigulda-h5': v(30, 45),
   // Lithuania
   'vilnius-h1': v(120, 180),
-  'vilnius-h2': v(40, 45, { s: 'https://lnm.lt/en/museums/gediminas-castle-tower/' }),
+  'vilnius-h2': v(40, 45, { c: 'daily', s: 'https://lnm.lt/en/museums/gediminas-castle-tower/', k: '2026-10' }),
   'vilnius-h3': v(30, 45, { s: 'https://www.katedra.lt/en/', n: '대성당은 무료이고 종탑과 지하 묘지는 유료입니다.|The cathedral is free; the bell tower and crypts are ticketed.' }),
   'vilnius-h4': v(45, 60),
   'vilnius-h5': v(15, 20, { b: 'no', n: FREE }),

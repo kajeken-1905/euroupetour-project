@@ -14,14 +14,14 @@ export const visitCh: Record<string, HighlightVisit> = {
   'zurich-h4': v(60, 90, { s: 'https://www.zsg.ch/en', n: '유람선은 스위스 트래블 패스로 탈 수 있습니다.|Lake boats are covered by the Swiss Travel Pass.' }),
   'zurich-h5': v(120, 150, { c: 'mon', b: 'no', s: 'https://www.kunsthaus.ch/en/', k: '2026-10' }),
   'zurich-h6': v(30, 60),
-  'zurich-h7': v(20, 30, { s: 'https://www.fraumuenster.ch/en/', n: '샤갈 스테인드글라스를 보는 입장은 유료입니다.|There is an entry fee to see the Chagall windows.' }),
+  'zurich-h7': v(20, 30, { s: 'https://www.fraumuenster.ch/en/', n: '샤갈 스테인드글라스를 보는 입장은 유료입니다. 일요일은 예배 뒤 12시부터 관람할 수 있고, 행사로 시간이 자주 바뀝니다.|There is an entry fee to see the Chagall windows. On Sundays visits start at noon after the service, and events often change the hours.', k: '2026-10' }),
   'zurich-h8': v(10, 15),
   'zurich-h9': v(15, 20),
   'zurich-h10': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.lindt-home-of-chocolate.com/en/', n: '시간 지정 입장이라 주말에는 며칠 전에 매진됩니다.|Entry is timed and weekends sell out days ahead.', k: '2026-10' }),
   // Geneva
   'geneva-h1': v(15, 20, { n: '강풍이 불거나 영하로 내려가면 분수를 끕니다.|The fountain is switched off in strong wind or frost.' }),
   'geneva-h2': v(60, 90),
-  'geneva-h3': v(30, 45, { s: 'https://www.cathedrale-geneve.ch/en/', n: '성당은 무료이고 탑과 지하 유적은 유료입니다.|The cathedral is free; the towers and archaeological site are ticketed.' }),
+  'geneva-h3': v(30, 45, { s: 'https://www.cathedrale-geneve.ch/en/', n: '성당은 무료이고 탑과 지하 유적은 유료입니다.|The cathedral is free; the towers and archaeological site are ticketed.', k: '2026-10' }),
   'geneva-h4': v(60, 75, { c: 'sat,sun', b: 'req', s: 'https://www.ungeneva.org/en/visit', n: '가이드 투어로만 볼 수 있고 온라인 예약이 필수입니다. 매달 20일에 다음 달 자리가 열리고 몇 주 전에 매진되기도 합니다. 여권을 지참하고 30분 전에 프레니 문에 도착하세요. 보수 공사로 투어가 줄어든 상태입니다.|Guided tours only, booked online. Next month’s slots open on the 20th and can sell out weeks ahead. Bring your passport and reach the Pregny Gate 30 minutes early. Tours are reduced during renovation works.' }),
   'geneva-h5': v(45, 60),
   'geneva-h6': v(10, 15),
@@ -42,12 +42,12 @@ export const visitCh: Record<string, HighlightVisit> = {
   'lucerne-h5': v(180, 240, { c: 'daily', s: 'https://www.verkehrshaus.ch/en/', k: '2026-10' }),
   'lucerne-h6': v(10, 15),
   'lucerne-h7': v(15, 20),
-  'lucerne-h8': v(240, 300, { s: 'https://www.rigi.ch/en', n: '리기 산악열차와 케이블카는 스위스 트래블 패스로 무료입니다.|The Rigi railways and cable car are free with the Swiss Travel Pass.' }),
+  'lucerne-h8': v(240, 300, { s: 'https://www.rigi.ch/en', n: '리기 산악열차와 케이블카는 스위스 트래블 패스로 무료이고, 산악열차는 연중 운행합니다.|The Rigi railways and cable car are free with the Swiss Travel Pass; the cogwheel trains run all year.', k: '2026-10' }),
   // Interlaken
   'interlaken-h1': v(30, 45),
   'interlaken-h2': v(120, 180, { s: 'https://www.bls-schiff.ch/en' }),
   'interlaken-h3': v(90, 120, { s: 'https://www.bls-schiff.ch/en' }),
-  'interlaken-h4': v(75, 90, { s: 'https://www.jungfrau.ch/en-gb/harder-kulm/', n: '푸니쿨라는 봄부터 늦가을까지만 다닙니다.|The funicular runs from spring to late autumn only.' }),
+  'interlaken-h4': v(75, 90, { s: 'https://www.jungfrau.ch/en-gb/harder-kulm/', n: '푸니쿨라는 4월 초부터 11월 말까지만 다닙니다.|The funicular runs from early April to late November only.', k: '2026-10' }),
   'interlaken-h5': v(300, 360, { b: 'req', s: 'https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/', n: '5~10월에는 융프라우 철도 좌석 예약(유료)이 의무이고, 그 밖의 달에도 권장됩니다.|A paid seat reservation on the Jungfrau Railway is compulsory from May to October and recommended in other months.', k: '2026-10' }),
   // Basel
   'basel-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.baslermuenster.ch/', k: '2026-10' }),
@@ -70,7 +70,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   // Lugano
   'lugano-h1': v(60, 120),
   'lugano-h2': v(45, 60),
-  'lugano-h3': v(90, 120, { s: 'https://www.montesansalvatore.ch/en/', n: '푸니쿨라는 겨울에 운휴합니다.|The funicular closes in winter.' }),
+  'lugano-h3': v(90, 120, { s: 'https://www.montesansalvatore.ch/en/', n: '푸니쿨라는 3월 중순부터 11월 초까지만 다니고 겨울에는 운휴합니다.|The funicular runs from mid-March to early November and closes in winter.', x: [['2026년 11월 9일~2027년 3월 12일은 정상 레스토랑 공사로 푸니쿨라도 운휴합니다.|From 9 November 2026 to 12 March 2027 the funicular is closed while the summit restaurant is renovated.', '2027-03-12']], k: '2026-10' }),
   'lugano-h4': v(30, 45),
   'lugano-h5': v(30, 45),
   // Montreux
@@ -81,7 +81,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'montreux-h5': v(180, 240, { n: LIFT }),
   // Grindelwald
   'grindelwald-h1': v(20, 30),
-  'grindelwald-h2': v(150, 240, { s: 'https://www.jungfrau.ch/en-gb/grindelwaldfirst/', n: LIFT }),
+  'grindelwald-h2': v(150, 240, { s: 'https://www.jungfrau.ch/en-gb/grindelwaldfirst/', n: LIFT, k: '2026-10' }),
   'grindelwald-h3': v(120, 180, { s: 'https://www.maennlichen.ch/en/', n: LIFT }),
   'grindelwald-h4': v(60, 90, { c: 'daily', s: 'https://www.outdoor.ch/en/outdoor-experience/glacier-canyon-grindelwald', n: '봄부터 가을까지만 엽니다. 5~11월에만 엽니다.|Open spring to autumn only. Open May to November only.', k: '2026-10' }),
   'grindelwald-h5': v(30, 45),

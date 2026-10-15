@@ -52,7 +52,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'leipzig-h5': v(60, 90, { c: 'sun,mon', s: 'https://www.spinnerei.de/', n: '갤러리는 대부분 화~토요일에만 엽니다.|Most galleries open Tuesday to Saturday only.', k: '2026-10' }),
   // Dresden
   'dresden-h1': v(120, 180, { c: 'mon', s: SKD, n: '안뜰은 무료이고 박물관(옛 거장 회화관 등)은 유료입니다.|The courtyard is free; the museums (Old Masters Gallery and others) are ticketed.', k: '2026-10' }),
-  'dresden-h2': v(30, 60, { b: 'no', s: 'https://www.frauenkirche-dresden.de/home', n: '성당은 무료이고 돔 전망대만 유료입니다. 예배와 연주회 때는 관람이 제한됩니다.|Free; only the dome climb is ticketed. Visits are restricted during services and concerts.' }),
+  'dresden-h2': v(30, 60, { b: 'no', s: 'https://www.frauenkirche-dresden.de/home', n: '성당은 무료이고 돔 전망대만 유료입니다. 관람은 평일 10:00~11:30, 13:00~17:30이고 주말은 예배 일정에 따라 바뀝니다.|Free; only the dome climb is ticketed. Visiting is 10:00–11:30 and 13:00–17:30 on weekdays; weekend times depend on services.', k: '2026-10' }),
   'dresden-h3': v(120, 180, { c: 'tue', b: 'rec', s: 'https://gruenes-gewoelbe.skd.museum/en/', n: '역사적 녹색 금고는 시간 지정 입장권이 필요합니다.|The Historic Green Vault needs a timed ticket.', k: '2026-10' }),
   'dresden-h4': v(20, 30),
   'dresden-h5': v(60, 90),
@@ -95,7 +95,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'fussen-h5': v(60, 90),
 
   // Brussels
-  'brussels-h1': v(60, 75, { s: 'https://www.monarchie.be/en/heritage/royal-palace-of-brussels', n: '내부는 여름(대략 7월 말~8월)에만 무료로 공개합니다. 그 밖에는 외관만 봅니다.|The interior opens free only in summer (roughly late July–August); otherwise view the exterior.' }),
+  'brussels-h1': v(60, 75, { s: 'https://www.monarchie.be/en/heritage/royal-palace-of-brussels', n: '내부는 여름(대략 7월 초~8월 중순)에만 무료로 공개하고 온라인으로 표를 받습니다. 그 밖에는 외관만 봅니다.|The interior opens free only in summer, roughly early July to mid-August, with tickets booked online; otherwise view the exterior.', k: '2026-10' }),
   'brussels-h2': v(30, 45),
   'brussels-h3': v(90, 120, { c: 'daily', b: 'rec', s: 'https://atomium.be/', n: '해마다 겨울에 정기 점검으로 몇 주 쉽니다.|Closes for a few weeks of annual maintenance each winter.', k: '2026-10', x: [['2027년 점검 휴관은 1월 18일~2월 5일입니다.|The 2027 maintenance closure is 18 January–5 February.', '2027-02-05']] }),
   'brussels-h4': v(30, 45),
@@ -123,7 +123,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'antwerp-h3': v(30, 45),
   'antwerp-h4': v(15, 20),
   'antwerp-h5': v(90, 120, { c: 'mon', s: 'https://mas.be/en', n: '옥상 전망대와 건물 통로는 무료입니다.|The rooftop panorama and the walk up through the building are free.', k: '2026-10' }),
-  'antwerp-h6': v(45, 60, { c: 'wed', s: 'https://rubenshuis.be/en', n: '루벤스가 살던 집은 보수 공사로 2030년까지 닫혀 있고, 정원·도서관과 체험 전시만 엽니다.|The artist’s house itself is closed for restoration until 2030; only the garden, library and the Rubens Experience are open.', k: '2026-10' }),
+  'antwerp-h6': v(45, 60, { c: 'wed', s: 'https://rubenshuis.be/en', n: '루벤스가 살던 집은 보수 공사로 닫혀 있어 빨라야 2030년에 다시 열고, 정원·도서관과 체험 전시만 엽니다.|The artist’s house itself is closed for restoration and will reopen in 2030 at the earliest; only the garden, library and the Rubens Experience are open.', k: '2026-10' }),
   // Leuven
   'leuven-h1': v(15, 20),
   'leuven-h2': v(30, 45),
@@ -149,7 +149,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rotterdam-h1': v(30, 45, { c: 'daily', b: 'no', k: '2026-10' }),
   'rotterdam-h2': v(15, 20),
   'rotterdam-h3': v(20, 30, { c: 'daily', s: 'https://www.kubuswoning.nl/en/', k: '2026-10' }),
-  'rotterdam-h4': v(75, 90, { s: 'https://www.spido.nl/en/' }),
+  'rotterdam-h4': v(75, 90, { s: 'https://www.spido.nl/en/', n: '11월~3월 중순에는 월~수요일에 하루 한 번(14:00)만 운항하고, 목~일요일은 하루 4회입니다.|From November to mid-March it sails once a day (14:00) Monday–Wednesday and four times a day Thursday–Sunday.', k: '2026-10' }),
   'rotterdam-h5': v(90, 120, { c: 'mon', s: 'https://www.boijmans.nl/en', n: '본관은 보수 공사로 휴관 중이고, 바로 옆 수장고(Depot)가 문을 엽니다.|The main museum is closed for renovation; the Depot next door is open.', k: '2026-10' }),
   'rotterdam-h6': v(45, 60, { c: 'daily', s: 'https://euromast.nl/en/', k: '2026-10' }),
   // The Hague

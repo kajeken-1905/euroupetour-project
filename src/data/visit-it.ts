@@ -54,7 +54,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'turin-h2': v(90, 120, { c: 'tue', b: 'rec', s: 'https://www.museocinema.it/en', n: '전망 엘리베이터는 박물관과 표가 따로입니다.|The panoramic lift is ticketed separately from the museum.', k: '2026-10' }),
   'turin-h3': v(15, 20),
   'turin-h4': v(30, 45),
-  'turin-h5': v(90, 120, { s: 'https://www.basilicadisuperga.org/' }),
+  'turin-h5': v(90, 120, { c: 'daily', s: 'https://www.basilicadisuperga.org/', n: '성당은 평일 10:00~13:30, 14:30~18:00, 주말·공휴일 10:00~19:00에 엽니다. 사시~수페르가 산악 트램은 수요일에 운휴합니다.|The basilica opens 10:00–13:30 and 14:30–18:00 on weekdays, 10:00–19:00 at weekends and on holidays. The Sassi–Superga tram does not run on Wednesdays.', k: '2026-10' }),
   // Genoa
   'genoa-h1': v(150, 180, { c: 'daily', b: 'rec', s: 'https://www.acquariodigenova.it/en/', k: '2026-10' }),
   'genoa-h2': v(60, 90),
@@ -93,7 +93,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Vicenza
   'vicenza-h1': v(45, 60, { c: 'mon', s: 'https://www.teatrolimpicovicenza.it/en/', k: '2026-10' }),
   'vicenza-h2': v(30, 45, { c: 'mon', k: '2026-10' }),
-  'vicenza-h3': v(60, 75, { s: 'https://www.villalarotonda.it/en/', n: '개방 요일이 한정돼 있고 겨울에는 쉽니다. 방문 전 일정을 확인하세요.|Open on limited days and closed in winter—check the calendar first.' }),
+  'vicenza-h3': v(60, 75, { s: 'https://www.villalarotonda.it/en/', n: '3월 중순~12월 8일에만 엽니다. 3·11월은 토·일요일, 4~10월은 금~일요일에 엽니다.|Open only from mid-March to 8 December: at weekends in March and November, Friday–Sunday from April to October.', k: '2026-10' }),
   'vicenza-h4': v(45, 60),
   'vicenza-h5': v(20, 30),
   // Padua
@@ -140,7 +140,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Ferrara
   'ferrara-h1': v(60, 90, { c: 'tue', s: 'https://www.castelloestense.it/en', k: '2026-10' }),
   'ferrara-h2': v(15, 20),
-  'ferrara-h3': v(60, 90, { s: 'https://www.palazzodiamanti.it/en/', n: '기획전이 있을 때만 엽니다.|Open only when an exhibition is on.' }),
+  'ferrara-h3': v(60, 90, { s: 'https://www.palazzodiamanti.it/en/', n: '기획전이 있을 때만 엽니다.|Open only when an exhibition is on.', x: [['지금 전시(모네에서 반 고흐, 칸딘스키까지)는 2027년 1월 10일까지 매일 9:30~19:30에 엽니다.|The current exhibition (From Monet to Van Gogh to Kandinsky) runs to 10 January 2027, open daily 9:30–19:30.', '2027-01-10']], k: '2026-10' }),
   'ferrara-h4': v(60, 120),
   'ferrara-h5': v(15, 20),
   // Ravenna
@@ -168,7 +168,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'florence-h3': v(15, 20),
   'florence-h4': v(30, 45),
   'florence-h5': v(60, 75, { c: 'mon', b: 'req', s: 'https://www.galleriaaccademiafirenze.it/en/', n: '예약 없이 가면 줄이 1~2시간씩 걸립니다.|Without a booking the queue can run to one or two hours.', k: '2026-10' }),
-  'florence-h6': v(75, 90, { s: 'https://cultura.comune.fi.it/pagina/musei-civici-fiorentini/museo-di-palazzo-vecchio', n: '목요일은 오후 2시까지만 엽니다.|On Thursdays it closes at 2 pm.' }),
+  'florence-h6': v(75, 90, { s: 'https://cultura.comune.fi.it/pagina/musei-civici-fiorentini/museo-di-palazzo-vecchio', n: '목요일은 오후 2시까지만 엽니다.|On Thursdays it closes at 2 pm.', k: '2026-10' }),
   'florence-h7': v(45, 60, { c: 'daily', s: 'https://www.smn.it/en/', k: '2026-10' }),
   'florence-h8': v(20, 30, { s: 'https://duomo.firenze.it/en/home', n: '대성당 통합권으로 봅니다.|Visited on the cathedral complex pass.' }),
   'florence-h9': v(45, 60, { c: 'daily', k: '2026-10' }),
@@ -181,7 +181,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'lucca-h1': v(60, 90, { b: 'no', n: '성벽 위 산책로는 무료입니다.|The path on top of the walls is free.' }),
   'lucca-h2': v(15, 20),
   'lucca-h3': v(30, 40, { n: '옥상 정원까지 계단 약 230개를 오릅니다.|About 230 steps lead up to the rooftop garden.' }),
-  'lucca-h4': v(30, 45, { s: 'https://www.museocattedralelucca.it/en/' }),
+  'lucca-h4': v(30, 45, { c: 'daily', s: 'https://www.museocattedralelucca.it/en/', n: '대성당은 월~토 9:30~18:00, 일요일 12:00~18:00에 엽니다. 예배로 바뀔 수 있습니다.|The cathedral opens Monday–Saturday 9:30–18:00 and Sunday 12:00–18:00; services can change this.', k: '2026-10' }),
   'lucca-h5': v(15, 20),
   // Siena
   'siena-h1': v(30, 45),
@@ -257,7 +257,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'capri-h1': v(60, 90, { n: '동굴 안에는 5분쯤 머뭅니다. 파도가 높거나 물때가 맞지 않으면 닫고, 줄이 1시간 넘게 걸리는 날이 많습니다.|You get about five minutes inside. It closes in swell or at high water, and queues often exceed an hour.' }),
   'capri-h2': v(20, 30),
   'capri-h3': v(20, 30),
-  'capri-h4': v(60, 75, { s: 'https://www.capriseggiovia.it/en/', n: '아나카프리에서 1인용 체어리프트로 13분 오릅니다.|A 13-minute single-seat chairlift ride up from Anacapri.' }),
+  'capri-h4': v(60, 75, { s: 'https://www.capriseggiovia.it/en/', n: '아나카프리에서 1인용 체어리프트로 13분 오릅니다. 2~12월에 운행합니다.|A 13-minute single-seat chairlift ride up from Anacapri, running February to December.', k: '2026-10' }),
   'capri-h5': v(20, 30),
   // Bari
   'bari-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.basilicasannicola.it/', n: FREE, k: '2026-10' }),

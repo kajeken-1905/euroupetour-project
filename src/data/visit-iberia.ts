@@ -92,13 +92,13 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Zaragoza
   'zaragoza-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://catedraldezaragoza.es/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The basilica is free; only the tower lift is ticketed.', k: '2026-10' }),
   'zaragoza-h2': v(60, 75, { n: '아라곤 의회가 쓰는 건물이라 회의가 있는 날은 관람이 제한됩니다.|Home to the Aragonese parliament, so visits are restricted on sitting days.' }),
-  'zaragoza-h3': v(45, 60, { s: 'https://catedraldezaragoza.es/' }),
+  'zaragoza-h3': v(45, 60, { s: 'https://catedraldezaragoza.es/', n: '월~토 10:00~14:30, 16:00~20:00, 일요일 10:00~12:00, 16:00~20:00에 엽니다. 종교 행사로 바뀔 수 있습니다.|Open Monday–Saturday 10:00–14:30 and 16:00–20:00, Sunday 10:00–12:00 and 16:00–20:00; religious events can change this.', k: '2026-10' }),
   'zaragoza-h4': v(20, 30),
   'zaragoza-h5': v(30, 45),
   // Valencia
   'valencia-h1': v(180, 300, { c: 'daily', s: 'https://cac.es/en/', n: '과학관·수족관·아이맥스는 표가 각각이고 묶음권이 있습니다. 과학관은 대개 10:00~18:00이고 12월 25일은 쉽니다. 건물 밖은 무료로 걷습니다.|The science museum, aquarium and IMAX are ticketed separately, with combined passes. The science museum usually opens 10:00–18:00 and closes on 25 December; the grounds are free.', k: '2026-10' }),
   'valencia-h2': v(30, 45, { c: 'sun', b: 'no', s: 'https://www.mercadocentralvalencia.es/', n: '오후 3시쯤 닫습니다.|Shuts at about 3 pm.', k: '2026-10' }),
-  'valencia-h3': v(45, 60, { s: 'https://catedraldevalencia.es/en/' }),
+  'valencia-h3': v(45, 60, { s: 'https://catedraldevalencia.es/en/', n: '관광 관람은 월~토 10:30부터, 일요일 14:00부터이고 일부 종교 축일에는 쉽니다.|Sightseeing starts at 10:30 Monday–Saturday and at 14:00 on Sundays; closed on some religious holidays.', k: '2026-10' }),
   'valencia-h4': v(30, 40),
   'valencia-h5': v(60, 120),
   // Palma
@@ -148,7 +148,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'ronda-h1': v(20, 30),
   'ronda-h2': v(45, 60),
   'ronda-h3': v(45, 60, { c: 'daily', s: 'https://www.rmcr.org/en/', k: '2026-10' }),
-  'ronda-h4': v(45, 60, { s: 'https://casadelreymoro.org/en/home/', n: '협곡 아래까지 계단 약 230개를 내려갑니다.|About 230 steps lead down to the river.' }),
+  'ronda-h4': v(45, 60, { c: 'daily', s: 'https://casadelreymoro.org/en/home/', n: '협곡 아래까지 계단 약 230개를 내려갑니다. 저택 건물은 복원 중이라 물의 광산과 정원만 볼 수 있습니다.|About 230 steps lead down to the river. The house itself is being restored; only the water mine and garden can be visited.', k: '2026-10' }),
   'ronda-h5': v(15, 20),
   // Nerja
   'nerja-h1': v(15, 20),
@@ -166,7 +166,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'bilbao-h1': v(120, 150, { c: 'mon', b: 'rec', s: 'https://www.guggenheim-bilbao.eus/en', n: '한여름(6월 중순~9월 초)과 일부 연휴에는 월요일에도 엽니다. 입장권은 날짜와 시간이 정해져 있고 바꿀 수 없습니다.|Open on Mondays too in high summer (mid-June to early September) and on some holiday Mondays. Tickets are for a fixed date and time and cannot be changed.', k: '2026-10' }),
   'bilbao-h2': v(60, 90),
   'bilbao-h3': v(15, 20),
-  'bilbao-h4': v(45, 60, { s: 'https://puente-colgante.com/en/' }),
+  'bilbao-h4': v(45, 60, { c: 'daily', s: 'https://puente-colgante.com/en/', n: '보행 통로는 부활절~10월 10:00~20:00, 11월~부활절 10:00~14:00, 16:00~19:00에 엽니다. 날씨에 따라 바뀔 수 있습니다.|The walkway opens 10:00–20:00 from Easter to October and 10:00–14:00, 16:00–19:00 from November to Easter, weather permitting.', k: '2026-10' }),
   'bilbao-h5': v(30, 45),
   // San Sebastián
   'san-sebastian-h1': v(60, 120),
@@ -187,7 +187,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'andorra-la-vella-h3': v(60, 90),
   'andorra-la-vella-h4': v(180, 180, { c: 'daily', b: 'rec', s: 'https://www.caldea.com/en', n: '시설 점검으로 해마다 몇 주씩 쉬는 기간이 있습니다.|Shuts for a few weeks each year for maintenance.', k: '2026-10' }),
   'andorra-la-vella-h5': v(30, 45),
-  'pas-de-la-casa-h1': v(240, 420, { s: 'https://www.grandvalira.com/en', n: '스키 시즌은 대략 12월부터 4월까지입니다.|The ski season runs roughly December to April.' }),
+  'pas-de-la-casa-h1': v(240, 420, { s: 'https://www.grandvalira.com/en', n: '스키 시즌은 대략 12월부터 4월까지입니다.|The ski season runs roughly December to April.', x: [['2026~27 시즌은 2026년 12월 4일~2027년 4월 4일(눈 상황에 따라 변동), 9:00~17:00입니다.|The 2026–27 season runs 4 December 2026 to 4 April 2027 (snow permitting), 9:00–17:00.', '2027-04-04']], k: '2026-10' }),
   'pas-de-la-casa-h2': v(60, 90),
   'pas-de-la-casa-h3': v(30, 45),
   'pas-de-la-casa-h4': v(120, 240),
@@ -210,7 +210,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'porto-h9': v(10, 15),
   // Braga
   'braga-h1': v(75, 90, { b: 'no', s: 'https://bomjesus.pt/en/', n: '성지는 무료이고 수력 푸니쿨라만 유료입니다.|The sanctuary is free; only the water-powered funicular charges.' }),
-  'braga-h2': v(30, 45, { s: 'https://se-braga.pt/' }),
+  'braga-h2': v(30, 45, { c: 'daily', s: 'https://se-braga.pt/', n: '매일 9:30~13:00, 14:30~18:00에 관람하며, 보물 박물관 코스는 월요일에 쉽니다. 12월 25일은 휴무입니다.|Visits run daily 9:30–13:00 and 14:30–18:00; the treasury museum route closes on Mondays. Closed 25 December.', k: '2026-10' }),
   'braga-h3': v(15, 20),
   'braga-h4': v(10, 10),
   'braga-h5': v(30, 45),
@@ -287,7 +287,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'cascais-h5': v(20, 30),
   // Évora
   'evora-h1': v(10, 15),
-  'evora-h2': v(45, 60, { s: 'https://www.evoracathedral.com/?lang=en' }),
+  'evora-h2': v(45, 60, { c: 'daily', s: 'https://www.evoracathedral.com/?lang=en', n: '매일 9:00~17:00에 엽니다. 12월 24일 오후, 12월 25일, 1월 1일만 쉽니다.|Open daily 9:00–17:00; closed only on the afternoon of 24 December, on 25 December and on 1 January.', k: '2026-10' }),
   'evora-h3': v(30, 40, { c: 'daily', s: 'https://igrejadesaofrancisco.pt/', n: '1월 1일, 부활절 일요일, 12월 24일 오후, 12월 25일은 쉽니다.|Closed 1 January, Easter Sunday, the afternoon of 24 December and 25 December.', k: '2026-10' }),
   'evora-h4': v(15, 20),
   'evora-h5': v(15, 20),

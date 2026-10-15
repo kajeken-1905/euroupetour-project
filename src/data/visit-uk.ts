@@ -8,19 +8,19 @@ const SBT = 'https://www.shakespeare.org.uk/'
 /** Monaco, United Kingdom, Ireland */
 export const visitUk: Record<string, HighlightVisit> = {
   // Monaco
-  'monaco-h1': v(45, 60, { s: 'https://www.visitepalaisdemonaco.com/en/', n: '궁전 내부는 봄부터 가을까지만 공개합니다. 근위병 교대식은 매일 11시 55분에 광장에서 열립니다.|The state apartments open only from spring to autumn. The guard changes daily at 11:55 on the square.' }),
+  'monaco-h1': v(45, 60, { s: 'https://www.visitepalaisdemonaco.com/en/', n: '궁전 내부(그랑 아파르트망)는 봄부터 10월 중순까지만 공개하고, F1 그랑프리 주말에는 닫습니다. 근위병 교대식은 매일 11시 55분에 광장에서 열립니다.|The State Apartments open only from spring to mid-October and close on the F1 Grand Prix weekend. The guard changes daily at 11:55 on the square.', k: '2026-10' }),
   'monaco-h2': v(15, 20, { b: 'no', n: FREE }),
   'monaco-h3': v(90, 120, { c: 'daily', s: 'https://musee.oceano.org/en/', n: '12월 25일과 F1 그랑프리 주말에는 쉽니다.|Closed on 25 December and over the Formula 1 Grand Prix weekend.', k: '2026-10' }),
   'monaco-h4': v(20, 30),
   'monaco-h5': v(20, 30),
-  'monte-carlo-h1': v(30, 60, { s: 'https://www.montecarlosbm.com/en/casino-monaco/casino-monte-carlo', n: '입장에는 여권이 필요하고 만 18세 이상만 들어갑니다. 오후 게임 시간에는 복장 규정이 있습니다.|Bring your passport; over-18s only. A dress code applies once gaming starts in the afternoon.' }),
+  'monte-carlo-h1': v(30, 60, { c: 'daily', s: 'https://www.montecarlosbm.com/en/casino-monaco/casino-monte-carlo', n: '매일 10:00~13:00에 관람하고 게임장은 14:00부터 엽니다. 입장에는 여권이 필요하고 만 18세 이상만 들어갑니다. 게임 시간에는 복장 규정이 있습니다.|Visits run daily 10:00–13:00 and the gaming rooms open from 14:00. Bring your passport; over-18s only. A dress code applies during gaming hours.', k: '2026-10' }),
   'monte-carlo-h2': v(15, 20),
   'monte-carlo-h3': v(30, 45, { n: '5월 그랑프리 전후로는 도로와 보행로가 통제됩니다.|Roads and pavements are closed off around the Grand Prix in May.' }),
   'monte-carlo-h4': v(45, 90),
   'monte-carlo-h5': v(30, 45),
 
   // London
-  'london-h1': v(30, 45, { s: 'https://www.rct.uk/visit/buckingham-palace', n: '궁전 내부(스테이트 룸)는 여름(대략 7~9월)에만 공개하고 예약이 필요합니다. 그 밖의 계절에는 밖에서 근위병 교대식을 봅니다.|The State Rooms open only in summer (roughly July–September) and need booking; otherwise watch the Changing of the Guard from outside.' }),
+  'london-h1': v(30, 45, { s: 'https://www.rct.uk/visit/buckingham-palace', n: '궁전 내부(스테이트 룸)는 여름에만 공개하고 예약이 필요합니다(대략 7월 초~9월 말). 그 밖의 계절에는 밖에서 근위병 교대식을 봅니다.|The State Rooms open only in summer and need booking (roughly early July to late September). At other times, watch the Changing the Guard outside.', k: '2026-10' }),
   'london-h2': v(10, 15),
   'london-h15': v(75, 90, { b: 'req', s: 'https://www.parliament.uk/visiting/', n: '내부 투어는 토요일과 의회 휴회 기간에만 있습니다.|Tours run only on Saturdays and during parliamentary recesses.', k: '2026-10' }),
   'london-h3': v(90, 120, { c: 'sun', b: 'rec', s: 'https://www.westminster-abbey.org/', n: '일요일은 예배만 있고 관광 입장은 없습니다.|Sundays are for worship only—no sightseeing entry.', k: '2026-10' }),
@@ -90,10 +90,10 @@ export const visitUk: Record<string, HighlightVisit> = {
   'bristol-h3': v(60, 90),
   'bristol-h4': v(20, 30),
   'bristol-h5': v(20, 30, { b: 'no', n: FREE }),
-  'bristol-h6': v(120, 150, { s: 'https://www.ssgreatbritain.org/' }),
+  'bristol-h6': v(120, 150, { c: 'mon', s: 'https://www.ssgreatbritain.org/', n: '화~일요일에 엽니다.|Open Tuesday to Sunday.', k: '2026-10' }),
   // Salisbury
   'salisbury-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.english-heritage.org.uk/visit/places/stonehenge/', n: '시간 지정 입장이며 솔즈베리에서 버스로 30분쯤 걸립니다.|Entry is by timed ticket; it is about 30 minutes by bus from Salisbury.', k: '2026-10' }),
-  'salisbury-h2': v(60, 90, { s: 'https://www.salisburycathedral.org.uk/' }),
+  'salisbury-h2': v(60, 90, { s: 'https://www.salisburycathedral.org.uk/', n: '월~토요일 9:30~17:00(마지막 입장 16:15)에 관람하고 일요일은 시간이 다릅니다. 예배·행사로 바뀔 수 있습니다.|Sightseeing Monday–Saturday 9:30–17:00 (last entry 16:15), with different Sunday hours; services and events can change this.', k: '2026-10' }),
   'salisbury-h3': v(45, 60, { s: 'https://www.english-heritage.org.uk/visit/places/old-sarum/' }),
   'salisbury-h4': v(60, 90, { b: 'no', n: '거석은 무료로 자유롭게 볼 수 있습니다.|The stones are free to walk among.' }),
   // St Ives
@@ -139,26 +139,26 @@ export const visitUk: Record<string, HighlightVisit> = {
   'edinburgh-h6': v(120, 180, { c: 'daily', b: 'no', s: 'https://www.nms.ac.uk/national-museum-of-scotland', n: FREE, k: '2026-10' }),
   'edinburgh-h7': v(30, 45),
   // Glasgow
-  'glasgow-h1': v(30, 45, { b: 'no', s: 'https://glasgowcathedral.org/', n: FREE }),
+  'glasgow-h1': v(30, 45, { b: 'no', s: 'https://glasgowcathedral.org/', n: FREE, k: '2026-10' }),
   'glasgow-h2': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum', n: FREE, k: '2026-10' }),
   'glasgow-h3': v(30, 45),
   'glasgow-h4': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/riverside-museum', n: FREE, k: '2026-10' }),
   'glasgow-h5': v(10, 15),
   // Stirling
   'stirling-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/stirling-castle/', k: '2026-10' }),
-  'stirling-h2': v(60, 90, { s: 'https://www.nationalwallacemonument.com/', n: '탑 꼭대기까지 계단 246개를 오릅니다.|The top is reached by 246 steps.' }),
+  'stirling-h2': v(60, 90, { b: 'rec', s: 'https://www.nationalwallacemonument.com/', n: '탑 꼭대기까지 계단 246개를 오릅니다. 12월 25·26일과 1월 1일은 쉬고, 온라인 시간 예약을 권합니다.|The top is reached by 246 steps. Closed 25–26 December and 1 January; booking a time slot online is advised.', k: '2026-10' }),
   'stirling-h3': v(15, 20),
   'stirling-h4': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.thehelix.co.uk/', n: '조형물은 무료로 볼 수 있습니다.|The sculptures are free to see.', k: '2026-10' }),
   // St Andrews
   'st-andrews-h1': v(30, 45, { s: 'https://www.standrews.com/', n: '일요일에는 경기가 없어 코스를 걸을 수 있습니다.|No golf is played on Sundays, when you can walk the course.' }),
-  'st-andrews-h2': v(45, 60, { s: 'https://www.historicenvironment.scot/visit/all/st-andrews-cathedral/' }),
+  'st-andrews-h2': v(45, 60, { s: 'https://www.historicenvironment.scot/visit/all/st-andrews-cathedral/', n: '유적 경내는 무료로 들어갈 수 있고 탑과 박물관만 유료입니다. 박물관은 정비로 닫혀 있습니다. 겨울 운영 시간은 공식 안내끼리 달라 방문 전에 확인하세요.|The grounds are free; only the tower and museum charge. The museum is closed for maintenance. Official winter hours disagree—check before you go.', k: '2026-10' }),
   'st-andrews-h3': v(30, 60),
   'st-andrews-h4': v(45, 60),
   // Inverness
   'inverness-h1': v(120, 180),
   'inverness-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/urquhart-castle/', k: '2026-10' }),
-  'inverness-h3': v(90, 120, { s: 'https://www.nts.org.uk/visit/places/culloden', n: '전투지 들판은 무료이고 방문자 센터만 유료입니다.|The battlefield is free; only the visitor centre charges.' }),
-  'inverness-h4': v(75, 90, { s: 'https://invernesscastle.scot/' }),
+  'inverness-h3': v(90, 120, { c: 'daily', s: 'https://www.nts.org.uk/visit/places/culloden', n: '전투지 들판은 무료이고 방문자 센터만 유료입니다.|The battlefield is free; only the visitor centre charges.', k: '2026-10' }),
+  'inverness-h4': v(75, 90, { c: 'daily', b: 'rec', s: 'https://invernesscastle.scot/', n: '크리스마스만 쉽니다. 4~9월 10:00~19:00, 10~3월 10:00~18:00이고 온라인 예약이 더 쌉니다.|Closed only on Christmas Day. Open 10:00–19:00 April–September and 10:00–18:00 October–March; booking online is cheaper.', k: '2026-10' }),
   'inverness-h5': v(30, 45),
   // Isle of Skye
   'isle-of-skye-h1': v(90, 120),
@@ -170,7 +170,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'cardiff-h1': v(90, 120, { c: 'daily', s: 'https://www.cardiffcastle.com/', k: '2026-10' }),
   'cardiff-h2': v(60, 90),
   'cardiff-h3': v(60, 75, { b: 'req', s: 'https://www.principalitystadium.wales/tours/', n: '경기와 행사 일정에 따라 투어가 없는 날이 있습니다.|No tours on some match and event days.', k: '2026-10' }),
-  'cardiff-h4': v(60, 75, { s: 'https://cadw.gov.wales/visit/places-to-visit/castell-coch' }),
+  'cardiff-h4': v(60, 75, { s: 'https://cadw.gov.wales/visit/places-to-visit/castell-coch', n: '매년 1월에는 문을 닫고 12월 24~26일에도 쉽니다.|Closed every January and on 24–26 December.', k: '2026-10' }),
   'cardiff-h5': v(150, 210, { c: 'daily', b: 'no', s: 'https://museum.wales/stfagans/', n: FREE, k: '2026-10' }),
   // Tenby
   'tenby-h1': v(30, 45),
@@ -184,10 +184,10 @@ export const visitUk: Record<string, HighlightVisit> = {
   'snowdonia-h4': v(20, 30),
   'snowdonia-h5': v(120, 180, { s: 'https://portmeirion.wales/' }),
   // Conwy
-  'conwy-h1': v(75, 90, { s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-castle' }),
+  'conwy-h1': v(75, 90, { s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-castle', k: '2026-10' }),
   'conwy-h2': v(30, 45, { b: 'no', n: FREE }),
   'conwy-h3': v(10, 15),
-  'conwy-h4': v(45, 60, { s: 'https://cadw.gov.wales/visit/places-to-visit/plas-mawr', n: '봄부터 가을까지만 엽니다.|Open spring to autumn only.' }),
+  'conwy-h4': v(45, 60, { s: 'https://cadw.gov.wales/visit/places-to-visit/plas-mawr', n: '3월부터 10월까지만 엽니다(11월 초~2월 휴관).|Open March to October only (closed early November to February).', k: '2026-10' }),
   // Belfast
   'belfast-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.titanicbelfast.com/', k: '2026-10' }),
   'belfast-h2': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.belfastcity.gov.uk/things-to-do/city-hall', n: FREE, k: '2026-10' }),
@@ -238,7 +238,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Limerick
   'limerick-h1': v(75, 90, { c: 'daily', s: 'https://kingjohnscastle.ie/', k: '2026-10' }),
   'limerick-h2': v(10, 15),
-  'limerick-h3': v(60, 75, { s: 'https://www.huntmuseum.com/' }),
+  'limerick-h3': v(60, 75, { c: 'mon', s: 'https://www.huntmuseum.com/', k: '2026-10' }),
   'limerick-h4': v(30, 45),
   'limerick-h5': v(30, 45),
 }
