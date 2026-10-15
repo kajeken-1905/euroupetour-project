@@ -2274,9 +2274,9 @@ button.back-link {
   .bottom-tab,
   .phone-shell--neon .bottom-tab {
     order: -1;
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
     width: auto;
-    justify-content: flex-start;
     gap: 6px;
     padding: 18px 40px 14px;
     border-top: 0;
@@ -2285,8 +2285,6 @@ button.back-link {
   }
 
   .bottom-tab a {
-    width: auto;
-    min-width: 96px;
     padding: 10px 18px;
   }
 
