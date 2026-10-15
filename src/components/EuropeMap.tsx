@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState, useSyncExternalStore } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ComposableMap, Geographies, Geography, Line, Marker, ZoomableGroup } from 'react-simple-maps'
 import { feature } from 'topojson-client'
@@ -28,20 +28,41 @@ const FLAG_FILL_OPACITY = 0.45
  * Canaries, ...), which barely reads at mobile size anyway. */
 const NEAR_MAINLAND_MARGIN = 35
 
-const MAP_WIDTH = 800
-const MAP_HEIGHT = 485
+interface MapLayout {
+  width: number
+  height: number
+  center: [number, number]
+  scale: number
+  /** 'inset': Iceland in a labelled box above the UK; 'true': at its real position on the map. */
+  iceland: 'inset' | 'true'
+}
+
+/** Phones: a compact frame on central Europe, with Iceland boxed above the UK. */
+const PHONE_LAYOUT: MapLayout = { width: 800, height: 485, center: [20, 52.5], scale: 570, iceland: 'inset' }
+/** Wide screens: a 2:1 map that fills the window, North Cape to Cyprus, with room for Iceland where it is. */
+const WIDE_LAYOUT: MapLayout = { width: 1100, height: 535, center: [13, 56.7], scale: 453, iceland: 'true' }
+
+const WIDE_QUERY = '(min-width: 1024px)'
+function useWideScreen() {
+  return useSyncExternalStore(
+    (onChange) => {
+      const media = window.matchMedia(WIDE_QUERY)
+      media.addEventListener('change', onChange)
+      return () => media.removeEventListener('change', onChange)
+    },
+    () => window.matchMedia(WIDE_QUERY).matches,
+    () => false,
+  )
+}
+
 const ICELAND_ISO = '352'
-const DEFAULT_CENTER: [number, number] = [20, 52.5]
 const SELECTED_ZOOM = 4
 const MAX_ZOOM = 6
 /** Shrinks the fit-to-screen target box a bit so a selected country isn't flush against the edges. */
 const FIT_MARGIN = 0.85
 /** Zoom used when the route is a single city (or several at the same spot). */
 const ROUTE_POINT_ZOOM = 4
-/** Fixed screen position for the selected-country label, in the map's own viewBox units. */
-const LABEL_ANCHOR: [number, number] = [MAP_WIDTH / 2, 18]
-
-/** Iceland is rendered as a boxed inset above the UK instead of in its true
+/** On phones Iceland is rendered as a boxed inset above the UK instead of in its true
  * far-northwest position, so the main map isn't zoomed out to accommodate it. */
 const ICELAND_INSET_BOX = { x: 40, y: 8, width: 108, height: 78 }
 
@@ -139,6 +160,10 @@ export function EuropeMap() {
   const navigate = useNavigate()
   const { lang } = useLanguage()
   const { data: visitedData } = useVisitedPlaces()
+  const layout = useWideScreen() ? WIDE_LAYOUT : PHONE_LAYOUT
+  const { width: MAP_WIDTH, height: MAP_HEIGHT, center: DEFAULT_CENTER, scale: MAP_SCALE } = layout
+  // Fixed screen position for the selected-country label, in the map's own viewBox units.
+  const LABEL_ANCHOR: [number, number] = [MAP_WIDTH / 2, 18]
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
   const trip = useTrip()
@@ -164,8 +189,8 @@ export function EuropeMap() {
   // Matches ComposableMap's own projectionConfig, so bounds computed here line up
   // exactly with where Geography actually draws each country's path.
   const boundsPath = useMemo(
-    () => geoPath(geoMercator().center(DEFAULT_CENTER).scale(570).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])),
-    [],
+    () => geoPath(geoMercator().center(DEFAULT_CENTER).scale(MAP_SCALE).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])),
+    [DEFAULT_CENTER, MAP_SCALE, MAP_WIDTH, MAP_HEIGHT],
   )
 
   const centroidById = useMemo(() => {
@@ -216,18 +241,27 @@ export function EuropeMap() {
     return boundsPath(selectedNear.feature)
   }, [selectedNear, boundsPath])
 
+  // Where Iceland is drawn: the fixed inset on phones, or a box around its true position on the wide map
+  // (so it sits in the Atlantic where it belongs, still drawn apart from the pan/zoom layer as before).
+  const icelandBox = useMemo(() => {
+    if (layout.iceland === 'inset') return ICELAND_INSET_BOX
+    const icelandFeature = geoData.features.find((f) => f.id === ICELAND_ISO)
+    if (!icelandFeature) return ICELAND_INSET_BOX
+    const [[x0, y0], [x1, y1]] = boundsPath.bounds(icelandFeature)
+    return { x: x0 - 4, y: y0 - 4, width: x1 - x0 + 8, height: y1 - y0 + 8 }
+  }, [layout, geoData, boundsPath])
   const icelandPath = useMemo(() => {
     const icelandFeature = geoData.features.find((f) => f.id === ICELAND_ISO)
     if (!icelandFeature) return null
     const projection = geoMercator().fitExtent(
       [
-        [ICELAND_INSET_BOX.x + 4, ICELAND_INSET_BOX.y + 4],
-        [ICELAND_INSET_BOX.x + ICELAND_INSET_BOX.width - 4, ICELAND_INSET_BOX.y + ICELAND_INSET_BOX.height - 4],
+        [icelandBox.x + 4, icelandBox.y + 4],
+        [icelandBox.x + icelandBox.width - 4, icelandBox.y + icelandBox.height - 4],
       ],
       icelandFeature,
     )
     return geoPath(projection)(icelandFeature)
-  }, [geoData])
+  }, [geoData, icelandBox])
 
   const iceland = countries.find((c) => c.id === 'is')
   const selectedCountry = selectedId ? countries.find((c) => c.id === selectedId) : undefined
@@ -268,7 +302,7 @@ export function EuropeMap() {
     return legs
   }, [routeStops])
   const routeFit = useMemo(() => {
-    const projection = geoMercator().center(DEFAULT_CENTER).scale(570).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])
+    const projection = geoMercator().center(DEFAULT_CENTER).scale(MAP_SCALE).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])
     const points = routeStops.flatMap((stop) => (stop?.at ? [projection(stop.at)!] : []))
     if (points.length === 0) return null
     const xs = points.map((p) => p[0])
@@ -278,7 +312,7 @@ export function EuropeMap() {
     const center = projection.invert!([(Math.max(...xs) + Math.min(...xs)) / 2, (Math.max(...ys) + Math.min(...ys)) / 2])!
     const fit = Math.min((MAP_WIDTH * 0.7) / Math.max(width, 1), (MAP_HEIGHT * 0.7) / Math.max(height, 1))
     return { center: center as [number, number], zoom: Math.min(Math.max(fit, 1), width + height < 2 ? ROUTE_POINT_ZOOM : MAX_ZOOM) }
-  }, [routeStops])
+  }, [routeStops, DEFAULT_CENTER, MAP_SCALE, MAP_WIDTH, MAP_HEIGHT])
 
   const handleSelect = (countryId: string) => {
     setRouteView(false)
@@ -325,7 +359,7 @@ export function EuropeMap() {
       zoom = Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
     }
     setMapView({ center: centroid, zoom })
-  }, [selectedId, centroidById, selectedBounds, routeView, routeFit])
+  }, [selectedId, centroidById, selectedBounds, routeView, routeFit, DEFAULT_CENTER, MAP_WIDTH, MAP_HEIGHT])
 
   const zoomCenter = mapView.center
   const zoomLevel = mapView.zoom
@@ -336,7 +370,7 @@ export function EuropeMap() {
         width={MAP_WIDTH}
         height={MAP_HEIGHT}
         projection="geoMercator"
-        projectionConfig={{ center: DEFAULT_CENTER, scale: 570 }}
+        projectionConfig={{ center: DEFAULT_CENTER, scale: MAP_SCALE }}
         className="europe-map-svg"
       >
         <ZoomableGroup
@@ -509,11 +543,11 @@ export function EuropeMap() {
               </defs>
             ) : null}
             <rect
-              x={ICELAND_INSET_BOX.x - 2}
-              y={ICELAND_INSET_BOX.y - 2}
-              width={ICELAND_INSET_BOX.width + 4}
-              height={ICELAND_INSET_BOX.height + 4}
-              className="map-iceland-inset-box"
+              x={icelandBox.x - 2}
+              y={icelandBox.y - 2}
+              width={icelandBox.width + 4}
+              height={icelandBox.height + 4}
+              className={`map-iceland-inset-box${layout.iceland === 'true' ? ' map-iceland-inset-box--bare' : ''}`}
             />
             <path
               d={icelandPath}
@@ -528,10 +562,10 @@ export function EuropeMap() {
             {selectedId === 'is' ? (
               <image
                 href={assetUrl(iceland.flagImage)}
-                x={ICELAND_INSET_BOX.x}
-                y={ICELAND_INSET_BOX.y}
-                width={ICELAND_INSET_BOX.width}
-                height={ICELAND_INSET_BOX.height}
+                x={icelandBox.x}
+                y={icelandBox.y}
+                width={icelandBox.width}
+                height={icelandBox.height}
                 preserveAspectRatio="none"
                 clipPath="url(#flag-clip-is)"
                 opacity={FLAG_FILL_OPACITY}

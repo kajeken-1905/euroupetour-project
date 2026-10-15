@@ -2369,10 +2369,9 @@ button.back-link {
     overflow: hidden;
   }
 
-  /* The Europe map fits the window height instead of running below it. */
+  /* The Europe map uses its own wide 2:1 frame (see EuropeMap) and spans the content width. */
   .europe-map-wrap {
-    margin: 0 auto;
-    max-width: calc((100dvh - 230px) * 800 / 485);
+    margin: 0;
   }
 
   /* The home heading repeats the brand in the top bar, so only the language switch stays. */
@@ -3546,4 +3545,10 @@ a.plan-btn {
   .home-trip .search-item {
     transition: none;
   }
+}
+
+/* On the wide map Iceland sits at its true position, so its box needs no frame. */
+.map-iceland-inset-box--bare {
+  fill: transparent;
+  stroke: none;
 }
