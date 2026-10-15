@@ -2375,6 +2375,16 @@ button.back-link {
     max-width: calc((100dvh - 230px) * 800 / 485);
   }
 
+  /* The home heading repeats the brand in the top bar, so only the language switch stays. */
+  .home-head {
+    justify-content: flex-end;
+    padding-bottom: 0;
+  }
+
+  .home-head-text {
+    display: none;
+  }
+
   /* A district heading between sights spans the whole row. */
   .highlight-list .highlight-group {
     grid-column: 1 / -1;

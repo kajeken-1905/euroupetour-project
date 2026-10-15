@@ -54,8 +54,8 @@ export function HomePage() {
 
   return (
     <div className="home-neon">
-      <header className="top-bar">
-        <div>
+      <header className="top-bar home-head">
+        <div className="home-head-text">
           <span className="home-kicker">EUROPE TOUR</span>
           <h1>{t('appTitle', lang)}</h1>
           <p>{t('checklistSubtitle', lang)}</p>
