@@ -37,8 +37,8 @@ interface MapLayout {
   iceland: 'inset' | 'true'
 }
 
-/** Phones: a compact frame on central Europe, with Iceland boxed above the UK. */
-const PHONE_LAYOUT: MapLayout = { width: 800, height: 485, center: [20, 52.5], scale: 570, iceland: 'inset' }
+/** Phones: a compact frame on central Europe; Iceland sits where it is and pans and zooms with the map. */
+const PHONE_LAYOUT: MapLayout = { width: 800, height: 485, center: [20, 52.5], scale: 570, iceland: 'true' }
 /** Wide screens: a 2:1 map that fills the window, North Cape to Cyprus, with room for Iceland where it is. */
 const WIDE_LAYOUT: MapLayout = { width: 1100, height: 535, center: [13, 56.7], scale: 453, iceland: 'true' }
 
