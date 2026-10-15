@@ -2354,13 +2354,9 @@ button.back-link {
     gap: 20px;
   }
 
-  .place-list {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
-  }
-
-  /* Cities and sights in four columns, like the countries. */
+  /* Cities, sights and restaurants in four columns, like the countries. */
   .city-list,
+  .place-list,
   .highlight-list {
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 16px;
