@@ -164,6 +164,9 @@ export function EuropeMap() {
   const { width: MAP_WIDTH, height: MAP_HEIGHT, center: DEFAULT_CENTER, scale: MAP_SCALE } = layout
   // Fixed screen position for the selected-country label, in the map's own viewBox units.
   const LABEL_ANCHOR: [number, number] = [MAP_WIDTH / 2, 18]
+  // On phones Iceland is a fixed inset apart from the map; on the wide map it is an ordinary country that pans
+  // and zooms with the rest.
+  const insetIceland = layout.iceland === 'inset'
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [selectedCityId, setSelectedCityId] = useState<string | null>(null)
   const trip = useTrip()
@@ -196,7 +199,7 @@ export function EuropeMap() {
   const centroidById = useMemo(() => {
     const map = new Map<string, [number, number]>()
     for (const geoFeature of geoData.features) {
-      if (geoFeature.id === ICELAND_ISO) continue
+      if (insetIceland && geoFeature.id === ICELAND_ISO) continue
       const isKosovo = geoFeature.properties?.name === KOSOVO_NAME
       const country = isKosovo
         ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
@@ -212,19 +215,19 @@ export function EuropeMap() {
       map.set(id, coords)
     }
     return map
-  }, [geoData])
+  }, [geoData, insetIceland])
 
   const selectedGeoFeature = useMemo(() => {
-    if (!selectedId || selectedId === 'is') return null
+    if (!selectedId || (insetIceland && selectedId === 'is')) return null
     return (
       geoData.features.find((f) => {
-        if (f.id === ICELAND_ISO) return false
+        if (insetIceland && f.id === ICELAND_ISO) return false
         const isKosovo = f.properties?.name === KOSOVO_NAME
         const c = isKosovo ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID) : isoToCountry.get(String(f.id))
         return c?.id === selectedId
       }) ?? null
     )
-  }, [geoData, selectedId])
+  }, [geoData, selectedId, insetIceland])
 
   // The mainland plus any nearby island (Northern Ireland, Corsica, the
   // Balearics, ...), combined — both its outline (to clip a single flag image
@@ -285,12 +288,13 @@ export function EuropeMap() {
     () =>
       trip.route.map((id, i) => {
         const city = cities.find((c) => c.id === id)
-        const onMap = city && city.countryId !== 'is' && city.lat !== undefined && city.lng !== undefined
+        const onMap =
+          city && (!insetIceland || city.countryId !== 'is') && city.lat !== undefined && city.lng !== undefined
         return city
           ? { n: i + 1, id: city.id, name: city.name, at: onMap ? ([city.lng!, city.lat!] as [number, number]) : null }
           : null
       }),
-    [trip.route],
+    [trip.route, insetIceland],
   )
   const routeLegs = useMemo(() => {
     const legs: [[number, number], [number, number]][] = []
@@ -346,7 +350,7 @@ export function EuropeMap() {
       setMapView(routeView && routeFit ? routeFit : { center: DEFAULT_CENTER, zoom: 1 })
       return
     }
-    if (selectedId === 'is') return
+    if (insetIceland && selectedId === 'is') return
     const centroid = centroidById.get(selectedId)
     if (!centroid) return
     // Fit the selected country's own bounding box into the map's own fixed
@@ -359,7 +363,7 @@ export function EuropeMap() {
       zoom = Math.min(Math.max(Math.min(fitWidth, fitHeight), 1), MAX_ZOOM)
     }
     setMapView({ center: centroid, zoom })
-  }, [selectedId, centroidById, selectedBounds, routeView, routeFit, DEFAULT_CENTER, MAP_WIDTH, MAP_HEIGHT])
+  }, [selectedId, centroidById, selectedBounds, routeView, routeFit, DEFAULT_CENTER, MAP_WIDTH, MAP_HEIGHT, insetIceland])
 
   const zoomCenter = mapView.center
   const zoomLevel = mapView.zoom
@@ -383,7 +387,7 @@ export function EuropeMap() {
           <Geographies geography={geoData}>
             {({ geographies }) =>
               geographies
-                .filter((geo) => geo.id !== ICELAND_ISO)
+                .filter((geo) => !insetIceland || geo.id !== ICELAND_ISO)
                 .map((geo) => {
                   const isKosovo = geo.properties?.name === KOSOVO_NAME
                   const country = isKosovo
@@ -528,7 +532,7 @@ export function EuropeMap() {
             </text>
           </g>
         ) : null}
-        {icelandPath && iceland && !routeView && (!selectedId || selectedId === 'is') ? (
+        {insetIceland && icelandPath && iceland && !routeView && (!selectedId || selectedId === 'is') ? (
           <g
             className="map-iceland-inset"
             onClick={() => handleSelect('is')}
