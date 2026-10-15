@@ -2249,63 +2249,135 @@ button.back-link {
  * pages that were single-column stacks pick up extra grid columns.
  * ---------------------------------------------------------------------- */
 
+.app-brand {
+  display: none;
+}
+
+/* —— Wide screens (laptops, desktops): the app fills the window instead of a phone frame —— */
 @media (min-width: 1024px) {
   .app-root {
-    padding: 40px 24px;
+    display: block;
+    padding: 0;
   }
 
   .phone-shell {
-    width: min(94vw, var(--frame-max-desktop));
-    height: min(92dvh, 980px);
+    width: 100%;
+    height: 100dvh;
+    border-radius: 0;
+    box-shadow: none;
+    display: grid;
+    grid-template-columns: 260px minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr) auto auto;
+    grid-template-areas:
+      'brand tabs'
+      'content content'
+      'banner banner'
+      'footer footer';
   }
 
   .phone-status {
     display: none;
   }
 
-  .phone-content {
-    padding: 0 40px 32px;
+  .app-brand {
+    grid-area: brand;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    padding: 12px 0 12px 48px;
+    border-bottom: 1px solid var(--line);
+    background: rgba(255, 255, 255, 0.92);
+    text-decoration: none;
   }
 
-  .admin-footer {
-    padding: 10px 40px 8px;
+  .app-brand-kicker {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: #d6006f;
+  }
+
+  .app-brand-name {
+    font-family: 'Black Han Sans', var(--font-display);
+    font-size: 22px;
+    line-height: 1.1;
+    background: linear-gradient(90deg, #ff2d95, #8b2dff 45%, #00b8d9);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
   }
 
   .bottom-tab,
   .phone-shell--neon .bottom-tab {
-    order: -1;
+    grid-area: tabs;
+    order: 0;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     width: auto;
-    gap: 6px;
-    padding: 18px 40px 14px;
+    gap: 8px;
+    padding: 14px 48px 14px 24px;
     border-top: 0;
     border-bottom: 1px solid var(--line);
     box-shadow: none;
   }
 
   .bottom-tab a {
-    padding: 10px 18px;
+    padding: 11px 18px;
+    font-size: 14px;
+  }
+
+  .phone-content {
+    grid-area: content;
+    padding: 8px max(48px, calc((100% - 1600px) / 2)) 48px;
+  }
+
+  .update-banner {
+    grid-area: banner;
+  }
+
+  .admin-footer {
+    grid-area: footer;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 12px;
+    padding: 8px 48px;
+  }
+
+  .admin-footer-note {
+    margin: 0;
   }
 
   .country-grid {
     grid-template-columns: repeat(3, 1fr);
-    gap: 18px;
+    gap: 20px;
   }
 
-  .city-list {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 14px;
-  }
-
-  .place-list {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 14px;
-  }
-
+  .city-list,
+  .place-list,
   .highlight-list {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 14px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  /* The country banner keeps the same inset as the content. */
+  .country-hero {
+    margin: 0 0 20px;
+    padding: 24px 24px 28px;
+    border-radius: 22px;
+    overflow: hidden;
+  }
+
+  /* The Europe map fits the window height instead of running below it. */
+  .europe-map-wrap {
+    margin: 0 auto;
+    max-width: calc((100dvh - 230px) * 800 / 485);
+  }
+
+  /* A district heading between sights spans the whole row. */
+  .highlight-list .highlight-group {
+    grid-column: 1 / -1;
   }
 
   .country-facts {
@@ -2315,6 +2387,12 @@ button.back-link {
 
   .country-fact--wide {
     grid-column: span 2;
+  }
+}
+
+@media (min-width: 1360px) {
+  .country-grid {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 

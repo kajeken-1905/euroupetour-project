@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import { NavLink, Outlet, useLocation } from 'react-router-dom'
+import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 import { UpdateBanner } from './UpdateBanner'
@@ -44,6 +44,11 @@ export function AppShell() {
           </p>
           <p className="admin-footer-note">{t('adminContactNote', lang)}</p>
         </footer>
+        {/* Shown only on wide screens, beside the tabs at the top. */}
+        <Link to="/" className="app-brand">
+          <span className="app-brand-kicker">EUROPE TOUR</span>
+          <span className="app-brand-name">{t('appTitle', lang)}</span>
+        </Link>
         <nav className="bottom-tab" aria-label="Primary">
           <NavLink to="/" end>
             {t('home', lang)}
