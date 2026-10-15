@@ -309,8 +309,6 @@ export function useTravelChecklist() {
   }
 
   const reset = () => setData(defaultChecklist())
-  /** Clears the countries and cities (the home screen's part) and keeps the travellers. */
-  const resetCountries = () => setData((prev) => ({ ...prev, countries: [emptyCountryTrip(1)] }))
 
   return {
     data,
@@ -328,6 +326,5 @@ export function useTravelChecklist() {
     addCityToCountry,
     removeCityFromCountry,
     reset,
-    resetCountries,
   }
 }

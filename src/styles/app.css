@@ -3266,11 +3266,185 @@ a.plan-btn {
   line-height: 1;
 }
 
-/* —— My trip on the home screen —— */
+/* —— My trip on the home screen: K-pop concert look (gradient light-stick colours, glow, ticket chips) —— */
 .home-trip {
+  --kp-pink: #ff2d95;
+  --kp-violet: #8b2dff;
+  --kp-cyan: #00b8d9;
+  --kp-grad: linear-gradient(135deg, var(--kp-pink), var(--kp-violet) 55%, var(--kp-cyan));
   margin-top: 26px;
 }
 
 .home-trip .trip-sections {
   padding: 0;
+}
+
+.home-trip-head {
+  margin-bottom: 6px;
+}
+
+.home-trip-title {
+  margin: 2px 0 0;
+  font-family: 'Black Han Sans', var(--font-display);
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  background: var(--kp-grad);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: kp-shimmer 6s ease-in-out infinite alternate;
+}
+
+@keyframes kp-shimmer {
+  from {
+    background-position: 0% 50%;
+  }
+  to {
+    background-position: 100% 50%;
+  }
+}
+
+/* Section names ("Route 5", "My plans") as gradient pills. */
+.home-trip .section-label {
+  display: inline-block;
+  margin: 18px 0 10px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--kp-grad);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  box-shadow: 0 4px 16px rgba(255, 45, 149, 0.3);
+}
+
+.home-trip .search-group-head .section-label {
+  margin: 0;
+}
+
+/* Cards with a glowing gradient frame. */
+.home-trip .transit-card {
+  border: 1.5px solid transparent;
+  border-radius: 22px;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.92)) padding-box,
+    var(--kp-grad) border-box;
+  box-shadow:
+    0 10px 30px rgba(139, 45, 255, 0.16),
+    0 2px 8px rgba(255, 45, 149, 0.12);
+}
+
+/* Route: light-stick numbers, gradient line between cities, ticket-like legs. */
+.home-trip .tour-stop-n {
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  background: var(--kp-grad);
+  font-family: 'Black Han Sans', var(--font-display);
+  font-size: 14px;
+  font-weight: 400;
+  box-shadow:
+    0 0 0 3px rgba(255, 45, 149, 0.15),
+    0 4px 14px rgba(139, 45, 255, 0.45);
+}
+
+.home-trip .tour-stop-city {
+  font-size: 16px;
+  font-weight: 800;
+  color: #2a1840;
+}
+
+.home-trip .tour-stop-city:hover {
+  background: var(--kp-grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.home-trip .tour-leg {
+  margin-left: 13px;
+  border-left: 0;
+  background: linear-gradient(var(--kp-pink), var(--kp-violet), var(--kp-cyan)) left / 2px 100% no-repeat;
+}
+
+.home-trip .tour-leg-line,
+.home-trip .tour-leg-none {
+  padding: 8px 12px;
+  border-radius: 14px;
+  border: 1px dashed rgba(139, 45, 255, 0.3);
+  background: rgba(139, 45, 255, 0.05);
+}
+
+.home-trip .tour-leg .route-time {
+  color: #6b1fd1;
+}
+
+.home-trip .plan-icon-btn {
+  border-radius: 50%;
+  border-color: rgba(139, 45, 255, 0.25);
+  color: #6b1fd1;
+}
+
+.home-trip .plan-icon-btn:not(:disabled):hover {
+  background: var(--kp-grad);
+  border-color: transparent;
+  color: #fff;
+}
+
+/* Buttons as neon pills; the delete confirmation keeps its warning colour. */
+.home-trip .plan-btn {
+  border: 0;
+  border-radius: 999px;
+  background: var(--kp-grad);
+  color: #fff;
+  font-weight: 800;
+  box-shadow: 0 6px 18px rgba(139, 45, 255, 0.3);
+}
+
+.home-trip .plan-btn-danger {
+  background: #e0245e;
+  box-shadow: 0 6px 18px rgba(224, 36, 94, 0.3);
+}
+
+.home-trip .itinerary-stop {
+  border-color: rgba(139, 45, 255, 0.3);
+  border-radius: 999px;
+  color: #6b1fd1;
+  font-weight: 700;
+}
+
+.home-trip .itinerary-stop:hover {
+  background: rgba(255, 45, 149, 0.08);
+}
+
+.home-trip .tour-input,
+.home-trip .search-input {
+  border-radius: 999px;
+  border-color: rgba(139, 45, 255, 0.25);
+}
+
+.home-trip .tour-input:focus,
+.home-trip .search-input:focus {
+  outline: 2px solid rgba(255, 45, 149, 0.35);
+}
+
+.home-trip .search-item {
+  border-radius: 16px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.home-trip .search-item:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(139, 45, 255, 0.15);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-trip-title {
+    animation: none;
+  }
+  .home-trip .search-item {
+    transition: none;
+  }
 }

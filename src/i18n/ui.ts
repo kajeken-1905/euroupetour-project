@@ -10,12 +10,8 @@ export const ui = {
     en: 'Food & shopping guide across 48 countries’ top cities',
   },
   checklistSubtitle: {
-    ko: '여행할 나라와 도시, 내 여행 경로를 한곳에서',
-    en: 'Your countries, cities and route in one place',
-  },
-  checklistHint: {
-    ko: '국가를 먼저 고른 뒤 도시를 추가합니다. 여행자·여권·유레일·항공권은 체크리스트 탭에서 기록합니다. 입력값은 이 기기에 저장됩니다.',
-    en: 'Pick a country first, then add cities. Travellers, passports, Eurail and flights go in the Checklist tab. Saved on this device.',
+    ko: '내 여행 경로와 일정, 즐겨찾기를 한곳에서',
+    en: 'Your route, plans and favourites in one place',
   },
   travelerCount: { ko: '출발 인원', en: 'Travelers' },
   partySize: { ko: '인원 수', en: 'Party size' },
@@ -65,7 +61,6 @@ export const ui = {
   removeCity: { ko: '이 도시 삭제', en: 'Remove this city' },
   removeCountry: { ko: '이 국가 삭제', en: 'Remove this country' },
   resetChecklist: { ko: '체크리스트 초기화', en: 'Reset checklist' },
-  resetCountries: { ko: '국가·도시 초기화', en: 'Clear countries & cities' },
   yes: { ko: 'Yes', en: 'Yes' },
   no: { ko: 'No', en: 'No' },
   selectPlaceholder: { ko: '선택', en: 'Select' },
