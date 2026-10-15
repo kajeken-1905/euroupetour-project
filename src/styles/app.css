@@ -2354,11 +2354,33 @@ button.back-link {
     gap: 20px;
   }
 
-  .city-list,
-  .place-list,
-  .highlight-list {
+  .place-list {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 16px;
+  }
+
+  /* Cities and sights in four columns, like the countries. */
+  .city-list,
+  .highlight-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  /* City photos are mostly 3:2: a 16:10 card shows nearly all of it, framed a little above centre where the
+     buildings and skylines usually are. */
+  .city-item {
+    aspect-ratio: 16 / 10;
+    background-position: center 45%;
+  }
+
+  /* Sight photos are 3:2, so the picture area takes the same shape and shows the whole photo. */
+  .highlight-card-main {
+    grid-template-rows: auto 1fr;
+  }
+
+  .highlight-card-media {
+    width: 100%;
+    aspect-ratio: 3 / 2;
   }
 
   /* The country banner keeps the same inset as the content. */
