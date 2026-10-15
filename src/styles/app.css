@@ -2377,8 +2377,21 @@ button.back-link {
 
   /* The home heading repeats the brand in the top bar, so only the language switch stays. */
   .home-head {
-    justify-content: flex-end;
-    padding-bottom: 0;
+    position: relative;
+    height: 0;
+    padding: 0;
+  }
+
+  /* With the heading gone, the language switch sits at the right end of the My trip title row. */
+  .home-head .lang-toggle {
+    position: absolute;
+    top: 18px;
+    right: 0;
+    z-index: 1;
+  }
+
+  .home-head + .home-trip {
+    margin-top: 16px;
   }
 
   .home-head-text {
