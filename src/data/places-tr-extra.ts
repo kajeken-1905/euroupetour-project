@@ -8,7 +8,6 @@ export const placesTRExtra: Place[] = [
   place('istanbul-fine_dining-3', 'istanbul', 'fine_dining', 'Nusr-Et', 'Terziler Sokağı, 34126 Istanbul, Turkey', '스테이크·캐주얼 파인.', 'Steak and casual fine.'),
   place('istanbul-fine_dining-4', 'istanbul', 'fine_dining', 'Ciya Sofrası', 'Güneşlibahçe Sokağı 43, 34710 Kadıköy, Turkey', '지역 가정식 클래식.', 'Regional home-style classic.'),
   place('istanbul-fine_dining-5', 'istanbul', 'fine_dining', 'Pandeli', 'Yenicami Meydani Sokağı 1, 34435 Istanbul, Turkey', '역사적 오스만 다이닝.', 'Historic Ottoman dining.'),
-  place('istanbul-bakery-1', 'istanbul', 'bakery', 'Filizler Tarihi Fırın', 'Istanbul', '시밋·로컬 빵.', 'Simit and local bread.'),
   place('istanbul-bakery-2', 'istanbul', 'bakery', 'Karaköy Güllüoğlu', 'Kemankeş Caddesi 67, 36827 Beyoğlu, Turkey', '바클라바 전문.', 'Baklava specialists.'),
   place('istanbul-bakery-3', 'istanbul', 'bakery', 'Baylan Pastanesi', 'Muvakkıthane Caddesi 19, 34710 Kadıköy, Turkey', '클래식 파티스리.', 'Classic pastry shop.'),
   place('istanbul-bakery-4', 'istanbul', 'bakery', 'Hafız Mustafa 1864', 'Hoca Paşa, Muradiye Cd. No:51, 34080 Fatih/İstanbul, Turkey', '1864년부터 이어온 전통 제과점, 바클라바·로쿰 전문.', 'Historic pastry shop since 1864, known for baklava and Turkish delight.'),

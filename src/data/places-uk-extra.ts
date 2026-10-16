@@ -14,7 +14,7 @@ export const placesUKExtra: Place[] = [
   place('edinburgh-cafe-1', 'edinburgh', 'cafe', 'Brew Lab Coffee', '6-8 South College Street, Edinburgh EH8 9AA, United Kingdom', '스페셜티 커피의 로컬 성지.', 'Local specialty coffee landmark.'),
   place('edinburgh-cafe-2', 'edinburgh', 'cafe', 'Williams & Johnson Coffee Co.', '67 Commercial Street, EH6 6LH City of Edinburgh, United Kingdom', '로스터리 카페.', 'Roastery café.'),
   place('edinburgh-cafe-3', 'edinburgh', 'cafe', 'The Milkman', '52 Cockburn Street, EH1 1PB City of Edinburgh, United Kingdom', '로열 마일 근처 작은 커피 바.', 'Tiny coffee bar near the Royal Mile.', { image: '/places/edinburgh-cafe-3.jpg' }),
-  place('edinburgh-cafe-4', 'edinburgh', 'cafe', 'Cairngorm Coffee', 'Edinburgh', '밝고 모던한 브런치 카페.', 'Bright modern brunch café.', { image: '/places/edinburgh-cafe-4.jpg' }),
+  place('edinburgh-cafe-4', 'edinburgh', 'cafe', 'Cairngorm Coffee', 'Melville Place, Edinburgh (West End)', '웨스트엔드의 스페셜티 커피 카페. 바깥 자리에서 세인트 메리 대성당이 보입니다.', 'West End specialty coffee café with outdoor seats facing St Mary’s Cathedral.', { image: '/places/edinburgh-cafe-4.jpg' }),
   place('edinburgh-cafe-5', 'edinburgh', 'cafe', 'Fortitude Coffee', '4 Abbey Mount, EH8 8EJ City of Edinburgh, United Kingdom', '에스프레소 바 스타일.', 'Espresso-bar style café.', { image: '/places/edinburgh-cafe-5.jpg' }),
 
   // —— manchester ——
@@ -27,7 +27,6 @@ export const placesUKExtra: Place[] = [
   place('manchester-bakery-2', 'manchester', 'bakery', 'Companio Bakery', '35 Radium Street, M4 6AD Manchester, United Kingdom', '아티산 브레드·페이스트리.', 'Artisan breads and pastries.'),
   place('manchester-bakery-3', 'manchester', 'bakery', 'Gooey', '37 Ducie Street, M1 2JW Manchester, United Kingdom', '시나몬롤·브런치 인기.', 'Cinnamon buns and brunch favourite.'),
   place('manchester-bakery-4', 'manchester', 'bakery', 'Holy Grain Sourdough Bakery', 'Arch 122 Woollam Pl, Manchester M3 4JJ, UK', '사워도우 전문 소규모 베이커리.', 'Small bakery specializing in sourdough.'),
-  place('manchester-bakery-5', 'manchester', 'bakery', 'Homespun Bakery', 'Manchester', '페이스트리 카운터.', 'Pastry counter favourite.'),
   place('manchester-cafe-1', 'manchester', 'cafe', 'Foundation Coffee House', '74 Princess Street, M1 6JD Manchester, United Kingdom', '노던 쿼터 스페셜티.', 'Northern Quarter specialty coffee.', { image: '/places/manchester-cafe-1.jpg' }),
   place('manchester-cafe-2', 'manchester', 'cafe', 'Ancoats Coffee Co.', 'Unit 9 Redhill Street, M4 5BA Manchester, United Kingdom', '로스터리 카페.', 'Roastery café.'),
   place('manchester-cafe-3', 'manchester', 'cafe', 'Grindsmith', 'Blue, M50 2TG Salford, United Kingdom', '모던 에스프레소 바.', 'Modern espresso bars.', { image: '/places/manchester-cafe-3.jpg' }),
@@ -46,18 +45,14 @@ export const placesUKExtra: Place[] = [
   place('bath-cafe-1', 'bath', 'cafe', 'Society Café', '4-5 Kingsmead Square, BA1 2AB Bath, United Kingdom', '스페셜티 커피.', 'Specialty coffee.', { image: '/places/bath-cafe-1.jpg' }),
   place('bath-cafe-2', 'bath', 'cafe', 'Colonna & Small’s', '6 Chapel Row, Bath BA1 1HT, United Kingdom', '월드클래스 커피 바.', 'World-class coffee bar.'),
   place('bath-cafe-3', 'bath', 'cafe', 'Café Retro', '18 York Street, Bath BA1 1NG, United Kingdom', '캐주얼 브런치.', 'Casual brunch.', { image: '/places/bath-cafe-3.jpg' }),
-  place('bath-cafe-4', 'bath', 'cafe', 'The Carefully Curated Coffee Co.', 'Bath', '인디 커피.', 'Indie coffee.'),
   place('bath-cafe-5', 'bath', 'cafe', 'Boston Tea Party', 'Monmouth Street, BA1 2AE Bath, United Kingdom', '브런치 체인 인기점.', 'Popular brunch spot.'),
 
   // —— oxford ——
-  place('oxford-fine_dining-1', 'oxford', 'fine_dining', 'Restaurant Torr', 'Oxford', '모던 브리티시.', 'Modern British.'),
   place('oxford-fine_dining-2', 'oxford', 'fine_dining', 'Cherwell Boathouse', '50 Bardwell Road, OX2 6ST Oxford, United Kingdom', '강변 파인 캐주얼.', 'Riverside fine-casual.', { image: '/places/oxford-fine_dining-2.jpg' }),
   place('oxford-fine_dining-3', 'oxford', 'fine_dining', 'Gees Restaurant', '61-63 Banbury Road, Oxford OX2 6PE, United Kingdom', '온실 공간 다이닝.', 'Conservatory dining.'),
   place('oxford-fine_dining-4', 'oxford', 'fine_dining', 'The Perch', 'Binsey Lane, OX2 0NG Oxford, United Kingdom', '템스강변 고스포트.', 'Thames-side gastropub.', { image: '/places/oxford-fine_dining-4.jpg' }),
   place('oxford-fine_dining-5', 'oxford', 'fine_dining', 'Quod Restaurant & Bar', '92-94 High Street, OX1 4BJ Oxford, United Kingdom', '올드뱅크 호텔 다이닝.', 'Old Bank Hotel dining.'),
   place('oxford-bakery-1', 'oxford', 'bakery', 'Hamblin Bread', '247 Iffley Rd, Oxford OX4 1SJ, UK', '전설적인 사워도우로 유명한 베이커리.', 'Bakery renowned for its legendary sourdough.', { image: '/places/oxford-bakery-1.jpg' }),
-  place('oxford-bakery-2', 'oxford', 'bakery', 'PAOX Bakery', 'Oxford', '사워도우 베이커리.', 'Sourdough bakery.'),
-  place('oxford-bakery-4', 'oxford', 'bakery', 'Bread & Butter', 'Oxford', '로컬 브레드.', 'Local breads.'),
   place('oxford-cafe-1', 'oxford', 'cafe', 'The Missing Bean', '14 Turl Street, OX1 3DQ Oxford, United Kingdom', '옥스퍼드 대표 스페셜티.', 'Oxford specialty favourite.', { image: '/places/oxford-cafe-1.jpg' }),
   place('oxford-cafe-2', 'oxford', 'cafe', 'Peloton Espresso', '76 Cowley Road, OX4 1JB Oxford, United Kingdom', '작지만 강한 커피.', 'Tiny powerful coffee bar.', { image: '/places/oxford-cafe-2.jpg' }),
   place('oxford-cafe-3', 'oxford', 'cafe', 'Handle Bar Café', "28-32 St Michael's Street, Oxford OX1 2EB, United Kingdom", '자전거 테마 카페.', 'Bike-themed café.', { image: '/places/oxford-cafe-3.jpg' }),
@@ -69,7 +64,6 @@ export const placesUKExtra: Place[] = [
   place('cambridge-fine_dining-3', 'cambridge', 'fine_dining', 'The Oak Bistro', '6 Lensfield Road, CB2 1EG Cambridge, United Kingdom', '로컬 인기 비스트로.', 'Local favourite bistro.', { image: '/places/cambridge-fine_dining-3.jpg' }),
   place('cambridge-bakery-1', 'cambridge', 'bakery', 'Fitzbillies', '52a Trumpington Street, CB2 1RG Cambridge, United Kingdom', '첼시번으로 전설적.', 'Legendary Chelsea buns.', { image: '/places/cambridge-bakery-1.jpg' }),
   place('cambridge-bakery-2', 'cambridge', 'bakery', 'Bakehouse Cambridge', 'Oxford Street, 2747 Sydney, Australia', '아티산 브레드.', 'Artisan breads.'),
-  place('cambridge-bakery-3', 'cambridge', 'bakery', 'Bramasole bakery café', 'Cambridge', '페이스트리·커피.', 'Pastries and coffee.'),
   place('cambridge-cafe-1', 'cambridge', 'cafe', 'Hot Numbers Coffee', '4 Trumpington Street, CB2 1QA Cambridge, United Kingdom', '로스터리 카페.', 'Roastery café.'),
   place('cambridge-cafe-2', 'cambridge', 'cafe', 'Bould Brothers Coffee', '16 Round Church St, Cambridge CB5 8AD, UK', '케임브리지 최고 인기 스페셜티 커피숍.', 'One of Cambridge\'s most popular specialty coffee shops.'),
   place('cambridge-cafe-3', 'cambridge', 'cafe', 'Espresso Library', '210 East Road, CB1 1BG Cambridge, United Kingdom', '스페셜티·브런치.', 'Specialty and brunch.', { image: '/places/cambridge-cafe-3.jpg' }),
@@ -83,28 +77,21 @@ export const placesUKExtra: Place[] = [
   place('liverpool-fine_dining-4', 'liverpool', 'fine_dining', 'Maray', '91 Bold Street, L1 4HF Liverpool, United Kingdom', '모던 스몰플레이트.', 'Modern small plates.'),
   place('liverpool-fine_dining-5', 'liverpool', 'fine_dining', 'Belzan', '371 Smithdown Road, Liverpool L15 3JJ, United Kingdom', '남부 리버풀 핫플.', 'South Liverpool hotspot.', { image: '/places/liverpool-fine_dining-5.jpg' }),
   place('liverpool-bakery-1', 'liverpool', 'bakery', 'Rough Handmade', 'Britannia Pavilion, Royal Albert Dock, Liverpool L3 4AD, UK', '로열 알버트 독의 인기 베이커리, 크루아상으로 유명.', 'Popular bakery at the Royal Albert Dock, known for its croissants.'),
-  place('liverpool-bakery-2', 'liverpool', 'bakery', 'Puro Liverpool bakery', 'Liverpool', '브레드·커피.', 'Bread and coffee.'),
   place('liverpool-bakery-3', 'liverpool', 'bakery', 'The Baltic Bakehouse', '46 Bridgewater Street, L1 0AY Liverpool, United Kingdom', '사워도우 유명.', 'Known for sourdough.'),
   place('liverpool-bakery-4', 'liverpool', 'bakery', 'Homebaked Anfield', '197-199 Oakfield Road, Anfield, Liverpool L4 0UF, United Kingdom', '커뮤니티 베이커리.', 'Community bakery.'),
   place('liverpool-cafe-1', 'liverpool', 'cafe', 'Bold Street Coffee', '89 Bold Street, L1 4HF Liverpool, United Kingdom', '볼드스트리트 스페셜티.', 'Bold Street specialty.'),
-  place('liverpool-cafe-2', 'liverpool', 'cafe', 'Neighbourhood Coffee', 'Liverpool', '로스터리.', 'Roastery café.'),
   place('liverpool-cafe-5', 'liverpool', 'cafe', 'Leaf', '364-368 Smithdown Road, L15 5AN Liverpool, United Kingdom', '차·커피·공연 공간.', 'Tea, coffee, and events.'),
 
   // —— brighton ——
   place('brighton-fine_dining-1', 'brighton', 'fine_dining', 'The Salt Room', "106 King's Road, BN1 2FU Brighton, United Kingdom", '시푸드 파인 다이닝.', 'Seafood fine dining.'),
   place('brighton-fine_dining-2', 'brighton', 'fine_dining', '64 Degrees', '53 Meeting House Lane, Brighton BN1 1HB, United Kingdom', '스몰플레이트 핫플.', 'Small-plates hotspot.'),
-  place('brighton-fine_dining-3', 'brighton', 'fine_dining', 'Isaac At', 'Brighton', '시즌·산지 코스.', 'Seasonal producer-led menus.'),
   place('brighton-fine_dining-4', 'brighton', 'fine_dining', 'The Coal Shed', '30-31 North Street, BN1 1EB Brighton, United Kingdom', '스테이크·시푸드.', 'Steak and seafood.', { image: '/places/brighton-fine_dining-4.jpg' }),
   place('brighton-fine_dining-5', 'brighton', 'fine_dining', 'Silo', 'Silo Court, 80603 Brighton, United States', '제로웨이스트 다이닝.', 'Zero-waste dining.', { image: '/places/brighton-fine_dining-5.jpg' }),
   place('brighton-bakery-2', 'brighton', 'bakery', 'The Flour Pot Bakery', '124 Elm Grove, BN2 3DB Brighton, United Kingdom', '브라이튼 인기 베이커리.', 'Brighton favourite bakery.', { image: '/places/brighton-bakery-2.jpg' }),
   place('brighton-bakery-3', 'brighton', 'bakery', 'Julien Plumart', '48 Queens Rd, Brighton and Hove, Brighton BN1 3XB, UK', '마카롱·크루아상으로 유명한 프렌치 파티스리.', 'French patisserie known for macarons and croissants.', { image: '/places/brighton-bakery-3.jpg' }),
   place('brighton-bakery-4', 'brighton', 'bakery', 'Bakehouse Brighton', '153 Brighton Road, 7030 Brighton, Australia', '사워도우.', 'Sourdough.'),
-  place('brighton-bakery-5', 'brighton', 'bakery', 'Baked Brighton', 'Brighton', '케이크·브런치.', 'Cakes and brunch.'),
-  place('brighton-cafe-1', 'brighton', 'cafe', 'Coffeeology', 'Brighton', '스페셜티.', 'Specialty coffee.'),
-  place('brighton-cafe-2', 'brighton', 'cafe', 'Joe’s Café', 'Brighton', '해변 감성 카페.', 'Beach-vibe café.'),
+  place('brighton-cafe-2', 'brighton', 'cafe', 'Joe’s Café', '24 Upper Hamilton Rd, Brighton BN1 5DF', '세븐 다이얼스 근처의 작은 동네 카페. 지역 농산물로 만든 아침·브런치.', 'Small neighbourhood café near Seven Dials, serving breakfast and brunch from local suppliers.'),
   place('brighton-cafe-3', 'brighton', 'cafe', 'Metrodeco', "38 Upper St James's Street, Brighton BN2 1JN, United Kingdom", '빈티지 티·커피.', 'Vintage tea and coffee.', { image: '/places/brighton-cafe-3.jpg' }),
-  place('brighton-cafe-4', 'brighton', 'cafe', 'Baywood Coffee', 'Brighton', '로스터리.', 'Roastery.'),
-  place('brighton-cafe-5', 'brighton', 'cafe', 'Fondant Frosting café', 'Brighton', '디저트 카페.', 'Dessert café.'),
 
   // —— york ——
   place('york-fine_dining-1', 'york', 'fine_dining', 'The Star Inn the City', 'Museum Street, YO1 7DR York, United Kingdom', '강변 모던 브리티시.', 'Riverside modern British.', { image: '/places/york-fine_dining-1.jpg' }),
@@ -113,7 +100,6 @@ export const placesUKExtra: Place[] = [
   place('york-fine_dining-4', 'york', 'fine_dining', 'The Path', "The Queen's Path, YO1 7JD York, United Kingdom", '모던 테이스팅.', 'Modern tasting menus.'),
   place('york-fine_dining-5', 'york', 'fine_dining', 'Melton’s', '7 Scarcroft Road, York YO23 1ND, United Kingdom', '로컬 클래식.', 'Local classic.'),
   place('york-bakery-1', 'york', 'bakery', 'Spring Espresso bakery', '21 Lendal, YO1 8AQ York, United Kingdom', '베이크·커피.', 'Bakes and coffee.'),
-  place('york-bakery-2', 'york', 'bakery', 'Birdhouse Bakery', 'York', '페이스트리.', 'Pastries.'),
   place('york-bakery-3', 'york', 'bakery', 'Haxby Bakehouse', 'Ryedale Court, YO32 3SA Haxby, United Kingdom', '사워도우 유명.', 'Known for sourdough.'),
   place('york-bakery-5', 'york', 'bakery', 'Bettys Café Tea Rooms bakery', "6-8 St Helen's Square, YO1 8QP York, United Kingdom", '요크셔 티룸 베이크.', 'Yorkshire tearoom bakes.'),
   place('york-cafe-1', 'york', 'cafe', 'Spring Espresso', '21 Lendal, YO1 8AQ York, United Kingdom', '스페셜티 커피.', 'Specialty coffee.', { image: '/places/york-cafe-1.jpg' }),
@@ -129,8 +115,6 @@ export const placesUKExtra: Place[] = [
   place('bristol-bakery-1', 'bristol', 'bakery', 'Hart’s Bakery', 'Arch 35, Lower Approach Road, Temple Meads, Bristol BS1 6QS, United Kingdom', '역 앞 전설 베이커리.', 'Legendary bakery by the station.', { image: '/places/bristol-bakery-1.jpg' }),
   place('bristol-bakery-2', 'bristol', 'bakery', 'Better Food bakery', 'Gaol Ferry Steps, BS1 6WE Bristol, United Kingdom', '유기농 베이크.', 'Organic bakes.'),
   place('bristol-bakery-3', 'bristol', 'bakery', 'The Bristol Loaf', '94-96 Bedminster Parade, BS3 4HL Bristol, United Kingdom', '사워도우.', 'Sourdough.'),
-  place('bristol-bakery-4', 'bristol', 'bakery', 'Cocolicious', 'Bristol', '페이스트리·케이크.', 'Pastries and cakes.'),
-  place('bristol-bakery-5', 'bristol', 'bakery', 'Flour & Green', 'Bristol', '비건 베이크.', 'Vegan bakes.'),
   place('bristol-cafe-1', 'bristol', 'cafe', 'Full Court Press', '59 Broad Street, BS1 2EJ Bristol, United Kingdom', '스페셜티 성지.', 'Specialty coffee landmark.', { image: '/places/bristol-cafe-1.jpg' }),
   place('bristol-cafe-2', 'bristol', 'cafe', 'Tradewind Espresso', '118 Whiteladies Road, Bristol BS8 2RP, United Kingdom', '에스프레소 바.', 'Espresso bar.', { image: '/places/bristol-cafe-2.jpg' }),
   place('bristol-cafe-3', 'bristol', 'cafe', 'Small Street Espresso', '23 Small Street, BS1 1DW Bristol, United Kingdom', '작은 커피 바.', 'Tiny coffee bar.'),
@@ -146,8 +130,7 @@ export const placesUKExtra: Place[] = [
   // —— windsor ——
   place('windsor-fine_dining-1', 'windsor', 'fine_dining', 'The Boatman', '10 Thames Side, Windsor SL4 1QN, United Kingdom', '윈저 성 아래 템스강변의 유일한 펍.', 'Windsor\'s only riverside pub, below the castle.'),
   place('windsor-fine_dining-2', 'windsor', 'fine_dining', 'Meimo', '69-70 Peascod Street, SL4 1DE Windsor, United Kingdom', '성 근처의 모로코·지중해 레스토랑.', 'Moroccan-Mediterranean restaurant near the castle.'),
-  place('windsor-fine_dining-3', 'windsor', 'fine_dining', 'The Waterman\'s Arms', 'Brocas Street, Eton, UK', '1542년 개업, 이튼 쪽 다리 건너의 펍.', 'Eton pub founded in 1542, just over the bridge.', { image: '/places/windsor-fine_dining-3.jpg' }),
-  place('windsor-bakery-1', 'windsor', 'bakery', 'Clarence Bakery', 'Windsor, UK', '성에서 걸어서 5분, 크루아상과 소시지롤이 인기.', 'Five minutes from the castle; croissants and sausage rolls.'),
+  place('windsor-fine_dining-3', 'windsor', 'fine_dining', 'The Waterman\'s Arms', 'Brocas Street, Eton SL4 6BW', '윈저에서 다리를 건너면 바로 있는 1682년 무렵부터의 이튼 펍. 조정 기념품이 걸려 있습니다.', 'Eton pub dating from around 1682, just over the bridge from Windsor, hung with rowing memorabilia.', { image: '/places/windsor-fine_dining-3.jpg' }),
 
   // —— salisbury ——
   place('salisbury-fine_dining-1', 'salisbury', 'fine_dining', 'Haunch of Venison', '1-5 Minster Street, Salisbury SP1 1TB', '솔즈베리에서 가장 오래된 여관 겸 펍, 사슴고기 요리.', 'Salisbury\'s oldest hostelry, known for venison dishes.', { image: '/places/salisbury-fine_dining-1.jpg' }),
@@ -182,7 +165,7 @@ export const placesUKExtra: Place[] = [
   // —— stirling ——
   place('stirling-cafe-1', 'stirling', 'cafe', 'Darnley Coffee House', '18 Bow Street, Stirling FK8 1BS', '성 아래 역사 건물의 수프·토스티 카페.', 'Soup-and-toastie café in a historic building below the castle.', { image: '/places/stirling-cafe-1.jpg' }),
   place('stirling-fine_dining-1', 'stirling', 'fine_dining', 'Brea', '5 Baker Street, FK8 1BJ Stirling, United Kingdom', '성 근처의 스코틀랜드 가정식 카페 레스토랑.', 'Café-restaurant of Scottish home cooking near the castle.'),
-  place('stirling-cafe-2', 'stirling', 'cafe', 'Cowane\'s Hospital Coffee Shop', 'Stirling, UK', '길드홀 안과 정원 테라스의 커피숍.', 'Coffee shop in the Guildhall and its garden terrace.'),
+  place('stirling-cafe-2', 'stirling', 'cafe', 'Legends at Cowane’s', 'Cowane’s Hospital, St John Street, Stirling', '17세기 구빈원 코웨인스 호스피털의 길드홀과 정원 테라스에서 여는 카페.', 'Café in the Guildhall and garden terrace of 17th-century Cowane’s Hospital.'),
 
   // —— st-andrews ——
   place('st-andrews-fine_dining-1', 'st-andrews', 'fine_dining', 'The Seafood Ristorante', 'The Scores, St Andrews KY16 9AB', '바다 위 유리 큐브 속 해산물 레스토랑.', 'Seafood restaurant in a glass cube over the bay.'),
@@ -207,16 +190,16 @@ export const placesUKExtra: Place[] = [
   // —— conwy ——
   place('conwy-fine_dining-1', 'conwy', 'fine_dining', 'Watson\'s Bistro', 'Bishop\'s Yard, Chapel Street, Conwy LL32 8BP', '지역 식재료를 쓰는 가족 운영 비스트로.', 'Family-run bistro showcasing local produce.'),
   place('conwy-fine_dining-2', 'conwy', 'fine_dining', 'The Erskine Arms', 'Rosehill Street, Conwy LL32 8LD', '성 근처 조지 시대 여관의 펍 레스토랑.', 'Pub-restaurant in a Georgian coaching inn by the castle.', { image: '/places/conwy-fine_dining-2.jpg' }),
-  place('conwy-cafe-1', 'conwy', 'cafe', 'L\'s Coffee & Bookshop', 'Conwy, UK', '책방을 겸한 콘위의 커피숍.', 'Coffee shop and bookshop in Conwy.'),
+  place('conwy-cafe-1', 'conwy', 'cafe', 'L\'s Coffee & Bookshop', '7 High Street, Conwy LL32 8DB', '책방을 겸한 콘위의 커피숍.', 'Coffee shop and bookshop in Conwy.'),
 
   // —— snowdonia ——
   place('snowdonia-cafe-1', 'snowdonia', 'cafe', 'Pete\'s Eats', '40 High Street, Llanberis LL55 4EU', '등산가들의 전설적인 아지트였던 란베리스 식당.', 'Llanberis café-restaurant, a legendary climbers\' hangout.'),
-  place('snowdonia-fine_dining-1', 'snowdonia', 'fine_dining', 'Hangin\' Pizzeria', 'Betws-y-Coed, UK', '베투시코이드의 캐주얼 피자 가게.', 'Laid-back pizza spot in Betws-y-Coed.'),
+  place('snowdonia-fine_dining-1', 'snowdonia', 'fine_dining', 'Hangin\' Pizzeria', 'Unit 1, Station Approach, Betws-y-Coed LL24 0AE', '베투시코이드의 캐주얼 피자 가게.', 'Laid-back pizza spot in Betws-y-Coed.'),
 
   // —— tenby ——
   place('tenby-fine_dining-1', 'tenby', 'fine_dining', 'Plantagenet House', 'Quay Hill, Tenby SA70 7BX', '텐비에서 가장 오래된 건물 속 레스토랑.', 'Restaurant in Tenby\'s oldest building.'),
   place('tenby-fine_dining-2', 'tenby', 'fine_dining', 'D. Fecci and Sons', 'Lower Frog Street, SA70 7HT Tenby, United Kingdom', '1935년부터 이어온 피시 앤 칩스.', 'Fish and chips since 1935.'),
-  place('tenby-bakery-1', 'tenby', 'bakery', 'The Original Fecci\'s Ice Cream Parlour', 'Tenby, UK', '1919년부터 이어온 텐비의 아이스크림 가게.', 'Tenby\'s ice-cream institution since 1919.'),
+  place('tenby-bakery-1', 'tenby', 'bakery', 'The Original Fecci\'s Ice Cream Parlour', 'Lower Frog Street, Tenby SA70 7HS', '1919년부터 이어온 텐비의 아이스크림 가게.', 'Tenby\'s ice-cream institution since 1919.'),
 
   // —— belfast ——
   place('belfast-fine_dining-1', 'belfast', 'fine_dining', 'OX', '1 Oxford Street, Belfast BT1 3LA', '미쉐린 스타를 받은 강변 레스토랑.', 'Michelin-starred riverside restaurant.'),
@@ -229,5 +212,5 @@ export const placesUKExtra: Place[] = [
 
   // —— derry ——
   place('derry-fine_dining-1', 'derry', 'fine_dining', 'Walled City Brewery', 'Ebrington Square, Derry BT47 6FA', '양조장과 레스토랑을 함께 운영하는 브루펍.', 'Brewpub with a working brewery and restaurant.', { image: '/places/derry-fine_dining-1.jpg' }),
-  place('derry-fine_dining-2', 'derry', 'fine_dining', 'Pyke \'N\' Pommes', 'Derry, UK', '푸드트럭에서 시작한 강변 레스토랑.', 'Riverside restaurant that began as a food truck.', { image: '/places/derry-fine_dining-2.jpg' }),
+  place('derry-fine_dining-2', 'derry', 'fine_dining', 'Pyke ’n’ Pommes POD', '124 Strand Road, Derry BT48 7NS', '강변의 버스·컨테이너 주방에서 시작한 길거리 음식점. 시내 매장은 2026년 초 문을 닫았습니다.', 'Quayside street-food kitchen in a bus and container; the town restaurant closed in early 2026.', { image: '/places/derry-fine_dining-2.jpg' }),
 ]

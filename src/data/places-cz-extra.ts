@@ -40,7 +40,7 @@ export const placesCZExtra: Place[] = [
   place('cesky-krumlov-cafe-3', 'cesky-krumlov', 'cafe', 'Cafein', 'Latrán 106, 381 01 Český Krumlov', '체스키크룸로프의 스페셜티 커피.', 'Specialty coffee in Český Krumlov.'),
 
   // —— karlovy-vary ——
-  place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Promenáda', 'Tržiště 31, 360 01 Karlovy Vary, Czechia', '카를로비바리 최고 평가 레스토랑.', 'Top-rated restaurant in Karlovy Vary.'),
+  place('karlovy-vary-fine_dining-1', 'karlovy-vary', 'fine_dining', 'Promenáda', 'Tržiště 31, 360 01 Karlovy Vary, Czechia', '카를로비바리 최고 평가 레스토랑.', 'Restaurant in Karlovy Vary.'),
   place('karlovy-vary-fine_dining-2', 'karlovy-vary', 'fine_dining', 'Staroslovanská kuchyně Karlovy Vary', 'Moskevská 1010/18, 360 01 Karlovy Vary', '카를로비바리의 인기 레스토랑.', 'Popular restaurant in Karlovy Vary.'),
   place('karlovy-vary-fine_dining-3', 'karlovy-vary', 'fine_dining', 'Restaurace La Hospoda Karlovy Vary', 'nábř. J. Palacha 1024/26, 360 01 Karlovy Vary', '카를로비바리의 레스토랑.', 'Restaurant in Karlovy Vary.'),
   place('karlovy-vary-bakery-1', 'karlovy-vary', 'bakery', 'Just Cake', 'T. G. Masaryka 894, 360 01 Karlovy Vary, Czech Republic', '자매가 운영하는 카를로비바리의 인기 케이크 전문점', 'Popular Karlovy Vary bakery run by two sisters, known for beautiful cakes'),
@@ -57,7 +57,6 @@ export const placesCZExtra: Place[] = [
   place('ceske-budejovice-bakery-1', 'ceske-budejovice', 'bakery', 'DéKáčko', 'Nádražní 1759, 370 01 České Budějovice, Czech Republic', '커피와 다양한 페이스트리·샌드위치를 즐길 수 있는 베이커리 카페', 'Bakery café offering a wide variety of coffee, pastries and sandwiches'),
   place('ceske-budejovice-bakery-2', 'ceske-budejovice', 'bakery', 'Leipomo Pekárna', 'Panská 164/20, 370 01 České Budějovice', '체스케부데요비체의 제과점.', 'Bakery in České Budějovice.'),
   place('ceske-budejovice-bakery-3', 'ceske-budejovice', 'bakery', 'Pastry_Romana_Liebing', 'Resslova 2601/8, 370 01 České Budějovice', '패스트리 전문점.', 'Pastry specialist.'),
-  place('ceske-budejovice-cafe-1', 'ceske-budejovice', 'cafe', 'Cukrárna Jindrak', 'České Budějovice, Czech Republic', '체스케부데요비체에서 가장 유명한 전통 제과점', 'České Budějovice\'s most famous traditional confectionery'),
   place('ceske-budejovice-cafe-2', 'ceske-budejovice', 'cafe', 'Café Datel', 'Piaristická 22/8, 370 01 České Budějovice', '체스케부데요비체의 카페.', 'Café in České Budějovice.'),
   place('ceske-budejovice-cafe-3', 'ceske-budejovice', 'cafe', 'Praži Café', 'Na Mlýnské Stoce 282/11, 370 01 České Budějovice', '체스케부데요비체의 에스프레소 바.', 'Espresso bar in České Budějovice.'),
 ]

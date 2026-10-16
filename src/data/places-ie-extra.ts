@@ -29,7 +29,7 @@ export const placesIEExtra: Place[] = [
   place('galway-bakery-2', 'galway', 'bakery', 'Le Petit Delice', '7 Mainguard St, Galway, Ireland', '골웨이의 프랑스식 베이커리.', 'French-style bakery in Galway.'),
   place('galway-bakery-3', 'galway', 'bakery', "Bridie Murphy's Home Bakery", '10 Mainguard St, Galway, Ireland', '가정식 스타일의 골웨이 베이커리.', 'Home-style bakery in Galway.'),
   place('galway-bakery-4', 'galway', 'bakery', 'Bake Box', '21 Abbeygate Street Lower, Galway, Ireland', '골웨이 애비게이트 스트리트의 베이커리.', 'Bakery on Abbeygate Street Lower in Galway.'),
-  place('galway-cafe-1', 'galway', 'cafe', 'C\'est la Vie Fabrique Boulangerie Café', 'Galway, Ireland', '파리지앵 정통 불랑주리를 경험할 수 있는 골웨이의 프렌치 베이커리 카페', 'Galway French bakery café offering an authentic Parisian boulangerie experience'),
+  place('galway-cafe-1', 'galway', 'cafe', 'C\'est la Vie Fabrique Boulangerie Café', '12A Terryland House, Galway H91 DA21', '파리지앵 정통 불랑주리를 경험할 수 있는 골웨이의 프렌치 베이커리 카페', 'Galway French bakery café offering an authentic Parisian boulangerie experience'),
   place('galway-cafe-2', 'galway', 'cafe', 'Espresso 44', '44 William Street, Galway H91 W8D3', '갤웨이 최고의 커피로 꼽히는 카페.', "Café widely regarded as serving Galway's best coffee."),
 
   // —— cork ——
@@ -50,7 +50,7 @@ export const placesIEExtra: Place[] = [
   place('killarney-bakery-2', 'killarney', 'bakery', 'Petit Delice', '41-42 High Street, Killarney, Co. Kerry, Ireland', '킬라니 하이 스트리트의 프랑스식 베이커리.', 'French-style bakery on High Street in Killarney.'),
   place('killarney-bakery-3', 'killarney', 'bakery', "O'Carrolls Cakes", '8 College St, Killarney, Co. Kerry, Ireland', '킬라니의 케이크 전문 베이커리.', 'Cake-focused bakery in Killarney.'),
   place('killarney-bakery-4', 'killarney', 'bakery', 'LUNA', '1 Brewery Ln, Kenmare Pl, Killarney, Co. Kerry, Ireland', '케나레 플레이스의 킬라니 베이커리 카페.', 'Bakery café on Kenmare Place in Killarney.'),
-  place('killarney-cafe-1', 'killarney', 'cafe', 'Reidy\'s Cafe & Bakery', 'Killarney, Co. Kerry, Ireland', '숙련된 바리스타의 스페셜티 커피와 매일 구운 페이스트리로 유명한 킬라니의 카페', 'Killarney café known for skilled-barista specialty coffee and daily-baked pastries'),
+  place('killarney-cafe-1', 'killarney', 'cafe', 'Mrs Reidy’s Bakery & Café (J.M. Reidy’s)', '4 Main St, Killarney, Co. Kerry V93 CC82', '옛 사탕 가게 건물(J.M. 리디스) 안의 베이커리·카페.', 'Bakery and café inside the old J.M. Reidy’s sweetshop building.'),
   place('killarney-cafe-2', 'killarney', 'cafe', 'Curious Cat Café', '1 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 인기 커피숍.', 'Popular coffee shop in Killarney.'),
   place('killarney-cafe-3', 'killarney', 'cafe', 'Lir Cafe', 'Kenmare Place, V93 P962 Killarney, Ireland', '케나레 플레이스의 킬라니 커피숍.', 'Coffee shop on Kenmare Place in Killarney.'),
   place('killarney-cafe-4', 'killarney', 'cafe', 'Good Boy Coffee', '9 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 인기 커피숍.', 'Popular coffee shop in Killarney.'),
@@ -58,13 +58,13 @@ export const placesIEExtra: Place[] = [
 
   // —— kilkenny ——
   place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'Campagne', '5 Gas House Ln, Kilkenny, R95 X092', '2008년 개업, 2014년부터 미슐랭 1스타를 유지해온 프렌치 레스토랑.', 'French restaurant opened in 2008, holding a Michelin star since 2014.'),
-  place('kilkenny-fine_dining-2', 'kilkenny', 'fine_dining', 'Petronella', "Saint Kieran's Street, R95 KN80 Cill Chainnigh, Ireland", '따뜻하고 세심한 서비스로 호평받는 킬케니 최고의 레스토랑.', "Kilkenny's top-rated restaurant, praised for warm and attentive service."),
+  place('kilkenny-fine_dining-2', 'kilkenny', 'fine_dining', 'Petronella', "Saint Kieran's Street, R95 KN80 Cill Chainnigh, Ireland", '따뜻하고 세심한 서비스로 호평받는 킬케니 최고의 레스토랑.', "Kilkenny's restaurant, praised for warm and attentive service."),
   place('kilkenny-bakery-1', 'kilkenny', 'bakery', 'Arán Artisan Bakery and Bistro', '8 Barrack Street, Kilkenny R95 YF30, Ireland', '아일랜드 타임스 선정 최고의 점심 명소에 오른 킬케니의 아르티장 베이커리', 'Kilkenny artisan bakery named among Ireland\'s top lunch spots by the Irish Times'),
   place('kilkenny-bakery-2', 'kilkenny', 'bakery', 'Cakeface', '16 Irishtown, Kilkenny, Ireland', '킬케니의 프랑스식 제과점.', 'French-style pastry shop in Kilkenny.'),
   place('kilkenny-bakery-3', 'kilkenny', 'bakery', 'The Pantry Patisserie', "Saint Kieran's Street, R95 KN80 Kilkenny, Ireland", '킬케니의 프랑스식 파티스리.', 'French-style patisserie in Kilkenny.'),
   place('kilkenny-bakery-4', 'kilkenny', 'bakery', 'Arán Deli & Bakery', '14 Barrack St, Kilkenny, Ireland', '킬케니 배럭 스트리트의 델리 겸 베이커리.', 'Deli and bakery on Barrack Street in Kilkenny.'),
   place('kilkenny-bakery-5', 'kilkenny', 'bakery', "Tess' Homestyle Bakery", '93 High St, Kilkenny, Ireland', '킬케니의 가정식 베이커리.', 'Home-style bakery in Kilkenny.'),
-  place('kilkenny-cafe-1', 'kilkenny', 'cafe', 'The Pantry Country Kitchen', 'Kieran Street, Kilkenny, Ireland', '직접 만드는 빵과 페이스트리로 유명한 킬케니 시내의 카페', 'Kilkenny city-center café known for freshly made breads and pastries'),
+  place('kilkenny-cafe-1', 'kilkenny', 'cafe', 'The Pantry Country Kitchen', 'St Kieran’s Street, Kilkenny', '직접 만드는 빵과 페이스트리로 유명한 킬케니 시내의 카페', 'Kilkenny city-center café known for freshly made breads and pastries'),
   place('kilkenny-cafe-2', 'kilkenny', 'cafe', 'Cafe La Coco', '4 Lower Patrick St, Kilkenny, Ireland', '킬케니의 인기 카페.', 'Popular café in Kilkenny.'),
   place('kilkenny-cafe-3', 'kilkenny', 'cafe', 'The Yard Café', "27 St Kieran's St, Kilkenny, Ireland", '킬케니의 카페.', 'Café in Kilkenny.'),
   place('kilkenny-cafe-4', 'kilkenny', 'cafe', 'Fragola Cafe', '3 William St, Kilkenny, Ireland', '킬케니의 인기 카페.', 'Popular café in Kilkenny.'),

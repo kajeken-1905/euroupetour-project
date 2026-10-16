@@ -10,16 +10,16 @@ export const placesNLExtra: Place[] = [
   place('rotterdam-fine_dining-5', 'rotterdam', 'fine_dining', 'Fred', 'Honingerdijk 263-265, 3063 AM Rotterdam', '테이블사이드 치즈 카트와 샴페인 서비스로 유명한 마스강 전망의 미쉐린 2스타 레스토랑.', 'Two-Michelin-star Maas-view restaurant famous for its tableside cheese cart and champagne service.'),
 
   place('rotterdam-bakery-1', 'rotterdam', 'bakery', 'Jan Bussing', 'Van Vollenhovenstraat 48a, 3016 BJ Rotterdam', '로테르담 최고로 꼽히는 프렌치풍 전통 베이커리.', 'Widely regarded as Rotterdam\'s best bakery, a traditional French-style boulangerie.'),
-  place('rotterdam-bakery-2', 'rotterdam', 'bakery', 'Koekela Rotterdam', 'Nieuwe Binnenweg 79A, 3014 GC Rotterdam', '평점 높은 인기 베이커리.', 'Popular, highly rated bakery.'),
-  place('rotterdam-bakery-3', 'rotterdam', 'bakery', 'The Cakery Rotterdam', 'Karel Doormanstraat 376, 3012 GP Rotterdam', '평점 높은 프렌치풍 제과점.', 'Highly rated French-style bakery.'),
-  place('rotterdam-bakery-4', 'rotterdam', 'bakery', 'La Maison du pain', 'Hoogstraat 22A, 3011 PC Rotterdam', '평점 높은 프렌치풍 베이커리.', 'Highly rated French-style bakery.'),
-  place('rotterdam-bakery-5', 'rotterdam', 'bakery', 'Crave Coffee & Bakery', 'Vogelenzang 6, 3011 KR Rotterdam', '평점 높은 커피 & 베이커리.', 'Highly rated coffee and bakery spot.'),
+  place('rotterdam-bakery-2', 'rotterdam', 'bakery', 'Koekela Rotterdam', 'Nieuwe Binnenweg 79A, 3014 GC Rotterdam', '인기 베이커리.', 'Popular, bakery.'),
+  place('rotterdam-bakery-3', 'rotterdam', 'bakery', 'The Cakery Rotterdam', 'Karel Doormanstraat 376, 3012 GP Rotterdam', '프렌치풍 제과점.', 'French-style bakery.'),
+  place('rotterdam-bakery-4', 'rotterdam', 'bakery', 'La Maison du pain', 'Hoogstraat 22A, 3011 PC Rotterdam', '프렌치풍 베이커리.', 'French-style bakery.'),
+  place('rotterdam-bakery-5', 'rotterdam', 'bakery', 'Crave Coffee & Bakery', 'Vogelenzang 6, 3011 KR Rotterdam', '커피 & 베이커리.', 'Coffee and bakery spot.'),
 
   place('rotterdam-cafe-1', 'rotterdam', 'cafe', 'Man Met Bril Koffie', 'Vijverhofstraat 70, Rotterdam', '직접 로스팅한 원두로 유명한 로테르담-노르드의 스페셜티 카페.', 'Rotterdam-Noord specialty café known for its on-site-roasted coffee.'),
-  place('rotterdam-cafe-2', 'rotterdam', 'cafe', 'Amada Coffee', 'Hoogstraat 36a, 3011 PE Rotterdam', '평점 높은 커피숍.', 'Highly rated coffee shop.'),
-  place('rotterdam-cafe-3', 'rotterdam', 'cafe', "Sherlock's place", 'Grotekerkplein 103, 3011 GC Rotterdam', '흐로테케르크플레인의 평점 높은 커피숍.', 'Highly rated coffee shop on Grotekerkplein.'),
+  place('rotterdam-cafe-2', 'rotterdam', 'cafe', 'Amada Coffee', 'Hoogstraat 36a, 3011 PE Rotterdam', '커피숍.', 'Coffee shop.'),
+  place('rotterdam-cafe-3', 'rotterdam', 'cafe', "Sherlock's place", 'Grotekerkplein 103, 3011 GC Rotterdam', '흐로테케르크플레인의 커피숍.', 'Coffee shop on Grotekerkplein.'),
   place('rotterdam-cafe-4', 'rotterdam', 'cafe', 'âme cafe and concept store', 'Eendrachtsweg 19, 3012 LB Rotterdam', '카페 겸 컨셉 스토어.', 'Café and concept store combined.'),
-  place('rotterdam-cafe-5', 'rotterdam', 'cafe', 'Nice', 'Hoogstraat 42, 3011 PE Rotterdam', '평점 높은 커피숍.', 'Highly rated coffee shop.'),
+  place('rotterdam-cafe-5', 'rotterdam', 'cafe', 'Nice', 'Hoogstraat 42, 3011 PE Rotterdam', '커피숍.', 'Coffee shop.'),
 
   place('rotterdam-korean-1', 'rotterdam', 'korean', 'Seoul Sista', 'Hartmansstraat 31, 3012 VA Rotterdam', '테이블 그릴이 갖춰진 로테르담의 대표 한국식 바비큐.', 'Rotterdam\'s best-known Korean BBQ spot, with tabletop grills built into every table.'),
   place('rotterdam-korean-2', 'rotterdam', 'korean', 'Bap Boss', 'Goudsesingel 26, 3011 KB Rotterdam', '닭강정으로 호평받는 2018년 개업 한식당.', 'Korean restaurant open since 2018, praised for its dak-gangjeong (Korean fried chicken).'),
@@ -70,14 +70,14 @@ export const placesNLExtra: Place[] = [
 
   // —— delft ——
   place('delft-fine_dining-1', 'delft', 'fine_dining', 'Restaurant Azurite', 'Houttuinen 2, Delft', '마리오 리더 셰프의 미쉐린급 파인 다이닝, 델프트 최고 평가 레스토랑 중 하나.', 'Michelin-recognized fine dining from chef Mario Ridder, one of Delft\'s most acclaimed tables.'),
-  place('delft-fine_dining-2', 'delft', 'fine_dining', 'Novaela', 'Bagijnhof 118, Delft', '델프트 최고 평점 중 하나인 컨템포러리 미쉐린 등재 파인 다이닝.', 'Contemporary Michelin-listed fine-dining restaurant, among the highest-rated in Delft.'),
+  place('delft-fine_dining-2', 'delft', 'fine_dining', 'Novaela', 'Bagijnhof 118, Delft', '델프트 컨템포러리 미쉐린 등재 파인 다이닝.', 'Contemporary Michelin-listed fine-dining restaurant in Delft.'),
   place('delft-fine_dining-3', 'delft', 'fine_dining', 'Restaurant Le Vieux Jean', 'HH Geestkerkhof 3, Delft', '아우더 케르크 인근의 유서 깊은 우아한 파인 다이닝.', 'Elegant, long-established fine-dining restaurant near the Oude Kerk.', { image: '/places/delft-fine_dining-3.jpg' }),
 
   place('delft-bakery-1', 'delft', 'bakery', 'Bakker Suikerbuik', 'Hippolytusbuurt 22-24, 2611 HN Delft', '운하변 테라스를 갖춘 구시가지의 베이커리 겸 런치룸, 애프터눈티로 인기.', 'Historic-centre bakery and lunchroom with a canal-side terrace, popular for high tea.'),
   place('delft-bakery-2', 'delft', 'bakery', 'City Bakery Diamond Ring', 'Choorstraat 9, 2611 JE Delft', '인기 베이커리, 테이크아웃과 배달 전문.', 'Popular bakery specializing in takeaway and delivery.'),
   place('delft-bakery-3', 'delft', 'bakery', 'Boulangerie Michel Delft', 'Oude Kerkstraat 4d, 2611 EZ Delft', '아티산 프렌치 베이커리 체인의 델프트 지점.', 'Delft branch of the artisan French bakery chain.'),
-  place('delft-bakery-4', 'delft', 'bakery', 'Bombina Bakehouse', 'Hippolytusbuurt 29A, 2611 HP Delft', '평점 높은 베이커리.', 'Highly rated bakery.'),
-  place('delft-bakery-5', 'delft', 'bakery', 'The English Bakery', 'Molstraat 19-A, 2611 EN Delft', '평점 높은 영국식 베이커리.', 'Highly rated English-style bakery.'),
+  place('delft-bakery-4', 'delft', 'bakery', 'Bombina Bakehouse', 'Hippolytusbuurt 29A, 2611 HP Delft', '베이커리.', 'Bakery.'),
+  place('delft-bakery-5', 'delft', 'bakery', 'The English Bakery', 'Molstraat 19-A, 2611 EN Delft', '영국식 베이커리.', 'English-style bakery.'),
 
   place('delft-cafe-1', 'delft', 'cafe', 'Kek - De koffiebar van Delft', 'Voldersgracht 27, 2611 EV Delft', '델프트 3위 레스토랑으로 꼽히는 아늑한 올데이 커피 바 겸 브런치 스팟.', 'Ranked #3 restaurant in Delft, a cozy all-day coffee bar and brunch spot.'),
   place('delft-cafe-2', 'delft', 'cafe', 'De Waag', 'Markt 11, 2611 GP Delft', '중앙 광장의 역사적인 카페 겸 레스토랑, 수십 년째 이어진 델프트의 명소.', 'Historic café-restaurant on the main square, a Delft classic for decades.', { image: '/places/delft-cafe-2.jpg' }),
@@ -90,10 +90,10 @@ export const placesNLExtra: Place[] = [
   place('maastricht-fine_dining-4', 'maastricht', 'fine_dining', 'Petit Bonheur', 'Achter de Molens 2, 6211 JC Maastricht', '예케르콰르티어 지구의 17세기 농가를 개조한 프렌치-지중해 레스토랑.', 'French-Mediterranean restaurant in a 17th-century farmhouse in the romantic Jekerkwartier.'),
 
   place('maastricht-bakery-1', 'maastricht', 'bakery', 'Bisschopsmolen', 'Stenenbrug 3, 6211 HP Maastricht', '림뷔르흐 명물 플라이(파이)로 유명한 역사적인 제분소 베이커리.', 'Historic working watermill-bakery famous for its Limburgse vlaai.', { image: '/places/maastricht-bakery-1.jpg' }),
-  place('maastricht-bakery-2', 'maastricht', 'bakery', 'Patisserie Peter Lemmens', 'Glacisweg 30H, 6212 BS Maastricht', '평점 높은 파티스리.', 'Highly rated patisserie.'),
-  place('maastricht-bakery-3', 'maastricht', 'bakery', 'Patisserie Noblesse', 'Scharnerweg 37, 6224 JC Maastricht', '평점 높은 프렌치 파티스리.', 'Highly rated French patisserie.'),
-  place('maastricht-bakery-4', 'maastricht', 'bakery', 'Ginnies', 'Brusselsestraat 95, 6211 PG Maastricht', '평점 높은 베이커리.', 'Highly rated bakery.'),
-  place('maastricht-bakery-5', 'maastricht', 'bakery', "Koekmakerij 't Keukske", 'Nieuwstraat 24, 6211 SR Maastricht', '평점 높은 쿠키 전문점.', 'Highly rated cookie specialist.'),
+  place('maastricht-bakery-2', 'maastricht', 'bakery', 'Patisserie Peter Lemmens', 'Glacisweg 30H, 6212 BS Maastricht', '파티스리.', 'Patisserie.'),
+  place('maastricht-bakery-3', 'maastricht', 'bakery', 'Patisserie Noblesse', 'Scharnerweg 37, 6224 JC Maastricht', '프렌치 파티스리.', 'French patisserie.'),
+  place('maastricht-bakery-4', 'maastricht', 'bakery', 'Ginnies', 'Brusselsestraat 95, 6211 PG Maastricht', '베이커리.', 'Bakery.'),
+  place('maastricht-bakery-5', 'maastricht', 'bakery', "Koekmakerij 't Keukske", 'Nieuwstraat 24, 6211 SR Maastricht', '쿠키 전문점.', 'Cookie specialist.'),
 
   place('maastricht-cafe-1', 'maastricht', 'cafe', 'Coffeelovers Dominicanen', 'Dominicanerkerkstraat 1, 6211 CZ Maastricht', '"세계에서 가장 아름다운 서점"으로 불리는 13세기 도미니크 수도원 성당 안의 에스프레소 바.', 'Espresso bar set inside a converted 13th-century Dominican church, "the most beautiful bookstore in the world."'),
   place('maastricht-cafe-2', 'maastricht', 'cafe', 'Café Zuid', 'Plein 1992 15, 6221 JP Maastricht', '뫼즈강이 내려다보이는 선테라스를 갖춘 강변 카페.', 'Riverside café with a sun terrace overlooking the Maas.', { image: '/places/maastricht-cafe-2.jpg' }),

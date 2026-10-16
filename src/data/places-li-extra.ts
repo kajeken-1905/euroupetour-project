@@ -7,7 +7,7 @@ export const placesLIExtra: Place[] = [
   place('vaduz-fine_dining-2', 'vaduz', 'fine_dining', 'Restaurant Torkel', 'Hintergasse 9, 9490 Vaduz', '왕실 포도밭 한가운데의 미슐랭 1스타 레스토랑, 오래된 와인 압착기가 보존된 공간.', "One-Michelin-star restaurant amid the princely vineyards, built around a preserved antique wine press."),
   place('vaduz-fine_dining-3', 'vaduz', 'fine_dining', 'Schlössle Mahal', 'Fürst-Franz-Josef-Strasse 68, 9490 Vaduz', '전통 인테리어의 인도 요리 레스토랑.', 'Indian restaurant with traditional decor.'),
   place('vaduz-bakery-1', 'vaduz', 'bakery', 'Balu Bäckerei Konditorei', 'Städtle 17, 9490 Vaduz', '슈테틀레 중심가의 베이커리 겸 제과점, 실내외 좌석을 갖춤.', 'Bakery and pâtisserie in the heart of Städtle, with indoor and outdoor seating.'),
-  place('vaduz-bakery-2', 'vaduz', 'bakery', 'Dorfbeck Dörig AG', 'Altenbach 14, 9490 Vaduz', '높은 평점을 자랑하는 파두츠 외곽의 베이커리.', 'Highly rated bakery on the outskirts of Vaduz.'),
+  place('vaduz-bakery-2', 'vaduz', 'bakery', 'Dorfbeck Dörig AG', 'Altenbach 14, 9490 Vaduz', '파두츠 외곽의 베이커리.', 'Bakery on the outskirts of Vaduz.'),
   place('vaduz-cafe-1', 'vaduz', 'cafe', 'Cafe Amann', 'Äulestrasse 56, 9490 Vaduz', '현지인들이 즐겨 찾는 베이커리 카페, 초콜릿 크루아상으로 유명.', 'Bakery café popular with locals, known for its chocolate croissants.'),
   place('vaduz-cafe-2', 'vaduz', 'cafe', '44 Café im Hof', 'Städtle 44, 9490 Vaduz', '리히텐슈타인 국립박물관 맞은편의 카페, 수제 밀크셰이크와 페이스트리로 유명.', "Café opposite the Liechtenstein National Museum, known for its homemade milkshakes and pastries."),
 

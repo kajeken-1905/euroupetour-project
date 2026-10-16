@@ -3,7 +3,6 @@ import type { Place } from '../types'
 
 export const placesADExtra: Place[] = [
   // —— andorra-la-vella ——
-  place('andorra-la-vella-fine_dining-1', 'andorra-la-vella', 'fine_dining', 'Vitobe - Wine BAR', 'Carrer Prat de la Creu, 29, Andorra la Vella', '와인 바 겸 그릴.', 'Wine bar and grill.'),
   place('andorra-la-vella-fine_dining-2', 'andorra-la-vella', 'fine_dining', 'Restaurant Celler d\'En Toni', 'Carrer Verge del Pilar, 4, AD500 Andorra la Vella', '카탈란·안도라 다이닝.', 'Catalan–Andorran dining.'),
   place('andorra-la-vella-fine_dining-3', 'andorra-la-vella', 'fine_dining', 'Restaurant Eric Marty', 'C/ Mossèn Tremosa, 6, Andorra la Vella', '프렌치·안도라 파인 다이닝.', 'French-Andorran fine dining.'),
   place('andorra-la-vella-fine_dining-4', 'andorra-la-vella', 'fine_dining', 'Restaurant el Crostó', 'Cap del Carrer, 7, Andorra la Vella', '전통 안도라 요리.', 'Traditional Andorran cuisine.'),
@@ -24,9 +23,9 @@ export const placesADExtra: Place[] = [
 
   // —— ordino ——
   place('ordino-fine_dining-1', 'ordino', 'fine_dining', 'Topic Restaurant', 'Carrer Mossèn Cinto Verdaguer 1, AD300 Ordino', '안도라 전통 요리 레스토랑.', 'Andorran cuisine restaurant.'),
-  place('ordino-fine_dining-2', 'ordino', 'fine_dining', 'Vertical Ordino', 'Ordino, AD300, Andorra', '지역민들이 극찬하는 오르디노의 유러피안·지중해 레스토랑', 'Highly rated European–Mediterranean restaurant in Ordino'),
-  place('ordino-fine_dining-3', 'ordino', 'fine_dining', 'Restaurant Gaspá', 'Ordino, AD300, Andorra', '24시간 운영하는 오르디노의 유러피안·스페인 레스토랑', '24-hour European–Spanish restaurant in Ordino'),
+  place('ordino-fine_dining-2', 'ordino', 'fine_dining', 'Vertical Ordino', 'Ordino, AD300, Andorra', '크레프·갈레트가 인기인 오르디노의 레스토랑. 테라스가 있고 글루텐·유당 없는 메뉴가 많습니다.', 'Ordino restaurant known for crêpes and galettes, with a terrace and many gluten- and lactose-free options.'),
+  place('ordino-fine_dining-3', 'ordino', 'fine_dining', 'Restaurant Hotel Gaspà', 'Ordino, AD300, Andorra', '오르디노 가스파 호텔의 레스토랑·바.', 'Restaurant and bar of Hotel Gaspà in Ordino.'),
 
-  place('ordino-bakery-1', 'ordino', 'bakery', 'Fleca Font', 'Ordino, AD300, Andorra', '매일 아침 갓 구운 페이스트리 향이 가득한 오르디노의 인기 빵집', 'Beloved Ordino bakery filling the morning air with the aroma of fresh pastries'),
+  place('ordino-bakery-1', 'ordino', 'bakery', 'Fleca Font', 'Ordino (near Hotel La Planada), AD300', '오르디노 마을 중심의 빵집.', 'Bakery in the centre of Ordino village.'),
   place('ordino-cafe-1', 'ordino', 'cafe', 'Hors Categorie Andorra', 'Plaça Major 10, AD300 Ordino, Andorra', '오르디노 중앙 광장에 위치한 카페 겸 레스토랑', 'Café and restaurant on Ordino\'s central square'),
 ]

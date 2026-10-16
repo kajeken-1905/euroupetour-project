@@ -7,7 +7,7 @@ export const placesDEExtra: Place[] = [
   place('berlin-fine_dining-2', 'berlin', 'fine_dining', 'Cordo', 'Große Hamburger Straße 32, 10115 Berlin, Germany', '모던 저먼 코스.', 'Modern German tasting.'),
   place('berlin-fine_dining-3', 'berlin', 'fine_dining', 'Nobelhart & Schmutzig', 'Friedrichstrasse 218, 10969 Berlin, Germany', '로컬 재료 코스.', 'Local-ingredient tasting.'),
   place('berlin-fine_dining-4', 'berlin', 'fine_dining', 'Zur letzten Instanz', 'Waisenstraße 14-16, 10179 Berlin, Germany', '역사적 독일 식당.', 'Historic German restaurant.', { image: '/places/berlin-fine_dining-4.jpg' }),
-  place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 'Berlin', '베를린 스트리트·캐주얼.', 'Berlin street and casual classics.', { image: '/places/berlin-fine_dining-5.jpg' }),
+  place('berlin-fine_dining-5', 'berlin', 'fine_dining', 'Mustafa\'s Gemüse Kebap', 'Mehringdamm 32, 10961 Berlin (U Mehringdamm)', '메링담 역 앞의 유명 채소 케밥집. 줄이 깁니다.', 'Famous vegetable kebab stand by Mehringdamm station—expect a queue.', { image: '/places/berlin-fine_dining-5.jpg' }),
   place('berlin-bakery-1', 'berlin', 'bakery', 'Zeit für Brot', 'Alte Schönhauser Str. 4, Berlin', '시나몬롤·빵.', 'Cinnamon rolls and bread.'),
   place('berlin-bakery-2', 'berlin', 'bakery', 'SoLuna Bäckerei', 'Gneisenaustraße 58, Berlin', '사워도우.', 'Sourdough.'),
   place('berlin-bakery-3', 'berlin', 'bakery', 'EINSTEIN Unter den Linden', 'Unter den Linden 42, Berlin', '빈 스타일 카페·페이스트리.', 'Viennese-style café and pastries.'),

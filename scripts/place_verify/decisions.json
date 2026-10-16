@@ -1,4 +1,10 @@
 {
+"alghero-bakery-1": {
+"addr": "Via Sassari 35b, 07041 Alghero",
+"en": "Bar and pastry shop in central Alghero.",
+"ko": "알게로 시내의 바 겸 제과점.",
+"ok": 1
+},
 "ams-bk-1": {
 "ok": 1
 },
@@ -63,6 +69,73 @@
 "ko": "드 파이프의 무한 리필 한식 바비큐. 예약하는 편이 좋습니다.",
 "ok": 1
 },
+"andorra-la-vella-cafe-2": {
+"ok": 1
+},
+"andorra-la-vella-fine_dining-1": {
+"del": "안도라에서 그 바를 찾을 수 없음"
+},
+"arcachon-fine_dining-3": {
+"addr": "Rue des Tamaris (Les Youkas), 33970 Lège-Cap-Ferret",
+"en": "Oyster and seafood shack in the Les Youkas oyster quarter of Cap Ferret.",
+"ko": "캅페레 레 유카스 굴 양식촌의 굴·해산물 오두막 식당.",
+"ok": 1
+},
+"ayia-napa-fine_dining-3": {
+"del": "그 이름·주소의 식당을 찾을 수 없음"
+},
+"bath-cafe-4": {
+"del": "배스에서 그 카페를 찾을 수 없음"
+},
+"berat-bakery-1": {
+"del": "베라트에서 그 가게를 찾을 수 없음"
+},
+"berlin-fine_dining-5": {
+"addr": "Mehringdamm 32, 10961 Berlin (U Mehringdamm)",
+"en": "Famous vegetable kebab stand by Mehringdamm station—expect a queue.",
+"ko": "메링담 역 앞의 유명 채소 케밥집. 줄이 깁니다.",
+"ok": 1
+},
+"bern-bakery-3": {
+"ok": 1
+},
+"bern-cafe-3": {
+"addr": "Marktgasse, 3011 Bern (basement)",
+"en": "Multi-roaster specialty coffee shop in a Marktgasse basement, opened 2024.",
+"ko": "마르크트가세 지하의 멀티 로스터 스페셜티 커피숍(2024년 개업).",
+"ok": 1
+},
+"bonifacio-fine_dining-3": {
+"addr": "Cavallo Morto, 20169 Bonifacio",
+"ok": 1
+},
+"brighton-bakery-5": {
+"del": "브라이턴에서 그 가게를 찾을 수 없음"
+},
+"brighton-cafe-1": {
+"del": "브라이턴에서 그 카페를 찾을 수 없음"
+},
+"brighton-cafe-2": {
+"addr": "24 Upper Hamilton Rd, Brighton BN1 5DF",
+"en": "Small neighbourhood café near Seven Dials, serving breakfast and brunch from local suppliers.",
+"ko": "세븐 다이얼스 근처의 작은 동네 카페. 지역 농산물로 만든 아침·브런치.",
+"ok": 1
+},
+"brighton-cafe-4": {
+"del": "브라이턴에서 그 카페를 찾을 수 없음"
+},
+"brighton-cafe-5": {
+"del": "브라이턴에서 그 카페를 찾을 수 없음"
+},
+"brighton-fine_dining-3": {
+"del": "2023년 8월 폐업"
+},
+"bristol-bakery-4": {
+"del": "브리스틀에서 그 가게를 찾을 수 없음"
+},
+"bristol-bakery-5": {
+"del": "브리스틀에서 그 가게를 찾을 수 없음"
+},
 "bru-bk-1": {
 "ok": 1
 },
@@ -124,8 +197,39 @@
 "bru-kr-1": {
 "ok": 1
 },
+"bucharest-bakery-2": {
+"del": "부쿠레슈티에서 그 빵집을 찾을 수 없음"
+},
+"bucharest-fine_dining-4": {
+"addr": "Strada Stavropoleos 5, București",
+"en": "Neo-Gothic beer hall restaurant in the Old Town, open since 1899.",
+"ko": "1899년 문을 연 구시가지의 네오고딕 맥주홀 식당.",
+"ok": 1
+},
+"cambridge-bakery-3": {
+"del": "케임브리지에서 그 가게를 찾을 수 없음"
+},
 "cambridge-fine_dining-2": {
 "del": "2018년 10월 폐업"
+},
+"ceske-budejovice-cafe-1": {
+"del": "체스케부데요비체에서 그 가게를 찾을 수 없음"
+},
+"como-bakery-1": {
+"del": "코모에서 그 제과점을 찾을 수 없음"
+},
+"como-cafe-1": {
+"addr": "Via Fratelli Cairoli 2, 22100 Como",
+"en": "All-day bistro café on the ground floor of the Palazzo San Gottardo hotel, opened in 2026.",
+"ko": "2026년 문을 연 팔라초 산 고타르도 호텔 1층의 올데이 비스트로 카페.",
+"ok": 1
+},
+"conwy-cafe-1": {
+"addr": "7 High Street, Conwy LL32 8DB",
+"ok": 1
+},
+"cordoba-cafe-4": {
+"del": "코르도바에서 그 카페를 찾을 수 없음"
 },
 "cph-bk-1": {
 "ok": 1
@@ -180,6 +284,52 @@
 "ok": 1
 },
 "cph-kr-1": {
+"ok": 1
+},
+"derry-fine_dining-2": {
+"addr": "124 Strand Road, Derry BT48 7NS",
+"en": "Quayside street-food kitchen in a bus and container; the town restaurant closed in early 2026.",
+"ko": "강변의 버스·컨테이너 주방에서 시작한 길거리 음식점. 시내 매장은 2026년 초 문을 닫았습니다.",
+"name": "Pyke ’n’ Pommes POD",
+"ok": 1
+},
+"edinburgh-cafe-4": {
+"addr": "Melville Place, Edinburgh (West End)",
+"en": "West End specialty coffee café with outdoor seats facing St Mary’s Cathedral.",
+"ko": "웨스트엔드의 스페셜티 커피 카페. 바깥 자리에서 세인트 메리 대성당이 보입니다.",
+"ok": 1
+},
+"gabala-bakery-1": {
+"del": "가발라에서 그 가게를 찾을 수 없음"
+},
+"galway-cafe-1": {
+"addr": "12A Terryland House, Galway H91 DA21",
+"ok": 1
+},
+"galway-fine_dining-1": {
+"ok": 1
+},
+"girona-cafe-1": {
+"addr": "Carrer del Bellaire 7, 17004 Girona",
+"ok": 1
+},
+"girona-cafe-3": {
+"ok": 1
+},
+"gozo-bakery-1": {
+"ok": 1
+},
+"gozo-bakery-2": {
+"en": "Wood-fired bakery on Hanaq Street, famous for ftira; takeaway only.",
+"ko": "하나크 거리의 장작 오븐 빵집. 프티라가 유명하고 앉을 자리는 없습니다.",
+"ok": 1
+},
+"gozo-bakery-3": {
+"del": "케르쳄에서 그 빵집을 찾을 수 없음"
+},
+"gozo-fine_dining-3": {
+"en": "Farmhouse restaurant in Xagħra, open since 1982, with a long wine list.",
+"ko": "샤그라 마을의 옛 농가 레스토랑(1982년 개업). 와인 리스트가 깁니다.",
 "ok": 1
 },
 "hel-bk-1": {
@@ -242,6 +392,55 @@
 },
 "hel-kr-1": {
 "del": "그 주소·이름의 한식당을 찾을 수 없음"
+},
+"herceg-novi-bakery-2": {
+"del": "헤르체그노비에서 그 빵집을 찾을 수 없음"
+},
+"herceg-novi-cafe-1": {
+"del": "라주르 호텔 근처에 있다는 언급뿐이라 주소·영업 확인 불가"
+},
+"herceg-novi-fine_dining-5": {
+"del": "헤르체그노비에서 그 식당을 찾을 수 없음"
+},
+"istanbul-bakery-1": {
+"del": "이스탄불에서 그 빵집을 찾을 수 없음"
+},
+"jurmala-cafe-4": {
+"del": "유르말라에서 그 카페를 찾을 수 없음"
+},
+"kilkenny-cafe-1": {
+"addr": "St Kieran’s Street, Kilkenny",
+"ok": 1
+},
+"killarney-cafe-1": {
+"addr": "4 Main St, Killarney, Co. Kerry V93 CC82",
+"en": "Bakery and café inside the old J.M. Reidy’s sweetshop building.",
+"ko": "옛 사탕 가게 건물(J.M. 리디스) 안의 베이커리·카페.",
+"name": "Mrs Reidy’s Bakery & Café (J.M. Reidy’s)",
+"ok": 1
+},
+"kotor-bakery-1": {
+"del": "코토르에서 그 빵집을 찾을 수 없음"
+},
+"limerick-fine_dining-2": {
+"ok": 1
+},
+"lisbon-bakery-2": {
+"addr": "Rua do Loreto 2, 1200-108 Lisboa",
+"en": "The original Chiado shop, with fresh pastéis de nata every twenty minutes.",
+"ko": "시아두 1호점. 20분마다 갓 구운 나타가 나옵니다.",
+"ok": 1
+},
+"lisbon-bakery-3": {
+"addr": "Rua Garrett 23, 1200-203 Lisboa",
+"name": "A Padaria Portuguesa (Chiado)",
+"ok": 1
+},
+"liverpool-bakery-2": {
+"del": "리버풀에서 그 가게를 찾을 수 없음"
+},
+"liverpool-cafe-2": {
+"del": "리버풀에서 그 카페를 찾을 수 없음"
 },
 "lon-bk-1": {
 "addr": "197 Richmond Rd, London E8 3NJ",
@@ -380,6 +579,44 @@
 "addr": "18 Place d’Armes, 1136 Luxembourg",
 "ok": 1
 },
+"madrid-bakery-1": {
+"del": "마드리드에서 그 빵집을 찾을 수 없음"
+},
+"manchester-bakery-5": {
+"del": "맨체스터에서 그 빵집을 찾을 수 없음"
+},
+"mdina-bakery-1": {
+"en": "Rabat pastizzi bar running since the mid-1940s.",
+"ko": "1945년 무렵부터 이어온 라바트의 파스티치 바.",
+"ok": 1
+},
+"mostar-bakery-1": {
+"addr": "Mostarskog bataljona (next to Hotel Bristol), Mostar",
+"en": "Dessert café next to Hotel Bristol with a big summer terrace.",
+"ko": "호텔 브리스톨 옆의 디저트 카페. 여름 테라스가 넓습니다.",
+"name": "Aldi 2",
+"ok": 1
+},
+"ordino-bakery-1": {
+"addr": "Ordino (near Hotel La Planada), AD300",
+"en": "Bakery in the centre of Ordino village.",
+"ko": "오르디노 마을 중심의 빵집.",
+"ok": 1
+},
+"ordino-fine_dining-2": {
+"en": "Ordino restaurant known for crêpes and galettes, with a terrace and many gluten- and lactose-free options.",
+"ko": "크레프·갈레트가 인기인 오르디노의 레스토랑. 테라스가 있고 글루텐·유당 없는 메뉴가 많습니다.",
+"ok": 1
+},
+"ordino-fine_dining-3": {
+"en": "Restaurant and bar of Hotel Gaspà in Ordino.",
+"ko": "오르디노 가스파 호텔의 레스토랑·바.",
+"name": "Restaurant Hotel Gaspà",
+"ok": 1
+},
+"orheiul-vechi-bakery-1": {
+"del": "오르헤이에서 그 빵집을 찾을 수 없음"
+},
 "osl-bk-1": {
 "addr": "Inkognito Terrasse 1, 0256 Oslo",
 "ok": 1
@@ -442,6 +679,110 @@
 "osl-kr-1": {
 "ok": 1
 },
+"oxford-bakery-2": {
+"del": "옥스퍼드에서 그 빵집을 찾을 수 없음"
+},
+"oxford-bakery-4": {
+"del": "옥스퍼드에서 그 빵집을 찾을 수 없음"
+},
+"oxford-fine_dining-1": {
+"del": "옥스퍼드에서 그 식당을 찾을 수 없음"
+},
+"palma-cafe-1": {
+"addr": "Carrer de Can Sanç 10, 07001 Palma",
+"ok": 1
+},
+"paphos-bakery-2": {
+"del": "체인은 있으나 그 주소의 파포스 지점을 확인할 수 없음"
+},
+"paris-fine_dining-5": {
+"addr": "27 Rue Malar, 75007 Paris",
+"ok": 1
+},
+"peja-bakery-1": {
+"del": "페야에서 그 빵집을 찾을 수 없음"
+},
+"podgorica-bakery-4": {
+"del": "포드고리차에서 그 가게를 찾을 수 없음"
+},
+"pristina-cafe-1": {
+"del": "배달 앱 목록뿐이라 매장 주소와 설명을 확인할 수 없음"
+},
+"ravenna-fine_dining-3": {
+"addr": "Viale Francesco Baracca 74, 48121 Ravenna",
+"ok": 1
+},
+"remich-fine_dining-1": {
+"addr": "Quai de la Moselle, 5553 Remich",
+"ok": 1
+},
+"rome-bakery-3": {
+"addr": "Via dei Chiavari 34, 00186 Roma",
+"en": "Third-generation bakery near Campo de’ Fiori, known for pizza bianca and rossa sold by weight.",
+"ko": "캄포 데 피오리 근처의 3대째 이어온 빵집. 무게로 파는 피자 비앙카·로사가 유명합니다.",
+"name": "Antico Forno Roscioli",
+"ok": 1
+},
+"rome-cafe-1": {
+"addr": "Piazza di Sant’Eustachio 82, 00186 Roma",
+"ok": 1
+},
+"rome-cafe-2": {
+"addr": "Via degli Orfani 84, 00186 Roma",
+"en": "Coffee bar by the Pantheon, famous for coffee granita with cream; closed Sundays.",
+"ko": "판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.",
+"ok": 1
+},
+"santiago-fine_dining-1": {
+"addr": "Praza de Abastos, Rúa das Ameas 13-18, 15703 Santiago de Compostela",
+"ok": 1
+},
+"santiago-fine_dining-3": {
+"ok": 1
+},
+"sheki-bakery-1": {
+"del": "셰키에서 그 가게를 찾을 수 없음"
+},
+"sheki-cafe-2": {
+"del": "셰키에서 그 가게를 찾을 수 없음"
+},
+"sheki-fine_dining-2": {
+"addr": "İzzət Həmidov küçəsi, Şəki",
+"ok": 1
+},
+"sighnaghi-cafe-1": {
+"del": "시그나기에서 그 카페를 찾을 수 없음"
+},
+"skopje-bakery-3": {
+"del": "스코페에서 그 가게를 찾을 수 없음"
+},
+"snowdonia-fine_dining-1": {
+"addr": "Unit 1, Station Approach, Betws-y-Coed LL24 0AE",
+"ok": 1
+},
+"soroca-fine_dining-2": {
+"del": "소로카에서 그 식당을 찾을 수 없음"
+},
+"sounion-fine_dining-1": {
+"addr": "Below the Temple of Poseidon, Sounio",
+"name": "Ilias (Elias)",
+"ok": 1
+},
+"sounion-fine_dining-2": {
+"en": "Seafood taverna in Legrena, famous for mussels steamed in feta sauce.",
+"ko": "레그레나의 해산물 타베르나. 페타 소스 홍합찜이 유명합니다.",
+"ok": 1
+},
+"stepantsminda-cafe-2": {
+"del": "스테판츠민다에서 그 카페를 찾을 수 없음"
+},
+"stirling-cafe-2": {
+"addr": "Cowane’s Hospital, St John Street, Stirling",
+"en": "Café in the Guildhall and garden terrace of 17th-century Cowane’s Hospital.",
+"ko": "17세기 구빈원 코웨인스 호스피털의 길드홀과 정원 테라스에서 여는 카페.",
+"name": "Legends at Cowane’s",
+"ok": 1
+},
 "sto-bk-1": {
 "ok": 1
 },
@@ -499,5 +840,42 @@
 },
 "sto-kr-1": {
 "ok": 1
+},
+"tenby-bakery-1": {
+"addr": "Lower Frog Street, Tenby SA70 7HS",
+"ok": 1
+},
+"timisoara-bakery-4": {
+"del": "그 이름의 제과점을 찾을 수 없음(비슷한 이름은 일반 식당)"
+},
+"travnik-bakery-3": {
+"en": "Café and pastry shop in Travnik.",
+"ko": "트라브니크의 카페 겸 제과점.",
+"ok": 1
+},
+"travnik-fine_dining-2": {
+"addr": "Šumeće, Travnik (by the Plava Voda spring)",
+"en": "Riverside Bosnian restaurant by the Plava Voda spring, serving ćevapi, kebabs and fish.",
+"ko": "플라바 보다 샘 옆 강가의 보스니아 요리 식당. 체바피·케밥·생선을 냅니다.",
+"ok": 1
+},
+"urbino-fine_dining-2": {
+"addr": "Via Don Minzoni 2/4, 61029 Urbino",
+"ok": 1
+},
+"valletta-korean-2": {
+"del": "이스숙 탈벨트에 그 한식 매장을 찾을 수 없음"
+},
+"windsor-bakery-1": {
+"del": "윈저에서 그 빵집을 찾을 수 없음"
+},
+"windsor-fine_dining-3": {
+"addr": "Brocas Street, Eton SL4 6BW",
+"en": "Eton pub dating from around 1682, just over the bridge from Windsor, hung with rowing memorabilia.",
+"ko": "윈저에서 다리를 건너면 바로 있는 1682년 무렵부터의 이튼 펍. 조정 기념품이 걸려 있습니다.",
+"ok": 1
+},
+"york-bakery-2": {
+"del": "요크에서 그 빵집을 찾을 수 없음"
 }
 }

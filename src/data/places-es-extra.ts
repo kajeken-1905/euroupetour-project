@@ -8,7 +8,6 @@ export const placesESExtra: Place[] = [
   place('madrid-fine_dining-3', 'madrid', 'fine_dining', 'StreetXO', 'Calle de Serrano 47, 28001 Madrid, Spain', '아시안 퓨전 캐주얼 파인.', 'Asian-fusion casual fine.', { image: '/places/madrid-fine_dining-3.jpg' }),
   place('madrid-fine_dining-4', 'madrid', 'fine_dining', 'Lakasa', 'Plaza del Descubridor Diego de Ordás 1, 28000 Madrid, Spain', '시즌 스페인 다이닝.', 'Seasonal Spanish dining.'),
   place('madrid-fine_dining-5', 'madrid', 'fine_dining', 'Casa Lucio', 'Calle de la Cava Baja 35, 28005 Madrid, Spain', '휴보스 로토스 클래식.', 'Classic huevos rotos.', { image: '/places/madrid-fine_dining-5.jpg' }),
-  place('madrid-bakery-1', 'madrid', 'bakery', 'Panadería Reliquiae', 'Madrid', '사워도우 베이커리.', 'Sourdough bakery.'),
   place('madrid-bakery-2', 'madrid', 'bakery', 'Moulin Chocolat', 'Calle de Alcalá 77, 28001 Madrid, Spain', '페이스트리·초콜릿.', 'Pastries and chocolate.'),
   place('madrid-bakery-3', 'madrid', 'bakery', 'Panic', 'Calle del Conde Duque 13, 28015 Madrid, Spain', '장인 빵집.', 'Artisan bakery.'),
   place('madrid-bakery-4', 'madrid', 'bakery', 'La Duquesita', 'Calle de Fernando VI 2, 28004 Madrid, Spain', '역사적 파티스리.', 'Historic pastry shop.'),
@@ -137,7 +136,7 @@ export const placesESExtra: Place[] = [
   place('toledo-bakery-2', 'toledo', 'bakery', 'Obrador San Félix', 'C. Camarín de San Cipriano 4, 45002 Toledo', '케이크와 컵케이크를 전문으로 하는 제과점.', 'Bakery specializing in cakes and cupcakes.'),
   place('toledo-cafe-1', 'toledo', 'cafe', 'El Café de las Monjas', 'C. Cadenas 6, 45001 Toledo, Spain', '인근 수녀원의 수녀들이 만든 수제 과자로 유명한 대성당 옆 카페', 'Café near the cathedral known for handmade sweets baked by nuns'),
   place('toledo-cafe-2', 'toledo', 'cafe', 'IL CAPPUCCINO Specialty coffee', 'Pl. de la Magdalena 4, Toledo, Spain', '톨레도의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in Toledo'),
-  place('toledo-cafe-3', 'toledo', 'cafe', 'LA VILLA', 'Paseo de Bachilleres 2, 45003 Toledo, Spain', '톨레도에서 평점이 매우 높은 커피숍', 'Highly rated coffee shop in Toledo'),
+  place('toledo-cafe-3', 'toledo', 'cafe', 'LA VILLA', 'Paseo de Bachilleres 2, 45003 Toledo, Spain', '톨레도에서 커피숍', 'Coffee shop in Toledo'),
   place('toledo-cafe-4', 'toledo', 'cafe', 'Naturalmente Italian Coffee & Bakery', 'Pl. de San Juan de los Reyes 2, Toledo, Spain', '이탈리아식 커피와 베이커리를 함께 즐길 수 있는 카페', 'Café serving Italian-style coffee alongside baked goods'),
   place('toledo-cafe-5', 'toledo', 'cafe', 'Cañas y Tapas', 'Plaza de Zocodover 11, 45001 Toledo', '소코도베르 광장의 접근성 좋은 아침·타파스 체인점.', 'Handy breakfast-and-tapas chain spot right on Plaza de Zocodover.', { image: '/places/toledo-cafe-5.jpg' }),
 
@@ -152,7 +151,6 @@ export const placesESExtra: Place[] = [
   place('cordoba-bakery-4', 'cordoba', 'bakery', 'Deluca', 'Avenida Córdoba, C1120AAT Buenos Aires, Argentina', '크루아상과 초콜릿 알파호르로 유명한 카페 겸 베이커리.', 'Café-bakery known for croissants and chocolate alfajores.'),
   place('cordoba-cafe-1', 'cordoba', 'cafe', 'Café Viena', 'C. Claudio Marcelo 13, 14002 Córdoba, Spain', '환상적인 아이스크림으로 유명한 코르도바 구시가 중심의 카페', 'Café in the heart of old Córdoba known for its fabulous ice cream'),
   place('cordoba-cafe-2', 'cordoba', 'cafe', 'Arábiga Specialty Coffee', 'C. Lucano 15, 14003 Córdoba', '섬세한 스페셜티 커피와 홈메이드 쿠키.', 'Meticulous specialty coffee and homemade cookies.'),
-  place('cordoba-cafe-4', 'cordoba', 'cafe', 'Deluca Café', 'Córdoba', '커피와 크루아상으로 사랑받는 카페.', 'Beloved café for coffee and croissants.'),
 
   // —— san-sebastian ——
   place('san-sebastian-fine_dining-1', 'san-sebastian', 'fine_dining', 'Arzak', 'Alcalde J. Elosegi Hiribidea 273, 20015 Donostia', '미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant.', { image: '/places/san-sebastian-fine_dining-1.jpg' }),
@@ -198,7 +196,7 @@ export const placesESExtra: Place[] = [
   place('salamanca-korean-1', 'salamanca', 'korean', 'Busan Go!', 'Gran Vía 10, 37001 Salamanca', '테이블에서 직접 굽는 한국식 바베큐.', 'Korean BBQ grilled tableside.'),
 
   // —— santiago ——
-  place('santiago-fine_dining-1', 'santiago', 'fine_dining', 'Abastos 2.0', 'Rúa das Hortas 1, 15705 Santiago de Compostela', '아바스토스 시장의 갈리시아 요리.', 'Galician cuisine at the Abastos market.'),
+  place('santiago-fine_dining-1', 'santiago', 'fine_dining', 'Abastos 2.0', 'Praza de Abastos, Rúa das Ameas 13-18, 15703 Santiago de Compostela', '아바스토스 시장의 갈리시아 요리.', 'Galician cuisine at the Abastos market.'),
   place('santiago-fine_dining-2', 'santiago', 'fine_dining', 'O Sendeiro', 'Rua do Olvido 22, 15703 Santiago de Compostela', '전통 갈리시아 요리를 현대적으로 재해석한 인기 레스토랑.', 'Popular restaurant giving a modern twist to traditional Galician food.'),
   place('santiago-fine_dining-3', 'santiago', 'fine_dining', 'Casa Marcelo', 'Rúa das Hortas 1, 15705 Santiago de Compostela', '갈리시아-아시아 퓨전, 미슐랭 가이드 등재.', 'Galician-Asian fusion, listed in the Michelin Guide.'),
   place('santiago-fine_dining-4', 'santiago', 'fine_dining', 'O Curro da Parra', 'Rua Travesa O Curro Da Parra 7, 15704 Santiago de Compostela', '구시가의 창의적인 갈리시아 타파스 레스토랑.', 'Creative Galician tapas restaurant in the old quarter.'),
@@ -221,7 +219,7 @@ export const placesESExtra: Place[] = [
   place('segovia-bakery-2', 'segovia', 'bakery', 'Pastelería Limón y Menta', 'C. Isabel la Católica 2, 40001 Segovia', '세고비아 명물 폰체 세고비아노로 유명한 제과점.', 'Pastry shop famous for the local Ponche Segoviano cake.'),
   place('segovia-cafe-1', 'segovia', 'cafe', 'La Colonial', 'Plaza del Corpus, 40001 Segovia, Spain', '붉은 인테리어가 인상적인 세고비아 구시가지 중심의 카페', 'Segovia café in the heart of the old town, known for its vibrant red interior'),
   place('segovia-cafe-2', 'segovia', 'cafe', 'Kofe Lab - Specialty Coffee', 'Bajada de la Canaleja 5, Segovia, Spain', '세고비아의 인기 스페셜티 커피숍', 'Popular specialty coffee shop in Segovia'),
-  place('segovia-cafe-3', 'segovia', 'cafe', "Cafetería Paloma's", 'Travesía Dr. Sancho 5, Segovia, Spain', '세고비아에서 평점이 매우 높은 카페', 'Highly rated café in Segovia'),
+  place('segovia-cafe-3', 'segovia', 'cafe', "Cafetería Paloma's", 'Travesía Dr. Sancho 5, Segovia, Spain', '세고비아에서 카페', 'Café in Segovia'),
   place('segovia-cafe-4', 'segovia', 'cafe', 'CHIPÉN SEGOVIA', 'Av. Acueducto 5, Segovia, Spain', '수도교 인근의 카페 겸 수제 아이스크림 전문점', 'Café and artisanal ice cream shop near the aqueduct'),
 
   // —— ronda ——
@@ -247,7 +245,7 @@ export const placesESExtra: Place[] = [
   place('girona-bakery-3', 'girona', 'bakery', 'Oriell 1887', 'Carrer de Sta. Clara 10, Girona, Spain', '1887년부터 이어온 지로나의 역사적인 베이커리', 'Historic Girona bakery operating since 1887'),
   place('girona-bakery-4', 'girona', 'bakery', 'La Puntual (Pa i Brioixeria)', 'Carrer Ramon Turró i Darder 33, Girona, Spain', '브리오슈 빵으로 유명한 인기 베이커리', 'Popular bakery known for its brioche bread'),
   place('girona-bakery-5', 'girona', 'bakery', 'Pastisseria Forn Montserrat', 'Carrer dels Calderers 13, Girona, Spain', '동네 주민들에게 사랑받는 제과점', 'Well-loved neighborhood pastry shop'),
-  place('girona-cafe-1', 'girona', 'cafe', 'La Comuna Café', 'Carrer de la Cort Reial 5, 17004 Girona, Spain', '프로 사이클리스트 부부가 운영하는 지로나의 스페셜티 커피 카페', 'Girona specialty coffee café founded by a professional cyclist and his wife'),
+  place('girona-cafe-1', 'girona', 'cafe', 'La Comuna Café', 'Carrer del Bellaire 7, 17004 Girona', '프로 사이클리스트 부부가 운영하는 지로나의 스페셜티 커피 카페', 'Girona specialty coffee café founded by a professional cyclist and his wife'),
   place('girona-cafe-2', 'girona', 'cafe', 'Oniria Cafè', 'Carrer del Nord 11, 17001 Girona', '카탈루냐-독일 듀오가 운영하는 스페셜티 커피.', 'Specialty coffee run by a Catalan-German duo.'),
   place('girona-cafe-3', 'girona', 'cafe', 'Espresso Mafia Coffee', 'Carrer de la Cort Reial 5, 17004 Girona, Spain', '지로나 중심가의 인기 커피숍.', 'Popular coffee shop in central Girona.'),
   place('girona-cafe-4', 'girona', 'cafe', 'Syra Coffee', 'Carrer de Santa Clara 26, 17001 Girona, Spain', '페드렛 다리 인근의 세련된 에스프레소 바.', 'Sleek espresso bar near Pont de Pedret.'),
@@ -266,7 +264,7 @@ export const placesESExtra: Place[] = [
   place('palma-bakery-3', 'palma', 'bakery', 'Lluís Perez Pastisser', 'Carrer de Bonaire 14, 07012 Palma de Mallorca', '크루아상·케이크로 유명한 팔마 중심가의 제과점.', 'Central Palma patisserie known for croissants and cakes.'),
   place('palma-bakery-4', 'palma', 'bakery', 'Panadería Forn Sa Plaça', 'Carrer Bartomeu Castell 7, Palma', '콜 덴 라바사 지역의 인기 동네 빵집.', 'Popular neighborhood bakery in the Coll d\'en Rabassa district.'),
   place('palma-bakery-5', 'palma', 'bakery', 'Forn San Agustin', 'Avinguda Joan Miró 354, 07015 Palma de Mallorca', '1968년부터 이어온 전통 마요르카 베이커리.', 'Traditional Mallorcan bakery operating since 1968.'),
-  place('palma-cafe-1', 'palma', 'cafe', 'Ca\'n Joan de s\'Aigo', 'Palma de Mallorca, Spain', '팔마에서 가장 오래된 페이스트리 숍 중 하나', 'One of Palma\'s oldest and best-known pastry shops'),
+  place('palma-cafe-1', 'palma', 'cafe', 'Ca\'n Joan de s\'Aigo', 'Carrer de Can Sanç 10, 07001 Palma', '팔마에서 가장 오래된 페이스트리 숍 중 하나', 'One of Palma\'s oldest and best-known pastry shops'),
   place('palma-cafe-2', 'palma', 'cafe', 'Mistral Coffee Roasters', 'Carrer del Banc 4, 07001 Palma de Mallorca', '마요르카 최초의 스페셜티 커피 로스터리.', 'Mallorca\'s pioneering specialty coffee roastery.'),
   place('palma-cafe-3', 'palma', 'cafe', 'Cafè Riutort', 'Carrer del Carme 25, 07003 Palma', '아늑한 분위기의 스페셜티 커피·브런치 카페.', 'Cozy specialty coffee and brunch café.'),
   place('palma-cafe-4', 'palma', 'cafe', 'La Molienda', 'Calle Obispo Campins 11, 07001 Palma de Mallorca', '테라스가 있는 스페셜티 커피·브런치 카페.', 'Specialty coffee and brunch café with a terrace.'),

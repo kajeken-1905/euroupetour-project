@@ -32,7 +32,6 @@ export const placesCYExtra: Place[] = [
   place('paphos-fine_dining-2', 'paphos', 'fine_dining', 'Dias Zeus Restaurant', 'Tombs of the Kings Ave 47, Paphos', '그리스 요리 레스토랑.', 'Greek cuisine restaurant.'),
   place('paphos-fine_dining-3', 'paphos', 'fine_dining', "Uncle Tony's Taverna", 'Othellou 10, Paphos', '그리스 요리 타베르나.', 'Greek cuisine taverna.'),
   place('paphos-bakery-1', 'paphos', 'bakery', 'Sunfresh Bakery', 'Leoforos Tafon ton Vasileon 7, Paphos, Cyprus', '24시간 운영하는 파포스 최고의 베이커리 겸 카페', 'Paphos\'s top bakery café, open 24 hours'),
-  place('paphos-bakery-2', 'paphos', 'bakery', 'Zorbas Bakery (Φούρνος ΖΟΡΠΑΣ)', 'Apostolou Pavlou Ave, Paphos', '24시간 운영하는 파포스의 제과점.', '24-hour bakery in Paphos.'),
   place('paphos-bakery-3', 'paphos', 'bakery', 'Georges Alain Pâtisserie', 'Constantinou Kanari 40, Paphos', '프랑스식 제과점.', 'French-style patisserie.'),
   place('paphos-cafe-1', 'paphos', 'cafe', 'Nest Cafe Snack Bar', 'Poseidonos Avenue 23, Filios Court, 8042 Paphos, Cyprus', '파포스 최고의 라떼로 알려진 아늑한 숨은 카페', 'Cozy hidden-gem café known for the best latte in Paphos'),
   place('paphos-cafe-2', 'paphos', 'cafe', "Campo de'Fiori", 'Petraki Miltriadou 12-Shop 8, Paphos', '스페셜티 커피 전문점.', 'Specialty coffee shop.'),
@@ -41,7 +40,6 @@ export const placesCYExtra: Place[] = [
   // —— ayia-napa ——
   place('ayia-napa-fine_dining-1', 'ayia-napa', 'fine_dining', 'Old Village Tavern', '48 Nissi Avenue, Ayia Napa 5330', '전통 키프로스 타베르나.', 'Traditional Cypriot taverna.'),
   place('ayia-napa-fine_dining-2', 'ayia-napa', 'fine_dining', 'En Yevo Tavernaki', 'Dionysiou Solomou 16, Ayia Napa', '그리스 요리 타베르나.', 'Greek cuisine taverna.'),
-  place('ayia-napa-fine_dining-3', 'ayia-napa', 'fine_dining', "Opa's Tavern Ayia Napa", 'Kryou Nerou, Ayia Napa', '그리스 요리 타베르나.', 'Greek cuisine taverna.'),
 
   place('ayia-napa-bakery-1', 'ayia-napa', 'bakery', 'Zorbas Bakery', 'Nissi Avenue 17, 5330 Ayia Napa, Cyprus', '아이아 나파 최고의 베이커리로 꼽히는 인기 빵집', 'Ayia Napa\'s top-ranked bakery'),
   place('ayia-napa-bakery-2', 'ayia-napa', 'bakery', 'Sigma Bakeries Ayia Napa', 'Nissi Avenue 28, 5330 Ayia Napa, Cyprus', '24시간 운영하는 아이아 나파의 제과점.', '24-hour bakery in Ayia Napa.'),

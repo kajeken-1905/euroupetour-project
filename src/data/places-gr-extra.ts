@@ -40,16 +40,16 @@ export const placesGRExtra: Place[] = [
   place('heraklion-cafe-2', 'heraklion', 'cafe', 'Utopia Cafe', 'Chandakos 51, Heraklion 71202', '초콜릿과 다양한 맥주 셀렉션으로 유명한 카페.', 'Café known for its chocolate selection and diverse beer menu.'),
 
   // —— mykonos ——
-  place('mykonos-fine_dining-1', 'mykonos', 'fine_dining', 'M-Eating', 'Kouzi Georgouli 53, Mykonos 84600', '미코노스 타운 최고 평가 레스토랑.', 'Top-rated restaurant in Mykonos Town.'),
+  place('mykonos-fine_dining-1', 'mykonos', 'fine_dining', 'M-Eating', 'Kouzi Georgouli 53, Mykonos 84600', '미코노스 타운 최고 평가 레스토랑.', 'Restaurant in Mykonos Town.'),
   place('mykonos-fine_dining-2', 'mykonos', 'fine_dining', 'Baboulas Ouzeri', 'Old Port, Mykonos Town 84600', '미코노스 구항구의 가족 운영 그리스 해산물 레스토랑.', 'Family-run Greek seafood restaurant at the Old Port of Mykonos.'),
   place('mykonos-fine_dining-3', 'mykonos', 'fine_dining', 'Karavaki', 'Agios Eleftherios, Vencia Boutique Hotel, Mykonos Town 84600', '미코노스 타운 전경이 내려다보이는 테라스 레스토랑.', 'Restaurant with a terrace overlooking Mykonos Town.'),
   place('mykonos-bakery-1', 'mykonos', 'bakery', 'Il Forno di Gerasimo', 'Ignatiou Basoula 21, Mykonos 846 00, Greece', '미코노스 초라에서 24시간 운영하는 베이커리 겸 카페', '24-hour bakery and café in Mykonos\'s Chora district'),
-  place('mykonos-bakery-2', 'mykonos', 'bakery', 'Anamnisis Mykonos Pastry Shop', 'Agiou Vlasiou, Mykonos 846 00', '미코노스에서 평점이 매우 높은 제과점.', 'Highly rated pastry shop in Mykonos.'),
+  place('mykonos-bakery-2', 'mykonos', 'bakery', 'Anamnisis Mykonos Pastry Shop', 'Agiou Vlasiou, Mykonos 846 00', '미코노스에서 제과점.', 'Pastry shop in Mykonos.'),
   place('mykonos-bakery-3', 'mykonos', 'bakery', 'Gioras Wood Medieval Mykonian Bakery', 'Agiou Efthimiou, Mykonos 846 00', '전통 장작 화덕으로 유명한 미코노스의 베이커리.', 'Mykonos bakery known for its traditional wood-fired oven.'),
   place('mykonos-bakery-4', 'mykonos', 'bakery', 'Bakery Psilos', 'Kalogera 31, Mykonos 846 00', '초라 중심가의 인기 베이커리.', 'Popular bakery in central Chora.'),
   place('mykonos-cafe-1', 'mykonos', 'cafe', 'Kastro\'s Restaurant', 'Agion Anargyron 1, Little Venice, Mykonos 846 00, Greece', '리틀 베니스의 바다 전망 테라스로 유명한 미코노스의 카페 겸 레스토랑', 'Mykonos café-restaurant in Little Venice famous for its seaside terrace views'),
-  place('mykonos-cafe-2', 'mykonos', 'cafe', 'SiaMo Cafe', 'Riga Feraiou & Papachrantou corner, Mykonos 846 00', '미코노스에서 평점이 매우 높은 커피숍.', 'Highly rated coffee shop in Mykonos.'),
-  place('mykonos-cafe-3', 'mykonos', 'cafe', 'Cafe Vero', 'Kaminaki, Mykonos 846 00', '높은 평점의 미코노스 커피숍.', 'Highly rated coffee shop in Mykonos.'),
+  place('mykonos-cafe-2', 'mykonos', 'cafe', 'SiaMo Cafe', 'Riga Feraiou & Papachrantou corner, Mykonos 846 00', '미코노스에서 커피숍.', 'Coffee shop in Mykonos.'),
+  place('mykonos-cafe-3', 'mykonos', 'cafe', 'Cafe Vero', 'Kaminaki, Mykonos 846 00', '미코노스 커피숍.', 'Coffee shop in Mykonos.'),
   place('mykonos-cafe-4', 'mykonos', 'cafe', 'Feel Good Cafe', 'Eparchiaki Odos Mikonou Argyrania, Mykonos 846 00', '아르기라이나 지역의 인기 카페.', 'Popular café in the Argyraina area.'),
 
   // —— rhodes ——
@@ -102,8 +102,8 @@ export const placesGRExtra: Place[] = [
   place('delphi-fine_dining-2', 'delphi', 'fine_dining', 'Taverna Vakhos', 'Apollonos 31, 330 54 Delphi, Greece', '계곡 전망 테라스의 가족 운영 타베르나.', 'Family-run taverna with a valley-view terrace.'),
 
   // —— sounion ——
-  place('sounion-fine_dining-1', 'sounion', 'fine_dining', 'Elias Fish Restaurant', 'Sounio, Greece', '포세이돈 신전에서 가장 가까운 바다 전망 해산물 식당.', 'Sea-view seafood taverna closest to the temple.'),
-  place('sounion-fine_dining-2', 'sounion', 'fine_dining', 'Theodoros & Eleni', 'Legrena, Greece', '신선한 해산물로 유명한 레그레나의 타베르나.', 'Legrena taverna known for fresh seafood.'),
+  place('sounion-fine_dining-1', 'sounion', 'fine_dining', 'Ilias (Elias)', 'Below the Temple of Poseidon, Sounio', '포세이돈 신전에서 가장 가까운 바다 전망 해산물 식당.', 'Sea-view seafood taverna closest to the temple.'),
+  place('sounion-fine_dining-2', 'sounion', 'fine_dining', 'Theodoros & Eleni', 'Legrena, Greece', '레그레나의 해산물 타베르나. 페타 소스 홍합찜이 유명합니다.', 'Seafood taverna in Legrena, famous for mussels steamed in feta sauce.'),
   place('sounion-fine_dining-3', 'sounion', 'fine_dining', 'Taverna Syrtaki', 'Leoforos Souniou 114, Kato Sounio 195 00, Greece', '카바치 해변 옆 도로변의 타베르나.', 'Roadside taverna by Kavatsi beach.'),
 
   // —— olympia ——

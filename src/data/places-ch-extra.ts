@@ -54,7 +54,7 @@ export const placesCHExtra: Place[] = [
   place('bern-bakery-4', 'bern', 'bakery', 'Bakery Bakery Länggasse', 'Falkenplatz 9, 3012 Bern', '스위스 최초의 비건 베이커리 체인.', "Switzerland's first fully vegan bakery chain."),
   place('bern-cafe-1', 'bern', 'cafe', 'Bohnenblust', 'Moserstrasse, 3014 Bern, Switzerland', '혁신적이고 창의적인 베이커리 제품으로 유명한 베른의 카페', 'Bern café known for innovative, creative baked goods'),
   place('bern-cafe-2', "bern", 'cafe', "jusq'a", 'Brunngasse 52, 3011 Bern', '구시가지의 최고급 스페셜티 커피.', "Top-tier specialty coffee in Bern's old town."),
-  place('bern-cafe-3', 'bern', 'cafe', 'Friend or Foe Specialty Coffee Market', 'Marktgasse 19, 3011 Bern', '세계 각지 원두를 소개하는 스페셜티 커피.', 'Specialty coffee showcasing rotating beans from top global roasters.'),
+  place('bern-cafe-3', 'bern', 'cafe', 'Friend or Foe Specialty Coffee Market', 'Marktgasse, 3011 Bern (basement)', '마르크트가세 지하의 멀티 로스터 스페셜티 커피숍(2024년 개업).', 'Multi-roaster specialty coffee shop in a Marktgasse basement, opened 2024.'),
   place('bern-cafe-4', 'bern', 'cafe', 'RÖSTEREI', 'Güterstrasse, 3008 Bern, Switzerland', '2014년 오픈한 서드웨이브 로스터리 카페.', 'Third-wave roastery café opened in 2014.'),
   place('bern-korean-1', 'bern', 'korean', 'Chun Hee', 'Münstergasse 39, 3011 Bern', '대성당 인근 가족 운영 정통 한식당.', "Family-run authentic Korean restaurant near the cathedral."),
   place('bern-korean-2', 'bern', 'korean', 'Arirang', 'Hirschengraben 11, 3011 Bern', '10년 넘게 사랑받는 한식·아시안 레스토랑.', 'Beloved Korean-Asian restaurant for over a decade.'),
@@ -153,7 +153,7 @@ export const placesCHExtra: Place[] = [
   place('montreux-fine_dining-4', 'montreux', 'fine_dining', 'Montreux Jazz Café', 'Av. Claude-Nobs 2, Montreux', '몽트뢰 재즈 페스티벌을 테마로 한 레스토랑.', 'Restaurant themed around the Montreux Jazz Festival.', { image: '/places/montreux-fine_dining-4.jpg' }),
   place('montreux-bakery-1', 'montreux', 'bakery', 'Zurcher', 'Avenue du Casino 45, 1820 Montreux, Switzerland', '장인 빵과 초콜릿, 아늑한 티룸을 갖춘 몽트뢰의 대표 제과점', 'Montreux\'s leading confiserie with artisanal bread, chocolates and a cosy tearoom'),
   place('montreux-bakery-2', 'montreux', 'bakery', 'La Bergamote', 'Av. de Chillon 58, Montreux', '몽트뢰의 부랑주리 겸 살롱 드 테.', 'Boulangerie and tea salon in Montreux.'),
-  place('montreux-cafe-1', 'montreux', 'cafe', 'Tea Room de la Baye', 'Vieille Ville, 1820 Montreux, Switzerland', '몽트뢰 구시가지에 위치한 평이 좋은 티룸', 'Highly rated tea room in Montreux\'s old town', { image: '/places/montreux-cafe-1.jpg' }),
+  place('montreux-cafe-1', 'montreux', 'cafe', 'Tea Room de la Baye', 'Vieille Ville, 1820 Montreux, Switzerland', '몽트뢰 구시가지에 위치한 평이 좋은 티룸', 'Tea room in Montreux\'s old town', { image: '/places/montreux-cafe-1.jpg' }),
   place('montreux-cafe-2', 'montreux', 'cafe', 'Le Cosy', 'Grand-Rue 64, 1820 Montreux, Switzerland', '몽트뢰의 초콜릿 카페.', 'Chocolate café in Montreux.'),
   place('montreux-cafe-3', 'montreux', 'cafe', 'Tea-room La Primerose', "Rue de l'Église-Catholique 12, 1820 Montreux, Switzerland", '몽트뢰의 티룸.', 'Tea room in Montreux.'),
 

@@ -15,10 +15,10 @@ export const placesLUExtra: Place[] = [
   place('echternach-fine_dining-2', 'echternach', 'fine_dining', 'Café Restaurant du Musée', '6 Rue du Pont, L-6471 Echternach', '박물관 인근의 카페 겸 레스토랑.', 'Café-restaurant near the local museum.'),
   place('echternach-bakery-1', 'echternach', 'bakery', 'Pâtisserie Hoffmann', '6-8 Rue de la Montagne, L-6470 Echternach', '친절한 서비스로 호평받는 에히터나흐의 제과점.', 'Echternach pâtisserie praised for its friendly service.'),
   place('echternach-bakery-2', 'echternach', 'bakery', 'Fischer', '38 Rue de la Gare, Echternach', '에히터나흐의 베이커리 체인점.', 'Bakery chain location in Echternach.'),
-  place('echternach-bakery-3', 'echternach', 'bakery', 'DIETZ', 'Bitburger Str. 1B, Echternach', '많은 리뷰를 받은 에히터나흐의 제과점.', 'Bakery in Echternach with a large number of reviews.'),
+  place('echternach-bakery-3', 'echternach', 'bakery', 'DIETZ', 'Bitburger Str. 1B, Echternach', '에히터나흐의 제과점.', 'Bakery in Echternach.'),
 
   // —— remich ——
-  place('remich-fine_dining-1', 'remich', 'fine_dining', 'Café De L\'Europe Bofferding', 'Quai de la Moselle, Remich', '모젤강변의 카페 겸 레스토랑, 차분한 분위기와 친절한 서비스로 호평.', "Café-restaurant on the Moselle riverbank, praised for its calm atmosphere and friendly service."),
+  place('remich-fine_dining-1', 'remich', 'fine_dining', 'Café De L\'Europe Bofferding', 'Quai de la Moselle, 5553 Remich', '모젤강변의 카페 겸 레스토랑, 차분한 분위기와 친절한 서비스로 호평.', "Café-restaurant on the Moselle riverbank, praised for its calm atmosphere and friendly service."),
   place('remich-fine_dining-2', 'remich', 'fine_dining', 'Café de la Poste', '16 Place du Marché, Remich', '좋은 커피로 유명한 레미히 광장의 카페.', "Café on Remich's market square, known for its good coffee."),
   place('remich-bakery-1', 'remich', 'bakery', 'Patisserie Haan Boulangerie', '19 Place du Marché, Remich', '빵과 페이스트리, 초콜릿을 갖춘 레미히의 베이커리.', 'Remich bakery offering bread, pastries and chocolates.'),
   place('remich-bakery-2', 'remich', 'bakery', 'Mosella', '21 Place du Marché, Remich', '레미히 시장 광장의 제과점.', 'Bakery on Remich\'s market square.'),

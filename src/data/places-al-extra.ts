@@ -16,7 +16,6 @@ export const placesALExtra: Place[] = [
   // —— berat ——
   place('berat-fine_dining-1', 'berat', 'fine_dining', 'Homemade Food Lili', 'Rruga Nikolla Buhuri, Berat 5001', '구시가의 전통 알바니아 가정식.', 'Traditional Albanian home cooking in the Old Town.'),
   place('berat-fine_dining-2', 'berat', 'fine_dining', 'Bar-Restorant Zonja Gjenë', 'Rruga Antipatrea, Mangalem, Berat 5001', '망갈렘 지구의 인기 레스토랑 겸 바.', 'Popular restaurant and bar in the Mangalem quarter.'),
-  place('berat-bakery-1', 'berat', 'bakery', 'Pasticeri Soni', 'Berat, Albania', '베라트에서 평이 아주 좋은 제과점', 'Highly rated bakery-confectionery in Berat'),
   place('berat-bakery-2', 'berat', 'bakery', 'Pastiçeri Tori', 'Llambi Guxhumani, Mangalem, Berat 5001', '망갈렘 지구의 제과점.', 'Pastry shop in the Mangalem quarter.'),
   place('berat-cafe-1', 'berat', 'cafe', 'Shtepia e Kafes Gimi', 'Bulevardi Republika, 5012 Berat, Albania', '베라트의 숨은 명소로 불리는 셀프서비스 카페', 'Self-service café described as a hidden gem of Berat town'),
 

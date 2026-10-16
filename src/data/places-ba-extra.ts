@@ -16,9 +16,9 @@ export const placesBAExtra: Place[] = [
 
   // —— mostar ——
   place('mostar-fine_dining-1', 'mostar', 'fine_dining', 'Restoran Hindin Han', 'Jusovina bb, Mostar 88000', '네레트바 강변의 전통 보스니아 요리.', 'Traditional Bosnian cuisine on the Neretva River.'),
-  place('mostar-fine_dining-2', 'mostar', 'fine_dining', 'Tima - Irma', 'Onešćukova bb, Mostar 88000', '모스타르에서 손꼽히는 그릴·바비큐 레스토랑.', 'Highly rated grill and barbecue restaurant in Mostar.'),
+  place('mostar-fine_dining-2', 'mostar', 'fine_dining', 'Tima - Irma', 'Onešćukova bb, Mostar 88000', '모스타르에서 손꼽히는 그릴·바비큐 레스토랑.', 'Grill and barbecue restaurant in Mostar.'),
   place('mostar-fine_dining-3', 'mostar', 'fine_dining', 'MEGI Le Petit Restaurant - Mostar', 'Kralja Tomislava 29, Mostar 88000', '모스타르의 인기 레스토랑.', 'Popular restaurant in Mostar.'),
-  place('mostar-bakery-1', 'mostar', 'bakery', 'Caffe Slastičarna Aldi 2', 'Mostarskog bataljona, Mostar, Bosnia and Herzegovina', '스타리 모스트 다리에서 가까운 모스타르 구시가지의 인기 제과점', 'Popular bakery-café near the Stari Most bridge in Mostar\'s Old Town'),
+  place('mostar-bakery-1', 'mostar', 'bakery', 'Aldi 2', 'Mostarskog bataljona (next to Hotel Bristol), Mostar', '호텔 브리스톨 옆의 디저트 카페. 여름 테라스가 넓습니다.', 'Dessert café next to Hotel Bristol with a big summer terrace.'),
   place('mostar-bakery-2', 'mostar', 'bakery', 'Pekara Lučki Most', 'Maršala Tita, Mostar 88000', '모스타르의 인기 제과점.', 'Popular bakery in Mostar.'),
   place('mostar-bakery-3', 'mostar', 'bakery', 'PEKARA stari most', 'Maršala Tita 108, Mostar 88000', '모스타르 구시가지 인근 제과점.', 'Bakery near Mostar\'s Old Town.'),
   place('mostar-cafe-1', 'mostar', 'cafe', 'Café de Alma', 'Rade Bitange, 88000 Mostar, Bosnia and Herzegovina', '네레트바 강변 스타리 모스트 바로 옆에 위치한 모스타르 최고의 카페', 'Widely regarded as Mostar\'s best café, right by the Stari Most on the Neretva River'),
@@ -38,18 +38,18 @@ export const placesBAExtra: Place[] = [
 
   // —— travnik ——
   place('travnik-fine_dining-1', 'travnik', 'fine_dining', 'Ćevabdžinica Hari', 'Donja čaršija bb, Travnik 72270', '트라브니크 명물 체바피.', 'Travnik\'s famous ćevapi.'),
-  place('travnik-fine_dining-2', 'travnik', 'fine_dining', 'Restoran Konoba "Plava voda"', 'Travnik 72270, Bosnia and Herzegovina', '트라브니크의 명소인 플라바 보다 샘 옆의 유서 깊은 레스토랑.', 'Historic restaurant beside Travnik\'s landmark Plava Voda spring.'),
+  place('travnik-fine_dining-2', 'travnik', 'fine_dining', 'Restoran Konoba "Plava voda"', 'Šumeće, Travnik (by the Plava Voda spring)', '플라바 보다 샘 옆 강가의 보스니아 요리 식당. 체바피·케밥·생선을 냅니다.', 'Riverside Bosnian restaurant by the Plava Voda spring, serving ćevapi, kebabs and fish.'),
   place('travnik-fine_dining-3', 'travnik', 'fine_dining', 'Gusto Restaurant Travnik', 'Bosanska bb, Travnik 72270', '이탈리안 레스토랑.', 'Italian restaurant.'),
 
   place('travnik-bakery-1', 'travnik', 'bakery', 'Konak - Bečka Kafana', 'Vezirska bb, 72270 Travnik, Bosnia and Herzegovina', '발칸식 카페 겸 베이커리로 트라브니크에서 오랫동안 사랑받아온 곳', 'Long-loved Balkan café and bakery in Travnik'),
   place('travnik-bakery-2', 'travnik', 'bakery', 'Pekara ABA Travnik', 'Bosanska 117, Travnik 72270', '트라브니크의 제과점.', 'Bakery in Travnik.'),
-  place('travnik-bakery-3', 'travnik', 'bakery', 'Royal Cafe & Patisserie', 'Travnik 72270, Bosnia and Herzegovina', '카페 겸 제과점.', 'Café and patisserie.'),
-  place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 'Šumeće, 72270 Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Highly rated traditional coffee spot in Travnik', { image: '/places/travnik-cafe-1.jpg' }),
+  place('travnik-bakery-3', 'travnik', 'bakery', 'Royal Cafe & Patisserie', 'Travnik 72270, Bosnia and Herzegovina', '트라브니크의 카페 겸 제과점.', 'Café and pastry shop in Travnik.'),
+  place('travnik-cafe-1', 'travnik', 'cafe', 'Lutvina Kahva', 'Šumeće, 72270 Travnik, Bosnia and Herzegovina', '트라브니크에서 평가가 높은 전통 커피 전문점', 'Traditional coffee spot in Travnik', { image: '/places/travnik-cafe-1.jpg' }),
   place('travnik-cafe-2', 'travnik', 'cafe', 'My Place Café Travnik', 'Bosanska 33, Travnik 72270', '트라브니크의 커피 전문점.', 'Coffee shop in Travnik.'),
   place('travnik-cafe-3', 'travnik', 'cafe', 'Cafe Vremeplov', 'Varoš 10, Travnik 72270', '바로슈 지구의 커피 전문점.', 'Coffee shop in the Varoš quarter.'),
 
   // —— neum ——
-  place('neum-fine_dining-1', 'neum', 'fine_dining', 'Restoran Laguna', 'Kralja Tomislava 26, Neum 88390', '네움 1위 시푸드 레스토랑. 오징어찜과 리조토가 인기입니다.', "Neum's top-rated seafood restaurant, known for stuffed calamari and risotto."),
+  place('neum-fine_dining-1', 'neum', 'fine_dining', 'Restoran Laguna', 'Kralja Tomislava 26, Neum 88390', '네움 1위 시푸드 레스토랑. 오징어찜과 리조토가 인기입니다.', "Neum's seafood restaurant, known for stuffed calamari and risotto."),
   place('neum-fine_dining-2', 'neum', 'fine_dining', 'Villa Dom Restoran Pizzeria', 'Primorska 79, Neum', '해변 전망의 피자·시푸드 레스토랑입니다.', 'Pizza and seafood restaurant with beach views.'),
   place('neum-fine_dining-3', 'neum', 'fine_dining', 'Caffe Grill Adriatic', 'Kamenice bb, Neum 88390', '신선한 해산물과 아드리아식 그릴 요리를 내는 인기 그릴 레스토랑입니다.', 'Popular grill restaurant serving fresh seafood and Adriatic-style grilled dishes.'),
 ]

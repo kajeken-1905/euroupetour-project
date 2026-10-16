@@ -30,7 +30,7 @@ export const placesHRExtra: Place[] = [
   place('dubrovnik-korean-2', 'dubrovnik', 'korean', 'Dingdong Korean Restaurant', 'Vetranićeva ul. 8, 20000 Dubrovnik', '구시가 유일의 한식당, 프라이드치킨으로 유명.', 'The only Korean restaurant in the Old Town, known for its fried chicken.'),
 
   // —— split ——
-  place('split-fine_dining-1', 'split', 'fine_dining', 'Villa Spiza', 'Kružićeva 3, 21000 Split', '스플리트 최고 평가 레스토랑.', 'Top-rated restaurant in Split.'),
+  place('split-fine_dining-1', 'split', 'fine_dining', 'Villa Spiza', 'Kružićeva 3, 21000 Split', '스플리트 최고 평가 레스토랑.', 'Restaurant in Split.'),
   place('split-fine_dining-2', 'split', 'fine_dining', 'Konoba Fetivi', 'Tomica Stine 4, 21000 Split', '미슐랭 셀렉션에 오른 바로슈 지구의 해산물·지중해 요리 코노바.', 'Michelin-selected seafood and Mediterranean konoba in the Varoš district.'),
   place('split-fine_dining-3', 'split', 'fine_dining', 'Portofino', 'Poljana Grgura Ninskog 7, 21000 Split', '디오클레티아누스 궁전 골목의 파인 다이닝 레스토랑.', "Fine dining restaurant tucked in the alleys of Diocletian's Palace."),
   place('split-bakery-1', 'split', 'bakery', 'Kruscic Bakery', 'Split, 21000, Croatia', '생선 시장 근처 스플리트 구시가지의 아르티장 베이커리', 'Artisan bakery near the Fish Market in Split\'s Old Town'),

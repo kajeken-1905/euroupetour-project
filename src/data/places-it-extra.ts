@@ -10,11 +10,11 @@ export const placesITExtra: Place[] = [
   place('rome-fine_dining-5', 'rome', 'fine_dining', 'Felice a Testaccio', 'Via Mastro Giorgio 29, 00153 Rome, Italy', '카르보나라·로컬 클래식.', 'Carbonara and local classics.'),
   place('rome-bakery-1', 'rome', 'bakery', 'Roscioli Forno', 'Via dei Chiavari 34, 00186 Rome, Italy', '피자 비안카·빵.', 'Pizza bianca and bread.', { image: '/places/rome-bakery-1.jpg' }),
   place('rome-bakery-2', 'rome', 'bakery', 'Pasticceria Boccione', "Via del Portico d'Ottavia 1, 00186 Rome, Italy", '유대인 게토 페이스트리.', 'Jewish Ghetto pastries.', { image: '/places/rome-bakery-2.jpg' }),
-  place('rome-bakery-3', 'rome', 'bakery', 'Antico Forno', 'Rome', '전통 빵집.', 'Traditional bakery.'),
+  place('rome-bakery-3', 'rome', 'bakery', 'Antico Forno Roscioli', 'Via dei Chiavari 34, 00186 Roma', '캄포 데 피오리 근처의 3대째 이어온 빵집. 무게로 파는 피자 비앙카·로사가 유명합니다.', 'Third-generation bakery near Campo de’ Fiori, known for pizza bianca and rossa sold by weight.'),
   place('rome-bakery-4', 'rome', 'bakery', 'Regoli', 'Via dello Statuto 60, 62, 00185 Rome, Italy', '클래식 파티스리.', 'Classic pasticceria.'),
   place('rome-bakery-5', 'rome', 'bakery', "Forno Campo de' Fiori", "Campo de' Fiori 22, 00186 Roma, Italy", '캄포 데 피오리 광장의 인기 포르노, 이른 아침 간식과 피자 비안카로 유명', "Popular bakery on Campo de' Fiori square, favored for early-morning snacks and pizza bianca"),
-  place('rome-cafe-1', 'rome', 'cafe', 'Sant\'Eustachio Il Caffè', 'Rome', '로마 에스프레소 클래식.', 'Classic Roman espresso.', { image: '/places/rome-cafe-1.jpg' }),
-  place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 'Rome', '판테온 근처 커피.', 'Coffee near the Pantheon.', { image: '/places/rome-cafe-2.jpg' }),
+  place('rome-cafe-1', 'rome', 'cafe', 'Sant\'Eustachio Il Caffè', 'Piazza di Sant’Eustachio 82, 00186 Roma', '로마 에스프레소 클래식.', 'Classic Roman espresso.', { image: '/places/rome-cafe-1.jpg' }),
+  place('rome-cafe-2', 'rome', 'cafe', 'Tazza d\'Oro', 'Via degli Orfani 84, 00186 Roma', '판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.', 'Coffee bar by the Pantheon, famous for coffee granita with cream; closed Sundays.', { image: '/places/rome-cafe-2.jpg' }),
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 'Via Fabio Massimo 80a, 00192 Rome, Italy', '역사적 카페.', 'Historic café.'),
   place('rome-cafe-4', 'rome', 'cafe', 'Faro - Caffè Specialty', 'Via Piave 55, 00187 Rome, Italy', '스페셜티 커피.', 'Specialty coffee.'),
   place('rome-cafe-5', 'rome', 'cafe', 'Barnum Cafè', 'Via del Pellegrino 87, 00186 Roma, Italy', '캄포 데 피오리 인근 로마 도심의 인기 스페셜티 커피숍', "Popular specialty coffee spot in central Rome, just off Campo de' Fiori"),
@@ -187,8 +187,7 @@ export const placesITExtra: Place[] = [
   place('palermo-cafe-2', 'palermo', 'cafe', 'Cafeteria del Corso', 'Via Vittorio Emanuele 370, 90134 Palermo', '메인 거리에 위치한 인기 아침식사 명소.', 'Popular breakfast spot on one of the main streets.'),
 
   // —— como ——
-  place('como-bakery-1', 'como', 'bakery', 'Pasticceria Fuin', 'Como, Italy', '1960년대부터 이어온 코모의 수제 제과점.', 'Como pastry shop dating back to the 1960s.'),
-  place('como-cafe-1', 'como', 'cafe', 'Caffè Lariano', 'Palazzo San Gottardo, Como, Italy', '팔라초 산 고타르도 1층의 우아한 올데이 카페.', 'Elegant all-day café on the ground floor of Palazzo San Gottardo.'),
+  place('como-cafe-1', 'como', 'cafe', 'Caffè Lariano', 'Via Fratelli Cairoli 2, 22100 Como', '2026년 문을 연 팔라초 산 고타르도 호텔 1층의 올데이 비스트로 카페.', 'All-day bistro café on the ground floor of the Palazzo San Gottardo hotel, opened in 2026.'),
   place('como-bakery-2', 'como', 'bakery', 'Pasticceria Poletti', 'Strada provinciale 71 Vecchia Regina 34, 22012 Cernobbio, Italy', '체르노비오의 30년 넘은 카페 겸 베이커리, 브리오슈가 인기.', 'Cernobbio café-bakery of 30+ years, loved for its brioche.'),
 
   // —— bergamo ——
@@ -247,7 +246,7 @@ export const placesITExtra: Place[] = [
   // —— ravenna ——
   place('ravenna-fine_dining-1', 'ravenna', 'fine_dining', 'Ca\' de Ven', 'Via Corrado Ricci 24, 48121 Ravenna', '16세기 향신료 창고를 개조한 피아디나·와인 식당.', 'Piadina and wine in a 16th-century spice warehouse.'),
   place('ravenna-fine_dining-2', 'ravenna', 'fine_dining', 'Osteria dei Battibecchi', "Piazza Unità d'Italia, 48121 Ravenna, Italy", '포폴로 광장 근처의 로마냐 향토 요리 식당.', 'Romagna cooking just off Piazza del Popolo.'),
-  place('ravenna-fine_dining-3', 'ravenna', 'fine_dining', 'L\'Acciuga Osteria', 'Ravenna, Italy', '라벤나의 해산물 오스테리아.', 'Seafood osteria in Ravenna.'),
+  place('ravenna-fine_dining-3', 'ravenna', 'fine_dining', 'L\'Acciuga Osteria', 'Viale Francesco Baracca 74, 48121 Ravenna', '라벤나의 해산물 오스테리아.', 'Seafood osteria in Ravenna.'),
 
   // —— lucca ——
   place('lucca-fine_dining-1', 'lucca', 'fine_dining', 'Buca di Sant\'Antonio', 'Via della Cervia 3, 55100 Lucca', '1782년부터 이어진 루카의 가장 오래된 레스토랑 중 하나.', 'One of Lucca\'s oldest restaurants, going since 1782.'),
@@ -340,7 +339,7 @@ export const placesITExtra: Place[] = [
   // —— alghero ——
   place('alghero-fine_dining-1', 'alghero', 'fine_dining', 'Al Tuguri', 'Via Maiorca 113, 07041 Alghero', '1973년 개업, 24석의 사르데냐·카탈루냐 요리 식당.', '24-seat Sardinian-Catalan restaurant opened in 1973.'),
   place('alghero-fine_dining-2', 'alghero', 'fine_dining', 'Mabrouk', 'Via Santa Barbara 4, 07041 Alghero', '저녁에만 여는 코스형 생선 요리 전문점.', 'Evening-only fixed-menu fish restaurant.'),
-  place('alghero-bakery-1', 'alghero', 'bakery', 'Bar Pasticceria Ciro', 'Alghero, Italy', '크레마 브루치아타 등 사르데냐 과자로 유명한 제과점.', 'Pastry bar known for Sardinian sweets.'),
+  place('alghero-bakery-1', 'alghero', 'bakery', 'Bar Pasticceria Ciro', 'Via Sassari 35b, 07041 Alghero', '알게로 시내의 바 겸 제과점.', 'Bar and pastry shop in central Alghero.'),
 
   // —— mantua ——
   place('mantua-fine_dining-1', 'mantua', 'fine_dining', 'Antica Osteria Ai Ranari', 'Via Trieste 11, 46100 Mantova', '호박 토르텔리와 리소토 알라 필로타로 유명한 소박한 오스테리아.', 'Unpretentious osteria famed for pumpkin tortelli and risotto alla pilota.'),
@@ -361,7 +360,7 @@ export const placesITExtra: Place[] = [
 
   // —— urbino ——
   place('urbino-fine_dining-1', 'urbino', 'fine_dining', 'Osteria Km 0', 'Via Francesco Puccinotti 21, 61029 Urbino, Italy', '대성당 앞, 크레샤 스폴리아타와 지역 식재료 요리.', 'Facing the cathedral; crescia sfogliata and local produce.'),
-  place('urbino-fine_dining-2', 'urbino', 'fine_dining', 'Ragno D\'Oro', 'Urbino, Italy', '성벽 밖 라파엘로 기념비 옆, 크레샤 스폴리아타 명소.', 'Just outside the walls by Raphael\'s monument; famed for crescia.'),
+  place('urbino-fine_dining-2', 'urbino', 'fine_dining', 'Ragno D\'Oro', 'Via Don Minzoni 2/4, 61029 Urbino', '성벽 밖 라파엘로 기념비 옆, 크레샤 스폴리아타 명소.', 'Just outside the walls by Raphael\'s monument; famed for crescia.'),
   place('urbino-fine_dining-3', 'urbino', 'fine_dining', 'Il Girarrosto', 'Piazza San Francesco 3, 61029 Urbino, Italy', '크레샤와 구운 고기를 내는 우르비노의 오래된 식당.', 'Historic spot for crescia and grilled meats.'),
   place('urbino-fine_dining-4', 'urbino', 'fine_dining', 'Il Cortegiano', 'Via Federico Veterani 1, 61029 Urbino, Italy', '대성당이 보이는 테라스의 레스토랑.', 'Restaurant with a terrace overlooking the cathedral.'),
 

@@ -9,12 +9,12 @@ export const placesNOExtra: Place[] = [
   place('bergen-fine_dining-4', 'bergen', 'fine_dining', 'Gaptrast', 'Baneveien 16, Bergen', '미쉐린 2스타 레스토랑, 서부 노르웨이 식재료를 살린 야심찬 요리.', 'Two-Michelin-star restaurant serving ambitious, ingredient-driven Western Norway cuisine.'),
 
   place('bergen-bakery-1', 'bergen', 'bakery', 'Godt Brød', 'Marken 1, 5017 Bergen', '역사적인 마르켄 거리에 위치한 노르웨이 유기농 베이커리 체인.', 'Norwegian organic-bakery chain outlet on the historic Marken street.'),
-  place('bergen-bakery-2', 'bergen', 'bakery', 'Omni Kaiser Patisserie', 'Olav Kyrres gate 31, 5015 Bergen', '올라브 쿠레스 거리의 평점 높은 파티스리.', 'Highly rated patisserie on Olav Kyrres gate.'),
-  place('bergen-bakery-3', 'bergen', 'bakery', 'Donutbakeren', 'C. Sundts gate 26, 5004 Bergen', '평점 높은 도넛 전문 베이커리.', 'Highly rated bakery specializing in donuts.'),
-  place('bergen-bakery-4', 'bergen', 'bakery', 'Good Bread Floyen', 'Vetrlidsallmenningen 19, 5014 Bergen', '평점 높은 인기 베이커리, 배달 서비스도 운영.', 'Popular, highly rated bakery that also offers delivery.'),
+  place('bergen-bakery-2', 'bergen', 'bakery', 'Omni Kaiser Patisserie', 'Olav Kyrres gate 31, 5015 Bergen', '올라브 쿠레스 거리의 파티스리.', 'Patisserie on Olav Kyrres gate.'),
+  place('bergen-bakery-3', 'bergen', 'bakery', 'Donutbakeren', 'C. Sundts gate 26, 5004 Bergen', '도넛 전문 베이커리.', 'Bakery specializing in donuts.'),
+  place('bergen-bakery-4', 'bergen', 'bakery', 'Good Bread Floyen', 'Vetrlidsallmenningen 19, 5014 Bergen', '인기 베이커리, 배달 서비스도 운영.', 'Popular, bakery that also offers delivery.'),
   place('bergen-bakery-5', 'bergen', 'bakery', 'Baker Brun', 'Klostergaten 2, 5005 Bergen', '베르겐의 역사적인 베이커리 체인, 스킬링스볼레(계피빵)로 유명.', 'Historic Bergen bakery chain famous for its skillingsboller cinnamon buns.', { image: '/places/bergen-bakery-5.jpg' }),
 
-  place('bergen-cafe-1', 'bergen', 'cafe', 'Det Lille Kaffekompaniet', 'Nedre Fjellsmauet 2, 5018 Bergen', '당근 케이크와 카푸치노로 유명한 베르겐의 작은 스페셜티 커피숍.', 'Tiny, highly rated specialty coffee shop famed for its carrot cake and cappuccinos.', { image: '/places/bergen-cafe-1.jpg' }),
+  place('bergen-cafe-1', 'bergen', 'cafe', 'Det Lille Kaffekompaniet', 'Nedre Fjellsmauet 2, 5018 Bergen', '당근 케이크와 카푸치노로 유명한 베르겐의 작은 스페셜티 커피숍.', 'Tiny, specialty coffee shop famed for its carrot cake and cappuccinos.', { image: '/places/bergen-cafe-1.jpg' }),
   place('bergen-cafe-2', 'bergen', 'cafe', 'Café Opera', 'Engen 18, 5011 Bergen', '국립극장 옆 35년 전통의 카페 겸 레스토랑 겸 갤러리.', 'A 35-year-old café-restaurant-art-gallery institution next to the National Theatre.', { image: '/places/bergen-cafe-2.jpg' }),
   place('bergen-cafe-3', 'bergen', 'cafe', 'Blom', 'John Lunds plass 1, Fosswinckelsgate, 5007 Bergen', '대학가에 위치한 아늑한 커피숍, 좋은 원두와 페이스트리로 인기.', 'Cozy university-district coffee shop known for quality coffee and pastries.'),
 
@@ -40,8 +40,8 @@ export const placesNOExtra: Place[] = [
 
   place('stavanger-bakery-1', 'stavanger', 'bakery', 'Kanelsnurren Verksgata', 'Verksgata 24, 4013 Stavanger', '큼직한 시나몬롤로 현지에서 사랑받는 베이커리 카페.', 'Bakery-café beloved locally for its oversized cinnamon rolls.'),
   place('stavanger-bakery-2', 'stavanger', 'bakery', 'Kanelsnurren avd. Stavanger sentrum', 'Søregata 4, 4006 Stavanger', '스타방에르 시내 중심가의 카넬스누렌 지점.', 'City-centre branch of the Kanelsnurren cinnamon-roll bakery chain.'),
-  place('stavanger-bakery-3', 'stavanger', 'bakery', 'Rosenkildehaven Bageri', 'Bakergata 9, 4013 Stavanger', '평점 높은 베이커리.', 'Highly rated bakery.'),
-  place('stavanger-bakery-4', 'stavanger', 'bakery', 'Molinå Bakery', 'Verksgata 17A, 4013 Stavanger', '평점 높은 베이커리.', 'Highly rated bakery.'),
+  place('stavanger-bakery-3', 'stavanger', 'bakery', 'Rosenkildehaven Bageri', 'Bakergata 9, 4013 Stavanger', '베이커리.', 'Bakery.'),
+  place('stavanger-bakery-4', 'stavanger', 'bakery', 'Molinå Bakery', 'Verksgata 17A, 4013 Stavanger', '베이커리.', 'Bakery.'),
 
   place('stavanger-cafe-1', 'stavanger', 'cafe', 'Kokko Kaffebar', 'Østervåg 43, 4006 Stavanger', '세련된 노르딕 디자인의 3층 건물에 위치한 스페셜티 커피 로스터리.', 'Specialty coffee roastery spread across three floors of striking Nordic design.'),
   place('stavanger-cafe-2', 'stavanger', 'cafe', 'Bøker og Børst', 'Øvre Holmegate 32, 4006 Stavanger', '수제 커피와 중고 서점, 보드게임을 함께 즐길 수 있는 독특한 카페.', 'Quirky café combining craft coffee with secondhand books and board games.'),
@@ -55,9 +55,9 @@ export const placesNOExtra: Place[] = [
 
   place('trondheim-bakery-1', 'trondheim', 'bakery', 'Hevd Bakeri & Pizzeria', 'Kongens gate 18, 7011 Trondheim', '낮에는 사워도우·페이스트리 베이커리, 밤에는 화덕 피자집.', 'Bakery by day serving sourdough and pastries, wood-fired pizzeria by night.'),
   place('trondheim-bakery-2', 'trondheim', 'bakery', 'Rosenborg Bakeri', 'Rosenborg gate 8-10, 7014 Trondheim', '로센보르 거리의 인기 베이커리.', 'Popular bakery on Rosenborg gate.', { image: '/places/trondheim-bakery-2.jpg' }),
-  place('trondheim-bakery-3', 'trondheim', 'bakery', 'French pleasures AS', 'Haakon VIIs gt. 27, 7041 Trondheim', '평점 높은 프렌치풍 베이커리.', 'Highly rated French-style bakery.'),
-  place('trondheim-bakery-4', 'trondheim', 'bakery', 'Backstube Trondheim Jomfrugata', 'Jomfrugata 5, 7014 Trondheim', '욤프루가타 거리의 평점 높은 베이커리.', 'Highly rated bakery on Jomfrugata street.'),
-  place('trondheim-bakery-5', 'trondheim', 'bakery', 'ISAK Bakeri', 'Kongens gate 2, 7011 Trondheim', '평점 높은 베이커리.', 'Highly rated bakery.'),
+  place('trondheim-bakery-3', 'trondheim', 'bakery', 'French pleasures AS', 'Haakon VIIs gt. 27, 7041 Trondheim', '프렌치풍 베이커리.', 'French-style bakery.'),
+  place('trondheim-bakery-4', 'trondheim', 'bakery', 'Backstube Trondheim Jomfrugata', 'Jomfrugata 5, 7014 Trondheim', '욤프루가타 거리의 베이커리.', 'Bakery on Jomfrugata street.'),
+  place('trondheim-bakery-5', 'trondheim', 'bakery', 'ISAK Bakeri', 'Kongens gate 2, 7011 Trondheim', '베이커리.', 'Bakery.'),
 
   place('trondheim-cafe-1', 'trondheim', 'cafe', 'Dromedar Kaffebar (Øya)', 'Håkon Jarls Gate 2, 7030 Trondheim', '트론헤임의 인기 로컬 커피 체인 드로메다르의 지점.', 'Neighborhood outpost of Trondheim\'s popular home-grown coffee bar chain.'),
   place('trondheim-cafe-2', 'trondheim', 'cafe', 'Dromedar Kaffebar (Bakklandet)', 'Nedre Bakklandet 3, 7014 Trondheim', '역사적인 바클란데트 지구에 위치한 드로메다르 커피바.', 'Coffee bar in the historic Bakklandet district, part of the local Dromedar chain.'),

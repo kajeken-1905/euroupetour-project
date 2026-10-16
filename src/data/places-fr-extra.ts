@@ -7,7 +7,7 @@ export const placesFRExtra: Place[] = [
   place('paris-fine_dining-2', 'paris', 'fine_dining', 'Le Comptoir du Relais', "Carrefour de l'Odéon, 75006 Paris, France", '비스트로 클래식.', 'Classic bistro.', { image: '/places/paris-fine_dining-2.jpg' }),
   place('paris-fine_dining-3', 'paris', 'fine_dining', 'Septime', '80 Rue de Charonne, 75011 Paris, France', '모던 프렌치 코스.', 'Modern French tasting.'),
   place('paris-fine_dining-4', 'paris', 'fine_dining', 'Bouillon Chartier', '7 Rue du Faubourg Montmartre, 75009 Paris, France', '전통 부용 식당.', 'Historic bouillon canteen.', { image: '/places/paris-fine_dining-4.jpg' }),
-  place('paris-fine_dining-5', 'paris', 'fine_dining', 'L\'Ami Jean', 'Paris', '바스크 감성 비스트로.', 'Basque-spirited bistro.', { image: '/places/paris-fine_dining-5.jpg' }),
+  place('paris-fine_dining-5', 'paris', 'fine_dining', 'L\'Ami Jean', '27 Rue Malar, 75007 Paris', '바스크 감성 비스트로.', 'Basque-spirited bistro.', { image: '/places/paris-fine_dining-5.jpg' }),
   place('paris-bakery-1', 'paris', 'bakery', 'Du Pain et des Idées', 'Rue de Marseille, 75010 Paris, France', '유명 사워도우·페이스트리.', 'Famous sourdough and pastries.'),
   place('paris-bakery-2', 'paris', 'bakery', 'Poilâne', '38 Rue Debelleyme, 75003 Paris, France', '상징적 빵집.', 'Iconic bakery.', { image: '/places/paris-bakery-2.jpg' }),
   place('paris-bakery-3', 'paris', 'bakery', 'Stohrer', '51 Rue Montorgueil, 75002 Paris, France', '역사적 파티스리.', 'Historic pâtisserie.', { image: '/places/paris-bakery-3.jpg' }),
@@ -118,7 +118,7 @@ export const placesFRExtra: Place[] = [
   place('toulouse-fine_dining-3', 'toulouse', 'fine_dining', 'Émile', '13 Place Saint-Georges, 31000 Toulouse', '1947년부터 이어온 남서프랑스 요리 전문점, 오리콩피 카술레로 유명.', "South-West French restaurant since 1947, known for its duck confit cassoulet."),
   place('toulouse-bakery-1', 'toulouse', 'bakery', 'La Boulange Saint Georges', '21 Rue Charles de Rémusat, 31000 Toulouse, France', '툴루즈 최고의 팽 오 레쟁과 크루아상으로 유명한 베이커리', 'Toulouse bakery known for some of the best pain au raisin and croissants in the city'),
   place('toulouse-bakery-2', 'toulouse', 'bakery', 'Les Frères Chapelier - Boulangerie Bio Artisanale', '23 Rue Léon Gambetta, 31000 Toulouse, France', '카피톨 인근의 유기농 장인 베이커리.', 'Organic artisan bakery near Place du Capitole.'),
-  place('toulouse-bakery-3', 'toulouse', 'bakery', 'Boulangerie Maurice', '8 Grande Rue Nazareth, 31000 Toulouse, France', '툴루즈에서 평점이 매우 높은 베이커리.', 'Highly rated bakery in Toulouse.'),
+  place('toulouse-bakery-3', 'toulouse', 'bakery', 'Boulangerie Maurice', '8 Grande Rue Nazareth, 31000 Toulouse, France', '툴루즈에서 베이커리.', 'Bakery in Toulouse.'),
   place('toulouse-bakery-4', 'toulouse', 'bakery', 'Boulangerie Pâtisserie Saint Aubin', '38 Rue Pierre-Paul Riquet, 31000 Toulouse, France', '생토뱅 지구의 인기 제과점.', 'Popular bakery in the Saint-Aubin district.'),
   place('toulouse-bakery-5', 'toulouse', 'bakery', 'Boulangerie Saint Sernin', '64 Rue du Taur, 31000 Toulouse, France', '생세르냉 대성당 인근의 인기 베이커리.', 'Popular bakery near the Basilica of Saint-Sernin.'),
   place('toulouse-cafe-1', 'toulouse', 'cafe', 'L\'Autre Salon de Thé', '7 Pl. de la Patte d\'Oie, 31300 Toulouse, France', '매력적인 분위기의 툴루즈 티살롱', 'Charming tea salon in Toulouse'),
@@ -133,7 +133,7 @@ export const placesFRExtra: Place[] = [
   place('montpellier-bakery-1', 'montpellier', 'bakery', 'Au Rythme du Pain', '2 Rue de la Carbonnerie, 34000 Montpellier, France', '100% 유기농 재료로 빵을 만드는 몽펠리에의 베이커리', 'Montpellier bakery celebrating bread-making with 100% organic ingredients'),
   place('montpellier-bakery-2', 'montpellier', 'bakery', 'Des Rêves et du Pain', '10 Rue Eugène Lisbonne, 34000 Montpellier, France', '몽펠리에의 인기 베이커리.', 'Popular bakery in Montpellier.'),
   place('montpellier-bakery-3', 'montpellier', 'bakery', 'Maison Bonnaire', '45 Rue Saint-Guilhem, 34000 Montpellier, France', '생기욤 거리의 인기 제과점.', 'Popular pastry shop on Rue Saint-Guilhem.'),
-  place('montpellier-bakery-4', 'montpellier', 'bakery', 'Daveloza St Denis', '6 Rue du Grand Saint-Jean, 34000 Montpellier, France', '몽펠리에에서 평점이 매우 높은 제과점.', 'Highly rated pastry shop in Montpellier.'),
+  place('montpellier-bakery-4', 'montpellier', 'bakery', 'Daveloza St Denis', '6 Rue du Grand Saint-Jean, 34000 Montpellier, France', '몽펠리에에서 제과점.', 'Pastry shop in Montpellier.'),
   place('montpellier-bakery-5', 'montpellier', 'bakery', 'Pain Brut', '9 Boulevard Victor Hugo, 34000 Montpellier, France', '빅토르 위고 대로의 인기 베이커리.', 'Popular bakery on Boulevard Victor Hugo.'),
   place('montpellier-cafe-1', 'montpellier', 'cafe', 'PANA Boulangerie', 'Montpellier, 34000, France', '포카차와 사워도우로 정평이 난 몽펠리에의 베이커리 카페', 'Highly recommended Montpellier bakery café known for focaccia and sourdough'),
   place('montpellier-cafe-2', 'montpellier', 'cafe', 'Café BUN', '5 Rue des Étuves, 34000 Montpellier', '몽펠리에의 서드웨이브 스페셜티 로스터리.', "Montpellier's third-wave specialty coffee roastery."),
@@ -207,7 +207,7 @@ export const placesFRExtra: Place[] = [
   // —— arcachon ——
   place('arcachon-fine_dining-1', 'arcachon', 'fine_dining', 'La Cabane du Mimbeau', 'Avenue de la Conche, 33970 Lège-Cap-Ferret, France', '6대째 굴 양식가가 운영하는 굴 오두막.', 'Oyster shack run by six generations of oyster farmers.'),
   place('arcachon-fine_dining-2', 'arcachon', 'fine_dining', 'Chez Boulan', '2 Rue des Palmiers, 33970 Lège-Cap-Ferret, France', '수상 경력 굴을 맛보는 캅 페레의 굴 식당.', 'Cap Ferret spot for award-winning oysters.'),
-  place('arcachon-fine_dining-3', 'arcachon', 'fine_dining', 'La Cabane d\'Hortense', 'Cap Ferret, France', '필라 사구가 보이는 굴·홍합 오두막.', 'Oysters and mussels facing the Dune du Pilat.'),
+  place('arcachon-fine_dining-3', 'arcachon', 'fine_dining', 'La Cabane d\'Hortense', 'Rue des Tamaris (Les Youkas), 33970 Lège-Cap-Ferret', '캅페레 레 유카스 굴 양식촌의 굴·해산물 오두막 식당.', 'Oyster and seafood shack in the Les Youkas oyster quarter of Cap Ferret.'),
 
   // —— biarritz ——
   place('biarritz-bakery-1', 'biarritz', 'bakery', 'Miremont', '1 Bis Place Georges Clemenceau, 64200 Biarritz', '1872년 개업, 바다가 보이는 비아리츠 최고(最古)의 찻집.', 'Biarritz\'s oldest tearoom (1872) with sea views.', { image: '/places/biarritz-bakery-1.jpg' }),
@@ -221,7 +221,7 @@ export const placesFRExtra: Place[] = [
   // —— bonifacio ——
   place('bonifacio-fine_dining-1', 'bonifacio', 'fine_dining', 'Da Passano', 'Quai Jérome Comparetti, 20169 Bonifacio / Bunifaziu, France', '절벽 위 구시가의 코르시카 요리 레스토랑.', 'Corsican classics in the clifftop old town.'),
   place('bonifacio-fine_dining-2', 'bonifacio', 'fine_dining', 'Kissing Pigs', 'Quai Banda del Ferro, 20169 Bonifacio / Bunifaziu, France', '자체 농장 돼지로 만든 샤퀴테리 레스토랑.', 'Charcuterie from the owner\'s own farm, by the marina.', { image: '/places/bonifacio-fine_dining-2.jpg' }),
-  place('bonifacio-fine_dining-3', 'bonifacio', 'fine_dining', 'L\'A Cheda', 'Bonifacio, France', '정원 텃밭 재료를 쓰는 호텔 레스토랑.', 'Hotel restaurant cooking from its own garden.'),
+  place('bonifacio-fine_dining-3', 'bonifacio', 'fine_dining', 'L\'A Cheda', 'Cavallo Morto, 20169 Bonifacio', '정원 텃밭 재료를 쓰는 호텔 레스토랑.', 'Hotel restaurant cooking from its own garden.'),
 
   // —— calvi ——
   place('calvi-fine_dining-1', 'calvi', 'fine_dining', 'Umami', 'Quai Adolphe Landry, 20260 Calvi, France', '항구 앞 코르시카 요리 레스토랑.', 'Corsican cooking on the harbour quay.'),

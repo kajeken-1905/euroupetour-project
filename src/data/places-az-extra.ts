@@ -20,15 +20,12 @@ export const placesAZExtra: Place[] = [
 
   // —— sheki ——
   place('sheki-fine_dining-1', 'sheki', 'fine_dining', 'M.E. Restaurant', 'Rasulzade Street 187, Sheki 5500', '셰키의 대표 레스토랑.', 'Leading restaurant in Sheki.'),
-  place('sheki-fine_dining-2', 'sheki', 'fine_dining', 'Serin Restoranı', 'İzzət Həmidov küçəsi, Sheki', '셰키에서 가장 평이 좋은 레스토랑', "Sheki's top-rated restaurant"),
+  place('sheki-fine_dining-2', 'sheki', 'fine_dining', 'Serin Restoranı', 'İzzət Həmidov küçəsi, Şəki', '셰키에서 가장 평이 좋은 레스토랑', "Sheki's restaurant"),
 
-  place('sheki-bakery-1', 'sheki', 'bakery', 'Karbala\'I Sadiq\'s Bakery', 'Sheki, Azerbaijan', '셰키 칸 궁전으로 향하는 길목의 전통 빵집', 'Traditional bread bakery on the main street toward the Khan\'s Palace'),
 
-  place('sheki-cafe-2', 'sheki', 'cafe', 'Nuran Cafe', 'Mikayil Mushfig Street, Sheki', '아제르바이잔 가정식을 선보이는 정원이 있는 카페', 'Café with a garden serving home-style Azerbaijani dishes'),
 
   // —— gabala ——
   place('gabala-fine_dining-1', 'gabala', 'fine_dining', 'Caspian Baliq Evi', '2120 Demiraparan Chai Gabala, Qəbələ', '가발란드 인근 해산물 레스토랑.', 'Seafood restaurant near Gabaland.'),
 
-  place('gabala-bakery-1', 'gabala', 'bakery', 'Pakhlava Boutique', 'Near Nohur Lake, Gabala, Azerbaijan', '전통 아제르바이잔 파클라바를 전문으로 하는 가발라의 디저트 숍', 'Dessert shop in Gabala specializing in traditional Azerbaijani pakhlava'),
   place('gabala-cafe-1', 'gabala', 'cafe', 'Gabala Cafe', 'Qafqaz Tufandag Cable Car Upper Station (1600m), Tufandag Mountain Resort, Gabala, Azerbaijan', '해발 1600m 케이블카 정상역에서 즐기는 가발라의 전망 카페', 'Mountain-top café at the 1,600m cable car upper station, with coffee and desserts'),
 ]
