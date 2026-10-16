@@ -38,7 +38,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   },
   malmo: [2, 4, 5, 1, 3],
   uppsala: [5, 3, 1, 4, 2],
-  kiruna: { days: [['', 1, 4, 3]], trips: [['아이스호텔|Icehotel', 2]] },
+  kiruna: { days: [['', 4, 3]], trips: [['아이스호텔|Icehotel', 2]] },
   copenhagen: {
     days: [
       ['시내|City centre', 5, 1, 2, 7, 6, 4],

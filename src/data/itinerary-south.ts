@@ -58,7 +58,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   },
   ankara: [1, 3, 2, 5, 4],
   izmir: { days: [['', 3, 2, 4, 1]], trips: [['에페소스|Ephesus', 5]] },
-  antalya: { days: [['', 3, 1, 2, 4]], trips: [['아스펜도스|Aspendos', 5]] },
+  antalya: { days: [['', 1, 2, 4]], trips: [['아스펜도스|Aspendos', 5]] },
   goreme: {
     days: [
       ['열기구와 북부|Balloon & the north', 1, 2, 6, 8],
