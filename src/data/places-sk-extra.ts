@@ -33,8 +33,7 @@ export const placesSKExtra: Place[] = [
   place('kosice-korean-1', 'kosice', 'korean', 'K-Wave Korean Bistro', 'Žižkova 1873/4, 040 01 Košice, Slovakia', '지슈코바 거리의 코시체 최초 한식 비스트로', "Košice's first Korean bistro, on Žižkova street"),
 
   // —— poprad ——
-  place('poprad-fine_dining-1', 'poprad', 'fine_dining', 'PREZO Restaurant', 'Levočská 211/2, 058 01 Poprad, Slovakia', '전통과 혁신이 조화를 이루는 포프라드 최고의 슬로바키아 요리 레스토랑', 'Poprad\'s leading Slovak restaurant where tradition meets innovation in every dish'),
-  place('poprad-fine_dining-2', 'poprad', 'fine_dining', 'Dobré časy', 'Levočská 211/2, 058 01 Poprad, Slovakia', '레보차 거리의 인기 레스토랑', 'Popular restaurant on Levočská street in Poprad'),
+  place('poprad-fine_dining-2', 'poprad', 'fine_dining', 'Dobré časy', 'Levočská 211/2, 058 01 Poprad, Slovakia', '슬로바키아 전통 요리를 내는 맥줏집 식당. 야외 비어 가든이 넓습니다.', 'Beer house serving Slovak classics, with a big outdoor beer garden.'),
   place('poprad-fine_dining-3', 'poprad', 'fine_dining', 'U Septima', 'Velické námestie, 058 01 Poprad, Slovakia', '벨리츠케 광장의 인기 레스토랑', 'Popular restaurant on Velické námestie square in Poprad'),
   place('poprad-bakery-1', 'poprad', 'bakery', 'Betka\'s Bakery', 'Námestie sv. Egídia 124, Forum Poprad, 058 01 Poprad, Slovakia', '포프라드 포룸 쇼핑몰 내에 위치한 인기 베이커리, 케이크와 페이스트리로 유명', 'Popular Poprad bakery inside the Forum shopping center, known for its cakes and pastries'),
   place('poprad-bakery-2', 'poprad', 'bakery', 'Remeselná Pekáreň LA Buchta', 'Velické námestie 1172/3, 058 01 Poprad, Slovakia', '벨리츠케 광장의 수제 베이커리', 'Artisan bakery on Velické námestie square in Poprad'),
@@ -44,11 +43,9 @@ export const placesSKExtra: Place[] = [
   place('poprad-cafe-3', 'poprad', 'cafe', 'Espresso Bar PP - Speciality Coffee', 'Sobotské námestie 1734/14, 058 01 Poprad, Slovakia', '소보트스케 광장의 스페셜티 에스프레소 바', 'Specialty espresso bar on Sobotské námestie square in Poprad'),
 
   // —— banska-bystrica ——
-  place('banska-bystrica-fine_dining-1', 'banska-bystrica', 'fine_dining', 'Mamma Mia Steak', 'Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia', '정교한 요리와 인상적인 와인 셀렉션으로 유명한 반스카비스트리차의 이탈리안 파인다이닝', 'Italian fine-dining restaurant known for its carefully crafted menu and impressive wine selection'),
   place('banska-bystrica-fine_dining-2', 'banska-bystrica', 'fine_dining', 'Bernardov Dvor', 'Dolná 169/36, 974 01 Banská Bystrica, Slovakia', '돌나 거리의 인기 레스토랑', 'Popular restaurant on Dolná street in Banská Bystrica'),
   place('banska-bystrica-fine_dining-3', 'banska-bystrica', 'fine_dining', 'STREET FOODIE Banská Bystrica', 'Dolná 52, 974 01 Banská Bystrica, Slovakia', '돌나 거리의 인기 레스토랑', 'Popular restaurant on Dolná street in Banská Bystrica'),
-  place('banska-bystrica-bakery-1', 'banska-bystrica', 'bakery', 'La Donuteria', 'Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia', '수제 도넛 전문점으로 인기가 높은 반스카 비스트리차의 베이커리', 'Popular Banská Bystrica bakery specializing in handcrafted donuts'),
-  place('banska-bystrica-bakery-2', 'banska-bystrica', 'bakery', 'Chlieb a láska - Stará tržnica BB', 'Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia', '스타라 트르주니차(옛 시장) 건물 내 파이 전문점', "Pie specialty shop inside the Stará tržnica (Old Market Hall) building in Banská Bystrica"),
+  place('banska-bystrica-bakery-2', 'banska-bystrica', 'bakery', 'Chlieb a láska - Stará tržnica BB', 'Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia', '옛 시장 건물의 베이커리·브런치 카페. 사워도우와 에그 베네딕트가 인기입니다.', 'Bakery and breakfast café in the old market hall, known for sourdough and eggs Benedict.'),
   place('banska-bystrica-bakery-3', 'banska-bystrica', 'bakery', 'Cukráreň Michaela Dessert Art', 'Kyjevské námestie 6243/5, 974 01 Banská Bystrica, Slovakia', '키예프스케 광장의 케이크 전문점', 'Cake specialty shop on Kyjevské námestie square in Banská Bystrica'),
   place('banska-bystrica-cafe-1', 'banska-bystrica', 'cafe', 'Beniczky Cafe & Wine Bar', 'Námestie SNP 16, 974 01 Banská Bystrica, Slovakia', '훌륭한 커피와 케이크, 다양한 음료로 호평받는 반스카 비스트리차의 카페 겸 와인바', 'Banská Bystrica cafe and wine bar praised for excellent coffee, cakes and drink selection'),
   place('banska-bystrica-cafe-2', 'banska-bystrica', 'cafe', 'VÝKLAD | káva & viac', 'Národná ulica 6, 974 01 Banská Bystrica, Slovakia', '나로드나 거리의 인기 커피숍', 'Popular coffee shop on Národná ulica in Banská Bystrica'),

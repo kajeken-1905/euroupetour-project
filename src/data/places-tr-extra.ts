@@ -32,10 +32,9 @@ export const placesTRExtra: Place[] = [
   place('izmir-fine_dining-3', 'izmir', 'fine_dining', 'North Pier', 'Konak Pier, Atatürk Cd. No:19, Alsancak, 35250 Konak/İzmir', '코나크 피어에 자리한 유러피언·터키 퓨전 파인다이닝.', 'European-Turkish fusion fine dining at Konak Pier.'),
   place('izmir-fine_dining-4', 'izmir', 'fine_dining', 'İzmir Sakız Alsancak', 'Pasaport, Atatürk Cd., 35210 Konak/İzmir', '파사포르트 부두변의 메이하네 스타일 해산물 레스토랑.', 'Meyhane-style seafood restaurant by the Pasaport pier.'),
   place('izmir-bakery-1', 'izmir', 'bakery', 'Çelebi Unlu Mamuller', 'Kültür, 1388. Sk. No:5, 35220 Konak/İzmir, Turkey', '이즈미르 명물 디저트 \'봄바\'로 유명한 제과점, 초콜릿이 흘러나오는 특별한 도우', 'Izmir bakery famous for its signature \'Bomba\' dessert, a dough shell with a liquid chocolate center'),
-  place('izmir-bakery-2', 'izmir', 'bakery', 'Alsancak Dostlar Fırını', 'Alsancak, 35220 Konak/İzmir', '이즈미르의 상징 페이스트리 \'보요즈\' 전문 빵집.', "Bakery specialising in boyoz, Izmir's signature pastry."),
-  place('izmir-bakery-3', 'izmir', 'bakery', 'Arpège Patisserie', 'Alsancak, 35220 Konak/İzmir', '페이스트리 셰프 메틴 사루한르가 이끄는 이즈미르 중심가의 파티스리.', 'Central Izmir patisserie led by pastry chef Metin Saruhanlı.'),
+  place('izmir-bakery-2', 'izmir', 'bakery', 'Alsancak Dostlar Fırını', 'Kıbrıs Şehitleri Caddesi No:120, Alsancak, 35220 Konak/İzmir', '1983년부터 같은 자리에서 보요즈를 굽는 알산자크의 빵집.', 'Alsancak bakery making boyoz at the same address since 1983.'),
   place('izmir-cafe-1', 'izmir', 'cafe', 'AWAKE Coffee & Espresso', 'Barbaros, Mithatpaşa Cd. 85-87/A, 35260 Konak/İzmir, Turkey', '이즈미르 3세대 커피 문화를 이끈 선구자적인 커피숍', 'Pioneering Izmir coffee shop that helped launch the city\'s third-wave coffee scene'),
-  place('izmir-cafe-2', 'izmir', 'cafe', 'Baristocrat', 'Alsancak, 35220 Konak/İzmir', '원두를 직접 수입·로스팅하는 이즈미르의 대표 서드웨이브 로스터리.', 'Izmir third-wave roaster that imports and roasts its own beans.'),
+  place('izmir-cafe-2', 'izmir', 'cafe', 'Baristocrat', 'Kültür Mahallesi, Alsancak, Konak/İzmir', '원두를 직접 수입·로스팅하는 이즈미르의 대표 서드웨이브 로스터리.', 'Izmir third-wave roaster that imports and roasts its own beans.'),
 
   // —— antalya ——
   place('antalya-fine_dining-1', 'antalya', 'fine_dining', 'Seraser Fine Dining Restaurant', 'Karanlık Sokak, Kaleiçi, 07100 Antalya, Turkey', '칼레이치 구시가지 보행자 골목에 자리한 안탈리아 최고의 파인다이닝, 감귤나무 그늘의 야외 테라스가 특징', 'Antalya\'s premier fine-dining restaurant on a quiet pedestrian street in the old town of Kaleiçi, with an open-air terrace shaded by citrus trees'),
@@ -45,7 +44,6 @@ export const placesTRExtra: Place[] = [
   place('antalya-bakery-1', 'antalya', 'bakery', 'Pikan Fırın', 'Fener, Bülent Ecevit Blv. No:40/B, 07160 Muratpaşa/Antalya, Turkey', '신선하고 건강한 빵과 아침 식사로 인기 있는 안탈리아의 베이커리', 'Popular Antalya bakery known for fresh, healthy bread and great breakfast options'),
   place('antalya-bakery-2', 'antalya', 'bakery', 'Tarihi Balık Pazarı Unlu Mamülleri', 'Kaleiçi, 07100 Muratpaşa/Antalya', '칼레이치 옛 어시장 자리의 전통 빵·페이스트리·푸딩 가게.', "Traditional bread, pastry and pudding shop on the site of Kaleiçi's old fish market."),
   place('antalya-cafe-1', 'antalya', 'cafe', 'The Sudd Coffee Kaleiçi', 'Kılıçarslan Mah. Hamam Sk. No:27, Muratpaşa, 07100 Antalya, Turkey', '안탈리아 구시가 칼레이치에 위치한 세련된 스페셜티 커피숍', 'Stylish specialty coffee shop in Antalya\'s historic Kaleiçi old town'),
-  place('antalya-cafe-2', 'antalya', 'cafe', 'Arabica Coffee House Kaleiçi', 'Kaleiçi, 07100 Muratpaşa/Antalya', '튀르키예 부티크 커피의 선구자 격인 구시가 커피하우스.', 'Old-town coffee house, a pioneer of Turkish boutique coffee.'),
 
   // —— goreme ——
   place('goreme-fine_dining-1', 'goreme', 'fine_dining', 'Dibek Restaurant', 'Konak Sokak, 50180 Göreme, Nevşehir, Turkey', '475년 된 전통 가옥에서 튀르키예 전통 좌식 스타일로 식사를 즐길 수 있는 괴레메의 명소', 'Restaurant set inside a 475-year-old building offering traditional Turkish floor seating in Göreme'),

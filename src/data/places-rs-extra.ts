@@ -35,8 +35,8 @@ export const placesRSExtra: Place[] = [
   place('nis-bakery-1', 'nis', 'bakery', 'Bakery Anton Plus', 'Trg Pavla Stojkovića 17, 18000 Niš, Serbia', '애플롤과 초콜릿 크루아상으로 추천받는 니시의 인기 베이커리', 'Popular Niš bakery recommended for its apple roll and chocolate croissant'),
   place('nis-bakery-2', 'nis', 'bakery', 'Pekara Čair', 'Dušana Popovića 16, 18109 Niš, Serbia', '아펠로바츠 지역의 인기 베이커리', 'Popular bakery in the Apelovac district of Niš'),
   place('nis-cafe-1', 'nis', 'cafe', 'ART caffe 018', 'Dejana Dinića 2A, 18000 Niš, Serbia', '세련된 인테리어와 넓은 주차 공간을 갖춘 니시의 인기 카페', 'Popular Niš cafe with a stylish interior and ample parking'),
-  place('nis-cafe-2', 'nis', 'cafe', 'Biro Kafeterija', 'city centre, 18000 Niš, Serbia', '세르비아 스페셜티 커피 가이드에 오른 니시 중심가의 브루하우스.', "Brewhouse in central Niš listed in Serbia's Specialty Coffee Guide."),
-  place('nis-cafe-3', 'nis', 'cafe', 'Stock Coffee', 'city centre, 18000 Niš, Serbia', '천장에 커피 자루가 걸린 니시의 모던 스페셜티 커피숍.', 'Modern Niš specialty coffee shop with burlap coffee sacks hanging from the ceiling.'),
+  place('nis-cafe-2', 'nis', 'cafe', 'Kafeterija Biro', 'Koste Stamenkovića 1, 18000 Niš', '세르비아 스페셜티 커피 가이드에 오른 니시 중심가의 브루하우스.', "Brewhouse in central Niš listed in Serbia's Specialty Coffee Guide."),
+  place('nis-cafe-3', 'nis', 'cafe', 'Stock Coffee', 'Trg Kralja Aleksandra Ujedinitelja 1a, 18000 Niš', '천장에 커피 자루가 걸린 니시의 모던 스페셜티 커피숍.', 'Modern Niš specialty coffee shop with burlap coffee sacks hanging from the ceiling.'),
 
   // —— subotica ——
   place('subotica-fine_dining-1', 'subotica', 'fine_dining', 'Mali Trg', 'Branislava Nušića 4a, 24000 Subotica, Serbia', '세련된 인테리어와 정교한 플레이팅으로 알려진 수보티차의 대표 파인다이닝 레스토랑', 'Subotica\'s leading fine-dining restaurant known for elegant interiors and refined plating'),

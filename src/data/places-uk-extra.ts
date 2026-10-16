@@ -99,7 +99,6 @@ export const placesUKExtra: Place[] = [
   place('york-fine_dining-3', 'york', 'fine_dining', 'Skosh', '98 Micklegate, YO1 6JX York, United Kingdom', '스몰플레이트 창의 요리.', 'Creative small plates.', { image: '/places/york-fine_dining-3.jpg' }),
   place('york-fine_dining-4', 'york', 'fine_dining', 'The Path', "The Queen's Path, YO1 7JD York, United Kingdom", '모던 테이스팅.', 'Modern tasting menus.'),
   place('york-fine_dining-5', 'york', 'fine_dining', 'Melton’s', '7 Scarcroft Road, York YO23 1ND, United Kingdom', '로컬 클래식.', 'Local classic.'),
-  place('york-bakery-1', 'york', 'bakery', 'Spring Espresso bakery', '21 Lendal, YO1 8AQ York, United Kingdom', '베이크·커피.', 'Bakes and coffee.'),
   place('york-bakery-3', 'york', 'bakery', 'Haxby Bakehouse', 'Ryedale Court, YO32 3SA Haxby, United Kingdom', '사워도우 유명.', 'Known for sourdough.'),
   place('york-bakery-5', 'york', 'bakery', 'Bettys Café Tea Rooms bakery', "6-8 St Helen's Square, YO1 8QP York, United Kingdom", '요크셔 티룸 베이크.', 'Yorkshire tearoom bakes.'),
   place('york-cafe-1', 'york', 'cafe', 'Spring Espresso', '21 Lendal, YO1 8AQ York, United Kingdom', '스페셜티 커피.', 'Specialty coffee.', { image: '/places/york-cafe-1.jpg' }),

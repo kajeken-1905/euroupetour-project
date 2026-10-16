@@ -107,7 +107,7 @@ export const placesPLExtra: Place[] = [
   place('zakopane-bakery-4', 'zakopane', 'bakery', 'Cukiernia SAMANTA (Kasprusie)', 'Kasprusie 34, 34-500 Zakopane', '카스프루시에 거리의 사만타 제과점 지점.', 'Kasprusie-street branch of the Samanta confectionery chain.'),
 
   place('zakopane-cafe-1', 'zakopane', 'cafe', 'LA MANO Speciality Coffee', 'Władysława Orkana 1F, 34-500 Zakopane, Poland', '15년 경력의 오너가 운영하는 자코파네의 스페셜티 커피 & 와인바', 'Specialty coffee and wine bar in Zakopane run by owners with 15 years of experience'),
-  place('zakopane-cafe-2', 'zakopane', 'cafe', 'STRH Bistro Art Cafe', 'Krupówki 4a, 34-500 Zakopane', '크루푸프키 거리의 비스트로 아트 카페.', 'Bistro art café on Krupówki street.'),
+  place('zakopane-cafe-2', 'zakopane', 'cafe', 'STRH Bistro Art Cafe', 'Krupówki 4a (top floor), 34-500 Zakopane', '크루푸프키 거리 건물 꼭대기 층의 비스트로 카페. 타트라 산이 보이는 테라스가 있습니다.', 'Bistro café on the top floor of a Krupówki building, with a terrace facing the Tatras.'),
   place('zakopane-cafe-3', 'zakopane', 'cafe', 'Kawiarnia Filiżanki', 'Grunwaldzka 4A, 34-500 Zakopane', '브렉퍼스트 카페.', 'Breakfast café.'),
   place('zakopane-cafe-4', 'zakopane', 'cafe', 'Eko Chatka', 'Droga Oswalda Balzera 21, 34-500 Zakopane', '카페.', 'Café.'),
   place('zakopane-cafe-5', 'zakopane', 'cafe', 'Cafe Tygodnik Podhalański', 'Tadeusza Kościuszki 3, 34-500 Zakopane', '카페.', 'Café.'),

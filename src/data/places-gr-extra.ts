@@ -21,12 +21,11 @@ export const placesGRExtra: Place[] = [
 
   // —— santorini ——
   place('santorini-fine_dining-1', 'santorini', 'fine_dining', 'Selene', 'Pyrgos, Santorini 84700', '그리스 최고 레스토랑 중 하나.', 'Regarded as one of Greece\'s best restaurants.', { image: '/places/santorini-fine_dining-1.jpg' }),
-  place('santorini-fine_dining-2', 'santorini', 'fine_dining', 'Argo Restaurant', 'Fira, Santorini 847 00', '피라 중심가의 칼데라 전망 레스토랑, 현대적으로 재해석한 산토리니 요리.', 'Restaurant in central Fira with caldera views, offering a contemporary take on Santorinian cuisine.'),
+  place('santorini-fine_dining-2', 'santorini', 'fine_dining', 'Argo Restaurant', 'Main footpath, Fira, Santorini 847 00', '피라 중심가의 칼데라 전망 레스토랑, 현대적으로 재해석한 산토리니 요리.', 'Restaurant in central Fira with caldera views, offering a contemporary take on Santorinian cuisine.'),
   place('santorini-fine_dining-3', 'santorini', 'fine_dining', 'Parea Tavern', 'Fira, Santorini 847 00', '2005년부터 이어온 그리스·지중해 요리 타베르나, 무사카로 유명.', 'Greek-Mediterranean taverna since 2005, known for its moussaka.', { image: '/places/santorini-fine_dining-3.jpg' }),
   place('santorini-bakery-1', 'santorini', 'bakery', 'Furnissimo Bakery', 'Mesarias-Archeas Thiras, Mesaria 490 83, Greece', '최고의 크루아상과 커피로 유명한 산토리니의 베이커리', 'Santorini bakery known for its excellent croissants and coffee'),
   place('santorini-bakery-2', 'santorini', 'bakery', 'The Family Bakery', 'Eparchiaki Odos Firon-Ormou Perissis, Megalochori 84700', '전통 그리스 파이와 빵, 크루아상, 바클라바로 유명한 아늑한 베이커리.', 'Cozy bakery known for traditional Greek pies, breads, croissants and baklava.'),
   place('santorini-cafe-1', 'santorini', 'cafe', 'Milopetra', 'Fira, Santorini 847 00, Greece', '전통과 서양식 케이크를 두루 갖춘 산토리니의 베이커리 카페', 'Santorini bakery café offering a wide variety of traditional and continental cakes'),
-  place('santorini-cafe-2', 'santorini', 'cafe', 'Kaffeine', 'Fira, Santorini 847 00', '피라 중심가의 인기 커피숍.', 'Popular coffee shop on the main street in Fira.'),
 
   // —— heraklion ——
   place('heraklion-fine_dining-1', 'heraklion', 'fine_dining', 'Thigaterra', 'Leof. Andrea Papandreou 109, Heraklion 71414', '모던하게 재해석한 크레타 요리.', 'Cretan cuisine reimagined in a modern style.'),

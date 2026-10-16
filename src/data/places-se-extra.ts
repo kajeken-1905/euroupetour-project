@@ -38,7 +38,6 @@ export const placesSEExtra: Place[] = [
   place('uppsala-cafe-4', 'uppsala', 'cafe', 'Broströms Kafé Godsmagasinet', 'Roslagsgatan 1, Godsmagasinet, 753 27 Uppsala, Sweden', '웁살라 커피 로스터리의 원두를 쓰는 아늑한 카페.', 'Cosy café serving beans from Uppsala Kafferosteriet.'),
 
   // —— kiruna ——
-  place('kiruna-fine_dining-1', 'kiruna', 'fine_dining', 'Icehotel Restaurant (The Veranda)', 'Marknadsvägen 63, 981 91 Jukkasjärvi', '아이스호텔 다이닝.', 'Icehotel dining.'),
-  place('kiruna-cafe-1', 'kiruna', 'cafe', 'Icehotel Café', 'Marknadsvägen 63, 981 91 Jukkasjärvi', '아이스호텔 카페.', 'Icehotel café.'),
+  place('kiruna-fine_dining-1', 'kiruna', 'fine_dining', 'Icehotel Restaurant', 'Marknadsvägen 63, 981 91 Jukkasjärvi', '아이스호텔의 레스토랑. 라플란드 지역 재료로 요리하며 미리 예약해야 합니다.', 'Icehotel’s restaurant, cooking with Lapland produce; book well ahead.'),
 
 ]

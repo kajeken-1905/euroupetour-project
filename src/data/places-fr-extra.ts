@@ -135,9 +135,8 @@ export const placesFRExtra: Place[] = [
   place('montpellier-bakery-3', 'montpellier', 'bakery', 'Maison Bonnaire', '45 Rue Saint-Guilhem, 34000 Montpellier, France', '생기욤 거리의 인기 제과점.', 'Popular pastry shop on Rue Saint-Guilhem.'),
   place('montpellier-bakery-4', 'montpellier', 'bakery', 'Daveloza St Denis', '6 Rue du Grand Saint-Jean, 34000 Montpellier, France', '몽펠리에에서 제과점.', 'Pastry shop in Montpellier.'),
   place('montpellier-bakery-5', 'montpellier', 'bakery', 'Pain Brut', '9 Boulevard Victor Hugo, 34000 Montpellier, France', '빅토르 위고 대로의 인기 베이커리.', 'Popular bakery on Boulevard Victor Hugo.'),
-  place('montpellier-cafe-1', 'montpellier', 'cafe', 'PANA Boulangerie', 'Montpellier, 34000, France', '포카차와 사워도우로 정평이 난 몽펠리에의 베이커리 카페', 'Highly recommended Montpellier bakery café known for focaccia and sourdough'),
+  place('montpellier-cafe-1', 'montpellier', 'bakery', 'PANA Boulangerie', '79 Rue du Faubourg Figuerolles, 34070 Montpellier', '포카차와 사워도우로 정평이 난 몽펠리에의 베이커리 카페', 'Highly recommended Montpellier bakery café known for focaccia and sourdough'),
   place('montpellier-cafe-2', 'montpellier', 'cafe', 'Café BUN', '5 Rue des Étuves, 34000 Montpellier', '몽펠리에의 서드웨이브 스페셜티 로스터리.', "Montpellier's third-wave specialty coffee roastery."),
-  place('montpellier-korean-1', 'montpellier', 'korean', 'Umami - La Cinquième Saveur', 'Montpellier, 34000, France', '2017년 마스터셰프 코리아 출신 셰프가 연 한·일·프 퓨전 비스트로노미, 비빔밥 우마미로 유명.', "Korean-Japanese-French fusion bistronomy opened in 2017 by a former MasterChef Korea finalist, known for its Bibimbap Umami."),
 
   // —— dijon ——
   place('dijon-fine_dining-1', 'dijon', 'fine_dining', 'L\'Essentiel', '12 Rue Audra, 21000 Dijon', '계절 메뉴의 모던 프렌치 요리.', 'Modern French cuisine with a seasonal menu.'),

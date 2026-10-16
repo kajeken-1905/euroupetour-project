@@ -69,11 +69,67 @@
 "ko": "드 파이프의 무한 리필 한식 바비큐. 예약하는 편이 좋습니다.",
 "ok": 1
 },
+"andorra-la-vella-bakery-1": {
+"addr": "Carrer Bonaventura Riberaygua, Andorra la Vella",
+"en": "Bakery-café near the bus station, popular for sandwiches and filled croissants.",
+"ko": "버스 터미널 근처의 빵집 겸 카페. 샌드위치와 속을 채운 크루아상이 인기입니다.",
+"name": "Art i Pa",
+"ok": 1
+},
+"andorra-la-vella-bakery-2": {
+"en": "First store outside Spain of the Spanish sourdough bakery chain.",
+"ko": "스페인 사워도우 빵집 체인의 첫 해외 매장.",
+"ok": 1
+},
+"andorra-la-vella-bakery-3": {
+"del": "그 주소의 빵집을 찾을 수 없음"
+},
+"andorra-la-vella-bakery-4": {
+"del": "그 빵집을 찾을 수 없음"
+},
+"andorra-la-vella-cafe-1": {
+"ok": 1
+},
 "andorra-la-vella-cafe-2": {
 "ok": 1
 },
+"andorra-la-vella-cafe-3": {
+"addr": "Av. Dr. Mitjavila (near Pont de París), Andorra la Vella",
+"name": "Riverside",
+"ok": 1
+},
+"andorra-la-vella-cafe-4": {
+"del": "그 카페를 찾을 수 없음"
+},
 "andorra-la-vella-fine_dining-1": {
 "del": "안도라에서 그 바를 찾을 수 없음"
+},
+"andorra-la-vella-fine_dining-2": {
+"en": "Catalan restaurant running for over sixty years; the cannelloni is its signature.",
+"ko": "60년 넘게 이어온 카탈루냐 요리 식당. 카넬로니가 대표 메뉴입니다.",
+"ok": 1
+},
+"andorra-la-vella-fine_dining-3": {
+"en": "Mediterranean cooking such as foie gras and steak tartare.",
+"ko": "푸아그라·스테이크 타르타르 등 지중해식 요리를 내는 식당.",
+"ok": 1
+},
+"andorra-la-vella-fine_dining-4": {
+"en": "Tiny Andorran restaurant with about six tables; book ahead.",
+"ko": "테이블이 여섯 개 남짓한 작은 안도라 요리 식당. 예약을 권합니다.",
+"ok": 1
+},
+"andorra-la-vella-fine_dining-5": {
+"addr": "Andorra la Vella (centre)",
+"en": "Spanish restaurant cooking Catalan, Madrid and Andalusian dishes home-style.",
+"ko": "카탈루냐·마드리드·안달루시아 요리를 가정식으로 내는 스페인 식당.",
+"ok": 1
+},
+"antalya-bakery-2": {
+"ok": 1
+},
+"antalya-cafe-2": {
+"del": "위치가 출처마다 달라(칼레이치/라라) 확인할 수 없음"
 },
 "arcachon-fine_dining-3": {
 "addr": "Rue des Tamaris (Les Youkas), 33970 Lège-Cap-Ferret",
@@ -83,6 +139,17 @@
 },
 "ayia-napa-fine_dining-3": {
 "del": "그 이름·주소의 식당을 찾을 수 없음"
+},
+"banska-bystrica-bakery-1": {
+"del": "반스카비스트리차 지점 주소를 확인할 수 없음"
+},
+"banska-bystrica-bakery-2": {
+"en": "Bakery and breakfast café in the old market hall, known for sourdough and eggs Benedict.",
+"ko": "옛 시장 건물의 베이커리·브런치 카페. 사워도우와 에그 베네딕트가 인기입니다.",
+"ok": 1
+},
+"banska-bystrica-fine_dining-1": {
+"del": "그 식당을 확인할 수 없음"
 },
 "bath-cafe-4": {
 "del": "배스에서 그 카페를 찾을 수 없음"
@@ -211,6 +278,12 @@
 },
 "cambridge-fine_dining-2": {
 "del": "2018년 10월 폐업"
+},
+"canterbury-bakery-1": {
+"ok": 1
+},
+"canterbury-fine_dining-1": {
+"ok": 1
 },
 "ceske-budejovice-cafe-1": {
 "del": "체스케부데요비체에서 그 가게를 찾을 수 없음"
@@ -405,11 +478,44 @@
 "istanbul-bakery-1": {
 "del": "이스탄불에서 그 빵집을 찾을 수 없음"
 },
+"izmir-bakery-2": {
+"addr": "Kıbrıs Şehitleri Caddesi No:120, Alsancak, 35220 Konak/İzmir",
+"en": "Alsancak bakery making boyoz at the same address since 1983.",
+"ko": "1983년부터 같은 자리에서 보요즈를 굽는 알산자크의 빵집.",
+"ok": 1
+},
+"izmir-bakery-3": {
+"del": "주소를 확인할 수 없음"
+},
+"izmir-cafe-2": {
+"addr": "Kültür Mahallesi, Alsancak, Konak/İzmir",
+"ok": 1
+},
+"jurmala-bakery-2": {
+"addr": "Jomas iela 63, Jūrmala LV-2015",
+"en": "Family-run café and patisserie near the beach in Majori, baking pastries and cakes daily.",
+"ko": "마요리 해변 근처의 가족 운영 카페·제과점. 매일 페이스트리와 케이크를 굽습니다.",
+"ok": 1
+},
 "jurmala-cafe-4": {
 "del": "유르말라에서 그 카페를 찾을 수 없음"
 },
+"jurmala-fine_dining-4": {
+"addr": "Jomas iela, Majori, Jūrmala",
+"en": "Grill bar on Jomas Street, known for shashlik and its wine list.",
+"ko": "요마스 거리의 그릴 바. 샤슬릭과 와인 리스트가 인기입니다.",
+"ok": 1
+},
 "kilkenny-cafe-1": {
 "addr": "St Kieran’s Street, Kilkenny",
+"ok": 1
+},
+"kilkenny-cafe-4": {
+"addr": "3 William Street, Kilkenny R95 XE36",
+"ok": 1
+},
+"kilkenny-cafe-5": {
+"addr": "William Street, Kilkenny",
 "ok": 1
 },
 "killarney-cafe-1": {
@@ -417,6 +523,15 @@
 "en": "Bakery and café inside the old J.M. Reidy’s sweetshop building.",
 "ko": "옛 사탕 가게 건물(J.M. 리디스) 안의 베이커리·카페.",
 "name": "Mrs Reidy’s Bakery & Café (J.M. Reidy’s)",
+"ok": 1
+},
+"kiruna-cafe-1": {
+"del": "아이스호텔 안 카페라는 별도 매장을 확인할 수 없음"
+},
+"kiruna-fine_dining-1": {
+"en": "Icehotel’s restaurant, cooking with Lapland produce; book well ahead.",
+"ko": "아이스호텔의 레스토랑. 라플란드 지역 재료로 요리하며 미리 예약해야 합니다.",
+"name": "Icehotel Restaurant",
 "ok": 1
 },
 "kotor-bakery-1": {
@@ -582,6 +697,14 @@
 "madrid-bakery-1": {
 "del": "마드리드에서 그 빵집을 찾을 수 없음"
 },
+"malaga-bakery-3": {
+"del": "같은 가게가 카페 항목에 이미 있음(중복)"
+},
+"malaga-cafe-2": {
+"en": "Small specialty coffee shop in the old town, known for its homemade cakes.",
+"ko": "구시가지의 작은 스페셜티 커피숍. 직접 만든 케이크가 인기입니다.",
+"ok": 1
+},
 "manchester-bakery-5": {
 "del": "맨체스터에서 그 빵집을 찾을 수 없음"
 },
@@ -590,6 +713,14 @@
 "ko": "1945년 무렵부터 이어온 라바트의 파스티치 바.",
 "ok": 1
 },
+"montpellier-cafe-1": {
+"addr": "79 Rue du Faubourg Figuerolles, 34070 Montpellier",
+"cat": "bakery",
+"ok": 1
+},
+"montpellier-korean-1": {
+"del": "이전을 위해 영업을 멈춘 상태로 나와 지금 영업 여부 확인 불가"
+},
 "mostar-bakery-1": {
 "addr": "Mostarskog bataljona (next to Hotel Bristol), Mostar",
 "en": "Dessert café next to Hotel Bristol with a big summer terrace.",
@@ -597,10 +728,38 @@
 "name": "Aldi 2",
 "ok": 1
 },
+"nerja-bakery-2": {
+"addr": "Camino de Burriana s/n, 29780 Nerja",
+"en": "Scandinavian-style bakery on the road to Burriana beach, known for cinnamon and cardamom buns.",
+"ko": "부리아나 해변 가는 길의 북유럽식 빵집. 시나몬·카다멈 번이 대표 메뉴입니다.",
+"ok": 1
+},
+"nerja-cafe-2": {
+"del": "같은 가게가 빵집 항목에 이미 있음(중복)"
+},
+"nis-cafe-2": {
+"addr": "Koste Stamenkovića 1, 18000 Niš",
+"name": "Kafeterija Biro",
+"ok": 1
+},
+"nis-cafe-3": {
+"addr": "Trg Kralja Aleksandra Ujedinitelja 1a, 18000 Niš",
+"ok": 1
+},
 "ordino-bakery-1": {
 "addr": "Ordino (near Hotel La Planada), AD300",
 "en": "Bakery in the centre of Ordino village.",
 "ko": "오르디노 마을 중심의 빵집.",
+"ok": 1
+},
+"ordino-cafe-1": {
+"del": "오르디노에서 그 카페를 찾을 수 없음"
+},
+"ordino-fine_dining-1": {
+"addr": "Carrer Major (entrance), AD300 Ordino",
+"en": "Restaurant in a three-storey building on Ordino’s main street, with a ground-floor café and terrace.",
+"ko": "오르디노 중심가 3층 건물의 레스토랑. 1층은 카페, 테라스가 있습니다.",
+"name": "Restaurant Tòpic",
 "ok": 1
 },
 "ordino-fine_dining-2": {
@@ -699,11 +858,28 @@
 "addr": "27 Rue Malar, 75007 Paris",
 "ok": 1
 },
+"pas-de-la-casa-bakery-1": {
+"del": "그 빵집을 찾을 수 없음"
+},
+"pas-de-la-casa-cafe-1": {
+"del": "그 카페를 찾을 수 없음"
+},
+"pas-de-la-casa-fine_dining-1": {
+"ok": 1
+},
 "peja-bakery-1": {
 "del": "페야에서 그 빵집을 찾을 수 없음"
 },
 "podgorica-bakery-4": {
 "del": "포드고리차에서 그 가게를 찾을 수 없음"
+},
+"poprad-fine_dining-1": {
+"del": "출처마다 주소가 달라 확인할 수 없음"
+},
+"poprad-fine_dining-2": {
+"en": "Beer house serving Slovak classics, with a big outdoor beer garden.",
+"ko": "슬로바키아 전통 요리를 내는 맥줏집 식당. 야외 비어 가든이 넓습니다.",
+"ok": 1
 },
 "pristina-cafe-1": {
 "del": "배달 앱 목록뿐이라 매장 주소와 설명을 확인할 수 없음"
@@ -733,11 +909,31 @@
 "ko": "판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.",
 "ok": 1
 },
+"rovinj-bakery-1": {
+"del": "체인은 있으나 로빈 지점 주소를 확인할 수 없음"
+},
+"rovinj-cafe-1": {
+"addr": "Ulica Ricarda Daveggia 7, 52210 Rovinj",
+"en": "Specialty coffee shop in Rovinj, known for flat whites and pour-overs.",
+"ko": "로빈의 스페셜티 커피숍. 플랫화이트와 핸드드립이 인기입니다.",
+"name": "Augusto",
+"ok": 1
+},
 "santiago-fine_dining-1": {
 "addr": "Praza de Abastos, Rúa das Ameas 13-18, 15703 Santiago de Compostela",
 "ok": 1
 },
 "santiago-fine_dining-3": {
+"ok": 1
+},
+"santorini-cafe-2": {
+"del": "피라에서 그 카페를 찾을 수 없음"
+},
+"santorini-fine_dining-2": {
+"addr": "Main footpath, Fira, Santorini 847 00",
+"ok": 1
+},
+"santorini-fine_dining-3": {
 "ok": 1
 },
 "sheki-bakery-1": {
@@ -845,8 +1041,15 @@
 "addr": "Lower Frog Street, Tenby SA70 7HS",
 "ok": 1
 },
+"timisoara-bakery-3": {
+"del": "그 이름·주소의 제과점을 확인할 수 없음"
+},
 "timisoara-bakery-4": {
 "del": "그 이름의 제과점을 찾을 수 없음(비슷한 이름은 일반 식당)"
+},
+"timisoara-fine_dining-5": {
+"addr": "Strada Vasile Alecsandri, Timișoara (historic centre)",
+"ok": 1
 },
 "travnik-bakery-3": {
 "en": "Café and pastry shop in Travnik.",
@@ -875,7 +1078,22 @@
 "ko": "윈저에서 다리를 건너면 바로 있는 1682년 무렵부터의 이튼 펍. 조정 기념품이 걸려 있습니다.",
 "ok": 1
 },
+"york-bakery-1": {
+"del": "같은 카페가 카페 항목에 이미 있음(중복)"
+},
 "york-bakery-2": {
 "del": "요크에서 그 빵집을 찾을 수 없음"
+},
+"york-cafe-1": {
+"ok": 1
+},
+"zakopane-bakery-3": {
+"ok": 1
+},
+"zakopane-cafe-2": {
+"addr": "Krupówki 4a (top floor), 34-500 Zakopane",
+"en": "Bistro café on the top floor of a Krupówki building, with a terrace facing the Tatras.",
+"ko": "크루푸프키 거리 건물 꼭대기 층의 비스트로 카페. 타트라 산이 보이는 테라스가 있습니다.",
+"ok": 1
 }
 }

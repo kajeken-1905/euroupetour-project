@@ -102,9 +102,8 @@ export const placesESExtra: Place[] = [
   place('malaga-fine_dining-5', 'malaga', 'fine_dining', 'Bodegas Quitapenas', 'Calle Marín García 4, 29005 Málaga', '1880년부터 이어온 말라가의 전통 타베르나.', "Málaga's traditional tavern since 1880."),
   place('malaga-bakery-1', 'malaga', 'bakery', 'La Mallorquina', 'Avenida Carlos Haya 1, 29010 Málaga, Spain', '말라가의 명절 디저트로 유명한 가족 운영 제과점', 'Family-run Málaga institution known for holiday sweets and pastries', { image: '/places/malaga-bakery-1.jpg' }),
   place('malaga-bakery-2', 'malaga', 'bakery', 'Ana La Fantástica', 'Calle Castillo de Sohail 5, 29005 Málaga', '갈리시아식 사워도우 빵과 크루아상.', 'Galician-style sourdough bread and croissants.'),
-  place('malaga-bakery-3', 'malaga', 'bakery', 'Mia Coffee House', 'Calle Vendeja 9, 29001 Málaga', '스페셜티 커피와 홈메이드 페이스트리, 작은 베이커리.', 'Specialty coffee with homemade pastries and a small bakery.'),
   place('malaga-cafe-1', 'malaga', 'cafe', 'La Canasta', 'C. Herrería del Rey 2, 29005 Málaga, Spain', '맛있는 커피와 아침 식사로 유명한 말라가의 카페', 'Málaga café known for delicious coffee and breakfast'),
-  place('malaga-cafe-2', 'malaga', 'cafe', 'Mia Coffee House', 'Calle Vendeja 9, 29001 Málaga', '안달루시아 최고로 꼽히는 스페셜티 커피.', 'Regarded as some of the best specialty coffee in Andalusia.'),
+  place('malaga-cafe-2', 'malaga', 'cafe', 'Mia Coffee House', 'Calle Vendeja 9, 29001 Málaga', '구시가지의 작은 스페셜티 커피숍. 직접 만든 케이크가 인기입니다.', 'Small specialty coffee shop in the old town, known for its homemade cakes.'),
   place('malaga-cafe-3', 'malaga', 'cafe', 'Bertani Café', 'Calle San Juan 40, 29005 Málaga, Spain', '말라가 최초의 스페셜티 커피숍.', "Málaga's first specialty coffee shop."),
   place('malaga-korean-1', 'malaga', 'korean', 'WOOCOCO 우꼬꼬', 'Calle de Ramón Franquelo 10, 29008 Málaga', '불고기와 한국식 치킨으로 유명한 소규모 정통 한식당.', 'Small authentic Korean restaurant known for bulgogi and fried chicken.'),
   place('malaga-korean-2', 'malaga', 'korean', 'Konan Korean BBQ', 'Calle José Denis Belgrano 17, 29008 Málaga', '테이블 그릴 한국식 바베큐 뷔페.', 'Table-grill Korean BBQ buffet.'),
@@ -280,10 +279,9 @@ export const placesESExtra: Place[] = [
   place('nerja-fine_dining-4', 'nerja', 'fine_dining', 'La Puntilla', 'Calle Bolivia 1, 29780 Nerja', '현지인이 찾는 생선 타파스 바.', 'Local favorite fish tapas bar.', { image: '/places/nerja-fine_dining-4.jpg' }),
   place('nerja-fine_dining-5', 'nerja', 'fine_dining', 'Atipiko Nerja', 'Plaza Balcón de Europa 11, 29780 Nerja', '지중해·퓨전 요리, 발콘 데 에우로파 전망.', 'Mediterranean-fusion cuisine with Balcón de Europa views.'),
   place('nerja-bakery-1', 'nerja', 'bakery', 'Panadería minimarket Salvana', 'C. Rodríguez Acosta 5, 29780 Nerja, Spain', '정통 프랑스식 크루아상으로 유명한 네르하 최고의 베이커리', 'Widely regarded as Nerja\'s best bakery, known for authentic French-style croissants'),
-  place('nerja-bakery-2', 'nerja', 'bakery', 'Nybakat Café & Bakery', 'Camino de Burriana, Ed. Burriana Playa local 5, 29780 Nerja', '부리아나 해변의 스웨덴식 베이커리, 사워도우와 시나몬롤.', 'Swedish bakery at Burriana Beach — sourdough and cinnamon rolls.'),
+  place('nerja-bakery-2', 'nerja', 'bakery', 'Nybakat Café & Bakery', 'Camino de Burriana s/n, 29780 Nerja', '부리아나 해변 가는 길의 북유럽식 빵집. 시나몬·카다멈 번이 대표 메뉴입니다.', 'Scandinavian-style bakery on the road to Burriana beach, known for cinnamon and cardamom buns.'),
   place('nerja-bakery-3', 'nerja', 'bakery', 'Panadería Salvador', 'Calle Granada 92, 29780 Nerja', '신선한 페이스트리와 다양한 빵으로 인기.', 'Popular for fresh pastries and a wide bread selection.', { image: '/places/nerja-bakery-3.jpg' }),
   place('nerja-cafe-1', 'nerja', 'cafe', 'Cafetería Pastelería Tiramisu', 'Calle Jaén 5, 29780 Nerja, Spain', '갓 구운 페이스트리와 향긋한 커피로 유명한 네르하의 카페', 'Cozy Nerja café known for freshly baked pastries and aromatic coffee'),
-  place('nerja-cafe-2', 'nerja', 'cafe', 'Nybakat Café & Bakery', 'Camino de Burriana, Ed. Burriana Playa local 5, 29780 Nerja', '부리아나 해변의 인기 브런치·커피 카페.', 'Popular brunch and coffee café at Burriana Beach.'),
 
   // —— gibraltar ——
   place('gibraltar-fine_dining-1', 'gibraltar', 'fine_dining', 'Rock Salt', 'Unit 2, Chatham Counterguard, GX11 1AA Gibraltar', '지브롤터 해협 전망 레스토랑.', 'Restaurant with views over the Strait of Gibraltar.'),

@@ -67,8 +67,8 @@ export const placesIEExtra: Place[] = [
   place('kilkenny-cafe-1', 'kilkenny', 'cafe', 'The Pantry Country Kitchen', 'St Kieran’s Street, Kilkenny', '직접 만드는 빵과 페이스트리로 유명한 킬케니 시내의 카페', 'Kilkenny city-center café known for freshly made breads and pastries'),
   place('kilkenny-cafe-2', 'kilkenny', 'cafe', 'Cafe La Coco', '4 Lower Patrick St, Kilkenny, Ireland', '킬케니의 인기 카페.', 'Popular café in Kilkenny.'),
   place('kilkenny-cafe-3', 'kilkenny', 'cafe', 'The Yard Café', "27 St Kieran's St, Kilkenny, Ireland", '킬케니의 카페.', 'Café in Kilkenny.'),
-  place('kilkenny-cafe-4', 'kilkenny', 'cafe', 'Fragola Cafe', '3 William St, Kilkenny, Ireland', '킬케니의 인기 카페.', 'Popular café in Kilkenny.'),
-  place('kilkenny-cafe-5', 'kilkenny', 'cafe', 'The Book & Coffee Shop', '3 William St, Kilkenny, Ireland', '책과 커피를 함께 즐기는 킬케니의 카페.', 'Café in Kilkenny combining books and coffee.'),
+  place('kilkenny-cafe-4', 'kilkenny', 'cafe', 'Fragola Cafe', '3 William Street, Kilkenny R95 XE36', '킬케니의 인기 카페.', 'Popular café in Kilkenny.'),
+  place('kilkenny-cafe-5', 'kilkenny', 'cafe', 'The Book & Coffee Shop', 'William Street, Kilkenny', '책과 커피를 함께 즐기는 킬케니의 카페.', 'Café in Kilkenny combining books and coffee.'),
 
   // —— limerick ——
   place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Freddy\'s', '100 O\'Connell St, Limerick, V94 XY0P', '리머릭의 활기찬 다이닝 명소.', 'A lively dining spot in Limerick.'),
