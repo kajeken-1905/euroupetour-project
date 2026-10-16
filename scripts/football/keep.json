@@ -1422,11 +1422,7 @@
   "infoboxGround": [
    "Solitude (football ground)"
   ],
-  "homepage": "https://cliftonvillefc.net/",
-  "tour": [
-   "tour",
-   "https://cliftonvillefc.net/stadium-tours/"
-  ]
+  "homepage": "https://cliftonvillefc.net/"
  },
  {
   "league": "uk-nifl",
@@ -3148,12 +3144,7 @@
   "infoboxGround": [
    "Constant Vanden Stock Stadium"
   ],
-  "homepage": "https://www.rsca.be/",
-  "tour": [
-   "tour",
-   "https://www.rsca.be/en/stadium-tour-bookings",
-   "group15"
-  ]
+  "homepage": "https://www.rsca.be/"
  },
  {
   "league": "be-jpl",
@@ -6225,7 +6216,7 @@
   "homepage": "https://www.rbk.no/",
   "tour": [
    "tour",
-   "https://www.rbk.no/nyheter/omvisning-pa-lerkendal-stadion-i-sommer",
+   "https://www.rbk.no/nyheter/omvisning-pa-lerkendal-stadion-i-sommer-2026",
    "summer"
   ]
  },

@@ -19,7 +19,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'aarhus-h2': v(150, 180, { c: 'daily', s: 'https://www.dengamleby.dk/en/', k: '2026-10' }),
   'aarhus-h3': v(45, 60),
   'aarhus-h4': v(20, 30, { b: 'no', s: 'https://www.visitaarhus.com/aarhus/planlaeg/aarhus-domkirke-gdk1077542', n: '입장 무료. 종탑만 유료입니다.|Free; only the tower is paid.', k: '2026-10' }),
-  'aarhus-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.aakb.dk/node/6333', n: '입장 무료. 평일 8:00~22:00, 주말 10:00~16:00. 공휴일에는 닫습니다.|Free. Weekdays 8:00–22:00, weekends 10:00–16:00; closed on public holidays.', k: '2026-10' }),
+  'aarhus-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://dokk1.dk/aabningstider-i-dokk1', n: '입장 무료. 평일 8:00~22:00, 주말 10:00~16:00. 공휴일에는 닫습니다.|Free. Weekdays 8:00–22:00, weekends 10:00–16:00; closed on public holidays.', k: '2026-10' }),
   // Odense
   'odense-h1': v(90, 120, { b: 'rec', s: 'https://hcandersenshus.dk/en/', k: '2026-10' }),
   'odense-h2': v(45, 60),
@@ -119,7 +119,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'tromso-h1': v(20, 30, { c: 'daily', s: 'https://ishavskatedralen.no/en/', k: '2026-10' }),
   'tromso-h2': v(60, 90, { c: 'daily', s: 'https://www.fjellheisen.no/', n: '강풍이 불면 운휴합니다.|Stops in high winds.', k: '2026-10' }),
   'tromso-h3': v(180, 300, { s: 'https://www.visittromso.no/boat-tours-tromso', b: 'rec', n: '여러 업체가 연중 운항하고 출발 시각은 계절마다 다릅니다. 겨울 오로라 크루즈는 몇 주 전에 매진되기도 하고 날씨에 따라 취소됩니다.|Several operators sail all year, with departure times changing by season. Winter aurora cruises can sell out weeks ahead and are weather-dependent.', k: '2026-10' }),
-  'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/en/', k: '2026-10' }),
+  'tromso-h4': v(60, 75, { c: 'daily', s: 'https://polaria.no/', k: '2026-10' }),
   'tromso-h5': v(45, 60),
   // Stavanger
   'stavanger-h1': v(240, 300, { b: 'no', s: 'https://preikestolen365.com/', n: '왕복 8km, 4시간쯤 걸리는 산행이고 난간이 없습니다. 겨울에는 장비와 가이드가 필요합니다.|An 8 km, roughly four-hour return hike with no railings. In winter it needs proper kit and a guide.' }),

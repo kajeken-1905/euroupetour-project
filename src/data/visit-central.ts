@@ -129,8 +129,8 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'debrecen-h4': v(15, 20),
   'debrecen-h5': v(180, 240),
   // Pécs
-  'pecs-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.iranypecs.hu/en/article/pecs-cathedral', n: '월~토 9:00~17:00(금 10:00부터), 일 11:30~17:00. 표는 16:30까지 팝니다.|Mon–Sat 9:00–17:00 (Fri from 10:00), Sun 11:30–17:00; tickets until 16:30.', k: '2026-10' }),
-  'pecs-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.iranypecs.hu/en/article/mosque-of-pasha-gazi-kasim-pecs', n: '지금은 성당으로 쓰입니다. 월~토 9:00~17:00, 일 13:00~17:00. 대성당과 묶은 통합권이 있습니다.|Now a church: Mon–Sat 9:00–17:00, Sun 13:00–17:00; a combined ticket with the cathedral is available.', k: '2026-10' }),
+  'pecs-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://pecsiegyhazmegye.hu/en', n: '월~토 9:00~17:00(금 10:00부터), 일 11:30~17:00. 표는 16:30까지 팝니다.|Mon–Sat 9:00–17:00 (Fri from 10:00), Sun 11:30–17:00; tickets until 16:30.', k: '2026-10' }),
+  'pecs-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://pecsiegyhazmegye.hu/en', n: '지금은 성당으로 쓰입니다. 월~토 9:00~17:00, 일 13:00~17:00. 대성당과 묶은 통합권이 있습니다.|Now a church: Mon–Sat 9:00–17:00, Sun 13:00–17:00; a combined ticket with the cathedral is available.', k: '2026-10' }),
   'pecs-h3': v(60, 75, { c: 'mon', s: 'https://www.vilagoroksegpecs.hu/en/information/opening-hours', n: '11월 1일에도 쉽니다. 표는 문 닫기 30분 전까지 팝니다.|Also closed on 1 November. Ticket sales end 30 minutes before closing.', k: '2026-10' }),
   'pecs-h4': v(120, 150, { c: 'mon', s: 'https://www.zsolnaynegyed.hu/en', n: '전시장은 월요일에 쉽니다. 겨울(11월 초~봄)에는 상설 전시가 목~일요일에만 열고, 12월 24~26일은 모두 닫습니다.|Exhibitions close on Mondays. In winter (early November to spring) the permanent exhibitions open Thursday–Sunday only, and everything closes on 24–26 December.', k: '2026-10' }),
   'pecs-h5': v(15, 20),
