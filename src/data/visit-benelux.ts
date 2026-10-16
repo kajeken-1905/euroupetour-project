@@ -77,7 +77,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   // Nuremberg
   'nuremberg-h1': v(90, 120, { c: 'daily', s: 'https://www.kaiserburg-nuernberg.de/englisch/castle/index.htm', k: '2026-10' }),
   'nuremberg-h2': v(20, 30, { n: '11월 말부터 크리스마스 전까지 크리스마스 마켓이 섭니다.|Hosts the Christmas market from late November until Christmas.' }),
-  'nuremberg-h3': v(20, 30),
+  'nuremberg-h3': v(20, 30, { c: 'daily', s: 'https://www.lorenzkirche.de/', n: '월~토 9:00~17:30, 일요일 13:00~15:30에 관람할 수 있고 공휴일에는 15:30에 닫습니다.|Open to visitors Mon–Sat 9:00–17:30 and Sun 13:00–15:30; on public holidays it closes at 15:30.', k: '2026-10' }),
   'nuremberg-h4': v(120, 150, { c: 'daily', s: 'https://museums.nuernberg.de/documentation-center', n: '여러 해에 걸친 개편 공사를 거쳤으니 방문 전에 운영 현황을 확인하세요.|It has been through a multi-year remodelling—check current arrangements before you go.', k: '2026-10' }),
   'nuremberg-h5': v(60, 90, { c: 'mon', s: 'https://museums.nuernberg.de/toy-museum', k: '2026-10' }),
   // Munich
@@ -108,8 +108,8 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'bruges-h2': v(45, 60, { c: 'daily', b: 'rec', s: MUSEA_BRUGGE, n: '계단 366개를 오르고 한 번에 올라가는 인원이 제한됩니다.|366 steps, with limited numbers allowed up at a time.', k: '2026-10' }),
   'bruges-h3': v(30, 40, { n: '운하 유람선은 대략 3월부터 11월 중순까지 다닙니다.|Canal boats run from roughly March to mid-November.' }),
   'bruges-h4': v(20, 30),
-  'bruges-h5': v(15, 20),
-  'bruges-h6': v(60, 90, { s: MUSEA_BRUGGE }),
+  'bruges-h5': v(15, 20, { c: 'daily', s: 'https://www.holyblood.com/', n: '매일 10:00~17:15에 열고, 미사 중에는 아래층이나 위층 성당만 들어갈 수 있습니다. 성혈 경배는 매일 14:00~16:00입니다.|Open daily 10:00–17:15; during services only the lower or upper chapel is open. Veneration of the relic is daily 14:00–16:00.', k: '2026-10' }),
+  'bruges-h6': v(60, 90, { c: 'mon', s: MUSEA_BRUGGE, n: '4월~11월 2일은 10:00~18:00, 그 밖에는 9:30~17:00이고 월요일(부활절·성령강림 월요일 제외)과 1월 1일에 쉽니다.|Open 10:00–18:00 from April to 2 November and 9:30–17:00 otherwise; closed Mondays (except Easter and Whit Monday) and 1 January.', k: '2026-10', x: [['2027년 1월 11일부터 대대적인 리모델링으로 문을 닫고 2030년에 다시 열 예정입니다. 대표작은 2027년 3월 12일부터 옆 BRUSK에서 전시합니다.|Closes from 11 January 2027 for a full renovation, reopening planned for 2030; the highlights move next door to BRUSK from 12 March 2027.', '2029-12-31']] }),
   // Ghent
   'ghent-h1': v(20, 30),
   'ghent-h2': v(45, 60, { c: 'daily', b: 'rec', s: 'https://www.sintbaafskathedraal.be/en/', n: '성당은 무료이고 겐트 제단화는 시간 지정 유료 입장입니다.|The cathedral is free; the Ghent Altarpiece is by timed paid ticket.', k: '2026-10' }),
@@ -125,7 +125,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'antwerp-h5': v(90, 120, { c: 'mon', s: 'https://mas.be/en', n: '옥상 전망대와 건물 통로는 무료입니다.|The rooftop panorama and the walk up through the building are free.', k: '2026-10' }),
   'antwerp-h6': v(45, 60, { c: 'wed', s: 'https://rubenshuis.be/en', n: '루벤스가 살던 집은 보수 공사로 닫혀 있어 빨라야 2030년에 다시 열고, 정원·도서관과 체험 전시만 엽니다.|The artist’s house itself is closed for restoration and will reopen in 2030 at the earliest; only the garden, library and the Rubens Experience are open.', k: '2026-10' }),
   // Leuven
-  'leuven-h1': v(15, 20),
+  'leuven-h1': v(15, 20, { s: 'https://www.leuven.be/en/town-hall', n: '2029년까지 복원 공사로 내부는 닫혀 있고 바깥 외관만 볼 수 있습니다.|Closed inside for restoration until 2029; only the façade can be seen.', k: '2026-10' }),
   'leuven-h2': v(30, 45),
   'leuven-h3': v(20, 30),
   'leuven-h4': v(20, 30, { c: 'daily', s: 'https://www.mleuven.be/en', k: '2026-10' }),
@@ -165,7 +165,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'utrecht-h2': v(45, 60),
   'utrecht-h3': v(15, 20),
   'utrecht-h4': v(75, 90, { c: 'mon', s: 'https://www.museumspeelklok.nl/en/', k: '2026-10' }),
-  'utrecht-h5': v(20, 30, { b: 'no', n: FREE }),
+  'utrecht-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.domkerk.nl/bezoek/', n: '무료(기부금)입니다. 4~10월 월~금 10:00~17:00, 토 10:00~15:15, 일 12:30~17:00이고 11~3월은 조금 짧습니다.|Free (donations welcome). April–October Mon–Fri 10:00–17:00, Sat 10:00–15:15, Sun 12:30–17:00; slightly shorter November–March.', k: '2026-10' }),
   'utrecht-h6': v(30, 45),
   // Haarlem
   'haarlem-h1': v(20, 30),
@@ -195,7 +195,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'giethoorn-h4': v(40, 45),
 
   // Luxembourg City
-  'luxembourg-city-h1': v(15, 20, { s: LUX, n: '내부 가이드 투어는 한여름(대략 7월 중순~8월)에만 있고 관광 안내소에서 예약합니다.|Interior tours run only in midsummer (roughly mid-July to August), booked through the tourist office.' }),
+  'luxembourg-city-h1': v(15, 20, { s: LUX, n: '내부 가이드 투어는 매년 한여름에만 있습니다(2026년은 7월 18일~8월 30일). 관광 안내소에서 미리 예매하는 것이 좋습니다.|Interior tours run only in midsummer (18 July–30 August in 2026); book ahead through the tourist office.', k: '2026-10' }),
   'luxembourg-city-h2': v(90, 120),
   'luxembourg-city-h3': v(45, 60, { c: 'daily', s: 'https://www.luxembourg-city.com/en/tours-activities/underground/bock-casemates', n: '겨울에는 닫는 기간이 있습니다. 12월 25일과 1월 1일은 쉽니다.|Closed for part of the winter. Closed 25 December and 1 January.', k: '2026-10' }),
   'luxembourg-city-h4': v(60, 90),
@@ -206,7 +206,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'vianden-h1': v(75, 90, { c: 'daily', s: 'https://castle-vianden.lu/gb/', k: '2026-10' }),
   'vianden-h2': v(20, 30),
   'vianden-h3': v(30, 45, { n: '체어리프트는 봄부터 가을까지만 다닙니다.|The chairlift runs spring to autumn only.' }),
-  'vianden-h4': v(30, 45, { s: 'https://victor-hugo.lu/' }),
+  'vianden-h4': v(30, 45, { c: 'mon,tue,wed', s: 'https://www.visitluxembourg.com/fr/attraction/musee-litteraire-victor-hugo-vianden', n: '2026년 10월 기준 목~일 12:00~18:00에 엽니다. 철에 따라 바뀔 수 있습니다.|As of October 2026 open Thu–Sun 12:00–18:00; hours can change by season.', k: '2026-10' }),
   // Echternach
   'echternach-h1': v(45, 90),
   'echternach-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://basilika.lu/en/', n: '보통 8:00~18:00(일요일은 13:00부터)에 엽니다.|Usually open 8:00–18:00 (Sundays from 13:00).', k: '2026-10' }),

@@ -18,7 +18,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Dubrovnik
   'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.', k: '2026-10' }),
   'dubrovnik-h2': v(20, 30),
-  'dubrovnik-h3': v(30, 45, { n: '성벽 입장권으로 함께 봅니다.|Included with the city walls ticket.' }),
+  'dubrovnik-h3': v(30, 45, { c: 'daily', s: 'https://citywallsdubrovnik.hr/faq/', n: '성벽 입장권으로 함께 봅니다(로브리예나츠에서만 산 표로는 성벽에 못 들어감). 12월 25일을 빼고 매일 엽니다.|Included with the city walls ticket (a Lovrijenac-only ticket does not cover the walls). Open every day except 25 December.', k: '2026-10' }),
   'dubrovnik-h4': v(60, 75, { s: 'https://www.dubrovnikcablecar.com/', n: '1~3월과 12월에는 운휴하고, 강풍이나 낙뢰 때는 멈춥니다.|Closed January–March and in December; stops in high winds or lightning.', x: [['2026년 11월 10·11·20일은 정기 점검으로 운휴합니다.|Closed for scheduled maintenance on 10, 11 and 20 November 2026.', '2026-11-20']], k: '2026-10' }),
   'dubrovnik-h5': v(180, 240, { n: '옛 항구에서 배로 15분쯤 걸리고 대략 4월부터 11월 초까지만 다닙니다.|About 15 minutes by boat from the Old Port, running roughly April to early November.' }),
   'dubrovnik-h6': v(15, 20),

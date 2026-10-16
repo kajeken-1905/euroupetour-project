@@ -41,7 +41,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'meteora-h5': v(30, 45),
   // Corfu
   'corfu-h1': v(90, 120),
-  'corfu-h2': v(60, 75, { t: HH, n: HH_NOTE }),
+  'corfu-h2': v(60, 75, { c: 'daily', s: 'http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=954', t: HH, n: '매일 엽니다. 4~10월은 8:00부터 저녁까지(10월 하순 18:00), 11~3월은 8:30~15:30입니다.|Open daily: from 8:00 into the evening April–October (to 18:00 in late October), 8:30–15:30 November–March.', k: '2026-10' }),
   'corfu-h3': v(15, 20),
   'corfu-h4': v(120, 180),
   'corfu-h5': v(30, 45, { c: 'daily', s: 'https://achillion-corfu.gr/', n: '궁전 내부는 2021년부터 복원 공사로 닫혀 있고 재개관 날짜는 정해지지 않았습니다. 정원은 매일 4~10월 8:00~20:00, 11~3월 8:00~16:00에 엽니다.|The palace interior has been closed for restoration since 2021 with no reopening date set. The gardens open daily, 8:00–20:00 April–October and 8:00–16:00 November–March.', k: '2026-10' }),
@@ -60,11 +60,11 @@ export const visitMed: Record<string, HighlightVisit> = {
   // Delphi
   'delphi-h1': v(90, 120, { c: 'daily', t: HH, n: '유적과 박물관은 통합 입장권으로 봅니다. 11~3월은 8:30~15:30(마지막 입장 15:10)으로 짧아집니다. 오르막이라 한여름에는 아침에 가세요.|The site and museum share one ticket. November–March hours shorten to 8:30–15:30 (last entry 15:10). It is uphill—go early in high summer.', k: '2026-10' }),
   'delphi-h2': v(20, 30, { b: 'no', n: '본 유적에서 도로를 따라 10분쯤 내려가며 무료입니다.|Ten minutes down the road from the main site, and free.' }),
-  'delphi-h3': v(15, 20, { n: '아폴론 신전 유적 안에 있습니다.|Inside the Sanctuary of Apollo site.' }),
+  'delphi-h3': v(15, 20, { c: 'daily', n: '아폴론 신전 유적 안에 있어 같은 입장권으로 봅니다.|Inside the Sanctuary of Apollo, on the same ticket.', k: '2026-10' }),
   'delphi-h4': v(60, 75, { c: 'daily', t: HH, k: '2026-10' }),
   'delphi-h5': v(45, 60),
   // Zakynthos
-  'zakynthos-h1': v(30, 60, { n: '산사태 위험으로 해변 상륙과 수영, 배의 접근이 금지돼 왔으니 방문 전에 해제 여부를 확인하세요. 절벽 위 전망대나 먼바다의 유람선에서 볼 수 있습니다.|Landing, swimming and close approach by boat have been banned for landslide risk—check whether the ban has been lifted. It can be seen from the clifftop viewpoint or from a boat offshore.', x: [['공식 안내상 금지는 적어도 2026년 10월 말까지입니다.|The ban officially runs until at least the end of October 2026.', '2026-10-31']] }),
+  'zakynthos-h1': v(30, 60, { n: '산사태 위험으로 해변 상륙과 수영, 배의 접근이 금지돼 왔으니 방문 전에 해제 여부를 확인하세요. 절벽 위 전망대나 먼바다의 유람선에서 볼 수 있습니다.|Landing, swimming and close approach by boat have been banned for landslide risk—check whether the ban has been lifted. It can be seen from the clifftop viewpoint or from a boat offshore.', x: [['정부 결정으로 2026년 10월 31일까지 해변과 앞바다 출입이 금지되고, 절벽 위 전망대에서만 볼 수 있습니다.|By government decision the beach and its waters are off limits until 31 October 2026; it can be seen only from the clifftop platform.', '2026-10-31']] }),
   'zakynthos-h2': v(60, 90, { n: BOAT }),
   'zakynthos-h3': v(120, 180, { n: '바다거북 산란지라 해변 일부는 출입이 제한됩니다.|A turtle nesting site—parts of the beach are off limits.' }),
   'zakynthos-h4': v(45, 60),
@@ -78,9 +78,9 @@ export const visitMed: Record<string, HighlightVisit> = {
   'nafplio-h7': v(60, 90, { c: 'daily', t: HH, n: '여름 주말 저녁에는 고대 극장에서 축제 공연이 열립니다.|On summer weekend evenings the theatre hosts festival performances.', k: '2026-10' }),
   // Olympia
   'olympia-h1': v(120, 150, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
-  'olympia-h2': v(15, 20, { t: HH, n: OLYMPIA }),
-  'olympia-h3': v(10, 15, { t: HH, n: OLYMPIA }),
-  'olympia-h4': v(15, 20, { t: HH, n: OLYMPIA }),
+  'olympia-h2': v(15, 20, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
+  'olympia-h3': v(10, 15, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
+  'olympia-h4': v(15, 20, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
   'olympia-h5': v(60, 75, { c: 'daily', t: HH, n: '유적과 박물관은 통합 입장권으로 봅니다. 1월 1일, 3월 25일, 부활절 일요일, 5월 1일, 12월 25~26일은 쉽니다.|The site and museum share one ticket. Closed 1 January, 25 March, Easter Sunday, 1 May and 25–26 December.', k: '2026-10' }),
   // Mykonos
   'mykonos-h1': v(20, 30),
@@ -98,7 +98,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'santorini-h1': v(60, 120, { n: '해 지기 1~2시간 전에 자리를 잡아야 합니다.|Stake out a spot one to two hours before sunset.' }),
   'santorini-h2': v(60, 90),
   'santorini-h3': v(45, 60, { n: '낙석 위험 경고가 있는 해변입니다.|The beach carries rockfall warnings.' }),
-  'santorini-h4': v(60, 75, { t: HH, n: HH_NOTE }),
+  'santorini-h4': v(60, 75, { c: 'tue', s: 'http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2410', t: HH, n: '겨울에는 8:30~15:30에 열고 화요일에 쉽니다. 여름에는 월·목요일만 15:30에 닫고 다른 날은 더 늦게까지 엽니다. 표(20유로)는 고대 티라·선사 박물관과 함께 씁니다.|Winter 8:30–15:30, closed Tuesdays; in summer it closes at 15:30 on Mondays and Thursdays and later on other days. The €20 ticket also covers Ancient Thera and the Prehistoric Museum.', k: '2026-10' }),
   'santorini-h5': v(60, 90, { b: 'rec' }),
   // Heraklion
   'heraklion-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://knossospalace.gr/', t: HH, n: '고고학 박물관과 묶은 통합권이 있습니다.|A combined ticket with the Archaeological Museum is available.', k: '2026-10' }),
@@ -114,7 +114,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'chania-h5': v(360, 480, { n: '16km 내리막 산행이며 대략 5월부터 10월까지만 엽니다. 비가 오거나 폭염이면 닫습니다.|A 16 km downhill hike, open roughly May to October and closed in rain or extreme heat.' }),
   // Rhodes
   'rhodes-h1': v(120, 180),
-  'rhodes-h2': v(60, 75, { t: HH, n: HH_NOTE }),
+  'rhodes-h2': v(60, 75, { c: 'tue', s: 'http://odysseus.culture.gr/h/1/eh155.jsp?obj_id=6301', t: HH, n: '4~10월은 매일 8:00~20:00, 11~3월은 8:30~15:30이고 화요일에 쉽니다. 표는 공식 예매처(hhticket.gr)에서 팝니다.|April–October daily 8:00–20:00; November–March 8:30–15:30, closed Tuesdays. Tickets are sold on hhticket.gr.', k: '2026-10' }),
   'rhodes-h3': v(180, 240, { t: HH, n: '아크로폴리스까지 가파른 계단을 오릅니다. 그늘이 거의 없습니다.|A steep climb to the acropolis with almost no shade.' }),
   'rhodes-h4': v(20, 30),
   'rhodes-h5': v(120, 180),

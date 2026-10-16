@@ -67,7 +67,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'reims-h5': v(180, 240),
   // Rouen
   'rouen-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.cathedrale-rouen.net/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.', k: '2026-10' }),
-  'rouen-h2': v(30, 45, { s: 'https://rouen.fr/gros-horloge' }),
+  'rouen-h2': v(30, 45, { c: 'mon', s: 'https://rouen.fr/gros-horloge', n: '4~9월은 화~일 10:00~13:00·14:00~19:00, 10~3월은 화~일 14:00~18:00입니다.|April–September open Tue–Sun 10:00–13:00 and 14:00–19:00; October–March Tue–Sun 14:00–18:00.', k: '2026-10', x: [['2026년 10월 5~18일은 공사로 닫습니다.|Closed 5–18 October 2026 for works.', '2026-10-18']] }),
   'rouen-h3': v(20, 30),
   'rouen-h4': v(30, 45),
   // Honfleur
@@ -129,13 +129,13 @@ export const visitFr: Record<string, HighlightVisit> = {
   'annecy-h1': v(60, 120),
   'annecy-h2': v(45, 60),
   'annecy-h3': v(30, 45, { c: 'tue', s: 'https://musees.annecy.fr/', k: '2026-10' }),
-  'annecy-h4': v(60, 75, { s: 'https://musees.annecy.fr/' }),
+  'annecy-h4': v(60, 75, { c: 'tue', b: 'no', s: 'https://musees.annecy.fr/', n: '화요일과 일부 공휴일에 쉬고, 10~5월은 점심시간에 닫습니다. 표는 현장에서 사며 예약은 필요 없습니다.|Closed Tuesdays and some public holidays, and over lunch from October to May. Buy tickets on the spot—no booking needed.', k: '2026-10' }),
   'annecy-h5': v(15, 20),
   // Chamonix
   'chamonix-h1': v(150, 210, { b: 'req', s: 'https://aiguilledumidi.montblancnaturalresort.com/en', n: '시간 지정 예약이 필수입니다. 날씨로 멈추는 날도 있으니 당일 운행 여부를 확인하세요. 정상은 한여름에도 영하에 가깝습니다.|A timed booking is compulsory. It stops on bad-weather days, so check on the day. The summit stays near freezing even in midsummer.', k: '2026-10', x: [['2026년 11월 2일~12월 18일은 정기 점검으로 운휴합니다.|Closed for maintenance 2 November–18 December 2026.', '2026-12-18']] }),
   'chamonix-h2': v(120, 180, { s: 'https://montenversmerdeglace.montblancnaturalresort.com/en', n: '몽탕베르 열차는 연중 다니지만 봄·가을 일부 기간에는 곤돌라와 얼음 동굴이 정비로 닫힙니다.|The Montenvers train runs all year, but the gondola and ice cave close for maintenance in parts of spring and autumn.', k: '2026-10' }),
   'chamonix-h3': v(45, 60),
-  'chamonix-h4': v(90, 120, { n: '케이블카는 계절 운행이라 봄·가을에는 쉬는 기간이 있습니다.|The lifts are seasonal and shut for periods in spring and autumn.' }),
+  'chamonix-h4': v(90, 120, { s: 'https://domaineschamonix.montblancnaturalresort.com/en/area/brevent', n: '케이블카는 계절 운행이라 봄·가을에는 쉬는 기간이 있습니다.|The lifts are seasonal and shut for periods in spring and autumn.', k: '2026-10', x: [['정상 케이블카는 12월 12일에 다시 운행하며, 그 전에는 플랑프라즈 곤돌라만 10월 17일~11월 1일에 운행합니다.|The summit cable car reopens on 12 December; before that only the Planpraz gondola runs, 17 October–1 November.', '2026-12-11']] }),
   'chamonix-h5': v(20, 30),
   // Bordeaux
   'bordeaux-h1': v(15, 20),
@@ -194,7 +194,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'ajaccio-h4': v(30, 45),
   // Bonifacio
   'bonifacio-h1': v(60, 90),
-  'bonifacio-h2': v(30, 45, { n: '계단 187개의 유료 시설이며 겨울과 악천후에는 닫습니다.|A ticketed stairway of 187 steps, closed in winter and bad weather.' }),
+  'bonifacio-h2': v(30, 45, { s: 'https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/ESCALIER-DU-ROY-D-ARAGON', n: '계단 187개의 유료 시설(성인 5유로)이고 2월 초~11월 중순에만 엽니다. 악천후에는 닫고 막힌 신발을 신어야 합니다.|A ticketed stairway of 187 steps (adults €5), open early February to mid-November only; shut in bad weather, and closed shoes are required.', k: '2026-10' }),
   'bonifacio-h3': v(30, 45),
   'bonifacio-h4': v(180, 300),
   // Calvi

@@ -32,7 +32,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'bern-h3': v(20, 30, { c: 'daily', b: 'no', s: 'https://tierpark-bern.ch/baerenpark/', n: '입장은 무료이고 겨울에는 곰이 겨울잠을 잡니다.|Free; the bears hibernate in winter.', k: '2026-10' }),
   'bern-h4': v(60, 60, { b: 'req', s: 'https://www.parlament.ch/en/services/visiting-the-parliament-building', n: '내부 투어는 무료이며 여권이 필요합니다. 의회 회기 중에는 투어가 없습니다.|Tours are free and need a passport. None run while parliament is in session.', k: '2026-10' }),
   'bern-h5': v(30, 60),
-  'bern-h6': v(30, 45, { n: '성당은 무료이고 탑 전망대만 유료입니다.|The minster is free; only the tower climb is ticketed.' }),
+  'bern-h6': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.bernermuenster.ch/de/berner-muenster/infos-kontakt/oeffnungszeiten.php', n: '성당은 무료이고 탑 전망대만 유료입니다. 겨울(10월 중순부터)에는 평일 낮 12시 이후에만 열고 탑은 15:30에 입장을 마감합니다.|The minster is free; only the tower climb is ticketed. In winter (from mid-October) it opens on weekdays only from noon, with last tower entry at 15:30.', k: '2026-10' }),
   // Lucerne
   'lucerne-h1': v(15, 20),
   'lucerne-h2': v(60, 180, { s: 'https://www.lakelucerne.ch/en/', n: '유람선은 스위스 트래블 패스로 탈 수 있습니다.|Lake boats are covered by the Swiss Travel Pass.' }),
@@ -59,11 +59,11 @@ export const visitCh: Record<string, HighlightVisit> = {
   'zermatt-h2': v(150, 180, { c: 'daily', s: 'https://www.gornergrat.ch/en/', n: PASS, k: '2026-10', x: [['2026년 11월 2~14일은 공사로 운휴합니다.|Out of service 2–14 November 2026 for construction work.', '2026-11-14']] }),
   'zermatt-h3': v(30, 45),
   'zermatt-h4': v(60, 90, { n: '호수는 여름에만 얼음이 녹아 마터호른이 비칩니다.|The lake is ice-free—and mirrors the Matterhorn—only in summer.' }),
-  'zermatt-h5': v(45, 60, { s: 'https://zermatt.swiss/en/discover-experience/tradition-culture/museum' }),
+  'zermatt-h5': v(45, 60, { c: 'daily', s: 'https://zermatt.swiss/en/discover-experience/tradition-culture/museum', n: '성수기에는 매일 15:00~18:00에 엽니다.|In season open daily 15:00–18:00.', k: '2026-10', x: [['11월 1~19일은 닫고, 11월 20일~12월 17일은 금~일요일에만 엽니다.|Closed 1–19 November; 20 November–17 December open Friday to Sunday only.', '2026-12-17']] }),
   // Lausanne
   'lausanne-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.cathedrale-lausanne.ch/', n: '성당은 무료이고 탑만 유료입니다.|The cathedral is free; only the tower is ticketed.', k: '2026-10' }),
   'lausanne-h2': v(45, 60),
-  'lausanne-h3': v(90, 120, { n: '비수기에는 월요일에 쉽니다.|Closed on Mondays outside the summer season.' }),
+  'lausanne-h3': v(90, 120, { c: 'mon', s: 'https://www.olympics.com/museum/visit', n: '화~일 9:00~18:00이고 월요일(공휴일 제외)에 쉽니다.|Open Tue–Sun 9:00–18:00; closed Mondays except public holidays.', k: '2026-10' }),
   'lausanne-h4': v(30, 45),
   'lausanne-h5': v(15, 20),
   // Lugano

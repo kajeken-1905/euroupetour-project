@@ -19,7 +19,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sofia-h5': v(180, 300),
   'sofia-h6': v(15, 60, { c: 'mon', b: 'no', s: 'https://nationalgallery.bg/visiting/the-palace/', n: '국립 미술관으로 쓰이며 화~일 10:00~18:00에 엽니다. 국경일·성탄절·새해·부활절에도 쉽니다.|Now the National Gallery: Tue–Sun 10:00–18:00; also closed on national holidays, Christmas, New Year and Easter.', k: '2026-10' }),
   // Plovdiv
-  'plovdiv-h1': v(30, 45),
+  'plovdiv-h1': v(30, 45, { c: 'daily', s: 'https://oldplovdiv.bg/en/sights/3', n: '매일 엽니다. 4~10월 9:30~18:00, 11~3월 9:00~17:30이고 12:30~13:00은 점심시간입니다. 공연이 있는 날은 관람이 제한될 수 있습니다.|Open daily: 9:30–18:00 April–October and 9:00–17:30 November–March, with a 12:30–13:00 lunch break; access may be limited on performance days.', k: '2026-10' }),
   'plovdiv-h2': v(90, 120),
   'plovdiv-h3': v(45, 60),
   'plovdiv-h4': v(15, 20, { b: 'no', n: FREE }),
@@ -41,7 +41,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'nessebar-h2': v(45, 60),
   'nessebar-h3': v(10, 10),
   'nessebar-h4': v(60, 120),
-  'nessebar-h5': v(40, 45),
+  'nessebar-h5': v(40, 45, { c: 'daily', s: 'https://www.ancient-nessebar.com/html/main_en.php?menu=working', n: '공식 시간표상 연중 매일 열고, 철마다 닫는 시간이 다릅니다(겨울 17:00, 여름은 더 늦게).|Per the official timetable it opens every day of the year; closing time varies by season (17:00 in winter, later in summer).', k: '2026-10' }),
 
   // Bucharest
   'bucharest-h1': v(60, 90, { c: 'daily', b: 'req', n: '가이드 투어로만 들어가며 하루 전까지 전화로 예약해야 합니다(온라인 판매 없음, 표는 당일 현장 구매). 여권 원본이 없으면 입장할 수 없습니다.|Guided tours only, reserved by phone at least a day ahead (no online sales; tickets are bought on the day). You will not be admitted without your original passport.', k: '2026-10' }),
@@ -49,11 +49,11 @@ export const visitEast: Record<string, HighlightVisit> = {
   'bucharest-h3': v(15, 20),
   'bucharest-h4': v(60, 90),
   'bucharest-h5': v(15, 120, { n: '공연이 없는 시간에 내부 관람이 되는 날이 있습니다.|The interior can be visited on some days outside concert times.' }),
-  'bucharest-h6': v(90, 120, { n: '국립 미술관으로 쓰이며 월·화요일에 쉽니다.|Houses the National Museum of Art, closed Mondays and Tuesdays.' }),
+  'bucharest-h6': v(90, 120, { c: 'mon,tue', s: 'https://mnar.ro/viziteaza/1-program', n: '국립 미술관으로 쓰이며 수~금 10:00~18:00, 토·일 11:00~19:00에 엽니다. 매달 첫 수요일은 무료입니다.|Houses the National Museum of Art: Wed–Fri 10:00–18:00, Sat–Sun 11:00–19:00; free on the first Wednesday of the month.', k: '2026-10', x: [['2026년 10월 14~18일은 왕궁 역사 공간이 닫고, 18일에는 본관 전체가 닫습니다.|The historic palace rooms are closed 14–18 October 2026, and the whole main building on the 18th.', '2026-10-18']] }),
   // Brașov
   'brasov-h1': v(30, 45, { c: 'daily', s: 'https://bisericaneagra.ro/en/', n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.', k: '2026-10' }),
   'brasov-h2': v(20, 30),
-  'brasov-h3': v(60, 90, { n: '케이블카는 월요일 오전에 점검으로 쉽니다.|The cable car is shut for maintenance on Monday mornings.' }),
+  'brasov-h3': v(60, 90, { n: '케이블카는 화~일 10:00~23:00, 월요일은 오전 점검 뒤 12:00~23:00에 운행합니다.|The cable car runs Tue–Sun 10:00–23:00; on Mondays it opens at 12:00 after morning maintenance.', k: '2026-10' }),
   'brasov-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://bran-castle.com/', n: '브라쇼브에서 버스로 45분쯤 걸립니다.|About 45 minutes by bus from Brașov.', k: '2026-10' }),
   'brasov-h5': v(20, 30),
   // Sibiu
@@ -94,7 +94,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'goreme-h3': v(60, 90),
   'goreme-h4': v(40, 45),
   'goreme-h5': v(60, 90, { c: 'daily', t: MUZE, n: '통로가 좁고 낮아 폐소공포증이 있으면 힘듭니다.|The passages are low and narrow—difficult for the claustrophobic.', k: '2026-10' }),
-  'goreme-h6': v(30, 45, { t: MUZE }),
+  'goreme-h6': v(30, 45, { c: 'daily', s: 'https://muze.gov.tr/muze-detay?SectionId=ZPO01&DistId=ZPO', t: MUZE, n: '젤베·파샤바으 유적 입장권으로 봅니다. 매일 8:00~18:00(매표 17:15까지)입니다.|Covered by the Zelve–Paşabağ site ticket; open daily 8:00–18:00 (tickets until 17:15).', k: '2026-10' }),
   'goreme-h7': v(120, 180),
   'goreme-h8': v(60, 90),
   // Ankara
@@ -105,14 +105,14 @@ export const visitEast: Record<string, HighlightVisit> = {
   'ankara-h5': v(45, 60),
   // İzmir
   'izmir-h1': v(45, 60),
-  'izmir-h2': v(40, 45, { t: MUZE }),
+  'izmir-h2': v(40, 45, { c: 'daily', s: 'https://muze.gov.tr/muze-detay?sectionId=AGR01&distId=MRK', t: MUZE, k: '2026-10' }),
   'izmir-h3': v(10, 15),
   'izmir-h4': v(30, 45),
   'izmir-h5': v(180, 240, { c: 'daily', t: MUZE, n: '이즈미르에서 셀축까지 기차나 차로 1시간쯤 걸립니다. 그늘이 거의 없습니다.|About an hour from İzmir to Selçuk by train or road. There is very little shade.', k: '2026-10' }),
   // Antalya
   'antalya-h1': v(90, 120),
   'antalya-h2': v(45, 60),
-  'antalya-h3': v(90, 120, { t: MUZE }),
+  'antalya-h3': v(0, 0, { s: 'https://muze.gov.tr/muze-detay?SectionId=ANT01&DistId=ANT', t: MUZE, n: '옛 건물을 헐고 새 박물관을 짓느라 문을 닫았습니다(공식 상태: 관람 중단). 다시 여는 날짜는 아직 발표되지 않았습니다.|Closed while the old building is replaced by a new museum (official status: closed to visitors); no reopening date has been announced yet.', k: '2026-10', z: true }),
   'antalya-h4': v(120, 240),
   'antalya-h5': v(60, 75, { c: 'daily', t: MUZE, n: '안탈리아에서 차로 45분쯤 걸립니다.|About 45 minutes by road from Antalya.', k: '2026-10' }),
   // Bursa
@@ -130,9 +130,9 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Pamukkale
   'pamukkale-h1': v(90, 120, { c: 'daily', t: MUZE, n: '석회 테라스 위는 신발을 벗고 맨발로 걸어야 합니다. ' + HIERAPOLIS.split('|')[0] + '|You must walk the travertines barefoot. ' + HIERAPOLIS.split('|')[1], k: '2026-10' }),
   'pamukkale-h2': v(90, 120, { c: 'daily', t: MUZE, n: HIERAPOLIS, k: '2026-10' }),
-  'pamukkale-h3': v(20, 30, { n: HIERAPOLIS }),
-  'pamukkale-h4': v(60, 90, { n: '유적 입장권과 별도로 수영장 요금을 냅니다.|The pool has its own fee on top of the site ticket.' }),
-  'pamukkale-h5': v(30, 45),
+  'pamukkale-h3': v(20, 30, { c: 'daily', n: HIERAPOLIS, k: '2026-10' }),
+  'pamukkale-h4': v(60, 90, { c: 'daily', s: 'https://muze.gov.tr/muze-detay?DistId=PMK&SectionId=PMK01', n: '유적 입장권과 별도로 수영장 요금을 냅니다. 공식 안내상 2026년 10월 현재 운영 중입니다.|The pool has its own fee on top of the site ticket; officially open as of October 2026.', k: '2026-10' }),
+  'pamukkale-h5': v(30, 45, { c: 'daily', s: 'https://muze.gov.tr/muze-detay?SectionId=DHA01&DistId=MRK', n: '매일 8:00~17:30(매표 17:00까지)에 엽니다. 철에 따라 시간이 바뀝니다.|Open daily 8:00–17:30 (tickets until 17:00); hours change by season.', k: '2026-10' }),
 
   // Tbilisi
   'tbilisi-h1': v(45, 60, { n: '복원 공사로 성벽 안쪽이 닫혀 있던 곳입니다. 케이블카로 올라가 전망은 볼 수 있으며, 내부 재개방 여부는 현지에서 확인하세요.|The interior has been closed for restoration. The cable car still gives the view—check locally whether the fortress itself has reopened.' }),
@@ -179,7 +179,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Azerbaijan
   'baku-h1': v(20, 30, { n: '해가 진 뒤 건물 외벽에 불꽃 영상이 켜집니다.|The flame light show plays on the façades after dark.' }),
   'baku-h2': v(120, 150, { s: 'https://icherisheher.gov.az/en' }),
-  'baku-h3': v(30, 45, { s: 'https://icherisheher.gov.az/en' }),
+  'baku-h3': v(30, 45, { c: 'daily', s: 'https://icherisheher.gov.az/en', n: '매일 10:00~19:00에 열고 유료입니다.|Open daily 10:00–19:00; ticketed.', k: '2026-10' }),
   'sheki-h1': v(40, 45),
   'sheki-h2': v(20, 30),
   'sheki-h3': v(60, 90),

@@ -22,7 +22,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'salzburg-h3': v(90, 120),
   'salzburg-h4': v(45, 60, { c: 'daily', s: 'https://mozarteum.at/en/mozart-museums/mozarts-birthplace', k: '2026-10' }),
   'salzburg-h5': v(10, 15, { c: 'daily', s: 'https://www.festung-hohensalzburg.at/en/', k: '2026-10' }),
-  'salzburg-h6': v(20, 30, { s: 'https://www.salzburger-dom.at/en/', n: '관광 입장은 유료입니다.|Sightseeing entry is ticketed.' }),
+  'salzburg-h6': v(20, 30, { c: 'daily', s: 'https://www.salzburger-dom.at/besuch-planen/oeffnungszeiten?lang=de', n: '관람에는 보존 기부금 7유로(13세 이하 무료)를 냅니다. 월~토는 점심때 잠시 닫고 일요일은 13시부터 열며, 미사·연주회 중에는 관람할 수 없습니다.|Sightseeing costs a €7 upkeep contribution (free to 13). Mon–Sat it closes briefly at midday and on Sundays opens from 13:00; no sightseeing during services or concerts.', k: '2026-10' }),
   'salzburg-h7': v(10, 10),
   // Innsbruck
   'innsbruck-h1': v(15, 30),
@@ -35,7 +35,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'graz-h2': v(60, 75, { c: 'mon', s: 'https://www.museum-joanneum.at/en/kunsthaus-graz', k: '2026-10' }),
   'graz-h3': v(60, 90),
   'graz-h4': v(20, 30),
-  'graz-h5': v(90, 120, { n: '궁전 내부는 대략 4월부터 10월까지 가이드 투어로만 봅니다. 정원은 연중 엽니다.|The state rooms are by guided tour only, roughly April to October; the park is open all year.' }),
+  'graz-h5': v(90, 120, { c: 'mon', s: 'https://www.museum-joanneum.at/schloss-eggenberg-prunkraeume-und-gaerten', n: '궁전 내부(화려한 방들)는 3월 말~10월 말에만 화~일 가이드 투어(10·11·12·14·15·16시)로 봅니다. 정원은 연중 엽니다.|The state rooms open only from late March to late October, by guided tour Tue–Sun (10, 11, 12, 14, 15 and 16 h); the park is open all year.', k: '2026-10' }),
   // Hallstatt
   'hallstatt-h1': v(45, 90),
   'hallstatt-h2': v(180, 210, { b: 'rec', n: '푸니쿨라 교체 공사로 2025년 9월부터 닫았다가 2026년 8월 말 재개장했습니다. 겨울에는 쉬는 기간이 있습니다.|Closed from September 2025 for a new funicular and reopened at the end of August 2026. It shuts for part of the winter.', k: '2026-10' }),

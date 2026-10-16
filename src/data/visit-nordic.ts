@@ -3,7 +3,6 @@ import { v } from './visit-helper'
 
 const FREE = '입장은 무료입니다.|Entry is free.'
 const WEATHER = '날씨가 급변하니 출발 전에 예보와 도로 상황을 확인하세요.|Conditions change fast—check the forecast and roads before setting out.'
-const KODE = 'https://www.kodebergen.no/en'
 
 /** Denmark, Sweden, Finland, Norway, Iceland */
 export const visitNordic: Record<string, HighlightVisit> = {
@@ -62,10 +61,10 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'uppsala-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.svenskakyrkan.se/uppsaladomkyrka', n: FREE, k: '2026-10' }),
   'uppsala-h2': v(45, 60, { b: 'no', s: 'https://www.uu.se/vara-botaniska-tradgardar/besok-vara-tradgardar/oppettider', n: '정원은 연중 엽니다. 열대 온실은 유료이고 월요일에 쉽니다(화~금 9:00~15:00, 주말 12:00~15:00).|The garden is open all year; the tropical greenhouse is ticketed and closed on Mondays (Tue–Fri 9:00–15:00, weekends 12:00–15:00).', k: '2026-10' }),
   'uppsala-h3': v(30, 45),
-  'uppsala-h4': v(30, 60),
+  'uppsala-h4': v(30, 60, { c: 'mon', b: 'no', s: 'https://slottshistoriska.uppsala.se/en/visit-the-museum/opening-hours-and-accessibility/', n: '성 역사박물관과 미술관은 무료이고 화~일 12:00~17:00(목요일은 20:00까지)에 엽니다.|The castle history museum and art museum are free and open Tue–Sun 12:00–17:00 (to 20:00 on Thursdays).', k: '2026-10' }),
   'uppsala-h5': v(30, 45),
   // Kiruna
-  'kiruna-h1': v(20, 30, { n: '도시 이전 사업으로 2025년에 교회 건물 전체를 새 시가지로 옮겼습니다. 재개방 여부를 확인하세요.|The whole church was moved to the new town centre in 2025 as part of the city relocation—check whether it has reopened.' }),
+  'kiruna-h1': v(0, 0, { s: 'https://www.svenskakyrkan.se/jukkasjarvi/kiruna-kyrka', n: '2025년 8월 새 시가지로 옮긴 뒤 주변 공사와 내부 복원으로 닫혀 있고, 2027년 중에 다시 열 예정입니다.|Moved to the new town centre in August 2025; closed for groundwork and interior restoration, with reopening planned during 2027.', k: '2026-10', z: true }),
   'kiruna-h2': v(60, 90, { c: 'daily', s: 'https://www.icehotel.com/', n: '얼음으로 새로 짓는 겨울 호텔은 대략 12월부터 4월까지 볼 수 있고, 연중 운영하는 365관이 따로 있습니다.|The seasonal ice hotel stands from about December to April; a year-round section, Icehotel 365, is separate.', k: '2026-10' }),
   'kiruna-h3': v(180, 240, { n: '오로라는 대략 9월부터 3월 사이 맑은 밤에 볼 수 있습니다.|The aurora is visible on clear nights from roughly September to March.' }),
   'kiruna-h4': v(165, 180, { b: 'rec', s: 'https://kirunalapland.se/en/mine-tour/', n: '지하 540m 방문자 센터까지 관광 안내소에서 버스로 내려가며 약 3시간 걸립니다. 자리가 한정돼 키루나 라플란드 누리집 예약을 권합니다. 6세 이상만 참가합니다.|A bus from the tourist centre goes down to the visitor centre 540 m underground; allow about three hours. Places are limited, so book on the Kiruna Lapland site. Minimum age six.', k: '2026-10' }),
@@ -76,7 +75,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'helsinki-h3': v(60, 90),
   'helsinki-h4': v(30, 45),
   'helsinki-h5': v(20, 30, { c: 'daily', s: 'https://www.temppeliaukionkirkko.fi/en/', n: '1년 내내 매일 열지만 결혼식·장례식·일요 예배 때는 관광 입장이 중단됩니다.|Open every day of the year, but closed to sightseers during weddings, funerals and the Sunday service.', k: '2026-10' }),
-  'helsinki-h6': v(90, 120, { n: '섬은 연중 무료로 걸을 수 있고 야외 박물관 건물은 여름에만 엽니다.|The island is free all year; the open-air museum buildings open in summer only.' }),
+  'helsinki-h6': v(90, 120, { s: 'https://www.kansallismuseo.fi/en/seurasaarenulkomuseo/info', n: '섬은 연중 무료로 걸을 수 있고, 야외 박물관 건물은 5월 15일~9월 15일에만 엽니다(6월부터는 매일 11:00~17:00).|The island is free all year; the open-air museum buildings open only 15 May–15 September (daily 11:00–17:00 from June).', k: '2026-10' }),
   'helsinki-h7': v(10, 10),
   // Turku
   'turku-h1': v(90, 120, { c: 'mon', b: 'no', s: 'https://turunlinna.fi/en/opening-times-and-prices/', n: '화~일 10:00~17:00(6~8월 18:00까지)에 엽니다. 6월 19~21일·12월 6일에도 쉽니다.|Tue–Sun 10:00–17:00 (to 18:00 June–August); also closed 19–21 June and 6 December.', k: '2026-10' }),
@@ -102,7 +101,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'porvoo-h4': v(30, 45),
 
   // Oslo
-  'oslo-h1': v(20, 60, { n: '내부 가이드 투어는 여름에만 있고 예매가 필요합니다. 근위병 교대식은 매일 13시 30분입니다.|Guided tours of the interior run in summer only and need booking. The guard changes daily at 1:30 pm.' }),
+  'oslo-h1': v(20, 60, { s: 'https://www.kongehuset.no/besok-og-kulturtilbud/besok-det-kongelige-slott', n: '내부 가이드 투어는 여름(대략 6월 말~8월 중순)에만 있고 티켓마스터에서 예매합니다. 근위병 교대식은 매일 13시 30분입니다.|Interior tours run only in summer (roughly late June to mid-August), booked via Ticketmaster. The guard changes daily at 1:30 pm.', k: '2026-10' }),
   'oslo-h2': v(30, 45, { b: 'no', s: 'https://www.operaen.no/en/', n: '지붕 위는 무료로 걸어 올라갑니다.|Walking up onto the roof is free.', k: '2026-10' }),
   'oslo-h3': v(60, 90, { c: 'daily', b: 'no', s: 'https://vigeland.museum.no/en', n: '공원은 24시간 무료입니다.|The park is free and open round the clock.', k: '2026-10' }),
   'oslo-h4': v(45, 60),
@@ -114,7 +113,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'bergen-h2': v(90, 120, { c: 'daily', s: 'https://www.floyen.no/en', n: '푸니쿨라로 6분쯤 오릅니다.|About six minutes up by funicular.', k: '2026-10', x: [['2026년 11월 2~5일은 연례 점검으로 운휴합니다.|Closed 2–5 November 2026 for annual maintenance.', '2026-11-05']] }),
   'bergen-h3': v(30, 45),
   'bergen-h4': v(75, 90, { c: 'mon', s: 'https://www.kodebergen.no/en/museums/troldhaugen', n: '5월 초~9월 중순에 화~일요일 열고, 그 밖의 기간에는 행사·공연 때만 엽니다.|Open Tuesday to Sunday from early May to mid-September; otherwise only for events and concerts.', k: '2026-10' }),
-  'bergen-h5': v(90, 120, { s: KODE, n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.' }),
+  'bergen-h5': v(90, 120, { c: 'mon', s: 'https://www.kodebergen.no/en/visit', n: '미술관들은 월요일에 쉬고, 가을·겨울에는 화요일에도 닫는 건물이 있습니다. 건물마다 시간이 다릅니다.|The art museums close on Mondays, and some buildings also on Tuesdays in autumn and winter; hours vary by building.', k: '2026-10' }),
   'bergen-h6': v(90, 120, { c: 'daily', s: 'https://ulriken643.no/en/', n: '강풍이 불면 케이블카가 서니 당일 운행 여부를 확인하세요. 4~9월 기준입니다.|The cable car stops in high winds—check on the day. As listed for April to September.', k: '2026-10' }),
   // Tromsø
   'tromso-h1': v(20, 30, { c: 'daily', s: 'https://ishavskatedralen.no/en/', k: '2026-10' }),
@@ -173,6 +172,6 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'selfoss-h1': v(45, 60, { b: 'no', n: '입장은 무료이고 간헐천은 5~10분마다 솟습니다.|Free; the geyser erupts every five to ten minutes.' }),
   'selfoss-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://gullfoss.is/opening-hours/', n: '전망 지역은 24시간 무료로 열려 있습니다. 겨울에는 얼음 때문에 아래쪽 전망로가 닫히기도 합니다.|The viewing area is free and open 24/7; in winter the lower paths may close because of ice.', k: '2026-10' }),
   'selfoss-h3': v(90, 120, { b: 'no', s: 'https://www.thingvellir.is/en/', n: '입장은 무료이고 주차만 유료입니다.|Free; only parking is charged.', k: '2026-10' }),
-  'selfoss-h4': v(30, 40, { s: 'https://kerid.is/', n: '소액의 입장료가 있습니다.|A small entry fee applies.' }),
+  'selfoss-h4': v(30, 40, { c: 'daily', s: 'https://kerid.is/', n: '해가 떠 있는 동안 열고, 입구에서 700크로나의 이용료를 냅니다.|Open in daylight hours; a service fee of ISK 700 is paid at the entrance.', k: '2026-10' }),
   'selfoss-h5': v(30, 45),
 }

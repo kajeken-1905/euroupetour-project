@@ -37,7 +37,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'london-h14': v(60, 90, { n: '포토벨로 마켓은 토요일이 가장 크고 일요일에는 대부분 쉽니다.|Portobello Market is biggest on Saturdays and largely shut on Sundays.' }),
   // Windsor
   'windsor-h1': v(150, 180, { c: 'tue,wed', b: 'rec', s: RCT_WINDSOR, k: '2026-10' }),
-  'windsor-h2': v(20, 30, { s: RCT_WINDSOR, n: '성 입장권에 포함되며 일요일에는 예배만 있어 관광 입장이 없습니다.|Included in the castle ticket; on Sundays it is open for worship only.' }),
+  'windsor-h2': v(20, 30, { c: 'sun,tue,wed', b: 'rec', s: RCT_WINDSOR, n: '성 입장권에 포함됩니다. 성이 화·수요일에 쉬고, 일요일에는 예배만 있어 관광 입장이 없습니다.|Included in the castle ticket. The castle is closed on Tuesdays and Wednesdays, and on Sundays the chapel is open for worship only.', k: '2026-10' }),
   'windsor-h3': v(30, 60),
   'windsor-h4': v(30, 45),
   // Canterbury
@@ -94,7 +94,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Salisbury
   'salisbury-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.english-heritage.org.uk/visit/places/stonehenge/', n: '시간 지정 입장이며 솔즈베리에서 버스로 30분쯤 걸립니다.|Entry is by timed ticket; it is about 30 minutes by bus from Salisbury.', k: '2026-10' }),
   'salisbury-h2': v(60, 90, { s: 'https://www.salisburycathedral.org.uk/', n: '월~토요일 9:30~17:00(마지막 입장 16:15)에 관람하고 일요일은 시간이 다릅니다. 예배·행사로 바뀔 수 있습니다.|Sightseeing Monday–Saturday 9:30–17:00 (last entry 16:15), with different Sunday hours; services and events can change this.', k: '2026-10' }),
-  'salisbury-h3': v(45, 60, { s: 'https://www.english-heritage.org.uk/visit/places/old-sarum/' }),
+  'salisbury-h3': v(45, 60, { c: 'daily', s: 'https://www.english-heritage.org.uk/visit/places/old-sarum/', n: '매일 10:00~17:00(마지막 입장 16:30)입니다.|Open daily 10:00–17:00 (last entry 16:30).', k: '2026-10' }),
   'salisbury-h4': v(60, 90, { b: 'no', s: 'https://www.nationaltrust.org.uk/visit/wiltshire/avebury', n: '거석은 무료로 자유롭게 볼 수 있습니다. 주차장은 유료입니다.|The stones are free to walk among; the car park is paid.', k: '2026-10' }),
   // St Ives
   'st-ives-h1': v(30, 45),
@@ -182,7 +182,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'snowdonia-h2': v(150, 180, { b: 'rec', s: 'https://snowdonrailway.co.uk/', n: '3월 말부터 10월 말까지만 다니고 강풍이 불면 운휴합니다. 주말과 방학에는 일찍 매진됩니다.|Runs from late March to late October only and stops in high winds. Weekends and school holidays sell out early.', k: '2026-10' }),
   'snowdonia-h3': v(45, 60),
   'snowdonia-h4': v(20, 30),
-  'snowdonia-h5': v(120, 180, { s: 'https://portmeirion.wales/' }),
+  'snowdonia-h5': v(120, 180, { c: 'daily', s: 'https://portmeirion.wales/visit/plan-your-visit/opening-times', n: '매일 9:30에 열고, 3월 말~11월 1일은 18:30(마지막 입장 17:00), 그 밖에는 17:30(마지막 입장 16:30)에 닫습니다. 12월 25·26일은 닫습니다.|Opens daily at 9:30, closing 18:30 (last entry 17:00) from late March to 1 November and 17:30 (last entry 16:30) otherwise; closed 25–26 December.', k: '2026-10' }),
   // Conwy
   'conwy-h1': v(75, 90, { s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-castle', k: '2026-10' }),
   'conwy-h2': v(30, 45, { b: 'no', s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-town-walls', n: '무료로 걸을 수 있습니다.|Free to walk.', k: '2026-10', x: [['감시탑~윙 게이트 구간은 안전 공사로 닫혀 있습니다(2027년 부활절 재개방 목표).|The stretch between the Watch Tower and the Wing Gate is closed for safety works (aiming to reopen by Easter 2027).', '2027-03-28']] }),
@@ -196,7 +196,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Giant's Causeway
   'giants-causeway-h1': v(90, 120, { c: 'daily', s: 'https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway', n: '주상절리 자체는 무료이고 방문자 센터와 주차장이 유료입니다.|The stones are free; the visitor centre and car park charge.', k: '2026-10' }),
   'giants-causeway-h2': v(60, 90, { b: 'req', s: 'https://www.nationaltrust.org.uk/visit/northern-ireland/carrick-a-rede', n: '다리 건너기는 시간 지정 예약이며 강풍이 불면 닫습니다.|Crossing is by timed ticket and closes in high winds.', k: '2026-10' }),
-  'giants-causeway-h3': v(30, 45, { s: 'https://discovernorthernireland.com/listing/dunluce-castle/67501101/' }),
+  'giants-causeway-h3': v(30, 45, { c: 'daily', s: 'https://discovernorthernireland.com/listing/dunluce-castle/67501101/', n: '매일 열고 3~10월 9:30~17:00, 11~2월 9:00~16:00(마지막 입장은 닫기 30분 전)입니다. 날씨가 나쁘면 닫을 수 있습니다.|Open daily, 9:30–17:00 March–October and 9:00–16:00 November–February (last entry 30 minutes before closing); may shut in bad weather.', k: '2026-10' }),
   'giants-causeway-h4': v(20, 30),
   'giants-causeway-h5': v(60, 75, { b: 'rec', s: 'https://bushmills.com/pages/distillery', k: '2026-10' }),
   // Derry
@@ -219,7 +219,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'galway-h5': v(360, 480),
   // Cork
   'cork-h1': v(30, 45, { c: 'sun', s: 'https://www.corkcity.ie/en/english-market/', n: '일요일과 공휴일에 쉽니다.|Closed on Sundays and bank holidays.', k: '2026-10' }),
-  'cork-h2': v(30, 45),
+  'cork-h2': v(30, 45, { s: 'https://stfinbarres.ie/visit/', n: '월~토 9:00~17:00(공휴일 포함) 열고, 일요일은 4~10월에만 12:30~14:00·16:30~17:30에 관람할 수 있습니다. 11~3월 일요일은 예배만 있습니다.|Open Mon–Sat 9:00–17:00 (bank holidays included); Sundays only April–October, 12:30–14:00 and 16:30–17:30. November–March Sundays are for services only.', k: '2026-10' }),
   'cork-h3': v(30, 45),
   'cork-h4': v(30, 45),
   'cork-h5': v(120, 180, { c: 'daily', s: 'https://blarneycastle.ie/', k: '2026-10' }),

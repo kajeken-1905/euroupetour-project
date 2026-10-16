@@ -2,7 +2,6 @@ import type { HighlightVisit } from '../types'
 import { v } from './visit-helper'
 
 const FREE = '입장은 무료입니다.|Entry is free.'
-const SHOW = '공연 관람은 예매가 필요합니다.|Performances need advance tickets.'
 const ALH = 'https://www.alhambra-patronato.es/en'
 const ALH_T = 'https://tickets.alhambra-patronato.es/en/'
 const ALH_NOTE = '알람브라 입장권으로 봅니다.|Visited on the Alhambra ticket.'
@@ -17,9 +16,9 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'madrid-h5': v(15, 20),
   'madrid-h4': v(20, 30),
   'madrid-h11': v(30, 45, { c: 'daily', b: 'no', s: 'https://mercadodesanmiguel.es/en/', k: '2026-10' }),
-  'madrid-h13': v(15, 180, { s: 'https://www.teatroreal.es/en', n: SHOW }),
+  'madrid-h13': v(15, 180, { c: 'daily', s: 'https://www.teatroreal.es/en', t: 'https://www.teatroreal.es/en/tours', n: '공연 관람은 예매가 필요합니다. 건물 가이드 투어는 매일 오전에 있습니다(영어는 화요일 제외 10:15).|Performances need advance tickets. Building tours run every morning (in English at 10:15 except Tuesdays).', k: '2026-10' }),
   'madrid-h3': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.patrimonionacional.es/en/visita/royal-palace-madrid', t: 'https://tickets.patrimonionacional.es/en', n: '국가 행사가 있는 날은 예고 없이 닫기도 합니다.|It can close at short notice for state ceremonies.', k: '2026-10' }),
-  'madrid-h6': v(20, 30, { b: 'no', n: '성당은 무료(기부금)입니다.|Free (donation suggested).' }),
+  'madrid-h6': v(20, 30, { c: 'daily', b: 'no', s: 'https://catedraldelaalmudena.es/', n: '성당은 매일 10:00~20:30(7~8월은 21:00까지) 열고 기부금만 받습니다. 박물관과 돔은 월~토 10:00~14:30이고 일요일·의무 축일에는 닫습니다.|The cathedral opens daily 10:00–20:30 (to 21:00 in July–August) and asks only for a donation. The museum and dome open Mon–Sat 10:00–14:30 and close on Sundays and holy days.', k: '2026-10' }),
   'madrid-h7': v(10, 15),
   'madrid-h8': v(10, 10),
   'madrid-h1': v(180, 240, { c: 'daily', b: 'rec', s: 'https://www.museodelprado.es/en', t: 'https://entradas.museodelprado.es/en', n: '폐관 전 2시간은 무료 입장이라 줄이 깁니다.|Entry is free for the last two hours of the day, with long queues.', k: '2026-10' }),
@@ -62,10 +61,10 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'barcelona-h19': v(15, 30),
   'barcelona-h23': v(10, 10),
   'barcelona-h5': v(60, 120),
-  'barcelona-h15': v(45, 60, { n: '관광 입장은 유료이고 어깨와 무릎을 가려야 합니다.|Sightseeing entry is ticketed; cover shoulders and knees.' }),
+  'barcelona-h15': v(45, 60, { c: 'daily', s: 'https://catedralbcn.org/en/tourist-visit/visiting-hours/', t: 'https://tickets.catedralbcn.org/en', n: '관광 입장은 평일 9:30~18:30, 토요일 9:30~17:15, 일요일·축일 14:00~17:00이고 유료입니다. 어깨와 무릎을 가려야 합니다.|Tourist entry (ticketed) runs 9:30–18:30 on weekdays, 9:30–17:15 on Saturdays and 14:00–17:00 on Sundays and holy days; cover shoulders and knees.', k: '2026-10' }),
   'barcelona-h3': v(90, 120),
   'barcelona-h21': v(10, 15, { c: 'daily', b: 'no', s: 'https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-temple-daugust', n: '입장 무료. 월 10:00~14:00, 화~토 10:00~19:00, 일 10:00~20:00.|Free. Mon 10:00–14:00, Tue–Sat 10:00–19:00, Sun 10:00–20:00.', k: '2026-10' }),
-  'barcelona-h24': v(15, 20),
+  'barcelona-h24': v(15, 20, { c: 'mon', s: 'https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/placa-del-rei', n: '바르셀로나 역사박물관(MUHBA) 플라사 델 레이 관람 구역에 들어 있습니다. 화~토 10:00~19:00, 일 10:00~20:00이고 매달 첫 일요일과 일요일 15시 이후는 무료입니다.|Part of the MUHBA Plaça del Rei site: Tue–Sat 10:00–19:00, Sun 10:00–20:00; free on the first Sunday of the month and on Sundays from 15:00.', k: '2026-10' }),
   'barcelona-h22': v(10, 10),
   'barcelona-h13': v(90, 120, { c: 'mon', b: 'rec', s: 'https://museupicassobcn.cat/en', k: '2026-10' }),
   'barcelona-h16': v(50, 60, { b: 'rec', s: 'https://www.palaumusica.cat/en', n: '내부는 가이드 투어나 공연 관람으로 봅니다.|The interior is seen on a guided tour or at a concert.', k: '2026-10' }),
@@ -73,7 +72,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'barcelona-h6': v(60, 75, { c: 'daily', b: 'rec', s: 'https://www.casabatllo.es/en/', k: '2026-10' }),
   'barcelona-h7': v(75, 90, { c: 'daily', b: 'rec', k: '2026-10' }),
   'barcelona-h1': v(90, 120, { c: 'daily', b: 'req', s: 'https://sagradafamilia.org/en/', t: 'https://sagradafamilia.org/en/tickets', n: '표는 온라인 시간 지정 예약으로만 팔고 성수기에는 며칠 전에 매진됩니다. 탑은 표가 따로입니다.|Tickets are online and timed only, selling out days ahead in season. The towers need a separate ticket.', k: '2026-10' }),
-  'barcelona-h14': v(60, 75, { s: 'https://casavicens.org/' }),
+  'barcelona-h14': v(60, 75, { c: 'daily', s: 'https://casavicens.org/', n: '3~10월은 9:00~20:00, 11~2월은 9:00~18:00이고 12월 25일은 닫습니다.|Open daily 9:00–20:00 March–October and 9:00–18:00 November–February; closed 25 December.', k: '2026-10', x: [['2027년 1월 7~14일은 휴관합니다.|Closed 7–14 January 2027.', '2027-01-14']] }),
   'barcelona-h2': v(90, 120, { c: 'daily', b: 'req', s: 'https://parkguell.barcelona/en', n: '시간 지정 예약제이고 현장 매표소가 없습니다.|Timed booking only—there is no ticket office on site.', k: '2026-10' }),
   'barcelona-h20': v(20, 30),
   'barcelona-h8': v(120, 180),
@@ -81,7 +80,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Montserrat
   'montserrat-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.montserratvisita.com/en', n: '2023년부터 관광객의 성당 입장은 시간 지정 유료 입장권으로 합니다. 현장에서도 사지만 붐비는 날은 정원이 차므로 온라인 예매를 권합니다.|Since 2023 tourists enter the basilica on a paid timed ticket. It is sold on site too, but busy days fill up, so book online.', k: '2026-10' }),
   'montserrat-h2': v(60, 120),
-  'montserrat-h3': v(60, 90, { s: 'https://www.cremallerademontserrat.cat/en/', n: '정기 점검 기간에는 운휴합니다.|Closed during annual maintenance.' }),
+  'montserrat-h3': v(60, 90, { s: 'https://www.cremallerademontserrat.cat/en/', n: '해마다 정기 점검 기간에는 운휴합니다. 같은 수도원에서 출발하는 산타 코바 푸니쿨라는 당분간 운행하지 않습니다.|Closed during its annual maintenance period. The Santa Cova funicular from the same monastery is out of service until further notice.', k: '2026-10' }),
   'montserrat-h4': v(20, 30, { b: 'rec', s: 'https://www.montserratvisita.com/en', n: '검은 성모상을 가까이서 보려면 성모상 접견(Throne) 입장권이 필요하며, 온라인이 현장보다 쌉니다.|Getting close to the statue needs the Throne of Our Lady ticket, which is cheaper online than at the ticket office.', k: '2026-10' }),
   // Girona
   'girona-h1': v(45, 60, { c: 'daily', s: 'https://catedraldegirona.cat/en/', n: '일요일은 12시부터 엽니다. 12월 25일과 1월 1일은 휴무입니다.|Opens at noon on Sundays. Closed 25 December and 1 January.', k: '2026-10' }),
@@ -91,7 +90,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'girona-h5': v(20, 30, { c: 'daily', s: 'https://www.banysarabs.cat/en/', n: '1월 1·6일과 12월 일부 날에는 쉽니다.|Closed 1 and 6 January and some days in December.', k: '2026-10' }),
   // Zaragoza
   'zaragoza-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://catedraldezaragoza.es/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The basilica is free; only the tower lift is ticketed.', k: '2026-10' }),
-  'zaragoza-h2': v(60, 75, { n: '아라곤 의회가 쓰는 건물이라 회의가 있는 날은 관람이 제한됩니다.|Home to the Aragonese parliament, so visits are restricted on sitting days.' }),
+  'zaragoza-h2': v(60, 75, { c: 'daily', s: 'https://www.cortesaragon.es/Visitas-e-informacion.2270.0.html', n: '4~10월은 매일 10:00~18:00, 11~3월은 월~토 10:00~18:00·일 10:00~14:00입니다. 아라곤 의회 건물이라 본회의가 있는 날은 관람이 제한될 수 있습니다.|Open daily 10:00–18:00 April–October; November–March Mon–Sat 10:00–18:00 and Sun 10:00–14:00. As the seat of the Aragonese parliament, visits can be restricted on sitting days.', k: '2026-10' }),
   'zaragoza-h3': v(45, 60, { s: 'https://catedraldezaragoza.es/', n: '월~토 10:00~14:30, 16:00~20:00, 일요일 10:00~12:00, 16:00~20:00에 엽니다. 종교 행사로 바뀔 수 있습니다.|Open Monday–Saturday 10:00–14:30 and 16:00–20:00, Sunday 10:00–12:00 and 16:00–20:00; religious events can change this.', k: '2026-10' }),
   'zaragoza-h4': v(20, 30),
   'zaragoza-h5': v(30, 45),
@@ -111,7 +110,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Seville
   'seville-h2': v(75, 90, { c: 'daily', b: 'rec', s: SEV_CAT, n: '입장권에 히랄다 탑이 포함됩니다.|The ticket includes the Giralda.', k: '2026-10' }),
   'seville-h6': v(30, 40, { c: 'daily', s: SEV_CAT, n: '대성당 입장권으로 오르며 계단 대신 경사로 35개를 걷습니다.|Climbed on the cathedral ticket, by 35 ramps rather than stairs.', k: '2026-10' }),
-  'seville-h7': v(30, 45, { b: 'no', n: FREE }),
+  'seville-h7': v(30, 45, { c: 'mon', b: 'no', s: 'https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/agi/visitas.html', n: '무료이고 예약 없이 들어갑니다. 화~토 9:30~17:00, 일요일·공휴일 10:00~14:00입니다.|Free with no booking. Open Tue–Sat 9:30–17:00, Sundays and holidays 10:00–14:00.', k: '2026-10' }),
   'seville-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://alcazarsevilla.org/', n: '시간 지정 입장이며 성수기에는 며칠 전에 매진되니 온라인 예약을 권합니다. 현장 매표소(파티오 데 반데라스)는 카드 결제만 됩니다. 예약한 이름과 여권이 같아야 합니다.|Timed entry that sells out days ahead in season, so book online. The ticket office on Patio de Banderas takes cards only. The name on the booking must match your passport.', k: '2026-10' }),
   'seville-h9': v(10, 15),
   'seville-h5': v(30, 45),
@@ -131,7 +130,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'granada-h7': v(20, 30, { c: 'daily', b: 'no', s: ALH, n: '알람브라 안에 있지만 궁전 건물 자체는 표 없이 들어갑니다.|Inside the Alhambra, but the palace itself can be entered without a ticket.', k: '2026-10' }),
   'granada-h11': v(15, 20, { c: 'daily', s: ALH, t: ALH_T, n: '나스르 궁전 관람 동선 안에 있습니다.|Part of the Nasrid Palaces route.', k: '2026-10' }),
   'granada-h3': v(45, 60, { c: 'daily', s: ALH, t: ALH_T, n: ALH_NOTE, k: '2026-10' }),
-  'granada-h4': v(30, 45, { s: 'https://catedraldegranada.com/' }),
+  'granada-h4': v(30, 45, { s: 'https://catedraldegranada.com/', n: '연중 관람할 수 있지만 미사와 종교 행사 중에는 관광 입장이 안 되고, 시간이 예고 없이 바뀔 수 있습니다. 12월 25일·1월 1일은 닫습니다.|Open to visitors all year except during services and religious events; hours can change without notice. Closed 25 December and 1 January.', k: '2026-10' }),
   'granada-h6': v(30, 40, { c: 'daily', s: 'https://capillarealgranada.com/en/', k: '2026-10' }),
   'granada-h10': v(20, 30),
   'granada-h9': v(10, 15),
@@ -158,7 +157,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'nerja-h5': v(15, 20),
   // Gibraltar
   'gibraltar-h1': v(180, 240, { n: '바위산 위쪽은 자연보호구역 입장권이 필요합니다. 국경을 넘을 때 여권을 가져가세요.|The Upper Rock needs a Nature Reserve ticket. Carry your passport for the border.' }),
-  'gibraltar-h2': v(30, 45, { n: '강풍이 불면 운휴합니다.|Stops running in high winds.' }),
+  'gibraltar-h2': v(0, 0, { s: 'https://naturereserve.gi/experiences/cable-car/', n: '2025년 11월부터 케이블카 전체를 다시 짓는 공사로 운휴 중이며 2027년에 다시 열 예정입니다. 그동안은 미니버스 투어나 걸어서 올라갑니다.|Closed since November 2025 for a complete rebuild, expected to reopen in 2027. Until then, go up by minibus tour or on foot.', k: '2026-10', z: true }),
   'gibraltar-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://visitgibraltar.gi/see-and-do/st-michaels-cave', t: 'https://naturereserve.gi', n: '자연보호구역 입장권에 포함됩니다. 10~4월 9:00~18:15, 5~9월 9:30~19:15.|Included in the Nature Reserve ticket. Open 9:00–18:15 October–April, 9:30–19:15 May–September.', k: '2026-10' }),
   'gibraltar-h4': v(20, 30, { n: '원숭이에게 먹이를 주면 벌금을 뭅니다. 가방과 음식을 조심하세요.|Feeding the monkeys is fined. Watch your bags and food.' }),
   'gibraltar-h5': v(20, 30),
@@ -209,15 +208,15 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'porto-h8': v(30, 45, { c: 'sun', s: 'https://mercadobolhao.pt/en/', k: '2026-10' }),
   'porto-h9': v(10, 15),
   // Braga
-  'braga-h1': v(75, 90, { b: 'no', s: 'https://bomjesus.pt/en/', n: '성지는 무료이고 수력 푸니쿨라만 유료입니다.|The sanctuary is free; only the water-powered funicular charges.' }),
+  'braga-h1': v(75, 90, { c: 'daily', b: 'no', s: 'https://bomjesus.pt/en/', n: '성지는 무료이고 수력 엘리베이터(편도 2.5유로)만 유료입니다. 대성당은 매일 여름 8:00~19:00, 겨울 9:00~18:00이고 미사 중에는 관람할 수 없습니다.|The sanctuary is free; only the water-powered funicular charges (€2.50 one way). The basilica opens daily 8:00–19:00 in summer and 9:00–18:00 in winter, with no visits during services.', k: '2026-10' }),
   'braga-h2': v(30, 45, { c: 'daily', s: 'https://se-braga.pt/', n: '매일 9:30~13:00, 14:30~18:00에 관람하며, 보물 박물관 코스는 월요일에 쉽니다. 12월 25일은 휴무입니다.|Visits run daily 9:30–13:00 and 14:30–18:00; the treasury museum route closes on Mondays. Closed 25 December.', k: '2026-10' }),
   'braga-h3': v(15, 20),
   'braga-h4': v(10, 10),
   'braga-h5': v(30, 45),
   'braga-h6': v(10, 15),
   // Guimarães
-  'guimaraes-h1': v(30, 40),
-  'guimaraes-h2': v(60, 75),
+  'guimaraes-h1': v(30, 40, { c: 'daily', s: 'https://pacodosduques.gov.pt/planear-visita/bilhetica-horarios/?lang=en', n: '매일 10:00~18:00(마지막 입장 17:30)입니다. 성의 망루는 당분간 닫혀 있습니다.|Open daily 10:00–18:00 (last entry 17:30). The keep tower is temporarily closed.', k: '2026-10' }),
+  'guimaraes-h2': v(60, 75, { c: 'daily', s: 'https://pacodosduques.gov.pt/planear-visita/bilhetica-horarios/?lang=en', n: '매일 10:00~18:00(마지막 입장 17:30)입니다. 보수 공사로 일부 방이 닫혀 있고 승강기를 못 쓸 수 있습니다.|Open daily 10:00–18:00 (last entry 17:30). Restoration work closes some rooms and may put the lift out of use.', k: '2026-10' }),
   'guimaraes-h3': v(15, 20),
   'guimaraes-h4': v(60, 90),
   'guimaraes-h5': v(75, 90),
@@ -231,7 +230,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Coimbra
   'coimbra-h1': v(120, 150, { c: 'daily', b: 'rec', s: UC, k: '2026-10' }),
   'coimbra-h2': v(20, 20, { b: 'req', s: UC, n: '대학 입장권에 적힌 시간에만 들어가며 20분쯤 머뭅니다.|Entered only at the time on your university ticket, for about 20 minutes.', k: '2026-10' }),
-  'coimbra-h3': v(20, 30),
+  'coimbra-h3': v(20, 30, { c: 'daily', s: 'https://www.upaeminium.pt/patrimonio-santa-cruz/', n: '월~토 9:30~16:30, 일요일·종교 축일 13:00~17:00에 관람합니다. 성당 안쪽 관람 구역은 5유로입니다. 1월 1일·부활절·12월 25일과 대학 축제 행렬 날 등은 닫습니다.|Visits Mon–Sat 9:30–16:30, Sundays and religious holidays 13:00–17:00; the monument circuit is €5. Closed 1 January, Easter Sunday, 25 December and on university parade days, among others.', k: '2026-10' }),
   'coimbra-h4': v(20, 30),
   'coimbra-h5': v(30, 45),
   'coimbra-h6': v(10, 10),
@@ -264,11 +263,11 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lisbon-h7': v(20, 30),
   'lisbon-h8': v(30, 45, { c: 'sun', s: 'https://www.museuarqueologicodocarmo.pt/', k: '2026-10' }),
   'lisbon-h9': v(30, 40, { c: 'daily', s: 'https://padraodosdescobrimentos.pt/en/', k: '2026-10' }),
-  'lisbon-h10': v(10, 15, { n: '2025년 9월 글로리아 푸니쿨라 사고 뒤로 운행이 중단됐습니다. 재개 여부를 확인하세요.|Suspended since the Glória funicular accident in September 2025—check whether it is running again.' }),
+  'lisbon-h10': v(10, 15, { n: '2025년 9월 글로리아 푸니쿨라 사고 뒤로 운행이 멈췄고, 2026년 9월 현재도 재개 날짜가 정해지지 않았습니다. 가기 전에 운행 여부를 확인하세요.|Suspended since the Glória funicular accident in September 2025, with no restart date as of September 2026—check before you go.' }),
   'lisbon-h11': v(30, 45, { c: 'sun', s: 'https://www.sedelisboa.pt/', n: '일요일과 종교 축일에는 관광 입장이 없습니다.|No visits on Sundays and holy days.', k: '2026-10' }),
   'lisbon-h12': v(45, 60, { s: 'https://www.carris.pt/en/travel/carreiras/28e/', n: '종점(마르팅 모니스)에서 타야 앉을 수 있고 소매치기가 많습니다.|Board at the Martim Moniz terminus for a seat, and watch for pickpockets.' }),
   'lisbon-h13': v(15, 20),
-  'lisbon-h14': v(15, 20, { n: '2025년 9월 사고 뒤 점검으로 운행이 중단됐습니다. 재개 여부를 확인하세요.|Out of service for checks since September 2025—confirm whether it has reopened.' }),
+  'lisbon-h14': v(15, 20, { n: '2025년 9월 글로리아 푸니쿨라 사고 뒤 점검으로 운행이 멈췄고, 2026년 9월 현재도 재개 날짜가 정해지지 않았습니다. 가기 전에 운행 여부를 확인하세요.|Out of service for checks since the Glória accident in September 2025, with no reopening date as of September 2026—check before you go.' }),
   'lisbon-h15': v(15, 20),
   'lisbon-h16': v(10, 15),
   'lisbon-h17': v(10, 15),
@@ -304,7 +303,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'faro-h4': v(20, 30, { n: '뼈 예배당은 유료입니다.|The bone chapel has an entry fee.' }),
   'faro-h5': v(120, 180),
   // Funchal
-  'funchal-h1': v(60, 90, { n: '편도 15분쯤 걸리고, 내려올 때는 썰매(토보간)를 타기도 합니다.|About 15 minutes each way; many come down by wicker toboggan.' }),
+  'funchal-h1': v(60, 90, { c: 'daily', s: 'https://www.madeiracablecar.com/', n: '매일 9:00부터 운행하고 마지막 탑승은 17:45입니다. 편도 15분쯤 걸리고, 내려올 때는 썰매(토보간)를 타기도 합니다.|Runs daily from 9:00, last ride 17:45. About 15 minutes each way; many come down by wicker toboggan.', k: '2026-10' }),
   'funchal-h2': v(75, 90, { c: 'daily', n: '12월 25일만 쉽니다.|Closed only on 25 December.', k: '2026-10' }),
   'funchal-h3': v(30, 45, { c: 'sun', n: '일요일과 공휴일에 쉬고 토요일은 오후 2시에 닫습니다.|Closed on Sundays and public holidays; Saturdays end at 2pm.', k: '2026-10' }),
   'funchal-h4': v(15, 20, { c: 'daily', b: 'no', s: 'https://visit.funchal.pt/item/se-do-funchal/?lang=en', n: '입장은 무료이고 미사 중에는 조용히 둘러봐야 합니다.|Free; services are held daily, so visit quietly.', k: '2026-10' }),
