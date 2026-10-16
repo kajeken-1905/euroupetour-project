@@ -111,8 +111,10 @@ export const ui = {
   countryFacts: { ko: '국가 정보', en: 'Country facts' },
   openMaps: { ko: 'Google Maps에서 열기', en: 'Open in Google Maps' },
   viewPhotos: { ko: '사진 보기', en: 'Photos' },
-  rating: { ko: '별점', en: 'Rating' },
-  reviews: { ko: '리뷰', en: 'reviews' },
+  michelin_star3: { ko: '미쉐린 ★★★', en: 'Michelin ★★★' },
+  michelin_star2: { ko: '미쉐린 ★★', en: 'Michelin ★★' },
+  michelin_star1: { ko: '미쉐린 ★', en: 'Michelin ★' },
+  michelin_bib: { ko: '빕 구르망', en: 'Bib Gourmand' },
   back: { ko: '이전 페이지', en: 'Previous page' },
   limitedCategory: {
     ko: '이 도시에서 해당 카테고리 추천이 제한적입니다.',
@@ -123,8 +125,8 @@ export const ui = {
     en: 'No confirmed Korean restaurant in this city.',
   },
   disclaimer: {
-    ko: '별점·영업정보는 방문 전 Google Maps에서 재확인하세요.',
-    en: 'Please reconfirm ratings and hours on Google Maps before visiting.',
+    ko: '영업 여부와 시간은 방문 전 Google Maps에서 확인하세요.',
+    en: 'Check opening status and hours on Google Maps before visiting.',
   },
   placeCount: { ko: '곳', en: 'places' },
   citiesCount: { ko: '개 도시', en: 'cities' },

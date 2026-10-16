@@ -2,7 +2,7 @@ import type { CSSProperties } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { getCity, getPlace, useCountryData } from '../data/countryData'
 import { getCountry } from '../data/countries'
-import { RatingStars } from '../components/RatingStars'
+import { MichelinBadge } from '../components/MichelinBadge'
 import { PlaceThumb } from '../components/PlaceThumb'
 import { MapLinks } from '../components/MapLinks'
 import { LanguageToggle } from '../components/LanguageToggle'
@@ -69,12 +69,7 @@ function PlaceView() {
           <h2>{place.name}</h2>
           <FavoriteButton kind="places" id={place.id} />
         </div>
-        <RatingStars rating={place.rating} />
-        {place.reviewCount ? (
-          <p className="addr" style={{ marginTop: 6 }}>
-            {place.reviewCount.toLocaleString()} {t('reviews', lang)}
-          </p>
-        ) : null}
+        <MichelinBadge michelin={place.michelin} />
         {place.image ? (
           <div className="place-detail-media">
             <PlaceThumb place={place} size={140} />

@@ -6,11 +6,10 @@ export function place(
   cityId: string,
   category: CategoryId,
   name: string,
-  rating: number,
   address: string,
   ko: string,
   en: string,
-  opts: Partial<Omit<Place, 'id' | 'cityId' | 'category' | 'name' | 'rating' | 'address' | 'description'>> = {},
+  opts: Partial<Omit<Place, 'id' | 'cityId' | 'category' | 'name' | 'address' | 'description'>> = {},
 ): Place {
   const query = encodeURIComponent(`${name} ${address}`)
   return {
@@ -18,7 +17,6 @@ export function place(
     cityId,
     category,
     name,
-    rating,
     address,
     description: { ko, en },
     mapsUrl: opts.mapsUrl ?? `https://www.google.com/maps/search/?api=1&query=${query}`,

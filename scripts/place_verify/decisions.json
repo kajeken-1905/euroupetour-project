@@ -1,0 +1,503 @@
+{
+"ams-bk-1": {
+"ok": 1
+},
+"ams-bk-2": {
+"ok": 1
+},
+"ams-bk-3": {
+"del": "텐 카테스트라트에 그런 빵집이 없음"
+},
+"ams-bk-4": {
+"del": "검색에서 찾을 수 없음"
+},
+"ams-bk-5": {
+"addr": "Wolvenstraat 22, Amsterdam",
+"en": "Popular Nine Streets bakery known for its almond croissant.",
+"ko": "나인 스트리트의 인기 베이커리. 아몬드 크루아상이 유명합니다.",
+"ok": 1
+},
+"ams-cf-1": {
+"addr": "Runstraat 6, 1016 GK Amsterdam",
+"en": "Specialty coffee roaster’s café in the Nine Streets.",
+"ko": "나인 스트리트에 있는 스페셜티 커피 로스터리 카페.",
+"ok": 1
+},
+"ams-cf-2": {
+"addr": "Kerkstraat 96, 1017 GP Amsterdam",
+"ok": 1
+},
+"ams-cf-3": {
+"addr": "Ceintuurbaan 282-284, 1072 GK Amsterdam",
+"en": "Huge café in a converted 1920s Art Deco cinema—great for brunch.",
+"ko": "1920년대 아르데코 영화관을 고친 대형 카페. 브런치와 분위기가 강점.",
+"ok": 1
+},
+"ams-cf-4": {
+"ok": 1
+},
+"ams-cf-5": {
+"ok": 1
+},
+"ams-fd-1": {
+"mi": "star2",
+"ok": 1
+},
+"ams-fd-2": {
+"mi": "star1",
+"ok": 1
+},
+"ams-fd-3": {
+"mi": "star1",
+"ok": 1
+},
+"ams-fd-4": {
+"del": "2026년 5월 폐업"
+},
+"ams-fd-5": {
+"del": "같은 호텔 자리에 Flore가 들어서며 없어짐(주소도 틀림)"
+},
+"ams-kr-1": {
+"addr": "Albert Cuypstraat 66-70, Amsterdam",
+"en": "All-you-can-eat Korean barbecue in De Pijp; book ahead.",
+"ko": "드 파이프의 무한 리필 한식 바비큐. 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"bru-bk-1": {
+"ok": 1
+},
+"bru-bk-2": {
+"ok": 1
+},
+"bru-bk-3": {
+"del": "검색에서 브뤼셀 가게를 찾을 수 없음"
+},
+"bru-bk-4": {
+"del": "검색에서 찾을 수 없음"
+},
+"bru-bk-5": {
+"addr": "Rue des Sablons 11, 1000 Bruxelles",
+"ok": 1
+},
+"bru-cf-1": {
+"addr": "Place Eugène Flagey 18, 1050 Ixelles",
+"en": "Café-bar with a big terrace in the Art Deco Flagey building, Ixelles.",
+"ko": "익셀의 플라제 아르데코 건물에 있는 넓은 테라스 카페·바.",
+"name": "Café Belga",
+"ok": 1
+},
+"bru-cf-2": {
+"del": "검색에서 찾을 수 없음"
+},
+"bru-cf-3": {
+"addr": "Rue Auguste Orts 9, 1000 Bruxelles",
+"name": "OR Coffee Bar",
+"ok": 1
+},
+"bru-cf-4": {
+"ok": 1
+},
+"bru-cf-5": {
+"del": "검색에서 찾을 수 없음"
+},
+"bru-fd-1": {
+"addr": "Place Rouppe 23, 1000 Bruxelles",
+"mi": "star1",
+"ok": 1
+},
+"bru-fd-2": {
+"del": "2022년 6월 폐업(같은 자리는 다른 식당 Menssa)"
+},
+"bru-fd-3": {
+"del": "2019년 말 호텔 보수로 문을 닫았고 다시 연 기록을 찾지 못함"
+},
+"bru-fd-4": {
+"addr": "Avenue Louise 480, 1050 Ixelles",
+"mi": "star1",
+"ok": 1
+},
+"bru-fd-5": {
+"addr": "Rue de Vergnies 2, 1050 Ixelles",
+"mi": "star1",
+"ok": 1
+},
+"bru-kr-1": {
+"ok": 1
+},
+"cambridge-fine_dining-2": {
+"del": "2018년 10월 폐업"
+},
+"cph-bk-1": {
+"ok": 1
+},
+"cph-bk-2": {
+"ok": 1
+},
+"cph-bk-3": {
+"ok": 1
+},
+"cph-bk-4": {
+"ok": 1
+},
+"cph-bk-5": {
+"del": "빵집 자리가 시칠리아 식당(Mirabelle Spiserìa)으로 바뀜"
+},
+"cph-cf-1": {
+"ok": 1
+},
+"cph-cf-2": {
+"addr": "Høkerboderne 16, 1712 København V",
+"ok": 1
+},
+"cph-cf-3": {
+"addr": "Torvehallerne (Israels Plads), 1360 København K",
+"ok": 1
+},
+"cph-cf-4": {
+"addr": "Krystalgade 15, 1172 København K",
+"ok": 1
+},
+"cph-cf-5": {
+"ok": 1
+},
+"cph-fd-1": {
+"mi": "star3",
+"ok": 1
+},
+"cph-fd-2": {
+"ok": 1
+},
+"cph-fd-3": {
+"mi": "star2",
+"ok": 1
+},
+"cph-fd-4": {
+"mi": "star2",
+"ok": 1
+},
+"cph-fd-5": {
+"mi": "star3",
+"ok": 1
+},
+"cph-kr-1": {
+"ok": 1
+},
+"hel-bk-1": {
+"ok": 1
+},
+"hel-bk-2": {
+"addr": "Yliopistonkatu 7, 00100 Helsinki",
+"ok": 1
+},
+"hel-bk-3": {
+"del": "투르쿠 빵집이고 헬싱키 매장을 찾을 수 없음"
+},
+"hel-bk-4": {
+"cat": "cafe",
+"en": "Small specialty coffee café in Kallio.",
+"ko": "칼리오 지구의 작은 스페셜티 커피 카페.",
+"name": "Kahvila Sävy",
+"ok": 1
+},
+"hel-bk-5": {
+"addr": "Sandelsinkatu 6, 00260 Helsinki",
+"ok": 1
+},
+"hel-cf-1": {
+"addr": "Pursimiehenkatu 29 A, 00150 Helsinki",
+"ok": 1
+},
+"hel-cf-2": {
+"addr": "Merikannontie 8, 00260 Helsinki",
+"ok": 1
+},
+"hel-cf-3": {
+"ok": 1
+},
+"hel-cf-4": {
+"addr": "Aleksanterinkatu 26, 00170 Helsinki",
+"ok": 1
+},
+"hel-cf-5": {
+"del": "지점 주소가 출처마다 달라 확인 불가"
+},
+"hel-fd-1": {
+"mi": "star1",
+"ok": 1
+},
+"hel-fd-2": {
+"mi": "star1",
+"ok": 1
+},
+"hel-fd-3": {
+"mi": "star2",
+"ok": 1
+},
+"hel-fd-4": {
+"mi": "star2",
+"ok": 1
+},
+"hel-fd-5": {
+"del": "폐업(영업 종료 표시, 미쉐린 2026 목록에 없음)"
+},
+"hel-kr-1": {
+"del": "그 주소·이름의 한식당을 찾을 수 없음"
+},
+"lon-bk-1": {
+"addr": "197 Richmond Rd, London E8 3NJ",
+"ok": 1
+},
+"lon-bk-2": {
+"addr": "Abbot St, London E8 3DP",
+"ok": 1
+},
+"lon-bk-3": {
+"ok": 1
+},
+"lon-bk-4": {
+"ok": 1
+},
+"lon-bk-5": {
+"del": "하이 홀본 지점을 찾을 수 없음"
+},
+"lon-cf-1": {
+"ok": 1
+},
+"lon-cf-2": {
+"ok": 1
+},
+"lon-cf-3": {
+"del": "레드처치 스트리트 지점이 지금 지점 목록에 없음"
+},
+"lon-cf-4": {
+"ok": 1
+},
+"lon-cf-5": {
+"del": "비크 스트리트 지점 폐업"
+},
+"lon-fd-1": {
+"mi": "star3",
+"ok": 1
+},
+"lon-fd-2": {
+"mi": "star3",
+"ok": 1
+},
+"lon-fd-3": {
+"mi": "star3",
+"ok": 1
+},
+"lon-fd-4": {
+"mi": "star3",
+"ok": 1
+},
+"lon-fd-5": {
+"mi": "star2",
+"ok": 1
+},
+"lon-kr-1": {
+"ok": 1
+},
+"lon-kr-2": {
+"addr": "171 High St, New Malden, London KT3 4BH",
+"en": "Small family-run Korean barbecue on New Malden’s high street.",
+"ko": "뉴몰든 큰길의 작은 가족 운영 한식 바비큐집.",
+"name": "Imone BBQ",
+"ok": 1
+},
+"lon-kr-3": {
+"en": "Korean barbecue in Soho, also serving bulgogi and bibimbap.",
+"ko": "소호 킹리 스트리트의 한식 바비큐 식당. 불고기·비빔밥도 냅니다.",
+"ok": 1
+},
+"lon-kr-4": {
+"en": "Korean fried chicken in New Malden, fried to order so expect a wait.",
+"ko": "뉴몰든의 한국식 프라이드치킨 전문점. 주문 뒤 튀겨 시간이 걸립니다.",
+"ok": 1
+},
+"lon-kr-5": {
+"en": "Tiny Korean café near Tottenham Court Road, known for bibimbap and gimbap.",
+"ko": "토트넘 코트 로드 근처의 작은 한식 분식집. 비빔밥·김밥이 인기입니다.",
+"ok": 1
+},
+"lux-bk-1": {
+"addr": "16 Grand-Rue, 1661 Luxembourg",
+"ok": 1
+},
+"lux-bk-2": {
+"addr": "27 Rue des Capucins, 1313 Luxembourg",
+"name": "Confiserie Namur",
+"ok": 1
+},
+"lux-bk-3": {
+"del": "소매 빵집이 아니라 도매 제빵 회사(매장 없음)"
+},
+"lux-bk-4": {
+"ok": 1
+},
+"lux-bk-5": {
+"del": "검색에서 찾을 수 없음"
+},
+"lux-cf-1": {
+"del": "그 주소의 Café Martin을 찾을 수 없음"
+},
+"lux-cf-2": {
+"del": "룩셈부르크에서 찾을 수 없음"
+},
+"lux-cf-3": {
+"del": "지금은 숯불 고기 식당(Grand Café by Red Beef)이라 카페가 아님"
+},
+"lux-cf-4": {
+"ok": 1
+},
+"lux-cf-5": {
+"del": "룩셈부르크에서 찾을 수 없음"
+},
+"lux-fd-1": {
+"addr": "9 Place de Clairefontaine, 1341 Luxembourg",
+"en": "Classic French fine dining in the Old Town.",
+"ko": "구시가지의 클래식 프렌치 파인 다이닝.",
+"ok": 1
+},
+"lux-fd-2": {
+"mi": "star1",
+"ok": 1
+},
+"lux-fd-3": {
+"addr": "17 Route de Luxembourg, 5752 Frisange",
+"en": "Léa Linster’s restaurant in Frisange, renamed in April 2026 under her son Louis.",
+"ko": "레아 린스터의 레스토랑을 아들 루이가 이어받아 2026년 4월 이름을 바꿨습니다. 프리상주에 있습니다.",
+"mi": "star2",
+"name": "Louis Linster",
+"ok": 1
+},
+"lux-fd-4": {
+"addr": "1 Rue de Remich, 5331 Oetrange",
+"mi": "star2",
+"ok": 1
+},
+"lux-fd-5": {
+"addr": "18 Place d’Armes, 1136 Luxembourg",
+"ok": 1
+},
+"osl-bk-1": {
+"addr": "Inkognito Terrasse 1, 0256 Oslo",
+"ok": 1
+},
+"osl-bk-2": {
+"del": "그 이름의 빵집을 찾을 수 없음"
+},
+"osl-bk-3": {
+"del": "그 이름의 매장 빵집을 찾을 수 없음(Bakehuset은 도매 회사)"
+},
+"osl-bk-4": {
+"del": "Stockfleths는 커피 체인이라 빵집이 아님"
+},
+"osl-bk-5": {
+"addr": "Thorvald Meyers gate 49, 0555 Oslo",
+"ok": 1
+},
+"osl-cf-1": {
+"ok": 1
+},
+"osl-cf-2": {
+"ok": 1
+},
+"osl-cf-3": {
+"ok": 1
+},
+"osl-cf-4": {
+"ok": 1
+},
+"osl-cf-5": {
+"addr": "Hausmanns gate 29, 0182 Oslo",
+"en": "Late-opening bar and restaurant since 1989, with a big beer list.",
+"ko": "1989년부터 이어온 늦게까지 여는 바·레스토랑. 맥주 종류가 많습니다.",
+"ok": 1
+},
+"osl-fd-1": {
+"mi": "star3",
+"ok": 1
+},
+"osl-fd-2": {
+"mi": "star2",
+"ok": 1
+},
+"osl-fd-3": {
+"mi": "star1",
+"ok": 1
+},
+"osl-fd-4": {
+"addr": "Stortingsgata 24-26, 0161 Oslo",
+"en": "Nordic tasting menus on the second floor of Hotel Continental; closes for a summer break.",
+"ko": "콘티넨탈 호텔 2층의 노르딕 코스 레스토랑. 여름에 한동안 쉽니다.",
+"ok": 1
+},
+"osl-fd-5": {
+"addr": "Kanalen 1, Tjuvholmen, 0252 Oslo",
+"en": "Japanese robata and sushi by the canal on Tjuvholmen.",
+"ko": "튜브홀멘 운하 앞의 일본식 로바타·스시 레스토랑.",
+"ok": 1
+},
+"osl-kr-1": {
+"ok": 1
+},
+"sto-bk-1": {
+"ok": 1
+},
+"sto-bk-2": {
+"addr": "Drottninggatan 102, 111 60 Stockholm",
+"ok": 1
+},
+"sto-bk-3": {
+"addr": "Rörstrandsgatan 10, 113 40 Stockholm",
+"en": "Tiny artisan bakery with queues for its cardamom buns and semla.",
+"ko": "카르다몸 번과 셈라로 줄 서는 작은 아티산 베이커리.",
+"ok": 1
+},
+"sto-bk-4": {
+"del": "쇠데르말름에 그 빵집이 없음"
+},
+"sto-bk-5": {
+"addr": "Centralplan 15, 111 64 Stockholm",
+"name": "Gateau Centralen",
+"ok": 1
+},
+"sto-cf-1": {
+"ok": 1
+},
+"sto-cf-2": {
+"ok": 1
+},
+"sto-cf-3": {
+"ok": 1
+},
+"sto-cf-4": {
+"del": "주소·영업 확인 불가(오래된 언급 하나뿐)"
+},
+"sto-cf-5": {
+"name": "Café Saturnus",
+"ok": 1
+},
+"sto-fd-1": {
+"mi": "star3",
+"ok": 1
+},
+"sto-fd-2": {
+"mi": "star1",
+"ok": 1
+},
+"sto-fd-3": {
+"del": "미쉐린에 임시 휴업으로 나오고 2026 별 목록에 없어 영업 확인 불가(주소도 불명확)"
+},
+"sto-fd-4": {
+"del": "2022년 폐업"
+},
+"sto-fd-5": {
+"mi": "star1",
+"ok": 1
+},
+"sto-kr-1": {
+"ok": 1
+}
+}

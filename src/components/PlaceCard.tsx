@@ -1,11 +1,10 @@
 import { Link } from 'react-router-dom'
 import type { Place } from '../types'
 import { useLanguage } from '../contexts/LanguageContext'
-import { RatingStars } from './RatingStars'
+import { MichelinBadge } from './MichelinBadge'
 import { PlaceThumb } from './PlaceThumb'
 import { MapLinks } from './MapLinks'
 import { FavoriteButton } from './FavoriteButton'
-import { t } from '../i18n/ui'
 
 export function PlaceCard({ place }: { place: Place }) {
   const { lang } = useLanguage()
@@ -21,15 +20,10 @@ export function PlaceCard({ place }: { place: Place }) {
         </div>
         <p className="desc">{place.description[lang]}</p>
         <p className="addr">{place.address}</p>
-        {place.reviewCount ? (
-          <p className="addr">
-            {place.reviewCount.toLocaleString()} {t('reviews', lang)}
-          </p>
-        ) : null}
         <MapLinks url={place.mapsUrl} />
       </div>
       <div className="place-card-media">
-        <RatingStars rating={place.rating} />
+        <MichelinBadge michelin={place.michelin} />
         <PlaceThumb place={place} />
       </div>
     </article>

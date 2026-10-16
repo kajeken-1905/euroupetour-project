@@ -1169,18 +1169,16 @@ button.back-link {
   color: #8a8178;
 }
 
-.rating {
+.michelin {
   display: inline-flex;
   align-items: center;
-  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #b5121b;
+  color: #fff;
   font-weight: 700;
-  font-size: 13px;
-  color: #9a6b12;
+  font-size: 12px;
   white-space: nowrap;
-}
-
-.rating .star {
-  color: #d4a017;
 }
 
 .maps-btn {

@@ -226,8 +226,8 @@ export interface Place {
   category: CategoryId
   name: string
   description: { ko: string; en: string }
-  rating: number
-  reviewCount?: number
+  /** Michelin Guide distinction, set only when the guide's own site confirms it. */
+  michelin?: Michelin
   address: string
   mapsUrl: string
   lat?: number
@@ -235,11 +235,13 @@ export interface Place {
   priceLevel?: string
   /**
    * Optional visited-in-person photo, e.g. `/places/<id>.jpg`. Shown to the
-   * right of the rating on the card and on the detail page. When unset, no
+   * right of the badge on the card and on the detail page. When unset, no
    * image is shown.
    */
   image?: string
 }
+
+export type Michelin = 'star3' | 'star2' | 'star1' | 'bib'
 
 export const CATEGORIES: {
   id: CategoryId
