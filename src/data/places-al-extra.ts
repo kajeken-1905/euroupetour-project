@@ -3,30 +3,25 @@ import type { Place } from '../types'
 
 export const placesALExtra: Place[] = [
   // —— tirana ——
-  place('tirana-fine_dining-1', 'tirana', 'fine_dining', 'Mullixhiu', 'Shëtitore Lasgush Poradeci, 1019 Tirana, Albania', '농가·시즌 알바니아 파인.', 'Farm and seasonal Albanian fine dining.'),
-  place('tirana-fine_dining-2', 'tirana', 'fine_dining', 'Oda Garden', 'Rruga Shenasi Dishnica, 1001 Tirana, Albania', '전통 알바니아 요리·건강식 레스토랑.', 'Traditional Albanian and healthy-food restaurant.'),
-  place('tirana-fine_dining-3', 'tirana', 'fine_dining', 'Artigiano Restaurant', 'Rruga Abdyl Frashëri, 1017 Tirana, Albania', '이탈리안 레스토랑.', 'Italian restaurant.'),
-  place('tirana-fine_dining-4', 'tirana', 'fine_dining', 'Restaurant Kripë Dhe Piper (Salt and Pepper)', 'Rruga Sami Frashëri 44, 1001 Tirana, Albania', '유러피안·시푸드 레스토랑.', 'European and seafood restaurant.'),
-  place('tirana-fine_dining-5', 'tirana', 'fine_dining', 'EJA Restaurant', 'Rruga Gjin Bue Shpata, 1001 Tirana, Albania', '유러피안·알바니아 레스토랑.', 'European and Albanian restaurant.'),
-  place('tirana-bakery-1', 'tirana', 'bakery', 'Byrektore', 'Bulevardi Gjergj Fishta 4, Tirana', '부렉 전문점.', 'Byrek specialist.'),
-  place('tirana-bakery-2', 'tirana', 'bakery', 'Dani Byrektore', 'Rruga Myrtezim Këlliçi 2, Tirana', '부렉 전문점.', 'Byrek specialist.'),
-  place('tirana-cafe-2', 'tirana', 'cafe', "Frut'za | Blloku - Specialty Coffee & All Day Brunch", 'Rruga Andon Zako Çajupi, 1001 Tirana, Albania', '블로쿠 스페셜티 커피·브런치.', 'Blloku specialty coffee and brunch.'),
+  place('tirana-fine_dining-1', 'tirana', 'fine_dining', 'Mullixhiu', 'Shëtitore Lasgush Poradeci, 1019 Tirana, Albania', '노마 출신 셰프 블레다르 콜라가 이끄는 그랜드 파크 쪽 지하 식당. 알바니아 시골 요리를 코스로 재해석합니다.', 'Basement restaurant by Grand Park led by ex-Noma chef Bledar Kola, reinventing Albanian village cooking as tasting menus.'),
+  place('tirana-fine_dining-2', 'tirana', 'fine_dining', 'Oda Garden', 'Rruga Shenasi Dishnica, 1001 Tirana, Albania', '파자르 이 리 시장 옆 오스만 시대 집과 정원에서 내는 전통 알바니아 요리. 예약을 권합니다.', 'Traditional Albanian food in an Ottoman-era house and garden beside Pazari i Ri; book ahead.'),
+  place('tirana-fine_dining-3', 'tirana', 'fine_dining', 'Artigiano Restaurant', 'Rruga Abdyl Frashëri, 1017 Tirana, Albania', '블로쿠의 이탈리아 식당.', 'Italian restaurant in Blloku.'),
+  place('tirana-fine_dining-4', 'tirana', 'fine_dining', 'Restaurant Kripë Dhe Piper (Salt and Pepper)', 'Rruga Sami Frashëri 44, 1001 Tirana, Albania', '인공호수 근처의 해산물·숙성 고기 식당.', 'Seafood and dry-aged meat restaurant near the Artificial Lake.'),
+  place('tirana-fine_dining-5', 'tirana', 'fine_dining', 'EJAA Mediterranean', 'Rruga Mustafa Qosja, Vasil Shanto, Tirana', '알바니아·이탈리아식 지중해 요리 식당.', 'Albanian and Italian Mediterranean restaurant.'),
+  place('tirana-cafe-2', 'tirana', 'cafe', 'Frut’za Specialty Coffee & Brunch', 'Rruga Andon Zako Çajupi, 1001 Tirana, Albania', '블로쿠 스페셜티 커피·브런치.', 'Blloku specialty coffee and brunch.'),
   place('tirana-cafe-3', 'tirana', 'cafe', 'SECA Coffee', 'Rruga Janos Hunyadi, 1001 Tirana, Albania', '스페셜티 커피.', 'Specialty coffee.'),
 
   // —— berat ——
-  place('berat-fine_dining-1', 'berat', 'fine_dining', 'Homemade Food Lili', 'Rruga Nikolla Buhuri, Berat 5001', '구시가의 전통 알바니아 가정식.', 'Traditional Albanian home cooking in the Old Town.'),
-  place('berat-fine_dining-2', 'berat', 'fine_dining', 'Bar-Restorant Zonja Gjenë', 'Rruga Antipatrea, Mangalem, Berat 5001', '망갈렘 지구의 인기 레스토랑 겸 바.', 'Popular restaurant and bar in the Mangalem quarter.'),
-  place('berat-bakery-2', 'berat', 'bakery', 'Pastiçeri Tori', 'Llambi Guxhumani, Mangalem, Berat 5001', '망갈렘 지구의 제과점.', 'Pastry shop in the Mangalem quarter.'),
-  place('berat-cafe-1', 'berat', 'cafe', 'Shtepia e Kafes Gimi', 'Bulevardi Republika, 5012 Berat, Albania', '베라트의 숨은 명소로 불리는 셀프서비스 카페', 'Self-service café described as a hidden gem of Berat town'),
+  place('berat-fine_dining-1', 'berat', 'fine_dining', 'Homemade Food Lili', 'Mangalem, Berat', '망갈렘 지구 가정집에서 직접 만든 알바니아 가정식을 냅니다. 자리가 적어 예약을 권합니다.', 'Albanian home cooking served in a family house in Mangalem; few seats, so book ahead.'),
+  place('berat-fine_dining-2', 'berat', 'fine_dining', 'Zonja Gjenë', 'Rruga Antipatrea, Mangalem, Berat 5001', '전통 알바니아 요리 식당. 저녁에 라이브 음악이 있고 현금만 받습니다.', 'Traditional Albanian restaurant with live music some evenings; cash only.'),
+  place('berat-cafe-1', 'berat', 'cafe', 'Shtepia e Kafes Gimi', 'Bulevardi Republika, 5012 Berat, Albania', '레푸블리카 대로의 셀프서비스 카페. 크레프와 불에 끓인 튀르키예식 커피가 인기입니다.', 'Self-service café on Republic Boulevard, popular for crêpes and Turkish coffee brewed over a flame.'),
 
   // —— gjirokaster ——
-  place('gjirokaster-fine_dining-1', 'gjirokaster', 'fine_dining', 'Te Kalaja Restaurant', 'Gjirokastër Castle area, Gjirokastër 6001', '요새 근처의 전통 레스토랑.', 'Traditional restaurant near the fortress.'),
-  place('gjirokaster-bakery-1', 'gjirokaster', 'bakery', 'Antigonea 2000', 'Rruga 18 Shtatori, 6001 Gjirokastra, Albania', '페이스트리·젤라토·커피로 유명한 지로카스터의 인기 베이커리', 'Popular Gjirokastër bakery known for pastries, gelato and coffee'),
-  place('gjirokaster-cafe-1', 'gjirokaster', 'cafe', 'Kube Cafe', 'Rruga Astrit Karagjozi, 6001 Gjirokastra, Albania', '아침 커피 맛집으로 꼽히는 지로카스터의 카페', 'Café known as a favorite spot for morning coffee in Gjirokastër'),
+  place('gjirokaster-fine_dining-1', 'gjirokaster', 'fine_dining', 'Te Kalaja Restaurant', 'Rruga Bule Naipi, Gjirokastër', '성 가까이의 가족 운영 식당. 테라스에서 성과 구시가가 보입니다.', 'Family-run restaurant near the castle, with a terrace overlooking the castle and old town.'),
+  place('gjirokaster-bakery-1', 'gjirokaster', 'bakery', 'Antigonea 2000', 'Rruga 18 Shtatori, 6001 Gjirokastra, Albania', '케이크·페이스트리·젤라토를 파는 지로카스터 중심가의 카페 겸 빵집.', 'Café-bakery in central Gjirokastër with cakes, pastries and gelato.'),
+  place('gjirokaster-cafe-1', 'gjirokaster', 'cafe', 'Te Kubé', 'Rr. Ismail Kadare (below the Bazaar Mosque), Gjirokastër', '바자르 모스크 아래의 작은 카페 겸 서점. 알바니아 관련 영어 책이 많습니다.', 'Small café-bookshop below the Bazaar Mosque, with many English books on Albania.'),
 
   // —— sarande ——
-  place('sarande-fine_dining-1', 'sarande', 'fine_dining', 'Observatory Restaurant', 'Godine Nr. 75, Lagja Nr.1, Saranda 9702', '해산물 전문 레스토랑.', 'Seafood-focused restaurant.'),
+  place('sarande-fine_dining-1', 'sarande', 'fine_dining', 'Observatory Restaurant', 'Godine Nr. 75, Lagja Nr.1, Saranda 9702', '사란데 언덕 꼭대기의 해산물·지중해 요리 식당. 만과 이오니아해가 내려다보입니다.', 'Hilltop seafood and Mediterranean restaurant overlooking Saranda bay and the Ionian Sea.'),
 
-  place('sarande-bakery-1', 'sarande', 'bakery', 'Memaj Bakery & Pastry', 'SH81, Ksamil, Sarandë, Albania', '24시간 운영하는 사란데 인근의 전통 및 현대 페이스트리 전문점', '24-hour bakery near Sarandë offering traditional and contemporary pastries'),
-  place('sarande-cafe-1', 'sarande', 'cafe', 'Breakfast & Coffee', 'Rrg. Mitat Hoxha, 9701 Sarandë, Albania', '현지인과 여행자가 함께 찾는 사란데의 편안한 카페', 'Relaxed Sarandë café where locals and travelers gather for good coffee'),
 ]
