@@ -28,7 +28,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'gozo-h5': v(45, 60),
 
   // Thessaloniki
-  'thessaloniki-h1': v(40, 45),
+  'thessaloniki-h1': v(40, 45, { c: 'daily', b: 'no', s: 'https://www.mbp.gr/en/news/extension-of-the-white-towers-opening-hours-until-2100/', k: '2026-10', x: [['2026년 11월 1일까지 매일 21:00까지 엽니다.|Open until 21:00 daily until 1 November 2026.', '2026-11-01']] }),
   'thessaloniki-h2': v(15, 20),
   'thessaloniki-h3': v(60, 90),
   'thessaloniki-h4': v(20, 30),
@@ -93,7 +93,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'naxos-h2': v(60, 90),
   'naxos-h3': v(120, 180),
   'naxos-h4': v(45, 60),
-  'naxos-h5': v(30, 45),
+  'naxos-h5': v(30, 45, { c: 'tue', b: 'no', s: 'https://www.hh.gr/en/?p=11659', n: '8:30~15:30에 엽니다.|Open 8:30–15:30.', k: '2026-10' }),
   // Santorini
   'santorini-h1': v(60, 120, { n: '해 지기 1~2시간 전에 자리를 잡아야 합니다.|Stake out a spot one to two hours before sunset.' }),
   'santorini-h2': v(60, 90),
@@ -103,7 +103,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   // Heraklion
   'heraklion-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://knossospalace.gr/', t: HH, n: '고고학 박물관과 묶은 통합권이 있습니다.|A combined ticket with the Archaeological Museum is available.', k: '2026-10' }),
   'heraklion-h2': v(90, 120, { c: 'daily', s: 'https://www.heraklionmuseum.gr/en/', t: HH, n: '수요일은 늦게 엽니다(여름 13시, 겨울 10시). 1월 1일, 3월 25일, 부활절 일요일, 5월 1일, 12월 25~26일은 쉽니다.|Opens late on Wednesdays (13:00 in summer, 10:00 in winter). Closed 1 January, 25 March, Easter Sunday, 1 May and 25–26 December.', k: '2026-10' }),
-  'heraklion-h3': v(30, 40),
+  'heraklion-h3': v(30, 40, { c: 'tue', b: 'no', s: 'https://www.hh.gr/en/?p=2529', k: '2026-10' }),
   'heraklion-h4': v(30, 45),
   'heraklion-h5': v(120, 180),
   // Chania
@@ -123,14 +123,14 @@ export const visitMed: Record<string, HighlightVisit> = {
   'nicosia-h1': v(30, 45),
   'nicosia-h2': v(30, 45, { n: '북쪽 지역에 있어 레드라 거리 검문소에서 여권을 보여 주고 건너갑니다.|In the north—cross at the Ledra Street checkpoint with your passport.' }),
   'nicosia-h3': v(30, 45),
-  'nicosia-h4': v(75, 90),
+  'nicosia-h4': v(75, 90, { c: 'mon', b: 'no', s: 'https://www.visitcyprus.com/discover-cyprus/page/417/', n: '화~금 8:00~18:00, 토 9:00~17:00, 일 10:00~13:00.|Tue–Fri 8:00–18:00, Sat 9:00–17:00, Sun 10:00–13:00.', k: '2026-10' }),
   'nicosia-h5': v(15, 20),
   'limassol-h1': v(30, 45),
-  'limassol-h2': v(40, 45),
+  'limassol-h2': v(40, 45, { c: 'daily', b: 'no', s: 'https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/cyprus-medieval-museum-limassol-lemesos-castle/', n: '중세 박물관으로 쓰이며 공휴일에는 닫습니다.|Houses the Medieval Museum; closed on public holidays.', k: '2026-10' }),
   'limassol-h3': v(30, 45),
   'limassol-h4': v(20, 30),
   'limassol-h5': v(45, 60),
-  'paphos-h1': v(20, 30),
+  'paphos-h1': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.visitcyprus.com/?p=469295', n: '공휴일에는 닫습니다.|Closed on public holidays.', k: '2026-10' }),
   'paphos-h2': v(90, 120, { c: 'daily', n: '12월 25일, 1월 1일, 정교회 부활절 일요일은 쉽니다.|Closed 25 December, 1 January and Orthodox Easter Sunday.', k: '2026-10' }),
   'paphos-h3': v(60, 75, { c: 'daily', n: '12월 25일, 1월 1일, 정교회 부활절 일요일은 쉽니다.|Closed 25 December, 1 January and Orthodox Easter Sunday.', k: '2026-10' }),
   'paphos-h4': v(45, 60),
@@ -181,7 +181,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'vilnius-h5': v(15, 20, { b: 'no', n: FREE }),
   'kaunas-h1': v(60, 90),
   'kaunas-h2': v(30, 45),
-  'kaunas-h3': v(30, 40),
+  'kaunas-h3': v(30, 40, { c: 'mon', b: 'no', s: 'https://kaunomuziejus.lt/en/plan-your-visit-to-kaunas-castle/', n: '일요일은 6~8월에만 엽니다. 공휴일 대부분과 매달 마지막 화요일 오전에는 닫습니다.|Open Sundays only from June to August; closed on most public holidays and on the morning of the last Tuesday of each month.', k: '2026-10' }),
   'kaunas-h4': v(90, 120, { c: 'mon', s: 'https://www.9fortomuziejus.lt/en/home/?lang=en', k: '2026-10' }),
   'kaunas-h5': v(45, 60),
   'klaipeda-h1': v(45, 60),

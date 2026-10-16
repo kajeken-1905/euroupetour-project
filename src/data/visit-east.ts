@@ -17,7 +17,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sofia-h3': v(30, 45),
   'sofia-h4': v(30, 45, { c: 'daily', s: 'https://boyanachurch.org/indexen.htm', n: '프레스코 보호를 위해 소수 인원이 10분쯤만 들어갑니다. 시내에서 8km 떨어져 있습니다.|To protect the frescoes, small groups get about ten minutes inside. It is 8 km from the centre.', k: '2026-10' }),
   'sofia-h5': v(180, 300),
-  'sofia-h6': v(15, 60),
+  'sofia-h6': v(15, 60, { c: 'mon', b: 'no', s: 'https://nationalgallery.bg/visiting/the-palace/', n: '국립 미술관으로 쓰이며 화~일 10:00~18:00에 엽니다. 국경일·성탄절·새해·부활절에도 쉽니다.|Now the National Gallery: Tue–Sun 10:00–18:00; also closed on national holidays, Christmas, New Year and Easter.', k: '2026-10' }),
   // Plovdiv
   'plovdiv-h1': v(30, 45),
   'plovdiv-h2': v(90, 120),
@@ -27,9 +27,9 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Varna
   'varna-h1': v(45, 90),
   'varna-h2': v(60, 180),
-  'varna-h3': v(75, 90),
+  'varna-h3': v(75, 90, { c: 'mon', b: 'no', s: 'https://www.museumvarna.com/en/museums-and-sites-within-the-system-of-the-varna-regional-museum-of-history-switching-to-winter-hours-on-october-1st/', n: '10월 1일부터 겨울 시간표가 적용되어 일요일에도 쉽니다(10:00~17:00).|From 1 October winter hours apply and it also closes on Sundays (10:00–17:00).', k: '2026-10' }),
   'varna-h4': v(15, 20),
-  'varna-h5': v(30, 45),
+  'varna-h5': v(30, 45, { b: 'no', s: 'https://www.museumvarna.com/en/museums-and-sites-within-the-system-of-the-varna-regional-museum-of-history-switching-to-winter-hours-on-october-1st/', n: '여름에는 매일 열고, 10월 1일부터 겨울에는 일·월요일에 쉽니다.|Open daily in summer; from 1 October (winter hours) closed on Sundays and Mondays.', k: '2026-10' }),
   // Veliko Tarnovo
   'veliko-tarnovo-h1': v(90, 120, { c: 'daily', s: 'https://www.museumvt.com/en/', k: '2026-10' }),
   'veliko-tarnovo-h2': v(30, 45),
@@ -63,7 +63,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sibiu-h4': v(20, 30),
   'sibiu-h5': v(150, 180, { c: 'daily', s: 'https://muzeulastra.ro/en/', n: '야외 박물관은 연중 열지만 실내 전시관은 수~일요일에만 엽니다.|The open-air museum is open all year; the indoor pavilions open Wednesday to Sunday only.', k: '2026-10' }),
   // Sighișoara
-  'sighisoara-h1': v(40, 45, { c: 'mon' }),
+  'sighisoara-h1': v(40, 45, { c: 'mon', s: 'https://visitmures.com/en/sighisoara/built-heritage/museums/sighisoara-history-museum', n: '시계탑 안은 역사 박물관입니다. 5월 중순~9월 중순 화~금 9:00~18:30·주말 10:00~17:30, 그 밖에는 15:30에 닫습니다.|The tower houses the History Museum: mid-May to mid-September Tue–Fri 9:00–18:30, weekends 10:00–17:30; otherwise it closes at 15:30.', k: '2026-10' }),
   'sighisoara-h2': v(60, 90),
   'sighisoara-h3': v(10, 15),
   'sighisoara-h4': v(15, 20),

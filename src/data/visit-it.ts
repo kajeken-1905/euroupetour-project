@@ -30,7 +30,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   // Bergamo
   'bergamo-h1': v(120, 180),
   'bergamo-h2': v(20, 30),
-  'bergamo-h3': v(15, 20),
+  'bergamo-h3': v(15, 20, { c: 'mon', b: 'no', s: 'https://lombardiabeniculturali.it/architetture/schede-complete/BG020-00517', n: '입장은 무료(헌금 자율)입니다. 12:30~14:00에는 문을 닫습니다.|Free (donations welcome); closed 12:30–14:00.', k: '2026-10' }),
   'bergamo-h4': v(45, 60),
   'bergamo-h5': v(10, 15),
   // Stresa
@@ -208,7 +208,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'perugia-h5': v(20, 30),
   // Assisi
   'assisi-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://basilica.sanfrancesco.org/', n: DRESS, k: '2026-10' }),
-  'assisi-h2': v(20, 30, { b: 'no', n: FREE }),
+  'assisi-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.italia.it/it/umbria/assisi/basilica-di-santa-chiara', n: '입장 무료. 매일 6:30~12:00, 14:00~18:00.|Free. Open daily 6:30–12:00 and 14:00–18:00.', k: '2026-10' }),
   'assisi-h3': v(15, 20),
   'assisi-h4': v(45, 60),
   // Orvieto
@@ -218,7 +218,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'orvieto-h4': v(20, 30),
   // Urbino
   'urbino-h1': v(105, 120, { c: 'mon', s: 'https://gndm.it/en/', n: '월요일은 여름철에만 오후에 열고 그 밖의 철에는 쉽니다.|Mondays open in the afternoon in summer only; closed on Mondays the rest of the year.', k: '2026-10' }),
-  'urbino-h2': v(30, 40),
+  'urbino-h2': v(30, 40, { c: 'daily', b: 'no', s: 'https://www.italia.it/it/marche/pesaro-urbino/casa-natale-di-raffaello', n: '12월 25일과 1월 1일에 쉽니다. 철마다 운영 시간이 다릅니다.|Closed 25 December and 1 January; hours vary by season.', k: '2026-10' }),
   'urbino-h3': v(15, 20),
   'urbino-h4': v(30, 45),
 
@@ -298,7 +298,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'palermo-h4': v(10, 15),
   'palermo-h5': v(120, 150, { n: '팔레르모에서 버스로 40분쯤 걸리고, 대성당은 점심시간에 닫습니다.|About 40 minutes by bus from Palermo; the cathedral shuts at lunchtime.' }),
   // Cefalù
-  'cefalu-h1': v(30, 45),
+  'cefalu-h1': v(30, 45, { c: 'daily', b: 'rec', s: 'https://www.duomocefalu.it/', t: 'https://www.duomocefalu.it/', n: '성당 안(본당)은 무료이고 탑·지붕·보물관 코스는 유료입니다. 공식 누리집에서 시간대를 예약하는 것이 좋습니다.|The nave is free; the towers, roofs and treasury routes are ticketed—book a time slot on the official site.', k: '2026-10' }),
   'cefalu-h2': v(90, 120, { n: '가파른 산길이며 한여름 낮과 악천후에는 닫습니다.|A steep climb, closed in midday summer heat and bad weather.' }),
   'cefalu-h3': v(60, 120),
   'cefalu-h4': v(10, 15),

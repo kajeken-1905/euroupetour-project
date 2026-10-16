@@ -155,7 +155,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'biarritz-h4': v(120, 180),
   // Toulouse
   'toulouse-h1': v(20, 30),
-  'toulouse-h2': v(30, 45, { b: 'no', s: 'https://basilique-saint-sernin.fr/', n: '성당 입장은 무료입니다.|Entry to the basilica is free.' }),
+  'toulouse-h2': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.toulouse-tourisme.com/activite/la-basilique-saint-sernin/', n: '성당은 무료이고 회랑·지하 묘소만 유료입니다.|The basilica is free; only the ambulatory and crypt charge.', k: '2026-10' }),
   'toulouse-h3': v(45, 60, { c: 'mon', k: '2026-10' }),
   'toulouse-h4': v(30, 45),
   'toulouse-h5': v(240, 300, { b: 'rec', s: 'https://www.cite-espace.com/', n: '9월~3월에는 방학 기간이 아닌 월요일에 쉬고, 1월에는 몇 주간 정기 휴관합니다. 달력을 확인하세요.|From September to March it closes on Mondays outside school holidays, and for some weeks in January; check the calendar.', k: '2026-10' }),

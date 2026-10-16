@@ -69,14 +69,14 @@ export const visitUk: Record<string, HighlightVisit> = {
   'stratford-upon-avon-h1': v(60, 75, { c: 'daily', s: SBT, k: '2026-10' }),
   'stratford-upon-avon-h2': v(60, 75, { c: 'daily', s: SBT, k: '2026-10' }),
   'stratford-upon-avon-h3': v(30, 180, { c: 'daily', s: 'https://www.rsc.org.uk/', n: '공연 관람은 예매가 필요합니다.|Performances need advance tickets.', k: '2026-10' }),
-  'stratford-upon-avon-h4': v(20, 30),
+  'stratford-upon-avon-h4': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.stratford-upon-avon.org/opening-times-1', n: '교회는 무료이고 셰익스피어 묘가 있는 성단소는 유료(성인 £5)입니다. 일요일 오전 예배 중에는 묘를 볼 수 없습니다.|The church is free; the chancel with Shakespeare’s grave is ticketed (£5 adults) and closed during Sunday-morning services.', k: '2026-10' }),
   // Cambridge
   'cambridge-h1': v(45, 60, { b: 'rec', s: 'https://www.kings.cam.ac.uk/visit-kings', n: '학기 중에는 개방 시간이 짧고 행사로 닫는 날이 있습니다.|Hours are shorter in term time and it closes for some events.', k: '2026-10' }),
   'cambridge-h2': v(10, 15),
   'cambridge-h3': v(90, 120, { c: 'mon', b: 'no', s: 'https://fitzmuseum.cam.ac.uk/', n: FREE, k: '2026-10' }),
   'cambridge-h4': v(45, 60),
   'cambridge-h5': v(20, 30),
-  'cambridge-h6': v(15, 20),
+  'cambridge-h6': v(15, 20, { c: 'sun,mon', b: 'no', s: 'https://roundchurchcambridge.org/opening-times', n: '화요일은 오후에만 엽니다.|Tuesdays: afternoon only.', k: '2026-10' }),
   // Bath
   'bath-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.romanbaths.co.uk/', k: '2026-10' }),
   'bath-h2': v(20, 30),
@@ -88,14 +88,14 @@ export const visitUk: Record<string, HighlightVisit> = {
   'bristol-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://cliftonbridge.org.uk/', k: '2026-10' }),
   'bristol-h2': v(45, 60),
   'bristol-h3': v(60, 90),
-  'bristol-h4': v(20, 30),
-  'bristol-h5': v(20, 30, { b: 'no', n: FREE }),
+  'bristol-h4': v(20, 30, { c: 'daily', b: 'no', s: 'https://bristol-cathedral.co.uk/visit-us/plan-your-visit/', n: '입장 무료. 월~토 10:00~16:00, 일 11:30~15:00(예배·행사 때 달라짐).|Free. Mon–Sat 10:00–16:00, Sun 11:30–15:00 (varies with services and events).', k: '2026-10' }),
+  'bristol-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.bristol.gov.uk/residents/museums-parks-sports-and-culture/parks-and-open-spaces/parks-and-estates/brandon-hill', n: '무료로 올라갑니다. 8:00에 열고 겨울 17:15·여름 21:15에 닫습니다.|Free to climb; opens 8:00, closes 17:15 in winter and 21:15 in summer.', k: '2026-10' }),
   'bristol-h6': v(120, 150, { c: 'mon', s: 'https://www.ssgreatbritain.org/', n: '화~일요일에 엽니다.|Open Tuesday to Sunday.', k: '2026-10' }),
   // Salisbury
   'salisbury-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.english-heritage.org.uk/visit/places/stonehenge/', n: '시간 지정 입장이며 솔즈베리에서 버스로 30분쯤 걸립니다.|Entry is by timed ticket; it is about 30 minutes by bus from Salisbury.', k: '2026-10' }),
   'salisbury-h2': v(60, 90, { s: 'https://www.salisburycathedral.org.uk/', n: '월~토요일 9:30~17:00(마지막 입장 16:15)에 관람하고 일요일은 시간이 다릅니다. 예배·행사로 바뀔 수 있습니다.|Sightseeing Monday–Saturday 9:30–17:00 (last entry 16:15), with different Sunday hours; services and events can change this.', k: '2026-10' }),
   'salisbury-h3': v(45, 60, { s: 'https://www.english-heritage.org.uk/visit/places/old-sarum/' }),
-  'salisbury-h4': v(60, 90, { b: 'no', n: '거석은 무료로 자유롭게 볼 수 있습니다.|The stones are free to walk among.' }),
+  'salisbury-h4': v(60, 90, { b: 'no', s: 'https://www.nationaltrust.org.uk/visit/wiltshire/avebury', n: '거석은 무료로 자유롭게 볼 수 있습니다. 주차장은 유료입니다.|The stones are free to walk among; the car park is paid.', k: '2026-10' }),
   // St Ives
   'st-ives-h1': v(30, 45),
   'st-ives-h2': v(60, 90, { c: 'daily', s: 'https://www.tate.org.uk/visit/tate-st-ives', k: '2026-10' }),
@@ -107,7 +107,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'manchester-h2': v(90, 120, { b: 'rec', s: 'https://www.scienceandindustrymuseum.org.uk/', n: '입장은 무료이며 보수 공사로 일부 전시관이 닫혀 있을 수 있습니다.|Free; some galleries may be shut for restoration work.', k: '2026-10' }),
   'manchester-h3': v(90, 120, { b: 'rec', s: 'https://www.manutd.com/en/club/visit-old-trafford/museum-stadium-tours', n: '홈 경기일에는 투어가 없습니다. 온라인으로 미리 사면 현장보다 쌉니다.|No tours on home matchdays. Booking online is cheaper than buying at the door.', k: '2026-10' }),
   'manchester-h4': v(30, 45),
-  'manchester-h5': v(20, 30),
+  'manchester-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://manchestercathedral.org/plan-your-visit', n: '입장 무료. 월~토 9:30~16:00, 일 12:00~16:00.|Free. Mon–Sat 9:30–16:00, Sun 12:00–16:00.', k: '2026-10' }),
   'manchester-h6': v(45, 60, { c: 'mon,tue', b: 'no', s: 'https://www.library.manchester.ac.uk/rylands/', n: FREE, k: '2026-10' }),
   'manchester-h7': v(45, 60),
   // Liverpool
@@ -120,7 +120,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   // York
   'york-h1': v(75, 120, { c: 'daily', s: 'https://yorkminster.org/', n: '일요일은 오후에만 관광 입장이 됩니다.|On Sundays sightseeing entry is in the afternoon only.', k: '2026-10' }),
   'york-h2': v(20, 30),
-  'york-h3': v(90, 120, { b: 'no', n: FREE }),
+  'york-h3': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.york.gov.uk/york-city-centre/city-walls/3', n: '무료이고 매일 8:00에 열어 해 질 무렵 닫습니다. 얼음이 얼거나 바람이 센 날은 닫습니다.|Free; opens 8:00 daily and closes at dusk. Closed in icy conditions or high winds.', k: '2026-10' }),
   'york-h4': v(30, 45, { c: 'daily', s: 'https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/', k: '2026-10' }),
   'york-h5': v(60, 90, { c: 'mon', s: 'https://www.yorkshiremuseum.org.uk/', k: '2026-10' }),
   'york-h6': v(120, 180, { c: 'daily', b: 'no', s: 'https://www.railwaymuseum.org.uk/', n: FREE, k: '2026-10' }),
@@ -128,7 +128,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'lake-district-h1': v(90, 180),
   'lake-district-h2': v(60, 90),
   'lake-district-h3': v(60, 75, { b: 'req', s: 'https://www.nationaltrust.org.uk/visit/lake-district/hill-top', n: '집이 작아 회원을 포함해 모두 시간 지정 예약이 필요합니다. 겨울에는 쉬는 기간과 요일이 있으니 예약 화면에서 확인하세요.|The house is small, so everyone, members included, must book a timed slot. It closes for part of the winter and on some weekdays; check when booking.', k: '2026-10' }),
-  'lake-district-h4': v(30, 45, { b: 'no', n: FREE }),
+  'lake-district-h4': v(30, 45, { b: 'no', s: 'https://www.english-heritage.org.uk/visit/places/castlerigg-stone-circle/', n: '무료이고 낮 동안 언제든 볼 수 있습니다.|Free; open at any reasonable time in daylight.', k: '2026-10' }),
   'lake-district-h5': v(90, 180),
   // Edinburgh
   'edinburgh-h1': v(75, 90, { c: 'tue,wed', b: 'rec', s: 'https://www.rct.uk/visit/palace-of-holyroodhouse', n: '여름 성수기에는 매일 열고, 왕실 행사 때는 닫습니다.|Open daily in peak summer; closed during royal visits.', k: '2026-10' }),
@@ -153,7 +153,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'st-andrews-h1': v(30, 45, { s: 'https://www.standrews.com/', n: '일요일에는 경기가 없어 코스를 걸을 수 있습니다.|No golf is played on Sundays, when you can walk the course.' }),
   'st-andrews-h2': v(45, 60, { s: 'https://www.historicenvironment.scot/visit/all/st-andrews-cathedral/', n: '유적 경내는 무료로 들어갈 수 있고 탑과 박물관만 유료입니다. 박물관은 정비로 닫혀 있습니다. 겨울 운영 시간은 공식 안내끼리 달라 방문 전에 확인하세요.|The grounds are free; only the tower and museum charge. The museum is closed for maintenance. Official winter hours disagree—check before you go.', k: '2026-10' }),
   'st-andrews-h3': v(30, 60),
-  'st-andrews-h4': v(45, 60),
+  'st-andrews-h4': v(45, 60, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle/prices-times/', n: '온라인으로 사면 더 쌉니다. 2026년 10월 기준 지하 갱도(mine·countermine)는 들어갈 수 없습니다.|Cheaper online. As of October 2026 the mine and countermine are closed to visitors.', k: '2026-10' }),
   // Inverness
   'inverness-h1': v(120, 180),
   'inverness-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/urquhart-castle/', k: '2026-10' }),
@@ -185,7 +185,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'snowdonia-h5': v(120, 180, { s: 'https://portmeirion.wales/' }),
   // Conwy
   'conwy-h1': v(75, 90, { s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-castle', k: '2026-10' }),
-  'conwy-h2': v(30, 45, { b: 'no', n: FREE }),
+  'conwy-h2': v(30, 45, { b: 'no', s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-town-walls', n: '무료로 걸을 수 있습니다.|Free to walk.', k: '2026-10', x: [['감시탑~윙 게이트 구간은 안전 공사로 닫혀 있습니다(2027년 부활절 재개방 목표).|The stretch between the Watch Tower and the Wing Gate is closed for safety works (aiming to reopen by Easter 2027).', '2027-03-28']] }),
   'conwy-h3': v(10, 15),
   'conwy-h4': v(45, 60, { s: 'https://cadw.gov.wales/visit/places-to-visit/plas-mawr', n: '3월부터 10월까지만 엽니다(11월 초~2월 휴관).|Open March to October only (closed early November to February).', k: '2026-10' }),
   // Belfast
@@ -202,7 +202,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   // Derry
   'derry-h1': v(45, 60, { b: 'no', n: FREE }),
   'derry-h2': v(10, 15),
-  'derry-h3': v(30, 45, { b: 'no', n: FREE }),
+  'derry-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://discovernorthernireland.com/things-to-do/the-guildhall-p676211', n: '입장 무료. 가이드 투어(11:00·14:00)만 유료입니다.|Free; only the guided tours (11:00 and 14:00) are paid.', k: '2026-10' }),
   'derry-h4': v(30, 45),
 
   // Dublin

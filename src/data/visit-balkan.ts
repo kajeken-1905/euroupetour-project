@@ -12,9 +12,9 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Zagreb
   'zagreb-h1': v(90, 120, { n: '매일 정오에 로트르슈차크 탑에서 대포를 쏩니다.|A cannon is fired from the Lotrščak Tower at noon each day.' }),
   'zagreb-h2': v(45, 60, { c: 'daily', s: 'https://brokenships.com/', n: '성탄 전야·성탄절·1월 1일·부활절·만성절(11월 1일)에는 쉽니다.|Closed on Christmas Eve, Christmas Day, New Year’s Day, Easter and All Saints’ Day.', k: '2026-10' }),
-  'zagreb-h3': v(30, 45, { b: 'no', n: '시장은 오전에 서고 오후 일찍 파합니다.|A morning market, winding down in the early afternoon.' }),
+  'zagreb-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.visitzagreb.hr/zagreb/dolac-market/', n: '월~토 7:00~15:00, 일 7:00~13:00. 오전에 가는 것이 좋습니다.|Mon–Sat 7:00–15:00, Sun 7:00–13:00; best in the morning.', k: '2026-10' }),
   'zagreb-h4': v(15, 20),
-  'zagreb-h5': v(45, 60, { b: 'no', n: FREE }),
+  'zagreb-h5': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.gradskagroblja.hr/opening-hours/696', n: '입장 무료. 4~10월 6:00~20:00, 11~3월 7:30~18:00.|Free. 6:00–20:00 April–October, 7:30–18:00 November–March.', k: '2026-10' }),
   // Dubrovnik
   'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.', k: '2026-10' }),
   'dubrovnik-h2': v(20, 30),
@@ -109,7 +109,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'banja-luka-h4': v(30, 45),
   'banja-luka-h5': v(15, 20, { n: MOSQUE }),
   // Travnik
-  'travnik-h1': v(45, 60),
+  'travnik-h1': v(45, 60, { s: 'https://muzejtravnik.ba/en', n: '4~10월 매일 8:00~20:00에 엽니다. 11~3월에는 미리 신청한 단체만 볼 수 있습니다.|Open daily 8:00–20:00 April–October; November–March only for groups booked in advance.', k: '2026-10' }),
   'travnik-h2': v(15, 20),
   'travnik-h3': v(30, 45),
   'travnik-h4': v(180, 240),

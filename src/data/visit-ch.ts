@@ -1,7 +1,6 @@
 import type { HighlightVisit } from '../types'
 import { v } from './visit-helper'
 
-const FREE = '입장은 무료입니다.|Entry is free.'
 const LIFT = '케이블카·산악열차는 계절 운행이고 날씨에 따라 운휴하니 당일 운행 여부를 확인하세요.|Lifts and mountain trains are seasonal and weather-dependent—check on the day.'
 const PASS = '스위스 트래블 패스 소지자는 할인됩니다.|Swiss Travel Pass holders get a discount.'
 
@@ -15,7 +14,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'zurich-h5': v(120, 150, { c: 'mon', b: 'no', s: 'https://www.kunsthaus.ch/en/', k: '2026-10' }),
   'zurich-h6': v(30, 60),
   'zurich-h7': v(20, 30, { s: 'https://www.fraumuenster.ch/en/', n: '샤갈 스테인드글라스를 보는 입장은 유료입니다. 일요일은 예배 뒤 12시부터 관람할 수 있고, 행사로 시간이 자주 바뀝니다.|There is an entry fee to see the Chagall windows. On Sundays visits start at noon after the service, and events often change the hours.', k: '2026-10' }),
-  'zurich-h8': v(10, 15),
+  'zurich-h8': v(10, 15, { c: 'daily', b: 'no', s: 'https://www.zuerich.com/en/visit/attractions/st-peter', n: '입장 무료. 평일 9:00~18:00, 주말 9:00~16:00.|Free. Weekdays 9:00–18:00, weekends 9:00–16:00.', k: '2026-10' }),
   'zurich-h9': v(15, 20),
   'zurich-h10': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.lindt-home-of-chocolate.com/en/', n: '시간 지정 입장이라 주말에는 며칠 전에 매진됩니다.|Entry is timed and weekends sell out days ahead.', k: '2026-10' }),
   // Geneva
@@ -41,7 +40,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'lucerne-h4': v(45, 60),
   'lucerne-h5': v(180, 240, { c: 'daily', s: 'https://www.verkehrshaus.ch/en/', k: '2026-10' }),
   'lucerne-h6': v(10, 15),
-  'lucerne-h7': v(15, 20),
+  'lucerne-h7': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.luzern.com/de/poi/jesuitenkirche', n: '입장 무료. 월·목요일은 청소 때문에 9:30에 엽니다.|Free. Opens at 9:30 on Mondays and Thursdays because of cleaning.', k: '2026-10' }),
   'lucerne-h8': v(240, 300, { s: 'https://www.rigi.ch/en', n: '리기 산악열차와 케이블카는 스위스 트래블 패스로 무료이고, 산악열차는 연중 운행합니다.|The Rigi railways and cable car are free with the Swiss Travel Pass; the cogwheel trains run all year.', k: '2026-10' }),
   // Interlaken
   'interlaken-h1': v(30, 45),
@@ -96,7 +95,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'vaduz-h1': v(20, 30, { n: '대공 가족이 사는 곳이라 내부는 공개하지 않습니다. 밖에서만 볼 수 있습니다.|The princely family lives here, so the interior is not open—view it from outside.' }),
   'vaduz-h2': v(30, 45),
   'vaduz-h3': v(75, 90, { c: 'mon', s: 'https://www.kunstmuseum.li/en', k: '2026-10' }),
-  'vaduz-h4': v(30, 40, { b: 'no', n: FREE }),
+  'vaduz-h4': v(30, 40, { c: 'daily', b: 'no', s: 'https://www.myswitzerland.com/en-gb/experiences/postage-stamp-museum/', n: '입장 무료, 매일 10:00~17:00.|Free; open daily 10:00–17:00.', k: '2026-10' }),
   'vaduz-h5': v(30, 45),
   'vaduz-h6': v(10, 15),
   // Schaan

@@ -31,7 +31,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'innsbruck-h4': v(60, 90),
   'innsbruck-h5': v(90, 120, { c: 'daily', s: 'https://www.schlossambras-innsbruck.at/en/', n: '11월에는 휴관합니다. 11월에는 휴관합니다.|Closed in November. Closed in November.', k: '2026-10' }),
   // Graz
-  'graz-h1': v(60, 90, { b: 'no', n: '언덕은 무료이고 엘리베이터·푸니쿨라는 유료입니다.|The hill is free; the lift and funicular charge.' }),
+  'graz-h1': v(60, 90, { b: 'no', s: 'https://graztourismus.at/en/sightseeing-culture/sights/schlossberg-funicular_shg_1482', n: '언덕은 무료로 걸어 오르고 푸니쿨라·엘리베이터는 그라츠 대중교통 표(101구역)로 탑니다.|The hill is free on foot; the funicular and lift take Graz public-transport tickets (zone 101).', k: '2026-10' }),
   'graz-h2': v(60, 75, { c: 'mon', s: 'https://www.museum-joanneum.at/en/kunsthaus-graz', k: '2026-10' }),
   'graz-h3': v(60, 90),
   'graz-h4': v(20, 30),
@@ -50,8 +50,8 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'prague-h4': v(15, 45, { c: 'daily', s: 'https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock-staromestska-radnice-s-orlojem/', n: '9시부터 23시까지 매시 정각에 인형이 움직입니다. 시청 탑은 유료입니다.|The figures move on the hour from 9 am to 11 pm. The town hall tower is ticketed.', k: '2026-10' }),
   'prague-h5': v(60, 75, { n: '계단 299개를 오르거나 엘리베이터를 탑니다.|299 steps, or take the lift.' }),
   'prague-h6': v(120, 150, { c: 'sat', b: 'rec', s: 'https://www.jewishmuseum.cz/', n: '토요일과 유대교 명절에 쉽니다. 여러 회당과 옛 묘지를 통합권으로 봅니다.|Closed on Saturdays and Jewish holidays. One ticket covers the synagogues and the Old Cemetery.', k: '2026-10' }),
-  'prague-h7': v(15, 20),
-  'prague-h8': v(20, 30),
+  'prague-h7': v(15, 20, { c: 'sun,mon', b: 'no', s: 'https://prague.eu/cs/objevujte/chram-matky-bozi-pred-tynem/', n: '화~토 10:00~13:00·15:00~17:00에 열고 12~2월에는 일요일 10:30~12:00에도 엽니다. 입장은 자율 헌금이고 예배 중에는 관람할 수 없습니다.|Open Tue–Sat 10:00–13:00 and 15:00–17:00, plus Sundays 10:30–12:00 from December to February. Entry by donation; no visits during services.', k: '2026-10' }),
+  'prague-h8': v(20, 30, { c: 'daily', b: 'no', s: 'https://prague.eu/en/objevujte/powder', n: '전망 회랑까지 계단 186개입니다. 문 연 뒤 첫 1시간은 50% 할인됩니다.|186 steps to the gallery; 50% off in the first hour after opening.', k: '2026-10' }),
   'prague-h9': v(40, 60, { c: 'daily', s: HRAD, n: '프라하성 통합 입장권으로 봅니다. 일요일 오전은 미사로 입장이 늦습니다.|On the Prague Castle ticket. Entry starts later on Sunday mornings because of mass.', k: '2026-10' }),
   'prague-h10': v(10, 15),
   'prague-h11': v(10, 20),
@@ -65,7 +65,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   // Český Krumlov
   'cesky-krumlov-h1': v(90, 150, { s: 'https://www.zamek-ceskykrumlov.cz/en', n: '월요일 휴무 여부가 코스와 계절마다 다릅니다(박물관과 탑은 9~10월에 매일, 12월에는 화~일요일). 가는 날의 시간표를 확인하세요.|Whether Monday is a closing day depends on the route and the season (the museum and tower open daily in September–October, Tuesday–Sunday in December). Check the timetable for your date.', k: '2026-10' }),
   'cesky-krumlov-h2': v(60, 90),
-  'cesky-krumlov-h3': v(15, 20),
+  'cesky-krumlov-h3': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.ckrumlov.info/cz/oteviraci-doby-pamatek-muzei-a-galerii-2026/', n: '9:00~16:30(화·토 17:00까지)에 열고 일요일은 11:00부터 엽니다.|Open 9:00–16:30 (to 17:00 Tue and Sat); Sundays from 11:00.', k: '2026-10' }),
   'cesky-krumlov-h4': v(120, 180, { n: '여름철에만 할 수 있습니다.|A summer-only activity.' }),
   'cesky-krumlov-h5': v(10, 10),
   // Karlovy Vary
@@ -129,8 +129,8 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'debrecen-h4': v(15, 20),
   'debrecen-h5': v(180, 240),
   // Pécs
-  'pecs-h1': v(45, 60),
-  'pecs-h2': v(20, 30),
+  'pecs-h1': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.iranypecs.hu/en/article/pecs-cathedral', n: '월~토 9:00~17:00(금 10:00부터), 일 11:30~17:00. 표는 16:30까지 팝니다.|Mon–Sat 9:00–17:00 (Fri from 10:00), Sun 11:30–17:00; tickets until 16:30.', k: '2026-10' }),
+  'pecs-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.iranypecs.hu/en/article/mosque-of-pasha-gazi-kasim-pecs', n: '지금은 성당으로 쓰입니다. 월~토 9:00~17:00, 일 13:00~17:00. 대성당과 묶은 통합권이 있습니다.|Now a church: Mon–Sat 9:00–17:00, Sun 13:00–17:00; a combined ticket with the cathedral is available.', k: '2026-10' }),
   'pecs-h3': v(60, 75, { c: 'mon', s: 'https://www.vilagoroksegpecs.hu/en/information/opening-hours', n: '11월 1일에도 쉽니다. 표는 문 닫기 30분 전까지 팝니다.|Also closed on 1 November. Ticket sales end 30 minutes before closing.', k: '2026-10' }),
   'pecs-h4': v(120, 150, { c: 'mon', s: 'https://www.zsolnaynegyed.hu/en', n: '전시장은 월요일에 쉽니다. 겨울(11월 초~봄)에는 상설 전시가 목~일요일에만 열고, 12월 24~26일은 모두 닫습니다.|Exhibitions close on Mondays. In winter (early November to spring) the permanent exhibitions open Thursday–Sunday only, and everything closes on 24–26 December.', k: '2026-10' }),
   'pecs-h5': v(15, 20),
@@ -186,7 +186,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   // Toruń
   'torun-h1': v(60, 90),
   'torun-h2': v(45, 60, { c: 'mon', k: '2026-10' }),
-  'torun-h3': v(20, 30),
+  'torun-h3': v(20, 30, { c: 'daily', b: 'no', s: 'https://muzeum.torun.pl/en/old-town-hall/', n: '탑은 5~9월 10:00~20:00, 4·10월 10:00~18:00, 겨울 10:00~16:00에 엽니다. 시청 안 박물관은 월요일에 쉽니다.|The tower opens 10:00–20:00 May–September, 10:00–18:00 in April and October, 10:00–16:00 in winter; the town-hall museum closes on Mondays.', k: '2026-10' }),
   'torun-h4': v(20, 30),
   'torun-h5': v(60, 75, { c: 'daily', b: 'rec', s: 'https://muzeumpiernika.pl/en/', n: '정해진 시간에 시작하는 체험 프로그램으로 운영합니다.|Runs as hands-on sessions at fixed start times.', k: '2026-10' }),
 }

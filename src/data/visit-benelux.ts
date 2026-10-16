@@ -61,7 +61,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'heidelberg-h2': v(60, 90),
   'heidelberg-h3': v(45, 60),
   'heidelberg-h4': v(15, 20),
-  'heidelberg-h5': v(20, 30),
+  'heidelberg-h5': v(20, 30, { b: 'rec', s: 'https://www.heicollections.uni-heidelberg.de/en/node/396/the-student-karzer', n: '10~5월에는 월~토 10:30~16:00(일요일 휴무), 6~9월에는 매일 10:00~18:00에 엽니다. 시간 지정 입장이라 2주 전까지 예약하라고 안내합니다.|October–May Mon–Sat 10:30–16:00 (closed Sundays); June–September daily 10:00–18:00. Timed tickets—the university suggests reserving up to two weeks ahead.', k: '2026-10' }),
   // Stuttgart
   'stuttgart-h1': v(150, 180, { c: 'mon', s: 'https://www.mercedes-benz.com/en/art-and-culture/museum/', k: '2026-10' }),
   'stuttgart-h2': v(90, 120, { c: 'mon', s: 'https://www.porsche.com/international/aboutporsche/porschemuseum/', k: '2026-10' }),
@@ -86,7 +86,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'munich-h3': v(120, 150, { c: 'daily', s: 'https://www.schloss-nymphenburg.de/englisch/palace/index.htm', k: '2026-10' }),
   'munich-h4': v(120, 180, { c: 'mon', s: 'https://www.pinakothek.de/en', n: '노이에 피나코테크는 보수 공사로 2029년까지 휴관합니다. 알테 피나코테크는 월요일에 쉽니다.|The Neue Pinakothek is closed for renovation until 2029. The Alte Pinakothek closes on Mondays.', k: '2026-10' }),
   'munich-h5': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.hofbraeuhaus.de/en/', k: '2026-10' }),
-  'munich-h6': v(15, 20),
+  'munich-h6': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.muenchen.de/en/sights/churches/jesuit-church-st-michael-germanys-first-renaissance-church', n: '성당은 무료입니다. 지하 비텔스바흐 왕가 묘소는 유료이고 따로 정한 시간에만 엽니다.|The church is free; the Wittelsbach crypt below is ticketed and keeps shorter hours.', k: '2026-10' }),
   // Füssen
   'fussen-h1': v(180, 240, { c: 'daily', b: 'req', s: 'https://www.neuschwanstein.de/englisch/tourist/index.htm', t: NEUSCH_T, n: '내부는 시간 지정 가이드 투어로만 보며 성수기에는 몇 주 전에 매진됩니다. 매표소에서 성까지 오르막으로 30~40분 걸립니다.|The interior is by timed guided tour only and sells out weeks ahead in season. It is a 30–40 minute uphill walk from the ticket centre.', k: '2026-10' }),
   'fussen-h2': v(90, 120, { c: 'daily', b: 'req', s: 'https://www.hohenschwangau.de/en/', t: NEUSCH_T, k: '2026-10' }),
@@ -129,7 +129,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'leuven-h2': v(30, 45),
   'leuven-h3': v(20, 30),
   'leuven-h4': v(20, 30, { c: 'daily', s: 'https://www.mleuven.be/en', k: '2026-10' }),
-  'leuven-h5': v(30, 45, { b: 'no', n: FREE }),
+  'leuven-h5': v(30, 45, { b: 'no', s: 'https://www.visitleuven.be/en/travel-trade/highlights', n: '언제든 무료로 들어갈 수 있지만 주민이 사는 곳이니 조용히 둘러보세요.|Always open and free, but people live here—please keep it quiet.', k: '2026-10' }),
   'leuven-h6': v(20, 30, { b: 'no', n: FREE }),
   // Dinant
   'dinant-h1': v(75, 90, { c: 'daily', s: 'https://www.citadellededinant.be/en', n: '케이블카나 계단 408개로 올라갑니다.|Reached by cable car or 408 steps.', k: '2026-10' }),
@@ -199,7 +199,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'luxembourg-city-h2': v(90, 120),
   'luxembourg-city-h3': v(45, 60, { c: 'daily', s: 'https://www.luxembourg-city.com/en/tours-activities/underground/bock-casemates', n: '겨울에는 닫는 기간이 있습니다. 12월 25일과 1월 1일은 쉽니다.|Closed for part of the winter. Closed 25 December and 1 January.', k: '2026-10' }),
   'luxembourg-city-h4': v(60, 90),
-  'luxembourg-city-h5': v(15, 20, { b: 'no', n: FREE }),
+  'luxembourg-city-h5': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.visitluxembourg.com/place/cathedrale-notre-dame', n: '매일 8:00~18:00(일요일 19:00까지).|Open daily 8:00–18:00 (Sundays to 19:00).', k: '2026-10' }),
   'luxembourg-city-h6': v(10, 15),
   'luxembourg-city-h7': v(45, 60),
   // Vianden
@@ -209,7 +209,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'vianden-h4': v(30, 45, { s: 'https://victor-hugo.lu/' }),
   // Echternach
   'echternach-h1': v(45, 90),
-  'echternach-h2': v(20, 30, { b: 'no', n: FREE }),
+  'echternach-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://basilika.lu/en/', n: '보통 8:00~18:00(일요일은 13:00부터)에 엽니다.|Usually open 8:00–18:00 (Sundays from 13:00).', k: '2026-10' }),
   'echternach-h3': v(180, 300),
   'echternach-h4': v(30, 45),
   // Remich

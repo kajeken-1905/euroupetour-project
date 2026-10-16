@@ -31,8 +31,8 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Segovia
   'segovia-h1': v(20, 30),
   'segovia-h5': v(10, 15),
-  'segovia-h6': v(10, 15),
-  'segovia-h7': v(10, 15),
+  'segovia-h6': v(10, 15, { b: 'no', s: 'https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-millan-6385', n: '관광객은 미사 30분 전에만 안을 볼 수 있고 미사 중에는 들어갈 수 없습니다.|Visitors may go in only in the half hour before Mass; no sightseeing during services.', k: '2026-10' }),
+  'segovia-h7': v(10, 15, { b: 'no', s: 'https://www.turismocastillayleon.com/es/patrimonio-cultura/iglesias-ermitas/iglesia-san-martin-6390', n: '토요일 12:00~14:00·16:30~18:30에 열고, 그 밖에는 미사 30분 전에만 들어갈 수 있습니다.|Open Saturdays 12:00–14:00 and 16:30–18:30; otherwise only in the half hour before Mass.', k: '2026-10' }),
   'segovia-h3': v(45, 60, { c: 'daily', s: 'https://catedralsegovia.es/en/', n: '일요일은 13시 30분부터 관광 입장이 됩니다.|On Sundays sightseeing entry starts at 1:30 pm.', k: '2026-10' }),
   'segovia-h4': v(30, 45),
   'segovia-h8': v(20, 30),
@@ -64,7 +64,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'barcelona-h5': v(60, 120),
   'barcelona-h15': v(45, 60, { n: '관광 입장은 유료이고 어깨와 무릎을 가려야 합니다.|Sightseeing entry is ticketed; cover shoulders and knees.' }),
   'barcelona-h3': v(90, 120),
-  'barcelona-h21': v(10, 15, { b: 'no', n: FREE }),
+  'barcelona-h21': v(10, 15, { c: 'daily', b: 'no', s: 'https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-temple-daugust', n: '입장 무료. 월 10:00~14:00, 화~토 10:00~19:00, 일 10:00~20:00.|Free. Mon 10:00–14:00, Tue–Sat 10:00–19:00, Sun 10:00–20:00.', k: '2026-10' }),
   'barcelona-h24': v(15, 20),
   'barcelona-h22': v(10, 10),
   'barcelona-h13': v(90, 120, { c: 'mon', b: 'rec', s: 'https://museupicassobcn.cat/en', k: '2026-10' }),
@@ -159,7 +159,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Gibraltar
   'gibraltar-h1': v(180, 240, { n: '바위산 위쪽은 자연보호구역 입장권이 필요합니다. 국경을 넘을 때 여권을 가져가세요.|The Upper Rock needs a Nature Reserve ticket. Carry your passport for the border.' }),
   'gibraltar-h2': v(30, 45, { n: '강풍이 불면 운휴합니다.|Stops running in high winds.' }),
-  'gibraltar-h3': v(30, 45),
+  'gibraltar-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://visitgibraltar.gi/see-and-do/st-michaels-cave', t: 'https://naturereserve.gi', n: '자연보호구역 입장권에 포함됩니다. 10~4월 9:00~18:15, 5~9월 9:30~19:15.|Included in the Nature Reserve ticket. Open 9:00–18:15 October–April, 9:30–19:15 May–September.', k: '2026-10' }),
   'gibraltar-h4': v(20, 30, { n: '원숭이에게 먹이를 주면 벌금을 뭅니다. 가방과 음식을 조심하세요.|Feeding the monkeys is fined. Watch your bags and food.' }),
   'gibraltar-h5': v(20, 30),
   // Bilbao
@@ -241,7 +241,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'fatima-h2': v(20, 30, { b: 'no', s: FATIMA }),
   'fatima-h3': v(15, 20, { b: 'no', s: FATIMA }),
   'fatima-h4': v(15, 20, { b: 'no', s: FATIMA }),
-  'fatima-h5': v(40, 45),
+  'fatima-h5': v(40, 45, { c: 'daily', s: 'https://www.fatima.pt/pt/pages/museu-do-santuario-de-fatima', n: '9:00~12:30, 14:00~18:00에 열고 12월 24일 오후·25일·1월 1일에 쉽니다.|Open 9:00–12:30 and 14:00–18:00; closed 24 December afternoon, 25 December and 1 January.', k: '2026-10' }),
   // Nazaré
   'nazare-h1': v(60, 120),
   'nazare-h2': v(20, 30),
@@ -307,6 +307,6 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'funchal-h1': v(60, 90, { n: '편도 15분쯤 걸리고, 내려올 때는 썰매(토보간)를 타기도 합니다.|About 15 minutes each way; many come down by wicker toboggan.' }),
   'funchal-h2': v(75, 90, { c: 'daily', n: '12월 25일만 쉽니다.|Closed only on 25 December.', k: '2026-10' }),
   'funchal-h3': v(30, 45, { c: 'sun', n: '일요일과 공휴일에 쉬고 토요일은 오후 2시에 닫습니다.|Closed on Sundays and public holidays; Saturdays end at 2pm.', k: '2026-10' }),
-  'funchal-h4': v(15, 20),
+  'funchal-h4': v(15, 20, { c: 'daily', b: 'no', s: 'https://visit.funchal.pt/item/se-do-funchal/?lang=en', n: '입장은 무료이고 미사 중에는 조용히 둘러봐야 합니다.|Free; services are held daily, so visit quietly.', k: '2026-10' }),
   'funchal-h5': v(60, 90),
 }
