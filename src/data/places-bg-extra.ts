@@ -25,20 +25,15 @@ export const placesBGExtra: Place[] = [
 
   // —— varna ——
   place('varna-fine_dining-2', 'varna', 'fine_dining', 'Staria Chinar Cherno More', 'bul. "Slivnitsa" 33, 9000 Varna', '바르나에 여러 지점을 둔 불가리아 요리 레스토랑의 체르노 모레 지점.', 'Cherno More branch of a Bulgarian restaurant with several locations in Varna.'),
-  place('varna-fine_dining-3', 'varna', 'fine_dining', 'El Kapan', 'Severni Plazh, 9000 Varna', '북쪽 해변가의 레스토랑.', 'Restaurant on Varna\'s northern beach.'),
+  place('varna-fine_dining-3', 'varna', 'fine_dining', 'El Kapan', 'Kraybrezhna Aleya, Severni Morski Bani, 9000 Varna', '북쪽 해수욕장(세베르니 모르스키 바니) 해변 산책로의 카리브풍 레스토랑. 해산물·꼬치 요리와 칵테일을 냅니다.', 'Caribbean-themed restaurant on the North Sea Baths beach promenade, serving seafood, skewers and cocktails.'),
   place('varna-cafe-1', 'varna', 'cafe', 'The Social Teahouse', 'ul. Preslav 53, 9000 Varna', '보호시설을 떠난 청년들을 고용하는 사회적 기업 찻집. 옛 주택 1층에 30여 가지 차와 레모네이드.', 'Social-enterprise teahouse employing young people leaving foster care; 30+ teas and lemonades in a historic house.'),
   place('varna-cafe-2', 'varna', 'cafe', 'Wholehearted Cafe', 'ul. "Tsaribrod" 29, 9000 Varna', '북유럽풍 미니멀 카페. 스페셜티 커피와 채식 메뉴, 노트북 작업하기 좋은 곳.', 'Minimalist Scandinavian-style cafe with specialty coffee, vegetarian options and room for laptops.'),
   place('varna-cafe-3', 'varna', 'cafe', 'Samba Coffee/HQ', 'ul. "Preslav" 25, 9000 Varna', '기차역 근처 보행자 거리의 카페. 테라스와 브라질식 디저트.', 'Cafe on a pedestrian street near the station, with a terrace and Brazilian desserts.'),
 
   // —— veliko-tarnovo ——
-  place('veliko-tarnovo-fine_dining-1', 'veliko-tarnovo', 'fine_dining', 'Kolyo Ficheto Complex', 'Georgi S. Rakovski 19, Veliko Tarnovo 5000', '19세기 건물의 역사적인 레스토랑.', 'Historic restaurant in a 19th-century inn.'),
-  place('veliko-tarnovo-fine_dining-2', 'veliko-tarnovo', 'fine_dining', 'Shtastliveca', 'ul. "Stefan Stambolov" 79, Veliko Tarnovo 5000', '벨리코 터르노보의 인기 레스토랑.', 'Popular restaurant in Veliko Tarnovo.'),
+  place('veliko-tarnovo-fine_dining-2', 'veliko-tarnovo', 'fine_dining', 'Shtastliveca', 'ul. "Stefan Stambolov" 79, Veliko Tarnovo 5000', '구시가지 스테판 스탐볼로프 거리의 레스토랑. 강 쪽 테라스석은 예약을 권합니다.', 'Old-town restaurant on Stefan Stambolov Street; book ahead for the terrace.'),
   place('veliko-tarnovo-fine_dining-3', 'veliko-tarnovo', 'fine_dining', 'Restaurant Asenevtsi', 'ul. "Alexander Stamboliyski" 7, Veliko Tarnovo 5000', '벨리코 터르노보의 레스토랑.', 'Restaurant in Veliko Tarnovo.'),
-  place('veliko-tarnovo-bakery-1', 'veliko-tarnovo', 'bakery', 'Kozunacheni Komincheta', 'Vastanicheska 46, 5000 Veliko Tarnovo, Bulgaria', '달콤한 코주낙 빵으로 유명한 벨리코 터르노보의 인기 베이커리', 'Popular Veliko Tarnovo bakery known for its sweet kozunak bread'),
-  place('veliko-tarnovo-bakery-2', 'veliko-tarnovo', 'bakery', 'Пекарна & Сладкарница Асеневци', 'ul. "Narodni buditeli" 21, Veliko Tarnovo 5000', '벨리코 터르노보의 제과점.', 'Bakery in Veliko Tarnovo.'),
-  place('veliko-tarnovo-cafe-1', 'veliko-tarnovo', 'cafe', 'Amaretto', 'bul. Nezavisimost 39, 5000 Veliko Tarnovo, Bulgaria', '셀프 서비스 방식의 인기 커피숍, 페이스트리로 유명', 'Popular self-service coffee shop known for its pastries'),
-  place('veliko-tarnovo-cafe-2', 'veliko-tarnovo', 'cafe', 'Samurai Coffee Shop', 'ul. "Stefan Stambolov" 38, Veliko Tarnovo 5000', '스페셜티 커피 전문점.', 'Specialty coffee shop.'),
-  place('veliko-tarnovo-cafe-3', 'veliko-tarnovo', 'cafe', 'FIKA Coffee and Pastries', 'ul. "Nezavisimost" 9, Veliko Tarnovo 5000', '커피·페이스트리 전문점.', 'Coffee and pastry shop.'),
+  place('veliko-tarnovo-cafe-2', 'veliko-tarnovo', 'cafe', 'Samurai Coffee Shop', 'ul. "Stefan Stambolov" 38, Veliko Tarnovo 5000', '스테판 스탐볼로프 거리의 스페셜티 커피 전문점.', 'Specialty coffee shop on Stefan Stambolov Street.'),
 
   // —— nessebar ——
   place('nessebar-fine_dining-1', 'nessebar', 'fine_dining', 'Old Nessebar', 'Ivan Alexander 11, Nessebar 8230', '구시가의 해산물 레스토랑.', 'Seafood restaurant in the old town.'),
