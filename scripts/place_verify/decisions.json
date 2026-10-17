@@ -1,7 +1,20 @@
 {
+"aalborg-bakery-1": {
+"del": 1
+},
+"aalborg-bakery-2": {
+"en": "Neighbourhood bakery in central Aalborg with cinnamon buns, chocolate-coconut cake and focaccia, plus seating.",
+"ko": "올보르 시내의 동네 빵집. 시나몬번·초콜릿 코코넛 케이크·포카치아가 있고 앉을 자리도 있습니다.",
+"ok": 1
+},
 "aalborg-cafe-1": {
 "en": "Coffee roaster café in central Aalborg, opened 2004, with homemade cakes and teas; closed Sundays and Mondays.",
 "ko": "2004년 문을 연 올보르 시내의 커피 로스터리 카페. 직접 만든 케이크와 차가 있고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"aalborg-cafe-2": {
+"en": "Family-run café on Algade, opened 2013, with a long coffee menu and a rooftop terrace overlooking the city.",
+"ko": "알가데 거리의 가족 운영 카페(2013년 개업). 커피 메뉴가 많고 시내가 보이는 옥상 테라스가 있습니다.",
 "ok": 1
 },
 "aalborg-fine_dining-1": {
@@ -18,6 +31,49 @@
 "en": "One-Michelin-star restaurant in Aalborg serving modern farm-to-table cooking.",
 "ko": "올보르의 미쉐린 1스타 레스토랑. 농장 직송 재료로 현대 요리를 냅니다.",
 "mi": "star1",
+"ok": 1
+},
+"aarhus-bakery-1": {
+"del": 1
+},
+"aarhus-bakery-2": {
+"en": "Sourdough bakery in the Latin Quarter, round the corner from La Cabra’s original café; open daily.",
+"ko": "라틴 쿼터의 사워도우 빵집. 라 카브라 첫 카페 근처에 있고 매일 엽니다.",
+"ok": 1
+},
+"aarhus-bakery-3": {
+"del": 1
+},
+"aarhus-bakery-4": {
+"en": "Neighbourhood bakery on the coast road in Risskov.",
+"ko": "리스코우 해안 도로의 동네 빵집.",
+"ok": 1
+},
+"aarhus-cafe-1": {
+"en": "Latin Quarter specialty coffee café where La Cabra started in 2012, known for its cardamom buns.",
+"ko": "2012년 라 카브라가 시작된 라틴 쿼터의 스페셜티 커피 카페. 카다멈번이 유명합니다.",
+"ok": 1
+},
+"aarhus-cafe-2": {
+"en": "Riverside café and bar in central Aarhus with burgers, sandwiches and an evening set menu.",
+"ko": "오르후스 강변의 카페 겸 바. 버거·샌드위치·저녁 코스가 있습니다.",
+"ok": 1
+},
+"aarhus-cafe-3": {
+"en": "Café on the fourth floor of the ARoS art museum; free to enter for the café alone.",
+"ko": "아로스 미술관 4층의 카페. 카페만 이용하면 입장료가 없습니다.",
+"ok": 1
+},
+"aarhus-cafe-4": {
+"addr": "Klostergade 32E, 8000 Aarhus C",
+"en": "Coffee bar and roastery in a Latin Quarter back alley, run by a Danish barista champion; closed Sundays and Mondays.",
+"ko": "라틴 쿼터 뒷골목의 커피 바 겸 로스터리. 덴마크 바리스타 챔피언이 운영합니다. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"aarhus-cafe-5": {
+"addr": "Marselisborg Havnevej 54, 8000 Aarhus C",
+"en": "Café aboard a 1950 former ferry moored at the entrance to Marselisborg marina; mainly open in summer.",
+"ko": "마르셀리스보 요트 항구 입구에 정박한 1950년 옛 페리 위의 카페. 여름철 위주로 엽니다.",
 "ok": 1
 },
 "aarhus-fine_dining-1": {
@@ -43,6 +99,14 @@
 "en": "One-Michelin-star restaurant in Risskov; closed Mondays and Tuesdays.",
 "ko": "리스코우의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"aarhus-fine_dining-5": {
+"del": 1
+},
+"aarhus-korean-1": {
+"en": "Korean restaurant in the centre with bibimbap, tteokbokki and bento boxes; closed Mondays.",
+"ko": "시내 중심의 한식당. 비빔밥·떡볶이·도시락이 있고 월요일은 쉽니다.",
 "ok": 1
 },
 "alghero-bakery-1": {
@@ -2989,11 +3053,54 @@
 "ko": "구시가지 북쪽의 한식당. 잡채·비빔밥·만두가 있고 저녁에 열며 월요일은 쉽니다.",
 "ok": 1
 },
+"odense-bakery-1": {
+"del": 1
+},
+"odense-bakery-2": {
+"addr": "Vestergade 44, 5000 Odense C",
+"en": "Sourdough bakery in the centre with cinnamon swirls in several flavours and croissants; closed Sundays.",
+"ko": "시내의 사워도우 빵집. 여러 맛의 시나몬 스윌과 크루아상이 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"odense-cafe-1": {
+"en": "Small, cosy light-roast coffee café with homemade baked goods and natural wine.",
+"ko": "작고 아늑한 라이트 로스트 커피 카페. 직접 구운 빵과 내추럴 와인도 있습니다.",
+"ok": 1
+},
+"odense-cafe-2": {
+"addr": "Brandts Passage 39-41, 5000 Odense C",
+"en": "Café and art-house cinema in the Brandts quarter, open since 1983, with three screens and outdoor seating.",
+"ko": "1983년 문을 연 브란츠 지구의 카페 겸 예술 영화관. 상영관 3개와 야외석이 있습니다.",
+"ok": 1
+},
+"odense-cafe-3": {
+"en": "Coffee and wine bar on the edge of the old town near Hans Christian Andersen’s House, with bread, cake and outdoor seating.",
+"ko": "안데르센 생가 근처 구시가지의 커피·와인 바. 빵·케이크와 야외석이 있습니다.",
+"ok": 1
+},
+"odense-fine_dining-1": {
+"en": "Scandinavian restaurant in a 1771 building behind Hans Christian Andersen’s House, a restaurant since 1965.",
+"ko": "안데르센 생가 뒤 1771년 건물의 스칸디나비아 레스토랑. 1965년부터 식당으로 쓰였습니다.",
+"ok": 1
+},
 "odense-fine_dining-2": {
 "en": "One-Michelin-star restaurant in a former factory on the edge of Odense; Wednesday to Saturday evenings.",
 "ko": "오덴세 외곽의 옛 공장 건물에 있는 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.",
 "mi": "star1",
 "ok": 1
+},
+"odense-fine_dining-3": {
+"en": "Modern Danish restaurant in Brandts Passage with an open kitchen; Wednesday to Saturday.",
+"ko": "브란츠 파사주의 현대 덴마크 식당. 오픈 키친이 있고 수~토요일에 엽니다.",
+"ok": 1
+},
+"odense-fine_dining-4": {
+"en": "Danish restaurant in a 1683 building with a glass-roofed courtyard between two houses, serving smørrebrød.",
+"ko": "1683년 건물의 덴마크 식당. 두 집 사이 유리 지붕 안뜰이 있고 스뫼레브뢰드를 냅니다.",
+"ok": 1
+},
+"odense-korean-1": {
+"del": 1
 },
 "ordino-bakery-1": {
 "addr": "Ordino (near Hotel La Planada), AD300",
@@ -3358,6 +3465,44 @@
 "addr": "Via degli Orfani 84, 00186 Roma",
 "en": "Coffee bar by the Pantheon, famous for coffee granita with cream; closed Sundays.",
 "ko": "판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.",
+"ok": 1
+},
+"roskilde-bakery-1": {
+"en": "Neighbourhood bakery in Roskilde with a wide range of bread, pastries and cakes; busy early in the morning.",
+"ko": "로스킬레의 동네 빵집. 빵·페이스트리·케이크가 다양하고 아침 일찍 붐빕니다.",
+"ok": 1
+},
+"roskilde-bakery-2": {
+"en": "Bakery café in the centre with slow-fermented sourdough, cakes, brunch and smørrebrød.",
+"ko": "시내 중심의 빵집 겸 카페. 저온 발효 사워도우와 케이크, 브런치·스뫼레브뢰드가 있습니다.",
+"ok": 1
+},
+"roskilde-cafe-1": {
+"en": "Organic coffee roastery café in a converted container in Musicon, which also roasts the Roskilde Festival coffee.",
+"ko": "뮤지콘 지구 컨테이너의 유기농 커피 로스터리 카페. 로스킬레 페스티벌 커피도 볶습니다.",
+"ok": 1
+},
+"roskilde-cafe-2": {
+"del": 1
+},
+"roskilde-cafe-3": {
+"en": "Danish café on Algade near the station, serving smørrebrød at lunch.",
+"ko": "역 근처 알가데 거리의 덴마크식 카페. 점심에 스뫼레브뢰드를 냅니다.",
+"ok": 1
+},
+"roskilde-fine_dining-1": {
+"en": "Seasonal Danish restaurant on Roskilde harbour with fjord views.",
+"ko": "로스킬레 항구의 계절 덴마크 레스토랑. 피오르가 보입니다.",
+"ok": 1
+},
+"roskilde-fine_dining-2": {
+"en": "Danish cellar restaurant under the old town hall, 50 m from the cathedral, with smørrebrød at lunch, grill dishes at dinner and a summer courtyard.",
+"ko": "대성당에서 50m 거리, 옛 시청 지하의 덴마크 식당. 점심엔 스뫼레브뢰드, 저녁엔 그릴 요리를 내고 여름엔 안뜰 좌석이 있습니다.",
+"ok": 1
+},
+"roskilde-fine_dining-3": {
+"en": "Small northern Italian restaurant run by a Danish-Italian couple, using mostly organic produce; Tuesday to Saturday evenings.",
+"ko": "덴마크·이탈리아 부부가 운영하는 작은 북부 이탈리아 식당. 유기농 재료를 쓰고 화~토 저녁에 엽니다.",
 "ok": 1
 },
 "rothenburg-bakery-1": {
