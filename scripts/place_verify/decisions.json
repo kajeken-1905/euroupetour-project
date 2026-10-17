@@ -477,11 +477,104 @@
 "banska-bystrica-fine_dining-1": {
 "del": "그 식당을 확인할 수 없음"
 },
+"barcelona-bakery-1": {
+"del": 1
+},
+"barcelona-bakery-2": {
+"en": "Born-district pâtisserie with a mascarpone-filled croissant that sells out early at weekends.",
+"ko": "보른 지구의 파티스리. 마스카르포네 크루아상이 있고 주말엔 일찍 떨어집니다.",
+"ok": 1
+},
+"barcelona-bakery-3": {
+"en": "Pâtisserie in a modernist building on La Rambla (since 1906), known for its red-lips cake.",
+"ko": "람블라스 거리 모더니즘 건물의 파티스리(1906년부터). 빨간 입술 모양 케이크가 있습니다.",
+"ok": 1
+},
+"barcelona-bakery-4": {
+"del": 1
+},
+"barcelona-bakery-5": {
+"del": 1
+},
+"barcelona-cafe-1": {
+"addr": "Rambla de Catalunya 102, 08008 Barcelona",
+"en": "Long-established pâtisserie café on Rambla de Catalunya with pastries and savoury bites.",
+"ko": "람블라 데 카탈루냐의 오래된 제과 카페. 페이스트리와 짭짤한 간식이 있습니다.",
+"ok": 1
+},
+"barcelona-cafe-2": {
+"en": "Nomad Coffee’s coffee corner in Poblenou; card only.",
+"ko": "포블레노우에 있는 노마드 커피의 커피 코너. 현금은 받지 않습니다.",
+"name": "Nomad Frutas Selectas",
+"ok": 1
+},
+"barcelona-cafe-3": {
+"del": 1
+},
+"barcelona-cafe-4": {
+"del": 1
+},
+"barcelona-cafe-5": {
+"en": "Eixample specialty coffee shop roasting its own beans, with cardamom buns.",
+"ko": "원두를 직접 볶는 에이샴플레의 스페셜티 커피숍. 카다멈 번이 있습니다.",
+"ok": 1
+},
+"barcelona-cafe-6": {
+"en": "Granja on Carrer Petritxol (since 1947) with thick hot chocolate, churros and suís.",
+"ko": "페트리촐 거리의 그란하(1947년부터). 진한 핫초콜릿과 추로스, 휘핑크림 얹은 수이스가 있습니다.",
+"ok": 1
+},
 "barcelona-fine_dining-1": {
 "addr": "Ronda de Sant Antoni 41, 08011 Barcelona",
 "en": "One-Michelin-star Catalan restaurant in Barcelona; closed at weekends.",
 "ko": "바르셀로나의 미쉐린 1스타 카탈루냐 요리 레스토랑. 주말은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"barcelona-fine_dining-2": {
+"en": "Born tapas bar serving seafood tapas at the counter; fills up early.",
+"ko": "보른 지구의 타파스 바. 카운터에서 해산물 타파스를 내고 일찍 찹니다.",
+"ok": 1
+},
+"barcelona-fine_dining-3": {
+"en": "Traditional Catalan restaurant in the Gothic Quarter (opened 1786) with cannelloni, butifarra and crema catalana.",
+"ko": "고딕 지구의 카탈루냐 전통 식당(1786년 개업). 카넬로니·부티파라·크레마 카탈라나가 있습니다.",
+"ok": 1
+},
+"barcelona-fine_dining-4": {
+"en": "Café-restaurant in Puig i Cadafalch’s Casa Martí, where Picasso held his first exhibition in 1900.",
+"ko": "퓌츠 이 카다팔크가 설계한 카사 마르티의 카페 레스토랑. 피카소가 1900년 첫 전시를 연 곳입니다.",
+"ok": 1
+},
+"barcelona-fine_dining-5": {
+"en": "Tiny standing-room bodega in Poble Sec (since 1914) with conserva montaditos and house vermouth.",
+"ko": "포블레섹의 서서 먹는 작은 보데가(1914년부터). 통조림 해산물 몬타디토와 수제 베르무트가 있습니다.",
+"ok": 1
+},
+"barcelona-korean-1": {
+"addr": "Carrer de Calàbria 232, 08029 Barcelona",
+"en": "Korean restaurant in the Eixample with tabletop barbecue, dolsot bibimbap and kimchi stew.",
+"ko": "에이샴플레의 한식당. 테이블 바비큐와 돌솥비빔밥·김치찌개가 있습니다.",
+"ok": 1
+},
+"barcelona-korean-2": {
+"addr": "Carrer d’Aribau 146 bis, 08036 Barcelona",
+"en": "Korean barbecue restaurant in the Eixample.",
+"ko": "에이샴플레의 한국식 바비큐 식당.",
+"ok": 1
+},
+"barcelona-korean-3": {
+"en": "Small Korean restaurant in Hostafrancs with bibimbap, mandu and kimchi stew; book at weekends.",
+"ko": "오스타프랑크스 지구의 작은 한식당. 비빔밥·만두·김치찌개가 있고 주말엔 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"barcelona-korean-4": {
+"del": 1
+},
+"barcelona-korean-5": {
+"addr": "Carrer del Consell de Cent 465, 08013 Barcelona",
+"en": "Korean restaurant in the Eixample with generous portions; booking advised.",
+"ko": "에이샴플레의 한식당. 양이 넉넉하고 예약하는 편이 좋습니다.",
 "ok": 1
 },
 "basel-bakery-1": {
@@ -769,12 +862,76 @@
 "bern-korean-5": {
 "del": 1
 },
+"bilbao-bakery-1": {
+"del": 1
+},
+"bilbao-bakery-2": {
+"addr": "Doctor Areilza 38, 48010 Bilbao",
+"en": "Branch of Martina de Zuricalday, a Basque pâtisserie founded in 1830, with bollo suizo.",
+"ko": "1830년 시작한 바스크의 제과점 마르티나 데 수리칼다이의 지점. 볼로 수이소가 있습니다.",
+"ok": 1
+},
+"bilbao-bakery-3": {
+"addr": "Marqués del Puerto 4, 48009 Bilbao",
+"en": "Pâtisserie in the Abando district with butter buns, suizos, croissants and truffles.",
+"ko": "아반도 지구의 제과점. 버터 번·수이소·크루아상과 트러플이 있습니다.",
+"ok": 1
+},
+"bilbao-bakery-4": {
+"en": "Branch of Arrese, a family-run pâtisserie founded in 1852, with chocolate palmiers and truffles.",
+"ko": "1852년 시작한 가족 경영 제과점 아레세의 지점. 초콜릿 팔미에와 트러플이 있습니다.",
+"ok": 1
+},
+"bilbao-cafe-1": {
+"del": 1
+},
+"bilbao-cafe-2": {
+"addr": "Barraincúa 9, 48009 Bilbao",
+"en": "Specialty coffee and brunch café near the Guggenheim, opened in 2021.",
+"ko": "구겐하임 근처의 스페셜티 커피·브런치 카페(2021년 개업).",
+"ok": 1
+},
+"bilbao-cafe-3": {
+"addr": "Rodríguez Arias 22, 48009 Bilbao",
+"en": "Bilbao branch of a Spanish specialty coffee chain with filter coffee and brunch.",
+"ko": "스페인 스페셜티 커피 체인의 빌바오 매장. 필터 커피와 브런치가 있습니다.",
+"ok": 1
+},
+"bilbao-cafe-4": {
+"addr": "Colón de Larreátegui 31, 48011 Bilbao",
+"en": "Outlet of the Bertiz bakery-café chain with pastries and coffee.",
+"ko": "빵집 겸 카페 체인 베르티스의 매장. 페이스트리와 커피가 있습니다.",
+"ok": 1
+},
 "bilbao-fine_dining-1": {
 "addr": "Avenida de Abandoibarra 2, 48009 Bilbao",
 "en": "One-Michelin-star restaurant inside the Guggenheim Museum; open only a few days, so check ahead.",
 "ko": "구겐하임 미술관 건물 안의 미쉐린 1스타 레스토랑. 여는 날이 적으니 미리 확인하세요.",
 "mi": "star1",
 "ok": 1
+},
+"bilbao-fine_dining-2": {
+"en": "Pintxos bar on Plaza Nueva with hot pintxos made to order; won the 2016 Basque Country pintxo championship.",
+"ko": "누에바 광장의 핀초스 바. 주문하면 만드는 따뜻한 핀초스가 있고 2016년 바스크 핀초 대회에서 우승했습니다.",
+"ok": 1
+},
+"bilbao-fine_dining-3": {
+"en": "Traditional Basque restaurant in the Casco Viejo (since 1959) with cazuelitas and bacalao al pil-pil; booking advised.",
+"ko": "카스코 비에호의 바스크 전통 식당(1959년부터). 카수엘라 요리와 대구 필필이 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"bilbao-fine_dining-4": {
+"en": "Ham-focused pintxos bar and restaurant opened in 1927, near Moyua metro, with a deli shop next door.",
+"ko": "1927년 문을 연 하몬 핀초스 바 겸 레스토랑. 모유아 역 근처에 있고 옆에 식료품 가게가 있습니다.",
+"ok": 1
+},
+"bilbao-fine_dining-5": {
+"en": "Seafood restaurant in Indautxu; book for weekend dinners.",
+"ko": "인다우추의 해산물 식당. 주말 저녁엔 붐벼 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"bilbao-korean-1": {
+"del": 1
 },
 "bled-fine_dining-1": {
 "en": "Restaurant in the Grand Hotel Toplice, listed in the Michelin Guide; closed Sundays and Mondays.",
@@ -1218,6 +1375,24 @@
 "addr": "7 High Street, Conwy LL32 8DB",
 "ok": 1
 },
+"cordoba-bakery-1": {
+"del": 1
+},
+"cordoba-bakery-2": {
+"del": 1
+},
+"cordoba-bakery-4": {
+"del": 1
+},
+"cordoba-cafe-1": {
+"del": 1
+},
+"cordoba-cafe-2": {
+"addr": "Calle Lucano 15, 14003 Córdoba",
+"en": "Morning specialty coffee shop with V60 pour-overs and homemade cookies.",
+"ko": "오전에 여는 스페셜티 커피숍. V60 핸드드립과 홈메이드 쿠키가 있습니다.",
+"ok": 1
+},
 "cordoba-cafe-4": {
 "del": "코르도바에서 그 카페를 찾을 수 없음"
 },
@@ -1226,6 +1401,19 @@
 "en": "Three-Michelin-star restaurant of chef Paco Morales, reinterpreting Andalusian historical cuisine.",
 "ko": "셰프 파코 모랄레스의 미쉐린 3스타 레스토랑. 안달루시아 역사 요리를 재해석합니다.",
 "mi": "star3",
+"ok": 1
+},
+"cordoba-fine_dining-2": {
+"en": "Tavern near the Plaza de la Corredera serving salmorejo, flamenquín and fried aubergine, with an Andalusian patio; closed Sundays.",
+"ko": "코레데라 광장 근처의 타베르나. 살모레호·플라멩킨·가지튀김을 내고 안달루시아식 안뜰이 있습니다. 일요일은 쉽니다.",
+"ok": 1
+},
+"cordoba-fine_dining-3": {
+"del": 1
+},
+"cordoba-fine_dining-4": {
+"en": "Andalusian restaurant in the Jewish Quarter near the Mezquita, with tapas such as salmorejo.",
+"ko": "메스키타 근처 유대인 지구의 안달루시아 요리 식당. 살모레호 같은 타파스가 있습니다.",
 "ok": 1
 },
 "cordoba-fine_dining-5": {
@@ -1796,17 +1984,93 @@
 "ko": "한국식 바비큐·김치볶음밥·치킨을 내는 한식당.",
 "ok": 1
 },
+"gibraltar-bakery-1": {
+"del": 1
+},
+"gibraltar-bakery-2": {
+"en": "Boutique bakery making cakes, cupcakes and brownies; closed Sundays.",
+"ko": "케이크·컵케이크·브라우니를 만드는 부티크 빵집. 일요일은 쉽니다.",
+"ok": 1
+},
+"gibraltar-bakery-3": {
+"del": 1
+},
+"gibraltar-bakery-4": {
+"del": 1
+},
+"gibraltar-cafe-1": {
+"addr": "1 Convent Place, Gibraltar GX11 1AA",
+"en": "Kosher bakery and restaurant on Convent Place.",
+"ko": "컨벤트 플레이스의 코셔 빵집 겸 식당.",
+"name": "Amar’s Kosher Bakery & Restaurant",
+"ok": 1
+},
+"gibraltar-cafe-2": {
+"del": 1
+},
+"gibraltar-fine_dining-1": {
+"del": 1
+},
+"gibraltar-fine_dining-2": {
+"addr": "Unit G8, ICC, 2 Main Street, Casemates Square, Gibraltar GX11 1AA",
+"en": "Small Spanish-Mediterranean restaurant on Casemates Square with ham, steaks and seafood; booking advised.",
+"ko": "케이스메이츠 광장의 작은 스페인·지중해 식당. 하몬·스테이크·해산물이 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"gibraltar-fine_dining-3": {
+"del": 1
+},
+"gibraltar-fine_dining-4": {
+"en": "Steakhouse at Marina Bay with rib-eye and fillet steaks and rack of lamb; booking advised.",
+"ko": "마리나 베이의 스테이크하우스. 립아이·필레 스테이크와 양갈비가 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"gibraltar-fine_dining-5": {
+"en": "Spanish restaurant at Queensway Quay Marina with tapas, fish and paella.",
+"ko": "퀸스웨이 키 마리나의 스페인 식당. 타파스·생선·파에야가 있습니다.",
+"ok": 1
+},
 "giethoorn-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Giethoorn; Wednesday to Sunday.",
 "ko": "기트호른의 미쉐린 2스타 레스토랑. 수~일요일에 엽니다.",
 "mi": "star2",
 "ok": 1
 },
+"girona-bakery-1": {
+"del": 1
+},
+"girona-bakery-2": {
+"en": "Artisan bakery on the Plaça del Vi baking breads such as the barra florentina.",
+"ko": "비 광장의 장인 빵집. 바라 플로렌티나 같은 빵을 굽습니다.",
+"ok": 1
+},
+"girona-bakery-3": {
+"del": 1
+},
+"girona-bakery-4": {
+"en": "Bakery with cakes, croissants, cheesecake and coffee.",
+"ko": "케이크·크루아상·치즈케이크와 커피가 있는 빵집.",
+"ok": 1
+},
+"girona-bakery-5": {
+"del": 1
+},
 "girona-cafe-1": {
 "addr": "Carrer del Bellaire 7, 17004 Girona",
 "ok": 1
 },
+"girona-cafe-2": {
+"addr": "Carrer del Nord 11, 17001 Girona",
+"en": "Specialty coffee café with a range of beans, popular with cyclists.",
+"ko": "스페셜티 커피 카페. 원두가 다양하고 자전거 여행자가 많이 찾습니다.",
+"ok": 1
+},
 "girona-cafe-3": {
+"ok": 1
+},
+"girona-cafe-4": {
+"en": "Girona branch of a Barcelona specialty coffee chain; mostly takeaway.",
+"ko": "바르셀로나에서 시작한 스페셜티 커피 체인의 지로나 매장. 포장 위주입니다.",
 "ok": 1
 },
 "girona-fine_dining-1": {
@@ -1814,6 +2078,31 @@
 "ko": "로카 삼형제의 미쉐린 3스타 레스토랑. 일·월요일은 쉬고 예약이 꼭 필요합니다.",
 "mi": "star3",
 "ok": 1
+},
+"girona-fine_dining-2": {
+"en": "Traditional Catalan restaurant on Plaça Independència (since 1892) with duck with pears and cuttlefish with peas.",
+"ko": "독립 광장의 카탈루냐 전통 식당(1892년부터). 배를 곁들인 오리 요리와 갑오징어 완두콩 요리가 있습니다.",
+"ok": 1
+},
+"girona-fine_dining-3": {
+"del": 1
+},
+"girona-fine_dining-4": {
+"del": 1
+},
+"girona-fine_dining-5": {
+"addr": "Disseminat de Sant Daniel 3, 17007 Girona",
+"en": "Stone-house restaurant in the Sant Daniel valley outside the walls, serving Catalan food with a Moroccan touch; booking advised.",
+"ko": "성벽 밖 산트 다니엘 계곡의 돌집 식당. 모로코풍을 더한 카탈루냐 요리를 내고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"girona-korean-1": {
+"en": "Korean restaurant on Plaça Pompeu Fabra with vegetarian dishes and outdoor seating.",
+"ko": "폼페우 파브라 광장의 한식당. 채식 메뉴와 야외석이 있습니다.",
+"ok": 1
+},
+"girona-korean-2": {
+"del": 1
 },
 "gjirokaster-bakery-1": {
 "en": "Café-bakery in central Gjirokastër with cakes, pastries and gelato.",
@@ -1859,6 +2148,67 @@
 "gozo-fine_dining-3": {
 "en": "Farmhouse restaurant in Xagħra, open since 1982, with a long wine list.",
 "ko": "샤그라 마을의 옛 농가 레스토랑(1982년 개업). 와인 리스트가 깁니다.",
+"ok": 1
+},
+"granada-bakery-1": {
+"del": 1
+},
+"granada-bakery-2": {
+"en": "Specialty coffee bakery on Plaza de San Isidro in the Albaicín; mornings only, closed Sundays.",
+"ko": "알바이신 산 이시드로 광장의 스페셜티 커피 빵집. 오전에만 열고 일요일은 쉽니다.",
+"ok": 1
+},
+"granada-bakery-3": {
+"del": 1
+},
+"granada-cafe-1": {
+"addr": "Calle San Antón 16, 18005 Granada",
+"en": "Bakery café baking its own bread and pastries and roasting its own coffee.",
+"ko": "빵과 페이스트리를 굽고 원두도 직접 볶는 빵집 겸 카페.",
+"ok": 1
+},
+"granada-cafe-2": {
+"en": "Small specialty coffee café near the cathedral that roasts its own beans; few seats.",
+"ko": "대성당 근처의 작은 스페셜티 커피 카페. 원두를 직접 볶고 자리가 적습니다.",
+"ok": 1
+},
+"granada-cafe-3": {
+"en": "Bakery café near Plaza Nueva with croissants, bread and coffee.",
+"ko": "누에바 광장 근처의 빵집 겸 카페. 크루아상·빵과 커피가 있습니다.",
+"ok": 1
+},
+"granada-fine_dining-1": {
+"en": "Chef Lola Marín’s restaurant serving a weekly-changing tasting menu of Granada and Andalusian cooking.",
+"ko": "셰프 롤라 마린의 레스토랑. 그라나다·안달루시아 요리로 매주 바뀌는 테이스팅 메뉴를 냅니다.",
+"ok": 1
+},
+"granada-fine_dining-2": {
+"en": "Standing tapas bar on Calle Navas known for fried fish; no reservations.",
+"ko": "나바스 거리의 서서 먹는 타파스 바. 생선튀김이 있고 예약은 받지 않습니다.",
+"ok": 1
+},
+"granada-fine_dining-3": {
+"en": "Traditional tapas bar in the centre with ham, cold and hot platters and vermouth.",
+"ko": "시내 중심의 전통 타파스 바. 하몬과 차가운·따뜻한 모둠 요리, 베르무트가 있습니다.",
+"ok": 1
+},
+"granada-fine_dining-4": {
+"en": "Traditional Granada restaurant on Plaza del Campillo, on the site of the café where Lorca’s circle met in the 1920s.",
+"ko": "캄피요 광장의 그라나다 전통 식당. 1920년대 로르카와 문인들이 모이던 카페 자리에 있습니다.",
+"ok": 1
+},
+"granada-fine_dining-5": {
+"en": "Restaurant in an Albaicín carmen villa with Alhambra views, serving local cooking.",
+"ko": "알바이신의 정원 저택(카르멘) 레스토랑. 알함브라가 보이고 지역 요리를 냅니다.",
+"ok": 1
+},
+"granada-korean-1": {
+"del": 1
+},
+"granada-korean-2": {
+"addr": "Calle Azorín 8, 18004 Granada",
+"en": "Korean restaurant in the Camino de Ronda area with spicy dishes, kimchi stew and fried chicken; booking advised.",
+"ko": "카미노 데 론다 지구의 한식당. 매운 요리와 김치찌개·치킨이 있고 예약하는 편이 좋습니다.",
 "ok": 1
 },
 "graz-bakery-1": {
@@ -2963,6 +3313,53 @@
 "madrid-bakery-1": {
 "del": "마드리드에서 그 빵집을 찾을 수 없음"
 },
+"madrid-bakery-2": {
+"addr": "Calle de Alcalá 77, 28009 Madrid",
+"en": "Pâtisserie near the Retiro with macarons and cakes by chef Ricardo Vélez.",
+"ko": "레티로 근처의 파티스리. 셰프 리카르도 벨레스가 만드는 마카롱과 케이크가 있습니다.",
+"ok": 1
+},
+"madrid-bakery-3": {
+"en": "Artisan bakery in Conde Duque baking slow-fermented organic loaves that often sell out by early afternoon.",
+"ko": "콘데 두케의 장인 빵집. 천천히 발효한 유기농 빵을 굽고 오후엔 일찍 떨어집니다.",
+"ok": 1
+},
+"madrid-bakery-4": {
+"en": "Salesas pâtisserie opened in 1914, with original counters and mirrors, croissants and roscón.",
+"ko": "1914년 문을 연 살레사스 지구의 파티스리. 옛 진열장이 남아 있고 크루아상과 로스콘이 있습니다.",
+"ok": 1
+},
+"madrid-bakery-5": {
+"en": "Organic sourdough bakery in Chamberí with filled croissants and danishes; closed Mondays.",
+"ko": "참베리 지구의 유기농 사워도우 빵집. 속을 채운 크루아상과 데니시가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"madrid-cafe-1": {
+"en": "Brunch café in La Latina with a shaded terrace, good for laptop work.",
+"ko": "라 라티나 지구의 브런치 카페. 그늘진 테라스가 있고 노트북 작업하기 좋습니다.",
+"ok": 1
+},
+"madrid-cafe-2": {
+"addr": "Corredera Baja de San Pablo 51, 28004 Madrid",
+"en": "Malasaña café with specialty filter coffee and brunch.",
+"ko": "말라사냐의 카페. 스페셜티 필터 커피와 브런치가 있습니다.",
+"ok": 1
+},
+"madrid-cafe-3": {
+"en": "Café-restaurant on the Glorieta de Bilbao, opened in 1887 and reopened in 2017; open from breakfast to late.",
+"ko": "1887년 문을 연 빌바오 광장의 카페 레스토랑. 2017년 다시 열었고 아침부터 밤까지 엽니다.",
+"ok": 1
+},
+"madrid-cafe-4": {
+"en": "Small Malasaña specialty coffee shop roasting its own beans, with homemade cakes.",
+"ko": "말라사냐의 작은 스페셜티 커피숍. 원두를 직접 볶고 홈메이드 케이크가 있습니다.",
+"ok": 1
+},
+"madrid-cafe-5": {
+"en": "Specialty coffee café in Chamberí (opened 2022) with desserts and breakfast.",
+"ko": "참베리 지구의 스페셜티 커피 카페(2022년 개업). 디저트와 아침 메뉴가 있습니다.",
+"ok": 1
+},
 "madrid-fine_dining-1": {
 "addr": "Calle del Padre Damián 23, 28036 Madrid",
 "en": "Three-Michelin-star creative restaurant of chef David Muñoz; Tuesday to Friday.",
@@ -2970,12 +3367,70 @@
 "mi": "star3",
 "ok": 1
 },
+"madrid-fine_dining-2": {
+"en": "Long-established restaurant by the Plaza Mayor serving suckling pig and lamb roasted in a wood-fired oven.",
+"ko": "마요르 광장 옆의 오래된 식당. 장작 화덕에서 구운 새끼 돼지와 양고기를 냅니다.",
+"ok": 1
+},
+"madrid-fine_dining-3": {
+"en": "David Muñoz’s casual restaurant on the top floor of El Corte Inglés Serrano, serving Asian fusion.",
+"ko": "엘 코르테 잉글레스 세라노점 꼭대기 층의 다비드 무뇨스 캐주얼 레스토랑. 아시아 퓨전 요리를 냅니다.",
+"ok": 1
+},
+"madrid-fine_dining-4": {
+"addr": "Plaza del Descubridor Diego de Ordás 1, 28003 Madrid",
+"en": "Seasonal Spanish restaurant in Chamberí with half portions, listed in the Michelin Guide.",
+"ko": "참베리의 계절 스페인 요리 레스토랑. 하프 사이즈 주문이 되고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"madrid-fine_dining-5": {
+"en": "Traditional Madrid restaurant on Cava Baja in La Latina, known for huevos rotos.",
+"ko": "라 라티나 카바 바하 거리의 마드리드 전통 식당. 우에보스 로토스(깨뜨린 달걀 감자 요리)로 알려져 있습니다.",
+"ok": 1
+},
+"madrid-korean-1": {
+"en": "Korean restaurant in Chueca with bulgogi, dolsot bibimbap and japchae.",
+"ko": "추에카의 한식당. 불고기·돌솥비빔밥·잡채가 있습니다.",
+"ok": 1
+},
+"madrid-korean-2": {
+"del": 1
+},
+"madrid-korean-3": {
+"en": "Korean barbecue buffet near Gran Vía with a grill at every table.",
+"ko": "그란비아 근처의 한국식 바비큐 뷔페. 테이블마다 그릴이 있습니다.",
+"ok": 1
+},
+"madrid-korean-4": {
+"del": 1
+},
+"madrid-korean-5": {
+"en": "Korean-Japanese izakaya near Chueca with bulgogi and sushi; booking advised.",
+"ko": "추에카 근처의 한식·일식 이자카야. 불고기와 스시가 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"malaga-bakery-1": {
+"del": 1
+},
+"malaga-bakery-2": {
+"en": "Bakery café near the Atarazanas market with Galician-style sourdough, cinnamon rolls and croissants.",
+"ko": "아타라사나스 시장 근처의 빵집 겸 카페. 갈리시아식 사워도우 빵과 시나몬롤·크루아상이 있습니다.",
+"ok": 1
+},
 "malaga-bakery-3": {
 "del": "같은 가게가 카페 항목에 이미 있음(중복)"
+},
+"malaga-cafe-1": {
+"del": 1
 },
 "malaga-cafe-2": {
 "en": "Small specialty coffee shop in the old town, known for its homemade cakes.",
 "ko": "구시가지의 작은 스페셜티 커피숍. 직접 만든 케이크가 인기입니다.",
+"ok": 1
+},
+"malaga-cafe-3": {
+"en": "Málaga specialty coffee shop opened in 2012, also selling beans; closed Sundays.",
+"ko": "2012년 문을 연 말라가의 스페셜티 커피숍. 원두도 팔고 일요일은 쉽니다.",
 "ok": 1
 },
 "malaga-fine_dining-1": {
@@ -2984,6 +3439,37 @@
 "ko": "셰프 호세 카를로스 가르시아의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"malaga-fine_dining-2": {
+"en": "Andalusian-style tapas bar on Calle Carretería with vermouth on tap and Málaga wine.",
+"ko": "카레테리아 거리의 안달루시아식 타파스 바. 생 베르무트와 말라가 와인이 있습니다.",
+"ok": 1
+},
+"malaga-fine_dining-3": {
+"en": "Andalusian restaurant open since 1988 known for artichokes and gazpachuelo; closed Sundays.",
+"ko": "1988년 문을 연 안달루시아 식당. 아티초크 요리와 가스파추엘로가 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"malaga-fine_dining-4": {
+"en": "Tapas bar on Plaza de la Merced (since 1971) with octopus and aubergine with honey.",
+"ko": "메르세드 광장의 타파스 바(1971년부터). 문어 요리와 꿀 가지튀김이 있습니다.",
+"ok": 1
+},
+"malaga-fine_dining-5": {
+"en": "Old-town wine bar serving Málaga wine and vermouth with anchovies.",
+"ko": "구시가의 와인 바. 말라가 와인·베르무트와 멸치 요리를 냅니다.",
+"ok": 1
+},
+"malaga-korean-1": {
+"en": "Small Korean restaurant in the centre with bulgogi, jjimdak, kimchi stew and tteokbokki.",
+"ko": "시내 중심의 작은 한식당. 불고기·찜닭·김치찌개·떡볶이가 있습니다.",
+"ok": 1
+},
+"malaga-korean-2": {
+"del": 1
+},
+"malaga-korean-3": {
+"del": 1
 },
 "malmo-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Malmö; Wednesday to Saturday evenings.",
@@ -3232,14 +3718,51 @@
 "ko": "포실리포 해안의 미쉐린 가이드 레스토랑.",
 "ok": 1
 },
+"nerja-bakery-1": {
+"del": 1
+},
 "nerja-bakery-2": {
 "addr": "Camino de Burriana s/n, 29780 Nerja",
 "en": "Scandinavian-style bakery on the road to Burriana beach, known for cinnamon and cardamom buns.",
 "ko": "부리아나 해변 가는 길의 북유럽식 빵집. 시나몬·카다멈 번이 대표 메뉴입니다.",
 "ok": 1
 },
+"nerja-bakery-3": {
+"en": "Bakery and pastry shop on Calle Granada with artisan bread and pastries, plus coffee.",
+"ko": "그라나다 거리의 빵집 겸 제과점. 장인 빵과 페이스트리가 있고 커피도 마실 수 있습니다.",
+"name": "Panadería Confitería Salvador",
+"ok": 1
+},
+"nerja-cafe-1": {
+"en": "Pâtisserie café 10–15 minutes’ walk from the Balcón de Europa, with tiramisu and focaccia sandwiches.",
+"ko": "발콘 데 에우로파에서 걸어서 10~15분 거리의 제과 카페. 티라미수와 포카치아 샌드위치가 있습니다.",
+"ok": 1
+},
 "nerja-cafe-2": {
 "del": "같은 가게가 빵집 항목에 이미 있음(중복)"
+},
+"nerja-fine_dining-1": {
+"en": "Mediterranean restaurant on the Plaza de España with a terrace, listed in the Michelin Guide.",
+"ko": "에스파냐 광장의 지중해 요리 레스토랑. 테라스가 있고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"nerja-fine_dining-2": {
+"en": "Seafood tapas bar on Calle San Pedro with octopus, garlic prawns and fried fish; always busy.",
+"ko": "산 페드로 거리의 해산물 타파스 바. 문어·마늘 새우·생선튀김이 있고 늘 붐빕니다.",
+"ok": 1
+},
+"nerja-fine_dining-3": {
+"en": "Tapas bar on the restaurant street near the Balcón de Europa, known for fried fish, with a free tapa of your choice per drink; closed Mondays.",
+"ko": "발콘 데 에우로파 근처 식당 거리의 타파스 바. 생선튀김이 있고 음료에 타파를 골라 받을 수 있습니다. 월요일은 쉽니다.",
+"ok": 1
+},
+"nerja-fine_dining-4": {
+"en": "Seafood restaurant with a separate tapas bar, serving grilled fish and seafood rice.",
+"ko": "해산물 식당과 타파스 바를 함께 하는 가게. 생선구이와 해산물 밥이 있습니다.",
+"ok": 1
+},
+"nerja-fine_dining-5": {
+"del": 1
 },
 "nessebar-bakery-1": {
 "del": 1
@@ -3562,8 +4085,51 @@
 "oxford-fine_dining-1": {
 "del": "옥스퍼드에서 그 식당을 찾을 수 없음"
 },
+"palma-bakery-1": {
+"en": "Branch of Santo Cristo, a Palma bakery founded in 1910, with ensaïmadas in many flavours.",
+"ko": "1910년 시작한 팔마의 빵집 산토 크리스토의 지점. 여러 맛의 엔사이마다가 있습니다.",
+"ok": 1
+},
+"palma-bakery-2": {
+"addr": "Plaça del General Weyler 9, 07001 Palma",
+"en": "Bakery in a Modernista former bakery building, baking old Majorcan recipes collected from homes and convents.",
+"ko": "모더니즘 양식 옛 빵집 건물의 가게. 집과 수도원에서 모은 마요르카 옛 레시피로 빵과 과자를 굽습니다.",
+"ok": 1
+},
+"palma-bakery-3": {
+"en": "Pâtisserie in central Palma (opened 2015) with croissants, cakes and specialty coffee.",
+"ko": "팔마 시내의 파티스리(2015년 개업). 크루아상과 케이크, 스페셜티 커피가 있습니다.",
+"ok": 1
+},
+"palma-bakery-4": {
+"del": 1
+},
+"palma-bakery-5": {
+"del": 1
+},
 "palma-cafe-1": {
 "addr": "Carrer de Can Sanç 10, 07001 Palma",
+"ok": 1
+},
+"palma-cafe-2": {
+"en": "Small standing counter of Mistral, a Majorcan coffee roaster; closed Sundays.",
+"ko": "마요르카에서 원두를 볶는 미스트랄 커피의 작은 서서 마시는 카운터. 일요일은 쉽니다.",
+"ok": 1
+},
+"palma-cafe-3": {
+"en": "Small coffee and brunch café near the Ramblas with vegetarian dishes; no laptops, closed Sundays and Mondays.",
+"ko": "람블라스 근처의 작은 커피·브런치 카페. 채식 메뉴가 있고 노트북은 쓸 수 없습니다. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"palma-cafe-4": {
+"addr": "Carrer del Bisbe Campins 11, 07012 Palma",
+"en": "Old-town café roasting its own coffee, with a terrace on a small square and its own gluten-free bread.",
+"ko": "원두를 직접 볶는 구시가의 카페. 작은 광장 테라스가 있고 글루텐 프리 빵도 굽습니다.",
+"ok": 1
+},
+"palma-cafe-5": {
+"en": "Flagship café of the Majorcan roaster Arabay near the Plaça Major, also selling beans.",
+"ko": "마요르 광장 근처, 마요르카 로스터 아라바이의 플래그십 카페. 원두도 팝니다.",
 "ok": 1
 },
 "palma-fine_dining-1": {
@@ -3581,6 +4147,29 @@
 "en": "One-Michelin-star restaurant reinterpreting historical Majorcan cooking; closed Sundays and Mondays.",
 "ko": "마요르카 옛 요리를 재해석하는 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"palma-fine_dining-4": {
+"en": "Majorcan restaurant near the Plaça d’Espanya with roast suckling pig and a strong wine list; booking advised.",
+"ko": "에스파냐 광장 근처의 마요르카 요리 식당. 새끼 돼지 구이와 와인이 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"palma-fine_dining-5": {
+"en": "Old-town vermouth bar and grocery with tinned specialities and tapas, open daily noon to midnight.",
+"ko": "구시가의 베르무트 바 겸 식료품점. 통조림 안주와 타파스가 있고 매일 정오부터 자정까지 엽니다.",
+"ok": 1
+},
+"palma-korean-1": {
+"del": 1
+},
+"palma-korean-2": {
+"en": "Korean barbecue in the Llevant district with tableside grilling and QR-code ordering.",
+"ko": "레반트 지구의 한국식 바비큐 식당. 테이블에서 굽고 QR 코드로 주문합니다.",
+"ok": 1
+},
+"palma-korean-3": {
+"en": "Asian restaurant on the Plaça del Mercat serving bibimbap and other Korean and Asian dishes; closed Sundays.",
+"ko": "메르카트 광장의 아시아 식당. 비빔밥 같은 한식과 다른 아시아 요리를 내고 일요일은 쉽니다.",
 "ok": 1
 },
 "paphos-bakery-1": {
@@ -3634,6 +4223,45 @@
 },
 "paris-fine_dining-5": {
 "addr": "27 Rue Malar, 75007 Paris",
+"ok": 1
+},
+"parnu-bakery-1": {
+"addr": "Reiu küla, Häädemeeste vald, 86508 Pärnu maakond",
+"en": "Bakery café on the Reiu river, 13 km south of Pärnu, with a summer terrace over the river.",
+"ko": "패르누 시내에서 남쪽으로 13km, 레이우 강변의 빵집 겸 카페. 강이 보이는 여름 테라스가 있습니다.",
+"ok": 1
+},
+"parnu-bakery-2": {
+"addr": "Lai tn 10/3, 80010 Pärnu",
+"en": "Bakery café in a former industrial quarter on the Pärnu river, also baking wood-fired pizza.",
+"ko": "패르누 강변 옛 공장 지구의 빵집 겸 카페. 장작 화덕 피자도 굽습니다.",
+"ok": 1
+},
+"parnu-cafe-1": {
+"del": 1
+},
+"parnu-cafe-2": {
+"addr": "Lai tn 10/3, 80010 Pärnu",
+"en": "Riverside coffee and wine café with rotating beans and natural wines; closed Mondays.",
+"ko": "강변의 커피·와인 카페. 원두와 내추럴 와인이 자주 바뀝니다. 월요일은 쉽니다.",
+"ok": 1
+},
+"parnu-fine_dining-1": {
+"addr": "A. H. Tammsaare pst 4a, 80010 Pärnu",
+"en": "Restaurant in the Estonia Resort Hotel serving modern Estonian cooking.",
+"ko": "에스토니아 리조트 호텔 안의 레스토랑. 에스토니아 요리를 현대적으로 냅니다.",
+"ok": 1
+},
+"parnu-fine_dining-2": {
+"addr": "Nikolai tn 32, 80014 Pärnu",
+"en": "Café-restaurant in a roughly 150-year-old log house with a colourful interior, soups, salads and tea.",
+"ko": "약 150년 된 목조 주택의 카페 레스토랑. 화려한 실내와 수프·샐러드·차가 있습니다.",
+"ok": 1
+},
+"parnu-fine_dining-3": {
+"addr": "Kuninga tn 11, 80011 Pärnu",
+"en": "Restaurant on the ground floor of the Frost boutique hotel in the old town, with a fireplace; evenings.",
+"ko": "구시가 프로스트 호텔 1층의 레스토랑. 벽난로가 있고 저녁에 엽니다.",
 "ok": 1
 },
 "pas-de-la-casa-bakery-1": {
@@ -3883,10 +4511,46 @@
 "ko": "판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.",
 "ok": 1
 },
+"ronda-bakery-1": {
+"del": 1
+},
+"ronda-bakery-2": {
+"del": 1
+},
+"ronda-cafe-1": {
+"del": 1
+},
+"ronda-cafe-2": {
+"en": "Ronda bakery café with pistachio turrón, mantecados and banana palmeras.",
+"ko": "론다의 빵집 겸 카페. 피스타치오 투론·만테카도·바나나 팔메라가 있습니다.",
+"ok": 1
+},
+"ronda-cafe-3": {
+"del": 1
+},
 "ronda-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Ronda; Wednesday to Saturday.",
 "ko": "론다의 미쉐린 2스타 레스토랑. 수~토요일에 엽니다.",
 "mi": "star2",
+"ok": 1
+},
+"ronda-fine_dining-2": {
+"del": 1
+},
+"ronda-fine_dining-3": {
+"en": "Neighbourhood restaurant in the San Francisco quarter with venison stew, mushroom dishes and barbecued Iberian pork.",
+"ko": "산 프란시스코 지구의 동네 식당. 사슴 스튜·버섯 요리와 이베리코 돼지 바비큐가 있습니다.",
+"name": "Terraza Bar El Barrio",
+"ok": 1
+},
+"ronda-fine_dining-4": {
+"en": "Restaurant beside the Santa María la Mayor church serving kid and suckling pig from an oak-fired oven.",
+"ko": "산타 마리아 라 마요르 성당 옆의 식당. 참나무 화덕에 구운 새끼 염소·새끼 돼지 요리가 있습니다.",
+"ok": 1
+},
+"ronda-fine_dining-5": {
+"en": "Tiny tapas restaurant near the Almocabar gate (six tables) with modern Spanish and Basque-style tapas; booking advised.",
+"ko": "알모카바르 문 근처의 작은 타파스 식당(테이블 6개). 스페인·바스크풍 현대 타파스가 있고 예약하는 편이 좋습니다.",
 "ok": 1
 },
 "roskilde-bakery-1": {
@@ -3925,6 +4589,12 @@
 "roskilde-fine_dining-3": {
 "en": "Small northern Italian restaurant run by a Danish-Italian couple, using mostly organic produce; Tuesday to Saturday evenings.",
 "ko": "덴마크·이탈리아 부부가 운영하는 작은 북부 이탈리아 식당. 유기농 재료를 쓰고 화~토 저녁에 엽니다.",
+"ok": 1
+},
+"roskilde-korean-1": {
+"addr": "RO’s Torv 1, 1. sal, 4000 Roskilde",
+"en": "Korean barbecue chain branch on the first floor of the RO’s Torv centre, with tableside grilling.",
+"ko": "로스토르브 쇼핑센터 2층의 한국식 바비큐 체인 매장. 테이블에서 고기를 굽습니다.",
 "ok": 1
 },
 "rothenburg-bakery-1": {
@@ -3997,11 +4667,61 @@
 "name": "Augusto",
 "ok": 1
 },
+"salamanca-bakery-1": {
+"del": 1
+},
+"salamanca-bakery-2": {
+"en": "Traditional pastry shop on the Rúa Mayor (opened 1948) with hornazo and sweets.",
+"ko": "루아 마요르 거리의 전통 제과점(1948년 개업). 오르나소(고기 파이)와 과자가 있습니다.",
+"ok": 1
+},
+"salamanca-bakery-3": {
+"addr": "Calle Pozo Amarillo 28, 37001 Salamanca",
+"en": "Small bakery making American-style cupcakes, cakes and cookies.",
+"ko": "미국식 컵케이크·케이크·쿠키를 굽는 작은 빵집.",
+"ok": 1
+},
+"salamanca-bakery-4": {
+"en": "Dedicated gluten-free bakery with pastries, cakes, churros and breakfast.",
+"ko": "글루텐 프리 전문 빵집. 페이스트리·케이크·추로스와 아침 메뉴가 있습니다.",
+"ok": 1
+},
+"salamanca-cafe-1": {
+"en": "Outlet of the Santagloria bakery-café chain near the Plaza de España, with a terrace.",
+"ko": "에스파냐 광장 근처의 빵집 카페 체인 산타글로리아 매장. 테라스가 있습니다.",
+"ok": 1
+},
+"salamanca-cafe-2": {
+"del": 1
+},
+"salamanca-cafe-3": {
+"en": "Café on the Plaza Mayor opened in 1905, once frequented by writers such as Unamuno, with a statue of Torrente Ballester.",
+"ko": "1905년 문을 연 마요르 광장의 카페. 우나무노 같은 문인들이 모였고 토렌테 바예스테르 동상이 있습니다.",
+"ok": 1
+},
+"salamanca-cafe-4": {
+"del": 1
+},
 "salamanca-fine_dining-1": {
 "addr": "Calle Empedrada 4, 37007 Salamanca",
 "en": "One-Michelin-star restaurant in Salamanca’s old town; closed Tuesdays.",
 "ko": "살라망카 구시가지의 미쉐린 1스타 레스토랑. 화요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"salamanca-fine_dining-2": {
+"addr": "Plaza del Peso 1, 37001 Salamanca",
+"en": "Basement Castilian restaurant opened in 1958 with kid stewed with almonds and cocido; booking advised.",
+"ko": "1958년 문을 연 지하의 카스티야 요리 식당. 아몬드 새끼 염소 스튜와 코시도가 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"salamanca-fine_dining-3": {
+"del": 1
+},
+"salamanca-fine_dining-4": {
+"addr": "Plaza del Corrillo 12, 37002 Salamanca",
+"en": "Pintxos restaurant on the Plaza del Corrillo by the Plaza Mayor, with dishes such as oxtail rice; closed Mondays and Tuesdays.",
+"ko": "마요르 광장 옆 코리요 광장의 핀초스 식당. 소꼬리 쌀 요리 같은 핀초스가 있고 월·화요일은 쉽니다.",
 "ok": 1
 },
 "salzburg-bakery-1": {
@@ -4415,6 +5135,106 @@
 "addr": "Fritz-Elsas-Straße 60, 70174 Stuttgart",
 "en": "Korean restaurant near Berliner Platz with dumplings, stews and bibimbap; order at the counter, closed Sundays.",
 "ko": "베를리너 플라츠 근처의 한식당. 만두·찌개·비빔밥이 있고 카운터에서 주문합니다. 일요일은 쉽니다.",
+"ok": 1
+},
+"tallinn-bakery-1": {
+"en": "Sourdough bakery in a former mill building in the Rotermann Quarter, with cardamom buns; closed Sundays.",
+"ko": "로테르만 지구 옛 제분소 건물의 사워도우 빵집. 카다멈 번이 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"tallinn-bakery-2": {
+"en": "Small bakery with cinnamon and cardamom buns and focaccia.",
+"ko": "시나몬·카다멈 번과 포카치아를 굽는 작은 빵집.",
+"ok": 1
+},
+"tallinn-bakery-3": {
+"del": 1
+},
+"tallinn-bakery-4": {
+"addr": "Kopli tn 27, 10412 Tallinn",
+"en": "Bakery café on Kopli street with meringue cakes, éclairs, cardamom buns and vegan and gluten-free options.",
+"ko": "코플리 거리의 빵집 겸 카페. 머랭 케이크·에클레어·카다멈 빵과 비건·글루텐 프리 메뉴가 있습니다.",
+"ok": 1
+},
+"tallinn-cafe-1": {
+"addr": "Telliskivi 60M, 10412 Tallinn",
+"en": "Coffee roastery and brew bar in the Telliskivi creative quarter serving its own single-origin coffee.",
+"ko": "텔리스키비 창작 지구의 커피 로스터리 겸 브루 바. 직접 볶은 싱글 오리진 커피를 냅니다.",
+"ok": 1
+},
+"tallinn-cafe-2": {
+"addr": "Telliskivi 60a-1, 10412 Tallinn",
+"en": "Telliskivi café with specialty coffee, cardamom rolls and sourdough sandwiches.",
+"ko": "텔리스키비의 카페. 스페셜티 커피와 카다멈 롤, 사워도우 샌드위치가 있습니다.",
+"ok": 1
+},
+"tallinn-cafe-3": {
+"en": "Old Town café on the same site since 1864, with a marzipan room next door.",
+"ko": "1864년부터 같은 자리에서 영업한 구시가의 카페. 옆에 마지판 방이 있습니다.",
+"ok": 1
+},
+"tallinn-fine_dining-1": {
+"en": "Restaurant on the Pirita coast with big sea-facing windows and a terrace, listed in the Michelin Guide.",
+"ko": "피리타 해안의 레스토랑. 바다가 보이는 큰 창과 테라스가 있고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"tallinn-fine_dining-2": {
+"en": "Old Town restaurant serving Estonian food with bread baked in-house; booking advised.",
+"ko": "구시가의 에스토니아 요리 레스토랑. 직접 구운 빵이 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"tallinn-fine_dining-3": {
+"addr": "Võrgu tn 6, 10415 Tallinn",
+"en": "Restaurant in a former canning factory in Kalaranna with a sea-view terrace.",
+"ko": "칼라란나 지구 옛 통조림 공장 건물의 레스토랑. 바다가 보이는 테라스가 있습니다.",
+"ok": 1
+},
+"tallinn-fine_dining-4": {
+"en": "Restaurant in the Hotel Telegraaf with French-based Russian cooking under a glass roof.",
+"ko": "텔레그라프 호텔 안의 레스토랑. 프랑스식 바탕에 러시아 요리를 더하고 유리 지붕이 있습니다.",
+"ok": 1
+},
+"tallinn-fine_dining-5": {
+"en": "Old Town restaurant giving traditional Estonian food a modern treatment.",
+"ko": "구시가의 에스토니아 요리 레스토랑. 전통 요리를 현대적으로 냅니다.",
+"ok": 1
+},
+"tartu-bakery-1": {
+"del": 1
+},
+"tartu-bakery-2": {
+"addr": "Veski tn 5a, 51005 Tartu",
+"en": "Cake shop and café on Toome Hill with cakes and pastries.",
+"ko": "토메매기 언덕의 케이크 가게 겸 카페. 케이크와 페이스트리가 있습니다.",
+"name": "Cake Shop Mandel",
+"ok": 1
+},
+"tartu-cafe-1": {
+"del": 1
+},
+"tartu-cafe-2": {
+"en": "Tartu café opened in 1895, with Viennese-style cakes and a restaurant upstairs.",
+"ko": "1895년 문을 연 타르투의 카페. 빈풍 케이크가 있고 2층은 레스토랑입니다.",
+"name": "Werner Café",
+"ok": 1
+},
+"tartu-cafe-3": {
+"en": "Coffee roastery and café in the Karlova district; closed Mondays.",
+"ko": "카를로바 지구의 커피 로스터리 겸 카페. 월요일은 쉽니다.",
+"ok": 1
+},
+"tartu-fine_dining-1": {
+"del": 1
+},
+"tartu-fine_dining-2": {
+"addr": "Ülikooli tn 14, 51003 Tartu",
+"en": "Restaurant in the Hotel Lydia cooking from a 1920s recipe collection, listed in the Michelin Guide.",
+"ko": "리디아 호텔 안의 레스토랑. 1920년대 요리책 레시피를 바탕으로 한 요리를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"tartu-fine_dining-3": {
+"en": "French restaurant in Tartu.",
+"ko": "프랑스 요리를 내는 타르투의 레스토랑.",
 "ok": 1
 },
 "tenby-bakery-1": {

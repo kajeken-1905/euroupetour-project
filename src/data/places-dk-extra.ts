@@ -42,6 +42,6 @@ export const placesDKExtra: Place[] = [
   place('roskilde-bakery-2', 'roskilde', 'bakery', 'Rustik Bageriet', 'Støden 1, 4000 Roskilde', '시내 중심의 빵집 겸 카페. 저온 발효 사워도우와 케이크, 브런치·스뫼레브뢰드가 있습니다.', 'Bakery café in the centre with slow-fermented sourdough, cakes, brunch and smørrebrød.'),
   place('roskilde-cafe-1', 'roskilde', 'cafe', 'MØRK', 'Penselstrøget 44, 4000 Roskilde', '뮤지콘 지구 컨테이너의 유기농 커피 로스터리 카페. 로스킬레 페스티벌 커피도 볶습니다.', 'Organic coffee roastery café in a converted container in Musicon, which also roasts the Roskilde Festival coffee.'),
   place('roskilde-cafe-3', 'roskilde', 'cafe', 'Café 48', 'Algade 48, 4000 Roskilde', '역 근처 알가데 거리의 덴마크식 카페. 점심에 스뫼레브뢰드를 냅니다.', 'Danish café on Algade near the station, serving smørrebrød at lunch.'),
-  place('roskilde-korean-1', 'roskilde', 'korean', 'Seoul Koreansk BBQ', "Ro's Torv 1, 4000 Roskilde", '로스토브의 한국식 셀프 그릴.', 'Korean grill-it-yourself BBQ at Ro’s Torv.'),
+  place('roskilde-korean-1', 'roskilde', 'korean', 'Seoul Koreansk BBQ', 'RO’s Torv 1, 1. sal, 4000 Roskilde', '로스토르브 쇼핑센터 2층의 한국식 바비큐 체인 매장. 테이블에서 고기를 굽습니다.', 'Korean barbecue chain branch on the first floor of the RO’s Torv centre, with tableside grilling.'),
 
 ]
