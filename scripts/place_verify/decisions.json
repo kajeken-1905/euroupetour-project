@@ -109,6 +109,23 @@
 "ko": "시내 중심의 한식당. 비빔밥·떡볶이·도시락이 있고 월요일은 쉽니다.",
 "ok": 1
 },
+"ajaccio-fine_dining-1": {
+"en": "Small old-town restaurant listed in the MICHELIN Guide, cooking modern dishes with Corsican produce.",
+"ko": "미쉐린 가이드에 실린 구시가의 작은 식당. 코르시카 재료로 현대적인 요리를 냅니다.",
+"ok": 1
+},
+"ajaccio-fine_dining-2": {
+"en": "Terrace restaurant of Hôtel Les Mouettes on the Gulf of Ajaccio, serving Mediterranean dishes inspired by Corsica and southern Italy.",
+"ko": "아작시오만에 면한 호텔 레 무에트의 테라스 레스토랑. 코르시카·남부 이탈리아풍 지중해 요리를 냅니다.",
+"ok": 1
+},
+"ajaccio-fine_dining-3": {
+"addr": "86 Rue Cardinal Fesch, 20000 Ajaccio, France",
+"en": "Restaurant on Rue Cardinal Fesch, open weekday lunch and dinner and Saturday lunch.",
+"ko": "카르디날 페슈 거리의 식당. 평일 점심·저녁과 토요일 점심에 엽니다.",
+"name": "Rosette et Charlot",
+"ok": 1
+},
 "alghero-bakery-1": {
 "addr": "Via Sassari 35b, 07041 Alghero",
 "en": "Bar and pastry shop in central Alghero.",
@@ -119,6 +136,16 @@
 "en": "One-Michelin-star Amalfi restaurant, opened in 1959; closed Tuesdays.",
 "ko": "1959년 문을 연 아말피의 미쉐린 1스타 레스토랑. 화요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"amboise-bakery-1": {
+"en": "Pâtisserie and tearoom opposite the Château d’Amboise since 1913, with chocolates, ice cream and puits d’amour.",
+"ko": "1913년부터 앙부아즈 성 맞은편에서 영업한 제과점 겸 찻집. 초콜릿·아이스크림·퓌 다무르가 있습니다.",
+"ok": 1
+},
+"amboise-fine_dining-1": {
+"en": "Bistronomic restaurant near the château, listed in the MICHELIN Guide, with a willow-shaded terrace; closed Sundays and Mondays.",
+"ko": "앙부아즈 성 근처의 비스트로노미 식당. 미쉐린 가이드에 실려 있고 버드나무 그늘 테라스가 있습니다. 일·월요일은 쉽니다.",
 "ok": 1
 },
 "ams-bk-1": {
@@ -241,6 +268,43 @@
 "ko": "카탈루냐·마드리드·안달루시아 요리를 가정식으로 내는 스페인 식당.",
 "ok": 1
 },
+"annecy-bakery-1": {
+"addr": "3 Rue du Lac, 74000 Annecy",
+"en": "Old-town bakery near the lake with gâteau de Savoie and praline brioche.",
+"ko": "구시가 호숫가 길목의 빵집. 가토 드 사부아와 프랄린 브리오슈가 있습니다.",
+"ok": 1
+},
+"annecy-bakery-2": {
+"en": "Bakery near Bonlieu with croissants, millefeuille, cookies and quiches.",
+"ko": "봉리외 근처의 빵집. 크루아상·밀푀유·쿠키와 키슈가 있습니다.",
+"ok": 1
+},
+"annecy-cafe-1": {
+"del": 1
+},
+"annecy-cafe-2": {
+"en": "Small specialty coffee café in the old town with lattes and carrot cake; closed Mondays and Tuesdays.",
+"ko": "구시가의 작은 스페셜티 커피 카페. 라테와 당근 케이크가 있고 월·화요일은 쉽니다.",
+"ok": 1
+},
+"annecy-fine_dining-1": {
+"en": "Restaurant on Faubourg Sainte-Claire in the old town, listed in the MICHELIN Guide.",
+"ko": "구시가 생트클레르 거리의 식당. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"annecy-fine_dining-2": {
+"en": "Savoyard restaurant on Place Saint-François-de-Sales; closed Sundays.",
+"ko": "생프랑수아드살 광장의 사부아 요리 식당. 일요일은 쉽니다.",
+"ok": 1
+},
+"annecy-fine_dining-3": {
+"en": "Savoyard restaurant in a chalet-style building by the canal, serving raclette, tartiflette and fondue.",
+"ko": "운하 옆 샬레풍 건물의 사부아 요리 식당. 라클렛·타르티플레트·퐁뒤가 있습니다.",
+"ok": 1
+},
+"annecy-korean-1": {
+"del": 1
+},
 "antalya-bakery-2": {
 "ok": 1
 },
@@ -316,6 +380,17 @@
 "ko": "불고기·떡볶이·김치찌개를 반찬과 함께 내는 한식당.",
 "ok": 1
 },
+"arcachon-fine_dining-1": {
+"addr": "28 Avenue de la Conche, 33970 Lège-Cap-Ferret, France",
+"en": "Oyster-tasting shack on the Mimbeau basin with oysters, shrimp and terrines plus local wine; book in season.",
+"ko": "밈보 만에 면한 굴 시식 오두막. 굴·새우·테린을 지역 와인과 함께 냅니다. 성수기엔 예약하세요.",
+"ok": 1
+},
+"arcachon-fine_dining-2": {
+"en": "Oyster farmers’ cabin facing the Mimbeau basin and the Dune du Pilat, serving their award-winning oysters.",
+"ko": "밈보 만과 필라 사구가 보이는 굴 양식 가족의 오두막. 수상 경력이 있는 굴을 냅니다.",
+"ok": 1
+},
 "arcachon-fine_dining-3": {
 "addr": "Rue des Tamaris (Les Youkas), 33970 Lège-Cap-Ferret",
 "en": "Oyster and seafood shack in the Les Youkas oyster quarter of Cap Ferret.",
@@ -328,6 +403,62 @@
 "ko": "아테네의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"avignon-bakery-1": {
+"addr": "30 Place des Corps Saints, 84000 Avignon, France",
+"en": "Bakery on Place des Corps-Saints with many speciality breads (corn, seaweed, spelt) and viennoiserie.",
+"ko": "코르생 광장의 빵집. 옥수수·해초·스펠트 등 여러 곡물빵과 비에누아즈리가 있습니다.",
+"ok": 1
+},
+"avignon-bakery-2": {
+"en": "Neighbourhood bakery on Avenue Pierre Semard outside the walls, open daily from early morning.",
+"ko": "성벽 밖 피에르 세마르 대로의 동네 빵집. 매일 이른 아침부터 엽니다.",
+"ok": 1
+},
+"avignon-bakery-3": {
+"del": 1
+},
+"avignon-bakery-4": {
+"en": "Old-town bakery run by a pastry chef and a baker (also called La Fabrique des Saveurs), with Provençal amandines, croquants and fougasse.",
+"ko": "제과사와 제빵사가 함께 운영하는 구시가 빵집(La Fabrique des Saveurs). 아망딘·크로캉·푸가스 같은 프로방스 과자가 있습니다.",
+"ok": 1
+},
+"avignon-bakery-5": {
+"en": "Neighbourhood bakery in Saint-Ruf with French breads plus Tunisian and oriental pastries.",
+"ko": "생뤼프 지구의 동네 빵집. 프랑스 빵과 함께 튀니지·중동식 과자도 있습니다.",
+"ok": 1
+},
+"avignon-cafe-1": {
+"addr": "43 Rue des Fourbisseurs, 84000 Avignon, France",
+"en": "Organic sourdough bakery that opens at 10am so its bakers don’t work nights; closed Sundays and Mondays.",
+"ko": "유기농 사워도우 빵집. 제빵사가 밤샘 작업을 하지 않도록 오전 10시에 엽니다. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"avignon-cafe-2": {
+"addr": "7 Rue des Trois Faucons, 84000 Avignon",
+"en": "Specialty coffee café on a pedestrian old-town street, opened in 2019, with brunch, oat-milk iced lattes and matcha.",
+"ko": "2019년에 문을 연 구시가 보행자 거리의 스페셜티 커피 카페. 브런치와 귀리우유 아이스 라테·말차가 있습니다.",
+"ok": 1
+},
+"avignon-fine_dining-1": {
+"addr": "4 Place de l’Amirande, 84000 Avignon",
+"en": "Restaurant of the Hôtel La Mirande behind the Papal Palace, listed in the MICHELIN Guide; open Thursday to Sunday.",
+"ko": "교황청 뒤편 호텔 라 미랑드의 레스토랑. 미쉐린 가이드에 실려 있고 목~일요일에 엽니다.",
+"ok": 1
+},
+"avignon-fine_dining-2": {
+"en": "Michelin one-star restaurant serving a surprise menu built on seasonal local produce; closed weekends.",
+"ko": "미쉐린 1스타 레스토랑. 제철 지역 재료로 만드는 서프라이즈 코스를 내고 주말은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"avignon-fine_dining-3": {
+"en": "Modern-cuisine restaurant with a terrace on Place des Corps-Saints, listed in the MICHELIN Guide.",
+"ko": "코르생 광장 테라스가 있는 현대 요리 식당. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"avignon-korean-1": {
+"del": 1
 },
 "ayia-napa-bakery-1": {
 "en": "Nissi Avenue branch of a Cypriot bakery chain, open 24 hours with breads, cakes and sandwiches.",
@@ -669,6 +800,16 @@
 "mi": "star1",
 "ok": 1
 },
+"bayeux-fine_dining-1": {
+"en": "Restaurant in a 15th-century building, listed in the MICHELIN Guide, cooking with Normandy produce.",
+"ko": "15세기 건물의 식당. 미쉐린 가이드에 실려 있고 노르망디 재료로 요리합니다.",
+"ok": 1
+},
+"bayeux-fine_dining-2": {
+"en": "Traditional French restaurant near the cathedral, cooking seasonal produce from long-standing local suppliers, with vegetarian options.",
+"ko": "대성당 근처의 프랑스 가정식 식당. 오래 거래한 지역 생산자의 제철 재료로 요리하고 채식 메뉴도 있습니다.",
+"ok": 1
+},
 "belfast-fine_dining-1": {
 "en": "One-Michelin-star riverside restaurant in Belfast.",
 "ko": "벨파스트 강변의 미쉐린 1스타 레스토랑.",
@@ -862,6 +1003,17 @@
 "bern-korean-5": {
 "del": 1
 },
+"biarritz-bakery-1": {
+"en": "Pâtisserie and tearoom on Place Clemenceau dating from 1872, its décor listed as a historic monument.",
+"ko": "1872년에 문을 연 클레망소 광장의 제과점 겸 찻집. 실내외 장식이 역사 기념물로 지정돼 있습니다.",
+"ok": 1
+},
+"biarritz-fine_dining-1": {
+"addr": "8 Rue du Centre, 64200 Biarritz",
+"en": "Charcoal-grill restaurant and bar near Les Halles with 60-day-aged Galician beef and sharing plates; dinner only.",
+"ko": "레알 시장 근처의 숯불 그릴 식당 겸 바. 60일 숙성 갈리시아 소고기와 나눠 먹는 요리가 있고 저녁에만 엽니다.",
+"ok": 1
+},
 "bilbao-bakery-1": {
 "del": 1
 },
@@ -938,8 +1090,42 @@
 "ko": "그랜드 호텔 토플리체 안의 레스토랑. 미쉐린 가이드에 실려 있고 일·월요일은 쉽니다.",
 "ok": 1
 },
+"bonifacio-fine_dining-1": {
+"addr": "53 Quai Jérôme Comparetti, 20169 Bonifacio, France",
+"en": "Tapas-style Corsican restaurant and wine bar in a vaulted room cut into the harbour cliff, listed in the MICHELIN Guide; open May to October.",
+"ko": "항구 석회암 절벽을 파낸 아치형 공간의 타파스식 코르시카 식당 겸 와인 바. 미쉐린 가이드에 실려 있고 5~10월에 엽니다.",
+"ok": 1
+},
+"bonifacio-fine_dining-2": {
+"addr": "15 Quai Banda del Ferro, 20169 Bonifacio, France",
+"en": "Corsican restaurant and wine bar at the end of the quay, with Nustrale pork charcuterie and over 40 Corsican wines by the glass.",
+"ko": "항구 끝의 코르시카 식당 겸 와인 바. 토종 돼지(누스트랄레) 샤퀴테리와 잔으로 파는 코르시카 와인 40여 종이 있습니다.",
+"ok": 1
+},
 "bonifacio-fine_dining-3": {
 "addr": "Cavallo Morto, 20169 Bonifacio",
+"ok": 1
+},
+"bordeaux-bakery-1": {
+"addr": "53 Rue Saint-James, 33000 Bordeaux, France",
+"en": "Cannelé shop in the Grosse Cloche gate with rum, vanilla, chocolate and vegan cannelés; open daily.",
+"ko": "그로스 클로슈 종탑 건물의 카늘레 가게. 럼·바닐라·초콜릿·비건 카늘레가 있고 매일 엽니다.",
+"ok": 1
+},
+"bordeaux-bakery-2": {
+"en": "Central bakery with pain de campagne, Danish pastries and chocolatines; closed Sundays; bread sells out early.",
+"ko": "중심가의 빵집. 시골빵·덴마크 페이스트리·쇼콜라틴이 있고 일요일은 쉽니다. 빵은 일찍 떨어집니다.",
+"ok": 1
+},
+"bordeaux-cafe-1": {
+"addr": "51 Cours de la Marne, 33000 Bordeaux, France",
+"en": "Pastry and specialty coffee shop in the Capucins district run by two brothers who roast their own coffee; cinnamon rolls, flan and chocolatines; closed Mondays.",
+"ko": "카퓌생 지구의 제과점 겸 스페셜티 커피 카페. 형제가 운영하며 커피는 직접 볶습니다. 시나몬롤·플랑·쇼콜라틴이 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"bordeaux-cafe-2": {
+"en": "Small specialty coffee café on Place Pey-Berland with filter coffee, brunch and house-baked cookies.",
+"ko": "페이 베를랑 광장의 작은 스페셜티 커피 카페. 필터 커피와 브런치, 직접 구운 쿠키가 있습니다.",
 "ok": 1
 },
 "bordeaux-fine_dining-1": {
@@ -947,6 +1133,24 @@
 "ko": "보르도의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"bordeaux-fine_dining-2": {
+"en": "South-West French restaurant cooking meat over an open hearth, listed in the MICHELIN Guide.",
+"ko": "벽난로 불에 고기를 굽는 남서부 요리 식당. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"bordeaux-fine_dining-3": {
+"en": "Small central bistro with a frequently changing seasonal menu and a four-course set; closed Sundays and Mondays, booking advised.",
+"ko": "중심가의 작은 비스트로. 제철 메뉴가 자주 바뀌고 4코스 정식이 있습니다. 일·월요일은 쉬고 예약을 권합니다.",
+"ok": 1
+},
+"bordeaux-korean-1": {
+"en": "Korean barbecue restaurant grilling meat and vegetables on a large shared pan, plus bibimbap and kimchi; bookable on OpenTable.",
+"ko": "한국식 고기구이 식당. 큰 철판에 고기와 채소를 함께 굽고 비빔밥·김치도 있습니다. 오픈테이블로 예약할 수 있습니다.",
+"ok": 1
+},
+"bordeaux-korean-2": {
+"del": 1
 },
 "brighton-bakery-5": {
 "del": "브라이턴에서 그 가게를 찾을 수 없음"
@@ -1196,6 +1400,19 @@
 "mi": "star1",
 "ok": 1
 },
+"calvi-fine_dining-1": {
+"en": "Corsican restaurant on the Calvi harbour focusing on fish such as grilled sardines and fish soup; open in season only.",
+"ko": "칼비 항구 앞 코르시카 요리 식당. 정어리 구이·생선 수프 등 생선 요리가 중심이고 관광철에만 엽니다.",
+"ok": 1
+},
+"calvi-fine_dining-2": {
+"del": 1
+},
+"calvi-fine_dining-3": {
+"en": "Family restaurant in a former sheepfold at the entrance to Pigna, listed in the MICHELIN Guide, with garden vegetables and wood-fired suckling pig and lamb; open April to early October (20 min drive from Calvi).",
+"ko": "피냐 마을 입구 옛 양 우리 건물의 가족 식당. 미쉐린 가이드에 실려 있고 텃밭 채소와 장작불에 구운 새끼돼지·양고기를 냅니다. 4~10월 초에 엽니다(칼비에서 차로 20분).",
+"ok": 1
+},
 "cambridge-bakery-3": {
 "del": "케임브리지에서 그 가게를 찾을 수 없음"
 },
@@ -1301,12 +1518,53 @@
 "ko": "체코·유럽 요리 식당. 야외 자리가 넓고 연중 엽니다.",
 "ok": 1
 },
+"chamonix-bakery-1": {
+"addr": "204 Avenue de l’Aiguille du Midi, 74400 Chamonix-Mont-Blanc, France",
+"en": "Bakery near the Aiguille du Midi cable car, open daily from early morning, with long queues at breakfast.",
+"ko": "에귀 뒤 미디 케이블카 역 근처의 빵집. 매일 아침 일찍 열어 아침 줄이 깁니다.",
+"ok": 1
+},
+"chamonix-bakery-2": {
+"en": "Bakery on Route du Plagnolet towards Argentière with pastries, cakes, coffee and plenty of seating; closed Mondays.",
+"ko": "아르장티에르 쪽 플라뇰레 길의 빵집. 페이스트리·케이크와 커피가 있고 좌석이 넉넉합니다. 월요일은 쉽니다.",
+"ok": 1
+},
+"chamonix-cafe-1": {
+"del": 1
+},
+"chamonix-cafe-2": {
+"en": "Specialty coffee café roasting its own beans weekly; the coffee on offer depends on the latest roast.",
+"ko": "직접 원두를 볶는 스페셜티 커피 카페. 매주 볶은 원두에 따라 메뉴가 바뀝니다.",
+"ok": 1
+},
+"chamonix-fine_dining-1": {
+"en": "Michelin one-star restaurant of the Hameau Albert 1er hotel; dinner only, closed Wednesdays and Thursdays.",
+"ko": "호텔 아모 알베르 1세의 미쉐린 1스타 레스토랑. 저녁에만 열고 수·목요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"chamonix-fine_dining-2": {
+"en": "Restaurant near the Casino built with parts of an old Savoyard farm, serving open-fire Savoyard dishes, fondue and raclette; open daily.",
+"ko": "카지노 근처, 옛 사부아 농가 자재로 지은 식당. 장작불 사부아 요리와 퐁뒤·라클렛이 있고 매일 엽니다.",
+"ok": 1
+},
+"chamonix-fine_dining-3": {
+"en": "Savoyard restaurant run by the same family since 1946, decorated with old mountain gear and skis, serving fondue, raclette and tartiflette.",
+"ko": "1946년부터 한 가족이 운영하는 사부아 요리 식당. 옛 산악 장비와 스키로 꾸몄고 퐁뒤·라클렛·타르티플레트가 있습니다.",
+"ok": 1
+},
+"chamonix-korean-1": {
+"del": 1
+},
 "chartres-fine_dining-1": {
 "addr": "Le Grand Monarque, 22 Place des Épars, 28000 Chartres",
 "en": "One-Michelin-star restaurant in the Grand Monarque hotel; closed Sundays and Mondays.",
 "ko": "그랑 모나르크 호텔 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"chartres-fine_dining-2": {
+"del": 1
 },
 "cologne-bakery-1": {
 "addr": "Ehrenstraße 75, 50672 Köln",
@@ -1505,6 +1763,33 @@
 "name": "Pyke ’n’ Pommes POD",
 "ok": 1
 },
+"dijon-bakery-1": {
+"del": 1
+},
+"dijon-bakery-2": {
+"en": "Bakery on Rue Musette in the old town.",
+"ko": "구시가 뮈제트 거리의 빵집.",
+"ok": 1
+},
+"dijon-cafe-1": {
+"del": 1
+},
+"dijon-cafe-2": {
+"en": "Coffee shop roasting on site, run by a French barista championship finalist, with bubble tea and banana bread; closed Sundays and Mondays.",
+"ko": "직접 원두를 볶는 커피숍. 프랑스 바리스타 대회 결선 진출자가 운영하고 버블티·바나나 브레드도 있습니다. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"dijon-fine_dining-1": {
+"del": 1
+},
+"dijon-fine_dining-2": {
+"en": "Restaurant near Dijon’s covered market, listed in the MICHELIN Guide, with Burgundian dishes such as jambon persillé and œufs en meurette and a lunch set; closed Sundays and Mondays.",
+"ko": "디종 중앙시장 근처의 식당. 미쉐린 가이드에 실려 있고 페르시예·외프 앙 뫼레트 같은 부르고뉴 요리와 점심 정식이 있습니다. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"dijon-korean-1": {
+"del": 1
+},
 "dilijan-bakery-1": {
 "en": "Small pastry shop and café in Dilijan.",
 "ko": "딜리잔의 작은 제과점 겸 카페.",
@@ -1677,10 +1962,30 @@
 "mi": "star1",
 "ok": 1
 },
+"etretat-fine_dining-1": {
+"en": "Family bistro in the 1900 mansion where Maurice Leblanc wrote Arsène Lupin, with a weekly seasonal set menu; no bookings, so arrive early; closed Sundays and Mondays.",
+"ko": "모리스 르블랑이 아르센 뤼팽을 쓴 1900년 저택의 가족 비스트로. 매주 바뀌는 제철 코스를 내고 예약은 받지 않으니 일찍 가세요. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"etretat-fine_dining-2": {
+"en": "Restaurant of a hilltop château hotel overlooking the Étretat cliffs, listed in the MICHELIN Guide, with menus built on seafood from the Fécamp fish auction.",
+"ko": "에트르타 절벽이 보이는 언덕 위 성 호텔의 레스토랑. 미쉐린 가이드에 실려 있고 페캉 어시장 해산물로 코스를 냅니다.",
+"ok": 1
+},
 "florence-fine_dining-1": {
 "en": "Three-Michelin-star restaurant in Florence; Tuesday to Saturday evenings.",
 "ko": "피렌체의 미쉐린 3스타 레스토랑. 화~토 저녁에 엽니다.",
 "mi": "star3",
+"ok": 1
+},
+"fontainebleau-bakery-1": {
+"en": "Flagship shop of 2013 world pastry champion Frédéric Cassel, with millefeuille and macarons; closed Mondays.",
+"ko": "2013년 세계 제과 챔피언 프레데리크 카셀의 본점. 밀푀유와 마카롱이 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"fontainebleau-fine_dining-1": {
+"en": "Parisian-style bistro with an awning-shaded terrace and beamed room, daily-changing dishes and a good wine list.",
+"ko": "차양 테라스와 들보 천장의 파리풍 비스트로. 매일 바뀌는 요리와 와인 리스트가 있습니다.",
 "ok": 1
 },
 "frankfurt-bakery-1": {
@@ -2104,6 +2409,16 @@
 "girona-korean-2": {
 "del": 1
 },
+"giverny-fine_dining-1": {
+"en": "Norman bistro and tearoom directly opposite Monet’s house and gardens, with a flower-filled terrace.",
+"ko": "모네의 집과 정원 바로 맞은편의 노르망디 비스트로 겸 찻집. 꽃이 가득한 테라스가 있습니다.",
+"ok": 1
+},
+"giverny-fine_dining-2": {
+"en": "Bistro in the 1890s inn where Impressionist painters stayed, known for its omelette Baudy, with a garden terrace.",
+"ko": "인상파 화가들이 묵던 1890년대 여관 건물의 비스트로. 바우디 오믈렛이 대표 메뉴이고 정원 테라스가 있습니다.",
+"ok": 1
+},
 "gjirokaster-bakery-1": {
 "en": "Café-bakery in central Gjirokastër with cakes, pastries and gelato.",
 "ko": "케이크·페이스트리·젤라토를 파는 지로카스터 중심가의 카페 겸 빵집.",
@@ -2500,6 +2815,21 @@
 "herceg-novi-fine_dining-5": {
 "del": "헤르체그노비에서 그 식당을 찾을 수 없음"
 },
+"honfleur-fine_dining-1": {
+"en": "Chef Alexandre Bourdas’s restaurant, bakery and pâtisserie, listed in the MICHELIN Guide, doubling as a tearoom and with a Japanese section on the menu; closed Mondays and Tuesdays.",
+"ko": "셰프 알렉상드르 부르다의 식당 겸 빵집·제과점. 미쉐린 가이드에 실려 있고 시간대에 따라 찻집으로도 운영하며 일본식 메뉴도 있습니다. 월·화요일은 쉽니다.",
+"ok": 1
+},
+"honfleur-fine_dining-2": {
+"en": "Modern-cuisine restaurant in the historic quarter, listed in the MICHELIN Guide; closed Mondays and Tuesdays.",
+"ko": "구시가의 현대 요리 식당. 미쉐린 가이드에 실려 있고 월·화요일은 쉽니다.",
+"ok": 1
+},
+"honfleur-fine_dining-3": {
+"en": "Small restaurant near the Vieux Bassin, listed in the MICHELIN Guide, offering three set menus of Norman produce.",
+"ko": "비외 바생 근처의 작은 식당. 미쉐린 가이드에 실려 있고 노르망디 재료로 세 가지 코스를 냅니다.",
+"ok": 1
+},
 "innsbruck-bakery-1": {
 "del": "인스브루크에서 그 빵집을 찾을 수 없음"
 },
@@ -2698,6 +3028,11 @@
 "en": "Three-Michelin-star seafood restaurant on the Plage de la Concurrence; closed Sundays and Mondays.",
 "ko": "콩퀴랑스 해변의 미쉐린 3스타 해산물 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star3",
+"ok": 1
+},
+"la-rochelle-fine_dining-2": {
+"en": "Seafood restaurant at the foot of the Old Port towers since 1947, with seafood choucroute and mouclade.",
+"ko": "1947년부터 구항구 탑 아래에서 영업한 해산물 식당. 해산물 슈크루트와 피노 홍합 요리(무클라드)가 있습니다.",
 "ok": 1
 },
 "lake-district-fine_dining-1": {
@@ -3283,12 +3618,71 @@
 "addr": "18 Place d’Armes, 1136 Luxembourg",
 "ok": 1
 },
+"lyon-bakery-1": {
+"en": "Bakery in the Saint-Jean quarter taken over by pastry chef Sébastien Bouillet in 2023, known for pink praline brioche and tart; long weekend queues.",
+"ko": "생장 지구의 빵집. 2023년 제과사 세바스티앵 부이예가 인수했고 분홍 프랄린 브리오슈·타르트가 대표입니다. 주말엔 줄이 깁니다.",
+"ok": 1
+},
+"lyon-bakery-2": {
+"en": "Bakery on Place Saint-Paul in Vieux Lyon with pain au chocolat, quiches and sandwiches.",
+"ko": "비외 리옹 생폴 광장의 빵집. 팽오쇼콜라와 키슈·샌드위치가 있습니다.",
+"ok": 1
+},
+"lyon-bakery-3": {
+"en": "The Pralus chocolate family’s first Lyon bakery (2024), selling organic sourdough loaves by weight, with a small riverside terrace.",
+"ko": "초콜릿 가문 프랄뤼가 2024년 리옹에 처음 연 빵집. 유기농 사워도우 빵을 무게로 팔고 강변 테라스가 있습니다.",
+"ok": 1
+},
+"lyon-bakery-4": {
+"en": "Lyon branch of the pastry chain known for meringue merveilleux, also selling brioche; no seating.",
+"ko": "머랭 케이크 메르베유로 알려진 제과 체인의 리옹 매장. 브리오슈도 있고 좌석은 없습니다.",
+"ok": 1
+},
+"lyon-bakery-5": {
+"en": "Croix-Rousse bakery baking sourdough loaves from heritage grains such as khorasan and einkorn.",
+"ko": "크루아루스의 빵집. 카무트·외알밀 등 옛 곡물 사워도우 빵을 굽습니다.",
+"ok": 1
+},
+"lyon-cafe-1": {
+"en": "One of Lyon’s early specialty coffee shops, with homemade pastries and a back room good for laptop work.",
+"ko": "리옹 초기 스페셜티 커피숍 중 하나. 직접 만든 페이스트리가 있고 뒤쪽 방은 노트북 작업하기 좋습니다.",
+"ok": 1
+},
+"lyon-cafe-2": {
+"addr": "1 Rue des Estrées, 69005 Lyon",
+"en": "Specialty coffee café, now in Vieux Lyon; open Wednesday to Sunday.",
+"ko": "비외 리옹으로 옮긴 스페셜티 커피 카페. 수~일요일에 엽니다.",
+"ok": 1
+},
+"lyon-cafe-3": {
+"en": "Flagship café of Lyon roaster Mokxa, opened in 2011, with a trio of espresso, cappuccino and filter.",
+"ko": "2011년에 문을 연 리옹 로스터리 목사의 플래그십 카페. 에스프레소·카푸치노·필터를 한 번에 맛보는 세트가 있습니다.",
+"ok": 1
+},
 "lyon-fine_dining-1": {
 "addr": "12 Rue Royale, 69001 Lyon",
 "en": "Historic two-Michelin-star restaurant in Lyon; open few days, so check ahead.",
 "ko": "리옹의 역사적인 미쉐린 2스타 레스토랑. 여는 날이 적으니 미리 확인하세요.",
 "mi": "star2",
 "ok": 1
+},
+"lyon-fine_dining-2": {
+"en": "Lyon bouchon near Place des Terreaux, founded 1872, serving classics such as quenelles and a daily menu; open daily.",
+"ko": "1872년에 문을 연 테로 광장 근처의 리옹 부숑. 크넬 같은 리옹 요리와 오늘의 메뉴가 있고 매일 엽니다.",
+"ok": 1
+},
+"lyon-fine_dining-3": {
+"en": "Bouchon in the Ainay quarter, a wine counter founded in 1860, serving quenelles and rum baba; open Tuesday to Saturday.",
+"ko": "1860년 와인 가게에서 시작한 아네 지구의 부숑. 크넬과 럼 바바가 있고 화~토요일에 엽니다.",
+"ok": 1
+},
+"lyon-fine_dining-4": {
+"en": "Bouchon in Vieux Lyon below Fourvière, with tablier de sapeur, quenelles and praline tart.",
+"ko": "푸르비에르 언덕 아래 비외 리옹의 부숑. 타블리에 드 사푀르·크넬·프랄린 타르트가 있습니다.",
+"ok": 1
+},
+"lyon-korean-1": {
+"del": 1
 },
 "maastricht-fine_dining-1": {
 "en": "One-Michelin-star restaurant in a château with terraced gardens; closed Mondays and Tuesdays.",
@@ -3487,6 +3881,26 @@
 "mi": "star1",
 "ok": 1
 },
+"marseille-bakery-1": {
+"en": "Marseille’s oldest bakery (1781), baking only navette biscuits in its 18th-century vaulted oven, blessed each Candlemas by the archbishop.",
+"ko": "1781년에 문을 연 마르세유에서 가장 오래된 빵집. 18세기 아치형 화덕에서 나베트 과자만 굽고, 매년 성촉절엔 대주교가 화덕을 축복합니다.",
+"ok": 1
+},
+"marseille-bakery-2": {
+"en": "Bakery-café baking organic-flour sourdough, plus brioche, sandwiches and tarts; closed Sundays and Mondays.",
+"ko": "유기농 밀가루 사워도우 빵을 굽는 빵집 겸 카페. 브리오슈·샌드위치·타르트도 있고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"marseille-cafe-1": {
+"en": "Pâtisserie and tearoom opened in 2004, known for millefeuille and financiers, with salads and sandwiches too; closed Sundays.",
+"ko": "2004년에 문을 연 제과점 겸 찻집. 밀푀유와 피낭시에가 대표이고 샐러드·샌드위치도 있습니다. 일요일은 쉽니다.",
+"ok": 1
+},
+"marseille-cafe-2": {
+"en": "Coffee roaster’s shop and café on La Canebière, selling coffee, tea, chocolate and sweets to enjoy in or take away.",
+"ko": "카네비에르 거리의 커피 로스터 가게 겸 카페. 커피·차·초콜릿·과자를 매장에서 먹거나 살 수 있습니다.",
+"ok": 1
+},
 "marseille-fine_dining-1": {
 "en": "Three-Michelin-star seafood restaurant on the Anse de Maldormé; closed Sundays and Mondays.",
 "ko": "말도르메 해안의 미쉐린 3스타 해산물 레스토랑. 일·월요일은 쉽니다.",
@@ -3497,6 +3911,33 @@
 "en": "One-Michelin-star restaurant overlooking the Old Port; closed Sundays and Mondays.",
 "ko": "구항구가 보이는 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"marseille-fine_dining-3": {
+"en": "Traditional Provençal restaurant on the Old Port with bouillabaisse and meat and fish dishes, and a harbour terrace.",
+"ko": "구항구 앞의 프로방스 가정식 식당. 부야베스와 고기·생선 요리가 있고 항구 쪽 테라스가 있습니다.",
+"ok": 1
+},
+"marseille-fine_dining-4": {
+"en": "Family restaurant (1952) in the Vallon des Auffes fishing cove, known for bouillabaisse and listed in the MICHELIN Guide.",
+"ko": "발롱 데 조프 어촌 포구의 1952년 가족 식당. 부야베스로 알려져 있고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"marseille-fine_dining-5": {
+"en": "Mediterranean restaurant on the Corniche, a dining spot since 1885, with terrace views of the Frioul islands and Château d’If; closed Sundays and Mondays.",
+"ko": "1885년부터 식당이 있던 코르니슈 해안의 지중해 요리 레스토랑. 프리울 섬과 이프 성이 보이는 테라스가 있고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"marseille-korean-1": {
+"en": "Korean restaurant near the Opéra with bibimbap, kimchi and Korean barbecue; closed Wednesdays.",
+"ko": "오페라 극장 근처의 한식당. 비빔밥·김치·한국식 고기구이가 있고 수요일은 쉽니다.",
+"name": "Mamaco – Madame Corée",
+"ok": 1
+},
+"marseille-korean-2": {
+"en": "Korean restaurant near Castellane focusing on Korean barbecue, with bibimbap, bulgogi and tteokbokki; closed Sundays.",
+"ko": "카스텔란 근처의 한식당. 한국식 고기구이가 중심이고 비빔밥·불고기·떡볶이도 있습니다. 일요일은 쉽니다.",
+"name": "Busan",
 "ok": 1
 },
 "mdina-bakery-1": {
@@ -3527,9 +3968,44 @@
 "ko": "오텔 메트로폴 안의 일식 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
+"montpellier-bakery-1": {
+"del": 1
+},
+"montpellier-bakery-2": {
+"en": "Naturally leavened bakery in the Écusson old town, named Best Bakery in France in 2015, baking in an old oven.",
+"ko": "구시가 에퀴송의 천연 발효빵 빵집. 2015년 프랑스 최고 빵집에 뽑혔고 오래된 화덕을 씁니다.",
+"ok": 1
+},
+"montpellier-bakery-3": {
+"en": "Pâtisserie-bakery on Rue Saint-Guilhem known for éclairs and panettone; long Saturday-morning queues.",
+"ko": "생기욤 거리의 제과점 겸 빵집. 에클레르와 파네토네로 알려져 있고 토요일 아침엔 줄이 깁니다.",
+"ok": 1
+},
+"montpellier-bakery-4": {
+"en": "Écusson bakery using organic flour and natural sourdough; closed Sundays and Mondays.",
+"ko": "에퀴송의 빵집. 유기농 밀가루와 천연 발효종으로 빵을 굽고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"montpellier-bakery-5": {
+"en": "Bakery on Boulevard Victor-Hugo with pistachio rolls, focaccia and vegan options; closed Sundays and Mondays.",
+"ko": "빅토르 위고 대로의 빵집. 피스타치오 롤·포카치아 등이 있고 비건 메뉴도 있습니다. 일·월요일은 쉽니다.",
+"ok": 1
+},
 "montpellier-cafe-1": {
 "addr": "79 Rue du Faubourg Figuerolles, 34070 Montpellier",
 "cat": "bakery",
+"ok": 1
+},
+"montpellier-cafe-2": {
+"en": "Specialty coffee café in the Écusson old town, roasting its own beans, with brunch and vegan options.",
+"ko": "구시가 에퀴송의 스페셜티 커피 카페. 직접 원두를 볶고 브런치와 비건 메뉴가 있습니다.",
+"ok": 1
+},
+"montpellier-fine_dining-1": {
+"addr": "Place de la Canourgue, 34000 Montpellier",
+"en": "Michelin one-star restaurant reopened in 2021 by the Pourcel brothers in the Hôtel Richer de Belleval, a former town-hall mansion; closed Sundays and Mondays.",
+"ko": "푸르셀 형제가 호텔 리셰 드 벨발(옛 시청 저택)에서 2021년 다시 연 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "montpellier-fine_dining-2": {
@@ -3538,6 +4014,9 @@
 "ko": "몽펠리에의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"montpellier-fine_dining-3": {
+"del": 1
 },
 "montpellier-korean-1": {
 "del": "이전을 위해 영업을 멈춘 상태로 나와 지금 영업 여부 확인 불가"
@@ -3808,6 +4287,52 @@
 "neum-fine_dining-3": {
 "en": "Roadside grill restaurant with grilled meat and fish.",
 "ko": "도로변 그릴 레스토랑. 그릴 고기와 생선.",
+"ok": 1
+},
+"nice-bakery-1": {
+"en": "Pâtisserie on Boulevard Gambetta since 1927, with a tearoom corner; closed Sundays.",
+"ko": "1927년부터 감베타 대로에서 영업한 제과점. 찻집 공간이 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"nice-bakery-2": {
+"en": "Bakery near the Opéra in Vieux Nice with viennoiserie and breads; open daily.",
+"ko": "구시가 오페라 극장 근처의 빵집. 비에누아즈리와 빵이 있고 매일 엽니다.",
+"ok": 1
+},
+"nice-cafe-1": {
+"en": "Organic sourdough bakery-café with cinnamon rolls, viennoiserie and espresso; closed Sundays.",
+"ko": "유기농 사워도우 빵집 겸 카페. 시나몬롤과 비에누아즈리, 에스프레소가 있습니다. 일요일은 쉽니다.",
+"ok": 1
+},
+"nice-cafe-2": {
+"en": "Small café near the old town serving filter coffee from locally roasted beans, homemade madeleines and financiers, and brunch.",
+"ko": "구시가 근처의 작은 카페. 지역에서 볶은 원두로 필터 커피를 내고, 직접 구운 마들렌·피낭시에와 브런치가 있습니다.",
+"ok": 1
+},
+"nice-fine_dining-1": {
+"en": "Michelin one-star restaurant inside the Hôtel Negresco on the Promenade des Anglais.",
+"ko": "영국인 산책로의 호텔 네그레스코 안 미쉐린 1스타 레스토랑.",
+"mi": "star1",
+"ok": 1
+},
+"nice-fine_dining-2": {
+"en": "Socca (chickpea pancake) restaurant near the old port, baked in a wood-fired stone oven, with pissaladière too; closed Mondays and Tuesdays.",
+"ko": "구항구 근처의 소카(병아리콩 전병) 식당. 장작불 돌화덕에 굽고 피살라디에르도 있습니다. 월·화요일은 쉽니다.",
+"ok": 1
+},
+"nice-fine_dining-3": {
+"en": "Socca shop in Vieux Nice since 1925, baked in a wood oven and also sold at the Cours Saleya market; closed Mondays.",
+"ko": "1925년부터 영업한 구시가의 소카 가게. 장작 화덕에 굽고 살레야 시장에서도 팝니다. 월요일은 쉽니다.",
+"ok": 1
+},
+"nice-fine_dining-4": {
+"en": "Niçoise restaurant in the old town since 1989 with wood-fired socca, pissaladière and farcis; closed Wednesdays and Sundays.",
+"ko": "1989년부터 영업한 구시가의 니스 요리 식당. 장작 화덕 소카·피살라디에르·파르시가 있고 수·일요일은 쉽니다.",
+"ok": 1
+},
+"nice-korean-1": {
+"en": "Small Korean restaurant opened by friends in 2020, with bibimbap, japchae, mandu and a black-sesame roll cake.",
+"ko": "2020년에 친구들이 문을 연 작은 한식당. 비빔밥·잡채·만두와 흑임자 롤케이크가 있습니다.",
 "ok": 1
 },
 "nicosia-bakery-1": {
@@ -4215,10 +4740,67 @@
 "paphos-fine_dining-3": {
 "del": 1
 },
+"paris-bakery-1": {
+"addr": "34 Rue Yves Toudic, 75010 Paris, France",
+"en": "Bakery near Canal Saint-Martin in a listed shop dating from 1875, known for its pain des amis and escargot pastries; closed weekends.",
+"ko": "생마르탱 운하 근처, 1875년부터 빵집이던 역사 기념물 가게. 팽 데 자미와 에스카르고(달팽이 모양 페이스트리)가 대표이고 주말은 쉽니다.",
+"ok": 1
+},
+"paris-bakery-2": {
+"en": "Poilâne bakery-café in the Marais, with its round sourdough loaves and a bread-based dining menu; closed Mondays.",
+"ko": "마레 지구의 푸알란 빵집 겸 카페. 둥근 사워도우 빵과 함께 빵을 곁들인 식사 메뉴가 있습니다. 월요일은 쉽니다.",
+"ok": 1
+},
+"paris-bakery-3": {
+"en": "Paris’s oldest pâtisserie, founded in 1730, known for its baba au rhum, with a listed historic interior.",
+"ko": "1730년 문을 연 파리에서 가장 오래된 제과점. 바바 오 럼이 대표이고 실내 장식이 역사 기념물입니다.",
+"ok": 1
+},
+"paris-bakery-4": {
+"en": "Pocket-sized bakery facing a square near Ledru-Rollin, with croissants, pain au chocolat and lemon tart; closed Mondays.",
+"ko": "레드뤼롤랭 역 근처 광장 앞의 작은 빵집. 크루아상·팽오쇼콜라·레몬 타르트가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"paris-bakery-5": {
+"en": "Winner of the 2024 best-baguette competition in Paris, also known for inventive viennoiserie; closed Mondays.",
+"ko": "2024년 파리 바게트 대회 우승 빵집. 창의적인 비에누아즈리가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"paris-bakery-6": {
+"en": "Ladurée’s original tearoom, a bakery founded in 1862, famous for macarons; the upstairs rooms are the historic salon de thé.",
+"ko": "1862년 빵집으로 시작한 라뒤레의 본점 찻집. 마카롱이 대표이고 2층이 옛 살롱 드 테입니다.",
+"ok": 1
+},
+"paris-cafe-1": {
+"addr": "172 Boulevard Saint-Germain, 75006 Paris, France",
+"en": "Saint-Germain café opened in 1887 where Sartre and Beauvoir wrote, known for its hot chocolate.",
+"ko": "1887년 문을 연 생제르맹의 카페. 사르트르와 보부아르가 글을 쓰던 곳이고 핫초콜릿이 유명합니다.",
+"ok": 1
+},
+"paris-cafe-2": {
+"del": 1
+},
+"paris-cafe-3": {
+"en": "Pioneering Paris specialty roastery café opened in 2011; weekend brunch is popular, so book ahead.",
+"ko": "2011년 문을 연 파리 스페셜티 커피 1세대 로스터리 카페. 주말 브런치가 인기라 예약을 권합니다.",
+"ok": 1
+},
+"paris-cafe-4": {
+"addr": "32 Avenue de l’Opéra, 75002 Paris, France",
+"en": "Café of fashion label Maison Kitsuné; open daily.",
+"ko": "패션 브랜드 메종 키츠네의 카페. 매일 엽니다.",
+"ok": 1
+},
 "paris-fine_dining-1": {
 "en": "Three-Michelin-star vegetable-led restaurant of chef Alain Passard; closed at weekends.",
 "ko": "셰프 알랭 파사르의 채소 중심 미쉐린 3스타 레스토랑. 주말은 쉽니다.",
 "mi": "star3",
+"ok": 1
+},
+"paris-fine_dining-2": {
+"addr": "9 Carrefour de l’Odéon, 75006 Paris, France",
+"en": "Bistro on the Carrefour de l’Odéon, listed in the MICHELIN Guide, open daily from noon until late.",
+"ko": "오데옹 교차로의 비스트로. 미쉐린 가이드에 실려 있고 매일 정오부터 밤까지 엽니다.",
 "ok": 1
 },
 "paris-fine_dining-5": {
@@ -4347,6 +4929,48 @@
 "en": "One-Michelin-star restaurant near the Ribeira; closed Sundays and Mondays.",
 "ko": "리베이라 근처의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"porvoo-bakery-1": {
+"en": "Old Town shop of Porvoo sweets maker Brunberg, selling chocolate kisses and truffles.",
+"ko": "포르보 초콜릿·사탕 회사 브룬베리의 구시가 매장. 초콜릿 키스와 트러플이 있습니다.",
+"ok": 1
+},
+"porvoo-bakery-2": {
+"del": 1
+},
+"porvoo-bakery-3": {
+"en": "Handmade chocolate shop and café on Jokikatu in the Old Town with truffles and cakes; tasting samples offered.",
+"ko": "구시가 요키카투의 수제 초콜릿 가게 겸 카페. 트러플과 케이크가 있고 시식할 수 있습니다.",
+"ok": 1
+},
+"porvoo-cafe-1": {
+"en": "Café and bar in a brick warehouse over 100 years old, roasting its own coffee.",
+"ko": "100년 넘은 벽돌 창고 건물의 카페 겸 바. 직접 커피를 볶습니다.",
+"ok": 1
+},
+"porvoo-cafe-2": {
+"en": "Small café on the Old Town square selling Runeberg cake year-round, plus cinnamon buns.",
+"ko": "구시가 광장의 작은 카페. 루네베리 케이크를 1년 내내 팔고 시나몬롤도 있습니다.",
+"ok": 1
+},
+"porvoo-fine_dining-1": {
+"en": "Michelin one-star restaurant in a 1920s chocolate factory, serving tasting menus of local seasonal produce; hard to book.",
+"ko": "1920년대 초콜릿 공장 건물의 미쉐린 1스타 레스토랑. 지역 제철 재료로 코스를 냅니다. 예약이 어렵습니다.",
+"mi": "star1",
+"ok": 1
+},
+"porvoo-fine_dining-2": {
+"en": "Bistro serving a six-course tasting menu of seasonal local produce, with crayfish dinners late summer to autumn; booking recommended.",
+"ko": "제철 지역 식재료로 6코스 테이스팅 메뉴를 내는 비스트로. 여름~가을엔 가재 디너도 있고 예약을 권합니다.",
+"ok": 1
+},
+"porvoo-fine_dining-3": {
+"del": 1
+},
+"porvoo-korean-1": {
+"en": "Korean restaurant in central Porvoo with a lunch buffet.",
+"ko": "포르보 중심가의 한식당. 점심 뷔페가 있습니다.",
 "ok": 1
 },
 "potsdam-bakery-1": {
@@ -4657,6 +5281,49 @@
 "mi": "star2",
 "ok": 1
 },
+"rovaniemi-bakery-1": {
+"en": "Family bakery-café in Rovaniemi since 1984, with breads and cakes baked on site.",
+"ko": "1984년부터 영업한 로바니에미 가족 제과점. 직접 구운 빵과 케이크가 있습니다.",
+"ok": 1
+},
+"rovaniemi-bakery-2": {
+"del": 1
+},
+"rovaniemi-cafe-1": {
+"en": "Café inside the Arktikum museum with a weekday lunch buffet of salads, a daily dish and coffee.",
+"ko": "북극 박물관 아르크티쿰 안의 카페. 평일 점심 뷔페(샐러드·오늘의 요리·커피)가 있습니다.",
+"ok": 1
+},
+"rovaniemi-cafe-2": {
+"en": "Cosy café in central Rovaniemi.",
+"ko": "로바니에미 중심가의 아늑한 카페.",
+"ok": 1
+},
+"rovaniemi-cafe-3": {
+"en": "Central café and cocktail bar known for savoury and sweet waffles, such as salmon or goat cheese.",
+"ko": "중심가의 카페 겸 칵테일 바. 연어나 염소치즈를 올린 와플이 대표 메뉴입니다.",
+"ok": 1
+},
+"rovaniemi-fine_dining-1": {
+"en": "25-seat neighbourhood bistro opened in 2015, with salmon, smoked vendace and reindeer; same-day phone bookings only.",
+"ko": "2015년에 문을 연 25석짜리 동네 비스트로. 연어·훈제 송어·순록 요리가 있고 예약은 당일 전화로만 받습니다.",
+"ok": 1
+},
+"rovaniemi-fine_dining-2": {
+"en": "Lapland restaurant with sautéed reindeer and lingonberries, plus bear-meat dishes.",
+"ko": "라플란드 요리 식당. 순록 볶음과 링곤베리, 곰고기 요리가 있습니다.",
+"ok": 1
+},
+"rovaniemi-fine_dining-3": {
+"en": "Central burger and pizza spot with a reindeer cheeseburger and veggie options; closed Mondays.",
+"ko": "중심가의 버거·피자 가게. 순록 치즈버거와 채식 메뉴가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"rovaniemi-korean-1": {
+"en": "Small Korean restaurant with about ten tables, serving bibimbap, kimchi stew and fried tofu.",
+"ko": "테이블 10개 정도의 작은 한식당. 비빔밥·김치찌개·튀긴 두부가 있습니다.",
+"ok": 1
+},
 "rovinj-bakery-1": {
 "del": "체인은 있으나 로빈 지점 주소를 확인할 수 없음"
 },
@@ -4724,6 +5391,14 @@
 "ko": "마요르 광장 옆 코리요 광장의 핀초스 식당. 소꼬리 쌀 요리 같은 핀초스가 있고 월·화요일은 쉽니다.",
 "ok": 1
 },
+"salamanca-fine_dining-5": {
+"en": "Castilian restaurant on the Plaza del Peso (since 1928), focused on meat dishes; booking advised.",
+"ko": "페소 광장의 카스티야 요리 레스토랑(1928년부터). 고기 요리가 중심이고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"salamanca-korean-1": {
+"del": 1
+},
 "salzburg-bakery-1": {
 "addr": "Europastraße 1 (Europark), 5020 Salzburg",
 "en": "1950s-style bakery-café inside the Europark shopping centre.",
@@ -4769,6 +5444,28 @@
 "salzburg-fine_dining-4": {
 "ok": 1
 },
+"san-sebastian-bakery-1": {
+"addr": "Narrika Kalea, 20003 Donostia / San Sebastián",
+"en": "San Sebastián pastry shop founded in 1886; its Narrika street shop in the old town sells pantxineta.",
+"ko": "1886년 문을 연 산세바스티안의 제과점. 구시가 나리카 거리 매장에서 판치네타를 팝니다.",
+"ok": 1
+},
+"san-sebastian-bakery-2": {
+"del": 1
+},
+"san-sebastian-bakery-3": {
+"en": "Breakfast bakery café in the Antiguo district.",
+"ko": "안티구오 지구의 아침 식사 빵집 겸 카페.",
+"ok": 1
+},
+"san-sebastian-cafe-1": {
+"del": 1
+},
+"san-sebastian-cafe-2": {
+"en": "Specialty coffee café near Plaza Gipuzkoa with flat whites and homemade cakes.",
+"ko": "기푸스코아 광장 근처의 스페셜티 커피 카페. 플랫화이트와 홈메이드 케이크가 있습니다.",
+"ok": 1
+},
 "san-sebastian-fine_dining-1": {
 "addr": "Avenida Alcalde José Elosegi 273, 20015 Donostia",
 "en": "Three-Michelin-star San Sebastián restaurant, first starred in 1974; closed Sundays and Mondays.",
@@ -4776,11 +5473,83 @@
 "mi": "star3",
 "ok": 1
 },
+"san-sebastian-fine_dining-2": {
+"en": "Old-town pintxos bar cooking to order rather than from a display, with Idiazabal risotto and braised cheek.",
+"ko": "구시가의 핀초스 바. 진열 대신 주방에서 바로 만든 핀초스를 내고 이디아사발 치즈 리소토·볼살 찜이 있습니다.",
+"ok": 1
+},
+"san-sebastian-fine_dining-3": {
+"en": "Small old-town pintxos bar (opened 1999) with a blackboard menu cooked to order; no reservations.",
+"ko": "구시가의 작은 핀초스 바(1999년 개업). 칠판 메뉴에서 골라 주문하고 예약은 받지 않습니다.",
+"ok": 1
+},
+"san-sebastian-fine_dining-4": {
+"en": "Basque pintxos and grill bar in the old town with crab tart and Iberian ham; fills up early.",
+"ko": "구시가의 바스크 핀초스·그릴 식당. 게살 타르트와 이베리코 햄이 있고 일찍 붐빕니다.",
+"ok": 1
+},
+"san-sebastian-fine_dining-5": {
+"en": "Old-town restaurant with a pintxos bar downstairs and a dining room upstairs, serving Basque food and grilled fish; listed in the Michelin Guide, closed Tuesdays and Wednesdays.",
+"ko": "1층은 핀초스 바, 2층은 식당인 구시가 레스토랑. 바스크 요리와 숯불 생선을 내고 미쉐린 가이드에 실려 있습니다. 화·수요일은 쉽니다.",
+"ok": 1
+},
+"san-sebastian-korean-1": {
+"del": 1
+},
+"san-sebastian-korean-2": {
+"del": 1
+},
+"santiago-bakery-1": {
+"del": 1
+},
+"santiago-bakery-2": {
+"addr": "Campo de San Clemente 11, 15705 Santiago de Compostela",
+"en": "American-style bakery café near the Alameda park with cinnamon buns, scones and cakes.",
+"ko": "알라메다 공원 근처의 미국식 빵집 겸 카페. 시나몬번·스콘·케이크가 있습니다.",
+"ok": 1
+},
+"santiago-cafe-1": {
+"del": 1
+},
+"santiago-cafe-2": {
+"del": 1
+},
+"santiago-cafe-3": {
+"en": "Branch of the local Iacobus café chain with churros and tarta de Santiago.",
+"ko": "산티아고의 카페 체인 이아코부스의 지점. 추로스와 타르타 데 산티아고가 있습니다.",
+"ok": 1
+},
 "santiago-fine_dining-1": {
 "addr": "Praza de Abastos, Rúa das Ameas 13-18, 15703 Santiago de Compostela",
 "ok": 1
 },
+"santiago-fine_dining-2": {
+"en": "Galician restaurant in a 19th-century former tannery with a vine-covered patio; booking advised.",
+"ko": "19세기 무두질 공장 건물의 갈리시아 요리 식당. 포도 덩굴 안뜰이 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
 "santiago-fine_dining-3": {
+"ok": 1
+},
+"santiago-fine_dining-4": {
+"addr": "Rúa Travesa 20, 15704 Santiago de Compostela",
+"en": "Galician market-cooking restaurant near the Mercado de Abastos, with separate tapas and dining areas; booking advised.",
+"ko": "아바스토스 시장 근처의 갈리시아 시장 요리 식당. 타파스 공간과 정찬 공간이 따로 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"santiago-fine_dining-5": {
+"en": "Galician restaurant on Rúa da Raíña in the old town (since 1986) with snails, meat and fish dishes.",
+"ko": "구시가 라이냐 거리의 갈리시아 식당(1986년부터). 달팽이 요리와 고기·생선 요리가 있습니다.",
+"ok": 1
+},
+"santiago-korean-1": {
+"en": "Korean restaurant on Rúa de Vista Alegre with ramyeon, jjajang and buldak chicken; closed Sundays and Mondays.",
+"ko": "비스타 알레그레 거리의 한식당. 라면·짜장·불닭 같은 메뉴가 있고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"santiago-korean-2": {
+"en": "Korean barbecue buffet where meat and seafood are grilled at the table.",
+"ko": "한국식 바비큐 뷔페. 고기와 해산물을 테이블에서 굽습니다.",
 "ok": 1
 },
 "santorini-cafe-2": {
@@ -4848,10 +5617,122 @@
 "ko": "사란데 언덕 꼭대기의 해산물·지중해 요리 식당. 만과 이오니아해가 내려다보입니다.",
 "ok": 1
 },
+"segovia-bakery-1": {
+"del": 1
+},
+"segovia-bakery-2": {
+"del": 1
+},
+"segovia-cafe-1": {
+"del": 1
+},
+"segovia-cafe-2": {
+"addr": "Bajada de la Canaleja 5, 40001 Segovia",
+"en": "Segovia specialty coffee shop with filter coffee, cold brew, breakfast and lunch, plus outdoor seating.",
+"ko": "세고비아의 스페셜티 커피숍. 핸드드립·콜드브루와 아침·점심이 있고 야외석이 있습니다.",
+"ok": 1
+},
+"segovia-cafe-3": {
+"en": "Small café near the aqueduct with vegetarian options.",
+"ko": "수도교 근처의 작은 카페. 채식 메뉴가 있습니다.",
+"ok": 1
+},
+"segovia-cafe-4": {
+"del": 1
+},
+"segovia-fine_dining-1": {
+"en": "Old-town Castilian restaurant serving roast suckling pig from its own farm, listed in the Michelin Guide.",
+"ko": "구시가의 카스티야 요리 식당. 자체 농장의 새끼 돼지 구이(코치니요)를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"segovia-fine_dining-2": {
+"en": "Restaurant between the Alcázar and the Plaza Mayor with grilled meats and roast suckling pig; booking advised.",
+"ko": "알카사르와 마요르 광장 사이의 식당. 그릴 고기와 새끼 돼지 구이가 있고 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"segovia-fine_dining-3": {
+"en": "Restaurant in a 15th-century Mudéjar mansion hotel in the old Jewish quarter, serving Sephardic dishes.",
+"ko": "옛 유대인 지구, 15세기 무데하르 저택 호텔 안의 식당. 세파르디 요리를 냅니다.",
+"ok": 1
+},
+"segovia-fine_dining-4": {
+"en": "Restaurant right by the aqueduct, run by the Cándido family since 1905, serving suckling pig from a wood-fired oven.",
+"ko": "수도교 바로 옆의 식당. 1905년부터 칸디도 가족이 운영하고 장작 화덕 새끼 돼지 구이가 있습니다.",
+"ok": 1
+},
+"segovia-fine_dining-5": {
+"en": "Family-run restaurant opened in 1895, serving roast suckling pig and lamb.",
+"ko": "1895년 문을 연 가족 경영 식당. 새끼 돼지 구이와 양고기 구이를 냅니다.",
+"ok": 1
+},
+"seville-bakery-1": {
+"del": 1
+},
+"seville-bakery-2": {
+"en": "Old-town bakery café on Calle Huelva with cinnamon rolls, Nutella knots and vegan options.",
+"ko": "구시가 우엘바 거리의 빵집 겸 카페. 시나몬롤·누텔라 매듭빵과 비건 메뉴가 있습니다.",
+"ok": 1
+},
+"seville-bakery-3": {
+"en": "Café in the Nervión district with homemade cakes, palmeras and specialty coffee; closed Mondays.",
+"ko": "네르비온 지구의 카페. 직접 만든 케이크와 팔메라, 스페셜티 커피가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"seville-cafe-1": {
+"del": 1
+},
+"seville-cafe-2": {
+"en": "Japanese-inspired specialty coffee café near La Campana with pour-overs and brunch.",
+"ko": "캄파나 근처의 일본풍 스페셜티 커피 카페. 핸드드립과 브런치가 있습니다.",
+"ok": 1
+},
+"seville-cafe-3": {
+"del": 1
+},
 "seville-fine_dining-1": {
 "en": "Seville restaurant listed in the Michelin Guide; closed Sundays and Mondays.",
 "ko": "미쉐린 가이드에 실린 세비야의 레스토랑. 일·월요일은 쉽니다.",
 "ok": 1
+},
+"seville-fine_dining-2": {
+"addr": "Calle Harinas 10, 41001 Sevilla",
+"en": "Tapas bar in El Arenal (since 1939) with pringá montaditos and papas aliñás; fills up early.",
+"ko": "아레날 지구의 타파스 바(1939년부터). 프링가 몬타디토와 감자 샐러드가 있고 일찍 붐빕니다.",
+"ok": 1
+},
+"seville-fine_dining-3": {
+"en": "Long-established bodega near the cathedral (founded 1850) with the menu chalked on wine vats; closed Sundays.",
+"ko": "대성당 근처의 오래된 보데가(1850년 개업). 술통에 분필로 쓴 메뉴가 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"seville-fine_dining-4": {
+"en": "Three-floor tapas restaurant with fried hake (pavía) and quail eggs.",
+"ko": "3층짜리 타파스 식당. 대구 튀김(파비아)과 메추리알 요리가 있습니다.",
+"ok": 1
+},
+"seville-fine_dining-5": {
+"en": "Tapas bar in Santa Cruz (since 1870) with hams hanging from the ceiling and Iberian ham.",
+"ko": "산타 크루스 지구의 타파스 바(1870년부터). 천장에 하몬이 걸려 있고 이베리코 햄이 있습니다.",
+"ok": 1
+},
+"seville-fine_dining-6": {
+"en": "Bar-restaurant on Calle San Fernando serving Spanish and Mediterranean dishes; closed Sundays.",
+"ko": "산 페르난도 거리의 바 겸 레스토랑. 스페인·지중해 요리가 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"seville-korean-1": {
+"en": "Korean restaurant on Avenida de Menéndez Pelayo with sundubu stew, japchae, tteokbokki and vegan options.",
+"ko": "메넨데스 펠라요 거리의 한식당. 순두부찌개·잡채·떡볶이와 비건 메뉴가 있습니다.",
+"ok": 1
+},
+"seville-korean-2": {
+"addr": "Calle Alfonso XII 23, 41001 Sevilla",
+"en": "Old-town Korean restaurant with stews, noodles, rice and kimchi dishes; often full, so book ahead.",
+"ko": "구시가의 한식당. 찌개·국수·밥·김치 요리가 있고 자주 차서 예약하는 편이 좋습니다.",
+"ok": 1
+},
+"seville-korean-3": {
+"del": 1
 },
 "sheki-bakery-1": {
 "del": "셰키에서 그 가게를 찾을 수 없음"
@@ -5199,6 +6080,81 @@
 "ko": "구시가의 에스토니아 요리 레스토랑. 전통 요리를 현대적으로 냅니다.",
 "ok": 1
 },
+"tampere-bakery-1": {
+"en": "Family-run café at the foot of Pyynikki observation tower, known for hand-made doughnuts; open daily (tower entry extra).",
+"ko": "퓌니키 전망탑 1층의 가족 운영 카페. 손으로 빚어 튀긴 도넛(무니크)이 유명하고 매일 엽니다(전망탑 입장료 별도).",
+"ok": 1
+},
+"tampere-bakery-2": {
+"en": "French bakery in the Tullintori centre with croissants, baguettes, sourdough and fresh pasta lunches.",
+"ko": "툴린토리 쇼핑센터 안의 프랑스식 빵집. 크루아상·바게트·사워도우와 평일 점심 파스타가 있습니다.",
+"ok": 1
+},
+"tampere-bakery-3": {
+"addr": "Ahotie 34, 33800 Tampere",
+"en": "Bakery-café in Nekala since the 1970s, known for doughnuts and cinnamon buns.",
+"ko": "네칼라 지구에서 1970년대부터 영업한 제과점 카페. 도넛과 시나몬롤이 있습니다.",
+"ok": 1
+},
+"tampere-bakery-4": {
+"en": "Bakery café near Tampere Hall with cinnamon buns hand-made daily; closed Sundays.",
+"ko": "탐페레 홀 근처의 베이커리 카페. 매일 손으로 만드는 시나몬롤이 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"tampere-cafe-1": {
+"en": "Café-bar styled like a Central European living room, with sandwiches and desserts, open from midday till late.",
+"ko": "중부 유럽 거실 분위기의 카페 겸 바. 샌드위치·디저트가 있고 낮부터 밤늦게까지 엽니다.",
+"ok": 1
+},
+"tampere-cafe-2": {
+"en": "Small café with cakes, lattes and iced matcha.",
+"ko": "케이크와 라테·말차를 내는 작은 카페.",
+"ok": 1
+},
+"tampere-cafe-3": {
+"en": "Waffle café in Tampere’s smallest stone house by Tammerpuisto, with sweet and savoury, vegan and gluten-free waffles.",
+"ko": "탐메르 공원 옆 탐페레에서 가장 작은 석조 건물의 와플 카페. 단·짠 와플과 비건·글루텐프리 메뉴가 있습니다.",
+"ok": 1
+},
+"tampere-cafe-4": {
+"en": "Neighbourhood café with salads, coffee and cake, vegan options and outdoor seating.",
+"ko": "샐러드와 케이크·커피를 내는 동네 카페. 비건 메뉴가 있고 야외석이 있습니다.",
+"ok": 1
+},
+"tampere-fine_dining-1": {
+"en": "Creative tasting-menu restaurant near the station, listed in the MICHELIN Guide, using seasonal Finnish produce.",
+"ko": "기차역 근처의 창작 요리 레스토랑. 미쉐린 가이드에 실려 있고 핀란드 제철 재료로 코스를 냅니다.",
+"ok": 1
+},
+"tampere-fine_dining-2": {
+"en": "Wine-focused restaurant opposite the railway station, with dishes designed around the drinks.",
+"ko": "기차역 맞은편의 와인 중심 레스토랑. 음료에 맞춘 요리를 냅니다.",
+"ok": 1
+},
+"tampere-fine_dining-3": {
+"en": "French-Nordic restaurant in the vaulted cellar of an Art Nouveau building; closed Sundays, booking advised.",
+"ko": "아르누보 건물 지하 아치형 저장고의 프랑스·북유럽 요리 레스토랑. 일요일은 쉬고 예약을 권합니다.",
+"ok": 1
+},
+"tampere-fine_dining-4": {
+"en": "Bistro reborn from the long-running Restaurant Henriks, with French-inspired seasonal cooking and a three-course lunch.",
+"ko": "오래된 레스토랑 헨릭스를 새로 단장한 비스트로. 프랑스풍 제철 요리를 내고 점심 3코스가 있습니다.",
+"name": "Bistro Henriks",
+"ok": 1
+},
+"tampere-korean-1": {
+"del": 1
+},
+"tampere-korean-2": {
+"en": "Korean restaurant on Puutarhakatu in central Tampere.",
+"ko": "탐페레 중심가 푸타르하카투의 한식당.",
+"ok": 1
+},
+"tampere-korean-3": {
+"en": "Korean restaurant on Hämeenkatu.",
+"ko": "하메엔카투의 한식당.",
+"ok": 1
+},
 "tartu-bakery-1": {
 "del": 1
 },
@@ -5298,11 +6254,65 @@
 "name": "EJAA Mediterranean",
 "ok": 1
 },
+"toledo-bakery-1": {
+"del": 1
+},
+"toledo-bakery-2": {
+"del": 1
+},
+"toledo-cafe-1": {
+"addr": "Calle de Santo Tomé 2, 45002 Toledo",
+"en": "Old-town café selling marzipan and sweets made by nuns from a nearby convent.",
+"ko": "구시가의 카페. 근처 수녀원의 수녀들이 만든 마지팬과 과자를 팝니다.",
+"ok": 1
+},
+"toledo-cafe-2": {
+"en": "Toledo specialty coffee shop opened in 2014, mostly takeaway; closed at weekends.",
+"ko": "2014년 문을 연 톨레도의 스페셜티 커피숍. 포장 위주이고 주말은 쉽니다.",
+"ok": 1
+},
+"toledo-cafe-3": {
+"en": "Café-restaurant on the Paseo de Bachilleres.",
+"ko": "바치예레스 산책로의 카페 겸 레스토랑.",
+"name": "Cafetería Restaurante La Villa",
+"ok": 1
+},
+"toledo-cafe-4": {
+"en": "Italian-style coffee and dessert café on the Plaza de San Juan de los Reyes.",
+"ko": "산 후안 데 로스 레예스 광장의 이탈리아식 커피·디저트 카페.",
+"ok": 1
+},
+"toledo-cafe-5": {
+"en": "Tapas chain outlet on the Plaza de Zocodover with a terrace.",
+"ko": "소코도베르 광장의 타파스 체인 매장. 테라스가 있습니다.",
+"ok": 1
+},
+"toledo-fine_dining-1": {
+"en": "Restaurant around a 12th-century patio in the old town, serving a seasonal tasting menu with vegetables from its own estate; listed in the Michelin Guide.",
+"ko": "구시가 12세기 안뜰 건물의 레스토랑. 자체 농장 채소로 계절 테이스팅 메뉴를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"toledo-fine_dining-2": {
+"en": "Small traditional restaurant away from the tourist centre, serving stews such as Toledo-style partridge; listed in the Michelin Guide.",
+"ko": "관광지에서 조금 떨어진 작은 전통 식당. 톨레도식 자고새 요리 같은 스튜를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
 "toledo-fine_dining-3": {
 "addr": "Cigarral del Ángel, 45004 Toledo",
 "en": "Two-Michelin-star restaurant in a cigarral estate across the Tagus; closed Mondays and Tuesdays.",
 "ko": "타호 강 건너 시가랄(옛 별장)의 미쉐린 2스타 레스토랑. 월·화요일은 쉽니다.",
 "mi": "star2",
+"ok": 1
+},
+"toledo-fine_dining-4": {
+"en": "Family-run restaurant in the Jewish quarter (since 1989) with partridge, carcamusas and venison stew.",
+"ko": "유대인 지구의 가족 운영 식당(1989년부터). 자고새·카르카무사스·사슴 스튜가 있습니다.",
+"ok": 1
+},
+"toledo-fine_dining-5": {
+"addr": "Plaza de la Magdalena 10, 45001 Toledo",
+"en": "Home-cooking bar near Zocodover with carcamusas and Toledo-style partridge; no reservations.",
+"ko": "소코도베르 근처의 가정식 바. 카르카무사스와 톨레도식 자고새 요리가 있고 예약은 받지 않습니다.",
 "ok": 1
 },
 "toulouse-fine_dining-1": {
@@ -5360,11 +6370,68 @@
 "mi": "star1",
 "ok": 1
 },
+"turku-bakery-1": {
+"en": "Fazer café in an 1865 building in the Hansa block, with cakes and a deli counter.",
+"ko": "1865년 건물 한사 블록에 있는 파제르 카페. 케이크와 델리 코너가 있습니다.",
+"ok": 1
+},
+"turku-bakery-2": {
+"addr": "Linnankatu 9-11, 20100 Turku",
+"en": "Small bakery-café in central Turku with croissants and rye sourdough loaves.",
+"ko": "투르쿠 중심가의 작은 빵집 겸 카페. 크루아상과 호밀 사워도우 빵이 있습니다.",
+"ok": 1
+},
+"turku-bakery-3": {
+"en": "Café on the original site of a Turku bakery over a century old, known for piispanmunkki doughnuts and rye bread.",
+"ko": "100년 넘게 영업한 투르쿠 제과점의 첫 가게 자리 카페. 피스파 도넛(piispanmunkki)과 호밀빵이 있습니다.",
+"ok": 1
+},
+"turku-bakery-4": {
+"en": "Café-bistro with house-made cakes and all-day brunch; closed Sundays and Mondays; dog-friendly.",
+"ko": "직접 만든 케이크와 종일 브런치를 내는 카페 비스트로. 일·월요일은 쉬고 반려견 동반이 됩니다.",
+"ok": 1
+},
+"turku-cafe-1": {
+"en": "Café by the Theatre Bridge on the Aura river since 1992, with small rooms hung with paintings and a riverside summer terrace.",
+"ko": "1992년에 문을 연 아우라 강변 극장 다리 옆 카페. 그림이 걸린 작은 방들이 이어지고, 여름엔 강가 테라스가 열립니다.",
+"ok": 1
+},
+"turku-cafe-2": {
+"en": "Small-batch specialty roastery in the former Kakola prison, with a showroom and coffee bar downtown.",
+"ko": "옛 카콜라 교도소 건물의 소규모 스페셜티 커피 로스터리. 시내 쇼룸·커피바도 있습니다.",
+"ok": 1
+},
+"turku-fine_dining-1": {
+"en": "Restaurant in the vaulted cellar of a 19th-century merchant house opposite Turku Cathedral, listed in the MICHELIN Guide; dinner only.",
+"ko": "투르쿠 대성당 맞은편 19세기 상인 저택의 아치형 지하 레스토랑. 미쉐린 가이드에 실려 있고 저녁에만 엽니다.",
+"ok": 1
+},
 "turku-fine_dining-2": {
 "addr": "Kaskenkatu 6A, 20700 Turku",
 "en": "One-Michelin-star restaurant serving set menus of wild and foraged Finnish produce; Wednesday to Saturday.",
 "ko": "야생·채집 핀란드 식재료로 코스를 내는 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
 "mi": "star1",
+"ok": 1
+},
+"turku-fine_dining-3": {
+"del": 1
+},
+"turku-fine_dining-4": {
+"en": "Turku branch of a Viking-themed restaurant chain serving meat and fish in a feast-hall setting.",
+"ko": "바이킹 콘셉트 체인 레스토랑의 투르쿠 지점. 고기·생선 요리를 바이킹 연회 분위기로 냅니다.",
+"ok": 1
+},
+"turku-fine_dining-5": {
+"en": "Restaurant in the former night ward of Kakola prison, cooking seasonal produce over open fire with shared Feast menus.",
+"ko": "옛 카콜라 교도소 야간 병동 건물의 레스토랑. 제철 재료를 장작불에 굽고 함께 나눠 먹는 코스(Feast)를 냅니다.",
+"ok": 1
+},
+"turku-korean-1": {
+"del": 1
+},
+"turku-korean-2": {
+"en": "All-you-can-eat Asian buffet in central Turku, related to Yummy Korean in Tampere.",
+"ko": "투르쿠 중심가의 아시아식 뷔페 식당(탐페레의 Yummy Korean과 같은 계열).",
 "ok": 1
 },
 "urbino-fine_dining-2": {
@@ -5389,6 +6456,36 @@
 "mi": "star1",
 "ok": 1
 },
+"valencia-bakery-1": {
+"addr": "Carrer de Cádiz 61, 46006 València",
+"en": "Café-bakery in Ruzafa with homemade cakes.",
+"ko": "루사파의 카페 겸 빵집. 직접 구운 케이크가 있습니다.",
+"ok": 1
+},
+"valencia-bakery-2": {
+"en": "Café and brunch spot in Ruzafa with cinnamon rolls and avocado toast.",
+"ko": "루사파의 카페 겸 브런치 가게. 시나몬롤과 아보카도 토스트가 있습니다.",
+"ok": 1
+},
+"valencia-cafe-1": {
+"addr": "Carrer de Buenos Aires 3, 46006 València",
+"en": "Specialty coffee café in Ruzafa; closed Tuesdays.",
+"ko": "루사파의 스페셜티 커피 카페. 화요일은 쉽니다.",
+"ok": 1
+},
+"valencia-cafe-2": {
+"del": 1
+},
+"valencia-cafe-3": {
+"en": "Ruzafa café with vegan and vegetarian food and art on the walls, good for laptop work.",
+"ko": "루사파의 카페. 비건·채식 메뉴와 미술 작품이 있고 노트북 작업하기 좋습니다.",
+"ok": 1
+},
+"valencia-cafe-4": {
+"en": "Specialty coffee café facing Manuel Granero park in Ruzafa, with toasts and a Cubano sandwich.",
+"ko": "루사파 마누엘 그라네로 공원 앞의 스페셜티 커피 카페. 토스트와 쿠바 샌드위치가 있습니다.",
+"ok": 1
+},
 "valencia-fine_dining-1": {
 "addr": "Avenida Burjassot 54, 46009 València",
 "en": "Two-Michelin-star restaurant of chef Ricard Camarena; closed Sundays and Mondays.",
@@ -5407,6 +6504,31 @@
 "en": "Small one-Michelin-star restaurant in Valencia; closed Sundays and Mondays.",
 "ko": "발렌시아의 작은 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"valencia-fine_dining-4": {
+"en": "Paella restaurant near Malvarrosa beach, open since 1922 and cooking over orange-wood fires; order paella valenciana when booking.",
+"ko": "1922년에 문을 연 말바로사 해변 근처의 파에야 식당. 오렌지 나무 장작불에 굽고, 파에야 발렌시아나는 예약할 때 미리 주문하세요.",
+"ok": 1
+},
+"valencia-fine_dining-5": {
+"en": "Eixample restaurant serving paella since 1986; book paella 48 hours ahead; closed Mondays.",
+"ko": "1986년부터 파에야를 내는 에이샴플레 식당. 파에야는 48시간 전에 예약하는 것이 좋고 월요일은 쉽니다.",
+"ok": 1
+},
+"valencia-korean-1": {
+"en": "Small Korean restaurant in Ruzafa; mains come with rotating side dishes; evenings only, often full so book ahead.",
+"ko": "루사파의 작은 한식당. 메인 요리에 반찬이 바뀌어 나오고 저녁에만 엽니다. 자리가 자주 차니 예약하세요.",
+"ok": 1
+},
+"valencia-korean-2": {
+"en": "Korean restaurant in Eixample open for over 20 years, with a weekday lunch set and tteokbokki.",
+"ko": "20년 넘게 영업한 에이샴플레의 한식당. 평일 점심 세트가 있고 떡볶이가 있습니다.",
+"ok": 1
+},
+"valencia-korean-3": {
+"en": "Small Korean restaurant and fermented-food shop in Extramurs with kimchi, japchae, bibimbap and bossam; takeaway available.",
+"ko": "엑스트라무르스의 작은 한식당 겸 발효식품 가게. 김치·잡채·비빔밥·보쌈이 있고 포장도 됩니다.",
 "ok": 1
 },
 "valletta-fine_dining-1": {
@@ -5706,12 +6828,54 @@
 "ko": "크루푸프키 거리 건물 꼭대기 층의 비스트로 카페. 타트라 산이 보이는 테라스가 있습니다.",
 "ok": 1
 },
+"zaragoza-bakery-1": {
+"del": 1
+},
+"zaragoza-bakery-2": {
+"en": "Pastel-toned bakery café in Arrabal with pistachio cheesecake and filled croissants.",
+"ko": "아라발 지구의 파스텔 톤 베이커리 카페. 피스타치오 치즈케이크와 속을 채운 크루아상이 있습니다.",
+"ok": 1
+},
+"zaragoza-cafe-1": {
+"del": 1
+},
+"zaragoza-cafe-2": {
+"en": "Florist-café in the Pasaje del Ciclón near Plaza del Pilar, with homemade cakes; pets welcome.",
+"ko": "필라르 광장 근처 시클론 골목의 꽃집 겸 카페. 직접 만든 케이크가 있고 반려동물 동반이 됩니다.",
+"ok": 1
+},
 "zaragoza-fine_dining-1": {
 "addr": "Calle José Nebra 3, 50007 Zaragoza",
 "en": "One-Michelin-star restaurant in Zaragoza; Wednesday to Saturday.",
 "ko": "사라고사의 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
 "mi": "star1",
 "ok": 1
+},
+"zaragoza-fine_dining-2": {
+"en": "Creative tapas bar on Calle Mayor in the old town; its monkfish burger won a Zaragoza tapas contest.",
+"ko": "구시가 마요르 거리의 창작 타파스 바. 아귀 버거로 사라고사 타파스 대회에서 상을 받았습니다.",
+"ok": 1
+},
+"zaragoza-fine_dining-3": {
+"en": "Bar on Plaza Santa Marta for over 30 years, known for its jamón batido montadito and cheese boards.",
+"ko": "산타 마르타 광장의 30년 넘은 바. 하몬 바티도 몬타디토와 치즈 모둠이 있습니다.",
+"ok": 1
+},
+"zaragoza-fine_dining-4": {
+"en": "Small old-town tapas tavern with ham croquettes and huevos rotos with chistorra.",
+"ko": "구시가의 작은 타파스 바. 하몬 크로케타와 초리세타를 올린 우에보스 로토스가 있습니다.",
+"ok": 1
+},
+"zaragoza-fine_dining-5": {
+"en": "Tapas restaurant on Plaza Santa Marta with ham croquettes and seafood; book for lunch.",
+"ko": "산타 마르타 광장의 타파스 식당. 하몬 크로케타와 해산물 요리가 있고 점심은 예약하는 것이 좋습니다.",
+"ok": 1
+},
+"zaragoza-korean-1": {
+"del": 1
+},
+"zaragoza-korean-2": {
+"del": 1
 },
 "zermatt-bakery-1": {
 "addr": "Bahnhofstrasse 28, 3920 Zermatt",
