@@ -3,10 +3,10 @@ import type { Place } from '../types'
 
 export const placesDKExtra: Place[] = [
   // —— aarhus ——
-  place('aarhus-fine_dining-1', 'aarhus', 'fine_dining', 'Domestic', 'Mejlgade 35B, 8000 Aarhus C', '미슐랭 다이닝.', 'Michelin dining.', { image: '/places/aarhus-fine_dining-1.jpg' }),
-  place('aarhus-fine_dining-2', 'aarhus', 'fine_dining', 'Frederikshøj', 'Oddervej 19-21, 8000 Aarhus C', '미슐랭 2스타.', 'Two-Michelin-star dining.', { image: '/places/aarhus-fine_dining-2.jpg' }),
-  place('aarhus-fine_dining-3', 'aarhus', 'fine_dining', 'Substans', 'Marianne Thomsens Gade 2F, 8000 Aarhus C', '미슐랭 다이닝.', 'Michelin dining.', { image: '/places/aarhus-fine_dining-3.jpg' }),
-  place('aarhus-fine_dining-4', 'aarhus', 'fine_dining', 'Gastromé', 'Grenåvej 127, 8200 Aarhus N', '미슐랭 다이닝.', 'Michelin dining.', { image: '/places/aarhus-fine_dining-4.jpg' }),
+  place('aarhus-fine_dining-1', 'aarhus', 'fine_dining', 'Domestic', 'Mejlgade 35B, 8000 Aarhus C', '라틴 쿼터의 미쉐린 1스타 레스토랑. 덴마크 식재료만 씁니다.', 'One-Michelin-star restaurant in the Latin Quarter cooking with Danish produce.', { michelin: 'star1', image: '/places/aarhus-fine_dining-1.jpg' }),
+  place('aarhus-fine_dining-2', 'aarhus', 'fine_dining', 'Frederikshøj', 'Oddervej 19-21, 8000 Aarhus C', '마르셀리스보 숲 가장자리의 미쉐린 2스타 레스토랑.', 'Two-Michelin-star restaurant on the edge of the Marselisborg woods.', { michelin: 'star2', image: '/places/aarhus-fine_dining-2.jpg' }),
+  place('aarhus-fine_dining-3', 'aarhus', 'fine_dining', 'Substans', 'Marianne Thomsens Gade 2F, 8000 Aarhus C', '오르후스 항구 지구의 미쉐린 1스타 레스토랑. 창의적인 코스를 냅니다.', 'One-Michelin-star restaurant in Aarhus’ harbour district serving creative tasting menus.', { michelin: 'star1', image: '/places/aarhus-fine_dining-3.jpg' }),
+  place('aarhus-fine_dining-4', 'aarhus', 'fine_dining', 'Gastromé', 'Grenåvej 127, 8240 Risskov', '리스코우의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.', 'One-Michelin-star restaurant in Risskov; closed Mondays and Tuesdays.', { michelin: 'star1', image: '/places/aarhus-fine_dining-4.jpg' }),
   place('aarhus-fine_dining-5', 'aarhus', 'fine_dining', 'Restaurant Malt', 'Ceresbyen 63C, 8000 Aarhus C', '옛 세레스 양조장의 로컬 인기 레스토랑.', 'Local favorite in the old Ceres brewery.'),
   place('aarhus-bakery-1', 'aarhus', 'bakery', 'Lagkagehuset Aarhus', 'M. P. Bruuns Gade 34, 8000 Aarhus C', '베이커리 체인.', 'Bakery chain.'),
   place('aarhus-bakery-2', 'aarhus', 'bakery', 'La Cabra Bakery', 'Borggade 4F, 8000 Aarhus C', '라틴쿼터 사워도우 베이커리.', 'Sourdough bakery in the Latin Quarter.'),
@@ -21,7 +21,7 @@ export const placesDKExtra: Place[] = [
 
   // —— odense ——
   place('odense-fine_dining-1', 'odense', 'fine_dining', 'Under Lindetræet', 'Ramsherred 2, 5000 Odense C', '1771년 건물의 고급 다이닝.', 'Fine dining in an 1771 building.'),
-  place('odense-fine_dining-2', 'odense', 'fine_dining', 'ARO', 'Østerbro 32, 5000 Odense C', '미슐랭 1스타.', 'One-Michelin-star dining.'),
+  place('odense-fine_dining-2', 'odense', 'fine_dining', 'ARO', 'Østerbro 32, 5000 Odense C', '오덴세 외곽의 옛 공장 건물에 있는 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.', 'One-Michelin-star restaurant in a former factory on the edge of Odense; Wednesday to Saturday evenings.', { michelin: 'star1' }),
   place('odense-fine_dining-3', 'odense', 'fine_dining', 'Pasfall', 'Brandts Passage 31, 5000 Odense C', '모던 데니시 다이닝.', 'Modern Danish dining.'),
   place('odense-fine_dining-4', 'odense', 'fine_dining', 'Den Gamle Kro', 'Overgade 23, 5000 Odense C', '전통 덴마크 요리.', 'Traditional Danish cuisine.', { image: '/places/odense-fine_dining-4.jpg' }),
   place('odense-bakery-1', 'odense', 'bakery', 'Baker Boys', 'Edisonsvej 27, 5000 Odense C', '모던 아티산 베이커리.', 'Modern artisan bakery.'),
@@ -32,12 +32,12 @@ export const placesDKExtra: Place[] = [
   place('odense-korean-1', 'odense', 'korean', 'Sitta Korean BBQ', 'Kongensgade 41, 5000 Odense C', '한국식 그릴셀프 BBQ.', 'Korean grill-it-yourself BBQ.'),
 
   // —— aalborg ——
-  place('aalborg-fine_dining-1', 'aalborg', 'fine_dining', 'Restaurant Fusion', 'Strandvejen 4, 9000 Aalborg', '림피오르 전망의 퓨전 다이닝.', 'Fusion dining overlooking the Limfjord.'),
-  place('aalborg-fine_dining-2', 'aalborg', 'fine_dining', 'Mortens Kro', 'Mølleå 2-6, 9000 Aalborg', '로컬 파인 다이닝.', 'Local fine dining institution.'),
-  place('aalborg-fine_dining-3', 'aalborg', 'fine_dining', 'Alimentum', 'Løkkegade 23, 9000 Aalborg', '미슐랭 1스타, 팜투테이블.', 'One-Michelin-star, farm-to-table.'),
+  place('aalborg-fine_dining-1', 'aalborg', 'fine_dining', 'Restaurant Fusion', 'Strandvejen 4, 9000 Aalborg', '림피오르 강변 유리 건물의 레스토랑. 유럽·아시아 요리와 스시 바가 있습니다.', 'Glass-fronted restaurant on the Limfjord waterfront with European-Asian cooking and a sushi bar.'),
+  place('aalborg-fine_dining-2', 'aalborg', 'fine_dining', 'Mortens Kro', 'Mølleå 2-6, 9000 Aalborg', '번화가 알가데 뒤편 묄레오 지구의 레스토랑. 1997년 셰프 모르텐 닐센이 열었고 계절마다 메뉴가 바뀝니다.', 'Restaurant in the Mølleå area behind Algade, opened in 1997 by chef Morten Nielsen, with menus that change through the year.'),
+  place('aalborg-fine_dining-3', 'aalborg', 'fine_dining', 'Alimentum', 'Løkkegade 23, 9000 Aalborg', '올보르의 미쉐린 1스타 레스토랑. 농장 직송 재료로 현대 요리를 냅니다.', 'One-Michelin-star restaurant in Aalborg serving modern farm-to-table cooking.', { michelin: 'star1' }),
   place('aalborg-bakery-1', 'aalborg', 'bakery', 'Lagkagehuset Aalborg', 'Otto Mønsteds Vej 1, 9200 Aalborg SV', '베이커리 체인.', 'Bakery chain.'),
   place('aalborg-bakery-2', 'aalborg', 'bakery', 'Othello Bageriet', 'Christiansgade 35, 9000 Aalborg', '120년 전통 베이커리.', 'Bakery with 120 years of history.'),
-  place('aalborg-cafe-1', 'aalborg', 'cafe', 'Behag Din Smag', 'Slotsgade 16A, 9000 Aalborg', '스페셜티 커피.', 'Specialty coffee.'),
+  place('aalborg-cafe-1', 'aalborg', 'cafe', 'Behag Din Smag', 'Slotsgade 16A, 9000 Aalborg', '2004년 문을 연 올보르 시내의 커피 로스터리 카페. 직접 만든 케이크와 차가 있고 일·월요일은 쉽니다.', 'Coffee roaster café in central Aalborg, opened 2004, with homemade cakes and teas; closed Sundays and Mondays.'),
   place('aalborg-cafe-2', 'aalborg', 'cafe', "Koch's Kaffebar", 'Algade 23, 9000 Aalborg', '아늑한 가족 운영 카페.', 'Cozy family-run coffee shop.'),
 
   // —— roskilde ——
