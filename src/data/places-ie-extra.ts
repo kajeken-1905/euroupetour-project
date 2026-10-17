@@ -24,7 +24,7 @@ export const placesIEExtra: Place[] = [
   // —— galway ——
   place('galway-fine_dining-1', 'galway', 'fine_dining', 'Ard Bia at Nimmo\'s', 'Long Walk, Spanish Arch, Galway City', '코립강 전망의 대표 레스토랑.', 'Leading restaurant overlooking the River Corrib.'),
   place('galway-fine_dining-2', 'galway', 'fine_dining', 'Rúibín Bar & Restaurant', '1 Dock Rd, Galway H91 D7NE', '골웨이 역사적인 도크랜드 전망의 레스토랑, 독창적인 요리로 호평.', "Restaurant overlooking Galway's historic docklands, praised for its innovative cuisine."),
-  place('galway-fine_dining-3', 'galway', 'fine_dining', 'Kai Café + Restaurant', '20 Sea Road, Galway', '지속 가능한 재료로 요리하는 골웨이의 레스토랑.', 'Galway restaurant cooking with sustainable produce.'),
+  place('galway-fine_dining-3', 'galway', 'fine_dining', 'Kai Café + Restaurant', '22 Sea Road, Galway H91 DX47', '시 로드의 레스토랑. 미쉐린 가이드에 실려 있고 화~토요일에 엽니다.', 'Restaurant on Sea Road, listed in the MICHELIN Guide; open Tuesday to Saturday.'),
   place('galway-bakery-1', 'galway', 'bakery', 'Magpie Bakery', 'Unit 12, The Cornstore, Galway H91 CC44, Ireland', '매일 매장에서 직접 사워도우 빵과 페이스트리를 만드는 골웨이의 베이커리', 'Galway bakery baking sourdough bread and pastries on-site daily'),
   place('galway-bakery-2', 'galway', 'bakery', 'Le Petit Delice', '7 Mainguard St, Galway, Ireland', '골웨이의 프랑스식 베이커리.', 'French-style bakery in Galway.'),
   place('galway-bakery-3', 'galway', 'bakery', "Bridie Murphy's Home Bakery", '10 Mainguard St, Galway, Ireland', '가정식 스타일의 골웨이 베이커리.', 'Home-style bakery in Galway.'),
@@ -34,7 +34,7 @@ export const placesIEExtra: Place[] = [
 
   // —— cork ——
   place('cork-fine_dining-1', 'cork', 'fine_dining', 'Market Lane Restaurant', '5-6 Oliver Plunkett St, Cork City, T12 T959', '코크 시내 중심의 레스토랑.', 'Restaurant in central Cork.'),
-  place('cork-fine_dining-2', 'cork', 'fine_dining', 'Goldie', '128 Oliver Plunkett Street, Cork', '생선 요리를 내는 코크의 해산물 레스토랑.', 'Cork seafood restaurant serving fresh fish.'),
+  place('cork-fine_dining-2', 'cork', 'fine_dining', 'Goldie', '128 Oliver Plunkett Street, Cork', '올리버 플렁킷 거리의 해산물 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Seafood restaurant on Oliver Plunkett Street, listed in the MICHELIN Guide.'),
   place('cork-bakery-1', 'cork', 'bakery', 'Ross Bakery & Café', 'Magazine Rd, The Lough, Cork T12 VK61, Ireland', '빵을 다양하게 파는 코크의 빵집.', 'Cork bakery with a range of bread.'),
   place('cork-bakery-2', 'cork', 'bakery', 'Cameron Bakery', '25 Washington Street West, Cork, Ireland', '코크 워싱턴 거리의 빵집.', 'Bakery on Washington Street in Cork.'),
   place('cork-bakery-3', 'cork', 'bakery', 'Boname Patisserie', '92 N Main St, Cork, Ireland', '코크의 프랑스식 파티스리.', 'French-style patisserie in Cork.'),

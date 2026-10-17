@@ -3,7 +3,7 @@ import type { Place } from '../types'
 
 export const placesPLExtra: Place[] = [
   // —— warsaw ——
-  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 'Bielańska 12, 00-085 Warszawa', '폴란드 요리를 현대적으로 내는 바르샤바의 레스토랑.', 'Warsaw restaurant giving Polish flavours a modern treatment.', { image: '/places/warsaw-fine_dining-1.jpg' }),
+  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 'Bielańska 12, 00-085 Warszawa', '폴란드 전통 맛을 현대적으로 해석하는 레스토랑.', 'Restaurant giving Polish flavours a modern take.', { image: '/places/warsaw-fine_dining-1.jpg' }),
   place('warsaw-fine_dining-2', 'warsaw', 'fine_dining', 'Nolita', 'Wilcza 46, 00-679 Warszawa', '오픈 키친에서 폴란드·지중해·동남아 요리를 결합한 모던 다이닝.', 'Modern dining with an open kitchen blending Polish, Mediterranean, and Southeast Asian flavors.'),
   place('warsaw-fine_dining-3', 'warsaw', 'fine_dining', 'Stary Dom', 'Puławska 104/106, 02-620 Warszawa', '전통 폴란드 요리를 선보이는 대형 브라세리.', 'Large brasserie serving traditional Polish cuisine.'),
   place('warsaw-fine_dining-4', 'warsaw', 'fine_dining', 'Polka', 'Świętojańska 2, 00-288 Warszawa', '구시가 왕궁 옆 옛 건물에서 즐기는 프렌치풍 폴란드 요리.', 'French-inflected Polish cuisine served in a historic building next to the Royal Castle in the Old Town.', { image: '/places/warsaw-fine_dining-4.jpg' }),

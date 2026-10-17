@@ -3,7 +3,7 @@ import type { Place } from '../types'
 
 export const placesITExtra: Place[] = [
   // —— rome ——
-  place('rome-fine_dining-1', 'rome', 'fine_dining', 'La Pergola', 'Via Alberto Cadlolo 101, 00136 Rome, Italy', '로마의 파인다이닝 레스토랑.', 'Fine-dining restaurant in Rome.'),
+  place('rome-fine_dining-1', 'rome', 'fine_dining', 'La Pergola', 'Via Alberto Cadlolo 101, 00136 Rome, Italy', '로마의 고급 레스토랑.', 'Fine-dining restaurant in Rome.'),
   place('rome-fine_dining-2', 'rome', 'fine_dining', 'Roscioli Salumeria', 'Via dei Giubbonari 21, 00186 Rome, Italy', '살루메리아·파스타.', 'Salumeria and pasta.', { image: '/places/rome-fine_dining-2.jpg' }),
   place('rome-fine_dining-3', 'rome', 'fine_dining', 'Armando al Pantheon', "Salita de' Crescenzi 31, 00186 Rome, Italy", '클래식 로마 트라토리아.', 'Classic Roman trattoria.'),
   place('rome-fine_dining-4', 'rome', 'fine_dining', 'Da Enzo al 29', 'Via dei Vascellari 29, 00153 Rome, Italy', '트라스테베레 트라토리아.', 'Trastevere trattoria.', { image: '/places/rome-fine_dining-4.jpg' }),
@@ -17,7 +17,7 @@ export const placesITExtra: Place[] = [
   place('rome-cafe-3', 'rome', 'cafe', 'Sciascia Caffè', 'Via Fabio Massimo 80a, 00192 Rome, Italy', '역사적 카페.', 'Historic café.'),
   place('rome-cafe-4', 'rome', 'cafe', 'Faro - Caffè Specialty', 'Via Piave 55, 00187 Rome, Italy', '스페셜티 커피.', 'Specialty coffee.'),
   place('rome-cafe-5', 'rome', 'cafe', 'Barnum Cafè', 'Via del Pellegrino 87, 00186 Roma, Italy', '캄포 데 피오리 근처의 스페셜티 커피숍.', 'Specialty coffee shop just off Campo de’ Fiori.'),
-  place('rome-korean-1', 'rome', 'korean', 'Gainn', 'Via dei Mille 18, 00185 Roma', '로마의 한식당.', 'Korean restaurant in Rome.'),
+  place('rome-korean-1', 'rome', 'korean', 'Gainn', 'Via dei Mille 18, 00185 Roma', '테르미니역 근처의 한식당. 미쉐린 가이드에 실려 있고 2026년 1월 운영진이 바뀌었습니다.', 'Korean restaurant near Termini, listed in the MICHELIN Guide; under new management since January 2026.'),
   place('rome-korean-2', 'rome', 'korean', 'Galbi', 'Via Cremera 25, 00198 Roma, Italy', '숯불 직화로 굽는 정통 한국식 바비큐 레스토랑', 'Authentic Korean BBQ restaurant grilling over oak coals'),
   place('rome-korean-3', 'rome', 'korean', 'StarBaps', 'Via di Santa Maria Maggiore 116, 00184 Roma, Italy', '비빔밥·불고기 등 정통 한식을 선보이는 로마의 한식당', 'Rome Korean restaurant serving traditional dishes like bibimbap and bulgogi'),
   place('rome-korean-4', 'rome', 'korean', 'Seoul Restaurant', 'Via Filippo Turati 49, 00185 Roma, Italy', '테르미니역 인근의 정통 한식당', 'Authentic Korean restaurant near Rome\'s Termini station'),
@@ -77,8 +77,8 @@ export const placesITExtra: Place[] = [
 
   // —— naples ——
   place('naples-fine_dining-1', 'naples', 'fine_dining', 'Palazzo Petrucci', 'Via Posillipo 16 b/c, 80123 Napoli', '포실리포 해안의 미쉐린 가이드 레스토랑.', 'Michelin Guide restaurant on the Posillipo waterfront.'),
-  place('naples-fine_dining-2', 'naples', 'fine_dining', 'La Notizia 53', 'Via Caravaggio Michelangelo 53, 80126 Napoli', '나폴리 피자를 내는 피체리아.', 'Pizzeria serving Neapolitan pizza.'),
-  place('naples-fine_dining-3', 'naples', 'fine_dining', '50 Kalò', 'Piazza Sannazaro 201, 80121 Napoli', '나폴리 피자를 내는 피체리아.', 'Pizzeria serving Neapolitan pizza.', { image: '/places/naples-fine_dining-3.jpg' }),
+  place('naples-fine_dining-2', 'naples', 'fine_dining', 'La Notizia 53', 'Via Caravaggio Michelangelo 53, 80126 Napoli', '나폴리 정통 피체리아.', 'Traditional Neapolitan pizzeria.'),
+  place('naples-fine_dining-3', 'naples', 'fine_dining', '50 Kalò', 'Piazza Sannazaro 201, 80121 Napoli', '산나자로 광장의 피체리아. 미쉐린 가이드에 실려 있습니다.', 'Pizzeria on Piazza Sannazaro, listed in the MICHELIN Guide.', { image: '/places/naples-fine_dining-3.jpg' }),
   place('naples-bakery-1', 'naples', 'bakery', 'Scaturchio', 'Piazza San Domenico Maggiore 19, 80134 Napoli, Italy', '1910년부터 이어온 나폴리 구시가지의 유서 깊은 베이커리', 'Historic Naples bakery in the old town dating back to 1910'),
   place('naples-bakery-2', 'naples', 'bakery', 'Sfogliatelle Attanasio', 'Vico Ferrovia 1, 80142 Napoli, Italy', '나폴리 중앙역 근처의 스폴리아텔라 가게.', 'Sfogliatella shop near Naples central station.'),
   place('naples-bakery-3', 'naples', 'bakery', 'Moccia Panificio dal 1936', 'Via S. Pasquale 21, 80121 Napoli, Italy', '1936년부터 이어온 나폴리의 제과점.', 'Naples bakery operating since 1936.'),
@@ -91,7 +91,7 @@ export const placesITExtra: Place[] = [
   place('naples-cafe-5', 'naples', 'cafe', 'Centrale del Caffé', 'Via Benedetto Croce 16, 80134 Napoli, Italy', '나폴리의 에스프레소 바.', 'Espresso bar in Naples.'),
 
   // —— bologna ——
-  place('bologna-fine_dining-1', 'bologna', 'fine_dining', 'All\'Osteria Bottega', 'Via Santa Caterina 51, 40123 Bologna', '에밀리아 전통 요리를 내는 볼로냐의 오스테리아.', 'Bologna osteria serving traditional Emilian cooking.'),
+  place('bologna-fine_dining-1', 'bologna', 'fine_dining', 'All\'Osteria Bottega', 'Via Santa Caterina 51, 40123 Bologna', '에밀리아 요리 트라토리아. 미쉐린 가이드에 실려 있고 매일 자리가 차니 예약하세요. 화~토요일에 엽니다.', 'Trattoria serving Emilian cooking, listed in the MICHELIN Guide; fully booked daily, so reserve; open Tuesday to Saturday.'),
   place('bologna-fine_dining-2', 'bologna', 'fine_dining', 'Da Cesari', "Via de' Carbonesi 8, 40123 Bologna, Italy", '1955년부터 이어온 가족 운영 볼로냐 전통 레스토랑.', 'Family-run traditional Bolognese restaurant since 1955.'),
   place('bologna-fine_dining-3', 'bologna', 'fine_dining', "Osteria dell'Orsa", 'Via Mentana 1F, 40126 Bologna', '대학가의 캐주얼한 볼로냐 요리 오스테리아. 탈리아텔레가 있습니다.', 'Casual Bolognese osteria in the university district serving tagliatelle.'),
   place('bologna-bakery-1', 'bologna', 'bakery', 'Impero Bakery & Cafe', 'Strada Maggiore 51c, 40125 Bologna, Italy', '페이스트리와 디저트가 있는 볼로냐의 빵집 겸 카페.', 'Bologna bakery café with pastries and desserts.'),
@@ -148,7 +148,7 @@ export const placesITExtra: Place[] = [
   place('amalfi-cafe-4', 'amalfi', 'cafe', 'G.A.S. Bar', 'Via Mauro Comite 47/49, 84011 Amalfi, Italy', '아말피의 바 겸 카페.', 'Bar and café in Amalfi.'),
 
   // —— siena ——
-  place('siena-fine_dining-1', 'siena', 'fine_dining', 'Particolare di Siena', 'Via Baldassarre Peruzzi 26, 53100 Siena', '시에나의 레스토랑.', 'Restaurant in Siena.'),
+  place('siena-fine_dining-1', 'siena', 'fine_dining', 'Particolare di Siena', 'Via Baldassarre Peruzzi 26, 53100 Siena', '시에나의 현대 요리 레스토랑.', 'Modern-cuisine restaurant in Siena.'),
   place('siena-fine_dining-2', 'siena', 'fine_dining', 'Caffè Fiaschetteria Il Pulcino', 'Via dei Termini, 53100 Siena', '홈메이드 피치(시에나식 파스타)를 내는 점심 식당.', 'Lunch spot serving homemade pici pasta.'),
   place('siena-bakery-1', 'siena', 'bakery', 'Pasticceria Le Campane', 'Via Caduti di Vicobello 37, 53100 Siena, Italy', '가족이 운영하는 시에나의 전통 제과점', 'Family-run traditional pastry shop in Siena'),
   place('siena-bakery-2', 'siena', 'bakery', "Pasticceria Nannini Conca D'Oro", 'Via Banchi di Sopra 24, 53100 Siena, Italy', '시에나의 제과점 난니니.', 'Nannini pastry shop in Siena.', { image: '/places/siena-bakery-2.jpg' }),
@@ -160,7 +160,7 @@ export const placesITExtra: Place[] = [
   place('siena-cafe-3', 'siena', 'cafe', 'Meet Life Cafè', 'Via Pantaneto 90, 53100 Siena, Italy', '시에나의 커피숍.', 'Coffee shop in Siena.'),
 
   // —— genoa ——
-  place('genoa-fine_dining-1', 'genoa', 'fine_dining', 'Hostaria Ducale', 'Salita di S. Matteo 29R, 16123 Genova', '리구리아 요리를 내는 제노바의 식당.', 'Genoa restaurant serving Ligurian cooking.'),
+  place('genoa-fine_dining-1', 'genoa', 'fine_dining', 'Hostaria Ducale', 'Salita di S. Matteo 29R, 16123 Genova', '구시가의 리구리아 요리 식당.', 'Ligurian restaurant in the old town.'),
   place('genoa-fine_dining-2', 'genoa', 'fine_dining', 'Trattoria delle Grazie', 'Via delle Grazie 48, 16124 Genova, Italy', '제노바의 리구리아 요리 전문 트라토리아.', 'Trattoria in Genoa specializing in Ligurian cuisine.'),
   place('genoa-fine_dining-3', 'genoa', 'fine_dining', 'La Cucina di Sonia', 'Via S. Siro 32r, 16124 Genova, Italy', '제노바의 리구리아 요리 전문점.', 'Ligurian cuisine specialist in Genoa.'),
   place('genoa-fine_dining-4', 'genoa', 'fine_dining', 'Da Leccarsi i Baffi', 'Piazza Cavour 91r, 16128 Genova, Italy', '제노바의 리구리아 요리 전문점.', 'Ligurian cuisine specialist in Genoa.'),
@@ -174,7 +174,7 @@ export const placesITExtra: Place[] = [
   place('genoa-cafe-5', 'genoa', 'cafe', 'TAZZE PAZZE Specialty Coffee', 'Piazza Cinque Lampadi 71R, 16126 Genova, Italy', '제노바의 스페셜티 커피숍.', 'Specialty coffee shop in Genoa.'),
 
   // —— palermo ——
-  place('palermo-fine_dining-1', 'palermo', 'fine_dining', 'Gagini Restaurant', 'Via dei Cassari 35, 90133 Palermo', '팔레르모의 레스토랑.', 'Restaurant in Palermo.'),
+  place('palermo-fine_dining-1', 'palermo', 'fine_dining', 'Gagini Restaurant', 'Via dei Cassari 35, 90133 Palermo', '구시가의 현대 요리 레스토랑.', 'Modern-cuisine restaurant in the old town.'),
   place('palermo-fine_dining-2', 'palermo', 'fine_dining', "Nni Franco 'u Vastiddaru", 'Via Vittorio Emanuele 102, 90133 Palermo', '판 콘 라 밀차(비장 샌드위치)를 파는 팔레르모 길거리 음식 가게.', 'Palermo street-food shop selling pane con la milza (spleen sandwiches).'),
 
   place('palermo-bakery-1', 'palermo', 'bakery', 'Pasticceria Oscar 1965', 'Via Principe di Belmonte 107, 90139 Palermo, Italy', '리코타 코르네토가 있는 팔레르모의 제과점.', 'Palermo pastry shop with ricotta cornetti.'),
@@ -196,7 +196,7 @@ export const placesITExtra: Place[] = [
 
   // —— stresa ——
   place('stresa-bakery-1', 'stresa', 'bakery', 'Pasticceria Marcolini', 'Via Vincenzo de Vit, 28838 Binda, Italy', '1959년부터 마르게리티네 비스킷을 굽는 스트레사 제과점.', 'Stresa pastry shop baking Margheritine biscuits since 1959.'),
-  place('stresa-fine_dining-1', 'stresa', 'fine_dining', 'Piccolo Lago', 'Via Filippo Turati 87, 28802 Mergozzo', '메르고초 호숫가의 레스토랑(스트레사에서 차로 약 15분).', 'Restaurant on Lake Mergozzo, about 15 minutes’ drive from Stresa.'),
+  place('stresa-fine_dining-1', 'stresa', 'fine_dining', 'Piccolo Lago', 'Via Filippo Turati 87, 28802 Mergozzo', '메르고초 호숫가의 고급 레스토랑(스트레사에서 차로 15분).', 'Fine-dining restaurant on Lake Mergozzo (15 min drive from Stresa).'),
 
   // —— sirmione ——
   place('sirmione-fine_dining-1', 'sirmione', 'fine_dining', 'La Rucola 2.0', 'Vicolo Strentelle 3, 25019 Sirmione', '스칼리제라 성 근처의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.', 'One-Michelin-star restaurant near the Scaliger Castle; closed Sundays.', { michelin: 'star1' }),
@@ -284,7 +284,7 @@ export const placesITExtra: Place[] = [
 
   // —— matera ——
   place('matera-fine_dining-1', 'matera', 'fine_dining', 'Baccanti', "Via Sant'Angelo 58/61, 75100 Matera, Italy", '사시 동굴 속 바실리카타 향토 요리 레스토랑.', 'Cave restaurant in the Sassi serving Lucanian cuisine.'),
-  place('matera-fine_dining-2', 'matera', 'fine_dining', 'Vitantonio Lombardo', 'Via Madonna delle Virtù 13, 75100 Matera', '응회암 동굴 속 레스토랑.', 'Restaurant in a tufa cave.'),
+  place('matera-fine_dining-2', 'matera', 'fine_dining', 'Vitantonio Lombardo', 'Via Madonna delle Virtù 13, 75100 Matera', '응회암 동굴 속 미쉐린 1스타 레스토랑.', 'Michelin one-star restaurant set in a tufa cave.', { michelin: 'star1' }),
   place('matera-fine_dining-3', 'matera', 'fine_dining', 'Osteria Pico', 'Via Fiorentini 42, 75100 Matera', '동굴 구조 속 남부 이탈리아 가정식 오스테리아.', 'Cave osteria serving southern Italian classics.'),
 
   // —— bari ——
@@ -293,7 +293,7 @@ export const placesITExtra: Place[] = [
   place('bari-fine_dining-2', 'bari', 'fine_dining', 'Mastro Ciccio', 'Corso Vittorio Emanuele II 15, 70122 Bari, Italy', '문어 파니노를 파는 풀리아 길거리 음식 가게.', 'Puglian street-food shop selling octopus panini.'),
 
   // —— alberobello ——
-  place('alberobello-fine_dining-1', 'alberobello', 'fine_dining', 'Il Poeta Contadino', 'Via Monte San Michele 25/29, 70011 Alberobello', '트룰리 마을 안의 레스토랑.', 'Restaurant in the heart of the trulli.'),
+  place('alberobello-fine_dining-1', 'alberobello', 'fine_dining', 'Il Poeta Contadino', 'Via Monte San Michele 25/29, 70011 Alberobello', '트룰리 마을 알베로벨로의 레스토랑.', 'Restaurant in the trulli town of Alberobello.'),
 
   // —— polignano-a-mare ——
   place('polignano-a-mare-cafe-1', 'polignano-a-mare', 'cafe', 'Il Super Mago del Gelo Mario Campanella', 'Piazza Giuseppe Garibaldi 22, 70044 Polignano a Mare', '1935년 개업, 카페 스페치알레와 젤라토의 원조.', 'Since 1935, home of the Caffè Speciale and gelato.'),
@@ -322,7 +322,7 @@ export const placesITExtra: Place[] = [
   place('siracusa-bakery-1', 'siracusa', 'bakery', 'Pasticceria Artale', 'Via Landolina 32, 96100 Siracusa', '카놀리·카사타·그라니타의 오르티자 제과점.', 'Ortigia pastry shop for cannoli, cassata and granita.'),
 
   // —— agrigento ——
-  place('agrigento-fine_dining-1', 'agrigento', 'fine_dining', 'Osteria Expanificio', 'Piazza Sinatra 16, 92100 Agrigento', '옛 빵집 건물의 시칠리아 향토 요리 식당(빕 구르망 후보).', 'Sicilian cooking in a former bakery, Bib Gourmand-nominated.'),
+  place('agrigento-fine_dining-1', 'agrigento', 'fine_dining', 'Osteria Expanificio', 'Piazza Sinatra 16, 92100 Agrigento', '옛 빵집 건물의 시칠리아 향토 요리 식당.', 'Sicilian cooking in a former bakery.'),
   place('agrigento-bakery-1', 'agrigento', 'bakery', 'Le Cuspidi', 'Piazza Luigi Giglia, 92100 Agrigento, Italy', '1960년부터 5대째 이어온 제과점 겸 젤라테리아.', 'Family pastry shop and gelateria since 1960.'),
 
   // —— cefalu ——

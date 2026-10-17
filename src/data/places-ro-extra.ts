@@ -3,7 +3,7 @@ import type { Place } from '../types'
 
 export const placesROExtra: Place[] = [
   // —— bucharest ——
-  place('bucharest-fine_dining-1', 'bucharest', 'fine_dining', 'The Artist', 'Calea Victoriei 147, Sector 1, 010072 Bucharest, Romania', '현대 루마니아 요리를 내는 레스토랑.', 'Restaurant serving modern Romanian cuisine.'),
+  place('bucharest-fine_dining-1', 'bucharest', 'fine_dining', 'The Artist', 'Calea Victoriei 147, Sector 1, 010072 Bucharest, Romania', '현대 루마니아 요리 레스토랑.', 'Modern Romanian restaurant.'),
   place('bucharest-fine_dining-2', 'bucharest', 'fine_dining', 'Kaiamo', 'Strada Ermil Pangratti 30A, 011884 Bucharest, Romania', '시즌 창의 코스.', 'Seasonal creative tasting.'),
   place('bucharest-fine_dining-3', 'bucharest', 'fine_dining', 'Casa di David', 'Șoseaua Nordului 1D, 014101 Bucharest, Romania', '클래식 파인 다이닝.', 'Classic fine dining.'),
   place('bucharest-fine_dining-4', 'bucharest', 'fine_dining', 'Caru\' cu Bere', 'Strada Stavropoleos 5, București', '1899년 문을 연 구시가지의 네오고딕 맥주홀 식당.', 'Neo-Gothic beer hall restaurant in the Old Town, open since 1899.', { image: '/places/bucharest-fine_dining-4.jpg' }),

@@ -72,7 +72,7 @@ export const placesUKExtra: Place[] = [
 
   // —— liverpool ——
   place('liverpool-fine_dining-1', 'liverpool', 'fine_dining', 'Daise By Tony Parkin', '11 Rose Mount, Oxton, Birkenhead, Prenton CH43 5SG, UK', '옥스턴의 테이스팅 메뉴 파인 다이닝, 옛 Restaurant Fraiche 자리.', 'Tasting-menu fine dining in Oxton, on the former Restaurant Fraiche site.'),
-  place('liverpool-fine_dining-2', 'liverpool', 'fine_dining', 'The Art School Restaurant', '1 Sugnall Street, L7 7EB Liverpool, United Kingdom', '시내 중심의 레스토랑.', 'Restaurant in the city centre.'),
+  place('liverpool-fine_dining-2', 'liverpool', 'fine_dining', 'The Art School Restaurant', '1 Sugnall Street, L7 7EB Liverpool, United Kingdom', '옛 미술학교 건물의 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Restaurant in a former art school building, listed in the MICHELIN Guide.'),
   place('liverpool-fine_dining-3', 'liverpool', 'fine_dining', 'Lunya', '55 Hanover Street, L1 4LN Liverpool, United Kingdom', '스패니시·로컬 퓨전 감성.', 'Spanish-local dining energy.'),
   place('liverpool-fine_dining-4', 'liverpool', 'fine_dining', 'Maray', '91 Bold Street, L1 4HF Liverpool, United Kingdom', '모던 스몰플레이트.', 'Modern small plates.'),
   place('liverpool-fine_dining-5', 'liverpool', 'fine_dining', 'Belzan', '371 Smithdown Road, Liverpool L15 3JJ, United Kingdom', '리버풀 남부의 레스토랑.', 'Restaurant in south Liverpool.', { image: '/places/liverpool-fine_dining-5.jpg' }),
@@ -157,7 +157,7 @@ export const placesUKExtra: Place[] = [
 
   // —— glasgow ——
   place('glasgow-fine_dining-1', 'glasgow', 'fine_dining', 'Ubiquitous Chip', '12 Ashton Lane, Glasgow G12 8SJ', '1971년부터 스코틀랜드 요리를 내는 웨스트엔드의 레스토랑.', 'West End restaurant serving Scottish food since 1971.', { image: '/places/glasgow-fine_dining-1.jpg' }),
-  place('glasgow-fine_dining-2', 'glasgow', 'fine_dining', 'Ox and Finch', '920 Sauchiehall Street, Glasgow G3 7TF', '지중해풍 스몰 플레이트를 내는 비스트로.', 'Bistro serving Mediterranean-style small plates.'),
+  place('glasgow-fine_dining-2', 'glasgow', 'fine_dining', 'Ox and Finch', '920 Sauchiehall Street, Glasgow G3 7TF', '사우키홀 거리의 스몰 플레이트 비스트로. 미쉐린 가이드에 실려 있고 2025년 초 새 단장했습니다.', 'Small-plates bistro on Sauchiehall Street, listed in the MICHELIN Guide, refurbished in early 2025.'),
   place('glasgow-cafe-1', 'glasgow', 'cafe', 'Mackintosh at the Willow', '215-217 Sauchiehall Street, Glasgow G2 3EX', '찰스 레니 매킨토시가 설계한 티룸의 애프터눈 티.', 'Afternoon tea in Charles Rennie Mackintosh\'s tea room.', { image: '/places/glasgow-cafe-1.jpg' }),
 
   // —— stirling ——
@@ -201,7 +201,7 @@ export const placesUKExtra: Place[] = [
 
   // —— belfast ——
   place('belfast-fine_dining-1', 'belfast', 'fine_dining', 'OX', '1 Oxford Street, Belfast BT1 3LA', '벨파스트 강변의 미쉐린 1스타 레스토랑.', 'One-Michelin-star riverside restaurant in Belfast.', { michelin: 'star1' }),
-  place('belfast-fine_dining-2', 'belfast', 'fine_dining', 'Deanes EIPIC', '28-40 Howard Street, Belfast BT1 6PF', '셰프 마이클 딘의 레스토랑.', 'Restaurant of chef Michael Deane.'),
+  place('belfast-fine_dining-2', 'belfast', 'fine_dining', 'Deanes EIPIC', '28-40 Howard Street, Belfast BT1 6PF', '셰프 마이클 딘의 레스토랑.', 'Chef Michael Deane’s restaurant.'),
   place('belfast-cafe-1', 'belfast', 'cafe', 'Established Coffee', '54 Hill Street, Belfast BT1 2LB', '캐시드럴 쿼터의 스페셜티 커피숍.', 'Specialty coffee in the Cathedral Quarter.'),
 
   // —— giants-causeway ——

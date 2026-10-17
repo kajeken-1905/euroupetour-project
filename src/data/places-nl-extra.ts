@@ -25,10 +25,10 @@ export const placesNLExtra: Place[] = [
   place('rotterdam-korean-2', 'rotterdam', 'korean', 'Bap Boss', 'Goudsesingel 26, 3011 KB Rotterdam', '닭강정으로 호평받는 2018년 개업 한식당.', 'Korean restaurant open since 2018, praised for its dak-gangjeong (Korean fried chicken).'),
 
   // —— the-hague ——
-  place('the-hague-fine_dining-1', 'the-hague', 'fine_dining', "Calla's", 'Laan van Roos en Doorn 51A, 2514 BC Den Haag', '계절 요리를 내는 덴하그의 미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant in The Hague serving seasonal cooking.'),
+  place('the-hague-fine_dining-1', 'the-hague', 'fine_dining', "Calla's", 'Laan van Roos en Doorn 51A, 2514 BC Den Haag', '계절 요리를 내는 덴하그의 레스토랑.', 'Restaurant in The Hague serving seasonal cooking.'),
   place('the-hague-fine_dining-2', 'the-hague', 'fine_dining', 'De Basiliek', 'Korte Houtstraat 4a, 2511 CD Den Haag', '시내의 미쉐린 빕 구르망 레스토랑. 일요일은 쉽니다.', 'Michelin Bib Gourmand restaurant in the centre; closed Sundays.', { michelin: 'bib' }),
   place('the-hague-fine_dining-3', 'the-hague', 'fine_dining', 'Restaurant Suus', 'Plesmanweg 701, 2597 JG Den Haag', '옛 KLM 본사 건물(호텔 더 플레스만) 안의 우아한 유러피언 다이닝.', 'Elegant dining inside the historic former KLM headquarters, serving refined European fare.'),
-  place('the-hague-fine_dining-4', 'the-hague', 'fine_dining', 'Catch by Simonis', 'Dr. Lelykade 43, 2583 CL Den Haag', '스헤베닝언 항구의 해산물 레스토랑.', 'Seafood restaurant on Scheveningen harbour.'),
+  place('the-hague-fine_dining-4', 'the-hague', 'fine_dining', 'Catch by Simonis', 'Dr. Lelykade 43, 2583 CL Den Haag', '스헤베닝언 항구의 해산물 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Seafood restaurant in Scheveningen harbour, listed in the MICHELIN Guide.'),
 
   place('the-hague-bakery-1', 'the-hague', 'bakery', 'Bartine Bakery & Market', 'Piet Heinstraat 72, 2518 CK Den Haag', '사워도우와 터키식 달걀 브런치가 있는 동네 빵집 겸 카페.', 'Neighbourhood bakery café with sourdough and Turkish-egg brunch.'),
   place('the-hague-bakery-2', 'the-hague', 'bakery', 'Philippe Galerne Patisserie', 'Aert van der Goesstraat 24, 2582 AK Den Haag', '스타텐콰르티어 지구의 프랑스식 파티스리. 수제 마카롱이 있습니다.', 'French pâtisserie in the Statenkwartier with handmade macarons.'),
@@ -42,7 +42,7 @@ export const placesNLExtra: Place[] = [
 
   // —— utrecht ——
   place('utrecht-fine_dining-1', 'utrecht', 'fine_dining', 'Karel 5', 'Geertebolwerk 1, 3511 XA Utrecht', '옛 수도원을 고친 그랜드 호텔 카럴 V 안의 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.', 'One-Michelin-star restaurant in the Grand Hotel Karel V, a converted monastery; Wednesday to Saturday evenings.', { michelin: 'star1', image: '/places/utrecht-fine_dining-1.jpg' }),
-  place('utrecht-fine_dining-2', 'utrecht', 'fine_dining', 'Restaurant Blauw Utrecht', 'Springweg 64, 3511 VT Utrecht', '라이스타펠(인도네시아식 한상)을 내는 미쉐린 빕 구르망 인도네시아 식당.', 'Michelin Bib Gourmand Indonesian restaurant serving rijsttafel.'),
+  place('utrecht-fine_dining-2', 'utrecht', 'fine_dining', 'Restaurant Blauw Utrecht', 'Springweg 64, 3511 VT Utrecht', '라이스타펠(인도네시아식 한상)을 내는 인도네시아 식당.', 'Indonesian restaurant serving rijsttafel.'),
   place('utrecht-fine_dining-3', 'utrecht', 'fine_dining', 'De Rechtbank', 'Korte Nieuwstraat 14, 3512 NM Utrecht', '옛 법원 건물(코트 호텔) 안의 분위기 있는 올데이 다이닝 레스토랑.', 'Atmospheric restaurant set inside a former courthouse, serving all-day dining.', { image: '/places/utrecht-fine_dining-3.jpg' }),
   place('utrecht-fine_dining-4', 'utrecht', 'fine_dining', 'Broei', 'Oosterkade 24, 3582 AV Utrecht', '운하변의 비건 레스토랑.', 'Plant-based restaurant on the canal.'),
 

@@ -68,7 +68,6 @@ export const placesPTExtra: Place[] = [
   place('faro-cafe-2', 'faro', 'cafe', 'Chelsea Coffee & Brunch', 'Rua Dom Francisco Gomes 9, 8000-283 Faro', '브런치 메뉴와 커피가 있는 파루의 카페.', 'Faro brunch café with coffee.'),
 
   // —— coimbra ——
-  place('coimbra-fine_dining-1', 'coimbra', 'fine_dining', 'MA', 'Rua do Norte 13, 3000-295 Coimbra', '코임브라의 일식 레스토랑.', 'Japanese restaurant in Coimbra.'),
   place('coimbra-fine_dining-2', 'coimbra', 'fine_dining', 'Zé Manel dos Ossos', 'Beco do Forno 12, 3000-192 Coimbra', '바이샤 지구의 작은 포르투갈 식당(1959년부터). 양이 넉넉합니다.', 'Small Portuguese restaurant in the Baixa (since 1959) with generous portions.'),
   place('coimbra-fine_dining-3', 'coimbra', 'fine_dining', 'Dux Taberna Urbana', 'R. Dr. Manuel Rodrigues 39, 3000-229 Coimbra', '다양한 프티스코스와 포르투갈 와인을 선보이는 도심 타파스 바.', 'Urban tapas bar offering a range of petiscos and an impressive Portuguese wine selection.'),
   place('coimbra-korean-1', 'coimbra', 'korean', 'Gangnam Korean BBQ', 'Praça do Comércio 12, Coimbra', '코임브라의 한국식 바비큐 식당.', 'Korean barbecue restaurant in Coimbra.', { image: '/places/coimbra-korean-1.jpg' }),
@@ -96,7 +95,7 @@ export const placesPTExtra: Place[] = [
   place('lagos-cafe-2', 'lagos', 'cafe', 'Coffee & Waves', 'Travessa do Cotovelo 10, 8600-631 Lagos', '서핑보드 장식이 돋보이는 라고스의 스페셜티 커피 & 아사이볼 카페.', "Specialty coffee and açaí bowl café in Lagos, decorated with the owner's handmade surfboards."),
 
   // —— cascais ——
-  place('cascais-fine_dining-1', 'cascais', 'fine_dining', 'Fortaleza do Guincho', 'Estrada do Guincho, 2750-642 Cascais', '17세기 요새 안의 레스토랑.', 'Restaurant inside a 17th-century fortress.', { image: '/places/cascais-fine_dining-1.jpg' }),
+  place('cascais-fine_dining-1', 'cascais', 'fine_dining', 'Fortaleza do Guincho', 'Estrada do Guincho, 2750-642 Cascais', '기뉴 해안 17세기 요새 호텔의 미쉐린 1스타 레스토랑.', 'Michelin one-star restaurant in a 17th-century fortress hotel on the Guincho coast.', { michelin: 'star1', image: '/places/cascais-fine_dining-1.jpg' }),
   place('cascais-fine_dining-2', 'cascais', 'fine_dining', 'Mar do Inferno', 'Av. Rei Humberto II de Itália, 2750-800 Cascais', '바다 바로 앞의 해산물 레스토랑. 생선과 해산물 모둠이 있습니다.', 'Oceanfront seafood restaurant with fresh fish and seafood platters.'),
   place('cascais-fine_dining-3', 'cascais', 'fine_dining', 'O Biscoito', 'Tv. Nossa Sra. Conceição 14, 2750-060 Cascais', '현지 생선을 내는 포르투갈 전통 타스카(1980년대 초부터).', 'Traditional Portuguese tasca serving local fish (since the early 1980s).'),
   place('cascais-bakery-1', 'cascais', 'bakery', 'Panisol Bakery', 'Rua Frederico Arouca 23, 2750-642 Cascais, Portugal', '1953년부터 이어진 카스카이스의 동네 빵집. 파스텔 드 나타가 있습니다.', 'Cascais corner bakery since 1953 with pastel de nata.'),
@@ -124,7 +123,7 @@ export const placesPTExtra: Place[] = [
   place('evora-fine_dining-1', 'evora', 'fine_dining', 'Origens Restaurant', 'Rua de Burgos 10, 7000-863 Évora', '에보라의 레스토랑.', 'Restaurant in Évora.'),
   place('evora-fine_dining-2', 'evora', 'fine_dining', 'Restaurante Fialho', 'Travessa das Mascarenhas 14, 7000-557 Évora', '1945년 창업, 3대째 이어오는 에보라의 상징적인 알렌테주 요리 전문점.', "Founded in 1945 and now run by the third generation, this Évora institution is a benchmark for Alentejo cuisine."),
   place('evora-fine_dining-3', 'evora', 'fine_dining', 'Botequim da Mouraria', 'Rua da Mouraria 16A, 7000-585 Évora', '12석 카운터만 있는 무어인 지구의 작은 알렌테주 요리 식당, 예약 불가, 평일 점심만 영업.', 'Tiny 12-seat counter in the Moorish quarter serving Alentejo cuisine; no reservations, weekday lunch only.'),
-  place('evora-fine_dining-4', 'evora', 'fine_dining', 'Dom Joaquim', 'Rua dos Penedos 6, 7000-531 Évora, Portugal', '양고기 구이와 제철 사냥 요리를 내는 에보라의 알렌테주 식당.', 'Évora restaurant serving Alentejo cooking such as roast lamb and seasonal game.'),
+  place('evora-fine_dining-4', 'evora', 'fine_dining', 'Dom Joaquim', 'Rua dos Penedos 6, 7000-531 Évora, Portugal', '구운 양고기 등 알렌테주 요리 식당.', 'Alentejo restaurant known for roast lamb.'),
   place('evora-bakery-1', 'evora', 'bakery', 'Pastelaria Conventual Pão de Rala', 'Rua do Cicioso 47, 7000-658 Évora, Portugal', '대를 이어 운영되는 에보라의 수도원식 전통 디저트 전문점', 'Family-run Évora bakery specializing in traditional convent-style regional sweets'),
   place('evora-bakery-2', 'evora', 'bakery', 'The Bakery Lounge', 'R. de Burgos 6, 7000-863 Évora', '크루아상과 홈메이드 잼이 있는 에보라의 빵집 겸 카페.', 'Évora bakery café with croissants and homemade jam.'),
   place('evora-cafe-1', 'evora', 'cafe', 'Do Largo', 'Rua de Aviz, 7000-574 Évora, Portugal', '유기농 허브 농장과 연계된 에보라의 낮 카페, 좋은 와인도 함께', 'Daytime Évora cafe connected to an organic herb farm, also known for quality wine'),
@@ -153,9 +152,9 @@ export const placesPTExtra: Place[] = [
   place('nazare-cafe-1', 'nazare', 'cafe', 'Village Brunch & Coffee', 'Praça Sousa Oliveira nº25, 2450-159 Nazaré, Portugal', '모던한 실내의 나자레 브런치 커피숍.', 'Nazaré brunch coffee shop with a modern interior.'),
 
   // —— guimaraes ——
-  place('guimaraes-fine_dining-1', 'guimaraes', 'fine_dining', 'A Cozinha por António Loureiro', 'Rua de Couros 20, 4810-225 Guimarães', '기마랑이스의 레스토랑.', 'Restaurant in Guimarães.'),
+  place('guimaraes-fine_dining-1', 'guimaraes', 'fine_dining', 'A Cozinha por António Loureiro', 'Largo do Serralho 4, 4800-472 Guimarães', '셰프 안토니우 로레이루의 미쉐린 1스타 레스토랑.', 'Chef António Loureiro’s Michelin one-star restaurant.', { michelin: 'star1' }),
   place('guimaraes-fine_dining-2', 'guimaraes', 'fine_dining', 'Taberna Trovador', 'Largo do Trovador 10, 4810-451 Guimarães', '기마랑이스 구시가의 페치스쿠스(포르투갈식 안주) 타스카.', 'Petiscos (Portuguese small plates) tavern in Guimarães Old Town.'),
-  place('guimaraes-fine_dining-3', 'guimaraes', 'fine_dining', 'Le Babachris', 'Rua de Valdonas 6, 4800-421 Guimarães', '프랑스 출신 셰프의 비스트로. 옛 성벽 일부가 남은 건물에 있습니다.', 'Bistro of a French chef, in a building preserving part of the old city wall.'),
+  place('guimaraes-fine_dining-3', 'guimaraes', 'fine_dining', 'Le Babachris', 'Largo Condessa do Juncal 19-21, 4800-159 Guimarães', '프랑스인 셰프가 운영하는 비스트로. 미쉐린 가이드에 실려 있습니다.', 'Bistro run by a French chef, listed in the MICHELIN Guide.'),
   place('guimaraes-fine_dining-4', 'guimaraes', 'fine_dining', 'Cor de Tangerina', 'Largo Martins Sarmento 89, 4800-432 Guimarães', '2006년 문을 연 유기농·채식 협동조합 레스토랑.', 'Organic vegetarian cooperative restaurant, opened 2006.'),
 
   place('guimaraes-bakery-1', 'guimaraes', 'bakery', 'Pastelaria Clarinha', 'Largo do Toural 86/88, 4810-427 Guimarães, Portugal', '기마랑이스 과자 토르타 드 기마랑이스를 파는 전통 제과점.', 'Traditional pastry shop selling Tortas de Guimarães.'),

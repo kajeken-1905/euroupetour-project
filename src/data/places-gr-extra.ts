@@ -5,7 +5,7 @@ export const placesGRExtra: Place[] = [
   // —— athens ——
   place('athens-fine_dining-1', 'athens', 'fine_dining', 'Hytra', '1 Petrou Kokkali Street, 115 21 Athens', '아테네의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.', 'One-Michelin-star restaurant in Athens; closed Mondays and Tuesdays.', { michelin: 'star1', image: '/places/athens-fine_dining-1.jpg' }),
   place('athens-fine_dining-2', 'athens', 'fine_dining', 'Cookoovaya', '2a Mexi Chatzigianni, Athens 115 28', '현대 그리스 요리를 내는 레스토랑.', 'Restaurant serving contemporary Greek cuisine.'),
-  place('athens-fine_dining-3', 'athens', 'fine_dining', 'Funky Gourmet', '13 Paramithias St & Salaminos, Kerameikos, Athens 10435', '예술적인 플레이팅의 아테네 레스토랑.', 'Athens restaurant with artistic presentation.'),
+  place('athens-fine_dining-3', 'athens', 'fine_dining', 'Funky Gourmet', '13 Paramithias St & Salaminos, Kerameikos, Athens 10435', '케라미코스 지구의 창작 요리 레스토랑.', 'Creative tasting-menu restaurant in Kerameikos.'),
   place('athens-fine_dining-4', 'athens', 'fine_dining', 'Klimataria', 'Plateia Theatrou 2, Athina 105 52', '1927년부터 이어온 프시리 지구의 전통 타베르나.', 'Traditional taverna in Psirri, operating since 1927.'),
   place('athens-fine_dining-5', 'athens', 'fine_dining', 'Seychelles', 'Keramikou 49, Athina 104 36', '전통 타베르나의 감성을 유지하면서 현대적 요리를 선보이는 레스토랑.', 'Restaurant keeping the charm of an old-school taverna while serving modern cuisine.'),
   place('athens-bakery-1', 'athens', 'bakery', 'Ariston', 'Μιχαήλ Βόδα, 104 40 Athens, Greece', '1910년부터 파이를 파는 아테네의 가게. 쿠루 치즈파이가 있습니다.', 'Athens pie shop since 1910 with kourou cheese pie.'),

@@ -1,4 +1,8 @@
 {
+"agrigento-fine_dining-1": {
+"en": "Sicilian cooking in a former bakery.",
+"ko": "옛 빵집 건물의 시칠리아 향토 요리 식당."
+},
 "akureyri-bakery-1": {
 "en": "Akureyri bakery operating since 1912.",
 "ko": "1912년부터 이어진 아쿠레이리의 빵집."
@@ -8,8 +12,8 @@
 "ko": "아쿠레이리 미술관 안의 카페. 커피와 아침 메뉴가 있습니다."
 },
 "alberobello-fine_dining-1": {
-"en": "Restaurant in the heart of the trulli.",
-"ko": "트룰리 마을 안의 레스토랑."
+"en": "Restaurant in the trulli town of Alberobello.",
+"ko": "트룰리 마을 알베로벨로의 레스토랑."
 },
 "alesund-fine_dining-2": {
 "en": "Harbour-view seafood restaurant serving bacalao (salt cod).",
@@ -116,8 +120,8 @@
 "ko": "현대 그리스 요리를 내는 레스토랑."
 },
 "athens-fine_dining-3": {
-"en": "Athens restaurant with artistic presentation.",
-"ko": "예술적인 플레이팅의 아테네 레스토랑."
+"en": "Creative tasting-menu restaurant in Kerameikos.",
+"ko": "케라미코스 지구의 창작 요리 레스토랑."
 },
 "athens-korean-2": {
 "en": "Korean restaurant in Palaio Faliro with Korean barbecue.",
@@ -260,7 +264,7 @@
 "ko": "15세기 건물의 레스토랑."
 },
 "belfast-fine_dining-2": {
-"en": "Restaurant of chef Michael Deane.",
+"en": "Chef Michael Deane’s restaurant.",
 "ko": "셰프 마이클 딘의 레스토랑."
 },
 "belgrade-bakery-1": {
@@ -548,8 +552,8 @@
 "ko": "역 앞의 빵집."
 },
 "bucharest-fine_dining-1": {
-"en": "Restaurant serving modern Romanian cuisine.",
-"ko": "현대 루마니아 요리를 내는 레스토랑."
+"en": "Modern Romanian restaurant.",
+"ko": "현대 루마니아 요리 레스토랑."
 },
 "budapest-bakery-1": {
 "en": "Budapest bakery baking long-fermented sourdough.",
@@ -988,8 +992,8 @@
 "ko": "에보라의 레스토랑."
 },
 "evora-fine_dining-4": {
-"en": "Évora restaurant serving Alentejo cooking such as roast lamb and seasonal game.",
-"ko": "양고기 구이와 제철 사냥 요리를 내는 에보라의 알렌테주 식당."
+"en": "Alentejo restaurant known for roast lamb.",
+"ko": "구운 양고기 등 알렌테주 요리 식당."
 },
 "faro-bakery-1": {
 "en": "Bakery near the old town with almond pastries.",
@@ -1160,8 +1164,8 @@
 "ko": "제노바의 커피숍."
 },
 "genoa-fine_dining-1": {
-"en": "Genoa restaurant serving Ligurian cooking.",
-"ko": "리구리아 요리를 내는 제노바의 식당."
+"en": "Ligurian restaurant in the old town.",
+"ko": "구시가의 리구리아 요리 식당."
 },
 "genoa-fine_dining-5": {
 "en": "Italian restaurant in Genoa.",
@@ -1368,8 +1372,8 @@
 "ko": "직접 볶은 에스프레소를 내는 흐바르 구시가의 스페셜티 커피숍."
 },
 "hvar-fine_dining-1": {
-"en": "Restaurant in Hvar.",
-"ko": "흐바르의 레스토랑."
+"en": "Mediterranean restaurant and wine bar in Hvar old town.",
+"ko": "흐바르 구시가의 지중해 요리·와인 레스토랑."
 },
 "inverness-fine_dining-1": {
 "en": "Riverside restaurant.",
@@ -1787,6 +1791,10 @@
 "en": "Bakery with sourdough, cardamom buns and wood-fired pizza.",
 "ko": "사워도우·카다멈 번·장작 화덕 피자가 있는 빵집."
 },
+"malmo-fine_dining-3": {
+"en": "Wine bar with dining.",
+"ko": "와인 바 겸 식당."
+},
 "manchester-bakery-1": {
 "en": "Sourdough bakery.",
 "ko": "사워도우를 굽는 빵집."
@@ -2000,8 +2008,8 @@
 "ko": "나폴리의 에스프레소 바."
 },
 "naples-fine_dining-2": {
-"en": "Pizzeria serving Neapolitan pizza.",
-"ko": "나폴리 피자를 내는 피체리아."
+"en": "Traditional Neapolitan pizzeria.",
+"ko": "나폴리 정통 피체리아."
 },
 "naples-fine_dining-3": {
 "en": "Pizzeria serving Neapolitan pizza.",
@@ -2196,8 +2204,8 @@
 "ko": "큰길가의 아침 식사 카페."
 },
 "palermo-fine_dining-1": {
-"en": "Restaurant in Palermo.",
-"ko": "팔레르모의 레스토랑."
+"en": "Modern-cuisine restaurant in the old town.",
+"ko": "구시가의 현대 요리 레스토랑."
 },
 "palermo-fine_dining-2": {
 "en": "Palermo street-food shop selling pane con la milza (spleen sandwiches).",
@@ -2412,8 +2420,8 @@
 "ko": "류블랸스카 거리의 커피숍."
 },
 "postojna-fine_dining-1": {
-"en": "Postojna bistro giving traditional food a modern touch.",
-"ko": "전통 요리를 현대적으로 내는 포스토이나의 비스트로."
+"en": "Postojna bistro mixing traditional and modern cooking.",
+"ko": "전통과 현대 감각을 섞은 포스토이나의 비스트로."
 },
 "postojna-fine_dining-2": {
 "en": "Restaurant on Tržaška cesta in Postojna.",
@@ -2524,8 +2532,8 @@
 "ko": "현지 농가와 함께하는 그릴 레스토랑. 양갈비가 있습니다."
 },
 "reykjavik-fine_dining-5": {
-"en": "Restaurant reimagining Icelandic traditional food.",
-"ko": "아이슬란드 전통 요리를 재해석하는 레스토랑."
+"en": "Restaurant reinterpreting traditional Icelandic dishes.",
+"ko": "아이슬란드 전통 요리를 새롭게 해석하는 레스토랑."
 },
 "reykjavik-korean-1": {
 "en": "Korean street-food restaurant serving fried chicken, tacos and kimchi.",
@@ -2581,7 +2589,7 @@
 },
 "rome-fine_dining-1": {
 "en": "Fine-dining restaurant in Rome.",
-"ko": "로마의 파인다이닝 레스토랑."
+"ko": "로마의 고급 레스토랑."
 },
 "rome-korean-1": {
 "en": "Korean restaurant in Rome.",
@@ -2880,8 +2888,8 @@
 "ko": "시에나의 에스프레소 바."
 },
 "siena-fine_dining-1": {
-"en": "Restaurant in Siena.",
-"ko": "시에나의 레스토랑."
+"en": "Modern-cuisine restaurant in Siena.",
+"ko": "시에나의 현대 요리 레스토랑."
 },
 "siena-fine_dining-2": {
 "en": "Lunch spot serving homemade pici pasta.",
@@ -3052,8 +3060,8 @@
 "ko": "16세기 건물의 비스트로. 공연 전후 식사에 좋습니다."
 },
 "stresa-fine_dining-1": {
-"en": "Restaurant on Lake Mergozzo, about 15 minutes’ drive from Stresa.",
-"ko": "메르고초 호숫가의 레스토랑(스트레사에서 차로 약 15분)."
+"en": "Fine-dining restaurant on Lake Mergozzo (15 min drive from Stresa).",
+"ko": "메르고초 호숫가의 고급 레스토랑(스트레사에서 차로 15분)."
 },
 "subotica-bakery-1": {
 "en": "Coffee and dessert spot in a courtyard in central Subotica.",
@@ -3184,8 +3192,8 @@
 "ko": "여러 로스터의 원두를 쓰는 구시가의 스페셜티 커피·브런치 카페."
 },
 "the-hague-fine_dining-1": {
-"en": "One-Michelin-star restaurant in The Hague serving seasonal cooking.",
-"ko": "계절 요리를 내는 덴하그의 미쉐린 1스타 레스토랑."
+"en": "Restaurant in The Hague serving seasonal cooking.",
+"ko": "계절 요리를 내는 덴하그의 레스토랑."
 },
 "the-hague-fine_dining-4": {
 "en": "Seafood restaurant on Scheveningen harbour.",
@@ -3424,8 +3432,8 @@
 "ko": "넓은 테라스와 수제 맥주가 있는 운하변 펍."
 },
 "utrecht-fine_dining-2": {
-"en": "Michelin Bib Gourmand Indonesian restaurant serving rijsttafel.",
-"ko": "라이스타펠(인도네시아식 한상)을 내는 미쉐린 빕 구르망 인도네시아 식당."
+"en": "Indonesian restaurant serving rijsttafel.",
+"ko": "라이스타펠(인도네시아식 한상)을 내는 인도네시아 식당."
 },
 "utrecht-fine_dining-4": {
 "en": "Plant-based restaurant on the canal.",
@@ -3480,8 +3488,8 @@
 "ko": "1837년 문을 연 리퍼블릭 광장의 카페."
 },
 "valletta-fine_dining-2": {
-"en": "Restaurant in Iniala Harbour House overlooking the Grand Harbour, where Simon Rogan cooks with seasonal Maltese produce.",
-"ko": "그랜드 하버가 보이는 이니알라 하버 하우스의 레스토랑. 사이먼 로건이 몰타 제철 재료로 요리합니다."
+"en": "Fine-dining restaurant on the top floor of Iniala Harbour House.",
+"ko": "이니알라 하버 하우스 4층의 고급 레스토랑."
 },
 "vatican-city-bakery-1": {
 "en": "Gelato shop beside the Vatican Museums entrance.",
@@ -3608,8 +3616,8 @@
 "ko": "바르샤바의 스페셜티 커피 바."
 },
 "warsaw-fine_dining-1": {
-"en": "Warsaw restaurant giving Polish flavours a modern treatment.",
-"ko": "폴란드 요리를 현대적으로 내는 바르샤바의 레스토랑."
+"en": "Restaurant giving Polish flavours a modern take.",
+"ko": "폴란드 전통 맛을 현대적으로 해석하는 레스토랑."
 },
 "warsaw-fine_dining-5": {
 "en": "Wine bistro with plenty of vegetarian dishes.",

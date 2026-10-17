@@ -52,7 +52,7 @@ export const placesSIExtra: Place[] = [
   place('maribor-cafe-4', 'maribor', 'cafe', 'Caffe Bianco', 'Šolska ulica 46, 2000 Maribor, Slovenia', '숄스카 거리의 커피 전문점', 'Coffee specialty shop on Šolska ulica in Maribor'),
 
   // —— postojna ——
-  place('postojna-fine_dining-1', 'postojna', 'fine_dining', 'Bistro Štorja', 'Ulica 1. maja 1, 6230 Postojna, Slovenia', '전통 요리를 현대적으로 내는 포스토이나의 비스트로.', 'Postojna bistro giving traditional food a modern touch.'),
+  place('postojna-fine_dining-1', 'postojna', 'fine_dining', 'Bistro Štorja', 'Ulica 1. maja 1, 6230 Postojna, Slovenia', '전통과 현대 감각을 섞은 포스토이나의 비스트로.', 'Postojna bistro mixing traditional and modern cooking.'),
   place('postojna-fine_dining-2', 'postojna', 'fine_dining', 'Ob kaminu', 'Tržaška cesta 88, 6230 Postojna, Slovenia', '트르자슈카 대로의 레스토랑.', 'Restaurant on Tržaška cesta in Postojna.'),
 
   place('postojna-bakery-1', 'postojna', 'bakery', 'Brilliant Bakery (Pekarna Briljant)', 'Titov trg 3, 6230 Postojna, Slovenia', '빵·페이스트리·전통 디저트를 파는 포스토이나 중심가의 빵집.', 'Bakery in central Postojna with bread, pastries and traditional desserts.'),

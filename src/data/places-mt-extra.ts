@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesMTExtra: Place[] = [
   // —— valletta ——
   place('valletta-fine_dining-1', 'valletta', 'fine_dining', 'Under Grain', '167 Merchants Street, Valletta VLT 1174', '로셀리 호텔 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.', 'One-Michelin-star restaurant in the Rosselli hotel; closed Sundays and Mondays.', { michelin: 'star1' }),
-  place('valletta-fine_dining-2', 'valletta', 'fine_dining', 'ION Harbour by Simon Rogan', '11 Saint Barbara Bastion, VLT 1232 Valletta, Malta', '그랜드 하버가 보이는 이니알라 하버 하우스의 레스토랑. 사이먼 로건이 몰타 제철 재료로 요리합니다.', 'Restaurant in Iniala Harbour House overlooking the Grand Harbour, where Simon Rogan cooks with seasonal Maltese produce.'),
+  place('valletta-fine_dining-2', 'valletta', 'fine_dining', 'ION Harbour by Simon Rogan', '11 Saint Barbara Bastion, VLT 1232 Valletta, Malta', '이니알라 하버 하우스 4층의 고급 레스토랑.', 'Fine-dining restaurant on the top floor of Iniala Harbour House.'),
   place('valletta-fine_dining-3', 'valletta', 'fine_dining', 'Noni', '211 Republic Street, Valletta VLT 1116', '리퍼블릭 거리 타운하우스의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.', 'One-Michelin-star restaurant in a townhouse on Republic Street; closed Sundays and Mondays.', { michelin: 'star1', image: '/places/valletta-fine_dining-3.jpg' }),
   place('valletta-fine_dining-4', 'valletta', 'fine_dining', 'Rubino', '53 Old Bakery Street, Valletta VLT 1454', '1906년 제과점이던 공간에 자리한, 매일 바뀌는 흑판 메뉴의 전통 몰타 요리 레스토랑.', 'Traditional Maltese restaurant in a former 1906 confectionery, with a daily blackboard menu.', { image: '/places/valletta-fine_dining-4.jpg' }),
 

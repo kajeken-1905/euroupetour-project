@@ -6,7 +6,7 @@ export const placesSEExtra: Place[] = [
   place('gothenburg-fine_dining-1', 'gothenburg', 'fine_dining', 'Project', 'Södra Vägen 45, 412 54 Göteborg', '예테보리의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.', 'One-Michelin-star restaurant in Gothenburg; closed Sundays and Mondays.', { michelin: 'star1', image: '/places/gothenburg-fine_dining-1.jpg' }),
   place('gothenburg-fine_dining-2', 'gothenburg', 'fine_dining', 'Koka', 'Viktoriagatan 12, 411 25 Göteborg', '뉴 노르딕 요리를 내는 예테보리의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.', 'One-Michelin-star New Nordic restaurant in Gothenburg; closed Sundays.', { michelin: 'star1', image: '/places/gothenburg-fine_dining-2.jpg' }),
   place('gothenburg-fine_dining-3', 'gothenburg', 'fine_dining', 'Sjömagasinet', 'Adolf Edelsvärds Gata 5, 414 51 Göteborg', '시푸드.', 'Seafood.', { image: '/places/gothenburg-fine_dining-3.jpg' }),
-  place('gothenburg-fine_dining-4', 'gothenburg', 'fine_dining', 'Bhoga', 'Norra Hamngatan 10, 411 14 Göteborg', '예테보리의 현대 요리 레스토랑.', 'Modern restaurant in Gothenburg.', { image: '/places/gothenburg-fine_dining-4.jpg' }),
+  place('gothenburg-fine_dining-4', 'gothenburg', 'fine_dining', 'Bhoga', 'Norra Hamngatan 10, 411 14 Göteborg', '한동안 문을 닫았다가 다시 연 현대 요리 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Modern restaurant that reopened after a break, listed in the MICHELIN Guide.', { image: '/places/gothenburg-fine_dining-4.jpg' }),
   place('gothenburg-fine_dining-5', 'gothenburg', 'fine_dining', 'KaiFo', 'Södra Vägen 24, 412 54 Göteborg', '아시안 퓨전 식당.', 'Asian fusion restaurant.'),
   place('gothenburg-bakery-1', 'gothenburg', 'bakery', 'Da Matteo', 'Magasinsgatan 17A, 411 18 Göteborg', '로스터리 사워도우 베이커리.', 'Roastery sourdough bakery.', { image: '/places/gothenburg-bakery-1.jpg' }),
   place('gothenburg-bakery-2', 'gothenburg', 'bakery', 'Mr Cake', 'Lilla Badhusgatan 2B, 411 21 Göteborg', '케이크·페이스트리 전문점.', 'Cake and pastry specialist.'),
@@ -18,7 +18,7 @@ export const placesSEExtra: Place[] = [
   // —— malmo ——
   place('malmo-fine_dining-1', 'malmo', 'fine_dining', 'Vollmers', 'Tegelgårdsgatan 5, 211 33 Malmö', '말뫼의 미쉐린 2스타 레스토랑. 수~토 저녁에 엽니다.', 'Two-Michelin-star restaurant in Malmö; Wednesday to Saturday evenings.', { michelin: 'star2' }),
   place('malmo-fine_dining-2', 'malmo', 'fine_dining', 'Atmosfär', 'Fersens Väg 4, Malmö', '모던 스칸디나비안.', 'Modern Scandinavian.'),
-  place('malmo-fine_dining-3', 'malmo', 'fine_dining', 'Bastard', 'Mäster Johansgatan 11, 211 21 Malmö', '와인바 다이닝, 빕 구르망.', 'Wine-bar dining, Bib Gourmand.'),
+  place('malmo-fine_dining-3', 'malmo', 'fine_dining', 'Bastard', 'Mäster Johansgatan 11, 211 21 Malmö', '와인 바 겸 식당.', 'Wine bar with dining.'),
   place('malmo-fine_dining-4', 'malmo', 'fine_dining', 'Lyran', 'Simrishamnsgatan 36A, Malmö', '지하 셀러 다이닝.', 'Cellar dining.'),
   place('malmo-bakery-1', 'malmo', 'bakery', 'Hollandia', 'Södra Förstadsgatan 8, 211 43 Malmö', '1903년 문을 연 말뫼의 콘디토리(제과점). 프린세스 케이크가 있습니다.', 'Malmö konditori opened in 1903, with princess cake.'),
   place('malmo-bakery-2', 'malmo', 'bakery', 'St Jakobs Stenugnsbageri', 'Lokgatan 1, 211 22 Malmö, Sweden', '말뫼 시내에 여러 지점을 둔 장작 화덕 빵집. 카다멈 번이 있습니다.', 'Wood-fired bakery with several Malmö branches, with cardamom buns.'),

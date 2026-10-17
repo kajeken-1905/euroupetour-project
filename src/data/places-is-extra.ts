@@ -3,11 +3,11 @@ import type { Place } from '../types'
 
 export const placesISExtra: Place[] = [
   // —— reykjavik ——
-  place('reykjavik-fine_dining-1', 'reykjavik', 'fine_dining', 'Dill Restaurant', 'Laugavegur 59, 101 Reykjavík', '뉴 노르딕 요리를 내는 레이캬비크의 미쉐린 1스타 레스토랑.', 'One-Michelin-star New Nordic restaurant in Reykjavík.'),
+  place('reykjavik-fine_dining-1', 'reykjavik', 'fine_dining', 'Dill Restaurant', 'Laugavegur 59, 101 Reykjavík', '2017년 아이슬란드에서 처음 미쉐린 별을 받은 뉴 노르딕 레스토랑. 2026년 현재 1스타입니다.', 'New Nordic restaurant that won Iceland’s first Michelin star in 2017; one star in 2026.', { michelin: 'star1' }),
   place('reykjavik-fine_dining-2', 'reykjavik', 'fine_dining', 'ÓX', 'Laugavegur 55, 101 Reykjavík', '라우가베구르의 작은 셰프 카운터 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.', 'Small chef’s-counter restaurant with one Michelin star on Laugavegur; closed Sundays and Mondays.', { michelin: 'star1' }),
   place('reykjavik-fine_dining-3', 'reykjavik', 'fine_dining', 'Grillmarkaðurinn', 'Lækjargata 2A, 101 Reykjavík', '현지 농가와 함께하는 그릴 레스토랑. 양갈비가 있습니다.', 'Grill restaurant working with local farmers, serving lamb chops.'),
   place('reykjavik-fine_dining-4', 'reykjavik', 'fine_dining', 'Fiskmarkaðurinn (Fish Market)', 'Aðalstræti 12, 101 Reykjavík', '2007년부터 이어온 아시아풍 아이슬란드 퓨전 해산물 레스토랑.', 'Icelandic-Asian fusion seafood restaurant since 2007.'),
-  place('reykjavik-fine_dining-5', 'reykjavik', 'fine_dining', 'Matur og Drykkur', 'Grandagarður 2, 101 Reykjavík', '아이슬란드 전통 요리를 재해석하는 레스토랑.', 'Restaurant reimagining Icelandic traditional food.'),
+  place('reykjavik-fine_dining-5', 'reykjavik', 'fine_dining', 'Matur og Drykkur', 'Grandagarður 2, 101 Reykjavík', '아이슬란드 전통 요리를 새롭게 해석하는 레스토랑.', 'Restaurant reinterpreting traditional Icelandic dishes.'),
   place('reykjavik-bakery-1', 'reykjavik', 'bakery', 'Brauð & Co', 'Austurstræti 17, 101 Reykjavík', '갓 구운 시나몬롤이 있는 빵집.', 'Bakery with freshly baked cinnamon rolls.'),
   place('reykjavik-bakery-2', 'reykjavik', 'bakery', 'Sandholt', 'Laugavegur 36, 101 Reykjavík', '1920년부터 이어진 빵집. 아몬드 크루아상이 있습니다.', 'Bakery operating since 1920 with almond croissants.'),
   place('reykjavik-bakery-3', 'reykjavik', 'bakery', 'Bernhöftsbakarí', 'Bergstaðastræti 13, 101 Reykjavík', '1834년부터 이어진 레이캬비크의 빵집.', 'Reykjavík bakery operating since 1834.'),

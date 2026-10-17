@@ -7,7 +7,7 @@ export const placesHRExtra: Place[] = [
   place('zagreb-fine_dining-2', 'zagreb', 'fine_dining', 'Dubravkin Put', 'Dubravkin Put 2, 10000 Zagreb', '투슈카나츠 숲속의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.', 'One-Michelin-star restaurant in the Tuškanac woods; closed Sundays.', { michelin: 'star1' }),
   place('zagreb-fine_dining-3', 'zagreb', 'fine_dining', 'Mundoaka Street Food', 'Petrinjska Ulica 2, 10000 Zagreb', '반 옐라치치 광장 인근의 창의적인 스트리트 푸드 레스토랑.', 'Creative street food restaurant near Ban Jelačić Square.'),
   place('zagreb-fine_dining-4', 'zagreb', 'fine_dining', 'Vinodol', 'Ulica Nikole Tesle 10, 10000 Zagreb', '자그레브 중심가의 크로아티아 전통 식당. 슈트루클리가 있습니다.', 'Traditional Croatian restaurant in central Zagreb serving štrukli.', { image: '/places/zagreb-fine_dining-4.jpg' }),
-  place('zagreb-fine_dining-5', 'zagreb', 'fine_dining', 'Zinfandel\'s', 'Antuna Mihanovića 1, 10000 Zagreb', '에스플러네이드 호텔 안의 레스토랑.', 'Restaurant inside the Esplanade Hotel.'),
+  place('zagreb-fine_dining-5', 'zagreb', 'fine_dining', 'Zinfandel\'s', 'Antuna Mihanovića 1, 10000 Zagreb', '에스플러네이드 호텔 안의 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Restaurant in the Esplanade hotel, listed in the MICHELIN Guide.'),
   place('zagreb-bakery-1', 'zagreb', 'bakery', 'Pekara Dubravica', 'Dolac 2, 10000 Zagreb', '부렉을 파는 자그레브의 빵집.', 'Zagreb bakery selling burek.'),
   place('zagreb-bakery-2', 'zagreb', 'bakery', 'Vincek', 'Ilica 18, 10000 Zagreb', '1977년부터 이어온 케이크·아이스크림 전문점.', 'Cake and ice cream specialist since 1977.'),
   place('zagreb-bakery-3', 'zagreb', 'bakery', 'Torte i to', 'Grahorova Ul. 5, 10000 Zagreb', '치즈케이크와 베이글이 있는 페이스트리 가게.', 'Pastry shop with cheesecake and bagels.'),
@@ -31,7 +31,7 @@ export const placesHRExtra: Place[] = [
 
   // —— split ——
   place('split-fine_dining-1', 'split', 'fine_dining', 'Villa Spiza', 'Kružićeva 3, 21000 Split', '스플리트의 레스토랑.', 'Restaurant in Split.'),
-  place('split-fine_dining-2', 'split', 'fine_dining', 'Konoba Fetivi', 'Tomica Stine 4, 21000 Split', '바로시 지구의 해산물·지중해 요리 코노바.', 'Seafood and Mediterranean konoba in the Varoš district.'),
+  place('split-fine_dining-2', 'split', 'fine_dining', 'Konoba Fetivi', 'Tomica Stine 4, 21000 Split', '바로슈 지구의 해산물·지중해 요리 코노바. 미쉐린 가이드에 실려 있습니다.', 'Konoba in the Varoš quarter serving seafood and Mediterranean dishes, listed in the MICHELIN Guide.'),
   place('split-fine_dining-3', 'split', 'fine_dining', 'Portofino', 'Poljana Grgura Ninskog 7, 21000 Split', '디오클레티아누스 궁전 골목의 파인 다이닝 레스토랑.', "Fine dining restaurant tucked in the alleys of Diocletian's Palace."),
   place('split-bakery-1', 'split', 'bakery', 'Kruscic Bakery', 'Split, 21000, Croatia', '생선 시장 근처 스플리트 구시가지의 아르티장 베이커리', 'Artisan bakery near the Fish Market in Split\'s Old Town'),
   place('split-bakery-2', 'split', 'bakery', "BUTTER'S", 'Ul. Matice hrvatske 12, 21000 Split', '버터 페이스트리를 굽는 스플리트의 빵집.', 'Split bakery with buttery pastries.'),
@@ -67,7 +67,7 @@ export const placesHRExtra: Place[] = [
   place('rovinj-cafe-5', 'rovinj', 'cafe', 'Viecia Batana cafe', 'Trg Maršala Tita, 52210 Rovinj', '티토 광장의 카페. 전통 바타나 배를 테마로 꾸몄습니다.', 'Café on Tito Square themed around the traditional batana boat.'),
 
   // —— hvar ——
-  place('hvar-fine_dining-1', 'hvar', 'fine_dining', 'Mediterraneo Dine & Wine', 'Braće Bibić 15, 21450 Hvar', '흐바르의 레스토랑.', 'Restaurant in Hvar.'),
+  place('hvar-fine_dining-1', 'hvar', 'fine_dining', 'Mediterraneo Dine & Wine', 'Braće Bibić 15, 21450 Hvar', '흐바르 구시가의 지중해 요리·와인 레스토랑.', 'Mediterranean restaurant and wine bar in Hvar old town.'),
   place('hvar-fine_dining-2', 'hvar', 'fine_dining', 'Konoba Menego', 'Ulica kroz Grodu 26, 21450 Hvar', '14세기 석조 가옥의 정통 달마티아 코노바.', 'Authentic Dalmatian konoba in a restored 14th-century stone house.'),
   place('hvar-fine_dining-3', 'hvar', 'fine_dining', 'Dalmatino', 'Ul. Sveti Marak 1, 21450 Hvar', '1987년부터 이어온 가족 운영 스테이크·생선 레스토랑.', 'Family-run steak and fish house operating since 1987.'),
   place('hvar-bakery-1', 'hvar', 'bakery', 'Nonica Caffe Bar', 'Kroz Burak 23, 21450 Hvar, Croatia', '흐바르 케이크 흐바르스키 콜라치를 파는 구시가의 빵집 겸 카페.', 'Hvar Old Town bakery café selling the local Hvarski kolač.'),

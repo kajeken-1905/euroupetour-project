@@ -15,7 +15,7 @@ export const placesLTExtra: Place[] = [
   place('vilnius-korean-1', 'vilnius', 'korean', 'Restoranas KOREAN TASTE', 'Vokiečių g. 2, 01130 Vilnius', '직접 구워 먹는 한국식 바비큐 레스토랑.', 'Korean BBQ restaurant where guests grill their own meat.'),
 
   // —— kaunas ——
-  place('kaunas-fine_dining-1', 'kaunas', 'fine_dining', 'Nüman', 'Nemuno g. 43, 44288 Kaunas', '구시가의 레스토랑.', 'Restaurant in the Old Town.'),
+  place('kaunas-fine_dining-1', 'kaunas', 'fine_dining', 'Nüman', 'Nemuno g. 43, 44288 Kaunas', '네무나스 거리의 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Restaurant on Nemuno Street, listed in the MICHELIN Guide.'),
   place('kaunas-fine_dining-2', 'kaunas', 'fine_dining', 'Bernelių Užeiga', 'Baltų pr. 81, 48231 Kaunas, Lithuania', '리투아니아 전통 요리를 내는 카우나스의 식당. 직원들이 민속 의상을 입습니다.', 'Kaunas restaurant serving traditional Lithuanian food, with staff in folk costume.'),
   place('kaunas-fine_dining-3', 'kaunas', 'fine_dining', 'Avilys', 'Vilniaus gatvė 34, 44287 Kaunas', '구시가 지하 공간의 리투아니아·유럽 요리 식당. 직접 만든 맥주가 있습니다.', 'Lithuanian-European restaurant in a cellar space in the Old Town, with its own beer.'),
   place('kaunas-bakery-1', 'kaunas', 'bakery', 'Motiejaus kepyklėlė', 'Vilniaus gatvė 7, 44280 Kaunas, Lithuania', '카우나스 구시가의 빵집.', 'Bakery in Kaunas Old Town.'),
@@ -31,7 +31,7 @@ export const placesLTExtra: Place[] = [
   place('kaunas-korean-1', 'kaunas', 'korean', 'OK Korean Chicken', 'Vytauto Prospektas 83, Kaunas', '카우나스의 한국식 프라이드치킨 전문점.', 'Korean fried chicken specialist in Kaunas.'),
 
   // —— klaipeda ——
-  place('klaipeda-fine_dining-1', 'klaipeda', 'fine_dining', 'Monai', 'Liepų Gatvė 4, 92114 Klaipėda', '클라이페다의 레스토랑.', 'Restaurant in Klaipėda.'),
+  place('klaipeda-fine_dining-1', 'klaipeda', 'fine_dining', 'Monai', 'Liepų Gatvė 4, 92114 Klaipėda', '현대 요리 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Modern-cuisine restaurant listed in the MICHELIN Guide.'),
   place('klaipeda-fine_dining-2', 'klaipeda', 'fine_dining', 'Stora Antis', 'Tiltų g. 6, 91248 Klaipėda', '가족 운영 가스트로펍 겸 박물관, 전통 리투아니아·동유럽 요리.', 'Family-run gastropub-museum serving traditional Lithuanian and Eastern European cuisine.'),
   place('klaipeda-fine_dining-3', 'klaipeda', 'fine_dining', 'Senoji Hansa', 'Kurpių g., 91248 Klaipėda', '넉넉한 양의 정통 리투아니아 요리로 호평받는 레스토랑.', 'Restaurant praised for its authentic Lithuanian dishes and generous portions.'),
   place('klaipeda-bakery-1', 'klaipeda', 'bakery', 'Gardumėlis', 'Sandėlių g. 15, Klaipėda, Lithuania', '밀푀유와 리투아니아 키비나이가 있는 클라이페다의 빵집 겸 카페.', 'Klaipėda bakery café with mille-feuille and Lithuanian kibinai.'),
