@@ -1,0 +1,3722 @@
+{
+"akureyri-bakery-1": {
+"en": "Akureyri bakery operating since 1912.",
+"ko": "1912년부터 이어진 아쿠레이리의 빵집."
+},
+"akureyri-cafe-2": {
+"en": "Café inside the Akureyri Art Museum with coffee and breakfast.",
+"ko": "아쿠레이리 미술관 안의 카페. 커피와 아침 메뉴가 있습니다."
+},
+"alberobello-fine_dining-1": {
+"en": "Restaurant in the heart of the trulli.",
+"ko": "트룰리 마을 안의 레스토랑."
+},
+"alesund-fine_dining-2": {
+"en": "Harbour-view seafood restaurant serving bacalao (salt cod).",
+"ko": "항구가 보이는 해산물 식당. 바칼라오(염장 대구 요리)가 있습니다."
+},
+"amalfi-bakery-2": {
+"en": "Bakery in Amalfi’s old town.",
+"ko": "아말피 구시가의 빵집."
+},
+"amalfi-cafe-1": {
+"en": "Amalfi café with coffee and cannoli.",
+"ko": "커피와 카놀리가 있는 아말피의 카페."
+},
+"amalfi-cafe-2": {
+"en": "Café in Amalfi.",
+"ko": "아말피의 카페."
+},
+"amalfi-cafe-4": {
+"en": "Bar and café in Amalfi.",
+"ko": "아말피의 바 겸 카페."
+},
+"ankara-bakery-1": {
+"en": "Ankara pastry shop with traditional Turkish sweets.",
+"ko": "터키 전통 디저트를 파는 앙카라의 제과점."
+},
+"ankara-bakery-2": {
+"en": "Tunalı Hilmi café-pâtisserie with profiteroles and desserts.",
+"ko": "프로피테롤과 디저트가 있는 투날르 힐미의 카페 겸 파티스리."
+},
+"ankara-cafe-1": {
+"en": "Ankara café with pistachio cheesecake.",
+"ko": "피스타치오 치즈케이크가 있는 앙카라의 카페."
+},
+"ankara-cafe-3": {
+"en": "Specialty coffee shop in Kavaklıdere.",
+"ko": "카바클르데레의 스페셜티 커피숍."
+},
+"ankara-fine_dining-2": {
+"en": "Ankara seafood restaurant with a courtyard garden.",
+"ko": "안뜰 정원이 있는 앙카라의 해산물 레스토랑."
+},
+"annecy-bakery-1": {
+"en": "Annecy bakery baking Savoie breads.",
+"ko": "사부아 지방 빵을 굽는 안시의 빵집."
+},
+"annecy-bakery-2": {
+"en": "Pâtisserie in the heart of the Old Town with croissants.",
+"ko": "구시가 중심의 제과점. 크루아상이 있습니다."
+},
+"annecy-cafe-1": {
+"en": "Small café in Annecy’s old town serving desserts.",
+"ko": "디저트가 있는 안시 구시가의 작은 카페."
+},
+"annecy-cafe-2": {
+"en": "Annecy café with flat whites and homemade pastries.",
+"ko": "플랫화이트와 홈메이드 페이스트리가 있는 안시의 카페."
+},
+"antalya-bakery-1": {
+"en": "Antalya bakery with bread and breakfast.",
+"ko": "빵과 아침 식사를 파는 안탈리아의 빵집."
+},
+"antalya-fine_dining-1": {
+"en": "Restaurant on a quiet Kaleiçi lane with a terrace shaded by citrus trees.",
+"ko": "칼레이치 구시가 골목의 레스토랑. 감귤나무 그늘의 테라스가 있습니다."
+},
+"antalya-fine_dining-3": {
+"en": "Turkish restaurant operating since 1958, serving tray kebab.",
+"ko": "1958년부터 이어진 터키 요리 식당. 트레이 케밥이 있습니다."
+},
+"arcachon-fine_dining-2": {
+"en": "Oyster restaurant in Cap Ferret.",
+"ko": "캅 페레의 굴 식당."
+},
+"assisi-bakery-1": {
+"en": "Pastry shop selling Assisi’s rocciata.",
+"ko": "아시시 과자 로차타를 파는 제과점."
+},
+"athens-bakery-1": {
+"en": "Athens pie shop since 1910 with kourou cheese pie.",
+"ko": "1910년부터 파이를 파는 아테네의 가게. 쿠루 치즈파이가 있습니다."
+},
+"athens-bakery-2": {
+"en": "Koukaki bakery since 1961 with tiropita.",
+"ko": "1961년부터 이어진 쿠카키 지구의 빵집. 티로피타가 있습니다."
+},
+"athens-bakery-3": {
+"en": "Choux pastry shop selling profiteroles.",
+"ko": "프로피테롤을 파는 슈 페이스트리 가게."
+},
+"athens-bakery-4": {
+"en": "Koulouri (sesame bread ring) shop in Psyrri.",
+"ko": "프시리의 쿨루리(참깨 링 빵) 가게."
+},
+"athens-cafe-2": {
+"en": "Athens specialty coffee shop, opened in 2009.",
+"ko": "2009년 문을 연 아테네의 스페셜티 커피숍."
+},
+"athens-cafe-3": {
+"en": "Monastiraki café with a rooftop terrace facing the Acropolis.",
+"ko": "아크로폴리스가 보이는 옥상 테라스가 있는 모나스티라키의 카페."
+},
+"athens-fine_dining-2": {
+"en": "Restaurant serving contemporary Greek cuisine.",
+"ko": "현대 그리스 요리를 내는 레스토랑."
+},
+"athens-fine_dining-3": {
+"en": "Athens restaurant with artistic presentation.",
+"ko": "예술적인 플레이팅의 아테네 레스토랑."
+},
+"athens-korean-2": {
+"en": "Korean restaurant in Palaio Faliro with Korean barbecue.",
+"ko": "팔레오 팔리로의 한식당. 한국식 바비큐가 있습니다."
+},
+"aveiro-bakery-1": {
+"en": "Traditional Aveiro pastry shop selling ovos moles.",
+"ko": "아베이루 과자 오부스 몰르스를 파는 전통 제과점."
+},
+"aveiro-bakery-2": {
+"en": "Aveiro ovos moles shop founded in 1856.",
+"ko": "1856년 문을 연 아베이루의 오부스 몰르스 가게."
+},
+"aveiro-cafe-1": {
+"en": "Aveiro café with coffee, cakes and brunch.",
+"ko": "커피·케이크·브런치가 있는 아베이루의 카페."
+},
+"aveiro-cafe-2": {
+"en": "Small Aveiro café serving single-origin specialty coffee.",
+"ko": "싱글 오리진 스페셜티 커피를 내는 아베이루의 작은 카페."
+},
+"avignon-bakery-1": {
+"en": "Traditional Avignon bakery with bread and pastries.",
+"ko": "빵과 페이스트리를 굽는 아비뇽의 전통 빵집."
+},
+"avignon-bakery-2": {
+"en": "Artisan bakery in Avignon.",
+"ko": "아비뇽의 아르티장 빵집."
+},
+"avignon-bakery-3": {
+"en": "Bakery on Boulevard Raspail.",
+"ko": "라스파유 대로의 빵집."
+},
+"avignon-cafe-1": {
+"en": "Bakery café with whole-grain bread and made-to-order sandwiches.",
+"ko": "통곡물 빵과 주문 즉시 만드는 샌드위치가 있는 빵집 겸 카페."
+},
+"avignon-fine_dining-2": {
+"en": "Restaurant serving a surprise set menu of seasonal local produce.",
+"ko": "제철 지역 재료로 서프라이즈 코스를 내는 레스토랑."
+},
+"avignon-fine_dining-3": {
+"en": "Restaurant with a terrace on a leafy square.",
+"ko": "나무가 우거진 광장에 테라스가 있는 레스토랑."
+},
+"banska-bystrica-cafe-2": {
+"en": "Coffee shop on Národná ulica.",
+"ko": "나로드나 거리의 커피숍."
+},
+"banska-bystrica-cafe-3": {
+"en": "Roastery café on Martina Rázusa street.",
+"ko": "마르티나 라주사 거리의 로스터리 카페."
+},
+"banska-bystrica-fine_dining-2": {
+"en": "Restaurant on Dolná street in Banská Bystrica.",
+"ko": "돌나 거리의 레스토랑."
+},
+"banska-bystrica-fine_dining-3": {
+"en": "Restaurant on Dolná street in Banská Bystrica.",
+"ko": "돌나 거리의 레스토랑."
+},
+"barcelona-bakery-1": {
+"en": "Artisan bakery with several branches across Barcelona.",
+"ko": "바르셀로나에 여러 지점을 둔 아르티장 빵집."
+},
+"barcelona-bakery-2": {
+"en": "Born-district pâtisserie with a mascarpone-filled croissant.",
+"ko": "보른 지구의 파티스리. 마스카르포네 크루아상이 있습니다."
+},
+"barcelona-bakery-3": {
+"en": "Long-established Barcelona pâtisserie run by pastry chef Christian Escribà.",
+"ko": "파티시에 크리스티안 에스크리바가 이끄는 바르셀로나의 오래된 파티스리."
+},
+"barcelona-bakery-5": {
+"en": "Vegan bakery in Gràcia with filled croissants and cakes.",
+"ko": "그라시아 지구의 비건 빵집. 속을 채운 크루아상과 케이크가 있습니다."
+},
+"barcelona-cafe-1": {
+"en": "Traditional Barcelona bakery café with festive pastries.",
+"ko": "명절 페이스트리를 내는 바르셀로나의 전통 빵집 겸 카페."
+},
+"barcelona-cafe-2": {
+"en": "Roastery café in Poblenou.",
+"ko": "포블레노우의 로스터리 카페."
+},
+"barcelona-cafe-3": {
+"en": "Eixample café serving drinks made from scratch.",
+"ko": "직접 만드는 음료를 내는 에이샴플레의 카페."
+},
+"barcelona-cafe-4": {
+"en": "Specialty coffee shop in the Gothic Quarter.",
+"ko": "고딕 지구의 스페셜티 커피숍."
+},
+"barcelona-cafe-5": {
+"en": "Specialty coffee shop and roastery in El Fort Pienc.",
+"ko": "엘 포르트 피엔크 지구의 스페셜티 커피숍 겸 로스터리."
+},
+"barcelona-cafe-6": {
+"en": "Traditional granja on Carrer Petritxol (since 1947) with whipped-cream hot chocolate and ensaïmada.",
+"ko": "페트리촐 거리의 전통 그란하(1947년부터). 휘핑크림 핫초코와 엔사이마다가 있습니다."
+},
+"barcelona-fine_dining-2": {
+"en": "Tapas bar in El Born with a long list of seasonal tapas.",
+"ko": "엘보른 지구의 타파스 바. 계절 타파스를 많이 냅니다."
+},
+"barcelona-fine_dining-3": {
+"en": "Traditional Catalan restaurant, open since 1786.",
+"ko": "1786년 문을 연 카탈루냐 전통 요리 식당."
+},
+"barcelona-fine_dining-5": {
+"en": "Standing tapas bar in Poble Sec serving conserva montaditos.",
+"ko": "포블레섹의 서서 먹는 타파스 바. 통조림 해산물 몬타디토가 있습니다."
+},
+"bari-fine_dining-2": {
+"en": "Puglian street-food shop selling octopus panini.",
+"ko": "문어 파니노를 파는 풀리아 길거리 음식 가게."
+},
+"bath-cafe-5": {
+"en": "Brunch chain outlet.",
+"ko": "브런치 체인 매장."
+},
+"batumi-bakery-1": {
+"en": "Batumi pastry shop with cakes, pastries and traditional Georgian sweets.",
+"ko": "케이크·페이스트리와 조지아 전통 과자를 파는 바투미의 제과점."
+},
+"batumi-bakery-2": {
+"en": "Cosy bakery with freshly baked croissants and pastries.",
+"ko": "갓 구운 크루아상과 페이스트리가 있는 아늑한 빵집."
+},
+"batumi-cafe-2": {
+"en": "Concept café with resident capybaras and banana-milk cappuccino.",
+"ko": "카피바라가 있는 컨셉 카페. 바나나 우유 카푸치노가 있습니다."
+},
+"batumi-fine_dining-2": {
+"en": "Georgian restaurant in Batumi.",
+"ko": "바투미의 조지아 요리 식당."
+},
+"bayeux-fine_dining-1": {
+"en": "Restaurant in a 15th-century building.",
+"ko": "15세기 건물의 레스토랑."
+},
+"belfast-fine_dining-2": {
+"en": "Restaurant of chef Michael Deane.",
+"ko": "셰프 마이클 딘의 레스토랑."
+},
+"belgrade-bakery-1": {
+"en": "Traditional bakery chain outlet on Nemanjina street.",
+"ko": "네마니나 거리의 전통 빵집 체인 매장."
+},
+"belgrade-bakery-3": {
+"en": "Burek shop on Kralja Milana street.",
+"ko": "크랄랴 밀라나 거리의 부렉 가게."
+},
+"belgrade-cafe-1": {
+"en": "Specialty coffee shop in Stari Grad.",
+"ko": "스타리 그라드의 스페셜티 커피숍."
+},
+"belgrade-cafe-2": {
+"en": "Coffee chain outlet in the Vračar district.",
+"ko": "브라차르 지구의 커피 체인 매장."
+},
+"belgrade-fine_dining-1": {
+"en": "Belgrade bistro serving modern European food.",
+"ko": "현대 유럽 요리를 내는 베오그라드의 비스트로."
+},
+"belgrade-fine_dining-2": {
+"en": "Old-town seafood restaurant with Danube views and a tasting menu.",
+"ko": "도나우강이 보이는 구시가의 해산물 레스토랑. 테이스팅 메뉴가 있습니다."
+},
+"belgrade-fine_dining-4": {
+"en": "Traditional Serbian restaurant in Skadarlija with live music.",
+"ko": "스카다를리야 거리의 세르비아 전통 식당. 악단 연주가 있습니다."
+},
+"belgrade-fine_dining-5": {
+"en": "Italian-Serbian fusion restaurant with a Dalí-esque interior.",
+"ko": "달리풍 실내의 이탈리아·세르비아 퓨전 식당."
+},
+"belgrade-korean-1": {
+"en": "Korean restaurant on Svetozara Markovića street.",
+"ko": "스베토자라 마르코비차 거리의 한식당."
+},
+"bergamo-bakery-1": {
+"en": "Pastry shop selling polenta e osei, a Bergamo sweet.",
+"ko": "폴렌타 에 오제이(베르가모 과자)를 파는 제과점."
+},
+"bergamo-fine_dining-1": {
+"en": "Upper-town restaurant in a 14th-century building (since 1956).",
+"ko": "14세기 건물에 있는 윗마을(치타 알타)의 레스토랑(1956년부터)."
+},
+"bergen-bakery-4": {
+"en": "Bakery that also delivers.",
+"ko": "배달도 하는 빵집."
+},
+"bergen-bakery-5": {
+"en": "Bergen bakery chain selling skillingsboller cinnamon buns.",
+"ko": "스킬링스볼레(시나몬번)를 파는 베르겐의 빵집 체인."
+},
+"bergen-cafe-1": {
+"en": "Tiny specialty coffee shop with carrot cake and cappuccinos.",
+"ko": "당근 케이크와 카푸치노가 있는 작은 스페셜티 커피숍."
+},
+"bergen-cafe-3": {
+"en": "Cosy university-district coffee shop with pastries.",
+"ko": "대학가의 아늑한 커피숍. 페이스트리가 있습니다."
+},
+"bergen-korean-1": {
+"en": "Korean barbecue restaurant with tabletop grills.",
+"ko": "테이블 그릴이 있는 한국식 바비큐 식당."
+},
+"biarritz-bakery-1": {
+"en": "Tearoom with sea views, opened in 1872.",
+"ko": "1872년 문을 연 바다 전망 찻집."
+},
+"bilbao-bakery-1": {
+"en": "Bilbao pastry shop with traditional sweets and Carolina cake.",
+"ko": "빌바오 전통 과자와 카롤리나 케이크를 파는 제과점."
+},
+"bilbao-bakery-2": {
+"en": "Pastry shop operating since 1830.",
+"ko": "1830년부터 이어진 제과점."
+},
+"bilbao-bakery-3": {
+"en": "Bilbao bakery selling almond croissants.",
+"ko": "아몬드 크루아상을 파는 빌바오의 빵집."
+},
+"bilbao-cafe-2": {
+"en": "Specialty coffee shop near the Guggenheim.",
+"ko": "구겐하임 근처의 스페셜티 커피숍."
+},
+"bilbao-fine_dining-2": {
+"en": "Pintxos bar in Bilbao.",
+"ko": "빌바오의 핀초스 바."
+},
+"bilbao-fine_dining-5": {
+"en": "Basque restaurant serving seafood and pintxos.",
+"ko": "해산물과 핀초스를 내는 바스크 식당."
+},
+"bilbao-korean-1": {
+"en": "Korean barbecue buffet.",
+"ko": "한국식 바비큐 뷔페."
+},
+"bitola-bakery-1": {
+"en": "Bitola bakery open 24 hours.",
+"ko": "24시간 여는 비톨라의 빵집."
+},
+"bitola-bakery-3": {
+"en": "Bakery on 1-vi Maj Boulevard.",
+"ko": "5월 1일 대로의 빵집."
+},
+"bitola-bakery-5": {
+"en": "Bakery on Karposh street.",
+"ko": "카르포시 거리의 빵집."
+},
+"bitola-cafe-1": {
+"en": "Café on Širok Sokak, good for espresso and people-watching.",
+"ko": "시로크 소카크 거리의 카페. 에스프레소를 마시며 거리를 구경하기 좋습니다."
+},
+"bitola-cafe-2": {
+"en": "Café on Širok Sokak.",
+"ko": "시로크 소카크 거리의 카페."
+},
+"bitola-cafe-3": {
+"en": "Café on Širok Sokak.",
+"ko": "시로크 소카크 거리의 카페."
+},
+"bitola-cafe-5": {
+"en": "Café on Marshal Tito street.",
+"ko": "마르샬 티토 거리의 카페."
+},
+"bitola-fine_dining-2": {
+"en": "Restaurant on Ilco Stojanovski street.",
+"ko": "일코 스토야노프스키 거리의 레스토랑."
+},
+"bitola-fine_dining-3": {
+"en": "Lounge bar and restaurant on Roosevelt street.",
+"ko": "루스벨트 거리의 라운지 바 겸 레스토랑."
+},
+"bled-bakery-1": {
+"en": "Pastry shop selling Bled’s kremna rezina cream cake.",
+"ko": "블레드 크림 케이크(크렘나 레지나)를 파는 제과점."
+},
+"bled-cafe-2": {
+"en": "Coffee shop on Grajska cesta in Bled.",
+"ko": "그라이스카 거리의 커피숍."
+},
+"bled-fine_dining-2": {
+"en": "Wine bar and restaurant on Cesta svobode in Bled.",
+"ko": "체스타 스보보데 거리의 와인 바 겸 레스토랑."
+},
+"bled-fine_dining-3": {
+"en": "Traditional Slovenian restaurant in Bled.",
+"ko": "블레드의 슬로베니아 전통 식당."
+},
+"bologna-bakery-1": {
+"en": "Bologna bakery café with pastries and desserts.",
+"ko": "페이스트리와 디저트가 있는 볼로냐의 빵집 겸 카페."
+},
+"bologna-bakery-3": {
+"en": "Bologna bakery and specialty coffee shop.",
+"ko": "빵과 스페셜티 커피를 함께 파는 볼로냐의 가게."
+},
+"bologna-bakery-4": {
+"en": "Bakery in Bologna.",
+"ko": "볼로냐의 빵집."
+},
+"bologna-bakery-5": {
+"en": "Bakery in Bologna.",
+"ko": "볼로냐의 빵집."
+},
+"bologna-cafe-1": {
+"en": "Specialty coffee shop in Bologna.",
+"ko": "볼로냐의 스페셜티 커피숍."
+},
+"bologna-cafe-3": {
+"en": "Coffee shop in Bologna.",
+"ko": "볼로냐의 커피숍."
+},
+"bologna-fine_dining-1": {
+"en": "Bologna osteria serving traditional Emilian cooking.",
+"ko": "에밀리아 전통 요리를 내는 볼로냐의 오스테리아."
+},
+"bologna-fine_dining-3": {
+"en": "Casual Bolognese osteria in the university district serving tagliatelle.",
+"ko": "대학가의 캐주얼한 볼로냐 요리 오스테리아. 탈리아텔레가 있습니다."
+},
+"bolzano-bakery-1": {
+"en": "Bolzano bakery with pretzels, strudel and poppy-seed pastries.",
+"ko": "프레첼·슈트루델·양귀비씨 빵을 굽는 볼차노의 빵집."
+},
+"bonifacio-fine_dining-1": {
+"en": "Corsican restaurant in the clifftop old town.",
+"ko": "절벽 위 구시가의 코르시카 요리 식당."
+},
+"bordeaux-bakery-1": {
+"en": "Bakery near the Grosse Cloche belfry.",
+"ko": "그로스 클로슈 종탑 근처의 빵집."
+},
+"bordeaux-cafe-1": {
+"en": "Bordeaux café with fresh croissants and coffee.",
+"ko": "갓 구운 크루아상과 커피가 있는 보르도의 카페."
+},
+"bordeaux-fine_dining-2": {
+"en": "Bordeaux restaurant cooking over an open fire.",
+"ko": "전통 화덕 요리를 내는 보르도의 레스토랑."
+},
+"borgo-maggiore-bakery-1": {
+"en": "Bakery near Borgo Maggiore making wedding cakes and pastries.",
+"ko": "웨딩 케이크와 페이스트리를 만드는 보르고 마조레 근처의 빵집."
+},
+"braga-bakery-2": {
+"en": "Braga café-bakery operating since 1796, with frigideiras (meat pies).",
+"ko": "1796년부터 이어진 브라가의 카페 겸 제과점. 프리지데이라(고기 파이)가 있습니다."
+},
+"brasov-bakery-1": {
+"en": "Cosy bakery café in Brașov.",
+"ko": "아늑한 브라쇼브의 빵집 겸 카페."
+},
+"brasov-bakery-2": {
+"en": "Bakery on Strada Bisericii Române in Brașov.",
+"ko": "비세리치 로머네 거리의 빵집."
+},
+"brasov-cafe-1": {
+"en": "Specialty coffee shop in Brașov.",
+"ko": "브라쇼브의 스페셜티 커피숍."
+},
+"brasov-cafe-2": {
+"en": "Coffee shop on Strada Sfântul Ioan in Brașov.",
+"ko": "스펀툴 이오안 거리의 커피숍."
+},
+"brasov-cafe-3": {
+"en": "Café on Strada Grigoraș Dinicu in Brașov.",
+"ko": "그리고라시 디니쿠 거리의 카페."
+},
+"brasov-fine_dining-2": {
+"en": "Traditional Romanian restaurant on Brașov’s Piața Sfatului.",
+"ko": "브라쇼브 중앙 광장(피아차 스파툴루이)의 루마니아 전통 식당."
+},
+"brasov-fine_dining-3": {
+"en": "Restaurant on Piața Sfatului in Brașov.",
+"ko": "피아차 스파툴루이 광장의 레스토랑."
+},
+"brasov-fine_dining-5": {
+"en": "Italian restaurant on Piața George Enescu in Brașov.",
+"ko": "피아차 조르제 에네스쿠 광장의 이탈리아 식당."
+},
+"bratislava-bakery-1": {
+"en": "Bakery on Štúrova street.",
+"ko": "슈투로바 거리의 빵집."
+},
+"bratislava-bakery-2": {
+"en": "Artisan bakery on Vajnorská street baking sourdough.",
+"ko": "사워도우를 굽는 바이노르스카 거리의 수제 빵집."
+},
+"bratislava-bakery-3": {
+"en": "Dessert shop on Panská street in the Old Town with cakes and pastries.",
+"ko": "구시가 판스카 거리의 디저트 가게. 케이크와 페이스트리가 있습니다."
+},
+"bratislava-cafe-1": {
+"en": "Coffee shop on Veterná street in the Old Town.",
+"ko": "베테르나 거리의 커피숍."
+},
+"bratislava-fine_dining-2": {
+"en": "Restaurant in the UFO observation deck on the SNP Bridge, with city views.",
+"ko": "SNP 다리 위 전망대(UFO)의 레스토랑. 도시 전경이 보입니다."
+},
+"bratislava-fine_dining-4": {
+"en": "Traditional Slovak gastropub on Obchodná street serving garlic soup.",
+"ko": "오브호드나 거리의 슬로바키아 전통 요리 가스트로펍. 마늘 수프가 있습니다."
+},
+"bratislava-korean-1": {
+"en": "Korean restaurant on Obchodná street.",
+"ko": "오브호드나 거리의 한식당."
+},
+"brighton-bakery-2": {
+"en": "Bakery in Brighton.",
+"ko": "브라이턴의 빵집."
+},
+"brighton-bakery-3": {
+"en": "French pâtisserie with macarons and croissants.",
+"ko": "마카롱과 크루아상이 있는 프랑스식 파티스리."
+},
+"brighton-fine_dining-2": {
+"en": "Small-plates restaurant.",
+"ko": "스몰 플레이트 레스토랑."
+},
+"bristol-bakery-1": {
+"en": "Bakery by the station.",
+"ko": "역 앞의 빵집."
+},
+"bucharest-fine_dining-1": {
+"en": "Restaurant serving modern Romanian cuisine.",
+"ko": "현대 루마니아 요리를 내는 레스토랑."
+},
+"budapest-bakery-1": {
+"en": "Budapest bakery baking long-fermented sourdough.",
+"ko": "장시간 발효 사워도우를 굽는 부다페스트의 빵집."
+},
+"budapest-bakery-2": {
+"en": "Budapest croissant bakery, open since 2012.",
+"ko": "2012년 문을 연 부다페스트의 크루아상 빵집."
+},
+"budapest-bakery-5": {
+"en": "Confectionery operating since 1870.",
+"ko": "1870년부터 이어진 제과점."
+},
+"budapest-cafe-1": {
+"en": "Historic coffee house with an ornate, palace-like interior.",
+"ko": "궁전 같은 화려한 실내의 역사적인 카페하우스."
+},
+"budapest-cafe-4": {
+"en": "Coffee house since 1858 with an elegant interior.",
+"ko": "1858년부터 이어진 카페하우스. 화려한 실내가 있습니다."
+},
+"budapest-fine_dining-4": {
+"en": "Traditional Hungarian bistro with generous portions and live cimbalom music.",
+"ko": "양이 넉넉하고 침발롬 연주가 있는 헝가리 전통 비스트로."
+},
+"budapest-fine_dining-5": {
+"en": "Cosy Hungarian bistro serving wild boar goulash.",
+"ko": "멧돼지 굴라시가 있는 아늑한 헝가리 비스트로."
+},
+"budapest-korean-2": {
+"en": "Budapest Korean restaurant, open since 1990.",
+"ko": "1990년 문을 연 부다페스트의 한식당."
+},
+"budapest-korean-5": {
+"en": "Restaurant serving Korean fried chicken.",
+"ko": "한국식 프라이드치킨을 내는 식당."
+},
+"budva-bakery-1": {
+"en": "Bakery on Budva’s main street with bread and local specialities.",
+"ko": "빵과 지역 특산품을 파는 부드바 중심가의 빵집."
+},
+"budva-cafe-1": {
+"en": "Budva coffee café with a co-working space.",
+"ko": "코워킹 공간이 있는 부드바의 커피 카페."
+},
+"budva-fine_dining-1": {
+"en": "Old Town restaurant serving Montenegrin and Mediterranean seafood.",
+"ko": "몬테네그로·지중해 해산물 요리를 내는 구시가의 식당."
+},
+"bursa-bakery-2": {
+"en": "Shop selling Bursa’s candied chestnuts (kestane şekeri).",
+"ko": "부르사 밤 설탕 절임(케스타네 셰케리)을 파는 가게."
+},
+"cagliari-bakery-1": {
+"en": "Pastry shop selling cream cannoncini.",
+"ko": "크림 칸노치니를 파는 제과점."
+},
+"cambridge-bakery-1": {
+"en": "Shop selling Chelsea buns.",
+"ko": "첼시 번을 파는 가게."
+},
+"cambridge-cafe-2": {
+"en": "Specialty coffee shop in Cambridge.",
+"ko": "케임브리지의 스페셜티 커피숍."
+},
+"cambridge-fine_dining-3": {
+"en": "Bistro in Cambridge.",
+"ko": "케임브리지의 비스트로."
+},
+"canterbury-cafe-1": {
+"en": "Brunch café in St Dunstan’s.",
+"ko": "세인트 던스턴 지구의 브런치 카페."
+},
+"capri-fine_dining-1": {
+"en": "Restaurant serving Caprese food under lemon trees, with a dessert buffet.",
+"ko": "레몬 나무 아래에서 카프리 요리를 내는 식당. 디저트 뷔페가 있습니다."
+},
+"capri-fine_dining-2": {
+"en": "Capri restaurant serving thin-crust pizza and caprese.",
+"ko": "얇은 피자와 카프레제를 내는 카프리의 식당."
+},
+"cascais-bakery-1": {
+"en": "Cascais corner bakery since 1953 with pastel de nata.",
+"ko": "1953년부터 이어진 카스카이스의 동네 빵집. 파스텔 드 나타가 있습니다."
+},
+"cascais-bakery-2": {
+"en": "Cascais pastry shop baking pastel de nata.",
+"ko": "파스텔 드 나타를 굽는 카스카이스의 제과점."
+},
+"cascais-cafe-2": {
+"en": "Brunch and specialty coffee café at Cascais Marina with pancakes and egg dishes.",
+"ko": "카스카이스 마리나의 브런치·스페셜티 커피 카페. 팬케이크와 달걀 요리가 있습니다."
+},
+"cascais-fine_dining-1": {
+"en": "Restaurant inside a 17th-century fortress.",
+"ko": "17세기 요새 안의 레스토랑."
+},
+"cascais-fine_dining-2": {
+"en": "Oceanfront seafood restaurant with fresh fish and seafood platters.",
+"ko": "바다 바로 앞의 해산물 레스토랑. 생선과 해산물 모둠이 있습니다."
+},
+"cascais-fine_dining-3": {
+"en": "Traditional Portuguese tasca serving local fish (since the early 1980s).",
+"ko": "현지 생선을 내는 포르투갈 전통 타스카(1980년대 초부터)."
+},
+"cefalu-bakery-2": {
+"en": "Pastry shop with bignè and mini cannoli.",
+"ko": "비녜와 미니 카놀리가 있는 제과점."
+},
+"chamonix-bakery-1": {
+"en": "Bakery in Chamonix.",
+"ko": "샤모니의 빵집."
+},
+"chamonix-bakery-2": {
+"en": "Bakery in Argentière with croissants.",
+"ko": "크루아상을 굽는 아르장티에르의 빵집."
+},
+"chamonix-fine_dining-2": {
+"en": "Savoyard restaurant in central Chamonix serving fondue and raclette.",
+"ko": "샤모니 중심가의 사부아 요리 식당. 퐁뒤·라클레트가 있습니다."
+},
+"chania-bakery-1": {
+"en": "Chania bougatsa shop, open since 1924.",
+"ko": "1924년 문을 연 하니아의 부가차 가게."
+},
+"chisinau-bakery-1": {
+"en": "Chișinău pastry shop with macarons, cookies and croissants.",
+"ko": "마카롱·쿠키·크루아상을 파는 키시너우의 제과점."
+},
+"chisinau-cafe-2": {
+"en": "Moldovan specialty coffee brand with a long coffee menu and cheesecake.",
+"ko": "몰도바의 스페셜티 커피 브랜드. 커피 메뉴가 많고 치즈케이크가 있습니다."
+},
+"chisinau-fine_dining-4": {
+"en": "Restaurant chain serving plăcinte, traditional Moldovan pies.",
+"ko": "몰도바 전통 파이 플러친타를 내는 체인 식당."
+},
+"chisinau-korean-1": {
+"en": "Korean barbecue restaurant in Chișinău.",
+"ko": "키시너우의 한국식 바비큐 식당."
+},
+"cinque-terre-cafe-1": {
+"en": "Aperitivo spot with a view of Manarola.",
+"ko": "마나롤라 풍경을 보며 아페리티보를 즐기는 곳."
+},
+"cinque-terre-fine_dining-2": {
+"en": "Hilltop trattoria above Manarola with sea views.",
+"ko": "마나롤라 위 언덕의 바다 전망 트라토리아."
+},
+"cluj-napoca-bakery-1": {
+"en": "Cluj-Napoca bakery with bread, strudel and croissants.",
+"ko": "빵·슈트루델·크루아상을 굽는 클루지나포카의 빵집."
+},
+"cluj-napoca-bakery-2": {
+"en": "Bakery on Strada Constantin Brâncuși in Cluj-Napoca.",
+"ko": "콘스탄틴 브란쿠시 거리의 빵집."
+},
+"cluj-napoca-cafe-1": {
+"en": "Cluj-Napoca specialty coffee roastery roasting its own beans.",
+"ko": "원두를 직접 볶는 클루지나포카의 스페셜티 커피 로스터리."
+},
+"cluj-napoca-cafe-2": {
+"en": "Coffee shop on Strada Gheorghe Șincai in Cluj-Napoca.",
+"ko": "게오르게 신카이 거리의 커피숍."
+},
+"cluj-napoca-cafe-3": {
+"en": "Coffee shop on Bulevardul Eroilor in Cluj-Napoca.",
+"ko": "에로일로르 대로의 커피숍."
+},
+"cluj-napoca-cafe-4": {
+"en": "Coffee shop on Strada Cardinal Iuliu Hossu in Cluj-Napoca.",
+"ko": "카르디날 율리우 호수 거리의 커피숍."
+},
+"cluj-napoca-fine_dining-2": {
+"en": "Cluj-Napoca restaurant serving traditional Romanian food.",
+"ko": "루마니아 전통 요리를 내는 클루지나포카의 식당."
+},
+"cluj-napoca-fine_dining-3": {
+"en": "Romanian restaurant on Str. Napoca in Cluj-Napoca.",
+"ko": "나포카 거리의 루마니아 요리 식당."
+},
+"cluj-napoca-fine_dining-5": {
+"en": "Steakhouse on Strada Franklin Delano Roosevelt in Cluj-Napoca.",
+"ko": "루스벨트 거리의 스테이크하우스."
+},
+"cluj-napoca-korean-1": {
+"en": "Korean barbecue restaurant on Str. Napoca in Cluj-Napoca.",
+"ko": "나포카 거리의 한국식 바비큐 식당."
+},
+"coimbra-bakery-1": {
+"en": "Coimbra bakery with pastries.",
+"ko": "페이스트리를 굽는 코임브라의 빵집."
+},
+"coimbra-bakery-2": {
+"en": "Coimbra pastry shop with local cakes and coffee.",
+"ko": "지역 케이크와 커피가 있는 코임브라의 제과점."
+},
+"coimbra-cafe-1": {
+"en": "Café in the former Santa Cruz Monastery building (since 1923).",
+"ko": "옛 산타크루스 수도원 건물에 있는 카페(1923년부터)."
+},
+"coimbra-fine_dining-1": {
+"en": "Japanese restaurant in Coimbra.",
+"ko": "코임브라의 일식 레스토랑."
+},
+"coimbra-fine_dining-2": {
+"en": "Small Portuguese restaurant in the Baixa (since 1959) with generous portions.",
+"ko": "바이샤 지구의 작은 포르투갈 식당(1959년부터). 양이 넉넉합니다."
+},
+"coimbra-korean-1": {
+"en": "Korean barbecue restaurant in Coimbra.",
+"ko": "코임브라의 한국식 바비큐 식당."
+},
+"como-bakery-2": {
+"en": "Cernobbio café-bakery with brioche.",
+"ko": "브리오슈가 있는 체르노비오의 카페 겸 빵집."
+},
+"cordoba-bakery-1": {
+"en": "Córdoba old-town bakery with homemade tarts and cakes.",
+"ko": "홈메이드 타르트와 케이크를 파는 코르도바 구시가의 빵집."
+},
+"cordoba-bakery-4": {
+"en": "Café-bakery with croissants and chocolate alfajores.",
+"ko": "크루아상과 초콜릿 알파호르를 파는 카페 겸 빵집."
+},
+"cordoba-cafe-1": {
+"en": "Café in the heart of old Córdoba with ice cream.",
+"ko": "아이스크림이 있는 코르도바 구시가 중심의 카페."
+},
+"cordoba-fine_dining-2": {
+"en": "Traditional tavern in Córdoba.",
+"ko": "코르도바의 전통 타베르나."
+},
+"cordoba-fine_dining-3": {
+"en": "Andalusian restaurant in the Jewish Quarter with a rooftop facing the Mezquita.",
+"ko": "유대인 지구의 안달루시아 요리 식당. 메스키타가 보이는 옥상이 있습니다."
+},
+"corfu-bakery-2": {
+"en": "Bakery in an Old Town alley with sandwiches and pastries.",
+"ko": "구시가 골목의 빵집. 샌드위치와 페이스트리가 있습니다."
+},
+"cork-bakery-1": {
+"en": "Cork bakery with a range of bread.",
+"ko": "빵을 다양하게 파는 코크의 빵집."
+},
+"cork-bakery-2": {
+"en": "Bakery on Washington Street in Cork.",
+"ko": "코크 워싱턴 거리의 빵집."
+},
+"cork-cafe-1": {
+"en": "Cosy Cork café with pastries and coffee.",
+"ko": "페이스트리와 커피가 있는 코크의 아늑한 카페."
+},
+"cork-cafe-3": {
+"en": "Coffee kiosk on Grand Parade.",
+"ko": "그랜드 퍼레이드의 커피 키오스크."
+},
+"cork-fine_dining-1": {
+"en": "Restaurant in central Cork.",
+"ko": "코크 시내 중심의 레스토랑."
+},
+"cork-fine_dining-2": {
+"en": "Cork seafood restaurant serving fresh fish.",
+"ko": "생선 요리를 내는 코크의 해산물 레스토랑."
+},
+"cortina-bakery-1": {
+"en": "Corso Italia pastry shop with hot chocolate and mini sandwiches.",
+"ko": "핫초콜릿과 미니 샌드위치가 있는 코르소 이탈리아의 제과점."
+},
+"cortina-bakery-2": {
+"en": "Long-established bakery with bomboloni.",
+"ko": "봄볼로니가 있는 오래된 빵집."
+},
+"debrecen-bakery-1": {
+"en": "Debrecen bakery with pistachio croissants.",
+"ko": "피스타치오 크루아상을 굽는 데브레첸의 빵집."
+},
+"debrecen-bakery-2": {
+"en": "Debrecen confectionery with cakes and desserts.",
+"ko": "케이크와 디저트를 파는 데브레첸의 제과점."
+},
+"debrecen-bakery-4": {
+"en": "Pastry shop in Debrecen.",
+"ko": "데브레첸의 페이스트리 가게."
+},
+"debrecen-cafe-2": {
+"en": "Micro-roastery serving its own coffee and brunch.",
+"ko": "직접 볶은 커피와 브런치를 내는 마이크로 로스터리."
+},
+"debrecen-fine_dining-1": {
+"en": "Restaurant in Debrecen.",
+"ko": "데브레첸의 레스토랑."
+},
+"debrecen-fine_dining-2": {
+"en": "Traditional Hungarian restaurant in central Debrecen serving Csokonai steak.",
+"ko": "데브레첸 중심가의 헝가리 전통 식당. 초코나이 스테이크가 있습니다."
+},
+"delft-bakery-1": {
+"en": "Old-town bakery and lunchroom with a canal-side terrace and high tea.",
+"ko": "운하변 테라스가 있는 구시가의 빵집 겸 런치룸. 애프터눈 티가 있습니다."
+},
+"delft-bakery-2": {
+"en": "Bakery focused on takeaway and delivery.",
+"ko": "포장과 배달 위주의 빵집."
+},
+"delft-cafe-2": {
+"en": "Long-established café-restaurant on the main square.",
+"ko": "중앙 광장의 오래된 카페 겸 레스토랑."
+},
+"delft-cafe-3": {
+"en": "Delft coffee shop also selling handmade chocolates and teas.",
+"ko": "수제 초콜릿과 차도 파는 델프트의 커피숍."
+},
+"dijon-bakery-1": {
+"en": "Dijon bakery making all its pastries in-house from local, eco-friendly ingredients.",
+"ko": "지역 친환경 재료로 페이스트리를 직접 만드는 디종의 빵집."
+},
+"dijon-bakery-2": {
+"en": "Bakery with bread, pastries and breakfast sets.",
+"ko": "빵과 페이스트리, 아침 세트가 있는 빵집."
+},
+"dijon-cafe-2": {
+"en": "Coffee shop run by a French barista championship finalist, also serving Taiwanese bubble tea.",
+"ko": "프랑스 바리스타 대회 결선 진출자가 운영하는 커피숍. 대만식 버블티도 있습니다."
+},
+"dublin-bakery-1": {
+"en": "Dublin bakery with sourdough and croissants.",
+"ko": "사워도우와 크루아상을 굽는 더블린의 빵집."
+},
+"dublin-bakery-3": {
+"en": "Cake and brunch café with courtyard seating.",
+"ko": "안뜰 좌석이 있는 케이크·브런치 카페."
+},
+"dublin-cafe-2": {
+"en": "Specialty coffee shop near Grafton Street.",
+"ko": "그래프턴 거리 근처의 스페셜티 커피숍."
+},
+"dublin-cafe-3": {
+"en": "Café opened in 1927 with stained-glass windows.",
+"ko": "1927년 문을 연 카페. 스테인드글라스 창이 있습니다."
+},
+"dublin-cafe-4": {
+"en": "Café serving Melbourne-style brunch and coffee.",
+"ko": "멜버른식 브런치와 커피를 내는 카페."
+},
+"dublin-korean-1": {
+"en": "Korean barbecue restaurant in Dublin.",
+"ko": "더블린의 한국식 바비큐 식당."
+},
+"dublin-korean-2": {
+"en": "Dublin spot combining a Korean restaurant with an Irish pub.",
+"ko": "한식당과 아이리시 펍을 함께 하는 더블린의 가게."
+},
+"dublin-korean-3": {
+"en": "Home-style Korean restaurant of chef-owner Vivian Cho, serving seafood pancake.",
+"ko": "셰프 비비안 조의 한식 가정식 식당. 해물파전이 있습니다."
+},
+"dubrovnik-bakery-1": {
+"en": "Dubrovnik bakery with burek and apple strudel.",
+"ko": "부렉과 사과 슈트루델을 파는 두브로브니크의 빵집."
+},
+"dubrovnik-bakery-2": {
+"en": "Burek shop on Puča street in the Old Town with many fillings.",
+"ko": "구시가 푸차 거리의 부렉 가게. 속 재료가 다양합니다."
+},
+"dubrovnik-bakery-3": {
+"en": "Bakery near the Pile Gate with burek and pastries.",
+"ko": "필레 성문 근처의 빵집. 부렉과 페이스트리가 있습니다."
+},
+"dubrovnik-cafe-1": {
+"en": "Café bar in Dubrovnik.",
+"ko": "두브로브니크의 카페 바."
+},
+"dubrovnik-fine_dining-1": {
+"en": "Restaurant by the Old Town walls.",
+"ko": "구시가 성벽 옆의 레스토랑."
+},
+"dubrovnik-fine_dining-2": {
+"en": "Traditional Croatian restaurant on the square below the Jesuit church, serving capon.",
+"ko": "예수회 성당 앞 광장의 크로아티아 전통 식당. 카폰(거세 수탉) 요리가 있습니다."
+},
+"dubrovnik-fine_dining-3": {
+"en": "Old Town café-restaurant serving Croatian and Mediterranean dishes.",
+"ko": "구시가의 카페 겸 레스토랑. 크로아티아·지중해 요리를 냅니다."
+},
+"dubrovnik-fine_dining-4": {
+"en": "Dubrovnik seafood restaurant operating since 1886.",
+"ko": "1886년부터 이어진 두브로브니크의 해산물 레스토랑."
+},
+"dubrovnik-korean-1": {
+"en": "Korean restaurant in Lapad with bulgogi, udon and spicy fried chicken.",
+"ko": "라파드 지구의 한식당. 불고기·우동·매운 치킨이 있습니다."
+},
+"dubrovnik-korean-2": {
+"en": "Korean restaurant in the Old Town serving fried chicken.",
+"ko": "구시가의 한식당. 프라이드치킨이 있습니다."
+},
+"edinburgh-bakery-1": {
+"en": "Bakery with sourdough and pastries.",
+"ko": "사워도우와 페이스트리를 굽는 빵집."
+},
+"eger-bakery-2": {
+"en": "Bakery and deli using beans from Hungarian micro-roasters.",
+"ko": "헝가리 마이크로 로스터 원두를 쓰는 빵집 겸 델리."
+},
+"eger-cafe-1": {
+"en": "Eger café with a long coffee list and rich hot chocolate.",
+"ko": "커피 메뉴가 많고 진한 핫초콜릿이 있는 에게르의 카페."
+},
+"eger-cafe-2": {
+"en": "Espresso bar in Eger.",
+"ko": "에게르의 에스프레소 바."
+},
+"eger-cafe-3": {
+"en": "Café bar in Eger.",
+"ko": "에게르의 카페 바."
+},
+"eger-cafe-5": {
+"en": "Coffee shop in Eger.",
+"ko": "에게르의 커피숍."
+},
+"eger-fine_dining-1": {
+"en": "Bistro in Eger.",
+"ko": "에게르의 비스트로."
+},
+"etretat-fine_dining-2": {
+"en": "Restaurant in a hilltop château hotel.",
+"ko": "언덕 위 성 호텔의 레스토랑."
+},
+"evora-bakery-2": {
+"en": "Évora bakery café with croissants and homemade jam.",
+"ko": "크루아상과 홈메이드 잼이 있는 에보라의 빵집 겸 카페."
+},
+"evora-fine_dining-1": {
+"en": "Restaurant in Évora.",
+"ko": "에보라의 레스토랑."
+},
+"evora-fine_dining-4": {
+"en": "Évora restaurant serving Alentejo cooking such as roast lamb and seasonal game.",
+"ko": "양고기 구이와 제철 사냥 요리를 내는 에보라의 알렌테주 식당."
+},
+"faro-bakery-1": {
+"en": "Bakery near the old town with almond pastries.",
+"ko": "구시가 근처의 빵집. 아몬드 페이스트리가 있습니다."
+},
+"faro-bakery-2": {
+"en": "Faro bakery and brunch café with bread and pastel de nata.",
+"ko": "빵과 파스텔 드 나타가 있는 파루 시내의 빵집 겸 브런치 카페."
+},
+"faro-cafe-2": {
+"en": "Faro brunch café with coffee.",
+"ko": "브런치 메뉴와 커피가 있는 파루의 카페."
+},
+"faro-fine_dining-2": {
+"en": "Traditional Portuguese restaurant in central Faro serving cataplana.",
+"ko": "파루 구시가 중심의 포르투갈 전통 식당. 카타플라나가 있습니다."
+},
+"fatima-bakery-1": {
+"en": "Fátima town-centre pastry shop with traditional handmade sweets.",
+"ko": "전통 수제 과자를 파는 파티마 중심가의 제과점."
+},
+"fatima-cafe-1": {
+"en": "Café near the Sanctuary of Fátima.",
+"ko": "파티마 성지 근처의 카페."
+},
+"fatima-fine_dining-1": {
+"en": "Family-run restaurant in Fátima.",
+"ko": "파티마의 가족 운영 식당."
+},
+"fatima-fine_dining-2": {
+"en": "Long-standing Fátima restaurant serving generous traditional Portuguese dishes.",
+"ko": "포르투갈 전통 요리를 넉넉히 내는 파티마의 오래된 식당."
+},
+"ferrara-bakery-1": {
+"en": "Bakery-trattoria baking Ferrara’s coppia bread.",
+"ko": "페라라 빵 코피아를 굽는 빵집 겸 트라토리아."
+},
+"florence-bakery-1": {
+"en": "Florence bakery operating since 1925.",
+"ko": "1925년부터 이어진 피렌체의 빵집."
+},
+"florence-bakery-2": {
+"en": "Florence pâtisserie with a flourless chocolate cake.",
+"ko": "밀가루 없는 초콜릿 케이크가 있는 피렌체의 파티스리."
+},
+"florence-bakery-3": {
+"en": "Florence bakery, wine bar and café with focaccia baked in-house.",
+"ko": "빵집·와인 바·카페를 함께 하는 피렌체의 가게. 직접 구운 포카치아가 있습니다."
+},
+"florence-bakery-4": {
+"en": "San Frediano pâtisserie with brioche and bomboloni.",
+"ko": "산 프레디아노 지구의 파티스리. 브리오슈와 봄볼로니가 있습니다."
+},
+"florence-bakery-5": {
+"en": "Florence bakery selling sandwiches; often a queue.",
+"ko": "샌드위치를 파는 피렌체의 빵집. 줄이 길 때가 많습니다."
+},
+"florence-cafe-1": {
+"en": "Florence café operating since 1872, with hot chocolate.",
+"ko": "1872년부터 이어진 피렌체의 카페. 핫초콜릿이 있습니다."
+},
+"florence-cafe-5": {
+"en": "Old-town Florence café serving organic brunch and coffee.",
+"ko": "유기농 브런치와 커피를 내는 피렌체 구시가의 카페."
+},
+"florence-fine_dining-2": {
+"en": "Florence panini shop; there is often a queue.",
+"ko": "피렌체의 파니니 가게. 줄이 길 때가 많습니다."
+},
+"florence-fine_dining-3": {
+"en": "Long-established Florence trattoria serving pollo al burro.",
+"ko": "버터에 익힌 닭고기(폴로 알 부로)를 내는 피렌체의 오래된 트라토리아."
+},
+"florence-fine_dining-4": {
+"en": "Family-run trattoria since 1945 serving fried artichokes.",
+"ko": "1945년부터 가족이 운영하는 트라토리아. 아티초크 튀김이 있습니다."
+},
+"florence-fine_dining-5": {
+"en": "Trattoria near the San Lorenzo market.",
+"ko": "산 로렌초 시장 근처의 트라토리아."
+},
+"florence-korean-2": {
+"en": "Korean barbecue restaurant in central Florence.",
+"ko": "피렌체 중심가의 한국식 바비큐 식당."
+},
+"florence-korean-3": {
+"en": "Florence Korean barbecue restaurant with generous portions.",
+"ko": "양이 넉넉한 피렌체의 한국식 바비큐 식당."
+},
+"fontainebleau-bakery-1": {
+"en": "Pâtissier shop selling mille-feuille and macarons.",
+"ko": "밀푀유와 마카롱을 파는 파티시에 매장."
+},
+"funchal-bakery-1": {
+"en": "Wood-fired Funchal bakery with custard pastries.",
+"ko": "장작 오븐으로 굽는 푼샬의 빵집. 커스터드 페이스트리가 있습니다."
+},
+"funchal-bakery-2": {
+"en": "Family-run pastry shop since 1893 with bolo de mel honey cake.",
+"ko": "1893년부터 가족이 운영하는 제과점. 볼루 드 멜(사탕수수 꿀 케이크)이 있습니다."
+},
+"funchal-fine_dining-2": {
+"en": "Long-established traditional restaurant in central Funchal serving fish and espetada.",
+"ko": "푼샬 시내의 오래된 전통 식당. 생선과 에스페타다(꼬치구이)가 있습니다."
+},
+"funchal-fine_dining-3": {
+"en": "Funchal seafood restaurant with generous portions.",
+"ko": "양이 넉넉한 푼샬의 해산물 식당."
+},
+"galway-cafe-2": {
+"en": "Coffee café in Galway.",
+"ko": "골웨이의 커피 카페."
+},
+"galway-fine_dining-3": {
+"en": "Galway restaurant cooking with sustainable produce.",
+"ko": "지속 가능한 재료로 요리하는 골웨이의 레스토랑."
+},
+"gdansk-bakery-1": {
+"en": "Traditional Polish bakery in Gdańsk’s old town with apple szarlotka.",
+"ko": "사과 샤를로트카가 있는 그단스크 구시가의 폴란드 전통 제과점."
+},
+"gdansk-bakery-3": {
+"en": "Bakery on Długa street with pretzels.",
+"ko": "드우가 거리의 빵집. 프레첼이 있습니다."
+},
+"gdansk-bakery-4": {
+"en": "Pâtisserie on the Motława riverside.",
+"ko": "모트와바 강변의 파티스리."
+},
+"gdansk-cafe-1": {
+"en": "Gdańsk specialty coffee shop using beans from around the world.",
+"ko": "여러 산지의 원두를 쓰는 그단스크의 스페셜티 커피숍."
+},
+"gdansk-cafe-2": {
+"en": "Café on Mariacka street.",
+"ko": "마리아츠카 거리의 카페."
+},
+"gdansk-cafe-3": {
+"en": "Café on Piwna street.",
+"ko": "피브나 거리의 카페."
+},
+"gdansk-cafe-5": {
+"en": "Retro-styled café on Piwna street.",
+"ko": "피브나 거리의 레트로풍 카페."
+},
+"gdansk-fine_dining-1": {
+"en": "Restaurant in Gdańsk’s Old Town.",
+"ko": "그단스크 구시가의 레스토랑."
+},
+"gdansk-fine_dining-4": {
+"en": "Restaurant serving home-style Polish cooking.",
+"ko": "폴란드 가정식을 내는 식당."
+},
+"genoa-bakery-1": {
+"en": "Traditional Genoa Old Town bakery baking focaccia.",
+"ko": "포카치아를 굽는 제노바 구시가의 전통 빵집."
+},
+"genoa-bakery-2": {
+"en": "Focaccia shop in Genoa’s Sottoripa arcades.",
+"ko": "제노바 소토리파 골목의 포카치아 가게."
+},
+"genoa-cafe-2": {
+"en": "Espresso bar in Genoa.",
+"ko": "제노바의 에스프레소 바."
+},
+"genoa-cafe-3": {
+"en": "Coffee shop in Genoa.",
+"ko": "제노바의 커피숍."
+},
+"genoa-fine_dining-1": {
+"en": "Genoa restaurant serving Ligurian cooking.",
+"ko": "리구리아 요리를 내는 제노바의 식당."
+},
+"genoa-fine_dining-5": {
+"en": "Italian restaurant in Genoa.",
+"ko": "제노바의 이탈리아 레스토랑."
+},
+"gibraltar-bakery-4": {
+"en": "Bakery chain with chocolate desserts.",
+"ko": "초콜릿 디저트를 파는 빵집 체인."
+},
+"gibraltar-cafe-1": {
+"en": "Gibraltar café serving breakfast and lunch.",
+"ko": "아침 식사와 점심을 내는 지브롤터의 카페."
+},
+"gibraltar-cafe-2": {
+"en": "All-vegan arts café.",
+"ko": "비건 메뉴만 내는 아트 카페."
+},
+"gibraltar-fine_dining-3": {
+"en": "Long-standing café-restaurant with a salad bar and scones.",
+"ko": "샐러드 바와 스콘이 있는 오래된 카페 레스토랑."
+},
+"gibraltar-fine_dining-4": {
+"en": "Restaurant serving hearty steaks.",
+"ko": "두툼한 스테이크를 내는 식당."
+},
+"girona-bakery-1": {
+"en": "Girona bakery operating since 1892, with xuixo pastries.",
+"ko": "1892년부터 이어진 지로나의 빵집. 추이쇼 페이스트리가 있습니다."
+},
+"girona-bakery-4": {
+"en": "Bakery baking brioche.",
+"ko": "브리오슈를 굽는 빵집."
+},
+"girona-bakery-5": {
+"en": "Neighbourhood pastry shop.",
+"ko": "동네 제과점."
+},
+"giverny-fine_dining-2": {
+"en": "Restaurant in the former inn where Impressionist painters stayed, serving the omelette Baudy.",
+"ko": "인상파 화가들이 묵었던 옛 여관의 레스토랑. 보디 오믈렛이 있습니다."
+},
+"glasgow-fine_dining-1": {
+"en": "West End restaurant serving Scottish food since 1971.",
+"ko": "1971년부터 스코틀랜드 요리를 내는 웨스트엔드의 레스토랑."
+},
+"glasgow-fine_dining-2": {
+"en": "Bistro serving Mediterranean-style small plates.",
+"ko": "지중해풍 스몰 플레이트를 내는 비스트로."
+},
+"goreme-bakery-1": {
+"en": "24-hour Göreme café and baklava shop.",
+"ko": "24시간 여는 괴레메의 카페 겸 바클라바 가게."
+},
+"goreme-fine_dining-1": {
+"en": "Göreme restaurant in an old house with traditional Turkish floor seating.",
+"ko": "오래된 집에서 튀르키예식 좌식으로 식사하는 괴레메의 식당."
+},
+"gothenburg-fine_dining-4": {
+"en": "Modern restaurant in Gothenburg.",
+"ko": "예테보리의 현대 요리 레스토랑."
+},
+"gothenburg-fine_dining-5": {
+"en": "Asian fusion restaurant.",
+"ko": "아시안 퓨전 식당."
+},
+"gozo-cafe-1": {
+"en": "Café-bistro on Rabat’s central square (since 1998).",
+"ko": "라바트 중앙 광장의 카페 겸 비스트로(1998년부터)."
+},
+"gozo-cafe-3": {
+"en": "Café and bistro that also delivers.",
+"ko": "배달도 하는 카페 겸 비스트로."
+},
+"gozo-fine_dining-1": {
+"en": "Family-run seafood restaurant cooking the day’s catch.",
+"ko": "그날 잡은 생선으로 요리하는 가족 운영 해산물 레스토랑."
+},
+"gozo-fine_dining-2": {
+"en": "Restaurant on Republic Street in Rabat.",
+"ko": "라바트 리퍼블릭 거리의 레스토랑."
+},
+"granada-bakery-1": {
+"en": "Pastry shop selling Granada’s piononos.",
+"ko": "그라나다 과자 피오노노를 파는 제과점."
+},
+"granada-bakery-3": {
+"en": "Long-established pastry shop selling Granada’s piononos.",
+"ko": "그라나다 과자 피오노노를 파는 오래된 제과점."
+},
+"granada-cafe-1": {
+"en": "Granada bakery café baking slow-fermented sourdough.",
+"ko": "천연 발효 사워도우를 굽는 그라나다의 빵집 겸 카페."
+},
+"granada-fine_dining-1": {
+"en": "Granada restaurant serving creative tasting menus.",
+"ko": "창작 테이스팅 메뉴를 내는 그라나다의 레스토랑."
+},
+"granada-fine_dining-3": {
+"en": "Granada tavern operating since 1953.",
+"ko": "1953년부터 이어진 그라나다의 타베르나."
+},
+"granada-fine_dining-4": {
+"en": "Traditional restaurant in Granada.",
+"ko": "그라나다의 전통 식당."
+},
+"guimaraes-bakery-1": {
+"en": "Traditional pastry shop selling Tortas de Guimarães.",
+"ko": "기마랑이스 과자 토르타 드 기마랑이스를 파는 전통 제과점."
+},
+"guimaraes-cafe-1": {
+"en": "Café in Guimarães.",
+"ko": "기마랑이스의 카페."
+},
+"guimaraes-fine_dining-1": {
+"en": "Restaurant in Guimarães.",
+"ko": "기마랑이스의 레스토랑."
+},
+"guimaraes-fine_dining-2": {
+"en": "Petiscos (Portuguese small plates) tavern in Guimarães Old Town.",
+"ko": "기마랑이스 구시가의 페치스쿠스(포르투갈식 안주) 타스카."
+},
+"guimaraes-fine_dining-3": {
+"en": "Bistro of a French chef, in a building preserving part of the old city wall.",
+"ko": "프랑스 출신 셰프의 비스트로. 옛 성벽 일부가 남은 건물에 있습니다."
+},
+"haarlem-bakery-1": {
+"en": "Organic sourdough bakery and specialty coffee shop.",
+"ko": "유기농 사워도우 빵집 겸 스페셜티 커피숍."
+},
+"haarlem-bakery-2": {
+"en": "French-style bakery chain outlet for lunch, bread and pastries.",
+"ko": "점심과 빵을 파는 프랑스식 빵집 체인 매장."
+},
+"haarlem-cafe-1": {
+"en": "Grand café on the main square by St Bavo’s church.",
+"ko": "성 바보 교회 옆 중앙 광장의 그랜드 카페."
+},
+"haarlem-cafe-3": {
+"en": "Specialty coffee bar with homemade pastries and vegan options.",
+"ko": "홈메이드 페이스트리가 있는 스페셜티 커피 바. 비건 메뉴도 있습니다."
+},
+"haarlem-fine_dining-1": {
+"en": "Cosy Haarlem restaurant serving seasonal European cooking.",
+"ko": "계절 유럽 요리를 내는 하를럼의 아늑한 레스토랑."
+},
+"haarlem-fine_dining-2": {
+"en": "Indonesian restaurant serving rijsttafel.",
+"ko": "라이스타펠을 내는 인도네시아 식당."
+},
+"heraklion-bakery-1": {
+"en": "Bakery in Heraklion.",
+"ko": "이라클리오의 빵집."
+},
+"heraklion-bakery-2": {
+"en": "Bougatsa shop on Lion Square.",
+"ko": "리온다리아 광장의 부가차 가게."
+},
+"heraklion-bakery-3": {
+"en": "French-style bakery in Heraklion.",
+"ko": "이라클리오의 프랑스식 빵집."
+},
+"heraklion-bakery-4": {
+"en": "Pastry shop on Plateia Kallergon.",
+"ko": "칼레르곤 광장의 페이스트리 가게."
+},
+"heraklion-cafe-2": {
+"en": "Café with chocolate and a range of beers.",
+"ko": "초콜릿과 여러 맥주가 있는 카페."
+},
+"herceg-novi-bakery-1": {
+"en": "Bakery café on the seafront promenade, baking sourdough daily.",
+"ko": "바닷가 산책로의 빵집 겸 카페. 매일 사워도우를 굽습니다."
+},
+"herceg-novi-fine_dining-1": {
+"en": "Herceg Novi konoba serving seafood.",
+"ko": "해산물을 내는 헤르체그노비의 코노바."
+},
+"honfleur-fine_dining-2": {
+"en": "Restaurant near the Vieux Bassin.",
+"ko": "비외 바생 근처의 레스토랑."
+},
+"husavik-bakery-1": {
+"en": "Family-run Húsavík bakery baking snúður cinnamon rolls.",
+"ko": "시나몬롤 스누두르를 굽는 후사비크의 가족 운영 빵집."
+},
+"husavik-cafe-2": {
+"en": "Café in central Húsavík with homemade cakes and coffee.",
+"ko": "홈메이드 케이크와 커피가 있는 후사비크 중심가의 카페."
+},
+"husavik-fine_dining-2": {
+"en": "Restaurant in Húsavík.",
+"ko": "후사비크의 레스토랑."
+},
+"hvar-bakery-1": {
+"en": "Hvar Old Town bakery café selling the local Hvarski kolač.",
+"ko": "흐바르 케이크 흐바르스키 콜라치를 파는 구시가의 빵집 겸 카페."
+},
+"hvar-bakery-2": {
+"en": "Cake shop in Hvar Old Town with handmade cakes and tarts.",
+"ko": "수제 케이크와 타르트를 파는 흐바르 구시가의 케이크 가게."
+},
+"hvar-cafe-1": {
+"en": "Specialty coffee shop in Hvar’s Old Town serving house-roasted espresso.",
+"ko": "직접 볶은 에스프레소를 내는 흐바르 구시가의 스페셜티 커피숍."
+},
+"hvar-fine_dining-1": {
+"en": "Restaurant in Hvar.",
+"ko": "흐바르의 레스토랑."
+},
+"inverness-fine_dining-1": {
+"en": "Riverside restaurant.",
+"ko": "강변의 레스토랑."
+},
+"isle-of-skye-fine_dining-1": {
+"en": "Skye restaurant in an old stone cottage.",
+"ko": "오래된 돌집의 스카이섬 레스토랑."
+},
+"izmir-bakery-1": {
+"en": "Izmir pastry shop selling bomba, a pastry with a molten chocolate centre.",
+"ko": "초콜릿이 흘러나오는 디저트 봄바를 파는 이즈미르의 제과점."
+},
+"izmir-fine_dining-1": {
+"en": "Karşıyaka restaurant serving steaks.",
+"ko": "스테이크를 내는 카르시야카의 레스토랑."
+},
+"jurmala-bakery-1": {
+"en": "Jūrmala bakery with cakes.",
+"ko": "케이크가 있는 유르말라의 빵집."
+},
+"jurmala-fine_dining-1": {
+"en": "Beachfront restaurant serving seafood and Mediterranean dishes.",
+"ko": "해변 바로 옆의 해산물·지중해 요리 레스토랑."
+},
+"jurmala-fine_dining-3": {
+"en": "Restaurant on Jomas Street.",
+"ko": "요마스 거리의 레스토랑."
+},
+"kaunas-bakery-1": {
+"en": "Bakery in Kaunas Old Town.",
+"ko": "카우나스 구시가의 빵집."
+},
+"kaunas-bakery-3": {
+"en": "Bakery in central Kaunas.",
+"ko": "카우나스 중심가의 빵집."
+},
+"kaunas-cafe-1": {
+"en": "Kaunas café roasting coffee on site.",
+"ko": "매장에서 커피를 볶는 카우나스의 카페."
+},
+"kaunas-cafe-4": {
+"en": "Cafeteria-style café on Laisvės Alley.",
+"ko": "라이스베스 거리의 카페테리아식 카페."
+},
+"kaunas-fine_dining-1": {
+"en": "Restaurant in the Old Town.",
+"ko": "구시가의 레스토랑."
+},
+"kaunas-fine_dining-2": {
+"en": "Kaunas restaurant serving traditional Lithuanian food, with staff in folk costume.",
+"ko": "리투아니아 전통 요리를 내는 카우나스의 식당. 직원들이 민속 의상을 입습니다."
+},
+"kaunas-fine_dining-3": {
+"en": "Lithuanian-European restaurant in a cellar space in the Old Town, with its own beer.",
+"ko": "구시가 지하 공간의 리투아니아·유럽 요리 식당. 직접 만든 맥주가 있습니다."
+},
+"kilkenny-bakery-1": {
+"en": "Kilkenny artisan bakery that also serves lunch.",
+"ko": "킬케니의 아르티장 빵집. 점심 메뉴도 있습니다."
+},
+"kilkenny-cafe-2": {
+"en": "Café in Kilkenny.",
+"ko": "킬케니의 카페."
+},
+"kilkenny-fine_dining-2": {
+"en": "Restaurant in Kilkenny.",
+"ko": "킬케니의 레스토랑."
+},
+"killarney-bakery-1": {
+"en": "Traditional bakery in Killarney.",
+"ko": "킬라니의 전통 빵집."
+},
+"killarney-cafe-2": {
+"en": "Coffee shop in Killarney.",
+"ko": "킬라니의 커피숍."
+},
+"killarney-cafe-4": {
+"en": "Coffee shop in Killarney.",
+"ko": "킬라니의 커피숍."
+},
+"killarney-fine_dining-2": {
+"en": "Family-run restaurant since 1957 serving seafood and steaks.",
+"ko": "1957년부터 가족이 운영하는 레스토랑. 해산물과 스테이크를 냅니다."
+},
+"klaipeda-bakery-1": {
+"en": "Klaipėda bakery café with mille-feuille and Lithuanian kibinai.",
+"ko": "밀푀유와 리투아니아 키비나이가 있는 클라이페다의 빵집 겸 카페."
+},
+"klaipeda-cafe-2": {
+"en": "Café in Klaipėda.",
+"ko": "클라이페다의 카페."
+},
+"klaipeda-fine_dining-1": {
+"en": "Restaurant in Klaipėda.",
+"ko": "클라이페다의 레스토랑."
+},
+"kosice-bakery-1": {
+"en": "Košice bakery with wood-fired bread and pastries.",
+"ko": "장작 오븐으로 빵과 페이스트리를 굽는 코시체의 빵집."
+},
+"kosice-cafe-1": {
+"en": "Košice Art Nouveau café founded in 1900.",
+"ko": "1900년 문을 연 코시체의 아르누보 카페."
+},
+"kosice-cafe-2": {
+"en": "Coffee shop on Uršulínska street.",
+"ko": "우르술린스카 거리의 커피 가게."
+},
+"kosice-cafe-3": {
+"en": "Café on Hviezdoslavova street.",
+"ko": "흐비에즈도슬라보바 거리의 카페."
+},
+"kosice-fine_dining-2": {
+"en": "Restaurant on Mäsiarska street.",
+"ko": "마시아르스카 거리의 레스토랑."
+},
+"kosice-fine_dining-3": {
+"en": "Restaurant on Hlavná street in Košice.",
+"ko": "흘라브나 거리의 레스토랑."
+},
+"kosice-korean-1": {
+"en": "Korean bistro on Žižkova street.",
+"ko": "지슈코바 거리의 한식 비스트로."
+},
+"kotor-cafe-2": {
+"en": "Café on the Old Town’s main square with Moscow cake.",
+"ko": "구시가 중앙 광장의 카페. 모스크바 케이크가 있습니다."
+},
+"kotor-fine_dining-2": {
+"en": "Kotor seafood restaurant open since 1931.",
+"ko": "1931년 문을 연 코토르의 해산물 식당."
+},
+"krakow-bakery-1": {
+"en": "Bakery café near Plac Bohaterów Getta with bread and bagels.",
+"ko": "게토 영웅 광장 근처의 빵집 겸 카페. 빵과 베이글이 있습니다."
+},
+"krakow-bakery-2": {
+"en": "Bakery and coffee shop with croissants and pastries.",
+"ko": "크루아상과 페이스트리가 있는 빵집 겸 커피숍."
+},
+"krakow-bakery-3": {
+"en": "Shop selling Hungarian-style chimney cakes.",
+"ko": "헝가리식 굴뚝빵(퀴르퇴시칼라치)을 파는 가게."
+},
+"krakow-bakery-4": {
+"en": "Confectionery with traditional Polish cakes.",
+"ko": "폴란드 전통 케이크를 파는 제과점."
+},
+"krakow-cafe-1": {
+"en": "Kraków bakery café chain selling pączki doughnuts.",
+"ko": "폰치키(잼 도넛)를 파는 크라쿠프의 빵집 겸 카페 체인."
+},
+"krakow-cafe-2": {
+"en": "Café in the heart of the Old Town.",
+"ko": "구시가 중심의 카페."
+},
+"krakow-cafe-5": {
+"en": "Old Town coffee shop that takes reservations.",
+"ko": "예약도 받는 구시가의 커피숍."
+},
+"krakow-fine_dining-2": {
+"en": "Polish restaurant near Wawel Castle.",
+"ko": "바벨성 근처의 폴란드 요리 식당."
+},
+"krakow-fine_dining-3": {
+"en": "Restaurant serving traditional Polish food.",
+"ko": "폴란드 전통 요리를 내는 식당."
+},
+"kutaisi-bakery-2": {
+"en": "Bakery serving meals and coffee.",
+"ko": "식사와 커피를 내는 빵집."
+},
+"kutaisi-cafe-1": {
+"en": "Kutaisi café with coffee and cakes.",
+"ko": "커피와 케이크가 있는 쿠타이시의 카페."
+},
+"kutaisi-cafe-2": {
+"en": "Coffee shop in Kutaisi.",
+"ko": "쿠타이시의 커피숍."
+},
+"kyiv-bakery-1": {
+"en": "Kyiv pâtisserie café blending French and Ukrainian pastry.",
+"ko": "프랑스와 우크라이나 제과를 결합한 키이우의 파티스리 카페."
+},
+"kyiv-bakery-2": {
+"en": "French-style sourdough pâtisserie inside the Good Wine store.",
+"ko": "굿와인 매장 안의 프랑스식 사워도우 파티스리."
+},
+"kyiv-cafe-1": {
+"en": "Kyiv coffee shop serving filter coffee and espresso drinks.",
+"ko": "필터 커피와 에스프레소를 내는 키이우의 커피숍."
+},
+"kyiv-cafe-3": {
+"en": "Cosy coffee shop with espresso tonic, cold brew and sweets.",
+"ko": "에스프레소 토닉·콜드브루와 디저트가 있는 아늑한 커피숍."
+},
+"kyiv-cafe-4": {
+"en": "Central Kyiv specialty coffee shop with espresso tonics and onion pies.",
+"ko": "에스프레소 토닉과 양파 파이가 있는 키이우 중심가의 스페셜티 커피숍."
+},
+"kyiv-fine_dining-2": {
+"en": "Restaurant in a 19th-century wooden house on Andriivskyi Descent, serving modern takes on Ukrainian dishes.",
+"ko": "안드리우스키 언덕의 19세기 목조 주택 레스토랑. 우크라이나 전통 요리를 현대적으로 냅니다."
+},
+"kyiv-fine_dining-3": {
+"en": "Craft brewery and restaurant just off Maidan Nezalezhnosti.",
+"ko": "독립 광장 근처의 크래프트 맥주 양조장 겸 레스토랑."
+},
+"kyiv-fine_dining-4": {
+"en": "Ukrainian restaurant on the Dnipro riverbank (since 1998) with river views.",
+"ko": "드니프로 강변의 우크라이나 식당(1998년부터). 강 전망이 있습니다."
+},
+"kyiv-korean-1": {
+"en": "Family-run Korean restaurant near Politekhnichnyi Instytut station.",
+"ko": "폴리테크니치니 인스티투트역 근처의 가족 운영 한식당."
+},
+"lagos-bakery-1": {
+"en": "Lagos pastry shop baking pastel de nata.",
+"ko": "파스텔 드 나타를 굽는 라구스의 제과점."
+},
+"lagos-bakery-2": {
+"en": "Family-run bakery since 1926 with pastel de nata.",
+"ko": "1926년부터 가족이 운영하는 빵집. 파스텔 드 나타가 있습니다."
+},
+"lagos-cafe-1": {
+"en": "Lagos brunch café that roasts its own coffee.",
+"ko": "원두를 직접 볶는 라구스의 브런치 커피숍."
+},
+"lagos-fine_dining-2": {
+"en": "Lagos restaurant serving cataplana in generous portions.",
+"ko": "카타플라나를 내는 라구스의 식당. 양이 넉넉합니다."
+},
+"lagos-fine_dining-3": {
+"en": "Family-run restaurant serving grilled swordfish, sea bass and other fish.",
+"ko": "황새치·농어 같은 생선구이를 내는 가족 운영 식당."
+},
+"limerick-bakery-4": {
+"en": "Limerick bakery that also makes wedding cakes.",
+"ko": "웨딩 케이크도 만드는 리머릭의 빵집."
+},
+"limerick-cafe-2": {
+"en": "Café in Limerick.",
+"ko": "리머릭의 카페."
+},
+"limerick-cafe-3": {
+"en": "Coffee shop in Limerick.",
+"ko": "리머릭의 커피숍."
+},
+"limerick-cafe-5": {
+"en": "Coffee shop in Limerick.",
+"ko": "리머릭의 커피숍."
+},
+"limerick-fine_dining-1": {
+"en": "Restaurant in Limerick.",
+"ko": "리머릭의 레스토랑."
+},
+"lisbon-korean-1": {
+"en": "Korean restaurant in Lisbon.",
+"ko": "리스본의 한식당."
+},
+"liverpool-bakery-1": {
+"en": "Bakery at the Royal Albert Dock with croissants.",
+"ko": "로열 앨버트 독의 빵집. 크루아상이 있습니다."
+},
+"liverpool-bakery-3": {
+"en": "Sourdough bakery.",
+"ko": "사워도우를 굽는 빵집."
+},
+"liverpool-fine_dining-2": {
+"en": "Restaurant in the city centre.",
+"ko": "시내 중심의 레스토랑."
+},
+"liverpool-fine_dining-5": {
+"en": "Restaurant in south Liverpool.",
+"ko": "리버풀 남부의 레스토랑."
+},
+"ljubljana-cafe-3": {
+"en": "Coffee shop on Stari trg where you can choose your beans.",
+"ko": "스타리 광장의 커피숍. 원두를 골라 마실 수 있습니다."
+},
+"ljubljana-fine_dining-2": {
+"en": "Restaurant of chef Janez Bratovž in Radomlje near Ljubljana, serving tasting menus.",
+"ko": "류블랴나 근교 라돔리에의 셰프 야네즈 브라토브시 레스토랑. 테이스팅 메뉴를 냅니다."
+},
+"ljubljana-fine_dining-3": {
+"en": "Restaurant on Čopova street with steaks and pasta.",
+"ko": "촙바 거리의 레스토랑. 스테이크와 파스타가 있습니다."
+},
+"ljubljana-fine_dining-4": {
+"en": "Traditional Slovenian gostilna on Ciril-Metodov square.",
+"ko": "치릴-메토드 광장의 슬로베니아 전통 선술집."
+},
+"ljubljana-korean-1": {
+"en": "Korean restaurant on Kolodvorska street.",
+"ko": "콜로드보르스카 거리의 한식당."
+},
+"lucca-bakery-2": {
+"en": "Long-established shop selling pizza by the slice and castagnaccio.",
+"ko": "조각 피자와 카스타냐초를 파는 오래된 가게."
+},
+"lucca-fine_dining-1": {
+"en": "Lucca restaurant operating since 1782.",
+"ko": "1782년부터 이어진 루카의 레스토랑."
+},
+"lviv-bakery-1": {
+"en": "Lviv bakery selling syrnyk, a Ukrainian cheesecake.",
+"ko": "우크라이나식 치즈케이크 시르니크를 파는 리비우의 빵집."
+},
+"lviv-bakery-2": {
+"en": "Lviv branch of a Ukrainian bakery chain with many filled croissants.",
+"ko": "여러 가지 속을 채운 크루아상을 파는 우크라이나 빵집 체인의 리비우 매장."
+},
+"lviv-cafe-1": {
+"en": "Three-storey coffee house overlooking the cathedral square.",
+"ko": "대성당 광장이 보이는 3층짜리 커피하우스."
+},
+"lviv-cafe-2": {
+"en": "Café inside the town hall on Rynok Square, with Leopolis napoleon cake.",
+"ko": "리노크 광장 시청사 안의 카페. 나폴레옹 케이크 레오폴리스가 있습니다."
+},
+"lviv-fine_dining-1": {
+"en": "Restaurant on Lviv’s Cathedral Square with an old Austrian-style interior.",
+"ko": "대성당 광장의 옛 오스트리아풍 레스토랑."
+},
+"lyon-bakery-2": {
+"en": "Bakery on Place Saint-Paul.",
+"ko": "생폴 광장의 빵집."
+},
+"lyon-bakery-3": {
+"en": "Bakery run by the Pralus chocolate house.",
+"ko": "초콜릿 브랜드 프랄뤼가 운영하는 빵집."
+},
+"lyon-bakery-4": {
+"en": "French pastry chain selling meringue-based merveilleux.",
+"ko": "머랭 케이크 메르베유를 파는 프랑스 제과 체인."
+},
+"lyon-bakery-5": {
+"en": "Artisan bakery in Lyon.",
+"ko": "리옹의 아르티장 빵집."
+},
+"lyon-cafe-3": {
+"en": "Lyon specialty coffee roastery, started in 2011.",
+"ko": "2011년 시작한 리옹의 스페셜티 커피 로스터리."
+},
+"lyon-fine_dining-3": {
+"en": "Bouchon in the Ainay district serving Lyon salad.",
+"ko": "아네 지구의 부숑(리옹식 식당). 리옹식 샐러드가 있습니다."
+},
+"lyon-korean-1": {
+"en": "Restaurant serving Japanese and Korean food.",
+"ko": "일식과 한식을 함께 내는 식당."
+},
+"maastricht-bakery-1": {
+"en": "Bakery in a historic watermill baking Limburg vlaai.",
+"ko": "림뷔르흐 파이(플라이)를 굽는 옛 물레방아 빵집."
+},
+"madrid-bakery-5": {
+"en": "Sourdough bakery in the Chamberí district.",
+"ko": "참베리 지구의 사워도우 빵집."
+},
+"madrid-cafe-5": {
+"en": "Specialty coffee shop in the Chamberí district.",
+"ko": "참베리 지구의 스페셜티 커피숍."
+},
+"madrid-fine_dining-2": {
+"en": "Long-established restaurant in Madrid.",
+"ko": "마드리드의 오래된 식당."
+},
+"madrid-korean-1": {
+"en": "Korean restaurant in Madrid.",
+"ko": "마드리드의 한식당."
+},
+"madrid-korean-3": {
+"en": "Korean barbecue restaurant in the Chueca district.",
+"ko": "추에카 지구의 한국식 바비큐 식당."
+},
+"malaga-bakery-1": {
+"en": "Family-run Málaga pastry shop with holiday sweets and pastries.",
+"ko": "명절 과자와 페이스트리를 파는 말라가의 가족 운영 제과점."
+},
+"malaga-cafe-1": {
+"en": "Málaga café serving coffee and breakfast.",
+"ko": "커피와 아침 식사를 내는 말라가의 카페."
+},
+"malaga-cafe-3": {
+"en": "Specialty coffee shop in Málaga.",
+"ko": "말라가의 스페셜티 커피숍."
+},
+"malaga-fine_dining-2": {
+"en": "Tavern serving traditional tapas; queues are common.",
+"ko": "전통 타파스를 내는 타베르나. 줄을 설 때가 많습니다."
+},
+"malaga-fine_dining-3": {
+"en": "Restaurant serving artichokes and Málaga-style gazpachuelo.",
+"ko": "아티초크와 말라가식 가스파추엘로를 내는 식당."
+},
+"malaga-korean-1": {
+"en": "Small Korean restaurant serving bulgogi and fried chicken.",
+"ko": "불고기와 한국식 치킨을 내는 작은 한식당."
+},
+"malbun-bakery-1": {
+"en": "Malbun alpine hotel with a breakfast buffet of local produce.",
+"ko": "지역 재료로 아침 뷔페를 내는 말분의 알프스 호텔."
+},
+"malmo-bakery-1": {
+"en": "Malmö konditori opened in 1903, with princess cake.",
+"ko": "1903년 문을 연 말뫼의 콘디토리(제과점). 프린세스 케이크가 있습니다."
+},
+"malmo-bakery-2": {
+"en": "Wood-fired bakery with several Malmö branches, with cardamom buns.",
+"ko": "말뫼 시내에 여러 지점을 둔 장작 화덕 빵집. 카다멈 번이 있습니다."
+},
+"malmo-bakery-3": {
+"en": "Bakery with sourdough, cardamom buns and wood-fired pizza.",
+"ko": "사워도우·카다멈 번·장작 화덕 피자가 있는 빵집."
+},
+"manchester-bakery-1": {
+"en": "Sourdough bakery.",
+"ko": "사워도우를 굽는 빵집."
+},
+"manchester-bakery-3": {
+"en": "Bakery with cinnamon buns and brunch.",
+"ko": "시나몬번과 브런치가 있는 빵집."
+},
+"mantua-fine_dining-1": {
+"en": "Simple osteria serving pumpkin tortelli and risotto alla pilota.",
+"ko": "호박 토르텔리와 리소토 알라 필로타를 내는 소박한 오스테리아."
+},
+"mantua-fine_dining-2": {
+"en": "Restaurant on the square facing Palazzo Ducale, serving tortelli di zucca.",
+"ko": "두칼레 궁전 앞 광장에서 호박 토르텔리를 내는 식당."
+},
+"maribor-bakery-1": {
+"en": "Maribor bakery café with Slovenian home cooking, desserts and baked goods.",
+"ko": "슬로베니아 가정식과 디저트, 빵이 있는 마리보르의 빵집 겸 카페."
+},
+"maribor-bakery-2": {
+"en": "Bakery on Ruska ulica in Maribor.",
+"ko": "루스카 거리의 빵집."
+},
+"maribor-cafe-1": {
+"en": "Small specialty coffee shop in Maribor.",
+"ko": "마리보르의 작은 스페셜티 커피숍."
+},
+"maribor-cafe-2": {
+"en": "Café on Partizanska cesta in Maribor.",
+"ko": "파르티잔스카 대로의 카페."
+},
+"maribor-cafe-3": {
+"en": "Coffee shop on Ulica 10. oktobra in Maribor.",
+"ko": "10월 10일 거리의 커피숍."
+},
+"maribor-fine_dining-3": {
+"en": "Restaurant on Cafova ulica in Maribor.",
+"ko": "차포바 거리의 레스토랑."
+},
+"maribor-fine_dining-4": {
+"en": "Restaurant and bar on Ulica kneza Koclja in Maribor.",
+"ko": "크네자 코클랴 거리의 레스토랑 겸 바."
+},
+"maribor-fine_dining-5": {
+"en": "Balkan restaurant on Poštna ulica in Maribor.",
+"ko": "포슈트나 거리의 발칸 요리 식당."
+},
+"marseille-bakery-1": {
+"en": "Marseille bakery operating since 1781.",
+"ko": "1781년부터 이어진 마르세유의 빵집."
+},
+"marseille-bakery-2": {
+"en": "Bakery making bread and pastries with organic flour.",
+"ko": "유기농 밀가루로 빵과 페이스트리를 굽는 빵집."
+},
+"marseille-cafe-1": {
+"en": "Coffee café in Marseille.",
+"ko": "마르세유의 커피 카페."
+},
+"marseille-fine_dining-3": {
+"en": "Provençal restaurant overlooking the Old Port (since 1995) serving bouillabaisse.",
+"ko": "구항구가 보이는 프로방스 식당(1995년부터). 부야베스가 있습니다."
+},
+"marseille-fine_dining-4": {
+"en": "Bouillabaisse restaurant in the fishing cove of Vallon des Auffes.",
+"ko": "어촌 발롱 데 조프의 부야베스 식당."
+},
+"marseille-fine_dining-5": {
+"en": "Restaurant with coastal views, operating since 1885.",
+"ko": "1885년부터 이어진 해안 전망 레스토랑."
+},
+"matera-fine_dining-2": {
+"en": "Restaurant in a tufa cave.",
+"ko": "응회암 동굴 속 레스토랑."
+},
+"mdina-bakery-3": {
+"en": "24-hour bakery in Rabat.",
+"ko": "24시간 여는 라바트의 빵집."
+},
+"mdina-cafe-3": {
+"en": "Café on Villegaignon Street.",
+"ko": "빌레가뇽 거리의 카페."
+},
+"mdina-fine_dining-4": {
+"en": "Rooftop fine-dining restaurant at the Xara Palace hotel.",
+"ko": "사라 팰리스 호텔 옥상의 파인다이닝 레스토랑."
+},
+"milan-bakery-1": {
+"en": "Milan pastry shop near Castello Sforzesco, operating since 1824.",
+"ko": "스포르체스코 성 근처, 1824년부터 이어진 밀라노의 제과점."
+},
+"milan-bakery-2": {
+"en": "Bakery with many kinds of croissants.",
+"ko": "크루아상을 다양하게 굽는 빵집."
+},
+"milan-cafe-1": {
+"en": "Cake shop and café on Via Montenapoleone.",
+"ko": "몬테나폴레오네 거리의 케이크 가게 겸 카페."
+},
+"milan-cafe-2": {
+"en": "Coffee shop in Milan.",
+"ko": "밀라노의 커피숍."
+},
+"milan-cafe-3": {
+"en": "Café in Milan.",
+"ko": "밀라노의 카페."
+},
+"milan-cafe-5": {
+"en": "Coffee shop in Milan.",
+"ko": "밀라노의 커피숍."
+},
+"milan-fine_dining-1": {
+"en": "Milanese-Lombard restaurant in a converted railway building, serving risotto alla milanese.",
+"ko": "옛 철도 건물을 고친 밀라노·롬바르디아 요리 식당. 리조토 알라 밀라네제가 있습니다."
+},
+"milan-korean-1": {
+"en": "Korean restaurant serving dolsot bibimbap.",
+"ko": "돌솥비빔밥을 내는 한식당."
+},
+"milan-korean-2": {
+"en": "Korean restaurant in Milan.",
+"ko": "밀라노의 한식당."
+},
+"monaco-bakery-1": {
+"en": "Monaco bakery open since 1958, with barbajuans.",
+"ko": "1958년 문을 연 모나코의 빵집. 모나코 튀김 만두 바르바주앙이 있습니다."
+},
+"monaco-cafe-1": {
+"en": "Robuchon-branded deli-café with coffee and pastries.",
+"ko": "커피와 페이스트리가 있는 로부숑 이름의 델리 겸 카페."
+},
+"monaco-fine_dining-4": {
+"en": "Belle Époque-style brasserie beside the Casino square.",
+"ko": "카지노 광장 옆 벨 에포크풍 브라스리."
+},
+"monaco-fine_dining-5": {
+"en": "Steak restaurant open since 2005.",
+"ko": "2005년 문을 연 스테이크 레스토랑."
+},
+"monte-carlo-bakery-1": {
+"en": "Monte Carlo pastry shop operating since 1955.",
+"ko": "1955년부터 이어진 몬테카를로의 제과점."
+},
+"monte-carlo-cafe-1": {
+"en": "Café in the Metropole Shopping Center.",
+"ko": "메트로폴 쇼핑센터 안의 카페."
+},
+"montepulciano-fine_dining-2": {
+"en": "Small osteria serving bistecca alla fiorentina.",
+"ko": "비스테카 알라 피오렌티나를 내는 작은 오스테리아."
+},
+"montpellier-bakery-2": {
+"en": "Bakery in Montpellier.",
+"ko": "몽펠리에의 빵집."
+},
+"montpellier-bakery-3": {
+"en": "Pastry shop on Rue Saint-Guilhem.",
+"ko": "생기욤 거리의 제과점."
+},
+"montpellier-bakery-5": {
+"en": "Bakery on Boulevard Victor Hugo.",
+"ko": "빅토르 위고 대로의 빵집."
+},
+"montpellier-fine_dining-1": {
+"en": "Montpellier restaurant with garden views.",
+"ko": "정원이 보이는 몽펠리에의 레스토랑."
+},
+"mykonos-bakery-3": {
+"en": "Mykonos bakery with a traditional wood-fired oven.",
+"ko": "전통 장작 화덕으로 굽는 미코노스의 빵집."
+},
+"mykonos-bakery-4": {
+"en": "Bakery in central Chora.",
+"ko": "초라 중심가의 빵집."
+},
+"mykonos-cafe-1": {
+"en": "Café-restaurant in Little Venice with a seaside terrace.",
+"ko": "리틀 베니스의 바다 전망 테라스가 있는 카페 겸 레스토랑."
+},
+"mykonos-cafe-4": {
+"en": "Café in the Argyraina area.",
+"ko": "아르기라이나 지역의 카페."
+},
+"mykonos-fine_dining-1": {
+"en": "Restaurant in Mykonos Town.",
+"ko": "미코노스 타운의 레스토랑."
+},
+"nafplio-bakery-2": {
+"en": "Old Town bakery café in Nafplio with breakfast and pastries.",
+"ko": "아침 식사와 페이스트리가 있는 나프플리오 구시가의 빵집 겸 카페."
+},
+"nafplio-cafe-2": {
+"en": "Nafplio coffee shop open from morning to midnight.",
+"ko": "아침부터 자정까지 여는 나프플리오의 커피숍."
+},
+"naples-bakery-2": {
+"en": "Sfogliatella shop near Naples central station.",
+"ko": "나폴리 중앙역 근처의 스폴리아텔라 가게."
+},
+"naples-cafe-1": {
+"en": "Naples literary café operating since 1860.",
+"ko": "1860년부터 이어진 나폴리의 문학 카페."
+},
+"naples-cafe-3": {
+"en": "Café and bistro in Naples.",
+"ko": "나폴리의 카페 겸 비스트로."
+},
+"naples-cafe-5": {
+"en": "Espresso bar in Naples.",
+"ko": "나폴리의 에스프레소 바."
+},
+"naples-fine_dining-2": {
+"en": "Pizzeria serving Neapolitan pizza.",
+"ko": "나폴리 피자를 내는 피체리아."
+},
+"naples-fine_dining-3": {
+"en": "Pizzeria serving Neapolitan pizza.",
+"ko": "나폴리 피자를 내는 피체리아."
+},
+"naxos-fine_dining-2": {
+"en": "Taverna serving creative dishes from organic produce.",
+"ko": "유기농 재료로 창작 요리를 내는 타베르나."
+},
+"nazare-bakery-1": {
+"en": "Nazaré pastry shop.",
+"ko": "페이스트리를 굽는 나자레의 제과점."
+},
+"nazare-cafe-1": {
+"en": "Nazaré brunch coffee shop with a modern interior.",
+"ko": "모던한 실내의 나자레 브런치 커피숍."
+},
+"nazare-fine_dining-1": {
+"en": "Nazaré restaurant with Atlantic views.",
+"ko": "대서양이 보이는 나자레의 레스토랑."
+},
+"nazare-fine_dining-2": {
+"en": "Nazaré seafood restaurant serving seafood rice with lobster.",
+"ko": "랍스터 해산물 밥을 내는 나자레의 해산물 식당."
+},
+"nerja-bakery-1": {
+"en": "Nerja bakery baking French-style croissants.",
+"ko": "프랑스식 크루아상을 굽는 네르하의 빵집."
+},
+"nerja-bakery-3": {
+"en": "Bakery with pastries and a range of bread.",
+"ko": "페이스트리와 빵을 파는 빵집."
+},
+"nerja-cafe-1": {
+"en": "Nerja café with freshly baked pastries and coffee.",
+"ko": "갓 구운 페이스트리와 커피가 있는 네르하의 카페."
+},
+"nerja-fine_dining-2": {
+"en": "Local bar serving seafood tapas.",
+"ko": "해산물 타파스를 내는 동네 바."
+},
+"nice-bakery-1": {
+"en": "Pâtisserie in Nice.",
+"ko": "니스의 제과점."
+},
+"nice-bakery-2": {
+"en": "Old Town bakery near the Nice Opera House with croissants.",
+"ko": "니스 오페라 극장 근처 구시가의 빵집. 크루아상이 있습니다."
+},
+"nice-cafe-1": {
+"en": "Organic Nice bakery café with chocolate buns.",
+"ko": "초콜릿 번이 있는 니스의 유기농 빵집 겸 카페."
+},
+"nice-fine_dining-2": {
+"en": "Socca (chickpea pancake) shop baking in a wood-fired oven since 1923.",
+"ko": "1923년부터 장작 오븐으로 소카(병아리콩 전병)를 굽는 가게."
+},
+"nis-bakery-1": {
+"en": "Niš bakery with apple rolls and chocolate croissants.",
+"ko": "애플롤과 초콜릿 크루아상이 있는 니시의 빵집."
+},
+"nis-bakery-2": {
+"en": "Bakery in the Apelovac district of Niš.",
+"ko": "아펠로바츠 지구의 빵집."
+},
+"nis-cafe-1": {
+"en": "Niš café with plenty of parking.",
+"ko": "주차 공간이 넓은 니시의 카페."
+},
+"novi-sad-bakery-1": {
+"en": "Novi Sad bakery chain with bread, pastries and cookies.",
+"ko": "빵·페이스트리·쿠키를 파는 노비사드의 빵집 체인."
+},
+"novi-sad-bakery-2": {
+"en": "Bakery chain outlet in Novi Sad’s old town.",
+"ko": "노비사드 구시가의 빵집 체인 매장."
+},
+"novi-sad-cafe-1": {
+"en": "Novi Sad café with a modern feel.",
+"ko": "모던한 분위기의 노비사드 카페."
+},
+"novi-sad-cafe-2": {
+"en": "Café and dessert shop on Bulevar cara Lazara.",
+"ko": "차라 라자라 대로의 카페 겸 디저트 가게."
+},
+"novi-sad-cafe-3": {
+"en": "Café and gallery bar on Trg slobode, the main square.",
+"ko": "중앙 광장(트르그 슬로보데)의 카페 겸 갤러리 바."
+},
+"novi-sad-fine_dining-2": {
+"en": "Serbian restaurant on Fisherman’s Island (Ribarsko ostrvo) serving fish.",
+"ko": "어부의 섬(리바르스코 오스트르보)의 세르비아 식당. 생선 요리가 있습니다."
+},
+"novi-sad-fine_dining-3": {
+"en": "Serbian grill restaurant in the Rotkvarija district.",
+"ko": "로트크바리야 지구의 세르비아식 그릴 식당."
+},
+"obidos-bakery-1": {
+"en": "Óbidos café with coffee and cakes.",
+"ko": "커피와 케이크가 있는 오비두스의 카페."
+},
+"obidos-fine_dining-1": {
+"en": "Restaurant in Óbidos.",
+"ko": "오비두스의 레스토랑."
+},
+"obidos-fine_dining-2": {
+"en": "Traditional Portuguese restaurant near the town walls.",
+"ko": "성벽 근처의 포르투갈 전통 식당."
+},
+"odesa-bakery-1": {
+"en": "Odesa bakery with cheesecakes (opened 2020).",
+"ko": "치즈케이크가 있는 오데사의 빵집(2020년 개업)."
+},
+"odesa-bakery-2": {
+"en": "American-style bakery near Shevchenko Park with croissants and handmade bread.",
+"ko": "셰우첸코 공원 근처의 미국풍 빵집. 크루아상과 수제 빵이 있습니다."
+},
+"odesa-cafe-1": {
+"en": "Coffee roastery café in Odesa.",
+"ko": "오데사의 커피 로스터리 카페."
+},
+"odesa-cafe-2": {
+"en": "Vintage-styled coffee house beneath the City Garden.",
+"ko": "시티 가든 아래의 빈티지풍 커피하우스."
+},
+"odesa-fine_dining-1": {
+"en": "Italian wine bistro serving wood-fired pizza and wine.",
+"ko": "장작 화덕 피자와 와인을 내는 이탈리아 와인 비스트로."
+},
+"odesa-fine_dining-3": {
+"en": "Restaurant on French Boulevard serving Ukrainian and European home cooking.",
+"ko": "프랑스 대로의 우크라이나·유럽 가정식 식당."
+},
+"ohrid-bakery-1": {
+"en": "Long-established Ohrid bakery selling burek.",
+"ko": "부렉을 파는 오흐리드의 오래된 빵집."
+},
+"ohrid-bakery-4": {
+"en": "Bakery on 7-mi Noemvri street.",
+"ko": "11월 7일 거리의 빵집."
+},
+"ohrid-cafe-5": {
+"en": "Coffee shop on St Clement of Ohrid street.",
+"ko": "성 클레멘트 거리의 커피숍."
+},
+"ohrid-fine_dining-2": {
+"en": "Bistro on Dimitar Vlahov street.",
+"ko": "디미타르 블라호프 거리의 비스트로."
+},
+"ohrid-fine_dining-3": {
+"en": "Fish restaurant cooking Lake Ohrid catch.",
+"ko": "오흐리드 호수 생선을 요리하는 식당."
+},
+"ohrid-fine_dining-4": {
+"en": "Restaurant on Ohrid’s lakeside promenade.",
+"ko": "오흐리드 호숫가 산책로의 레스토랑."
+},
+"olbia-fine_dining-1": {
+"en": "Seafood restaurant on Porto Cervo’s old harbour.",
+"ko": "포르토 체르보 옛 항구의 해산물 레스토랑."
+},
+"olbia-fine_dining-3": {
+"en": "Cosy restaurant serving octopus.",
+"ko": "문어 요리를 내는 아늑한 식당."
+},
+"orheiul-vechi-bakery-2": {
+"en": "Roadside bakery on the Orhei–Chișinău road with plăcintă pies.",
+"ko": "오르헤이-키시너우 도로변의 빵집. 플러친타가 있습니다."
+},
+"oxford-bakery-1": {
+"en": "Bakery baking sourdough.",
+"ko": "사워도우를 굽는 빵집."
+},
+"oxford-cafe-1": {
+"en": "Specialty coffee shop in Oxford.",
+"ko": "옥스퍼드의 스페셜티 커피숍."
+},
+"palermo-bakery-1": {
+"en": "Palermo pastry shop with ricotta cornetti.",
+"ko": "리코타 코르네토가 있는 팔레르모의 제과점."
+},
+"palermo-bakery-2": {
+"en": "Cake shop in Palermo.",
+"ko": "팔레르모의 케이크 가게."
+},
+"palermo-bakery-5": {
+"en": "Pastry shop in Palermo.",
+"ko": "팔레르모의 제과점."
+},
+"palermo-cafe-2": {
+"en": "Breakfast café on a main street.",
+"ko": "큰길가의 아침 식사 카페."
+},
+"palermo-fine_dining-1": {
+"en": "Restaurant in Palermo.",
+"ko": "팔레르모의 레스토랑."
+},
+"palermo-fine_dining-2": {
+"en": "Palermo street-food shop selling pane con la milza (spleen sandwiches).",
+"ko": "판 콘 라 밀차(비장 샌드위치)를 파는 팔레르모 길거리 음식 가게."
+},
+"palma-bakery-1": {
+"en": "Palma bakery making ensaïmadas since 1910.",
+"ko": "1910년부터 엔사이마다를 만드는 팔마의 빵집."
+},
+"palma-bakery-3": {
+"en": "Central Palma pâtisserie with croissants and cakes.",
+"ko": "크루아상과 케이크가 있는 팔마 시내의 제과점."
+},
+"palma-bakery-4": {
+"en": "Neighbourhood bakery in Coll d’en Rabassa.",
+"ko": "콜 덴 라바사 지역의 동네 빵집."
+},
+"palma-cafe-2": {
+"en": "Specialty coffee roastery in Majorca.",
+"ko": "마요르카의 스페셜티 커피 로스터리."
+},
+"palma-fine_dining-4": {
+"en": "Restaurant serving traditional Majorcan home cooking.",
+"ko": "마요르카 가정식을 내는 식당."
+},
+"palma-korean-3": {
+"en": "Restaurant serving bibimbap and other Korean and Asian dishes.",
+"ko": "비빔밥 등 한식과 아시아 요리를 내는 식당."
+},
+"pamukkale-bakery-1": {
+"en": "Family-run eatery making gözleme in front of you.",
+"ko": "눈앞에서 괴즐레메를 만들어 주는 가족 운영 식당."
+},
+"pamukkale-cafe-1": {
+"en": "Pamukkale coffee shop with iced coffee.",
+"ko": "아이스커피가 있는 파묵칼레의 커피숍."
+},
+"pamukkale-fine_dining-1": {
+"en": "Pamukkale restaurant serving local food and wine.",
+"ko": "지역 요리와 와인을 내는 파묵칼레의 레스토랑."
+},
+"paris-bakery-1": {
+"en": "Bakery with sourdough and pastries.",
+"ko": "사워도우와 페이스트리를 파는 빵집."
+},
+"paris-bakery-2": {
+"en": "Bakery in Paris.",
+"ko": "파리의 빵집."
+},
+"paris-bakery-5": {
+"en": "Bakery in the 11th arrondissement.",
+"ko": "11구의 빵집."
+},
+"paris-cafe-5": {
+"en": "Specialty coffee roastery near the Canal Saint-Martin.",
+"ko": "생마르탱 운하 근처의 스페셜티 커피 로스터리."
+},
+"paris-korean-1": {
+"en": "Korean restaurant in Paris.",
+"ko": "파리의 한식당."
+},
+"paris-korean-2": {
+"en": "Korean restaurant on Rue Sainte-Anne.",
+"ko": "생트안 거리의 한식당."
+},
+"paris-korean-4": {
+"en": "Korean snack bar serving fried chicken with beer and tteokbokki.",
+"ko": "치킨·맥주와 떡볶이를 내는 한식 분식집."
+},
+"parma-bakery-1": {
+"en": "Pastry shop with cannoncini and gianduiotti.",
+"ko": "칸노치니와 잔두이오티를 파는 제과점."
+},
+"parma-fine_dining-2": {
+"en": "Restaurant serving torta fritta with prosciutto platters.",
+"ko": "토르타 프리타와 프로슈토 모둠을 내는 식당."
+},
+"parnu-bakery-1": {
+"en": "Bakery café on the banks of the River Reiu.",
+"ko": "레이우 강변의 빵집 겸 카페."
+},
+"parnu-fine_dining-1": {
+"en": "Restaurant in Pärnu.",
+"ko": "패르누의 레스토랑."
+},
+"parnu-fine_dining-2": {
+"en": "Restaurant in Pärnu.",
+"ko": "패르누의 레스토랑."
+},
+"pecs-bakery-1": {
+"en": "Pastry shop in front of the Palace of the Post Office in Pécs.",
+"ko": "페치 우체국 궁전 앞의 페이스트리 가게."
+},
+"pecs-bakery-2": {
+"en": "Cake shop in Pécs.",
+"ko": "페치의 케이크 가게."
+},
+"peja-cafe-1": {
+"en": "Café and lounge by the river flowing down from Rugova.",
+"ko": "루고바에서 흘러오는 강변의 카페 겸 라운지."
+},
+"peja-fine_dining-2": {
+"en": "Restaurant near Mete Bajraktari Plaza with wood-fired dishes.",
+"ko": "메테 바이락타리 광장 근처의 레스토랑. 장작 화덕 요리가 있습니다."
+},
+"piran-bakery-1": {
+"en": "Bakery near the market by Tartini Square.",
+"ko": "타르티니 광장 근처 시장가의 빵집."
+},
+"piran-cafe-2": {
+"en": "Café and bar on the Prešernovo nabrežje waterfront.",
+"ko": "프레셰르노보 해안 산책로의 카페 겸 바."
+},
+"piran-fine_dining-1": {
+"en": "Family-run Piran restaurant using fish from local fishermen.",
+"ko": "지역 어부의 생선을 쓰는 피란의 가족 운영 식당."
+},
+"piran-fine_dining-2": {
+"en": "Seafood restaurant in the Fornače area of Piran.",
+"ko": "포르나체 지역의 해산물 식당."
+},
+"piran-fine_dining-3": {
+"en": "Restaurant on Gallusova ulica in Piran.",
+"ko": "갈루소바 거리의 레스토랑."
+},
+"podgorica-bakery-1": {
+"en": "Podgorica bakery chain with pastries and pizza.",
+"ko": "페이스트리와 피자를 파는 포드고리차의 빵집 체인."
+},
+"podgorica-cafe-1": {
+"en": "Small coffee café in Podgorica.",
+"ko": "포드고리차의 작은 커피 카페."
+},
+"podgorica-fine_dining-2": {
+"en": "Restaurant in Podgorica.",
+"ko": "포드고리차의 식당."
+},
+"poprad-bakery-1": {
+"en": "Bakery inside the Forum shopping centre with cakes and pastries.",
+"ko": "포룸 쇼핑센터 안의 빵집. 케이크와 페이스트리가 있습니다."
+},
+"poprad-cafe-1": {
+"en": "Coffee shop in central Poprad.",
+"ko": "포프라트 중심가의 커피숍."
+},
+"poprad-cafe-2": {
+"en": "Café and brew bar on Na letisko street.",
+"ko": "나 레티스코 거리의 카페 겸 브루 바."
+},
+"poprad-fine_dining-3": {
+"en": "Restaurant on Velické námestie in Poprad.",
+"ko": "벨리츠케 광장의 레스토랑."
+},
+"porto-bakery-1": {
+"en": "Porto bakery baking pastéis de nata.",
+"ko": "파스텔 드 나타를 굽는 포르투의 빵집."
+},
+"porto-cafe-1": {
+"en": "Specialty coffee shop in the Bonfim neighbourhood.",
+"ko": "봉핑 지구의 스페셜티 커피숍."
+},
+"porto-fine_dining-2": {
+"en": "Porto restaurant serving francesinha.",
+"ko": "프란세지냐를 내는 포르투의 식당."
+},
+"porto-fine_dining-3": {
+"en": "Restaurant serving francesinha since 1959.",
+"ko": "1959년부터 프란세지냐를 내는 식당."
+},
+"porto-fine_dining-4": {
+"en": "Small restaurant serving francesinha.",
+"ko": "프란세지냐를 내는 작은 식당."
+},
+"portofino-bakery-2": {
+"en": "Portofino bakery open since 1911, with onion and cheese focaccia.",
+"ko": "1911년 문을 연 포르토피노의 빵집. 양파·치즈 포카치아가 있습니다."
+},
+"portofino-fine_dining-1": {
+"en": "Seafood restaurant on the harbour piazzetta.",
+"ko": "항구 광장의 해산물 레스토랑."
+},
+"porvoo-bakery-1": {
+"en": "Old Town shop of a Porvoo chocolate and sweets brand.",
+"ko": "포르보 초콜릿·사탕 브랜드의 구시가 매장."
+},
+"porvoo-cafe-2": {
+"en": "Old Town café serving Runeberg’s cake.",
+"ko": "루네베리 케이크가 있는 구시가 카페."
+},
+"porvoo-fine_dining-1": {
+"en": "One-Michelin-star restaurant in a 1920s former chocolate factory.",
+"ko": "1920년대 초콜릿 공장 건물의 미쉐린 1스타 레스토랑."
+},
+"positano-bakery-1": {
+"en": "Pastry shop with desserts such as delizia al limone.",
+"ko": "델리치아 알 리모네 같은 디저트를 파는 제과점."
+},
+"positano-fine_dining-1": {
+"en": "Cliffside family restaurant (since 1958) serving seafood scialatielli.",
+"ko": "절벽 위 가족 식당(1958년부터). 해산물 스칼라티엘리가 있습니다."
+},
+"postojna-bakery-1": {
+"en": "Bakery in central Postojna with bread, pastries and traditional desserts.",
+"ko": "빵·페이스트리·전통 디저트를 파는 포스토이나 중심가의 빵집."
+},
+"postojna-cafe-2": {
+"en": "Café on Novi trg square in Postojna.",
+"ko": "노비 광장의 카페."
+},
+"postojna-cafe-3": {
+"en": "Coffee shop on Ljubljanska cesta in Postojna.",
+"ko": "류블랸스카 거리의 커피숍."
+},
+"postojna-fine_dining-1": {
+"en": "Postojna bistro giving traditional food a modern touch.",
+"ko": "전통 요리를 현대적으로 내는 포스토이나의 비스트로."
+},
+"postojna-fine_dining-2": {
+"en": "Restaurant on Tržaška cesta in Postojna.",
+"ko": "트르자슈카 대로의 레스토랑."
+},
+"poznan-bakery-1": {
+"en": "Poznań bakery café with croissants and bread.",
+"ko": "크루아상과 빵이 있는 포즈난의 빵집 겸 카페."
+},
+"poznan-bakery-2": {
+"en": "Shop selling Poznań’s St Martin’s croissant (rogal świętomarciński).",
+"ko": "포즈난의 성 마르틴 크루아상(로갈)을 파는 가게."
+},
+"poznan-cafe-2": {
+"en": "Café and restaurant in Poznań.",
+"ko": "포즈난의 카페 겸 레스토랑."
+},
+"poznan-cafe-3": {
+"en": "Café in Poznań.",
+"ko": "포즈난의 카페."
+},
+"poznan-cafe-4": {
+"en": "Coffee café in Poznań.",
+"ko": "포즈난의 커피 카페."
+},
+"poznan-fine_dining-2": {
+"en": "Polish country-style restaurant on the Old Market Square.",
+"ko": "구시장 광장의 폴란드 시골 요리 식당."
+},
+"poznan-fine_dining-5": {
+"en": "Poznań restaurant; booking advised.",
+"ko": "포즈난의 레스토랑. 예약하는 편이 좋습니다."
+},
+"pristina-bakery-1": {
+"en": "Prishtina bakery with a white interior.",
+"ko": "흰 인테리어의 프리슈티나 빵집."
+},
+"pristina-bakery-2": {
+"en": "Prishtina bakery baking burek.",
+"ko": "부렉을 굽는 프리슈티나의 빵집."
+},
+"pristina-cafe-3": {
+"en": "Café on Nënë Tereza Boulevard serving macchiato.",
+"ko": "마더 테레사 대로의 카페. 마키아토가 있습니다."
+},
+"pristina-fine_dining-1": {
+"en": "Italian fine-dining restaurant in Prishtina.",
+"ko": "프리슈티나의 이탈리아 파인다이닝 레스토랑."
+},
+"pristina-fine_dining-2": {
+"en": "Prishtina restaurant serving grilled meats and traditional stews (since 1992).",
+"ko": "그릴 요리와 전통 스튜를 내는 프리슈티나의 식당(1992년부터)."
+},
+"pristina-fine_dining-3": {
+"en": "Prishtina restaurant serving steaks and seafood.",
+"ko": "스테이크와 해산물을 내는 프리슈티나의 레스토랑."
+},
+"pristina-fine_dining-5": {
+"en": "Prishtina Mediterranean restaurant with steaks.",
+"ko": "스테이크가 있는 프리슈티나의 지중해 레스토랑."
+},
+"prizren-bakery-1": {
+"en": "Prizren bakery café with pastries and coffee.",
+"ko": "페이스트리와 커피가 있는 프리즈렌의 빵집 겸 카페."
+},
+"prizren-bakery-2": {
+"en": "Prizren dessert shop with baklava and cakes.",
+"ko": "바클라바와 케이크를 파는 프리즈렌의 디저트 가게."
+},
+"prizren-cafe-1": {
+"en": "Café on the Bistrica River (since 2009) with trileçe cake.",
+"ko": "비스트리차 강변의 카페(2009년부터). 트릴레체 케이크가 있습니다."
+},
+"prizren-fine_dining-1": {
+"en": "Restaurant near Shadërvan Square with a terrace over the Bistrica River.",
+"ko": "샤데르반 광장 근처의 레스토랑. 비스트리차 강이 보이는 테라스가 있습니다."
+},
+"prizren-fine_dining-2": {
+"en": "Modern European restaurant in a small garden.",
+"ko": "작은 정원 안의 현대 유럽 요리 레스토랑."
+},
+"remich-fine_dining-2": {
+"en": "Café on Remich’s market square.",
+"ko": "레미히 장터 광장의 카페."
+},
+"reykjavik-bakery-1": {
+"en": "Bakery with freshly baked cinnamon rolls.",
+"ko": "갓 구운 시나몬롤이 있는 빵집."
+},
+"reykjavik-bakery-2": {
+"en": "Bakery operating since 1920 with almond croissants.",
+"ko": "1920년부터 이어진 빵집. 아몬드 크루아상이 있습니다."
+},
+"reykjavik-bakery-3": {
+"en": "Reykjavík bakery operating since 1834.",
+"ko": "1834년부터 이어진 레이캬비크의 빵집."
+},
+"reykjavik-cafe-3": {
+"en": "Reykjavík brunch café doubling as a self-service laundromat (since 2011).",
+"ko": "셀프 세탁소를 겸하는 레이캬비크의 브런치 카페(2011년부터)."
+},
+"reykjavik-fine_dining-1": {
+"en": "One-Michelin-star New Nordic restaurant in Reykjavík.",
+"ko": "뉴 노르딕 요리를 내는 레이캬비크의 미쉐린 1스타 레스토랑."
+},
+"reykjavik-fine_dining-3": {
+"en": "Grill restaurant working with local farmers, serving lamb chops.",
+"ko": "현지 농가와 함께하는 그릴 레스토랑. 양갈비가 있습니다."
+},
+"reykjavik-fine_dining-5": {
+"en": "Restaurant reimagining Icelandic traditional food.",
+"ko": "아이슬란드 전통 요리를 재해석하는 레스토랑."
+},
+"reykjavik-korean-1": {
+"en": "Korean street-food restaurant serving fried chicken, tacos and kimchi.",
+"ko": "한국식 프라이드치킨·타코·김치를 내는 한식 길거리 음식점."
+},
+"rhodes-bakery-1": {
+"en": "Bakery and pastry shop in Rhodes.",
+"ko": "로도스의 빵집 겸 페이스트리 가게."
+},
+"rhodes-bakery-3": {
+"en": "Old Town bakery café with cakes, brioche buns and coffee.",
+"ko": "케이크·브리오슈 번·커피가 있는 구시가의 빵집 겸 카페."
+},
+"rhodes-cafe-1": {
+"en": "Rhodes breakfast café with doughnuts, waffles and sandwiches.",
+"ko": "도넛·와플·샌드위치가 있는 로도스의 아침 카페."
+},
+"rhodes-cafe-2": {
+"en": "Specialty coffee roastery in Rhodes.",
+"ko": "로도스의 스페셜티 커피 로스터리."
+},
+"rhodes-fine_dining-1": {
+"en": "Restaurant in the Old Town.",
+"ko": "구시가의 레스토랑."
+},
+"riga-bakery-2": {
+"en": "Latvian pastry chain selling traditional pastries such as cinnamon buns.",
+"ko": "시나몬번 같은 전통 페이스트리를 파는 라트비아 제과점 체인."
+},
+"riga-cafe-1": {
+"en": "Riga specialty coffee roastery founded in 2015.",
+"ko": "2015년 시작한 리가의 스페셜티 커피 로스터리."
+},
+"riga-cafe-2": {
+"en": "Specialty coffee and tea café in the Old Town.",
+"ko": "구시가의 스페셜티 커피·차 카페."
+},
+"riga-fine_dining-5": {
+"en": "Self-service Latvian canteen in the Old Town with smoked meats and cabbage rolls.",
+"ko": "훈제 고기·양배추롤 등을 고르는 구시가의 셀프서비스 라트비아 식당."
+},
+"riga-korean-1": {
+"en": "Korean restaurant in the Old Town with bibimbap and barbecue.",
+"ko": "구시가의 한식당. 비빔밥과 바비큐가 있습니다."
+},
+"rome-bakery-5": {
+"en": "Bakery on Campo de’ Fiori with pizza bianca.",
+"ko": "캄포 데 피오리 광장의 빵집. 피자 비앙카가 있습니다."
+},
+"rome-cafe-5": {
+"en": "Specialty coffee shop just off Campo de’ Fiori.",
+"ko": "캄포 데 피오리 근처의 스페셜티 커피숍."
+},
+"rome-fine_dining-1": {
+"en": "Fine-dining restaurant in Rome.",
+"ko": "로마의 파인다이닝 레스토랑."
+},
+"rome-korean-1": {
+"en": "Korean restaurant in Rome.",
+"ko": "로마의 한식당."
+},
+"rome-korean-5": {
+"en": "Rome Korean restaurant serving home-style set meals.",
+"ko": "가정식 백반을 내는 로마의 한식당."
+},
+"ronda-cafe-1": {
+"en": "Ronda pastry shop with homemade ice cream.",
+"ko": "페이스트리와 홈메이드 아이스크림을 파는 론다의 가게."
+},
+"ronda-cafe-2": {
+"en": "Ronda pâtisserie café with traditional and modern cakes and coffee.",
+"ko": "전통·현대 케이크와 커피가 있는 론다의 제과 카페."
+},
+"ronda-cafe-3": {
+"en": "Brunch café on the main shopping street with churros and coffee.",
+"ko": "번화가의 브런치 카페. 추로스와 커피가 있습니다."
+},
+"ronda-fine_dining-2": {
+"en": "Restaurant in the old Moorish quarter serving meat dishes.",
+"ko": "구시가 남쪽 무어인 지구의 식당. 고기 요리를 냅니다."
+},
+"ronda-fine_dining-4": {
+"en": "Old-town restaurant serving meats from a wood-fired oven.",
+"ko": "장작 화덕 고기 요리를 내는 구시가의 레스토랑."
+},
+"rotterdam-bakery-1": {
+"en": "Traditional French-style bakery.",
+"ko": "프랑스식 전통 빵집."
+},
+"rotterdam-bakery-2": {
+"en": "Bakery in Rotterdam.",
+"ko": "로테르담의 빵집."
+},
+"rotterdam-cafe-1": {
+"en": "Specialty café in Rotterdam-Noord roasting its own coffee.",
+"ko": "매장에서 원두를 볶는 로테르담 북부의 스페셜티 카페."
+},
+"rotterdam-korean-1": {
+"en": "Rotterdam Korean barbecue with a grill at every table.",
+"ko": "테이블마다 그릴이 있는 로테르담의 한국식 바비큐 식당."
+},
+"rouen-fine_dining-1": {
+"en": "Rouen inn restaurant said to date back to 1345.",
+"ko": "1345년부터 이어졌다고 알려진 루앙의 여관 식당."
+},
+"rouen-fine_dining-2": {
+"en": "Rouen restaurant overlooking the Seine, with its own pâtisserie.",
+"ko": "센강이 보이는 루앙의 레스토랑. 파티스리도 함께 합니다."
+},
+"rovaniemi-cafe-2": {
+"en": "Café in central Rovaniemi.",
+"ko": "로바니에미 중심가의 카페."
+},
+"rovinj-bakery-2": {
+"en": "Artisan bakery in Rovinj with handmade bread and pastries.",
+"ko": "수제 빵과 페이스트리를 굽는 로빈의 아르티장 빵집."
+},
+"rovinj-bakery-3": {
+"en": "Pastry shop in Rovinj with cakes and desserts.",
+"ko": "케이크와 디저트를 파는 로빈의 제과점."
+},
+"rovinj-cafe-3": {
+"en": "Café bar on Fontica street.",
+"ko": "폰티카 거리의 카페 바."
+},
+"rovinj-cafe-4": {
+"en": "Café on Shipyard Square.",
+"ko": "조선소 광장의 카페."
+},
+"rovinj-cafe-5": {
+"en": "Café on Tito Square themed around the traditional batana boat.",
+"ko": "티토 광장의 카페. 전통 바타나 배를 테마로 꾸몄습니다."
+},
+"rovinj-fine_dining-1": {
+"en": "Restaurant in Rovinj.",
+"ko": "로빈의 레스토랑."
+},
+"rovinj-fine_dining-2": {
+"en": "Sea-view restaurant serving seafood and local wines.",
+"ko": "바다가 보이는 레스토랑. 해산물과 지역 와인을 냅니다."
+},
+"salamanca-bakery-1": {
+"en": "Pastry shop near the Plaza Mayor selling traditional sweets such as the floreta.",
+"ko": "마요르 광장 근처의 제과점. 플로레타 같은 전통 과자를 팝니다."
+},
+"salamanca-cafe-1": {
+"en": "Salamanca café with cakes and pastries.",
+"ko": "케이크와 페이스트리가 있는 살라망카의 카페."
+},
+"salamanca-cafe-2": {
+"en": "Salamanca literary café, opened in 1905.",
+"ko": "1905년 문을 연 살라망카의 문학 카페."
+},
+"salamanca-cafe-4": {
+"en": "Breakfast and brunch café on Calle Zamora.",
+"ko": "사모라 거리의 아침 식사·브런치 카페."
+},
+"salamanca-fine_dining-3": {
+"en": "Wine bar serving tapas and raciones.",
+"ko": "타파스와 라시온을 내는 와인 바."
+},
+"salisbury-fine_dining-1": {
+"en": "Long-established Salisbury inn and pub serving venison.",
+"ko": "솔즈베리의 오래된 여관 겸 펍. 사슴고기 요리가 있습니다."
+},
+"san-marino-city-bakery-1": {
+"en": "San Marino pâtisserie open since 1980, with Italian pastries.",
+"ko": "1980년 문을 연 산마리노의 파티스리. 이탈리아 페이스트리가 있습니다."
+},
+"san-marino-city-cafe-1": {
+"en": "Café and snack bar in the heart of San Marino’s old town.",
+"ko": "산마리노 구시가 중심의 카페 겸 스낵 바."
+},
+"san-marino-city-fine_dining-1": {
+"en": "Italian restaurant on Piazza della Libertà in San Marino.",
+"ko": "산마리노 자유 광장의 이탈리아 식당."
+},
+"san-marino-city-fine_dining-2": {
+"en": "Restaurant in the Hotel Titano overlooking the main square.",
+"ko": "호텔 티타노 안의 레스토랑. 중앙 광장이 내려다보입니다."
+},
+"san-sebastian-bakery-1": {
+"en": "San Sebastián pastry shop making confectionery since 1886.",
+"ko": "1886년부터 과자를 만들어 온 산세바스티안의 제과점."
+},
+"san-sebastian-bakery-2": {
+"en": "Small bakery café with homemade pastries and coffee.",
+"ko": "홈메이드 페이스트리와 커피가 있는 작은 빵집 겸 카페."
+},
+"san-sebastian-bakery-3": {
+"en": "Breakfast bakery café in the Antiguo district.",
+"ko": "안티구오 지구의 아침 식사 빵집 겸 카페."
+},
+"san-sebastian-fine_dining-2": {
+"en": "Old Town pintxos bar with dishes made to order.",
+"ko": "주문하면 바로 만드는 요리를 내는 구시가의 핀초스 바."
+},
+"san-sebastian-fine_dining-4": {
+"en": "Basque pintxos restaurant in the Old Town.",
+"ko": "구시가의 바스크 핀초스 레스토랑."
+},
+"santiago-cafe-1": {
+"en": "Long-established pastry shop selling Tarta de Santiago almond cake.",
+"ko": "타르타 데 산티아고(아몬드 케이크)를 파는 오래된 제과점."
+},
+"santiago-cafe-2": {
+"en": "Café with coffee, freshly baked cakes and dishes from around the world.",
+"ko": "커피와 갓 구운 케이크, 세계 요리를 내는 카페."
+},
+"santiago-cafe-3": {
+"en": "Cosy café with churros and Tarta de Santiago.",
+"ko": "추로스와 타르타 데 산티아고가 있는 아늑한 카페."
+},
+"santiago-fine_dining-2": {
+"en": "Restaurant giving a modern twist to Galician food.",
+"ko": "갈리시아 요리를 현대적으로 내는 레스토랑."
+},
+"santorini-bakery-1": {
+"en": "Santorini bakery with croissants and coffee.",
+"ko": "크루아상과 커피가 있는 산토리니의 빵집."
+},
+"santorini-bakery-2": {
+"en": "Cosy bakery with Greek pies, bread, croissants and baklava.",
+"ko": "그리스 파이·빵·크루아상·바클라바가 있는 아늑한 빵집."
+},
+"santorini-fine_dining-1": {
+"en": "Restaurant on Santorini.",
+"ko": "산토리니의 레스토랑."
+},
+"schaan-bakery-1": {
+"en": "Schaan bakery making bread and pastries the traditional way.",
+"ko": "전통 방식으로 빵과 페이스트리를 굽는 샤안의 빵집."
+},
+"schaan-cafe-1": {
+"en": "Schaan café-bakery with a Saturday breakfast buffet.",
+"ko": "토요일 아침 뷔페가 있는 샤안의 카페 겸 빵집."
+},
+"schaan-cafe-2": {
+"en": "Small café serving muesli.",
+"ko": "뮤즐리를 내는 아담한 카페."
+},
+"schaan-fine_dining-2": {
+"en": "Brewpub restaurant in Schaan brewing its own beer.",
+"ko": "직접 맥주를 만드는 샤안의 브루펍 레스토랑."
+},
+"segovia-bakery-1": {
+"en": "Segovia branch of an artisan bakery chain.",
+"ko": "아르티장 빵집 체인의 세고비아 지점."
+},
+"segovia-bakery-2": {
+"en": "Pastry shop selling the local ponche segoviano cake.",
+"ko": "세고비아 케이크 폰체 세고비아노를 파는 제과점."
+},
+"segovia-cafe-2": {
+"en": "Specialty coffee shop in Segovia.",
+"ko": "세고비아의 스페셜티 커피숍."
+},
+"segovia-fine_dining-4": {
+"en": "Restaurant beside the aqueduct serving roast suckling pig since 1786.",
+"ko": "수도교 옆, 1786년부터 새끼 돼지 구이(코치니요)를 내는 식당."
+},
+"segovia-fine_dining-5": {
+"en": "Segovia restaurant operating since 1895.",
+"ko": "1895년부터 이어진 세고비아의 레스토랑."
+},
+"selfoss-cafe-2": {
+"en": "Coffee shop in Selfoss.",
+"ko": "셀포스의 커피숍."
+},
+"selfoss-cafe-4": {
+"en": "Brunch café in Selfoss.",
+"ko": "셀포스의 브런치 카페."
+},
+"selfoss-fine_dining-2": {
+"en": "Nordic restaurant in an 1890 house in Selfoss.",
+"ko": "1890년 지은 셀포스의 옛 건물에 있는 북유럽 요리 레스토랑."
+},
+"seville-bakery-1": {
+"en": "Seville bakery café with bread and pastries.",
+"ko": "빵과 페이스트리를 파는 세비야의 빵집 겸 카페."
+},
+"seville-bakery-2": {
+"en": "Old-town bakery with handmade cakes and cupcakes.",
+"ko": "수제 케이크와 컵케이크를 파는 구시가의 빵집."
+},
+"seville-bakery-3": {
+"en": "Bakery café in the Nervión district.",
+"ko": "네르비온 지구의 빵집 겸 카페."
+},
+"seville-cafe-1": {
+"en": "Seville café for café con leche.",
+"ko": "카페 콘 레체를 마시러 가는 세비야의 카페."
+},
+"seville-fine_dining-2": {
+"en": "Traditional Seville bar serving pringa montaditos.",
+"ko": "프링가 몬타디토를 내는 세비야의 전통 바."
+},
+"seville-fine_dining-3": {
+"en": "Seville tapas bar operating since 1850.",
+"ko": "1850년부터 이어진 세비야의 타파스 바."
+},
+"seville-korean-1": {
+"en": "Korean restaurant serving Korean dishes and pajeon.",
+"ko": "한식과 파전을 내는 한식당."
+},
+"sibiu-bakery-1": {
+"en": "Sibiu pastry shop with desserts.",
+"ko": "디저트를 파는 시비우의 제과점."
+},
+"sibiu-bakery-2": {
+"en": "Doughnut shop on Strada Radu Stanca in Sibiu.",
+"ko": "라두 스탄카 거리의 도넛 가게."
+},
+"sibiu-cafe-1": {
+"en": "Café in central Sibiu.",
+"ko": "시비우 중심가의 카페."
+},
+"sibiu-cafe-2": {
+"en": "Coffee and brunch café on Strada Mitropoliei in Sibiu.",
+"ko": "미트로폴리에이 거리의 커피·브런치 카페."
+},
+"sibiu-cafe-3": {
+"en": "Brunch café on Strada Turnului in Sibiu.",
+"ko": "투르눌루이 거리의 브런치 카페."
+},
+"sibiu-cafe-4": {
+"en": "Café on Strada Arhivelor in Sibiu.",
+"ko": "아르히벨로르 거리의 카페."
+},
+"sibiu-fine_dining-2": {
+"en": "Restaurant on 9 Mai street in Sibiu.",
+"ko": "9 마이 거리의 시비우 레스토랑."
+},
+"sibiu-fine_dining-3": {
+"en": "Restaurant on Strada Berăriei in Sibiu.",
+"ko": "베러리에이 거리의 레스토랑."
+},
+"sibiu-fine_dining-4": {
+"en": "Restaurant on Piața Friedrich Schiller in Sibiu.",
+"ko": "프리드리히 실러 광장의 레스토랑."
+},
+"siena-bakery-2": {
+"en": "Nannini pastry shop in Siena.",
+"ko": "시에나의 제과점 난니니."
+},
+"siena-cafe-1": {
+"en": "Long-established Siena pastry café with gelato.",
+"ko": "페이스트리와 젤라토를 내는 시에나의 오래된 제과 카페."
+},
+"siena-cafe-2": {
+"en": "Espresso bar in Siena.",
+"ko": "시에나의 에스프레소 바."
+},
+"siena-fine_dining-1": {
+"en": "Restaurant in Siena.",
+"ko": "시에나의 레스토랑."
+},
+"siena-fine_dining-2": {
+"en": "Lunch spot serving homemade pici pasta.",
+"ko": "홈메이드 피치(시에나식 파스타)를 내는 점심 식당."
+},
+"sighisoara-bakery-1": {
+"en": "Pâtisserie café just outside Sighișoara’s citadel with decorated cakes and pastries.",
+"ko": "시기쇼아라 성채 밖의 제과 카페. 장식 케이크와 페이스트리가 있습니다."
+},
+"sighisoara-cafe-1": {
+"en": "Specialty coffee shop in central Sighișoara.",
+"ko": "시기쇼아라 중심가의 스페셜티 커피숍."
+},
+"sighisoara-cafe-2": {
+"en": "Specialty coffee shop on Strada Octavian Goga in Sighișoara.",
+"ko": "옥타비안 고가 거리의 스페셜티 커피숍."
+},
+"sighisoara-fine_dining-2": {
+"en": "Restaurant on Strada Tâmplarilor in Sighișoara.",
+"ko": "탐플라릴로르 거리의 레스토랑."
+},
+"sighnaghi-fine_dining-1": {
+"en": "Georgian restaurant with views.",
+"ko": "전망이 좋은 조지아 요리 식당."
+},
+"sigulda-bakery-1": {
+"en": "Sigulda bakery with muffins.",
+"ko": "머핀을 굽는 시굴다의 빵집."
+},
+"sigulda-cafe-1": {
+"en": "Sigulda coffee café with a courtyard.",
+"ko": "안뜰이 있는 시굴다의 커피 카페."
+},
+"sintra-bakery-1": {
+"en": "Sintra pastry shop founded in 1862, with travesseiros.",
+"ko": "1862년 문을 연 신트라의 제과점. 트라베세이루가 있습니다."
+},
+"sintra-bakery-3": {
+"en": "Pastry shop open since 1931 with travesseiros and queijadas.",
+"ko": "1931년 문을 연 제과점. 트라베세이루와 케이자다가 있습니다."
+},
+"sintra-cafe-2": {
+"en": "Café in a restored 1888 queijada factory, serving brunch, tea and coffee.",
+"ko": "1888년 케이자다 공장 건물을 고친 카페. 브런치와 차·커피가 있습니다."
+},
+"sintra-fine_dining-2": {
+"en": "Casual restaurant of chef Luís Santos serving creative seafood dishes.",
+"ko": "셰프 루이스 산투스의 캐주얼 레스토랑. 해산물 창작 요리를 냅니다."
+},
+"sintra-fine_dining-3": {
+"en": "Family-run Portuguese restaurant near Sintra station serving bacalhau com natas.",
+"ko": "신트라역 근처의 가족 운영 포르투갈 식당. 바칼랴우 콩 나타스가 있습니다."
+},
+"sintra-fine_dining-4": {
+"en": "Old Town restaurant in a 17th-century building with cod dishes and steaks.",
+"ko": "17세기 건물의 구시가 식당. 대구 요리와 스테이크가 있습니다."
+},
+"siracusa-fine_dining-1": {
+"en": "Ortigia market deli with big panini.",
+"ko": "오르티자 시장의 큰 파니니 가게."
+},
+"skopje-bakery-1": {
+"en": "Skopje burek bakery open 24 hours.",
+"ko": "24시간 여는 스코페의 부렉 빵집."
+},
+"skopje-bakery-2": {
+"en": "24-hour bakery with burek and pastries.",
+"ko": "24시간 여는 빵집. 부렉과 페이스트리가 있습니다."
+},
+"skopje-bakery-4": {
+"en": "Bakery and specialty coffee shop in the Kapištec neighbourhood.",
+"ko": "빵과 스페셜티 커피를 함께 파는 카피슈테츠 지구의 가게."
+},
+"skopje-bakery-5": {
+"en": "Bakery on Naum Naumovski Borče street.",
+"ko": "나움 나우모프스키 보르체 거리의 빵집."
+},
+"skopje-cafe-3": {
+"en": "Café inside the City Park.",
+"ko": "시립 공원 안의 카페."
+},
+"skopje-fine_dining-1": {
+"en": "Old Bazaar restaurant serving kebabs since 1913.",
+"ko": "1913년부터 케밥을 내는 구시장의 식당."
+},
+"skopje-fine_dining-2": {
+"en": "Old Bazaar restaurant in an Ottoman-era inn, serving mućkalica and goulash.",
+"ko": "오스만 시대 여관 건물의 구시장 식당. 무치칼리차와 굴라시가 있습니다."
+},
+"snowdonia-cafe-1": {
+"en": "Llanberis café-restaurant long used by climbers.",
+"ko": "등산객이 많이 찾던 란베리스의 카페 겸 식당."
+},
+"sorrento-bakery-1": {
+"en": "Shop selling delizia al limone and gelato (since the 1960s).",
+"ko": "레몬 디저트 델리치아 알 리모네와 젤라토를 파는 가게(1960년대부터)."
+},
+"split-bakery-2": {
+"en": "Split bakery with buttery pastries.",
+"ko": "버터 페이스트리를 굽는 스플리트의 빵집."
+},
+"split-bakery-4": {
+"en": "Burek shop in Split’s Old Town.",
+"ko": "스플리트 구시가의 부렉 가게."
+},
+"split-bakery-5": {
+"en": "Cookie shop in Split.",
+"ko": "스플리트의 쿠키 가게."
+},
+"split-cafe-1": {
+"en": "Café on Split’s Riva promenade.",
+"ko": "스플리트 리바 산책로의 카페."
+},
+"split-fine_dining-1": {
+"en": "Restaurant in Split.",
+"ko": "스플리트의 레스토랑."
+},
+"split-fine_dining-2": {
+"en": "Seafood and Mediterranean konoba in the Varoš district.",
+"ko": "바로시 지구의 해산물·지중해 요리 코노바."
+},
+"st-ives-fine_dining-1": {
+"en": "Seafood restaurant right on the beach.",
+"ko": "해변 위의 해산물 레스토랑."
+},
+"stavanger-bakery-1": {
+"en": "Bakery café with oversized cinnamon rolls.",
+"ko": "큼직한 시나몬롤을 굽는 빵집 겸 카페."
+},
+"stavanger-cafe-3": {
+"en": "Small specialty coffee bar.",
+"ko": "작은 스페셜티 커피 바."
+},
+"stavanger-fine_dining-3": {
+"en": "Harbourside seafood restaurant and fish market serving Norwegian fish soup.",
+"ko": "항구의 해산물 레스토랑 겸 수산 시장. 노르웨이식 생선 수프가 있습니다."
+},
+"stepantsminda-fine_dining-3": {
+"en": "Restaurant in Stepantsminda.",
+"ko": "스테판츠민다의 레스토랑."
+},
+"strasbourg-bakery-3": {
+"en": "Bakery near the cathedral.",
+"ko": "대성당 근처의 빵집."
+},
+"strasbourg-cafe-2": {
+"en": "Strasbourg specialty coffee shop, open since 2014.",
+"ko": "2014년 문을 연 스트라스부르의 스페셜티 커피숍."
+},
+"strasbourg-fine_dining-1": {
+"en": "Traditional winstub (Alsatian tavern) in Strasbourg.",
+"ko": "스트라스부르의 전통 윈스튜브(알자스 선술집)."
+},
+"strasbourg-fine_dining-2": {
+"en": "Traditional Alsatian winstub near the cathedral.",
+"ko": "대성당 근처의 전통 알자스 윈스튜브."
+},
+"strasbourg-fine_dining-3": {
+"en": "Strasbourg winstub with records dating back to 1385.",
+"ko": "1385년 기록이 남은 스트라스부르의 윈스튜브."
+},
+"strasbourg-fine_dining-4": {
+"en": "Bakery-restaurant near Petite France.",
+"ko": "프티트 프랑스 근처의 빵집 겸 레스토랑."
+},
+"stratford-upon-avon-fine_dining-1": {
+"en": "Bistro in a 16th-century building, handy before or after the theatre.",
+"ko": "16세기 건물의 비스트로. 공연 전후 식사에 좋습니다."
+},
+"stresa-fine_dining-1": {
+"en": "Restaurant on Lake Mergozzo, about 15 minutes’ drive from Stresa.",
+"ko": "메르고초 호숫가의 레스토랑(스트레사에서 차로 약 15분)."
+},
+"subotica-bakery-1": {
+"en": "Coffee and dessert spot in a courtyard in central Subotica.",
+"ko": "수보티차 중심가 안뜰의 커피·디저트 가게."
+},
+"subotica-cafe-1": {
+"en": "Café facing the Art Nouveau city hall square.",
+"ko": "아르누보 시청 앞 광장의 카페."
+},
+"subotica-fine_dining-1": {
+"en": "Fine-dining restaurant in Subotica.",
+"ko": "수보티차의 파인다이닝 레스토랑."
+},
+"subotica-fine_dining-2": {
+"en": "Subotica restaurant in an 1887 building.",
+"ko": "1887년 지은 건물의 수보티차 레스토랑."
+},
+"subotica-fine_dining-3": {
+"en": "Konoba-style restaurant serving European, Mediterranean and Croatian food.",
+"ko": "유럽·지중해·크로아티아 요리를 내는 코노바 식당."
+},
+"szeged-bakery-1": {
+"en": "Artisan bakery in Szeged.",
+"ko": "세게드의 아르티장 빵집."
+},
+"szeged-bakery-2": {
+"en": "Bakery in Szeged.",
+"ko": "세게드의 빵집."
+},
+"szeged-bakery-4": {
+"en": "Confectionery in Szeged.",
+"ko": "세게드의 제과점."
+},
+"szeged-cafe-2": {
+"en": "Café on Klauzál Square.",
+"ko": "클라우잘 광장의 카페."
+},
+"szeged-cafe-3": {
+"en": "Café in central Szeged.",
+"ko": "세게드 중심가의 카페."
+},
+"szeged-cafe-5": {
+"en": "Coffee shop in Szeged.",
+"ko": "세게드의 커피숍."
+},
+"szeged-fine_dining-2": {
+"en": "Retro-styled fish restaurant by the Tisza serving fisherman’s soup.",
+"ko": "티서강변의 복고풍 생선 요리 식당. 어부 수프(헐라슬레)가 있습니다."
+},
+"tallinn-fine_dining-2": {
+"en": "Restaurant in Tallinn’s Old Town.",
+"ko": "탈린 구시가의 레스토랑."
+},
+"tampere-bakery-1": {
+"en": "Doughnut café inside the Pyynikki observation tower.",
+"ko": "퓌니키 전망탑 안의 도넛 카페."
+},
+"tampere-bakery-4": {
+"en": "Bakery café near the university.",
+"ko": "대학가 근처의 빵집 겸 카페."
+},
+"tampere-cafe-3": {
+"en": "Café with a waffle menu.",
+"ko": "와플 메뉴가 있는 카페."
+},
+"tampere-fine_dining-1": {
+"en": "Restaurant serving set menus of seasonal Finnish produce.",
+"ko": "계절 핀란드 식재료로 코스를 내는 레스토랑."
+},
+"taormina-bakery-1": {
+"en": "Artisan pastry shop with cannoli and granita.",
+"ko": "카놀리와 그라니타를 파는 수제 제과점."
+},
+"taormina-cafe-1": {
+"en": "Granita shop in Taormina.",
+"ko": "타오르미나의 그라니타 가게."
+},
+"tartu-fine_dining-2": {
+"en": "Restaurant in Tartu.",
+"ko": "타르투의 레스토랑."
+},
+"tbilisi-bakery-1": {
+"en": "Tbilisi bakery baking croissants.",
+"ko": "크루아상을 굽는 트빌리시의 빵집."
+},
+"tbilisi-bakery-2": {
+"en": "Old Town bakery opposite the Tbilisi History Museum, with khachapuri.",
+"ko": "트빌리시 역사박물관 맞은편 구시가의 빵집. 하차푸리가 있습니다."
+},
+"tbilisi-cafe-2": {
+"en": "Café just off Rustaveli Avenue with pistachio mousse.",
+"ko": "루스타벨리 거리 근처의 카페. 피스타치오 무스가 있습니다."
+},
+"tenby-fine_dining-1": {
+"en": "Restaurant in an old building in Tenby.",
+"ko": "텐비의 오래된 건물에 있는 레스토랑."
+},
+"tetovo-bakery-3": {
+"en": "Bakery and juice bar on Dervish Cara street.",
+"ko": "데르비시 차라 거리의 빵집 겸 주스 바."
+},
+"tetovo-cafe-1": {
+"en": "Café on Boris Kidrič street.",
+"ko": "보리스 키드리치 거리의 카페."
+},
+"tetovo-cafe-2": {
+"en": "Café in Tetovo.",
+"ko": "테토보의 카페."
+},
+"tetovo-fine_dining-1": {
+"en": "Tetovo restaurant serving grilled and mushroom dishes.",
+"ko": "그릴 요리와 버섯 요리를 내는 테토보의 레스토랑."
+},
+"tetovo-fine_dining-4": {
+"en": "Restaurant on Marshal Tito street.",
+"ko": "마르샬 티토 거리의 레스토랑."
+},
+"the-hague-bakery-1": {
+"en": "Neighbourhood bakery café with sourdough and Turkish-egg brunch.",
+"ko": "사워도우와 터키식 달걀 브런치가 있는 동네 빵집 겸 카페."
+},
+"the-hague-bakery-2": {
+"en": "French pâtisserie in the Statenkwartier with handmade macarons.",
+"ko": "스타텐콰르티어 지구의 프랑스식 파티스리. 수제 마카롱이 있습니다."
+},
+"the-hague-cafe-1": {
+"en": "Multi-roaster specialty coffee and brunch café in the historic centre.",
+"ko": "여러 로스터의 원두를 쓰는 구시가의 스페셜티 커피·브런치 카페."
+},
+"the-hague-fine_dining-1": {
+"en": "One-Michelin-star restaurant in The Hague serving seasonal cooking.",
+"ko": "계절 요리를 내는 덴하그의 미쉐린 1스타 레스토랑."
+},
+"the-hague-fine_dining-4": {
+"en": "Seafood restaurant on Scheveningen harbour.",
+"ko": "스헤베닝언 항구의 해산물 레스토랑."
+},
+"thessaloniki-bakery-1": {
+"en": "Traditional Thessaloniki pastry shop selling bougatsa.",
+"ko": "부가차를 파는 테살로니키의 전통 제과점."
+},
+"thessaloniki-bakery-2": {
+"en": "Thessaloniki pâtisserie founded in 1948, with chocolate tsoureki.",
+"ko": "1948년 문을 연 테살로니키의 제과점. 초콜릿 추레키가 있습니다."
+},
+"thessaloniki-cafe-1": {
+"en": "Thessaloniki café with pastries and handmade ice cream.",
+"ko": "페이스트리와 수제 아이스크림이 있는 테살로니키의 카페."
+},
+"thessaloniki-korean-1": {
+"en": "Korean-style café with bubble tea and Korean corn dogs.",
+"ko": "버블티와 한국식 핫도그를 파는 한국풍 카페."
+},
+"timisoara-bakery-1": {
+"en": "Timișoara pastry shop with macarons.",
+"ko": "마카롱이 있는 티미쇼아라의 제과점."
+},
+"timisoara-cafe-2": {
+"en": "Coffee shop on Strada Palanca in Timișoara.",
+"ko": "팔란카 거리의 커피숍."
+},
+"timisoara-cafe-3": {
+"en": "Coffee shop on Strada Lucian Blaga in Timișoara.",
+"ko": "루치안 블라가 거리의 커피숍."
+},
+"timisoara-fine_dining-1": {
+"en": "Creative restaurant in the historic centre.",
+"ko": "구시가의 창작 요리 레스토랑."
+},
+"timisoara-fine_dining-3": {
+"en": "Restaurant on Strada Eugeniu de Savoya in Timișoara.",
+"ko": "에우제니우 데 사보이아 거리의 레스토랑."
+},
+"timisoara-fine_dining-4": {
+"en": "Mediterranean restaurant on Strada Craiova in Timișoara.",
+"ko": "크라이오바 거리의 지중해 요리 식당."
+},
+"toledo-bakery-1": {
+"en": "Toledo bakery café with chocolate croissants and coffee.",
+"ko": "초콜릿 크루아상과 커피가 있는 톨레도의 빵집 겸 카페."
+},
+"toledo-cafe-1": {
+"en": "Café by the cathedral selling sweets made by nuns.",
+"ko": "대성당 옆 카페. 수녀원에서 만든 과자를 팝니다."
+},
+"toledo-cafe-2": {
+"en": "Specialty coffee shop in Toledo.",
+"ko": "톨레도의 스페셜티 커피숍."
+},
+"toledo-fine_dining-2": {
+"en": "Toledo restaurant serving creative dishes from local produce.",
+"ko": "지역 재료로 창작 요리를 내는 톨레도의 레스토랑."
+},
+"toledo-fine_dining-5": {
+"en": "Traditional bar serving Toledo’s carcamusas stew.",
+"ko": "톨레도 스튜 카르카무사스를 내는 전통 바."
+},
+"torun-bakery-1": {
+"en": "Toruń bakery café with vegan sweets and savoury snacks.",
+"ko": "비건 디저트와 짭짤한 간식이 있는 토룬의 빵집 겸 카페."
+},
+"torun-bakery-3": {
+"en": "Workshop and shop for Toruń gingerbread (piernik).",
+"ko": "토룬 생강빵(피에르니크) 공방 겸 가게."
+},
+"torun-cafe-1": {
+"en": "Long-established Toruń café with coffee and cheesecake.",
+"ko": "커피와 치즈케이크가 있는 토룬의 오래된 카페."
+},
+"torun-cafe-2": {
+"en": "Café in Toruń.",
+"ko": "토룬의 카페."
+},
+"torun-fine_dining-1": {
+"en": "Restaurant in Toruń.",
+"ko": "토룬의 레스토랑."
+},
+"torun-fine_dining-3": {
+"en": "Pierogi restaurant.",
+"ko": "피에로기(폴란드 만두) 식당."
+},
+"torun-fine_dining-4": {
+"en": "Restaurant themed around Toruń gingerbread (piernik).",
+"ko": "토룬 생강빵(피에르니크)을 테마로 한 식당."
+},
+"toulouse-bakery-1": {
+"en": "Toulouse bakery with pain aux raisins and croissants.",
+"ko": "팽 오 레쟁과 크루아상을 굽는 툴루즈의 빵집."
+},
+"toulouse-bakery-4": {
+"en": "Bakery in the Saint-Aubin district.",
+"ko": "생토뱅 지구의 빵집."
+},
+"toulouse-bakery-5": {
+"en": "Bakery near the Basilica of Saint-Sernin.",
+"ko": "생세르냉 대성당 근처의 빵집."
+},
+"toulouse-cafe-2": {
+"en": "Brunch café with a terrace and homemade-syrup coffees.",
+"ko": "테라스와 홈메이드 시럽 커피가 있는 브런치 카페."
+},
+"toulouse-fine_dining-2": {
+"en": "Toulouse restaurant serving cassoulet since 1874.",
+"ko": "1874년부터 카술레를 내는 툴루즈 식당."
+},
+"toulouse-fine_dining-3": {
+"en": "South-West French restaurant (since 1947) serving duck-confit cassoulet.",
+"ko": "남서 프랑스 요리 식당(1947년부터). 오리 콩피 카술레가 있습니다."
+},
+"toulouse-korean-1": {
+"en": "Korean barbecue restaurant in Toulouse.",
+"ko": "툴루즈의 한국식 바비큐 식당."
+},
+"trabzon-bakery-2": {
+"en": "City-centre bakery café with desserts and coffee.",
+"ko": "디저트와 커피가 있는 트라브존 중심가의 빵집 겸 카페."
+},
+"trabzon-cafe-1": {
+"en": "Coffee shop in the centre between the old and new markets.",
+"ko": "구시장과 신시장 사이 중심가의 커피숍."
+},
+"trabzon-fine_dining-2": {
+"en": "Trabzon seafood restaurant serving seasonal Black Sea fish and meze.",
+"ko": "흑해 제철 생선과 메제를 내는 트라브존의 해산물 식당."
+},
+"trabzon-fine_dining-3": {
+"en": "Trabzon restaurant serving Akçaabat köfte.",
+"ko": "아크차아바트 쾨프테(미트볼)를 내는 트라브존의 식당."
+},
+"trencin-bakery-1": {
+"en": "Café on Trenčín’s main square with cakes such as veterník and medový krémeš.",
+"ko": "트렌친 중앙 광장의 카페. 베테르니크·메도비 크레메시 같은 케이크가 있습니다."
+},
+"trencin-cafe-1": {
+"en": "Small café in Trenčín.",
+"ko": "트렌친의 작은 카페."
+},
+"trencin-cafe-3": {
+"en": "Café on Matúšova street in Trenčín.",
+"ko": "마투쇼바 거리의 카페."
+},
+"trencin-fine_dining-2": {
+"en": "Restaurant and brewery on Mierové námestie in Trenčín.",
+"ko": "미에로베 광장의 레스토랑 겸 양조장."
+},
+"tromso-cafe-1": {
+"en": "Specialty coffee bar serving single-origin pour-overs.",
+"ko": "싱글 오리진 핸드드립을 내는 스페셜티 커피 바."
+},
+"tromso-cafe-2": {
+"en": "Tromsø coffee chain outlet on the main square.",
+"ko": "중앙 광장의 트롬쇠 커피 체인 매장."
+},
+"tromso-cafe-3": {
+"en": "Cosy café run by a mother and daughter, with cakes.",
+"ko": "모녀가 운영하는 아늑한 카페. 케이크가 있습니다."
+},
+"tromso-fine_dining-1": {
+"en": "Intimate fine-dining restaurant run by a chef couple.",
+"ko": "셰프 부부가 운영하는 작은 파인다이닝 레스토랑."
+},
+"tromso-fine_dining-3": {
+"en": "Harbourside restaurant serving tasting menus of Arctic seafood.",
+"ko": "북극해 해산물로 테이스팅 메뉴를 내는 항구 레스토랑."
+},
+"trondheim-bakery-2": {
+"en": "Bakery on Rosenborg gate.",
+"ko": "로센보르 거리의 빵집."
+},
+"trondheim-cafe-1": {
+"en": "Outlet of the Trondheim coffee chain Dromedar.",
+"ko": "트론헤임 커피 체인 드로메다르의 매장."
+},
+"tropea-bakery-1": {
+"en": "Gelateria with red-onion and ’nduja flavours.",
+"ko": "붉은 양파·은두야 맛 젤라토가 있는 가게."
+},
+"turin-bakery-1": {
+"en": "Turin bakery with oven-side seating and panini.",
+"ko": "오븐 옆 좌석과 파니니가 있는 토리노의 빵집."
+},
+"turin-bakery-2": {
+"en": "Pastry shop in Turin.",
+"ko": "토리노의 제과점."
+},
+"turin-cafe-1": {
+"en": "Long-established Turin café with pastries and tramezzini.",
+"ko": "페이스트리와 트라메치니가 있는 토리노의 오래된 카페."
+},
+"turin-cafe-4": {
+"en": "Espresso bar in Turin.",
+"ko": "토리노의 에스프레소 바."
+},
+"turku-bakery-2": {
+"en": "Small bakery in Turku.",
+"ko": "투르쿠의 작은 빵집."
+},
+"turku-bakery-3": {
+"en": "Bakery making bread and pastries the traditional way.",
+"ko": "전통 방식으로 빵과 페이스트리를 굽는 제과점."
+},
+"turku-cafe-1": {
+"en": "Riverside art café on the Aura with cinnamon buns.",
+"ko": "아우라 강변의 아트 카페. 시나몬롤이 있습니다."
+},
+"turku-cafe-2": {
+"en": "Light-roast specialty coffee roastery.",
+"ko": "라이트 로스트 스페셜티 커피 로스터리."
+},
+"uppsala-cafe-3": {
+"en": "Uppsala café-brasserie serving espresso.",
+"ko": "에스프레소를 내는 웁살라의 카페 겸 브라스리."
+},
+"uppsala-fine_dining-2": {
+"en": "Seafood restaurant in Uppsala.",
+"ko": "웁살라의 해산물 레스토랑."
+},
+"utrecht-bakery-1": {
+"en": "Artisan bakery and pâtisserie in Utrecht.",
+"ko": "위트레흐트의 아르티장 빵집 겸 제과점."
+},
+"utrecht-bakery-2": {
+"en": "Cellar bakery café serving breakfast, lunch and high tea.",
+"ko": "아침·점심·애프터눈 티를 내는 지하 빵집 겸 카페."
+},
+"utrecht-cafe-3": {
+"en": "Canal-side pub with a big terrace and craft beers.",
+"ko": "넓은 테라스와 수제 맥주가 있는 운하변 펍."
+},
+"utrecht-fine_dining-2": {
+"en": "Michelin Bib Gourmand Indonesian restaurant serving rijsttafel.",
+"ko": "라이스타펠(인도네시아식 한상)을 내는 미쉐린 빕 구르망 인도네시아 식당."
+},
+"utrecht-fine_dining-4": {
+"en": "Plant-based restaurant on the canal.",
+"ko": "운하변의 비건 레스토랑."
+},
+"utrecht-korean-1": {
+"en": "All-you-can-eat Korean barbecue with tableside grilling.",
+"ko": "테이블에서 고기를 굽는 무한 리필 한국식 바비큐."
+},
+"vaduz-cafe-1": {
+"en": "Bakery café with chocolate croissants.",
+"ko": "초콜릿 크루아상이 있는 빵집 겸 카페."
+},
+"vaduz-cafe-2": {
+"en": "Café opposite the Liechtenstein National Museum with milkshakes and pastries.",
+"ko": "리히텐슈타인 국립박물관 맞은편 카페. 밀크셰이크와 페이스트리가 있습니다."
+},
+"valencia-bakery-1": {
+"en": "Bakery café in Ruzafa.",
+"ko": "루사파의 빵집 겸 카페."
+},
+"valencia-cafe-1": {
+"en": "Specialty coffee shop in Valencia.",
+"ko": "발렌시아의 스페셜티 커피숍."
+},
+"valencia-cafe-4": {
+"en": "Cosy breakfast and coffee café in Ruzafa.",
+"ko": "루사파의 아늑한 아침 식사·커피 카페."
+},
+"valencia-fine_dining-5": {
+"en": "Valencia restaurant serving traditional paella.",
+"ko": "전통 파에야를 내는 발렌시아 식당."
+},
+"valencia-korean-1": {
+"en": "Restaurant serving Korean cuisine.",
+"ko": "한식을 내는 한식당."
+},
+"valletta-bakery-1": {
+"en": "Valletta pastizzi shop baking every morning; often sold out by lunch.",
+"ko": "매일 아침 파스티치를 굽는 발레타의 가게. 점심 전에 다 팔릴 때가 많습니다."
+},
+"valletta-bakery-2": {
+"en": "Small Valletta shop selling ftira sandwiches.",
+"ko": "프티라(몰타 빵 샌드위치)를 파는 발레타의 작은 가게."
+},
+"valletta-cafe-1": {
+"en": "Specialty coffee roastery in Valletta.",
+"ko": "발레타의 스페셜티 커피 로스터리."
+},
+"valletta-cafe-2": {
+"en": "Café on Republic Square, open since 1837.",
+"ko": "1837년 문을 연 리퍼블릭 광장의 카페."
+},
+"valletta-fine_dining-2": {
+"en": "Restaurant in Iniala Harbour House overlooking the Grand Harbour, where Simon Rogan cooks with seasonal Maltese produce.",
+"ko": "그랜드 하버가 보이는 이니알라 하버 하우스의 레스토랑. 사이먼 로건이 몰타 제철 재료로 요리합니다."
+},
+"vatican-city-bakery-1": {
+"en": "Gelato shop beside the Vatican Museums entrance.",
+"ko": "바티칸 박물관 입구 옆의 젤라토 가게."
+},
+"vatican-city-bakery-2": {
+"en": "Small bakery near the Vatican with focaccia and pizza.",
+"ko": "포카치아와 피자를 파는 바티칸 근처의 작은 빵집."
+},
+"vatican-city-bakery-4": {
+"en": "Neighbourhood bakery near the Vatican Museums with pizza rossa and focaccia.",
+"ko": "바티칸 박물관 근처의 동네 빵집. 피자 로사와 포카치아가 있습니다."
+},
+"vatican-city-cafe-3": {
+"en": "Espresso bar in Borgo Pio with cappuccino and gelato.",
+"ko": "보르고 피오의 에스프레소 바. 카푸치노와 젤라토가 있습니다."
+},
+"vatican-city-fine_dining-1": {
+"en": "Family-run bistro in Borgo Pio serving carbonara.",
+"ko": "보르고 피오의 가족 운영 비스트로. 카르보나라가 있습니다."
+},
+"vatican-city-fine_dining-2": {
+"en": "Restaurant in Borgo Pio.",
+"ko": "보르고 피오의 레스토랑."
+},
+"vatican-city-fine_dining-4": {
+"en": "Roman trattoria in Borgo Pio serving rigatoni alla norcina.",
+"ko": "보르고 피오의 로마 트라토리아. 리가토니 알라 노르치나가 있습니다."
+},
+"vatican-city-fine_dining-5": {
+"en": "Tuscan trattoria in Prati serving bistecca fiorentina.",
+"ko": "비스테카 피오렌티나를 내는 프라티의 토스카나 트라토리아."
+},
+"venice-bakery-1": {
+"en": "Venice bakery for breakfast pastries.",
+"ko": "아침 식사용 빵과 페이스트리를 파는 베네치아의 빵집."
+},
+"venice-cafe-2": {
+"en": "Café on St Mark’s Square, opened in 1720.",
+"ko": "1720년 문을 연 산마르코 광장의 카페."
+},
+"venice-cafe-5": {
+"en": "Coffee shop in the Dorsoduro district.",
+"ko": "도르소두로 지구의 커피숍."
+},
+"venice-fine_dining-2": {
+"en": "Small bar serving cicchetti (Venetian bar snacks).",
+"ko": "치케티(베네치아식 안주)를 내는 작은 바."
+},
+"venice-fine_dining-3": {
+"en": "Venetian bacaro said to date back to 1462.",
+"ko": "1462년부터 이어졌다고 알려진 베네치아의 바카로(선술집)."
+},
+"verona-bakery-1": {
+"en": "Verona bakery café serving homemade brunch.",
+"ko": "홈메이드 브런치를 내는 베로나의 빵집 겸 카페."
+},
+"verona-bakery-3": {
+"en": "Pastry shop in Verona.",
+"ko": "베로나의 제과점."
+},
+"verona-cafe-1": {
+"en": "Cosy Verona pastry shop with cornetti.",
+"ko": "코르네토가 있는 베로나의 아늑한 제과점."
+},
+"verona-fine_dining-2": {
+"en": "Osteria in central Verona with a range of antipasti and cheese.",
+"ko": "베로나 중심가의 오스테리아. 안티파스티와 치즈가 다양합니다."
+},
+"vianden-bakery-1": {
+"en": "Old Town bakery with sourdough and croissants.",
+"ko": "사워도우와 크루아상을 굽는 구시가의 빵집."
+},
+"vianden-fine_dining-1": {
+"en": "French restaurant with riverside seating.",
+"ko": "강변 좌석이 있는 프랑스 요리 레스토랑."
+},
+"vianden-fine_dining-2": {
+"en": "Restaurant in a former forge below Vianden Castle, serving charcoal-grilled dishes.",
+"ko": "비안덴 성 아래 옛 대장간 건물의 레스토랑. 숯불구이를 냅니다."
+},
+"vik-bakery-1": {
+"en": "Vík bakery café with bread, pastries and cakes.",
+"ko": "빵·페이스트리·케이크를 굽는 비크의 빵집 겸 카페."
+},
+"vik-cafe-1": {
+"en": "Cosy café-restaurant in an old building in Vík.",
+"ko": "비크의 오래된 건물에 있는 아늑한 카페 겸 레스토랑."
+},
+"vik-cafe-2": {
+"en": "Café in Vík.",
+"ko": "비크의 카페."
+},
+"vik-fine_dining-3": {
+"en": "Brewhouse in Vík serving craft beer and burgers.",
+"ko": "수제 맥주와 버거를 내는 비크의 브루하우스."
+},
+"vilnius-bakery-2": {
+"en": "French bakery with croissants and baguettes.",
+"ko": "크루아상과 바게트를 굽는 프랑스식 빵집."
+},
+"vilnius-bakery-4": {
+"en": "Bakery café with French-style pastries.",
+"ko": "프랑스식 페이스트리가 있는 빵집 겸 카페."
+},
+"vilnius-cafe-2": {
+"en": "Specialty coffee roastery started in 2017, with cinnamon pastries.",
+"ko": "2017년 시작한 스페셜티 커피 로스터리. 시나몬 페이스트리가 있습니다."
+},
+"warsaw-bakery-1": {
+"en": "Family-run pâtisserie chain founded in 1946, with cakes and pastries.",
+"ko": "1946년 시작한 가족 운영 제과점 체인. 케이크와 페이스트리가 있습니다."
+},
+"warsaw-bakery-2": {
+"en": "Warsaw pastry shop operating since 1869, with pączki doughnuts.",
+"ko": "1869년부터 이어진 바르샤바의 제과점. 폰치키(잼 도넛)가 있습니다."
+},
+"warsaw-cafe-1": {
+"en": "Laptop-friendly café in Warsaw.",
+"ko": "노트북 작업하기 좋은 바르샤바의 카페."
+},
+"warsaw-cafe-3": {
+"en": "Specialty coffee bar in Warsaw.",
+"ko": "바르샤바의 스페셜티 커피 바."
+},
+"warsaw-fine_dining-1": {
+"en": "Warsaw restaurant giving Polish flavours a modern treatment.",
+"ko": "폴란드 요리를 현대적으로 내는 바르샤바의 레스토랑."
+},
+"warsaw-fine_dining-5": {
+"en": "Wine bistro with plenty of vegetarian dishes.",
+"ko": "채식 메뉴가 많은 와인 비스트로."
+},
+"warsaw-korean-1": {
+"en": "Korean restaurant serving fried chicken.",
+"ko": "한국식 치킨을 내는 한식당."
+},
+"windsor-fine_dining-1": {
+"en": "Riverside pub on the Thames below Windsor Castle.",
+"ko": "윈저성 아래 템스강변의 펍."
+},
+"wroclaw-bakery-1": {
+"en": "Wrocław shop baking Hungarian-style chimney cakes.",
+"ko": "헝가리식 굴뚝빵을 구워 파는 브로츠와프의 가게."
+},
+"wroclaw-bakery-4": {
+"en": "Bakery on the Market Square.",
+"ko": "중앙 광장(리네크)의 빵집."
+},
+"wroclaw-bakery-5": {
+"en": "Confectionery making custom cakes.",
+"ko": "주문 케이크를 만드는 제과점."
+},
+"wroclaw-cafe-2": {
+"en": "Café on Świdnicka street.",
+"ko": "시비드니츠카 거리의 카페."
+},
+"wroclaw-fine_dining-3": {
+"en": "Restaurant serving Wrocław dishes.",
+"ko": "브로츠와프 요리를 내는 식당."
+},
+"york-bakery-3": {
+"en": "Sourdough bakery.",
+"ko": "사워도우를 굽는 빵집."
+},
+"york-cafe-3": {
+"en": "Tearoom in York.",
+"ko": "요크의 티룸."
+},
+"zadar-bakery-1": {
+"en": "Zadar Old Town bakery with burek and cheese pita.",
+"ko": "부렉과 치즈 피타를 굽는 자다르 구시가의 빵집."
+},
+"zadar-bakery-3": {
+"en": "Bakery in Zadar.",
+"ko": "자다르의 빵집."
+},
+"zadar-cafe-2": {
+"en": "Art café just outside the city walls with cakes and desserts.",
+"ko": "성벽 바로 밖의 아트 카페. 케이크와 디저트가 있습니다."
+},
+"zadar-fine_dining-3": {
+"en": "Restaurant cooking fish and lobster chosen from its own tank.",
+"ko": "수족관에서 고른 생선·랍스터를 요리해 주는 레스토랑."
+},
+"zagreb-bakery-1": {
+"en": "Zagreb bakery selling burek.",
+"ko": "부렉을 파는 자그레브의 빵집."
+},
+"zagreb-bakery-3": {
+"en": "Pastry shop with cheesecake and bagels.",
+"ko": "치즈케이크와 베이글이 있는 페이스트리 가게."
+},
+"zagreb-cafe-1": {
+"en": "Specialty coffee roastery in Zagreb.",
+"ko": "자그레브의 스페셜티 커피 로스터리."
+},
+"zagreb-cafe-2": {
+"en": "Zagreb café serving espresso.",
+"ko": "에스프레소를 내는 자그레브의 카페."
+},
+"zagreb-fine_dining-4": {
+"en": "Traditional Croatian restaurant in central Zagreb serving štrukli.",
+"ko": "자그레브 중심가의 크로아티아 전통 식당. 슈트루클리가 있습니다."
+},
+"zagreb-fine_dining-5": {
+"en": "Restaurant inside the Esplanade Hotel.",
+"ko": "에스플러네이드 호텔 안의 레스토랑."
+},
+"zakopane-bakery-1": {
+"en": "Zakopane bakery with a wide choice of cakes.",
+"ko": "케이크가 다양한 자코파네의 제과점."
+},
+"zakopane-fine_dining-1": {
+"en": "Restaurant in Zakopane.",
+"ko": "자코파네의 레스토랑."
+},
+"zakynthos-fine_dining-1": {
+"en": "Taverna in Zakynthos Town.",
+"ko": "자킨토스 타운의 타베르나."
+},
+"zakynthos-fine_dining-2": {
+"en": "Clifftop taverna overlooking a cove.",
+"ko": "만이 내려다보이는 절벽 위 타베르나."
+},
+"zaragoza-bakery-1": {
+"en": "Zaragoza bakery with bread and pastries.",
+"ko": "빵과 페이스트리를 파는 사라고사의 빵집."
+},
+"zaragoza-fine_dining-3": {
+"en": "Old-town bar serving Iberian cured meats and tapas.",
+"ko": "이베리코 햄과 타파스를 내는 구시가의 바."
+},
+"zaragoza-fine_dining-5": {
+"en": "Vermouth bar serving seafood tapas.",
+"ko": "해산물 타파스를 내는 베르무트 바."
+}
+}

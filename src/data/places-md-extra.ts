@@ -6,24 +6,24 @@ export const placesMDExtra: Place[] = [
   place('chisinau-fine_dining-1', 'chisinau', 'fine_dining', 'La Taifas', 'Strada București 67, Chișinău', '전통 몰도바 가옥 콘셉트 레스토랑.', 'Restaurant styled after a traditional Moldovan house.'),
   place('chisinau-fine_dining-2', 'chisinau', 'fine_dining', 'Carpe Diem Wine Shop & Bar', 'Strada Columna 136, Chișinău', '몰도바산을 포함한 세계 각지의 와인을 갖춘 부티크 와인 바.', 'Boutique wine bar and shop with an eclectic selection of Moldovan and international wines.'),
   place('chisinau-fine_dining-3', 'chisinau', 'fine_dining', 'Vatra Neamului', 'Strada Pușkin 20b, Chișinău', '전통 레시피로 요리를 선보이는 레스토랑 겸 박물관, 매일 저녁 라이브 민속 음악 공연.', 'Restaurant-museum serving dishes from old recipes with live traditional folk music every evening.'),
-  place('chisinau-fine_dining-4', 'chisinau', 'fine_dining', 'La Plăcinte', 'Bulevardul Moscova 9/1, Chișinău', '15년 넘게 사랑받아온 몰도바 전통 플러친타(파이) 전문 체인 레스토랑.', 'Beloved Moldovan restaurant chain for over 15 years, specializing in plăcinte (traditional pies).', { image: '/places/chisinau-fine_dining-4.jpg' }),
+  place('chisinau-fine_dining-4', 'chisinau', 'fine_dining', 'La Plăcinte', 'Bulevardul Moscova 9/1, Chișinău', '몰도바 전통 파이 플러친타를 내는 체인 식당.', 'Restaurant chain serving plăcinte, traditional Moldovan pies.', { image: '/places/chisinau-fine_dining-4.jpg' }),
 
-  place('chisinau-bakery-1', 'chisinau', 'bakery', 'Dulcinella', 'Strada Albișoara 68, Chișinău, Moldova', '마카롱과 쿠키, 크루아상으로 유명한 키시너우의 제과점', 'Chișinău pastry shop known for macarons, cookies and croissants'),
+  place('chisinau-bakery-1', 'chisinau', 'bakery', 'Dulcinella', 'Strada Albișoara 68, Chișinău, Moldova', '마카롱·쿠키·크루아상을 파는 키시너우의 제과점.', 'Chișinău pastry shop with macarons, cookies and croissants.'),
   place('chisinau-bakery-2', 'chisinau', 'bakery', 'Vanille', 'Bulevardul Dacia 31, Chișinău', '키시너우의 패스트리숍.', 'Pastry shop in Chișinău.'),
   place('chisinau-bakery-3', 'chisinau', 'bakery', 'Dulce Hanna', 'Strada Alexei Șciusev 86, Chișinău', '키시너우 프랑스식 제과점.', 'French-style pastry shop in Chișinău.'),
   place('chisinau-bakery-4', 'chisinau', 'bakery', 'Caramel', 'Strada Mitropolit Gavriil Bănulescu-Bodoni 4, Chișinău', '키시너우의 패스트리숍.', 'Pastry shop in Chișinău.'),
   place('chisinau-bakery-5', 'chisinau', 'bakery', "Julia's Sweets Coffee House", 'Strada Calea Ieșilor 9, Chișinău', '키시너우 패스트리 카페.', 'Pastry café in Chișinău.'),
 
   place('chisinau-cafe-1', 'chisinau', 'cafe', 'Odélle', 'Strada Mihai Eminescu 70, Chișinău', '프렌치 클래식 요리를 선보이는 키시너우 중심가의 베이커리 카페', 'Charming Chișinău bakery café in the city center serving French classics'),
-  place('chisinau-cafe-2', 'chisinau', 'cafe', 'Tucano Coffee', 'Strada A. Pușkin 15, Chișinău', '몰도바에서 탄생한 스페셜티 커피 브랜드, 다양한 커피 메뉴와 치즈케이크로 인기.', 'Specialty coffee brand born in Moldova, popular for its extensive coffee menu and cheesecakes.'),
+  place('chisinau-cafe-2', 'chisinau', 'cafe', 'Tucano Coffee', 'Strada A. Pușkin 15, Chișinău', '몰도바의 스페셜티 커피 브랜드. 커피 메뉴가 많고 치즈케이크가 있습니다.', 'Moldovan specialty coffee brand with a long coffee menu and cheesecake.'),
   place('chisinau-cafe-3', 'chisinau', 'cafe', 'Crème de la Crème', 'Strada Alexandru cel Bun 98A, Chișinău', '재즈 음악이 흐르는 프렌치 카페 겸 디저트숍, 갓 구운 크루아상으로 시작하는 하루.', 'French café and sweet shop with jazz music, opening each day with freshly baked croissants.'),
 
-  place('chisinau-korean-1', 'chisinau', 'korean', 'Gogiya BBQ', 'Strada Mitropolit Bănulescu-Bodoni 45, Chișinău', '키시너우 최초의 정통 한국식 바비큐 레스토랑.', 'Chișinău\'s first authentic Korean BBQ restaurant.'),
+  place('chisinau-korean-1', 'chisinau', 'korean', 'Gogiya BBQ', 'Strada Mitropolit Bănulescu-Bodoni 45, Chișinău', '키시너우의 한국식 바비큐 식당.', 'Korean barbecue restaurant in Chișinău.'),
 
   // —— orheiul-vechi ——
   place('orheiul-vechi-fine_dining-1', 'orheiul-vechi', 'fine_dining', 'Ellada', 'Strada Vasile Lupu 46, Orhei', '오르헤이 중심의 몰도바 요리.', 'Moldovan cuisine in central Orhei.'),
   place('orheiul-vechi-fine_dining-2', 'orheiul-vechi', 'fine_dining', 'LA STRADA', 'Strada Mihai Eminescu 10, Orhei', '오르헤이의 음식점.', 'Restaurant in Orhei.'),
-  place('orheiul-vechi-bakery-2', 'orheiul-vechi', 'bakery', 'Marcu Bakery', 'Peresecina, MD-3505, Orhei District, Moldova', '오르헤이-키시너우 간선도로변의 인기 베이커리, 플러친타로 유명.', 'Popular roadside bakery on the Orhei-Chișinău highway, known for its plăcintă pies.'),
+  place('orheiul-vechi-bakery-2', 'orheiul-vechi', 'bakery', 'Marcu Bakery', 'Peresecina, MD-3505, Orhei District, Moldova', '오르헤이-키시너우 도로변의 빵집. 플러친타가 있습니다.', 'Roadside bakery on the Orhei–Chișinău road with plăcintă pies.'),
   place('orheiul-vechi-cafe-1', 'orheiul-vechi', 'cafe', 'Le Café', 'Vasile Lupu 44, Orhei, Moldova', '아늑한 분위기의 오르헤이 카페', 'Cozy retreat café in Orhei'),
   place('orheiul-vechi-cafe-2', 'orheiul-vechi', 'cafe', 'Cafenea Orhei', 'Strada Vasile Lupu 160, Orhei', '오르헤이의 카페.', 'Café in Orhei.'),
 

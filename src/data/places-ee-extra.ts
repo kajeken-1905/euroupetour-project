@@ -4,7 +4,7 @@ import type { Place } from '../types'
 export const placesEEExtra: Place[] = [
   // —— tallinn ——
   place('tallinn-fine_dining-1', 'tallinn', 'fine_dining', 'NOA', 'Ranna tee 3, Tallinn', '모던 에스토니아 파인.', 'Modern Estonian fine dining.', { image: '/places/tallinn-fine_dining-1.jpg' }),
-  place('tallinn-fine_dining-2', 'tallinn', 'fine_dining', 'Restaurant Rataskaevu 16', 'Rataskaevu tn 16, Tallinn', '탈린 구시가의 인기 레스토랑.', 'Popular restaurant in Tallinn\'s Old Town.'),
+  place('tallinn-fine_dining-2', 'tallinn', 'fine_dining', 'Restaurant Rataskaevu 16', 'Rataskaevu tn 16, Tallinn', '탈린 구시가의 레스토랑.', 'Restaurant in Tallinn’s Old Town.'),
   place('tallinn-fine_dining-3', 'tallinn', 'fine_dining', 'KOGU Resto', 'Võrgu tn 6, Tallinn', '탈린의 레스토랑.', 'Restaurant in Tallinn.'),
   place('tallinn-fine_dining-4', 'tallinn', 'fine_dining', 'Restaurant Tchaikovsky', 'Vene tn 9, Tallinn', '구시가의 러시안 파인 다이닝.', 'Russian fine dining in the Old Town.'),
   place('tallinn-fine_dining-5', 'tallinn', 'fine_dining', 'Farm', 'Müürivahe 27b, Tallinn', '유럽 요리 레스토랑.', 'European cuisine restaurant.', { image: '/places/tallinn-fine_dining-5.jpg' }),
@@ -18,7 +18,7 @@ export const placesEEExtra: Place[] = [
 
   // —— tartu ——
   place('tartu-fine_dining-1', 'tartu', 'fine_dining', 'Restaurant Fii', 'Rüütli 7, 51007 Tartu', '소피아 호텔의 미식 레스토랑.', 'Fine dining at the Sophia Hotel.'),
-  place('tartu-fine_dining-2', 'tartu', 'fine_dining', 'Restoran Hõlm', 'Ülikooli tn 14, Tartu', '타르투의 인기 레스토랑.', 'Popular restaurant in Tartu.'),
+  place('tartu-fine_dining-2', 'tartu', 'fine_dining', 'Restoran Hõlm', 'Ülikooli tn 14, Tartu', '타르투의 레스토랑.', 'Restaurant in Tartu.'),
   place('tartu-fine_dining-3', 'tartu', 'fine_dining', 'Chez Andre', 'Küütri tn 3, Tartu', '타르투의 레스토랑.', 'Restaurant in Tartu.'),
   place('tartu-bakery-1', 'tartu', 'bakery', 'Cruffin Pagarikoda', 'J. Kuperjanovi tn 18a, 60517 Tartu, Estonia', '타르투 중심가의 아늑한 베이커리', 'Delightful bakery in the heart of Tartu'),
   place('tartu-bakery-2', 'tartu', 'bakery', 'Patisserie "Almond"', 'Veski tn 5a, Tartu', '타르투의 제과점.', 'Patisserie in Tartu.'),
@@ -27,11 +27,11 @@ export const placesEEExtra: Place[] = [
   place('tartu-cafe-3', 'tartu', 'cafe', 'Karlova Kohv', 'Tähe tn 63, Tartu', '스페셜티 커피 전문점.', 'Specialty coffee shop.'),
 
   // —— parnu ——
-  place('parnu-fine_dining-1', 'parnu', 'fine_dining', 'Noot Restaurant', 'Anton Hansen Tammsaare puiestee 4a, 80010 Pärnu', '패르누의 대표 레스토랑.', 'Leading restaurant in Pärnu.'),
-  place('parnu-fine_dining-2', 'parnu', 'fine_dining', 'Supelsaksad Pärnu', 'Nikolai tn 32, Pärnu', '패르누의 인기 레스토랑.', 'Popular restaurant in Pärnu.'),
+  place('parnu-fine_dining-1', 'parnu', 'fine_dining', 'Noot Restaurant', 'Anton Hansen Tammsaare puiestee 4a, 80010 Pärnu', '패르누의 레스토랑.', 'Restaurant in Pärnu.'),
+  place('parnu-fine_dining-2', 'parnu', 'fine_dining', 'Supelsaksad Pärnu', 'Nikolai tn 32, Pärnu', '패르누의 레스토랑.', 'Restaurant in Pärnu.'),
   place('parnu-fine_dining-3', 'parnu', 'fine_dining', 'Mon Ami', 'Kuninga tn 11, Pärnu', '패르누의 레스토랑.', 'Restaurant in Pärnu.'),
 
-  place('parnu-bakery-1', 'parnu', 'bakery', 'Pärnamäed bakery and café', 'Reiu küla, Häädemeeste vald, 86101 Pärnu maakond, Estonia', '레이우 강변에 위치한 패르누의 인기 베이커리 카페', 'Popular Pärnu bakery café on the banks of the River Reiu'),
+  place('parnu-bakery-1', 'parnu', 'bakery', 'Pärnamäed bakery and café', 'Reiu küla, Häädemeeste vald, 86101 Pärnu maakond, Estonia', '레이우 강변의 빵집 겸 카페.', 'Bakery café on the banks of the River Reiu.'),
   place('parnu-bakery-2', 'parnu', 'bakery', 'Leivakas - Pagaritöökoda / Kiviahjupitsa', 'Lai tn 10-3, Pärnu', '패르누의 제과점.', 'Bakery in Pärnu.'),
   place('parnu-cafe-1', 'parnu', 'cafe', 'Pagaripoisid', 'Rüütli tänav 45, 80011 Pärnu, Estonia', '포리지와 커피, 페이스트리로 아침 식사하기 좋은 패르누의 카페', 'Pärnu café perfect for breakfast with porridge, coffee, and pastries'),
   place('parnu-cafe-2', 'parnu', 'cafe', 'Kohvila', 'Lai tn 10, Pärnu', '패르누의 카페.', 'Café in Pärnu.'),

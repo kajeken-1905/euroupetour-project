@@ -115,6 +115,12 @@
 "ko": "알게로 시내의 바 겸 제과점.",
 "ok": 1
 },
+"amalfi-fine_dining-2": {
+"en": "One-Michelin-star Amalfi restaurant, opened in 1959; closed Tuesdays.",
+"ko": "1959년 문을 연 아말피의 미쉐린 1스타 레스토랑. 화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "ams-bk-1": {
 "ok": 1
 },
@@ -316,6 +322,13 @@
 "ko": "캅페레 레 유카스 굴 양식촌의 굴·해산물 오두막 식당.",
 "ok": 1
 },
+"athens-fine_dining-1": {
+"addr": "1 Petrou Kokkali Street, 115 21 Athens",
+"en": "One-Michelin-star restaurant in Athens; closed Mondays and Tuesdays.",
+"ko": "아테네의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "ayia-napa-bakery-1": {
 "en": "Nissi Avenue branch of a Cypriot bakery chain, open 24 hours with breads, cakes and sandwiches.",
 "ko": "키프로스 체인 빵집의 니시 거리 지점. 24시간 열며 빵·케이크·샌드위치를 팝니다.",
@@ -464,6 +477,13 @@
 "banska-bystrica-fine_dining-1": {
 "del": "그 식당을 확인할 수 없음"
 },
+"barcelona-fine_dining-1": {
+"addr": "Ronda de Sant Antoni 41, 08011 Barcelona",
+"en": "One-Michelin-star Catalan restaurant in Barcelona; closed at weekends.",
+"ko": "바르셀로나의 미쉐린 1스타 카탈루냐 요리 레스토랑. 주말은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "basel-bakery-1": {
 "en": "Confectioner and tearoom on the Marktplatz, founded in 1870, with a Viennese-style coffee room upstairs.",
 "ko": "1870년 창업한 마르크트플라츠의 제과점 겸 티룸. 2층은 빈 커피하우스풍 객실입니다.",
@@ -550,6 +570,18 @@
 "bath-cafe-4": {
 "del": "배스에서 그 카페를 찾을 수 없음"
 },
+"bath-fine_dining-2": {
+"en": "One-Michelin-star restaurant in the Queensberry Hotel.",
+"ko": "퀸즈베리 호텔 안의 미쉐린 1스타 레스토랑.",
+"mi": "star1",
+"ok": 1
+},
+"belfast-fine_dining-1": {
+"en": "One-Michelin-star riverside restaurant in Belfast.",
+"ko": "벨파스트 강변의 미쉐린 1스타 레스토랑.",
+"mi": "star1",
+"ok": 1
+},
 "berat-bakery-1": {
 "del": "베라트에서 그 가게를 찾을 수 없음"
 },
@@ -571,6 +603,19 @@
 "en": "Traditional Albanian restaurant with live music some evenings; cash only.",
 "ko": "전통 알바니아 요리 식당. 저녁에 라이브 음악이 있고 현금만 받습니다.",
 "name": "Zonja Gjenë",
+"ok": 1
+},
+"bergen-fine_dining-3": {
+"en": "One-Michelin-star restaurant in the KODE art museum building; Tuesday to Saturday evenings.",
+"ko": "KODE 미술관 건물 안의 미쉐린 1스타 레스토랑. 화~토 저녁에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"bergen-fine_dining-4": {
+"addr": "Baneveien 16, 5010 Bergen",
+"en": "Two-Michelin-star restaurant cooking with western Norwegian produce (promoted in 2026); Wednesday to Saturday evenings.",
+"ko": "서부 노르웨이 식재료로 요리하는 미쉐린 2스타 레스토랑(2026년 승급). 수~토 저녁에 엽니다.",
+"mi": "star2",
 "ok": 1
 },
 "berlin-bakery-1": {
@@ -724,8 +769,26 @@
 "bern-korean-5": {
 "del": 1
 },
+"bilbao-fine_dining-1": {
+"addr": "Avenida de Abandoibarra 2, 48009 Bilbao",
+"en": "One-Michelin-star restaurant inside the Guggenheim Museum; open only a few days, so check ahead.",
+"ko": "구겐하임 미술관 건물 안의 미쉐린 1스타 레스토랑. 여는 날이 적으니 미리 확인하세요.",
+"mi": "star1",
+"ok": 1
+},
+"bled-fine_dining-1": {
+"en": "Restaurant in the Grand Hotel Toplice, listed in the Michelin Guide; closed Sundays and Mondays.",
+"ko": "그랜드 호텔 토플리체 안의 레스토랑. 미쉐린 가이드에 실려 있고 일·월요일은 쉽니다.",
+"ok": 1
+},
 "bonifacio-fine_dining-3": {
 "addr": "Cavallo Morto, 20169 Bonifacio",
+"ok": 1
+},
+"bordeaux-fine_dining-1": {
+"en": "One-Michelin-star restaurant in Bordeaux; closed Sundays and Mondays.",
+"ko": "보르도의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "brighton-bakery-5": {
@@ -749,11 +812,26 @@
 "brighton-fine_dining-3": {
 "del": "2023년 8월 폐업"
 },
+"brighton-fine_dining-5": {
+"del": 1
+},
 "bristol-bakery-4": {
 "del": "브리스틀에서 그 가게를 찾을 수 없음"
 },
 "bristol-bakery-5": {
 "del": "브리스틀에서 그 가게를 찾을 수 없음"
+},
+"bristol-fine_dining-1": {
+"en": "One-Michelin-star modern British restaurant in Cotham; closed Sundays and Mondays.",
+"ko": "코섬의 미쉐린 1스타 현대 영국 요리 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"bristol-fine_dining-2": {
+"en": "One-Michelin-star seasonal restaurant in Redland; closed Sundays and Mondays.",
+"ko": "레드랜드의 미쉐린 1스타 계절 요리 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
 },
 "brno-bakery-1": {
 "addr": "Zelný trh, 602 00 Brno",
@@ -943,8 +1021,32 @@
 "ko": "1899년 문을 연 구시가지의 네오고딕 맥주홀 식당.",
 "ok": 1
 },
+"budapest-fine_dining-1": {
+"en": "One-Michelin-star modern Hungarian restaurant with Hungarian wine pairings; closed Sundays.",
+"ko": "헝가리 와인과 함께 내는 미쉐린 1스타 현대 헝가리 요리 레스토랑. 일요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"budapest-fine_dining-2": {
+"addr": "Prestige Hotel, Vigyázó Ferenc utca 5, 1051 Budapest",
+"en": "Restaurant in the Prestige Hotel, listed in the Michelin Guide.",
+"ko": "프레스티지 호텔 안의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"budapest-fine_dining-3": {
+"en": "One-Michelin-star tasting-menu restaurant reinterpreting Hungarian heritage; closed Sundays and Mondays.",
+"ko": "헝가리 전통을 재해석한 테이스팅 메뉴의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "cambridge-bakery-3": {
 "del": "케임브리지에서 그 가게를 찾을 수 없음"
+},
+"cambridge-fine_dining-1": {
+"en": "Two-Michelin-star restaurant on Midsummer Common by the Cam; Wednesday to Saturday.",
+"ko": "캠강변 미드서머 커먼의 미쉐린 2스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star2",
+"ok": 1
 },
 "cambridge-fine_dining-2": {
 "del": "2018년 10월 폐업"
@@ -1042,6 +1144,13 @@
 "ko": "체코·유럽 요리 식당. 야외 자리가 넓고 연중 엽니다.",
 "ok": 1
 },
+"chartres-fine_dining-1": {
+"addr": "Le Grand Monarque, 22 Place des Épars, 28000 Chartres",
+"en": "One-Michelin-star restaurant in the Grand Monarque hotel; closed Sundays and Mondays.",
+"ko": "그랑 모나르크 호텔 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "cologne-bakery-1": {
 "addr": "Ehrenstraße 75, 50672 Köln",
 "en": "Family-run bakery known for its Rhenish rye black bread; closed Sundays and Mondays.",
@@ -1112,6 +1221,19 @@
 "cordoba-cafe-4": {
 "del": "코르도바에서 그 카페를 찾을 수 없음"
 },
+"cordoba-fine_dining-1": {
+"addr": "Calle Pablo Ruiz Picasso 8, 14014 Córdoba",
+"en": "Three-Michelin-star restaurant of chef Paco Morales, reinterpreting Andalusian historical cuisine.",
+"ko": "셰프 파코 모랄레스의 미쉐린 3스타 레스토랑. 안달루시아 역사 요리를 재해석합니다.",
+"mi": "star3",
+"ok": 1
+},
+"cordoba-fine_dining-5": {
+"addr": "Calle San Fernando 122, 14003 Córdoba",
+"en": "Córdoba restaurant listed in the Michelin Guide, serving modern takes on local dishes; closed Sundays.",
+"ko": "미쉐린 가이드에 실린 코르도바의 레스토랑. 코르도바 요리를 현대적으로 냅니다. 일요일은 쉽니다.",
+"ok": 1
+},
 "cph-bk-1": {
 "ok": 1
 },
@@ -1165,6 +1287,27 @@
 "ok": 1
 },
 "cph-kr-1": {
+"ok": 1
+},
+"delft-fine_dining-1": {
+"addr": "Houttuinen 2, 2611 DX Delft",
+"en": "Two-Michelin-star restaurant in Delft (promoted in 2026).",
+"ko": "델프트의 미쉐린 2스타 레스토랑(2026년 승급).",
+"mi": "star2",
+"ok": 1
+},
+"delft-fine_dining-2": {
+"addr": "Bagijnhof 118, 2611 AS Delft",
+"en": "One-Michelin-star restaurant in Delft; closed Mondays and Tuesdays.",
+"ko": "델프트의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"delft-fine_dining-3": {
+"addr": "Heilige Geestkerkhof 3, 2611 HP Delft",
+"en": "Michelin Bib Gourmand restaurant near the Oude Kerk; Wednesday to Saturday.",
+"ko": "아우더 케르크 근처의 미쉐린 빕 구르망 레스토랑. 수~토요일에 엽니다.",
+"mi": "bib",
 "ok": 1
 },
 "derry-fine_dining-2": {
@@ -1299,10 +1442,57 @@
 "ko": "구시가지의 한국식 바비큐 식당. 테이블마다 그릴이 있고 전골도 있습니다.",
 "ok": 1
 },
+"dublin-fine_dining-1": {
+"addr": "18-19 Parnell Square North, Dublin D01 T3V8",
+"en": "Two-Michelin-star restaurant on Parnell Square led by chef Mickael Viljanen.",
+"ko": "파넬 광장의 미쉐린 2스타 레스토랑. 셰프 미카엘 빌리아넨이 이끕니다.",
+"mi": "star2",
+"name": "Chapter One by Mickael Viljanen",
+"ok": 1
+},
+"dublin-fine_dining-2": {
+"addr": "The Merrion Hotel, 21 Upper Merrion Street, Dublin D02 KF79",
+"en": "Two-Michelin-star French restaurant in the Merrion Hotel; closed Sundays and Mondays.",
+"ko": "메리언 호텔 안의 미쉐린 2스타 프랑스 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
+"dublin-fine_dining-3": {
+"en": "One-Michelin-star restaurant on the South Circular Road; Wednesday to Saturday.",
+"ko": "사우스 서큘러 로드의 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
 "edinburgh-cafe-4": {
 "addr": "Melville Place, Edinburgh (West End)",
 "en": "West End specialty coffee café with outdoor seats facing St Mary’s Cathedral.",
 "ko": "웨스트엔드의 스페셜티 커피 카페. 바깥 자리에서 세인트 메리 대성당이 보입니다.",
+"ok": 1
+},
+"edinburgh-fine_dining-1": {
+"addr": "54 The Shore, Leith, Edinburgh EH6 6RA",
+"en": "One-Michelin-star restaurant on the Shore in Leith; Wednesday to Saturday.",
+"ko": "리스 항구의 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"edinburgh-fine_dining-2": {
+"addr": "78 Commercial Quay, Leith, Edinburgh EH6 6LX",
+"en": "One-Michelin-star Scottish restaurant in Leith; closed Sundays and Mondays.",
+"ko": "리스의 미쉐린 1스타 스코틀랜드 요리 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"edinburgh-fine_dining-4": {
+"en": "One-Michelin-star restaurant in a former warehouse; closed Mondays and Tuesdays.",
+"ko": "옛 창고 건물의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"florence-fine_dining-1": {
+"en": "Three-Michelin-star restaurant in Florence; Tuesday to Saturday evenings.",
+"ko": "피렌체의 미쉐린 3스타 레스토랑. 화~토 저녁에 엽니다.",
+"mi": "star3",
 "ok": 1
 },
 "frankfurt-bakery-1": {
@@ -1390,6 +1580,12 @@
 },
 "frankfurt-korean-3": {
 "del": 1
+},
+"funchal-fine_dining-1": {
+"en": "Two-Michelin-star restaurant in Madeira; Tuesday to Saturday evenings.",
+"ko": "마데이라의 미쉐린 2스타 레스토랑. 화~토 저녁에 엽니다.",
+"mi": "star2",
+"ok": 1
 },
 "fussen-bakery-1": {
 "en": "Bakery café on an old-town pedestrian street, baking regional breads and cakes on site.",
@@ -1600,11 +1796,23 @@
 "ko": "한국식 바비큐·김치볶음밥·치킨을 내는 한식당.",
 "ok": 1
 },
+"giethoorn-fine_dining-1": {
+"en": "Two-Michelin-star restaurant in Giethoorn; Wednesday to Sunday.",
+"ko": "기트호른의 미쉐린 2스타 레스토랑. 수~일요일에 엽니다.",
+"mi": "star2",
+"ok": 1
+},
 "girona-cafe-1": {
 "addr": "Carrer del Bellaire 7, 17004 Girona",
 "ok": 1
 },
 "girona-cafe-3": {
+"ok": 1
+},
+"girona-fine_dining-1": {
+"en": "Three-Michelin-star restaurant of the Roca brothers; closed Sundays and Mondays, booking essential.",
+"ko": "로카 삼형제의 미쉐린 3스타 레스토랑. 일·월요일은 쉬고 예약이 꼭 필요합니다.",
+"mi": "star3",
 "ok": 1
 },
 "gjirokaster-bakery-1": {
@@ -1623,6 +1831,18 @@
 "addr": "Rruga Bule Naipi, Gjirokastër",
 "en": "Family-run restaurant near the castle, with a terrace overlooking the castle and old town.",
 "ko": "성 가까이의 가족 운영 식당. 테라스에서 성과 구시가가 보입니다.",
+"ok": 1
+},
+"gothenburg-fine_dining-1": {
+"en": "One-Michelin-star restaurant in Gothenburg; closed Sundays and Mondays.",
+"ko": "예테보리의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"gothenburg-fine_dining-2": {
+"en": "One-Michelin-star New Nordic restaurant in Gothenburg; closed Sundays.",
+"ko": "뉴 노르딕 요리를 내는 예테보리의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "gozo-bakery-1": {
@@ -1739,6 +1959,12 @@
 "gyumri-fine_dining-2": {
 "en": "KUMA Hotel’s restaurant, serving Armenian food with a modern twist.",
 "ko": "쿠마 호텔의 레스토랑. 아르메니아 요리를 현대적으로 냅니다.",
+"ok": 1
+},
+"haarlem-fine_dining-4": {
+"en": "One-Michelin-star French restaurant on the Spaarne; closed Mondays and Tuesdays.",
+"ko": "스파르너 강변의 미쉐린 1스타 프랑스 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "hallstatt-bakery-1": {
@@ -2092,6 +2318,13 @@
 "addr": "William Street, Kilkenny",
 "ok": 1
 },
+"kilkenny-fine_dining-1": {
+"addr": "5 The Arches, Gashouse Lane, Kilkenny R95 X092",
+"en": "Long-standing one-Michelin-star restaurant in Kilkenny; closed Mondays and Tuesdays.",
+"ko": "킬케니의 오래된 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "killarney-cafe-1": {
 "addr": "4 Main St, Killarney, Co. Kerry V93 CC82",
 "en": "Bakery and café inside the old J.M. Reidy’s sweetshop building.",
@@ -2110,6 +2343,24 @@
 },
 "kotor-bakery-1": {
 "del": "코토르에서 그 빵집을 찾을 수 없음"
+},
+"la-rochelle-fine_dining-1": {
+"en": "Three-Michelin-star seafood restaurant on the Plage de la Concurrence; closed Sundays and Mondays.",
+"ko": "콩퀴랑스 해변의 미쉐린 3스타 해산물 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star3",
+"ok": 1
+},
+"lake-district-fine_dining-1": {
+"en": "One-Michelin-star restaurant in Grasmere cooking with garden and foraged produce.",
+"ko": "그래스미어의 미쉐린 1스타 레스토랑. 텃밭과 채집 재료로 요리합니다.",
+"mi": "star1",
+"ok": 1
+},
+"lake-district-fine_dining-2": {
+"en": "Small one-Michelin-star restaurant in Ambleside cooking with Cumbrian produce.",
+"ko": "앰블사이드의 작은 미쉐린 1스타 레스토랑. 컴브리아 향토 재료를 씁니다.",
+"mi": "star1",
+"ok": 1
 },
 "lausanne-bakery-1": {
 "addr": "Avenue d’Ouchy 15, 1006 Lausanne",
@@ -2401,6 +2652,12 @@
 "name": "A Padaria Portuguesa (Chiado)",
 "ok": 1
 },
+"lisbon-fine_dining-1": {
+"en": "Two-Michelin-star restaurant of chef José Avillez; closed Sundays and Mondays.",
+"ko": "셰프 주제 아빌레즈의 미쉐린 2스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
 "liverpool-bakery-2": {
 "del": "리버풀에서 그 가게를 찾을 수 없음"
 },
@@ -2676,8 +2933,42 @@
 "addr": "18 Place d’Armes, 1136 Luxembourg",
 "ok": 1
 },
+"lyon-fine_dining-1": {
+"addr": "12 Rue Royale, 69001 Lyon",
+"en": "Historic two-Michelin-star restaurant in Lyon; open few days, so check ahead.",
+"ko": "리옹의 역사적인 미쉐린 2스타 레스토랑. 여는 날이 적으니 미리 확인하세요.",
+"mi": "star2",
+"ok": 1
+},
+"maastricht-fine_dining-1": {
+"en": "One-Michelin-star restaurant in a château with terraced gardens; closed Mondays and Tuesdays.",
+"ko": "계단식 정원이 있는 성 안의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"maastricht-fine_dining-2": {
+"addr": "Plein 1992 12, 6221 JP Maastricht",
+"en": "One-Michelin-star creative restaurant of chef Servais Tilman; Wednesday to Saturday.",
+"ko": "셰프 세르베 틸만의 미쉐린 1스타 창작 요리 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"maastricht-fine_dining-3": {
+"addr": "St-Bernardusstraat 16, 6211 HL Maastricht",
+"en": "Old-town French restaurant holding one Michelin star since 2002; closed Monday to Wednesday.",
+"ko": "2002년부터 미쉐린 1스타를 지켜 온 구시가지의 프랑스 레스토랑. 월~수요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "madrid-bakery-1": {
 "del": "마드리드에서 그 빵집을 찾을 수 없음"
+},
+"madrid-fine_dining-1": {
+"addr": "Calle del Padre Damián 23, 28036 Madrid",
+"en": "Three-Michelin-star creative restaurant of chef David Muñoz; Tuesday to Friday.",
+"ko": "셰프 다비드 무뇨스의 미쉐린 3스타 창작 요리 레스토랑. 화~금요일에 엽니다.",
+"mi": "star3",
+"ok": 1
 },
 "malaga-bakery-3": {
 "del": "같은 가게가 카페 항목에 이미 있음(중복)"
@@ -2687,17 +2978,79 @@
 "ko": "구시가지의 작은 스페셜티 커피숍. 직접 만든 케이크가 인기입니다.",
 "ok": 1
 },
+"malaga-fine_dining-1": {
+"addr": "Calle Vélez Málaga 8, 29016 Málaga",
+"en": "One-Michelin-star restaurant of chef José Carlos García; closed Sundays and Mondays.",
+"ko": "셰프 호세 카를로스 가르시아의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"malmo-fine_dining-1": {
+"en": "Two-Michelin-star restaurant in Malmö; Wednesday to Saturday evenings.",
+"ko": "말뫼의 미쉐린 2스타 레스토랑. 수~토 저녁에 엽니다.",
+"mi": "star2",
+"ok": 1
+},
 "manchester-bakery-5": {
 "del": "맨체스터에서 그 빵집을 찾을 수 없음"
+},
+"manchester-fine_dining-1": {
+"addr": "42 Blossom Street, Ancoats, Manchester M4 6BF",
+"en": "One-Michelin-star restaurant in Ancoats; Wednesday to Saturday.",
+"ko": "앤코츠의 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"marseille-fine_dining-1": {
+"en": "Three-Michelin-star seafood restaurant on the Anse de Maldormé; closed Sundays and Mondays.",
+"ko": "말도르메 해안의 미쉐린 3스타 해산물 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star3",
+"ok": 1
+},
+"marseille-fine_dining-2": {
+"en": "One-Michelin-star restaurant overlooking the Old Port; closed Sundays and Mondays.",
+"ko": "구항구가 보이는 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
 },
 "mdina-bakery-1": {
 "en": "Rabat pastizzi bar running since the mid-1940s.",
 "ko": "1945년 무렵부터 이어온 라바트의 파스티치 바.",
 "ok": 1
 },
+"modena-fine_dining-1": {
+"en": "Three-Michelin-star restaurant of chef Massimo Bottura.",
+"ko": "셰프 마시모 보투라의 미쉐린 3스타 레스토랑.",
+"mi": "star3",
+"ok": 1
+},
+"monaco-fine_dining-1": {
+"en": "Three-Michelin-star restaurant in the Hôtel de Paris, led by Alain Ducasse.",
+"ko": "오텔 드 파리 안의 미쉐린 3스타 레스토랑. 알랭 뒤카스가 이끕니다.",
+"mi": "star3",
+"ok": 1
+},
+"monaco-fine_dining-2": {
+"en": "Two-Michelin-star restaurant in the Monte-Carlo Bay Hotel, blending Caribbean and Mediterranean cooking.",
+"ko": "몬테카를로 베이 호텔의 미쉐린 2스타 레스토랑. 카리브와 지중해 요리를 엮습니다.",
+"mi": "star2",
+"ok": 1
+},
+"monaco-fine_dining-3": {
+"en": "Japanese restaurant in the Hôtel Métropole, listed in the Michelin Guide.",
+"ko": "오텔 메트로폴 안의 일식 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
 "montpellier-cafe-1": {
 "addr": "79 Rue du Faubourg Figuerolles, 34070 Montpellier",
 "cat": "bakery",
+"ok": 1
+},
+"montpellier-fine_dining-2": {
+"addr": "8 Rue André-Michel, 34000 Montpellier",
+"en": "One-Michelin-star restaurant in Montpellier; closed Sundays and Mondays.",
+"ko": "몽펠리에의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "montpellier-korean-1": {
@@ -2872,6 +3225,12 @@
 },
 "munich-korean-5": {
 "del": 1
+},
+"naples-fine_dining-1": {
+"addr": "Via Posillipo 16 b/c, 80123 Napoli",
+"en": "Michelin Guide restaurant on the Posillipo waterfront.",
+"ko": "포실리포 해안의 미쉐린 가이드 레스토랑.",
+"ok": 1
 },
 "nerja-bakery-2": {
 "addr": "Camino de Burriana s/n, 29780 Nerja",
@@ -3207,6 +3566,23 @@
 "addr": "Carrer de Can Sanç 10, 07001 Palma",
 "ok": 1
 },
+"palma-fine_dining-1": {
+"en": "One-Michelin-star Mediterranean restaurant of British chef Marc Fosh; closed Sundays and Mondays.",
+"ko": "영국 출신 셰프 마크 포시의 미쉐린 1스타 지중해 요리 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"palma-fine_dining-2": {
+"en": "Palma restaurant listed in the Michelin Guide, serving modern Mediterranean food; closed Sundays and Mondays.",
+"ko": "미쉐린 가이드에 실린 팔마의 현대 지중해 요리 레스토랑. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"palma-fine_dining-3": {
+"en": "One-Michelin-star restaurant reinterpreting historical Majorcan cooking; closed Sundays and Mondays.",
+"ko": "마요르카 옛 요리를 재해석하는 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "paphos-bakery-1": {
 "addr": "Tombs of the Kings Ave 7, Paphos",
 "en": "24-hour bakery café near Kings Avenue Mall, with cheese pies and cakes.",
@@ -3249,6 +3625,12 @@
 },
 "paphos-fine_dining-3": {
 "del": 1
+},
+"paris-fine_dining-1": {
+"en": "Three-Michelin-star vegetable-led restaurant of chef Alain Passard; closed at weekends.",
+"ko": "셰프 알랭 파사르의 채소 중심 미쉐린 3스타 레스토랑. 주말은 쉽니다.",
+"mi": "star3",
+"ok": 1
 },
 "paris-fine_dining-5": {
 "addr": "27 Rue Malar, 75007 Paris",
@@ -3318,12 +3700,25 @@
 "podgorica-bakery-4": {
 "del": "포드고리차에서 그 가게를 찾을 수 없음"
 },
+"pompeii-fine_dining-1": {
+"addr": "Piazza Schettini 12/13, 80045 Pompei",
+"en": "One-Michelin-star restaurant in Pompei; closed Mondays and Tuesdays.",
+"ko": "폼페이의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "poprad-fine_dining-1": {
 "del": "출처마다 주소가 달라 확인할 수 없음"
 },
 "poprad-fine_dining-2": {
 "en": "Beer house serving Slovak classics, with a big outdoor beer garden.",
 "ko": "슬로바키아 전통 요리를 내는 맥줏집 식당. 야외 비어 가든이 넓습니다.",
+"ok": 1
+},
+"porto-fine_dining-1": {
+"en": "One-Michelin-star restaurant near the Ribeira; closed Sundays and Mondays.",
+"ko": "리베이라 근처의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "potsdam-bakery-1": {
@@ -3446,9 +3841,30 @@
 "addr": "Viale Francesco Baracca 74, 48121 Ravenna",
 "ok": 1
 },
+"reims-fine_dining-1": {
+"en": "Two-Michelin-star restaurant in the Domaine Les Crayères; closed Mondays and Tuesdays.",
+"ko": "크레예르 저택 호텔의 미쉐린 2스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
 "remich-fine_dining-1": {
 "addr": "Quai de la Moselle, 5553 Remich",
 "ok": 1
+},
+"reykjavik-fine_dining-2": {
+"en": "Small chef’s-counter restaurant with one Michelin star on Laugavegur; closed Sundays and Mondays.",
+"ko": "라우가베구르의 작은 셰프 카운터 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"riga-fine_dining-1": {
+"addr": "Grēcinieku iela 26, LV-1050 Riga",
+"en": "Traditional Latvian restaurant in the old town, listed in the Michelin Guide; closed Mondays.",
+"ko": "구시가지의 라트비아 전통 요리 식당. 미쉐린 가이드에 실려 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"rome-bakery-1": {
+"del": 1
 },
 "rome-bakery-3": {
 "addr": "Via dei Chiavari 34, 00186 Roma",
@@ -3465,6 +3881,12 @@
 "addr": "Via degli Orfani 84, 00186 Roma",
 "en": "Coffee bar by the Pantheon, famous for coffee granita with cream; closed Sundays.",
 "ko": "판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.",
+"ok": 1
+},
+"ronda-fine_dining-1": {
+"en": "Two-Michelin-star restaurant in Ronda; Wednesday to Saturday.",
+"ko": "론다의 미쉐린 2스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star2",
 "ok": 1
 },
 "roskilde-bakery-1": {
@@ -3533,6 +3955,38 @@
 "ko": "오래된 돌벽 건물의 프랑켄 와인 주점. 저녁에만 열고 일요일은 쉬며 예약하는 편이 좋습니다.",
 "ok": 1
 },
+"rotterdam-fine_dining-1": {
+"en": "Two-Michelin-star French restaurant in a park by the Maas; closed Tuesdays and Wednesdays.",
+"ko": "마스강이 보이는 공원 안의 미쉐린 2스타 프랑스 레스토랑. 화·수요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
+"rotterdam-fine_dining-2": {
+"en": "Two-Michelin-star tasting-menu restaurant of chef François Geurds.",
+"ko": "셰프 프랑수아 회르츠의 미쉐린 2스타 테이스팅 메뉴 레스토랑.",
+"mi": "star2",
+"ok": 1
+},
+"rotterdam-fine_dining-3": {
+"en": "One-Michelin-star seafood restaurant on the Maas; Wednesday to Saturday.",
+"ko": "마스강변의 미쉐린 1스타 해산물 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"rotterdam-fine_dining-4": {
+"addr": "Meent 72a, 3011 JN Rotterdam",
+"en": "One-Michelin-star restaurant in the city centre; closed Sundays.",
+"ko": "시내 중심의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"rotterdam-fine_dining-5": {
+"addr": "Boompjes 41, 3011 XB Rotterdam",
+"en": "Two-Michelin-star restaurant on the Boompjes by the Maas; closed Wednesdays and Sundays.",
+"ko": "마스강변 봄피에스의 미쉐린 2스타 레스토랑. 수·일요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
 "rovinj-bakery-1": {
 "del": "체인은 있으나 로빈 지점 주소를 확인할 수 없음"
 },
@@ -3541,6 +3995,13 @@
 "en": "Specialty coffee shop in Rovinj, known for flat whites and pour-overs.",
 "ko": "로빈의 스페셜티 커피숍. 플랫화이트와 핸드드립이 인기입니다.",
 "name": "Augusto",
+"ok": 1
+},
+"salamanca-fine_dining-1": {
+"addr": "Calle Empedrada 4, 37007 Salamanca",
+"en": "One-Michelin-star restaurant in Salamanca’s old town; closed Tuesdays.",
+"ko": "살라망카 구시가지의 미쉐린 1스타 레스토랑. 화요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "salzburg-bakery-1": {
@@ -3586,6 +4047,13 @@
 "ok": 1
 },
 "salzburg-fine_dining-4": {
+"ok": 1
+},
+"san-sebastian-fine_dining-1": {
+"addr": "Avenida Alcalde José Elosegi 273, 20015 Donostia",
+"en": "Three-Michelin-star San Sebastián restaurant, first starred in 1974; closed Sundays and Mondays.",
+"ko": "1974년 첫 별을 받은 산세바스티안의 미쉐린 3스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star3",
 "ok": 1
 },
 "santiago-fine_dining-1": {
@@ -3660,6 +4128,11 @@
 "ko": "사란데 언덕 꼭대기의 해산물·지중해 요리 식당. 만과 이오니아해가 내려다보입니다.",
 "ok": 1
 },
+"seville-fine_dining-1": {
+"en": "Seville restaurant listed in the Michelin Guide; closed Sundays and Mondays.",
+"ko": "미쉐린 가이드에 실린 세비야의 레스토랑. 일·월요일은 쉽니다.",
+"ok": 1
+},
 "sheki-bakery-1": {
 "del": "셰키에서 그 가게를 찾을 수 없음"
 },
@@ -3675,6 +4148,13 @@
 },
 "sighnaghi-cafe-1": {
 "del": "시그나기에서 그 카페를 찾을 수 없음"
+},
+"sirmione-fine_dining-1": {
+"addr": "Vicolo Strentelle 3, 25019 Sirmione",
+"en": "One-Michelin-star restaurant near the Scaliger Castle; closed Sundays.",
+"ko": "스칼리제라 성 근처의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
 },
 "skopje-bakery-3": {
 "del": "스코페에서 그 가게를 찾을 수 없음"
@@ -3784,6 +4264,18 @@
 },
 "st-moritz-fine_dining-4": {
 "del": 1
+},
+"stavanger-fine_dining-1": {
+"en": "Three-Michelin-star restaurant in Stavanger; Wednesday to Saturday evenings.",
+"ko": "스타방에르의 미쉐린 3스타 레스토랑. 수~토 저녁에 엽니다.",
+"mi": "star3",
+"ok": 1
+},
+"stavanger-fine_dining-2": {
+"en": "Small omakase counter with one Michelin star; Wednesday to Saturday evenings.",
+"ko": "작은 오마카세 카운터의 미쉐린 1스타 스시 레스토랑. 수~토 저녁에 엽니다.",
+"mi": "star1",
+"ok": 1
 },
 "stepantsminda-cafe-2": {
 "del": "스테판츠민다에서 그 카페를 찾을 수 없음"
@@ -3929,6 +4421,13 @@
 "addr": "Lower Frog Street, Tenby SA70 7HS",
 "ok": 1
 },
+"the-hague-fine_dining-2": {
+"addr": "Korte Houtstraat 4a, 2511 CD Den Haag",
+"en": "Michelin Bib Gourmand restaurant in the centre; closed Sundays.",
+"ko": "시내의 미쉐린 빕 구르망 레스토랑. 일요일은 쉽니다.",
+"mi": "bib",
+"ok": 1
+},
 "timisoara-bakery-3": {
 "del": "그 이름·주소의 제과점을 확인할 수 없음"
 },
@@ -3979,6 +4478,19 @@
 "name": "EJAA Mediterranean",
 "ok": 1
 },
+"toledo-fine_dining-3": {
+"addr": "Cigarral del Ángel, 45004 Toledo",
+"en": "Two-Michelin-star restaurant in a cigarral estate across the Tagus; closed Mondays and Tuesdays.",
+"ko": "타호 강 건너 시가랄(옛 별장)의 미쉐린 2스타 레스토랑. 월·화요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
+"toulouse-fine_dining-1": {
+"en": "One-Michelin-star restaurant of chef Michel Sarran; closed at weekends.",
+"ko": "셰프 미셸 사랑의 미쉐린 1스타 레스토랑. 주말은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "travnik-bakery-1": {
 "del": 1
 },
@@ -4015,8 +4527,78 @@
 "travnik-fine_dining-3": {
 "del": 1
 },
+"trondheim-fine_dining-1": {
+"en": "One-Michelin-star tasting-menu restaurant cooking with Trøndelag produce.",
+"ko": "트뢰넬라그 식재료로 테이스팅 메뉴를 내는 미쉐린 1스타 레스토랑.",
+"mi": "star1",
+"ok": 1
+},
+"trondheim-fine_dining-2": {
+"addr": "Dronningens gate 5, 7011 Trondheim",
+"en": "One-Michelin-star dining room in the Britannia Hotel; Wednesday to Saturday evenings.",
+"ko": "브리타니아 호텔 안의 미쉐린 1스타 다이닝룸. 수~토 저녁에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"turku-fine_dining-2": {
+"addr": "Kaskenkatu 6A, 20700 Turku",
+"en": "One-Michelin-star restaurant serving set menus of wild and foraged Finnish produce; Wednesday to Saturday.",
+"ko": "야생·채집 핀란드 식재료로 코스를 내는 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
 "urbino-fine_dining-2": {
 "addr": "Via Don Minzoni 2/4, 61029 Urbino",
+"ok": 1
+},
+"utrecht-fine_dining-1": {
+"en": "One-Michelin-star restaurant in the Grand Hotel Karel V, a converted monastery; Wednesday to Saturday evenings.",
+"ko": "옛 수도원을 고친 그랜드 호텔 카럴 V 안의 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"vaduz-fine_dining-1": {
+"en": "Restaurant in the Park Hotel Sonnenhof, listed in the Michelin Guide.",
+"ko": "파크 호텔 존넨호프 안의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"vaduz-fine_dining-2": {
+"addr": "Hintergass 9, 9490 Vaduz",
+"en": "One-Michelin-star restaurant among the princely vineyards; closed Sundays and Mondays.",
+"ko": "왕실 포도밭 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"valencia-fine_dining-1": {
+"addr": "Avenida Burjassot 54, 46009 València",
+"en": "Two-Michelin-star restaurant of chef Ricard Camarena; closed Sundays and Mondays.",
+"ko": "셰프 리카르드 카마레나의 미쉐린 2스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
+"valencia-fine_dining-2": {
+"addr": "Carrer dels Correus 8, 46002 València",
+"en": "Two-Michelin-star restaurant in central Valencia; closed Sundays and Mondays.",
+"ko": "발렌시아 시내의 미쉐린 2스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star2",
+"ok": 1
+},
+"valencia-fine_dining-3": {
+"en": "Small one-Michelin-star restaurant in Valencia; closed Sundays and Mondays.",
+"ko": "발렌시아의 작은 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"valletta-fine_dining-1": {
+"en": "One-Michelin-star restaurant in the Rosselli hotel; closed Sundays and Mondays.",
+"ko": "로셀리 호텔 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"valletta-fine_dining-3": {
+"en": "One-Michelin-star restaurant in a townhouse on Republic Street; closed Sundays and Mondays.",
+"ko": "리퍼블릭 거리 타운하우스의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "valletta-korean-2": {
@@ -4087,6 +4669,13 @@
 "ok": 1
 },
 "veliko-tarnovo-fine_dining-3": {
+"ok": 1
+},
+"verona-fine_dining-1": {
+"addr": "Via Dietro San Sebastiano 7, 37121 Verona",
+"en": "One-Michelin-star restaurant in Verona; closed Sundays and Mondays.",
+"ko": "베로나의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
+"mi": "star1",
 "ok": 1
 },
 "vienna-bakery-1": {
@@ -4185,6 +4774,18 @@
 "ko": "7구의 한식당. 비빔밥·불고기·테이블 바비큐와 물냉면이 있습니다.",
 "ok": 1
 },
+"vilnius-fine_dining-1": {
+"en": "One-Michelin-star tasting-menu restaurant using Lithuanian produce; Wednesday to Saturday evenings.",
+"ko": "리투아니아 식재료로 테이스팅 메뉴를 내는 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
+"vilnius-fine_dining-2": {
+"en": "One-Michelin-star restaurant in the old town with an open kitchen; Wednesday to Saturday evenings.",
+"ko": "구시가지의 미쉐린 1스타 레스토랑. 오픈 키친이 있고 수~토 저녁에 엽니다.",
+"mi": "star1",
+"ok": 1
+},
 "windsor-bakery-1": {
 "del": "윈저에서 그 빵집을 찾을 수 없음"
 },
@@ -4264,6 +4865,18 @@
 "york-cafe-1": {
 "ok": 1
 },
+"zagreb-fine_dining-1": {
+"en": "One-Michelin-star restaurant in Zagreb with seasonal tasting menus; closed Sundays and Mondays.",
+"ko": "자그레브의 미쉐린 1스타 레스토랑. 계절 테이스팅 메뉴를 냅니다. 일·월요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
+"zagreb-fine_dining-2": {
+"en": "One-Michelin-star restaurant in the Tuškanac woods; closed Sundays.",
+"ko": "투슈카나츠 숲속의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.",
+"mi": "star1",
+"ok": 1
+},
 "zakopane-bakery-3": {
 "ok": 1
 },
@@ -4271,6 +4884,13 @@
 "addr": "Krupówki 4a (top floor), 34-500 Zakopane",
 "en": "Bistro café on the top floor of a Krupówki building, with a terrace facing the Tatras.",
 "ko": "크루푸프키 거리 건물 꼭대기 층의 비스트로 카페. 타트라 산이 보이는 테라스가 있습니다.",
+"ok": 1
+},
+"zaragoza-fine_dining-1": {
+"addr": "Calle José Nebra 3, 50007 Zaragoza",
+"en": "One-Michelin-star restaurant in Zaragoza; Wednesday to Saturday.",
+"ko": "사라고사의 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
+"mi": "star1",
 "ok": 1
 },
 "zermatt-bakery-1": {
