@@ -126,6 +126,42 @@
 "name": "Rosette et Charlot",
 "ok": 1
 },
+"akureyri-bakery-1": {
+"del": "no shop confirmed at Hafnarstræti 108 (the bakery is listed at another address)"
+},
+"akureyri-bakery-2": {
+"en": "Neighbourhood bakery-café open since 1996.",
+"ko": "1996년 문을 연 동네 빵집 겸 카페.",
+"ok": 1
+},
+"akureyri-bakery-3": {
+"en": "Bakery in business for over 20 years, with Icelandic treats such as kleinur, chocolate sheet cake and soup served in a bread bowl.",
+"ko": "20년 넘게 영업한 빵집. 클레이누르 같은 아이슬란드 과자와 초콜릿 케이크, 빵 그릇에 담은 수프를 냅니다.",
+"ok": 1
+},
+"akureyri-cafe-1": {
+"en": "Café in a blue building on the main street with morning bread, lunchtime soup and daily dishes, and Icelandic layer cakes.",
+"ko": "중심가의 파란 건물 카페. 아침 빵, 점심 수프와 오늘의 요리, 아이슬란드식 케이크를 냅니다.",
+"ok": 1
+},
+"akureyri-cafe-2": {
+"en": "Specialty coffee café inside the Akureyri Art Museum, with fish soup and breakfast plates with sourdough.",
+"ko": "아쿠레이리 미술관 건물 안의 스페셜티 커피 카페. 생선 수프와 사워도우를 곁들인 아침 메뉴가 있습니다.",
+"ok": 1
+},
+"akureyri-fine_dining-1": {
+"del": "not at the listed address; current location not confirmable"
+},
+"akureyri-fine_dining-2": {
+"en": "Fifth-floor restaurant in an office building, open since 2005, with views over the fjord and mountains and Icelandic lamb, seafood soup and sushi.",
+"ko": "2005년 문을 연 사무 건물 5층 레스토랑. 피오르와 산이 보이고 아이슬란드 식재료로 양고기·해산물 수프와 초밥을 냅니다.",
+"ok": 1
+},
+"akureyri-fine_dining-3": {
+"en": "Restaurant serving seafood, sushi and steak from Icelandic fishermen and farmers, with a lunch buffet.",
+"ko": "아이슬란드 어부·농가 식재료로 해산물·초밥·스테이크를 내는 레스토랑. 점심 뷔페가 있습니다.",
+"ok": 1
+},
 "alghero-bakery-1": {
 "addr": "Via Sassari 35b, 07041 Alghero",
 "en": "Bar and pastry shop in central Alghero.",
@@ -3443,6 +3479,35 @@
 "ko": "비외 바생 근처의 작은 식당. 미쉐린 가이드에 실려 있고 노르망디 재료로 세 가지 코스를 냅니다.",
 "ok": 1
 },
+"husavik-bakery-1": {
+"en": "Bakery-café near the harbour best known for its snúður cinnamon rolls; closed Sundays.",
+"ko": "항구 근처의 빵집 겸 카페. 시나몬롤 스누두르가 대표이고 일요일은 쉽니다.",
+"ok": 1
+},
+"husavik-bakery-2": {
+"del": "only a bare low-rated listing; address and status not confirmable"
+},
+"husavik-cafe-2": {
+"en": "Small café sharing its space with a hair salon, serving Illy coffee, cinnamon buns, paninis and soup, and selling hand-knitted woollens.",
+"ko": "미용실과 공간을 함께 쓰는 작은 카페. 일리 커피와 시나몬번·파니니·수프를 내고 손뜨개 소품도 팝니다.",
+"ok": 1
+},
+"husavik-fine_dining-1": {
+"en": "Small family-run seafood restaurant in central Húsavík with fish soup, the daily catch and homemade bread, plus a terrace.",
+"ko": "후사비크 중심의 작은 가족 운영 해산물 식당. 생선 수프와 그날 잡은 생선, 직접 구운 빵을 내고 테라스가 있습니다.",
+"ok": 1
+},
+"husavik-fine_dining-2": {
+"del": "listed as temporarily closed (June 2026)"
+},
+"husavik-fine_dining-3": {
+"en": "Harbourside restaurant built of driftwood, serving fish, soups and salads, with a bar upstairs.",
+"ko": "항구의 유목(떠내려온 나무)으로 지은 식당. 생선·수프·샐러드를 내고 위층은 바입니다.",
+"ok": 1
+},
+"husavik-fine_dining-4": {
+"del": "listed address not confirmable"
+},
 "hvar-bakery-1": {
 "en": "Small pastry shop and café in a Burak alley, known for the olive-oil-and-spice Hvar biscuit forski koloč; open in the tourist season only.",
 "ko": "부라크 골목의 작은 제과점 겸 카페. 올리브유와 향신료로 만든 흐바르 전통 과자 포르스키 콜로치가 대표이고 관광철에만 엽니다.",
@@ -3739,6 +3804,26 @@
 "killarney-cafe-3": {
 "en": "Handmade-chocolate café on Kenmare Place with coffee, tea and scones; dog-friendly.",
 "ko": "케나레 플레이스의 수제 초콜릿 카페. 커피·차·스콘을 내고 반려견 동반이 됩니다.",
+"ok": 1
+},
+"killarney-cafe-4": {
+"en": "Cosy café down New Market Lane, known for gluten-free bagels and Biscoff lattes, with outdoor seating.",
+"ko": "뉴마켓 골목 안의 아늑한 카페. 글루텐프리 베이글과 비스코프 라테가 인기이고 바깥 좌석이 있습니다.",
+"ok": 1
+},
+"killarney-cafe-5": {
+"en": "Specialty coffee bar on Main Street opened in April 2025, ranked 48th among Europe’s best coffee shops for 2026.",
+"ko": "2025년 4월 문을 연 메인 스트리트의 스페셜티 커피 카페. 2026년 유럽 커피숍 순위 48위에 올랐습니다.",
+"ok": 1
+},
+"killarney-fine_dining-1": {
+"en": "Irish restaurant above a craft shop on High Street, best known for boxty potato pancakes, with seafood too; closed Sundays and Mondays.",
+"ko": "하이 스트리트 공예품 가게 위의 아일랜드 요리 식당. 감자 팬케이크 박스티가 대표이고 해산물도 냅니다. 일·월요일 휴무.",
+"ok": 1
+},
+"killarney-fine_dining-2": {
+"en": "Irish restaurant on College Street run by the Cronin family since 1957, known for Kerry seafood chowder and lamb.",
+"ko": "1957년부터 크로닌 가족이 운영하는 칼리지 스트리트의 아일랜드 요리 식당. 케리 해산물 차우더와 양고기가 대표입니다.",
 "ok": 1
 },
 "kiruna-cafe-1": {
@@ -4084,6 +4169,58 @@
 "addr": "Panagioti Symeou, 3105 Limassol",
 "en": "Greek and Cypriot restaurant known for grilled octopus; closed Tuesdays.",
 "ko": "그리스·키프로스 요리 식당. 문어 구이가 알려져 있고 화요일은 쉽니다.",
+"ok": 1
+},
+"limerick-bakery-1": {
+"en": "Bakery-café run by the Canty family since 1966, baking brown bread and cakes; closed Sundays.",
+"ko": "1966년부터 캔티 가족이 운영하는 빵집 겸 카페. 브라운 브레드와 케이크를 굽고 일요일은 쉽니다.",
+"ok": 1
+},
+"limerick-bakery-2": {
+"en": "Parisian-style pâtisserie opened in 2021, open Thursday to Sunday only.",
+"ko": "2021년 문을 연 파리풍 파티스리. 목~일요일만 엽니다.",
+"ok": 1
+},
+"limerick-bakery-3": {
+"en": "Gelato parlour, bakery and café making gelato and pastries in small daily batches, with vegan and gluten-free flavours; closed Mondays.",
+"ko": "젤라토 가게 겸 빵집·카페. 매일 소량으로 젤라토와 페이스트리를 만들고 비건·글루텐프리 맛도 있습니다. 월요일 휴무.",
+"ok": 1
+},
+"limerick-bakery-4": {
+"addr": "54 Upper William Street, Limerick",
+"en": "Bakery and coffee shop on the upper floors of Upper William Street, making wedding and birthday cakes, confectionery and bread.",
+"ko": "어퍼 윌리엄 스트리트 2·3층의 빵집 겸 커피숍. 웨딩·생일 케이크와 과자, 빵을 만듭니다.",
+"ok": 1
+},
+"limerick-cafe-1": {
+"en": "Bakery-café on the first floor of Arthur’s Quay Shopping Centre with cakes, pies, sandwiches and soup.",
+"ko": "아서스 퀘이 쇼핑센터 1층의 베이커리 카페. 케이크·파이·샌드위치·수프를 냅니다.",
+"ok": 1
+},
+"limerick-cafe-2": {
+"en": "Café-bistro on Roches Street serving breakfast, lunch and homemade desserts; closed Sundays.",
+"ko": "로치스 스트리트의 카페 겸 비스트로. 아침·점심과 수제 디저트를 내고 일요일은 쉽니다.",
+"ok": 1
+},
+"limerick-cafe-3": {
+"en": "Specialty coffee café that started as a pop-up and settled here in 2018; dog-friendly, with a deli next door.",
+"ko": "팝업으로 시작해 2018년 자리를 잡은 스페셜티 커피 카페. 반려견 동반이 되고 옆에 델리가 있습니다.",
+"ok": 1
+},
+"limerick-cafe-4": {
+"en": "Cosy café on Roches Street with coffee, chai lattes, breakfast and lunch.",
+"ko": "로치스 스트리트의 아늑한 카페. 커피·차이 라테와 아침·점심 메뉴를 냅니다.",
+"ok": 1
+},
+"limerick-cafe-5": {
+"en": "Specialty coffee café on Catherine Street with filter coffee and pastries, a minimalist interior and outdoor seating.",
+"ko": "캐서린 스트리트의 스페셜티 커피 카페. 필터 커피와 페이스트리를 내고 미니멀한 실내와 바깥 좌석이 있습니다.",
+"ok": 1
+},
+"limerick-fine_dining-1": {
+"addr": "Theatre Lane, Lower Glentworth Street, Limerick V94 T3K1",
+"en": "Restaurant in a historic building, open Thursday to Saturday evenings only, with a full coeliac menu.",
+"ko": "오래된 건물에 자리한 레스토랑. 목~토요일 저녁에만 열고 셀리악 메뉴가 따로 있습니다.",
 "ok": 1
 },
 "limerick-fine_dining-2": {
@@ -6121,6 +6258,46 @@
 "addr": "Quai de la Moselle, 5553 Remich",
 "ok": 1
 },
+"reykjavik-bakery-1": {
+"en": "Small bakery near Ingólfstorg known for cinnamon rolls and sourdough, opening at 7 am.",
+"ko": "잉골프 광장 근처의 작은 빵집. 시나몬롤과 사워도우가 대표이고 아침 7시에 엽니다.",
+"ok": 1
+},
+"reykjavik-bakery-2": {
+"en": "Family bakery run by the fourth generation since 1920, famous for sourdough, croissants and vínarbrauð, with all-day breakfast.",
+"ko": "1920년부터 4대째 이어 온 가족 빵집. 사워도우와 크루아상·비나르브라우드가 유명하고 종일 아침 메뉴를 냅니다.",
+"ok": 1
+},
+"reykjavik-bakery-3": {
+"addr": "Klapparstígur 3, 101 Reykjavík",
+"en": "Iceland’s first bakery, founded in 1834, now in a smaller shop on Klapparstígur after leaving its original downtown site.",
+"ko": "1834년 문을 연 아이슬란드 최초의 빵집. 시내 원래 자리에서 클라파르스티구르의 작은 가게로 옮겼습니다.",
+"ok": 1
+},
+"reykjavik-bakery-4": {
+"cat": "cafe",
+"en": "Yellow-and-blue café on the street down from Hallgrímskirkja, crammed with vintage curios, known for cheesecake and vegan chilli.",
+"ko": "할그림스키르캬에서 내려오는 길의 노랑·파랑 외관 카페. 빈티지 소품으로 꾸몄고 치즈케이크와 비건 칠리가 인기입니다.",
+"ok": 1
+},
+"reykjavik-cafe-1": {
+"en": "Reykjavík Roasters’ second café, opened in 2015 and the roomiest, with a hand-brew bar and a fuller food menu.",
+"ko": "2015년 문을 연 레이캬비크 로스터스의 두 번째 매장. 가장 넓고 핸드드립 브루 바와 음식 메뉴가 있습니다.",
+"ok": 1
+},
+"reykjavik-cafe-2": {
+"del": "permanently closed"
+},
+"reykjavik-cafe-3": {
+"en": "American-diner-style brunch café with laundry machines in the basement, a kids’ playroom and a children’s brunch.",
+"ko": "미국식 다이너 분위기의 브런치 카페. 지하에 세탁기가 있고 아이 놀이방과 아이용 브런치가 있습니다.",
+"ok": 1
+},
+"reykjavik-cafe-4": {
+"en": "Two-level café near Ingólfstorg: breakfast and coffee upstairs, Icelandic beers in the basement, with board games and books.",
+"ko": "잉골프 광장 근처의 2층 카페. 1층은 아침·커피, 지하는 아이슬란드 맥주를 내고 보드게임과 책이 있습니다.",
+"ok": 1
+},
 "reykjavik-fine_dining-1": {
 "en": "New Nordic restaurant that won Iceland’s first Michelin star in 2017; one star in 2026.",
 "ko": "2017년 아이슬란드에서 처음 미쉐린 별을 받은 뉴 노르딕 레스토랑. 2026년 현재 1스타입니다.",
@@ -6133,11 +6310,24 @@
 "mi": "star1",
 "ok": 1
 },
+"reykjavik-fine_dining-3": {
+"en": "Chef Hrefna Sætran’s grill restaurant, cooking fish and meat from local farms over the grill, with a tasting menu; dinner only.",
+"ko": "흐레프나 새트란 셰프의 그릴 레스토랑. 지역 농가 식재료로 생선과 고기를 굽고 테이스팅 메뉴가 있습니다. 저녁에만 엽니다.",
+"ok": 1
+},
+"reykjavik-fine_dining-4": {
+"en": "Seafood restaurant founded in 2007 by chef Hrefna Sætran in one of central Reykjavík’s oldest buildings, giving Icelandic ingredients a Japanese touch.",
+"ko": "2007년 흐레프나 새트란 셰프가 연 해산물 레스토랑. 시내에서 가장 오래된 건물 중 하나에 있고 아이슬란드 식재료에 일본식 감각을 더합니다.",
+"ok": 1
+},
 "reykjavik-fine_dining-5": {
 "addr": "Mýrargata 31, 101 Reykjavík",
 "en": "Restaurant reworking traditional Icelandic dishes, open for dinner only and closed Mondays and Tuesdays; listed in the MICHELIN Guide.",
 "ko": "아이슬란드 전통 요리를 현대적으로 풀어 내는 레스토랑. 저녁에만 열고 월·화요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
+},
+"reykjavik-korean-1": {
+"del": "only a 2018 review; current operation not confirmable"
 },
 "rhodes-bakery-1": {
 "del": "only one blog mention; address not confirmable"
@@ -6830,6 +7020,33 @@
 "segovia-fine_dining-5": {
 "en": "Family-run restaurant opened in 1895, serving roast suckling pig and lamb.",
 "ko": "1895년 문을 연 가족 경영 식당. 새끼 돼지 구이와 양고기 구이를 냅니다.",
+"ok": 1
+},
+"selfoss-bakery-1": {
+"del": "address not confirmable"
+},
+"selfoss-bakery-2": {
+"del": "no Selfoss branch found (bakery is in Hveragerði)"
+},
+"selfoss-cafe-1": {
+"cat": "fine_dining",
+"en": "Restaurant-café in a renovated old house serving fish, burgers, pizza and desserts.",
+"ko": "리모델링한 옛 가옥의 레스토랑 겸 카페. 생선·버거·피자와 디저트를 냅니다.",
+"ok": 1
+},
+"selfoss-cafe-2": {
+"en": "Café in a reconstructed building in Selfoss’s new old town, modelled on a house built for the Danish king’s 1907 visit, serving open sandwiches, apple cake and skyr cheesecake.",
+"ko": "셀포스 새 구시가지의 복원 건물 카페. 1907년 덴마크 국왕 방문용으로 지은 집을 본떴고 오픈 샌드위치·사과 케이크·스키르 치즈케이크를 냅니다.",
+"ok": 1
+},
+"selfoss-cafe-3": {
+"en": "Bookshop-café selling new and second-hand books, described as the only bookshop in south Iceland.",
+"ko": "새 책과 헌책을 함께 파는 서점 겸 카페. 아이슬란드 남부의 유일한 서점으로 소개된 곳입니다.",
+"ok": 1
+},
+"selfoss-cafe-4": {
+"en": "Brunch café in the Krónan building by the roundabout with eggs Benedict, soups and burgers, vegan and gluten-free options and a kids’ play corner.",
+"ko": "로터리 옆 크로난 건물의 브런치 카페. 에그 베네딕트·수프·버거를 내고 비건·글루텐프리 메뉴와 아이 놀이 공간이 있습니다.",
 "ok": 1
 },
 "seville-bakery-1": {

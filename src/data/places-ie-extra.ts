@@ -42,15 +42,15 @@ export const placesIEExtra: Place[] = [
   place('cork-cafe-3', 'cork', 'cafe', 'Three Fools Coffee', 'The Glass Pod, Kiosk 2, Grand Parade, Cork', '그랜드 퍼레이드 중앙도서관 맞은편의 유리로 된 단독 건물 커피 카페. 직접 볶은 싱글 오리진 에스프레소를 냅니다.', 'Glass-fronted standalone coffee kiosk on Grand Parade opposite the Central Library, serving single-origin espresso roasted in-house.'),
 
   // —— killarney ——
-  place('killarney-fine_dining-1', 'killarney', 'fine_dining', 'Bricín Restaurant and Boxty House', '26 High Street, Killarney, V93 EE61', '하이 스트리트의 정통 아일랜드 요리.', 'Traditional Irish cuisine on High Street.'),
-  place('killarney-fine_dining-2', 'killarney', 'fine_dining', 'Cronins Restaurant', '9 College Street, Killarney', '1957년부터 가족이 운영하는 레스토랑. 해산물과 스테이크를 냅니다.', 'Family-run restaurant since 1957 serving seafood and steaks.'),
+  place('killarney-fine_dining-1', 'killarney', 'fine_dining', 'Bricín Restaurant and Boxty House', '26 High Street, Killarney, V93 EE61', '하이 스트리트 공예품 가게 위의 아일랜드 요리 식당. 감자 팬케이크 박스티가 대표이고 해산물도 냅니다. 일·월요일 휴무.', 'Irish restaurant above a craft shop on High Street, best known for boxty potato pancakes, with seafood too; closed Sundays and Mondays.'),
+  place('killarney-fine_dining-2', 'killarney', 'fine_dining', 'Cronins Restaurant', '9 College Street, Killarney', '1957년부터 크로닌 가족이 운영하는 칼리지 스트리트의 아일랜드 요리 식당. 케리 해산물 차우더와 양고기가 대표입니다.', 'Irish restaurant on College Street run by the Cronin family since 1957, known for Kerry seafood chowder and lamb.'),
   place('killarney-bakery-2', 'killarney', 'bakery', 'Petit Delice', '41-42 High Street, Killarney, Co. Kerry, Ireland', '2008년부터 가족이 운영하는 프랑스식 파티스리·불랑제리. 2층 카페와 작은 테라스가 있고 글루텐프리 케이크도 있습니다.', 'Family-run French pâtisserie and boulangerie since 2008, with a first-floor café, a small patio and gluten-free cakes.'),
   place('killarney-bakery-4', 'killarney', 'cafe', 'LUNA', '1 Brewery Ln, Kenmare Pl, Killarney, Co. Kerry, Ireland', '남매가 운영하는 델리 겸 와인 바. 낮에는 샌드위치·페이스트리와 커피, 저녁엔 내추럴 와인과 아일랜드 치즈를 냅니다.', 'Deli and wine bar run by a brother and sister: sandwiches, pastries and coffee by day, natural wine with Irish cheese and charcuterie in the evening.'),
   place('killarney-cafe-1', 'killarney', 'cafe', 'Mrs Reidy’s Bakery & Café (J.M. Reidy’s)', '4 Main St, Killarney, Co. Kerry V93 CC82', '옛 사탕 가게 건물(J.M. 리디스) 안의 베이커리·카페.', 'Bakery and café inside the old J.M. Reidy’s sweetshop building.'),
   place('killarney-cafe-2', 'killarney', 'cafe', 'Curious Cat Café', '1 New Market Ln, Killarney, Co. Kerry, Ireland', '뉴마켓 골목 안의 아늑한 카페. 아침 메뉴와 수프, 커피를 오후까지 내고 실내외 좌석이 있습니다.', 'Cosy café tucked into New Market Lane, serving breakfast, soups and coffee until late afternoon, with indoor and outdoor seating.'),
   place('killarney-cafe-3', 'killarney', 'cafe', 'Lir Cafe', 'Kenmare Place, V93 P962 Killarney, Ireland', '케나레 플레이스의 수제 초콜릿 카페. 커피·차·스콘을 내고 반려견 동반이 됩니다.', 'Handmade-chocolate café on Kenmare Place with coffee, tea and scones; dog-friendly.'),
-  place('killarney-cafe-4', 'killarney', 'cafe', 'Good Boy Coffee', '9 New Market Ln, Killarney, Co. Kerry, Ireland', '킬라니의 커피숍.', 'Coffee shop in Killarney.'),
-  place('killarney-cafe-5', 'killarney', 'cafe', 'Boardwalk Coffee Killarney', 'Unit 1, Main Street, Killarney V93 CHR4, Ireland', '킬라니 메인 스트리트의 카페.', 'Café on Main Street in Killarney.'),
+  place('killarney-cafe-4', 'killarney', 'cafe', 'Good Boy Coffee', '9 New Market Ln, Killarney, Co. Kerry, Ireland', '뉴마켓 골목 안의 아늑한 카페. 글루텐프리 베이글과 비스코프 라테가 인기이고 바깥 좌석이 있습니다.', 'Cosy café down New Market Lane, known for gluten-free bagels and Biscoff lattes, with outdoor seating.'),
+  place('killarney-cafe-5', 'killarney', 'cafe', 'Boardwalk Coffee Killarney', 'Unit 1, Main Street, Killarney V93 CHR4, Ireland', '2025년 4월 문을 연 메인 스트리트의 스페셜티 커피 카페. 2026년 유럽 커피숍 순위 48위에 올랐습니다.', 'Specialty coffee bar on Main Street opened in April 2025, ranked 48th among Europe’s best coffee shops for 2026.'),
 
   // —— kilkenny ——
   place('kilkenny-fine_dining-1', 'kilkenny', 'fine_dining', 'Campagne', '5 The Arches, Gashouse Lane, Kilkenny R95 X092', '킬케니의 오래된 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.', 'Long-standing one-Michelin-star restaurant in Kilkenny; closed Mondays and Tuesdays.', { michelin: 'star1' }),
@@ -65,15 +65,15 @@ export const placesIEExtra: Place[] = [
   place('kilkenny-cafe-5', 'kilkenny', 'cafe', 'The Book & Coffee Shop', 'William Street, Kilkenny', '책과 커피를 함께 즐기는 킬케니의 카페.', 'Café in Kilkenny combining books and coffee.'),
 
   // —— limerick ——
-  place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Freddy\'s', '100 O\'Connell St, Limerick, V94 XY0P', '리머릭의 레스토랑.', 'Restaurant in Limerick.'),
+  place('limerick-fine_dining-1', 'limerick', 'fine_dining', 'Freddy\'s', 'Theatre Lane, Lower Glentworth Street, Limerick V94 T3K1', '오래된 건물에 자리한 레스토랑. 목~토요일 저녁에만 열고 셀리악 메뉴가 따로 있습니다.', 'Restaurant in a historic building, open Thursday to Saturday evenings only, with a full coeliac menu.'),
   place('limerick-fine_dining-2', 'limerick', 'fine_dining', 'The Curragower Bar & Restaurant', "Clancy's Strand, Limerick, Ireland", '중세 지구에 위치, 킹존스 성과 커러거워 폭포 전망의 레스토랑.', "Restaurant in Limerick's medieval quarter with views of King John's Castle and the Curragower Falls."),
-  place('limerick-bakery-1', 'limerick', 'bakery', 'Bean a Tí Bakery & Cafe', '1 Little Catherine Street, Limerick, Ireland', '1966년부터 이어온 리머릭의 가족 운영 베이커리', 'Family-run Limerick bakery baking since 1966'),
-  place('limerick-bakery-2', 'limerick', 'bakery', 'Angel Dust Patisserie and Bakery', '12 Thomas St, Limerick, Ireland', '리머릭의 프랑스식 파티스리 겸 베이커리.', 'French-style patisserie and bakery in Limerick.'),
-  place('limerick-bakery-3', 'limerick', 'bakery', "Gusto d'Italia", '30 William St, Limerick, Ireland', '리머릭의 이탈리아식 베이커리.', 'Italian-style bakery in Limerick.'),
-  place('limerick-bakery-4', 'limerick', 'bakery', 'The Danes Bakery and Wedding Gallery', '54-55 Upper William St, Limerick, Ireland', '웨딩 케이크도 만드는 리머릭의 빵집.', 'Limerick bakery that also makes wedding cakes.'),
-  place('limerick-cafe-1', 'limerick', 'cafe', 'Bowes Ryan Bakery & Cafe', "Arthur's Quay, Limerick V94 WN50, Ireland", '아서스 퀘이에 위치한 리머릭의 베이커리 카페', 'Limerick bakery café at Arthurs Quay'),
-  place('limerick-cafe-2', 'limerick', 'cafe', 'Café Rosé', '40 Roches St, Limerick, Ireland', '리머릭의 카페.', 'Café in Limerick.'),
-  place('limerick-cafe-3', 'limerick', 'cafe', 'Rift Coffee', '30 Upper Mallow St, Limerick, Ireland', '리머릭의 커피숍.', 'Coffee shop in Limerick.'),
-  place('limerick-cafe-4', 'limerick', 'cafe', 'Aroma Coffee House', '43 Roches St, Limerick, Ireland', '리머릭의 커피숍.', 'Coffee house in Limerick.'),
-  place('limerick-cafe-5', 'limerick', 'cafe', 'Fika Coffee', '15 Catherine St, Limerick, Ireland', '리머릭의 커피숍.', 'Coffee shop in Limerick.'),
+  place('limerick-bakery-1', 'limerick', 'bakery', 'Bean a Tí Bakery & Cafe', '1 Little Catherine Street, Limerick, Ireland', '1966년부터 캔티 가족이 운영하는 빵집 겸 카페. 브라운 브레드와 케이크를 굽고 일요일은 쉽니다.', 'Bakery-café run by the Canty family since 1966, baking brown bread and cakes; closed Sundays.'),
+  place('limerick-bakery-2', 'limerick', 'bakery', 'Angel Dust Patisserie and Bakery', '12 Thomas St, Limerick, Ireland', '2021년 문을 연 파리풍 파티스리. 목~일요일만 엽니다.', 'Parisian-style pâtisserie opened in 2021, open Thursday to Sunday only.'),
+  place('limerick-bakery-3', 'limerick', 'bakery', "Gusto d'Italia", '30 William St, Limerick, Ireland', '젤라토 가게 겸 빵집·카페. 매일 소량으로 젤라토와 페이스트리를 만들고 비건·글루텐프리 맛도 있습니다. 월요일 휴무.', 'Gelato parlour, bakery and café making gelato and pastries in small daily batches, with vegan and gluten-free flavours; closed Mondays.'),
+  place('limerick-bakery-4', 'limerick', 'bakery', 'The Danes Bakery and Wedding Gallery', '54 Upper William Street, Limerick', '어퍼 윌리엄 스트리트 2·3층의 빵집 겸 커피숍. 웨딩·생일 케이크와 과자, 빵을 만듭니다.', 'Bakery and coffee shop on the upper floors of Upper William Street, making wedding and birthday cakes, confectionery and bread.'),
+  place('limerick-cafe-1', 'limerick', 'cafe', 'Bowes Ryan Bakery & Cafe', "Arthur's Quay, Limerick V94 WN50, Ireland", '아서스 퀘이 쇼핑센터 1층의 베이커리 카페. 케이크·파이·샌드위치·수프를 냅니다.', 'Bakery-café on the first floor of Arthur’s Quay Shopping Centre with cakes, pies, sandwiches and soup.'),
+  place('limerick-cafe-2', 'limerick', 'cafe', 'Café Rosé', '40 Roches St, Limerick, Ireland', '로치스 스트리트의 카페 겸 비스트로. 아침·점심과 수제 디저트를 내고 일요일은 쉽니다.', 'Café-bistro on Roches Street serving breakfast, lunch and homemade desserts; closed Sundays.'),
+  place('limerick-cafe-3', 'limerick', 'cafe', 'Rift Coffee', '30 Upper Mallow St, Limerick, Ireland', '팝업으로 시작해 2018년 자리를 잡은 스페셜티 커피 카페. 반려견 동반이 되고 옆에 델리가 있습니다.', 'Specialty coffee café that started as a pop-up and settled here in 2018; dog-friendly, with a deli next door.'),
+  place('limerick-cafe-4', 'limerick', 'cafe', 'Aroma Coffee House', '43 Roches St, Limerick, Ireland', '로치스 스트리트의 아늑한 카페. 커피·차이 라테와 아침·점심 메뉴를 냅니다.', 'Cosy café on Roches Street with coffee, chai lattes, breakfast and lunch.'),
+  place('limerick-cafe-5', 'limerick', 'cafe', 'Fika Coffee', '15 Catherine St, Limerick, Ireland', '캐서린 스트리트의 스페셜티 커피 카페. 필터 커피와 페이스트리를 내고 미니멀한 실내와 바깥 좌석이 있습니다.', 'Specialty coffee café on Catherine Street with filter coffee and pastries, a minimalist interior and outdoor seating.'),
 ]
