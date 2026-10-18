@@ -87,7 +87,7 @@ export const placesESExtra: Place[] = [
   place('malaga-bakery-2', 'malaga', 'bakery', 'Ana La Fantástica', 'Calle Castillo de Sohail 5, 29005 Málaga', '아타라사나스 시장 근처의 빵집 겸 카페. 갈리시아식 사워도우 빵과 시나몬롤·크루아상이 있습니다.', 'Bakery café near the Atarazanas market with Galician-style sourdough, cinnamon rolls and croissants.'),
   place('malaga-cafe-2', 'malaga', 'cafe', 'Mia Coffee House', 'Calle Vendeja 9, 29001 Málaga', '구시가지의 작은 스페셜티 커피숍. 직접 만든 케이크가 인기입니다.', 'Small specialty coffee shop in the old town, known for its homemade cakes.'),
   place('malaga-cafe-3', 'malaga', 'cafe', 'Bertani Café', 'Calle San Juan 40, 29005 Málaga, Spain', '2012년 문을 연 말라가의 스페셜티 커피숍. 원두도 팔고 일요일은 쉽니다.', 'Málaga specialty coffee shop opened in 2012, also selling beans; closed Sundays.'),
-  place('malaga-korean-1', 'malaga', 'korean', 'WOOCOCO 우꼬꼬', 'Calle de Ramón Franquelo 10, 29008 Málaga', '시내 중심의 작은 한식당. 불고기·찜닭·김치찌개·떡볶이가 있습니다.', 'Small Korean restaurant in the centre with bulgogi, jjimdak, kimchi stew and tteokbokki.'),
+  place('malaga-korean-1', 'malaga', 'korean', 'WOOCOCO', 'Calle de Ramón Franquelo 10, 29008 Málaga', '시내 중심의 작은 한식당 우꼬꼬. 불고기·찜닭·김치찌개·떡볶이가 있습니다.', 'Small Korean restaurant in the centre with bulgogi, jjimdak, kimchi stew and tteokbokki.'),
 
   // —— bilbao ——
   place('bilbao-fine_dining-1', 'bilbao', 'fine_dining', 'Nerua Guggenheim Bilbao', 'Avenida de Abandoibarra 2, 48009 Bilbao', '구겐하임 미술관 건물 안의 미쉐린 1스타 레스토랑. 여는 날이 적으니 미리 확인하세요.', 'One-Michelin-star restaurant inside the Guggenheim Museum; open only a few days, so check ahead.', { michelin: 'star1' }),

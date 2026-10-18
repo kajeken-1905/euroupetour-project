@@ -13,7 +13,7 @@ export const placesSIExtra: Place[] = [
   place('ljubljana-cafe-1', 'ljubljana', 'cafe', 'Čokl', 'Krekov trg 9, 1000 Ljubljana, Slovenia', '크레코브 광장의 카페, 테라스에서 류블랴나 성과 인형극장이 보임', 'Cafe on Krekov trg with a terrace overlooking Ljubljana Castle and the puppet theatre', { image: '/places/ljubljana-cafe-1.jpg' }),
   place('ljubljana-cafe-2', 'ljubljana', 'cafe', 'Tozd', 'Cankarjeva cesta 8, 1000 Ljubljana, Slovenia', '칸카르예바 거리의 힙스터 감성 카페 겸 바', 'Hipster-style cafe and bar on Cankarjeva cesta near the riverside', { image: '/places/ljubljana-cafe-2.jpg' }),
   place('ljubljana-cafe-3', 'ljubljana', 'cafe', 'Cafetino', 'Stari trg 5, 1000 Ljubljana, Slovenia', '스타리 광장의 커피숍. 원두를 골라 마실 수 있습니다.', 'Coffee shop on Stari trg where you can choose your beans.'),
-  place('ljubljana-korean-1', 'ljubljana', 'korean', '오감 (Ogam)', 'Kolodvorska ulica 7, 1000 Ljubljana, Slovenia', '콜로드보르스카 거리의 한식당.', 'Korean restaurant on Kolodvorska street.'),
+  place('ljubljana-korean-1', 'ljubljana', 'korean', 'Ogam', 'Kolodvorska ulica 7, 1000 Ljubljana, Slovenia', '콜로드보르스카 거리의 한식당 오감.', 'Korean restaurant on Kolodvorska street.'),
 
   // —— bled ——
   place('bled-fine_dining-1', 'bled', 'fine_dining', 'Restaurant Julijana', 'Cesta Svobode 12, 4260 Bled, Slovenia', '그랜드 호텔 토플리체 안의 레스토랑. 미쉐린 가이드에 실려 있고 일·월요일은 쉽니다.', 'Restaurant in the Grand Hotel Toplice, listed in the Michelin Guide; closed Sundays and Mondays.'),
