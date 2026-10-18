@@ -3,46 +3,33 @@ import type { Place } from '../types'
 
 export const placesGEExtra: Place[] = [
   // —— tbilisi ——
-  place('tbilisi-fine_dining-1', 'tbilisi', 'fine_dining', 'Maspindzelo', '7 Gorgasali St, Abanotubani, Tbilisi', '2008년부터 이어온 아바노투바니의 조지아 가정식 레스토랑.', 'Georgian home-style restaurant in Abanotubani, operating since 2008.'),
-  place('tbilisi-fine_dining-2', 'tbilisi', 'fine_dining', 'Culinarium Khasheria', '23 Abano St, Tbilisi', '트위스트를 더한 조지아 요리 레스토랑.', 'Restaurant serving Georgian cuisine with a twist.'),
-  place('tbilisi-fine_dining-3', 'tbilisi', 'fine_dining', 'Ethno Tsiskvili', '99 Akaki Beliashvili St, Tbilisi 0159', '2002년부터 이어온 민속 박물관 콘셉트 레스토랑, 전통 음악·춤 공연.', 'Ethnographic restaurant-museum since 2002, with traditional Georgian music and dance.'),
-  place('tbilisi-fine_dining-4', 'tbilisi', 'fine_dining', 'Pasanauri', '17 Nikoloz Baratashvili St, Tbilisi 0105', '25년 넘게 킨칼리(만두)를 선보이는 조지아 체인 레스토랑.', 'Georgian chain restaurant serving khinkali dumplings for over 25 years.'),
-  place('tbilisi-bakery-1', 'tbilisi', 'bakery', 'Babà Bakery', 'Ivane Machablis St 4, Tbilisi', '크루아상을 굽는 트빌리시의 빵집.', 'Tbilisi bakery baking croissants.'),
-  place('tbilisi-bakery-2', 'tbilisi', 'bakery', 'Caravanserai Bakery', '13/40 Sioni St, Tbilisi', '트빌리시 역사박물관 맞은편 구시가의 빵집. 하차푸리가 있습니다.', 'Old Town bakery opposite the Tbilisi History Museum, with khachapuri.'),
-  place('tbilisi-cafe-1', 'tbilisi', 'cafe', 'Shavi Coffee Roasters', 'Barnovi St 39, Tbilisi', '2021년 문을 연 베라 지구의 스페셜티 커피 로스터리.', 'Specialty coffee roastery in the Vera district, opened in 2021.'),
-  place('tbilisi-cafe-2', 'tbilisi', 'cafe', 'Erti Kava Coffee Room', 'Abashidze Irakli St 81, Vake, Tbilisi', '루스타벨리 거리 근처의 카페. 피스타치오 무스가 있습니다.', 'Café just off Rustaveli Avenue with pistachio mousse.'),
-  place('tbilisi-korean-1', 'tbilisi', 'korean', 'Seoul', '7 Budapeshti St, Tbilisi 0160', '전통적인 인테리어의 정통 한식당, 프라이드치킨·김치·라면으로 호평.', 'Authentic Korean restaurant with traditional decor, praised for its fried chicken, kimchi and ramen.'),
-  place('tbilisi-korean-2', 'tbilisi', 'korean', 'Korea Restaurant', '4 Ierusalimi St, Tbilisi', '트빌리시의 한식당.', 'Korean restaurant in Tbilisi.'),
-  place('tbilisi-korean-3', 'tbilisi', 'korean', 'Sodam Korean Restaurant', '7 Giorgi Akhvlediani St, Tbilisi', '트빌리시의 한식당.', 'Korean restaurant in Tbilisi.'),
+  place('tbilisi-fine_dining-1', 'tbilisi', 'fine_dining', 'Maspindzelo', '7 Gorgasali St, Abanotubani, Tbilisi', '아바노투바니 유황 온천 옆 강변의 조지아 요리 식당. 힌칼리·므츠바디·오자후리를 냅니다.', 'Georgian restaurant on the embankment by the Abanotubani sulphur baths, serving khinkali, mtsvadi and ojakhuri.'),
+  place('tbilisi-fine_dining-2', 'tbilisi', 'fine_dining', 'Culinarium Khasheria', '9/11 Samghebro St, Tbilisi', '테쿠나 가체칠라제 셰프의 현대 조지아 요리 식당. 2026년 아바노 거리에서 구시가 삼게브로 거리로 옮겼고 카시·힌칼리 수프가 대표입니다.', 'Chef Tekuna Gachechiladze’s modern Georgian restaurant, moved in 2026 from Abano Street to Samghebro Street in the old town; known for khashi and khinkali soup.'),
+  place('tbilisi-fine_dining-3', 'tbilisi', 'fine_dining', 'Ethno Tsiskvili', '99 Akaki Beliashvili St, Tbilisi 0159', '디고미 지구의 민속 콘셉트 레스토랑. 2002년 문을 열었고 물레방아와 폭포가 있으며 저녁마다 조지아 민속춤·합창 공연을 합니다.', 'Ethnographic-style restaurant in Dighomi, open since 2002, built around a watermill and waterfall, with Georgian folk dance and polyphonic singing in the evenings.'),
+  place('tbilisi-fine_dining-4', 'tbilisi', 'fine_dining', 'Pasanauri', '17 Nikoloz Baratashvili St, Tbilisi 0105', '바라타시빌리 거리의 힌칼리 식당. 24시간 영업하고 고기 힌칼리 ‘파사나우리 스페셜’과 채소 힌칼리가 있습니다.', 'Khinkali restaurant on Baratashvili Street, open 24 hours, with the meaty ‘Pasanauri special’ and vegetable versions.'),
+  place('tbilisi-bakery-2', 'tbilisi', 'bakery', 'Caravanserai Bakery', '13/40 Sioni St, Tbilisi', '구시가 시오니 거리 지하의 빵집. 간판이 없고, 점토 화덕 벽에 붙여 굽는 토니스 푸리를 바로 꺼내 팝니다.', 'Unsigned basement bakery on Sioni Street in the old town, selling tonis puri peeled straight off the wall of a clay oven.'),
+  place('tbilisi-korean-1', 'tbilisi', 'korean', 'Seoul', '7 Budapeshti St, Tbilisi 0160', '바케-사부르탈로 지구 부다페스트 거리의 한식당. 돌솥비빔밥·삼겹살·떡볶이·김밥을 냅니다.', 'Korean restaurant on Budapest Street in Vake-Saburtalo serving stone-pot bibimbap, samgyeopsal, tteokbokki and kimbap.'),
 
   // —— batumi ——
-  place('batumi-fine_dining-1', 'batumi', 'fine_dining', 'Lurji Sufra', '43 Memed Abashidze Avenue, Batumi', '정통 조지아 요리 레스토랑.', 'Restaurant serving classic Georgian dishes.'),
-  place('batumi-fine_dining-2', 'batumi', 'fine_dining', 'Heart of Batumi', '11 General Mazniashvili St, Batumi 6010', '바투미의 조지아 요리 식당.', 'Georgian restaurant in Batumi.'),
-  place('batumi-fine_dining-3', 'batumi', 'fine_dining', 'Sazandari', '78a Zurab Gorgiladze St, Batumi', '전통 라이브 음악과 함께하는 조지아 요리 레스토랑.', 'Georgian restaurant with traditional live music.'),
-  place('batumi-bakery-1', 'batumi', 'bakery', 'Dona Bakery and Sweets', '41 Vakhtang Gorgasali St, Batumi 6010, Georgia', '케이크·페이스트리와 조지아 전통 과자를 파는 바투미의 제과점.', 'Batumi pastry shop with cakes, pastries and traditional Georgian sweets.'),
-  place('batumi-bakery-2', 'batumi', 'bakery', 'Qooqy Bakery Batumi', '4 Kobaladze St, Batumi', '갓 구운 크루아상과 페이스트리가 있는 아늑한 빵집.', 'Cosy bakery with freshly baked croissants and pastries.'),
-  place('batumi-cafe-1', 'batumi', 'cafe', 'Rhino Coffee', '4a Khariton Akhvlediani St, Batumi 6004, Georgia', '세련된 디자인의 모던 커피하우스로 다양한 추출 방식을 갖춘 바투미의 카페', 'Modern Batumi coffee house with a cool design and various brewing methods'),
-  place('batumi-cafe-2', 'batumi', 'cafe', 'Capybara Coffee', '16 Zurab Gorgiladze St, Batumi', '카피바라가 있는 컨셉 카페. 바나나 우유 카푸치노가 있습니다.', 'Concept café with resident capybaras and banana-milk cappuccino.'),
+  place('batumi-fine_dining-1', 'batumi', 'fine_dining', 'Lurji Sufra', '33 Akhmed Melashvili St, Batumi', '조지아 요리 식당. 양고기 차나히·므차디·하르초·하차푸리를 냅니다.', 'Georgian restaurant serving lamb chanakhi, mchadi, kharcho and khachapuri.'),
+  place('batumi-fine_dining-2', 'batumi', 'fine_dining', 'Heart of Batumi', '11 Giorgi Mazniashvili St, Batumi 6010', '테라스가 있는 소박한 조지아 요리 식당. 구운 가지·송아지 샤슬릭·하차푸리를 냅니다.', 'Down-to-earth Georgian restaurant with a terrace, serving baked aubergine, veal shashlik and khachapuri.'),
+  place('batumi-fine_dining-3', 'batumi', 'fine_dining', 'Sazandari', '78 Zurab Gorgiladze St, Batumi', '고르길라제 거리의 조지아 요리 식당. 큰 나무 테이블이 놓인 어두운 실내입니다.', 'Georgian restaurant on Zurab Gorgiladze Street with a dim interior and big wooden tables.'),
+  place('batumi-bakery-1', 'batumi', 'bakery', 'Dona Bakeshop & Cafe', '41 Vakhtang Gorgasali St, Batumi 6010, Georgia', '작은 디저트 카페 겸 베이커리. 나폴레옹 케이크·바클라바가 인기이고 계산 후 자리에 앉는 방식입니다.', 'Small dessert café and bakery known for napoleon cake and baklava; you pay at the counter before sitting down.'),
+  place('batumi-cafe-1', 'batumi', 'cafe', 'Rhino Coffee', '4a Khariton Akhvlediani St, Batumi 6004, Georgia', '하리톤 아흐블레디아니 거리의 스페셜티 커피 카페. 오래 앉아 있기 좋고 오후 늦게 문을 엽니다.', 'Specialty coffee café on Khariton Akhvlediani Street, good for long stays; opens in the late afternoon.'),
 
   // —— kutaisi ——
-  place('kutaisi-fine_dining-1', 'kutaisi', 'fine_dining', 'Sisters Restaurant', '2 Davit & Konstantine Mkeidze Street, Kutaisi', '레드 브리지 인근 전통 조지아 연회.', 'Traditional Georgian feast near the Red Bridge.'),
-  place('kutaisi-fine_dining-2', 'kutaisi', 'fine_dining', 'Georgian Cuisine Magnolia', 'Galaktion Tabidze Street 1, 4600 Kutaisi, Georgia', '쿠타이시 전망이 아름다운 아늑한 조지아 요리 레스토랑.', 'Cozy Georgian restaurant with beautiful views of Kutaisi.'),
-  place('kutaisi-bakery-1', 'kutaisi', 'bakery', 'Bubliki Bakery', 'Tsminda Nino St 11, 4600 Kutaisi, Georgia', '1997년부터 이어온 쿠타이시 중심가의 베이커리', 'Kutaisi bakery in the city center, operating since 1997'),
-  place('kutaisi-bakery-2', 'kutaisi', 'bakery', 'Bakery Sanimusho', 'N16 Tamar The Queen St, Kutaisi', '식사와 커피를 내는 빵집.', 'Bakery serving meals and coffee.'),
-  place('kutaisi-cafe-1', 'kutaisi', 'cafe', 'Cafe Neta', 'Tamar Mepe Street, 4600 Kutaisi, Georgia', '커피와 케이크가 있는 쿠타이시의 카페.', 'Kutaisi café with coffee and cakes.'),
-  place('kutaisi-cafe-2', 'kutaisi', 'cafe', 'Coffee Bean', '11 Tsminda Nino St, Kutaisi', '쿠타이시의 커피숍.', 'Coffee shop in Kutaisi.'),
+  place('kutaisi-fine_dining-1', 'kutaisi', 'fine_dining', 'Sisters Restaurant', '35 Zakaria Paliashvili St, Kutaisi', '조지아·유럽 요리 식당. 엘라르지 등 조지아 요리를 내고 야외석과 라이브 음악이 있습니다. 오후 2시에 문을 엽니다.', 'Georgian and European restaurant serving elarji and other Georgian dishes, with outdoor seating and live music; opens at 2 pm.'),
+  place('kutaisi-fine_dining-2', 'kutaisi', 'fine_dining', 'Georgian Cuisine Magnolia', 'Galaktion Tabidze Street 1, 4600 Kutaisi, Georgia', '리오니강 옆 갈락티온 타비제 동상 근처 호텔 마그놀리아의 조지아 요리 식당. 아자리아식 하차푸리가 인기입니다.', 'Georgian restaurant of Hotel Magnolia by the Galaktion Tabidze statue on the Rioni, known for its Adjarian khachapuri.'),
+  place('kutaisi-bakery-2', 'kutaisi', 'bakery', 'Bakery Sanimusho', '16 Tamar Mepe St, Kutaisi', '타마르 메페 거리의 베이커리 겸 카페. 하차푸리·로비아니와 조지아식 샐러드, 꿀 케이크를 냅니다.', 'Bakery-café on Tamar Mepe Street serving khachapuri, lobiani, Georgian salads and honey cake.'),
+  place('kutaisi-cafe-1', 'kutaisi', 'cafe', 'Cafe Neta', '13 Tamar Mepe St, Kutaisi', '타마르 메페 거리의 제과점 겸 카페. 컵케이크와 조지아식 토피 케이크, 짭짤한 페이스트리가 있습니다.', 'Pastry café on Tamar Mepe Street with cupcakes, Georgian toffee cake and savoury pastries.'),
 
   // —— stepantsminda ——
-  place('stepantsminda-fine_dining-1', 'stepantsminda', 'fine_dining', 'Kazbegi Good Food', 'Gergetis Ubani E117, Stepantsminda 4485', '아늑한 분위기의 조지아 가정식.', 'Cozy Georgian home cooking.'),
-  place('stepantsminda-fine_dining-2', 'stepantsminda', 'fine_dining', 'Maisi - Restaurant in Kazbegi', 'N18 Betlemi St, Stepantsminda, Georgia', '스테판츠민다에서 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Stepantsminda.'),
-  place('stepantsminda-fine_dining-3', 'stepantsminda', 'fine_dining', 'Samani Restaurant', 'N12 Aleksandre Kazbegi St, Stepantsminda, Georgia', '스테판츠민다의 레스토랑.', 'Restaurant in Stepantsminda.'),
-  place('stepantsminda-cafe-1', 'stepantsminda', 'cafe', 'Cafe-Restaurant Kazbegya', 'Tergdaleulebi Street 2, Stepantsminda, Georgia', '알렉산드레 카즈베기 동상 인근 스테판츠민다 중심가의 카페 겸 레스토랑', 'Café-restaurant in central Stepantsminda, steps from the Kazbegi monument'),
-  place('stepantsminda-cafe-3', 'stepantsminda', 'cafe', 'Cafe Planet Kazbegi', '12a Kazbegi St, Stepantsminda, Georgia', '스테판츠민다 카페 겸 레스토랑.', 'Café and restaurant in Stepantsminda.'),
+  place('stepantsminda-fine_dining-1', 'stepantsminda', 'fine_dining', 'Kazbegi Good Food', 'Aleksandre Kazbegi St, Stepantsminda 4700', '작은 조지아 가정식 식당. 하차푸리·양고기 케밥·양배추롤과 직접 담근 차차를 냅니다.', 'Small, homely Georgian restaurant serving khachapuri, lamb kebab, cabbage rolls and homemade chacha.'),
+  place('stepantsminda-fine_dining-2', 'stepantsminda', 'fine_dining', 'Maisi - Restaurant in Kazbegi', 'Betlemi St, Stepantsminda', '베틀레미 거리 숙소 단지 옆의 조지아 요리 식당.', 'Georgian restaurant beside a lodge complex on Betlemi Street.'),
 
   // —— sighnaghi ——
-  place('sighnaghi-fine_dining-1', 'sighnaghi', 'fine_dining', 'Restaurant Burji', 'Chavchavadze St. 9, Signagi 383210', '전망이 좋은 조지아 요리 식당.', 'Georgian restaurant with views.'),
-  place('sighnaghi-fine_dining-2', 'sighnaghi', 'fine_dining', 'Sighnaghi Estate', 'ვახტანგ გორგასლის II ჩიხი, 4200 Sighnaghi, Georgia', '시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi.'),
-  place('sighnaghi-fine_dining-3', 'sighnaghi', 'fine_dining', 'Restaurant Qiziki', '6 Sarajishvili St, Sighnaghi, Georgia', '시그나기에서 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi.'),
-  place('sighnaghi-fine_dining-4', 'sighnaghi', 'fine_dining', 'Balcony Sighnaghi', '21 Vakhtang Gorgasali St, Sighnaghi, Georgia', '시그나기의 조지아 요리 레스토랑.', 'Georgian cuisine restaurant in Sighnaghi.'),
-  place('sighnaghi-cafe-2', 'sighnaghi', 'cafe', 'Cafe "Medea"', '3 Ketevan Tsamebuli St, Sighnaghi, Georgia', '시그나기 카페.', 'Café in Sighnaghi.'),
+  place('sighnaghi-fine_dining-1', 'sighnaghi', 'fine_dining', 'Restaurant Burji', 'Chavchavadze St. 9, Signagi 383210', '차브차바제 거리의 조지아 요리 식당. 바비큐(므츠바디)가 중심입니다.', 'Georgian restaurant on Chavchavadze Street focused on barbecue (mtsvadi).'),
+  place('sighnaghi-fine_dining-3', 'sighnaghi', 'fine_dining', 'Restaurant Qiziki', '6 Sarajishvili St, Sighnaghi, Georgia', '사라지시빌리 거리의 조지아 요리 식당. 지역 식재료를 씁니다.', 'Georgian restaurant on Sarajishvili Street cooking with local produce.'),
+  place('sighnaghi-fine_dining-4', 'sighnaghi', 'fine_dining', 'Balcony Sighnaghi', '21 Vakhtang Gorgasali St, Sighnaghi, Georgia', '바흐탕 고르가살리 거리의 조지아 요리 식당.', 'Georgian restaurant on Vakhtang Gorgasali Street.'),
+  place('sighnaghi-cafe-2', 'sighnaghi', 'cafe', 'Cafe "Medea"', '3A Ketevan Tsamebuli St, Sighnaghi', '성벽 근처의 카페. 조지아 요리와 지역 와이너리 와인, 레드와인 아이스크림을 냅니다.', 'Café near the town walls serving Georgian dishes, local wines and red-wine ice cream.'),
 ]
