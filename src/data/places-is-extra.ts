@@ -30,7 +30,7 @@ export const placesISExtra: Place[] = [
   place('vik-fine_dining-3', 'vik', 'fine_dining', 'Smiðjan Brugghús', 'Sunnubraut 15, 870 Vík', '수제 맥주와 버거를 내는 비크의 브루하우스.', 'Brewhouse in Vík serving craft beer and burgers.'),
   place('vik-bakery-1', 'vik', 'bakery', 'Lava Bakery and Coffee', 'Austurvegur 20, 870 Vík, Iceland', '빵·페이스트리·케이크를 굽는 비크의 빵집 겸 카페.', 'Vík bakery café with bread, pastries and cakes.'),
   place('vik-cafe-1', 'vik', 'cafe', 'Halldorskaffi', 'Víkurbraut 28, 870 Vik, Iceland', '비크의 오래된 건물에 있는 아늑한 카페 겸 레스토랑.', 'Cosy café-restaurant in an old building in Vík.'),
-  place('vik-cafe-2', 'vik', 'cafe', 'Skool Beans', 'Mósastallur, 870 Vík', '비크의 카페.', 'Café in Vík.'),
+  place('vik-cafe-2', 'vik', 'cafe', 'Skool Beans', 'Klettsvegur 9, 870 Vík', '노란 스쿨버스를 개조한 스페셜티 카페 겸 로스터리. 장작 난로와 베이글·빵이 있습니다.', 'Speciality café and roastery in a converted school bus, with a wood-burning stove, bagels and baked goods.'),
 
   // —— husavik ——
   place('husavik-fine_dining-1', 'husavik', 'fine_dining', 'Naustið', 'Ásgarðsvegur 1, 640 Húsavík', '후사비크 중심의 작은 가족 운영 해산물 식당. 생선 수프와 그날 잡은 생선, 직접 구운 빵을 내고 테라스가 있습니다.', 'Small family-run seafood restaurant in central Húsavík with fish soup, the daily catch and homemade bread, plus a terrace.'),
@@ -39,7 +39,7 @@ export const placesISExtra: Place[] = [
   place('husavik-cafe-2', 'husavik', 'cafe', 'Hérna Húsavík', 'Stórigarður 11, Húsavík', '미용실과 공간을 함께 쓰는 작은 카페. 일리 커피와 시나몬번·파니니·수프를 내고 손뜨개 소품도 팝니다.', 'Small café sharing its space with a hair salon, serving Illy coffee, cinnamon buns, paninis and soup, and selling hand-knitted woollens.'),
 
   // —— selfoss ——
-  place('selfoss-fine_dining-1', 'selfoss', 'fine_dining', 'Messinn Selfossi', 'Brúarstræti 12a, 800 Selfoss', '아이슬란드 해산물 전문 레스토랑.', 'Restaurant specializing in Icelandic seafood.'),
+  place('selfoss-fine_dining-1', 'selfoss', 'fine_dining', 'Messinn Selfossi', 'Brúarstræti 6a, 800 Selfoss', '아이슬란드 해산물 전문 레스토랑.', 'Restaurant specializing in Icelandic seafood.'),
   place('selfoss-fine_dining-2', 'selfoss', 'fine_dining', 'Tryggvaskáli', 'Tryggvatorg, 800 Selfoss', '1890년 지은 셀포스의 옛 건물에 있는 북유럽 요리 레스토랑.', 'Nordic restaurant in an 1890 house in Selfoss.'),
   place('selfoss-cafe-1', 'selfoss', 'fine_dining', 'Kaffi Krús', 'Austurvegur 7, 800 Selfoss, Iceland', '리모델링한 옛 가옥의 레스토랑 겸 카페. 생선·버거·피자와 디저트를 냅니다.', 'Restaurant-café in a renovated old house serving fish, burgers, pizza and desserts.', { image: '/places/selfoss-cafe-1.jpg' }),
   place('selfoss-cafe-2', 'selfoss', 'cafe', 'Konungskaffi', 'Brúarstræti 2, 800 Selfoss', '셀포스 새 구시가지의 복원 건물 카페. 1907년 덴마크 국왕 방문용으로 지은 집을 본떴고 오픈 샌드위치·사과 케이크·스키르 치즈케이크를 냅니다.', 'Café in a reconstructed building in Selfoss’s new old town, modelled on a house built for the Danish king’s 1907 visit, serving open sandwiches, apple cake and skyr cheesecake.'),

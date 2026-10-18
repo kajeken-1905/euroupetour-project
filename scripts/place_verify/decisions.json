@@ -109,6 +109,18 @@
 "ko": "시내 중심의 한식당. 비빔밥·떡볶이·도시락이 있고 월요일은 쉽니다.",
 "ok": 1
 },
+"agrigento-bakery-1": {
+"addr": "Piazza Cavour 19, 92100 Agrigento",
+"en": "Gelateria and pastry shop on a raised square with sea views, known for pistachio gelato and cannoli; closed Tuesdays.",
+"ko": "바다가 보이는 광장의 젤라테리아 겸 제과점. 피스타치오 젤라토와 카놀리가 인기이고 화요일은 쉽니다.",
+"ok": 1
+},
+"agrigento-fine_dining-1": {
+"en": "Sicilian trattoria in a former bakery between the Pirandello theatre and the belvedere, serving stuffed sardines, caponata and veal rolls.",
+"ko": "피란델로 극장과 전망대 사이, 옛 빵집 건물의 시칠리아 향토 요리 식당. 속 채운 정어리·카포나타 등을 냅니다.",
+"mi": "bib",
+"ok": 1
+},
 "ajaccio-fine_dining-1": {
 "en": "Small old-town restaurant listed in the MICHELIN Guide, cooking modern dishes with Corsican produce.",
 "ko": "미쉐린 가이드에 실린 구시가의 작은 식당. 코르시카 재료로 현대적인 요리를 냅니다.",
@@ -162,10 +174,48 @@
 "ko": "아이슬란드 어부·농가 식재료로 해산물·초밥·스테이크를 내는 레스토랑. 점심 뷔페가 있습니다.",
 "ok": 1
 },
+"alberobello-fine_dining-1": {
+"addr": "Via Indipendenza 21, 70011 Alberobello",
+"en": "Long-standing restaurant in the trulli town, with a vast wine list that holds a Wine Spectator Grand Award.",
+"ko": "트룰리 마을의 오래된 레스토랑. 와인 스펙테이터 그랜드 어워드를 받은 방대한 와인 리스트가 있습니다.",
+"ok": 1
+},
 "alghero-bakery-1": {
 "addr": "Via Sassari 35b, 07041 Alghero",
 "en": "Bar and pastry shop in central Alghero.",
 "ko": "알게로 시내의 바 겸 제과점.",
+"ok": 1
+},
+"alghero-fine_dining-1": {
+"ok": 1
+},
+"alghero-fine_dining-2": {
+"ok": 1
+},
+"amalfi-bakery-1": {
+"addr": "Piazza Duomo 40, 84011 Amalfi",
+"ok": 1
+},
+"amalfi-bakery-2": {
+"del": "Panificio Apicella at Via Lorenzo d Amalfi not confirmed by any listing"
+},
+"amalfi-bakery-3": {
+"ok": 1
+},
+"amalfi-cafe-1": {
+"del": "Gran Caffe Canasta not found; only Gran Caffe Amalfi exists (different name)"
+},
+"amalfi-cafe-2": {
+"ok": 1
+},
+"amalfi-cafe-3": {
+"ok": 1
+},
+"amalfi-cafe-4": {
+"del": "G.A.S. Bar: no current listing or reviews, only 2013 mention"
+},
+"amalfi-fine_dining-1": {
+"addr": "Via Fra Gerardo Sasso 11, 84011 Amalfi",
 "ok": 1
 },
 "amalfi-fine_dining-2": {
@@ -431,6 +481,9 @@
 "addr": "Rue des Tamaris (Les Youkas), 33970 Lège-Cap-Ferret",
 "en": "Oyster and seafood shack in the Les Youkas oyster quarter of Cap Ferret.",
 "ko": "캅페레 레 유카스 굴 양식촌의 굴·해산물 오두막 식당.",
+"ok": 1
+},
+"assisi-bakery-1": {
 "ok": 1
 },
 "athens-bakery-1": {
@@ -807,6 +860,15 @@
 "ko": "에이샴플레의 한식당. 양이 넉넉하고 예약하는 편이 좋습니다.",
 "ok": 1
 },
+"bari-bakery-1": {
+"ok": 1
+},
+"bari-fine_dining-1": {
+"ok": 1
+},
+"bari-fine_dining-2": {
+"ok": 1
+},
 "basel-bakery-1": {
 "en": "Confectioner and tearoom on the Marktplatz, founded in 1870, with a Viennese-style coffee room upstairs.",
 "ko": "1870년 창업한 마르크트플라츠의 제과점 겸 티룸. 2층은 빈 커피하우스풍 객실입니다.",
@@ -971,6 +1033,16 @@
 "en": "Traditional Albanian restaurant with live music some evenings; cash only.",
 "ko": "전통 알바니아 요리 식당. 저녁에 라이브 음악이 있고 현금만 받습니다.",
 "name": "Zonja Gjenë",
+"ok": 1
+},
+"bergamo-bakery-1": {
+"ok": 1
+},
+"bergamo-bakery-2": {
+"addr": "Via Bartolomeo Colleoni 3, 24129 Bergamo",
+"ok": 1
+},
+"bergamo-fine_dining-1": {
 "ok": 1
 },
 "bergen-fine_dining-3": {
@@ -1224,9 +1296,63 @@
 "ko": "그랜드 호텔 토플리체 안의 레스토랑. 미쉐린 가이드에 실려 있고 일·월요일은 쉽니다.",
 "ok": 1
 },
+"bologna-bakery-1": {
+"del": "Impero at Strada Maggiore 51c not confirmed; Impero shops are on Via Indipendenza / Via Caprarie"
+},
+"bologna-bakery-2": {
+"ok": 1
+},
+"bologna-bakery-3": {
+"ok": 1
+},
+"bologna-bakery-4": {
+"del": "Panificio Sponghi not found in any listing"
+},
+"bologna-bakery-5": {
+"ok": 1
+},
+"bologna-cafe-1": {
+"addr": "Via Guglielmo Oberdan 10/D, 40126 Bologna",
+"ok": 1
+},
+"bologna-cafe-2": {
+"addr": "Via Porta Nova 12/b, 40123 Bologna",
+"ok": 1
+},
+"bologna-cafe-3": {
+"del": "ZanziBar at Via d Azeglio 23 not found"
+},
+"bologna-cafe-4": {
+"ok": 1
+},
+"bologna-cafe-5": {
+"del": "Comix Cafe at Via delle Belle Arti 12 not found"
+},
 "bologna-fine_dining-1": {
 "en": "Trattoria serving Emilian cooking, listed in the MICHELIN Guide; fully booked daily, so reserve; open Tuesday to Saturday.",
 "ko": "에밀리아 요리 트라토리아. 미쉐린 가이드에 실려 있고 매일 자리가 차니 예약하세요. 화~토요일에 엽니다.",
+"ok": 1
+},
+"bologna-fine_dining-2": {
+"ok": 1
+},
+"bologna-fine_dining-3": {
+"ok": 1
+},
+"bologna-korean-1": {
+"ok": 1
+},
+"bolzano-bakery-1": {
+"addr": "Via dei Bottai 18, 39100 Bolzano",
+"ok": 1
+},
+"bolzano-bakery-2": {
+"del": "Franziskaner branch on Piazza delle Erbe not confirmed (shop is Via dei Francescani 3)"
+},
+"bolzano-cafe-1": {
+"ok": 1
+},
+"bolzano-fine_dining-1": {
 "ok": 1
 },
 "bonifacio-fine_dining-1": {
@@ -1619,6 +1745,25 @@
 "ko": "7구 아카치파 거리의 한식당. 돼지불고기·떡볶이와 찌개를 냅니다.",
 "ok": 1
 },
+"cagliari-bakery-1": {
+"addr": "Via Enrico Lai 4, 09128 Cagliari",
+"ok": 1
+},
+"cagliari-cafe-1": {
+"del": "Caffe Svizzero closed indefinitely 1 July 2023 (Unione Sarda), no reopening found"
+},
+"cagliari-fine_dining-1": {
+"ok": 1
+},
+"cala-gonone-fine_dining-1": {
+"ok": 1
+},
+"cala-gonone-fine_dining-2": {
+"del": "Da Graziano Il Pescatore only in one Airbnb listing; no reviews or current status"
+},
+"cala-gonone-fine_dining-3": {
+"ok": 1
+},
 "calvi-fine_dining-1": {
 "en": "Corsican restaurant on the Calvi harbour focusing on fish such as grilled sardines and fish soup; open in season only.",
 "ko": "칼비 항구 앞 코르시카 요리 식당. 정어리 구이·생선 수프 등 생선 요리가 중심이고 관광철에만 엽니다.",
@@ -1650,10 +1795,34 @@
 "canterbury-fine_dining-1": {
 "ok": 1
 },
+"capri-bakery-1": {
+"ok": 1
+},
+"capri-fine_dining-1": {
+"ok": 1
+},
+"capri-fine_dining-2": {
+"ok": 1
+},
 "cascais-fine_dining-1": {
 "en": "Michelin one-star restaurant in a 17th-century fortress hotel on the Guincho coast.",
 "ko": "기뉴 해안 17세기 요새 호텔의 미쉐린 1스타 레스토랑.",
 "mi": "star1",
+"ok": 1
+},
+"catania-bakery-1": {
+"ok": 1
+},
+"catania-fine_dining-1": {
+"ok": 1
+},
+"cefalu-bakery-1": {
+"del": "Duomo Serio 1952 name/address not confirmed (Duomo Gelatieri dal 1952 is a gelateria on Via Bevilacqua Pittore)"
+},
+"cefalu-bakery-2": {
+"ok": 1
+},
+"cefalu-fine_dining-1": {
 "ok": 1
 },
 "ceske-budejovice-bakery-1": {
@@ -1806,6 +1975,20 @@
 "chartres-fine_dining-2": {
 "del": 1
 },
+"cinque-terre-bakery-2": {
+"ok": 1
+},
+"cinque-terre-cafe-1": {
+"en": "Cliff-top terrace wine bar at Punta Bonfiglio with views over Manarola, serving bruschetta, cheese boards and cocktails; closed in rain and in winter.",
+"ko": "푼타 본필리오 절벽 위 테라스의 와인 바. 마나롤라 전경을 보며 브루스케타·치즈 플래터·칵테일을 즐기고, 비 오는 날과 겨울에는 쉽니다.",
+"ok": 1
+},
+"cinque-terre-fine_dining-1": {
+"ok": 1
+},
+"cinque-terre-fine_dining-2": {
+"ok": 1
+},
 "coimbra-fine_dining-1": {
 "del": 1
 },
@@ -1865,6 +2048,9 @@
 },
 "como-bakery-1": {
 "del": "코모에서 그 제과점을 찾을 수 없음"
+},
+"como-bakery-2": {
+"ok": 1
 },
 "como-cafe-1": {
 "addr": "Via Fratelli Cairoli 2, 22100 Como",
@@ -2006,6 +2192,16 @@
 "cork-fine_dining-2": {
 "en": "Seafood restaurant on Oliver Plunkett Street, listed in the MICHELIN Guide.",
 "ko": "올리버 플렁킷 거리의 해산물 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"cortina-bakery-1": {
+"ok": 1
+},
+"cortina-bakery-2": {
+"addr": "Piazza Pittori Fratelli Ghedina 14, 32043 Cortina d'Ampezzo",
+"ok": 1
+},
+"cortina-fine_dining-1": {
 "ok": 1
 },
 "cph-bk-1": {
@@ -2516,10 +2712,84 @@
 "ko": "에트르타 절벽이 보이는 언덕 위 성 호텔의 레스토랑. 미쉐린 가이드에 실려 있고 페캉 어시장 해산물로 코스를 냅니다.",
 "ok": 1
 },
+"ferrara-bakery-1": {
+"ok": 1
+},
+"ferrara-fine_dining-1": {
+"ok": 1
+},
+"ferrara-fine_dining-2": {
+"ok": 1
+},
+"ferrara-fine_dining-3": {
+"addr": "Piazza Castello 10, 44121 Ferrara",
+"ok": 1
+},
+"florence-bakery-1": {
+"ok": 1
+},
+"florence-bakery-2": {
+"addr": "Piazza Cesare Beccaria 8/R, 50121 Firenze",
+"ok": 1
+},
+"florence-bakery-3": {
+"ok": 1
+},
+"florence-bakery-4": {
+"ok": 1
+},
+"florence-bakery-5": {
+"ok": 1
+},
+"florence-cafe-1": {
+"ok": 1
+},
+"florence-cafe-2": {
+"ok": 1
+},
+"florence-cafe-3": {
+"en": "Speciality coffee bar on Borgo La Croce in Santa Croce, serving single-origin filter and espresso with any plant milk.",
+"ko": "산타 크로체 지구 보르고 라 크로체의 스페셜티 커피숍. 싱글 오리진 필터·에스프레소와 식물성 우유 음료를 냅니다.",
+"ok": 1
+},
+"florence-cafe-4": {
+"ok": 1
+},
+"florence-cafe-5": {
+"del": "SimBIOsi Organic Cafe on Via de Ginori: only 2018 opening reports, current operation not confirmed"
+},
 "florence-fine_dining-1": {
 "en": "Three-Michelin-star restaurant in Florence; Tuesday to Saturday evenings.",
 "ko": "피렌체의 미쉐린 3스타 레스토랑. 화~토 저녁에 엽니다.",
 "mi": "star3",
+"ok": 1
+},
+"florence-fine_dining-2": {
+"ok": 1
+},
+"florence-fine_dining-3": {
+"ok": 1
+},
+"florence-fine_dining-4": {
+"ok": 1
+},
+"florence-fine_dining-5": {
+"ok": 1
+},
+"florence-korean-1": {
+"ok": 1
+},
+"florence-korean-2": {
+"ok": 1
+},
+"florence-korean-3": {
+"del": "Han Korean Barbecue at Piazza Ugo di Toscana not found"
+},
+"florence-korean-4": {
+"del": "Sapori di Korea on Via dei Magazzini not found"
+},
+"florence-korean-5": {
+"addr": "Via Guelfa 98R, 50129 Firenze",
 "ok": 1
 },
 "fontainebleau-bakery-1": {
@@ -2785,6 +3055,53 @@
 "geneva-korean-3": {
 "en": "Korean restaurant in the Pâquis with table-grill barbecue, dumplings, bulgogi and tteokbokki.",
 "ko": "파키 지구의 한식당. 테이블 그릴 바비큐와 만두·불고기·떡볶이를 냅니다.",
+"ok": 1
+},
+"genoa-bakery-1": {
+"addr": "Vico della Casana 17r, 16123 Genova",
+"ok": 1
+},
+"genoa-bakery-2": {
+"addr": "Via di Canneto il Curto 54, 16123 Genova",
+"ok": 1
+},
+"genoa-cafe-1": {
+"addr": "Piazza Soziglia 98, 16123 Genova",
+"en": "Historic bar and pastry shop on Piazza Soziglia, founded in 1828 by Swiss brothers and reopened after restoration in 2025.",
+"ko": "1828년 스위스 출신 형제가 연 소찔리아 광장의 역사적인 바 겸 제과점. 복원을 거쳐 2025년에 다시 문을 열었습니다.",
+"ok": 1
+},
+"genoa-cafe-2": {
+"ok": 1
+},
+"genoa-cafe-3": {
+"addr": "Via San Luca 5r, 16123 Genova",
+"ok": 1
+},
+"genoa-cafe-4": {
+"addr": "Via Luccoli 87r, 16123 Genova",
+"ok": 1
+},
+"genoa-cafe-5": {
+"addr": "Piazza Cinque Lampadi 69r, 16123 Genova",
+"en": "Tiny 18 m² speciality coffee bar in the old town, roasting its own beans for V60 pour-overs and cold brew.",
+"ko": "구시가 한가운데 18㎡ 크기의 작은 스페셜티 커피숍. 직접 로스팅한 원두로 V60 핸드드립과 콜드브루를 냅니다.",
+"ok": 1
+},
+"genoa-fine_dining-1": {
+"ok": 1
+},
+"genoa-fine_dining-2": {
+"addr": "Via delle Grazie 48, 16128 Genova",
+"ok": 1
+},
+"genoa-fine_dining-3": {
+"del": "La Cucina di Sonia only in a business directory; no reviews or guide confirming it as a restaurant"
+},
+"genoa-fine_dining-4": {
+"ok": 1
+},
+"genoa-fine_dining-5": {
 "ok": 1
 },
 "ghent-bakery-1": {
@@ -3981,6 +4298,18 @@
 "ko": "비빔밥·김밥·도시락을 파는 작은 한식당. 점심만 열고 일·월요일은 쉽니다.",
 "ok": 1
 },
+"lecce-bakery-1": {
+"ok": 1
+},
+"lecce-bakery-2": {
+"ok": 1
+},
+"lecce-fine_dining-1": {
+"ok": 1
+},
+"lecce-fine_dining-2": {
+"ok": 1
+},
 "leipzig-bakery-1": {
 "del": 1
 },
@@ -4329,6 +4658,14 @@
 "lon-kr-5": {
 "en": "Tiny Korean café near Tottenham Court Road, known for bibimbap and gimbap.",
 "ko": "토트넘 코트 로드 근처의 작은 한식 분식집. 비빔밥·김밥이 인기입니다.",
+"ok": 1
+},
+"lucca-bakery-1": {
+"ok": 1
+},
+"lucca-bakery-2": {
+"en": "Century-old family pizzeria near San Michele, selling pizza by weight and known for cecina chickpea flatbread.",
+"ko": "산 미켈레 성당 근처의 100년 된 가족 운영 피자 가게. 무게로 파는 조각 피자와 병아리콩 전병 체치나로 유명합니다.",
 "ok": 1
 },
 "lucca-fine_dining-1": {
@@ -4792,6 +5129,18 @@
 "mi": "star1",
 "ok": 1
 },
+"mantua-fine_dining-1": {
+"ok": 1
+},
+"mantua-fine_dining-2": {
+"ok": 1
+},
+"mantua-fine_dining-3": {
+"addr": "Via Filippo Corridoni 44, 46100 Mantova",
+"en": "Cosy osteria serving Mantuan dishes such as stracotto d'asino (braised donkey) and capunsei.",
+"ko": "당나귀 스트라코토와 카푼세이 등 만토바 향토 요리를 내는 아늑한 오스테리아.",
+"ok": 1
+},
 "marseille-bakery-1": {
 "en": "Marseille’s oldest bakery (1781), baking only navette biscuits in its 18th-century vaulted oven, blessed each Candlemas by the archbishop.",
 "ko": "1781년에 문을 연 마르세유에서 가장 오래된 빵집. 18세기 아치형 화덕에서 나베트 과자만 굽고, 매년 성촉절엔 대주교가 화덕을 축복합니다.",
@@ -4851,10 +5200,16 @@
 "name": "Busan",
 "ok": 1
 },
+"matera-fine_dining-1": {
+"ok": 1
+},
 "matera-fine_dining-2": {
 "en": "Michelin one-star restaurant set in a tufa cave.",
 "ko": "응회암 동굴 속 미쉐린 1스타 레스토랑.",
 "mi": "star1",
+"ok": 1
+},
+"matera-fine_dining-3": {
 "ok": 1
 },
 "mdina-bakery-1": {
@@ -4883,9 +5238,49 @@
 "ko": "칼람바카 시청 광장 분수 옆의 타베르나. 양갈비·무사카·오븐 양고기를 냅니다.",
 "ok": 1
 },
+"milan-bakery-1": {
+"addr": "Via Santa Maria alla Porta 11/a, 20123 Milano",
+"ok": 1
+},
+"milan-bakery-2": {
+"ok": 1
+},
+"milan-cafe-1": {
+"addr": "Via Montenapoleone 8, 20121 Milano",
+"ok": 1
+},
+"milan-cafe-2": {
+"ok": 1
+},
+"milan-cafe-3": {
+"en": "Tiny Brera café known for toasted focaccia sandwiches, pistachio pastries and coffee; very few seats.",
+"ko": "브레라 지구의 작은 카페. 구운 포카치아 샌드위치와 피스타치오 페이스트리, 커피로 인기가 많고 좌석이 적습니다.",
+"ok": 1
+},
+"milan-cafe-4": {
+"en": "Milan's first cat café (2015), a café-bistro home to rescued cats, with a 30-person limit.",
+"ko": "2015년 문을 연 밀라노 첫 고양이 카페. 구조된 고양이들이 사는 카페 겸 비스트로이고 한 번에 30명까지 들어갑니다.",
+"ok": 1
+},
+"milan-cafe-5": {
+"addr": "Via Gaetano Giardino 1, 20123 Milano",
+"ok": 1
+},
 "milan-fine_dining-1": {
 "en": "Restaurant in a converted railway building serving modern Milanese and Lombard cooking, open daily; listed in the MICHELIN Guide.",
 "ko": "옛 철도 건물을 고친 레스토랑. 밀라노·롬바르디아 요리를 현대적으로 내고 매일 엽니다. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"milan-fine_dining-2": {
+"del": "Risoelatte at Via Laura Solera Mantegazza not confirmed; known address is Via Camperio 6"
+},
+"milan-korean-1": {
+"ok": 1
+},
+"milan-korean-2": {
+"ok": 1
+},
+"modena-cafe-1": {
 "ok": 1
 },
 "modena-fine_dining-1": {
@@ -4898,6 +5293,9 @@
 "addr": "Vicolo Squallore 46, 41121 Modena",
 "en": "Tiny dining room behind the historic Giusti salumeria serving traditional Modenese dishes; closed Sundays and Mondays; listed in the MICHELIN Guide.",
 "ko": "오래된 살루메리아 주스티 뒤편의 작은 식당. 모데나 전통 요리를 내고 일·월요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"modena-fine_dining-3": {
 "ok": 1
 },
 "monaco-fine_dining-1": {
@@ -4915,6 +5313,15 @@
 "monaco-fine_dining-3": {
 "en": "Japanese restaurant in the Hôtel Métropole, listed in the Michelin Guide.",
 "ko": "오텔 메트로폴 안의 일식 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"montepulciano-cafe-1": {
+"ok": 1
+},
+"montepulciano-fine_dining-1": {
+"ok": 1
+},
+"montepulciano-fine_dining-2": {
 "ok": 1
 },
 "montpellier-bakery-1": {
@@ -5218,10 +5625,47 @@
 "ko": "구시가 남쪽 조용한 골목의 가족 운영 식당. 그리스 가정식과 해산물에 창의적인 손길을 더합니다.",
 "ok": 1
 },
+"naples-bakery-1": {
+"ok": 1
+},
+"naples-bakery-2": {
+"ok": 1
+},
+"naples-bakery-3": {
+"addr": "Via San Pasquale a Chiaia 21, 80121 Napoli",
+"ok": 1
+},
+"naples-bakery-4": {
+"del": "Antico Fornaio at Piazza del Gesu Nuovo 33 not found"
+},
+"naples-bakery-5": {
+"del": "Panetteria Coppola at Via dei Tribunali 34 not found (only Panificio Coppola Antonio on Via Vergini)"
+},
+"naples-cafe-1": {
+"ok": 1
+},
+"naples-cafe-2": {
+"en": "Tiny 30 m² micro-roastery café where the owner roasts the beans for the espresso in-house.",
+"ko": "30㎡ 크기의 작은 마이크로 로스터리 카페. 주인이 직접 볶은 원두로 에스프레소를 냅니다.",
+"ok": 1
+},
+"naples-cafe-3": {
+"ok": 1
+},
+"naples-cafe-4": {
+"ok": 1
+},
+"naples-cafe-5": {
+"ok": 1
+},
 "naples-fine_dining-1": {
 "addr": "Via Posillipo 16 b/c, 80123 Napoli",
 "en": "Michelin Guide restaurant on the Posillipo waterfront.",
 "ko": "포실리포 해안의 미쉐린 가이드 레스토랑.",
+"ok": 1
+},
+"naples-fine_dining-2": {
+"addr": "Via Michelangelo da Caravaggio 53/55, 80126 Napoli",
 "ok": 1
 },
 "naples-fine_dining-3": {
@@ -5552,6 +5996,15 @@
 "odense-korean-1": {
 "del": 1
 },
+"olbia-fine_dining-1": {
+"del": "Il Pescatore: listed Olbia address conflicts with Porto Cervo old-port venue, which has been renamed Quattro Passi al Pescatore"
+},
+"olbia-fine_dining-2": {
+"del": "White Villa restaurant at Piccolo Pevero not found"
+},
+"olbia-fine_dining-3": {
+"ok": 1
+},
 "olympia-fine_dining-1": {
 "en": "Stone guesthouse and taverna in Miraka (Ancient Pisa), 3 km from Ancient Olympia, cooking with local produce.",
 "ko": "고대 올림피아에서 3km 떨어진 미라카(고대 피사) 마을의 돌집 여관 겸 타베르나. 지역 식재료로 요리합니다.",
@@ -5596,6 +6049,12 @@
 },
 "orheiul-vechi-bakery-1": {
 "del": "오르헤이에서 그 빵집을 찾을 수 없음"
+},
+"orvieto-fine_dining-1": {
+"ok": 1
+},
+"orvieto-fine_dining-2": {
+"ok": 1
 },
 "osl-bk-1": {
 "addr": "Inkognito Terrasse 1, 0256 Oslo",
@@ -5667,6 +6126,51 @@
 },
 "oxford-fine_dining-1": {
 "del": "옥스퍼드에서 그 식당을 찾을 수 없음"
+},
+"padua-bakery-1": {
+"ok": 1
+},
+"padua-cafe-1": {
+"ok": 1
+},
+"padua-cafe-2": {
+"del": "Caffetteria Goppion Padova only in a business directory; no reviews confirming it is open"
+},
+"palermo-bakery-1": {
+"addr": "Via Mariano Migliaccio 39, 90144 Palermo",
+"en": "Pastry shop in the Libertà district since 1965, known for cannoli filled to order, cassata and gelato.",
+"ko": "1965년부터 이어온 리베르타 지구의 제과점. 주문하면 바로 채워 주는 카놀리와 카사타·젤라토로 유명합니다.",
+"ok": 1
+},
+"palermo-bakery-2": {
+"en": "Palermo pastry shop famous for its setteveli, a seven-layer chocolate and hazelnut cake.",
+"ko": "초콜릿·헤이즐넛 크림을 일곱 겹으로 쌓은 세테벨리 케이크로 유명한 팔레르모의 제과점.",
+"ok": 1
+},
+"palermo-bakery-3": {
+"addr": "Via Maqueda 266, 90133 Palermo",
+"ok": 1
+},
+"palermo-bakery-4": {
+"en": "Pastry shop inside the Santa Caterina monastery, baking cannoli, cassata and biscuits from old convent recipes; cannoli are filled to order.",
+"ko": "산타 카테리나 수도원 안의 제과점. 수녀원에서 전해 온 옛 조리법으로 카놀리·카사타·과자를 만들고, 카놀리는 주문 즉시 채워 줍니다.",
+"ok": 1
+},
+"palermo-bakery-5": {
+"del": "Pasticceria Costa at Via Filippo Patti 30 not confirmed (shops are Via D Annunzio 15 and Via Maqueda 174)"
+},
+"palermo-cafe-1": {
+"addr": "Via Giuseppe La Masa 3/a, 90144 Palermo",
+"ok": 1
+},
+"palermo-cafe-2": {
+"del": "Cafeteria del Corso: street number not confirmed, only aggregator listings"
+},
+"palermo-fine_dining-1": {
+"ok": 1
+},
+"palermo-fine_dining-2": {
+"ok": 1
 },
 "palma-bakery-1": {
 "en": "Branch of Santo Cristo, a Palma bakery founded in 1910, with ensaïmadas in many flavours.",
@@ -5907,6 +6411,15 @@
 "name": "Kim Chi",
 "ok": 1
 },
+"parma-bakery-1": {
+"del": "Pasticceria Torino Parma marked Permanently Closed (Wanderlog)"
+},
+"parma-fine_dining-1": {
+"ok": 1
+},
+"parma-fine_dining-2": {
+"ok": 1
+},
 "parnu-bakery-1": {
 "addr": "Reiu küla, Häädemeeste vald, 86508 Pärnu maakond",
 "en": "Bakery café on the Reiu river, 13 km south of Pärnu, with a summer terrace over the river.",
@@ -6003,6 +6516,12 @@
 "peja-bakery-1": {
 "del": "페야에서 그 빵집을 찾을 수 없음"
 },
+"perugia-cafe-1": {
+"ok": 1
+},
+"perugia-fine_dining-1": {
+"ok": 1
+},
 "plovdiv-bakery-1": {
 "addr": "ul. Sv. Sv. Kiril i Metodiy 16, Plovdiv",
 "en": "Local bakery with daily-baked traditional breads, banitsa and cakes.",
@@ -6055,6 +6574,13 @@
 "podgorica-bakery-4": {
 "del": "포드고리차에서 그 가게를 찾을 수 없음"
 },
+"polignano-a-mare-cafe-1": {
+"ok": 1
+},
+"pompeii-bakery-1": {
+"addr": "Via Roma 36, 80045 Pompei",
+"ok": 1
+},
 "pompeii-fine_dining-1": {
 "addr": "Piazza Schettini 12/13, 80045 Pompei",
 "en": "One-Michelin-star restaurant in Pompei; closed Mondays and Tuesdays.",
@@ -6074,6 +6600,13 @@
 "en": "One-Michelin-star restaurant near the Ribeira; closed Sundays and Mondays.",
 "ko": "리베이라 근처의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"portofino-bakery-2": {
+"ok": 1
+},
+"portofino-fine_dining-1": {
+"addr": "Piazza Martiri dell'Olivetta 5, 16034 Portofino",
 "ok": 1
 },
 "porvoo-bakery-1": {
@@ -6116,6 +6649,20 @@
 "porvoo-korean-1": {
 "en": "Korean restaurant in central Porvoo with a lunch buffet.",
 "ko": "포르보 중심가의 한식당. 점심 뷔페가 있습니다.",
+"ok": 1
+},
+"positano-bakery-1": {
+"addr": "Via dei Mulini 10, 84017 Positano",
+"ok": 1
+},
+"positano-bakery-2": {
+"ok": 1
+},
+"positano-fine_dining-1": {
+"addr": "Viale Pasitea 172/178, 84017 Positano",
+"ok": 1
+},
+"positano-fine_dining-2": {
 "ok": 1
 },
 "potsdam-bakery-1": {
@@ -6233,6 +6780,13 @@
 },
 "pristina-cafe-1": {
 "del": "배달 앱 목록뿐이라 매장 주소와 설명을 확인할 수 없음"
+},
+"ravenna-fine_dining-1": {
+"ok": 1
+},
+"ravenna-fine_dining-2": {
+"addr": "Via della Tesoreria Vecchia 16, 48121 Ravenna",
+"ok": 1
 },
 "ravenna-fine_dining-3": {
 "addr": "Viale Francesco Baracca 74, 48121 Ravenna",
@@ -6381,11 +6935,25 @@
 "rome-bakery-1": {
 "del": 1
 },
+"rome-bakery-2": {
+"en": "Sign-less kosher bakery in the Jewish Ghetto, famous for its sour-cherry and ricotta tart and pizza ebraica; closed Saturdays.",
+"ko": "유대인 게토의 간판 없는 코셔 제과점. 사워체리·리코타 타르트와 피차 에브라이카로 유명하고 토요일은 쉽니다.",
+"ok": 1
+},
 "rome-bakery-3": {
 "addr": "Via dei Chiavari 34, 00186 Roma",
 "en": "Third-generation bakery near Campo de’ Fiori, known for pizza bianca and rossa sold by weight.",
 "ko": "캄포 데 피오리 근처의 3대째 이어온 빵집. 무게로 파는 피자 비앙카·로사가 유명합니다.",
 "name": "Antico Forno Roscioli",
+"ok": 1
+},
+"rome-bakery-4": {
+"addr": "Via dello Statuto 60, 00185 Roma",
+"en": "Long-standing pastry shop near Piazza Vittorio, famous for cream-filled maritozzi.",
+"ko": "피아차 비토리오 근처의 오래된 제과점. 생크림을 가득 채운 마리토초로 유명합니다.",
+"ok": 1
+},
+"rome-bakery-5": {
 "ok": 1
 },
 "rome-cafe-1": {
@@ -6398,9 +6966,49 @@
 "ko": "판테온 옆 커피 로스터리 바. 크림을 얹은 커피 그라니타가 유명하고 일요일에 쉽니다.",
 "ok": 1
 },
+"rome-cafe-3": {
+"addr": "Via Fabio Massimo 80/A, 00192 Roma",
+"ok": 1
+},
+"rome-cafe-4": {
+"ok": 1
+},
+"rome-cafe-5": {
+"ok": 1
+},
+"rome-fine_dining-1": {
+"en": "Heinz Beck's restaurant on the ninth floor of the Rome Cavalieri, the city's only three-Michelin-star table.",
+"ko": "로마 카발리에리 호텔 9층의 하인츠 베크 레스토랑. 로마의 유일한 미쉐린 3스타입니다.",
+"mi": "star3",
+"ok": 1
+},
+"rome-fine_dining-2": {
+"ok": 1
+},
+"rome-fine_dining-3": {
+"ok": 1
+},
+"rome-fine_dining-4": {
+"ok": 1
+},
+"rome-fine_dining-5": {
+"ok": 1
+},
 "rome-korean-1": {
 "en": "Korean restaurant near Termini, listed in the MICHELIN Guide; under new management since January 2026.",
 "ko": "테르미니역 근처의 한식당. 미쉐린 가이드에 실려 있고 2026년 1월 운영진이 바뀌었습니다.",
+"ok": 1
+},
+"rome-korean-2": {
+"ok": 1
+},
+"rome-korean-3": {
+"ok": 1
+},
+"rome-korean-4": {
+"ok": 1
+},
+"rome-korean-5": {
 "ok": 1
 },
 "ronda-bakery-1": {
@@ -7050,6 +7658,13 @@
 "ko": "로터리 옆 크로난 건물의 브런치 카페. 에그 베네딕트·수프·버거를 내고 비건·글루텐프리 메뉴와 아이 놀이 공간이 있습니다.",
 "ok": 1
 },
+"selfoss-fine_dining-1": {
+"addr": "Brúarstræti 6a, 800 Selfoss",
+"ok": 1
+},
+"selfoss-fine_dining-2": {
+"ok": 1
+},
 "seville-bakery-1": {
 "del": 1
 },
@@ -7132,6 +7747,41 @@
 "addr": "İzzət Həmidov küçəsi, Şəki",
 "ok": 1
 },
+"siena-bakery-1": {
+"ok": 1
+},
+"siena-bakery-2": {
+"ok": 1
+},
+"siena-bakery-3": {
+"ok": 1
+},
+"siena-bakery-4": {
+"ok": 1
+},
+"siena-bakery-5": {
+"addr": "Via Armando Diaz 4, 53100 Siena",
+"ok": 1
+},
+"siena-cafe-1": {
+"del": "Nannini at Piazza Matteotti 28 not confirmed (Nannini shops listed on Via Banchi di Sopra 24 and elsewhere)"
+},
+"siena-cafe-2": {
+"ok": 1
+},
+"siena-cafe-3": {
+"del": "Meet Life Cafe at Via Pantaneto 90 not confirmed; only a student blog mention without address"
+},
+"siena-fine_dining-1": {
+"en": "Elegant contemporary restaurant just outside the city walls, using produce from its own garden, with a chef's table and tasting menus.",
+"ko": "성벽 바로 밖의 세련된 현대 요리 레스토랑. 자체 텃밭 채소를 쓰고 셰프 테이블과 테이스팅 메뉴가 있습니다.",
+"mi": "",
+"ok": 1
+},
+"siena-fine_dining-2": {
+"addr": "Via dei Termini 91, 53100 Siena",
+"ok": 1
+},
 "sighnaghi-cafe-1": {
 "del": "시그나기에서 그 카페를 찾을 수 없음"
 },
@@ -7157,6 +7807,15 @@
 "sighnaghi-fine_dining-4": {
 "en": "Georgian restaurant on Vakhtang Gorgasali Street.",
 "ko": "바흐탕 고르가살리 거리의 조지아 요리 식당.",
+"ok": 1
+},
+"siracusa-bakery-1": {
+"ok": 1
+},
+"siracusa-fine_dining-1": {
+"ok": 1
+},
+"siracusa-fine_dining-2": {
 "ok": 1
 },
 "sirmione-fine_dining-1": {
@@ -7231,6 +7890,18 @@
 },
 "soroca-fine_dining-2": {
 "del": "소로카에서 그 식당을 찾을 수 없음"
+},
+"sorrento-bakery-1": {
+"en": "Well-known gelateria on Corso Italia with over 40 flavours and walls covered in photos of celebrity visitors.",
+"ko": "코르소 이탈리아의 유명 젤라테리아. 40가지가 넘는 맛을 내고 벽에는 다녀간 유명인 사진이 가득합니다.",
+"name": "Gelateria Primavera",
+"ok": 1
+},
+"sorrento-cafe-1": {
+"ok": 1
+},
+"sorrento-fine_dining-1": {
+"ok": 1
 },
 "sounion-fine_dining-1": {
 "addr": "Below the Temple of Poseidon, Sounio",
@@ -7494,6 +8165,16 @@
 "strasbourg-korean-2": {
 "en": "Korean restaurant on rue du 22 Novembre with bibimbap, fried chicken and more; takeaway available.",
 "ko": "22 노벰브르 거리의 한식당. 비빔밥·프라이드치킨 등을 내고 포장도 됩니다.",
+"ok": 1
+},
+"stresa-bakery-1": {
+"addr": "Via Vincenzo de Vit 14, 28838 Stresa",
+"ok": 1
+},
+"stresa-fine_dining-1": {
+"en": "Chef Marco Sacco's lakeside restaurant at Mergozzo, 15 minutes' drive from Stresa; long a two-Michelin-star address, it has held no stars since the 2025 guide.",
+"ko": "메르고초 호숫가의 마르코 사코 셰프 레스토랑(스트레사에서 차로 15분). 오래 미쉐린 2스타였으나 2025년판부터 별이 없습니다.",
+"mi": "",
 "ok": 1
 },
 "stuttgart-bakery-1": {
@@ -7761,6 +8442,13 @@
 "tampere-korean-3": {
 "en": "Korean restaurant on Hämeenkatu.",
 "ko": "하메엔카투의 한식당.",
+"ok": 1
+},
+"taormina-bakery-1": {
+"ok": 1
+},
+"taormina-cafe-1": {
+"addr": "Via di Giovanni 45, 98039 Taormina",
 "ok": 1
 },
 "tartu-bakery-1": {
@@ -8113,6 +8801,12 @@
 },
 "travnik-fine_dining-3": {
 "del": 1
+},
+"trieste-cafe-1": {
+"ok": 1
+},
+"trieste-fine_dining-1": {
+"ok": 1
 },
 "trondheim-fine_dining-1": {
 "en": "One-Michelin-star tasting-menu restaurant cooking with Trøndelag produce.",
@@ -8471,6 +9165,27 @@
 "vienna-korean-5": {
 "en": "Korean restaurant in the 7th district with bibimbap, bulgogi, tabletop barbecue and cold noodles.",
 "ko": "7구의 한식당. 비빔밥·불고기·테이블 바비큐와 물냉면이 있습니다.",
+"ok": 1
+},
+"vik-bakery-1": {
+"ok": 1
+},
+"vik-cafe-1": {
+"ok": 1
+},
+"vik-cafe-2": {
+"addr": "Klettsvegur 9, 870 Vík",
+"en": "Speciality café and roastery in a converted school bus, with a wood-burning stove, bagels and baked goods.",
+"ko": "노란 스쿨버스를 개조한 스페셜티 카페 겸 로스터리. 장작 난로와 베이글·빵이 있습니다.",
+"ok": 1
+},
+"vik-fine_dining-1": {
+"ok": 1
+},
+"vik-fine_dining-2": {
+"ok": 1
+},
+"vik-fine_dining-3": {
 "ok": 1
 },
 "vilnius-fine_dining-1": {
