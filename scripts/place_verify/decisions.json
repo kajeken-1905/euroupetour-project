@@ -1551,6 +1551,38 @@
 "ko": "국회의사당 근처의 작은 헝가리 전통 비스트로. 굴라시·파프리카 치킨을 내고 침발롬 연주가 있습니다. 예약은 온라인으로만 받습니다.",
 "ok": 1
 },
+"budapest-fine_dining-5": {
+"addr": "Hold utca 13, 1054 Budapest",
+"en": "Small Hungarian bistro by the Hold utca market hall, cooking market-bought meat such as breaded veal liver, pork belly and roast duck; few tables, so book.",
+"ko": "홀드 거리 시장 근처의 작은 헝가리 비스트로. 시장에서 산 고기로 송아지 간 커틀릿·삼겹살·오리구이를 냅니다. 테이블이 적어 예약이 좋습니다.",
+"ok": 1
+},
+"budapest-korean-1": {
+"addr": "Istenhegyi út 25, 1125 Budapest",
+"en": "Korean restaurant in a Buda courtyard in District XII, serving stone-pot bibimbap, kimchi jjigae and meat dishes; closed Mondays.",
+"ko": "부다 12구 안뜰의 한식당. 돌솥비빔밥·김치찌개·고기 요리를 냅니다. 월요일 휴무.",
+"ok": 1
+},
+"budapest-korean-2": {
+"en": "Korean restaurant on Fő utca in Buda’s District I, founded in 1991, with tabletop barbecue and side dishes.",
+"ko": "부다 1구 푀 거리의 한식당. 1991년 설립했고 테이블 바비큐와 반찬을 냅니다.",
+"ok": 1
+},
+"budapest-korean-3": {
+"en": "Korean restaurant on Sas utca in District V serving Korean barbecue and stews; closed Mondays.",
+"ko": "5구 샤시 거리의 한식당. 한국식 바비큐와 찌개를 냅니다. 월요일 휴무.",
+"ok": 1
+},
+"budapest-korean-4": {
+"en": "Korean snack bar on Ráday utca near Kálvin tér serving ramyeon and small plates.",
+"ko": "칼빈 광장 근처 라다이 거리의 한식 분식점. 라면과 작은 접시 요리를 냅니다.",
+"ok": 1
+},
+"budapest-korean-5": {
+"en": "Korean restaurant on Akácfa utca in District VII serving pork bulgogi, spicy rice cakes and stews.",
+"ko": "7구 아카치파 거리의 한식당. 돼지불고기·떡볶이와 찌개를 냅니다.",
+"ok": 1
+},
 "calvi-fine_dining-1": {
 "en": "Corsican restaurant on the Calvi harbour focusing on fish such as grilled sardines and fish soup; open in season only.",
 "ko": "칼비 항구 앞 코르시카 요리 식당. 정어리 구이·생선 수프 등 생선 요리가 중심이고 관광철에만 엽니다.",
@@ -1954,6 +1986,56 @@
 "cph-kr-1": {
 "ok": 1
 },
+"debrecen-bakery-1": {
+"del": "not found"
+},
+"debrecen-bakery-2": {
+"en": "Confectioner on Liszt Ferenc utca with cakes, pastries and homemade ice cream; takes custom cake orders.",
+"ko": "리스트 페렌츠 거리의 제과점. 케이크·페이스트리와 수제 아이스크림을 내고 주문 케이크도 받습니다.",
+"ok": 1
+},
+"debrecen-bakery-3": {
+"del": "not found"
+},
+"debrecen-bakery-4": {
+"del": "not found"
+},
+"debrecen-bakery-5": {
+"en": "Neighbourhood bakery on Csapó utca selling bread and pastries.",
+"ko": "차포 거리의 동네 빵집. 빵과 페이스트리를 냅니다.",
+"ok": 1
+},
+"debrecen-cafe-1": {
+"del": "listed address belongs to other businesses; branch address not confirmable"
+},
+"debrecen-cafe-2": {
+"addr": "Csapó utca 23, 4024 Debrecen",
+"en": "Coffee roastery-café founded in Debrecen in 2016, serving dozens of coffees from its own roasts plus brunch and ice cream.",
+"ko": "2016년 데브레첸에서 시작한 커피 로스터리 카페. 직접 볶은 원두 커피 수십 종과 브런치·아이스크림을 냅니다.",
+"ok": 1
+},
+"debrecen-fine_dining-1": {
+"en": "Restaurant on Piac utca using produce from local farms and making its own bread and Debrecen sausage; listed in the MICHELIN Guide; closed Sundays and Mondays.",
+"ko": "피아츠 거리의 레스토랑. 지역 농장 식재료를 쓰고 빵과 데브레첸 소시지를 직접 만듭니다. 미쉐린 가이드에 실려 있고 일·월요일 휴무.",
+"ok": 1
+},
+"debrecen-fine_dining-2": {
+"en": "Cellar restaurant opposite the Csokonai Theatre serving generous Hungarian and international dishes, with a large events hall.",
+"ko": "초코나이 극장 맞은편 지하의 헝가리 요리 식당. 양이 넉넉하고 연회장이 있습니다.",
+"ok": 1
+},
+"debrecen-fine_dining-3": {
+"addr": "Széchenyi utca 6, 4025 Debrecen",
+"en": "Inn and cellar-style Hungarian restaurant in Debrecen’s oldest standing building (1690), with a wine terrace.",
+"ko": "1690년 지은 데브레첸에서 가장 오래된 건물의 여관 겸 지하 헝가리 요리 식당. 와인 테라스가 있습니다.",
+"ok": 1
+},
+"debrecen-korean-1": {
+"del": "not found (Zing in Debrecen is a burger chain)"
+},
+"debrecen-korean-2": {
+"del": "not found"
+},
 "delft-fine_dining-1": {
 "addr": "Houttuinen 2, 2611 DX Delft",
 "en": "Two-Michelin-star restaurant in Delft (promoted in 2026).",
@@ -2236,6 +2318,45 @@
 "en": "One-Michelin-star restaurant in a former warehouse; closed Mondays and Tuesdays.",
 "ko": "옛 창고 건물의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"eger-bakery-1": {
+"del": "no Lipóti branch confirmed in Eger"
+},
+"eger-bakery-2": {
+"en": "Coffee bar and deli open since 2021, with sourdough bread, small-producer goods and breakfast.",
+"ko": "2021년 문을 연 커피 바 겸 델리. 사워도우 빵과 소규모 생산자 식료품, 아침 메뉴를 냅니다.",
+"ok": 1
+},
+"eger-cafe-1": {
+"en": "Café on Dobó Street on the way up to the castle, with a Greek-style courtyard, over 30 coffees, hot chocolate and regional wines.",
+"ko": "성으로 올라가는 도보 거리의 카페. 그리스풍 안뜰에서 30여 가지 커피와 핫초콜릿, 지역 와인을 냅니다.",
+"ok": 1
+},
+"eger-cafe-2": {
+"del": "not found"
+},
+"eger-cafe-3": {
+"en": "Cosy café-bar just outside the centre with coffee, tea, sandwiches and wine, a terrace and a kids’ play corner; cash only.",
+"ko": "시내 중심 밖 주택가의 아늑한 카페 겸 바. 커피·차·샌드위치·와인을 내고 테라스와 놀이 공간이 있으며 현금만 받습니다.",
+"ok": 1
+},
+"eger-cafe-4": {
+"del": "address not confirmable"
+},
+"eger-cafe-5": {
+"en": "Specialty coffee and breakfast café in the centre, open since 2018 and set up for families with a play corner and baby room; vegan and gluten-free options.",
+"ko": "2018년 문을 연 시내의 스페셜티 커피·아침 식사 카페. 아기 동반에 맞춘 놀이 공간과 수유실이 있고 비건·글루텐프리 메뉴도 있습니다.",
+"ok": 1
+},
+"eger-fine_dining-1": {
+"en": "Family-run bistro on a cobbled old-town street beside the castle walls, serving Hungarian and Mediterranean dishes, with a water-wheel courtyard and wine shop; listed in the MICHELIN Guide.",
+"ko": "성벽 옆 구시가 돌길의 가족 운영 비스트로. 헝가리·지중해 요리를 내고 물레방아가 있는 안뜰과 와인 가게가 있습니다. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"eger-fine_dining-2": {
+"en": "Restaurant-café on Dobó Square since 2004, with a seasonally changing menu including venison steak and outdoor tables on the square.",
+"ko": "2004년부터 도보 광장에서 영업한 레스토랑 겸 카페. 메뉴가 계절마다 바뀌고 사슴 스테이크 등을 내며 광장 쪽 야외석이 있습니다.",
 "ok": 1
 },
 "etretat-fine_dining-1": {
@@ -5474,6 +5595,18 @@
 "del": "그 카페를 찾을 수 없음"
 },
 "pas-de-la-casa-fine_dining-1": {
+"ok": 1
+},
+"pecs-bakery-1": {
+"addr": "Citrom utca 5-7, 7621 Pécs",
+"en": "Confectioner in business since 1985, known for Italian-style craft ice cream and family-made sweets.",
+"ko": "1985년부터 영업한 제과점. 이탈리아식 수제 아이스크림과 가족이 만든 디저트가 대표입니다.",
+"ok": 1
+},
+"pecs-bakery-2": {
+"en": "Cake shop about a 20-minute walk from the centre, with a large terrace and garden with a kids’ play area behind it; vegan cakes too.",
+"ko": "시내에서 20분쯤 걸어가는 곳의 케이크 가게. 뒤쪽에 넓은 테라스·정원과 아이 놀이 공간이 있고 비건 케이크도 있습니다.",
+"name": "Trüffel Cukrászda",
 "ok": 1
 },
 "peja-bakery-1": {
