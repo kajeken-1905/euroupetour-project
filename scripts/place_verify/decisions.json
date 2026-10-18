@@ -2636,8 +2636,18 @@
 "galway-bakery-3": {
 "del": "listed elsewhere (Knocknacarra), not at Mainguard St; address not confirmable"
 },
+"galway-bakery-4": {
+"en": "Polish-style bakery on Abbeygate Street baking pączki, makowiec poppy-seed rolls and sourdough.",
+"ko": "애비게이트 스트리트의 폴란드식 빵집. 퍼치키·마코비에츠(양귀비씨 롤)와 사워도우를 굽습니다.",
+"ok": 1
+},
 "galway-cafe-1": {
 "addr": "12A Terryland House, Galway H91 DA21",
+"ok": 1
+},
+"galway-cafe-2": {
+"en": "Orange-fronted coffee shop on William Street serving its own Fixx coffee, with breakfast, sandwiches, cakes and vegan options.",
+"ko": "윌리엄 스트리트의 주황색 외관 커피 카페. 자체 원두 Fixx 커피를 내고 아침·샌드위치·케이크와 비건 메뉴가 있습니다.",
 "ok": 1
 },
 "galway-fine_dining-1": {
@@ -3640,9 +3650,41 @@
 "ko": "네무나스 거리의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
+"kilkenny-bakery-1": {
+"addr": "8 The Arches, Barrack Street, Kilkenny R95 YF30",
+"en": "Sourdough bakery and bistro run by a chef couple, baking with local stoneground flour and known for brunch; closed Tuesdays.",
+"ko": "셰프 부부가 운영하는 사워도우 빵집 겸 비스트로. 지역 맷돌 밀가루로 굽고 브런치가 유명합니다. 화요일 휴무.",
+"ok": 1
+},
+"kilkenny-bakery-2": {
+"en": "Pâtisserie, café and cookery school opened in 2015 by a pastry-chef couple who trained at The Savoy; they also roast their own coffee.",
+"ko": "사보이 호텔 출신 파티시에 부부의 파티스리 겸 카페·요리 교실. 2015년 문을 열었고 커피도 직접 볶습니다.",
+"ok": 1
+},
+"kilkenny-bakery-3": {
+"en": "Daytime café and bakery on pedestrianised Kieran Street with its own bread and pastries, breakfast and soups.",
+"ko": "킬케니 보행자 거리의 낮 카페 겸 베이커리. 직접 굽는 빵·페이스트리와 아침 메뉴, 수프를 냅니다.",
+"ok": 1
+},
+"kilkenny-bakery-4": {
+"en": "Deli and bakery opened across the street by the Arán bakery team.",
+"ko": "아란 빵집이 길 건너에 연 델리 겸 빵집.",
+"ok": 1
+},
+"kilkenny-bakery-5": {
+"del": "address not confirmable"
+},
 "kilkenny-cafe-1": {
 "addr": "St Kieran’s Street, Kilkenny",
 "ok": 1
+},
+"kilkenny-cafe-2": {
+"en": "Small independent café open since 2010, baking on site daily, with pancakes, Basque cheesecake and coffee; closed Sundays.",
+"ko": "2010년 문을 연 작은 독립 카페. 매일 직접 굽고 팬케이크·바스크 치즈케이크와 커피를 냅니다. 일요일 휴무.",
+"ok": 1
+},
+"kilkenny-cafe-3": {
+"del": "only one low-quality listing; unconfirmable"
 },
 "kilkenny-cafe-4": {
 "addr": "3 William Street, Kilkenny R95 XE36",
@@ -3659,11 +3701,44 @@
 "mi": "star1",
 "ok": 1
 },
+"kilkenny-fine_dining-2": {
+"addr": "Butterslip Lane, Kilkenny",
+"en": "Irish restaurant in one of Kilkenny’s oldest buildings on Butterslip Lane, named after Petronella, the first woman accused of witchcraft in Ireland; run by the O’Neill family.",
+"ko": "버터슬립 골목의 오래된 건물에 자리한 아일랜드 요리 레스토랑. 아일랜드 첫 마녀 재판 피고 페트로넬라의 이름을 땄고 오닐 가족이 운영합니다.",
+"ok": 1
+},
+"killarney-bakery-1": {
+"del": "permanently closed"
+},
+"killarney-bakery-2": {
+"en": "Family-run French pâtisserie and boulangerie since 2008, with a first-floor café, a small patio and gluten-free cakes.",
+"ko": "2008년부터 가족이 운영하는 프랑스식 파티스리·불랑제리. 2층 카페와 작은 테라스가 있고 글루텐프리 케이크도 있습니다.",
+"ok": 1
+},
+"killarney-bakery-3": {
+"del": "not found"
+},
+"killarney-bakery-4": {
+"cat": "cafe",
+"en": "Deli and wine bar run by a brother and sister: sandwiches, pastries and coffee by day, natural wine with Irish cheese and charcuterie in the evening.",
+"ko": "남매가 운영하는 델리 겸 와인 바. 낮에는 샌드위치·페이스트리와 커피, 저녁엔 내추럴 와인과 아일랜드 치즈를 냅니다.",
+"ok": 1
+},
 "killarney-cafe-1": {
 "addr": "4 Main St, Killarney, Co. Kerry V93 CC82",
 "en": "Bakery and café inside the old J.M. Reidy’s sweetshop building.",
 "ko": "옛 사탕 가게 건물(J.M. 리디스) 안의 베이커리·카페.",
 "name": "Mrs Reidy’s Bakery & Café (J.M. Reidy’s)",
+"ok": 1
+},
+"killarney-cafe-2": {
+"en": "Cosy café tucked into New Market Lane, serving breakfast, soups and coffee until late afternoon, with indoor and outdoor seating.",
+"ko": "뉴마켓 골목 안의 아늑한 카페. 아침 메뉴와 수프, 커피를 오후까지 내고 실내외 좌석이 있습니다.",
+"ok": 1
+},
+"killarney-cafe-3": {
+"en": "Handmade-chocolate café on Kenmare Place with coffee, tea and scones; dog-friendly.",
+"ko": "케나레 플레이스의 수제 초콜릿 카페. 커피·차·스콘을 내고 반려견 동반이 됩니다.",
 "ok": 1
 },
 "kiruna-cafe-1": {
@@ -4117,6 +4192,11 @@
 "lon-kr-5": {
 "en": "Tiny Korean café near Tottenham Court Road, known for bibimbap and gimbap.",
 "ko": "토트넘 코트 로드 근처의 작은 한식 분식집. 비빔밥·김밥이 인기입니다.",
+"ok": 1
+},
+"lucca-fine_dining-1": {
+"en": "One of Lucca’s oldest restaurants, dating from 1782, serving classic Tuscan dishes; closed Sundays and Mondays; listed in the MICHELIN Guide.",
+"ko": "1782년부터 이어진 루카의 오래된 레스토랑. 토스카나 전통 요리를 내고 일·월요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
 "lucerne-bakery-1": {
@@ -4665,10 +4745,21 @@
 "ko": "칼람바카 시청 광장 분수 옆의 타베르나. 양갈비·무사카·오븐 양고기를 냅니다.",
 "ok": 1
 },
+"milan-fine_dining-1": {
+"en": "Restaurant in a converted railway building serving modern Milanese and Lombard cooking, open daily; listed in the MICHELIN Guide.",
+"ko": "옛 철도 건물을 고친 레스토랑. 밀라노·롬바르디아 요리를 현대적으로 내고 매일 엽니다. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
 "modena-fine_dining-1": {
 "en": "Three-Michelin-star restaurant of chef Massimo Bottura.",
 "ko": "셰프 마시모 보투라의 미쉐린 3스타 레스토랑.",
 "mi": "star3",
+"ok": 1
+},
+"modena-fine_dining-2": {
+"addr": "Vicolo Squallore 46, 41121 Modena",
+"en": "Tiny dining room behind the historic Giusti salumeria serving traditional Modenese dishes; closed Sundays and Mondays; listed in the MICHELIN Guide.",
+"ko": "오래된 살루메리아 주스티 뒤편의 작은 식당. 모데나 전통 요리를 내고 일·월요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
 "monaco-fine_dining-1": {
@@ -6040,6 +6131,12 @@
 "en": "Small chef’s-counter restaurant with one Michelin star on Laugavegur; closed Sundays and Mondays.",
 "ko": "라우가베구르의 작은 셰프 카운터 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"reykjavik-fine_dining-5": {
+"addr": "Mýrargata 31, 101 Reykjavík",
+"en": "Restaurant reworking traditional Icelandic dishes, open for dinner only and closed Mondays and Tuesdays; listed in the MICHELIN Guide.",
+"ko": "아이슬란드 전통 요리를 현대적으로 풀어 내는 레스토랑. 저녁에만 열고 월·화요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
 "rhodes-bakery-1": {

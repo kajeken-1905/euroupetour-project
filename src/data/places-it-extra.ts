@@ -24,7 +24,7 @@ export const placesITExtra: Place[] = [
   place('rome-korean-5', 'rome', 'korean', 'Ristorante Midam', 'Via Filippo Turati 54-56, 00185 Roma, Italy', '가정식 백반을 내는 로마의 한식당.', 'Rome Korean restaurant serving home-style set meals.'),
 
   // —— milan ——
-  place('milan-fine_dining-1', 'milan', 'fine_dining', 'Ratanà', 'Via Gaetano de Castillia 28, 20124 Milano', '옛 철도 건물을 고친 밀라노·롬바르디아 요리 식당. 리조토 알라 밀라네제가 있습니다.', 'Milanese-Lombard restaurant in a converted railway building, serving risotto alla milanese.'),
+  place('milan-fine_dining-1', 'milan', 'fine_dining', 'Ratanà', 'Via Gaetano de Castillia 28, 20124 Milano', '옛 철도 건물을 고친 레스토랑. 밀라노·롬바르디아 요리를 현대적으로 내고 매일 엽니다. 미쉐린 가이드에 실려 있습니다.', 'Restaurant in a converted railway building serving modern Milanese and Lombard cooking, open daily; listed in the MICHELIN Guide.'),
   place('milan-fine_dining-2', 'milan', 'fine_dining', 'Risoelatte', 'Via Laura Solera Mantegazza 5, 20122 Milano', '1960년대 인테리어가 인상적인 정통 밀라노 요리 레스토랑.', 'Authentic Milanese restaurant with distinctive 1960s decor.', { image: '/places/milan-fine_dining-2.jpg' }),
   place('milan-korean-1', 'milan', 'korean', 'Ginmi', 'Via Giovanni Paisiello 7, 20131 Milano', '돌솥비빔밥을 내는 한식당.', 'Korean restaurant serving dolsot bibimbap.'),
   place('milan-korean-2', 'milan', 'korean', 'Seoul Ristorante Coreano', 'Corso Cristoforo Colombo 4, 20144 Milan, Italy', '밀라노의 한식당.', 'Korean restaurant in Milan.'),
@@ -233,7 +233,7 @@ export const placesITExtra: Place[] = [
 
   // —— modena ——
   place('modena-fine_dining-1', 'modena', 'fine_dining', 'Osteria Francescana', 'Via Stella 22, 41121 Modena', '셰프 마시모 보투라의 미쉐린 3스타 레스토랑.', 'Three-Michelin-star restaurant of chef Massimo Bottura.', { michelin: 'star3', image: '/places/modena-fine_dining-1.jpg' }),
-  place('modena-fine_dining-2', 'modena', 'fine_dining', 'Hosteria Giusti', 'Via Farini 75, 41121 Modena', '살루메리아 뒤편 4테이블 점심 전용 전통 식당.', 'Four-table, lunch-only institution behind a salumeria.'),
+  place('modena-fine_dining-2', 'modena', 'fine_dining', 'Hosteria Giusti', 'Vicolo Squallore 46, 41121 Modena', '오래된 살루메리아 주스티 뒤편의 작은 식당. 모데나 전통 요리를 내고 일·월요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.', 'Tiny dining room behind the historic Giusti salumeria serving traditional Modenese dishes; closed Sundays and Mondays; listed in the MICHELIN Guide.'),
   place('modena-fine_dining-3', 'modena', 'fine_dining', 'Trattoria Aldina', 'Via Albinelli 40, 41121 Modena', '가정식 모데나 요리를 내는 시장 옆 트라토리아.', 'Home-style Modenese trattoria by the market.'),
   place('modena-cafe-1', 'modena', 'cafe', 'Bar Schiavoni', 'Mercato Albinelli, Via Albinelli, 41121 Modena', '알비넬리 시장 안 뇨코 프리토 샌드위치 바.', 'Sandwich bar inside Mercato Albinelli serving gnocco fritto.'),
 
@@ -248,7 +248,7 @@ export const placesITExtra: Place[] = [
   place('ravenna-fine_dining-3', 'ravenna', 'fine_dining', 'L\'Acciuga Osteria', 'Viale Francesco Baracca 74, 48121 Ravenna', '라벤나의 해산물 오스테리아.', 'Seafood osteria in Ravenna.'),
 
   // —— lucca ——
-  place('lucca-fine_dining-1', 'lucca', 'fine_dining', 'Buca di Sant\'Antonio', 'Via della Cervia 3, 55100 Lucca', '1782년부터 이어진 루카의 레스토랑.', 'Lucca restaurant operating since 1782.'),
+  place('lucca-fine_dining-1', 'lucca', 'fine_dining', 'Buca di Sant\'Antonio', 'Via della Cervia 3, 55100 Lucca', '1782년부터 이어진 루카의 오래된 레스토랑. 토스카나 전통 요리를 내고 일·월요일은 쉽니다. 미쉐린 가이드에 실려 있습니다.', 'One of Lucca’s oldest restaurants, dating from 1782, serving classic Tuscan dishes; closed Sundays and Mondays; listed in the MICHELIN Guide.'),
   place('lucca-bakery-1', 'lucca', 'bakery', 'Taddeucci', 'Piazza San Michele 34, 55100 Lucca', '1881년부터 루카 명물 부첼라토를 굽는 제과점.', 'Baking Lucca\'s buccellato since 1881.', { image: '/places/lucca-bakery-1.jpg' }),
   place('lucca-bakery-2', 'lucca', 'bakery', 'Pizzeria Da Felice', 'Via Buia 12, 55100 Lucca', '조각 피자와 카스타냐초를 파는 오래된 가게.', 'Long-established shop selling pizza by the slice and castagnaccio.'),
 
