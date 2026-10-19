@@ -567,6 +567,35 @@
 "athens-korean-2": {
 "del": "not found"
 },
+"aveiro-bakery-1": {
+"del": "Pastelaria Ramos: named in guides but Av. Dr. Lourenço Peixinho 86 address unconfirmed"
+},
+"aveiro-bakery-2": {
+"en": "One of Aveiro's oldest pastry shops, dating from 1856 and famous for ovos moles.",
+"ko": "1856년부터 이어온 아베이루에서 가장 오래된 제과점 중 하나. 명물 오부스 몰레스로 유명합니다.",
+"ok": 1
+},
+"aveiro-cafe-1": {
+"del": "Armazém do Caffè: no Aveiro location found (listed in Porto and Viseu)"
+},
+"aveiro-cafe-2": {
+"en": "Specialty coffee shop where the owner is the barista; oat-milk galão and pastéis de nata; closed Sundays.",
+"ko": "주인이 직접 내리는 스페셜티 커피숍. 귀리 우유 갈랑과 파스텔 드 나타가 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"aveiro-cafe-3": {
+"del": "Mercado Negro: a cultural collective with shops; no café or address confirmed"
+},
+"aveiro-fine_dining-1": {
+"en": "Restaurant in two former salt warehouses where chef Duarte Eira cooks with lagoon produce; listed in the MICHELIN Guide.",
+"ko": "옛 소금 창고 두 채를 개조한 레스토랑. 셰프 두아르트 에이라가 석호 식재료로 요리하고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"aveiro-fine_dining-2": {
+"en": "Modern Portuguese restaurant by the old fish-market square, known for seafood rice and risottos.",
+"ko": "생선 시장 광장 옆의 모던 포르투갈 레스토랑. 해산물 밥과 리소토가 대표입니다.",
+"ok": 1
+},
 "avignon-bakery-1": {
 "addr": "30 Place des Corps Saints, 84000 Avignon, France",
 "en": "Bakery on Place des Corps-Saints with many speciality breads (corn, seaweed, spelt) and viennoiserie.",
@@ -1542,6 +1571,83 @@
 "bordeaux-korean-2": {
 "del": 1
 },
+"braga-bakery-1": {
+"en": "Bakery and restaurant of nearly 100 years, with traditional pastries and brunch.",
+"ko": "100년 가까운 역사의 빵집 겸 레스토랑. 전통 페이스트리와 브런치를 냅니다.",
+"ok": 1
+},
+"braga-bakery-2": {
+"en": "Braga's oldest business, trading on the same spot since 1796, famous for the meat-filled frigideira pastry.",
+"ko": "1796년부터 같은 자리에서 영업해 온 브라가에서 가장 오래된 가게. 고기를 넣은 페이스트리 프리지데이라가 대표입니다.",
+"ok": 1
+},
+"braga-cafe-1": {
+"en": "Scandinavian-style café seen as Braga's specialty-coffee pioneer, with a back courtyard and brunch.",
+"ko": "브라가 스페셜티 커피의 선구자로 꼽히는 북유럽풍 카페. 뒷마당 테라스와 브런치가 있습니다.",
+"ok": 1
+},
+"braga-cafe-2": {
+"en": "Historic café opened in March 1907, once a meeting place of the opposition to the Salazar regime.",
+"ko": "1907년 3월 문을 연 브라가의 역사적인 카페. 독재 시절 반정부 인사들의 모임 장소였습니다.",
+"ok": 1
+},
+"braga-fine_dining-1": {
+"del": "Le Brito's Braga not found in any source"
+},
+"braga-fine_dining-2": {
+"en": "Minho-cooking restaurant near the cathedral, known for roast kid and listed in the MICHELIN Guide.",
+"ko": "대성당 근처의 미뉴 지방 요리 레스토랑. 새끼염소 구이가 대표이고 미쉐린 가이드에 실려 왔습니다.",
+"ok": 1
+},
+"braga-fine_dining-3": {
+"en": "Family-run wood-oven restaurant since 1926, known for bacalhau à Braga and duck rice.",
+"ko": "1926년부터 가족이 운영하는 장작 화덕 식당. 바칼라우 아 브라가와 오리밥이 대표입니다.",
+"ok": 1
+},
+"braga-fine_dining-4": {
+"en": "Traditional tavern by the Porta Nova arch, serving bacalhau and duck rice.",
+"ko": "포르타 노바 아치 옆의 전통 타베르나. 바칼라우와 오리밥을 냅니다.",
+"ok": 1
+},
+"brasov-bakery-1": {
+"del": "unconfirmable"
+},
+"brasov-bakery-2": {
+"addr": "Strada Bisericii Române, 500068 Brașov, Romania"
+},
+"brasov-bakery-3": {
+"ok": true
+},
+"brasov-bakery-4": {
+"del": "unconfirmable"
+},
+"brasov-cafe-1": {
+"ok": true
+},
+"brasov-cafe-2": {
+"ok": true
+},
+"brasov-cafe-3": {
+"ok": true
+},
+"brasov-cafe-4": {
+"ok": true
+},
+"brasov-fine_dining-1": {
+"ok": true
+},
+"brasov-fine_dining-2": {
+"ok": true
+},
+"brasov-fine_dining-3": {
+"ok": true
+},
+"brasov-fine_dining-4": {
+"ok": true
+},
+"brasov-fine_dining-5": {
+"ok": true
+},
 "brighton-bakery-5": {
 "del": "브라이턴에서 그 가게를 찾을 수 없음"
 },
@@ -1763,14 +1869,48 @@
 "bruges-korean-1": {
 "del": 1
 },
+"bucharest-bakery-1": {
+"addr": "Splaiul Unirii 165, Timpuri Noi Square, 030133 Bucharest, Romania"
+},
 "bucharest-bakery-2": {
 "del": "부쿠레슈티에서 그 빵집을 찾을 수 없음"
+},
+"bucharest-bakery-3": {
+"ok": true
+},
+"bucharest-bakery-4": {
+"ok": true
+},
+"bucharest-cafe-1": {
+"ok": true
+},
+"bucharest-cafe-2": {
+"ok": true
+},
+"bucharest-cafe-3": {
+"addr": "Strada Covaci 16, 030167 Bucharest, Romania",
+"name": "Cafeneaua Veche 9"
+},
+"bucharest-cafe-4": {
+"ok": true
+},
+"bucharest-fine_dining-1": {
+"ok": true
+},
+"bucharest-fine_dining-2": {
+"ok": true
+},
+"bucharest-fine_dining-3": {
+"ok": true
 },
 "bucharest-fine_dining-4": {
 "addr": "Strada Stavropoleos 5, București",
 "en": "Neo-Gothic beer hall restaurant in the Old Town, open since 1899.",
 "ko": "1899년 문을 연 구시가지의 네오고딕 맥주홀 식당.",
 "ok": 1
+},
+"bucharest-fine_dining-5": {
+"ok": true
 },
 "budapest-bakery-1": {
 "en": "Sourdough bakery opened on Hold utca in 2015, with long-fermented loaves, laminated pastries, breakfast and light lunches.",
@@ -1994,11 +2134,38 @@
 "capri-fine_dining-2": {
 "ok": 1
 },
+"cascais-bakery-1": {
+"del": "Panisol: no source places it at Rua Frederico Arouca 23"
+},
+"cascais-bakery-2": {
+"en": "Classic Cascais pastry shop with local areias and nozes de Cascais, plus pastéis de nata.",
+"ko": "카스카이스의 전통 제과점. 지역 과자 아레이아스와 노즈스 드 카스카이스, 파스텔 드 나타를 냅니다.",
+"ok": 1
+},
+"cascais-cafe-1": {
+"addr": "Rua Afonso Sanches 12, 2750-282 Cascais, Portugal",
+"en": "Brunch café near the waterfront with smoothie bowls, toasts and vegan options.",
+"ko": "바닷가 근처의 브런치 카페. 스무디 볼과 토스트, 비건 메뉴가 있습니다.",
+"ok": 1
+},
+"cascais-cafe-2": {
+"en": "Specialty coffee and brunch café at Cascais Marina, with cocktails and steaks in the evening.",
+"ko": "카스카이스 마리나의 스페셜티 커피·브런치 카페. 저녁엔 칵테일과 스테이크도 냅니다.",
+"ok": 1
+},
 "cascais-fine_dining-1": {
 "en": "Michelin one-star restaurant in a 17th-century fortress hotel on the Guincho coast.",
 "ko": "기뉴 해안 17세기 요새 호텔의 미쉐린 1스타 레스토랑.",
 "mi": "star1",
 "ok": 1
+},
+"cascais-fine_dining-2": {
+"en": "Family-run seafood restaurant by the Boca do Inferno cliffs, with an Atlantic-view terrace; closed Wednesdays.",
+"ko": "보카 두 인페르누 바위 옆의 가족 운영 해산물 식당. 대서양이 보이는 테라스가 있고 수요일은 쉽니다.",
+"ok": 1
+},
+"cascais-fine_dining-3": {
+"del": "O Biscoito listed as temporarily closed"
 },
 "catania-bakery-1": {
 "ok": 1
@@ -2238,8 +2405,84 @@
 "cinque-terre-fine_dining-2": {
 "ok": 1
 },
+"cluj-napoca-bakery-1": {
+"del": "branch unconfirmable"
+},
+"cluj-napoca-bakery-2": {
+"del": "unconfirmable"
+},
+"cluj-napoca-bakery-3": {
+"del": "unconfirmable"
+},
+"cluj-napoca-bakery-4": {
+"del": "unconfirmable"
+},
+"cluj-napoca-cafe-1": {
+"ok": true
+},
+"cluj-napoca-cafe-2": {
+"del": "unconfirmable"
+},
+"cluj-napoca-cafe-3": {
+"addr": "Bulevardul Eroilor 7, Cluj-Napoca, Romania",
+"name": "Olivo Bistro & Caffe"
+},
+"cluj-napoca-cafe-4": {
+"ok": true
+},
+"cluj-napoca-fine_dining-1": {
+"ok": true
+},
+"cluj-napoca-fine_dining-2": {
+"ok": true
+},
+"cluj-napoca-fine_dining-3": {
+"ok": true
+},
+"cluj-napoca-fine_dining-4": {
+"ok": true
+},
+"cluj-napoca-fine_dining-5": {
+"ok": true
+},
+"cluj-napoca-korean-1": {
+"del": "unconfirmable"
+},
+"coimbra-bakery-1": {
+"del": "Pastelaria Penta not found (Fernão de Magalhães 22 is Pastelaria Arco-Iris)"
+},
+"coimbra-bakery-2": {
+"en": "Baixa pastry shop opened in 1955, known for pastel de Tentúgal and pastel de Santa Clara.",
+"ko": "1955년 문을 연 바이샤의 제과점. 파스텔 드 텐투갈과 파스텔 드 산타 클라라가 대표입니다.",
+"ok": 1
+},
+"coimbra-cafe-1": {
+"en": "Historic café open since 1923 in the former Santa Cruz church building, with fado nights.",
+"ko": "1923년부터 옛 산타 크루즈 교회 건물에서 영업해 온 역사적인 카페. 파두 공연이 열립니다.",
+"ok": 1
+},
+"coimbra-cafe-2": {
+"en": "Specialty coffee shop opened in early 2024, with toasts and homemade cakes.",
+"ko": "2024년 초 문을 연 스페셜티 커피숍. 토스트와 직접 만든 케이크를 냅니다.",
+"ok": 1
+},
 "coimbra-fine_dining-1": {
 "del": 1
+},
+"coimbra-fine_dining-2": {
+"en": "Tiny tasca of six or seven tables famous for pork ribs; no reservations, closed Sundays.",
+"ko": "테이블 예닐곱 개의 작은 타스카. 돼지갈비 요리가 대표이고 예약을 받지 않으며 일요일은 쉽니다.",
+"ok": 1
+},
+"coimbra-fine_dining-3": {
+"en": "Baixa tavern popular for its petiscos and dish of the day; book for lunch.",
+"ko": "바이샤의 타베르나. 다양한 페티스쿠와 오늘의 메뉴로 인기라 점심엔 예약을 권합니다.",
+"ok": 1
+},
+"coimbra-korean-1": {
+"en": "Korean barbecue in Coimbra where you grill at the table.",
+"ko": "테이블 그릴에서 직접 구워 먹는 코임브라의 한국식 바비큐.",
+"ok": 1
 },
 "cologne-bakery-1": {
 "addr": "Ehrenstraße 75, 50672 Köln",
@@ -3020,6 +3263,96 @@
 "ko": "에트르타 절벽이 보이는 언덕 위 성 호텔의 레스토랑. 미쉐린 가이드에 실려 있고 페캉 어시장 해산물로 코스를 냅니다.",
 "ok": 1
 },
+"evora-bakery-1": {
+"en": "Évora shop for convent sweets, including its namesake pão de rala; only a few tables.",
+"ko": "에보라의 수도원 과자 전문점. 이름이 된 파웅 드 할라를 내고 좌석은 몇 개뿐입니다.",
+"ok": 1
+},
+"evora-bakery-2": {
+"en": "Breakfast and lunch café with toasts, bagels and bowls; reviews say cash only.",
+"ko": "토스트·베이글·볼을 내는 아침·점심 카페. 현금만 받는다는 후기가 있습니다.",
+"ok": 1
+},
+"evora-cafe-1": {
+"addr": "Largo de Álvaro Velho 5, 7000-799 Évora, Portugal",
+"en": "Cosy Mediterranean-style café with vegan and gluten-free options; closed Mondays.",
+"ko": "아늑한 지중해풍 카페. 비건·글루텐 프리 메뉴가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"evora-fine_dining-1": {
+"en": "Bistro on an old-town lane giving Alentejo traditions a modern take; listed in the MICHELIN Guide.",
+"ko": "구시가 골목의 비스트로. 알렌테주 전통을 현대적으로 풀고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"evora-fine_dining-2": {
+"en": "Alentejo restaurant run by the same family since 1945, with partridge dishes and convent desserts; closed Mondays.",
+"ko": "1945년부터 3대째 이어온 알렌테주 요리 식당. 메추라기·자고새 요리와 수도원 디저트가 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"evora-fine_dining-3": {
+"en": "Couple-run counter restaurant of about nine seats with Alentejo food and good wine; no reservations.",
+"ko": "부부가 운영하는 9석 남짓 카운터 식당. 알렌테주 요리와 와인이 좋고 예약을 받지 않습니다.",
+"ok": 1
+},
+"evora-fine_dining-4": {
+"en": "Alentejo cooking with a modern touch and a convent-recipe pudding; listed in the MICHELIN Guide.",
+"ko": "알렌테주 전통 요리에 현대적 터치를 더한 레스토랑. 수녀원 레시피 푸딩이 있고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"faro-bakery-1": {
+"del": "Padaria Centeio: Av. da República 92 address unconfirmed"
+},
+"faro-bakery-2": {
+"en": "Central bakery with slow-fermented bread and French-style pastries, plus vegan options.",
+"ko": "저온 발효 빵과 프랑스식 페이스트리를 내는 구시가 빵집. 비건 메뉴도 있습니다.",
+"ok": 1
+},
+"faro-cafe-1": {
+"del": "Soho Coffee at Rua do Alportel 29 not found in any source"
+},
+"faro-cafe-2": {
+"en": "Old-town brunch café with shakshuka, vegan bagels and smoothie bowls; open daily.",
+"ko": "구시가의 브런치 카페. 샥슈카와 비건 베이글, 스무디 볼을 내고 매일 엽니다.",
+"ok": 1
+},
+"faro-fine_dining-1": {
+"en": "Restaurant on the fourth floor of Hotel Faro, with a terrace over the marina and lagoon and Mediterranean dishes.",
+"ko": "호텔 파루 4층의 레스토랑. 마리나와 석호가 보이는 테라스에서 지중해·국제 요리를 냅니다.",
+"name": "Ria Formosa",
+"ok": 1
+},
+"faro-fine_dining-2": {
+"en": "Portuguese home-cooking restaurant near the market, best known for its francesinha; closed Tuesdays.",
+"ko": "시장 근처의 포르투갈 가정식 식당. 프란세지냐가 대표이고 화요일은 쉽니다.",
+"ok": 1
+},
+"faro-fine_dining-3": {
+"en": "Petiscos tasca opened in 2015 on a quiet old-town square; braised tuna and smoked cod are favourites.",
+"ko": "2015년 구시가 조용한 골목에 문을 연 페티스쿠 식당. 참치 조림과 훈제 대구가 인기입니다.",
+"ok": 1
+},
+"fatima-bakery-1": {
+"del": "Doce Momento Pastelaria Fátima not found in any source"
+},
+"fatima-bakery-2": {
+"del": "Pastelaria Doce Sabor Fátima not found in any source"
+},
+"fatima-cafe-1": {
+"en": "Café-restaurant near the Fátima shrine with Portuguese and international dishes and gelato.",
+"ko": "파티마 성지 근처의 카페 겸 레스토랑. 포르투갈·국제 요리와 젤라토를 냅니다.",
+"ok": 1
+},
+"fatima-fine_dining-1": {
+"addr": "Avenida Irmã Lúcia de Jesus 152, 2495-557 Fátima",
+"en": "Traditional Portuguese restaurant in an old house 2 km from the shrine, known for bacalhau and roast kid; listed in the MICHELIN Guide.",
+"ko": "성지에서 2km 떨어진 옛집의 전통 포르투갈 레스토랑. 바칼라우와 새끼염소 구이가 대표이고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"fatima-fine_dining-2": {
+"en": "Long-standing restaurant serving generous Portuguese home cooking.",
+"ko": "푸짐한 포르투갈 가정식을 내는 오래된 식당.",
+"ok": 1
+},
 "ferrara-bakery-1": {
 "ok": 1
 },
@@ -3208,10 +3541,42 @@
 "frankfurt-korean-3": {
 "del": 1
 },
+"funchal-bakery-1": {
+"en": "Funchal bakery named after the baker Mariazinha (1955), popular for pastéis de nata and queijadas, open late.",
+"ko": "1955년 마리아지냐의 이름을 딴 푼샬의 빵집. 파스텔 드 나타와 케이자다가 인기이고 늦게까지 엽니다.",
+"ok": 1
+},
+"funchal-bakery-2": {
+"addr": "Travessa do Forno 27-29, 9000-079 Funchal",
+"en": "Madeira's first biscuit factory and shop, founded in 1893, famous for bolo de mel sugarcane-honey cake.",
+"ko": "1893년 문을 연 마데이라 최초의 비스킷 공장 겸 가게. 사탕수수 꿀 케이크(볼루 드 멜)가 대표입니다.",
+"ok": 1
+},
+"funchal-cafe-1": {
+"en": "Small corner specialty coffee shop; cold brew and matcha are popular; closed Sundays.",
+"ko": "모퉁이의 작은 스페셜티 커피숍. 콜드브루와 말차가 인기이고 일요일은 쉽니다.",
+"ok": 1
+},
+"funchal-cafe-2": {
+"en": "Cosy specialty coffee shop in the centre.",
+"ko": "구시가의 아늑한 스페셜티 커피숍.",
+"ok": 1
+},
 "funchal-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Madeira; Tuesday to Saturday evenings.",
 "ko": "마데이라의 미쉐린 2스타 레스토랑. 화~토 저녁에 엽니다.",
 "mi": "star2",
+"ok": 1
+},
+"funchal-fine_dining-2": {
+"addr": "Rua Ivens 1-2, 9000-046 Funchal",
+"en": "Family-run traditional restaurant in central Funchal serving scabbardfish and espetada; closed Sundays.",
+"ko": "가족이 운영하는 푼샬 중심가의 전통 식당. 갈치와 에스페타다를 내고 일요일은 쉽니다.",
+"ok": 1
+},
+"funchal-fine_dining-3": {
+"en": "Seafood restaurant with sunset views towards Cabo Girão; mixed seafood platters and limpets in garlic butter are favourites.",
+"ko": "카보 지랑 쪽 노을이 보이는 해산물 식당. 모둠 해산물과 마늘 버터 삿갓조개가 인기입니다.",
 "ok": 1
 },
 "fussen-bakery-1": {
@@ -3973,6 +4338,20 @@
 "ko": "마을 중심에서 조금 떨어진, 골짜기가 보이는 헛간 개조 식당. 치즈 퐁뒤·라클레트를 냅니다.",
 "ok": 1
 },
+"guimaraes-bakery-1": {
+"addr": "Rua de Santa Maria 44, 4800-443 Guimarães, Portugal",
+"en": "Pastry shop founded on Largo do Toural in 1953, on Rua de Santa Maria since 2015, known for tortas de Guimarães.",
+"ko": "1953년 토우랄 광장에서 시작해 2015년부터 산타 마리아 거리로 옮긴 제과점. 토르타 데 기마랑이스가 대표입니다.",
+"ok": 1
+},
+"guimaraes-bakery-2": {
+"en": "Traditional sweet shop keeping Santa Clara convent recipes, known for tortas de Guimarães; closed weekends.",
+"ko": "산타 클라라 수녀원 레시피를 이어온 전통 과자점. 토르타 데 기마랑이스가 대표이고 주말은 쉽니다.",
+"ok": 1
+},
+"guimaraes-cafe-1": {
+"del": "No Café A Brasileira found on Av. Conde de Margaride in Guimarães"
+},
 "guimaraes-fine_dining-1": {
 "addr": "Largo do Serralho 4, 4800-472 Guimarães",
 "en": "Chef António Loureiro’s Michelin one-star restaurant.",
@@ -3980,10 +4359,20 @@
 "mi": "star1",
 "ok": 1
 },
+"guimaraes-fine_dining-2": {
+"en": "Rustic tasca in the centre serving bacalhau, rojões, octopus and vinho verde.",
+"ko": "구시가 중심의 소박한 타스카. 바칼라우·로중이스·문어와 비뉴 베르드를 냅니다.",
+"ok": 1
+},
 "guimaraes-fine_dining-3": {
 "addr": "Largo Condessa do Juncal 19-21, 4800-159 Guimarães",
 "en": "Bistro run by a French chef, listed in the MICHELIN Guide.",
 "ko": "프랑스인 셰프가 운영하는 비스트로. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"guimaraes-fine_dining-4": {
+"en": "Vegetarian cooperative restaurant in a restored old house, with a café and fair-trade shop.",
+"ko": "복원한 옛집의 채식 협동조합 레스토랑. 카페와 공정무역 가게를 함께 운영합니다.",
 "ok": 1
 },
 "gyumri-bakery-1": {
@@ -5019,6 +5408,43 @@
 "ko": "1947년부터 구항구 탑 아래에서 영업한 해산물 식당. 해산물 슈크루트와 피노 홍합 요리(무클라드)가 있습니다.",
 "ok": 1
 },
+"lagos-bakery-1": {
+"addr": "Rua da Porta de Portugal 89, 8600-701 Lagos, Portugal",
+"en": "Traditional Lagos pastry shop known for big pastéis de nata; cash only, closed Sundays.",
+"ko": "큼직한 파스텔 드 나타로 알려진 라고스의 전통 제과점. 현금만 받고 일요일은 쉽니다.",
+"ok": 1
+},
+"lagos-bakery-2": {
+"addr": "Rua 1º de Maio 27-29, 8600-757 Lagos",
+"en": "Old-town bakery said to date from 1926, with bread, pastéis de nata and almond biscuits; closed Sundays.",
+"ko": "1926년 문을 연 것으로 알려진 구시가 빵집. 빵과 나타, 아몬드 과자를 내고 일요일은 쉽니다.",
+"ok": 1
+},
+"lagos-cafe-1": {
+"en": "Brunch café roasting its own coffee, with avocado toast and vegan options, popular with remote workers.",
+"ko": "직접 원두를 볶는 브런치 카페. 아보카도 토스트와 비건 메뉴가 있고 원격 근무자가 많이 찾습니다.",
+"ok": 1
+},
+"lagos-cafe-2": {
+"en": "Surf-themed specialty coffee shop with vegan banana bread and toasts; closed Sundays.",
+"ko": "서핑 테마의 스페셜티 커피숍. 비건 바나나 브레드와 토스트가 있고 일요일은 쉽니다.",
+"ok": 1
+},
+"lagos-fine_dining-1": {
+"en": "Portuguese restaurant in the old town since 1979, where fresh fish is shown at the table; listed in the MICHELIN Guide.",
+"ko": "1979년부터 구시가에서 영업해 온 포르투갈 레스토랑. 테이블에서 생선을 골라 요리해 주고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"lagos-fine_dining-2": {
+"en": "Small restaurant famous for seafood cataplana; cash only, booking advised.",
+"ko": "해산물 카타플라나로 유명한 작은 식당. 현금만 받고 예약을 권합니다.",
+"ok": 1
+},
+"lagos-fine_dining-3": {
+"en": "Family-run 'blue door' restaurant where you pick your fish; the clam cataplana is popular.",
+"ko": "'파란 문'으로 불리는 가족 운영 식당. 생선을 골라 구워 먹고 조개 카타플라나가 인기입니다.",
+"ok": 1
+},
 "lake-district-fine_dining-1": {
 "en": "One-Michelin-star restaurant in Grasmere cooking with garden and foraged produce.",
 "ko": "그래스미어의 미쉐린 1스타 레스토랑. 텃밭과 채집 재료로 요리합니다.",
@@ -5374,6 +5800,11 @@
 "limerick-fine_dining-2": {
 "ok": 1
 },
+"lisbon-bakery-1": {
+"en": "The original home of the pastel de Belém custard tart, baking from a monastery recipe since 1837.",
+"ko": "1837년부터 수도원 비법으로 파스텔 드 벨렝(에그타르트)을 구워 온 원조 가게.",
+"ok": 1
+},
 "lisbon-bakery-2": {
 "addr": "Rua do Loreto 2, 1200-108 Lisboa",
 "en": "The original Chiado shop, with fresh pastéis de nata every twenty minutes.",
@@ -5385,11 +5816,92 @@
 "name": "A Padaria Portuguesa (Chiado)",
 "ok": 1
 },
+"lisbon-bakery-4": {
+"addr": "Centro Colombo, Avenida Lusíada (Piso 2, Loja 091), 1500-392 Lisbon, Portugal",
+"en": "Colombo shopping-centre branch of a pastel de nata chain, serving them warm.",
+"ko": "콜롬부 쇼핑센터의 파스텔 드 나타 체인 지점. 따뜻한 나타를 냅니다.",
+"ok": 1
+},
+"lisbon-bakery-5": {
+"en": "Restelo bakery open since 1954, famous for croissants with a numbered-ticket queue; closed Tuesdays.",
+"ko": "1954년부터 헤스텔루에서 영업해 온 빵집. 크루아상이 유명해 번호표를 뽑고 기다리며 화요일은 쉽니다.",
+"ok": 1
+},
+"lisbon-cafe-1": {
+"en": "Historic Chiado café opened in 1905, with the statue of poet Fernando Pessoa outside.",
+"ko": "1905년 문을 연 시아두의 역사적인 카페. 시인 페소아 동상이 앞에 있습니다.",
+"ok": 1
+},
+"lisbon-cafe-2": {
+"del": "Copenhagen Coffee Lab: no branch found at Rua de São Paulo 62 (listed at Rua Nova da Piedade 10)"
+},
+"lisbon-cafe-3": {
+"addr": "Rua das Portas de Santo Antão 136, 1150-269 Lisbon, Portugal",
+"en": "Seen as Lisbon's original specialty coffee roaster, near Restauradores.",
+"ko": "리스본 스페셜티 커피 로스터리의 원조로 꼽히는 카페. 헤스타우라도르스 근처에 있습니다.",
+"ok": 1
+},
+"lisbon-cafe-4": {
+"addr": "Rua das Gaivotas 17, 1200-336 Lisbon, Portugal",
+"en": "Breakfast spot opened in 2017 in a former palace warehouse, centred on eggs Benedict and other egg dishes.",
+"ko": "2017년 문을 연 옛 창고 건물의 아침 식사 전문점. 에그 베네딕트 등 달걀 요리가 중심입니다.",
+"ok": 1
+},
+"lisbon-cafe-5": {
+"en": "Specialty coffee shop that was first in Portugal to serve nitro cold brew, on a corner by the 28 tram.",
+"ko": "포르투갈에서 처음 니트로 콜드브루를 낸 스페셜티 커피숍. 28번 트램 옆 모퉁이에 있습니다.",
+"ok": 1
+},
 "lisbon-fine_dining-1": {
 "en": "Two-Michelin-star restaurant of chef José Avillez; closed Sundays and Mondays.",
 "ko": "셰프 주제 아빌레즈의 미쉐린 2스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star2",
 "ok": 1
+},
+"lisbon-fine_dining-2": {
+"en": "Food hall in the Mercado da Ribeira bringing together stalls from well-known Lisbon chefs and restaurants.",
+"ko": "히베이라 시장 안의 푸드홀. 리스본 유명 셰프와 식당의 메뉴를 한곳에서 맛볼 수 있습니다.",
+"ok": 1
+},
+"lisbon-fine_dining-3": {
+"addr": "Avenida Almirante Reis 1, 1150-007 Lisbon, Portugal",
+"en": "Seafood beer hall since the 1950s, famous for garlic prawns and clams; closed Mondays.",
+"ko": "1950년대부터 이어온 해산물 맥주집. 마늘 새우와 조개 요리가 유명하고 월요일은 쉽니다.",
+"ok": 1
+},
+"lisbon-fine_dining-4": {
+"addr": "Rua Dom Pedro V 129, 1250-096 Lisbon, Portugal",
+"en": "Ceviche restaurant in Príncipe Real.",
+"ko": "프린시프 헤알의 세비체 전문 레스토랑.",
+"ok": 1
+},
+"lisbon-fine_dining-5": {
+"en": "Farm-to-table restaurant with seasonal sharing plates; listed in the MICHELIN Guide.",
+"ko": "농장에서 식탁까지를 내세운 계절 요리 레스토랑. 나눠 먹는 작은 접시를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"lisbon-korean-1": {
+"en": "Korean restaurant in the Baixa, with vegetarian options.",
+"ko": "바이샤의 한식당. 채식 메뉴도 있습니다.",
+"ok": 1
+},
+"lisbon-korean-2": {
+"en": "Korean barbecue with charcoal grills at the table; wagyu is the highlight.",
+"ko": "테이블 숯불에 직접 구워 먹는 한국식 바비큐. 와규가 대표입니다.",
+"ok": 1
+},
+"lisbon-korean-3": {
+"en": "Korean charcoal table-barbecue restaurant with bulgogi and samgyeopsal.",
+"ko": "숯불 테이블 바비큐 한식당. 불고기와 삼겹살을 냅니다.",
+"ok": 1
+},
+"lisbon-korean-4": {
+"en": "Korean pocha in Bairro Alto serving late-night food and drinks.",
+"ko": "바이후 알투의 한국식 포차. 늦게까지 안주와 술을 냅니다.",
+"ok": 1
+},
+"lisbon-korean-5": {
+"del": "Tae Dong Gwan Lisbon not found in any source"
 },
 "liverpool-bakery-2": {
 "del": "리버풀에서 그 가게를 찾을 수 없음"
@@ -6665,6 +7177,18 @@
 "ko": "낙소스 타운 남쪽 18km 카스트라키의 타베르나. 2000년 문을 열었고 직접 기른 채소와 농장 식재료로 요리합니다.",
 "ok": 1
 },
+"nazare-bakery-1": {
+"addr": "R. Mouzinho de Albuquerque 25, 2450-256 Nazaré, Portugal"
+},
+"nazare-cafe-1": {
+"ok": true
+},
+"nazare-fine_dining-1": {
+"ok": true
+},
+"nazare-fine_dining-2": {
+"addr": "Praça Sousa Oliveira 7, 2450-159 Nazaré"
+},
 "nerja-bakery-1": {
 "del": 1
 },
@@ -6927,6 +7451,18 @@
 "en": "Korean restaurant north of the old town with japchae, bibimbap and dumplings; evenings, closed Mondays.",
 "ko": "구시가지 북쪽의 한식당. 잡채·비빔밥·만두가 있고 저녁에 열며 월요일은 쉽니다.",
 "ok": 1
+},
+"obidos-bakery-1": {
+"ok": true
+},
+"obidos-cafe-1": {
+"del": "unconfirmable"
+},
+"obidos-fine_dining-1": {
+"del": "unconfirmable"
+},
+"obidos-fine_dining-2": {
+"addr": "Rua Porta do Vale, 2510-046 Óbidos"
 },
 "odense-bakery-1": {
 "del": 1
@@ -7708,11 +8244,68 @@
 "ko": "슬로바키아 전통 요리를 내는 맥줏집 식당. 야외 비어 가든이 넓습니다.",
 "ok": 1
 },
+"porto-bakery-1": {
+"ok": true
+},
+"porto-bakery-2": {
+"ok": true
+},
+"porto-bakery-3": {
+"ok": true
+},
+"porto-bakery-4": {
+"ok": true
+},
+"porto-bakery-5": {
+"del": "unconfirmable"
+},
+"porto-cafe-1": {
+"ok": true
+},
+"porto-cafe-2": {
+"del": "closed"
+},
+"porto-cafe-3": {
+"ok": true
+},
+"porto-cafe-4": {
+"ok": true
+},
+"porto-cafe-5": {
+"ok": true
+},
 "porto-fine_dining-1": {
 "en": "One-Michelin-star restaurant near the Ribeira; closed Sundays and Mondays.",
 "ko": "리베이라 근처의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"porto-fine_dining-2": {
+"ok": true
+},
+"porto-fine_dining-3": {
+"ok": true
+},
+"porto-fine_dining-4": {
+"ok": true
+},
+"porto-fine_dining-5": {
+"ok": true
+},
+"porto-korean-1": {
+"ok": true
+},
+"porto-korean-2": {
+"ok": true
+},
+"porto-korean-3": {
+"del": "unconfirmable"
+},
+"porto-korean-4": {
+"del": "unconfirmable"
+},
+"porto-korean-5": {
+"ok": true
 },
 "portofino-bakery-2": {
 "ok": 1
@@ -9079,6 +9672,21 @@
 "addr": "İzzət Həmidov küçəsi, Şəki",
 "ok": 1
 },
+"sibiu-bakery-1": {
+"del": "temporarily closed"
+},
+"sibiu-bakery-2": {
+"ok": true
+},
+"sibiu-bakery-3": {
+"ok": true
+},
+"sibiu-bakery-4": {
+"ok": true
+},
+"sibiu-cafe-2": {
+"ok": true
+},
 "siena-bakery-1": {
 "ok": 1
 },
@@ -9192,6 +9800,36 @@
 },
 "sigulda-fine_dining-5": {
 "del": "Kazene at Pils iela 4b not found in any source"
+},
+"sintra-bakery-1": {
+"ok": true
+},
+"sintra-bakery-2": {
+"ok": true
+},
+"sintra-bakery-3": {
+"addr": "Estrada Chão de Meninos 40, 2710-194 Sintra"
+},
+"sintra-cafe-1": {
+"addr": "Praça da República 6, 2710-616 Sintra"
+},
+"sintra-cafe-2": {
+"ok": true
+},
+"sintra-cafe-3": {
+"ok": true
+},
+"sintra-fine_dining-1": {
+"addr": "Av. Heliodoro Salgado 26, 2710-335 Sintra"
+},
+"sintra-fine_dining-2": {
+"ok": true
+},
+"sintra-fine_dining-3": {
+"ok": true
+},
+"sintra-fine_dining-4": {
+"ok": true
 },
 "siracusa-bakery-1": {
 "ok": 1
@@ -10305,6 +10943,62 @@
 "torun-bakery-3": {
 "del": "Atelier Piernika at Rynek Nowomiejski 22 not found in any source"
 },
+"torun-bakery-4": {
+"en": "Café and pastry shop since 1945, whose pączki were voted Toruń's best; try the gingerbread ice cream.",
+"ko": "1945년부터 이어온 카페 겸 제과점. 퐁치키가 토룬 최고로 뽑힌 적이 있고 진저브레드 아이스크림이 있습니다.",
+"ok": 1
+},
+"torun-bakery-5": {
+"addr": "Szeroka 23, 87-100 Toruń",
+"en": "Old Town pączki shop with pistachio, chocolate and rose fillings.",
+"ko": "구시가의 퐁치키 가게. 피스타치오·초콜릿·장미 퐁치키가 있습니다.",
+"ok": 1
+},
+"torun-cafe-1": {
+"en": "Old Town Square branch of Toruń's oldest café; chai and coffee are popular.",
+"ko": "토룬에서 가장 오래된 카페의 구시가 광장 지점. 차이와 커피가 인기입니다.",
+"ok": 1
+},
+"torun-cafe-2": {
+"en": "Café on a lane inside the old walls, praised for drip coffee and cheesecake.",
+"ko": "구시가 성벽 안 골목의 카페. 드립 커피와 치즈케이크가 호평을 받습니다.",
+"ok": 1
+},
+"torun-cafe-3": {
+"en": "Old Town café with live piano, famous for apple pie with ice cream.",
+"ko": "피아노 라이브가 있는 구시가 카페. 사과 파이와 아이스크림이 유명합니다.",
+"ok": 1
+},
+"torun-cafe-4": {
+"del": "Neko Cafe Toruń closed (reported closed and put up for sale)"
+},
+"torun-cafe-5": {
+"del": "Podmurna cafe at Podmurna 81 not found in any source"
+},
+"torun-fine_dining-1": {
+"addr": "Przedzamcze 6, 87-100 Toruń, Poland",
+"en": "Seasonal restaurant led by an Argentinian chef, near the Teutonic castle ruins.",
+"ko": "아르헨티나 출신 셰프의 계절 요리 레스토랑. 튜턴 기사단 성터 근처에 있습니다.",
+"ok": 1
+},
+"torun-fine_dining-2": {
+"en": "Italian and Mediterranean restaurant on the Old Town Square.",
+"ko": "구시가 광장의 이탈리아·지중해 레스토랑.",
+"ok": 1
+},
+"torun-fine_dining-3": {
+"en": "Dumpling restaurant serving boiled or fried pierogi and żurek.",
+"ko": "삶거나 구운 피에로기와 주레크를 내는 만두 식당.",
+"ok": 1
+},
+"torun-fine_dining-4": {
+"en": "Regional Polish restaurant with a terrace overlooking the old ramparts; listed in the MICHELIN Guide.",
+"ko": "구시가 성벽이 보이는 테라스의 폴란드 지역 요리 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"torun-fine_dining-5": {
+"del": "Dobrý Den Toruń not found in any source"
+},
 "toulouse-bakery-1": {
 "del": "no bakery of this name found at rue Charles de Rémusat"
 },
@@ -11275,6 +11969,60 @@
 "ko": "구시가 보키에치우 거리의 한식당. 김치와 한식 요리를 냅니다.",
 "ok": 1
 },
+"warsaw-bakery-1": {
+"del": "Cukiernia Sowa: no branch found at Chmielna 11"
+},
+"warsaw-bakery-2": {
+"en": "Warsaw's landmark pastry shop since 1869, famous for rose-jam pączki.",
+"ko": "1869년부터 이어온 바르샤바의 대표 제과점. 장미잼 퐁치키가 유명합니다.",
+"ok": 1
+},
+"warsaw-cafe-1": {
+"en": "Book-lined café in Powiśle popular with students and good for laptop work.",
+"ko": "책장으로 둘러싸인 포비실레의 카페. 학생들이 많고 노트북 작업하기 좋습니다.",
+"ok": 1
+},
+"warsaw-cafe-2": {
+"en": "Pastry shop on Chmielna with queues for hot pączki all year round.",
+"ko": "갓 튀긴 퐁치키를 사려고 늘 줄 서는 흐미엘나 거리의 제과점.",
+"ok": 1
+},
+"warsaw-cafe-3": {
+"en": "Specialty coffee shop run by Polish barista and AeroPress champions.",
+"ko": "폴란드 바리스타·에어로프레스 챔피언이 운영하는 스페셜티 커피숍.",
+"ok": 1
+},
+"warsaw-fine_dining-1": {
+"en": "Restaurant that won Warsaw's second Michelin star in 2016, giving Polish flavours a modern take (no star in the 2026 guide).",
+"ko": "2016년 바르샤바 레스토랑 중 두 번째로 미쉐린 별을 받았던 곳. 폴란드 맛을 현대적으로 풉니다(2026년판엔 별 없음).",
+"ok": 1
+},
+"warsaw-fine_dining-2": {
+"en": "Modern restaurant built around a glass-walled kitchen, with Asian-influenced cooking; listed in the MICHELIN Guide.",
+"ko": "유리 벽 주방이 중심인 모던 레스토랑. 아시아 풍미를 더한 요리를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"warsaw-fine_dining-3": {
+"en": "Large Polish restaurant dating from the 1950s, serving traditional dishes like golonka.",
+"ko": "1950년대부터 이어온 대형 폴란드 레스토랑. 골롱카 등 전통 요리를 냅니다.",
+"ok": 1
+},
+"warsaw-fine_dining-4": {
+"en": "Chef Magda Gessler's Old Town restaurant serving traditional Polish dishes.",
+"ko": "요리사 마그다 게슬레르의 구시가 레스토랑. 폴란드 전통 요리를 냅니다.",
+"ok": 1
+},
+"warsaw-fine_dining-5": {
+"en": "Bistro with seasonal vegetable-led dishes and natural wine; no reservations.",
+"ko": "계절 채소 요리와 내추럴 와인을 내는 비스트로. 예약을 받지 않습니다.",
+"ok": 1
+},
+"warsaw-korean-1": {
+"addr": "Żelazna 28/30, Warszawa",
+"en": "Cafeteria-style Korean spot where staff fill your tray; bento boxes and Korean fried chicken are favourites.",
+"ko": "고른 반찬을 담아 주는 한식 구내식당 스타일 식당. 도시락과 한국식 치킨이 인기입니다.",
+"ok": 1
+},
 "windsor-bakery-1": {
 "del": "윈저에서 그 빵집을 찾을 수 없음"
 },
@@ -11282,6 +12030,79 @@
 "addr": "Brocas Street, Eton SL4 6BW",
 "en": "Eton pub dating from around 1682, just over the bridge from Windsor, hung with rowing memorabilia.",
 "ko": "윈저에서 다리를 건너면 바로 있는 1682년 무렵부터의 이튼 펍. 조정 기념품이 걸려 있습니다.",
+"ok": 1
+},
+"wroclaw-bakery-1": {
+"addr": "Oławska 4, 50-123 Wrocław, Poland",
+"en": "Shop baking Hungarian chimney cakes in front of you, with ten toppings.",
+"ko": "헝가리식 굴뚝빵을 눈앞에서 구워 주는 가게. 열 가지 토핑이 있습니다.",
+"ok": 1
+},
+"wroclaw-bakery-2": {
+"en": "Bakery, patisserie and café in one; croissants and breakfast sandwiches are popular.",
+"ko": "빵집·제과점·카페를 합친 곳. 크루아상과 아침 샌드위치가 인기입니다.",
+"ok": 1
+},
+"wroclaw-bakery-3": {
+"en": "Dessert boutique in a former doughnut shop, selling single-portion desserts and cream puffs.",
+"ko": "옛 도넛 가게 자리의 디저트 가게. 1인용 모노디저트와 슈크림을 냅니다.",
+"ok": 1
+},
+"wroclaw-bakery-4": {
+"del": "Hert Bakery at Rynek 46/47 not found in any source"
+},
+"wroclaw-bakery-5": {
+"del": "Tortownia na Bema at Krupnicza 8 not found in any source"
+},
+"wroclaw-cafe-1": {
+"en": "Ukrainian-owned specialty coffee roastery café overlooking the square, roasting at the back.",
+"ko": "우크라이나인이 운영하는 스페셜티 커피 로스터리 카페. 광장이 보이고 매장 뒤에서 원두를 볶습니다.",
+"ok": 1
+},
+"wroclaw-cafe-2": {
+"en": "Café known for some of the city's best cakes, laptop-friendly, with a backyard in summer.",
+"ko": "케이크가 맛있기로 꼽히는 카페. 노트북 작업하기 좋고 여름엔 뒷마당이 열립니다.",
+"ok": 1
+},
+"wroclaw-cafe-3": {
+"en": "Café full of vinyl and books, with big mugs of coffee, craft beer and records to buy or trade.",
+"ko": "레코드판과 책이 가득한 카페. 큰 머그 커피와 수제 맥주가 있고 음반을 사고팔 수 있습니다.",
+"ok": 1
+},
+"wroclaw-cafe-4": {
+"en": "Specialty coffee shop with rotating seasonal menus and a hop-infused nitro cold brew; closed Mondays.",
+"ko": "계절마다 메뉴가 바뀌는 스페셜티 커피숍. 홉을 넣은 니트로 콜드브루가 대표이고 월요일은 쉽니다.",
+"ok": 1
+},
+"wroclaw-cafe-5": {
+"en": "Riverside café specialising in yerba mate, with coffee, breakfast and brunch.",
+"ko": "강변 산책로의 예르바 마테 카페. 커피와 아침·브런치를 냅니다.",
+"ok": 1
+},
+"wroclaw-fine_dining-1": {
+"en": "The only restaurant on Ostrów Tumski, serving traditional dishes under red-brick vaults; listed in the MICHELIN Guide.",
+"ko": "오스트루프 툼스키 유일의 레스토랑. 붉은 벽돌 아치 천장의 중세 저택에서 전통 요리를 내고 미쉐린 가이드에 실려 있습니다.",
+"name": "Lwia Brama",
+"ok": 1
+},
+"wroclaw-fine_dining-2": {
+"en": "Restaurant themed on a 1980s Solidarity-era flat, serving big plates of pierogi and żurek.",
+"ko": "1980년대 연대노조 시절 아파트를 재현한 테마 식당. 피에로기·주레크를 푸짐하게 냅니다.",
+"ok": 1
+},
+"wroclaw-fine_dining-3": {
+"en": "Three-level restaurant recreating pre-war Silesian cooking; listed in the MICHELIN Guide.",
+"ko": "전쟁 전 실레지아 요리를 재현한 3층 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"wroclaw-fine_dining-4": {
+"en": "Main-square restaurant and cocktail bar of over 25 years, with Mediterranean and French food and live jazz.",
+"ko": "25년 넘은 광장의 레스토랑 겸 칵테일 바. 지중해·프랑스 요리와 재즈 공연이 있습니다.",
+"ok": 1
+},
+"wroclaw-fine_dining-5": {
+"en": "Chef's cooking studio with no fixed menu, built around the day's market produce; booking advised.",
+"ko": "고정 메뉴 없이 그날 시장 재료로 요리하는 셰프의 쿠킹 스튜디오. 예약을 권합니다.",
 "ok": 1
 },
 "yerevan-bakery-1": {
@@ -11449,13 +12270,70 @@
 "ko": "에스플러네이드 호텔 안의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
+"zakopane-bakery-1": {
+"en": "Bakery, pastry shop and ice-cream parlour.",
+"ko": "빵집 겸 제과점 겸 아이스크림 가게.",
+"ok": 1
+},
+"zakopane-bakery-2": {
+"en": "First Zakopane outlet (December 2025) of a Ukrainian croissant chain, with a mountain croissant filled with oscypek cheese.",
+"ko": "우크라이나 크루아상 체인의 자코파네 첫 매장(2025년 12월). 오스치펙 치즈를 넣은 '산악 크루아상'이 있습니다.",
+"name": "Lviv Croissants",
+"ok": 1
+},
 "zakopane-bakery-3": {
+"ok": 1
+},
+"zakopane-bakery-4": {
+"en": "Kasprusie branch of a Zakopane family bakery dating back to the owner's grandparents.",
+"ko": "조부모 대부터 이어온 자코파네 가족 제과점의 카스프루시에 지점.",
+"ok": 1
+},
+"zakopane-cafe-1": {
+"en": "Zakopane's first specialty coffee shop and wine bar, with syrup-free coffee and homemade desserts.",
+"ko": "자코파네 최초의 스페셜티 커피숍 겸 와인 바. 시럽 없이 내리는 커피와 직접 만든 디저트가 있습니다.",
 "ok": 1
 },
 "zakopane-cafe-2": {
 "addr": "Krupówki 4a (top floor), 34-500 Zakopane",
 "en": "Bistro café on the top floor of a Krupówki building, with a terrace facing the Tatras.",
 "ko": "크루푸프키 거리 건물 꼭대기 층의 비스트로 카페. 타트라 산이 보이는 테라스가 있습니다.",
+"ok": 1
+},
+"zakopane-cafe-3": {
+"en": "Cosy breakfast café with views, gluten-free options and a kids' play corner.",
+"ko": "산이 보이는 아늑한 아침 식사 카페. 글루텐 프리 메뉴와 아이 놀이 공간이 있습니다.",
+"ok": 1
+},
+"zakopane-cafe-4": {
+"del": "Eko Chatka at Droga Oswalda Balzera 21 not found in any source"
+},
+"zakopane-cafe-5": {
+"en": "Rooftop café with Tatra views, serving panini, salads, coffee and cocktails.",
+"ko": "타트라산이 보이는 옥상 카페. 파니니와 샐러드, 커피와 칵테일을 냅니다.",
+"ok": 1
+},
+"zakopane-fine_dining-1": {
+"en": "Restaurant with a wooden highland interior a little away from the tourist streets; formerly called Gazdówka.",
+"ko": "관광 거리에서 조금 떨어진 산악풍 목조 인테리어의 레스토랑. 예전 이름은 가즈도프카입니다.",
+"ok": 1
+},
+"zakopane-fine_dining-2": {
+"en": "Highlander restaurant in the 1891 building of Zakopane's first hotel, with pork ribs, grilled trout and live music.",
+"ko": "1891년 자코파네 첫 호텔 건물의 산악 전통 식당. 돼지갈비와 송어 구이, 라이브 음악이 있습니다.",
+"ok": 1
+},
+"zakopane-fine_dining-3": {
+"en": "Folk-style highland karczma with a secluded garden in summer.",
+"ko": "민속풍으로 꾸민 산악 식당(카르치마). 여름엔 정원이 열립니다.",
+"ok": 1
+},
+"zakopane-fine_dining-4": {
+"del": "Marzanna i Ryszard Bubka: no source gives an address"
+},
+"zakopane-fine_dining-5": {
+"en": "Small cuckoo-clock-themed restaurant with pork knuckle, ribs and moskol flatbread, plus highlander music.",
+"ko": "뻐꾸기시계로 꾸민 작은 식당. 돼지 정강이·갈비와 감자전 모스콜을 내고 산악 음악 공연이 있습니다.",
 "ok": 1
 },
 "zakynthos-fine_dining-1": {
