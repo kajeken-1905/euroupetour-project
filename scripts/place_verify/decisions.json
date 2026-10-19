@@ -1761,8 +1761,8 @@
 "del": "Old Town Bakery at Petra I Petrovića 22 not found in any source"
 },
 "budva-cafe-1": {
-"en": "Coworking space and café in the Old Bakery Residences complex, about 1 km from the Old Town.",
-"ko": "올드 베이커리 레지던스 단지 안의 코워킹 겸 카페. 구시가에서 약 1km 떨어져 있습니다.",
+"en": "Coworking space and café on the first floor of the Old Bakery Residences; open weekdays only.",
+"ko": "올드 베이커리 레지던스 1층의 코워킹 겸 카페. 평일에만 엽니다.",
 "ok": 1
 },
 "budva-cafe-2": {
@@ -4165,9 +4165,7 @@
 "ok": 1
 },
 "jurmala-bakery-1": {
-"en": "Jūrmala bread and cake bakery known as Rausu fabrika.",
-"ko": "유르말라의 빵·케이크 공방 겸 가게 '라우수 파브리카'.",
-"ok": 1
+"del": "Vienības prospekts 35 is only the company's registered address; no shop confirmed there"
 },
 "jurmala-bakery-2": {
 "addr": "Jomas iela 63, Jūrmala LV-2015",
@@ -4476,8 +4474,9 @@
 "del": "Vanilės namai: operating company in bankruptcy, H. Manto 9 unconfirmed"
 },
 "klaipeda-cafe-2": {
-"en": "Café-restaurant on Vėtros street; its Lithuanian name is Ateik ateik.",
-"ko": "구시가 벳로스 거리의 카페 겸 레스토랑. 리투아니아어 이름은 'Ateik ateik'.",
+"en": "Small beach café near the Melnragė breakwater, especially popular in summer.",
+"ko": "멜르나게 방파제 근처 해변의 작은 카페. 여름철에 특히 인기입니다.",
+"name": "Ateik Ateik",
 "ok": 1
 },
 "klaipeda-cafe-3": {
@@ -9631,8 +9630,8 @@
 "ok": 1
 },
 "vaduz-bakery-2": {
-"en": "Neighbourhood bakery and pastry shop on Altenbach in Vaduz, mainly open mornings.",
-"ko": "파두츠 알텐바흐의 동네 빵집 겸 제과점. 오전 영업 중심입니다.",
+"en": "Neighbourhood bakery and pastry shop on Altenbach in Vaduz.",
+"ko": "파두츠 알텐바흐의 동네 빵집 겸 제과점.",
 "ok": 1
 },
 "vaduz-cafe-1": {
@@ -9917,6 +9916,9 @@
 "ok": 1
 },
 "verona-cafe-1": {
+"addr": "Interrato dell'Acqua Morta, Piazza Isolo, Verona, Italy",
+"en": "Pastry shop serving some of the city's best cornetti, with breakfast and brunch too.",
+"ko": "도시에서 손꼽히는 코르네토를 내는 제과점. 아침과 브런치도 냅니다.",
 "ok": 1
 },
 "verona-cafe-2": {

@@ -30,6 +30,6 @@ export const placesLTExtra: Place[] = [
   place('klaipeda-fine_dining-2', 'klaipeda', 'fine_dining', 'Stora Antis', 'Tiltų g. 6, 91248 Klaipėda', '19세기 지하 저장고의 레스토랑. 골동품으로 꾸며 박물관 같고 보르시와 리투아니아 요리를 냅니다.', 'Restaurant in a 19th-century cellar filled with antiques, serving borscht and Lithuanian dishes.'),
   place('klaipeda-fine_dining-3', 'klaipeda', 'fine_dining', 'Senoji Hansa', 'Kurpių g. 1, Klaipėda', '극장 광장에 면한 바 겸 레스토랑. 고기 요리·팬케이크·체펠리나이가 인기이고 양이 많습니다.', 'Bar-restaurant on Theatre Square, popular for meat dishes, pancakes and cepelinai in big portions.'),
   place('klaipeda-bakery-3', 'klaipeda', 'bakery', 'Bandelių kepyklėlė', 'J. Janonio g. 6, Klaipėda', '베제(BEZĖ)가 운영하는 빵집. 번과 주문 케이크를 만듭니다.', 'Bun bakery run by BEZĖ, also making cakes to order.'),
-  place('klaipeda-cafe-2', 'klaipeda', 'cafe', 'Come Come', 'Vėtros g. 8, Klaipėda', '구시가 벳로스 거리의 카페 겸 레스토랑. 리투아니아어 이름은 \'Ateik ateik\'.', 'Café-restaurant on Vėtros street; its Lithuanian name is Ateik ateik.'),
+  place('klaipeda-cafe-2', 'klaipeda', 'cafe', 'Ateik Ateik', 'Vėtros g. 8, Klaipėda', '멜르나게 방파제 근처 해변의 작은 카페. 여름철에 특히 인기입니다.', 'Small beach café near the Melnragė breakwater, especially popular in summer.'),
   place('klaipeda-cafe-4', 'klaipeda', 'cafe', 'Coffee King', 'H. Manto g. 13, Klaipėda', '중심가의 아늑한 커피숍. 주말 아침 메뉴가 있고 가끔 라이브 연주가 열립니다.', 'Cosy central coffee shop with weekend breakfast and occasional live music.'),
 ]

@@ -7,7 +7,7 @@ export const placesLIExtra: Place[] = [
   place('vaduz-fine_dining-2', 'vaduz', 'fine_dining', 'Restaurant Torkel', 'Hintergass 9, 9490 Vaduz', '왕실 포도밭 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.', 'One-Michelin-star restaurant among the princely vineyards; closed Sundays and Mondays.', { michelin: 'star1' }),
   place('vaduz-fine_dining-3', 'vaduz', 'fine_dining', 'Schlössle Mahal', 'Fürst-Franz-Josef-Strasse 68, 9490 Vaduz', '점심 뷔페와 저녁 단품 메뉴를 내는 인도 레스토랑. 채식 메뉴가 다양합니다.', 'Indian restaurant with a lunch buffet and à la carte dinners, with plenty of vegetarian dishes.'),
   place('vaduz-bakery-1', 'vaduz', 'bakery', 'Balu Bäckerei Konditorei', 'Städtle 17, 9490 Vaduz', '슈테틀레 중심의 작은 빵집 겸 카페. 엥가딘 호두 케이크와 배 빵을 냅니다.', 'Small bakery-café in the heart of the Städtle, with Engadine nut cake and pear bread.'),
-  place('vaduz-bakery-2', 'vaduz', 'bakery', 'Dorfbeck Dörig AG', 'Altenbach 14, 9490 Vaduz', '파두츠 알텐바흐의 동네 빵집 겸 제과점. 오전 영업 중심입니다.', 'Neighbourhood bakery and pastry shop on Altenbach in Vaduz, mainly open mornings.'),
+  place('vaduz-bakery-2', 'vaduz', 'bakery', 'Dorfbeck Dörig AG', 'Altenbach 14, 9490 Vaduz', '파두츠 알텐바흐의 동네 빵집 겸 제과점.', 'Neighbourhood bakery and pastry shop on Altenbach in Vaduz.'),
   place('vaduz-cafe-1', 'vaduz', 'cafe', 'Cafe Amann', 'Äulestrasse 56, 9490 Vaduz', '1874년부터 아만 가족이 운영하는 빵집 겸 카페. 점심 특선이 빨리 떨어집니다.', 'Bakery-café run by the Amann family since 1874; the lunch specials sell out fast.'),
   place('vaduz-cafe-2', 'vaduz', 'cafe', '44 Café im Hof', 'Städtle 44, 9490 Vaduz', '정부 청사 옆 안뜰의 카페. 샤안의 뎀멜 로스터리 커피를 내고 평일 08~17시에 엽니다.', 'Courtyard café beside the government building, serving coffee from Schaan\'s Demmel roastery; weekdays 8am to 5pm.'),
 
