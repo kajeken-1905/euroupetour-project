@@ -1745,6 +1745,71 @@
 "ko": "7구 아카치파 거리의 한식당. 돼지불고기·떡볶이와 찌개를 냅니다.",
 "ok": 1
 },
+"budva-bakery-1": {
+"del": "Good Food Bakery at Nikole Tesle 34 not found in any source"
+},
+"budva-bakery-2": {
+"del": "SKJAĆATA Budva not found in any source"
+},
+"budva-bakery-3": {
+"del": "Branka Pastry Shop: only a name listing, Mediteranska 11 unconfirmed"
+},
+"budva-bakery-4": {
+"del": "Cap Cap Bakery Budva not found in any source"
+},
+"budva-bakery-5": {
+"del": "Old Town Bakery at Petra I Petrovića 22 not found in any source"
+},
+"budva-cafe-1": {
+"en": "Coworking space and café in the Old Bakery Residences complex, about 1 km from the Old Town.",
+"ko": "올드 베이커리 레지던스 단지 안의 코워킹 겸 카페. 구시가에서 약 1km 떨어져 있습니다.",
+"ok": 1
+},
+"budva-cafe-2": {
+"en": "Small Old Town café popular for cheesecakes and milkshakes, with a shaded corner.",
+"ko": "구시가의 작은 카페. 치즈케이크와 밀크셰이크가 인기이고 그늘진 자리가 있습니다.",
+"ok": 1
+},
+"budva-cafe-3": {
+"en": "Cosy coffee shop in the heart of the Old Town with a resident cat; the flat white is popular.",
+"ko": "구시가 한가운데의 아늑한 커피숍. 고양이가 살고 플랫화이트가 인기입니다.",
+"ok": 1
+},
+"budva-cafe-4": {
+"en": "Specialty coffee roastery and brunch café; closed Thursdays.",
+"ko": "직접 원두를 볶는 스페셜티 커피숍 겸 브런치 카페. 목요일은 쉽니다.",
+"ok": 1
+},
+"budva-cafe-5": {
+"del": "Peacock Coffee House at Mainski put 54 not found in any source"
+},
+"budva-fine_dining-1": {
+"en": "Old Town restaurant serving traditional Montenegrin food; the beef stew with homemade pasta is recommended.",
+"ko": "구시가의 몬테네그로 전통 요리 식당. 소고기 스튜와 수제 파스타가 추천됩니다.",
+"ok": 1
+},
+"budva-fine_dining-2": {
+"addr": "Slovenska obala, 85310 Budva, Montenegro",
+"en": "Waterfront seafood restaurant of over 40 years facing Sveti Nikola island; pick your fish from the day's catch.",
+"ko": "40년 넘은 해변 해산물 레스토랑. 스베티 니콜라 섬이 보이고 그날 잡은 생선을 골라 먹습니다.",
+"ok": 1
+},
+"budva-fine_dining-3": {
+"del": "Pastabar Budva not found in any source"
+},
+"budva-fine_dining-4": {
+"del": "Pera, Focaccia & Resto-Bar: no source gives its address"
+},
+"budva-fine_dining-5": {
+"en": "Old Town restaurant with outdoor seating, popular for burgers and pasta.",
+"ko": "구시가의 야외 좌석 레스토랑. 버거와 파스타가 인기입니다.",
+"ok": 1
+},
+"budva-korean-1": {
+"en": "Korean restaurant in Budva; the bibimbap gets the best reviews.",
+"ko": "부드바의 한식당. 비빔밥이 가장 호평을 받습니다.",
+"ok": 1
+},
 "cagliari-bakery-1": {
 "addr": "Via Enrico Lai 4, 09128 Cagliari",
 "ok": 1
@@ -1974,6 +2039,65 @@
 },
 "chartres-fine_dining-2": {
 "del": 1
+},
+"chisinau-bakery-1": {
+"addr": "Strada Albișoara 68/1, Chișinău, Moldova",
+"en": "Branch of a handmade confectionery chain founded in Chișinău in 2005, with traditional and modern cakes and pies.",
+"ko": "2005년 키시너우에서 시작한 수제 제과점 체인의 지점. 전통·현대 케이크와 파이를 냅니다.",
+"ok": 1
+},
+"chisinau-bakery-2": {
+"en": "Cosy café and patisserie with a wide range of cakes and desserts.",
+"ko": "다양한 케이크와 디저트를 내는 아늑한 카페 겸 제과점.",
+"ok": 1
+},
+"chisinau-bakery-3": {
+"del": "Dulce Hanna Chișinău not found in any source"
+},
+"chisinau-bakery-4": {
+"en": "French-style patisserie and café known for éclairs in many flavours, with a small terrace.",
+"ko": "여러 맛의 에클레어로 알려진 프랑스식 제과점 겸 카페. 작은 테라스가 있습니다.",
+"ok": 1
+},
+"chisinau-bakery-5": {
+"del": "Julia's Sweets Coffee House Chișinău not found in any source"
+},
+"chisinau-cafe-1": {
+"del": "Odélle at Mihai Eminescu 70 not found in any source"
+},
+"chisinau-cafe-2": {
+"en": "Central branch of a coffee chain founded in Chișinău in 2011, with light meals and desserts.",
+"ko": "2011년 키시너우에서 시작한 커피 체인의 중심가 지점. 가벼운 식사와 디저트를 냅니다.",
+"ok": 1
+},
+"chisinau-cafe-3": {
+"addr": "Strada Alexandru cel Bun 98A, Chișinău",
+"en": "Parisian-style patisserie and café over three floors, serving brunch until noon.",
+"ko": "3층으로 된 파리풍 제과점 겸 카페. 정오까지 브런치를 냅니다.",
+"ok": 1
+},
+"chisinau-fine_dining-1": {
+"en": "Traditional Moldovan restaurant in a village-house setting, with live folk music, pies and polenta.",
+"ko": "옛 시골집을 재현한 몰도바 전통 레스토랑. 민속 음악 라이브와 파이·폴렌타를 냅니다.",
+"ok": 1
+},
+"chisinau-fine_dining-2": {
+"en": "Moldova's first wine bar, opened in 2011, pouring many Moldovan wines by the glass with cheese and meat boards.",
+"ko": "2011년 문을 연 몰도바 최초의 와인 바. 몰도바 와인을 잔으로 다양하게 내고 치즈·햄 플래터가 있습니다.",
+"ok": 1
+},
+"chisinau-fine_dining-3": {
+"en": "Traditional Moldovan and Romanian restaurant with live folk music every evening.",
+"ko": "전통 몰도바·루마니아 요리를 내는 레스토랑. 매일 저녁 민속 음악 라이브가 열립니다.",
+"ok": 1
+},
+"chisinau-fine_dining-4": {
+"en": "Rîșcani branch of the chain known for Moldovan plăcintă pies.",
+"ko": "몰도바 전통 파이 플러친타로 유명한 체인 레스토랑의 리시카니 지점.",
+"ok": 1
+},
+"chisinau-korean-1": {
+"del": "Gogiya BBQ Chișinău not found in any source"
 },
 "cinque-terre-bakery-2": {
 "ok": 1
@@ -2636,6 +2760,27 @@
 },
 "dubrovnik-korean-2": {
 "del": "not found"
+},
+"echternach-bakery-1": {
+"del": "Pâtisserie Hoffmann Echternach closed (owner announced closure)"
+},
+"echternach-bakery-2": {
+"addr": "38 Rue de la Gare, L-6440 Echternach",
+"ok": 1
+},
+"echternach-bakery-3": {
+"addr": "Bitburger Str. 1b, 54668 Echternacherbrück, Germany",
+"en": "Bakery just across the border bridge in Echternacherbrück, Germany, with a large outdoor terrace.",
+"ko": "국경 다리 바로 건너 독일 쪽 에히터나허브뤼크의 빵집. 넓은 야외 테라스가 있습니다.",
+"ok": 1
+},
+"echternach-fine_dining-1": {
+"en": "Café-restaurant on Echternach's market square, open from 11am until late.",
+"ko": "에히터나흐 중앙 광장의 카페 겸 레스토랑. 오전 11시부터 늦게까지 엽니다.",
+"ok": 1
+},
+"echternach-fine_dining-2": {
+"del": "Café Restaurant du Musée Echternach not found in any source"
 },
 "edinburgh-cafe-4": {
 "addr": "Melville Place, Edinburgh (West End)",
@@ -3772,11 +3917,60 @@
 "ko": "코라이 보행자 거리 안뜰의 크레타 요리 식당. 큰 테라스가 있고 포도잎 쌈·문어구이 등을 냅니다.",
 "ok": 1
 },
+"herceg-novi-bakery-1": {
+"en": "Small café on the seafront promenade with homemade pies, soups, desserts and vegetarian options.",
+"ko": "바다 산책로의 작은 카페. 직접 만든 파이·수프·디저트와 채식 메뉴를 냅니다.",
+"ok": 1
+},
 "herceg-novi-bakery-2": {
 "del": "헤르체그노비에서 그 빵집을 찾을 수 없음"
 },
+"herceg-novi-bakery-3": {
+"del": "Pekara Poslastičarnica TAJNA not found in any source"
+},
 "herceg-novi-cafe-1": {
 "del": "라주르 호텔 근처에 있다는 언급뿐이라 주소·영업 확인 불가"
+},
+"herceg-novi-cafe-2": {
+"en": "Café on the promenade by Škver harbour serving gelato, brunch and smoothies.",
+"ko": "슈크베르 항구 산책로의 카페. 젤라토와 브런치, 스무디를 냅니다.",
+"ok": 1
+},
+"herceg-novi-cafe-3": {
+"en": "Specialty roastery café in the old town with a courtyard under a big magnolia.",
+"ko": "구시가의 스페셜티 로스터리 카페. 목련 나무 아래 안뜰 자리가 있습니다.",
+"ok": 1
+},
+"herceg-novi-cafe-4": {
+"en": "Specialty coffee shop on the steps up to Nikola Đurković Square, with nitro coffee too.",
+"ko": "니콜라 주르코비치 광장으로 오르는 계단의 스페셜티 커피숍. 니트로 커피도 있습니다.",
+"ok": 1
+},
+"herceg-novi-cafe-5": {
+"en": "Coffee shop best known for filter coffee; 10% off if you bring your own cup.",
+"ko": "필터 커피가 대표인 커피숍. 컵을 가져가면 10% 할인해 줍니다.",
+"ok": 1
+},
+"herceg-novi-fine_dining-1": {
+"en": "Family-run old-town seafood konoba; fish soup and black risotto are favourites.",
+"ko": "가족이 운영하는 구시가의 해산물 코노바. 생선 수프와 먹물 리소토가 인기입니다.",
+"ok": 1
+},
+"herceg-novi-fine_dining-2": {
+"addr": "Mića Vavića bb, 85340 Herceg Novi, Montenegro",
+"en": "Georgian restaurant in a 300-year-old mill building by the river at Topla; khachapuri and khinkali are favourites.",
+"ko": "토플라 강가의 300년 된 물레방앗간 건물에 있는 조지아 레스토랑. 하차푸리와 힌칼리가 인기입니다.",
+"ok": 1
+},
+"herceg-novi-fine_dining-3": {
+"en": "Traditional Montenegrin restaurant with a terrace shaded by three linden trees; grilled meat and seafood.",
+"ko": "보리수 세 그루 그늘 아래 테라스가 있는 몬테네그로 전통 식당. 그릴 고기와 해산물이 대표입니다.",
+"ok": 1
+},
+"herceg-novi-fine_dining-4": {
+"en": "Seafront promenade restaurant, café and pizzeria, praised for seafood and terrace views.",
+"ko": "바닷가 산책로의 레스토랑 겸 카페·피자집. 해산물과 테라스 전망이 호평을 받습니다.",
+"ok": 1
 },
 "herceg-novi-fine_dining-5": {
 "del": "헤르체그노비에서 그 식당을 찾을 수 없음"
@@ -3970,19 +4164,67 @@
 "addr": "Kültür Mahallesi, Alsancak, Konak/İzmir",
 "ok": 1
 },
+"jurmala-bakery-1": {
+"en": "Jūrmala bread and cake bakery known as Rausu fabrika.",
+"ko": "유르말라의 빵·케이크 공방 겸 가게 '라우수 파브리카'.",
+"ok": 1
+},
 "jurmala-bakery-2": {
 "addr": "Jomas iela 63, Jūrmala LV-2015",
 "en": "Family-run café and patisserie near the beach in Majori, baking pastries and cakes daily.",
 "ko": "마요리 해변 근처의 가족 운영 카페·제과점. 매일 페이스트리와 케이크를 굽습니다.",
 "ok": 1
 },
+"jurmala-bakery-3": {
+"del": "The Loaf at Jomas iela 37 not found in any source"
+},
+"jurmala-cafe-1": {
+"en": "French bakery-café in Melluži with pastries and French home cooking; also runs cooking classes.",
+"ko": "멜루지의 프랑스식 빵집 겸 카페. 페이스트리와 프랑스 가정식을 내고 요리 교실도 엽니다.",
+"ok": 1
+},
+"jurmala-cafe-2": {
+"en": "Café right on Majori beach with sunset views, open in winter too.",
+"ko": "마요리 해변 바로 앞의 카페. 노을 전망이 좋고 겨울에도 엽니다.",
+"ok": 1
+},
+"jurmala-cafe-3": {
+"en": "Neighbourhood café in Bulduri, 150 m from the beach, with homemade desserts including Vecrīga cake.",
+"ko": "해변에서 150m 거리의 불두리 동네 카페. 직접 만든 디저트와 '베츠리가' 케이크를 냅니다.",
+"ok": 1
+},
 "jurmala-cafe-4": {
 "del": "유르말라에서 그 카페를 찾을 수 없음"
+},
+"jurmala-cafe-5": {
+"en": "Café-bar overlooking Jomas Street with Latvian-roasted coffee; closed Mondays and Tuesdays.",
+"ko": "요마스 거리가 내다보이는 카페 겸 바. 라트비아에서 볶은 커피를 내고 월·화요일은 쉽니다.",
+"ok": 1
+},
+"jurmala-fine_dining-1": {
+"en": "Charcoal-grill restaurant on the Dubulti seafront led by chef Lauris Aleksejevs, listed in the MICHELIN Guide.",
+"ko": "두불티 해변의 숯불 요리 레스토랑. 셰프 라우리스 알렉세예우스가 이끌고 미쉐린 가이드에 실렸습니다.",
+"ok": 1
+},
+"jurmala-fine_dining-2": {
+"en": "Georgian and Caucasian restaurant with a wood grill run by Caucasian cooks; khinkali and khachapuri are favourites.",
+"ko": "캅카스 출신 요리사가 장작 그릴로 요리하는 조지아·캅카스 레스토랑. 힌칼리와 하차푸리가 인기입니다.",
+"ok": 1
+},
+"jurmala-fine_dining-3": {
+"en": "Jomas Street restaurant serving Italian and European dishes, with a summer terrace over the street.",
+"ko": "요마스 거리의 레스토랑. 이탈리아·유럽 요리를 내고 거리가 보이는 여름 테라스가 있습니다.",
+"ok": 1
 },
 "jurmala-fine_dining-4": {
 "addr": "Jomas iela, Majori, Jūrmala",
 "en": "Grill bar on Jomas Street, known for shashlik and its wine list.",
 "ko": "요마스 거리의 그릴 바. 샤슬릭과 와인 리스트가 인기입니다.",
+"ok": 1
+},
+"jurmala-fine_dining-5": {
+"en": "Family-run bistro of some 30 years, with its own bakery and cheap lunches.",
+"ko": "30년 된 가족 운영 비스트로. 직접 굽는 페이스트리와 저렴한 점심을 냅니다.",
 "ok": 1
 },
 "karlovy-vary-bakery-1": {
@@ -4027,10 +4269,71 @@
 "ko": "체코 전통 요리를 현대적으로 내는 필스너 맥주 식당.",
 "ok": 1
 },
+"kaunas-bakery-1": {
+"del": "Motiejaus kepyklėlė: only a 2021 mention, no current source or address"
+},
+"kaunas-bakery-2": {
+"en": "Bakehouse with a Scandinavian-style interior; cinnamon buns and croissants sell out fast at weekends.",
+"ko": "스칸디나비아풍 실내의 베이크하우스. 시나몬번과 크루아상이 인기이고 주말엔 빨리 떨어집니다.",
+"ok": 1
+},
+"kaunas-bakery-3": {
+"addr": "Gedimino g. 42, 44240 Kaunas",
+"en": "Bakery beside St Michael the Archangel's Church, serving breakfast all day; known for its croissants.",
+"ko": "성 미카엘 대천사 성당 옆의 베이커리. 아침 메뉴를 종일 내고 크루아상이 인기입니다.",
+"ok": 1
+},
+"kaunas-bakery-4": {
+"en": "Italian-style bakery near Vilniaus Street in the Old Town, open roughly 8am to 3pm.",
+"ko": "구시가 빌니우스 거리 근처의 이탈리아식 베이커리. 오전 8시~오후 3시경 엽니다.",
+"ok": 1
+},
+"kaunas-bakery-5": {
+"del": "Bundu: no source gives its street address"
+},
+"kaunas-cafe-1": {
+"addr": "Jonavos g. 10-1, 44269 Kaunas, Lithuania",
+"en": "Family-run specialty coffee shop in the Old Town, using freshly roasted beans.",
+"ko": "구시가에서 가족이 운영하는 스페셜티 커피숍. 직접 볶은 원두를 씁니다.",
+"ok": 1
+},
+"kaunas-cafe-2": {
+"en": "Central Kaunas coffee shop serving filter coffee; dog-friendly.",
+"ko": "필터 커피를 내는 카우나스 중심가의 커피숍. 반려견 동반이 가능합니다.",
+"ok": 1
+},
+"kaunas-cafe-3": {
+"en": "Kaunas branch of a third-wave coffee shop founded in Panevėžys, with breakfast and homemade pastries.",
+"ko": "파네베지스에서 시작한 3세대 커피숍의 카우나스 지점. 아침 메뉴와 직접 구운 페이스트리를 냅니다.",
+"ok": 1
+},
+"kaunas-cafe-4": {
+"en": "Chain café on Laisvės alėja, popular for its coffee and cosy feel.",
+"ko": "라이스베스 거리의 체인 카페. 커피와 아늑한 분위기로 인기입니다.",
+"ok": 1
+},
+"kaunas-cafe-5": {
+"en": "Quiet café for coffee and cake; the apple cake and thick hot chocolate are favourites.",
+"ko": "커피와 케이크를 내는 조용한 카페. 사과 케이크와 진한 핫초코가 인기입니다.",
+"ok": 1
+},
 "kaunas-fine_dining-1": {
 "en": "Restaurant on Nemuno Street, listed in the MICHELIN Guide.",
 "ko": "네무나스 거리의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
+},
+"kaunas-fine_dining-2": {
+"en": "Šilainiai branch of a traditional Lithuanian restaurant chain.",
+"ko": "실라이니아이 지구에 있는 전통 리투아니아 요리 레스토랑 체인의 지점.",
+"ok": 1
+},
+"kaunas-fine_dining-3": {
+"en": "Brewery restaurant in historic Old Town cellars; honey beer is the signature, and there's beer soup.",
+"ko": "구시가 옛 지하 저장고의 양조 레스토랑. 꿀맥주가 대표이고 맥주 수프를 냅니다.",
+"ok": 1
+},
+"kaunas-korean-1": {
+"del": "OK Korean Chicken Kaunas not found in any source"
 },
 "kilkenny-bakery-1": {
 "addr": "8 The Arches, Barrack Street, Kilkenny R95 YF30",
@@ -4152,13 +4455,101 @@
 "name": "Icehotel Restaurant",
 "ok": 1
 },
+"klaipeda-bakery-1": {
+"del": "Gardumėlis is in Nida, not at Sandėlių 15 in Klaipėda"
+},
+"klaipeda-bakery-2": {
+"del": "AZUKERIA Klaipėda not found in any source"
+},
+"klaipeda-bakery-3": {
+"en": "Bun bakery run by BEZĖ, also making cakes to order.",
+"ko": "베제(BEZĖ)가 운영하는 빵집. 번과 주문 케이크를 만듭니다.",
+"ok": 1
+},
+"klaipeda-bakery-4": {
+"del": "Gabalėlis torto Klaipėda not found in any source"
+},
+"klaipeda-bakery-5": {
+"del": "La Farine: no source places it at H. Manto 23"
+},
+"klaipeda-cafe-1": {
+"del": "Vanilės namai: operating company in bankruptcy, H. Manto 9 unconfirmed"
+},
+"klaipeda-cafe-2": {
+"en": "Café-restaurant on Vėtros street; its Lithuanian name is Ateik ateik.",
+"ko": "구시가 벳로스 거리의 카페 겸 레스토랑. 리투아니아어 이름은 'Ateik ateik'.",
+"ok": 1
+},
+"klaipeda-cafe-3": {
+"del": "Caffeine at Žvejų 1 not found; other branches only"
+},
+"klaipeda-cafe-4": {
+"en": "Cosy central coffee shop with weekend breakfast and occasional live music.",
+"ko": "중심가의 아늑한 커피숍. 주말 아침 메뉴가 있고 가끔 라이브 연주가 열립니다.",
+"ok": 1
+},
+"klaipeda-cafe-5": {
+"del": "Musangas at Liepų 64 not found in any source"
+},
 "klaipeda-fine_dining-1": {
 "en": "Modern-cuisine restaurant listed in the MICHELIN Guide.",
 "ko": "현대 요리 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
+"klaipeda-fine_dining-2": {
+"en": "Restaurant in a 19th-century cellar filled with antiques, serving borscht and Lithuanian dishes.",
+"ko": "19세기 지하 저장고의 레스토랑. 골동품으로 꾸며 박물관 같고 보르시와 리투아니아 요리를 냅니다.",
+"ok": 1
+},
+"klaipeda-fine_dining-3": {
+"addr": "Kurpių g. 1, Klaipėda",
+"en": "Bar-restaurant on Theatre Square, popular for meat dishes, pancakes and cepelinai in big portions.",
+"ko": "극장 광장에 면한 바 겸 레스토랑. 고기 요리·팬케이크·체펠리나이가 인기이고 양이 많습니다.",
+"ok": 1
+},
 "kotor-bakery-1": {
 "del": "코토르에서 그 빵집을 찾을 수 없음"
+},
+"kotor-bakery-2": {
+"en": "Tiny four-seat family café in the old town, known for croissants with pistachio cream.",
+"ko": "구시가의 4석짜리 작은 가족 카페. 피스타치오 크림 크루아상이 유명합니다.",
+"ok": 1
+},
+"kotor-bakery-3": {
+"en": "Small patisserie by one of the old town's narrowest lanes, with croissants and home-baked tarts and cakes.",
+"ko": "구시가 좁은 골목 옆의 작은 파티세리. 크루아상과 직접 구운 타르트·케이크를 냅니다.",
+"ok": 1
+},
+"kotor-bakery-4": {
+"del": "Sandrela Pekara at Jadranska 76 not found in any source"
+},
+"kotor-bakery-5": {
+"del": "Dolce Boka Kotor not found in any source"
+},
+"kotor-cafe-1": {
+"en": "Specialty coffee kiosk in the Kamelija shopping centre; the flat white is praised, and reviews say cash only.",
+"ko": "카멜리야 쇼핑센터의 스페셜티 커피 키오스크. 플랫화이트가 호평을 받고 현금만 받는다는 후기가 있습니다.",
+"ok": 1
+},
+"kotor-cafe-2": {
+"en": "Café on the old town's biggest square, known for its large cake display and kremšnita.",
+"ko": "구시가 가장 큰 광장의 카페. 진열장 가득한 케이크와 크렘슈니테가 인기입니다.",
+"ok": 1
+},
+"kotor-fine_dining-1": {
+"en": "Waterfront seafood restaurant looking across the marina to the old town; usually closed in winter.",
+"ko": "마리나 너머 구시가가 보이는 바닷가 해산물 레스토랑. 겨울에는 대개 문을 닫습니다.",
+"ok": 1
+},
+"kotor-fine_dining-2": {
+"en": "Kotor's oldest restaurant, opened in 1931, serving seafood in the stone-vaulted ground floor of a 17th-century palazzo.",
+"ko": "1931년 문을 연 코토르에서 가장 오래된 식당. 17세기 저택의 돌 아치 1층에서 해산물을 냅니다.",
+"ok": 1
+},
+"kotor-fine_dining-3": {
+"en": "Seafood restaurant on a quiet old-town lane, serving fish and mussels.",
+"ko": "구시가 조용한 골목의 해산물 식당. 생선과 홍합 요리를 냅니다.",
+"ok": 1
 },
 "kutaisi-bakery-1": {
 "del": "no bakery of this name found on Tsminda Nino St"
@@ -5113,6 +5504,25 @@
 "malaga-korean-3": {
 "del": 1
 },
+"malbun-bakery-1": {
+"del": "Vögeli Alpenhotel is a hotel, not a bakery; its restaurant is already listed as malbun-fine_dining-1"
+},
+"malbun-cafe-1": {
+"en": "Malbun restaurant where the chef cooks with regional ingredients; garden and terrace.",
+"ko": "셰프가 직접 지역 식재료로 요리하는 말분의 레스토랑. 정원과 테라스가 있습니다.",
+"ok": 1
+},
+"malbun-fine_dining-1": {
+"addr": "Im Malbun 11, 9497 Triesenberg, Liechtenstein",
+"en": "Restaurant in Malbun's oldest hotel, serving regional and international dishes, with a sun terrace.",
+"ko": "말분에서 가장 오래된 호텔 안의 레스토랑. 지역·국제 요리를 내고 해 드는 테라스가 있습니다.",
+"ok": 1
+},
+"malbun-fine_dining-2": {
+"en": "Malbun pizzeria known for pizza made with its homemade salad sauce; closed Tuesdays and Wednesdays.",
+"ko": "직접 만든 샐러드 소스를 쓰는 피자가 대표인 말분의 피자집. 화·수요일은 쉽니다.",
+"ok": 1
+},
 "malmo-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Malmö; Wednesday to Saturday evenings.",
 "ko": "말뫼의 미쉐린 2스타 레스토랑. 수~토 저녁에 엽니다.",
@@ -5298,6 +5708,26 @@
 "modena-fine_dining-3": {
 "ok": 1
 },
+"monaco-bakery-1": {
+"en": "Bakery in La Condamine since 1957, popular for the Monegasque barbajuan and croissants.",
+"ko": "1957년부터 콩다민에 자리한 빵집. 모나코 명물 바르바주앙과 크루아상이 인기입니다.",
+"ok": 1
+},
+"monaco-bakery-2": {
+"addr": "Galerie du Métropole, 17 Avenue des Spélugues, 98000 Monaco",
+"ok": 1
+},
+"monaco-cafe-1": {
+"addr": "3 Avenue Saint-Laurent, 98000 Monaco",
+"en": "Robuchon group's casual deli with coffee, pastries, salads and sandwiches, open 8am to 8pm.",
+"ko": "로부숑 그룹의 캐주얼 델리. 커피·페이스트리·샐러드·샌드위치를 오전 8시~오후 8시에 냅니다.",
+"ok": 1
+},
+"monaco-cafe-2": {
+"en": "All-day restaurant and tea room in the Hôtel Hermitage winter garden, with afternoon tea and house-made pastries.",
+"ko": "에르미타주 호텔 겨울 정원의 올데이 레스토랑 겸 티룸. 애프터눈 티와 직접 만든 페이스트리를 냅니다.",
+"ok": 1
+},
 "monaco-fine_dining-1": {
 "en": "Three-Michelin-star restaurant in the Hôtel de Paris, led by Alain Ducasse.",
 "ko": "오텔 드 파리 안의 미쉐린 3스타 레스토랑. 알랭 뒤카스가 이끕니다.",
@@ -5313,6 +5743,26 @@
 "monaco-fine_dining-3": {
 "en": "Japanese restaurant in the Hôtel Métropole, listed in the Michelin Guide.",
 "ko": "오텔 메트로폴 안의 일식 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"monaco-fine_dining-4": {
+"en": "Casino Square brasserie founded in 1868, reopened in 2023 with a new upstairs terrace.",
+"ko": "1868년 문을 연 카지노 광장의 브라세리. 2023년 새 단장 후 위층 테라스가 생겼습니다.",
+"ok": 1
+},
+"monaco-fine_dining-5": {
+"en": "Meat restaurant on Fontvieille port serving beef from several origins, including Wagyu and Black Angus.",
+"ko": "퐁비에유 항구의 고기 전문 레스토랑. 와규·블랙 앵거스 등 여러 산지 소고기를 냅니다.",
+"ok": 1
+},
+"monte-carlo-bakery-1": {
+"en": "Tea salon open since 1955, making everything in-house, including a gluten-free range.",
+"ko": "1955년부터 이어온 살롱 드 테. 모든 것을 직접 만들고 글루텐 프리 제품도 있습니다.",
+"ok": 1
+},
+"monte-carlo-cafe-1": {
+"en": "Café in the Métropole gallery serving Joël Robuchon dishes and cakes from breakfast to dinner.",
+"ko": "메트로폴 갤러리의 카페. 조엘 로부숑 요리와 케이크를 아침부터 저녁까지 냅니다.",
 "ok": 1
 },
 "montepulciano-cafe-1": {
@@ -6050,6 +6500,27 @@
 "orheiul-vechi-bakery-1": {
 "del": "오르헤이에서 그 빵집을 찾을 수 없음"
 },
+"orheiul-vechi-bakery-2": {
+"en": "Bakery-café in Peresecina on the Chișinău–Orhei road, popular for fresh pies and coffee, with a children's area.",
+"ko": "키시너우-오르헤이 도로변 페레세치나의 빵집 겸 카페. 갓 구운 파이와 커피가 인기이고 어린이 공간이 있습니다.",
+"ok": 1
+},
+"orheiul-vechi-cafe-1": {
+"del": "Le Café Orhei not found; Vasile Lupu 44 is the Versailles event hall"
+},
+"orheiul-vechi-cafe-2": {
+"del": "Cafenea Orhei: only a bare listing, Vasile Lupu 160 unconfirmed"
+},
+"orheiul-vechi-fine_dining-1": {
+"en": "Moldovan restaurant in central Orhei, also popular for weddings and events.",
+"ko": "오르헤이 중심의 몰도바 요리 레스토랑. 연회와 행사로도 인기입니다.",
+"ok": 1
+},
+"orheiul-vechi-fine_dining-2": {
+"en": "Orhei restaurant serving stews and grills, open until late.",
+"ko": "오르헤이의 레스토랑. 스튜와 그릴 요리를 내고 밤늦게까지 엽니다.",
+"ok": 1
+},
 "orvieto-fine_dining-1": {
 "ok": 1
 },
@@ -6571,6 +7042,14 @@
 "ko": "2018년 카파나 지구에 문을 연 모던 불가리아 레스토랑. 지역 소농 재료의 제철 요리.",
 "ok": 1
 },
+"podgorica-bakery-1": {
+"del": "Sicilia at Ivana Vujoševića 50 is a pizzeria, not a bakery"
+},
+"podgorica-bakery-2": {
+"en": "Neighbourhood bakery in Podgorica.",
+"ko": "포드고리차의 동네 빵집.",
+"ok": 1
+},
 "podgorica-bakery-4": {
 "del": "포드고리차에서 그 가게를 찾을 수 없음"
 },
@@ -6809,8 +7288,24 @@
 "mi": "star2",
 "ok": 1
 },
+"remich-bakery-1": {
+"del": "Patisserie Haan Remich not found in any source"
+},
+"remich-bakery-2": {
+"en": "Bakery and pastry shop on Remich's market square.",
+"ko": "레미히 시장 광장의 빵집 겸 제과점.",
+"ok": 1
+},
+"remich-bakery-3": {
+"del": "Op Der Musel bakery on the Esplanade not found in any source"
+},
 "remich-fine_dining-1": {
 "addr": "Quai de la Moselle, 5553 Remich",
+"ok": 1
+},
+"remich-fine_dining-2": {
+"en": "Café-pub on Remich's market square with local and international food, open late.",
+"ko": "레미히 시장 광장의 카페 겸 펍. 지역·국제 요리를 내고 밤늦게까지 엽니다.",
 "ok": 1
 },
 "reykjavik-bakery-1": {
@@ -6926,10 +7421,60 @@
 "ko": "구시가 소크라투스 거리 근처의 500년 된 건물에 자리한 그리스 요리 식당. 정원 좌석이 있고 그리스 음악 라이브 공연을 합니다.",
 "ok": 1
 },
+"riga-bakery-1": {
+"en": "Small bakery known for sourdough bread, cardamom buns and croissants.",
+"ko": "사워도우 빵과 카다멈 번·크루아상으로 알려진 작은 빵집.",
+"ok": 1
+},
+"riga-bakery-2": {
+"en": "Branch of a long-running Riga bakery chain with cheap traditional Latvian pastries.",
+"ko": "리가에서 오래된 빵집 체인의 지점. 저렴한 라트비아 전통 페이스트리를 냅니다.",
+"ok": 1
+},
+"riga-bakery-3": {
+"en": "Central Riga café-bakery with brownies, cakes and pastries.",
+"ko": "리가 중심가의 카페 겸 빵집. 브라우니·케이크·페이스트리를 냅니다.",
+"ok": 1
+},
+"riga-cafe-1": {
+"en": "Roastery café in an old sock factory, serving single-origin filter coffee and brunch.",
+"ko": "옛 양말 공장 건물의 로스터리 카페. 싱글 오리진 필터 커피와 브런치를 냅니다.",
+"ok": 1
+},
+"riga-cafe-2": {
+"en": "Small Old Town coffee bar near St Peter's Church, with a summer terrace.",
+"ko": "성 베드로 성당 근처 구시가의 작은 커피 바. 여름 테라스가 있습니다.",
+"ok": 1
+},
+"riga-cafe-3": {
+"en": "Vegetarian and vegan café that began as a bicycle workshop, serving specialty coffee.",
+"ko": "자전거 공방에서 시작한 채식·비건 카페. 스페셜티 커피를 냅니다.",
+"ok": 1
+},
 "riga-fine_dining-1": {
 "addr": "Grēcinieku iela 26, LV-1050 Riga",
 "en": "Traditional Latvian restaurant in the old town, listed in the Michelin Guide; closed Mondays.",
 "ko": "구시가지의 라트비아 전통 요리 식당. 미쉐린 가이드에 실려 있고 월요일은 쉽니다.",
+"ok": 1
+},
+"riga-fine_dining-2": {
+"ok": 1
+},
+"riga-fine_dining-3": {
+"en": "Latvian home-cooking restaurant in a cellar near the Swedish Gate; grey peas and potato pancakes are favourites.",
+"ko": "스웨덴 문 근처 지하 식당의 라트비아 가정식 레스토랑. 회색 완두콩·감자전이 인기입니다.",
+"ok": 1
+},
+"riga-fine_dining-4": {
+"en": "Traditional Latvian restaurant on Town Hall Square, serving beer soup and meat in pots.",
+"ko": "시청 광장의 라트비아 전통 레스토랑. 맥주 수프와 단지 고기 요리를 냅니다.",
+"ok": 1
+},
+"riga-fine_dining-5": {
+"addr": "Tirgoņu iela 6, LV-1050 Riga",
+"ok": 1
+},
+"riga-korean-1": {
 "ok": 1
 },
 "rome-bakery-1": {
@@ -7583,6 +8128,35 @@
 "ko": "사란데 언덕 꼭대기의 해산물·지중해 요리 식당. 만과 이오니아해가 내려다보입니다.",
 "ok": 1
 },
+"schaan-bakery-1": {
+"del": "Bäckerei Gassner Schaan: no source gives a street address"
+},
+"schaan-bakery-2": {
+"del": "Gusto Italiano GmbH Schaan not found in any source"
+},
+"schaan-cafe-1": {
+"en": "Café and cake shop of the Wanger bakery, popular for its Saturday breakfast buffet.",
+"ko": "바커라이 방거의 카페 겸 케이크 가게. 토요일 아침 뷔페가 인기입니다.",
+"ok": 1
+},
+"schaan-cafe-2": {
+"del": "mueslicup Schaan not found in any source"
+},
+"schaan-fine_dining-1": {
+"en": "Traditional restaurant serving schnitzel, cordon bleu and veal Zurich-style; mountain-view terrace in summer.",
+"ko": "슈니첼·코르동 블뢰·취리히식 송아지 요리를 내는 전통 레스토랑. 여름에는 산이 보이는 테라스가 열립니다.",
+"ok": 1
+},
+"schaan-fine_dining-2": {
+"en": "Brewpub restaurant with beer from its own brewery and seasonal dishes; beer garden.",
+"ko": "자체 양조장 맥주와 계절 요리를 내는 브루펍 레스토랑. 비어가든이 있습니다.",
+"ok": 1
+},
+"schaan-fine_dining-3": {
+"en": "Schaan restaurant with some 190 years of history, praised for its cordon bleu and schnitzel.",
+"ko": "190년 역사의 샤안 레스토랑. 코르동 블뢰와 슈니첼이 호평을 받습니다.",
+"ok": 1
+},
 "segovia-bakery-1": {
 "del": 1
 },
@@ -7809,6 +8383,58 @@
 "ko": "바흐탕 고르가살리 거리의 조지아 요리 식당.",
 "ok": 1
 },
+"sigulda-bakery-1": {
+"addr": "Strēlnieku iela 2, Sigulda, LV-2150",
+"en": "Sigulda branch of a bakery chain, with pastries baked fresh daily.",
+"ko": "시굴다 중심가의 빵집 체인 지점. 매일 굽는 페이스트리를 냅니다.",
+"ok": 1
+},
+"sigulda-bakery-2": {
+"del": "Sucre kafejnīca Sigulda not found in any source"
+},
+"sigulda-cafe-1": {
+"addr": "Leona Paegles iela 15A, Sigulda, LV-2150",
+"en": "Family-run café with a garden and terrace, serving burgers and waffles; closed Mondays.",
+"ko": "정원과 야외 테라스가 있는 가족 운영 카페. 버거·와플을 내고 월요일은 쉽니다.",
+"ok": 1
+},
+"sigulda-cafe-2": {
+"en": "Café and pastry shop that began as a tea room in 2012; the cinnamon rolls are popular.",
+"ko": "2012년 찻집으로 시작한 카페 겸 제과점. 시나몬롤이 인기입니다.",
+"ok": 1
+},
+"sigulda-cafe-3": {
+"en": "Bistro decorated with Gūtmanis Cave motifs, serving pick-your-own Latvian home cooking, with pastries baked each morning.",
+"ko": "구트마니스 동굴 무늬로 꾸민 비스트로. 라트비아 가정식을 고르는 방식이고 아침마다 빵을 굽습니다.",
+"ok": 1
+},
+"sigulda-cafe-4": {
+"en": "Bakery-café with éclairs, cakes and pancakes, plus Latvian honey cake.",
+"ko": "에클레어와 케이크, 팬케이크를 내는 빵집 겸 카페. 라트비아 꿀 케이크도 있습니다.",
+"ok": 1
+},
+"sigulda-cafe-5": {
+"del": "Pie Vītoliem Sigulda not found in any source"
+},
+"sigulda-fine_dining-1": {
+"del": "Pasēdnīca at Raiņa iela 2 not found in any source"
+},
+"sigulda-fine_dining-2": {
+"en": "Country-style restaurant in a log building 700 m from Turaida Museum Reserve, serving Latvian dishes like smoked catfish and venison.",
+"ko": "투라이다 박물관 보호구역에서 700m 떨어진 통나무 건물의 시골풍 레스토랑. 훈제 메기·사슴고기 등 라트비아 요리를 냅니다.",
+"ok": 1
+},
+"sigulda-fine_dining-3": {
+"en": "Restaurant of Hotel Sigulda, built in 1889, serving European dishes with a park-view summer terrace.",
+"ko": "1889년 지은 호텔 시굴다의 레스토랑. 유럽 요리를 내고 여름엔 공원이 보이는 테라스가 열립니다.",
+"ok": 1
+},
+"sigulda-fine_dining-4": {
+"del": "Bazārs at Ausekļa 7b not found (that address is Konditoreja Azaids)"
+},
+"sigulda-fine_dining-5": {
+"del": "Kazene at Pils iela 4b not found in any source"
+},
 "siracusa-bakery-1": {
 "ok": 1
 },
@@ -7886,6 +8512,22 @@
 "sofia-fine_dining-5": {
 "en": "Traditional Bulgarian restaurant opened in 2000, decorated with antiques, with a seasonal garden terrace.",
 "ko": "2000년 문을 연 전통 불가리아 요리 레스토랑. 옛 생활 소품 장식과 계절 정원 테라스.",
+"ok": 1
+},
+"soroca-bakery-2": {
+"del": "DaviDan Bakery: no Soroca location found"
+},
+"soroca-cafe-1": {
+"en": "Western-style café about 130 m from Soroca Fortress.",
+"ko": "소로카 요새에서 약 130m 떨어진 서양식 카페.",
+"ok": 1
+},
+"soroca-cafe-2": {
+"del": "COFFEEIN Soroca not found in any source"
+},
+"soroca-fine_dining-1": {
+"en": "Restaurant inside Hotel Europa 1928.",
+"ko": "호텔 유로파 1928 안의 레스토랑.",
 "ok": 1
 },
 "soroca-fine_dining-2": {
@@ -8821,6 +9463,82 @@
 "mi": "star1",
 "ok": 1
 },
+"tropea-bakery-1": {
+"en": "Gelateria known for unusual flavours such as red onion and nduja alongside the classics.",
+"ko": "붉은 양파·은두야 같은 독특한 맛의 젤라토로 알려진 가게.",
+"ok": 1
+},
+"tropea-fine_dining-1": {
+"addr": "Via del Monte 7, 89861 Tropea, Italy",
+"en": "Seafood osteria in the old town near the cathedral; swordfish is the speciality and portions are generous.",
+"ko": "트로페아 대성당 근처 구시가의 해산물 오스테리아. 황새치 요리가 대표적이고 양이 넉넉합니다.",
+"ok": 1
+},
+"turin-bakery-1": {
+"addr": "Via Cavour 10, Torino, Italy",
+"en": "Andrea Perino's sourdough bakery, known for its two-day proved panettone.",
+"ko": "안드레아 페리노의 사워도우 빵집. 이틀 발효한 파네토네로 유명합니다.",
+"ok": 1
+},
+"turin-bakery-2": {
+"en": "Campanian-style pastry shop opened in 2022, known for its fried croissant.",
+"ko": "2022년 문을 연 캄파니아식 제과점. 튀긴 크루아상으로 알려졌습니다.",
+"ok": 1
+},
+"turin-bakery-3": {
+"en": "Tiny traditional pasticceria with barely any seats, known for its Umbertini and Sacher torte.",
+"ko": "좌석이 거의 없는 작은 전통 제과점. 움베르티니와 자허 케이크로 알려졌습니다.",
+"ok": 1
+},
+"turin-bakery-4": {
+"en": "Traditional pastry shop opened in 2024 in the Borgo dei Mercanti, with a glass wall onto the workshop.",
+"ko": "2024년 보르고 데이 메르칸티에 문을 연 전통 제과점. 유리벽 너머로 작업실이 보입니다.",
+"ok": 1
+},
+"turin-bakery-5": {
+"del": "Sa Fancy at Via Po 27 not found in any source"
+},
+"turin-cafe-1": {
+"addr": "Piazza Carlo Felice 36, 10123 Torino, Italy",
+"en": "Café that began as a chocolate shop in 1936, popular for breakfast.",
+"ko": "1936년 초콜릿 가게로 시작한 카페. 아침 식사로 유명합니다.",
+"ok": 1
+},
+"turin-cafe-2": {
+"en": "Historic café where the bicerin drink was born; closed Wednesdays.",
+"ko": "비체린 음료가 탄생한 역사적인 카페. 수요일은 쉽니다.",
+"ok": 1
+},
+"turin-cafe-3": {
+"en": "Historic café and chocolatier in the Galleria Subalpina since 1875; closed Mondays.",
+"ko": "1875년부터 갈레리아 수발피나에 자리한 역사적 카페 겸 초콜릿 가게. 월요일은 쉽니다.",
+"ok": 1
+},
+"turin-cafe-4": {
+"en": "Specialty coffee bar in San Salvario, open since 2014, serving V60 and cold brew.",
+"ko": "2014년 문을 연 산살바리오의 스페셜티 커피 바. V60·콜드브루를 냅니다.",
+"ok": 1
+},
+"turin-cafe-5": {
+"ok": 1
+},
+"turin-fine_dining-1": {
+"addr": "Corso Filippo Turati 14, 10128 Torino",
+"en": "Restaurant run by the Vannelli family since the 1920s, serving Piedmontese food with Tuscan touches; closed Sundays.",
+"ko": "1920년대부터 바넬리 가족이 운영하는 레스토랑. 토스카나 풍미를 더한 피에몬테 요리를 내고 일요일은 쉽니다.",
+"ok": 1
+},
+"turin-fine_dining-2": {
+"en": "Long-running trattoria in the old quarter serving homemade pasta and Piedmontese dishes; closed Sundays.",
+"ko": "구시가의 오래된 트라토리아. 수제 파스타와 피에몬테 요리를 내고 일요일은 쉽니다.",
+"ok": 1
+},
+"turin-korean-1": {
+"addr": "Corso Peschiera 160, 10138 Torino",
+"en": "Korean restaurant opened in 2023, serving bibimbap and Korean barbecue; closed Wednesdays.",
+"ko": "2023년 문을 연 한식당. 비빔밥과 한국식 바비큐를 내고 수요일은 쉽니다.",
+"ok": 1
+},
 "turku-bakery-1": {
 "en": "Fazer café in an 1865 building in the Hansa block, with cakes and a deli counter.",
 "ko": "1865년 건물 한사 블록에 있는 파제르 카페. 케이크와 델리 코너가 있습니다.",
@@ -8885,14 +9603,46 @@
 "ko": "투르쿠 중심가의 아시아식 뷔페 식당(탐페레의 Yummy Korean과 같은 계열).",
 "ok": 1
 },
+"urbino-fine_dining-1": {
+"ok": 1
+},
 "urbino-fine_dining-2": {
 "addr": "Via Don Minzoni 2/4, 61029 Urbino",
+"ok": 1
+},
+"urbino-fine_dining-3": {
+"del": "Il Girarrosto Urbino: only a stale Foursquare listing, no current source"
+},
+"urbino-fine_dining-4": {
+"addr": "Via Francesco Puccinotti 13, 61029 Urbino, Italy",
+"en": "Bar-restaurant in a 15th-century palazzo with a terrace facing the cathedral.",
+"ko": "15세기 저택에 자리한 바 겸 레스토랑. 대성당이 보이는 테라스가 있습니다.",
 "ok": 1
 },
 "utrecht-fine_dining-1": {
 "en": "One-Michelin-star restaurant in the Grand Hotel Karel V, a converted monastery; Wednesday to Saturday evenings.",
 "ko": "옛 수도원을 고친 그랜드 호텔 카럴 V 안의 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.",
 "mi": "star1",
+"ok": 1
+},
+"vaduz-bakery-1": {
+"en": "Small bakery-café in the heart of the Städtle, with Engadine nut cake and pear bread.",
+"ko": "슈테틀레 중심의 작은 빵집 겸 카페. 엥가딘 호두 케이크와 배 빵을 냅니다.",
+"ok": 1
+},
+"vaduz-bakery-2": {
+"en": "Neighbourhood bakery and pastry shop on Altenbach in Vaduz, mainly open mornings.",
+"ko": "파두츠 알텐바흐의 동네 빵집 겸 제과점. 오전 영업 중심입니다.",
+"ok": 1
+},
+"vaduz-cafe-1": {
+"en": "Bakery-café run by the Amann family since 1874; the lunch specials sell out fast.",
+"ko": "1874년부터 아만 가족이 운영하는 빵집 겸 카페. 점심 특선이 빨리 떨어집니다.",
+"ok": 1
+},
+"vaduz-cafe-2": {
+"en": "Courtyard café beside the government building, serving coffee from Schaan's Demmel roastery; weekdays 8am to 5pm.",
+"ko": "정부 청사 옆 안뜰의 카페. 샤안의 뎀멜 로스터리 커피를 내고 평일 08~17시에 엽니다.",
 "ok": 1
 },
 "vaduz-fine_dining-1": {
@@ -8905,6 +9655,11 @@
 "en": "One-Michelin-star restaurant among the princely vineyards; closed Sundays and Mondays.",
 "ko": "왕실 포도밭 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"vaduz-fine_dining-3": {
+"en": "Indian restaurant with a lunch buffet and à la carte dinners, with plenty of vegetarian dishes.",
+"ko": "점심 뷔페와 저녁 단품 메뉴를 내는 인도 레스토랑. 채식 메뉴가 다양합니다.",
 "ok": 1
 },
 "valencia-bakery-1": {
@@ -9064,11 +9819,185 @@
 "veliko-tarnovo-fine_dining-3": {
 "ok": 1
 },
+"venice-bakery-1": {
+"en": "Dorsoduro pastry shop open since 1953, famous for its focaccia; closed Mondays.",
+"ko": "1953년부터 이어온 도르소두로의 제과점. 포카차가 대표 메뉴이고 월요일은 쉽니다.",
+"ok": 1
+},
+"venice-bakery-2": {
+"addr": "Ponte de le Maravegie, Dorsoduro 1192, 30123 Venezia, Italy",
+"en": "Neighbourhood pastry shop in Dorsoduro near the Accademia bridge, with croissants and focaccia veneziana.",
+"ko": "아카데미아 다리 근처 도르소두로의 동네 제과점. 크루아상과 포카차 베네치아나를 냅니다.",
+"ok": 1
+},
+"venice-bakery-3": {
+"en": "Venice's oldest working pastry shop, open since 1742, known for bussolai biscuits and Carnival fritole.",
+"ko": "1742년부터 영업해 온 베네치아에서 가장 오래된 제과점. 부솔라이 과자와 카니발 프리톨레로 유명합니다.",
+"ok": 1
+},
+"venice-bakery-4": {
+"en": "Small Castello pastry shop opened in 1935, known for its mini pizzas and mammalucchi fritters.",
+"ko": "1935년 문을 연 카스텔로의 작은 제과점. 미니 피자와 마말루키 튀김 과자로 알려졌습니다.",
+"ok": 1
+},
+"venice-bakery-5": {
+"en": "Newer bakery in the San Marco area where you can watch the bakers; croissants and focaccia sandwiches.",
+"ko": "산마르코 지역의 새 베이커리. 빵 굽는 모습을 보며 크루아상과 포카차 샌드위치를 먹을 수 있습니다.",
+"ok": 1
+},
+"venice-cafe-1": {
+"en": "Venetian pastry shop and café dating from the 1870s, known for its cappuccino and cakes.",
+"ko": "1870년대부터 이어온 베네치아의 제과점 겸 카페. 카푸치노와 케이크로 알려졌습니다.",
+"ok": 1
+},
+"venice-cafe-2": {
+"ok": 1
+},
+"venice-cafe-3": {
+"en": "Coffee bar near the Rialto Bridge on its original roasting site, serving single-origin espresso.",
+"ko": "리알토 다리 근처, 원래 로스팅하던 자리에 있는 커피 바. 싱글 오리진 에스프레소를 냅니다.",
+"ok": 1
+},
+"venice-cafe-4": {
+"en": "Cannaregio roastery bar roasting coffee since 1930, with seats by the canal.",
+"ko": "1930년부터 커피를 볶아 온 카나레조의 로스터리 바. 운하 옆 자리가 있습니다.",
+"name": "Torrefazione Cannaregio",
+"ok": 1
+},
+"venice-cafe-5": {
+"en": "Dorsoduro bar-café serving morning pastries through evening cocktails; the pistachio croissant is a favourite.",
+"ko": "도르소두로의 바 겸 카페. 아침 페이스트리부터 저녁 칵테일까지 내고 피스타치오 크루아상이 인기입니다.",
+"ok": 1
+},
+"venice-fine_dining-1": {
+"en": "Family-run San Polo seafood trattoria since 1983; open Tuesday to Saturday, booking advised.",
+"ko": "1983년부터 가족이 운영하는 산폴로의 해산물 트라토리아. 화~토요일만 열고 예약을 권합니다.",
+"ok": 1
+},
+"venice-fine_dining-2": {
+"en": "Standing-only cicchetti bar near the Rialto market, famous for baccalà mantecato; closes early afternoon.",
+"ko": "리알토 시장 근처의 서서 먹는 치케티 바. 바칼라 만테카토가 유명하고 오후 일찍 닫습니다.",
+"ok": 1
+},
+"venice-fine_dining-3": {
+"ok": 1
+},
+"venice-korean-1": {
+"en": "Korean restaurant in Mestre, popular for haemul pajeon and gimbap, with parking.",
+"ko": "메스트레의 한식당. 해물파전과 김밥이 인기이고 주차장이 있습니다.",
+"ok": 1
+},
+"venice-korean-2": {
+"en": "Family-run Korean restaurant in Mestre serving mandu, fried chicken and doenjang jjigae; booking advised.",
+"ko": "메스트레에서 한국인 가족이 운영하는 한식당. 만두·치킨·된장찌개를 내고 예약을 권합니다.",
+"ok": 1
+},
+"verona-bakery-1": {
+"addr": "Via IV Novembre 1A, 37126 Verona, Italy",
+"ok": 1
+},
+"verona-bakery-2": {
+"en": "Tiramisu shop next to Juliet's House, with a view of the balcony from inside.",
+"ko": "줄리엣의 집 옆 티라미수 전문점. 가게 안에서 발코니가 보입니다.",
+"ok": 1
+},
+"verona-bakery-3": {
+"en": "Pastry shop known for gluten-free desserts made in a dedicated lab; closed Wednesdays.",
+"ko": "전용 작업실에서 만든 글루텐 프리 디저트로 알려진 제과점. 수요일은 쉽니다.",
+"ok": 1
+},
+"verona-bakery-4": {
+"en": "Family pastry shop that started here in 1947, known for nadalin and Baci di Giulietta.",
+"ko": "1947년 이곳에서 시작한 가족 제과점. 나달린과 바치 디 줄리에타로 알려졌습니다.",
+"ok": 1
+},
+"verona-bakery-5": {
+"en": "Pastry shop near Porta Palio, a few minutes from the train station; closed Mondays.",
+"ko": "포르타 팔리오 근처 기차역에서 가까운 제과점. 월요일은 쉽니다.",
+"ok": 1
+},
+"verona-cafe-1": {
+"ok": 1
+},
+"verona-cafe-2": {
+"en": "Garage Coffee Bros' flagship specialty coffee shop, roasting its own beans, five minutes' walk from the Arena.",
+"ko": "가라주 커피 브로스가 직접 볶는 플래그십 스페셜티 커피숍. 아레나에서 걸어서 5분입니다.",
+"ok": 1
+},
+"verona-cafe-3": {
+"en": "Specialty coffee bar opened in 2022, also known for its homemade tonic waters; closed Tuesdays.",
+"ko": "2022년 문을 연 스페셜티 커피 바. 직접 만든 토닉 워터로도 알려졌고 화요일은 쉽니다.",
+"ok": 1
+},
+"verona-cafe-4": {
+"en": "Café and pastry shop right beside the cathedral, with a vine-shaded courtyard.",
+"ko": "대성당 바로 옆의 카페 겸 제과점. 포도덩굴 그늘이 드리운 안뜰 자리가 있습니다.",
+"ok": 1
+},
+"verona-cafe-5": {
+"en": "Bright, book-lined bistro café right by the Duomo; open daily 8am to 6pm.",
+"ko": "두오모 바로 옆, 책으로 꾸민 밝은 비스트로 카페. 매일 오전 8시~오후 6시.",
+"ok": 1
+},
 "verona-fine_dining-1": {
 "addr": "Via Dietro San Sebastiano 7, 37121 Verona",
 "en": "One-Michelin-star restaurant in Verona; closed Sundays and Mondays.",
 "ko": "베로나의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"verona-fine_dining-2": {
+"en": "Osteria run by the Buglioni winery, popular for salumi and cheese boards with a glass of Ripasso.",
+"ko": "부글리오니 와이너리가 운영하는 오스테리아. 살루미·치즈 보드와 리파소 와인이 인기입니다.",
+"ok": 1
+},
+"verona-fine_dining-3": {
+"en": "Historic wine restaurant near Piazza Erbe, famous for a list of over 4,500 labels and Amarone risotto.",
+"ko": "에르베 광장 근처의 역사적인 와인 레스토랑. 4,500종이 넘는 와인 리스트와 아마로네 리소토로 유명합니다.",
+"ok": 1
+},
+"vianden-bakery-1": {
+"en": "Small artisan bakery in the old town with sourdough bread, croissants and lunch sandwiches; closed Mondays.",
+"ko": "구시가의 작은 아르티장 빵집. 사워도우 빵과 크루아상, 점심 샌드위치를 내고 월요일은 쉽니다.",
+"ok": 1
+},
+"vianden-cafe-1": {
+"en": "Riverside café-restaurant praised for breakfast and onion soup; closed Tuesdays.",
+"ko": "강변 전망의 카페 겸 레스토랑. 아침 메뉴와 양파 수프가 호평을 받고 화요일은 쉽니다.",
+"ok": 1
+},
+"vianden-cafe-2": {
+"en": "Café and roastery roasting its own beans, with daily vegan bakes; open Thursday to Sunday.",
+"ko": "직접 원두를 볶는 카페 겸 로스터리. 매일 굽는 비건 베이커리를 내고 목~일요일만 엽니다.",
+"ok": 1
+},
+"vianden-cafe-3": {
+"del": "Café & Nata Vianden not found in any source"
+},
+"vianden-fine_dining-1": {
+"en": "Restaurant of the hotel where Victor Hugo stayed in 1870, with an open fireplace and French and international cooking.",
+"ko": "1870년 빅토르 위고가 묵었던 호텔의 레스토랑. 벽난로가 있고 프랑스·국제 요리를 냅니다.",
+"ok": 1
+},
+"vianden-fine_dining-2": {
+"en": "Inn in the castle's former forge below Vianden Castle, known for charcoal-grilled meat; closed Tuesdays.",
+"ko": "비앙덴 성 아래 옛 대장간 건물의 오베르주. 숯불구이 요리로 알려졌고 화요일은 쉽니다.",
+"ok": 1
+},
+"vicenza-fine_dining-1": {
+"del": "Trattoria Tre Visi: Contrà Porti address unconfirmed, only one old review"
+},
+"vicenza-fine_dining-2": {
+"en": "Long-standing trattoria near Porta Castello serving baccalà, bigoli and Tyrolean dishes.",
+"ko": "포르타 카스텔로 근처의 오래된 트라토리아. 바칼라·비골리와 티롤 요리를 냅니다.",
+"ok": 1
+},
+"vicenza-fine_dining-3": {
+"del": "Al Pestello Vicenza: listed as permanently closed"
+},
+"vicenza-fine_dining-4": {
+"en": "Restaurant on the edge of Vicenza, praised for its polenta and pizzas; closed Mondays.",
+"ko": "비첸차 외곽의 레스토랑. 폴렌타와 피자가 호평을 받고 월요일은 쉽니다.",
 "ok": 1
 },
 "vienna-bakery-1": {
@@ -9188,6 +10117,37 @@
 "vik-fine_dining-3": {
 "ok": 1
 },
+"vilnius-bakery-1": {
+"en": "Small bakery-café on Pilies Street with homemade cakes, crêpes and honey cake.",
+"ko": "필리에스 거리의 작은 빵집 겸 카페. 직접 만든 케이크·크레페와 꿀 케이크를 냅니다.",
+"ok": 1
+},
+"vilnius-bakery-2": {
+"en": "Lithuania's first French bakery, opened in 1998 and still family-run; popular for croissants.",
+"ko": "1998년 문을 연 리투아니아 최초의 프랑스식 빵집. 가족이 운영하고 크루아상이 인기입니다.",
+"ok": 1
+},
+"vilnius-bakery-3": {
+"del": "Kmyninė: Liejyklos 6 branch unconfirmed (listings give Tilto g. 13)"
+},
+"vilnius-bakery-4": {
+"en": "Family-run Lithuanian bakery café known for hot kibinai pastries and šakotis tree cake.",
+"ko": "가족이 운영하는 리투아니아식 빵집 카페. 갓 구운 키비나이와 샤코티스 케이크로 알려졌습니다.",
+"ok": 1
+},
+"vilnius-bakery-5": {
+"del": "La Madeleine Vilnius: only a delivery listing, Užupio 13 unconfirmed"
+},
+"vilnius-cafe-1": {
+"en": "Algirdo branch of BREW, a leading Lithuanian specialty coffee name, serving filter and cold brew.",
+"ko": "리투아니아의 대표 스페셜티 커피 브랜드 BREW의 알기르도 지점. 필터·콜드브루를 냅니다.",
+"ok": 1
+},
+"vilnius-cafe-2": {
+"en": "Old Town specialty coffee café that helped shape Vilnius brunch culture; its cinnamon buns are praised.",
+"ko": "구시가의 스페셜티 커피 카페. 브런치 문화를 이끈 곳으로 시나몬번이 호평을 받습니다.",
+"ok": 1
+},
 "vilnius-fine_dining-1": {
 "en": "One-Michelin-star tasting-menu restaurant using Lithuanian produce; Wednesday to Saturday evenings.",
 "ko": "리투아니아 식재료로 테이스팅 메뉴를 내는 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.",
@@ -9198,6 +10158,11 @@
 "en": "One-Michelin-star restaurant in the old town with an open kitchen; Wednesday to Saturday evenings.",
 "ko": "구시가지의 미쉐린 1스타 레스토랑. 오픈 키친이 있고 수~토 저녁에 엽니다.",
 "mi": "star1",
+"ok": 1
+},
+"vilnius-korean-1": {
+"en": "Korean restaurant on Vokiečių street in the Old Town.",
+"ko": "구시가 보키에치우 거리의 한식당. 김치와 한식 요리를 냅니다.",
 "ok": 1
 },
 "windsor-bakery-1": {

@@ -55,21 +55,21 @@ export const placesITExtra: Place[] = [
   place('florence-cafe-4', 'florence', 'cafe', 'Melaleuca', 'Lungarno delle Grazie 18, 50122 Firenze, Italy', '아르노 강변에 위치한 호주인 운영 베이커리 겸 카페', 'Australian-run bakery and café overlooking the Arno river'),
 
   // —— venice ——
-  place('venice-fine_dining-1', 'venice', 'fine_dining', 'Antiche Carampane', 'Rio Terà de le Carampane 1911, 30125 Venezia', '정통 베네치아 해산물 요리.', 'Authentic Venetian seafood cuisine.'),
-  place('venice-fine_dining-2', 'venice', 'fine_dining', "All'Arco", 'San Polo 436, 30125 Venezia', '치케티(베네치아식 안주)를 내는 작은 바.', 'Small bar serving cicchetti (Venetian bar snacks).'),
+  place('venice-fine_dining-1', 'venice', 'fine_dining', 'Antiche Carampane', 'Rio Terà de le Carampane 1911, 30125 Venezia', '1983년부터 가족이 운영하는 산폴로의 해산물 트라토리아. 화~토요일만 열고 예약을 권합니다.', 'Family-run San Polo seafood trattoria since 1983; open Tuesday to Saturday, booking advised.'),
+  place('venice-fine_dining-2', 'venice', 'fine_dining', "All'Arco", 'San Polo 436, 30125 Venezia', '리알토 시장 근처의 서서 먹는 치케티 바. 바칼라 만테카토가 유명하고 오후 일찍 닫습니다.', 'Standing-only cicchetti bar near the Rialto market, famous for baccalà mantecato; closes early afternoon.'),
   place('venice-fine_dining-3', 'venice', 'fine_dining', 'Cantina Do Mori', 'Sestiere San Polo 429, 30125 Venezia', '1462년부터 이어졌다고 알려진 베네치아의 바카로(선술집).', 'Venetian bacaro said to date back to 1462.'),
-  place('venice-bakery-1', 'venice', 'bakery', 'Pasticceria Tonolo', 'Calle San Pantalon 3764, 30123 Venezia, Italy', '아침 식사용 빵과 페이스트리를 파는 베네치아의 빵집.', 'Venice bakery for breakfast pastries.'),
-  place('venice-bakery-2', 'venice', 'bakery', 'Pasticceria Toletta', 'Sestiere Dorsoduro 1192, 30123 Venezia, Italy', '베네치아 도르소두로 지구의 제과점.', 'Pastry shop in the Dorsoduro district of Venice.'),
-  place('venice-bakery-3', 'venice', 'bakery', 'Pasticceria Rizzardini', 'Campiello dei Meloni 1415, 30125 Venezia, Italy', '베네치아의 오래된 케이크 전문점.', 'Long-running cake shop in Venice.'),
-  place('venice-bakery-4', 'venice', 'bakery', 'Pasticceria Bonifacio', 'C. degli Albanesi 4237, 30122 Venezia, Italy', '베네치아의 케이크 전문점.', 'Cake shop in Venice.'),
-  place('venice-bakery-5', 'venice', 'bakery', 'Venice Bakery - Master Artisan', 'Calle de le Rasse 4537, 30122 Venezia, Italy', '베네치아의 아르티장 베이커리.', 'Artisan bakery in Venice.'),
-  place('venice-cafe-1', 'venice', 'cafe', 'Rosa Salva', 'San Marco 950, Calle Fiubera, 30124 Venezia, Italy', '1870년부터 이어온 베네치아의 가족 운영 카페 겸 제과점', 'Family-owned Venice café and pasticceria since 1870', { image: '/places/venice-cafe-1.jpg' }),
+  place('venice-bakery-1', 'venice', 'bakery', 'Pasticceria Tonolo', 'Calle San Pantalon 3764, 30123 Venezia, Italy', '1953년부터 이어온 도르소두로의 제과점. 포카차가 대표 메뉴이고 월요일은 쉽니다.', 'Dorsoduro pastry shop open since 1953, famous for its focaccia; closed Mondays.'),
+  place('venice-bakery-2', 'venice', 'bakery', 'Pasticceria Toletta', 'Ponte de le Maravegie, Dorsoduro 1192, 30123 Venezia, Italy', '아카데미아 다리 근처 도르소두로의 동네 제과점. 크루아상과 포카차 베네치아나를 냅니다.', 'Neighbourhood pastry shop in Dorsoduro near the Accademia bridge, with croissants and focaccia veneziana.'),
+  place('venice-bakery-3', 'venice', 'bakery', 'Pasticceria Rizzardini', 'Campiello dei Meloni 1415, 30125 Venezia, Italy', '1742년부터 영업해 온 베네치아에서 가장 오래된 제과점. 부솔라이 과자와 카니발 프리톨레로 유명합니다.', 'Venice\'s oldest working pastry shop, open since 1742, known for bussolai biscuits and Carnival fritole.'),
+  place('venice-bakery-4', 'venice', 'bakery', 'Pasticceria Bonifacio', 'C. degli Albanesi 4237, 30122 Venezia, Italy', '1935년 문을 연 카스텔로의 작은 제과점. 미니 피자와 마말루키 튀김 과자로 알려졌습니다.', 'Small Castello pastry shop opened in 1935, known for its mini pizzas and mammalucchi fritters.'),
+  place('venice-bakery-5', 'venice', 'bakery', 'Venice Bakery - Master Artisan', 'Calle de le Rasse 4537, 30122 Venezia, Italy', '산마르코 지역의 새 베이커리. 빵 굽는 모습을 보며 크루아상과 포카차 샌드위치를 먹을 수 있습니다.', 'Newer bakery in the San Marco area where you can watch the bakers; croissants and focaccia sandwiches.'),
+  place('venice-cafe-1', 'venice', 'cafe', 'Rosa Salva', 'San Marco 950, Calle Fiubera, 30124 Venezia, Italy', '1870년대부터 이어온 베네치아의 제과점 겸 카페. 카푸치노와 케이크로 알려졌습니다.', 'Venetian pastry shop and café dating from the 1870s, known for its cappuccino and cakes.', { image: '/places/venice-cafe-1.jpg' }),
   place('venice-cafe-2', 'venice', 'cafe', 'Caffè Florian', 'P.za San Marco 57, 30124 Venezia, Italy', '1720년 문을 연 산마르코 광장의 카페.', 'Café on St Mark’s Square, opened in 1720.', { image: '/places/venice-cafe-2.jpg' }),
-  place('venice-cafe-3', 'venice', 'cafe', 'Caffè del Doge', 'Rialto, Calle dei Cinque 609, 30125 Venezia, Italy', '리알토 지역의 베네치아 에스프레소 바.', 'Espresso bar in the Rialto area of Venice.'),
-  place('venice-cafe-4', 'venice', 'cafe', 'Caffè Cannaregio', 'Fondamenta dei Ormesini 2804, 30121 Venezia, Italy', '카나레조 지구의 베네치아 커피숍.', 'Coffee shop in the Cannaregio district of Venice.'),
-  place('venice-cafe-5', 'venice', 'cafe', 'Dolce Vita Venezia', 'Sestiere Dorsoduro 3956A, 30123 Venezia, Italy', '도르소두로 지구의 커피숍.', 'Coffee shop in the Dorsoduro district.'),
-  place('venice-korean-1', 'venice', 'korean', 'Bada Korean Restaurant', 'Via Sertorio Orsato 3M, 30175 Venezia', '베네치아의 한식당.', 'Korean restaurant in Venice.'),
-  place('venice-korean-2', 'venice', 'korean', 'Manna Korean Restaurant', 'Via Riccardo Zandonai 7, 30174 Venezia', '베네치아의 한식당.', 'Korean restaurant in Venice.'),
+  place('venice-cafe-3', 'venice', 'cafe', 'Caffè del Doge', 'Rialto, Calle dei Cinque 609, 30125 Venezia, Italy', '리알토 다리 근처, 원래 로스팅하던 자리에 있는 커피 바. 싱글 오리진 에스프레소를 냅니다.', 'Coffee bar near the Rialto Bridge on its original roasting site, serving single-origin espresso.'),
+  place('venice-cafe-4', 'venice', 'cafe', 'Torrefazione Cannaregio', 'Fondamenta dei Ormesini 2804, 30121 Venezia, Italy', '1930년부터 커피를 볶아 온 카나레조의 로스터리 바. 운하 옆 자리가 있습니다.', 'Cannaregio roastery bar roasting coffee since 1930, with seats by the canal.'),
+  place('venice-cafe-5', 'venice', 'cafe', 'Dolce Vita Venezia', 'Sestiere Dorsoduro 3956A, 30123 Venezia, Italy', '도르소두로의 바 겸 카페. 아침 페이스트리부터 저녁 칵테일까지 내고 피스타치오 크루아상이 인기입니다.', 'Dorsoduro bar-café serving morning pastries through evening cocktails; the pistachio croissant is a favourite.'),
+  place('venice-korean-1', 'venice', 'korean', 'Bada Korean Restaurant', 'Via Sertorio Orsato 3M, 30175 Venezia', '메스트레의 한식당. 해물파전과 김밥이 인기이고 주차장이 있습니다.', 'Korean restaurant in Mestre, popular for haemul pajeon and gimbap, with parking.'),
+  place('venice-korean-2', 'venice', 'korean', 'Manna Korean Restaurant', 'Via Riccardo Zandonai 7, 30174 Venezia', '메스트레에서 한국인 가족이 운영하는 한식당. 만두·치킨·된장찌개를 내고 예약을 권합니다.', 'Family-run Korean restaurant in Mestre serving mandu, fried chicken and doenjang jjigae; booking advised.'),
 
   // —— naples ——
   place('naples-fine_dining-1', 'naples', 'fine_dining', 'Palazzo Petrucci', 'Via Posillipo 16 b/c, 80123 Napoli', '포실리포 해안의 미쉐린 가이드 레스토랑.', 'Michelin Guide restaurant on the Posillipo waterfront.'),
@@ -98,33 +98,32 @@ export const placesITExtra: Place[] = [
 
   // —— verona ——
   place('verona-fine_dining-1', 'verona', 'fine_dining', 'Ristorante il Desco', 'Via Dietro San Sebastiano 7, 37121 Verona', '베로나의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.', 'One-Michelin-star restaurant in Verona; closed Sundays and Mondays.', { michelin: 'star1' }),
-  place('verona-fine_dining-2', 'verona', 'fine_dining', 'Osteria del Bugiardo', 'Corso Porta Borsari 17/A, 37121 Verona', '베로나 중심가의 오스테리아. 안티파스티와 치즈가 다양합니다.', 'Osteria in central Verona with a range of antipasti and cheese.'),
-  place('verona-fine_dining-3', 'verona', 'fine_dining', 'Antica Bottega del Vino', 'Vicolo Scudo di Francia 3, 37121 Verona', '16세기부터 이어온 역사적인 와인바, 1만 8천 병 이상의 와인 셀러 보유.', 'Historic wine bar dating to the 16th century, with a cellar of over 18,000 bottles.', { image: '/places/verona-fine_dining-3.jpg' }),
-  place('verona-bakery-1', 'verona', 'bakery', 'Elk Bakery', 'Corso Porta Borsari 15D, 37121 Verona, Italy', '홈메이드 브런치를 내는 베로나의 빵집 겸 카페.', 'Verona bakery café serving homemade brunch.'),
-  place('verona-bakery-2', 'verona', 'bakery', 'Il Tiramisù di Giulietta', 'Via Cappello 21, 37121 Verona, Italy', '줄리엣의 집 인근의 베로나 티라미수 전문점.', "Tiramisu specialist near Juliet's House in Verona."),
-  place('verona-bakery-3', 'verona', 'bakery', 'Pasticceria Roma', 'Via Cesena 14, 37135 Verona, Italy', '베로나의 제과점.', 'Pastry shop in Verona.'),
-  place('verona-bakery-4', 'verona', 'bakery', 'Pasticceria Flego', 'Corso Porta Borsari 9, 37121 Verona, Italy', '베로나 포르타 보르사리 거리의 케이크 전문점.', 'Cake shop on Corso Porta Borsari in Verona.'),
-  place('verona-bakery-5', 'verona', 'bakery', 'GLORIA Pasticceria', 'Via Albere 3, 37138 Verona, Italy', '베로나의 케이크 전문점.', 'Cake shop in Verona.'),
+  place('verona-fine_dining-2', 'verona', 'fine_dining', 'Osteria del Bugiardo', 'Corso Porta Borsari 17/A, 37121 Verona', '부글리오니 와이너리가 운영하는 오스테리아. 살루미·치즈 보드와 리파소 와인이 인기입니다.', 'Osteria run by the Buglioni winery, popular for salumi and cheese boards with a glass of Ripasso.'),
+  place('verona-fine_dining-3', 'verona', 'fine_dining', 'Antica Bottega del Vino', 'Vicolo Scudo di Francia 3, 37121 Verona', '에르베 광장 근처의 역사적인 와인 레스토랑. 4,500종이 넘는 와인 리스트와 아마로네 리소토로 유명합니다.', 'Historic wine restaurant near Piazza Erbe, famous for a list of over 4,500 labels and Amarone risotto.', { image: '/places/verona-fine_dining-3.jpg' }),
+  place('verona-bakery-1', 'verona', 'bakery', 'Elk Bakery', 'Via IV Novembre 1A, 37126 Verona, Italy', '홈메이드 브런치를 내는 베로나의 빵집 겸 카페.', 'Verona bakery café serving homemade brunch.'),
+  place('verona-bakery-2', 'verona', 'bakery', 'Il Tiramisù di Giulietta', 'Via Cappello 21, 37121 Verona, Italy', '줄리엣의 집 옆 티라미수 전문점. 가게 안에서 발코니가 보입니다.', 'Tiramisu shop next to Juliet\'s House, with a view of the balcony from inside.'),
+  place('verona-bakery-3', 'verona', 'bakery', 'Pasticceria Roma', 'Via Cesena 14, 37135 Verona, Italy', '전용 작업실에서 만든 글루텐 프리 디저트로 알려진 제과점. 수요일은 쉽니다.', 'Pastry shop known for gluten-free desserts made in a dedicated lab; closed Wednesdays.'),
+  place('verona-bakery-4', 'verona', 'bakery', 'Pasticceria Flego', 'Corso Porta Borsari 9, 37121 Verona, Italy', '1947년 이곳에서 시작한 가족 제과점. 나달린과 바치 디 줄리에타로 알려졌습니다.', 'Family pastry shop that started here in 1947, known for nadalin and Baci di Giulietta.'),
+  place('verona-bakery-5', 'verona', 'bakery', 'GLORIA Pasticceria', 'Via Albere 3, 37138 Verona, Italy', '포르타 팔리오 근처 기차역에서 가까운 제과점. 월요일은 쉽니다.', 'Pastry shop near Porta Palio, a few minutes from the train station; closed Mondays.'),
   place('verona-cafe-1', 'verona', 'cafe', 'Antica Pasticceria Piazza Isolo', 'Piazza Isolo, 37121 Verona, Italy', '코르네토가 있는 베로나의 아늑한 제과점.', 'Cosy Verona pastry shop with cornetti.'),
-  place('verona-cafe-2', 'verona', 'cafe', 'BASƎ - Verona by Garage Coffee Bros.', 'Vicolo San Silvestro 29, 37122 Verona, Italy', '베로나의 스페셜티 커피숍.', 'Specialty coffee shop in Verona.'),
-  place('verona-cafe-3', 'verona', 'cafe', 'Ammazza Caffé', 'Vicolo Volto Cittadella 12/A, 37122 Verona, Italy', '베로나의 스페셜티 커피숍.', 'Specialty coffee shop in Verona.'),
-  place('verona-cafe-4', 'verona', 'cafe', 'Bar at the Cathedral Cafe', 'Piazza Duomo 4, 37121 Verona, Italy', '베로나 두오모 광장의 카페.', 'Café on Piazza Duomo in Verona.'),
-  place('verona-cafe-5', 'verona', 'cafe', 'Caffè & Parole', 'Piazza Duomo 1A, 37121 Verona, Italy', '베로나 두오모 광장의 커피숍.', 'Coffee shop on Piazza Duomo in Verona.'),
+  place('verona-cafe-2', 'verona', 'cafe', 'BASƎ - Verona by Garage Coffee Bros.', 'Vicolo San Silvestro 29, 37122 Verona, Italy', '가라주 커피 브로스가 직접 볶는 플래그십 스페셜티 커피숍. 아레나에서 걸어서 5분입니다.', 'Garage Coffee Bros\' flagship specialty coffee shop, roasting its own beans, five minutes\' walk from the Arena.'),
+  place('verona-cafe-3', 'verona', 'cafe', 'Ammazza Caffé', 'Vicolo Volto Cittadella 12/A, 37122 Verona, Italy', '2022년 문을 연 스페셜티 커피 바. 직접 만든 토닉 워터로도 알려졌고 화요일은 쉽니다.', 'Specialty coffee bar opened in 2022, also known for its homemade tonic waters; closed Tuesdays.'),
+  place('verona-cafe-4', 'verona', 'cafe', 'Bar at the Cathedral Cafe', 'Piazza Duomo 4, 37121 Verona, Italy', '대성당 바로 옆의 카페 겸 제과점. 포도덩굴 그늘이 드리운 안뜰 자리가 있습니다.', 'Café and pastry shop right beside the cathedral, with a vine-shaded courtyard.'),
+  place('verona-cafe-5', 'verona', 'cafe', 'Caffè & Parole', 'Piazza Duomo 1A, 37121 Verona, Italy', '두오모 바로 옆, 책으로 꾸민 밝은 비스트로 카페. 매일 오전 8시~오후 6시.', 'Bright, book-lined bistro café right by the Duomo; open daily 8am to 6pm.'),
 
   // —— turin ——
-  place('turin-fine_dining-1', 'turin', 'fine_dining', 'Al Gatto Nero', 'Piazza Vittorio Veneto 2, 10123 Torino', '토리노의 전통 피에몬테 요리.', 'Traditional Piedmontese cuisine in Turin.'),
-  place('turin-fine_dining-2', 'turin', 'fine_dining', 'La Taverna dei Mercanti', 'Via Santa Chiara 13, 10122 Torino', '가족이 운영하는 정통 피에몬테 요리 레스토랑.', 'Family-run restaurant serving authentic Piedmontese cuisine.'),
-  place('turin-bakery-1', 'turin', 'bakery', 'Perino Vesco', 'Piazza San Carlo 191, 10123 Torino, Italy', '오븐 옆 좌석과 파니니가 있는 토리노의 빵집.', 'Turin bakery with oven-side seating and panini.'),
-  place('turin-bakery-2', 'turin', 'bakery', 'Piscitella', "Via dell'Arsenale 34, 10121 Torino, Italy", '토리노의 제과점.', 'Pastry shop in Turin.'),
-  place('turin-bakery-3', 'turin', 'bakery', 'Pasticceria Venier', 'Via Monte di Pietà 22, 10121 Torino, Italy', '토리노의 디저트 전문점.', 'Dessert shop in Turin.'),
-  place('turin-bakery-4', 'turin', 'bakery', 'Cabaret Pasticceria dal 1991', 'Via dei Mercanti 8b, 10122 Torino, Italy', '1991년부터 이어온 토리노의 제과점.', 'Turin pastry shop operating since 1991.'),
-  place('turin-bakery-5', 'turin', 'bakery', 'Sa Fancy', 'Via Po 27, 10124 Torino, Italy', '토리노 포 거리의 제과점.', 'Pastry shop on Via Po in Turin.'),
-  place('turin-cafe-1', 'turin', 'cafe', 'Roma già Talmone', 'Corso Vittorio Emanuele II 72, 10121 Torino, Italy', '페이스트리와 트라메치니가 있는 토리노의 오래된 카페.', 'Long-established Turin café with pastries and tramezzini.', { image: '/places/turin-cafe-1.jpg' }),
-  place('turin-cafe-2', 'turin', 'cafe', 'Caffé Al Bicerin', 'Piazza della Consolata 5, 10122 Torino, Italy', '비체린 음료가 탄생한 토리노의 역사적인 카페.', 'Historic Turin café where the bicerin drink was invented.', { image: '/places/turin-cafe-2.jpg' }),
-  place('turin-cafe-3', 'turin', 'cafe', 'Baratti & Milano', 'P.za Castello 29, 10121 Torino, Italy', '카스텔로 광장의 토리노 역사적 카페.', 'Historic café on Piazza Castello in Turin.', { image: '/places/turin-cafe-3.jpg' }),
-  place('turin-cafe-4', 'turin', 'cafe', 'Orso Laboratorio del Caffè', 'Via Claudio Luigi Berthollet 30h, 10125 Torino, Italy', '토리노의 에스프레소 바.', 'Espresso bar in Turin.'),
+  place('turin-fine_dining-1', 'turin', 'fine_dining', 'Al Gatto Nero', 'Corso Filippo Turati 14, 10128 Torino', '1920년대부터 바넬리 가족이 운영하는 레스토랑. 토스카나 풍미를 더한 피에몬테 요리를 내고 일요일은 쉽니다.', 'Restaurant run by the Vannelli family since the 1920s, serving Piedmontese food with Tuscan touches; closed Sundays.'),
+  place('turin-fine_dining-2', 'turin', 'fine_dining', 'La Taverna dei Mercanti', 'Via Santa Chiara 13, 10122 Torino', '구시가의 오래된 트라토리아. 수제 파스타와 피에몬테 요리를 내고 일요일은 쉽니다.', 'Long-running trattoria in the old quarter serving homemade pasta and Piedmontese dishes; closed Sundays.'),
+  place('turin-bakery-1', 'turin', 'bakery', 'Perino Vesco', 'Via Cavour 10, Torino, Italy', '안드레아 페리노의 사워도우 빵집. 이틀 발효한 파네토네로 유명합니다.', 'Andrea Perino\'s sourdough bakery, known for its two-day proved panettone.'),
+  place('turin-bakery-2', 'turin', 'bakery', 'Piscitella', "Via dell'Arsenale 34, 10121 Torino, Italy", '2022년 문을 연 캄파니아식 제과점. 튀긴 크루아상으로 알려졌습니다.', 'Campanian-style pastry shop opened in 2022, known for its fried croissant.'),
+  place('turin-bakery-3', 'turin', 'bakery', 'Pasticceria Venier', 'Via Monte di Pietà 22, 10121 Torino, Italy', '좌석이 거의 없는 작은 전통 제과점. 움베르티니와 자허 케이크로 알려졌습니다.', 'Tiny traditional pasticceria with barely any seats, known for its Umbertini and Sacher torte.'),
+  place('turin-bakery-4', 'turin', 'bakery', 'Cabaret Pasticceria dal 1991', 'Via dei Mercanti 8b, 10122 Torino, Italy', '2024년 보르고 데이 메르칸티에 문을 연 전통 제과점. 유리벽 너머로 작업실이 보입니다.', 'Traditional pastry shop opened in 2024 in the Borgo dei Mercanti, with a glass wall onto the workshop.'),
+  place('turin-cafe-1', 'turin', 'cafe', 'Roma già Talmone', 'Piazza Carlo Felice 36, 10123 Torino, Italy', '1936년 초콜릿 가게로 시작한 카페. 아침 식사로 유명합니다.', 'Café that began as a chocolate shop in 1936, popular for breakfast.', { image: '/places/turin-cafe-1.jpg' }),
+  place('turin-cafe-2', 'turin', 'cafe', 'Caffé Al Bicerin', 'Piazza della Consolata 5, 10122 Torino, Italy', '비체린 음료가 탄생한 역사적인 카페. 수요일은 쉽니다.', 'Historic café where the bicerin drink was born; closed Wednesdays.', { image: '/places/turin-cafe-2.jpg' }),
+  place('turin-cafe-3', 'turin', 'cafe', 'Baratti & Milano', 'P.za Castello 29, 10121 Torino, Italy', '1875년부터 갈레리아 수발피나에 자리한 역사적 카페 겸 초콜릿 가게. 월요일은 쉽니다.', 'Historic café and chocolatier in the Galleria Subalpina since 1875; closed Mondays.', { image: '/places/turin-cafe-3.jpg' }),
+  place('turin-cafe-4', 'turin', 'cafe', 'Orso Laboratorio del Caffè', 'Via Claudio Luigi Berthollet 30h, 10125 Torino, Italy', '2014년 문을 연 산살바리오의 스페셜티 커피 바. V60·콜드브루를 냅니다.', 'Specialty coffee bar in San Salvario, open since 2014, serving V60 and cold brew.'),
   place('turin-cafe-5', 'turin', 'cafe', 'ARTIFACT - Specialty Coffee', 'Via della Misericordia 3c, 10122 Torino, Italy', '토리노의 스페셜티 커피숍.', 'Specialty coffee shop in Turin.'),
-  place('turin-korean-1', 'turin', 'korean', 'Sonamu Korean Restaurant', 'Corso Peschiera 160, Torino', '토리노의 한식당.', 'Korean restaurant in Turin.'),
+  place('turin-korean-1', 'turin', 'korean', 'Sonamu Korean Restaurant', 'Corso Peschiera 160, 10138 Torino', '2023년 문을 연 한식당. 비빔밥과 한국식 바비큐를 내고 수요일은 쉽니다.', 'Korean restaurant opened in 2023, serving bibimbap and Korean barbecue; closed Wednesdays.'),
 
   // —— amalfi ——
   place('amalfi-fine_dining-1', 'amalfi', 'fine_dining', 'Da Gemma', 'Via Fra Gerardo Sasso 11, 84011 Amalfi', '아말피의 역사적인 시푸드 레스토랑.', 'Historic seafood restaurant in Amalfi.'),
@@ -284,8 +283,8 @@ export const placesITExtra: Place[] = [
   place('lecce-fine_dining-2', 'lecce', 'fine_dining', 'Doppiozero', 'Via Guglielmo Paladini 2, 73100 Lecce, Italy', '대성당 뒤 골목의 작은 비스트로.', 'Small bistro on a lane behind the cathedral.', { image: '/places/lecce-fine_dining-2.jpg' }),
 
   // —— tropea ——
-  place('tropea-bakery-1', 'tropea', 'bakery', 'Gelateria Tonino', 'Corso Vittorio Emanuele 52, 89861 Tropea, Italy', '붉은 양파·은두야 맛 젤라토가 있는 가게.', 'Gelateria with red-onion and ’nduja flavours.'),
-  place('tropea-fine_dining-1', 'tropea', 'fine_dining', 'Osteria del Pescatore', 'Via del Monte, 89861 Tropea, Italy', '트로페아 구시가의 해산물 오스테리아.', 'Seafood osteria in Tropea\'s old town.'),
+  place('tropea-bakery-1', 'tropea', 'bakery', 'Gelateria Tonino', 'Corso Vittorio Emanuele 52, 89861 Tropea, Italy', '붉은 양파·은두야 같은 독특한 맛의 젤라토로 알려진 가게.', 'Gelateria known for unusual flavours such as red onion and nduja alongside the classics.'),
+  place('tropea-fine_dining-1', 'tropea', 'fine_dining', 'Osteria del Pescatore', 'Via del Monte 7, 89861 Tropea, Italy', '트로페아 대성당 근처 구시가의 해산물 오스테리아. 황새치 요리가 대표적이고 양이 넉넉합니다.', 'Seafood osteria in the old town near the cathedral; swordfish is the speciality and portions are generous.'),
 
   // —— taormina ——
   place('taormina-cafe-1', 'taormina', 'cafe', 'Bam Bar', 'Via di Giovanni 45, 98039 Taormina', '타오르미나의 그라니타 가게.', 'Granita shop in Taormina.', { image: '/places/taormina-cafe-1.jpg' }),
@@ -323,10 +322,8 @@ export const placesITExtra: Place[] = [
   place('mantua-fine_dining-3', 'mantua', 'fine_dining', 'Osteria La Bottega', 'Via Filippo Corridoni 44, 46100 Mantova', '당나귀 스트라코토와 카푼세이 등 만토바 향토 요리를 내는 아늑한 오스테리아.', 'Cosy osteria serving Mantuan dishes such as stracotto d\'asino (braised donkey) and capunsei.'),
 
   // —— vicenza ——
-  place('vicenza-fine_dining-1', 'vicenza', 'fine_dining', 'Trattoria Tre Visi', 'Contrà Porti, 36100 Vicenza', '비골리·바칼라 등 가정식 베네토 요리를 내는 역사 깊은 식당.', 'Historic trattoria serving homemade Veneto dishes like bigoli and baccalà.'),
-  place('vicenza-fine_dining-2', 'vicenza', 'fine_dining', 'Trattoria Ponte delle Bele', "Contra' Ponte delle Bele 5, 36100 Vicenza, Italy", '구시가에서 바칼라 알라 비첸티나를 맛볼 수 있는 트라토리아.', 'Old-town trattoria for baccalà alla vicentina.'),
-  place('vicenza-fine_dining-3', 'vicenza', 'fine_dining', 'Al Pestello', "Contra' Santo Stefano 3, 36100 Vicenza, Italy", '1910년부터 이어진 식당, 저온 조리한 바칼라 알라 비첸티나.', 'Since 1910; slow-cooked baccalà alla vicentina.'),
-  place('vicenza-fine_dining-4', 'vicenza', 'fine_dining', 'Giorgio & Chiara', "Strada di Ca' Balbi 377, 36100 Vicenza, Italy", '바칼라 협회가 선정한 비첸차 식당.', 'Vicenza restaurant selected by the Baccalà Confraternity.'),
+  place('vicenza-fine_dining-2', 'vicenza', 'fine_dining', 'Trattoria Ponte delle Bele', "Contra' Ponte delle Bele 5, 36100 Vicenza, Italy", '포르타 카스텔로 근처의 오래된 트라토리아. 바칼라·비골리와 티롤 요리를 냅니다.', 'Long-standing trattoria near Porta Castello serving baccalà, bigoli and Tyrolean dishes.'),
+  place('vicenza-fine_dining-4', 'vicenza', 'fine_dining', 'Giorgio & Chiara', "Strada di Ca' Balbi 377, 36100 Vicenza, Italy", '비첸차 외곽의 레스토랑. 폴렌타와 피자가 호평을 받고 월요일은 쉽니다.', 'Restaurant on the edge of Vicenza, praised for its polenta and pizzas; closed Mondays.'),
 
   // —— ferrara ——
   place('ferrara-fine_dining-1', 'ferrara', 'fine_dining', 'Hostaria Savonarola', 'Piazza Girolamo Savonarola 18, 44121 Ferrara', '에스텐세 성 바로 앞, 호박 카펠라치의 가정식 트라토리아.', 'Family-style trattoria by the castle, known for pumpkin cappellacci.'),
@@ -337,8 +334,7 @@ export const placesITExtra: Place[] = [
   // —— urbino ——
   place('urbino-fine_dining-1', 'urbino', 'fine_dining', 'Osteria Km 0', 'Via Francesco Puccinotti 21, 61029 Urbino, Italy', '대성당 앞, 크레샤 스폴리아타와 지역 식재료 요리.', 'Facing the cathedral; crescia sfogliata and local produce.'),
   place('urbino-fine_dining-2', 'urbino', 'fine_dining', 'Ragno D\'Oro', 'Via Don Minzoni 2/4, 61029 Urbino', '성벽 밖 라파엘로 기념비 옆, 크레샤 스폴리아타 명소.', 'Just outside the walls by Raphael\'s monument; famed for crescia.'),
-  place('urbino-fine_dining-3', 'urbino', 'fine_dining', 'Il Girarrosto', 'Piazza San Francesco 3, 61029 Urbino, Italy', '크레샤와 구운 고기를 내는 우르비노의 오래된 식당.', 'Historic spot for crescia and grilled meats.'),
-  place('urbino-fine_dining-4', 'urbino', 'fine_dining', 'Il Cortegiano', 'Via Federico Veterani 1, 61029 Urbino, Italy', '대성당이 보이는 테라스의 레스토랑.', 'Restaurant with a terrace overlooking the cathedral.'),
+  place('urbino-fine_dining-4', 'urbino', 'fine_dining', 'Il Cortegiano', 'Via Francesco Puccinotti 13, 61029 Urbino, Italy', '15세기 저택에 자리한 바 겸 레스토랑. 대성당이 보이는 테라스가 있습니다.', 'Bar-restaurant in a 15th-century palazzo with a terrace facing the cathedral.'),
 
   // —— positano ——
   place('positano-fine_dining-1', 'positano', 'fine_dining', 'Da Vincenzo', 'Viale Pasitea 172/178, 84017 Positano', '절벽 위 가족 식당(1958년부터). 해산물 스칼라티엘리가 있습니다.', 'Cliffside family restaurant (since 1958) serving seafood scialatielli.'),
