@@ -3,72 +3,46 @@ import type { Place } from '../types'
 
 export const placesMKExtra: Place[] = [
   // —— skopje ——
-  place('skopje-fine_dining-1', 'skopje', 'fine_dining', 'Destan', 'Bulevar Partizanski odredi 35, Skopje', '1913년부터 케밥을 내는 구시장의 식당.', 'Old Bazaar restaurant serving kebabs since 1913.'),
-  place('skopje-fine_dining-2', 'skopje', 'fine_dining', 'Pivnica An', 'Kapan An, Old Bazaar, 1000 Skopje, North Macedonia', '오스만 시대 여관 건물의 구시장 식당. 무치칼리차와 굴라시가 있습니다.', 'Old Bazaar restaurant in an Ottoman-era inn, serving mućkalica and goulash.'),
-  place('skopje-fine_dining-3', 'skopje', 'fine_dining', 'Soul Kitchen - Macedonian Wine & Cuisine', 'Kej 13-ti Noemvri, Skopje', '바르다르 강변에서 전통 마케도니아 요리와 인터내셔널 퓨전을 선보이는 레스토랑.', 'Vardar riverside restaurant blending traditional Macedonian dishes with international fusion.'),
+  place('skopje-fine_dining-1', 'skopje', 'fine_dining', 'Destan', 'Salih Asim, Old Bazaar, Skopje 1000', '1913년부터 이어왔다고 알려진 구시장의 케밥 식당. 소·양고기 케바피와 솜운 빵을 냅니다.', 'Old Bazaar kebab house said to date from 1913, serving beef-and-lamb kebapi with somun bread.'),
+  place('skopje-fine_dining-2', 'skopje', 'fine_dining', 'Pivnica An', 'Kapan An, Old Bazaar, 1000 Skopje, North Macedonia', '15세기 여관 카판 안 건물의 레스토랑. 안뜰 테라스에서 마케도니아 요리를 냅니다.', 'Restaurant in the 15th-century Kapan An inn, serving Macedonian food in the courtyard.'),
+  place('skopje-fine_dining-3', 'skopje', 'fine_dining', 'Soul Kitchen - Macedonian Wine & Cuisine', 'Kej 13-ti Noemvri 8, Skopje', '바르다르 강변의 레스토랑. 현대적으로 해석한 마케도니아 요리와 마케도니아 와인을 냅니다.', 'Vardar riverside restaurant serving Macedonian favourites with modern twists and Macedonian wine.'),
 
-  place('skopje-bakery-1', 'skopje', 'bakery', 'Silbo Furna', 'Majakovski 2, Skopje', '24시간 여는 스코페의 부렉 빵집.', 'Skopje burek bakery open 24 hours.'),
-  place('skopje-bakery-2', 'skopje', 'bakery', 'Bakery La Delicious', 'Leninova 44, Skopje', '24시간 여는 빵집. 부렉과 페이스트리가 있습니다.', '24-hour bakery with burek and pastries.'),
-  place('skopje-bakery-4', 'skopje', 'bakery', 'Pan Pan Kapistec - Bakery & Specialty Coffee', 'Vasil Gjorgov 33, Skopje 1000', '빵과 스페셜티 커피를 함께 파는 카피슈테츠 지구의 가게.', 'Bakery and specialty coffee shop in the Kapištec neighbourhood.'),
-  place('skopje-bakery-5', 'skopje', 'bakery', 'Oriolo Skopje', 'Naum Naumovski Borche 40, Skopje', '나움 나우모프스키 보르체 거리의 빵집.', 'Bakery on Naum Naumovski Borče street.'),
+  place('skopje-bakery-2', 'skopje', 'bakery', 'Bakery La Delicious', 'Leninova 44, Skopje', '시내 중심과 공원 근처의 심야 빵집. 부렉과 피자 바니츠카가 인기입니다.', 'Late-night bakery near the centre and the park, popular for burek and pizza banitsa.'),
 
-  place('skopje-cafe-1', 'skopje', 'cafe', 'Cafe Bar Vinyl', 'Partizanski Odredi 14, Skopje', '시내 중심가와 데바르 말로 사이에 위치한 인더스트리얼 감성의 카페.', 'Industrial-feel café located between the city center and Debar Maalo.'),
-  place('skopje-cafe-2', 'skopje', 'cafe', 'The Dude Specialty Coffee', 'Apostle Guslarot 16, Skopje', '아포스톨 구슬라롯 거리의 스페셜티 커피숍.', 'Specialty coffee shop on Apostol Guslarot street.'),
-  place('skopje-cafe-3', 'skopje', 'cafe', 'Central Park', 'Gradski Park, Skopje 1000', '시립 공원 안의 카페.', 'Café inside the City Park.'),
-  place('skopje-cafe-4', 'skopje', 'cafe', 'Central Coffee', 'Mitropolit Teodosij Gologanov 96, Skopje', '미트로폴리트 테오도시 골로가노프 거리의 커피숍.', 'Coffee shop on Mitropolit Teodosij Gologanov street.'),
-  place('skopje-cafe-5', 'skopje', 'cafe', 'Café Metanoja', 'Maksim Gorki 19, Skopje', '막심 고르키 거리의 아늑한 카페.', 'Cozy café on Maksim Gorki street.'),
+  place('skopje-cafe-1', 'skopje', 'cafe', 'Cafe Bar Vinyl', 'Partizanski Odredi 14, Skopje', '시내와 데바르 말로 사이의 인더스트리얼 분위기 카페. DJ 공연이 열립니다.', 'Industrial-style café between the centre and Debar Maalo, with DJ nights.'),
+  place('skopje-cafe-2', 'skopje', 'cafe', 'The Dude Specialty Coffee', 'Apostle Guslarot 16, Skopje', '필터 커피가 중심인 스페셜티 커피숍.', 'Specialty coffee shop centred on filter coffee.'),
+  place('skopje-cafe-3', 'skopje', 'cafe', 'Central Park', 'Gradski Park, Skopje 1000', '시립 공원 안의 카페. 실내외 자리에서 커피·디저트·칵테일을 냅니다.', 'Café inside the City Park with indoor and outdoor seating, serving coffee, desserts and cocktails.'),
+  place('skopje-cafe-5', 'skopje', 'cafe', 'Café Metanoja', 'Maksim Gorki 19, Skopje', '책으로 둘러싸인 문학 카페. 문화 행사가 열리고 일요일은 쉽니다.', 'Book-lined literary café hosting cultural events; closed Sundays.'),
 
   // —— ohrid ——
-  place('ohrid-fine_dining-1', 'ohrid', 'fine_dining', 'Gladiator', 'Braka Miladinovi br. 14, Ohrid', '고대 원형극장 옆, 450년 된 전통 가옥에서 즐기는 마케도니아 가정식.', 'Macedonian home cooking served in a 450-year-old traditional house beside the ancient amphitheatre.'),
-  place('ohrid-fine_dining-2', 'ohrid', 'fine_dining', 'Plate Bistro', 'Dimitar Vlahov 20, Ohrid', '디미타르 블라호프 거리의 비스트로.', 'Bistro on Dimitar Vlahov street.'),
-  place('ohrid-fine_dining-3', 'ohrid', 'fine_dining', 'Restaurant Kajche', 'Ilindenska 22, Ohrid', '오흐리드 호수 생선을 요리하는 식당.', 'Fish restaurant cooking Lake Ohrid catch.'),
-  place('ohrid-fine_dining-4', 'ohrid', 'fine_dining', 'The Lion Ohrid', 'Kej Makedonija 81, Ohrid', '오흐리드 호숫가 산책로의 레스토랑.', 'Restaurant on Ohrid’s lakeside promenade.'),
-  place('ohrid-fine_dining-5', 'ohrid', 'fine_dining', 'Frogche', 'Dimitar Vlahov 44/4, Ohrid', '디미타르 블라호프 거리의 레스토랑.', 'Restaurant on Dimitar Vlahov street.'),
+  place('ohrid-fine_dining-1', 'ohrid', 'fine_dining', 'Gladiator', 'Braka Miladinovi br. 14, Ohrid', '고대 원형극장 옆의 가족 운영 식당. 위층 테라스에서 극장이 내려다보입니다.', 'Family-run restaurant beside the ancient amphitheatre, with an upstairs terrace overlooking it.'),
+  place('ohrid-fine_dining-3', 'ohrid', 'fine_dining', 'Restaurant Kajche', 'Ilindenska 22, Ohrid', '호숫가의 긴 테라스가 있는 레스토랑. 발칸식 아침 식사도 냅니다.', 'Lakeshore restaurant with a long terrace, also serving Balkan breakfasts.'),
+  place('ohrid-fine_dining-4', 'ohrid', 'fine_dining', 'The Lion Ohrid', 'Kej Makedonija 81, Ohrid', '호숫가 산책로의 레스토랑. 샐러드·갈비·버거와 아침 식사가 호평을 받습니다.', 'Restaurant on the lakeside promenade, praised for salads, ribs, burgers and breakfast.'),
 
-  place('ohrid-bakery-1', 'ohrid', 'bakery', 'Ohrid City Bakery', 'Bulevar Turistichka 47, Ohrid, North Macedonia', '부렉을 파는 오흐리드의 오래된 빵집.', 'Long-established Ohrid bakery selling burek.'),
-  place('ohrid-bakery-2', 'ohrid', 'bakery', 'Wake & Bake', 'Lazo Trposki 5, Ohrid', '라조 트르포스키 거리의 베이커리.', 'Bakery on Lazo Trposki street.'),
-  place('ohrid-bakery-3', 'ohrid', 'bakery', 'Bakery Lihnida', 'Makedonski Prosvetiteli, 6000 Ohrid, North Macedonia', '마케돈스키 프로스비텔리 대로의 24시간 베이커리.', '24-hour bakery on Bulevar Makedonski Prosvetiteli.'),
-  place('ohrid-bakery-4', 'ohrid', 'bakery', 'Feniks Bakery', '7-mi Noemvri 106, Ohrid', '11월 7일 거리의 빵집.', 'Bakery on 7-mi Noemvri street.'),
-  place('ohrid-bakery-5', 'ohrid', 'bakery', 'Bakery Sofra', 'Goce Delchev 258, Ohrid', '고체 델체프 거리의 베이커리.', 'Bakery on Goce Delchev street.'),
+  place('ohrid-bakery-1', 'ohrid', 'bakery', 'Ohrid City Bakery', 'Bulevar Turistichka 47, Ohrid, North Macedonia', '관광지에서 조금 떨어진 30년 넘은 동네 빵집. 부렉이 대표 메뉴입니다.', 'Neighbourhood bakery of over 30 years, a little away from the tourist area, best known for burek.'),
+  place('ohrid-bakery-3', 'ohrid', 'bakery', 'Bakery Lihnida', 'Makedonski Prosvetiteli, 6000 Ohrid, North Macedonia', '시내 중심의 빵집. 부렉이 괜찮다는 평이 있습니다.', 'Central bakery whose burek gets good mentions.'),
 
-  place('ohrid-cafe-1', 'ohrid', 'cafe', 'Roastery (Artisan Coffee House)', 'Kosta Abrash 19, Ohrid, North Macedonia', '90년 전통의 가족 로스터리, 구시가 자갈길에서 즐기는 커피.', 'Family coffee roastery with a 90-year tradition, served on a cobblestone street in the Old Town.'),
-  place('ohrid-cafe-2', 'ohrid', 'cafe', 'Retro 45 Café', 'Kosta Abrash 45, Ohrid', '코스타 아브라쉬 거리의 레트로풍 카페.', 'Retro-styled café on Kosta Abrash street.'),
-  place('ohrid-cafe-3', 'ohrid', 'cafe', 'Dabov Specialty Coffee Ohrid', 'Kej Makedonija 58, Ohrid', '호숫가 산책로에 위치한 불가리아 로스터리 다보브의 오흐리드 지점.', 'Ohrid outpost of Bulgarian specialty roastery Dabov, on the lakeside promenade.'),
-  place('ohrid-cafe-4', 'ohrid', 'cafe', 'Fort Cafe - Samoilova Tvrdina Ohrid', 'Kuzman Kapidan 94A, Ohrid', '사모일 요새 옆에 위치한 전망 좋은 카페.', 'Café with great views next to Samuel\'s Fortress.'),
-  place('ohrid-cafe-5', 'ohrid', 'cafe', 'Cafe Galerija', 'St Clement of Ohrid 118, Ohrid', '성 클레멘트 거리의 커피숍.', 'Coffee shop on St Clement of Ohrid street.'),
+  place('ohrid-cafe-1', 'ohrid', 'cafe', 'Roastery (Artisan Coffee House)', 'Kosta Abrash 19, Ohrid, North Macedonia', '호숫가 구시가 한가운데의 스페셜티 커피 로스터리 카페. 갓 볶은 원두를 씁니다.', 'Specialty coffee roastery café in the heart of the lakeside old town, using freshly roasted beans.'),
+  place('ohrid-cafe-2', 'ohrid', 'cafe', 'Retro 45 Café', 'Kosta Abrash 45, Ohrid', '코스타 아브라시 거리의 카페. 커피·차와 샌드위치, 디저트를 냅니다.', 'Café on Kosta Abrash street with coffee, tea, sandwiches and desserts.'),
+  place('ohrid-cafe-4', 'ohrid', 'cafe', 'Fort Cafe - Samoilova Tvrdina Ohrid', 'Kuzman Kapidan 94A, Ohrid', '사무일 요새 바로 옆의 카페. 골동품으로 꾸몄고 호수와 시내가 내려다보입니다.', 'Café right beside Samuel\'s Fortress, decorated with antiques, with views over the lake and town.'),
 
   // —— bitola ——
-  place('bitola-fine_dining-1', 'bitola', 'fine_dining', 'Gradska Kefeana', 'Marshal Tito 85, 7000 Bitola, North Macedonia', '비톨라 중심 보행자거리의 고급 레스토랑, 현지에서는 "호텔 에피날"로도 불림.', 'Upscale restaurant on Bitola\'s pedestrian main street, locally known as "Hotel Epinal".'),
-  place('bitola-fine_dining-2', 'bitola', 'fine_dining', 'Restoran Adriatik', 'Kumrovec b.b., Bukovski Livadi, 7000 Bitola, North Macedonia', '일코 스토야노프스키 거리의 레스토랑.', 'Restaurant on Ilco Stojanovski street.'),
+  place('bitola-fine_dining-1', 'bitola', 'fine_dining', 'Gradska Kefeana', 'Marshal Tito 85, 7000 Bitola, North Macedonia', '시로크 소칵 보행자 거리의 레스토랑. 에피날 호텔 레스토랑으로도 불립니다.', 'Restaurant on the Širok Sokak pedestrian street, also known as the Epinal restaurant.'),
+  place('bitola-fine_dining-2', 'bitola', 'fine_dining', 'Restoran Adriatik', 'Kumrovec b.b., Bukovski Livadi, 7000 Bitola, North Macedonia', '부코프스키 리바디 지구의 레스토랑. 오븐 구이 갈비와 수제 소시지가 인기입니다.', 'Restaurant in the Bukovski Livadi area, popular for oven-baked ribs and homemade sausages.'),
   place('bitola-fine_dining-3', 'bitola', 'fine_dining', 'Lounge Bar Manaki', 'Roosevelt 17, Bitola', '루스벨트 거리의 라운지 바 겸 레스토랑.', 'Lounge bar and restaurant on Roosevelt street.'),
-  place('bitola-fine_dining-4', 'bitola', 'fine_dining', 'Meze Bar Dionis', 'Vlatko Milenkoski 7, Bitola', '블라트코 밀렌콥스키 거리의 발칸 메제(전채) 전문 레스토랑.', 'Restaurant on Vlatko Milenkoski street specializing in Balkan meze.'),
-  place('bitola-fine_dining-5', 'bitola', 'fine_dining', 'Gostilnica Sokak', 'Kopanki 6, Bitola', '코판키 거리의 전통 가정식 레스토랑.', 'Traditional home-style restaurant on Kopanki street.'),
+  place('bitola-fine_dining-4', 'bitola', 'fine_dining', 'Meze Bar Dionis', 'Vlatko Milenkoski 7, Bitola', '가족이 운영하는 메제 바. 그릴 돼지갈비와 차지키가 인기이고 일요일은 쉽니다.', 'Family-run meze bar popular for grilled pork ribs and tzatziki; closed Sundays.'),
 
-  place('bitola-bakery-1', 'bitola', 'bakery', 'Bakery Boulevard', 'Bulevar 1vi Maj, Bitola', '24시간 여는 비톨라의 빵집.', 'Bitola bakery open 24 hours.'),
-  place('bitola-bakery-2', 'bitola', 'bakery', 'Fresh', 'Petar Petrovikj Njegosh 13, Bitola', '페타르 페트로비치 네고쉬 거리의 베이커리.', 'Bakery on Petar Petrovikj Njegosh street.'),
-  place('bitola-bakery-3', 'bitola', 'bakery', 'Vekna', '1-vi Maj Boulevard 4, Bitola', '5월 1일 대로의 빵집.', 'Bakery on 1-vi Maj Boulevard.'),
-  place('bitola-bakery-4', 'bitola', 'bakery', 'Marieli Cakes', 'Marsal Tito 88, Bitola', '마르샬 티토 거리의 케이크 전문점.', 'Cake shop on Marshal Tito street.'),
-  place('bitola-bakery-5', 'bitola', 'bakery', 'Bakery Alexander', 'Karposh 16, Bitola', '카르포시 거리의 빵집.', 'Bakery on Karposh street.'),
+  place('bitola-bakery-1', 'bitola', 'bakery', 'Bakery Boulevard', '1-vi Maj Boulevard b.b., Bitola', '1일 5월 대로의 빵집.', 'Bakery on 1st May Boulevard.'),
 
-  place('bitola-cafe-1', 'bitola', 'cafe', 'Cafe Pajton', 'Shirok Sokak 87, Bitola, North Macedonia', '시로크 소카크 거리의 카페. 에스프레소를 마시며 거리를 구경하기 좋습니다.', 'Café on Širok Sokak, good for espresso and people-watching.'),
-  place('bitola-cafe-2', 'bitola', 'cafe', 'Coffee Aero', 'Shirok Sokak 143, Bitola', '시로크 소카크 거리의 카페.', 'Café on Širok Sokak.'),
-  place('bitola-cafe-3', 'bitola', 'cafe', 'Portal Cafe 2', 'Shirok Sokak 67, Bitola', '시로크 소카크 거리의 카페.', 'Café on Širok Sokak.'),
-  place('bitola-cafe-4', 'bitola', 'cafe', 'Deus', 'Shirok Sokak 94, Bitola', '시로크 소칵 거리의 카페.', 'Café on Shirok Sokak street.'),
-  place('bitola-cafe-5', 'bitola', 'cafe', 'GT Caffe', 'Marsal Tito 55, Bitola', '마르샬 티토 거리의 카페.', 'Café on Marshal Tito street.'),
+  place('bitola-cafe-1', 'bitola', 'cafe', 'Cafe Pajton', 'Shirok Sokak 87, Bitola, North Macedonia', '시로크 소칵 거리의 카페. 에스프레소를 마시며 거리 구경하기 좋고 브라우니가 추천됩니다.', 'Café on Širok Sokak, good for espresso and people-watching; the brownie is recommended.'),
+  place('bitola-cafe-2', 'bitola', 'cafe', 'Coffee Aero', 'Shirok Sokak 143, Bitola', '시로크 소칵 거리의 카페.', 'Café on Širok Sokak.'),
+  place('bitola-cafe-5', 'bitola', 'cafe', 'GT Caffe', 'Marsal Tito 55, Bitola', '마르샬 티토 거리의 카페 겸 제과점. 케이크가 비톨라에서 손꼽힌다는 평이 있습니다.', 'Café and patisserie on Maršal Tito street; reviewers rate its cakes among Bitola\'s best.'),
 
   // —— tetovo ——
-  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 'Marshal Tito, Brvenica 1216, North Macedonia', '그릴 요리와 버섯 요리를 내는 테토보의 레스토랑.', 'Tetovo restaurant serving grilled and mushroom dishes.', { image: '/places/tetovo-fine_dining-1.jpg' }),
-  place('tetovo-fine_dining-2', 'tetovo', 'fine_dining', 'Restoran Belamia', 'Goce Delchev 108, Tetovo', '고체 델체프 거리의 레스토랑.', 'Restaurant on Goce Delchev street.'),
+  place('tetovo-fine_dining-1', 'tetovo', 'fine_dining', 'Restaurant Bakal', 'Marshal Tito 44, Brvenica 1216, North Macedonia', '테토보 남쪽 브르베니차 마을의 레스토랑. 지역·국제 요리를 내고 넓은 정원 테라스가 있습니다.', 'Restaurant in Brvenica village south of Tetovo, with local and international dishes and a large garden terrace.', { image: '/places/tetovo-fine_dining-1.jpg' }),
+  place('tetovo-fine_dining-2', 'tetovo', 'fine_dining', 'Restoran Belamia', 'Goce Delchev 108, Tetovo', '오래된 레스토랑. 수제 소시지와 마케도니아·세르비아 요리가 대표입니다.', 'Long-established restaurant known for homemade sausages and Macedonian and Serbian classics.'),
   place('tetovo-fine_dining-3', 'tetovo', 'fine_dining', 'Restaurant Dubrovnik', 'Jane Sandanski 116, Tetovo', '야네 산단스키 거리의 레스토랑.', 'Restaurant on Jane Sandanski street.'),
-  place('tetovo-fine_dining-4', 'tetovo', 'fine_dining', 'Bocata', 'Marshal Tito 46, Tetovo', '마르샬 티토 거리의 레스토랑.', 'Restaurant on Marshal Tito street.'),
-  place('tetovo-fine_dining-5', 'tetovo', 'fine_dining', 'Paradox', 'Ljubo Bozinovski - Pish 101-97, Tetovo', '류보 보지놉스키 거리의 레스토랑.', 'Restaurant on Ljubo Bozinovski street.'),
 
-  place('tetovo-bakery-1', 'tetovo', 'bakery', 'Bakal Bakery', 'Иво Лола Рибар 137, 1200 Tetovo, North Macedonia', '테토보의 평이 좋은 베이커리', 'Well-reviewed bakery in Tetovo'),
-  place('tetovo-bakery-2', 'tetovo', 'bakery', 'Burek Adriana', 'Jane Sandanski 62, Tetovo', '야네 산단스키 거리의 부렉 전문점.', 'Burek specialist on Jane Sandanski street.'),
-  place('tetovo-bakery-3', 'tetovo', 'bakery', 'Garden Juice & Cake', 'Dervish Cara 35, Tetovo', '데르비시 차라 거리의 빵집 겸 주스 바.', 'Bakery and juice bar on Dervish Cara street.'),
-  place('tetovo-bakery-4', 'tetovo', 'bakery', 'Pekon Bakery 2', 'Jane Sandanski 57, Tetovo', '야네 산단스키 거리의 베이커리.', 'Bakery on Jane Sandanski street.'),
 
-  place('tetovo-cafe-1', 'tetovo', 'cafe', 'Simple Cafe', 'Boris Kidrich 29, Tetovo', '보리스 키드리치 거리의 카페.', 'Café on Boris Kidrič street.'),
-  place('tetovo-cafe-2', 'tetovo', 'cafe', 'Maestro Cafe', 'ul 133 bb, Tetovo', '테토보의 카페.', 'Café in Tetovo.'),
-  place('tetovo-cafe-3', 'tetovo', 'cafe', 'Lokal Coffee Shop', 'JNA 85, Tetovo', 'JNA 거리의 커피숍.', 'Coffee shop on JNA street.'),
+  place('tetovo-cafe-3', 'tetovo', 'cafe', 'Lokal Coffee Shop', 'JNA 85, Tetovo', '테토보의 커피숍. 디카페인과 식물성 우유가 있습니다.', 'Tetovo coffee shop with decaf and plant-based milk.'),
 ]

@@ -180,6 +180,17 @@
 "ko": "트룰리 마을의 오래된 레스토랑. 와인 스펙테이터 그랜드 어워드를 받은 방대한 와인 리스트가 있습니다.",
 "ok": 1
 },
+"alesund-fine_dining-1": {
+"en": "Modern bistro in a 1904 waterfront warehouse using Sunnmøre produce, with summer dining on a floating barge.",
+"ko": "1904년 부두 창고 건물의 모던 비스트로. 순뫼레 지역 식재료를 쓰고 여름엔 떠 있는 바지선에서 식사합니다.",
+"name": "Apotekergata No. 5",
+"ok": 1
+},
+"alesund-fine_dining-2": {
+"en": "One of Europe's largest bacalao (clipfish) restaurants, on a historic quay.",
+"ko": "유럽에서 손꼽히는 규모의 바칼라오(염장대구) 레스토랑. 역사적인 부두에 있습니다.",
+"ok": 1
+},
 "alghero-bakery-1": {
 "addr": "Via Sassari 35b, 07041 Alghero",
 "en": "Bar and pastry shop in central Alghero.",
@@ -1045,6 +1056,53 @@
 "bergamo-fine_dining-1": {
 "ok": 1
 },
+"bergen-bakery-1": {
+"en": "Marken branch of the organic bakery chain founded in Bergen in 1995, in a former dairy.",
+"ko": "1995년 베르겐에서 시작한 유기농 빵집 체인의 마르켄 지점. 옛 낙농장 건물에 있습니다.",
+"ok": 1
+},
+"bergen-bakery-2": {
+"del": "OMNI Kaiser Patisserie: only a job ad, Olav Kyrres gate 31 address unconfirmed"
+},
+"bergen-bakery-3": {
+"en": "Owner-run shop making homemade donuts, with flavours like raspberry, Oreo and lemon curd.",
+"ko": "주인이 직접 굽는 수제 도넛 가게. 라즈베리·오레오·레몬 커드 맛이 있습니다.",
+"ok": 1
+},
+"bergen-bakery-4": {
+"en": "Branch of the organic bakery chain near the Fløyen funicular, with build-your-own sandwiches.",
+"ko": "플뢰위엔 케이블카 근처의 유기농 빵집 체인 지점. 샌드위치를 골라 만들 수 있습니다.",
+"name": "Godt Brød Fløyen",
+"ok": 1
+},
+"bergen-bakery-5": {
+"en": "Klosteret branch of a Bergen bakery chain dating from 1893, famous for its skillingsbolle cinnamon bun.",
+"ko": "1893년부터 이어온 베르겐 빵집 체인의 클로스테레 지점. 계피빵 스킬링스볼레가 대표입니다.",
+"ok": 1
+},
+"bergen-cafe-1": {
+"en": "Bergen's smallest coffee shop, started by students in the 1990s, in a lane just above the Fløyen funicular.",
+"ko": "1990년대 대학생들이 시작한 베르겐에서 가장 작은 커피숍. 플뢰위엔 케이블카 바로 위 골목에 있습니다.",
+"ok": 1
+},
+"bergen-cafe-2": {
+"en": "Café that brought the cappuccino to Bergen some 35 years ago, also hosting gigs and club nights.",
+"ko": "약 35년 전 베르겐에 카푸치노를 처음 들여온 카페. 공연·클럽 행사가 열립니다.",
+"ok": 1
+},
+"bergen-cafe-3": {
+"en": "Small coffee shop opened in 2011 in the university district, serving V60 filter coffee.",
+"ko": "2011년 대학가에 문을 연 작은 커피숍. V60 필터 커피를 냅니다.",
+"ok": 1
+},
+"bergen-fine_dining-1": {
+"en": "Restaurant in the 1876 meat-market building, serving a five-course menu rooted in Norwegian tradition.",
+"ko": "1876년 지은 옛 육류 시장 건물의 레스토랑. 노르웨이 전통에 뿌리를 둔 5코스 메뉴를 냅니다.",
+"ok": 1
+},
+"bergen-fine_dining-2": {
+"del": "Bare Vestland reported permanently closed"
+},
 "bergen-fine_dining-3": {
 "en": "One-Michelin-star restaurant in the KODE art museum building; Tuesday to Saturday evenings.",
 "ko": "KODE 미술관 건물 안의 미쉐린 1스타 레스토랑. 화~토 저녁에 엽니다.",
@@ -1056,6 +1114,11 @@
 "en": "Two-Michelin-star restaurant cooking with western Norwegian produce (promoted in 2026); Wednesday to Saturday evenings.",
 "ko": "서부 노르웨이 식재료로 요리하는 미쉐린 2스타 레스토랑(2026년 승급). 수~토 저녁에 엽니다.",
 "mi": "star2",
+"ok": 1
+},
+"bergen-korean-1": {
+"en": "Korean barbecue restaurant opened in 2020 after starting as a food truck; dakgangjeong is a favourite.",
+"ko": "2020년 문을 연 한국식 바비큐 식당. 푸드트럭으로 시작했고 닭강정이 인기입니다.",
 "ok": 1
 },
 "berlin-bakery-1": {
@@ -1290,6 +1353,68 @@
 },
 "bilbao-korean-1": {
 "del": 1
+},
+"bitola-bakery-1": {
+"addr": "1-vi Maj Boulevard b.b., Bitola",
+"en": "Bakery on 1st May Boulevard.",
+"ko": "1일 5월 대로의 빵집.",
+"ok": 1
+},
+"bitola-bakery-2": {
+"del": "Fresh bakery Bitola not found in any source"
+},
+"bitola-bakery-3": {
+"del": "Vekna bakery Bitola not found in any source"
+},
+"bitola-bakery-4": {
+"del": "Marieli Cakes Bitola not found in any source"
+},
+"bitola-bakery-5": {
+"del": "Bakery Alexander Bitola not found in any source"
+},
+"bitola-cafe-1": {
+"en": "Café on Širok Sokak, good for espresso and people-watching; the brownie is recommended.",
+"ko": "시로크 소칵 거리의 카페. 에스프레소를 마시며 거리 구경하기 좋고 브라우니가 추천됩니다.",
+"ok": 1
+},
+"bitola-cafe-2": {
+"en": "Café on Širok Sokak.",
+"ko": "시로크 소칵 거리의 카페.",
+"ok": 1
+},
+"bitola-cafe-3": {
+"del": "Portal Cafe 2 at Shirok Sokak 67 not found in any source"
+},
+"bitola-cafe-4": {
+"del": "Deus at Shirok Sokak 94 not found (that address is listed for Slatkarnica GT)"
+},
+"bitola-cafe-5": {
+"en": "Café and patisserie on Maršal Tito street; reviewers rate its cakes among Bitola's best.",
+"ko": "마르샬 티토 거리의 카페 겸 제과점. 케이크가 비톨라에서 손꼽힌다는 평이 있습니다.",
+"ok": 1
+},
+"bitola-fine_dining-1": {
+"en": "Restaurant on the Širok Sokak pedestrian street, also known as the Epinal restaurant.",
+"ko": "시로크 소칵 보행자 거리의 레스토랑. 에피날 호텔 레스토랑으로도 불립니다.",
+"ok": 1
+},
+"bitola-fine_dining-2": {
+"en": "Restaurant in the Bukovski Livadi area, popular for oven-baked ribs and homemade sausages.",
+"ko": "부코프스키 리바디 지구의 레스토랑. 오븐 구이 갈비와 수제 소시지가 인기입니다.",
+"ok": 1
+},
+"bitola-fine_dining-3": {
+"en": "Lounge bar and restaurant on Roosevelt street.",
+"ko": "루스벨트 거리의 라운지 바 겸 레스토랑.",
+"ok": 1
+},
+"bitola-fine_dining-4": {
+"en": "Family-run meze bar popular for grilled pork ribs and tzatziki; closed Sundays.",
+"ko": "가족이 운영하는 메제 바. 그릴 돼지갈비와 차지키가 인기이고 일요일은 쉽니다.",
+"ok": 1
+},
+"bitola-fine_dining-5": {
+"del": "Gostilnica Sokak at Kopanki 6 not found in any source"
 },
 "bled-fine_dining-1": {
 "en": "Restaurant in the Grand Hotel Toplice, listed in the Michelin Guide; closed Sundays and Mondays.",
@@ -2433,6 +2558,44 @@
 "debrecen-korean-2": {
 "del": "not found"
 },
+"delft-bakery-1": {
+"del": "Bakker Suikerbuik Delft not found in any source"
+},
+"delft-bakery-2": {
+"en": "Takeaway bakery in the former inn where the Prince of Orange's assassin stayed in 1584; cinnamon rolls and marzipan are popular.",
+"ko": "1584년 오라녜 공 암살범이 묵었던 여관 자리의 빵집. 시나몬롤과 마지판이 인기이고 포장 전문입니다.",
+"ok": 1
+},
+"delft-bakery-3": {
+"en": "French-run bakery with French bread, tartlets and quiche.",
+"ko": "프랑스인 주인이 운영하는 빵집. 프랑스 빵과 타르트, 키슈를 냅니다.",
+"ok": 1
+},
+"delft-bakery-4": {
+"en": "Bakehouse in central Delft, baking pastries every morning.",
+"ko": "델프트 중심의 베이크하우스. 매일 아침 페이스트리를 굽습니다.",
+"ok": 1
+},
+"delft-bakery-5": {
+"en": "English-style bakery on a hidden lane with scones and pies; open Thursday to Saturday only.",
+"ko": "숨은 골목의 영국식 빵집. 스콘과 파이를 내고 목~토요일만 엽니다.",
+"ok": 1
+},
+"delft-cafe-1": {
+"en": "Coffee bar popular for specialty coffee and breakfast; busy at weekend brunch.",
+"ko": "스페셜티 커피와 아침 식사로 인기인 커피 바. 주말 브런치는 붐빕니다.",
+"ok": 1
+},
+"delft-cafe-2": {
+"en": "Café-restaurant in the old weigh house on the Markt, with Dutch classics and a terrace.",
+"ko": "마르크트 광장의 옛 계량소 건물 카페 겸 레스토랑. 네덜란드 요리와 테라스가 있습니다.",
+"ok": 1
+},
+"delft-cafe-3": {
+"en": "Coffee, tea and chocolate shop with a tasting room; voted best coffee shop in Delft and South Holland in 2020.",
+"ko": "커피·차·초콜릿 가게 겸 시음 카페. 2020년 델프트·남홀란트 최고의 커피숍에 뽑혔습니다.",
+"ok": 1
+},
 "delft-fine_dining-1": {
 "addr": "Houttuinen 2, 2611 DX Delft",
 "en": "Two-Michelin-star restaurant in Delft (promoted in 2026).",
@@ -2870,6 +3033,18 @@
 "addr": "Piazza Castello 10, 44121 Ferrara",
 "ok": 1
 },
+"flam-fine_dining-1": {
+"addr": "A-Feltvegen 19, 5743 Flåm",
+"en": "Viking-style brewpub with a 9-metre fireplace; the signature plank pairs five dishes with five beers.",
+"ko": "9m 벽난로가 있는 바이킹풍 양조 펍. 다섯 가지 요리와 맥주를 짝지은 플레이트가 대표입니다.",
+"ok": 1
+},
+"flam-fine_dining-2": {
+"addr": "Nedre Fretheim 7, Fretheim Hotel, 5743 Flåm",
+"en": "Restaurant on the second floor of the Fretheim Hotel with fjord views and a seasonal menu.",
+"ko": "프레트하임 호텔 2층의 레스토랑. 피오르 전망이 있고 메뉴가 계절마다 바뀝니다.",
+"ok": 1
+},
 "florence-bakery-1": {
 "ok": 1
 },
@@ -3113,6 +3288,76 @@
 "addr": "22 Sea Road, Galway H91 DX47",
 "en": "Restaurant on Sea Road, listed in the MICHELIN Guide; open Tuesday to Saturday.",
 "ko": "시 로드의 레스토랑. 미쉐린 가이드에 실려 있고 화~토요일에 엽니다.",
+"ok": 1
+},
+"gdansk-bakery-1": {
+"addr": "Słodowników 1, 80-823 Gdańsk, Poland",
+"en": "One of Gdańsk's oldest pastry shops; the cherry pączki and apple szarlotka are favourites.",
+"ko": "그단스크에서 오래된 제과점 중 하나. 체리 퐁치키와 사과 샤를로트카가 인기입니다.",
+"ok": 1
+},
+"gdansk-bakery-2": {
+"del": "CZULE Piekarnia not found (Podwale Staromiejskie 82 is a Pellowski bakery)"
+},
+"gdansk-bakery-3": {
+"del": "Pan Precel at Długa 20/21 not found in any source"
+},
+"gdansk-bakery-4": {
+"en": "Modern patisserie on the Motława waterfront, focused on cakes and desserts.",
+"ko": "모트와바 강변의 현대식 제과점. 케이크와 디저트가 대표입니다.",
+"ok": 1
+},
+"gdansk-bakery-5": {
+"en": "Bakery on Rajska street near the Old Town, also serving breakfast and lunch.",
+"ko": "구시가 라이스카 거리의 빵집. 아침·점심 메뉴도 있습니다.",
+"ok": 1
+},
+"gdansk-cafe-1": {
+"del": "Pożegnanie z Afryką at Grobla III not found in any source"
+},
+"gdansk-cafe-2": {
+"en": "Specialty coffee café on Mariacka in a former printing house, popular for brunch and cakes.",
+"ko": "전후 첫 인쇄소 자리였던 마리아츠카 거리의 스페셜티 커피 카페. 브런치와 케이크가 인기입니다.",
+"ok": 1
+},
+"gdansk-cafe-3": {
+"en": "Cosy café on Piwna with brewed coffee, many teas and homemade cheesecake.",
+"ko": "피브나 거리의 아늑한 카페. 브루잉 커피와 차, 직접 만든 치즈케이크를 냅니다.",
+"ok": 1
+},
+"gdansk-cafe-4": {
+"en": "Intimate café a step away from the tourist crowds; espresso tonic and apple pie are favourites.",
+"ko": "관광객 붐비는 곳에서 살짝 비켜난 아담한 카페. 에스프레소 토닉과 사과 파이가 인기입니다.",
+"ok": 1
+},
+"gdansk-cafe-5": {
+"en": "Retro café with sewing-machine tables, famous for its buckwheat chocolate cake.",
+"ko": "재봉틀 테이블로 꾸민 레트로 카페. 메밀 초콜릿 케이크가 유명합니다.",
+"ok": 1
+},
+"gdansk-fine_dining-1": {
+"en": "Gdańsk's oldest restaurant, begun as a café in 1918, with riverside tables and live piano.",
+"ko": "1918년 카페로 시작한 그단스크에서 가장 오래된 레스토랑. 모트와바 강가 자리와 피아노 연주가 있습니다.",
+"ok": 1
+},
+"gdansk-fine_dining-2": {
+"en": "Restaurant giving Polish comfort food a twist; the duck dumplings are popular.",
+"ko": "폴란드 가정식을 새롭게 낸 레스토랑. 오리 피에로기가 인기입니다.",
+"ok": 1
+},
+"gdansk-fine_dining-3": {
+"en": "Polish restaurant on the old shipyard site across from the Old Town, with handmade dumplings.",
+"ko": "구시가 건너편 옛 조선소 부지의 폴란드 레스토랑. 손으로 빚은 만두를 냅니다.",
+"ok": 1
+},
+"gdansk-fine_dining-4": {
+"en": "Polish home-cooking restaurant in the centre at affordable prices.",
+"ko": "구시가 중심의 폴란드 가정식 식당. 가격이 저렴합니다.",
+"ok": 1
+},
+"gdansk-fine_dining-5": {
+"en": "Pierogi house making dumplings to order, including gluten-free and vegetarian versions.",
+"ko": "주문 즉시 빚는 피에로기 전문점. 글루텐 프리·채식 피에로기도 있습니다.",
 "ok": 1
 },
 "geneva-bakery-1": {
@@ -3375,10 +3620,31 @@
 "ko": "퀸스웨이 키 마리나의 스페인 식당. 타파스·생선·파에야가 있습니다.",
 "ok": 1
 },
+"giethoorn-cafe-1": {
+"en": "Canal-side café where the 1958 film Fanfare was shot, with a big beer list; closed Sundays.",
+"ko": "1958년 영화 '판파레' 촬영지인 운하변 카페. 맥주 종류가 많고 일요일은 쉽니다.",
+"ok": 1
+},
+"giethoorn-cafe-2": {
+"en": "Canal-side café of cheesemaker Henri Willig, with cheese dishes and boat tours.",
+"ko": "치즈 회사 앙리 빌리흐의 운하변 카페. 치즈 요리와 보트 투어가 있습니다.",
+"ok": 1
+},
+"giethoorn-cafe-3": {
+"addr": "Zuiderpad 58, 8355 CC Giethoorn",
+"en": "Café-restaurant on the village canal with boat hire and a terrace.",
+"ko": "마을 운하변의 카페 겸 레스토랑. 보트 대여와 테라스가 있습니다.",
+"ok": 1
+},
 "giethoorn-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Giethoorn; Wednesday to Sunday.",
 "ko": "기트호른의 미쉐린 2스타 레스토랑. 수~일요일에 엽니다.",
 "mi": "star2",
+"ok": 1
+},
+"giethoorn-fine_dining-2": {
+"en": "Canal-side restaurant with fine sunset views.",
+"ko": "운하변 레스토랑. 노을 전망이 좋습니다.",
 "ok": 1
 },
 "girona-bakery-1": {
@@ -3510,9 +3776,63 @@
 "gozo-bakery-3": {
 "del": "케르쳄에서 그 빵집을 찾을 수 없음"
 },
+"gozo-bakery-4": {
+"addr": "Victoria (Rabat), Gozo, Malta",
+"en": "Gozo branch of Malta's Manouche craft bakery, with pastries and shakshuka.",
+"ko": "몰타의 크래프트 베이커리 체인 마누슈의 고조 지점. 페이스트리와 샥슈카를 냅니다.",
+"ok": 1
+},
+"gozo-cafe-1": {
+"addr": "Pjazza l-Indipendenza, Victoria, Gozo, Malta",
+"en": "Café on Victoria's Independence Square, opened in 1998, with pies and Maltese snacks at low prices.",
+"ko": "1998년 문을 연 빅토리아 독립 광장의 카페. 파이와 몰타 간식을 저렴하게 냅니다.",
+"ok": 1
+},
+"gozo-cafe-2": {
+"addr": "The Duke Shopping Mall, Republic Street, Victoria, Gozo",
+"en": "Brunch café on the ground floor of The Duke mall, serving meals and bakes all day.",
+"ko": "더 듀크 쇼핑몰 1층의 브런치 카페. 아침부터 점심까지 식사와 구움 과자를 냅니다.",
+"ok": 1
+},
+"gozo-cafe-3": {
+"addr": "Triq Taħt Putirjal, Victoria, Gozo, Malta",
+"en": "Café-bistro with a large terrace; the full English breakfast is generous.",
+"ko": "넓은 테라스가 있는 카페 겸 비스트로. 영국식 아침 식사가 푸짐합니다.",
+"ok": 1
+},
+"gozo-cafe-4": {
+"en": "Victoria café-bistro serving burgers, pizzas, breakfast and homemade lemonade.",
+"ko": "빅토리아의 카페 겸 비스트로. 버거·피자·아침 메뉴와 수제 레모네이드를 냅니다.",
+"ok": 1
+},
+"gozo-cafe-5": {
+"en": "Cosy café in central Victoria known for its carrot cake, with vegetarian options.",
+"ko": "빅토리아 중심의 아늑한 카페. 당근 케이크가 유명하고 채식 메뉴가 있습니다.",
+"ok": 1
+},
+"gozo-fine_dining-1": {
+"en": "Mediterranean seafood restaurant at Mġarr Harbour; started in Xlendi, here since 2009, listed in the MICHELIN Guide.",
+"ko": "음가르 항구의 지중해 해산물 레스토랑. 셸렌디에서 시작해 2009년 이곳으로 옮겼고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"gozo-fine_dining-2": {
+"en": "Restaurant on Republic Street in Victoria, with vegetarian options.",
+"ko": "빅토리아 리퍼블릭 거리의 레스토랑. 채식 메뉴가 있습니다.",
+"ok": 1
+},
 "gozo-fine_dining-3": {
 "en": "Farmhouse restaurant in Xagħra, open since 1982, with a long wine list.",
 "ko": "샤그라 마을의 옛 농가 레스토랑(1982년 개업). 와인 리스트가 깁니다.",
+"ok": 1
+},
+"gozo-fine_dining-4": {
+"en": "Restaurant in a traditional Gozitan building on St George's Square; the pasta is recommended.",
+"ko": "성 조지 광장의 전통 고조 건물에 있는 레스토랑. 파스타가 추천됩니다.",
+"ok": 1
+},
+"gozo-fine_dining-5": {
+"en": "Restaurant at Mġarr Yacht Marina with sharing plates and homemade pasta, open from breakfast until late.",
+"ko": "음가르 요트 마리나의 레스토랑. 나눠 먹는 작은 접시와 수제 파스타를 아침부터 늦게까지 냅니다.",
 "ok": 1
 },
 "granada-bakery-1": {
@@ -3687,6 +4007,46 @@
 "gyumri-fine_dining-2": {
 "en": "KUMA Hotel’s restaurant, serving Armenian food with a modern twist.",
 "ko": "쿠마 호텔의 레스토랑. 아르메니아 요리를 현대적으로 냅니다.",
+"ok": 1
+},
+"haarlem-bakery-1": {
+"en": "Bakery-café in the Haarlemmerhout quarter with focaccia and pies alongside coffee.",
+"ko": "하를레메르하우트 지구의 빵집 겸 카페. 포카차와 파이를 커피와 함께 냅니다.",
+"ok": 1
+},
+"haarlem-bakery-2": {
+"en": "Bakery baking with organic flour and its own sourdough.",
+"ko": "유기농 밀가루와 직접 키운 사워도우로 굽는 빵집.",
+"ok": 1
+},
+"haarlem-cafe-1": {
+"en": "Grand café on the Grote Markt since 1881, with a big terrace facing St Bavo's Church.",
+"ko": "1881년부터 그로테 마르크트에 자리한 그랜드 카페. 성 바보 교회가 보이는 넓은 테라스가 있습니다.",
+"ok": 1
+},
+"haarlem-cafe-2": {
+"en": "Flagship of a breakfast and brunch café chain on the Grote Markt, with a large terrace.",
+"ko": "그로테 마르크트의 아침·브런치 체인 카페 플래그십. 넓은 테라스가 있습니다.",
+"ok": 1
+},
+"haarlem-cafe-3": {
+"en": "Scandinavian-style coffee bar run by two sisters, with homemade pastries and vegan options.",
+"ko": "자매가 운영하는 북유럽풍 커피 바. 직접 만든 페이스트리와 비건 메뉴가 있습니다.",
+"ok": 1
+},
+"haarlem-fine_dining-1": {
+"en": "Restaurant run by the Moolenaar brothers, French-based with a menu that changes every three months.",
+"ko": "몰레나르 형제가 운영하는 레스토랑. 프랑스 요리를 바탕으로 석 달마다 메뉴가 바뀝니다.",
+"ok": 1
+},
+"haarlem-fine_dining-2": {
+"en": "Indonesian restaurant known for its rijsttafel; closed Mondays.",
+"ko": "라이스타펠(인도네시아식 여러 접시 정찬)로 알려진 인도네시아 레스토랑. 월요일은 쉽니다.",
+"ok": 1
+},
+"haarlem-fine_dining-3": {
+"en": "Jopen brewery, café and restaurant in a converted 1910 church, where you can watch the brewing.",
+"ko": "1910년 교회를 개조한 요펜 양조장 겸 카페·레스토랑. 양조 과정을 보며 식사할 수 있습니다.",
 "ok": 1
 },
 "haarlem-fine_dining-4": {
@@ -4550,6 +4910,75 @@
 "ko": "구시가 조용한 골목의 해산물 식당. 생선과 홍합 요리를 냅니다.",
 "ok": 1
 },
+"krakow-bakery-1": {
+"del": "Massolit: no branch found at Brodzińskiego 4 (listed at Smoleńsk 17 and Targowa 3)"
+},
+"krakow-bakery-2": {
+"del": "The Morning Hug Bakery at Św. Tomasza 22 not found in any source"
+},
+"krakow-bakery-3": {
+"en": "Hungarian chimney-cake shop that also serves ice cream in chimney-cake cones.",
+"ko": "헝가리식 굴뚝빵 킈르퇴시칼라치 가게. 아이스크림을 굴뚝빵 콘에 담아 줍니다.",
+"ok": 1
+},
+"krakow-bakery-4": {
+"en": "Pastry shop near Kazimierz whose pączki once topped a ranking of Kraków's best doughnuts.",
+"ko": "카지미에시 근처의 제과점. 퐁치키(잼 도넛)가 크라쿠프 최고 순위에 오른 적이 있습니다.",
+"ok": 1
+},
+"krakow-bakery-5": {
+"en": "Dominican Square branch of the Kraków bakery-café chain Lajkonik.",
+"ko": "크라쿠프 빵집 카페 체인 라이코니크의 도미니칸 광장 지점.",
+"ok": 1
+},
+"krakow-cafe-1": {
+"del": "Lajkonik at Św. Tomasza 25 not among the chain's listed branches (that address is listed for Cakester)"
+},
+"krakow-cafe-2": {
+"en": "Old Town breakfast and brunch café; French toast and omelettes are favourites.",
+"ko": "구시가의 아침·브런치 카페. 프렌치토스트와 오믈렛이 인기입니다.",
+"ok": 1
+},
+"krakow-cafe-3": {
+"en": "Café-bar with arched windows and eclectic furniture.",
+"ko": "아치형 창과 개성 있는 가구로 꾸민 카페 겸 바.",
+"ok": 1
+},
+"krakow-cafe-4": {
+"en": "Literary café in Kazimierz full of second-hand books; large coffees come with a printed quote.",
+"ko": "중고 책으로 가득한 카지미에시의 문학 카페. 큰 커피에는 인용구를 적어 줍니다.",
+"ok": 1
+},
+"krakow-cafe-5": {
+"en": "Old Town café decorated with folk art, with a theatre in its cellars.",
+"ko": "민속 공예품으로 꾸민 구시가의 카페. 지하에는 극장이 있습니다.",
+"ok": 1
+},
+"krakow-fine_dining-1": {
+"en": "Polish bistro in Kazimierz with house-aged vodkas, dumplings and smoked duck.",
+"ko": "카지미에시의 폴란드 비스트로. 직접 숙성한 보드카와 만두·훈제 오리를 냅니다.",
+"ok": 1
+},
+"krakow-fine_dining-2": {
+"en": "Beer restaurant on the ground floor of a hotel opposite Wawel, with big mugs of beer and hearty meat dishes.",
+"ko": "바벨성 맞은편 호텔 1층의 맥주 레스토랑. 큰 맥주잔과 푸짐한 고기 요리가 특징입니다.",
+"ok": 1
+},
+"krakow-fine_dining-3": {
+"en": "Highlander-style restaurant in an Art Nouveau building, with costumed folk singers in the evenings.",
+"ko": "아르누보 건물의 산악 지방풍 레스토랑. 저녁에는 전통 의상 차림 가수들이 공연합니다.",
+"ok": 1
+},
+"krakow-fine_dining-4": {
+"en": "Modern Polish restaurant on the Main Square, strong on poultry, with an award-winning wine list.",
+"ko": "중앙광장의 모던 폴란드 레스토랑. 가금류 요리에 강하고 와인 리스트로 상을 받았습니다.",
+"ok": 1
+},
+"krakow-fine_dining-5": {
+"en": "Kazimierz restaurant cooking Polish and international dishes with local produce; plenty of vegetarian options.",
+"ko": "카지미에시의 레스토랑. 지역 식재료로 폴란드·국제 요리를 내고 채식 메뉴가 많습니다.",
+"ok": 1
+},
 "kutaisi-bakery-1": {
 "del": "no bakery of this name found on Tsminda Nino St"
 },
@@ -5321,6 +5750,37 @@
 "lyon-korean-1": {
 "del": 1
 },
+"maastricht-bakery-1": {
+"en": "Bakery beside a water mill recorded since the 11th century, baking bread and vlaai with spelt.",
+"ko": "11세기 기록이 있는 물레방아 옆 빵집. 스펠트 밀로 빵과 플라이를 굽습니다.",
+"ok": 1
+},
+"maastricht-bakery-2": {
+"del": "Peter Lemmens: only a Scharnerweg 64 shop found, Glacisweg 30H unconfirmed"
+},
+"maastricht-bakery-3": {
+"del": "Patisserie Noblesse Maastricht not found in any source"
+},
+"maastricht-bakery-4": {
+"en": "North American-style cupcake, cookie and cake shop; takeaway only, closed Sundays and Mondays.",
+"ko": "북미식 컵케이크·쿠키·케이크 가게. 포장 전문이고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"maastricht-bakery-5": {
+"en": "Tiny shop selling freshly baked Maastricht cookies in four flavours, made with Limburg ingredients.",
+"ko": "갓 구운 마스트리흐트식 쿠키를 네 가지 맛으로 파는 작은 가게. 림뷔르흐 재료를 씁니다.",
+"ok": 1
+},
+"maastricht-cafe-1": {
+"en": "Café in the former choir of a 13th-century Dominican church now housing a bookshop.",
+"ko": "13세기 도미니크회 성당을 개조한 서점 안의 카페. 옛 성가대석 자리에 있습니다.",
+"ok": 1
+},
+"maastricht-cafe-2": {
+"en": "Riverside café in a former earthenware factory, with a terrace over the Maas.",
+"ko": "옛 도자기 공장 건물의 강변 카페. 마스강이 보이는 테라스가 있습니다.",
+"ok": 1
+},
 "maastricht-fine_dining-1": {
 "en": "One-Michelin-star restaurant in a château with terraced gardens; closed Mondays and Tuesdays.",
 "ko": "계단식 정원이 있는 성 안의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
@@ -5339,6 +5799,11 @@
 "en": "Old-town French restaurant holding one Michelin star since 2002; closed Monday to Wednesday.",
 "ko": "2002년부터 미쉐린 1스타를 지켜 온 구시가지의 프랑스 레스토랑. 월~수요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"maastricht-fine_dining-4": {
+"en": "Restaurant of a courtyard hotel in the Jeker Quarter, with French and Italian dishes and a wine cellar.",
+"ko": "예케르 지구 안뜰 호텔의 레스토랑. 프랑스·이탈리아 요리와 와인 셀러가 있습니다.",
 "ok": 1
 },
 "madrid-bakery-1": {
@@ -5624,6 +6089,73 @@
 "mdina-bakery-1": {
 "en": "Rabat pastizzi bar running since the mid-1940s.",
 "ko": "1945년 무렵부터 이어온 라바트의 파스티치 바.",
+"ok": 1
+},
+"mdina-bakery-2": {
+"en": "Patisserie and bistro in the lobby of a Rabat boutique hotel.",
+"ko": "라바트 부티크 호텔 로비의 제과점 겸 비스트로.",
+"ok": 1
+},
+"mdina-bakery-3": {
+"en": "Wood-fired bakery of over 100 years in a lane by St Paul's Church, baking Maltese hobża and ftira.",
+"ko": "성 바울 성당 옆 골목의 100년 넘은 장작 화덕 빵집. 몰타 빵 호브자와 프티라를 굽습니다.",
+"ok": 1
+},
+"mdina-bakery-4": {
+"en": "Family-run Italian pastry shop and gelateria; closed Mondays.",
+"ko": "가족이 운영하는 이탈리아식 제과점 겸 젤라테리아. 월요일은 쉽니다.",
+"ok": 1
+},
+"mdina-bakery-5": {
+"del": "St. Catherine Bakery Rabat: Triq Santa Rita address unconfirmed"
+},
+"mdina-cafe-1": {
+"en": "Family-run café on the bastion walls since 1975, famous for its homemade chocolate cake, with terraces looking across the island.",
+"ko": "1975년부터 가족이 운영하는 성벽 위 카페. 수제 초콜릿 케이크가 유명하고 테라스에서 섬 전경이 보입니다.",
+"ok": 1
+},
+"mdina-cafe-2": {
+"en": "Rooftop café at the Palazzo Falson museum, open Tuesday to Sunday 10:30am to 4pm.",
+"ko": "팔라초 팔손 박물관 옥상의 카페. 화~일요일 오전 10시 30분~오후 4시에 엽니다.",
+"ok": 1
+},
+"mdina-cafe-3": {
+"en": "Small café in Mdina's lanes with cakes such as tiramisu and coffee.",
+"ko": "음디나 골목의 작은 카페. 티라미수 같은 케이크와 커피를 냅니다.",
+"ok": 1
+},
+"mdina-cafe-4": {
+"en": "Cosy café and wine bar in Rabat near Mdina's main gate, serving Maltese platters and ftira.",
+"ko": "음디나 정문 근처 라바트의 아늑한 카페 겸 와인 바. 몰타식 플래터와 프티라를 냅니다.",
+"ok": 1
+},
+"mdina-cafe-5": {
+"en": "Café in the stone courtyard of the Palazzo Bifora hotel, serving breakfast and light lunches.",
+"ko": "팔라초 비포라 호텔 돌 안뜰의 카페. 아침과 가벼운 점심을 냅니다.",
+"ok": 1
+},
+"mdina-fine_dining-1": {
+"en": "Restaurant in a Norman-era residence serving Mediterranean food with Asian touches; listed in the MICHELIN Guide.",
+"ko": "노르만 시대 저택의 레스토랑. 아시아 풍미를 더한 지중해 요리를 내고 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"mdina-fine_dining-2": {
+"del": "The Knights Kitchen Mdina not found in any source"
+},
+"mdina-fine_dining-3": {
+"en": "Italian and Mediterranean restaurant with vine-covered courtyards and a roof terrace; vegan and gluten-free options.",
+"ko": "포도덩굴 안뜰과 옥상 테라스가 있는 이탈리아·지중해 레스토랑. 비건·글루텐 프리 메뉴가 있습니다.",
+"ok": 1
+},
+"mdina-fine_dining-4": {
+"en": "Rooftop restaurant at the Xara Palace hotel; one MICHELIN star (2026).",
+"ko": "자라 팰리스 호텔 옥상의 레스토랑. 미쉐린 1스타(2026)입니다.",
+"mi": "star1",
+"ok": 1
+},
+"mdina-fine_dining-5": {
+"en": "Restaurant at the entrance to Mdina with a sea-view terrace; newly listed in the 2026 MICHELIN Guide, closed Tuesdays.",
+"ko": "음디나 입구의 바다 전망 테라스 레스토랑. 2026년 미쉐린 가이드에 새로 실렸고 화요일은 쉽니다.",
 "ok": 1
 },
 "meteora-fine_dining-1": {
@@ -6445,6 +6977,67 @@
 "odense-korean-1": {
 "del": 1
 },
+"ohrid-bakery-1": {
+"en": "Neighbourhood bakery of over 30 years, a little away from the tourist area, best known for burek.",
+"ko": "관광지에서 조금 떨어진 30년 넘은 동네 빵집. 부렉이 대표 메뉴입니다.",
+"ok": 1
+},
+"ohrid-bakery-2": {
+"del": "Wake & Bake Ohrid not found in any source"
+},
+"ohrid-bakery-3": {
+"en": "Central bakery whose burek gets good mentions.",
+"ko": "시내 중심의 빵집. 부렉이 괜찮다는 평이 있습니다.",
+"ok": 1
+},
+"ohrid-bakery-4": {
+"del": "Feniks Bakery Ohrid not found in any source"
+},
+"ohrid-bakery-5": {
+"del": "Bakery Sofra Ohrid not found in any source"
+},
+"ohrid-cafe-1": {
+"en": "Specialty coffee roastery café in the heart of the lakeside old town, using freshly roasted beans.",
+"ko": "호숫가 구시가 한가운데의 스페셜티 커피 로스터리 카페. 갓 볶은 원두를 씁니다.",
+"ok": 1
+},
+"ohrid-cafe-2": {
+"en": "Café on Kosta Abrash street with coffee, tea, sandwiches and desserts.",
+"ko": "코스타 아브라시 거리의 카페. 커피·차와 샌드위치, 디저트를 냅니다.",
+"ok": 1
+},
+"ohrid-cafe-3": {
+"del": "Dabov Specialty Coffee: no Ohrid location found (only Skopje in North Macedonia)"
+},
+"ohrid-cafe-4": {
+"en": "Café right beside Samuel's Fortress, decorated with antiques, with views over the lake and town.",
+"ko": "사무일 요새 바로 옆의 카페. 골동품으로 꾸몄고 호수와 시내가 내려다보입니다.",
+"ok": 1
+},
+"ohrid-cafe-5": {
+"del": "Cafe Galerija Ohrid: only a bare listing, address unconfirmed"
+},
+"ohrid-fine_dining-1": {
+"en": "Family-run restaurant beside the ancient amphitheatre, with an upstairs terrace overlooking it.",
+"ko": "고대 원형극장 옆의 가족 운영 식당. 위층 테라스에서 극장이 내려다보입니다.",
+"ok": 1
+},
+"ohrid-fine_dining-2": {
+"del": "Plate Bistro Ohrid not found in any source"
+},
+"ohrid-fine_dining-3": {
+"en": "Lakeshore restaurant with a long terrace, also serving Balkan breakfasts.",
+"ko": "호숫가의 긴 테라스가 있는 레스토랑. 발칸식 아침 식사도 냅니다.",
+"ok": 1
+},
+"ohrid-fine_dining-4": {
+"en": "Restaurant on the lakeside promenade, praised for salads, ribs, burgers and breakfast.",
+"ko": "호숫가 산책로의 레스토랑. 샐러드·갈비·버거와 아침 식사가 호평을 받습니다.",
+"ok": 1
+},
+"ohrid-fine_dining-5": {
+"del": "Frogche Ohrid not found in any source"
+},
 "olbia-fine_dining-1": {
 "del": "Il Pescatore: listed Olbia address conflicts with Porto Cervo old-port venue, which has been renamed Quattro Passi al Pescatore"
 },
@@ -7049,8 +7642,49 @@
 "ko": "포드고리차의 동네 빵집.",
 "ok": 1
 },
+"podgorica-bakery-3": {
+"del": "Rod Artisan Bakery Podgorica not found in any source"
+},
 "podgorica-bakery-4": {
 "del": "포드고리차에서 그 가게를 찾을 수 없음"
+},
+"podgorica-cafe-1": {
+"en": "Coffee bar on Roman Square where you can pick your beans, with plenty of indoor and outdoor seating.",
+"ko": "로마 광장의 커피 바. 원두를 골라 마실 수 있고 실내외 자리가 넉넉합니다.",
+"ok": 1
+},
+"podgorica-cafe-2": {
+"del": "BRIEF coffee & brunch Podgorica not found in any source"
+},
+"podgorica-cafe-3": {
+"del": "Oliva coffee: only a Hercegovačka 21 location found, Trša Međedovića 26 unconfirmed"
+},
+"podgorica-cafe-4": {
+"del": "Coffee Circus Drži Prži Podgorica not found in any source"
+},
+"podgorica-fine_dining-1": {
+"addr": "Kralja Nikole 36, Podgorica",
+"en": "Restaurant in a house dating from 1630, with stone-oven pizza and local dishes; music on Sundays.",
+"ko": "1630년에 지은 옛 가옥 안의 레스토랑. 화덕 피자와 지역 요리를 내고 일요일엔 음악 공연이 열립니다.",
+"ok": 1
+},
+"podgorica-fine_dining-2": {
+"en": "Long-running traditional restaurant by the Clock Tower in Stara Varoš, known for its huge mixed grill.",
+"ko": "시계탑 옆 스타라 바로시의 오래된 전통 식당. 푸짐한 모둠 그릴이 유명합니다.",
+"ok": 1
+},
+"podgorica-fine_dining-3": {
+"en": "Italian restaurant praised for its pizza and crumble desserts.",
+"ko": "이탈리아 레스토랑. 피자와 크럼블 디저트가 호평을 받습니다.",
+"ok": 1
+},
+"podgorica-fine_dining-4": {
+"en": "Restaurant serving Montenegrin specialities and international dishes; the steak in puff pastry is popular.",
+"ko": "몬테네그로 특선과 국제 요리를 내는 레스토랑. 퍼프 페이스트리 스테이크가 인기입니다.",
+"ok": 1
+},
+"podgorica-fine_dining-5": {
+"del": "Restoran Protokol Podgorica not found in any source"
 },
 "polignano-a-mare-cafe-1": {
 "ok": 1
@@ -7184,6 +7818,72 @@
 },
 "potsdam-fine_dining-4": {
 "del": 1
+},
+"poznan-bakery-1": {
+"del": "Mąka Woda Sól Poznań not found in any source"
+},
+"poznan-bakery-2": {
+"en": "Family pastry shop run by Paweł Mieszała, baking Poznań's St Martin's croissants daily.",
+"ko": "파베우 미에샤와가 운영하는 가족 제과점. 포즈난 명물 성 마르틴 크루아상을 매일 굽습니다.",
+"ok": 1
+},
+"poznan-bakery-3": {
+"del": "Tokyo Cheesecake Bakery: no Plac Kolegiacki location found"
+},
+"poznan-bakery-4": {
+"en": "Old Town bakery-café with breakfast, sandwiches, soups and desserts.",
+"ko": "구시가의 빵집 겸 카페. 아침·샌드위치·수프·디저트를 냅니다.",
+"ok": 1
+},
+"poznan-bakery-5": {
+"del": "inna.piekarnia: listed at Ratajczaka 39 and Plac Bernardyński, not Garbary 26"
+},
+"poznan-cafe-1": {
+"del": "GLANC at Józefa Strusia 9 not found in any source"
+},
+"poznan-cafe-2": {
+"en": "Retro café with a resident husky, serving coffee by several brew methods and all-day breakfast.",
+"ko": "허스키가 사는 레트로풍 카페. 다양한 추출 커피와 하루 종일 아침 메뉴를 냅니다.",
+"ok": 1
+},
+"poznan-cafe-3": {
+"en": "Specialty coffee café since the early 2010s, with beans from its own roastery and daily-baked bagels.",
+"ko": "2010년대 초부터 있는 스페셜티 커피 카페. 자체 로스터리 원두와 매일 굽는 베이글을 냅니다.",
+"ok": 1
+},
+"poznan-cafe-4": {
+"en": "Specialty coffee café near the Old Market, successor to Jeżyce's Brisman, serving drip and Chemex.",
+"ko": "예지체의 브리스만을 이은 구시가 근처 스페셜티 커피 카페. 드립과 케멕스를 냅니다.",
+"ok": 1
+},
+"poznan-cafe-5": {
+"del": "Kaferdam at Grobla 30 not found in any source"
+},
+"poznan-fine_dining-1": {
+"addr": "Kościuszki 74/3, Poznań",
+"en": "Bird-themed café-restaurant named after a Tuwim children's poem, running for over 20 years, with a summer garden.",
+"ko": "투빔의 동시에서 이름을 딴 새 테마 카페 겸 레스토랑. 20년 넘게 이어왔고 여름엔 정원이 열립니다.",
+"ok": 1
+},
+"poznan-fine_dining-2": {
+"en": "Traditional Polish restaurant on the Old Market Square; żurek in a bread bowl and golonka are signatures.",
+"ko": "중앙광장의 폴란드 전통 식당. 빵 그릇 주레크와 골롱카가 대표입니다.",
+"ok": 1
+},
+"poznan-fine_dining-3": {
+"en": "Old Market Square restaurant facing the Town Hall, with duck confit and a goose burger.",
+"ko": "시청이 보이는 중앙광장의 레스토랑. 오리 콩피와 거위 버거를 냅니다.",
+"ok": 1
+},
+"poznan-fine_dining-4": {
+"en": "Pierogi restaurant on a Śródka corner since 2015, with seasonal specials.",
+"ko": "2015년부터 시루드카 모퉁이에 있는 피에로기 식당. 계절 메뉴가 있습니다.",
+"ok": 1
+},
+"poznan-fine_dining-5": {
+"en": "Basement restaurant centred on grilled meat and seafood, listed in the MICHELIN Guide; booking advised.",
+"ko": "그릴 고기와 해산물이 중심인 지하 레스토랑. 미쉐린 가이드에 실렸고 예약을 권합니다.",
+"ok": 1
 },
 "prague-bakery-1": {
 "en": "Vinohrady bakery selling sourdough loaves and Czech pastries and cakes.",
@@ -7669,6 +8369,55 @@
 "ko": "오래된 돌벽 건물의 프랑켄 와인 주점. 저녁에만 열고 일요일은 쉬며 예약하는 편이 좋습니다.",
 "ok": 1
 },
+"rotterdam-bakery-1": {
+"addr": "Van Vollenhovenstraat 27, 3016 BG Rotterdam",
+"en": "Bakery run by four generations since 1899, known for French-style breads and Dutch buns.",
+"ko": "1899년부터 4대째 이어온 빵집. 프랑스풍 빵과 네덜란드 번이 대표입니다.",
+"ok": 1
+},
+"rotterdam-bakery-2": {
+"en": "American-style bakery on the Nieuwe Binnenweg since 2003; the lemon meringue pie is a favourite.",
+"ko": "2003년부터 니우어 빈넨베흐에 자리한 미국식 베이커리. 레몬 머랭 파이가 인기입니다.",
+"ok": 1
+},
+"rotterdam-bakery-3": {
+"en": "Dessert shop with cheesecakes, brownies and baklava, open until 10pm.",
+"ko": "치즈케이크·브라우니·바클라바를 내는 디저트 가게. 밤 10시까지 엽니다.",
+"ok": 1
+},
+"rotterdam-bakery-4": {
+"del": "La Maison du pain at Hoogstraat 22A not found in any source"
+},
+"rotterdam-bakery-5": {
+"en": "Vegan bakery-café near the Markthal; the pistachio cruffin is a favourite.",
+"ko": "마르크트할 근처의 비건 베이커리 카페. 피스타치오 크러핀이 인기입니다.",
+"ok": 1
+},
+"rotterdam-cafe-1": {
+"en": "Roastery café under the Hofbogen railway arches, with the roaster on view and weekend brunch.",
+"ko": "호프보겐 철도 아치 아래의 로스터리 카페. 로스팅 기계가 보이고 주말 브런치가 있습니다.",
+"ok": 1
+},
+"rotterdam-cafe-2": {
+"en": "Hoogstraat brunch café opened in 2019; pancakes, shakshuka and mocha are favourites.",
+"ko": "2019년 문을 연 호흐스트라트의 브런치 카페. 팬케이크와 샥슈카, 모카가 인기입니다.",
+"ok": 1
+},
+"rotterdam-cafe-3": {
+"en": "Coffee shop with a huge range of Monin syrups, doubling as a small crafts shop.",
+"ko": "모냉 시럽이 다양한 커피숍. 작은 공예품 가게를 겸합니다.",
+"ok": 1
+},
+"rotterdam-cafe-4": {
+"en": "Café and concept store on the ground floor of the boutique Hotel âme, serving Shokunin coffee in a Japanese-Scandinavian space.",
+"ko": "부티크 호텔 아메 1층의 카페 겸 콘셉트 스토어. 일본·북유럽풍 공간에서 쇼쿠닌 커피를 냅니다.",
+"ok": 1
+},
+"rotterdam-cafe-5": {
+"en": "Small glass-walled corner coffee bar with sandwiches and pastries; card only.",
+"ko": "유리로 된 작은 모퉁이 커피 바. 샌드위치와 페이스트리를 내고 카드 결제만 받습니다.",
+"ok": 1
+},
 "rotterdam-fine_dining-1": {
 "en": "Two-Michelin-star French restaurant in a park by the Maas; closed Tuesdays and Wednesdays.",
 "ko": "마스강이 보이는 공원 안의 미쉐린 2스타 프랑스 레스토랑. 화·수요일은 쉽니다.",
@@ -7699,6 +8448,16 @@
 "en": "Two-Michelin-star restaurant on the Boompjes by the Maas; closed Wednesdays and Sundays.",
 "ko": "마스강변 봄피에스의 미쉐린 2스타 레스토랑. 수·일요일은 쉽니다.",
 "mi": "star2",
+"ok": 1
+},
+"rotterdam-korean-1": {
+"en": "Korean barbecue with grills built into the tables, plus Korean fried chicken and soups.",
+"ko": "테이블에 그릴이 있는 한국식 바비큐 식당. 한국식 치킨과 탕도 냅니다.",
+"ok": 1
+},
+"rotterdam-korean-2": {
+"en": "Small Korean restaurant on the Goudsesingel.",
+"ko": "구시가 하우드세싱얼의 작은 한식당.",
 "ok": 1
 },
 "rouen-cafe-1": {
@@ -8450,8 +9209,62 @@
 "mi": "star1",
 "ok": 1
 },
+"skopje-bakery-1": {
+"del": "Silbo: mentioned in a guide but Majakovski 2 address unconfirmed; 'Silbo Furna' mixes two bakeries"
+},
+"skopje-bakery-2": {
+"en": "Late-night bakery near the centre and the park, popular for burek and pizza banitsa.",
+"ko": "시내 중심과 공원 근처의 심야 빵집. 부렉과 피자 바니츠카가 인기입니다.",
+"ok": 1
+},
 "skopje-bakery-3": {
 "del": "스코페에서 그 가게를 찾을 수 없음"
+},
+"skopje-bakery-4": {
+"del": "Pan Pan Kapistec not found in any source"
+},
+"skopje-bakery-5": {
+"del": "Oriolo Skopje not found in any source"
+},
+"skopje-cafe-1": {
+"en": "Industrial-style café between the centre and Debar Maalo, with DJ nights.",
+"ko": "시내와 데바르 말로 사이의 인더스트리얼 분위기 카페. DJ 공연이 열립니다.",
+"ok": 1
+},
+"skopje-cafe-2": {
+"en": "Specialty coffee shop centred on filter coffee.",
+"ko": "필터 커피가 중심인 스페셜티 커피숍.",
+"ok": 1
+},
+"skopje-cafe-3": {
+"en": "Café inside the City Park with indoor and outdoor seating, serving coffee, desserts and cocktails.",
+"ko": "시립 공원 안의 카페. 실내외 자리에서 커피·디저트·칵테일을 냅니다.",
+"ok": 1
+},
+"skopje-cafe-4": {
+"del": "Central Coffee at Mitropolit Teodosij Gologanov 96 not found in any source"
+},
+"skopje-cafe-5": {
+"en": "Book-lined literary café hosting cultural events; closed Sundays.",
+"ko": "책으로 둘러싸인 문학 카페. 문화 행사가 열리고 일요일은 쉽니다.",
+"ok": 1
+},
+"skopje-fine_dining-1": {
+"addr": "Salih Asim, Old Bazaar, Skopje 1000",
+"en": "Old Bazaar kebab house said to date from 1913, serving beef-and-lamb kebapi with somun bread.",
+"ko": "1913년부터 이어왔다고 알려진 구시장의 케밥 식당. 소·양고기 케바피와 솜운 빵을 냅니다.",
+"ok": 1
+},
+"skopje-fine_dining-2": {
+"en": "Restaurant in the 15th-century Kapan An inn, serving Macedonian food in the courtyard.",
+"ko": "15세기 여관 카판 안 건물의 레스토랑. 안뜰 테라스에서 마케도니아 요리를 냅니다.",
+"ok": 1
+},
+"skopje-fine_dining-3": {
+"addr": "Kej 13-ti Noemvri 8, Skopje",
+"en": "Vardar riverside restaurant serving Macedonian favourites with modern twists and Macedonian wine.",
+"ko": "바르다르 강변의 레스토랑. 현대적으로 해석한 마케도니아 요리와 마케도니아 와인을 냅니다.",
+"ok": 1
 },
 "snowdonia-fine_dining-1": {
 "addr": "Unit 1, Station Approach, Betws-y-Coed LL24 0AE",
@@ -8644,6 +9457,39 @@
 "st-moritz-fine_dining-4": {
 "del": 1
 },
+"stavanger-bakery-1": {
+"en": "Bakery-café started in 2013 by a master baker and his partner, known for cinnamon rolls.",
+"ko": "2013년 제빵사 부부가 시작한 빵집 겸 카페. 시나몬롤이 대표입니다.",
+"ok": 1
+},
+"stavanger-bakery-2": {
+"del": "Kanelsnurren Søregata 4 not found; only the Verksgata 24 shop is listed"
+},
+"stavanger-bakery-3": {
+"en": "Wood-fired bakery in a 1770s bakehouse, baking without electricity; each loaf takes three days.",
+"ko": "1770년대 옛 빵집 건물의 장작 화덕 빵집. 전기 없이 굽고 빵 하나에 사흘이 걸립니다.",
+"ok": 1
+},
+"stavanger-bakery-4": {
+"en": "Sourdough bakery-café that mills its own flour, with empanadas and cinnamon buns; closed Mondays and Tuesdays.",
+"ko": "직접 밀가루를 빻는 사워도우 빵집 겸 카페. 엠파나다와 시나몬번이 있고 월·화요일은 쉽니다.",
+"ok": 1
+},
+"stavanger-cafe-1": {
+"en": "Three-floor coffee shop roasting its own beans, with a glass ceiling onto the roastery.",
+"ko": "직접 원두를 볶는 3층 커피숍. 유리 천장 너머로 로스터리가 보입니다.",
+"ok": 1
+},
+"stavanger-cafe-2": {
+"en": "Café-bar full of books to buy or swap, with board games in the back garden.",
+"ko": "책을 사거나 바꿀 수 있는 카페 겸 바. 뒷마당에서 보드게임을 합니다.",
+"ok": 1
+},
+"stavanger-cafe-3": {
+"en": "Tiny specialty coffee bar inside the Rogaland Art Centre, known for filter coffee.",
+"ko": "로갈란드 미술관 안의 작은 스페셜티 커피 바. 필터 커피가 대표입니다.",
+"ok": 1
+},
 "stavanger-fine_dining-1": {
 "en": "Three-Michelin-star restaurant in Stavanger; Wednesday to Saturday evenings.",
 "ko": "스타방에르의 미쉐린 3스타 레스토랑. 수~토 저녁에 엽니다.",
@@ -8654,6 +9500,16 @@
 "en": "Small omakase counter with one Michelin star; Wednesday to Saturday evenings.",
 "ko": "작은 오마카세 카운터의 미쉐린 1스타 스시 레스토랑. 수~토 저녁에 엽니다.",
 "mi": "star1",
+"ok": 1
+},
+"stavanger-fine_dining-3": {
+"en": "Harbourside fish market and restaurant; fish soup and the shrimp sandwich are the classics.",
+"ko": "항구 앞 생선 가게 겸 레스토랑. 생선 수프와 새우 샌드위치가 대표입니다.",
+"ok": 1
+},
+"stavanger-fine_dining-4": {
+"en": "French-style bistro from the Renaa group, cooking with local produce.",
+"ko": "레나 그룹의 프랑스식 비스트로. 지역 식재료로 요리합니다.",
 "ok": 1
 },
 "stepantsminda-cafe-1": {
@@ -9180,6 +10036,85 @@
 "addr": "Lower Frog Street, Tenby SA70 7HS",
 "ok": 1
 },
+"tetovo-bakery-1": {
+"del": "Bakal Bakery Tetovo not found in any source"
+},
+"tetovo-bakery-2": {
+"del": "Burek Adriana Tetovo not found in any source"
+},
+"tetovo-bakery-3": {
+"del": "Garden café exists but Dervish Cara 35 address unconfirmed (two locations)"
+},
+"tetovo-bakery-4": {
+"del": "Pekon Bakery 2 Tetovo not found in any source"
+},
+"tetovo-cafe-1": {
+"del": "Simple Cafe Tetovo not found in any source"
+},
+"tetovo-cafe-2": {
+"del": "Maestro Cafe Tetovo not found in any source"
+},
+"tetovo-cafe-3": {
+"en": "Tetovo coffee shop with decaf and plant-based milk.",
+"ko": "테토보의 커피숍. 디카페인과 식물성 우유가 있습니다.",
+"ok": 1
+},
+"tetovo-fine_dining-1": {
+"addr": "Marshal Tito 44, Brvenica 1216, North Macedonia",
+"en": "Restaurant in Brvenica village south of Tetovo, with local and international dishes and a large garden terrace.",
+"ko": "테토보 남쪽 브르베니차 마을의 레스토랑. 지역·국제 요리를 내고 넓은 정원 테라스가 있습니다.",
+"ok": 1
+},
+"tetovo-fine_dining-2": {
+"en": "Long-established restaurant known for homemade sausages and Macedonian and Serbian classics.",
+"ko": "오래된 레스토랑. 수제 소시지와 마케도니아·세르비아 요리가 대표입니다.",
+"ok": 1
+},
+"tetovo-fine_dining-3": {
+"en": "Restaurant on Jane Sandanski street.",
+"ko": "야네 산단스키 거리의 레스토랑.",
+"ok": 1
+},
+"tetovo-fine_dining-4": {
+"del": "Bocata Tetovo not found in any source"
+},
+"tetovo-fine_dining-5": {
+"del": "Paradox Tetovo not found in any source"
+},
+"the-hague-bakery-1": {
+"en": "Sister bakery of Café Bartine, with takeaway bakes and breakfast.",
+"ko": "카페 바르티너의 자매 빵집. 포장해 가는 빵과 아침 메뉴를 냅니다.",
+"ok": 1
+},
+"the-hague-bakery-2": {
+"en": "French bakery with Sunday-morning queues; baguettes and éclairs are favourites.",
+"ko": "일요일 아침마다 줄 서는 프랑스 빵집. 바게트와 에클레어가 인기입니다.",
+"ok": 1
+},
+"the-hague-bakery-3": {
+"en": "The Hague branch of a French bakery chain, with almond croissants and quiche.",
+"ko": "프랑스식 빵집 체인의 헤이그 지점. 아몬드 크루아상과 키슈를 냅니다.",
+"ok": 1
+},
+"the-hague-cafe-1": {
+"en": "Specialty coffee and brunch café inspired by London coffee culture; book at weekends.",
+"ko": "런던 커피 문화에서 영감을 받은 스페셜티 커피·브런치 카페. 주말엔 예약을 권합니다.",
+"ok": 1
+},
+"the-hague-cafe-2": {
+"del": "August at Turfmarkt 250 not found in any source"
+},
+"the-hague-cafe-3": {
+"en": "City-centre branch of a Dutch coffee chain.",
+"ko": "네덜란드 커피 체인의 시내 지점.",
+"ok": 1
+},
+"the-hague-fine_dining-1": {
+"en": "Creative French restaurant in a 19th-century house using vegetables from a nearby garden; one MICHELIN star.",
+"ko": "19세기 저택의 창작 프렌치 레스토랑. 근처 텃밭 채소를 쓰고 미쉐린 1스타입니다.",
+"mi": "star1",
+"ok": 1
+},
 "the-hague-fine_dining-2": {
 "addr": "Korte Houtstraat 4a, 2511 CD Den Haag",
 "en": "Michelin Bib Gourmand restaurant in the centre; closed Sundays.",
@@ -9187,9 +10122,19 @@
 "mi": "bib",
 "ok": 1
 },
+"the-hague-fine_dining-3": {
+"en": "Restaurant at Hotel De Plesman named after the KLM founder's wife, serving international dishes all day.",
+"ko": "KLM 창업자의 아내 이름을 딴 호텔 더 플레스만의 레스토랑. 국제 요리를 하루 종일 냅니다.",
+"ok": 1
+},
 "the-hague-fine_dining-4": {
 "en": "Seafood restaurant in Scheveningen harbour, listed in the MICHELIN Guide.",
 "ko": "스헤베닝언 항구의 해산물 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"the-hague-korean-1": {
+"en": "Korean family-run restaurant in a small alley, with barbecue sets and homemade kimchi.",
+"ko": "한국인 가족이 운영하는 작은 골목의 한식당. 바비큐 세트와 직접 담근 김치를 냅니다.",
 "ok": 1
 },
 "thessaloniki-bakery-1": {
@@ -9349,6 +10294,17 @@
 "ko": "소코도베르 근처의 가정식 바. 카르카무사스와 톨레도식 자고새 요리가 있고 예약은 받지 않습니다.",
 "ok": 1
 },
+"torun-bakery-1": {
+"en": "Café with house-baked bread, bagels and vegan breakfasts.",
+"ko": "직접 굽는 빵과 베이글, 비건 아침 메뉴가 있는 카페.",
+"ok": 1
+},
+"torun-bakery-2": {
+"del": "Batumi Bakery Toruń not found in any source"
+},
+"torun-bakery-3": {
+"del": "Atelier Piernika at Rynek Nowomiejski 22 not found in any source"
+},
 "toulouse-bakery-1": {
 "del": "no bakery of this name found at rue Charles de Rémusat"
 },
@@ -9449,6 +10405,71 @@
 "trieste-fine_dining-1": {
 "ok": 1
 },
+"tromso-bakery-1": {
+"en": "Neighbourhood bakery in the new Vervet district where you can watch the baking.",
+"ko": "베르베트 신시가지의 동네 빵집. 빵 굽는 모습을 볼 수 있습니다.",
+"ok": 1
+},
+"tromso-bakery-2": {
+"en": "Self-service bakery chain branch in the centre, with bread and pastries for breakfast and lunch.",
+"ko": "시내 중심의 셀프서비스 빵집 체인 지점. 아침·점심용 빵과 페이스트리를 냅니다.",
+"ok": 1
+},
+"tromso-cafe-1": {
+"en": "Central coffee bar famous for its homemade cinnamon rolls; closed Sundays.",
+"ko": "시내 중심의 커피 바. 직접 구운 시나몬롤이 유명하고 일요일은 쉽니다.",
+"ok": 1
+},
+"tromso-cafe-2": {
+"en": "Main branch of a Tromsø coffee chain founded in 1998, with harbour-view windows and skolebrød.",
+"ko": "1998년 문을 연 트롬쇠 커피 체인의 본점. 항구가 보이는 창가와 스콜레브뢰가 있습니다.",
+"ok": 1
+},
+"tromso-cafe-3": {
+"del": "Selfie Konditori: Grønnegata 38 address unconfirmed"
+},
+"tromso-fine_dining-1": {
+"en": "22-seat fine-dining room run by a chef couple since 2010, cooking with Northern Norwegian produce; dinner Wednesday to Saturday.",
+"ko": "2010년부터 셰프 부부가 운영하는 22석 파인다이닝. 북노르웨이 식재료로 요리하고 수~토요일 저녁만 엽니다.",
+"ok": 1
+},
+"tromso-fine_dining-2": {
+"en": "Restaurant in an 1833 building mixing Northern Norwegian produce with international flavours; dinner Tuesday to Saturday.",
+"ko": "1833년 건물의 레스토랑. 북노르웨이 식재료에 국제 풍미를 더하고 화~토요일 저녁만 엽니다.",
+"ok": 1
+},
+"tromso-fine_dining-3": {
+"en": "Harbourside seafood restaurant with three- and five-course dinner menus, oysters and caviar.",
+"ko": "항구 옆 해산물 레스토랑. 저녁엔 3·5코스 메뉴와 굴·캐비아를 냅니다.",
+"ok": 1
+},
+"trondheim-bakery-1": {
+"en": "Sourdough bakery by day that turns into a stone-oven pizzeria in the afternoon.",
+"ko": "낮에는 사워도우 빵집, 오후부터는 화덕 피자집이 되는 가게.",
+"ok": 1
+},
+"trondheim-bakery-2": {
+"en": "Trondheim bakery chain run by four generations since 1902, with its main shop on the original site.",
+"ko": "1902년부터 4대째 이어온 트론헤임 빵집 체인. 원래 빵집 자리에 본점이 있습니다.",
+"ok": 1
+},
+"trondheim-bakery-3": {
+"del": "French pleasures AS Trondheim not found in any source"
+},
+"trondheim-bakery-4": {
+"del": "Backstube Trondheim: Jomfrugata 5 address unconfirmed"
+},
+"trondheim-bakery-5": {
+"en": "Sister bakery of restaurant Sellanraa, baking with ancient grains and selling bread from a window in the morning.",
+"ko": "레스토랑 셀란라의 자매 빵집. 고대 곡물로 빵을 굽고 아침엔 창구에서 빵을 팝니다.",
+"ok": 1
+},
+"trondheim-cafe-1": {
+"del": "Dromedar at Håkon Jarls gate 2 (Øya) not found among the chain's listed branches"
+},
+"trondheim-cafe-2": {
+"del": "Dromedar Bakklandet listed as permanently closed"
+},
 "trondheim-fine_dining-1": {
 "en": "One-Michelin-star tasting-menu restaurant cooking with Trøndelag produce.",
 "ko": "트뢰넬라그 식재료로 테이스팅 메뉴를 내는 미쉐린 1스타 레스토랑.",
@@ -9460,6 +10481,16 @@
 "en": "One-Michelin-star dining room in the Britannia Hotel; Wednesday to Saturday evenings.",
 "ko": "브리타니아 호텔 안의 미쉐린 1스타 다이닝룸. 수~토 저녁에 엽니다.",
 "mi": "star1",
+"ok": 1
+},
+"trondheim-fine_dining-3": {
+"en": "Waterfront restaurant and bar opened in 2004, with seafood dishes and a rooftop terrace.",
+"ko": "2004년 문을 연 부둣가 레스토랑 겸 바. 해산물 요리와 옥상 테라스가 있습니다.",
+"ok": 1
+},
+"trondheim-fine_dining-4": {
+"en": "Café-restaurant in a restored old building, with reindeer stew, fish soup and a big aquavit list.",
+"ko": "옛 건물을 복원한 카페 겸 레스토랑. 순록 스튜와 생선 수프, 아쿠아비트가 다양합니다.",
 "ok": 1
 },
 "tropea-bakery-1": {
@@ -9618,11 +10649,55 @@
 "ko": "15세기 저택에 자리한 바 겸 레스토랑. 대성당이 보이는 테라스가 있습니다.",
 "ok": 1
 },
+"utrecht-bakery-1": {
+"en": "Artisan patisserie known for éclairs and lemon meringue pie; closed Sundays and Mondays.",
+"ko": "에클레어와 레몬 머랭 파이가 인기인 아르티장 제과점. 일·월요일은 쉽니다.",
+"ok": 1
+},
+"utrecht-bakery-2": {
+"en": "Bakery-lunchroom on a site baking bread since 1730, with an arched canal-side cellar.",
+"ko": "1730년부터 빵을 구워 온 자리의 빵집 겸 런치룸. 운하 옆 아치형 지하실이 있습니다.",
+"ok": 1
+},
+"utrecht-cafe-1": {
+"en": "Coffee bar opened in 2010 with rock music and live gigs; the banana bread is popular.",
+"ko": "2010년 문을 연 커피 바. 록 음악과 라이브 공연이 있고 바나나 브레드가 인기입니다.",
+"ok": 1
+},
+"utrecht-cafe-2": {
+"en": "Canal-side coffee spot focused on filter coffee, with board games and a living-room feel.",
+"ko": "필터 커피를 앞세운 운하변 커피 공간. 보드게임과 거실 같은 분위기가 있습니다.",
+"ok": 1
+},
+"utrecht-cafe-3": {
+"en": "Canal-side pub under this name since 1978, with a big tree-shaded terrace and Belgian beers.",
+"ko": "1978년부터 이 이름을 쓴 운하변 펍. 나무 그늘 아래 넓은 테라스와 벨기에 맥주가 있습니다.",
+"ok": 1
+},
 "utrecht-fine_dining-1": {
 "en": "One-Michelin-star restaurant in the Grand Hotel Karel V, a converted monastery; Wednesday to Saturday evenings.",
 "ko": "옛 수도원을 고친 그랜드 호텔 카럴 V 안의 미쉐린 1스타 레스토랑. 수~토 저녁에 엽니다.",
 "mi": "star1",
 "ok": 1
+},
+"utrecht-fine_dining-2": {
+"en": "Indonesian restaurant known for its rijsttafel, also offered in a vegan version.",
+"ko": "라이스타펠(인도네시아식 여러 접시 정찬)로 알려진 인도네시아 레스토랑. 비건 라이스타펠도 있습니다.",
+"mi": "",
+"ok": 1
+},
+"utrecht-fine_dining-3": {
+"en": "Restaurant in the former courthouse of the Court Hotel, serving local and international food from breakfast to dinner.",
+"ko": "옛 법원 건물 코트 호텔의 레스토랑. 아침부터 저녁까지 지역·국제 요리를 냅니다.",
+"ok": 1
+},
+"utrecht-fine_dining-4": {
+"en": "Fully plant-based restaurant with a canal-side terrace and its own bakery; no cash.",
+"ko": "운하변 테라스가 있는 완전 채식 레스토랑. 빵집도 겸하고 현금은 받지 않습니다.",
+"ok": 1
+},
+"utrecht-korean-1": {
+"del": "Bapsang BBQ Utrecht not found in any source"
 },
 "vaduz-bakery-1": {
 "en": "Small bakery-café in the heart of the Städtle, with Engadine nut cake and pear bread.",
@@ -9736,16 +10811,49 @@
 "ko": "엑스트라무르스의 작은 한식당 겸 발효식품 가게. 김치·잡채·비빔밥·보쌈이 있고 포장도 됩니다.",
 "ok": 1
 },
+"valletta-bakery-1": {
+"en": "Pastizzi shop baking daily from a 1940s family recipe; sometimes closes early, around 1pm.",
+"ko": "1940년대 가족 레시피로 매일 아침 굽는 파스티치 가게. 오후 1시쯤 일찍 닫기도 합니다.",
+"ok": 1
+},
+"valletta-bakery-2": {
+"en": "Ftira sandwich bar that turns into a cocktail bar at night; closed Sundays.",
+"ko": "몰타 빵 프티라 샌드위치 가게. 밤에는 칵테일 바로 바뀌고 일요일은 쉽니다.",
+"ok": 1
+},
+"valletta-cafe-1": {
+"en": "Specialty coffee roastery opened in 2017, roasting on site twice a week.",
+"ko": "2017년 문을 연 스페셜티 커피 로스터리. 일주일에 두 번 매장에서 원두를 볶습니다.",
+"ok": 1
+},
+"valletta-cafe-2": {
+"ok": 1
+},
 "valletta-fine_dining-1": {
 "en": "One-Michelin-star restaurant in the Rosselli hotel; closed Sundays and Mondays.",
 "ko": "로셀리 호텔 안의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
 },
+"valletta-fine_dining-2": {
+"en": "Simon Rogan's restaurant on the top floor of Iniala Harbour House; two MICHELIN stars (2026).",
+"ko": "이니알라 하버 하우스 꼭대기 층의 사이먼 로건 레스토랑. 미쉐린 2스타(2026)입니다.",
+"mi": "star2",
+"ok": 1
+},
 "valletta-fine_dining-3": {
 "en": "One-Michelin-star restaurant in a townhouse on Republic Street; closed Sundays and Mondays.",
 "ko": "리퍼블릭 거리 타운하우스의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
+"ok": 1
+},
+"valletta-fine_dining-4": {
+"mi": "bib",
+"ok": 1
+},
+"valletta-korean-1": {
+"en": "Chef Jay Lee's Korean fusion restaurant with kimchi, japchae, sushi and cocktails.",
+"ko": "이재 셰프의 한국 퓨전 레스토랑. 김치·잡채와 스시, 칵테일을 냅니다.",
 "ok": 1
 },
 "valletta-korean-2": {

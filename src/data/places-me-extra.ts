@@ -24,17 +24,12 @@ export const placesMEExtra: Place[] = [
   place('budva-korean-1', 'budva', 'korean', 'Korean Food Montenegro', 'Ulica 13. Jula 4, Budva', '부드바의 한식당. 비빔밥이 가장 호평을 받습니다.', 'Korean restaurant in Budva; the bibimbap gets the best reviews.'),
 
   // —— podgorica ——
-  place('podgorica-fine_dining-1', 'podgorica', 'fine_dining', 'Konoba \'Lanterna\' Podgorica', 'Marka Miljanova 41, Podgorica', '1630년에 지어진 스타라 바로시 지구의 역사적 가옥에서 즐기는 전통 몬테네그로 요리.', 'Traditional Montenegrin cuisine served in a historic 1630 house in the Stara Varoš district.'),
-  place('podgorica-fine_dining-2', 'podgorica', 'fine_dining', 'Pod Volat', 'Trg Vojvode Bećira Osmanagića 1, Podgorica', '포드고리차의 식당.', 'Restaurant in Podgorica.'),
-  place('podgorica-fine_dining-3', 'podgorica', 'fine_dining', 'SPAGO', 'Radoja Dakića 35, Podgorica', '포드고리차 음식점.', 'Restaurant in Podgorica.'),
-  place('podgorica-fine_dining-4', 'podgorica', 'fine_dining', 'Diplomat Restoran', 'Miljana Vukova 7, Podgorica', '포드고리차 음식점.', 'Restaurant in Podgorica.'),
-  place('podgorica-fine_dining-5', 'podgorica', 'fine_dining', 'Restoran Protokol', 'Ulica Marka Đukanovića 1/1, Podgorica', '포드고리차 음식점.', 'Restaurant in Podgorica.'),
+  place('podgorica-fine_dining-1', 'podgorica', 'fine_dining', 'Konoba \'Lanterna\' Podgorica', 'Kralja Nikole 36, Podgorica', '1630년에 지은 옛 가옥 안의 레스토랑. 화덕 피자와 지역 요리를 내고 일요일엔 음악 공연이 열립니다.', 'Restaurant in a house dating from 1630, with stone-oven pizza and local dishes; music on Sundays.'),
+  place('podgorica-fine_dining-2', 'podgorica', 'fine_dining', 'Pod Volat', 'Trg Vojvode Bećira Osmanagića 1, Podgorica', '시계탑 옆 스타라 바로시의 오래된 전통 식당. 푸짐한 모둠 그릴이 유명합니다.', 'Long-running traditional restaurant by the Clock Tower in Stara Varoš, known for its huge mixed grill.'),
+  place('podgorica-fine_dining-3', 'podgorica', 'fine_dining', 'SPAGO', 'Radoja Dakića 35, Podgorica', '이탈리아 레스토랑. 피자와 크럼블 디저트가 호평을 받습니다.', 'Italian restaurant praised for its pizza and crumble desserts.'),
+  place('podgorica-fine_dining-4', 'podgorica', 'fine_dining', 'Diplomat Restoran', 'Miljana Vukova 7, Podgorica', '몬테네그로 특선과 국제 요리를 내는 레스토랑. 퍼프 페이스트리 스테이크가 인기입니다.', 'Restaurant serving Montenegrin specialities and international dishes; the steak in puff pastry is popular.'),
   place('podgorica-bakery-2', 'podgorica', 'bakery', 'Pekara BITE Bakery', 'Svetozara Markovića 31, Podgorica', '포드고리차의 동네 빵집.', 'Neighbourhood bakery in Podgorica.'),
-  place('podgorica-bakery-3', 'podgorica', 'bakery', 'Rod Artisan Bakery', 'Bulevar Peka Dapčevića 28, Podgorica', '포드고리차 아르티장 베이커리.', 'Artisan bakery in Podgorica.'),
-  place('podgorica-cafe-1', 'podgorica', 'cafe', 'ZRNO', 'Rimski Trg 2, Podgorica', '포드고리차의 작은 커피 카페.', 'Small coffee café in Podgorica.'),
-  place('podgorica-cafe-2', 'podgorica', 'cafe', 'BRIEF coffee & brunch', 'Filipa Bajkovića 9/1, Podgorica', '포드고리차의 카페.', 'Café in Podgorica.'),
-  place('podgorica-cafe-3', 'podgorica', 'cafe', 'Oliva coffee', 'Trša Međedovića 26, Podgorica', '포드고리차의 커피숍.', 'Coffee shop in Podgorica.'),
-  place('podgorica-cafe-4', 'podgorica', 'cafe', 'Coffee Circus Drži Prži', 'Vuka Karadžića 9, Podgorica', '포드고리차 커피숍.', 'Coffee shop in Podgorica.'),
+  place('podgorica-cafe-1', 'podgorica', 'cafe', 'ZRNO', 'Rimski Trg 2, Podgorica', '로마 광장의 커피 바. 원두를 골라 마실 수 있고 실내외 자리가 넉넉합니다.', 'Coffee bar on Roman Square where you can pick your beans, with plenty of indoor and outdoor seating.'),
 
   // —— herceg-novi ——
   place('herceg-novi-fine_dining-1', 'herceg-novi', 'fine_dining', 'Konoba Feral', 'Vasa Ćukovića 4, Herceg Novi', '가족이 운영하는 구시가의 해산물 코노바. 생선 수프와 먹물 리소토가 인기입니다.', 'Family-run old-town seafood konoba; fish soup and black risotto are favourites.'),
