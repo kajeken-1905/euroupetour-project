@@ -369,6 +369,41 @@
 "addr": "Nene Hatun Cd. No:28/A, Gaziosmanpaşa, Çankaya, Ankara, Turkey",
 "ok": 1
 },
+"ankara-bakery-2": {
+"en": "Café on Tunalı Hilmi running since 1995, serving cakes, desserts and Sunday breakfast.",
+"ko": "1995년부터 투날르 힐미 거리에서 영업해 온 카페. 케이크·디저트와 일요일 브런치를 냅니다.",
+"name": "Café des Cafés",
+"ok": 1
+},
+"ankara-cafe-1": {
+"addr": "Barbaros, Bülten Sk. No:26/A, 06680 Çankaya/Ankara",
+"en": "Small café on Bülten Sokak off Tunalı Hilmi, with homemade cakes baked by the owner's family.",
+"ko": "투날르 힐미 근처 뷜텐 거리의 아담한 카페. 주인 가족이 구운 홈메이드 케이크를 냅니다.",
+"ok": 1
+},
+"ankara-cafe-2": {
+"del": 1
+},
+"ankara-cafe-3": {
+"en": "Specialty coffee shop on Kızılırmak Caddesi in Kavaklıdere.",
+"ko": "카바클르데레 크즐르르마크 거리의 스페셜티 커피숍.",
+"ok": 1
+},
+"ankara-fine_dining-1": {
+"addr": "Kavaklıdere, Tahran Cd. No:2, 06700 Çankaya/Ankara",
+"en": "Italian and European restaurant in Kavaklıdere, open since 2012.",
+"ko": "2012년부터 카바클르데레에서 영업하는 이탈리안·유러피언 레스토랑.",
+"ok": 1
+},
+"ankara-fine_dining-2": {
+"addr": "Kazım Özalp, Kuleli Sk. No:32, Gaziosmanpaşa, 06680 Çankaya/Ankara",
+"en": "Gaziosmanpaşa restaurant serving Aegean and Mediterranean seafood since 2002.",
+"ko": "2002년부터 에게해·지중해식 해산물 요리를 내는 가지오스만파샤의 레스토랑.",
+"ok": 1
+},
+"ankara-fine_dining-3": {
+"del": 1
+},
 "annecy-bakery-1": {
 "addr": "3 Rue du Lac, 74000 Annecy",
 "en": "Old-town bakery near the lake with gâteau de Savoie and praline brioche.",
@@ -406,11 +441,39 @@
 "annecy-korean-1": {
 "del": 1
 },
+"antalya-bakery-1": {
+"del": 1
+},
 "antalya-bakery-2": {
+"ok": 1
+},
+"antalya-cafe-1": {
+"addr": "Kılınçarslan, Hamam Sk. No:27, 07100 Muratpaşa/Antalya",
+"en": "Specialty coffee shop in Kaleiçi near Hadrian's Gate, roasting its own beans.",
+"ko": "구시가 칼레이치 하드리아누스 문 근처의 스페셜티 커피숍. 원두를 직접 볶습니다.",
 "ok": 1
 },
 "antalya-cafe-2": {
 "del": "위치가 출처마다 달라(칼레이치/라라) 확인할 수 없음"
+},
+"antalya-fine_dining-1": {
+"en": "Restaurant in a restored Ottoman mansion on a pedestrian lane in Kaleiçi, serving Mediterranean tasting menus.",
+"ko": "칼레이치 보행자 골목의 오스만 저택을 고친 레스토랑. 지중해식 코스 요리를 냅니다.",
+"ok": 1
+},
+"antalya-fine_dining-2": {
+"en": "Modern restaurant on Hesapçı Sokak in Kaleiçi, run by a British chef since 2007.",
+"ko": "2007년부터 칼레이치 헤사프츠 거리에서 영국인 셰프가 운영하는 모던 레스토랑.",
+"ok": 1
+},
+"antalya-fine_dining-3": {
+"addr": "Meltem, Atatürk Kültür Parkı, Dumlupınar Blv. No:201, 07030 Muratpaşa/Antalya",
+"en": "Turkish restaurant inside Atatürk Culture Park since 1997, with a sea-view terrace.",
+"ko": "1997년부터 아타튀르크 문화공원 안에서 영업하는 터키 요리 레스토랑. 바다 전망 테라스가 있습니다.",
+"ok": 1
+},
+"antalya-fine_dining-4": {
+"del": 1
 },
 "antwerp-bakery-1": {
 "en": "Bakery at the front, lunch corner at the back and high tea upstairs; long-fermented sourdough.",
@@ -1014,13 +1077,73 @@
 "ko": "만두·비빔밥·바비큐 등 한국 요리를 내는 바젤의 한식당.",
 "ok": 1
 },
+"bath-bakery-1": {
+"del": 1
+},
+"bath-bakery-2": {
+"del": 1
+},
+"bath-bakery-3": {
+"en": "Nordic-style café and bakery on the square by Bath Abbey.",
+"ko": "배스 사원 앞 광장의 북유럽풍 카페 겸 베이커리.",
+"ok": 1
+},
+"bath-bakery-4": {
+"addr": "2A Abbey Green, Bath BA1 1NW, United Kingdom",
+"en": "Traditional tearoom on Abbey Green, serving Bath buns and afternoon tea.",
+"ko": "애비 그린 광장의 전통 티룸. 이름처럼 배스 번과 애프터눈 티를 냅니다.",
+"name": "The Bath Bun",
+"ok": 1
+},
+"bath-cafe-1": {
+"en": "Coffee shop on a corner of Kingsmead Square, with plenty of outdoor seating on the square.",
+"ko": "킹스미드 광장 모퉁이의 커피숍. 광장 쪽 야외 좌석이 넓습니다.",
+"ok": 1
+},
+"bath-cafe-2": {
+"en": "Specialty coffee shop on Chapel Row by Queen Square.",
+"ko": "퀸 스퀘어 옆 채플 로의 스페셜티 커피숍.",
+"ok": 1
+},
+"bath-cafe-3": {
+"en": "Two-floor café overlooking Bath Abbey, with a breakfast menu.",
+"ko": "배스 사원이 보이는 2층짜리 카페. 아침 메뉴를 종일 냅니다.",
+"ok": 1
+},
 "bath-cafe-4": {
 "del": "배스에서 그 카페를 찾을 수 없음"
+},
+"bath-cafe-5": {
+"addr": "19 Kingsmead Square, Bath BA1 2AE, United Kingdom",
+"en": "Kingsmead Square branch of the café chain, serving brunch and coffee.",
+"ko": "킹스미드 광장의 카페 체인 지점. 브런치와 커피를 냅니다.",
+"ok": 1
+},
+"bath-fine_dining-1": {
+"en": "Open-kitchen restaurant serving a daily-changing surprise menu; open Wednesday to Saturday.",
+"ko": "셰프가 매일 바꾸는 '서프라이즈 메뉴'를 내는 오픈 키친 레스토랑. 수~토요일만 엽니다.",
+"ok": 1
 },
 "bath-fine_dining-2": {
 "en": "One-Michelin-star restaurant in the Queensberry Hotel.",
 "ko": "퀸즈베리 호텔 안의 미쉐린 1스타 레스토랑.",
 "mi": "star1",
+"ok": 1
+},
+"bath-fine_dining-3": {
+"addr": "The Abbey Hotel, 1-3 North Parade, Bath BA1 1LF, United Kingdom",
+"en": "Brasserie at The Abbey Hotel, serving British dishes from West Country produce.",
+"ko": "애비 호텔의 브라세리. 웨스트 컨트리 식재료로 영국 요리를 냅니다.",
+"ok": 1
+},
+"bath-fine_dining-4": {
+"en": "Wine bar and restaurant off Queen Square, with seasonal small plates and a long wine list.",
+"ko": "퀸 스퀘어 옆의 와인 바 겸 레스토랑. 제철 스몰 플레이트와 와인 리스트가 있습니다.",
+"ok": 1
+},
+"bath-fine_dining-5": {
+"en": "Restaurant in the 18th-century Pump Room beside the Roman Baths, serving breakfast, brunch and afternoon tea.",
+"ko": "로마 목욕탕 옆 18세기 펌프 룸의 레스토랑. 아침·브런치와 애프터눈 티를 냅니다.",
 "ok": 1
 },
 "batumi-bakery-1": {
@@ -1068,11 +1191,19 @@
 "ko": "대성당 근처의 프랑스 가정식 식당. 오래 거래한 지역 생산자의 제철 재료로 요리하고 채식 메뉴도 있습니다.",
 "ok": 1
 },
+"belfast-cafe-1": {
+"en": "Minimalist coffee shop in the Cathedral Quarter, serving all-day brunch.",
+"ko": "캐서드럴 쿼터의 미니멀한 커피숍. 종일 브런치를 냅니다.",
+"ok": 1
+},
 "belfast-fine_dining-1": {
 "en": "One-Michelin-star riverside restaurant in Belfast.",
 "ko": "벨파스트 강변의 미쉐린 1스타 레스토랑.",
 "mi": "star1",
 "ok": 1
+},
+"belfast-fine_dining-2": {
+"del": 1
 },
 "belgrade-bakery-1": {
 "ok": 1
@@ -1781,6 +1912,17 @@
 "bratislava-korean-1": {
 "del": 1
 },
+"brighton-bakery-2": {
+"en": "Neighbourhood bakery on Elm Grove, baking bread every night.",
+"ko": "엘름 그로브의 동네 빵집. 빵을 매일 밤 굽습니다.",
+"ok": 1
+},
+"brighton-bakery-3": {
+"del": 1
+},
+"brighton-bakery-4": {
+"del": 1
+},
 "brighton-bakery-5": {
 "del": "브라이턴에서 그 가게를 찾을 수 없음"
 },
@@ -1793,23 +1935,83 @@
 "ko": "세븐 다이얼스 근처의 작은 동네 카페. 지역 농산물로 만든 아침·브런치.",
 "ok": 1
 },
+"brighton-cafe-3": {
+"en": "Vintage tearoom in Kemptown serving afternoon tea and brunch.",
+"ko": "켐프타운의 빈티지 티룸. 애프터눈 티와 브런치를 냅니다.",
+"ok": 1
+},
 "brighton-cafe-4": {
 "del": "브라이턴에서 그 카페를 찾을 수 없음"
 },
 "brighton-cafe-5": {
 "del": "브라이턴에서 그 카페를 찾을 수 없음"
 },
+"brighton-fine_dining-1": {
+"en": "Seafood restaurant on the seafront road.",
+"ko": "해변 도로의 해산물 레스토랑.",
+"ok": 1
+},
+"brighton-fine_dining-2": {
+"en": "Open-kitchen restaurant in The Lanes, serving small-plate tasting menus.",
+"ko": "더 레인스 골목의 오픈 키친 레스토랑. 작은 접시 코스 요리를 냅니다.",
+"ok": 1
+},
 "brighton-fine_dining-3": {
 "del": "2023년 8월 폐업"
 },
+"brighton-fine_dining-4": {
+"en": "Charcoal-grill steak and seafood restaurant on North Street.",
+"ko": "노스 스트리트의 숯불 스테이크·해산물 레스토랑.",
+"ok": 1
+},
 "brighton-fine_dining-5": {
 "del": 1
+},
+"bristol-bakery-1": {
+"en": "Bakery and café in a railway arch under Temple Meads station.",
+"ko": "템플 미즈역 아래 철도 아치의 빵집 겸 카페.",
+"ok": 1
+},
+"bristol-bakery-2": {
+"addr": "1-5 Gaol Ferry Steps, Wapping Wharf, Bristol BS1 6WE, United Kingdom",
+"cat": "cafe",
+"en": "Organic grocery and café at Wapping Wharf, with a terrace.",
+"ko": "와핑 워프의 유기농 식료품점 겸 카페. 테라스가 있습니다.",
+"name": "Better Food Wapping Wharf",
+"ok": 1
+},
+"bristol-bakery-3": {
+"en": "Bedminster bakery and café, serving its own bread and brunch.",
+"ko": "베드민스터의 빵집 겸 카페. 직접 구운 빵과 브런치를 냅니다.",
+"ok": 1
 },
 "bristol-bakery-4": {
 "del": "브리스틀에서 그 가게를 찾을 수 없음"
 },
 "bristol-bakery-5": {
 "del": "브리스틀에서 그 가게를 찾을 수 없음"
+},
+"bristol-cafe-1": {
+"en": "Specialty coffee shop on Broad Street in the old city, with its own roastery nearby.",
+"ko": "구시가 브로드 스트리트의 스페셜티 커피숍. 근처에 자체 로스터리가 있습니다.",
+"ok": 1
+},
+"bristol-cafe-2": {
+"del": 1
+},
+"bristol-cafe-3": {
+"en": "Tiny old-city espresso bar, open since 2012.",
+"ko": "2012년 문을 연 구시가의 작은 에스프레소 바.",
+"ok": 1
+},
+"bristol-cafe-4": {
+"del": 1
+},
+"bristol-cafe-5": {
+"addr": "St Johns Court, Whiteladies Road, Clifton, Bristol BS8 2QY, United Kingdom",
+"en": "Whiteladies Road branch of the café chain in Clifton.",
+"ko": "클리프턴 화이트레이디스 로드의 카페 체인 지점.",
+"ok": 1
 },
 "bristol-fine_dining-1": {
 "en": "One-Michelin-star modern British restaurant in Cotham; closed Sundays and Mondays.",
@@ -1822,6 +2024,9 @@
 "ko": "레드랜드의 미쉐린 1스타 계절 요리 레스토랑. 일·월요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"bristol-fine_dining-5": {
+"del": 1
 },
 "brno-bakery-1": {
 "addr": "Zelný trh, 602 00 Brno",
@@ -2208,6 +2413,38 @@
 "ko": "부드바의 한식당. 비빔밥이 가장 호평을 받습니다.",
 "ok": 1
 },
+"bursa-bakery-1": {
+"en": "Old wood-oven bakery in Muradiye making Bursa's tahini pide (tahanlı).",
+"ko": "무라디예의 오래된 화덕 빵집. 부르사 명물 타히니 피데(타한르)를 굽습니다.",
+"ok": 1
+},
+"bursa-bakery-2": {
+"del": 1
+},
+"bursa-cafe-1": {
+"addr": "Karaağaç, Namazgah Cd. No:2, 16360 Yıldırım/Bursa",
+"en": "Long-established Bursa café overlooking the ravine near Setbaşı, known for its dondurma.",
+"ko": "세트바시 근처 계곡을 내려다보는 부르사의 오래된 카페. 돈두르마(터키 아이스크림)로 알려져 있습니다.",
+"ok": 1
+},
+"bursa-fine_dining-1": {
+"en": "Italian restaurant inside the Mövenpick hotel in Çekirge.",
+"ko": "체키르게 뫼벤픽 호텔 안의 이탈리안 레스토랑.",
+"name": "Da Vittorio Ristorante Italiano",
+"ok": 1
+},
+"bursa-fine_dining-2": {
+"addr": "Kayhan, Ünlü Cd. No:7, 16010 Osmangazi/Bursa",
+"en": "Central Bursa kebab house run by the family that created the İskender kebab.",
+"ko": "이스켄데르 케밥을 처음 만든 가문이 운영하는 부르사 중심가의 케밥집.",
+"ok": 1
+},
+"bursa-fine_dining-3": {
+"addr": "Yeşil, Akyokuş Sk. No:17, 16360 Yıldırım/Bursa",
+"en": "Restaurant near the Green Mosque serving Bursa-style döner and İskender, with city views.",
+"ko": "예실 사원 근처에서 부르사식 되네르와 이스켄데르를 내는 식당. 시내 전망이 있습니다.",
+"ok": 1
+},
 "cagliari-bakery-1": {
 "addr": "Via Enrico Lai 4, 09128 Cagliari",
 "ok": 1
@@ -2240,8 +2477,41 @@
 "ko": "피냐 마을 입구 옛 양 우리 건물의 가족 식당. 미쉐린 가이드에 실려 있고 텃밭 채소와 장작불에 구운 새끼돼지·양고기를 냅니다. 4~10월 초에 엽니다(칼비에서 차로 20분).",
 "ok": 1
 },
+"cambridge-bakery-1": {
+"addr": "51-52 Trumpington Street, Cambridge CB2 1RG, United Kingdom",
+"en": "Bakery café on Trumpington Street, known for its Chelsea buns.",
+"ko": "첼시 번으로 알려진 트럼핑턴 거리의 베이커리 카페.",
+"ok": 1
+},
+"cambridge-bakery-2": {
+"del": 1
+},
 "cambridge-bakery-3": {
 "del": "케임브리지에서 그 가게를 찾을 수 없음"
+},
+"cambridge-cafe-1": {
+"en": "Trumpington Street branch of a local roaster's café.",
+"ko": "트럼핑턴 거리의 로스터리 카페 지점.",
+"ok": 1
+},
+"cambridge-cafe-2": {
+"en": "Tiny specialty coffee shop opposite the Round Church.",
+"ko": "라운드 처치 맞은편의 아주 작은 스페셜티 커피숍.",
+"ok": 1
+},
+"cambridge-cafe-3": {
+"del": 1
+},
+"cambridge-cafe-4": {
+"addr": "9 The Broadway, Mill Road, Cambridge CB1 3NA, United Kingdom",
+"en": "Mill Road café and deli, with a new doughnut flavour each week.",
+"ko": "밀 로드의 카페 겸 델리. 매주 새 맛 도넛을 냅니다.",
+"ok": 1
+},
+"cambridge-cafe-5": {
+"en": "Café inside St Michael's Church on Trinity Street, serving seasonal lunches and cakes.",
+"ko": "트리니티 거리 성 미카엘 교회 안의 카페. 제철 점심과 케이크를 냅니다.",
+"ok": 1
 },
 "cambridge-fine_dining-1": {
 "en": "Two-Michelin-star restaurant on Midsummer Common by the Cam; Wednesday to Saturday.",
@@ -2252,7 +2522,22 @@
 "cambridge-fine_dining-2": {
 "del": "2018년 10월 폐업"
 },
+"cambridge-fine_dining-3": {
+"en": "Bistro in a former inn, serving British and European dishes with courtyard seating.",
+"ko": "옛 여관 건물의 비스트로. 영국·유럽 요리와 안뜰 좌석이 있습니다.",
+"ok": 1
+},
 "canterbury-bakery-1": {
+"ok": 1
+},
+"canterbury-cafe-1": {
+"en": "Brunch café on St Dunstan's Street since 2003; no reservations.",
+"ko": "2003년부터 영업한 세인트 던스턴 거리의 브런치 카페. 예약을 받지 않습니다.",
+"ok": 1
+},
+"canterbury-cafe-2": {
+"en": "Brunch café on Palace Street with cathedral views upstairs and a vegan menu.",
+"ko": "팰리스 거리의 브런치 카페. 위층에서 대성당이 보이고 비건 메뉴가 있습니다.",
 "ok": 1
 },
 "canterbury-fine_dining-1": {
@@ -2265,6 +2550,22 @@
 "ok": 1
 },
 "capri-fine_dining-2": {
+"ok": 1
+},
+"cardiff-bakery-1": {
+"en": "Welsh-cake stall in Cardiff Central Market, where you can watch them cooked on the griddle.",
+"ko": "카디프 중앙시장의 웰시 케이크 노점. 철판에 굽는 모습을 볼 수 있습니다.",
+"ok": 1
+},
+"cardiff-bakery-2": {
+"addr": "Mermaid Quay, Bute Street, Cardiff CF10 5BZ, United Kingdom",
+"en": "Welsh-cake shop at Mermaid Quay in Cardiff Bay, the business's first shop.",
+"ko": "카디프 베이 머메이드 키의 웰시 케이크 가게. 이 집의 첫 매장입니다.",
+"ok": 1
+},
+"cardiff-cafe-1": {
+"en": "Café and roastery in Canton, serving brunch.",
+"ko": "캔턴의 카페 겸 로스터리. 브런치를 냅니다.",
 "ok": 1
 },
 "cascais-bakery-1": {
@@ -2687,6 +2988,14 @@
 "addr": "7 High Street, Conwy LL32 8DB",
 "ok": 1
 },
+"conwy-fine_dining-1": {
+"del": 1
+},
+"conwy-fine_dining-2": {
+"en": "Georgian coaching-inn pub inside Conwy's town walls, known for Sunday roasts.",
+"ko": "콘위 성벽 안의 조지 시대 역마차 여관 펍. 선데이 로스트를 냅니다.",
+"ok": 1
+},
 "cordoba-bakery-1": {
 "del": 1
 },
@@ -2827,6 +3136,26 @@
 "ok": 1
 },
 "cortina-fine_dining-1": {
+"ok": 1
+},
+"cotswolds-bakery-1": {
+"en": "Family-run bakery café in Bourton-on-the-Water, open since 1978, with riverside seating.",
+"ko": "1978년 문을 연 버턴온더워터의 가족 운영 빵집 겸 카페. 강가 좌석이 있습니다.",
+"ok": 1
+},
+"cotswolds-cafe-1": {
+"en": "Tearoom in a 1693 building on Chipping Campden's High Street, baking scones and cakes daily.",
+"ko": "치핑 캠든 하이 스트리트의 1693년 건물에 있는 티룸. 매일 스콘과 케이크를 굽습니다.",
+"ok": 1
+},
+"cotswolds-fine_dining-1": {
+"en": "Inn and pub in Bourton-on-the-Water dating from 1712; food is served only on set days and times.",
+"ko": "1712년부터 이어진 버턴온더워터의 여관 펍. 식사는 정해진 요일·시간에만 냅니다.",
+"ok": 1
+},
+"cotswolds-fine_dining-2": {
+"en": "Stow-on-the-Wold inn said to be England's oldest, with a restaurant and a pub.",
+"ko": "영국에서 가장 오래된 여관이라고 알려진 스토온더월드의 여관. 레스토랑과 펍이 있습니다.",
 "ok": 1
 },
 "cph-bk-1": {
@@ -3001,6 +3330,12 @@
 "delphi-fine_dining-2": {
 "en": "Family-run taverna with valley views, using its own olives and local produce, with many vegetarian and vegan dishes.",
 "ko": "계곡이 보이는 가족 운영 타베르나. 직접 기른 올리브와 지역 식재료를 쓰고 채식·비건 메뉴가 많습니다.",
+"ok": 1
+},
+"derry-fine_dining-1": {
+"addr": "70 Ebrington Square, Derry BT47 6FA",
+"en": "Brewery and taproom on Ebrington Square, serving its own beers with food.",
+"ko": "에브링턴 광장의 양조장 겸 탭룸. 직접 만든 맥주와 식사를 냅니다.",
 "ok": 1
 },
 "derry-fine_dining-2": {
@@ -3321,11 +3656,46 @@
 "echternach-fine_dining-2": {
 "del": "Café Restaurant du Musée Echternach not found in any source"
 },
+"edinburgh-bakery-1": {
+"en": "Sourdough and doughnut bakery, open since 2014.",
+"ko": "2014년 문을 연 사워도우·도넛 빵집.",
+"ok": 1
+},
+"edinburgh-bakery-2": {
+"en": "Leith cake and pastry shop, with carrot cake and cinnamon buns.",
+"ko": "리스의 케이크·페이스트리 가게. 당근 케이크와 시나몬 번이 있습니다.",
+"ok": 1
+},
+"edinburgh-bakery-4": {
+"en": "Cake café on West Port, open since 2010, with a daily-changing slice counter.",
+"ko": "2010년 문을 연 웨스트 포트의 케이크 카페. 매일 굽는 조각 케이크를 냅니다.",
+"ok": 1
+},
+"edinburgh-cafe-1": {
+"en": "Specialty coffee shop opened in 2012, now run by the roaster Union.",
+"ko": "2012년 문을 연 스페셜티 커피숍. 지금은 로스터 유니언이 운영합니다.",
+"name": "Union Brew Lab",
+"ok": 1
+},
+"edinburgh-cafe-2": {
+"addr": "Custom Lane, 1 Customs Wharf, Leith, Edinburgh EH6 6AL, United Kingdom",
+"en": "Roastery café inside the Custom Lane building in Leith.",
+"ko": "리스 커스텀 레인 건물 안의 로스터리 카페.",
+"ok": 1
+},
+"edinburgh-cafe-3": {
+"en": "Small coffee shop on Cockburn Street.",
+"ko": "콕번 거리의 작은 커피숍.",
+"ok": 1
+},
 "edinburgh-cafe-4": {
 "addr": "Melville Place, Edinburgh (West End)",
 "en": "West End specialty coffee café with outdoor seats facing St Mary’s Cathedral.",
 "ko": "웨스트엔드의 스페셜티 커피 카페. 바깥 자리에서 세인트 메리 대성당이 보입니다.",
 "ok": 1
+},
+"edinburgh-cafe-5": {
+"del": 1
 },
 "edinburgh-fine_dining-1": {
 "addr": "54 The Shore, Leith, Edinburgh EH6 6RA",
@@ -3341,11 +3711,19 @@
 "mi": "star1",
 "ok": 1
 },
+"edinburgh-fine_dining-3": {
+"en": "Tasting-menu restaurant at The Balmoral hotel.",
+"ko": "발모럴 호텔의 코스 요리 레스토랑.",
+"ok": 1
+},
 "edinburgh-fine_dining-4": {
 "en": "One-Michelin-star restaurant in a former warehouse; closed Mondays and Tuesdays.",
 "ko": "옛 창고 건물의 미쉐린 1스타 레스토랑. 월·화요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"edinburgh-fine_dining-5": {
+"del": 1
 },
 "eger-bakery-1": {
 "del": "no Lipóti branch confirmed in Eger"
@@ -4072,6 +4450,16 @@
 "ko": "한국식 바비큐·김치볶음밥·치킨을 내는 한식당.",
 "ok": 1
 },
+"giants-causeway-fine_dining-1": {
+"en": "Restaurant in the Bushmills Inn's 17th-century stables and wine cellar, open every day of the year.",
+"ko": "17세기 마구간과 와인 저장고를 고친 부시밀스 인 호텔의 레스토랑. 연중 매일 엽니다.",
+"ok": 1
+},
+"giants-causeway-fine_dining-3": {
+"en": "Modern brasserie in Bushmills, in a former home of the distillery owners.",
+"ko": "증류소 주인의 옛집을 고친 부시밀스의 모던 브라세리.",
+"ok": 1
+},
 "gibraltar-bakery-1": {
 "del": 1
 },
@@ -4241,10 +4629,35 @@
 "ko": "성 가까이의 가족 운영 식당. 테라스에서 성과 구시가가 보입니다.",
 "ok": 1
 },
+"glasgow-cafe-1": {
+"en": "Tearoom in the Willow Tea Rooms building designed by Mackintosh in 1903; renamed in February 2026.",
+"ko": "매킨토시가 1903년 설계한 윌로 티룸 건물의 찻집. 2026년 2월 이름이 바뀌었습니다.",
+"name": "The Mackintosh Tearooms",
+"ok": 1
+},
+"glasgow-fine_dining-1": {
+"addr": "8-12 Ashton Lane, Glasgow G12 8SJ",
+"en": "Scottish restaurant on Ashton Lane, with a courtyard dining room full of plants and a fish pond.",
+"ko": "애슈턴 레인의 스코틀랜드 요리 레스토랑. 식물과 연못으로 꾸민 안뜰 식당이 있습니다.",
+"ok": 1
+},
 "glasgow-fine_dining-2": {
 "en": "Small-plates bistro on Sauchiehall Street, listed in the MICHELIN Guide, refurbished in early 2025.",
 "ko": "사우키홀 거리의 스몰 플레이트 비스트로. 미쉐린 가이드에 실려 있고 2025년 초 새 단장했습니다.",
 "ok": 1
+},
+"goreme-bakery-1": {
+"en": "Round-the-clock café on Göreme's main square, serving baklava, künefe and coffee.",
+"ko": "괴레메 중심 광장의 24시간 카페. 바클라바·퀴네페와 커피를 냅니다.",
+"ok": 1
+},
+"goreme-cafe-1": {
+"en": "Coffee house on Belediye Caddesi in central Göreme, with an outdoor terrace with fire bowls.",
+"ko": "괴레메 중심가 벨레디예 거리의 커피하우스. 불 화로가 있는 야외 테라스가 있습니다.",
+"ok": 1
+},
+"goreme-fine_dining-1": {
+"del": 1
 },
 "gothenburg-bakery-1": {
 "ok": 1
@@ -5056,8 +5469,115 @@
 "ko": "크래프트 맥주 종류가 많은 펍. 버거 등 간단한 요리를 냅니다.",
 "ok": 1
 },
+"inverness-fine_dining-1": {
+"en": "Riverside brasserie with views of the Ness and the castle, using Scottish produce.",
+"ko": "네스강과 성이 보이는 강변의 브라세리. 스코틀랜드 식재료를 씁니다.",
+"ok": 1
+},
+"inverness-fine_dining-2": {
+"en": "Restaurant in a converted church on the River Ness, with a river-view terrace.",
+"ko": "네스강 변 옛 교회 건물의 레스토랑. 강이 보이는 테라스가 있습니다.",
+"ok": 1
+},
+"inverness-fine_dining-3": {
+"en": "Scottish restaurant on Castle Street with an open kitchen, using produce from its own croft.",
+"ko": "캐슬 스트리트의 스코틀랜드 요리 레스토랑. 오픈 키친이고 자체 농장 식재료를 씁니다.",
+"ok": 1
+},
+"isle-of-skye-cafe-1": {
+"en": "First-floor café overlooking Portree harbour, with all-day breakfasts and vegetarian dishes.",
+"ko": "포트리 항구가 보이는 2층 카페. 종일 아침 식사와 채식 메뉴가 있습니다.",
+"ok": 1
+},
+"isle-of-skye-fine_dining-1": {
+"en": "Seafood tasting-menu restaurant in a lochside cottage on Loch Dunvegan, open since 1984.",
+"ko": "1984년 문을 연 던비건 호숫가 오두막의 해산물 코스 레스토랑.",
+"ok": 1
+},
+"isle-of-skye-fine_dining-2": {
+"en": "Small restaurant above Portree harbour, cooking seasonal Scottish produce; booking advised.",
+"ko": "포트리 항구 위의 작은 레스토랑. 스코틀랜드 제철 식재료를 씁니다. 예약을 권합니다.",
+"ok": 1
+},
 "istanbul-bakery-1": {
 "del": "이스탄불에서 그 빵집을 찾을 수 없음"
+},
+"istanbul-bakery-2": {
+"addr": "Kemankeş Karamustafa Paşa, Kemankeş Cd. No:67, 34425 Beyoğlu/İstanbul",
+"en": "Baklava specialist in Karaköy.",
+"ko": "카라쾨이의 바클라바 전문점.",
+"ok": 1
+},
+"istanbul-bakery-3": {
+"en": "Classic Kadıköy pâtisserie open since 1961, known for its kup sundae.",
+"ko": "1961년부터 카드쾨이에서 영업하는 클래식 파티스리. 쿠프(선데)로 알려져 있습니다.",
+"ok": 1
+},
+"istanbul-bakery-4": {
+"en": "Sirkeci shop of the confectioner founded in 1864, selling baklava and lokum.",
+"ko": "1864년 창업한 디저트 가게의 시르케지 매장. 바클라바·로쿰을 팝니다.",
+"ok": 1
+},
+"istanbul-cafe-1": {
+"del": 1
+},
+"istanbul-cafe-2": {
+"addr": "Asmalı Mescit, Olivya Geçidi No:1/A, 34430 Beyoğlu/İstanbul",
+"en": "Tiny coffee house off İstiklal serving only Turkish coffee since 1967.",
+"ko": "1967년부터 이스티클랄 거리 옆 골목에서 터키식 커피만 내는 작은 커피집.",
+"ok": 1
+},
+"istanbul-cafe-3": {
+"addr": "Teşvikiye, Prof. Dr. Orhan Ersek Sk. No:18/7, 34365 Şişli/İstanbul",
+"en": "Petra Roasting Co. branch café in the Topağacı area of Nişantaşı.",
+"ko": "니샨타시 토파아즈 동네의 페트라 로스팅 지점 카페.",
+"ok": 1
+},
+"istanbul-cafe-4": {
+"addr": "Kemankeş Karamustafa Paşa, Kara Ali Kaptan Sk. No:7, 34425 Beyoğlu/İstanbul",
+"en": "Karaköy side-street café opened in 2011, serving Julius Meinl coffee.",
+"ko": "2011년 문을 연 카라쾨이 골목의 카페. 율리우스 마이늘 커피를 냅니다.",
+"ok": 1
+},
+"istanbul-fine_dining-1": {
+"addr": "Meşrutiyet Cd. No:15, 18th floor, Tepebaşı, 34430 Beyoğlu/İstanbul",
+"en": "Modern Turkish rooftop restaurant overlooking the Bosphorus. One Michelin star.",
+"ko": "호텔 옥상에서 보스포루스를 내려다보는 모던 터키 요리 레스토랑. 미쉐린 1스타.",
+"mi": "star1",
+"ok": 1
+},
+"istanbul-fine_dining-2": {
+"addr": "Arap Camii, Bankalar Cd. No:11/1, 34420 Beyoğlu/İstanbul",
+"en": "Anatolian tasting-menu restaurant in the SALT Galata building. One Michelin star.",
+"ko": "SALT 갈라타 건물의 아나톨리아 요리 코스 레스토랑. 미쉐린 1스타.",
+"mi": "star1",
+"ok": 1
+},
+"istanbul-fine_dining-3": {
+"addr": "Beyazıt, Nuruosmaniye Cd., Sandal Bedesteni, 34126 Fatih/İstanbul",
+"en": "Steakhouse inside the Sandal Bedesteni of the Grand Bazaar.",
+"ko": "그랜드 바자르 산달 베데스테니 안의 스테이크하우스.",
+"name": "Nusr-Et Grand Bazaar",
+"ok": 1
+},
+"istanbul-fine_dining-4": {
+"addr": "Caferağa, Güneşlibahçe Sk. No:43, 34710 Kadıköy/İstanbul",
+"en": "Kadıköy market-street restaurant serving regional Anatolian dishes that change daily.",
+"ko": "카드쾨이 시장 골목에서 아나톨리아 지방 요리를 매일 바꿔 내는 식당.",
+"ok": 1
+},
+"istanbul-fine_dining-5": {
+"addr": "Rüstempaşa, Mısır Çarşısı İçi No:1, Eminönü, 34116 Fatih/İstanbul",
+"en": "Ottoman-cuisine restaurant above the entrance of the Spice Bazaar. Michelin Bib Gourmand.",
+"ko": "이집트 시장(향신료 시장) 입구 위층의 오스만 요리 레스토랑. 미쉐린 빕 구르망.",
+"mi": "bib",
+"ok": 1
+},
+"izmir-bakery-1": {
+"addr": "Alsancak, Kıbrıs Şehitleri Cd. No:185/A, 35220 Konak/İzmir",
+"en": "Alsancak shop selling bomba, Izmir's molten-chocolate pastry.",
+"ko": "초콜릿이 흘러나오는 이즈미르 명물 디저트 봄바를 파는 알산작의 가게.",
+"ok": 1
 },
 "izmir-bakery-2": {
 "addr": "Kıbrıs Şehitleri Caddesi No:120, Alsancak, 35220 Konak/İzmir",
@@ -5068,8 +5588,37 @@
 "izmir-bakery-3": {
 "del": "주소를 확인할 수 없음"
 },
+"izmir-cafe-1": {
+"del": 1
+},
 "izmir-cafe-2": {
 "addr": "Kültür Mahallesi, Alsancak, Konak/İzmir",
+"ok": 1
+},
+"izmir-fine_dining-1": {
+"addr": "Bostanlı, Cemal Bülbül Sk. No:15/A, 35590 Karşıyaka/İzmir",
+"en": "Steak and grill restaurant in Bostanlı, Karşıyaka, with a wide choice of meze.",
+"ko": "카르시야카 보스탄르의 스테이크·고기 요리 레스토랑. 메제도 다양합니다.",
+"name": "Etçiahmet",
+"ok": 1
+},
+"izmir-fine_dining-2": {
+"en": "Seafood and meze restaurant on the Kordon waterfront, in the İzmir Palas Hotel building.",
+"ko": "이즈미르 팔라스 호텔 1층, 코르돈 해변의 해산물·메제 레스토랑.",
+"ok": 1
+},
+"izmir-fine_dining-3": {
+"addr": "Konak Pier, Atatürk Cd. No:19, 35250 Konak/İzmir",
+"en": "Sea-view Mediterranean restaurant in the Konak Pier shopping centre.",
+"ko": "코나크 피어 쇼핑센터의 바다 전망 지중해식 레스토랑.",
+"name": "North Pier's",
+"ok": 1
+},
+"izmir-fine_dining-4": {
+"addr": "Akdeniz, Atatürk Cd. No:158/A, Pasaport, 35210 Konak/İzmir",
+"en": "Aegean-Cretan seafood meyhane on the Pasaport waterfront since 1989.",
+"ko": "1989년부터 파사포르트 해안에서 영업하는 에게해·크레타식 해산물 메이하네.",
+"name": "Sakız Alsancak",
 "ok": 1
 },
 "jurmala-bakery-1": {
@@ -5601,6 +6150,57 @@
 "ko": "리오니강 옆 갈락티온 타비제 동상 근처 호텔 마그놀리아의 조지아 요리 식당. 아자리아식 하차푸리가 인기입니다.",
 "ok": 1
 },
+"kyiv-bakery-1": {
+"del": 1
+},
+"kyiv-bakery-2": {
+"del": 1
+},
+"kyiv-cafe-1": {
+"en": "Small café on a backstreet near Lva Tolstoho Square, serving pour-over coffee.",
+"ko": "레프 톨스토이 광장 근처 골목의 작은 카페. 핸드드립 커피를 냅니다.",
+"ok": 1
+},
+"kyiv-cafe-2": {
+"del": 1
+},
+"kyiv-cafe-3": {
+"addr": "Reitarska St 9B, 01034 Kyiv, Ukraine",
+"en": "Small espresso bar in a courtyard on Reitarska Street.",
+"ko": "레이타르스카 거리 안뜰의 작은 에스프레소 바.",
+"ok": 1
+},
+"kyiv-cafe-4": {
+"del": 1
+},
+"kyiv-fine_dining-1": {
+"addr": "Mezhyhirska St 82, Kyiv, 02000, Ukraine",
+"en": "Modern Ukrainian restaurant in Podil, opened in 2021 by chef Mirali Dilbazi.",
+"ko": "포딜 지구의 모던 우크라이나 요리 레스토랑. 2021년 셰프 미랄리 딜바지가 열었습니다.",
+"ok": 1
+},
+"kyiv-fine_dining-2": {
+"en": "Modern Ukrainian restaurant on Andriivskyi Descent.",
+"ko": "안드리이우스키 언덕길의 모던 우크라이나 요리 레스토랑.",
+"ok": 1
+},
+"kyiv-fine_dining-3": {
+"del": 1
+},
+"kyiv-fine_dining-4": {
+"en": "Ukrainian restaurant aboard a boat on the Dnipro river.",
+"ko": "드니프로강 위 배에 자리한 우크라이나 요리 레스토랑.",
+"ok": 1
+},
+"kyiv-korean-1": {
+"del": 1
+},
+"kyiv-korean-2": {
+"del": 1
+},
+"kyiv-korean-3": {
+"del": 1
+},
 "la-rochelle-fine_dining-1": {
 "en": "Three-Michelin-star seafood restaurant on the Plage de la Concurrence; closed Sundays and Mondays.",
 "ko": "콩퀴랑스 해변의 미쉐린 3스타 해산물 레스토랑. 일·월요일은 쉽니다.",
@@ -5649,6 +6249,11 @@
 "ko": "'파란 문'으로 불리는 가족 운영 식당. 생선을 골라 구워 먹고 조개 카타플라나가 인기입니다.",
 "ok": 1
 },
+"lake-district-bakery-1": {
+"en": "Shop in the cottage where Grasmere Gingerbread was first made in 1854.",
+"ko": "1854년 그래스미어 진저브레드가 처음 만들어진 오두막의 가게.",
+"ok": 1
+},
 "lake-district-fine_dining-1": {
 "en": "One-Michelin-star restaurant in Grasmere cooking with garden and foraged produce.",
 "ko": "그래스미어의 미쉐린 1스타 레스토랑. 텃밭과 채집 재료로 요리합니다.",
@@ -5659,6 +6264,11 @@
 "en": "Small one-Michelin-star restaurant in Ambleside cooking with Cumbrian produce.",
 "ko": "앰블사이드의 작은 미쉐린 1스타 레스토랑. 컴브리아 향토 재료를 씁니다.",
 "mi": "star1",
+"ok": 1
+},
+"lake-district-fine_dining-3": {
+"en": "Restaurant in central Ambleside since 1980, sharing its site with a cinema and jazz bar.",
+"ko": "1980년부터 앰블사이드 중심가에서 영업하는 레스토랑. 영화관·재즈 바와 함께 있습니다.",
 "ok": 1
 },
 "lausanne-bakery-1": {
@@ -6107,15 +6717,62 @@
 "lisbon-korean-5": {
 "del": "Tae Dong Gwan Lisbon not found in any source"
 },
+"liverpool-bakery-1": {
+"addr": "Unit 2A, Britannia Pavilion, Royal Albert Dock, Liverpool L3 4AD, United Kingdom",
+"en": "Bakery café at the Royal Albert Dock, with an open kitchen.",
+"ko": "로열 앨버트 독의 빵집 겸 카페. 오픈 키친이 있습니다.",
+"ok": 1
+},
 "liverpool-bakery-2": {
 "del": "리버풀에서 그 가게를 찾을 수 없음"
+},
+"liverpool-bakery-3": {
+"en": "Bakery café in the Baltic Triangle, serving sourdough and pastries.",
+"ko": "발틱 트라이앵글의 빵집 겸 카페. 사워도우와 페이스트리를 냅니다.",
+"ok": 1
+},
+"liverpool-bakery-4": {
+"en": "Co-operative bakery opposite the Kop at Anfield, known for its pies.",
+"ko": "안필드 경기장 콥 스탠드 맞은편의 협동조합 빵집. 파이로 알려져 있습니다.",
+"ok": 1
+},
+"liverpool-cafe-1": {
+"en": "Specialty coffee shop on Bold Street since 2009.",
+"ko": "2009년부터 볼드 스트리트에서 영업하는 스페셜티 커피숍.",
+"ok": 1
 },
 "liverpool-cafe-2": {
 "del": "리버풀에서 그 카페를 찾을 수 없음"
 },
+"liverpool-cafe-5": {
+"en": "Café on Smithdown Road, opened in 2019, serving food from breakfast to evening.",
+"ko": "2019년 문을 연 스미스다운 로드의 카페. 아침부터 저녁까지 식사를 냅니다.",
+"ok": 1
+},
+"liverpool-fine_dining-1": {
+"en": "Chef Tony Parkin's tasting-menu restaurant in Oxton, opened in February 2026.",
+"ko": "2026년 2월 옥스턴에 문을 연 셰프 토니 파킨의 코스 요리 레스토랑.",
+"name": "Daise by Tony Parkin",
+"ok": 1
+},
 "liverpool-fine_dining-2": {
 "en": "Restaurant in a former art school building, listed in the MICHELIN Guide.",
 "ko": "옛 미술학교 건물의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"liverpool-fine_dining-3": {
+"en": "Catalan and Spanish restaurant and deli in Liverpool ONE.",
+"ko": "리버풀 원의 카탈루냐·스페인 요리 레스토랑 겸 델리.",
+"ok": 1
+},
+"liverpool-fine_dining-4": {
+"en": "Bold Street restaurant serving Mediterranean and Middle Eastern small plates, open since 2014.",
+"ko": "2014년 문을 연 볼드 스트리트의 지중해·중동식 스몰 플레이트 레스토랑.",
+"ok": 1
+},
+"liverpool-fine_dining-5": {
+"en": "Neighbourhood bistro on Smithdown Road, open Wednesday to Sunday.",
+"ko": "스미스다운 로드의 동네 비스트로. 수~일요일 엽니다.",
 "ok": 1
 },
 "ljubljana-bakery-1": {
@@ -6438,6 +7095,32 @@
 },
 "lux-fd-5": {
 "addr": "18 Place d’Armes, 1136 Luxembourg",
+"ok": 1
+},
+"lviv-bakery-1": {
+"del": 1
+},
+"lviv-bakery-2": {
+"del": 1
+},
+"lviv-cafe-1": {
+"en": "Coffee shop on Cathedral Square that roasts its own beans.",
+"ko": "대성당 광장의 커피숍. 원두를 직접 볶습니다.",
+"ok": 1
+},
+"lviv-cafe-2": {
+"en": "Café inside the Town Hall building, decorated with historic Lviv photos and serving the Leopolis cake.",
+"ko": "시청사(라투샤) 건물 안의 카페. 리비우 역사 사진으로 꾸몄고 '레오폴리스' 케이크를 냅니다.",
+"ok": 1
+},
+"lviv-fine_dining-1": {
+"en": "European restaurant on Cathedral Square next to the Latin Cathedral, with a covered summer terrace.",
+"ko": "라틴 대성당 옆 대성당 광장의 유럽 요리 레스토랑. 지붕 덮인 여름 테라스가 있습니다.",
+"ok": 1
+},
+"lviv-fine_dining-2": {
+"en": "Meat-focused restaurant in the Astoria Hotel building, with its own entrance.",
+"ko": "아스토리아 호텔 건물의 고기 요리 레스토랑. 출입구가 따로 있습니다.",
 "ok": 1
 },
 "lyon-bakery-1": {
@@ -6790,14 +7473,71 @@
 "ko": "마스터셰프 스웨덴 우승자가 연 말뫼 최초의 한식당. 나눠 먹는 요리를 냅니다.",
 "ok": 1
 },
+"manchester-bakery-1": {
+"en": "Bakery by Ancoats Marina, known for its cinnamon morning bun.",
+"ko": "앤코츠 마리나 옆의 빵집. 시나몬 모닝 번으로 알려져 있습니다.",
+"ok": 1
+},
+"manchester-bakery-2": {
+"en": "Small grab-and-go bakery in Ancoats, serving croissants and pastries.",
+"ko": "앤코츠의 작은 테이크아웃 빵집. 크루아상과 페이스트리를 냅니다.",
+"ok": 1
+},
+"manchester-bakery-3": {
+"addr": "Ducie Street Warehouse, 51 Ducie Street, Manchester M1 2JW, United Kingdom",
+"en": "Dessert bakery inside Ducie Street Warehouse near Piccadilly station.",
+"ko": "피커딜리역 근처 듀시 스트리트 웨어하우스 안의 디저트 빵집.",
+"ok": 1
+},
+"manchester-bakery-4": {
+"del": 1
+},
 "manchester-bakery-5": {
 "del": "맨체스터에서 그 빵집을 찾을 수 없음"
+},
+"manchester-cafe-1": {
+"del": 1
+},
+"manchester-cafe-2": {
+"addr": "Unit 9, Royal Mills, 17 Redhill Street, Manchester M4 5BA, United Kingdom",
+"en": "Roastery café in Royal Mills, Ancoats, since 2015.",
+"ko": "2015년부터 앤코츠 로열 밀스에서 영업하는 로스터리 카페.",
+"ok": 1
+},
+"manchester-cafe-3": {
+"del": 1
+},
+"manchester-cafe-5": {
+"en": "Northern Quarter café and gift shop serving brunch.",
+"ko": "노던 쿼터의 카페 겸 소품 가게. 브런치를 냅니다.",
+"ok": 1
 },
 "manchester-fine_dining-1": {
 "addr": "42 Blossom Street, Ancoats, Manchester M4 6BF",
 "en": "One-Michelin-star restaurant in Ancoats; Wednesday to Saturday.",
 "ko": "앤코츠의 미쉐린 1스타 레스토랑. 수~토요일에 엽니다.",
 "mi": "star1",
+"ok": 1
+},
+"manchester-fine_dining-2": {
+"del": 1
+},
+"manchester-fine_dining-3": {
+"addr": "The Midland, Peter Street, Manchester M60 2DS, United Kingdom",
+"en": "Tasting-menu restaurant in The Midland hotel, led by chef Adam Reid.",
+"ko": "미들랜드 호텔 안의 코스 요리 전용 레스토랑. 셰프 애덤 리드가 이끕니다.",
+"ok": 1
+},
+"manchester-fine_dining-4": {
+"addr": "Faulkner House, New York Street, Manchester M1 4DY, United Kingdom",
+"en": "Bistro in Faulkner House serving sharing plates with produce from its own market garden. Michelin Bib Gourmand.",
+"ko": "포크너 하우스의 비스트로. 자체 텃밭 채소로 나눠 먹는 요리를 냅니다. 미쉐린 빕 구르망.",
+"mi": "bib",
+"ok": 1
+},
+"manchester-fine_dining-5": {
+"en": "Loft-style tasting-menu restaurant in Stockport, open since 2016.",
+"ko": "2016년 문을 연 스톡포트의 로프트형 코스 요리 레스토랑.",
 "ok": 1
 },
 "mantua-fine_dining-1": {
@@ -7892,6 +8632,41 @@
 "odense-korean-1": {
 "del": 1
 },
+"odesa-bakery-1": {
+"del": 1
+},
+"odesa-bakery-2": {
+"addr": "Kanatna St 19/21, Odesa, 65000, Ukraine",
+"en": "Bakery café with a pink-and-blue interior, serving bread, desserts and breakfast.",
+"ko": "분홍·파랑 인테리어의 베이커리 카페. 빵·디저트와 아침 식사를 냅니다.",
+"ok": 1
+},
+"odesa-cafe-1": {
+"addr": "Sviatoslava Karavanskoho St 19, Odesa, 65026, Ukraine",
+"en": "City-centre café of the Odesa roaster Foundation Coffee.",
+"ko": "오데사 로스터리 파운데이션 커피의 시내 중심 매장.",
+"name": "Foundation Coffee Place",
+"ok": 1
+},
+"odesa-cafe-2": {
+"en": "Café furnished with antique furniture, crockery and books, hosting talks and exhibitions.",
+"ko": "골동품 가구·식기·책으로 꾸민 카페. 강연·전시가 열립니다.",
+"ok": 1
+},
+"odesa-fine_dining-1": {
+"del": 1
+},
+"odesa-fine_dining-2": {
+"en": "Ukrainian restaurant with embroidery and a wood stove, serving varenyky and borscht.",
+"ko": "자수와 화덕으로 꾸민 우크라이나 전통 요리 식당. 바레니키·보르시를 냅니다.",
+"ok": 1
+},
+"odesa-fine_dining-3": {
+"addr": "Frantsuzkyi Blvd 85, bldg 15, Odesa, 65000, Ukraine",
+"en": "Restaurant in an old mansion with gardens, serving home-style Odesa cooking.",
+"ko": "정원이 있는 옛 저택의 레스토랑. 오데사 가정식을 냅니다.",
+"ok": 1
+},
 "ohrid-bakery-1": {
 "en": "Neighbourhood bakery of over 30 years, a little away from the tourist area, best known for burek.",
 "ko": "관광지에서 조금 떨어진 30년 넘은 동네 빵집. 부렉이 대표 메뉴입니다.",
@@ -8096,14 +8871,62 @@
 "osl-kr-1": {
 "ok": 1
 },
+"oxford-bakery-1": {
+"en": "Neighbourhood bakery café on Iffley Road.",
+"ko": "이플리 로드의 동네 빵집 겸 카페.",
+"ok": 1
+},
 "oxford-bakery-2": {
 "del": "옥스퍼드에서 그 빵집을 찾을 수 없음"
 },
 "oxford-bakery-4": {
 "del": "옥스퍼드에서 그 빵집을 찾을 수 없음"
 },
+"oxford-cafe-1": {
+"en": "Specialty coffee shop on Turl Street that roasts its own beans.",
+"ko": "턴 스트리트의 스페셜티 커피숍. 원두를 직접 볶습니다.",
+"ok": 1
+},
+"oxford-cafe-2": {
+"en": "Cycling-themed coffee shop on Cowley Road, with a courtyard.",
+"ko": "카울리 로드의 자전거 테마 커피숍. 안뜰 좌석이 있습니다.",
+"ok": 1
+},
+"oxford-cafe-3": {
+"en": "Cycling-themed café in the city centre, serving brunch.",
+"ko": "시내 중심의 자전거 테마 카페. 브런치를 냅니다.",
+"ok": 1
+},
+"oxford-cafe-4": {
+"del": 1
+},
+"oxford-cafe-5": {
+"en": "Small hatch-style coffee shop on Kingston Road in Jericho, with outdoor tables only.",
+"ko": "제리코 킹스턴 로드의 작은 창구식 커피숍. 바깥 테이블만 있습니다.",
+"ok": 1
+},
 "oxford-fine_dining-1": {
 "del": "옥스퍼드에서 그 식당을 찾을 수 없음"
+},
+"oxford-fine_dining-2": {
+"en": "Restaurant at a riverside boathouse on the Cherwell dating from 1904, which also rents punts.",
+"ko": "1904년부터 이어진 처웰강 변 보트하우스의 레스토랑. 펀트 대여도 합니다.",
+"ok": 1
+},
+"oxford-fine_dining-3": {
+"en": "Mediterranean-style restaurant in a Victorian conservatory.",
+"ko": "빅토리아 시대 온실 건물의 지중해식 레스토랑.",
+"ok": 1
+},
+"oxford-fine_dining-4": {
+"en": "Pub in Binsey near Port Meadow, with a garden and dining room.",
+"ko": "포트 메도 근처 빈시 마을의 펍. 정원과 식당이 있습니다.",
+"ok": 1
+},
+"oxford-fine_dining-5": {
+"en": "Restaurant and bar of the Old Bank Hotel on the High Street, looking out to the Radcliffe Camera.",
+"ko": "올드 뱅크 호텔의 레스토랑 겸 바. 하이 스트리트에서 래드클리프 카메라가 보입니다.",
+"ok": 1
 },
 "padua-bakery-1": {
 "ok": 1
@@ -8235,6 +9058,17 @@
 "palma-korean-3": {
 "en": "Asian restaurant on the Plaça del Mercat serving bibimbap and other Korean and Asian dishes; closed Sundays.",
 "ko": "메르카트 광장의 아시아 식당. 비빔밥 같은 한식과 다른 아시아 요리를 내고 일요일은 쉽니다.",
+"ok": 1
+},
+"pamukkale-bakery-1": {
+"del": 1
+},
+"pamukkale-cafe-1": {
+"del": 1
+},
+"pamukkale-fine_dining-1": {
+"en": "Restaurant and wine bar in Pamukkale village, serving Turkish and Mediterranean dishes with local wines.",
+"ko": "파묵칼레 마을 중심가의 레스토랑 겸 와인 바. 튀르키예·지중해 요리와 지역 와인을 냅니다.",
 "ok": 1
 },
 "paphos-bakery-1": {
@@ -8493,6 +9327,21 @@
 },
 "peja-bakery-1": {
 "del": "페야에서 그 빵집을 찾을 수 없음"
+},
+"peja-cafe-1": {
+"en": "Café-bar on Mbreti Pirro street in central Peja.",
+"ko": "페야 시내 음브레티 피로 거리의 카페 겸 바.",
+"ok": 1
+},
+"peja-fine_dining-1": {
+"en": "Hotel restaurant in a converted 19th-century stone tower house, serving Rugova cheese and tava dishes.",
+"ko": "19세기 석탑 건물(쿨라)을 고친 호텔 레스토랑. 루고바 치즈와 타바 요리를 냅니다.",
+"ok": 1
+},
+"peja-fine_dining-2": {
+"en": "Restaurant on Haxhi Zeka square serving local and international dishes.",
+"ko": "하지 제카 광장의 레스토랑. 지역 요리와 서양 요리를 냅니다.",
+"ok": 1
 },
 "perugia-cafe-1": {
 "ok": 1
@@ -9008,8 +9857,88 @@
 "ko": "구시가지의 한식당. 김치전·만두·탕수육·치킨 등을 냅니다.",
 "ok": 1
 },
+"pristina-bakery-1": {
+"del": 1
+},
+"pristina-bakery-2": {
+"del": 1
+},
+"pristina-bakery-3": {
+"del": 1
+},
 "pristina-cafe-1": {
 "del": "배달 앱 목록뿐이라 매장 주소와 설명을 확인할 수 없음"
+},
+"pristina-cafe-2": {
+"en": "Bookshop café in a former Red Cross building, with a garden and evening events.",
+"ko": "옛 적십자 건물의 서점 겸 카페. 정원이 있고 저녁엔 공연이 열립니다.",
+"ok": 1
+},
+"pristina-cafe-3": {
+"en": "Café-bar on Mother Teresa Boulevard.",
+"ko": "넨에 테레자 대로의 카페 겸 바.",
+"ok": 1
+},
+"pristina-fine_dining-1": {
+"addr": "Rruga California 52, Marigona Residence (Four Points by Sheraton), Prishtina, Kosovo",
+"en": "Italian restaurant in the Four Points by Sheraton hotel.",
+"ko": "포포인츠 바이 쉐라톤 호텔의 이탈리안 레스토랑.",
+"ok": 1
+},
+"pristina-fine_dining-2": {
+"addr": "Meto Bajraktari 10, Prishtina 10000, Kosovo",
+"en": "Traditional restaurant in an Ottoman house, open since 1992, with an inner garden.",
+"ko": "1992년 문을 연 오스만 가옥의 전통 요리 레스토랑. 안뜰 정원이 있습니다.",
+"ok": 1
+},
+"pristina-fine_dining-3": {
+"en": "Restaurant and bar on Migjeni street, with garden seating.",
+"ko": "미제니 거리의 레스토랑 겸 바. 정원 좌석이 있습니다.",
+"ok": 1
+},
+"pristina-fine_dining-4": {
+"en": "Long-standing Albanian restaurant in Prishtina, serving Elbasan tava.",
+"ko": "프리슈티나의 오래된 알바니아 요리 레스토랑. 엘바산 타바를 냅니다.",
+"ok": 1
+},
+"pristina-fine_dining-5": {
+"en": "Restaurant on Fehmi Agani street serving grilled meats and stews.",
+"ko": "페흐미 아가니 거리의 레스토랑. 고기구이와 스튜를 냅니다.",
+"ok": 1
+},
+"pristina-korean-1": {
+"del": 1
+},
+"prizren-bakery-1": {
+"del": 1
+},
+"prizren-bakery-2": {
+"en": "Dessert shop selling baklava and puddings, with light meals too.",
+"ko": "바클라바와 푸딩 등 디저트를 파는 가게. 간단한 식사도 됩니다.",
+"ok": 1
+},
+"prizren-cafe-1": {
+"en": "Large riverside café in front of the Sinan Pasha Mosque, roasting its own beans and serving trileçe.",
+"ko": "시난 파샤 모스크 앞 강가의 큰 카페. 원두를 직접 볶고 트릴레체를 냅니다.",
+"ok": 1
+},
+"prizren-cafe-2": {
+"del": 1
+},
+"prizren-fine_dining-1": {
+"en": "Albanian restaurant in Prizren.",
+"ko": "프리즈렌의 알바니아 요리 식당.",
+"ok": 1
+},
+"prizren-fine_dining-2": {
+"en": "European and Albanian restaurant in Prizren.",
+"ko": "프리즈렌의 유럽·알바니아 요리 레스토랑.",
+"ok": 1
+},
+"prizren-fine_dining-3": {
+"en": "Traditional restaurant in a historic, colourful building, serving grilled meats.",
+"ko": "옛 건물을 꾸민 전통 요리 식당. 고기구이를 냅니다.",
+"ok": 1
 },
 "ravenna-fine_dining-1": {
 "ok": 1
@@ -9698,6 +10627,16 @@
 "salamanca-korean-1": {
 "del": 1
 },
+"salisbury-cafe-1": {
+"en": "Café of the Salisbury Museum in the King's House, opposite the cathedral's west front; its garden looks onto the cathedral.",
+"ko": "대성당 서쪽 정면 맞은편 솔즈베리 박물관(킹스 하우스)의 카페. 정원에서 대성당이 보입니다.",
+"ok": 1
+},
+"salisbury-fine_dining-1": {
+"en": "Historic pub in a 14th–15th-century building, with an upstairs dining room.",
+"ko": "14~15세기 건물의 역사적인 펍. 위층에 식당이 있습니다.",
+"ok": 1
+},
 "salzburg-bakery-1": {
 "addr": "Europastraße 1 (Europark), 5020 Salzburg",
 "en": "1950s-style bakery-café inside the Europark shopping centre.",
@@ -9748,6 +10687,9 @@
 },
 "san-marino-city-cafe-1": {
 "ok": 1
+},
+"san-marino-city-fine_dining-1": {
+"del": 1
 },
 "san-marino-city-fine_dining-2": {
 "ok": 1
@@ -10418,6 +11360,11 @@
 "ko": "바르다르 강변의 레스토랑. 현대적으로 해석한 마케도니아 요리와 마케도니아 와인을 냅니다.",
 "ok": 1
 },
+"snowdonia-cafe-1": {
+"en": "Walkers' and climbers' café open since 1978, reopened under new owners in November 2025.",
+"ko": "1978년 문을 연 등산객·암벽등반가의 카페. 2025년 11월 새 주인으로 다시 열었습니다.",
+"ok": 1
+},
 "snowdonia-fine_dining-1": {
 "addr": "Unit 1, Station Approach, Betws-y-Coed LL24 0AE",
 "ok": 1
@@ -10576,6 +11523,32 @@
 "ko": "디오클레티아누스 궁전 안 작은 광장의 레스토랑. 스테이크·파스타·해산물을 냅니다.",
 "ok": 1
 },
+"st-andrews-bakery-1": {
+"en": "Long-established gelato shop on South Street.",
+"ko": "사우스 스트리트의 오래된 젤라토 가게.",
+"ok": 1
+},
+"st-andrews-cafe-1": {
+"en": "Coffee shop on North Street.",
+"ko": "노스 스트리트의 커피숍.",
+"ok": 1
+},
+"st-andrews-fine_dining-1": {
+"addr": "Bruce Embankment, The Scores, St Andrews KY16 9AB",
+"en": "Seafront glass-box seafood restaurant cooking Scottish fish in an open kitchen.",
+"ko": "바닷가 유리 건물의 해산물 레스토랑. 스코틀랜드 생선을 오픈 키친에서 요리합니다.",
+"ok": 1
+},
+"st-ives-fine_dining-1": {
+"en": "Seafood and Mediterranean-leaning restaurant right on Porthminster Beach.",
+"ko": "포스민스터 해변 바로 앞의 해산물·지중해식 레스토랑.",
+"ok": 1
+},
+"st-ives-fine_dining-2": {
+"en": "First-floor restaurant above St Ives harbour serving small plates of Cornish produce.",
+"ko": "세인트아이브스 항구 위 2층의 레스토랑. 콘월 식재료로 작은 접시 요리를 냅니다.",
+"ok": 1
+},
 "st-moritz-bakery-1": {
 "del": 1
 },
@@ -10688,11 +11661,21 @@
 "stepantsminda-fine_dining-3": {
 "del": "address not confirmable"
 },
+"stirling-cafe-1": {
+"en": "Old-town coffee house in a 16th-century barrel-vaulted building.",
+"ko": "16세기 아치형 천장의 지하 공간을 쓰는 구시가의 커피하우스.",
+"ok": 1
+},
 "stirling-cafe-2": {
 "addr": "Cowane’s Hospital, St John Street, Stirling",
 "en": "Café in the Guildhall and garden terrace of 17th-century Cowane’s Hospital.",
 "ko": "17세기 구빈원 코웨인스 호스피털의 길드홀과 정원 테라스에서 여는 카페.",
 "name": "Legends at Cowane’s",
+"ok": 1
+},
+"stirling-fine_dining-1": {
+"en": "Scottish restaurant on Baker Street serving dishes such as haggis and cullen skink.",
+"ko": "베이커 스트리트의 스코틀랜드 요리 레스토랑. 해기스·컬런 스킹크를 냅니다.",
 "ok": 1
 },
 "sto-bk-1": {
@@ -10814,6 +11797,21 @@
 "strasbourg-korean-2": {
 "en": "Korean restaurant on rue du 22 Novembre with bibimbap, fried chicken and more; takeaway available.",
 "ko": "22 노벰브르 거리의 한식당. 비빔밥·프라이드치킨 등을 내고 포장도 됩니다.",
+"ok": 1
+},
+"stratford-upon-avon-bakery-1": {
+"en": "Family-run patisserie near Shakespeare's Birthplace, serving scones and cream teas.",
+"ko": "셰익스피어 생가 근처의 가족 운영 파티스리. 스콘과 크림 티를 냅니다.",
+"ok": 1
+},
+"stratford-upon-avon-cafe-1": {
+"en": "1940s-themed tearoom near the Royal Shakespeare Theatre, serving afternoon tea.",
+"ko": "로열 셰익스피어 극장 근처의 1940년대 테마 티룸. 애프터눈 티를 냅니다.",
+"ok": 1
+},
+"stratford-upon-avon-fine_dining-1": {
+"en": "Modern European bistro near the Royal Shakespeare Theatre, known for pre- and post-theatre meals.",
+"ko": "로열 셰익스피어 극장 근처의 모던 유럽 비스트로. 공연 전후 식사로 알려져 있습니다.",
 "ok": 1
 },
 "stresa-bakery-1": {
@@ -11216,6 +12214,17 @@
 },
 "tenby-bakery-1": {
 "addr": "Lower Frog Street, Tenby SA70 7HS",
+"ok": 1
+},
+"tenby-fine_dining-1": {
+"en": "Restaurant in a historic building with a medieval Flemish chimney.",
+"ko": "중세 플랑드르식 굴뚝이 남은 옛 건물의 레스토랑.",
+"ok": 1
+},
+"tenby-fine_dining-2": {
+"addr": "Lower Frog Street, Tenby SA70 7HS, United Kingdom",
+"en": "Fish-and-chip restaurant and takeaway since 1935, using local fish, with gluten-free options.",
+"ko": "1935년부터 이어온 피시앤칩스 가게 겸 식당. 지역 생선을 쓰고 글루텐프리도 있습니다.",
 "ok": 1
 },
 "tetovo-bakery-1": {
@@ -11639,6 +12648,37 @@
 "toulouse-korean-2": {
 "en": "Korean street-food spot on Place Riquet with bibimbap, kimbap, mandu and fried chicken, vegetarian options and a terrace.",
 "ko": "리케 광장의 한식 길거리 음식점. 비빔밥·김밥·만두·프라이드치킨을 내고 채식 메뉴와 테라스가 있습니다.",
+"ok": 1
+},
+"trabzon-bakery-1": {
+"del": 1
+},
+"trabzon-bakery-2": {
+"addr": "Kemerkaya, Kahramanmaraş Cd., 61200 Ortahisar/Trabzon",
+"en": "Bakery café in central Trabzon, serving croissants and Turkish coffee.",
+"ko": "트라브존 중심가의 베이커리 카페. 크루아상과 튀르키예 커피를 냅니다.",
+"ok": 1
+},
+"trabzon-cafe-1": {
+"addr": "İskenderpaşa, Dervişoğlu Çk. No:1, 61100 Ortahisar/Trabzon",
+"en": "Coffee shop beside Trabzon's main square (Meydan), with rooftop seating.",
+"ko": "트라브존 중앙 광장(메이단) 옆의 커피숍. 옥상 좌석이 있습니다.",
+"ok": 1
+},
+"trabzon-fine_dining-1": {
+"del": 1
+},
+"trabzon-fine_dining-2": {
+"addr": "Boztepe, İpekyolu Cd., 61030 Ortahisar/Trabzon",
+"en": "Black Sea fish restaurant in Boztepe.",
+"ko": "보즈테페의 흑해 생선 요리 전문점.",
+"name": "Bordo Mavi Balık - Erşan Yılmaz",
+"ok": 1
+},
+"trabzon-fine_dining-3": {
+"addr": "İskenderpaşa, Belediye Cd., Atatürk Alanı No:6, 61100 Ortahisar/Trabzon",
+"en": "Restaurant on Trabzon's main square serving Akçaabat köfte and kuymak.",
+"ko": "트라브존 중앙 광장의 식당. 아크차아바트 쾨프테와 쿠이마크를 냅니다.",
 "ok": 1
 },
 "travnik-bakery-1": {
@@ -12231,6 +13271,62 @@
 "ko": "북쪽 해수욕장(세베르니 모르스키 바니) 해변 산책로의 카리브풍 레스토랑. 해산물·꼬치 요리와 칵테일을 냅니다.",
 "ok": 1
 },
+"vatican-city-bakery-1": {
+"en": "Gelato shop near the Vatican walls.",
+"ko": "바티칸 성벽 근처의 젤라토 가게.",
+"ok": 1
+},
+"vatican-city-bakery-2": {
+"del": 1
+},
+"vatican-city-bakery-3": {
+"del": 1
+},
+"vatican-city-bakery-4": {
+"en": "Family bakery since 1916, selling pizza bianca by weight; cash only.",
+"ko": "1916년부터 이어온 가족 운영 빵집. 피자 비앙카를 무게로 팝니다. 현금만 받습니다.",
+"ok": 1
+},
+"vatican-city-cafe-1": {
+"en": "Prati bar open since 1919, serving coffee in a dark-chocolate-lined cup.",
+"ko": "1919년 문을 연 프라티의 바. 다크 초콜릿을 입힌 잔에 커피를 냅니다.",
+"ok": 1
+},
+"vatican-city-cafe-2": {
+"en": "Café on Piazza del Risorgimento, open from breakfast to aperitivo.",
+"ko": "리소르지멘토 광장의 카페. 아침부터 아페리티보까지 냅니다.",
+"ok": 1
+},
+"vatican-city-cafe-3": {
+"del": 1
+},
+"vatican-city-cafe-4": {
+"del": 1
+},
+"vatican-city-fine_dining-1": {
+"en": "Small bistro on Borgo Pio serving Roman and Lazio dishes.",
+"ko": "보르고 피오 거리의 작은 비스트로. 로마·라치오 요리를 냅니다.",
+"ok": 1
+},
+"vatican-city-fine_dining-2": {
+"del": 1
+},
+"vatican-city-fine_dining-3": {
+"en": "Italian restaurant on Borgo Pio near St Peter's, making its own pasta and desserts.",
+"ko": "성 베드로 대성당 근처 보르고 피오의 이탈리아 레스토랑. 파스타와 디저트를 직접 만듭니다.",
+"ok": 1
+},
+"vatican-city-fine_dining-4": {
+"addr": "Borgo Pio, 60-62, 00193 Roma RM, Italia",
+"en": "Roman-cuisine restaurant on Borgo Pio, with outdoor tables.",
+"ko": "보르고 피오의 로마 요리 레스토랑. 바깥 테이블이 있습니다.",
+"ok": 1
+},
+"vatican-city-fine_dining-5": {
+"en": "Tuscan grill restaurant in Prati, open since 1938, serving bistecca alla fiorentina.",
+"ko": "1938년 문을 연 프라티의 토스카나식 숯불구이 레스토랑. 비스테카 알라 피오렌티나를 냅니다.",
+"ok": 1
+},
 "veliko-tarnovo-bakery-1": {
 "del": 1
 },
@@ -12665,6 +13761,16 @@
 "windsor-bakery-1": {
 "del": "윈저에서 그 빵집을 찾을 수 없음"
 },
+"windsor-fine_dining-1": {
+"en": "Thames-side pub dating from at least 1829, with a riverside terrace.",
+"ko": "1829년 무렵부터 이어진 템스강 변의 펍. 강가 테라스가 있습니다.",
+"ok": 1
+},
+"windsor-fine_dining-2": {
+"en": "Moroccan and Mediterranean restaurant at the end of Peascod Street, serving tagines.",
+"ko": "피스코드 거리 끝의 모로코·지중해 레스토랑. 타진을 냅니다.",
+"ok": 1
+},
 "windsor-fine_dining-3": {
 "addr": "Brocas Street, Eton SL4 6BW",
 "en": "Eton pub dating from around 1682, just over the bridge from Windsor, hung with rowing memorabilia.",
@@ -12811,7 +13917,60 @@
 "york-bakery-2": {
 "del": "요크에서 그 빵집을 찾을 수 없음"
 },
+"york-bakery-3": {
+"del": 1
+},
+"york-bakery-5": {
+"en": "Three-storey tearoom on St Helen's Square, serving afternoon tea in rooms inspired by the Queen Mary liner.",
+"ko": "세인트 헬렌 광장의 3층짜리 티룸. 퀸 메리호를 본뜬 실내에서 애프터눈 티를 냅니다.",
+"name": "Bettys Café Tea Rooms",
+"ok": 1
+},
 "york-cafe-1": {
+"ok": 1
+},
+"york-cafe-2": {
+"en": "Café on Museum Street serving brownies and brunch.",
+"ko": "뮤지엄 스트리트의 카페. 브라우니와 브런치를 냅니다.",
+"ok": 1
+},
+"york-cafe-3": {
+"del": 1
+},
+"york-cafe-4": {
+"en": "Family-run café on Micklegate serving seasonal brunch.",
+"ko": "미클게이트의 가족 운영 카페. 제철 브런치를 냅니다.",
+"ok": 1
+},
+"york-cafe-5": {
+"addr": "Barker Tower, North Street, York YO1 6BE, United Kingdom",
+"en": "Tiny café inside a medieval tower beside Lendal Bridge.",
+"ko": "레덜 다리 옆 중세 탑 안의 작은 카페.",
+"ok": 1
+},
+"york-fine_dining-1": {
+"addr": "Lendal Engine House, Museum Street, York YO1 7DR, United Kingdom",
+"en": "Riverside restaurant in the old engine house by the Museum Gardens.",
+"ko": "뮤지엄 가든 옆 옛 기관실 건물의 강변 레스토랑.",
+"ok": 1
+},
+"york-fine_dining-2": {
+"en": "Tasting-menu restaurant in a former pub, using produce from chef Tommy Banks's family farm. One Michelin star.",
+"ko": "옛 펍 건물의 코스 요리 레스토랑. 셰프 토미 뱅크스 가족 농장의 식재료를 씁니다. 미쉐린 1스타.",
+"mi": "star1",
+"ok": 1
+},
+"york-fine_dining-3": {
+"en": "Small-plates restaurant on Micklegate with Japanese and Middle Eastern influences and an open kitchen.",
+"ko": "미클게이트의 스몰 플레이트 레스토랑. 일본·중동풍 요리를 오픈 키친에서 냅니다.",
+"ok": 1
+},
+"york-fine_dining-4": {
+"del": 1
+},
+"york-fine_dining-5": {
+"en": "Restaurant on Scarcroft Road, open since 1990, serving tasting menus.",
+"ko": "1990년 문을 연 스카크로프트 로드의 레스토랑. 코스 요리를 냅니다.",
 "ok": 1
 },
 "zadar-bakery-1": {

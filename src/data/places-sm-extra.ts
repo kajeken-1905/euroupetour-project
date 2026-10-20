@@ -3,7 +3,6 @@ import type { Place } from '../types'
 
 export const placesSMExtra: Place[] = [
   // —— san-marino-city ——
-  place('san-marino-city-fine_dining-1', 'san-marino-city', 'fine_dining', 'Righi la Taverna', 'Piazza della Libertà, 47890 San Marino City, San Marino', '산마리노 자유 광장의 이탈리아 식당.', 'Italian restaurant on Piazza della Libertà in San Marino.'),
   place('san-marino-city-fine_dining-2', 'san-marino-city', 'fine_dining', 'La Terrazza', 'Contrada del Collegio 31, 47890 San Marino City, San Marino', '호텔 티타노 안의 레스토랑. 중앙 광장이 내려다보입니다.', 'Restaurant in the Hotel Titano overlooking the main square.'),
   place('san-marino-city-cafe-1', 'san-marino-city', 'cafe', 'Caffè Titano', 'Piazzetta del Titano 4, 47890 San Marino Città, San Marino', '산마리노 구시가 중심의 카페 겸 스낵 바.', 'Café and snack bar in the heart of San Marino’s old town.'),
 
