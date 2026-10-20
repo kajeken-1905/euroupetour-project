@@ -60,7 +60,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'trogir-h4': v(10, 15),
 
   // Ljubljana
-  'ljubljana-h1': v(75, 90, { c: 'daily', s: 'https://www.ljubljanskigrad.si/en/', n: '성 안뜰은 무료이고 푸니쿨라와 전시는 유료입니다.|The courtyard is free; the funicular and exhibitions are ticketed.', k: '2026-10' }),
+  'ljubljana-h1': v(90, 120, { c: 'daily', s: 'https://www.ljubljanskigrad.si/en/', n: '성 안뜰은 무료이고 푸니쿨라와 전시는 유료입니다.|The courtyard is free; the funicular and exhibitions are ticketed.', k: '2026-10' }),
   'ljubljana-h2': v(10, 10),
   'ljubljana-h3': v(15, 20),
   'ljubljana-h4': v(45, 60),
@@ -68,7 +68,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Bled
   'bled-h1': v(90, 120, { n: '호수 한 바퀴는 약 6km입니다.|The lakeside loop is about 6 km.' }),
   'bled-h2': v(75, 90, { n: '전통 나룻배(플레트나)로 건넙니다. 호수가 얼거나 날씨가 나쁘면 다니지 않습니다.|Reached by traditional pletna boat; no service when the lake freezes or in bad weather.' }),
-  'bled-h3': v(60, 75, { c: 'daily', s: 'https://www.blejski-grad.si/en/', k: '2026-10' }),
+  'bled-h3': v(90, 120, { c: 'daily', s: 'https://www.blejski-grad.si/en/', k: '2026-10' }),
   'bled-h4': v(20, 30),
   'bled-h5': v(60, 75),
   // Piran
@@ -122,7 +122,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Kotor
   'kotor-h1': v(60, 90),
   'kotor-h2': v(20, 30),
-  'kotor-h3': v(90, 120, { n: '계단 약 1,350개를 오릅니다. 입장료가 있고 그늘이 없어 아침이나 해 질 무렵이 좋습니다.|Around 1,350 steps. There is an entry fee and no shade—go early or late in the day.' }),
+  'kotor-h3': v(120, 150, { n: '계단 약 1,350개를 오릅니다. 입장료가 있고 그늘이 없어 아침이나 해 질 무렵이 좋습니다.|Around 1,350 steps. There is an entry fee and no shade—go early or late in the day.' }),
   'kotor-h4': v(120, 180),
   'kotor-h5': v(20, 30),
   // Budva
@@ -145,7 +145,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'herceg-novi-h5': v(45, 60),
 
   // Belgrade
-  'belgrade-h1': v(90, 120, { b: 'no', n: '성채 공원은 24시간 무료입니다.|The fortress park is free and always open.' }),
+  'belgrade-h1': v(120, 180, { b: 'no', n: '성채 공원은 24시간 무료입니다.|The fortress park is free and always open.' }),
   'belgrade-h2': v(45, 90),
   'belgrade-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://hramsvetogsave.rs/', n: FREE, k: '2026-10' }),
   'belgrade-h4': v(30, 45),
@@ -202,13 +202,13 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'tirana-h4': v(20, 30, { b: 'no', n: '바깥 계단으로 꼭대기까지 무료로 오릅니다.|Free to climb by the outside steps.' }),
   'tirana-h5': v(10, 15, { n: MOSQUE }),
   // Berat
-  'berat-h1': v(75, 90),
+  'berat-h1': v(120, 150),
   'berat-h2': v(30, 45),
   'berat-h3': v(30, 45),
   'berat-h4': v(30, 40),
   'berat-h5': v(15, 20),
   // Gjirokastër
-  'gjirokaster-h1': v(75, 90),
+  'gjirokaster-h1': v(120, 150),
   'gjirokaster-h2': v(30, 45),
   'gjirokaster-h3': v(30, 40),
   'gjirokaster-h4': v(30, 40),
@@ -224,7 +224,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'pristina-h1': v(10, 15),
   'pristina-h2': v(15, 20),
   'pristina-h3': v(30, 45),
-  'prizren-h1': v(60, 75, { b: 'no', n: '입장은 무료이고 가파른 오르막을 15~20분 걷습니다.|Free; a steep 15–20 minute climb.' }),
+  'prizren-h1': v(90, 120, { b: 'no', n: '입장은 무료이고 가파른 오르막을 15~20분 걷습니다.|Free; a steep 15–20 minute climb.' }),
   'prizren-h2': v(15, 20, { n: MOSQUE }),
   'prizren-h3': v(45, 60),
   'peja-h1': v(120, 180),

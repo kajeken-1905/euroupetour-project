@@ -31,7 +31,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'aalborg-h3': v(20, 30),
   'aalborg-h4': v(15, 20),
   // Roskilde
-  'roskilde-h1': v(120, 150, { c: 'daily', s: 'https://www.vikingeskibsmuseet.dk/en/', k: '2026-10' }),
+  'roskilde-h1': v(150, 180, { c: 'daily', s: 'https://www.vikingeskibsmuseet.dk/en/', k: '2026-10' }),
   'roskilde-h2': v(45, 60, { c: 'daily', s: 'https://roskildedomkirke.dk/english', n: '예배·장례가 있으면 관광 입장이 중단됩니다.|Sightseeing stops during services and funerals.', k: '2026-10' }),
   'roskilde-h3': v(30, 45),
   'roskilde-h4': v(15, 20),

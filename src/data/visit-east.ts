@@ -27,7 +27,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Varna
   'varna-h1': v(45, 90),
   'varna-h2': v(60, 180),
-  'varna-h3': v(75, 90, { c: 'mon', b: 'no', s: 'https://www.museumvarna.com/en/museums-and-sites-within-the-system-of-the-varna-regional-museum-of-history-switching-to-winter-hours-on-october-1st/', n: '10월 1일부터 겨울 시간표가 적용되어 일요일에도 쉽니다(10:00~17:00).|From 1 October winter hours apply and it also closes on Sundays (10:00–17:00).', k: '2026-10' }),
+  'varna-h3': v(90, 120, { c: 'mon', b: 'no', s: 'https://www.museumvarna.com/en/museums-and-sites-within-the-system-of-the-varna-regional-museum-of-history-switching-to-winter-hours-on-october-1st/', n: '10월 1일부터 겨울 시간표가 적용되어 일요일에도 쉽니다(10:00~17:00).|From 1 October winter hours apply and it also closes on Sundays (10:00–17:00).', k: '2026-10' }),
   'varna-h4': v(15, 20),
   'varna-h5': v(30, 45, { b: 'no', s: 'https://www.museumvarna.com/en/museums-and-sites-within-the-system-of-the-varna-regional-museum-of-history-switching-to-winter-hours-on-october-1st/', n: '여름에는 매일 열고, 10월 1일부터 겨울에는 일·월요일에 쉽니다.|Open daily in summer; from 1 October (winter hours) closed on Sundays and Mondays.', k: '2026-10' }),
   // Veliko Tarnovo

@@ -64,7 +64,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'heidelberg-h5': v(20, 30, { b: 'rec', s: 'https://www.heicollections.uni-heidelberg.de/en/node/396/the-student-karzer', n: '10~5월에는 월~토 10:30~16:00(일요일 휴무), 6~9월에는 매일 10:00~18:00에 엽니다. 시간 지정 입장이라 2주 전까지 예약하라고 안내합니다.|October–May Mon–Sat 10:30–16:00 (closed Sundays); June–September daily 10:00–18:00. Timed tickets—the university suggests reserving up to two weeks ahead.', k: '2026-10' }),
   // Stuttgart
   'stuttgart-h1': v(150, 180, { c: 'mon', s: 'https://www.mercedes-benz.com/en/art-and-culture/museum/', k: '2026-10' }),
-  'stuttgart-h2': v(90, 120, { c: 'mon', s: 'https://www.porsche.com/international/aboutporsche/porschemuseum/', k: '2026-10' }),
+  'stuttgart-h2': v(120, 150, { c: 'mon', s: 'https://www.porsche.com/international/aboutporsche/porschemuseum/', k: '2026-10' }),
   'stuttgart-h3': v(20, 30),
   'stuttgart-h4': v(180, 240, { c: 'daily', s: 'https://www.wilhelma.de/en/', k: '2026-10' }),
   'stuttgart-h5': v(45, 60),
@@ -75,7 +75,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rothenburg-h4': v(75, 90, { c: 'daily', s: 'https://www.kriminalmuseum.eu/en/?lang=en', k: '2026-10' }),
   'rothenburg-h5': v(20, 30),
   // Nuremberg
-  'nuremberg-h1': v(90, 120, { c: 'daily', s: 'https://www.kaiserburg-nuernberg.de/englisch/castle/index.htm', k: '2026-10' }),
+  'nuremberg-h1': v(120, 150, { c: 'daily', s: 'https://www.kaiserburg-nuernberg.de/englisch/castle/index.htm', k: '2026-10' }),
   'nuremberg-h2': v(20, 30, { n: '11월 말부터 크리스마스 전까지 크리스마스 마켓이 섭니다.|Hosts the Christmas market from late November until Christmas.' }),
   'nuremberg-h3': v(20, 30, { c: 'daily', s: 'https://www.lorenzkirche.de/', n: '월~토 9:00~17:30, 일요일 13:00~15:30에 관람할 수 있고 공휴일에는 15:30에 닫습니다.|Open to visitors Mon–Sat 9:00–17:30 and Sun 13:00–15:30; on public holidays it closes at 15:30.', k: '2026-10' }),
   'nuremberg-h4': v(120, 150, { c: 'daily', s: 'https://museums.nuernberg.de/documentation-center', n: '여러 해에 걸친 개편 공사를 거쳤으니 방문 전에 운영 현황을 확인하세요.|It has been through a multi-year remodelling—check current arrangements before you go.', k: '2026-10' }),
@@ -89,7 +89,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'munich-h6': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.muenchen.de/en/sights/churches/jesuit-church-st-michael-germanys-first-renaissance-church', n: '성당은 무료입니다. 지하 비텔스바흐 왕가 묘소는 유료이고 따로 정한 시간에만 엽니다.|The church is free; the Wittelsbach crypt below is ticketed and keeps shorter hours.', k: '2026-10' }),
   // Füssen
   'fussen-h1': v(180, 240, { c: 'daily', b: 'req', s: 'https://www.neuschwanstein.de/englisch/tourist/index.htm', t: NEUSCH_T, n: '내부는 시간 지정 가이드 투어로만 보며 성수기에는 몇 주 전에 매진됩니다. 매표소에서 성까지 오르막으로 30~40분 걸립니다.|The interior is by timed guided tour only and sells out weeks ahead in season. It is a 30–40 minute uphill walk from the ticket centre.', k: '2026-10' }),
-  'fussen-h2': v(90, 120, { c: 'daily', b: 'req', s: 'https://www.hohenschwangau.de/en/', t: NEUSCH_T, k: '2026-10' }),
+  'fussen-h2': v(60, 90, { c: 'daily', b: 'req', s: 'https://www.hohenschwangau.de/en/', t: NEUSCH_T, k: '2026-10' }),
   'fussen-h3': v(30, 45, { n: '눈이나 얼음이 있으면 다리를 닫습니다.|The bridge closes in snow and ice.' }),
   'fussen-h4': v(45, 90),
   'fussen-h5': v(60, 90),
@@ -169,7 +169,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'utrecht-h6': v(30, 45),
   // Haarlem
   'haarlem-h1': v(20, 30),
-  'haarlem-h2': v(75, 90, { c: 'mon', s: 'https://franshalsmuseum.nl/en', k: '2026-10' }),
+  'haarlem-h2': v(90, 120, { c: 'mon', s: 'https://franshalsmuseum.nl/en', k: '2026-10' }),
   'haarlem-h3': v(10, 15),
   'haarlem-h4': v(30, 45, { c: 'sun', s: 'https://www.bavo.nl/en/', n: '일요일과 공휴일에는 관람객을 받지 않고, 행사로 하루 종일 닫는 날도 있습니다.|No visitors on Sundays and public holidays, and it sometimes closes all day for events.', k: '2026-10' }),
   'haarlem-h5': v(75, 90, { c: 'mon', s: 'https://teylersmuseum.nl/en', k: '2026-10' }),
@@ -203,7 +203,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'luxembourg-city-h6': v(10, 15),
   'luxembourg-city-h7': v(45, 60),
   // Vianden
-  'vianden-h1': v(75, 90, { c: 'daily', s: 'https://castle-vianden.lu/gb/', k: '2026-10' }),
+  'vianden-h1': v(120, 150, { c: 'daily', s: 'https://castle-vianden.lu/gb/', k: '2026-10' }),
   'vianden-h2': v(20, 30),
   'vianden-h3': v(30, 45, { n: '체어리프트는 봄부터 가을까지만 다닙니다.|The chairlift runs spring to autumn only.' }),
   'vianden-h4': v(30, 45, { c: 'mon,tue,wed', s: 'https://www.visitluxembourg.com/fr/attraction/musee-litteraire-victor-hugo-vianden', n: '2026년 10월 기준 목~일 12:00~18:00에 엽니다. 철에 따라 바뀔 수 있습니다.|As of October 2026 open Thu–Sun 12:00–18:00; hours can change by season.', k: '2026-10' }),

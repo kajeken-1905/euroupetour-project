@@ -274,7 +274,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   // Sintra
   'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.', k: '2026-10' }),
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
-  'sintra-h3': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
+  'sintra-h3': v(90, 120, { c: 'daily', s: SINTRA, k: '2026-10' }),
   'sintra-h4': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.regaleira.pt/en/', k: '2026-10' }),
   'sintra-h5': v(75, 90, { c: 'daily', s: SINTRA, n: '궁전은 9:30~18:00(마지막 입장 17:30)이고 12월 24·25·31일과 1월 1일은 쉽니다.|The palace opens 9:30–18:00 (last entry 17:30) and closes on 24, 25 and 31 December and 1 January.', k: '2026-10', x: [['2026년 11월 11일은 14시에 닫습니다.|On 11 November 2026 it closes at 14:00.', '2026-11-11'], ['지붕 복원 공사로 2027년 1분기까지 비계가 설치돼 있습니다.|Roof restoration keeps scaffolding up until the first quarter of 2027.', '2027-03-31']] }),
   'sintra-h6': v(30, 45),

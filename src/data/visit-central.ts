@@ -155,7 +155,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'warsaw-h5': v(120, 180, { c: 'tue', s: 'https://www.polin.pl/en', n: '목요일은 상설 전시가 무료입니다.|The core exhibition is free on Thursdays.', k: '2026-10' }),
   // Kraków
   'krakow-h1': v(45, 60),
-  'krakow-h2': v(120, 180, { c: 'daily', b: 'req', s: 'https://wawel.krakow.pl/en', t: 'https://bilety.wawel.krakow.pl/', n: '전시마다 표가 따로이고 시간 지정이며 하루 입장 인원이 제한됩니다. 성 안뜰과 대성당 본당은 무료입니다.|Each exhibition has its own timed ticket with a daily cap. The courtyard and the cathedral nave are free.', k: '2026-10' }),
+  'krakow-h2': v(180, 240, { c: 'daily', b: 'req', s: 'https://wawel.krakow.pl/en', t: 'https://bilety.wawel.krakow.pl/', n: '전시마다 표가 따로이고 시간 지정이며 하루 입장 인원이 제한됩니다. 성 안뜰과 대성당 본당은 무료입니다.|Each exhibition has its own timed ticket with a daily cap. The courtyard and the cathedral nave are free.', k: '2026-10' }),
   'krakow-h3': v(30, 45, { c: 'mon', s: 'https://mnk.pl/wystawy/mnk-sukiennice/', n: '1층 기념품 상가는 무료이고 2층 미술관은 월요일에 쉽니다.|The ground-floor stalls are free; the gallery upstairs closes on Mondays.', k: '2026-10' }),
   'krakow-h4': v(90, 120),
   'krakow-h5': v(30, 45, { c: 'daily', s: 'https://mariacki.com/en/', n: '관광 입장은 낮 11시 30분 이후이고 유료입니다. 매시 정각에 탑에서 나팔을 붑니다.|Sightseeing entry starts at 11:30 am and is ticketed. A bugle call sounds from the tower every hour.', k: '2026-10' }),

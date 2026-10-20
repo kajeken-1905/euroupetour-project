@@ -222,7 +222,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'cork-h2': v(30, 45, { s: 'https://stfinbarres.ie/visit/', n: '월~토 9:00~17:00(공휴일 포함) 열고, 일요일은 4~10월에만 12:30~14:00·16:30~17:30에 관람할 수 있습니다. 11~3월 일요일은 예배만 있습니다.|Open Mon–Sat 9:00–17:00 (bank holidays included); Sundays only April–October, 12:30–14:00 and 16:30–17:30. November–March Sundays are for services only.', k: '2026-10' }),
   'cork-h3': v(30, 45),
   'cork-h4': v(30, 45),
-  'cork-h5': v(120, 180, { c: 'daily', s: 'https://blarneycastle.ie/', k: '2026-10' }),
+  'cork-h5': v(180, 240, { c: 'daily', s: 'https://blarneycastle.ie/', k: '2026-10' }),
   // Killarney
   'killarney-h1': v(180, 300),
   'killarney-h2': v(60, 90, { s: 'https://muckross-house.ie/', n: '11~2월에는 휴관하고, 봄·가을에는 주말에만 엽니다(5~9월은 매일).|Closed November–February; weekends only in spring and autumn, daily May–September.', k: '2026-10' }),
