@@ -73,7 +73,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'lugano-h4': v(30, 45),
   'lugano-h5': v(30, 45),
   // Montreux
-  'montreux-h1': v(90, 120, { c: 'daily', s: 'https://www.chillon.ch/en/', n: PASS.replace('할인됩니다', '무료입니다').replace('get a discount', 'enter free'), k: '2026-10' }),
+  'montreux-h1': v(120, 150, { c: 'daily', s: 'https://www.chillon.ch/en/', n: PASS.replace('할인됩니다', '무료입니다').replace('get a discount', 'enter free'), k: '2026-10' }),
   'montreux-h2': v(45, 60),
   'montreux-h3': v(10, 15),
   'montreux-h4': v(15, 20),

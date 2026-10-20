@@ -37,7 +37,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'roskilde-h4': v(15, 20),
 
   // Stockholm
-  'stockholm-h1': v(90, 120, { c: 'daily', s: 'https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html', n: '국가 행사가 있으면 일부 또는 전체를 닫습니다. 근위병 교대식은 낮에 바깥뜰에서 열립니다. 왕실 공식 행사가 있는 날에는 일부 또는 전부를 닫습니다.|Partly or fully closed for state occasions. The guard changes in the outer courtyard around midday. Parts or all of it close for official royal events.', k: '2026-10' }),
+  'stockholm-h1': v(120, 180, { c: 'daily', s: 'https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html', n: '국가 행사가 있으면 일부 또는 전체를 닫습니다. 근위병 교대식은 낮에 바깥뜰에서 열립니다. 왕실 공식 행사가 있는 날에는 일부 또는 전부를 닫습니다.|Partly or fully closed for state occasions. The guard changes in the outer courtyard around midday. Parts or all of it close for official royal events.', k: '2026-10' }),
   'stockholm-h2': v(90, 120),
   'stockholm-h3': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.vasamuseet.se/en', k: '2026-10' }),
   'stockholm-h4': v(75, 90, { c: 'daily', s: 'https://stockholm.fotografiska.com/en', k: '2026-10' }),
@@ -55,7 +55,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'malmo-h1': v(10, 15, { n: '주거 건물이라 내부는 공개하지 않습니다.|A residential tower—not open to visitors.' }),
   'malmo-h2': v(60, 90),
   'malmo-h3': v(20, 30),
-  'malmo-h4': v(90, 120, { c: 'mon', b: 'no', s: 'https://malmo.se/Uppleva-och-gora/Konst-och-museer/Malmo-museum/Besok-Malmo-museum/Oppettider-och-entreavgifter.html', n: '9월 초~5월에는 월요일에 쉬고(학교 방학 기간은 엶) 6월~9월 초에는 매일 10:00~17:00에 엽니다.|Closed on Mondays from early September to May (open during school holidays); daily 10:00–17:00 from June to early September.', k: '2026-10', x: [['승강기 교체 공사로 성 안 일부 전시를 볼 수 없습니다(2027년 3월 완료 예정).|Lift replacement works affect some exhibitions in the castle (due to finish March 2027).', '2027-03-31']] }),
+  'malmo-h4': v(120, 180, { c: 'mon', b: 'no', s: 'https://malmo.se/Uppleva-och-gora/Konst-och-museer/Malmo-museum/Besok-Malmo-museum/Oppettider-och-entreavgifter.html', n: '9월 초~5월에는 월요일에 쉬고(학교 방학 기간은 엶) 6월~9월 초에는 매일 10:00~17:00에 엽니다.|Closed on Mondays from early September to May (open during school holidays); daily 10:00–17:00 from June to early September.', k: '2026-10', x: [['승강기 교체 공사로 성 안 일부 전시를 볼 수 없습니다(2027년 3월 완료 예정).|Lift replacement works affect some exhibitions in the castle (due to finish March 2027).', '2027-03-31']] }),
   'malmo-h5': v(45, 90),
   // Uppsala
   'uppsala-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.svenskakyrkan.se/uppsaladomkyrka', n: FREE, k: '2026-10' }),
@@ -78,7 +78,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'helsinki-h6': v(90, 120, { s: 'https://www.kansallismuseo.fi/en/seurasaarenulkomuseo/info', n: '섬은 연중 무료로 걸을 수 있고, 야외 박물관 건물은 5월 15일~9월 15일에만 엽니다(6월부터는 매일 11:00~17:00).|The island is free all year; the open-air museum buildings open only 15 May–15 September (daily 11:00–17:00 from June).', k: '2026-10' }),
   'helsinki-h7': v(10, 10),
   // Turku
-  'turku-h1': v(90, 120, { c: 'mon', b: 'no', s: 'https://turunlinna.fi/en/opening-times-and-prices/', n: '화~일 10:00~17:00(6~8월 18:00까지)에 엽니다. 6월 19~21일·12월 6일에도 쉽니다.|Tue–Sun 10:00–17:00 (to 18:00 June–August); also closed 19–21 June and 6 December.', k: '2026-10' }),
+  'turku-h1': v(120, 180, { c: 'mon', b: 'no', s: 'https://turunlinna.fi/en/opening-times-and-prices/', n: '화~일 10:00~17:00(6~8월 18:00까지)에 엽니다. 6월 19~21일·12월 6일에도 쉽니다.|Tue–Sun 10:00–17:00 (to 18:00 June–August); also closed 19–21 June and 6 December.', k: '2026-10' }),
   'turku-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.turuntuomiokirkko.fi/english', n: '매일 9:00~18:00, 입장 무료. 성당 박물관은 보수 공사로 2028년 대림절 이후에야 다시 엽니다.|Open daily 9:00–18:00, free. The cathedral museum is closed for renovation until Advent 2028 at the earliest.', k: '2026-10' }),
   'turku-h3': v(45, 60),
   'turku-h4': v(60, 75, { c: 'mon', s: 'https://luostarinmaki.fi/en/home-page/', k: '2026-10' }),

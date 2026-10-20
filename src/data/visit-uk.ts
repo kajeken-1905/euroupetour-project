@@ -140,7 +140,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'edinburgh-h7': v(30, 45),
   // Glasgow
   'glasgow-h1': v(30, 45, { b: 'no', s: 'https://glasgowcathedral.org/', n: FREE, k: '2026-10' }),
-  'glasgow-h2': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum', n: FREE, k: '2026-10' }),
+  'glasgow-h2': v(120, 180, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum', n: FREE, k: '2026-10' }),
   'glasgow-h3': v(30, 45),
   'glasgow-h4': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.glasgowlife.org.uk/museums/venues/riverside-museum', n: FREE, k: '2026-10' }),
   'glasgow-h5': v(10, 15),

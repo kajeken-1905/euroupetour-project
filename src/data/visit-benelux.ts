@@ -95,12 +95,12 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'fussen-h5': v(60, 90),
 
   // Brussels
-  'brussels-h1': v(60, 75, { s: 'https://www.monarchie.be/en/heritage/royal-palace-of-brussels', n: '내부는 여름(대략 7월 초~8월 중순)에만 무료로 공개하고 온라인으로 표를 받습니다. 그 밖에는 외관만 봅니다.|The interior opens free only in summer, roughly early July to mid-August, with tickets booked online; otherwise view the exterior.', k: '2026-10' }),
+  'brussels-h1': v(60, 75, { s: 'https://www.monarchie.be/en/heritage/royal-palace-of-brussels', n: '내부는 여름에만 공개합니다(2026년은 7월 3일~8월 16일, 월요일 휴무). 유료 시간 지정 예약이 필수이고 13세 미만은 무료지만 예약해야 합니다. 그 밖에는 외관만 봅니다.|The interior opens only in summer (3 July–16 August in 2026, closed Mondays). A paid timed booking is required; under-13s are free but still need to book. Otherwise view the exterior.', k: '2026-10' }),
   'brussels-h2': v(30, 45),
   'brussels-h3': v(90, 120, { c: 'daily', b: 'rec', s: 'https://atomium.be/', n: '해마다 겨울에 정기 점검으로 몇 주 쉽니다.|Closes for a few weeks of annual maintenance each winter.', k: '2026-10', x: [['2027년 점검 휴관은 1월 18일~2월 5일입니다.|The 2027 maintenance closure is 18 January–5 February.', '2027-02-05']] }),
   'brussels-h4': v(30, 45),
   'brussels-h5': v(10, 15),
-  'brussels-h6': v(75, 90, { c: 'mon', s: 'https://musee-magritte-museum.be/en', k: '2026-10' }),
+  'brussels-h6': v(120, 150, { c: 'mon', s: 'https://musee-magritte-museum.be/en', k: '2026-10' }),
   'brussels-h7': v(20, 30),
   'brussels-h8': v(10, 15),
   // Bruges

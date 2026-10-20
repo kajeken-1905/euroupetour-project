@@ -104,7 +104,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'strasbourg-h5': v(30, 45),
   'strasbourg-h6': v(90, 150, { s: 'https://noel.strasbourg.eu/en/', n: '11월 말부터 크리스마스 전후까지만 열립니다.|Runs only from late November to around Christmas.', x: [['2026년 시장은 11월 27일(금)에 문을 엽니다.|The 2026 market opens on Friday 27 November.', '2026-12-31']], k: '2026-10' }),
   // Amboise & Loire châteaux
-  'amboise-h1': v(75, 105, { c: 'daily', s: 'https://www.chateau-amboise.com/en/', k: '2026-10' }),
+  'amboise-h1': v(90, 120, { c: 'daily', s: 'https://www.chateau-amboise.com/en/', k: '2026-10' }),
   'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/', k: '2026-10' }),
   'amboise-h3': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.chenonceau.com/en/', n: '성수기에 붐비는 날은 시간 지정 예약이 필수입니다.|On busy high-season days a timed slot must be booked.', k: '2026-10' }),
   'amboise-h4': v(150, 210, { s: 'https://www.chambord.org/en/', n: '4~10월은 매일 열고, 11~3월 비수기에는 쉬는 월요일이 있습니다. 1월 1일과 12월 25일은 휴무입니다.|Open daily April–October; in the November–March low season it closes on some Mondays. Closed 1 January and 25 December.', k: '2026-10' }),

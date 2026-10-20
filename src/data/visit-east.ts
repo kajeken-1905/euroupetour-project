@@ -64,7 +64,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'sibiu-h5': v(150, 180, { c: 'daily', s: 'https://muzeulastra.ro/en/', n: '야외 박물관은 연중 열지만 실내 전시관은 수~일요일에만 엽니다.|The open-air museum is open all year; the indoor pavilions open Wednesday to Sunday only.', k: '2026-10' }),
   // Sighișoara
   'sighisoara-h1': v(40, 45, { c: 'mon', s: 'https://visitmures.com/en/sighisoara/built-heritage/museums/sighisoara-history-museum', n: '시계탑 안은 역사 박물관입니다. 5월 중순~9월 중순 화~금 9:00~18:30·주말 10:00~17:30, 그 밖에는 15:30에 닫습니다.|The tower houses the History Museum: mid-May to mid-September Tue–Fri 9:00–18:30, weekends 10:00–17:30; otherwise it closes at 15:30.', k: '2026-10' }),
-  'sighisoara-h2': v(60, 90),
+  'sighisoara-h2': v(120, 180),
   'sighisoara-h3': v(10, 15),
   'sighisoara-h4': v(15, 20),
   'sighisoara-h5': v(10, 15),
@@ -87,10 +87,10 @@ export const visitEast: Record<string, HighlightVisit> = {
   'istanbul-h3': v(60, 90, { c: 'sun', b: 'no' }),
   'istanbul-h4': v(90, 120, { n: '에미뇌뉘 선착장에서 떠나는 공영 페리가 가장 쌉니다.|The public ferries from Eminönü are the cheapest option.' }),
   'istanbul-h5': v(40, 45, { c: 'daily', t: MUZE, n: '시간당 입장 인원이 제한돼 줄이 깁니다.|Hourly numbers are capped, so queues are long.', k: '2026-10' }),
-  'istanbul-h6': v(150, 180, { c: 'tue', b: 'rec', s: 'https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en', n: '하렘과 아야 이리니 성당이 통합 입장권에 포함됩니다.|The combined ticket includes the Harem and Hagia Irene.', k: '2026-10' }),
+  'istanbul-h6': v(180, 240, { c: 'tue', b: 'rec', s: 'https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Sarayi?culture=en', n: '하렘과 아야 이리니 성당이 통합 입장권에 포함됩니다.|The combined ticket includes the Harem and Hagia Irene.', k: '2026-10' }),
   // Göreme (Cappadocia)
   'goreme-h1': v(180, 240, { b: 'req', n: '해 뜰 무렵에 뜨고 바람이 세면 당일 새벽에 취소됩니다. 이틀 이상 머무는 일정이 안전합니다.|Flights go at dawn and are cancelled that morning if it is windy—allow at least two days.' }),
-  'goreme-h2': v(90, 120, { c: 'daily', t: MUZE, n: MUZE_NOTE, k: '2026-10' }),
+  'goreme-h2': v(120, 150, { c: 'daily', t: MUZE, n: MUZE_NOTE, k: '2026-10' }),
   'goreme-h3': v(60, 90),
   'goreme-h4': v(40, 45),
   'goreme-h5': v(60, 90, { c: 'daily', t: MUZE, n: '통로가 좁고 낮아 폐소공포증이 있으면 힘듭니다.|The passages are low and narrow—difficult for the claustrophobic.', k: '2026-10' }),
@@ -100,7 +100,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   // Ankara
   'ankara-h1': v(75, 90, { c: 'daily', b: 'no', s: 'https://www.anitkabir.tsk.tr/', n: '입장은 무료이고 입구에서 보안 검색을 합니다.|Free; there is a security check at the gate.', k: '2026-10' }),
   'ankara-h2': v(45, 60, { b: 'no', n: FREE }),
-  'ankara-h3': v(90, 120, { c: 'daily', t: MUZE, n: '표는 문화관광부 공식 누리집(muze.gov.tr)에서 팝니다.|Tickets are sold on the ministry’s official site, muze.gov.tr.', k: '2026-10', x: [['앙카라관과 고전관은 보수 공사로 2027년 3월 2일까지 닫습니다.|The Ankara and Classical halls are closed for repairs until 2 March 2027.', '2027-03-02']] }),
+  'ankara-h3': v(120, 150, { c: 'daily', t: MUZE, n: '표는 문화관광부 공식 누리집(muze.gov.tr)에서 팝니다.|Tickets are sold on the ministry’s official site, muze.gov.tr.', k: '2026-10', x: [['앙카라관과 고전관은 보수 공사로 2027년 3월 2일까지 닫습니다.|The Ankara and Classical halls are closed for repairs until 2 March 2027.', '2027-03-02']] }),
   'ankara-h4': v(15, 20),
   'ankara-h5': v(45, 60),
   // İzmir
@@ -135,7 +135,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'pamukkale-h5': v(30, 45, { c: 'daily', s: 'https://muze.gov.tr/muze-detay?SectionId=DHA01&DistId=MRK', n: '매일 8:00~17:30(매표 17:00까지)에 엽니다. 철에 따라 시간이 바뀝니다.|Open daily 8:00–17:30 (tickets until 17:00); hours change by season.', k: '2026-10' }),
 
   // Tbilisi
-  'tbilisi-h1': v(45, 60, { n: '복원 공사로 성벽 안쪽이 닫혀 있던 곳입니다. 케이블카로 올라가 전망은 볼 수 있으며, 내부 재개방 여부는 현지에서 확인하세요.|The interior has been closed for restoration. The cable car still gives the view—check locally whether the fortress itself has reopened.' }),
+  'tbilisi-h1': v(60, 90, { n: '복원 공사로 성벽 안쪽이 닫혀 있던 곳입니다. 케이블카로 올라가 전망은 볼 수 있으며, 내부 재개방 여부는 현지에서 확인하세요.|The interior has been closed for restoration. The cable car still gives the view—check locally whether the fortress itself has reopened.' }),
   'tbilisi-h2': v(60, 90, { s: 'https://georgia.travel/tbilisi-sulfur-baths', b: 'rec', n: '비수기에는 바로 들어갈 수도 있지만 개인실은 미리 예약하는 편이 좋습니다. 때밀이(키사)와 마사지는 추가 요금입니다.|Walk-ins are often possible off season, but private rooms are best reserved ahead. The kisa scrub and massage cost extra.', k: '2026-10' }),
   'tbilisi-h3': v(10, 15),
   'tbilisi-h4': v(30, 45, { c: 'daily', b: 'no', n: CHURCH }),

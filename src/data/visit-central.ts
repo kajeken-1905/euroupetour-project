@@ -29,9 +29,9 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'innsbruck-h2': v(120, 180, { s: 'https://nordkette.com/en/', n: '봄·가을 정기 점검 기간과 강풍 때는 운휴합니다.|Closed for maintenance spells in spring and autumn, and in high winds.' }),
   'innsbruck-h3': v(40, 45, { c: 'daily', s: 'https://www.tiroler-landesmuseen.at/haeuser/hofkirche/', k: '2026-10' }),
   'innsbruck-h4': v(60, 90),
-  'innsbruck-h5': v(90, 120, { c: 'daily', s: 'https://www.schlossambras-innsbruck.at/en/', n: '11월에는 휴관합니다. 11월에는 휴관합니다.|Closed in November. Closed in November.', k: '2026-10' }),
+  'innsbruck-h5': v(90, 120, { c: 'daily', s: 'https://www.schlossambras-innsbruck.at/en/', n: '11월 한 달은 휴관합니다.|Closed throughout November.', k: '2026-10' }),
   // Graz
-  'graz-h1': v(60, 90, { b: 'no', s: 'https://graztourismus.at/en/sightseeing-culture/sights/schlossberg-funicular_shg_1482', n: '언덕은 무료로 걸어 오르고 푸니쿨라·엘리베이터는 그라츠 대중교통 표(101구역)로 탑니다.|The hill is free on foot; the funicular and lift take Graz public-transport tickets (zone 101).', k: '2026-10' }),
+  'graz-h1': v(90, 120, { b: 'no', s: 'https://graztourismus.at/en/sightseeing-culture/sights/schlossberg-funicular_shg_1482', n: '언덕은 무료로 걸어 오르고 푸니쿨라·엘리베이터는 그라츠 대중교통 표(101구역)로 탑니다.|The hill is free on foot; the funicular and lift take Graz public-transport tickets (zone 101).', k: '2026-10' }),
   'graz-h2': v(60, 75, { c: 'mon', s: 'https://www.museum-joanneum.at/en/kunsthaus-graz', k: '2026-10' }),
   'graz-h3': v(60, 90),
   'graz-h4': v(20, 30),
@@ -82,7 +82,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'ceske-budejovice-h5': v(20, 30),
 
   // Bratislava
-  'bratislava-h1': v(60, 90, { c: 'tue', n: '성 바깥뜰과 전망은 무료이고 안쪽 박물관만 유료입니다.|The grounds and views are free; only the museum inside is ticketed.', k: '2026-10' }),
+  'bratislava-h1': v(90, 120, { c: 'tue', n: '성 바깥뜰과 전망은 무료이고 안쪽 박물관만 유료입니다.|The grounds and views are free; only the museum inside is ticketed.', k: '2026-10' }),
   'bratislava-h2': v(60, 90),
   'bratislava-h3': v(20, 30),
   'bratislava-h4': v(10, 150, { n: SHOW }),
@@ -106,7 +106,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'banska-bystrica-h4': v(45, 60),
   'banska-bystrica-h5': v(45, 60),
   // Trenčín
-  'trencin-h1': v(75, 90, { c: 'daily', k: '2026-10' }),
+  'trencin-h1': v(120, 150, { c: 'daily', k: '2026-10' }),
   'trencin-h2': v(10, 15, { n: '호텔 엘리자베트(Elizabeth) 안 전망 창에서 봅니다.|Viewed from a window inside the Hotel Elizabeth.' }),
   'trencin-h3': v(15, 20),
   'trencin-h4': v(10, 15),
@@ -118,7 +118,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'budapest-h3': v(150, 180, { c: 'daily', s: 'https://www.szechenyibath.hu/', n: '만 14세 미만은 들어갈 수 없습니다. 수영복과 슬리퍼를 가져가세요.|No entry for under-14s. Bring swimwear and flip-flops.', k: '2026-10' }),
   'budapest-h4': v(15, 20),
   'budapest-h5': v(15, 20),
-  'budapest-h6': v(45, 60, { c: 'daily', b: 'no', s: 'https://piaconline.hu/en/central-market-hall/', n: '공휴일에는 닫습니다. 일요일은 운영사 안내가 서로 달라(낮 영업 또는 휴무) 가기 전에 확인하세요. 공휴일에는 쉽니다.|Closed on public holidays. The operator’s own pages disagree about Sundays (short hours or closed), so check before going. Closed on public holidays.', k: '2026-10' }),
+  'budapest-h6': v(45, 60, { c: 'daily', b: 'no', s: 'https://piaconline.hu/en/central-market-hall/', n: '공휴일에는 닫습니다. 일요일은 운영사 안내가 서로 달라(낮 영업 또는 휴무) 가기 전에 확인하세요.|Closed on public holidays. The operator’s own pages disagree about Sundays (short hours or closed), so check before going.', k: '2026-10' }),
   'budapest-h7': v(60, 120, { n: '궁전 단지 곳곳이 복원 공사 중입니다. 안쪽 국립 미술관과 역사 박물관은 월요일에 쉽니다.|Parts of the complex are under reconstruction. The National Gallery and History Museum inside close on Mondays.' }),
   'budapest-h8': v(30, 60, { c: 'daily', s: 'https://bazilikabudapest.hu/', n: '성당·돔 전망대·보물관은 표가 각각입니다.|Church, dome terrace and treasury are ticketed separately.', k: '2026-10' }),
   'budapest-h9': v(30, 45, { c: 'daily', s: 'https://matyas-templom.hu/en/', k: '2026-10' }),
@@ -149,7 +149,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
 
   // Warsaw
   'warsaw-h1': v(90, 120),
-  'warsaw-h2': v(90, 120, { c: 'mon', n: '수요일은 상설 전시가 무료입니다.|The permanent route is free on Wednesdays.', k: '2026-10' }),
+  'warsaw-h2': v(120, 150, { c: 'mon', n: '수요일은 상설 전시가 무료입니다.|The permanent route is free on Wednesdays.', k: '2026-10' }),
   'warsaw-h3': v(90, 120, { c: 'daily', s: 'https://www.lazienki-krolewskie.pl/en', n: '공원은 무료이고 궁전 건물은 월요일에 쉽니다. 여름 일요일에는 쇼팽 야외 연주회가 열립니다.|The park is free; the palace buildings close on Mondays. Free Chopin concerts run on summer Sundays.', k: '2026-10' }),
   'warsaw-h4': v(30, 45, { c: 'daily', s: 'https://pkin.pl/en/home/', n: '30층 전망대가 유료입니다. 11월 1일과 12월 24~26일은 쉽니다.|The 30th-floor viewing terrace is ticketed. Closed 1 November and 24–26 December.', k: '2026-10' }),
   'warsaw-h5': v(120, 180, { c: 'tue', s: 'https://www.polin.pl/en', n: '목요일은 상설 전시가 무료입니다.|The core exhibition is free on Thursdays.', k: '2026-10' }),
