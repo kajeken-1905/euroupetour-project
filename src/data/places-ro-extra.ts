@@ -32,12 +32,11 @@ export const placesROExtra: Place[] = [
   // —— sibiu ——
   place('sibiu-fine_dining-1', 'sibiu', 'fine_dining', 'Syndicat Gourmet', 'Strada Târgului 10, 550195 Sibiu', '루마니아·인도 퓨전 요리.', 'Romanian-Indian fusion cuisine.'),
   place('sibiu-fine_dining-2', 'sibiu', 'fine_dining', 'La Cuptor Restaurant', '9 Mai 7, Sibiu, Romania', '9 마이 거리의 시비우 레스토랑.', 'Restaurant on 9 Mai street in Sibiu.'),
-  place('sibiu-fine_dining-3', 'sibiu', 'fine_dining', 'Kombinat', 'Strada Berăriei FN, 550173 Sibiu, Romania', '베러리에이 거리의 레스토랑.', 'Restaurant on Strada Berăriei in Sibiu.'),
-  place('sibiu-fine_dining-4', 'sibiu', 'fine_dining', "Hochmeister delikat'essen", 'Piața Friedrich Schiller 9, Sibiu, Romania', '프리드리히 실러 광장의 레스토랑.', 'Restaurant on Piața Friedrich Schiller in Sibiu.'),
+  place('sibiu-fine_dining-3', 'sibiu', 'fine_dining', 'Kombinat Gastro-Brewery', 'Strada Berăriei FN, 550173 Sibiu, Romania', '베러리에이 거리의 레스토랑.', 'Restaurant on Strada Berăriei in Sibiu.'),
+  place('sibiu-fine_dining-4', 'sibiu', 'fine_dining', "Hochmeister delikat'essen", 'Strada Timotei Popovici 9 (Piața Schiller), 550164 Sibiu, Romania', '프리드리히 실러 광장의 레스토랑.', 'Restaurant on Piața Friedrich Schiller in Sibiu.'),
   place('sibiu-bakery-2', 'sibiu', 'bakery', 'Gogosh Coffee&Donuts', 'Strada Radu Stanca 1, Sibiu, Romania', '라두 스탄카 거리의 도넛 가게.', 'Doughnut shop on Strada Radu Stanca in Sibiu.'),
   place('sibiu-bakery-3', 'sibiu', 'bakery', 'Petit Patis', 'Strada Turnului 24, Sibiu, Romania', '투르눌루이 거리의 프렌치 제과점', 'French pastry shop on Strada Turnului in Sibiu'),
   place('sibiu-bakery-4', 'sibiu', 'bakery', 'Bakery Warose', 'Bulevardul Victoriei 15, Sibiu, Romania', '불레바르둘 빅토리에이 거리의 베이커리', 'Bakery on Bulevardul Victoriei in Sibiu'),
-  place('sibiu-cafe-1', 'sibiu', 'cafe', 'Geea', 'Etaj I, Str. Avram Iancu 4, Sibiu, Romania', '시비우 중심가의 카페.', 'Café in central Sibiu.'),
   place('sibiu-cafe-2', 'sibiu', 'cafe', 'Lumos - Coffee and brunch', 'Strada Mitropoliei 1, Sibiu, Romania', '미트로폴리에이 거리의 커피·브런치 카페.', 'Coffee and brunch café on Strada Mitropoliei in Sibiu.'),
   place('sibiu-cafe-3', 'sibiu', 'cafe', "Charlie's Specialty", 'Strada Turnului 5, Sibiu, Romania', '투르눌루이 거리의 브런치 카페.', 'Brunch café on Strada Turnului in Sibiu.'),
   place('sibiu-cafe-4', 'sibiu', 'cafe', 'Tea And Coffee Archive', 'Strada Arhivelor 2, Sibiu, Romania', '아르히벨로르 거리의 카페.', 'Café on Strada Arhivelor in Sibiu.'),
@@ -46,9 +45,7 @@ export const placesROExtra: Place[] = [
   place('sighisoara-fine_dining-1', 'sighisoara', 'fine_dining', 'Casa Georgius Krauss', 'Strada Bastionului 11, 545400 Sighișoara', '성벽 안 트란실바니아 요리.', 'Transylvanian cuisine within the citadel walls.'),
   place('sighisoara-fine_dining-2', 'sighisoara', 'fine_dining', 'Restaurant von Graf', 'Strada Tâmplarilor 4, 545400 Sighișoara, Romania', '탐플라릴로르 거리의 레스토랑.', 'Restaurant on Strada Tâmplarilor in Sighișoara.'),
   place('sighisoara-fine_dining-3', 'sighisoara', 'fine_dining', 'Josef T. Restaurant & Wine Bar', 'Piața Hermann Oberth 25, 545400 Sighișoara, Romania', '헤르만 오베르트 광장의 레스토랑 겸 와인바', 'Restaurant and wine bar on Piața Hermann Oberth in Sighișoara'),
-  place('sighisoara-bakery-1', 'sighisoara', 'bakery', 'Cofetăria La Angela', 'Piața Hermann Oberth 10, 545400 Sighișoara, Romania', '시기쇼아라 성채 밖의 제과 카페. 장식 케이크와 페이스트리가 있습니다.', 'Pâtisserie café just outside Sighișoara’s citadel with decorated cakes and pastries.'),
-  place('sighisoara-bakery-2', 'sighisoara', 'bakery', 'Sablee Boutique Pastry & Specialty Coffee', 'Piața Hermann Oberth 15/2, 545400 Sighișoara, Romania', '헤르만 오베르트 광장의 부티크 페이스트리숍 겸 스페셜티 커피숍', 'Boutique pastry shop and specialty coffee shop on Piața Hermann Oberth in Sighișoara'),
-  place('sighisoara-cafe-1', 'sighisoara', 'cafe', 'The Bean Specialty Coffee', 'Str. Octavian Goga 4, Sighișoara, Romania', '시기쇼아라 중심가의 스페셜티 커피숍.', 'Specialty coffee shop in central Sighișoara.'),
+  place('sighisoara-cafe-1', 'sighisoara', 'cafe', 'The Bean', 'Piața Hermann Oberth 7, 545400 Sighișoara, Romania', '시기쇼아라 중심가의 스페셜티 커피숍.', 'Specialty coffee shop in central Sighișoara.'),
   place('sighisoara-cafe-2', 'sighisoara', 'cafe', 'Atelier Specialty Coffee', 'Strada Octavian Goga 6, 545400 Sighișoara, Romania', '옥타비안 고가 거리의 스페셜티 커피숍.', 'Specialty coffee shop on Strada Octavian Goga in Sighișoara.'),
 
   // —— cluj-napoca ——
@@ -62,16 +59,13 @@ export const placesROExtra: Place[] = [
   place('cluj-napoca-cafe-4', 'cluj-napoca', 'cafe', 'Mozart Café', 'Strada Cardinal Iuliu Hossu 7, Cluj-Napoca, Romania', '카르디날 율리우 호수 거리의 커피숍.', 'Coffee shop on Strada Cardinal Iuliu Hossu in Cluj-Napoca.'),
 
   // —— timisoara ——
-  place('timisoara-fine_dining-1', 'timisoara', 'fine_dining', 'La Calul Alb', 'Strada Mărășești 10, 300070 Timișoara, Romania', '구시가의 창작 요리 레스토랑.', 'Creative restaurant in the historic centre.'),
-  place('timisoara-fine_dining-2', 'timisoara', 'fine_dining', 'PASO Local Cuisine', 'Strada Eugeniu de Savoya 6B, Timișoara, Romania', '외제니우 드 사보야 거리의 로컬 요리 전문 레스토랑', 'Local-cuisine restaurant on Strada Eugeniu de Savoya in Timișoara'),
+  place('timisoara-fine_dining-1', 'timisoara', 'fine_dining', 'La Calul Alb', 'Strada Eugeniu de Savoya 14, 300085 Timișoara, Romania', '구시가의 창작 요리 레스토랑.', 'Creative restaurant in the historic centre.'),
   place('timisoara-fine_dining-3', 'timisoara', 'fine_dining', 'Restaurant Bun Timișoara', 'Strada Eugeniu de Savoya 13, Timișoara, Romania', '에우제니우 데 사보이아 거리의 레스토랑.', 'Restaurant on Strada Eugeniu de Savoya in Timișoara.'),
   place('timisoara-fine_dining-4', 'timisoara', 'fine_dining', 'Restaurant Sabres', 'Strada Craiova nr. 1, Timișoara, Romania', '크라이오바 거리의 지중해 요리 식당.', 'Mediterranean restaurant on Strada Craiova in Timișoara.'),
   place('timisoara-fine_dining-5', 'timisoara', 'fine_dining', 'Dei Frati Timișoara', 'Strada Vasile Alecsandri, Timișoara (historic centre)', '바실레 알렉산드리 거리의 인기 이탈리안 레스토랑', 'Popular Italian restaurant on Strada Vasile Alecsandri in Timișoara'),
-  place('timisoara-bakery-1', 'timisoara', 'bakery', 'Cofetăria Trandafirul', 'Str. Proclamația de la Timișoara, nr. 5, Timișoara, Romania', '마카롱이 있는 티미쇼아라의 제과점.', 'Timișoara pastry shop with macarons.'),
-  place('timisoara-bakery-2', 'timisoara', 'bakery', 'Atelierul de Kürtös Tm', 'Strada Alba Iulia 2, Timișoara, Romania', '알바 이울리아 거리의 커르퇴시(굴뚝빵) 전문점', 'Kürtőskalács (chimney cake) specialty shop on Strada Alba Iulia in Timișoara'),
-  place('timisoara-cafe-1', 'timisoara', 'cafe', 'Narativ Specialty Coffee', 'Piața Victoriei nr. 6, Timișoara, Romania', '맛있는 커피와 페이스트리, 친근한 분위기의 티미쇼아라 카페', 'Timișoara cafe offering delicious coffee drinks and pastries in a friendly atmosphere'),
+  place('timisoara-bakery-1', 'timisoara', 'bakery', 'Cofetăria Trandafirul', 'Strada Francesco Griselini 2, 300054 Timișoara, Romania', '티미쇼아라 중심가의 오래된 전통 제과점. 케이크가 유명합니다.', 'Long-established traditional pastry shop in central Timișoara, known for its cakes.'),
+  place('timisoara-cafe-1', 'timisoara', 'cafe', 'Narativ Specialty Coffee', 'Splaiul Nicolae Titulescu 7, 300160 Timișoara, Romania', '베가강 강변 근처의 작은 스페셜티 커피숍.', 'Small specialty coffee shop near the Bega riverbank.'),
   place('timisoara-cafe-2', 'timisoara', 'cafe', 'Garage Café', 'Strada Palanca 2, Timișoara, Romania', '팔란카 거리의 커피숍.', 'Coffee shop on Strada Palanca in Timișoara.'),
   place('timisoara-cafe-3', 'timisoara', 'cafe', 'OVRIDE Coffee Shop', 'Strada Lucian Blaga 6, Timișoara, Romania', '루치안 블라가 거리의 커피숍.', 'Coffee shop on Strada Lucian Blaga in Timișoara.'),
   place('timisoara-cafe-4', 'timisoara', 'cafe', 'acas specialty coffee', 'Strada Ciprian Porumbescu 32, Timișoara, Romania', '치프리안 포룸베스쿠 거리의 스페셜티 커피숍', 'Specialty coffee shop on Strada Ciprian Porumbescu in Timișoara'),
-  place('timisoara-korean-1', 'timisoara', 'korean', 'Woktagon', 'Strada Gheorghe Lazăr 8, Timișoara, Romania', '게오르게 라자르 거리의 한식당', 'Korean restaurant on Strada Gheorghe Lazăr in Timișoara'),
 ]

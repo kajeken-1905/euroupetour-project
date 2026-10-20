@@ -9,12 +9,8 @@ export const placesSKExtra: Place[] = [
   place('bratislava-bakery-1', 'bratislava', 'bakery', 'Fleur bakery', 'Štúrova 14/8, 811 02 Bratislava, Slovakia', '슈투로바 거리의 빵집.', 'Bakery on Štúrova street.'),
   place('bratislava-bakery-2', 'bratislava', 'bakery', 'KRUH remeselná pekáreň', 'Vajnorská 21, 831 03 Bratislava, Slovakia', '사워도우를 굽는 바이노르스카 거리의 수제 빵집.', 'Artisan bakery on Vajnorská street baking sourdough.'),
   place('bratislava-bakery-3', 'bratislava', 'bakery', 'Pasteleria', 'Panská 246, 811 01 Bratislava, Slovakia', '구시가 판스카 거리의 디저트 가게. 케이크와 페이스트리가 있습니다.', 'Dessert shop on Panská street in the Old Town with cakes and pastries.'),
-  place('bratislava-bakery-4', 'bratislava', 'bakery', 'Bratislava Chimney Cake', 'Laurinská 2, 811 01 Bratislava, Slovakia', '라우린스카 거리의 트르델니크(굴뚝빵) 전문점', "Trdelník (chimney cake) specialty shop on Laurinská street in the Old Town"),
   place('bratislava-cafe-1', 'bratislava', 'cafe', 'Kauka', 'Veterná 642/8, 811 03 Bratislava, Slovakia', '베테르나 거리의 커피숍.', 'Coffee shop on Veterná street in the Old Town.'),
   place('bratislava-cafe-2', 'bratislava', 'cafe', 'DRAK&FINCH Winebar Coffeeshop', 'Mikulášska 6652/1b, 811 01 Bratislava, Slovakia', '미쿨라시스카 거리의 와인바 겸 커피숍', 'Wine bar and coffeeshop on Mikulášska street in the Old Town'),
-  place('bratislava-cafe-3', 'bratislava', 'cafe', 'Matsu premium matcha & coffee', 'Hlavné námestie 2, 811 01 Bratislava, Slovakia', '흘라브네 광장(중앙광장)에 위치한 말차·커피 전문 카페', "Matcha and coffee specialty cafe on Hlavné námestie, Bratislava's main square"),
-  place('bratislava-cafe-4', 'bratislava', 'cafe', 'Mimosa', 'Biela 2, 811 01 Bratislava, Slovakia', '비엘라 거리의 브런치·와인·커피 전문 카페', 'Brunch, wine and coffee cafe on Biela street in the Old Town'),
-  place('bratislava-korean-1', 'bratislava', 'korean', 'HanCook Korean Restaurant', 'Obchodná 531/54, 811 06 Bratislava, Slovakia', '오브호드나 거리의 한식당.', 'Korean restaurant on Obchodná street.'),
 
   // —— kosice ——
   place('kosice-fine_dining-1', 'kosice', 'fine_dining', 'Villa Regia', 'Dominikánske námestie 3, 040 01 Košice, Slovakia', '코시체 도미니칸 광장에 위치한 동슬로바키아 전통 요리 전문 레스토랑', 'Restaurant on Dominican Square serving traditional Eastern Slovak dishes in the heart of Košice'),
@@ -28,17 +24,15 @@ export const placesSKExtra: Place[] = [
   place('kosice-bakery-4', 'kosice', 'bakery', "Jacob's bakery", 'Mlynská 872/25, 040 01 Košice, Slovakia', '믈린스카 거리의 베이커리', 'Bakery on Mlynská street in Košice'),
   place('kosice-cafe-1', 'kosice', 'cafe', 'Slavia', 'Hlavná 63, 040 01 Košice, Slovakia', '1900년 문을 연 코시체의 아르누보 카페.', 'Košice Art Nouveau café founded in 1900.', { image: '/places/kosice-cafe-1.jpg' }),
   place('kosice-cafe-2', 'kosice', 'cafe', 'Caffé TRIESTE', 'Uršulínska 2, 040 01 Košice, Slovakia', '우르술린스카 거리의 커피 가게.', 'Coffee shop on Uršulínska street.'),
-  place('kosice-cafe-3', 'kosice', 'cafe', 'Cup of coffee', 'Hviezdoslavova 1003/2, 040 01 Košice, Slovakia', '흐비에즈도슬라보바 거리의 카페.', 'Café on Hviezdoslavova street.'),
+  place('kosice-cafe-3', 'kosice', 'cafe', 'Šálka Kávy', 'Hviezdoslavova 1003/2, 040 01 Košice, Slovakia', '타자기·피아노 같은 옛 소품으로 꾸민 코시체 중심가의 카페. 아침 메뉴가 있습니다.', 'Café in central Košice decorated with vintage typewriters and pianos, serving breakfast.'),
   place('kosice-cafe-4', 'kosice', 'cafe', 'Melody - fine roastery', 'Zvonárska 149/12, 040 01 Košice, Slovakia', '즈보나르스카 거리의 스페셜티 에스프레소 바', 'Specialty espresso bar on Zvonárska street in Košice'),
   place('kosice-korean-1', 'kosice', 'korean', 'K-Wave Korean Bistro', 'Žižkova 1873/4, 040 01 Košice, Slovakia', '지슈코바 거리의 한식 비스트로.', 'Korean bistro on Žižkova street.'),
 
   // —— poprad ——
   place('poprad-fine_dining-2', 'poprad', 'fine_dining', 'Dobré časy', 'Levočská 211/2, 058 01 Poprad, Slovakia', '슬로바키아 전통 요리를 내는 맥줏집 식당. 야외 비어 가든이 넓습니다.', 'Beer house serving Slovak classics, with a big outdoor beer garden.'),
-  place('poprad-fine_dining-3', 'poprad', 'fine_dining', 'U Septima', 'Velické námestie, 058 01 Poprad, Slovakia', '벨리츠케 광장의 레스토랑.', 'Restaurant on Velické námestie in Poprad.'),
+  place('poprad-fine_dining-3', 'poprad', 'fine_dining', 'U Septima', 'Velické námestie 1189, 058 01 Poprad, Slovakia', '루이 드 퓌네스 영화 속 인물에서 이름을 딴 1930년대풍 레스토랑. 프랑스풍 요리와 피자를 냅니다.', '1930s-style restaurant named after a Louis de Funès film character, serving French-inflected dishes and pizza.'),
   place('poprad-bakery-1', 'poprad', 'bakery', 'Betka\'s Bakery', 'Námestie sv. Egídia 124, Forum Poprad, 058 01 Poprad, Slovakia', '포룸 쇼핑센터 안의 빵집. 케이크와 페이스트리가 있습니다.', 'Bakery inside the Forum shopping centre with cakes and pastries.'),
-  place('poprad-bakery-2', 'poprad', 'bakery', 'Remeselná Pekáreň LA Buchta', 'Velické námestie 1172/3, 058 01 Poprad, Slovakia', '벨리츠케 광장의 수제 베이커리', 'Artisan bakery on Velické námestie square in Poprad'),
-  place('poprad-bakery-3', 'poprad', 'bakery', 'Remeselná Pekáreň Limba', 'Podtatranská 1, 058 01 Poprad, Slovakia', '포드타트란스카 거리의 수제 베이커리', 'Artisan bakery on Podtatranská street in Poprad'),
-  place('poprad-cafe-1', 'poprad', 'cafe', 'LA FEE', 'Námestie sv. Egídia 114, 058 01 Poprad, Slovakia', '포프라트 중심가의 커피숍.', 'Coffee shop in central Poprad.'),
+  place('poprad-cafe-1', 'poprad', 'cafe', 'Café La Fée', 'Námestie sv. Egídia 114, 058 01 Poprad, Slovakia', '프랑스풍 빈티지 카페 겸 디저트 공방. 저녁에는 프랑스 와인을 내고 여름 테라스가 있습니다.', 'French-style vintage café and pastry workshop; French wine in the evening and a summer terrace.'),
   place('poprad-cafe-2', 'poprad', 'cafe', 'FELKA café & brew bar', 'Na letisko 2089/19, 058 01 Poprad, Slovakia', '나 레티스코 거리의 카페 겸 브루 바.', 'Café and brew bar on Na letisko street.'),
   place('poprad-cafe-3', 'poprad', 'cafe', 'Espresso Bar PP - Speciality Coffee', 'Sobotské námestie 1734/14, 058 01 Poprad, Slovakia', '소보트스케 광장의 스페셜티 에스프레소 바', 'Specialty espresso bar on Sobotské námestie square in Poprad'),
 
@@ -46,20 +40,17 @@ export const placesSKExtra: Place[] = [
   place('banska-bystrica-fine_dining-2', 'banska-bystrica', 'fine_dining', 'Bernardov Dvor', 'Dolná 169/36, 974 01 Banská Bystrica, Slovakia', '돌나 거리의 레스토랑.', 'Restaurant on Dolná street in Banská Bystrica.'),
   place('banska-bystrica-fine_dining-3', 'banska-bystrica', 'fine_dining', 'STREET FOODIE Banská Bystrica', 'Dolná 52, 974 01 Banská Bystrica, Slovakia', '돌나 거리의 레스토랑.', 'Restaurant on Dolná street in Banská Bystrica.'),
   place('banska-bystrica-bakery-2', 'banska-bystrica', 'bakery', 'Chlieb a láska - Stará tržnica BB', 'Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia', '옛 시장 건물의 베이커리·브런치 카페. 사워도우와 에그 베네딕트가 인기입니다.', 'Bakery and breakfast café in the old market hall, known for sourdough and eggs Benedict.'),
-  place('banska-bystrica-bakery-3', 'banska-bystrica', 'bakery', 'Cukráreň Michaela Dessert Art', 'Kyjevské námestie 6243/5, 974 01 Banská Bystrica, Slovakia', '키예프스케 광장의 케이크 전문점', 'Cake specialty shop on Kyjevské námestie square in Banská Bystrica'),
   place('banska-bystrica-cafe-1', 'banska-bystrica', 'cafe', 'Beniczky Cafe & Wine Bar', 'Námestie SNP 16, 974 01 Banská Bystrica, Slovakia', '훌륭한 커피와 케이크, 다양한 음료로 호평받는 반스카 비스트리차의 카페 겸 와인바', 'Banská Bystrica cafe and wine bar praised for excellent coffee, cakes and drink selection'),
   place('banska-bystrica-cafe-2', 'banska-bystrica', 'cafe', 'VÝKLAD | káva & viac', 'Národná ulica 6, 974 01 Banská Bystrica, Slovakia', '나로드나 거리의 커피숍.', 'Coffee shop on Národná ulica.'),
   place('banska-bystrica-cafe-3', 'banska-bystrica', 'cafe', 'The Fleck coffee roasters', 'Martina Rázusa 1509/22, 974 01 Banská Bystrica, Slovakia', '마르티나 라주사 거리의 로스터리 카페.', 'Roastery café on Martina Rázusa street.'),
 
   // —— trencin ——
-  place('trencin-fine_dining-1', 'trencin', 'fine_dining', 'Pod hradom', 'Matúšova 12/68, 911 01 Trenčín, Slovakia', '트렌친 성이 바로 보이는 구시가지에 위치한 아늑한 레스토랑', 'Charming restaurant in the historic center with a direct view of Trenčín Castle'),
+  place('trencin-fine_dining-1', 'trencin', 'fine_dining', 'Pod hradom', 'Matúšova 12/68, 911 01 Trenčín, Slovakia', '호텔 포드 흐라돔 안의 레스토랑. 와인과 위스키 목록이 좋습니다.', 'Restaurant inside Hotel Pod Hradom with a strong wine and whisky list.'),
   place('trencin-fine_dining-2', 'trencin', 'fine_dining', 'Restaurant and brewery Lanius', 'Mierové námestie 20, 911 01 Trenčín, Slovakia', '미에로베 광장의 레스토랑 겸 양조장.', 'Restaurant and brewery on Mierové námestie in Trenčín.'),
   place('trencin-fine_dining-3', 'trencin', 'fine_dining', 'Mestsky hostinec', 'Hviezdoslavova 137/8, 911 01 Trenčín, Slovakia', '흐비에즈도슬라보바 거리의 전통 선술집 레스토랑', 'Traditional tavern-style restaurant on Hviezdoslavova street in Trenčín'),
 
-  place('trencin-bakery-1', 'trencin', 'bakery', 'Kaviareň Pacas', 'Mierové námestie 15, 911 01 Trenčín, Slovakia', '트렌친 중앙 광장의 카페. 베테르니크·메도비 크레메시 같은 케이크가 있습니다.', 'Café on Trenčín’s main square with cakes such as veterník and medový krémeš.'),
   place('trencin-bakery-2', 'trencin', 'bakery', 'Mgusto Cukráreň', 'Mierové námestie 28/28, 911 01 Trenčín, Slovakia', '미에로베 광장의 케이크 전문점', 'Cake specialty shop on Mierové námestie square in Trenčín'),
-  place('trencin-bakery-3', 'trencin', 'bakery', 'Mood bakery', 'Mierové námestie, 911 01 Trenčín, Slovakia', '미에로베 광장의 베이커리', 'Bakery on Mierové námestie square in Trenčín'),
-  place('trencin-cafe-1', 'trencin', 'cafe', 'Café Sládkovič', 'Mierové námestie 33, 911 01 Trenčín, Slovakia', '트렌친의 작은 카페.', 'Small café in Trenčín.'),
+  place('trencin-cafe-1', 'trencin', 'cafe', 'Café Sládkovič', 'Mierové námestie 33/33, 911 01 Trenčín, Slovakia', '시인 얀 슬라드코비치를 기리는 방들로 꾸민 박물관 같은 카페. 커피와 케이크가 좋습니다.', 'Museum-like café with rooms honouring the poet Ján Sládkovič, known for its coffee and cakes.'),
   place('trencin-cafe-2', 'trencin', 'cafe', 'Coffee Lab - Coffee Shop & Roastery', 'Štúrovo námestie 5, 911 01 Trenčín, Slovakia', '슈투로보 광장의 스페셜티 에스프레소 바 겸 로스터리', 'Specialty espresso bar and roastery on Štúrovo námestie square in Trenčín'),
   place('trencin-cafe-3', 'trencin', 'cafe', 'CoffeeSheep', 'Matúšova 22, 911 01 Trenčín, Slovakia', '마투쇼바 거리의 카페.', 'Café on Matúšova street in Trenčín.'),
 ]

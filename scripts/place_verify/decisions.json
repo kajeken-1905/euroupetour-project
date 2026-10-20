@@ -365,6 +365,10 @@
 "ko": "카탈루냐·마드리드·안달루시아 요리를 가정식으로 내는 스페인 식당.",
 "ok": 1
 },
+"ankara-bakery-1": {
+"addr": "Nene Hatun Cd. No:28/A, Gaziosmanpaşa, Çankaya, Ankara, Turkey",
+"ok": 1
+},
 "annecy-bakery-1": {
 "addr": "3 Rue du Lac, 74000 Annecy",
 "en": "Old-town bakery near the lake with gâteau de Savoie and praline brioche.",
@@ -797,8 +801,26 @@
 "ko": "옛 시장 건물의 베이커리·브런치 카페. 사워도우와 에그 베네딕트가 인기입니다.",
 "ok": 1
 },
+"banska-bystrica-bakery-3": {
+"del": 1
+},
+"banska-bystrica-cafe-1": {
+"ok": 1
+},
+"banska-bystrica-cafe-2": {
+"ok": 1
+},
+"banska-bystrica-cafe-3": {
+"ok": 1
+},
 "banska-bystrica-fine_dining-1": {
 "del": "그 식당을 확인할 수 없음"
+},
+"banska-bystrica-fine_dining-2": {
+"ok": 1
+},
+"banska-bystrica-fine_dining-3": {
+"ok": 1
 },
 "barcelona-bakery-1": {
 "del": 1
@@ -1051,6 +1073,48 @@
 "ko": "벨파스트 강변의 미쉐린 1스타 레스토랑.",
 "mi": "star1",
 "ok": 1
+},
+"belgrade-bakery-1": {
+"ok": 1
+},
+"belgrade-bakery-3": {
+"del": 1
+},
+"belgrade-bakery-4": {
+"ok": 1
+},
+"belgrade-cafe-1": {
+"ok": 1
+},
+"belgrade-cafe-2": {
+"ok": 1
+},
+"belgrade-cafe-3": {
+"ok": 1
+},
+"belgrade-fine_dining-1": {
+"en": "Bistro that reopened in March 2026 as the new incarnation of Homa Dorćol, serving modern European food.",
+"ko": "2026년 3월 홈마 도르촐을 새 이름으로 연 비스트로. 현대 유럽 요리를 냅니다.",
+"name": "Homa Central Bistro",
+"ok": 1
+},
+"belgrade-fine_dining-2": {
+"en": "One-Michelin-star restaurant on the edge of the old town with views over the Sava.",
+"ko": "사바강이 내려다보이는 구시가 끝자락의 미쉐린 1스타 레스토랑.",
+"mi": "star1",
+"ok": 1
+},
+"belgrade-fine_dining-3": {
+"ok": 1
+},
+"belgrade-fine_dining-4": {
+"ok": 1
+},
+"belgrade-fine_dining-5": {
+"ok": 1
+},
+"belgrade-korean-1": {
+"del": 1
 },
 "berat-bakery-1": {
 "del": "베라트에서 그 가게를 찾을 수 없음"
@@ -1445,9 +1509,32 @@
 "bitola-fine_dining-5": {
 "del": "Gostilnica Sokak at Kopanki 6 not found in any source"
 },
+"bled-bakery-1": {
+"ok": 1
+},
+"bled-bakery-2": {
+"ok": 1
+},
+"bled-bakery-3": {
+"ok": 1
+},
+"bled-cafe-1": {
+"en": "Pavilion café designed by Jože Plečnik in the grounds of Vila Bled; open May to September only.",
+"ko": "요제 플레치니크가 설계한 빌라 블레드 정원의 파빌리온 카페. 5~9월에만 엽니다.",
+"ok": 1
+},
+"bled-cafe-2": {
+"del": 1
+},
 "bled-fine_dining-1": {
 "en": "Restaurant in the Grand Hotel Toplice, listed in the Michelin Guide; closed Sundays and Mondays.",
 "ko": "그랜드 호텔 토플리체 안의 레스토랑. 미쉐린 가이드에 실려 있고 일·월요일은 쉽니다.",
+"ok": 1
+},
+"bled-fine_dining-2": {
+"ok": 1
+},
+"bled-fine_dining-3": {
 "ok": 1
 },
 "bologna-bakery-1": {
@@ -1571,6 +1658,16 @@
 "bordeaux-korean-2": {
 "del": 1
 },
+"borgo-maggiore-bakery-1": {
+"del": 1
+},
+"borgo-maggiore-cafe-1": {
+"name": "Funivia Caffè",
+"ok": 1
+},
+"borgo-maggiore-fine_dining-1": {
+"del": 1
+},
 "braga-bakery-1": {
 "en": "Bakery and restaurant of nearly 100 years, with traditional pastries and brunch.",
 "ko": "100년 가까운 역사의 빵집 겸 레스토랑. 전통 페이스트리와 브런치를 냅니다.",
@@ -1647,6 +1744,42 @@
 },
 "brasov-fine_dining-5": {
 "ok": true
+},
+"bratislava-bakery-1": {
+"ok": 1
+},
+"bratislava-bakery-2": {
+"ok": 1
+},
+"bratislava-bakery-3": {
+"ok": 1
+},
+"bratislava-bakery-4": {
+"del": 1
+},
+"bratislava-cafe-1": {
+"ok": 1
+},
+"bratislava-cafe-2": {
+"ok": 1
+},
+"bratislava-cafe-3": {
+"del": 1
+},
+"bratislava-cafe-4": {
+"del": 1
+},
+"bratislava-fine_dining-1": {
+"ok": 1
+},
+"bratislava-fine_dining-2": {
+"ok": 1
+},
+"bratislava-fine_dining-4": {
+"ok": 1
+},
+"bratislava-korean-1": {
+"del": 1
 },
 "brighton-bakery-5": {
 "del": "브라이턴에서 그 가게를 찾을 수 없음"
@@ -4113,6 +4246,21 @@
 "ko": "사우키홀 거리의 스몰 플레이트 비스트로. 미쉐린 가이드에 실려 있고 2025년 초 새 단장했습니다.",
 "ok": 1
 },
+"gothenburg-bakery-1": {
+"ok": 1
+},
+"gothenburg-bakery-2": {
+"ok": 1
+},
+"gothenburg-cafe-2": {
+"ok": 1
+},
+"gothenburg-cafe-3": {
+"ok": 1
+},
+"gothenburg-cafe-4": {
+"ok": 1
+},
 "gothenburg-fine_dining-1": {
 "en": "One-Michelin-star restaurant in Gothenburg; closed Sundays and Mondays.",
 "ko": "예테보리의 미쉐린 1스타 레스토랑. 일·월요일은 쉽니다.",
@@ -4125,9 +4273,20 @@
 "mi": "star1",
 "ok": 1
 },
+"gothenburg-fine_dining-3": {
+"en": "Seafood restaurant in a 1775 East India Company warehouse in Klippan, with river views.",
+"ko": "1775년 동인도회사 창고를 쓰는 클리판의 해산물 레스토랑. 강이 보입니다.",
+"ok": 1
+},
 "gothenburg-fine_dining-4": {
 "en": "Modern restaurant that reopened after a break, listed in the MICHELIN Guide.",
 "ko": "한동안 문을 닫았다가 다시 연 현대 요리 레스토랑. 미쉐린 가이드에 실려 있습니다.",
+"ok": 1
+},
+"gothenburg-fine_dining-5": {
+"ok": 1
+},
+"gothenburg-korean-1": {
 "ok": 1
 },
 "gozo-bakery-1": {
@@ -5255,6 +5414,51 @@
 "ko": "극장 광장에 면한 바 겸 레스토랑. 고기 요리·팬케이크·체펠리나이가 인기이고 양이 많습니다.",
 "ok": 1
 },
+"kosice-bakery-1": {
+"ok": 1
+},
+"kosice-bakery-2": {
+"ok": 1
+},
+"kosice-bakery-3": {
+"ok": 1
+},
+"kosice-bakery-4": {
+"ok": 1
+},
+"kosice-cafe-1": {
+"ok": 1
+},
+"kosice-cafe-2": {
+"ok": 1
+},
+"kosice-cafe-3": {
+"en": "Café in central Košice decorated with vintage typewriters and pianos, serving breakfast.",
+"ko": "타자기·피아노 같은 옛 소품으로 꾸민 코시체 중심가의 카페. 아침 메뉴가 있습니다.",
+"name": "Šálka Kávy",
+"ok": 1
+},
+"kosice-cafe-4": {
+"ok": 1
+},
+"kosice-fine_dining-1": {
+"ok": 1
+},
+"kosice-fine_dining-2": {
+"ok": 1
+},
+"kosice-fine_dining-3": {
+"ok": 1
+},
+"kosice-fine_dining-4": {
+"ok": 1
+},
+"kosice-fine_dining-5": {
+"ok": 1
+},
+"kosice-korean-1": {
+"ok": 1
+},
 "kotor-bakery-1": {
 "del": "코토르에서 그 빵집을 찾을 수 없음"
 },
@@ -5914,6 +6118,46 @@
 "ko": "옛 미술학교 건물의 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
+"ljubljana-bakery-1": {
+"ok": 1
+},
+"ljubljana-bakery-3": {
+"ok": 1
+},
+"ljubljana-bakery-4": {
+"del": 1
+},
+"ljubljana-cafe-1": {
+"addr": "Krekov trg 8, 1000 Ljubljana, Slovenia",
+"ok": 1
+},
+"ljubljana-cafe-2": {
+"ok": 1
+},
+"ljubljana-cafe-3": {
+"ok": 1
+},
+"ljubljana-fine_dining-1": {
+"en": "One-Michelin-star restaurant inside Ljubljana Castle, serving tasting menus with city views.",
+"ko": "류블랴나성 안의 미쉐린 1스타 레스토랑. 도시 전망과 함께 테이스팅 메뉴를 냅니다.",
+"mi": "star1",
+"ok": 1
+},
+"ljubljana-fine_dining-2": {
+"ok": 1
+},
+"ljubljana-fine_dining-3": {
+"ok": 1
+},
+"ljubljana-fine_dining-4": {
+"ok": 1
+},
+"ljubljana-korean-1": {
+"addr": "Miklošičeva cesta 9d, 1000 Ljubljana, Slovenia",
+"en": "Family-run Korean restaurant in a shopping arcade on Miklošičeva cesta; closed Sundays.",
+"ko": "미클로시체바 거리 상가 안의 가족 운영 한식당. 일요일은 쉽니다.",
+"ok": 1
+},
 "lon-bk-1": {
 "addr": "197 Richmond Rd, London E8 3NJ",
 "ok": 1
@@ -6499,10 +6743,51 @@
 "ko": "직접 만든 샐러드 소스를 쓰는 피자가 대표인 말분의 피자집. 화·수요일은 쉽니다.",
 "ok": 1
 },
+"malmo-bakery-1": {
+"ok": 1
+},
+"malmo-bakery-2": {
+"del": 1
+},
+"malmo-bakery-3": {
+"addr": "Mäster Danielsgatan 3, 211 58 Malmö, Sweden",
+"ok": 1
+},
+"malmo-cafe-1": {
+"addr": "Regementsgatan 2, 211 42 Malmö",
+"en": "Malmö specialty coffee bar that has roasted its own beans since 2006.",
+"ko": "2006년부터 원두를 직접 볶아 온 말뫼의 스페셜티 커피 바.",
+"name": "Solde Kaffebar",
+"ok": 1
+},
+"malmo-cafe-2": {
+"ok": 1
+},
+"malmo-cafe-3": {
+"addr": "Baltzarsgatan 24, 211 36 Malmö",
+"ok": 1
+},
 "malmo-fine_dining-1": {
 "en": "Two-Michelin-star restaurant in Malmö; Wednesday to Saturday evenings.",
 "ko": "말뫼의 미쉐린 2스타 레스토랑. 수~토 저녁에 엽니다.",
 "mi": "star2",
+"ok": 1
+},
+"malmo-fine_dining-2": {
+"addr": "Fersens väg 4, 211 42 Malmö",
+"ok": 1
+},
+"malmo-fine_dining-3": {
+"del": 1
+},
+"malmo-fine_dining-4": {
+"addr": "Simrishamnsgatan 36A, 214 23 Malmö",
+"ok": 1
+},
+"malmo-korean-1": {
+"addr": "Landbygatan 5, 211 34 Malmö",
+"en": "Malmö's first Korean restaurant, opened by a Swedish MasterChef winner, serving dishes to share.",
+"ko": "마스터셰프 스웨덴 우승자가 연 말뫼 최초의 한식당. 나눠 먹는 요리를 냅니다.",
 "ok": 1
 },
 "manchester-bakery-5": {
@@ -6525,6 +6810,50 @@
 "addr": "Via Filippo Corridoni 44, 46100 Mantova",
 "en": "Cosy osteria serving Mantuan dishes such as stracotto d'asino (braised donkey) and capunsei.",
 "ko": "당나귀 스트라코토와 카푼세이 등 만토바 향토 요리를 내는 아늑한 오스테리아.",
+"ok": 1
+},
+"maribor-bakery-1": {
+"del": 1
+},
+"maribor-bakery-2": {
+"ok": 1
+},
+"maribor-bakery-3": {
+"ok": 1
+},
+"maribor-bakery-4": {
+"del": 1
+},
+"maribor-cafe-1": {
+"ok": 1
+},
+"maribor-cafe-2": {
+"ok": 1
+},
+"maribor-cafe-3": {
+"ok": 1
+},
+"maribor-cafe-4": {
+"del": 1
+},
+"maribor-fine_dining-1": {
+"del": 1
+},
+"maribor-fine_dining-2": {
+"en": "Maribor restaurant where chef David Vračko serves a single long tasting menu.",
+"ko": "셰프 다비드 브라치코가 긴 테이스팅 메뉴 하나만 내는 마리보르의 레스토랑.",
+"name": "Restavracija Mak",
+"ok": 1
+},
+"maribor-fine_dining-3": {
+"ok": 1
+},
+"maribor-fine_dining-4": {
+"del": 1
+},
+"maribor-fine_dining-5": {
+"addr": "Poštna ulica 8, 2000 Maribor, Slovenia",
+"name": "Baščaršija",
 "ok": 1
 },
 "marseille-bakery-1": {
@@ -7377,6 +7706,15 @@
 "ko": "구시가지의 수블라키·그릴 요리 식당. 메제와 생선도 있습니다.",
 "ok": 1
 },
+"nis-bakery-1": {
+"del": 1
+},
+"nis-bakery-2": {
+"ok": 1
+},
+"nis-cafe-1": {
+"del": 1
+},
 "nis-cafe-2": {
 "addr": "Koste Stamenkovića 1, 18000 Niš",
 "name": "Kafeterija Biro",
@@ -7385,6 +7723,47 @@
 "nis-cafe-3": {
 "addr": "Trg Kralja Aleksandra Ujedinitelja 1a, 18000 Niš",
 "ok": 1
+},
+"nis-fine_dining-1": {
+"ok": 1
+},
+"nis-fine_dining-2": {
+"ok": 1
+},
+"nis-fine_dining-3": {
+"ok": 1
+},
+"novi-sad-bakery-1": {
+"name": "Hleb & Kifle",
+"ok": 1
+},
+"novi-sad-bakery-2": {
+"ok": 1
+},
+"novi-sad-cafe-1": {
+"ok": 1
+},
+"novi-sad-cafe-2": {
+"del": 1
+},
+"novi-sad-cafe-3": {
+"ok": 1
+},
+"novi-sad-fine_dining-1": {
+"del": 1
+},
+"novi-sad-fine_dining-2": {
+"addr": "Ribarsko ostrvo bb, 21000 Novi Sad, Serbia",
+"ok": 1
+},
+"novi-sad-fine_dining-3": {
+"ok": 1
+},
+"novi-sad-fine_dining-4": {
+"del": 1
+},
+"novi-sad-fine_dining-5": {
+"del": 1
 },
 "nuremberg-bakery-1": {
 "del": 1
@@ -8121,6 +8500,37 @@
 "perugia-fine_dining-1": {
 "ok": 1
 },
+"piran-bakery-1": {
+"ok": 1
+},
+"piran-bakery-2": {
+"ok": 1
+},
+"piran-bakery-3": {
+"del": 1
+},
+"piran-cafe-1": {
+"ok": 1
+},
+"piran-cafe-2": {
+"ok": 1
+},
+"piran-cafe-3": {
+"ok": 1
+},
+"piran-fine_dining-1": {
+"ok": 1
+},
+"piran-fine_dining-2": {
+"ok": 1
+},
+"piran-fine_dining-3": {
+"addr": "Kosovelova ulica 2, 6330 Piran, Slovenia",
+"en": "Gostilna (traditional inn) in Piran's old town.",
+"ko": "피란 구시가의 가스틸나(전통 식당).",
+"name": "Gostilna Rostelin",
+"ok": 1
+},
 "plovdiv-bakery-1": {
 "addr": "ul. Sv. Sv. Kiril i Metodiy 16, Plovdiv",
 "en": "Local bakery with daily-baked traditional breads, banitsa and cakes.",
@@ -8236,12 +8646,39 @@
 "mi": "star1",
 "ok": 1
 },
+"poprad-bakery-1": {
+"ok": 1
+},
+"poprad-bakery-2": {
+"del": 1
+},
+"poprad-bakery-3": {
+"del": 1
+},
+"poprad-cafe-1": {
+"en": "French-style vintage café and pastry workshop; French wine in the evening and a summer terrace.",
+"ko": "프랑스풍 빈티지 카페 겸 디저트 공방. 저녁에는 프랑스 와인을 내고 여름 테라스가 있습니다.",
+"name": "Café La Fée",
+"ok": 1
+},
+"poprad-cafe-2": {
+"ok": 1
+},
+"poprad-cafe-3": {
+"ok": 1
+},
 "poprad-fine_dining-1": {
 "del": "출처마다 주소가 달라 확인할 수 없음"
 },
 "poprad-fine_dining-2": {
 "en": "Beer house serving Slovak classics, with a big outdoor beer garden.",
 "ko": "슬로바키아 전통 요리를 내는 맥줏집 식당. 야외 비어 가든이 넓습니다.",
+"ok": 1
+},
+"poprad-fine_dining-3": {
+"addr": "Velické námestie 1189, 058 01 Poprad, Slovakia",
+"en": "1930s-style restaurant named after a Louis de Funès film character, serving French-inflected dishes and pizza.",
+"ko": "루이 드 퓌네스 영화 속 인물에서 이름을 딴 1930년대풍 레스토랑. 프랑스풍 요리와 피자를 냅니다.",
 "ok": 1
 },
 "porto-bakery-1": {
@@ -8368,6 +8805,28 @@
 "ok": 1
 },
 "positano-fine_dining-2": {
+"ok": 1
+},
+"postojna-bakery-1": {
+"del": 1
+},
+"postojna-bakery-2": {
+"del": 1
+},
+"postojna-cafe-1": {
+"del": 1
+},
+"postojna-cafe-2": {
+"del": 1
+},
+"postojna-cafe-3": {
+"del": 1
+},
+"postojna-fine_dining-1": {
+"ok": 1
+},
+"postojna-fine_dining-2": {
+"name": "Gostilna Ob Kaminu",
 "ok": 1
 },
 "potsdam-bakery-1": {
@@ -9284,6 +9743,15 @@
 "salzburg-fine_dining-4": {
 "ok": 1
 },
+"san-marino-city-bakery-1": {
+"del": 1
+},
+"san-marino-city-cafe-1": {
+"ok": 1
+},
+"san-marino-city-fine_dining-2": {
+"ok": 1
+},
 "san-sebastian-bakery-1": {
 "addr": "Narrika Kalea, 20003 Donostia / San Sebastián",
 "en": "San Sebastián pastry shop founded in 1886; its Narrika street shop in the old town sells pantxineta.",
@@ -9684,8 +10152,31 @@
 "sibiu-bakery-4": {
 "ok": true
 },
+"sibiu-cafe-1": {
+"del": 1
+},
 "sibiu-cafe-2": {
 "ok": true
+},
+"sibiu-cafe-3": {
+"ok": 1
+},
+"sibiu-cafe-4": {
+"ok": 1
+},
+"sibiu-fine_dining-1": {
+"ok": 1
+},
+"sibiu-fine_dining-2": {
+"ok": 1
+},
+"sibiu-fine_dining-3": {
+"name": "Kombinat Gastro-Brewery",
+"ok": 1
+},
+"sibiu-fine_dining-4": {
+"addr": "Strada Timotei Popovici 9 (Piața Schiller), 550164 Sibiu, Romania",
+"ok": 1
 },
 "siena-bakery-1": {
 "ok": 1
@@ -9720,6 +10211,29 @@
 },
 "siena-fine_dining-2": {
 "addr": "Via dei Termini 91, 53100 Siena",
+"ok": 1
+},
+"sighisoara-bakery-1": {
+"del": 1
+},
+"sighisoara-bakery-2": {
+"del": 1
+},
+"sighisoara-cafe-1": {
+"addr": "Piața Hermann Oberth 7, 545400 Sighișoara, Romania",
+"name": "The Bean",
+"ok": 1
+},
+"sighisoara-cafe-2": {
+"ok": 1
+},
+"sighisoara-fine_dining-1": {
+"ok": 1
+},
+"sighisoara-fine_dining-2": {
+"ok": 1
+},
+"sighisoara-fine_dining-3": {
 "ok": 1
 },
 "sighnaghi-cafe-1": {
@@ -10384,6 +10898,36 @@
 "ko": "베를리너 플라츠 근처의 한식당. 만두·찌개·비빔밥이 있고 카운터에서 주문합니다. 일요일은 쉽니다.",
 "ok": 1
 },
+"subotica-bakery-1": {
+"addr": "Korzo 9/2, 24000 Subotica, Serbia",
+"cat": "cafe",
+"en": "Café-bar in a courtyard off the Korzo in central Subotica.",
+"ko": "수보티차 중심가 코르조 거리 안뜰의 카페 겸 바.",
+"name": "Kafe Priča",
+"ok": 1
+},
+"subotica-bakery-2": {
+"addr": "Zmaj Jovina 7a, 24000 Subotica, Serbia",
+"ok": 1
+},
+"subotica-cafe-1": {
+"ok": 1
+},
+"subotica-cafe-2": {
+"addr": "Matije Korvina 7, 24000 Subotica, Serbia",
+"en": "Well-known Subotica café-restaurant opened in 1986, with a large garden.",
+"ko": "1986년 문을 연 수보티차의 이름난 카페 겸 레스토랑. 넓은 정원이 있습니다.",
+"ok": 1
+},
+"subotica-fine_dining-1": {
+"ok": 1
+},
+"subotica-fine_dining-2": {
+"ok": 1
+},
+"subotica-fine_dining-3": {
+"ok": 1
+},
 "szeged-bakery-1": {
 "addr": "Mérey utca 15/a, 6725 Szeged",
 "en": "Original shop of a sourdough bakery where you can watch the baking, with croissants, cinnamon rolls and eggs Benedict.",
@@ -10821,15 +11365,55 @@
 "thessaloniki-korean-1": {
 "del": "not found"
 },
+"timisoara-bakery-1": {
+"addr": "Strada Francesco Griselini 2, 300054 Timișoara, Romania",
+"en": "Long-established traditional pastry shop in central Timișoara, known for its cakes.",
+"ko": "티미쇼아라 중심가의 오래된 전통 제과점. 케이크가 유명합니다.",
+"ok": 1
+},
+"timisoara-bakery-2": {
+"del": 1
+},
 "timisoara-bakery-3": {
 "del": "그 이름·주소의 제과점을 확인할 수 없음"
 },
 "timisoara-bakery-4": {
 "del": "그 이름의 제과점을 찾을 수 없음(비슷한 이름은 일반 식당)"
 },
+"timisoara-cafe-1": {
+"addr": "Splaiul Nicolae Titulescu 7, 300160 Timișoara, Romania",
+"en": "Small specialty coffee shop near the Bega riverbank.",
+"ko": "베가강 강변 근처의 작은 스페셜티 커피숍.",
+"ok": 1
+},
+"timisoara-cafe-2": {
+"ok": 1
+},
+"timisoara-cafe-3": {
+"ok": 1
+},
+"timisoara-cafe-4": {
+"ok": 1
+},
+"timisoara-fine_dining-1": {
+"addr": "Strada Eugeniu de Savoya 14, 300085 Timișoara, Romania",
+"ok": 1
+},
+"timisoara-fine_dining-2": {
+"del": 1
+},
+"timisoara-fine_dining-3": {
+"ok": 1
+},
+"timisoara-fine_dining-4": {
+"ok": 1
+},
 "timisoara-fine_dining-5": {
 "addr": "Strada Vasile Alecsandri, Timișoara (historic centre)",
 "ok": 1
+},
+"timisoara-korean-1": {
+"del": 1
 },
 "tirana-bakery-1": {
 "del": "\"Byrektore\"는 부렉 가게를 뜻하는 일반 명사이고 그 주소의 가게를 찾을 수 없음"
@@ -11093,6 +11677,38 @@
 "travnik-fine_dining-3": {
 "del": 1
 },
+"trencin-bakery-1": {
+"del": 1
+},
+"trencin-bakery-2": {
+"ok": 1
+},
+"trencin-bakery-3": {
+"del": 1
+},
+"trencin-cafe-1": {
+"addr": "Mierové námestie 33/33, 911 01 Trenčín, Slovakia",
+"en": "Museum-like café with rooms honouring the poet Ján Sládkovič, known for its coffee and cakes.",
+"ko": "시인 얀 슬라드코비치를 기리는 방들로 꾸민 박물관 같은 카페. 커피와 케이크가 좋습니다.",
+"ok": 1
+},
+"trencin-cafe-2": {
+"ok": 1
+},
+"trencin-cafe-3": {
+"ok": 1
+},
+"trencin-fine_dining-1": {
+"en": "Restaurant inside Hotel Pod Hradom with a strong wine and whisky list.",
+"ko": "호텔 포드 흐라돔 안의 레스토랑. 와인과 위스키 목록이 좋습니다.",
+"ok": 1
+},
+"trencin-fine_dining-2": {
+"ok": 1
+},
+"trencin-fine_dining-3": {
+"ok": 1
+},
 "trieste-cafe-1": {
 "ok": 1
 },
@@ -11325,6 +11941,29 @@
 "turku-korean-2": {
 "en": "All-you-can-eat Asian buffet in central Turku, related to Yummy Korean in Tampere.",
 "ko": "투르쿠 중심가의 아시아식 뷔페 식당(탐페레의 Yummy Korean과 같은 계열).",
+"ok": 1
+},
+"uppsala-bakery-1": {
+"ok": 1
+},
+"uppsala-bakery-2": {
+"addr": "Östra Ågatan 31, 753 22 Uppsala",
+"ok": 1
+},
+"uppsala-cafe-2": {
+"addr": "Stora Torget 3, 753 20 Uppsala",
+"ok": 1
+},
+"uppsala-cafe-3": {
+"ok": 1
+},
+"uppsala-cafe-4": {
+"del": 1
+},
+"uppsala-fine_dining-1": {
+"ok": 1
+},
+"uppsala-fine_dining-2": {
 "ok": 1
 },
 "urbino-fine_dining-1": {
