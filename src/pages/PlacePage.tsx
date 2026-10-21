@@ -8,6 +8,7 @@ import { MapLinks } from '../components/MapLinks'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { FavoriteButton } from '../components/FavoriteButton'
+import { BeenButton } from '../components/BeenButton'
 import { t } from '../i18n/ui'
 import { CATEGORIES } from '../types'
 
@@ -67,7 +68,10 @@ function PlaceView() {
         </p>
         <div className="place-card-head">
           <h2>{place.name}</h2>
-          <FavoriteButton kind="places" id={place.id} />
+          <span className="card-actions">
+            <FavoriteButton kind="places" id={place.id} />
+            <BeenButton kind="places" id={place.id} />
+          </span>
         </div>
         <MichelinBadge michelin={place.michelin} />
         {place.image ? (

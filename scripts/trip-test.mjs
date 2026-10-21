@@ -43,9 +43,9 @@ try {
   report.tabs = await evaluate(`[...document.querySelectorAll('.bottom-tab a')].map(a => a.textContent).join('|')`)
   report.planBefore = await evaluate(`document.querySelectorAll('.plan-stops').length`)
   // Favourite two highlights and one restaurant.
-  await click('.highlight-card .fav-btn', 0)
-  await click('.highlight-card .fav-btn', 19)
-  await click('.place-card .fav-btn', 0)
+  await click('.highlight-card .fav-btn:not(.been-btn)', 0)
+  await click('.highlight-card .fav-btn:not(.been-btn)', 19)
+  await click('.place-card .fav-btn:not(.been-btn)', 0)
   report.favourites = await evaluate(`localStorage.getItem('my-trip-v1')`)
   await evaluate(`[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('가져오기')).click()`)
   await sleep(300)
@@ -86,6 +86,45 @@ try {
   report.afterClear = await plan()
   await go('/'); await sleep(1500)
   await shot('5-trip-favs-only')
+  // "Been there" marks: yes/no only, counted beside the list headings.
+  await go('/city/paris')
+  await click('.highlight-card .been-btn', 0)
+  await click('.highlight-card .been-btn', 2)
+  await click('.place-card .been-btn', 0)
+  await sleep(200)
+  report.beenCounts = await evaluate(`[...document.querySelectorAll('.been-count')].map(e => e.textContent).join('|')`)
+  report.beenPressed = await evaluate(`[...document.querySelectorAll('.been-btn.is-been')].length`)
+  await evaluate(`document.querySelector('.highlight-card').scrollIntoView()`)
+  await shot('6-been-highlight')
+  await evaluate(`document.querySelector('.place-card').scrollIntoView({ block: 'center' })`)
+  await shot('7-been-place')
+  await click('.highlight-card .been-btn', 2) // unmark again
+  report.beenStored = await evaluate(`(() => { const d = JSON.parse(localStorage.getItem('my-trip-v1')); return JSON.stringify([d.beenHighlights, d.beenPlaces.length]) })()`)
+  // Backup: export carries marks and stamps; import merges both.
+  await go('/'); await sleep(1500)
+  report.beenSummary = await evaluate(`[...document.querySelectorAll('.route-hint')].map(e => e.textContent).find(t => t.includes('✓')) ?? ''`)
+  report.exported = await evaluate(`(async () => {
+    let blob
+    URL.createObjectURL = (b) => ((blob = b), 'blob:test')
+    URL.revokeObjectURL = () => {}
+    HTMLAnchorElement.prototype.click = () => {}
+    ;[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('내보내기')).click()
+    const d = JSON.parse(await blob.text())
+    return JSON.stringify({ been: d.beenHighlights.length + d.beenPlaces.length, visits: Object.keys(d.visits ?? {}) })
+  })()`)
+  await evaluate(`(() => {
+    const file = new File([JSON.stringify({ app: 'europe-tour', version: 1, highlights: [], places: [], plans: {}, route: [],
+      beenHighlights: ['paris-h3'], beenPlaces: [],
+      visits: { countries: { france: [{ year: 2024, month: 5 }] }, cities: { paris: [{ year: 2024, month: 5 }] } } })], 'b.json')
+    const input = document.querySelector('input[type=file]')
+    const dt = new DataTransfer(); dt.items.add(file); input.files = dt.files
+    input.dispatchEvent(new Event('change', { bubbles: true }))
+  })()`)
+  await sleep(500)
+  report.importedBeen = await evaluate(`JSON.parse(localStorage.getItem('my-trip-v1')).beenHighlights.join(',')`)
+  report.importedVisits = await evaluate(`localStorage.getItem('mvp-visited-places-v1')`)
+  await go('/city/paris')
+  report.stampAfterImport = await evaluate(`document.querySelectorAll('.visit-stamp, .stamp, [class*=stamp]').length`)
 } finally {
   console.log(JSON.stringify(report, null, 1))
   ws.close()

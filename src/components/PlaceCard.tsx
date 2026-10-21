@@ -5,6 +5,7 @@ import { MichelinBadge } from './MichelinBadge'
 import { PlaceThumb } from './PlaceThumb'
 import { MapLinks } from './MapLinks'
 import { FavoriteButton } from './FavoriteButton'
+import { BeenButton } from './BeenButton'
 
 export function PlaceCard({ place }: { place: Place }) {
   const { lang } = useLanguage()
@@ -16,7 +17,10 @@ export function PlaceCard({ place }: { place: Place }) {
           <Link to={`/place/${place.id}`}>
             <h3>{place.name}</h3>
           </Link>
-          <FavoriteButton kind="places" id={place.id} />
+          <span className="card-actions">
+            <FavoriteButton kind="places" id={place.id} />
+            <BeenButton kind="places" id={place.id} />
+          </span>
         </div>
         <p className="desc">{place.description[lang]}</p>
         <p className="addr">{place.address}</p>

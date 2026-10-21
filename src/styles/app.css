@@ -2816,13 +2816,44 @@ button.back-link {
   position: relative;
 }
 
-.fav-btn-float {
+.been-btn {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.been-btn.is-been {
+  border-color: #1f9d55;
+  background: #1f9d55;
+  color: #fff;
+}
+
+.card-actions {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 6px;
+}
+
+.card-float-actions {
   position: absolute;
   top: 10px;
   right: 10px;
+  display: flex;
+  gap: 6px;
+}
+
+.card-float-actions .fav-btn:not(.is-been) {
   border-color: transparent;
   background: rgba(255, 255, 255, 0.92);
+}
+
+.card-float-actions .fav-btn {
   box-shadow: 0 2px 8px rgba(20, 17, 15, 0.18);
+}
+
+.been-count {
+  margin-left: 6px;
+  color: #1f9d55;
+  font-weight: 700;
 }
 
 .place-card-head {

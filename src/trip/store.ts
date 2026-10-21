@@ -15,6 +15,10 @@ export interface TripData {
   plans: Record<string, PlanDay[]>
   /** City ids in travel order; a city may appear twice (a round trip). */
   route: string[]
+  /** Highlight ids the traveller has been to. */
+  beenHighlights: string[]
+  /** Place ids the traveller has been to. */
+  beenPlaces: string[]
 }
 
 export type FavoriteKind = 'highlights' | 'places'
@@ -46,10 +50,17 @@ export function parseTrip(value: unknown): TripData | undefined {
     }
   }
   const route = Array.isArray(raw.route) ? raw.route.filter((v): v is string => typeof v === 'string') : []
-  return { highlights: strings(raw.highlights), places: strings(raw.places), plans, route }
+  return {
+    highlights: strings(raw.highlights),
+    places: strings(raw.places),
+    plans,
+    route,
+    beenHighlights: strings(raw.beenHighlights),
+    beenPlaces: strings(raw.beenPlaces),
+  }
 }
 
-const EMPTY: TripData = { highlights: [], places: [], plans: {}, route: [] }
+const EMPTY: TripData = { highlights: [], places: [], plans: {}, route: [], beenHighlights: [], beenPlaces: [] }
 
 function load(): TripData {
   try {
@@ -87,6 +98,19 @@ export function toggleFavorite(kind: FavoriteKind, id: string) {
   commit({ ...data, [kind]: list.includes(id) ? list.filter((v) => v !== id) : [...list, id] })
 }
 
+const BEEN_KEY = { highlights: 'beenHighlights', places: 'beenPlaces' } as const
+
+/** The ids of sights or places marked as visited. */
+export function beenList(trip: TripData, kind: FavoriteKind): string[] {
+  return trip[BEEN_KEY[kind]]
+}
+
+export function toggleBeen(kind: FavoriteKind, id: string) {
+  const key = BEEN_KEY[kind]
+  const list = data[key]
+  commit({ ...data, [key]: list.includes(id) ? list.filter((v) => v !== id) : [...list, id] })
+}
+
 /** Save a city's plan, or drop it when `days` is undefined. */
 export function setPlan(cityId: string, days: PlanDay[] | undefined) {
   const plans = { ...data.plans }
@@ -105,12 +129,14 @@ export function setRoute(route: string[]) {
   commit({ ...data, route })
 }
 
-/** Merge an imported backup: favourites are combined; plans for the same city and a non-empty route come from the file. */
+/** Merge an imported backup: favourites and visited marks are combined; plans for the same city and a non-empty route come from the file. */
 export function mergeTrip(incoming: TripData) {
   commit({
     highlights: [...new Set([...data.highlights, ...incoming.highlights])],
     places: [...new Set([...data.places, ...incoming.places])],
     plans: { ...data.plans, ...incoming.plans },
     route: incoming.route.length > 0 ? incoming.route : data.route,
+    beenHighlights: [...new Set([...data.beenHighlights, ...incoming.beenHighlights])],
+    beenPlaces: [...new Set([...data.beenPlaces, ...incoming.beenPlaces])],
   })
 }

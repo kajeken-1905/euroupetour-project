@@ -8,6 +8,7 @@ import { t } from '../i18n/ui'
 import { directionsUrl } from '../utils/directions'
 import type { City, CityHighlight, Place } from '../types'
 import { clearPlans, mergeTrip, parseTrip, setPlan, useTrip } from '../trip/store'
+import { mergeVisits, parseVisits, useVisitedPlaces } from '../hooks/useVisitedPlaces'
 
 let highlightCity: Map<string, City> | undefined
 
@@ -28,6 +29,7 @@ export default function TripSections() {
 function TripView() {
   const { lang } = useLanguage()
   const trip = useTrip()
+  const { data: visits } = useVisitedPlaces()
   const navigate = useNavigate()
   const fileRef = useRef<HTMLInputElement>(null)
   const [message, setMessage] = useState('')
@@ -55,7 +57,7 @@ function TripView() {
   }
 
   const exportFile = () => {
-    const blob = new Blob([JSON.stringify({ app: 'europe-tour', version: 1, ...trip }, null, 2)], {
+    const blob = new Blob([JSON.stringify({ app: 'europe-tour', version: 1, ...trip, visits }, null, 2)], {
       type: 'application/json',
     })
     const a = document.createElement('a')
@@ -72,6 +74,7 @@ function TripView() {
       const parsed = raw?.app === 'europe-tour' ? parseTrip(raw) : undefined
       if (!parsed) throw new Error('not a backup')
       mergeTrip(parsed)
+      mergeVisits(parseVisits(raw.visits))
       setMessage(t('tripImported', lang))
     } catch {
       setMessage(t('tripImportFailed', lang))
@@ -80,12 +83,22 @@ function TripView() {
   }
 
   const empty = plans.length === 0 && groups.size === 0
-  const nothingToExport = empty && trip.route.length === 0
+  const beenCount = trip.beenHighlights.length + trip.beenPlaces.length
+  const stampCount = Object.keys(visits.countries).length + Object.keys(visits.cities).length
+  const nothingToExport = empty && trip.route.length === 0 && beenCount === 0 && stampCount === 0
 
   return (
     <div className="search-page trip-sections">
 
       <TourPanel />
+
+      {beenCount > 0 ? (
+        <p className="route-hint">
+          {t('beenSummary', lang)
+            .replace('{h}', String(trip.beenHighlights.length))
+            .replace('{p}', String(trip.beenPlaces.length))}
+        </p>
+      ) : null}
 
       {empty ? <div className="empty-state">{t('tripEmpty', lang)}</div> : null}
 

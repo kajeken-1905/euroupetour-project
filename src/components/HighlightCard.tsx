@@ -4,6 +4,7 @@ import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
 import { getHighlightVisit } from '../data/visit'
 import { FavoriteButton } from './FavoriteButton'
+import { BeenButton } from './BeenButton'
 
 export const DAYS: Record<string, { ko: string; en: string }> = {
   mon: { ko: '월', en: 'Mon' },
@@ -112,7 +113,10 @@ export function HighlightCard({ highlight }: { highlight: CityHighlight }) {
           <span className="highlight-card-maps">{t('openMaps', lang)}</span>
         </div>
       </a>
-      <FavoriteButton kind="highlights" id={highlight.id} className="fav-btn-float" />
+      <div className="card-float-actions">
+        <FavoriteButton kind="highlights" id={highlight.id} />
+        <BeenButton kind="highlights" id={highlight.id} />
+      </div>
       {visit ? <VisitInfo visit={visit} /> : null}
     </article>
   )

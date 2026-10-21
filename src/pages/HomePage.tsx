@@ -4,8 +4,9 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 import { useTrip } from '../trip/store'
+import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 
-// Route, plans and favourites need every city's data, so they load on their own and only when there is something saved.
+// Route, plans, favourites and the backup need every city's data, so they load on their own and only when there is something saved.
 const TripSections = lazy(() => import('../components/TripSections'))
 
 /** "My trip" on the home screen: loads the route, plans and favourites when any are saved, or on request. */
@@ -13,8 +14,16 @@ function HomeTrip() {
   const { lang } = useLanguage()
   const trip = useTrip()
   const [start, setStart] = useState(false)
+  const { data: visits } = useVisitedPlaces()
   const saved =
-    trip.route.length > 0 || Object.keys(trip.plans).length > 0 || trip.highlights.length > 0 || trip.places.length > 0
+    trip.route.length > 0 ||
+    Object.keys(trip.plans).length > 0 ||
+    trip.highlights.length > 0 ||
+    trip.places.length > 0 ||
+    trip.beenHighlights.length > 0 ||
+    trip.beenPlaces.length > 0 ||
+    Object.keys(visits.countries).length > 0 ||
+    Object.keys(visits.cities).length > 0
   // Arriving from a city's "in your route" button: bring this section into view once it is there.
   const scrollTo = (useLocation().state as { scrollTo?: string } | null)?.scrollTo
   useEffect(() => {
