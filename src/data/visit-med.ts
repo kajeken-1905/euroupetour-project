@@ -12,7 +12,7 @@ const OLYMPIA = '유적과 박물관은 통합 입장권으로 봅니다.|The si
 export const visitMed: Record<string, HighlightVisit> = {
   // Malta
   'valletta-h1': v(60, 75, { c: 'sun', s: 'https://www.stjohnscocathedral.com/', n: '일요일과 공휴일에는 관람객을 받지 않습니다. 어깨와 무릎을 가려야 하고 굽이 뾰족한 구두는 신고 들어갈 수 없습니다.|No visitors on Sundays and public holidays. Shoulders and knees must be covered and stiletto heels are not allowed.', k: '2026-10' }),
-  'valletta-h2': v(20, 30, { b: 'no', n: '정원은 무료이고 정오와 오후 4시에 예포를 쏩니다.|The gardens are free; the saluting battery fires at noon and 4 pm.' }),
+  'valletta-h2': v(20, 30, { b: 'no', n: '정원은 무료이고 월~토요일 정오와 오후 4시에 아래 포대에서 예포를 쏩니다.|The gardens are free; the saluting battery below fires at noon and 4 pm, Monday to Saturday.' }),
   'valletta-h3': v(30, 45),
   'valletta-h4': v(45, 60),
   'valletta-h5': v(90, 120, { s: 'https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/', n: '3~12월은 매일 열고 1~2월에는 화요일에 쉽니다.|Open daily March–December; closed on Tuesdays in January and February.', k: '2026-10' }),

@@ -172,7 +172,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'wroclaw-h4': v(60, 120),
   'wroclaw-h5': v(40, 45, { c: 'wed', k: '2026-10' }),
   // Poznań
-  'poznan-h1': v(30, 45, { n: '매일 정오에 시청 시계탑에서 염소 두 마리가 뿔을 맞댑니다.|At noon each day two mechanical goats butt heads on the town hall clock.' }),
+  'poznan-h1': v(30, 45, { n: '매일 정오와 오후 3시에 시청 시계탑에서 기계 염소 두 마리가 나와 뿔을 맞댑니다.|Every day at noon and 3 pm two mechanical goats come out on the town hall clock and butt heads.' }),
   'poznan-h2': v(45, 60),
   'poznan-h3': v(30, 45),
   'poznan-h4': v(15, 20),

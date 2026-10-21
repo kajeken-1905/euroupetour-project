@@ -12,7 +12,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'copenhagen-h3': v(180, 240, { b: 'rec', s: 'https://www.tivoli.dk/en', n: '여름·핼러윈·크리스마스 시즌에만 문을 열고 그 사이에는 쉽니다.|Open only for the summer, Halloween and Christmas seasons, closing in between.', k: '2026-10' }),
   'copenhagen-h4': v(60, 90),
   'copenhagen-h5': v(10, 15),
-  'copenhagen-h6': v(90, 120, { n: '탑 전망대는 무료이고 왕실 접견실 등은 유료입니다. 겨울에는 월요일에 쉽니다.|The tower is free; the royal reception rooms are ticketed. Closed on Mondays in winter.' }),
+  'copenhagen-h6': v(90, 120, { n: '탑 전망대는 무료이고 월요일에 쉽니다. 왕실 접견실 등은 유료이고 겨울에는 월요일에 쉽니다.|The tower is free and closed on Mondays; the royal reception rooms are ticketed and close on Mondays in winter.' }),
   'copenhagen-h7': v(30, 45, { c: 'daily', s: 'https://www.rundetaarn.dk/en/front-page/', k: '2026-10' }),
   // Aarhus
   'aarhus-h1': v(120, 150, { c: 'daily', s: 'https://www.aros.dk/en/', k: '2026-10' }),

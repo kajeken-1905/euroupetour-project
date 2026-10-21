@@ -157,7 +157,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'the-hague-h2': v(30, 45, { c: 'mon,tue', s: 'https://www.vredespaleis.nl/visit/?lang=en', n: '방문자 센터는 무료이고, 건물 내부는 지정일 가이드 투어로만 봅니다. 방문자 센터 기준입니다.|The visitor centre is free; the building itself is seen on guided tours on set days only. As listed for the visitor centre.', k: '2026-10' }),
   'the-hague-h3': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.mauritshuis.nl/en/', n: '월요일은 오후에만 엽니다.|On Mondays it opens in the afternoon only.', k: '2026-10' }),
   'the-hague-h4': v(90, 180),
-  'the-hague-h5': v(15, 20, { n: '대규모 보수 공사로 안뜰과 건물에 들어갈 수 없습니다. 호수 건너편에서 외관만 봅니다.|Closed off for a major renovation; view it from across the Hofvijver pond.' }),
+  'the-hague-h5': v(15, 20, { n: '대규모 보수 공사로 안뜰과 건물에 들어갈 수 없고, 2031년 여름에야 다시 걸어 다닐 수 있을 예정입니다. 호수 건너편에서 외관만 봅니다.|Closed off for a major renovation, with the courtyard due to reopen to walkers in summer 2031; view it from across the Hofvijver pond.' }),
   'the-hague-h6': v(90, 120, { c: 'daily', s: 'https://www.madurodam.nl/en', k: '2026-10' }),
   'the-hague-h7': v(60, 75, { c: 'mon', s: 'https://escherinhetpaleis.nl/en?lang=en', k: '2026-10' }),
   // Utrecht
