@@ -263,7 +263,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'bari-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.basilicasannicola.it/', n: FREE, k: '2026-10' }),
   'bari-h2': v(60, 90),
   'bari-h3': v(20, 30, { n: '할머니들이 파스타를 빚는 모습은 오전에 볼 수 있습니다.|The pasta-making is best seen in the morning.' }),
-  'bari-h4': v(45, 60, { c: 'mon', s: 'https://cultura.gov.it/luogo/castello-svevo-di-bari', n: '화~일에 열고 매표소는 9:00~18:00입니다. 매달 첫 일요일은 무료입니다.|Open Tue–Sun, ticket office 9:00–18:00; free on the first Sunday of the month.', k: '2026-10' }),
+  'bari-h4': v(60, 90, { c: 'mon', s: 'https://cultura.gov.it/luogo/castello-svevo-di-bari', n: '화~일에 열고 매표소는 9:00~18:00입니다. 매달 첫 일요일은 무료입니다.|Open Tue–Sun, ticket office 9:00–18:00; free on the first Sunday of the month.', k: '2026-10' }),
   'bari-h5': v(30, 45),
   // Alberobello
   'alberobello-h1': v(60, 90),

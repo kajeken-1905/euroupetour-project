@@ -80,7 +80,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   // Maribor
   'maribor-h1': v(15, 20),
   'maribor-h2': v(20, 30),
-  'maribor-h3': v(45, 60),
+  'maribor-h3': v(60, 90),
   'maribor-h4': v(30, 45),
   'maribor-h5': v(120, 180),
   // Postojna

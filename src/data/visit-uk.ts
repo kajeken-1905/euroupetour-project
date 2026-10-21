@@ -30,7 +30,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'london-h7': v(45, 60),
   'london-h8': v(45, 90),
   'london-h9': v(45, 60, { b: 'rec', s: 'https://www.londoneye.com/', n: '1월에 정기 점검으로 쉬는 기간이 있습니다.|Closes for annual maintenance for a spell in January.', k: '2026-10' }),
-  'london-h10': v(45, 60, { c: 'daily', s: 'https://www.sherlock-holmes.co.uk/', k: '2026-10' }),
+  'london-h10': v(60, 90, { c: 'daily', s: 'https://www.sherlock-holmes.co.uk/', k: '2026-10' }),
   'london-h11': v(150, 180, { c: 'daily', b: 'rec', s: 'https://www.hrp.org.uk/tower-of-london/', k: '2026-10' }),
   'london-h12': v(15, 20),
   'london-h13': v(45, 60, { c: 'mon', s: 'https://boroughmarket.org.uk/', k: '2026-10' }),
@@ -158,7 +158,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'inverness-h1': v(120, 180),
   'inverness-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/urquhart-castle/', k: '2026-10' }),
   'inverness-h3': v(90, 120, { c: 'daily', s: 'https://www.nts.org.uk/visit/places/culloden', n: '전투지 들판은 무료이고 방문자 센터만 유료입니다.|The battlefield is free; only the visitor centre charges.', k: '2026-10' }),
-  'inverness-h4': v(75, 90, { c: 'daily', b: 'rec', s: 'https://invernesscastle.scot/', n: '크리스마스만 쉽니다. 4~9월 10:00~19:00, 10~3월 10:00~18:00이고 온라인 예약이 더 쌉니다.|Closed only on Christmas Day. Open 10:00–19:00 April–September and 10:00–18:00 October–March; booking online is cheaper.', k: '2026-10' }),
+  'inverness-h4': v(120, 150, { c: 'daily', b: 'rec', s: 'https://invernesscastle.scot/', n: '크리스마스만 쉽니다. 11~3월은 10:00~18:00(마지막 입장 16:00)이고 4~10월은 더 늦게까지 엽니다. 온라인 예약이 더 쌉니다.|Closed only on Christmas Day. November–March 10:00–18:00 (last entry 16:00), with later hours April–October; booking online is cheaper.', k: '2026-10' }),
   'inverness-h5': v(30, 45),
   // Isle of Skye
   'isle-of-skye-h1': v(90, 120),

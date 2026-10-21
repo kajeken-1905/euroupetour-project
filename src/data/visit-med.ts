@@ -103,7 +103,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   // Heraklion
   'heraklion-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://knossospalace.gr/', t: HH, n: '고고학 박물관과 묶은 통합권이 있습니다.|A combined ticket with the Archaeological Museum is available.', k: '2026-10' }),
   'heraklion-h2': v(90, 120, { c: 'daily', s: 'https://www.heraklionmuseum.gr/en/', t: HH, n: '수요일은 늦게 엽니다(여름 13시, 겨울 10시). 1월 1일, 3월 25일, 부활절 일요일, 5월 1일, 12월 25~26일은 쉽니다.|Opens late on Wednesdays (13:00 in summer, 10:00 in winter). Closed 1 January, 25 March, Easter Sunday, 1 May and 25–26 December.', k: '2026-10' }),
-  'heraklion-h3': v(30, 40, { c: 'tue', b: 'no', s: 'https://www.hh.gr/en/?p=2529', k: '2026-10' }),
+  'heraklion-h3': v(45, 60, { c: 'tue', b: 'no', s: 'https://www.hh.gr/en/?p=2529', k: '2026-10' }),
   'heraklion-h4': v(30, 45),
   'heraklion-h5': v(120, 180),
   // Chania
@@ -123,7 +123,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'nicosia-h1': v(30, 45),
   'nicosia-h2': v(30, 45, { n: '북쪽 지역에 있어 레드라 거리 검문소에서 여권을 보여 주고 건너갑니다.|In the north—cross at the Ledra Street checkpoint with your passport.' }),
   'nicosia-h3': v(30, 45),
-  'nicosia-h4': v(75, 90, { c: 'mon', b: 'no', s: 'https://www.visitcyprus.com/discover-cyprus/page/417/', n: '화~금 8:00~18:00, 토 9:00~17:00, 일 10:00~13:00.|Tue–Fri 8:00–18:00, Sat 9:00–17:00, Sun 10:00–13:00.', k: '2026-10' }),
+  'nicosia-h4': v(90, 120, { c: 'mon', b: 'no', s: 'https://www.visitcyprus.com/discover-cyprus/page/417/', n: '화~금 8:00~18:00, 토 9:00~17:00, 일 10:00~13:00.|Tue–Fri 8:00–18:00, Sat 9:00–17:00, Sun 10:00–13:00.', k: '2026-10' }),
   'nicosia-h5': v(15, 20),
   'limassol-h1': v(30, 45),
   'limassol-h2': v(40, 45, { c: 'daily', b: 'no', s: 'https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/cyprus-medieval-museum-limassol-lemesos-castle/', n: '중세 박물관으로 쓰이며 공휴일에는 닫습니다.|Houses the Medieval Museum; closed on public holidays.', k: '2026-10' }),

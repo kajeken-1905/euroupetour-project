@@ -124,7 +124,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'budapest-h9': v(30, 45, { c: 'daily', s: 'https://matyas-templom.hu/en/', k: '2026-10' }),
   // Debrecen
   'debrecen-h1': v(30, 40),
-  'debrecen-h2': v(60, 75, { c: 'mon', k: '2026-10' }),
+  'debrecen-h2': v(90, 120, { c: 'mon', k: '2026-10' }),
   'debrecen-h3': v(60, 90),
   'debrecen-h4': v(15, 20),
   'debrecen-h5': v(180, 240),
