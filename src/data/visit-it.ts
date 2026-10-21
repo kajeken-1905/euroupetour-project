@@ -306,7 +306,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'agrigento-h1': v(150, 180, { c: 'daily', b: 'rec', n: '신전의 계곡은 동쪽 입구(유노 신전)에서 내리막으로 걷는 편이 수월합니다. 그늘이 거의 없습니다.|The Valley of the Temples is easiest walked downhill from the eastern (Juno) entrance. There is almost no shade.', k: '2026-10' }),
   'agrigento-h2': v(15, 20),
   'agrigento-h3': v(45, 60, { c: 'daily', s: 'https://fondoambiente.it/luoghi/giardino-della-kolymbethra', n: '신전의 계곡 안에 있고 표가 따로입니다(성인 10유로). 매일 10시부터 입장하며 마감 시간은 철마다 다릅니다.|Inside the Valley of the Temples, with a separate ticket (adults €10). Entry daily from 10:00; closing time varies by season.', k: '2026-10' }),
-  'agrigento-h4': v(45, 60, { n: '절벽 보호를 위해 출입이 통제되는 때가 많습니다. 위쪽 전망대에서 보는 것이 기본입니다.|Access onto the cliff is often barred to protect it; expect to view it from the lookout above.' }),
+  'agrigento-h4': v(45, 60, { n: '2026년 기준 현장에서만 표를 사서(카드 결제) 정해진 시간대로 인원을 나눠 들어가고 온라인 예약은 없습니다. 하얀 바위 계단 위로 올라가는 것은 금지이고, 보호를 위해 닫히는 때도 있습니다.|As of 2026 tickets are sold on site only (card payment) for timed entry slots, with no online booking. Climbing onto the white rock steps is banned, and the site sometimes closes to protect it.' }),
   // Siracusa
   'siracusa-h1': v(120, 180),
   'siracusa-h2': v(30, 45),

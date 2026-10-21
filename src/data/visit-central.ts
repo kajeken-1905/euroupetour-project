@@ -39,7 +39,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   // Hallstatt
   'hallstatt-h1': v(45, 90),
   'hallstatt-h2': v(180, 210, { b: 'rec', n: '푸니쿨라 교체 공사로 2025년 9월부터 닫았다가 2026년 8월 말 재개장했습니다. 겨울에는 쉬는 기간이 있습니다.|Closed from September 2025 for a new funicular and reopened at the end of August 2026. It shuts for part of the winter.', k: '2026-10' }),
-  'hallstatt-h3': v(15, 20, { n: '소액의 입장료가 있고 겨울에는 닫습니다.|A small fee applies; closed in winter.' }),
+  'hallstatt-h3': v(15, 20, { n: '소액의 입장료가 있습니다. 11~4월에는 수~일요일 11:30~15:30에만 열고 날씨가 나쁘면 닫기도 합니다.|A small fee applies. November–April it opens Wednesday–Sunday 11:30–15:30 only, and may close in bad weather.' }),
   'hallstatt-h4': v(15, 20),
   'hallstatt-h5': v(10, 15),
 
@@ -97,7 +97,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'poprad-h1': v(40, 70),
   'poprad-h2': v(180, 240, { c: 'daily', s: 'https://aquacity.sk/en/', k: '2026-10' }),
   'poprad-h3': v(10, 15),
-  'poprad-h4': v(240, 420, { n: '높은 산길은 11월부터 6월 중순까지 폐쇄됩니다.|High-level trails are closed from November to mid-June.' }),
+  'poprad-h4': v(240, 420, { n: '높은 산길은 11월 1일부터 5월 31일까지 폐쇄됩니다(산장으로 가는 길은 대부분 1년 내내 열림).|High-level trails are closed from 1 November to 31 May (most trails to mountain huts stay open all year).' }),
   'poprad-h5': v(60, 90),
   // Banská Bystrica
   'banska-bystrica-h1': v(20, 30),
