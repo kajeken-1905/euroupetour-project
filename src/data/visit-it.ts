@@ -207,7 +207,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'perugia-h4': v(10, 15),
   'perugia-h5': v(20, 30),
   // Assisi
-  'assisi-h1': v(60, 90, { c: 'daily', b: 'no', s: 'https://basilica.sanfrancesco.org/', n: DRESS, k: '2026-10' }),
+  'assisi-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://basilica.sanfrancesco.org/', n: DRESS, k: '2026-10' }),
   'assisi-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.italia.it/it/umbria/assisi/basilica-di-santa-chiara', n: '입장 무료. 매일 6:30~12:00, 14:00~18:00.|Free. Open daily 6:30–12:00 and 14:00–18:00.', k: '2026-10' }),
   'assisi-h3': v(15, 20),
   'assisi-h4': v(45, 60),

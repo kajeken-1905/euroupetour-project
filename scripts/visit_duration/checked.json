@@ -14,6 +14,10 @@
 150
 ],
 "annecy-h4": "ok",
+"assisi-h1": [
+90,
+120
+],
 "athens-h1": "ok",
 "athens-h2": "ok",
 "athens-h4": [
@@ -22,6 +26,10 @@
 ],
 "banska-bystrica-h4": "ok",
 "barcelona-h13": "ok",
+"barcelona-h15": [
+60,
+90
+],
 "bari-h4": [
 60,
 90
@@ -52,6 +60,7 @@
 ],
 "bratislava-h5": "ok",
 "brno-h1": "nodata",
+"brno-h2": "ok",
 "bruges-h6": "ok",
 "brussels-h1": "nodata",
 "brussels-h6": [
@@ -64,12 +73,18 @@
 "cagliari-h1": "ok",
 "calvi-h1": "ok",
 "cambridge-h3": "nodata",
+"canterbury-h1": [
+90,
+120
+],
 "cardiff-h1": "ok",
 "cardiff-h4": "ok",
 "catania-h4": "nodata",
 "cesky-krumlov-h1": "ok",
 "chartres-h1": "ok",
+"cologne-h1": "ok",
 "cologne-h4": "ok",
+"como-h4": "ok",
 "conwy-h1": "ok",
 "copenhagen-h1": "nodata",
 "copenhagen-h6": "ok",
@@ -84,17 +99,21 @@
 120
 ],
 "delphi-h4": "ok",
+"dilijan-h2": "nodata",
 "dinant-h1": "ok",
 "dresden-h3": "ok",
+"dubrovnik-h3": "ok",
 "edinburgh-h1": "ok",
 "edinburgh-h2": "ok",
 "edinburgh-h6": "ok",
 "eger-h1": "ok",
+"evora-h2": "nodata",
 "ferrara-h1": [
 90,
 120
 ],
 "ferrara-h3": "ok",
+"florence-h1": "ok",
 "florence-h2": "ok",
 "florence-h5": "ok",
 "florence-h6": [
@@ -110,6 +129,7 @@
 ],
 "genoa-h4": "ok",
 "giants-causeway-h3": "ok",
+"girona-h1": "nodata",
 "giverny-h4": "ok",
 "gjirokaster-h1": [
 120,
@@ -125,13 +145,16 @@
 120,
 150
 ],
+"goreme-h4": "ok",
 "gozo-h1": "ok",
 "granada-h1": "ok",
+"granada-h7": "ok",
 "graz-h1": [
 90,
 120
 ],
 "graz-h5": "ok",
+"guimaraes-h1": "ok",
 "guimaraes-h2": "nodata",
 "haarlem-h2": [
 90,
@@ -157,6 +180,7 @@
 240
 ],
 "kaunas-h3": "ok",
+"kaunas-h4": "ok",
 "kilkenny-h1": "ok",
 "killarney-h3": "nodata",
 "kosice-h3": "nodata",
@@ -168,10 +192,14 @@
 180,
 240
 ],
+"krakow-h5": "nodata",
+"kutaisi-h2": "ok",
+"kyiv-h2": "ok",
 "lausanne-h3": "ok",
 "limassol-h2": "ok",
 "limerick-h1": "ok",
 "limerick-h3": "ok",
+"lisbon-h2": "ok",
 "lisbon-h4": [
 90,
 120
@@ -186,11 +214,15 @@
 60,
 90
 ],
+"london-h3": "ok",
 "london-h4": "ok",
+"london-h6": "ok",
 "lucerne-h5": "ok",
 "madrid-h1": "ok",
 "madrid-h3": "ok",
+"madrid-h6": "ok",
 "malaga-h2": "ok",
+"malaga-h3": "ok",
 "malmo-h4": [
 120,
 180
@@ -206,15 +238,20 @@
 90
 ],
 "mdina-h5": "nodata",
+"meteora-h2": "ok",
+"meteora-h3": "ok",
+"meteora-h4": "nodata",
 "milan-h3": "ok",
 "modena-h3": "ok",
 "monaco-h1": "ok",
 "monaco-h3": "ok",
+"mont-saint-michel-h1": "nodata",
 "montpellier-h4": "ok",
 "montreux-h1": [
 120,
 150
 ],
+"montserrat-h1": "ok",
 "munich-h3": "ok",
 "nafplio-h1": "ok",
 "naples-h2": "ok",
@@ -230,12 +267,16 @@
 150
 ],
 "nuremberg-h5": "ok",
+"obidos-h1": "ok",
+"obidos-h2": "ok",
 "odense-h1": "ok",
 "ohrid-h4": "nodata",
 "olympia-h1": "ok",
 "olympia-h5": "ok",
+"orheiul-vechi-h1": "ok",
 "oslo-h6": "ok",
 "oxford-h4": "ok",
+"palma-h1": "ok",
 "palma-h3": "nodata",
 "palma-h4": "nodata",
 "pamukkale-h5": "ok",
@@ -245,14 +286,17 @@
 "paris-h30": "ok",
 "paris-h7": "ok",
 "parma-h3": "ok",
+"peja-h2": "nodata",
 "perugia-h2": "ok",
 "plovdiv-h1": "nodata",
 "portofino-h2": "nodata",
+"portofino-h4": "ok",
 "postojna-h2": "ok",
 "potsdam-h1": "ok",
 "potsdam-h2": "nodata",
 "poznan-h3": "ok",
 "prague-h1": "ok",
+"prague-h9": "ok",
 "prizren-h1": [
 90,
 120
@@ -265,20 +309,29 @@
 150,
 180
 ],
+"roskilde-h2": "nodata",
 "rothenburg-h4": "ok",
 "rotterdam-h5": "nodata",
+"rovaniemi-h1": "ok",
+"salamanca-h3": "ok",
+"salisbury-h2": "ok",
 "salzburg-h1": "ok",
+"santiago-h1": "ok",
 "segovia-h2": "ok",
+"segovia-h3": "nodata",
 "seville-h1": [
 150,
 180
 ],
+"seville-h2": "ok",
 "sheki-h1": "ok",
 "sibiu-h5": "nodata",
+"siena-h2": "nodata",
 "sighisoara-h2": [
 120,
 180
 ],
+"sighnaghi-h2": "ok",
 "sigulda-h1": "nodata",
 "sintra-h1": "ok",
 "sintra-h2": "ok",
@@ -293,6 +346,8 @@
 "siracusa-h3": "ok",
 "sirmione-h1": "ok",
 "skopje-h5": "ok",
+"sofia-h1": "nodata",
+"soroca-h1": "nodata",
 "split-h1": "ok",
 "st-andrews-h4": "nodata",
 "st-moritz-h4": "nodata",
@@ -317,11 +372,13 @@
 ],
 "the-hague-h2": "ok",
 "the-hague-h7": "ok",
+"toledo-h1": "ok",
 "toledo-h2": [
 90,
 120
 ],
 "torun-h5": "nodata",
+"trabzon-h1": "ok",
 "trencin-h1": [
 120,
 150
@@ -331,7 +388,9 @@
 180
 ],
 "trieste-h4": "ok",
+"trondheim-h1": "ok",
 "turin-h1": "ok",
+"turin-h5": "ok",
 "turku-h1": [
 120,
 180
@@ -340,10 +399,14 @@
 "urbino-h1": "nodata",
 "utrecht-h4": "nodata",
 "vaduz-h3": "ok",
+"valencia-h3": "ok",
+"valletta-h1": "ok",
+"valletta-h5": "ok",
 "varna-h3": [
 90,
 120
 ],
+"vatican-city-h1": "ok",
 "vatican-city-h3": "ok",
 "veliko-tarnovo-h1": "nodata",
 "venice-h4": [
@@ -354,6 +417,7 @@
 120,
 150
 ],
+"vicenza-h3": "ok",
 "vienna-h1": "ok",
 "vienna-h3": "ok",
 "warsaw-h2": [
@@ -369,5 +433,6 @@
 90,
 120
 ],
+"zaragoza-h3": "nodata",
 "zermatt-h5": "nodata"
 }

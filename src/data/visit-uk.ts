@@ -41,7 +41,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'windsor-h3': v(30, 60),
   'windsor-h4': v(30, 45),
   // Canterbury
-  'canterbury-h1': v(75, 105, { c: 'daily', s: 'https://www.canterbury-cathedral.org/', n: '일요일에는 성당 안이 12시 30분부터 열립니다. 예배와 행사로 일부 구역이 닫히기도 합니다.|On Sundays the cathedral itself opens at 12:30 pm. Parts may close for services and events.', k: '2026-10' }),
+  'canterbury-h1': v(90, 120, { c: 'daily', s: 'https://www.canterbury-cathedral.org/', n: '일요일에는 성당 안이 12시 30분부터 열립니다. 예배와 행사로 일부 구역이 닫히기도 합니다.|On Sundays the cathedral itself opens at 12:30 pm. Parts may close for services and events.', k: '2026-10' }),
   'canterbury-h2': v(40, 45),
   'canterbury-h3': v(20, 30),
   'canterbury-h4': v(45, 60),

@@ -61,7 +61,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'barcelona-h19': v(15, 30),
   'barcelona-h23': v(10, 10),
   'barcelona-h5': v(60, 120),
-  'barcelona-h15': v(45, 60, { c: 'daily', s: 'https://catedralbcn.org/en/tourist-visit/visiting-hours/', t: 'https://tickets.catedralbcn.org/en', n: '관광 입장은 평일 9:30~18:30, 토요일 9:30~17:15, 일요일·축일 14:00~17:00이고 유료입니다. 어깨와 무릎을 가려야 합니다.|Tourist entry (ticketed) runs 9:30–18:30 on weekdays, 9:30–17:15 on Saturdays and 14:00–17:00 on Sundays and holy days; cover shoulders and knees.', k: '2026-10' }),
+  'barcelona-h15': v(60, 90, { c: 'daily', s: 'https://catedralbcn.org/en/tourist-visit/visiting-hours/', t: 'https://tickets.catedralbcn.org/en', n: '관광 입장은 평일 9:30~18:30, 토요일 9:30~17:15, 일요일·축일 14:00~17:00이고 유료입니다. 어깨와 무릎을 가려야 합니다.|Tourist entry (ticketed) runs 9:30–18:30 on weekdays, 9:30–17:15 on Saturdays and 14:00–17:00 on Sundays and holy days; cover shoulders and knees.', k: '2026-10' }),
   'barcelona-h3': v(90, 120),
   'barcelona-h21': v(10, 15, { c: 'daily', b: 'no', s: 'https://barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-temple-daugust', n: '입장 무료. 월 10:00~14:00, 화~토 10:00~19:00, 일 10:00~20:00.|Free. Mon 10:00–14:00, Tue–Sat 10:00–19:00, Sun 10:00–20:00.', k: '2026-10' }),
   'barcelona-h24': v(15, 20, { c: 'mon', s: 'https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/placa-del-rei', n: '바르셀로나 역사박물관(MUHBA) 플라사 델 레이 관람 구역에 들어 있습니다. 화~토 10:00~19:00, 일 10:00~20:00이고 매달 첫 일요일과 일요일 15시 이후는 무료입니다.|Part of the MUHBA Plaça del Rei site: Tue–Sat 10:00–19:00, Sun 10:00–20:00; free on the first Sunday of the month and on Sundays from 15:00.', k: '2026-10' }),
