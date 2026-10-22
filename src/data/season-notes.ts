@@ -18,8 +18,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   calvi: { r: '---o++oo++--', n: '11~3월은 호텔·식당 다수가 쉽니다.|Many hotels and restaurants close from November to March.' },
   chamonix: { r: '+++o-o+++o-o', n: '12~4월은 스키, 6월 말~9월은 하이킹 철입니다. 5월과 11월에는 리프트 다수가 정비로 쉽니다. 기온은 마을 기준이며 산 위는 훨씬 춥습니다.|Ski season runs December–April and hiking late June–September; many lifts close for maintenance in May and November. Temperatures are for the valley; it is far colder up high.' },
   cannes: { n: '5월 영화제 기간에는 숙소 구하기가 어렵습니다.|Rooms are scarce during the film festival in May.' },
-  monaco: { n: '5월 말 그랑프리 주간에는 도로가 통제되고 숙박비가 크게 오릅니다.|During Grand Prix week in late May roads close and prices soar.' },
-  'monte-carlo': { n: '5월 말 그랑프리 주간에는 도로가 통제되고 숙박비가 크게 오릅니다.|During Grand Prix week in late May roads close and prices soar.' },
+  monaco: { n: '그랑프리 주간(2026년부터 6월 초)에는 도로가 통제되고 숙박비가 크게 오릅니다.|During Grand Prix week (early June from 2026) roads close and prices soar.' },
+  'monte-carlo': { n: '그랑프리 주간(2026년부터 6월 초)에는 도로가 통제되고 숙박비가 크게 오릅니다.|During Grand Prix week (early June from 2026) roads close and prices soar.' },
   // United Kingdom
   edinburgh: { n: '8월 페스티벌 기간에는 도시가 가장 붐비고 숙박비가 크게 오릅니다.|August festivals bring the biggest crowds and the highest room rates.' },
   'isle-of-skye': { n: '6~8월에는 깔따구(미지)가 많습니다. 겨울에는 숙소와 식당 다수가 쉽니다.|Midges are thick in June–August; many places to stay and eat close in winter.' },
@@ -30,7 +30,7 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   tromso: { r: 'o++o-++ooooo', n: '오로라는 9월~3월, 백야는 5월 하순~7월 하순입니다. 11월 말~1월 중순에는 해가 뜨지 않습니다.|Northern lights from September to March, midnight sun from late May to late July; the sun does not rise from late November to mid-January.' },
   stavanger: { n: '프레이케스톨렌 등산은 5~9월이 적기입니다. 겨울에는 눈과 얼음으로 가이드 동행을 권합니다.|Preikestolen is best hiked May–September; in winter, snow and ice make a guide advisable.' },
   rovaniemi: { r: '+++o-ooo+-o+', n: '눈과 오로라는 12~3월이 제철입니다. 12월은 가장 붐비고 비쌉니다.|Snow and northern lights peak December–March; December is the busiest and priciest month.' },
-  kiruna: { r: '+++o-ooo+--+', n: '오로라는 9월~3월, 백야는 6~7월입니다. 아이스호텔의 얼음 객실은 12월~4월 초에만 있습니다.|Northern lights September–March, midnight sun June–July; the Icehotel’s ice rooms exist only from December to early April.' },
+  kiruna: { r: '+++o-ooo+--+', n: '오로라는 9월~3월, 백야는 6~7월입니다. 해마다 새로 짓는 아이스호텔 건물은 12월~4월 초에만 있고, 연중 운영하는 얼음 객실(아이스호텔 365)은 여름에도 묵을 수 있습니다.|Northern lights September–March, midnight sun June–July; the seasonal Icehotel stands only from December to early April, but the year-round Icehotel 365 ice suites can be booked in summer too.' },
   copenhagen: { n: '티볼리는 1~3월 대부분 휴장합니다.|Tivoli is closed for most of January–March.' },
   // Austria, Hungary, Czechia
   vienna: { r: '...........o', n: '11월 중순~12월은 크리스마스 마켓 철입니다.|Christmas markets run from mid-November through December.' },
