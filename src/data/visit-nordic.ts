@@ -75,11 +75,11 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'helsinki-h3': v(60, 90),
   'helsinki-h4': v(30, 45),
   'helsinki-h5': v(20, 30, { c: 'daily', s: 'https://www.temppeliaukionkirkko.fi/en/', n: '1년 내내 매일 열지만 결혼식·장례식·일요 예배 때는 관광 입장이 중단됩니다.|Open every day of the year, but closed to sightseers during weddings, funerals and the Sunday service.', k: '2026-10' }),
-  'helsinki-h6': v(90, 120, { s: 'https://www.kansallismuseo.fi/en/seurasaarenulkomuseo/info', n: '섬은 연중 무료로 걸을 수 있고, 야외 박물관 건물은 5월 15일~9월 15일에만 엽니다(6월부터는 매일 11:00~17:00).|The island is free all year; the open-air museum buildings open only 15 May–15 September (daily 11:00–17:00 from June).', k: '2026-10' }),
+  'helsinki-h6': v(90, 120, { s: 'https://suomenkansallismuseo.fi/en/museums/seurasaari-open-air-museum/', n: '섬은 연중 무료로 걸을 수 있고, 야외 박물관 건물은 5월 15일~9월 15일에만 엽니다(6월부터는 매일 11:00~17:00).|The island is free all year; the open-air museum buildings open only 15 May–15 September (daily 11:00–17:00 from June).', k: '2026-10' }),
   'helsinki-h7': v(10, 10),
   // Turku
   'turku-h1': v(120, 180, { c: 'mon', b: 'no', s: 'https://turunlinna.fi/en/opening-times-and-prices/', n: '화~일 10:00~17:00(6~8월 18:00까지)에 엽니다. 6월 19~21일·12월 6일에도 쉽니다.|Tue–Sun 10:00–17:00 (to 18:00 June–August); also closed 19–21 June and 6 December.', k: '2026-10' }),
-  'turku-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.turuntuomiokirkko.fi/english', n: '매일 9:00~18:00, 입장 무료. 성당 박물관은 보수 공사로 2028년 대림절 이후에야 다시 엽니다.|Open daily 9:00–18:00, free. The cathedral museum is closed for renovation until Advent 2028 at the earliest.', k: '2026-10' }),
+  'turku-h2': v(20, 30, { c: 'daily', b: 'no', s: 'https://turunseurakunnat.fi/turun-tuomiokirkko/', n: '매일 9:00~18:00, 입장 무료. 성당 박물관은 보수 공사로 2028년 대림절 이후에야 다시 엽니다.|Open daily 9:00–18:00, free. The cathedral museum is closed for renovation until Advent 2028 at the earliest.', k: '2026-10' }),
   'turku-h3': v(45, 60),
   'turku-h4': v(60, 75, { c: 'mon', s: 'https://luostarinmaki.fi/en/home-page/', k: '2026-10' }),
   'turku-h5': v(90, 120, { c: 'mon', s: 'https://www.forum-marinum.fi/en/', n: '박물관선은 여름에만 공개합니다.|The museum ships open in summer only.', k: '2026-10' }),

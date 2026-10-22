@@ -8,12 +8,12 @@ const PASS = '스위스 트래블 패스 소지자는 할인됩니다.|Swiss Tra
 export const visitCh: Record<string, HighlightVisit> = {
   // Zurich
   'zurich-h1': v(30, 45),
-  'zurich-h2': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.grossmuenster.ch/en/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The church is free; only the tower climb is ticketed.', k: '2026-10' }),
+  'zurich-h2': v(30, 45, { c: 'daily', b: 'no', s: 'https://reformiert-zuerich.ch/kirchgemeinde/kirchen/grossmuenster/', n: '성당은 무료이고 탑 전망대만 유료입니다.|The church is free; only the tower climb is ticketed.', k: '2026-10' }),
   'zurich-h3': v(15, 20),
   'zurich-h4': v(60, 90, { s: 'https://www.zsg.ch/en', n: '유람선은 스위스 트래블 패스로 탈 수 있습니다.|Lake boats are covered by the Swiss Travel Pass.' }),
   'zurich-h5': v(120, 150, { c: 'mon', b: 'no', s: 'https://www.kunsthaus.ch/en/', k: '2026-10' }),
   'zurich-h6': v(30, 60),
-  'zurich-h7': v(20, 30, { s: 'https://www.fraumuenster.ch/en/', n: '샤갈 스테인드글라스를 보는 입장은 유료입니다. 일요일은 예배 뒤 12시부터 관람할 수 있고, 행사로 시간이 자주 바뀝니다.|There is an entry fee to see the Chagall windows. On Sundays visits start at noon after the service, and events often change the hours.', k: '2026-10' }),
+  'zurich-h7': v(20, 30, { s: 'https://reformiert-zuerich.ch/kirchgemeinde/kirchen/fraumuenster/', n: '샤갈 스테인드글라스를 보는 입장은 유료입니다. 일요일은 예배 뒤 12시부터 관람할 수 있고, 행사로 시간이 자주 바뀝니다.|There is an entry fee to see the Chagall windows. On Sundays visits start at noon after the service, and events often change the hours.', k: '2026-10' }),
   'zurich-h8': v(10, 15, { c: 'daily', b: 'no', s: 'https://www.zuerich.com/en/visit/attractions/st-peter', n: '입장 무료. 평일 9:00~18:00, 주말 9:00~16:00.|Free. Weekdays 9:00–18:00, weekends 9:00–16:00.', k: '2026-10' }),
   'zurich-h9': v(15, 20),
   'zurich-h10': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.lindt-home-of-chocolate.com/en/', n: '시간 지정 입장이라 주말에는 며칠 전에 매진됩니다.|Entry is timed and weekends sell out days ahead.', k: '2026-10' }),

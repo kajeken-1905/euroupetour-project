@@ -90,7 +90,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'bristol-h3': v(60, 90),
   'bristol-h4': v(20, 30, { c: 'daily', b: 'no', s: 'https://bristol-cathedral.co.uk/visit-us/plan-your-visit/', n: '입장 무료. 월~토 10:00~16:00, 일 11:30~15:00(예배·행사 때 달라짐).|Free. Mon–Sat 10:00–16:00, Sun 11:30–15:00 (varies with services and events).', k: '2026-10' }),
   'bristol-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.bristol.gov.uk/residents/museums-parks-sports-and-culture/parks-and-open-spaces/parks-and-estates/brandon-hill', n: '무료로 올라갑니다. 8:00에 열고 겨울 17:15·여름 21:15에 닫습니다.|Free to climb; opens 8:00, closes 17:15 in winter and 21:15 in summer.', k: '2026-10' }),
-  'bristol-h6': v(120, 150, { c: 'mon', s: 'https://www.ssgreatbritain.org/', n: '화~일요일에 엽니다.|Open Tuesday to Sunday.', k: '2026-10' }),
+  'bristol-h6': v(120, 150, { c: 'mon', s: 'https://www.bristoldockyards.org/', n: '화~일요일에 엽니다.|Open Tuesday to Sunday.', k: '2026-10' }),
   // Salisbury
   'salisbury-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.english-heritage.org.uk/visit/places/stonehenge/', n: '시간 지정 입장이며 솔즈베리에서 버스로 30분쯤 걸립니다.|Entry is by timed ticket; it is about 30 minutes by bus from Salisbury.', k: '2026-10' }),
   'salisbury-h2': v(60, 90, { s: 'https://www.salisburycathedral.org.uk/', n: '월~토요일 9:30~17:00(마지막 입장 16:15)에 관람하고 일요일은 시간이 다릅니다. 예배·행사로 바뀔 수 있습니다.|Sightseeing Monday–Saturday 9:30–17:00 (last entry 16:15), with different Sunday hours; services and events can change this.', k: '2026-10' }),
@@ -219,7 +219,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'galway-h5': v(360, 480),
   // Cork
   'cork-h1': v(30, 45, { c: 'sun', s: 'https://www.corkcity.ie/en/english-market/', n: '일요일과 공휴일에 쉽니다.|Closed on Sundays and bank holidays.', k: '2026-10' }),
-  'cork-h2': v(30, 45, { s: 'https://stfinbarres.ie/visit/', n: '월~토 9:00~17:00(공휴일 포함) 열고, 일요일은 4~10월에만 12:30~14:00·16:30~17:30에 관람할 수 있습니다. 11~3월 일요일은 예배만 있습니다.|Open Mon–Sat 9:00–17:00 (bank holidays included); Sundays only April–October, 12:30–14:00 and 16:30–17:30. November–March Sundays are for services only.', k: '2026-10' }),
+  'cork-h2': v(30, 45, { s: 'https://www.stfinbarres.ie/visit/', n: '월~토 9:00~17:00(공휴일 포함) 열고, 일요일은 4~10월에만 12:30~14:00·16:30~17:30에 관람할 수 있습니다. 11~3월 일요일은 예배만 있습니다.|Open Mon–Sat 9:00–17:00 (bank holidays included); Sundays only April–October, 12:30–14:00 and 16:30–17:30. November–March Sundays are for services only.', k: '2026-10' }),
   'cork-h3': v(30, 45),
   'cork-h4': v(30, 45),
   'cork-h5': v(180, 240, { c: 'daily', s: 'https://blarneycastle.ie/', k: '2026-10' }),

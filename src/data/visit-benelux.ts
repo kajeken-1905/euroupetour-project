@@ -100,7 +100,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'brussels-h3': v(90, 120, { c: 'daily', b: 'rec', s: 'https://atomium.be/', n: '해마다 겨울에 정기 점검으로 몇 주 쉽니다.|Closes for a few weeks of annual maintenance each winter.', k: '2026-10', x: [['2027년 점검 휴관은 1월 18일~2월 5일입니다.|The 2027 maintenance closure is 18 January–5 February.', '2027-02-05']] }),
   'brussels-h4': v(30, 45),
   'brussels-h5': v(10, 15),
-  'brussels-h6': v(120, 150, { c: 'mon', s: 'https://musee-magritte-museum.be/en', k: '2026-10' }),
+  'brussels-h6': v(120, 150, { c: 'mon', s: 'https://fine-arts-museum.be/en', k: '2026-10' }),
   'brussels-h7': v(20, 30),
   'brussels-h8': v(10, 15),
   // Bruges

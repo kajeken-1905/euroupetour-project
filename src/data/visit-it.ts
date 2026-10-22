@@ -130,7 +130,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'modena-h2': v(15, 20),
   'modena-h3': v(75, 90, { c: 'daily', s: 'https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena', k: '2026-10' }),
   'modena-h4': v(30, 45, { c: 'sun', s: 'https://mercatoalbinelli.it/', k: '2026-10' }),
-  'modena-h5': v(60, 90, { s: 'https://www.visitmodena.it/en/discover-modena/land-of-flavors/the-vinegar-factories', b: 'req', n: '양조장 견학은 연중 있지만 항상 예약이 필요합니다. 관광 안내소나 각 양조장에 미리 예약하세요. 시청 안 시립 양조장도 예약제입니다.|Tours run all year but always need a reservation—through the tourist office or the producer. The municipal acetaia in the town hall is by reservation too.', k: '2026-10' }),
+  'modena-h5': v(60, 90, { s: 'https://www.visitmodena.it/en/activities/guided-tour-to-the-acetaia-comunale-of-modena', b: 'req', n: '양조장 견학은 연중 있지만 항상 예약이 필요합니다. 관광 안내소나 각 양조장에 미리 예약하세요. 시청 안 시립 양조장도 예약제입니다.|Tours run all year but always need a reservation—through the tourist office or the producer. The municipal acetaia in the town hall is by reservation too.', k: '2026-10' }),
   // Parma
   'parma-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.piazzaduomoparma.com/en/', n: FREE, k: '2026-10' }),
   'parma-h2': v(30, 40, { c: 'daily', s: 'https://www.piazzaduomoparma.com/en/', k: '2026-10' }),

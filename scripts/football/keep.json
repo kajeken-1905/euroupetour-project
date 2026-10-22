@@ -101,7 +101,7 @@
   "homepage": "https://www.om.fr",
   "tour": [
    "tour",
-   "https://www.orangevelodrome.com/om-tour/"
+   "https://www.cepacvelodrome.com/visites.html"
   ]
  },
  {
@@ -2223,7 +2223,7 @@
   "homepage": "https://www.inter.it",
   "tour": [
    "tour",
-   "https://static.inter.it/en/stadio/san-siro-museum-and-tour"
+   "https://www.inter.it/en/club/stadium"
   ]
  },
  {
@@ -2327,7 +2327,7 @@
   "homepage": "https://www.sslazio.it",
   "tour": [
    "tour",
-   "https://www.sportesalute.eu/en/stadio-olimpico-tour.html"
+   "https://www.sportesalute.eu/stadioolimpicotour.html"
   ]
  },
  {
@@ -2581,7 +2581,7 @@
   "homepage": "https://www.asroma.com",
   "tour": [
    "tour",
-   "https://www.sportesalute.eu/en/stadio-olimpico-tour.html"
+   "https://www.sportesalute.eu/stadioolimpicotour.html"
   ]
  },
  {
@@ -3154,7 +3154,7 @@
   "ko": "로열 앤트워프 FC",
   "kowiki": "로열 앤트워프 FC",
   "inception": "1880",
-  "site": "http://www.rafc.be/",
+  "site": "https://www.royalantwerpfc.be/",
   "wdVenues": [
    "Q7596290"
   ],
@@ -3192,10 +3192,10 @@
   "infoboxGround": [
    "Bosuilstadion"
   ],
-  "homepage": "http://www.rafc.be/",
+  "homepage": "https://www.royalantwerpfc.be/",
   "tour": [
    "tour",
-   "http://www.rafc.be/Antwerp1st/stadiontours"
+   "https://www.royalantwerpfc.be/Antwerp1st/stadiontours"
   ]
  },
  {
@@ -3206,7 +3206,7 @@
   "ko": "세르클러 브뤼허 KSV",
   "kowiki": "세르클러 브뤼허 KSV",
   "inception": "1899",
-  "site": "https://www.cerclebrugge.be/",
+  "site": "https://cerclebrugge.be/en/home",
   "wdVenues": [
    "Q1070150"
   ],
@@ -3244,7 +3244,7 @@
   "infoboxGround": [
    "Jan Breydel Stadium"
   ],
-  "homepage": "https://www.cerclebrugge.be/",
+  "homepage": "https://cerclebrugge.be/en/home",
   "tour": null
  },
  {
@@ -3965,7 +3965,7 @@
   "ko": "FC 바르셀로나",
   "kowiki": "FC 바르셀로나",
   "inception": "1899",
-  "site": "https://www.fcbarcelona.cat/en/football/first-team",
+  "site": "https://www.fcbarcelona.com/en/football/first-team",
   "wdVenues": [
    "Q159848"
   ],
@@ -4003,10 +4003,10 @@
   "infoboxGround": [
    ""
   ],
-  "homepage": "https://www.fcbarcelona.cat/en/football/first-team",
+  "homepage": "https://www.fcbarcelona.com/en/football/first-team",
   "tour": [
    "tour",
-   "https://www.fcbarcelona.cat/en/tickets/camp-nou-experience"
+   "https://www.fcbarcelona.com/en/tickets/camp-nou-experience"
   ]
  },
  {
@@ -4306,7 +4306,7 @@
   "homepage": "http://www.realbetisbalompie.es/",
   "tour": [
    "tour",
-   "https://en.realbetisbalompie.es/tour-real-betis"
+   "https://en.realbetisbalompie.es/club/stadium"
   ]
  },
  {
@@ -4724,7 +4724,7 @@
   "ko": "CS 마리티무",
   "kowiki": "CS 마리티무",
   "inception": "1910",
-  "site": "https://www.csmaritimo.org.pt/",
+  "site": "https://csmaritimo.pt/",
   "wdVenues": [
    "Q1272724"
   ],
@@ -4762,7 +4762,7 @@
   "infoboxGround": [
    "Estádio do Marítimo"
   ],
-  "homepage": "https://www.csmaritimo.org.pt/",
+  "homepage": "https://csmaritimo.pt/",
   "tour": null
  },
  {
@@ -4967,7 +4967,7 @@
   "homepage": "https://www.sporting.pt/",
   "tour": [
    "tour",
-   "https://www.sporting.pt/pt/clube/stadium-tour-museum/stadium-tour-museum"
+   "https://tickets.sporting.pt/"
   ]
  },
  {
@@ -5523,7 +5523,7 @@
   "ko": "IF 브롬마포이카르나",
   "kowiki": "IF 브롬마포이카르나",
   "inception": "1942",
-  "site": "http://ifbp.se/",
+  "site": "https://bpfotboll.se/",
   "wdVenues": [
    "Q591583"
   ],
@@ -5561,7 +5561,7 @@
   "infoboxGround": [
    "Grimsta IP"
   ],
-  "homepage": "http://ifbp.se/",
+  "homepage": "https://bpfotboll.se/",
   "tour": null
  },
  {
@@ -7873,7 +7873,7 @@
   "ko": "비스와 크라쿠프",
   "kowiki": "비스와 크라쿠프",
   "inception": "1906",
-  "site": "http://www.wisla.krakow.pl/",
+  "site": "https://wislakrakow.com/",
   "wdVenues": [
    "Q727590"
   ],
@@ -7911,7 +7911,7 @@
   "infoboxGround": [
    "Henryk Reyman Municipal Stadium"
   ],
-  "homepage": "http://www.wisla.krakow.pl/",
+  "homepage": "https://wislakrakow.com/",
   "tour": null
  },
  {
@@ -10228,7 +10228,7 @@
   "ko": "FK 추카리치키",
   "kowiki": "FK 추카리치키",
   "inception": "1926",
-  "site": "https://www.fkcukaricki.com/",
+  "site": "https://fkcukaricki.co.rs/",
   "wdVenues": [
    "Q3440669"
   ],
@@ -10266,7 +10266,7 @@
   "infoboxGround": [
    "Čukarički Stadium"
   ],
-  "homepage": "https://www.fkcukaricki.com/",
+  "homepage": "https://fkcukaricki.co.rs/",
   "tour": null
  },
  {
@@ -13556,7 +13556,7 @@
   "infoboxGround": [
    "Arena Livyi Bereh"
   ],
-  "homepage": "https://fclb.kiev.ua",
+  "homepage": "",
   "tour": null
  }
 ]
