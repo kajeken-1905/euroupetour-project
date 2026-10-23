@@ -8,6 +8,7 @@ import { HighlightCard } from '../components/HighlightCard'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { TransitCityPanel } from '../components/TransitPanel'
 import { StayPanel } from '../components/StayPanel'
+import { FaresPanel } from '../components/FaresPanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityTransit } from '../data/transit-city'
@@ -137,6 +138,8 @@ function CityView() {
       {transit ? (
         <TransitCityPanel {...transit} hubs={getCityHubs(city.id)} cityName={city.name.en} />
       ) : null}
+
+      <FaresPanel cityId={city.id} />
 
       <RoutesPanel routes={getCityRoutes(city.id)} />
       <TourButton cityId={city.id} />

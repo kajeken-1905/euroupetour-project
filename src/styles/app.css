@@ -3676,3 +3676,30 @@ a.plan-btn {
   line-height: 1.55;
 }
 
+/* Transport fares: ticket on the left, price on the right. */
+.fares-table {
+  width: 100%;
+  margin-bottom: 8px;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.fares-table th,
+.fares-table td {
+  padding: 7px 0;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+.fares-table th {
+  padding-right: 12px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.fares-table td {
+  min-width: 5.5em;
+  font-weight: 800;
+  text-align: right;
+}
+
