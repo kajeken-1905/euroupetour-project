@@ -179,3 +179,12 @@ Checked October 2026.
 - rouen: normandielovers.fr/en/best-hotel-rouen-where-stay · www.solosophie.com/best-rouen-hotels
 - reims: thetourguy.com/travel-blog/france/champagne/reims/where-to-stay-in-reims-this-year · www.thehotelguru.com/best-hotels-in/france/reims
 - ajaccio: northabroad.com/where-to-stay-ajaccio · corsicalovers.fr/en/best-hotel-ajaccio-where-stay
+- bruges: www.travellingking.com/where-to-stay-in-bruges · paulinaontheroad.com/?p=62654
+- salamanca: spainhandbook.com/?p=5425 · xixerone.com/en/where-to-stay-in-salamanca-spain
+- zaragoza: xixerone.com/en/where-to-stay-in-zaragoza-spain · www.lastminute.com/hotels/es_spain/zaragoza-d1122136406
+- poznan: xixerone.com/en/where-to-stay-in-poznan-best-areas-hotels · thatch.co/guide/1larb793z2pvc/view
+- cluj-napoca: www.tripmasters.com/where_to_stay_cluj-napoca/cms?cms=11099&wF=0&wH=0 · xixerone.com/en/where-to-stay-in-cluj-napoca
+- kaunas: www.itimaker.com/blog/where-to-stay-kaunas-first-timers · www.milehacker.com/travel/lithuania/central-lithuania/kaunas/where-to-stay-in-kaunas-hotels-neighborhoods-accom
+- limassol: www.lastminute.com/hotels/city/hotels-in-Limassol-CY · uk.hotels.com/nh1721797-at20/apart-hotels-hotels-in-old-town-of-limassol-limassol-cyprus
+- la-rochelle: book.guestready.com/where-to-stay-in/la-rochelle · www.avygeo.com/en/guide/europe/france/1468-la-rochelle/where-to-stay
+- batumi: madloba.info/en/faq/housing/where-to-stay-in-batumi · www.milehacker.com/travel/georgia/adjara/batumi/where-to-stay-in-batumi-hotels-neighborhoods-accom

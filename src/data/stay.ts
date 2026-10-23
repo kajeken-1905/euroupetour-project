@@ -855,6 +855,36 @@ export const STAY: Record<string, StayArea[]> = {
     a('시내 중심·구시가', 'Centre & old town', 'Place Foch, Ajaccio', '처음 가는 여행에 추천|Best for a first visit', '포슈 광장과 항구, 옛 골목, 박물관과 식당을 걸어서 다닙니다. 여름(특히 크루즈 입항일)에 붐비고 주차가 어렵습니다.|Place Foch, the port, the old lanes, museums and restaurants on foot; crowded in summer (especially cruise days), and parking is hard.'),
     a('포르티치오', 'Porticcio', 'Porticcio', '모래 해변·조용한 휴양|Sandy beach, quieter', '만 건너편의 넓은 모래 해변 마을로 주차가 쉽고 아작시오행 배가 다닙니다. 차로 45분쯤 걸리고 옛 분위기는 없습니다.|A broad sandy beach across the bay with easy parking and a boat to Ajaccio; about 45 minutes by road, and little old-town character.'),
   ],
+  bruges: [
+    a('구시가 중심 (마르크트 주변)', 'City centre (around the Markt)', 'Markt, Bruges', '처음 가는 여행에 추천|Best for a first visit', '작은 도시라 마르크트와 부르크 광장, 운하와 명소를 모두 걸어서 다닙니다. 관광객이 가장 많습니다.|A small city: the Markt, the Burg, the canals and the sights are all on foot; the most crowded area.'),
+    a('신트안나 지구', 'Sint-Anna quarter', 'Sint-Anna, Bruges', '조용한 주거지|Quiet and residential', '운하 건너편의 조용한 옛 동네로 마르크트 광장까지 걸어서 10분쯤입니다.|A calm old quarter across the canal, about ten minutes’ walk from the Markt.'),
+  ],
+  salamanca: [
+    a('마요르 광장·구시가', 'Plaza Mayor & Old Town', 'Plaza Mayor, Salamanca', '처음 가는 여행에 추천|Best for a first visit', '대성당과 대학, 로마 다리가 걸어서 가깝고 타파스 바가 많습니다. 시끄럽고 비싸며 주차가 어렵습니다.|The cathedrals, the university and the Roman bridge on foot, with plenty of tapas bars; noisy, pricier and short on parking.'),
+    a('반다이크 거리', 'Van Dyck area', 'Calle Van Dyck, Salamanca', '현지 타파스 거리|Local tapas street', '구시가 북쪽의 주거지로 저렴한 타파스 바가 모여 있습니다. 마요르 광장까지 걸어서 15~20분입니다.|A residential area north of the centre full of cheap tapas bars; 15–20 minutes’ walk to the Plaza Mayor.'),
+  ],
+  zaragoza: [
+    a('구시가 (엘 투보 주변)', 'Old Town (around El Tubo)', 'El Tubo, Zaragoza', '처음 가는 여행에 추천|Best for a first visit', '필라르 성당과 대성당, 고야 미술관이 가깝고 엘 투보 골목에 전통 바와 식당이 모여 있습니다. 기차역(델리시아스)은 3km쯤 떨어져 있습니다.|Near the Pilar basilica, the cathedral and the Goya Museum, with traditional bars in the El Tubo lanes; Delicias station is about 3 km away.'),
+  ],
+  poznan: [
+    a('구시가 (스타리 리네크)', 'Old Town (Stary Rynek)', 'Stary Rynek, Poznań', '처음 가는 여행에 추천|Best for a first visit', '구시장 광장과 시청(정오의 염소 인형), 왕궁을 걸어서 다니고 식당과 바가 모여 있습니다.|The Old Market Square, the town hall with its noon goats and the Royal Castle on foot, with restaurants and bars around.'),
+  ],
+  'cluj-napoca': [
+    a('구시가 (중심가)', 'Old Town (Centru)', 'Piața Unirii, Cluj-Napoca', '처음 가는 여행에 추천|Best for a first visit', '통일 광장과 성 미하일 교회, 중앙 공원이 가깝고 숙소와 바가 가장 많습니다. 가장 비싼 곳입니다.|Near Unirii Square, St Michael’s Church and Central Park, with the most rooms and bars; the priciest area.'),
+  ],
+  kaunas: [
+    a('구시가', 'Old Town (Senamiestis)', 'Kaunas Old Town', '옛 거리와 저녁 산책|Old streets and evening walks', '시청 광장과 성, 식당과 카페를 걸어서 다닙니다. 비싼 편이고 광장 주변은 시끄러우며 주차가 어렵습니다.|Town Hall Square, the castle, restaurants and cafés on foot; pricier, noisy around the squares, and hard to park.'),
+    a('신시가 (라이스베스 거리)', 'New Town (Laisvės alėja)', 'Laisvės alėja, Kaunas', '현대식 호텔·교통 편리|Modern hotels, good transport', '보행자 대로를 따라 상점과 극장, 모더니즘 건물이 있고 대중교통이 좋습니다. 옛 분위기는 덜합니다.|Shops, theatres and modernist buildings along the pedestrian boulevard, with good transport; less old-town charm.'),
+  ],
+  limassol: [
+    a('구시가', 'Old Town', 'Old Town, Limassol', '식당·밤 문화와 역사 지구|Food, nightlife and history', '리마솔 성과 대모스크 근처로 부티크 호텔과 식당, 바가 많고 해변까지 걸어갑니다.|Near the castle and the Great Mosque, with boutique hotels, restaurants and bars, a short walk to the beach.'),
+  ],
+  'la-rochelle': [
+    a('구항구 (비외 포르)', 'Vieux Port', 'Vieux Port, La Rochelle', '처음 가는 여행에 추천|Best for a first visit', '옛 탑과 식당, 바, 상점이 모인 중심가입니다. 저렴한 곳이 없고 7월에는 부두 쪽 값이 크게 오릅니다.|The centre by the old towers, with restaurants, bars and shops; no bargains, and quayside prices jump in July.'),
+  ],
+  batumi: [
+    a('구시가·해변 대로', 'Old Town & Seaside Boulevard', 'Batumi Boulevard', '처음 가는 여행에 추천|Best for a first visit', '바다와 식당, 피아차 광장 등 명소를 걸어서 다닙니다. 여름 성수기(6~9월)에는 해변 쪽이 시끄럽고 값이 오릅니다.|The sea, restaurants and sights such as Piazza on foot; the seafront is noisy and prices rise in high summer (June–September).'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {
