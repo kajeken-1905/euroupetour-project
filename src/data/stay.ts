@@ -885,6 +885,170 @@ export const STAY: Record<string, StayArea[]> = {
   batumi: [
     a('구시가·해변 대로', 'Old Town & Seaside Boulevard', 'Batumi Boulevard', '처음 가는 여행에 추천|Best for a first visit', '바다와 식당, 피아차 광장 등 명소를 걸어서 다닙니다. 여름 성수기(6~9월)에는 해변 쪽이 시끄럽고 값이 오릅니다.|The sea, restaurants and sights such as Piazza on foot; the seafront is noisy and prices rise in high summer (June–September).'),
   ],
+  giverny: [
+    a('지베르니 마을', 'Giverny village', 'Giverny', '하룻밤 묵을 때|For an overnight stay', '모네의 집과 인상주의 미술관을 걸어서 갑니다. 숙소가 적고 비쌉니다. 파리에서 당일치기로도 충분합니다(생라자르역→베르농, 1시간 이내).|Monet’s house and the Impressionism museum on foot; few rooms and pricey. A day trip from Paris also works (Saint-Lazare to Vernon, under an hour).'),
+    a('베르농', 'Vernon', 'Vernon, Eure', '기차역 앞·가성비|By the station, better value', '기차역과 센강이 가까워 거점으로 좋고 숙소가 비교적 저렴합니다. 지베르니까지 7km라 셔틀버스(계절 운행)나 자전거를 탑니다.|Near the station and the Seine, a handy, cheaper base; Giverny is 7 km away by seasonal shuttle or bike.'),
+  ],
+  pompeii: [
+    a('나폴리에서 다녀오기', 'Base in Naples', 'Napoli Garibaldi', '숙소가 가장 많고 저렴|Most rooms, lowest prices', '치르쿰베수비아나 열차로 35분쯤이고 폼페이 유물이 있는 국립고고학박물관도 함께 봅니다. 시끄럽고 차가 많으며 소지품을 조심해야 합니다.|About 35 minutes on the Circumvesuviana, and you can add the archaeological museum holding Pompeii’s finds; noisy and busy, so watch your belongings.'),
+    a('소렌토에서 다녀오기', 'Base in Sorrento', 'Sorrento', '바닷가 휴양과 함께|With a seaside stay', '같은 열차의 종점이라 30분쯤이고 카프리·아말피 배편도 좋습니다. 숙박비가 더 비쌉니다.|The end of the same line, about 30 minutes away, with good ferries to Capri and Amalfi; rooms cost more.'),
+  ],
+  'mont-saint-michel': [
+    a('섬 안', 'On the island', 'Mont-Saint-Michel', '관광객이 떠난 저녁과 아침|Evenings after the crowds', '당일 관광객이 떠난 뒤의 골목과 일출·일몰을 볼 수 있습니다. 숙소가 적고 비싸며 주차장에서 2km 떨어져 있고 계단이 많습니다.|The lanes after the day-trippers leave, plus sunrise and sunset; few, pricey rooms, 2 km from the car park, with steep steps.'),
+    a('라 카제른 (주차장 옆 호텔 구역)', 'La Caserne (hotel area by the car parks)', 'La Caserne, Le Mont-Saint-Michel', '가성비·셔틀버스|Value and the shuttle', '섬보다 2~3배 저렴하고 상점과 식당이 있으며 무료 셔틀이 섬까지 갑니다. 분위기는 덜하고 빨리 찹니다.|Two to three times cheaper than the island, with shops, restaurants and a free shuttle across; less charm, and books up early.'),
+  ],
+  delphi: [
+    a('델포이 마을', 'Delphi village', 'Delphi village', '차 없이 지내기 좋음|Best without a car', '식당과 버스 정류장, 유적지(15분)를 걸어서 갑니다. 아테네에서 버스로 3시간쯤이라 당일치기는 긴 하루가 됩니다.|Tavernas, the bus stop and the site (15 minutes) on foot; Athens is about three hours by bus, so a day trip makes a long day.'),
+    a('아라호바', 'Arachova', 'Arachova', '산마을 풍경·식당|Mountain views and food', '계곡 전망과 식당이 좋은 산마을로 델포이까지 차로 12분쯤입니다. 차가 있어야 합니다.|A mountain village with valley views and good places to eat, about 12 minutes’ drive from Delphi; you need a car.'),
+  ],
+  hallstatt: [
+    a('할슈타트 마을', 'Hallstatt village', 'Hallstatt', '당일치기 손님이 떠난 저녁|Evenings after the day-trippers', '호숫가 마을의 저녁과 아침을 한적하게 봅니다. 숙소가 적고 호수 전망 방은 더 비쌉니다.|The lakeside village is calm in the evening and morning; few rooms, and lake views cost extra.'),
+  ],
+  haarlem: [
+    a('하를럼 시내 중심', 'Haarlem centre', 'Grote Markt, Haarlem', '하룻밤 묵을 때|For an overnight stay', '당일 관광객이 떠난 저녁이 한적하고 식당과 바가 많으며 기차역까지 걸어갑니다. 여름과 크리스마스 무렵에는 일찍 예약해야 합니다.|Calm in the evening after the day-trippers leave, with plenty of restaurants and bars and the station on foot; book early in summer and before Christmas.'),
+    a('암스테르담에서 다녀오기', 'Day trip from Amsterdam', 'Amsterdam Centraal', '당일치기로 충분|Easy day trip', '직행 기차로 15~20분이라 몇 시간 둘러보기에 좋습니다.|Direct trains take 15–20 minutes, fine for a few hours’ visit.'),
+  ],
+  delft: [
+    a('로테르담·헤이그에서 다녀오기', 'Day trip from Rotterdam or The Hague', 'Rotterdam Centraal', '가까워서 당일치기로 편리|Close enough for a day trip', '로테르담에서 기차로 11분쯤이라 두 도시와 묶어 다녀오기 좋습니다.|About 11 minutes by train from Rotterdam, easy to combine with either city.'),
+  ],
+  giethoorn: [
+    a('기트호른 마을', 'Giethoorn village', 'Giethoorn', '관광객이 떠난 저녁|Evenings after the crowds', 'B&B와 게스트하우스가 있고, 낮에는 붐비지만 오후 5시 이후에는 마을이 한적합니다.|B&Bs and guesthouses; busy by day, but the village empties after about 5 pm.'),
+    a('암스테르담에서 다녀오기', 'Day trip from Amsterdam', 'Amsterdam Centraal', '당일치기 가능|Doable as a day trip', '기차로 스테인베이크까지 간 뒤 버스로 갈아타며 편도 1시간 반~2시간 반 걸립니다. 투어도 많습니다.|Train to Steenwijk then a bus, 1½–2½ hours each way; plenty of tours too.'),
+  ],
+  potsdam: [
+    a('베를린에서 다녀오기', 'Day trip from Berlin', 'Berlin Hauptbahnhof', '당일치기로 많이 감|The usual day trip', '베를린 중앙역에서 RE1 열차로 25분쯤이라 상수시 궁전 위주라면 하루로 충분합니다.|About 25 minutes on the RE1 from Berlin Hauptbahnhof; a day is enough if Sanssouci is the focus.'),
+    a('포츠담 구시가', 'Potsdam old town', 'Holländisches Viertel, Potsdam', '궁전과 정원을 여유 있게|More time for palaces and parks', '네덜란드 지구 주변에 카페와 게스트하우스가 있어 하루 이틀 묵으며 여러 궁전과 공원을 천천히 봅니다.|Cafés and guesthouses around the Dutch Quarter, for a night or two to see more palaces and parks.'),
+  ],
+  rothenburg: [
+    a('성벽 안 구시가', 'Inside the town walls', 'Marktplatz, Rothenburg ob der Tauber', '관광객이 떠난 저녁|Evenings after the crowds', '당일 관광객이 오후 늦게 떠나 저녁의 플뢴라인과 야경꾼 투어를 한적하게 즐깁니다. 하루면 주요 명소는 볼 수 있습니다.|Day visitors leave by late afternoon, so the Plönlein and the Night Watchman tour are quiet in the evening; the main sights fit in a day.'),
+  ],
+  fussen: [
+    a('퓌센 구시가', 'Füssen old town', 'Füssen Altstadt', '기차역·식당이 있는 거점|Base with the station and restaurants', '중세 구시가에 식당이 있고 기차역이 있어 호엔슈반가우까지 78번 버스로 몇 분입니다.|A medieval old town with restaurants and the station; bus 78 reaches Hohenschwangau in minutes.'),
+    a('호엔슈반가우', 'Hohenschwangau', 'Hohenschwangau', '성 바로 아래|Right below the castles', '매표소와 셔틀이 있어 이른 아침·늦은 시간 관람에 좋습니다. 숙소가 빨리 차고 저녁에는 상점과 식당이 문을 닫습니다.|The ticket centre and shuttle are here, good for early or late visits; rooms fill fast and shops and restaurants close in the evening.'),
+    a('뮌헨에서 다녀오기', 'Day trip from Munich', 'München Hauptbahnhof', '숙소를 옮기기 싫을 때|If you’d rather not change hotels', '기차로 2시간 반~3시간이라 긴 하루가 됩니다. 성 관람은 시간 지정 표라 미리 예약해야 합니다.|2½–3 hours by train, so a long day; castle tickets are timed, so book ahead.'),
+  ],
+  segovia: [
+    a('구시가', 'Old town', 'Plaza Mayor, Segovia', '하룻밤 묵을 때|For an overnight stay', '수도교와 대성당, 알카사르를 걸어서 다니고 저녁 광장 분위기가 좋습니다. 여름에는 일찍 예약해야 합니다.|The aqueduct, cathedral and Alcázar on foot, with lively evening squares; book early in summer.'),
+    a('마드리드에서 다녀오기', 'Day trip from Madrid', 'Madrid Moncloa', '당일치기 가능|Doable as a day trip', '몬클로아에서 버스로 1시간 20분쯤입니다. 고속열차는 시내에서 몇 km 떨어진 역에 서서 버스나 택시를 더 타야 합니다.|About 1 hr 20 by bus from Moncloa; the high-speed train stops several kilometres out, so add a bus or taxi.'),
+  ],
+  ronda: [
+    a('론다 시내', 'Ronda town', 'Puente Nuevo, Ronda', '관광객이 떠난 저녁과 아침|Evenings and mornings without crowds', '당일 관광객이 떠난 저녁과 이른 아침이 한적하고 저녁 식사도 즐길 수 있습니다. 중심가는 주차 공간이 적습니다.|Quiet evenings and early mornings once the day-trippers leave, plus dinner in town; parking in the centre is scarce.'),
+    a('세비야·말라가에서 다녀오기', 'Day trip from Seville or Málaga', 'Sevilla Santa Justa', '당일치기로 많이 감|A popular day trip', '두 도시에서 당일치기와 투어가 흔합니다. 세비야에서 130km쯤 떨어져 있습니다.|Day trips and tours from both cities are common; about 130 km from Seville.'),
+  ],
+  montreux: [
+    a('몽트뢰 호숫가 중심', 'Montreux lakefront centre', 'Montreux station', '호숫가 산책·산악 열차|Lakeside promenade and mountain trains', '호숫가 산책로와 기차역이 가깝고 로셰 드 네, 골든패스 열차 타기에 편합니다.|Close to the lakeside promenade and the station, handy for Rochers-de-Naye and the GoldenPass trains.'),
+    a('로잔에서 다녀오기', 'Base in Lausanne', 'Lausanne gare', '제네바도 함께 다닐 때|If Geneva is also on the list', '더 큰 도시라 활기차고 제네바까지 가깝습니다. 몽트뢰까지 기차로 20~25분쯤입니다.|A livelier city, closer to Geneva; about 20–25 minutes to Montreux by train.'),
+  ],
+  'st-moritz': [
+    a('생모리츠 도르프', 'St. Moritz Dorf', 'St. Moritz Dorf', '처음 가는 여행에 추천|Best for a first visit', '고급 호텔과 식당, 밤 문화가 모여 있고 역과 코르빌리아 케이블카가 가깝습니다. 매우 비쌉니다.|Most of the top hotels, restaurants and nightlife, near the station and the Corviglia funicular; very expensive.'),
+    a('생모리츠 바트', 'St. Moritz Bad', 'St. Moritz Bad', '조용한 호숫가|Quieter by the lake', '호숫가 아래쪽 마을이라 조용합니다. 겨울에는 해가 덜 들고 밤 문화가 적으며, 도르프까지 가파른 언덕이 있습니다.|The lower lakeside village, calmer; less winter sun and nightlife, with a steep hill up to Dorf.'),
+  ],
+  montserrat: [
+    a('바르셀로나에서 다녀오기', 'Day trip from Barcelona', 'Plaça d’Espanya, Barcelona', '당일치기로 많이 감|The usual day trip', '편도 1시간쯤이라 반나절·하루 투어나 기차와 산악 열차로 다녀옵니다. 산 위 수도원 숙소는 방이 적고 소박합니다.|About an hour each way by tour or train and rack railway; the monastery’s own rooms on the mountain are few and basic.'),
+  ],
+  nerja: [
+    a('구시가·부리아나 해변', 'Old town & Burriana beach', 'Balcón de Europa, Nerja', '저녁이 좋은 바닷가 마을|Best in the evening', '발콘 데 에우로파와 해변 주변 숙소가 코스타델솔 서쪽보다 대체로 저렴하고 저녁 분위기가 좋습니다.|Rooms around the Balcón de Europa and the beach are usually cheaper than the western Costa del Sol, and evenings are lovely.'),
+    a('말라가에서 다녀오기', 'Day trip from Málaga', 'Estación de Autobuses de Málaga', '하루 꼬박 걸림|Takes a full day', '50km쯤이라 버스로 다녀오지만 하루를 거의 다 씁니다. 여름에는 동굴 표를 미리 사세요.|About 50 km by bus, but it takes most of a day; book the caves ahead in summer.'),
+  ],
+  gibraltar: [
+    a('라 리네아 (스페인 쪽)', 'La Línea (Spanish side)', 'La Línea de la Concepción', '숙박비 절약|Much cheaper', '국경 바로 옆 스페인 도시라 숙소가 훨씬 싸고 주차가 쉽습니다. 차는 두고 걸어서 국경을 건너세요(차로는 몇 시간 줄 설 때가 있습니다).|The Spanish town at the border, far cheaper with easy parking; leave the car and walk across (driving can mean hours of queues).'),
+    a('지브롤터 안', 'In Gibraltar', 'Main Street, Gibraltar', '바위산 바로 아래|On the Rock itself', '번화가와 케이블카가 가깝습니다. 숙박비가 비쌉니다.|Close to Main Street and the cable car; expensive.'),
+  ],
+  cascais: [
+    a('카스카이스 구시가', 'Cascais historic centre', 'Cascais centro', '해변과 식당이 걸어서|Beaches and restaurants on foot', '작은 해변 마을이라 해변과 식당을 걸어서 다니고 신트라·호카곶 여행 거점으로도 좋습니다. 당일 관광객이 떠난 저녁이 한적합니다.|A small beach town with beaches and restaurants on foot, also a base for Sintra and Cabo da Roca; quiet once the day-trippers leave.'),
+    a('리스본에서 다녀오기', 'Day trip from Lisbon', 'Cais do Sodré', '당일치기 쉬움|An easy day trip', '카이스 두 소드레역에서 기차로 35~45분입니다. 에스토릴에서 내려 해안길을 2km 걸어도 좋습니다.|35–45 minutes by train from Cais do Sodré; or get off at Estoril and walk the 2 km coast path.'),
+  ],
+  evora: [
+    a('성벽 안 구시가', 'Inside the old walls', 'Praça do Giraldo, Évora', '하룻밤 묵을 때|For an overnight stay', '로마 신전과 대성당, 광장을 걸어서 다니고 당일 관광객이 떠난 저녁이 좋습니다. 골목이 좁고 주차가 어렵습니다.|The Roman temple, cathedral and main square on foot, best in the evening; narrow lanes and little parking.'),
+    a('리스본에서 다녀오기', 'Day trip from Lisbon', 'Lisboa Oriente', '하루면 주요 명소 가능|A day covers the highlights', '기차로 1시간 40분쯤이라 아침 일찍 가면 하루에 주요 명소를 봅니다.|About 1 hr 40 by train; arrive by mid-morning and the main sights fit in a day.'),
+  ],
+  obidos: [
+    a('성벽 안·성문 바로 밖', 'Inside or just outside the walls', 'Porta da Vila, Óbidos', '관광객이 떠난 저녁|Evenings after the crowds', '저녁에 당일 관광객이 떠나면 마을이 고요해집니다. 성벽 안은 방이 적고 돌길이라 짐 끌기가 힘들며, 성문 밖 숙소가 주차가 쉽습니다.|The town falls silent once the day-trippers leave; few rooms inside the cobbled walls, and places just outside the gates have easier parking.'),
+    a('리스본에서 다녀오기', 'Day trip from Lisbon', 'Lisboa Campo Grande', '2~3시간이면 충분|2–3 hours is enough', '급행버스로 1시간쯤이고 성문 앞에서 내립니다. 아침 첫 버스나 오후 4시 이후가 한산합니다.|About an hour on the express bus, which stops at the gate; the first morning bus or after 4 pm is quieter.'),
+  ],
+  aveiro: [
+    a('운하 주변 역사 지구', 'Historic centre by the canals', 'Aveiro canals', '하룻밤 묵을 때|For an overnight stay', '카페와 몰리세이루 배 투어가 가깝고 당일 관광객이 떠난 뒤 한적합니다. 차가 있으면 주차를 확인하세요.|Cafés and moliceiro boat trips nearby, calm once the day-trippers leave; check parking if driving.'),
+    a('포르투에서 다녀오기', 'Day trip from Porto', 'Porto São Bento', '느긋한 당일치기|An easy-paced day trip', '차로 50분쯤이고 기차도 다닙니다. 큰 명소가 많지 않아 하루면 충분합니다.|About 50 minutes by car, also by train; there are few big sights, so a day is enough.'),
+  ],
+  fatima: [
+    a('성지 주변', 'Around the Sanctuary', 'Santuário de Fátima', '저녁 촛불 행렬을 볼 때|For the evening candlelight procession', '숙소 대부분이 성지 주변에 모여 있어 저녁 예배와 촛불 행렬에 참여하기 좋습니다. 순례 성수기에는 일찍 예약해야 합니다.|Most hotels cluster around the shrine, handy for the evening services and candlelit procession; book early for big pilgrimage dates.'),
+  ],
+  nazare: [
+    a('프라이아 (해변 쪽)', 'Praia (beach side)', 'Praia da Nazaré', '해변과 실버코스트 거점|Beach and a Silver Coast base', '긴 모래 해변 쪽에 묵으며 푸니쿨라로 시티우 언덕에 오르고 알코바사·바탈랴·오비두스로 다녀옵니다.|Stay by the long sandy beach, ride the funicular up to Sítio, and take trips to Alcobaça, Batalha and Óbidos.'),
+    a('리스본에서 다녀오기', 'Day trip from Lisbon', 'Lisboa Sete Rios', '차나 투어면 가능|Doable by car or tour', '차로 1시간 반, 버스로 2시간쯤이라 대중교통 당일치기는 빠듯합니다. 투어는 머무는 시간이 짧습니다.|About 1½ hours by car or 2 by bus, so tight by public transport; tours allow little time in town.'),
+  ],
+  guimaraes: [
+    a('역사 지구', 'Historic centre', 'Largo da Oliveira, Guimarães', '하룻밤 묵을 때|For an overnight stay', '유네스코 옛 광장과 골목, 성을 걸어서 다닙니다. 연중 붐벼 좋은 숙소는 일찍 예약해야 합니다.|The UNESCO-listed squares, lanes and castle on foot; busy all year, so book the good places early.'),
+  ],
+  chartres: [
+    a('파리에서 다녀오기', 'Day trip from Paris', 'Gare Montparnasse', '당일치기로 충분|Fine as a day trip', '몽파르나스역에서 기차로 1시간 남짓이고 하루 20편쯤 다닙니다.|A little over an hour by train from Montparnasse, about twenty trains a day.'),
+    a('샤르트르 구시가', 'Chartres old town', 'Cathédrale de Chartres', '저녁 조명 쇼를 볼 때|For the evening light show', '파리보다 숙박비가 싸고 저녁에 대성당 조명 쇼를 봅니다. 구시가 일부는 가파른 돌길입니다.|Cheaper than Paris, and you can see the cathedral’s evening illuminations; some old-town streets are steep cobbles.'),
+  ],
+  fontainebleau: [
+    a('파리에서 다녀오기', 'Day trip from Paris', 'Gare de Lyon', '당일치기로 많이 감|The usual day trip', '리옹역에서 기차로 40분쯤(퐁텐블로-아봉역)입니다. 오후에는 파리행 기차가 뜸하고, 성은 화요일에 쉽니다.|About 40 minutes by train from Gare de Lyon to Fontainebleau-Avon; fewer trains back in the afternoon, and the château closes on Tuesdays.'),
+  ],
+  amboise: [
+    a('앙부아즈 구시가', 'Amboise town', 'Château d’Amboise', '차로 고성 여행할 때|For driving to the châteaux', '슈농소·샹보르 등 가운데 고성들과 가깝고 느긋한 분위기입니다. 관광객이 많은 편입니다.|Close to the central châteaux such as Chenonceau and Chambord, with a relaxed feel; touristy.'),
+    a('투르', 'Tours', 'Gare de Tours', '기차 여행·숙소와 식당이 많음|Trains, more hotels and food', '숙소와 식당이 훨씬 많고 기차 연결이 좋으며 서쪽 고성으로 가기 편합니다. 역과 플뤼므로 광장 사이가 편합니다.|Far more hotels and restaurants, better trains and easier for the western châteaux; between the station and Place Plumereau is handy.'),
+  ],
+  bayeux: [
+    a('바이외 구시가', 'Bayeux town', 'Cathédrale de Bayeux', '노르망디 상륙 해변 거점|Base for the D-Day beaches', '폭격을 피한 옛 시가지에 식당이 많고 상륙 해변 투어가 역에서 출발합니다. 해변을 오가는 버스는 드물어 렌터카나 투어가 필요합니다.|An old town spared by the bombing, with good restaurants and tours leaving from the station; coast buses are rare, so you need a car or tour.'),
+  ],
+  honfleur: [
+    a('옹플뢰르 (항구 뒤쪽 골목)', 'Honfleur (a few streets back from the harbour)', 'Vieux Bassin, Honfleur', '노르망디 해안 거점|Base for the Normandy coast', '옛 항구 마을이라 묵어 볼 만하고 에트르타(차로 1시간 15분), 도빌(30분)로 다녀오기 좋습니다. 항구 바로 앞은 붐비니 몇 블록 뒤가 조용하고 저렴합니다.|A harbour town worth staying in, with Étretat (1¼ hours by car) and Deauville (30 minutes) nearby; a few streets back from the crowded harbour is quieter and cheaper.'),
+  ],
+  etretat: [
+    a('옹플뢰르·르아브르에서 다녀오기', 'Day trip from Honfleur or Le Havre', 'Le Havre', '기차가 닿지 않는 곳|No train station', '기차역이 없어 르아브르에서 버스나 차(30분)로, 옹플뢰르에서 차로 1시간 15분쯤입니다. 절벽 길은 바람이 세고 위험한 곳이 있습니다.|No train: bus or 30 minutes by car from Le Havre, or about 1¼ hours from Honfleur; the cliff paths are windy with dangerous drops.'),
+  ],
+  'saint-malo': [
+    a('성벽 안 (앵트라 뮈로스)', 'Intra-Muros (walled town)', 'Intra-Muros, Saint-Malo', '처음 가는 여행에 추천|Best for a first visit', '성벽 안 옛 시가지라 대성당과 해변을 걸어서 다닙니다. 가장 붐비고 성수기에는 빨리 차며 차로 들어가기 어렵습니다.|The walled old town with the cathedral and beaches on foot; the busiest area, books up fast in season, and hard to drive into.'),
+    a('르 실롱 해변', 'Le Sillon seafront', 'Le Sillon, Saint-Malo', '바다 전망과 해변|Sea views and the beach', '성벽 바로 옆 긴 해변을 따라 바다 전망 호텔과 스파가 있습니다. 인기가 많아 일찍 예약해야 합니다.|Sea-view hotels and spas along the long beach next to the ramparts; popular, so book well ahead.'),
+  ],
+  arcachon: [
+    a('보르도에서 다녀오기', 'Day trip from Bordeaux', 'Bordeaux Saint-Jean', '당일치기로 충분|Fine as a day trip', '보르도에서 50km, 기차로 45분쯤이라 필라 사구와 시내를 하루에 볼 수 있습니다. 만 전체를 보려면 더 머물러야 합니다.|About 50 km and 45 minutes by train from Bordeaux, so the Dune du Pilat and the town fit in a day; seeing the whole bay needs longer.'),
+  ],
+  bonifacio: [
+    a('항구 (마리나)', 'Marina (lower town)', 'Port de Bonifacio', '식당과 보트 투어|Restaurants and boat trips', '요트 항구를 따라 식당과 상점이 있고 해식 동굴 보트 투어가 출발합니다. 걷기 편합니다.|Waterfront restaurants and shops along the yacht harbour, where boats leave for the sea caves; easier walking.'),
+    a('오트 빌 (구시가)', 'Haute Ville (old town)', 'Haute Ville, Bonifacio', '절벽 위 옛 시가지|Clifftop old town', '아라곤 왕의 계단과 성벽, 옛 교회가 바로 옆입니다. 가파른 돌길이고 성수기 낮에는 붐빕니다.|Next to the King of Aragon Steps, the ramparts and old churches; steep cobbles, and crowded on peak-season days.'),
+  ],
+  'san-gimignano': [
+    a('피렌체·시에나에서 다녀오기', 'Day trip from Florence or Siena', 'Firenze Santa Maria Novella', '당일치기로 많이 감|The usual day trip', '피렌체에서 60km쯤이라 차나 투어로 시에나와 묶어 다녀오는 경우가 많습니다. 투어는 마을에서 머무는 시간이 2시간 안팎으로 짧습니다.|About 60 km from Florence, often combined with Siena by car or tour; tours leave only about two hours in town.'),
+  ],
+  assisi: [
+    a('아시시 구시가', 'Assisi old town', 'Basilica di San Francesco, Assisi', '관광객이 떠난 저녁|Evenings after the crowds', '낮의 관광객이 떠난 뒤 조용한 순례 도시를 봅니다. 로마 테르미니역에서 직행 기차가 있습니다.|See the quiet pilgrim town after the day crowds leave; direct trains run from Roma Termini.'),
+    a('피렌체에서 다녀오기', 'Day trip from Florence', 'Firenze Santa Maria Novella', '시간이 없을 때|When time is short', '투어로 하루에 다녀올 수 있습니다. 기차는 갈아타야 합니다.|Day tours run from Florence; by train you need to change.'),
+  ],
+  orvieto: [
+    a('로마에서 다녀오기', 'Day trip from Rome', 'Roma Termini', '당일치기로 충분|Fine as a day trip', '테르미니역에서 거의 매시간 기차가 있고 1시간 반쯤 걸립니다. 6~7시간이면 대성당과 지하 도시, 전망을 봅니다.|Trains almost hourly from Termini take about 1½ hours; 6–7 hours covers the cathedral, the underground and the views.'),
+    a('오르비에토 구시가', 'Orvieto old town', 'Duomo di Orvieto', '관광객이 떠난 저녁|Evenings after the crowds', '당일 관광객이 떠난 저녁에 한적한 골목과 노을을 즐깁니다. 역에서 구시가까지 푸니쿨라로 올라갑니다.|Quiet lanes and sunsets once the day-trippers leave; take the funicular up from the station.'),
+  ],
+  alberobello: [
+    a('트룰리 숙소', 'A night in a trullo', 'Rione Monti, Alberobello', '특별한 하룻밤|A one-off stay', '원뿔 지붕 집 트룰로에서 묵어 볼 수 있습니다. 낮에는 관광객이 많고 식당이 적습니다.|Sleep in one of the cone-roofed trulli; crowded by day, with fewer places to eat.'),
+    a('모노폴리에서 다녀오기', 'Base in Monopoli', 'Monopoli', '식당 많은 바닷가 거점|Seaside base with more food', '현지 분위기의 항구 마을로 식당이 많고 알베로벨로까지 차로 40분쯤입니다. 차가 있으면 편합니다.|A lived-in harbour town with more restaurants, about 40 minutes’ drive to Alberobello; easiest with a car.'),
+  ],
+  'polignano-a-mare': [
+    a('폴리냐노 구시가', 'Polignano old town', 'Lama Monachile, Polignano a Mare', '절벽 마을 풍경|The clifftop town', '바리에서 기차로 오기 쉽고 절벽 위 옛 마을에 묵습니다. 보행자 구역이라 거리 소음이 있고 해변 말고 할 거리는 적습니다.|Easy by train from Bari, staying in the clifftop old town; pedestrian streets mean some noise, and there’s little beyond the beaches.'),
+    a('모노폴리', 'Monopoli', 'Monopoli', '주차 쉬운 거점|Base with easier parking', '폴리냐노에서 남쪽으로 차로 15분, 바리에서 45분쯤이라 풀리아 여행 거점으로 좋고 주차장이 많습니다.|15 minutes south by car and 45 from Bari, a good central Puglia base with plenty of parking.'),
+  ],
+  stresa: [
+    a('스트레사 호숫가·선착장 주변', 'Stresa lakefront & ferry pier', 'Piazza Marconi, Stresa', '보로메오 섬 배편 거점|Base for the Borromean Islands', '선착장에서 이솔라 벨라 등 섬으로 배가 자주 다니고 구시가 식당까지 걸어갑니다.|Frequent boats to Isola Bella and the other islands leave from the pier, with old-town restaurants on foot.'),
+  ],
+  sirmione: [
+    a('시르미오네 구시가', 'Sirmione old town', 'Castello Scaligero, Sirmione', '관광객이 떠난 저녁과 아침|Evenings and mornings without crowds', '낮에는 매우 붐비지만 해 질 녘부터 다음 날 오전까지 한적합니다. 반도 안에는 차량 통행 제한이 있어 밖에 주차해야 합니다.|Packed by day but quiet from sunset to mid-morning; driving is restricted on the peninsula, so park outside.'),
+    a('베로나에서 다녀오기', 'Day trip from Verona', 'Verona Porta Nuova', '당일치기 가능|Doable as a day trip', '데센차노 델 가르다역까지 기차로 26분쯤이고, 역에서 마을까지 10km라 버스나 택시를 탑니다.|About 26 minutes by train to Desenzano del Garda, then 10 km by bus or taxi to the town.'),
+  ],
+  portofino: [
+    a('산타 마르게리타 리구레', 'Santa Margherita Ligure', 'Santa Margherita Ligure', '기차역 있는 거점|Base with a train station', '가장 가까운 기차역이 있고 숙소가 다양하며 포르토피노보다 저렴합니다. 버스가 15분 간격, 배로 15분쯤입니다.|The nearest train station, more choice and cheaper than Portofino; buses every 15 minutes or a 15-minute ferry.'),
+    a('포르토피노 마을', 'Portofino village', 'Portofino', '작은 항구에서 묵기|Staying in the harbour', '작은 항구 마을이라 숙소가 매우 적고 비쌉니다.|A tiny harbour village with very few, very expensive rooms.'),
+  ],
+  modena: [
+    a('볼로냐에서 다녀오기', 'Day trip from Bologna', 'Bologna Centrale', '당일치기 쉬움|An easy day trip', '기차로 30분쯤이고 역에서 중심가까지 걸어서 10~15분입니다. 대성당과 그란데 광장은 3~4시간이면 봅니다.|About 30 minutes by train, then 10–15 minutes’ walk; the cathedral and Piazza Grande take 3–4 hours.'),
+    a('모데나 역사 지구', 'Modena centro storico', 'Piazza Grande, Modena', '식당과 시장이 걸어서|Food and markets on foot', '대성당과 알비넬리 시장, 트라토리아를 걸어서 다닙니다. 차량 통행 제한(ZTL)이 있어 주차가 어렵습니다.|The cathedral, the Albinelli market and trattorias on foot; inside the ZTL, so parking is hard.'),
+  ],
+  parma: [
+    a('파르마 역사 지구', 'Parma centro storico', 'Piazza Duomo, Parma', '음식 여행으로 묵을 때|For a food-focused stay', '대성당과 세례당, 광장과 식당을 걸어서 다닙니다.|The cathedral, the baptistery, the squares and restaurants on foot.'),
+    a('볼로냐에서 다녀오기', 'Day trip from Bologna', 'Bologna Centrale', '당일치기로 충분|Fine as a day trip', '기차로 1시간쯤이라 대성당과 점심, 산책 위주라면 하루로 충분합니다.|About an hour by train; a day is enough for the Duomo, lunch and a stroll.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {
