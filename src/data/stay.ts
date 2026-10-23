@@ -431,6 +431,327 @@ export const STAY: Record<string, StayArea[]> = {
     a('중심가 (스칸데르베그 광장 주변)', 'City centre (Skanderbeg Square)', 'Skanderbeg Square, Tirana', '처음 가는 여행에 추천|Best for a first visit', '박물관과 모스크, 벙크아트를 걸어서 갑니다. 광장 주변은 밤에 조심하세요.|Museums, the mosque and BunkArt on foot; take care around the square at night.'),
     a('블로쿠', 'Blloku', 'Blloku, Tirana', '식당·밤 문화|Food and nightlife', '밤낮으로 붐비는 안전한 동네로 식당과 바가 많습니다.|Busy day and night and considered safe, full of restaurants and bars.'),
   ],
+  ghent: [
+    a('역사 중심가', 'Historic Centre', 'Korenmarkt, Ghent', '처음 가는 여행에 추천|Best for a first visit', '그라슬레이와 코렌마르크트 주변이라 주요 명소를 걸어서 다닙니다. 행사 때는 붐비고 숙박비가 비쌉니다.|Around the Graslei and Korenmarkt, with the main sights on foot; busy during events and pricier.'),
+    a('파테르숄', 'Patershol', 'Patershol, Ghent', '식당과 옛 골목|Restaurants and old lanes', '그라벤스테인 성 뒤 중세 골목에 식당과 바가 모여 있습니다. 중심가 북쪽 끝이라 조금 걷습니다.|Medieval lanes behind the Gravensteen, full of restaurants and bars, at the northern edge of the centre.'),
+    a('신트피터르스 역 주변', 'Sint-Pieters station area', 'Gent-Sint-Pieters', '당일치기 기차 여행에 편리|Handy for day trips by train', '주요 기차역 옆이라 브뤼헤·브뤼셀 당일치기에 좋습니다. 구시가까지 걸어서 20~30분이라 트램을 탑니다.|Next to the main station for trips to Bruges or Brussels; the old town is a 20–30-minute walk, so take the tram.'),
+  ],
+  antwerp: [
+    a('구시가', 'Old Town', 'Grote Markt, Antwerp', '처음 가는 여행에 추천|Best for a first visit', '대성당과 흐로테 마르크트 주변이라 주요 명소를 걸어서 다닙니다. 관광객이 많고 작은 호텔이 대부분입니다.|Around the cathedral and Grote Markt with the sights on foot; touristy, and most hotels are small.'),
+    a('중앙역 주변', 'Central Station area', 'Antwerpen-Centraal', '교통 편리·가성비|Transport and value', '큰 현대식 호텔이 많아 값이 괜찮고 기차 타기 편합니다. 구시가까지 걸어서 20~30분이고 역 주변은 소매치기를 조심해야 합니다.|Big modern hotels at fair prices and easy trains; the old town is a 20–30-minute walk, and watch for pickpockets by the station.'),
+    a('극장 지구', 'Theatre District', 'Theaterbuurt, Antwerp', '쇼핑과 공연|Shopping and shows', '역과 구시가 사이라 위치가 좋고 공연장·고급 식당·상점이 많습니다. 숙박비는 비싼 편입니다.|Between the station and the old town, with theatres, smart restaurants and shops; on the pricier side.'),
+    a('헷 자위트', 'Het Zuid', 'Het Zuid, Antwerp', '저녁 분위기와 현지 느낌|Evenings out and a local feel', '식당과 바, 왕립미술관(KMSKA)이 있는 동네입니다. 중심가까지 걸어서 15~20분이고 호텔이 적습니다.|Restaurants, bars and the KMSKA art museum; a 15–20-minute walk to the centre, with fewer hotels.'),
+  ],
+  bern: [
+    a('구시가', 'Old Town (Altstadt)', 'Altstadt, Bern', '처음 가는 여행에 추천|Best for a first visit', '주요 명소가 모두 걸어서 가깝고 기차역이 서쪽 끝에 있습니다. 숙박비가 비싸고 주차가 어렵습니다.|All the sights are a short walk and the station is at its western edge; rooms are pricey and parking is hard.'),
+    a('브라이텐라인·로렌', 'Breitenrain–Lorraine', 'Breitenrain, Bern', '현지 분위기·숙박비 절약|Local feel, lower prices', '아레강 북쪽 주거지라 조용하고 공원과 강변 산책길이 있습니다. 구시가까지 걸어서 15~30분이고 호텔보다 아파트가 많습니다.|A quiet residential area north of the Aare with parks and river walks; 15–30 minutes on foot to the old town, with more flats than hotels.'),
+  ],
+  basel: [
+    a('그로스바젤 구시가', 'Grossbasel Old Town', 'Altstadt Grossbasel, Basel', '처음 가는 여행에 추천|Best for a first visit', '대성당과 마르크트 광장이 있는 옛 시가지라 걸어서 둘러보기 좋습니다.|The old town around the Minster and Marktplatz, easy to explore on foot.'),
+    a('클라인바젤', 'Kleinbasel', 'Kleinbasel, Basel', '저녁 분위기|Evenings out', '라인강 건너편으로 바와 식당, 광장이 많아 활기찹니다. 밤에는 시끄러울 수 있습니다.|Across the Rhine, lively with bars, restaurants and squares; can be noisy at night.'),
+    a('군델딩엔', 'Gundeldingen', 'Gundeldingen, Basel', '숙박비 절약|Cheaper', '중앙역 바로 뒤라 교통이 편하고 숙소가 비교적 저렴합니다. 구시가에서는 조금 떨어져 있습니다.|Just behind the main station, well connected and cheaper; a little further from the old town.'),
+  ],
+  graz: [
+    a('구시가', 'Old Town (Innere Stadt)', 'Innere Stadt, Graz', '처음 가는 여행에 추천|Best for a first visit', '주요 명소를 대부분 걸어서 다닙니다. 숙박비가 비싸고 주차가 어렵습니다.|Most sights are on foot; rooms cost more and parking is scarce.'),
+    a('렌트', 'Lend', 'Lend, Graz', '카페와 예술 분위기|Cafés and an arty feel', '무어강 건너편으로 미술관과 카페, 바가 많습니다. 저녁에는 시끄러울 수 있습니다.|Across the Mur, with the Kunsthaus, cafés and bars; can be noisy in the evening.'),
+    a('그리스', 'Gries', 'Gries, Graz', '숙박비 절약|Cheaper', '숙소가 저렴하고 트램으로 중심가까지 10분 안팎입니다. 관광지와 떨어져 있고 일부 거리는 어수선합니다.|Cheaper rooms, about ten minutes by tram to the centre; away from the sights, and some streets are a bit rough.'),
+  ],
+  dresden: [
+    a('구시가', 'Altstadt', 'Altstadt, Dresden', '처음 가는 여행에 추천|Best for a first visit', '츠빙거 궁전·프라우엔 교회 등 주요 명소가 모여 있어 걸어서 다닙니다. 숙박비가 비싼 편입니다.|The Zwinger, the Frauenkirche and the other sights are close together on foot; rooms cost more.'),
+    a('노이슈타트', 'Neustadt', 'Äußere Neustadt, Dresden', '저녁 분위기·숙박비 절약|Evenings out, lower prices', '엘베강 건너편으로 바와 식당, 개성 있는 가게가 많고 숙소가 비교적 저렴합니다. 일부 거리는 밤에 시끄럽습니다.|Across the Elbe, full of bars, restaurants and independent shops, with cheaper rooms; some streets are loud at night.'),
+  ],
+  leipzig: [
+    a('중심가', 'City Centre (Zentrum)', 'Zentrum, Leipzig', '처음 가는 여행에 추천|Best for a first visit', '토마스 교회와 구 시청 등 주요 명소를 걸어서 다닙니다. 낮에는 붐비고 저녁에는 조용해집니다.|St Thomas Church, the Old Town Hall and the other sights on foot; busy by day, quieter in the evening.'),
+    a('플라크비츠', 'Plagwitz', 'Plagwitz, Leipzig', '예술·운하 분위기|Art and canals', '옛 공장 지대가 슈피너라이 같은 예술 공간과 운하 산책길로 바뀐 동네입니다. 주요 명소와는 떨어져 있습니다.|A former industrial district with the Spinnerei art centre and canal walks; further from the main sights.'),
+  ],
+  nuremberg: [
+    a('구시가', 'Old Town (Altstadt)', 'Altstadt, Nuremberg', '처음 가는 여행에 추천|Best for a first visit', '성벽 안에 명소와 크리스마스 마켓이 모여 있어 걸어서 다닙니다. 여름과 마켓 시즌에는 빨리 찹니다.|The sights and the Christmas market are inside the walls on foot; it books up fast in summer and market season.'),
+    a('쥐트슈타트', 'Südstadt', 'Südstadt, Nuremberg', '숙박비 절약|Cheaper', '중앙역 남쪽이라 교통이 편하고 숙소가 저렴합니다. 구시가에서는 조금 떨어져 있습니다.|South of the main station, well connected and cheaper; a little out of the centre.'),
+    a('고스텐호프', 'Gostenhof', 'Gostenhof, Nuremberg', '조용한 동네·가족 여행|Quieter, for families', '구시가 서쪽의 주거지로 비교적 조용합니다. 중심가까지는 대중교통을 탑니다.|A residential area west of the old town, calmer; take public transport to the centre.'),
+  ],
+  heidelberg: [
+    a('구시가', 'Altstadt', 'Altstadt, Heidelberg', '처음 가는 여행에 추천|Best for a first visit', '성 아래 네카어강 변이라 명소를 걸어서 다닙니다. 숙박비가 비싸고 주차가 어렵습니다.|Below the castle on the Neckar, with the sights on foot; rooms are pricey and parking is hard.'),
+    a('베르크하임', 'Bergheim', 'Bergheim, Heidelberg', '숙박비 절약·기차역 근처|Cheaper, near the station', '구시가 바로 서쪽이라 중앙역과 트램이 가깝고 숙소가 비교적 저렴합니다.|Just west of the old town, close to the main station and trams, with cheaper rooms.'),
+    a('노이엔하임', 'Neuenheim', 'Neuenheim, Heidelberg', '가족 여행·조용한 동네|Families, quieter', '강 건너 북쪽의 푸른 주거지로 강변 공원과 동물원이 가깝습니다. 구시가까지 다리를 건너 걷거나 트램을 탑니다.|A leafy area across the river with riverside parks and the zoo; cross the bridge on foot or take the tram to the old town.'),
+  ],
+  stuttgart: [
+    a('미테', 'Mitte (city centre)', 'Stuttgart-Mitte', '처음 가는 여행에 추천|Best for a first visit', '슐로스 광장과 중앙역 주변이라 쇼핑과 관광에 편합니다. 번화가라 붐빕니다.|Around Schlossplatz and the main station, handy for sights and shopping; busy and commercial.'),
+    a('슈투트가르트 서부', 'Stuttgart-West', 'Stuttgart-West', '현지 분위기|Local feel', '카페와 식당이 많은 푸른 주거지입니다. 중심가 바로 옆이지만 명소는 조금 멀어집니다.|A leafy residential area full of cafés and restaurants, next to the centre but further from some sights.'),
+    a('바트 칸슈타트', 'Bad Cannstatt', 'Bad Cannstatt, Stuttgart', '온천·메르세데스 박물관 근처|Spas and the Mercedes museum', '온천 마을로 빌헬마 동물원과 메르세데스-벤츠 박물관이 가깝고 숙박비가 비교적 쌉니다. 중심가까지 기차로 15분쯤입니다.|An old spa town near the Wilhelma zoo and the Mercedes-Benz Museum, with lower prices; about 15 minutes by train to the centre.'),
+  ],
+  cordoba: [
+    a('유대인 지구', 'Judería (Jewish Quarter)', 'Judería, Córdoba', '처음 가는 여행에 추천|Best for a first visit', '메스키타와 알카사르가 걸어서 가깝고 식당이 많습니다. 관광객이 많고 숙박비가 비싸며 주차가 어렵습니다.|The Mezquita and the Alcázar are on foot, with plenty of places to eat; touristy, pricier and hard for parking.'),
+    a('중심가', 'Centro (Plaza de las Tendillas)', 'Plaza de las Tendillas, Córdoba', '쇼핑·교통 편리|Shopping and transport', '현대적인 번화가라 상점이 많고 기차역이 가깝습니다. 옛 골목 분위기는 덜합니다.|The modern centre, with shops and the train station nearby; less old-town character.'),
+  ],
+  santiago: [
+    a('구시가', 'Old Town', 'Old Town, Santiago de Compostela', '대성당 바로 옆|Next to the cathedral', '대성당과 순례자 사무소가 몇 분 거리이고 보행자 거리에 타파스 바가 많습니다. 여름은 순례객으로 붐비고 바 근처는 밤에 시끄럽습니다.|Minutes from the cathedral and the pilgrim office, with tapas bars on pedestrian streets; packed with pilgrims in summer, and noisy near the bars at night.'),
+  ],
+  palma: [
+    a('구시가', 'Old Town', 'Old Town, Palma', '처음 가는 여행에 추천|Best for a first visit', '대성당과 궁전, 시장이 걸어서 가깝습니다. 관광객이 많고 숙박비가 비싸며 주차가 어렵습니다.|The cathedral, palaces and markets are on foot; crowded, pricey and short on parking.'),
+    a('산타 카탈리나', 'Santa Catalina', 'Santa Catalina, Palma', '식당과 저녁 분위기|Food and evenings out', '구시가 서쪽으로 시장과 식당, 바가 많습니다. 여름에 붐비고 밤에 시끄럽습니다.|West of the old town with a market, restaurants and bars; busy in summer and noisy at night.'),
+    a('칼라 마요르', 'Cala Major', 'Cala Major, Palma', '해변·가족 여행|Beach and families', '시내 서쪽의 해변 동네로 물이 잔잔합니다. 구시가까지 택시로 5분쯤이고 해변 호텔은 비쌉니다.|A beach area west of the city with calm water; about five minutes by taxi to the old town, and beachfront hotels are pricey.'),
+  ],
+  girona: [
+    a('구시가', 'Barri Vell (Old Town)', 'Barri Vell, Girona', '처음 가는 여행에 추천|Best for a first visit', '대성당과 유대인 지구를 걸어서 다닙니다. 낮에 붐비고 골목이 좁아 택시가 들어가기 어렵습니다.|The cathedral and the Jewish quarter on foot; busy by day, and the lanes are too narrow for taxis.'),
+    a('에이삼플레', 'Eixample', 'Eixample, Girona', '기차역 근처·가성비|Near the station, better value', '기차역과 상점이 가깝고 숙소가 비교적 넓고 저렴합니다. 옛 시가지 분위기는 덜합니다.|Close to the station and shops, with roomier, cheaper places; less historic charm.'),
+    a('메르카달', 'Mercadal', 'Mercadal, Girona', '현지 분위기|Local feel', '구시가 강 건너편으로 길이 넓고 식당과 상점이 많습니다. 데베사 공원이 가깝습니다.|Across the river from the old town, with wider streets, places to eat and shops, near La Devesa park.'),
+  ],
+  genoa: [
+    a('역사 지구·포르토 안티코', 'Centro Storico & Porto Antico', 'Centro Storico, Genoa', '처음 가는 여행에 추천|Best for a first visit', '두칼레 궁전과 대성당, 옛 항구와 수족관을 걸어서 다닙니다. 골목이 좁고 가파르며 성수기에 붐빕니다.|The Doge’s Palace, the cathedral, the old port and the aquarium on foot; lanes are narrow and steep, and crowded in high season.'),
+    a('프린치페 역 주변', 'Piazza Principe', 'Genova Piazza Principe', '기차 여행·숙박비 절약|Trains and lower prices', '중앙역 옆이라 기차와 크루즈 터미널이 가깝고 숙소가 저렴합니다. 역 주변은 번잡하고 식당이 적습니다.|By the main station and the cruise terminal, with cheaper rooms; the station area is hectic with fewer places to eat.'),
+    a('네르비·보카다세', 'Nervi & Boccadasse', 'Nervi, Genoa', '조용한 바닷가|Quiet seaside', '해안 산책로와 작은 해변이 있는 한적한 동네입니다. 시내까지 기차나 버스로 15~30분 걸립니다.|Calm seaside areas with promenades and small beaches; 15–30 minutes by train or bus to the sights.'),
+  ],
+  bari: [
+    a('바리 베키아', 'Bari Vecchia (Old Town)', 'Bari Vecchia', '처음 가는 여행에 추천|Best for a first visit', '대부분 보행자 골목이라 조용하고 명소와 바다가 가깝습니다. 숙소가 빨리 차고 저렴한 곳이 적습니다.|Mostly pedestrian lanes near the sights and the sea; rooms book up fast and budget options are few.'),
+    a('무라트', 'Murat', 'Murat, Bari', '식당·쇼핑·저녁 분위기|Food, shopping, evenings out', '구시가 바로 뒤 바둑판 시가지로 식당과 바, 호텔이 가장 많습니다. 구시가보다 분위기는 덜합니다.|The grid-plan centre behind the old town, with the most restaurants, bars and hotels; less character than Bari Vecchia.'),
+    a('마돈넬라', 'Madonnella', 'Madonnella, Bari', '조용한 바닷가 주거지|Quiet seaside residential', '해안 산책로 옆 주거지라 가족 여행에 좋습니다. 식당과 밤 문화는 적습니다.|A residential area by the seafront, good for families; fewer restaurants and little nightlife.'),
+  ],
+  catania: [
+    a('역사 지구', 'Centro Storico', 'Piazza del Duomo, Catania', '처음 가는 여행에 추천|Best for a first visit', '대성당과 코끼리 분수 등 명소와 식당이 걸어서 가깝습니다. 호텔값이 비싼 편이고 주말 밤에는 북적입니다.|The cathedral, the Elephant Fountain and places to eat on foot; hotels cost more and weekend nights are lively.'),
+    a('아치카스텔로', 'Aci Castello', 'Aci Castello', '바닷가 마을|Seaside village', '카타니아 북쪽의 조용한 해안 마을로 버스가 자주 다닙니다. 숙소가 적고 해안은 바위가 많습니다.|A quiet coastal village north of Catania with frequent buses; few places to stay, and the shore is rocky.'),
+    a('니콜로시', 'Nicolosi', 'Nicolosi', '에트나 화산 여행|For Mount Etna', '에트나산 아래 마을이라 등산과 투어에 좋습니다. 카타니아 시내까지 30분쯤 걸려 교통편이 필요합니다.|A village at the foot of Etna, good for hikes and tours; about 30 minutes from central Catania, so you need transport.'),
+  ],
+  siracusa: [
+    a('오르티자섬', 'Ortigia', 'Ortigia, Siracusa', '처음 가는 여행에 추천|Best for a first visit', '옛 시가지 섬이라 대성당과 시장, 바닷가 산책길과 식당을 걸어서 다닙니다. 차량 통행이 제한되고, 기차역과 고고학 공원은 꽤 멉니다.|The old island town, with the cathedral, market, sea walks and restaurants on foot; traffic is restricted, and the station and archaeological park are a long walk.'),
+  ],
+  cagliari: [
+    a('라 마리나', 'La Marina', 'Marina, Cagliari', '처음 가는 여행에 추천|Best for a first visit', '항구 옆 평지라 걷기 편하고 식당과 교통이 좋습니다. 밤에 시끄럽고 성수기에 붐빕니다.|Flat streets by the port with plenty of places to eat and good transport; noisy at night and busy in high season.'),
+    a('카스텔로', 'Castello', 'Castello, Cagliari', '옛 성채와 전망|Old citadel and views', '언덕 위 옛 시가지라 명소와 전망이 좋습니다. 계단과 비탈이 많고 차로 들어가기 어렵습니다.|The hilltop old quarter with the landmarks and views; steep, stair-heavy streets with little car access.'),
+    a('스탐파체', 'Stampace', 'Stampace, Cagliari', '가성비·현지 분위기|Value and a local feel', '중심가에 가까우면서 차분하고 숙소가 비교적 저렴합니다.|Central but calmer, with better-value rooms.'),
+    a('포에토 해변', 'Poetto', 'Poetto, Cagliari', '해변 휴양|Beach time', '긴 모래 해변 옆입니다. 시내 명소까지는 버스나 택시를 타야 합니다.|Beside the long sandy beach; take a bus or taxi to the sights.'),
+  ],
+  bergamo: [
+    a('치타 알타', 'Città Alta (Upper Town)', 'Città Alta, Bergamo', '옛 시가지 분위기|Old-town atmosphere', '언덕 위 중세 시가지라 당일치기 손님이 떠난 아침·저녁이 특히 좋습니다. 숙박비가 비싸고 숙소가 적으며 짐 들고 오르기 힘듭니다.|The medieval hilltop town, best in the morning and evening after the day-trippers leave; pricier, fewer rooms, and hard with heavy luggage.'),
+    a('치타 바사', 'Città Bassa (Lower Town)', 'Città Bassa, Bergamo', '기차·공항·당일치기에 편리|Trains, airport and day trips', '기차역과 공항버스가 가깝고 숙소가 많고 저렴합니다. 푸니콜라로 치타 알타까지 몇 분입니다. 옛 시가지 분위기는 덜합니다.|Near the station and the airport bus, with more and cheaper rooms, a few minutes from the upper town by funicular; less historic charm.'),
+  ],
+  padua: [
+    a('역사 지구', 'Historic Centre', 'Centro Storico, Padua', '처음 가는 여행에 추천|Best for a first visit', '광장과 대성당, 해부학 극장이 걸어서 가깝고 식당과 바가 많습니다. 광장 바로 앞에는 호텔이 적어 몇 블록 떨어진 곳을 찾게 됩니다.|The squares, the cathedral and the anatomy theatre are on foot, with plenty of restaurants and bars; few hotels face the squares themselves.'),
+  ],
+  trieste: [
+    a('보르고 테레지아노·해안가', 'Borgo Teresiano & the waterfront', 'Borgo Teresiano, Trieste', '처음 가는 여행에 추천|Best for a first visit', '카날 그란데와 통일 광장, 바닷가가 가깝고 기차역까지 걸어갑니다. 중급 이상 호텔이 많아 비싼 편입니다.|Near the Canal Grande, Piazza Unità and the seafront, walking distance from the station; mostly mid-range to upscale.'),
+    a('구시가·산 주스토', 'Old Town & San Giusto', 'Città Vecchia, Trieste', '조용한 옛 골목|Quiet old lanes', '대성당과 성, 로마 극장 유적 근처의 중세 골목입니다. 길이 좁고 가팔라 짐이 많으면 불편합니다.|Medieval lanes near the cathedral, the castle and the Roman theatre; narrow and steep, awkward with luggage.'),
+    a('중앙역 주변', 'Station area', 'Trieste Centrale', '숙박비 절약·교통 편리|Cheaper, good connections', '기차·버스 타기 편하고 숙소가 저렴합니다. 경치는 덜하고 큰길 옆은 시끄럽습니다.|Easy trains and buses with cheaper rooms; less scenic, and rooms on main roads are noisy.'),
+  ],
+  lecce: [
+    a('역사 지구', 'Historic Centre', 'Centro Storico, Lecce', '처음 가는 여행에 추천|Best for a first visit', '바로크 성당과 식당, 와인 바를 걸어서 다닙니다. 차량 통행 제한(ZTL)이 있어 운전·주차가 어렵고 광장 근처는 저녁에 시끄럽습니다.|Baroque churches, restaurants and wine bars on foot; the restricted-traffic zone (ZTL) makes driving and parking hard, and the main squares are loud in the evening.'),
+    a('마치니 광장 주변', 'Piazza Mazzini area', 'Piazza Mazzini, Lecce', '쇼핑·주차 편리|Shopping and easier parking', '구시가 바로 밖 현대 시가지라 상점이 많고 운전하기 쉽습니다. 명소까지 걸어서 10~15분입니다.|The modern district just outside the old town, with shops and easier driving; 10–15 minutes on foot to the sights.'),
+  ],
+  sorrento: [
+    a('타소 광장 주변', 'Centre (Piazza Tasso)', 'Piazza Tasso, Sorrento', '처음 가는 여행에 추천|Best for a first visit', '상점과 식당, 기차역이 가까워 당일치기에 편합니다. 성수기에는 붐비고 시끄러우며 일찍 마감됩니다.|Shops, restaurants and the train station nearby, handy for day trips; noisy and crowded in high season, and books up early.'),
+    a('마리나 피콜라', 'Marina Piccola (port)', 'Marina Piccola, Sorrento', '카프리·아말피 배편|Ferries to Capri and Amalfi', '배 타는 항구 바로 앞이라 섬·해안 여행에 좋습니다. 중심가까지는 계단이나 오르막을 올라가야 합니다.|Right by the ferry port for Capri and the coast; steps or an uphill walk to the centre.'),
+    a('마리나 그란데', 'Marina Grande', 'Marina Grande, Sorrento', '조용한 어촌 분위기|Quiet fishing-village feel', '바닷가 해산물 식당이 있는 옛 어촌입니다. 중심가까지 꽤 걷고 상점과 숙소가 적습니다.|An old fishing harbour with seafood restaurants; a fair walk to the centre, with few shops or rooms.'),
+  ],
+  toulouse: [
+    a('카피톨 주변', 'Capitole (centre)', 'Place du Capitole, Toulouse', '처음 가는 여행에 추천|Best for a first visit', '주요 명소를 걸어서 다니고 지하철·버스가 편합니다. 인기가 많아 숙박비가 비쌀 수 있습니다.|The main sights on foot with easy metro and bus links; popular, so it can be expensive.'),
+    a('카름', 'Carmes', 'Les Carmes, Toulouse', '식당과 저녁 분위기|Food and evenings out', '시장과 빵집, 비스트로, 와인 바가 모여 있습니다. 금요일 밤에는 매우 붐빕니다.|A market, bakeries, bistros and wine bars; very crowded on Friday nights.'),
+    a('생시프리앵', 'Saint-Cyprien', 'Saint-Cyprien, Toulouse', '강 건너 현지 분위기|Local feel across the river', '가론강 건너편의 마을 같은 동네로 시장과 강변 산책길이 있습니다.|A village-like area across the Garonne with markets and riverside walks.'),
+  ],
+  montpellier: [
+    a('에퀴송 (역사 지구)', 'L’Écusson (historic centre)', 'Écusson, Montpellier', '처음 가는 여행에 추천|Best for a first visit', '중세 골목과 코메디 광장 주변이라 명소와 카페, 바를 걸어서 다닙니다. 대학가라 밤에 시끄러울 수 있습니다.|Medieval lanes around Place de la Comédie, with the sights, cafés and bars on foot; a student hub, so it can be noisy at night.'),
+    a('앙티곤', 'Antigone', 'Antigone, Montpellier', '조용하고 넓은 거리|Calmer, wide streets', '웅장한 현대 건축 지구로 레즈강 변과 가깝습니다. 중심가에서 트램으로 몇 정거장입니다.|A grand modern district near the Lez riverbanks, a few tram stops from the centre.'),
+    a('포르 마리안', 'Port Marianne', 'Port Marianne, Montpellier', '현대적인 동네·공원|Modern, with parks', '새로 지은 지구라 공원과 산책·자전거 길이 많고 관광객이 적습니다.|The newest district, with parks and walking and cycling paths, and fewer tourists.'),
+  ],
+  avignon: [
+    a('성벽 안 구시가', 'Inside the walls (Intra Muros)', 'Palais des Papes, Avignon', '처음 가는 여행에 추천|Best for a first visit', '교황청과 시계 광장, 식당을 걸어서 다닙니다. 주차가 어렵고 7월 축제 때는 몇 달 전에 찹니다.|The Palais des Papes, Place de l’Horloge and restaurants on foot; parking is scarce and rooms fill months ahead for the July festival.'),
+    a('빌뇌브레자비뇽', 'Villeneuve-lès-Avignon', 'Villeneuve-lès-Avignon', '조용한 강 건너 마을|Quiet village across the river', '론강 건너 성채 마을로 아비뇽 전망이 좋습니다. 시내까지 버스나 차로 건너가야 합니다.|A fortified village across the Rhône with views of Avignon; take a bus or drive across to the city.'),
+  ],
+  annecy: [
+    a('구시가', 'Old Town (Vieille Ville)', 'Vieille Ville, Annecy', '처음 가는 여행에 추천|Best for a first visit', '운하와 골목, 시장과 식당이 모여 있어 걸어서 다닙니다. 관광객이 많고 비싸며 차가 거의 못 들어갑니다.|Canals, lanes, markets and restaurants on foot; touristy, pricey, and mostly closed to cars.'),
+    a('안시르비외', 'Annecy-le-Vieux', 'Annecy-le-Vieux', '가족 여행·호숫가|Families and the lake', '호수와 산이 보이는 조용한 주거지라 수영·자전거에 좋습니다. 구시가까지 조금 떨어져 있고 언덕이 있습니다.|Quiet residential streets with lake and mountain views, good for swimming and cycling; not central, and hilly in places.'),
+    a('호숫가 마을', 'Lakeside villages (Talloires, Sévrier)', 'Talloires', '조용한 호수 풍경|Quiet lake views', '탈루아르·세브리에 같은 호숫가 마을은 한적하고 경치가 좋습니다. 시내와 떨어져 있고 성수기에는 길이 막힙니다.|Villages such as Talloires and Sévrier are calm and scenic; away from town, with summer traffic jams.'),
+  ],
+  bath: [
+    a('시내 중심', 'City Centre', 'Bath city centre', '처음 가는 여행에 추천|Best for a first visit', '로마 목욕탕과 수도원, 기차역이 걸어서 가깝고 식당과 펍이 많습니다. 일부 거리는 밤에 시끄럽고 숙박비가 비쌉니다.|The Roman Baths, the Abbey and the station on foot, with pubs and restaurants; some streets are loud at night and rooms are pricey.'),
+    a('월콧', 'Walcot', 'Walcot, Bath', '개성 있는 가게와 식당|Independent shops and food', '독립 상점과 토요일 벼룩시장, 식당이 많은 동네로 중심가까지 걸어서 가깝습니다. 동네 안에 명소는 적습니다.|Independent shops, a Saturday flea market and good food, a short walk from the centre; few sights of its own.'),
+  ],
+  liverpool: [
+    a('시내 중심', 'City Centre', 'Liverpool city centre', '처음 가는 여행에 추천|Best for a first visit', '캐번 클럽 주변 비틀스 명소와 리버풀 원 쇼핑가, 라임 스트리트역이 가깝습니다. 밤에는 붐비고 시끄럽습니다.|The Cavern Quarter’s Beatles sights, Liverpool ONE and Lime Street station nearby; busy and loud at night.'),
+    a('앨버트 독·해안가', 'Royal Albert Dock & Waterfront', 'Royal Albert Dock, Liverpool', '가족 여행·박물관|Families and museums', '강변 부두에 박물관과 비틀스 스토리가 있고 시내 중심보다 조용합니다. 숙박비는 비싼 편입니다.|Riverside docks with museums and The Beatles Story, calmer than the centre; rooms come at a premium.'),
+  ],
+  brighton: [
+    a('해안가·시내 중심', 'Seafront & city centre', 'Brighton seafront', '처음 가는 여행에 추천|Best for a first visit', '해변과 피어, 로열 파빌리온, 기차역이 걸어서 가깝습니다. 활기차서 밤에 시끄러울 수 있습니다.|The beach, the pier, the Royal Pavilion and the station on foot; lively, so it can be noisy at night.'),
+    a('더 레인스', 'The Lanes', 'The Lanes, Brighton', '옛 골목과 쇼핑|Old lanes and shopping', '좁은 골목에 골동품점과 상점, 식당이 모인 옛 중심가입니다.|The old heart of town, narrow lanes of antique shops, boutiques and restaurants.'),
+    a('켐프타운', 'Kemptown', 'Kemptown, Brighton', '개성 있는 저녁 분위기|Quirky evenings out', '알록달록한 거리와 부티크 호텔, 펍이 많은 동네로 중심가까지 걸어갑니다. 늦게까지 시끄럽습니다.|Colourful streets with boutique hotels and pubs, walkable to the centre; lively into the early hours.'),
+    a('호브', 'Hove', 'Hove', '조용한 바닷가|Calmer seaside', '브라이턴 서쪽의 차분한 해안 동네로 자체 기차역이 있습니다. 밤 문화는 적습니다.|A calmer seaside area west of Brighton with its own station; little nightlife.'),
+  ],
+  bristol: [
+    a('하버사이드·올드 시티', 'Harbourside & Old City', 'Harbourside, Bristol', '처음 가는 여행에 추천|Best for a first visit', '박물관과 명소, 바와 식당을 걸어서 다니고 교통이 편합니다. 아주 조용하지는 않습니다.|Museums, sights, bars and restaurants on foot with easy transport; not especially quiet.'),
+    a('클리프턴', 'Clifton', 'Clifton, Bristol', '조용한 동네·가족 여행|Quieter, for families', '조지 왕조 건물과 카페, 현수교와 동물원이 있는 주거지입니다. 비싸고 밤 문화와 떨어져 있으며 큰 호텔이 적습니다.|Georgian streets, cafés, the Suspension Bridge and the zoo; pricey, away from the nightlife, with few big hotels.'),
+    a('스톡스 크로프트', 'Stokes Croft', 'Stokes Croft, Bristol', '거리 예술·저녁 분위기|Street art and nightlife', '거리 예술과 독립 카페, 바가 많고 비교적 저렴합니다. 밤에 시끄러워 조용한 여행에는 맞지 않습니다.|Street art, independent cafés and bars at lower prices; loud at night, not for a quiet break.'),
+  ],
+  belfast: [
+    a('시내 중심', 'City Centre', 'Belfast City Hall', '처음 가는 여행에 추천|Best for a first visit', '시청과 세인트 조지 시장, 쇼핑가를 걸어서 다니고 더블린행 기차역이 가깝습니다. 수요가 많아 비쌀 때가 있습니다.|City Hall, St George’s Market and the shops on foot, near the station for Dublin trains; demand can push prices up.'),
+    a('캐서드럴 쿼터', 'Cathedral Quarter', 'Cathedral Quarter, Belfast', '펍과 저녁 분위기|Pubs and evenings out', '자갈길에 펍과 식당, 벽화와 공연장이 모여 있습니다. 저렴한 숙소는 빨리 찹니다.|Cobbled streets of pubs, restaurants, murals and music venues; cheaper rooms sell out fast.'),
+    a('퀸스 쿼터', 'Queen’s Quarter', 'Queen’s Quarter, Belfast', '숙박비 절약|Cheaper', '대학가라 저렴한 숙소와 펍이 많고 식물원이 가깝습니다. 시청까지 걸어서 20분쯤입니다.|The university area, with cheaper rooms, pubs and the Botanic Gardens; about 20 minutes on foot to City Hall.'),
+  ],
+  chania: [
+    a('구시가·베네치아 항구', 'Old Town & Venetian Harbour', 'Old Town, Chania', '처음 가는 여행에 추천|Best for a first visit', '항구와 골목에 식당과 바가 모여 있어 차 없이 지내기 좋습니다. 방이 작고 엘리베이터가 없는 곳이 많으며 주차가 안 되고 바 근처는 시끄럽습니다.|Restaurants and bars around the harbour and lanes, easy without a car; rooms are small, many buildings lack lifts, there is no parking and bars can be noisy.'),
+    a('네아 호라', 'Nea Chora', 'Nea Chora, Chania', '해변|Beach', '구시가에서 걸어갈 수 있는 해변 동네라 바다 수영에 좋고, 차가 있으면 지내기 편합니다.|A beach area within walking distance of the old town, good for swimming and easier if you have a car.'),
+  ],
+  heraklion: [
+    a('구시가 (베네치아 성벽 안)', 'Old Town (inside the Venetian walls)', 'Lions Square, Heraklion', '차 없이 지내기 좋음|Best without a car', '볼거리와 식당, 바가 대부분 성벽 안에 있고 크노소스 유적도 가깝습니다. 북적이는 도시 분위기이고, 차가 있다면 주차 가능한지 확인해야 합니다.|Most sights, restaurants and bars are inside the walls, and Knossos is close; it feels like a busy city, and drivers should check for parking.'),
+  ],
+  rhodes: [
+    a('로도스 시내 (구시가·신시가)', 'Rhodes Town (Old & New Town)', 'Rhodes Old Town', '처음 가는 여행에 추천|Best for a first visit', '중세 구시가와 볼거리가 걸어서 가깝고 교통이 가장 편해 차 없이 지내기 좋습니다. 관광객이 많고 구시가는 돌길과 계단이 많으며 비싼 편입니다.|The medieval old town and sights on foot, with the best transport, so easy without a car; crowded, and the old town has cobbles, steps and higher prices.'),
+    a('린도스', 'Lindos', 'Lindos', '그림 같은 마을|Picture-postcard village', '언덕 위 성채와 해변이 있는 하얀 마을입니다. 시내에서 50km(1시간쯤) 떨어져 있고 여름에 매우 붐비며 계단이 많습니다.|A white village with a hilltop acropolis and beach; about 50 km (an hour) from town, very crowded in summer, with lots of steps.'),
+    a('팔리라키', 'Faliraki', 'Faliraki', '해변과 밤 문화|Beach and nightlife', '해변과 클럽, 바가 많은 휴양지입니다. 중심가는 밤에 시끄럽습니다.|A resort of beaches, clubs and bars; the centre is loud at night.'),
+  ],
+  corfu: [
+    a('코르푸 시내', 'Corfu Town', 'Corfu Old Town', '처음 가는 여행에 추천|Best for a first visit', '유네스코 구시가와 식당, 명소를 걸어서 다닙니다. 바로 앞에 모래 해변은 없습니다.|The UNESCO old town, restaurants and sights on foot; no sandy beach on the doorstep.'),
+    a('팔레오카스트리차', 'Paleokastritsa', 'Paleokastritsa', '해변과 풍경|Coves and scenery', '서해안의 맑은 만과 바다 동굴, 언덕 위 수도원이 있는 곳입니다.|West-coast coves, sea caves and a hilltop monastery.'),
+    a('카시오피', 'Kassiopi', 'Kassiopi', '조용한 항구 마을|Quiet harbour village', '북동쪽의 아담한 항구 마을로 잔잔한 해변과 식당이 있습니다. 다소 비싼 편입니다.|A compact north-east harbour village with calm beaches and restaurants; on the pricier side.'),
+  ],
+  mykonos: [
+    a('미코노스 타운 (호라)', 'Mykonos Town (Chora)', 'Mykonos Town', '처음 가는 여행에 추천|Best for a first visit', '리틀 베니스와 풍차, 상점과 밤 문화가 모여 있고 버스 터미널이 있습니다. 붐비고 시끄럽습니다.|Little Venice, the windmills, shops and nightlife, plus the bus terminal; crowded and noisy.'),
+    a('오르노스', 'Ornos', 'Ornos, Mykonos', '가족 여행·잔잔한 해변|Families, calm beach', '얕고 잔잔한 해변과 식당이 있습니다. 성수기에는 붐빕니다.|A shallow, calm beach with plenty of places to eat; crowded in peak season.'),
+    a('플라티스 얄로스', 'Platis Gialos', 'Platis Gialos, Mykonos', '해변·교통 편리|Beach with good buses', '해변 리조트와 수상 스포츠가 있고 대중교통이 좋습니다. 붐빌 수 있습니다.|Beach resorts and water sports with good public transport; can get busy.'),
+  ],
+  rotterdam: [
+    a('중심가', 'Centrum', 'Rotterdam Centrum', '처음 가는 여행에 추천|Best for a first visit', '마르크트할, 큐브 하우스, 박물관 공원과 중앙역을 걸어서 다닙니다. 번잡하고 숙박비가 비싼 편입니다.|The Markthal, the Cube Houses, Museumpark and Centraal station on foot; busy and often pricier.'),
+    a('코프 반 자위트', 'Kop van Zuid', 'Kop van Zuid, Rotterdam', '강변 전망·현대 건축|River views, modern architecture', '에라스뮈스 다리 건너 강변 지구로 스카이라인 전망이 좋고 조용합니다. 중심가까지 다리를 걷거나 지하철을 타야 하고 다소 삭막합니다.|Across the Erasmus Bridge, calm with skyline views; walk the bridge or take the metro to the centre, and it can feel impersonal.'),
+    a('델프스하븐', 'Delfshaven', 'Delfshaven, Rotterdam', '옛 운하 거리|Historic canals', '전쟁 폭격을 피한 옛 항구 마을로 운하와 카페가 있습니다. 호텔이 적고 중심가까지 트램으로 15분쯤입니다.|An old harbour that escaped the wartime bombing, with canals and cafés; few hotels, about 15 minutes by tram to the centre.'),
+  ],
+  'the-hague': [
+    a('중심가', 'City Centre (Centrum)', 'Binnenhof, The Hague', '처음 가는 여행에 추천|Best for a first visit', '비넨호프와 마우리츠하위스 미술관, 중앙역이 가까워 다른 도시 당일치기에도 편합니다.|Near the Binnenhof, the Mauritshuis and Central station, handy for day trips to other cities.'),
+    a('스헤베닝언', 'Scheveningen', 'Scheveningen', '해변|Beach', '시내 서쪽 몇 km의 해변 지구로 해산물 식당과 수상 스포츠가 있습니다. 구시가와는 트램으로 오갑니다.|The beach district a few kilometres west, with seafood and water sports; take the tram to the centre.'),
+  ],
+  utrecht: [
+    a('구시가', 'Old Town (Oudegracht & Dom)', 'Oudegracht, Utrecht', '처음 가는 여행에 추천|Best for a first visit', '운하와 돔 타워, 식당을 걸어서 다닙니다. 비싸고 주말에 붐빕니다.|The canals, the Dom Tower and restaurants on foot; pricier and crowded at weekends.'),
+    a('비테브라우언', 'Wittevrouwen', 'Wittevrouwen, Utrecht', '조용한 현지 분위기|Quiet, local feel', '구시가 동쪽의 조용한 주거지로 중심가까지 걸어서 15분쯤입니다. 호텔이 적습니다.|A calm residential area east of the old town, about 15 minutes on foot to the centre; few hotels.'),
+  ],
+  maastricht: [
+    a('구시가', 'Binnenstad', 'Vrijthof, Maastricht', '처음 가는 여행에 추천|Best for a first visit', '프레이트호프 광장과 마르크트 광장, 상점과 식당을 걸어서 다닙니다. 주말에 시끄럽고 비싼 편입니다.|Vrijthof, the Markt, shops and restaurants on foot; noisy at weekends and pricier.'),
+    a('바이크', 'Wyck', 'Wyck, Maastricht', '개성 있는 가게·기차역 근처|Boutiques, near the station', '마스강 동쪽으로 부티크와 카페, 식당이 많고 중앙역이 가깝습니다. 큰 호텔은 적습니다.|East of the Maas with boutiques, cafés and restaurants, near the main station; few large hotels.'),
+    a('예커 지구', 'Jekerkwartier', 'Jekerkwartier, Maastricht', '조용한 옛 동네|Quiet and historic', '옛 집과 녹지가 있는 조용한 동네로 중심가가 가깝습니다. 식당과 숙소가 적습니다.|Quiet streets of old houses and greenery close to the centre; fewer places to eat and stay.'),
+  ],
+  funchal: [
+    a('구시가·대성당 주변', 'Old Town & Sé', 'Zona Velha, Funchal', '처음 가는 여행에 추천|Best for a first visit', '시장과 카페, 식당이 가깝고 섬 투어 대부분이 이곳에서 출발합니다. 길이 가파르고 주차가 어려우며 해변은 없습니다.|Markets, cafés and restaurants nearby, and most island tours leave from here; steep streets, hard parking, no beach.'),
+    a('리도', 'Lido', 'Lido, Funchal', '수영장 있는 호텔·바다 수영|Pool hotels and sea swimming', '서쪽 해안의 호텔 지구로 바다 수영장과 산책로가 있습니다. 관광지 분위기가 강하고 구시가에서 몇 km 떨어져 있습니다.|The hotel strip on the west side with seawater pools and a promenade; very touristy and a few kilometres from the old town.'),
+  ],
+  coimbra: [
+    a('바이샤 (아랫동네)', 'Baixa (downtown)', 'Baixa, Coimbra', '처음 가는 여행에 추천|Best for a first visit', '평지라 걷기 편하고 식당·상점과 기차역(코임브라-A)이 가깝습니다. 거리가 다소 낡았고 조용하지는 않습니다.|Flat and walkable, with places to eat, shops and Coimbra-A station nearby; streets look worn and it is not very quiet.'),
+    a('알타 (윗동네)', 'Alta (upper town)', 'Alta, Coimbra', '대학가의 옛 분위기|Old university quarter', '대학과 소피아 거리가 있는 언덕 위 옛 시가지입니다. 가파르고 주차가 어려우며 학기 중에는 밤에 시끄러울 수 있습니다.|The hilltop old town around the university and Rua da Sofia; steep, hard to park, and can be noisy at night in term time.'),
+    a('산타 클라라', 'Santa Clara', 'Santa Clara, Coimbra', '조용한 강 건너편|Quiet across the river', '몬데구강 건너편이라 구시가 전망이 좋고 주차가 쉽습니다. 호텔이 적고 중심가와 떨어져 있습니다.|Across the Mondego with views of the old town and easier parking; fewer hotels and further from the centre.'),
+  ],
+  faro: [
+    a('구시가', 'Old Town (Cidade Velha)', 'Cidade Velha, Faro', '처음 가는 여행에 추천|Best for a first visit', '성벽 안 옛 시가지라 대성당과 성당들을 걸어서 다닙니다.|The walled old town, with the cathedral and churches on foot.'),
+    a('마리나 주변', 'Marina', 'Marina de Faro', '보트 투어·저녁 분위기|Boat trips and evenings out', '구시가 바로 옆 항구로 리아 포르모자 섬 투어 배가 떠나고 식당이 많습니다. 붐비는 편입니다.|The harbour next to the old town, where boats leave for the Ria Formosa islands, with plenty of restaurants; busy.'),
+    a('파루 해변', 'Faro Beach (Praia de Faro)', 'Praia de Faro', '해변 휴양|Beach stay', '섬의 모래 해변으로 다리로 이어집니다. 숙소가 적고 구시가까지 버스로 20분쯤입니다.|The sandy island beach, reached by a bridge; few places to stay, about 20 minutes by bus to the old town.'),
+  ],
+  brasov: [
+    a('구시가', 'Old Town', 'Piața Sfatului, Brașov', '처음 가는 여행에 추천|Best for a first visit', '흑색 교회와 시청 광장이 걸어서 가깝습니다. 가장 비싸고 성수기에 붐비며, 기차역은 북쪽으로 3km쯤 떨어져 있습니다.|The Black Church and Council Square on foot; the priciest area and busy in season, and the station is about 3 km north.'),
+  ],
+  zadar: [
+    a('구시가', 'Old Town', 'Old Town, Zadar', '처음 가는 여행에 추천|Best for a first visit', '로마 광장과 바다 오르간, 식당을 걸어서 다닙니다. 주말 밤에 시끄럽고 주차장이 있는 숙소가 드물며 저렴한 곳이 적습니다.|The Roman Forum, the Sea Organ and restaurants on foot; loud on weekend nights, few places with parking and few bargains.'),
+    a('보리크', 'Borik', 'Borik, Zadar', '가족 여행·모래 해변|Families, sandy beach', '크로아티아에서 드문 모래 해변과 리조트가 있습니다. 구시가에서 북쪽으로 4km쯤이고 여름에 붐빕니다.|A rare sandy beach for Croatia, with resorts; about 4 km north of the old town and busy in summer.'),
+  ],
+  hvar: [
+    a('흐바르 타운', 'Hvar Town', 'Hvar Town', '처음 가는 여행에 추천|Best for a first visit', '밤 문화가 활발하고 파클레니 섬 배편이 있어 차 없이 지내기 좋습니다. 여름에 가장 붐비고 비쌉니다.|Lively nightlife and boats to the Pakleni Islands, easy without a car; the busiest and priciest place in summer.'),
+    a('스타리 그라드', 'Stari Grad', 'Stari Grad, Hvar', '조용한 옛 항구|Quiet historic harbour', '유네스코 평원 옆의 조용한 옛 항구 마을입니다. 밤 문화가 적고 흐바르 타운까지는 버스로만 오갑니다.|A calm old harbour town by the UNESCO-listed plain; little nightlife, and only a bus to Hvar Town.'),
+    a('옐사', 'Jelsa', 'Jelsa, Hvar', '느긋한 항구 마을|Relaxed harbour town', '북쪽 해안의 항구 마을로 식당과 산책길이 있습니다. 흐바르 타운까지 차로 30분쯤이고 비수기에는 교통이 적습니다.|A north-coast harbour town with restaurants and a promenade; about 30 minutes’ drive from Hvar Town, with little transport off-season.'),
+  ],
+  izmir: [
+    a('알산자크', 'Alsancak', 'Alsancak, İzmir', '바닷가 산책로와 저녁 분위기|Seafront and evenings out', '코르돈 해안 산책로 옆으로 카페와 바, 상점이 많습니다.|Next to the Kordon seafront promenade, with cafés, bars and shops.'),
+    a('코나크', 'Konak', 'Konak, İzmir', '옛 시가지와 시장|Old town and bazaar', '시계탑 광장과 케메랄트 시장, 아고라 유적이 가깝습니다. 알산자크보다 전통적인 분위기입니다.|Near the clock tower square, the Kemeraltı bazaar and the Agora; more traditional than Alsancak.'),
+  ],
+  goreme: [
+    a('괴레메', 'Göreme', 'Göreme', '처음 가는 여행에 추천|Best for a first visit', '투어 출발지와 식당이 모여 있고 야외 박물관·계곡까지 걸어갑니다. 성수기에 가장 붐비고 비싸며 새벽 열기구 소리가 들립니다.|Tours, restaurants and walks to the Open Air Museum and valleys; busiest and priciest in season, with early balloon noise.'),
+    a('우치히사르', 'Uçhisar', 'Uçhisar', '조용한 전망|Quiet with views', '바위 성채 아래 마을로 계곡 전망과 일몰이 좋습니다. 언덕이 가파르고 식당이 적으며 비싼 편입니다.|A village below the rock castle with valley and sunset views; steep, with fewer restaurants and higher prices.'),
+    a('위르귑', 'Ürgüp', 'Ürgüp', '고급 호텔과 와인|Upscale hotels and wine', '큰 마을이라 고급 호텔과 식당, 와이너리가 있습니다. 열기구 전망과 일부 명소는 차로 이동해야 합니다.|A proper town with upscale hotels, restaurants and wineries; balloon views and some sights need transport.'),
+  ],
+  skopje: [
+    a('시내 중심', 'City Centre (Macedonia Square)', 'Macedonia Square, Skopje', '처음 가는 여행에 추천|Best for a first visit', '마케도니아 광장과 돌다리, 강변 산책로, 구 바자르까지 걸어서 다닙니다. 관광객이 많아 일찍 예약하는 편이 좋습니다.|Macedonia Square, the Stone Bridge, the river promenade and the Old Bazaar on foot; busy, so book early.'),
+  ],
+  ohrid: [
+    a('구시가 (바로시)', 'Old Town (Varosh)', 'Varosh, Ohrid', '옛 골목과 호수 전망|Old lanes and lake views', '성채와 성 요한 카네오 교회까지 걸어가는 언덕 위 옛 동네입니다. 길이 가파르고 차가 들어가기 어려우며 성수기에 붐빕니다.|The hillside old quarter, walking distance to the fortress and St John at Kaneo; steep, hard for cars and busy in peak season.'),
+    a('시내 중심', 'Centre (New Town)', 'Ohrid centre', '평지·식당과 교통|Flat, food and transport', '상점과 식당, 버스가 가까운 평지입니다. 옛 분위기는 덜하고 여름에는 시끄러울 수 있습니다.|Flat streets near shops, restaurants and buses; less historic charm, and noisy in summer.'),
+    a('라가딘', 'Lagadin', 'Lagadin', '호숫가 휴양·가족 여행|Lakeside resorts, families', '시내 남쪽 8km쯤의 호숫가로 수영장 있는 리조트가 많습니다. 시내까지 차나 버스를 타야 하고 식당이 적습니다.|About 8 km south on the lake, with resort hotels and pools; take a car or bus to town, and few places to eat.'),
+  ],
+  plovdiv: [
+    a('구시가', 'Old Town', 'Old Town, Plovdiv', '처음 가는 여행에 추천|Best for a first visit', '로마 유적과 19세기 저택, 자갈길을 걸어서 둘러봅니다. 다른 곳보다 비쌉니다.|Roman ruins, 19th-century mansions and cobbled streets on foot; pricier than elsewhere.'),
+    a('카파나', 'Kapana', 'Kapana, Plovdiv', '카페와 저녁 분위기|Cafés and evenings out', '예술가 골목에 카페와 갤러리, 바가 모여 있고 중심 거리에서 몇 분입니다.|The artists’ quarter of cafés, galleries and bars, a few minutes from the main street.'),
+  ],
+  'luxembourg-city': [
+    a('빌오트 (구시가)', 'Ville Haute (Old Town)', 'Ville Haute, Luxembourg', '처음 가는 여행에 추천|Best for a first visit', '유네스코 옛 시가지라 명소를 걸어서 다닙니다. 대부분 보행자 거리이고 비탈이 있으며 비쌉니다.|The UNESCO-listed old town with the sights on foot; mostly pedestrian, hilly in places and pricey.'),
+    a('가르 (역 주변)', 'Gare (station area)', 'Luxembourg Gare', '기차·가성비|Trains and value', '중앙역 주변이라 당일치기와 교통이 편하고 호텔값이 비교적 괜찮습니다. 구시가까지 걸어서 20분쯤이고 소매치기를 조심해야 합니다.|Around the main station, handy for day trips with better-value hotels; about 20 minutes on foot to the old town, and watch for pickpockets.'),
+  ],
+  galway: [
+    a('시내 중심·라틴 쿼터', 'City Centre & Latin Quarter', 'Latin Quarter, Galway', '처음 가는 여행에 추천|Best for a first visit', '펍과 음악, 식당이 모여 있고 에어 광장과 역이 가깝습니다. 늘 붐비고 숙소가 빨리 찹니다.|Pubs, live music and restaurants, near Eyre Square and the stations; always busy, and rooms sell out.'),
+    a('솔트힐', 'Salthill', 'Salthill, Galway', '바닷가·가족 여행|Seaside, families', '골웨이만의 해변 산책로가 있는 조용한 동네입니다. 시내까지 걸어서 20분쯤이고 여름에 붐빕니다.|A calmer seaside area with a promenade on Galway Bay; about 20 minutes’ walk to town and busy in summer.'),
+  ],
+  cork: [
+    a('시내 중심', 'City Centre', 'St Patrick’s Street, Cork', '처음 가는 여행에 추천|Best for a first visit', '명소와 식당, 펍을 걸어서 다닙니다. 가장 번잡한 곳입니다.|The sights, restaurants and pubs on foot; the busiest part of town.'),
+    a('빅토리안 쿼터', 'Victorian Quarter', 'Victorian Quarter, Cork', '기차역 근처·저녁 분위기|Near the station, lively', '강 북쪽의 알록달록한 동네로 켄트역과 버스 정류장이 가깝고 호스텔이 있습니다.|A colourful area on the north bank near Kent station and the buses, with hostels.'),
+  ],
+  tromso: [
+    a('항구·시내 중심', 'Harbour & town centre', 'Tromsø harbour', '처음 가는 여행에 추천|Best for a first visit', '작은 도심이라 상점과 식당, 오로라·고래 투어 집결지를 걸어서 다닙니다. 항구 쪽은 가장 비싸고, 도시 불빛 때문에 오로라는 투어로 나가서 보는 편이 낫습니다.|A compact centre with shops, restaurants and tour pick-ups on foot; the harbour is the priciest, and city lights mean auroras are better seen on a tour.'),
+  ],
+  malmo: [
+    a('구시가 (감라 스타덴)', 'Gamla Staden (Old Town)', 'Gamla Staden, Malmö', '처음 가는 여행에 추천|Best for a first visit', '광장과 명소, 식당을 걸어서 다니고 중앙역이 가깝습니다. 중심 광장 주변은 붐빕니다.|The squares, sights and restaurants on foot, near the central station; the main square is busy.'),
+    a('베스트라 함넨', 'Västra Hamnen (Western Harbour)', 'Västra Hamnen, Malmö', '바닷가 현대 지구|Modern waterfront', '공원과 바다 수영장이 있는 새 지구로 조용합니다. 구시가까지 걸어서 30분쯤이고 옛 분위기는 없습니다.|A new district with parks and sea swimming, calm and residential; about 30 minutes’ walk to the old town, with no historic feel.'),
+  ],
+  aarhus: [
+    a('시내 중심', 'City Centre (Aarhus C)', 'Aarhus C', '처음 가는 여행에 추천|Best for a first visit', '명소와 상점, 기차역을 걸어서 다니고 호텔이 가장 많습니다. 주차비가 비쌉니다.|The sights, shops and station on foot, with the most hotels; parking is expensive.'),
+    a('라틴 지구', 'Latin Quarter', 'Latinerkvarteret, Aarhus', '카페와 옛 골목|Cafés and old streets', '가장 오래된 동네로 카페와 식당, 바가 많아 활기찹니다.|The oldest part of town, lively with cafés, restaurants and bars.'),
+  ],
+  lausanne: [
+    a('중심가·구시가', 'Centre & Old Town (La Cité)', 'La Cité, Lausanne', '처음 가는 여행에 추천|Best for a first visit', '대성당과 박물관, 옛 골목과 카페를 걸어서 다닙니다. 가파른 언덕이라 오르막이 많습니다.|The cathedral, museums, old lanes and cafés on foot; it sits on a steep hill, so expect climbing.'),
+    a('우시', 'Ouchy', 'Ouchy, Lausanne', '호숫가 휴식|Lakeside', '레만호 변의 공원과 올림픽 박물관이 있는 동네입니다. 구시가까지는 지하철로 올라갑니다.|Lakeside parks and the Olympic Museum by Lake Geneva; take the metro up to the old town.'),
+  ],
+  'cinque-terre': [
+    a('몬테로소 알 마레', 'Monterosso al Mare', 'Monterosso al Mare', '해변·짐 많을 때|Beach, easier with luggage', '다섯 마을 중 가장 크고 모래 해변과 숙소, 교통편이 가장 많습니다. 성수기에 붐빕니다.|The largest village, with a sandy beach and the most rooms and transport; crowded in peak season.'),
+    a('베르나차', 'Vernazza', 'Vernazza', '그림 같은 항구|Picture-perfect harbour', '다섯 마을 가운데쯤이라 사진·하이킹 거점으로 좋습니다. 숙소가 적고 비쌉니다.|Central among the villages, a good base for photos and hikes; few rooms and higher prices.'),
+    a('마나롤라', 'Manarola', 'Manarola', '노을과 산책|Sunsets and walks', '노을 전망과 바다 수영, 하이킹 출발점으로 인기입니다. 숙소가 적고 차가 들어가지 못합니다.|Popular for sunsets, sea swimming and hikes; few rooms and no car access.'),
+    a('라스페치아', 'La Spezia', 'La Spezia', '숙박비 절약·교통 거점|Cheaper, transport hub', '항구 도시라 숙소가 많고 리오마조레까지 기차로 10분이 안 됩니다. 마을 분위기는 없고 매번 기차나 배를 타야 합니다.|A port city with plenty of rooms, under ten minutes by train to Riomaggiore; no village feel, and you ride the train or boat every day.'),
+  ],
+  como: [
+    a('코모 시내', 'Como town', 'Como centro', '기차 접근·숙박비 절약|Trains and lower prices', '밀라노에서 기차로 오기 쉽고 식당과 밤 문화가 있습니다. 호수 남쪽 끝이라 벨라조 등 주요 명소까지 배로 1~2시간 걸립니다.|Easy by train from Milan, with restaurants and nightlife; at the southern tip, so Bellagio and the main sights are one to two hours by boat.'),
+    a('벨라조', 'Bellagio', 'Bellagio', '처음 가는 호수 여행|Classic first visit', '호수 한가운데라 배로 다른 마을에 가기 좋습니다. 작고 언덕이 많아 빨리 차며 최소 숙박일이 있는 곳이 많습니다.|In the middle of the lake for easy ferries; small and hilly, fills up fast, and many hotels have minimum stays.'),
+    a('바렌나', 'Varenna', 'Varenna', '조용하고 로맨틱|Quiet and romantic', '작은 마을이라 한적하고 기차역이 있습니다. 호텔이 매우 적습니다.|A small, peaceful village with a train station; very few hotels.'),
+  ],
+  siena: [
+    a('성벽 안 역사 지구', 'Historic centre (inside the walls)', 'Piazza del Campo, Siena', '처음 가는 여행에 추천|Best for a first visit', '캄포 광장과 대성당을 걸어서 다니고 아침·저녁이 한적합니다. 낮에는 붐비고 차량 통행 제한(ZTL)이 있으며 비싸고 빨리 찹니다.|Piazza del Campo and the cathedral on foot, with quiet mornings and evenings; crowded by day, inside the ZTL, pricier and books up fast.'),
+    a('성벽 밖 역 주변', 'Outside the walls, near the station', 'Siena railway station', '주차·기차·가성비|Parking, trains and value', '숙소가 넓고 저렴하며 주차가 쉽고 기차역이 가깝습니다. 구시가까지 걸어서 15~20분이거나 에스컬레이터로 올라갑니다.|Roomier, cheaper places with easier parking, near the station; 15–20 minutes on foot or the escalators up to the old town.'),
+  ],
+  pisa: [
+    a('산타 마리아 (역사 지구)', 'Santa Maria (historic centre)', 'Piazza dei Miracoli, Pisa', '처음 가는 여행에 추천|Best for a first visit', '사탑과 대성당, 세례당이 가깝습니다. 관광객이 많고 가장 비쌉니다.|Near the Leaning Tower, the cathedral and the baptistery; touristy and the priciest area.'),
+    a('산 프란체스코', 'San Francesco', 'San Francesco, Pisa', '대학가·저녁 분위기|University area, evenings', '교회와 광장, 바가 많은 대학가로 사탑까지 걸어서 10분쯤입니다.|A university quarter of churches, squares and bars, about ten minutes on foot to the tower.'),
+    a('산탄토니오', 'Sant’Antonio', 'Sant’Antonio, Pisa', '기차역·공항 근처|Near the station and airport', '아르노강 남쪽이라 중앙역과 공항이 가까워 당일치기에 좋습니다. 사탑까지 걸어서 20분쯤입니다.|South of the Arno, close to the main station and airport for day trips; about 20 minutes’ walk to the tower.'),
+  ],
+  taormina: [
+    a('역사 지구', 'Historic centre', 'Corso Umberto, Taormina', '처음 가는 여행에 추천|Best for a first visit', '움베르토 거리와 그리스 극장, 카페를 걸어서 다닙니다. 호텔보다 B&B가 많고 가장 비쌉니다.|Corso Umberto, the Greek theatre and cafés on foot; more B&Bs than hotels, and the priciest area.'),
+    a('마차로 만', 'Mazzarò Bay', 'Mazzarò, Taormina', '해변과 바다 전망|Beach and sea views', '언덕 아래 해변 지구로 케이블카를 타면 시내까지 몇 분입니다.|The beach area below town, minutes from the centre by cable car.'),
+    a('자르디니 낙소스', 'Giardini Naxos', 'Giardini Naxos', '해변·숙박비 절약|Beach, lower prices', '남쪽의 해변 마을로 숙소가 저렴하고 에트나 여행에도 좋습니다. 타오르미나까지 차로 15~20분입니다.|A beach town to the south with cheaper rooms, also good for Etna; 15–20 minutes’ drive to Taormina.'),
+  ],
+  matera: [
+    a('사씨 (동굴 지구)', 'The Sassi (cave districts)', 'Sassi di Matera', '동굴 호텔의 특별한 하룻밤|A night in a cave', '당일치기 손님이 떠난 저녁과 아침의 골목이 특히 좋습니다. 계단이 많고 차량 진입이 금지돼 위쪽에 주차해야 합니다(호텔이 짐을 옮겨 주기도 합니다).|The lanes are best in the evening and morning after the day-trippers leave; lots of steps, and no driving, so park above (some hotels ferry your bags).'),
+    a('신시가', 'Modern town', 'Piazza Vittorio Veneto, Matera', '짐·차가 있을 때 편리|Easier with a car or luggage', '평지라 주차와 짐, 기차역 이용이 쉽고 사씨까지 걸어서 가깝습니다. 동굴 마을 분위기는 덜합니다.|Flat, with easier parking, luggage and station access, a short walk from the Sassi; less of the cave-town magic.'),
+  ],
+  capri: [
+    a('카프리 타운', 'Capri Town', 'Piazzetta, Capri', '처음 가는 여행에 추천|Best for a first visit', '호텔과 상점, 식당이 가장 많고 활기찹니다. 성수기 피아체타 광장은 매우 붐비고, 해변까지는 가파른 계단이나 버스를 타야 합니다.|The most hotels, shops and restaurants, and lively; the Piazzetta is packed in peak season, and the beaches are down steep steps or a bus ride.'),
+    a('아나카프리', 'Anacapri', 'Anacapri', '조용하고 가성비 좋음|Quieter, better value', '관광객이 적고 숙박비가 비교적 저렴하며 솔라로산 등산로가 가깝습니다. 카프리 타운까지는 버스나 택시를 탑니다.|Fewer crowds and better prices, near the Monte Solaro trails; take a bus or taxi to Capri Town.'),
+    a('마리나 그란데', 'Marina Grande', 'Marina Grande, Capri', '배편·짐 많을 때 편리|Ferries and luggage', '여객선 항구라 짧은 일정이나 보트 투어에 편합니다. 낮에는 붐비고 언덕 위 숙소는 짐 들고 오르기 힘듭니다.|The ferry port, handy for short stays and boat tours; crowded by day, and hillside places mean a climb with bags.'),
+  ],
+  lucca: [
+    a('성벽 안 역사 지구', 'Historic centre (inside the walls)', 'Centro Storico, Lucca', '처음 가는 여행에 추천|Best for a first visit', '명소를 모두 걸어서 다닙니다. 비싼 편이고 밤에는 시끄러울 수 있으며, 루카 코믹스 축제 기간에는 일찍 예약해야 합니다.|All the sights on foot; pricier and can be noisy at night, and book early for Lucca Comics & Games.'),
+  ],
+  positano: [
+    a('중심가 (스피아자 그란데 주변)', 'Central Positano (near Spiaggia Grande)', 'Spiaggia Grande, Positano', '처음 가는 여행에 추천|Best for a first visit', '상점과 식당이 가장 많고 여객선이 해변 바로 앞에 닿습니다. 성수기에 붐비고 가장 비싸며 계단이 많습니다.|The most shops and restaurants, with ferries docking at the beach; crowded, the priciest, and full of stairs.'),
+    a('포르닐로', 'Fornillo', 'Fornillo, Positano', '조용하고 비교적 저렴|Quieter, a bit cheaper', '중심가 서쪽의 한적한 동네로 해변까지 경치 좋은 길을 걷습니다. 언덕이 많아 셔틀버스를 타지 않으면 오르막을 걸어야 합니다.|A calmer area west of the centre with a scenic walk to the beach; hilly, so it’s uphill unless you take the shuttle bus.'),
+  ],
+  bolzano: [
+    a('구시가', 'Old Town', 'Piazza Walther, Bolzano', '처음 가는 여행에 추천|Best for a first visit', '발터 광장과 대성당, 박물관, 상점을 걸어서 다니고 크리스마스 마켓도 이곳에서 열립니다.|Piazza Walther, the cathedral, museums and shops on foot, with the Christmas market here too.'),
+  ],
+  brno: [
+    a('구시가', 'Old Town', 'Náměstí Svobody, Brno', '처음 가는 여행에 추천|Best for a first visit', '슈필베르크 성과 광장, 카페와 식당을 걸어서 다닙니다. 돌니 광장 주변은 늦은 밤 시끄러울 수 있습니다.|Špilberk Castle, the squares, cafés and restaurants on foot; the bars around Dolní náměstí can be rowdy late at night.'),
+  ],
+  sibiu: [
+    a('역사 지구 (윗마을·아랫마을)', 'Historic centre (Upper & Lower Town)', 'Piața Mare, Sibiu', '처음 가는 여행에 추천|Best for a first visit', '대광장과 소광장, 거짓말쟁이 다리, 루터교 대성당을 걸어서 다닙니다. 밤에도 조용하지 않은 편이고 숙박비가 비쌉니다.|The Large and Small Squares, the Bridge of Lies and the Lutheran cathedral on foot; rarely quiet even at night, and pricier.'),
+  ],
+  oxford: [
+    a('시내 중심', 'City Centre', 'Oxford city centre', '처음 가는 여행에 추천|Best for a first visit', '애슈몰린 박물관과 보들리 도서관, 대학 칼리지를 걸어서 다닙니다. 가장 붐비는 곳입니다.|The Ashmolean, the Bodleian and the colleges on foot; the busiest part of town.'),
+    a('제리코', 'Jericho', 'Jericho, Oxford', '식당과 저녁 분위기|Food and evenings out', '중심가 북서쪽의 동네로 식당과 칵테일 바, 펍이 많습니다.|North-west of the centre, full of restaurants, cocktail bars and pubs.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {
