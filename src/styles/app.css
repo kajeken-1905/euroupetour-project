@@ -3641,3 +3641,38 @@ a.plan-btn {
   font-weight: 700;
   line-height: 1.8;
 }
+
+/* Where to stay: one neighbourhood per row. */
+.stay-list {
+  margin: 0 0 8px;
+  padding: 0;
+  list-style: none;
+}
+
+.stay-area + .stay-area {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.stay-name {
+  margin: 0;
+  font-weight: 800;
+}
+
+.stay-tag {
+  margin-left: 6px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(31, 157, 85, 0.12);
+  color: #1f7a45;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.stay-note {
+  margin: 4px 0;
+  font-size: 14px;
+  line-height: 1.55;
+}
+

@@ -7,6 +7,7 @@ import { PlaceCard } from '../components/PlaceCard'
 import { HighlightCard } from '../components/HighlightCard'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { TransitCityPanel } from '../components/TransitPanel'
+import { StayPanel } from '../components/StayPanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityTransit } from '../data/transit-city'
@@ -130,6 +131,8 @@ function CityView() {
       </div>
 
       <FootballClubsPanel cityId={city.id} />
+
+      <StayPanel cityId={city.id} />
 
       {transit ? (
         <TransitCityPanel {...transit} hubs={getCityHubs(city.id)} cityName={city.name.en} />
