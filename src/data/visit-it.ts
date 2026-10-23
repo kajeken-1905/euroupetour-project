@@ -75,7 +75,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'cinque-terre-h5': v(45, 60, { n: '역에서 마을까지 계단 약 380개를 오르거나 셔틀버스를 탑니다.|From the station it is about 380 steps up, or take the shuttle bus.' }),
   'cinque-terre-h6': v(120, 300, { s: 'https://www.parconazionale5terre.it/Eindex.php', n: '해안 탐방로를 걸으려면 친퀘테레 카드가 필요하고, 산사태나 악천후로 구간이 자주 닫힙니다.|The coastal path needs a Cinque Terre Card, and sections often close for landslides or bad weather.' }),
   // Venice
-  'venice-h1': v(60, 120, { s: 'https://www.basilicasanmarco.it/?lang=en', t: 'https://cda.ve.it/en/', n: '봄·여름 성수기 지정일에는 당일치기 방문객이 베네치아 입장료를 미리 내야 합니다(티켓 구매 주소 참고). 산 마르코 대성당은 예약하면 줄을 서지 않습니다.|On designated peak days in spring and summer day-trippers must pre-pay the Venice access fee (see the ticket link). Booking St Mark’s Basilica skips the queue.' }),
+  'venice-h1': v(60, 120, { s: 'https://www.basilicasanmarco.it/?lang=en', t: 'https://cda.ve.it/en/', n: '봄·여름 성수기 지정일에는 당일치기 방문객이 베네치아 입장료를 미리 내야 합니다(티켓 구매 주소 참고). 산 마르코 대성당은 예약하면 줄을 서지 않습니다.|On designated peak days in spring and summer day-trippers must pre-pay the Venice access fee (see the ticket link). Booking St Mark’s Basilica skips the queue.', x: [['2027년에는 입장료를 내는 날이 72일로 늘어 3월 26일(성금요일)부터 8월 중순까지입니다. 금액은 아직 확정 전이니 공식 사이트에서 확인하세요.|In 2027 the fee applies on 72 days, from Good Friday (26 March) to mid-August; the amount is not yet final, so check the official site.', '2027-03-25']] }),
   'venice-h2': v(15, 20),
   'venice-h3': v(40, 60, { n: '수상버스 1번이 대운하 전 구간을 지납니다.|Vaporetto line 1 runs the full length of the canal.' }),
   'venice-h4': v(120, 180, { c: 'daily', b: 'rec', s: 'https://palazzoducale.visitmuve.it/en/', k: '2026-10' }),
