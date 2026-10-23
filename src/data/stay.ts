@@ -752,6 +752,109 @@ export const STAY: Record<string, StayArea[]> = {
     a('시내 중심', 'City Centre', 'Oxford city centre', '처음 가는 여행에 추천|Best for a first visit', '애슈몰린 박물관과 보들리 도서관, 대학 칼리지를 걸어서 다닙니다. 가장 붐비는 곳입니다.|The Ashmolean, the Bodleian and the colleges on foot; the busiest part of town.'),
     a('제리코', 'Jericho', 'Jericho, Oxford', '식당과 저녁 분위기|Food and evenings out', '중심가 북서쪽의 동네로 식당과 칵테일 바, 펍이 많습니다.|North-west of the centre, full of restaurants, cocktail bars and pubs.'),
   ],
+  york: [
+    a('시내 중심', 'City Centre', 'York city centre', '처음 가는 여행에 추천|Best for a first visit', '요크 민스터와 섐블스를 걸어서 다닙니다. 성수기에 매우 붐비고 좋은 숙소가 먼저 찹니다.|York Minster and the Shambles on foot; very busy in peak season, and the good hotels sell out first.'),
+    a('미클게이트', 'Micklegate', 'Micklegate, York', '펍과 식당|Pubs and food', '강 가까이에 카페와 식당, 펍이 모여 있습니다. 밤에는 시끄러울 수 있습니다.|Cafés, restaurants and pubs near the river; can be noisy at night.'),
+  ],
+  cambridge: [
+    a('시내 중심', 'City Centre', 'Cambridge city centre', '처음 가는 여행에 추천|Best for a first visit', '대학 칼리지와 마켓 광장, 강변(백스)을 걸어서 다니고 숙소 가격대가 다양합니다.|The colleges, Market Square and the Backs on foot, with hotels at every price.'),
+    a('롬지·밀 로드', 'Romsey & Mill Road', 'Mill Road, Cambridge', '식당과 개성 있는 가게|Food and independent shops', '다양한 식당과 독립 상점, 펍이 늘어선 동네입니다. 중심가에서 조금 떨어져 버스를 타기도 합니다.|A street of varied restaurants, independent shops and pubs; a little out of the centre, so you may take the bus.'),
+  ],
+  cardiff: [
+    a('시내 중심', 'City Centre', 'Cardiff Castle', '처음 가는 여행에 추천|Best for a first visit', '카디프 성과 국립 박물관, 중앙역이 가깝고 호텔이 가장 많습니다. 역 주변은 밤에 시끄럽고 주차가 비쌉니다.|Cardiff Castle, the National Museum and Central station nearby, with the most hotels; the station area is loud at night and parking is costly.'),
+    a('카디프 베이', 'Cardiff Bay', 'Cardiff Bay', '바닷가 식당과 공연장|Waterfront dining and venues', '옛 부두를 새로 꾸민 바닷가 지구로 식당과 밀레니엄 센터가 있습니다. 시내까지 택시로 10분쯤입니다.|The redeveloped docks with restaurants and the Millennium Centre; about ten minutes by taxi to the centre.'),
+    a('리버사이드', 'Riverside', 'Riverside, Cardiff', '조용하고 비교적 저렴|Quieter and cheaper', '폰트카나 공원 옆으로 카페가 있고 숙소가 비교적 저렴합니다. 중심가까지 걷거나 택시를 탑니다.|Next to Pontcanna Fields with cafés and cheaper stays; walk or take a taxi to the centre.'),
+  ],
+  inverness: [
+    a('시내 중심', 'City Centre', 'Inverness city centre', '차 없이 지내기 좋음|Best without a car', '성과 박물관, 식당을 걸어서 다니고 숙소가 가장 많습니다. 가장 비싸고 저렴한 곳이 드뭅니다.|The castle, museums and restaurants on foot, with the most places to stay; the priciest area with few bargains.'),
+  ],
+  'isle-of-skye': [
+    a('포트리', 'Portree', 'Portree', '처음 가는 여행에 추천|Best for a first visit', '섬에서 가장 큰 마을이라 숙소와 식당이 가장 많고 버스와 투어가 출발합니다. 마을 자체의 볼거리는 적습니다.|The island’s largest town, with the most rooms and restaurants, and buses and tours leave from here; few sights of its own.'),
+    a('브로드퍼드', 'Broadford', 'Broadford, Skye', '스카이 다리 근처|Near the Skye Bridge', '두 번째로 큰 마을로 섬에서 가장 큰 슈퍼마켓과 식당이 있고 버스가 다닙니다.|The second-largest village, with the island’s biggest supermarket, places to eat and buses.'),
+  ],
+  sintra: [
+    a('역사 지구', 'Historic town centre', 'Sintra centro histórico', '차 없이 지내기 좋음|Best without a car', '궁전과 정원까지 걸어가거나 버스를 타기 좋고 기념품점과 과자 가게가 모여 있습니다. 여름에는 숙소가 빨리 찹니다.|Walk or bus to the palaces and gardens, with shops and pastry places around; rooms fill fast in summer.'),
+  ],
+  lagos: [
+    a('구시가·마리나', 'Old Town & Marina', 'Lagos Old Town', '처음 가는 여행에 추천|Best for a first visit', '성벽 안 구시가와 항구라 식당과 밤 문화, 보트 투어 출발지가 가깝고 기차역도 걸어갑니다. 숙소가 단순하고 주차가 어려우며 해변까지 15~20분 걸어야 합니다.|The walled old town and harbour, close to restaurants, nightlife, boat trips and the station; simple rooms, little parking, and a 15–20-minute walk to the beaches.'),
+    a('메이아 프라이아', 'Meia Praia', 'Meia Praia, Lagos', '가족 여행·긴 모래 해변|Families, long sandy beach', '6km 가까이 되는 평평한 해변에 리조트와 수상 스포츠가 있습니다. 구시가와 떨어진 곳이 많아 택시나 버스를 탑니다.|Nearly 6 km of flat sand with resorts and water sports; many places are far from the old town, so take a taxi or bus.'),
+    a('포르투 드 모스', 'Praia de Porto de Mós', 'Praia de Porto de Mós', '절벽 해변과 노을|Cliffs and sunsets', '절벽으로 둘러싸인 넓은 해변에 중고급 리조트가 있습니다. 구시가까지 언덕길로 30분이라 택시를 타게 됩니다.|A wide cliff-backed beach with mid- to upper-range resorts; a hilly half-hour walk to the old town, so expect taxis.'),
+  ],
+  toledo: [
+    a('구시가 (카스코 이스토리코)', 'Old Town (Casco Histórico)', 'Plaza de Zocodover, Toledo', '하룻밤 묵을 때 추천|Best for an overnight stay', '대성당과 알카사르, 유대인 지구, 소코도베르 광장을 걸어서 다닙니다. 당일치기 손님이 떠난 저녁이 좋지만 숙소 수요가 많습니다.|The cathedral, the Alcázar, the Jewish quarter and Plaza de Zocodover on foot; lovely in the evening after the day-trippers leave, but rooms are in demand.'),
+  ],
+  braga: [
+    a('역사 지구', 'Historic centre', 'Praça da República, Braga', '처음 가는 여행에 추천|Best for a first visit', '걷기 좋은 도시라 대성당과 박물관, 상점과 식당을 대부분 걸어서 다닙니다.|A walkable city: the cathedral, museums, shops and restaurants are mostly on foot.'),
+  ],
+  interlaken: [
+    a('인터라켄 서역 주변 (시내)', 'Interlaken West (town centre)', 'Interlaken West', '식당·상점이 많은 시내|Town centre, restaurants and shops', '회에베크 산책로 주변에 호텔과 식당, 액티비티 업체가 모여 있습니다. 가장 붐비고, 그린델발트·라우터브루넨행 기차는 동역에서 갈아타야 합니다.|Hotels, restaurants and activity operators around the Höheweg; the busiest part, and trains to Grindelwald and Lauterbrunnen leave from Ost.'),
+    a('인터라켄 동역 주변', 'Interlaken Ost', 'Interlaken Ost', '융프라우 기차 여행에 편리|Best for Jungfrau trains', '융프라우요흐·그린델발트·라우터브루넨행 산악 열차가 출발하고 브리엔츠 호숫가가 조용합니다. 걸어갈 수 있는 식당은 적습니다.|Mountain trains to the Jungfraujoch, Grindelwald and Lauterbrunnen leave here, by the quiet Lake Brienz shore; fewer restaurants within walking distance.'),
+  ],
+  zermatt: [
+    a('체르마트 마을 중심', 'Village centre (Bahnhofstrasse)', 'Bahnhofstrasse, Zermatt', '처음 가는 여행에 추천|Best for a first visit', '역과 식당, 상점, 리프트가 걸어서 가까운 차 없는 마을입니다. 가장 비싸고 거리 쪽 방은 시끄러울 수 있습니다.|The car-free village with the station, restaurants, shops and lifts on foot; the priciest area, and street-side rooms can be noisy.'),
+    a('태슈', 'Täsch', 'Täsch', '숙박비 절약·차를 두는 곳|Cheaper, where you leave the car', '차로 갈 수 있는 마지막 마을로 숙박비가 훨씬 쌉니다. 체르마트까지 매번 셔틀 열차(약 11분)를 타야 합니다.|The last village you can drive to, with much lower prices; take the shuttle train (about 11 minutes) into Zermatt each time.'),
+  ],
+  rovaniemi: [
+    a('시내 중심', 'City Centre', 'Rovaniemi city centre', '처음 가는 여행에 추천|Best for a first visit', '식당과 바, 볼거리를 걸어서 다니고 투어 픽업이 편하며 숙소가 비교적 저렴합니다. 도시 불빛 때문에 오로라는 잘 안 보입니다.|Restaurants, bars and sights on foot, easy tour pick-ups and better prices; city lights make auroras harder to see.'),
+    a('산타클로스 마을', 'Santa Claus Village', 'Santa Claus Village, Rovaniemi', '아이와 함께하는 여행|Families with children', '산타 마을 안이라 크리스마스 분위기와 체험을 바로 즐깁니다. 상업적이고 식당이 적으며 시내와 떨어져 있습니다.|Right in the Christmas village for the festive activities; commercial, few restaurants and away from town.'),
+    a('오우나스바라', 'Ounasvaara', 'Ounasvaara, Rovaniemi', '자연·오로라|Nature and auroras', '시내에서 3km쯤 떨어진 언덕으로 빛 공해가 적고 스키·하이킹 길이 있습니다. 차가 없으면 외지고 식당이 적습니다.|A hill about 3 km from the centre with less light pollution and ski and hiking trails; secluded without a car and few restaurants.'),
+  ],
+  chamonix: [
+    a('샤모니 시내', 'Town centre', 'Chamonix centre', '처음 가는 여행에 추천|Best for a first visit', '식당과 바, 상점이 모여 있고 리프트와 투어가 가깝습니다. 밤에 거리 소음이 있고 주차가 어렵고 비쌉니다.|Restaurants, bars and shops close to the lifts and tours; street noise at night, and parking is hard and expensive.'),
+    a('레 우슈', 'Les Houches', 'Les Houches', '가족 여행·가성비|Families, better value', '자체 스키장이 있는 조용한 마을로 숙박비가 낮고 무료 주차가 많습니다. 주요 명소까지 이동이 길고 밤에는 조용합니다.|A calm village with its own ski area, lower prices and free parking; longer trips to the main sights, and quiet nights.'),
+  ],
+  meteora: [
+    a('칼람바카', 'Kalambaka', 'Kalambaka', '기차역·숙소와 식당이 많음|Station, more hotels and food', '더 큰 마을이라 숙소와 식당이 많고 기차역이 가깝습니다. 수도원과는 조금 멀고 바위 전망이 일부만 보입니다.|The larger town, with more hotels and restaurants near the station; a bit further from the monasteries, with only partial views of the rocks.'),
+    a('카스트라키', 'Kastraki', 'Kastraki', '바위 바로 아래 옛 마을|Old village below the rocks', '수도원과 바위에 가장 가까운 조용한 마을이라 일출 전망이 좋습니다. 숙소가 적고 역에서 차로 5~10분입니다.|The quiet village closest to the rocks and monasteries, with better sunrise views; fewer hotels and 5–10 minutes’ drive from the station.'),
+  ],
+  naxos: [
+    a('낙소스 타운 (호라)', 'Naxos Town (Chora)', 'Naxos Chora', '차 없이 지내기 좋음|Best without a car', '항구와 식당, 시장이 모여 있고 버스가 출발합니다. 6~9월에는 시끄럽습니다.|The port, tavernas and markets, and the bus hub; noisy from June to September.'),
+    a('아기오스 게오르기오스 해변', 'Agios Georgios beach', 'Agios Georgios beach, Naxos', '해변과 시내를 함께|Beach next to town', '호라 바로 옆의 긴 모래 해변이라 시내를 걸어서 오갑니다.|A long sandy beach right beside Chora, walking distance to town.'),
+    a('아기오스 프로코피오스·아기아 안나', 'Agios Prokopios & Agia Anna', 'Agios Prokopios, Naxos', '가족 여행·가성비|Families and value', '해변 숙소가 비교적 저렴하고 성수기에는 호라행 버스가 자주 다닙니다. 비수기에는 버스가 줄어듭니다.|Cheaper beach stays with frequent buses to Chora in season; fewer buses off-season.'),
+  ],
+  budva: [
+    a('구시가', 'Old Town', 'Stari Grad, Budva', '처음 가는 여행에 추천|Best for a first visit', '성벽과 요새, 교회가 있는 옛 시가지로 부티크 호텔과 호스텔이 있습니다.|The walled old town with the citadel and churches, with boutique hotels and hostels.'),
+    a('해변 산책로', 'Budva Promenade', 'Slovenska plaža, Budva', '밤 문화와 해변|Nightlife and beaches', '바다 쪽 산책로에 바와 식당, 마리나와 해변이 모여 있습니다. 밤늦게까지 붐빕니다.|Seafront bars, restaurants, the marina and beaches; busy late into the night.'),
+    a('베치치', 'Bečići', 'Bečići', '조용한 해변·가족 여행|Quieter beach, families', '시내 바로 밖의 해변 동네로 비교적 한적합니다.|A beach area just outside town, calmer than the centre.'),
+  ],
+  zakynthos: [
+    a('칠리비', 'Tsilivi', 'Tsilivi', '가족·커플 모두 무난|All-rounder for families and couples', '얕고 잔잔한 모래 해변에 식당과 상점이 있습니다. 섬 곳곳을 보려면 렌터카가 필요합니다.|A shallow, calm sandy beach with restaurants and shops; hire a car to explore the island.'),
+    a('라가나스', 'Laganas', 'Laganas', '밤 문화|Nightlife', '섬에서 가장 긴 해변과 클럽 거리가 있습니다. 밤에 시끄러워 아이 동반 가족에게는 맞지 않습니다.|The island’s longest beach and the party strip; loud at night, not for families with small children.'),
+    a('바실리코스', 'Vasilikos', 'Vasilikos, Zakynthos', '가장 아름다운 해변|The prettiest beaches', '손대지 않은 자연과 아름다운 해변이 있습니다. 대중교통이 거의 없어 렌터카가 필수이고 리조트가 비싼 편입니다.|Unspoilt nature and beautiful beaches; almost no public transport, so a car is essential, and resorts cost more.'),
+    a('자킨토스 타운', 'Zakynthos Town', 'Zakynthos Town', '식당·버스 거점|Food and the bus hub', '섬의 중심 도시로 식당과 박물관, 버스 터미널이 있습니다. 시내 해변은 수영에 좋지 않습니다.|The capital, with tavernas, museums and the bus station; the town beach isn’t good for swimming.'),
+  ],
+  gozo: [
+    a('빅토리아 (라바트)', 'Victoria (Rabat)', 'Victoria, Gozo', '차 없이 지내기 좋음|Best without a car', '섬 한가운데라 버스가 모이고 식당과 상점이 가장 많습니다. 바다가 보이지 않고 해변이 없습니다.|The centre of the island where the buses meet, with the most restaurants and shops; no sea views or beach.'),
+    a('마르살포른', 'Marsalforn', 'Marsalforn', '바닷가 휴양|Seaside resort', '잔잔한 만과 해변 산책로, 식당이 있습니다. 해안 대부분이 바위이고 여름에는 붐비고 시끄럽습니다.|A sheltered bay with a promenade and places to eat; mostly rocky shore, busy and noisy in summer.'),
+    a('슐렌디', 'Xlendi', 'Xlendi', '절벽 만·수영과 다이빙|Cliff bay for swimming and diving', '절벽 사이의 만이라 수영과 스노클링, 노을이 좋습니다. 상점이 적고 해변은 바위입니다.|A bay between cliffs for swimming, snorkelling and sunsets; few shops, and the shore is rocky.'),
+  ],
+  paphos: [
+    a('카토 파포스 (항구 주변)', 'Kato Paphos (harbour)', 'Kato Paphos', '차 없이 지내기 좋음|Best without a car', '식당과 항구, 해변, 고고학 공원(유네스코)을 걸어서 다닙니다. 여름에는 붐비고 활기찹니다.|Restaurants, the harbour, beaches and the UNESCO archaeological park on foot; busy and lively in summer.'),
+  ],
+  'cesky-krumlov': [
+    a('구시가 (성 쪽·광장 쪽)', 'Old Town (castle side & square side)', 'Český Krumlov historic centre', '하룻밤 묵을 때 추천|Best for an overnight stay', '성과 성 비투스 성당, 광장을 걸어서 다니고 강 건너 성 전망이 좋습니다. 고급 게스트하우스가 많아 저렴한 곳이 드물고 차로 들어가기 어렵습니다.|The castle, St Vitus Church and the square on foot, with river views of the castle; mostly upmarket guesthouses with few bargains, and hard to reach by car.'),
+  ],
+  biarritz: [
+    a('그랑드 플라주', 'Grande Plage', 'Grande Plage, Biarritz', '처음 가는 여행에 추천|Best for a first visit', '중심 해변과 카지노, 상점과 식당이 가깝습니다. 여름에는 매우 붐비고 시끄럽습니다.|Next to the main beach, the casino, shops and restaurants; very crowded and noisy in summer.'),
+    a('레알·포르 비외', 'Les Halles & Port Vieux', 'Les Halles, Biarritz', '시장과 저녁 분위기|Market and evenings out', '시장과 옛 어항, 작은 해변이 있는 중심가로 바가 많습니다. 밤에는 활기찹니다.|The market hall, the old fishing port and a small beach, with plenty of bars; lively at night.'),
+    a('코트 데 바스크·비비 보리바주', 'Côte des Basques & Bibi-Beaurivage', 'Côte des Basques, Biarritz', '서핑·조용한 동네|Surfing, quieter streets', '서핑 해변 위의 조용한 주거지로 카페와 서핑 학교가 있습니다. 언덕이라 시내에서 돌아올 때 오르막입니다.|Quiet streets above the surf beach with cafés and surf schools; on a hill, so it’s uphill back from town.'),
+  ],
+  cannes: [
+    a('라 크루아제트', 'La Croisette', 'La Croisette, Cannes', '해변·밤 문화·고급 호텔|Beaches, nightlife, luxury', '해변과 영화제 궁전, 고급 호텔과 상점이 늘어선 해안 대로입니다. 비싸고 붐비며 해변은 대부분 유료입니다.|The seafront boulevard of beaches, the Palais des Festivals, luxury hotels and shops; expensive, crowded, and most beaches charge for loungers.'),
+    a('르 쉬케 (구시가)', 'Le Suquet (Old Town)', 'Le Suquet, Cannes', '옛 골목과 전망|Old lanes and views', '언덕 위 옛 동네로 구항구 전망이 좋고 비교적 저렴합니다. 길이 가파르고 호텔이 적으며 해변과 조금 멉니다.|The hilltop old quarter with views over the Old Port and lower prices; steep lanes, few hotels and further from the beaches.'),
+    a('시내 중심', 'Centre-Ville', 'Cannes centre', '기차역·쇼핑 편리|Station and shopping', '기차역과 상점, 시장이 가깝습니다. 번잡하고 바다 앞 호텔은 없습니다.|Near the station, shops and market; busy, with no beachfront hotels.'),
+  ],
+  rouen: [
+    a('구시가 (대성당 주변)', 'Old town (around the cathedral)', 'Cathédrale de Rouen', '처음 가는 여행에 추천|Best for a first visit', '대성당과 대시계, 구시장 광장이 걸어서 가까운 보행자 중심 구역입니다. 차로 들어가기와 주차가 어렵고 시끄러울 수 있습니다.|A largely pedestrian area with the cathedral, the Gros-Horloge and Place du Vieux-Marché on foot; hard to drive and park, and can be noisy.'),
+  ],
+  reims: [
+    a('대성당 주변 (시내 중심)', 'Centre-Ville (near the cathedral)', 'Cathédrale Notre-Dame de Reims', '처음 가는 여행에 추천|Best for a first visit', '대성당과 상점, 식당, 기차역을 걸어서 다닙니다. 가장 붐비는 곳입니다.|The cathedral, shops, restaurants and the station on foot; the busiest area.'),
+    a('샴페인 시골 마을', 'Champagne countryside', 'Montagne de Reims', '포도밭과 샴페인 하우스|Vineyards and Champagne houses', '포도밭 전망과 작은 양조장을 즐기며 조용히 지냅니다. 차가 필요하고 마을 식당은 일찍 닫습니다.|Vineyard views and small producers in calm villages; you need a car, and village restaurants close early.'),
+  ],
+  ajaccio: [
+    a('시내 중심·구시가', 'Centre & old town', 'Place Foch, Ajaccio', '처음 가는 여행에 추천|Best for a first visit', '포슈 광장과 항구, 옛 골목, 박물관과 식당을 걸어서 다닙니다. 여름(특히 크루즈 입항일)에 붐비고 주차가 어렵습니다.|Place Foch, the port, the old lanes, museums and restaurants on foot; crowded in summer (especially cruise days), and parking is hard.'),
+    a('포르티치오', 'Porticcio', 'Porticcio', '모래 해변·조용한 휴양|Sandy beach, quieter', '만 건너편의 넓은 모래 해변 마을로 주차가 쉽고 아작시오행 배가 다닙니다. 차로 45분쯤 걸리고 옛 분위기는 없습니다.|A broad sandy beach across the bay with easy parking and a boat to Ajaccio; about 45 minutes by road, and little old-town character.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {
