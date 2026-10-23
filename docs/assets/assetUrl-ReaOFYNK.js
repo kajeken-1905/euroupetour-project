@@ -1,0 +1,1 @@
+function e(e){return!e||/^https?:\/\//i.test(e)||e.startsWith(`data:`)?e:`/euroupetour-project/${e.startsWith(`/`)?e.slice(1):e}`}export{e as t};
