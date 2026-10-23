@@ -7,6 +7,9 @@ import { getPlacesByCity } from '../data/countryData'
 import { t } from '../i18n/ui'
 import { setPlan, useTrip, type PlanDay } from '../trip/store'
 import { closures, dayMinutes, hours, jump } from './ItineraryPanel'
+import { ShareButtons } from './ShareButtons'
+import { shareUrl } from '../trip/share'
+import { planText } from '../trip/shareText'
 
 /** Move a stop up or down; at the edge of a day it crosses into the neighbouring day. */
 function moveStop(days: PlanDay[], d: number, i: number, dir: -1 | 1): PlanDay[] {
@@ -178,6 +181,11 @@ export function MyPlanPanel({ city }: { city: City }) {
             </button>
           )}
         </div>
+        <ShareButtons
+          title={t('sharePlanHeading', lang).replace('{city}', city.name[lang]).replace('{n}', String(days.length))}
+          text={planText(city, days, lang)}
+          url={shareUrl({ kind: 'plan', cityId: city.id, days })}
+        />
         <p className="itinerary-note">{t('planNote', lang)}</p>
       </div>
     </section>

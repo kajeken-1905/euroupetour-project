@@ -3632,3 +3632,12 @@ a.plan-btn {
   fill: transparent;
   stroke: none;
 }
+
+/* A route someone shared: numbered cities in a row. */
+.tour-shared {
+  margin: 0 0 12px;
+  padding-left: 22px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.8;
+}

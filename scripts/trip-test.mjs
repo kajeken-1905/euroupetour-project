@@ -125,6 +125,43 @@ try {
   report.importedVisits = await evaluate(`localStorage.getItem('mvp-visited-places-v1')`)
   await go('/city/paris')
   report.stampAfterImport = await evaluate(`document.querySelectorAll('.visit-stamp, .stamp, [class*=stamp]').length`)
+  // Sharing: the copied text carries a link; opening it elsewhere shows the plan and can take it in.
+  await evaluate(`localStorage.setItem('my-trip-v1', JSON.stringify({ highlights: [], places: [], route: ['paris', 'lyon', 'nice'], beenHighlights: [], beenPlaces: [],
+    plans: { paris: [{ title: { ko: '첫날', en: 'Day one' }, stops: ['paris-h1', 'paris-h3', 'paris-fine_dining-1'] }, { stops: ['paris-h2'] }] } }))`)
+  await go('/city/paris')
+  const copied = async () => evaluate(`(async () => {
+    let text = ''
+    Object.defineProperty(navigator, 'clipboard', { configurable: true, value: { writeText: async (t) => { text = t } } })
+    ;[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('텍스트 복사')).click()
+    await new Promise(r => setTimeout(r, 200))
+    return text
+  })()`)
+  const planShare = await copied()
+  report.shareText = planShare.split('\n').slice(0, 5).join(' / ')
+  const planLink = planShare.match(/https?:\/\/\S+\/share#\S+/)?.[0]
+  report.shareLinkLength = planLink?.length
+  await evaluate(`localStorage.setItem('my-trip-v1', JSON.stringify({ highlights: [], places: [], route: [], plans: {}, beenHighlights: [], beenPlaces: [] }))`)
+  await send('Page.navigate', { url: planLink }); await sleep(3000)
+  report.sharedPlanView = await evaluate(`[...document.querySelectorAll('.itinerary-day')].map(d => d.textContent.slice(0, 60)).join(' | ')`)
+  await evaluate(`[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('가져오기')).click()`)
+  await sleep(1500)
+  report.sharedPlanTaken = await evaluate(`JSON.stringify(JSON.parse(localStorage.getItem('my-trip-v1')).plans.paris)`)
+  report.afterTakeUrl = await evaluate(`location.pathname`)
+  // Route link, then a broken link.
+  await evaluate(`localStorage.setItem('my-trip-v1', JSON.stringify({ highlights: [], places: [], plans: {}, beenHighlights: [], beenPlaces: [], route: ['paris', 'lyon', 'nice'] }))`)
+  await go('/'); await sleep(1500)
+  const routeShare = await copied()
+  report.routeText = routeShare.split('\n').slice(0, 2).join(' / ')
+  await evaluate(`localStorage.setItem('my-trip-v1', JSON.stringify({ highlights: [], places: [], plans: {}, beenHighlights: [], beenPlaces: [], route: ['rome'] }))`)
+  await send('Page.navigate', { url: routeShare.match(/https?:\/\/\S+\/share#\S+/)[0] }); await sleep(2500)
+  await shot('8-shared-route')
+  await evaluate(`[...document.querySelectorAll('.plan-btn')].find(b => b.textContent.includes('가져오기')).click()`)
+  await sleep(200)
+  report.routeConfirm = await evaluate(`document.querySelector('.plan-btn-danger')?.textContent ?? ''`)
+  await evaluate(`document.querySelector('.plan-btn-danger').click()`)
+  await sleep(1500)
+  report.routeTaken = await evaluate(`JSON.parse(localStorage.getItem('my-trip-v1')).route.join(',')`)
+  await go('/share#garbage'); report.brokenLink = await evaluate(`document.querySelector('.empty-state')?.textContent ?? ''`)
 } finally {
   console.log(JSON.stringify(report, null, 1))
   ws.close()

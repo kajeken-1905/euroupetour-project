@@ -7,6 +7,9 @@ import { t } from '../i18n/ui'
 import { setRoute, useTrip } from '../trip/store'
 import type { City, CityRoute, Lang } from '../types'
 import { search } from '../utils/search'
+import { shareUrl } from '../trip/share'
+import { routeText } from '../trip/shareText'
+import { ShareButtons } from './ShareButtons'
 import { duration, MODE_ICON } from './RoutesPanel'
 
 function LegLine({ route, lang, label }: { route: CityRoute; lang: Lang; label?: string }) {
@@ -192,6 +195,13 @@ export function TourPanel() {
               .replace('{m}', String(known))
               .replace('{time}', duration(minutes, lang))}
           </p>
+        ) : null}
+        {stops.length > 1 ? (
+          <ShareButtons
+            title={t('shareRouteHeading', lang).replace('{n}', String(stops.length))}
+            text={routeText(stops, lang)}
+            url={shareUrl({ kind: 'route', route: ids })}
+          />
         ) : null}
 
         <input
