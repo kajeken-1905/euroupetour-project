@@ -265,6 +265,62 @@ export const STAY: Record<string, StayArea[]> = {
     a('슬리마', 'Sliema', 'Sliema, Malta', '가성비·편리함|Value and convenience', '현대식 호텔이 많고 발레타까지 페리로 10분쯤입니다.|Modern hotels, about ten minutes by ferry to Valletta.'),
     a('세인트 줄리언스', 'St Julian’s', 'St Julian’s, Malta', '밤 문화·리조트 호텔|Nightlife and resort hotels', '파체빌 유흥가와 대형 호텔이 있고 발레타까지 버스가 자주 다닙니다.|Paceville’s nightlife and big hotels, with frequent buses to Valletta.'),
   ],
+  geneva: [
+    a('파키', 'Pâquis', 'Pâquis, Geneva', '편리함과 가성비|Central and good value', '중앙역과 호수가 가깝고 호숫가 수영장(뱅 데 파키)이 있습니다. 호수에서 멀어진 골목은 밤에 조심하세요.|Near the station and the lake, with the Bains des Pâquis; take care in the back streets away from the lake at night.'),
+    a('구시가', 'Old Town', 'Old Town, Geneva', '처음 가는 여행·분위기|First visit and atmosphere', '생피에르 대성당 주변 옛 동네로 호텔이 적어 일찍 예약해야 합니다.|The old quarter around St Pierre Cathedral; few hotels, so book early.'),
+    a('오비브', 'Eaux-Vives', 'Eaux-Vives, Geneva', '조용함·가족 여행|Quieter, for families', '구시가와 호숫가 옆으로 큰 공원(파르크 드 라 그랑주)이 있습니다.|Beside the Old Town and the lake, with Parc La Grange.'),
+    a('플랭팔레', 'Plainpalais', 'Plainpalais, Geneva', '밤 문화·절약형|Nightlife and budget', '대학가라 활기차고 숙소가 비교적 저렴합니다.|The lively university area, with cheaper rooms.'),
+  ],
+  marseille: [
+    a('구항구 (비외 포르)', 'Vieux-Port', 'Vieux-Port, Marseille', '처음 가는 여행에 추천|Best for a first visit', '중심가라 교통이 좋고 경찰이 자주 다닙니다. 소매치기를 조심하세요.|The centre, with good transport and police about; watch for pickpockets.'),
+    a('르 파니에', 'Le Panier', 'Le Panier, Marseille', '옛 동네·먹거리|Old quarter and food', '구항구 위 가장 오래된 동네로 골목 식당이 많습니다.|The oldest quarter above the port, full of small places to eat.'),
+    a('쿠르 쥘리앵', 'Cours Julien', 'Cours Julien, Marseille', '밤 문화|Nightlife', '바와 식당이 모인 6구 동네로 밤늦게 시끄럽습니다.|Bars and restaurants in the 6th; noisy late at night.'),
+  ],
+  cologne: [
+    a('구시가 (알트슈타트)', 'Altstadt', 'Altstadt-Nord, Cologne', '처음 가는 여행에 추천|Best for a first visit', '대성당과 중앙역 옆이라 어디든 걸어서 갑니다.|By the cathedral and main station, with everything on foot.'),
+    a('벨기에 지구', 'Belgisches Viertel', 'Belgisches Viertel, Cologne', '밤 문화·쇼핑|Nightlife and shopping', '카페와 상점, 바가 많은 멋진 동네입니다.|Cafés, boutiques and bars.'),
+    a('도이츠', 'Deutz', 'Deutz, Cologne', '조용함·박람회|Quieter, near the trade fair', '라인강 건너편으로 박람회장 호텔이 많고 유흥가에서 떨어져 있습니다.|Across the Rhine by the trade-fair grounds, away from the nightlife.'),
+  ],
+  bucharest: [
+    a('칼레아 빅토리에이', 'Calea Victoriei / Universitate', 'Calea Victoriei, Bucharest', '처음 가는 여행에 추천|Best for a first visit', '좋은 호텔이 가장 많이 모인 중심 대로입니다.|The central avenue with the most good hotels.'),
+    a('구시가 (립스카니)', 'Old Town (Lipscani)', 'Lipscani, Bucharest', '분위기·밤 문화|Atmosphere and nightlife', '관광지가 가깝지만 새벽 3~4시까지 음악이 나와 시끄럽습니다.|Close to the sights but loud with music until 3–4 am.'),
+    a('피아차 로마나', 'Piața Romană', 'Piata Romana, Bucharest', '식당·젊은 분위기|Food and a young crowd', '카페와 식당이 많고 구시가까지 걸어서 10~15분입니다.|Cafés and restaurants, 10–15 minutes’ walk to the Old Town.'),
+    a('피아차 우니리', 'Piața Unirii', 'Piata Unirii, Bucharest', '교통·절약형|Transport and budget', '지하철 환승역이 있어 어디든 가기 쉽습니다.|The metro interchange makes everywhere easy to reach.'),
+  ],
+  sofia: [
+    a('중심가 (오보리슈테·세르디카)', 'City centre (Oborishte / Serdika)', 'Oborishte, Sofia', '처음 가는 여행에 추천|Best for a first visit', '알렉산더 넵스키 대성당 등 관광지를 거의 다 걸어서 갑니다. 교통량이 많습니다.|Nearly every sight, including Alexander Nevsky Cathedral, on foot; heavy traffic.'),
+    a('비토샤 거리 주변', 'Vitosha Boulevard', 'Vitosha Boulevard, Sofia', '쇼핑·편의시설|Shopping and amenities', '중심 보행자 거리라 편하지만 붐비고 시끄러울 때가 있습니다.|The main pedestrian street, handy but sometimes crowded and noisy.'),
+    a('로제네츠', 'Lozenets', 'Lozenets, Sofia', '조용한 고급 주거지|Leafy and upscale', '중심에서 조금 떨어진 푸른 동네입니다.|A green, calmer area a little out of the centre.'),
+  ],
+  belgrade: [
+    a('구시가 (스타리 그라드)', 'Stari Grad', 'Stari Grad, Belgrade', '처음 가는 여행에 추천|Best for a first visit', '칼레메그단 요새와 크네즈 미하일로바 거리를 걸어서 갑니다. 비싸고 붐빕니다.|Kalemegdan fortress and Knez Mihailova on foot; pricier and busier.'),
+    a('도르촐', 'Dorćol', 'Dorćol, Belgrade', '중심가지만 덜 관광지|Central, less touristy', '강 쪽으로 내려가는 조용한 주거지로 숙소가 비교적 저렴합니다.|Quieter residential blocks sloping to the river, and cheaper.'),
+    a('사바말라', 'Savamala', 'Savamala, Belgrade', '밤 문화|Nightlife', '강변 클럽이 새벽까지 열어 시끄럽습니다.|Riverboat clubs open until dawn; noisy.'),
+    a('제문', 'Zemun', 'Zemun, Belgrade', '조용한 옛 마을|Quiet old town', '오스트리아-헝가리 시절 동네로 한적합니다. 중심까지 버스·택시로 15~30분입니다.|Austro-Hungarian streets, calm; 15–30 minutes by bus or taxi to the centre.'),
+  ],
+  frankfurt: [
+    a('구시가 (알트슈타트)', 'Altstadt', 'Altstadt, Frankfurt', '짧은 여행·처음 가는 여행|Short and first visits', '관광지를 걸어서 다닙니다. 호텔이 적고 비싼 편입니다.|Sights on foot; few hotels, often expensive.'),
+    a('중앙역 지구', 'Bahnhofsviertel', 'Bahnhofsviertel, Frankfurt', '교통·가성비|Transport and value', '공항까지 기차로 15분이고 저가·중가 호텔이 많습니다. 분위기가 거친 편입니다.|Fifteen minutes by train to the airport, with plenty of budget and mid-range hotels; a bit edgy.'),
+    a('작센하우젠', 'Sachsenhausen', 'Sachsenhausen, Frankfurt', '사과주 주점·박물관 강변|Cider taverns and museums', '강 남쪽으로 사과주 주점과 박물관 강변이 있습니다.|South of the river, with apple-wine taverns and the museum embankment.'),
+    a('베스트엔트', 'Westend', 'Westend, Frankfurt', '조용하고 고급|Quiet and upscale', '빌라가 늘어선 주거지로 박람회장이 가깝습니다.|A villa district close to the trade-fair grounds.'),
+  ],
+  bratislava: [
+    a('구시가', 'Old Town (Staré Mesto)', 'Staré Mesto, Bratislava', '처음 가는 여행에 추천|Best for a first visit', '짧은 관광이라면 구시가가 가장 좋습니다. 아파트형 숙소도 많습니다.|Best for a short sightseeing trip; plenty of apartments too.'),
+    a('팔리사디', 'Palisády', 'Palisády, Bratislava', '조용한 중심가|Quieter, near the centre', '구시가 분위기에 관광 상점이 적고 정원과 공원이 있습니다.|Old Town feel without the tourist shops, with gardens and parks.'),
+  ],
+  yerevan: [
+    a('켄트론 (중심가)', 'Kentron', 'Kentron, Yerevan', '처음 가는 여행에 추천|Best for a first visit', '공화국 광장, 북쪽 거리, 캐스케이드를 걸어서 갑니다. 비싸고 주말에는 시끄럽습니다.|Republic Square, Northern Avenue and the Cascade on foot; pricier and noisy at weekends.'),
+    a('아랍키르', 'Arabkir', 'Arabkir, Yerevan', '조용한 주거지|Quiet and green', '중심 북쪽으로 공원이 많고 한적합니다.|North of the centre, with parks and quiet streets.'),
+  ],
+  baku: [
+    a('구시가 (이체리셰헤르)', 'Old City (İçərişəhər)', 'Icherisheher, Baku', '역사·걷기 좋음|History on foot', '성벽 안 옛 도시로 메이든 타워 등 유적을 걸어서 봅니다.|The walled old city, with the Maiden Tower and other sights on foot.'),
+    a('분수 광장·니자미 거리', 'Fountain Square / Nizami Street', 'Fountain Square, Baku', '쇼핑·교통|Shopping and the metro', '보행자 거리라 식당과 상점이 많고 지하철이 가깝습니다.|Pedestrian streets with shops, restaurants and the metro close by.'),
+  ],
+  kotor: [
+    a('구시가', 'Old Town', 'Kotor Old Town', '처음 가는 여행·차 없이|First visit, no car', '성벽 안 중세 도시입니다. 비싸고 여름 주말 밤에는 음악 소리가 큽니다.|The walled medieval town; pricier, and loud on summer weekend nights.'),
+    a('도브로타', 'Dobrota', 'Dobrota, Kotor', '가깝지만 조용함|Close but calmer', '구시가 북쪽 해안 마을로 작은 해변이 있고 해안길로 20~30분입니다.|North along the bay, with small beaches; 20–30 minutes on the coastal path.'),
+    a('무오', 'Muo', 'Muo, Kotor', '조용함·절약형|Quiet and cheaper', '만 건너편 마을로 밤에 조용하고 구시가까지 걸어서 갑니다.|Across the inlet, calm at night and walkable to the Old Town.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {

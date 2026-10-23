@@ -48,3 +48,14 @@ Checked October 2026.
 - ljubljana: xixerone.com/en/where-to-stay-in-ljubljana-best-areas-hotels · www.chasingthedonkey.com/slovenia-travel-blog/where-to-stay-in-ljubljana-hotels-in-ljubljana · www.22places.com/where-to-stay-in-ljubljana
 - split: www.hostelz.com/en/where-to-stay-in-split-for-the-first-time · www.chasingthedonkey.com/where-to-stay-in-split-accommodation · www.frankaboutcroatia.com/where-to-stay-in-split-croatia
 - valletta: www.jonnymelon.com/where-to-stay-in-valletta-malta · www.bigworldsmallpockets.com/places-to-stay-malta · www.guidememalta.com/en/valletta-sliema-or-the-north-where-should-you-stay-while-in-malta
+- geneva: www.jonnymelon.com/where-to-stay-in-geneva-switzerland · misstourist.com/where-to-stay-in-geneva-switzerland · xixerone.com/en/where-to-stay-in-geneva-best-areas
+- marseille: www.travellingking.com/where-to-stay-in-marseille · bounce.com/guides/marseille/where-to-stay-in-marseille · timeout.com/marseille/en/hotels/best-areas-to-stay-in-marseille
+- cologne: www.voyagetips.com/?p=114747 · misstourist.com/where-to-stay-in-cologne-germany · www.travellingking.com/where-to-stay-in-cologne
+- bucharest: misstourist.com/Where-to-stay-in-bucharest-romania-best-hotels · www.thebrokebackpacker.com/where-to-stay-in-bucharest-romania · loudavymkrokem.cz/en/where-stay-bucharest-romania
+- sofia: www.travellingking.com/where-to-stay-in-sofia · xixerone.com/en/best-areas-to-stay-in-sofia-bulgaria · misstourist.com/where-to-stay-in-sofia-bulgaria
+- belgrade: www.kupi.com/blog/which-belgrade-district-is-best-to-stay-in · tripwis.com/where-to-stay-in-belgrade · www.thebrokebackpacker.com/where-to-stay-in-belgrade-serbia
+- frankfurt: xixerone.com/en/the-best-areas-to-stay-in-frankfurt-germany · www.timeout.com/frankfurt/hotels/where-to-stay-in-frankfurt · www.thehotelguru.com/where-to-stay/frankfurt
+- bratislava: loudavymkrokem.cz/en/where-stay-bratislava-slovakia · www.davestravelpages.com/?p=10230 · www.travellingking.com/where-to-stay-in-bratislava
+- yerevan: kupi.com/en/blog/which-district-in-yerevan-is-best-to-stay-in · www.travellingking.com/where-to-stay-in-yerevan · thetourguy.com/travel-blog/armenia/yerevan/where-to-stay-in-yerevan-armenia-this-year
+- baku: thetourguy.com/travel-blog/where-to-stay-azerbaijan-baku-this-year · ae.trip.com/hotels/baku-hotels-list-650
+- kotor: www.weseektravel.com/where-to-stay-kotor-montenegro · taraohreilly.com/where-to-stay-in-kotor-best-areas-hotels · www.chasingthedonkey.com/Montenegro-Travel-Guide/Where-To-Stay-In-Kotor-Bay
