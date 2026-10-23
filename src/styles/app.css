@@ -3420,6 +3420,39 @@ a.plan-btn {
   margin-top: 26px;
 }
 
+.home-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0 4px;
+  padding: 14px 16px;
+  border: 1.5px solid transparent;
+  border-radius: 999px;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)) padding-box,
+    var(--kp-grad) border-box;
+  color: #6b6385;
+  font-size: 15px;
+  text-decoration: none;
+  box-shadow: 0 6px 20px rgba(139, 45, 255, 0.14);
+}
+
+.home-features {
+  margin: 0 0 12px;
+  padding-left: 18px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.home-features li + li {
+  margin-top: 4px;
+}
+
+.home-countries-link {
+  display: inline-block;
+  text-decoration: none;
+}
+
 .home-trip .trip-sections {
   padding: 0;
 }
