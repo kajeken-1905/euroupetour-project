@@ -150,6 +150,107 @@ export const FARES: Record<string, CityFares> = {
       tip('일반 교통권으로는 공항버스 100E를 탈 수 없습니다. 차내 카드 결제기나 BudapestGO 앱으로 사세요.', 'Ordinary tickets and travelcards are not valid on the 100E; buy its ticket on board by card or in the BudapestGO app.'),
     ],
   },
+  lisbon: {
+    checked: '2026-10',
+    source: 'https://www.metrolisboa.pt/en/wp-content/uploads/sites/3/2025/12/Tarifas_site_2026_UK-1.pdf',
+    rows: [
+      r('카리스·메트로 1회권 (1시간)', 'Carris/Metro single (1 hour)', '€1.90'),
+      r('자핑 충전 시 1회', 'Zapping (stored value), per ride', '€1.72'),
+      r('카리스·메트로 24시간권', 'Carris/Metro 24 hours', '€7.25'),
+      r('24시간권 + 근교 열차(CP)', '24 hours + CP trains', '€11.40'),
+    ],
+    tips: [
+      tip('나베간트 카드(€0.50)에 자핑으로 충전하면 1회권보다 쌉니다. 버스·트램에서 기사에게 사면 훨씬 비쌉니다.', 'Load Zapping credit on a Navegante card (€0.50) for the cheapest rides; tickets bought from the driver cost much more.'),
+    ],
+  },
+  athens: {
+    checked: '2026-10',
+    source: 'https://www.oasa.gr/en/tickets/prices-of-products/',
+    rows: [
+      r('90분권 (메트로·버스·트램)', '90-minute ticket (metro, bus, tram)', '€1.20'),
+      r('24시간권', '24-hour ticket', '€4.10'),
+      r('5일권', '5-day ticket', '€8.20'),
+      r('관광 3일권 (공항 왕복 포함)', '3-day tourist ticket (incl. airport return)', '€20.00'),
+      r('공항 메트로 편도 / 왕복', 'Airport metro single / return', '€9.00 / €16.00'),
+      r('공항버스 편도', 'Airport express bus single', '€5.50'),
+    ],
+    tips: [
+      tip('90분권과 24시간권으로는 공항 구간을 이용할 수 없습니다.', 'The 90-minute and 24-hour tickets do not cover the airport services.'),
+    ],
+  },
+  copenhagen: {
+    checked: '2026-10',
+    source: 'https://dinoffentligetransport.dk/media/wlfdfnbo/dot-takstblad-2026-a.pdf',
+    rows: [
+      r('1회권 2존 (1시간 15분)', 'Single, 2 zones (75 minutes)', '24 DKK'),
+      r('시티패스 스몰 24시간 (공항 포함 1~4존)', 'City Pass Small, 24 hours (zones 1–4 incl. airport)', '100 DKK'),
+    ],
+    tips: [
+      tip('공항은 3존이라 2존 표로는 갈 수 없습니다. 시티패스 스몰은 공항까지 포함합니다.', 'The airport is a 3-zone trip, so a 2-zone ticket is not enough; City Pass Small covers it.'),
+    ],
+  },
+  munich: {
+    checked: '2026-10',
+    source: 'https://www.mvv-muenchen.de/fileadmin/mediapool/downloads/tickets/preislisten/2026_A4_quer_MVVtarife_Tickets_Web.pdf',
+    rows: [
+      r('1회권 M존', 'Single, zone M', '€4.20'),
+      r('1일권 M존', 'Single day ticket, zone M', '€10.10'),
+      r('공항-시내 1일권', 'Airport-City-Day-Ticket', '€17.50'),
+    ],
+    tips: [
+      tip('공항은 5존이라 M존 표로는 갈 수 없습니다. 공항-시내 1일권은 다음 날 새벽 6시까지 유효합니다.', 'The airport is in zone 5, beyond zone M; the Airport-City-Day-Ticket is valid until 6 am the next day.'),
+    ],
+  },
+  milan: {
+    checked: '2026-10',
+    source: 'https://www.atm.it/it/ViaggiaConNoi/Documents/TARIFFE%20ATM.pdf',
+    rows: [
+      r('1회권 (90분, Mi1–Mi3)', 'Single (90 minutes, Mi1–Mi3)', '€2.20'),
+      r('10회권', '10-ride carnet', '€19.50'),
+      r('1일권 (24시간)', 'Day ticket (24 hours)', '€7.60'),
+      r('3일권', '3-day ticket', '€15.50'),
+    ],
+    tips: [
+      tip('말펜사 공항 급행열차는 시내 교통권과 별도입니다.', 'The Malpensa Express airport train is not covered by city tickets.'),
+    ],
+  },
+  dublin: {
+    checked: '2026-10',
+    source: 'https://about.leapcard.ie/about/fares-discounts',
+    rows: [
+      r('TFI 90분 요금 (립 카드)', 'TFI 90 Minute fare (Leap)', '€2.00'),
+      r('1존 하루 상한 (립 카드)', 'Zone 1 daily cap (Leap)', '€6.00'),
+      r('립 방문자 카드 1일 / 3일 / 7일', 'Leap Visitor Card 1 / 3 / 7 days', '€8 / €18 / €24'),
+    ],
+    tips: [
+      tip('방문자 카드는 더블린 버스·루아스·다트에서 쓸 수 있고, 처음 찍은 때부터 기간이 시작됩니다. 관광버스에는 안 됩니다.', 'The Visitor Card covers Dublin Bus, Luas and DART, timed from first use; not valid on tour buses.'),
+    ],
+  },
+  brussels: {
+    checked: '2026-10',
+    source: 'https://www.stib-mivb.be/home/client-support/fares-and-transport-tickets',
+    rows: [
+      r('STIB 1회권 (비접촉 카드)', 'STIB single (contactless)', '€2.40'),
+      r('비접촉 결제 하루 상한', 'Contactless daily cap', '€8.50'),
+      r('STIB 1일권', 'STIB 1-day ticket', '€9.00'),
+      r('공항 버스(12번) 1회 (비접촉 / 종이)', 'Airport line (bus 12), single (contactless / paper)', '€7.90 / €8.40'),
+    ],
+    tips: [
+      tip('비접촉 카드로 찍으면 하루 네 번째부터는 더 내지 않습니다. 종이표는 €0.50가 더 붙습니다.', 'Tapping a bank card caps the day at four rides; paper tickets cost €0.50 more.'),
+    ],
+  },
+  warsaw: {
+    checked: '2026-10',
+    source: 'https://www.wtp.waw.pl/en/ticket-tariff/',
+    rows: [
+      r('20분권', '20-minute ticket', '3.40 PLN'),
+      r('75분권 (1존)', '75-minute ticket (zone 1)', '4.40 PLN'),
+      r('24시간권 1존 / 1+2존', '24 hours, zone 1 / zones 1+2', '15 / 26 PLN'),
+    ],
+    tips: [
+      tip('75분권은 시간 안에 몇 번이든 갈아탈 수 있습니다. 표는 처음 탈 때 개시 기계에 찍으세요.', 'The 75-minute ticket allows unlimited changes within its time; validate it when you first board.'),
+    ],
+  },
 }
 
 export function getCityFares(cityId: string): CityFares | undefined {
