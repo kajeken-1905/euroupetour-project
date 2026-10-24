@@ -41,9 +41,11 @@ function offlinePlugin(): Plugin {
       writeFileSync(join(outDir, 'image-sizes.json'), JSON.stringify(sizes))
 
       const precache = [...PRECACHE_FILES, ...files(PRECACHE_DIRS).map(rel)].filter((path) => !path.endsWith('.DS_Store'))
-      const hash = createHash('sha256')
+      // The worker's own code counts too, so a fix to it alone still ships as a new version.
+      const template = readFileSync('src/offline/sw.template.js', 'utf8')
+      const hash = createHash('sha256').update(template)
       for (const path of precache) hash.update(path).update(readFileSync(join(outDir, path)))
-      const sw = readFileSync('src/offline/sw.template.js', 'utf8')
+      const sw = template
         .replace('__VERSION__', hash.digest('hex').slice(0, 12))
         .replace('__PRECACHE__', JSON.stringify(precache))
       writeFileSync(join(outDir, 'sw.js'), sw)
