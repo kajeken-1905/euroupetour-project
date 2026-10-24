@@ -22,6 +22,7 @@ import { ItineraryPanel } from '../components/ItineraryPanel'
 import { CityMap } from '../components/CityMap'
 import { PlannerPanel } from '../components/PlannerPanel'
 import { SeasonPanel } from '../components/SeasonPanel'
+import { ForecastPanel } from '../components/ForecastPanel'
 import { MyPlanPanel } from '../components/MyPlanPanel'
 import { FootballClubsPanel } from '../components/FootballPanel'
 import { t } from '../i18n/ui'
@@ -101,6 +102,7 @@ function CityView() {
         </div>
       </header>
 
+      <ForecastPanel city={city} />
       <SeasonPanel city={city} />
 
       <MyPlanPanel city={city} />

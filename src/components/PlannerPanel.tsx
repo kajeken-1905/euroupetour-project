@@ -8,6 +8,7 @@ import { buildPlan, WEEKDAYS } from '../trip/planner'
 import { setPlan, useTrip } from '../trip/store'
 import { DAYS } from './HighlightCard'
 import { hours, jump } from './ItineraryPanel'
+import { isoDate, useHolidays } from '../services/holidays'
 
 /** Minutes of sightseeing a day for each pace. */
 const PACES = [
@@ -58,6 +59,8 @@ export function PlannerPanel({ city }: { city: City }) {
   const hasTrips = suggested.some((d) => d.trip)
   const start = parseDate(date)
   const startWeekday = start ? (start.getDay() + 6) % 7 : undefined
+  // Public holidays on the chosen dates, when shops and museums may close.
+  const holidays = useHolidays(start ? city.countryId : undefined, start ? [start.getFullYear(), start.getFullYear() + 1] : [])
 
   const result = useMemo(
     () =>
@@ -104,6 +107,12 @@ export function PlannerPanel({ city }: { city: City }) {
       ko: `${d.getMonth() + 1}월 ${d.getDate()}일(${wd.ko})`,
       en: `${wd.en} ${d.getDate()} ${d.toLocaleString('en', { month: 'short' })}`,
     }
+  }
+  /** The holiday falling on the nth day, if any. */
+  const holidayOn = (n: number) => {
+    if (!start || !holidays) return undefined
+    const day = isoDate(new Date(start.getFullYear(), start.getMonth(), start.getDate() + n))
+    return holidays.find((h) => h.date === day)
   }
   const filled = result?.days.filter((d) => d.stops.length > 0) ?? []
   const hasPlan = city.id in trip.plans
@@ -198,9 +207,16 @@ export function PlannerPanel({ city }: { city: City }) {
                 ]
                   .filter(Boolean)
                   .join(' · ')
+                const holiday = holidayOn(i)
                 return (
                   <li key={i} className="itinerary-day">
                     <p className="itinerary-day-title">{heading}</p>
+                    {holiday ? (
+                      <p className="planner-holiday">
+                        🎌 {t('plannerHoliday', lang).replace('{name}', holiday.name)}
+                        {holiday.nationwide ? '' : ` (${t('holidaysRegional', lang)})`}
+                      </p>
+                    ) : null}
                     {day.stops.length === 0 ? (
                       <p className="itinerary-total">{t('plannerEmptyDay', lang)}</p>
                     ) : (

@@ -19,7 +19,20 @@ const TEXT_ROWS = [
   ['time', 'essTime'],
 ] as const
 
-export function EssentialsPanel({ essentials }: { essentials: CountryEssentials }) {
+/** Official pages for checking entry rules and the travel-advice level before a trip. */
+const EU_ENTRY = 'https://travel-europe.europa.eu/en/etias'
+const UK_ETA = 'https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta'
+const MOFA_ALERTS = 'https://www.0404.go.kr/travelAlert/apntStatus/stepTravelAlert'
+
+export function EssentialsPanel({
+  essentials,
+  countryId,
+  schengen,
+}: {
+  essentials: CountryEssentials
+  countryId: string
+  schengen: boolean
+}) {
   const { lang } = useLanguage()
   const { embassy } = essentials
 
@@ -76,7 +89,25 @@ export function EssentialsPanel({ essentials }: { essentials: CountryEssentials 
           {TEXT_ROWS.map(([key, label]) => (
             <div key={key}>
               <dt>{t(label, lang)}</dt>
-              <dd>{essentials[key][lang]}</dd>
+              <dd>
+                {essentials[key][lang]}
+                {key === 'entry' && (schengen || countryId === 'uk') ? (
+                  <>
+                    <br />
+                    <a href={schengen ? EU_ENTRY : UK_ETA} target="_blank" rel="noreferrer">
+                      {t(schengen ? 'essEntryEu' : 'essEntryUk', lang)} ↗
+                    </a>
+                  </>
+                ) : null}
+                {key === 'safety' ? (
+                  <>
+                    <br />
+                    <a href={MOFA_ALERTS} target="_blank" rel="noreferrer">
+                      {t('essTravelAlert', lang)} ↗
+                    </a>
+                  </>
+                ) : null}
+              </dd>
             </div>
           ))}
         </dl>

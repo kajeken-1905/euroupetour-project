@@ -3686,6 +3686,89 @@ a.plan-btn {
   line-height: 1.55;
 }
 
+/* Holidays */
+.fares-table.holidays-table td {
+  font-weight: 600;
+  text-align: left;
+  white-space: normal;
+}
+
+.holiday-local,
+.holiday-region {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.planner-holiday {
+  margin: 2px 0 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #b4231c;
+}
+
+/* 7-day forecast: one column per day, scrolls sideways on narrow phones. */
+.forecast-row {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(44px, 1fr));
+  gap: 4px;
+  margin: 0 0 8px;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+}
+
+.forecast-day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 6px 0;
+  border-radius: 10px;
+  background: rgba(127, 127, 127, 0.06);
+  font-size: 12px;
+}
+
+.forecast-name {
+  font-weight: 800;
+}
+
+.forecast-date,
+.forecast-low,
+.forecast-rain {
+  color: var(--muted);
+}
+
+.forecast-icon {
+  font-size: 20px;
+}
+
+.forecast-high {
+  font-weight: 800;
+  font-size: 14px;
+}
+
+/* Calendar export in a saved plan. */
+.plan-calendar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 8px;
+  margin: 10px 0 4px;
+}
+
+.plan-calendar-date {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.plan-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 /* Passes: one card per pass. */
 .pass-card + .pass-card {
   margin-top: 10px;

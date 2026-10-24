@@ -79,8 +79,8 @@ const WATER_OK = T('수돗물을 마실 수 있습니다.', 'Tap water is safe t
 const WATER_BOTTLED = T('수돗물은 양치·세안에는 괜찮지만 마실 물은 생수를 사는 편이 좋습니다.', 'Tap water is fine for washing, but buy bottled water for drinking.')
 
 const ENTRY_SCHENGEN = T(
-  '한국 여권은 솅겐 지역에 180일 중 90일까지 무비자로 머물 수 있습니다. 입국 때 출입국 시스템(EES)에 지문과 얼굴 사진을 등록합니다. 사전 여행 허가(ETIAS)는 아직 시행 전이며(2026년 10월 기준) 2026년 4분기 시행이 예고돼 있으니 출발 전에 확인하세요.',
-  'Korean passport holders can stay in the Schengen area visa-free for 90 days in any 180. Fingerprints and a photo are registered in the Entry/Exit System (EES) on arrival. The ETIAS travel authorisation is not yet in force (as of October 2026) but is due to start in the last quarter of 2026, so check before you travel.',
+  '한국 여권은 솅겐 지역에 180일 중 90일까지 무비자로 머물 수 있습니다. 입국 때 출입국 시스템(EES)에 지문과 얼굴 사진을 등록합니다. 사전 여행 허가(ETIAS)는 아직 시행 전입니다(2026년 10월 확인). EU는 2026년 4분기 시행을 예고했지만 정확한 날짜는 아직 발표하지 않았으니, 출발 전에 공식 안내를 확인하세요. ETIAS는 공식 사이트에서만 신청하세요.',
+  'Korean passport holders can stay in the Schengen area visa-free for 90 days in any 180. Fingerprints and a photo are registered in the Entry/Exit System (EES) on arrival. The ETIAS travel authorisation is not yet in force (checked October 2026); the EU has announced the last quarter of 2026 but not an exact date, so check the official page before you travel, and apply only on the official site.',
 )
 const entry90 = (ko: string, en: string) =>
   T(

@@ -9,6 +9,7 @@ import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
 import { PassesPanel } from '../components/PassesPanel'
+import { HolidaysPanel } from '../components/HolidaysPanel'
 import { getCountryPasses } from '../data/passes'
 import { FootballLeaguePanel } from '../components/FootballPanel'
 import { getCountryEssentials } from '../data/essentials'
@@ -151,7 +152,9 @@ export function CountryPage() {
 
       <PassesPanel passes={getCountryPasses(country.id)} />
 
-      {essentials ? <EssentialsPanel essentials={essentials} /> : null}
+      {essentials ? <EssentialsPanel essentials={essentials} countryId={country.id} schengen={country.schengen} /> : null}
+
+      <HolidaysPanel countryId={country.id} />
 
       <FootballLeaguePanel countryId={country.id} />
 

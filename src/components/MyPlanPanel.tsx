@@ -9,7 +9,8 @@ import { setPlan, useTrip, type PlanDay } from '../trip/store'
 import { closures, dayMinutes, hours, jump } from './ItineraryPanel'
 import { ShareButtons } from './ShareButtons'
 import { shareUrl } from '../trip/share'
-import { planText } from '../trip/shareText'
+import { planText, stopInfo } from '../trip/shareText'
+import { downloadIcs, planIcs } from '../trip/ics'
 
 /** Move a stop up or down; at the edge of a day it crosses into the neighbouring day. */
 function moveStop(days: PlanDay[], d: number, i: number, dir: -1 | 1): PlanDay[] {
@@ -30,6 +31,7 @@ export function MyPlanPanel({ city }: { city: City }) {
   const { lang } = useLanguage()
   const trip = useTrip()
   const [confirming, setConfirming] = useState(false)
+  const [startDate, setStartDate] = useState('')
   const days = trip.plans[city.id]
   if (!days) return null
 
@@ -180,6 +182,36 @@ export function MyPlanPanel({ city }: { city: City }) {
               {t('planClear', lang)}
             </button>
           )}
+        </div>
+        <div className="plan-calendar">
+          <label className="planner-field plan-calendar-date">
+            <span>{t('planCalendarStart', lang)}</span>
+            <input type="date" value={startDate} onChange={(e) => setStartDate(e.target.value)} />
+          </label>
+          <button
+            type="button"
+            className="plan-btn"
+            disabled={!/^\d{4}-\d{2}-\d{2}$/.test(startDate)}
+            onClick={() => {
+              const [y, m, d] = startDate.split('-').map(Number)
+              const body = planIcs(
+                new Date(y, m - 1, d),
+                days.map((day, i) => {
+                  const stops = day.stops.map((id) => stopInfo(city, id, lang)).filter((x) => !!x)
+                  return {
+                    summary: [city.name[lang], t('itineraryDayN', lang).replace('{n}', String(i + 1)), day.title?.[lang]]
+                      .filter(Boolean)
+                      .join(' · '),
+                    stops: stops.map((x) => x.name),
+                    directions: directionsUrl(stops.map((x) => x.mapsUrl)) ?? undefined,
+                  }
+                }),
+              )
+              downloadIcs(`${city.id}-plan.ics`, body)
+            }}
+          >
+            📅 {t('planCalendarButton', lang)}
+          </button>
         </div>
         <ShareButtons
           title={t('sharePlanHeading', lang).replace('{city}', city.name[lang]).replace('{n}', String(days.length))}
