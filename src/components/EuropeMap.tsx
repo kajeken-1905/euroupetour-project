@@ -16,9 +16,9 @@ import { hexToRgba } from '../utils/color'
 import { assetUrl } from '../utils/assetUrl'
 import { t } from '../i18n/ui'
 
-/** Opacity applied to the selected country's flag-image fill so it reads as a
- * pale tint that the white city pins still stand out against. */
-const FLAG_FILL_OPACITY = 0.45
+/** The selected country's flag fill is drawn fully opaque so it keeps its true colours
+ * (a see-through flag over the pink map fill looked red-tinted). */
+const FLAG_FILL_OPACITY = 1
 
 /** How far (in map SVG units) a ring's center may sit outside the mainland
  * ring's own box and still count as "near" it — large enough to reach a
