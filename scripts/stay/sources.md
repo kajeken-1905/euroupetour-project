@@ -232,3 +232,71 @@ Checked October 2026.
 - portofino: www.travellingking.com/where-to-stay-in-portofino · www.theitalyedit.com/portofino-weekend-guide
 - modena: www.theworldwasherefirst.com/modena-day-trip-itinerary · thetravelfolk.com/bologna-to-modena-day-trip
 - parma: thetourguy.com/travel-blog/italy/parma/where-to-stay-in-parma · community.ricksteves.com/travel-forum/italy/parma-vs-arezzo
+- montepulciano: thetourguy.com/travel-blog/where-to-stay-in-montepulciano · www.milehacker.com/travel/italy/tuscany/montepulciano/where-to-stay-in-montepulciano-hotels-neighborhood · www.itimaker.com/blog/where-to-stay-montepulciano
+- perugia: www.milehacker.com/travel/italy/umbria-and-le-marche/perugia/where-to-stay-in-perugia-hotels-neighborhoods-acco · www.itimaker.com/blog/where-to-stay-perugia-first-timers
+- tropea: destinationlesstravel.com/where-to-stay-in-tropea-italy · www.sunshineseeker.com/destinations/tropea
+- cefalu: www.farawayworlds.com/travel/italy/cefalu · souvenirs.vincent.voyage/stay-cefalu · thetravelfolk.com/one-day-in-cefalu-sicily
+- alghero: www.italyreview.com/alghero.html · www.lastminute.com/hotels/it_italy/alghero-d17130988 · www.expedia.ca/Alghero.dx321
+- vicenza: www.itimaker.com/blog/where-to-stay-vicenza · europeforvisitors.com/venice/articles/vicenza.htm · destinationcalcio.com/essentials/vicenza-playbook-your-unrivalled-experience-watching-the-biancorossi
+- ferrara: www.itimaker.com/blog/where-to-stay-ferrara · www.thehotelguru.com/best-hotels-in/italy/ferrara
+- mantua: www.milehacker.com/travel/italy/lombardy-and-the-lakes/mantua/where-to-stay-in-mantua-hotels-neighborhoods-accom · destinationcalcio.com/footballculture/mantova-playbook-an-unrivalled-experience-watching-the-virgilians
+- urbino: www.italyreview.com/urbino.html · expertoitaly.com/urbino-travel-guide-le-marche
+- olbia: www.itimaker.com/blog/where-to-stay-olbia-first-time · www.thehotelguru.com/en-us/best-hotels-in/italy/olbia
+- amalfi: earthtrekkers.com/where-to-stay-on-the-amalfi-coast · blog.daytrip.com/blog/2025/03/14/where-to-stay-on-the-amalfi-coast-2025 · www.theworldwasherefirst.com/sorrento-or-positano-or-amalfi
+- cortina: www.moonhoneytravel.com/where-to-stay-in-cortina-dampezzo · roamandthrive.com/best-things-to-do-cortina-dampezzo-travel-guide
+- stavanger: www.lifeinnorway.net/?p=86746 · destinationlesstravel.com/where-to-stay-in-stavanger-norway · norwayexplained.com/?p=2006
+- trondheim: www.milehacker.com/travel/norway/trondelag/trondheim/where-to-stay-in-trondheim-hotels-neighborhoods-ac · www.itimaker.com/blog/where-to-stay-trondheim · www.voyageavecnous.fr/dormir-trondheim
+- alesund: thehiddennorth.com/where-to-stay-in-alesund-from-a-tour-leaders-perspective · loudavymkrokem.cz/en/alesund-norway-things-to-see
+- flam: thehiddennorth.com/where-to-stay-in-flam-from-a-tour-leaders-perspective · lifeinnorway.net/where-to-stay-in-flam · www.fjordsandbeaches.com/hotels-in-flam-norway
+- turku: www.travellingking.com/where-to-stay-in-turku · www.lastminute.com/hotels/fi_finland/turku-d1138157621
+- tampere: www.milehacker.com/travel/finland/southwestern-finland/tampere/where-to-stay-in-tampere-hotels-neighborhoods-acco · www.travellingking.com/where-to-stay-in-tampere
+- porvoo: independenttravelcats.com/porvoo-finland-easy-day-trip-from-helsinki · www.gpsmycity.com/blog/day-trip-from-helsinki-to-porvoo-8716.html · www.timeout.com/finland/travel/porvoo-things-to-do
+- uppsala: danny-cph.com/?p=5326 · studentblogs.ki.se/?p=58867
+- kiruna: www.meganstarr.com/where-to-stay-kiruna-jukkasjarvi · www.travellingking.com/where-to-stay-in-the-swedish-lapland
+- odense: www.travellingking.com/where-to-stay-in-odense · destinationwellknown.com/hotels-odense
+- roskilde: everybodyhatesatourist.net/roskilde-day-trip-from-copenhagen-travel-guide-itinerary-activities-how-to-get-there-tours-more · www.civitatis.com/en/copenhagen/roskilde-day-trip/?aid=2986
+- debrecen: www.travellingking.com/where-to-stay-in-debrecen · us.lastminute.com/hotels/hu_hungary/debrecen-d1202153884
+- pecs: theculturetrip.com/europe/hungary/articles/the-best-hotels-in-pecs · www.agoda.com/city/pecs-hu.html
+- szeged: www.travellingking.com/where-to-stay-in-szeged · www.theculturetrip.com/europe/hungary/articles/the-best-places-to-stay-in-szeged-hungary
+- eger: wanderingcarol.com/hungary-eger-and-the-valley-of-the-beautiful-women · www.agoda.com/city/eger-hu.html
+- karlovy-vary: loudavymkrokem.cz/en/what-see-karlovy-vary · www.lastminute.com/hotels/cz_czech-republic/karlovy-vary-d1077150535
+- canterbury: www.london-tickets.co.uk/london-to-canterbury-tours/canterbury-itinerary · www.hilton.com/en/locations/united-kingdom/canterbury · www.agoda.com/city/canterbury-gb.html
+- windsor: www.expedia.co.uk/Windsor.dx5479 · travel.com/regions/europe/united-kingdom/england/windsor-england-best-things-to-do-top-picks
+- salisbury: www.coolplaces.co.uk/guides/uk/england/wiltshire/21-salisbury-stonehenge · www.expedia.com/Salisbury.dx5679.Where-To-Stay
+- cotswolds: www.findingtheuniverse.com/cotswolds-without-a-car · discovercotswolds.co.uk/cotswolds-without-a-car · community.ricksteves.com/travel-forum/england/getting-around-cotswolds-without-a-car-8414e41b-1e64-4d3b-97a9-1869572e7f1d
+- stratford-upon-avon: thehotelguru.com/best-hotels-in/united-kingdom/stratford-upon-avon · www.theculturetrip.com/europe/united-kingdom/england/articles/the-best-hotels-to-book-in-stratford-upon-avon
+- lake-district: www.theplanetedit.com/lake-district-without-a-car · anywhereweroam.com/best-places-stay-lake-district
+- st-ives: gosouthwestengland.co.uk/places-to-stay-in-st-ives · www.plumguide.com/journal/where-to-stay-in-st-ives
+- st-andrews: www.lastminute.ie/hotels/gb_united-kingdom/st-andrews-d19141948 · trip101.com/article/where-to-stay-st-andrews-uk
+- conwy: www.fjordsandbeaches.com/places-to-stay-in-north-wales · www.thehotelguru.com/best-hotels-in/united-kingdom/conwy
+- snowdonia: walesguidebook.com/stay/snowdonia · www.plumguide.com/journal/where-to-stay-snowdonia · wales.org/plan-the-perfect-snowdonia-cottage-holiday
+- tenby: www.thehotelguru.com/best-hotels-in/united-kingdom/tenby · www.fjordsandbeaches.com/tenby-accommodation
+- giants-causeway: uk.hotels.com/de545062/hotels-bushmills-united-kingdom · www.expedia.com/es/Giants-Causeway-Hoteles.0-l6086619-0.Guia-Viajes-Filter-Hoteles · discovernorthernireland.com/things-to-do/golf/events/the-153rd-open/the-153rd-open-accommodation?p=5
+- derry: discovernorthernireland.com/destinations/derry-londonderry/accommodation · www.thehotelguru.com/en-us/best-hotels-in/united-kingdom/londonderry
+- killarney: www.theirishroadtrip.com/killarney-accommodation · thehotelguru.com/best-hotels-in/ireland/killarney
+- kilkenny: www.thebrokebackpacker.com/where-to-stay-in-kilkenny-ireland · www.hotels.com/de649209758610890752/hotels-near-st-mary-s-medieval-mile-museum-kilkenny-ireland
+- nafplio: spotlightsojourns.com/where-to-stay-in-nafplio-greece · www.thehotelguru.com/en-us/best-hotels-in/greece/nafplio · greekcitytimes.com/2023/11/07/nafplio-a-guide-greece-2
+- limerick: www.irelandbeforeyoudie.com/best-hotels-in-limerick · www.thehotelguru.com/best-hotels-in/ireland/limerick
+- sounion: www.athensguide.com/sounion · www.davestravelpages.com/cape-sounion-day-trip-from-athens · insightsgreece.com/tag/cape-sounio
+- olympia: us.lastminute.com/hotels/gr_greece/olympia-d1173149767 · lookup.hotels.com/de1673041/hotels-near-ancient-olympia-archaia-olympia-greece
+- zakopane: visit.zakopane.pl/where-to-stay · www.letsbookhotel.com/en/poland/zakopane/guide.aspx · www.lastminute.ie/hotels/pl_poland/zakopane-d1401154013
+- torun: www.travellingking.com/where-to-stay-in-torun · www.expedia.ca/Torun-Hotels.d601372.Travel-Guide-Hotels
+- rovinj: www.frankaboutcroatia.com/where-to-stay-in-rovinj-croatia · www.wearecravingadventure.com/?p=10379 · www.placesofjuma.com/where-to-stay-in-rovinj-croatia
+- trogir: brag.org/24-hours-in-split-trogir-croatia-brag-bike-tour · www.tripbase.com/compare/split-croatia-vs-trogir-croatia · www.croatiatraveller.com/central%20dalmatia/Trogir.htm
+- plitvice: www.frankaboutcroatia.com/plitvice-lakes-accommodation · www.chasingthedonkey.com/croatia-travel-blog/accommodation-in-croatia/where-to-stay-in-plitvice-lakes · www.wearecravingadventure.com/blog/where-to-stay-plitvice-lakes
+- akureyri: us.lastminute.com/hotels/is_iceland/akureyri-d1226155093 · www.agoda.com/city/akureyri-is.html
+- vik: www.weseektravel.com/places-to-stay-vik-iceland · www.kimkim.com/d/iceland/vik/h · www.back-packer.org/vik_booking
+- husavik: us.lastminute.com/hotels/is_iceland/husavik-d1226155104 · www.expedia.com/Husavikurkirkja-Hotels.0-l553248621533099019-0.Travel-Guide-Filter-Hotels
+- ankara: turkeytravelplanner.com/go/CentralAnatolia/Ankara/hotels/index.html · www.flypgs.com/en/city-guide/where-to-stay-in-ankara · www.lastminute.ie/hotels/tr_turkey/ankara-d1511153599
+- bursa: happyfrogtravels.com/?p=60462 · www.expedia.ae/Bursa.dx6431
+- trabzon: www.milehacker.com/travel/turkey/the-black-sea-and-northeastern-anatolia/trabzon/where-to-stay-in-trabzon-hotels-neighborhoods-acco · www.lastminute.com/hotels/tr_turkey/trabzon-d1511153647
+- pamukkale: www.travellingking.com/where-to-stay-in-denizli · www.flypgs.com/en/city-guide/where-to-stay-in-denizli · uk.hotels.com/nh1661061-at25/pensions-hotels-in-pamukkale-denizli-turkey
+- varna: www.voyagetips.com/en/where-to-stay-in-varna · us.lastminute.com/hotels/bg_bulgaria/varna-d1032154765
+- veliko-tarnovo: www.chasingthedonkey.com/bulgaria-travel-guide/best-hotels-veliko-tarnovo-bulgaria · www.expedia.com/Veliko-Tarnovo.dx4209.Where-To-Stay
+- nessebar: sofiaadventures.com/nessebar-or-sunny-beach-bulgaria · www.theculturetrip.com/europe/bulgaria/articles/the-best-hotels-in-nessebar
+- sighisoara: www.milehacker.com/travel/romania/transylvania/sighisoara/where-to-stay-in-sighisoara-hotels-neighborhoods-a · www.itimaker.com/blog/where-stay-in-sighişoara · www.chasingthedonkey.com/romania-travel/best-hotels-in-sighisoara
+- timisoara: sofiaadventures.com/things-to-do-in-timisoara-vacation · us.lastminute.com/hotels/ro_romania/timisoara-d1456154358
+- vatican-city: www.romewise.com/hotels-in-vatican-city.html · www.expedia.com/Prati.dx6004847
+- andorra-la-vella: xixerone.com/en/where-to-stay-in-andorra-best-areas-towns · uk.hotels.com/co10233001/hotels-in-andorra
+- pas-de-la-casa: xixerone.com/en/where-to-stay-in-andorra-best-areas-towns · uk.hotels.com/co10233001/hotels-in-andorra
+- ordino: xixerone.com/en/where-to-stay-in-andorra-best-areas-towns · uk.hotels.com/co10233001/hotels-in-andorra

@@ -1049,6 +1049,256 @@ export const STAY: Record<string, StayArea[]> = {
     a('파르마 역사 지구', 'Parma centro storico', 'Piazza Duomo, Parma', '음식 여행으로 묵을 때|For a food-focused stay', '대성당과 세례당, 광장과 식당을 걸어서 다닙니다.|The cathedral, the baptistery, the squares and restaurants on foot.'),
     a('볼로냐에서 다녀오기', 'Day trip from Bologna', 'Bologna Centrale', '당일치기로 충분|Fine as a day trip', '기차로 1시간쯤이라 대성당과 점심, 산책 위주라면 하루로 충분합니다.|About an hour by train; a day is enough for the Duomo, lunch and a stroll.'),
   ],
+  montepulciano: [
+    a('성벽 안 구시가', 'Inside the walls', 'Montepulciano centro storico', '걸어서 다니기|Walk to everything', '그란데 광장과 와인 저장고, 식당을 걸어서 다닙니다. 차가 들어갈 수 없어 성벽 밖에 주차해야 하고, 언덕이 가파르며 밤에 시끄러울 수 있습니다.|Piazza Grande, the wine cellars and restaurants on foot; cars cannot enter, so park outside the walls, and the streets are steep and can be noisy at night.'),
+    a('주변 농가 숙소 (아그리투리스모)', 'Farm stays nearby', 'Montepulciano agriturismo', '조용함·발도르차 전망|Quiet, Val d’Orcia views', '조용하고 전망이 좋으며 대개 더 쌉니다. 차가 꼭 있어야 합니다.|Quiet, with views and usually lower prices; you need a car.'),
+  ],
+  perugia: [
+    a('구시가 (첸트로 스토리코)', 'Centro storico', 'Perugia centro storico', '처음이라면|First visit', '11월 4일 광장과 코르소 반누치를 걸어서 다닙니다. 언덕과 계단이 많고 차로 들어가기 어려우며 값이 더 나갑니다. 7월 움브리아 재즈 기간에는 일찍 예약하세요.|Piazza IV Novembre and Corso Vannucci on foot; hilly with many steps, hard to reach by car and pricier. Book early for Umbria Jazz in July.'),
+  ],
+  tropea: [
+    a('절벽 위 구시가', 'Old town on the cliff', 'Tropea centro storico', '처음·전망|First visit, views', '골목과 전망대를 걸어서 다닙니다. 해변은 계단으로 내려갑니다.|Lanes and viewpoints on foot; the beaches are down a long stairway.'),
+    a('절벽 아래 해변', 'Beachfront below', 'Tropea lungomare', '해수욕|Beach days', '바다가 바로 앞입니다. 구시가로 올라가는 계단이 가파릅니다.|The sea on the doorstep; steep stairs back up to the old town.'),
+  ],
+  cefalu: [
+    a('구시가', 'Old town', 'Cefalù centro storico', '차 없이 여행|Travelling without a car', '대성당과 식당이 가깝고 분위기가 좋습니다. 오래된 숙소가 많고 바람이 잘 안 통해 더울 수 있으니 에어컨을 확인하세요. 차량 진입 제한 구역입니다.|Close to the cathedral and restaurants, full of atmosphere; many rooms are old and stuffy, so check for air conditioning. Cars are restricted.'),
+    a('신시가·해변 쪽', 'New town by the beach', 'Cefalù lungomare', '해변·주차|Beach and parking', '해변이 가깝고 주차가 쉬우며 구시가까지 10분쯤 걷습니다.|Near the beach and easier to park, about a 10-minute walk to the old town.'),
+    a('팔레르모에서 다녀오기', 'Base in Palermo', 'Palermo Centrale', '도시 거점|City base', '기차로 1시간쯤이라 당일치기가 쉽습니다. 볼거리와 밤 문화는 팔레르모가 더 많습니다.|About an hour by train, an easy day trip; Palermo has more sights and nightlife.'),
+  ],
+  alghero: [
+    a('구시가', 'Old town', 'Alghero centro storico', '걸어서 구경·식당|Sights and dining on foot', '차 없는 구역이라 걷기 좋고 항구도 가깝습니다.|Car-free and walkable, close to the marina.'),
+    a('리도 산조반니', 'Lido San Giovanni', 'Lido San Giovanni, Alghero', '해변|Beach', '리도 해변과 마리아 피아 해변이 가깝고 해변 산책로가 있습니다. 구시가까지 1.5km쯤이라 걷거나 버스를 탑니다.|Near Lido and Maria Pia beaches with a seafront promenade; the old town is about 1.5 km away on foot or by bus.'),
+  ],
+  vicenza: [
+    a('구시가', 'Centro storico', 'Vicenza centro storico', '걸어서 팔라디오 건축 보기|Palladio on foot', '작은 도시라 주요 건물과 식당을 모두 걸어서 갑니다. 차량 제한으로 조용하지만 값이 더 나갑니다.|A small city where the sights and restaurants are all walkable; quiet thanks to traffic limits but pricier.'),
+    a('기차역 주변', 'Near the station', 'Vicenza stazione', '가성비·기차 이동|Value, rail trips', '더 싸고 베네치아(약 50분)·베로나·파도바 기차 여행에 편합니다. 분위기는 덜합니다.|Cheaper and handy for trains to Venice (about 50 minutes), Verona and Padua; less atmosphere.'),
+  ],
+  ferrara: [
+    a('구시가', 'Centro storico', 'Ferrara centro storico', '대성당·에스테 성 걸어서|Cathedral and castle on foot', '대성당과 에스테 성이 가깝고 자전거로 다니기 좋습니다. 주차 되는 숙소는 적습니다.|Close to the cathedral and Castello Estense and great by bike; few hotels have parking.'),
+  ],
+  mantua: [
+    a('구시가', 'Centro storico', 'Mantova centro storico', '처음이라면|First visit', '두칼레 궁전과 광장들을 걸어서 다니고 저녁 분위기가 좋습니다.|The Ducal Palace and squares on foot, with a lively evening scene.'),
+    a('호숫가', 'By the lakes', 'Lago di Mezzo, Mantova', '조용함|Quieter', '호수 산책이 좋고 저녁이 조용합니다. 두칼레 궁전까지 10분쯤 걷습니다.|Lakeside walks and quiet evenings, about a 10-minute walk to the Ducal Palace.'),
+  ],
+  urbino: [
+    a('성벽 안 구시가', 'Inside the walls', 'Urbino centro storico', '저녁의 조용한 분위기|Quiet evenings', '두칼레 궁전과 라파엘로의 집이 가깝습니다. 숙소가 적어 일찍 예약해야 하고, 언덕이 가팔라 짐이 많으면 힘듭니다.|Close to the Ducal Palace and Raphael’s house; rooms are few, so book early, and the hills are steep with heavy bags.'),
+  ],
+  olbia: [
+    a('올비아 시내', 'Olbia town', 'Olbia centro', '공항·항구·가격|Airport, port, prices', '공항과 배편이 가깝고 숙소 가격대가 다양합니다. 해변은 차로 다닙니다.|Close to the airport and ferries with rooms at every price; beaches are a drive away.'),
+    a('산테오도로', 'San Teodoro', 'San Teodoro, Sardinia', '해변·밤 문화|Beaches and nightlife', '남쪽으로 차로 30분쯤, 라 친타·칼라 브란딘키 해변이 가깝고 코스타 스메랄다보다 쌉니다. 차가 있어야 편합니다.|About 30 minutes south by car, near La Cinta and Cala Brandinchi and cheaper than the Costa Smeralda; best with a car.'),
+  ],
+  amalfi: [
+    a('아말피 마을', 'Amalfi town', 'Amalfi', '해안 한가운데|On the coast itself', '포지타노보다 덜 비싸고 배·버스가 모이는 곳입니다. 폼페이 등 다른 곳으로는 멀어 불편할 수 있습니다.|Less pricey than Positano and a ferry and bus hub, but farther from places like Pompeii.'),
+    a('포지타노', 'Positano', 'Positano', '풍경·특별한 여행|Views, special trips', '가장 아름답지만 가장 비싸고 붐비며 계단과 비탈이 많습니다.|The most beautiful and the most expensive and crowded, with many steps.'),
+    a('소렌토에서 다녀오기', 'Base in Sorrento', 'Sorrento', '가성비·짧은 일정|Value, short trips', '더 크고 걷기 쉬운 도시로 나폴리·폼페이 기차가 있어 편합니다. 포지타노까지 1시간쯤 걸릴 수 있습니다.|A bigger, walkable town with trains to Naples and Pompeii; Positano can be an hour away.'),
+  ],
+  cortina: [
+    a('시내 중심 (코르소 이탈리아)', 'Town centre (Corso Italia)', 'Corso Italia, Cortina d’Ampezzo', '차 없이 여행|Without a car', '카페·식당·상점이 모여 있습니다. 베네치아에서 직행버스가 옵니다. 값이 비쌉니다.|Cafés, restaurants and shops, with direct buses from Venice; expensive.'),
+  ],
+  stavanger: [
+    a('보겐 항구·시내', 'Vågen harbour and centre', 'Vågen, Stavanger', '처음이라면|First visit', '항구를 따라 식당·바와 옛 창고 건물이 늘어서 있고 걸어서 다 다닙니다. 주말과 행사 때는 시끄러울 수 있습니다.|Restaurants, bars and old warehouses line the harbour and everything is walkable; lively at weekends and during events.'),
+    a('옛 스타방에르 (감레 스타방에르)', 'Old Stavanger', 'Gamle Stavanger', '조용함|Quieter', '하얀 목조 주택과 자갈길이 있는 조용한 동네입니다. 숙소가 적습니다.|A quiet area of white wooden houses and cobbled lanes; few places to stay.'),
+  ],
+  trondheim: [
+    a('미드트뷔엔 (시내 중심)', 'Midtbyen (centre)', 'Midtbyen, Trondheim', '처음이라면·교통|First visit, transport', '중앙역과 식당·상점이 가깝고 숙소 종류가 다양합니다. 주말에는 시끄럽고 주차가 비쌉니다.|Close to the station, restaurants and shops with every kind of hotel; noisy at weekends and parking is costly.'),
+    a('바클란데트', 'Bakklandet', 'Bakklandet, Trondheim', '분위기·조용함|Character, quieter', '강 건너 알록달록한 목조 주택 동네로 시내까지 몇 분이면 걷습니다. 숙소와 주차 공간이 적습니다.|The colourful wooden-house quarter across the river, a few minutes’ walk from the centre; few rooms and little parking.'),
+  ],
+  alesund: [
+    a('브로순데트 운하 주변 구시가', 'Old centre by Brosundet', 'Brosundet, Ålesund', '걸어서 아르누보 거리 보기|Art Nouveau streets on foot', '주요 볼거리와 악슬라 전망대 오르는 길이 걸어서 닿습니다. 여름에는 몇 달 전에 방이 찹니다.|The main sights and the path up Mt Aksla are walkable; rooms sell out months ahead in summer.'),
+  ],
+  flam: [
+    a('플롬 마을 (항구 앞)', 'Flåm village', 'Flåm', '한적한 저녁·아침|Quiet evenings and mornings', '당일 관광객이 떠난 저녁과 이른 아침을 즐길 수 있고 플롬 철도·피오르 유람선이 바로 앞입니다. 숙소가 적어 6~8월엔 일찍 찹니다.|Enjoy the village once day-trippers leave, with the Flåm Railway and fjord boats on the doorstep; few rooms, so June–August fills early.'),
+    a('아울란', 'Aurland', 'Aurland, Norway', '더 조용함·차 여행|Quieter, by car', '대형 크루즈와 관광버스가 서지 않는 조용한 마을로 플롬까지 차로 10분쯤입니다. 차가 있어야 편합니다.|A quiet village without cruise ships or tour buses, about 10 minutes’ drive from Flåm; best with a car.'),
+  ],
+  turku: [
+    a('시내 중심·아우라강 변', 'Centre and the Aura river', 'Turku city centre', '처음이라면|First visit', '식당·카페가 모여 있고 강변 산책로를 따라 대성당과 박물관까지 걷습니다.|Cafés and restaurants close at hand, with the riverside promenade leading to the cathedral and museums.'),
+  ],
+  tampere: [
+    a('시내 중심', 'City centre', 'Tampere keskusta', '교통·쇼핑|Transport and shopping', '기차역이 걸어서 닿고 숙소가 많습니다. 주말에 시끄럽고 값이 더 나갑니다.|The station is walkable and there are many hotels; noisy at weekends and pricier.'),
+    a('핀레이손 옛 공장 지구', 'Finlayson', 'Finlayson, Tampere', '박물관·조용한 저녁|Museums, calm evenings', '옛 공장 건물에 박물관과 카페가 있고 시내가 가깝습니다. 숙소가 적습니다.|Museums and cafés in old mill buildings close to the centre; fewer places to stay.'),
+  ],
+  porvoo: [
+    a('헬싱키에서 다녀오기', 'Base in Helsinki', 'Helsinki city centre', '당일치기로 충분|A day is enough', '버스로 1시간쯤이고 여름에는 마켓 광장에서 증기선도 다닙니다. 구시가는 반나절이면 걸어서 봅니다.|About an hour by bus, and in summer a steamship leaves from Market Square; the old town takes half a day on foot.'),
+    a('포르보 구시가', 'Porvoo old town', 'Porvoo old town', '느긋한 하룻밤|A slower overnight', '당일 관광객이 떠난 저녁이 조용하고 식당·B&B가 많습니다. 다도해까지 둘러볼 때 좋습니다.|Quiet once day visitors leave, with good restaurants and B&Bs; handy for exploring the archipelago.'),
+  ],
+  uppsala: [
+    a('스톡홀름에서 다녀오기', 'Base in Stockholm', 'Stockholm Central Station', '당일치기|Day trip', '기차로 40~50분입니다. 스톡홀름 교통 구역 밖이라 요금을 더 내야 합니다.|40–50 minutes by train; it lies outside the Stockholm fare zone, so the ticket costs extra.'),
+    a('대성당·퓌리스강 주변', 'Around the cathedral and Fyris river', 'Uppsala centrum', '걸어서 대학 도시 구경|The university town on foot', '대성당과 박물관, 정원, 대학 건물을 걸어서 다닙니다.|The cathedral, museums, gardens and university buildings on foot.'),
+  ],
+  kiruna: [
+    a('키루나 시내', 'Kiruna town', 'Kiruna centrum', '투어 출발·식당|Tour pick-ups, restaurants', '투어 대부분이 시내에서 출발하고 식당·상점이 가깝습니다. 숙소가 많지 않아 일찍 예약하세요.|Most tours leave from town and restaurants and shops are close; rooms are limited, so book early.'),
+    a('유카스예르비', 'Jukkasjärvi', 'Jukkasjärvi', '아이스호텔·조용한 마을|Ice Hotel, quiet village', '키루나에서 동쪽으로 20분쯤, 아이스호텔과 사미 마을이 있습니다.|About 20 minutes east of Kiruna, home to the Ice Hotel and a Sámi village.'),
+    a('아비스코', 'Abisko', 'Abisko', '국립공원·산 풍경|National park, mountains', '국립공원과 산 풍경이 좋습니다. 상점과 편의시설이 적습니다.|National park and mountain scenery; few shops and services.'),
+  ],
+  odense: [
+    a('오덴세 시내 (오덴세 C)', 'Odense C (centre)', 'Odense C', '걸어서 다 보기|Everything on foot', '중앙역과 숙소 대부분, 식당·밤 문화가 모여 있고 안데르센 지구도 가깝습니다.|The station, most hotels, restaurants and nightlife, close to the Hans Christian Andersen quarter.'),
+  ],
+  roskilde: [
+    a('코펜하겐에서 다녀오기', 'Base in Copenhagen', 'København H', '당일치기|Day trip', '중앙역에서 기차로 25~30분, 한 시간에 여러 대 있습니다. 코펜하겐 카드로 기차와 바이킹선 박물관이 됩니다. 여름 음악 축제 기간에는 숙소가 비쌉니다.|25–30 minutes by train from Central Station with several trains an hour; the Copenhagen Card covers the train and the Viking Ship Museum. Rooms get pricey during the summer festival.'),
+  ],
+  debrecen: [
+    a('시내 중심 (코슈트 광장)', 'Centre (Kossuth Square)', 'Kossuth tér, Debrecen', '걸어서 구경|Sights on foot', '대개혁교회와 데리 박물관, 카페·식당을 걸어서 다닙니다.|The Great Reformed Church, Déri Museum, cafés and restaurants on foot.'),
+    a('너지에르되 (큰 숲)', 'Nagyerdő (Great Forest)', 'Nagyerdő, Debrecen', '숲·온천|Park and spa', '숲 공원과 온천 시설 근처로 조용합니다. 시내까지 2km쯤입니다.|A quiet area by the park and spa, about 2 km from the centre.'),
+  ],
+  pecs: [
+    a('구시가 (세체니 광장 주변)', 'Old town (Széchenyi Square)', 'Széchenyi tér, Pécs', '걸어서 구경|Sights on foot', '세계유산 초기 기독교 묘지와 대성당, 광장이 걸어서 닿습니다.|The World Heritage early Christian tombs, the cathedral and the square are all walkable.'),
+  ],
+  szeged: [
+    a('시내 중심 (돔 광장·티서강 변)', 'Centre (Dóm Square and the Tisza)', 'Dóm tér, Szeged', '처음이라면|First visit', '봉헌 교회와 보행자 거리, 강변이 가깝고 숙박비가 비교적 저렴합니다.|Close to the Votive Church, the pedestrian street and the river, at fairly modest prices.'),
+  ],
+  eger: [
+    a('구시가 (도보 광장 주변)', 'Old town (Dobó Square)', 'Dobó tér, Eger', '성·광장·식당|Castle, square, restaurants', '에게르 성과 바로크 광장, 식당이 걸어서 닿습니다.|Eger Castle, the Baroque square and restaurants on foot.'),
+    a('미녀의 계곡 근처', 'Near the Valley of Beautiful Women', 'Szépasszony-völgy, Eger', '와인 저장고|Wine cellars', '와인 저장고가 바로 앞이라 돌아갈 걱정이 없습니다. 시내까지 걸어서 20~30분이고 숙소가 적습니다.|The wine cellars on your doorstep, so no trip back after tasting; 20–30 minutes’ walk to town and few rooms.'),
+  ],
+  'karlovy-vary': [
+    a('온천 지구 (콜로나다 주변)', 'Spa quarter (the colonnades)', 'Mlýnská kolonáda, Karlovy Vary', '온천 문화|Spa culture', '물레방아·시장 콜로나다와 온천 산책로, 카페가 모여 있습니다. 큰길 쪽보다 계곡 쪽 방이 조용합니다.|The Mill and Market colonnades, spring walks and cafés; rooms facing the valley are quieter than those on the road.'),
+  ],
+  canterbury: [
+    a('시내 중심', 'City centre', 'Canterbury city centre', '저녁까지 느긋하게|A slower evening', '대성당과 옛 골목, 식당을 걸어서 다닙니다.|The cathedral, old lanes and restaurants on foot.'),
+    a('런던에서 다녀오기', 'Base in London', 'London St Pancras', '당일치기|Day trip', '세인트판크라스에서 고속열차로 1시간이 안 걸려 하루면 충분히 봅니다.|Under an hour by high-speed train from St Pancras, so a day is plenty.'),
+  ],
+  windsor: [
+    a('런던에서 다녀오기', 'Base in London', 'London Waterloo', '당일치기|Day trip', '워털루에서 직행열차로 55분쯤이고 두 역 모두 윈저성까지 걸어서 5분입니다.|About 55 minutes by direct train from Waterloo; both Windsor stations are a 5-minute walk from the castle.'),
+  ],
+  salisbury: [
+    a('솔즈베리 시내', 'Salisbury centre', 'Salisbury city centre', '스톤헨지 버스 출발지|Stonehenge buses', '스톤헨지에는 숙소가 없고 투어 버스가 기차역과 시내에서 떠납니다. 술집 위층 방은 밤에 시끄러울 수 있습니다.|There is nowhere to stay at the stones; tour buses leave from the station and city centre. Rooms above pubs can be noisy at night.'),
+  ],
+  cotswolds: [
+    a('모턴인마시', 'Moreton-in-Marsh', 'Moreton-in-Marsh', '차 없이 여행|Without a car', '코츠월드 마을 안에 있는 기차역으로 런던 패딩턴에서 직행열차가 오고, 801번 버스로 버턴·스토에 갑니다.|The one station inside a Cotswold town, with direct trains from London Paddington and the 801 bus to Bourton and Stow.'),
+    a('버턴온더워터', 'Bourton-on-the-Water', 'Bourton-on-the-Water', '마을 산책|Village walks', '슬로터 마을과 스토까지 걷기 좋습니다. 일요일에는 버스가 적거나 다니지 않습니다.|Good walks to the Slaughters and Stow; buses are sparse or absent on Sundays.'),
+  ],
+  'stratford-upon-avon': [
+    a('시내 중심', 'Town centre', 'Stratford-upon-Avon town centre', '셰익스피어 명소 걸어서|Shakespeare sights on foot', '셰익스피어 생가와 로열 셰익스피어 극장을 걸어서 갑니다.|Shakespeare’s Birthplace and the Royal Shakespeare Theatre on foot.'),
+  ],
+  'lake-district': [
+    a('앰블사이드', 'Ambleside', 'Ambleside', '차 없이·한가운데|Car-free, central', '버스 연결이 좋고 카페·펍·아웃도어 상점이 많으며 산책로가 마을에서 시작합니다.|Good bus links, cafés, pubs and outdoor shops, with walks straight from town.'),
+    a('케직', 'Keswick', 'Keswick', '북쪽 산·호수 걷기|Northern fells', '더웬트워터 호수까지 걸어서 15분, 펜리스역에서 버스로 옵니다.|A 15-minute walk to Derwentwater, reached by bus from Penrith station.'),
+    a('윈더미어·보네스', 'Windermere and Bowness', 'Bowness-on-Windermere', '호수 위주 느긋한 여행|Relaxed, lake-focused', '기차역이 있고 호수 유람선 타기 좋습니다. 험한 산으로 가기는 조금 멉니다.|Has the rail station and lake cruises; the rugged fells are a bit farther.'),
+  ],
+  'st-ives': [
+    a('항구·시내 중심', 'Harbour and centre', 'St Ives harbour', '처음이라면|First visit', '항구와 식당, 포스미어 해변이 걸어서 닿습니다. 여름에는 매우 붐비고 비쌉니다.|The harbour, restaurants and Porthmeor Beach on foot; very busy and expensive in summer.'),
+    a('헤일', 'Hayle', 'Hayle, Cornwall', '더 조용하고 저렴|Quieter and cheaper', '차로 잠깐이거나 기차로 세인트어스에서 갈아타 옵니다.|A short drive away, or by train with a change at St Erth.'),
+  ],
+  'st-andrews': [
+    a('구시가 (노스·사우스 스트리트)', 'Old town (North and South Street)', 'St Andrews town centre', '걸어서 다 보기|Everything on foot', '올드코스, 웨스트샌즈 해변, 대학, 대성당과 성 유적을 차 없이 걸어서 다닙니다.|The Old Course, West Sands, the university, cathedral and castle ruins, all without a car.'),
+  ],
+  conwy: [
+    a('성벽 안 구시가', 'Inside the town walls', 'Conwy town centre', '저녁에도 성과 성벽 산책|Castle and walls in the evening', '성과 부두가 걸어서 몇 분이고 기차역도 있습니다. 숙소가 아주 적어 일찍 예약하세요.|The castle and quay are minutes apart and there is a station; very few rooms, so book early.'),
+    a('랜디드노', 'Llandudno', 'Llandudno', '숙소·식당이 많음|More hotels and dining', '해변 산책로와 부두, 식당가가 있고 콘위까지 차로 15분쯤입니다. 걸어서는 못 갑니다.|Seafront promenade, pier and restaurants, about 15 minutes’ drive from Conwy; not walkable.'),
+  ],
+  snowdonia: [
+    a('베투스이코이드', 'Betws-y-Coed', 'Betws-y-Coed', '처음·차 없이|First visit, car-free', '세 계곡이 만나는 가장 인기 있는 마을로 대중교통이 좋고 숙소가 가장 많습니다. 값이 더 나갑니다.|The most popular village, where three valleys meet, with good public transport and the most rooms; pricier.'),
+    a('슬란베리스', 'Llanberis', 'Llanberis', '스노든산 오르기|Climbing Snowdon', '스노든 등산로와 산악열차가 마을에서 시작하고 호수와 슬레이트 박물관이 있습니다.|The Snowdon path and mountain railway start here, with a lake and the Slate Museum.'),
+    a('베드겔레르트', 'Beddgelert', 'Beddgelert', '걷기·작은 마을|Walking, a small village', '두 강이 만나는 돌집 마을로 산책로가 많습니다. 숙소가 적습니다.|A stone-cottage village where two rivers meet, with many trails; few rooms.'),
+  ],
+  tenby: [
+    a('성벽 안 구시가', 'Inside the walls', 'Tenby town centre', '항구·해변 걸어서|Harbour and beaches on foot', '항구와 해변, 식당이 가깝습니다. 7~8월에는 일찍 예약해야 합니다.|Close to the harbour, beaches and restaurants; book well ahead for July and August.'),
+    a('노스클리프·에스플러네이드', 'North Cliff and the Esplanade', 'The Esplanade, Tenby', '바다 전망|Sea views', '성벽 바로 밖 절벽 위로 큰 호텔과 바다가 보이는 숙소가 많습니다.|Just outside the walls on the cliffs, with larger hotels and sea-view rentals.'),
+  ],
+  'giants-causeway': [
+    a('부시밀스', 'Bushmills', 'Bushmills', '가장 가까움|Closest', '자이언츠 코즈웨이 바로 옆 마을입니다. 숙소가 적습니다.|The village right by the Causeway; few rooms.'),
+    a('포트러시', 'Portrush', 'Portrush', '해변·식당·골프|Beaches, dining, golf', '코즈웨이에서 10km쯤 떨어진 해변 마을로 식당과 숙소가 더 많습니다.|A seaside town about 10 km from the Causeway with more restaurants and rooms.'),
+    a('밸리캐슬', 'Ballycastle', 'Ballycastle, County Antrim', '조용한 해안·라슬린섬|Quiet coast, Rathlin Island', '16km쯤 떨어진 조용한 마을로 라슬린섬 배와 페어헤드가 가깝습니다.|A quieter town about 16 km away, close to the Rathlin ferry and Fair Head.'),
+  ],
+  derry: [
+    a('성벽 안 구시가', 'Inside the walls', 'Walled City, Derry', '걸어서 성벽·식당|Walls and dining on foot', '성벽과 길드홀, 식당이 걸어서 닿습니다.|The walls, the Guildhall and restaurants on foot.'),
+  ],
+  killarney: [
+    a('시내 중심 (마켓 크로스 주변)', 'Town centre (around Market Cross)', 'Killarney town centre', '차 없이·펍|Car-free, pubs', '펍과 식당, 국립공원 입구가 걸어서 닿습니다. 차가 없다면 마켓 크로스에서 걸어서 15분 안쪽으로 고르세요. 7~8월에는 일찍 찹니다.|Pubs, restaurants and the national park on foot; without a car, stay within 15 minutes’ walk of Market Cross. July and August book up early.'),
+  ],
+  kilkenny: [
+    a('시내 중심 (중세 마일)', 'City centre (Medieval Mile)', 'Medieval Mile, Kilkenny', '걸어서 성·대성당|Castle and cathedral on foot', '킬케니 성에서 세인트캐니스 대성당까지 이어지는 옛길이라 걸어서 다 봅니다.|The old street from Kilkenny Castle to St Canice’s Cathedral, all walkable.'),
+  ],
+  nafplio: [
+    a('구시가 (신타그마 광장 주변)', 'Old town (Syntagma Square)', 'Syntagma Square, Nafplio', '처음이라면|First visit', '광장과 팔라미디 요새, 옛 성벽이 걸어서 닿습니다. 방이 작은 편이고 여름에는 일찍 예약해야 합니다.|The square, Palamidi fortress and old walls on foot; rooms are small and summer books up early.'),
+  ],
+  limerick: [
+    a('시내 중심', 'City centre', 'Limerick city centre', '걸어서 성·밤 문화|Castle and nightlife on foot', '킹 존스 성과 오코넬 거리, 펍이 걸어서 닿습니다. 여름에는 일찍 예약하세요.|King John’s Castle, O’Connell Street and the pubs on foot; book early in summer.'),
+  ],
+  sounion: [
+    a('아테네에서 다녀오기', 'Base in Athens', 'Athens city centre', '반나절 여행|Half-day trip', '차로 50~80분입니다. 대중교통이 불편해 차가 없으면 투어가 낫고, 해 질 녘 신전을 보고 돌아오는 버스를 놓치지 않게 조심하세요.|50–80 minutes by car. Buses are unreliable, so take a tour if you have no car, and don’t miss the bus back after sunset at the temple.'),
+    a('수니온·라브리오', 'Sounio and Lavrio', 'Lavrio', '바닷가에서 하룻밤|A seaside night', '라브리오는 수니온에서 8km쯤인 항구 마을로 식당과 숙소가 있습니다.|Lavrio, a port town about 8 km away, has restaurants and places to stay.'),
+  ],
+  olympia: [
+    a('고대 올림피아 마을', 'Ancient Olympia village', 'Archaia Olympia', '유적·박물관 걸어서|Site and museum on foot', '숙소 대부분이 유적과 박물관에서 걸어서 몇 분 거리입니다.|Most hotels are a few minutes’ walk from the site and the museum.'),
+  ],
+  zakopane: [
+    a('크루프프키 거리 주변 (시내)', 'Around Krupówki (centre)', 'Krupówki, Zakopane', '걸어서 다니기|Walkable', '버스 터미널, 식당, 구바우프카 푸니쿨라, 등산로행 버스가 걸어서 닿습니다. 주말 밤에는 시끄럽습니다.|The bus station, restaurants, the Gubałówka funicular and buses to the trailheads on foot; noisy on weekend nights.'),
+    a('코시치엘리스코', 'Kościelisko', 'Kościelisko', '조용함·산 풍경|Quiet, mountain views', '시내에서 떨어진 조용하고 경치 좋은 동네입니다. 시내까지 버스나 차로 다닙니다.|A calm, scenic area away from the bustle; reach town by bus or car.'),
+  ],
+  torun: [
+    a('구시가 (스타레 미아스토)', 'Old town (Stare Miasto)', 'Stare Miasto, Toruń', '처음이라면|First visit', '구시청과 시장 광장, 튜턴 기사단 성터를 걸어서 다닙니다.|The Old Town Hall, Market Square and the Teutonic castle ruins on foot.'),
+  ],
+  rovinj: [
+    a('구시가', 'Old town', 'Rovinj old town', '처음이라면|First visit', '차 없는 반도 위 구시가로 분위기가 좋습니다. 바·식당·청소차 소리로 밤에 시끄러울 수 있습니다.|The car-free old town on its peninsula, full of atmosphere; bars, restaurants and street cleaning can be noisy at night.'),
+    a('물리니·구시가 남쪽 해변', 'Mulini and the south shore', 'Mulini beach, Rovinj', '조용함·해변|Quieter, beaches', '해변 산책로를 따라 구시가까지 15분쯤 걷고 해변과 숲 공원이 가깝습니다.|About 15 minutes’ walk along the shore to the old town, close to beaches and the forest park.'),
+  ],
+  trogir: [
+    a('트로기르 구시가', 'Trogir old town', 'Trogir old town', '조용한 저녁·공항 가까움|Quiet evenings, near the airport', '스플리트 공항에서 가깝고 스플리트보다 대개 쌉니다. 차가 있으면 구시가 밖에 묵는 편이 낫고 주차비가 비쌉니다.|Close to Split Airport and usually cheaper than Split; with a car, stay just outside the old town as parking is expensive.'),
+    a('스플리트에서 다녀오기', 'Base in Split', 'Split old town', '당일치기|Day trip', '버스로 30분쯤이라 당일치기가 많습니다. 스플리트는 식당·배편이 더 많습니다.|About 30 minutes by bus, so most visit as a day trip; Split has more restaurants and ferries.'),
+  ],
+  plitvice: [
+    a('2번 입구 옆 공원 호텔', 'Park hotels by Entrance 2', 'Plitvice Lakes Entrance 2', '걸어서 공원 입장|Walk into the park', '공원 안 호텔 몇 곳이 입구 바로 옆이라 아침 일찍 들어가기 좋습니다. 시설이 오래되고 비싸다는 평이 있습니다.|A few park-run hotels sit by the entrance for an early start; often called dated and overpriced.'),
+    a('플리트비차 셀로 마을', 'Plitvica Selo village', 'Plitvica Selo', '조용한 마을|A quiet village', '3번 입구까지 걸어서 15~20분입니다. 이 입구에서는 표를 팔지 않으니 온라인으로 미리 사세요.|15–20 minutes’ walk to Entrance 3, which sells no tickets, so buy online in advance.'),
+    a('라코비차·라스토케', 'Rakovica and Rastoke', 'Rakovica, Croatia', '차 여행·가성비|By car, better value', '공원 북쪽 마을들로 더 싸고 라스토케 마을이 예쁩니다. 차가 있어야 합니다.|Villages north of the park, cheaper, with pretty Rastoke; you need a car.'),
+  ],
+  akureyri: [
+    a('시내 중심', 'Town centre', 'Akureyri town centre', '걸어서 다니기|Walkable', '작은 도시라 교회와 식당, 상점, 항구를 걸어서 다닙니다.|A compact town where the church, restaurants, shops and harbour are all walkable.'),
+  ],
+  vik: [
+    a('비크 마을', 'Vík village', 'Vík í Mýrdal', '남부 해안 거점|South Coast base', '검은 모래 해변이 걸어서 닿고 남부 해안을 둘러보는 거점으로 좋습니다. 마을 밖 숙소는 차가 있어야 합니다.|The black-sand beach is walkable and the village makes a good South Coast base; places outside need a car.'),
+  ],
+  husavik: [
+    a('시내 중심·항구', 'Town centre and harbour', 'Húsavík harbour', '고래 관찰|Whale watching', '고래 관찰 배가 떠나는 항구와 고래 박물관이 걸어서 닿습니다. 식당이 비싸 부엌 있는 숙소가 편합니다.|The whale-watching harbour and whale museum on foot; eating out is pricey, so a kitchen helps.'),
+  ],
+  ankara: [
+    a('크즐라이', 'Kızılay', 'Kızılay, Ankara', '교통·식당|Transport, dining', '지하철·버스가 모이는 도심으로 상점과 식당이 많습니다.|The central hub of metro and bus lines with shops and restaurants.'),
+    a('울루스', 'Ulus', 'Ulus, Ankara', '옛 앙카라·저렴|Old Ankara, budget', '옛 앙카라의 볼거리 대부분을 걸어서 갑니다. 숙소가 소박하고 언덕이 가파릅니다.|Walk to most of old Ankara’s sights; simpler hotels and steep streets.'),
+    a('카바클르데레', 'Kavaklıdere', 'Kavaklıdere, Ankara', '편안함·가성비|Comfort and value', '울루스보다 세련되고 밤 문화가 있으며, 찬카야의 고층 호텔보다 값이 낫습니다.|More polished than Ulus with nightlife, and better value than Çankaya’s high-rise hotels.'),
+  ],
+  bursa: [
+    a('구시가·오스만가지 중심', 'Old town and central Osmangazi', 'Osmangazi, Bursa', '걸어서 구경|Sights on foot', '울루 자미와 옛 상관(한), 시장을 걸어서 다니고 지하철이 있습니다.|The Grand Mosque, old hans and bazaars on foot, with metro access.'),
+  ],
+  trabzon: [
+    a('메이단 (시내 중심)', 'Meydan (centre)', 'Meydan, Trabzon', '걸어서 다니기|Walkable', '식당과 볼거리가 가깝습니다. 저녁에는 붐비고 시끄러울 수 있습니다.|Close to restaurants and sights; lively and noisy in the evening.'),
+    a('우준괼', 'Uzungöl', 'Uzungöl', '자연·호수|Nature, the lake', '시내에서 차로 1시간 30분쯤인 산속 호수 마을입니다. 차가 있어야 편하고 여름에는 2~3달 전에 예약하세요.|A mountain-lake village about 1.5 hours’ drive from the city; best with a car, and book 2–3 months ahead for summer.'),
+  ],
+  pamukkale: [
+    a('파묵칼레 마을', 'Pamukkale village', 'Pamukkale, Denizli', '석회봉·온천 가까이|By the travertines', '석회봉과 온천 수영장 바로 아래 마을이라 이른 아침에 가기 좋습니다. 시골이라 닭·개 소리가 들릴 수 있습니다.|The village right below the travertines and pools, ideal for an early start; rural, so expect roosters and dogs.'),
+    a('데니즐리 시내', 'Denizli city', 'Denizli Merkezefendi', '가성비·식당|Value, restaurants', '17km쯤 떨어져 있고 돌무시(미니버스)로 20분쯤입니다. 값이 싸고 식당이 많습니다.|About 17 km away, 20 minutes by minibus; cheaper with more restaurants.'),
+  ],
+  varna: [
+    a('시내 중심', 'City centre', 'Varna city centre', '구경·식당·밤 문화|Sights, dining, nightlife', '볼거리와 보행자 거리, 식당을 걸어서 다니고 바다 공원이 바로 시작됩니다.|Sights, the pedestrian street and restaurants on foot, with the Sea Garden right at the edge.'),
+    a('바다 공원 (모르스카 그라디나) 근처', 'Near the Sea Garden', 'Primorski Park, Varna', '조용함·해변|Calmer, by the beach', '공원과 해변이 가까워 가족·커플에게 좋습니다.|Green space and the beach close by, good for families and couples.'),
+    a('골든 샌즈', 'Golden Sands', 'Golden Sands, Bulgaria', '해변 휴양|Beach resort', '바르나 북쪽의 휴양지로 큰 모래 해변과 밤 문화가 있습니다. 시내 구경과는 떨어져 있습니다.|A resort north of Varna with a huge sandy beach and nightlife, away from the city sights.'),
+  ],
+  'veliko-tarnovo': [
+    a('구시가 (사모보드스카 차르시야 주변)', 'Old town (Samovodska Charshia)', 'Samovodska Charshia, Veliko Tarnovo', '걸어서 요새·공예 거리|Fortress and crafts street on foot', '공예 거리와 구시가가 가깝고 차레베츠 요새까지 걸어서 15분쯤입니다. 돌길이 아주 가팔라 차로 다니기 힘듭니다.|Close to the crafts street and old town, about 15 minutes’ walk to Tsarevets fortress; the cobbled lanes are very steep for cars.'),
+  ],
+  nessebar: [
+    a('구시가', 'Old town', 'Nessebar old town', '역사·노을 산책|History, sunset walks', '바다 전망 식당과 옛 교회가 모여 있습니다. 한여름에는 붐비고 방 구하기가 아주 어렵습니다.|Sea-view restaurants and old churches; crowded in midsummer and very hard to book.'),
+    a('신시가 (뉴 네세바르)', 'New Nessebar', 'New Nessebar', '가족 여행|Families', '넓은 호텔과 모래 해변, 식당이 많습니다.|Roomier hotels, sandy beaches and plenty of restaurants.'),
+    a('선니 비치', 'Sunny Beach', 'Sunny Beach, Bulgaria', '밤 문화|Nightlife', '해변 클럽과 바가 모여 있습니다. 구시가 항구에서 수상 택시로 10분쯤입니다.|Beach clubs and bars; about 10 minutes by water taxi from the old town harbour.'),
+  ],
+  sighisoara: [
+    a('성채 안', 'Inside the citadel', 'Sighișoara Citadel', '조용한 저녁|Quiet evenings', '단체 관광객이 떠난 저녁이 조용하고 중세 건물을 고친 게스트하우스가 많습니다. 주차장이 거의 없어 성벽 밖에 세웁니다. 축제 기간에는 일찍 찹니다.|Peaceful once the coaches leave, in restored medieval guesthouses; most have no parking, so park outside the walls. Books up fast at festival time.'),
+    a('아래 시가지', 'Lower town', 'Sighișoara lower town', '가성비·차·기차|Value, car, train', '더 싸고 차로 다니기 쉽습니다. 기차역에서 성채까지 10분쯤 오르막입니다.|Cheaper and easier by car; the station is about a 10-minute climb from the citadel.'),
+  ],
+  timisoara: [
+    a('구시가 (우니리 광장 주변)', 'Old town (Union Square)', 'Piața Unirii, Timișoara', '걸어서 다 보기|Everything on foot', '우니리·빅토리에이·리베르타티 광장과 대성당, 오페라 극장을 걸어서 다닙니다.|Union, Victory and Liberty squares, the cathedral and the opera, all on foot.'),
+  ],
+  'vatican-city': [
+    a('프라티', 'Prati', 'Prati, Rome', '바티칸 걸어서|Walk to the Vatican', '바티칸 박물관과 성 베드로 대성당까지 걸어서 10~15분입니다. 구시가보다 조용하고 콜라 디 리엔초 거리에 식당·상점이 있으며 오타비아노·레판토 지하철역이 있습니다.|10–15 minutes’ walk to the Vatican Museums and St Peter’s; quieter than the historic centre, with shops and restaurants on Via Cola di Rienzo and the Ottaviano and Lepanto metro stops.'),
+  ],
+  'andorra-la-vella': [
+    a('안도라라베야·에스칼데스 중심', 'Andorra la Vella and Escaldes centre', 'Avinguda Meritxell, Andorra la Vella', '쇼핑·차 없이|Shopping, car-free', '메리체이 거리를 따라 상점과 호텔이 모여 있고 칼데아 온천도 가깝습니다. 공항·기차가 없어 바르셀로나·툴루즈에서 버스로 옵니다.|Shops and hotels along Avinguda Meritxell, close to the Caldea spa; no airport or railway, so buses come from Barcelona and Toulouse.'),
+  ],
+  'pas-de-la-casa': [
+    a('파스 데 라 카사 마을', 'Pas de la Casa village', 'Pas de la Casa', '스키|Skiing', '그란발리라 스키장 한쪽 끝 마을로 슬로프가 바로 앞입니다.|A village at one end of Grandvalira with the slopes on the doorstep.'),
+  ],
+  ordino: [
+    a('오르디노 마을', 'Ordino village', 'Ordino, Andorra', '조용한 계곡·발노르드 스키|Quiet valley, Vallnord', '높은 계곡의 조용한 마을로 발노르드 스키장과 산길이 가깝습니다.|A quiet high-valley village close to Vallnord and mountain roads.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {
