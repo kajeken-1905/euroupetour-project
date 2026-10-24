@@ -300,3 +300,52 @@ Checked October 2026.
 - andorra-la-vella: xixerone.com/en/where-to-stay-in-andorra-best-areas-towns · uk.hotels.com/co10233001/hotels-in-andorra
 - pas-de-la-casa: xixerone.com/en/where-to-stay-in-andorra-best-areas-towns · uk.hotels.com/co10233001/hotels-in-andorra
 - ordino: xixerone.com/en/where-to-stay-in-andorra-best-areas-towns · uk.hotels.com/co10233001/hotels-in-andorra
+- vaduz: www.thebrokebackpacker.com/where-to-stay-in-liechtenstein · www.worldtravelguide.net/guides/europe/liechtenstein/region-hotels
+- schaan: www.thebrokebackpacker.com/where-to-stay-in-liechtenstein · www.worldtravelguide.net/guides/europe/liechtenstein/region-hotels
+- malbun: www.thebrokebackpacker.com/where-to-stay-in-liechtenstein · hotelsabovepar.com/?p=16116
+- kosice: www.expedia.com.tw/en/Kosice-Hotels.d1920.Travel-Guide-Hotels · es.hotels.com/de10654301/hotels-near-hlavne-nam-kosice-slovakia
+- poprad: www.milehacker.com/travel/slovakia/high-tatras/where-to-stay-in-high-tatras-hotels-neighborhoods- · spectator.sme.sk/travel/c/blog-the-ultimate-guide-to-where-to-stay-in-the-high-tatras
+- bled: xixerone.com/en/where-to-stay-in-bled-slovenia · www.bigworldsmallpockets.com/stay-lake-bled · sofiaadventures.com/where-to-stay-lake-bled-hotels
+- piran: charlieontravel.com/piran · www.milehacker.com/travel/slovenia/karst-and-coast/piran/where-to-stay-in-piran-hotels-neighborhoods-accomm · www.placesofjuma.com/piran-slovenia
+- maribor: www.milehacker.com/travel/slovenia/maribor/where-to-stay-in-maribor-hotels-neighborhoods-acco · sofiaadventures.com/things-to-do-in-maribor
+- postojna: www.expedia.com.my/ms/things-to-do/from-ljubljana-postojna-cave-day-trip.a4537045.activity-details · www.musement.com/us/ljubljana/day-trip-to-postojna-cave-and-predjama-castle-from-ljubljana-233693
+- banska-bystrica: www.lastminute.com/hotels/sk_slovakia/banska-bystrica-d1478154866 · www.mywanderlust.pl/banska-bystrica-slovakia
+- trencin: www.mywanderlust.pl/trencin-slovakia · hotel.routard.com/city/sk/trencin.en-gb.html?aid=304142
+- sarajevo: www.chasingthedonkey.com/bosnia-and-herzegovina-travel/where-to-stay-in-sarajevo-hotels · www.expedia.co.in/Sarajevo-Bascarsije.dx6343182
+- mostar: cherylhoward.com/where-to-stay-in-mostar · www.chasingthedonkey.com/bosnia-and-herzegovina-travel/where-to-stay-in-mostar
+- banja-luka: www.milehacker.com/travel/bosnia-and-hercegovina/central-and-northern-bosnia-and-hercegovina/banja-luka/where-to-stay-in-banja-luka-hotels-neighborhoods-a · us.lastminute.com/hotels/ba_bosnia-and-herzegovina/banja-luka-d1026157767
+- travnik: rediscover.co.uk/hotel/travnik-vezir-palace · m.booking.com/hotel/ba/aba.en-gb.html
+- neum: www.theculturetrip.com/europe/bosnia-herzegovina/articles/best-hotels-and-apartments-in-neum-bosnia-and-herzegovina · livetheworld.com/post/europe-s-biggest-sea-secret-bosnia-and-herzegovina-has-beaches-g0hy
+- podgorica: www.travellingking.com/where-to-stay-in-podgorica · www.expedia.co.nz/Podgorica.dx10048
+- novi-sad: chasingwhereabouts.com/destinations/serbia/novi-sad · www.expedia.co.uk/Novi-Sad.dx6051841
+- nis: www.chasingthedonkey.com/serbia-travel-guide/best-hotels-in-nis-serbia · theculturetrip.com/europe/serbia/articles/the-best-hotels-in-nis-serbia
+- kutaisi: www.letsbookhotel.com/el/georgia/kutaisi/guide.aspx · www.redfedoradiary.com/?p=17197
+- stepantsminda: wander-lush.org/where-to-stay-in-kazbegi-hotels · www.milehacker.com/travel/georgia/the-mountains/kazbegi/where-to-stay-in-kazbegi-hotels-neighborhoods-acco
+- sighnaghi: www.redfedoradiary.com/what-to-do-in-sighnaghi · madloba.info/en/reviews/where-to-stay/gde-ostanovitsya-v-gorodah-gruzii/gde-ostanovitsya-v-signahi
+- bitola: www.mywanderlust.pl/things-to-do-in-bitola-north-macedonia · es.hotels.com/de10656715/hotels-near-sirok-sokak-bitola-f-y-r-o-macedonia
+- nicosia: www.thehotelguru.com/en-gb/best-hotels-in/cyprus/nicosia · us.lastminute.com/hotels/cy_cyprus/nicosia-d1076154698
+- ayia-napa: www.lastminute.com/hotels/cy_cyprus/ayia-napa-d1076154716 · admiral.travel/en/holiday-in-ayia-napa-complete-resort-guide
+- berat: www.chasingthedonkey.com/albania-travel-guide/best-hotels-in-berat · shippedaway.com/where-to-stay-in-berat · adventurealbania.com/where-to-stay-in-berat-albania
+- gjirokaster: adventurealbania.com/where-to-stay-in-gjirokaster · www.albania-spirit.com/guides/where-to-stay-gjirokastra
+- sarande: adventurealbania.com/where-to-stay-in-saranda-albania · www.thebrokebackpacker.com/where-to-stay-in-saranda-albania
+- mdina: www.zigzagonearth.com/where-stay-malta-best-areas · www.lastminute.com/hotels/mt_malta/mdina-d1331155052
+- tartu: www.travellingking.com/where-to-stay-in-tartu · www.thehotelguru.com/best-hotels-in/estonia/tartu · guide.michelin.com/ee/en/article/travel/48-hours-in-tartu-estonia-contemporary-weekend-away
+- parnu: www.expedia.co.nz/Parnu.dx181016 · ca.hotels.com/fr/re711286001843728384/hotels-region-parnu-municipality-estonie
+- jurmala: www.letsbookhotel.com/fi/latvia/jurmala/guide.aspx · www.kayak.co.uk/J%C5%ABrmala.9080.guide
+- sigulda: thirdeyetraveller.com/one-day-in-sigulda-day-trip · www.latvia.travel/en/day-trips-riga · www.bordersofadventure.com/?p=26107
+- klaipeda: www.expedia.com/Klaipeda.dx601931.Where-To-Stay · es.hoteles.com/de797614/hoteles-klaipeda-lituania/monthTab7
+- chisinau: visit.chisinau.md/en/?p=282 · www.hotels.com/de1672575/hotels-near-stefan-cel-mare-park-chisinau-moldova
+- orheiul-vechi: asocialnomad.com/moldova/old-orhei-orheiul-vechi-guide · dontstopliving.net/backpacking-moldova-spontaneous-inspiring-day-butuceni · www.milehacker.com/travel/moldova/chisinau-municipality/chisinau/day-trips-from-chisinau-excursions-nearby-cities-t
+- gyumri: expedia.co.in/Gyumri-Hotels.d2174.Travel-Guide-Hotels · uk.trip.com/travel-guide/destination/gyumri-21355
+- sheki: wander-lush.org/caravanserai-sheki-karvansaray-hotel · museumofwander.com/what-to-see-in-sheki · chasingwhereabouts.com/destinations/azerbaijan/sheki
+- san-marino-city: www.thetripverdict.com/where-to-stay-in-san-marino · www.marcotogni.it/dove-dormire-san-marino · petraontheway.com/en/san-marino
+- borgo-maggiore: www.thetripverdict.com/where-to-stay-in-san-marino · www.marcotogni.it/dove-dormire-san-marino · petraontheway.com/en/san-marino
+- prizren: travellersworldwide.com/where-to-stay-in-kosovo · 247gap.truely.com/blog/best-cities-to-visit-in-kosovo
+- pristina: travellersworldwide.com/where-to-stay-in-kosovo · 247gap.truely.com/blog/best-cities-to-visit-in-kosovo
+- leuven: mini-adventures.com/one-day-leuven-itinerary · visitleuven.be/en/travel-trade/hotels
+- dinant: afternoonteareads.com/tag/day-trip-from-brussels · hoponworld.com/things-to-do-dinant-belgium
+- ravenna: www.avygeo.com/en/guide/europe/italy/8157-ravenna/where-to-stay · www.expedia.com/Ravenna-Centro-Storico.dx1043823726667247616
+- monaco: www.milehacker.com/travel/monaco/where-to-stay-in-monaco-hotels-neighborhoods-accom · f1destinations.com/?p=2705
+- monte-carlo: www.milehacker.com/travel/monaco/where-to-stay-in-monaco-hotels-neighborhoods-accom · f1destinations.com/?p=2705
+- grindelwald: whereandwander.com/where-to-stay-jungfrau-grindelwald-guide · swissfamilyfun.com/where-to-stay-jungfrau-region · www.fodors.com/community/europe/interlaken-or-wengen-731220
+- selfoss: www.funiceland.is/blog/selfoss-town-iceland-guide-to-accommodation-and-what-to-see-and-do · guidetoiceland.is/accommodation/iceland-hotels-selfoss
