@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="60" height="40" viewBox="0 0 60 40">
-  <rect width="60" height="13.33" fill="#0092BC"/>
-  <rect y="13.33" width="60" height="13.33" fill="#EF3340"/>
-  <rect y="26.67" width="60" height="13.33" fill="#509E2F"/>
-  <path d="M31 14 a6 6 0 1 0 0 12 a4.8 4.8 0 1 1 0 -12 z" fill="#FFFFFF"/>
-  <path d="M31.6,18.4 L31.98,19.47 L33.12,19.51 L32.22,20.2 L32.54,21.29 L31.6,20.65 L30.66,21.29 L30.98,20.2 L30.08,19.51 L31.22,19.47 Z" fill="#FFFFFF"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice">
+<rect width="1200" height="600" fill="#509e2f"/>
+<rect width="1200" height="400" fill="#ef3340"/>
+<rect width="1200" height="200" fill="#00b5e2"/>
+<circle cx="570" cy="300" r="90" fill="#fff"/>
+<circle cx="590" cy="300" r="75" fill="#ef3340"/>
+<path d="M670 250l9.567 26.903 25.788-12.258-12.258 25.788L720 300l-26.903 9.567 12.258 25.788-25.788-12.258L670 350l-9.567-26.903-25.788 12.258 12.258-25.788L620 300l26.903-9.567-12.258-25.788 25.788 12.258z" fill="#fff"/>
 </svg>
