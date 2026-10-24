@@ -6,6 +6,8 @@ import { t } from '../i18n/ui'
 export function PassesPanel({ passes }: { passes: Pass[] }) {
   const { lang } = useLanguage()
   if (passes.length === 0) return null
+  // A price may carry its own wording per language, as 'ko|en'.
+  const price = (p: string) => (p.includes('|') ? p.split('|')[lang === 'ko' ? 0 : 1] : p)
   return (
     <section className="itinerary-panel" aria-label={t('passesTitle', lang)}>
       <p className="section-label">{t('passesTitle', lang)}</p>
@@ -20,7 +22,7 @@ export function PassesPanel({ passes }: { passes: Pass[] }) {
                 {pass.rows.map((row) => (
                   <tr key={row.name.en}>
                     <th scope="row">{row.name[lang]}</th>
-                    <td className={row.price ? undefined : 'pass-price-site'}>{row.price || t('passesSeeSite', lang)}</td>
+                    <td className={row.price ? undefined : 'pass-price-site'}>{row.price ? price(row.price) : t('passesSeeSite', lang)}</td>
                   </tr>
                 ))}
               </tbody>

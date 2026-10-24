@@ -21,4 +21,15 @@ Official seller pages are the `buy` links in src/data/passes.ts. Extra sources w
 - helsinki: stromma.com/en-fi/helsinki/city-pass/helsinki-card
 - tallinn: visittallinn.ee/eng/tallinncard/faq (no price found)
 
-Left out for now: Athens (combined ticket ended April 2025), Porto (only 2025 prices), Innsbruck (sources disagree), Netherlands Museumkaart (no current temporary-card price).
+- munich: muenchen.travel München City Pass price table (search summary of official page)
+- hamburg: hamburg-tourism.de/buchen/hamburg-card-1
+- zurich: zuerich.com/en/zurichcard/benefits, zuerich.com/zcfaq
+- geneva: geneve.com free Geneva Transport Card page
+- stockholm: gocity.com/en/stockholm ("from" prices)
+- ljubljana: visitljubljana.com Ljubljana Card page
+- dubrovnik: dbv.hr/en/dubrovnik-pass-1211/1210 (airport site), chasingwhereabouts.com/blog/dubrovnik-pass-review
+- valencia: visitvalencia.com/en/product/285
+- bergen: visitnorway.com/listings/bergen-card/17793 (Visit Bergen listing, 2026 prices)
+- lyon: traveltrade.lyon-france.com (inclusions); no 2026 price
+
+Left out for now: Athens (combined ticket ended April 2025), Porto (only 2025 prices), Innsbruck (sources disagree), Netherlands Museumkaart (no current temporary-card price), Kraków, Venice, Naples, Zagreb, Riga, Istanbul, Gothenburg, Bratislava, Luxembourg, Granada (no official current price), Bern/Basel guest tickets (not checked).

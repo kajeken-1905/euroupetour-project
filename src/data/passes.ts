@@ -255,6 +255,117 @@ export const CITY_PASSES: Record<string, Pass[]> = {
       checked: '2026-10',
     },
   ],
+  munich: [
+    {
+      name: tx('뮌헨 시티 패스', 'München City Pass'),
+      covers: tx('명소 40곳 이상 무료 입장. 대중교통(S·U반, 버스, 트램)은 M존 또는 공항을 포함한 전체 구간으로 고르거나 빼고 살 수 있습니다.', 'Free entry to 40+ attractions; public transport (S-Bahn, U-Bahn, buses, trams) can be added for zone M or the whole network including the airport, or left out.'),
+      rows: [
+        r('1 / 2 / 3일, 교통 없음 (성인)', '1 / 2 / 3 days, no transport (adult)', '€39.90 / 53.90 / 59.90'),
+        r('1 / 2 / 3일 + M존', '1 / 2 / 3 days + zone M', '€55.90 / 76.90 / 91.90'),
+        r('1 / 2 / 3일 + 공항 포함 전체', '1 / 2 / 3 days + whole network', '€66.90 / 91.90 / 115.90'),
+      ],
+      tips: [tx('고른 날 새벽 6시(다음 날)까지 쓸 수 있습니다. 무료 입장 없이 할인만 되는 더 싼 뮌헨 카드도 있습니다.', 'Valid on the chosen days until 6 am the next morning. The cheaper München Card gives discounts only, not free entry.')],
+      buy: 'https://www.muenchen.travel/angebote/muenchen-city-pass',
+      checked: '2026-10',
+    },
+  ],
+  hamburg: [
+    {
+      name: tx('함부르크 카드', 'Hamburg CARD'),
+      covers: tx('공항을 포함한 함부르크 AB 구역의 버스·기차·항구 페리 무제한과 명소 150곳 이상 최대 50% 할인', 'Unlimited buses, trains and harbour ferries in Hamburg AB including the airport, and up to 50% off at 150+ attractions'),
+      rows: [
+        r('1 / 2 / 3일 (1인)', '1 / 2 / 3 days (single)', '€12.90 / 24.90 / 35.90'),
+        r('4 / 5일', '4 / 5 days', '€46.90 / 54.90'),
+        r('그룹 (5명까지) 1 / 2 / 3일', 'Group (up to 5) 1 / 2 / 3 days', '€24.90 / 43.90 / 60.90'),
+      ],
+      tips: [tx('1인 카드에 6~14세 아이 3명까지 함께 탑니다. 입장료는 무료가 아니라 할인입니다.', 'A single card also covers up to three children aged 6–14. Entry is discounted, not free.')],
+      buy: 'https://www.hamburg-tourism.de/buchen/hamburg-card-1/',
+      checked: '2026-10',
+    },
+  ],
+  zurich: [
+    {
+      name: tx('취리히 카드', 'Zürich Card'),
+      covers: tx('취리히와 주변 지역의 트램·버스·기차·배·케이블카 무제한(공항 포함), 위틀리베르크, 쿤스트하우스·스위스 국립박물관 등 여러 박물관 무료', 'Unlimited trams, buses, trains, boats and cable cars in Zurich and the region (airport included), the Uetliberg, and free entry to many museums such as the Kunsthaus and the National Museum'),
+      rows: [r('24시간 (성인 / 6~15세)', '24 hours (adult / 6–15)', 'CHF 29 / 19'), r('72시간', '72 hours', 'CHF 56 / 37')],
+      tips: [
+        tx('2026년 12월 13일부터 새 가격이 적용됩니다. 박물관은 대부분 월요일에 닫습니다.', 'New prices apply from 13 December 2026. Most museums close on Mondays.'),
+        tx('스위스 트래블 패스가 있으면 교통과 많은 박물관이 이미 포함되니 따로 살 필요가 적습니다.', 'With a Swiss Travel Pass, transport and many museums are already covered.'),
+      ],
+      buy: 'https://www.zuerich.com/en/zurichcard',
+      checked: '2026-10',
+    },
+  ],
+  geneva: [
+    {
+      name: tx('제네바 교통 카드 (숙박객 무료)', 'Geneva Transport Card (free for guests)'),
+      covers: tx('제네바 숙소에 묵는 동안 제네바주(10존) 버스·트램·기차·노란 배(무에트)를 무료로 탑니다.', 'Free buses, trams, trains and Mouettes boats across the Canton of Geneva (zone 10) for the length of your stay.'),
+      rows: [r('숙박 기간 내내', 'Whole stay', '무료|Free')],
+      tips: [tx('도착 3일 전쯤 숙소가 보내는 이메일 양식을 작성하면 휴대폰으로 받습니다. 스팸함도 확인하세요. 등록된 숙소에서만 됩니다.', 'About three days before arrival your accommodation emails a form; fill it in and the card comes to your phone. Check your spam folder. Only registered accommodation can issue it.')],
+      buy: 'https://www.geneve.com/en/plan-stay/getting-around/free-geneva-transport-card',
+      checked: '2026-10',
+    },
+  ],
+  stockholm: [
+    {
+      name: tx('스톡홀름 패스 (Go City)', 'Stockholm Pass (Go City)'),
+      covers: tx('바사 박물관·왕궁·스칸센·노벨상 박물관·드로트닝홀름 궁전 등 60곳 이상(올인클루시브). 에센셜은 3곳을 골라 30일 안에 씁니다.', 'All-Inclusive covers 60+ sights such as the Vasa Museum, Royal Palace, Skansen, Nobel Prize Museum and Drottningholm; Essentials lets you pick 3 to use within 30 days.'),
+      rows: [r('올인클루시브 (기간 선택)', 'All-Inclusive (choose days)', 'SEK 949~'), r('에센셜 (3곳)', 'Essentials (3 sights)', 'SEK 649~')],
+      tips: [tx('대중교통이 포함된다는 안내는 없으니 SL 교통권을 따로 준비하세요. 스톡홀름 관광청이 아닌 민간 회사 상품입니다.', 'Public transport is not listed as included, so plan an SL ticket separately. It is a private company product, not the tourist board’s.')],
+      buy: 'https://gocity.com/en/stockholm',
+      checked: '2026-10',
+    },
+  ],
+  ljubljana: [
+    {
+      name: tx('류블랴나 카드', 'Ljubljana Card'),
+      covers: tx('시내버스(LPP) 무제한과 류블랴나성·강 유람선·시내 가이드 투어·국립미술관 등 30곳 이상(곳마다 1회)', 'Unlimited LPP city buses and 30+ attractions (once each) such as Ljubljana Castle, a river cruise, a guided city tour and the National Gallery'),
+      rows: [r('24 / 48 / 72시간 (성인)', '24 / 48 / 72 hours (adult)', '€41 / 49 / 54'), r('6~14세', 'Ages 6–14', '€26 / 31 / 35')],
+      tips: [tx('버스에 탈 때마다 카드나 QR을 찍어야 합니다. 시내 가이드 투어는 이메일로 미리 예약합니다.', 'Validate the card or QR code each time you board. Book the guided city tour by email in advance.')],
+      buy: 'https://www.visitljubljana.com/en/visitors/travel-information/ljubljana-card/',
+      checked: '2026-10',
+    },
+  ],
+  dubrovnik: [
+    {
+      name: tx('두브로브니크 패스', 'Dubrovnik Pass'),
+      covers: tx('성벽과 로브리예나츠 요새, 렉터 궁전 등 박물관·미술관(곳마다 1회), 시내버스 무료', 'The city walls and Fort Lovrijenac, museums and galleries such as the Rector’s Palace (once each), and free city buses'),
+      rows: [r('1일 / 3일 / 7일', '1 / 3 / 7 days', '€40 / 50 / 60')],
+      tips: [tx('성벽 입장권만으로도 비슷한 값이라 성벽을 걸을 거면 패스가 낫습니다. 7세 미만은 필요 없습니다.', 'It costs about the same as a walls ticket alone, so it pays off if you walk the walls. Under-7s do not need one.')],
+      buy: 'https://www.dubrovnikpass.com/en/',
+      checked: '2026-10',
+    },
+  ],
+  valencia: [
+    {
+      name: tx('발렌시아 투어리스트 카드', 'Valencia Tourist Card'),
+      covers: tx('공항 오가는 지하철(3·5호선)을 포함한 시내버스·지하철·트램 무료(AB존), 시립 박물관·기념물 무료, 그 밖의 할인', 'Free buses, metro and trams in zones AB including the airport metro (lines 3 and 5), free municipal museums and monuments, and other discounts'),
+      rows: [r('24 / 48 / 72시간', '24 / 48 / 72 hours', '€17 / 24 / 30')],
+      tips: [tx('공식 사이트에서 사면 10% 쌉니다. 처음 쓸 때부터 시간이 갑니다.', 'Buying on the official site saves 10%. The clock starts at first use.')],
+      buy: 'https://www.visitvalencia.com/en/product/285',
+      checked: '2026-10',
+    },
+  ],
+  bergen: [
+    {
+      name: tx('베르겐 카드', 'Bergen Card'),
+      covers: tx('공항 오가는 경전철 1호선을 포함한 베르겐 일대 버스·경전철 무료, 박물관·명소 무료 또는 할인', 'Free buses and light rail in and around Bergen, including light rail line 1 to the airport, and free or discounted museums and sights'),
+      rows: [r('24 / 48시간 (성인)', '24 / 48 hours (adult)', 'NOK 400 / 500'), r('72 / 96시간', '72 / 96 hours', 'NOK 600 / 700')],
+      tips: [tx('Vy 기차와 피오르 배는 포함되지 않습니다. 10~5월에는 월요일에 닫는 박물관이 많습니다. 환불되지 않습니다.', 'Vy trains and fjord boats are not included. Many museums close on Mondays from October to May. Not refundable.')],
+      buy: 'https://shop.visitbergendigital.com/',
+      checked: '2026-10',
+    },
+  ],
+  lyon: [
+    {
+      name: tx('리옹 시티 카드', 'Lyon City Card'),
+      covers: tx('대중교통 무제한과 박물관 30곳 정도, 가이드 투어. 공항 열차(론익스프레스)를 더한 판도 있습니다.', 'Unlimited public transport, about 30 museums and guided tours; a version with the Rhônexpress airport tram also exists.'),
+      rows: [r('1 / 2 / 3 / 4일', '1 / 2 / 3 / 4 days')],
+      tips: [tx('2026년 가격을 공식 출처에서 확인하지 못해 가격은 넣지 않았습니다.', 'No 2026 price could be confirmed from an official source, so none is shown.')],
+      buy: 'https://www.visiterlyon.com/',
+      checked: '2026-10',
+    },
+  ],
   barcelona: [
     {
       name: tx('바르셀로나 카드', 'Barcelona Card'),
