@@ -1471,6 +1471,73 @@ export const STAY: Record<string, StayArea[]> = {
   selfoss: [
     a('셀포스 시내', 'Selfoss town centre', 'Selfoss', '골든 서클·남부 해안 거점|Golden Circle and South Coast base', '골든 서클까지 30km, 남부 해안까지 70km, 레이캬비크까지 50km쯤이라 차로 다니기 좋은 거점입니다.|About 30 km to the Golden Circle, 70 km to the South Coast and 50 km to Reykjavík, a handy base by car.'),
   ],
+  vianden: [
+    a('비안덴 구시가 (성 아래)', 'Vianden old town', 'Vianden', '성 야경·조용한 저녁|The lit castle, quiet evenings', '관광객이 떠난 저녁에 불 켜진 성과 계곡을 즐깁니다. 숙소는 구시가에 모여 있고 식당이 많지 않습니다.|Enjoy the lit castle and the valley once visitors leave; rooms cluster in the old town and evenings are low-key.'),
+    a('룩셈부르크 시내에서 다녀오기', 'Base in Luxembourg City', 'Luxembourg City', '당일치기|Day trip', '47km쯤으로 차로 45분입니다. 기차역이 없어 에텔브뤼크까지 기차, 거기서 버스를 타며 대중교통은 무료입니다.|About 47 km, 45 minutes by car; no station, so take the train to Ettelbruck and then a bus. Public transport is free.'),
+  ],
+  echternach: [
+    a('에히터나흐 시내·호숫가', 'Echternach centre and lake', 'Echternach', '뮐러탈 트레일 거점|Mullerthal Trail base', '작은 마을이라 시내나 호숫가(유스호스텔)에 묵습니다. 트레일과 버스 정류장이 가깝고 버스는 무료입니다.|A small town; stay in the centre or by the lake (youth hostel), close to the trails and the bus station. Buses are free.'),
+  ],
+  remich: [
+    a('룩셈부르크 시내에서 다녀오기', 'Base in Luxembourg City', 'Luxembourg City', '당일치기|Day trip', '버스로 1시간쯤이고 셍겐·와이너리를 묶은 당일 투어도 있습니다.|About an hour by bus, and day tours combine Schengen and the wineries.'),
+  ],
+  'ceske-budejovice': [
+    a('구시가 (프르셰미슬 오타카르 2세 광장 주변)', 'Old town (Přemysl Otakar II Square)', 'Přemysl Otakar II Square, České Budějovice', '걸어서·당일치기 거점|On foot, day-trip base', '큰 광장 주변에 숙소가 있고 체스키크룸로프·인드르지후프 흐라데츠 당일치기 거점으로 좋습니다.|Hotels around the vast square, a good base for day trips to Český Krumlov and Jindřichův Hradec.'),
+  ],
+  agrigento: [
+    a('구시가 (아테네아 거리 주변)', 'Historic centre (Via Atenea)', 'Via Atenea, Agrigento', '처음이라면·대중교통|First visit, by bus or train', '식당과 버스·기차역이 걸어서 닿습니다. 신전 계곡까지 걸어서 내리막 30분이나 버스로 10분입니다.|Restaurants and the bus and rail stations on foot; the temples are a 30-minute downhill walk or 10 minutes by bus.'),
+    a('신전 계곡 언덕', 'Temple ridge', 'Valle dei Templi, Agrigento', '신전 전망|Temple views', '콘코르디아 신전이 보이는 고급 숙소가 있고 입구까지 걸어서 5분이 안 걸립니다. 근처에 식당이 적어 저녁엔 차나 택시가 필요합니다.|Upmarket stays facing the Temple of Concordia, under 5 minutes from the gates; few restaurants nearby, so evenings need a car or taxi.'),
+    a('산레오네', 'San Leone', 'San Leone, Agrigento', '해변|Beach', '바닷가 동네로 해변과 스칼라 데이 투르키가 가깝습니다. 신전까지는 매일 차로 오갑니다.|The seaside district near the beach and Scala dei Turchi, with a short drive to the temples each day.'),
+  ],
+  stirling: [
+    a('에든버러·글래스고에서 다녀오기', 'Base in Edinburgh or Glasgow', 'Stirling station', '당일치기|Day trip', '글래스고에서 기차로 30~45분, 에든버러에서 1시간이 안 걸립니다. 성과 월리스 기념탑, 구시가는 하루면 봅니다.|30–45 minutes by train from Glasgow and under an hour from Edinburgh; a day covers the castle, Wallace Monument and old town.'),
+    a('스털링 시내', 'Stirling town', 'Stirling Old Town', '느긋하게·하이랜드 거점|Slower pace, Highlands base', '1~2박 하면서 캠버스케네스 수도원, 둔 성, 트로삭스까지 둘러보기 좋습니다.|Stay a night or two to add Cambuskenneth Abbey, Doune Castle or the Trossachs.'),
+  ],
+  'cala-gonone': [
+    a('칼라고노네 마을', 'Cala Gonone village', 'Cala Gonone', '배·해변 거점|Boats and beaches', '보트 투어와 렌털, 식당이 가장 많고 부에 마리노 동굴과 칼라 루나가 가깝습니다. 여름에는 일찍 예약하세요.|The most boat trips, rentals and restaurants, close to Bue Marino and Cala Luna; book early for summer.'),
+    a('도르갈리', 'Dorgali', 'Dorgali', '내륙·농가 숙소|Inland, farm stays', '바다 위 내륙 마을로 농가 숙소가 있고 고로푸 협곡·티스칼리와 묶기 좋습니다.|The inland town above the coast, with farm stays, good for adding Gorropu and Tiscali.'),
+  ],
+  calvi: [
+    a('구시가·성채 주변', 'Old town and citadel', 'Citadelle de Calvi', '분위기·전망|Atmosphere, views', '성채와 구시가가 가깝고 해변까지 걸어서 갑니다. 7~8월은 일찍 예약하세요.|Close to the citadel and old town, with the beach walkable; book early for July and August.'),
+    a('칼비 해변·항구 쪽', 'Beach and marina', 'Plage de Calvi', '해수욕|Swimming', '만을 따라 이어진 해변 바로 앞이고 항구와 시내까지 걸어서 닿습니다.|Right on the long bay beach, a short walk to the marina and town.'),
+  ],
+  dijon: [
+    a('구시가', 'Old town', 'Dijon centre historique', '처음이라면|First visit', '부르고뉴 공작 궁전, 레알 시장, 올빼미 길, 미술관을 걸어서 다닙니다.|The Palace of the Dukes, Les Halles, the Owl Trail and the fine arts museum on foot.'),
+    a('기차역 주변', 'Near the station', 'Dijon Ville station', '기차 이동·가성비|Trains, value', '구시가까지 걸어서 10분이 안 걸립니다.|Under ten minutes’ walk to the old town.'),
+  ],
+  lugano: [
+    a('시내 중심', 'City centre', 'Lugano centro', '처음이라면|First visit', '옛 거리와 상점, 식당, 밤 문화가 모여 있습니다.|Historic streets, shops, restaurants and nightlife.'),
+    a('파라디소', 'Paradiso', 'Paradiso, Lugano', '호수 전망|Lake views', '호숫가 호텔이 모여 있고 산살바토레 푸니쿨라가 가깝습니다. 시내까지 걷거나 버스로 잠깐입니다.|Lakeside hotels near the Monte San Salvatore funicular, a short walk or bus ride to the centre.'),
+  ],
+  'herceg-novi': [
+    a('성벽 안 구시가', 'Old town', 'Herceg Novi old town', '분위기|Atmosphere', '볼거리가 걸어서 2분 안에 있습니다. 계단이 많아 짐이 무겁다면 힘들고 성수기에는 자정까지 시끄럽습니다.|Everything within a two-minute walk; lots of steps with luggage and noisy until midnight in season.'),
+    a('이갈로', 'Igalo', 'Igalo', '평지·가족 여행|Flat, families', '평지라 아이·짐이 많은 여행에 편하고 중심보다 15~20% 쌉니다.|Flat and easy with children or luggage, and 15–20% cheaper than the centre.'),
+  ],
+  aalborg: [
+    a('시내 중심', 'City centre', 'Aalborg centrum', '처음이라면|First visit', '보행자 거리와 펍·클럽(요므프루 아네 거리), 교통이 모여 있습니다.|Pedestrian streets, pubs and clubs (Jomfru Ane Gade) and good transport links.'),
+    a('베스테르브로·중앙역 주변', 'Vesterbro and the station', 'Aalborg Station', '가성비·기차|Value, trains', '시내 서쪽으로 저렴한 호텔·호스텔이 있고 기차 여행에 편합니다.|West of the centre, with budget hotels and hostels, handy for trains.'),
+  ],
+  subotica: [
+    a('시내 중심 (시청·코르소 주변)', 'Centre (City Hall and the Korzo)', 'Subotica City Hall', '걸어서 아르누보 건축|Art Nouveau on foot', '시청과 시나고그 등 주요 볼거리를 걸어서 보고, 해 질 녘 건물이 가장 예쁩니다.|City Hall, the synagogue and the main sights on foot; the buildings glow best at sunset.'),
+    a('팔리치 호숫가', 'Lake Palić', 'Palić', '호숫가 휴양|Lakeside', '8~10km 떨어진 호숫가 휴양지로 6번 버스가 30~40분마다 다닙니다.|A lakeside spa resort 8–10 km away, reached by bus 6 every 30–40 minutes.'),
+  ],
+  tetovo: [
+    a('스코페에서 다녀오기', 'Base in Skopje', 'Skopje bus station', '당일치기|Day trip', '50km쯤, 버스로 1시간 조금 넘게 걸려 하루면 채색 모스크와 아라바티 바바 테케를 봅니다.|About 50 km, a little over an hour by bus; a day covers the Painted Mosque and Arabati Baba Teke.'),
+    a('테토보 시내 (일린덴스카 거리 주변)', 'Town centre (Ilindenska)', 'Tetovo city centre', '하룻밤·오흐리드 가는 길|Overnight, en route to Ohrid', '시장과 모스크, 식당이 걸어서 닿습니다. 마브로보·오흐리드로 가는 길에 하룻밤 묵기 좋습니다.|The bazaar, mosque and restaurants on foot; a handy overnight on the way to Mavrovo or Ohrid.'),
+  ],
+  soroca: [
+    a('키시너우에서 다녀오기', 'Base in Chișinău', 'Chișinău North Bus Station', '당일치기|Day trip', '북부 버스 터미널에서 버스로 2시간 반~3시간쯤이고, 요새와 집시 언덕은 하루면 봅니다. 버스 정류장에서 요새까지 걸어서 20분쯤입니다.|2.5–3 hours by bus from the North Bus Station; a day covers the fortress and Gypsy Hill. The fortress is about 20 minutes’ walk from the bus stop.'),
+  ],
+  dilijan: [
+    a('옛 거리 (샤람베얀 거리) 주변', 'Around Sharambeyan Street', 'Sharambeyan Street, Dilijan', '옛 마을 분위기|Old-town character', '복원된 옛 거리 근처에 게스트하우스가 모여 있습니다. 비탈이 많아 계단이 있는 숙소도 있습니다.|Guesthouses cluster around the restored old street; hilly, so some rooms are down steps.'),
+  ],
+  gabala: [
+    a('가발라 시내', 'Gabala town', 'Gabala city centre', '가성비·식당|Value, restaurants', '숙소가 싸고 식당이 가깝습니다. 바쿠에서 차로 2~3시간입니다.|Cheaper rooms close to restaurants; 2–3 hours by road from Baku.'),
+    a('투판다그 산기슭', 'Tufandag foothills', 'Tufandag, Gabala', '케이블카·스키|Cable car, skiing', '케이블카 역 옆 리조트로 스키·산 풍경에 좋습니다.|Resorts by the cable car, for skiing and mountain views.'),
+  ],
+  peja: [
+    a('시내 중심', 'Town centre', 'Peja city centre', '거점|Base', '강과 산이 보이는 시내 중심에 숙소가 모여 있습니다. 루고바 협곡·데차니 수도원은 차나 택시로 다녀옵니다.|Hotels gather in the centre by the river and mountains; Rugova Canyon and Dečani Monastery need a car or taxi.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {

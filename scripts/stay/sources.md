@@ -349,3 +349,21 @@ Checked October 2026.
 - monte-carlo: www.milehacker.com/travel/monaco/where-to-stay-in-monaco-hotels-neighborhoods-accom · f1destinations.com/?p=2705
 - grindelwald: whereandwander.com/where-to-stay-jungfrau-grindelwald-guide · swissfamilyfun.com/where-to-stay-jungfrau-region · www.fodors.com/community/europe/interlaken-or-wengen-731220
 - selfoss: www.funiceland.is/blog/selfoss-town-iceland-guide-to-accommodation-and-what-to-see-and-do · guidetoiceland.is/accommodation/iceland-hotels-selfoss
+- vianden: choosewhere.com/vianden-visitor-guide · www.cosmosmariners.com/blog/vianden-castle-best-day-trip-luxembourg · www.hostelworld.com/blog/?p=1303357
+- echternach: www.hostelworld.com/blog/?p=1303355 · youthhostels.lu/en/activities/mini-hiking-trip-mullerthal
+- remich: www.sidewalksafari.com/2019/11/best-day-trips-from-luxembourg-city.html · www.lcto.lu/en/place/tour/river-and-wine-moselle-day-tour
+- ceske-budejovice: loudavymkrokem.cz/en/ceske-budejovice-czech-republic · www.expedia.com.ph/esk-Budjovice.dx5097
+- agrigento: www.youontour.it/en/where-to-stay · www.travellingking.com/where-to-stay-in-agrigento · theweather.guide/italy/sicily/agrigento/agrigento-where-to-stay
+- stirling: wanderfulplans.com/day-trip-to-stirling-castle-from-glasgow-scotland · lovetovisitscotland.com/best-things-to-do-in-stirling-scotland-the-complete-guide · www.liveitupwithlacey.com/blog/one-fantastic-day-trip-to-stirling-from-edinburgh
+- cala-gonone: www.voyagetips.com/en/gulf-of-orosei-supramonte · sardiniabella.com/en/cala-gonone-guide-things-to-know-accomodation · pocketsardinia.com/places-to-go/sardinia-east-coast
+- calvi: corsicalovers.fr/en/best-hotel-calvi-where-stay · discoverfrancebeyondparis.com/where-to-stay-in-calvi-best-hotels-by-the-beach-citadel-and-old-town
+- dijon: traveloneohone.com/where-to-stay-in-dijon-france · www.routedesgrandscrusdebourgogne.com/en/stay-and-enjoy-accommodation-dining-and-lifestyle/charming-hotels-spas/hotels-in-dijon
+- lugano: packedagain.com/where-to-stay-in-lugano · backpackingwithabook.com/the-best-lugano-hotels-you-can-choose-from · togetherinswitzerland.com/best-places-to-stay-in-lugano-switzerland
+- herceg-novi: montenegro.com/en/cities/herceg-novi/where-to-stay-herceg-novi · montenegroguidebook.com/attractions/where-to-stay-in-herceg-novi · www.sunshineseeker.com/destinations/herceg-novi
+- aalborg: www.beevago.com/en/blog/where-to-stay-aalborg-dk · bestdistricts.com/best-areas-to-stay-in-aalborg-denmark
+- subotica: www.hostelworld.com/blog/europe/serbia/subotica · visitsubotica.rs/en/tourist-information · www.adventureswithluda.com/subotica-serbia-travel-guide
+- tetovo: wander-lush.org/skopje-tetovo-mosque-arabati-baba-teke · www.mywanderlust.pl/tetovo-macedonia · macedoniaguidebook.com/cities/things-to-do-in-tetovo
+- soroca: moldova-tours.com/getting-from-chisinau-to-soroca-fortress · trulyguidable.com/article/soroca-guide
+- dilijan: absolutearmenia.com/hotels-in-dilijan-where-to-stay · www.tripadvisor.com/HotelsNear-g1160895-d8015379-Sharambeyan_Street-Dilijan_Tavush_Province.html
+- gabala: gezz.az/en/blog/gabala-travel-guide · almatar.com/blog/gabala-and-quba-azerbaijans-best-mountain-escapes
+- peja: en.wikivoyage.org/wiki/Peja · www.bucketlistly.blog/posts/best-things-to-do-in-peja · theblogtrotter.com/destinations/kosovo/peja
