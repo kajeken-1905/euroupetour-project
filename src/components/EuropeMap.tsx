@@ -442,7 +442,7 @@ export function EuropeMap() {
                           y={selectedBounds.y}
                           width={selectedBounds.width}
                           height={selectedBounds.height}
-                          preserveAspectRatio="none"
+                          preserveAspectRatio="xMidYMid slice"
                           clipPath={`url(#${clipId})`}
                           opacity={FLAG_FILL_OPACITY}
                           style={{ pointerEvents: 'none' }}
@@ -570,7 +570,7 @@ export function EuropeMap() {
                 y={icelandBox.y}
                 width={icelandBox.width}
                 height={icelandBox.height}
-                preserveAspectRatio="none"
+                preserveAspectRatio="xMidYMid slice"
                 clipPath="url(#flag-clip-is)"
                 opacity={FLAG_FILL_OPACITY}
                 style={{ pointerEvents: 'none' }}

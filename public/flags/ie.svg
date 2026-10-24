@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="37" height="28" viewBox="0 0 37 28">
-  <rect width="37" height="28" fill="#FF883E"/>
-  <rect width="24.667" height="28" fill="#FFFFFF"/>
-  <rect width="12.333" height="28" fill="#169B62"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice">
+   <rect fill="#169b62" width="1200" height="600" />
+   <rect fill="#fff" x="400" width="800" height="600" />
+   <rect fill="#ff883e" x="800" width="400" height="600" />
 </svg>

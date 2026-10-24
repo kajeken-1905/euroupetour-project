@@ -517,8 +517,11 @@ button.back-link {
 }
 
 .country-hero--flag {
-  background-size: cover;
-  background-position: center;
+  /* Layers: dark wash, colour tint, then the flag. On a phone the hero is taller than a flag,
+     so the flag spans the full width at the top instead of being blown up to cover. */
+  background-color: #14110f;
+  background-size: cover, cover, 100% auto;
+  background-position: center, center, center top;
   background-repeat: no-repeat;
   min-height: 280px;
   display: flex;
@@ -526,6 +529,13 @@ button.back-link {
   justify-content: space-between;
   gap: 16px;
   text-shadow: 0 1px 10px rgba(0, 0, 0, 0.45);
+}
+
+@media (min-width: 1024px) {
+  .country-hero--flag {
+    background-size: cover;
+    background-position: center;
+  }
 }
 
 .country-hero--flag .lang-toggle {

@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="37" height="28" viewBox="0 0 37 28">
-  <rect width="37" height="28" fill="#0D5EAF"/>
-  <rect y="3.111" width="37" height="3.111" fill="#FFFFFF"/>
-  <rect y="9.333" width="37" height="3.111" fill="#FFFFFF"/>
-  <rect y="15.556" width="37" height="3.111" fill="#FFFFFF"/>
-  <rect y="21.778" width="37" height="3.111" fill="#FFFFFF"/>
-  <rect width="14.8" height="15.556" fill="#0D5EAF"/>
-  <rect x="5.84" width="3.12" height="15.556" fill="#FFFFFF"/>
-  <rect y="6.218" width="14.8" height="3.12" fill="#FFFFFF"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 27 18" preserveAspectRatio="xMidYMid slice">
+<rect fill="#0D5EAF" width="27" height="18"/>
+<path fill="none" stroke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27 M0,11H27 M0,15H27"/>
 </svg>
