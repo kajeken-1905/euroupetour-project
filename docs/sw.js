@@ -24,6 +24,9 @@ self.addEventListener('activate', (event) => {
     (async () => {
       const names = await caches.keys()
       await Promise.all(names.filter((n) => n.startsWith('shell-') && n !== SHELL).map((n) => caches.delete(n)))
+      // Drop older copies of precached files from the image cache, so a replaced file never comes back.
+      const images = await caches.open(IMAGES)
+      await Promise.all(PRECACHE.map((path) => images.delete(BASE + path)))
       await self.clients.claim()
     })(),
   )
@@ -47,7 +50,10 @@ async function navigation(request) {
 }
 
 async function sameOrigin(request) {
-  const cached = await caches.match(request, { ignoreVary: true })
+  // This version's own files first: a file replaced under the same name (e.g. a flag) must not be
+  // shadowed by the older copy kept in the long-lived image cache.
+  const shell = await caches.open(SHELL)
+  const cached = (await shell.match(request, { ignoreVary: true })) ?? (await caches.match(request, { ignoreVary: true }))
   if (cached) return cached
   const response = await fetch(request)
   if (response.ok && IMAGE_RE.test(new URL(request.url).pathname)) {
