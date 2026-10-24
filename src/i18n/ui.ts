@@ -115,7 +115,7 @@ export const ui = {
   michelin_star2: { ko: '미쉐린 ★★', en: 'Michelin ★★' },
   michelin_star1: { ko: '미쉐린 ★', en: 'Michelin ★' },
   michelin_bib: { ko: '빕 구르망', en: 'Bib Gourmand' },
-  back: { ko: '이전 페이지', en: 'Previous page' },
+  backToCountries: { ko: '국가 목록', en: 'All countries' },
   limitedCategory: {
     ko: '이 도시에서 해당 카테고리 추천이 제한적입니다.',
     en: 'Limited recommendations in this category for this city.',

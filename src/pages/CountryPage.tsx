@@ -1,5 +1,5 @@
 import { lazy, Suspense, type CSSProperties } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { Link, useParams } from 'react-router-dom'
 import { getCountry } from '../data/countries'
 import { getCityBriefsByCountry as getCitiesByCountry } from '../data/cityIndex'
 import { CityListItem } from '../components/CityListItem'
@@ -26,26 +26,17 @@ const OfflinePanel = lazy(() => import('../components/OfflinePanel').then((m) =>
 
 export function CountryPage() {
   const { countryId = '' } = useParams()
-  const navigate = useNavigate()
   const { lang } = useLanguage()
   const country = getCountry(countryId)
   const cityList = getCitiesByCountry(countryId)
   const { getRate, loading, error, data } = useDailyExchangeRates()
 
-  const goBack = () => {
-    if (window.history.length > 1) {
-      navigate(-1)
-      return
-    }
-    navigate('/countries')
-  }
-
   if (!country) {
     return (
       <div className="page-header">
-        <button type="button" className="back-link" onClick={goBack}>
-          ← {t('back', lang)}
-        </button>
+        <Link to="/countries" className="back-link">
+          ← {t('backToCountries', lang)}
+        </Link>
         <h2>Not found</h2>
       </div>
     )
@@ -100,9 +91,9 @@ export function CountryPage() {
         <span className="country-hero-stripe" aria-hidden />
         <div className="top-bar" style={{ paddingTop: 0 }}>
           <div>
-            <button type="button" className="back-link" onClick={goBack}>
-              ← {t('back', lang)}
-            </button>
+            <Link to="/countries" className="back-link">
+              ← {t('backToCountries', lang)}
+            </Link>
             <h2 className="local-title">
               <span className="local-title-main">
                 <span className="flag" aria-hidden>
