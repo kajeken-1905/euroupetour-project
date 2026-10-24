@@ -9,6 +9,8 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { TransitCityPanel } from '../components/TransitPanel'
 import { StayPanel } from '../components/StayPanel'
 import { FaresPanel } from '../components/FaresPanel'
+import { PassesPanel } from '../components/PassesPanel'
+import { getCityPasses } from '../data/passes'
 import { VisitStamps } from '../components/VisitStamps'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityTransit } from '../data/transit-city'
@@ -140,6 +142,7 @@ function CityView() {
       ) : null}
 
       <FaresPanel cityId={city.id} />
+      <PassesPanel passes={getCityPasses(city.id, country.id)} />
 
       <RoutesPanel routes={getCityRoutes(city.id)} />
       <TourButton cityId={city.id} />

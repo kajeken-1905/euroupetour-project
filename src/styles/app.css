@@ -3676,6 +3676,30 @@ a.plan-btn {
   line-height: 1.55;
 }
 
+/* Passes: one card per pass. */
+.pass-card + .pass-card {
+  margin-top: 10px;
+}
+
+.pass-name {
+  margin: 0 0 4px;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.pass-card .fares-table td {
+  white-space: nowrap;
+}
+
+.pass-buy {
+  font-weight: 700;
+}
+
+.fares-table td.pass-price-site {
+  font-weight: 600;
+  color: var(--muted);
+}
+
 /* Transport fares: ticket on the left, price on the right. */
 .fares-table {
   width: 100%;

@@ -8,6 +8,8 @@ import { PhrasePanel } from '../components/PhrasePanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
+import { PassesPanel } from '../components/PassesPanel'
+import { getCountryPasses } from '../data/passes'
 import { FootballLeaguePanel } from '../components/FootballPanel'
 import { getCountryEssentials } from '../data/essentials'
 import { useLanguage } from '../contexts/LanguageContext'
@@ -155,6 +157,8 @@ export function CountryPage() {
       <PhrasePanel countryId={country.id} />
 
       {transit ? <TransitCountryPanel transit={transit} /> : null}
+
+      <PassesPanel passes={getCountryPasses(country.id)} />
 
       {essentials ? <EssentialsPanel essentials={essentials} /> : null}
 
