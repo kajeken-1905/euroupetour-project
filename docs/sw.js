@@ -1,5 +1,5 @@
 /* Service worker. The version and precache list below are filled in by the offline plugin in vite.config.ts. */
-const VERSION = 'd78485627185'
+const VERSION = '0e3b27b3c48a'
 const SHELL = `shell-${VERSION}`
 const IMAGES = 'images-v1'
 const FONTS = 'fonts-v1'
