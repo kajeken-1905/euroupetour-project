@@ -908,7 +908,7 @@ export const cities: City[] = [
         name: { ko: "흐로테 마르크트", en: "Grote Markt" },
         description: { ko: "성당과 시청이 있는 활기찬 중앙 광장입니다.", en: "A lively main square with church and town hall." },
         image: "/highlights/haarlem-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Grote%20Markt%20Haarlem",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=52.38136%2C4.63661",
       },
       {
         id: "haarlem-h2",
@@ -943,7 +943,7 @@ export const cities: City[] = [
         name: { ko: "스파르네 강변", en: "Spaarne riverfront" },
         description: { ko: "강변 카페와 보트 풍경이 여유롭습니다.", en: "Cafés and boats along the Spaarne." },
         image: "/highlights/haarlem-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Spaarne%20Haarlem",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=52.38006%2C4.63944",
       },
     ],
   },
@@ -1000,7 +1000,7 @@ export const cities: City[] = [
         name: { ko: "운하 산책", en: "Delft canals" },
         description: { ko: "벽돌 집과 다리가 이어진 운하를 거닙니다.", en: "A walk along brick houses and canal bridges." },
         image: "/highlights/delft-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Delft%20canals%20delft",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=52.01059%2C4.35681",
       },
     ],
   },
@@ -1022,7 +1022,7 @@ export const cities: City[] = [
         name: { ko: "프레이토프", en: "Vrijthof" },
         description: { ko: "성당과 카페가 둘러싼 대표적인 광장입니다.", en: "The main square ringed by churches and cafés." },
         image: "/highlights/maastricht-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vrijthof%20maastricht",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=50.84911%2C5.68897",
       },
       {
         id: "maastricht-h2",
@@ -1407,7 +1407,7 @@ export const cities: City[] = [
         name: { ko: "민워터", en: "Minnewater" },
         description: { ko: "호수와 공원이 아름다운 '사랑의 호수'입니다.", en: "The scenic Lake of Love and park." },
         image: "/highlights/bruges-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minnewater%20bruges",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=51.20033%2C3.22484",
       },
       {
         id: "bruges-h5",
@@ -1443,7 +1443,7 @@ export const cities: City[] = [
         name: { ko: "흐라슬레이", en: "Graslei" },
         description: { ko: "운하변 길드하우스가 늘어선 가장 아름다운 풍경입니다.", en: "The loveliest canal front of guildhouses." },
         image: "/highlights/ghent-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Graslei%20ghent",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=51.05481%2C3.72077",
       },
       {
         id: "ghent-h2",
@@ -1514,14 +1514,14 @@ export const cities: City[] = [
         name: { ko: "스헬더 강변", en: "Scheldt waterfront" },
         description: { ko: "강변 산책과 항구 풍경이 시원합니다.", en: "Open walks and harbour views on the Scheldt." },
         image: "/highlights/antwerp-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Antwerp%20Scheldt",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=51.22205%2C4.39723",
       },
       {
         id: "antwerp-h4",
         name: { ko: "흐로터 마르크트", en: "Grote Markt" },
         description: { ko: "시청과 길드하우스가 늘어선 광장입니다.", en: "A square of town hall and guildhouses." },
         image: "/highlights/antwerp-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Grote%20Markt%20Antwerp",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=51.22117%2C4.40035",
       },
       {
         id: "antwerp-h5",
@@ -2185,7 +2185,7 @@ export const cities: City[] = [
         name: { ko: "북극권", en: "Arctic Circle" },
         description: { ko: "북극권 선이 지나는 상징적 지점입니다.", en: "The symbolic line of the Arctic Circle." },
         image: "/highlights/rovaniemi-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rovaniemi%20Arctic%20Circle",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Santa%20Claus%20Village%20Rovaniemi",
       },
       {
         id: "rovaniemi-h3",
@@ -2449,7 +2449,7 @@ export const cities: City[] = [
         name: { ko: "강변", en: "Riverside" },
         description: { ko: "퓌리스강 변의 카페와 산책로입니다.", en: "Cafés and paths along the Fyris." },
         image: "/highlights/uppsala-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Uppsala%20Fyris",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=59.85494%2C17.64150",
       },
       {
         id: "uppsala-h4",
@@ -2506,7 +2506,7 @@ export const cities: City[] = [
         name: { ko: "LKAB 광산 투어", en: "Mine tour" },
         description: { ko: "철광 도시로서의 역사를 체험하는 투어입니다.", en: "A tour into the town's iron-ore mining story." },
         image: "/highlights/kiruna-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=LKAB%20Kiruna",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=LKAB%20InfoMine%20Kiruna",
       },
     ],
   },
@@ -2749,7 +2749,7 @@ export const cities: City[] = [
         name: { ko: "시내 광장", en: "Town square" },
         description: { ko: "카페와 시장이 있는 아담한 중심 광장입니다.", en: "A compact square of cafés and market life." },
         image: "/highlights/roskilde-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%C3%A6ndertorvet%20Roskilde",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=55.64131%2C12.08098",
       },
     ],
   },
@@ -2792,7 +2792,7 @@ export const cities: City[] = [
         name: { ko: "링슈트라세", en: "Ringstrasse" },
         description: { ko: "역사주의 건축이 늘어선 순환 대로입니다.", en: "Grand boulevard of historicist architecture." },
         image: "/highlights/vienna-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ringstrasse%20Vienna",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Universit%C3%A4tsring%201%2C%201010%20Wien",
       },
       {
         id: "vienna-h5",
@@ -2877,7 +2877,7 @@ export const cities: City[] = [
         name: { ko: "카피텔플라츠 황금공", en: "Sphaera, Kapitelplatz" },
         description: { ko: "황금 공 위에 사람이 서 있는 현대 조형물입니다.", en: "Contemporary sculpture of a figure standing atop a golden sphere." },
         image: "/highlights/salzburg-7.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kapitelplatz%20Salzburg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.7972%2C13.04649",
       }
     ],
   },
@@ -3020,7 +3020,7 @@ export const cities: City[] = [
         name: { ko: "시장 광장", en: "Market Square" },
         description: { ko: "호수 마을 중심 광장입니다.", en: "Lakeside village square." },
         image: "/highlights/hallstatt-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hallstatt%20Marktplatz",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.56240%2C13.64905",
       },
       {
         id: "hallstatt-h5",
@@ -3234,7 +3234,7 @@ export const cities: City[] = [
         name: { ko: "도모 광장", en: "Dóm Square" },
         description: { ko: "여름 야외 공연으로 유명한 광장입니다.", en: "Square famous for open-air festivals." },
         image: "/highlights/szeged-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=D%C3%B3m%20Square%20Szeged",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.2482%2C20.14853",
       },
       {
         id: "szeged-h3",
@@ -3298,7 +3298,7 @@ export const cities: City[] = [
         name: { ko: "밸리 오브 더 뷰티풀 우먼", en: "Valley of the Beautiful Women" },
         description: { ko: "와인 셀러 거리입니다.", en: "Wine-cellar valley." },
         image: "/highlights/eger-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sz%C3%A9passzonyv%C3%B6lgy%20Eger",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.89030%2C20.35912",
       },
       {
         id: "eger-h5",
@@ -3533,7 +3533,7 @@ export const cities: City[] = [
         name: { ko: "온천 산책로", en: "Spa promenade" },
         description: { ko: "강변 스파 건축물 산책로입니다.", en: "Riverside spa architecture walk." },
         image: "/highlights/karlovy-vary-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Karlovy%20Vary%20promenade",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ml%C3%BDnsk%C3%A1%20kolon%C3%A1da",
       },
       {
         id: "karlovy-vary-h3",
@@ -3883,7 +3883,7 @@ export const cities: City[] = [
         name: { ko: "몽마르트르", en: "Montmartre" },
         description: { ko: "화가들이 모이는 테르트르 광장과 언덕 골목입니다.", en: "Place du Tertre painters and hilltop lanes." },
         image: "/highlights/paris-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Montmartre%20Paris",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=48.88546%2C2.33915",
         group: { ko: "18구 · 몽마르트르", en: "18th arr. · Montmartre" },
       },
       {
@@ -4075,7 +4075,7 @@ export const cities: City[] = [
         name: { ko: "쿠르 살레야", en: "Cours Saleya" },
         description: { ko: "꽃·먹거리 시장 거리입니다.", en: "Flower and food market street." },
         image: "/highlights/nice-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cours%20Saleya%20Nice",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.69569%2C7.27357",
       },
       {
         id: "nice-h5",
@@ -4154,7 +4154,7 @@ export const cities: City[] = [
         name: { ko: "리마트 강변", en: "Limmatquai" },
         description: { ko: "구시가와 이어지는 강변 산책로입니다.", en: "Old-town riverside promenade." },
         image: "/highlights/zurich-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Limmatquai%20Zurich",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.37443%2C8.54303",
       },
       {
         id: "zurich-h2",
@@ -4189,7 +4189,7 @@ export const cities: City[] = [
         name: { ko: "반호프슈트라세", en: "Bahnhofstrasse" },
         description: { ko: "럭셔리 쇼핑 거리입니다.", en: "Luxury shopping avenue." },
         image: "/highlights/zurich-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse%20Zurich",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.37577%2C8.53917",
       },
       {
         id: "zurich-h7",
@@ -4274,7 +4274,7 @@ export const cities: City[] = [
         name: { ko: "부러진 의자", en: "Broken Chair" },
         description: { ko: "UN 광장 앞의 지뢰 반대 조형물입니다.", en: "Anti-landmine sculpture facing the UN square." },
         image: "/highlights/geneva-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Broken%20Chair%20Geneva",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.2228%2C6.13885",
       },
       {
         id: "geneva-h7",
@@ -4388,7 +4388,7 @@ export const cities: City[] = [
         name: { ko: "구시가", en: "Old Town" },
         description: { ko: "벽화 건물과 광장입니다.", en: "Painted façades and squares." },
         image: "/highlights/lucerne-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lucerne%20Old%20Town",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.05201%2C8.30482",
       },
       {
         id: "lucerne-h5",
@@ -4438,7 +4438,7 @@ export const cities: City[] = [
         name: { ko: "회에베크", en: "Höheweg" },
         description: { ko: "호텔과 공원이 늘어선 메인 거리입니다.", en: "Main avenue of hotels and parks." },
         image: "/highlights/interlaken-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=H%C3%B6heweg%20Interlaken",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.68887%2C7.86372",
       },
       {
         id: "interlaken-h2",
@@ -4552,7 +4552,7 @@ export const cities: City[] = [
         name: { ko: "마리엔광장", en: "Marienplatz" },
         description: { ko: "신시청과 시계인형이 있는 중심 광장입니다.", en: "New Town Hall and Glockenspiel square." },
         image: "/highlights/munich-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Marienplatz%20Munich",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=48.13662%2C11.57715",
       },
       {
         id: "munich-h2",
@@ -4709,7 +4709,7 @@ export const cities: City[] = [
         name: { ko: "뢰머베르크", en: "Römerberg" },
         description: { ko: "반원형 구시가 광장입니다.", en: "Half-timbered old-town square." },
         image: "/highlights/frankfurt-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=R%C3%B6merberg%20Frankfurt",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=50.11049%2C8.68198",
       },
       {
         id: "frankfurt-h2",
@@ -5327,7 +5327,7 @@ export const cities: City[] = [
         name: { ko: "구시가 시장광장", en: "Marktplatz" },
         description: { ko: "빨간 시청이 있는 광장입니다.", en: "Square with the red town hall." },
         image: "/highlights/basel-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Marktplatz%20Basel",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.55864%2C7.58741",
       },
       {
         id: "basel-h5",
@@ -5370,7 +5370,7 @@ export const cities: City[] = [
         name: { ko: "마을 메인 거리", en: "Bahnhofstrasse Zermatt" },
         description: { ko: "보행 전용 상점 거리입니다.", en: "Car-free shopping street." },
         image: "/highlights/zermatt-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse%20Zermatt",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.02279%2C7.74752",
       },
       {
         id: "zermatt-h4",
@@ -5563,7 +5563,7 @@ export const cities: City[] = [
         name: { ko: "주요 시장광장", en: "Hauptmarkt" },
         description: { ko: "분수와 마켓이 있는 광장입니다.", en: "Square with fountain and markets." },
         image: "/highlights/nuremberg-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hauptmarkt%20Nuremberg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=49.45368%2C11.07727",
       },
       {
         id: "nuremberg-h3",
@@ -5655,7 +5655,7 @@ export const cities: City[] = [
         name: { ko: "치스테르나 광장", en: "Piazza della Cisterna" },
         description: { ko: "13세기 우물이 있는 부채꼴 광장입니다.", en: "Fan-shaped square centered on a 13th-century well." },
         image: "/highlights/san-gimignano-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20della%20Cisterna%20San%20Gimignano",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.46744%2C11.04342",
       },
       {
         id: "san-gimignano-h3",
@@ -5739,7 +5739,7 @@ export const cities: City[] = [
         name: { ko: "베키아 광장", en: "Piazza Vecchia" },
         description: { ko: "분수와 시청 회랑이 있는 윗마을 중심 광장입니다.", en: "Upper-town square with fountain and loggia." },
         image: "/highlights/bergamo-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Vecchia%20Bergamo",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.70381%2C9.66289",
       },
       {
         id: "bergamo-h3",
@@ -5760,7 +5760,7 @@ export const cities: City[] = [
         name: { ko: "푸니콜라레", en: "Funicular" },
         description: { ko: "아랫마을과 윗마을을 잇는 산악열차입니다.", en: "Funicular linking lower and upper town." },
         image: "/highlights/bergamo-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Funicolare%20Citt%C3%A0%20Alta%20Bergamo",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.70293%2C9.66521",
       }
     ],
   },
@@ -5914,7 +5914,7 @@ export const cities: City[] = [
         name: { ko: "이탈리아 통일 광장", en: "Piazza Unità d'Italia" },
         description: { ko: "바다를 향해 열린 유럽 최대급 해변 광장입니다.", en: "Vast square opening straight onto the sea." },
         image: "/highlights/trieste-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Unit%C3%A0%20d%27Italia%20Trieste",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.64971%2C13.76869",
       },
       {
         id: "trieste-h2",
@@ -5963,7 +5963,7 @@ export const cities: City[] = [
         name: { ko: "발터 광장", en: "Piazza Walther" },
         description: { ko: "크리스마스 마켓이 열리는 중심 광장입니다.", en: "Main square, home of the Christmas market." },
         image: "/highlights/bolzano-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Walther%20Bolzano",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.49814%2C11.35477",
       },
       {
         id: "bolzano-h2",
@@ -5977,7 +5977,7 @@ export const cities: City[] = [
         name: { ko: "라우벤 거리", en: "Via dei Portici" },
         description: { ko: "아케이드가 이어진 쇼핑 거리입니다.", en: "Arcaded medieval shopping street." },
         image: "/highlights/bolzano-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20dei%20Portici%20Bolzano",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.49964%2C11.35469",
       },
       {
         id: "bolzano-h4",
@@ -6138,7 +6138,7 @@ export const cities: City[] = [
         name: { ko: "센티에로 아추로", en: "Sentiero Azzurro" },
         description: { ko: "다섯 마을을 잇는 해안 하이킹 코스입니다.", en: "Coastal hiking trail linking the five villages." },
         image: "/highlights/cinque-terre-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sentiero%20Azzurro%20Cinque%20Terre",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sentiero%20Azzurro%20Monterosso",
       }
     ],
   },
@@ -6166,7 +6166,7 @@ export const cities: City[] = [
         name: { ko: "그란데 광장", en: "Piazza Grande" },
         description: { ko: "대성당과 기를란디나 종탑이 있는 광장입니다.", en: "Square framed by the cathedral and Ghirlandina tower." },
         image: "/highlights/modena-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Grande%20Modena",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=44.64594%2C10.92562",
       },
       {
         id: "modena-h3",
@@ -6313,7 +6313,7 @@ export const cities: City[] = [
         name: { ko: "안피테아트로 광장", en: "Piazza dell'Anfiteatro" },
         description: { ko: "로마 원형극장 터를 따라 만든 타원형 광장입니다.", en: "Oval square built on a Roman amphitheater." },
         image: "/highlights/lucca-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20dell%27Anfiteatro%20Lucca",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.84535%2C10.50614",
       },
       {
         id: "lucca-h3",
@@ -6355,7 +6355,7 @@ export const cities: City[] = [
         name: { ko: "그란데 광장", en: "Piazza Grande" },
         description: { ko: "마을 꼭대기의 르네상스 광장입니다.", en: "Renaissance square at the town's summit." },
         image: "/highlights/montepulciano-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Grande%20Montepulciano",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.09257%2C11.78073",
       },
       {
         id: "montepulciano-h2",
@@ -6418,7 +6418,7 @@ export const cities: City[] = [
         name: { ko: "코무네 광장", en: "Piazza del Comune" },
         description: { ko: "로마 미네르바 신전이 서 있는 중심 광장입니다.", en: "Main square with the Roman Temple of Minerva." },
         image: "/highlights/assisi-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Comune%20Assisi",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.07106%2C12.61551",
       },
       {
         id: "assisi-h4",
@@ -6446,7 +6446,7 @@ export const cities: City[] = [
         name: { ko: "11월 4일 광장", en: "Piazza IV Novembre" },
         description: { ko: "대분수와 대성당이 있는 중심 광장입니다.", en: "Main square with the Fontana Maggiore." },
         image: "/highlights/perugia-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20IV%20Novembre%20Perugia",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.11197%2C12.38925",
       },
       {
         id: "perugia-h2",
@@ -6474,7 +6474,7 @@ export const cities: City[] = [
         name: { ko: "아쿠에도토 길", en: "Via dell'Acquedotto" },
         description: { ko: "옛 수도교 위를 걷는 골목길입니다.", en: "Lane running atop a medieval aqueduct." },
         image: "/highlights/perugia-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20dell%27Acquedotto%20Perugia",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.11469%2C12.38835",
       }
     ],
   },
@@ -6586,7 +6586,7 @@ export const cities: City[] = [
         name: { ko: "타소 광장", en: "Piazza Tasso" },
         description: { ko: "소렌토 구시가의 중심 광장입니다.", en: "The central square of Sorrento." },
         image: "/highlights/sorrento-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Tasso%20Sorrento",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=40.62621%2C14.37568",
       },
       {
         id: "sorrento-h2",
@@ -6642,7 +6642,7 @@ export const cities: City[] = [
         name: { ko: "피아체타", en: "La Piazzetta" },
         description: { ko: "카페가 둘러싼 섬 중심의 움베르토 1세 광장입니다.", en: "Café-lined Piazza Umberto I, the island's hub." },
         image: "/highlights/capri-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazzetta%20Capri",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=40.55074%2C14.24279",
       },
       {
         id: "capri-h4",
@@ -6754,7 +6754,7 @@ export const cities: City[] = [
         name: { ko: "해안 산책로", en: "Lungomare" },
         description: { ko: "아르데코 건물이 늘어선 긴 해안 산책로입니다.", en: "Long seafront promenade lined with Art Deco buildings." },
         image: "/highlights/bari-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lungomare%20Nazario%20Sauro%20Bari",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.122%2C16.88",
       }
     ],
   },
@@ -6775,7 +6775,7 @@ export const cities: City[] = [
         name: { ko: "리오네 몬티", en: "Rione Monti" },
         description: { ko: "트룰리 천여 채가 언덕을 덮은 지구입니다.", en: "Hillside quarter packed with about a thousand trulli." },
         image: "/highlights/alberobello-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rione%20Monti%20Alberobello",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Trulli%20Rione%20Monti%20Alberobello",
       },
       {
         id: "alberobello-h2",
@@ -6866,7 +6866,7 @@ export const cities: City[] = [
         name: { ko: "두오모 광장", en: "Piazza del Duomo" },
         description: { ko: "닫힌 안뜰 같은 대성당 광장입니다.", en: "Enclosed cathedral square." },
         image: "/highlights/lecce-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Duomo%20Lecce",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=40.35184%2C18.16807",
       },
       {
         id: "lecce-h3",
@@ -6957,7 +6957,7 @@ export const cities: City[] = [
         name: { ko: "코르소 움베르토", en: "Corso Umberto" },
         description: { ko: "구시가를 가로지르는 중심 거리입니다.", en: "The old town's main pedestrian street." },
         image: "/highlights/taormina-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Corso%20Umberto%20Taormina",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.85112%2C15.28283",
       },
       {
         id: "taormina-h4",
@@ -6992,7 +6992,7 @@ export const cities: City[] = [
         name: { ko: "두오모 광장", en: "Piazza del Duomo" },
         description: { ko: "용암석 코끼리 분수가 있는 중심 광장입니다.", en: "Main square with the lava-stone Elephant Fountain." },
         image: "/highlights/catania-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Duomo%20Catania",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.50241%2C15.08719",
       },
       {
         id: "catania-h2",
@@ -7006,7 +7006,7 @@ export const cities: City[] = [
         name: { ko: "비아 에트네아", en: "Via Etnea" },
         description: { ko: "에트나 화산을 향해 뻗은 메인 거리입니다.", en: "Main street aimed straight at Etna." },
         image: "/highlights/catania-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20Etnea%20Catania",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.51129%2C15.08549",
       },
       {
         id: "catania-h4",
@@ -7048,7 +7048,7 @@ export const cities: City[] = [
         name: { ko: "두오모 광장", en: "Piazza Duomo" },
         description: { ko: "그리스 신전 기둥을 품은 대성당이 있는 바로크 광장입니다.", en: "Baroque square whose cathedral hides a Greek temple." },
         image: "/highlights/siracusa-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Duomo%20Siracusa",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.05947%2C15.29311",
       },
       {
         id: "siracusa-h3",
@@ -7244,7 +7244,7 @@ export const cities: City[] = [
         name: { ko: "알게로 구시가", en: "Old town" },
         description: { ko: "카탈루냐 고딕 건물이 늘어선 골목입니다.", en: "Lanes of Catalan-Gothic buildings." },
         image: "/highlights/alghero-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Centro%20storico%20Alghero",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Torre%20di%20Porta%20Terra%20Alghero",
       },
       {
         id: "alghero-h5",
@@ -7349,7 +7349,7 @@ export const cities: City[] = [
         name: { ko: "코르소 팔라디오", en: "Corso Palladio" },
         description: { ko: "궁전들이 늘어선 중심 거리입니다.", en: "Main street lined with palazzi." },
         image: "/highlights/vicenza-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Corso%20Palladio%20Vicenza",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.5475%2C11.54454",
       }
     ],
   },
@@ -7398,7 +7398,7 @@ export const cities: City[] = [
         name: { ko: "비아 델레 볼테", en: "Via delle Volte" },
         description: { ko: "아치가 이어진 중세 골목입니다.", en: "Medieval lane of overhead arches." },
         image: "/highlights/ferrara-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20delle%20Volte%20Ferrara",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=44.8337%2C11.61752",
       }
     ],
   },
@@ -7804,7 +7804,7 @@ export const cities: City[] = [
         name: { ko: "랜즈 엔드", en: "Land's End" },
         description: { ko: "잉글랜드 본토 최서단 절벽입니다.", en: "Clifftop westernmost point of mainland England." },
         image: "/highlights/st-ives-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Land%27s%20End",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=50.06626%2C-5.71482",
       }
     ],
   },
@@ -7916,7 +7916,7 @@ export const cities: City[] = [
         name: { ko: "올드 코스", en: "Old Course" },
         description: { ko: "세계에서 가장 오래된 골프 코스입니다.", en: "The world's oldest golf course." },
         image: "/highlights/st-andrews-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Old%20Course%20St%20Andrews",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=56.35191%2C-2.81621",
       },
       {
         id: "st-andrews-h2",
@@ -8175,7 +8175,7 @@ export const cities: City[] = [
         name: { ko: "포트메이리온", en: "Portmeirion" },
         description: { ko: "이탈리아풍으로 지은 파스텔빛 마을입니다.", en: "Italianate pastel-colored village." },
         image: "/highlights/snowdonia-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Portmeirion",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=52.91345%2C-4.09935",
       }
     ],
   },
@@ -8763,7 +8763,7 @@ export const cities: City[] = [
         name: { ko: "클로 노르망", en: "Clos Normand flower garden" },
         description: { ko: "집 앞의 화려한 꽃 정원입니다.", en: "The flower garden in front of the house." },
         image: "/highlights/giverny-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Clos%20Normand%20Giverny",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fondation%20Claude%20Monet%20Giverny",
       },
       {
         id: "giverny-h4",
@@ -9050,7 +9050,7 @@ export const cities: City[] = [
         name: { ko: "아발 절벽·코끼리 바위", en: "Falaise d'Aval (elephant arch)" },
         description: { ko: "코끼리 코처럼 바다로 뻗은 절벽 아치입니다.", en: "Cliff arch shaped like an elephant's trunk." },
         image: "/highlights/etretat-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Falaise%20d%27Aval%20%C3%89tretat",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=49.70732%2C0.1936",
       },
       {
         id: "etretat-h2",
@@ -9148,7 +9148,7 @@ export const cities: City[] = [
         name: { ko: "그랑 베 섬", en: "Grand Bé" },
         description: { ko: "썰물 때 걸어서 가는 작은 섬입니다.", en: "Tidal island reached on foot at low tide." },
         image: "/highlights/saint-malo-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Grand%20B%C3%A9%20Saint-Malo",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=48.65226%2C-2.03326",
       },
       {
         id: "saint-malo-h3",
@@ -9534,7 +9534,7 @@ export const cities: City[] = [
         name: { ko: "마조레 광장", en: "Piazza Maggiore" },
         description: { ko: "시청과 대성당이 있는 광장입니다.", en: "Square with town hall and basilica." },
         image: "/highlights/bologna-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Maggiore%20Bologna",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=44.49366%2C11.34305",
       },
       {
         id: "bologna-h4",
@@ -9591,7 +9591,7 @@ export const cities: City[] = [
         name: { ko: "브라 광장", en: "Piazza Bra" },
         description: { ko: "아레나 앞 대형 광장입니다.", en: "Grand square by the Arena." },
         image: "/highlights/verona-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Bra",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.43851%2C10.99239",
       },
       {
         id: "verona-h5",
@@ -9670,7 +9670,7 @@ export const cities: City[] = [
         name: { ko: "카피톨 광장", en: "Place du Capitole" },
         description: { ko: "시청과 카페가 모인 중심 광장입니다.", en: "Main square with the town hall." },
         image: "/highlights/toulouse-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Place%20du%20Capitole%20Toulouse",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.60486%2C1.44331",
       },
       {
         id: "toulouse-h2",
@@ -9954,7 +9954,7 @@ export const cities: City[] = [
         name: { ko: "구시가", en: "Old Town Lugano" },
         description: { ko: "Via Nassa 쇼핑·카페 거리입니다.", en: "Via Nassa shops and cafés." },
         image: "/highlights/lugano-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20Nassa%20Lugano",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20Nassa%201%2C%20Lugano",
       },
       {
         id: "lugano-h3",
@@ -10047,7 +10047,7 @@ export const cities: City[] = [
         name: { ko: "아이거 북벽 전망", en: "Eiger north face views" },
         description: { ko: "마을에서 보이는 아이거 북벽입니다.", en: "North-face views from the village." },
         image: "/highlights/grindelwald-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Eiger%20Grindelwald",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.57763%2C8.00547",
       },
       {
         id: "grindelwald-h2",
@@ -10068,14 +10068,14 @@ export const cities: City[] = [
         name: { ko: "글레처 협곡", en: "Glacier Canyon" },
         description: { ko: "빙하 협곡 산책로입니다.", en: "Glacier gorge walk." },
         image: "/highlights/grindelwald-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gletscherschlucht%20Grindelwald",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.61100%2C8.05029",
       },
       {
         id: "grindelwald-h5",
         name: { ko: "마을 메인 거리", en: "Dorfstrasse" },
         description: { ko: "산악 상점·호텔 거리입니다.", en: "Alpine shop and hotel street." },
         image: "/highlights/grindelwald-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dorfstrasse%20Grindelwald",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.62453%2C8.03254",
       }
     ],
   },
@@ -10125,7 +10125,7 @@ export const cities: City[] = [
         name: { ko: "비아 세라스", en: "Via Serlas" },
         description: { ko: "럭셔리 쇼핑 거리입니다.", en: "Luxury shopping street." },
         image: "/highlights/st-moritz-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20Serlas%20St.%20Moritz",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.49744%2C9.84417",
       }
     ],
   },
@@ -10161,7 +10161,7 @@ export const cities: City[] = [
         name: { ko: "슐로스플라츠", en: "Schlossplatz" },
         description: { ko: "신궁전 앞 중심 광장입니다.", en: "Central square by the New Palace." },
         image: "/highlights/stuttgart-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Schlossplatz%20Stuttgart",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=48.77748%2C9.18003",
       },
       {
         id: "stuttgart-h4",
@@ -10254,14 +10254,14 @@ export const cities: City[] = [
         name: { ko: "플뢴라인", en: "Plönlein" },
         description: { ko: "가장 사진 찍히는 모퉁이입니다.", en: "Most photographed corner." },
         image: "/highlights/rothenburg-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pl%C3%B6nlein%20Rothenburg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=49.37427%2C10.18019",
       },
       {
         id: "rothenburg-h3",
         name: { ko: "성벽 산책", en: "Town walls" },
         description: { ko: "중세 성벽 둘레길입니다.", en: "Medieval wall walk." },
         image: "/highlights/rothenburg-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rothenburg%20town%20walls",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=49.37942%2C10.17539",
       },
       {
         id: "rothenburg-h4",
@@ -10635,7 +10635,7 @@ export const cities: City[] = [
         name: { ko: "에스파냐 광장", en: "Plaza de España" },
         description: { ko: "세르반테스 기념비와 에스파냐 빌딩이 있는 광장입니다.", en: "Square with the Cervantes monument and the Edificio España tower." },
         image: "/highlights/madrid-10.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20de%20Espa%C3%B1a%20Madrid",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=40.42345%2C-3.71088",
         group: { ko: "데보드 · 에스파냐 광장", en: "Temple of Debod & Plaza de España" },
       },
       {
@@ -10682,7 +10682,7 @@ export const cities: City[] = [
         name: { ko: "람블라스", en: "La Rambla" },
         description: { ko: "카페와 시장이 있는 산책로입니다.", en: "Promenade of cafés and markets." },
         image: "/highlights/barcelona-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=La%20Rambla%2C%20Barcelona%2C%20Spain",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.3834%2C2.17145",
         group: { ko: "고딕 지구 · 엘 본 · 항구", en: "Gothic Quarter, El Born & the Port" },
       },
       {
@@ -10762,7 +10762,7 @@ export const cities: City[] = [
         name: { ko: "로마 성벽과 산타 아가타 예배당", en: "Roman Walls & Santa Àgata Chapel" },
         description: { ko: "로마 시대 성벽 위에 고딕 예배당이 얹힌 라몬 베렝게르 광장의 풍경입니다.", en: "A Gothic chapel perched atop the Roman city walls at Plaça de Ramon Berenguer." },
         image: "/highlights/barcelona-24.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pla%C3%A7a%20de%20Ramon%20Berenguer%20el%20Gran%20Barcelona",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.3844%2C2.17773",
         group: { ko: "고딕 지구 · 엘 본 · 항구", en: "Gothic Quarter, El Born & the Port" },
       },
       {
@@ -11032,7 +11032,7 @@ export const cities: City[] = [
         name: { ko: "칼데레리아 누에바 (테테리아 거리)", en: "Calle Calderería Nueva" },
         description: { ko: "찻집과 모로코 상점이 늘어선 '작은 모로코' 골목입니다.", en: "\"Little Morocco\" alley lined with tea houses and Moroccan shops." },
         image: "/highlights/granada-10.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Calle%20Calderer%C3%ADa%20Nueva%20Granada",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.17786%2C-3.59695",
         group: { ko: "구시가 · 대성당", en: "Old town & Cathedral" },
       },
       {
@@ -11040,7 +11040,7 @@ export const cities: City[] = [
         name: { ko: "누에바 광장", en: "Plaza Nueva" },
         description: { ko: "구시가의 중심 광장, 알바이신과 알함브라로 가는 길목입니다.", en: "The old town's main square, the gateway to the Albaicín and the Alhambra." },
         image: "/highlights/granada-9.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20Nueva%20Granada",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.17682%2C-3.59601",
         group: { ko: "구시가 · 대성당", en: "Old town & Cathedral" },
       },
       {
@@ -11048,7 +11048,7 @@ export const cities: City[] = [
         name: { ko: "카레라 델 다로", en: "Carrera del Darro" },
         description: { ko: "다로 강을 따라 이어지는 그라나다에서 가장 아름다운 옛길입니다.", en: "Granada's prettiest old street, running along the Darro river below the Alhambra." },
         image: "/highlights/granada-8.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Carrera%20del%20Darro%20Granada",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.17775%2C-3.59446",
         group: { ko: "알바이신 · 다로강 · 사크로몬테", en: "Albaicín, the Darro & Sacromonte" },
       },
       {
@@ -11201,7 +11201,7 @@ export const cities: City[] = [
         name: { ko: "도고나 광장", en: "Plaza Nueva" },
         description: { ko: "핀초 바 광장입니다.", en: "Pintxo-bar square." },
         image: "/highlights/bilbao-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20Nueva%20Bilbao",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.25897%2C-2.92309",
       },
       {
         id: "bilbao-h4",
@@ -11245,7 +11245,7 @@ export const cities: City[] = [
         name: { ko: "아윤타미엔토 광장", en: "Plaza del Ayuntamiento" },
         description: { ko: "대성당 앞, 시청과 대주교궁이 마주한 광장입니다.", en: "Square in front of the cathedral, framed by the town hall and archbishop's palace." },
         image: "/highlights/toledo-7.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20del%20Ayuntamiento%20Toledo",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=39.85736%2C-4.02364",
         group: { ko: "구시가 중심 (대성당·알카사르)", en: "Old town core (Cathedral & Alcázar)" },
       },
       {
@@ -11452,7 +11452,7 @@ export const cities: City[] = [
         name: { ko: "에브로 강변", en: "Ebro riverfront" },
         description: { ko: "강변 산책과 다리 전망입니다.", en: "Riverside walks and bridge views." },
         image: "/highlights/zaragoza-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ebro%20Zaragoza",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.65077%2C-0.85933",
       }
     ],
   },
@@ -11531,14 +11531,14 @@ export const cities: City[] = [
         name: { ko: "오브라도이로 광장", en: "Praza do Obradoiro" },
         description: { ko: "대성당 앞 순례 광장입니다.", en: "Pilgrim square before the cathedral." },
         image: "/highlights/santiago-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Praza%20do%20Obradoiro",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=42.88028%2C-8.54552",
       },
       {
         id: "santiago-h3",
         name: { ko: "호스피탈 레이스", en: "Hostal dos Reis Católicos" },
         description: { ko: "역사적 순례 숙소·파라도르입니다.", en: "Historic pilgrim hostel and parador." },
         image: "/highlights/santiago-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hostal%20dos%20Reis%20Cat%C3%B3licos",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=42.88146%2C-8.54592",
       },
       {
         id: "santiago-h4",
@@ -11582,7 +11582,7 @@ export const cities: City[] = [
         name: { ko: "아술라르 광장", en: "Plaza del Azoguejo" },
         description: { ko: "수도교 아래 중심 광장입니다.", en: "Main square beneath the aqueduct." },
         image: "/highlights/segovia-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20del%20Azoguejo",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=40.94779%2C-4.11793",
         group: { ko: "수도교 · 초입", en: "The aqueduct & the entrance" },
       },
       {
@@ -11902,7 +11902,7 @@ export const cities: City[] = [
         name: { ko: "마요르 광장", en: "Plaça Major" },
         description: { ko: "카페와 거리공연이 있는 마요르카의 중심 광장입니다.", en: "Mallorca’s lively main square with cafés." },
         image: "/highlights/palma-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pla%C3%A7a%20Major%20Palma",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=39.57132%2C2.65168",
       },
       {
         id: "palma-h3",
@@ -11930,7 +11930,7 @@ export const cities: City[] = [
         name: { ko: "포르토피 해변", en: "Portixol / city beaches" },
         description: { ko: "시내에서 가까운 해변·마리나입니다.", en: "Nearby city beach and marina." },
         image: "/highlights/palma-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Portixol%20Palma",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Playa%20de%20Portixol",
       }
     ],
   },
@@ -12050,7 +12050,7 @@ export const cities: City[] = [
         name: { ko: "호시우 광장", en: "Rossio Square" },
         description: { ko: "동 페드루 4세 기둥이 서 있는 리스본의 중심 광장입니다.", en: "Central Lisbon square with the Dom Pedro IV column." },
         image: "/highlights/lisbon-15.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rossio%20Square%20Lisbon",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=38.71376%2C-9.13934",
       },
       {
         id: "lisbon-h16",
@@ -12064,7 +12064,7 @@ export const cities: City[] = [
         name: { ko: "카몽이스 광장", en: "Praça Luís de Camões" },
         description: { ko: "시아두의 시인 카몽이스 동상이 있는 광장입니다.", en: "Chiado square with the statue of poet Luís de Camões." },
         image: "/highlights/lisbon-17.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20Lu%C3%ADs%20de%20Cam%C3%B5es%20Lisbon",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=38.71069%2C-9.14391",
       }
 ],
   },
@@ -12513,7 +12513,7 @@ export const cities: City[] = [
         name: { ko: "코스타노바", en: "Costa Nova" },
         description: { ko: "줄무늬 해변 별장 마을입니다.", en: "Striped beach-house village." },
         image: "/highlights/aveiro-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Costa%20Nova%20Aveiro",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=40.61258%2C-8.74954",
       },
       {
         id: "aveiro-h5",
@@ -12620,7 +12620,7 @@ export const cities: City[] = [
         name: { ko: "지랄두 광장", en: "Praça do Giraldo" },
         description: { ko: "카페가 모인 중심 광장입니다.", en: "Main square lined with cafés." },
         image: "/highlights/evora-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20do%20Giraldo",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=38.57105%2C-7.90968",
       },
       {
         id: "evora-h5",
@@ -12670,7 +12670,7 @@ export const cities: City[] = [
         name: { ko: "루아 디렉타", en: "Rua Direita" },
         description: { ko: "기념품·진지냐 숍이 있는 메인 거리입니다.", en: "Main street of shops and ginjinha." },
         image: "/highlights/obidos-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua%20Direita%20%C3%93bidos",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=39.36132%2C-9.15750",
       },
       {
         id: "obidos-h5",
@@ -12713,7 +12713,7 @@ export const cities: City[] = [
         name: { ko: "공화국 광장", en: "Praça da República" },
         description: { ko: "분수와 카페가 있는 중심 광장입니다.", en: "Central square with fountain and cafés." },
         image: "/highlights/braga-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20da%20Rep%C3%BAblica%20Braga",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.5513%2C-8.42297",
       },
       {
         id: "braga-h4",
@@ -12734,7 +12734,7 @@ export const cities: City[] = [
         name: { ko: "콩드 드 아그롤롱구 광장", en: "Praça Conde de Agrolongo" },
         description: { ko: "이그레자 두 포풀루와 분수가 있는 광장입니다.", en: "Square with the Church of Pópulo and a granite fountain." },
         image: "/highlights/braga-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20Conde%20de%20Agrolongo%20Braga",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.55243%2C-8.42639",
       }
     ],
   },
@@ -12820,7 +12820,7 @@ export const cities: City[] = [
         name: { ko: "올리베이라 광장", en: "Largo da Oliveira" },
         description: { ko: "구시가 중심의 광장과 기념비입니다.", en: "Old-town square with landmark pavilion." },
         image: "/highlights/guimaraes-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Largo%20da%20Oliveira%20Guimar%C3%A3es",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=41.44290%2C-8.29287",
       },
       {
         id: "guimaraes-h4",
@@ -12984,7 +12984,7 @@ export const cities: City[] = [
         name: { ko: "시내 시장", en: "Market street" },
         description: { ko: "로컬 먹거리 시장 거리입니다.", en: "Local food market street." },
         image: "/highlights/heraklion-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=1866%20Street%20Heraklion",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=35.33761%2C25.13326",
       },
       {
         id: "heraklion-h5",
@@ -13041,7 +13041,7 @@ export const cities: City[] = [
         name: { ko: "델로스 데이트립", en: "Delos day trip" },
         description: { ko: "고대 성역 섬 투어입니다.", en: "Ancient sanctuary island tour." },
         image: "/highlights/mykonos-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Delos",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=37.39089%2C25.27174",
       }
     ],
   },
@@ -13177,7 +13177,7 @@ export const cities: City[] = [
         name: { ko: "리스트온", en: "Liston" },
         description: { ko: "아치형 카페 거리입니다.", en: "Arcaded café street." },
         image: "/highlights/corfu-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Liston%20Corfu",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=39.62396%2C19.92363",
       },
       {
         id: "corfu-h4",
@@ -13438,10 +13438,10 @@ export const cities: City[] = [
       },
       {
         id: "wroclaw-h3",
-        name: { ko: "백조 홀", en: "Centennial Hall" },
+        name: { ko: "백주년 홀", en: "Centennial Hall" },
         description: { ko: "유네스코 철근콘크리트 홀입니다.", en: "UNESCO reinforced-concrete hall." },
         image: "/highlights/wroclaw-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Centennial%20Hall",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hala%20Stulecia%20Wroc%C5%82aw",
       },
       {
         id: "wroclaw-h4",
@@ -13527,7 +13527,7 @@ export const cities: City[] = [
         name: { ko: "구발루프카", en: "Gubałówka" },
         description: { ko: "케이블카 전망 언덕입니다.", en: "Cable-car viewpoint hill." },
         image: "/highlights/zakopane-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Guba%C5%82%C3%B3wka",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=49.30779%2C19.93593",
       },
       {
         id: "zakopane-h2",
@@ -13541,7 +13541,7 @@ export const cities: City[] = [
         name: { ko: "크루프프키 거리", en: "Krupówki Street" },
         description: { ko: "산악 상점·식당 거리입니다.", en: "Mountain shops and dining street." },
         image: "/highlights/zakopane-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Krup%C3%B3wki",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=49.29427%2C19.95296",
       },
       {
         id: "zakopane-h4",
@@ -13719,7 +13719,7 @@ export const cities: City[] = [
         name: { ko: "루자 광장", en: "Luža Square" },
         description: { ko: "시계탑과 스폰자 궁전이 있는 구시가 중심 광장입니다.", en: "Old town's central square, with the bell tower and Sponza Palace." },
         image: "/highlights/dubrovnik-7.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lu%C5%BEa%20Square%20Dubrovnik",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=42.64092%2C18.11032",
       }
     ],
   },
@@ -14303,7 +14303,7 @@ export const cities: City[] = [
         name: { ko: "조지가", en: "Georgian Quarter" },
         description: { ko: "빨간 벽돌 조지아 거리입니다.", en: "Red-brick Georgian streets." },
         image: "/highlights/limerick-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Newtown%20Pery",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=52.65833%2C-8.62942",
       },
       {
         id: "limerick-h5",
@@ -14739,7 +14739,7 @@ export const cities: City[] = [
         name: { ko: "칼레이치", en: "Kaleiçi" },
         description: { ko: "성벽 안 옛항구 구시가입니다.", en: "Walled old harbour quarter." },
         image: "/highlights/antalya-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kalei%C3%A7i%20Antalya",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=36.88585%2C30.70656",
       },
       {
         id: "antalya-h2",
@@ -14760,7 +14760,7 @@ export const cities: City[] = [
         name: { ko: "라라·쿤두 해변", en: "Lara / Kundu beaches" },
         description: { ko: "리조트 해변 지대입니다.", en: "Resort beach stretch." },
         image: "/highlights/antalya-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lara%20Beach%20Antalya",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lara%20Plaj%C4%B1%20Antalya",
       },
       {
         id: "antalya-h5",
@@ -14789,7 +14789,7 @@ export const cities: City[] = [
         name: { ko: "열기구", en: "Hot-air balloons" },
         description: { ko: "일출 카파도키아 열기구 비행입니다.", en: "Sunrise balloon flights over Cappadocia." },
         image: "/highlights/goreme-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=G%C3%B6reme%20balloon",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sunset%20Point%20G%C3%B6reme",
       },
       {
         id: "goreme-h2",
@@ -14824,7 +14824,7 @@ export const cities: City[] = [
         name: { ko: "파샤바으(수도승 계곡)", en: "Paşabağ / Monks Valley" },
         description: { ko: "버섯 모양 요정 굴뚝이 유명한 계곡입니다.", en: "Valley famous for mushroom fairy chimneys." },
         image: "/highlights/goreme-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pa%C5%9Faba%C4%9F%20Cappadocia",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=38.67701%2C34.85491",
       },
       {
         id: "goreme-h7",
@@ -15331,7 +15331,7 @@ export const cities: City[] = [
         name: { ko: "의회광장", en: "Council Square" },
         description: { ko: "색색 건물 중심 광장입니다.", en: "Colourful central square." },
         image: "/highlights/brasov-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba%20Sfatului",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.64239%2C25.58855",
       },
       {
         id: "brasov-h3",
@@ -15374,14 +15374,14 @@ export const cities: City[] = [
         name: { ko: "대광장", en: "Grand Square" },
         description: { ko: "시청과 바로크 광장입니다.", en: "Town hall and Baroque square." },
         image: "/highlights/sibiu-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba%20Mare%20Sibiu",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.79678%2C24.15183",
       },
       {
         id: "sibiu-h2",
         name: { ko: "소광장", en: "Little Square" },
         description: { ko: "다리와 카페 광장입니다.", en: "Bridge and café square." },
         image: "/highlights/sibiu-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba%20Mic%C4%83%20Sibiu",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.79718%2C24.15048",
       },
       {
         id: "sibiu-h3",
@@ -15481,7 +15481,7 @@ export const cities: City[] = [
         name: { ko: "연맹광장", en: "Union Square" },
         description: { ko: "카페가 늘어선 중심 광장입니다.", en: "Central square lined with cafés." },
         image: "/highlights/cluj-napoca-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba%20Unirii%20Cluj",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.7689%2C23.59024",
       },
       {
         id: "cluj-napoca-h3",
@@ -15524,14 +15524,14 @@ export const cities: City[] = [
         name: { ko: "승리광장", en: "Victory Square" },
         description: { ko: "오페라와 대성당이 있는 광장입니다.", en: "Square with opera and cathedral." },
         image: "/highlights/timisoara-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba%20Victoriei%20Timi%C8%99oara",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.75167%2C21.22471",
       },
       {
         id: "timisoara-h2",
         name: { ko: "연합광장", en: "Union Square" },
         description: { ko: "바로크 색채의 광장입니다.", en: "Colourful Baroque square." },
         image: "/highlights/timisoara-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba%20Unirii%20Timi%C8%99oara",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.75751%2C21.22896",
       },
       {
         id: "timisoara-h3",
@@ -15738,7 +15738,7 @@ export const cities: City[] = [
         name: { ko: "아베니다 메릿셀", en: "Avinguda Meritxell" },
         description: { ko: "면세 쇼핑 메인 거리입니다.", en: "Main duty-free shopping avenue." },
         image: "/highlights/andorra-la-vella-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Avinguda%20Meritxell%20Andorra%20la%20Vella",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=42.50823%2C1.53111",
       },
       {
         id: "andorra-la-vella-h4",
@@ -15881,7 +15881,7 @@ export const cities: City[] = [
         name: { ko: "슈테틀레", en: "Städtle" },
         description: { ko: "메인 보행자 거리입니다.", en: "Main pedestrian street." },
         image: "/highlights/vaduz-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%C3%A4dtle%20Vaduz",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.14109%2C9.52121",
       },
       {
         id: "vaduz-h3",
@@ -16088,7 +16088,7 @@ export const cities: City[] = [
         name: { ko: "흐라브나 광장", en: "Hlavné námestie" },
         description: { ko: "분수·카페의 긴 메인 광장입니다.", en: "Long main square with fountain and cafés." },
         image: "/highlights/kosice-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hlavn%C3%A9%20n%C3%A1mestie%20Ko%C5%A1ice",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=48.72052%2C21.25802",
       },
       {
         id: "kosice-h3",
@@ -16245,7 +16245,7 @@ export const cities: City[] = [
         name: { ko: "미로베 광장", en: "Mierové námestie" },
         description: { ko: "분수·카페의 구시가 광장입니다.", en: "Old-town square with fountain and cafés." },
         image: "/highlights/trencin-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mierov%C3%A9%20n%C3%A1mestie%20Tren%C4%8D%C3%ADn",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=48.89576%2C18.04379",
       },
       {
         id: "trencin-h4",
@@ -16431,7 +16431,7 @@ export const cities: City[] = [
         name: { ko: "렌트 광장", en: "Main Square / Plague Column" },
         description: { ko: "구시가 중앙 광장입니다.", en: "Central old-town square." },
         image: "/highlights/maribor-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Maribor%20Main%20Square",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=46.55755%2C15.64529",
       },
       {
         id: "maribor-h2",
@@ -16602,7 +16602,7 @@ export const cities: City[] = [
         name: { ko: "네레트바 강변", en: "Neretva riverwalk" },
         description: { ko: "다리 전망 강변 산책입니다.", en: "Riverwalk with bridge views." },
         image: "/highlights/mostar-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neretva%20Mostar",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.33782%2C17.81546",
       },
       {
         id: "mostar-h5",
@@ -16645,14 +16645,14 @@ export const cities: City[] = [
         name: { ko: "고스파 공원", en: "Gospodska Street" },
         description: { ko: "카페·쇼핑 메인 거리입니다.", en: "Main café and shopping street." },
         image: "/highlights/banja-luka-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gospodska%20Banja%20Luka",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=44.77105%2C17.19083",
       },
       {
         id: "banja-luka-h4",
         name: { ko: "브르바스 강", en: "Vrbas River" },
         description: { ko: "래프팅·산책의 강입니다.", en: "River for rafting and walks." },
         image: "/highlights/banja-luka-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vrbas%20Banja%20Luka",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rijeka%20Vrbas%20Banja%20Luka",
       },
       {
         id: "banja-luka-h5",
@@ -16767,7 +16767,7 @@ export const cities: City[] = [
         name: { ko: "코토르 구시가", en: "Kotor Old Town" },
         description: { ko: "성벽 안 석조 광장과 골목입니다.", en: "Stone squares and lanes inside the walls." },
         image: "/highlights/kotor-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kotor%20Old%20Town",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sea%20Gate%20Kotor",
       },
       {
         id: "kotor-h2",
@@ -16931,7 +16931,7 @@ export const cities: City[] = [
         name: { ko: "스파니올라 요새", en: "Španjola Fortress" },
         description: { ko: "만 전망의 언덕 요새입니다.", en: "Hill fortress with bay views." },
         image: "/highlights/herceg-novi-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C5%A0panjola%20Fortress",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=42.45646%2C18.53396",
       },
       {
         id: "herceg-novi-h4",
@@ -16988,7 +16988,7 @@ export const cities: City[] = [
         name: { ko: "크네즈 미하일로바", en: "Knez Mihailova" },
         description: { ko: "보행자 쇼핑 메인 거리입니다.", en: "Main pedestrian shopping street." },
         image: "/highlights/belgrade-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Knez%20Mihailova",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=44.8164%2C20.45861",
       },
       {
         id: "belgrade-h5",
@@ -17031,7 +17031,7 @@ export const cities: City[] = [
         name: { ko: "자유 광장", en: "Freedom Square" },
         description: { ko: "성당과 시청의 중앙 광장입니다.", en: "Central square with church and city hall." },
         image: "/highlights/novi-sad-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Freedom%20Square%20Novi%20Sad",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=45.25527%2C19.84485",
       },
       {
         id: "novi-sad-h3",
@@ -17095,7 +17095,7 @@ export const cities: City[] = [
         name: { ko: "타슈마이다나 거리", en: "Obrenovićeva Street" },
         description: { ko: "보행자 카페·쇼핑 거리입니다.", en: "Pedestrian café and shopping street." },
         image: "/highlights/nis-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Obrenovi%C4%87eva%20Ni%C5%A1",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=43.31894%2C21.89497",
       },
       {
         id: "nis-h5",
@@ -17931,7 +17931,7 @@ export const cities: City[] = [
         name: { ko: "구시장", en: "Old Bazaar" },
         description: { ko: "돌길 상점·공방 거리입니다.", en: "Stone-lane shops and workshops." },
         image: "/highlights/gjirokaster-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gjirokast%C3%ABr%20Old%20Bazaar",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pazari%20i%20Vjet%C3%ABr%20Gjirokast%C3%ABr",
       },
       {
         id: "gjirokaster-h3",
@@ -18195,7 +18195,7 @@ export const cities: City[] = [
         name: { ko: "텔리스키비", en: "Telliskivi" },
         description: { ko: "창작·카페의 산업 지구입니다.", en: "Creative industrial café district." },
         image: "/highlights/tallinn-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Telliskivi%20Tallinn",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=59.44063%2C24.72977",
       },
       {
         id: "tallinn-h5",
@@ -18324,7 +18324,7 @@ export const cities: City[] = [
         name: { ko: "리가 구시가", en: "Riga Old Town" },
         description: { ko: "성당·광장의 중세·한자 지구입니다.", en: "Medieval Hanseatic churches and squares." },
         image: "/highlights/riga-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Riga%20Old%20Town",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vecr%C4%ABga",
       },
       {
         id: "riga-h2",
@@ -18488,7 +18488,7 @@ export const cities: City[] = [
         name: { ko: "대성당 광장", en: "Cathedral Square" },
         description: { ko: "종탑과 대성당의 중앙 광장입니다.", en: "Cathedral and belfry square." },
         image: "/highlights/vilnius-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathedral%20Square%20Vilnius",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=54.68563%2C25.28664",
       },
       {
         id: "vilnius-h4",
@@ -18531,7 +18531,7 @@ export const cities: City[] = [
         name: { ko: "자유 거리", en: "Laisvės alėja" },
         description: { ko: "긴 보행자 메인 거리입니다.", en: "Long pedestrian main avenue." },
         image: "/highlights/kaunas-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laisv%C4%97s%20al%C4%97ja",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=54.89736%2C23.91345",
       },
       {
         id: "kaunas-h3",
