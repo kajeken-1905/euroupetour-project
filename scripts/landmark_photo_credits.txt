@@ -577,7 +577,7 @@ places/chisinau-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:La_P
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
-# cities/zurich.jpg | IMG_6127 (2023-10-25, Limmat skyline) | owner
+# cities/zurich.jpg | IMG_6109 (2023-10-25, Fraumünster from Münsterbrücke, 16:10 crop) | owner
 # landmarks/landmark-be.jpg | 20170803_131210_HDR (2017-08-03, Grand-Place town hall) | owner
 # cities/brussels.jpg | 20170803_131210_HDR (2017-08-03, Grand-Place) | owner
 # cities/lisbon.jpg | IMG_1034 (2024-11-18, Bica funicular) | owner
