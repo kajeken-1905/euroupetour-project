@@ -18,7 +18,7 @@ import {
 
 const QUERY_KEY = 'search-query'
 
-/** European cities by international visitors in 2025, linking to each city. */
+/** European cities by international visitors in 2024, linking to each city. */
 function PopularCities() {
   const { lang } = useLanguage()
   const cities = [...POPULAR_CITIES]
@@ -42,8 +42,7 @@ function PopularCities() {
               <span className="popular-count">
                 {p.approx ? t('popularApprox', lang) : ''}
                 {count(p.millions)}
-                {p.basis === 'euromonitor' ? <sup>*</sup> : null}
-                {p.year !== 2025 ? <span className="popular-year">{p.year}</span> : null}
+                {p.method ? <sup>*</sup> : null}
               </span>
             </Link>
           </li>

@@ -331,7 +331,7 @@ export const ui = {
   homeStartTitle: { ko: '어디로 떠나볼까요?', en: 'Where to?' },
   homePopular: { ko: '많이 찾는 도시', en: 'Popular cities' },
   popularTitle: { ko: '많이 찾는 도시 · 외국인 방문객 순', en: 'Most visited cities · by international visitors' },
-  popularNote: { ko: '* 표시는 유로모니터 2025 도시 순위의 국제 방문객 수, 나머지는 각 도시 공식 통계의 외국인 숙박객 수입니다. 2025년 수치가 아직 없는 도시는 2024년 수치를 쓰고 연도를 적었으며, \'약\'은 공식 합계에서 계산한 값입니다. 세는 방식이 조금씩 달라 순서는 대략적인 참고용입니다.', en: '* Euromonitor’s 2025 city ranking (international arrivals); the others are each city’s official count of foreign guests. Where 2025 is not out yet the 2024 figure is shown with its year, and “c.” marks a figure worked out from official totals. Methods differ, so treat the order as a rough guide.' },
+  popularNote: { ko: '2024년 각 도시 공식 통계입니다. 대부분 숙박시설에 묵은 외국인 수이고, * 표시는 숙박 통계가 없어 런던·더블린은 방문객 설문 조사, 이스탄불·안탈리아는 입국자 집계를 썼습니다. \'약\'은 공식 합계에서 계산한 값입니다. 세는 방식이 조금씩 달라 순서는 대략적인 참고용입니다.', en: 'Official 2024 figures for each city, mostly foreign guests in accommodation. * No accommodation count: London and Dublin use visitor surveys, Istanbul and Antalya border entries. “c.” marks a figure worked out from official totals. Methods differ, so treat the order as a rough guide.' },
   popularApprox: { ko: '약 ', en: 'c. ' },
   homeFeaturesTitle: { ko: '이 앱으로 할 수 있는 것', en: 'What you can do here' },
   homeFeaturePlan: { ko: '도시마다 추천 일정을 보고, 날짜·일수에 맞춰 내 일정을 만듭니다.', en: 'See a suggested itinerary for each city and build your own for your dates.' },
