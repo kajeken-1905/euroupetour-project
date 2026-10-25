@@ -278,7 +278,7 @@ highlights/alesund-3.jpg | https://commons.wikimedia.org/wiki/File:Giske_DSC_029
 cities/flam.jpg | https://commons.wikimedia.org/wiki/File:Flåm_2013_06_03_1807.jpg | CC BY-SA 2.0 | Harvey Barrison from Massapequa, NY, USA
 
 # Landmark illustrations -> photos (2026-09-25)
-landmarks/landmark-nl.jpg | https://commons.wikimedia.org/wiki/File:Bloeiende_bollenvelden_en_molen,_mogelijk_Molen_P_Dhr._K._Davidse_heeft_in_het_jaar_2009_in_opdracht_-_RAA003024515_-_RAA_Davidse.jpg | CC0 | Dhr. K. Davidse (Regionaal Archief Alkmaar)
+landmarks/landmark-nl.jpg | https://commons.wikimedia.org/wiki/File:Bloeiende_bollenvelden_en_molen,_mogelijk_Molen_P_Dhr._K._Davidse_heeft_in_het_jaar_2009_in_opdracht_-_RAA003024515_-_RAA_Davidse.jpg | CC0 | Dhr. K. Davidse
 landmarks/landmark-lu.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Grund_from_Verlorenkost_01.jpg | CC BY-SA 3.0 | Cayambe
 landmarks/landmark-dk.jpg | https://commons.wikimedia.org/wiki/File:Boats_at_Nyhavn,_Copenhagen,_20220616_1937_6628.jpg | CC BY-SA 4.0 | Jakub Hałun
 landmarks/landmark-se.jpg | https://commons.wikimedia.org/wiki/File:Riddarholmen_(by_Pudelek).JPG | CC BY-SA 4.0 | Pudelek
