@@ -22,6 +22,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'milan-h5': v(90, 120, { c: 'mon', b: 'rec', s: 'https://pinacotecabrera.org/en/', k: '2026-10' }),
   'milan-h6': v(10, 15),
   'milan-h7': v(15, 20),
+  'milan-h8': v(30, 60),
   // Como
   'como-h1': v(20, 30, { b: 'no', n: FREE }),
   'como-h2': v(60, 90),

@@ -592,3 +592,6 @@ places/chisinau-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:La_P
 # highlights/barcelona-1.jpg | IMG_4147 (2025-11-18, Sagrada Família backlit) | owner
 # highlights/paris-6.jpg | owner photo (Arc de Triomphe, Place Charles-de-Gaulle) | owner
 # places/paris-bakery-6.jpg | 20170811_125644_HDR (2017-08-11, Ladurée macarons bought at the Rue Royale flagship, photographed at CDG) | owner
+# cities/milan.jpg | IMG_6618 (2023-10-30, Piazza del Duomo with the Galleria, 2:1 crop) | owner
+# highlights/milan-1.jpg | IMG_6620 (2023-10-30, Duomo façade) | owner
+# highlights/milan-8.jpg | IMG_6660 (2023-10-30, Starbucks Reserve Roastery, former Palazzo delle Poste) | owner

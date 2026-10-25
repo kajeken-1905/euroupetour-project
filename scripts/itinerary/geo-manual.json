@@ -11,5 +11,10 @@
   "aveiro-h2": null,
   "schaan-h5": null,
   "podgorica-h4": null,
-  "borgo-maggiore-h1": null
+  "borgo-maggiore-h1": null,
+  "milan-h8": [
+    45.46493,
+    9.1862,
+    "OSM Nominatim \"Starbucks Reserve Milano, 1 Piazza Cordusio\" = Wikidata Starbucks Reserve Roastery (45.4649, 9.1862)"
+  ]
 }

@@ -4901,6 +4901,13 @@ export const cities: City[] = [
         description: { ko: "청동 전차상이 얹힌 신고전주의 개선문입니다.", en: "Neoclassical arch topped with a bronze chariot." },
         image: "/highlights/milan-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Arco%20della%20Pace%20Milan",
+      },
+      {
+        id: "milan-h8",
+        name: { ko: "스타벅스 리저브 로스터리", en: "Starbucks Reserve Roastery Milano" },
+        description: { ko: "코르두시오 광장의 옛 중앙우체국 건물에 2018년 문을 연 이탈리아 첫 스타벅스입니다. 매장 안에서 원두를 볶습니다.", en: "Italy’s first Starbucks, opened in 2018 in the former central post office on Piazza Cordusio; coffee is roasted on site." },
+        image: "/highlights/milan-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Starbucks%20Reserve%20Roastery%20Milano%20Piazza%20Cordusio",
       }
     ],
   },

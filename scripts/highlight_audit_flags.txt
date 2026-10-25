@@ -245,7 +245,6 @@ selfoss-4
 selfoss-5
 rome-2
 rome-6
-milan-1
 milan-4
 milan-5
 florence-4

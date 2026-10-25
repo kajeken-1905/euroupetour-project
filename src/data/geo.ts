@@ -405,6 +405,7 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'milan-h5': [45.47152, 9.18774],
   'milan-h6': [45.48588, 9.20426],
   'milan-h7': [45.47569, 9.17243],
+  'milan-h8': [45.46493, 9.1862],
   'florence-h1': [43.7731, 11.25657],
   'florence-h2': [43.76831, 11.2558],
   'florence-h3': [43.76803, 11.25316],
