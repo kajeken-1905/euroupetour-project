@@ -181,7 +181,6 @@ highlights/potsdam-4.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Cecil
 cities/cologne.jpg | https://commons.wikimedia.org/wiki/File:Cologne_2_(45886931222).jpg | CC BY-SA 2.0 | Markus Trienke
 highlights/cologne-1.jpg | https://commons.wikimedia.org/wiki/File:Kölner_Dom_vom_Roncalliplatz_aus.jpg | CC BY-SA 4.0 | TeKappa
 cities/frankfurt.jpg | https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg | CC BY-SA 3.0 de | Christian Wolf (www.c-w-design.de)
-highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Sachsenhausen,_courtyard_restaurant.jpg | CC0 | Gerda Arendt
 highlights/leipzig-1.jpg | https://commons.wikimedia.org/wiki/File:Statue_of_Johann_Sebastian_Bach_at_the_St._Thomas_Church_in_Leipzig.jpg | CC BY-SA 4.0 | Yair Haklai
 highlights/stuttgart-4.jpg | https://commons.wikimedia.org/wiki/File:Wilhelma_Maurisches_Landhaus_qtl1.jpg | CC BY-SA 3.0 | Quartl
 highlights/stuttgart-5.jpg | https://commons.wikimedia.org/wiki/File:Canstatter_Rebhaenge-10-2014-gje.jpg | CC BY 4.0 | Gerd Eichmann
