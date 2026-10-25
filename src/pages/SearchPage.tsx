@@ -7,6 +7,7 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 import { useCountryData } from '../data/countryData'
+import { assetUrl } from '../utils/assetUrl'
 import {
   clearRecentSearches,
   recentSearches,
@@ -33,16 +34,25 @@ function PopularCities() {
       <ol className="popular-list">
         {cities.map((p, i) => (
           <li key={p.cityId}>
-            <Link to={`/city/${p.cityId}`} className="popular-item">
-              <span className="popular-rank">{i + 1}</span>
-              <span className="popular-name">
-                {p.city!.name[lang]}
+            <Link
+              to={`/city/${p.cityId}`}
+              className="city-item popular-card"
+              style={{
+                backgroundImage: `
+                  linear-gradient(180deg, rgba(10, 12, 18, 0.15) 0%, rgba(10, 12, 18, 0.25) 45%, rgba(10, 12, 18, 0.82) 100%),
+                  url(${assetUrl(p.city!.signatureImage)})
+                `,
+              }}
+            >
+              <span className={`popular-rank${i < 3 ? ` popular-rank--${i + 1}` : ''}`}>{i + 1}</span>
+              <span className="popular-body">
+                <strong className="popular-name">{p.city!.name[lang]}</strong>
                 <span className="popular-country">{getCountry(p.city!.countryId)?.name[lang] ?? ''}</span>
-              </span>
-              <span className="popular-count">
-                {p.approx ? t('popularApprox', lang) : ''}
-                {count(p.millions)}
-                {p.method ? <sup>*</sup> : null}
+                <span className="popular-count">
+                  {p.approx ? t('popularApprox', lang) : ''}
+                  {count(p.millions)}
+                  {p.method ? <sup>*</sup> : null}
+                </span>
               </span>
             </Link>
           </li>

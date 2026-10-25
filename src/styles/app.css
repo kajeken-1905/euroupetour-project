@@ -3436,52 +3436,95 @@ a.plan-btn {
 }
 
 .popular-list {
-  margin: 0 0 8px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 0 0 10px;
   padding: 0;
   list-style: none;
 }
 
-.popular-item {
+/* Photo cards like the city list, with the rank on top and the count at the bottom. */
+.popular-card {
   display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 2px;
-  border-bottom: 1px solid var(--line);
-  color: inherit;
+  flex-direction: column;
+  justify-content: space-between;
+  aspect-ratio: 4 / 3;
+  min-height: 0;
+  padding: 10px;
   text-decoration: none;
 }
 
 .popular-rank {
-  flex: 0 0 26px;
+  position: relative;
+  z-index: 1;
+  width: 26px;
   height: 26px;
   border-radius: 999px;
-  background: rgba(139, 45, 255, 0.1);
-  color: #6b2dc0;
+  background: rgba(255, 255, 255, 0.9);
+  color: #3b2a5c;
   font-size: 13px;
   font-weight: 800;
   line-height: 26px;
   text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
 
-.popular-name {
-  flex: 1;
-  min-width: 0;
-  font-weight: 700;
+.popular-rank--1 {
+  background: linear-gradient(135deg, #ffe07a, #e5a91a);
+}
+
+.popular-rank--2 {
+  background: linear-gradient(135deg, #f2f4f7, #b8bec8);
+}
+
+.popular-rank--3 {
+  background: linear-gradient(135deg, #f3c39a, #c07a43);
+}
+
+.popular-body {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.45);
+}
+
+.city-item .popular-name {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 .popular-country {
-  margin-left: 6px;
-  color: var(--muted);
+  color: rgba(255, 255, 255, 0.82);
   font-size: 12px;
-  font-weight: 500;
 }
 
 .popular-count {
+  margin-top: 4px;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 800;
   white-space: nowrap;
 }
 
+/* Four across on wide screens, like the city lists. */
+@media (min-width: 1024px) {
+  .popular-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .popular-card {
+    aspect-ratio: 16 / 10;
+    padding: 14px;
+  }
+
+  .city-item .popular-name {
+    font-size: 18px;
+  }
+}
 
 .home-features {
   margin: 0 0 12px;
