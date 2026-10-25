@@ -18,7 +18,12 @@ Others: each city's official 2025 count of foreign guests in accommodation. Meth
 | Berlin | 4,485,959 | Amt für Statistik Berlin-Brandenburg (statistik-berlin-brandenburg.de/tourismus-berlin) |
 | Munich | 3,841,497 | Landeshauptstadt München open data "Monatszahlen Tourismus" (Gäste, Ausland, 2025, Summe) |
 
-Not listed until an official 2025 foreign count is published or reachable: Vienna (only total arrivals 8.573M
-incl. Austrians; the city table stops at 2024), Milan and Venice and Florence (Istat municipal 2025 not out),
-Lisbon (INE municipal 2025 not found), Budapest (KSH tables block automated access), Athens (8.72M is an
-airport survey), Dublin (no Dublin split).
+| Vienna | 6,402,675 (2024) | Stadt Wien, "Gästeankünfte in Wien nach Herkunftsländern 2014 bis 2024": total 8,169,087 minus Austria 1,766,412 (wien.gv.at/statistik/gaeste-ankuenfte-laender). 2025 foreign split not published yet (total 2025 arrivals 8.573M). |
+| Budapest | c. 6.0M (2024) | Hungarian Tourism Agency (MTÜ) year review, "csaknem 6 millió külföldi turista" (turizmus.com, vg.hu, Jan 2025). KSH tables block automated access. |
+| Lisbon | 5.5M (2024) | INE via Público (2025-02-14): Lisbon municipality 6.7M guests, 5.5M non-residents. |
+| Milan | c. 5.3M (2024) | ISTAT 2024 via Assolombarda Osservatorio Turismo 2025: 8.2M visitors, 64.8% from abroad (8.2 × 0.648). |
+| Venice | 5,111,274 (2024) | City of Venice, Yearbook of Tourism data 2024 (Annuario_2024_ENG.pdf), table 1.5 "Foreigners". |
+| Athens | c. 5.0M (2025) | Athens International Airport: 8.72M foreign-resident arrivals in 2025; GBR Consulting: 57% of international arrivals stay in Athens/Attica (8.72 × 0.57). |
+| Dublin | 4,094k (2024) | Fáilte Ireland, Key Tourism Facts (Dublin factsheet): overseas visits 4,094k. |
+
+Update each to 2025 when published (Vienna city table, Istat municipal, INE Portugal, KSH, Fáilte Ireland).

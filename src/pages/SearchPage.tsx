@@ -2,7 +2,7 @@ import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { getCityBrief } from '../data/cityIndex'
 import { getCountry } from '../data/countries'
-import { POPULAR_CITIES_2025 } from '../data/popularCities'
+import { POPULAR_CITIES } from '../data/popularCities'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
@@ -21,7 +21,7 @@ const QUERY_KEY = 'search-query'
 /** European cities by international visitors in 2025, linking to each city. */
 function PopularCities() {
   const { lang } = useLanguage()
-  const cities = [...POPULAR_CITIES_2025]
+  const cities = [...POPULAR_CITIES]
     .sort((a, b) => b.millions - a.millions)
     .map((p) => ({ ...p, city: getCityBrief(p.cityId) }))
     .filter((p) => !!p.city)
@@ -40,8 +40,10 @@ function PopularCities() {
                 <span className="popular-country">{getCountry(p.city!.countryId)?.name[lang] ?? ''}</span>
               </span>
               <span className="popular-count">
+                {p.approx ? t('popularApprox', lang) : ''}
                 {count(p.millions)}
                 {p.basis === 'euromonitor' ? <sup>*</sup> : null}
+                {p.year !== 2025 ? <span className="popular-year">{p.year}</span> : null}
               </span>
             </Link>
           </li>

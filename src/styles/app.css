@@ -3482,6 +3482,17 @@ a.plan-btn {
   white-space: nowrap;
 }
 
+.popular-year {
+  margin-left: 4px;
+  padding: 1px 5px;
+  border-radius: 6px;
+  background: rgba(127, 127, 127, 0.12);
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 700;
+  vertical-align: 1px;
+}
+
 .home-features {
   margin: 0 0 12px;
   padding-left: 18px;
