@@ -309,7 +309,6 @@ cities/krakow.jpg | https://commons.wikimedia.org/wiki/File:Krakow_-_Wawel_from_
 highlights/krakow-5.jpg | https://commons.wikimedia.org/wiki/File:St._Mary's_Basilica_and_Adam_Mickiewicz_Monument._Kraków,_Poland.jpg | CC BY-SA 3.0 | Ввласенко
 cities/gdansk.jpg | https://commons.wikimedia.org/wiki/File:Gdansk_LOC_Motlawa.jpg | Public domain | Unknown authorUnknown author
 cities/wroclaw.jpg | https://commons.wikimedia.org/wiki/File:Rynek_-_Wrocław_(2026).jpg | CC BY-SA 4.0 | Sneeuwvlakte
-cities/zagreb.jpg | https://commons.wikimedia.org/wiki/File:Zagrebačka_katedrala_-_pogled_s_Gornjeg_Grada_(Zagreb_Cathedral_-_view_from_Upper_Town)_-_panoramio.jpg | CC BY 3.0 | Nikolai Karaneschev
 highlights/rovinj-3.jpg | https://commons.wikimedia.org/wiki/File:Boats_in_Rovinj_(43682081675).jpg | CC BY 2.0 | Mateusz Kamiński from Gdańsk, Poland
 cities/hvar.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_through_the_Yachts_(5969965094).jpg | CC BY 2.0 | Alex Proimos from Sydney, Australia
 highlights/hvar-1.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_-_Fortress_and_houses.jpg | CC BY-SA 4.0 | Shawabunga
