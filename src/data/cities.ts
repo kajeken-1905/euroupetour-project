@@ -2535,7 +2535,7 @@ export const cities: City[] = [
         name: { ko: "뉘하운", en: "Nyhavn" },
         description: { ko: "색색 가옥과 배가 늘어선 상징적 운하입니다.", en: "The iconic canal of colourful houses and boats." },
         image: "/highlights/copenhagen-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nyhavn%20copenhagen",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nyhavn",
       },
       {
         id: "copenhagen-h3",
