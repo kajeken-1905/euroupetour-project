@@ -580,6 +580,7 @@ cities/fatima.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nos
 cities/cascais.jpg | https://commons.wikimedia.org/wiki/File:Sea_coast_with_Palacete_Seixas,_Cascais,_Portugal,_20250606_1701_0333.jpg | CC BY 4.0 | Jakub Hałun
 highlights/copenhagen-5.jpg | https://www.flickr.com/photos/24931987@N00/4112396455 | CC BY-SA 2.0 | NervousEnergy (Flickr, via Openverse)
 highlights/prague-10.jpg | https://commons.wikimedia.org/wiki/File:Lennonova_ze%C4%8F_10-2022_(6).jpg | CC BY-SA 4.0 | Marie Čcheidzeová
+highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_Rittergasse,_1,_Sachsenhausen_Nord,_Frankfurt_am_Main.jpg | CC BY-SA 4.0 | GeorgDerReisende
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner

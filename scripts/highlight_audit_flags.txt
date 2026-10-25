@@ -96,7 +96,6 @@ hamburg-5
 frankfurt-2
 frankfurt-3
 frankfurt-4
-frankfurt-5
 dresden-4
 dresden-5
 heidelberg-1
