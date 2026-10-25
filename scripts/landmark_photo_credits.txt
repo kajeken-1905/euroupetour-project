@@ -602,3 +602,4 @@ cities/cascais.jpg | https://commons.wikimedia.org/wiki/File:Sea_coast_with_Pala
 # cities/venice.jpg | IMG_6863 (2023-10-31, San Simeone Piccolo from Santa Lucia station, 2:1 crop) | owner
 # cities/rome.jpg | IMG_7646 (2023-11-06, Vittoriano, 2:1 crop) | owner
 # cities/madrid.jpg | IMG_2670 (2025-11-08, Metropolis Building, 3:2 crop) | owner
+# highlights/plitvice-1.jpg | IMG_3525 (2023-05-10, Veliki Slap) | owner
