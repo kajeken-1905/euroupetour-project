@@ -27,6 +27,19 @@ self.addEventListener('activate', (event) => {
       // Drop older copies of precached files from the image cache, so a replaced file never comes back.
       const images = await caches.open(IMAGES)
       await Promise.all(PRECACHE.map((path) => images.delete(BASE + path)))
+      // Photos are kept across versions too, so one replaced under the same name (a new city picture) would
+      // stay old for anyone who had seen it. Drop every cached photo whose size differs from this build's.
+      const sizes = await (await caches.open(SHELL)).match(`${BASE}image-sizes.json`)
+      if (sizes) {
+        const want = await sizes.json()
+        for (const request of await images.keys()) {
+          const size = want[decodeURIComponent(new URL(request.url).pathname.slice(BASE.length))]
+          if (size === undefined) continue
+          const response = await images.match(request)
+          const length = Number(response?.headers.get('content-length')) || (await response?.blob())?.size
+          if (length !== size) await images.delete(request)
+        }
+      }
       await self.clients.claim()
     })(),
   )
