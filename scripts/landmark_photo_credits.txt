@@ -574,6 +574,10 @@ places/kyiv-fine_dining-2.jpg | https://www.flickr.com/photos/31849470@N02/17086
 places/lviv-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Lviv_Croissants_near_the_Lviv_railway_station.jpg | CC0 | Real archimedes of syracuse
 places/chisinau-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:La_Pl%C4%83cinte,_Kiev_Street_12,_Kiszyni%C3%B3w_(6).jpg | CC BY 4.0 | MOs810
 
+cities/coimbra.jpg | https://commons.wikimedia.org/wiki/File:Coimbra_December_2011-9.jpg | CC BY-SA 3.0 | Alvesgaspar
+cities/nazare.jpg | https://commons.wikimedia.org/wiki/File:2025-12-21_View_of_Nazar%C3%A9_in_December.jpg | CC BY 4.0 | Alexkom000
+cities/fatima.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nossa_Senhora_do_Ros%C3%A1rio_de_F%C3%A1tima_-_03.jpg | CC BY-SA 4.0 | Reis Quarteu
+cities/cascais.jpg | https://commons.wikimedia.org/wiki/File:Sea_coast_with_Palacete_Seixas,_Cascais,_Portugal,_20250606_1701_0333.jpg | CC BY 4.0 | Jakub Hałun
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
