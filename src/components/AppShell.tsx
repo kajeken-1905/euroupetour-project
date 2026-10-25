@@ -53,9 +53,9 @@ export function AppShell() {
           <NavLink to="/" end>
             {t('home', lang)}
           </NavLink>
+          <NavLink to="/countries">{t('countries', lang)}</NavLink>
           <NavLink to="/map">{t('map', lang)}</NavLink>
           <NavLink to="/search">{t('search', lang)}</NavLink>
-          <NavLink to="/countries">{t('countries', lang)}</NavLink>
           <NavLink to="/trip">{t('checklistTab', lang)}</NavLink>
         </nav>
       </div>
