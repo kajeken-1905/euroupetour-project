@@ -207,6 +207,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'porto-h7': v(15, 20),
   'porto-h8': v(30, 45, { c: 'sun', s: 'https://mercadobolhao.pt/en/', k: '2026-10' }),
   'porto-h9': v(10, 15),
+  'porto-h10': v(20, 40),
   // Braga
   'braga-h1': v(75, 90, { c: 'daily', b: 'no', s: 'https://bomjesus.pt/en/', n: '성지는 무료이고 수력 엘리베이터(편도 2.5유로)만 유료입니다. 대성당은 매일 여름 8:00~19:00, 겨울 9:00~18:00이고 미사 중에는 관람할 수 없습니다.|The sanctuary is free; only the water-powered funicular charges (€2.50 one way). The basilica opens daily 8:00–19:00 in summer and 9:00–18:00 in winter, with no visits during services.', k: '2026-10' }),
   'braga-h2': v(30, 45, { c: 'daily', s: 'https://se-braga.pt/', n: '매일 9:30~13:00, 14:30~18:00에 관람하며, 보물 박물관 코스는 월요일에 쉽니다. 12월 25일은 휴무입니다.|Visits run daily 9:30–13:00 and 14:30–18:00; the treasury museum route closes on Mondays. Closed 25 December.', k: '2026-10' }),

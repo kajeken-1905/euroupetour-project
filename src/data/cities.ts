@@ -12143,6 +12143,13 @@ export const cities: City[] = [
         description: { ko: "사자 분수가 있는 고메스 테이셰이라 광장의 옛 본관입니다.", en: "Historic Reitoria building on Praça de Gomes Teixeira, with its lion fountain." },
         image: "/highlights/porto-9.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Universidade%20do%20Porto%20Reitoria",
+      },
+      {
+        id: "porto-h10",
+        name: { ko: "맥도날드 임페리얼", en: "McDonald’s Imperial" },
+        description: { ko: "1936년 문을 연 아르데코 카페 임페리알 자리에 1995년 들어선 맥도날드입니다. 입구 위 청동 독수리와 안쪽 스테인드글라스·샹들리에가 남아 있습니다.", en: "A McDonald’s since 1995 in the former Café Imperial, an Art Deco café opened in 1936; the bronze eagle over the door and the stained glass and chandeliers inside survive." },
+        image: "/highlights/porto-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=McDonald%27s%20Imperial%20Pra%C3%A7a%20da%20Liberdade%20Porto",
       }
     ],
   },
