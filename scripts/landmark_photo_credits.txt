@@ -605,3 +605,4 @@ cities/cascais.jpg | https://commons.wikimedia.org/wiki/File:Sea_coast_with_Pala
 # highlights/plitvice-1.jpg | IMG_3525 (2023-05-10, Veliki Slap) | owner
 # cities/plitvice.jpg | IMG_3487 (2023-05-10, Veliki Slap and the lower lakes from above, 2:1 crop) | owner
 # cities/zagreb.jpg | IMG_3924 (2023-05-12, Zagreb Cathedral at dusk, 16:10 crop) | owner
+# highlights/paris-3.jpg | 20170801_143840_HDR (2017-08-01, Notre-Dame west front) | owner
