@@ -595,3 +595,6 @@ places/chisinau-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:La_P
 # cities/milan.jpg | IMG_6618 (2023-10-30, Piazza del Duomo with the Galleria, 2:1 crop) | owner
 # highlights/milan-1.jpg | IMG_6620 (2023-10-30, Duomo façade) | owner
 # highlights/milan-8.jpg | IMG_6660 (2023-10-30, Starbucks Reserve Roastery, former Palazzo delle Poste) | owner
+# cities/venice.jpg | IMG_6863 (2023-10-31, San Simeone Piccolo from Santa Lucia station, 2:1 crop) | owner
+# cities/rome.jpg | IMG_7646 (2023-11-06, Vittoriano, 2:1 crop) | owner
+# cities/madrid.jpg | IMG_2670 (2025-11-08, Metropolis Building, 3:2 crop) | owner
