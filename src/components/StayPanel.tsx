@@ -1,11 +1,22 @@
 import { useLanguage } from '../contexts/LanguageContext'
 import { getStayAreas } from '../data/stay'
 import { t } from '../i18n/ui'
+import { isTravelBan } from './TravelBanNotice'
 
 /** Neighbourhoods to stay in, each with a Google Maps link to the hotels there. */
-export function StayPanel({ cityId }: { cityId: string }) {
+export function StayPanel({ cityId, countryId }: { cityId: string; countryId: string }) {
   const { lang } = useLanguage()
   const areas = getStayAreas(cityId)
+  if (!areas && isTravelBan(countryId)) {
+    return (
+      <section className="itinerary-panel" aria-label={t('stayTitle', lang)}>
+        <p className="section-label">{t('stayTitle', lang)}</p>
+        <div className="transit-card">
+          <p className="stay-note">{t('stayBanned', lang)}</p>
+        </div>
+      </section>
+    )
+  }
   if (!areas) return null
   return (
     <section className="itinerary-panel" aria-label={t('stayTitle', lang)}>

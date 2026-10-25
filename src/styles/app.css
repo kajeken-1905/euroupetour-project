@@ -3735,6 +3735,27 @@ a.plan-btn {
   font-weight: 500;
 }
 
+.ban-notice {
+  margin: 12px 0;
+  padding: 12px 14px;
+  border: 1px solid rgba(180, 35, 28, 0.45);
+  border-radius: 14px;
+  background: rgba(180, 35, 28, 0.08);
+}
+
+.ban-notice-title {
+  margin: 0 0 4px;
+  font-size: 15px;
+  font-weight: 800;
+  color: #b4231c;
+}
+
+.ban-notice-text {
+  margin: 0 0 8px;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
 .planner-holiday {
   margin: 2px 0 6px;
   font-size: 13px;

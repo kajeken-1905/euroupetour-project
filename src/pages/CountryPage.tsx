@@ -8,6 +8,7 @@ import { PhrasePanel } from '../components/PhrasePanel'
 import { VisitStamps } from '../components/VisitStamps'
 import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
+import { TravelBanNotice } from '../components/TravelBanNotice'
 import { PassesPanel } from '../components/PassesPanel'
 import { HolidaysPanel } from '../components/HolidaysPanel'
 import { getCountryPasses } from '../data/passes'
@@ -145,6 +146,8 @@ export function CountryPage() {
           <p className="fx-note">{t('exchangeRateUpdated', lang)}</p>
         ) : null}
       </section>
+
+      <TravelBanNotice countryId={country.id} />
 
       <PhrasePanel countryId={country.id} />
 

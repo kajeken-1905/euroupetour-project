@@ -8,6 +8,7 @@ import { HighlightCard } from '../components/HighlightCard'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { TransitCityPanel } from '../components/TransitPanel'
 import { StayPanel } from '../components/StayPanel'
+import { TravelBanNotice } from '../components/TravelBanNotice'
 import { FaresPanel } from '../components/FaresPanel'
 import { PassesPanel } from '../components/PassesPanel'
 import { getCityPasses } from '../data/passes'
@@ -102,6 +103,8 @@ function CityView() {
         </div>
       </header>
 
+      <TravelBanNotice countryId={country.id} />
+
       <ForecastPanel city={city} />
       <SeasonPanel city={city} />
 
@@ -137,7 +140,7 @@ function CityView() {
 
       <FootballClubsPanel cityId={city.id} />
 
-      <StayPanel cityId={city.id} />
+      <StayPanel cityId={city.id} countryId={country.id} />
 
       {transit ? (
         <TransitCityPanel {...transit} hubs={getCityHubs(city.id)} cityName={city.name.en} />
