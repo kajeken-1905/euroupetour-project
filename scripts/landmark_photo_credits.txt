@@ -578,6 +578,8 @@ cities/coimbra.jpg | https://commons.wikimedia.org/wiki/File:Coimbra_December_20
 cities/nazare.jpg | https://commons.wikimedia.org/wiki/File:2025-12-21_View_of_Nazar%C3%A9_in_December.jpg | CC BY 4.0 | Alexkom000
 cities/fatima.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nossa_Senhora_do_Ros%C3%A1rio_de_F%C3%A1tima_-_03.jpg | CC BY-SA 4.0 | Reis Quarteu
 cities/cascais.jpg | https://commons.wikimedia.org/wiki/File:Sea_coast_with_Palacete_Seixas,_Cascais,_Portugal,_20250606_1701_0333.jpg | CC BY 4.0 | Jakub Hałun
+highlights/copenhagen-5.jpg | https://www.flickr.com/photos/24931987@N00/4112396455 | CC BY-SA 2.0 | NervousEnergy (Flickr, via Openverse)
+highlights/prague-10.jpg | https://commons.wikimedia.org/wiki/File:Lennonova_ze%C4%8F_10-2022_(6).jpg | CC BY-SA 4.0 | Marie Čcheidzeová
 # Owner's own photos (no attribution needed)
 # landmarks/landmark-va.jpg | IMG_7438 (2023-11-06, Via della Conciliazione → St. Peter's) | owner
 # landmarks/landmark-it.jpg | IMG_7490 (2023-11-06, Colosseum) | owner
