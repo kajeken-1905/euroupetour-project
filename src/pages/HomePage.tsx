@@ -29,7 +29,7 @@ function useHasSaved() {
 
 const POPULAR_CITIES = ['paris', 'rome', 'barcelona', 'london', 'prague', 'vienna', 'amsterdam', 'florence']
 
-/** For a first visit, when nothing is saved yet: a way into search, a few well-known cities and what the app can do. */
+/** For a first visit, when nothing is saved yet: a few well-known cities and what the app can do. */
 function HomeStart() {
   const { lang } = useLanguage()
   const cities = POPULAR_CITIES.map(getCityBrief).filter((c) => !!c)
@@ -39,9 +39,6 @@ function HomeStart() {
         <span className="home-kicker">START ✦</span>
         <h2 className="home-trip-title">{t('homeStartTitle', lang)}</h2>
       </div>
-      <Link to="/search" className="home-search">
-        <span aria-hidden="true">🔍</span> {t('homeSearchHint', lang)}
-      </Link>
       <p className="section-label">{t('homePopular', lang)}</p>
       <div className="city-list">
         {cities.map((city) => (

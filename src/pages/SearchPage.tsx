@@ -1,5 +1,8 @@
 import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
+import { getCityBrief } from '../data/cityIndex'
+import { getCountry } from '../data/countries'
+import { POPULAR_CITIES_2025 } from '../data/popularCities'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
@@ -14,6 +17,40 @@ import {
 } from '../utils/search'
 
 const QUERY_KEY = 'search-query'
+
+/** European cities by international visitors in 2025, linking to each city. */
+function PopularCities() {
+  const { lang } = useLanguage()
+  const cities = [...POPULAR_CITIES_2025]
+    .sort((a, b) => b.millions - a.millions)
+    .map((p) => ({ ...p, city: getCityBrief(p.cityId) }))
+    .filter((p) => !!p.city)
+  const count = (m: number) =>
+    lang === 'ko' ? `${(m * 100).toLocaleString('ko-KR', { maximumFractionDigits: 0 })}만 명` : `${m.toFixed(1)}M`
+  return (
+    <section className="popular-cities" aria-label={t('popularTitle', lang)}>
+      <p className="section-label">{t('popularTitle', lang)}</p>
+      <ol className="popular-list">
+        {cities.map((p, i) => (
+          <li key={p.cityId}>
+            <Link to={`/city/${p.cityId}`} className="popular-item">
+              <span className="popular-rank">{i + 1}</span>
+              <span className="popular-name">
+                {p.city!.name[lang]}
+                <span className="popular-country">{getCountry(p.city!.countryId)?.name[lang] ?? ''}</span>
+              </span>
+              <span className="popular-count">
+                {count(p.millions)}
+                {p.basis === 'euromonitor' ? <sup>*</sup> : null}
+              </span>
+            </Link>
+          </li>
+        ))}
+      </ol>
+      <p className="itinerary-note">{t('popularNote', lang)}</p>
+    </section>
+  )
+}
 
 /** Search covers every country's cities and places. */
 export function SearchPage() {
@@ -98,6 +135,7 @@ function SearchView() {
             </section>
           ) : null}
           <p className="phase-note">{t('searchHint', lang)}</p>
+          <PopularCities />
         </>
       ) : total === 0 ? (
         <div className="empty-state">{t('searchEmpty', lang)}</div>
