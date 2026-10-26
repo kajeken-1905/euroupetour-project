@@ -6,7 +6,7 @@ import { POPULAR_CITIES } from '../data/popularCities'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
-import { useCountryData } from '../data/countryData'
+import { getCity, useCountryData } from '../data/countryData'
 import { assetUrl } from '../utils/assetUrl'
 import {
   clearRecentSearches,
@@ -19,20 +19,18 @@ import {
 
 const QUERY_KEY = 'search-query'
 
-/** European cities by international visitors in 2024, linking to each city. */
+/** European cities in order of international visitors in 2024, each with its one-line description. */
 function PopularCities() {
   const { lang } = useLanguage()
   const cities = [...POPULAR_CITIES]
     .sort((a, b) => b.millions - a.millions)
     .map((p) => ({ ...p, city: getCityBrief(p.cityId) }))
     .filter((p) => !!p.city)
-  const count = (m: number) =>
-    lang === 'ko' ? `${(m * 100).toLocaleString('ko-KR', { maximumFractionDigits: 0 })}만 명` : `${m.toFixed(1)}M`
   return (
     <section className="popular-cities" aria-label={t('popularTitle', lang)}>
       <p className="section-label">{t('popularTitle', lang)}</p>
       <ol className="popular-list">
-        {cities.map((p, i) => (
+        {cities.map((p) => (
           <li key={p.cityId}>
             <Link
               to={`/city/${p.cityId}`}
@@ -44,15 +42,10 @@ function PopularCities() {
                 `,
               }}
             >
-              <span className={`popular-rank${i < 3 ? ` popular-rank--${i + 1}` : ''}`}>{i + 1}</span>
               <span className="popular-body">
                 <strong className="popular-name">{p.city!.name[lang]}</strong>
                 <span className="popular-country">{getCountry(p.city!.countryId)?.name[lang] ?? ''}</span>
-                <span className="popular-count">
-                  {p.approx ? t('popularApprox', lang) : ''}
-                  {count(p.millions)}
-                  {p.method ? <sup>*</sup> : null}
-                </span>
+                <span className="popular-blurb">{getCity(p.cityId)?.blurb[lang] ?? ''}</span>
               </span>
             </Link>
           </li>

@@ -4849,7 +4849,7 @@ export const cities: City[] = [
     name: { ko: "밀라노", en: "Milan" },
     nativeName: "Milano",
     blurb: {
-      ko: "패션과 디자인의 수도. 두오모와 아페ritivo 문화가 유명합니다.",
+      ko: "패션과 디자인의 수도. 두오모와 아페리티보 문화가 유명합니다.",
       en: "Fashion and design capital—Duomo and aperitivo culture.",
     },
     highlights: [

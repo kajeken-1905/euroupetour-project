@@ -3430,7 +3430,7 @@ a.plan-btn {
   margin-top: 26px;
 }
 
-/* Search screen: most visited cities, rank · name · visitors. */
+/* Search screen: most visited cities, name · country · one-line description. */
 .popular-cities {
   margin-top: 18px;
 }
@@ -3444,42 +3444,14 @@ a.plan-btn {
   list-style: none;
 }
 
-/* Photo cards like the city list, with the rank on top and the count at the bottom. */
+/* Photo cards like the city list, with the text at the bottom; a long description makes the card taller. */
 .popular-card {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-end;
   aspect-ratio: 4 / 3;
-  min-height: 0;
   padding: 10px;
   text-decoration: none;
-}
-
-.popular-rank {
-  position: relative;
-  z-index: 1;
-  width: 26px;
-  height: 26px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.9);
-  color: #3b2a5c;
-  font-size: 13px;
-  font-weight: 800;
-  line-height: 26px;
-  text-align: center;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
-}
-
-.popular-rank--1 {
-  background: linear-gradient(135deg, #ffe07a, #e5a91a);
-}
-
-.popular-rank--2 {
-  background: linear-gradient(135deg, #f2f4f7, #b8bec8);
-}
-
-.popular-rank--3 {
-  background: linear-gradient(135deg, #f3c39a, #c07a43);
 }
 
 .popular-body {
@@ -3502,11 +3474,11 @@ a.plan-btn {
   font-size: 12px;
 }
 
-.popular-count {
+.popular-blurb {
   margin-top: 4px;
-  font-size: 13px;
-  font-weight: 800;
-  white-space: nowrap;
+  font-size: 12px;
+  line-height: 1.4;
+  word-break: keep-all;
 }
 
 /* Four across on wide screens, like the city lists. */
