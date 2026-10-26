@@ -611,3 +611,4 @@ highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_
 # highlights/paris-3.jpg | 20170801_143840_HDR (2017-08-01, Notre-Dame west front) | owner
 # highlights/porto-10.jpg | IMG_0190 (2024-11-09, McDonald's Imperial entrance) | owner
 # highlights/lisbon-8.jpg | IMG_1019 (2024-11-18, Carmo Convent nave) | owner
+cities/santorini.jpg | https://commons.wikimedia.org/wiki/File:Resurrection_of_the_Lord_Holy_Orthodox_Church_in_%CE%9F%CE%AF%CE%B1.jpg | CC BY-SA 4.0 | Je-str
