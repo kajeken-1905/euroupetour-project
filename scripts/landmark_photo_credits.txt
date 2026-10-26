@@ -654,3 +654,101 @@ highlights/st-peter-port-5.jpg | https://commons.wikimedia.org/wiki/File:Occupat
 cities/sark.jpg | https://commons.wikimedia.org/wiki/File:Sark-aerial.jpg | CC BY 2.0 | Phillip Capper
 highlights/sark-1.jpg | https://commons.wikimedia.org/wiki/File:Sark_Coupee.jpg | CC BY-SA 3.0 | Clemensfranz
 highlights/sark-2.jpg | https://commons.wikimedia.org/wiki/File:Seigneurie_Gardens_on_Sark_(7155536499).jpg | CC BY 2.0 | Heather Cowper from Bristol, UK
+landmarks/landmark-fo.jpg | https://commons.wikimedia.org/wiki/File:S%C3%B8rv%C3%A1gsvatn_4.jpg | CC BY-SA 4.0 | kallerna
+cities/torshavn.jpg | https://commons.wikimedia.org/wiki/File:Tinganes,_Torshavn_2005.jpg | CC BY-SA 3.0 | No machine-readable author provided. Madla~commonswiki assumed (based on copyrig
+highlights/torshavn-1.jpg | https://commons.wikimedia.org/wiki/File:Tinganes,_Torshavn_2005.jpg | CC BY-SA 3.0 | No machine-readable author provided. Madla~commonswiki assumed (based on copyrig
+highlights/torshavn-2.jpg | https://commons.wikimedia.org/wiki/File:Skansin,_Torshavn_01.jpg | CC BY-SA 2.0 | Arne List from Kiel, Germany
+highlights/torshavn-3.jpg | https://commons.wikimedia.org/wiki/File:Nordens_Hus_pa_Faeroerne.jpg | CC BY 2.5 dk | Nordens Hus på Færøerne
+highlights/torshavn-4.jpg | https://commons.wikimedia.org/wiki/File:Kirkjub%C3%B8ur,_Faroe_Islands.JPG | CC BY-SA 3.0 | Erik Christensen, (Contact at the Danish Wikipedia)
+cities/vagar.jpg | https://commons.wikimedia.org/wiki/File:Faroe_Islands,_V%C3%A1gar,_Mi%C3%B0v%C3%A1gur_(02b).jpg | CC BY-SA 4.0 | Vincent van Zeijst
+highlights/vagar-1.jpg | https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(20691451558).jpg | CC BY 2.0 | Stefan Wisselink
+highlights/vagar-2.jpg | https://commons.wikimedia.org/wiki/File:S%C3%B8rv%C3%A1gsvatn_4.jpg | CC BY-SA 4.0 | kallerna
+highlights/vagar-3.jpg | https://commons.wikimedia.org/wiki/File:Puffins_in_Mykines_01.jpg | CC BY 2.0 | DavideGorla
+cities/eysturoy.jpg | https://commons.wikimedia.org/wiki/File:Faroe_Islands,_Eysturoy,_Hellurnar_(02).jpg | CC BY-SA 4.0 | Vincent van Zeijst
+highlights/eysturoy-1.jpg | https://commons.wikimedia.org/wiki/File:Gj%C3%B3gv.2011.jpg | CC BY-SA 3.0 | Erik Christensen
+highlights/eysturoy-2.jpg | https://commons.wikimedia.org/wiki/File:Sl%C3%A6ttaratindur,_Faroe_Islands.JPG | CC BY-SA 3.0 | Erik Christensen, Porkeri (Contact at the Danish Wikipedia)
+highlights/eysturoy-3.jpg | https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Risin_%26_Kellingin_03.JPG | CC BY-SA 4.0 | Zairon
+landmarks/landmark-gl.jpg | https://commons.wikimedia.org/wiki/File:Icebergs_in_the_Ilulissat_Icefjord,_Greenland_(54067503523).jpg | CC BY-SA 2.0 | Christoph Strässler from Oberdorf BL, Schweiz
+cities/nuuk.jpg | https://commons.wikimedia.org/wiki/File:Nuuk,_Greenland_skyline.jpg | CC BY 4.0 | Quintin Soloviev
+highlights/nuuk-1.jpg | https://commons.wikimedia.org/wiki/File:B-1859_in_Nuuk_(Kenny_McFly).jpg | CC BY-SA 4.0 | Kenny McFly
+highlights/nuuk-2.jpg | https://commons.wikimedia.org/wiki/File:Katuaq2008.JPG | Public domain | Alankomaat
+highlights/nuuk-3.jpg | https://commons.wikimedia.org/wiki/File:Annaassisitta-Oqaluffia-old-nuuk.jpg | CC BY-SA 3.0 | Algkalv (talk)
+highlights/nuuk-4.jpg | https://commons.wikimedia.org/wiki/File:Nuuk_fjord_18.jpg | CC BY 2.0 | Mads Lumholt from Copenhagen K, Denmark
+cities/ilulissat.jpg | https://commons.wikimedia.org/wiki/File:Ilulissat_Groenlandia_Panorama_Icerbeg_and_Town_Buiobuione.jpg | CC BY-SA 4.0 | Buiobuione
+highlights/ilulissat-1.jpg | https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Ilulissat_Icefjord,_Greenland_(54066379867).jpg | CC BY-SA 2.0 | Christoph Strässler from Oberdorf BL, Schweiz
+highlights/ilulissat-2.jpg | https://commons.wikimedia.org/wiki/File:UNESCO_hike_to_Sermermiut_valley.jpg | CC BY-SA 4.0 | Ekrem Canli
+highlights/ilulissat-3.jpg | https://commons.wikimedia.org/wiki/File:Ilulissat_Isfjordscenter,_Greenland_(54067577094).jpg | CC BY-SA 2.0 | Christoph Strässler from Oberdorf BL, Schweiz
+highlights/ilulissat-4.jpg | https://commons.wikimedia.org/wiki/File:Near_Eqi_Glacier_(31165110186).jpg | CC BY-SA 2.0 | Sebastian We
+cities/kangerlussuaq.jpg | https://commons.wikimedia.org/wiki/File:Kangerlussuaq,_Greenland.jpg | CC BY 4.0 | Quintin Soloviev
+highlights/kangerlussuaq-1.jpg | https://commons.wikimedia.org/wiki/File:Russell_Glacier_in_summer_2010_(10).JPG | CC BY 3.0 | Chmee2/Valtameri
+highlights/kangerlussuaq-2.jpg | https://commons.wikimedia.org/wiki/File:Sermersuaq_in_Isunngua_highland_in_summer_2010_(10).JPG | CC BY 3.0 | Chmee2/Valtameri
+highlights/kangerlussuaq-3.jpg | https://commons.wikimedia.org/wiki/File:Muskox,_Greenland_(54066407297).jpg | CC BY-SA 2.0 | Christoph Strässler from Oberdorf BL, Schweiz
+landmarks/landmark-ru.jpg | https://commons.wikimedia.org/wiki/File:Close_up_of_Saint_Basil%27s_Cathedral.jpg | CC BY-SA 4.0 | Naotokurihara
+cities/moscow.jpg | https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral,_Red_Square,_2009-06-19-2.jpg | Public domain | Own work
+highlights/moscow-1.jpg | https://commons.wikimedia.org/wiki/File:Grand_Kremlin_Palace_in_summer_sunset_light_2025-8.jpg | CC BY 4.0 | Юрий Д.К.
+highlights/moscow-2.jpg | https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_overcast_day.jpg | CC BY 4.0 | Юрий Д.К.
+highlights/moscow-3.jpg | https://commons.wikimedia.org/wiki/File:Moscow_TretyakovGallery(Kadashevskaya)_020_8267.jpg | CC BY-SA 4.0 | Ludvig14
+highlights/moscow-4.jpg | https://commons.wikimedia.org/wiki/File:Moscow_-_2025_-_Bolshoi_Theatre.jpg | CC BY 4.0 | Юрий Д.К.
+highlights/moscow-5.jpg | https://commons.wikimedia.org/wiki/File:20251211_Komsomolskaya_metro_station_(26096).jpg | CC BY 4.0 | Sergey A. Demidov / Sergey A. Demidov
+cities/saint-petersburg.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Peter_II_Neva_Saint_Petersburg.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.  
+
+Feel free to use my photos, but ple
+highlights/saint-petersburg-1.jpg | https://commons.wikimedia.org/wiki/File:00_2038_Winter_Palace_-_Hermitage_Museum_(St._Petersburg).jpg | CC BY-SA 4.0 | W. Bulach
+highlights/saint-petersburg-2.jpg | https://commons.wikimedia.org/wiki/File:Grand_Cascade_in_Peterhof_01.jpg | CC BY-SA 4.0 | Florstein (Telegram:WikiPhoto.Space)
+highlights/saint-petersburg-3.jpg | https://commons.wikimedia.org/wiki/File:Church_of_the_Savior_on_Spilled_Blood,_St.-Petersberg,_Russia.JPG | CC BY-SA 3.0 | Perfektangelll
+highlights/saint-petersburg-4.jpg | https://commons.wikimedia.org/wiki/File:Peter_%26_Paul_fortress_in_SPB_03.jpg | CC BY-SA 4.0 | Florstein (Telegram:WikiPhoto.Space)
+highlights/saint-petersburg-5.jpg | https://commons.wikimedia.org/wiki/File:Saint_Isaac%27s_Cathedral_-_Southern_Facade_20180804.jpg | CC BY-SA 4.0 | Suicasmo
+cities/kazan.jpg | https://commons.wikimedia.org/wiki/File:Kazan_panorama_SM_184.jpg | CC BY-SA 4.0 | Soghomon Matevosyan
+highlights/kazan-1.jpg | https://commons.wikimedia.org/wiki/File:Kazan_Kremlin._Spasskaya_Tower_P8111872_2200.jpg | CC BY-SA 4.0 | Alexxx1979
+highlights/kazan-2.jpg | https://commons.wikimedia.org/wiki/File:Kazan_Kul_Sharif_Mosque_2024-07-13_1350.jpg | CC BY-SA 3.0 | Mike1979 Russia
+highlights/kazan-3.jpg | https://commons.wikimedia.org/wiki/File:All_Religions_Temple_in_Kazan_02.jpg | CC BY-SA 4.0 | MBH
+cities/suzdal.jpg | https://commons.wikimedia.org/wiki/File:SuzdalPanoramaA_9273.jpg | CC BY-SA 4.0 | Ludvig14
+highlights/suzdal-1.jpg | https://commons.wikimedia.org/wiki/File:Suzdal_Kremlin_Cathedral_0159.jpg | CC BY-SA 4.0 | Ludvig14
+highlights/suzdal-2.jpg | https://commons.wikimedia.org/wiki/File:Suzdal_Museum_of_Wooden_Architecture_House_IMG_0429_1725.jpg | CC BY-SA 3.0 | Alexxx1979
+highlights/suzdal-3.jpg | https://commons.wikimedia.org/wiki/File:Spaso-Evfimiev_Monastery_Suzdal_2016-06-22_5982.jpg | CC BY-SA 4.0 | Mike1979 Russia
+cities/vladivostok.jpg | https://commons.wikimedia.org/wiki/File:Vladivostok_Grand_Hotel_(October_2024)-0.jpg | CC BY-SA 4.0 | Vyacheslav Bukharov
+highlights/vladivostok-1.jpg | https://commons.wikimedia.org/wiki/File:Vladivostok_Golden_bridge_night.jpg | CC0 | Svetlov Artem
+highlights/vladivostok-2.jpg | https://commons.wikimedia.org/wiki/File:20220816_City_view_from_the_Eagle%27s_nest_hill_-_52460648323.jpg | CC BY 2.0 | travelling_eidolon
+highlights/vladivostok-3.jpg | https://commons.wikimedia.org/wiki/File:VladivostokStation.jpg | CC BY-SA 3.0 | en:User:Vfp15
+highlights/vladivostok-4.jpg | https://commons.wikimedia.org/wiki/File:Vladivostok_Admirala_Fokina_Street_25A_2024-09_1725305987.tif | CC BY 4.0 | Artyom Svetlov
+highlights/vladivostok-5.jpg | https://commons.wikimedia.org/wiki/File:Primorskiy_Oceanarium_(October_2024)-0_2.jpg | CC BY-SA 4.0 | Vyacheslav Bukharov
+cities/khabarovsk.jpg | https://commons.wikimedia.org/wiki/File:2018-05-15-khv-pond-0432.jpg | CC BY 4.0 | I13Robin
+highlights/khabarovsk-1.jpg | https://commons.wikimedia.org/wiki/File:Kirovskiy_rayon,_Khabarovsk,_Khabarovskiy_kray,_Russia_-_panoramio_(129).jpg | CC BY 3.0 | Mark Stepanov
+highlights/khabarovsk-2.jpg | https://commons.wikimedia.org/wiki/File:Khabarovsk_bus_%D0%A0296%D0%92%D0%9E27_2024-08_Muravyov-Amursky_Street_Daewoo_BS106_008.jpg | CC BY 4.0 | Artyom Svetlov
+highlights/khabarovsk-3.jpg | https://commons.wikimedia.org/wiki/File:Khabarovsk_Transfiguration_Cathedral_2015-08_1440787253.jpg | CC BY 2.0 | Raita Futo from Tokyo, Japan
+highlights/khabarovsk-4.jpg | https://commons.wikimedia.org/wiki/File:Art_museum_Khabarovsk.jpg | CC BY 3.0 | Сергей Кисляков
+cities/irkutsk.jpg | https://commons.wikimedia.org/wiki/File:Zach%C3%B3d_s%C5%82o%C5%84ca_na_nabrze%C5%BCu_Angary_w_Irkucku_02.JPG | CC BY-SA 4.0 | Marcin Konsek
+highlights/irkutsk-1.jpg | https://commons.wikimedia.org/wiki/File:Near_Listvyanka_and_Lake_Baikal_04.JPG | CC BY-SA 4.0 | Thomas D. Fischer
+highlights/irkutsk-2.jpg | https://commons.wikimedia.org/wiki/File:130_block_of_Irkutsk_%E2%84%96_3.JPG | CC BY-SA 3.0 | Bogdanov-62
+highlights/irkutsk-3.jpg | https://commons.wikimedia.org/wiki/File:Talzy_2.JPG | CC BY 3.0 | Octagon
+landmarks/landmark-by.jpg | https://commons.wikimedia.org/wiki/File:Belarus_Mir_Mir_Castle_Complex_8101_2085.jpg | CC BY-SA 4.0 | Alexxx1979
+cities/minsk.jpg | https://commons.wikimedia.org/wiki/File:Belarus-Minsk-City_Hall-1.jpg | CC BY-SA 3.0 | Hanna Zelenko
+highlights/minsk-1.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saints_Simon_and_Helena_on_Independence_Square,_Minsk.jpg | CC BY-SA 4.0 | Wowan1978
+highlights/minsk-2.jpg | https://commons.wikimedia.org/wiki/File:Trajeckaje_pradmiescie_(Minsk,_February_2020)_p10.jpg | CC BY-SA 3.0 | Homoatrox
+highlights/minsk-3.jpg | https://commons.wikimedia.org/wiki/File:Island_of_Tears.jpg | CC BY 2.0 | Rob from United Kingdom
+highlights/minsk-4.jpg | https://commons.wikimedia.org/wiki/File:5_50_64_2f_-_Belarus_National_Library,_Minsk_2009_(3901618837).jpg | CC BY 2.0 | EuroAsia Vizion from New York
+cities/mir.jpg | https://commons.wikimedia.org/wiki/File:Mir_Castle_2023-07-02_5840.jpg | CC BY-SA 3.0 | Mike1979 Russia
+highlights/mir-1.jpg | https://commons.wikimedia.org/wiki/File:Belarus_Mir_Mir_Castle_Complex_8101_2085.jpg | CC BY-SA 4.0 | Alexxx1979
+cities/nesvizh.jpg | https://commons.wikimedia.org/wiki/File:Niasvi%C5%BE_Town_Hall_2023-07-03_6301.jpg | CC BY-SA 3.0 | Mike1979 Russia
+highlights/nesvizh-1.jpg | https://commons.wikimedia.org/wiki/File:Bartizan_in_Nesvizh_01.JPG | CC BY-SA 3.0 | Tatiana Markina
+highlights/nesvizh-2.jpg | https://commons.wikimedia.org/wiki/File:The_Church_of_Corpus_Christi_and_Castle_Tower_in_Nesvizh.jpg | CC BY-SA 4.0 | Tohaomg
+cities/grodno.jpg | https://commons.wikimedia.org/wiki/File:Belarus-Hrodna-New_and_Old_Castles-1.jpg | CC BY-SA 4.0 | Alex Zelenko
+highlights/grodno-1.jpg | https://commons.wikimedia.org/wiki/File:Grodno_Stary_Zamek_01.jpg | CC BY-SA 4.0 | Zala
+highlights/grodno-2.jpg | https://commons.wikimedia.org/wiki/File:St._Francis_Xavier_Cathedral_-_Grodno.jpg | CC BY 2.0 | tjabeljan
+highlights/grodno-3.jpg | https://commons.wikimedia.org/wiki/File:Kalozha_Church_3.jpg | CC BY-SA 4.0 | Vit Koz
+landmarks/landmark-xc.jpg | https://commons.wikimedia.org/wiki/File:Kyrenia_-_Girne_Festung_Kyrenia_02.jpg | CC BY-SA 4.0 | Zairon
+cities/north-nicosia.jpg | https://commons.wikimedia.org/wiki/File:Nicosia_Buyuk_Han_02.jpg | CC BY-SA 3.0 | User:MatthiasKabel
+highlights/north-nicosia-1.jpg | https://commons.wikimedia.org/wiki/File:Nicosia_Selimiye_Mosque_02.jpg | CC BY-SA 3.0 | User:MatthiasKabel
+highlights/north-nicosia-2.jpg | https://commons.wikimedia.org/wiki/File:B%C3%BCy%C3%BCk_Han_2016.jpg | CC BY-SA 2.0 | Mark Fischer
+highlights/north-nicosia-3.jpg | https://commons.wikimedia.org/wiki/File:Kyrenia_Gate_Nicosia_about_1958.jpg | CC BY-SA 4.0 | Don Christie
+highlights/north-nicosia-4.jpg | https://commons.wikimedia.org/wiki/File:Crossing_Point_border_Nicosia_(41914067370).jpg | CC BY 2.0 | dronepicr
+cities/kyrenia.jpg | https://commons.wikimedia.org/wiki/File:Harbour,_Kyrenia,_Northern_Cyprus_07.jpg | CC BY-SA 4.0 | Michal Klajban
+highlights/kyrenia-1.jpg | https://commons.wikimedia.org/wiki/File:Harbour,_Kyrenia,_Northern_Cyprus_07.jpg | CC BY-SA 4.0 | Michal Klajban
+highlights/kyrenia-2.jpg | https://commons.wikimedia.org/wiki/File:Kyrenia_Fortress_2.JPG | CC BY-SA 3.0 | Julian Nyča
+highlights/kyrenia-3.jpg | https://commons.wikimedia.org/wiki/File:2016_Bellapais_Monastery_(1)_Abbey_church.jpg | CC BY-SA 4.0 | Chris06
+highlights/kyrenia-4.jpg | https://commons.wikimedia.org/wiki/File:Kyrenia_-_Girne_Burg_St._Hilarion_1.jpg | CC BY-SA 4.0 | Zairon
+cities/famagusta.jpg | https://commons.wikimedia.org/wiki/File:Lala_Mustafa_Pasha_Mosque_(Saint_Nicholas_Cathedral,_Famagusta)_(10).JPG | CC BY-SA 4.0 | Chris06
+highlights/famagusta-1.jpg | https://commons.wikimedia.org/wiki/File:Lala_Mustafa_Pasha_Mosque_(Saint_Nicholas_Cathedral,_Famagusta)_(10).JPG | CC BY-SA 4.0 | Chris06
+highlights/famagusta-2.jpg | https://commons.wikimedia.org/wiki/File:Othello_Castle,_Famagusta_(01).jpg | CC BY-SA 4.0 | Chris06
+highlights/famagusta-3.jpg | https://commons.wikimedia.org/wiki/File:The_Gymnasium_with_its_columned_palaestra,_built_over_the_ruins_of_an_ealier_Hellenistic_gymnasium_in_the_2nd_century_AD_during_Trajan_and_Hadrian%27s_reign_after_Salamis_had_been_greatly_damaged_in_116_AD_during_Jewish_revolt.jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
+highlights/famagusta-4.jpg | https://commons.wikimedia.org/wiki/File:Famagusta_view_from_city_wall.jpg | CC BY-SA 4.0 | Blcksprt

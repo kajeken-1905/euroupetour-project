@@ -1,8 +1,8 @@
 /**
  * Maps this app's `Country.id` to the numeric ISO 3166-1 country code used
  * as the feature `id` in `world-atlas`'s TopoJSON (countries-50m.json).
- * Kosovo ('xk') has no ISO numeric code — matched separately by name in
- * EuropeMap.tsx via KOSOVO_NAME.
+ * Kosovo ('xk') and Northern Cyprus ('xc') have no ISO numeric code — matched
+ * by feature name instead, via NAME_MATCHED.
  */
 export const countryIsoMap: Record<string, string> = {
   fr: '250',
@@ -56,15 +56,18 @@ export const countryIsoMap: Record<string, string> = {
   im: '833',
   je: '832',
   gg: '831',
+  fo: '234',
+  gl: '304',
+  ru: '643',
+  by: '112',
 }
 
-/** world-atlas has no ISO id for Kosovo; its TopoJSON feature is matched by this name instead. */
-export const KOSOVO_NAME = 'Kosovo'
-export const KOSOVO_COUNTRY_ID = 'xk'
+/** world-atlas features with no ISO id, matched by their `name` property instead: name → app country id. */
+export const NAME_MATCHED: Record<string, string> = { Kosovo: 'xk', 'N. Cyprus': 'xc' }
 
 /**
  * Countries whose true polygon renders as only a few pixels at this map's
  * default zoom — shown as a labeled dot marker instead of a fill so they
  * stay tappable. Confirmed by visual inspection of the rendered map.
  */
-export const MICRO_STATE_IDS = new Set(['va', 'mc', 'sm', 'li', 'ad', 'gi', 'je', 'gg'])
+export const MICRO_STATE_IDS = new Set(['va', 'mc', 'sm', 'li', 'ad', 'gi', 'je', 'gg', 'fo'])

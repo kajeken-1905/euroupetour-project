@@ -13,3 +13,8 @@ Two edits on each file's root <svg>:
 - im.svg — File:Flag_of_the_Isle_of_Man.svg (CC0), added 2026-10-26
 - je.svg — File:Flag_of_Jersey.svg (public domain), added 2026-10-26
 - gg.svg — File:Flag_of_Guernsey.svg (CC0), added 2026-10-26
+- fo.svg — File:Flag_of_the_Faroe_Islands.svg (public domain), added 2026-10-26
+- gl.svg — File:Flag_of_Greenland.svg (public domain), added 2026-10-26
+- ru.svg — File:Flag_of_Russia.svg (public domain), added 2026-10-26
+- by.svg — File:Flag_of_Belarus.svg (public domain), added 2026-10-26
+- xc.svg — File:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg (public domain), added 2026-10-26

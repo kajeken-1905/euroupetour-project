@@ -66,6 +66,30 @@ export const countryStamps: Record<string, StampIcon> = {
 <path d="M72,84 L72,36 L108,36 L108,84 Z" fill="#8a8a8a"/>
 <path d="M68,36 L68,28 L76,28 L76,36 M86,36 L86,28 L94,28 L94,36 M104,36 L104,28 L112,28 L112,36" fill="#8a8a8a" stroke="#8a8a8a" stroke-width="2"/>
 <rect x="86" y="50" width="8" height="14" fill="#c9c9c9"/>` },
+  // Hand-drawn: Múlafossur falling from the cliff into the sea (fo); an iceberg on the water (gl).
+  fo: { kind: 'svg', width: 200, height: 130, markup: `<path d="M0,130 L0,40 L40,30 L80,36 L110,50 L110,130 Z" fill="#8a8a8a"/>
+<path d="M34,32 L50,22 L62,28 L54,34 Z" fill="#a3a3a3"/>
+<rect x="104" y="50" width="8" height="66" fill="#c9c9c9"/>
+<path d="M96,116 Q108,106 120,116 L200,116 L200,130 L96,130 Z" fill="#a3a3a3"/>` },
+  gl: { kind: 'svg', width: 200, height: 130, markup: `<path d="M30,96 L58,40 L78,54 L98,14 L124,46 L140,36 L172,96 Z" fill="#8a8a8a"/>
+<path d="M98,14 L106,60 L92,96 L72,96 L84,60 Z" fill="#a3a3a3"/>
+<path d="M0,96 L200,96 L200,104 L0,104 Z" fill="#8a8a8a"/>
+<path d="M50,104 L150,104 L128,126 L74,126 Z" fill="#c9c9c9"/>` },
+  // Hand-drawn: St Basil's onion domes (ru), Mir Castle's towers (by), Selimiye's twin minarets (xc).
+  ru: { kind: 'svg', width: 180, height: 170, markup: `<rect x="20" y="110" width="140" height="56" fill="#8a8a8a"/>
+<path d="M90,20 Q112,48 90,62 Q68,48 90,20 Z" fill="#8a8a8a"/><rect x="82" y="62" width="16" height="48" fill="#8a8a8a"/><line x1="90" y1="6" x2="90" y2="20" stroke="#8a8a8a" stroke-width="3"/>
+<path d="M44,56 Q62,78 44,90 Q26,78 44,56 Z" fill="#a3a3a3"/><rect x="38" y="90" width="12" height="20" fill="#a3a3a3"/>
+<path d="M136,56 Q154,78 136,90 Q118,78 136,56 Z" fill="#a3a3a3"/><rect x="130" y="90" width="12" height="20" fill="#a3a3a3"/>
+<path d="M90,126 Q98,130 98,140 L98,166 L82,166 L82,140 Q82,130 90,126 Z" fill="#c9c9c9"/>` },
+  by: { kind: 'svg', width: 190, height: 150, markup: `<rect x="40" y="70" width="110" height="76" fill="#8a8a8a"/>
+<rect x="14" y="40" width="34" height="106" fill="#8a8a8a"/><rect x="142" y="40" width="34" height="106" fill="#8a8a8a"/>
+<path d="M14,40 L31,14 L48,40 Z M142,40 L159,14 L176,40 Z" fill="#a3a3a3"/>
+<rect x="78" y="30" width="34" height="40" fill="#8a8a8a"/><path d="M78,30 L95,6 L112,30 Z" fill="#a3a3a3"/>
+<path d="M86,146 L86,116 Q95,104 104,116 L104,146 Z" fill="#c9c9c9"/>` },
+  xc: { kind: 'svg', width: 190, height: 160, markup: `<path d="M40,156 L40,84 L60,60 L72,70 L95,40 L118,70 L130,60 L150,84 L150,156 Z" fill="#8a8a8a"/>
+<rect x="14" y="20" width="12" height="136" fill="#a3a3a3"/><path d="M14,20 L20,4 L26,20 Z" fill="#a3a3a3"/>
+<rect x="164" y="20" width="12" height="136" fill="#a3a3a3"/><path d="M164,20 L170,4 L176,20 Z" fill="#a3a3a3"/>
+<path d="M82,156 L82,112 Q95,96 108,112 L108,156 Z" fill="#c9c9c9"/>` },
   // The Rock of Gibraltar in its familiar profile, drawn by hand (no reference stamp exists).
   gi: { kind: 'svg', width: 200, height: 112, markup: `<path d="M4,108 L4,100 L18,98 L30,92 L38,70 L44,40 L50,22 L58,12 L66,8 L74,12 L84,22 L98,30 L114,38 L132,48 L150,60 L168,74 L184,88 L196,100 L196,108 Z" fill="#8a8a8a"/>
 <path d="M44,40 L50,22 L58,12 L66,8 L62,30 L56,52 L48,74 L40,92 Z" fill="#a3a3a3"/>

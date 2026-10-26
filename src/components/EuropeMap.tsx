@@ -8,7 +8,7 @@ import type { Feature, FeatureCollection, Geometry, MultiPolygon, Polygon, Posit
 import worldTopology from '../data/europeTopo.json'
 import { countries } from '../data/countries'
 import { cityIndex as cities } from '../data/cityIndex'
-import { countryIsoMap, KOSOVO_NAME, KOSOVO_COUNTRY_ID, MICRO_STATE_IDS } from '../data/countryIsoMap'
+import { countryIsoMap, NAME_MATCHED, MICRO_STATE_IDS } from '../data/countryIsoMap'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { useTrip } from '../trip/store'
@@ -76,9 +76,19 @@ const MICRO_STATE_COORDS: Record<string, [number, number]> = {
   gi: [-5.3536, 36.1408],
   je: [-2.107, 49.1858],
   gg: [-2.536, 49.456],
+  fo: [-6.7741, 62.0107],
 }
 
 const isoToCountry = new Map(countries.map((c) => [countryIsoMap[c.id], c]))
+
+/** The app country a map feature belongs to: by ISO id, or by name for the few features without one. */
+function countryOfFeature(f: { id?: string | number; properties?: { name?: string } | null }) {
+  const byName = NAME_MATCHED[f.properties?.name ?? '']
+  return byName ? countries.find((c) => c.id === byName) : isoToCountry.get(String(f.id))
+}
+
+/** Where to centre a country whose mainland centroid falls off this map: Russia's sits deep in Siberia. */
+const CENTER_OVERRIDES: Record<string, [number, number]> = { ru: [42, 57] }
 
 /**
  * Some countries' MultiPolygon geometry includes distant overseas exclaves
@@ -203,10 +213,7 @@ export function EuropeMap() {
     const map = new Map<string, [number, number]>()
     for (const geoFeature of geoData.features) {
       if (insetIceland && geoFeature.id === ICELAND_ISO) continue
-      const isKosovo = geoFeature.properties?.name === KOSOVO_NAME
-      const country = isKosovo
-        ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
-        : isoToCountry.get(String(geoFeature.id))
+      const country = countryOfFeature(geoFeature)
       if (!country) continue
       // Use just the mainland ring's centroid — the raw multi-ring centroid is
       // pulled far off-continent by distant overseas territories (France's
@@ -214,7 +221,7 @@ export function EuropeMap() {
       // country's actual on-screen position.
       map.set(country.id, geoCentroid(mainlandRing(geoFeature)) as [number, number])
     }
-    for (const [id, coords] of Object.entries(MICRO_STATE_COORDS)) {
+    for (const [id, coords] of Object.entries({ ...MICRO_STATE_COORDS, ...CENTER_OVERRIDES })) {
       map.set(id, coords)
     }
     return map
@@ -225,9 +232,7 @@ export function EuropeMap() {
     return (
       geoData.features.find((f) => {
         if (insetIceland && f.id === ICELAND_ISO) return false
-        const isKosovo = f.properties?.name === KOSOVO_NAME
-        const c = isKosovo ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID) : isoToCountry.get(String(f.id))
-        return c?.id === selectedId
+        return countryOfFeature(f)?.id === selectedId
       }) ?? null
     )
   }, [geoData, selectedId, insetIceland])
@@ -392,10 +397,7 @@ export function EuropeMap() {
               geographies
                 .filter((geo) => !insetIceland || geo.id !== ICELAND_ISO)
                 .map((geo) => {
-                  const isKosovo = geo.properties?.name === KOSOVO_NAME
-                  const country = isKosovo
-                    ? countries.find((c) => c.id === KOSOVO_COUNTRY_ID)
-                    : isoToCountry.get(String(geo.id))
+                  const country = countryOfFeature(geo)
                   const isMicroState = country ? MICRO_STATE_IDS.has(country.id) : false
                   const isSelected = country ? country.id === selectedId : false
                   const isVisited = country ? visitedCountryIds.has(country.id) : false

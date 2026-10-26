@@ -6,8 +6,8 @@ export const ui = {
     en: 'My Vacation Plan',
   },
   appSubtitle: {
-    ko: '48개국 유명 도시의 맛집·쇼핑 가이드',
-    en: 'Food & shopping guide across 48 countries’ top cities',
+    ko: '57개국 유명 도시의 맛집·쇼핑 가이드',
+    en: 'Food & shopping guide across 57 countries’ top cities',
   },
   checklistSubtitle: {
     ko: '내 여행 경로와 일정, 즐겨찾기를 한곳에서',
@@ -68,8 +68,8 @@ export const ui = {
   countries: { ko: '국가', en: 'Countries' },
   map: { ko: '지도', en: 'Map' },
   mapSubtitle: {
-    ko: '가이드가 완성된 48개국을 지도에서 한눈에 확인하세요.',
-    en: 'See all 48 guide-complete countries at a glance.',
+    ko: '가이드가 완성된 57개국을 지도에서 한눈에 확인하세요.',
+    en: 'See all 57 guide-complete countries at a glance.',
   },
   mapTapAgainHint: {
     ko: '한번 더 클릭하면, 국가 설명으로 넘어갑니다',

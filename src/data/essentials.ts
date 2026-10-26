@@ -47,9 +47,34 @@ const EMB: Record<string, Embassy> = {
   ge: { name: T('주조지아 대한민국 대사관', 'Korean Embassy in Georgia'), address: '64b I. Chavchavadze Avenue, Tbilisi 0162', phone: '+995-32-297-0320', source: site('ge') },
   az: { name: T('주아제르바이잔 대한민국 대사관', 'Korean Embassy in Azerbaijan'), address: 'ISR Plaza 14th floor, 69 Nizami Street, Baku AZ1005', phone: '+994-12-498-3950', source: site('az') },
   ua: { name: T('주우크라이나 대한민국 대사관', 'Korean Embassy in Ukraine'), address: 'Striletska St. 12, Kyiv 01054', phone: '+380-44-279-6424', afterHours: '+380-95-119-0404', source: site('ua') },
-  ru: { name: T('주러시아 대한민국 대사관', 'Korean Embassy in Russia'), address: 'Plyushchikha St. 56 bldg 1, Moscow', phone: '+7-495-783-2727', source: site('ru') },
+  // Consulates and their 24-hour numbers from the 0404.go.kr Russia page (2026-10).
+  ru: {
+    name: T('주러시아 대한민국 대사관', 'Korean Embassy in Russia'),
+    address: 'Plyushchikha St. 56 bldg 1, Moscow',
+    phone: '+7-495-783-2727',
+    afterHours: '+7-495-783-2727',
+    note: T(
+      '총영사관: 블라디보스토크 +7-423-240-2222(긴급 +7-914-072-8347), 상트페테르부르크 +7-812-448-1909(긴급 +7-905-255-5496), 이르쿠츠크 +7-3952-250-301(긴급 +7-964-650-9403)',
+      'Consulates General: Vladivostok +7-423-240-2222 (emergency +7-914-072-8347), St Petersburg +7-812-448-1909 (emergency +7-905-255-5496), Irkutsk +7-3952-250-301 (emergency +7-964-650-9403)',
+    ),
+    source: site('ru'),
+  },
+  by: { name: T('주벨라루스 대한민국 대사관', 'Korean Embassy in Belarus'), address: 'Storozhovskaya str. 10, 220002 Minsk', phone: '+375-17-215-0170', source: site('by') },
 }
 
+/** Self-governing parts of the Danish realm: the Korean Foreign Ministry lists no mission of their own. */
+const REALM_EMBASSY = (ko: string, en: string): Embassy => ({
+  ...EMB.dk,
+  note: T(
+    `외교부 누리집에 ${ko} 관할 공관이 따로 나와 있지 않습니다. 덴마크 왕국의 자치령이라 주덴마크 대사관이나 영사콜센터(+82-2-3210-0404)에 연락하세요.`,
+    `The Korean Foreign Ministry lists no mission for ${en}. As part of the Danish realm, contact the Korean Embassy in Denmark or the consular call centre (+82-2-3210-0404).`,
+  ),
+})
+const ENTRY_REALM = (ko: string, en: string) =>
+  T(
+    `솅겐 지역이 아니어서 솅겐 비자로는 들어갈 수 없지만, 덴마크에 비자 없이 갈 수 있는 한국 여권은 ${ko}도 비자 없이 들어갈 수 있습니다. 머문 날수는 솅겐 지역과 합쳐 180일 중 90일까지입니다. 신분증이 아닌 여권이 필요합니다.`,
+    `Not in the Schengen area, so a Schengen visa does not cover it, but Korean passports—visa-free for Denmark—are visa-free for ${en} too. Days count together with the Schengen area: 90 in any 180. A passport is required, not an ID card.`,
+  )
 /** British Crown Dependencies: the Korean Foreign Ministry lists no mission of their own. */
 const CROWN_EMBASSY = (ko: string, en: string): Embassy => ({
   ...EMB.uk,
@@ -388,6 +413,33 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     safety: T('매우 안전합니다. 코펜하겐 중앙역·스트뢰에 거리에서는 소매치기를 조심하고, 자전거 도로를 걷지 마세요.', 'Very safe. Watch for pickpockets at Copenhagen Central and on Strøget, and stay out of the cycle lanes.'),
     entry: ENTRY_SCHENGEN,
     telecom: telEU('TDC, Telenor, Telia, 3'),
+  },
+  // Faroe Islands and Greenland: outside Schengen and the EU; visa-free for anyone visa-free for Denmark.
+  fo: {
+    emergency: [E112],
+    embassy: REALM_EMBASSY('페로 제도', 'the Faroe Islands'),
+    power: POWER_K,
+    tipping: T('봉사료가 포함돼 있어 팁은 필요 없습니다.', 'Service is included; no tip is needed.'),
+    water: WATER_OK,
+    shops: T('물가가 덴마크 수준으로 비쌉니다. 덴마크 크로네를 그대로 쓸 수 있고 카드 결제가 널리 됩니다.', 'Prices are as high as in Denmark. Danish kroner are used interchangeably and cards are widely accepted.'),
+    toilets: TOILETS_FREE,
+    time: TIME_WET,
+    safety: T('범죄는 드뭅니다. 날씨와 안개가 빠르게 바뀌니 산행 전에 예보를 확인하세요. 트레일라니판·미키네스 등 여러 산책로는 사유지라 이용료를 내야 합니다.', 'Crime is rare. Weather and fog change fast, so check the forecast before hiking. Many trails, such as Trælanípan and Mykines, cross private land and charge a fee.'),
+    entry: ENTRY_REALM('페로 제도', 'the Faroe Islands'),
+    telecom: telNonEU('Føroya Tele, Hey', 'EU 회원국이 아니라 EU 로밍에 포함되지 않으니', 'It is outside EU roaming, so'),
+  },
+  gl: {
+    emergency: [E112],
+    embassy: REALM_EMBASSY('그린란드', 'Greenland'),
+    power: POWER_K,
+    tipping: T('봉사료가 포함돼 있어 팁은 필요 없습니다.', 'Service is included; no tip is needed.'),
+    water: WATER_OK,
+    shops: T('물자를 배로 들여와 물가가 덴마크보다도 비쌉니다. 작은 마을에는 가게가 한두 곳뿐이고 카드가 안 되는 곳도 있습니다.', 'Goods arrive by ship, so prices beat even Denmark\'s. Small settlements may have only one or two shops, and some do not take cards.'),
+    toilets: T('도시 밖에는 화장실이 거의 없습니다. 투어 출발 전에 미리 다녀오세요.', 'Outside towns there are hardly any toilets; go before tours set off.'),
+    time: T('서그린란드 시간(UTC−2, 서머타임 UTC−1). 한국보다 11시간(서머타임 때는 10시간) 늦습니다.', 'West Greenland Time (UTC−2, UTC−1 in summer): 11 hours behind Korea (10 in summer).'),
+    safety: T('범죄는 드뭅니다. 도시 사이에 도로가 없어 비행기나 배로 이동하고, 날씨 때문에 편이 자주 늦어지거나 취소되니 일정에 여유를 두세요. 빙하와 빙상은 투어로만 가세요.', 'Crime is rare. No roads link the towns, so you fly or sail, and weather often delays or cancels services—leave slack in your plans. Visit glaciers and the ice sheet only with a tour.'),
+    entry: ENTRY_REALM('그린란드', 'Greenland'),
+    telecom: T('통신사는 Tusass 한 곳뿐이고 EU 로밍에 포함되지 않아 로밍 요금이 매우 비쌉니다. 도시 밖에서는 신호가 없는 곳이 많습니다.', 'Tusass is the only operator and Greenland is outside EU roaming, so roaming is very expensive. Much of the country outside towns has no signal.'),
   },
   se: {
     emergency: [E112],
@@ -810,6 +862,52 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     safety: T('전쟁 중인 나라입니다. 한국 정부는 우크라이나 전 지역을 여행금지(여권 사용 제한) 지역으로 지정했고, 외교부 허가 없이 방문하면 여권법에 따라 처벌받습니다. 미사일·드론 공격과 야간 통행금지가 계속되고 있습니다.', 'The country is at war. The Korean government has designated all of Ukraine a travel-ban area (passport use restricted); visiting without permission from the Foreign Ministry is punishable under the Passport Act. Missile and drone attacks and night curfews continue.'),
     entry: T('한국 국민은 외교부의 예외적 여권 사용 허가를 받아야만 방문할 수 있습니다. 민항기가 운항하지 않아 폴란드 등 이웃 나라에서 육로로만 입국할 수 있습니다.', 'Korean nationals may visit only with special permission from the Foreign Ministry. There are no civil flights, so entry is overland from neighbours such as Poland.'),
     telecom: T('주요 통신사는 Kyivstar, Vodafone, lifecell입니다. 2026년 1월부터 EU 로밍 구역에 포함돼 EU 통신사 유심을 추가 요금 없이 쓸 수 있습니다.', 'Main operators: Kyivstar, Vodafone, lifecell. Ukraine joined the EU roaming area in January 2026, so EU SIMs work at no extra charge.'),
+  },
+  ru: {
+    emergency: [E112, num('101', '소방', 'Fire'), num('102', '경찰', 'Police'), num('103', '구급', 'Ambulance')],
+    embassy: EMB.ru,
+    power: POWER_CF,
+    tipping: TIP_CHECK_BILL,
+    water: WATER_BOTTLED,
+    shops: T('한국 등 러시아 밖에서 발급한 비자·마스터 카드는 쓸 수 없습니다(주러시아 대사관 안내). 달러·유로·위안화 현금을 가져가 은행이나 공식 환전소에서 바꾸고, SNS로 연락해 오는 개인 환전은 사기가 많으니 피하세요.', 'Visa and Mastercard cards issued outside Russia, including Korean ones, do not work (Korean Embassy advice). Bring dollars, euros or yuan in cash and change them at banks or official exchange offices; avoid private exchanges offered over social media, which are often scams.'),
+    toilets: TOILETS_MIXED,
+    time: T('지역마다 다릅니다. 모스크바·상트페테르부르크·카잔·수즈달은 UTC+3(한국보다 6시간 늦음), 이르쿠츠크는 UTC+8(1시간 늦음), 블라디보스토크·하바롭스크는 UTC+10(1시간 빠름)이며 서머타임은 없습니다.', 'It varies by region: Moscow, St Petersburg, Kazan and Suzdal are UTC+3 (6 hours behind Korea), Irkutsk UTC+8 (1 hour behind), Vladivostok and Khabarovsk UTC+10 (1 hour ahead). There is no daylight saving.'),
+    safety: T('드론·철도·군사 시설 같은 전략 시설은 사진을 찍거나 휴대전화에 저장하지 마세요. 실제로 관련 사진 때문에 한국인이 몇 시간씩 조사를 받은 일이 있습니다. 사람이 많이 모이는 곳에서는 신변 안전에 유의하세요.', 'Do not photograph strategic sites such as drones, railways and military facilities, or keep such pictures on your phone; Koreans have been held for hours over them. Take care in crowded places.'),
+    entry: T('한러 사증면제협정에 따라 한 번에 60일, 180일 중 90일까지 비자 없이 머물 수 있습니다. 입국 때 받는 출입국카드는 호텔과 출국 때 필요하니 잃어버리지 마세요. 입국 뒤 근무일 7일 안에 거주 등록을 해야 하며 호텔이 대신해 줍니다. 한국과의 직항편은 없고, 동해항에서 블라디보스토크로 가는 배가 있습니다.', 'Under the Korea–Russia visa waiver you can stay 60 days at a time and 90 days in any 180. Keep the migration card you receive on arrival—hotels and exit control need it. Registration is required within 7 working days, which hotels handle. There are no direct flights from Korea; a ferry runs from Donghae to Vladivostok.'),
+    telecom: T('주요 통신사는 MTS, MegaFon, Beeline, T2입니다. 한국 통신사 로밍이 안 되거나 제한될 수 있으니 출발 전에 통신사에 확인하세요.', 'Main operators: MTS, MegaFon, Beeline, T2. Korean roaming may be unavailable or limited, so check with your carrier before you go.'),
+  },
+  by: {
+    emergency: [num('101', '소방', 'Fire'), num('102', '경찰', 'Police'), num('103', '구급', 'Ambulance')],
+    embassy: EMB.by,
+    power: POWER_CF,
+    tipping: TIP_CHECK_BILL,
+    water: WATER_BOTTLED,
+    shops: T('돈은 은행이나 공식 환전소에서 바꾸세요.', 'Change money at banks or official exchange offices.'),
+    toilets: TOILETS_MIXED,
+    time: T('UTC+3, 서머타임 없음. 한국보다 6시간 늦습니다.', 'UTC+3 with no daylight saving: 6 hours behind Korea.'),
+    safety: T('외교부 3단계(출국권고) 지역입니다. 정부 건물과 군사 시설은 사진을 찍지 말고, 시위나 모임이 있는 곳은 피하세요.', 'Under a Korean level-3 alert. Do not photograph government buildings or military sites, and keep away from protests and gatherings.'),
+    entry: T('한국 일반 여권은 한 번에 30일, 1년에 90일까지 비자 없이 머물 수 있습니다. 다만 러시아가 아닌 제3국에서 민스크 국제공항으로 들어오고 나가야 하며, 육로나 러시아발 항공편으로는 무비자 입국이 안 됩니다(외교부 해외안전여행).', 'Korean passports get 30 days per visit and 90 days a year without a visa—but only flying into and out of Minsk National Airport from a third country other than Russia. Visa-free entry does not apply by land or on flights from Russia (Korean Foreign Ministry).'),
+    telecom: T('주요 통신사는 A1, MTS, life:)입니다. 한국 통신사 로밍 요금과 가능 여부를 출발 전에 확인하세요.', 'Main operators: A1, MTS and life:). Check roaming availability and rates with your carrier before you go.'),
+  },
+  // No Korean mission in the north; the Republic of Cyprus is covered from Athens.
+  xc: {
+    emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
+    embassy: {
+      ...EMB.gr,
+      note: T(
+        '북키프로스에는 한국 공관이 없어 영사 도움이 극히 제한됩니다. 키프로스를 맡는 주그리스 대사관이나 영사콜센터(+82-2-3210-0404)에 연락하세요.',
+        'There is no Korean mission in the north and consular help is extremely limited. Contact the Korean Embassy in Greece, which covers Cyprus, or the consular call centre (+82-2-3210-0404).',
+      ),
+    },
+    power: POWER_G,
+    tipping: TIP_CHECK_BILL,
+    water: WATER_BOTTLED,
+    shops: T('튀르키예 리라를 씁니다. 남쪽에서 넘어갈 때 쓸 만큼만 바꾸세요.', 'The Turkish lira is used; change only what you need when crossing from the south.'),
+    toilets: TOILETS_MIXED,
+    time: TIME_EET,
+    safety: T('차는 좌측통행입니다. 완충지대와 군사 시설은 사진 촬영이 금지되고, 바로샤 지역은 대부분 군사 보안 구역이라 촬영하면 처벌받을 수 있습니다.', 'Traffic drives on the left. Photographing the buffer zone and military sites is forbidden; most of Varosha is a military security zone where photography can be prosecuted.'),
+    entry: T('키프로스 공화국(남쪽)의 공항이나 항구로 들어온 뒤 그린라인 검문소에서 여권을 보이고 넘어가세요. 튀르키예를 거쳐 북쪽으로 바로 들어가면 남쪽에서 불법 입국으로 보아 추방될 수 있습니다(외교부 해외안전여행).', 'Arrive through an airport or port in the Republic of Cyprus (the south), then cross a Green Line checkpoint with your passport. Entering the north directly via Türkiye counts as illegal entry for the south and can lead to deportation (Korean Foreign Ministry).'),
+    telecom: T('주요 통신사는 Turkcell, Vodafone입니다. 남쪽의 EU 유심은 북쪽에서 로밍 요금이 비싸게 나올 수 있습니다.', 'Main operators: Turkcell and Vodafone. Southern EU SIMs can run up expensive roaming charges in the north.'),
   },
   md: {
     emergency: [E112],
