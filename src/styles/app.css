@@ -337,6 +337,25 @@
   pointer-events: none;
 }
 
+.map-island-marker {
+  pointer-events: none;
+}
+
+.map-island-dot {
+  fill: var(--map-neutral);
+  stroke: var(--muted);
+  stroke-width: 0.4;
+  vector-effect: non-scaling-stroke;
+}
+
+.map-island-label {
+  font-weight: 600;
+  fill: var(--muted);
+  paint-order: stroke;
+  stroke: var(--surface);
+  stroke-linejoin: round;
+}
+
 .map-country-label-name {
   font-family: var(--font-display);
   font-size: 15px;

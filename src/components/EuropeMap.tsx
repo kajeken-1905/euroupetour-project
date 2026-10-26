@@ -79,6 +79,16 @@ const MICRO_STATE_COORDS: Record<string, [number, number]> = {
   fo: [-6.7741, 62.0107],
 }
 
+/**
+ * Korean islands named on the map. Ulleungdo and Jeju are in the 50m outlines but tiny; Dokdo is too
+ * small to be in them at all, so it is drawn as a dot (37°14′N 131°52′E, dokdo.mofa.go.kr).
+ */
+const KOREA_ISLANDS: { name: { ko: string; en: string }; at: [number, number]; dot?: boolean }[] = [
+  { name: { ko: '제주도', en: 'Jeju' }, at: [126.55, 33.38] },
+  { name: { ko: '울릉도', en: 'Ulleungdo' }, at: [130.87, 37.5] },
+  { name: { ko: '독도', en: 'Dokdo' }, at: [131.8694, 37.2406], dot: true },
+]
+
 const isoToCountry = new Map(countries.map((c) => [countryIsoMap[c.id], c]))
 
 /** The app country a map feature belongs to: by ISO id, or by name for the few features without one. */
@@ -486,6 +496,19 @@ export function EuropeMap() {
                 </Marker>
               )
             })}
+          {KOREA_ISLANDS.map((island) => (
+            <Marker key={island.name.en} coordinates={island.at} className="map-island-marker">
+              {island.dot ? <circle r={4 / zoomLevel} className="map-island-dot" /> : null}
+              <text
+                className="map-island-label"
+                textAnchor="middle"
+                y={-7 / zoomLevel}
+                style={{ fontSize: 15 / zoomLevel, strokeWidth: 3 / zoomLevel }}
+              >
+                {island.name[lang]}
+              </text>
+            </Marker>
+          ))}
           {selectedCities.map((city) => {
             const isCitySelected = city.id === selectedCityId
             return (

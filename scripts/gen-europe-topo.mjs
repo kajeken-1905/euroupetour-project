@@ -7,6 +7,8 @@ import { createRequire } from 'node:module'
 
 /** Longitude/latitude box kept: the Atlantic to Central Asia, North Africa to the Arctic. */
 const BOX = { west: -45, east: 90, south: 15, north: 90 }
+/** Kept wherever they are: South and North Korea (ISO 410, 408), drawn as home for Korean travellers. */
+const KEEP = new Set(['410', '408'])
 
 const require = createRequire(import.meta.url)
 const world = JSON.parse(readFileSync(require.resolve('world-atlas/countries-50m.json'), 'utf8'))
@@ -42,7 +44,7 @@ const inBox = (geometry) =>
     return e >= BOX.west && w <= BOX.east && n >= BOX.south && s <= BOX.north
   })
 
-const geometries = world.objects.countries.geometries.filter(inBox)
+const geometries = world.objects.countries.geometries.filter((g) => KEEP.has(g.id) || inBox(g))
 const used = [...new Set(geometries.flatMap(arcsOf))].sort((a, b) => a - b)
 const index = new Map(used.map((old, i) => [old, i]))
 const remap = (i) => (i < 0 ? ~index.get(~i) : index.get(i))
