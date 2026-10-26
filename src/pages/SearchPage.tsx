@@ -3,8 +3,10 @@ import { Link, useNavigate } from 'react-router-dom'
 import { getCityBrief } from '../data/cityIndex'
 import { getCountry } from '../data/countries'
 import { POPULAR_CITIES } from '../data/popularCities'
+import { CountryStamp } from '../components/CountryStamp'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
+import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { t } from '../i18n/ui'
 import { getCity, useCountryData } from '../data/countryData'
 import { assetUrl } from '../utils/assetUrl'
@@ -22,6 +24,7 @@ const QUERY_KEY = 'search-query'
 /** European cities in order of international visitors in 2024, each with its one-line description. */
 function PopularCities() {
   const { lang } = useLanguage()
+  const { data: visitedData } = useVisitedPlaces()
   const cities = [...POPULAR_CITIES]
     .sort((a, b) => b.millions - a.millions)
     .map((p) => ({ ...p, city: getCityBrief(p.cityId) }))
@@ -30,26 +33,41 @@ function PopularCities() {
     <section className="popular-cities" aria-label={t('popularTitle', lang)}>
       <p className="section-label">{t('popularTitle', lang)}</p>
       <ol className="popular-list">
-        {cities.map((p) => (
-          <li key={p.cityId}>
-            <Link
-              to={`/city/${p.cityId}`}
-              className="city-item popular-card"
-              style={{
-                backgroundImage: `
+        {cities.map((p) => {
+          // Same stamp as the city lists: the country's, with the latest visit's date.
+          const latestVisit = [...(visitedData.cities[p.cityId] ?? [])].sort(
+            (a, b) => b.year - a.year || b.month - a.month,
+          )[0]
+          const country = getCountry(p.city!.countryId)
+          return (
+            <li key={p.cityId}>
+              <Link
+                to={`/city/${p.cityId}`}
+                className="city-item popular-card"
+                style={{
+                  backgroundImage: `
                   linear-gradient(180deg, rgba(10, 12, 18, 0.15) 0%, rgba(10, 12, 18, 0.25) 45%, rgba(10, 12, 18, 0.82) 100%),
                   url(${assetUrl(p.city!.signatureImage)})
                 `,
-              }}
-            >
-              <span className="popular-body">
-                <strong className="popular-name">{p.city!.name[lang]}</strong>
-                <span className="popular-country">{getCountry(p.city!.countryId)?.name[lang] ?? ''}</span>
-                <span className="popular-blurb">{getCity(p.cityId)?.blurb[lang] ?? ''}</span>
-              </span>
-            </Link>
-          </li>
-        ))}
+                }}
+              >
+                {latestVisit && country ? (
+                  <CountryStamp
+                    id={country.id}
+                    nameEn={country.name.en}
+                    date={`${latestVisit.year} · ${String(latestVisit.month).padStart(2, '0')}`}
+                    className="city-item-stamp"
+                  />
+                ) : null}
+                <span className="popular-body">
+                  <strong className="popular-name">{p.city!.name[lang]}</strong>
+                  <span className="popular-country">{country?.name[lang] ?? ''}</span>
+                  <span className="popular-blurb">{getCity(p.cityId)?.blurb[lang] ?? ''}</span>
+                </span>
+              </Link>
+            </li>
+          )
+        })}
       </ol>
       <p className="itinerary-note">{t('popularNote', lang)}</p>
     </section>
