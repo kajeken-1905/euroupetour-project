@@ -159,7 +159,7 @@ export const ERA_GROUPS: EraGroup[] = [
     title: { ko: '지중해', en: 'The Mediterranean' },
     period: { ko: '해안 절벽 · 섬', en: 'Cliffs · islands' },
     note: { ko: '절벽 위 마을과 하얀 섬, 햇살 가득한 바다', en: 'Clifftop villages, white islands and sunlit sea' },
-    cityIds: ['amalfi', 'cinque-terre', 'nice', 'palma', 'santorini', 'taormina'],
+    cityIds: ['amalfi', 'cinque-terre', 'nice', 'palma', 'santorini', 'taormina', 'naples', 'monaco'],
   },
   {
     id: 'adriatic',
