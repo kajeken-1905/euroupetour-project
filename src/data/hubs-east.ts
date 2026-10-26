@@ -611,4 +611,126 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [RMO()],
     bus: [['Gara Auto Soroca', '소로카 버스터미널']],
   },
+  // —— im, je, gg (Crown Dependencies) ——
+  douglas: {
+    air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆 로널즈웨이|Ronaldsway, by Castletown']],
+    rail: [
+      ['Douglas Railway Station', '더글러스역', '증기 철도 · 캐슬타운행|steam railway to Castletown'],
+      ['Derby Castle', '더비 캐슬역', '전기 철도 · 락시·램지행|electric railway to Laxey and Ramsey'],
+    ],
+    port: [['Douglas Sea Terminal', '더글러스 여객선 터미널', '영국·아일랜드행 배|ferries to Britain and Ireland']],
+  },
+  castletown: {
+    air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)']],
+    rail: [['Castletown', '캐슬타운역', '증기 철도 · 더글러스행|steam railway to Douglas']],
+  },
+  peel: {
+    air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆|by Castletown']],
+  },
+  'st-helier': {
+    air: [['Jersey (JER)', '저지 공항 (JER)']],
+    bus: [['Liberation Station', '리버레이션 버스터미널', '섬 안 버스|island buses']],
+    port: [['Elizabeth Harbour', '엘리자베스 항구', '건지·영국·프랑스행 배|ferries to Guernsey, Britain and France']],
+  },
+  gorey: {
+    air: [['Jersey (JER)', '저지 공항 (JER)', '세인트헬리어 쪽|towards St Helier']],
+  },
+  'st-peter-port': {
+    air: [['Guernsey (GCI)', '건지 공항 (GCI)']],
+    port: [['St Peter Port Harbour', '세인트피터포트 항구', '저지·영국·프랑스·사크섬행 배|ferries to Jersey, Britain, France and Sark']],
+  },
+  sark: {
+    air: [['Guernsey (GCI)', '건지 공항 (GCI)', '사크섬엔 공항 없음 · 세인트피터포트에서 배|no airport on Sark · boat from St Peter Port']],
+  },
+  // —— fo, gl ——
+  torshavn: {
+    air: [['Vágar (FAE)', '바가르 공항 (FAE)', '바가르섬 · 해저 터널로 연결|on Vágar, linked by undersea tunnel']],
+    bus: [['Farstøðin', '파르스퇴딘 터미널', '버스·여객선 터미널|bus and ferry terminal']],
+    port: [['Tórshavn ferry terminal', '토르스하운 여객선 터미널', '덴마크·아이슬란드행 노르뇌라호|Norröna to Denmark and Iceland']],
+  },
+  vagar: {
+    air: [['Vágar (FAE)', '바가르 공항 (FAE)']],
+    port: [['Sørvágur', '쇠르바구르 선착장', '미키네스섬행 배|boat to Mykines']],
+  },
+  eysturoy: {
+    air: [['Vágar (FAE)', '바가르 공항 (FAE)', '바가르섬|on Vágar']],
+  },
+  nuuk: {
+    air: [['Nuuk (GOH)', '누크 공항 (GOH)', '그린란드엔 도시 사이 도로 없음|no roads between towns in Greenland']],
+  },
+  ilulissat: {
+    air: [['Ilulissat (JAV)', '일룰리사트 공항 (JAV)']],
+  },
+  kangerlussuaq: {
+    air: [['Kangerlussuaq (SFJ)', '캉에를루수아크 공항 (SFJ)']],
+  },
+  // —— ru ——
+  moscow: {
+    air: [
+      ['Sheremetyevo (SVO)', '셰레메티예보 공항 (SVO)'],
+      ['Vnukovo (VKO)', '브누코보 공항 (VKO)'],
+      ['Domodedovo (DME)', '도모데도보 공항 (DME)'],
+    ],
+    rail: [
+      ['Leningradsky', '레닌그라드역', '상트페테르부르크행|to St Petersburg'],
+      ['Kazansky', '카잔역', '카잔행|to Kazan'],
+      ['Yaroslavsky', '야로슬라블역', '시베리아 횡단철도 출발역|Trans-Siberian departures'],
+    ],
+  },
+  'saint-petersburg': {
+    air: [['Pulkovo (LED)', '풀코보 공항 (LED)']],
+    rail: [
+      ['Moskovsky', '모스크바역', '모스크바행|to Moscow'],
+      ['Finlyandsky', '핀란드역'],
+    ],
+  },
+  kazan: {
+    air: [['Kazan (KZN)', '카잔 공항 (KZN)']],
+    rail: [['Kazan-Passazhirskaya', '카잔 여객역']],
+  },
+  suzdal: {
+    rail: [['Vladimir', '블라디미르역', '수즈달엔 철도 없음 · 블라디미르에서 버스|no railway in Suzdal · bus from Vladimir']],
+    bus: [['Avtovokzal Suzdal', '수즈달 버스터미널']],
+  },
+  vladivostok: {
+    air: [['Vladivostok (VVO)', '블라디보스토크 공항 (VVO)', '아르툠 · 한국 직항 없음|Artyom · no direct flights from Korea']],
+    rail: [['Vladivostok', '블라디보스토크역', '시베리아 횡단철도 종착역|Trans-Siberian terminus']],
+    port: [['Vladivostok Sea Terminal', '블라디보스토크 여객선 터미널', '동해항행 배|ferry to Donghae']],
+  },
+  khabarovsk: {
+    air: [['Khabarovsk (KHV)', '하바롭스크 공항 (KHV)']],
+    rail: [['Khabarovsk-1', '하바롭스크-1역', '시베리아 횡단철도|Trans-Siberian']],
+  },
+  irkutsk: {
+    air: [['Irkutsk (IKT)', '이르쿠츠크 공항 (IKT)']],
+    rail: [['Irkutsk-Passazhirsky', '이르쿠츠크 여객역', '시베리아 횡단철도|Trans-Siberian']],
+  },
+  // —— by ——
+  minsk: {
+    air: [['Minsk National (MSQ)', '민스크 국제공항 (MSQ)', '무비자 입국은 이 공항으로만|the only visa-free entry point']],
+    rail: [['Minsk-Passazhirsky', '민스크 여객역']],
+    bus: [['Central bus station', '민스크 중앙 버스터미널']],
+  },
+  mir: {
+    air: [['Minsk National (MSQ)', '민스크 국제공항 (MSQ)', '민스크|Minsk']],
+  },
+  nesvizh: {
+    air: [['Minsk National (MSQ)', '민스크 국제공항 (MSQ)', '민스크|Minsk']],
+  },
+  grodno: {
+    air: [['Minsk National (MSQ)', '민스크 국제공항 (MSQ)', '민스크|Minsk']],
+    rail: [['Hrodna', '그로드노역']],
+  },
+  // —— xc: arrive through the south (Korean Foreign Ministry advice) ——
+  'north-nicosia': {
+    air: [
+      ['Larnaca (LCA)', '라르나카 공항 (LCA)', '남쪽 키프로스 공화국 · 외교부 권고 입국 경로|in the Republic of Cyprus · the entry route Korea advises'],
+    ],
+  },
+  kyrenia: {
+    air: [['Larnaca (LCA)', '라르나카 공항 (LCA)', '남쪽 키프로스 공화국|in the Republic of Cyprus']],
+  },
+  famagusta: {
+    air: [['Larnaca (LCA)', '라르나카 공항 (LCA)', '남쪽 키프로스 공화국|in the Republic of Cyprus']],
+  },
 }

@@ -1,6 +1,6 @@
 import type { RawItinerary } from './itinerary-helper'
 
-/** Greece, Cyprus, the Balkans, Türkiye, Bulgaria, Romania, the Caucasus, Ukraine and Moldova. */
+/** Greece, Cyprus, the Balkans, Türkiye, Bulgaria, Romania, the Caucasus, Ukraine, Moldova and Northern Cyprus. */
 export const itinerarySouth: Record<string, RawItinerary> = {
   meteora: [1, 2, 3, 4, 5],
   delphi: { days: [['', 4, 1, 3, 2]], trips: [['아라호바|Arachova', 5]] },
@@ -159,4 +159,8 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   pristina: [3, 2, 1],
   prizren: [3, 2, 1],
   peja: { days: [['', 3, 2]], trips: [['루고바 협곡|Rugova Canyon', 1]] },
+  // Northern Cyprus
+  'north-nicosia': [4, 1, 2, 3],
+  kyrenia: { days: [['', 1, 2]], trips: [['산 위 수도원과 성|Abbey and castle in the hills', 3, 4]] },
+  famagusta: { days: [['', 4, 1, 2]], trips: [['살라미스|Salamis', 3]] },
 }

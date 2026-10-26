@@ -189,4 +189,17 @@ export const visitMed: Record<string, HighlightVisit> = {
   'klaipeda-h3': v(360, 480, { s: 'https://nerija.lrv.lt/en/', n: '클라이페다에서 페리로 건너가며 차로 들어가면 국립공원 통행료를 냅니다.|Reached by ferry from Klaipėda; cars pay a national park toll.' }),
   'klaipeda-h4': v(90, 120),
   'klaipeda-h5': v(20, 30),
+  // —— xc ——
+  'north-nicosia-h1': v(30, 30, { n: '모스크라 예배 시간에는 들어갈 수 없고, 어깨와 무릎을 가려야 합니다.|A working mosque: no visits during prayers; cover shoulders and knees.' }),
+  'north-nicosia-h2': v(30, 45),
+  'north-nicosia-h3': v(10, 15),
+  'north-nicosia-h4': v(15, 20, { n: '여권이 필요합니다.|Bring your passport.' }),
+  'kyrenia-h1': v(45, 60),
+  'kyrenia-h2': v(60, 90),
+  'kyrenia-h3': v(45, 60),
+  'kyrenia-h4': v(90, 120, { n: '산길과 계단이 가파르니 편한 신발을 신으세요.|Steep paths and steps—wear sturdy shoes.' }),
+  'famagusta-h1': v(30, 45),
+  'famagusta-h2': v(30, 45),
+  'famagusta-h3': v(90, 120),
+  'famagusta-h4': v(60, 90),
 }

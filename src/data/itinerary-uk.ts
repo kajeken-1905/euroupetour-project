@@ -1,6 +1,6 @@
 import type { RawItinerary } from './itinerary-helper'
 
-/** United Kingdom and Ireland. */
+/** United Kingdom, Ireland and the Crown Dependencies. */
 export const itineraryUk: Record<string, RawItinerary> = {
   london: {
     days: [
@@ -86,4 +86,12 @@ export const itineraryUk: Record<string, RawItinerary> = {
   killarney: { days: [['킬라니 국립공원|Killarney National Park', 3, 2, 5, 1]], trips: [['링 오브 케리|Ring of Kerry', 4]] },
   kilkenny: [1, 5, 2, 3],
   limerick: [4, 3, 1, 2, 5],
+  // Crown Dependencies
+  douglas: { days: [['', 2, 3, 1]], trips: [['락시와 스나펠|Laxey & Snaefell', 4, 5]] },
+  castletown: [1, 2, 3],
+  peel: [1, 2],
+  'st-helier': { days: [['', 1, 4, 3]], trips: [['섬 안쪽|Inland', 2, 5]] },
+  gorey: [1, 2, 3],
+  'st-peter-port': { days: [['', 1, 4, 2]], trips: [['섬 남쪽|South of the island', 3, 5]] },
+  sark: [1, 2],
 }

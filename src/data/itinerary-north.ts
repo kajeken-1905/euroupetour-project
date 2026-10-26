@@ -1,6 +1,6 @@
 import type { RawItinerary } from './itinerary-helper'
 
-/** Nordics, Baltics, Poland, Czechia, Slovakia and Hungary. */
+/** Nordics, Baltics, Poland, Czechia, Slovakia, Hungary, the Faroes, Greenland, Russia and Belarus. */
 export const itineraryNorth: Record<string, RawItinerary> = {
   oslo: [2, 6, 4, 1, 3],
   bergen: {
@@ -100,4 +100,33 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   vilnius: [5, 1, 3, 2, 4],
   kaunas: { days: [['', 3, 1, 2, 5]], trips: [['제9요새|Ninth Fort', 4]] },
   klaipeda: { days: [['', 2, 1, 5]], trips: [['쿠로니아 사주|Curonian Spit', 4, 3]] },
+  // Faroe Islands, Greenland, Russia and Belarus
+  torshavn: { days: [['', 1, 2, 3]], trips: [['키르큐보우르|Kirkjubøur', 4]] },
+  vagar: { days: [['', 1, 2]], trips: [['미키네스섬|Mykines', 3]] },
+  eysturoy: [2, 3, 1],
+  nuuk: { days: [['', 3, 1, 2]], trips: [['피오르 보트 투어|Fjord boat tour', 4]] },
+  ilulissat: { days: [['', 3, 2, 1]], trips: [['에키 빙하 보트|Eqi Glacier by boat', 4]] },
+  kangerlussuaq: { days: [['', 1, 3]], trips: [['빙상 투어|Ice sheet tour', 2]] },
+  moscow: {
+    days: [
+      ['붉은 광장과 크렘린|Red Square & the Kremlin', 2, 1, 4],
+      ['미술관과 지하철|Gallery & metro', 3, 5],
+    ],
+  },
+  'saint-petersburg': {
+    days: [
+      ['궁전 광장 주변|Around Palace Square', 1, 3, 5],
+      ['요새|The fortress', 4],
+    ],
+    trips: [['페테르고프|Peterhof', 2]],
+  },
+  kazan: { days: [['', 1, 2]], trips: [['모든 종교의 사원|Temple of All Religions', 3]] },
+  suzdal: [1, 2, 3],
+  vladivostok: { days: [['', 2, 1, 4, 3]], trips: [['루스키섬|Russky Island', 5]] },
+  khabarovsk: [3, 1, 2, 4],
+  irkutsk: { days: [['', 2]], trips: [['바이칼 호수|Lake Baikal', 3, 1]] },
+  minsk: [1, 2, 3, 4],
+  mir: [1],
+  nesvizh: [1, 2],
+  grodno: [2, 1, 3],
 }
