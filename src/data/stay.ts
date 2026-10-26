@@ -1538,6 +1538,78 @@ export const STAY: Record<string, StayArea[]> = {
   peja: [
     a('시내 중심', 'Town centre', 'Peja city centre', '거점|Base', '강과 산이 보이는 시내 중심에 숙소가 모여 있습니다. 루고바 협곡·데차니 수도원은 차나 택시로 다녀옵니다.|Hotels gather in the centre by the river and mountains; Rugova Canyon and Dečani Monastery need a car or taxi.'),
   ],
+  douglas: [
+    a('해안 산책로 (로크·센트럴 프롬나드)', 'The Promenade (Loch & Central)', 'Loch Promenade, Douglas', '바다 전망·여객선 터미널 가까움|Sea views, near the ferry', '호텔 대부분이 이 해안 길에 모여 있고 말 트램이 앞을 지납니다.|Most hotels line this seafront, with the horse tram passing outside.'),
+  ],
+  castletown: [
+    a('더글러스에서 다녀오기', 'Base in Douglas', 'Douglas, Isle of Man', '당일치기|Day trip', '증기 철도로 약 35분이라 대부분 더글러스에 묵고 다녀옵니다.|About 35 minutes by steam train, so most visitors stay in Douglas.'),
+  ],
+  peel: [
+    a('필 마을', 'Peel town', 'Peel, Isle of Man', '해변·일몰|Beach and sunsets', '항구 근처에 작은 B&B와 호텔이 있습니다.|Small B&Bs and hotels near the marina.'),
+    a('더글러스에서 다녀오기', 'Base in Douglas', 'Douglas, Isle of Man', '숙소 선택이 많음|More choice', '버스로 약 40분이라 당일로 다녀올 수 있습니다.|About 40 minutes by bus, easy as a day trip.'),
+  ],
+  'st-helier': [
+    a('세인트헬리어 시내', 'St Helier town', 'St Helier, Jersey', '선택지·교통|Choice and transport', '숙소가 가장 많고 버스가 모두 여기서 출발합니다. 섬에서 가장 붐비고 시끄럽습니다.|The most places to stay and the hub for every bus; the busiest and noisiest part of the island.'),
+    a('세인트오뱅', 'St Aubin', 'St Aubin, Jersey', '항구 마을 분위기·해산물|Harbour village, seafood', '만 건너편의 작은 항구 마을로 카페와 식당이 많습니다.|Little harbour across the bay with cafés and restaurants.'),
+    a('세인트브렐라드 만', 'St Brelade’s Bay', 'St Brelade’s Bay, Jersey', '해변|Beach', '섬에서 손꼽히는 해변 앞 숙소들입니다.|Hotels on one of the island’s best beaches.'),
+  ],
+  gorey: [
+    a('고리 항구', 'Gorey Harbour', 'Gorey Pier, Jersey', '성 아래 항구 전망|Harbour views below the castle', '부두를 따라 작은 호텔이 있고 세인트헬리어행 버스가 자주 다닙니다.|Small hotels along the pier, with frequent buses to St Helier.'),
+  ],
+  'st-peter-port': [
+    a('세인트피터포트 시내', 'St Peter Port town', 'St Peter Port, Guernsey', '처음 가는 여행자|First visit', '항구·상점·코넷 성이 가깝고 버스와 배가 모두 여기서 출발합니다. 언덕이 가파릅니다.|Near the harbour, shops and Castle Cornet, and the hub for buses and boats; the streets are steep.'),
+  ],
+  sark: [
+    a('섬 안에서 묵기', 'Stay on Sark', 'Sark', '별빛·고요함|Dark skies and quiet', '숙소가 적어 7~8월에는 일찍 예약해야 합니다.|Few rooms, so book early for July and August.'),
+    a('건지에서 다녀오기', 'Base in Guernsey', 'St Peter Port, Guernsey', '당일치기|Day trip', '세인트피터포트에서 배로 35~55분입니다.|35–55 minutes by boat from St Peter Port.'),
+  ],
+  torshavn: [
+    a('토르스하운 시내', 'Central Tórshavn', 'Tórshavn', '거점·식당|Base and restaurants', '식당과 숙소가 가장 많아 섬 곳곳을 다니는 거점으로 좋습니다. 숙소가 적으니 일찍 예약하세요.|The most restaurants and beds, a good base for the islands; book early as rooms are scarce.'),
+  ],
+  vagar: [
+    a('쇠르바구르', 'Sørvágur', 'Sørvágur', '공항 가까움|Near the airport', '공항에서 걸어갈 수 있어 이른 비행기나 늦은 도착에 편합니다.|Walking distance from the airport, handy for early or late flights.'),
+  ],
+  eysturoy: [
+    a('고르브', 'Gjógv', 'Gjógv', '산행·조용한 마을|Hiking, a quiet village', '산행 거점으로 좋지만 토르스하운과 공항에서 차로 약 1시간 걸립니다.|A good hiking base, but about an hour’s drive from Tórshavn and the airport.'),
+    a('토르스하운에서 다녀오기', 'Base in Tórshavn', 'Tórshavn', '식당·편의|Dining and convenience', '해저 터널로 이어져 차로 당일에 다녀올 수 있습니다.|Linked by undersea tunnel, easy as a day trip by car.'),
+  ],
+  nuuk: [
+    a('누크 시내', 'Central Nuuk', 'Nuuk centre', '처음 가는 여행자|First visit', '국립 박물관과 옛 항구가 가깝습니다. 와이파이가 비싼 곳이 많습니다.|Close to the National Museum and the old harbour; Wi-Fi is often expensive.'),
+  ],
+  ilulissat: [
+    a('일룰리사트 시내', 'Ilulissat town', 'Ilulissat', '빙산 전망|Iceberg views', '빙하 피오르 쪽을 바라보는 호텔이 많습니다. 성수기에는 일찍 예약하세요.|Many hotels look out over the icefjord; book early in high season.'),
+  ],
+  kangerlussuaq: [
+    a('공항 주변', 'By the airport', 'Kangerlussuaq', '빙상 투어 출발지|Base for ice sheet tours', '마을이 공항 주변에 모여 있고 투어가 여기서 출발합니다. 여름에만 여는 곳이 있습니다.|The settlement clusters round the airport where tours leave; some places open only in summer.'),
+  ],
+  moscow: [
+    a('키타이고로드', 'Kitay-Gorod', 'Kitay-Gorod, Moscow', '처음 가는 여행자|First visit', '붉은 광장과 크렘린 바로 옆이지만 가장 비쌉니다.|Right by Red Square and the Kremlin, but the priciest area.'),
+    a('트베르스코이', 'Tverskoy', 'Tverskoy District, Moscow', '활기·식당|Lively, restaurants', '키타이고로드 북쪽의 번화가로 조금 덜 비쌉니다.|The busy, trendy area north of Kitay-Gorod, a little cheaper.'),
+    a('아르바트', 'Arbat', 'Arbat, Moscow', '보행자 거리·쇼핑|Pedestrian street, shopping', '크렘린 서쪽, 상점과 식당이 많은 보행자 거리 주변입니다.|West of the Kremlin around the pedestrian street of shops and restaurants.'),
+  ],
+  'saint-petersburg': [
+    a('중앙구 (넵스키 대로)', 'Tsentralny (Nevsky Prospekt)', 'Nevsky Prospekt, Saint Petersburg', '처음 가는 여행자|First visit', '에르미타주와 넵스키 대로가 걸어서 가깝고 식당과 상점이 많습니다.|The Hermitage and Nevsky Prospekt on foot, with plenty of restaurants and shops.'),
+    a('아드미랄테이스키', 'Admiralteysky', 'Admiralteysky District, Saint Petersburg', '성 이삭 대성당·마린스키 극장|St Isaac’s and the Mariinsky', '중앙구 바로 옆으로 조금 더 조용합니다.|Next to Tsentralny and a little quieter.'),
+  ],
+  kazan: [
+    a('바우만 거리·크렘린 주변', 'Bauman Street and the Kremlin', 'Bauman Street, Kazan', '걸어서 관광|Sights on foot', '관광지 대부분을 걸어서 갑니다. 주말과 휴일에는 값이 오르니 미리 예약하세요.|Most sights within walking distance; prices rise at weekends and holidays, so book ahead.'),
+  ],
+  suzdal: [
+    a('수즈달 마을에서 묵기', 'Stay in Suzdal', 'Suzdal', '옛 마을 분위기|Old-town atmosphere', '게스트하우스가 많고, 하루 묵으며 블라디미르와 함께 보기를 권합니다. 버스터미널은 중심에서 1.5km 떨어져 있습니다.|Plenty of guesthouses; staying the night, combined with Vladimir, is recommended. The bus station is 1.5 km from the centre.'),
+  ],
+  vladivostok: [
+    a('시내 중심 (기차역·금각만 주변)', 'City centre (station and Golden Horn)', 'Vladivostok railway station', '걸어서 관광·교통|Sights on foot, transport', '기차역과 아르바트 거리, 해안이 가깝습니다. 중심에서 먼 숙소는 식당까지 택시가 필요할 수 있습니다.|Close to the station, the Arbat and the waterfront; places further out may need taxis to restaurants.'),
+  ],
+  khabarovsk: [
+    a('시내 중심 (아무르강 강변 근처)', 'City centre (near the Amur embankment)', 'Muravyov-Amursky Street, Khabarovsk', '강변 산책|Riverside walks', '중심 거리와 강변 공원이 걸어서 가깝습니다.|The main street and riverside park are within walking distance.'),
+  ],
+  irkutsk: [
+    a('이르쿠츠크 시내 (키로프 광장 주변)', 'Central Irkutsk (around Kirov Square)', 'Kirov Square, Irkutsk', '식당·거점|Dining and a base', '시내 관광과 식당이 편하고 바이칼 호수는 당일로 다녀옵니다.|Best for the city and restaurants; Lake Baikal as a day trip.'),
+    a('리스트뱐카', 'Listvyanka', 'Listvyanka', '바이칼 호숫가|On Lake Baikal', '호수에서 묵고 싶을 때 좋지만 마을 중심에 걸어갈 수 있는 숙소가 적습니다.|For a night by the lake, though few places are within walking distance of the village centre.'),
+  ],
+  kyrenia: [
+    a('키레니아 항구 주변', 'Around Kyrenia Harbour', 'Kyrenia Harbour', '카페·바다 전망|Cafés and sea views', '옛 시가와 항구가 걸어서 가까워 가장 많이 묵는 곳입니다.|The old town and harbour on foot—the most popular base.'),
+  ],
 }
 
 export function getStayAreas(cityId: string): StayArea[] | undefined {

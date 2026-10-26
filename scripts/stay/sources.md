@@ -367,3 +367,24 @@ Checked October 2026.
 - dilijan: absolutearmenia.com/hotels-in-dilijan-where-to-stay · www.tripadvisor.com/HotelsNear-g1160895-d8015379-Sharambeyan_Street-Dilijan_Tavush_Province.html
 - gabala: gezz.az/en/blog/gabala-travel-guide · almatar.com/blog/gabala-and-quba-azerbaijans-best-mountain-escapes
 - peja: en.wikivoyage.org/wiki/Peja · www.bucketlistly.blog/posts/best-things-to-do-in-peja · theblogtrotter.com/destinations/kosovo/peja
+- douglas: www.kayak.com/Isle-Of-Man-Hotels.50500.hotel.ksp · www.expedia.com.vn/Douglas-Promenade.dx6341663 · www.hotelscombined.ca/Place/Douglas.htm
+- castletown: www.visitisleofman.com/dbimgs/Group Day Out - Scenic south coast by Steam.pdf · www.newmarketholidays.co.uk/destinations/europe/uk/isle-of-man/historic-railways-of-the-isle-of-man
+- peel: in.hotels.com/de1713408/hotels-in-peel-isle-of-man · www.travelocity.com/Peel-Hotels.d6123071.Travel-Guide-Hotels
+- st-helier: londonsouthendairport.com/travel-guides/where-to-stay-in-jersey · ae.hotels.com/go/england/best-towns-resorts-jersey · www.thehotelguru.com/en-us/best-hotels-in/united-kingdom/jersey
+- gorey: jersey.com/places-to-stay/listings/dolphin-hotel · www.enprimeurclub.com/hotels/the-moorings-hotel-restaurant-jersey-hotel
+- st-peter-port: truely.com/blog/best-cities-to-visit-in-guernsey · blog.condorferries.co.uk/travel-guides/guernsey/inspiration/expert-guide-to-st-peter-port · thehotelguru.com/best-hotels-in/united-kingdom/guernsey
+- sark: www.worldtravelguide.net/guides/europe/channel-islands/sark-herm/region-hotels · www.thehotelguru.com/en-us/best-hotels-in/united-kingdom/sark
+- torshavn: www.22places.com/where-to-stay-in-faroe-islands · visitfaroeislands.com/en/plan-your-stay/staying-here/guesthouses-b-bs
+- vagar: www.22places.com/where-to-stay-in-faroe-islands · www.booking.com/airport/fo/FAE.html
+- eysturoy: visitfaroeislands.com/place/gjaargardur-guesthouse · www.22places.com/where-to-stay-in-faroe-islands
+- nuuk: guidetogreenland.com/accommodation-in-greenland · uk.hotels.com/co10233279/hotels-in-greenland
+- ilulissat: guidetogreenland.com/accommodation-in-greenland · uk.hotels.com/co10233279/hotels-in-greenland
+- kangerlussuaq: guidetogreenland.com/accommodation-in-greenland · uk.hotels.com/co10233279/hotels-in-greenland
+- moscow: www.roughguides.com/article/an-experts-guide-the-best-places-to-stay-in-moscow · russiable.com/best-neighborhoods-hotels-moscow · www.thebrokebackpacker.com/where-to-stay-in-moscow-russia
+- saint-petersburg: www.roughguides.com/articles/where-to-stay-in-st-petersburg · russiable.com/best-neighborhoods-hotels-st-petersburg
+- kazan: nashaplaneta.net/europe/russia/kazan-oteli_en · www.mywanderlust.pl/?p=18005
+- suzdal: www.frommers.com/destinations/moscow/side-trips/suzdal--vladimir · rusmania.com/day-trip-to-suzdal
+- vladivostok: www.travelocity.com/Primorsky Krai.d6288496.Destination-Travel-Guides · www.trip.com/hotels/landmark/ru/railroad-square.html · www.vladivostok.travel/en/where-to-stay
+- khabarovsk: www.expedia.com.my/Muravyov-Amursky-Park-Hotels.0-l6312600-0.Travel-Guide-Filter-Hotels · www.successfulmeetings.com/Meeting-Event-Venues/Khabarovsk-Russia/Convention-Hotel/Boutique-Hotel-Khabarovsk-City-p50400711
+- irkutsk: selenatravel.com/siberia-accommodation · paliparan.com/2020/01/23/review-ibis-irkutsk-center-hotel-irkutsk-russia · lastminute.co.nz/Listvyanka-Hotels.d6025650.Travel-Guide-Hotels
+- kyrenia: www.lastminute.com/hotels/cy_cyprus/kyrenia-d1076168943 · www.cyprusparadise.com/blog/northern-cyprus-map-explore-towns-cities-and-beaches
