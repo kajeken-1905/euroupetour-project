@@ -1033,6 +1033,144 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [ta('bolt', { ko: '프리슈티나 위주', en: 'Mainly Pristina' })],
   },
+  // —— 2026-10 new countries (operators' and tourist boards' own sites) ——
+  gi: {
+    summary: {
+      ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',
+      en: 'Drive on the right. Small enough to walk; buses cover the rest.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '스페인 라 리네아와 국경이 붙어 있어 걸어서 넘을 수 있습니다. 스페인 각지로 가는 버스와 기차는 국경 건너편에서 탑니다.',
+      en: 'The border with La Línea in Spain can be crossed on foot; buses and trains onward into Spain leave from the Spanish side.',
+    },
+    paymentTip: {
+      ko: '바위산 자연보호구역은 마켓플레이스에서 셔틀버스(입장권 포함)가 다닙니다. 표는 마켓플레이스 매표소에서 삽니다.',
+      en: 'A shuttle bus (nature reserve entry included) runs from Marketplace to the Upper Rock; tickets are sold at the Marketplace office.',
+    },
+    apps: [ta('gibraltar')],
+  },
+  im: {
+    summary: {
+      ko: '좌측통행. 섬 전체를 버스 바넌(Bus Vannin) 버스와 옛 증기·전기 철도로 다닐 수 있습니다.',
+      en: 'Drive on the left. Bus Vannin buses and the heritage steam and electric railways cover the island.',
+    },
+    drivingSide: 'left',
+    longDistance: {
+      ko: '영국·아일랜드에서 비행기나 스틸 패킷(Steam Packet) 여객선으로 옵니다. 섬 안은 더글러스 로드 스트리트 버스 환승장에서 모든 노선으로 갈아탑니다.',
+      en: 'Arrive by air or on the Steam Packet ferries from Britain and Ireland; on the island, Lord Street interchange in Douglas connects every bus route.',
+    },
+    nationalPasses: {
+      ko: '고 세이버(버스)·고 익스플로어(버스+옛 철도)는 1·3·5·7일 동안 마음껏 탈 수 있는 카드입니다.',
+      en: 'Go Saver (buses) and Go Explore (buses plus heritage railways) give unlimited travel for 1, 3, 5 or 7 days.',
+    },
+    paymentTip: {
+      ko: '버스는 비접촉 카드·애플페이로 탑니다. 해외 카드도 대부분 되지만 마에스트로·아멕스는 안 됩니다. 옛 철도 표는 역에서 사세요.',
+      en: 'Tap a contactless card or phone on buses; most foreign cards work, but not Maestro or Amex. Buy heritage-railway tickets at stations.',
+    },
+  },
+  je: {
+    summary: {
+      ko: '좌측통행. 리버티 버스(LibertyBus)가 세인트헬리어의 리버레이션 버스터미널을 중심으로 섬 전체를 잇습니다.',
+      en: 'Drive on the left. LibertyBus links the island from Liberation Station in St Helier.',
+    },
+    drivingSide: 'left',
+    longDistance: {
+      ko: '영국·아일랜드에서 비행기, 영국과 프랑스 생말로에서 배가 옵니다. 건지·사크섬으로 가는 배도 있습니다.',
+      en: 'Fly in from Britain or Ireland, or sail from Britain or St Malo in France; boats also run to Guernsey and Sark.',
+    },
+    nationalPasses: {
+      ko: '1·2·3·7일 동안 마음껏 타는 버스 패스가 있습니다. 여러 날 패스는 처음 탄 날부터 연달아 씁니다.',
+      en: 'Bus passes give unlimited travel for 1, 2, 3 or 7 consecutive days from first use.',
+    },
+    paymentTip: {
+      ko: '탈 때 기사에게 사거나 리버티 버스 앱에서 미리 사 둡니다.',
+      en: 'Buy on board or in advance in the LibertyBus app.',
+    },
+    apps: [ta('libertybus')],
+  },
+  gg: {
+    summary: {
+      ko: '좌측통행. 섬 버스(Stagecoach 운영)가 일 년 내내 다닙니다. 사크섬은 차가 없는 섬입니다.',
+      en: 'Drive on the left. Island buses (run by Stagecoach) operate all year; Sark is car-free.',
+    },
+    drivingSide: 'left',
+    longDistance: {
+      ko: '영국에서 비행기로 40분쯤, 배로 3시간쯤 걸립니다. 프랑스 생말로에서 오는 배도 있습니다. 사크섬은 세인트피터포트에서 배로 약 45분입니다.',
+      en: 'About 40 minutes by air or three hours by sea from Britain, with ferries from St Malo too; Sark is about 45 minutes by boat from St Peter Port.',
+    },
+    paymentTip: {
+      ko: '버스에서는 비접촉 결제만 됩니다(현금 안 받음). 해외 카드가 버스에서 안 되면 타운 터미너스 매장이나 공항 안내 데스크에서 충전식 패스를 사세요.',
+      en: 'Buses take contactless only, no cash. If a foreign card fails on board, buy a pay-as-you-go pass at the Town Terminus shop or the airport desk.',
+    },
+    apps: [ta('buses-gg')],
+  },
+  fo: {
+    summary: {
+      ko: '우측통행. 섬과 섬 사이를 SSL(스트란파라스키프 란신스)의 파란 버스와 여객선이 잇습니다.',
+      en: 'Drive on the right. SSL’s blue buses and ferries link the islands.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '바가르 공항이 섬 밖으로 나가는 관문입니다. 덴마크·아이슬란드로 가는 노르뇌라호 여객선은 토르스하운에서 탑니다.',
+      en: 'Vágar Airport is the gateway; the Norröna ferry to Denmark and Iceland sails from Tórshavn.',
+    },
+    nationalPasses: {
+      ko: '여행자 카드로 정해진 기간 동안 버스와 여객선을 마음껏 탈 수 있습니다(헬리콥터 제외).',
+      en: 'A travel card gives unlimited buses and ferries for a set number of days (helicopters excluded).',
+    },
+    paymentTip: {
+      ko: '날씨로 운행이 자주 취소됩니다. 출발 전 SSL 사이트(ssl.fo)의 공지를 확인하세요. 렌터카는 공항에서 바로 빌리고 반납할 수 있습니다.',
+      en: 'Weather often cancels departures—check notices on ssl.fo. Rental cars can be picked up and returned at the airport.',
+    },
+  },
+  gl: {
+    summary: {
+      ko: '도시와 도시를 잇는 도로가 없습니다. 마을 사이는 비행기·헬리콥터·여객선으로 이동합니다.',
+      en: 'No roads link one town to another; travel between them by plane, helicopter or ship.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '에어 그린란드가 대부분의 도시를 잇습니다. 코펜하겐·레이캬비크에서 누크로 직항이 있습니다. 서해안을 따라 아크틱 우미아크 라인의 여객선 사르파크 이투크호가 4~12월에 다닙니다.',
+      en: 'Air Greenland links most towns, with direct flights to Nuuk from Copenhagen and Reykjavík; Arctic Umiaq Line’s ship Sarfaq Ittuk sails the west coast April–December.',
+    },
+    paymentTip: {
+      ko: '여름 배표는 일찍 예약하세요. 큰 도시 안에서는 버스·택시를 씁니다.',
+      en: 'Book summer sailings early; in the larger towns use buses and taxis.',
+    },
+    apps: [ta('air-greenland')],
+  },
+  ru: {
+    summary: {
+      ko: '우측통행. 모스크바·상트페테르부르크·카잔은 지하철이 있고, 도시 사이는 기차나 국내선으로 갑니다.',
+      en: 'Drive on the right. Moscow, St Petersburg and Kazan have metros; travel between cities by train or domestic flight.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '러시아 철도(RZD)의 고속열차와 시베리아 횡단철도가 도시를 잇습니다. 한국과의 직항 항공편은 없습니다.',
+      en: 'Russian Railways’ fast trains and the Trans-Siberian link the cities. There are no direct flights from Korea.',
+    },
+    paymentTip: {
+      ko: '한국 등 러시아 밖에서 발급한 비자·마스터 카드는 쓸 수 없습니다(주러시아 대사관 안내). 교통카드는 현금으로 사서 충전하세요.',
+      en: 'Visa and Mastercard cards issued outside Russia do not work (Korean Embassy advice); buy and top up transport cards with cash.',
+    },
+    apps: [ta('yandex-go', { ko: '택시', en: 'Taxis' }), ta('yandex-maps', { ko: '길찾기·대중교통', en: 'Routes and transit' })],
+  },
+  xc: {
+    summary: {
+      ko: '좌측통행. 철도는 없고, 도시 사이는 버스와 돌무시(합승 미니버스)로 다닙니다.',
+      en: 'Drive on the left. There are no railways; buses and dolmuş shared minibuses link the towns.',
+    },
+    drivingSide: 'left',
+    longDistance: {
+      ko: '남쪽 키프로스 공화국으로 들어와 그린라인 검문소로 넘어가세요. 니코시아의 레드라 팰리스와 레드라·로크마즈 거리 검문소는 걸어서만 건널 수 있습니다.',
+      en: 'Enter through the Republic of Cyprus in the south and cross at a Green Line checkpoint; Ledra Palace and Ledra/Lokmacı Street in Nicosia are for pedestrians only.',
+    },
+    paymentTip: {
+      ko: '남쪽에서 빌린 차의 보험은 북쪽에서 효력이 없어 따로 보험을 들어야 합니다. 택시는 타기 전에 요금을 정하고, 튀르키예 리라 현금을 준비하세요.',
+      en: 'Insurance on cars hired in the south is not valid in the north, so buy cover separately. Agree taxi fares first and carry Turkish lira.',
+    },
+  },
 }
 
 export function getCountryTransit(countryId: string): CountryTransit | undefined {

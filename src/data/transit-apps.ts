@@ -80,6 +80,28 @@ const APP_CATALOG = {
   sj: { name: 'SJ', url: 'https://www.sj.se/', icon: '/transit-apps/sj.png' },
   vy: { name: 'Vy', url: 'https://www.vy.no/', icon: '/transit-apps/vy.png' },
   vr: { name: 'VR', url: 'https://www.vr.fi/', icon: '/transit-apps/vr.png' },
+  'atm-milano': {
+    name: 'ATM Milano',
+    url: 'https://www.atm.it/it/ViaggiaConNoi/pagamenti_servizi_digitali/Pagine/ATMMobile.aspx',
+    icon: '/transit-apps/atm-milano.png',
+  },
+  'at-bus': { name: 'at bus', url: 'https://www.at-bus.it/', icon: '/transit-apps/at-bus.png' },
+  libertybus: { name: 'LibertyBus', url: 'https://www.libertybus.je/', icon: '/transit-apps/libertybus.png' },
+  'buses-gg': { name: 'Buses gg', url: 'https://www.buses.gg/', icon: '/transit-apps/buses-gg.png' },
+  'air-greenland': { name: 'Air Greenland', url: 'https://www.airgreenland.com/', icon: '/transit-apps/air-greenland.png' },
+  'yandex-go': { name: 'Yandex Go', url: 'https://go.yandex/', icon: '/transit-apps/yandex-go.png' },
+  'yandex-maps': { name: 'Yandex Maps', url: 'https://yandex.ru/maps/', icon: '/transit-apps/yandex-maps.png' },
+  'moscow-metro': { name: 'Moscow Metro', url: 'https://apps.apple.com/ru/app/id1093391186', icon: '/transit-apps/moscow-metro.png' },
+  'moscow-transport': {
+    name: 'Moscow Transport',
+    url: 'https://apps.apple.com/ru/app/id1227002793',
+    icon: '/transit-apps/moscow-transport.png',
+  },
+  podorozhnik: {
+    name: 'Podorozhnik',
+    url: 'https://apps.apple.com/ru/app/id6478869877',
+    icon: '/transit-apps/podorozhnik.png',
+  },
 } as const
 
 type AppId = keyof typeof APP_CATALOG

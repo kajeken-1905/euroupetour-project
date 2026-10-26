@@ -2185,10 +2185,11 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'MXP: Malpensa Express. LIN: coach/metro link. BGY: bus into Milan.',
     },
     howTo: {
-      ko: 'ATM 티켓·여행권. 메트로가 빠르고, 근교는 Trenord.',
-      en: 'ATM tickets/passes. Metro is fast; Trenord for suburbs.',
+      ko: '지하철·트램·버스는 ATM이 운영합니다. ATM 앱에서 표를 사고 앱으로 개찰하며, 길찾기와 실시간 대기 시간도 봅니다. 메트로가 빠르고, 근교는 Trenord.',
+      en: 'ATM runs the metro, trams and buses: buy and validate tickets in the ATM app, which also plans routes and shows live waiting times. The metro is fastest; Trenord serves the suburbs.',
     },
     apps: [
+      ta('atm-milano', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('trenitalia'),
       ta('citymapper'),
       ta('bolt'),
@@ -2203,10 +2204,11 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Tram T2 or bus/taxi ~20–30 min.',
     },
     howTo: {
-      ko: '구시가는 도보가 최고. Ataf 버스·트램웨이. 역은 SMN.',
-      en: 'Historic centre is best on foot. Ataf buses/tramway; SMN station.',
+      ko: '구시가는 도보가 최고. 버스는 at(Autolinee Toscane)가 운영하며, at bus 앱에서 표를 사고 노선·실시간 도착을 봅니다. 버스·트램은 비접촉 카드로도 탑니다. 역은 SMN.',
+      en: 'The historic centre is best on foot. Buses are run by at (Autolinee Toscane): buy tickets and check routes and live arrivals in the at bus app, or tap a contactless card on buses and trams. Main station: SMN.',
     },
     apps: [
+      ta('at-bus', { ko: '버스 표·노선', en: 'Bus tickets and routes' }),
       ta('trenitalia'),
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
@@ -4700,6 +4702,292 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: '프리슈티나에서 버스로 약 1시간입니다.',
       en: 'About 1 hour from Pristina by bus.',
+    },
+    apps: [],
+  },
+  // —— im (Isle of Man Bus & Rail) ——
+  douglas: {
+    modes: ['bus', 'train', 'tram', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '로널즈웨이 공항 정문에서 왼쪽으로 45m쯤 가면 버스 정류장이 있습니다. 더글러스행은 붐비는 시간에 20분마다 다닙니다.',
+      en: 'The bus stand is about 45 m left of Ronaldsway Airport’s main entrance; buses to Douglas run every 20 minutes at peak times.',
+    },
+    howTo: {
+      ko: '로드 스트리트 버스 환승장에서 섬 모든 노선으로 갈아탑니다. 해변 산책로에는 말이 끄는 트램이 다니고, 전기 철도는 락시·램지로, 증기 철도는 캐슬타운·포트에린으로 갑니다.',
+      en: 'Lord Street interchange connects every bus route. A horse tram runs along the promenade, the electric railway goes to Laxey and Ramsey, and the steam railway to Castletown and Port Erin.',
+    },
+    apps: [],
+    tip: {
+      ko: '옛 철도들은 계절에 따라 운행합니다. 버스와 옛 철도를 함께 탈 거라면 고 익스플로어 카드가 편합니다.',
+      en: 'The heritage railways run seasonally; Go Explore covers both buses and heritage trains.',
+    },
+  },
+  castletown: {
+    modes: ['bus', 'train', 'walk'],
+    airportToCity: {
+      ko: '공항이 마을 바로 옆입니다. 공항에서 남쪽으로 가는 버스가 캐슬타운을 거칩니다.',
+      en: 'The airport is right next to town; southbound buses from the airport call at Castletown.',
+    },
+    howTo: {
+      ko: '마을은 걸어서 돌아봅니다. 더글러스와 포트에린 사이를 버스와 증기 철도(계절 운행)가 잇습니다.',
+      en: 'Walk the town; buses and the seasonal steam railway link it with Douglas and Port Erin.',
+    },
+    apps: [],
+  },
+  peel: {
+    modes: ['bus', 'walk'],
+    airportToCity: {
+      ko: '공항 버스를 타고 더글러스 빅토리아 스트리트에서 내린 뒤, 125m쯤 걸어 로드 스트리트 환승장에서 필행 버스로 갈아탑니다.',
+      en: 'Take an airport bus to Victoria Street in Douglas, walk about 125 m to Lord Street interchange and change for Peel.',
+    },
+    howTo: {
+      ko: '항구와 성, 해변이 가까워 걸어서 다닙니다.',
+      en: 'Harbour, castle and beach are all within walking distance.',
+    },
+    apps: [],
+  },
+  // —— je, gg (Visit Jersey, Visit Guernsey, Sark Tourism) ——
+  'st-helier': {
+    modes: ['bus', 'ferry', 'taxi', 'bike', 'walk'],
+    airportToCity: {
+      ko: '15번·12번 버스가 공항과 리버레이션 버스터미널을 잇습니다.',
+      en: 'Routes 15 and 12 link the airport with Liberation Station.',
+    },
+    howTo: {
+      ko: '섬 버스는 대부분 리버레이션 버스터미널에서 출발합니다. 월~토요일에는 시내를 도는 버스도 있습니다.',
+      en: 'Most island buses start at Liberation Station; a town service runs Monday to Saturday.',
+    },
+    apps: [ta('libertybus', { ko: '표·실시간 위치', en: 'Tickets and live buses' })],
+    tip: {
+      ko: '터미널에서 무료 시간표를 받을 수 있습니다.',
+      en: 'Free printed timetables are available at Liberation Station.',
+    },
+  },
+  gorey: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '세인트헬리어 리버레이션 버스터미널에서 1번·1A번 버스가 고리 마을(몽오르게이 성)로 갑니다.',
+      en: 'Routes 1 and 1A run from Liberation Station in St Helier to Gorey village and Mont Orgueil Castle.',
+    },
+    apps: [ta('libertybus')],
+  },
+  'st-peter-port': {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '섬 버스는 타운 터미너스에서 출발하고 비접촉 결제만 받습니다. 사크·험섬으로 가는 배는 세인트피터포트 항구에서 탑니다.',
+      en: 'Island buses leave from the Town Terminus and take contactless payment only; boats to Sark and Herm sail from St Peter Port Harbour.',
+    },
+    apps: [ta('buses-gg', { ko: '실시간 버스', en: 'Live bus times' })],
+  },
+  sark: {
+    modes: ['ferry', 'bike', 'walk'],
+    howTo: {
+      ko: '차가 없는 섬입니다. 마슬린 항구에서 트랙터 버스(현금·카드)를 타고 언덕을 오르거나 걸어 올라갑니다. 마을에서 자전거를 빌릴 수 있습니다.',
+      en: 'A car-free island: from Maseline Harbour ride the tractor bus up the hill (cash or card) or walk; bikes can be hired in the village.',
+    },
+    apps: [],
+    tip: {
+      ko: '이름표를 단 짐은 배에서 숙소까지 배달해 줍니다. 길에서는 왼쪽으로 다니고, 자전거는 오솔길·절벽길에서 타면 안 됩니다.',
+      en: 'Labelled luggage is delivered from the boat to your lodging. Keep left on the lanes; no cycling on footpaths or cliff paths.',
+    },
+  },
+  // —— fo (SSL, Visit Faroe Islands) ——
+  torshavn: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '바가르 공항에서 SSL 300번 버스가 토르스하운까지 갑니다. 렌터카는 공항에서 바로 빌릴 수 있습니다.',
+      en: 'SSL route 300 runs from Vágar Airport to Tórshavn; rental cars are available at the airport.',
+    },
+    howTo: {
+      ko: '섬과 섬 사이는 SSL 버스와 여객선으로 다닙니다. 키르큐뵈르 마을도 토르스하운 주변을 도는 버스로 갈 수 있습니다.',
+      en: 'SSL buses and ferries link the islands; Kirkjubøur is reachable on the bus around Tórshavn.',
+    },
+    apps: [],
+    tip: {
+      ko: '날씨로 운행이 자주 취소되니 ssl.fo 공지를 확인하세요. 운전할 때는 도로 위의 양을 조심하세요.',
+      en: 'Weather often cancels departures—check ssl.fo. Watch for sheep on the roads.',
+    },
+  },
+  vagar: {
+    modes: ['bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '300번 버스가 토르스하운–공항–쇠르보우구르를, 350번이 쇠르보우구르에서 뵈르·가사달루르까지 갑니다. 미키네스섬행 배는 쇠르보우구르에서 탑니다.',
+      en: 'Route 300 runs Tórshavn–airport–Sørvágur and route 350 continues to Bøur and Gásadalur; the boat to Mykines leaves from Sørvágur.',
+    },
+    apps: [],
+  },
+  eysturoy: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '토르스하운에서 400번 버스를 타고 다리 건너 오위라르바키에서 내린 뒤 200번(에이디)·201번(갸우그)으로 갈아탑니다.',
+      en: 'Take route 400 from Tórshavn to Oyrarbakki, just over the bridge, then change to route 200 for Eiði or 201 for Gjógv.',
+    },
+    apps: [],
+    tip: {
+      ko: '마을로 가는 버스는 하루 몇 번뿐이라 돌아오는 시간을 먼저 확인하세요.',
+      en: 'Village buses run only a few times a day—check the return times first.',
+    },
+  },
+  // —— gl (Visit Greenland) ——
+  nuuk: {
+    modes: ['bus', 'taxi', 'bike', 'walk'],
+    airportToCity: {
+      ko: '누크 버스(Nuup Bussii) 3번이 공항에 가지만 비행기 시간에 맞추지는 않습니다. 택시는 미리 부르는 편이 좋습니다.',
+      en: 'Nuup Bussii line 3 serves the airport but is not timed to flights; pre-book a taxi if you can.',
+    },
+    howTo: {
+      ko: '시내 중심은 걸어서 다닐 만합니다. 버스 4개 노선이 시내 거의 전체를 다니고, 차내에서 동전으로 낼 수 있습니다.',
+      en: 'The centre is walkable; four bus lines cover almost all of Nuuk, and coins are accepted on board.',
+    },
+    apps: [ta('air-greenland', { ko: '국내선', en: 'Domestic flights' })],
+  },
+  ilulissat: {
+    modes: ['bus', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '큰 호텔들은 공항과 시내를 오가는 셔틀을 운행합니다. 택시도 있습니다.',
+      en: 'The larger hotels run airport and town shuttles; taxis are available.',
+    },
+    howTo: {
+      ko: '대부분 걸어서 다니지만 마을이 꽤 넓습니다. 버스는 붐비는 시간 20분, 그 밖에는 30~40분 간격입니다.',
+      en: 'Most visitors walk, though the town is spread out; buses run every 20 minutes at peak and every 30–40 otherwise.',
+    },
+    apps: [ta('air-greenland', { ko: '국내선', en: 'Domestic flights' })],
+  },
+  kangerlussuaq: {
+    modes: ['bus', 'walk'],
+    airportToCity: {
+      ko: '공항 맞은편 기념품 가게 앞에 버스 정류장이 있습니다. 숙소에 마중을 부탁할 수도 있습니다.',
+      en: 'A bus stop faces the souvenir shops outside the airport, or arrange a transfer with your lodging.',
+    },
+    howTo: {
+      ko: '마을이 활주로 양쪽으로 퍼져 있습니다. 버스는 약 30분마다 다니고 요금은 현금으로만 냅니다(거스름돈 있음).',
+      en: 'The settlement straddles the runway; buses call about every 30 minutes and take cash only (change given).',
+    },
+    apps: [ta('air-greenland', { ko: '국내선', en: 'Domestic flights' })],
+  },
+  // —— ru (airport and operator sites) ——
+  moscow: {
+    modes: ['metro', 'train', 'bus', 'tram', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '아에로엑스프레스: 셰레메티예보–벨로루스키역 46분, 도모데도보–파벨레츠키역 약 45분. 브누코보 노선은 2024년 7월부터 운행하지 않습니다.',
+      en: 'Aeroexpress: Sheremetyevo–Belorussky station 46 min, Domodedovo–Paveletsky about 45 min. The Vnukovo line has not run since July 2024.',
+    },
+    howTo: {
+      ko: '교통카드 트로이카는 지하철 매표소와 자동판매기에서 사고 충전하며, 지하철·버스·트램에 씁니다.',
+      en: 'Buy and top up a Troika card at metro ticket offices and machines; it works on the metro, buses and trams.',
+    },
+    apps: [
+      ta('moscow-metro', { ko: '지하철 공식', en: 'Official metro app' }),
+      ta('moscow-transport', { ko: '모스크바 교통국', en: 'City transport department' }),
+      ta('yandex-go', { ko: '택시', en: 'Taxis' }),
+    ],
+    tip: {
+      ko: '해외 발급 카드는 쓸 수 없으니 트로이카는 현금으로 충전하세요. 아에로엑스프레스 시간표는 수시로 바뀌니 출발 전 확인하세요.',
+      en: 'Foreign-issued cards do not work, so top up Troika with cash; Aeroexpress timetables change often.',
+    },
+  },
+  'saint-petersburg': {
+    modes: ['metro', 'bus', 'tram', 'train', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '풀코보 공항에서 39번 버스와 39Э 급행버스가 지하철 모스콥스카야역까지 갑니다.',
+      en: 'Bus 39 and express 39Э run from Pulkovo Airport to Moskovskaya metro station.',
+    },
+    howTo: {
+      ko: '교통카드 포도로즈니크로 지하철·버스·트램을 탑니다. 모스크바행 기차는 모스크바역에서 출발합니다.',
+      en: 'Use the Podorozhnik card on the metro, buses and trams; trains to Moscow leave from Moskovsky station.',
+    },
+    apps: [ta('podorozhnik', { ko: '교통카드', en: 'Transport card' }), ta('yandex-go', { ko: '택시', en: 'Taxis' })],
+  },
+  kazan: {
+    modes: ['metro', 'bus', 'train', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '공항과 카잔 교외선 역 사이를 전동차가 약 30분에 잇습니다. 낮에는 197번 시내버스도 다닙니다.',
+      en: 'A suburban train links the airport with Kazan in about 30 minutes; city bus 197 also runs during the day.',
+    },
+    howTo: {
+      ko: '크렘린과 바우만 거리 일대는 걸어서 다닙니다. 시내는 지하철과 버스로 이동합니다.',
+      en: 'Walk around the Kremlin and Bauman Street; the metro and buses cover the rest.',
+    },
+    apps: [ta('yandex-go', { ko: '택시', en: 'Taxis' }), ta('yandex-maps', { ko: '길찾기', en: 'Routes' })],
+  },
+  suzdal: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '수즈달에는 철도가 없습니다. 모스크바에서 기차로 블라디미르까지 간 뒤 버스로 갈아탑니다. 마을은 걸어서 돌아봅니다.',
+      en: 'Suzdal has no railway: take a train from Moscow to Vladimir and a bus from there. The town is walkable.',
+    },
+    apps: [ta('yandex-maps', { ko: '길찾기', en: 'Routes' })],
+  },
+  vladivostok: {
+    modes: ['bus', 'train', 'ferry', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '공항(크네비치)역에서 블라디보스토크역까지 엑스프레스 프리모리야의 전동차가 다닙니다.',
+      en: 'Express Primorya suburban trains run from the airport (Knevichi) to Vladivostok station.',
+    },
+    howTo: {
+      ko: '블라디보스토크역은 시베리아 횡단철도의 종착역이며, 여객선 터미널에서 한국 동해항으로 가는 배가 있습니다.',
+      en: 'Vladivostok station is the Trans-Siberian terminus, and a ferry to Donghae in Korea sails from the sea terminal.',
+    },
+    apps: [ta('yandex-go', { ko: '택시', en: 'Taxis' }), ta('yandex-maps', { ko: '길찾기', en: 'Routes' })],
+  },
+  khabarovsk: {
+    modes: ['bus', 'tram', 'train', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '트롤리버스 1번이 공항과 아무르강 가까운 콤소몰스카야 광장을 잇습니다. 2·3번은 공항–기차역을 도는 노선입니다.',
+      en: 'Trolleybus 1 links the airport with Komsomolskaya Square near the Amur; lines 2 and 3 loop via the railway station.',
+    },
+    howTo: {
+      ko: '시내는 트롤리버스·버스로 다닙니다. 하바롭스크-1역에 시베리아 횡단철도가 섭니다.',
+      en: 'Trolleybuses and buses cover the city; Trans-Siberian trains stop at Khabarovsk-1.',
+    },
+    apps: [ta('yandex-go', { ko: '택시', en: 'Taxis' }), ta('yandex-maps', { ko: '길찾기', en: 'Routes' })],
+  },
+  irkutsk: {
+    modes: ['bus', 'tram', 'train', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '공항이 시내에서 가까워 트롤리버스와 시내버스로 중심가까지 갑니다.',
+      en: 'The airport is close to town, with trolleybuses and city buses to the centre.',
+    },
+    howTo: {
+      ko: '시내는 트롤리버스·버스로 다닙니다. 이르쿠츠크 여객역에 시베리아 횡단철도가 섭니다.',
+      en: 'Trolleybuses and buses cover the city; Trans-Siberian trains stop at Irkutsk-Passazhirsky.',
+    },
+    apps: [ta('yandex-go', { ko: '택시', en: 'Taxis' }), ta('yandex-maps', { ko: '길찾기', en: 'Routes' })],
+  },
+  // —— xc (UK travel advice; enter through the south) ——
+  'north-nicosia': {
+    modes: ['bus', 'taxi', 'walk'],
+    airportToCity: {
+      ko: '남쪽 라르나카 공항으로 들어와 남니코시아에서 그린라인 검문소를 걸어서 건너는 것이 외교부 권고 경로입니다.',
+      en: 'Fly into Larnaca in the south and cross the Green Line on foot in Nicosia—the route the Korean Foreign Ministry advises.',
+    },
+    howTo: {
+      ko: '레드라 팰리스와 레드라·로크마즈 거리 검문소는 보행자 전용입니다. 성벽 안 구시가는 걸어서 돌아보고, 키레니아·파마구스타는 버스나 돌무시로 갑니다.',
+      en: 'The Ledra Palace and Ledra/Lokmacı Street crossings are for pedestrians only. Walk the walled old town; take buses or dolmuş to Kyrenia and Famagusta.',
+    },
+    apps: [],
+    tip: {
+      ko: '저녁과 일요일에는 버스가 줄어듭니다. 택시는 타기 전에 요금을 정하세요.',
+      en: 'Buses thin out in the evening and on Sundays; agree taxi fares before you ride.',
+    },
+  },
+  kyrenia: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '북니코시아에서 버스로 옵니다. 옛 항구와 성은 걸어서 돌아봅니다.',
+      en: 'Come by bus from North Nicosia; walk the old harbour and castle.',
+    },
+    apps: [],
+    tip: {
+      ko: '남쪽에서 빌린 차는 북쪽에서 쓸 보험을 따로 들어야 합니다.',
+      en: 'Cars hired in the south need separate insurance for the north.',
+    },
+  },
+  famagusta: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '북니코시아에서 버스·돌무시로 옵니다. 성벽 안 구시가는 걸어서 다닙니다. 바로샤 지역은 외교부 3단계(출국권고) 지역입니다.',
+      en: 'Come by bus or dolmuş from North Nicosia and walk the walled city. Varosha is under a Korean level 3 alert.',
     },
     apps: [],
   },
