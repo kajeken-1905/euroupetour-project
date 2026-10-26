@@ -35,6 +35,8 @@ export const placesRUExtra: Place[] = [
 
   place('saint-petersburg-cafe-1', 'saint-petersburg', 'cafe', 'René', 'Nevsky Prospekt 28, 2nd floor (Singer House), Saint Petersburg', '넵스키 대로 싱어 하우스(돔 크니기 서점) 2층의 카페. 러시아·프랑스 요리를 냅니다.', 'Café on the second floor of the Singer House bookshop on Nevsky Prospekt, with Russian and French cooking.'),
 
+  place('saint-petersburg-korean-1', 'saint-petersburg', 'korean', 'МаккоЛи (MakkoLi)', 'Ligovsky Prospekt 25, Saint Petersburg', '플로샤지 보스스타니야역 가까이 있는 한식당. 시내에 지점이 여러 곳 있습니다.', 'Korean restaurant near Ploshchad Vosstaniya metro, one of several branches in the city.'),
+
   // —— kazan ——
   place('kazan-fine_dining-1', 'kazan', 'fine_dining', 'Tatar by Tubatay', 'Shigabutdina Mardzhani St 4, Kazan', '크렘린 근처의 타타르 요리 레스토랑. 2주쯤 전에 예약이 차기도 합니다.', 'Tatar restaurant near the Kremlin; tables are often booked about two weeks ahead.'),
   place('kazan-fine_dining-2', 'kazan', 'fine_dining', 'Татарская усадьба (Tatar Estate)', 'Shigabutdina Mardzhani St 8, Kazan', '옛 타타르 마을 분위기의 호텔 레스토랑. 아주와 말고기 요리 같은 타타르 음식을 냅니다.', 'Hotel restaurant styled on the old Tatar quarter, serving Tatar dishes such as azu and braised horse meat.'),
