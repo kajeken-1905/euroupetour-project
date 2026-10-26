@@ -3444,6 +3444,42 @@ a.plan-btn {
   list-style: none;
 }
 
+/* History, culture and nature, each heading a run of groups. */
+.popular-kind {
+  margin: 26px 0 4px;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.popular-group {
+  margin-top: 14px;
+}
+
+.popular-group-head {
+  margin-bottom: 8px;
+}
+
+.popular-group-title {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.popular-group-period {
+  margin-left: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.popular-group-note {
+  margin: 2px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
 /* Photo cards like the city list, with the text at the bottom; a long description makes the card taller. */
 .popular-card {
   display: flex;

@@ -2,7 +2,7 @@ import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { getCityBrief } from '../data/cityIndex'
 import { getCountry } from '../data/countries'
-import { POPULAR_CITIES } from '../data/popularCities'
+import { ERA_GROUPS } from '../data/eraCities'
 import { CountryStamp } from '../components/CountryStamp'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { useLanguage } from '../contexts/LanguageContext'
@@ -21,55 +21,69 @@ import {
 
 const QUERY_KEY = 'search-query'
 
-/** European cities in order of international visitors in 2024, each with its one-line description. */
-function PopularCities() {
+/** One recommended city as a photo card, with the visit stamp when the user has been there. */
+function RecommendedCity({ cityId }: { cityId: string }) {
   const { lang } = useLanguage()
   const { data: visitedData } = useVisitedPlaces()
-  const cities = [...POPULAR_CITIES]
-    .sort((a, b) => b.millions - a.millions)
-    .map((p) => ({ ...p, city: getCityBrief(p.cityId) }))
-    .filter((p) => !!p.city)
+  const city = getCityBrief(cityId)
+  if (!city) return null
+  // Same stamp as the city lists: the country's, with the latest visit's date.
+  const latestVisit = [...(visitedData.cities[cityId] ?? [])].sort((a, b) => b.year - a.year || b.month - a.month)[0]
+  const country = getCountry(city.countryId)
+  return (
+    <li>
+      <Link
+        to={`/city/${cityId}`}
+        className="city-item popular-card"
+        style={{
+          backgroundImage: `
+            linear-gradient(180deg, rgba(10, 12, 18, 0.15) 0%, rgba(10, 12, 18, 0.25) 45%, rgba(10, 12, 18, 0.82) 100%),
+            url(${assetUrl(city.signatureImage)})
+          `,
+        }}
+      >
+        {latestVisit && country ? (
+          <CountryStamp
+            id={country.id}
+            nameEn={country.name.en}
+            date={`${latestVisit.year} · ${String(latestVisit.month).padStart(2, '0')}`}
+            className="city-item-stamp"
+          />
+        ) : null}
+        <span className="popular-body">
+          <strong className="popular-name">{city.name[lang]}</strong>
+          <span className="popular-country">{country?.name[lang] ?? ''}</span>
+          <span className="popular-blurb">{getCity(cityId)?.blurb[lang] ?? ''}</span>
+        </span>
+      </Link>
+    </li>
+  )
+}
+
+/** Recommended cities by period of history, mixed culture and landscape. */
+function RecommendedCities() {
+  const { lang } = useLanguage()
   return (
     <section className="popular-cities" aria-label={t('popularTitle', lang)}>
       <p className="section-label">{t('popularTitle', lang)}</p>
-      <ol className="popular-list">
-        {cities.map((p) => {
-          // Same stamp as the city lists: the country's, with the latest visit's date.
-          const latestVisit = [...(visitedData.cities[p.cityId] ?? [])].sort(
-            (a, b) => b.year - a.year || b.month - a.month,
-          )[0]
-          const country = getCountry(p.city!.countryId)
-          return (
-            <li key={p.cityId}>
-              <Link
-                to={`/city/${p.cityId}`}
-                className="city-item popular-card"
-                style={{
-                  backgroundImage: `
-                  linear-gradient(180deg, rgba(10, 12, 18, 0.15) 0%, rgba(10, 12, 18, 0.25) 45%, rgba(10, 12, 18, 0.82) 100%),
-                  url(${assetUrl(p.city!.signatureImage)})
-                `,
-                }}
-              >
-                {latestVisit && country ? (
-                  <CountryStamp
-                    id={country.id}
-                    nameEn={country.name.en}
-                    date={`${latestVisit.year} · ${String(latestVisit.month).padStart(2, '0')}`}
-                    className="city-item-stamp"
-                  />
-                ) : null}
-                <span className="popular-body">
-                  <strong className="popular-name">{p.city!.name[lang]}</strong>
-                  <span className="popular-country">{country?.name[lang] ?? ''}</span>
-                  <span className="popular-blurb">{getCity(p.cityId)?.blurb[lang] ?? ''}</span>
-                </span>
-              </Link>
-            </li>
-          )
-        })}
-      </ol>
-      <p className="itinerary-note">{t('popularNote', lang)}</p>
+      {ERA_GROUPS.map((group, i) => (
+        <section key={group.id} className="popular-group" aria-label={group.title[lang]}>
+          {ERA_GROUPS[i - 1]?.kind !== group.kind ? (
+            <p className="popular-kind">{t(`popularKind_${group.kind}`, lang)}</p>
+          ) : null}
+          <div className="popular-group-head">
+            <h3 className="popular-group-title">
+              {group.title[lang]} <span className="popular-group-period">{group.period[lang]}</span>
+            </h3>
+            <p className="popular-group-note">{group.note[lang]}</p>
+          </div>
+          <ul className="popular-list">
+            {group.cityIds.map((id) => (
+              <RecommendedCity key={id} cityId={id} />
+            ))}
+          </ul>
+        </section>
+      ))}
     </section>
   )
 }
@@ -157,7 +171,7 @@ function SearchView() {
             </section>
           ) : null}
           <p className="phase-note">{t('searchHint', lang)}</p>
-          <PopularCities />
+          <RecommendedCities />
         </>
       ) : total === 0 ? (
         <div className="empty-state">{t('searchEmpty', lang)}</div>
