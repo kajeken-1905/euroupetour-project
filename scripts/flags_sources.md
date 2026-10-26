@@ -9,3 +9,4 @@ Two edits on each file's root <svg>:
 - `viewBox="0 0 W H"` added where the file only had width/height, so it scales.
 - `preserveAspectRatio="xMidYMid slice"` so the flag fills the box on the map (country outline clip)
   instead of sitting letterboxed in the middle.
+- gi.svg — File:Flag_of_Gibraltar.svg (public domain), added 2026-10-26

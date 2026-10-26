@@ -161,6 +161,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'gibraltar-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://visitgibraltar.gi/see-and-do/st-michaels-cave', t: 'https://naturereserve.gi', n: '자연보호구역 입장권에 포함됩니다. 10~4월 9:00~18:15, 5~9월 9:30~19:15.|Included in the Nature Reserve ticket. Open 9:00–18:15 October–April, 9:30–19:15 May–September.', k: '2026-10' }),
   'gibraltar-h4': v(20, 30, { n: '원숭이에게 먹이를 주면 벌금을 뭅니다. 가방과 음식을 조심하세요.|Feeding the monkeys is fined. Watch your bags and food.' }),
   'gibraltar-h5': v(20, 30),
+  'gibraltar-h6': v(30, 45, { n: '자연보호구역 입장권에 포함됩니다.|Included in the Nature Reserve ticket.' }),
   // Bilbao
   'bilbao-h1': v(120, 150, { c: 'mon', b: 'rec', s: 'https://www.guggenheim-bilbao.eus/en', n: '한여름(6월 중순~9월 초)과 일부 연휴에는 월요일에도 엽니다. 입장권은 날짜와 시간이 정해져 있고 바꿀 수 없습니다.|Open on Mondays too in high summer (mid-June to early September) and on some holiday Mondays. Tickets are for a fixed date and time and cannot be changed.', k: '2026-10' }),
   'bilbao-h2': v(60, 90),

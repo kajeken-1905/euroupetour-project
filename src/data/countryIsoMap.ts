@@ -52,6 +52,7 @@ export const countryIsoMap: Record<string, string> = {
   am: '051',
   az: '031',
   sm: '674',
+  gi: '292',
 }
 
 /** world-atlas has no ISO id for Kosovo; its TopoJSON feature is matched by this name instead. */
@@ -63,4 +64,4 @@ export const KOSOVO_COUNTRY_ID = 'xk'
  * default zoom — shown as a labeled dot marker instead of a fill so they
  * stay tappable. Confirmed by visual inspection of the rendered map.
  */
-export const MICRO_STATE_IDS = new Set(['va', 'mc', 'sm', 'li', 'ad'])
+export const MICRO_STATE_IDS = new Set(['va', 'mc', 'sm', 'li', 'ad', 'gi'])

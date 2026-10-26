@@ -612,3 +612,10 @@ highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_
 # highlights/porto-10.jpg | IMG_0190 (2024-11-09, McDonald's Imperial entrance) | owner
 # highlights/lisbon-8.jpg | IMG_1019 (2024-11-18, Carmo Convent nave) | owner
 cities/santorini.jpg | https://commons.wikimedia.org/wiki/File:Resurrection_of_the_Lord_Holy_Orthodox_Church_in_%CE%9F%CE%AF%CE%B1.jpg | CC BY-SA 4.0 | Je-str
+landmarks/landmark-gi.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_view_of_the_Rock_from_Avenida_Pr%C3%ADncipe_de_Asturias.jpg | CC BY-SA 4.0 | Ymblanter
+cities/gibraltar.jpg | https://commons.wikimedia.org/wiki/File:Grand_Casemates_Square.jpg | CC BY 2.0 | Clare Wilkinson
+highlights/gibraltar-2.jpg | https://commons.wikimedia.org/wiki/File:Cable_car_over_Gibraltar.jpg | CC BY-SA 2.0 | Mario Sánchez Bueno
+highlights/gibraltar-4.jpg | https://commons.wikimedia.org/wiki/File:Barbary_Macaques_Gibraltar_14.jpg | CC BY 4.0 | Scott Wylie
+highlights/gibraltar-3.jpg | https://commons.wikimedia.org/wiki/File:St._Michaels_Cave,_Gibraltar_(10).jpg | CC BY-SA 2.0 | Bjørn from Oslo, Norway
+highlights/gibraltar-6.jpg | https://commons.wikimedia.org/wiki/File:Great_Siege_Tunnel_gunners_reconstruction.jpg | CC BY-SA 3.0 | Prioryman
+highlights/gibraltar-5.jpg | https://commons.wikimedia.org/wiki/File:Europa_Point_Lighthouse,_Gibraltar_20.JPG | CC BY-SA 3.0 | John Cummings

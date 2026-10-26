@@ -431,7 +431,7 @@ export const countries: Country[] = [
       background: '#FDF6E3',
       text: '#3A1010',
     },
-    cityIds: ['madrid', 'segovia', 'salamanca', 'toledo', 'barcelona', 'montserrat', 'girona', 'zaragoza', 'valencia', 'palma', 'seville', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja', 'gibraltar', 'bilbao', 'san-sebastian', 'santiago'],
+    cityIds: ['madrid', 'segovia', 'salamanca', 'toledo', 'barcelona', 'montserrat', 'girona', 'zaragoza', 'valencia', 'palma', 'seville', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja', 'bilbao', 'san-sebastian', 'santiago'],
     cityGroups: [
       { title: { ko: '마드리드 지방', en: 'Community of Madrid' }, cityIds: ['madrid'] },
       { title: { ko: '카스티야 이 레온', en: 'Castile and León' }, cityIds: ['segovia', 'salamanca'] },
@@ -441,7 +441,6 @@ export const countries: Country[] = [
       { title: { ko: '발렌시아 지방', en: 'Valencian Community' }, cityIds: ['valencia'] },
       { title: { ko: '발레아레스 제도', en: 'Balearic Islands' }, cityIds: ['palma'] },
       { title: { ko: '안달루시아', en: 'Andalusia' }, cityIds: ['seville', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja'] },
-      { title: { ko: '지브롤터 (영국령)', en: 'Gibraltar (UK)' }, cityIds: ['gibraltar'] },
       { title: { ko: '바스크', en: 'Basque Country' }, cityIds: ['bilbao', 'san-sebastian'] },
       { title: { ko: '갈리시아', en: 'Galicia' }, cityIds: ['santiago'] },
     ],
@@ -508,6 +507,35 @@ export const countries: Country[] = [
       { title: { ko: '중부', en: 'Central Portugal' }, cityIds: ['coimbra', 'fatima', 'nazare', 'obidos', 'lisbon', 'sintra', 'cascais'] },
       { title: { ko: '남부', en: 'Southern Portugal' }, cityIds: ['evora', 'lagos', 'faro', 'funchal'] },
     ],
+  },
+  {
+    id: 'gi',
+    name: { ko: '지브롤터', en: 'Gibraltar' },
+    nativeName: 'Gibraltar',
+    flagImage: '/flags/gi.svg',
+    landmarkImage: '/landmarks/landmark-gi.jpg',
+    flag: '🇬🇮',
+    blurb: {
+      ko: '이베리아반도 남쪽 끝의 영국 해외 영토. 바위산과 야생 원숭이, 아프리카가 보이는 해협.',
+      en: 'British Overseas Territory at the tip of Iberia—the Rock, its wild macaques and views across to Africa.',
+    },
+    facts: {
+      population: { ko: '약 3.8만 명', en: 'Approx. 38,000' },
+      area: { ko: '6.8 km²', en: '6.8 km²' },
+      capital: { ko: '지브롤터 (Gibraltar)', en: 'Gibraltar' },
+      currency: { ko: '지브롤터 파운드 (GIP, £) · 영국 파운드와 1:1, 영국 파운드도 사용', en: 'Gibraltar pound (GIP, £), at par with and alongside sterling' },
+    },
+    currencyCode: 'GBP',
+    currencySymbol: '£',
+    schengen: false,
+    flagColors: {
+      primary: '#DA000C',
+      secondary: '#FFFFFF',
+      accent: '#F8D80F',
+      background: '#FDE9EA',
+      text: '#3A0A0C',
+    },
+    cityIds: ['gibraltar'],
   },
   // —— 북유럽 ——
   {

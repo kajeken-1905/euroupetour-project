@@ -481,7 +481,6 @@ highlights/ronda-2.jpg | https://commons.wikimedia.org/wiki/File:Puente_Nuevo_an
 highlights/ronda-3.jpg | https://commons.wikimedia.org/wiki/File:PlazaDeTorosDeRonda.jpg | CC BY-SA 3.0 | Andreas Tille
 highlights/nerja-1.jpg | https://commons.wikimedia.org/wiki/File:Nerja,_the_"Balcón_de_Europa".jpg | CC BY 3.0 | Dguendel
 highlights/nerja-4.jpg | https://commons.wikimedia.org/wiki/File:Jesús_Enterrado_-_Iglesia_de_El_Salvador,_Nerja_(40678770894).jpg | CC BY-SA 2.0 | Haydn Blackey from Cardiff, Wales
-highlights/gibraltar-2.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_Cable_car_cabin_from_Queen's_Road.jpg | CC BY-SA 4.0 | Ymblanter
 cities/bilbao.jpg | https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_España.jpg | CC BY-SA 4.0 | José Ligero Loarte
 highlights/bilbao-2.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Casco_Viejo_10.jpg | CC0 | Zarateman
 highlights/santiago-1.jpg | https://commons.wikimedia.org/wiki/File:2010-Catedral_de_Santiago_de_Compostela-Galicia_(Spain)_3.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez

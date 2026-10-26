@@ -51,6 +51,10 @@ export const countryStamps: Record<string, StampIcon> = {
   uk: { kind: 'raster', width: 48, height: 124 },
   va: { kind: 'raster', width: 226, height: 234 },
   xk: { kind: 'raster', width: 191, height: 168 },
+  // The Rock of Gibraltar in its familiar profile, drawn by hand (no reference stamp exists).
+  gi: { kind: 'svg', width: 200, height: 112, markup: `<path d="M4,108 L4,100 L18,98 L30,92 L38,70 L44,40 L50,22 L58,12 L66,8 L74,12 L84,22 L98,30 L114,38 L132,48 L150,60 L168,74 L184,88 L196,100 L196,108 Z" fill="#8a8a8a"/>
+<path d="M44,40 L50,22 L58,12 L66,8 L62,30 L56,52 L48,74 L40,92 Z" fill="#a3a3a3"/>
+<path d="M4,108 L196,108" stroke="#8a8a8a" stroke-width="4"/>` },
   nl: { kind: 'svg', width: 80, height: 116, markup: `<path d="M32,108 L36,52 L44,52 L48,108 Z" fill="#8a8a8a"/>
 <path d="M35,52 L40,42 L45,52 Z" fill="#8a8a8a"/>
 <circle cx="40" cy="48" r="4" fill="#8a8a8a"/>

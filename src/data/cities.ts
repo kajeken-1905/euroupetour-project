@@ -11829,15 +11829,16 @@ export const cities: City[] = [
   },
   {
     id: "gibraltar",
-    countryId: "es",
+    countryId: "gi",
     lat: 36.1408,
     lng: -5.3536,
     signatureImage: "/cities/gibraltar.jpg",
     name: { ko: "지브롤터", en: "Gibraltar" },
     nativeName: "Gibraltar",
+    cardTagline: { ko: "지브롤터 바위산", en: "Rock of Gibraltar" },
     blurb: {
-      ko: "영국령 바위 항구 도시. 바위·케이블카·유인원이 상징이며 스페인 남부 당일치기로 많이 갑니다.",
-      en: "British rock territory—Upper Rock, cable car, macaques; popular Spain day trip.",
+      ko: "바위산 아래 작은 영국. 야생 원숭이와 동굴, 아프리카가 보이는 해협이 있고 스페인 남부에서 당일치기로 많이 갑니다.",
+      en: "A little Britain beneath the Rock, with wild macaques, caves and views across the strait to Africa; a popular day trip from southern Spain.",
     },
     highlights: [
       {
@@ -11850,21 +11851,21 @@ export const cities: City[] = [
       {
         id: "gibraltar-h2",
         name: { ko: "케이블카", en: "Gibraltar Cable Car" },
-        description: { ko: "바위 정상으로 오르는 케이블카입니다.", en: "Cable car to the Upper Rock." },
+        description: { ko: "시내에서 바위산 위 전망대까지 오르는 케이블카입니다. 맑은 날엔 바다 건너 아프리카가 보입니다.", en: "Cable car from town to the viewing terraces on the Rock; on a clear day you can see Africa across the sea." },
         image: "/highlights/gibraltar-2.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gibraltar%20Cable%20Car",
       },
       {
         id: "gibraltar-h3",
         name: { ko: "성 미카엘 동굴", en: "St. Michael's Cave" },
-        description: { ko: "조명 쇼가 있는 천연 동굴입니다.", en: "Lit natural show cave." },
+        description: { ko: "종유석이 늘어선 석회암 동굴로, 동굴 안 공연장에서 음악회도 열립니다.", en: "Limestone cave hung with stalactites, with an auditorium inside that hosts concerts." },
         image: "/highlights/gibraltar-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Michael%27s%20Cave%20Gibraltar",
       },
       {
         id: "gibraltar-h4",
         name: { ko: "바르버리 원숭이", en: "Barbary macaques" },
-        description: { ko: "유럽 유일의 야생 원숭이입니다.", en: "Europe’s only wild monkeys." },
+        description: { ko: "유럽에서 유일하게 야생 원숭이가 사는 곳입니다. 먹이 주기는 금지입니다.", en: "Home to Europe’s only wild monkeys. Feeding them is forbidden." },
         image: "/highlights/gibraltar-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Barbary%20macaques%20Gibraltar",
       },
@@ -11874,6 +11875,13 @@ export const cities: City[] = [
         description: { ko: "지중해·대서양이 만나는 남단입니다.", en: "Southern tip of the Rock." },
         image: "/highlights/gibraltar-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Europa%20Point%20Gibraltar",
+      },
+      {
+        id: "gibraltar-h6",
+        name: { ko: "대포위 터널", en: "Great Siege Tunnels" },
+        description: { ko: "대포위(1779~1783) 때 영국군이 바위를 뚫어 만든 포대 터널입니다.", en: "Gun galleries the British army cut into the Rock during the Great Siege (1779–1783)." },
+        image: "/highlights/gibraltar-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Great%20Siege%20Tunnels%20Gibraltar",
       }
     ],
   },

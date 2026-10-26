@@ -453,6 +453,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
   },
 
   // —— Southern Europe & the Mediterranean ——
+  gi: {
+    // Numbers from the Government of Gibraltar's contact page; Visit Gibraltar lists 999 as well.
+    emergency: [E112, num('999', '112와 같은 긴급 번호', 'Also an emergency number'), num('199', '경찰', 'Police'), num('190', '구급·소방', 'Ambulance and fire')],
+    embassy: {
+      ...EMB.es,
+      note: T(
+        '외교부 누리집에 지브롤터를 맡는 공관이 따로 나와 있지 않습니다. 가장 가까운 주스페인 대사관이나 영사콜센터(+82-2-3210-0404)에 연락하세요.',
+        'The Korean Foreign Ministry does not list a mission for Gibraltar. Contact the nearest one, the Korean Embassy in Spain, or the consular call centre (+82-2-3210-0404).',
+      ),
+    },
+    power: T('220~240V · 50Hz, G형(3핀) 콘센트. 한국 플러그는 맞지 않아 어댑터가 필요합니다.', '220–240V, 50Hz, type G (three-pin) sockets. Korean plugs do not fit; bring an adapter.'),
+    tipping: T('팁은 의무가 아닙니다. 계산서에 봉사료가 들어 있는지 먼저 확인하세요.', 'Tipping is not compulsory; check whether service is already on the bill.'),
+    water: WATER_OK,
+    shops: T('부가세가 없어 메인 스트리트에서 향수·화장품·술·담배를 싸게 살 수 있습니다. 유로와 카드도 대부분 받지만 거스름돈은 파운드로 받기 쉽고, 지브롤터 파운드 지폐는 영국에서 쓸 수 없습니다.', 'There is no VAT, so perfume, cosmetics, spirits and tobacco are cheap on Main Street. Euros and cards are widely accepted, but change usually comes in pounds, and Gibraltar notes are not accepted in the UK.'),
+    toilets: TOILETS_FREE,
+    time: TIME_CET,
+    safety: T('안전합니다. 영국 영토지만 차는 스페인처럼 우측통행입니다. 시내로 들어가는 도로가 공항 활주로를 가로질러, 비행기가 뜨고 내릴 때는 길이 잠시 막힙니다.', 'Safe. Though British, traffic drives on the right as in Spain. The road into town crosses the airport runway and closes briefly for take-offs and landings.'),
+    entry: T('솅겐 지역은 아니지만 2026년 7월 15일부터 단기 체류 규칙을 솅겐에 맞춰 180일 중 90일까지 머물 수 있습니다. 한국 여권은 비자가 필요 없습니다(지브롤터 정부 비자 면제국 목록). 스페인 라리네아에서 걸어서 국경을 넘을 수 있고 여권이 필요합니다.', 'Not in the Schengen area, but from 15 July 2026 short stays follow Schengen rules: up to 90 days in any 180. Korean passports need no visa (Government of Gibraltar visa-exempt list). You can walk across the border from La Línea in Spain; bring your passport.'),
+    telecom: telNonEU('Gibtelecom', '지브롤터는 EU 밖이라 로밍 요금이 붙을 수 있고 스페인 통신망에 잡히기도 하니', 'Gibraltar is outside the EU, so roaming may be charged and phones sometimes latch onto Spanish networks;'),
+  },
   mt: {
     emergency: [E112],
     embassy: covering('it', '몰타', 'Malta'),
