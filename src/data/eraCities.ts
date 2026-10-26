@@ -131,6 +131,21 @@ export const ERA_GROUPS: EraGroup[] = [
     ],
   },
   {
+    id: 'university',
+    kind: 'culture',
+    title: { ko: '대학 도시', en: 'University towns' },
+    period: { ko: '11~13세기 설립', en: 'Founded 11th–13th century' },
+    note: { ko: '유럽에서 가장 오래된 대학들이 도시의 얼굴이 된 곳', en: "Towns shaped by Europe's oldest universities" },
+    cityIds: [
+      'bologna', // c. 1088 by the university's own convention
+      'oxford', // teaching recorded by 1096
+      'cambridge', // scholars from Oxford, 1209
+      'salamanca', // Alfonso IX of León, 1218
+      'padua', // scholars from Bologna, 1222
+      'coimbra', // King Dinis's charter, 1290 (settled in Coimbra from 1537)
+    ],
+  },
+  {
     id: 'alps',
     kind: 'nature',
     title: { ko: '알프스', en: 'The Alps' },
