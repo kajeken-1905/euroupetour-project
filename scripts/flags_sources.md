@@ -10,3 +10,6 @@ Two edits on each file's root <svg>:
 - `preserveAspectRatio="xMidYMid slice"` so the flag fills the box on the map (country outline clip)
   instead of sitting letterboxed in the middle.
 - gi.svg — File:Flag_of_Gibraltar.svg (public domain), added 2026-10-26
+- im.svg — File:Flag_of_the_Isle_of_Man.svg (CC0), added 2026-10-26
+- je.svg — File:Flag_of_Jersey.svg (public domain), added 2026-10-26
+- gg.svg — File:Flag_of_Guernsey.svg (CC0), added 2026-10-26

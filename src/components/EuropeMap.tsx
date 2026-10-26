@@ -74,6 +74,8 @@ const MICRO_STATE_COORDS: Record<string, [number, number]> = {
   sm: [12.4578, 43.9424],
   va: [12.4534, 41.9029],
   gi: [-5.3536, 36.1408],
+  je: [-2.107, 49.1858],
+  gg: [-2.536, 49.456],
 }
 
 const isoToCountry = new Map(countries.map((c) => [countryIsoMap[c.id], c]))

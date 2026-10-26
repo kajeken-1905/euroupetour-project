@@ -51,6 +51,21 @@ export const countryStamps: Record<string, StampIcon> = {
   uk: { kind: 'raster', width: 48, height: 124 },
   va: { kind: 'raster', width: 226, height: 234 },
   xk: { kind: 'raster', width: 191, height: 168 },
+  // Hand-drawn like gi: the Great Laxey Wheel (im), Mont Orgueil on its headland (je), Castle Cornet's tower (gg).
+  im: { kind: 'svg', width: 150, height: 150, markup: `<circle cx="75" cy="62" r="52" fill="none" stroke="#8a8a8a" stroke-width="6"/>
+<circle cx="75" cy="62" r="8" fill="#8a8a8a"/>
+<g stroke="#8a8a8a" stroke-width="3"><line x1="75" y1="10" x2="75" y2="114"/><line x1="23" y1="62" x2="127" y2="62"/><line x1="38" y1="25" x2="112" y2="99"/><line x1="112" y1="25" x2="38" y2="99"/></g>
+<path d="M30,146 L42,96 L108,96 L120,146 Z" fill="#8a8a8a"/>
+<path d="M66,146 L66,124 Q75,112 84,124 L84,146 Z" fill="#c9c9c9"/>` },
+  je: { kind: 'svg', width: 200, height: 130, markup: `<path d="M0,126 L30,112 L60,100 L80,92 L150,92 L176,104 L200,116 L200,126 Z" fill="#a3a3a3"/>
+<path d="M66,92 L66,52 L74,52 L74,44 L82,44 L82,52 L92,52 L92,30 L100,30 L100,22 L108,22 L108,30 L116,30 L116,52 L126,52 L126,44 L134,44 L134,52 L142,52 L142,92 Z" fill="#8a8a8a"/>
+<rect x="100" y="60" width="6" height="12" fill="#c9c9c9"/><rect x="78" y="66" width="5" height="9" fill="#c9c9c9"/>` },
+  gg: { kind: 'svg', width: 180, height: 140, markup: `<path d="M0,136 L20,118 L160,118 L180,136 Z" fill="#a3a3a3"/>
+<path d="M30,118 L30,84 L150,84 L150,118 Z" fill="#8a8a8a"/>
+<path d="M30,84 L30,76 L38,76 L38,84 M50,84 L50,76 L58,76 L58,84 M122,84 L122,76 L130,76 L130,84 M142,84 L142,76 L150,76 L150,84" fill="#8a8a8a" stroke="#8a8a8a" stroke-width="2"/>
+<path d="M72,84 L72,36 L108,36 L108,84 Z" fill="#8a8a8a"/>
+<path d="M68,36 L68,28 L76,28 L76,36 M86,36 L86,28 L94,28 L94,36 M104,36 L104,28 L112,28 L112,36" fill="#8a8a8a" stroke="#8a8a8a" stroke-width="2"/>
+<rect x="86" y="50" width="8" height="14" fill="#c9c9c9"/>` },
   // The Rock of Gibraltar in its familiar profile, drawn by hand (no reference stamp exists).
   gi: { kind: 'svg', width: 200, height: 112, markup: `<path d="M4,108 L4,100 L18,98 L30,92 L38,70 L44,40 L50,22 L58,12 L66,8 L74,12 L84,22 L98,30 L114,38 L132,48 L150,60 L168,74 L184,88 L196,100 L196,108 Z" fill="#8a8a8a"/>
 <path d="M44,40 L50,22 L58,12 L66,8 L62,30 L56,52 L48,74 L40,92 Z" fill="#a3a3a3"/>

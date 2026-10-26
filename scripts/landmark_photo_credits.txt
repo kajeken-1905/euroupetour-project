@@ -619,3 +619,38 @@ highlights/gibraltar-4.jpg | https://commons.wikimedia.org/wiki/File:Barbary_Mac
 highlights/gibraltar-3.jpg | https://commons.wikimedia.org/wiki/File:St._Michaels_Cave,_Gibraltar_(10).jpg | CC BY-SA 2.0 | Bjørn from Oslo, Norway
 highlights/gibraltar-6.jpg | https://commons.wikimedia.org/wiki/File:Great_Siege_Tunnel_gunners_reconstruction.jpg | CC BY-SA 3.0 | Prioryman
 highlights/gibraltar-5.jpg | https://commons.wikimedia.org/wiki/File:Europa_Point_Lighthouse,_Gibraltar_20.JPG | CC BY-SA 3.0 | John Cummings
+landmarks/landmark-im.jpg | https://commons.wikimedia.org/wiki/File:Grove_Isle_views_of_Coconut_Grove_at_sunset.jpg | CC BY-SA 4.0 | 2GroveIsleroo
+cities/douglas.jpg | https://commons.wikimedia.org/wiki/File:Chesterhouse_Hotel,_37-42_Loch_Promenade,_Douglas_-_geograph.org.uk_-_6279551.jpg | CC BY-SA 2.0 | Jo and Steve Turner
+highlights/douglas-1.jpg | https://commons.wikimedia.org/wiki/File:Isle_of_Man_-_Douglas_-_Kingswood_Grove_-_Manx_Museum_20240219_original_entrance.jpg | CC BY-SA 4.0 | Otter
+highlights/douglas-2.jpg | https://commons.wikimedia.org/wiki/File:Douglas-Horse-Tramway-IOM-CIMG0417_(45294768941).jpg | CC0 | citytransportinfo
+highlights/douglas-3.jpg | https://commons.wikimedia.org/wiki/File:Douglas_Douglas_Head_View_to_the_Tower_of_Refuge_3.jpg | CC BY 4.0 | Zairon
+highlights/douglas-4.jpg | https://commons.wikimedia.org/wiki/File:Laxey_-_Laxey_Wheel_(Lady_Isabella)_-_geograph.org.uk_-_1672798.jpg | CC BY-SA 2.0 | Joseph Mischyshyn
+highlights/douglas-5.jpg | https://commons.wikimedia.org/wiki/File:Car_No_6_of_the_Snaefell_Mountain_Railway_-_geograph.org.uk_-_4504153.jpg | CC BY-SA 2.0 | Dr Neil Clifton
+cities/castletown.jpg | https://commons.wikimedia.org/wiki/File:Castletown,_Isle_of_Man_-_panoramio_(24).jpg | CC BY-SA 3.0 | Lobster1
+highlights/castletown-1.jpg | https://commons.wikimedia.org/wiki/File:Castle_Rushen_from_the_harbour_(cropped)2.jpg | CC BY-SA 3.0 | Manxruler
+highlights/castletown-2.jpg | https://commons.wikimedia.org/wiki/File:Isle_of_Man_-_Castletown_-_Parliament_Square_-_Old_House_of_Keys_20240222.jpg | CC BY-SA 4.0 | Otter
+highlights/castletown-3.jpg | https://commons.wikimedia.org/wiki/File:Nautical_Museum_(50269964983).jpg | CC BY-SA 2.0 | Michael Coghlan from Adelaide, Australia
+cities/peel.jpg | https://commons.wikimedia.org/wiki/File:Peel_-_Peel_Bay_Beach_-_geograph.org.uk_-_1719663.jpg | CC BY-SA 2.0 | Joseph Mischyshyn
+highlights/peel-1.jpg | https://commons.wikimedia.org/wiki/File:Peel_Peel_Castle_Exterior_1.jpg | CC BY 4.0 | Zairon
+highlights/peel-2.jpg | https://commons.wikimedia.org/wiki/File:House-of-Manannan_Peel-Man_02.jpg | CC BY-SA 3.0 | FinnWikiNo
+landmarks/landmark-je.jpg | https://commons.wikimedia.org/wiki/File:Jersey_-_Mont_Orgueil_01.jpg | CC BY-SA 3.0 | Paweł 'pbm' Szubert (talk)
+cities/st-helier.jpg | https://commons.wikimedia.org/wiki/File:St._Helier_Harbour_-_panoramio.jpg | CC BY 3.0 | georama
+highlights/st-helier-1.jpg | https://commons.wikimedia.org/wiki/File:Elizabeth_Castle_Jersey_2.jpg | CC BY 3.0 | Dan Marsh
+highlights/st-helier-2.jpg | https://commons.wikimedia.org/wiki/File:Jersey_War_Tunnels_entrance_-_50417634442_Hohlgangsanlage_8,_German_WW2_Underground_Hospital,_Museum_in_St._Lawrence_2020.jpg | CC BY-SA 2.0 | mattk1979
+highlights/st-helier-3.jpg | https://commons.wikimedia.org/wiki/File:Death_of_Major_Peirson_Jersey_Museum_2012_6.jpg | Public domain | Man vyi
+highlights/st-helier-4.jpg | https://commons.wikimedia.org/wiki/File:St_Helier_Market_Jersey_.jpg | CC BY 3.0 | Mailolstar
+highlights/st-helier-5.jpg | https://commons.wikimedia.org/wiki/File:La_M%C3%AAnag%27gie_d%27J%C3%A8rri_siez_Durrell_2013_149.jpg | Public domain | Man vyi
+cities/gorey.jpg | https://commons.wikimedia.org/wiki/File:Gorey_Harbour,_St_Martin,_Jersey.JPG | CC BY-SA 3.0 | Danrok
+highlights/gorey-1.jpg | https://commons.wikimedia.org/wiki/File:Jersey_-_Mont_Orgueil_01.jpg | CC BY-SA 3.0 | Paweł 'pbm' Szubert (talk)
+highlights/gorey-2.jpg | https://commons.wikimedia.org/wiki/File:Gorey_Harbour.jpg | CC BY-SA 2.0 | Tom Page
+highlights/gorey-3.jpg | https://commons.wikimedia.org/wiki/File:La_Hougue_Bie_2013_06.jpg | Public domain | Man vyi
+landmarks/landmark-gg.jpg | https://commons.wikimedia.org/wiki/File:Castle_Cornet_St_Peter_Port_Guernsey_Channel_Islands_(181530869).jpeg | CC0 | Pawel Owsinski
+cities/st-peter-port.jpg | https://commons.wikimedia.org/wiki/File:St_Julian%27s_Pier,_Saint_Peter_Port,_Guernsey_(49523231971).jpg | CC BY 2.0 | Andrew Milligan sumo
+highlights/st-peter-port-1.jpg | https://commons.wikimedia.org/wiki/File:Castle_Cornet,_Guernsey.jpg | CC0 | TheKaphox
+highlights/st-peter-port-2.jpg | https://commons.wikimedia.org/wiki/File:Hauteville_House,_St-Peter_Port,_Guernesey_(48030449478).jpg | CC BY 2.0 | Gilles Messian from Paris, France
+highlights/st-peter-port-3.jpg | https://commons.wikimedia.org/wiki/File:The_Little_Chapel,_Guernsey,_in_2024.jpg | CC BY-SA 4.0 | Michael D. Turnbull
+highlights/st-peter-port-4.jpg | https://commons.wikimedia.org/wiki/File:Candie_Cardens_in_St._Peter_Port,_Guernsey_(Unsplash).jpg | CC0 | Enrapture Media enrapture
+highlights/st-peter-port-5.jpg | https://commons.wikimedia.org/wiki/File:Occupation_Museum_in_Guernsey_2.jpg | CC BY 2.0 | Heather Cowper
+cities/sark.jpg | https://commons.wikimedia.org/wiki/File:Sark-aerial.jpg | CC BY 2.0 | Phillip Capper
+highlights/sark-1.jpg | https://commons.wikimedia.org/wiki/File:Sark_Coupee.jpg | CC BY-SA 3.0 | Clemensfranz
+highlights/sark-2.jpg | https://commons.wikimedia.org/wiki/File:Seigneurie_Gardens_on_Sark_(7155536499).jpg | CC BY 2.0 | Heather Cowper from Bristol, UK

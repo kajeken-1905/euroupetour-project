@@ -50,6 +50,23 @@ const EMB: Record<string, Embassy> = {
   ru: { name: T('주러시아 대한민국 대사관', 'Korean Embassy in Russia'), address: 'Plyushchikha St. 56 bldg 1, Moscow', phone: '+7-495-783-2727', source: site('ru') },
 }
 
+/** British Crown Dependencies: the Korean Foreign Ministry lists no mission of their own. */
+const CROWN_EMBASSY = (ko: string, en: string): Embassy => ({
+  ...EMB.uk,
+  note: T(
+    `외교부 누리집에 ${ko} 관할 공관이 따로 나와 있지 않습니다. 영국 왕실령이라 주영국 대사관이나 영사콜센터(+82-2-3210-0404)에 연락하세요.`,
+    `The Korean Foreign Ministry lists no mission for ${en}. As a British Crown Dependency, contact the Korean Embassy in the UK or the consular call centre (+82-2-3210-0404).`,
+  ),
+})
+const ENTRY_CROWN = (ko: string, en: string) =>
+  T(
+    `솅겐 지역이 아닙니다. 한국 여권은 비자가 필요 없지만, 2026년 4월 23일부터 ${ko}도 전자여행허가(ETA)를 받아야 합니다. 영국이나 저지·건지·맨섬에서 받은 ETA는 네 곳 모두에서 쓸 수 있습니다.`,
+    `Not in the Schengen area. Korean passports need no visa, but since 23 April 2026 ${en} requires an Electronic Travel Authorisation (ETA). An ETA issued by the UK, Jersey, Guernsey or the Isle of Man is valid for all four.`,
+  )
+const CROWN_ROAM_KO = 'EU 로밍은 물론 영국 유심도 이 섬에서는 로밍 요금이 붙을 수 있으니'
+const CROWN_ROAM_EN = 'EU roaming and even UK SIMs may be charged extra here, so'
+const TIP_CHECK_BILL = T('팁은 의무가 아닙니다. 계산서에 봉사료가 들어 있는지 먼저 확인하세요.', 'Tipping is not compulsory; check whether service is already on the bill.')
+
 /** Embassy in another country that also covers this one. */
 function covering(key: string, koCountry: string, enCountry: string): Embassy {
   const base = EMB[key]
@@ -147,6 +164,46 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     safety: T('런던 중심가에서 자전거·전동 킥보드를 탄 휴대전화 날치기가 늘었습니다. 길가에서 휴대전화를 들고 있지 말고, 지하철과 관광지에서는 소매치기를 조심하세요. 차는 좌측통행입니다.', 'Phone snatching by riders on bikes and e-scooters has risen in central London—avoid holding your phone at the kerb, and watch for pickpockets on the Tube and at sights. Traffic drives on the left.'),
     entry: T('솅겐 지역이 아닙니다. 한국 여권은 비자 없이 6개월까지 머물 수 있지만, 출발 전에 온라인으로 전자여행허가(ETA)를 받아야 합니다.', 'Not in the Schengen area. Korean passport holders can stay up to 6 months without a visa but must obtain an Electronic Travel Authorisation (ETA) online before travelling.'),
     telecom: telNonEU('EE, Vodafone, O2, Three', '브렉시트 이후 EU 유심의 영국 로밍은 통신사마다 다르니', 'Since Brexit, EU SIM roaming in the UK depends on the operator, so'),
+  },
+  // Crown Dependencies: UK-style 999/112, and since 23 April 2026 their own ETA schemes, valid across the UK and all three.
+  im: {
+    emergency: [num('999', '긴급 전화(경찰·구급·소방)', 'Emergency (police, ambulance, fire)'), num('112', '999와 같은 번호', 'Works the same as 999')],
+    embassy: CROWN_EMBASSY('맨섬', 'the Isle of Man'),
+    power: POWER_G,
+    tipping: TIP_CHECK_BILL,
+    water: WATER_OK,
+    shops: T('영국과 같은 부가세가 붙습니다. 맨섬 파운드 지폐와 동전은 영국 본토에서 잘 받지 않으니 떠나기 전에 쓰거나 바꾸세요.', 'VAT is charged as in the UK. Manx notes and coins are rarely accepted in mainland Britain, so spend or change them before you leave.'),
+    toilets: TOILETS_FREE,
+    time: TIME_WET,
+    safety: T('안전합니다. 차는 좌측통행입니다. 5월 말~6월 초 TT 오토바이 경주 기간에는 도로가 통제되고 숙소와 배편이 일찍 찹니다.', 'Safe. Traffic drives on the left. During the TT motorcycle races (late May to early June) roads close and rooms and ferries book up early.'),
+    entry: ENTRY_CROWN('맨섬', 'the Isle of Man'),
+    telecom: telNonEU('Manx Telecom, Sure', CROWN_ROAM_KO, CROWN_ROAM_EN),
+  },
+  je: {
+    emergency: [num('999', '긴급 전화(경찰·구급·소방)', 'Emergency (police, ambulance, fire)'), num('112', '999와 같은 번호', 'Works the same as 999')],
+    embassy: CROWN_EMBASSY('저지', 'Jersey'),
+    power: POWER_G,
+    tipping: TIP_CHECK_BILL,
+    water: WATER_OK,
+    shops: T('부가세 대신 5% 물품·서비스세(GST)가 붙어 영국보다 조금 쌉니다. 저지 파운드 지폐는 영국 본토에서 잘 받지 않으니 떠나기 전에 쓰세요.', 'A 5% goods and services tax replaces VAT, so prices run a little below the UK. Jersey notes are rarely accepted in mainland Britain, so spend them before you leave.'),
+    toilets: TOILETS_FREE,
+    time: TIME_WET,
+    safety: T('안전합니다. 차는 좌측통행입니다. 조수 간만의 차가 매우 커서 갯벌이나 썰물 때 건너는 길(엘리자베스 성 등)은 물때표를 꼭 확인하세요.', 'Safe. Traffic drives on the left. The tidal range is huge—check tide tables before walking out on the sands or tidal causeways such as Elizabeth Castle\'s.'),
+    entry: ENTRY_CROWN('저지', 'Jersey'),
+    telecom: telNonEU('JT, Sure', CROWN_ROAM_KO, CROWN_ROAM_EN),
+  },
+  gg: {
+    emergency: [num('999', '긴급 전화(경찰·구급·소방)', 'Emergency (police, ambulance, fire)'), num('112', '999와 같은 번호', 'Works the same as 999')],
+    embassy: CROWN_EMBASSY('건지', 'Guernsey'),
+    power: POWER_G,
+    tipping: TIP_CHECK_BILL,
+    water: WATER_OK,
+    shops: T('부가세가 없습니다. 건지 파운드 지폐는 영국 본토에서 잘 받지 않으니 떠나기 전에 쓰세요. 사크섬은 현금만 받는 곳이 있습니다.', 'There is no VAT. Guernsey notes are rarely accepted in mainland Britain, so spend them before you leave. Some places on Sark take cash only.'),
+    toilets: TOILETS_FREE,
+    time: TIME_WET,
+    safety: T('안전합니다. 차는 좌측통행이고 길이 좁습니다. 사크섬은 자동차가 다니지 않아 걷거나 자전거·마차를 이용합니다.', 'Safe. Traffic drives on the left on narrow lanes. Sark has no cars—walk, cycle or take a horse and cart.'),
+    entry: ENTRY_CROWN('건지', 'Guernsey'),
+    telecom: telNonEU('Sure, JT', CROWN_ROAM_KO, CROWN_ROAM_EN),
   },
   ie: {
     emergency: [num('112', '긴급 전화(경찰·구급·소방)', 'Emergency (police, ambulance, fire)'), num('999', '112와 같은 번호', 'Works the same as 112')],
@@ -464,7 +521,7 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
       ),
     },
     power: T('220~240V · 50Hz, G형(3핀) 콘센트. 한국 플러그는 맞지 않아 어댑터가 필요합니다.', '220–240V, 50Hz, type G (three-pin) sockets. Korean plugs do not fit; bring an adapter.'),
-    tipping: T('팁은 의무가 아닙니다. 계산서에 봉사료가 들어 있는지 먼저 확인하세요.', 'Tipping is not compulsory; check whether service is already on the bill.'),
+    tipping: TIP_CHECK_BILL,
     water: WATER_OK,
     shops: T('부가세가 없어 메인 스트리트에서 향수·화장품·술·담배를 싸게 살 수 있습니다. 유로와 카드도 대부분 받지만 거스름돈은 파운드로 받기 쉽고, 지브롤터 파운드 지폐는 영국에서 쓸 수 없습니다.', 'There is no VAT, so perfume, cosmetics, spirits and tobacco are cheap on Main Street. Euros and cards are widely accepted, but change usually comes in pounds, and Gibraltar notes are not accepted in the UK.'),
     toilets: TOILETS_FREE,
