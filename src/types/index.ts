@@ -34,6 +34,8 @@ export interface CountryTransit {
   nationalPasses?: { ko: string; en: string }
   paymentTip?: { ko: string; en: string }
   apps?: TransitApp[]
+  /** Step-by-step how-to for the country's main transport app, from the operator's help pages. */
+  appGuide?: { title: { ko: string; en: string }; steps: { ko: string; en: string }[]; source: string }
 }
 
 /** City-level how-to (modes, airport, tickets, apps). */

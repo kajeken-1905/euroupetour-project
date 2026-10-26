@@ -270,6 +270,7 @@ export const ui = {
   transitLongDistance: { ko: '도시 간 이동', en: 'Between cities' },
   transitPasses: { ko: '패스·할인', en: 'Passes' },
   transitPayment: { ko: '결제 팁', en: 'Payment tip' },
+  transitGuideSource: { ko: '공식 도움말', en: 'Official help' },
   transitMode_metro: { ko: '메트로', en: 'Metro' },
   transitMode_tram: { ko: '트램', en: 'Tram' },
   transitMode_bus: { ko: '버스', en: 'Bus' },

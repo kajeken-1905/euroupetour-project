@@ -1840,6 +1840,28 @@ button.back-link {
   border-top: 1px solid var(--line);
 }
 
+.transit-guide {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 14px;
+}
+
+.transit-guide summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.transit-guide ol {
+  margin: 10px 0;
+  padding-left: 20px;
+  line-height: 1.55;
+}
+
+.transit-guide li + li {
+  margin-top: 6px;
+}
+
 .transit-apps-label {
   display: block;
   margin-bottom: 8px;

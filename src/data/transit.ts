@@ -219,6 +219,37 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('sbb', { ko: '기차·버스', en: 'Trains & buses' }),
       ta('uber', { ko: '취리히·제네바 등', en: 'Zürich, Geneva etc.' }),
     ],
+    // SBB's EasyRide pages and FAQ, checked 2026-10.
+    appGuide: {
+      title: { ko: 'SBB Mobile 사용법', en: 'Using SBB Mobile' },
+      steps: [
+        {
+          ko: '표 사기: 출발지·도착지로 열차를 검색해 고르고, 일행과 좌석 예약을 넣은 뒤 결제합니다.',
+          en: 'Buying a ticket: search your connection, pick it, add companions and seat reservations, then pay.',
+        },
+        {
+          ko: 'EasyRide 체크인: 차량이 출발하기 전에 시작 버튼을 왼쪽에서 오른쪽으로 밉니다. 출발 뒤에 하면 무임승차로 처리됩니다.',
+          en: 'EasyRide check-in: swipe the start button from left to right before the vehicle departs—checking in after departure counts as travelling without a ticket.',
+        },
+        {
+          ko: '체크아웃: 내린 뒤 반대 방향으로 밉니다. 갈아탈 때는 체크아웃하지 않아도 되고, 기차·버스·트램·배에 모두 씁니다.',
+          en: 'Check-out: swipe back after you get off. No need to check out when changing; it works on trains, buses, trams and boats.',
+        },
+        {
+          ko: '요금: 탄 경로를 계산해 가장 싼 표를 끊고, 하루 요금이 1일권보다 많으면 1일권 값만 냅니다. 등록한 카드로 자동 결제되고, 반값 할인 카드 등 정기권은 SwissPass에 넣어 두면 자동 적용됩니다.',
+          en: 'Fares: it works out the cheapest ticket for the route you rode and caps the day at the day-pass price, charging your stored card; travelcards such as Half Fare apply automatically once loaded on your SwissPass.',
+        },
+        {
+          ko: '켜 둘 것: 블루투스(근처 기기)와 위치(항상 허용)를 체크인부터 체크아웃까지 켜 두세요. 블루투스를 끄면 체크아웃이 안 됩니다. 지하 정류장에서는 지상에서 미리 체크인하세요.',
+          en: 'Keep Bluetooth (nearby devices) and location (“always”) on from check-in to check-out—without Bluetooth you cannot check out. At underground stops, check in while still above ground.',
+        },
+        {
+          ko: '주의: 체크아웃을 잊었을 때 오는 알림은 SBB도 보장하지 않습니다. 내리면 바로 직접 체크아웃하세요.',
+          en: 'Note: SBB does not guarantee the forgotten-check-out reminder, so check out yourself as soon as you alight.',
+        },
+      ],
+      source: 'https://www.sbb.ch/en/help-and-contact/products-services/apps/sbb-mobile-sbb-preview/faq-easyride.html',
+    },
   },
   at: {
     summary: {

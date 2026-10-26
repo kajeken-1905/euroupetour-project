@@ -112,6 +112,19 @@ export function TransitCountryPanel({ transit }: { transit: CountryTransit }) {
         {transit.apps && transit.apps.length > 0 ? (
           <TransitAppList apps={transit.apps} lang={lang} />
         ) : null}
+        {transit.appGuide ? (
+          <details className="transit-guide">
+            <summary>{transit.appGuide.title[lang]}</summary>
+            <ol>
+              {transit.appGuide.steps.map((step) => (
+                <li key={step.en}>{step[lang]}</li>
+              ))}
+            </ol>
+            <a className="plan-map-link" href={transit.appGuide.source} target="_blank" rel="noopener noreferrer">
+              {t('transitGuideSource', lang)} ↗
+            </a>
+          </details>
+        ) : null}
       </div>
     </section>
   )
