@@ -1,0 +1,32 @@
+import { place } from './placeFactory'
+import type { Place } from '../types'
+
+// Moscow bakeries and Korean places from the T—Zh (t-j.ru) lists of April 2026; cafés from Afisha Daily
+// (2023) rechecked against Restoclub and KudaGo; restaurants against their own websites.
+export const placesRUExtra: Place[] = [
+  // —— moscow ——
+  place('moscow-fine_dining-1', 'moscow', 'fine_dining', 'Café Pushkin', 'Tverskoy Bulvar 26A, Moscow', '트베르스코이 거리의 19세기 귀족 저택처럼 꾸민 러시아 요리 레스토랑.', 'Russian restaurant on Tverskoy Boulevard, styled as a 19th-century aristocratic mansion.'),
+  place('moscow-fine_dining-2', 'moscow', 'fine_dining', 'White Rabbit', 'Smolenskaya Square 3, 16th floor (Smolensky Passage), Moscow', '스몰렌스키 파사주 16층 레스토랑. 블라디미르 무힌 셰프가 옛 러시아 요리를 현대식으로 냅니다.', 'Sixteenth-floor restaurant in Smolensky Passage where chef Vladimir Mukhin reworks old Russian cooking.'),
+  place('moscow-fine_dining-3', 'moscow', 'fine_dining', 'Dr. Zhivago', 'Mokhovaya St 15/1, Hotel National, Moscow', '크렘린 맞은편 나치오날 호텔 1층의 러시아 요리 카페.', 'Russian café on the ground floor of the Hotel National, across from the Kremlin.'),
+
+  place('moscow-bakery-1', 'moscow', 'bakery', 'Masa Madre', 'Solyanka St 1/2 bldg 1, Moscow', '빵과 시나몬 멍키 브레드, 바스크 치즈케이크로 알려진 베이커리.', 'Bakery known for its bread, cinnamon monkey bread and Basque cheesecake.'),
+  place('moscow-bakery-2', 'moscow', 'bakery', 'Pechorin', 'Shabolovka St 19, Moscow', '여러 종류의 수제 빵과 점심 메뉴를 내는 베이커리.', 'Bakery with many kinds of artisan bread and full lunches.'),
+  place('moscow-bakery-3', 'moscow', 'bakery', 'Bulka', 'Pokrovka St 19, Moscow', '갓 구운 빵과 작은 페이스트리를 파는 베이커리.', 'Bakery selling fresh bread and small pastries.'),
+  place('moscow-bakery-4', 'moscow', 'bakery', 'La Poste', 'Myasnitskaya St 13 bldg 3, Moscow', '바게트와 카늘레 같은 프랑스식 빵을 굽는 베이커리.', 'French-style bakery for baguettes and canelés.'),
+
+  place('moscow-cafe-1', 'moscow', 'cafe', 'YCP', 'Myasnitskaya St 13 bldg 24, Moscow', '게이샤 같은 희귀 원두를 내는 치스티예 프루디 근처 스페셜티 커피숍.', 'Specialty coffee bar near Chistye Prudy serving rare lots such as Gesha.'),
+  place('moscow-cafe-2', 'moscow', 'cafe', 'Cream Soda', 'Myasnitskaya St 15, Moscow', '낮에는 스페셜티 커피, 저녁에는 사이더 칵테일 바가 되는 카페.', 'Specialty coffee by day, cider-cocktail bar by night.'),
+  place('moscow-cafe-3', 'moscow', 'cafe', 'Erna', 'Bolshaya Polyanka St 44/2, Moscow', '북유럽풍 인테리어의 미니멀한 스페셜티 커피숍.', 'Minimalist specialty coffee shop with a Scandinavian interior.'),
+
+  place('moscow-korean-1', 'moscow', 'korean', 'Белый журавль (White Crane)', 'Frunzenskaya Embankment 14, Moscow', '2000년부터 영업한 한식당. 테이블 불판에서 고기를 굽습니다.', 'Korean restaurant open since 2000, with grills set into the tables.'),
+  place('moscow-korean-2', 'moscow', 'korean', 'Кимчи (Kimchi)', 'Stremyanny Pereulok 26, Moscow', '메뉴가 간단하고 값이 싼 한식 분식집.', 'Inexpensive Korean snack bar with a short menu.'),
+  place('moscow-korean-3', 'moscow', 'korean', 'Hite', 'Ulitsa 1905 Goda 2 bldg 1, Moscow', '테이블에 불판이 있는 한국식 바비큐.', 'Korean barbecue with burners built into the tables.'),
+  place('moscow-korean-4', 'moscow', 'korean', 'Kook', 'Petrovsky Bulvar 15 bldg 1, Moscow', '현대식 한국 길거리 음식을 내는 비스트로.', 'Bistro serving modern Korean street food.'),
+
+  // —— saint-petersburg ——
+  place('saint-petersburg-fine_dining-1', 'saint-petersburg', 'fine_dining', 'Palkin', 'Nevsky Prospekt 47, Saint Petersburg', '넵스키 대로의 러시아 요리 레스토랑. 에르미타주 전문가들이 실내 복원을 맡았습니다.', 'Russian restaurant on Nevsky Prospekt whose interiors were restored under Hermitage specialists.'),
+
+  // —— kazan ——
+  place('kazan-fine_dining-1', 'kazan', 'fine_dining', 'Tatar by Tubatay', 'Shigabutdina Mardzhani St 4, Kazan', '크렘린 근처의 타타르 요리 레스토랑. 2주쯤 전에 예약이 차기도 합니다.', 'Tatar restaurant near the Kremlin; tables are often booked about two weeks ahead.'),
+  place('kazan-fine_dining-2', 'kazan', 'fine_dining', 'Татарская усадьба (Tatar Estate)', 'Shigabutdina Mardzhani St 8, Kazan', '옛 타타르 마을 분위기의 호텔 레스토랑. 아주와 말고기 요리 같은 타타르 음식을 냅니다.', 'Hotel restaurant styled on the old Tatar quarter, serving Tatar dishes such as azu and braised horse meat.'),
+]

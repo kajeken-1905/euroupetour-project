@@ -51,6 +51,13 @@ import { placesMTExtra } from './places-mt-extra'
 import { placesEEExtra } from './places-ee-extra'
 import { placesLVExtra } from './places-lv-extra'
 import { placesLTExtra } from './places-lt-extra'
+import { placesRUExtra } from './places-ru-extra'
+import { placesIMExtra } from './places-im-extra'
+import { placesJEExtra } from './places-je-extra'
+import { placesGGExtra } from './places-gg-extra'
+import { placesFOExtra } from './places-fo-extra'
+import { placesGLExtra } from './places-gl-extra'
+import { placesXCExtra } from './places-xc-extra'
 import { sortByRating } from '../utils/sortByRating'
 
 export const places: Place[] = [
@@ -100,6 +107,13 @@ export const places: Place[] = [
   ...placesEEExtra,
   ...placesLVExtra,
   ...placesLTExtra,
+  ...placesRUExtra,
+  ...placesIMExtra,
+  ...placesJEExtra,
+  ...placesGGExtra,
+  ...placesFOExtra,
+  ...placesGLExtra,
+  ...placesXCExtra,
   ...placesUAExtra,
   ...placesMDExtra,
   ...placesAMExtra,
