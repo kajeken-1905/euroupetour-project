@@ -23,8 +23,7 @@ export const ERA_GROUPS: EraGroup[] = [
       'athens', // Parthenon, 5th century BC
       'rome', // Colosseum, AD 80
       'istanbul', // Hagia Sophia, 537
-      'pompeii', // buried by Vesuvius, AD 79
-      'split', // Diocletian's Palace, early 4th century
+      'dubrovnik', // founded in the 7th century by refugees from Roman Epidaurum
     ],
   },
   {
@@ -63,7 +62,6 @@ export const ERA_GROUPS: EraGroup[] = [
     note: { ko: '바다로 나간 왕국과 화려한 바로크 궁전', en: 'Seafaring kingdoms and lavish Baroque palaces' },
     cityIds: [
       'lisbon', // Jerónimos Monastery, begun 1502
-      'seville', // sole port for the Americas trade in the 16th century
       'amsterdam', // 17th-century canal ring
       'porto', // Clérigos Tower, 18th century
       'madrid', // Royal Palace, 18th century
@@ -121,8 +119,7 @@ export const ERA_GROUPS: EraGroup[] = [
     note: { ko: '모스크와 궁전, 성당이 한 도시에 겹친 풍경', en: 'Mosques, palaces and cathedrals layered in one city' },
     cityIds: [
       'granada', // Alhambra, 13th–14th century
-      'cordoba', // Mezquita, begun 785
-      'toledo', // city of three cultures
+      'seville', // Alcázar, Moorish and Mudéjar palace
       'sarajevo', // Ottoman Baščaršija, 15th century
       'mostar', // Old Bridge, 1566
     ],
@@ -149,7 +146,7 @@ export const ERA_GROUPS: EraGroup[] = [
     title: { ko: '아드리아해', en: 'The Adriatic' },
     period: { ko: '성벽 도시 · 섬', en: 'Walled towns · islands' },
     note: { ko: '붉은 지붕 성벽 도시와 맑은 바다', en: 'Red-roofed walled towns over clear water' },
-    cityIds: ['dubrovnik', 'kotor', 'hvar', 'rovinj', 'piran', 'polignano-a-mare'],
+    cityIds: ['kotor', 'hvar', 'rovinj', 'piran', 'polignano-a-mare'],
   },
   {
     id: 'north-sea',
