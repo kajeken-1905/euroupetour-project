@@ -10,4 +10,7 @@ export const placesJEExtra: Place[] = [
 
   // —— gorey ——
   place('gorey-fine_dining-1', 'gorey', 'fine_dining', 'Bass and Lobster', 'Gorey Coast Road, St Martin JE3 6EU', '고리 해안 도로의 비스트로식 해산물 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Bistro-style seafood restaurant on the Gorey coast road, listed in the MICHELIN Guide.'),
+
+  place('st-helier-cafe-1', 'st-helier', 'cafe', 'Tavola', 'Central Market, Halkett Place, St Helier', '빅토리아 시대 중앙 시장 안의 카페. 브런치를 냅니다.', 'Café inside the Victorian Central Market, serving brunch.'),
+  place('gorey-cafe-1', 'gorey', 'cafe', "Maddie's at The Moorings", 'The Moorings, Gorey Pier, Gorey', '고리 항구 부두의 브런치 카페.', 'Brunch café on Gorey Pier.'),
 ]

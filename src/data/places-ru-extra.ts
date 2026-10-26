@@ -29,4 +29,11 @@ export const placesRUExtra: Place[] = [
   // —— kazan ——
   place('kazan-fine_dining-1', 'kazan', 'fine_dining', 'Tatar by Tubatay', 'Shigabutdina Mardzhani St 4, Kazan', '크렘린 근처의 타타르 요리 레스토랑. 2주쯤 전에 예약이 차기도 합니다.', 'Tatar restaurant near the Kremlin; tables are often booked about two weeks ahead.'),
   place('kazan-fine_dining-2', 'kazan', 'fine_dining', 'Татарская усадьба (Tatar Estate)', 'Shigabutdina Mardzhani St 8, Kazan', '옛 타타르 마을 분위기의 호텔 레스토랑. 아주와 말고기 요리 같은 타타르 음식을 냅니다.', 'Hotel restaurant styled on the old Tatar quarter, serving Tatar dishes such as azu and braised horse meat.'),
+
+  // —— vladivostok (Snob gastro guide, 14 Oct 2026) ——
+  place('vladivostok-fine_dining-1', 'vladivostok', 'fine_dining', 'Улисс Азия (Ulysses Asia)', 'Naberezhnaya St 13, 14th floor (Burny complex), Vladivostok', '부르니 복합 건물 14층의 해산물 레스토랑. 아무르만이 내려다보입니다.', 'Seafood restaurant on the 14th floor of the Burny complex, looking over Amur Bay.'),
+  place('vladivostok-fine_dining-2', 'vladivostok', 'fine_dining', 'Густо (Gusto)', 'GUM courtyard, Svetlanskaya St 35, Vladivostok', '굼 백화점 옛 안뜰의 가스트로바. 연해주 제철 식재료로 유럽식 요리를 냅니다.', 'Gastrobar in the old GUM courtyard serving European dishes with seasonal local produce.'),
+
+  // —— suzdal ——
+  place('suzdal-fine_dining-1', 'suzdal', 'fine_dining', 'Улей (Uley)', 'Pushkarskaya Sloboda, Lenina St 45, Suzdal', '푸시카르스카야 슬로보다 호텔 안의 큰 목조 건물 레스토랑. 제철 식재료로 러시아 요리를 냅니다.', 'Restaurant in a large timber building in the Pushkarskaya Sloboda hotel grounds, serving Russian dishes with seasonal produce.'),
 ]
