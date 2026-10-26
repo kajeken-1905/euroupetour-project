@@ -111,10 +111,11 @@ export const ERA_GROUPS: EraGroup[] = [
     period: { ko: '8~11세기', en: '8th–11th century' },
     note: { ko: '바이킹 배와 왕의 고분, 북유럽 신화의 무대', en: 'Longships, royal mounds and the world of Norse myth' },
     cityIds: [
-      'roskilde', // Viking Ship Museum
-      'uppsala', // royal mounds of Gamla Uppsala
-      'trondheim', // founded by the Viking king Olaf Tryggvason, 997
-      'reykjavik', // Settlement Exhibition, c. 871
+      'copenhagen', // Denmark
+      'stockholm', // Sweden
+      'oslo', // Norway
+      'helsinki', // Finland
+      'reykjavik', // Iceland; Settlement Exhibition, c. 871
     ],
   },
   {
