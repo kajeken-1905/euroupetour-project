@@ -39,6 +39,12 @@ export const ERA_GROUPS: EraGroup[] = [
       'cesky-krumlov',
       'rothenburg', // town walls
       'mont-saint-michel',
+      'edinburgh', // Edinburgh Castle and the Royal Mile
+      'krakow', // Main Market Square and Wawel
+      'siena', // Piazza del Campo, 13th–14th century
+      'toledo', // walled hilltop city
+      'rhodes', // medieval town of the Knights of St John
+      'york', // York Minster and city walls
     ],
   },
   {
