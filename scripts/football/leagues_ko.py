@@ -47,8 +47,14 @@ LEAGUE_META = {
  'az':[('az-az','아제르바이잔 프리미어리그','Misli Premyer Liqa',None)],
  'ua':[('ua-ua','우크라이나 프리미어리그','Ukrainian Premier League','전쟁 중이라 공습경보 등으로 경기 일정과 장소가 바뀔 수 있습니다.|Because of the war, fixtures and venues can change, including for air-raid alerts.')],
  'md':[('md-md','몰도바 1부 리그','Moldovan top division',None)],
+ 'gi':[('gi-gi','지브롤터 풋볼 리그','Gibraltar Football League','클럽들이 지브롤터의 경기장을 함께 씁니다.|Clubs share Gibraltar’s grounds.')],
+ 'fo':[('fo-fo','메이스타라데일딘','MeistaraDeildin',None)],
+ 'ru':[('ru-rpl','러시아 프리미어리그','Alfa-Bank Russian Premier League','러시아 클럽은 2022년부터 UEFA 대회에 나가지 못합니다.|Russian clubs have been barred from UEFA competitions since 2022.')],
 }
 EXTRA = {
+ 'gi-gi': {"name":"Gibraltar Football League","clubs":11,"start":None,"end":None,"site":"https://www.gibraltarfa.com","src":"https://www.gibraltarfa.com/competitions/gibraltar-football-league-26-27-3395567"},
+ 'fo-fo': {"name":"MeistaraDeildin","clubs":10,"start":"2026-03-07","end":"2026-10-31","site":"https://www.fsf.fo","src":"https://www.fsf.fo/wp-json/comet-api/v2/standings?competitionId=6654857","calendarYear":True},
+ 'ru-rpl': {"name":"Alfa-Bank Russian Premier League","clubs":None,"start":None,"end":None,"site":"https://premierliga.ru","src":"club sites' 2026/27 fixtures (premierliga.ru shows a bot check)"},
  'sm-sm': {"name":"Campionato Sammarinese","clubs":16,"start":"2026-08-28","end":None,"site":"https://www.fsgc.sm","src":"https://www.fsgc.sm/en/single-news/league-kicks-off-tre-fiori-in-their-sights-virtus-la-fiorita-straight-away/2306"},
  'ad-ad': {"name":"Primera Divisió","clubs":None,"start":None,"end":None,"site":"https://www.faf.ad","src":"https://www.faf.ad"},
  'xk-xk': {"name":"Superliga e Kosovës","clubs":None,"start":None,"end":None,"site":"https://www.ffk-kosova.com","src":"https://www.ffk-kosova.com"},

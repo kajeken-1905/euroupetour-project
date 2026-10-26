@@ -637,6 +637,49 @@ export const FOOTBALL_LEAGUES: Record<string, FootballLeague[]> = {
    "clubs": 8,
    "start": "2026-06-20"
   }
+ ],
+ "gi": [
+  {
+   "name": {
+    "ko": "지브롤터 풋볼 리그",
+    "en": "Gibraltar Football League"
+   },
+   "key": "gi-gi",
+   "site": "https://www.gibraltarfa.com",
+   "clubs": 11,
+   "note": {
+    "ko": "클럽들이 지브롤터의 경기장을 함께 씁니다.",
+    "en": "Clubs share Gibraltar’s grounds."
+   }
+  }
+ ],
+ "fo": [
+  {
+   "name": {
+    "ko": "메이스타라데일딘",
+    "en": "MeistaraDeildin"
+   },
+   "key": "fo-fo",
+   "site": "https://www.fsf.fo",
+   "clubs": 10,
+   "start": "2026-03-07",
+   "end": "2026-10-31",
+   "calendarYear": true
+  }
+ ],
+ "ru": [
+  {
+   "name": {
+    "ko": "러시아 프리미어리그",
+    "en": "Alfa-Bank Russian Premier League"
+   },
+   "key": "ru-rpl",
+   "site": "https://premierliga.ru",
+   "note": {
+    "ko": "러시아 클럽은 2022년부터 UEFA 대회에 나가지 못합니다.",
+    "en": "Russian clubs have been barred from UEFA competitions since 2022."
+   }
+  }
  ]
 }
 
@@ -789,4 +832,10 @@ export const FOOTBALL_CLUBS: Record<string, FootballClub[]> = {"lyon":[{"id":"Q7
 "brno":[{"id":"Q724832","name":{"ko":"FC 즈브로요프카 브르노","en":"FC Zbrojovka Brno"},"league":"cz-czl","founded":1913,"stadium":{"name":{"ko":"스르브스카 시립 축구경기장","en":"Městský fotbalový stadion Srbská"},"lat":49.22716,"lng":16.58628,"capacity":13000},"site":"https://www.fczbrno.cz/"}],
 "tetovo":[{"id":"Q1129387","name":{"ko":"KF 슈켄디야","en":"KF Shkëndija"},"league":"mk-mk","founded":1979,"crest":{"license":"CC0","source":"https://commons.wikimedia.org/wiki/File:KF_Shk%C3%ABndija_Logo.svg","author":"Mensur Aliti"},"stadium":{"name":{"ko":"테토보 시립경기장","en":"Gradski stadion Tetovo"},"lat":42.01869,"lng":20.97818,"capacity":15000},"site":"https://www.kfshkendija.com/"}],
 "skopje":[{"id":"Q335190","name":{"ko":"FK 바르다르","en":"FK Vardar"},"league":"mk-mk","founded":1947,"stadium":{"name":{"ko":"토셰 프로에스키 아레나","en":"Arena ”Philip II. of Macedonia / Toše Proeski / Todor”"},"lat":42.00573,"lng":21.42559,"capacity":33000},"site":"https://fkvardar.mk/"}],
-"chisinau":[{"id":"Q203513","name":{"ko":"FC 짐브루 키시너우","en":"FC Zimbru Chișinău"},"league":"md-md","founded":1947,"stadium":{"name":{"ko":"스타디오눌 짐브루","en":"Zimbru Stadium"},"lat":46.98028,"lng":28.86694,"capacity":10000}},{"id":"Q3063142","name":{"ko":"FC 폴리테흐니카 키시너우","en":"FC Politehnica UTM Chișinău"},"league":"md-md","founded":1964,"site":"https://fmf.md/noutate/13655/comitetul-de-organizare-a-competitiilor-al-fmf-deciziile-din-30-mai"}]}
+"chisinau":[{"id":"Q203513","name":{"ko":"FC 짐브루 키시너우","en":"FC Zimbru Chișinău"},"league":"md-md","founded":1947,"stadium":{"name":{"ko":"스타디오눌 짐브루","en":"Zimbru Stadium"},"lat":46.98028,"lng":28.86694,"capacity":10000}},{"id":"Q3063142","name":{"ko":"FC 폴리테흐니카 키시너우","en":"FC Politehnica UTM Chișinău"},"league":"md-md","founded":1964,"site":"https://fmf.md/noutate/13655/comitetul-de-organizare-a-competitiilor-al-fmf-deciziile-din-30-mai"}],
+"moscow":[{"id":"Q176371","name":{"ko":"CSKA 모스크바","en":"PFC CSKA Moscow"},"league":"ru-rpl","founded":1911,"stadium":{"name":{"ko":"VEB 아레나","en":"VEB Arena"},"lat":55.79139,"lng":37.51611,"capacity":29000},"site":"https://pfc-cska.com/","tour":{"kind":"tour","url":"https://tickets.pfc-cska.com/ru/ekskursii/"}},{"id":"Q29112","name":{"ko":"FC 스파르타크 모스크바","en":"FC Spartak Moscow"},"league":"ru-rpl","founded":1922,"stadium":{"name":{"ko":"루코일 아레나","en":"Lukoil Arena"},"lat":55.8178,"lng":37.4403,"capacity":45000},"site":"https://spartak.com/"},{"id":"Q17497","name":{"ko":"FC 디나모 모스크바","en":"FC Dynamo Moscow"},"league":"ru-rpl","founded":1923,"stadium":{"name":{"ko":"VTB 아레나","en":"VTB Arena"},"lat":55.7914,"lng":37.5597,"capacity":26000},"site":"https://fcdynamo.ru/"},{"id":"Q29115","name":{"ko":"FC 로코모티프 모스크바","en":"FC Lokomotiv Moscow"},"league":"ru-rpl","founded":1923,"stadium":{"name":{"ko":"RZD 아레나","en":"RZD Arena"},"lat":55.80355,"lng":37.74117,"capacity":27000},"site":"https://www.fclm.ru/","tour":{"kind":"tour","url":"https://www.fclm.ru/tours/"}},{"id":"Q66210522","name":{"ko":"FC 로디나 모스크바","en":"FC Rodina Moscow"},"league":"ru-rpl","founded":2015,"stadium":{"name":{"ko":"아레나 힘키","en":"Arena Khimki"},"lat":55.88528,"lng":37.45417,"capacity":19000},"site":"https://rodina.moscow/","suburb":{"ko":"힘키","en":"Khimki"}}],
+"saint-petersburg":[{"id":"Q29108","name":{"ko":"FC 제니트 상트페테르부르크","en":"FC Zenit Saint Petersburg"},"league":"ru-rpl","founded":1925,"stadium":{"name":{"ko":"가스프롬 아레나","en":"Gazprom Arena"},"lat":59.97295,"lng":30.22053,"capacity":68000},"site":"https://fc-zenit.ru/","tour":{"kind":"tour","url":"https://tickets.fc-zenit.ru/excursions/"}}],
+"kazan":[{"id":"Q170040","name":{"ko":"FC 루빈 카잔","en":"FC Rubin Kazan"},"league":"ru-rpl","founded":1958,"stadium":{"name":{"ko":"악 바르스 아레나","en":"Ak Bars Arena"},"lat":55.821,"lng":49.161,"capacity":45000},"site":"https://www.rubin-kazan.ru/"}],
+"torshavn":[{"id":"Q369420","name":{"ko":"HB 토르스하운","en":"Havnar Bóltfelag"},"league":"fo-fo","founded":1904,"stadium":{"name":{"ko":"군다달뤼르","en":"Gundadalur"},"lat":62.01935,"lng":-6.78114,"capacity":5000},"site":"https://hb.fo/"},{"id":"Q330978","name":{"ko":"B36 토르스하운","en":"B36 Tórshavn"},"league":"fo-fo","founded":1936,"stadium":{"name":{"ko":"군다달뤼르","en":"Gundadalur"},"lat":62.01935,"lng":-6.78114,"capacity":5000},"site":"https://b36.fo/"},{"id":"Q287768","name":{"ko":"AB 아르기르","en":"Argja Bóltfelag"},"league":"fo-fo","founded":1973,"stadium":{"name":{"ko":"아르기르 경기장","en":"Argir Stadium"},"lat":61.995,"lng":-6.80278,"capacity":2000},"site":"https://argjaboltfelag.wixsite.com/my-site","suburb":{"ko":"아르기르","en":"Argir"}}],
+"vagar":[{"id":"Q161217","name":{"ko":"07 베스투르","en":"07 Vestur"},"league":"fo-fo","founded":2007,"site":"https://07vestur.fo/","suburb":{"ko":"쇠르보우구르","en":"Sørvágur"}}],
+"eysturoy":[{"id":"Q216857","name":{"ko":"NSÍ 루나비크","en":"NSÍ Runavík"},"league":"fo-fo","founded":1957,"stadium":{"name":{"ko":"루나비크 경기장","en":"Runavík Stadium"},"lat":62.10583,"lng":-6.72333,"capacity":2000},"site":"https://www.nsi.fo/","suburb":{"ko":"루나비크","en":"Runavík"}},{"id":"Q516425","name":{"ko":"B68 토프티르","en":"B68 Toftir"},"league":"fo-fo","founded":1962,"stadium":{"name":{"ko":"스방가스카르드","en":"Svangaskarð"},"lat":62.09972,"lng":-6.73611,"capacity":6000},"site":"https://b68.fo/","suburb":{"ko":"토프티르","en":"Toftir"}},{"id":"Q1062929","name":{"ko":"스콸라 ÍF","en":"Skála ÍF"},"league":"fo-fo","founded":1965,"stadium":{"name":{"ko":"스콸라 경기장","en":"Skála Stadium"},"lat":62.16,"lng":-6.78861},"site":"https://skalaif.fo/","suburb":{"ko":"스콸리","en":"Skáli"}},{"id":"Q3543925","name":{"ko":"비킹구르 예타","en":"Víkingur Gøta"},"league":"fo-fo","founded":2008,"stadium":{"name":{"ko":"세르푸게르디 경기장","en":"Serpugerði Stadium"},"lat":62.19979,"lng":-6.74552},"site":"https://www.vikingur.fo/","suburb":{"ko":"노르드라예타","en":"Norðragøta"}}]}

@@ -55,3 +55,13 @@ NOTES = {
 }
 CLUB_KO.update({'FC Karpaty Lviv':'FC 카르파티 리비우','Club Brugge K.V.':'클럽 브뤼헤','Cercle Brugge K.S.V.':'세르클 브뤼헤','KAA Gent':'KAA 겐트','FC Torpedo Kutaisi':'FC 토르페도 쿠타이스'})
 VENUE_KO.update({'Arena Lviv':'아레나 리비우','Gyumri City Stadium':'귬리 시립경기장','Jan Breydel Stadium':'얀 브레이델 스타디온'})
+# 2026-10 new countries: Russia (club sites' 2026/27 fixtures) and the Faroe Islands (FSF MeistaraDeildin 2026)
+CLUB_KO.update({'PFC CSKA Moscow':'CSKA 모스크바','FC Dinamo Moscow':'FC 디나모 모스크바','FC Lokomotiv Moscow':'FC 로코모티프 모스크바','FC Rodina Moscow':'FC 로디나 모스크바',
+ 'Spartak Moscow':'FC 스파르타크 모스크바','FC Zenit Saint Petersburg':'FC 제니트 상트페테르부르크','Rubin Kazan':'FC 루빈 카잔','Havnar Bóltfelag':'HB 토르스하운','B36 Tórshavn':'B36 토르스하운',
+ 'Argja Bóltfelag':'AB 아르기르','07 Vestur':'07 베스투르','NSÍ Runavík':'NSÍ 루나비크','Víkingur Gøta':'비킹구르 예타','Skála ÍF':'스콸라 ÍF','B68 Toftir':'B68 토프티르'})
+VENUE_KO.update({'VEB Arena':'VEB 아레나','VTB Arena':'VTB 아레나','RZD Arena':'RZD 아레나','Arena Khimki':'아레나 힘키','Lukoil Arena':'루코일 아레나','Gazprom Arena':'가스프롬 아레나',
+ 'Ak Bars Arena':'악 바르스 아레나','Gundadalur':'군다달뤼르','Argir Stadium':'아르기르 경기장','Runavík Stadium':'루나비크 경기장','Serpugerði Stadium':'세르푸게르디 경기장',
+ 'Skála Stadium':'스콸라 경기장','Svangaskarð':'스방가스카르드'})
+SUBURB.update({'FC Rodina Moscow':('힘키','Khimki'),'Argja Bóltfelag':('아르기르','Argir'),'07 Vestur':('쇠르보우구르','Sørvágur'),'NSÍ Runavík':('루나비크','Runavík'),
+ 'Víkingur Gøta':('노르드라예타','Norðragøta'),'Skála ÍF':('스콸리','Skáli'),'B68 Toftir':('토프티르','Toftir')})
+NO_STADIUM |= {'07 Vestur'}

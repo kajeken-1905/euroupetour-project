@@ -28,7 +28,7 @@ for r in keep:
         c['stadium']={'name':{'ko':vko,'en':ven},'lat':round(v['coord'][0],5),'lng':round(v['coord'][1],5)}
         if cap: c['stadium']['capacity']=cap
     if r['homepage']: c['site']=r['homepage'].rstrip('/')+'/' if re.match(r'^https?://[^/]+/?$',r['homepage']) else r['homepage']
-    if r['tour']:
+    if r.get('tour'):
         t={'kind':r['tour'][0],'url':r['tour'][1]}
         if len(r['tour'])>2: t['note']=dict(zip(('ko','en'),TOURNOTE[r['tour'][2]]))
         c['tour']=t

@@ -13558,5 +13558,622 @@
   ],
   "homepage": "",
   "tour": null
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q176371",
+  "title": "PFC CSKA Moscow",
+  "en": "PFC CSKA Moscow",
+  "ko": "PFC CSKA 모스크바",
+  "kowiki": "PFC CSKA 모스크바",
+  "inception": "1911",
+  "site": "https://pfc-cska.com/",
+  "wdVenues": [
+   "Q641333",
+   "Q2608102"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q2608102",
+  "venueAgree": true,
+  "venue": {
+   "en": "VEB Arena",
+   "ko": "VEB 아레나",
+   "kowiki": null,
+   "cap": 29071,
+   "coord": [
+    55.791389,
+    37.516111
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    7.5,
+    "moscow"
+   ]
+  ],
+  "city": "moscow",
+  "dist": 7.5,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://pfc-cska.com/",
+  "tour": [
+   "tour",
+   "https://tickets.pfc-cska.com/ru/ekskursii/"
+  ]
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q17497",
+  "title": "FC Dynamo Moscow",
+  "en": "FC Dinamo Moscow",
+  "ko": "FC 디나모 모스크바",
+  "kowiki": "FC 디나모 모스크바",
+  "inception": "1923",
+  "site": "https://fcdynamo.ru/",
+  "wdVenues": [
+   "Q1475155"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q1475155",
+  "venueAgree": true,
+  "venue": {
+   "en": "VTB Arena",
+   "ko": null,
+   "kowiki": null,
+   "cap": 25712,
+   "coord": [
+    55.7914,
+    37.5597
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    5.4,
+    "moscow"
+   ]
+  ],
+  "city": "moscow",
+  "dist": 5.4,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://fcdynamo.ru/",
+  "tour": null
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q29115",
+  "title": "FC Lokomotiv Moscow",
+  "en": "FC Lokomotiv Moscow",
+  "ko": "FC 로코모티프 모스크바",
+  "kowiki": "FC 로코모티프 모스크바",
+  "inception": "1923",
+  "site": "https://www.fclm.ru/",
+  "wdVenues": [
+   "Q595937"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q595937",
+  "venueAgree": true,
+  "venue": {
+   "en": "RZD Arena",
+   "ko": "RZD 아레나",
+   "kowiki": null,
+   "cap": 27320,
+   "coord": [
+    55.80355,
+    37.741169
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    9.4,
+    "moscow"
+   ]
+  ],
+  "city": "moscow",
+  "dist": 9.4,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://www.fclm.ru/",
+  "tour": [
+   "tour",
+   "https://www.fclm.ru/tours/"
+  ]
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q66210522",
+  "title": "FC Rodina Moscow",
+  "en": "FC Rodina Moscow",
+  "ko": null,
+  "kowiki": null,
+  "inception": "2015",
+  "site": "https://rodina.moscow/",
+  "wdVenues": [
+   "Q4430719",
+   "Q1475155"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q641333",
+  "venueAgree": true,
+  "venue": {
+   "en": "Arena Khimki",
+   "ko": "아레나 힘키",
+   "kowiki": null,
+   "cap": 18636,
+   "coord": [
+    55.88527778,
+    37.45416667
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    17.6,
+    "moscow"
+   ]
+  ],
+  "city": "moscow",
+  "dist": 17.6,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://rodina.moscow/",
+  "tour": null
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q29112",
+  "title": "FC Spartak Moscow",
+  "en": "Spartak Moscow",
+  "ko": "FC 스파르타크 모스크바",
+  "kowiki": "FC 스파르타크 모스크바",
+  "inception": "1922",
+  "site": "https://spartak.com/",
+  "wdVenues": [
+   "Q1190634"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q1190634",
+  "venueAgree": true,
+  "venue": {
+   "en": "Lukoil Arena",
+   "ko": "스파르타크 스타디움",
+   "kowiki": null,
+   "cap": 45360,
+   "coord": [
+    55.8178,
+    37.4403
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    13.0,
+    "moscow"
+   ]
+  ],
+  "city": "moscow",
+  "dist": 13.0,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://spartak.com/",
+  "tour": null
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q29108",
+  "title": "FC Zenit Saint Petersburg",
+  "en": "FC Zenit Saint Petersburg",
+  "ko": "FC 제니트 상트페테르부르크",
+  "kowiki": "FC 제니트 상트페테르부르크",
+  "inception": "1925",
+  "site": "https://fc-zenit.ru/",
+  "wdVenues": [
+   "Q722970",
+   "Q27622"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q722970",
+  "venueAgree": true,
+  "venue": {
+   "en": "Gazprom Arena",
+   "ko": "제니트 스타디움",
+   "kowiki": null,
+   "cap": 67800,
+   "coord": [
+    59.972953,
+    30.220533
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    7.7,
+    "saint-petersburg"
+   ]
+  ],
+  "city": "saint-petersburg",
+  "dist": 7.7,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://fc-zenit.ru/",
+  "tour": [
+   "tour",
+   "https://tickets.fc-zenit.ru/excursions/"
+  ]
+ },
+ {
+  "league": "ru-rpl",
+  "qid": "Q170040",
+  "title": "FC Rubin Kazan",
+  "en": "Rubin Kazan",
+  "ko": "FC 루빈 카잔",
+  "kowiki": "FC 루빈 카잔",
+  "inception": "1958",
+  "site": "https://www.rubin-kazan.ru/",
+  "wdVenues": [
+   "Q190781"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q33993",
+  "venueAgree": true,
+  "venue": {
+   "en": "Ak Bars Arena",
+   "ko": "카잔 아레나",
+   "kowiki": null,
+   "cap": 45105,
+   "coord": [
+    55.821,
+    49.161
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    4.3,
+    "kazan"
+   ]
+  ],
+  "city": "kazan",
+  "dist": 4.3,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://www.rubin-kazan.ru/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q369420",
+  "title": "Havnar Bóltfelag",
+  "en": "Havnar Bóltfelag",
+  "ko": "HB 토르스하운",
+  "kowiki": "HB 토르스하운",
+  "inception": "1904",
+  "site": "https://hb.fo/",
+  "wdVenues": [
+   "Q221052"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q221052",
+  "venueAgree": true,
+  "venue": {
+   "en": "Gundadalur",
+   "ko": null,
+   "kowiki": null,
+   "cap": 5000,
+   "coord": [
+    62.0193487,
+    -6.7811394
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    1.0,
+    "torshavn"
+   ]
+  ],
+  "city": "torshavn",
+  "dist": 1.0,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://hb.fo/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q330978",
+  "title": "B36 Tórshavn",
+  "en": "B36 Tórshavn",
+  "ko": "B36 토르스하운",
+  "kowiki": "B36 토르스하운",
+  "inception": "1936",
+  "site": "https://b36.fo/",
+  "wdVenues": [
+   "Q221052"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q221052",
+  "venueAgree": true,
+  "venue": {
+   "en": "Gundadalur",
+   "ko": null,
+   "kowiki": null,
+   "cap": 5000,
+   "coord": [
+    62.0193487,
+    -6.7811394
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    1.0,
+    "torshavn"
+   ]
+  ],
+  "city": "torshavn",
+  "dist": 1.0,
+  "suburb": false,
+  "infoboxGround": [],
+  "homepage": "https://b36.fo/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q287768",
+  "title": "Argja Bóltfelag",
+  "en": "Argja Bóltfelag",
+  "ko": "AB 아르기르",
+  "kowiki": "AB 아르기르",
+  "inception": "1973",
+  "site": "https://argjaboltfelag.wixsite.com/my-site",
+  "wdVenues": [
+   "Q776949"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q776949",
+  "venueAgree": true,
+  "venue": {
+   "en": "Argir Stadium",
+   "ko": null,
+   "kowiki": null,
+   "cap": 2000,
+   "coord": [
+    61.995,
+    -6.80277778
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    2.3,
+    "torshavn"
+   ]
+  ],
+  "city": "torshavn",
+  "dist": 2.3,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://argjaboltfelag.wixsite.com/my-site",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q161217",
+  "title": "07 Vestur",
+  "en": "07 Vestur",
+  "ko": "07 베스터",
+  "kowiki": "07 베스터",
+  "inception": "2007",
+  "site": "https://07vestur.fo/",
+  "wdVenues": [],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": null,
+  "venueAgree": true,
+  "venue": {
+   "en": null,
+   "ko": null,
+   "kowiki": null,
+   "cap": null,
+   "coord": null,
+   "site": null
+  },
+  "near": null,
+  "city": "vagar",
+  "dist": null,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://07vestur.fo/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q216857",
+  "title": "NSÍ Runavík",
+  "en": "NSÍ Runavík",
+  "ko": "NSI 루나비크",
+  "kowiki": "NSI 루나비크",
+  "inception": "1957",
+  "site": "https://www.nsi.fo/",
+  "wdVenues": [
+   "Q7379625"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q7379625",
+  "venueAgree": true,
+  "venue": {
+   "en": "Runavík Stadium",
+   "ko": null,
+   "kowiki": null,
+   "cap": 2000,
+   "coord": [
+    62.105833,
+    -6.723333
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    15.4,
+    "eysturoy"
+   ]
+  ],
+  "city": "eysturoy",
+  "dist": 15.4,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://www.nsi.fo/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q3543925",
+  "title": "Víkingur Gøta",
+  "en": "Víkingur Gøta",
+  "ko": "바이킹어 괴타",
+  "kowiki": "비킹구르 괴타",
+  "inception": "2008",
+  "site": "https://www.vikingur.fo/",
+  "wdVenues": [
+   "Q1287265"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q1287265",
+  "venueAgree": true,
+  "venue": {
+   "en": "Serpugerði Stadium",
+   "ko": null,
+   "kowiki": null,
+   "cap": null,
+   "coord": [
+    62.199788,
+    -6.74552
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    8.2,
+    "eysturoy"
+   ]
+  ],
+  "city": "eysturoy",
+  "dist": 8.2,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://www.vikingur.fo/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q1062929",
+  "title": "Skála ÍF",
+  "en": "Skála ÍF",
+  "ko": "스칼라 IF",
+  "kowiki": "스칼라 IF",
+  "inception": "1965",
+  "site": "https://skalaif.fo/",
+  "wdVenues": [
+   "Q7538165"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q7538165",
+  "venueAgree": true,
+  "venue": {
+   "en": "Skála Stadium",
+   "ko": null,
+   "kowiki": null,
+   "cap": null,
+   "coord": [
+    62.16,
+    -6.78861111
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    8.6,
+    "eysturoy"
+   ]
+  ],
+  "city": "eysturoy",
+  "dist": 8.6,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://skalaif.fo/",
+  "tour": null
+ },
+ {
+  "league": "fo-fo",
+  "qid": "Q516425",
+  "title": "B68 Toftir",
+  "en": "B68 Toftir",
+  "ko": "B68 토프티르",
+  "kowiki": "B68 토프티르",
+  "inception": "1962",
+  "site": "https://b68.fo/",
+  "wdVenues": [
+   "Q1060809"
+  ],
+  "wpVenues": [],
+  "loc": "",
+  "cap": "",
+  "venueQ": "Q1060809",
+  "venueAgree": true,
+  "venue": {
+   "en": "Svangaskarð",
+   "ko": null,
+   "kowiki": null,
+   "cap": 6000,
+   "coord": [
+    62.099722,
+    -6.736111
+   ],
+   "site": null
+  },
+  "near": [
+   [
+    15.5,
+    "eysturoy"
+   ]
+  ],
+  "city": "eysturoy",
+  "dist": 15.5,
+  "suburb": true,
+  "infoboxGround": [],
+  "homepage": "https://b68.fo/",
+  "tour": null
  }
 ]
