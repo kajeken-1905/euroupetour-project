@@ -21,6 +21,7 @@ import { TourButton } from '../components/TourButton'
 import { RoutesPanel } from '../components/RoutesPanel'
 import { NightTrainsPanel } from '../components/NightTrainsPanel'
 import { ScenicTrainsPanel } from '../components/ScenicTrainsPanel'
+import { FunicularsPanel } from '../components/FunicularsPanel'
 import { ItineraryPanel } from '../components/ItineraryPanel'
 import { CityMap } from '../components/CityMap'
 import { PlannerPanel } from '../components/PlannerPanel'
@@ -149,6 +150,7 @@ function CityView() {
       ) : null}
 
       <FaresPanel cityId={city.id} />
+      <FunicularsPanel cityId={city.id} />
       <PassesPanel passes={getCityPasses(city.id, country.id)} />
 
       <RoutesPanel routes={getCityRoutes(city.id)} />

@@ -95,6 +95,18 @@ export interface CountryEssentials {
 
 export type RouteMode = 'train' | 'bus' | 'ferry' | 'mixed' | 'flight'
 
+/** A funicular, lift or city cable car. */
+export interface Funicular {
+  city: string
+  name: string
+  /** 'ko|en' */
+  route: string
+  /** 'ko|en'; whether the city transit ticket is valid */
+  ticket?: string
+  /** 'ko|en'; closures */
+  status?: string
+}
+
 /** A scenic or mountain railway shown on the cities it starts from or is reached from. */
 export interface ScenicTrain {
   id: string

@@ -1897,6 +1897,11 @@ button.back-link {
   color: var(--muted);
 }
 
+.night-train-status {
+  margin: 0;
+  font-size: 12px;
+}
+
 .night-train-book {
   justify-self: start;
   font-size: 12px;

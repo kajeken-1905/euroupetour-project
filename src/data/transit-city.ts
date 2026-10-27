@@ -1779,8 +1779,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
     tip: {
-      ko: '알파마·바이샤는 언덕이 많아 트램·엘리베이터·케이블카를 같이 쓰면 편합니다.',
-      en: 'Alfama and Baixa are hilly—combine trams, elevators, and funiculars.',
+      ko: '알파마·바이샤는 언덕이 많아 트램을 같이 쓰면 편합니다. 옛 푸니쿨라와 산타 후스타 엘리베이터는 2025년 9월 사고 뒤 운행이 멈춰 있습니다.',
+      en: 'Alfama and Baixa are hilly, so trams help; the historic funiculars and the Santa Justa lift have been closed since an accident in September 2025.',
     },
   },
   porto: {

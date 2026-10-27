@@ -3538,7 +3538,7 @@ export const cities: City[] = [
       {
         id: "karlovy-vary-h3",
         name: { ko: "디아나 전망탑", en: "Diana Lookout" },
-        description: { ko: "케이블카로 오르는 전망탑입니다.", en: "Cable-car lookout tower." },
+        description: { ko: "푸니쿨라로 오르는 숲속 전망탑입니다.", en: "Forest lookout tower reached by funicular." },
         image: "/highlights/karlovy-vary-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Diana%20Tower%20Karlovy%20Vary",
       },
