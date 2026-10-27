@@ -164,6 +164,8 @@ export interface Gateway {
   name: string
   /** IATA code for airports */
   code?: string
+  /** Photo for the card (public/gateways); an icon is shown without one */
+  image?: string
   /** International airport, listed on the country screen */
   intl?: boolean
   about: string

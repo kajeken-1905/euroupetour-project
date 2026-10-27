@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '마드리드 바라하스 공항|Adolfo Suárez Madrid–Barajas Airport',
     code: 'MAD',
+    image: '/gateways/gw-mad.jpg',
     intl: true,
     about:
       '시내에서 북동쪽 약 12km. T1·T2·T3은 서로 붙어 있고 T4는 떨어져 있어 24시간 무료 셔틀버스로 오갑니다.|About 12 km north-east of the centre. T1–T3 sit together; T4 is separate, linked by a free 24-hour shuttle bus.',
@@ -84,6 +85,7 @@ export const GATEWAYS: Gateway[] = [
     id: 'gw-madrid-chamartin',
     cityId: 'madrid',
     kind: 'rail',
+    image: '/gateways/gw-madrid-chamartin.jpg',
     name: '차마르틴역|Madrid Chamartín – Clara Campoamor',
     about:
       '북부(바야돌리드·레온·아스투리아스·갈리시아)행 고속열차와 근교선이 출발하는 마드리드 제2 기차역입니다.|Madrid’s second station, for high-speed trains north (Valladolid, León, Asturias, Galicia) and Cercanías.',

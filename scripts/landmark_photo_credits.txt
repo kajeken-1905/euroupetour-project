@@ -752,3 +752,5 @@ highlights/famagusta-1.jpg | https://commons.wikimedia.org/wiki/File:Lala_Mustaf
 highlights/famagusta-2.jpg | https://commons.wikimedia.org/wiki/File:Othello_Castle,_Famagusta_(01).jpg | CC BY-SA 4.0 | Chris06
 highlights/famagusta-3.jpg | https://commons.wikimedia.org/wiki/File:The_Gymnasium_with_its_columned_palaestra,_built_over_the_ruins_of_an_ealier_Hellenistic_gymnasium_in_the_2nd_century_AD_during_Trajan_and_Hadrian%27s_reign_after_Salamis_had_been_greatly_damaged_in_116_AD_during_Jewish_revolt.jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
 highlights/famagusta-4.jpg | https://commons.wikimedia.org/wiki/File:Famagusta_view_from_city_wall.jpg | CC BY-SA 4.0 | Blcksprt
+gateways/gw-mad.jpg | https://commons.wikimedia.org/wiki/File:Terminal_4_del_aeropuerto_de_Madrid-Barajas,_Espa%C3%B1a,_2013-01-09,_DD_07.jpg | CC BY-SA 3.0 | Diego Delso
+gateways/gw-madrid-chamartin.jpg | https://commons.wikimedia.org/wiki/File:Madrid-Chamart%C3%ADn-Clara_Campoamor_train_station.01.jpg | CC BY-SA 4.0 | Nenea hartia

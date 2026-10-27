@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityBrief } from '../data/cityIndex'
 import { t } from '../i18n/ui'
+import { assetUrl } from '../utils/assetUrl'
 import type { Gateway, GatewayOption } from '../types'
 
 function pick(text: string, lang: 'ko' | 'en'): string {
@@ -56,24 +57,49 @@ export function GatewayWays({ gateway }: { gateway: Gateway }) {
   )
 }
 
+function GatewayCardBody({ gateway }: { gateway: Gateway }) {
+  const { lang } = useLanguage()
+  return (
+    <span className="highlight-card-body">
+      <h3>
+        {pick(gateway.name, lang)}
+        {gateway.code ? <span className="gateway-code">{gateway.code}</span> : null}
+      </h3>
+      <p>{pick(gateway.about, lang)}</p>
+      <span className="highlight-card-maps">{t('openMaps', lang)}</span>
+    </span>
+  )
+}
+
 /** One airport, station or port: what it is, then each way into the centre. */
 function GatewayCard({ gateway }: { gateway: Gateway }) {
   const { lang } = useLanguage()
   return (
     <article className="highlight-card gateway-card" id={gateway.id}>
-      <a className="gateway-card-head" href={mapsUrl(gateway.maps)} target="_blank" rel="noreferrer">
-        <span className="gateway-card-icon" aria-hidden>
-          {KIND_ICON[gateway.kind]}
-        </span>
-        <span className="highlight-card-body">
-          <h3>
-            {pick(gateway.name, lang)}
-            {gateway.code ? <span className="gateway-code">{gateway.code}</span> : null}
-          </h3>
-          <p>{pick(gateway.about, lang)}</p>
-          <span className="highlight-card-maps">{t('openMaps', lang)}</span>
-        </span>
-      </a>
+      {gateway.image ? (
+        <a
+          className="highlight-card-main"
+          href={mapsUrl(gateway.maps)}
+          target="_blank"
+          rel="noreferrer"
+          aria-label={`${pick(gateway.name, lang)} — ${t('openMaps', lang)}`}
+        >
+          <div
+            className="highlight-card-media"
+            style={{ backgroundImage: `url(${assetUrl(gateway.image)})` }}
+            role="img"
+            aria-label={pick(gateway.name, lang)}
+          />
+          <GatewayCardBody gateway={gateway} />
+        </a>
+      ) : (
+        <a className="gateway-card-head" href={mapsUrl(gateway.maps)} target="_blank" rel="noreferrer">
+          <span className="gateway-card-icon" aria-hidden>
+            {KIND_ICON[gateway.kind]}
+          </span>
+          <GatewayCardBody gateway={gateway} />
+        </a>
+      )}
       <GatewayWays gateway={gateway} />
     </article>
   )

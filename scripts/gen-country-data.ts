@@ -2,10 +2,11 @@
 //  - src/data/by-country/<id>.json — each country's cities (with their sights) and places, so the city screen
 //    loads one country instead of all of them (src/data/countryData.ts). Not committed; rebuilt every time.
 //  - public/offline-images.json — every local photo shown for each country (its landmark, its cities' pictures
-//    and sights, its places and its football clubs' crests), which "save for offline" downloads.
+//    and sights, its places, its airport/station/port cards and its football clubs' crests), which "save for
+//    offline" downloads.
 // Runs before dev and build (places.ts uses extension-less imports, so it is bundled first):
 //   rolldown scripts/gen-country-data.ts --file node_modules/.cache/gen-country-data.mjs && node <that file>
-import { mkdirSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
 import { countries } from '../src/data/countries'
 import { cities } from '../src/data/cities'
 import { places } from '../src/data/places'
@@ -15,6 +16,12 @@ const root = new URL('../../', import.meta.url)
 const dir = new URL('src/data/by-country/', root)
 rmSync(dir, { recursive: true, force: true })
 mkdirSync(dir, { recursive: true })
+
+/** Photos of the country's airport, station and port cards (src/data/gateways/<id>.ts is loaded on demand). */
+function gatewayImages(countryId: string): string[] {
+  const file = new URL(`src/data/gateways/${countryId}.ts`, root)
+  return existsSync(file) ? [...readFileSync(file, 'utf8').matchAll(/image: '([^']+)'/g)].map((m) => m[1]) : []
+}
 
 const local = (p: string | undefined): p is string => !!p && !/^(https?:|data:)/i.test(p)
 const images: Record<string, string[]> = {}
@@ -34,6 +41,7 @@ for (const country of countries) {
     ...ownPlaces.map((p) => p.image),
     // Crests of the football clubs shown on the country's city pages.
     ...own.flatMap((c) => (FOOTBALL_CLUBS[c.id] ?? []).filter((club) => club.crest).map((club) => `/crests/${club.id.toLowerCase()}.png`)),
+    ...gatewayImages(country.id),
   ]
   images[country.id] = [...new Set(paths.filter(local))]
 }
