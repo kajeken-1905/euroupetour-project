@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '리스본 움베르투 델가두 공항|Lisbon Humberto Delgado Airport',
     code: 'LIS',
+    image: '/gateways/gw-lis.jpg',
     intl: true,
     about: '시내에서 북쪽 약 7km로 도심과 아주 가깝습니다. 저비용 항공은 터미널 2를 씁니다(무료 셔틀).|Only about 7 km north of the centre; low-cost flights use Terminal 2 (free shuttle).',
     options: [
@@ -143,6 +144,28 @@ export const GATEWAYS: Gateway[] = [
       },
     ],
     maps: 'Estação de Aveiro',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-lisboa-santa-apolonia',
+    cityId: 'lisbon',
+    kind: 'rail',
+    name: '산타 아폴로니아역|Lisboa Santa Apolónia',
+    image: '/gateways/gw-lisboa-santa-apolonia.jpg',
+    about: '1865년 문을 연 리스본에서 가장 오래된 역. 포르투행 알파 펜둘라르가 여기서 출발해 오리엔트역을 거칩니다. 알파마 언덕 바로 아래입니다.|Lisbon’s oldest station (1865), where Alfa Pendular trains to Porto start before calling at Oriente; right below the Alfama hill.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 파란선|Metro Blue line',
+        route: '→ 테헤이루 두 파수·바이샤 시아두(시내 중심)|→ Terreiro do Paço, Baixa-Chiado (centre)',
+      },
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '알파마까지 약 10분, 코메르시우 광장까지 약 15분|About 10 min to Alfama, 15 min to Praça do Comércio',
+      },
+    ],
+    maps: 'Estação de Santa Apolónia',
     checked: '2026-10',
   },
 ]

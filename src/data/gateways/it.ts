@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '피우미치노 공항|Rome Fiumicino Airport (Leonardo da Vinci)',
     code: 'FCO',
+    image: '/gateways/gw-fco.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 30km 바닷가. 이탈리아 최대 공항입니다.|On the coast about 30 km south-west of the centre; Italy’s largest airport.',
     options: [
@@ -79,6 +80,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'rome',
     kind: 'rail',
     name: '로마 테르미니역|Roma Termini',
+    image: '/gateways/gw-roma-termini.jpg',
     about:
       '이탈리아 최대 기차역. 피렌체·밀라노·나폴리행 고속열차(프레차로사·이탈로)와 피우미치노 공항행 레오나르도 익스프레스가 출발합니다.|Italy’s largest station, for high-speed trains to Florence, Milan and Naples (Frecciarossa, Italo) and the Leonardo Express to Fiumicino.',
     options: [
@@ -217,6 +219,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'venice',
     kind: 'rail',
     name: '베네치아 산타 루치아역|Venezia Santa Lucia',
+    image: '/gateways/gw-venezia-sl.jpg',
     about:
       '본섬 서쪽 끝, 대운하 입구에 있는 역. 밀라노·피렌체·로마행 고속열차가 출발합니다. 육지 쪽 메스트레역과 헷갈리지 마세요.|At the island’s western tip on the Grand Canal, with high-speed trains to Milan, Florence and Rome; not to be confused with Mestre on the mainland.',
     options: [
@@ -310,6 +313,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'florence',
     kind: 'rail',
     name: '피렌체 산타 마리아 노벨라역|Firenze Santa Maria Novella',
+    image: '/gateways/gw-firenze-smn.jpg',
     about: '로마·밀라노·베네치아행 고속열차와 피사·루카·시에나행 지역 열차가 출발합니다.|High-speed trains to Rome, Milan and Venice and regional trains to Pisa, Lucca and Siena.',
     options: [
       {
@@ -636,6 +640,50 @@ export const GATEWAYS: Gateway[] = [
     ],
     maps: 'Aeroporto di Perugia',
     site: 'https://www.airport.umbria.it/en/',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-napoli-centrale',
+    cityId: 'naples',
+    kind: 'rail',
+    name: '나폴리 중앙역|Napoli Centrale',
+    image: '/gateways/gw-napoli-centrale.jpg',
+    about: '가리발디 광장에 있는 나폴리 중앙역. 로마(약 1시간 10분)·밀라노행 고속열차가 출발하고, 지하의 가리발디역에서 폼페이·소렌토행 치르쿰베수비아나를 탑니다.|On Piazza Garibaldi, with high-speed trains to Rome (about 70 min) and Milan; the Circumvesuviana to Pompeii and Sorrento leaves from Garibaldi below.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 1·2호선|Metro lines 1, 2',
+        route: '1호선 → 무니치피오(항구)·톨레도, 2호선 → 몬테산토·메르젤리나|Line 1 → Municipio (port), Toledo; line 2 → Montesanto, Mergellina',
+      },
+      {
+        mode: 'bus',
+        name: '알리버스|Alibus',
+        route: '→ 공항 또는 몰로 베베렐로(카프리행 배)|→ Airport, or Molo Beverello (Capri ferries)',
+      },
+    ],
+    maps: 'Napoli Centrale',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-napoli-mergellina',
+    cityId: 'naples',
+    kind: 'rail',
+    name: '나폴리 메르젤리나역|Napoli Mergellina',
+    image: '/gateways/gw-napoli-mergellina.jpg',
+    about: '1925년 지은 역사가 남아 있는 해안가 역. 근처 메르젤리나 항에서 이스키아·프로치다행 고속선이 출발합니다.|A seafront station in its 1925 building; hydrofoils to Ischia and Procida leave from the nearby Mergellina harbour.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 2호선|Metro line 2',
+        route: '→ 몬테산토·중앙역(가리발디)|→ Montesanto, Centrale (Garibaldi)',
+      },
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '메르젤리나 항·해안 산책로까지 약 5분|About 5 min to Mergellina harbour and the seafront',
+      },
+    ],
+    maps: 'Stazione di Napoli Mergellina',
     checked: '2026-10',
   },
 ]

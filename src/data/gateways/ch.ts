@@ -101,4 +101,26 @@ export const GATEWAYS: Gateway[] = [
     site: 'https://www.euroairport.com/en/',
     checked: '2026-10',
   },
+  {
+    id: 'gw-geneve-cornavin',
+    cityId: 'geneva',
+    kind: 'rail',
+    name: '제네바 코르나뱅역|Genève-Cornavin',
+    image: '/gateways/gw-geneve-cornavin.jpg',
+    about: '로잔·베른·취리히행 열차와 파리행 TGV 리리아가 출발하는 제네바 중앙역입니다.|Geneva’s main station, with trains to Lausanne, Bern and Zürich and TGV Lyria to Paris.',
+    options: [
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '레만 호수(몽블랑 다리)까지 약 5~10분|About 5–10 min to the lake (Pont du Mont-Blanc)',
+      },
+      {
+        mode: 'tram',
+        name: '트램·버스|Trams and buses',
+        route: '역 앞 광장 → 구시가지·플랭팔레 방면|Station square → old town, Plainpalais',
+      },
+    ],
+    maps: 'Genève-Cornavin',
+    checked: '2026-10',
+  },
 ]

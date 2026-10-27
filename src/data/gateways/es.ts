@@ -308,6 +308,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'seville',
     kind: 'rail',
     name: '세비야 산타 후스타역|Sevilla Santa Justa',
+    image: '/gateways/gw-sevilla-santa-justa.jpg',
     about: '마드리드행 AVE(약 2시간 30분)와 코르도바·말라가·카디스행 열차가 출발합니다.|AVE trains to Madrid (about 2½ hours) and trains to Córdoba, Málaga and Cádiz.',
     options: [
       {
@@ -377,6 +378,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '그라나다 공항|Federico García Lorca Granada Airport',
     code: 'GRX',
+    image: '/gateways/gw-grx.jpg',
     intl: true,
     about: '시내에서 서쪽 약 15km의 작은 공항입니다.|A small airport about 15 km west of the city.',
     options: [
@@ -412,6 +414,28 @@ export const GATEWAYS: Gateway[] = [
       },
     ],
     maps: 'Estación de Toledo',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-granada-station',
+    cityId: 'granada',
+    kind: 'rail',
+    name: '그라나다역|Granada station',
+    image: '/gateways/gw-granada-station.jpg',
+    about: '마드리드(약 3시간 20분)·바르셀로나행 고속열차와 세비야·알메리아행 열차가 출발합니다.|High-speed trains to Madrid (about 3 h 20) and Barcelona, and trains to Seville and Almería.',
+    options: [
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '대성당까지 약 25분|About 25 min to the cathedral',
+      },
+      {
+        mode: 'taxi',
+        name: '택시·시내버스|Taxi or city bus',
+        route: '알람브라까지는 택시나 버스가 편합니다.|A taxi or bus is easier for the Alhambra.',
+      },
+    ],
+    maps: 'Estación de Granada',
     checked: '2026-10',
   },
 ]
