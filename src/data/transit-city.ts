@@ -15,6 +15,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Navigo Easy or Paris Visite. Metro/RER/bus transfers. Citymapper and Bonjour RATP help.',
     },
     apps: [
+      ta('bonjour-ratp', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('citymapper'),
       ta('idfm', { ko: '일드프랑스 모빌리테', en: 'Île-de-France Mobilités' }),
       ta('bolt'),
@@ -37,6 +38,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Lyon, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('tcl', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncf'),
       ta('citymapper'),
       ta('bolt'),
@@ -55,6 +57,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Marseille, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('rtm', { ko: '노선·실시간', en: 'Routes, live times' }),
       ta('sncf'),
       ta('citymapper'),
       ta('bolt'),
@@ -73,6 +76,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Nice centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('lignes-azur', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncf'),
       ta('citymapper'),
       ta('bolt'),
@@ -87,6 +91,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bordeaux centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('tbm', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncf'),
       ta('citymapper'),
       ta('bolt'),
@@ -101,6 +106,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Strasbourg centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('cts', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncf'),
       ta('citymapper'),
       ta('bolt'),
@@ -143,6 +149,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Toulouse, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('tisseo', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncf'),
       ta('citymapper'),
       ta('bolt'),
@@ -231,6 +238,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ridacard/day tickets. Buses and trams; Old Town is hilly walking.',
     },
     apps: [
+      ta('lothian', { ko: '버스·트램 표·실시간', en: 'Bus and tram tickets, live times' }),
       ta('trainline'),
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
@@ -365,6 +373,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Leap card. Dublin Bus, Luas, DART. The core is walkable.',
     },
     apps: [
+      ta('tfi-live', { ko: '노선·실시간', en: 'Routes, live times' }),
       ta('irish-rail'),
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
@@ -446,6 +455,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'STIB/MIVB tickets/MOBIB. Metro and trams; Midi/Central are rail hubs.',
     },
     apps: [
+      ta('stib', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncb'),
       ta('citymapper'),
       ta('bolt'),
@@ -460,6 +470,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Bruges by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('de-lijn', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncb'),
       ta('citymapper'),
       ta('bolt'),
@@ -473,6 +484,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ghent centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('de-lijn', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncb'),
       ta('citymapper'),
       ta('bolt'),
@@ -487,6 +499,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Antwerp, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('de-lijn', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncb'),
       ta('citymapper'),
       ta('bolt'),
@@ -501,6 +514,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Leuven by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('de-lijn', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sncb'),
       ta('citymapper'),
       ta('bolt'),
@@ -533,6 +547,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'GVB day ticket or OV-chipkaart. Trams are central; bikes need careful parking and rules.',
     },
     apps: [
+      ta('gvb', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -551,6 +567,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Rotterdam, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('ret', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -565,6 +583,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'The Hague centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('htm', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -578,6 +598,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Utrecht centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -591,6 +612,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Haarlem by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -604,6 +626,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Delft by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -617,6 +640,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Maastricht by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -630,6 +654,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Giethoorn by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('ns'),
       ta('citymapper'),
       ta('bolt'),
@@ -719,6 +744,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'BVG ticket (zone AB). U/S-Bahn, tram, bus integrated. Jelbi and Citymapper help.',
     },
     apps: [
+      ta('bvg', { ko: '표 구매', en: 'Tickets' }),
       ta('db'),
       ta('citymapper'),
       ta('bolt'),
@@ -737,6 +763,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'MVV tickets. U/S-Bahn core; day tickets suit sightseeing.',
     },
     apps: [
+      ta('mvgo', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('db'),
       ta('citymapper'),
       ta('bolt'),
@@ -755,6 +782,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Hamburg, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('hvv-switch', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('db'),
       ta('citymapper'),
       ta('bolt'),
@@ -787,6 +815,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Frankfurt, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('rmvgo', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('db'),
       ta('citymapper'),
       ta('bolt'),
@@ -1051,6 +1080,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Wiener Linien tickets and WienMobil. U-Bahn and trams are excellent.',
     },
     apps: [
+      ta('wienmobil', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('oebb'),
       ta('citymapper'),
       ta('bolt'),
@@ -1171,6 +1201,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'PID Litacka/tourist pass. Metro+tram transfers. Prefer Bolt/Uber to street taxis.',
     },
     apps: [
+      ta('pid-litacka', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('cd'),
       ta('citymapper'),
       ta('bolt'),
@@ -1295,6 +1326,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'BudapestGO/passes. Metro and trams 4/6. Danube ferries are fun for sightseeing.',
     },
     apps: [
+      ta('budapestgo', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('mav'),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
     ],
@@ -1355,6 +1387,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'ZTM tickets/Warsaw City Card. Two metro lines plus trams.',
     },
     apps: [
+      ta('jakdojade', { ko: '시내 교통 표·길찾기', en: 'City transport tickets and routes' }),
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
@@ -1371,6 +1404,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Krakow centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('jakdojade', { ko: '시내 교통 표·길찾기', en: 'City transport tickets and routes' }),
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
@@ -1387,6 +1421,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Gdansk centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('jakdojade', { ko: '시내 교통 표·길찾기', en: 'City transport tickets and routes' }),
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
@@ -1403,6 +1438,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Wroclaw centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('jakdojade', { ko: '시내 교통 표·길찾기', en: 'City transport tickets and routes' }),
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
@@ -1415,6 +1451,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Poznan centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('jakdojade', { ko: '시내 교통 표·길찾기', en: 'City transport tickets and routes' }),
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
@@ -2167,6 +2204,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'ATAC tickets/BIT. Three metro lines plus buses. Walking often wins in the core.',
     },
     apps: [
+      ta('atac', { ko: '표 구매', en: 'Tickets' }),
       ta('trenitalia'),
       ta('citymapper'),
       ta('bolt'),
@@ -2226,6 +2264,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'ACTV vaporetto day pass. Boats between islands; walk the main island—bridges vs luggage.',
     },
     apps: [
+      ta('avm-venezia', { ko: '바포레토·버스 표', en: 'Vaporetto and bus tickets' }),
       ta('trenitalia'),
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
@@ -2247,6 +2286,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Naples, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('anm-go', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('trenitalia'),
       ta('citymapper'),
       ta('bolt'),
@@ -2261,6 +2301,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bologna centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('roger', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('trenitalia'),
       ta('citymapper'),
       ta('bolt'),
@@ -2289,6 +2330,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In Turin, metro/tram/bus cover main areas—use a city pass or app tickets.',
     },
     apps: [
+      ta('to-move', { ko: '표 구매', en: 'Tickets' }),
       ta('trenitalia'),
       ta('citymapper'),
       ta('bolt'),
@@ -3404,6 +3446,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Rejsekort/city pass. Metro, S-tog, buses; outstanding bike infrastructure.',
     },
     apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
       ta('dsb'),
       ta('citymapper'),
       ta('bolt'),
@@ -3417,6 +3460,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Aarhus by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
       ta('dsb'),
       ta('citymapper'),
       ta('bolt'),
@@ -3429,6 +3473,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Odense by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
       ta('dsb'),
       ta('citymapper'),
       ta('bolt'),
@@ -3441,6 +3486,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Aalborg by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
       ta('dsb'),
       ta('citymapper'),
       ta('bolt'),
@@ -3453,6 +3499,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Reach Roskilde by rail and local buses; walk or take short taxis for sights.',
     },
     apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
       ta('dsb'),
       ta('citymapper'),
       ta('bolt'),
@@ -3470,6 +3517,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'SL app/card. Tunnelbana, buses, ferries; some archipelago boats are in SL.',
     },
     apps: [
+      ta('sl', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sj'),
       ta('bolt'),
       ta('uber'),
@@ -3482,6 +3530,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Gothenburg centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('vasttrafik', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('sj'),
       ta('bolt'),
       ta('uber'),
@@ -3535,6 +3584,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Ruter tickets. T-bane, tram, bus, ferry; Entur for longer trips.',
     },
     apps: [
+      ta('ruter', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('vy'),
       ta('bolt'),
       ta('uber'),
@@ -3547,6 +3597,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Bergen centres on trams and buses; the old town is often best on foot.',
     },
     apps: [
+      ta('skyss', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('vy'),
       ta('bolt'),
       ta('uber'),
@@ -3626,6 +3677,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'HSL tickets/app. Trams, metro, and ferry to Suomenlinna.',
     },
     apps: [
+      ta('hsl', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('vr'),
       ta('bolt'),
       ta('uber'),
@@ -3691,6 +3743,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Strætó buses/Klapp app. Walk downtown; Golden Circle needs tour or rental.',
     },
     apps: [
+      ta('klappid', { ko: '버스 표', en: 'Bus tickets' }),
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
@@ -3829,6 +3882,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Vilnius is mainly local buses and walking. Use trains or coaches for nearby cities.',
     },
     apps: [
+      ta('trafi', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars than Uber' }),
       ta('uber'),
     ],
@@ -4416,6 +4470,7 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Istanbulkart for metro, tram, bus, ferry. Bosphorus ferries are handy.',
     },
     apps: [
+      ta('istanbulkart', { ko: '교통카드 충전·QR 탑승', en: 'Top up İstanbulkart, ride by QR' }),
       ta('citymapper'),
       ta('bolt'),
       ta('uber'),

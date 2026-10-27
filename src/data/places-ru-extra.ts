@@ -35,11 +35,16 @@ export const placesRUExtra: Place[] = [
 
   place('saint-petersburg-cafe-1', 'saint-petersburg', 'cafe', 'René', 'Nevsky Prospekt 28, 2nd floor (Singer House), Saint Petersburg', '넵스키 대로 싱어 하우스(돔 크니기 서점) 2층의 카페. 러시아·프랑스 요리를 냅니다.', 'Café on the second floor of the Singer House bookshop on Nevsky Prospekt, with Russian and French cooking.'),
 
+  place('saint-petersburg-bakery-1', 'saint-petersburg', 'bakery', 'Zoe', 'Radishcheva St 29, Saint Petersburg', '바스코프 골목 모퉁이의 새 물결 빵집. 도넛이 유명하고 아침 식사와 스페셜티 커피도 있습니다.', 'New-wave bakery on the corner of Baskov Lane, famous for its doughnuts, with breakfasts and specialty coffee.'),
+  place('saint-petersburg-bakery-2', 'saint-petersburg', 'bakery', 'Подписные булочки (Podpisnye Bulochki)', 'Liteyny Prospekt 57 (Podpisnye Izdaniya bookshop), Saint Petersburg', '서점 \'포드피스니예 이즈다니야\' 안의 빵집. 2020년부터 크루아상과 카다멈 번을 굽습니다.', 'Bakery inside the Podpisnye Izdaniya bookshop, baking croissants and cardamom buns since 2020.'),
+  place('saint-petersburg-bakery-3', 'saint-petersburg', 'bakery', 'Aster', 'Mayakovskogo St 23, Saint Petersburg', '줄 서는 브런치·빵집. 직접 구운 빵과 커피, 아침 식사를 냅니다.', 'Popular brunch spot and bakery with queues, serving its own bakes, coffee and breakfasts.'),
+
   place('saint-petersburg-korean-1', 'saint-petersburg', 'korean', 'МаккоЛи (MakkoLi)', 'Ligovsky Prospekt 25, Saint Petersburg', '플로샤지 보스스타니야역 가까이 있는 한식당. 시내에 지점이 여러 곳 있습니다.', 'Korean restaurant near Ploshchad Vosstaniya metro, one of several branches in the city.'),
 
   // —— kazan ——
   place('kazan-fine_dining-1', 'kazan', 'fine_dining', 'Tatar by Tubatay', 'Shigabutdina Mardzhani St 4, Kazan', '크렘린 근처의 타타르 요리 레스토랑. 2주쯤 전에 예약이 차기도 합니다.', 'Tatar restaurant near the Kremlin; tables are often booked about two weeks ahead.'),
   place('kazan-fine_dining-2', 'kazan', 'fine_dining', 'Татарская усадьба (Tatar Estate)', 'Shigabutdina Mardzhani St 8, Kazan', '옛 타타르 마을 분위기의 호텔 레스토랑. 아주와 말고기 요리 같은 타타르 음식을 냅니다.', 'Hotel restaurant styled on the old Tatar quarter, serving Tatar dishes such as azu and braised horse meat.'),
+  place('kazan-cafe-1', 'kazan', 'cafe', 'Ботаника (Botanika)', 'Zhukovskogo St 6, Kazan', '카잔 로스터리 보타니카의 벽돌 아치 카페. 필터 커피를 여러 원두로 고를 수 있고 원두도 팝니다.', 'Café under brick vaults from the local Botanika roastery, with several filter coffees to choose from and beans to take home.'),
 
   // —— vladivostok (Snob gastro guide, 14 Oct 2026) ——
   place('vladivostok-fine_dining-1', 'vladivostok', 'fine_dining', 'Улисс Азия (Ulysses Asia)', 'Naberezhnaya St 13, 14th floor (Burny complex), Vladivostok', '부르니 복합 건물 14층의 해산물 레스토랑. 아무르만이 내려다보입니다.', 'Seafood restaurant on the 14th floor of the Burny complex, looking over Amur Bay.'),
