@@ -225,16 +225,6 @@ export const NIGHT_TRAINS: NightTrain[] = [
     note: '2026년 5월 운행 재개.|Resumed in May 2026.',
   },
   {
-    id: 'uz-night',
-    name: '우크라이나 철도 야간열차|Ukrzaliznytsia',
-    operator: 'Ukrzaliznytsia',
-    url: 'https://booking.uz.gov.ua/en',
-    lines: [
-      ['kyiv', 'lviv'],
-      ['kyiv', 'odesa'],
-    ],
-  },
-  {
     id: 'rzd-night',
     name: '러시아 철도 야간열차|RZD',
     operator: 'RZD',
@@ -257,10 +247,7 @@ export const NIGHT_TRAIN_GROUPS: { title: string; ids: string[] }[] = [
     title: '동유럽·발칸|Eastern Europe & the Balkans',
     ids: ['pkp-night', 'en-chopin', 'regiojet-night', 'budapest-bucharest', 'cfr-night', 'bdz-night', 'hzpp-night', 'belgrade-bar'],
   },
-  {
-    title: '캅카스·우크라이나·러시아|Caucasus, Ukraine & Russia',
-    ids: ['caucasus-night', 'baku-tbilisi', 'uz-night', 'rzd-night'],
-  },
+  { title: '캅카스·러시아|Caucasus & Russia', ids: ['caucasus-night', 'baku-tbilisi', 'rzd-night'] },
 ]
 
 /** Night trains calling at a city, each with the other app cities it links to (in line order). */
