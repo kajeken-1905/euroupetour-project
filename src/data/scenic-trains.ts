@@ -152,6 +152,16 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
     url: 'https://www.scotrail.co.uk/',
   },
   {
+    id: 'jacobite',
+    name: '자코바이트 증기기관차|The Jacobite',
+    cities: ['edinburgh', 'glasgow'],
+    aliases: ['해리포터', '호그와트', '호그와트 급행', 'Harry Potter', 'Hogwarts Express', '글렌피넌', 'Glenfinnan'],
+    route: '포트윌리엄–말레이그 왕복 84마일. 영화 해리포터의 호그와트 급행이 지나던 글렌피넌 고가교를 건너는 증기기관차입니다. 에든버러·글래스고에서는 출발하지 않고, 글래스고에서 웨스트 하이랜드선으로 포트윌리엄까지 약 3시간 50분 걸립니다(에든버러에서는 글래스고를 거쳐 약 5시간).|Fort William–Mallaig and back, 84 miles, by steam over the Glenfinnan Viaduct seen as the Hogwarts Express route in the Harry Potter films. It does not start in Edinburgh or Glasgow: Fort William is about 3 h 50 from Glasgow on the West Highland Line (about 5 h from Edinburgh via Glasgow).',
+    season: '오전 편 6월 1일~10월 23일, 오후 편 6월 10일~9월 25일 (매일)|Morning train 1 June–23 October, afternoon train 10 June–25 September (daily)',
+    resv: true,
+    url: 'https://westcoastrailways.co.uk/jacobite/',
+  },
+  {
     id: 'kyle-line',
     name: '카일선|Kyle Line',
     cities: ['inverness', 'isle-of-skye'],
@@ -210,6 +220,17 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
     resv: false,
     url: 'https://www.cp.pt/passageiros/en',
   },
+  // —— Cross-border ——
+  {
+    id: 'vsoe-amalfi',
+    name: '오리엔트 익스프레스 파리–아말피 해안|Venice Simplon-Orient-Express: Paris to the Amalfi Coast',
+    cities: ['paris', 'pompeii', 'amalfi'],
+    aliases: ['오리엔트 익스프레스', 'Orient Express', '벨몬드', 'Belmond'],
+    route: '파리에서 1920~30년대 객차로 하룻밤을 달려 폼페이에 들른 뒤 라벨로 호텔 카루소에서 2박하는 3박 4일 호화 열차 여행입니다. 해마다 한 번 정도 출발하는 패키지 상품으로 식사·관광이 포함됩니다.|A three-night luxury trip: one night in 1920s–30s carriages from Paris, a stop at Pompeii, then two nights at the Caruso hotel in Ravello. A package with meals and excursions that departs about once a year.',
+    season: '다음 출발 2027년 4월 22~25일|Next departure 22–25 April 2027',
+    resv: true,
+    url: 'https://www.belmond.com/en/villeggiatura-by-train',
+  },
   // —— Slovakia ——
   {
     id: 'tatra-electric',
@@ -240,12 +261,13 @@ export const SCENIC_TRAIN_GROUPS: { title: string; ids: string[] }[] = [
   { title: '오스트리아|Austria', ids: ['semmering', 'schafbergbahn'] },
   { title: '노르웨이·스웨덴|Norway & Sweden', ids: ['flamsbana', 'bergensbanen', 'ofotbanen'] },
   { title: '프랑스|France', ids: ['montenvers', 'tramway-mont-blanc'] },
-  { title: '영국·맨섬|Great Britain & Isle of Man', ids: ['west-highland', 'kyle-line', 'snowdon', 'snaefell'] },
+  { title: '영국·맨섬|Great Britain & Isle of Man', ids: ['west-highland', 'jacobite', 'kyle-line', 'snowdon', 'snaefell'] },
   {
     title: '이탈리아·스페인·포르투갈|Italy, Spain & Portugal',
     ids: ['cinque-terre-express', 'soller', 'montserrat-rack', 'douro-line'],
   },
   { title: '슬로바키아|Slovakia', ids: ['tatra-electric'] },
+  { title: '국경을 넘는 호화 열차|Cross-border luxury trains', ids: ['vsoe-amalfi'] },
 ]
 
 export function getCityScenicTrains(cityId: string): ScenicTrain[] {

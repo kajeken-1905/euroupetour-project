@@ -142,7 +142,7 @@ function buildIndex(): SearchEntry[] {
   }
   for (const st of SCENIC_TRAINS) {
     const sub = { ko: '특색 열차·산악 열차', en: 'Scenic & mountain railway' }
-    out.push(entry('train', `scenic:${st.id}`, split(st.name), sub, '/search'))
+    out.push(entry('train', `scenic:${st.id}`, split(st.name), sub, '/search', st.aliases))
   }
   return out
 }

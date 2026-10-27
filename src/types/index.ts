@@ -114,6 +114,8 @@ export interface ScenicTrain {
   cities: string[]
   /** Other countries the line runs into, beyond those of its app cities */
   alsoIn?: string[]
+  /** Extra words the search screen matches, e.g. a film the line appears in */
+  aliases?: string[]
   /** 'ko|en' */
   route: string
   /** 'ko|en'; only for lines that run part of the year */
