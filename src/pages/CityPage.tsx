@@ -32,7 +32,6 @@ import { ForecastPanel } from '../components/ForecastPanel'
 import { MyPlanPanel } from '../components/MyPlanPanel'
 import { FootballClubsPanel } from '../components/FootballPanel'
 import { t } from '../i18n/ui'
-import { useTrip } from '../trip/store'
 import { bilingualName, titleNames } from '../utils/placeNames'
 import type { CategoryId } from '../types'
 
@@ -49,7 +48,6 @@ function CityView() {
   const city = getCity(cityId)
   const country = city ? getCountry(city.countryId) : undefined
   const [category, setCategory] = useState<CategoryId>('fine_dining')
-  const trip = useTrip()
 
   const placeList = useMemo(
     () => (city ? getPlacesByCityAndCategory(city.id, category) : []),
@@ -168,11 +166,6 @@ function CityView() {
         {t('foodGuide', lang)}
       </p>
       <CategoryTabs value={category} onChange={setCategory} />
-      {placeList.some((p) => trip.beenPlaces.includes(p.id)) ? (
-        <p className="section-label" style={{ marginTop: 0 }}>
-          <BeenCount ids={placeList.map((p) => p.id)} been={trip.beenPlaces} />
-        </p>
-      ) : null}
 
       {placeList.length === 0 ? (
         <div className="empty-state">
@@ -191,17 +184,5 @@ function CityView() {
         </>
       )}
     </div>
-  )
-}
-
-/** "✓ 3/8 visited" beside a list heading; nothing until at least one is marked. */
-function BeenCount({ ids, been }: { ids: string[]; been: string[] }) {
-  const { lang } = useLanguage()
-  const n = ids.filter((id) => been.includes(id)).length
-  if (n === 0) return null
-  return (
-    <span className="been-count">
-      {t('beenCount', lang).replace('{n}', String(n)).replace('{total}', String(ids.length))}
-    </span>
   )
 }
