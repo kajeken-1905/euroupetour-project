@@ -1328,7 +1328,6 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'bitola-h2': [41.0114, 21.34213],
   'bitola-h3': [41.03083, 21.33392],
   'bitola-h5': [41.02986, 21.33529],
-  'nicosia-h2': [35.17627, 33.36279],
   'nicosia-h4': [35.17173, 33.35575],
   'nicosia-h5': [35.17315, 33.36263],
   'limassol-h2': [34.67225, 33.04167],

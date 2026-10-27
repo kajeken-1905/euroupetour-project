@@ -18165,13 +18165,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nicosia%20Venetian%20walls",
       },
       {
-        id: "nicosia-h2",
-        name: { ko: "부육 한", en: "Büyük Han" },
-        description: { ko: "오스만 대상인 숙소·마당입니다.", en: "Ottoman caravanserai courtyard." },
-        image: "/highlights/nicosia-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=B%C3%BCy%C3%BCk%20Han%20Nicosia",
-      },
-      {
         id: "nicosia-h3",
         name: { ko: "레드라 거리", en: "Ledra Street" },
         description: { ko: "쇼핑·체크포인트 보행 거리입니다.", en: "Shopping and crossing pedestrian street." },

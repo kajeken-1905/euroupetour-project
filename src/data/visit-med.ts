@@ -121,7 +121,6 @@ export const visitMed: Record<string, HighlightVisit> = {
 
   // Cyprus
   'nicosia-h1': v(30, 45),
-  'nicosia-h2': v(30, 45, { n: '북쪽 지역에 있어 레드라 거리 검문소에서 여권을 보여 주고 건너갑니다.|In the north—cross at the Ledra Street checkpoint with your passport.' }),
   'nicosia-h3': v(30, 45),
   'nicosia-h4': v(90, 120, { c: 'mon', b: 'no', s: 'https://www.visitcyprus.com/discover-cyprus/page/417/', n: '화~금 8:00~18:00, 토 9:00~17:00, 일 10:00~13:00.|Tue–Fri 8:00–18:00, Sat 9:00–17:00, Sun 10:00–13:00.', k: '2026-10' }),
   'nicosia-h5': v(15, 20),

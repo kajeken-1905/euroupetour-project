@@ -130,7 +130,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   ohrid: [3, 5, 4, 2, 1],
   bitola: [3, 5, 1, 4, 2],
   tetovo: { days: [['', 1, 5, 4, 2]], trips: [['샤르 산맥|Šar Mountains', 3]] },
-  nicosia: [4, 1, 5, 3, 2],
+  nicosia: [4, 1, 5, 3],
   limassol: { days: [['', 3, 1, 2, 4]], trips: [['와인 박물관|Wine Museum', 5]] },
   paphos: { days: [['', 3, 2, 1, 4]], trips: [['아프로디테 바위|Aphrodite’s Rock', 5]] },
   'ayia-napa': [1, 3, 4, 2, 5],

@@ -118,4 +118,16 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   sibiu: { r: '...........o', n: '12월에는 큰 광장에서 크리스마스 마켓이 열립니다.|The Christmas market fills the Large Square in December.' },
   stepantsminda: { n: '겨울에는 눈으로 조지아 군사 도로가 통제되는 날이 있습니다. 기온은 마을 기준입니다.|In winter, snow sometimes closes the Georgian Military Highway. Temperatures are for the village.' },
   batumi: { n: '연중 비가 잦습니다. 해수욕은 7~9월이 제철입니다.|It rains often all year; swimming season is July–September.' },
+  // Isle of Man, Channel Islands, Faroes, Greenland, Russia
+  douglas: { n: '5월 말~6월 초 TT 오토바이 경주 기간에는 배와 숙소가 일찍 차고, 경주가 열리는 시간에는 코스 도로가 막힙니다.|During the TT motorcycle races (late May to early June) ferries and rooms book up early, and the course roads close while racing is on.' },
+  'st-helier': { n: '8월 둘째 금·토요일 꽃 축제(배틀 오브 플라워스) 때는 숙소가 일찍 찹니다.|Rooms go early for the Battle of Flowers on the second Friday and Saturday of August.' },
+  sark: { n: '11월~3월에는 건지에서 오는 배가 하루 1~2편으로 줄어 당일치기가 어려운 날이 있습니다. 저지에서 오는 배는 4월 말~9월에만 다닙니다.|From November to March, sailings from Guernsey drop to one or two a day, so some days rule out a day trip; boats from Jersey run only from late April to September.' },
+  torshavn: { n: '7월 28~29일 국경일 올라브쇠카에는 시내 전체가 축제 분위기이고 숙소가 빨리 찹니다.|The national festival Ólavsøka on 28–29 July fills the town and its rooms.' },
+  vagar: { r: '....o+++....', n: '미키네스섬은 5월 1일~8월 31일에만 들어갈 수 있고 퍼핀도 이때만 있습니다. 배는 미리 예약하고, 마을 밖 하이킹은 따로 요금을 냅니다.|Mykines can be visited only from 1 May to 31 August, which is also puffin season; book the ferry ahead and expect a separate fee to hike beyond the village.' },
+  nuuk: { n: '오로라는 9월~3월 맑은 밤에 볼 수 있습니다. 6월 21일은 그린란드 국경일입니다.|Northern lights show on clear nights from September to March; 21 June is Greenland’s National Day.' },
+  ilulissat: { r: 'o++oo+++o---', n: '백야는 5월 하순~7월 하순, 해가 뜨지 않는 극야는 11월 말~1월 중순입니다. 오로라는 9월~3월, 개썰매는 2~4월이 제철입니다.|Midnight sun from late May to late July; the sun stays down from late November to mid-January. Northern lights September–March, dog sledding February–April.' },
+  kangerlussuaq: { r: 'ooo.....+o..', n: '오로라는 9월~4월 초에 볼 수 있고, 건조한 내륙이라 맑은 밤이 많습니다. 겨울에는 영하 15도 아래로 자주 내려갑니다.|Northern lights from September to early April, and the dry inland climate gives many clear nights; winter often drops below −15°C.' },
+  'saint-petersburg': { n: '백야는 6월 중순 전후로, 이때 가장 붐빕니다. 4월 10일~11월 30일에는 밤마다 네바강 다리가 들려 새벽에는 강을 건널 수 없으니 숙소 위치를 확인하세요.|White nights peak around mid-June, the busiest time. From 10 April to 30 November the Neva bridges are raised every night, so you cannot cross the river in the small hours; check which bank your hotel is on.' },
+  vladivostok: { n: '6~7월에는 바다 안개와 비가 잦습니다. 8월은 해수욕 철이고, 9월은 따뜻하고 한적해 가장 좋습니다.|June and July bring frequent sea fog and rain; August is beach season, and September, warm and quieter, is the best month.' },
+  irkutsk: { r: '.oo.........', n: '바이칼 호수 얼음은 2월~3월 초에 가장 맑아 얼음 위 산책·스케이트 투어가 열립니다. 얼음 위에서는 현지 가이드와 다니세요.|Lake Baikal’s ice is clearest from February to early March, when ice walks and skating tours run; go with a local guide on the ice.' },
 }
