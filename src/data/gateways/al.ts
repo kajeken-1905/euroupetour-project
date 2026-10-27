@@ -1,0 +1,30 @@
+// Airports, stations and ports, with the ways into the centre. Mostly routes and times; figures marked 약/about are estimates.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-tia',
+    cityId: 'tirana',
+    kind: 'air',
+    name: '티라나 국제공항|Tirana International Airport',
+    code: 'TIA',
+    intl: true,
+    about: '시내에서 북서쪽 약 17km 리나스에 있습니다.|About 17 km north-west of the city at Rinas.',
+    options: [
+      {
+        mode: 'bus',
+        name: '공항버스(Rinas Express)|Airport bus (Rinas Express)',
+        route: '공항 → 티라나 시내(스칸데르베그 광장 근처)|Airport → central Tirana (near Skanderbeg Square)',
+        time: '약 25분|About 25 min',
+      },
+      {
+        mode: 'taxi',
+        name: '택시·차량 호출|Taxi or ride-hailing',
+        route: '도착층 승차장 또는 앱 호출|Arrivals rank or app',
+      },
+    ],
+    maps: 'Tirana International Airport',
+    site: 'https://www.tirana-airport.com/en',
+    checked: '2026-10',
+  },
+]

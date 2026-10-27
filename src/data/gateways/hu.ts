@@ -47,4 +47,23 @@ export const GATEWAYS: Gateway[] = [
     maps: 'Budapest-Keleti',
     checked: '2026-10',
   },
+  {
+    id: 'gw-deb',
+    cityId: 'debrecen',
+    kind: 'air',
+    name: '데브레첸 국제공항|Debrecen International Airport',
+    code: 'DEB',
+    intl: true,
+    about: '시내에서 남쪽 약 5km의 작은 공항입니다.|A small airport about 5 km south of the city.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시·차량 호출|Taxi or ride-hailing',
+        route: '도착층 승차장 또는 앱 호출|Arrivals rank or app',
+      },
+    ],
+    maps: 'Debrecen International Airport',
+    site: 'https://www.debrecenairport.com',
+    checked: '2026-10',
+  },
 ]

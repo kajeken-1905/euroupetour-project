@@ -269,4 +269,24 @@ export const GATEWAYS: Gateway[] = [
     site: 'https://www.hial.co.uk/inverness-airport',
     checked: '2026-10',
   },
+  {
+    id: 'gw-ldy',
+    cityId: 'derry',
+    kind: 'air',
+    name: '시티 오브 데리 공항|City of Derry Airport',
+    code: 'LDY',
+    intl: true,
+    about: '데리 시내에서 북동쪽 약 11km의 작은 공항입니다.|A small airport about 11 km north-east of Derry.',
+    options: [
+      {
+        mode: 'bus',
+        name: '버스·택시|Bus or taxi',
+        route: '공항 → 데리 시내|Airport → Derry centre',
+        time: '약 20분|About 20 min',
+      },
+    ],
+    maps: 'City of Derry Airport',
+    site: 'https://www.cityofderryairport.com/',
+    checked: '2026-10',
+  },
 ]

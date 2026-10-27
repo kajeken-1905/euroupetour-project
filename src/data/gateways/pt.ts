@@ -169,4 +169,29 @@ export const GATEWAYS: Gateway[] = [
     maps: 'Estação de Santa Apolónia',
     checked: '2026-10',
   },
+  {
+    id: 'gw-fnc',
+    cityId: 'funchal',
+    kind: 'air',
+    name: '마데이라 크리스티아누 호날두 공항|Madeira Cristiano Ronaldo Airport',
+    code: 'FNC',
+    intl: true,
+    about: '바다 위 기둥에 놓인 활주로로 유명합니다. 푼샬 시내에서 동쪽 약 15km입니다.|Known for its runway on stilts over the sea; about 15 km east of Funchal.',
+    options: [
+      {
+        mode: 'bus',
+        name: '공항버스|Airport bus',
+        route: '공항 → 푼샬 시내|Airport → Funchal centre',
+        time: '약 30분|About 30 min',
+      },
+      {
+        mode: 'taxi',
+        name: '택시·차량 호출|Taxi or ride-hailing',
+        route: '도착층 승차장 또는 앱 호출|Arrivals rank or app',
+      },
+    ],
+    maps: 'Aeroporto da Madeira',
+    site: 'https://www.madeiraairport.pt/en',
+    checked: '2026-10',
+  },
 ]

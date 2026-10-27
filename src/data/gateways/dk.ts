@@ -51,4 +51,30 @@ export const GATEWAYS: Gateway[] = [
     maps: 'København H',
     checked: '2026-10',
   },
+  {
+    id: 'gw-aal',
+    cityId: 'aalborg',
+    kind: 'air',
+    name: '올보르 공항|Aalborg Airport',
+    code: 'AAL',
+    intl: true,
+    about: '시내에서 북서쪽 약 6km입니다.|About 6 km north-west of the city.',
+    options: [
+      {
+        mode: 'bus',
+        name: '12번 버스|Bus 12',
+        route: '공항 → 올보르 시내·역|Airport → city centre, station',
+        time: '약 20분|About 20 min',
+      },
+      {
+        mode: 'train',
+        name: '기차|Train',
+        route: '올보르 공항역 → 올보르역|Aalborg Lufthavn → Aalborg',
+        time: '약 10분|About 10 min',
+      },
+    ],
+    maps: 'Aalborg Airport',
+    site: 'https://www.aal.dk/en',
+    checked: '2026-10',
+  },
 ]
