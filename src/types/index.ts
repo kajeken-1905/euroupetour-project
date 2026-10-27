@@ -95,6 +95,20 @@ export interface CountryEssentials {
 
 export type RouteMode = 'train' | 'bus' | 'ferry' | 'mixed' | 'flight'
 
+/** A scenic or mountain railway shown on the cities it starts from or is reached from. */
+export interface ScenicTrain {
+  id: string
+  name: string
+  cities: string[]
+  /** 'ko|en' */
+  route: string
+  /** 'ko|en'; only for lines that run part of the year */
+  season?: string
+  /** Seat reservation (or a timed ticket) is required */
+  resv: boolean
+  url: string
+}
+
 /** A night-train service; `lines` are the app cities it calls at, in order. */
 export interface NightTrain {
   id: string

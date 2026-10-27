@@ -161,6 +161,9 @@ export const ui = {
   essTime: { ko: '시간대', en: 'Time zone' },
   routesTitle: { ko: '다음 도시로 이동', en: 'Onward travel' },
   nightTrainsTitle: { ko: '야간열차', en: 'Night trains' },
+  scenicTrainsTitle: { ko: '특색 열차·산악 열차', en: 'Scenic & mountain railways' },
+  scenicTrainsResv: { ko: '예약 필수', en: 'Reservation required' },
+  scenicTrainsSite: { ko: '공식 사이트', en: 'Official site' },
   nightTrainsBook: { ko: '공식 예약', en: 'Book' },
   nightTrainsHint: {
     ko: '운행 요일·기간은 노선마다 다르니 예약 전에 확인하세요. 유레일(인터레일) 패스로 탈 수 있는 열차도 침대·쿠셋 예약비는 따로 냅니다.',
