@@ -247,7 +247,7 @@ export const GATEWAYS: Gateway[] = [
       },
     ],
     maps: 'Flughafen Leipzig/Halle',
-    site: 'https://www.mdf-ag.com/en/leipzig-halle-airport',
+    site: 'https://www.leipzig-halle-airport.de/en/',
     checked: '2026-10',
   },
   {

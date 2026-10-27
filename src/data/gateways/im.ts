@@ -19,7 +19,7 @@ export const GATEWAYS: Gateway[] = [
       },
     ],
     maps: 'Isle of Man Airport',
-    site: 'https://www.iomairport.com/',
+    site: 'https://www.airport.im/',
     checked: '2026-10',
   },
 ]

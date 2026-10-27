@@ -389,7 +389,7 @@ export const GATEWAYS: Gateway[] = [
       },
     ],
     maps: 'Aeropuerto Federico García Lorca Granada-Jaén',
-    site: 'https://www.aena.es/en/federico-garcia-lorca-granada-jaen.html',
+    site: 'https://www.aena.es/en/f.g.l.-granada-jaen.html',
     checked: '2026-10',
   },
   {

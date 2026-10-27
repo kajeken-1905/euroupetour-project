@@ -143,7 +143,6 @@ export const GATEWAYS: Gateway[] = [
       },
     ],
     maps: 'Flughafen Graz',
-    site: 'https://www.flughafen-graz.at/en/',
     checked: '2026-10',
   },
 ]
