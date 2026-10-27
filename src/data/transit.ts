@@ -57,8 +57,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('tfl', { ko: '런던', en: 'London' }),
-      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('trainline', { ko: '기차 예약', en: 'Train booking' }),
+      ta('national-rail', { ko: '실시간 열차 정보', en: 'Live train times' }),
+      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt', { ko: '런던 등', en: 'London etc.' }),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
@@ -90,8 +91,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('tfi-live', { ko: '전국 실시간·길찾기', en: 'Nationwide live times and planner' }),
-      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('irish-rail', { ko: '기차', en: 'Trains' }),
+      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '더블린 등', en: 'Dublin etc.' }),
@@ -176,8 +177,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('mobiliteit-lu', { ko: '전국 길찾기 (대중교통 무료)', en: 'Nationwide planner (public transport is free)' }),
-      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('cfl', { ko: '기차·이동', en: 'Rail & travel' }),
+      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('uber', { ko: '룩셈부르크시', en: 'Luxembourg City' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
@@ -306,6 +307,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('oebb', { ko: 'ÖBB 기차', en: 'ÖBB trains' }),
+      ta('westbahn', { ko: '빈–잘츠부르크 민간 열차', en: 'Private trains, Vienna–Salzburg' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('citymapper', { ko: '빈', en: 'Vienna' }),
       ta('bolt'),
@@ -356,8 +358,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('idos', { ko: '전국 기차·버스 시간표', en: 'Nationwide train and bus timetables' }),
-      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('cd', { ko: '기차', en: 'Trains' }),
+      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '프라하·브르노', en: 'Prague & Brno' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
@@ -386,7 +388,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City tickets via app/kiosk; Bolt is handy, Uber only in Bratislava.',
     },
     apps: [
-      ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
+      ta('zssk', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt'),
       ta('uber', { ko: '브라티슬라바만', en: 'Bratislava only' }),
@@ -473,6 +475,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('renfe', { ko: '기차·AVE', en: 'Trains / AVE' }),
+      ta('iryo', { ko: '고속열차 (민간)', en: 'High-speed trains (private)' }),
+      ta('ouigo-es', { ko: '고속열차 (민간)', en: 'High-speed trains (private)' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('alsa', { ko: '장거리 버스', en: 'Coach buses' }),
       ta('bolt'),
@@ -557,6 +561,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('trenitalia', { ko: '기차', en: 'Trains' }),
+      ta('italo', { ko: '고속열차 (민간)', en: 'High-speed trains (private)' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt'),
       ta('free-now', { ko: '일반 택시', en: 'Licensed taxis' }),
@@ -629,7 +634,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Athens Ath.ena card; islands mix cash and cards.',
     },
     apps: [
-      ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
+      ta('hellenic-train', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt'),
       ta('uber', { ko: '아테네 등', en: 'Athens etc.' }),
@@ -734,8 +739,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('entur', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
-      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('vy', { ko: '기차·버스', en: 'Trains & buses' }),
+      ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt'),
       ta('uber', { ko: '오슬로·베르겐 등', en: 'Oslo, Bergen etc.' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
@@ -806,8 +811,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Tallinn card/app; Bolt is the default, Uber only in Tallinn.',
     },
     apps: [
-      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('elron', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '탈린만', en: 'Tallinn only' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('lux-express', { ko: '고속버스', en: 'Long-distance coaches' }),
@@ -829,8 +835,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Riga e-talons; no Uber—Bolt is the standard.',
     },
     apps: [
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('vivi', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('lux-express', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('ecolines', { ko: '고속버스', en: 'Long-distance coaches' }),
@@ -852,8 +859,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City cards/apps; Bolt is far more reliable, Uber only in Vilnius with long waits.',
     },
     apps: [
-      ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars' }),
+      ta('ltg-link', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars' }),
       ta('uber', { ko: '빌뉴스만', en: 'Vilnius only' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('lux-express', { ko: '고속버스', en: 'Long-distance coaches' }),
@@ -881,8 +889,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City tickets/apps; book peak ferries/buses ahead.',
     },
     apps: [
-      ta('flixbus', { ko: '장거리 버스', en: 'Coaches' }),
+      ta('hzpp', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('flixbus', { ko: '장거리 버스', en: 'Coaches' }),
       ta('bolt'),
       ta('uber'),
       ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
@@ -907,7 +916,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City cards like Urbana; no Uber or Bolt rides—use taxis.',
     },
     apps: [
-      ta('trainline'),
+      ta('sz', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
@@ -927,8 +936,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Buy bus tickets at stations; use taxis in cities.',
     },
     apps: [
-      ta('flixbus'),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('flixbus'),
       ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
@@ -947,8 +956,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Station/online bus tickets; no Uber or Bolt—use local taxis.',
     },
     apps: [
-      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
@@ -967,8 +976,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City bus cards/apps; CarGo helps in big cities.',
     },
     apps: [
-      ta('flixbus'),
+      ta('srbijavoz', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('flixbus'),
       ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
@@ -987,8 +997,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Station tickets; city buses and taxis.',
     },
     apps: [
-      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
@@ -1031,8 +1041,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'City transit cards; TaxiMe is the go-to taxi app.',
     },
     apps: [
-      ta('flixbus'),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('flixbus'),
       ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
       ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
@@ -1056,7 +1066,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Bucharest Metrorex card; Bolt first, Uber as backup in big cities.',
     },
     apps: [
-      ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
+      ta('cfr', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber'),
@@ -1080,8 +1090,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Istanbulkart; BiTaksi and Uber for taxis (rules shift). Coaches for long trips.',
     },
     apps: [
-      ta('uber', { ko: '대도시·규제 확인', en: 'Big cities; check rules' }),
+      ta('tcdd', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('rail-planner', { ko: '유레일(인터레일) 패스·좌석 예약', en: 'Eurail/Interrail Pass and seat reservations' }),
+      ta('uber', { ko: '대도시·규제 확인', en: 'Big cities; check rules' }),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('obilet', { ko: '고속버스', en: 'Long-distance coaches' }),
       ta('pegasus', { ko: '저가 항공', en: 'Low-cost airline' }),
@@ -1102,6 +1113,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Tbilisi MetroMoney; Bolt/Yandex Go are common.',
     },
     apps: [
+      ta('georgian-railway', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
       ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
@@ -1121,6 +1133,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Bolt and Uklon taxi apps are common.',
     },
     apps: [
+      ta('uz', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
       ta('bolt'),
       ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
@@ -1177,7 +1190,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: 'BakıKart 교통카드. Bolt 택시 앱이 흔합니다.',
       en: 'BakıKart transit card; Bolt taxi app is common.',
     },
-    apps: [ta('bolt')],
+    apps: [
+      ta('ady', { ko: '국영 철도 표·시간표', en: 'National railway tickets and timetables' }),
+      ta('bolt'),
+    ],
   },
   sm: {
     summary: {
@@ -1193,7 +1209,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: '구시가는 도보 중심. 티타노산은 케이블카로 오릅니다.',
       en: 'Old town is walkable; take the cable car up Mount Titano.',
     },
-    apps: [ta('trainline', { ko: '리미니 기차 예약', en: 'Rimini train booking' })],
+    apps: [ta('trenitalia', { ko: '리미니 기차 예약', en: 'Rimini train booking' })],
   },
   xk: {
     summary: {

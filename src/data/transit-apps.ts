@@ -462,6 +462,50 @@ const APP_CATALOG = {
     url: 'https://apps.apple.com/app/id579547877',
     icon: '/transit-apps/rail-planner.png',
   },
+  'national-rail': {
+    name: 'National Rail',
+    url: 'https://apps.apple.com/app/id519094154',
+    icon: '/transit-apps/national-rail.png',
+  },
+  'hellenic-train': {
+    name: 'Hellenic Train',
+    url: 'https://apps.apple.com/app/id1600289122',
+    icon: '/transit-apps/hellenic-train.png',
+  },
+  cfr: { name: 'CFR Călători', url: 'https://apps.apple.com/app/id1600030825', icon: '/transit-apps/cfr.png' },
+  sz: { name: 'Grem z vlakom', url: 'https://apps.apple.com/app/id1445994826', icon: '/transit-apps/sz.png' },
+  zssk: { name: 'IDeme vlakom', url: 'https://apps.apple.com/app/id1465574367', icon: '/transit-apps/zssk.png' },
+  hzpp: { name: 'HŽPP', url: 'https://apps.apple.com/app/id6745001453', icon: '/transit-apps/hzpp.png' },
+  srbijavoz: { name: 'Srbijavoz', url: 'https://apps.apple.com/app/id1600735042', icon: '/transit-apps/srbijavoz.png' },
+  tcdd: { name: 'TCDD E-Bilet', url: 'https://apps.apple.com/app/id1360892562', icon: '/transit-apps/tcdd.png' },
+  elron: {
+    name: 'Elron',
+    url: 'https://apps.apple.com/app/id6472055261',
+    icon: '/transit-apps/elron.png',
+    noKrStore: true,
+  },
+  vivi: { name: 'Vivi', url: 'https://apps.apple.com/app/id6448395529', icon: '/transit-apps/vivi.png' },
+  'ltg-link': { name: 'LTG Link', url: 'https://apps.apple.com/app/id1594730224', icon: '/transit-apps/ltg-link.png' },
+  italo: { name: 'Italo', url: 'https://apps.apple.com/app/id804056898', icon: '/transit-apps/italo.png' },
+  uz: {
+    name: 'Ukrainian Railways',
+    url: 'https://apps.apple.com/app/id1626073366',
+    icon: '/transit-apps/uz.png',
+    noKrStore: true,
+  },
+  ady: { name: 'ADY Mobile', url: 'https://apps.apple.com/app/id1644497480', icon: '/transit-apps/ady.png' },
+  'georgian-railway': {
+    name: 'Georgian Railway',
+    url: 'https://apps.apple.com/app/id6746049057',
+    icon: '/transit-apps/georgian-railway.png',
+  },
+  westbahn: { name: 'WESTbahn', url: 'https://apps.apple.com/app/id1289155633', icon: '/transit-apps/westbahn.png' },
+  iryo: { name: 'iryo', url: 'https://apps.apple.com/app/id6444018990', icon: '/transit-apps/iryo.png' },
+  'ouigo-es': {
+    name: 'OUIGO España',
+    url: 'https://apps.apple.com/app/id1540252023',
+    icon: '/transit-apps/ouigo-es.png',
+  },
 } as const
 
 type AppId = keyof typeof APP_CATALOG
