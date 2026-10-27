@@ -19,6 +19,7 @@ import { getCityHubs } from '../data/hubs'
 import { getCityRoutes } from '../data/routes'
 import { TourButton } from '../components/TourButton'
 import { RoutesPanel } from '../components/RoutesPanel'
+import { NightTrainsPanel } from '../components/NightTrainsPanel'
 import { ItineraryPanel } from '../components/ItineraryPanel'
 import { CityMap } from '../components/CityMap'
 import { PlannerPanel } from '../components/PlannerPanel'
@@ -150,6 +151,7 @@ function CityView() {
       <PassesPanel passes={getCityPasses(city.id, country.id)} />
 
       <RoutesPanel routes={getCityRoutes(city.id)} />
+      <NightTrainsPanel cityId={city.id} />
       <TourButton cityId={city.id} />
 
       <p className="section-label" style={{ marginTop: 22 }}>

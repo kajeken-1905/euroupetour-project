@@ -95,6 +95,17 @@ export interface CountryEssentials {
 
 export type RouteMode = 'train' | 'bus' | 'ferry' | 'mixed' | 'flight'
 
+/** A night-train service; `lines` are the app cities it calls at, in order. */
+export interface NightTrain {
+  id: string
+  name: string
+  operator: string
+  url: string
+  lines: string[][]
+  /** 'ko|en' */
+  note?: string
+}
+
 /** A direct onward connection from one city to another, as seen from one end. */
 export interface CityRoute {
   toCityId: string

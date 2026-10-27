@@ -160,6 +160,12 @@ export const ui = {
   essToilets: { ko: '화장실', en: 'Toilets' },
   essTime: { ko: '시간대', en: 'Time zone' },
   routesTitle: { ko: '다음 도시로 이동', en: 'Onward travel' },
+  nightTrainsTitle: { ko: '야간열차', en: 'Night trains' },
+  nightTrainsBook: { ko: '공식 예약', en: 'Book' },
+  nightTrainsHint: {
+    ko: '운행 요일·기간은 노선마다 다르니 예약 전에 확인하세요. 유레일(인터레일) 패스로 탈 수 있는 열차도 침대·쿠셋 예약비는 따로 냅니다.',
+    en: 'Days and seasons differ by route, so check before booking. Even where a Eurail/Interrail Pass is valid, beds and couchettes cost extra.',
+  },
   routesHint: {
     ko: '가장 빠른 편 기준의 대략적인 소요 시간입니다. 시간표와 예약은 운영사에서 확인하세요.',
     en: 'Approximate fastest journey times. Check timetables and reservations with the operator.',
