@@ -4,7 +4,7 @@ import { getCityBrief as getCity } from '../data/cityIndex'
 import { getCityScenicTrains, getCountryScenicTrains } from '../data/scenic-trains'
 import { t } from '../i18n/ui'
 import type { ScenicTrain } from '../types'
-import { pick } from './NightTrainsPanel'
+import { pick, TrainFares } from './NightTrainsPanel'
 
 /** Name and reservation tag of a scenic-train card. */
 export function ScenicTrainHead({ train }: { train: ScenicTrain }) {
@@ -26,11 +26,7 @@ export function ScenicTrainBody({ train, cities }: { train: ScenicTrain; cities?
     <>
       <p className="night-train-note">{pick(train.route, lang)}</p>
       {train.season ? <p className="night-train-note">🗓️ {pick(train.season, lang)}</p> : null}
-      {train.price ? (
-        <p className="night-train-note">
-          💷 {t('scenicTrainsPrice', lang)} {pick(train.price, lang)}
-        </p>
-      ) : null}
+      <TrainFares price={train.price} pass={train.pass} />
       {cities ? (
         <div className="night-train-stops">
           {train.cities.map((id) => {
@@ -68,6 +64,7 @@ function Panel({ trains, label, cities }: { trains: ScenicTrain[]; label?: boole
             </li>
           ))}
         </ul>
+        <p className="route-hint">{t('scenicTrainsHint', lang)}</p>
       </div>
     </section>
   )

@@ -98,6 +98,7 @@ export function TrainTripsPanel({ focus }: { focus?: string }) {
           </ul>
         </section>
       ))}
+      <p className="route-hint">{t('scenicTrainsHint', lang)}</p>
     </section>
   )
 }

@@ -165,6 +165,11 @@ export const ui = {
   funicularsTitle: { ko: '푸니쿨라·케이블카', en: 'Funiculars & cable cars' },
   scenicTrainsResv: { ko: '예약 필수', en: 'Reservation required' },
   scenicTrainsPrice: { ko: '대략 가격:', en: 'Rough fare:' },
+  trainPass: { ko: '패스:', en: 'Passes:' },
+  scenicTrainsHint: {
+    ko: '가격은 2026년 기준 대략 금액이며 일부는 여행 안내 사이트 기준입니다. 패스 혜택은 인터레일·스위스 트래블 패스 안내 기준이니 예약 전에 공식 사이트에서 확인하세요.',
+    en: 'Fares are rough 2026 figures, some from travel guides. Pass terms follow Interrail and Swiss Travel Pass information; check the official site before booking.',
+  },
   scenicTrainsSite: { ko: '공식 사이트', en: 'Official site' },
   trainTripsTitle: { ko: '열차 여행 · 야간열차와 특색 열차', en: 'Train journeys · night trains and scenic railways' },
   trainTripsNote: {

@@ -122,6 +122,8 @@ export interface ScenicTrain {
   season?: string
   /** 'ko|en'; rough fare, with its source when not the operator's own */
   price?: string
+  /** 'ko|en'; Interrail/Eurail and Swiss Travel Pass terms */
+  pass?: string
   /** Seat reservation (or a timed ticket) is required */
   resv: boolean
   url: string
@@ -136,6 +138,10 @@ export interface NightTrain {
   lines: string[][]
   /** 'ko|en' */
   note?: string
+  /** 'ko|en'; rough fares, which move with date and demand */
+  price?: string
+  /** 'ko|en'; what Interrail/Eurail holders pay */
+  pass?: string
 }
 
 /** A direct onward connection from one city to another, as seen from one end. */

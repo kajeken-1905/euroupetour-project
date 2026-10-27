@@ -49,12 +49,32 @@ export function NightTrainHead({ train }: { train: NightTrain }) {
   )
 }
 
-/** Note and booking link under a night train's stops. */
+/** Rough fare and pass terms of a night or scenic train. */
+export function TrainFares({ price, pass }: { price?: string; pass?: string }) {
+  const { lang } = useLanguage()
+  return (
+    <>
+      {price ? (
+        <p className="night-train-note">
+          💷 {t('scenicTrainsPrice', lang)} {pick(price, lang)}
+        </p>
+      ) : null}
+      {pass ? (
+        <p className="night-train-note">
+          🎫 {t('trainPass', lang)} {pick(pass, lang)}
+        </p>
+      ) : null}
+    </>
+  )
+}
+
+/** Note, fares and booking link under a night train's stops. */
 export function NightTrainFoot({ train }: { train: NightTrain }) {
   const { lang } = useLanguage()
   return (
     <>
       {train.note ? <p className="night-train-note">{pick(train.note, lang)}</p> : null}
+      <TrainFares price={train.price} pass={train.pass} />
       <a className="night-train-book" href={train.url} target="_blank" rel="noreferrer">
         {t('nightTrainsBook', lang)} ↗
       </a>
