@@ -26,6 +26,11 @@ export function ScenicTrainBody({ train, cities }: { train: ScenicTrain; cities?
     <>
       <p className="night-train-note">{pick(train.route, lang)}</p>
       {train.season ? <p className="night-train-note">🗓️ {pick(train.season, lang)}</p> : null}
+      {train.price ? (
+        <p className="night-train-note">
+          💷 {t('scenicTrainsPrice', lang)} {pick(train.price, lang)}
+        </p>
+      ) : null}
       {cities ? (
         <div className="night-train-stops">
           {train.cities.map((id) => {

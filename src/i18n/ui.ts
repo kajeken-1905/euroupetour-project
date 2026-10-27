@@ -164,6 +164,7 @@ export const ui = {
   scenicTrainsTitle: { ko: '특색 열차·산악 열차', en: 'Scenic & mountain railways' },
   funicularsTitle: { ko: '푸니쿨라·케이블카', en: 'Funiculars & cable cars' },
   scenicTrainsResv: { ko: '예약 필수', en: 'Reservation required' },
+  scenicTrainsPrice: { ko: '대략 가격:', en: 'Rough fare:' },
   scenicTrainsSite: { ko: '공식 사이트', en: 'Official site' },
   trainTripsTitle: { ko: '열차 여행 · 야간열차와 특색 열차', en: 'Train journeys · night trains and scenic railways' },
   trainTripsNote: {

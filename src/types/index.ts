@@ -120,6 +120,8 @@ export interface ScenicTrain {
   route: string
   /** 'ko|en'; only for lines that run part of the year */
   season?: string
+  /** 'ko|en'; rough fare, with its source when not the operator's own */
+  price?: string
   /** Seat reservation (or a timed ticket) is required */
   resv: boolean
   url: string

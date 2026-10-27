@@ -159,6 +159,8 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
     route: '포트윌리엄–말레이그 왕복 84마일. 영화 해리포터의 호그와트 급행이 지나던 글렌피넌 고가교를 건너는 증기기관차입니다. 에든버러·글래스고에서는 출발하지 않고, 글래스고에서 웨스트 하이랜드선으로 포트윌리엄까지 약 3시간 50분 걸립니다(에든버러에서는 글래스고를 거쳐 약 5시간).|Fort William–Mallaig and back, 84 miles, by steam over the Glenfinnan Viaduct seen as the Hogwarts Express route in the Harry Potter films. It does not start in Edinburgh or Glasgow: Fort William is about 3 h 50 from Glasgow on the West Highland Line (about 5 h from Edinburgh via Glasgow).',
     season: '오전 편 6월 1일~10월 23일, 오후 편 6월 10일~9월 25일 (매일)|Morning train 1 June–23 October, afternoon train 10 June–25 September (daily)',
     resv: true,
+    price:
+      '왕복 일반석 어른 £76·어린이 £43, 1등석 어른 £116·어린이 £76 (편도 없음, 예약 수수료 £3.75~)|Return only: Standard adult £76, child £43; First adult £116, child £76 (booking fee from £3.75)',
     url: 'https://westcoastrailways.co.uk/jacobite/',
   },
   {
@@ -229,6 +231,8 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
     route: '파리에서 1920~30년대 객차로 하룻밤을 달려 폼페이에 들른 뒤 라벨로 호텔 카루소에서 2박하는 3박 4일 호화 열차 여행입니다. 해마다 한 번 정도 출발하는 패키지 상품으로 식사·관광이 포함됩니다.|A three-night luxury trip: one night in 1920s–30s carriages from Paris, a stop at Pompeii, then two nights at the Caruso hotel in Ravello. A package with meals and excursions that departs about once a year.',
     season: '다음 출발 2027년 4월 22~25일|Next departure 22–25 April 2027',
     resv: true,
+    price:
+      '1인 약 £8,600~(2026년 첫 출발, 2인 1실 히스토릭 캐빈), 2027년 출발분은 €9,900~ — 언론 보도 기준, 공식 가격은 문의|From about £8,600 per person (2026, shared Historic Cabin); 2027 from €9,900 — press figures, ask Belmond for prices',
     url: 'https://www.belmond.com/en/villeggiatura-by-train',
   },
   // —— Slovakia ——
