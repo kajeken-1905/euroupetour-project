@@ -260,3 +260,13 @@ export function getCityNightTrains(cityId: string): { train: NightTrain; to: str
   }
   return out
 }
+
+/** Night-train lines that call at any of a country's cities, grouped by train. */
+export function getCountryNightTrains(cityIds: string[]): { train: NightTrain; lines: string[][] }[] {
+  const out: { train: NightTrain; lines: string[][] }[] = []
+  for (const train of NIGHT_TRAINS) {
+    const lines = train.lines.filter((line) => line.some((stop) => cityIds.includes(stop)))
+    if (lines.length) out.push({ train, lines })
+  }
+  return out
+}

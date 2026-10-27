@@ -1891,6 +1891,19 @@ button.back-link {
   text-decoration: none;
 }
 
+.night-train-stop.is-home {
+  background: #3d342c;
+  color: #fff;
+}
+
+.night-train-leg {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
 .night-train-note {
   margin: 0;
   font-size: 12px;

@@ -10,6 +10,8 @@ import { TransitCountryPanel } from '../components/TransitPanel'
 import { EssentialsPanel } from '../components/EssentialsPanel'
 import { TravelBanNotice } from '../components/TravelBanNotice'
 import { PassesPanel } from '../components/PassesPanel'
+import { CountryNightTrainsPanel } from '../components/NightTrainsPanel'
+import { CountryScenicTrainsPanel } from '../components/ScenicTrainsPanel'
 import { HolidaysPanel } from '../components/HolidaysPanel'
 import { getCountryPasses } from '../data/passes'
 import { FootballLeaguePanel } from '../components/FootballPanel'
@@ -154,6 +156,10 @@ export function CountryPage() {
       {transit ? <TransitCountryPanel transit={transit} /> : null}
 
       <PassesPanel passes={getCountryPasses(country.id)} />
+
+      <CountryNightTrainsPanel cityIds={cityList.map((c) => c.id)} />
+
+      <CountryScenicTrainsPanel countryId={country.id} cityIds={cityList.map((c) => c.id)} />
 
       {essentials ? <EssentialsPanel essentials={essentials} countryId={country.id} schengen={country.schengen} /> : null}
 

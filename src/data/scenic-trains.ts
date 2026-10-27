@@ -16,6 +16,7 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
     id: 'bernina-express',
     name: 'Bernina Express',
     cities: ['st-moritz', 'lugano'],
+    alsoIn: ['it'],
     route: '쿠어·생모리츠–티라노(이탈리아). 유네스코 세계유산 베르니나선을 지나고, 티라노–루가노는 전용 버스로 잇습니다.|Chur/St. Moritz–Tirano (Italy) over the UNESCO-listed Bernina line; a dedicated bus links Tirano and Lugano.',
     resv: true,
     url: 'https://www.rhb.ch/en/panoramic-journeys/bernina-express/',
@@ -118,6 +119,7 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
     id: 'ofotbanen',
     name: 'Ofotbanen',
     cities: ['kiruna'],
+    alsoIn: ['no'],
     route: '키루나–나르비크(노르웨이), 산과 피오르를 따라가는 국경 철도입니다.|Kiruna–Narvik (Norway), a border line through mountains to the fjord.',
     resv: false,
     url: 'https://www.sj.se/en',
@@ -221,4 +223,11 @@ export const SCENIC_TRAINS: ScenicTrain[] = [
 
 export function getCityScenicTrains(cityId: string): ScenicTrain[] {
   return SCENIC_TRAINS.filter((train) => train.cities.includes(cityId))
+}
+
+/** Scenic trains based in a country's cities, plus those that run into it from a neighbour (`alsoIn`). */
+export function getCountryScenicTrains(countryId: string, cityIds: string[]): ScenicTrain[] {
+  return SCENIC_TRAINS.filter(
+    (train) => train.alsoIn?.includes(countryId) || train.cities.some((id) => cityIds.includes(id)),
+  )
 }

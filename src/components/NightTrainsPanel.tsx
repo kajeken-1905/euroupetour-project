@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityBrief as getCity } from '../data/cityIndex'
-import { getCityNightTrains } from '../data/night-trains'
+import { getCityNightTrains, getCountryNightTrains } from '../data/night-trains'
 import { t } from '../i18n/ui'
 
 function pick(text: string, lang: 'ko' | 'en'): string {
@@ -39,6 +39,57 @@ export function NightTrainsPanel({ cityId }: { cityId: string }) {
                   ) : null
                 })}
               </div>
+              {train.note ? <p className="night-train-note">{pick(train.note, lang)}</p> : null}
+              <a className="night-train-book" href={train.url} target="_blank" rel="noreferrer">
+                {t('nightTrainsBook', lang)} ↗
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p className="route-hint">{t('nightTrainsHint', lang)}</p>
+      </div>
+    </section>
+  )
+}
+
+/** Country screen: every line that calls at one of the country's cities, shown end to end. */
+export function CountryNightTrainsPanel({ cityIds }: { cityIds: string[] }) {
+  const { lang } = useLanguage()
+  const trains = getCountryNightTrains(cityIds)
+  if (trains.length === 0) return null
+
+  return (
+    <section className="routes-panel" aria-label={t('nightTrainsTitle', lang)}>
+      <p className="section-label">{t('nightTrainsTitle', lang)}</p>
+      <div className="transit-card">
+        <ul className="night-train-list">
+          {trains.map(({ train, lines }) => (
+            <li key={train.id} className="night-train">
+              <div className="night-train-head">
+                <span className="night-train-name">
+                  <span aria-hidden>🌙</span> {train.name}
+                </span>
+                <span className="night-train-operator">{train.operator}</span>
+              </div>
+              {lines.map((line) => (
+                <div key={line.join('-')} className="night-train-stops">
+                  {line.map((id, i) => {
+                    const city = getCity(id)
+                    if (!city) return null
+                    return (
+                      <span key={id} className="night-train-leg">
+                        {i > 0 ? <span aria-hidden>–</span> : null}
+                        <Link
+                          className={`night-train-stop${cityIds.includes(id) ? ' is-home' : ''}`}
+                          to={`/city/${id}`}
+                        >
+                          {city.name[lang]}
+                        </Link>
+                      </span>
+                    )
+                  })}
+                </div>
+              ))}
               {train.note ? <p className="night-train-note">{pick(train.note, lang)}</p> : null}
               <a className="night-train-book" href={train.url} target="_blank" rel="noreferrer">
                 {t('nightTrainsBook', lang)} ↗

@@ -112,6 +112,8 @@ export interface ScenicTrain {
   id: string
   name: string
   cities: string[]
+  /** Other countries the line runs into, beyond those of its app cities */
+  alsoIn?: string[]
   /** 'ko|en' */
   route: string
   /** 'ko|en'; only for lines that run part of the year */
