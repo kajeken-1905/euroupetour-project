@@ -30,4 +30,24 @@ export const GATEWAYS: Gateway[] = [
     site: 'https://www.dublinairport.com/',
     checked: '2026-10',
   },
+  {
+    id: 'gw-ork',
+    cityId: 'cork',
+    kind: 'air',
+    name: '코크 공항|Cork Airport',
+    code: 'ORK',
+    intl: true,
+    about: '시내에서 남쪽 약 6km입니다.|About 6 km south of the city.',
+    options: [
+      {
+        mode: 'bus',
+        name: '226번 버스|Bus 226',
+        route: '공항 → 파넬 플레이스 버스터미널·켄트역|Airport → Parnell Place bus station, Kent station',
+        time: '약 25분|About 25 min',
+      },
+    ],
+    maps: 'Cork Airport',
+    site: 'https://www.corkairport.com/',
+    checked: '2026-10',
+  },
 ]

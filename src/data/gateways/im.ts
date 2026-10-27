@@ -1,0 +1,25 @@
+// Gateways for small territories and microstates.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-iom',
+    cityId: 'castletown',
+    kind: 'air',
+    name: '맨섬 공항|Isle of Man Airport (Ronaldsway)',
+    code: 'IOM',
+    intl: true,
+    about: '캐슬타운 바로 옆, 수도 더글러스에서 남쪽 약 15km입니다.|Next to Castletown, about 15 km south of Douglas.',
+    options: [
+      {
+        mode: 'bus',
+        name: '1번 버스|Bus 1',
+        route: '공항 → 캐슬타운·더글러스|Airport → Castletown, Douglas',
+        time: '더글러스까지 약 30분|About 30 min to Douglas',
+      },
+    ],
+    maps: 'Isle of Man Airport',
+    site: 'https://www.iomairport.com/',
+    checked: '2026-10',
+  },
+]

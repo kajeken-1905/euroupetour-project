@@ -1,0 +1,24 @@
+// Gateways for small territories and microstates.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-gib',
+    cityId: 'gibraltar',
+    kind: 'air',
+    name: '지브롤터 공항|Gibraltar International Airport',
+    code: 'GIB',
+    intl: true,
+    about: '스페인 국경 바로 옆의 공항. 걸어서는 활주로를 건너 시내로 들어갑니다(차는 2023년 개통한 터널로).|Right by the Spanish border; on foot you cross the runway into town (cars use the tunnel opened in 2023).',
+    options: [
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '공항 → 시내 그랜드 케이스메이츠 광장, 약 20~25분|Airport → Grand Casemates Square, about 20–25 min',
+      },
+    ],
+    maps: 'Gibraltar International Airport',
+    site: 'https://www.gibraltarairport.gi/',
+    checked: '2026-10',
+  },
+]

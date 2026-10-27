@@ -80,4 +80,25 @@ export const GATEWAYS: Gateway[] = [
     site: 'https://www.gva.ch/en',
     checked: '2026-10',
   },
+  {
+    id: 'gw-bsl',
+    cityId: 'basel',
+    kind: 'air',
+    name: '바젤 뮐루즈 유로에어포트|EuroAirport Basel Mulhouse Freiburg',
+    code: 'BSL',
+    intl: true,
+    about: '프랑스 땅에 있지만 스위스 쪽 출구가 따로 있는 공항입니다. 스위스로 가려면 스위스 쪽 출구로 나가세요.|On French soil with a separate Swiss exit; use the Swiss side for Basel.',
+    options: [
+      {
+        mode: 'bus',
+        name: '50번 버스|Bus 50',
+        route: '스위스 쪽 출구 → 바젤 SBB역|Swiss exit → Basel SBB station',
+        time: '약 20분|About 20 min',
+        fare: '스위스 트래블 패스로 무료|Free with a Swiss Travel Pass',
+      },
+    ],
+    maps: 'EuroAirport Basel Mulhouse Freiburg',
+    site: 'https://www.euroairport.com/en/',
+    checked: '2026-10',
+  },
 ]

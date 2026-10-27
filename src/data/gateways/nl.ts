@@ -62,4 +62,25 @@ export const GATEWAYS: Gateway[] = [
     maps: 'Amsterdam Centraal',
     checked: '2026-10',
   },
+  {
+    id: 'gw-rtm',
+    cityId: 'rotterdam',
+    kind: 'air',
+    name: '로테르담 헤이그 공항|Rotterdam The Hague Airport',
+    code: 'RTM',
+    intl: true,
+    about: '로테르담 북쪽의 작은 공항입니다.|A small airport north of Rotterdam.',
+    options: [
+      {
+        mode: 'bus',
+        name: '33번 버스|Bus 33',
+        route: '공항 → 로테르담 중앙역|Airport → Rotterdam Centraal',
+        time: '약 20분|About 20 min',
+        ticket: '비접촉 카드로 탈 때·내릴 때 단말기에 댑니다.|Tap a contactless card on and off.',
+      },
+    ],
+    maps: 'Rotterdam The Hague Airport',
+    site: 'https://www.rotterdamthehagueairport.nl/en/',
+    checked: '2026-10',
+  },
 ]

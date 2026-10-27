@@ -1,0 +1,26 @@
+// Gateways in Luxembourg, where buses, trams and 2nd-class trains are free.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-lux',
+    cityId: 'luxembourg-city',
+    kind: 'air',
+    name: '룩셈부르크 핀델 공항|Luxembourg Airport (Findel)',
+    code: 'LUX',
+    intl: true,
+    about: '시내에서 동쪽 약 6km입니다.|About 6 km east of the city.',
+    options: [
+      {
+        mode: 'bus',
+        name: '16·29번 버스|Buses 16, 29',
+        route: '공항 → 시내·룩셈부르크역|Airport → centre, Luxembourg station',
+        time: '약 20~25분|About 20–25 min',
+        fare: '무료 — 룩셈부르크는 대중교통이 전부 무료입니다(1등석 열차 제외).|Free — all public transport in Luxembourg is free (except 1st class on trains)',
+      },
+    ],
+    maps: 'Luxembourg Airport',
+    site: 'https://www.lux-airport.lu/en/',
+    checked: '2026-10',
+  },
+]
