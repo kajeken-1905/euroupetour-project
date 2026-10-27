@@ -36,8 +36,9 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'lisbon',
     kind: 'rail',
     name: '오리엔트역|Lisboa Oriente',
+    image: '/gateways/gw-lisboa-oriente.jpg',
     about:
-      '1998년 엑스포 때 산티아고 칼라트라바가 설계한 역. 포르투행 고속열차 알파 펜둘라르와 장거리 버스가 출발합니다.|Designed by Santiago Calatrava for Expo ’98; Alfa Pendular trains to Porto and long-distance coaches leave here.',
+      '1998년 엑스포 때 산티아고 칼라트라바가 설계한 역. 포르투행 고속열차 알파 펜둘라르와 장거리 버스가 출발하고, 길 건너 바스쿠 다 가마 쇼핑센터와 바로 이어집니다.|Designed by Santiago Calatrava for Expo ’98; Alfa Pendular trains to Porto and long-distance coaches leave here, and it connects straight into the Vasco da Gama shopping centre.',
     options: [
       {
         mode: 'metro',
