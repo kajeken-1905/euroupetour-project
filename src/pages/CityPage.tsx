@@ -122,10 +122,7 @@ function CityView() {
 
       <CityMap city={city} />
 
-      <p className="section-label">
-        {t('highlights', lang)}
-        <BeenCount ids={city.highlights.map((h) => h.id)} been={trip.beenHighlights} />
-      </p>
+      <p className="section-label">{t('highlights', lang)}</p>
       <p className="phase-note" style={{ marginTop: 0 }}>
         {t('highlightHint', lang)}
       </p>
