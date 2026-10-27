@@ -1,0 +1,65 @@
+// Airports in Turkey. Lira fares change several times a year, so none are given; all routes take the
+// Istanbulkart (or a contactless bank card on the metro).
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-ist',
+    cityId: 'istanbul',
+    kind: 'air',
+    name: '이스탄불 공항|Istanbul Airport',
+    code: 'IST',
+    intl: true,
+    about: '유럽 쪽 북부, 시내에서 약 40km. 터키항공의 거점입니다.|On the European side about 40 km north of the centre; Turkish Airlines’ hub.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 M11|Metro M11',
+        route: '공항역 → 가이레테페(M2로 탁심 환승)|Airport → Gayrettepe (change to M2 for Taksim)',
+        time: '탁심까지 약 50분~1시간|About 50–60 min to Taksim',
+        ticket: '이스탄불카르트로 탑니다. 공항 구간은 시내 기본요금보다 조금 비쌉니다.|Use an Istanbulkart; the airport section costs a little more than the city fare.',
+      },
+      {
+        mode: 'bus',
+        name: '공항버스 하바이스트(Havaist)|Havaist airport buses',
+        route: '공항 → 탁심·술탄아흐메트·카드쾨이 등 노선별|Airport → Taksim, Sultanahmet, Kadıköy and more',
+        time: '1시간~1시간 30분, 교통 상황에 따라|60–90 min, traffic permitting',
+      },
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '도착층 승차장. 미터기 사용 여부를 꼭 확인하세요.|Arrivals rank; make sure the meter is on.',
+      },
+    ],
+    maps: 'Istanbul Airport',
+    site: 'https://www.istairport.com/en',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-saw',
+    cityId: 'istanbul',
+    kind: 'air',
+    name: '사비하 괵첸 공항|Istanbul Sabiha Gökçen Airport',
+    code: 'SAW',
+    intl: true,
+    about: '아시아 쪽 동남부, 시내에서 약 45km. 페가수스 항공의 거점입니다.|On the Asian side about 45 km south-east of the centre; Pegasus Airlines’ hub.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 M4|Metro M4',
+        route: '공항역 → 카드쾨이(페리로 에미뇌뉘·카라쾨이)|Airport → Kadıköy (ferry across to Eminönü, Karaköy)',
+        time: '카드쾨이까지 약 1시간|About 1 hour to Kadıköy',
+        ticket: '이스탄불카르트|Istanbulkart',
+      },
+      {
+        mode: 'bus',
+        name: '공항버스 하바부스(Havabus)|Havabus airport buses',
+        route: '공항 → 탁심·카드쾨이|Airport → Taksim, Kadıköy',
+        time: '탁심까지 1시간 30분 이상|90 min or more to Taksim',
+      },
+    ],
+    maps: 'Sabiha Gökçen Airport',
+    site: 'https://www.sabihagokcen.aero/',
+    checked: '2026-10',
+  },
+]

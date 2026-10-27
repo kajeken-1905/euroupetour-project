@@ -1,0 +1,77 @@
+// Airports and main stations in Belgium. Every train to or from Brussels Airport carries the Diabolo
+// surcharge (Brussels Airport, 2026-10); figures marked 약/about are estimates.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-bru',
+    cityId: 'brussels',
+    kind: 'air',
+    name: '브뤼셀 공항|Brussels Airport',
+    code: 'BRU',
+    intl: true,
+    about: '시내에서 북동쪽 약 12km 자번템. 터미널 지하에 기차역이 있습니다.|About 12 km north-east of the centre at Zaventem, with a station beneath the terminal.',
+    options: [
+      {
+        mode: 'train',
+        name: '기차(SNCB)|Train (SNCB)',
+        route: '공항역 → 브뤼셀 북역·중앙역·미디(남)역|Airport → Brussels-North, Central, Midi',
+        time: '중앙역까지 약 15~20분, 10~15분 간격|About 15–20 min to Central, every 10–15 min',
+        fare: '약 €10~11, 공항 할증(디아볼로) €6.90 포함|About €10–11 including the €6.90 Diabolo airport surcharge',
+        ticket: 'SNCB 앱·역 자판기. 비접촉 카드로 바로 사는 기능도 있습니다.|SNCB app or station machines',
+      },
+      {
+        mode: 'bus',
+        name: '시내버스(STIB) 12번|STIB bus 12',
+        route: '공항 → 유럽 지구(쉬망·뤽상부르)|Airport → European Quarter (Schuman, Luxembourg)',
+        time: '약 30분|About 30 min',
+      },
+    ],
+    maps: 'Brussels Airport',
+    site: 'https://www.brusselsairport.be/en',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-crl',
+    cityId: 'brussels',
+    kind: 'air',
+    name: '브뤼셀 샤를루아 공항|Brussels South Charleroi Airport',
+    code: 'CRL',
+    intl: true,
+    about: '브뤼셀에서 남쪽 약 55km. 라이언에어·위즈에어가 주로 씁니다.|About 55 km south of Brussels; mainly Ryanair and Wizz Air.',
+    options: [
+      {
+        mode: 'bus',
+        name: '공항 셔틀버스(Flibco)|Airport shuttle (Flibco)',
+        route: '터미널 → 브뤼셀 미디역|Terminal → Brussels-Midi',
+        time: '약 1시간|About 1 hour',
+        ticket: '온라인으로 미리 사면 쌉니다.|Cheaper booked online in advance',
+      },
+    ],
+    maps: 'Brussels South Charleroi Airport',
+    site: 'https://www.brussels-charleroi-airport.com/en',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-brussels-midi',
+    cityId: 'brussels',
+    kind: 'rail',
+    name: '브뤼셀 미디(남)역|Bruxelles-Midi / Brussel-Zuid',
+    about: '런던·파리·암스테르담행 유로스타와 쾰른행 ICE가 출발하는 국제선 역입니다.|The international station, for Eurostar to London, Paris and Amsterdam and ICEs to Cologne.',
+    options: [
+      {
+        mode: 'train',
+        name: '기차·트램 지하철|Trains, premetro',
+        route: '기차로 한 정거장 → 중앙역(그랑플라스 걸어서 5분)|One stop by train → Brussels-Central (5 min walk to the Grand-Place)',
+      },
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '그랑플라스까지 약 20분|About 20 min to the Grand-Place',
+      },
+    ],
+    note: '유로스타는 출국 심사가 있어 출발 1시간 전쯤 도착하세요.|Eurostar has passport checks; arrive about an hour early.',
+    maps: 'Bruxelles-Midi',
+    checked: '2026-10',
+  },
+]

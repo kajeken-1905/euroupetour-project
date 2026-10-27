@@ -1,0 +1,67 @@
+// Airports, stations and ports in Greece. Metro, bus and fixed taxi fares as given consistently in 2026
+// guides; figures marked 약/about are estimates.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-ath',
+    cityId: 'athens',
+    kind: 'air',
+    name: '아테네 엘레프테리오스 베니젤로스 공항|Athens International Airport',
+    code: 'ATH',
+    intl: true,
+    about: '시내에서 동쪽 약 30km. 섬으로 가는 국내선도 여기서 갈아탑니다.|About 30 km east of the centre; island flights connect here too.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 3호선(파랑)|Metro line 3 (Blue)',
+        route: '공항역 → 신타그마·모나스티라키(아크로폴리스 아래)|Airport → Syntagma, Monastiraki (below the Acropolis)',
+        time: '약 40분, 30분 간격|About 40 min, every 30 min',
+        fare: '공항 편도 €9, 왕복 €16|€9 airport single, €16 return',
+        ticket: '역 자판기에서 표를 사고 개찰구에 댑니다. 비접촉 카드로 바로 찍을 수도 있습니다.|Buy at the machines and tap at the gates; contactless cards also work.',
+      },
+      {
+        mode: 'bus',
+        name: '공항버스 X95|Airport bus X95',
+        route: '터미널 → 신타그마 광장|Terminal → Syntagma Square',
+        time: '24시간 운행, 약 1시간~1시간 30분|Runs 24 hours, about 60–90 min',
+        fare: '€5.50|€5.50',
+      },
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '도착층 승차장|Arrivals rank',
+        fare: '시내 중심까지 고정 요금 낮 €40, 밤(0~5시) €55, 짐·통행료 포함|Flat fare to the centre €40 by day, €55 at night (00:00–05:00), luggage and tolls included',
+      },
+    ],
+    maps: 'Athens International Airport Eleftherios Venizelos',
+    site: 'https://www.aia.gr/en/',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-piraeus',
+    cityId: 'athens',
+    kind: 'port',
+    name: '피레우스 항|Port of Piraeus',
+    about:
+      '그리스 최대 항구. 산토리니·미코노스 등 키클라데스 제도와 크레타행 페리가 출발합니다. 게이트(E1~E12)가 넓게 흩어져 있습니다.|Greece’s largest port, for ferries to the Cyclades (Santorini, Mykonos) and Crete; its gates (E1–E12) are spread far apart.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 1호선(초록)|Metro line 1 (Green)',
+        route: '피레아스역 → 모나스티라키(시내)|Piraeus → Monastiraki (centre)',
+        time: '약 25분|About 25 min',
+      },
+      {
+        mode: 'bus',
+        name: '공항버스 X96|Airport bus X96',
+        route: '항구 → 공항, 24시간|Port → Airport, 24 hours',
+        fare: '€5.50|€5.50',
+      },
+    ],
+    note: '항구 안 무료 셔틀버스가 게이트 사이를 돕니다. 승선권의 게이트 번호를 확인하세요.|A free shuttle runs between the gates; check the gate on your ticket.',
+    maps: 'Port of Piraeus',
+    site: 'https://www.olp.gr/en/',
+    checked: '2026-10',
+  },
+]
