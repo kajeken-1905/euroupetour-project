@@ -102,4 +102,47 @@ export const GATEWAYS: Gateway[] = [
     maps: 'Estação de São Bento Porto',
     checked: '2026-10',
   },
+  {
+    id: 'gw-fao',
+    cityId: 'faro',
+    kind: 'air',
+    name: '파루 공항|Faro Airport',
+    code: 'FAO',
+    intl: true,
+    about: '알가르브 해안의 관문. 파루 시내에서 서쪽 약 6km입니다.|Gateway to the Algarve coast, about 6 km west of Faro town.',
+    options: [
+      {
+        mode: 'bus',
+        name: '시내버스 16번|Bus 16',
+        route: '공항 → 파루 시내·버스터미널|Airport → Faro centre and bus station',
+        time: '약 20분|About 20 min',
+      },
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '도착층 승차장|Arrivals rank',
+        fare: '파루 시내까지 약 €15|About €15 to Faro centre',
+      },
+    ],
+    maps: 'Aeroporto de Faro',
+    site: 'https://www.faroairport.pt/en',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-aveiro-station',
+    cityId: 'aveiro',
+    kind: 'rail',
+    highlightId: 'aveiro-h6',
+    name: '아베이루역|Aveiro station',
+    about: '포르투에서 기차로 약 40분~1시간, 리스본에서 알파 펜둘라르로 약 2시간입니다.|About 40–60 min by train from Porto and around 2 hours from Lisbon on the Alfa Pendular.',
+    options: [
+      {
+        mode: 'walk',
+        name: '걸어서|On foot',
+        route: '운하와 시내 중심까지 약 15분|About 15 min to the canals and centre',
+      },
+    ],
+    maps: 'Estação de Aveiro',
+    checked: '2026-10',
+  },
 ]
