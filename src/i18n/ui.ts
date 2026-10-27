@@ -263,6 +263,7 @@ export const ui = {
   transitAirport: { ko: '공항 → 시내', en: 'Airport → city' },
   transitHowTo: { ko: '이용 방법', en: 'How to ride' },
   transitApps: { ko: '추천 앱', en: 'Useful apps' },
+  transitNoKrStore: { ko: '한국 App Store에 없음', en: 'Not in the Korean App Store' },
   transitTip: { ko: '팁', en: 'Tip' },
   transitDrivingSide: { ko: '통행', en: 'Driving side' },
   transitDriveLeft: { ko: '좌측통행', en: 'Left-hand traffic' },

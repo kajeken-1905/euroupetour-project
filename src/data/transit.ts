@@ -27,6 +27,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('blablacar', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('volotea', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('transavia', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   uk: {
@@ -53,6 +59,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('bolt', { ko: '런던 등', en: 'London etc.' }),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('national-express', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('jet2', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   ie: {
@@ -74,10 +86,14 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Dublin Leap card; check cash/card rules on rural buses.',
     },
     apps: [
+      ta('tfi-live', { ko: '전국 실시간·길찾기', en: 'Nationwide live times and planner' }),
       ta('irish-rail', { ko: '기차', en: 'Trains' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '더블린 등', en: 'Dublin etc.' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('bus-eireann-expressway', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   be: {
@@ -101,8 +117,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('sncb', { ko: '국영 기차', en: 'National trains' }),
       ta('bolt'),
-      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('transavia', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   nl: {
@@ -126,8 +144,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('ns', { ko: '기차', en: 'Trains' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
-      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '암스테르담·로테르담', en: 'Amsterdam & Rotterdam' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('transavia', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   lu: {
@@ -149,9 +169,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'No ticket inside Luxembourg; pay only for cross-border legs.',
     },
     apps: [
+      ta('mobiliteit-lu', { ko: '전국 길찾기 (대중교통 무료)', en: 'Nationwide planner (public transport is free)' }),
       ta('cfl', { ko: '기차·이동', en: 'Rail & travel' }),
-      ta('bolt'),
       ta('uber', { ko: '룩셈부르크시', en: 'Luxembourg City' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
   },
   mc: {
@@ -169,7 +190,6 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'CAM bus card/app. Uber cannot pick up inside Monaco; rides usually start from Nice.',
     },
     apps: [
-      ta('free-now', { ko: '니스·코트다쥐르', en: 'Nice / Côte d\'Azur' }),
     ],
   },
   de: {
@@ -195,6 +215,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('bolt'),
       ta('free-now', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('eurowings', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   ch: {
@@ -218,6 +242,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('sbb', { ko: '기차·버스', en: 'Trains & buses' }),
       ta('uber', { ko: '취리히·제네바 등', en: 'Zürich, Geneva etc.' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
     // SBB's EasyRide pages and FAQ, checked 2026-10.
     appGuide: {
@@ -275,6 +301,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('regiojet', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('eurowings', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   li: {
@@ -293,6 +323,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('sbb', { ko: '인접 스위스 연결', en: 'Swiss connections' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
   },
   cz: {
@@ -314,9 +345,15 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Prague PID Litacka/app; Bolt first, Uber in Prague/Brno.',
     },
     apps: [
+      ta('idos', { ko: '전국 기차·버스 시간표', en: 'Nationwide train and bus timetables' }),
       ta('cd', { ko: '기차', en: 'Trains' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '프라하·브르노', en: 'Prague & Brno' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('regiojet', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('leo-express', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('eurowings', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   sk: {
@@ -341,6 +378,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
       ta('bolt'),
       ta('uber', { ko: '브라티슬라바만', en: 'Bratislava only' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('regiojet', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('leo-express', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   hu: {
@@ -364,6 +406,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('mav', { ko: '기차', en: 'Trains' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('regiojet', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   pl: {
@@ -388,6 +434,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('pkp', { ko: '기차', en: 'Trains' }),
       ta('bolt', { ko: '더 잘 잡힘', en: 'Usually more cars' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   es: {
@@ -415,6 +464,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('vueling', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('volotea', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   pt: {
@@ -432,16 +486,17 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail covers most long-distance trains; some need seat reservations.',
     },
     paymentTip: {
-      ko: '도시 교통은 카드·모바일. TVDE 호출은 Bolt가 우버보다 잘 잡히는 경우가 많고 Cabify도 있습니다.',
-      en: 'City transit is card/mobile. For TVDE rides Bolt often has more cars than Uber; Cabify too.',
+      ko: '도시 교통은 카드·모바일. TVDE 호출은 Bolt가 우버보다 잘 잡히는 경우가 많습니다.',
+      en: 'City transit is card/mobile. For TVDE rides Bolt often has more cars than Uber.',
     },
     apps: [
       ta('cp', { ko: '국영 기차', en: 'National trains' }),
       ta('rede-expressos', { ko: '장거리 버스', en: 'Coach buses' }),
       ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often easier than Uber' }),
-      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
-      ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '주요 도시', en: 'Major cities' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   ad: {
@@ -459,9 +514,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Book coaches online or on-site; taxis/rentals help in the mountains.',
     },
     apps: [
+      ta('andbus', { ko: '바르셀로나·공항 버스 예약', en: 'Coaches to Barcelona and airports' }),
       ta('alsa', { ko: '바르셀로나 방면', en: 'Toward Barcelona' }),
-      ta('cabify', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '안도라라베야', en: 'Andorra la Vella' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
   },
   it: {
@@ -487,6 +543,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('bolt'),
       ta('free-now', { ko: '일반 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '블랙 위주', en: 'Mostly Black' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('easyjet', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('volotea', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   va: {
@@ -525,8 +586,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Tallinja card/app; white taxis or ride apps.',
     },
     apps: [
+      ta('tallinja', { ko: '전국 버스 (고조 포함)', en: 'Buses nationwide, Gozo included' }),
       ta('bolt'),
       ta('uber'),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   gr: {
@@ -551,6 +614,8 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
       ta('bolt'),
       ta('uber', { ko: '아테네 등', en: 'Athens etc.' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   cy: {
@@ -568,7 +633,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Bus cash/card; no Uber—Bolt is the standard.',
     },
     apps: [
+      ta('cyprus-bus', { ko: '전국 버스 노선·실시간', en: 'Nationwide bus routes and live times' }),
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   dk: {
@@ -593,6 +661,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('dsb', { ko: '기차', en: 'Trains' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '코펜하겐 등', en: 'Copenhagen etc.' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('norwegian', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   se: {
@@ -617,6 +688,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('sj', { ko: '기차', en: 'Trains' }),
       ta('bolt'),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('norwegian', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   no: {
@@ -638,9 +712,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Entur for nationwide planning; city apps like Ruter.',
     },
     apps: [
+      ta('entur', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
       ta('vy', { ko: '기차·버스', en: 'Trains & buses' }),
       ta('bolt'),
       ta('uber', { ko: '오슬로·베르겐 등', en: 'Oslo, Bergen etc.' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('norwegian', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   fi: {
@@ -665,6 +742,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('vr', { ko: '기차', en: 'Trains' }),
       ta('bolt'),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('matkahuolto', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('norwegian', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   is: {
@@ -678,11 +758,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Strætó and tour coaches; Ring Road trips usually need a car.',
     },
     paymentTip: {
-      ko: '레이캬비크는 Bolt. 우버는 없고 공항–시내는 Flybus가 훨씬 쌉니다.',
-      en: 'Reykjavík: Bolt. No Uber; Flybus beats taxis to the airport.',
+      ko: '우버·볼트는 없고 택시를 이용합니다. 공항–시내는 Flybus가 훨씬 쌉니다.',
+      en: 'No Uber or Bolt—use taxis; Flybus beats taxis to the airport.',
     },
     apps: [
-      ta('bolt', { ko: '레이캬비크', en: 'Reykjavík' }),
     ],
   },
   ee: {
@@ -706,6 +785,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '탈린만', en: 'Tallinn only' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('lux-express', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ecolines', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
   },
   lv: {
@@ -724,6 +806,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('lux-express', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ecolines', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   lt: {
@@ -743,6 +829,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [
       ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars' }),
       ta('uber', { ko: '빌뉴스만', en: 'Vilnius only' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('lux-express', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ecolines', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   hr: {
@@ -767,6 +858,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('flixbus', { ko: '장거리 버스', en: 'Coaches' }),
       ta('bolt'),
       ta('uber'),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   si: {
@@ -784,12 +876,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Eurail/Interrail; day bus tickets help.',
     },
     paymentTip: {
-      ko: '시내 Urbana 등. 우버는 없고 Bolt를 쓰세요.',
-      en: 'City cards like Urbana; no Uber—use Bolt.',
+      ko: '시내 Urbana 등. 우버·볼트 차량 호출은 없고 택시를 이용합니다.',
+      en: 'City cards like Urbana; no Uber or Bolt rides—use taxis.',
     },
     apps: [
       ta('trainline'),
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
     ],
   },
   ba: {
@@ -803,12 +895,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Sarajevo–Mostar buses; limited rail options.',
     },
     paymentTip: {
-      ko: '버스 터미널 현장 예매가 흔합니다. Bolt·택시를 이용하세요.',
-      en: 'Buy bus tickets at stations; use Bolt/taxis in cities.',
+      ko: '버스 터미널 현장 예매가 흔합니다. 시내는 택시를 이용하세요.',
+      en: 'Buy bus tickets at stations; use taxis in cities.',
     },
     apps: [
       ta('flixbus'),
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   me: {
@@ -822,11 +914,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Buses Podgorica–Kotor–Budva; coaches toward Dubrovnik.',
     },
     paymentTip: {
-      ko: '터미널·온라인 버스 티켓. 우버는 없고 Bolt·현지 택시입니다.',
-      en: 'Station/online bus tickets; no Uber—Bolt or local taxis.',
+      ko: '터미널·온라인 버스 티켓. 우버·볼트는 없고 현지 택시입니다.',
+      en: 'Station/online bus tickets; no Uber or Bolt—use local taxis.',
     },
     apps: [
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   rs: {
@@ -840,12 +933,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Belgrade hub; Novi Sad/Niš by train or bus.',
     },
     paymentTip: {
-      ko: '시내 버스 카드·앱. CarGo·Bolt가 대도시에서 편합니다.',
-      en: 'City bus cards/apps; CarGo/Bolt help in big cities.',
+      ko: '시내 버스 카드·앱. 대도시에서는 CarGo가 편합니다.',
+      en: 'City bus cards/apps; CarGo helps in big cities.',
     },
     apps: [
       ta('flixbus'),
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   mk: {
@@ -859,11 +952,12 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Skopje hub; buses to Ohrid are typical.',
     },
     paymentTip: {
-      ko: '터미널 티켓. 시내는 버스·택시·Bolt.',
-      en: 'Station tickets; city buses/taxis/Bolt.',
+      ko: '터미널 티켓. 시내는 버스·택시.',
+      en: 'Station tickets; city buses and taxis.',
     },
     apps: [
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   al: {
@@ -881,7 +975,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Cash is common; agree taxi fares first.',
     },
     apps: [
-      ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   bg: {
@@ -899,12 +995,13 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Partial Eurail/Interrail; buses often faster on some routes.',
     },
     paymentTip: {
-      ko: '시내 교통카드. TaxiMe·Bolt 권장.',
-      en: 'City transit cards; prefer TaxiMe/Bolt.',
+      ko: '시내 교통카드. 택시는 TaxiMe 앱을 권장합니다.',
+      en: 'City transit cards; TaxiMe is the go-to taxi app.',
     },
     apps: [
       ta('flixbus'),
-      ta('bolt', { ko: '우버 없음', en: 'No Uber here' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   ro: {
@@ -929,6 +1026,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ta('trainline', { ko: '예약 보조', en: 'Booking help' }),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('ryanair', { ko: '저가 항공', en: 'Low-cost airline' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   tr: {
@@ -942,12 +1042,14 @@ export const countryTransitById: Record<string, CountryTransit> = {
       en: 'Istanbul/Ankara hubs; domestic flights and big coaches are common.',
     },
     paymentTip: {
-      ko: '이스탄불kart. BiTaksi·Bolt·Uber(규제 변동 있음). 장거리는 고속버스 앱.',
-      en: 'Istanbulkart; BiTaksi, Bolt, and Uber (rules shift). Coaches for long trips.',
+      ko: '이스탄불kart. 택시는 BiTaksi·Uber(규제 변동 있음). 장거리는 고속버스 앱.',
+      en: 'Istanbulkart; BiTaksi and Uber for taxis (rules shift). Coaches for long trips.',
     },
     apps: [
-      ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
       ta('uber', { ko: '대도시·규제 확인', en: 'Big cities; check rules' }),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('obilet', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('pegasus', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   ge: {
@@ -966,6 +1068,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
     ],
   },
   ua: {
@@ -982,7 +1085,10 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: 'Bolt·Uklon 택시 앱이 흔합니다.',
       en: 'Bolt and Uklon taxi apps are common.',
     },
-    apps: [ta('bolt')],
+    apps: [
+      ta('bolt'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+    ],
   },
   md: {
     summary: {
@@ -998,7 +1104,11 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: 'Bolt·Yandex Go 택시 앱을 씁니다.',
       en: 'Bolt and Yandex Go taxi apps are common.',
     },
-    apps: [ta('bolt')],
+    apps: [
+      ta('bolt'),
+      ta('flixbus', { ko: '고속버스', en: 'Long-distance coaches' }),
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
+    ],
   },
   am: {
     summary: {
@@ -1014,7 +1124,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: 'Yandex Go·GG 택시 앱이 흔합니다.',
       en: 'Yandex Go and GG taxi apps are common.',
     },
-    apps: [ta('bolt', { ko: '주요 도시 위주', en: 'Mainly major cities' })],
+    apps: [
+      ta('wizz-air', { ko: '저가 항공', en: 'Low-cost airline' }),
+    ],
   },
   az: {
     summary: {
@@ -1062,7 +1174,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: '유로 현금 사용이 흔합니다.',
       en: 'Cash euros are commonly used.',
     },
-    apps: [ta('bolt', { ko: '프리슈티나 위주', en: 'Mainly Pristina' })],
+    apps: [],
   },
   // —— 2026-10 new countries (operators' and tourist boards' own sites) ——
   gi: {
@@ -1079,7 +1191,7 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: '바위산 자연보호구역은 마켓플레이스에서 셔틀버스(입장권 포함)가 다닙니다. 표는 마켓플레이스 매표소에서 삽니다.',
       en: 'A shuttle bus (nature reserve entry included) runs from Marketplace to the Upper Rock; tickets are sold at the Marketplace office.',
     },
-    apps: [ta('gibraltar')],
+    apps: [],
   },
   im: {
     summary: {
@@ -1201,6 +1313,9 @@ export const countryTransitById: Record<string, CountryTransit> = {
       ko: '남쪽에서 빌린 차의 보험은 북쪽에서 효력이 없어 따로 보험을 들어야 합니다. 택시는 타기 전에 요금을 정하고, 튀르키예 리라 현금을 준비하세요.',
       en: 'Insurance on cars hired in the south is not valid in the north, so buy cover separately. Agree taxi fares first and carry Turkish lira.',
     },
+    apps: [
+      ta('pegasus', { ko: '저가 항공', en: 'Low-cost airline' }),
+    ],
   },
 }
 

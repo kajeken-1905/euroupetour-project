@@ -1938,6 +1938,12 @@ button.back-link {
   color: var(--muted);
 }
 
+.transit-app-warn {
+  font-size: 11px;
+  font-weight: 700;
+  color: #b45309;
+}
+
 .transit-tip {
   margin: 12px 0 0;
   padding: 10px 12px;

@@ -24,6 +24,8 @@ export interface TransitApp {
   /** App icon under /public, e.g. `/transit-apps/uber.png` */
   icon?: string
   note?: { ko: string; en: string }
+  /** Not listed in the Korean App Store (needs a local store account). */
+  noKrStore?: boolean
 }
 
 /** Country-level common transit rules (shown once per country). */

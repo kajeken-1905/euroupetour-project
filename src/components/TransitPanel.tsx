@@ -57,6 +57,7 @@ function TransitAppChip({ app, lang }: { app: TransitApp; lang: 'ko' | 'en' }) {
       <span className="transit-app-text">
         <span className="transit-app-name">{app.name}</span>
         {app.note ? <span className="transit-app-note">{app.note[lang]}</span> : null}
+        {app.noKrStore ? <span className="transit-app-warn">{t('transitNoKrStore', lang)}</span> : null}
       </span>
     </a>
   )
