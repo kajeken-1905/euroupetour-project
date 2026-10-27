@@ -1,0 +1,111 @@
+// London airports and stations, with the ways into the centre. Fares change every March and are
+// mostly from travel guides, so they are given as rough figures (약/about).
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-lhr',
+    cityId: 'london',
+    kind: 'air',
+    name: '히스로 공항|London Heathrow Airport',
+    code: 'LHR',
+    intl: true,
+    about: '런던 서쪽 약 24km, 유럽 최대 공항. 터미널 2·3·4·5가 있습니다.|About 24 km west of London and Europe’s busiest airport, with Terminals 2, 3, 4 and 5.',
+    options: [
+      {
+        mode: 'train',
+        name: '엘리자베스 라인|Elizabeth line',
+        route: '터미널 → 패딩턴·본드 스트리트·토트넘 코트 로드, 갈아타지 않고 시내까지|Terminals → Paddington, Bond Street, Tottenham Court Road without changing',
+        time: '패딩턴까지 약 30분, 본드 스트리트까지 약 35분|About 30 min to Paddington, 35 min to Bond Street',
+        fare: '약 £15|About £15',
+        ticket: '교통카드 오이스터나 비접촉 카드를 개찰구에 대면 됩니다.|Tap an Oyster or contactless card at the gates.',
+      },
+      {
+        mode: 'train',
+        name: '히스로 익스프레스|Heathrow Express',
+        route: '터미널 2·3·5 → 패딩턴 직행|Terminals 2, 3, 5 → Paddington, non-stop',
+        time: '15분, 15분 간격|15 min, every 15 min',
+        fare: '당일 약 £25, 미리 사면 £10대부터|About £25 on the day, from around £10 booked ahead',
+      },
+      {
+        mode: 'metro',
+        name: '지하철 피커딜리 라인|Piccadilly line (Underground)',
+        route: '터미널 → 사우스 켄싱턴·피커딜리 서커스·킹스 크로스|Terminals → South Kensington, Piccadilly Circus, King’s Cross',
+        time: '약 50~60분|About 50–60 min',
+        fare: '약 £5~6, 가장 쌈|About £5–6, the cheapest',
+        ticket: '오이스터·비접촉 카드|Oyster or contactless',
+      },
+    ],
+    maps: 'Heathrow Airport',
+    site: 'https://www.heathrow.com/transport-and-directions',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-lgw',
+    cityId: 'london',
+    kind: 'air',
+    name: '개트윅 공항|London Gatwick Airport',
+    code: 'LGW',
+    intl: true,
+    about: '런던 남쪽 약 45km, 런던 제2 공항. 이지젯 등 유럽 노선이 많습니다.|About 45 km south of London and its second airport, with many European flights such as easyJet.',
+    options: [
+      {
+        mode: 'train',
+        name: '개트윅 익스프레스·서던·템즈링크|Gatwick Express, Southern, Thameslink',
+        route: '공항역 → 빅토리아(개트윅 익스프레스·서던), 런던 브리지·블랙프라이어스·세인트 판크라스(템즈링크)|Airport station → Victoria (Gatwick Express, Southern) or London Bridge, Blackfriars, St Pancras (Thameslink)',
+        time: '빅토리아까지 약 30분|About 30 min to Victoria',
+        fare: '개트윅 익스프레스 약 £20, 서던·템즈링크가 더 쌈|About £20 on Gatwick Express; Southern and Thameslink cost less',
+        ticket: '비접촉 카드로 개찰구 통과 가능|Contactless cards work at the gates',
+      },
+    ],
+    maps: 'Gatwick Airport',
+    site: 'https://www.gatwickairport.com/',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-stn',
+    cityId: 'london',
+    kind: 'air',
+    name: '스탠스테드 공항|London Stansted Airport',
+    code: 'STN',
+    intl: true,
+    about: '런던 북동쪽 약 55km, 라이언에어의 큰 거점입니다.|About 55 km north-east of London; a major Ryanair base.',
+    options: [
+      {
+        mode: 'train',
+        name: '스탠스테드 익스프레스|Stansted Express',
+        route: '공항역 → 토트넘 헤일 → 리버풀 스트리트|Airport station → Tottenham Hale → Liverpool Street',
+        time: '약 50분, 15~30분 간격|About 50 min, every 15–30 min',
+        fare: '당일 약 £20대, 미리 사면 £10 안팎|Around £20+ on the day, about £10 booked well ahead',
+      },
+      {
+        mode: 'bus',
+        name: '공항버스(National Express 등)|Coaches (National Express and others)',
+        route: '터미널 → 빅토리아 코치 스테이션·스트랫퍼드 등|Terminal → Victoria Coach Station, Stratford and more',
+        time: '1시간 이상|An hour or more',
+      },
+    ],
+    maps: 'London Stansted Airport',
+    site: 'https://www.stanstedairport.com/',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-london-st-pancras',
+    cityId: 'london',
+    kind: 'rail',
+    name: '세인트 판크라스 인터내셔널역|London St Pancras International',
+    about:
+      '파리·브뤼셀·암스테르담행 유로스타가 출발하는 붉은 벽돌의 빅토리아 시대 역. 바로 옆에 킹스 크로스역(해리포터 9¾ 승강장)이 있습니다.|The red-brick Victorian station for Eurostar to Paris, Brussels and Amsterdam; King’s Cross (Platform 9¾) is next door.',
+    options: [
+      {
+        mode: 'metro',
+        name: '지하철 킹스 크로스 세인트 판크라스역|King’s Cross St Pancras Underground',
+        route: '6개 노선이 지납니다. 피커딜리 라인 → 코벤트 가든·피커딜리 서커스|Six lines; Piccadilly line → Covent Garden, Piccadilly Circus',
+        ticket: '오이스터·비접촉 카드|Oyster or contactless',
+      },
+    ],
+    note: '유로스타는 출국·입국 심사를 함께 받으므로 출발 1시간~1시간 30분 전에 도착하세요.|Eurostar runs passport checks before boarding; arrive 60–90 minutes ahead.',
+    maps: 'St Pancras International',
+    checked: '2026-10',
+  },
+]

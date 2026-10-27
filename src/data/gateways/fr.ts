@@ -1,0 +1,120 @@
+// Airports and main stations in France, with the ways into the centre.
+// Airport ticket and taxi flat fares from Île-de-France Mobilités and the 2026 taxi order (service-public.fr);
+// figures marked 약/about are estimates.
+import type { Gateway } from '../../types'
+
+const AIRPORT_TICKET =
+  '공항 전용 1회권(Ticket Paris Région–Aéroports) €14, 어린이 €7. 일반 메트로 1회권으로는 안 됩니다.|Airport ticket (Ticket Paris Région–Aéroports) €14, children €7; an ordinary metro ticket is not valid.'
+const AIRPORT_TICKET_BUY =
+  '역 자판기·Île-de-France Mobilités 앱에서 Navigo Easy 카드나 휴대폰에 담습니다. 파리 비지트(전 구역)·나비고 주간권도 됩니다.|Load it on a Navigo Easy card or a phone from the machines or the Île-de-France Mobilités app; Paris Visite (all zones) and Navigo Semaine also cover it.'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-cdg',
+    cityId: 'paris',
+    kind: 'air',
+    name: '샤를 드 골 공항|Paris Charles de Gaulle Airport',
+    code: 'CDG',
+    intl: true,
+    about:
+      '파리 북동쪽 약 25km, 프랑스 최대 공항. 터미널 1·2(2A~2G)·3으로 나뉘고 무인 전철 CDGVAL이 잇습니다.|About 25 km north-east of Paris and France’s largest airport; Terminals 1, 2 (2A–2G) and 3 are linked by the CDGVAL shuttle train.',
+    options: [
+      {
+        mode: 'train',
+        name: 'RER B|RER B',
+        route:
+          '공항 2역(TGV 역 옆)·공항 1역 → 가르 뒤 노르(북역)·샤틀레 레 알·생미셸 노트르담|Airport 2 (by the TGV station) or Airport 1 → Gare du Nord, Châtelet–Les Halles, Saint-Michel Notre-Dame',
+        time: '북역까지 약 30~35분, 10~15분 간격|About 30–35 min to Gare du Nord, every 10–15 min',
+        fare: AIRPORT_TICKET,
+        ticket: AIRPORT_TICKET_BUY,
+      },
+      {
+        mode: 'bus',
+        name: '시내버스 350·351, 심야버스 N140·N143|Buses 350, 351; night buses N140, N143',
+        route: '파리 북동부(가르 드 레스트·나시옹)까지, 느리지만 일반 요금|To north-east Paris (Gare de l’Est, Nation); slow but ordinary fares',
+        time: '약 1시간 이상|An hour or more',
+      },
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '각 터미널 도착층 공식 승차장|Official ranks at each terminal’s arrivals',
+        fare: '고정 요금: 센강 북쪽(우안) €56, 남쪽(좌안) €65|Flat fare: €56 to the Right Bank, €65 to the Left Bank',
+      },
+    ],
+    note: '공항버스 로와시뷔스(Roissybus)는 2026년 2월 운행을 끝냈습니다.|The Roissybus airport coach stopped running in February 2026.',
+    maps: 'Aéroport Paris-Charles de Gaulle',
+    site: 'https://www.parisaeroport.fr/en',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-ory',
+    cityId: 'paris',
+    kind: 'air',
+    name: '오를리 공항|Paris Orly Airport',
+    code: 'ORY',
+    intl: true,
+    about: '파리 남쪽 약 14km. 유럽·북아프리카 노선과 저비용 항공이 많습니다.|About 14 km south of Paris, with many European, North African and low-cost flights.',
+    options: [
+      {
+        mode: 'metro',
+        name: '메트로 14호선|Metro line 14',
+        route: '오를리 공항역 → 리옹역·샤틀레·생라자르, 갈아타지 않고 시내까지|Orly Airport → Gare de Lyon, Châtelet, Saint-Lazare without changing',
+        time: '샤틀레까지 약 25~30분|About 25–30 min to Châtelet',
+        fare: AIRPORT_TICKET,
+        ticket: AIRPORT_TICKET_BUY,
+      },
+      {
+        mode: 'train',
+        name: '오를리발 + RER B|Orlyval + RER B',
+        route: '오를리발 무인 전철로 앙토니역 → RER B로 시내|Orlyval shuttle to Antony, then RER B into Paris',
+        fare: '같은 공항 전용 1회권 €14|Same €14 airport ticket',
+      },
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '터미널 도착층 공식 승차장|Official ranks at arrivals',
+        fare: '고정 요금: 센강 남쪽(좌안) €36, 북쪽(우안) €45|Flat fare: €36 to the Left Bank, €45 to the Right Bank',
+      },
+    ],
+    maps: 'Aéroport de Paris-Orly',
+    site: 'https://www.parisaeroport.fr/en',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-paris-nord',
+    cityId: 'paris',
+    kind: 'rail',
+    name: '파리 북역|Paris Gare du Nord',
+    about:
+      '유럽에서 가장 붐비는 역. 런던행 유로스타, 브뤼셀·암스테르담행 열차, 릴행 TGV와 공항행 RER B가 출발합니다.|Europe’s busiest station, for Eurostar to London, trains to Brussels and Amsterdam, TGVs to Lille and the RER B to CDG.',
+    options: [
+      {
+        mode: 'metro',
+        name: '메트로 4·5호선, RER B·D|Metro 4, 5; RER B, D',
+        route: '4호선 → 생미셸·몽파르나스, RER B·D → 샤틀레 레 알 (한 정거장)|Line 4 → Saint-Michel, Montparnasse; RER B/D → Châtelet–Les Halles (one stop)',
+        fare: '메트로·RER 1회권 €2.55 (시내 2시간 유효)|Metro/RER ticket €2.55, valid 2 hours in town',
+      },
+    ],
+    note: '유로스타는 출국 심사가 있어 출발 1시간~1시간 30분 전에 도착하세요.|Eurostar has passport control; arrive 60–90 minutes before departure.',
+    maps: 'Gare du Nord Paris',
+    checked: '2026-10',
+  },
+  {
+    id: 'gw-paris-lyon',
+    cityId: 'paris',
+    kind: 'rail',
+    name: '파리 리옹역|Paris Gare de Lyon',
+    about:
+      '리옹·마르세유·니스 방면 TGV와 스위스·이탈리아행 열차가 출발합니다. 시계탑과 식당 르 트랭 블뢰가 유명합니다.|TGVs to Lyon, Marseille and Nice and trains to Switzerland and Italy; known for its clock tower and the Le Train Bleu restaurant.',
+    options: [
+      {
+        mode: 'metro',
+        name: '메트로 1·14호선, RER A·D|Metro 1, 14; RER A, D',
+        route: '1호선 → 바스티유·루브르·샹젤리제, 14호선 → 샤틀레·오를리 공항|Line 1 → Bastille, Louvre, Champs-Élysées; line 14 → Châtelet, Orly Airport',
+        fare: '메트로·RER 1회권 €2.55|Metro/RER ticket €2.55',
+      },
+    ],
+    maps: 'Gare de Lyon Paris',
+    checked: '2026-10',
+  },
+]
