@@ -8,7 +8,7 @@ const NIGHTJET = { operator: 'ÖBB', url: 'https://www.nightjet.com/en' }
 export const NIGHT_TRAINS: NightTrain[] = [
   {
     id: 'nightjet',
-    name: 'Nightjet',
+    name: '나이트젯|Nightjet',
     ...NIGHTJET,
     lines: [
       ['vienna', 'salzburg', 'innsbruck'],
@@ -36,7 +36,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'european-sleeper',
-    name: 'European Sleeper',
+    name: '유러피언 슬리퍼|European Sleeper',
     operator: 'European Sleeper',
     url: 'https://www.europeansleeper.eu/',
     lines: [
@@ -48,7 +48,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'caledonian-sleeper',
-    name: 'Caledonian Sleeper',
+    name: '칼레도니안 슬리퍼|Caledonian Sleeper',
     operator: 'Caledonian Sleeper',
     url: 'https://www.sleeper.scot/',
     lines: [
@@ -60,7 +60,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'night-riviera',
-    name: 'Night Riviera',
+    name: '나이트 리비에라|Night Riviera',
     operator: 'GWR',
     url: 'https://www.gwr.com/travelling-with-us/night-riviera-sleeper',
     lines: [['london', 'st-ives']],
@@ -68,7 +68,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'intercites-de-nuit',
-    name: 'Intercités de nuit',
+    name: '앵테르시테 드 뉘|Intercités de nuit',
     operator: 'SNCF',
     url: 'https://www.sncf-connect.com/en-en/intercites',
     lines: [
@@ -80,7 +80,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'intercity-notte',
-    name: 'Intercity Notte',
+    name: '인터시티 노테|Intercity Notte',
     operator: 'Trenitalia',
     url: 'https://www.trenitalia.com/en/connections/intercity-notte.html',
     lines: [
@@ -96,7 +96,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'sj-night',
-    name: 'SJ Nattåg',
+    name: 'SJ 야간열차|SJ Nattåg',
     operator: 'SJ',
     url: 'https://www.sj.se/en',
     lines: [['stockholm', 'kiruna']],
@@ -104,7 +104,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'snalltaget',
-    name: 'Snälltåget',
+    name: '스넬토게트|Snälltåget',
     operator: 'Snälltåget',
     url: 'https://www.snalltaget.se/en',
     lines: [['berlin', 'hamburg', 'copenhagen', 'malmo', 'stockholm']],
@@ -112,7 +112,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'vy-night',
-    name: 'Vy nattog',
+    name: 'Vy 야간열차|Vy nattog',
     operator: 'Vy',
     url: 'https://www.vy.no/en',
     lines: [['oslo', 'bergen']],
@@ -120,7 +120,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'sj-nord-night',
-    name: 'SJ Nord nattog',
+    name: 'SJ 노르 야간열차|SJ Nord nattog',
     operator: 'SJ Nord',
     url: 'https://www.sj.no/en',
     lines: [['oslo', 'trondheim']],
@@ -128,7 +128,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'vr-night',
-    name: 'Santa Claus Express',
+    name: '산타클로스 익스프레스|Santa Claus Express',
     operator: 'VR',
     url: 'https://www.vr.fi/en/night-trains',
     lines: [
@@ -139,7 +139,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'pkp-night',
-    name: 'PKP Intercity',
+    name: 'PKP 인터시티 야간열차|PKP Intercity',
     operator: 'PKP Intercity',
     url: 'https://www.intercity.pl/en/',
     lines: [
@@ -150,14 +150,14 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'en-chopin',
-    name: 'EN Chopin',
+    name: 'EN 쇼팽|EN Chopin',
     operator: 'ČD · PKP Intercity',
     url: 'https://www.cd.cz/en/',
     lines: [['warsaw', 'krakow', 'prague']],
   },
   {
     id: 'regiojet-night',
-    name: 'RegioJet',
+    name: '레지오젯 야간열차|RegioJet',
     operator: 'RegioJet',
     url: 'https://www.regiojet.com/',
     lines: [['prague', 'kosice']],
@@ -165,14 +165,14 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'budapest-bucharest',
-    name: 'Ister',
+    name: '이스테르|Ister',
     operator: 'MÁV · CFR',
     url: 'https://www.mavcsoport.hu/en',
     lines: [['budapest', 'brasov', 'bucharest']],
   },
   {
     id: 'cfr-night',
-    name: 'CFR',
+    name: '루마니아 철도 야간열차|CFR',
     operator: 'CFR Călători',
     url: 'https://www.cfrcalatori.ro/en/',
     lines: [
@@ -183,7 +183,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'bdz-night',
-    name: 'BDŽ',
+    name: '불가리아 철도 야간열차|BDŽ',
     operator: 'BDŽ',
     url: 'https://www.bdz.bg/en',
     lines: [
@@ -194,7 +194,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'hzpp-night',
-    name: 'HŽPP',
+    name: '크로아티아 철도 야간열차|HŽPP',
     operator: 'HŽPP',
     url: 'https://www.hzpp.hr/en',
     lines: [['zagreb', 'split']],
@@ -202,7 +202,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'belgrade-bar',
-    name: 'Beograd–Bar',
+    name: '베오그라드–바르|Beograd–Bar',
     operator: 'Srbijavoz · ŽPCG',
     url: 'https://srbijavoz.rs/',
     lines: [['belgrade', 'podgorica']],
@@ -210,7 +210,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'caucasus-night',
-    name: 'Tbilisi–Yerevan',
+    name: '트빌리시–예레반|Tbilisi–Yerevan',
     operator: 'Georgian Railway · SCR',
     url: 'https://www.railway.ge/en/',
     lines: [['batumi', 'tbilisi', 'yerevan']],
@@ -218,7 +218,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'baku-tbilisi',
-    name: 'Baku–Tbilisi',
+    name: '바쿠–트빌리시|Baku–Tbilisi',
     operator: 'ADY',
     url: 'https://ady.az/en',
     lines: [['baku', 'tbilisi']],
@@ -226,7 +226,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'uz-night',
-    name: 'Ukrzaliznytsia',
+    name: '우크라이나 철도 야간열차|Ukrzaliznytsia',
     operator: 'Ukrzaliznytsia',
     url: 'https://booking.uz.gov.ua/en',
     lines: [
@@ -236,7 +236,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
   },
   {
     id: 'rzd-night',
-    name: 'RZD',
+    name: '러시아 철도 야간열차|RZD',
     operator: 'RZD',
     url: 'https://www.rzd.ru/',
     lines: [
@@ -244,6 +244,22 @@ export const NIGHT_TRAINS: NightTrain[] = [
       ['moscow', 'kazan'],
       ['khabarovsk', 'vladivostok'],
     ],
+  },
+]
+
+/** Regions for the search screen's train list, in display order. */
+export const NIGHT_TRAIN_GROUPS: { title: string; ids: string[] }[] = [
+  { title: '중부·서유럽|Central & western Europe', ids: ['nightjet', 'european-sleeper'] },
+  { title: '영국|Great Britain', ids: ['caledonian-sleeper', 'night-riviera'] },
+  { title: '프랑스·이탈리아|France & Italy', ids: ['intercites-de-nuit', 'intercity-notte'] },
+  { title: '북유럽|Nordic countries', ids: ['sj-night', 'snalltaget', 'vy-night', 'sj-nord-night', 'vr-night'] },
+  {
+    title: '동유럽·발칸|Eastern Europe & the Balkans',
+    ids: ['pkp-night', 'en-chopin', 'regiojet-night', 'budapest-bucharest', 'cfr-night', 'bdz-night', 'hzpp-night', 'belgrade-bar'],
+  },
+  {
+    title: '캅카스·우크라이나·러시아|Caucasus, Ukraine & Russia',
+    ids: ['caucasus-night', 'baku-tbilisi', 'uz-night', 'rzd-night'],
   },
 ]
 

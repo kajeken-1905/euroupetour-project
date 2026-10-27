@@ -165,6 +165,13 @@ export const ui = {
   funicularsTitle: { ko: '푸니쿨라·케이블카', en: 'Funiculars & cable cars' },
   scenicTrainsResv: { ko: '예약 필수', en: 'Reservation required' },
   scenicTrainsSite: { ko: '공식 사이트', en: 'Official site' },
+  trainTripsTitle: { ko: '열차 여행 · 야간열차와 특색 열차', en: 'Train journeys · night trains and scenic railways' },
+  trainTripsNote: {
+    ko: '카드를 누르면 지나는 도시와 공식 사이트가 펼쳐집니다.',
+    en: 'Tap a card for the cities it serves and the official site.',
+  },
+  trainTripsMore: { ko: '외 {n}개 구간', en: '+ {n} more routes' },
+  searchKind_train: { ko: '열차', en: 'Trains' },
   nightTrainsBook: { ko: '공식 예약', en: 'Book' },
   nightTrainsHint: {
     ko: '운행 요일·기간은 노선마다 다르니 예약 전에 확인하세요. 유레일(인터레일) 패스로 탈 수 있는 열차도 침대·쿠셋 예약비는 따로 냅니다.',

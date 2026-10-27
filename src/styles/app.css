@@ -1904,6 +1904,28 @@ button.back-link {
   font-size: 12px;
 }
 
+/* Search screen: cards that open in place. */
+.train-list {
+  margin-top: 8px;
+}
+
+.train-card {
+  scroll-margin-top: 120px;
+}
+
+.train-card-toggle {
+  display: grid;
+  gap: 4px;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
 .night-train-note {
   margin: 0;
   font-size: 12px;

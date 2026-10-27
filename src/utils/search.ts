@@ -1,8 +1,10 @@
 import { countries, getCountry } from '../data/countries'
 import { getCity, loadedCities, loadedCountryCount, loadedPlaces } from '../data/countryData'
+import { NIGHT_TRAINS } from '../data/night-trains'
+import { SCENIC_TRAINS } from '../data/scenic-trains'
 import { CATEGORIES, type CategoryId } from '../types'
 
-export type SearchKind = 'country' | 'city' | 'highlight' | 'place'
+export type SearchKind = 'country' | 'city' | 'highlight' | 'place' | 'train'
 
 export interface SearchEntry {
   kind: SearchKind
@@ -129,10 +131,23 @@ function buildIndex(): SearchEntry[] {
       ),
     )
   }
+  // Trains open their card in the search screen's train list; `key` is that card's key.
+  const split = (name: string) => {
+    const [ko, en] = name.split('|')
+    return { ko, en: en ?? ko }
+  }
+  for (const n of NIGHT_TRAINS) {
+    const sub = { ko: `야간열차 · ${n.operator}`, en: `Night train · ${n.operator}` }
+    out.push(entry('train', `night:${n.id}`, split(n.name), sub, '/search'))
+  }
+  for (const st of SCENIC_TRAINS) {
+    const sub = { ko: '특색 열차·산악 열차', en: 'Scenic & mountain railway' }
+    out.push(entry('train', `scenic:${st.id}`, split(st.name), sub, '/search'))
+  }
   return out
 }
 
-export const SEARCH_KINDS: SearchKind[] = ['country', 'city', 'highlight', 'place']
+export const SEARCH_KINDS: SearchKind[] = ['country', 'city', 'train', 'highlight', 'place']
 
 export type SearchResults = Record<SearchKind, { items: SearchEntry[]; total: number }>
 
@@ -184,6 +199,7 @@ export function search(query: string, limit = 20): SearchResults {
     city: { items: [], total: 0 },
     highlight: { items: [], total: 0 },
     place: { items: [], total: 0 },
+    train: { items: [], total: 0 },
   }
   const raw = query.replace(/\s/g, '')
   const q = normalize(query)

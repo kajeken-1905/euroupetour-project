@@ -5,6 +5,7 @@ import { getCountry } from '../data/countries'
 import { ERA_GROUPS } from '../data/eraCities'
 import { CountryStamp } from '../components/CountryStamp'
 import { LanguageToggle } from '../components/LanguageToggle'
+import { TrainTripsPanel } from '../components/TrainTripsPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useVisitedPlaces } from '../hooks/useVisitedPlaces'
 import { t } from '../i18n/ui'
@@ -100,6 +101,8 @@ function SearchView() {
   // Keep the query while the tab is open so coming back from a result shows the same list.
   const [query, setQuery] = useState(() => sessionStorage.getItem(QUERY_KEY) ?? '')
   const [recent, setRecent] = useState(recentSearches)
+  // Train picked from the results: the query is cleared and its card opens in the train list.
+  const [trainFocus, setTrainFocus] = useState<string>()
   const deferred = useDeferredValue(query)
   const results = useMemo(() => search(deferred), [deferred])
   const total = SEARCH_KINDS.reduce((sum, k) => sum + results[k].total, 0)
@@ -115,6 +118,12 @@ function SearchView() {
 
   const open = (e: SearchEntry) => {
     rememberSearch(query)
+    if (e.kind === 'train') {
+      setRecent(recentSearches())
+      update('')
+      setTrainFocus(e.key)
+      return
+    }
     navigate(e.to, e.highlightId ? { state: { highlightId: e.highlightId } } : undefined)
   }
 
@@ -172,6 +181,7 @@ function SearchView() {
           ) : null}
           <p className="phase-note">{t('searchHint', lang)}</p>
           <RecommendedCities />
+          <TrainTripsPanel focus={trainFocus} />
         </>
       ) : total === 0 ? (
         <div className="empty-state">{t('searchEmpty', lang)}</div>
