@@ -457,6 +457,11 @@ const APP_CATALOG = {
   'wizz-air': { name: 'Wizz Air', url: 'https://apps.apple.com/app/id583348801', icon: '/transit-apps/wizz-air.png' },
   yelo: { name: 'Yélo', url: 'https://apps.apple.com/app/id1266717164', icon: '/transit-apps/yelo.png' },
   ziogas: { name: 'Žiogas', url: 'https://apps.apple.com/app/id1435882547', icon: '/transit-apps/ziogas.png' },
+  'rail-planner': {
+    name: 'Interrail Rail Planner',
+    url: 'https://apps.apple.com/app/id579547877',
+    icon: '/transit-apps/rail-planner.png',
+  },
 } as const
 
 type AppId = keyof typeof APP_CATALOG
