@@ -11,6 +11,8 @@ import { EssentialsPanel } from '../components/EssentialsPanel'
 import { TravelBanNotice } from '../components/TravelBanNotice'
 import { PassesPanel } from '../components/PassesPanel'
 import { CountryNightTrainsPanel } from '../components/NightTrainsPanel'
+import { CountryAirportsPanel } from '../components/GatewaysPanel'
+import { useGateways } from '../data/gateways'
 import { CountryScenicTrainsPanel } from '../components/ScenicTrainsPanel'
 import { HolidaysPanel } from '../components/HolidaysPanel'
 import { getCountryPasses } from '../data/passes'
@@ -33,6 +35,7 @@ export function CountryPage() {
   const { lang } = useLanguage()
   const country = getCountry(countryId)
   const cityList = getCitiesByCountry(countryId)
+  const gateways = useGateways(countryId)
   const { getRate, loading, error, data } = useDailyExchangeRates()
 
   if (!country) {
@@ -154,6 +157,8 @@ export function CountryPage() {
       <PhrasePanel countryId={country.id} />
 
       {transit ? <TransitCountryPanel transit={transit} /> : null}
+
+      {gateways ? <CountryAirportsPanel gateways={gateways} /> : null}
 
       <PassesPanel passes={getCountryPasses(country.id)} />
 

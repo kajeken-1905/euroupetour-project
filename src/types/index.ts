@@ -144,6 +144,38 @@ export interface NightTrain {
   pass?: string
 }
 
+/** One way between an airport, station or port and the city centre. All text is 'ko|en'. */
+export interface GatewayOption {
+  mode: 'metro' | 'train' | 'bus' | 'tram' | 'taxi' | 'walk' | 'boat'
+  name: string
+  route: string
+  /** Journey time, frequency and hours */
+  time?: string
+  fare?: string
+  /** How and where to buy or pay */
+  ticket?: string
+}
+
+/** An airport, main railway station or ferry port, shown with the city's sights. Text is 'ko|en'. */
+export interface Gateway {
+  id: string
+  cityId: string
+  kind: 'air' | 'rail' | 'port'
+  name: string
+  /** IATA code for airports */
+  code?: string
+  /** International airport, listed on the country screen */
+  intl?: boolean
+  about: string
+  options: GatewayOption[]
+  note?: string
+  /** Search words for Google Maps */
+  maps: string
+  site?: string
+  /** Month (YYYY-MM) the fares were checked */
+  checked: string
+}
+
 /** A direct onward connection from one city to another, as seen from one end. */
 export interface CityRoute {
   toCityId: string

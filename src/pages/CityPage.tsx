@@ -22,6 +22,8 @@ import { RoutesPanel } from '../components/RoutesPanel'
 import { NightTrainsPanel } from '../components/NightTrainsPanel'
 import { ScenicTrainsPanel } from '../components/ScenicTrainsPanel'
 import { FunicularsPanel } from '../components/FunicularsPanel'
+import { CityGateways } from '../components/GatewaysPanel'
+import { useGateways } from '../data/gateways'
 import { ItineraryPanel } from '../components/ItineraryPanel'
 import { CityMap } from '../components/CityMap'
 import { PlannerPanel } from '../components/PlannerPanel'
@@ -54,6 +56,7 @@ function CityView() {
     [city, category],
   )
   const transit = city ? getCityTransit(city.id) : undefined
+  const gateways = (useGateways(city?.countryId ?? '') ?? []).filter((g) => g.cityId === cityId)
 
   // Arriving from search: jump to the highlight once the shell has reset its scroll position.
   const highlightId = (useLocation().state as { highlightId?: string } | null)?.highlightId
@@ -63,7 +66,7 @@ function CityView() {
       document.getElementById(highlightId)?.scrollIntoView({ block: 'center' })
     }, 60)
     return () => clearTimeout(timer)
-  }, [highlightId, cityId])
+  }, [highlightId, cityId, gateways.length])
 
   if (!city || !country) {
     return (
@@ -140,13 +143,19 @@ function CityView() {
           )
         })}
       </div>
+      <CityGateways gateways={gateways} />
 
       <FootballClubsPanel cityId={city.id} />
 
       <StayPanel cityId={city.id} countryId={country.id} />
 
       {transit ? (
-        <TransitCityPanel {...transit} hubs={getCityHubs(city.id)} cityName={city.name.en} />
+        <TransitCityPanel
+          {...transit}
+          hubs={getCityHubs(city.id)}
+          cityName={city.name.en}
+          airportCard={gateways.find((g) => g.kind === 'air')?.id}
+        />
       ) : null}
 
       <FaresPanel cityId={city.id} />

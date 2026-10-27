@@ -190,7 +190,10 @@ export function TransitCityPanel({
   tip,
   hubs,
   cityName,
+  airportCard,
 }: {
+  /** Id of the airport card under sights, which replaces the short airport note */
+  airportCard?: string
   hubs?: CityHubs
   cityName: string
   modes: TransitModeId[]
@@ -217,7 +220,19 @@ export function TransitCityPanel({
           ))}
         </div>
         {hubs ? <TransitHubList hubs={hubs} cityName={cityName} lang={lang} /> : null}
-        {airportToCity ? (
+        {airportCard ? (
+          <div className="transit-block">
+            <h3>{t('transitAirport', lang)}</h3>
+            <p>
+              <a href={`#${airportCard}`} onClick={(e) => {
+                e.preventDefault()
+                document.getElementById(airportCard)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+              }}>
+                ✈️ {t('transitAirportCard', lang)} ↑
+              </a>
+            </p>
+          </div>
+        ) : airportToCity ? (
           <div className="transit-block">
             <h3>{t('transitAirport', lang)}</h3>
             <p>{airportToCity[lang]}</p>

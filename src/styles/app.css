@@ -1036,6 +1036,73 @@ button.back-link {
   transform: scale(1.08);
 }
 
+/* Airports, stations and ports listed after a city's sights. */
+.gateway-card-head {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  color: inherit;
+  text-decoration: none;
+}
+
+.gateway-card-icon {
+  display: grid;
+  place-items: center;
+  font-size: 30px;
+  background: linear-gradient(160deg, #e7eef7, #f3ece3);
+}
+
+.gateway-code {
+  margin-left: 6px;
+  padding: 1px 6px;
+  border-radius: 6px;
+  background: #3d342c;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  vertical-align: 2px;
+}
+
+.gateway-ways {
+  padding: 0 14px 12px;
+  font-size: 13px;
+}
+
+.gateway-ways summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #9a4a1c;
+}
+
+.gateway-options {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.gateway-option {
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: #f0ebe4;
+}
+
+.gateway-option p {
+  margin: 2px 0 0;
+  color: #3d342c;
+  line-height: 1.45;
+}
+
+.gateway-option .gateway-option-name {
+  margin: 0;
+  font-weight: 700;
+}
+
+.gateway-note {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
 .highlight-card-body {
   padding: 12px 14px 14px;
 }
