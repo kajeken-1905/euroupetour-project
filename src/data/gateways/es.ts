@@ -55,6 +55,7 @@ export const GATEWAYS: Gateway[] = [
     id: 'gw-madrid-atocha',
     cityId: 'madrid',
     kind: 'rail',
+    highlightId: 'madrid-h14',
     name: '아토차역|Madrid Puerta de Atocha – Almudena Grandes',
     about:
       '스페인 최대의 기차역. 바르셀로나·세비야·말라가·발렌시아행 고속열차(AVE·iryo·OUIGO)와 근교선이 출발합니다.|Spain’s largest station, with high-speed trains (AVE, iryo, OUIGO) to Barcelona, Seville, Málaga and Valencia, plus Cercanías.',

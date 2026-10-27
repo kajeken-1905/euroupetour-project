@@ -138,12 +138,12 @@ function CityView() {
               {showGroup ? (
                 <p className="highlight-group">{item.group![lang]}</p>
               ) : null}
-              <HighlightCard highlight={item} />
+              <HighlightCard highlight={item} gateway={gateways.find((g) => g.highlightId === item.id)} />
             </Fragment>
           )
         })}
+        <CityGateways gateways={gateways} />
       </div>
-      <CityGateways gateways={gateways} />
 
       <FootballClubsPanel cityId={city.id} />
 
@@ -154,7 +154,7 @@ function CityView() {
           {...transit}
           hubs={getCityHubs(city.id)}
           cityName={city.name.en}
-          airportCard={gateways.find((g) => g.kind === 'air')?.id}
+          airportCard={gateways.find((g) => g.kind === 'air')?.highlightId ?? gateways.find((g) => g.kind === 'air')?.id}
         />
       ) : null}
 

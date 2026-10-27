@@ -1,10 +1,11 @@
-import type { CityHighlight, HighlightVisit, Lang } from '../types'
+import type { CityHighlight, Gateway, HighlightVisit, Lang } from '../types'
 import { useLanguage } from '../contexts/LanguageContext'
 import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
 import { getHighlightVisit } from '../data/visit'
 import { FavoriteButton } from './FavoriteButton'
 import { BeenButton } from './BeenButton'
+import { GatewayWays } from './GatewaysPanel'
 
 export const DAYS: Record<string, { ko: string; en: string }> = {
   mon: { ko: '월', en: 'Mon' },
@@ -88,7 +89,8 @@ function VisitInfo({ visit }: { visit: HighlightVisit }) {
   )
 }
 
-export function HighlightCard({ highlight }: { highlight: CityHighlight }) {
+/** `gateway`: the same place as an airport, station or port, whose ways into town show under the card. */
+export function HighlightCard({ highlight, gateway }: { highlight: CityHighlight; gateway?: Gateway }) {
   const { lang } = useLanguage()
   const visit = getHighlightVisit(highlight.id)
 
@@ -118,6 +120,7 @@ export function HighlightCard({ highlight }: { highlight: CityHighlight }) {
         <BeenButton kind="highlights" id={highlight.id} />
       </div>
       {visit ? <VisitInfo visit={visit} /> : null}
+      {gateway ? <GatewayWays gateway={gateway} /> : null}
     </article>
   )
 }

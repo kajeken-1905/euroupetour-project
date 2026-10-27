@@ -24,6 +24,38 @@ function mapsUrl(query: string) {
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`
 }
 
+/** The ways between a gateway and the city, folded until asked for. */
+export function GatewayWays({ gateway }: { gateway: Gateway }) {
+  const { lang } = useLanguage()
+  return (
+    <details className="gateway-ways">
+      <summary>{t(gateway.kind === 'air' ? 'gatewayToCityAir' : 'gatewayToCity', lang)}</summary>
+      <ul className="gateway-options">
+        {gateway.options.map((o) => (
+          <li key={o.name} className="gateway-option">
+            <p className="gateway-option-name">
+              <span aria-hidden>{MODE_ICON[o.mode]}</span> {pick(o.name, lang)}
+            </p>
+            <p>{pick(o.route, lang)}</p>
+            {o.time ? <p>⏱ {pick(o.time, lang)}</p> : null}
+            {o.fare ? <p>💶 {pick(o.fare, lang)}</p> : null}
+            {o.ticket ? <p>🎫 {pick(o.ticket, lang)}</p> : null}
+          </li>
+        ))}
+      </ul>
+      {gateway.note ? <p className="gateway-note">{pick(gateway.note, lang)}</p> : null}
+      {gateway.site ? (
+        <a className="visit-link" href={gateway.site} target="_blank" rel="noreferrer">
+          {t('visitSite', lang)} ↗
+        </a>
+      ) : null}
+      <p className="visit-checked">
+        ✓ {t('gatewayChecked', lang).replace('{y}', gateway.checked.slice(0, 4)).replace('{m}', String(Number(gateway.checked.slice(5))))}
+      </p>
+    </details>
+  )
+}
+
 /** One airport, station or port: what it is, then each way into the centre. */
 function GatewayCard({ gateway }: { gateway: Gateway }) {
   const { lang } = useLanguage()
@@ -42,47 +74,22 @@ function GatewayCard({ gateway }: { gateway: Gateway }) {
           <span className="highlight-card-maps">{t('openMaps', lang)}</span>
         </span>
       </a>
-      <details className="gateway-ways">
-        <summary>{t(gateway.kind === 'air' ? 'gatewayToCityAir' : 'gatewayToCity', lang)}</summary>
-        <ul className="gateway-options">
-          {gateway.options.map((o) => (
-            <li key={o.name} className="gateway-option">
-              <p className="gateway-option-name">
-                <span aria-hidden>{MODE_ICON[o.mode]}</span> {pick(o.name, lang)}
-              </p>
-              <p>{pick(o.route, lang)}</p>
-              {o.time ? <p>⏱ {pick(o.time, lang)}</p> : null}
-              {o.fare ? <p>💶 {pick(o.fare, lang)}</p> : null}
-              {o.ticket ? <p>🎫 {pick(o.ticket, lang)}</p> : null}
-            </li>
-          ))}
-        </ul>
-        {gateway.note ? <p className="gateway-note">{pick(gateway.note, lang)}</p> : null}
-        {gateway.site ? (
-          <a className="visit-link" href={gateway.site} target="_blank" rel="noreferrer">
-            {t('visitSite', lang)} ↗
-          </a>
-        ) : null}
-        <p className="visit-checked">
-          ✓ {t('gatewayChecked', lang).replace('{y}', gateway.checked.slice(0, 4)).replace('{m}', String(Number(gateway.checked.slice(5))))}
-        </p>
-      </details>
+      <GatewayWays gateway={gateway} />
     </article>
   )
 }
 
-/** City screen: the city's airports, stations and ports, after its sights. */
+/** City screen: airports, stations and ports that have no sight card of their own, as cards in the sights list. */
 export function CityGateways({ gateways }: { gateways: Gateway[] }) {
   const { lang } = useLanguage()
-  if (gateways.length === 0) return null
+  const own = gateways.filter((g) => !g.highlightId)
+  if (own.length === 0) return null
   return (
     <>
       <p className="highlight-group">{t('gatewaysTitle', lang)}</p>
-      <div className="highlight-list">
-        {gateways.map((g) => (
-          <GatewayCard key={g.id} gateway={g} />
-        ))}
-      </div>
+      {own.map((g) => (
+        <GatewayCard key={g.id} gateway={g} />
+      ))}
     </>
   )
 }

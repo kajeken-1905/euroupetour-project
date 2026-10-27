@@ -171,6 +171,8 @@ export interface Gateway {
   note?: string
   /** Search words for Google Maps */
   maps: string
+  /** Existing sight card for the same place; the ways in are shown on that card instead of a card of their own */
+  highlightId?: string
   site?: string
   /** Month (YYYY-MM) the fares were checked */
   checked: string
