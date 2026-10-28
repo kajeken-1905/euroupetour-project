@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '브라티슬라바 공항|Bratislava Airport',
     code: 'BTS',
+    image: '/gateways/gw-bts.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 9km. 빈 공항까지도 버스로 1시간 안팎입니다.|About 9 km north-east of the centre; Vienna Airport is about an hour away by bus.',
     options: [
@@ -28,6 +29,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '코시체 공항|Košice International Airport',
     code: 'KSC',
+    image: '/gateways/gw-ksc.jpg',
     intl: true,
     about: '시내에서 남쪽 약 6km입니다.|About 6 km south of the city.',
     options: [

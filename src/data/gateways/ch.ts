@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '취리히 공항|Zurich Airport',
     code: 'ZRH',
+    image: '/gateways/gw-zrh.jpg',
     intl: true,
     about: '시내에서 북쪽 약 10km. 터미널 아래 기차역에서 스위스 각지로 바로 갑니다.|About 10 km north of the centre, with a station under the terminal for trains all over Switzerland.',
     options: [
@@ -59,6 +60,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '제네바 공항|Geneva Airport',
     code: 'GVA',
+    image: '/gateways/gw-gva.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 5km, 프랑스 국경에 붙어 있습니다.|About 5 km north-west of the centre, right on the French border.',
     options: [

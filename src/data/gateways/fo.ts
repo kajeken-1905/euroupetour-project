@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바가르 공항|Vágar Airport',
     code: 'FAE',
+    image: '/gateways/gw-fae.jpg',
     intl: true,
     about: '페로 제도의 유일한 공항. 수도 토르스하운까지 해저 터널로 이어집니다.|The Faroes’ only airport, linked to Tórshavn by an undersea tunnel.',
     options: [

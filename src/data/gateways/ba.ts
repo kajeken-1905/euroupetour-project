@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '사라예보 국제공항|Sarajevo International Airport',
     code: 'SJJ',
+    image: '/gateways/gw-sjj.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 12km입니다.|About 12 km south-west of the city.',
     options: [
@@ -33,6 +34,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바냐루카 공항|Banja Luka International Airport',
     code: 'BNX',
+    image: '/gateways/gw-bnx.jpg',
     intl: true,
     about: '시내에서 북쪽 약 23km입니다.|About 23 km north of the city.',
     options: [

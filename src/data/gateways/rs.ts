@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '베오그라드 니콜라 테슬라 공항|Belgrade Nikola Tesla Airport',
     code: 'BEG',
+    image: '/gateways/gw-beg.jpg',
     intl: true,
     about: '시내에서 서쪽 약 18km입니다.|About 18 km west of the city.',
     options: [
@@ -33,6 +34,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '니시 콘스탄틴 대제 공항|Niš Constantine the Great Airport',
     code: 'INI',
+    image: '/gateways/gw-ini.jpg',
     intl: true,
     about: '시내에서 서쪽 약 4km. 저비용 항공이 다닙니다.|About 4 km west of the city, served by low-cost airlines.',
     options: [

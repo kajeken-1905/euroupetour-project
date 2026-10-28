@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '히스로 공항|London Heathrow Airport',
     code: 'LHR',
+    image: '/gateways/gw-lhr.jpg',
     intl: true,
     about: '런던 서쪽 약 24km, 유럽 최대 공항. 터미널 2·3·4·5가 있습니다.|About 24 km west of London and Europe’s busiest airport, with Terminals 2, 3, 4 and 5.',
     options: [
@@ -46,6 +47,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '개트윅 공항|London Gatwick Airport',
     code: 'LGW',
+    image: '/gateways/gw-lgw.jpg',
     intl: true,
     about: '런던 남쪽 약 45km, 런던 제2 공항. 이지젯 등 유럽 노선이 많습니다.|About 45 km south of London and its second airport, with many European flights such as easyJet.',
     options: [
@@ -68,6 +70,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스탠스테드 공항|London Stansted Airport',
     code: 'STN',
+    image: '/gateways/gw-stn.jpg',
     intl: true,
     about: '런던 북동쪽 약 55km, 라이언에어의 큰 거점입니다.|About 55 km north-east of London; a major Ryanair base.',
     options: [
@@ -94,6 +97,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'london',
     kind: 'rail',
     name: '세인트 판크라스 인터내셔널역|London St Pancras International',
+    image: '/gateways/gw-london-st-pancras.jpg',
     about:
       '파리·브뤼셀·암스테르담행 유로스타가 출발하는 붉은 벽돌의 빅토리아 시대 역. 바로 옆에 킹스 크로스역(해리포터 9¾ 승강장)이 있습니다.|The red-brick Victorian station for Eurostar to Paris, Brussels and Amsterdam; King’s Cross (Platform 9¾) is next door.',
     options: [
@@ -114,6 +118,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '에든버러 공항|Edinburgh Airport',
     code: 'EDI',
+    image: '/gateways/gw-edi.jpg',
     intl: true,
     about: '시내에서 서쪽 약 13km, 스코틀랜드에서 가장 붐비는 공항입니다.|About 13 km west of the city and Scotland’s busiest airport.',
     options: [
@@ -142,6 +147,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'edinburgh',
     kind: 'rail',
     name: '에든버러 웨이벌리역|Edinburgh Waverley',
+    image: '/gateways/gw-edinburgh-waverley.jpg',
     about: '구시가지와 신시가지 사이 골짜기에 있는 역. 런던행 LNER와 하일랜드행 열차, 런던행 야간열차가 출발합니다.|In the valley between Old and New Town, for LNER trains to London, Highland trains and the sleeper to London.',
     options: [
       {
@@ -159,6 +165,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '맨체스터 공항|Manchester Airport',
     code: 'MAN',
+    image: '/gateways/gw-man.jpg',
     intl: true,
     about: '시내에서 남쪽 약 14km, 런던 밖에서 가장 큰 영국 공항입니다.|About 14 km south of the city; the UK’s largest airport outside London.',
     options: [
@@ -185,6 +192,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '브리스틀 공항|Bristol Airport',
     code: 'BRS',
+    image: '/gateways/gw-brs.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 13km. 철도가 없어 버스로 갑니다.|About 13 km south-west of the city; no railway, so take the bus.',
     options: [
@@ -205,6 +213,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '카디프 공항|Cardiff Airport',
     code: 'CWL',
+    image: '/gateways/gw-cwl.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 20km 로스에 있습니다.|About 20 km south-west of the city at Rhoose.',
     options: [
@@ -230,6 +239,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '리버풀 존 레넌 공항|Liverpool John Lennon Airport',
     code: 'LPL',
+    image: '/gateways/gw-lpl.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 12km. 비틀스 멤버 존 레넌의 이름을 땄습니다.|About 12 km south-east of the city, named after John Lennon.',
     options: [
@@ -250,6 +260,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '인버네스 공항|Inverness Airport',
     code: 'INV',
+    image: '/gateways/gw-inv.jpg',
     intl: true,
     about: '시내에서 동쪽 약 13km. 하일랜드의 관문입니다.|About 13 km east of the city; the gateway to the Highlands.',
     options: [
@@ -275,6 +286,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '시티 오브 데리 공항|City of Derry Airport',
     code: 'LDY',
+    image: '/gateways/gw-ldy.jpg',
     intl: true,
     about: '데리 시내에서 북동쪽 약 11km의 작은 공항입니다.|A small airport about 11 km north-east of Derry.',
     options: [

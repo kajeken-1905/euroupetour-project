@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '건지 공항|Guernsey Airport',
     code: 'GCI',
+    image: '/gateways/gw-gci.jpg',
     intl: true,
     about: '세인트피터포트에서 남서쪽 약 5km입니다.|About 5 km south-west of St Peter Port.',
     options: [

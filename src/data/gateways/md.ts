@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '키시너우 국제공항|Chișinău International Airport',
     code: 'KIV',
+    image: '/gateways/gw-kiv.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 13km입니다.|About 13 km south-east of the city.',
     options: [

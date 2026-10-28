@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '브뤼셀 공항|Brussels Airport',
     code: 'BRU',
+    image: '/gateways/gw-bru.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 12km 자번템. 터미널 지하에 기차역이 있습니다.|About 12 km north-east of the centre at Zaventem, with a station beneath the terminal.',
     options: [
@@ -37,6 +38,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '브뤼셀 샤를루아 공항|Brussels South Charleroi Airport',
     code: 'CRL',
+    image: '/gateways/gw-crl.jpg',
     intl: true,
     about: '브뤼셀에서 남쪽 약 55km. 라이언에어·위즈에어가 주로 씁니다.|About 55 km south of Brussels; mainly Ryanair and Wizz Air.',
     options: [

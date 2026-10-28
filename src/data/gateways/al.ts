@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '티라나 국제공항|Tirana International Airport',
     code: 'TIA',
+    image: '/gateways/gw-tia.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 17km 리나스에 있습니다.|About 17 km north-west of the city at Rinas.',
     options: [

@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '지브롤터 공항|Gibraltar International Airport',
     code: 'GIB',
+    image: '/gateways/gw-gib.jpg',
     intl: true,
     about: '스페인 국경 바로 옆의 공항. 걸어서는 활주로를 건너 시내로 들어갑니다(차는 2023년 개통한 터널로).|Right by the Spanish border; on foot you cross the runway into town (cars use the tunnel opened in 2023).',
     options: [

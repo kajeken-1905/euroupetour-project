@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '소피아 공항|Sofia Airport',
     code: 'SOF',
+    image: '/gateways/gw-sof.jpg',
     intl: true,
     about: '시내에서 동쪽 약 10km. 터미널 2에서 지하철이 출발합니다.|About 10 km east of the city, with the metro leaving from Terminal 2.',
     options: [
@@ -33,6 +34,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바르나 공항|Varna Airport',
     code: 'VAR',
+    image: '/gateways/gw-var.jpg',
     intl: true,
     about: '흑해 해변 도시 바르나에서 서쪽 약 8km입니다.|About 8 km west of the Black Sea city.',
     options: [

@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '저지 공항|Jersey Airport',
     code: 'JER',
+    image: '/gateways/gw-jer.jpg',
     intl: true,
     about: '세인트헬리어에서 서쪽 약 8km입니다.|About 8 km west of St Helier.',
     options: [

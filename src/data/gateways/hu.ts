@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '부다페스트 리스트 페렌츠 공항|Budapest Ferenc Liszt Airport',
     code: 'BUD',
+    image: '/gateways/gw-bud.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 16km. 철도는 없고 공항버스가 다닙니다.|About 16 km south-east of the centre; no railway, but an airport express bus.',
     options: [
@@ -35,6 +36,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'budapest',
     kind: 'rail',
     name: '부다페스트 동역(켈레티)|Budapest-Keleti',
+    image: '/gateways/gw-budapest-keleti.jpg',
     about: '빈·뮌헨·프라하·베오그라드·부쿠레슈티행 국제열차가 주로 출발하는 1884년 역사입니다.|The 1884 station for most international trains to Vienna, Munich, Prague, Belgrade and Bucharest.',
     options: [
       {

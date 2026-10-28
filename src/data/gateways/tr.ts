@@ -141,6 +141,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '트라브존 공항|Trabzon Airport',
     code: 'TZX',
+    image: '/gateways/gw-tzx.jpg',
     intl: true,
     about: '흑해 해변, 시내에서 동쪽 약 5km입니다.|On the Black Sea about 5 km east of the city.',
     options: [

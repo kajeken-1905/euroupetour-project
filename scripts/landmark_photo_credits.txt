@@ -755,3 +755,156 @@ highlights/famagusta-4.jpg | https://commons.wikimedia.org/wiki/File:Famagusta_v
 gateways/gw-mad.jpg | https://commons.wikimedia.org/wiki/File:Terminal_4_del_aeropuerto_de_Madrid-Barajas,_Espa%C3%B1a,_2013-01-09,_DD_07.jpg | CC BY-SA 3.0 | Diego Delso
 gateways/gw-madrid-chamartin.jpg | https://commons.wikimedia.org/wiki/File:Madrid-Chamart%C3%ADn-Clara_Campoamor_train_station.01.jpg | CC BY-SA 4.0 | Nenea hartia
 gateways/gw-lis.jpg, gw-lisboa-santa-apolonia.jpg, gw-sevilla-santa-justa.jpg, gw-granada-station.jpg, gw-grx.jpg, gw-geneve-cornavin.jpg, gw-venezia-sl.jpg, gw-firenze-smn.jpg, gw-roma-termini.jpg, gw-napoli-mergellina.jpg, gw-napoli-centrale.jpg, gw-fco.jpg, gw-lisboa-oriente.jpg (Vasco da Gama centre beside the station) | own photos (site owner, 2023–2025) | — | site owner
+gateways/gw-gci.jpg | https://commons.wikimedia.org/wiki/File:Guernsey_Airport,_Arrivals,_GCI_(49509541697).jpg | CC BY 2.0 | Andrew Milligan sumo
+gateways/gw-ath.jpg | https://commons.wikimedia.org/wiki/File:Athens_International_Airport_.jpg | CC BY-SA 4.0 | George Kokkinidis-GR
+gateways/gw-piraeus.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Piraeus_Panoramic_View.JPG | CC BY-SA 3.0 de | Nikolaos Diakidis (user: Nik7)
+gateways/gw-skg.jpg | https://commons.wikimedia.org/wiki/File:Thessaloniki_Airport_2.jpg | CC BY-SA 4.0 | Tomisti
+gateways/gw-her.jpg | https://commons.wikimedia.org/wiki/File:Heraklion_airport,_main_building.jpg | CC BY-SA 4.0 | Jcornelius
+gateways/gw-chq.jpg | https://commons.wikimedia.org/wiki/File:Chania_airport.jpg | CC BY 3.0 | Jarvin
+gateways/gw-jtr.jpg | https://commons.wikimedia.org/wiki/File:Santorini_Airport_Building.jpg | CC BY-SA 4.0 | Lacu Schienred
+gateways/gw-jmk.jpg | https://commons.wikimedia.org/wiki/File:Mykonos_Flughafen_02.jpg | CC BY 3.0 | Olaf Tausch
+gateways/gw-rho.jpg | https://commons.wikimedia.org/wiki/File:Rhodes_International_Airport_Diagoras_Rhodes_9_July_2016.jpg | CC BY-SA 4.0 | Pjotr Mahhonin
+gateways/gw-zth.jpg | https://commons.wikimedia.org/wiki/File:Zakynthos_Airport,_New_Terminal,_Greece_02.jpg | CC BY 3.0 | Christaras A
+gateways/gw-jnx.jpg | https://commons.wikimedia.org/wiki/File:Naxos,_Greece_airport_(JNX).jpg | CC BY-SA 2.0 | Tilemahos Efthimiadis
+gateways/gw-ams.jpg | https://commons.wikimedia.org/wiki/File:KLM_Boeing_737_at_Amsterdam_Airport_Schiphol_2016.jpg | CC BY-SA 4.0 | Intermedichbo
+gateways/gw-amsterdam-centraal.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam_Centraal_Station2.jpg | Public domain | Unknown authorUnknown author
+gateways/gw-oslo-s.jpg | https://commons.wikimedia.org/wiki/File:El_11_2107_oslo_s_09_efn.jpg | CC BY-SA 4.0 | Espen Franck-Nielsen
+gateways/gw-bgo.jpg | https://commons.wikimedia.org/wiki/File:New_Bergen_Airport_Flesland_with_old_terminal_in_the_background.jpg | CC BY 3.0 | Varde / Avinor
+gateways/gw-svg.jpg | https://commons.wikimedia.org/wiki/File:Sola_lufthavn.jpg | CC BY-SA 3.0 | Jarvin - Jarle Vines
+gateways/gw-trd.jpg | https://commons.wikimedia.org/wiki/File:Trondheim_Airport_01.jpg | CC BY-SA 4.0 | Davide Mauro
+gateways/gw-tos.jpg | https://commons.wikimedia.org/wiki/File:Troms%C3%B8_airport,_Norway.jpg | CC BY-SA 2.0 | Jeroen Komen from Utrecht, Netherlands
+gateways/gw-aes.jpg | https://commons.wikimedia.org/wiki/File:%C3%85lesund_Vigra.JPG | Public domain | www.facebook.com/AalesundAirportVigra
+gateways/gw-cph.jpg | https://commons.wikimedia.org/wiki/File:Copenhagen_Airport_pano_between_terminals_2_and_3.jpg | CC BY-SA 4.0 | Dicklyon
+gateways/gw-kobenhavn-h.jpg | https://commons.wikimedia.org/wiki/File:K%C3%B8benhavn_H_north_side_from_Hotel_Astoria.jpg | CC BY-SA 4.0 | Dicklyon
+gateways/gw-aal.jpg | https://commons.wikimedia.org/wiki/File:Aalborg_airport_(367008046).jpg | CC BY-SA 2.0 | Richard Schatzberger from New York, USA
+gateways/gw-fra.jpg | https://commons.wikimedia.org/wiki/File:Frankfurt_Airport_Lufthansa_Airbus_A319-114_D-AILI_(DSC08610).jpg | CC BY-SA 4.0 | MarcelX42
+gateways/gw-muc.jpg | https://commons.wikimedia.org/wiki/File:An_A380_at_Munich_airport,_2012.jpg | CC BY 3.0 de | High Contrast
+gateways/gw-munich-hbf.jpg | https://commons.wikimedia.org/wiki/File:Trains_at_M%C3%BCnchen_Hauptbahnhof_in_M%C3%BCnchen_Hauptbahnhof.jpg | CC0 | Wilfredor
+gateways/gw-ber.jpg | https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_Terminal_1.jpg | CC BY-SA 3.0 de | Arne Müseler
+gateways/gw-berlin-hbf.jpg | https://commons.wikimedia.org/wiki/File:Berlin_Hauptbahnhof,_Ostseite,_170430,_ako.jpg | CC BY-SA 4.0 | Ansgar Koreng
+gateways/gw-ham.jpg | https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Play_Airbus_A320-251N_TF-PPE_(DSC08292).jpg | CC BY-SA 4.0 | MarcelX42
+gateways/gw-drs.jpg | https://www.flickr.com/photos/77742560@N06/7219524030 | BY 2.0 | shankar s.
+gateways/gw-nue.jpg | https://commons.wikimedia.org/wiki/File:Wv_Nuremberg_Airport_banner.jpg | CC BY-SA 3.0 | Hannes Henn
+gateways/gw-str.jpg | https://commons.wikimedia.org/wiki/File:Stuttgart_Flughafen_Terminal_1.jpg | CC BY-SA 3.0 | Lasse Fuss
+gateways/gw-cgn.jpg | https://commons.wikimedia.org/wiki/File:Flughafen_K%C3%B6ln-Bonn_-_Terminal_1_Hauptgeb%C3%A4ude_(9054-56).jpg | CC BY-SA 4.0 | Raimond Spekking
+gateways/gw-rix.jpg | https://commons.wikimedia.org/wiki/File:Riga_International_Airport_Lidosta.jpg | CC BY-SA 4.0 | Rob Koster
+gateways/gw-clj.jpg | https://commons.wikimedia.org/wiki/File:Firefighting_truck_PSI_2_-_Cluj-Napoca_Airport.jpg | CC BY-SA 4.0 | Kevin.B
+gateways/gw-sbz.jpg | https://commons.wikimedia.org/wiki/File:Hermannstadt-_Sibiu_International_Airport-09ASD.jpg | CC BY-SA 4.0 | Asurnipal
+gateways/gw-tsr.jpg | https://commons.wikimedia.org/wiki/File:ROM_Ghiroda,_Aeroportul_Interna%C8%9Bional_Traian_Vuia_0001.jpg | CC BY 4.0 | -wuppertaler
+gateways/gw-lux.jpg | https://commons.wikimedia.org/wiki/File:Tram_stop_Findel-Luxembourg_Airport_2025-03_---1.jpg | CC BY-SA 4.0 | Zinneke
+gateways/gw-vno.jpg | https://commons.wikimedia.org/wiki/File:Vilnius_Airport_main_entrance.jpg | CC BY-SA 4.0 | Pofka
+gateways/gw-kun.jpg | https://commons.wikimedia.org/wiki/File:Kaunas_airport_terminal_A.JPG | Public domain | Grobuonis
+gateways/gw-iom.jpg | https://commons.wikimedia.org/wiki/File:Ronaldsway_Airport_IOM_-_Isle_of_Man_-_kingsley_-_19-APR-09.jpg | CC BY-SA 3.0 | Gregory J Kingsley
+gateways/gw-tgd.jpg | https://commons.wikimedia.org/wiki/File:Podgorica_airport_Montenegro_2.jpg | CC BY-SA 3.0 | Bjoertvedt
+gateways/gw-kiv.jpg | https://commons.wikimedia.org/wiki/File:Chisinau_Airport_KIV.jpg | CC BY-SA 4.0 | Simiprof
+gateways/gw-bru.jpg | https://commons.wikimedia.org/wiki/File:Brussels_Airport_Runway_25_R.jpg | CC BY-SA 3.0 | Lucash
+gateways/gw-crl.jpg | https://commons.wikimedia.org/wiki/File:Aeroport_de_Charleroi_Bruxelles_Sud.jpg | CC BY 3.0 | Fernandopascullo
+gateways/gw-sjj.jpg | https://commons.wikimedia.org/wiki/File:Sarajevo_Airport_1_2024.jpg | CC BY 4.0 | Natalino7
+gateways/gw-bnx.jpg | https://commons.wikimedia.org/wiki/File:BH_Airlines_-_Banja_Luka_airport_-_Aug-10_v1.jpg | CC BY-SA 3.0 | Vladimir Ivanic
+gateways/gw-skp.jpg | https://commons.wikimedia.org/wiki/File:Skopje_Airport_-_View_of_the_main_entrance_by_night_(2018).jpg | CC BY-SA 4.0 | Sebleouf
+gateways/gw-ohd.jpg | https://commons.wikimedia.org/wiki/File:StPaultheApostleAirport.jpg | CC BY-SA 3.0 | Local hero
+gateways/gw-sof.jpg | https://commons.wikimedia.org/wiki/File:Sofia_Airport.jpg | CC BY-SA 3.0 | 
+gateways/gw-var.jpg | https://commons.wikimedia.org/wiki/File:Varna_airport.jpg | CC BY-SA 4.0 | Ivan955
+gateways/gw-beg.jpg | https://commons.wikimedia.org/wiki/File:Belgrade_Nikola_Tesla_Airport_1.jpg | CC BY-SA 4.0 | kallerna
+gateways/gw-ini.jpg | https://commons.wikimedia.org/wiki/File:Constantine_the_Great_airport_-_Check_in_area.jpg | CC BY-SA 4.0 | Easternmagic
+gateways/gw-arn.jpg | https://commons.wikimedia.org/wiki/File:Airport_Arlanda_Sweden.jpg | CC BY-SA 2.5 | Andreas Trepte
+gateways/gw-stockholm-c.jpg | https://commons.wikimedia.org/wiki/File:The_facade_of_Stockholms_Centralstation,_seen_from_Centralplan,_Photo_2.jpg | CC BY-SA 3.0 | Liberaler Humanist
+gateways/gw-got.jpg | https://commons.wikimedia.org/wiki/File:Goteborg_Landvetter_2.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+gateways/gw-kru.jpg | https://commons.wikimedia.org/wiki/File:SAS_Boeing_737-600_parked_at_Kiruna_Airport_(DSCF0852).jpg | CC BY 4.0 | Trougnouf (Benoit Brummer)
+gateways/gw-mmx.jpg | https://commons.wikimedia.org/wiki/File:001_An-12,_Malmo_Airport,_Sweden.jpg | CC BY 3.0 | Marek Ślusarczyk (Tupungato) Photo gallery
+gateways/gw-zrh.jpg | https://commons.wikimedia.org/wiki/File:Flughafen_Zurich,_Zurich_(Ank_Kumar)_01.jpg | CC BY-SA 4.0 | Ank Kumar
+gateways/gw-gva.jpg | https://www.flickr.com/photos/31190896@N08/6345838602 | BY 2.0 | eGuide Travel
+gateways/gw-agp.jpg | https://commons.wikimedia.org/wiki/File:La_Terminal_3_del_Aeropuerto_de_M%C3%A1laga-Costa_del_Sol.jpg | CC BY-SA 4.0 | Pop9000
+gateways/gw-pmi.jpg | https://commons.wikimedia.org/wiki/File:Aeropuerto_Palma_de_Mallorca_R01.jpg | CC BY-SA 4.0 | Marc Ryckaert
+gateways/gw-palma-port.jpg | https://commons.wikimedia.org/wiki/File:02006_44550103_Port_of_Palma_de_Mallorca.jpg | CC BY-SA 4.0 | Silar
+gateways/gw-svq.jpg | https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Sevilla_desde_el_aire.jpg | CC BY-SA 4.0 | Marostegui
+gateways/gw-vlc.jpg | https://commons.wikimedia.org/wiki/File:Valencia_Airport_Terminal.jpg | CC BY-SA 3.0 | א (Aleph)
+gateways/gw-bio.jpg | https://commons.wikimedia.org/wiki/File:Aeropuerto_Bilbao_Loiu_01.jpg | CC BY-SA 4.0 | Basotxerri
+gateways/gw-gro.jpg | https://commons.wikimedia.org/wiki/File:Wv_Girona_Costa_Brava_airport_banner.JPG | CC BY-SA 3.0 | Cherubino
+gateways/gw-zaz.jpg | https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Zaragoza_3.jpg | CC BY-SA 4.0 | Jzh2074
+gateways/gw-bts.jpg | https://commons.wikimedia.org/wiki/File:M._R._%C5%A0tef%C3%A1nik_Airport_Bratislava_terminal_2019.jpg | CC BY-SA 4.0 | Steven Lek
+gateways/gw-ksc.jpg | https://commons.wikimedia.org/wiki/File:Kosice_International_Airport.jpg | CC BY-SA 4.0 | Robo0000100
+gateways/gw-lju.jpg | https://commons.wikimedia.org/wiki/File:Ljubljana_Airport_(25462527133).jpg | CC BY-SA 2.0 | Amanda Slater from Coventry, West Midlands, UK
+gateways/gw-evn.jpg | https://commons.wikimedia.org/wiki/File:Zvartnots_Old_Terminal_1.jpg | CC BY-SA 4.0 | Narek75
+gateways/gw-lwn.jpg | https://commons.wikimedia.org/wiki/File:Shirak_Airport_2024_2.gif | CC BY-SA 4.0 | Well-read MountainMan
+gateways/gw-kef.jpg | https://commons.wikimedia.org/wiki/File:Keflav%C3%ADk_International_Airport_(31439039070).jpg | CC BY 2.0 | Jeff Hitchcock from Seattle, WA, USA
+gateways/gw-dub.jpg | https://commons.wikimedia.org/wiki/File:Departure_from_Dublin_Airport_onboard_Aer_Lingus_A320.jpg | CC BY 2.0 | ozz13x
+gateways/gw-ork.jpg | https://commons.wikimedia.org/wiki/File:Cork_Airport_Terminal.jpg | CC BY 2.0 | Tim Sheerman-Chase
+gateways/gw-gyd.jpg | https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_International_Airport_4.jpg | CC BY-SA 3.0 | Asif Masimov
+gateways/gw-tia.jpg | https://commons.wikimedia.org/wiki/File:Tirana_Airport_Cargo_Center_(OSCAL19_trip).jpg | CC0 | albinfo
+gateways/gw-tll.jpg | https://commons.wikimedia.org/wiki/File:Tallinn_Airport_03_July_2006.jpg | CC BY-SA 3.0 | Pjotr Mahhonin
+gateways/gw-lhr.jpg | https://commons.wikimedia.org/wiki/File:Heathrow_Airport_Terminal_2,_London,_England_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+gateways/gw-lgw.jpg | https://commons.wikimedia.org/wiki/File:The_budget_carriers,_Gatwick_-_geograph.org.uk_-_6540131.jpg | CC BY-SA 2.0 | N Chadwick
+gateways/gw-stn.jpg | https://commons.wikimedia.org/wiki/File:9H-QAC_aircraft_at_London_Stansted_Airport_2024_068.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+gateways/gw-london-st-pancras.jpg | https://commons.wikimedia.org/wiki/File:St_Pancras_Railway_Station_2012-06-23.jpg | CC BY-SA 3.0 | Colin
+gateways/gw-edi.jpg | https://commons.wikimedia.org/wiki/File:Airside_at_Edinburgh_Airport_-_geograph.org.uk_-_7267657.jpg | CC BY-SA 2.0 | Thomas Nugent
+gateways/gw-edinburgh-waverley.jpg | https://commons.wikimedia.org/wiki/File:Waverley_Station,_Edinburgh_-_geograph.org.uk_-_4588268.jpg | CC BY-SA 2.0 | PAUL FARMER
+gateways/gw-man.jpg | https://commons.wikimedia.org/wiki/File:Concorde_Tour_at_Runway_Visitor_Park,_Manchester_Airport,_UK_03.jpg | CC0 | Ridiculopathy
+gateways/gw-brs.jpg | https://commons.wikimedia.org/wiki/File:N_Side_Road,_Bristol_Airport_-_geograph.org.uk_-_3737093.jpg | CC BY-SA 2.0 | M J Richardson
+gateways/gw-cwl.jpg | https://commons.wikimedia.org/wiki/File:Cardiff_Airport_,_Terminal_Building_-_geograph.org.uk_-_6115685.jpg | CC BY-SA 2.0 | Lewis Clarke
+gateways/gw-lpl.jpg | https://commons.wikimedia.org/wiki/File:John_Lennon_peace_memorial,_Echo_Arena_1.jpg | CC BY-SA 4.0 | Rodhullandemu
+gateways/gw-inv.jpg | https://commons.wikimedia.org/wiki/File:Inverness_Airport_-_geograph.org.uk_-_5356485.jpg | CC BY-SA 2.0 | Andrew Tryon
+gateways/gw-ldy.jpg | https://commons.wikimedia.org/wiki/File:City_of_Derry_Airport,_May_2010_(07).JPG | CC BY-SA 3.0 | Ardfern
+gateways/gw-vie.jpg | https://www.flickr.com/photos/154650255@N03/48224939192 | BY 2.0 | liakada-web
+gateways/gw-wien-hbf.jpg | https://commons.wikimedia.org/wiki/File:Wien_Hauptbahnhof_Eingang_Wiedner_G%C3%BCrtel.jpg | CC BY-SA 3.0 | Jacek Rużyczka
+gateways/gw-szg.jpg | https://commons.wikimedia.org/wiki/File:Wizz_Air_at_Salzburg_Airport_-_Wizz_Air_am_Flughafen_Salzburg.jpg | CC0 | Stephen Jones
+gateways/gw-salzburg-hbf.jpg | https://commons.wikimedia.org/wiki/File:Salzburg_Hauptbahnhof_Mittelbahnsteig-1927-2.jpg | CC BY-SA 4.0 | Isiwal
+gateways/gw-inn.jpg | https://commons.wikimedia.org/wiki/File:Flughafen_Innsbruck_-_12-06-05_by_ralfr.jpg | CC BY-SA 3.0 | Ralf Roletschek
+gateways/gw-grz.jpg | https://www.flickr.com/photos/46687906@N08/13971628730 | BY 2.0 | flightlog
+gateways/gw-cia.jpg | https://commons.wikimedia.org/wiki/File:Ciampino%E2%80%93G._B._Pastine_International_Airport_in_2018.04.jpg | CC BY-SA 4.0 | CAPTAIN RAJU
+gateways/gw-mxp.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Malpensa_14.jpg | CC0 | SIG SG 510
+gateways/gw-lin.jpg | https://commons.wikimedia.org/wiki/File:Linate_Airport,_Milan,_Italy.jpg | CC BY-SA 4.0 | Ptrump16
+gateways/gw-vce.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Venezia-Tessera_Marco_Polo,_rampa_d%27accesso.JPG | CC BY-SA 3.0 | Threecharlie
+gateways/gw-nap.jpg | https://commons.wikimedia.org/wiki/File:Airlift_International_DC-8-63CF_at_Capodichino_(Naples)_Airport_26_Nov_1980_with_relief_supplies_for_Ipinia_earthquake.jpg | Public domain | MSGT Don Sutherland, in his capacity as an official photogra
+gateways/gw-napoli-beverello.jpg | https://commons.wikimedia.org/wiki/File:Napoli_-Molo_Beverello_at_night_-_2019_by-RaBoe_020.jpg | CC BY-SA 3.0 de | © Ra Boe / Wikipedia
+gateways/gw-flr.jpg | https://commons.wikimedia.org/wiki/File:Florence_airport_-_Restricted_area_-_Departure_area_inside.jpg | Public domain | User:Mattes
+gateways/gw-psa.jpg | https://commons.wikimedia.org/wiki/File:Pisa_International_Airport_Galileo_Galilei,_Italy.JPG | CC BY-SA 3.0 | DV
+gateways/gw-bgy.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_Bergamo-Orio_al_Serio_21_marzo_2017.jpg | CC0 | Air fans
+gateways/gw-blq.jpg | https://commons.wikimedia.org/wiki/File:Bologna_Guglielmo_Marconi_Airport_in_2021.03.jpg | CC BY-SA 4.0 | CAPTAIN RAJU
+gateways/gw-cta.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Catania_Terminal_Check-in.jpeg | CC BY-SA 4.0 | Carlo Dani
+gateways/gw-pmo.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Palermo_dalle_piste.jpg | CC0 | EdoBoo
+gateways/gw-bri.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Bari_dicembre_2023c.jpg | CC BY 4.0 | Saggittarius A
+gateways/gw-trn.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Torino_Caselle.jpeg | CC BY-SA 4.0 | Carlo Dani
+gateways/gw-vrn.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Verona-Villafranca,_notturna,_Terminal_2_e_taxi.JPG | CC BY-SA 3.0 | Threecharlie
+gateways/gw-goa.jpg | https://commons.wikimedia.org/wiki/File:Cristoforo_Colombo_Airport_Genoa_01.jpg | CC BY-SA 3.0 | Alessio Sbarbaro User_talk:Yoggysot
+gateways/gw-trs.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Trieste-Ronchi_dei_Legionari_(2025)_20.jpg | CC0 | Air fans
+gateways/gw-cag.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_di_Cagliari_-_piazzale.jpeg | CC BY-SA 4.0 | Carlo Dani
+gateways/gw-aho.jpg | https://commons.wikimedia.org/wiki/File:Alghero_Airport.jpg | CC BY-SA 3.0 | Michiel1972
+gateways/gw-olb.jpg | https://commons.wikimedia.org/wiki/File:Sardinia,_Olbia,_Aeroporto_Olbia_Costa_Smeralda_(check_in).jpg | CC BY-SA 4.0 | Dr. Thomas Liptak
+gateways/gw-peg.jpg | https://commons.wikimedia.org/wiki/File:Perugia_San_Francesco_d%27Assisi_%E2%80%93_Umbria_International_Airport.jpg | CC0 | marcellomigliosi1956
+gateways/gw-jer.jpg | https://commons.wikimedia.org/wiki/File:Welcome_to_Jersey_Airport_Flughafen_Jersey_Channel_Islands_Great_Britain_Gro%C3%9Fbritannien_Foto_Wolfgang_Pehlemann_DSC04970.jpg | CC BY-SA 3.0 de | Wolfgang Pehlemann
+gateways/gw-tbs.jpg | https://commons.wikimedia.org/wiki/File:Tbilisi_Airport,_Georgia_-_panoramio.jpg | CC BY-SA 3.0 | Otpusk.ru
+gateways/gw-kut.jpg | https://commons.wikimedia.org/wiki/File:Square_in_front_of_Kutaisi_airport.jpg | CC BY-SA 4.0 | Александр Сапожников
+gateways/gw-bus.jpg | https://commons.wikimedia.org/wiki/File:Batumi_International_Airport.jpg | CC BY-SA 4.0 | Gaga.vaa
+gateways/gw-gib.jpg | https://commons.wikimedia.org/wiki/File:GB_Airways_aircraft_landing_at_Gibraltar_Airport.jpg | CC BY-SA 2.5 | RedCoat
+gateways/gw-prg.jpg | https://commons.wikimedia.org/wiki/File:Prague_V%C3%A1clav_Havel_Airport_in_2019.02.jpg | CC BY-SA 4.0 | CAPTAIN RAJU
+gateways/gw-tzx.jpg | https://commons.wikimedia.org/wiki/File:TRABZON_HAVAL%C4%B0MANI-AIRPORT_-_panoramio.jpg | CC BY-SA 3.0 | Kayhan ERTUGRUL
+gateways/gw-fae.jpg | https://commons.wikimedia.org/wiki/File:Plane_landing_at_V%C3%A1gar_Airport,_Faroe_Islands.JPG | CC BY-SA 3.0 | Erik Christensen, Porkeri (Contact at the Danish Wikipedia)
+gateways/gw-opo.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_Francisco_S%C3%A1_Carneiro.jpeg | CC BY-SA 4.0 | Robot8A
+gateways/gw-fao.jpg | https://commons.wikimedia.org/wiki/File:Faro_airport_04.jpg | CC BY-SA 4.0 | Kritzolina
+gateways/gw-fnc.jpg | https://commons.wikimedia.org/wiki/File:Aeroporto_Cristiano_Ronaldo,_Madeira,_Portugal_(50967770883).jpg | CC BY-SA 2.0 | Pom' from France, European Union
+gateways/gw-waw.jpg | https://commons.wikimedia.org/wiki/File:Warszawa_Lotnisko_Chopina_2017.jpg | CC BY-SA 3.0 pl | Adrian Grycuk
+gateways/gw-warszawa-centralna.jpg | https://commons.wikimedia.org/wiki/File:Warszawa_Centralna_train_station,_2026,_Warsaw,_Poland.jpg | CC BY 4.0 | Igor123121
+gateways/gw-krk.jpg | https://commons.wikimedia.org/wiki/File:John_Paul_II_Airport_in_Balice-Krak%C3%B3w_night_november_2017(3).jpg | CC BY-SA 4.0 | Darpaw
+gateways/gw-gdn.jpg | https://commons.wikimedia.org/wiki/File:Train_Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport_3.jpg | CC BY-SA 4.0 | kallerna
+gateways/gw-poz.jpg | https://commons.wikimedia.org/wiki/File:Port_Lotniczy_%C5%81awica_RB2.JPG | CC BY-SA 3.0 | 
+gateways/gw-wro.jpg | https://commons.wikimedia.org/wiki/File:Port_Lotniczy_Wroc%C5%82aw3.jpg | CC BY-SA 4.0 | Strumyczek
+gateways/gw-cdg.jpg | https://commons.wikimedia.org/wiki/File:Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg | CC BY-SA 3.0 | Wilfredor
+gateways/gw-ory.jpg | https://commons.wikimedia.org/wiki/File:Paris-Orly_airport.jpg | CC BY 2.0 | Olivier CABARET
+gateways/gw-nce.jpg | https://commons.wikimedia.org/wiki/File:Nice_Airport_Terminal_1,_October_2020.jpg | CC BY 4.0 | Olivier Cleynen
+gateways/gw-lys.jpg | https://commons.wikimedia.org/wiki/File:EasyJet_aircraft_at_Lyon_Saint-Exup%C3%A9ry_Airport_(August_2019)_-_1.jpg | CC0 | Benoît Prieur
+gateways/gw-lyon-part-dieu.jpg | https://commons.wikimedia.org/wiki/File:Gare_Part-Dieu_(Lyon).jpg | CC0 | Sylvie burr
+gateways/gw-mrs.jpg | https://commons.wikimedia.org/wiki/File:Wv_AIRPORT_MARSEILLE_PROVENCE_banner.jpg | CC BY-SA 3.0 | Kayhan ERTUGRUL
+gateways/gw-marseille-st-charles.jpg | https://commons.wikimedia.org/wiki/File:Gare_de_Marseille-Saint-Charles,.jpg | CC BY-SA 4.0 | TCY
+gateways/gw-bod.jpg | https://commons.wikimedia.org/wiki/File:Bordeaux_-_M%C3%A9rignac_Airport,_July_2014_(05).JPG | CC BY-SA 3.0 | Ardfern
+gateways/gw-tls.jpg | https://commons.wikimedia.org/wiki/File:Irisbus_Citelis_18_n%C2%B00972_TISSEO_A%C3%A9roport_Toulouse_Blagnac.jpg | CC BY-SA 4.0 | Florian Fèvre
+gateways/gw-sxb.jpg | https://commons.wikimedia.org/wiki/File:A%C3%A9roport_Strasbourg_Entzheim_SXB_avril_2015-02.jpg | CC BY-SA 3.0 | Photo Claude TRUONG-NGOC
+gateways/gw-aja.jpg | https://commons.wikimedia.org/wiki/File:A%C3%A9roport_d%27Ajaccio_Napol%C3%A9on_Bonaparte_-_2019-06-08_-_patrick_janicek.jpg | CC BY 2.0 | patrick janicek
+gateways/gw-biq.jpg | https://commons.wikimedia.org/wiki/File:A%C3%A9roport_de_Biarritz.jpg | CC BY-SA 4.0 | Christian David
+gateways/gw-mpl.jpg | https://commons.wikimedia.org/wiki/File:Montpellier_airport.JPG | CC BY-SA 4.0 | Lécuyer-couqueberg
+gateways/gw-hel.jpg | https://commons.wikimedia.org/wiki/File:Helsinki_Airport_(17087444118).jpg | CC BY-SA 2.0 | Markus Trienke
+gateways/gw-helsinki-port.jpg | https://commons.wikimedia.org/wiki/File:West_terminal_Helsinki-_20230806_-_49.jpg | CC BY-SA 4.0 | AleWi
+gateways/gw-rvn.jpg | https://commons.wikimedia.org/wiki/File:Rovaniemi_Airport_March_6_2009_01.jpg | CC BY-SA 3.0 | Lauri Silvennoinen
+gateways/gw-tku.jpg | https://commons.wikimedia.org/wiki/File:Turku_airport_terminal.jpg | CC BY-SA 4.0 | kallerna
+gateways/gw-bud.jpg | https://commons.wikimedia.org/wiki/File:Ferenc_Liszt_International_Airport_Budapest.jpg | CC BY 4.0 | DavidivardiIL
+gateways/gw-budapest-keleti.jpg | https://commons.wikimedia.org/wiki/File:Budapest_Keleti_Station_Interior.jpg | CC BY-SA 4.0 | Slyronit

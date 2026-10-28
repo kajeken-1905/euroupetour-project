@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '트빌리시 국제공항|Tbilisi International Airport',
     code: 'TBS',
+    image: '/gateways/gw-tbs.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 17km입니다.|About 17 km south-east of the city.',
     options: [
@@ -34,6 +35,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '쿠타이시 국제공항|Kutaisi International Airport',
     code: 'KUT',
+    image: '/gateways/gw-kut.jpg',
     intl: true,
     about: '위즈에어 거점. 쿠타이시 시내에서 약 20km이고 트빌리시·바투미행 버스가 도착편에 맞춰 다닙니다.|A Wizz Air base about 20 km from Kutaisi, with buses to Tbilisi and Batumi timed with flights.',
     options: [
@@ -53,6 +55,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바투미 국제공항|Batumi International Airport',
     code: 'BUS',
+    image: '/gateways/gw-bus.jpg',
     intl: true,
     about: '흑해 해변의 바투미 시내에서 남쪽 약 5km, 튀르키예 국경 가까이입니다.|About 5 km south of Batumi on the Black Sea, close to the Turkish border.',
     options: [

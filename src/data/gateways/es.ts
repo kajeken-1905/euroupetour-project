@@ -208,6 +208,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '말라가 코스타 델 솔 공항|Málaga–Costa del Sol Airport',
     code: 'AGP',
+    image: '/gateways/gw-agp.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 8km, 안달루시아 최대 공항입니다.|About 8 km south-west of the centre and Andalusia’s busiest airport.',
     options: [
@@ -240,6 +241,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '팔마 데 마요르카 공항|Palma de Mallorca Airport',
     code: 'PMI',
+    image: '/gateways/gw-pmi.jpg',
     intl: true,
     about: '시내에서 동쪽 약 8km. 여름에는 유럽에서 손꼽히게 붐비는 공항입니다.|About 8 km east of the city; one of Europe’s busiest airports in summer.',
     options: [
@@ -265,6 +267,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'palma',
     kind: 'port',
     name: '팔마 항|Port of Palma',
+    image: '/gateways/gw-palma-port.jpg',
     about: '바르셀로나·발렌시아·이비사·메노르카행 페리가 출발합니다. 크루즈 부두도 이어져 있습니다.|Ferries to Barcelona, Valencia, Ibiza and Menorca; the cruise quays are alongside.',
     options: [
       {
@@ -287,6 +290,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '세비야 공항|Seville Airport',
     code: 'SVQ',
+    image: '/gateways/gw-svq.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 10km. 철도는 없고 공항버스가 다닙니다.|About 10 km north-east of the city; no railway, but an airport bus.',
     options: [
@@ -331,6 +335,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '발렌시아 공항|Valencia Airport',
     code: 'VLC',
+    image: '/gateways/gw-vlc.jpg',
     intl: true,
     about: '시내에서 서쪽 약 8km. 터미널 아래에 지하철역이 있습니다.|About 8 km west of the city, with a metro station under the terminal.',
     options: [
@@ -352,6 +357,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '빌바오 공항|Bilbao Airport',
     code: 'BIO',
+    image: '/gateways/gw-bio.jpg',
     intl: true,
     about: '시내에서 북쪽 약 9km. 산티아고 칼라트라바가 설계한 터미널입니다.|About 9 km north of the city, with a terminal by Santiago Calatrava.',
     options: [
@@ -444,6 +450,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '지로나 코스타 브라바 공항|Girona–Costa Brava Airport',
     code: 'GRO',
+    image: '/gateways/gw-gro.jpg',
     intl: true,
     about: '지로나 시내에서 남쪽 약 12km. 바르셀로나로 가는 저비용 항공 승객도 많이 씁니다.|About 12 km south of Girona; many low-cost passengers bound for Barcelona land here.',
     options: [
@@ -484,6 +491,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '사라고사 공항|Zaragoza Airport',
     code: 'ZAZ',
+    image: '/gateways/gw-zaz.jpg',
     intl: true,
     about: '시내에서 서쪽 약 10km입니다.|About 10 km west of the city.',
     options: [

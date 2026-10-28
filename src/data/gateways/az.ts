@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바쿠 헤이다르 알리예프 공항|Heydar Aliyev International Airport',
     code: 'GYD',
+    image: '/gateways/gw-gyd.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 25km입니다.|About 25 km north-east of the city.',
     options: [

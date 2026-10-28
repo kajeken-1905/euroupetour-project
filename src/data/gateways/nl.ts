@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스히폴 공항|Amsterdam Airport Schiphol',
     code: 'AMS',
+    image: '/gateways/gw-ams.jpg',
     intl: true,
     about: '암스테르담 남서쪽 약 15km. 터미널 아래에 기차역이 바로 있습니다.|About 15 km south-west of Amsterdam, with the railway station right under the terminal.',
     options: [
@@ -38,6 +39,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'amsterdam',
     kind: 'rail',
     name: '암스테르담 중앙역|Amsterdam Centraal',
+    image: '/gateways/gw-amsterdam-centraal.jpg',
     about:
       '1889년 문을 연 붉은 벽돌 역사로, 국립미술관과 같은 건축가 카위퍼르스의 작품입니다. 파리·브뤼셀행 유로스타와 독일행 ICE가 출발합니다.|The 1889 red-brick station by Cuypers, architect of the Rijksmuseum, with Eurostar to Paris and Brussels and ICE trains to Germany.',
     options: [

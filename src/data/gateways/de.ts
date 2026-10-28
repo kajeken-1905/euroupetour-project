@@ -13,6 +13,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '프랑크푸르트 공항|Frankfurt Airport',
     code: 'FRA',
+    image: '/gateways/gw-fra.jpg',
     intl: true,
     about:
       '시내에서 남서쪽 약 12km, 독일 최대 공항. 터미널 1 아래에 지역 열차역, 옆에 ICE 장거리역이 있습니다.|About 12 km south-west of the centre and Germany’s largest airport, with a regional station under Terminal 1 and an ICE station beside it.',
@@ -65,6 +66,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '뮌헨 공항|Munich Airport',
     code: 'MUC',
+    image: '/gateways/gw-muc.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 30km. 두 터미널 사이 지하에 S반 역이 있습니다.|About 30 km north-east of the centre, with the S-Bahn station between the two terminals.',
     options: [
@@ -100,6 +102,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'munich',
     kind: 'rail',
     name: '뮌헨 중앙역|München Hauptbahnhof',
+    image: '/gateways/gw-munich-hbf.jpg',
     about:
       '베를린·프랑크푸르트행 ICE와 잘츠부르크·빈·취리히·베로나행 국제 열차, 퓌센(노이슈반슈타인 성)행 지역 열차가 출발합니다.|ICEs to Berlin and Frankfurt, international trains to Salzburg, Vienna, Zürich and Verona, and regional trains to Füssen for Neuschwanstein.',
     options: [
@@ -129,6 +132,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '베를린 브란덴부르크 공항|Berlin Brandenburg Airport (BER)',
     code: 'BER',
+    image: '/gateways/gw-ber.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 25km. 터미널 1 아래에 기차역이 있습니다. 요금 구역 C라서 ABC 표가 필요합니다.|About 25 km south-east of the centre, with the station under Terminal 1; it lies in fare zone C, so you need an ABC ticket.',
     options: [
@@ -164,6 +168,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'berlin',
     kind: 'rail',
     name: '베를린 중앙역|Berlin Hauptbahnhof',
+    image: '/gateways/gw-berlin-hbf.jpg',
     about:
       '유리 지붕 아래 동서·남북 선로가 위아래로 교차하는 유럽 최대의 교차역. 함부르크·뮌헨·프라하·바르샤바·암스테르담행 열차가 출발합니다.|Europe’s largest crossing station, with east–west and north–south lines stacked under a glass roof; trains to Hamburg, Munich, Prague, Warsaw and Amsterdam.',
     options: [
@@ -194,6 +199,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '함부르크 공항|Hamburg Airport',
     code: 'HAM',
+    image: '/gateways/gw-ham.jpg',
     intl: true,
     about: '시내에서 북쪽 약 9km. 터미널 사이 지하에 S반 역이 있습니다.|About 9 km north of the centre, with an S-Bahn station between the terminals.',
     options: [
@@ -216,6 +222,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '드레스덴 공항|Dresden Airport',
     code: 'DRS',
+    image: '/gateways/gw-drs.jpg',
     intl: true,
     about: '시내에서 북쪽 약 9km의 작은 공항입니다.|A small airport about 9 km north of the city.',
     options: [
@@ -256,6 +263,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '뉘른베르크 공항|Nuremberg Airport',
     code: 'NUE',
+    image: '/gateways/gw-nue.jpg',
     intl: true,
     about: '시내에서 북쪽 약 5km로 가깝습니다.|Close in, about 5 km north of the centre.',
     options: [
@@ -277,6 +285,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '슈투트가르트 공항|Stuttgart Airport',
     code: 'STR',
+    image: '/gateways/gw-str.jpg',
     intl: true,
     about: '시내에서 남쪽 약 13km, 메세(박람회장) 옆입니다.|About 13 km south of the centre, next to the trade fair.',
     options: [
@@ -298,6 +307,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '쾰른/본 공항|Cologne Bonn Airport',
     code: 'CGN',
+    image: '/gateways/gw-cgn.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 15km. 터미널 아래에 기차역이 있습니다.|About 15 km south-east of the city, with a station below the terminals.',
     options: [

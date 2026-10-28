@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스코페 국제공항|Skopje International Airport',
     code: 'SKP',
+    image: '/gateways/gw-skp.jpg',
     intl: true,
     about: '시내에서 동쪽 약 20km입니다.|About 20 km east of the city.',
     options: [
@@ -33,6 +34,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '오흐리드 공항|Ohrid St. Paul the Apostle Airport',
     code: 'OHD',
+    image: '/gateways/gw-ohd.jpg',
     intl: true,
     about: '오흐리드 시내에서 북쪽 약 9km, 여름에 노선이 많습니다.|About 9 km north of Ohrid, busiest in summer.',
     options: [

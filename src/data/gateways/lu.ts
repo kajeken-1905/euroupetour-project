@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '룩셈부르크 핀델 공항|Luxembourg Airport (Findel)',
     code: 'LUX',
+    image: '/gateways/gw-lux.jpg',
     intl: true,
     about: '시내에서 동쪽 약 6km입니다.|About 6 km east of the city.',
     options: [

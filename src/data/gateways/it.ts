@@ -53,6 +53,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '참피노 공항|Rome Ciampino Airport',
     code: 'CIA',
+    image: '/gateways/gw-cia.jpg',
     intl: true,
     about:
       '시내에서 남동쪽 약 15km. 라이언에어·위즈에어 같은 저비용 항공사가 씁니다. 공항까지 기차가 들어가지 않습니다.|About 15 km south-east; used by low-cost airlines such as Ryanair and Wizz Air. No train reaches the terminal.',
@@ -112,6 +113,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '밀라노 말펜사 공항|Milan Malpensa Airport',
     code: 'MXP',
+    image: '/gateways/gw-mxp.jpg',
     intl: true,
     about: '밀라노에서 북서쪽 약 50km. 장거리·국제선 대부분이 이곳을 씁니다. 터미널 1·2가 있습니다.|About 50 km north-west of Milan, used by most long-haul and international flights; Terminals 1 and 2.',
     options: [
@@ -147,6 +149,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '밀라노 리나테 공항|Milan Linate Airport',
     code: 'LIN',
+    image: '/gateways/gw-lin.jpg',
     intl: true,
     about: '시내에서 동쪽 약 7km로 가깝습니다. 유럽·국내선이 다닙니다.|Only about 7 km east of the centre; European and domestic flights.',
     options: [
@@ -192,6 +195,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '베네치아 마르코 폴로 공항|Venice Marco Polo Airport',
     code: 'VCE',
+    image: '/gateways/gw-vce.jpg',
     intl: true,
     about: '본섬에서 북쪽 약 13km 육지 쪽. 버스로 피아찰레 로마까지 가거나 배로 바로 섬에 들어갑니다.|About 13 km north on the mainland; take a bus to Piazzale Roma or a boat straight to the islands.',
     options: [
@@ -244,6 +248,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '나폴리 카포디키노 공항|Naples Capodichino Airport',
     code: 'NAP',
+    image: '/gateways/gw-nap.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 6km로 가깝습니다.|Close to town, about 6 km north-east of the centre.',
     options: [
@@ -270,6 +275,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'naples',
     kind: 'port',
     name: '몰로 베베렐로 여객터미널|Molo Beverello',
+    image: '/gateways/gw-napoli-beverello.jpg',
     about: '카프리·이스키아·프로치다·소렌토행 고속선이 출발하는 항구. 대형 페리는 옆 칼라타 포르타 디 마사에서 탑니다.|The fast-ferry terminal for Capri, Ischia, Procida and Sorrento; slower car ferries leave from Calata Porta di Massa next door.',
     options: [
       {
@@ -292,6 +298,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '피렌체 페레톨라 공항|Florence Airport (Peretola)',
     code: 'FLR',
+    image: '/gateways/gw-flr.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 5km의 작은 공항. 유럽 노선이 주로 다닙니다. 큰 국제선은 피사 공항을 씁니다.|A small airport about 5 km north-west of the centre with mostly European flights; many international routes use Pisa instead.',
     options: [
@@ -331,6 +338,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '피사 갈릴레오 갈릴레이 공항|Pisa International Airport',
     code: 'PSA',
+    image: '/gateways/gw-psa.jpg',
     intl: true,
     about: '토스카나 최대 공항. 피사 중앙역에서 약 2km이고, 피렌체까지 기차로 1시간 안팎입니다.|Tuscany’s largest airport, about 2 km from Pisa Centrale and roughly an hour from Florence by train.',
     options: [
@@ -358,6 +366,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '베르가모 오리오 알 세리오 공항|Milan Bergamo Airport (Orio al Serio)',
     code: 'BGY',
+    image: '/gateways/gw-bgy.jpg',
     intl: true,
     about: '베르가모 시내에서 약 5km, 밀라노에서 약 45km. 라이언에어의 큰 거점입니다.|About 5 km from Bergamo and 45 km from Milan; a major Ryanair base.',
     options: [
@@ -385,6 +394,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '볼로냐 굴리엘모 마르코니 공항|Bologna Guglielmo Marconi Airport',
     code: 'BLQ',
+    image: '/gateways/gw-blq.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 6km입니다.|About 6 km north-west of the city.',
     options: [
@@ -406,6 +416,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '카타니아 폰타나로사 공항|Catania Fontanarossa Airport',
     code: 'CTA',
+    image: '/gateways/gw-cta.jpg',
     intl: true,
     about: '시칠리아 최대 공항, 시내에서 남쪽 약 5km. 에트나 화산이 보입니다.|Sicily’s busiest airport, about 5 km south of the city, with Etna in view.',
     options: [
@@ -433,6 +444,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '팔레르모 팔코네 보르셀리노 공항|Palermo Falcone–Borsellino Airport',
     code: 'PMO',
+    image: '/gateways/gw-pmo.jpg',
     intl: true,
     about: '시내에서 서쪽 약 30km 바닷가에 있습니다.|On the coast about 30 km west of the city.',
     options: [
@@ -460,6 +472,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바리 카롤 보이티와 공항|Bari Karol Wojtyła Airport',
     code: 'BRI',
+    image: '/gateways/gw-bri.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 8km입니다.|About 8 km north-west of the city.',
     options: [
@@ -481,6 +494,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '토리노 카셀레 공항|Turin Airport (Caselle)',
     code: 'TRN',
+    image: '/gateways/gw-trn.jpg',
     intl: true,
     about: '시내에서 북쪽 약 16km입니다.|About 16 km north of the city.',
     options: [
@@ -507,6 +521,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '베로나 빌라프랑카 공항|Verona Villafranca Airport',
     code: 'VRN',
+    image: '/gateways/gw-vrn.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 12km입니다.|About 12 km south-west of the city.',
     options: [
@@ -528,6 +543,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '제노바 크리스토포로 콜롬보 공항|Genoa Cristoforo Colombo Airport',
     code: 'GOA',
+    image: '/gateways/gw-goa.jpg',
     intl: true,
     about: '바다를 메워 만든 활주로, 시내에서 서쪽 약 6km입니다.|Built on reclaimed land about 6 km west of the city.',
     options: [
@@ -548,6 +564,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '트리에스테 공항|Trieste Airport',
     code: 'TRS',
+    image: '/gateways/gw-trs.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 33km. 공항 옆에 기차역과 버스터미널이 붙어 있습니다.|About 33 km north-west of the city, with a station and bus terminal alongside.',
     options: [
@@ -568,6 +585,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '칼리아리 엘마스 공항|Cagliari Elmas Airport',
     code: 'CAG',
+    image: '/gateways/gw-cag.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 7km. 사르데냐 남부의 관문입니다.|About 7 km north-west of the city; gateway to southern Sardinia.',
     options: [
@@ -588,6 +606,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '알게로 페르티리아 공항|Alghero–Fertilia Airport',
     code: 'AHO',
+    image: '/gateways/gw-aho.jpg',
     intl: true,
     about: '알게로 시내에서 북쪽 약 10km입니다.|About 10 km north of Alghero.',
     options: [
@@ -608,6 +627,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '올비아 코스타 스메랄다 공항|Olbia Costa Smeralda Airport',
     code: 'OLB',
+    image: '/gateways/gw-olb.jpg',
     intl: true,
     about: '올비아 시내에서 약 4km. 코스타 스메랄다 해변의 관문입니다.|About 4 km from Olbia; gateway to the Costa Smeralda beaches.',
     options: [
@@ -628,6 +648,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '페루자 산 프란체스코 다시시 공항|Perugia San Francesco d’Assisi Airport',
     code: 'PEG',
+    image: '/gateways/gw-peg.jpg',
     intl: true,
     about: '페루자와 아시시 사이의 작은 공항입니다.|A small airport between Perugia and Assisi.',
     options: [

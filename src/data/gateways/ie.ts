@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '더블린 공항|Dublin Airport',
     code: 'DUB',
+    image: '/gateways/gw-dub.jpg',
     intl: true,
     about: '시내에서 북쪽 약 10km. 철도가 없어 버스로 갑니다.|About 10 km north of the centre; no railway, so buses do the job.',
     options: [
@@ -36,6 +37,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '코크 공항|Cork Airport',
     code: 'ORK',
+    image: '/gateways/gw-ork.jpg',
     intl: true,
     about: '시내에서 남쪽 약 6km입니다.|About 6 km south of the city.',
     options: [

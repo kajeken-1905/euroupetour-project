@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '아테네 엘레프테리오스 베니젤로스 공항|Athens International Airport',
     code: 'ATH',
+    image: '/gateways/gw-ath.jpg',
     intl: true,
     about: '시내에서 동쪽 약 30km. 섬으로 가는 국내선도 여기서 갈아탑니다.|About 30 km east of the centre; island flights connect here too.',
     options: [
@@ -43,6 +44,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'athens',
     kind: 'port',
     name: '피레우스 항|Port of Piraeus',
+    image: '/gateways/gw-piraeus.jpg',
     about:
       '그리스 최대 항구. 산토리니·미코노스 등 키클라데스 제도와 크레타행 페리가 출발합니다. 게이트(E1~E12)가 넓게 흩어져 있습니다.|Greece’s largest port, for ferries to the Cyclades (Santorini, Mykonos) and Crete; its gates (E1–E12) are spread far apart.',
     options: [
@@ -70,6 +72,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '테살로니키 마케도니아 공항|Thessaloniki Airport Makedonia',
     code: 'SKG',
+    image: '/gateways/gw-skg.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 15km입니다.|About 15 km south-east of the city.',
     options: [
@@ -90,6 +93,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '이라클리온 니코스 카잔차키스 공항|Heraklion Nikos Kazantzakis Airport',
     code: 'HER',
+    image: '/gateways/gw-her.jpg',
     intl: true,
     about: '크레타 최대 공항, 시내에서 동쪽 약 5km입니다.|Crete’s busiest airport, about 5 km east of the city.',
     options: [
@@ -110,6 +114,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '하니아 공항|Chania International Airport',
     code: 'CHQ',
+    image: '/gateways/gw-chq.jpg',
     intl: true,
     about: '하니아 시내에서 동쪽 약 14km 아크로티리반도에 있습니다.|About 14 km east of Chania on the Akrotiri peninsula.',
     options: [
@@ -130,6 +135,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '산토리니 공항|Santorini Airport',
     code: 'JTR',
+    image: '/gateways/gw-jtr.jpg',
     intl: true,
     about: '섬 동쪽, 피라에서 약 6km입니다.|On the east side, about 6 km from Fira.',
     options: [
@@ -150,6 +156,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '미코노스 공항|Mykonos Airport',
     code: 'JMK',
+    image: '/gateways/gw-jmk.jpg',
     intl: true,
     about: '미코노스 타운에서 약 4km로 가깝습니다.|Only about 4 km from Mykonos Town.',
     options: [
@@ -170,6 +177,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '로도스 디아고라스 공항|Rhodes Diagoras Airport',
     code: 'RHO',
+    image: '/gateways/gw-rho.jpg',
     intl: true,
     about: '로도스 시내에서 남서쪽 약 14km입니다.|About 14 km south-west of Rhodes town.',
     options: [
@@ -210,6 +218,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '자킨토스 공항|Zakynthos Airport',
     code: 'ZTH',
+    image: '/gateways/gw-zth.jpg',
     intl: true,
     about: '자킨토스 타운에서 남쪽 약 4km입니다.|About 4 km south of Zakynthos town.',
     options: [
@@ -230,6 +239,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '낙소스 공항|Naxos Island National Airport',
     code: 'JNX',
+    image: '/gateways/gw-jnx.jpg',
     about: '낙소스 타운에서 약 3km의 작은 국내선 공항입니다(아테네행).|A small domestic airport about 3 km from Naxos Town (flights to Athens).',
     options: [
       {

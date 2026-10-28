@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '코펜하겐 카스트루프 공항|Copenhagen Airport (Kastrup)',
     code: 'CPH',
+    image: '/gateways/gw-cph.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 8km. 터미널 3에 지하철역과 기차역이 붙어 있습니다.|About 8 km south-east of the centre, with metro and train stations at Terminal 3.',
     options: [
@@ -35,6 +36,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'copenhagen',
     kind: 'rail',
     name: '코펜하겐 중앙역|København H',
+    image: '/gateways/gw-kobenhavn-h.jpg',
     about: '말뫼·스톡홀름·함부르크행 열차가 출발합니다. 길 건너가 티볼리 공원입니다.|Trains to Malmö, Stockholm and Hamburg; Tivoli Gardens is across the street.',
     options: [
       {
@@ -57,6 +59,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '올보르 공항|Aalborg Airport',
     code: 'AAL',
+    image: '/gateways/gw-aal.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 6km입니다.|About 6 km north-west of the city.',
     options: [

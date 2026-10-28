@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '예레반 즈바르트노츠 공항|Yerevan Zvartnots International Airport',
     code: 'EVN',
+    image: '/gateways/gw-evn.jpg',
     intl: true,
     about: '시내에서 서쪽 약 12km입니다.|About 12 km west of the city.',
     options: [
@@ -33,6 +34,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '귬리 시라크 공항|Gyumri Shirak International Airport',
     code: 'LWN',
+    image: '/gateways/gw-lwn.jpg',
     intl: true,
     about: '귬리 시내에서 남쪽 약 5km의 작은 공항입니다.|A small airport about 5 km south of Gyumri.',
     options: [

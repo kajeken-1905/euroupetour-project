@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '류블랴나 요제 푸치니크 공항|Ljubljana Jože Pučnik Airport',
     code: 'LJU',
+    image: '/gateways/gw-lju.jpg',
     intl: true,
     about: '시내에서 북쪽 약 26km 브르니크에 있습니다.|About 26 km north of the city at Brnik.',
     options: [

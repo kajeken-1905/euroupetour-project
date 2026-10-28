@@ -36,6 +36,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'oslo',
     kind: 'rail',
     name: '오슬로 중앙역|Oslo S',
+    image: '/gateways/gw-oslo-s.jpg',
     about: '베르겐·트론헤임·스톡홀름행 열차가 출발합니다. 오페라 하우스가 바로 옆입니다.|Trains to Bergen, Trondheim and Stockholm; the Opera House is right next door.',
     options: [
       {
@@ -53,6 +54,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '베르겐 플레스란 공항|Bergen Airport Flesland',
     code: 'BGO',
+    image: '/gateways/gw-bgo.jpg',
     intl: true,
     about: '시내에서 남쪽 약 18km입니다.|About 18 km south of the city.',
     options: [
@@ -79,6 +81,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스타방에르 솔라 공항|Stavanger Airport Sola',
     code: 'SVG',
+    image: '/gateways/gw-svg.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 14km. 프레이케스톨렌 여행의 관문입니다.|About 14 km south-west of the city; gateway to Preikestolen.',
     options: [
@@ -99,6 +102,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '트론헤임 베르네스 공항|Trondheim Airport Værnes',
     code: 'TRD',
+    image: '/gateways/gw-trd.jpg',
     intl: true,
     about: '시내에서 동쪽 약 30km. 터미널 옆에 기차역이 있습니다.|About 30 km east of the city, with a station next to the terminal.',
     options: [
@@ -125,6 +129,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '트롬쇠 공항|Tromsø Airport',
     code: 'TOS',
+    image: '/gateways/gw-tos.jpg',
     intl: true,
     about: '섬 서쪽, 시내에서 약 5km로 가깝습니다. 오로라 여행의 관문입니다.|Only about 5 km from the centre on the island’s west side; gateway for northern-lights trips.',
     options: [
@@ -145,6 +150,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '올레순 비그라 공항|Ålesund Airport Vigra',
     code: 'AES',
+    image: '/gateways/gw-aes.jpg',
     intl: true,
     about: '섬에 있어 해저 터널로 시내와 이어집니다. 시내까지 약 15km.|On an island linked to town by undersea tunnels, about 15 km away.',
     options: [

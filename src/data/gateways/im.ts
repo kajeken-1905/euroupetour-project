@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '맨섬 공항|Isle of Man Airport (Ronaldsway)',
     code: 'IOM',
+    image: '/gateways/gw-iom.jpg',
     intl: true,
     about: '캐슬타운 바로 옆, 수도 더글러스에서 남쪽 약 15km입니다.|Next to Castletown, about 15 km south of Douglas.',
     options: [

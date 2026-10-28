@@ -33,6 +33,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '클루지나포카 공항|Cluj International Airport',
     code: 'CLJ',
+    image: '/gateways/gw-clj.jpg',
     intl: true,
     about: '시내에서 동쪽 약 9km입니다.|About 9 km east of the city.',
     options: [
@@ -58,6 +59,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '시비우 공항|Sibiu International Airport',
     code: 'SBZ',
+    image: '/gateways/gw-sbz.jpg',
     intl: true,
     about: '시내에서 서쪽 약 4km입니다.|About 4 km west of the city.',
     options: [
@@ -83,6 +85,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '티미쇼아라 공항|Timișoara Traian Vuia Airport',
     code: 'TSR',
+    image: '/gateways/gw-tsr.jpg',
     intl: true,
     about: '시내에서 동쪽 약 12km입니다.|About 12 km east of the city.',
     options: [

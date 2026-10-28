@@ -60,6 +60,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '포르투 프란시스쿠 사 카르네이루 공항|Porto Francisco Sá Carneiro Airport',
     code: 'OPO',
+    image: '/gateways/gw-opo.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 11km. 터미널 앞에 지하철역이 있습니다.|About 11 km north-west of the centre, with a metro station in front of the terminal.',
     options: [
@@ -110,6 +111,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '파루 공항|Faro Airport',
     code: 'FAO',
+    image: '/gateways/gw-fao.jpg',
     intl: true,
     about: '알가르브 해안의 관문. 파루 시내에서 서쪽 약 6km입니다.|Gateway to the Algarve coast, about 6 km west of Faro town.',
     options: [
@@ -175,6 +177,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '마데이라 크리스티아누 호날두 공항|Madeira Cristiano Ronaldo Airport',
     code: 'FNC',
+    image: '/gateways/gw-fnc.jpg',
     intl: true,
     about: '바다 위 기둥에 놓인 활주로로 유명합니다. 푼샬 시내에서 동쪽 약 15km입니다.|Known for its runway on stilts over the sea; about 15 km east of Funchal.',
     options: [

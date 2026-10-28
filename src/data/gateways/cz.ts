@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '프라하 바츨라프 하벨 공항|Prague Václav Havel Airport',
     code: 'PRG',
+    image: '/gateways/gw-prg.jpg',
     intl: true,
     about: '시내에서 서쪽 약 17km. 철도는 없고 버스와 지하철을 갈아탑니다.|About 17 km west of the centre; no railway, so you combine a bus with the metro.',
     options: [

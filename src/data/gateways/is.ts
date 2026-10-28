@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '케플라비크 국제공항|Keflavík International Airport',
     code: 'KEF',
+    image: '/gateways/gw-kef.jpg',
     intl: true,
     about: '레이캬비크에서 남서쪽 약 50km 레이캬네스반도에 있습니다. 블루 라군이 가는 길에 있습니다.|About 50 km south-west of Reykjavík on the Reykjanes peninsula; the Blue Lagoon is on the way.',
     options: [

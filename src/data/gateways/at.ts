@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '빈 국제공항|Vienna International Airport',
     code: 'VIE',
+    image: '/gateways/gw-vie.jpg',
     intl: true,
     about:
       '시내에서 남동쪽 약 18km 슈베하트에 있습니다. 2027년 10월 말까지 철도 공사로 공항 열차 노선이 바뀌었습니다.|About 18 km south-east of the centre at Schwechat; airport rail routes are changed by works until the end of October 2027.',
@@ -46,6 +47,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'vienna',
     kind: 'rail',
     name: '빈 중앙역|Wien Hauptbahnhof',
+    image: '/gateways/gw-wien-hbf.jpg',
     about:
       '2014년 문을 연 새 중앙역. 잘츠부르크·뮌헨·부다페스트·프라하·베네치아행 레일젯과 나이트젯 야간열차가 출발합니다.|The central station opened in 2014, with Railjets to Salzburg, Munich, Budapest, Prague and Venice and Nightjet sleepers.',
     options: [
@@ -70,6 +72,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '잘츠부르크 W. A. 모차르트 공항|Salzburg Airport W. A. Mozart',
     code: 'SZG',
+    image: '/gateways/gw-szg.jpg',
     intl: true,
     about: '시내에서 서쪽 약 4km로 아주 가깝습니다.|Very close in, about 4 km west of the centre.',
     options: [
@@ -90,6 +93,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'salzburg',
     kind: 'rail',
     name: '잘츠부르크 중앙역|Salzburg Hauptbahnhof',
+    image: '/gateways/gw-salzburg-hbf.jpg',
     about: '빈·뮌헨·인스브루크행 레일젯과 할슈타트 방면 열차·버스의 출발점입니다.|Railjets to Vienna, Munich and Innsbruck, and the start for trains and buses towards Hallstatt.',
     options: [
       {
@@ -112,6 +116,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '인스브루크 공항|Innsbruck Airport',
     code: 'INN',
+    image: '/gateways/gw-inn.jpg',
     intl: true,
     about: '시내에서 서쪽 약 4km, 알프스에 둘러싸여 있습니다.|About 4 km west of the centre, ringed by the Alps.',
     options: [
@@ -132,6 +137,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '그라츠 공항|Graz Airport',
     code: 'GRZ',
+    image: '/gateways/gw-grz.jpg',
     intl: true,
     about: '시내에서 남쪽 약 10km의 작은 공항입니다.|A small airport about 10 km south of the city.',
     options: [

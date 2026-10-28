@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '탈린 레나르트 메리 공항|Tallinn Airport (Lennart Meri)',
     code: 'TLL',
+    image: '/gateways/gw-tll.jpg',
     intl: true,
     about: '시내에서 약 4km로 아주 가깝습니다.|Very close, about 4 km from the centre.',
     options: [

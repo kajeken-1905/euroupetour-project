@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스톡홀름 알란다 공항|Stockholm Arlanda Airport',
     code: 'ARN',
+    image: '/gateways/gw-arn.jpg',
     intl: true,
     about: '시내에서 북쪽 약 40km. 터미널 아래로 공항 급행열차가 다닙니다.|About 40 km north of the city, with the airport express under the terminals.',
     options: [
@@ -41,6 +42,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'stockholm',
     kind: 'rail',
     name: '스톡홀름 중앙역|Stockholm Centralstation',
+    image: '/gateways/gw-stockholm-c.jpg',
     about: '예테보리·말뫼·오슬로·코펜하겐행 열차와 키루나행 야간열차가 출발합니다.|Trains to Gothenburg, Malmö, Oslo and Copenhagen and the night train to Kiruna.',
     options: [
       {
@@ -63,6 +65,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '예테보리 란데베테르 공항|Göteborg Landvetter Airport',
     code: 'GOT',
+    image: '/gateways/gw-got.jpg',
     intl: true,
     about: '시내에서 동쪽 약 20km입니다.|About 20 km east of the city.',
     options: [
@@ -83,6 +86,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '키루나 공항|Kiruna Airport',
     code: 'KRN',
+    image: '/gateways/gw-kru.jpg',
     intl: true,
     about: '시내에서 동쪽 약 9km. 아이스호텔·오로라 여행의 관문입니다.|About 9 km east of town; gateway to the Icehotel and northern lights.',
     options: [
@@ -103,6 +107,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '말뫼 공항|Malmö Airport',
     code: 'MMX',
+    image: '/gateways/gw-mmx.jpg',
     intl: true,
     about: '시내에서 동쪽 약 30km. 국제선은 기차로 약 20분인 코펜하겐 공항이 훨씬 많습니다.|About 30 km east of town; Copenhagen Airport, about 20 min by train, has far more international flights.',
     options: [

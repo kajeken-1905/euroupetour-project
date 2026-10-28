@@ -15,6 +15,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '샤를 드 골 공항|Paris Charles de Gaulle Airport',
     code: 'CDG',
+    image: '/gateways/gw-cdg.jpg',
     intl: true,
     about:
       '파리 북동쪽 약 25km, 프랑스 최대 공항. 터미널 1·2(2A~2G)·3으로 나뉘고 무인 전철 CDGVAL이 잇습니다.|About 25 km north-east of Paris and France’s largest airport; Terminals 1, 2 (2A–2G) and 3 are linked by the CDGVAL shuttle train.',
@@ -52,6 +53,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '오를리 공항|Paris Orly Airport',
     code: 'ORY',
+    image: '/gateways/gw-ory.jpg',
     intl: true,
     about: '파리 남쪽 약 14km. 유럽·북아프리카 노선과 저비용 항공이 많습니다.|About 14 km south of Paris, with many European, North African and low-cost flights.',
     options: [
@@ -123,6 +125,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '니스 코트다쥐르 공항|Nice Côte d’Azur Airport',
     code: 'NCE',
+    image: '/gateways/gw-nce.jpg',
     intl: true,
     about: '바닷가 영국인 산책로 서쪽 끝, 시내에서 약 7km. 모나코·칸으로 가는 관문이기도 합니다.|At the western end of the Promenade des Anglais, about 7 km from the centre; also the gateway to Monaco and Cannes.',
     options: [
@@ -150,6 +153,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '리옹 생텍쥐페리 공항|Lyon–Saint-Exupéry Airport',
     code: 'LYS',
+    image: '/gateways/gw-lys.jpg',
     intl: true,
     about: '시내에서 동쪽 약 25km. 칼라트라바가 설계한 TGV 역이 공항 안에 있습니다.|About 25 km east of the city, with a TGV station by Calatrava inside the airport.',
     options: [
@@ -170,6 +174,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'lyon',
     kind: 'rail',
     name: '리옹 파르디외역|Lyon Part-Dieu',
+    image: '/gateways/gw-lyon-part-dieu.jpg',
     about: '파리(약 2시간)·마르세유·제네바·밀라노행 TGV가 출발하는 리옹 중앙역입니다.|Lyon’s main station, with TGVs to Paris (about 2 hours), Marseille, Geneva and Milan.',
     options: [
       {
@@ -192,6 +197,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '마르세유 프로방스 공항|Marseille Provence Airport',
     code: 'MRS',
+    image: '/gateways/gw-mrs.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 25km 마리냔에 있습니다.|About 25 km north-west of the city at Marignane.',
     options: [
@@ -217,6 +223,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'marseille',
     kind: 'rail',
     name: '마르세유 생샤를역|Marseille Saint-Charles',
+    image: '/gateways/gw-marseille-st-charles.jpg',
     about: '언덕 위에 있는 역으로, 앞의 큰 계단에서 시내가 내려다보입니다. 파리행 TGV(약 3시간 20분)가 출발합니다.|A hilltop station whose grand staircase looks over the city; TGVs to Paris take about 3 h 20.',
     options: [
       {
@@ -239,6 +246,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '보르도 메리냐크 공항|Bordeaux–Mérignac Airport',
     code: 'BOD',
+    image: '/gateways/gw-bod.jpg',
     intl: true,
     about: '시내에서 서쪽 약 12km. 2023년부터 트램이 공항까지 들어옵니다.|About 12 km west of the city; the tram has reached the airport since 2023.',
     options: [
@@ -266,6 +274,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '툴루즈 블라냐크 공항|Toulouse–Blagnac Airport',
     code: 'TLS',
+    image: '/gateways/gw-tls.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 7km. 에어버스 공장 옆입니다.|About 7 km north-west of the city, next to the Airbus works.',
     options: [
@@ -287,6 +296,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스트라스부르 앙치하임 공항|Strasbourg Airport (Entzheim)',
     code: 'SXB',
+    image: '/gateways/gw-sxb.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 12km의 작은 공항. 터미널에서 다리로 이어진 기차역이 있습니다.|A small airport about 12 km south-west, with a station linked to the terminal by a footbridge.',
     options: [
@@ -308,6 +318,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '아작시오 나폴레옹 보나파르트 공항|Ajaccio Napoléon Bonaparte Airport',
     code: 'AJA',
+    image: '/gateways/gw-aja.jpg',
     intl: true,
     about: '코르시카 남서쪽 관문, 시내에서 동쪽 약 7km입니다.|Gateway to south-west Corsica, about 7 km east of town.',
     options: [
@@ -327,6 +338,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '비아리츠 페이바스크 공항|Biarritz Pays Basque Airport',
     code: 'BIQ',
+    image: '/gateways/gw-biq.jpg',
     intl: true,
     about: '비아리츠와 바욘 사이, 시내에서 약 3km입니다.|Between Biarritz and Bayonne, about 3 km from town.',
     options: [
@@ -384,6 +396,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '몽펠리에 메디테라네 공항|Montpellier–Méditerranée Airport',
     code: 'MPL',
+    image: '/gateways/gw-mpl.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 8km입니다.|About 8 km south-east of the city.',
     options: [

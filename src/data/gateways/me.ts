@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '포드고리차 공항|Podgorica Airport',
     code: 'TGD',
+    image: '/gateways/gw-tgd.jpg',
     intl: true,
     about: '시내에서 남쪽 약 11km입니다.|About 11 km south of the city.',
     options: [

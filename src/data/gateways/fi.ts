@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '헬싱키 반타 공항|Helsinki Airport (Vantaa)',
     code: 'HEL',
+    image: '/gateways/gw-hel.jpg',
     intl: true,
     about: '시내에서 북쪽 약 17km. 터미널 2 아래에 기차역이 있습니다. 요금 구역 C라서 ABC 표가 필요합니다.|About 17 km north of the centre, with the station under Terminal 2; it is in zone C, so you need an ABC ticket.',
     options: [
@@ -29,6 +30,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'helsinki',
     kind: 'port',
     name: '헬싱키 항 여객터미널|Port of Helsinki passenger terminals',
+    image: '/gateways/gw-helsinki-port.jpg',
     about:
       '탈린행(약 2시간)과 스톡홀름행 야간 크루즈 페리가 출발합니다. 터미널이 서항(웨스트), 카타야노카, 올림피아로 나뉩니다.|Ferries to Tallinn (about 2 hours) and overnight cruise ferries to Stockholm leave from West Harbour, Katajanokka and Olympia.',
     options: [
@@ -54,6 +56,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '로바니에미 공항|Rovaniemi Airport',
     code: 'RVN',
+    image: '/gateways/gw-rvn.jpg',
     intl: true,
     about: '산타클로스 마을 바로 옆, 시내에서 북쪽 약 10km입니다.|Right by Santa Claus Village, about 10 km north of town.',
     options: [
@@ -94,6 +97,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '투르쿠 공항|Turku Airport',
     code: 'TKU',
+    image: '/gateways/gw-tku.jpg',
     intl: true,
     about: '시내에서 북쪽 약 8km입니다.|About 8 km north of the city.',
     options: [

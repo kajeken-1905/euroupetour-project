@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바르샤바 쇼팽 공항|Warsaw Chopin Airport',
     code: 'WAW',
+    image: '/gateways/gw-waw.jpg',
     intl: true,
     about: '시내에서 남쪽 약 10km. 터미널 앞 지하에 기차역이 있습니다.|About 10 km south of the centre, with a station beneath the terminal forecourt.',
     options: [
@@ -35,6 +36,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'warsaw',
     kind: 'rail',
     name: '바르샤바 중앙역|Warszawa Centralna',
+    image: '/gateways/gw-warszawa-centralna.jpg',
     about: '크라쿠프·그단스크행 고속열차와 베를린·프라하·빈행 국제열차가 출발합니다. 문화과학궁전 바로 앞입니다.|Express trains to Kraków and Gdańsk and international trains to Berlin, Prague and Vienna, right by the Palace of Culture.',
     options: [
       {
@@ -57,6 +59,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '크라쿠프 요한 바오로 2세 공항|Kraków John Paul II Airport',
     code: 'KRK',
+    image: '/gateways/gw-krk.jpg',
     intl: true,
     about: '시내에서 서쪽 약 11km 발리체에 있습니다.|About 11 km west of the city at Balice.',
     options: [
@@ -83,6 +86,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '그단스크 레흐 바웬사 공항|Gdańsk Lech Wałęsa Airport',
     code: 'GDN',
+    image: '/gateways/gw-gdn.jpg',
     intl: true,
     about: '시내에서 서쪽 약 12km입니다.|About 12 km west of the city.',
     options: [
@@ -108,6 +112,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '포즈난 와비차 공항|Poznań–Ławica Airport',
     code: 'POZ',
+    image: '/gateways/gw-poz.jpg',
     intl: true,
     about: '시내에서 서쪽 약 6km입니다.|About 6 km west of the city.',
     options: [
@@ -133,6 +138,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '브로츠와프 공항|Wrocław Airport',
     code: 'WRO',
+    image: '/gateways/gw-wro.jpg',
     intl: true,
     about: '시내에서 서쪽 약 10km입니다.|About 10 km west of the city.',
     options: [

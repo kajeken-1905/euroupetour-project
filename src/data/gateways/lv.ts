@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '리가 국제공항|Riga International Airport',
     code: 'RIX',
+    image: '/gateways/gw-rix.jpg',
     intl: true,
     about: '발트 3국 최대 공항, 시내에서 서쪽 약 10km입니다.|The Baltics’ busiest airport, about 10 km west of the centre.',
     options: [

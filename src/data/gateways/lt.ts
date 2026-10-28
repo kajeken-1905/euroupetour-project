@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '빌뉴스 공항|Vilnius Airport',
     code: 'VNO',
+    image: '/gateways/gw-vno.jpg',
     intl: true,
     about: '시내에서 남쪽 약 6km로 가깝습니다.|Close in, about 6 km south of the centre.',
     options: [
@@ -33,6 +34,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '카우나스 공항|Kaunas Airport',
     code: 'KUN',
+    image: '/gateways/gw-kun.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 14km. 라이언에어 노선이 많습니다.|About 14 km north-east of the city, with many Ryanair routes.',
     options: [
