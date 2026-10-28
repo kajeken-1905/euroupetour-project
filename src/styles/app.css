@@ -2595,6 +2595,12 @@ button.back-link {
     gap: 16px;
   }
 
+  /* Onward routes, night trains, scenic trains and airports in four columns too. */
+  .route-list,
+  .night-train-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
   /* City photos are mostly 3:2: a 16:10 card shows nearly all of it, framed a little above centre where the
      buildings and skylines usually are. */
   .city-item {
