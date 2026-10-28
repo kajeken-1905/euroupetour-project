@@ -70,6 +70,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '로테르담 헤이그 공항|Rotterdam The Hague Airport',
     code: 'RTM',
+    image: '/gateways/gw-rtm.jpg',
     intl: true,
     about: '로테르담 북쪽의 작은 공항입니다.|A small airport north of Rotterdam.',
     options: [

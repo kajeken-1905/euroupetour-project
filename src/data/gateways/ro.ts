@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '부쿠레슈티 헨리 코안더 공항|Bucharest Henri Coandă Airport',
     code: 'OTP',
+    image: '/gateways/gw-otp.jpg',
     intl: true,
     about: '시내에서 북쪽 약 17km 오토페니에 있습니다.|About 17 km north of the city at Otopeni.',
     options: [

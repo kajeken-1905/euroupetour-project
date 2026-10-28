@@ -87,6 +87,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'paris',
     kind: 'rail',
     name: '파리 북역|Paris Gare du Nord',
+    image: '/gateways/gw-paris-nord.jpg',
     about:
       '유럽에서 가장 붐비는 역. 런던행 유로스타, 브뤼셀·암스테르담행 열차, 릴행 TGV와 공항행 RER B가 출발합니다.|Europe’s busiest station, for Eurostar to London, trains to Brussels and Amsterdam, TGVs to Lille and the RER B to CDG.',
     options: [
@@ -106,6 +107,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'paris',
     kind: 'rail',
     name: '파리 리옹역|Paris Gare de Lyon',
+    image: '/gateways/gw-paris-lyon.jpg',
     about:
       '리옹·마르세유·니스 방면 TGV와 스위스·이탈리아행 열차가 출발합니다. 시계탑과 식당 르 트랭 블뢰가 유명합니다.|TGVs to Lyon, Marseille and Nice and trains to Switzerland and Italy; known for its clock tower and the Le Train Bleu restaurant.',
     options: [
@@ -359,6 +361,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '칼비 생트카트린 공항|Calvi Sainte-Catherine Airport',
     code: 'CLY',
+    image: '/gateways/gw-cly.jpg',
     intl: true,
     about: '칼비 시내에서 남동쪽 약 7km의 작은 공항입니다.|A small airport about 7 km south-east of Calvi.',
     options: [
@@ -377,6 +380,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '라로셸 일드레 공항|La Rochelle–Île de Ré Airport',
     code: 'LRH',
+    image: '/gateways/gw-lrh.jpg',
     intl: true,
     about: '시내에서 북서쪽 약 4km입니다.|About 4 km north-west of the city.',
     options: [

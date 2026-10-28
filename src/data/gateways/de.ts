@@ -243,6 +243,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '라이프치히/할레 공항|Leipzig/Halle Airport',
     code: 'LEJ',
+    image: '/gateways/gw-lej.jpg',
     intl: true,
     about: '라이프치히와 할레 사이에 있습니다. 터미널 위로 ICE·S반 역이 지납니다.|Between Leipzig and Halle, with ICE and S-Bahn trains stopping above the terminal.',
     options: [
@@ -327,6 +328,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'cologne',
     kind: 'rail',
     name: '쾰른 중앙역|Köln Hauptbahnhof',
+    image: '/gateways/gw-koeln-hbf.jpg',
     about: '역을 나오면 바로 쾰른 대성당입니다. 브뤼셀·파리·암스테르담행 국제열차와 ICE가 출발합니다.|Step outside and you face the cathedral; ICEs and international trains to Brussels, Paris and Amsterdam.',
     options: [
       {

@@ -35,6 +35,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '가발라 공항|Gabala International Airport',
     code: 'GBB',
+    image: '/gateways/gw-gbb.jpg',
     intl: true,
     about: '가발라 시내에서 남쪽 약 13km의 작은 공항입니다.|A small airport about 13 km south of Gabala.',
     options: [

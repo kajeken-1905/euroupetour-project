@@ -115,6 +115,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바르셀로나 엘프라트 공항|Josep Tarradellas Barcelona–El Prat Airport',
     code: 'BCN',
+    image: '/gateways/gw-bcn.jpg',
     intl: true,
     about:
       '시내에서 남서쪽 약 12km. T1과 T2는 서로 떨어져 있어 타는 곳이 다릅니다.|About 12 km south-west of the centre. T1 and T2 are far apart, so stops differ.',
@@ -161,6 +162,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'barcelona',
     kind: 'rail',
     name: '바르셀로나 산츠역|Barcelona Sants',
+    image: '/gateways/gw-barcelona-sants.jpg',
     about:
       '마드리드·발렌시아·파리행 고속열차와 근교선이 출발하는 바르셀로나 중앙역입니다.|Barcelona’s main station, for high-speed trains to Madrid, Valencia and Paris and for Rodalies.',
     options: [
@@ -183,6 +185,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'barcelona',
     kind: 'port',
     name: '바르셀로나 항 여객터미널|Port of Barcelona ferry terminals',
+    image: '/gateways/gw-barcelona-port.jpg',
     about:
       '팔마·이비사·메노르카(Baleària·Trasmed)와 제노바·치비타베키아·포르토토레스(Grimaldi·GNV)행 페리가 출발합니다. 크루즈 터미널은 따로 있습니다.|Ferries to Palma, Ibiza and Menorca (Baleària, Trasmed) and to Genoa, Civitavecchia and Porto Torres (Grimaldi, GNV). Cruise terminals are separate.',
     options: [
@@ -471,6 +474,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '산티아고 데 콤포스텔라 공항|Santiago–Rosalía de Castro Airport',
     code: 'SCQ',
+    image: '/gateways/gw-scq.jpg',
     intl: true,
     about: '시내에서 동쪽 약 12km. 순례길을 마친 사람들이 많이 이용합니다.|About 12 km east of the city, popular with pilgrims heading home.',
     options: [

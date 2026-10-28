@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '자그레브 프라뇨 투지만 공항|Zagreb Franjo Tuđman Airport',
     code: 'ZAG',
+    image: '/gateways/gw-zag.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 17km입니다.|About 17 km south-east of the city.',
     options: [
@@ -29,6 +30,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '스플리트 공항|Split Airport',
     code: 'SPU',
+    image: '/gateways/gw-spu.jpg',
     intl: true,
     about: '스플리트와 트로기르 사이, 시내에서 서쪽 약 20km입니다.|Between Split and Trogir, about 20 km west of the city.',
     options: [
@@ -54,6 +56,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'split',
     kind: 'port',
     name: '스플리트 항|Port of Split',
+    image: '/gateways/gw-split-port.jpg',
     about: '흐바르·브라치·비스 등 섬행 페리·고속선과 이탈리아 안코나행 페리가 출발합니다. 버스터미널·기차역과 붙어 있습니다.|Ferries and catamarans to Hvar, Brač and Vis and ferries to Ancona, next to the bus and railway stations.',
     options: [
       {
@@ -71,6 +74,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '두브로브니크 공항|Dubrovnik Airport',
     code: 'DBV',
+    image: '/gateways/gw-dbv.jpg',
     intl: true,
     about: '시내에서 남동쪽 약 20km 칠리피에 있습니다.|About 20 km south-east of the city at Čilipi.',
     options: [
@@ -92,6 +96,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '자다르 공항|Zadar Airport',
     code: 'ZAD',
+    image: '/gateways/gw-zad.jpg',
     intl: true,
     about: '시내에서 동쪽 약 10km입니다.|About 10 km east of the city.',
     options: [

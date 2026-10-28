@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '프리슈티나 아뎀 야샤리 공항|Pristina International Airport Adem Jashari',
     code: 'PRN',
+    image: '/gateways/gw-prn.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 15km입니다.|About 15 km south-west of the city.',
     options: [

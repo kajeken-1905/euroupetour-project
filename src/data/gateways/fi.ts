@@ -77,6 +77,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '탐페레 필칼라 공항|Tampere–Pirkkala Airport',
     code: 'TMP',
+    image: '/gateways/gw-tmp.jpg',
     intl: true,
     about: '시내에서 남서쪽 약 15km입니다.|About 15 km south-west of the city.',
     options: [

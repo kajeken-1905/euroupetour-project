@@ -9,6 +9,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '이스탄불 공항|Istanbul Airport',
     code: 'IST',
+    image: '/gateways/gw-ist.jpg',
     intl: true,
     about: '유럽 쪽 북부, 시내에서 약 40km. 터키항공의 거점입니다.|On the European side about 40 km north of the centre; Turkish Airlines’ hub.',
     options: [
@@ -41,6 +42,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '사비하 괵첸 공항|Istanbul Sabiha Gökçen Airport',
     code: 'SAW',
+    image: '/gateways/gw-saw.jpg',
     intl: true,
     about: '아시아 쪽 동남부, 시내에서 약 45km. 페가수스 항공의 거점입니다.|On the Asian side about 45 km south-east of the centre; Pegasus Airlines’ hub.',
     options: [
@@ -68,6 +70,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '앙카라 에센보아 공항|Ankara Esenboğa Airport',
     code: 'ESB',
+    image: '/gateways/gw-esb.jpg',
     intl: true,
     about: '시내에서 북동쪽 약 28km입니다.|About 28 km north-east of the city.',
     options: [
@@ -88,6 +91,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '안탈리아 공항|Antalya Airport',
     code: 'AYT',
+    image: '/gateways/gw-ayt.jpg',
     intl: true,
     about: '튀르키예 지중해 해변의 관문, 시내에서 동쪽 약 13km입니다.|Gateway to the Turkish Riviera, about 13 km east of the city.',
     options: [
@@ -114,6 +118,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '이즈미르 아드난 멘데레스 공항|İzmir Adnan Menderes Airport',
     code: 'ADB',
+    image: '/gateways/gw-adb.jpg',
     intl: true,
     about: '시내에서 남쪽 약 18km. 에페소스 여행의 관문입니다.|About 18 km south of the city; gateway to Ephesus.',
     options: [

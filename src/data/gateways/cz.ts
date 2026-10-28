@@ -38,6 +38,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'prague',
     kind: 'rail',
     name: '프라하 중앙역|Praha hlavní nádraží',
+    image: '/gateways/gw-praha-hln.jpg',
     about:
       '빈·베를린·부다페스트·크라쿠프행 국제열차가 출발합니다. 2층 옛 역사에는 아르누보 양식 판타 홀이 남아 있습니다.|International trains to Vienna, Berlin, Budapest and Kraków; the old upper building keeps the Art Nouveau Fanta Hall.',
     options: [

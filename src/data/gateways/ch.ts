@@ -88,6 +88,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '바젤 뮐루즈 유로에어포트|EuroAirport Basel Mulhouse Freiburg',
     code: 'BSL',
+    image: '/gateways/gw-bsl.jpg',
     intl: true,
     about: '프랑스 땅에 있지만 스위스 쪽 출구가 따로 있는 공항입니다. 스위스로 가려면 스위스 쪽 출구로 나가세요.|On French soil with a separate Swiss exit; use the Swiss side for Basel.',
     options: [

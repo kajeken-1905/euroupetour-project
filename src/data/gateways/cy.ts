@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '파포스 국제공항|Paphos International Airport',
     code: 'PFO',
+    image: '/gateways/gw-pfo.jpg',
     intl: true,
     about: '파포스에서 동쪽 약 15km입니다.|About 15 km east of Paphos.',
     options: [

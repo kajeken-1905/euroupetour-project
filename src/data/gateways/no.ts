@@ -8,6 +8,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '오슬로 가르데르모엔 공항|Oslo Airport Gardermoen',
     code: 'OSL',
+    image: '/gateways/gw-osl.jpg',
     intl: true,
     about: '시내에서 북쪽 약 47km. 터미널 바로 아래 기차역이 있습니다.|About 47 km north of the city, with the station directly below the terminal.',
     options: [

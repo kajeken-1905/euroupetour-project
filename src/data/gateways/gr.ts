@@ -198,6 +198,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '코르푸 이오아니스 카포디스트리아스 공항|Corfu Ioannis Kapodistrias Airport',
     code: 'CFU',
+    image: '/gateways/gw-cfu.jpg',
     intl: true,
     about: '코르푸 시내에서 약 3km로 아주 가깝습니다.|Very close, about 3 km from Corfu town.',
     options: [

@@ -59,6 +59,7 @@ export const GATEWAYS: Gateway[] = [
     cityId: 'brussels',
     kind: 'rail',
     name: '브뤼셀 미디(남)역|Bruxelles-Midi / Brussel-Zuid',
+    image: '/gateways/gw-brussels-midi.jpg',
     about: '런던·파리·암스테르담행 유로스타와 쾰른행 ICE가 출발하는 국제선 역입니다.|The international station, for Eurostar to London, Paris and Amsterdam and ICEs to Cologne.',
     options: [
       {
