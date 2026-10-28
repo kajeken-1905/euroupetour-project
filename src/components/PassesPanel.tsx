@@ -11,6 +11,7 @@ export function PassesPanel({ passes }: { passes: Pass[] }) {
   return (
     <section className="itinerary-panel" aria-label={t('passesTitle', lang)}>
       <p className="section-label">{t('passesTitle', lang)}</p>
+      <div className="pass-grid">
       {passes.map((pass) => {
         const [year, month] = pass.checked.split('-')
         return (
@@ -41,6 +42,7 @@ export function PassesPanel({ passes }: { passes: Pass[] }) {
           </div>
         )
       })}
+      </div>
     </section>
   )
 }

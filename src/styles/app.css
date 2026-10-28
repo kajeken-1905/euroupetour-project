@@ -2601,6 +2601,60 @@ button.back-link {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
+  /* Football clubs, places to stay, fares and passes as four cards a row as well. */
+  .fb-clubs,
+  .stay-list,
+  .pass-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .fb-club,
+  .stay-area {
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: #f0ebe4;
+  }
+
+  .fb-clubs .fb-club + .fb-club,
+  .stay-list .stay-area + .stay-area {
+    margin-top: 0;
+    padding-top: 10px;
+    border-top: 0;
+  }
+
+  .fares-table.fares-grid,
+  .fares-table.fares-grid tbody {
+    display: block;
+  }
+
+  .fares-table.fares-grid tbody {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .fares-table.fares-grid tr {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: #f0ebe4;
+  }
+
+  .fares-table.fares-grid th,
+  .fares-table.fares-grid td {
+    padding: 0;
+    border: 0;
+    text-align: left;
+  }
+
+  .pass-grid .pass-card + .pass-card {
+    margin-top: 0;
+  }
+
   /* City photos are mostly 3:2: a 16:10 card shows nearly all of it, framed a little above centre where the
      buildings and skylines usually are. */
   .city-item {

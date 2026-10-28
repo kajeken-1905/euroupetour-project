@@ -14,7 +14,7 @@ export function FaresPanel({ cityId }: { cityId: string }) {
     <section className="itinerary-panel" aria-label={t('faresTitle', lang)}>
       <p className="section-label">{t('faresTitle', lang)}</p>
       <div className="transit-card">
-        <table className="fares-table">
+        <table className="fares-table fares-grid">
           <tbody>
             {fares.rows.map((row) => (
               <tr key={row.name.en}>
