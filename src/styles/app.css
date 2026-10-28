@@ -2713,13 +2713,14 @@ button.back-link {
     grid-column: 1 / -1;
   }
 
+  /* Population, area, capital, then currency with the exchange rate: one row of four. */
   .country-facts {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 12px;
   }
 
   .country-fact--wide {
-    grid-column: span 2;
+    grid-column: auto;
   }
 }
 
