@@ -934,8 +934,9 @@ gateways/gw-ist.jpg | https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Hava
 gateways/gw-saw.jpg | https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Havaliman%C4%B1_Airport_2019_16.jpg | CC BY-SA 4.0 | Arne Müseler
 gateways/gw-adb.jpg | https://commons.wikimedia.org/wiki/File:Izmir-ADB_Airport_(14632482211).jpg | CC BY 2.0 | Charles from Port Chester, New York
 gateways/gw-ayt.jpg | https://commons.wikimedia.org/wiki/File:TC-SMP_at_AYT_20241012.jpg | CC BY 4.0 | VynedJ
-gateways/gw-paris-nord.jpg | https://commons.wikimedia.org/wiki/File:Paris_Nord_2017_3.jpg | CC BY-SA 4.0 | Smiley.toerist
 gateways/gw-paris-lyon.jpg | https://commons.wikimedia.org/wiki/File:Paris_Gare_du_Nord_crowds.jpg | CC BY-SA 4.0 | GeoMancer448
 gateways/gw-cly.jpg | https://commons.wikimedia.org/wiki/File:OK-RDA_Let_410_Skoda_Air_Calvi_08-92_(22411711357).jpg | CC BY-SA 2.0 | Rob Hodgkins
 gateways/gw-lrh.jpg | https://commons.wikimedia.org/wiki/File:EI-DWG_LRH_(28786137850).jpg | CC BY-SA 2.0 | ERIC  SALARD from PARIS, FRANCE
 gateways/gw-tmp.jpg | https://commons.wikimedia.org/wiki/File:Tampere_Pirkkala_Airport_Departures_Finland.jpg | CC BY-SA 3.0 | Khaosaming
+gateways/gw-paris-nord.jpg | https://commons.wikimedia.org/wiki/File:Gare_du_Nord_%C3%A0_Paris_le_17_juillet_2015_-_10.jpg | CC BY-SA 3.0 | Lionel Allorge
+gateways/gw-deb.jpg | https://commons.wikimedia.org/wiki/File:Debrecen-apt.jpg | CC BY-SA 4.0 | Keewon

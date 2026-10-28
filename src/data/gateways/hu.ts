@@ -55,6 +55,7 @@ export const GATEWAYS: Gateway[] = [
     kind: 'air',
     name: '데브레첸 국제공항|Debrecen International Airport',
     code: 'DEB',
+    image: '/gateways/gw-deb.jpg',
     intl: true,
     about: '시내에서 남쪽 약 5km의 작은 공항입니다.|A small airport about 5 km south of the city.',
     options: [
