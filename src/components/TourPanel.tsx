@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCity } from '../data/countryData'
-import { getCityRoutes, getRoutesBetween, getViaRoute } from '../data/routes'
+import { getCityRoutes, getRoutesBetween, getSurfacePath } from '../data/routes'
 import { t } from '../i18n/ui'
 import { setRoute, useTrip } from '../trip/store'
 import type { City, CityRoute, Lang } from '../types'
@@ -47,22 +47,26 @@ function Leg({ from, to, lang }: { from: City; to: City; lang: Lang }) {
       </div>
     )
   }
-  const via = getViaRoute(from.id, to.id)
-  const mid = via ? getCity(via[0].toCityId) : undefined
-  if (!via || !mid) {
+  const path = getSurfacePath(from.id, to.id)
+  const stops = path ? path.map((leg) => getCity(leg.fromCityId)) : []
+  if (!path || stops.some((c) => !c)) {
     return (
       <div className="tour-leg tour-leg-none">
         {t('tourNoDirect', lang)} {t('tourNoInfo', lang)}
       </div>
     )
   }
+  const via = (stops.slice(1) as City[]).map((c) => c.name[lang]).join(' · ')
   return (
     <div className="tour-leg tour-leg-none">
       <span>
-        {t('tourNoDirect', lang)} {t('tourVia', lang).replace('{city}', mid.name[lang])}:
+        {t('tourNoDirect', lang)} {t('tourVia', lang).replace('{city}', via)}:
       </span>
-      <LegLine route={via[0]} lang={lang} label={`${from.name[lang]} → ${mid.name[lang]}`} />
-      <LegLine route={via[1]} lang={lang} label={`${mid.name[lang]} → ${to.name[lang]}`} />
+      {path.map((leg, i) => {
+        const a = stops[i] as City
+        const b = i + 1 < path.length ? (stops[i + 1] as City) : to
+        return <LegLine key={a.id} route={leg.route} lang={lang} label={`${a.name[lang]} → ${b.name[lang]}`} />
+      })}
       <span>{t('tourViaNote', lang)}</span>
     </div>
   )

@@ -41,16 +41,45 @@ export function getRoutesBetween(fromCityId: string, toCityId: string): CityRout
   return getCityRoutes(fromCityId).filter((route) => route.toCityId === toCityId)
 }
 
-/**
- * When two cities have no direct entry: the one-change surface route with the shortest two legs.
- * The legs are real entries; the time spent changing is not known and is left out.
- */
-export function getViaRoute(fromCityId: string, toCityId: string): [CityRoute, CityRoute] | undefined {
-  let best: [CityRoute, CityRoute] | undefined
-  for (const first of getCityRoutes(fromCityId)) {
-    if (first.mode === 'flight' || first.toCityId === toCityId) continue
-    const second = getRoutesBetween(first.toCityId, toCityId).find((route) => route.mode !== 'flight')
-    if (second && (!best || first.minutes + second.minutes < best[0].minutes + best[1].minutes)) best = [first, second]
+/** One leg of a multi-change journey: the city it leaves from and the recorded connection. */
+export interface PathLeg {
+  fromCityId: string
+  route: CityRoute
+}
+
+// Changing trains is never free; this keeps a path with fewer changes ahead of a marginally faster one.
+const CHANGE_PENALTY = 30
+const MAX_LEGS = 7
+
+function shortestPath(fromCityId: string, toCityId: string, modes: RouteMode[]): PathLeg[] | undefined {
+  const best = new Map<string, { cost: number; legs: PathLeg[] }>([[fromCityId, { cost: 0, legs: [] }]])
+  const queue = [fromCityId]
+  while (queue.length > 0) {
+    queue.sort((a, b) => best.get(a)!.cost - best.get(b)!.cost)
+    const city = queue.shift()!
+    const here = best.get(city)!
+    if (city === toCityId) return here.legs
+    if (here.legs.length >= MAX_LEGS) continue
+    for (const route of getCityRoutes(city)) {
+      if (!modes.includes(route.mode)) continue
+      const cost = here.cost + route.minutes + (here.legs.length > 0 ? CHANGE_PENALTY : 0)
+      const seen = best.get(route.toCityId)
+      if (seen && seen.cost <= cost) continue
+      best.set(route.toCityId, { cost, legs: [...here.legs, { fromCityId: city, route }] })
+      if (!queue.includes(route.toCityId)) queue.push(route.toCityId)
+    }
   }
-  return best
+  return undefined
+}
+
+/**
+ * When two cities have no direct entry: the quickest surface journey through other cities, by train if
+ * possible, otherwise with buses and ferries too. Every leg is a real entry; time spent changing is not known
+ * and is left out of what is shown.
+ */
+export function getSurfacePath(fromCityId: string, toCityId: string): PathLeg[] | undefined {
+  return (
+    shortestPath(fromCityId, toCityId, ['train']) ??
+    shortestPath(fromCityId, toCityId, ['train', 'mixed', 'bus', 'ferry'])
+  )
 }
