@@ -171,6 +171,12 @@ export const visitFr: Record<string, HighlightVisit> = {
   'avignon-h3': v(30, 45),
   'avignon-h4': v(15, 20),
   'avignon-h5': v(30, 45),
+  'aix-en-provence-h1': v(30, 60),
+  'aix-en-provence-h2': v(10, 15),
+  'aix-en-provence-h3': v(30, 45),
+  'aix-en-provence-h4': v(45, 60, { b: 'req', s: 'https://www.cezanne-en-provence.com/', n: '2026년 7월 다시 문을 열었습니다. 관람 인원이 정해져 있어 온라인 예약이 필요합니다.|Reopened in July 2026; visitor numbers are capped, so book online.', k: '2026-10' }),
+  'aix-en-provence-h5': v(90, 120, { c: 'mon', s: 'https://www.museegranet-aixenprovence.fr/', n: '매달 첫 일요일은 무료입니다.|Free on the first Sunday of the month.', k: '2026-10' }),
+  'aix-en-provence-h6': v(60, 90, { s: 'https://www.caumont-centredart.com/' }),
   // Marseille
   'marseille-h1': v(30, 45),
   'marseille-h2': v(60, 75, { c: 'daily', b: 'no', n: '입장은 무료입니다.|Entry is free.', k: '2026-10' }),

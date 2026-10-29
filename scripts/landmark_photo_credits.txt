@@ -940,3 +940,11 @@ gateways/gw-lrh.jpg | https://commons.wikimedia.org/wiki/File:EI-DWG_LRH_(287861
 gateways/gw-tmp.jpg | https://commons.wikimedia.org/wiki/File:Tampere_Pirkkala_Airport_Departures_Finland.jpg | CC BY-SA 3.0 | Khaosaming
 gateways/gw-paris-nord.jpg | https://commons.wikimedia.org/wiki/File:Gare_du_Nord_%C3%A0_Paris_le_17_juillet_2015_-_10.jpg | CC BY-SA 3.0 | Lionel Allorge
 gateways/gw-deb.jpg | https://commons.wikimedia.org/wiki/File:Debrecen-apt.jpg | CC BY-SA 4.0 | Keewon
+cities/aix-en-provence.jpg | https://commons.wikimedia.org/wiki/File:Fontaine_de_la_Rotonde_with_Cours_Mirabeau_in_the_distance_Aix_en_Provence_2.jpg | CC BY-SA 3.0 | FrogsLegs71
+highlights/aix-en-provence-1.jpg | https://commons.wikimedia.org/wiki/File:Cours_Mirabeau_20100508_Aix-en-Provence_1.jpg | CC BY-SA 3.0 | Georges Seguin (Okki)
+highlights/aix-en-provence-2.jpg | https://commons.wikimedia.org/wiki/File:Aix-en-Provence_-_La_fontaine_de_la_Rotonde_18.jpg | CC BY-SA 4.0 | René Hourdry
+highlights/aix-en-provence-4.jpg | https://commons.wikimedia.org/wiki/File:Aix-Atelier_C%C3%A9zanne-bjs180816-06.jpg | CC BY-SA 4.0 | Bjs
+highlights/aix-en-provence-5.jpg | https://commons.wikimedia.org/wiki/File:%22Das_Mus%C3%A9e_Granet_z%C3%A4hlt_zu_den_%C3%A4ltesten_und_reichsten_Museen_in_Frankreich%22._01.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/aix-en-provence-6.jpg | https://commons.wikimedia.org/wiki/File:Aix-H%C3%B4tel_de_Caumont-bjs180814-02.jpg | CC BY-SA 4.0 | Bjs
+highlights/krakow-6.jpg | https://commons.wikimedia.org/wiki/File:Auschwitz-Birkenau_gate.jpg | CC BY-SA 4.0 | Dakstor
+highlights/aix-en-provence-3.jpg | https://commons.wikimedia.org/wiki/File:Aix-en-Provence_-_Fa%C3%A7ade_et_clocher_de_la_cath%C3%A9drale_Saint-Sauveur.JPG | CC BY-SA 3.0 | MOSSOT

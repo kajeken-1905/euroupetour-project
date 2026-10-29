@@ -11,6 +11,7 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   marseille: { n: '6~9월에는 산불 위험으로 카랑크 출입이 제한되는 날이 있습니다.|In June–September the Calanques can close on high fire-risk days.' },
   strasbourg: { r: '-ooo++++++oo', n: '11월 말~12월은 크리스마스 마켓 철이라 춥지만 가장 붐빕니다.|Late November and December are cold but busiest, thanks to the Christmas markets.' },
   avignon: { n: '7월 연극제 기간에는 숙박비가 오르고 매우 붐빕니다.|Prices and crowds peak during the July theatre festival.' },
+  'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
   giverny: { r: '---o+++++o--', n: '모네의 집과 정원은 대략 4월부터 11월 초까지만 엽니다.|Monet’s house and gardens open only from about April to early November.' },
   bayeux: { n: '6월 초 노르망디 상륙 기념 주간에는 해변 일대가 붐빕니다.|The D-Day anniversary week in early June is busy around the beaches.' },
   ajaccio: { r: '-ooo++oo++o-', n: '7~8월은 덥고 가장 붐빕니다. 겨울에는 보트 투어가 거의 없습니다.|July–August is hot and busiest; boat trips barely run in winter.' },

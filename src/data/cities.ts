@@ -5289,6 +5289,63 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "aix-en-provence",
+    countryId: "fr",
+    lat: 43.5297,
+    lng: 5.4474,
+    signatureImage: "/cities/aix-en-provence.jpg",
+    name: { ko: "엑상프로방스", en: "Aix-en-Provence" },
+    nativeName: "Aix-en-Provence",
+    blurb: {
+      ko: "분수와 플라타너스 거리의 프로방스 옛 수도. 화가 세잔의 고향입니다.",
+      en: "Provence’s old capital of fountains and plane-tree avenues, and Cézanne’s home town.",
+    },
+    highlights: [
+      {
+        id: "aix-en-provence-h1",
+        name: { ko: "미라보 거리", en: "Cours Mirabeau" },
+        description: { ko: "플라타너스 가로수와 분수, 카페가 늘어선 도시의 중심 대로입니다.", en: "The town’s main avenue of plane trees, fountains and cafés." },
+        image: "/highlights/aix-en-provence-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cours%20Mirabeau%20Aix-en-Provence",
+      },
+      {
+        id: "aix-en-provence-h2",
+        name: { ko: "로통드 분수", en: "Fontaine de la Rotonde" },
+        description: { ko: "1860년에 만든 큰 분수로, 미라보 거리가 시작되는 시내 입구입니다.", en: "The great 1860 fountain at the gateway to town, where the Cours Mirabeau begins." },
+        image: "/highlights/aix-en-provence-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fontaine%20de%20la%20Rotonde%20Aix-en-Provence",
+      },
+      {
+        id: "aix-en-provence-h3",
+        name: { ko: "생소뵈르 대성당", en: "Cathédrale Saint-Sauveur" },
+        description: { ko: "여러 시대의 양식이 겹친 대성당으로 옛 세례당과 회랑이 남아 있습니다.", en: "A cathedral layered with many periods, keeping its early baptistery and cloister." },
+        image: "/highlights/aix-en-provence-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cath%C3%A9drale%20Saint-Sauveur%20Aix-en-Provence",
+      },
+      {
+        id: "aix-en-provence-h4",
+        name: { ko: "세잔 아틀리에", en: "Atelier de Cézanne" },
+        description: { ko: "세잔이 말년에 그림을 그리던 레 로브 언덕의 작업실을 그대로 보존한 곳입니다.", en: "Cézanne’s last studio on the Lauves hill, kept as he left it." },
+        image: "/highlights/aix-en-provence-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Atelier%20de%20C%C3%A9zanne%20Aix-en-Provence",
+      },
+      {
+        id: "aix-en-provence-h5",
+        name: { ko: "그라네 미술관", en: "Musée Granet" },
+        description: { ko: "세잔의 작품과 피카소·자코메티 등 근현대 미술을 모은 미술관입니다.", en: "Museum with works by Cézanne and a modern collection including Picasso and Giacometti." },
+        image: "/highlights/aix-en-provence-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Granet%20Aix-en-Provence",
+      },
+      {
+        id: "aix-en-provence-h6",
+        name: { ko: "코몽 미술관", en: "Hôtel de Caumont" },
+        description: { ko: "18세기 귀족 저택을 꾸민 미술관으로, 기획 전시와 정원 카페가 있습니다.", en: "An 18th-century mansion turned art centre, with temporary exhibitions and a garden café." },
+        image: "/highlights/aix-en-provence-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20de%20Caumont%20Aix-en-Provence",
+      }
+    ],
+  },
+  {
     id: "basel",
     countryId: "ch",
     lat: 47.5596,
@@ -13364,6 +13421,14 @@ export const cities: City[] = [
         description: { ko: "제단화로 유명한 성당입니다.", en: "Basilica famous for its altarpiece." },
         image: "/highlights/krakow-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Mary%20Basilica%20Krak%C3%B3w",
+      },
+      {
+        id: "krakow-h6",
+        name: { ko: "아우슈비츠-비르케나우 박물관", en: "Auschwitz-Birkenau Memorial and Museum" },
+        description: { ko: "나치 독일이 세운 최대의 강제·절멸 수용소 터. 크라쿠프에서 서쪽으로 약 65km 떨어진 오시비엥침에 있는 유네스코 세계유산입니다.", en: "Site of the largest Nazi German concentration and extermination camp, a UNESCO World Heritage Site at Oświęcim, about 65 km west of Kraków." },
+        image: "/highlights/krakow-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auschwitz-Birkenau%20Memorial%20and%20Museum",
+        group: { ko: "근교 당일치기", en: "Day trip" },
       }
     ],
   },

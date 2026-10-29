@@ -555,6 +555,11 @@ export const STAY: Record<string, StayArea[]> = {
     a('성벽 안 구시가', 'Inside the walls (Intra Muros)', 'Palais des Papes, Avignon', '처음 가는 여행에 추천|Best for a first visit', '교황청과 시계 광장, 식당을 걸어서 다닙니다. 주차가 어렵고 7월 축제 때는 몇 달 전에 찹니다.|The Palais des Papes, Place de l’Horloge and restaurants on foot; parking is scarce and rooms fill months ahead for the July festival.'),
     a('빌뇌브레자비뇽', 'Villeneuve-lès-Avignon', 'Villeneuve-lès-Avignon', '조용한 강 건너 마을|Quiet village across the river', '론강 건너 성채 마을로 아비뇽 전망이 좋습니다. 시내까지 버스나 차로 건너가야 합니다.|A fortified village across the Rhône with views of Avignon; take a bus or drive across to the city.'),
   ],
+  'aix-en-provence': [
+    a('구시가', 'Old Town (Vieil Aix)', 'Vieil Aix, Aix-en-Provence', '처음 가는 여행에 추천|Best for a first visit', '미라보 거리와 대성당, 시장, 식당을 걸어서 다닙니다. 옛 저택을 고친 작은 호텔이 많고 골목은 밤까지 활기찹니다.|The Cours Mirabeau, the cathedral, markets and restaurants on foot, with small hotels in old mansions; the lanes stay lively into the evening.'),
+    a('마자랭 지구', 'Quartier Mazarin', 'Quartier Mazarin, Aix-en-Provence', '조용하고 우아한 동네|Quiet and elegant', '미라보 거리 남쪽의 17세기 저택 거리로 그라네·코몽 미술관이 가깝고 구시가보다 조용합니다.|Seventeenth-century streets south of the Cours Mirabeau, near the Granet and Caumont museums and calmer than the old town.'),
+    a('로통드 주변', 'La Rotonde', 'La Rotonde, Aix-en-Provence', '기차·버스 이동이 편함|Handy for trains and buses', '버스터미널과 시내 기차역이 가까워 마르세유나 근교 마을로 오가기 좋습니다.|Close to the bus station and the town railway station, handy for Marseille and day trips.'),
+  ],
   annecy: [
     a('구시가', 'Old Town (Vieille Ville)', 'Vieille Ville, Annecy', '처음 가는 여행에 추천|Best for a first visit', '운하와 골목, 시장과 식당이 모여 있어 걸어서 다닙니다. 관광객이 많고 비싸며 차가 거의 못 들어갑니다.|Canals, lanes, markets and restaurants on foot; touristy, pricey, and mostly closed to cars.'),
     a('안시르비외', 'Annecy-le-Vieux', 'Annecy-le-Vieux', '가족 여행·호숫가|Families and the lake', '호수와 산이 보이는 조용한 주거지라 수영·자전거에 좋습니다. 구시가까지 조금 떨어져 있고 언덕이 있습니다.|Quiet residential streets with lake and mountain views, good for swimming and cycling; not central, and hilly in places.'),

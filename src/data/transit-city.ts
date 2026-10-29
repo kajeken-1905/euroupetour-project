@@ -135,6 +135,17 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  'aix-en-provence': {
+    modes: ['bus', 'train', 'taxi', 'walk'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 시내 버스와 마르세유행 50번 급행버스는 메트로폴 교통망이고, TGV역은 시내에서 40번 셔틀버스로 갑니다.',
+      en: 'Walk the old town. City buses and the express bus 50 to Marseille belong to the metropole network; shuttle bus 40 runs to the TGV station.',
+    },
+    apps: [
+      ta('la-metropole-mobilite', { ko: '노선·실시간·표', en: 'Routes, live times, tickets' }),
+      ta('sncf'),
+    ],
+  },
   toulouse: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {

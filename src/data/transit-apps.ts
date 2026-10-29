@@ -90,6 +90,7 @@ const APP_CATALOG = {
   },
   tcl: { name: 'TCL', url: 'https://www.tcl.fr/', icon: '/transit-apps/tcl.png' },
   rtm: { name: 'RTM', url: 'https://www.rtm.fr/', icon: '/transit-apps/rtm.png' },
+  'la-metropole-mobilite': { name: 'La Métropole Mobilité', url: 'https://apps.apple.com/app/id1516283411', icon: '/transit-apps/la-metropole-mobilite.png' },
   'lignes-azur': { name: "Lignes d'Azur", url: 'https://www.lignesdazur.com/', icon: '/transit-apps/lignes-azur.png' },
   tbm: { name: 'TBM', url: 'https://www.infotbm.com/', icon: '/transit-apps/tbm.png' },
   tisseo: { name: 'Tisséo', url: 'https://www.tisseo.fr/', icon: '/transit-apps/tisseo.png' },

@@ -159,6 +159,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'krakow-h3': v(30, 45, { c: 'mon', s: 'https://mnk.pl/wystawy/mnk-sukiennice/', n: '1층 기념품 상가는 무료이고 2층 미술관은 월요일에 쉽니다.|The ground-floor stalls are free; the gallery upstairs closes on Mondays.', k: '2026-10' }),
   'krakow-h4': v(90, 120),
   'krakow-h5': v(30, 45, { c: 'daily', s: 'https://mariacki.com/en/', n: '관광 입장은 낮 11시 30분 이후이고 유료입니다. 매시 정각에 탑에서 나팔을 붑니다.|Sightseeing entry starts at 11:30 am and is ticketed. A bugle call sounds from the tower every hour.', k: '2026-10' }),
+  'krakow-h6': v(210, 240, { b: 'req', s: 'https://www.auschwitz.org/en/', t: 'https://visit.auschwitz.org/', n: '입장은 무료지만 온라인 예약이 필수입니다(현장 발급 없음). 1월 1일·12월 25일·부활절 일요일은 쉬고, 가방은 35×25×15cm까지만 들고 들어갑니다. 크라쿠프에서 Lajkonik 버스가 박물관 앞까지 가고, 아우슈비츠 I과 비르케나우 사이는 무료 셔틀이 다닙니다.|Entry is free but must be booked online (no cards at the gate). Closed 1 January, 25 December and Easter Sunday; bags up to 35×25×15 cm. Lajkonik buses run from Kraków to the museum, and a free shuttle links Auschwitz I and Birkenau.', k: '2026-10' }),
   // Gdańsk
   'gdansk-h1': v(30, 45),
   'gdansk-h2': v(10, 10),

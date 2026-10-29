@@ -17,6 +17,7 @@ export const itineraryFr: Record<string, RawItinerary> = {
   strasbourg: [1, 4, 2, 5, 3],
   annecy: [2, 3, 5, 4, 1],
   avignon: [4, 1, 3, 2, 5],
+  'aix-en-provence': [2, 1, 6, 5, 3, 4],
   giverny: [2, 3, 1, 4],
   fontainebleau: { days: [['', 2, 1]], trips: [['숲과 바르비종|Forest & Barbizon', 3, 4]] },
   chartres: [1, 2, 3, 4],

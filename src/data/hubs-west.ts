@@ -159,6 +159,14 @@ export const hubsWest: Record<string, RawCityHubs> = {
     ],
     bus: [["Gare routière d'Avignon", '아비뇽 버스터미널']],
   },
+  'aix-en-provence': {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '마리냔 · 셔틀버스 약 30분|Marignane · shuttle bus about 30 min']],
+    rail: [
+      ["Gare d'Aix-en-Provence", '엑상프로방스역', '시내 · 마르세유행 지역 열차|centre · regional trains to Marseille'],
+      ["Gare d'Aix-en-Provence TGV", '엑상프로방스 TGV역', '시 외곽 · TGV|outside town · TGV'],
+    ],
+    bus: [["Gare routière d'Aix-en-Provence", '엑상프로방스 버스터미널']],
+  },
   marseille: {
     air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)']],
     rail: [['Gare de Marseille-Saint-Charles', '마르세유 생샤를역']],
