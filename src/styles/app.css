@@ -4209,3 +4209,9 @@ a.plan-btn {
   text-align: right;
 }
 
+/* "In your route" mark beside a bucket-list city. */
+.trip-in-route {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1f9d55;
+}

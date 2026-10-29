@@ -7,7 +7,7 @@ import { getCity, getPlace, loadedCities, useCountryData } from '../data/country
 import { t } from '../i18n/ui'
 import { directionsUrl } from '../utils/directions'
 import type { City, CityHighlight, Place } from '../types'
-import { clearPlans, mergeTrip, parseTrip, setPlan, useTrip } from '../trip/store'
+import { clearPlans, mergeTrip, parseTrip, setPlan, setRoute, useTrip } from '../trip/store'
 import { mergeVisits, parseVisits, useVisitedPlaces } from '../hooks/useVisitedPlaces'
 
 let highlightCity: Map<string, City> | undefined
@@ -83,6 +83,8 @@ function TripView() {
   }
 
   const empty = plans.length === 0 && groups.size === 0
+  // Cities with saved sights or places that the route does not visit yet, in the order they were saved.
+  const notInRoute = [...groups.keys()].filter((id) => !trip.route.includes(id))
   const beenCount = trip.beenHighlights.length + trip.beenPlaces.length
   const stampCount = Object.keys(visits.countries).length + Object.keys(visits.cities).length
   const nothingToExport = empty && trip.route.length === 0 && beenCount === 0 && stampCount === 0
@@ -204,11 +206,25 @@ function TripView() {
           <p className="section-label">
             {t('favTitle', lang)} {trip.highlights.length + trip.places.length}
           </p>
+          {notInRoute.length > 1 ? (
+            <button type="button" className="plan-btn" onClick={() => setRoute([...trip.route, ...notInRoute])}>
+              {t('favAddAllToRoute', lang).replace('{n}', String(notInRoute.length))}
+            </button>
+          ) : null}
           {[...groups.values()].map(({ city, highlights, places }) => (
             <div key={city.id} className="trip-fav-group">
-              <Link className="trip-city" to={`/city/${city.id}`}>
-                {city.name[lang]} →
-              </Link>
+              <div className="trip-plan-head">
+                <Link className="trip-city" to={`/city/${city.id}`}>
+                  {city.name[lang]} →
+                </Link>
+                {trip.route.includes(city.id) ? (
+                  <span className="trip-in-route">✓ {t('favInRoute', lang)}</span>
+                ) : (
+                  <button type="button" className="plan-btn" onClick={() => setRoute([...trip.route, city.id])}>
+                    + {t('favAddToRoute', lang)}
+                  </button>
+                )}
+              </div>
               <ul className="search-list">
                 {highlights.map((h) => (
                   <li key={h.id} className="trip-fav">
