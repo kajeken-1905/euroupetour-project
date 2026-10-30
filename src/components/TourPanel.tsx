@@ -4,7 +4,7 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { getCity } from '../data/countryData'
 import { getCityRoutes, getRoutesBetween, getSurfacePath } from '../data/routes'
 import { t } from '../i18n/ui'
-import { setRoute, useTrip } from '../trip/store'
+import { setRoute, setRouteDate, useTrip } from '../trip/store'
 import type { City, CityRoute, Lang } from '../types'
 import { search } from '../utils/search'
 import { shareUrl } from '../trip/share'
@@ -79,8 +79,13 @@ export function TourPanel() {
   const [query, setQuery] = useState('')
   const [confirming, setConfirming] = useState(false)
 
-  const stops = trip.route.map((id) => getCity(id)).filter((c): c is City => !!c)
+  // Route entries whose city is known, each keeping its index in the stored route (for its visit date).
+  const entries = trip.route
+    .map((id, index) => ({ city: getCity(id), index }))
+    .filter((e): e is { city: City; index: number } => !!e.city)
+  const stops = entries.map((e) => e.city)
   const ids = stops.map((c) => c.id)
+  const dates = entries.map((e) => trip.routeDates[e.index] ?? '')
   const last = stops[stops.length - 1]
 
   const matches = useMemo(() => (query.trim() ? search(query, 6).city.items : []), [query])
@@ -95,14 +100,17 @@ export function TourPanel() {
     .filter((c): c is City => !!c && !ids.includes(c.id))
 
   const add = (cityId: string) => {
-    setRoute([...ids, cityId])
+    setRoute([...ids, cityId], [...dates, ''])
     setQuery('')
   }
   const move = (index: number, by: number) => {
     const next = [...ids]
+    const nextDates = [...dates]
     const [id] = next.splice(index, 1)
+    const [date] = nextDates.splice(index, 1)
     next.splice(index + by, 0, id)
-    setRoute(next)
+    nextDates.splice(index + by, 0, date)
+    setRoute(next, nextDates)
   }
 
   let known = 0
@@ -160,6 +168,14 @@ export function TourPanel() {
                         <span className="tour-stop-days">{t('tourDays', lang).replace('{n}', String(days))}</span>
                       ) : null}
                     </Link>
+                    <input
+                      className="tour-stop-date"
+                      type="date"
+                      value={dates[i]}
+                      onChange={(e) => setRouteDate(entries[i].index, e.target.value)}
+                      aria-label={`${city.name[lang]} — ${t('tourDate', lang)}`}
+                      title={t('tourDate', lang)}
+                    />
                     <button
                       type="button"
                       className="plan-icon-btn"
@@ -182,7 +198,7 @@ export function TourPanel() {
                       type="button"
                       className="plan-icon-btn"
                       aria-label={`${city.name[lang]} — ${t('tourRemove', lang)}`}
-                      onClick={() => setRoute(ids.filter((_, n) => n !== i))}
+                      onClick={() => setRoute(ids.filter((_, n) => n !== i), dates.filter((_, n) => n !== i))}
                     >
                       ×
                     </button>

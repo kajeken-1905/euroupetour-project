@@ -15,6 +15,8 @@ export interface TripData {
   plans: Record<string, PlanDay[]>
   /** City ids in travel order; a city may appear twice (a round trip). */
   route: string[]
+  /** The day the traveller will actually be in each route city ('YYYY-MM-DD' or ''), same order as `route`. */
+  routeDates: string[]
   /** Highlight ids the traveller has been to. */
   beenHighlights: string[]
   /** Place ids the traveller has been to. */
@@ -24,6 +26,8 @@ export interface TripData {
 export type FavoriteKind = 'highlights' | 'places'
 
 const STORAGE_KEY = 'my-trip-v1'
+
+const ISO_DAY = /^\d{4}-\d{2}-\d{2}$/
 
 const strings = (value: unknown): string[] =>
   Array.isArray(value) ? [...new Set(value.filter((v): v is string => typeof v === 'string'))] : []
@@ -50,17 +54,31 @@ export function parseTrip(value: unknown): TripData | undefined {
     }
   }
   const route = Array.isArray(raw.route) ? raw.route.filter((v): v is string => typeof v === 'string') : []
+  const dates = Array.isArray(raw.routeDates) ? raw.routeDates : []
+  const routeDates = route.map((_, i) => {
+    const d = dates[i]
+    return typeof d === 'string' && ISO_DAY.test(d) ? d : ''
+  })
   return {
     highlights: strings(raw.highlights),
     places: strings(raw.places),
     plans,
     route,
+    routeDates,
     beenHighlights: strings(raw.beenHighlights),
     beenPlaces: strings(raw.beenPlaces),
   }
 }
 
-const EMPTY: TripData = { highlights: [], places: [], plans: {}, route: [], beenHighlights: [], beenPlaces: [] }
+const EMPTY: TripData = {
+  highlights: [],
+  places: [],
+  plans: {},
+  route: [],
+  routeDates: [],
+  beenHighlights: [],
+  beenPlaces: [],
+}
 
 function load(): TripData {
   try {
@@ -124,9 +142,19 @@ export function clearPlans() {
   commit({ ...data, plans: {} })
 }
 
-/** Replace the multi-city route. */
-export function setRoute(route: string[]) {
-  commit({ ...data, route })
+/**
+ * Replace the multi-city route. Without `dates`, a stop keeps its visit date when the same city stays in the same
+ * position (adding cities at the end keeps every date); other stops start without one.
+ */
+export function setRoute(route: string[], dates?: string[]) {
+  const routeDates = route.map((id, i) => (dates ? (dates[i] ?? '') : data.route[i] === id ? (data.routeDates[i] ?? '') : ''))
+  commit({ ...data, route, routeDates })
+}
+
+/** Set or clear ('') the visit date of the route stop at `index`. */
+export function setRouteDate(index: number, date: string) {
+  const routeDates = data.route.map((_, i) => (i === index ? date : (data.routeDates[i] ?? '')))
+  commit({ ...data, routeDates })
 }
 
 /** Merge an imported backup: favourites and visited marks are combined; plans for the same city and a non-empty route come from the file. */
@@ -136,6 +164,7 @@ export function mergeTrip(incoming: TripData) {
     places: [...new Set([...data.places, ...incoming.places])],
     plans: { ...data.plans, ...incoming.plans },
     route: incoming.route.length > 0 ? incoming.route : data.route,
+    routeDates: incoming.route.length > 0 ? incoming.routeDates : data.routeDates,
     beenHighlights: [...new Set([...data.beenHighlights, ...incoming.beenHighlights])],
     beenPlaces: [...new Set([...data.beenPlaces, ...incoming.beenPlaces])],
   })

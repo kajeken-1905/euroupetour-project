@@ -3363,6 +3363,18 @@ button.back-link {
   text-decoration: none;
 }
 
+.tour-stop-date {
+  flex: 0 0 auto;
+  width: 132px;
+  padding: 4px 6px;
+  border: 1px solid var(--line, #ddd);
+  border-radius: 8px;
+  background: #fff;
+  color: inherit;
+  font: inherit;
+  font-size: 13px;
+}
+
 .tour-stop-days {
   margin-left: 8px;
   color: var(--muted);

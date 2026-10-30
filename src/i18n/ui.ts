@@ -426,6 +426,7 @@ export const ui = {
   tourDays: { ko: '내 일정 {n}일', en: '{n}-day plan' },
   tourClear: { ko: '경로 지우기', en: 'Clear route' },
   tourRemove: { ko: '경로에서 빼기', en: 'Remove from route' },
+  tourDate: { ko: '방문 날짜', en: 'Visit date' },
   tourAddCity: { ko: '여행 경로에 추가', en: 'Add to my route' },
   tourInRoute: { ko: '여행 경로에 있음 · 보기', en: 'In my route · view' },
   favTitle: { ko: '버킷리스트', en: 'Bucket list' },
