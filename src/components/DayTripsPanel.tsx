@@ -38,7 +38,7 @@ export function DayTripsPanel({ cityId }: { cityId: string }) {
                         </>
                       ) : trip.how ? (
                         <>
-                          <span aria-hidden>🚗</span> {text(trip.how, lang)}
+                          <span aria-hidden>{trip.mode ? MODE_ICON[trip.mode] : '🚗'}</span> {text(trip.how, lang)}
                         </>
                       ) : null}
                     </span>

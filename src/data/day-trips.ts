@@ -3,11 +3,15 @@
  * routes (routes-*.ts); `how` is shown instead when there is no public-transport entry (car or tour only).
  * Text is 'ko|en'.
  */
+import type { RouteMode } from '../types'
+
 export interface RawDayTrip {
   to: string
   tip: string
   /** shown instead of a route, e.g. '차·투어로 약 45분|About 45 min by car or tour' */
   how?: string
+  /** icon for `how` when it is not by car */
+  mode?: RouteMode
 }
 
 export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
@@ -213,6 +217,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'pompeii',
       how: '기차로 나폴리 경유 약 2시간|About 2 hrs by train via Naples',
+      mode: 'train',
       tip: '나폴리에서 시르쿰베수비아나 열차로 갈아탑니다. 유적이 넓어 반나절 이상 걸리니 아침 일찍 출발하세요.|Change at Naples to the Circumvesuviana; the site is huge and takes at least half a day, so leave early.',
     },
     {
