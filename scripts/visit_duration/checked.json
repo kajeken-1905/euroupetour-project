@@ -1,4 +1,8 @@
 {
+"aigues-mortes-h1": [
+90,
+120
+],
 "amboise-h1": [
 90,
 120
@@ -14,6 +18,8 @@
 150
 ],
 "annecy-h4": "ok",
+"arles-h1": "ok",
+"arles-h5": "nodata",
 "assisi-h1": [
 90,
 120
@@ -77,11 +83,24 @@
 90,
 120
 ],
+"carcassonne-h2": "ok",
 "cardiff-h1": "ok",
 "cardiff-h4": "ok",
+"cassis-h2": [
+45,
+110
+],
+"cassis-h3": [
+180,
+300
+],
 "catania-h4": "nodata",
 "cesky-krumlov-h1": "ok",
 "chartres-h1": "ok",
+"collioure-h2": [
+90,
+120
+],
 "cologne-h1": "ok",
 "cologne-h4": "ok",
 "como-h4": "ok",
@@ -141,6 +160,10 @@
 180
 ],
 "glasgow-h4": "nodata",
+"gordes-h2": [
+45,
+90
+],
 "goreme-h2": [
 120,
 150
@@ -196,6 +219,8 @@
 "kutaisi-h2": "ok",
 "kyiv-h2": "ok",
 "lausanne-h3": "ok",
+"les-baux-de-provence-h1": "ok",
+"les-baux-de-provence-h2": "ok",
 "limassol-h2": "ok",
 "limerick-h1": "ok",
 "limerick-h3": "ok",
@@ -255,11 +280,14 @@
 "munich-h3": "ok",
 "nafplio-h1": "ok",
 "naples-h2": "ok",
+"narbonne-h5": "nodata",
 "nice-h5": "ok",
 "nicosia-h4": [
 90,
 120
 ],
+"nimes-h3": "ok",
+"nimes-h5": "ok",
 "nis-h1": "ok",
 "novi-sad-h1": "ok",
 "nuremberg-h1": [
@@ -287,6 +315,7 @@
 "paris-h7": "ok",
 "parma-h3": "ok",
 "peja-h2": "nodata",
+"perpignan-h1": "ok",
 "perugia-h2": "ok",
 "plovdiv-h1": "nodata",
 "portofino-h2": "nodata",

@@ -598,15 +598,40 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   'isle-sur-la-sorgue': [
     a('구시가', 'Old town', 'Centre-ville', '처음 가는 여행에 추천|Best for a first visit', '물길로 둘러싸인 섬 같은 구시가로 시장과 식당이 모두 걸어서 닿습니다.|The island-like old town inside the canals, with the market and restaurants on foot.'),
-    a('아비뇽에서 다녀오기', 'Base in Avignon', 'Avignon', '거점에서 다녀오기|Day trip from a base', '아비뇽에 묵고 지역 열차로 약 30분 걸려 다녀옵니다.|Stay in Avignon and take the regional train, about 30 minutes.'),
+    a('아비뇽에서 다녀오기', 'Base in Avignon', 'Avignon', '거점에서 다녀오기|Day trip from a base', '아비뇽에 묵고 지역 열차로 약 25분 걸려 다녀옵니다.|Stay in Avignon and take the regional train, about 25 minutes.'),
   ],
   cassis: [
     a('항구 주변', 'Around the port', 'Port de Cassis', '마을에서 묵기|Stay in the village', '항구 식당과 유람선 선착장이 바로 앞이지만 여름엔 비쌉니다.|Right by the restaurants and boat departures, but pricey in summer.'),
-    a('마르세유에서 다녀오기', 'Base in Marseille', 'Marseille', '거점에서 다녀오기|Day trip from a base', '마르세유에 묵고 기차로 약 25분, 역에서 버스로 항구까지 갑니다.|Stay in Marseille: about 25 minutes by train, then a bus from the station to the port.'),
+    a('마르세유에서 다녀오기', 'Base in Marseille', 'Marseille', '거점에서 다녀오기|Day trip from a base', '마르세유에 묵고 기차로 약 20분, 역에서 버스로 항구까지 갑니다.|Stay in Marseille: about 20 minutes by train, then a bus from the station to the port.'),
   ],
   'moustiers-sainte-marie': [
     a('마을에서 묵기', 'In the village', 'Moustiers-Sainte-Marie', '마을에서 묵기|Stay in the village', '협곡과 호수를 함께 보려면 마을이나 주변에 묵는 편이 좋습니다.|To see both the gorge and the lake, stay in or near the village.'),
     a('엑상프로방스에서 다녀오기', 'Base in Aix-en-Provence', 'Aix-en-Provence', '거점에서 다녀오기|Day trip from a base', '차로 약 1시간 40분이라 하루 일정이 깁니다. 대중교통은 거의 없습니다.|About 1 hr 40 min by car, so it makes a long day; there is almost no public transport.'),
+  ],
+  carcassonne: [
+    a('라 시테 안', 'Inside the Cité', 'La Cité', '분위기를 원한다면|For atmosphere', '성벽 안에 묵으면 관광객이 빠진 밤과 아침의 시테를 볼 수 있지만 차로 오가기 불편합니다.|Sleep inside the walls to see the Cité at night and dawn, though access by car is awkward.'),
+    a('바스티드 생루이', 'Bastide Saint-Louis', 'Bastide Saint-Louis', '기차로 오는 여행에 추천|Best if arriving by train', '기차역과 가깝고 식당이 많으며 시테까지 걸어서 약 25분입니다.|Close to the station with plenty of restaurants; about 25 minutes on foot to the Cité.'),
+  ],
+  narbonne: [
+    a('구시가', 'Old town', 'Centre historique', '처음 가는 여행에 추천|Best for a first visit', '운하 양쪽 구시가로 대성당과 시장이 모두 걸어서 닿습니다.|The old town on both sides of the canal, with the cathedral and market on foot.'),
+  ],
+  perpignan: [
+    a('구시가', 'Old town', 'Centre historique', '처음 가는 여행에 추천|Best for a first visit', '카스티예와 로주 광장 주변으로 볼거리와 식당이 걸어서 닿습니다.|Around the Castillet and Place de la Loge, with sights and restaurants on foot.'),
+  ],
+  collioure: [
+    a('마을에서 묵기', 'In the village', 'Collioure', '마을에서 묵기|Stay in the village', '숙소가 적고 여름엔 비싸지만, 저녁 항구 풍경을 볼 수 있습니다.|Few, pricey summer rooms, but you get the harbour in the evening.'),
+    a('페르피냥에서 다녀오기', 'Base in Perpignan', 'Perpignan', '거점에서 다녀오기|Day trip from a base', '페르피냥에 묵고 지역 열차로 약 25분 걸려 다녀옵니다.|Stay in Perpignan and take the regional train, about 25 minutes.'),
+  ],
+  sete: [
+    a('운하 주변 시내', 'Canal-side centre', 'Centre-ville', '처음 가는 여행에 추천|Best for a first visit', '운하를 따라 식당과 시장이 모여 있고 기차역도 걸어서 갑니다.|Restaurants and the market along the canals, with the station on foot.'),
+    a('몽펠리에에서 다녀오기', 'Base in Montpellier', 'Montpellier', '거점에서 다녀오기|Day trip from a base', '몽펠리에에 묵고 기차로 약 20분 걸려 다녀옵니다.|Stay in Montpellier and take the train, about 20 minutes.'),
+  ],
+  'aigues-mortes': [
+    a('성벽 안에서 묵기', 'Inside the walls', 'Aigues-Mortes', '마을에서 묵기|Stay in the village', '성벽 안 작은 호텔에 묵으면 저녁의 조용한 마을을 볼 수 있습니다.|Small hotels inside the walls give you the quiet town in the evening.'),
+    a('님이나 몽펠리에에서 다녀오기', 'Base in Nîmes or Montpellier', 'Nîmes · Montpellier', '거점에서 다녀오기|Day trip from a base', '님에서 지역 열차로 약 45분, 몽펠리에에서 버스로 다녀옵니다.|About 45 minutes by regional train from Nîmes, or by bus from Montpellier.'),
+  ],
+  nimes: [
+    a('구시가(에퀴송)', 'Old town (Écusson)', 'L\'Écusson', '처음 가는 여행에 추천|Best for a first visit', '원형경기장과 메종 카레 사이의 구시가로 볼거리와 식당이 걸어서 닿습니다.|The old town between the arena and the Maison Carrée, with sights and restaurants on foot.'),
   ],
   annecy: [
     a('구시가', 'Old Town (Vieille Ville)', 'Vieille Ville, Annecy', '처음 가는 여행에 추천|Best for a first visit', '운하와 골목, 시장과 식당이 모여 있어 걸어서 다닙니다. 관광객이 많고 비싸며 차가 거의 못 들어갑니다.|Canals, lanes, markets and restaurants on foot; touristy, pricey, and mostly closed to cars.'),

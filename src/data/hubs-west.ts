@@ -235,6 +235,33 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 1시간 40분|about 1 hr 40 min by car']],
     rail: [['Gare de Manosque - Gréoux-les-Bains', '마노스크역', '약 50km · 차|about 50 km · car']],
   },
+  carcassonne: {
+    air: [['Carcassonne (CCF)', '카르카손 공항 (CCF)', '시내까지 셔틀버스|shuttle bus to town']],
+    rail: [['Gare de Carcassonne', '카르카손역', '바스티드 생루이 · 시테까지 버스나 걸어서 약 25분|in the lower town · bus or about 25 min walk to the Cité']],
+  },
+  narbonne: {
+    rail: [['Gare de Narbonne', '나르본역', '시내까지 걸어서 약 10분|about 10 min walk to the centre']],
+  },
+  perpignan: {
+    air: [['Perpignan-Rivesaltes (PGF)', '페르피냥 공항 (PGF)', '시내까지 버스|bus to town']],
+    rail: [['Gare de Perpignan', '페르피냥역', 'TGV · 스페인행|TGV · trains to Spain']],
+  },
+  collioure: {
+    rail: [['Gare de Collioure', '콜리우르역', '페르피냥행 지역 열차|regional trains to Perpignan']],
+  },
+  sete: {
+    air: [['Montpellier Méditerranée (MPL)', '몽펠리에 공항 (MPL)', '차로 약 35분|about 35 min by car']],
+    rail: [['Gare de Sète', '세트역', '운하 북쪽 · 시내까지 걸어서 약 15분|north of the canals · about 15 min walk']],
+    port: [['Port de Sète', '세트 항구', '모로코행 페리|ferries to Morocco']],
+  },
+  'aigues-mortes': {
+    air: [['Montpellier Méditerranée (MPL)', '몽펠리에 공항 (MPL)', '차로 약 35분|about 35 min by car']],
+    rail: [['Gare d\'Aigues-Mortes', '에그모르트역', '님행 지역 열차|regional trains to Nîmes']],
+  },
+  nimes: {
+    air: [['Nîmes-Alès-Camargue-Cévennes (FNI)', '님 공항 (FNI)', '시내까지 셔틀버스|shuttle bus to town']],
+    rail: [['Gare de Nîmes-Centre', '님 상트르역', '시내 · TGV|centre · TGV'], ['Gare de Nîmes Pont-du-Gard', '님 퐁뒤가르역', '시 외곽 · 일부 TGV|outside town · some TGVs']],
+  },
   ajaccio: {
     air: [['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 나폴레옹 보나파르트 공항 (AJA)']],
     rail: [["Gare d'Ajaccio", '아작시오역']],

@@ -1024,3 +1024,43 @@ highlights/moustiers-sainte-marie-2.jpg | https://commons.wikimedia.org/wiki/Fil
 highlights/moustiers-sainte-marie-3.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9eDeLaFa%C3%AFenceDeMoustiers-Entree.jpg | CC BY-SA 4.0 | O.Taris
 highlights/moustiers-sainte-marie-4.jpg | https://commons.wikimedia.org/wiki/File:Bauduen_Sainte-Croix.JPG | CC BY-SA 3.0 | Ianaré Sévi
 highlights/moustiers-sainte-marie-5.jpg | https://commons.wikimedia.org/wiki/File:Grand_canyon_du_Verdon_-_panoramio_(16).jpg | CC BY 3.0 | avu-edm
+cities/carcassonne.jpg | https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.jpg | CC BY-SA 4.0 | Chensiyuan
+highlights/carcassonne-1.jpg | https://commons.wikimedia.org/wiki/File:Beaux-Arts_de_Carcassonne_-_La_Cit%C3%A9_de_Carcassonne_-_Emile_Roumens.jpg | Public domain | Didier Descouens
+highlights/carcassonne-2.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_comtal_(50302935447).jpg | CC BY 2.0 | Marmontel
+highlights/carcassonne-3.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_Basilique_Saint-Nazaire_de_Carcassonne_07.jpg | CC BY-SA 4.0 | John Samuel
+highlights/carcassonne-4.jpg | https://commons.wikimedia.org/wiki/File:Carcassonne_Cite.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)
+highlights/carcassonne-5.jpg | https://commons.wikimedia.org/wiki/File:Fontaine_monumentale_(Carcassonne).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/carcassonne-6.jpg | https://commons.wikimedia.org/wiki/File:Canal_du_Midi_in_Carcassonne_02.jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/narbonne.jpg | https://commons.wikimedia.org/wiki/File:Narbonne_Canal_de_la_Robine_from_Boulevard_Gambetta.jpg | CC BY-SA 3.0 | MartinD
+highlights/narbonne-1.jpg | https://commons.wikimedia.org/wiki/File:Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg | CC BY-SA 3.0 | Benh LIEU SONG
+highlights/narbonne-2.jpg | https://commons.wikimedia.org/wiki/File:Palais_des_Archev%C3%AAques_de_Narbonne.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/narbonne-3.jpg | https://commons.wikimedia.org/wiki/File:Via_Domitia_Narbonne.jpg | CC BY-SA 3.0 | Ptitgonevx
+highlights/narbonne-4.jpg | https://commons.wikimedia.org/wiki/File:Narbonne_market_hall.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/narbonne-5.jpg | https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_Narbo_Via.jpg | CC BY-SA 4.0 | Anthony Morel
+cities/perpignan.jpg | https://commons.wikimedia.org/wiki/File:Perpignan_Castillet_North_facade.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/perpignan-1.jpg | https://commons.wikimedia.org/wiki/File:Le_Palais_des_Rois_de_Majorque_(Perpignan)_(8839288601).jpg | CC BY 2.0 | Jean-Pierre Dalbéra from Paris, France
+highlights/perpignan-2.jpg | https://commons.wikimedia.org/wiki/File:Perpignan_Castillet_North_facade.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/perpignan-3.jpg | https://commons.wikimedia.org/wiki/File:Perpignan_Campo_Santo_Cath%C3%A9drale.jpg | CC BY-SA 3.0 | Cayambe
+highlights/perpignan-4.jpg | https://commons.wikimedia.org/wiki/File:La_Loge_de_mer.jpg | CC BY-SA 4.0 | © Service Photo - Ville de Perpignan
+cities/collioure.jpg | https://commons.wikimedia.org/wiki/File:Collioure_Noel_2018_2.jpg | CC BY-SA 4.0 | Mathieu BROSSAIS
+highlights/collioure-1.jpg | https://commons.wikimedia.org/wiki/File:Collioure_-_Boulevard_du_Boramar_-_View_East_towards_%C3%89glise_Notre_Dame_des_Anges.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/collioure-2.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_royal_de_Collioure_2.jpg | CC BY-SA 3.0 | Mikipons
+highlights/collioure-3.jpg | https://commons.wikimedia.org/wiki/File:Henri_matisse_collioure_en_ao251t113936).jpg | Public domain | Henri Matisse
+highlights/collioure-4.jpg | https://commons.wikimedia.org/wiki/File:Fort_Saint-Elme_05.jpg | CC BY-SA 3.0 | Miniwark
+cities/sete.jpg | https://commons.wikimedia.org/wiki/File:Nao_Victoria_moored_in_S%C3%A8te_01.jpg | CC BY 4.0 | Christian Ferrer
+highlights/sete-1.jpg | https://commons.wikimedia.org/wiki/File:Canal_de_la_Peyrade,_S%C3%A8te,_H%C3%A9rault_01.jpg | CC BY-SA 3.0 | Christian Ferrer
+highlights/sete-2.jpg | https://commons.wikimedia.org/wiki/File:Phare_du_Mont-Saint-Clair,_S%C3%A8te,_H%C3%A9rault_06.jpg | CC BY-SA 3.0 | Christian Ferrer
+highlights/sete-3.jpg | https://commons.wikimedia.org/wiki/File:Cimeti%C3%A8re_marin,_S%C3%A8te,_H%C3%A9rault_02.jpg | CC BY-SA 4.0 | Christian Ferrer
+highlights/sete-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Dapper,_35_bis_rue_Paul-Val%C3%A9ry,_Paris_16e_3.jpg | CC BY-SA 4.0 | Celette
+highlights/sete-5.jpg | https://commons.wikimedia.org/wiki/File:%C3%89tang_de_Thau_and_S%C3%A8te.jpg | CC BY 4.0 | Christian Ferrer
+cities/aigues-mortes.jpg | https://commons.wikimedia.org/wiki/File:Aigues-Mortes_-_Ramparts_at_sunset_-_07.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/aigues-mortes-1.jpg | https://commons.wikimedia.org/wiki/File:Aigues-Mortes_Tour_de_Constance_DSC_0042w.jpg | CC BY-SA 3.0 | P e z i
+highlights/aigues-mortes-2.jpg | https://commons.wikimedia.org/wiki/File:Salins_Aigues-Mortes_06.jpg | CC BY-SA 4.0 | Chabe01
+highlights/aigues-mortes-3.jpg | https://commons.wikimedia.org/wiki/File:Aigues-Mortes_-_Place_Saint-Louis_-_02.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/aigues-mortes-4.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_l%27Espiguette_04.jpg | CC BY 4.0 | Christian Ferrer
+cities/nimes.jpg | https://commons.wikimedia.org/wiki/File:Arenes_de_Nimes_panorama.jpg | CC BY 2.0 | Wolfgang Staudt from Saarbruecken, Germany
+highlights/nimes-1.jpg | https://commons.wikimedia.org/wiki/File:Arenes_de_Nimes_(19).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/nimes-2.jpg | https://commons.wikimedia.org/wiki/File:Maison_Carree_in_Nimes_(16).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/nimes-3.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_la_Romanit%C3%A9_de_N%C3%AEmes.jpeg | CC BY-SA 4.0 | Peter Glyn
+highlights/nimes-4.jpg | https://commons.wikimedia.org/wiki/File:Jardins_de_la_Fontaine_in_Nimes_13.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/nimes-5.jpg | https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)

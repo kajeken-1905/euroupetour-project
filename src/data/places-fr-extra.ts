@@ -129,6 +129,22 @@ export const placesFRExtra: Place[] = [
   place('cassis-fine_dining-1', 'cassis', 'fine_dining', 'La Villa Madie', 'Avenue du Revestel, Anse de Corton, 13260 Cassis', '카나유 곶 아래 작은 만을 내려다보는 미쉐린 3스타 레스토랑입니다.', 'Michelin three-star restaurant overlooking a small cove below Cap Canaille.', { michelin: 'star3' }),
   // —— moustiers-sainte-marie ——
   place('moustiers-sainte-marie-fine_dining-1', 'moustiers-sainte-marie', 'fine_dining', 'La Bastide de Moustiers', 'Chemin de Quinson, 04360 Moustiers-Sainte-Marie', '알랭 뒤카스의 시골 저택 호텔 안 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant in Alain Ducasse’s country-house hotel.', { michelin: 'star1' }),
+  // —— carcassonne ——
+  place('carcassonne-fine_dining-1', 'carcassonne', 'fine_dining', 'La Table de Franck Putelat', '80 Chemin des Anglais, 11000 Carcassonne', '시테 남쪽 아래의 미쉐린 2스타 레스토랑. 셰프 프랑크 퓌틀라의 창작 요리를 냅니다.', 'Michelin two-star restaurant just south of the Cité, with creative cooking by chef Franck Putelat.', { michelin: 'star2' }),
+  // —— narbonne ——
+  place('narbonne-fine_dining-1', 'narbonne', 'fine_dining', 'La Table Lionel Giraud', '68 Avenue du Général Leclerc, 11100 Narbonne', '셰프 리오넬 지로의 미쉐린 2스타 레스토랑입니다.', 'Michelin two-star restaurant of chef Lionel Giraud.', { michelin: 'star2' }),
+  place('narbonne-fine_dining-2', 'narbonne', 'fine_dining', 'Cave à Vin & à Manger - Maison Saint-Crescent', '68 Avenue du Général Leclerc, 11100 Narbonne', '같은 건물의 와인 바 겸 식당으로 미쉐린 빕 구르망입니다.', 'Michelin Bib Gourmand wine bar and restaurant in the same house.', { michelin: 'bib' }),
+  // —— perpignan ——
+  place('perpignan-fine_dining-1', 'perpignan', 'fine_dining', 'La Galinette', '23 Rue Jean Payra, 66000 Perpignan', '셰프 크리스토프 콤의 미쉐린 1스타 레스토랑. 자기 텃밭 채소가 중심입니다.', 'Michelin one-star restaurant of chef Christophe Comes, built around vegetables from his own garden.', { michelin: 'star1' }),
+  // —— collioure ——
+  place('collioure-fine_dining-1', 'collioure', 'fine_dining', 'La Balette', 'Route de Port-Vendres, 66190 Collioure', '마을과 바다를 내려다보는 미쉐린 1스타 레스토랑. 셰프 로랑 르말의 지중해 요리입니다.', 'Michelin one-star restaurant overlooking the village and sea, with Mediterranean cooking by chef Laurent Lemal.', { michelin: 'star1' }),
+  // —— sete ——
+  place('sete-fine_dining-1', 'sete', 'fine_dining', 'Quai 17', '17 Quai Maréchal de Lattre de Tassigny, 34200 Sète', '운하 가의 미쉐린 빕 구르망 지중해 요리 식당입니다.', 'Michelin Bib Gourmand Mediterranean restaurant on the canal.', { michelin: 'bib' }),
+  place('sete-fine_dining-2', 'sete', 'fine_dining', 'Paris Méditerranée', '47 Rue Pierre Sémard, 34200 Sète', '미쉐린 빕 구르망에 오른 현대 요리 비스트로입니다.', 'Michelin Bib Gourmand bistro of modern cooking.', { michelin: 'bib' }),
+  // —— nimes ——
+  place('nimes-fine_dining-1', 'nimes', 'fine_dining', 'Duende', 'Maison Albar Hotels L\'Imperator, Quai de la Fontaine, 30900 Nîmes', '호텔 로페라토르 안의 미쉐린 2스타 레스토랑. 피에르 가니에르와 함께해 온 셰프 니콜라 퐁텐의 요리입니다.', 'Michelin two-star restaurant in the Imperator hotel, with cooking by chef Nicolas Fontaine, long Pierre Gagnaire’s right hand.', { michelin: 'star2' }),
+  place('nimes-fine_dining-2', 'nimes', 'fine_dining', 'Skab', '7 Rue de la République, 30000 Nîmes', '셰프 다미앵 산체스의 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant of chef Damien Sanchez.', { michelin: 'star1' }),
+  place('nimes-fine_dining-3', 'nimes', 'fine_dining', 'Jérôme Nutile', '351 Chemin Bas du Mas de Boudan, 30000 Nîmes', '프랑스 명장(MOF) 셰프 제롬 뉘틸의 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant of chef Jérôme Nutile, a Meilleur Ouvrier de France.', { michelin: 'star1' }),
   // —— avignon ——
   place('avignon-fine_dining-1', 'avignon', 'fine_dining', 'La Mirande', '4 Place de l’Amirande, 84000 Avignon', '교황청 뒤편 호텔 라 미랑드의 레스토랑. 미쉐린 가이드에 실려 있고 목~일요일에 엽니다.', 'Restaurant of the Hôtel La Mirande behind the Papal Palace, listed in the MICHELIN Guide; open Thursday to Sunday.', { image: '/places/avignon-fine_dining-1.jpg' }),
   place('avignon-fine_dining-2', 'avignon', 'fine_dining', 'Pollen', '18 Rue Joseph Vernet, 84000 Avignon', '미쉐린 1스타 레스토랑. 제철 지역 재료로 만드는 서프라이즈 코스를 내고 주말은 쉽니다.', 'Michelin one-star restaurant serving a surprise menu built on seasonal local produce; closed weekends.', { michelin: 'star1' }),

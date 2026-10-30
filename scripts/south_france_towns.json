@@ -1090,7 +1090,7 @@
     5,
     6
    ],
-   "season": "7월 초 사진 축제(Rencontres d'Arles)와 부활절·9월 페리아 때 숙소가 빨리 찹니다.|Rooms fill fast during the early-July photography festival and the Easter and September ferias.",
+   "season": "7월 초 아를 사진 축제(Rencontres d'Arles, 전시는 10월 초까지) 개막 주간과 부활절·9월 페리아 때 숙소가 빨리 찹니다.|Rooms fill fast during the opening week of the photography festival in early July (exhibitions run to early October) and the Easter and September ferias.",
    "stay": [
     [
      "구시가",
@@ -1121,7 +1121,7 @@
      "marseille",
      "arles",
      "train",
-     50,
+     55,
      false,
      "마르세유 생샤를역|Marseille-Saint-Charles",
      "아를역|Arles"
@@ -1333,10 +1333,10 @@
      "den": "A 12th-century Cistercian abbey famous for the lavender field in front.",
      "maps": "Abbaye Notre-Dame de Sénanque",
      "visit": {
-      "min": 30,
-      "max": 60,
+      "min": 45,
+      "max": 90,
       "s": "https://www.senanque.fr/",
-      "n": "라벤더는 보통 6월 말~7월 중순에 핍니다.|Lavender usually flowers from late June to mid-July."
+      "n": "라벤더는 보통 6월 말~7월 중순에 핍니다. 수도원 안은 예약한 가이드 투어(약 1시간)로만 볼 수 있습니다.|Lavender usually flowers from late June to mid-July. The abbey interior is seen only on a booked guided tour (about 1 hour)."
      }
     },
     {
@@ -1539,7 +1539,7 @@
      "Base in Avignon",
      "Avignon",
      "거점에서 다녀오기|Day trip from a base",
-     "아비뇽에 묵고 지역 열차로 약 30분 걸려 다녀옵니다.|Stay in Avignon and take the regional train, about 30 minutes."
+     "아비뇽에 묵고 지역 열차로 약 25분 걸려 다녀옵니다.|Stay in Avignon and take the regional train, about 25 minutes."
     ]
    ],
    "routes": [
@@ -1547,7 +1547,7 @@
      "avignon",
      "isle-sur-la-sorgue",
      "train",
-     30,
+     25,
      false,
      "아비뇽 상트르역|Avignon-Centre",
      "릴-퐁텐드보클뤼즈역|L'Isle - Fontaine-de-Vaucluse"
@@ -1610,7 +1610,8 @@
      "maps": "Croisière Calanques Cassis",
      "visit": {
       "min": 45,
-      "max": 90
+      "max": 110,
+      "n": "3곳을 도는 배는 약 45분~1시간, 8곳은 약 1시간 30분~1시간 50분 걸립니다.|Three-calanque trips take about 45–60 minutes, eight-calanque trips about 1 h 30–1 h 50."
      }
     },
     {
@@ -1620,8 +1621,8 @@
      "den": "A national-park trail down to emerald coves; wear proper shoes.",
      "maps": "Calanque d'En-Vau",
      "visit": {
-      "min": 120,
-      "max": 240,
+      "min": 180,
+      "max": 300,
       "s": "https://www.calanques-parc-national.fr/",
       "n": "6~9월에는 산불 위험이 큰 날 출입이 막힐 수 있어 전날 확인하세요.|In June–September access can close on high fire-risk days; check the day before."
      }
@@ -1674,7 +1675,7 @@
      "Base in Marseille",
      "Marseille",
      "거점에서 다녀오기|Day trip from a base",
-     "마르세유에 묵고 기차로 약 25분, 역에서 버스로 항구까지 갑니다.|Stay in Marseille: about 25 minutes by train, then a bus from the station to the port."
+     "마르세유에 묵고 기차로 약 20분, 역에서 버스로 항구까지 갑니다.|Stay in Marseille: about 20 minutes by train, then a bus from the station to the port."
     ]
    ],
    "routes": [
@@ -1682,7 +1683,7 @@
      "marseille",
      "cassis",
      "train",
-     25,
+     22,
      false,
      "마르세유 생샤를역|Marseille-Saint-Charles",
      "카시스역|Cassis",
@@ -1849,6 +1850,1083 @@
      "addr": "Chemin de Quinson, 04360 Moustiers-Sainte-Marie",
      "ko": "알랭 뒤카스의 시골 저택 호텔 안 미쉐린 1스타 레스토랑입니다.",
      "en": "Michelin one-star restaurant in Alain Ducasse’s country-house hotel.",
+     "michelin": "star1"
+    }
+   ]
+  }
+ ],
+ "lang": [
+  {
+   "id": "carcassonne",
+   "after": "toulouse",
+   "ko": "카르카손",
+   "en": "Carcassonne",
+   "native": "Carcassonne",
+   "lat": 43.213,
+   "lng": 2.3491,
+   "blurb": [
+    "겹겹의 성벽과 52개 탑이 둘러싼 중세 성채 도시입니다.",
+    "A medieval fortress city ringed by double walls and 52 towers."
+   ],
+   "highlights": [
+    {
+     "ko": "라 시테",
+     "en": "La Cité",
+     "dko": "이중 성벽 안의 중세 마을로 돌길을 따라 상점과 식당이 이어집니다.",
+     "den": "The medieval town inside the double walls, with shops and restaurants along cobbled lanes.",
+     "maps": "La Cité de Carcassonne",
+     "visit": {
+      "min": 120,
+      "max": 180
+     }
+    },
+    {
+     "ko": "콩탈 성과 성벽",
+     "en": "Château Comtal and ramparts",
+     "dko": "시테 안의 성으로 입장권을 사면 성벽 위 길을 따라 걸을 수 있습니다.",
+     "den": "The castle inside the Cité; a ticket also lets you walk along the ramparts.",
+     "maps": "Château Comtal Carcassonne",
+     "visit": {
+      "min": 60,
+      "max": 90,
+      "s": "https://www.remparts-carcassonne.fr/"
+     }
+    },
+    {
+     "ko": "생나제르 성당",
+     "en": "Basilica of Saint-Nazaire",
+     "dko": "시테 안의 성당으로 고딕 스테인드글라스가 아름답습니다.",
+     "den": "The church inside the Cité, known for its Gothic stained glass.",
+     "maps": "Basilique Saint-Nazaire Carcassonne",
+     "visit": {
+      "min": 20,
+      "max": 30
+     }
+    },
+    {
+     "ko": "옛 다리",
+     "en": "Pont Vieux",
+     "dko": "오드강을 건너는 14세기 돌다리로, 시테 전경을 보기 좋은 곳입니다.",
+     "den": "A 14th-century stone bridge over the Aude with a classic view of the Cité.",
+     "maps": "Pont Vieux Carcassonne",
+     "visit": {
+      "min": 15,
+      "max": 30
+     }
+    },
+    {
+     "ko": "바스티드 생루이",
+     "en": "Bastide Saint-Louis",
+     "dko": "강 건너 아랫마을로 바둑판 거리와 카르노 광장 장터가 있습니다.",
+     "den": "The lower town across the river, with grid streets and the market on Place Carnot.",
+     "maps": "Place Carnot Carcassonne",
+     "visit": {
+      "min": 45,
+      "max": 60
+     }
+    },
+    {
+     "ko": "미디 운하",
+     "en": "Canal du Midi",
+     "dko": "기차역 앞을 지나는 17세기 운하로 세계유산입니다. 운하 유람선을 탈 수 있습니다.",
+     "den": "The 17th-century World Heritage canal running past the station, with boat trips.",
+     "maps": "Canal du Midi Carcassonne",
+     "visit": {
+      "min": 30,
+      "max": 60
+     }
+    }
+   ],
+   "hubs": {
+    "air": [
+     [
+      "Carcassonne (CCF)",
+      "카르카손 공항 (CCF)",
+      "시내까지 셔틀버스|shuttle bus to town"
+     ]
+    ],
+    "rail": [
+     [
+      "Gare de Carcassonne",
+      "카르카손역",
+      "바스티드 생루이 · 시테까지 버스나 걸어서 약 25분|in the lower town · bus or about 25 min walk to the Cité"
+     ]
+    ]
+   },
+   "itinerary": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "season": "7~8월은 매우 붐빕니다. 7월 14일에는 시테 불꽃놀이가 열려 숙소가 빨리 찹니다.|July and August are very busy; the Cité fireworks on 14 July fill rooms fast.",
+   "stay": [
+    [
+     "라 시테 안",
+     "Inside the Cité",
+     "La Cité",
+     "분위기를 원한다면|For atmosphere",
+     "성벽 안에 묵으면 관광객이 빠진 밤과 아침의 시테를 볼 수 있지만 차로 오가기 불편합니다.|Sleep inside the walls to see the Cité at night and dawn, though access by car is awkward."
+    ],
+    [
+     "바스티드 생루이",
+     "Bastide Saint-Louis",
+     "Bastide Saint-Louis",
+     "기차로 오는 여행에 추천|Best if arriving by train",
+     "기차역과 가깝고 식당이 많으며 시테까지 걸어서 약 25분입니다.|Close to the station with plenty of restaurants; about 25 minutes on foot to the Cité."
+    ]
+   ],
+   "routes": [
+    [
+     "toulouse",
+     "carcassonne",
+     "train",
+     50,
+     false,
+     "툴루즈 마타비오역|Toulouse-Matabiau",
+     "카르카손역|Carcassonne"
+    ]
+   ],
+   "transit": {
+    "modes": [
+     "walk",
+     "bus",
+     "taxi"
+    ],
+    "ko": "시테와 아랫마을은 걸어서 오갈 수 있습니다. 여름에는 역과 시테를 잇는 셔틀버스가 다닙니다.",
+    "en": "Walk between the Cité and the lower town; in summer a shuttle bus links the station and the Cité."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ],
+   "places": [
+    {
+     "cat": "fine_dining",
+     "name": "La Table de Franck Putelat",
+     "addr": "80 Chemin des Anglais, 11000 Carcassonne",
+     "ko": "시테 남쪽 아래의 미쉐린 2스타 레스토랑. 셰프 프랑크 퓌틀라의 창작 요리를 냅니다.",
+     "en": "Michelin two-star restaurant just south of the Cité, with creative cooking by chef Franck Putelat.",
+     "michelin": "star2"
+    }
+   ]
+  },
+  {
+   "id": "narbonne",
+   "after": "carcassonne",
+   "ko": "나르본",
+   "en": "Narbonne",
+   "native": "Narbonne",
+   "lat": 43.1843,
+   "lng": 3.0036,
+   "blurb": [
+    "로마 시대 첫 갈리아 식민 도시로, 운하가 시내를 가로지릅니다.",
+    "Rome’s first colony in Gaul, with a canal running through the centre."
+   ],
+   "highlights": [
+    {
+     "ko": "생쥐스트생파스퇴르 대성당",
+     "en": "Cathedral of Saint-Just-et-Saint-Pasteur",
+     "dko": "짓다 만 성당이지만 성가대석의 높이가 프랑스에서 손꼽힙니다.",
+     "den": "Never finished, but its choir is among the tallest in France.",
+     "maps": "Cathédrale Saint-Just-et-Saint-Pasteur Narbonne",
+     "visit": {
+      "min": 30,
+      "max": 45
+     }
+    },
+    {
+     "ko": "대주교 궁전",
+     "en": "Archbishops’ Palace",
+     "dko": "시청과 미술관이 들어선 중세 궁전으로 지옹 탑에 오를 수 있습니다.",
+     "den": "A medieval palace housing the town hall and museums; climb the Donjon Gilles Aycelin.",
+     "maps": "Palais des Archevêques Narbonne",
+     "visit": {
+      "min": 60,
+      "max": 90
+     }
+    },
+    {
+     "ko": "도미티아 가도",
+     "en": "Via Domitia",
+     "dko": "시청 광장 바닥 아래로 드러난 로마 시대 도로입니다.",
+     "den": "A stretch of Roman road exposed beneath the town hall square.",
+     "maps": "Via Domitia Narbonne",
+     "visit": {
+      "min": 10,
+      "max": 15
+     }
+    },
+    {
+     "ko": "레 알 시장",
+     "en": "Les Halles",
+     "dko": "19세기 철골 시장으로 아침마다 문을 열고 안에서 바로 먹을 수 있습니다.",
+     "den": "A 19th-century iron market hall, open every morning, with counters to eat at.",
+     "maps": "Les Halles de Narbonne",
+     "visit": {
+      "min": 30,
+      "max": 60
+     }
+    },
+    {
+     "ko": "나르보 비아 박물관",
+     "en": "Narbo Via",
+     "dko": "로마 시대 묘비 수백 개를 벽처럼 쌓아 보여 주는 고고학 박물관입니다.",
+     "den": "An archaeology museum where hundreds of Roman stones are stacked into a great wall.",
+     "maps": "Narbo Via musée",
+     "visit": {
+      "min": 90,
+      "max": 120,
+      "s": "https://narbovia.fr/"
+     }
+    }
+   ],
+   "hubs": {
+    "rail": [
+     [
+      "Gare de Narbonne",
+      "나르본역",
+      "시내까지 걸어서 약 10분|about 10 min walk to the centre"
+     ]
+    ]
+   },
+   "itinerary": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "season": "여름에는 덥고 붐비지만 해변(나르본플라주)과 함께 다니기 좋습니다.|Summer is hot and busy but pairs well with the beach at Narbonne-Plage.",
+   "stay": [
+    [
+     "구시가",
+     "Old town",
+     "Centre historique",
+     "처음 가는 여행에 추천|Best for a first visit",
+     "운하 양쪽 구시가로 대성당과 시장이 모두 걸어서 닿습니다.|The old town on both sides of the canal, with the cathedral and market on foot."
+    ]
+   ],
+   "routes": [
+    [
+     "carcassonne",
+     "narbonne",
+     "train",
+     30,
+     false,
+     "카르카손역|Carcassonne",
+     "나르본역|Narbonne"
+    ],
+    [
+     "montpellier",
+     "narbonne",
+     "train",
+     60,
+     false,
+     "몽펠리에 생로슈역|Montpellier-Saint-Roch",
+     "나르본역|Narbonne"
+    ]
+   ],
+   "transit": {
+    "modes": [
+     "walk",
+     "bus",
+     "taxi"
+    ],
+    "ko": "구시가는 걸어서 다닙니다.",
+    "en": "Walk around the old town."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ],
+   "places": [
+    {
+     "cat": "fine_dining",
+     "name": "La Table Lionel Giraud",
+     "addr": "68 Avenue du Général Leclerc, 11100 Narbonne",
+     "ko": "셰프 리오넬 지로의 미쉐린 2스타 레스토랑입니다.",
+     "en": "Michelin two-star restaurant of chef Lionel Giraud.",
+     "michelin": "star2"
+    },
+    {
+     "cat": "fine_dining",
+     "name": "Cave à Vin & à Manger - Maison Saint-Crescent",
+     "addr": "68 Avenue du Général Leclerc, 11100 Narbonne",
+     "ko": "같은 건물의 와인 바 겸 식당으로 미쉐린 빕 구르망입니다.",
+     "en": "Michelin Bib Gourmand wine bar and restaurant in the same house.",
+     "michelin": "bib"
+    }
+   ]
+  },
+  {
+   "id": "perpignan",
+   "after": "narbonne",
+   "ko": "페르피냥",
+   "en": "Perpignan",
+   "native": "Perpignan",
+   "lat": 42.6986,
+   "lng": 2.8956,
+   "blurb": [
+    "카탈루냐 문화가 짙은 프랑스 최남단의 도시입니다.",
+    "France’s southernmost city, steeped in Catalan culture."
+   ],
+   "highlights": [
+    {
+     "ko": "마요르카 왕궁",
+     "en": "Palace of the Kings of Majorca",
+     "dko": "13세기 마요르카 왕들이 머문 성으로 두 층 예배당이 남아 있습니다.",
+     "den": "The 13th-century castle of the kings of Majorca, with a two-storey chapel.",
+     "maps": "Palais des Rois de Majorque",
+     "visit": {
+      "min": 60,
+      "max": 90
+     }
+    },
+    {
+     "ko": "카스티예",
+     "en": "Le Castillet",
+     "dko": "붉은 벽돌의 옛 성문으로 안에 카탈루냐 민속 박물관이 있습니다.",
+     "den": "The red-brick old city gate, housing a museum of Catalan folk life.",
+     "maps": "Le Castillet Perpignan",
+     "visit": {
+      "min": 30,
+      "max": 45
+     }
+    },
+    {
+     "ko": "생장바티스트 대성당",
+     "en": "Cathedral of Saint-Jean-Baptiste",
+     "dko": "넓은 단일 신랑과 카탈루냐식 제단화가 있는 고딕 성당입니다.",
+     "den": "A Gothic cathedral with a wide single nave and Catalan altarpieces.",
+     "maps": "Cathédrale Saint-Jean-Baptiste Perpignan",
+     "visit": {
+      "min": 20,
+      "max": 30
+     }
+    },
+    {
+     "ko": "로주 광장",
+     "en": "Place de la Loge",
+     "dko": "중세 상인 거래소 건물 앞의 광장으로 카페가 모여 있습니다.",
+     "den": "The square by the medieval merchants’ exchange, lined with cafés.",
+     "maps": "Place de la Loge Perpignan",
+     "visit": {
+      "min": 15,
+      "max": 30
+     }
+    }
+   ],
+   "hubs": {
+    "air": [
+     [
+      "Perpignan-Rivesaltes (PGF)",
+      "페르피냥 공항 (PGF)",
+      "시내까지 버스|bus to town"
+     ]
+    ],
+    "rail": [
+     [
+      "Gare de Perpignan",
+      "페르피냥역",
+      "TGV · 스페인행|TGV · trains to Spain"
+     ]
+    ]
+   },
+   "itinerary": [
+    2,
+    4,
+    3,
+    1
+   ],
+   "season": "성금요일 산치 행렬 때 구시가가 붐빕니다. 여름은 덥고 해변 쪽이 붐빕니다.|The Good Friday Sanch procession fills the old town; summers are hot and the beaches busy.",
+   "stay": [
+    [
+     "구시가",
+     "Old town",
+     "Centre historique",
+     "처음 가는 여행에 추천|Best for a first visit",
+     "카스티예와 로주 광장 주변으로 볼거리와 식당이 걸어서 닿습니다.|Around the Castillet and Place de la Loge, with sights and restaurants on foot."
+    ]
+   ],
+   "routes": [
+    [
+     "narbonne",
+     "perpignan",
+     "train",
+     40,
+     false,
+     "나르본역|Narbonne",
+     "페르피냥역|Perpignan"
+    ],
+    [
+     "perpignan",
+     "barcelona",
+     "train",
+     85,
+     true,
+     "페르피냥역|Perpignan",
+     "바르셀로나 산츠역|Barcelona Sants",
+     "TGV·AVE"
+    ],
+    [
+     "perpignan",
+     "girona",
+     "train",
+     40,
+     true,
+     "페르피냥역|Perpignan",
+     "지로나역|Girona",
+     "TGV·AVE"
+    ]
+   ],
+   "transit": {
+    "modes": [
+     "walk",
+     "bus",
+     "taxi"
+    ],
+    "ko": "구시가는 걸어서 다닙니다. 왕궁은 구시가 남쪽 언덕에 있습니다.",
+    "en": "Walk the old town; the palace is on a rise at its southern edge."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ],
+   "places": [
+    {
+     "cat": "fine_dining",
+     "name": "La Galinette",
+     "addr": "23 Rue Jean Payra, 66000 Perpignan",
+     "ko": "셰프 크리스토프 콤의 미쉐린 1스타 레스토랑. 자기 텃밭 채소가 중심입니다.",
+     "en": "Michelin one-star restaurant of chef Christophe Comes, built around vegetables from his own garden.",
+     "michelin": "star1"
+    }
+   ]
+  },
+  {
+   "id": "collioure",
+   "after": "perpignan",
+   "ko": "콜리우르",
+   "en": "Collioure",
+   "native": "Cotlliure",
+   "lat": 42.5264,
+   "lng": 3.0832,
+   "blurb": [
+    "마티스와 드랭이 야수파를 꽃피운 바닷가 마을입니다.",
+    "The seaside village where Matisse and Derain launched Fauvism."
+   ],
+   "highlights": [
+    {
+     "ko": "노트르담데장주 성당",
+     "en": "Notre-Dame-des-Anges",
+     "dko": "옛 등대를 종탑으로 쓰는 바닷가 성당으로 마을의 상징입니다.",
+     "den": "The seafront church whose bell tower was once a lighthouse; the symbol of the village.",
+     "maps": "Église Notre-Dame-des-Anges Collioure",
+     "visit": {
+      "min": 15,
+      "max": 30
+     }
+    },
+    {
+     "ko": "콜리우르 왕궁 성",
+     "en": "Château Royal de Collioure",
+     "dko": "항구를 지키는 성채로 마요르카 왕들의 여름 궁전이었습니다.",
+     "den": "The harbour fortress that was once a summer palace of the kings of Majorca.",
+     "maps": "Château Royal de Collioure",
+     "visit": {
+      "min": 90,
+      "max": 120
+     }
+    },
+    {
+     "ko": "야수파의 길",
+     "en": "Fauvism trail",
+     "dko": "마티스와 드랭이 그림을 그린 자리에 복제화 판이 서 있는 산책길입니다.",
+     "den": "A walk past reproductions of paintings set where Matisse and Derain made them.",
+     "maps": "Chemin du Fauvisme Collioure",
+     "visit": {
+      "min": 45,
+      "max": 60
+     }
+    },
+    {
+     "ko": "생텔름 요새",
+     "en": "Fort Saint-Elme",
+     "dko": "마을 뒤 언덕 위의 16세기 별 모양 요새입니다. 지금은 공사로 닫혀 있어 밖에서만 볼 수 있습니다.",
+     "den": "A 16th-century star-shaped fort on the hill behind the village, currently closed for works and seen only from outside.",
+     "maps": "Fort Saint-Elme Collioure",
+     "visit": {
+      "min": 0,
+      "max": 0,
+      "n": "공사로 내부 관람이 닫혀 있어 밖에서만 볼 수 있습니다. 다시 여는 날짜는 발표되지 않았습니다.|Closed to visitors for works and visible only from outside; no reopening date has been announced.",
+      "k": "2026-10",
+      "z": "true"
+     }
+    }
+   ],
+   "hubs": {
+    "rail": [
+     [
+      "Gare de Collioure",
+      "콜리우르역",
+      "페르피냥행 지역 열차|regional trains to Perpignan"
+     ]
+    ]
+   },
+   "itinerary": [
+    1,
+    2,
+    3
+   ],
+   "season": "7~8월은 매우 붐비고 주차가 어려워 기차로 가는 편이 편합니다.|July and August are very crowded and parking is hard; the train is easier.",
+   "stay": [
+    [
+     "마을에서 묵기",
+     "In the village",
+     "Collioure",
+     "마을에서 묵기|Stay in the village",
+     "숙소가 적고 여름엔 비싸지만, 저녁 항구 풍경을 볼 수 있습니다.|Few, pricey summer rooms, but you get the harbour in the evening."
+    ],
+    [
+     "페르피냥에서 다녀오기",
+     "Base in Perpignan",
+     "Perpignan",
+     "거점에서 다녀오기|Day trip from a base",
+     "페르피냥에 묵고 지역 열차로 약 25분 걸려 다녀옵니다.|Stay in Perpignan and take the regional train, about 25 minutes."
+    ]
+   ],
+   "routes": [
+    [
+     "perpignan",
+     "collioure",
+     "train",
+     25,
+     false,
+     "페르피냥역|Perpignan",
+     "콜리우르역|Collioure"
+    ]
+   ],
+   "transit": {
+    "modes": [
+     "walk",
+     "train"
+    ],
+    "ko": "마을은 걸어서 다닙니다. 이웃 포르방드르·바뉼스까지 지역 열차가 다닙니다.",
+    "en": "Walk the village; regional trains run on to Port-Vendres and Banyuls."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ],
+   "places": [
+    {
+     "cat": "fine_dining",
+     "name": "La Balette",
+     "addr": "Route de Port-Vendres, 66190 Collioure",
+     "ko": "마을과 바다를 내려다보는 미쉐린 1스타 레스토랑. 셰프 로랑 르말의 지중해 요리입니다.",
+     "en": "Michelin one-star restaurant overlooking the village and sea, with Mediterranean cooking by chef Laurent Lemal.",
+     "michelin": "star1"
+    }
+   ]
+  },
+  {
+   "id": "sete",
+   "after": "montpellier",
+   "ko": "세트",
+   "en": "Sète",
+   "native": "Sète",
+   "lat": 43.4028,
+   "lng": 3.6928,
+   "blurb": [
+    "운하가 시내를 가로지르는 항구 도시로, 굴과 해산물이 유명합니다.",
+    "A canal-laced port town famous for oysters and seafood."
+   ],
+   "highlights": [
+    {
+     "ko": "로열 운하",
+     "en": "Canal Royal",
+     "dko": "어선과 해산물 식당이 늘어선 시내 중심 운하입니다.",
+     "den": "The central canal lined with fishing boats and seafood restaurants.",
+     "maps": "Canal Royal Sète",
+     "visit": {
+      "min": 30,
+      "max": 60
+     }
+    },
+    {
+     "ko": "생클레르산",
+     "en": "Mont Saint-Clair",
+     "dko": "시내 뒤 언덕으로 바다와 토 석호가 함께 내려다보입니다.",
+     "den": "The hill behind town, overlooking both the sea and the Thau lagoon.",
+     "maps": "Mont Saint-Clair Sète",
+     "visit": {
+      "min": 30,
+      "max": 60
+     }
+    },
+    {
+     "ko": "바다 묘지",
+     "en": "Cimetière marin",
+     "dko": "시인 폴 발레리가 잠든 바닷가 언덕 묘지입니다.",
+     "den": "The seaside hillside cemetery where the poet Paul Valéry is buried.",
+     "maps": "Cimetière marin Sète",
+     "visit": {
+      "min": 20,
+      "max": 30
+     }
+    },
+    {
+     "ko": "폴 발레리 미술관",
+     "en": "Musée Paul Valéry",
+     "dko": "바다 묘지 위의 미술관으로 지역 화가와 발레리 자료를 전시합니다.",
+     "den": "A museum above the cemetery with regional painting and Valéry archives.",
+     "maps": "Musée Paul Valéry Sète",
+     "visit": {
+      "min": 60,
+      "max": 90,
+      "s": "https://museepaulvalery-sete.fr/"
+     }
+    },
+    {
+     "ko": "토 석호와 부지그",
+     "en": "Thau lagoon and Bouzigues",
+     "dko": "굴 양식장이 펼쳐진 석호로 부지그 마을에서 굴을 맛볼 수 있습니다.",
+     "den": "A lagoon of oyster beds; taste them in the village of Bouzigues.",
+     "maps": "Bouzigues",
+     "visit": {
+      "min": 120,
+      "max": 180
+     },
+     "group": [
+      "근교",
+      "Nearby"
+     ]
+    }
+   ],
+   "hubs": {
+    "air": [
+     [
+      "Montpellier Méditerranée (MPL)",
+      "몽펠리에 공항 (MPL)",
+      "차로 약 35분|about 35 min by car"
+     ]
+    ],
+    "rail": [
+     [
+      "Gare de Sète",
+      "세트역",
+      "운하 북쪽 · 시내까지 걸어서 약 15분|north of the canals · about 15 min walk"
+     ]
+    ],
+    "port": [
+     [
+      "Port de Sète",
+      "세트 항구",
+      "모로코행 페리|ferries to Morocco"
+     ]
+    ]
+   },
+   "itinerary": [
+    1,
+    3,
+    4,
+    2,
+    5
+   ],
+   "season": "8월 말 생루이 축제 때 운하에서 배 위 창 시합이 열려 붐빕니다.|In late August the Saint-Louis festival brings water jousting to the canals and big crowds.",
+   "stay": [
+    [
+     "운하 주변 시내",
+     "Canal-side centre",
+     "Centre-ville",
+     "처음 가는 여행에 추천|Best for a first visit",
+     "운하를 따라 식당과 시장이 모여 있고 기차역도 걸어서 갑니다.|Restaurants and the market along the canals, with the station on foot."
+    ],
+    [
+     "몽펠리에에서 다녀오기",
+     "Base in Montpellier",
+     "Montpellier",
+     "거점에서 다녀오기|Day trip from a base",
+     "몽펠리에에 묵고 기차로 약 20분 걸려 다녀옵니다.|Stay in Montpellier and take the train, about 20 minutes."
+    ]
+   ],
+   "routes": [
+    [
+     "montpellier",
+     "sete",
+     "train",
+     20,
+     false,
+     "몽펠리에 생로슈역|Montpellier-Saint-Roch",
+     "세트역|Sète"
+    ],
+    [
+     "sete",
+     "narbonne",
+     "train",
+     40,
+     false,
+     "세트역|Sète",
+     "나르본역|Narbonne"
+    ]
+   ],
+   "transit": {
+    "modes": [
+     "walk",
+     "bus",
+     "taxi"
+    ],
+    "ko": "시내는 걸어서 다닙니다. 생클레르산은 오르막이 가팔라 버스나 택시가 편합니다.",
+    "en": "Walk the centre; Mont Saint-Clair is steep, so take a bus or taxi up."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ],
+   "places": [
+    {
+     "cat": "fine_dining",
+     "name": "Quai 17",
+     "addr": "17 Quai Maréchal de Lattre de Tassigny, 34200 Sète",
+     "ko": "운하 가의 미쉐린 빕 구르망 지중해 요리 식당입니다.",
+     "en": "Michelin Bib Gourmand Mediterranean restaurant on the canal.",
+     "michelin": "bib"
+    },
+    {
+     "cat": "fine_dining",
+     "name": "Paris Méditerranée",
+     "addr": "47 Rue Pierre Sémard, 34200 Sète",
+     "ko": "미쉐린 빕 구르망에 오른 현대 요리 비스트로입니다.",
+     "en": "Michelin Bib Gourmand bistro of modern cooking.",
+     "michelin": "bib"
+    }
+   ]
+  },
+  {
+   "id": "aigues-mortes",
+   "after": "sete",
+   "ko": "에그모르트",
+   "en": "Aigues-Mortes",
+   "native": "Aigues-Mortes",
+   "lat": 43.5667,
+   "lng": 4.1914,
+   "blurb": [
+    "카마르그 소금밭 한가운데 성벽이 그대로 남은 중세 요새 마을입니다.",
+    "A walled medieval town in the middle of the Camargue salt marshes."
+   ],
+   "highlights": [
+    {
+     "ko": "성벽과 콩스탕스 탑",
+     "en": "Ramparts and Tower of Constance",
+     "dko": "마을을 완전히 두른 13세기 성벽 위를 걸으며 소금밭을 내려다봅니다.",
+     "den": "Walk the complete 13th-century walls for views over the salt marshes.",
+     "maps": "Tour de Constance Aigues-Mortes",
+     "visit": {
+      "min": 90,
+      "max": 120,
+      "s": "https://www.aigues-mortes-monument.fr/"
+     }
+    },
+    {
+     "ko": "분홍 소금밭",
+     "en": "Pink salt marshes",
+     "dko": "소금을 만드는 분홍빛 염전으로 꼬마 기차 투어로 둘러봅니다.",
+     "den": "Pink salt pans visited by little tourist train.",
+     "maps": "Salins d'Aigues-Mortes",
+     "visit": {
+      "min": 60,
+      "max": 90
+     }
+    },
+    {
+     "ko": "생루이 광장",
+     "en": "Place Saint-Louis",
+     "dko": "성벽 안 마을 중심 광장으로 카페와 식당이 모여 있습니다.",
+     "den": "The main square inside the walls, ringed by cafés and restaurants.",
+     "maps": "Place Saint-Louis Aigues-Mortes",
+     "visit": {
+      "min": 15,
+      "max": 30
+     }
+    },
+    {
+     "ko": "레스피게트 해변",
+     "en": "L’Espiguette beach",
+     "dko": "르그로뒤루아 남쪽의 모래 언덕이 펼쳐진 넓은 해변입니다.",
+     "den": "A wide beach backed by dunes south of Le Grau-du-Roi.",
+     "maps": "Plage de l'Espiguette",
+     "visit": {
+      "min": 60,
+      "max": 180
+     },
+     "group": [
+      "근교",
+      "Nearby"
+     ]
+    }
+   ],
+   "hubs": {
+    "air": [
+     [
+      "Montpellier Méditerranée (MPL)",
+      "몽펠리에 공항 (MPL)",
+      "차로 약 35분|about 35 min by car"
+     ]
+    ],
+    "rail": [
+     [
+      "Gare d'Aigues-Mortes",
+      "에그모르트역",
+      "님행 지역 열차|regional trains to Nîmes"
+     ]
+    ]
+   },
+   "itinerary": [
+    1,
+    3,
+    2,
+    4
+   ],
+   "season": "7~8월은 매우 붐비고 저녁에는 모기가 많습니다.|July and August are very busy, with plenty of mosquitoes in the evening.",
+   "stay": [
+    [
+     "성벽 안에서 묵기",
+     "Inside the walls",
+     "Aigues-Mortes",
+     "마을에서 묵기|Stay in the village",
+     "성벽 안 작은 호텔에 묵으면 저녁의 조용한 마을을 볼 수 있습니다.|Small hotels inside the walls give you the quiet town in the evening."
+    ],
+    [
+     "님이나 몽펠리에에서 다녀오기",
+     "Base in Nîmes or Montpellier",
+     "Nîmes · Montpellier",
+     "거점에서 다녀오기|Day trip from a base",
+     "님에서 지역 열차로 약 45분, 몽펠리에에서 버스로 다녀옵니다.|About 45 minutes by regional train from Nîmes, or by bus from Montpellier."
+    ]
+   ],
+   "routes": [],
+   "transit": {
+    "modes": [
+     "walk",
+     "bus",
+     "taxi"
+    ],
+    "ko": "성벽 안은 걸어서 다닙니다. 해변은 르그로뒤루아까지 버스나 기차로 갑니다.",
+    "en": "Walk inside the walls; take the bus or train to Le Grau-du-Roi for the beaches."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ]
+  },
+  {
+   "id": "nimes",
+   "after": "aigues-mortes",
+   "ko": "님",
+   "en": "Nîmes",
+   "native": "Nîmes",
+   "lat": 43.8367,
+   "lng": 4.3601,
+   "blurb": [
+    "로마 원형경기장과 신전이 온전히 남은 \"프랑스의 로마\"입니다.",
+    "The \"French Rome\", with an intact Roman arena and temple."
+   ],
+   "highlights": [
+    {
+     "ko": "님 원형경기장",
+     "en": "Arena of Nîmes",
+     "dko": "가장 잘 보존된 로마 원형경기장 중 하나로 지금도 공연과 투우가 열립니다.",
+     "den": "One of the best-preserved Roman arenas, still used for shows and bullfights.",
+     "maps": "Arènes de Nîmes",
+     "visit": {
+      "min": 45,
+      "max": 60,
+      "s": "https://www.arenes-nimes.com/"
+     }
+    },
+    {
+     "ko": "메종 카레",
+     "en": "Maison Carrée",
+     "dko": "2,000년 된 로마 신전이 거의 그대로 남아 있는 세계유산입니다.",
+     "den": "A 2,000-year-old Roman temple standing almost intact, a World Heritage site.",
+     "maps": "Maison Carrée Nîmes",
+     "visit": {
+      "min": 20,
+      "max": 30
+     }
+    },
+    {
+     "ko": "로마 박물관",
+     "en": "Musée de la Romanité",
+     "dko": "원형경기장 맞은편의 현대 건축 박물관으로 로마 시대 모자이크가 볼거리입니다.",
+     "den": "A striking modern museum opposite the arena, with fine Roman mosaics.",
+     "maps": "Musée de la Romanité",
+     "visit": {
+      "min": 90,
+      "max": 120,
+      "s": "https://museedelaromanite.fr/"
+     }
+    },
+    {
+     "ko": "라 퐁텐 정원과 마뉴 탑",
+     "en": "Jardins de la Fontaine and Tour Magne",
+     "dko": "18세기 물의 정원을 지나 언덕 위 로마 탑에 오르면 시내가 내려다보입니다.",
+     "den": "An 18th-century water garden climbing to a Roman tower with city views.",
+     "maps": "Jardins de la Fontaine Nîmes",
+     "visit": {
+      "min": 60,
+      "max": 90
+     }
+    },
+    {
+     "ko": "퐁뒤가르",
+     "en": "Pont du Gard",
+     "dko": "2,000년 전 로마 수도교로 3층 아치가 가르동강 위로 이어집니다. 버스로 약 45분 걸립니다.",
+     "den": "The 2,000-year-old three-tiered Roman aqueduct over the Gardon, about 45 minutes by bus.",
+     "maps": "Pont du Gard",
+     "visit": {
+      "min": 120,
+      "max": 180,
+      "s": "https://www.pontdugard.fr/"
+     },
+     "group": [
+      "근교",
+      "Nearby"
+     ]
+    }
+   ],
+   "hubs": {
+    "air": [
+     [
+      "Nîmes-Alès-Camargue-Cévennes (FNI)",
+      "님 공항 (FNI)",
+      "시내까지 셔틀버스|shuttle bus to town"
+     ]
+    ],
+    "rail": [
+     [
+      "Gare de Nîmes-Centre",
+      "님 상트르역",
+      "시내 · TGV|centre · TGV"
+     ],
+     [
+      "Gare de Nîmes Pont-du-Gard",
+      "님 퐁뒤가르역",
+      "시 외곽 · 일부 TGV|outside town · some TGVs"
+     ]
+    ]
+   },
+   "itinerary": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "season": "오순절 페리아(5~6월)와 9월 페리아 때 숙소가 빨리 찹니다. 여름 한낮은 매우 덥습니다.|Rooms fill fast during the Pentecost (May–June) and September ferias; summer afternoons are very hot.",
+   "stay": [
+    [
+     "구시가(에퀴송)",
+     "Old town (Écusson)",
+     "L'Écusson",
+     "처음 가는 여행에 추천|Best for a first visit",
+     "원형경기장과 메종 카레 사이의 구시가로 볼거리와 식당이 걸어서 닿습니다.|The old town between the arena and the Maison Carrée, with sights and restaurants on foot."
+    ]
+   ],
+   "routes": [
+    [
+     "montpellier",
+     "nimes",
+     "train",
+     30,
+     false,
+     "몽펠리에 생로슈역|Montpellier-Saint-Roch",
+     "님 상트르역|Nîmes-Centre"
+    ],
+    [
+     "avignon",
+     "nimes",
+     "train",
+     35,
+     false,
+     "아비뇽 상트르역|Avignon-Centre",
+     "님 상트르역|Nîmes-Centre"
+    ],
+    [
+     "arles",
+     "nimes",
+     "train",
+     25,
+     false,
+     "아를역|Arles",
+     "님 상트르역|Nîmes-Centre"
+    ],
+    [
+     "nimes",
+     "aigues-mortes",
+     "train",
+     45,
+     false,
+     "님 상트르역|Nîmes-Centre",
+     "에그모르트역|Aigues-Mortes"
+    ],
+    [
+     "paris",
+     "nimes",
+     "train",
+     180,
+     true,
+     "파리 리옹역|Paris Gare de Lyon",
+     "님 상트르역|Nîmes-Centre",
+     "TGV"
+    ]
+   ],
+   "transit": {
+    "modes": [
+     "walk",
+     "bus",
+     "taxi"
+    ],
+    "ko": "구시가는 걸어서 다닙니다. 퐁뒤가르는 버스터미널에서 지역 버스로 갑니다.",
+    "en": "Walk the old town; take a regional bus from the bus station to the Pont du Gard."
+   },
+   "apps": [
+    [
+     "sncf"
+    ]
+   ],
+   "places": [
+    {
+     "cat": "fine_dining",
+     "name": "Duende",
+     "addr": "Maison Albar Hotels L'Imperator, Quai de la Fontaine, 30900 Nîmes",
+     "ko": "호텔 로페라토르 안의 미쉐린 2스타 레스토랑. 피에르 가니에르와 함께해 온 셰프 니콜라 퐁텐의 요리입니다.",
+     "en": "Michelin two-star restaurant in the Imperator hotel, with cooking by chef Nicolas Fontaine, long Pierre Gagnaire’s right hand.",
+     "michelin": "star2"
+    },
+    {
+     "cat": "fine_dining",
+     "name": "Skab",
+     "addr": "7 Rue de la République, 30000 Nîmes",
+     "ko": "셰프 다미앵 산체스의 미쉐린 1스타 레스토랑입니다.",
+     "en": "Michelin one-star restaurant of chef Damien Sanchez.",
+     "michelin": "star1"
+    },
+    {
+     "cat": "fine_dining",
+     "name": "Jérôme Nutile",
+     "addr": "351 Chemin Bas du Mas de Boudan, 30000 Nîmes",
+     "ko": "프랑스 명장(MOF) 셰프 제롬 뉘틸의 미쉐린 1스타 레스토랑입니다.",
+     "en": "Michelin one-star restaurant of chef Jérôme Nutile, a Meilleur Ouvrier de France.",
      "michelin": "star1"
     }
    ]

@@ -264,6 +264,76 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  carcassonne: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시테와 아랫마을은 걸어서 오갈 수 있습니다. 여름에는 역과 시테를 잇는 셔틀버스가 다닙니다.',
+      en: 'Walk between the Cité and the lower town; in summer a shuttle bus links the station and the Cité.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  narbonne: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk around the old town.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  perpignan: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 왕궁은 구시가 남쪽 언덕에 있습니다.',
+      en: 'Walk the old town; the palace is on a rise at its southern edge.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  collioure: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 이웃 포르방드르·바뉼스까지 지역 열차가 다닙니다.',
+      en: 'Walk the village; regional trains run on to Port-Vendres and Banyuls.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  sete: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 생클레르산은 오르막이 가팔라 버스나 택시가 편합니다.',
+      en: 'Walk the centre; Mont Saint-Clair is steep, so take a bus or taxi up.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'aigues-mortes': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '성벽 안은 걸어서 다닙니다. 해변은 르그로뒤루아까지 버스나 기차로 갑니다.',
+      en: 'Walk inside the walls; take the bus or train to Le Grau-du-Roi for the beaches.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  nimes: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 퐁뒤가르는 버스터미널에서 지역 버스로 갑니다.',
+      en: 'Walk the old town; take a regional bus from the bus station to the Pont du Gard.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
   toulouse: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
