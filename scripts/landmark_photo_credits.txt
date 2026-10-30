@@ -948,3 +948,44 @@ highlights/aix-en-provence-5.jpg | https://commons.wikimedia.org/wiki/File:%22Da
 highlights/aix-en-provence-6.jpg | https://commons.wikimedia.org/wiki/File:Aix-H%C3%B4tel_de_Caumont-bjs180814-02.jpg | CC BY-SA 4.0 | Bjs
 highlights/krakow-6.jpg | https://commons.wikimedia.org/wiki/File:Auschwitz-Birkenau_gate.jpg | CC BY-SA 4.0 | Dakstor
 highlights/aix-en-provence-3.jpg | https://commons.wikimedia.org/wiki/File:Aix-en-Provence_-_Fa%C3%A7ade_et_clocher_de_la_cath%C3%A9drale_Saint-Sauveur.JPG | CC BY-SA 3.0 | MOSSOT
+cities/menton.jpg | https://commons.wikimedia.org/wiki/File:Menton,_vu_du_belv%C3%A9d%C3%A8re_du_boulevard_Garavan.jpg | CC BY-SA 4.0 | Espirat
+highlights/menton-1.jpg | https://commons.wikimedia.org/wiki/File:Vieille_ville_de_Menton.jpg | Public domain | Tangopaso
+highlights/menton-2.jpg | https://commons.wikimedia.org/wiki/File:MENTON_Basilique_Saint-Michel_(4).JPG | CC BY-SA 3.0 | Promeneuse7
+highlights/menton-3.jpg | https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_Jean_Cocteau,_collection_S._Wunderman_(Menton,_France)_(40635031623).jpg | CC BY 2.0 | Jean-Pierre Dalbéra from Paris, France
+highlights/menton-4.jpg | https://commons.wikimedia.org/wiki/File:Jardin_Serre_de_la_Madone_-_DSC04160.JPG | Public domain | Daderot
+highlights/menton-5.jpg | https://commons.wikimedia.org/wiki/File:Jardin_botanique_Val_Rahmeh-Menton,_terrasse,_2026,_MNHN.jpg | CC BY-SA 4.0 | Agnès Iatzoura
+highlights/menton-6.jpg | https://commons.wikimedia.org/wiki/File:Vieille_ville_de_Menton.jpg | Public domain | Tangopaso
+cities/eze.jpg | https://commons.wikimedia.org/wiki/File:%C3%88ze,_France_-_panoramio_(2).jpg | CC BY 3.0 | Geir Joar Meli Hval …
+highlights/eze-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%88ze_und_Cap_Ferrat-Grande_Corniche.jpg | CC BY-SA 3.0 | Tobi 87
+highlights/eze-2.jpg | https://commons.wikimedia.org/wiki/File:Jardin_Exotique_-_panoramio.jpg | CC BY-SA 3.0 | M.Strīķis
+highlights/eze-3.jpg | https://commons.wikimedia.org/wiki/File:%C3%88ze_Chemin_de_Nietzsche_01.jpg | CC BY-SA 4.0 | Rémih
+highlights/eze-4.jpg | https://commons.wikimedia.org/wiki/File:Notre_Dame_de_l%60Assomption,_%C3%88ze,_Provence-Alpes-C%C3%B4te_d%27Azur,_France_-_panoramio.jpg | CC BY-SA 3.0 | M.Strīķis
+highlights/eze-5.jpg | https://commons.wikimedia.org/wiki/File:Fragonard_(%C3%88ze)003.JPG | CC BY 3.0 | Georges Jansoone (JoJan)
+cities/antibes.jpg | https://commons.wikimedia.org/wiki/File:Antibes-panorama.jpg | CC BY-SA 3.0 | Huiskamergeleerde at Dutch Wikipedia
+
+(Original text: Frits 
+highlights/antibes-1.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Picasso,_Antibes_(9612066353).jpg | CC BY 2.0 | Jeanne Menjoulet from Paris, France
+highlights/antibes-2.jpg | https://commons.wikimedia.org/wiki/File:March%C3%A9_Provencal_Antibes_5.jpg | CC BY-SA 4.0 | Abxbay
+highlights/antibes-3.jpg | https://commons.wikimedia.org/wiki/File:Antibes_-_Promenade_Courtine_-_View_North_on_Fort_Carr%C3%A9_%26_Port_Vauban_Antibes.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/antibes-4.jpg | https://commons.wikimedia.org/wiki/File:Fort_carr%C3%A9_(Antibes)2.jpg | CC BY-SA 2.5 | G CHP
+highlights/antibes-5.jpg | https://commons.wikimedia.org/wiki/File:20220509_123024_Cap_d%27Antibes.jpg | CC BY-SA 4.0 | Indigo&amp;fushia
+cities/saint-paul-de-vence.jpg | https://commons.wikimedia.org/wiki/File:France-002626B_-_Saint-Paul-de-Vence_(15745144948).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+highlights/saint-paul-de-vence-1.jpg | https://commons.wikimedia.org/wiki/File:Saint-Paul-de-Vence_-_Remparts_-26.JPG | CC BY-SA 3.0 | MOSSOT
+highlights/saint-paul-de-vence-2.jpg | https://commons.wikimedia.org/wiki/File:08_Fondation_Maeght.JPG | CC BY-SA 3.0 | Waterborough
+highlights/saint-paul-de-vence-3.jpg | https://commons.wikimedia.org/wiki/File:Rue_Grande,_Saint-Paul_de_Vence.JPG | CC BY-SA 3.0 | BrokenSphere
+highlights/saint-paul-de-vence-4.jpg | https://commons.wikimedia.org/wiki/File:Grave_of_Marc_Chagall-Saint-Paul_de_Vence.jpg | CC BY-SA 4.0 | Yair Haklai
+highlights/saint-paul-de-vence-5.jpg | https://commons.wikimedia.org/wiki/File:RosarienkapelleVence1.jpg | CC BY-SA 3.0 | SchiDD
+cities/grasse.jpg | https://commons.wikimedia.org/wiki/File:Sculpture--Grasse-bySoeur2Rundvald.jpg | CC BY-SA 4.0 | Rundvald
+highlights/grasse-1.jpg | https://commons.wikimedia.org/wiki/File:L%27orgue_%C3%A0_parfums_de_Jean_Carles_(Mus%C3%A9e_international_de_la_parfumerie,_Grasse).jpg | CC BY 2.0 | Jean-Pierre Dalbéra
+highlights/grasse-2.jpg | https://commons.wikimedia.org/wiki/File:Grasse_Parfumerie_Fragonard_-_panoramio_(1).jpg | CC BY-SA 3.0 | rene boulay
+highlights/grasse-3.jpg | https://commons.wikimedia.org/wiki/File:Grasse,_Parfumerie_Molinard.jpg | CC BY-SA 3.0 | Christof Halbe
+highlights/grasse-4.jpg | https://commons.wikimedia.org/wiki/File:Grasse_-_Grasse_-_Cath%C3%A9drale_Notre-Dame-du-Puy_de_Grasse_11.JPG | CC BY-SA 3.0 | Christophe.Finot
+highlights/grasse-5.jpg | https://commons.wikimedia.org/wiki/File:France-002836_-_Place_aux_Aires_(few_people)_(15382594094).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+cities/saint-tropez.jpg | https://commons.wikimedia.org/wiki/File:Bell_tower_of_the_church_Our_Lady_of_the_Assumption_in_Saint-Tropez,_France_(52723273607).jpg | CC BY 2.0 | dronepicr
+highlights/saint-tropez-1.jpg | https://commons.wikimedia.org/wiki/File:Port_de_Saint-Tropez_009.jpg | CC BY-SA 4.0 | Arnaud 25
+highlights/saint-tropez-2.jpg | https://commons.wikimedia.org/wiki/File:Saint_Tropez_-_La_Citadelle.jpg | CC BY-SA 4.0 | Ladislaus Hoffner
+highlights/saint-tropez-3.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_l%27Annonciade,_facade_-_Saint-Tropez,_Var,_France.jpg | CC BY-SA 4.0 | Gnrc
+highlights/saint-tropez-4.jpg | https://commons.wikimedia.org/wiki/File:Place_des_Lices_-_Saint-Tropez_1.jpg | CC BY-SA 4.0 | Arnaud 25
+highlights/saint-tropez-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Ponche_Beach,_Saint-Tropez,_France_(52723268452).jpg | CC BY 2.0 | dronepicr
+highlights/saint-tropez-6.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_Pampelonne_4.jpg | CC BY-SA 4.0 | Arnaud 25
+highlights/bern-7.jpg | https://commons.wikimedia.org/wiki/File:Casa_de_Albert_Einstein.JPG | CC BY-SA 4.0 | Christian Cariño

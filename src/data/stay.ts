@@ -560,6 +560,30 @@ export const STAY: Record<string, StayArea[]> = {
     a('마자랭 지구', 'Quartier Mazarin', 'Quartier Mazarin, Aix-en-Provence', '조용하고 우아한 동네|Quiet and elegant', '미라보 거리 남쪽의 17세기 저택 거리로 그라네·코몽 미술관이 가깝고 구시가보다 조용합니다.|Seventeenth-century streets south of the Cours Mirabeau, near the Granet and Caumont museums and calmer than the old town.'),
     a('로통드 주변', 'La Rotonde', 'La Rotonde, Aix-en-Provence', '기차·버스 이동이 편함|Handy for trains and buses', '버스터미널과 시내 기차역이 가까워 마르세유나 근교 마을로 오가기 좋습니다.|Close to the bus station and the town railway station, handy for Marseille and day trips.'),
   ],
+  'saint-tropez': [
+    a('항구·구시가', 'Port & old town', 'Vieux Port Saint-Tropez', '처음 가는 여행에 추천|Best for a first visit', '항구와 리스 광장, 식당을 걸어서 다닙니다. 여름에는 숙박비가 매우 비싸고 밤늦게까지 붐빕니다.|The harbour, Place des Lices and restaurants on foot; summer rates are very high and it stays busy late.'),
+    a('팡플론·라마튀엘', 'Pampelonne & Ramatuelle', 'Ramatuelle', '해변 휴양|Beach stays', '긴 모래 해변 쪽 호텔과 비치 클럽에 묵습니다. 시내까지 차나 버스로 가야 합니다.|Hotels and beach clubs by the long sandy beach; you need a car or bus to reach town.'),
+  ],
+  antibes: [
+    a('구시가(비유 앙티브)', 'Old Antibes', 'Vieil Antibes', '처음 가는 여행에 추천|Best for a first visit', '성벽 안 골목에 피카소 미술관과 시장, 식당이 모여 있고 기차역도 걸어서 갑니다.|The Picasso museum, the market and restaurants in the walled lanes, with the station on foot.'),
+    a('쥐앙레팽', 'Juan-les-Pins', 'Juan-les-Pins', '해변과 밤 문화|Beaches and nightlife', '모래 해변과 바가 많은 동네로 여름밤 재즈 축제가 열립니다. 구시가까지 버스나 기차로 갑니다.|Sandy beaches and bars, home to a summer jazz festival; take a bus or train to the old town.'),
+  ],
+  grasse: [
+    a('구시가', 'Historic centre', 'Grasse historic centre', '처음 가는 여행에 추천|Best for a first visit', '향수 박물관과 공장, 대성당이 걸어서 가깝습니다. 언덕이 가파르고 저녁에는 조용합니다.|Perfume museum, factories and cathedral on foot; steep streets and quiet evenings.'),
+    a('칸에서 다녀오기', 'Base in Cannes', 'Cannes', '거점에서 다녀오기|Day trip from a base', '칸에 묵고 기차로 약 30분 올라옵니다. 바닷가 숙소와 식당을 고르기 쉽습니다.|Stay in Cannes and ride the train up in about 30 minutes, with seaside hotels and restaurants to choose from.'),
+  ],
+  'saint-paul-de-vence': [
+    a('마을 안', 'In the village', 'Saint-Paul-de-Vence', '마을에서 묵기|Stay in the village', '낮 관광객이 떠난 뒤 조용한 성벽 마을을 즐길 수 있습니다. 숙소가 적고 비쌉니다.|Enjoy the walled village once day visitors leave; rooms are few and pricey.'),
+    a('니스에서 다녀오기', 'Base in Nice', 'Nice', '거점에서 다녀오기|Day trip from a base', '니스에 묵고 400번 버스로 약 1시간 걸려 다녀옵니다.|Stay in Nice and take bus 400, about an hour each way.'),
+  ],
+  eze: [
+    a('마을 안', 'In the village', 'Èze village', '마을에서 묵기|Stay in the village', '고급 호텔 몇 곳이 전부라 비싸지만, 해 질 녘과 아침의 조용한 마을을 볼 수 있습니다.|Only a few luxury hotels, so it is pricey, but you get the quiet village at dusk and dawn.'),
+    a('니스에서 다녀오기', 'Base in Nice', 'Nice', '거점에서 다녀오기|Day trip from a base', '니스에 묵고 버스로 약 30분 걸려 다녀옵니다. 모나코와 묶어 하루에 다녀오기 좋습니다.|Stay in Nice and take the bus, about 30 minutes; easy to pair with Monaco in a day.'),
+  ],
+  menton: [
+    a('구시가·해변', 'Old town & seafront', 'Menton seafront', '처음 가는 여행에 추천|Best for a first visit', '해변 산책로와 구시가, 기차역이 걸어서 가깝고 식당이 많습니다.|The promenade, old town and station on foot, with plenty of restaurants.'),
+    a('가라방', 'Garavan', 'Garavan Menton', '조용한 항구 동네|Quiet harbour quarter', '이탈리아 쪽 요트 항구 주변의 조용한 주택가로 정원들이 가깝습니다.|A quiet residential quarter around the yacht harbour towards Italy, close to the gardens.'),
+  ],
   annecy: [
     a('구시가', 'Old Town (Vieille Ville)', 'Vieille Ville, Annecy', '처음 가는 여행에 추천|Best for a first visit', '운하와 골목, 시장과 식당이 모여 있어 걸어서 다닙니다. 관광객이 많고 비싸며 차가 거의 못 들어갑니다.|Canals, lanes, markets and restaurants on foot; touristy, pricey, and mostly closed to cars.'),
     a('안시르비외', 'Annecy-le-Vieux', 'Annecy-le-Vieux', '가족 여행·호숫가|Families and the lake', '호수와 산이 보이는 조용한 주거지라 수영·자전거에 좋습니다. 구시가까지 조금 떨어져 있고 언덕이 있습니다.|Quiet residential streets with lake and mountain views, good for swimming and cycling; not central, and hilly in places.'),

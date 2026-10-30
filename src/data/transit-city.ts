@@ -146,6 +146,67 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('sncf'),
     ],
   },
+  'saint-tropez': {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 기차역이 없어 생라파엘에서 지역 버스(Zou!)나 배로 오고, 해변은 버스·택시로 갑니다.',
+      en: 'Walk the village. There is no railway: come by regional Zou! bus or boat from Saint-Raphaël, and reach the beaches by bus or taxi.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  antibes: {
+    modes: ['bus', 'train', 'taxi', 'walk'],
+    howTo: {
+      ko: '구시가와 항구는 걸어서 다닙니다. 캅 당티브와 쥐앙레팽은 시내버스나 기차로 갑니다.',
+      en: 'Walk the old town and harbour; take city buses or the train to the Cap d’Antibes and Juan-les-Pins.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  grasse: {
+    modes: ['bus', 'train', 'taxi', 'walk'],
+    howTo: {
+      ko: '구시가는 걸어서 다니지만 오르막이 많습니다. 기차역에서 구시가까지는 언덕길이나 시내버스로 갑니다.',
+      en: 'Walk the old town, with plenty of climbing; from the station, walk up or take a city bus.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'saint-paul-de-vence': {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서만 다닙니다. 니스에서 400번 버스로 오고, 방스의 로사리오 성당도 같은 버스로 이어집니다.',
+      en: 'The village is on foot only. Bus 400 comes from Nice and continues to Vence for the Rosary Chapel.',
+    },
+    apps: [
+      ta('lignes-azur', { ko: "버스 노선·실시간", en: "Bus routes, live times" }),
+    ],
+  },
+  eze: {
+    modes: ['bus', 'train', 'walk'],
+    howTo: {
+      ko: '마을은 걸어서만 다닙니다. 니스에서 버스로 마을까지 바로 오거나, 기차로 바닷가 에즈역에 내려 버스나 니체의 길로 올라옵니다.',
+      en: 'The village is on foot only. Take the bus from Nice straight up, or the train to Èze station on the coast and then a bus or the Nietzsche path.',
+    },
+    apps: [
+      ta('lignes-azur', { ko: "버스 노선·실시간", en: "Bus routes, live times" }),
+      ta('sncf'),
+    ],
+  },
+  menton: {
+    modes: ['bus', 'train', 'walk'],
+    howTo: {
+      ko: '구시가와 해변은 걸어서 다닙니다. 니스·모나코·이탈리아 벤티밀리아는 해안 기차로 이어집니다.',
+      en: 'Walk the old town and seafront; the coastal railway links Nice, Monaco and Ventimiglia in Italy.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
   toulouse: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {

@@ -1,0 +1,174 @@
+{
+  "cda": [
+    {
+      "id": "saint-tropez", "after": "marseille", "ko": "생트로페", "en": "Saint-Tropez", "native": "Saint-Tropez",
+      "lat": 43.2692, "lng": 6.6389,
+      "blurb": ["알록달록한 항구와 요트, 화가들이 사랑한 바다 마을입니다.", "A colourful harbour of yachts and the seaside village painters loved."],
+      "highlights": [
+        {"ko": "옛 항구", "en": "Vieux-Port", "dko": "알록달록한 집과 요트가 늘어선 항구로 생트로페의 얼굴입니다.", "den": "The harbour of pastel houses and yachts that is Saint-Tropez’s face.", "maps": "Vieux Port Saint-Tropez", "visit": {"min": 30, "max": 60}},
+        {"ko": "시타델", "en": "Citadelle de Saint-Tropez", "dko": "언덕 위 17세기 요새로 해양사 박물관이 있고 만이 내려다보입니다.", "den": "A 17th-century hilltop fortress with a maritime history museum and views over the bay.", "maps": "Citadelle de Saint-Tropez", "visit": {"min": 60, "max": 90}},
+        {"ko": "아농시아드 미술관", "en": "Musée de l’Annonciade", "dko": "항구 옆 옛 예배당에 시냐크·마티스 등 점묘파와 야수파 그림을 모은 미술관입니다.", "den": "A former chapel by the harbour holding pointillist and Fauvist paintings by Signac, Matisse and others.", "maps": "Musée de l'Annonciade Saint-Tropez", "visit": {"min": 45, "max": 60}},
+        {"ko": "리스 광장", "en": "Place des Lices", "dko": "플라타너스 아래 페탕크를 즐기는 광장으로 화·토요일 아침에 시장이 섭니다.", "den": "Plane-shaded square of pétanque players, with a market on Tuesday and Saturday mornings.", "maps": "Place des Lices Saint-Tropez", "visit": {"min": 20, "max": 45}},
+        {"ko": "라 퐁슈 지구", "en": "La Ponche", "dko": "옛 어부 마을 골목과 작은 해변이 남은 구시가 끝 동네입니다.", "den": "The old fishermen’s quarter at the end of town, with lanes and a small beach.", "maps": "La Ponche Saint-Tropez", "visit": {"min": 20, "max": 40}},
+        {"ko": "팡플론 해변", "en": "Plage de Pampelonne", "dko": "옆 마을 라마튀엘에 걸친 약 5km 모래 해변입니다.", "den": "A sandy beach of about 5 km in neighbouring Ramatuelle.", "maps": "Plage de Pampelonne", "visit": {"min": 120, "max": 240}}
+      ],
+      "hubs": {"air": "NCE()", "bus": [["Gare routière de Saint-Tropez", "생트로페 버스터미널"]], "port": [["Port de Saint-Tropez", "생트로페 항구", "생라파엘·생트막심·칸행 배|boats to Saint-Raphaël, Sainte-Maxime and Cannes"]]},
+      "itinerary": [1, 5, 2, 3, 4, 6],
+      "season": "7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.",
+      "stay": [
+        ["항구·구시가", "Port & old town", "Vieux Port Saint-Tropez", "처음 가는 여행에 추천|Best for a first visit", "항구와 리스 광장, 식당을 걸어서 다닙니다. 여름에는 숙박비가 매우 비싸고 밤늦게까지 붐빕니다.|The harbour, Place des Lices and restaurants on foot; summer rates are very high and it stays busy late."],
+        ["팡플론·라마튀엘", "Pampelonne & Ramatuelle", "Ramatuelle", "해변 휴양|Beach stays", "긴 모래 해변 쪽 호텔과 비치 클럽에 묵습니다. 시내까지 차나 버스로 가야 합니다.|Hotels and beach clubs by the long sandy beach; you need a car or bus to reach town."]
+      ],
+      "routes": [
+        ["cannes", "saint-tropez", "ferry", 75, false, "칸 구항구|Cannes Vieux Port", "생트로페 항구|Saint-Tropez port", "여름철에만 운항|summer only"],
+        ["nice", "saint-tropez", "mixed", 150, false, "니스역|Nice-Ville", "생트로페 버스터미널|Saint-Tropez bus station", "생라파엘까지 기차, 이어서 버스(약 1시간 20분)|train to Saint-Raphaël, then bus (about 1 h 20)"]
+      ],
+      "transit": {"modes": ["bus", "ferry", "taxi", "walk"], "ko": "마을 안은 걸어서 다닙니다. 기차역이 없어 생라파엘에서 지역 버스(Zou!)나 배로 오고, 해변은 버스·택시로 갑니다.", "en": "Walk the village. There is no railway: come by regional Zou! bus or boat from Saint-Raphaël, and reach the beaches by bus or taxi."},
+      "apps": [["sncf"]],
+      "places": [
+        {"cat": "fine_dining", "name": "La Vague d'Or - Cheval Blanc St-Tropez", "addr": "Plage de la Bouillabaisse, 83990 Saint-Tropez", "ko": "호텔 슈발 블랑 안 미쉐린 3스타 레스토랑. 해변을 바라보며 지중해 창작 요리를 냅니다.", "en": "Michelin three-star restaurant in the Cheval Blanc hotel, serving creative Mediterranean cooking by the beach.", "michelin": "star3"},
+        {"cat": "fine_dining", "name": "Colette", "addr": "Hôtel Sezz, 151 Route des Salins, 83990 Saint-Tropez", "ko": "호텔 세즈 안 미쉐린 1스타 레스토랑. 지역 생산자 재료로 코스를 냅니다.", "en": "Michelin one-star restaurant in the Hôtel Sezz, with tasting menus built on local producers.", "michelin": "star1"},
+        {"cat": "fine_dining", "name": "Arnaud Donckele & Maxime Frédéric at Louis Vuitton", "addr": "White 1921, Place des Lices, 83990 Saint-Tropez", "ko": "리스 광장 호텔 화이트 1921의 미쉐린 1스타 레스토랑. 지중해 요리를 냅니다.", "en": "Michelin one-star restaurant at the White 1921 hotel on Place des Lices, serving Mediterranean cooking.", "michelin": "star1"}
+      ]
+    },
+    {
+      "id": "antibes", "after": "cannes", "ko": "앙티브", "en": "Antibes", "native": "Antibes",
+      "lat": 43.5808, "lng": 7.1251,
+      "blurb": ["성벽 구시가와 요트 항구, 피카소가 머문 바닷가 도시입니다.", "A walled old town, a yacht harbour and the seaside castle where Picasso worked."],
+      "highlights": [
+        {"ko": "피카소 미술관", "en": "Musée Picasso", "dko": "피카소가 1946년 작업실로 쓴 그리말디 성의 미술관으로 바다를 마주하고 있습니다.", "den": "Château Grimaldi, Picasso’s studio in 1946, now a museum facing the sea.", "maps": "Musée Picasso Antibes", "visit": {"min": 60, "max": 90}},
+        {"ko": "프로방스 시장", "en": "Marché provençal", "dko": "구시가의 지붕 덮인 시장으로 아침마다 과일·치즈·올리브 같은 지역 먹거리가 나옵니다.", "den": "The covered market in the old town, with local fruit, cheese and olives every morning.", "maps": "Marché Provençal Antibes", "visit": {"min": 30, "max": 45}},
+        {"ko": "보방 항구", "en": "Port Vauban", "dko": "대형 요트가 정박하는 지중해에서 손꼽히는 요트 항구입니다.", "den": "One of the Mediterranean’s great yacht harbours, home to superyachts.", "maps": "Port Vauban Antibes", "visit": {"min": 30, "max": 45}},
+        {"ko": "카레 요새", "en": "Fort Carré", "dko": "항구 북쪽 곶에 선 16세기 별 모양 요새로 성벽에서 항구와 알프스가 보입니다.", "den": "A 16th-century star-shaped fort on the headland north of the harbour, with views of the port and the Alps.", "maps": "Fort Carré Antibes", "visit": {"min": 45, "max": 60}},
+        {"ko": "캅 당티브 해안 산책로", "en": "Cap d’Antibes coastal path", "dko": "곶 끝 바위 해안을 따라 걷는 약 1시간 30분 산책로입니다.", "den": "About an hour and a half of walking along the rocky shore at the tip of the cape.", "maps": "Sentier du Littoral Cap d'Antibes", "visit": {"min": 90, "max": 120}}
+      ],
+      "hubs": {"air": "NCE()", "rail": [["Gare d'Antibes", "앙티브역"]], "bus": [["Pôle d'échanges d'Antibes", "앙티브 버스터미널"]]},
+      "itinerary": [2, 1, 3, 4, 5],
+      "stay": [
+        ["구시가(비유 앙티브)", "Old Antibes", "Vieil Antibes", "처음 가는 여행에 추천|Best for a first visit", "성벽 안 골목에 피카소 미술관과 시장, 식당이 모여 있고 기차역도 걸어서 갑니다.|The Picasso museum, the market and restaurants in the walled lanes, with the station on foot."],
+        ["쥐앙레팽", "Juan-les-Pins", "Juan-les-Pins", "해변과 밤 문화|Beaches and nightlife", "모래 해변과 바가 많은 동네로 여름밤 재즈 축제가 열립니다. 구시가까지 버스나 기차로 갑니다.|Sandy beaches and bars, home to a summer jazz festival; take a bus or train to the old town."]
+      ],
+      "routes": [
+        ["nice", "antibes", "train", 25, false, "니스역|Nice-Ville", "앙티브역|Antibes"],
+        ["cannes", "antibes", "train", 12, false, "칸역|Cannes", "앙티브역|Antibes"]
+      ],
+      "transit": {"modes": ["bus", "train", "taxi", "walk"], "ko": "구시가와 항구는 걸어서 다닙니다. 캅 당티브와 쥐앙레팽은 시내버스나 기차로 갑니다.", "en": "Walk the old town and harbour; take city buses or the train to the Cap d’Antibes and Juan-les-Pins."},
+      "apps": [["sncf"]],
+      "places": [
+        {"cat": "fine_dining", "name": "Les Pêcheurs", "addr": "Cap d'Antibes Beach Hotel, 10 Boulevard du Maréchal Juin, 06160 Antibes", "ko": "캅 당티브 비치 호텔의 미쉐린 1스타 레스토랑. 바다를 보며 지중해 요리를 냅니다.", "en": "Michelin one-star restaurant at the Cap d’Antibes Beach Hotel, serving Mediterranean cooking by the sea.", "michelin": "star1"},
+        {"cat": "fine_dining", "name": "Louroc - Hôtel du Cap-Eden-Roc", "addr": "Hôtel du Cap-Eden-Roc, Boulevard J.F. Kennedy, 06160 Antibes", "ko": "캅 당티브 끝 호텔 뒤 캅에덴록의 미쉐린 1스타 레스토랑입니다.", "en": "Michelin one-star restaurant at the Hôtel du Cap-Eden-Roc on the tip of the cape.", "michelin": "star1"},
+        {"cat": "fine_dining", "name": "La Passagère - Hôtel Belles Rives", "addr": "Hôtel Belles Rives, 33 Boulevard Édouard Baudoin, 06160 Juan-les-Pins", "ko": "쥐앙레팽 해변 호텔 벨 리브의 미쉐린 1스타 창작 요리 레스토랑입니다.", "en": "Michelin one-star restaurant of creative cooking at the seafront Hôtel Belles Rives in Juan-les-Pins.", "michelin": "star1"}
+      ]
+    },
+    {
+      "id": "grasse", "after": "antibes", "ko": "그라스", "en": "Grasse", "native": "Grasse",
+      "lat": 43.6589, "lng": 6.9237,
+      "blurb": ["세계 향수의 수도. 꽃밭과 향수 공장이 있는 언덕 도시입니다.", "The world capital of perfume, a hill town of flower fields and perfume houses."],
+      "highlights": [
+        {"ko": "국제 향수 박물관", "en": "Musée International de la Parfumerie", "dko": "향수의 역사와 재료, 만드는 법을 보여 주는 박물관입니다.", "den": "A museum of the history, ingredients and making of perfume.", "maps": "Musée International de la Parfumerie Grasse", "visit": {"min": 60, "max": 90, "s": "https://www.museesdegrasse.com/"}},
+        {"ko": "프라고나르 향수 공장", "en": "Fragonard – historic factory", "dko": "옛 향수 공장 건물에서 무료 안내 견학을 하고 향수를 살 수 있습니다.", "den": "Free guided tours of the old perfume factory, with a shop.", "maps": "Parfumerie Fragonard Usine Historique Grasse", "visit": {"min": 30, "max": 45, "s": "https://www.fragonard.com/"}},
+        {"ko": "몰리나르 향수 공장", "en": "Molinard", "dko": "1849년 문을 연 향수 회사로 공방에서 나만의 향수 만들기 체험을 합니다.", "den": "A perfume house founded in 1849, with workshops for making your own scent.", "maps": "Molinard Grasse", "visit": {"min": 45, "max": 90, "s": "https://www.molinard.com/"}},
+        {"ko": "노트르담 뒤 퓌 대성당", "en": "Cathédrale Notre-Dame-du-Puy", "dko": "구시가 언덕 위 성당으로 루벤스와 프라고나르의 그림이 있습니다.", "den": "The hilltop cathedral of the old town, with paintings by Rubens and Fragonard.", "maps": "Cathédrale Notre-Dame-du-Puy Grasse", "visit": {"min": 20, "max": 30}},
+        {"ko": "오 제르 광장", "en": "Place aux Aires", "dko": "분수와 아케이드가 있는 구시가 광장으로 아침 시장이 섭니다.", "den": "An old-town square of arcades and a fountain, with a morning market.", "maps": "Place aux Aires Grasse", "visit": {"min": 15, "max": 30}}
+      ],
+      "hubs": {"air": "NCE()", "rail": [["Gare de Grasse", "그라스역", "구시가 아래 · 칸에서 기차|below the old town · trains from Cannes"]], "bus": [["Gare routière de Grasse", "그라스 버스터미널"]]},
+      "itinerary": [5, 4, 1, 2, 3],
+      "season": "5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.",
+      "stay": [
+        ["구시가", "Historic centre", "Grasse historic centre", "처음 가는 여행에 추천|Best for a first visit", "향수 박물관과 공장, 대성당이 걸어서 가깝습니다. 언덕이 가파르고 저녁에는 조용합니다.|Perfume museum, factories and cathedral on foot; steep streets and quiet evenings."],
+        ["칸에서 다녀오기", "Base in Cannes", "Cannes", "거점에서 다녀오기|Day trip from a base", "칸에 묵고 기차로 약 30분 올라옵니다. 바닷가 숙소와 식당을 고르기 쉽습니다.|Stay in Cannes and ride the train up in about 30 minutes, with seaside hotels and restaurants to choose from."]
+      ],
+      "routes": [
+        ["cannes", "grasse", "train", 30, false, "칸역|Cannes", "그라스역|Grasse"],
+        ["nice", "grasse", "train", 75, false, "니스역|Nice-Ville", "그라스역|Grasse"]
+      ],
+      "transit": {"modes": ["bus", "train", "taxi", "walk"], "ko": "구시가는 걸어서 다니지만 오르막이 많습니다. 기차역에서 구시가까지는 언덕길이나 시내버스로 갑니다.", "en": "Walk the old town, with plenty of climbing; from the station, walk up or take a city bus."},
+      "apps": [["sncf"]],
+      "places": [
+        {"cat": "fine_dining", "name": "La Bastide Saint-Antoine", "addr": "48 Avenue Henri Dunant, 06130 Grasse", "ko": "올리브 숲 속 호텔의 프로방스 요리 레스토랑으로 미쉐린 가이드에 실려 있습니다.", "en": "Provençal restaurant in a hotel set among olive trees, listed in the MICHELIN Guide."}
+      ]
+    },
+    {
+      "id": "saint-paul-de-vence", "after": "grasse", "ko": "생폴드방스", "en": "Saint-Paul-de-Vence", "native": "Saint-Paul-de-Vence",
+      "lat": 43.6966, "lng": 7.1222,
+      "blurb": ["성벽에 둘러싸인 언덕 마을. 샤갈 등 화가들이 사랑한 예술가 마을입니다.", "A walled hill village loved by Chagall and other artists."],
+      "highlights": [
+        {"ko": "성벽 마을", "en": "Village and ramparts", "dko": "16세기 성벽에 둘러싸인 언덕 마을로, 성벽 위를 한 바퀴 걸으며 주변 풍경을 봅니다.", "den": "A hill village inside 16th-century walls; walk the ramparts for the views.", "maps": "Remparts de Saint-Paul-de-Vence", "visit": {"min": 45, "max": 90}},
+        {"ko": "마그 재단 미술관", "en": "Fondation Maeght", "dko": "미로·자코메티·샤갈의 작품을 정원과 함께 보는 근현대 미술관입니다.", "den": "Modern art by Miró, Giacometti and Chagall in buildings and gardens.", "maps": "Fondation Maeght", "visit": {"min": 90, "max": 120, "s": "https://www.fondation-maeght.com/"}},
+        {"ko": "그랑드 거리", "en": "Rue Grande", "dko": "갤러리와 공방이 늘어선 마을 중심 골목입니다.", "den": "The village’s main lane of galleries and workshops.", "maps": "Rue Grande Saint-Paul-de-Vence", "visit": {"min": 30, "max": 45}},
+        {"ko": "샤갈의 묘", "en": "Chagall’s grave", "dko": "마을 끝 공동묘지에 화가 샤갈이 잠들어 있습니다.", "den": "The painter Marc Chagall rests in the cemetery at the end of the village.", "maps": "Cimetière de Saint-Paul-de-Vence", "visit": {"min": 15, "max": 20}},
+        {"ko": "마티스 로사리오 성당", "en": "Chapelle du Rosaire (Vence)", "dko": "이웃 마을 방스에서 마티스가 스테인드글라스부터 제단까지 설계한 작은 성당입니다.", "den": "In neighbouring Vence, the small chapel Matisse designed down to the stained glass and altar.", "maps": "Chapelle du Rosaire Vence", "visit": {"min": 30, "max": 45}, "group": ["근교", "Nearby"]}
+      ],
+      "hubs": {"air": "NCE()"},
+      "itinerary": [1, 3, 4, 2, 5],
+      "stay": [
+        ["마을 안", "In the village", "Saint-Paul-de-Vence", "마을에서 묵기|Stay in the village", "낮 관광객이 떠난 뒤 조용한 성벽 마을을 즐길 수 있습니다. 숙소가 적고 비쌉니다.|Enjoy the walled village once day visitors leave; rooms are few and pricey."],
+        ["니스에서 다녀오기", "Base in Nice", "Nice", "거점에서 다녀오기|Day trip from a base", "니스에 묵고 400번 버스로 약 1시간 걸려 다녀옵니다.|Stay in Nice and take bus 400, about an hour each way."]
+      ],
+      "routes": [
+        ["nice", "saint-paul-de-vence", "bus", 55, false, "니스 시내|Nice centre", "생폴드방스|Saint-Paul-de-Vence", "400번 버스|Bus 400"]
+      ],
+      "transit": {"modes": ["bus", "taxi", "walk"], "ko": "마을 안은 걸어서만 다닙니다. 니스에서 400번 버스로 오고, 방스의 로사리오 성당도 같은 버스로 이어집니다.", "en": "The village is on foot only. Bus 400 comes from Nice and continues to Vence for the Rosary Chapel."},
+      "apps": [["lignes-azur", "버스 노선·실시간", "Bus routes, live times"]],
+      "places": [
+        {"cat": "fine_dining", "name": "La Table de Pierre", "addr": "Domaine du Mas de Pierre, 2320 Route des Serres, 06570 Saint-Paul-de-Vence", "ko": "도멘 뒤 마 드 피에르 안 미쉐린 1스타 지중해 요리 레스토랑입니다.", "en": "Michelin one-star Mediterranean restaurant at the Domaine du Mas de Pierre.", "michelin": "star1"}
+      ]
+    },
+    {
+      "id": "eze", "after": "nice", "ko": "에즈", "en": "Èze", "native": "Èze",
+      "lat": 43.728, "lng": 7.3616,
+      "blurb": ["바다 위 바위산 꼭대기의 '독수리 둥지' 중세 마을입니다.", "A medieval ‘eagle’s nest’ village on a rock high above the sea."],
+      "highlights": [
+        {"ko": "중세 마을", "en": "Èze village", "dko": "해발 약 430m 바위산 꼭대기에 돌집과 골목이 이어진 마을입니다.", "den": "Stone houses and lanes on a rocky peak about 430 m above the sea.", "maps": "Èze Village", "visit": {"min": 60, "max": 90}},
+        {"ko": "이국 식물 정원", "en": "Jardin exotique d’Èze", "dko": "옛 성터 꼭대기의 선인장·다육식물 정원으로 지중해가 한눈에 내려다보입니다.", "den": "A cactus and succulent garden on the old castle summit with sweeping sea views.", "maps": "Jardin Exotique d'Èze", "visit": {"min": 30, "max": 45, "s": "https://www.jardinexotique-eze.fr/", "n": "입장료가 있습니다(어른 약 €10). 여름에는 저녁까지 엽니다.|There is a fee (about €10 for adults); open into the evening in summer."}},
+        {"ko": "니체의 길", "en": "Chemin de Nietzsche", "dko": "철학자 니체가 걸었다는 산길로, 해안 에즈쉬르메르에서 마을까지 약 1시간 오릅니다.", "den": "The path Nietzsche is said to have walked, about an hour’s climb from Èze-sur-Mer to the village.", "maps": "Chemin de Nietzsche Èze", "visit": {"min": 60, "max": 90}},
+        {"ko": "성모승천 성당", "en": "Église Notre-Dame-de-l’Assomption", "dko": "노란 외벽과 종탑이 마을 위로 솟은 18세기 성당입니다.", "den": "An 18th-century church whose yellow walls and bell tower rise above the village.", "maps": "Église Notre-Dame-de-l'Assomption Èze", "visit": {"min": 15, "max": 20}},
+        {"ko": "프라고나르 향수 공장", "en": "Fragonard Èze", "dko": "마을 아래 향수 공장으로 만드는 과정을 무료로 둘러볼 수 있습니다.", "den": "A perfume factory below the village with free tours of how scent is made.", "maps": "Parfumerie Fragonard Èze", "visit": {"min": 30, "max": 45, "s": "https://www.fragonard.com/"}}
+      ],
+      "hubs": {"air": "NCE()", "rail": [["Gare d'Èze", "에즈역", "바닷가 에즈쉬르메르 · 마을까지 버스나 니체의 길|Èze-sur-Mer on the coast · bus or Nietzsche path up"]]},
+      "itinerary": [1, 4, 2, 5, 3],
+      "stay": [
+        ["마을 안", "In the village", "Èze village", "마을에서 묵기|Stay in the village", "고급 호텔 몇 곳이 전부라 비싸지만, 해 질 녘과 아침의 조용한 마을을 볼 수 있습니다.|Only a few luxury hotels, so it is pricey, but you get the quiet village at dusk and dawn."],
+        ["니스에서 다녀오기", "Base in Nice", "Nice", "거점에서 다녀오기|Day trip from a base", "니스에 묵고 버스로 약 30분 걸려 다녀옵니다. 모나코와 묶어 하루에 다녀오기 좋습니다.|Stay in Nice and take the bus, about 30 minutes; easy to pair with Monaco in a day."]
+      ],
+      "routes": [
+        ["nice", "eze", "bus", 30, false, "니스 시내|Nice centre", "에즈 마을|Èze village", "82번 버스|Bus 82"]
+      ],
+      "transit": {"modes": ["bus", "train", "walk"], "ko": "마을은 걸어서만 다닙니다. 니스에서 버스로 마을까지 바로 오거나, 기차로 바닷가 에즈역에 내려 버스나 니체의 길로 올라옵니다.", "en": "The village is on foot only. Take the bus from Nice straight up, or the train to Èze station on the coast and then a bus or the Nietzsche path."},
+      "apps": [["lignes-azur", "버스 노선·실시간", "Bus routes, live times"], ["sncf"]],
+      "places": [
+        {"cat": "fine_dining", "name": "La Chèvre d'Or", "addr": "Rue du Barri, 06360 Èze", "ko": "절벽 위 호텔 샤토 드 라 셰브르 도르의 미쉐린 2스타 레스토랑. 지중해가 내려다보입니다.", "en": "Michelin two-star restaurant of the clifftop Château de la Chèvre d’Or, overlooking the Mediterranean.", "michelin": "star2"}
+      ]
+    },
+    {
+      "id": "menton", "after": "eze", "ko": "망통", "en": "Menton", "native": "Menton",
+      "lat": 43.7747, "lng": 7.4975,
+      "blurb": ["이탈리아 국경의 레몬 도시. 파스텔빛 구시가와 정원이 아름답습니다.", "The lemon town on the Italian border, with a pastel old town and gardens."],
+      "highlights": [
+        {"ko": "구시가", "en": "Old town", "dko": "바다를 따라 노랑·주황 집들이 층층이 쌓인 언덕 위 옛 마을입니다.", "den": "The old hill town of yellow and orange houses stacked above the sea.", "maps": "Vieille Ville Menton", "visit": {"min": 45, "max": 60}},
+        {"ko": "생미셸 대성당", "en": "Basilique Saint-Michel-Archange", "dko": "구시가 계단 위에 선 17세기 바로크 성당으로, 앞 광장은 자갈 모자이크로 꾸며져 있습니다.", "den": "A 17th-century Baroque church atop the old-town steps, its square paved in pebble mosaic.", "maps": "Basilique Saint-Michel-Archange Menton", "visit": {"min": 15, "max": 30}},
+        {"ko": "장 콕토 미술관", "en": "Musée Jean Cocteau", "dko": "장 콕토의 그림과 드로잉을 모은 바닷가 미술관입니다.", "den": "A seafront museum of Jean Cocteau’s paintings and drawings.", "maps": "Musée Jean Cocteau Menton", "visit": {"min": 45, "max": 60, "s": "https://www.museecocteaumenton.fr/"}},
+        {"ko": "세르 드 라 마돈 정원", "en": "Jardin Serre de la Madone", "dko": "1920년대 영국인 원예가가 꾸민 언덕 정원으로 세계 각지의 희귀 식물이 자랍니다.", "den": "A hillside garden laid out in the 1920s by an English plantsman, with rare plants from around the world.", "maps": "Jardin Serre de la Madone Menton", "visit": {"min": 60, "max": 90, "s": "https://www.serredelamadone.com/"}},
+        {"ko": "발 라흐메 정원", "en": "Jardin du Val Rahmeh", "dko": "열대·아열대 식물이 자라는 국립자연사박물관 소속 식물원입니다.", "den": "A botanical garden of tropical and subtropical plants run by the National Museum of Natural History.", "maps": "Jardin du Val Rahmeh Menton", "visit": {"min": 45, "max": 60}},
+        {"ko": "해변 산책로", "en": "Promenade du Soleil", "dko": "카지노에서 구항구까지 이어지는 해변 산책로로 구시가 풍경이 잘 보입니다.", "den": "The seafront promenade from the casino to the old port, with views of the old town.", "maps": "Promenade du Soleil Menton", "visit": {"min": 30, "max": 45}}
+      ],
+      "hubs": {"air": "NCE()", "rail": [["Gare de Menton", "망통역"], ["Gare de Menton-Garavan", "망통 가라방역", "구시가 동쪽 · 이탈리아 쪽|east of the old town · towards Italy"]], "bus": [["Gare routière de Menton", "망통 버스터미널"]]},
+      "itinerary": [1, 2, 6, 3, 5, 4],
+      "season": "2월 레몬 축제(페트 뒤 시트롱) 때 숙소가 빨리 찹니다.|Rooms go fast during the February Lemon Festival (Fête du Citron).",
+      "stay": [
+        ["구시가·해변", "Old town & seafront", "Menton seafront", "처음 가는 여행에 추천|Best for a first visit", "해변 산책로와 구시가, 기차역이 걸어서 가깝고 식당이 많습니다.|The promenade, old town and station on foot, with plenty of restaurants."],
+        ["가라방", "Garavan", "Garavan Menton", "조용한 항구 동네|Quiet harbour quarter", "이탈리아 쪽 요트 항구 주변의 조용한 주택가로 정원들이 가깝습니다.|A quiet residential quarter around the yacht harbour towards Italy, close to the gardens."]
+      ],
+      "routes": [
+        ["nice", "menton", "train", 35, false, "니스역|Nice-Ville", "망통역|Menton"],
+        ["monaco", "menton", "train", 12, false, "모나코 몬테카를로역|Monaco–Monte-Carlo", "망통역|Menton"]
+      ],
+      "transit": {"modes": ["bus", "train", "walk"], "ko": "구시가와 해변은 걸어서 다닙니다. 니스·모나코·이탈리아 벤티밀리아는 해안 기차로 이어집니다.", "en": "Walk the old town and seafront; the coastal railway links Nice, Monaco and Ventimiglia in Italy."},
+      "apps": [["sncf"]],
+      "places": [
+        {"cat": "fine_dining", "name": "Mirazur", "addr": "30 Avenue Aristide Briand, 06500 Menton", "ko": "셰프 마우로 콜라그레코의 미쉐린 3스타 레스토랑. 텃밭 채소와 바다 전망으로 유명합니다.", "en": "Chef Mauro Colagreco’s Michelin three-star restaurant, known for its kitchen gardens and sea views.", "michelin": "star3"},
+        {"cat": "fine_dining", "name": "L'Orangerie", "addr": "3 Rue de la Marne, 06500 Menton", "ko": "현대 요리를 합리적인 값에 내는 비스트로로 2026년 미쉐린 빕 구르망을 받았습니다.", "en": "Bistro serving modern cooking at fair prices, awarded a Michelin Bib Gourmand in 2026.", "michelin": "bib"}
+      ]
+    }
+  ]
+}

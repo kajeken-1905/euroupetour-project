@@ -33,6 +33,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'bern-h4': v(60, 60, { b: 'req', s: 'https://www.parlament.ch/en/services/visiting-the-parliament-building', n: '내부 투어는 무료이며 여권이 필요합니다. 의회 회기 중에는 투어가 없습니다.|Tours are free and need a passport. None run while parliament is in session.', k: '2026-10' }),
   'bern-h5': v(30, 60),
   'bern-h6': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.bernermuenster.ch/de/berner-muenster/infos-kontakt/oeffnungszeiten.php', n: '성당은 무료이고 탑 전망대만 유료입니다. 겨울(10월 중순부터)에는 평일 낮 12시 이후에만 열고 탑은 15:30에 입장을 마감합니다.|The minster is free; only the tower climb is ticketed. In winter (from mid-October) it opens on weekdays only from noon, with last tower entry at 15:30.', k: '2026-10' }),
+  'bern-h7': v(30, 45, { s: 'https://www.einstein-bern.ch/', n: '매일 10~17시. 겨울에는 쉬어서 2026년은 2월 4일~12월 18일에만 엽니다. 어른 CHF 8, 스위스 트래블 패스 소지자 CHF 6.|Daily 10:00–17:00, closed in winter: in 2026 open 4 February to 18 December. Adults CHF 8, CHF 6 with a Swiss Travel Pass.', k: '2026-10' }),
   // Lucerne
   'lucerne-h1': v(15, 20),
   'lucerne-h2': v(60, 180, { s: 'https://www.lakelucerne.ch/en/', n: '유람선은 스위스 트래블 패스로 탈 수 있습니다.|Lake boats are covered by the Swiss Travel Pass.' }),

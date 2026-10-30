@@ -184,6 +184,33 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Gare de Nice-Ville', '니스역']],
     port: [['Port Lympia', '니스 항구 (포르 랭피아)', '코르시카행 페리|ferries to Corsica']],
   },
+  'saint-tropez': {
+    air: [NCE()],
+    bus: [['Gare routière de Saint-Tropez', '생트로페 버스터미널']],
+    port: [['Port de Saint-Tropez', '생트로페 항구', '생라파엘·생트막심·칸행 배|boats to Saint-Raphaël, Sainte-Maxime and Cannes']],
+  },
+  antibes: {
+    air: [NCE()],
+    rail: [['Gare d\'Antibes', '앙티브역']],
+    bus: [['Pôle d\'échanges d\'Antibes', '앙티브 버스터미널']],
+  },
+  grasse: {
+    air: [NCE()],
+    rail: [['Gare de Grasse', '그라스역', '구시가 아래 · 칸에서 기차|below the old town · trains from Cannes']],
+    bus: [['Gare routière de Grasse', '그라스 버스터미널']],
+  },
+  'saint-paul-de-vence': {
+    air: [NCE()],
+  },
+  eze: {
+    air: [NCE()],
+    rail: [['Gare d\'Èze', '에즈역', '바닷가 에즈쉬르메르 · 마을까지 버스나 니체의 길|Èze-sur-Mer on the coast · bus or Nietzsche path up']],
+  },
+  menton: {
+    air: [NCE()],
+    rail: [['Gare de Menton', '망통역'], ['Gare de Menton-Garavan', '망통 가라방역', '구시가 동쪽 · 이탈리아 쪽|east of the old town · towards Italy']],
+    bus: [['Gare routière de Menton', '망통 버스터미널']],
+  },
   ajaccio: {
     air: [['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 나폴레옹 보나파르트 공항 (AJA)']],
     rail: [["Gare d'Ajaccio", '아작시오역']],
