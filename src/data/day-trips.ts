@@ -1,0 +1,1002 @@
+/**
+ * Day trips from a base city to smaller towns that have their own city page. Travel time comes from the onward
+ * routes (routes-*.ts); `how` is shown instead when there is no public-transport entry (car or tour only).
+ * Text is 'ko|en'.
+ */
+export interface RawDayTrip {
+  to: string
+  tip: string
+  /** shown instead of a route, e.g. '차·투어로 약 45분|About 45 min by car or tour' */
+  how?: string
+}
+
+export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
+  paris: [
+    {
+      to: 'fontainebleau',
+      tip: '왕들의 궁전과 정원을 보고, 시간이 남으면 숲을 걷습니다. 궁전은 화요일 휴관입니다.|The royal palace and gardens, then a walk in the forest; the palace is closed on Tuesdays.',
+    },
+    {
+      to: 'giverny',
+      tip: '모네의 집과 정원은 4~10월에만 엽니다. 베르농역에서 셔틀버스로 갈아탑니다.|Monet’s house and garden open April–October only; change to the shuttle bus at Vernon.',
+    },
+    {
+      to: 'reims',
+      tip: '대성당과 샴페인 하우스 견학을 묶습니다. 샴페인 하우스는 예약하는 편이 좋습니다.|The cathedral plus a champagne-house tour; book the cellars ahead.',
+    },
+    {
+      to: 'chartres',
+      tip: '스테인드글라스로 유명한 대성당과 구시가 강변을 반나절에 봅니다.|The stained-glass cathedral and the riverside old town in half a day.',
+    },
+    {
+      to: 'rouen',
+      tip: '잔 다르크의 도시. 대성당과 대형 시계, 구시가 목조 가옥을 걷습니다.|Joan of Arc’s city: the cathedral, the Gros-Horloge and half-timbered lanes.',
+    },
+    {
+      to: 'amboise',
+      tip: '앙부아즈 성과 다빈치가 말년을 보낸 클로뤼세를 봅니다. 왕복 시간이 길어 아침 일찍 출발하세요.|Amboise castle and Clos Lucé, where Leonardo spent his last years; leave early, as the ride is long.',
+    },
+  ],
+  lyon: [
+    {
+      to: 'annecy',
+      tip: '호수와 운하가 흐르는 구시가를 걷습니다. 왕복 4시간이 걸려 하루가 꽉 찹니다.|Lakeside walks and the canal-side old town; about four hours there and back makes a full day.',
+    },
+  ],
+  marseille: [
+    {
+      to: 'cassis',
+      tip: '항구에서 칼랑크 유람선을 타거나 앙보까지 걷습니다. 6~9월엔 산불 위험으로 길이 닫히는 날이 있습니다.|Take a Calanques boat from the port or hike to En-Vau; trails can close on high fire-risk days in June–September.',
+    },
+    {
+      to: 'aix-en-provence',
+      tip: '미라보 거리와 분수, 세잔의 아틀리에를 봅니다. 아틀리에는 예약이 필요합니다.|Cours Mirabeau, the fountains and Cézanne’s studio, which needs booking.',
+    },
+    {
+      to: 'arles',
+      tip: '원형경기장과 반 고흐의 자취를 하루에 봅니다.|The Roman arena and Van Gogh’s Arles in a day.',
+    },
+    {
+      to: 'avignon',
+      tip: '교황궁과 아비뇽 다리를 봅니다. 7월 연극제 때는 매우 붐빕니다.|The Palais des Papes and the famous bridge; very busy during the July festival.',
+    },
+  ],
+  'aix-en-provence': [
+    {
+      to: 'marseille',
+      tip: '구항과 노트르담 드 라 가르드, 뮈셈을 하루에 봅니다.|The Old Port, Notre-Dame de la Garde and the MuCEM in a day.',
+    },
+    {
+      to: 'moustiers-sainte-marie',
+      how: '차로 약 1시간 40분|About 1 hr 40 min by car',
+      tip: '마을과 생트크루아 호수, 베르동 협곡 전망 도로를 묶습니다. 차가 필요하고 하루가 깁니다.|The village, Lake Sainte-Croix and the Verdon clifftop roads; you need a car and it is a long day.',
+    },
+  ],
+  nice: [
+    {
+      to: 'monaco',
+      tip: '몬테카를로 카지노 광장과 왕궁, 해양 박물관을 봅니다. 기차가 가장 빠릅니다.|Casino Square, the Prince’s Palace and the Oceanographic Museum; the train is quickest.',
+    },
+    {
+      to: 'eze',
+      tip: '절벽 위 마을과 이국 정원을 보고, 모나코와 묶어 하루에 다녀오기 좋습니다.|The clifftop village and its exotic garden; easy to pair with Monaco in a day.',
+    },
+    {
+      to: 'menton',
+      tip: '레몬 도시의 파스텔빛 구시가와 장 콕토 미술관, 정원을 봅니다.|Pastel old town, the Jean Cocteau museum and gardens in the lemon town.',
+    },
+    {
+      to: 'antibes',
+      tip: '피카소 미술관과 성벽 구시가, 아침 시장을 봅니다.|The Picasso museum, the walled old town and the morning market.',
+    },
+    {
+      to: 'cannes',
+      tip: '크루아제트 거리와 구시가 쉬케 언덕을 걷습니다. 앙티브와 묶어도 좋습니다.|Walk the Croisette and Le Suquet old town; pairs well with Antibes.',
+    },
+    {
+      to: 'saint-paul-de-vence',
+      tip: '성벽 마을과 마그 재단 미술관을 봅니다. 400번 버스는 붐비니 아침에 타세요.|The walled village and the Fondation Maeght; bus 400 gets busy, so go early.',
+    },
+    {
+      to: 'grasse',
+      tip: '향수 공장 견학과 국제 향수 박물관을 봅니다.|Perfume-factory tours and the International Perfume Museum.',
+    },
+  ],
+  cannes: [
+    {
+      to: 'antibes',
+      tip: '피카소 미술관과 성벽 구시가, 캅 당티브 산책로를 걷습니다.|The Picasso museum, the walled old town and the Cap d’Antibes coastal path.',
+    },
+    {
+      to: 'grasse',
+      tip: '향수 공장 견학과 향수 박물관을 봅니다.|Perfume-factory tours and the perfume museum.',
+    },
+    {
+      to: 'saint-tropez',
+      tip: '여름에는 배로 갑니다. 항구와 시타델, 라마튀엘 해변을 봅니다.|By boat in summer: the harbour, the citadel and the beaches at Ramatuelle.',
+    },
+    {
+      to: 'monaco',
+      tip: '몬테카를로와 왕궁, 해양 박물관을 봅니다.|Monte-Carlo, the Prince’s Palace and the Oceanographic Museum.',
+    },
+  ],
+  montpellier: [
+    {
+      to: 'sete',
+      tip: '운하 가 해산물 식당과 생클레르산 전망을 봅니다.|Seafood by the canals and the view from Mont Saint-Clair.',
+    },
+    {
+      to: 'nimes',
+      tip: '원형경기장과 메종 카레, 오후엔 버스로 퐁뒤가르에 다녀옵니다.|The arena and Maison Carrée, then a bus to the Pont du Gard.',
+    },
+    {
+      to: 'aigues-mortes',
+      how: '차로 약 40분|About 40 min by car',
+      tip: '성벽 위를 걷고 분홍 소금밭을 봅니다. 여름엔 그로뒤루아 해변과 묶어도 좋습니다.|Walk the ramparts and see the pink salt pans; in summer add the beaches at Le Grau-du-Roi.',
+    },
+  ],
+  nimes: [
+    {
+      to: 'arles',
+      tip: '원형경기장과 반 고흐의 자취를 봅니다.|The Roman arena and Van Gogh’s Arles.',
+    },
+    {
+      to: 'aigues-mortes',
+      tip: '성벽 위를 걷고 분홍 소금밭을 봅니다.|Walk the ramparts and see the pink salt pans.',
+    },
+  ],
+  toulouse: [
+    {
+      to: 'carcassonne',
+      tip: '성벽 안 시테와 콩탈 성을 보고, 아랫마을과 미디 운하를 걷습니다.|The walled Cité and the castle, then the lower town and the Canal du Midi.',
+    },
+  ],
+  perpignan: [
+    {
+      to: 'collioure',
+      tip: '야수파 화가들이 그린 항구와 성당, 왕궁 성을 봅니다.|The harbour the Fauvists painted, the church and the royal castle.',
+    },
+    {
+      to: 'narbonne',
+      tip: '짓다 만 대성당과 로마 박물관 나르보 비아, 레 알 시장을 봅니다.|The unfinished cathedral, the Narbo Via museum and Les Halles.',
+    },
+  ],
+  bordeaux: [
+    {
+      to: 'arcachon',
+      tip: '필라 모래 언덕에 오르고 굴 양식장 마을에서 굴을 맛봅니다. 언덕까지는 버스로 갈아탑니다.|Climb the Dune du Pilat and taste oysters in the oyster villages; change to a bus for the dune.',
+    },
+  ],
+  annecy: [
+    {
+      to: 'chamonix',
+      tip: '몽블랑 전망대 에귀 뒤 미디에 오릅니다. 맑은 날 아침에 출발하세요.|Ride up the Aiguille du Midi for Mont Blanc; set off early on a clear day.',
+    },
+  ],
+  avignon: [
+    {
+      to: 'arles',
+      tip: '원형경기장과 반 고흐의 자취를 하루에 봅니다. 차가 있으면 레보드프로방스와 묶을 수 있습니다.|The arena and Van Gogh’s Arles in a day; with a car, add Les Baux-de-Provence.',
+    },
+    {
+      to: 'nimes',
+      tip: '오전에 원형경기장과 메종 카레를 보고, 오후에 버스로 퐁뒤가르에 다녀옵니다.|The arena and Maison Carrée in the morning, then a bus out to the Pont du Gard.',
+    },
+    {
+      to: 'isle-sur-la-sorgue',
+      tip: '일요일·목요일 오전 장날에 맞춰 가면 좋습니다. 퐁텐드보클뤼즈까지는 버스나 택시로 약 15분입니다.|Best on the Sunday or Thursday morning market; Fontaine-de-Vaucluse is about 15 minutes on by bus or taxi.',
+    },
+    {
+      to: 'gordes',
+      how: '차·투어로 약 45분|About 45 min by car or tour',
+      tip: '세낭크 수도원과 루시용 오크르 길을 묶는 뤼베롱 투어가 많습니다. 대중교통은 거의 없습니다.|Luberon tours pair it with Sénanque Abbey and the Roussillon ochre trail; there is almost no public transport.',
+    },
+    {
+      to: 'les-baux-de-provence',
+      how: '차·투어로 약 30분|About 30 min by car or tour',
+      tip: '빛의 채석장과 성을 보고 생레미드프로방스에 들릅니다. 여름엔 아침 일찍 가야 덜 붐빕니다.|The light shows and the castle, then Saint-Rémy-de-Provence; go early in summer to beat the crowds.',
+    },
+  ],
+  rome: [
+    {
+      to: 'orvieto',
+      tip: '절벽 위 마을의 대성당과 지하 동굴, 성 파트리치오 우물을 봅니다. 역에서 푸니쿨라로 올라갑니다.|The clifftop cathedral, the underground caves and St Patrick’s Well; ride the funicular up from the station.',
+    },
+  ],
+  milan: [
+    {
+      to: 'como',
+      tip: '호숫가를 걷고 브루나테 푸니쿨라에 오르거나 배로 벨라조까지 갑니다.|Walk the lakefront, ride the Brunate funicular or take a boat to Bellagio.',
+    },
+    {
+      to: 'bergamo',
+      tip: '언덕 위 성벽 도시 치타 알타를 걷습니다. 아래 마을에서 푸니쿨라로 올라갑니다.|Walk the walled Città Alta on its hill, reached by funicular from the lower town.',
+    },
+    {
+      to: 'stresa',
+      tip: '배로 보로메오 섬들(벨라 섬·페스카토리 섬)을 돕니다. 섬 궁전은 봄~가을에만 엽니다.|Boat out to the Borromean Islands; the island palaces open spring to autumn only.',
+    },
+    {
+      to: 'sirmione',
+      tip: '가르다 호수 반도 끝 스칼리제라 성과 카툴루스 유적을 봅니다. 데센차노까지 기차, 이후 버스나 배입니다.|The Scaliger castle and the Grotte di Catullo on Lake Garda; train to Desenzano, then bus or boat.',
+    },
+    {
+      to: 'parma',
+      tip: '대성당과 세례당을 보고 파르마 햄·치즈를 맛봅니다.|The cathedral and baptistery, plus Parma ham and Parmigiano.',
+    },
+  ],
+  florence: [
+    {
+      to: 'pisa',
+      tip: '사탑과 대성당이 있는 기적의 광장을 봅니다. 루카와 묶으면 하루가 알찹니다.|The Leaning Tower and the Field of Miracles; pair it with Lucca for a full day.',
+    },
+    {
+      to: 'lucca',
+      tip: '성벽 위를 자전거로 한 바퀴 돌고 원형 광장을 봅니다.|Cycle the city walls and see the oval Piazza dell’Anfiteatro.',
+    },
+    {
+      to: 'siena',
+      tip: '캄포 광장과 대성당을 봅니다. 버스가 기차보다 시내에 가깝습니다.|The Campo and the cathedral; the bus drops you closer to the centre than the train.',
+    },
+    {
+      to: 'san-gimignano',
+      tip: '중세 탑 마을. 시에나와 묶는 투어도 많고, 버스는 포지본시에서 갈아탑니다.|The medieval tower town; often toured with Siena, and buses change at Poggibonsi.',
+    },
+    {
+      to: 'bologna',
+      tip: '포르티코 거리와 두 탑, 볼로냐 음식을 즐깁니다.|Arcaded streets, the Two Towers and Bologna’s food.',
+    },
+  ],
+  venice: [
+    {
+      to: 'padua',
+      tip: '조토의 스크로베니 예배당(예약 필수)과 성 안토니오 성당을 봅니다.|Giotto’s Scrovegni Chapel (booking required) and the Basilica of St Anthony.',
+    },
+    {
+      to: 'vicenza',
+      tip: '팔라디오의 건축(올림피코 극장·바실리카)을 봅니다.|Palladio’s buildings, including the Teatro Olimpico and the Basilica.',
+    },
+    {
+      to: 'verona',
+      tip: '아레나와 줄리엣의 집, 에르베 광장을 봅니다.|The Arena, Juliet’s House and Piazza delle Erbe.',
+    },
+  ],
+  verona: [
+    {
+      to: 'sirmione',
+      tip: '가르다 호수 반도의 성과 로마 유적, 온천을 즐깁니다.|The lakeside castle, Roman ruins and spa on Lake Garda.',
+    },
+    {
+      to: 'mantua',
+      tip: '곤차가 가문의 두칼레 궁전과 테 궁전을 봅니다.|The Gonzaga palaces, Palazzo Ducale and Palazzo Te.',
+    },
+    {
+      to: 'vicenza',
+      tip: '팔라디오의 올림피코 극장과 바실리카를 봅니다.|Palladio’s Teatro Olimpico and Basilica.',
+    },
+  ],
+  bologna: [
+    {
+      to: 'modena',
+      tip: '대성당과 광장(세계유산), 발사믹 식초 농가를 봅니다.|The World Heritage cathedral and square, plus a balsamic-vinegar farm.',
+    },
+    {
+      to: 'ferrara',
+      tip: '에스테 성과 성벽 위 자전거 길을 즐깁니다.|The Este castle and cycling on the city walls.',
+    },
+    {
+      to: 'parma',
+      tip: '대성당과 세례당, 파르마 햄·치즈를 즐깁니다.|The cathedral and baptistery, plus Parma ham and cheese.',
+    },
+    {
+      to: 'ravenna',
+      tip: '산 비탈레 성당 등 비잔틴 모자이크 성당들을 봅니다.|The Byzantine mosaics of San Vitale and the other churches.',
+    },
+  ],
+  naples: [
+    {
+      to: 'pompeii',
+      tip: '화산재에 묻힌 로마 도시. 시르쿰베수비아나 열차로 가며 반나절 이상 걸립니다.|The Roman city buried by Vesuvius; take the Circumvesuviana and allow at least half a day.',
+    },
+    {
+      to: 'capri',
+      tip: '배로 건너가 푸니쿨라로 마을에 오르고, 파도가 잔잔하면 푸른 동굴에 들어갑니다.|Ferry over, ride the funicular up and, when the sea is calm, visit the Blue Grotto.',
+    },
+    {
+      to: 'sorrento',
+      tip: '절벽 위 구시가와 레몬 가게를 걷습니다. 폼페이와 묶을 수 있습니다.|The clifftop old town and lemon shops; can be paired with Pompeii.',
+    },
+  ],
+  sorrento: [
+    {
+      to: 'capri',
+      tip: '배로 약 25분. 푸른 동굴은 파도가 높으면 닫힙니다.|About 25 min by boat; the Blue Grotto closes in rough seas.',
+    },
+    {
+      to: 'pompeii',
+      tip: '기차로 30분. 아침 일찍 들어가야 덜 덥고 덜 붐빕니다.|30 min by train; go early to beat the heat and crowds.',
+    },
+    {
+      to: 'positano',
+      tip: '버스나 배로 가는 절벽 마을. 아말피와 묶어 하루에 돌 수 있습니다.|The cliffside village by bus or boat; can be combined with Amalfi in a day.',
+    },
+    {
+      to: 'amalfi',
+      tip: '대성당과 해안 마을. 여름엔 도로가 막혀 배가 편합니다.|The cathedral and seafront; in summer the boat beats the road traffic.',
+    },
+  ],
+  genoa: [
+    {
+      to: 'portofino',
+      tip: '산타 마르게리타까지 기차, 이후 버스나 배로 갑니다. 브라운 성 전망이 좋습니다.|Train to Santa Margherita, then bus or boat; great views from Castello Brown.',
+    },
+    {
+      to: 'cinque-terre',
+      tip: '다섯 마을을 기차로 옮겨 다닙니다. 친퀘테레 카드로 열차와 산책로를 함께 씁니다.|Hop between the five villages by train; the Cinque Terre Card covers trains and trails.',
+    },
+  ],
+  pisa: [
+    {
+      to: 'lucca',
+      tip: '성벽 위 자전거와 원형 광장을 봅니다.|Cycle the walls and see Piazza dell’Anfiteatro.',
+    },
+    {
+      to: 'cinque-terre',
+      tip: '라스페치아에서 갈아타 다섯 마을을 기차로 돕니다.|Change at La Spezia and hop between the five villages by train.',
+    },
+  ],
+  bari: [
+    {
+      to: 'polignano-a-mare',
+      tip: '절벽 위 하얀 구시가와 라마 모나킬레 해변을 봅니다.|The white clifftop old town and the Lama Monachile cove.',
+    },
+    {
+      to: 'alberobello',
+      tip: '고깔 지붕 집 트룰리 마을을 걷습니다.|Walk among the cone-roofed trulli.',
+    },
+    {
+      to: 'matera',
+      tip: '동굴 주거지 사씨를 걷습니다. 버스가 기차보다 빠릅니다.|Walk the cave districts, the Sassi; the bus is faster than the train.',
+    },
+  ],
+  catania: [
+    {
+      to: 'taormina',
+      tip: '그리스 극장과 이솔라 벨라 해변을 봅니다.|The Greek theatre and the Isola Bella beach.',
+    },
+    {
+      to: 'siracusa',
+      tip: '오르티자 섬 구시가와 네아폴리스 고고학 공원을 봅니다.|Ortigia’s old town and the Neapolis archaeological park.',
+    },
+  ],
+  palermo: [
+    {
+      to: 'cefalu',
+      tip: '바위산 아래 노르만 대성당과 해변을 봅니다.|The Norman cathedral under the rock, and the beach.',
+    },
+  ],
+  perugia: [
+    {
+      to: 'assisi',
+      tip: '성 프란치스코 대성당과 언덕 마을을 봅니다.|The Basilica of St Francis and the hill town.',
+    },
+  ],
+  london: [
+    {
+      to: 'windsor',
+      tip: '왕실이 지금도 쓰는 윈저 성을 봅니다. 근위병 교대식 날을 확인하세요.|Windsor Castle, still a royal home; check the guard-change days.',
+    },
+    {
+      to: 'oxford',
+      tip: '대학 칼리지들과 보들리 도서관, 래드클리프 카메라를 봅니다.|The colleges, the Bodleian Library and the Radcliffe Camera.',
+    },
+    {
+      to: 'cambridge',
+      tip: '킹스 칼리지 예배당을 보고 캠강에서 펀트를 탑니다.|King’s College Chapel and a punt on the Cam.',
+    },
+    {
+      to: 'canterbury',
+      tip: '캔터베리 대성당과 중세 골목을 걷습니다.|Canterbury Cathedral and the medieval lanes.',
+    },
+    {
+      to: 'brighton',
+      tip: '로열 파빌리온과 바닷가 부두를 봅니다.|The Royal Pavilion and the seafront pier.',
+    },
+    {
+      to: 'bath',
+      tip: '로마 목욕탕과 로열 크레센트를 봅니다. 스톤헨지 투어와 묶는 경우가 많습니다.|The Roman Baths and the Royal Crescent; often toured together with Stonehenge.',
+    },
+    {
+      to: 'salisbury',
+      tip: '대성당의 마그나 카르타를 보고 버스로 스톤헨지에 다녀옵니다.|Magna Carta in the cathedral, then the bus out to Stonehenge.',
+    },
+    {
+      to: 'cotswolds',
+      tip: '꿀빛 돌집 마을들. 마을 사이 버스가 드물어 투어가 편합니다.|Honey-stone villages; buses between them are sparse, so a tour is easiest.',
+    },
+  ],
+  edinburgh: [
+    {
+      to: 'stirling',
+      tip: '스털링 성과 월리스 기념탑을 봅니다.|Stirling Castle and the Wallace Monument.',
+    },
+    {
+      to: 'st-andrews',
+      tip: '골프의 고향과 대성당 유적, 바닷가 대학 도시를 걷습니다.|The home of golf, the cathedral ruins and the seaside university town.',
+    },
+    {
+      to: 'glasgow',
+      tip: '켈빈그로브 미술관과 매킨토시 건축을 봅니다.|Kelvingrove museum and Mackintosh architecture.',
+    },
+  ],
+  manchester: [
+    {
+      to: 'liverpool',
+      tip: '비틀스 스토리와 앨버트 독, 축구장 투어를 즐깁니다.|The Beatles Story, Albert Dock and a stadium tour.',
+    },
+    {
+      to: 'york',
+      tip: '요크 민스터와 성벽, 섐블스 골목을 걷습니다.|York Minster, the city walls and the Shambles.',
+    },
+    {
+      to: 'lake-district',
+      tip: '윈더미어 호수 유람선과 피터 래빗 마을을 봅니다. 하루가 깁니다.|A Windermere cruise and Beatrix Potter country; it makes a long day.',
+    },
+  ],
+  bristol: [
+    {
+      to: 'bath',
+      tip: '기차로 12분. 로마 목욕탕과 로열 크레센트를 봅니다.|12 minutes by train: the Roman Baths and the Royal Crescent.',
+    },
+  ],
+  glasgow: [
+    {
+      to: 'stirling',
+      tip: '스털링 성과 월리스 기념탑을 봅니다.|Stirling Castle and the Wallace Monument.',
+    },
+  ],
+  conwy: [
+    {
+      to: 'snowdonia',
+      tip: '스노든산 등산 열차나 산길로 웨일스 최고봉에 오릅니다.|Climb Wales’s highest peak by the mountain railway or on foot.',
+    },
+  ],
+  belfast: [
+    {
+      to: 'giants-causeway',
+      tip: '육각 기둥 해안과 해안 도로를 봅니다. 대중교통은 갈아타야 해 투어가 편합니다.|The hexagonal basalt coast and the coast road; public transport needs changes, so tours are easiest.',
+    },
+  ],
+  amsterdam: [
+    {
+      to: 'haarlem',
+      tip: '기차로 17분. 그로테 마르크트와 프란스 할스 미술관을 봅니다.|17 min by train: the Grote Markt and the Frans Hals Museum.',
+    },
+    {
+      to: 'utrecht',
+      tip: '운하 테라스와 돔 탑에 오릅니다.|Canal-side wharves and the climb up the Dom Tower.',
+    },
+    {
+      to: 'delft',
+      tip: '델프트 도자기와 페르메이르의 도시를 걷습니다.|Delftware and Vermeer’s town.',
+    },
+    {
+      to: 'the-hague',
+      tip: '마우리츠하위스의 진주 귀걸이 소녀와 바닷가 스헤베닝언을 봅니다.|Girl with a Pearl Earring at the Mauritshuis and the beach at Scheveningen.',
+    },
+    {
+      to: 'giethoorn',
+      tip: '운하 마을에서 보트를 빌려 탑니다. 기차와 버스를 갈아타야 합니다.|Rent a boat in the canal village; needs a train and a bus.',
+    },
+  ],
+  rotterdam: [
+    {
+      to: 'delft',
+      tip: '기차로 12분. 구시가와 델프트 도자기 공방을 봅니다.|12 min by train: the old town and a Delftware workshop.',
+    },
+    {
+      to: 'the-hague',
+      tip: '마우리츠하위스와 의회 건물 비넨호프를 봅니다.|The Mauritshuis and the Binnenhof parliament.',
+    },
+  ],
+  brussels: [
+    {
+      to: 'bruges',
+      tip: '운하와 종탑, 마르크트 광장을 봅니다.|The canals, the Belfry and the Markt.',
+    },
+    {
+      to: 'ghent',
+      tip: '반 에이크의 제단화와 그라슬레이 강변을 봅니다.|Van Eyck’s altarpiece and the Graslei quays.',
+    },
+    {
+      to: 'antwerp',
+      tip: '루벤스의 집과 대성당, 화려한 중앙역을 봅니다.|Rubens House, the cathedral and the grand Central Station.',
+    },
+    {
+      to: 'leuven',
+      tip: '대학 도서관과 시청사, 맥주 거리를 즐깁니다.|The university library, the Town Hall and the beer bars.',
+    },
+    {
+      to: 'dinant',
+      tip: '절벽 아래 양파 지붕 성당과 성채를 봅니다.|The onion-domed church under the cliff and the citadel.',
+    },
+  ],
+  bruges: [
+    {
+      to: 'ghent',
+      tip: '기차로 25분. 그라슬레이 강변과 성 바보 대성당을 봅니다.|25 min by train: the Graslei and St Bavo’s Cathedral.',
+    },
+  ],
+  'luxembourg-city': [
+    {
+      to: 'vianden',
+      tip: '언덕 위 비안덴 성과 체어리프트를 탑니다.|Vianden Castle on its hill and the chairlift.',
+    },
+    {
+      to: 'echternach',
+      tip: '뮐러탈 바위 숲길(뮐러탈 트레일)을 걷습니다.|Walk the rock forests of the Mullerthal Trail.',
+    },
+    {
+      to: 'remich',
+      tip: '모젤 강변 포도밭과 와인 저장고를 봅니다.|Moselle vineyards and wine cellars.',
+    },
+  ],
+  helsinki: [
+    {
+      to: 'porvoo',
+      tip: '강가 붉은 창고와 나무집 구시가를 걷습니다.|Red riverside storehouses and the wooden old town.',
+    },
+    {
+      to: 'tallinn',
+      tip: '배로 건너가 중세 구시가를 봅니다.|Ferry over for the medieval old town.',
+    },
+  ],
+  stockholm: [
+    {
+      to: 'uppsala',
+      tip: '대성당과 대학, 옛 웁살라의 왕릉 언덕을 봅니다.|The cathedral, the university and the royal mounds of Old Uppsala.',
+    },
+  ],
+  copenhagen: [
+    {
+      to: 'roskilde',
+      tip: '덴마크 왕들이 잠든 대성당과 바이킹 선박 박물관을 봅니다.|The cathedral of the Danish kings and the Viking Ship Museum.',
+    },
+    {
+      to: 'malmo',
+      tip: '외레순 다리를 건너 스웨덴의 구시가와 터닝 토르소를 봅니다.|Cross the Øresund Bridge to Sweden’s old town and the Turning Torso.',
+    },
+    {
+      to: 'odense',
+      tip: '안데르센의 고향과 안데르센 박물관을 봅니다.|Hans Christian Andersen’s birthplace and museum.',
+    },
+  ],
+  vienna: [
+    {
+      to: 'bratislava',
+      tip: '성과 구시가를 반나절에 봅니다. 기차나 도나우강 배로 갑니다.|The castle and old town in half a day, by train or Danube boat.',
+    },
+  ],
+  budapest: [
+    {
+      to: 'eger',
+      tip: '성채와 미나레트, 미녀의 계곡 와인 저장고를 즐깁니다.|The castle, the minaret and the wine cellars of the Valley of Beautiful Women.',
+    },
+  ],
+  prague: [
+    {
+      to: 'karlovy-vary',
+      tip: '온천 회랑을 걸으며 광천수를 마셔 봅니다.|Walk the spa colonnades and taste the mineral springs.',
+    },
+  ],
+  'ceske-budejovice': [
+    {
+      to: 'cesky-krumlov',
+      tip: '버스로 35분. 성과 블타바강이 감싼 구시가를 봅니다.|35 min by bus: the castle and the old town in the Vltava loop.',
+    },
+  ],
+  madrid: [
+    {
+      to: 'toledo',
+      tip: '세 문화가 남은 언덕 위 구시가와 대성당을 봅니다.|The hilltop old town of three cultures and the cathedral.',
+    },
+    {
+      to: 'segovia',
+      tip: '로마 수도교와 알카사르를 봅니다. 새끼 돼지 요리가 유명합니다.|The Roman aqueduct and the Alcázar; famous for roast suckling pig.',
+    },
+    {
+      to: 'salamanca',
+      tip: '마요르 광장과 대학, 두 대성당을 봅니다.|The Plaza Mayor, the university and the two cathedrals.',
+    },
+    {
+      to: 'cordoba',
+      tip: '메스키타와 꽃 골목을 봅니다. 고속열차로 당일치기가 가능합니다.|The Mezquita and the flower-filled lanes; doable in a day by high-speed train.',
+    },
+  ],
+  barcelona: [
+    {
+      to: 'montserrat',
+      tip: '톱니바퀴 열차나 케이블카로 수도원에 오르고 성가대 공연을 봅니다.|Ride the rack railway or cable car to the monastery and hear the choir.',
+    },
+    {
+      to: 'girona',
+      tip: '성벽 길과 대성당, 오냐르 강변 색색의 집을 봅니다.|The city walls, the cathedral and the colourful houses on the Onyar.',
+    },
+  ],
+  seville: [
+    {
+      to: 'cordoba',
+      tip: '기차로 45분. 메스키타와 꽃 골목을 봅니다.|45 min by train: the Mezquita and the flower lanes.',
+    },
+    {
+      to: 'ronda',
+      tip: '협곡 위 누에보 다리와 투우장을 봅니다.|The Puente Nuevo over the gorge and the bullring.',
+    },
+  ],
+  malaga: [
+    {
+      to: 'nerja',
+      tip: '유럽의 발코니 전망대와 네르하 동굴을 봅니다.|The Balcón de Europa and the Nerja caves.',
+    },
+    {
+      to: 'ronda',
+      tip: '협곡 위 누에보 다리를 봅니다.|The Puente Nuevo over the gorge.',
+    },
+    {
+      to: 'cordoba',
+      tip: '기차로 1시간. 메스키타를 봅니다.|An hour by train to the Mezquita.',
+    },
+    {
+      to: 'granada',
+      tip: '알람브라를 봅니다. 입장권은 미리 예약하세요.|The Alhambra; book tickets well ahead.',
+    },
+  ],
+  granada: [
+    {
+      to: 'cordoba',
+      tip: '메스키타와 꽃 골목을 봅니다.|The Mezquita and the flower lanes.',
+    },
+  ],
+  bilbao: [
+    {
+      to: 'san-sebastian',
+      tip: '구시가 핀초스 바와 라 콘차 해변을 즐깁니다.|Pintxos bars in the old town and La Concha beach.',
+    },
+  ],
+  lisbon: [
+    {
+      to: 'sintra',
+      tip: '페나 궁전과 헤갈레이라 별장을 봅니다. 입장권은 시간 예약이 필요합니다.|Pena Palace and Quinta da Regaleira; timed tickets needed.',
+    },
+    {
+      to: 'cascais',
+      tip: '바닷가 마을과 지옥의 입, 해안 자전거 길을 즐깁니다.|The seaside town, Boca do Inferno and the coastal cycle path.',
+    },
+    {
+      to: 'obidos',
+      tip: '성벽 위를 걷고 진지냐(체리주)를 맛봅니다.|Walk the walls and taste ginjinha cherry liqueur.',
+    },
+    {
+      to: 'evora',
+      tip: '로마 신전과 뼈 예배당을 봅니다.|The Roman temple and the Chapel of Bones.',
+    },
+    {
+      to: 'nazare',
+      tip: '큰 파도로 유명한 바닷가와 절벽 위 마을을 봅니다.|The giant-wave beach and the clifftop village.',
+    },
+    {
+      to: 'fatima',
+      tip: '성모 발현지 성당을 봅니다.|The sanctuary of the Marian apparitions.',
+    },
+  ],
+  porto: [
+    {
+      to: 'aveiro',
+      tip: '몰리세이루 배로 운하를 돌고 코스타 노바 줄무늬 집을 봅니다.|Moliceiro boats on the canals and the striped houses of Costa Nova.',
+    },
+    {
+      to: 'braga',
+      tip: '봉 제수스 계단과 대성당을 봅니다.|The Bom Jesus stairway and the cathedral.',
+    },
+    {
+      to: 'guimaraes',
+      tip: '포르투갈이 시작된 성과 구시가를 봅니다.|The castle where Portugal began and the old town.',
+    },
+    {
+      to: 'coimbra',
+      tip: '대학 조아니나 도서관과 구시가를 봅니다.|The university’s Joanina Library and the old town.',
+    },
+  ],
+  coimbra: [
+    {
+      to: 'aveiro',
+      tip: '기차로 30분. 운하 배와 코스타 노바를 봅니다.|30 min by train: canal boats and Costa Nova.',
+    },
+  ],
+  faro: [
+    {
+      to: 'lagos',
+      tip: '폰타 다 피에다데 절벽과 해변을 봅니다.|The cliffs and coves of Ponta da Piedade.',
+    },
+  ],
+  zurich: [
+    {
+      to: 'lucerne',
+      tip: '카펠 다리와 구시가를 보고, 날이 맑으면 리기산이나 필라투스산에 오릅니다.|The Chapel Bridge and old town, and on a clear day Mount Rigi or Pilatus.',
+    },
+    {
+      to: 'vaduz',
+      tip: '작은 나라 리히텐슈타인의 수도. 미술관과 언덕 위 성 전망을 봅니다. 사르간스에서 버스로 갈아탑니다.|Liechtenstein’s capital: the art museum and the castle view; change to a bus at Sargans.',
+    },
+  ],
+  geneva: [
+    {
+      to: 'lausanne',
+      tip: '올림픽 박물관과 대성당, 라보 포도밭 테라스를 봅니다.|The Olympic Museum, the cathedral and the Lavaux vineyard terraces.',
+    },
+    {
+      to: 'montreux',
+      tip: '레만 호숫가 시용 성과 프레디 머큐리 동상을 봅니다.|Chillon Castle on the lake and the Freddie Mercury statue.',
+    },
+    {
+      to: 'chamonix',
+      tip: '에귀 뒤 미디 전망대에서 몽블랑을 봅니다. 맑은 날 아침에 출발하세요.|Mont Blanc from the Aiguille du Midi; leave early on a clear day.',
+    },
+    {
+      to: 'annecy',
+      tip: '운하가 흐르는 구시가와 호숫가를 걷습니다.|The canal-side old town and the lakefront.',
+    },
+  ],
+  bern: [
+    {
+      to: 'interlaken',
+      tip: '융프라우 지역으로 가는 관문. 하더쿨름 전망대나 호수 유람선을 즐깁니다.|Gateway to the Jungfrau region: the Harder Kulm viewpoint or a lake cruise.',
+    },
+    {
+      to: 'lucerne',
+      tip: '카펠 다리와 빈사의 사자상, 호수 유람선을 즐깁니다.|The Chapel Bridge, the Lion Monument and a lake cruise.',
+    },
+  ],
+  lucerne: [
+    {
+      to: 'interlaken',
+      tip: '골든패스 노선 경치 열차로 갑니다. 브리엔츠 호수를 지납니다.|Ride the scenic GoldenPass line past Lake Brienz.',
+    },
+  ],
+  interlaken: [
+    {
+      to: 'grindelwald',
+      tip: '피르스트 전망대와 클리프 워크, 아이거 북벽 전망을 즐깁니다.|First and its Cliff Walk, with views of the Eiger north face.',
+    },
+  ],
+  lausanne: [
+    {
+      to: 'montreux',
+      tip: '기차로 20분. 시용 성과 호숫가 산책로를 걷습니다.|20 min by train: Chillon Castle and the lakeside promenade.',
+    },
+  ],
+  berlin: [
+    {
+      to: 'potsdam',
+      tip: '상수시 궁전과 정원을 봅니다. 베를린 교통권 ABC 구역으로 갈 수 있습니다.|Sanssouci Palace and park; covered by a Berlin ABC-zone ticket.',
+    },
+    {
+      to: 'leipzig',
+      tip: '바흐의 토마스 교회와 동독 시절 월요 시위의 니콜라이 교회를 봅니다.|Bach’s St Thomas Church and St Nicholas, home of the 1989 Monday protests.',
+    },
+    {
+      to: 'dresden',
+      tip: '츠빙거 궁전과 프라우엔 교회, 엘베 강변 테라스를 봅니다.|The Zwinger, the Frauenkirche and the Brühl Terrace on the Elbe.',
+    },
+  ],
+  munich: [
+    {
+      to: 'fussen',
+      tip: '노이슈반슈타인 성을 봅니다. 입장권은 시간 예약이 필요하고 성까지 언덕을 걸어 오릅니다.|Neuschwanstein Castle; timed tickets are needed and it is an uphill walk to the gate.',
+    },
+    {
+      to: 'nuremberg',
+      tip: '카이저부르크 성과 구시가, 전범 재판 기념관을 봅니다.|The Kaiserburg, the old town and the Nuremberg Trials memorial.',
+    },
+    {
+      to: 'salzburg',
+      tip: '모차르트 생가와 호엔잘츠부르크 성을 봅니다.|Mozart’s birthplace and Hohensalzburg Fortress.',
+    },
+  ],
+  frankfurt: [
+    {
+      to: 'heidelberg',
+      tip: '언덕 위 고성과 철학자의 길, 옛 다리를 걷습니다.|The castle ruins, the Philosophers’ Walk and the Old Bridge.',
+    },
+  ],
+  stuttgart: [
+    {
+      to: 'heidelberg',
+      tip: '고성과 대학 도시 구시가를 걷습니다.|The castle and the university old town.',
+    },
+  ],
+  nuremberg: [
+    {
+      to: 'rothenburg',
+      tip: '성벽으로 둘러싸인 중세 마을. 슈타이나흐와 안스바흐에서 갈아탑니다.|The walled medieval town; change at Steinach or Ansbach.',
+    },
+  ],
+  dresden: [
+    {
+      to: 'leipzig',
+      tip: '토마스 교회와 니콜라이 교회를 봅니다.|St Thomas and St Nicholas churches.',
+    },
+  ],
+  athens: [
+    {
+      to: 'sounion',
+      tip: '바다 위 절벽의 포세이돈 신전에서 해 지는 풍경을 봅니다.|Sunset at the Temple of Poseidon on the sea cliff.',
+    },
+  ],
+  split: [
+    {
+      to: 'trogir',
+      tip: '섬 위 중세 구시가와 대성당을 봅니다.|The medieval island old town and its cathedral.',
+    },
+    {
+      to: 'hvar',
+      tip: '배로 건너가 요새에 오르고 항구를 걷습니다.|Ferry over, climb to the fortress and stroll the harbour.',
+    },
+  ],
+  dubrovnik: [
+    {
+      to: 'kotor',
+      tip: '만 안쪽 성벽 도시를 걸어 산 위 요새에 오릅니다. 국경 심사 때문에 시간이 더 걸릴 수 있습니다.|Walk the walled town and climb to the fortress; the border can add time.',
+    },
+  ],
+  zadar: [
+    {
+      to: 'plitvice',
+      tip: '계단식 호수와 폭포 사이 나무 길을 걷습니다. 여름엔 입장 시간 예약이 필요합니다.|Boardwalks among the terraced lakes and waterfalls; timed tickets needed in summer.',
+    },
+  ],
+  dublin: [
+    {
+      to: 'kilkenny',
+      tip: '킬케니 성과 중세 골목, 양조장을 봅니다.|Kilkenny Castle, the medieval lanes and the brewery.',
+    },
+  ],
+  cork: [
+    {
+      to: 'killarney',
+      tip: '킬라니 국립공원과 머크로스 저택을 봅니다.|Killarney National Park and Muckross House.',
+    },
+  ],
+  ljubljana: [
+    {
+      to: 'bled',
+      tip: '호수 섬의 성당까지 나룻배(플레트나)를 타고, 절벽 위 성에 오릅니다.|Row out on a pletna boat to the island church and climb to the castle.',
+    },
+    {
+      to: 'postojna',
+      tip: '동굴 열차를 타고 종유석 동굴을 보고 프레드야마 성과 묶습니다.|Ride the cave train through the caverns, then add Predjama Castle.',
+    },
+  ],
+  sarajevo: [
+    {
+      to: 'mostar',
+      tip: '스타리 모스트 다리와 오스만 구시가를 봅니다. 열차 풍경이 아름답습니다.|The Stari Most bridge and the Ottoman old town; the train ride is scenic.',
+    },
+    {
+      to: 'travnik',
+      tip: '오스만 시대 요새와 색칠한 모스크를 봅니다.|The Ottoman fortress and the painted mosque.',
+    },
+  ],
+  kotor: [
+    {
+      to: 'budva',
+      tip: '성벽 구시가와 해변을 즐깁니다.|The walled old town and the beaches.',
+    },
+    {
+      to: 'herceg-novi',
+      tip: '계단 골목과 요새가 있는 만 입구의 마을입니다.|Stepped lanes and fortresses at the mouth of the bay.',
+    },
+  ],
+  belgrade: [
+    {
+      to: 'novi-sad',
+      tip: '페트로바라딘 요새와 구시가를 봅니다. 고속열차로 36분입니다.|Petrovaradin Fortress and the old town; 36 min by fast train.',
+    },
+  ],
+  'novi-sad': [
+    {
+      to: 'subotica',
+      tip: '헝가리풍 아르누보 시청과 시나고그를 봅니다.|The Hungarian Art Nouveau town hall and synagogue.',
+    },
+  ],
+  skopje: [
+    {
+      to: 'tetovo',
+      tip: '색칠한 모스크와 아라바티 데르비시 수도원을 봅니다.|The Painted Mosque and the Arabati Baba Tekke.',
+    },
+  ],
+  ohrid: [
+    {
+      to: 'bitola',
+      tip: '시로크 소카크 거리와 헤라클레아 유적을 봅니다.|Širok Sokak street and the ruins of Heraclea Lyncestis.',
+    },
+  ],
+  limassol: [
+    {
+      to: 'paphos',
+      tip: '고대 모자이크 유적과 왕들의 무덤을 봅니다.|The ancient mosaics and the Tombs of the Kings.',
+    },
+  ],
+  sarande: [
+    {
+      to: 'gjirokaster',
+      tip: '돌지붕 집의 오스만 도시와 성채를 봅니다.|The stone-roofed Ottoman town and its castle.',
+    },
+    {
+      to: 'corfu',
+      tip: '배로 건너가 코르푸 구시가와 요새를 봅니다. 여권이 필요합니다.|Ferry over for Corfu’s old town and fortresses; bring your passport.',
+    },
+  ],
+  valletta: [
+    {
+      to: 'mdina',
+      tip: '고요한 성벽 도시와 성채 전망을 봅니다. 라바트 지하 묘지와 묶습니다.|The silent walled city and its bastion views; pair with the Rabat catacombs.',
+    },
+    {
+      to: 'gozo',
+      tip: '배로 건너가 치타델라와 해안 절벽을 봅니다.|Ferry over for the Citadella and the coastal cliffs.',
+    },
+  ],
+  tallinn: [
+    {
+      to: 'helsinki',
+      tip: '배로 건너가 대성당과 시장 광장, 수오멘린나 요새를 봅니다.|Ferry over for the cathedral, Market Square and Suomenlinna.',
+    },
+  ],
+  riga: [
+    {
+      to: 'jurmala',
+      tip: '긴 모래 해변과 나무 별장 거리를 걷습니다.|The long sandy beach and streets of wooden villas.',
+    },
+    {
+      to: 'sigulda',
+      tip: '가우야 국립공원과 투라이다 성을 봅니다.|Gauja National Park and Turaida Castle.',
+    },
+  ],
+  vilnius: [
+    {
+      to: 'kaunas',
+      tip: '구시가와 성, 전간기 모더니즘 건축을 봅니다. 트라카이 성은 빌뉴스에서 따로 가깝습니다.|The old town, the castle and interwar modernist buildings.',
+    },
+  ],
+  nicosia: [
+    {
+      to: 'limassol',
+      tip: '바닷가 구시가와 성, 해안 산책로를 걷습니다.|The seaside old town, the castle and the promenade.',
+    },
+  ],
+  chisinau: [
+    {
+      to: 'orheiul-vechi',
+      tip: '절벽 동굴 수도원과 강이 굽이치는 계곡을 봅니다.|The cliff cave monastery above the river bend.',
+    },
+  ],
+  tbilisi: [
+    {
+      to: 'sighnaghi',
+      tip: '카헤티 와인 지방의 언덕 마을과 성벽을 봅니다.|The hilltop wine town and walls of Kakheti.',
+    },
+  ],
+  yerevan: [
+    {
+      to: 'dilijan',
+      tip: '숲속 마을과 하가르친·고샤방크 수도원을 봅니다.|The forest town and the Haghartsin and Goshavank monasteries.',
+    },
+  ],
+  'north-nicosia': [
+    {
+      to: 'famagusta',
+      tip: '베네치아 성벽과 대성당 모스크를 봅니다.|The Venetian walls and the cathedral-mosque.',
+    },
+  ],
+}

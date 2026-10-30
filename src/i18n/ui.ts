@@ -160,6 +160,11 @@ export const ui = {
   essToilets: { ko: '화장실', en: 'Toilets' },
   essTime: { ko: '시간대', en: 'Time zone' },
   routesTitle: { ko: '다음 도시로 이동', en: 'Onward travel' },
+  dayTripsTitle: { ko: '당일치기 여행', en: 'Day trips' },
+  dayTripsHint: {
+    ko: '이곳에 묵으며 하루에 다녀오기 좋은 소도시입니다. 시간은 가장 빠른 편 기준의 대략적인 편도 시간이니 시간표는 운영사에서 확인하세요.',
+    en: 'Smaller towns that make an easy day out from here. Times are rough one-way fastest journeys; check timetables with the operator.',
+  },
   nightTrainsTitle: { ko: '야간열차', en: 'Night trains' },
   scenicTrainsTitle: { ko: '특색 열차·산악 열차', en: 'Scenic & mountain railways' },
   funicularsTitle: { ko: '푸니쿨라·케이블카', en: 'Funiculars & cable cars' },

@@ -19,6 +19,7 @@ import { getCityHubs } from '../data/hubs'
 import { getCityRoutes } from '../data/routes'
 import { TourButton } from '../components/TourButton'
 import { RoutesPanel } from '../components/RoutesPanel'
+import { DayTripsPanel } from '../components/DayTripsPanel'
 import { NightTrainsPanel } from '../components/NightTrainsPanel'
 import { ScenicTrainsPanel } from '../components/ScenicTrainsPanel'
 import { FunicularsPanel } from '../components/FunicularsPanel'
@@ -117,6 +118,8 @@ function CityView() {
       <ItineraryPanel city={city} />
 
       <PlannerPanel city={city} />
+
+      <DayTripsPanel cityId={city.id} />
 
       <CityMap city={city} />
 
