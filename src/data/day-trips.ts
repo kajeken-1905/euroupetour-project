@@ -246,6 +246,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'parma',
       tip: '대성당과 세례당을 보고 파르마 햄·치즈를 맛봅니다.|The cathedral and baptistery, plus Parma ham and Parmigiano.',
     },
+    {
+      to: 'verona',
+      tip: '아레나와 줄리엣의 집, 에르베 광장을 봅니다.|The Arena, Juliet’s House and Piazza delle Erbe.',
+    },
+    {
+      to: 'lugano',
+      tip: '스위스 루가노 호숫가 구시가와 몬테 브레, 산살바토레 전망을 즐깁니다. 신분증을 챙기세요.|Lugano’s lakeside old town and the Monte Brè or San Salvatore views in Switzerland; bring ID.',
+    },
   ],
   florence: [
     {
@@ -268,6 +276,16 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'bologna',
       tip: '포르티코 거리와 두 탑, 볼로냐 음식을 즐깁니다.|Arcaded streets, the Two Towers and Bologna’s food.',
     },
+    {
+      to: 'cinque-terre',
+      how: '기차로 피사 경유 약 2시간|About 2 hrs by train via Pisa',
+      mode: 'train',
+      tip: '피사에서 라스페치아로 갈아타 다섯 마을을 기차로 돕니다. 하루가 깁니다.|Change at Pisa for La Spezia and hop the five villages by train; it makes a long day.',
+    },
+    {
+      to: 'montepulciano',
+      tip: '와인 비노 노빌레의 언덕 마을. 발도르차 풍경과 묶는 투어가 편합니다.|The hill town of Vino Nobile; tours that add the Val d’Orcia countryside are easiest.',
+    },
   ],
   venice: [
     {
@@ -281,6 +299,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'verona',
       tip: '아레나와 줄리엣의 집, 에르베 광장을 봅니다.|The Arena, Juliet’s House and Piazza delle Erbe.',
+    },
+    {
+      to: 'cortina',
+      tip: '돌로미티 산악 마을. 여름엔 케이블카로 전망대에 오릅니다. 편도가 길어 아침 일찍 출발하세요.|The Dolomites resort; ride a cable car up in summer, and leave early as the bus is long.',
     },
   ],
   verona: [
@@ -327,6 +349,12 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'sorrento',
       tip: '절벽 위 구시가와 레몬 가게를 걷습니다. 폼페이와 묶을 수 있습니다.|The clifftop old town and lemon shops; can be paired with Pompeii.',
+    },
+    {
+      to: 'positano',
+      how: '기차·버스로 소렌토 경유 약 2시간|About 2 hrs by train and bus via Sorrento',
+      mode: 'train',
+      tip: '아말피 해안 절벽 마을. 여름엔 나폴리에서 직항 배도 다닙니다.|The cliffside Amalfi Coast village; in summer boats also run direct from Naples.',
     },
   ],
   sorrento: [
@@ -436,6 +464,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'cotswolds',
       tip: '꿀빛 돌집 마을들. 마을 사이 버스가 드물어 투어가 편합니다.|Honey-stone villages; buses between them are sparse, so a tour is easiest.',
     },
+    {
+      to: 'stratford-upon-avon',
+      tip: '셰익스피어 생가와 로열 셰익스피어 극장을 봅니다. 저녁 공연을 보면 막차를 확인하세요.|Shakespeare’s Birthplace and the Royal Shakespeare Theatre; check the last train if you stay for a show.',
+    },
+    {
+      to: 'york',
+      tip: '고속열차로 약 2시간. 요크 민스터와 성벽, 섐블스 골목을 봅니다.|About 2 hours by fast train: York Minster, the walls and the Shambles.',
+    },
   ],
   edinburgh: [
     {
@@ -463,6 +499,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'lake-district',
       tip: '윈더미어 호수 유람선과 피터 래빗 마을을 봅니다. 하루가 깁니다.|A Windermere cruise and Beatrix Potter country; it makes a long day.',
+    },
+    {
+      to: 'conwy',
+      tip: '성벽으로 둘러싸인 웨일스의 성과 마을을 봅니다.|The walled Welsh town and its castle.',
     },
   ],
   bristol: [
@@ -509,6 +549,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'giethoorn',
       tip: '운하 마을에서 보트를 빌려 탑니다. 기차와 버스를 갈아타야 합니다.|Rent a boat in the canal village; needs a train and a bus.',
+    },
+    {
+      to: 'rotterdam',
+      tip: '큐브 하우스와 마르크탈, 에라스뮈스 다리 같은 현대 건축을 봅니다. 킨더다이크 풍차와 묶기도 합니다.|Modern architecture: the Cube Houses, the Markthal and the Erasmus Bridge; often paired with the Kinderdijk windmills.',
+    },
+    {
+      to: 'antwerp',
+      tip: '루벤스의 집과 대성당, 화려한 중앙역을 봅니다.|Rubens House, the cathedral and the grand Central Station.',
     },
   ],
   rotterdam: [
@@ -610,6 +658,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'karlovy-vary',
       tip: '온천 회랑을 걸으며 광천수를 마셔 봅니다.|Walk the spa colonnades and taste the mineral springs.',
     },
+    {
+      to: 'cesky-krumlov',
+      tip: '블타바강이 감싼 구시가와 성을 봅니다. 직행 버스가 기차보다 편합니다.|The old town in the Vltava loop and the castle; the direct bus beats the train.',
+    },
+    {
+      to: 'dresden',
+      tip: '츠빙거 궁전과 프라우엔 교회, 엘베 강변을 봅니다. 엘베강 계곡을 따라가는 기차 풍경이 좋습니다.|The Zwinger, the Frauenkirche and the Elbe riverside; the train follows the scenic Elbe valley.',
+    },
   ],
   'ceske-budejovice': [
     {
@@ -710,6 +766,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'fatima',
       tip: '성모 발현지 성당을 봅니다.|The sanctuary of the Marian apparitions.',
     },
+    {
+      to: 'coimbra',
+      tip: '포르투갈에서 가장 오래된 대학과 조아니나 도서관을 봅니다.|Portugal’s oldest university and the Joanina Library.',
+    },
   ],
   porto: [
     {
@@ -750,6 +810,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'vaduz',
       tip: '작은 나라 리히텐슈타인의 수도. 미술관과 언덕 위 성 전망을 봅니다. 사르간스에서 버스로 갈아탑니다.|Liechtenstein’s capital: the art museum and the castle view; change to a bus at Sargans.',
     },
+    {
+      to: 'bern',
+      tip: '아케이드 구시가와 시계탑, 곰 공원을 봅니다.|The arcaded old town, the clock tower and the bear park.',
+    },
+    {
+      to: 'interlaken',
+      tip: '하더쿨름 전망대나 호수 유람선을 즐깁니다. 융프라우요흐까지 가면 하루가 꽉 찹니다.|The Harder Kulm or a lake cruise; going up to the Jungfraujoch fills the whole day.',
+    },
   ],
   geneva: [
     {
@@ -777,6 +845,22 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'lucerne',
       tip: '카펠 다리와 빈사의 사자상, 호수 유람선을 즐깁니다.|The Chapel Bridge, the Lion Monument and a lake cruise.',
+    },
+    {
+      to: 'grindelwald',
+      how: '기차로 인터라켄 경유 약 1시간 25분|About 1 hr 25 min by train via Interlaken',
+      mode: 'train',
+      tip: '피르스트 클리프 워크와 아이거 북벽 전망을 즐깁니다.|The First Cliff Walk and views of the Eiger north face.',
+    },
+    {
+      to: 'zermatt',
+      tip: '마터호른 전망대 고르너그라트에 오릅니다. 맑은 날 아침 일찍 출발하세요.|Ride up the Gornergrat for the Matterhorn; leave early on a clear day.',
+    },
+    {
+      to: 'montreux',
+      how: '기차로 로잔 경유 약 1시간 30분|About 1 hr 30 min by train via Lausanne',
+      mode: 'train',
+      tip: '레만 호숫가 시용 성과 산책로를 봅니다.|Chillon Castle and the lakeside promenade.',
     },
   ],
   lucerne: [
@@ -877,6 +961,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'kotor',
       tip: '만 안쪽 성벽 도시를 걸어 산 위 요새에 오릅니다. 국경 심사 때문에 시간이 더 걸릴 수 있습니다.|Walk the walled town and climb to the fortress; the border can add time.',
+    },
+    {
+      to: 'mostar',
+      tip: '스타리 모스트 다리와 오스만 구시가를 봅니다. 국경을 넘으니 여권을 챙기세요.|The Stari Most bridge and the Ottoman old town; it crosses a border, so bring your passport.',
     },
   ],
   zadar: [
@@ -1027,6 +1115,12 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'famagusta',
       tip: '베네치아 성벽과 대성당 모스크를 봅니다.|The Venetian walls and the cathedral-mosque.',
+    },
+  ],
+  salzburg: [
+    {
+      to: 'hallstatt',
+      tip: '호숫가 마을과 소금 광산, 스카이워크 전망대를 봅니다. 버스는 바트이슐에서 갈아타기도 합니다.|The lakeside village, the salt mine and the Skywalk; buses may change at Bad Ischl.',
     },
   ],
 }
