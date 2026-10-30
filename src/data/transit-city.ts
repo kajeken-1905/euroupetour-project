@@ -207,6 +207,63 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('sncf'),
     ],
   },
+  arles: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 카마르그는 차를 빌리거나 투어로 가는 편이 편합니다.',
+      en: 'Walk the old town; for the Camargue a car or a tour is easiest.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'les-baux-de-provence': {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 대중교통이 드물어 아를이나 아비뇽에서 차나 투어로 오는 편이 편합니다.',
+      en: 'Walk around the village; public transport is sparse, so come by car or on a tour from Arles or Avignon.',
+    },
+    apps: [
+    ],
+  },
+  gordes: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 수도원과 주변 마을은 대중교통이 거의 없어 차나 투어로 갑니다.',
+      en: 'Walk the village; the abbey and nearby villages have almost no public transport, so go by car or tour.',
+    },
+    apps: [
+    ],
+  },
+  'isle-sur-la-sorgue': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 퐁텐드보클뤼즈는 버스나 택시로 약 15분 걸립니다.',
+      en: 'Walk the town; Fontaine-de-Vaucluse is about 15 minutes by bus or taxi.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  cassis: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '항구 주변은 걸어서 다닙니다. 기차역은 언덕 위에 있어 버스로 항구까지 내려갑니다.',
+      en: 'Walk around the port; the station is up the hill, so take the bus down to the harbour.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'moustiers-sainte-marie': {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 호수와 협곡은 대중교통이 거의 없어 차가 필요합니다.',
+      en: 'Walk the village; the lake and gorge have almost no public transport, so you need a car.',
+    },
+    apps: [
+    ],
+  },
   toulouse: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {

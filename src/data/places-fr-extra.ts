@@ -117,6 +117,18 @@ export const placesFRExtra: Place[] = [
   // —— menton ——
   place('menton-fine_dining-1', 'menton', 'fine_dining', 'Mirazur', '30 Avenue Aristide Briand, 06500 Menton', '셰프 마우로 콜라그레코의 미쉐린 3스타 레스토랑. 텃밭 채소와 바다 전망으로 유명합니다.', 'Chef Mauro Colagreco’s Michelin three-star restaurant, known for its kitchen gardens and sea views.', { michelin: 'star3' }),
   place('menton-fine_dining-2', 'menton', 'fine_dining', 'L\'Orangerie', '3 Rue de la Marne, 06500 Menton', '현대 요리를 합리적인 값에 내는 비스트로로 2026년 미쉐린 빕 구르망을 받았습니다.', 'Bistro serving modern cooking at fair prices, awarded a Michelin Bib Gourmand in 2026.', { michelin: 'bib' }),
+  // —— arles ——
+  place('arles-fine_dining-1', 'arles', 'fine_dining', 'La Chassagnette', 'Route du Sambuc, 13200 Arles', '카마르그 들판에 있는 미쉐린 1스타 레스토랑. 텃밭 채소 중심의 창작 요리를 냅니다(시내에서 차로 약 20분).', 'Michelin one-star restaurant in the Camargue fields, with creative cooking built on its kitchen garden (about 20 min by car from town).', { michelin: 'star1' }),
+  place('arles-fine_dining-2', 'arles', 'fine_dining', 'Le Gibolin', '13 Rue des Porcelets, 13200 Arles', '미쉐린 빕 구르망에 오른 동네 비스트로. 시장 재료 요리와 내추럴 와인이 좋습니다.', 'Michelin Bib Gourmand neighbourhood bistro with market cooking and natural wines.', { michelin: 'bib' }),
+  // —— les-baux-de-provence ——
+  place('les-baux-de-provence-fine_dining-1', 'les-baux-de-provence', 'fine_dining', 'L\'Oustau de Baumanière', 'Mas de Baumanière, 13520 Les Baux-de-Provence', '마을 아래 계곡의 미쉐린 3스타 레스토랑. 셰프 글렌 비엘이 텃밭 채소로 프로방스 요리를 냅니다.', 'Michelin three-star restaurant in the valley below the village, where chef Glenn Viel cooks Provençal food from its gardens.', { michelin: 'star3' }),
+  place('les-baux-de-provence-fine_dining-2', 'les-baux-de-provence', 'fine_dining', 'L\'Aupiho - Domaine de Manville', 'Domaine de Manville, 13520 Les Baux-de-Provence', '골프장 리조트 도멘 드 망빌의 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant at the Domaine de Manville resort.', { michelin: 'star1' }),
+  // —— isle-sur-la-sorgue ——
+  place('isle-sur-la-sorgue-fine_dining-1', 'isle-sur-la-sorgue', 'fine_dining', 'Le Vivier', '800 Cours Fernande Peyre, 84800 L\'Isle-sur-la-Sorgue', '소르그강 물가 테라스가 있는 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant with a terrace over the Sorgue.', { michelin: 'star1' }),
+  // —— cassis ——
+  place('cassis-fine_dining-1', 'cassis', 'fine_dining', 'La Villa Madie', 'Avenue du Revestel, Anse de Corton, 13260 Cassis', '카나유 곶 아래 작은 만을 내려다보는 미쉐린 3스타 레스토랑입니다.', 'Michelin three-star restaurant overlooking a small cove below Cap Canaille.', { michelin: 'star3' }),
+  // —— moustiers-sainte-marie ——
+  place('moustiers-sainte-marie-fine_dining-1', 'moustiers-sainte-marie', 'fine_dining', 'La Bastide de Moustiers', 'Chemin de Quinson, 04360 Moustiers-Sainte-Marie', '알랭 뒤카스의 시골 저택 호텔 안 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant in Alain Ducasse’s country-house hotel.', { michelin: 'star1' }),
   // —— avignon ——
   place('avignon-fine_dining-1', 'avignon', 'fine_dining', 'La Mirande', '4 Place de l’Amirande, 84000 Avignon', '교황청 뒤편 호텔 라 미랑드의 레스토랑. 미쉐린 가이드에 실려 있고 목~일요일에 엽니다.', 'Restaurant of the Hôtel La Mirande behind the Papal Palace, listed in the MICHELIN Guide; open Thursday to Sunday.', { image: '/places/avignon-fine_dining-1.jpg' }),
   place('avignon-fine_dining-2', 'avignon', 'fine_dining', 'Pollen', '18 Rue Joseph Vernet, 84000 Avignon', '미쉐린 1스타 레스토랑. 제철 지역 재료로 만드는 서프라이즈 코스를 내고 주말은 쉽니다.', 'Michelin one-star restaurant serving a surprise menu built on seasonal local produce; closed weekends.', { michelin: 'star1' }),

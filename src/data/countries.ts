@@ -29,11 +29,11 @@ export const countries: Country[] = [
       background: '#EEF0F8',
       text: '#0A0A30',
     },
-    cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg', 'amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'aix-en-provence', 'marseille', 'saint-tropez', 'cannes', 'antibes', 'grasse', 'saint-paul-de-vence', 'nice', 'eze', 'menton', 'ajaccio', 'bonifacio', 'calvi'],
+    cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg', 'amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix', 'bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'arles', 'les-baux-de-provence', 'gordes', 'isle-sur-la-sorgue', 'aix-en-provence', 'moustiers-sainte-marie', 'marseille', 'cassis', 'saint-tropez', 'cannes', 'antibes', 'grasse', 'saint-paul-de-vence', 'nice', 'eze', 'menton', 'ajaccio', 'bonifacio', 'calvi'],
     cityGroups: [
       { title: { ko: '북부', en: 'Northern France' }, cityIds: ['paris', 'giverny', 'fontainebleau', 'chartres', 'reims', 'rouen', 'honfleur', 'etretat', 'bayeux', 'mont-saint-michel', 'saint-malo', 'strasbourg'] },
       { title: { ko: '중부', en: 'Central France' }, cityIds: ['amboise', 'la-rochelle', 'dijon', 'lyon', 'annecy', 'chamonix'] },
-      { title: { ko: '남부', en: 'Southern France' }, cityIds: ['bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'aix-en-provence', 'marseille', 'saint-tropez', 'cannes', 'antibes', 'grasse', 'saint-paul-de-vence', 'nice', 'eze', 'menton'] },
+      { title: { ko: '남부', en: 'Southern France' }, cityIds: ['bordeaux', 'arcachon', 'biarritz', 'toulouse', 'montpellier', 'avignon', 'arles', 'les-baux-de-provence', 'gordes', 'isle-sur-la-sorgue', 'aix-en-provence', 'moustiers-sainte-marie', 'marseille', 'cassis', 'saint-tropez', 'cannes', 'antibes', 'grasse', 'saint-paul-de-vence', 'nice', 'eze', 'menton'] },
       { title: { ko: '코르시카', en: 'Corsica' }, cityIds: ['ajaccio', 'bonifacio', 'calvi'] },
     ],
   },

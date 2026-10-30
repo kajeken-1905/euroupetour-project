@@ -989,3 +989,38 @@ highlights/saint-tropez-4.jpg | https://commons.wikimedia.org/wiki/File:Place_de
 highlights/saint-tropez-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Ponche_Beach,_Saint-Tropez,_France_(52723268452).jpg | CC BY 2.0 | dronepicr
 highlights/saint-tropez-6.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_Pampelonne_4.jpg | CC BY-SA 4.0 | Arnaud 25
 highlights/bern-7.jpg | https://commons.wikimedia.org/wiki/File:Casa_de_Albert_Einstein.JPG | CC BY-SA 4.0 | Christian Cariño
+cities/arles.jpg | https://commons.wikimedia.org/wiki/File:2360.Blick_vom_Ufer_der_Rhone_auf_Arles-Provence.JPG | CC BY-SA 3.0 | Steffen Heilfort
+highlights/arles-1.jpg | https://commons.wikimedia.org/wiki/File:Ar%C3%A8nes_d%27Arles_1.jpg | Public domain | Vincent
+highlights/arles-2.jpg | https://commons.wikimedia.org/wiki/File:Arles_Amphitheatre_gallo_romain_pano.jpg | CC BY-SA 4.0 | Velvet
+highlights/arles-3.jpg | https://commons.wikimedia.org/wiki/File:Arles,_saint-trophime,_chiostro_gotico,_corridoi_01.jpg | CC BY 3.0 | Sailko
+highlights/arles-4.jpg | https://commons.wikimedia.org/wiki/File:Arles_-_Espace_Van_Gogh_3.jpg | CC BY-SA 3.0 | Véronique PAGNIER
+highlights/arles-5.jpg | https://commons.wikimedia.org/wiki/File:LUMA_Arles_Innenansicht_Rutsche_von_Carsten_H%C3%B6ller.jpg | CC BY-SA 4.0 | MYR67
+highlights/arles-6.jpg | https://commons.wikimedia.org/wiki/File:Saint-Laurent-d%27Aigouze_-_Camargue_horses_-_03.jpg | CC BY-SA 4.0 | Benjamin Smith
+cities/les-baux-de-provence.jpg | https://commons.wikimedia.org/wiki/File:Baux_de_Provence.jpg | CC BY-SA 3.0 | Benh LIEU SONG
+highlights/les-baux-de-provence-1.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Les_Baux-de-Provence_cf01.jpg | CC BY-SA 4.0 | Christian Ferrer
+highlights/les-baux-de-provence-2.jpg | https://commons.wikimedia.org/wiki/File:Carri%C3%A8res_de_Lumi%C3%A8res_03_-_Baux-de-Provence_-_2013-09.jpg | CC BY-SA 3.0 | Rhododendrites
+highlights/les-baux-de-provence-3.jpg | https://commons.wikimedia.org/wiki/File:Les_Baux_de_Provence_%C3%A9glise_Saint-Vincent_2013.jpg | CC BY-SA 3.0 | François de Dijon
+highlights/les-baux-de-provence-4.jpg | https://commons.wikimedia.org/wiki/File:Chevet_de_Saint-Paul_de_Mausole.JPG | CC BY-SA 3.0 | EmDee
+cities/gordes.jpg | https://commons.wikimedia.org/wiki/File:Village_of_Gordes.jpg | CC BY-SA 4.0 | Einaz80
+highlights/gordes-1.jpg | https://commons.wikimedia.org/wiki/File:Gordes_2013-Panorama_03.jpg | CC BY-SA 3.0 | François de Dijon
+highlights/gordes-2.jpg | https://commons.wikimedia.org/wiki/File:Abbaye_Notre-Dame_de_S%C3%A9nanque,_2022.jpg | CC BY 4.0 | Chris Down
+highlights/gordes-3.jpg | https://commons.wikimedia.org/wiki/File:Beautiful_Ch%C3%A2teau_de_Gordes.jpg | CC BY-SA 3.0 | Suwannee.payne
+highlights/gordes-4.jpg | https://commons.wikimedia.org/wiki/File:Village_des_bories._1.jpg | CC BY-SA 4.0 | Tulipanos
+highlights/gordes-5.jpg | https://commons.wikimedia.org/wiki/File:Roussillon_chemin_des_ocres.jpg | CC BY-SA 4.0 | Velvet
+cities/isle-sur-la-sorgue.jpg | https://commons.wikimedia.org/wiki/File:L%27Isle-sur-la-Sorgue_-_54740178811.jpg | CC BY 4.0 | Jorge Franganillo
+highlights/isle-sur-la-sorgue-1.jpg | https://commons.wikimedia.org/wiki/File:March%C3%A9_de_L%27Isle-sur-la-Sorgue_(15035).jpg | CC BY-SA 3.0 | Marianne Casamance
+highlights/isle-sur-la-sorgue-2.jpg | https://commons.wikimedia.org/wiki/File:Isle_sur_la_Sorgue_-_Roue_2.jpg | CC BY-SA 3.0 | Marianne Casamance
+highlights/isle-sur-la-sorgue-3.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_Notre-Dame-des-Anges_de_L%27Isle-sur-la-Sorgue_maitre_autel.jpg | CC BY-SA 4.0 | Marianne Casamance
+highlights/isle-sur-la-sorgue-4.jpg | https://commons.wikimedia.org/wiki/File:L%27Isle-sur-la-Sorgue_(2).jpg | CC BY-SA 4.0 | Mathieu BROSSAIS
+highlights/isle-sur-la-sorgue-5.jpg | https://commons.wikimedia.org/wiki/File:Fontaine-de-Vaucluse_(2).jpg | CC BY-SA 4.0 | Mathieu BROSSAIS
+cities/cassis.jpg | https://commons.wikimedia.org/wiki/File:Cassis_panorama.jpg | CC BY-SA 3.0 | Superbass
+highlights/cassis-1.jpg | https://commons.wikimedia.org/wiki/File:Le_port_de_Cassis.jpg | CC BY-SA 4.0 | Cocosea
+highlights/cassis-2.jpg | https://commons.wikimedia.org/wiki/File:Port-Miou_calanque_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/cassis-3.jpg | https://commons.wikimedia.org/wiki/File:En-Vau_calanque_1.jpg | CC BY-SA 4.0 | kallerna
+highlights/cassis-4.jpg | https://commons.wikimedia.org/wiki/File:Falaises_Soubeyranes_@_Belv%C3%A9d%C3%A8re_de_Sugiton.jpg | CC BY-SA 4.0 | Rémih
+cities/moustiers-sainte-marie.jpg | https://commons.wikimedia.org/wiki/File:Moustiers_Sainte_Marie_1.jpg | Public domain | User:Nepomuk (also on fr:Utilisateur:Nepomuk)
+highlights/moustiers-sainte-marie-1.jpg | https://commons.wikimedia.org/wiki/File:Aper%C3%A7u_de_Moustiers-Sainte-Marie,_Alpes-de-Haute-Provence,_France_-_panoramio.jpg | CC BY-SA 3.0 | Jfdo
+highlights/moustiers-sainte-marie-2.jpg | https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame_de_Beauvoir_03.JPG | CC BY-SA 3.0 | Totodu74
+highlights/moustiers-sainte-marie-3.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9eDeLaFa%C3%AFenceDeMoustiers-Entree.jpg | CC BY-SA 4.0 | O.Taris
+highlights/moustiers-sainte-marie-4.jpg | https://commons.wikimedia.org/wiki/File:Bauduen_Sainte-Croix.JPG | CC BY-SA 3.0 | Ianaré Sévi
+highlights/moustiers-sainte-marie-5.jpg | https://commons.wikimedia.org/wiki/File:Grand_canyon_du_Verdon_-_panoramio_(16).jpg | CC BY 3.0 | avu-edm

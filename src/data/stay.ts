@@ -584,6 +584,30 @@ export const STAY: Record<string, StayArea[]> = {
     a('구시가·해변', 'Old town & seafront', 'Menton seafront', '처음 가는 여행에 추천|Best for a first visit', '해변 산책로와 구시가, 기차역이 걸어서 가깝고 식당이 많습니다.|The promenade, old town and station on foot, with plenty of restaurants.'),
     a('가라방', 'Garavan', 'Garavan Menton', '조용한 항구 동네|Quiet harbour quarter', '이탈리아 쪽 요트 항구 주변의 조용한 주택가로 정원들이 가깝습니다.|A quiet residential quarter around the yacht harbour towards Italy, close to the gardens.'),
   ],
+  arles: [
+    a('구시가', 'Old town', 'Centre historique', '처음 가는 여행에 추천|Best for a first visit', '원형경기장과 포룸 광장 주변으로 볼거리가 모두 걸어서 닿습니다.|Around the arena and Place du Forum, with every sight on foot.'),
+    a('아비뇽에서 다녀오기', 'Base in Avignon', 'Avignon', '거점에서 다녀오기|Day trip from a base', '아비뇽에 묵고 기차로 약 20분 걸려 다녀옵니다.|Stay in Avignon and take the train, about 20 minutes.'),
+  ],
+  'les-baux-de-provence': [
+    a('마을에서 묵기', 'In the village', 'Les Baux-de-Provence', '마을에서 묵기|Stay in the village', '숙소가 적고 비싸지만, 관광객이 빠진 저녁 마을을 볼 수 있습니다.|Few, pricey hotels, but you get the village once the crowds leave.'),
+    a('아를이나 생레미에서 다녀오기', 'Base in Arles or Saint-Rémy', 'Arles · Saint-Rémy', '거점에서 다녀오기|Day trip from a base', '버스가 드물어 차로 다녀오는 편이 편합니다. 아를에서 약 25분 걸립니다.|Buses are rare, so a car is easiest; about 25 minutes from Arles.'),
+  ],
+  gordes: [
+    a('마을에서 묵기', 'In the village', 'Gordes', '마을에서 묵기|Stay in the village', '고급 호텔과 민박이 있어 비싸지만, 해 질 녘 마을을 조용히 볼 수 있습니다.|Luxury hotels and guesthouses, pricey, but the village is quiet at dusk.'),
+    a('아비뇽에서 다녀오기', 'Base in Avignon', 'Avignon', '거점에서 다녀오기|Day trip from a base', '대중교통이 거의 없어 차를 빌리거나 뤼베롱 투어로 다녀옵니다.|There is almost no public transport, so rent a car or join a Luberon tour.'),
+  ],
+  'isle-sur-la-sorgue': [
+    a('구시가', 'Old town', 'Centre-ville', '처음 가는 여행에 추천|Best for a first visit', '물길로 둘러싸인 섬 같은 구시가로 시장과 식당이 모두 걸어서 닿습니다.|The island-like old town inside the canals, with the market and restaurants on foot.'),
+    a('아비뇽에서 다녀오기', 'Base in Avignon', 'Avignon', '거점에서 다녀오기|Day trip from a base', '아비뇽에 묵고 지역 열차로 약 30분 걸려 다녀옵니다.|Stay in Avignon and take the regional train, about 30 minutes.'),
+  ],
+  cassis: [
+    a('항구 주변', 'Around the port', 'Port de Cassis', '마을에서 묵기|Stay in the village', '항구 식당과 유람선 선착장이 바로 앞이지만 여름엔 비쌉니다.|Right by the restaurants and boat departures, but pricey in summer.'),
+    a('마르세유에서 다녀오기', 'Base in Marseille', 'Marseille', '거점에서 다녀오기|Day trip from a base', '마르세유에 묵고 기차로 약 25분, 역에서 버스로 항구까지 갑니다.|Stay in Marseille: about 25 minutes by train, then a bus from the station to the port.'),
+  ],
+  'moustiers-sainte-marie': [
+    a('마을에서 묵기', 'In the village', 'Moustiers-Sainte-Marie', '마을에서 묵기|Stay in the village', '협곡과 호수를 함께 보려면 마을이나 주변에 묵는 편이 좋습니다.|To see both the gorge and the lake, stay in or near the village.'),
+    a('엑상프로방스에서 다녀오기', 'Base in Aix-en-Provence', 'Aix-en-Provence', '거점에서 다녀오기|Day trip from a base', '차로 약 1시간 40분이라 하루 일정이 깁니다. 대중교통은 거의 없습니다.|About 1 hr 40 min by car, so it makes a long day; there is almost no public transport.'),
+  ],
   annecy: [
     a('구시가', 'Old Town (Vieille Ville)', 'Vieille Ville, Annecy', '처음 가는 여행에 추천|Best for a first visit', '운하와 골목, 시장과 식당이 모여 있어 걸어서 다닙니다. 관광객이 많고 비싸며 차가 거의 못 들어갑니다.|Canals, lanes, markets and restaurants on foot; touristy, pricey, and mostly closed to cars.'),
     a('안시르비외', 'Annecy-le-Vieux', 'Annecy-le-Vieux', '가족 여행·호숫가|Families and the lake', '호수와 산이 보이는 조용한 주거지라 수영·자전거에 좋습니다. 구시가까지 조금 떨어져 있고 언덕이 있습니다.|Quiet residential streets with lake and mountain views, good for swimming and cycling; not central, and hilly in places.'),

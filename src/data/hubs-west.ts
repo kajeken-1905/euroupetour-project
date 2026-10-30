@@ -211,6 +211,30 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Gare de Menton', '망통역'], ['Gare de Menton-Garavan', '망통 가라방역', '구시가 동쪽 · 이탈리아 쪽|east of the old town · towards Italy']],
     bus: [['Gare routière de Menton', '망통 버스터미널']],
   },
+  arles: {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 1시간|about 1 hr by car']],
+    rail: [['Gare d\'Arles', '아를역', '구시가까지 걸어서 약 10분|about 10 min walk to the old town']],
+  },
+  'les-baux-de-provence': {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 1시간|about 1 hr by car']],
+    rail: [['Gare d\'Arles', '아를역', '약 20km · 차나 택시|about 20 km · car or taxi']],
+  },
+  gordes: {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 1시간 10분|about 1 hr 10 min by car']],
+    rail: [['Gare d\'Avignon TGV', '아비뇽 TGV역', '약 40km · 차나 투어|about 40 km · car or tour']],
+  },
+  'isle-sur-la-sorgue': {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 1시간|about 1 hr by car']],
+    rail: [['Gare de L\'Isle - Fontaine-de-Vaucluse', '릴-퐁텐드보클뤼즈역', '아비뇽행 지역 열차|regional trains to Avignon']],
+  },
+  cassis: {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 40분|about 40 min by car']],
+    rail: [['Gare de Cassis', '카시스역', '항구에서 약 3km · 버스|about 3 km from the port · bus']],
+  },
+  'moustiers-sainte-marie': {
+    air: [['Marseille Provence (MRS)', '마르세유 프로방스 공항 (MRS)', '차로 약 1시간 40분|about 1 hr 40 min by car']],
+    rail: [['Gare de Manosque - Gréoux-les-Bains', '마노스크역', '약 50km · 차|about 50 km · car']],
+  },
   ajaccio: {
     air: [['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 나폴레옹 보나파르트 공항 (AJA)']],
     rail: [["Gare d'Ajaccio", '아작시오역']],
