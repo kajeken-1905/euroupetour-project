@@ -202,6 +202,23 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'orvieto',
       tip: '절벽 위 마을의 대성당과 지하 동굴, 성 파트리치오 우물을 봅니다. 역에서 푸니쿨라로 올라갑니다.|The clifftop cathedral, the underground caves and St Patrick’s Well; ride the funicular up from the station.',
     },
+    {
+      to: 'florence',
+      tip: '고속열차로 약 1시간 반. 두오모와 우피치, 베키오 다리를 하루에 봅니다. 우피치는 예약하세요.|About 1½ hours by high-speed train: the Duomo, the Uffizi and the Ponte Vecchio in a day; book the Uffizi.',
+    },
+    {
+      to: 'naples',
+      tip: '고속열차로 약 1시간 10분. 국립 고고학 박물관과 스파카나폴리 골목을 걷고 피자를 맛봅니다.|About 1 hr 10 min by high-speed train: the Archaeological Museum, the Spaccanapoli lanes and a pizza.',
+    },
+    {
+      to: 'pompeii',
+      how: '기차로 나폴리 경유 약 2시간|About 2 hrs by train via Naples',
+      tip: '나폴리에서 시르쿰베수비아나 열차로 갈아탑니다. 유적이 넓어 반나절 이상 걸리니 아침 일찍 출발하세요.|Change at Naples to the Circumvesuviana; the site is huge and takes at least half a day, so leave early.',
+    },
+    {
+      to: 'assisi',
+      tip: '성 프란치스코 대성당과 언덕 마을을 봅니다. 역에서 마을까지는 버스로 올라갑니다.|The Basilica of St Francis and the hill town; take the bus up from the station.',
+    },
   ],
   milan: [
     {
@@ -831,6 +848,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'sounion',
       tip: '바다 위 절벽의 포세이돈 신전에서 해 지는 풍경을 봅니다.|Sunset at the Temple of Poseidon on the sea cliff.',
+    },
+    {
+      to: 'delphi',
+      tip: '아폴론 신전과 원형 극장, 박물관을 봅니다. 편도 3시간이라 투어 버스로 다녀오는 경우가 많습니다.|The Temple of Apollo, the theatre and the museum; it is three hours each way, so many go on a tour.',
+    },
+    {
+      to: 'nafplio',
+      tip: '팔라미디 요새와 바닷가 구시가를 봅니다. 미케네·에피다우로스 유적과 묶는 투어가 많습니다.|The Palamidi fortress and the seaside old town; tours often add Mycenae and Epidaurus.',
     },
   ],
   split: [
