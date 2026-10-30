@@ -11,6 +11,12 @@ function text(value: string, lang: 'ko' | 'en') {
   return lang === 'ko' ? ko : (en ?? ko)
 }
 
+/** Today as YYYY-MM-DD in the traveller's own time zone. */
+function today() {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
+
 /** Smaller towns worth a day trip from this base, with the quickest way there. */
 export function DayTripsPanel({ cityId }: { cityId: string }) {
   const { lang } = useLanguage()
@@ -25,6 +31,8 @@ export function DayTripsPanel({ cityId }: { cityId: string }) {
             const to = getCity(trip.to)
             if (!to) return null
             const route = trip.how ? undefined : getRoutesBetween(cityId, trip.to)[0]
+            // A dated notice drops out once its last day has passed.
+            const notices = (trip.x ?? []).filter(([, until]) => until >= today())
             return (
               <li key={trip.to}>
                 <Link className="route-item" to={`/city/${to.id}`}>
@@ -46,6 +54,11 @@ export function DayTripsPanel({ cityId }: { cityId: string }) {
                   <span className="route-meta">
                     <span>{text(trip.tip, lang)}</span>
                   </span>
+                  {notices.map(([notice]) => (
+                    <span key={notice} className="route-meta day-trip-notice">
+                      ⚠️ {text(notice, lang)}
+                    </span>
+                  ))}
                 </Link>
               </li>
             )

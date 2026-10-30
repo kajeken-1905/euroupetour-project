@@ -1901,6 +1901,11 @@ button.back-link {
   color: var(--muted);
 }
 
+/* A dated warning under a day trip, e.g. a cable car shut for maintenance. */
+.day-trip-notice {
+  color: #a3301c;
+}
+
 .route-resv {
   font-weight: 700;
   color: #9a4a1c;

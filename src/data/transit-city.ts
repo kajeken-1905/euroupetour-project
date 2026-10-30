@@ -2654,8 +2654,8 @@ export const cityTransitById: Record<string, CityTransit> = {
   orvieto: {
     modes: ['train', 'bus', 'walk'],
     howTo: {
-      ko: '로마·피렌체에서 기차. 역 앞 푸니콜라레로 절벽 위 구시가에 오릅니다.',
-      en: 'Trains from Rome and Florence; funicular from the station up to the old town.',
+      ko: '로마·피렌체에서 기차. 역 앞 푸니콜라레로 절벽 위 구시가에 오르는데, 2026년 6월부터 정비로 멈춰 있어 그동안은 대체 버스가 같은 간격으로 다닙니다.',
+      en: 'Trains from Rome and Florence; the funicular from the station up to the old town has been shut for maintenance since June 2026, with a replacement bus at the same frequency.',
     },
     apps: [
       ta('trenitalia'),

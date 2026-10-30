@@ -1,7 +1,8 @@
 /**
  * Day trips from a base city to smaller towns that have their own city page. Travel time comes from the onward
  * routes (routes-*.ts); `how` is shown instead when there is no public-transport entry (car or tour only).
- * Text is 'ko|en'.
+ * Text is 'ko|en'. Closures, seasons, booking rules and bus lines in the tips were checked against official
+ * sources or the checked visit info in 2026-10; dated closures go in `x` so they drop out by themselves.
  */
 import type { RouteMode } from '../types'
 
@@ -12,6 +13,8 @@ export interface RawDayTrip {
   how?: string
   /** icon for `how` when it is not by car */
   mode?: RouteMode
+  /** notices that stop being true after a date: ['ko|en', 'YYYY-MM-DD' (last day shown)] */
+  x?: [string, string][]
 }
 
 export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
@@ -22,11 +25,11 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     },
     {
       to: 'giverny',
-      tip: '모네의 집과 정원은 4~10월에만 엽니다. 베르농역에서 셔틀버스로 갈아탑니다.|Monet’s house and garden open April–October only; change to the shuttle bus at Vernon.',
+      tip: '모네의 집과 정원은 4월 1일~11월 1일에만 엽니다. 베르농역에서 셔틀버스로 갈아탑니다.|Monet’s house and garden open 1 April to 1 November only; change to the shuttle bus at Vernon.',
     },
     {
       to: 'reims',
-      tip: '대성당과 샴페인 하우스 견학을 묶습니다. 샴페인 하우스는 예약하는 편이 좋습니다.|The cathedral plus a champagne-house tour; book the cellars ahead.',
+      tip: '대성당과 샴페인 하우스 견학을 묶습니다. 샴페인 하우스 견학은 예약해야 합니다.|The cathedral plus a champagne-house tour; the cellar tours must be booked.',
     },
     {
       to: 'chartres',
@@ -131,7 +134,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     },
     {
       to: 'nimes',
-      tip: '원형경기장과 메종 카레, 오후엔 버스로 퐁뒤가르에 다녀옵니다.|The arena and Maison Carrée, then a bus to the Pont du Gard.',
+      tip: '원형경기장과 메종 카레, 오후엔 버스 터미널에서 liO 121번 버스(약 45분)로 퐁뒤가르에 다녀옵니다.|The arena and Maison Carrée, then liO bus 121 from the bus station to the Pont du Gard (about 45 min).',
     },
     {
       to: 'aigues-mortes',
@@ -168,13 +171,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   bordeaux: [
     {
       to: 'arcachon',
-      tip: '필라 모래 언덕에 오르고 굴 양식장 마을에서 굴을 맛봅니다. 언덕까지는 버스로 갈아탑니다.|Climb the Dune du Pilat and taste oysters in the oyster villages; change to a bus for the dune.',
+      tip: '필라 모래 언덕에 오르고 굴 양식장 마을에서 굴을 맛봅니다. 언덕까지는 아르카숑역에서 Baïa 3번 버스로 약 25분이며, 11~4월엔 일요일·공휴일에 다니지 않습니다.|Climb the Dune du Pilat and taste oysters in the oyster villages; Baïa bus 3 from Arcachon station takes about 25 min to the dune and does not run on Sundays and holidays from November to April.',
     },
   ],
   annecy: [
     {
       to: 'chamonix',
       tip: '몽블랑 전망대 에귀 뒤 미디에 오릅니다. 맑은 날 아침에 출발하세요.|Ride up the Aiguille du Midi for Mont Blanc; set off early on a clear day.',
+      x: [['에귀 뒤 미디는 2026년 11월 2일~12월 18일 정기 점검으로 운휴합니다.|The Aiguille du Midi is shut for maintenance from 2 November to 18 December 2026.', '2026-12-18']],
     },
   ],
   avignon: [
@@ -184,7 +188,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     },
     {
       to: 'nimes',
-      tip: '오전에 원형경기장과 메종 카레를 보고, 오후에 버스로 퐁뒤가르에 다녀옵니다.|The arena and Maison Carrée in the morning, then a bus out to the Pont du Gard.',
+      tip: '오전에 원형경기장과 메종 카레를 보고, 오후에 liO 121번 버스(약 45분)로 퐁뒤가르에 다녀옵니다.|The arena and Maison Carrée in the morning, then liO bus 121 out to the Pont du Gard (about 45 min).',
     },
     {
       to: 'isle-sur-la-sorgue',
@@ -204,7 +208,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   rome: [
     {
       to: 'orvieto',
-      tip: '절벽 위 마을의 대성당과 지하 동굴, 성 파트리치오 우물을 봅니다. 역에서 푸니쿨라로 올라갑니다.|The clifftop cathedral, the underground caves and St Patrick’s Well; ride the funicular up from the station.',
+      tip: '절벽 위 마을의 대성당과 지하 동굴, 성 파트리치오 우물을 봅니다. 역 앞 푸니쿨라는 2026년 6월부터 정비로 멈춰 있어, 그동안은 같은 간격(10~15분)으로 다니는 대체 버스로 카헨 광장까지 오릅니다.|The clifftop cathedral, the underground caves and St Patrick’s Well; the funicular from the station has been shut for maintenance since June 2026, so a replacement bus runs up to Piazza Cahen every 10–15 min.',
     },
     {
       to: 'florence',
@@ -253,6 +257,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'lugano',
       tip: '스위스 루가노 호숫가 구시가와 몬테 브레, 산살바토레 전망을 즐깁니다. 신분증을 챙기세요.|Lugano’s lakeside old town and the Monte Brè or San Salvatore views in Switzerland; bring ID.',
+      x: [['산살바토레 푸니쿨라는 정상 레스토랑 공사로 2026년 11월 9일~2027년 3월 12일 운휴합니다.|The San Salvatore funicular is shut from 9 November 2026 to 12 March 2027 while the summit restaurant is rebuilt.', '2027-03-12']],
     },
   ],
   florence: [
@@ -600,7 +605,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   'luxembourg-city': [
     {
       to: 'vianden',
-      tip: '언덕 위 비안덴 성과 체어리프트를 탑니다.|Vianden Castle on its hill and the chairlift.',
+      tip: '언덕 위 비안덴 성을 보고 체어리프트를 탑니다. 체어리프트는 부활절~10월 중순에만 운행합니다.|Vianden Castle on its hill and the chairlift, which runs from Easter to mid-October only.',
     },
     {
       to: 'echternach',
@@ -702,7 +707,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   barcelona: [
     {
       to: 'montserrat',
-      tip: '톱니바퀴 열차나 케이블카로 수도원에 오르고 성가대 공연을 봅니다.|Ride the rack railway or cable car to the monastery and hear the choir.',
+      tip: '톱니바퀴 열차나 케이블카로 수도원에 오르고 소년 성가대(에스콜라니아) 노래를 듣습니다. 성가대는 평일 13시·일요일 12시에 부르고, 토요일과 여름방학(6월 말~8월 말)엔 없습니다.|Ride the rack railway or cable car to the monastery and hear the boys’ choir (Escolania): weekdays at 13:00 and Sundays at 12:00, never on Saturdays or in the summer break (late June to late August).',
     },
     {
       to: 'girona',
@@ -851,6 +856,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'chamonix',
       tip: '에귀 뒤 미디 전망대에서 몽블랑을 봅니다. 맑은 날 아침에 출발하세요.|Mont Blanc from the Aiguille du Midi; leave early on a clear day.',
+      x: [['에귀 뒤 미디는 2026년 11월 2일~12월 18일 정기 점검으로 운휴합니다.|The Aiguille du Midi is shut for maintenance from 2 November to 18 December 2026.', '2026-12-18']],
     },
     {
       to: 'annecy',
@@ -875,6 +881,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'zermatt',
       tip: '마터호른 전망대 고르너그라트에 오릅니다. 맑은 날 아침 일찍 출발하세요.|Ride up the Gornergrat for the Matterhorn; leave early on a clear day.',
+      x: [['고르너그라트 열차는 2026년 11월 2~14일 공사로 운휴합니다.|The Gornergrat railway is shut for works from 2 to 14 November 2026.', '2026-11-14']],
     },
     {
       to: 'montreux',
@@ -886,7 +893,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   lucerne: [
     {
       to: 'interlaken',
-      tip: '골든패스 노선 경치 열차로 갑니다. 브리엔츠 호수를 지납니다.|Ride the scenic GoldenPass line past Lake Brienz.',
+      tip: '골든패스 노선의 루체른–인터라켄 익스프레스로 브뤼니히 고개와 브리엔츠 호수를 지납니다.|The Luzern–Interlaken Express on the GoldenPass line, over the Brünig Pass and past Lake Brienz.',
     },
     {
       to: 'grindelwald',
@@ -905,6 +912,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'lugano',
       tip: '고트하르트 베이스 터널을 지나 이탈리아어권 호숫가 도시로 갑니다. 몬테 브레나 산살바토레 전망이 좋습니다.|Through the Gotthard Base Tunnel to the Italian-speaking lake town; great views from Monte Brè or San Salvatore.',
+      x: [['산살바토레 푸니쿨라는 정상 레스토랑 공사로 2026년 11월 9일~2027년 3월 12일 운휴합니다.|The San Salvatore funicular is shut from 9 November 2026 to 12 March 2027 while the summit restaurant is rebuilt.', '2027-03-12']],
     },
   ],
   interlaken: [
@@ -1012,13 +1020,13 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   zadar: [
     {
       to: 'plitvice',
-      tip: '계단식 호수와 폭포 사이 나무 길을 걷습니다. 여름엔 입장 시간 예약이 필요합니다.|Boardwalks among the terraced lakes and waterfalls; timed tickets needed in summer.',
+      tip: '계단식 호수와 폭포 사이 나무 길을 걷습니다. 입장권은 날짜와 시간대가 정해져 있고, 여름엔 현장 표가 거의 없어 미리 온라인으로 삽니다.|Boardwalks among the terraced lakes and waterfalls; tickets are for a set day and time slot, and in summer buy them online ahead as few are left at the gate.',
     },
   ],
   dublin: [
     {
       to: 'kilkenny',
-      tip: '킬케니 성과 중세 골목, 양조장을 봅니다.|Kilkenny Castle, the medieval lanes and the brewery.',
+      tip: '킬케니 성과 중세 골목(미디벌 마일), 성 카니스 대성당을 봅니다.|Kilkenny Castle, the Medieval Mile and St Canice’s Cathedral.',
     },
   ],
   cork: [
@@ -1200,7 +1208,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   'the-hague': [
     {
       to: 'delft',
-      tip: '트램이나 기차로 10분. 델프트 도자기와 페르메이르의 도시를 걷습니다.|10 min by tram or train: Delftware and Vermeer’s town.',
+      tip: '기차로 10분이 안 걸리고, 트램 1번으로도 갑니다. 델프트 도자기와 페르메이르의 도시를 걷습니다.|Under 10 min by train, or take tram 1: Delftware and Vermeer’s town.',
     },
     {
       to: 'rotterdam',
@@ -1302,7 +1310,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   zagreb: [
     {
       to: 'plitvice',
-      tip: '계단식 호수와 폭포의 국립공원. 여름엔 입장 시간 예약이 필요합니다.|The terraced lakes and waterfalls; timed tickets needed in summer.',
+      tip: '계단식 호수와 폭포의 국립공원. 입장권은 날짜와 시간대가 정해져 있고, 여름엔 현장 표가 거의 없어 미리 온라인으로 삽니다.|The terraced lakes and waterfalls; tickets are for a set day and time slot, and in summer buy them online ahead as few are left at the gate.',
     },
     {
       to: 'ljubljana',
@@ -1390,7 +1398,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
   douglas: [
     {
       to: 'castletown',
-      tip: '옛 수도의 러셴 성을 봅니다. 증기 기관차로 가면 더 좋습니다.|Castle Rushen in the old capital; even better by the steam railway.',
+      tip: '옛 수도의 러셴 성을 봅니다. 증기 기관차(3월 중순~11월 초 운행)로 가면 더 좋습니다.|Castle Rushen in the old capital; even better by the steam railway (mid-March to early November).',
     },
     {
       to: 'peel',

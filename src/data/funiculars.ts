@@ -158,6 +158,7 @@ export const FUNICULARS: Funicular[] = [
     city: 'orvieto',
     name: 'Funicolare di Orvieto',
     route: '기차역에서 절벽 위 구시가 카헨 광장으로 오릅니다.|From the station up to Piazza Cahen on the clifftop.',
+    status: '2026년 6월부터 정비로 운행 중단, 대체 버스 운행 (2026년 9월 기준 재개 날짜 없음)|Shut for maintenance since June 2026, with a replacement bus and no restart date as of September 2026',
   },
   {
     city: 'lugano',

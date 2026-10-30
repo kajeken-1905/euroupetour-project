@@ -1114,7 +1114,7 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   orvieto: [
     a('로마에서 다녀오기', 'Day trip from Rome', 'Roma Termini', '당일치기로 충분|Fine as a day trip', '테르미니역에서 거의 매시간 기차가 있고 1시간 반쯤 걸립니다. 6~7시간이면 대성당과 지하 도시, 전망을 봅니다.|Trains almost hourly from Termini take about 1½ hours; 6–7 hours covers the cathedral, the underground and the views.'),
-    a('오르비에토 구시가', 'Orvieto old town', 'Duomo di Orvieto', '관광객이 떠난 저녁|Evenings after the crowds', '당일 관광객이 떠난 저녁에 한적한 골목과 노을을 즐깁니다. 역에서 구시가까지 푸니쿨라로 올라갑니다.|Quiet lanes and sunsets once the day-trippers leave; take the funicular up from the station.'),
+    a('오르비에토 구시가', 'Orvieto old town', 'Duomo di Orvieto', '관광객이 떠난 저녁|Evenings after the crowds', '당일 관광객이 떠난 저녁에 한적한 골목과 노을을 즐깁니다. 역에서 구시가까지는 푸니쿨라로 오르는데, 2026년 6월부터 정비 중이라 그동안은 대체 버스를 탑니다.|Quiet lanes and sunsets once the day-trippers leave; the funicular up from the station is shut for maintenance since June 2026, so take the replacement bus.'),
   ],
   alberobello: [
     a('트룰리 숙소', 'A night in a trullo', 'Rione Monti, Alberobello', '특별한 하룻밤|A one-off stay', '원뿔 지붕 집 트룰로에서 묵어 볼 수 있습니다. 낮에는 관광객이 많고 식당이 적습니다.|Sleep in one of the cone-roofed trulli; crowded by day, with fewer places to eat.'),
