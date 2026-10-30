@@ -4,9 +4,14 @@ import type { PlanDay } from './store'
  * A plan or a route packed into the link itself (after `#`, so it never reaches a server): no account,
  * no storage, nothing collected. Stop ids drop their city prefix to keep the link short.
  */
-export type Shared = { kind: 'plan'; cityId: string; days: PlanDay[] } | { kind: 'route'; route: string[] }
+export type Shared =
+  | { kind: 'plan'; cityId: string; days: PlanDay[] }
+  | { kind: 'route'; route: string[]; dates?: string[] }
 
-type Packed = { v: 1; c: string; d: [string, ...string[]][] } | { v: 1; r: string[] }
+// `t` holds the route's visit dates (same order, '' for none) and is left out when no date is set.
+type Packed = { v: 1; c: string; d: [string, ...string[]][] } | { v: 1; r: string[]; t?: string[] }
+
+const ISO_DAY = /^\d{4}-\d{2}-\d{2}$/
 
 function toBase64Url(text: string) {
   const bytes = new TextEncoder().encode(text)
@@ -21,7 +26,11 @@ function fromBase64Url(code: string) {
 }
 
 export function encodeShare(shared: Shared): string {
-  if (shared.kind === 'route') return toBase64Url(JSON.stringify({ v: 1, r: shared.route } satisfies Packed))
+  if (shared.kind === 'route') {
+    const t = shared.route.map((_, i) => shared.dates?.[i] ?? '')
+    const packed: Packed = t.some(Boolean) ? { v: 1, r: shared.route, t } : { v: 1, r: shared.route }
+    return toBase64Url(JSON.stringify(packed))
+  }
   const prefix = `${shared.cityId}-`
   const d = shared.days.map((day): [string, ...string[]] => [
     day.title ? `${day.title.ko}|${day.title.en}` : '',
@@ -36,7 +45,12 @@ export function decodeShare(code: string): Shared | undefined {
     const raw = JSON.parse(fromBase64Url(code)) as Record<string, unknown>
     const strings = (v: unknown) => Array.isArray(v) && v.every((s) => typeof s === 'string')
     if (raw.v !== 1) return undefined
-    if (strings(raw.r)) return { kind: 'route', route: raw.r as string[] }
+    if (strings(raw.r)) {
+      const route = raw.r as string[]
+      const t = strings(raw.t) ? (raw.t as string[]) : []
+      const dates = route.map((_, i) => (ISO_DAY.test(t[i] ?? '') ? t[i] : ''))
+      return { kind: 'route', route, ...(dates.some(Boolean) ? { dates } : {}) }
+    }
     if (typeof raw.c !== 'string' || !Array.isArray(raw.d) || !raw.d.every(strings)) return undefined
     const cityId = raw.c
     const days = (raw.d as string[][]).map(([title, ...stops]): PlanDay => {

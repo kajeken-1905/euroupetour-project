@@ -27,10 +27,19 @@ export function planText(city: City, days: PlanDay[], lang: Lang) {
   return lines.join('\n')
 }
 
-/** A multi-city route as plain text. */
-export function routeText(cities: City[], lang: Lang) {
-  return [
-    `🧭 ${t('shareRouteHeading', lang).replace('{n}', String(cities.length))} — ${APP}`,
-    cities.map((c) => c.name[lang]).join(' → '),
-  ].join('\n')
+/** A visit date ('2026-11-03') as a short day for the reader: "11월 3일 (화)" or "Tue 3 Nov". */
+export function visitDay(iso: string, lang: Lang) {
+  const [y, m, d] = iso.split('-').map(Number)
+  const day = new Date(Date.UTC(y, m - 1, d))
+  const weekday = day.toLocaleDateString(lang === 'ko' ? 'ko-KR' : 'en-GB', { weekday: 'short', timeZone: 'UTC' })
+  return lang === 'ko'
+    ? `${m}월 ${d}일 (${weekday})`
+    : `${weekday} ${d} ${day.toLocaleDateString('en-GB', { month: 'short', timeZone: 'UTC' })}`
+}
+
+/** A multi-city route as plain text; with visit dates, one city per line. */
+export function routeText(cities: City[], lang: Lang, dates: string[] = []) {
+  const heading = `🧭 ${t('shareRouteHeading', lang).replace('{n}', String(cities.length))} — ${APP}`
+  if (!dates.some(Boolean)) return [heading, cities.map((c) => c.name[lang]).join(' → ')].join('\n')
+  return [heading, ...cities.map((c, i) => `${i + 1}. ${dates[i] ? `${visitDay(dates[i], lang)} · ` : ''}${c.name[lang]}`)].join('\n')
 }

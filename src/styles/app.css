@@ -4043,6 +4043,13 @@ a.plan-btn {
   line-height: 1.8;
 }
 
+.tour-shared-date {
+  margin-right: 8px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+}
+
 /* Where to stay: one neighbourhood per row. */
 .stay-list {
   margin: 0 0 8px;

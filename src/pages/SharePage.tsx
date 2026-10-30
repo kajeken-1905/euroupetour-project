@@ -6,7 +6,7 @@ import { getCityBrief } from '../data/cityIndex'
 import { countryOfCity, getCity, useCountryData } from '../data/countryData'
 import { t } from '../i18n/ui'
 import { decodeShare } from '../trip/share'
-import { stopInfo } from '../trip/shareText'
+import { stopInfo, visitDay } from '../trip/shareText'
 import { setPlan, setRoute, useTrip, type PlanDay } from '../trip/store'
 import { directionsUrl } from '../utils/directions'
 
@@ -33,7 +33,7 @@ export function SharePage() {
       ) : shared.kind === 'plan' ? (
         <SharedPlan cityId={shared.cityId} days={shared.days} />
       ) : (
-        <SharedRoute route={shared.route} />
+        <SharedRoute route={shared.route} dates={shared.dates ?? []} />
       )}
     </div>
   )
@@ -106,15 +106,22 @@ function SharedPlan({ cityId, days }: { cityId: string; days: PlanDay[] }) {
   )
 }
 
-function SharedRoute({ route }: { route: string[] }) {
+function SharedRoute({ route, dates }: { route: string[]; dates: string[] }) {
   const { lang } = useLanguage()
   const trip = useTrip()
   const navigate = useNavigate()
   const [confirming, setConfirming] = useState(false)
-  const cities = route.map((id) => getCityBrief(id)).filter((c) => !!c)
+  // Cities this version of the app still knows, each with the date it was sent with.
+  const stops = route
+    .map((id, i) => ({ city: getCityBrief(id), date: dates[i] ?? '' }))
+    .filter((s) => !!s.city)
+  const cities = stops.map((s) => s.city!)
   if (cities.length === 0) return <div className="empty-state">{t('shareBroken', lang)}</div>
   const take = () => {
-    setRoute(cities.map((c) => c.id))
+    setRoute(
+      cities.map((c) => c.id),
+      stops.map((s) => s.date),
+    )
     navigate('/', { state: { scrollTo: 'my-trip' } })
   }
 
@@ -123,9 +130,10 @@ function SharedRoute({ route }: { route: string[] }) {
       <p className="section-label">{t('shareRouteHeading', lang).replace('{n}', String(cities.length))}</p>
       <div className="transit-card">
         <ol className="tour-shared">
-          {cities.map((c, i) => (
-            <li key={`${c.id}-${i}`}>
-              <Link to={`/city/${c.id}`}>{c.name[lang]}</Link>
+          {stops.map(({ city: c, date }, i) => (
+            <li key={`${c!.id}-${i}`}>
+              {date ? <span className="tour-shared-date">{visitDay(date, lang)}</span> : null}
+              <Link to={`/city/${c!.id}`}>{c!.name[lang]}</Link>
             </li>
           ))}
         </ol>

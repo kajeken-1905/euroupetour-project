@@ -219,8 +219,8 @@ export function TourPanel() {
         {stops.length > 1 ? (
           <ShareButtons
             title={t('shareRouteHeading', lang).replace('{n}', String(stops.length))}
-            text={routeText(stops, lang)}
-            url={shareUrl({ kind: 'route', route: ids })}
+            text={routeText(stops, lang, dates)}
+            url={shareUrl({ kind: 'route', route: ids, dates })}
           />
         ) : null}
 
