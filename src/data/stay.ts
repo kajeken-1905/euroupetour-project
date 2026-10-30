@@ -574,7 +574,7 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   'saint-paul-de-vence': [
     a('마을 안', 'In the village', 'Saint-Paul-de-Vence', '마을에서 묵기|Stay in the village', '낮 관광객이 떠난 뒤 조용한 성벽 마을을 즐길 수 있습니다. 숙소가 적고 비쌉니다.|Enjoy the walled village once day visitors leave; rooms are few and pricey.'),
-    a('니스에서 다녀오기', 'Base in Nice', 'Nice', '거점에서 다녀오기|Day trip from a base', '니스에 묵고 400번 버스로 약 1시간 걸려 다녀옵니다.|Stay in Nice and take bus 400, about an hour each way.'),
+    a('니스에서 다녀오기', 'Base in Nice', 'Nice', '거점에서 다녀오기|Day trip from a base', '니스에 묵고 카뉴쉬르메르까지 기차, 이어서 655번 버스로 약 1시간 걸려 다녀옵니다.|Stay in Nice: train to Cagnes-sur-Mer, then bus 655, about an hour each way.'),
   ],
   eze: [
     a('마을 안', 'In the village', 'Èze village', '마을에서 묵기|Stay in the village', '고급 호텔 몇 곳이 전부라 비싸지만, 해 질 녘과 아침의 조용한 마을을 볼 수 있습니다.|Only a few luxury hotels, so it is pricey, but you get the quiet village at dusk and dawn.'),

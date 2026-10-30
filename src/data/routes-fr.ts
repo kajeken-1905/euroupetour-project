@@ -80,14 +80,14 @@ export const routesFr: RawRoute[] = [
   ['marseille', 'arles', 'train', 55, false, '마르세유 생샤를역|Marseille-Saint-Charles', '아를역|Arles'],
   ['montpellier', 'arles', 'train', 60, false, '몽펠리에 생로슈역|Montpellier-Saint-Roch', '아를역|Arles'],
   ['nice', 'menton', 'train', 35, false, '니스역|Nice-Ville', '망통역|Menton'],
-  ['monaco', 'menton', 'train', 12, false, '모나코 몬테카를로역|Monaco–Monte-Carlo', '망통역|Menton'],
+  ['monaco', 'menton', 'train', 10, false, '모나코 몬테카를로역|Monaco–Monte-Carlo', '망통역|Menton'],
   ['nice', 'eze', 'bus', 30, false, '니스 시내|Nice centre', '에즈 마을|Èze village', '82번 버스|Bus 82'],
-  ['nice', 'saint-paul-de-vence', 'bus', 55, false, '니스 시내|Nice centre', '생폴드방스|Saint-Paul-de-Vence', '400번 버스|Bus 400'],
+  ['nice', 'saint-paul-de-vence', 'mixed', 55, false, '니스역|Nice-Ville', '생폴드방스|Saint-Paul-de-Vence', '카뉴쉬르메르역까지 기차 후 Zou! 655번 버스(옛 400번)|train to Cagnes-sur-Mer, then Zou! bus 655 (formerly bus 400)'],
   ['cannes', 'grasse', 'train', 30, false, '칸역|Cannes', '그라스역|Grasse'],
-  ['nice', 'grasse', 'train', 75, false, '니스역|Nice-Ville', '그라스역|Grasse'],
+  ['nice', 'grasse', 'train', 65, false, '니스역|Nice-Ville', '그라스역|Grasse'],
   ['nice', 'antibes', 'train', 25, false, '니스역|Nice-Ville', '앙티브역|Antibes'],
   ['cannes', 'antibes', 'train', 12, false, '칸역|Cannes', '앙티브역|Antibes'],
-  ['cannes', 'saint-tropez', 'ferry', 75, false, '칸 구항구|Cannes Vieux Port', '생트로페 항구|Saint-Tropez port', '여름철에만 운항|summer only'],
+  ['cannes', 'saint-tropez', 'ferry', 75, false, '칸 구항구|Cannes Vieux Port', '생트로페 항구|Saint-Tropez port', '봄~가을 일부 요일만 운항(Trans Côte d\'Azur) · 운항일 확인 필요|spring to autumn on set days only (Trans Côte d\'Azur); check sailing days'],
   ['nice', 'saint-tropez', 'mixed', 150, false, '니스역|Nice-Ville', '생트로페 버스터미널|Saint-Tropez bus station', '생라파엘까지 기차, 이어서 버스(약 1시간 20분)|train to Saint-Raphaël, then bus (about 1 h 20)'],
 
   // —— Corsica ——

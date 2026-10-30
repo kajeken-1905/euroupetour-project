@@ -177,13 +177,13 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   'saint-paul-de-vence': {
-    modes: ['bus', 'taxi', 'walk'],
+    modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
-      ko: '마을 안은 걸어서만 다닙니다. 니스에서 400번 버스로 오고, 방스의 로사리오 성당도 같은 버스로 이어집니다.',
-      en: 'The village is on foot only. Bus 400 comes from Nice and continues to Vence for the Rosary Chapel.',
+      ko: '마을 안은 걸어서만 다닙니다. 니스 직행 400번 버스는 없어졌고, 카뉴쉬르메르역에서 Zou! 655번 버스(약 30분)로 옵니다. 같은 버스가 방스의 로사리오 성당까지 이어집니다. 니스 버스표는 쓸 수 없어 기사에게 따로 삽니다.',
+      en: 'The village is on foot only. The direct bus 400 from Nice has gone; take Zou! bus 655 from Cagnes-sur-Mer station (about 30 min), which continues to Vence for the Rosary Chapel. Nice bus tickets are not valid, so buy one from the driver.',
     },
     apps: [
-      ta('lignes-azur', { ko: "버스 노선·실시간", en: "Bus routes, live times" }),
+      ta('sncf'),
     ],
   },
   eze: {

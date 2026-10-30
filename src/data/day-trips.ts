@@ -99,7 +99,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     },
     {
       to: 'saint-paul-de-vence',
-      tip: '성벽 마을과 마그 재단 미술관을 봅니다. 400번 버스는 붐비니 아침에 타세요.|The walled village and the Fondation Maeght; bus 400 gets busy, so go early.',
+      tip: '성벽 마을과 마그 재단 미술관을 봅니다. 카뉴쉬르메르역에서 Zou! 655번 버스로 갈아타며, 니스 버스표는 쓸 수 없어 기사에게 따로 삽니다.|The walled village and the Fondation Maeght; change at Cagnes-sur-Mer station to Zou! bus 655, which needs its own ticket from the driver.',
     },
     {
       to: 'grasse',
@@ -117,7 +117,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     },
     {
       to: 'saint-tropez',
-      tip: '여름에는 배로 갑니다. 항구와 시타델, 라마튀엘 해변을 봅니다.|By boat in summer: the harbour, the citadel and the beaches at Ramatuelle.',
+      tip: '봄~가을 일부 요일에 다니는 배로 갑니다(오전 출발, 늦은 오후 귀환). 항구와 시타델을 봅니다.|By the boat that sails on set days from spring to autumn (out in the morning, back late afternoon): the harbour and the citadel.',
     },
     {
       to: 'monaco',
