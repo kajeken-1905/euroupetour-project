@@ -83,7 +83,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'montreux-h3': v(10, 15),
   'montreux-h4': v(15, 20),
   'montreux-h5': v(180, 240, { n: LIFT }),
-  'gruyeres-h1': v(60, 90, { c: 'daily', s: 'https://www.chateau-gruyeres.ch/', n: '매일 엽니다. 4~10월 9~18시, 11~3월 10~17시입니다.|Open daily: 9:00–18:00 from April to October, 10:00–17:00 from November to March.', k: '2026-10' }),
+  'gruyeres-h1': v(60, 120, { c: 'daily', s: 'https://www.chateau-gruyeres.ch/', n: '매일 엽니다. 4~10월 9~18시, 11~3월 10~17시입니다.|Open daily: 9:00–18:00 from April to October, 10:00–17:00 from November to March.', k: '2026-10' }),
   'gruyeres-h2': v(30, 45),
   'gruyeres-h3': v(45, 60),
   'gruyeres-h4': v(45, 60),

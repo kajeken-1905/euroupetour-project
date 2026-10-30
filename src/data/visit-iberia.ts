@@ -278,7 +278,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'fatima-h3': v(15, 20, { b: 'no', s: FATIMA }),
   'fatima-h4': v(15, 20, { b: 'no', s: FATIMA }),
   'fatima-h5': v(40, 45, { c: 'daily', s: 'https://www.fatima.pt/pt/pages/museu-do-santuario-de-fatima', n: '9:00~12:30, 14:00~18:00에 열고 12월 24일 오후·25일·1월 1일에 쉽니다.|Open 9:00–12:30 and 14:00–18:00; closed 24 December afternoon, 25 December and 1 January.', k: '2026-10' }),
-  'fatima-h6': v(90, 120, { c: 'daily', n: '매일 엽니다(1월 1일·부활절·5월 1일·12월 25일 제외). 파티마에서 버스나 차로 약 20분입니다.|Open daily except 1 January, Easter Sunday, 1 May and 25 December. About 20 min by bus or car from Fátima.' }),
+  'fatima-h6': v(60, 120, { c: 'daily', n: '매일 엽니다(1월 1일·부활절·5월 1일·12월 25일 제외). 파티마에서 버스나 차로 약 20분입니다.|Open daily except 1 January, Easter Sunday, 1 May and 25 December. About 20 min by bus or car from Fátima.' }),
   'tomar-h1': v(120, 150, { s: 'https://www.conventocristo.gov.pt/', n: '1월 1일·부활절·5월 1일·12월 25일에 쉽니다.|Closed on 1 January, Easter Sunday, 1 May and 25 December.' }),
   'tomar-h2': v(30, 45),
   'tomar-h3': v(20, 30),

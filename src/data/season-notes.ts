@@ -32,7 +32,7 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   gruyeres: { n: '9~10월엔 소 떼가 산에서 내려오는 축제가 근처 마을에서 열립니다.|In September–October, villages nearby hold festivals as the cows come down from the pastures.' },
   whitby: { n: '봄과 10월 말 고스 위크엔드 때 매우 붐빕니다. 수도원과 박물관은 겨울에 여는 날이 줄어듭니다.|Very busy during the spring and late-October Goth Weekends; the abbey and museum open fewer days in winter.' },
   mikulov: { n: '9월 팔라바 포도 수확 축제 때 마을이 가장 붐빕니다.|The town is busiest during the Pálava grape-harvest festival in September.' },
-  telc: { n: '겨울엔 성이 주말 위주로 엽니다. 여름엔 광장에서 공연과 축제가 열립니다.|In winter the castle opens mostly at weekends; summer brings concerts and festivals to the square.' },
+  telc: { n: '겨울(11~3월)엔 성에서 겨울 투어만 운영합니다. 여름엔 광장에서 공연과 축제가 열립니다.|From November to March the castle runs only its winter tour; summer brings concerts and festivals to the square.' },
   tomar: { n: '4년마다 7월 초 타불레이루스 축제가 열립니다(다음은 2027년). 그때는 숙소가 일찍 찹니다.|The Festa dos Tabuleiros is held every four years in early July (next in 2027), when rooms fill early.' },
   sitges: { n: '2월 카니발과 10월 시체스 영화제 때 매우 붐빕니다. 해수욕은 6~9월이 좋습니다.|Very busy during the February Carnival and the October film festival; swim from June to September.' },
   tarragona: { n: '9월 산타 테클라 축제 때 사람 탑(카스텔) 쌓기가 열립니다.|Human towers (castells) rise during the Santa Tecla festival in September.' },
