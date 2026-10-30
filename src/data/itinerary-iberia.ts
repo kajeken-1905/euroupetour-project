@@ -7,7 +7,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
       ['구시가와 왕궁|Old town & Royal Palace', 5, 4, 11, 13, 3, 6, 10, 9],
       ['프라도와 레티로|Prado & Retiro', 8, 7, 1, 2, 14],
     ],
-    trips: [['엘에스코리알|El Escorial', 15]],
+    trips: [['엘에스코리알|El Escorial', 15], ['알칼라 데 에나레스|Alcalá de Henares', 16], ['아랑후에스|Aranjuez', 17]],
   },
   barcelona: {
     days: [
@@ -15,6 +15,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
       ['가우디|Gaudí', 6, 7, 1, 2],
       ['몬주익과 바다|Montjuïc & the waterfront', 20, 8, 19, 5],
     ],
+    trips: [['피게레스 달리 극장 박물관|Figueres Dalí Museum', 25]],
   },
   cadiz: [1, 2, 5, 6, 4, 3],
   seville: {
@@ -30,7 +31,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
     ],
   },
   valencia: [2, 4, 3, 1, 5],
-  malaga: [3, 2, 1, 5, 4],
+  malaga: { days: [['', 3, 2, 1, 5, 4]], trips: [['미하스|Mijas', 6], ['프리힐리아나|Frigiliana', 7]] },
   bilbao: { days: [['', 1, 5, 3, 2]], trips: [['비스카야 다리|Vizcaya Bridge', 4]] },
   toledo: [8, 2, 7, 1, 3, 4, 6, 5],
   cordoba: [4, 1, 2, 3, 5],
@@ -51,6 +52,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
       ['바이샤와 알파마|Baixa & Alfama', 15, 14, 8, 7, 11, 13, 4, 3],
       ['벨렝과 강변|Belém & the riverfront', 2, 9, 1, 6, 5],
     ],
+    trips: [['마프라 궁전|Mafra', 18]],
   },
   porto: [8, 6, 3, 4, 9, 7, 1, 2, 5],
   sintra: { days: [['', 1, 3, 2, 4]], trips: [['몬세라트와 호카곶|Monserrate & Cabo da Roca', 5, 6]] },
@@ -66,7 +68,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   lagos: [2, 3, 4, 5, 1],
   cascais: [1, 5, 3, 4, 2],
   aveiro: { days: [['', 6, 1, 2, 3, 5]], trips: [['코스타 노바|Costa Nova', 4]] },
-  fatima: [3, 4, 1, 2, 5],
+  fatima: { days: [['', 3, 4, 1, 2, 5]], trips: [['바탈랴 수도원|Batalha Monastery', 6]] },
   evora: [4, 3, 2, 1, 5],
   obidos: [5, 4, 3, 1, 2],
   braga: { days: [['', 4, 2, 6, 3]], trips: [['봉 제수스와 사메이루|Bom Jesus & Sameiro', 1, 5]] },

@@ -1150,3 +1150,24 @@ highlights/cochem-5.jpg | https://commons.wikimedia.org/wiki/File:Marktplatz-Coc
 highlights/bamberg-3.jpg | https://commons.wikimedia.org/wiki/File:Bamberg-Rosengarten-Panorama.JPG | CC BY-SA 3.0 | Reinhard Kirchner
 highlights/cochem-2.jpg | https://commons.wikimedia.org/wiki/File:Mosel_promenade_Cochem.jpg | CC BY-SA 3.0 | Sjokolade
 highlights/cochem-3.jpg | https://commons.wikimedia.org/wiki/File:GER_Cochem,_Pinnerkreuz,_Aussicht_016.jpg | CC BY 4.0 | -wuppertaler
+highlights/amsterdam-8.jpg | https://commons.wikimedia.org/wiki/File:Zaanse_Schans_(NL),_Windm%C3%BChlen_--_2026_--_0509.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/amsterdam-9.jpg | https://commons.wikimedia.org/wiki/File:Volendam_-_Havendijkje_-_View_WSW_I.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/amsterdam-10.jpg | https://commons.wikimedia.org/wiki/File:Cheese_market_in_Alkmaar-0419.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/amsterdam-11.jpg | https://commons.wikimedia.org/wiki/File:Keukenhof_tulips_(17591078720).jpg | CC BY 2.0 | Willem van Valkenburg from Delft, Netherlands
+highlights/rotterdam-7.jpg | https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg | CC BY-SA 3.0 | Lucas Hirschegger
+highlights/madrid-16.jpg | https://commons.wikimedia.org/wiki/File:Alcal%C3%A1_de_Henares_(RPS_08-08-2015)_Colegio_Mayor_de_San_Ildefonso,_fachada.png | CC BY-SA 4.0 | Raimundo Pastor
+highlights/madrid-17.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_in_Aranjuez_Spain.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/barcelona-25.jpg | https://commons.wikimedia.org/wiki/File:Teatre-Museu_Dal%C3%AD_(Figueres)_01.jpg | CC BY-SA 4.0 | Maksim Sokolov (maxergon.com)
+highlights/malaga-6.jpg | https://commons.wikimedia.org/wiki/File:Mijas_10.jpg | CC BY 3.0 | Olaf Tausch
+highlights/lisbon-18.jpg | https://commons.wikimedia.org/wiki/File:Mafra_May_2013-2.jpg | CC BY-SA 3.0 | Alvesgaspar
+highlights/fatima-6.jpg | https://commons.wikimedia.org/wiki/File:Batalha_September_2021-53.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/naples-8.jpg | https://commons.wikimedia.org/wiki/File:Hera_temple_II_-_Paestum_-_Poseidonia_-_July_13th_2013_-_04.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/amalfi-6.jpg | https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG | CC BY-SA 3.0 | Istvánka
+highlights/san-gimignano-5.jpg | https://commons.wikimedia.org/wiki/File:Volterra_al_atardecer_(5113682960).jpg | CC BY-SA 2.0 | Andrés Nieto Porras from Palma de Mallorca, España
+highlights/prague-14.jpg | https://commons.wikimedia.org/wiki/File:Karl%C5%A1tejn_in_winter.jpg | CC BY-SA 4.0 | Radomír Šalda
+highlights/zurich-11.jpg | https://commons.wikimedia.org/wiki/File:SBB_RABe_514_DTZ_Rheinfall.jpg | CC BY-SA 4.0 | Kabelleger / David Gubler
+highlights/interlaken-6.jpg | https://commons.wikimedia.org/wiki/File:Lauterbrunnen_Valley,_Staubbach_and_Jungfrau,_Bernese_Oberland,_Switzerland-LCCN2001701214.jpg | Public domain | Photochrom Print Collection
+highlights/salzburg-8.jpg | https://commons.wikimedia.org/wiki/File:St_Wolfgang,_Austria.jpg | CC BY-SA 4.0 | Dmitry A. Mottl
+highlights/kotor-6.jpg | https://commons.wikimedia.org/wiki/File:Kotor_area_Our_Lady_of_the_Rocks.JPG | Public domain | Brian Dell
+highlights/paris-40.jpg | https://commons.wikimedia.org/wiki/File:Front_view_of_the_Ch%C3%A2teau_de_Chantilly_under_blue_sky_Oise_France.jpg | CC BY-SA 4.0 | Basile Morin
+highlights/malaga-7.jpg | https://commons.wikimedia.org/wiki/File:Frigiliana,_the_lane_%22Calle_el_Zacatin%22.jpg | CC BY 3.0 | Dguendel

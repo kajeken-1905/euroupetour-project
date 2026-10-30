@@ -181,6 +181,10 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'amsterdam-h5': v(60, 75, { c: 'daily', b: 'req', s: 'https://www.annefrank.org/en/', t: 'https://www.annefrank.org/en/museum/tickets/', n: '표는 공식 누리집에서만 팔며 매주 화요일에 6주 뒤 날짜분이 풀립니다. 금방 매진됩니다.|Tickets are sold only on the official site, released every Tuesday for six weeks ahead, and go fast.', k: '2026-10' }),
   'amsterdam-h6': v(150, 210, { c: 'daily', b: 'req', s: 'https://www.rijksmuseum.nl/en', n: '입장 시작 시간을 온라인으로 예약해야 합니다.|A start time must be booked online.', k: '2026-10' }),
   'amsterdam-h7': v(15, 20),
+  'amsterdam-h8': v(150, 210, { n: '마을은 무료이고 풍차와 박물관은 따로 표를 삽니다. 암스테르담 중앙역에서 기차로 약 20분, 코흐잔데이크역에서 걸어서 약 15분입니다.|The village is free; windmills and museums charge separately. About 20 min by train from Amsterdam Centraal, then a 15-minute walk from Koog-Zaandijk.' }),
+  'amsterdam-h9': v(240, 300, { n: '중앙역 뒤 버스 정류장에서 버스로 약 30분입니다. 폴렌담–마르컨 배는 봄~가을에 다닙니다.|About 30 min by bus from behind Centraal station; the Volendam–Marken boat runs from spring to autumn.' }),
+  'amsterdam-h10': v(150, 180, { s: 'https://www.kaasmarkt.nl/', n: '시장은 봄~초가을 금요일 10~13시에만 열립니다(2026년은 3월 27일~9월 25일). 암스테르담에서 기차로 약 35분입니다.|The market runs only on Friday mornings, 10:00–13:00, from spring to early autumn (27 March–25 September in 2026). About 35 min by train from Amsterdam.', k: '2026-10' }),
+  'amsterdam-h11': v(180, 240, { b: 'req', s: 'https://keukenhof.nl/', n: '3월 중순~5월 초에만 엽니다(2026년은 3월 19일~5월 10일). 입장 시간을 정해 미리 표를 사야 하고, 스히폴 공항이나 레이던역에서 전용 버스가 다닙니다.|Open only from mid-March to early May (19 March–10 May in 2026). Buy a timed ticket in advance; special buses run from Schiphol and Leiden station.', k: '2026-10' }),
   // Rotterdam
   'rotterdam-h1': v(30, 45, { c: 'daily', b: 'no', k: '2026-10' }),
   'rotterdam-h2': v(15, 20),
@@ -188,6 +192,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rotterdam-h4': v(75, 90, { s: 'https://www.spido.nl/en/', n: '11월~3월 중순에는 월~수요일에 하루 한 번(14:00)만 운항하고, 목~일요일은 하루 4회입니다.|From November to mid-March it sails once a day (14:00) Monday–Wednesday and four times a day Thursday–Sunday.', k: '2026-10' }),
   'rotterdam-h5': v(90, 120, { c: 'mon', s: 'https://www.boijmans.nl/en', n: '본관은 보수 공사로 휴관 중이고, 바로 옆 수장고(Depot)가 문을 엽니다.|The main museum is closed for renovation; the Depot next door is open.', k: '2026-10' }),
   'rotterdam-h6': v(45, 60, { c: 'daily', s: 'https://euromast.nl/en/', k: '2026-10' }),
+  'rotterdam-h7': v(150, 210, { s: 'https://kinderdijk.nl/', n: '로테르담 에라스뮈스 다리 근처 선착장에서 워터버스로 약 40분입니다. 겨울엔 운영 시간이 짧아집니다.|About 40 min by waterbus from near the Erasmus Bridge; hours are shorter in winter.' }),
   // The Hague
   'the-hague-h1': v(10, 15, { n: '국왕 집무 궁전이라 내부는 공개하지 않습니다.|The King’s working palace—not open to visitors.' }),
   'the-hague-h2': v(30, 45, { c: 'mon,tue', s: 'https://www.vredespaleis.nl/visit/?lang=en', n: '방문자 센터는 무료이고, 건물 내부는 지정일 가이드 투어로만 봅니다. 방문자 센터 기준입니다.|The visitor centre is free; the building itself is seen on guided tours on set days only. As listed for the visitor centre.', k: '2026-10' }),

@@ -28,6 +28,8 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'madrid-h9': v(20, 30, { c: 'mon', b: 'rec', s: 'https://www.esmadrid.com/en/tourist-information/temple-debod', n: '입장은 무료이지만 내부는 정원이 적어 예약 없이는 못 들어갈 수 있습니다. 바깥은 해 질 무렵이 가장 인기 있습니다.|Free, but the interior has a small capacity and entry is not guaranteed without a booking. Outside, sunset is the popular hour.', k: '2026-10' }),
   'madrid-h12': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.realmadrid.com/en-US/tour-bernabeu', n: '경기일에는 투어 동선과 시간이 줄어듭니다.|On match days the tour route and hours are reduced.', k: '2026-10' }),
   'madrid-h15': v(120, 180, { c: 'mon', s: 'https://www.patrimonionacional.es/', n: '마드리드에서 근교선 C-8로 약 1시간입니다. 2026년 2월부터 공사로 서쪽 정면(왕들의 안뜰)으로 들어갑니다.|About an hour from Madrid on suburban line C-8. Since February 2026 visitors enter by the west front (Patio de Reyes) during works.', k: '2026-10' }),
+  'madrid-h16': v(180, 240, { n: '마드리드에서 근교선 세르카니아스 C-2·C-7로 약 40분입니다. 세르반테스 생가 박물관은 월요일에 쉽니다.|About 40 min on Cercanías lines C-2 and C-7 from Madrid; the Cervantes birthplace museum is closed on Mondays.' }),
+  'madrid-h17': v(180, 240, { c: 'mon', s: 'https://www.patrimonionacional.es/', n: '월요일에 쉬고 공식 행사로 갑자기 닫을 때가 있습니다. 마드리드에서 세르카니아스 C-3로 약 45분입니다.|Closed on Mondays, and sometimes at short notice for official events. About 45 min on Cercanías C-3 from Madrid.', k: '2026-10' }),
   // Segovia
   'segovia-h1': v(20, 30),
   'segovia-h5': v(10, 15),
@@ -84,6 +86,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'barcelona-h20': v(20, 30),
   'barcelona-h8': v(120, 180),
   'barcelona-h11': v(60, 75, { b: 'rec', s: 'https://www.fcbarcelona.com/en/tickets/camp-nou-experience', n: '경기장 투어가 다시 열려 1층 관중석까지 가는 가이드 투어와 박물관을 함께 봅니다. 마무리 공사가 이어져 동선이 바뀔 수 있습니다.|Stadium tours are back: a guided route to the first tier plus the museum. Finishing works continue, so the route may change.', k: '2026-10' }),
+  'barcelona-h25': v(120, 180, { c: 'mon', b: 'rec', s: 'https://www.salvador-dali.org/', n: '월요일에 쉽니다(여름엔 매일 여는 기간이 있습니다). 바르셀로나 산츠역에서 고속열차로 약 55분이고, 표는 날짜·시간을 정해 미리 사는 편이 좋습니다.|Closed on Mondays except in parts of summer. About 55 min by high-speed train from Barcelona Sants; buy a dated, timed ticket ahead.', k: '2026-10' }),
   // Montserrat
   'montserrat-h1': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.montserratvisita.com/en', n: '2023년부터 관광객의 성당 입장은 시간 지정 유료 입장권으로 합니다. 현장에서도 사지만 붐비는 날은 정원이 차므로 온라인 예매를 권합니다.|Since 2023 tourists enter the basilica on a paid timed ticket. It is sold on site too, but busy days fill up, so book online.', k: '2026-10' }),
   'montserrat-h2': v(60, 120),
@@ -156,6 +159,8 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'malaga-h3': v(30, 45, { c: 'daily', s: 'https://malagacatedral.com/en/', k: '2026-10' }),
   'malaga-h4': v(45, 60),
   'malaga-h5': v(60, 75, { c: 'daily', k: '2026-10' }),
+  'malaga-h6': v(150, 210, { n: '말라가에서 근교선으로 푸엔히롤라까지 간 뒤 버스로 약 20분 오릅니다.|Take the suburban train from Málaga to Fuengirola, then about 20 min by bus up the hill.' }),
+  'malaga-h7': v(120, 180, { n: '말라가에서 버스로 네르하까지 간 뒤 버스로 갈아탑니다. 네르하와 묶어 하루에 봅니다.|Bus from Málaga to Nerja, then a local bus up; pair it with Nerja for a day.' }),
   // Ronda
   'ronda-h1': v(20, 30),
   'ronda-h2': v(45, 60),
@@ -256,6 +261,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'fatima-h3': v(15, 20, { b: 'no', s: FATIMA }),
   'fatima-h4': v(15, 20, { b: 'no', s: FATIMA }),
   'fatima-h5': v(40, 45, { c: 'daily', s: 'https://www.fatima.pt/pt/pages/museu-do-santuario-de-fatima', n: '9:00~12:30, 14:00~18:00에 열고 12월 24일 오후·25일·1월 1일에 쉽니다.|Open 9:00–12:30 and 14:00–18:00; closed 24 December afternoon, 25 December and 1 January.', k: '2026-10' }),
+  'fatima-h6': v(90, 120, { c: 'daily', n: '매일 엽니다(1월 1일·부활절·5월 1일·12월 25일 제외). 파티마에서 버스나 차로 약 20분입니다.|Open daily except 1 January, Easter Sunday, 1 May and 25 December. About 20 min by bus or car from Fátima.' }),
   // Nazaré
   'nazare-h1': v(60, 120),
   'nazare-h2': v(20, 30),
@@ -286,6 +292,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lisbon-h15': v(15, 20),
   'lisbon-h16': v(10, 15),
   'lisbon-h17': v(10, 15),
+  'lisbon-h18': v(120, 150, { c: 'tue', s: 'https://www.palaciomafra.gov.pt/', n: '화요일과 1월 1일·부활절·5월 1일·12월 25일에 쉽니다. 리스본 캄푸 그란드에서 버스로 약 1시간입니다.|Closed on Tuesdays and on 1 January, Easter Sunday, 1 May and 25 December. About an hour by bus from Campo Grande in Lisbon.', k: '2026-10' }),
   // Sintra
   'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.', k: '2026-10' }),
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),

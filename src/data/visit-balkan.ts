@@ -125,6 +125,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'kotor-h3': v(120, 150, { n: '계단 약 1,350개를 오릅니다. 입장료가 있고 그늘이 없어 아침이나 해 질 무렵이 좋습니다.|Around 1,350 steps. There is an entry fee and no shade—go early or late in the day.' }),
   'kotor-h4': v(120, 180),
   'kotor-h5': v(20, 30),
+  'kotor-h6': v(150, 210, { n: '코토르에서 버스로 약 20분입니다. 섬까지는 페라스트 부두에서 작은 배가 수시로 다닙니다.|About 20 min by bus from Kotor; small boats shuttle to the island from the Perast quay.' }),
   // Budva
   'budva-h1': v(45, 60),
   'budva-h2': v(60, 120),

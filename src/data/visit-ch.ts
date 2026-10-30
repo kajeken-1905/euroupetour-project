@@ -17,6 +17,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'zurich-h8': v(10, 15, { c: 'daily', b: 'no', s: 'https://www.zuerich.com/en/visit/attractions/st-peter', n: '입장 무료. 평일 9:00~18:00, 주말 9:00~16:00.|Free. Weekdays 9:00–18:00, weekends 9:00–16:00.', k: '2026-10' }),
   'zurich-h9': v(15, 20),
   'zurich-h10': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.lindt-home-of-chocolate.com/en/', n: '시간 지정 입장이라 주말에는 며칠 전에 매진됩니다.|Entry is timed and weekends sell out days ahead.', k: '2026-10' }),
+  'zurich-h11': v(300, 360, { n: '취리히에서 기차로 라인 폭포 역(슐로스 라우펜)까지 약 50분입니다. 폭포 가운데 바위로 가는 배는 봄~가을에 다닙니다.|About 50 min by train from Zurich to Schloss Laufen am Rheinfall; boats to the rock in the middle of the falls run spring to autumn.' }),
   // Geneva
   'geneva-h1': v(15, 20, { n: '강풍이 불거나 영하로 내려가면 분수를 끕니다.|The fountain is switched off in strong wind or frost.' }),
   'geneva-h2': v(60, 90),
@@ -51,6 +52,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'interlaken-h3': v(90, 120, { s: 'https://www.bls-schiff.ch/en' }),
   'interlaken-h4': v(75, 90, { s: 'https://www.jungfrau.ch/en-gb/harder-kulm/', n: '푸니쿨라는 4월 초부터 11월 말까지만 다닙니다.|The funicular runs from early April to late November only.', k: '2026-10' }),
   'interlaken-h5': v(300, 360, { b: 'req', s: 'https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/', n: '5~10월에는 융프라우 철도 좌석 예약(유료)이 의무이고, 그 밖의 달에도 권장됩니다.|A paid seat reservation on the Jungfrau Railway is compulsory from May to October and recommended in other months.', k: '2026-10' }),
+  'interlaken-h6': v(180, 240, { n: '인터라켄 오스트역에서 기차로 약 20분입니다. 트뤼멜바흐 폭포는 4월 초~11월 초에만 엽니다.|About 20 min by train from Interlaken Ost; the Trümmelbach Falls open only from early April to early November.' }),
   // Basel
   'basel-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.baslermuenster.ch/', k: '2026-10' }),
   'basel-h2': v(120, 150, { c: 'mon', b: 'no', s: 'https://kunstmuseumbasel.ch/en/', k: '2026-10' }),

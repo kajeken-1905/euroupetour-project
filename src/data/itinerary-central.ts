@@ -7,8 +7,9 @@ export const itineraryCentral: Record<string, RawItinerary> = {
       ['담 광장과 요르단|Dam Square & Jordaan', 1, 5, 4, 2],
       ['박물관 광장|Museum Quarter', 7, 6, 3],
     ],
+    trips: [['잔세스칸스|Zaanse Schans', 8], ['폴렌담과 마르컨|Volendam & Marken', 9], ['알크마르 치즈 시장|Alkmaar cheese market', 10], ['케우켄호프|Keukenhof', 11]],
   },
-  rotterdam: [3, 1, 4, 2, 5, 6],
+  rotterdam: { days: [['', 3, 1, 4, 2, 5, 6]], trips: [['킨더다이크 풍차|Kinderdijk windmills', 7]] },
   'the-hague': {
     days: [
       ['시내|City centre', 5, 3, 7, 1, 2],
@@ -37,15 +38,15 @@ export const itineraryCentral: Record<string, RawItinerary> = {
     ],
     trips: [['멜크와 바하우|Melk & the Wachau', 8]],
   },
-  salzburg: [2, 4, 3, 6, 7, 5, 1],
+  salzburg: { days: [['', 2, 4, 3, 6, 7, 5, 1]], trips: [['장크트볼프강|St. Wolfgang', 8]] },
   innsbruck: [4, 1, 3, 2],
   graz: [3, 2, 1, 4, 5],
   hallstatt: [2, 4, 5, 3, 1],
-  zurich: { days: [['', 9, 6, 3, 8, 7, 1, 2, 5, 4]], trips: [['린트 초콜릿 박물관|Lindt Home of Chocolate', 10]] },
+  zurich: { days: [['', 9, 6, 3, 8, 7, 1, 2, 5, 4]], trips: [['린트 초콜릿 박물관|Lindt Home of Chocolate', 10], ['라인 폭포와 슈타인암라인|Rhine Falls & Stein am Rhein', 11]] },
   geneva: [8, 3, 2, 7, 1, 5, 6, 4],
   bern: [4, 1, 7, 2, 6, 3, 5],
   lucerne: { days: [['', 6, 7, 1, 4, 3, 5]], trips: [['호수 유람과 리기산|Lake cruise & Rigi', 2, 8], ['필라투스|Pilatus', 9], ['티틀리스|Titlis', 10]] },
-  interlaken: { days: [['', 4, 1, 3]], trips: [['융프라우요흐|Jungfraujoch', 5]] },
+  interlaken: { days: [['', 4, 1, 3]], trips: [['융프라우요흐|Jungfraujoch', 5], ['라우터브루넨|Lauterbrunnen', 6]] },
   berlin: {
     days: [
       ['미테|Mitte', 4, 1, 5, 2],

@@ -197,6 +197,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'san-gimignano-h2': v(15, 20),
   'san-gimignano-h3': v(40, 45),
   'san-gimignano-h4': v(30, 45),
+  'san-gimignano-h5': v(180, 240, { n: '대중교통은 콜레 디 발 델사에서 버스를 갈아타야 해 차나 투어가 편합니다.|By public transport you change buses at Colle di Val d’Elsa, so a car or tour is easier.' }),
   // Montepulciano
   'montepulciano-h1': v(20, 30),
   'montepulciano-h2': v(30, 45),
@@ -233,6 +234,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'naples-h5': v(45, 60),
   'naples-h6': v(30, 45, { b: 'no', n: '성당은 무료이고 산 젠나로 보물관만 유료입니다.|The cathedral is free; only the Treasure of San Gennaro is ticketed.' }),
   'naples-h7': v(60, 90),
+  'naples-h8': v(180, 240, { s: 'https://museopaestum.cultura.gov.it/', n: '나폴리에서 기차로 약 1시간 30분이며 역에서 유적까지 걸어서 약 10분입니다. 표 하나로 유적과 박물관에 들어갑니다.|About 1 hr 30 by train from Naples, then a 10-minute walk from the station; one ticket covers the site and the museum.' }),
   // Pompeii
   'pompeii-h1': v(240, 300, { c: 'daily', b: 'rec', s: POMPEII, n: '입장권은 이름이 적히고 하루 입장 인원이 2만 명으로 제한됩니다. 유적 전체를 보는 데 4~5시간 걸립니다.|Tickets are named and daily entries are capped at 20,000. Allow four to five hours for the whole site.', k: '2026-10' }),
   'pompeii-h2': v(20, 30, { c: 'daily', s: POMPEII, n: '폼페이 유적 입장권으로 봅니다. 공식 누리집의 개방 건물 목록에 들어 있습니다.|Seen on the Pompeii site ticket; listed among the open buildings on the official site.', k: '2026-10' }),
@@ -256,6 +258,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'amalfi-h3': v(40, 45),
   'amalfi-h4': v(60, 90),
   'amalfi-h5': v(20, 30),
+  'amalfi-h6': v(150, 210, { n: '아말피에서 버스로 약 25분 오릅니다. 여름엔 빌라 루폴로에서 라벨로 음악제가 열립니다.|About 25 min by bus up from Amalfi; the Ravello Festival fills Villa Rufolo in summer.' }),
   // Capri
   'capri-h1': v(60, 90, { n: '동굴 안에는 5분쯤 머뭅니다. 파도가 높거나 물때가 맞지 않으면 닫고, 줄이 1시간 넘게 걸리는 날이 많습니다.|You get about five minutes inside. It closes in swell or at high water, and queues often exceed an hour.' }),
   'capri-h2': v(20, 30),

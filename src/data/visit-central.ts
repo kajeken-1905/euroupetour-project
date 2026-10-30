@@ -25,6 +25,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'salzburg-h5': v(10, 15, { c: 'daily', s: 'https://www.festung-hohensalzburg.at/en/', k: '2026-10' }),
   'salzburg-h6': v(20, 30, { c: 'daily', s: 'https://www.salzburger-dom.at/besuch-planen/oeffnungszeiten?lang=de', n: '관람에는 보존 기부금 7유로(13세 이하 무료)를 냅니다. 월~토는 점심때 잠시 닫고 일요일은 13시부터 열며, 미사·연주회 중에는 관람할 수 없습니다.|Sightseeing costs a €7 upkeep contribution (free to 13). Mon–Sat it closes briefly at midday and on Sundays opens from 13:00; no sightseeing during services or concerts.', k: '2026-10' }),
   'salzburg-h7': v(10, 10),
+  'salzburg-h8': v(300, 360, { s: 'https://www.5schaetze.at/', n: '잘츠부르크에서 150번 버스로 장크트길겐이나 슈트로블까지 간 뒤 배·버스로 갈아탑니다. 샤프베르크 열차는 4월 말~11월 1일에만 다닙니다.|Bus 150 from Salzburg to St. Gilgen or Strobl, then a boat or bus; the Schafberg railway runs only from late April to 1 November.', k: '2026-10' }),
   // Innsbruck
   'innsbruck-h1': v(15, 30),
   'innsbruck-h2': v(120, 180, { s: 'https://nordkette.com/en/', n: '봄·가을 정기 점검 기간과 강풍 때는 운휴합니다.|Closed for maintenance spells in spring and autumn, and in high winds.' }),
@@ -58,6 +59,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'prague-h11': v(10, 20),
   'prague-h12': v(15, 20, { n: '근위병 교대식은 매시 정각에 있고 정오에 가장 크게 열립니다.|The guard changes hourly, with the full ceremony at noon.' }),
   'prague-h13': v(300, 360, { b: 'rec', n: '프라하 중앙역에서 기차로 약 1시간. 세들레츠 납골당은 시간 지정 입장이라 미리 예약하는 편이 좋고, 안에서는 사진을 찍을 수 없습니다.|About an hour by train from Prague main station. The Sedlec Ossuary has timed entry, so book ahead; no photos inside.' }),
+  'prague-h14': v(180, 240, { c: 'mon', s: 'https://www.hrad-karlstejn.cz/', n: '월요일에 쉬고 겨울엔 주말 위주로 엽니다. 프라하 중앙역에서 기차로 약 40분, 역에서 성까지 걸어서 약 30분 오릅니다. 성 십자가 예배당은 미리 예약해야 합니다.|Closed on Mondays and mostly weekends-only in winter. About 40 min by train from Prague main station, then a 30-minute walk up; the Chapel of the Holy Cross needs booking.' }),
   // Brno
   'brno-h1': v(75, 90, { c: 'daily', s: 'https://www.spilberk.cz/en/', k: '2026-10' }),
   'brno-h2': v(60, 90, { c: 'mon', b: 'req', s: 'https://www.vilatugendhat.cz/en/', n: '내부 투어는 몇 달 전에 매진됩니다. 표가 없으면 정원만 볼 수 있습니다.|Interior tours sell out months ahead; without a ticket only the garden can be seen.', k: '2026-10' }),

@@ -44,6 +44,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'paris-h39': v(60, 120, { c: 'daily', b: 'no', k: '2026-10' }),
   'paris-h38': v(45, 90),
   'paris-h7': v(240, 360, { c: 'mon', b: 'req', s: 'https://en.chateauversailles.fr/', t: 'https://ticket.chateauversailles.fr/en', n: '궁전 입장은 시간 지정 예약이 필요합니다. 파리에서 RER C로 약 40분 걸려 하루 일정으로 잡는 편이 좋습니다.|Palace entry needs a timed slot. It is about 40 minutes from Paris by RER C—plan a full day.', k: '2026-10' }),
+  'paris-h40': v(180, 240, { c: 'tue', s: 'https://chateaudechantilly.fr/', n: '화요일에 쉽니다. 파리 북역에서 기차로 약 25분, 역에서 성까지 걸어서 약 25분입니다.|Closed on Tuesdays. About 25 min by train from Paris Gare du Nord, then a 25-minute walk.', k: '2026-10' }),
   // Giverny
   'giverny-h1': v(45, 60, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', n: '집과 정원은 표 한 장으로 함께 보며, 봄부터 가을(대략 4월~11월 초)에만 엽니다.|House and gardens share one ticket and open only from spring to autumn (roughly April to early November).', k: '2026-10' }),
   'giverny-h2': v(30, 45, { b: 'rec', s: 'https://claudemonetgiverny.fr/en/', k: '2026-10' }),

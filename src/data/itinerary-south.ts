@@ -102,7 +102,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   'banja-luka': [2, 5, 1, 4, 3],
   travnik: { days: [['', 2, 3, 5, 1]], trips: [['플리바 호수와 야이체|Pliva lakes & Jajce', 4]] },
   neum: [2, 1, 3],
-  kotor: { days: [['', 1, 2, 5, 3]], trips: [['코토르 만 유람|Bay of Kotor cruise', 4]] },
+  kotor: { days: [['', 1, 2, 5, 3]], trips: [['코토르 만 유람|Bay of Kotor cruise', 4], ['페라스트|Perast', 6]] },
   budva: {
     days: [['', 1, 4, 2]],
     trips: [

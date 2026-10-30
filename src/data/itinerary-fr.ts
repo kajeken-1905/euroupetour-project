@@ -8,7 +8,7 @@ export const itineraryFr: Record<string, RawItinerary> = {
       ['루브르와 시테 섬|Louvre & Île de la Cité', 18, 19, 2, 27, 25, 3],
       ['개선문에서 몽마르트르|Arc de Triomphe to Montmartre', 6, 15, 17, 21, 4, 36],
     ],
-    trips: [['베르사유|Versailles', 7]],
+    trips: [['베르사유|Versailles', 7], ['샹티이 성|Chantilly', 40]],
   },
   lyon: [2, 1, 3, 5, 4],
   marseille: { days: [['', 1, 5, 3, 2]], trips: [['카랑크|Calanques', 4]] },

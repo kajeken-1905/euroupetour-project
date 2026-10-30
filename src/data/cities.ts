@@ -710,6 +710,38 @@ export const cities: City[] = [
         image: "/highlights/amsterdam-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bloemenmarkt%20Amsterdam",
       },
+      {
+        id: "amsterdam-h8",
+        name: { ko: "잔세스칸스", en: "Zaanse Schans" },
+        description: { ko: "잔강 가에 옛 풍차와 초록 목조 가옥을 옮겨 모은 마을로 나막신·치즈 공방이 있습니다.", en: "A riverside village of old windmills and green wooden houses moved here, with clog and cheese workshops." },
+        image: "/highlights/amsterdam-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zaanse%20Schans",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "amsterdam-h9",
+        name: { ko: "폴렌담과 마르컨", en: "Volendam and Marken" },
+        description: { ko: "옛 어촌 폴렌담의 제방 거리와, 배로 건너가는 초록 목조 가옥 마을 마르컨을 묶어 봅니다.", en: "The old fishing town of Volendam and its dyke, with a boat across to the green wooden houses of Marken." },
+        image: "/highlights/amsterdam-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Volendam",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "amsterdam-h10",
+        name: { ko: "알크마르 치즈 시장", en: "Alkmaar Cheese Market" },
+        description: { ko: "계량소 앞 광장에서 흰 옷의 운반꾼들이 치즈를 나르며 옛 거래를 재현합니다.", en: "Porters in white carry cheeses across the square by the Weigh House, re-enacting the old trade." },
+        image: "/highlights/amsterdam-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kaasmarkt%20Alkmaar",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "amsterdam-h11",
+        name: { ko: "케우켄호프", en: "Keukenhof" },
+        description: { ko: "봄에만 여는 세계적인 튤립 정원으로 수백만 송이 구근 꽃이 핍니다.", en: "The world-famous spring garden, ablaze with millions of tulips and other bulbs." },
+        image: "/highlights/amsterdam-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Keukenhof%20Lisse",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -766,6 +798,14 @@ export const cities: City[] = [
         description: { ko: "전망대에서 시내와 항구를 한눈에 담습니다.", en: "An observation tower over the city and harbour." },
         image: "/highlights/rotterdam-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Euromast%20rotterdam",
+      },
+      {
+        id: "rotterdam-h7",
+        name: { ko: "킨더다이크 풍차 마을", en: "Kinderdijk windmills" },
+        description: { ko: "18세기 풍차 19기가 운하를 따라 늘어선 세계유산으로, 물을 퍼내 땅을 지켜 온 네덜란드의 상징입니다.", en: "A World Heritage line of 19 18th-century windmills along the canals, symbol of how the Dutch kept the land dry." },
+        image: "/highlights/rotterdam-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kinderdijk",
+        group: { ko: "근교 당일치기", en: "Day trip" },
       },
     ],
   },
@@ -2886,7 +2926,15 @@ export const cities: City[] = [
         description: { ko: "황금 공 위에 사람이 서 있는 현대 조형물입니다.", en: "Contemporary sculpture of a figure standing atop a golden sphere." },
         image: "/highlights/salzburg-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kapitelgasse%201%2C%205020%20Salzburg",
-      }
+      },
+      {
+        id: "salzburg-h8",
+        name: { ko: "장크트볼프강과 샤프베르크", en: "St. Wolfgang and the Schafberg" },
+        description: { ko: "볼프강 호숫가 순례 마을에서 톱니바퀴 열차로 샤프베르크 정상에 올라 호수들을 내려다봅니다.", en: "A lakeside pilgrimage village on the Wolfgangsee, with a cogwheel railway up the Schafberg over the lakes." },
+        image: "/highlights/salzburg-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St.%20Wolfgang%20im%20Salzkammergut",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -3472,6 +3520,14 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sedlec%20Ossuary%20Kutn%C3%A1%20Hora",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
+      {
+        id: "prague-h14",
+        name: { ko: "카를슈테인 성", en: "Karlštejn Castle" },
+        description: { ko: "카를 4세가 왕관과 보물을 지키려고 숲속 언덕에 세운 고딕 성입니다.", en: "The Gothic castle Charles IV built on a wooded hill to guard the crown jewels." },
+        image: "/highlights/prague-14.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hrad%20Karl%C5%A1tejn",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -3999,7 +4055,15 @@ export const cities: City[] = [
         image: "/highlights/paris-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Versailles",
         group: { ko: "근교", en: "Day trips" },
-      }
+      },
+      {
+        id: "paris-h40",
+        name: { ko: "샹티이 성", en: "Château de Chantilly" },
+        description: { ko: "호수 위에 선 성과 콩데 미술관, 거대한 마구간 건물이 있는 귀족의 영지입니다.", en: "A château on a lake with the Musée Condé and the vast Great Stables." },
+        image: "/highlights/paris-40.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Chantilly",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -4491,7 +4555,15 @@ export const cities: City[] = [
         description: { ko: "킬히베르크 린트 본사 옆 초콜릿 박물관으로, 9m 높이 초콜릿 분수와 시식 코너가 있습니다.", en: "Lindt's chocolate museum in Kilchberg, with a 9 m chocolate fountain and tastings." },
         image: "/highlights/zurich-10.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lindt%20Home%20of%20Chocolate%20Kilchberg",
-      }
+      },
+      {
+        id: "zurich-h11",
+        name: { ko: "라인 폭포와 슈타인암라인", en: "Rhine Falls and Stein am Rhein" },
+        description: { ko: "유럽에서 가장 수량이 많은 라인 폭포를 보고, 그림 벽화가 가득한 중세 마을 슈타인암라인을 걷습니다.", en: "Europe’s most powerful waterfall, then the medieval town of Stein am Rhein with its painted façades." },
+        image: "/highlights/zurich-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rheinfall",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -4763,7 +4835,15 @@ export const cities: City[] = [
         description: { ko: "산악열차 투어의 출발 거점입니다.", en: "Base for Jungfraujoch mountain trains." },
         image: "/highlights/interlaken-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Interlaken%20Ost",
-      }
+      },
+      {
+        id: "interlaken-h6",
+        name: { ko: "라우터브루넨 계곡", en: "Lauterbrunnen Valley" },
+        description: { ko: "절벽 사이 U자 계곡에 폭포 72개가 쏟아지는 마을로, 슈타우바흐 폭포와 바위 속 트뤼멜바흐 폭포가 있습니다.", en: "A U-shaped valley of sheer cliffs and 72 waterfalls, with the Staubbach Falls and the Trümmelbach Falls inside the rock." },
+        image: "/highlights/interlaken-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lauterbrunnen%20Staubbachfall",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -5642,7 +5722,15 @@ export const cities: City[] = [
         description: { ko: "마르게리타가 탄생한 피자의 본고장입니다. 50 칼로, 다 미켈레, 소르빌로 등 명소가 많습니다.", en: "Birthplace of pizza Margherita—try 50 Kalò, Da Michele or Sorbillo." },
         image: "/highlights/naples-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=50%20Kal%C3%B2%20Napoli",
-      }
+      },
+      {
+        id: "naples-h8",
+        name: { ko: "파에스툼", en: "Paestum" },
+        description: { ko: "그리스 식민 도시 유적으로 넵투누스 신전 등 보존 상태가 뛰어난 도리아식 신전 세 채가 남아 있습니다.", en: "A Greek colonial city with three superbly preserved Doric temples, including the Temple of Neptune." },
+        image: "/highlights/naples-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Paestum%20Archaeological%20Park",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -6714,7 +6802,15 @@ export const cities: City[] = [
         description: { ko: "참사회 성당과 시청사가 마주한 중심 광장입니다.", en: "Main square facing the Collegiate Church and town hall." },
         image: "/highlights/san-gimignano-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Duomo%20San%20Gimignano",
-      }
+      },
+      {
+        id: "san-gimignano-h5",
+        name: { ko: "볼테라", en: "Volterra" },
+        description: { ko: "에트루리아 시대부터 이어진 언덕 위 성벽 도시로 로마 극장과 설화석고 공방이 있습니다.", en: "A walled hill town dating back to the Etruscans, with a Roman theatre and alabaster workshops." },
+        image: "/highlights/san-gimignano-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Volterra",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -11960,7 +12056,15 @@ export const cities: City[] = [
         description: { ko: "인근 해안 마을 전망 코스입니다.", en: "Nearby coast-town viewpoints." },
         image: "/highlights/amalfi-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Positano",
-      }
+      },
+      {
+        id: "amalfi-h6",
+        name: { ko: "라벨로", en: "Ravello" },
+        description: { ko: "아말피 위 절벽 마을로 빌라 루폴로와 빌라 침브로네 정원에서 해안이 한눈에 내려다보입니다.", en: "A clifftop village above Amalfi, whose Villa Rufolo and Villa Cimbrone gardens look out over the whole coast." },
+        image: "/highlights/amalfi-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Villa%20Rufolo%20Ravello",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12245,7 +12349,23 @@ export const cities: City[] = [
         image: "/highlights/madrid-15.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Real%20Monasterio%20de%20San%20Lorenzo%20de%20El%20Escorial",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      }
+      },
+      {
+        id: "madrid-h16",
+        name: { ko: "알칼라 데 에나레스", en: "Alcalá de Henares" },
+        description: { ko: "세르반테스가 태어난 대학 도시로 르네상스 대학 건물과 세르반테스 생가가 있는 세계유산입니다.", en: "Cervantes’ birthplace and a World Heritage university town, with its Renaissance college and the writer’s house." },
+        image: "/highlights/madrid-16.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Universidad%20de%20Alcal%C3%A1%20Colegio%20de%20San%20Ildefonso",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "madrid-h17",
+        name: { ko: "아랑후에스 왕궁", en: "Royal Palace of Aranjuez" },
+        description: { ko: "타호강 가 왕실의 봄 별궁으로 넓은 정원과 분수가 있는 세계유산입니다.", en: "The royal spring residence on the Tagus, a World Heritage site with vast gardens and fountains." },
+        image: "/highlights/madrid-17.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palacio%20Real%20de%20Aranjuez",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12452,6 +12572,14 @@ export const cities: City[] = [
         image: "/highlights/barcelona-11.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Camp%20Nou%20Barcelona",
         group: { ko: "그 외", en: "Further afield" },
+      },
+      {
+        id: "barcelona-h25",
+        name: { ko: "피게레스 달리 극장 박물관", en: "Dalí Theatre-Museum, Figueres" },
+        description: { ko: "달리가 고향의 옛 극장을 직접 꾸민 박물관으로 지붕에 거대한 달걀이 얹혀 있습니다.", en: "The museum Dalí designed himself in his hometown’s old theatre, crowned with giant eggs." },
+        image: "/highlights/barcelona-25.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Teatre-Museu%20Dal%C3%AD%20Figueres",
+        group: { ko: "근교 당일치기", en: "Day trip" },
       },
 ],
   },
@@ -12815,7 +12943,23 @@ export const cities: City[] = [
         description: { ko: "항구 전망 성채입니다.", en: "Castle with harbour views." },
         image: "/highlights/malaga-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gibralfaro%20M%C3%A1laga",
-      }
+      },
+      {
+        id: "malaga-h6",
+        name: { ko: "미하스", en: "Mijas Pueblo" },
+        description: { ko: "코스타 델 솔 위 산비탈의 하얀 마을로 바다가 내려다보이는 골목이 이어집니다.", en: "A white village on the hillside above the Costa del Sol, its lanes looking down to the sea." },
+        image: "/highlights/malaga-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mijas%20Pueblo",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "malaga-h7",
+        name: { ko: "프리힐리아나", en: "Frigiliana" },
+        description: { ko: "네르하 위 언덕의 하얀 마을로 무어 시대 골목과 타일 이야기판이 남아 있습니다.", en: "A white village on the hill above Nerja, with Moorish-era lanes and tiled story panels." },
+        image: "/highlights/malaga-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Frigiliana",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -13779,7 +13923,15 @@ export const cities: City[] = [
         description: { ko: "시아두의 시인 카몽이스 동상이 있는 광장입니다.", en: "Chiado square with the statue of poet Luís de Camões." },
         image: "/highlights/lisbon-17.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20Lu%C3%ADs%20de%20Cam%C3%B5es%2033%2C%201200-243%20Lisboa",
-      }
+      },
+      {
+        id: "lisbon-h18",
+        name: { ko: "마프라 궁전", en: "Mafra National Palace" },
+        description: { ko: "브라질 금으로 지은 거대한 바로크 궁전·수도원으로 로코코 도서관이 유명한 세계유산입니다.", en: "A vast Baroque palace and convent built with Brazilian gold, a World Heritage site famed for its Rococo library." },
+        image: "/highlights/lisbon-18.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20Nacional%20de%20Mafra",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
 ],
   },
   {
@@ -14292,7 +14444,15 @@ export const cities: City[] = [
         description: { ko: "성지·발현 역사 전시입니다.", en: "Shrine and apparition history." },
         image: "/highlights/fatima-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museu%20de%20F%C3%A1tima",
-      }
+      },
+      {
+        id: "fatima-h6",
+        name: { ko: "바탈랴 수도원", en: "Batalha Monastery" },
+        description: { ko: "포르투갈 독립 전쟁 승리를 기념해 지은 고딕 수도원으로 지붕 없는 미완성 예배당이 압권인 세계유산입니다.", en: "A Gothic monastery built to mark Portugal’s victory for independence, a World Heritage site crowned by its roofless Unfinished Chapels." },
+        image: "/highlights/fatima-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mosteiro%20da%20Batalha",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -19056,7 +19216,15 @@ export const cities: City[] = [
         description: { ko: "소소한 고양이 테마 박물관입니다.", en: "Small cat-themed museum." },
         image: "/highlights/kotor-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cats%20Museum%20Kotor",
-      }
+      },
+      {
+        id: "kotor-h6",
+        name: { ko: "페라스트와 바위의 성모 섬", en: "Perast and Our Lady of the Rocks" },
+        description: { ko: "코토르만의 바로크 해안 마을에서 배를 타고 사람이 돌을 쌓아 만든 섬의 성당에 갑니다.", en: "A Baroque waterfront village on the Bay of Kotor, with a boat out to the church on a man-made island." },
+        image: "/highlights/kotor-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Our%20Lady%20of%20the%20Rocks%20Perast",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {

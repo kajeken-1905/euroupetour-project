@@ -65,7 +65,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['프라하 성과 말라스트라나|Prague Castle & Malá Strana', 1, 9, 12, 5, 10, 2],
       ['구시가와 유대인 지구|Old Town & Jewish Quarter', 8, 7, 3, 4, 6, 11],
     ],
-    trips: [['쿠트나호라|Kutná Hora', 13]],
+    trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14]],
   },
   brno: [5, 4, 3, 1, 2],
   'cesky-krumlov': [2, 3, 5, 1],
