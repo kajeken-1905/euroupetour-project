@@ -868,6 +868,24 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'interlaken',
       tip: '골든패스 노선 경치 열차로 갑니다. 브리엔츠 호수를 지납니다.|Ride the scenic GoldenPass line past Lake Brienz.',
     },
+    {
+      to: 'grindelwald',
+      how: '기차로 인터라켄 경유 약 2시간 25분|About 2 hrs 25 min by train via Interlaken',
+      mode: 'train',
+      tip: '인터라켄에서 갈아타 피르스트 클리프 워크와 아이거 북벽 전망을 즐깁니다. 하루가 깁니다.|Change at Interlaken for the First Cliff Walk and the Eiger north face; it makes a long day.',
+    },
+    {
+      to: 'zurich',
+      tip: '구시가와 리마트 강변, 그로스뮌스터와 호숫가를 걷습니다.|The old town, the Limmat riverside, the Grossmünster and the lakefront.',
+    },
+    {
+      to: 'bern',
+      tip: '아케이드 구시가와 시계탑, 곰 공원, 아인슈타인 하우스를 봅니다.|The arcaded old town, the clock tower, the bear park and the Einstein House.',
+    },
+    {
+      to: 'lugano',
+      tip: '고트하르트 베이스 터널을 지나 이탈리아어권 호숫가 도시로 갑니다. 몬테 브레나 산살바토레 전망이 좋습니다.|Through the Gotthard Base Tunnel to the Italian-speaking lake town; great views from Monte Brè or San Salvatore.',
+    },
   ],
   interlaken: [
     {
