@@ -234,7 +234,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'naples-h5': v(45, 60),
   'naples-h6': v(30, 45, { b: 'no', n: '성당은 무료이고 산 젠나로 보물관만 유료입니다.|The cathedral is free; only the Treasure of San Gennaro is ticketed.' }),
   'naples-h7': v(60, 90),
-  'naples-h8': v(180, 240, { s: 'https://museopaestum.cultura.gov.it/', n: '나폴리에서 기차로 약 1시간 30분이며 역에서 유적까지 걸어서 약 10분입니다. 표 하나로 유적과 박물관에 들어갑니다.|About 1 hr 30 by train from Naples, then a 10-minute walk from the station; one ticket covers the site and the museum.' }),
+  'naples-h8': v(180, 240, { s: 'https://museopaestum.cultura.gov.it/', n: '나폴리에서 직행 지역 열차로 약 1시간 10~20분이며 역에서 유적까지 걸어서 약 10분입니다. 표 하나로 유적과 박물관에 들어갑니다.|About 1 hr 10–20 by direct regional train from Naples, then a 10-minute walk from the station; one ticket covers the site and the museum.' }),
   // Pompeii
   'pompeii-h1': v(240, 300, { c: 'daily', b: 'rec', s: POMPEII, n: '입장권은 이름이 적히고 하루 입장 인원이 2만 명으로 제한됩니다. 유적 전체를 보는 데 4~5시간 걸립니다.|Tickets are named and daily entries are capped at 20,000. Allow four to five hours for the whole site.', k: '2026-10' }),
   'pompeii-h2': v(20, 30, { c: 'daily', s: POMPEII, n: '폼페이 유적 입장권으로 봅니다. 공식 누리집의 개방 건물 목록에 들어 있습니다.|Seen on the Pompeii site ticket; listed among the open buildings on the official site.', k: '2026-10' }),

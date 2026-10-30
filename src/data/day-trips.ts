@@ -1015,6 +1015,7 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'rudesheim',
       tip: '케이블카로 니더발트 기념비에 오른 뒤 배로 라인 계곡을 내려가 로렐라이를 지나고, 강변 기차로 돌아옵니다. 배는 4~10월이 중심입니다.|Cable car to the Niederwald Monument, a boat down the Rhine Gorge past the Lorelei and the riverside train back; boats run mainly April–October.',
+      x: [['2026년 12월 12일까지 뤼데스하임–마인츠 사이 철도 공사로 대체버스가 다녀 프랑크푸르트에서 약 1시간 30분 걸립니다.|Until 12 December 2026, works between Rüdesheim and Mainz mean replacement buses, so it takes about 1 hr 30 from Frankfurt.', '2026-12-12']],
     },
   ],
   stuttgart: [

@@ -127,7 +127,7 @@ export const visitUk: Record<string, HighlightVisit> = {
   'whitby-h1': v(60, 90, { s: 'https://www.english-heritage.org.uk/visit/places/whitby-abbey/', n: '겨울엔 여는 요일이 줄어듭니다.|Fewer opening days in winter.' }),
   'whitby-h2': v(20, 30),
   'whitby-h3': v(30, 45),
-  'whitby-h4': v(45, 60, { n: '겨울엔 닫습니다.|Closed in winter.' }),
+  'whitby-h4': v(45, 60, { n: '11월 초~2월 초 겨울엔 닫습니다.|Closed in winter, from early November to early February.' }),
   'whitby-h5': v(120, 180, { n: '휘트비에서 버스로 약 20분이며, 해안 절벽길로 걸어가기도 합니다.|About 20 min by bus from Whitby, or walk the clifftop path.' }),
   // Lake District
   'lake-district-h1': v(90, 180),

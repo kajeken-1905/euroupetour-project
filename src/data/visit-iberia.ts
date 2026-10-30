@@ -28,7 +28,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'madrid-h9': v(20, 30, { c: 'mon', b: 'rec', s: 'https://www.esmadrid.com/en/tourist-information/temple-debod', n: '입장은 무료이지만 내부는 정원이 적어 예약 없이는 못 들어갈 수 있습니다. 바깥은 해 질 무렵이 가장 인기 있습니다.|Free, but the interior has a small capacity and entry is not guaranteed without a booking. Outside, sunset is the popular hour.', k: '2026-10' }),
   'madrid-h12': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.realmadrid.com/en-US/tour-bernabeu', n: '경기일에는 투어 동선과 시간이 줄어듭니다.|On match days the tour route and hours are reduced.', k: '2026-10' }),
   'madrid-h15': v(120, 180, { c: 'mon', s: 'https://www.patrimonionacional.es/', n: '마드리드에서 근교선 C-8로 약 1시간입니다. 2026년 2월부터 공사로 서쪽 정면(왕들의 안뜰)으로 들어갑니다.|About an hour from Madrid on suburban line C-8. Since February 2026 visitors enter by the west front (Patio de Reyes) during works.', k: '2026-10' }),
-  'madrid-h16': v(180, 240, { n: '마드리드에서 근교선 세르카니아스 C-2·C-7로 약 40분입니다. 세르반테스 생가 박물관은 월요일에 쉽니다.|About 40 min on Cercanías lines C-2 and C-7 from Madrid; the Cervantes birthplace museum is closed on Mondays.' }),
+  'madrid-h16': v(180, 240, { n: '마드리드에서 근교선 세르카니아스 C-2·C-7로 약 40분입니다. 세르반테스 생가 박물관은 월요일에 쉽니다.|About 40 min on Cercanías lines C-2 and C-7 from Madrid; the Cervantes birthplace museum is closed on Mondays.', k: '2026-10' }),
   'madrid-h17': v(180, 240, { c: 'mon', s: 'https://www.patrimonionacional.es/', n: '월요일에 쉬고 공식 행사로 갑자기 닫을 때가 있습니다. 마드리드에서 세르카니아스 C-3로 약 45분입니다.|Closed on Mondays, and sometimes at short notice for official events. About 45 min on Cercanías C-3 from Madrid.', k: '2026-10' }),
   // Segovia
   'segovia-h1': v(20, 30),
@@ -314,7 +314,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lisbon-h15': v(15, 20),
   'lisbon-h16': v(10, 15),
   'lisbon-h17': v(10, 15),
-  'lisbon-h18': v(120, 150, { c: 'tue', s: 'https://www.palaciomafra.gov.pt/', n: '화요일과 1월 1일·부활절·5월 1일·12월 25일에 쉽니다. 리스본 캄푸 그란드에서 버스로 약 1시간입니다.|Closed on Tuesdays and on 1 January, Easter Sunday, 1 May and 25 December. About an hour by bus from Campo Grande in Lisbon.', k: '2026-10' }),
+  'lisbon-h18': v(120, 150, { c: 'tue', s: 'https://www.palaciomafra.gov.pt/', n: '화요일과 1월 1일·부활절·5월 1일·12월 25일에 쉽니다. 리스본 캄푸 그란드에서 급행버스로 약 35분입니다.|Closed on Tuesdays and on 1 January, Easter Sunday, 1 May and 25 December. About 35 min by express bus from Campo Grande in Lisbon.', k: '2026-10' }),
   // Sintra
   'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.', k: '2026-10' }),
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),

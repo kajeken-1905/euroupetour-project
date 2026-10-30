@@ -52,7 +52,7 @@ export const visitCh: Record<string, HighlightVisit> = {
   'interlaken-h3': v(90, 120, { s: 'https://www.bls-schiff.ch/en' }),
   'interlaken-h4': v(75, 90, { s: 'https://www.jungfrau.ch/en-gb/harder-kulm/', n: '푸니쿨라는 4월 초부터 11월 말까지만 다닙니다.|The funicular runs from early April to late November only.', k: '2026-10' }),
   'interlaken-h5': v(300, 360, { b: 'req', s: 'https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/', n: '5~10월에는 융프라우 철도 좌석 예약(유료)이 의무이고, 그 밖의 달에도 권장됩니다.|A paid seat reservation on the Jungfrau Railway is compulsory from May to October and recommended in other months.', k: '2026-10' }),
-  'interlaken-h6': v(180, 240, { n: '인터라켄 오스트역에서 기차로 약 20분입니다. 트뤼멜바흐 폭포는 4월 초~11월 초에만 엽니다.|About 20 min by train from Interlaken Ost; the Trümmelbach Falls open only from early April to early November.' }),
+  'interlaken-h6': v(180, 240, { n: '인터라켄 오스트역에서 기차로 약 20분입니다. 트뤼멜바흐 폭포는 4월 초~11월 초에만 엽니다.|About 20 min by train from Interlaken Ost; the Trümmelbach Falls open only from early April to early November.', k: '2026-10' }),
   // Basel
   'basel-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.baslermuenster.ch/', k: '2026-10' }),
   'basel-h2': v(120, 150, { c: 'mon', b: 'no', s: 'https://kunstmuseumbasel.ch/en/', k: '2026-10' }),

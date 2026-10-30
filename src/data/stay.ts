@@ -294,7 +294,7 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   cochem: [
     a('마을에서 묵기', 'In the town', 'Cochem', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('쾰른에서 다녀오기', 'Base in Cologne', 'Cologne', '거점에서 다녀오기|Day trip from a base', '쾰른에서 기차로 약 1시간 50분(코블렌츠 환승)입니다.|About 1 hr 50 by train from Cologne, changing at Koblenz.'),
+    a('쾰른에서 다녀오기', 'Base in Cologne', 'Cologne', '거점에서 다녀오기|Day trip from a base', '쾰른에서 기차로 약 2시간(코블렌츠 환승)입니다.|About 2 hours by train from Cologne, changing at Koblenz.'),
   ],
   cologne: [
     a('구시가 (알트슈타트)', 'Altstadt', 'Altstadt-Nord, Cologne', '처음 가는 여행에 추천|Best for a first visit', '대성당과 중앙역 옆이라 어디든 걸어서 갑니다.|By the cathedral and main station, with everything on foot.'),
@@ -502,11 +502,11 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   regensburg: [
     a('구시가에서 묵기', 'In the old town', 'Regensburg', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('뉘른베르크에서 다녀오기', 'Base in Nuremberg', 'Nuremberg', '거점에서 다녀오기|Day trip from a base', '뉘른베르크에서 기차로 약 1시간, 뮌헨에서 약 1시간 25분입니다.|About an hour by train from Nuremberg or 1 hr 25 from Munich.'),
+    a('뉘른베르크에서 다녀오기', 'Base in Nuremberg', 'Nuremberg', '거점에서 다녀오기|Day trip from a base', '뉘른베르크에서 기차로 약 1시간, 뮌헨에서 약 1시간 30분입니다.|About an hour by train from Nuremberg or 1 hr 30 from Munich.'),
   ],
   berchtesgaden: [
     a('마을에서 묵기', 'In the town', 'Berchtesgaden', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('잘츠부르크에서 다녀오기', 'Base in Salzburg', 'Salzburg', '거점에서 다녀오기|Day trip from a base', '잘츠부르크 중앙역에서 840번 버스로 약 45분입니다.|About 45 min on bus 840 from Salzburg main station.'),
+    a('잘츠부르크에서 다녀오기', 'Base in Salzburg', 'Salzburg', '거점에서 다녀오기|Day trip from a base', '잘츠부르크 중앙역에서 840번 버스로 약 50분입니다.|About 50 min on bus 840 from Salzburg main station.'),
   ],
   'garmisch-partenkirchen': [
     a('마을에서 묵기', 'In the town', 'Garmisch-Partenkirchen', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
@@ -541,7 +541,7 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   tarragona: [
     a('구시가에서 묵기', 'In the old town', 'Tarragona', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('바르셀로나에서 다녀오기', 'Base in Barcelona', 'Barcelona', '거점에서 다녀오기|Day trip from a base', '바르셀로나에서 기차로 약 1시간입니다.|About an hour by train from Barcelona.'),
+    a('바르셀로나에서 다녀오기', 'Base in Barcelona', 'Barcelona', '거점에서 다녀오기|Day trip from a base', '바르셀로나에서 기차로 약 1시간 15분입니다.|About 1 hr 15 by train from Barcelona.'),
   ],
   sitges: [
     a('마을에서 묵기', 'In the town', 'Sitges', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
@@ -878,11 +878,11 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   telc: [
     a('마을에서 묵기', 'In the town', 'Telč', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 버스로 약 1시간 45분입니다.|About 1 hr 45 by bus from Brno.'),
+    a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 버스로 약 2시간입니다.|About 2 hours by bus from Brno.'),
   ],
   mikulov: [
     a('마을에서 묵기', 'In the town', 'Mikulov', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 기차로 약 1시간 15분(브르제츨라프 환승)입니다.|About 1 hr 15 by train from Brno, changing at Břeclav.'),
+    a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 기차로 약 1시간 25분(브르제츨라프 환승)입니다.|About 1 hr 25 by train from Brno, changing at Břeclav.'),
   ],
   brno: [
     a('구시가', 'Old Town', 'Náměstí Svobody, Brno', '처음 가는 여행에 추천|Best for a first visit', '슈필베르크 성과 광장, 카페와 식당을 걸어서 다닙니다. 돌니 광장 주변은 늦은 밤 시끄러울 수 있습니다.|Špilberk Castle, the squares, cafés and restaurants on foot; the bars around Dolní náměstí can be rowdy late at night.'),
@@ -896,7 +896,7 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   whitby: [
     a('마을에서 묵기', 'In the town', 'Whitby', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
-    a('요크에서 다녀오기', 'Base in York', 'York', '거점에서 다녀오기|Day trip from a base', '요크에서 코스트라이너 840번 버스로 약 2시간입니다.|About 2 hours from York on the Coastliner 840 bus.'),
+    a('요크에서 다녀오기', 'Base in York', 'York', '거점에서 다녀오기|Day trip from a base', '요크에서 코스트라이너 840번 버스로 약 2시간 10분입니다.|About 2 hr 10 from York on the Coastliner 840 bus.'),
   ],
   york: [
     a('시내 중심', 'City Centre', 'York city centre', '처음 가는 여행에 추천|Best for a first visit', '요크 민스터와 섐블스를 걸어서 다닙니다. 성수기에 매우 붐비고 좋은 숙소가 먼저 찹니다.|York Minster and the Shambles on foot; very busy in peak season, and the good hotels sell out first.'),
