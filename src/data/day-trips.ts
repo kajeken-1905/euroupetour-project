@@ -652,6 +652,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'eger',
       tip: '성채와 미나레트, 미녀의 계곡 와인 저장고를 즐깁니다.|The castle, the minaret and the wine cellars of the Valley of Beautiful Women.',
     },
+    {
+      to: 'szentendre',
+      tip: '도나우강 가 예술가 마을의 골목과 정교회 성당, 마르치판 가게를 걷습니다. 스칸젠까지 보면 하루가 꽉 찹니다.|The artists’ town on the Danube: lanes, Orthodox churches and marzipan shops; adding the Skanzen fills the day.',
+    },
   ],
   prague: [
     {
@@ -713,6 +717,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'ronda',
       tip: '협곡 위 누에보 다리와 투우장을 봅니다.|The Puente Nuevo over the gorge and the bullring.',
+    },
+    {
+      to: 'cadiz',
+      tip: '바다로 둘러싸인 구시가의 대성당과 타비라 탑, 중앙 시장을 보고 라 칼레타 해변에서 해 지는 풍경을 봅니다.|The sea-ringed old town: the cathedral, Torre Tavira and the market, then sunset at La Caleta.',
     },
   ],
   malaga: [

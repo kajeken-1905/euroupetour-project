@@ -60,6 +60,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('6구 마리아힐프', 'Mariahilf (6th)', 'Mariahilf, Vienna', '먹거리와 쇼핑|Food and shopping', '나슈마르크트와 쇼핑 거리가 가깝습니다.|Close to the Naschmarkt and the main shopping street.'),
     a('2구 레오폴트슈타트', 'Leopoldstadt (2nd)', 'Leopoldstadt, Vienna', '중심 가까운 절약형|Budget, near the centre', '프라터 공원이 있고 도심까지 가깝습니다.|Home to the Prater and a short hop from the centre.'),
   ],
+  szentendre: [
+    a('마을에서 묵기', 'In the town', 'Szentendre', '마을에서 묵기|Stay in the village', '작은 호텔과 게스트하우스가 있어 저녁의 조용한 골목을 볼 수 있습니다.|Small hotels and guesthouses, with the lanes at their quietest in the evening.'),
+    a('부다페스트에서 다녀오기', 'Base in Budapest', 'Budapest', '거점에서 다녀오기|Day trip from a base', '바차니 광장에서 교외선 H5로 약 40분입니다. 부다페스트 시내 교통권은 시 경계까지만 유효해 추가 표가 필요합니다.|About 40 min on suburban line H5 from Batthyány tér; Budapest city passes stop at the city boundary, so buy an extension ticket.'),
+  ],
   budapest: [
     a('5구 (벨바로시)', 'District V (Belváros-Lipótváros)', 'District V, Budapest', '처음 가는 여행에 추천|Best for a first visit', '국회의사당과 성 이슈트반 대성당을 걸어서 다닙니다. 가장 싼 곳은 아닙니다.|Parliament and St Stephen’s Basilica on foot; not the cheapest.'),
     a('7구 (에르제베트바로시)', 'District VII (Erzsébetváros)', 'District VII, Budapest', '밤 문화|Nightlife', '유대인 지구와 폐허 바(심플라 케르트 등)가 모여 있어 밤에 시끄러울 수 있습니다.|The Jewish Quarter and ruin bars such as Szimpla Kert; it can be noisy at night.'),
@@ -144,6 +148,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('노르말름', 'Norrmalm', 'Norrmalm, Stockholm', '교통과 편리함|Transport and convenience', '중앙역이 있어 공항 열차와 모든 지하철 노선이 편합니다.|Around Central Station, with the airport train and every metro line.'),
     a('쇠데르말름', 'Södermalm', 'Södermalm, Stockholm', '트렌디·현지 분위기|Trendy and local', '카페와 바가 많고 시내를 내려다보는 전망 명소가 있습니다.|Cafés, bars and viewpoints over the city.'),
     a('외스테르말름', 'Östermalm', 'Östermalm, Stockholm', '고급스러움|Upscale', '고급 상점과 박물관이 가까운 조용한 동네입니다.|Smart shops and museums nearby, calm and safe.'),
+  ],
+  cadiz: [
+    a('구시가', 'Old town', 'Plaza de San Juan de Dios, Cádiz', '처음 가는 여행에 추천|Best for a first visit', '바다로 둘러싸인 구시가에 대성당과 시장, 해변이 모두 걸어서 닿습니다.|The sea-ringed old town, with the cathedral, market and beaches all on foot.'),
+    a('세비야에서 다녀오기', 'Base in Seville', 'Seville', '거점에서 다녀오기|Day trip from a base', '세비야에서 기차로 약 1시간 40분입니다.|About 1 hr 40 by train from Seville.'),
   ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),

@@ -16,6 +16,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'vienna-h5': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.sisimuseum-hofburg.at/en/', k: '2026-10', x: [['시시 박물관 구역은 개편 공사로 2026년 11월 18일까지 닫혀 있고, 그동안에는 황제 거처만 봅니다.|The Sisi Museum section is closed for a redesign until 18 November 2026; until then only the imperial apartments are open.', '2026-11-18']] }),
   'vienna-h6': v(60, 120, { b: 'no', s: 'https://wienerriesenrad.com/en/home/', n: '공원 입장은 무료이고 놀이기구마다 돈을 냅니다. 대관람차는 연중 매일 운행합니다.|The park is free; each ride is paid separately. The Giant Ferris Wheel runs every day of the year.', k: '2026-10' }),
   'vienna-h7': v(40, 180, { s: 'https://www.wiener-staatsoper.at/en/', n: '내부 가이드 투어는 공연·리허설 일정에 따라 날마다 다릅니다. 입석표는 공연 당일에 팝니다.|Guided tours vary daily with rehearsals. Standing tickets go on sale on the day.' }),
+  'vienna-h8': v(300, 420, { s: 'https://www.stiftmelk.at/', n: '빈에서 기차로 약 1시간~1시간 15분. 멜크–크렘스 도나우강 배는 보통 4~10월에만 다니고, 수도원은 겨울에 가이드 투어로만 들어갑니다.|About 1 hr–1 hr 15 by train from Vienna. Melk–Krems river boats usually run April–October only, and in winter the abbey is visited on guided tours only.' }),
   // Salzburg
   'salzburg-h1': v(120, 150, { c: 'daily', s: 'https://www.festung-hohensalzburg.at/en/', n: '입장권에 푸니쿨라 왕복이 포함된 종류가 있습니다.|Some tickets include the funicular both ways.', k: '2026-10' }),
   'salzburg-h2': v(30, 45, { b: 'no', n: FREE }),
@@ -56,6 +57,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'prague-h10': v(10, 15),
   'prague-h11': v(10, 20),
   'prague-h12': v(15, 20, { n: '근위병 교대식은 매시 정각에 있고 정오에 가장 크게 열립니다.|The guard changes hourly, with the full ceremony at noon.' }),
+  'prague-h13': v(300, 360, { b: 'rec', n: '프라하 중앙역에서 기차로 약 1시간. 세들레츠 납골당은 시간 지정 입장이라 미리 예약하는 편이 좋고, 안에서는 사진을 찍을 수 없습니다.|About an hour by train from Prague main station. The Sedlec Ossuary has timed entry, so book ahead; no photos inside.' }),
   // Brno
   'brno-h1': v(75, 90, { c: 'daily', s: 'https://www.spilberk.cz/en/', k: '2026-10' }),
   'brno-h2': v(60, 90, { c: 'mon', b: 'req', s: 'https://www.vilatugendhat.cz/en/', n: '내부 투어는 몇 달 전에 매진됩니다. 표가 없으면 정원만 볼 수 있습니다.|Interior tours sell out months ahead; without a ticket only the garden can be seen.', k: '2026-10' }),
@@ -122,6 +124,11 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'budapest-h7': v(60, 120, { n: '궁전 단지 곳곳이 복원 공사 중입니다. 안쪽 국립 미술관과 역사 박물관은 월요일에 쉽니다.|Parts of the complex are under reconstruction. The National Gallery and History Museum inside close on Mondays.' }),
   'budapest-h8': v(30, 60, { c: 'daily', s: 'https://bazilikabudapest.hu/', n: '성당·돔 전망대·보물관은 표가 각각입니다.|Church, dome terrace and treasury are ticketed separately.', k: '2026-10' }),
   'budapest-h9': v(30, 45, { c: 'daily', s: 'https://matyas-templom.hu/en/', k: '2026-10' }),
+  'szentendre-h1': v(20, 30),
+  'szentendre-h2': v(15, 20),
+  'szentendre-h3': v(45, 60),
+  'szentendre-h4': v(15, 20),
+  'szentendre-h5': v(180, 240, { c: 'mon', s: 'https://skanzen.hu/en', n: '4~10월이 성수기이며 월요일은 쉽니다. 시내에서 버스로 약 10분입니다.|High season is April–October; closed on Mondays. About 10 min by bus from town.', k: '2026-10' }),
   // Debrecen
   'debrecen-h1': v(30, 40),
   'debrecen-h2': v(90, 120, { c: 'mon', k: '2026-10' }),
@@ -160,6 +167,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'krakow-h4': v(90, 120),
   'krakow-h5': v(30, 45, { c: 'daily', s: 'https://mariacki.com/en/', n: '관광 입장은 낮 11시 30분 이후이고 유료입니다. 매시 정각에 탑에서 나팔을 붑니다.|Sightseeing entry starts at 11:30 am and is ticketed. A bugle call sounds from the tower every hour.', k: '2026-10' }),
   'krakow-h6': v(210, 240, { b: 'req', s: 'https://www.auschwitz.org/en/', t: 'https://visit.auschwitz.org/', n: '입장은 무료지만 온라인 예약이 필수입니다(현장 발급 없음). 1월 1일·12월 25일·부활절 일요일은 쉬고, 가방은 35×25×15cm까지만 들고 들어갑니다. 크라쿠프에서 Lajkonik 버스가 박물관 앞까지 가고, 아우슈비츠 I과 비르케나우 사이는 무료 셔틀이 다닙니다.|Entry is free but must be booked online (no cards at the gate). Closed 1 January, 25 December and Easter Sunday; bags up to 35×25×15 cm. Lajkonik buses run from Kraków to the museum, and a free shuttle links Auschwitz I and Birkenau.', k: '2026-10' }),
+  'krakow-h7': v(150, 210, { b: 'rec', s: 'https://www.wieliczka-saltmine.com/', n: '가이드 투어로만 들어가며 2~3시간, 계단이 약 380개입니다. 크라쿠프 중앙역에서 기차로 약 25분. 여름엔 외국어 투어가 빨리 차니 미리 예약하세요.|Guided tours only, 2–3 hours with about 380 steps; about 25 min by train from Kraków Główny. Foreign-language tours sell out in summer, so book ahead.' }),
   // Gdańsk
   'gdansk-h1': v(30, 45),
   'gdansk-h2': v(10, 10),

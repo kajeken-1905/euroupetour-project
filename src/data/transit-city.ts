@@ -1461,6 +1461,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— hu ——
+  szentendre: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 스칸젠은 HÉV역 앞에서 버스로 갑니다.',
+      en: 'Walk the town; take a bus from the HÉV station to the Skanzen.',
+    },
+    apps: [
+      ta('budapestgo'),
+    ],
+  },
   budapest: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
@@ -1689,6 +1699,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('tib-mallorca', { ko: '노선·실시간', en: 'Routes, live times' }),
       ta('renfe'),
       ta('uber'),
+    ],
+  },
+  cadiz: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 기차역이 구시가 입구에 있습니다.',
+      en: 'Walk the old town; the station is at its edge.',
+    },
+    apps: [
+      ta('renfe'),
     ],
   },
   seville: {

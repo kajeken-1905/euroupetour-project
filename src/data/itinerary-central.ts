@@ -35,6 +35,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
       ['구시가와 링|Old town & the Ring', 2, 5, 4, 7],
       ['쇤브룬과 벨베데레|Schönbrunn & Belvedere', 1, 3, 6],
     ],
+    trips: [['멜크와 바하우|Melk & the Wachau', 8]],
   },
   salzburg: [2, 4, 3, 6, 7, 5, 1],
   innsbruck: [4, 1, 3, 2],
@@ -43,7 +44,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   zurich: { days: [['', 9, 6, 3, 8, 7, 1, 2, 5, 4]], trips: [['린트 초콜릿 박물관|Lindt Home of Chocolate', 10]] },
   geneva: [8, 3, 2, 7, 1, 5, 6, 4],
   bern: [4, 1, 7, 2, 6, 3, 5],
-  lucerne: { days: [['', 6, 7, 1, 4, 3, 5]], trips: [['호수 유람과 리기산|Lake cruise & Rigi', 2, 8]] },
+  lucerne: { days: [['', 6, 7, 1, 4, 3, 5]], trips: [['호수 유람과 리기산|Lake cruise & Rigi', 2, 8], ['필라투스|Pilatus', 9], ['티틀리스|Titlis', 10]] },
   interlaken: { days: [['', 4, 1, 3]], trips: [['융프라우요흐|Jungfraujoch', 5]] },
   berlin: {
     days: [
@@ -56,6 +57,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
       ['시내|City centre', 2, 4, 6, 1, 5],
       ['님펜부르크|Nymphenburg', 3],
     ],
+    trips: [['다하우 추모관|Dachau Memorial', 7]],
   },
   hamburg: [4, 1, 3, 2, 5],
   cologne: [1, 4, 2, 5, 3],

@@ -2814,7 +2814,15 @@ export const cities: City[] = [
         description: { ko: "세계 최고 수준의 오페라 하우스입니다.", en: "One of the world's leading opera houses." },
         image: "/highlights/vienna-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vienna%20State%20Opera",
-      }
+      },
+      {
+        id: "vienna-h8",
+        name: { ko: "멜크 수도원과 바하우 계곡", en: "Melk Abbey and the Wachau" },
+        description: { ko: "도나우강 위 언덕의 바로크 수도원과 도서관을 보고, 포도밭 사이를 흐르는 바하우 계곡을 배로 내려갑니다.", en: "The Baroque abbey and library above the Danube, then a boat down the vineyard-lined Wachau valley." },
+        image: "/highlights/vienna-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stift%20Melk",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -3108,6 +3116,56 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Matthias%20Church%20Budapest",
       }
 ],
+  },
+  {
+    id: "szentendre",
+    countryId: "hu",
+    lat: 47.6694,
+    lng: 19.0756,
+    signatureImage: "/cities/szentendre.jpg",
+    name: { ko: "센텐드레", en: "Szentendre" },
+    nativeName: "Szentendre",
+    blurb: {
+      ko: "도나우강 가의 예술가 마을. 세르비아 정교회 첨탑과 자갈 골목이 이어집니다.",
+      en: "An artists’ town on the Danube, with Serbian Orthodox spires and cobbled lanes.",
+    },
+    highlights: [
+      {
+        id: "szentendre-h1",
+        name: { ko: "중앙 광장", en: "Fő tér" },
+        description: { ko: "파스텔빛 바로크 집과 페스트 기념 십자가가 선 마을 중심 광장입니다.", en: "The main square of pastel Baroque houses around a plague cross." },
+        image: "/highlights/szentendre-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=F%C5%91%20t%C3%A9r%20Szentendre",
+      },
+      {
+        id: "szentendre-h2",
+        name: { ko: "블라고베슈텐스카 교회", en: "Blagoveštenska Church" },
+        description: { ko: "세르비아 상인들이 18세기에 세운 정교회 성당으로 금빛 성화벽이 있습니다.", en: "An 18th-century Serbian Orthodox church built by merchants, with a gilded iconostasis." },
+        image: "/highlights/szentendre-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Blagovestenska%20Church%20Szentendre",
+      },
+      {
+        id: "szentendre-h3",
+        name: { ko: "코바치 머르기트 미술관", en: "Margit Kovács Museum" },
+        description: { ko: "헝가리 도예가 코바치 머르기트의 도자 조각을 모은 미술관입니다.", en: "A museum of the ceramic sculpture of Hungarian artist Margit Kovács." },
+        image: "/highlights/szentendre-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kov%C3%A1cs%20Margit%20M%C3%BAzeum%20Szentendre",
+      },
+      {
+        id: "szentendre-h4",
+        name: { ko: "교회 언덕", en: "Church Hill" },
+        description: { ko: "마을 위 가톨릭 성당 언덕으로 지붕과 도나우강이 내려다보입니다.", en: "The hill of the Catholic parish church, looking over the roofs and the Danube." },
+        image: "/highlights/szentendre-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Templomdomb%20Szentendre",
+      },
+      {
+        id: "szentendre-h5",
+        name: { ko: "스칸젠 야외 민속 박물관", en: "Skanzen Open-Air Museum" },
+        description: { ko: "헝가리 각 지방의 옛 농가와 마을을 옮겨 놓은 넓은 야외 박물관입니다.", en: "A large open-air museum of farmhouses and villages moved here from across Hungary." },
+        image: "/highlights/szentendre-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Skanzen%20Szentendre",
+      }
+    ],
   },
   {
     id: "debrecen",
@@ -3405,7 +3463,15 @@ export const cities: City[] = [
         description: { ko: "격투하는 거인상과 근위병이 지키는 정문입니다.", en: "Main gate guarded by honor guards beneath the Fighting Giants statues." },
         image: "/highlights/prague-12.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Prague%20Castle%20main%20gate",
-      }
+      },
+      {
+        id: "prague-h13",
+        name: { ko: "쿠트나호라", en: "Kutná Hora" },
+        description: { ko: "은광으로 번성한 중세 도시. 뼈로 장식한 세들레츠 납골당과 성 바르바라 대성당이 있는 세계유산입니다.", en: "A medieval silver-mining town and World Heritage site, with the bone-decorated Sedlec Ossuary and St Barbara’s Church." },
+        image: "/highlights/prague-13.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sedlec%20Ossuary%20Kutn%C3%A1%20Hora",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -4631,7 +4697,23 @@ export const cities: City[] = [
         description: { ko: "톱니바퀴 열차로 오르는 '산의 여왕' 전망대입니다.", en: "Cogwheel-train summit known as the 'Queen of the Mountains'." },
         image: "/highlights/lucerne-8.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rigi%20Kulm",
-      }
+      },
+      {
+        id: "lucerne-h9",
+        name: { ko: "필라투스산", en: "Mount Pilatus" },
+        description: { ko: "세계에서 가장 가파른 톱니바퀴 열차와 케이블카로 오르는 루체른의 산. 배·열차·케이블카를 잇는 골든 라운드 트립이 인기입니다.", en: "Lucerne’s mountain, climbed by the world’s steepest cogwheel railway and by cable car; the Golden Round Trip links boat, train and cable car." },
+        image: "/highlights/lucerne-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pilatus%20Kulm",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "lucerne-h10",
+        name: { ko: "티틀리스산", en: "Mount Titlis" },
+        description: { ko: "엥겔베르크에서 케이블카를 갈아타며 오르는 빙하 산. 360도로 도는 로테어 케이블카와 클리프 워크가 있습니다.", en: "A glacier peak above Engelberg, reached by a chain of cable cars ending with the revolving Rotair; with the Cliff Walk at the top." },
+        image: "/highlights/lucerne-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Titlis",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -4802,7 +4884,15 @@ export const cities: City[] = [
         description: { ko: "알프스 이북 최대의 르네상스 양식 교회입니다.", en: "The largest Renaissance church north of the Alps." },
         image: "/highlights/munich-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Michael's%20Church%20Munich",
-      }
+      },
+      {
+        id: "munich-h7",
+        name: { ko: "다하우 강제수용소 추모관", en: "Dachau Concentration Camp Memorial" },
+        description: { ko: "나치 독일이 처음 세운 강제수용소 터에 만든 추모관이자 기록관입니다.", en: "The memorial and documentation centre on the site of the first concentration camp set up by Nazi Germany." },
+        image: "/highlights/munich-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=KZ-Gedenkst%C3%A4tte%20Dachau",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12050,6 +12140,63 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "cadiz",
+    countryId: "es",
+    lat: 36.5297,
+    lng: -6.2926,
+    signatureImage: "/cities/cadiz.jpg",
+    name: { ko: "카디스", en: "Cádiz" },
+    nativeName: "Cádiz",
+    blurb: {
+      ko: "바다로 둘러싸인 3천 년 항구 도시. 하얀 골목과 대서양 해변이 이어집니다.",
+      en: "A 3,000-year-old port almost surrounded by sea, with white lanes and Atlantic beaches.",
+    },
+    highlights: [
+      {
+        id: "cadiz-h1",
+        name: { ko: "카디스 대성당", en: "Cádiz Cathedral" },
+        description: { ko: "금빛 돔이 바다를 향한 18~19세기 대성당으로 종탑에 오를 수 있습니다.", en: "An 18th–19th-century cathedral with a golden dome facing the sea; climb the bell tower." },
+        image: "/highlights/cadiz-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20C%C3%A1diz",
+      },
+      {
+        id: "cadiz-h2",
+        name: { ko: "타비라 탑", en: "Torre Tavira" },
+        description: { ko: "옛 망루에 카메라 옵스큐라를 설치해 도시 전경을 비춰 보여 줍니다.", en: "An old watchtower with a camera obscura projecting the city below." },
+        image: "/highlights/cadiz-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Torre%20Tavira%20C%C3%A1diz",
+      },
+      {
+        id: "cadiz-h3",
+        name: { ko: "라 칼레타 해변", en: "La Caleta beach" },
+        description: { ko: "두 성채 사이의 작은 만 해변으로 해 질 녘 풍경이 유명합니다.", en: "A small cove beach between two forts, famous for its sunsets." },
+        image: "/highlights/cadiz-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Playa%20de%20La%20Caleta%20C%C3%A1diz",
+      },
+      {
+        id: "cadiz-h4",
+        name: { ko: "산타 카탈리나 성", en: "Castillo de Santa Catalina" },
+        description: { ko: "라 칼레타 해변 옆 별 모양 요새로 전시와 바다 전망이 있습니다.", en: "The star-shaped fort beside La Caleta, with exhibitions and sea views." },
+        image: "/highlights/cadiz-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Castillo%20de%20Santa%20Catalina%20C%C3%A1diz",
+      },
+      {
+        id: "cadiz-h5",
+        name: { ko: "중앙 시장", en: "Mercado Central" },
+        description: { ko: "생선과 해산물이 가득한 시장으로 안쪽 가게에서 바로 튀김과 타파스를 먹을 수 있습니다.", en: "A market full of fish and seafood, with stalls frying and serving tapas on the spot." },
+        image: "/highlights/cadiz-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mercado%20Central%20de%20Abastos%20C%C3%A1diz",
+      },
+      {
+        id: "cadiz-h6",
+        name: { ko: "로마 극장", en: "Roman Theatre" },
+        description: { ko: "구시가 아래에서 발굴된 스페인에서 손꼽히게 큰 로마 극장 유적입니다.", en: "Excavated beneath the old town, one of the largest Roman theatres in Spain." },
+        image: "/highlights/cadiz-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Teatro%20Romano%20de%20C%C3%A1diz",
+      }
+    ],
+  },
+  {
     id: "granada",
     countryId: "es",
     lat: 37.1773,
@@ -14520,7 +14667,15 @@ export const cities: City[] = [
         image: "/highlights/krakow-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auschwitz-Birkenau%20Memorial%20and%20Museum",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      }
+      },
+      {
+        id: "krakow-h7",
+        name: { ko: "비엘리치카 소금광산", en: "Wieliczka Salt Mine" },
+        description: { ko: "700년 넘게 소금을 캐던 지하 광산. 소금으로 깎은 성 킹가 예배당이 볼거리인 세계유산입니다.", en: "A salt mine worked for over 700 years, a World Heritage site best known for the St Kinga’s Chapel carved from salt." },
+        image: "/highlights/krakow-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wieliczka%20Salt%20Mine",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -20190,7 +20345,15 @@ export const cities: City[] = [
         description: { ko: "성모 이콘 예배당 성문입니다.", en: "City gate with a Marian chapel." },
         image: "/highlights/vilnius-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gate%20of%20Dawn%20Vilnius",
-      }
+      },
+      {
+        id: "vilnius-h6",
+        name: { ko: "트라카이 섬 성", en: "Trakai Island Castle" },
+        description: { ko: "호수 위 섬에 선 붉은 벽돌 성으로 리투아니아 대공국의 옛 수도였습니다. 나무다리를 건너 들어갑니다.", en: "A red-brick castle on a lake island, once a capital of the Grand Duchy of Lithuania, reached by a wooden footbridge." },
+        image: "/highlights/vilnius-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Trakai%20Island%20Castle",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {

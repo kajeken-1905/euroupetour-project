@@ -125,6 +125,12 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'seville-h4': v(60, 90),
   'seville-h3': v(45, 60, { b: 'no', n: FREE }),
   'seville-h10': v(15, 20),
+  'cadiz-h1': v(45, 60),
+  'cadiz-h2': v(30, 45, { b: 'req', s: 'https://torretavira.com/', n: '인원이 정해져 있어 예약이 필요합니다.|Capacity is limited, so booking is required.', k: '2026-10' }),
+  'cadiz-h3': v(30, 60),
+  'cadiz-h4': v(30, 45),
+  'cadiz-h5': v(30, 45),
+  'cadiz-h6': v(20, 30),
   // Córdoba
   'cordoba-h1': v(75, 90, { c: 'daily', b: 'rec', s: 'https://mezquita-catedraldecordoba.es/en/', n: '월~토요일 아침 8시 30분~9시 30분은 무료로 개방합니다.|Free entry Monday to Saturday from 8:30 to 9:30 am.', k: '2026-10' }),
   'cordoba-h2': v(60, 90),

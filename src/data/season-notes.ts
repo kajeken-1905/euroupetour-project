@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  cadiz: { n: '2월 카니발 때 숙소가 빨리 차고 매우 붐빕니다.|Rooms fill fast and the streets are packed during the February Carnival.' },
+  szentendre: { n: '여름 주말엔 부다페스트 당일 손님으로 붐빕니다. 스칸젠은 4~10월이 성수기입니다.|Summer weekends are busy with day-trippers from Budapest; the Skanzen’s main season is April–October.' },
   hydra: { n: '섬에는 자동차가 없어 걷거나 당나귀·물 택시를 탑니다. 겨울엔 배편과 문을 연 가게가 줄어듭니다.|There are no cars: walk, ride a donkey or take a water taxi. In winter, sailings and open shops thin out.' },
   avila: { n: '해발 약 1,130m로 겨울이 매우 춥습니다. 성주간 행렬과 10월 산타 테레사 축제 때 붐빕니다.|At about 1,130 m the winters are bitterly cold; busy during the Holy Week processions and the October St Teresa festival.' },
   giverny: { r: '---o+++++o--', n: '모네의 집과 정원은 대략 4월부터 11월 초까지만 엽니다.|Monet’s house and gardens open only from about April to early November.' },

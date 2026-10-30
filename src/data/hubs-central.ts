@@ -291,6 +291,9 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [['Estació Intermodal de Palma', '팔마 인테르모달 버스터미널', '기차역과 통합|shared with the rail station']],
     port: [['Port de Palma', '팔마 항구', '바르셀로나·발렌시아·이비사행 페리|ferries to Barcelona, Valencia and Ibiza']],
   },
+  cadiz: {
+    rail: [['Cádiz', '카디스역', '구시가 입구|at the edge of the old town']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],
@@ -719,6 +722,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   },
 
   // —— hu ——
+  szentendre: {
+    air: [BUD()],
+    rail: [['Szentendre HÉV', '센텐드레 HÉV역', '부다페스트 바차니 광장행 교외선 H5|suburban line H5 to Batthyány tér']],
+  },
   budapest: {
     air: [['Budapest Liszt Ferenc (BUD)', '부다페스트 공항 (BUD)']],
     rail: [

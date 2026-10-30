@@ -87,6 +87,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'munich-h4': v(120, 180, { c: 'mon', s: 'https://www.pinakothek.de/en', n: '노이에 피나코테크는 보수 공사로 2029년까지 휴관합니다. 알테 피나코테크는 월요일에 쉽니다.|The Neue Pinakothek is closed for renovation until 2029. The Alte Pinakothek closes on Mondays.', k: '2026-10' }),
   'munich-h5': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.hofbraeuhaus.de/en/', k: '2026-10' }),
   'munich-h6': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.muenchen.de/en/sights/churches/jesuit-church-st-michael-germanys-first-renaissance-church', n: '성당은 무료입니다. 지하 비텔스바흐 왕가 묘소는 유료이고 따로 정한 시간에만 엽니다.|The church is free; the Wittelsbach crypt below is ticketed and keeps shorter hours.', k: '2026-10' }),
+  'munich-h7': v(180, 240, { c: 'daily', s: 'https://www.kz-gedenkstaette-dachau.de/', n: '입장은 무료이고 12월 24일만 쉽니다. 중앙역에서 S2로 다하우역(약 25분), 이어서 726번 버스로 약 10분입니다.|Free entry; closed only on 24 December. S2 from the main station to Dachau (about 25 min), then bus 726 (about 10 min).', k: '2026-10' }),
   // Füssen
   'fussen-h1': v(180, 240, { c: 'daily', b: 'req', s: 'https://www.neuschwanstein.de/englisch/tourist/index.htm', t: NEUSCH_T, n: '내부는 시간 지정 가이드 투어로만 보며 성수기에는 몇 주 전에 매진됩니다. 매표소에서 성까지 오르막으로 30~40분 걸립니다.|The interior is by timed guided tour only and sells out weeks ahead in season. It is a 30–40 minute uphill walk from the ticket centre.', k: '2026-10' }),
   'fussen-h2': v(60, 90, { c: 'daily', b: 'req', s: 'https://www.hohenschwangau.de/en/', t: NEUSCH_T, k: '2026-10' }),

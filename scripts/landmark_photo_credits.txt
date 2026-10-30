@@ -1080,3 +1080,23 @@ highlights/hydra-2.jpg | https://commons.wikimedia.org/wiki/File:Ydraharbour.jpg
 highlights/hydra-3.jpg | https://commons.wikimedia.org/wiki/File:Pavlos_Koundouriotis_monument,_Hydra.jpg | CC0 | JBradyK
 highlights/hydra-4.jpg | https://commons.wikimedia.org/wiki/File:HYDRA_HISTORICAL_MUSEUM_3473.JPG | CC BY 3.0 | Macedon-40
 highlights/hydra-5.jpg | https://commons.wikimedia.org/wiki/File:Vlychos_Plakes_Beach_Hydra,_Greece_(44869876661).jpg | CC BY 2.0 | dronepicr
+highlights/krakow-7.jpg | https://commons.wikimedia.org/wiki/File:Wieliczka,_St_Kingas_Chapel_(6467348331).jpg | CC BY 2.0 | Arian Zwegers
+highlights/prague-13.jpg | https://commons.wikimedia.org/wiki/File:Sedlec_Ossuary_-_Interior_8.JPG | CC BY-SA 4.0 | Interfase
+highlights/vienna-8.jpg | https://commons.wikimedia.org/wiki/File:Stift_Melk_Nordseite_01.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/vilnius-6.jpg | https://commons.wikimedia.org/wiki/File:Trakai-Troki.jpg | CC BY-SA 3.0 | Julo
+highlights/munich-7.jpg | https://commons.wikimedia.org/wiki/File:KZ-Gedenkst%C3%A4tte_Dachau_Besucherzentrum.JPG | CC BY 3.0 | Schlaier
+highlights/lucerne-9.jpg | https://commons.wikimedia.org/wiki/File:Pilatus_Mountain_near_Luzern_-_panoramio.jpg | CC BY 3.0 | Jie Yang
+highlights/lucerne-10.jpg | https://commons.wikimedia.org/wiki/File:Titlis_W.jpg | CC BY-SA 3.0 | CARLO FEDELE BARRI
+cities/szentendre.jpg | https://commons.wikimedia.org/wiki/File:20190502_F%C5%91_t%C3%A9r_Szentendre_1250_2069_DxO.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/szentendre-1.jpg | https://commons.wikimedia.org/wiki/File:F%C5%91_t%C3%A9r_%2B_Kov%C3%A1cs_L%C3%A1szl%C3%B3_utca,_Szentendre,_2006_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/szentendre-2.jpg | https://commons.wikimedia.org/wiki/File:Blagove%C5%A1tenski_church_(Szentendre),_2006_(06).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/szentendre-5.jpg | https://commons.wikimedia.org/wiki/File:Rum%C5%A1i%C5%A1k%C4%97s_(Rumszyszki)_-_Open_air_ethnographic_museum_1.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+cities/cadiz.jpg | https://commons.wikimedia.org/wiki/File:Vista_de_C%C3%A1diz,_Espa%C3%B1a,_2015-12-08,_DD_77.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/cadiz-1.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_C%C3%A1diz_03.jpg | CC BY-SA 4.0 | Axel Cotón Gutiérrez
+highlights/cadiz-2.jpg | https://commons.wikimedia.org/wiki/File:Torre_Tavira_II,_C%C3%A1diz,_Espa%C3%B1a.jpg | CC BY-SA 4.0 | Phillo
+highlights/cadiz-3.jpg | https://commons.wikimedia.org/wiki/File:Playa_de_la_Caleta,_C%C3%A1diz,_Espa%C3%B1a,_2015-12-08,_DD_53.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/cadiz-4.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Santa_Catalina,_C%C3%A1diz,_Espa%C3%B1a,_2015-12-08,_DD_42.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/cadiz-5.jpg | https://commons.wikimedia.org/wiki/File:Mercado_de_C%C3%A1diz,_Espa%C3%B1a,_2015-12-08,_DD_55.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/cadiz-6.jpg | https://commons.wikimedia.org/wiki/File:C%C3%A1diz_Teatro_Romano_1.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/szentendre-3.jpg | https://commons.wikimedia.org/wiki/File:Kov%C3%A1cs_Margit_M%C3%BAzeum_-_2_-_KKriszti.jpg | CC BY-SA 3.0 | KKriszti
+highlights/szentendre-4.jpg | https://commons.wikimedia.org/wiki/File:Szentendre_city_view_07.jpg | CC BY 4.0 | MOs810

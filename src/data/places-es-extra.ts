@@ -164,6 +164,8 @@ export const placesESExtra: Place[] = [
 
   // —— avila ——
   place('avila-fine_dining-1', 'avila', 'fine_dining', 'Barro', 'Carretera de Salamanca 4, 05002 Ávila', '아빌라 출신 셰프 카를로스 카시야스의 미쉐린 1스타 창작 요리 레스토랑입니다.', 'Michelin one-star restaurant of creative cooking by Ávila-born chef Carlos Casillas.', { michelin: 'star1' }),
+  // —— cadiz ——
+  place('cadiz-fine_dining-1', 'cadiz', 'fine_dining', 'Código de Barra', 'Calle San Francisco 7, 11004 Cádiz', '네덜란드 출신 셰프 레온 흐리피윤의 미쉐린 1스타 레스토랑입니다.', 'Michelin one-star restaurant of Dutch-born chef Léon Griffioen.', { michelin: 'star1' }),
   // —— segovia ——
   place('segovia-fine_dining-1', 'segovia', 'fine_dining', 'José María', 'Cronista Lecea 11, 40001 Segovia', '구시가의 카스티야 요리 식당. 자체 농장의 새끼 돼지 구이(코치니요)를 내고 미쉐린 가이드에 실려 있습니다.', 'Old-town Castilian restaurant serving roast suckling pig from its own farm, listed in the Michelin Guide.'),
   place('segovia-fine_dining-2', 'segovia', 'fine_dining', 'Mesón Don Jimeno', 'Calle de Daoiz 15, 40003 Segovia', '알카사르와 마요르 광장 사이의 식당. 그릴 고기와 새끼 돼지 구이가 있고 예약하는 편이 좋습니다.', 'Restaurant between the Alcázar and the Plaza Mayor with grilled meats and roast suckling pig; booking advised.'),

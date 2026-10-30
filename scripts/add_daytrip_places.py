@@ -42,7 +42,13 @@ def hl_block(hid, img, h):
 
 
 def vline(hid, v):
-    opts = ', '.join(f'{k}: {js(str(x))}' if k != 'z' else 'z: true' for k, x in v.items() if k not in ('min', 'max'))
+    def opt(k, x):
+        if k == 'z':
+            return 'z: true'
+        if k == 'x':
+            return 'x: [' + ', '.join(f'[{js(t)}, {js(d)}]' for t, d in x) + ']'
+        return f'{k}: {js(str(x))}'
+    opts = ', '.join(opt(k, x) for k, x in v.items() if k not in ('min', 'max'))
     return f"  '{hid}': v({v['min']}, {v['max']}{', { ' + opts + ' }' if opts else ''}),\n"
 
 
@@ -207,4 +213,5 @@ def main():
         print('city', cid)
 
 
-main()
+if __name__ == '__main__':
+    main()

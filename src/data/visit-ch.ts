@@ -43,6 +43,8 @@ export const visitCh: Record<string, HighlightVisit> = {
   'lucerne-h6': v(10, 15),
   'lucerne-h7': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.luzern.com/de/poi/jesuitenkirche', n: '입장 무료. 월·목요일은 청소 때문에 9:30에 엽니다.|Free. Opens at 9:30 on Mondays and Thursdays because of cleaning.', k: '2026-10' }),
   'lucerne-h8': v(240, 300, { s: 'https://www.rigi.ch/en', n: '리기 산악열차와 케이블카는 스위스 트래블 패스로 무료이고, 산악열차는 연중 운행합니다.|The Rigi railways and cable car are free with the Swiss Travel Pass; the cogwheel trains run all year.', k: '2026-10' }),
+  'lucerne-h9': v(240, 360, { s: 'https://www.pilatus.ch/', n: '톱니바퀴 열차는 5월~11월에만 다닙니다(2026년은 5월 11일~11월 29일). 알프나흐슈타트행 배는 10월 중순까지입니다.|The cogwheel railway runs May–November only (11 May–29 November in 2026); boats to Alpnachstad run until mid-October.', k: '2026-10', x: [['크리엔스 쪽 곤돌라와 케이블카는 정비로 2026년 11월 27일까지 쉽니다.|The Kriens gondola and cableway are closed for maintenance until 27 November 2026.', '2026-11-27']] }),
+  'lucerne-h10': v(300, 360, { s: 'https://www.titlis.ch/', n: '루체른에서 기차로 엥겔베르크까지 약 45분, 이어서 케이블카를 세 번 갈아탑니다. 맑은 날 아침에 출발하세요.|About 45 min by train from Lucerne to Engelberg, then three cable cars; leave early on a clear day.' }),
   // Interlaken
   'interlaken-h1': v(30, 45),
   'interlaken-h2': v(120, 180, { s: 'https://www.bls-schiff.ch/en' }),

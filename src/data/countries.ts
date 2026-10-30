@@ -518,7 +518,7 @@ export const countries: Country[] = [
       background: '#FDF6E3',
       text: '#3A1010',
     },
-    cityIds: ['madrid', 'segovia', 'avila', 'salamanca', 'toledo', 'barcelona', 'montserrat', 'girona', 'zaragoza', 'valencia', 'palma', 'seville', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja', 'bilbao', 'san-sebastian', 'santiago'],
+    cityIds: ['madrid', 'segovia', 'avila', 'salamanca', 'toledo', 'barcelona', 'montserrat', 'girona', 'zaragoza', 'valencia', 'palma', 'seville', 'cadiz', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja', 'bilbao', 'san-sebastian', 'santiago'],
     cityGroups: [
       { title: { ko: '마드리드 지방', en: 'Community of Madrid' }, cityIds: ['madrid'] },
       { title: { ko: '카스티야 이 레온', en: 'Castile and León' }, cityIds: ['segovia', 'avila', 'salamanca'] },
@@ -527,7 +527,7 @@ export const countries: Country[] = [
       { title: { ko: '아라곤', en: 'Aragon' }, cityIds: ['zaragoza'] },
       { title: { ko: '발렌시아 지방', en: 'Valencian Community' }, cityIds: ['valencia'] },
       { title: { ko: '발레아레스 제도', en: 'Balearic Islands' }, cityIds: ['palma'] },
-      { title: { ko: '안달루시아', en: 'Andalusia' }, cityIds: ['seville', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja'] },
+      { title: { ko: '안달루시아', en: 'Andalusia' }, cityIds: ['seville', 'cadiz', 'cordoba', 'granada', 'malaga', 'ronda', 'nerja'] },
       { title: { ko: '바스크', en: 'Basque Country' }, cityIds: ['bilbao', 'san-sebastian'] },
       { title: { ko: '갈리시아', en: 'Galicia' }, cityIds: ['santiago'] },
     ],
@@ -943,7 +943,7 @@ export const countries: Country[] = [
       background: '#F8ECEE',
       text: '#2A0A10',
     },
-    cityIds: ['budapest', 'debrecen', 'pecs', 'szeged', 'eger'],
+    cityIds: ['budapest', 'szentendre', 'debrecen', 'pecs', 'szeged', 'eger'],
   },
   {
     id: 'pl',

@@ -183,6 +183,7 @@ export const visitMed: Record<string, HighlightVisit> = {
   'vilnius-h3': v(30, 45, { s: 'https://www.katedra.lt/en/', n: '대성당은 무료이고 종탑과 지하 묘지는 유료입니다.|The cathedral is free; the bell tower and crypts are ticketed.' }),
   'vilnius-h4': v(45, 60),
   'vilnius-h5': v(15, 20, { b: 'no', n: FREE }),
+  'vilnius-h6': v(180, 240, { n: '빌뉴스에서 버스로 약 45분, 기차로 약 35분이며 역에서 성까지 걸어서 20~40분입니다. 여름(5~9월)엔 매일 엽니다.|About 45 min by bus or 35 min by train from Vilnius, then a 20–40 min walk to the castle; open daily May–September.' }),
   'kaunas-h1': v(60, 90),
   'kaunas-h2': v(30, 45),
   'kaunas-h3': v(30, 40, { c: 'mon', b: 'no', s: 'https://kaunomuziejus.lt/en/plan-your-visit-to-kaunas-castle/', n: '일요일은 6~8월에만 엽니다. 공휴일 대부분과 매달 마지막 화요일 오전에는 닫습니다.|Open Sundays only from June to August; closed on most public holidays and on the morning of the last Tuesday of each month.', k: '2026-10' }),

@@ -16,6 +16,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
       ['몬주익과 바다|Montjuïc & the waterfront', 20, 8, 19, 5],
     ],
   },
+  cadiz: [1, 2, 5, 6, 4, 3],
   seville: {
     days: [
       ['대성당과 알카사르|Cathedral & Alcázar', 2, 6, 7, 1, 3],
