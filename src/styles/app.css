@@ -672,6 +672,17 @@ button.back-link {
   margin-right: 2px;
 }
 
+/* Real flag images instead of flag emoji, which Windows (and some Android browsers) show as two letters. */
+.flag-img {
+  display: inline-block;
+  width: 1.3em;
+  height: 0.9em;
+  object-fit: cover;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.12);
+  vertical-align: -0.08em;
+}
+
 .country-hero .back-link {
   color: rgba(255, 255, 255, 0.85);
 }

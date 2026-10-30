@@ -103,9 +103,7 @@ export function CountryPage() {
             </Link>
             <h2 className="local-title">
               <span className="local-title-main">
-                <span className="flag" aria-hidden>
-                  {country.flag}
-                </span>{' '}
+                <img className="flag flag-img" src={assetUrl(country.flagImage)} alt="" aria-hidden />{' '}
                 {main}
               </span>
               {altNames ? <span className="local-title-alt">{altNames}</span> : null}

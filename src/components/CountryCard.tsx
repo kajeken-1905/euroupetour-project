@@ -41,9 +41,7 @@ export function CountryCard({ country }: { country: Country }) {
         />
       ) : null}
       <div className="name-row">
-        <span className="flag" aria-hidden>
-          {country.flag}
-        </span>
+        <img className="flag flag-img" src={assetUrl(country.flagImage)} alt="" aria-hidden />
         <h2 className="name">
           {displayName}
           {showNative ? (
