@@ -26,6 +26,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
   cambridge: [6, 5, 1, 4, 2, 3],
   liverpool: [3, 6, 5, 1, 2],
   brighton: [1, 6, 3, 2, 4, 5],
+  whitby: [3, 2, 1, 4, 5],
   york: [6, 5, 1, 3, 2, 4],
   bristol: [3, 4, 2, 6, 5, 1],
   canterbury: [3, 2, 1, 4],

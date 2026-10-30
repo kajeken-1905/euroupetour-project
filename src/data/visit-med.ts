@@ -81,6 +81,11 @@ export const visitMed: Record<string, HighlightVisit> = {
   'hydra-h3': v(45, 60, { c: 'mon', s: 'https://nhmuseum.gr/en/', n: '언덕 위라 계단을 올라갑니다.|Up a flight of steps above the harbour.', k: '2026-10' }),
   'hydra-h4': v(30, 45),
   'hydra-h5': v(60, 120),
+  'aegina-h1': v(60, 90, { n: '항구에서 버스로 약 30분입니다. 겨울엔 일찍 닫습니다.|About 30 min by bus from the harbour; closes earlier in winter.' }),
+  'aegina-h2': v(30, 60),
+  'aegina-h3': v(30, 45),
+  'aegina-h4': v(45, 60),
+  'aegina-h5': v(30, 45),
   // Olympia
   'olympia-h1': v(120, 150, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
   'olympia-h2': v(15, 20, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),

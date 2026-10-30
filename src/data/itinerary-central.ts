@@ -78,6 +78,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   nuremberg: [1, 5, 2, 3, 4],
   fussen: [2, 3, 1, 4, 5],
   lugano: [2, 5, 1, 4, 3],
+  gruyeres: [2, 1, 4, 3, 5],
   montreux: { days: [['', 4, 3, 2, 1]], trips: [['로셰드네|Rochers-de-Naye', 5]] },
   grindelwald: {
     days: [

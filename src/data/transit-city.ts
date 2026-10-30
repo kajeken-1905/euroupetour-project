@@ -524,6 +524,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  whitby: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 수도원까지는 199 계단으로 오릅니다.',
+      en: 'Walk everywhere; climb the 199 Steps to the abbey.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   york: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -1261,6 +1271,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('sbb'),
     ],
   },
+  gruyeres: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '역에서 마을까지 걸어서 오르거나 버스를 탑니다. 마을 안은 차가 없습니다.',
+      en: 'Walk or take the bus up from the station; the village itself is car-free.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
   montreux: {
     modes: ['bus', 'train', 'taxi', 'walk'],
     howTo: {
@@ -1433,6 +1453,26 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('citymapper'),
       ta('bolt'),
       ta('uber'),
+    ],
+  },
+  telc: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 버스터미널에서 광장까지 걸어서 약 10분입니다.',
+      en: 'Walk everywhere; the square is about 10 min on foot from the bus station.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
+  mikulov: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 레드니체·발티체는 버스로 갑니다.',
+      en: 'Walk the town; take a bus to Lednice and Valtice.',
+    },
+    apps: [
+      ta('cd'),
     ],
   },
   brno: {
@@ -1880,6 +1920,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  cuenca: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '고속열차역은 시내에서 멀어 버스로 구시가까지 오릅니다. 구시가는 걸어서 다닙니다.',
+      en: 'The high-speed station is outside town; take a bus up to the old town and walk from there.',
+    },
+    apps: [
+      ta('renfe'),
+    ],
+  },
   toledo: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     airportToCity: {
@@ -2017,6 +2067,26 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('renfe'),
       ta('alsa'),
+    ],
+  },
+  tarragona: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가와 유적은 걸어서 다닙니다. 악마의 다리는 시내버스로 갑니다.',
+      en: 'Walk the old town and ruins; take a local bus to the Devil’s Bridge.',
+    },
+    apps: [
+      ta('renfe'),
+    ],
+  },
+  sitges: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 역에서 해변까지 걸어서 약 10분입니다.',
+      en: 'Walk everywhere; the beach is about 10 min on foot from the station.',
+    },
+    apps: [
+      ta('renfe'),
     ],
   },
   girona: {
@@ -2232,6 +2302,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('cp'),
       ta('bolt', { ko: '우버보다 잘 잡히는 편', en: 'Often more cars than Uber' }),
       ta('uber'),
+    ],
+  },
+  tomar: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 수도원까지는 언덕길로 약 15분 오릅니다.',
+      en: 'Walk the town; the convent is about a 15-minute climb.',
+    },
+    apps: [
+      ta('cp'),
     ],
   },
   fatima: {
@@ -3479,6 +3559,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— gr ——
+  aegina: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '항구 마을은 걸어서 다닙니다. 신전과 수도원은 항구 앞 버스나 택시로 갑니다.',
+      en: 'Walk the harbour town; buses and taxis from the port go to the temple and monastery.',
+    },
+    apps: [
+    ],
+  },
   hydra: {
     modes: ['walk', 'ferry'],
     howTo: {

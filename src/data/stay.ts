@@ -121,6 +121,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('카지미에시', 'Kazimierz', 'Kazimierz, Kraków', '분위기와 밤 문화|Atmosphere and nightlife', '옛 유대인 지구로 카페와 바가 많습니다. 밤에 시끄러울 수 있습니다.|The old Jewish quarter, full of cafés and bars; can be noisy at night.'),
     a('포드구제', 'Podgórze', 'Podgórze, Kraków', '조용한 강 건너 동네|Quieter, across the river', '구시가까지 걸어서 20분쯤이고 카페와 갤러리가 있습니다.|About 20 minutes’ walk to the Old Town, with cafés and galleries.'),
   ],
+  aegina: [
+    a('섬에서 묵기', 'In the island', 'Αίγινα', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('아테네에서 다녀오기', 'Base in Athens', 'Athens', '거점에서 다녀오기|Day trip from a base', '피레우스에서 고속선으로 약 40분, 일반 배로 약 1시간 15분입니다.|About 40 min by fast boat or 1 hr 15 by regular ferry from Piraeus.'),
+  ],
   hydra: [
     a('항구 주변', 'Around the harbour', 'Hydra port', '마을에서 묵기|Stay in the village', '돌집 게스트하우스가 많고, 당일 손님이 떠난 저녁 항구가 조용합니다. 짐은 계단을 올라야 해 가볍게 오세요.|Many stone-house guesthouses and a quiet harbour once day-trippers leave; pack light, as there are steps.'),
     a('아테네에서 다녀오기', 'Base in Athens', 'Athens', '거점에서 다녀오기|Day trip from a base', '피레우스에서 고속선으로 약 1시간 30분~2시간입니다. 여름엔 배표를 미리 사세요.|About 1 hr 30–2 hrs by fast boat from Piraeus; book tickets ahead in summer.'),
@@ -535,6 +539,14 @@ export const STAY: Record<string, StayArea[]> = {
     a('산타 카탈리나', 'Santa Catalina', 'Santa Catalina, Palma', '식당과 저녁 분위기|Food and evenings out', '구시가 서쪽으로 시장과 식당, 바가 많습니다. 여름에 붐비고 밤에 시끄럽습니다.|West of the old town with a market, restaurants and bars; busy in summer and noisy at night.'),
     a('칼라 마요르', 'Cala Major', 'Cala Major, Palma', '해변·가족 여행|Beach and families', '시내 서쪽의 해변 동네로 물이 잔잔합니다. 구시가까지 택시로 5분쯤이고 해변 호텔은 비쌉니다.|A beach area west of the city with calm water; about five minutes by taxi to the old town, and beachfront hotels are pricey.'),
   ],
+  tarragona: [
+    a('구시가에서 묵기', 'In the old town', 'Tarragona', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('바르셀로나에서 다녀오기', 'Base in Barcelona', 'Barcelona', '거점에서 다녀오기|Day trip from a base', '바르셀로나에서 기차로 약 1시간입니다.|About an hour by train from Barcelona.'),
+  ],
+  sitges: [
+    a('마을에서 묵기', 'In the town', 'Sitges', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('바르셀로나에서 다녀오기', 'Base in Barcelona', 'Barcelona', '거점에서 다녀오기|Day trip from a base', '바르셀로나에서 로달리에스 R2 Sud로 약 40분입니다.|About 40 min on Rodalies line R2 Sud from Barcelona.'),
+  ],
   girona: [
     a('구시가', 'Barri Vell (Old Town)', 'Barri Vell, Girona', '처음 가는 여행에 추천|Best for a first visit', '대성당과 유대인 지구를 걸어서 다닙니다. 낮에 붐비고 골목이 좁아 택시가 들어가기 어렵습니다.|The cathedral and the Jewish quarter on foot; busy by day, and the lanes are too narrow for taxis.'),
     a('에이삼플레', 'Eixample', 'Eixample, Girona', '기차역 근처·가성비|Near the station, better value', '기차역과 상점이 가깝고 숙소가 비교적 넓고 저렴합니다. 옛 시가지 분위기는 덜합니다.|Close to the station and shops, with roomier, cheaper places; less historic charm.'),
@@ -864,6 +876,14 @@ export const STAY: Record<string, StayArea[]> = {
   bolzano: [
     a('구시가', 'Old Town', 'Piazza Walther, Bolzano', '처음 가는 여행에 추천|Best for a first visit', '발터 광장과 대성당, 박물관, 상점을 걸어서 다니고 크리스마스 마켓도 이곳에서 열립니다.|Piazza Walther, the cathedral, museums and shops on foot, with the Christmas market here too.'),
   ],
+  telc: [
+    a('마을에서 묵기', 'In the town', 'Telč', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 버스로 약 1시간 45분입니다.|About 1 hr 45 by bus from Brno.'),
+  ],
+  mikulov: [
+    a('마을에서 묵기', 'In the town', 'Mikulov', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 기차로 약 1시간 15분(브르제츨라프 환승)입니다.|About 1 hr 15 by train from Brno, changing at Břeclav.'),
+  ],
   brno: [
     a('구시가', 'Old Town', 'Náměstí Svobody, Brno', '처음 가는 여행에 추천|Best for a first visit', '슈필베르크 성과 광장, 카페와 식당을 걸어서 다닙니다. 돌니 광장 주변은 늦은 밤 시끄러울 수 있습니다.|Špilberk Castle, the squares, cafés and restaurants on foot; the bars around Dolní náměstí can be rowdy late at night.'),
   ],
@@ -873,6 +893,10 @@ export const STAY: Record<string, StayArea[]> = {
   oxford: [
     a('시내 중심', 'City Centre', 'Oxford city centre', '처음 가는 여행에 추천|Best for a first visit', '애슈몰린 박물관과 보들리 도서관, 대학 칼리지를 걸어서 다닙니다. 가장 붐비는 곳입니다.|The Ashmolean, the Bodleian and the colleges on foot; the busiest part of town.'),
     a('제리코', 'Jericho', 'Jericho, Oxford', '식당과 저녁 분위기|Food and evenings out', '중심가 북서쪽의 동네로 식당과 칵테일 바, 펍이 많습니다.|North-west of the centre, full of restaurants, cocktail bars and pubs.'),
+  ],
+  whitby: [
+    a('마을에서 묵기', 'In the town', 'Whitby', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('요크에서 다녀오기', 'Base in York', 'York', '거점에서 다녀오기|Day trip from a base', '요크에서 코스트라이너 840번 버스로 약 2시간입니다.|About 2 hours from York on the Coastliner 840 bus.'),
   ],
   york: [
     a('시내 중심', 'City Centre', 'York city centre', '처음 가는 여행에 추천|Best for a first visit', '요크 민스터와 섐블스를 걸어서 다닙니다. 성수기에 매우 붐비고 좋은 숙소가 먼저 찹니다.|York Minster and the Shambles on foot; very busy in peak season, and the good hotels sell out first.'),
@@ -901,6 +925,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('구시가·마리나', 'Old Town & Marina', 'Lagos Old Town', '처음 가는 여행에 추천|Best for a first visit', '성벽 안 구시가와 항구라 식당과 밤 문화, 보트 투어 출발지가 가깝고 기차역도 걸어갑니다. 숙소가 단순하고 주차가 어려우며 해변까지 15~20분 걸어야 합니다.|The walled old town and harbour, close to restaurants, nightlife, boat trips and the station; simple rooms, little parking, and a 15–20-minute walk to the beaches.'),
     a('메이아 프라이아', 'Meia Praia', 'Meia Praia, Lagos', '가족 여행·긴 모래 해변|Families, long sandy beach', '6km 가까이 되는 평평한 해변에 리조트와 수상 스포츠가 있습니다. 구시가와 떨어진 곳이 많아 택시나 버스를 탑니다.|Nearly 6 km of flat sand with resorts and water sports; many places are far from the old town, so take a taxi or bus.'),
     a('포르투 드 모스', 'Praia de Porto de Mós', 'Praia de Porto de Mós', '절벽 해변과 노을|Cliffs and sunsets', '절벽으로 둘러싸인 넓은 해변에 중고급 리조트가 있습니다. 구시가까지 언덕길로 30분이라 택시를 타게 됩니다.|A wide cliff-backed beach with mid- to upper-range resorts; a hilly half-hour walk to the old town, so expect taxis.'),
+  ],
+  cuenca: [
+    a('구시가에서 묵기', 'In the old town', 'Cuenca', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('마드리드에서 다녀오기', 'Base in Madrid', 'Madrid', '거점에서 다녀오기|Day trip from a base', '마드리드에서 고속열차로 약 1시간이며, 고속열차역에서 구시가까지는 버스를 탑니다.|About an hour by high-speed train from Madrid; take a bus from the station up to the old town.'),
   ],
   toledo: [
     a('구시가 (카스코 이스토리코)', 'Old Town (Casco Histórico)', 'Plaza de Zocodover, Toledo', '하룻밤 묵을 때 추천|Best for an overnight stay', '대성당과 알카사르, 유대인 지구, 소코도베르 광장을 걸어서 다닙니다. 당일치기 손님이 떠난 저녁이 좋지만 숙소 수요가 많습니다.|The cathedral, the Alcázar, the Jewish quarter and Plaza de Zocodover on foot; lovely in the evening after the day-trippers leave, but rooms are in demand.'),
@@ -1061,6 +1089,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('론다 시내', 'Ronda town', 'Puente Nuevo, Ronda', '관광객이 떠난 저녁과 아침|Evenings and mornings without crowds', '당일 관광객이 떠난 저녁과 이른 아침이 한적하고 저녁 식사도 즐길 수 있습니다. 중심가는 주차 공간이 적습니다.|Quiet evenings and early mornings once the day-trippers leave, plus dinner in town; parking in the centre is scarce.'),
     a('세비야·말라가에서 다녀오기', 'Day trip from Seville or Málaga', 'Sevilla Santa Justa', '당일치기로 많이 감|A popular day trip', '두 도시에서 당일치기와 투어가 흔합니다. 세비야에서 130km쯤 떨어져 있습니다.|Day trips and tours from both cities are common; about 130 km from Seville.'),
   ],
+  gruyeres: [
+    a('마을에서 묵기', 'In the town', 'Gruyères', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('베른에서 다녀오기', 'Base in Bern', 'Bern', '거점에서 다녀오기|Day trip from a base', '베른에서 기차로 약 1시간 20분(뷜 환승)입니다.|About 1 hr 20 by train from Bern, changing at Bulle.'),
+  ],
   montreux: [
     a('몽트뢰 호숫가 중심', 'Montreux lakefront centre', 'Montreux station', '호숫가 산책·산악 열차|Lakeside promenade and mountain trains', '호숫가 산책로와 기차역이 가깝고 로셰 드 네, 골든패스 열차 타기에 편합니다.|Close to the lakeside promenade and the station, handy for Rochers-de-Naye and the GoldenPass trains.'),
     a('로잔에서 다녀오기', 'Base in Lausanne', 'Lausanne gare', '제네바도 함께 다닐 때|If Geneva is also on the list', '더 큰 도시라 활기차고 제네바까지 가깝습니다. 몽트뢰까지 기차로 20~25분쯤입니다.|A livelier city, closer to Geneva; about 20–25 minutes to Montreux by train.'),
@@ -1095,6 +1127,10 @@ export const STAY: Record<string, StayArea[]> = {
   aveiro: [
     a('운하 주변 역사 지구', 'Historic centre by the canals', 'Aveiro canals', '하룻밤 묵을 때|For an overnight stay', '카페와 몰리세이루 배 투어가 가깝고 당일 관광객이 떠난 뒤 한적합니다. 차가 있으면 주차를 확인하세요.|Cafés and moliceiro boat trips nearby, calm once the day-trippers leave; check parking if driving.'),
     a('포르투에서 다녀오기', 'Day trip from Porto', 'Porto São Bento', '느긋한 당일치기|An easy-paced day trip', '차로 50분쯤이고 기차도 다닙니다. 큰 명소가 많지 않아 하루면 충분합니다.|About 50 minutes by car, also by train; there are few big sights, so a day is enough.'),
+  ],
+  tomar: [
+    a('마을에서 묵기', 'In the town', 'Tomar', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('리스본에서 다녀오기', 'Base in Lisbon', 'Lisbon', '거점에서 다녀오기|Day trip from a base', '리스본에서 기차로 약 2시간입니다.|About 2 hours by train from Lisbon.'),
   ],
   fatima: [
     a('성지 주변', 'Around the Sanctuary', 'Santuário de Fátima', '저녁 촛불 행렬을 볼 때|For the evening candlelight procession', '숙소 대부분이 성지 주변에 모여 있어 저녁 예배와 촛불 행렬에 참여하기 좋습니다. 순례 성수기에는 일찍 예약해야 합니다.|Most hotels cluster around the shrine, handy for the evening services and candlelit procession; book early for big pilgrimage dates.'),

@@ -268,6 +268,11 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Salamanca', '살라망카역']],
     bus: [['Estación de Autobuses de Salamanca', '살라망카 버스터미널']],
   },
+  cuenca: {
+    air: [MAD()],
+    rail: [['Cuenca Fernando Zóbel', '쿠엔카 페르난도 소벨역', '고속열차역 · 시내까지 버스|high-speed station · bus to town']],
+    bus: [['Estación de Autobuses de Cuenca', '쿠엔카 버스터미널']],
+  },
   toledo: {
     air: [MAD()],
     rail: [['Toledo', '톨레도역']],
@@ -294,6 +299,17 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Monistrol de Montserrat', '모니스트롤 데 몬세라트역', '산악열차 환승|change to the rack railway'],
       ['Aeri de Montserrat', '아에리 데 몬세라트역', '케이블카 환승|change to the cable car'],
     ],
+  },
+  tarragona: {
+    air: [BCN(), ['Reus (REU)', '레우스 공항 (REU)', '레우스|Reus']],
+    rail: [
+      ['Tarragona', '타라고나역', '구시가 아래 해안|on the coast below the old town'],
+      ['Camp de Tarragona', '캄프 데 타라고나역', '고속열차역 · 시내까지 버스|high-speed station · bus to town'],
+    ],
+  },
+  sitges: {
+    air: [BCN()],
+    rail: [['Sitges', '시체스역']],
   },
   girona: {
     air: [['Girona–Costa Brava (GRO)', '지로나 공항 (GRO)'], BCN()],
@@ -427,6 +443,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [OPO(), LIS()],
     rail: [['Coimbra-B', '코임브라 B역']],
     bus: [['Terminal Rodoviário de Coimbra', '코임브라 버스터미널']],
+  },
+  tomar: {
+    air: [LIS()],
+    rail: [['Tomar', '토마르역']],
   },
   fatima: {
     air: [LIS()],
@@ -698,6 +718,14 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Praha-Holešovice', '프라하 홀레쇼비체역'],
     ],
     bus: [['ÚAN Florenc', '플로렌츠 중앙버스터미널']],
+  },
+  mikulov: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno'], VIE()],
+    rail: [['Mikulov na Moravě', '미쿨로프역']],
+  },
+  telc: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno'], PRG()],
+    bus: [['Telč, autobusové nádraží', '텔치 버스터미널']],
   },
   brno: {
     air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '운항편 적음|few flights'], VIE()],

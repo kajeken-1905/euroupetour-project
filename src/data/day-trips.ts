@@ -43,6 +43,22 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'amboise',
       tip: '앙부아즈 성과 다빈치가 말년을 보낸 클로뤼세를 봅니다. 왕복 시간이 길어 아침 일찍 출발하세요.|Amboise castle and Clos Lucé, where Leonardo spent his last years; leave early, as the ride is long.',
     },
+    {
+      to: 'mont-saint-michel',
+      tip: '렌까지 TGV, 이어서 직행버스로 편도 약 3시간 45분이라 하루가 아주 깁니다. 수도원을 보고 성벽길에서 갯벌을 내려다봅니다. 기차·버스 연결표나 당일 투어가 편하고, 여유가 있으면 하룻밤 묵는 편이 좋습니다.|TGV to Rennes, then a direct coach: about 3 hr 45 each way, so it is a very long day. See the abbey and look over the bay from the ramparts; a combined rail-and-coach ticket or a day tour is easiest, and staying a night is better if you can.',
+    },
+    {
+      to: 'etretat',
+      tip: '생라자르역에서 르아브르까지 기차, 이어서 버스로 편도 약 3시간입니다. 코끼리 바위 절벽 위 길을 걷습니다. 노르망디 당일 투어로 옹플뢰르와 묶기도 합니다.|Train from Saint-Lazare to Le Havre, then a bus: about 3 hours each way. Walk the clifftop paths above the elephant-trunk arch; Normandy day tours often pair it with Honfleur.',
+    },
+    {
+      to: 'honfleur',
+      tip: '트루빌-도빌역까지 기차, 이어서 버스로 편도 약 3시간입니다. 인상파 화가들이 그린 비외 바생 항구와 나무로 지은 생트 카트린 성당을 봅니다. 노르망디 투어로 에트르타와 묶기도 합니다.|Train to Trouville-Deauville, then a bus: about 3 hours each way. The Vieux Bassin harbour painted by the Impressionists and the wooden Sainte-Catherine Church; Normandy tours often pair it with Étretat.',
+    },
+    {
+      to: 'bayeux',
+      tip: '생라자르역에서 기차로 약 2시간 10분입니다. 대성당과 구시가를 보고 노르망디 상륙 해변(오마하 해변, 미군 묘지)은 현지 투어로 다녀옵니다. 태피스트리 박물관은 2027년 10월 재개관 예정이라 지금은 볼 수 없습니다.|About 2 hr 10 by train from Saint-Lazare. The cathedral and old town, then a local tour to the D-Day beaches (Omaha Beach, the American Cemetery); the Tapestry museum is closed until its planned reopening in October 2027.',
+    },
   ],
   lyon: [
     {
@@ -703,6 +719,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'avila',
       tip: '성벽 위를 걷고 대성당과 산 비센테 성당을 봅니다. 해 질 녘 쿠아트로 포스테스 전망대가 좋습니다.|Walk the walls and see the cathedral and San Vicente; the Cuatro Postes viewpoint is best at sunset.',
     },
+    {
+      to: 'cuenca',
+      tip: '협곡 절벽에 매달린 집과 산 파블로 다리, 대성당을 봅니다. 고속열차역이 시내에서 멀어 버스로 구시가까지 오릅니다.|The Hanging Houses over the gorge, the San Pablo Bridge and the cathedral; the high-speed station is out of town, so take a bus up.',
+    },
   ],
   barcelona: [
     {
@@ -712,6 +732,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'girona',
       tip: '성벽 길과 대성당, 오냐르 강변 색색의 집을 봅니다.|The city walls, the cathedral and the colourful houses on the Onyar.',
+    },
+    {
+      to: 'tarragona',
+      tip: '바닷가 로마 원형경기장과 성벽 산책로, 대성당을 봅니다.|The seaside Roman amphitheatre, the wall walk and the cathedral.',
+    },
+    {
+      to: 'sitges',
+      tip: '바다 위 곶의 성당과 해변 산책로, 루시뇰의 카우 페라트 미술관을 봅니다. 여름엔 해수욕을 더합니다.|The headland church, the seafront and Rusiñol’s Cau Ferrat Museum; add a swim in summer.',
     },
   ],
   seville: [
@@ -794,6 +822,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'faro',
       tip: '알가르브 해안의 구시가와 리아 포르모사 석호를 봅니다. 편도 3시간이라 하루가 깁니다. 하루 이상 묵으며 라고스까지 보는 편이 좋습니다.|Algarve old town and the Ria Formosa lagoon; three hours each way makes a long day, so staying over and adding Lagos is better.',
+    },
+    {
+      to: 'tomar',
+      tip: '템플 기사단의 그리스도 수도원과 둥근 예배당을 보고 강변 구시가를 걷습니다. 편도 2시간이라 아침 일찍 출발하세요.|The Templars’ Convent of Christ and its round church, then the riverside old town; it is 2 hours each way, so leave early.',
     },
   ],
   porto: [
@@ -888,6 +920,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       how: '기차로 로잔 경유 약 1시간 30분|About 1 hr 30 min by train via Lausanne',
       mode: 'train',
       tip: '레만 호숫가 시용 성과 산책로를 봅니다.|Chillon Castle and the lakeside promenade.',
+    },
+    {
+      to: 'gruyeres',
+      tip: '성벽 마을과 그뤼에르 성을 보고 치즈 공방에서 퐁뒤를 먹습니다. 시간이 남으면 카이에 초콜릿 공장에 들릅니다.|The walled village and castle, then fondue at the cheese dairy; add the Cailler chocolate factory if there is time.',
     },
   ],
   lucerne: [
@@ -1027,6 +1063,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'hydra',
       tip: '피레우스에서 고속선으로 가는 차 없는 섬. 항구와 선장 저택을 보고 바위 해변에서 수영합니다.|The car-free island by fast boat from Piraeus: the harbour, captains’ mansions and a swim off the rocks.',
+    },
+    {
+      to: 'aegina',
+      tip: '피레우스에서 배로 건너가 아파이아 신전과 항구 마을을 보고 섬 피스타치오를 맛봅니다.|Over by boat from Piraeus for the Temple of Aphaia and the harbour town, with the island’s pistachios.',
     },
   ],
   split: [
@@ -1240,6 +1280,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'manchester',
       tip: '과학산업 박물관과 축구장 투어를 즐깁니다.|The Science and Industry Museum and a football stadium tour.',
     },
+    {
+      to: 'whitby',
+      tip: '노스요크무어스를 넘는 버스로 바닷가에 가서 절벽 위 수도원과 항구를 보고 피시 앤 칩스를 먹습니다.|A bus over the North York Moors to the coast for the clifftop abbey, the harbour and fish and chips.',
+    },
   ],
   'the-hague': [
     {
@@ -1299,6 +1343,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'bratislava',
       tip: '성과 구시가를 반나절에 봅니다.|The castle and old town in half a day.',
+    },
+    {
+      to: 'telc',
+      tip: '르네상스 집들이 늘어선 광장과 성, 연못 산책로를 봅니다.|The square of Renaissance houses, the castle and the pond walk.',
+    },
+    {
+      to: 'mikulov',
+      tip: '성과 성스러운 언덕에 오르고 와인 저장고에서 모라비아 와인을 맛봅니다.|The castle and the Holy Hill, then Moravian wine in a cellar.',
     },
   ],
   bratislava: [

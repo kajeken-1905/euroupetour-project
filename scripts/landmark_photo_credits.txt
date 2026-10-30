@@ -1171,3 +1171,58 @@ highlights/salzburg-8.jpg | https://commons.wikimedia.org/wiki/File:St_Wolfgang,
 highlights/kotor-6.jpg | https://commons.wikimedia.org/wiki/File:Kotor_area_Our_Lady_of_the_Rocks.JPG | Public domain | Brian Dell
 highlights/paris-40.jpg | https://commons.wikimedia.org/wiki/File:Front_view_of_the_Ch%C3%A2teau_de_Chantilly_under_blue_sky_Oise_France.jpg | CC BY-SA 4.0 | Basile Morin
 highlights/malaga-7.jpg | https://commons.wikimedia.org/wiki/File:Frigiliana,_the_lane_%22Calle_el_Zacatin%22.jpg | CC BY 3.0 | Dguendel
+cities/tarragona.jpg | https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Tarragona_01.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/tarragona-1.jpg | https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Tarragona_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/tarragona-2.jpg | https://commons.wikimedia.org/wiki/File:Catedral_bas%C3%ADlica_de_Tarragona_Detalle_33.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/tarragona-4.jpg | https://commons.wikimedia.org/wiki/File:Circ_Rom%C3%A0_de_Tarragona-1.JPG | Public domain | Lluis tgn
+highlights/tarragona-6.jpg | https://commons.wikimedia.org/wiki/File:Pont_del_Diable_(Acueducto_romano_de_Tarragona).jpg | CC BY-SA 2.0 | Mario Modesto Mata
+cities/sitges.jpg | https://commons.wikimedia.org/wiki/File:Sitges_-_Ansicht_4.jpg | CC BY-SA 3.0 | Werner Lang (Wela49)
+highlights/sitges-1.jpg | https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_parroquial_de_Sant_Bartomeu_i_Santa_Tecla_(Sitges)_-_13.jpg | CC BY-SA 2.0 | Angela Llop
+highlights/sitges-2.jpg | https://commons.wikimedia.org/wiki/File:Sitges_Passeig_Mar%C3%ADtim.jpg | CC BY-SA 4.0 | Mehrvellous
+highlights/sitges-3.jpg | https://commons.wikimedia.org/wiki/File:059_Museu_del_Cau_Ferrat_(Sitges),_rac%C3%B3_de_l%27alcova_del_dormitori.jpg | CC BY 4.0 | Enric
+highlights/sitges-4.jpg | https://commons.wikimedia.org/wiki/File:Catalunya_en_Miniatura-Museu_Maricel_i_Estaci%C3%B3_de_Sitges.JPG | CC BY-SA 3.0 | Jordiferrer
+highlights/sitges-5.jpg | https://commons.wikimedia.org/wiki/File:Carrer_de_Sant_Pau_-_panoramio_(1).jpg | CC BY 3.0 | Jorge Franganillo
+cities/tomar.jpg | https://commons.wikimedia.org/wiki/File:Tomar_BW_2018-10-08_11-54-18.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/tomar-1.jpg | https://commons.wikimedia.org/wiki/File:Convento_Cristo_December_2008-8.jpg | CC BY-SA 3.0 | Alvesgaspar
+highlights/tomar-2.jpg | https://commons.wikimedia.org/wiki/File:Aqueduto_dos_Peg%C3%B5es_by_Juntas_2.jpg | CC BY-SA 4.0 | Juntas
+highlights/tomar-3.jpg | https://commons.wikimedia.org/wiki/File:Igreja_Santa_Maria_do_Olival_em_Tomar.jpg | CC BY-SA 4.0 | Sanrafae
+highlights/tomar-4.jpg | https://commons.wikimedia.org/wiki/File:Sinagoga_de_Tomar_IMG_9389.jpg | CC BY-SA 4.0 | Manuelvbotelho
+highlights/tomar-5.jpg | https://commons.wikimedia.org/wiki/File:Tomar,_Pra%C3%A7a_da_Rep%C3%BAblica_(2).jpg | CC BY-SA 4.0 | Palickap
+cities/telc.jpg | https://commons.wikimedia.org/wiki/File:Tel%C4%8D_Ulick%C3%BD_rybn%C3%ADk_a_sv._Jan.jpg | CC BY-SA 4.0 | VitVit
+highlights/telc-1.jpg | https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_Zachari%C3%A1%C5%A1e_z_Hradce,_Tel%C4%8D_(04).jpg | CC BY-SA 4.0 | xkomczax
+highlights/telc-2.jpg | https://commons.wikimedia.org/wiki/File:Tel%C4%8D_Castle_03.jpg | CC BY-SA 3.0 | Funke
+highlights/telc-3.jpg | https://commons.wikimedia.org/wiki/File:Tel%C4%8D,_Kostel_svat%C3%A9ho_Jakuba_01.jpg | CC BY-SA 3.0 | Daniel Baránek
+highlights/telc-4.jpg | https://commons.wikimedia.org/wiki/File:Tel%C4%8D_%C5%A0t%C4%9Bpnick%C3%BD_rybn%C3%ADk_02.jpg | CC BY-SA 3.0 | Funke
+cities/mikulov.jpg | https://commons.wikimedia.org/wiki/File:Mikulov_z%C3%A1mek_od_zahrad_2.jpg | CC BY-SA 4.0 | VitVit
+highlights/mikulov-1.jpg | https://commons.wikimedia.org/wiki/File:Mikulov_(Nikolsburg)_-_z%C3%A1mek.jpg | CC BY-SA 4.0 | Pudelek (Marcin Szala)
+highlights/mikulov-2.jpg | https://commons.wikimedia.org/wiki/File:Zasn%C4%9B%C5%BEen%C3%BD_Svat%C3%BD_kope%C4%8Dek_(leden_2019).jpg | CC BY-SA 4.0 | GeXeS
+highlights/mikulov-3.jpg | https://commons.wikimedia.org/wiki/File:Mikulov_cemetery_05.jpg | CC BY-SA 3.0 | feťour
+highlights/mikulov-4.jpg | https://commons.wikimedia.org/wiki/File:Mikulov_-_Koz%C3%AD_Hr%C3%A1dek_-_ICE_Fisheye_View.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/mikulov-5.jpg | https://commons.wikimedia.org/wiki/File:Lednice,_z%C3%A1mek_(1).jpg | CC BY-SA 4.0 | Palickap
+cities/whitby.jpg | https://commons.wikimedia.org/wiki/File:Whitby_MMB_33.jpg | CC BY-SA 3.0 | mattbuck (category)
+highlights/whitby-1.jpg | https://commons.wikimedia.org/wiki/File:Whitby_Abbey_1.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/whitby-2.jpg | https://commons.wikimedia.org/wiki/File:Whitby_MMB_27_199_Steps.jpg | CC BY-SA 3.0 | mattbuck (category)
+highlights/whitby-3.jpg | https://commons.wikimedia.org/wiki/File:Whale_bone_arch_(1)_-_geograph.org.uk_-_5579664.jpg | CC BY-SA 2.0 | Michael Dibb
+highlights/whitby-4.jpg | https://commons.wikimedia.org/wiki/File:Whitby_-_Captain_Cook_Memorial_Museum.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/whitby-5.jpg | https://commons.wikimedia.org/wiki/File:Robin_Hoods_Bay_from_the_Cleveland_Way.jpg | CC BY-SA 2.5 | James F. Carter
+cities/gruyeres.jpg | https://commons.wikimedia.org/wiki/File:Rue_du_Bourg_in_Gruy%C3%A8res_FR_%26_Mol%C3%A9son_(2014).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/gruyeres-1.jpg | https://commons.wikimedia.org/wiki/File:12_Chateau_de_Gruy%C3%A8res_Photo_by_Giles_Laurent.jpg | CC BY-SA 4.0 | Giles Laurent
+highlights/gruyeres-2.jpg | https://commons.wikimedia.org/wiki/File:Rue_du_Bourg,_Gruy%C3%A8res-IMG_0567.jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/gruyeres-3.jpg | https://commons.wikimedia.org/wiki/File:Gare_de_Gruy%C3%A8res_et_la_fromagerie_de_d%C3%A9monstration_(2014).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/gruyeres-4.jpg | https://commons.wikimedia.org/wiki/File:HR_Giger_Museum_(mars_2013).JPG | CC BY-SA 3.0 | B-noa
+highlights/gruyeres-5.jpg | https://commons.wikimedia.org/wiki/File:Broc_Chocolaterie_Maison_Cailler-008.jpg | CC BY-SA 4.0 | Fridolin freudenfett
+cities/aegina.jpg | https://commons.wikimedia.org/wiki/File:Aegina_sunset.jpg | CC0 | Jebulon
+highlights/aegina-1.jpg | https://commons.wikimedia.org/wiki/File:Aegina_-_Temple_of_Aphaia_01.jpg | CC BY-SA 3.0 | Paweł 'pbm' Szubert (talk)
+highlights/aegina-2.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Aegina_-_panoramio.jpg | CC BY 3.0 | Mister No
+highlights/aegina-3.jpg | https://commons.wikimedia.org/wiki/File:20100412_egine82.jpg | CC BY-SA 3.0 | Jean Housen
+highlights/aegina-4.jpg | https://commons.wikimedia.org/wiki/File:%CE%95%CF%80%CE%B9%CF%83%CE%BA%CE%BF%CF%80%CE%AE_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%94%CE%B9%CE%BF%CE%BD%CF%85%CF%83%CE%AF%CE%BF%CF%85,_%CE%A0%CE%B1%CE%BB%CE%B1%CE%B9%CE%BF%CF%87%CF%8E%CF%81%CE%B1_%CE%91%CE%AF%CE%B3%CE%B9%CE%BD%CE%B1%CF%82_0912.jpg | CC BY-SA 4.0 | C messier
+highlights/aegina-5.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_site_at_Kolona_in_Aegina_-_house_of_the_priests.jpg | CC0 | Furius
+cities/cuenca.jpg | https://commons.wikimedia.org/wiki/File:Cuenca-panorama-houses-historic-heritage-spain.jpg | CC0 | Mauro Campedelli
+highlights/cuenca-1.jpg | https://commons.wikimedia.org/wiki/File:Casas_Colgadas_de_Cuenca_1a.jpg | CC0 | Coralma*
+highlights/cuenca-2.jpg | https://commons.wikimedia.org/wiki/File:Puente_de_San_Pablo,_Cuenca_03.jpg | CC BY-SA 4.0 | Rodelar
+highlights/cuenca-3.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_la_Inmaculada_Concepci%C3%B3n,_Cuenca.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/cuenca-4.jpg | https://commons.wikimedia.org/wiki/File:Cuenca_Plaza_Mayor_(54175159989).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/cuenca-5.jpg | https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_la_hoz_del_Hu%C3%A9car.JPG | CC BY-SA 3.0 es | AdriPozuelo
+highlights/cuenca-6.jpg | https://commons.wikimedia.org/wiki/File:DSC2414ciudad-encantada-cuenca-sep-2019-b.jpg | CC BY-SA 4.0 | MottaW
+highlights/tarragona-3.jpg | https://commons.wikimedia.org/wiki/File:Muralles_de_Tarragona-2.JPG | Public domain | Lluis tgn
+highlights/tarragona-5.jpg | https://commons.wikimedia.org/wiki/File:Tarragona_-_Balc%C3%B3n_del_Mediterr%C3%A1neo_1.jpg | CC0 | Zarateman

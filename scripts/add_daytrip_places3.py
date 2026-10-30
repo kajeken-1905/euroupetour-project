@@ -223,7 +223,10 @@ def main():
         j = cities.find('\n  {\n    id: "', i + 10)
         wr('cities.ts', cities[:j] + block + cities[j:])
         s = rd('countries.ts')
-        for pat in [rf"(cityIds: \[[^\]]*?)'{c['after']}'", rf"(\{{ title: \{{ ko: '{c['group_title']}'[^\]]*?)'{c['after']}'"]:
+        pats = [rf"(cityIds: \[[^\]]*?)'{c['after']}'"]
+        if c.get('group_title'):
+            pats.append(rf"(\{{ title: \{{ ko: '{c['group_title']}'[^\]]*?)'{c['after']}'")
+        for pat in pats:
             m = re.search(pat, s)
             assert m, (cid, pat)
             s = s[:m.end()] + f", '{cid}'" + s[m.end():]
@@ -233,7 +236,7 @@ def main():
             s = rd(name)
             k = s.index(anchor)
             wr(name, s[:k] + text + s[k:])
-        before(c['hubs_file'], f"  {c['after']}: {{\n" if c['hubs_file'] != 'hubs-central.ts' or c['after'] in ('nuremberg', 'munich', 'frankfurt', 'cologne') else '  nuremberg: {\n', f'  {key}: {{\n{c["hubs"]}  }},\n')
+        before(c['hubs_file'], c.get('hubs_before', f"  {c['after']}: {{\n"), f'  {key}: {{\n{c["hubs"]}  }},\n')
         before(c['itin_file'], c['itin_before'], f"  {key}: {json.dumps(c['itinerary'])},\n")
         insert_after_line('season-notes.ts', r"^  'aix-en-provence': \{.*\},\n", f"  {key}: {{ n: {js(c['season'])} }},\n")
         insert_after_line(c['visit_file'], c['visit_after'], ''.join(vline(f'{cid}-h{i}', h['visit']) for i, h in enumerate(c['highlights'], 1)))

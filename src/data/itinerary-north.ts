@@ -67,6 +67,8 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
     trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14]],
   },
+  telc: [1, 2, 3, 4],
+  mikulov: [1, 4, 3, 2, 5],
   brno: [5, 4, 3, 1, 2],
   'cesky-krumlov': [2, 3, 5, 1],
   'karlovy-vary': [5, 1, 4, 2, 3],

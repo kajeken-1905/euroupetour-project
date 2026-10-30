@@ -124,6 +124,11 @@ export const visitUk: Record<string, HighlightVisit> = {
   'york-h4': v(30, 45, { c: 'daily', s: 'https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/', k: '2026-10' }),
   'york-h5': v(60, 90, { c: 'mon', s: 'https://www.yorkshiremuseum.org.uk/', k: '2026-10' }),
   'york-h6': v(120, 180, { c: 'daily', b: 'no', s: 'https://www.railwaymuseum.org.uk/', n: FREE, k: '2026-10' }),
+  'whitby-h1': v(60, 90, { s: 'https://www.english-heritage.org.uk/visit/places/whitby-abbey/', n: '겨울엔 여는 요일이 줄어듭니다.|Fewer opening days in winter.' }),
+  'whitby-h2': v(20, 30),
+  'whitby-h3': v(30, 45),
+  'whitby-h4': v(45, 60, { n: '겨울엔 닫습니다.|Closed in winter.' }),
+  'whitby-h5': v(120, 180, { n: '휘트비에서 버스로 약 20분이며, 해안 절벽길로 걸어가기도 합니다.|About 20 min by bus from Whitby, or walk the clifftop path.' }),
   // Lake District
   'lake-district-h1': v(90, 180),
   'lake-district-h2': v(60, 90),

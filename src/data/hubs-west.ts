@@ -384,6 +384,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Isle of Man Ferry Terminal', '맨섬 페리터미널', '맨섬 더글러스행 · 2024년 새 터미널|ferries to Douglas, Isle of Man · new terminal since 2024'],
     ],
   },
+  whitby: {
+    air: [['Leeds Bradford (LBA)', '리즈 브래드퍼드 공항 (LBA)', '리즈|Leeds']],
+    rail: [['Whitby', '휘트비역']],
+  },
   york: {
     air: [
       ['Leeds Bradford (LBA)', '리즈 브래드퍼드 공항 (LBA)', '리즈|Leeds'],
@@ -598,6 +602,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Milano Malpensa (MXP)', '밀라노 말펜사 공항 (MXP)', '이탈리아 밀라노|Milan, Italy'], ZRH()],
     rail: [['Lugano', '루가노역']],
     port: [['Lugano Centrale (Navigazione Lago di Lugano)', '루가노 첸트랄레 선착장', '간드리아·모르코테행 호수 배|lake boats to Gandria and Morcote']],
+  },
+  gruyeres: {
+    air: [GVA('제네바|Geneva')],
+    rail: [['Gruyères', '그뤼에르역', '마을까지 걸어서 약 15분 언덕|about a 15-minute walk up to the village']],
   },
   montreux: {
     air: [GVA('제네바|Geneva')],

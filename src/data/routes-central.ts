@@ -97,6 +97,7 @@ export const routesCentral: RawRoute[] = [
   r('madrid', 'segovia', 'train', 28, { ...R, fa: CHAMARTIN, fb: '세고비아 기오마르역|Segovia-Guiomar', n: AVE }),
   r('madrid', 'avila', 'train', 90, { fa: '마드리드 프린시페 피오역|Madrid Príncipe Pío', fb: '아빌라역|Ávila', n: '차마르틴역 출발편도 있음|also from Chamartín' }),
   r('madrid', 'toledo', 'train', 33, { ...R, fa: ATOCHA, n: AVE }),
+  r('madrid', 'cuenca', 'train', 55, { fb: '쿠엔카 페르난도 소벨역|Cuenca Fernando Zóbel', n: '고속열차|high-speed train' }),
   r('madrid', 'salamanca', 'train', 100, { ...R, fa: CHAMARTIN }),
   r('madrid', 'zaragoza', 'train', 80, { ...R, fa: ATOCHA, n: AVE }),
   r('madrid', 'barcelona', 'train', 150, { ...R, fa: ATOCHA, fb: SANTS, n: AVE }),
@@ -109,6 +110,8 @@ export const routesCentral: RawRoute[] = [
   r('madrid', 'san-sebastian', 'train', 300, { ...R, fa: CHAMARTIN }),
   r('madrid', 'santiago', 'train', 200, { ...R, fa: CHAMARTIN, n: AVE }),
   r('barcelona', 'girona', 'train', 38, { ...R, fa: SANTS, n: AVE }),
+  r('barcelona', 'sitges', 'train', 40, { fb: '시체스역|Sitges', n: '로달리에스 R2 Sud|Rodalies R2 Sud' }),
+  r('barcelona', 'tarragona', 'train', 65, { fb: '타라고나역|Tarragona', n: '지역 열차|regional train' }),
   r('barcelona', 'zaragoza', 'train', 85, { ...R, fa: SANTS, n: AVE }),
   r('barcelona', 'valencia', 'train', 175, { ...R, fa: SANTS }),
   r('barcelona', 'montserrat', 'train', 90, { fa: '플라사 에스파냐역|Plaça d’Espanya', n: 'FGC R5선 후 산악열차나 케이블카|FGC line R5, then rack railway or cable car' }),
@@ -150,6 +153,7 @@ export const routesCentral: RawRoute[] = [
 
   // —— pt ——
   r('lisbon', 'sintra', 'train', 40, { fa: '호시우역|Rossio' }),
+  r('lisbon', 'tomar', 'train', 120, { fb: '토마르역|Tomar' }),
   r('lisbon', 'cascais', 'train', 40, { fa: '카이스 두 소드레역|Cais do Sodré' }),
   r('lisbon', 'obidos', 'bus', 65),
   r('lisbon', 'nazare', 'bus', 110, { fa: '세트 히우스 버스터미널|Sete Rios' }),
@@ -248,6 +252,8 @@ export const routesCentral: RawRoute[] = [
   r('ceske-budejovice', 'cesky-krumlov', 'bus', 35),
   r('cesky-krumlov', 'salzburg', 'bus', 180, { n: '셔틀버스(사전 예약)|shuttle bus (book ahead)' }),
   r('brno', 'bratislava', 'train', 90),
+  r('brno', 'mikulov', 'train', 75, { n: '브르제츨라프에서 환승|change at Břeclav' }),
+  r('brno', 'telc', 'bus', 105),
   r('bratislava', 'trencin', 'train', 80),
   r('bratislava', 'banska-bystrica', 'train', 210),
   r('bratislava', 'poprad', 'train', 240),
