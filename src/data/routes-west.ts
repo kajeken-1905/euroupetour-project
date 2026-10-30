@@ -102,6 +102,7 @@ export const routesWest: RawRoute[] = [
   r('geneva', 'annecy', 'train', 90),
   r('geneva', 'chamonix', 'bus', 80),
   r('basel', 'strasbourg', 'train', 80),
+  r('basel', 'colmar', 'train', 45, { fb: '콜마르역|Colmar', n: 'TER' }),
   r('basel', 'frankfurt', 'train', 170),
   r('zurich', 'munich', 'train', 210),
   r('zurich', 'milan', 'train', 200, { ...R, fb: '밀라노 중앙역|Milano Centrale', n: '유로시티 · 국경을 넘는 구간은 예약 필수|EuroCity · reservation compulsory across the border' }),

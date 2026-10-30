@@ -1100,3 +1100,53 @@ highlights/cadiz-5.jpg | https://commons.wikimedia.org/wiki/File:Mercado_de_C%C3
 highlights/cadiz-6.jpg | https://commons.wikimedia.org/wiki/File:C%C3%A1diz_Teatro_Romano_1.jpg | CC BY-SA 4.0 | Ymblanter
 highlights/szentendre-3.jpg | https://commons.wikimedia.org/wiki/File:Kov%C3%A1cs_Margit_M%C3%BAzeum_-_2_-_KKriszti.jpg | CC BY-SA 3.0 | KKriszti
 highlights/szentendre-4.jpg | https://commons.wikimedia.org/wiki/File:Szentendre_city_view_07.jpg | CC BY 4.0 | MOs810
+cities/colmar.jpg | https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg | CC BY 2.0 | Jorge Franganillo from Barcelona, Spain
+highlights/colmar-1.jpg | https://commons.wikimedia.org/wiki/File:Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_(Colmar)_(8).jpg | CC BY-SA 4.0 | Gzen92
+highlights/colmar-2.jpg | https://commons.wikimedia.org/wiki/File:Unterlinden-Museum_(Colmar)_jm01055.jpg | CC BY-SA 3.0 | joergens.mi
+highlights/colmar-3.jpg | https://commons.wikimedia.org/wiki/File:Maison_Pfister_(Colmar)_01.JPG | CC BY-SA 3.0 | Remi Mathis
+highlights/colmar-4.jpg | https://commons.wikimedia.org/wiki/File:Colmar_-_Martins-M%C3%BCnster.jpg | CC BY-SA 2.0 de | Otto Schemmel
+highlights/colmar-5.jpg | https://commons.wikimedia.org/wiki/File:Eguisheim_-_Mairie.jpg | CC BY-SA 3.0 | Véronique PAGNIER
+highlights/colmar-6.jpg | https://commons.wikimedia.org/wiki/File:Town_hall_of_Riquewihr_(3).jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/bamberg.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_Altes_Rathaus_3230010.jpg | CC BY-SA 4.0 | Ermell
+highlights/bamberg-1.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_Altes_Rathaus_17RM1565-PSD.jpg | CC BY-SA 4.0 | Ermell
+highlights/bamberg-2.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_Dom_1230769.jpg | CC BY-SA 4.0 | Ermell
+highlights/bamberg-4.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_klein_Venedig-20200415-RM-163921.jpg | CC BY-SA 4.0 | Reinhold Möller Ermell
+highlights/bamberg-5.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_Schlenkerla_20160825-RM-102225.jpg | CC BY-SA 4.0 | Ermell
+cities/wurzburg.jpg | https://commons.wikimedia.org/wiki/File:20230105_Alte_Mainbr%C3%BCcke_W%C3%BCrzburg_02.jpg | CC BY 4.0 | Flocci Nivis
+highlights/wurzburg-1.jpg | https://commons.wikimedia.org/wiki/File:20230105_W%C3%BCrzburg_Residence_03.jpg | CC BY 4.0 | Flocci Nivis
+highlights/wurzburg-2.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Marienberg_Fortress_(F%C3%BCrstenbau_and_Vorburg)_(view_from_the_southwest).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/wurzburg-3.jpg | https://commons.wikimedia.org/wiki/File:View_of_Alte_Mainbrucke_in_Wurzburg_06.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/wurzburg-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_the_St._Kilian%27s_Cathedral_in_Wurzburg.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/wurzburg-5.jpg | https://commons.wikimedia.org/wiki/File:W%C3%BCrzburg_-_K%C3%A4ppele_(Winter).jpg | Public domain | Tors
+cities/regensburg.jpg | https://commons.wikimedia.org/wiki/File:Domkirche_und_Steinerne_Br%C3%BCcke_in_Regensburg_2.jpg | CC BY-SA 4.0 | SimonWaldherr
+highlights/regensburg-1.jpg | https://commons.wikimedia.org/wiki/File:Regensburg_-_Steinerne_Bruecke_ohne_Dom.jpg | CC BY-SA 3.0 | Hytrion at German Wikipedia
+highlights/regensburg-2.jpg | https://commons.wikimedia.org/wiki/File:Regensburg,_Regensburger_Dom_--_2026_--_4336.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/regensburg-3.jpg | https://commons.wikimedia.org/wiki/File:Altstadt_von_Regensburg_.jpg | CC BY-SA 4.0 | Geschichtsfanatiker
+highlights/regensburg-4.jpg | https://commons.wikimedia.org/wiki/File:Historische_Wurstkuchl_Regensburg.jpg | CC BY-SA 4.0 | Ekrem Canli
+highlights/regensburg-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Walhalla_memorial_(view_from_the_southeast).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/regensburg-6.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Thurn_und_Taxis.jpg | Public domain | Bkmd
+cities/berchtesgaden.jpg | https://commons.wikimedia.org/wiki/File:Watzmann_(Westseite).jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/berchtesgaden-1.jpg | https://commons.wikimedia.org/wiki/File:Sch%C3%B6nau_am_K%C3%B6nigssee,_Alemania,_2019-05-17,_DD_114.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/berchtesgaden-2.jpg | https://commons.wikimedia.org/wiki/File:St._Bartholom%C3%A4_K%C3%B6nigssee_01.jpg | CC BY-SA 4.0 | H.Helmlechner
+highlights/berchtesgaden-3.jpg | https://commons.wikimedia.org/wiki/File:Dokumentationszentrum_Obersalzberg.jpg | CC BY-SA 3.0 | Werudolf
+highlights/berchtesgaden-4.jpg | https://commons.wikimedia.org/wiki/File:Salzbergwerk_Berchtesgaden_002.JPG | CC BY 3.0 | JoJan
+highlights/berchtesgaden-5.jpg | https://commons.wikimedia.org/wiki/File:Berchtesgaden_(DE),_Marktplatz_--_2024_--_0790.jpg | CC BY 4.0 | Anil Öztas
+cities/garmisch-partenkirchen.jpg | https://commons.wikimedia.org/wiki/File:Waxenstein,_Garmisch-Partenkirchen,_Bavaria,_Germany_-_panoramio.jpg | CC BY-SA 3.0 | trolvag
+highlights/garmisch-partenkirchen-1.jpg | https://commons.wikimedia.org/wiki/File:2019-08-01_Zugspitze_6.jpg | CC BY-SA 4.0 | Maksym Kozlenko
+highlights/garmisch-partenkirchen-2.jpg | https://commons.wikimedia.org/wiki/File:Garmisch-Partenkirchen_Partnachklamm_27.JPG | CC BY-SA 4.0 | Zairon
+highlights/garmisch-partenkirchen-3.jpg | https://commons.wikimedia.org/wiki/File:GER_Grainau,_Eibsee_010.jpg | CC BY 4.0 | -wuppertaler
+highlights/garmisch-partenkirchen-4.jpg | https://commons.wikimedia.org/wiki/File:20220313_Ludwigstra%C3%9Fe_Garmisch-Partenkirchen_02.jpg | CC BY 4.0 | Flocci Nivis
+highlights/garmisch-partenkirchen-5.jpg | https://commons.wikimedia.org/wiki/File:Olympia-Skistadion_Garmisch-Partenkirchen_(Panorama).jpg | CC BY-SA 4.0 | M(e)ister Eiskalt
+derivative work: Hic et nunc
+cities/rudesheim.jpg | https://commons.wikimedia.org/wiki/File:MK12875-79_R%C3%BCdesheim_am_Rhein.jpg | CC BY-SA 3.0 | Martin Kraft
+highlights/rudesheim-1.jpg | https://commons.wikimedia.org/wiki/File:Drosselgasse_R%C3%BCdesheim_Germany_-_panoramio.jpg | CC BY 3.0 | Hiroki Ogawa
+highlights/rudesheim-2.jpg | https://commons.wikimedia.org/wiki/File:Niederwalddenkmal_im_August_2025.jpg | CC BY-SA 4.0 | Luna Moonshine
+highlights/rudesheim-3.jpg | https://commons.wikimedia.org/wiki/File:R%C3%BCdesheim,_Siegfrieds_Mechanisches_Musikkabinett,_Schild_KSG_8027_pK.jpg | CC BY-SA 3.0 | Petra Klawikowski
+highlights/rudesheim-4.jpg | https://commons.wikimedia.org/wiki/File:AmaVenita_River_Cruise_Boat_-_Rudesheim_-_Rhine_River_Gorge_-_Germany_(2_of_2)_(38526110422).jpg | CC BY 2.0 | Gary Bembridge from London, UK
+cities/cochem.jpg | https://commons.wikimedia.org/wiki/File:Cochem,_Reichsburg_--_2018_--_0103.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/cochem-1.jpg | https://commons.wikimedia.org/wiki/File:Cochem,_Reichsburg_--_2018_--_0099.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/cochem-4.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Eltz_Castle_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/cochem-5.jpg | https://commons.wikimedia.org/wiki/File:Marktplatz-Cochem.jpg | CC BY-SA 3.0 de | Michael Pabst
+highlights/bamberg-3.jpg | https://commons.wikimedia.org/wiki/File:Bamberg-Rosengarten-Panorama.JPG | CC BY-SA 3.0 | Reinhard Kirchner
+highlights/cochem-2.jpg | https://commons.wikimedia.org/wiki/File:Mosel_promenade_Cochem.jpg | CC BY-SA 3.0 | Sjokolade
+highlights/cochem-3.jpg | https://commons.wikimedia.org/wiki/File:GER_Cochem,_Pinnerkreuz,_Aussicht_016.jpg | CC BY 4.0 | -wuppertaler

@@ -103,6 +103,12 @@ export const visitFr: Record<string, HighlightVisit> = {
   'strasbourg-h4': v(15, 20),
   'strasbourg-h5': v(30, 45),
   'strasbourg-h6': v(90, 150, { s: 'https://noel.strasbourg.eu/en/', n: '11월 말부터 크리스마스 전후까지만 열립니다.|Runs only from late November to around Christmas.', x: [['2026년 시장은 11월 27일(금)에 문을 엽니다.|The 2026 market opens on Friday 27 November.', '2026-12-31']], k: '2026-10' }),
+  'colmar-h1': v(30, 45),
+  'colmar-h2': v(90, 120, { c: 'tue', s: 'https://www.musee-unterlinden.com/', n: '화요일과 1월 1일·5월 1일·11월 1일·12월 25일에 쉽니다.|Closed on Tuesdays and on 1 January, 1 May, 1 November and 25 December.', k: '2026-10' }),
+  'colmar-h3': v(45, 60),
+  'colmar-h4': v(15, 20),
+  'colmar-h5': v(90, 120, { n: '콜마르에서 남쪽으로 약 7km입니다. 와인 시음을 하려면 차보다 버스나 투어가 편합니다.|About 7 km south of Colmar; take a bus or tour if you plan to taste wine.' }),
+  'colmar-h6': v(90, 120, { n: '콜마르에서 북쪽으로 약 15km이며 버스가 다닙니다.|About 15 km north of Colmar, reached by bus.' }),
   // Amboise & Loire châteaux
   'amboise-h1': v(90, 120, { c: 'daily', s: 'https://www.chateau-amboise.com/en/', k: '2026-10' }),
   'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/', k: '2026-10' }),

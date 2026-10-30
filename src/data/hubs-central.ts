@@ -48,6 +48,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [BER()],
     rail: [['Potsdam Hbf', '포츠담 중앙역']],
   },
+  cochem: {
+    air: [['Köln Bonn (CGN)', '쾰른 본 공항 (CGN)', '쾰른|Cologne'], FRA()],
+    rail: [['Cochem (Mosel)', '코헴역']],
+  },
   cologne: {
     air: [
       ['Köln Bonn (CGN)', '쾰른 본 공항 (CGN)'],
@@ -57,6 +61,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Köln Hbf', '쾰른 중앙역'],
       ['Köln Messe/Deutz', '쾰른 메세/도이츠역'],
     ],
+  },
+  rudesheim: {
+    air: [FRA()],
+    rail: [['Rüdesheim (Rhein)', '뤼데스하임역']],
   },
   frankfurt: {
     air: [['Frankfurt am Main (FRA)', '프랑크푸르트 공항 (FRA)']],
@@ -91,10 +99,31 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)', '뉘른베르크|Nuremberg'], FRA()],
     rail: [['Rothenburg ob der Tauber', '로텐부르크역', '슈타이나흐에서 환승|change at Steinach']],
   },
+  bamberg: {
+    air: [['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)', '뉘른베르크|Nuremberg']],
+    rail: [['Bamberg', '밤베르크역']],
+  },
+  wurzburg: {
+    air: [FRA(), ['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)', '뉘른베르크|Nuremberg']],
+    rail: [['Würzburg Hbf', '뷔르츠부르크 중앙역']],
+  },
+  regensburg: {
+    air: [MUC(), ['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)', '뉘른베르크|Nuremberg']],
+    rail: [['Regensburg Hbf', '레겐스부르크 중앙역']],
+  },
+  'garmisch-partenkirchen': {
+    air: [MUC(), ['Innsbruck (INN)', '인스브루크 공항 (INN)', '오스트리아 인스브루크|Innsbruck, Austria']],
+    rail: [['Garmisch-Partenkirchen', '가르미슈파르텐키르헨역']],
+  },
   nuremberg: {
     air: [['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)']],
     rail: [['Nürnberg Hbf', '뉘른베르크 중앙역']],
     bus: [['ZOB Nürnberg', '뉘른베르크 중앙버스터미널 (ZOB)']],
+  },
+  berchtesgaden: {
+    air: [SZG(), MUC()],
+    rail: [['Berchtesgaden Hbf', '베르히테스가덴 중앙역', '프라이라싱에서 환승|change at Freilassing']],
+    bus: [['Berchtesgaden Hbf (Bus 840)', '중앙역 버스 정류장', '잘츠부르크행 840번|bus 840 to Salzburg']],
   },
   munich: {
     air: [

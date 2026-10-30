@@ -90,6 +90,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Gare de Saint-Malo', '생말로역']],
     port: [['Gare maritime du Naye', '나예 여객터미널', '영국·채널 제도행 페리|ferries to the UK and Channel Islands']],
   },
+  colmar: {
+    air: [['EuroAirport Basel-Mulhouse-Freiburg (BSL)', '유로에어포트 바젤 (BSL)', '바젤·뮐루즈|Basel / Mulhouse']],
+    rail: [['Gare de Colmar', '콜마르역']],
+  },
   strasbourg: {
     air: [['Strasbourg (SXB)', '스트라스부르 공항 (SXB)']],
     rail: [['Gare de Strasbourg-Ville', '스트라스부르역']],

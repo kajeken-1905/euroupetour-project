@@ -14,6 +14,7 @@ export const itineraryFr: Record<string, RawItinerary> = {
   marseille: { days: [['', 1, 5, 3, 2]], trips: [['카랑크|Calanques', 4]] },
   nice: [5, 1, 4, 2, 3],
   bordeaux: [2, 3, 1, 5, 4],
+  colmar: [1, 3, 4, 2, 5, 6],
   strasbourg: [1, 4, 2, 5, 3],
   annecy: [2, 3, 5, 4, 1],
   avignon: [4, 1, 3, 2, 5],

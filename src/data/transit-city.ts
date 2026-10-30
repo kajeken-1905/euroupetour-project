@@ -97,6 +97,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  colmar: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 근교 와인 마을은 역 앞에서 버스로 갑니다.',
+      en: 'Walk the old town; buses from the station serve the wine villages.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
   strasbourg: {
     modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
@@ -943,6 +953,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
+  cochem: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 성까지는 걸어서 오르거나 봄~가을엔 셔틀버스를 탑니다.',
+      en: 'Walk the town; climb to the castle on foot or take the shuttle bus in spring to autumn.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   cologne: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
@@ -956,6 +976,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
+    ],
+  },
+  rudesheim: {
+    modes: ['walk', 'ferry', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 라인강 유람선 선착장이 역 바로 옆에 있습니다.',
+      en: 'Walk the town; the Rhine cruise piers are right by the station.',
+    },
+    apps: [
+      ta('db'),
     ],
   },
   frankfurt: {
@@ -1000,6 +1030,56 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('db'),
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+    ],
+  },
+  bamberg: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역에서 구시가까지는 걸어서 약 20분이거나 시내버스를 탑니다.',
+      en: 'Walk the old town; it is about 20 min on foot or a short bus ride from the station.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  wurzburg: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 요새까지는 걸어서 오르거나 여름엔 9번 버스를 탑니다.',
+      en: 'Walk the old town; climb to the fortress on foot or take bus 9 in summer.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  regensburg: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 발할라는 5번 버스로 갑니다.',
+      en: 'Walk the old town; take bus 5 to the Walhalla.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  berchtesgaden: {
+    modes: ['bus', 'walk', 'train'],
+    howTo: {
+      ko: '쾨니히스제와 오버잘츠베르크는 중앙역 앞에서 버스로 갑니다.',
+      en: 'Buses from the main station go to the Königssee and Obersalzberg.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  'garmisch-partenkirchen': {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을 안은 걷거나 시내버스를 탑니다. 추크슈피체 톱니바퀴 열차는 중앙역 옆 전용 역에서 출발합니다.',
+      en: 'Walk or take local buses; the Zugspitze cogwheel train leaves from its own station beside the main one.',
+    },
+    apps: [
+      ta('db'),
     ],
   },
   nuremberg: {

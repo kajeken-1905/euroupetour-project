@@ -33,6 +33,13 @@ export const placesDEExtra: Place[] = [
   place('munich-cafe-5', 'munich', 'cafe', 'Coffee Twins', 'Ehrengutstraße 18, 80469 München', '쌍둥이 제과사 형제가 운영하는 스페셜티 커피 카페. 직접 볶은 필터 커피와 스펠트 밀 케이크가 있습니다.', 'Specialty coffee café run by twin brothers trained as confectioners, with house-roasted filter coffee and spelt cakes.'),
   place('munich-korean-2', 'munich', 'korean', 'Hansik', 'Thomas-Wimmer-Ring 9, 80539 München', '이자르 문 근처의 작은 한식 비스트로. 돌솥비빔밥·불고기·짜장면·김치찌개가 있고 일요일은 쉽니다.', 'Small Korean bistro near the Isartor with dolsot bibimbap, bulgogi, jajangmyeon and kimchi stew; closed Sundays.'),
 
+  // —— wurzburg ——
+  place('wurzburg-fine_dining-1', 'wurzburg', 'fine_dining', 'KUNO 1408', 'Neubaustraße 7, 97070 Würzburg', '레브슈톡 호텔 안의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant in the Hotel Rebstock.', { michelin: 'star1' }),
+  // —— regensburg ——
+  place('regensburg-fine_dining-1', 'regensburg', 'fine_dining', 'Storstad', 'Watmarkt 5, 93047 Regensburg', '구시가 탑 건물 5층의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant on the fifth floor of an old-town tower.', { michelin: 'star1' }),
+  place('regensburg-fine_dining-2', 'regensburg', 'fine_dining', 'Ontra\'s Gourmetstube', 'Franz-Mayer-Straße 5a, 93053 Regensburg', '모던 인터내셔널 요리의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant with modern international cooking.', { michelin: 'star1' }),
+  // —— berchtesgaden ——
+  place('berchtesgaden-fine_dining-1', 'berchtesgaden', 'fine_dining', 'PUR', 'Hintereck 1, 83471 Berchtesgaden', '켐핀스키 호텔 안의 미쉐린 2스타 레스토랑입니다.', 'Two-Michelin-star restaurant in the Kempinski hotel.', { michelin: 'star2' }),
   // —— hamburg ——
   place('hamburg-fine_dining-1', 'hamburg', 'fine_dining', 'The Table Kevin Fehling', 'Shanghaiallee 15, 20457 Hamburg', '하펜시티의 미쉐린 3스타 레스토랑. 셰프 케빈 펠링이 이끕니다.', 'Three-Michelin-star restaurant in HafenCity led by chef Kevin Fehling.', { michelin: 'star3' }),
   place('hamburg-fine_dining-2', 'hamburg', 'fine_dining', 'Fischereihafen Restaurant', 'Große Elbstraße 143, 22767 Hamburg', '알토나 항구가 보이는 해산물 레스토랑. 어시장의 생선으로 넙치·랍스터 요리를 냅니다.', 'Seafood restaurant overlooking the Altona harbour, cooking turbot and lobster with fish from the local market.', { image: '/places/hamburg-fine_dining-2.jpg' }),

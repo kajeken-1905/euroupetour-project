@@ -954,11 +954,31 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'salzburg',
       tip: '모차르트 생가와 호엔잘츠부르크 성을 봅니다.|Mozart’s birthplace and Hohensalzburg Fortress.',
     },
+    {
+      to: 'regensburg',
+      tip: '도나우강 돌다리와 대성당, 세계유산 구시가를 걷습니다. 시간이 남으면 버스로 발할라에 다녀옵니다.|The Danube stone bridge, the cathedral and the World Heritage old town; add the Walhalla by bus if there is time.',
+    },
+    {
+      to: 'berchtesgaden',
+      tip: '편도가 길지만 쾨니히스제 호수 배와 오버잘츠베르크 기록관을 묶을 수 있습니다. 아침 일찍 출발하세요.|A long ride, but you can pair the Königssee boat with the Obersalzberg Documentation Centre; leave early.',
+    },
+    {
+      to: 'garmisch-partenkirchen',
+      tip: '맑은 날 톱니바퀴 열차와 케이블카로 추크슈피체에 오르고, 내려와 파르트나흐 협곡을 걷습니다.|On a clear day, cogwheel train and cable car up the Zugspitze, then a walk through the Partnach Gorge.',
+    },
   ],
   frankfurt: [
     {
       to: 'heidelberg',
       tip: '언덕 위 고성과 철학자의 길, 옛 다리를 걷습니다.|The castle ruins, the Philosophers’ Walk and the Old Bridge.',
+    },
+    {
+      to: 'wurzburg',
+      tip: '레지덴츠와 알테 마인 다리, 마리엔베르크 요새를 봅니다.|The Residenz, the Old Main Bridge and Marienberg Fortress.',
+    },
+    {
+      to: 'rudesheim',
+      tip: '케이블카로 니더발트 기념비에 오른 뒤 배로 라인 계곡을 내려가 로렐라이를 지나고, 강변 기차로 돌아옵니다. 배는 4~10월이 중심입니다.|Cable car to the Niederwald Monument, a boat down the Rhine Gorge past the Lorelei and the riverside train back; boats run mainly April–October.',
     },
   ],
   stuttgart: [
@@ -971,6 +991,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'rothenburg',
       tip: '성벽으로 둘러싸인 중세 마을. 슈타이나흐와 안스바흐에서 갈아탑니다.|The walled medieval town; change at Steinach or Ansbach.',
+    },
+    {
+      to: 'bamberg',
+      tip: '강 위의 구 시청사와 대성당, 작은 베네치아를 걷고 슐렝케를라에서 훈제 맥주를 맛봅니다.|The town hall on the river, the cathedral and Little Venice, then smoked beer at the Schlenkerla.',
+    },
+    {
+      to: 'wurzburg',
+      tip: '레지덴츠의 계단실 천장화를 보고 알테 마인 다리에서 프랑켄 와인을 마십니다. 오후엔 마리엔베르크 요새에 오릅니다.|The Residenz staircase fresco, a glass of Franconian wine on the Old Main Bridge, then up to Marienberg Fortress.',
+    },
+    {
+      to: 'regensburg',
+      tip: '돌다리와 대성당, 탑 저택이 늘어선 구시가를 걷고 소시지 주방에서 점심을 먹습니다.|The stone bridge, the cathedral and the old town of tower houses, with lunch at the sausage kitchen.',
     },
   ],
   dresden: [
@@ -1180,6 +1212,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'hallstatt',
       tip: '호숫가 마을과 소금 광산, 스카이워크 전망대를 봅니다. 버스는 바트이슐에서 갈아타기도 합니다.|The lakeside village, the salt mine and the Skywalk; buses may change at Bad Ischl.',
     },
+    {
+      to: 'berchtesgaden',
+      tip: '840번 버스로 국경을 넘어 쾨니히스제 호수 배를 타고 성 바르톨로메 성당까지 갑니다. 켈슈타인하우스는 2026년 10월 화재로 소실돼 갈 수 없습니다.|Bus 840 across the border to the Königssee and a boat to St Bartholomä; the Kehlsteinhaus burned down in October 2026 and cannot be visited.',
+    },
   ],
   bath: [
     {
@@ -1248,6 +1284,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'bolzano',
       tip: '브렌네르 고개를 넘어 이탈리아로. 아이스맨 외치 박물관을 봅니다.|Over the Brenner Pass to Italy for the Ötzi Iceman museum.',
     },
+    {
+      to: 'garmisch-partenkirchen',
+      tip: '미텐발트선 산악 철도로 국경을 넘어 추크슈피체나 파르트나흐 협곡에 갑니다.|Over the border on the Mittenwald Railway for the Zugspitze or the Partnach Gorge.',
+    },
   ],
   graz: [
     {
@@ -1276,11 +1316,19 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'basel',
       tip: '라인강 구시가와 바이엘러 재단 미술관을 봅니다.|The Rhine old town and the Fondation Beyeler.',
     },
+    {
+      to: 'colmar',
+      tip: '쁘띠트 베니스 운하와 운터린덴 미술관을 보고, 버스로 에기스하임이나 리크비르 같은 와인 마을에 들릅니다. 미술관은 화요일 휴관입니다.|The Petite Venise canals and the Unterlinden Museum, then a bus to a wine village such as Eguisheim or Riquewihr; the museum is closed on Tuesdays.',
+    },
   ],
   basel: [
     {
       to: 'strasbourg',
       tip: '쁘띠 프랑스와 대성당, 유람선을 즐깁니다.|Petite France, the cathedral and a canal boat.',
+    },
+    {
+      to: 'colmar',
+      tip: '국경을 넘어 쁘띠트 베니스 운하와 운터린덴 미술관을 봅니다. 미술관은 화요일 휴관입니다.|Across the border for the Petite Venise canals and the Unterlinden Museum; the museum is closed on Tuesdays.',
     },
   ],
   heidelberg: [
@@ -1293,6 +1341,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'frankfurt',
       tip: '뢰머 광장과 박물관 강변을 봅니다.|The Römerberg and the Museum Embankment.',
+    },
+    {
+      to: 'cochem',
+      tip: '모젤 강변 마을과 라이히스부르크 성을 봅니다. 엘츠 성까지 보려면 모젤케른역에서 숲길을 걸어 하루가 꽉 찹니다.|The Moselle town and the Reichsburg; adding Eltz Castle, a forest walk from Moselkern, fills the day.',
     },
   ],
   krakow: [

@@ -288,6 +288,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('르 파니에', 'Le Panier', 'Le Panier, Marseille', '옛 동네·먹거리|Old quarter and food', '구항구 위 가장 오래된 동네로 골목 식당이 많습니다.|The oldest quarter above the port, full of small places to eat.'),
     a('쿠르 쥘리앵', 'Cours Julien', 'Cours Julien, Marseille', '밤 문화|Nightlife', '바와 식당이 모인 6구 동네로 밤늦게 시끄럽습니다.|Bars and restaurants in the 6th; noisy late at night.'),
   ],
+  cochem: [
+    a('마을에서 묵기', 'In the town', 'Cochem', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('쾰른에서 다녀오기', 'Base in Cologne', 'Cologne', '거점에서 다녀오기|Day trip from a base', '쾰른에서 기차로 약 1시간 50분(코블렌츠 환승)입니다.|About 1 hr 50 by train from Cologne, changing at Koblenz.'),
+  ],
   cologne: [
     a('구시가 (알트슈타트)', 'Altstadt', 'Altstadt-Nord, Cologne', '처음 가는 여행에 추천|Best for a first visit', '대성당과 중앙역 옆이라 어디든 걸어서 갑니다.|By the cathedral and main station, with everything on foot.'),
     a('벨기에 지구', 'Belgisches Viertel', 'Belgisches Viertel, Cologne', '밤 문화·쇼핑|Nightlife and shopping', '카페와 상점, 바가 많은 멋진 동네입니다.|Cafés, boutiques and bars.'),
@@ -309,6 +313,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('도르촐', 'Dorćol', 'Dorćol, Belgrade', '중심가지만 덜 관광지|Central, less touristy', '강 쪽으로 내려가는 조용한 주거지로 숙소가 비교적 저렴합니다.|Quieter residential blocks sloping to the river, and cheaper.'),
     a('사바말라', 'Savamala', 'Savamala, Belgrade', '밤 문화|Nightlife', '강변 클럽이 새벽까지 열어 시끄럽습니다.|Riverboat clubs open until dawn; noisy.'),
     a('제문', 'Zemun', 'Zemun, Belgrade', '조용한 옛 마을|Quiet old town', '오스트리아-헝가리 시절 동네로 한적합니다. 중심까지 버스·택시로 15~30분입니다.|Austro-Hungarian streets, calm; 15–30 minutes by bus or taxi to the centre.'),
+  ],
+  rudesheim: [
+    a('마을에서 묵기', 'In the town', 'Rüdesheim am Rhein', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('프랑크푸르트에서 다녀오기', 'Base in Frankfurt', 'Frankfurt', '거점에서 다녀오기|Day trip from a base', '프랑크푸르트에서 기차로 약 1시간 10분입니다.|About 1 hr 10 by train from Frankfurt.'),
   ],
   frankfurt: [
     a('구시가 (알트슈타트)', 'Altstadt', 'Altstadt, Frankfurt', '짧은 여행·처음 가는 여행|Short and first visits', '관광지를 걸어서 다닙니다. 호텔이 적고 비싼 편입니다.|Sights on foot; few hotels, often expensive.'),
@@ -358,6 +366,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('생피에르 (역사 지구)', 'Saint-Pierre', 'Saint-Pierre, Bordeaux', '처음 가는 여행에 추천|Best for a first visit', '부르스 광장과 옛 골목이 있는 중심입니다. 주말 밤에는 시끄러운 거리가 있습니다.|The heart, by Place de la Bourse; some streets are loud on weekend nights.'),
     a('황금 삼각지', 'Triangle d’Or', 'Triangle d’Or, Bordeaux', '고급스럽고 조용함|Polished and calmer', '가장 세련된 동네로 숙박비가 한 단계 비쌉니다. 생피에르까지 걸어서 갑니다.|The smartest quarter, a step up in price, walkable to Saint-Pierre.'),
     a('샤르트롱', 'Chartrons', 'Chartrons, Bordeaux', '마을 분위기·강변|Village feel by the river', '옛 와인 상인 동네로 저녁이 조용하고 먹거리가 좋습니다.|The old wine-merchant district, quieter in the evening with good food.'),
+  ],
+  colmar: [
+    a('구시가에서 묵기', 'In the old town', 'Colmar', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('스트라스부르에서 다녀오기', 'Base in Strasbourg', 'Strasbourg', '거점에서 다녀오기|Day trip from a base', '스트라스부르에서 기차로 약 30분입니다.|About 30 min by train from Strasbourg.'),
   ],
   strasbourg: [
     a('그랑딜', 'Grande Île', 'Grande Île, Strasbourg', '관광에 가장 좋음|Best for sightseeing', '대성당이 있는 섬 구시가입니다. 보행자 구역이 많아 택시로 숙소 앞까지 가기 어렵습니다.|The island old town around the cathedral; pedestrian zones make taxi drop-offs awkward.'),
@@ -475,6 +487,26 @@ export const STAY: Record<string, StayArea[]> = {
   leipzig: [
     a('중심가', 'City Centre (Zentrum)', 'Zentrum, Leipzig', '처음 가는 여행에 추천|Best for a first visit', '토마스 교회와 구 시청 등 주요 명소를 걸어서 다닙니다. 낮에는 붐비고 저녁에는 조용해집니다.|St Thomas Church, the Old Town Hall and the other sights on foot; busy by day, quieter in the evening.'),
     a('플라크비츠', 'Plagwitz', 'Plagwitz, Leipzig', '예술·운하 분위기|Art and canals', '옛 공장 지대가 슈피너라이 같은 예술 공간과 운하 산책길로 바뀐 동네입니다. 주요 명소와는 떨어져 있습니다.|A former industrial district with the Spinnerei art centre and canal walks; further from the main sights.'),
+  ],
+  bamberg: [
+    a('구시가에서 묵기', 'In the old town', 'Bamberg', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('뉘른베르크에서 다녀오기', 'Base in Nuremberg', 'Nuremberg', '거점에서 다녀오기|Day trip from a base', '뉘른베르크에서 기차로 약 40분입니다.|About 40 min by train from Nuremberg.'),
+  ],
+  wurzburg: [
+    a('구시가에서 묵기', 'In the old town', 'Würzburg', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('뉘른베르크에서 다녀오기', 'Base in Nuremberg', 'Nuremberg', '거점에서 다녀오기|Day trip from a base', '뉘른베르크에서 기차로 약 55분, 프랑크푸르트에서 약 1시간 10분입니다.|About 55 min by train from Nuremberg or 1 hr 10 from Frankfurt.'),
+  ],
+  regensburg: [
+    a('구시가에서 묵기', 'In the old town', 'Regensburg', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('뉘른베르크에서 다녀오기', 'Base in Nuremberg', 'Nuremberg', '거점에서 다녀오기|Day trip from a base', '뉘른베르크에서 기차로 약 1시간, 뮌헨에서 약 1시간 25분입니다.|About an hour by train from Nuremberg or 1 hr 25 from Munich.'),
+  ],
+  berchtesgaden: [
+    a('마을에서 묵기', 'In the town', 'Berchtesgaden', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('잘츠부르크에서 다녀오기', 'Base in Salzburg', 'Salzburg', '거점에서 다녀오기|Day trip from a base', '잘츠부르크 중앙역에서 840번 버스로 약 45분입니다.|About 45 min on bus 840 from Salzburg main station.'),
+  ],
+  'garmisch-partenkirchen': [
+    a('마을에서 묵기', 'In the town', 'Garmisch-Partenkirchen', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('뮌헨에서 다녀오기', 'Base in Munich', 'Munich', '거점에서 다녀오기|Day trip from a base', '뮌헨 중앙역에서 기차로 약 1시간 20분입니다.|About 1 hr 20 by train from Munich main station.'),
   ],
   nuremberg: [
     a('구시가', 'Old Town (Altstadt)', 'Altstadt, Nuremberg', '처음 가는 여행에 추천|Best for a first visit', '성벽 안에 명소와 크리스마스 마켓이 모여 있어 걸어서 다닙니다. 여름과 마켓 시즌에는 빨리 찹니다.|The sights and the Christmas market are inside the walls on foot; it books up fast in summer and market season.'),

@@ -72,6 +72,9 @@ export const placesFRExtra: Place[] = [
   place('bordeaux-cafe-2', 'bordeaux', 'cafe', 'Black List Café', '27 Place Pey Berland, 33000 Bordeaux', '페이 베를랑 광장의 작은 스페셜티 커피 카페. 필터 커피와 브런치, 직접 구운 쿠키가 있습니다.', 'Small specialty coffee café on Place Pey-Berland with filter coffee, brunch and house-baked cookies.'),
   place('bordeaux-korean-1', 'bordeaux', 'korean', 'Mokoji Grill', '45 Rue du Pas Saint Georges, 33000 Bordeaux', '한국식 고기구이 식당. 큰 철판에 고기와 채소를 함께 굽고 비빔밥·김치도 있습니다. 오픈테이블로 예약할 수 있습니다.', 'Korean barbecue restaurant grilling meat and vegetables on a large shared pan, plus bibimbap and kimchi; bookable on OpenTable.'),
 
+  // —— colmar ——
+  place('colmar-fine_dining-1', 'colmar', 'fine_dining', 'JY\'S', '3 Allée du Champ de Mars, 68000 Colmar', '셰프 장이브 실링제의 미쉐린 2스타 레스토랑입니다.', 'Two-Michelin-star restaurant of chef Jean-Yves Schillinger.', { michelin: 'star2' }),
+  place('colmar-fine_dining-2', 'colmar', 'fine_dining', 'L\'Atelier du Peintre', '1 Rue Schongauer, 68000 Colmar', '구시가 골목의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant in an old-town lane.', { michelin: 'star1' }),
   // —— strasbourg ——
   place('strasbourg-fine_dining-1', 'strasbourg', 'fine_dining', 'Chez Yvonne – S’Burjerstuewel', '10 Rue du Sanglier, 67000 Strasbourg', '대성당 근처의 오래된 알자스 전통 윈스튜브. 피노 누아로 조린 돼지 볼살이 대표 메뉴이고 미쉐린 가이드에 실려 있습니다.', 'Long-established Alsatian winstub near the cathedral, known for pork cheeks braised in pinot noir; listed in the MICHELIN Guide.', { image: '/places/strasbourg-fine_dining-1.jpg' }),
   place('strasbourg-fine_dining-2', 'strasbourg', 'fine_dining', 'Le Tire-Bouchon', '5 Rue des Tailleurs de Pierre, 67000 Strasbourg', '대성당 근처 마로키 거리 쪽의 알자스 전통 윈스튜브. 베코프·학센·비벨레스케스 등을 냅니다.', 'Traditional Alsatian winstub near the cathedral on the rue du Maroquin side, serving baeckeoffe, ham knuckle and bibeleskäs.', { image: '/places/strasbourg-fine_dining-2.jpg' }),
