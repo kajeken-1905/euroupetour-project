@@ -117,6 +117,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('카지미에시', 'Kazimierz', 'Kazimierz, Kraków', '분위기와 밤 문화|Atmosphere and nightlife', '옛 유대인 지구로 카페와 바가 많습니다. 밤에 시끄러울 수 있습니다.|The old Jewish quarter, full of cafés and bars; can be noisy at night.'),
     a('포드구제', 'Podgórze', 'Podgórze, Kraków', '조용한 강 건너 동네|Quieter, across the river', '구시가까지 걸어서 20분쯤이고 카페와 갤러리가 있습니다.|About 20 minutes’ walk to the Old Town, with cafés and galleries.'),
   ],
+  hydra: [
+    a('항구 주변', 'Around the harbour', 'Hydra port', '마을에서 묵기|Stay in the village', '돌집 게스트하우스가 많고, 당일 손님이 떠난 저녁 항구가 조용합니다. 짐은 계단을 올라야 해 가볍게 오세요.|Many stone-house guesthouses and a quiet harbour once day-trippers leave; pack light, as there are steps.'),
+    a('아테네에서 다녀오기', 'Base in Athens', 'Athens', '거점에서 다녀오기|Day trip from a base', '피레우스에서 고속선으로 약 1시간 30분~2시간입니다. 여름엔 배표를 미리 사세요.|About 1 hr 30–2 hrs by fast boat from Piraeus; book tickets ahead in summer.'),
+  ],
   athens: [
     a('플라카', 'Plaka', 'Plaka, Athens', '처음 가는 여행에 추천|Best for a first visit', '아크로폴리스 아래 옛 동네로 걷기 좋습니다. 숙박비와 식당 값이 높은 편입니다.|The old quarter under the Acropolis, good on foot; rooms and restaurants cost more.'),
     a('모나스티라키', 'Monastiraki', 'Monastiraki, Athens', '짧은 여행에 편리|Handy for a short stay', '시장과 식당, 아크로폴리스가 가깝고 활기찹니다. 잠귀가 밝다면 피하세요.|Markets, food and the Acropolis close by; lively, so not for light sleepers.'),
@@ -1004,6 +1008,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('퓌센 구시가', 'Füssen old town', 'Füssen Altstadt', '기차역·식당이 있는 거점|Base with the station and restaurants', '중세 구시가에 식당이 있고 기차역이 있어 호엔슈반가우까지 78번 버스로 몇 분입니다.|A medieval old town with restaurants and the station; bus 78 reaches Hohenschwangau in minutes.'),
     a('호엔슈반가우', 'Hohenschwangau', 'Hohenschwangau', '성 바로 아래|Right below the castles', '매표소와 셔틀이 있어 이른 아침·늦은 시간 관람에 좋습니다. 숙소가 빨리 차고 저녁에는 상점과 식당이 문을 닫습니다.|The ticket centre and shuttle are here, good for early or late visits; rooms fill fast and shops and restaurants close in the evening.'),
     a('뮌헨에서 다녀오기', 'Day trip from Munich', 'München Hauptbahnhof', '숙소를 옮기기 싫을 때|If you’d rather not change hotels', '기차로 2시간 반~3시간이라 긴 하루가 됩니다. 성 관람은 시간 지정 표라 미리 예약해야 합니다.|2½–3 hours by train, so a long day; castle tickets are timed, so book ahead.'),
+  ],
+  avila: [
+    a('구시가', 'Old town', 'Plaza del Mercado Chico, Ávila', '하룻밤 묵을 때|For an overnight stay', '성벽 안에 묵으면 밤에 불 밝힌 성벽과 조용한 골목을 볼 수 있습니다.|Sleep inside the walls to see them floodlit at night and the lanes at their quietest.'),
+    a('마드리드에서 다녀오기', 'Day trip from Madrid', 'Madrid Príncipe Pío', '당일치기 가능|Doable as a day trip', '프린시페 피오역이나 차마르틴역에서 기차로 약 1시간 30분입니다.|About 1 hr 30 by train from Príncipe Pío or Chamartín.'),
   ],
   segovia: [
     a('구시가', 'Old town', 'Plaza Mayor, Segovia', '하룻밤 묵을 때|For an overnight stay', '수도교와 대성당, 알카사르를 걸어서 다니고 저녁 광장 분위기가 좋습니다. 여름에는 일찍 예약해야 합니다.|The aqueduct, cathedral and Alcázar on foot, with lively evening squares; book early in summer.'),

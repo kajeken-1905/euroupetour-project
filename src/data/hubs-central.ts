@@ -221,6 +221,11 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Intercambiador de Avenida de América', '아베니다 데 아메리카 버스터미널'],
     ],
   },
+  avila: {
+    air: [MAD()],
+    rail: [['Ávila', '아빌라역', '구시가까지 걸어서 약 15분|about 15 min walk to the old town']],
+    bus: [['Estación de Autobuses de Ávila', '아빌라 버스터미널']],
+  },
   segovia: {
     air: [MAD()],
     rail: [

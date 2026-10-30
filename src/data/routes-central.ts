@@ -85,6 +85,7 @@ export const routesCentral: RawRoute[] = [
 
   // —— es / ad ——
   r('madrid', 'segovia', 'train', 28, { ...R, fa: CHAMARTIN, fb: '세고비아 기오마르역|Segovia-Guiomar', n: AVE }),
+  r('madrid', 'avila', 'train', 90, { fa: '마드리드 프린시페 피오역|Madrid Príncipe Pío', fb: '아빌라역|Ávila', n: '차마르틴역 출발편도 있음|also from Chamartín' }),
   r('madrid', 'toledo', 'train', 33, { ...R, fa: ATOCHA, n: AVE }),
   r('madrid', 'salamanca', 'train', 100, { ...R, fa: CHAMARTIN }),
   r('madrid', 'zaragoza', 'train', 80, { ...R, fa: ATOCHA, n: AVE }),

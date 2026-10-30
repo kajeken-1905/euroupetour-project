@@ -163,6 +163,8 @@ export const visitIt: Record<string, HighlightVisit> = {
   'rome-h9': v(20, 30),
   'rome-h10': v(75, 90, { c: 'mon', b: 'rec', s: 'https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/', k: '2026-10', x: [['월요일에 쉬지만 2026년에는 매월 첫 월요일 오후에 특별 개방합니다.|Closed on Mondays, though in 2026 it opens on the afternoon of the first Monday of each month.', '2026-12-31']] }),
   'rome-h11': v(30, 60, { c: 'daily', s: 'https://vive.cultura.gov.it/en/', n: '기념관은 무료이고 옥상 전망 엘리베이터만 유료입니다.|The monument is free; only the panoramic lift to the roof is ticketed.', k: '2026-10' }),
+  'rome-h13': v(150, 210, { c: 'mon', s: 'https://ostiaantica.cultura.gov.it/', n: '포르타 산 파올로역(지하철 B선 피라미데 옆)에서 로마–리도 열차로 약 30분이며 로마 대중교통 표로 탑니다.|About 30 min on the Roma–Lido train from Porta San Paolo (next to Piramide, metro B), on a regular Rome transit ticket.', k: '2026-10' }),
+  'rome-h12': v(240, 300, { s: 'https://villae.cultura.gov.it/', n: '빌라 데스테는 월요일 오전에 쉽니다. 로마 폰테 맘몰로역(지하철 B선)에서 코트랄 버스로 약 1시간, 티부르티나역에서 기차로 약 1시간 걸립니다.|Villa d’Este is closed on Monday mornings. About an hour by Cotral bus from Ponte Mammolo (metro B) or by train from Tiburtina.', k: '2026-10' }),
   // Florence
   'florence-h1': v(60, 150, { b: 'req', s: 'https://duomo.firenze.it/en/home', n: '성당 입장은 무료이지만 돔(계단 463개)과 종탑은 시간 지정 예약이 필수입니다. 일요일에는 관광 입장이 제한됩니다.|The cathedral is free, but the dome (463 steps) and bell tower need a timed booking. Sightseeing is restricted on Sundays.', k: '2026-10' }),
   'florence-h2': v(150, 210, { c: 'mon', b: 'rec', s: 'https://www.uffizi.it/en', k: '2026-10' }),

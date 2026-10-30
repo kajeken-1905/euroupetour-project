@@ -23,6 +23,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   },
   naxos: { days: [['', 1, 2, 3]], trips: [['데메테르 신전과 할키|Temple of Demeter & Chalki', 5, 4]] },
   athens: [1, 2, 3, 6, 5, 4],
+  hydra: [1, 2, 3, 4, 5],
   santorini: [4, 3, 5, 2, 1],
   heraklion: [1, 2, 4, 3],
   mykonos: { days: [['', 3, 1, 2, 4]], trips: [['델로스|Delos', 5]] },

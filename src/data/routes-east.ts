@@ -24,6 +24,7 @@ export const routesEast: RawRoute[] = [
   r('thessaloniki', 'meteora', 'bus', 210, { n: '트리칼라에서 환승하는 편이 많음|many services change at Trikala' }),
   r('athens', 'delphi', 'bus', 180, { fa: '리오시온 버스터미널|KTEL Liosion' }),
   r('athens', 'sounion', 'bus', 110),
+  r('athens', 'hydra', 'ferry', 105, { fa: PIRAEUS, fb: '이드라 항구|Hydra port', n: FAST }),
   r('athens', 'nafplio', 'bus', 135, { fa: '키피소스 버스터미널|KTEL Kifissos' }),
   r('athens', 'olympia', 'bus', 330, { fa: '키피소스 버스터미널|KTEL Kifissos', n: '피르고스에서 환승|change at Pyrgos' }),
   r('athens', 'mykonos', 'flight', 40),

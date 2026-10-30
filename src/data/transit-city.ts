@@ -1878,6 +1878,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('alsa'),
     ],
   },
+  avila: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 기차역에서 성벽까지는 걸어서 약 15분입니다.',
+      en: 'Walk the old town; the walls are about 15 minutes on foot from the station.',
+    },
+    apps: [
+      ta('renfe'),
+    ],
+  },
   segovia: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     airportToCity: {
@@ -3369,6 +3379,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— gr ——
+  hydra: {
+    modes: ['walk', 'ferry'],
+    howTo: {
+      ko: '섬에는 자동차가 없어 걸어 다니고, 짐은 당나귀가 나르며, 다른 해변까지는 물 택시를 탑니다.',
+      en: 'There are no cars: walk, let donkeys carry the bags and take water taxis to other beaches.',
+    },
+    apps: [
+    ],
+  },
   athens: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

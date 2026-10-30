@@ -5051,6 +5051,22 @@ export const cities: City[] = [
         description: { ko: "흰 대리석으로 지은 통일 이탈리아 기념관입니다.", en: "White marble monument to Italian unification." },
         image: "/highlights/rome-11.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Altare%20della%20Patria",
+      },
+      {
+        id: "rome-h12",
+        name: { ko: "티볼리", en: "Tivoli" },
+        description: { ko: "로마 동쪽 언덕 마을. 분수 정원으로 유명한 빌라 데스테와 하드리아누스 황제의 별궁 빌라 아드리아나(둘 다 세계유산)를 하루에 봅니다.", en: "A hill town east of Rome with two World Heritage sites: the fountain gardens of Villa d’Este and Hadrian’s Villa." },
+        image: "/highlights/rome-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Villa%20d%27Este%20Tivoli",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "rome-h13",
+        name: { ko: "오스티아 안티카", en: "Ostia Antica" },
+        description: { ko: "고대 로마의 항구 도시 유적. 극장과 상점, 공동 주택과 모자이크 바닥이 폼페이처럼 넓게 남아 있습니다.", en: "The excavated port city of ancient Rome, with a theatre, shops, apartment blocks and mosaic floors spread out like a smaller Pompeii." },
+        image: "/highlights/rome-13.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Parco%20archeologico%20di%20Ostia%20antica",
+        group: { ko: "근교 당일치기", en: "Day trip" },
       }
 ],
   },
@@ -9071,6 +9087,56 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "hydra",
+    countryId: "gr",
+    lat: 37.3497,
+    lng: 23.4654,
+    signatureImage: "/cities/hydra.jpg",
+    name: { ko: "이드라", en: "Hydra" },
+    nativeName: "Ύδρα",
+    blurb: {
+      ko: "자동차가 없는 섬. 당나귀와 돌계단, 선장들의 저택이 남은 항구 마을입니다.",
+      en: "A car-free island of donkeys, stone steps and sea captains’ mansions around its harbour.",
+    },
+    highlights: [
+      {
+        id: "hydra-h1",
+        name: { ko: "이드라 항구", en: "Hydra harbour" },
+        description: { ko: "돌집이 계단식으로 둘러싼 말굽 모양 항구로 카페와 당나귀, 물 택시가 모여 있습니다.", en: "The horseshoe harbour ringed by tiers of stone houses, with cafés, donkeys and water taxis." },
+        image: "/highlights/hydra-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hydra%20Port",
+      },
+      {
+        id: "hydra-h2",
+        name: { ko: "성모 승천 수도원", en: "Monastery of the Dormition" },
+        description: { ko: "항구 앞 시계탑이 있는 수도원 겸 대성당으로 작은 교회 박물관이 있습니다.", en: "The harbourfront monastery-cathedral with its clock tower and a small church museum." },
+        image: "/highlights/hydra-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Holy%20Monastery%20of%20the%20Assumption%20of%20Virgin%20Mary%20Hydra",
+      },
+      {
+        id: "hydra-h3",
+        name: { ko: "라자로스 쿤투리오티스 저택", en: "Lazaros Koundouriotis Mansion" },
+        description: { ko: "독립전쟁 때 함대를 이끈 가문의 18세기 저택으로, 국립 역사 박물관 분관입니다.", en: "The 18th-century mansion of the family that led the fleet in the War of Independence, now a branch of the National Historical Museum." },
+        image: "/highlights/hydra-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lazaros%20Koundouriotis%20Historical%20Mansion",
+      },
+      {
+        id: "hydra-h4",
+        name: { ko: "이드라 역사 기록관 박물관", en: "Historical Archives Museum of Hydra" },
+        description: { ko: "항구 끝의 박물관으로 섬 선장들과 독립전쟁 자료를 전시합니다.", en: "A museum at the harbour’s edge on the island’s sea captains and the War of Independence." },
+        image: "/highlights/hydra-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Historical%20Archives%20Museum%20of%20Hydra",
+      },
+      {
+        id: "hydra-h5",
+        name: { ko: "카미니 해안 산책길", en: "Coastal walk to Kamini" },
+        description: { ko: "항구에서 바닷가 길을 따라 카미니·블리호스 마을까지 걷고 바위 해변에서 수영합니다.", en: "Walk the shore path from the harbour to Kamini and Vlychos and swim off the rocks." },
+        image: "/highlights/hydra-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kamini%20Hydra",
+      }
+    ],
+  },
+  {
     id: "zakynthos",
     countryId: "gr",
     lat: 37.787,
@@ -11671,6 +11737,14 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Santiago%20Bernab%C3%A9u%20Stadium",
         group: { ko: "그 외", en: "Further afield" },
       },
+      {
+        id: "madrid-h15",
+        name: { ko: "엘에스코리알 수도원", en: "El Escorial" },
+        description: { ko: "펠리페 2세가 세운 거대한 수도원 겸 왕궁. 왕실 묘소와 도서관이 있는 세계유산입니다.", en: "Philip II’s vast monastery-palace, a World Heritage site with the royal pantheon and a great library." },
+        image: "/highlights/madrid-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Real%20Monasterio%20de%20San%20Lorenzo%20de%20El%20Escorial",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
     ],
   },
   {
@@ -12650,6 +12724,63 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Alc%C3%A1zar%20de%20Segovia",
         group: { ko: "유대인 지구 · 알카사르", en: "Jewish quarter & the Alcázar" },
       },
+    ],
+  },
+  {
+    id: "avila",
+    countryId: "es",
+    lat: 40.6566,
+    lng: -4.6818,
+    signatureImage: "/cities/avila.jpg",
+    name: { ko: "아빌라", en: "Ávila" },
+    nativeName: "Ávila",
+    blurb: {
+      ko: "중세 성벽이 온전히 둘러싼 성녀 테레사의 고원 도시입니다.",
+      en: "A high-plateau city of St Teresa, wholly ringed by its medieval walls.",
+    },
+    highlights: [
+      {
+        id: "avila-h1",
+        name: { ko: "아빌라 성벽", en: "Walls of Ávila" },
+        description: { ko: "탑 87개가 이어진 11~12세기 성벽으로, 일부 구간을 걸으며 구시가를 내려다볼 수 있습니다.", en: "Eleventh- and twelfth-century walls with 87 towers; walk sections of the top over the old town." },
+        image: "/highlights/avila-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Muralla%20de%20%C3%81vila",
+      },
+      {
+        id: "avila-h2",
+        name: { ko: "아빌라 대성당", en: "Ávila Cathedral" },
+        description: { ko: "후진이 성벽의 일부를 이루는 요새 같은 고딕 대성당입니다.", en: "A fortress-like Gothic cathedral whose apse forms part of the city wall." },
+        image: "/highlights/avila-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20%C3%81vila",
+      },
+      {
+        id: "avila-h3",
+        name: { ko: "산 비센테 대성당", en: "Basilica of San Vicente" },
+        description: { ko: "성벽 밖의 로마네스크 성당으로 조각 정문과 성인의 무덤이 볼거리입니다.", en: "A Romanesque basilica outside the walls, with a carved portal and the saints’ tomb." },
+        image: "/highlights/avila-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Vicente%20%C3%81vila",
+      },
+      {
+        id: "avila-h4",
+        name: { ko: "산타 테레사 수녀원", en: "Convent of St Teresa" },
+        description: { ko: "성녀 테레사가 태어난 집 터에 세운 수녀원과 작은 박물관입니다.", en: "The convent built on St Teresa’s birthplace, with a small museum." },
+        image: "/highlights/avila-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Convento%20de%20Santa%20Teresa%20%C3%81vila",
+      },
+      {
+        id: "avila-h5",
+        name: { ko: "로스 쿠아트로 포스테스", en: "Los Cuatro Postes" },
+        description: { ko: "강 건너 언덕의 네 기둥 전망대로, 성벽 전체가 한눈에 들어옵니다. 해 질 녘이 좋습니다.", en: "The four-pillar viewpoint across the river, with the whole wall in view; best at sunset." },
+        image: "/highlights/avila-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Los%20Cuatro%20Postes%20%C3%81vila",
+      },
+      {
+        id: "avila-h6",
+        name: { ko: "산토 토마스 수도원", en: "Monastery of Santo Tomás" },
+        description: { ko: "가톨릭 군주들의 여름 궁전이던 수도원으로 회랑 세 곳과 왕자 후안의 무덤이 있습니다.", en: "A monastery once the Catholic Monarchs’ summer palace, with three cloisters and Prince John’s tomb." },
+        image: "/highlights/avila-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Real%20Monasterio%20de%20Santo%20Tom%C3%A1s%20%C3%81vila",
+      }
     ],
   },
   {

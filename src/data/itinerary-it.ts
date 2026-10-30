@@ -8,6 +8,7 @@ export const itineraryIt: Record<string, RawItinerary> = {
       ['분수와 광장|Fountains & piazzas', 5, 3, 7, 4, 9, 10],
       ['바티칸|The Vatican', 2, 8],
     ],
+    trips: [['티볼리|Tivoli', 12], ['오스티아 안티카|Ostia Antica', 13]],
   },
   milan: [1, 2, 5, 3, 7, 4],
   florence: {

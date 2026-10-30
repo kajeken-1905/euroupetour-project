@@ -7,6 +7,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
       ['구시가와 왕궁|Old town & Royal Palace', 5, 4, 11, 13, 3, 6, 10, 9],
       ['프라도와 레티로|Prado & Retiro', 8, 7, 1, 2, 14],
     ],
+    trips: [['엘에스코리알|El Escorial', 15]],
   },
   barcelona: {
     days: [
@@ -37,6 +38,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   salamanca: [1, 5, 2, 3, 4],
   santiago: [5, 2, 3, 1, 4],
   segovia: [1, 5, 6, 7, 3, 4, 8, 2],
+  avila: [1, 3, 2, 4, 6, 5],
   ronda: [5, 3, 1, 2, 4],
   girona: [4, 2, 1, 5, 3],
   montserrat: [1, 4, 3, 2],

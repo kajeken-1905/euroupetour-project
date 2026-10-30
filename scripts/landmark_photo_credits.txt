@@ -1064,3 +1064,19 @@ highlights/nimes-2.jpg | https://commons.wikimedia.org/wiki/File:Maison_Carree_i
 highlights/nimes-3.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_la_Romanit%C3%A9_de_N%C3%AEmes.jpeg | CC BY-SA 4.0 | Peter Glyn
 highlights/nimes-4.jpg | https://commons.wikimedia.org/wiki/File:Jardins_de_la_Fontaine_in_Nimes_13.jpg | CC BY-SA 4.0 | Krzysztof Golik
 highlights/nimes-5.jpg | https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)
+highlights/rome-12.jpg | https://commons.wikimedia.org/wiki/File:Gardens_and_fountains_in_Villa_d%27Este_(Tivoli)_(6).jpg | CC BY-SA 4.0 | Cruz.croce
+highlights/rome-13.jpg | https://commons.wikimedia.org/wiki/File:Panoramica_Teatro_di_Ostia.jpg | CC BY-SA 3.0 | Livioandronico2013
+highlights/madrid-15.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg | CC BY-SA 4.0 | Zvonimir Stamenov
+cities/avila.jpg | https://commons.wikimedia.org/wiki/File:%C3%81vila._Murallas_1.JPG | Public domain | Elena F D
+highlights/avila-1.jpg | https://commons.wikimedia.org/wiki/File:Muralla_de_%C3%81vila_01.jpg | CC BY 2.0 | Manuel M. Vicente from Spain
+highlights/avila-2.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_%C3%81vila_en_mayo_de_2022_09.jpg | CC BY-SA 4.0 | Emilio J. Rodríguez Posada
+highlights/avila-3.jpg | https://commons.wikimedia.org/wiki/File:Basilica_de_San_Vicente,_Avila-HDR.jpg | CC BY-SA 4.0 | Fernando
+highlights/avila-4.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Teresa_of_%C3%81vila_(Chiesa_di_Santa_Teresa_d%27Avila),_Scicli.jpg | CC0 | Julian Lupyan
+highlights/avila-5.jpg | https://commons.wikimedia.org/wiki/File:Cuatro_postes_avila.jpg | CC BY-SA 3.0 | Aloriel
+highlights/avila-6.jpg | https://commons.wikimedia.org/wiki/File:Avila_-_Convento_de_Santo_Tomas_01.jpg | CC BY-SA 3.0 es | Selbymay
+cities/hydra.jpg | https://commons.wikimedia.org/wiki/File:Traditional_settlement_on_the_island_of_Hydra,_Greece.jpg | CC BY-SA 4.0 | Violeta Meleti
+highlights/hydra-1.jpg | https://commons.wikimedia.org/wiki/File:Boat_in_Hydra_port.jpg | CC BY-SA 3.0 | Gpapwp
+highlights/hydra-2.jpg | https://commons.wikimedia.org/wiki/File:Ydraharbour.jpg | CC BY 3.0 | Matstrange at en.wikipedia
+highlights/hydra-3.jpg | https://commons.wikimedia.org/wiki/File:Pavlos_Koundouriotis_monument,_Hydra.jpg | CC0 | JBradyK
+highlights/hydra-4.jpg | https://commons.wikimedia.org/wiki/File:HYDRA_HISTORICAL_MUSEUM_3473.JPG | CC BY 3.0 | Macedon-40
+highlights/hydra-5.jpg | https://commons.wikimedia.org/wiki/File:Vlychos_Plakes_Beach_Hydra,_Greece_(44869876661).jpg | CC BY 2.0 | dronepicr

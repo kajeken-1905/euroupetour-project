@@ -69,6 +69,10 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Port of Rafina', '라피나 항구', '키클라데스행 · 공항에서 가까움|Cyclades ferries · close to the airport'],
     ],
   },
+  hydra: {
+    air: [ATH()],
+    port: [['Port of Hydra', '이드라 항구', '피레우스행 고속선|fast boats to Piraeus']],
+  },
   sounion: {
     air: [ATH()],
   },

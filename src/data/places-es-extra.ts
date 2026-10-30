@@ -162,6 +162,8 @@ export const placesESExtra: Place[] = [
   place('santiago-korean-1', 'santiago', 'korean', 'NuMaru', 'Rua de Vista Alegre 58, Santiago de Compostela', '비스타 알레그레 거리의 한식당. 라면·짜장·불닭 같은 메뉴가 있고 일·월요일은 쉽니다.', 'Korean restaurant on Rúa de Vista Alegre with ramyeon, jjajang and buldak chicken; closed Sundays and Mondays.'),
   place('santiago-korean-2', 'santiago', 'korean', 'Korean BBQ Fafa Buffet', 'Rúa de Frei Rosendo Salvado 16, 15701 Santiago de Compostela', '한국식 바비큐 뷔페. 고기와 해산물을 테이블에서 굽습니다.', 'Korean barbecue buffet where meat and seafood are grilled at the table.'),
 
+  // —— avila ——
+  place('avila-fine_dining-1', 'avila', 'fine_dining', 'Barro', 'Carretera de Salamanca 4, 05002 Ávila', '아빌라 출신 셰프 카를로스 카시야스의 미쉐린 1스타 창작 요리 레스토랑입니다.', 'Michelin one-star restaurant of creative cooking by Ávila-born chef Carlos Casillas.', { michelin: 'star1' }),
   // —— segovia ——
   place('segovia-fine_dining-1', 'segovia', 'fine_dining', 'José María', 'Cronista Lecea 11, 40001 Segovia', '구시가의 카스티야 요리 식당. 자체 농장의 새끼 돼지 구이(코치니요)를 내고 미쉐린 가이드에 실려 있습니다.', 'Old-town Castilian restaurant serving roast suckling pig from its own farm, listed in the Michelin Guide.'),
   place('segovia-fine_dining-2', 'segovia', 'fine_dining', 'Mesón Don Jimeno', 'Calle de Daoiz 15, 40003 Segovia', '알카사르와 마요르 광장 사이의 식당. 그릴 고기와 새끼 돼지 구이가 있고 예약하는 편이 좋습니다.', 'Restaurant between the Alcázar and the Plaza Mayor with grilled meats and roast suckling pig; booking advised.'),

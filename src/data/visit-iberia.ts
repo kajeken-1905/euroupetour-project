@@ -27,6 +27,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'madrid-h10': v(15, 20),
   'madrid-h9': v(20, 30, { c: 'mon', b: 'rec', s: 'https://www.esmadrid.com/en/tourist-information/temple-debod', n: '입장은 무료이지만 내부는 정원이 적어 예약 없이는 못 들어갈 수 있습니다. 바깥은 해 질 무렵이 가장 인기 있습니다.|Free, but the interior has a small capacity and entry is not guaranteed without a booking. Outside, sunset is the popular hour.', k: '2026-10' }),
   'madrid-h12': v(90, 120, { c: 'daily', b: 'rec', s: 'https://www.realmadrid.com/en-US/tour-bernabeu', n: '경기일에는 투어 동선과 시간이 줄어듭니다.|On match days the tour route and hours are reduced.', k: '2026-10' }),
+  'madrid-h15': v(120, 180, { c: 'mon', s: 'https://www.patrimonionacional.es/', n: '마드리드에서 근교선 C-8로 약 1시간입니다. 2026년 2월부터 공사로 서쪽 정면(왕들의 안뜰)으로 들어갑니다.|About an hour from Madrid on suburban line C-8. Since February 2026 visitors enter by the west front (Patio de Reyes) during works.', k: '2026-10' }),
   // Segovia
   'segovia-h1': v(20, 30),
   'segovia-h5': v(10, 15),
@@ -35,6 +36,12 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'segovia-h3': v(45, 60, { c: 'daily', s: 'https://catedralsegovia.es/en/', n: '일요일은 13시 30분부터 관광 입장이 됩니다.|On Sundays sightseeing entry starts at 1:30 pm.', k: '2026-10' }),
   'segovia-h4': v(30, 45),
   'segovia-h8': v(20, 30),
+  'avila-h1': v(60, 90, { c: 'mon', n: '월요일은 쉽니다(여름 성수기는 예외일 수 있음).|Closed on Mondays (except possibly in high summer).' }),
+  'avila-h2': v(45, 60),
+  'avila-h3': v(30, 45),
+  'avila-h4': v(20, 40),
+  'avila-h5': v(15, 30),
+  'avila-h6': v(45, 60),
   'segovia-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.alcazardesegovia.com/', n: '시간 지정 입장이며 탑(계단 152개)은 표가 따로입니다.|Entry is timed; the tower (152 steps) is ticketed separately.', k: '2026-10' }),
   // Salamanca
   'salamanca-h1': v(20, 30),

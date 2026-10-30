@@ -690,6 +690,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'cordoba',
       tip: '메스키타와 꽃 골목을 봅니다. 고속열차로 당일치기가 가능합니다.|The Mezquita and the flower-filled lanes; doable in a day by high-speed train.',
     },
+    {
+      to: 'avila',
+      tip: '성벽 위를 걷고 대성당과 산 비센테 성당을 봅니다. 해 질 녘 쿠아트로 포스테스 전망대가 좋습니다.|Walk the walls and see the cathedral and San Vicente; the Cuatro Postes viewpoint is best at sunset.',
+    },
   ],
   barcelona: [
     {
@@ -971,6 +975,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'nafplio',
       tip: '팔라미디 요새와 바닷가 구시가를 봅니다. 미케네·에피다우로스 유적과 묶는 투어가 많습니다.|The Palamidi fortress and the seaside old town; tours often add Mycenae and Epidaurus.',
+    },
+    {
+      to: 'hydra',
+      tip: '피레우스에서 고속선으로 가는 차 없는 섬. 항구와 선장 저택을 보고 바위 해변에서 수영합니다.|The car-free island by fast boat from Piraeus: the harbour, captains’ mansions and a swim off the rocks.',
     },
   ],
   split: [

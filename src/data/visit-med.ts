@@ -76,6 +76,11 @@ export const visitMed: Record<string, HighlightVisit> = {
   'nafplio-h5': v(60, 120),
   'nafplio-h6': v(90, 120, { c: 'daily', t: HH, n: '나플리오에서 차로 30분쯤 걸립니다.|About 30 minutes by road from Nafplio.', k: '2026-10' }),
   'nafplio-h7': v(60, 90, { c: 'daily', t: HH, n: '여름 주말 저녁에는 고대 극장에서 축제 공연이 열립니다.|On summer weekend evenings the theatre hosts festival performances.', k: '2026-10' }),
+  'hydra-h1': v(30, 60),
+  'hydra-h2': v(15, 30),
+  'hydra-h3': v(45, 60, { c: 'mon', s: 'https://nhmuseum.gr/en/', n: '언덕 위라 계단을 올라갑니다.|Up a flight of steps above the harbour.', k: '2026-10' }),
+  'hydra-h4': v(30, 45),
+  'hydra-h5': v(60, 120),
   // Olympia
   'olympia-h1': v(120, 150, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
   'olympia-h2': v(15, 20, { c: 'daily', t: HH, n: OLYMPIA, k: '2026-10' }),
