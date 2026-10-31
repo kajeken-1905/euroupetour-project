@@ -2907,14 +2907,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vienna%20State%20Opera",
       },
       {
-        id: "vienna-h8",
-        name: { ko: "멜크 수도원과 바하우 계곡", en: "Melk Abbey and the Wachau" },
-        description: { ko: "도나우강 위 언덕의 바로크 수도원과 도서관을 보고, 포도밭 사이를 흐르는 바하우 계곡을 배로 내려갑니다.", en: "The Baroque abbey and library above the Danube, then a boat down the vineyard-lined Wachau valley." },
-        image: "/highlights/vienna-8.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stift%20Melk",
-        group: { ko: "근교 당일치기", en: "Day trip" },
-      },
-      {
         id: "vienna-h9",
         name: { ko: "미술사 박물관", en: "Kunsthistorisches Museum" },
         description: { ko: "합스부르크 왕가가 모은 브뤼헐·벨라스케스·라파엘로 등의 명화가 있는 유럽 최고의 미술관 가운데 하나입니다.", en: "One of Europe’s great art museums, built on the Habsburg collections of Bruegel, Velázquez, Raphael and more." },
@@ -2984,6 +2976,14 @@ export const cities: City[] = [
         image: "/highlights/vienna-18.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zentralfriedhof%20Wien%20Tor%202",
       },
+      {
+        id: "vienna-h8",
+        name: { ko: "멜크 수도원과 바하우 계곡", en: "Melk Abbey and the Wachau" },
+        description: { ko: "도나우강 위 언덕의 바로크 수도원과 도서관을 보고, 포도밭 사이를 흐르는 바하우 계곡을 배로 내려갑니다.", en: "The Baroque abbey and library above the Danube, then a boat down the vineyard-lined Wachau valley." },
+        image: "/highlights/vienna-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stift%20Melk",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
     ],
   },
   {
@@ -3049,14 +3049,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kapitelgasse%201%2C%205020%20Salzburg",
       },
       {
-        id: "salzburg-h8",
-        name: { ko: "장크트볼프강과 샤프베르크", en: "St. Wolfgang and the Schafberg" },
-        description: { ko: "볼프강 호숫가 순례 마을에서 톱니바퀴 열차로 샤프베르크 정상에 올라 호수들을 내려다봅니다.", en: "A lakeside pilgrimage village on the Wolfgangsee, with a cogwheel railway up the Schafberg over the lakes." },
-        image: "/highlights/salzburg-8.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St.%20Wolfgang%20im%20Salzkammergut",
-        group: { ko: "근교 당일치기", en: "Day trip" },
-      },
-      {
         id: "salzburg-h9",
         name: { ko: "게트라이데 거리", en: "Getreidegasse" },
         description: { ko: "철제 간판이 줄지어 걸린 좁은 쇼핑 거리로 모차르트 생가가 이 거리에 있습니다.", en: "The narrow shopping lane of wrought-iron signs, home to Mozart’s birthplace." },
@@ -3085,13 +3077,21 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stift%20St.%20Peter%20Salzburg",
       },
       {
+        id: "salzburg-h8",
+        name: { ko: "장크트볼프강과 샤프베르크", en: "St. Wolfgang and the Schafberg" },
+        description: { ko: "볼프강 호숫가 순례 마을에서 톱니바퀴 열차로 샤프베르크 정상에 올라 호수들을 내려다봅니다.", en: "A lakeside pilgrimage village on the Wolfgangsee, with a cogwheel railway up the Schafberg over the lakes." },
+        image: "/highlights/salzburg-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St.%20Wolfgang%20im%20Salzkammergut",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
         id: "salzburg-h13",
         name: { ko: "운터스베르크 케이블카", en: "Untersberg cable car" },
         description: { ko: "잘츠부르크 남쪽 운터스베르크 정상(약 1,800m)에 올라 알프스와 시내를 내려다봅니다.", en: "Up the Untersberg (about 1,800 m) south of Salzburg for views over the Alps and the city." },
         image: "/highlights/salzburg-13.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Untersbergbahn",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      },
+      }
     ],
   },
   {
@@ -3150,14 +3150,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bergisel%20Sprungschanze",
       },
       {
-        id: "innsbruck-h7",
-        name: { ko: "스와로브스키 크리스탈 세계", en: "Swarovski Crystal Worlds" },
-        description: { ko: "거인 머리 모양 입구 안에 크리스털 예술 공간이 이어지는 바텐스의 체험관입니다.", en: "Crystal art chambers behind a giant’s-head entrance at Wattens." },
-        image: "/highlights/innsbruck-7.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Swarovski%20Kristallwelten%20Wattens",
-        group: { ko: "근교 당일치기", en: "Day trip" },
-      },
-      {
         id: "innsbruck-h8",
         name: { ko: "마리아 테레지아 거리", en: "Maria-Theresien-Straße" },
         description: { ko: "안나 기념주와 개선문이 있는 인스브루크의 중심 거리로 뒤로 노르드케테 산이 보입니다.", en: "Innsbruck’s main street of St Anne’s Column and the Triumphal Arch, framed by the Nordkette." },
@@ -3171,6 +3163,14 @@ export const cities: City[] = [
         image: "/highlights/innsbruck-9.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Alpenzoo%20Innsbruck",
       },
+      {
+        id: "innsbruck-h7",
+        name: { ko: "스와로브스키 크리스탈 세계", en: "Swarovski Crystal Worlds" },
+        description: { ko: "거인 머리 모양 입구 안에 크리스털 예술 공간이 이어지는 바텐스의 체험관입니다.", en: "Crystal art chambers behind a giant’s-head entrance at Wattens." },
+        image: "/highlights/innsbruck-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Swarovski%20Kristallwelten%20Wattens",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
     ],
   },
   {
@@ -5529,19 +5529,19 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sesselbahn%20Cochem",
       },
       {
+        id: "cochem-h5",
+        name: { ko: "구시가 시장 광장", en: "Market square" },
+        description: { ko: "시청과 분수, 목조 가옥이 둘러싼 작은 광장입니다.", en: "A small square framed by the town hall, a fountain and half-timbered houses." },
+        image: "/highlights/cochem-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Marktplatz%20Cochem",
+      },
+      {
         id: "cochem-h4",
         name: { ko: "엘츠 성", en: "Eltz Castle" },
         description: { ko: "숲속 바위 위에 선 중세 성으로 850년 넘게 같은 가문이 지켜 왔습니다.", en: "A medieval castle on a rock in the forest, owned by the same family for over 850 years." },
         image: "/highlights/cochem-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Burg%20Eltz",
         group: { ko: "근교", en: "Nearby" },
-      },
-      {
-        id: "cochem-h5",
-        name: { ko: "구시가 시장 광장", en: "Market square" },
-        description: { ko: "시청과 분수, 목조 가옥이 둘러싼 작은 광장입니다.", en: "A small square framed by the town hall, a fountain and half-timbered houses." },
-        image: "/highlights/cochem-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Marktplatz%20Cochem",
       }
     ],
   },
@@ -7295,19 +7295,19 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Historische%20Wurstkuchl%20Regensburg",
       },
       {
+        id: "regensburg-h6",
+        name: { ko: "투른 운트 탁시스 궁전", en: "Thurn und Taxis Palace" },
+        description: { ko: "유럽 우편 사업으로 부를 쌓은 귀족 가문이 지금도 사는 옛 수도원 궁전입니다.", en: "A former abbey turned palace, still home to the princely family that grew rich on Europe’s postal service." },
+        image: "/highlights/regensburg-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Schloss%20Thurn%20und%20Taxis%20Regensburg",
+      },
+      {
         id: "regensburg-h5",
         name: { ko: "발할라", en: "Walhalla" },
         description: { ko: "도나우강 위 언덕에 그리스 신전 모양으로 지은 독일 위인들의 명예의 전당입니다.", en: "A hall of fame for great Germans, built like a Greek temple on a hill above the Danube." },
         image: "/highlights/regensburg-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Walhalla%20Donaustauf",
         group: { ko: "근교", en: "Nearby" },
-      },
-      {
-        id: "regensburg-h6",
-        name: { ko: "투른 운트 탁시스 궁전", en: "Thurn und Taxis Palace" },
-        description: { ko: "유럽 우편 사업으로 부를 쌓은 귀족 가문이 지금도 사는 옛 수도원 궁전입니다.", en: "A former abbey turned palace, still home to the princely family that grew rich on Europe’s postal service." },
-        image: "/highlights/regensburg-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Schloss%20Thurn%20und%20Taxis%20Regensburg",
       }
     ],
   },
