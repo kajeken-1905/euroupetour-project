@@ -1261,3 +1261,4 @@ highlights/rome-28.jpg | https://commons.wikimedia.org/wiki/File:Baths_of_Caraca
 highlights/rome-4.jpg | own photo IMG_7473 (site owner, 2023-11) | — | site owner
 highlights/rome-9.jpg | own photo IMG_7465 (site owner, 2023-11) | — | site owner
 highlights/rome-15.jpg | https://commons.wikimedia.org/wiki/File:Museo_Nazionale_Romano_-_panoramio.jpg | CC BY 3.0 | Mister No
+highlights/toledo-3.jpg | https://commons.wikimedia.org/wiki/File:59779-Toledo.jpg | CC BY 2.0 | xiquinhosilva
