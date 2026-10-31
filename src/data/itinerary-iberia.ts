@@ -52,12 +52,20 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   palma: [1, 3, 5, 2, 4, 6],
   lisbon: {
     days: [
-      ['바이샤와 알파마|Baixa & Alfama', 15, 14, 8, 7, 11, 13, 4, 3],
-      ['벨렝과 강변|Belém & the riverfront', 2, 9, 1, 6, 5],
+      ['호시우에서 바이샤·알파마|Rossio, Baixa & Alfama', 15, 8, 24, 7, 11, 13, 4, 23, 3],
+      ['벨렝과 강변|Belém & the riverfront', 2, 9, 1, 6, 5, 27],
+      ['굴벤키안·해양관과 시아두|Gulbenkian, the Oceanário & Chiado', 20, 21, 17, 25, 22],
     ],
     trips: [['마프라 궁전|Mafra', 18]],
   },
-  porto: [8, 6, 3, 4, 9, 7, 1, 2, 5],
+  porto: {
+    days: [
+      ['볼량에서 대성당·히베이라|Bolhão, the cathedral & Ribeira', 8, 18, 19, 17, 6, 11, 12, 13, 1],
+      ['다리 건너 가이아와 클레리구스|Across the bridge to Gaia, then Clérigos', 2, 20, 5, 3, 4, 7, 9, 15],
+      ['보아비스타에서 바다까지|Boavista to the sea', 21, 14, 22],
+    ],
+    trips: [['도루 계곡|Douro Valley', 16]],
+  },
   sintra: { days: [['', 1, 3, 2, 4]], trips: [['몬세라트와 호카곶|Monserrate & Cabo da Roca', 5, 6]] },
   faro: {
     days: [['', 4, 1, 2]],
@@ -70,7 +78,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   funchal: { days: [['', 3, 4, 1, 2]], trips: [['카마라 드 로부스|Câmara de Lobos', 5]] },
   lagos: [2, 3, 4, 5, 1],
   cascais: [1, 5, 3, 4, 2],
-  aveiro: { days: [['', 6, 1, 2, 3, 5]], trips: [['코스타 노바|Costa Nova', 4]] },
+  aveiro: { days: [['', 6, 1, 2, 3, 7, 5]], trips: [['코스타 노바와 바하|Costa Nova & Barra', 4, 8], ['비스타 알레그르|Vista Alegre', 9]] },
   tomar: [1, 3, 5, 4, 2],
   fatima: { days: [['', 3, 4, 1, 2, 5]], trips: [['바탈랴 수도원|Batalha Monastery', 6]] },
   evora: [4, 3, 2, 1, 5],

@@ -1262,3 +1262,46 @@ highlights/rome-4.jpg | own photo IMG_7473 (site owner, 2023-11) | — | site ow
 highlights/rome-9.jpg | own photo IMG_7465 (site owner, 2023-11) | — | site owner
 highlights/rome-15.jpg | https://commons.wikimedia.org/wiki/File:Museo_Nazionale_Romano_-_panoramio.jpg | CC BY 3.0 | Mister No
 highlights/toledo-3.jpg | https://commons.wikimedia.org/wiki/File:59779-Toledo.jpg | CC BY 2.0 | xiquinhosilva
+highlights/lisbon-2.jpg | own photo IMG_0887 (site owner, 2024-11) | — | site owner
+highlights/lisbon-10.jpg | own photo IMG_1034 (site owner, 2024-11) | — | site owner
+highlights/lisbon-14.jpg | own photo IMG_0001 (site owner, 2024-11) | — | site owner
+highlights/lisbon-19.jpg | https://commons.wikimedia.org/wiki/File:Museu_Nacional_do_Azulejo_-_eksponat_ceramika_P1020513.jpg | CC BY-SA 4.0 | Piotr Biernacki
+highlights/lisbon-20.jpg | https://commons.wikimedia.org/wiki/File:Museu_Calouste_Gulbenkian_03.jpg | CC BY-SA 4.0 | GualdimG
+highlights/lisbon-21.jpg | https://commons.wikimedia.org/wiki/File:Ocean%C3%A1rio_de_Lisboa_(53870803219).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/lisbon-22.jpg | https://commons.wikimedia.org/wiki/File:Largo_do_Chiado,_Lisbon,_May_2017_(04).JPG | CC BY-SA 4.0 | Ardfern
+highlights/lisbon-23.jpg | https://commons.wikimedia.org/wiki/File:Miradouro_Nossa_Senhora_do_Monte_II.jpg | CC BY-SA 3.0 | Filipe Rocha,user:sacavem (pt) http://pt.wikipedia.org/wiki/
+highlights/lisbon-24.jpg | own photo IMG_9969 (site owner, 2024-11) | — | site owner
+highlights/lisbon-25.jpg | own photo IMG_0038 (site owner, 2024-11) | — | site owner
+highlights/lisbon-26.jpg | own photo IMG_1110 (site owner, 2024-11) | — | site owner
+highlights/porto-4.jpg | own photo IMG_0301 (site owner, 2024-11) | — | site owner
+highlights/porto-11.jpg | own photo IMG_0616 (site owner, 2024-11) | — | site owner
+highlights/porto-12.jpg | own photo IMG_0286 (site owner, 2024-11) | — | site owner
+highlights/porto-13.jpg | https://commons.wikimedia.org/wiki/File:Igreja_de_S%C3%A3o_Francisco_(Porto)_01.jpg | CC BY-SA 4.0 | John Samuel
+highlights/porto-14.jpg | https://commons.wikimedia.org/wiki/File:Funda%C3%A7%C3%A3o_Serralves_(51707326939).jpg | CC BY 2.0 | Bex Walton from London, England
+highlights/porto-15.jpg | https://commons.wikimedia.org/wiki/File:Gardens_of_the_Pal%C3%A1cio_de_Cristal_(Porto)_04.jpg | CC BY-SA 4.0 | John Samuel
+highlights/porto-16.jpg | https://commons.wikimedia.org/wiki/File:The_Douro_Valley_(10185551276).jpg | CC BY 2.0 | mat's eye
+highlights/porto-17.jpg | own photo IMG_0274 (site owner, 2024-11) | — | site owner
+highlights/porto-18.jpg | own photo IMG_0352 (site owner, 2024-11) | — | site owner
+highlights/porto-19.jpg | own photo IMG_0379 (site owner, 2024-11) | — | site owner
+highlights/porto-20.jpg | own photo IMG_0626 (site owner, 2024-11) | — | site owner
+highlights/porto-21.jpg | own photo IMG_0402 (site owner, 2024-11) | — | site owner
+highlights/porto-22.jpg | own photo IMG_0423 (site owner, 2024-11) | — | site owner
+highlights/coimbra-1.jpg | own photo IMG_0953 (site owner, 2024-11) | — | site owner
+highlights/coimbra-4.jpg | own photo IMG_0933 (site owner, 2024-11) | — | site owner
+highlights/aveiro-6.jpg | own photo IMG_0682 (site owner, 2024-11) | — | site owner
+highlights/aveiro-7.jpg | own photo IMG_0776 (site owner, 2024-11) | — | site owner
+highlights/aveiro-8.jpg | https://commons.wikimedia.org/wiki/File:Farol_da_Barra_(5923817481).jpg | CC BY 2.0 | jfcfar from Aveiro, Portugal
+highlights/aveiro-9.jpg | https://commons.wikimedia.org/wiki/File:VISTA_ALEGRE_-_%C3%8Dlhavo_-_capela.jpg | CC BY-SA 4.0 | Isabel Pinheiro mcp
+highlights/lisbon-1.jpg | own photo IMG_0864 (site owner, 2024-11) | — | site owner
+highlights/lisbon-7.jpg | own photo IMG_0021 (site owner, 2024-11) | — | site owner
+highlights/lisbon-8.jpg | own photo IMG_1019 (site owner, 2024-11) | — | site owner
+highlights/lisbon-9.jpg | own photo IMG_0884 (site owner, 2024-11) | — | site owner
+highlights/porto-1.jpg | own photo IMG_0670 (site owner, 2024-11) | — | site owner
+highlights/porto-2.jpg | own photo IMG_0472 (site owner, 2024-11) | — | site owner
+highlights/porto-6.jpg | own photo IMG_0511 (site owner, 2024-11) | — | site owner
+highlights/porto-7.jpg | own photo IMG_0270 (site owner, 2024-11) | — | site owner
+highlights/coimbra-6.jpg | own photo IMG_0957 (site owner, 2024-11) | — | site owner
+highlights/aveiro-1.jpg | own photo IMG_0688 (site owner, 2024-11) | — | site owner
+highlights/aveiro-2.jpg | own photo IMG_0778 (site owner, 2024-11) | — | site owner
+highlights/aveiro-4.jpg | own photo IMG_0737 (site owner, 2024-11) | — | site owner
+highlights/lisbon-27.jpg | https://commons.wikimedia.org/wiki/File:Lisboa_Rua_Nova_do_Carvalho_(54388054273).jpg | CC BY 2.0 | Jorge Franganillo
