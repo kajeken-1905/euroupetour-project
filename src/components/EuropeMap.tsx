@@ -56,6 +56,8 @@ function useWideScreen() {
 }
 
 const ICELAND_ISO = '352'
+/** South and North Korea, kept on the map as home for Korean travellers (see gen-europe-topo.mjs). */
+const KOREA_ISO = new Set(['410', '408'])
 const SELECTED_ZOOM = 4
 const MAX_ZOOM = 6
 /** Shrinks the fit-to-screen target box a bit so a selected country isn't flush against the edges. */
@@ -218,6 +220,24 @@ export function EuropeMap() {
     () => geoPath(geoMercator().center(DEFAULT_CENTER).scale(MAP_SCALE).translate([MAP_WIDTH / 2, MAP_HEIGHT / 2])),
     [DEFAULT_CENTER, MAP_SCALE, MAP_WIDTH, MAP_HEIGHT],
   )
+
+  // The Korean peninsula (South and North together) is always filled with the Taegukgi, sized to the
+  // two mainland outlines so Jeju and Ulleungdo do not stretch it.
+  const korea = useMemo(() => {
+    const parts = geoData.features.filter((f) => KOREA_ISO.has(String(f.id)))
+    if (parts.length === 0) return null
+    const polygons = parts.flatMap((f) =>
+      f.geometry.type === 'MultiPolygon' ? (f.geometry as MultiPolygon).coordinates : [(f.geometry as Polygon).coordinates],
+    )
+    const whole: Feature<MultiPolygon> = { type: 'Feature', geometry: { type: 'MultiPolygon', coordinates: polygons }, properties: {} }
+    const mainland: Feature<MultiPolygon> = {
+      type: 'Feature',
+      geometry: { type: 'MultiPolygon', coordinates: parts.map((f) => mainlandRing(f).geometry.coordinates) },
+      properties: {},
+    }
+    const [[x0, y0], [x1, y1]] = boundsPath.bounds(mainland)
+    return { d: boundsPath(whole), bounds: { x: x0, y: y0, width: x1 - x0, height: y1 - y0 } }
+  }, [geoData, boundsPath])
 
   const centroidById = useMemo(() => {
     const map = new Map<string, [number, number]>()
@@ -468,6 +488,27 @@ export function EuropeMap() {
                 })
             }
           </Geographies>
+          {korea?.d ? (
+            <g className="map-korea-flag" style={{ pointerEvents: 'none' }}>
+              <defs>
+                <clipPath id="flag-clip-korea">
+                  <path d={korea.d} />
+                </clipPath>
+              </defs>
+              {/* The peninsula is tall, so the whole flag (trigrams included) is fitted to its width on the
+                  flag's own white field instead of being cropped down to the taeguk. */}
+              <path d={korea.d} fill="#fff" stroke="#b9b0a2" strokeWidth={0.6} vectorEffect="non-scaling-stroke" />
+              <image
+                href={assetUrl('/flags/kr.svg')}
+                x={korea.bounds.x}
+                y={korea.bounds.y}
+                width={korea.bounds.width}
+                height={korea.bounds.height}
+                preserveAspectRatio="xMidYMid meet"
+                clipPath="url(#flag-clip-korea)"
+              />
+            </g>
+          ) : null}
           {countries
             .filter((c) => MICRO_STATE_IDS.has(c.id) && MICRO_STATE_COORDS[c.id])
             .map((c) => {
