@@ -4,9 +4,9 @@ import type { RawItinerary } from './itinerary-helper'
 export const itineraryIt: Record<string, RawItinerary> = {
   rome: {
     days: [
-      ['고대 로마|Ancient Rome', 1, 6, 11],
-      ['분수와 광장|Fountains & piazzas', 5, 3, 7, 4, 9, 10],
-      ['바티칸|The Vatican', 2, 8],
+      ['테르미니에서 스페인 광장까지|Termini to the Spanish Steps', 15, 14, 7, 3, 5, 16, 17],
+      ['고대 로마|Ancient Rome', 1, 19, 6, 20, 21, 11, 23],
+      ['바티칸에서 판테온까지|The Vatican to the Pantheon', 2, 25, 8, 10, 9, 26, 4, 27],
     ],
     trips: [['티볼리|Tivoli', 12], ['오스티아 안티카|Ostia Antica', 13]],
   },

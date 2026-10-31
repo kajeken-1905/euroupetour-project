@@ -690,9 +690,7 @@ highlights/moscow-2.jpg | https://commons.wikimedia.org/wiki/File:Saint_Basil%27
 highlights/moscow-3.jpg | https://commons.wikimedia.org/wiki/File:Moscow_TretyakovGallery(Kadashevskaya)_020_8267.jpg | CC BY-SA 4.0 | Ludvig14
 highlights/moscow-4.jpg | https://commons.wikimedia.org/wiki/File:Moscow_-_2025_-_Bolshoi_Theatre.jpg | CC BY 4.0 | Юрий Д.К.
 highlights/moscow-5.jpg | https://commons.wikimedia.org/wiki/File:20251211_Komsomolskaya_metro_station_(26096).jpg | CC BY 4.0 | Sergey A. Demidov / Sergey A. Demidov
-cities/saint-petersburg.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Peter_II_Neva_Saint_Petersburg.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.  
-
-Feel free to use my photos, but ple
+cities/saint-petersburg.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Peter_II_Neva_Saint_Petersburg.jpg | CC BY-SA 3.0 | Wolfgang Moroder
 highlights/saint-petersburg-1.jpg | https://commons.wikimedia.org/wiki/File:00_2038_Winter_Palace_-_Hermitage_Museum_(St._Petersburg).jpg | CC BY-SA 4.0 | W. Bulach
 highlights/saint-petersburg-2.jpg | https://commons.wikimedia.org/wiki/File:Grand_Cascade_in_Peterhof_01.jpg | CC BY-SA 4.0 | Florstein (Telegram:WikiPhoto.Space)
 highlights/saint-petersburg-3.jpg | https://commons.wikimedia.org/wiki/File:Church_of_the_Savior_on_Spilled_Blood,_St.-Petersberg,_Russia.JPG | CC BY-SA 3.0 | Perfektangelll
@@ -1246,3 +1244,20 @@ highlights/venice-2.jpg | own photo IMG_6771_B (site owner, 2023-10-31) | — | 
 highlights/venice-3.jpg | own photo IMG_6752 (site owner, 2023-10-31) | — | site owner
 highlights/venice-21.jpg | https://commons.wikimedia.org/wiki/File:Vaporetto_stop,_Ca%27_d%27Oro,_Venice,_Italy.tif | CC BY-SA 4.0 | Maitra
 highlights/florence-10.jpg | https://www.flickr.com/photos/73111976@N04/8494419323 | BY 2.0 | StefanoRomeTours
+highlights/rome-14.jpg | own photo IMG_7190 (site owner, 2023-11) | — | site owner
+highlights/rome-16.jpg | own photo IMG_7219 (site owner, 2023-11) | — | site owner
+highlights/rome-17.jpg | https://commons.wikimedia.org/wiki/File:Piazza_del_Popolo_in_Rome_(1).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/rome-18.jpg | https://commons.wikimedia.org/wiki/File:Galleria_borghese_facade.jpg | CC BY-SA 3.0 | Alessio Damato
+highlights/rome-19.jpg | own photo IMG_7519 (site owner, 2023-11) | — | site owner
+highlights/rome-20.jpg | https://commons.wikimedia.org/wiki/File:Palatine_Hill_from_Circus_Maximus_Rome.jpg | CC0 | Jebulon
+highlights/rome-21.jpg | own photo IMG_7549 (site owner, 2023-11) | — | site owner
+highlights/rome-22.jpg | https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg | CC BY-SA 3.0 | Wolfgang Moroder
+highlights/rome-23.jpg | https://commons.wikimedia.org/wiki/File:Roma-_Bocca_della_Verit%C3%A0_-_52347330118.jpg | CC BY 2.0 | Jorge Franganillo
+highlights/rome-24.jpg | https://commons.wikimedia.org/wiki/File:Santa_Maria_in_Trastevere_(Rome).jpg | CC BY-SA 4.0 | Brigante mandrogno
+highlights/rome-25.jpg | own photo IMG_7421 (site owner, 2023-11) | — | site owner
+highlights/rome-26.jpg | https://commons.wikimedia.org/wiki/File:Campo_dei_Fiori.jpg | CC BY-SA 3.0 | Myrabella
+highlights/rome-27.jpg | own photo IMG_7660 (site owner, 2023-11) | — | site owner
+highlights/rome-28.jpg | https://commons.wikimedia.org/wiki/File:Baths_of_Caracalla,_facing_Caldarium.jpg | CC BY-SA 4.0 | Ethan Doyle White
+highlights/rome-4.jpg | own photo IMG_7473 (site owner, 2023-11) | — | site owner
+highlights/rome-9.jpg | own photo IMG_7465 (site owner, 2023-11) | — | site owner
+highlights/rome-15.jpg | https://commons.wikimedia.org/wiki/File:Museo_Nazionale_Romano_-_panoramio.jpg | CC BY 3.0 | Mister No
