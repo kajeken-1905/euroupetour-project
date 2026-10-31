@@ -2611,18 +2611,6 @@ button.back-link {
     gap: 16px;
   }
 
-  /* Festivals as four cards a row, the photo at the sight cards' 3:2. */
-  .festival-list {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 16px;
-    align-items: start;
-  }
-
-  .festival-list .festival-card {
-    margin-top: 0;
-  }
-
   /* Onward routes, night trains, scenic trains and airports in four columns too. */
   .route-list,
   .night-train-list {
@@ -4270,8 +4258,9 @@ a.plan-btn {
   color: #b4237d;
 }
 
-.festival-card {
-  margin-top: 10px;
+/* Festival cards have no link wrapper giving the photo its row, so the photo sets its own height (3:2 on PC). */
+.festival-card .highlight-card-media {
+  min-height: 140px;
 }
 
 .festival-when {

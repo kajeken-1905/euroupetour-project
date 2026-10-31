@@ -31,7 +31,7 @@ import { ItineraryPanel } from '../components/ItineraryPanel'
 import { CityMap } from '../components/CityMap'
 import { PlannerPanel } from '../components/PlannerPanel'
 import { SeasonPanel } from '../components/SeasonPanel'
-import { FestivalsPanel } from '../components/FestivalsPanel'
+import { CityFestivals } from '../components/FestivalsPanel'
 import { ForecastPanel } from '../components/ForecastPanel'
 import { MyPlanPanel } from '../components/MyPlanPanel'
 import { FootballClubsPanel } from '../components/FootballPanel'
@@ -115,7 +115,6 @@ function CityView() {
 
       <ForecastPanel city={city} />
       <SeasonPanel city={city} />
-      <FestivalsPanel cityId={city.id} />
 
       <MyPlanPanel city={city} />
 
@@ -148,6 +147,7 @@ function CityView() {
         <CityActivities cityId={city.id} />
         <CityThemeParks cityId={city.id} />
         <CityOutlets cityId={city.id} />
+        <CityFestivals cityId={city.id} />
       </div>
 
       <FootballClubsPanel cityId={city.id} />
