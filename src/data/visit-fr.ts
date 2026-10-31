@@ -68,7 +68,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'reims-h5': v(180, 240),
   // Rouen
   'rouen-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.cathedrale-rouen.net/', n: '성당 입장은 무료입니다.|Entry to the cathedral is free.', k: '2026-10' }),
-  'rouen-h2': v(30, 45, { c: 'mon', s: 'https://rouen.fr/gros-horloge', n: '4~9월은 화~일 10:00~13:00·14:00~19:00, 10~3월은 화~일 14:00~18:00입니다.|April–September open Tue–Sun 10:00–13:00 and 14:00–19:00; October–March Tue–Sun 14:00–18:00.', k: '2026-10', x: [['2026년 10월 5~18일은 공사로 닫습니다.|Closed 5–18 October 2026 for works.', '2026-10-18']] }),
+  'rouen-h2': v(30, 45, { c: 'mon', s: 'https://rouen.fr/gros-horloge', n: '4~9월은 화~일 10:00~13:00·14:00~19:00, 10~3월은 화~일 14:00~18:00입니다.|April–September open Tue–Sun 10:00–13:00 and 14:00–19:00; October–March Tue–Sun 14:00–18:00.', k: '2026-10' }),
   'rouen-h3': v(20, 30),
   'rouen-h4': v(30, 45),
   // Honfleur

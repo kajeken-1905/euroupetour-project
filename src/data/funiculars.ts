@@ -48,7 +48,7 @@ export const FUNICULARS: Funicular[] = [
     city: 'lisbon',
     name: 'Bica · Lavra · Glória · Santa Justa',
     route: '리스본의 옛 푸니쿨라 세 곳과 산타 후스타 엘리베이터입니다.|Lisbon’s three historic funiculars and the Santa Justa lift.',
-    status: '2025년 9월 글로리아 사고 뒤 모두 운행 중단 (2026년 8월 기준 재개 날짜 없음)|All closed since the Glória accident in September 2025, with no restart date as of August 2026',
+    status: '2025년 9월 글로리아 사고 뒤 모두 운행 중단 (2026년 9월 기준 비카·라브라·산타 후스타는 재개 날짜 없음, 글로리아는 새 차량으로 2029년 상반기 재개 예정)|All closed since the Glória accident in September 2025; as of September 2026 Bica, Lavra and Santa Justa have no restart date, and Glória is due back with new equipment in the first half of 2029',
   },
   {
     city: 'nazare',

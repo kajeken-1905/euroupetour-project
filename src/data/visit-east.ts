@@ -49,7 +49,7 @@ export const visitEast: Record<string, HighlightVisit> = {
   'bucharest-h3': v(15, 20),
   'bucharest-h4': v(60, 90),
   'bucharest-h5': v(15, 120, { n: '공연이 없는 시간에 내부 관람이 되는 날이 있습니다.|The interior can be visited on some days outside concert times.' }),
-  'bucharest-h6': v(90, 120, { c: 'mon,tue', s: 'https://mnar.ro/viziteaza/1-program', n: '국립 미술관으로 쓰이며 수~금 10:00~18:00, 토·일 11:00~19:00에 엽니다. 매달 첫 수요일은 무료입니다.|Houses the National Museum of Art: Wed–Fri 10:00–18:00, Sat–Sun 11:00–19:00; free on the first Wednesday of the month.', k: '2026-10', x: [['2026년 10월 14~18일은 왕궁 역사 공간이 닫고, 18일에는 본관 전체가 닫습니다.|The historic palace rooms are closed 14–18 October 2026, and the whole main building on the 18th.', '2026-10-18']] }),
+  'bucharest-h6': v(90, 120, { c: 'mon,tue', s: 'https://mnar.ro/viziteaza/1-program', n: '국립 미술관으로 쓰이며 수~금 10:00~18:00, 토·일 11:00~19:00에 엽니다. 매달 첫 수요일은 무료입니다.|Houses the National Museum of Art: Wed–Fri 10:00–18:00, Sat–Sun 11:00–19:00; free on the first Wednesday of the month.', k: '2026-10' }),
   // Brașov
   'brasov-h1': v(30, 45, { c: 'daily', s: 'https://bisericaneagra.ro/en/', n: '겨울에는 월요일에 쉽니다.|Closed on Mondays in winter.', k: '2026-10' }),
   'brasov-h2': v(20, 30),
