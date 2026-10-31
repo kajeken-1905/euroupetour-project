@@ -1,4 +1,5 @@
 import { useLanguage } from '../contexts/LanguageContext'
+import { OUTLETS } from '../data/outlets'
 import { THEME_PARKS } from '../data/themeparks'
 import { t } from '../i18n/ui'
 import { assetUrl } from '../utils/assetUrl'
@@ -14,11 +15,11 @@ function mapsUrl(query: string) {
 }
 
 /** One park: what it is and its season, then the way there from this city, folded until asked for. */
-function ThemeParkCard({ park, cityId }: { park: ThemePark; cityId: string }) {
+function ThemeParkCard({ park, cityId, outlet = false }: { park: ThemePark; cityId: string; outlet?: boolean }) {
   const { lang } = useLanguage()
   const route = park.from[cityId]
   return (
-    <article className="highlight-card gateway-card" id={`park-${park.id}`}>
+    <article className="highlight-card gateway-card" id={`${outlet ? 'outlet' : 'park'}-${park.id}`}>
       <a
         className={park.image ? 'highlight-card-main' : 'gateway-card-head'}
         href={mapsUrl(park.maps)}
@@ -35,7 +36,7 @@ function ThemeParkCard({ park, cityId }: { park: ThemePark; cityId: string }) {
           />
         ) : (
           <span className="gateway-card-icon" aria-hidden>
-            🎢
+            {outlet ? '🛍️' : '🎢'}
           </span>
         )}
         <span className="highlight-card-body">
@@ -46,11 +47,11 @@ function ThemeParkCard({ park, cityId }: { park: ThemePark; cityId: string }) {
         </span>
       </a>
       <details className="gateway-ways">
-        <summary>{t('themeParkWays', lang)}</summary>
+        <summary>{t(outlet ? 'outletWays' : 'themeParkWays', lang)}</summary>
         <ul className="gateway-options">
           <li className="gateway-option">
             <p className="gateway-option-name">
-              <span aria-hidden>📅</span> {t('themeParkSeason', lang)}
+              <span aria-hidden>{outlet ? '🕘' : '📅'}</span> {t(outlet ? 'outletHours' : 'themeParkSeason', lang)}
             </p>
             <p>{pick(park.season, lang)}</p>
           </li>
@@ -85,6 +86,21 @@ export function CityThemeParks({ cityId }: { cityId: string }) {
       <p className="highlight-group">{t('themeParksTitle', lang)}</p>
       {parks.map((p) => (
         <ThemeParkCard key={p.id} park={p} cityId={cityId} />
+      ))}
+    </>
+  )
+}
+
+/** City screen: designer outlets reached from the city, as cards after the theme parks. */
+export function CityOutlets({ cityId }: { cityId: string }) {
+  const { lang } = useLanguage()
+  const list = OUTLETS.filter((p) => p.from[cityId])
+  if (list.length === 0) return null
+  return (
+    <>
+      <p className="highlight-group">{t('outletsTitle', lang)}</p>
+      {list.map((p) => (
+        <ThemeParkCard key={p.id} park={p} cityId={cityId} outlet />
       ))}
     </>
   )

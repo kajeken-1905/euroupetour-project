@@ -33,15 +33,22 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   dinant: [2, 1, 4, 3],
   vienna: {
     days: [
-      ['구시가와 링|Old town & the Ring', 2, 5, 4, 7],
-      ['쇤브룬과 벨베데레|Schönbrunn & Belvedere', 1, 3, 6],
+      ['구시가와 왕궁|Old town & the Hofburg', 2, 5, 17, 10, 7],
+      ['박물관과 링|Museums & the Ring', 9, 11, 16, 15, 4, 12, 13],
+      ['쇤브룬과 벨베데레|Schönbrunn & Belvedere', 1, 3, 14, 6],
     ],
     trips: [['멜크와 바하우|Melk & the Wachau', 8]],
   },
-  salzburg: { days: [['', 2, 4, 3, 6, 7, 5, 1]], trips: [['장크트볼프강|St. Wolfgang', 8]] },
-  innsbruck: [4, 1, 3, 2],
-  graz: [3, 2, 1, 4, 5],
-  hallstatt: [2, 4, 5, 3, 1],
+  salzburg: {
+    days: [
+      ['구시가와 성|Old town & fortress', 3, 9, 4, 6, 7, 12, 5, 1],
+      ['미라벨과 헬브룬|Mirabell & Hellbrunn', 2, 11, 10],
+    ],
+    trips: [['장크트볼프강|St. Wolfgang', 8], ['운터스베르크|Untersberg', 13]],
+  },
+  innsbruck: { days: [['', 4, 1, 3, 8, 6, 9, 2]], trips: [['스와로브스키 크리스탈 세계|Swarovski Crystal Worlds', 7]] },
+  graz: [3, 1, 2, 7, 6, 4, 5],
+  hallstatt: { days: [['', 2, 6, 4, 5, 3, 1]], trips: [['다흐슈타인 얼음 동굴과 5 핑거스|Dachstein Ice Cave & 5fingers', 7]] },
   zurich: { days: [['', 9, 6, 3, 8, 7, 1, 2, 5, 4]], trips: [['린트 초콜릿 박물관|Lindt Home of Chocolate', 10], ['라인 폭포와 슈타인암라인|Rhine Falls & Stein am Rhein', 11]] },
   geneva: [8, 3, 2, 7, 1, 5, 6, 4],
   bern: [4, 1, 7, 2, 6, 3, 5],

@@ -1343,3 +1343,100 @@ themeparks/bakken.jpg | https://commons.wikimedia.org/wiki/File:The_Bakken_Museu
 themeparks/grona-lund.jpg | https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_and_Djurg%C3%A5rden_ferry.jpg | CC BY 4.0 | OleNeitzel
 themeparks/linnanmaki.jpg | https://commons.wikimedia.org/wiki/File:Rinkeli_-_Linnanm%C3%A4ki_amusement_park_Helsinki_Finland.jpg | Public domain | No machine-readable author provided. Ppntori assumed (based
 themeparks/puy-du-fou.jpg | https://commons.wikimedia.org/wiki/File:Puy_du_Fou_2024_(2)_02.jpg | CC0 | Mathious Ier
+festivals/oktoberfest.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Oktoberfest,_Hippodrom-Festzelt_(02).jpg | CC BY 3.0 | Bayreuth2009
+festivals/kaltenberg.jpg | https://commons.wikimedia.org/wiki/File:Kaltenberg_6.jpg | CC0 | Edelmauswaldgeist
+festivals/christkindlesmarkt.jpg | https://commons.wikimedia.org/wiki/File:Christkindlesmarkt_N%C3%BCrnberg_im_Advent_2010_25.JPG | CC BY-SA 3.0 | Aarp65
+festivals/berlinale.jpg | https://commons.wikimedia.org/wiki/File:MKr354228_Berlinale_Palast.jpg | CC BY-SA 4.0 | Martin Kraft
+festivals/cannstatter-volksfest.jpg | https://commons.wikimedia.org/wiki/File:Cannstatter_Volksfest_2015_36.jpg | CC BY-SA 4.0 | Xocolatl
+festivals/vienna-balls.jpg | https://commons.wikimedia.org/wiki/File:Vienna_Opera_Ball_27_February_2014_03.jpg | CC BY-SA 4.0 | Gryffindor
+festivals/vienna-christmas.jpg | https://commons.wikimedia.org/wiki/File:Rathaus_Christkindlmarkt_(5273185493).jpg | CC BY 2.0 | Max Pfandl from Vienna, Austria
+festivals/salzburg-festival.jpg | https://commons.wikimedia.org/wiki/File:Salzburger_Festspiele_2012_-_Das_Labyrinth.jpg | CC BY 3.0 | Luigi Caputo
+festivals/lucerne-festival.jpg | https://commons.wikimedia.org/wiki/File:Kkl_luzern_juli_2010_by_night.JPG | CC BY-SA 3.0 | ch-info
+festivals/montreux-jazz.jpg | https://commons.wikimedia.org/wiki/File:Kwn_at_2026_Montreux_Jazz_Festival_23.jpg | CC BY-SA 4.0 | EGilham
+festivals/sechselaeuten.jpg | https://commons.wikimedia.org/wiki/File:2015_Sechsel%C3%A4uten_-_Umzug_-_Zunft_zur_Schneidern_-_B%C3%BCrkliplatz_2015-04-13_16-48-34_01.JPG | CC BY-SA 3.0 | Roland zh
+festivals/street-parade.jpg | https://commons.wikimedia.org/wiki/File:30._Street_Parade_in_Z%C3%BCrich_c.jpg | CC BY-SA 4.0 | Peter Arnold
+festivals/gentse-feesten.jpg | https://commons.wikimedia.org/wiki/File:Kulturfestival_Gentse_Feesten,_Haupttrib%C3%BChne.jpg | CC BY-SA 4.0 | Gordito1869
+festivals/flower-carpet.jpg | https://commons.wikimedia.org/wiki/File:Grand-Place_Flower_Carpet_2018_(18mm).jpg | CC BY 4.0 | Trougnouf
+festivals/edinburgh-fringe.jpg | https://commons.wikimedia.org/wiki/File:Fringe_2021_on_the_Royal_Mile_(51366709675).jpg | CC BY-SA 2.0 | Magnus Hagdorn from UK
+festivals/hogmanay.jpg | https://commons.wikimedia.org/wiki/File:Fireworks_at_Edinburgh%27s_Hogmanay_celebration_-_geograph.org.uk_-_3277883.jpg | CC BY-SA 2.0 | William Starkey
+festivals/notting-hill-carnival.jpg | https://commons.wikimedia.org/wiki/File:Notting_Hill_Carnival_2014_(2).JPG | CC BY-SA 4.0 | David Sedlecký
+festivals/st-patricks.jpg | https://commons.wikimedia.org/wiki/File:St._Patrick%27s_Day_Parade_(2013)_In_Dublin_-_Purdue_University_All-American_Marching_Band,_Indiana,_USA_(8566553110).jpg | CC BY-SA 2.0 | William Murphy
+festivals/galway-arts.jpg | https://commons.wikimedia.org/wiki/File:Fish_on_the_move_-_Galway_Arts_Festival_Parade.jpg | CC BY-SA 4.0 | Peter Clarke
+festivals/bergen-festival.jpg | https://commons.wikimedia.org/wiki/File:Grieghallen.JPG | CC BY-SA 2.5 | 
+festivals/reykjavik-culture-night.jpg | https://commons.wikimedia.org/wiki/File:StefanHilmarsson5.JPG | CC BY-SA 3.0 | Ice-72
+festivals/iceland-airwaves.jpg | https://commons.wikimedia.org/wiki/File:Karkwa_at_Airwaves_2011.JPG | CC BY-SA 3.0 | Gruesome Gary
+festivals/semana-santa-sevilla.jpg | https://commons.wikimedia.org/wiki/File:Misterio_del_Buen_Fin_Semana_Santa_2025.jpg | CC BY-SA 4.0 | Cofrades 2020 sevilla
+festivals/fallas.jpg | https://commons.wikimedia.org/wiki/File:Fallas_2023,_Falla_de_l%27Ajuntament_14.jpg | CC BY-SA 4.0 | Simon Burchell
+festivals/patios-cordoba.jpg | https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_Spain_-_Fiesta_De_Los_Patios_De_C%C3%B3rdoba_-_2015_(18378583269).jpg | CC BY 2.0 | Julia Kostecka
+festivals/la-merce.jpg | https://commons.wikimedia.org/wiki/File:La_Merc%C3%A8_2024_-_Diada_castellera_de_la_Merc%C3%A8_-_20240924_145038.jpg | CC BY-SA 4.0 | Pere López Brosa
+festivals/santo-antonio.jpg | https://commons.wikimedia.org/wiki/File:Marchas_Populares_de_Lisboa.JPG | CC BY-SA 3.0 | Béria Lima de Rodríguez
+festivals/sao-joao.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A3o_Jo%C3%A3o_2018_(29275722918).jpg | CC0 | Stefano Aguiar from Rio de Janeiro, Brasil
+festivals/tabuleiros.jpg | https://commons.wikimedia.org/wiki/File:Festa_dos_tabuleiros_1995_04.jpg | CC BY-SA 3.0 | Joseolgon
+festivals/fete-de-la-musique.jpg | https://commons.wikimedia.org/wiki/File:F%C3%AAte_de_la_musique_2016_%C3%A0_la_Maison_de_la_Radio,_Paris.jpg | CC BY 2.0 | Jean-Pierre Dalbéra
+festivals/bastille-day.jpg | https://commons.wikimedia.org/wiki/File:D%C3%A9fil%C3%A9_du_14_juillet_2014_sur_l%27avenue_des_Champs-%C3%89lys%C3%A9es_%C3%A0_Paris_(15574964656).jpg | CC BY-SA 2.0 | Ecole  polytechnique from Paris
+festivals/nuit-blanche.jpg | https://commons.wikimedia.org/wiki/File:France,_Paris,_Nuit_Blanche_2010,_rue_de_la_Fontaine_au_Roi,_%22_Naked_city_2010_%22_Hakima_El_Djoudi._Installation_vid%C3%A9o._(5047179857).jpg | CC BY 2.0 | (vincent desjardins) from Paris, France
+festivals/nice-carnival.jpg | https://commons.wikimedia.org/wiki/File:D%C3%A9fil%C3%A9_nocturne_du_char_du_Roi_au_carnaval_de_Nice_2023.jpg | CC BY-SA 4.0 | Tmilaret
+festivals/fete-du-citron.jpg | https://commons.wikimedia.org/wiki/File:Menton._F%C3%AAte_du_Citron._2020-02-23_16-17-21.jpg | CC BY-SA 4.0 | Shesmax
+festivals/festival-avignon.jpg | https://commons.wikimedia.org/wiki/File:Festival_d%27Avignon_-_Cl%C3%A9opatre_et_Antoine_4.JPG | CC BY-SA 4.0 | Marianne Casamance
+festivals/cannes-film-festival.jpg | https://commons.wikimedia.org/wiki/File:Palais_des_Festivals_Cannes_red_carpet_stairs_2026.JPG | CC BY-SA 4.0 | Mike is Michi
+festivals/strasbourg-christmas.jpg | https://commons.wikimedia.org/wiki/File:Strasbourg_Christmas_Market_2017.jpg | CC BY-SA 4.0 | Romynine
+festivals/colmar-christmas.jpg | https://commons.wikimedia.org/wiki/File:March%C3%A9_de_No%C3%ABl_de_Colmar_013.jpg | CC BY-SA 4.0 | Arnaud 25
+festivals/annecy-animation.jpg | https://commons.wikimedia.org/wiki/File:Annecy_MIFA_2016_IMG_9180_(27717566101).jpg | CC BY-SA 2.0 | Bruno Chatelin from paris
+festivals/feria-nimes.jpg | https://commons.wikimedia.org/wiki/File:Feria_de_N%C3%AEmes_2013_Quadrillo_entrant_dans_les_ar%C3%A8nes.jpg | CC BY-SA 2.0 | Fusio11
+festivals/rencontres-arles.jpg | https://commons.wikimedia.org/wiki/File:Les_rencontres_d%27Arles_2019_3.jpg | CC BY-SA 4.0 | Gilzetbase
+festivals/venice-carnival.jpg | https://commons.wikimedia.org/wiki/File:Carnevale_di_Venezia_Masks_2010.jpg | CC BY-SA 3.0 | Unofeld781
+festivals/venice-film-festival.jpg | https://commons.wikimedia.org/wiki/File:78a_mostra_del_Cinema_di_Venezia_03.jpg | CC BY-SA 4.0 | Davide Mauro
+festivals/redentore.jpg | https://commons.wikimedia.org/wiki/File:Redentore_Fireworks_(51351921185).jpg | CC BY 2.0 | Nan Palmero from San Antonio, TX, USA
+festivals/regata-storica.jpg | https://commons.wikimedia.org/wiki/File:Venezia_-_Regata_Storica_-_Corteo_08.jpg | Public domain | Godromil
+festivals/palio-siena.jpg | https://commons.wikimedia.org/wiki/File:Palio_di_Siena_-_Assunta_2011_-_Piazza_del_Campo.jpg | CC BY-SA 2.0 | Janus Kinase
+festivals/scoppio-del-carro.jpg | https://commons.wikimedia.org/wiki/File:Scoppio_del_carro_2012_(02).jpg | CC0 | Celuici
+festivals/calcio-storico.jpg | https://commons.wikimedia.org/wiki/File:Calcio_Storico_partita_1.JPG | CC BY-SA 3.0 | Lorenzo Noccioli
+festivals/arena-opera.jpg | https://commons.wikimedia.org/wiki/File:Monumental_stage_prop_from_the_opera_Aida_-_01.jpg | CC BY-SA 4.0 | NorbertNagel
+festivals/natale-di-roma.jpg | https://commons.wikimedia.org/wiki/File:Celebrazione_del_2777_Natale_di_Roma_-_Pietas_Comunit%C3%A0_Gentile.jpg | CC BY-SA 4.0 | Giuseppe Barbera
+festivals/san-gennaro.jpg | https://commons.wikimedia.org/wiki/File:2022_Celebration_of_Festa_di_San_Gennaro_in_Naples,_Italy_(7425024).jpg | Public domain | U.S. Navy photo by Petty Officer 1st Class Indra Beaufort
+festivals/milan-design-week.jpg | https://commons.wikimedia.org/wiki/File:%22_12_Milan_Design_Week_(Fuorisalone)_Brera_district_09.JPG | CC BY-SA 3.0 it | Pava
+festivals/santa-rosalia.jpg | https://commons.wikimedia.org/wiki/File:Festino_di_santa_Rosalia_2009_-_V.jpg | CC BY-SA 4.0 | Marie Čcheidzeová
+festivals/luminara-pisa.jpg | https://commons.wikimedia.org/wiki/File:Pisa,_luminara_di_san_ranieri,_2022,_lungarno_gambacorti,_santa_maria_della_spina_03.jpg | CC BY 3.0 | Sailko
+outlets/bicester-village.jpg | https://commons.wikimedia.org/wiki/File:Bicester_Village_-_geograph.org.uk_-_1828514.jpg | CC BY-SA 2.0 | Des Blenkinsopp
+outlets/kildare-village.jpg | https://commons.wikimedia.org/wiki/File:Kildare_Village_-_aerial_-_2025-06-29_02.jpg | CC BY-SA 4.0 | 瑞丽江的河水
+outlets/la-vallee-village.jpg | https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_Village_(Serris)_(2).jpg | CC BY-SA 4.0 | Gzen92
+outlets/wertheim-village.jpg | https://commons.wikimedia.org/wiki/File:2022-02-01_Wertheim_Village_Stores_Gesch%C3%A4fte_30.jpg | CC BY-SA 4.0 | Triplec85
+outlets/ingolstadt-village.jpg | https://commons.wikimedia.org/wiki/File:Ingolstadt-village6.jpg | CC BY-SA 4.0 | Outlet-in.de
+outlets/fidenza-village.jpg | https://commons.wikimedia.org/wiki/File:Fidenza_village_-_panoramio_(2).jpg | CC BY 3.0 | qwesy qwesy
+outlets/la-roca-village.jpg | https://commons.wikimedia.org/wiki/File:La_Roca_Village_Chic_Outlet_Shopping_(15275593127).jpg | CC BY 2.0 | Jorge Franganillo
+outlets/las-rozas-village.jpg | https://commons.wikimedia.org/wiki/File:Restaurante_-_Las_Rozas_Village_-_Chic_outlet_shopping_(6926664573).jpg | CC BY-SA 2.0 | jacilluch
+outlets/serravalle.jpg | https://commons.wikimedia.org/wiki/File:Designer_Outlet_Serravalle_-_panoramio_(1).jpg | CC BY 3.0 | qwesy qwesy
+outlets/la-reggia.jpg | https://commons.wikimedia.org/wiki/File:La_Reggia_Designer_Outlet.jpg | CC BY 2.5 | Unknown authorUnknown author
+outlets/parndorf.jpg | https://commons.wikimedia.org/wiki/File:Factory_Outlet_Parndorf_-_panoramio_-_zonemars_(4).jpg | CC BY-SA 3.0 | zonemars
+outlets/salzburg-outlet.jpg | https://commons.wikimedia.org/wiki/File:Designer_Outlet_Center_Salzburg-1988.jpg | CC BY-SA 4.0 | Isiwal
+outlets/neumunster.jpg | https://commons.wikimedia.org/wiki/File:DOC_Neum%C3%BCnster1.JPG | CC BY-SA 3.0 | Wusel007
+outlets/ashford.jpg | https://commons.wikimedia.org/wiki/File:Ashford_Designer_Outlet,_Kent.jpg | CC BY-SA 4.0 | Roy Balne
+outlets/cheshire-oaks.jpg | https://commons.wikimedia.org/wiki/File:M%26S_Cheshire_Oaks_-_geograph.org.uk_-_3253481.jpg | CC BY-SA 2.0 | Richard Cooke
+outlets/york-outlet.jpg | https://commons.wikimedia.org/wiki/File:York_Designer_Outlet_-_geograph.org.uk_-_8312580.jpg | CC BY-SA 2.0 | Darren Haddock
+outlets/bridgend.jpg | https://commons.wikimedia.org/wiki/File:Designer_outlet_village,_Bridgend_-_geograph.org.uk_-_3364351.jpg | CC BY-SA 2.0 | Gareth James
+outlets/barberino.jpg | https://commons.wikimedia.org/wiki/File:GEST_1007_piazza_Muratori_Barberino_Outlet_20240426.jpg | CC BY-SA 4.0 | Moliva
+highlights/vienna-9.jpg | https://commons.wikimedia.org/wiki/File:AT_13763_Exterior_of_the_Kunsthistorisches_Museum,_Vienna-2397.jpg | CC BY-SA 4.0 | Hubertl
+highlights/vienna-10.jpg | https://commons.wikimedia.org/wiki/File:Wien_-_Albertina_(b).JPG | CC BY-SA 4.0 | C.Stadler/Bwag
+highlights/vienna-11.jpg | https://commons.wikimedia.org/wiki/File:MuseumsQuartier_Wien_Sept_2020_1.jpg | CC BY-SA 4.0 | Kasa Fue
+highlights/vienna-12.jpg | https://commons.wikimedia.org/wiki/File:2019_-_Wiener_Karlskirche_mit_Teich_und_%22Hill_Arches%22_Skulptur_am_Abend.jpg | CC BY-SA 4.0 | Moahim
+highlights/vienna-13.jpg | https://commons.wikimedia.org/wiki/File:Naschmarkt,_Vienna.jpg | CC BY-SA 4.0 | Slyronit
+highlights/vienna-14.jpg | https://commons.wikimedia.org/wiki/File:Hundertwasserhaus_view.jpg | CC0 | Mich-nguyen
+highlights/vienna-15.jpg | https://commons.wikimedia.org/wiki/File:Vienna_City_Hall_tower_-_2.jpg | CC BY-SA 3.0 | MrPanyGoff
+highlights/vienna-16.jpg | https://commons.wikimedia.org/wiki/File:Austrian_Parliament_Building_2,_Vienna.jpg | CC BY-SA 4.0 | Slyronit
+highlights/vienna-17.jpg | https://commons.wikimedia.org/wiki/File:CoA_Charles_VI_Austria.jpg | CC0 | Jebulon
+highlights/vienna-18.jpg | https://commons.wikimedia.org/wiki/File:Zentralfriedhof_Wien,_Evangelische_Kirche_1.jpg | CC BY-SA 4.0 | Thomas Ledl
+highlights/salzburg-9.jpg | https://commons.wikimedia.org/wiki/File:Getreidegasse_Salzburg_2023-09-27_05.jpg | CC0 | Leonhard Lenz
+highlights/salzburg-10.jpg | https://commons.wikimedia.org/wiki/File:Adventzauber_Hellbrunn_12.jpg | CC BY-SA 4.0 | Werner100359
+highlights/salzburg-11.jpg | https://commons.wikimedia.org/wiki/File:Mozarts_Wohnhaus_Makartplatz_8.jpg | CC BY-SA 3.0 at | Peter g at szg (talk)
+highlights/salzburg-13.jpg | https://commons.wikimedia.org/wiki/File:Untersbergbahn_2019.jpg | CC BY-SA 4.0 | Salzburger Nockerl
+highlights/innsbruck-6.jpg | https://commons.wikimedia.org/wiki/File:12-01-19-yog-208.jpg | CC BY-SA 3.0 at | Ralf Roletschek (talk) - Fahrradtechnik auf fahrradmonteur.d
+highlights/innsbruck-8.jpg | https://commons.wikimedia.org/wiki/File:Maria-Theresien-Stra%C3%9Fe_in_Innsbruck_with_Alpine_Backdrop.jpg | CC0 | Wilfredor
+highlights/innsbruck-9.jpg | https://commons.wikimedia.org/wiki/File:Innsbruck-Alpenzoo-Haupteingang.JPG | CC BY-SA 3.0 | Hafelekar
+highlights/graz-6.jpg | https://commons.wikimedia.org/wiki/File:Graz_-_Kunsthaus1.jpg | CC BY 3.0 | Taxiarchos228
+highlights/graz-7.jpg | https://commons.wikimedia.org/wiki/File:Murinsel,_Graz_4.jpg | CC0 | Savh (mobile)
+highlights/hallstatt-6.jpg | https://commons.wikimedia.org/wiki/File:IMG-20191007-WA0185.jpg | CC BY-SA 4.0 | Sashi kala Khatri
+highlights/hallstatt-7.jpg | https://commons.wikimedia.org/wiki/File:Dachstein_Eish%C3%B6hle,_Skulptur_2.jpg | CC BY 3.0 | Insan7
+festivals/fete-des-lumieres.jpg | https://commons.wikimedia.org/wiki/File:F%C3%AAte_des_Lumi%C3%A8res_(Lyon,_2025,_5).jpg | CC BY-SA 4.0 | Corentin Eustacchi
+festivals/fete-du-jasmin.jpg | https://commons.wikimedia.org/wiki/File:2011_F%C3%AAte_du_Jasmin_de_Grasse.jpg | CC BY-SA 3.0 | Copyleft
+highlights/salzburg-12.jpg | https://commons.wikimedia.org/wiki/File:Salzburg_-_Stiftskirche_St_Peter_-_files_1730-1731a.jpg | CC BY-SA 2.5 | Andrew Bossi
+highlights/innsbruck-7.jpg | https://commons.wikimedia.org/wiki/File:Carousel_von_Jaime_Hayon.jpg | CC BY-SA 4.0 | Swarovski Kristallwelten
