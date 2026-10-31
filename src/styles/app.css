@@ -2611,6 +2611,18 @@ button.back-link {
     gap: 16px;
   }
 
+  /* Festivals as four cards a row, the photo at the sight cards' 3:2. */
+  .festival-list {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px;
+    align-items: start;
+  }
+
+  .festival-list .festival-card {
+    margin-top: 0;
+  }
+
   /* Onward routes, night trains, scenic trains and airports in four columns too. */
   .route-list,
   .night-train-list {

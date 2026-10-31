@@ -16,38 +16,43 @@ export function FestivalsPanel({ cityId }: { cityId: string }) {
   return (
     <section className="routes-panel" aria-label={t('festivalsTitle', lang)}>
       <p className="section-label">{t('festivalsTitle', lang)}</p>
-      {list.map((f) => (
-        <article key={f.id} className="highlight-card festival-card" id={`festival-${f.id}`}>
-          {f.image ? (
-            <div
-              className="highlight-card-media"
-              style={{ backgroundImage: `url(${assetUrl(f.image)})` }}
-              role="img"
-              aria-label={pick(f.name, lang)}
-            />
-          ) : null}
-          <div className="highlight-card-body">
-            <h3>{pick(f.name, lang)}</h3>
-            <p>{pick(f.about, lang)}</p>
-            <p className="festival-when">
-              📅 <b>{t('festivalWhen', lang)}</b> {pick(f.when, lang)}
-            </p>
-            {f.next ? (
+      <div className="festival-list">
+        {list.map((f) => (
+          <article key={f.id} className="highlight-card festival-card" id={`festival-${f.id}`}>
+            {f.image ? (
+              <div
+                className="highlight-card-media"
+                style={{ backgroundImage: `url(${assetUrl(f.image)})` }}
+                role="img"
+                aria-label={pick(f.name, lang)}
+              />
+            ) : null}
+            <div className="highlight-card-body">
+              <h3>{pick(f.name, lang)}</h3>
+              <p>{pick(f.about, lang)}</p>
               <p className="festival-when">
-                🗓 <b>{t('festivalNext', lang)}</b> {pick(f.next, lang)}
+                📅 <b>{t('festivalWhen', lang)}</b> {pick(f.when, lang)}
               </p>
-            ) : null}
-            {f.site ? (
-              <a className="visit-link" href={f.site} target="_blank" rel="noreferrer">
-                {t('visitSite', lang)} ↗
-              </a>
-            ) : null}
-            <p className="visit-checked">
-              ✓ {t('festivalChecked', lang).replace('{y}', f.checked.slice(0, 4)).replace('{m}', String(Number(f.checked.slice(5))))}
-            </p>
-          </div>
-        </article>
-      ))}
+              {f.next ? (
+                <p className="festival-when">
+                  🗓 <b>{t('festivalNext', lang)}</b> {pick(f.next, lang)}
+                </p>
+              ) : null}
+              {f.site ? (
+                <a className="visit-link" href={f.site} target="_blank" rel="noreferrer">
+                  {t('visitSite', lang)} ↗
+                </a>
+              ) : null}
+              <p className="visit-checked">
+                ✓{' '}
+                {t('festivalChecked', lang)
+                  .replace('{y}', f.checked.slice(0, 4))
+                  .replace('{m}', String(Number(f.checked.slice(5))))}
+              </p>
+            </div>
+          </article>
+        ))}
+      </div>
     </section>
   )
 }
