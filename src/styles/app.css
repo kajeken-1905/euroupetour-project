@@ -4257,3 +4257,12 @@ a.plan-btn {
   font-weight: 600;
   color: #b4237d;
 }
+
+.festival-card {
+  margin-top: 10px;
+}
+
+.festival-when {
+  margin: 4px 0 0;
+  font-size: 13px;
+}

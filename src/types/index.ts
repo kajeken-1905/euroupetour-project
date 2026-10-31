@@ -180,6 +180,46 @@ export interface Gateway {
   checked: string
 }
 
+/** An outdoor activity (paragliding, rafting, a hike ...) offered from a city. Text is 'ko|en'. */
+export interface Activity {
+  id: string
+  cityId: string
+  kind: 'paragliding' | 'skydiving' | 'rafting' | 'canyoning' | 'kayak' | 'hiking' | 'sledging' | 'swimming' | 'bungee' | 'via-ferrata'
+  name: string
+  about: string
+  /** Where it starts and ends (take-off and landing, river, route) */
+  where: string
+  season: string
+  /** How long it takes, including getting there where the official page says so */
+  time: string
+  /** Age, weight, swimming, fitness */
+  needs?: string
+  /** How to book, and who runs it (providers named by the official tourism board only) */
+  book?: string
+  note?: string
+  image?: string
+  site: string
+  checked: string
+}
+
+/** A festival shown on the screens of its cities. Text is 'ko|en'. */
+export interface Festival {
+  id: string
+  cityIds: string[]
+  name: string
+  about: string
+  /** When it usually happens (the rule) */
+  when: string
+  /** The next edition's officially announced dates, if any */
+  next?: string
+  /** Months it falls in (1–12), for the season calendar */
+  months: number[]
+  image?: string
+  site?: string
+  /** Month (YYYY-MM) the dates were checked */
+  checked: string
+}
+
 /** A theme park, shown on the screens of the cities it is reached from. Text is 'ko|en'. */
 export interface ThemePark {
   id: string
