@@ -1226,3 +1226,22 @@ highlights/cuenca-5.jpg | https://commons.wikimedia.org/wiki/File:Panor%C3%A1mic
 highlights/cuenca-6.jpg | https://commons.wikimedia.org/wiki/File:DSC2414ciudad-encantada-cuenca-sep-2019-b.jpg | CC BY-SA 4.0 | MottaW
 highlights/tarragona-3.jpg | https://commons.wikimedia.org/wiki/File:Muralles_de_Tarragona-2.JPG | Public domain | Lluis tgn
 highlights/tarragona-5.jpg | https://commons.wikimedia.org/wiki/File:Tarragona_-_Balc%C3%B3n_del_Mediterr%C3%A1neo_1.jpg | CC0 | Zarateman
+highlights/venice-10.jpg | own photo IMG_6791 (site owner, 2023-10-31) | — | site owner
+highlights/venice-11.jpg | https://commons.wikimedia.org/wiki/File:Accademia_(Venice).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/venice-12.jpg | https://commons.wikimedia.org/wiki/File:Venice,_Canal_Grande,_Dorsoduro,_Plzo_Venier_dei_Leoni_(Guggenheim_Coll.).jpg | CC BY-SA 4.0 | Armin Kleiner
+highlights/venice-13.jpg | https://commons.wikimedia.org/wiki/File:Basilica_Santa_Maria_della_Salute_Venice_2.jpg | CC BY-SA 4.0 | kallerna
+highlights/venice-14.jpg | https://commons.wikimedia.org/wiki/File:20110722_Venice_San_Giorgio_Maggiore_4136.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/venice-15.jpg | https://commons.wikimedia.org/wiki/File:0_Murano,_Canale_degli_Angeli_(5).jpg | CC BY 4.0 | Jean-Pol GRANDMONT
+highlights/venice-16.jpg | https://commons.wikimedia.org/wiki/File:Campo_San_Rocco_(Venice).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/venice-17.jpg | https://commons.wikimedia.org/wiki/File:Vhieda_dei_Frari_sera_a_Venezia.jpg | CC BY-SA 3.0 | Wolfgang Moroder
+highlights/venice-18.jpg | https://commons.wikimedia.org/wiki/File:Venedig_Torcello_Basilica_di_Santa_Maria_Assunta-4384.jpg | CC BY-SA 4.0 | GodeNehler
+highlights/venice-19.jpg | https://commons.wikimedia.org/wiki/File:Ghetto_(Venice)_Panorama.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/venice-20.jpg | https://commons.wikimedia.org/wiki/File:La_Fenice,_Venice1.jpg | CC BY-SA 4.0 | Stavros Argyropoulos
+highlights/venice-22.jpg | https://commons.wikimedia.org/wiki/File:Ca%27_Rezzonico_(Venice).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/venice-23.jpg | https://commons.wikimedia.org/wiki/File:Scala_Contarini_del_Bovolo_(Venice).jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/venice-24.jpg | https://commons.wikimedia.org/wiki/File:Libreria_Acqua_Alta_01.jpg | CC BY-SA 4.0 | Davide Mauro
+gateways/gw-luxembourg-gare.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_City_railway_station_2022-12_---6.jpg | CC BY-SA 3.0 | Zinneke
+highlights/venice-1.jpg | own photo IMG_6798 (site owner, 2023-10-31) | — | site owner
+highlights/venice-2.jpg | own photo IMG_6771_B (site owner, 2023-10-31) | — | site owner
+highlights/venice-3.jpg | own photo IMG_6752 (site owner, 2023-10-31) | — | site owner
+highlights/venice-21.jpg | https://commons.wikimedia.org/wiki/File:Vaporetto_stop,_Ca%27_d%27Oro,_Venice,_Italy.tif | CC BY-SA 4.0 | Maitra

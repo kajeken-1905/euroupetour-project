@@ -236,6 +236,8 @@ export interface CityHighlight {
   mapsUrl: string
   /** Optional tour-course grouping; a heading is shown when it changes. */
   group?: { ko: string; en: string }
+  /** A small sight added before the bigger ones: planned after every other sight, whatever its id number. */
+  minor?: true
 }
 
 export type SeasonRating = 'best' | 'ok' | 'avoid'

@@ -16,5 +16,45 @@
     45.46493,
     9.1862,
     "OSM Nominatim \"Starbucks Reserve Milano, 1 Piazza Cordusio\" = Wikidata Starbucks Reserve Roastery (45.4649, 9.1862)"
+  ],
+  "haarlem-h6": [
+    52.38006,
+    4.63944
+  ],
+  "salzburg-h7": [
+    47.7972,
+    13.04649
+  ],
+  "venice-h9": [
+    45.40588,
+    12.36708
+  ],
+  "bergamo-h5": [
+    45.70293,
+    9.66521
+  ],
+  "mykonos-h5": [
+    37.39089,
+    25.27174
+  ],
+  "sibiu-h2": [
+    45.79718,
+    24.15048
+  ],
+  "cluj-napoca-h2": [
+    46.7689,
+    23.59024
+  ],
+  "venice-h14": [
+    45.42939,
+    12.34328
+  ],
+  "venice-h17": [
+    45.43687,
+    12.32623
+  ],
+  "venice-h23": [
+    45.43481,
+    12.33455
   ]
 }

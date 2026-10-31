@@ -17,7 +17,14 @@ export const itineraryIt: Record<string, RawItinerary> = {
       ['우피치와 아르노 강|Uffizi & the Arno', 6, 2, 3, 4],
     ],
   },
-  venice: { days: [['', 8, 7, 3, 2, 6, 1, 4]], trips: [['부라노|Burano', 5]] },
+  venice: {
+    days: [
+      ['산마르코 일대|Around St Mark’s', 3, 1, 10, 4, 23, 20, 14],
+      ['도르소두로와 산폴로|Dorsoduro & San Polo', 13, 12, 11, 22, 6, 16, 17],
+      ['카나레조와 리알토|Cannaregio & Rialto', 7, 8, 19, 2, 24],
+    ],
+    trips: [['무라노·부라노·토르첼로|Murano, Burano & Torcello', 15, 5, 18]],
+  },
   naples: { days: [['', 2, 6, 1, 7, 5, 3, 4]], trips: [['파에스툼|Paestum', 8]] },
   pisa: [4, 1, 2, 3],
   'san-gimignano': { days: [['', 2, 4, 3, 1]], trips: [['볼테라|Volterra', 5]] },

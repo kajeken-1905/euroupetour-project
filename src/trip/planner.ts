@@ -102,7 +102,9 @@ export function buildPlan(input: PlannerInput): PlannerResult {
 
   // Importance: favourites first, then the id number. The city lists its sights district by district; the id
   // number is the better guide, because the best-known sights were entered first (paris-h1 is the Eiffel Tower).
-  const number = (id: string) => Number(id.slice(id.lastIndexOf('-h') + 2)) || 999
+  // Sights marked minor go last, so big sights added later still come before them.
+  const minor = new Set(city.highlights.filter((h) => h.minor).map((h) => h.id))
+  const number = (id: string) => (Number(id.slice(id.lastIndexOf('-h') + 2)) || 999) + (minor.has(id) ? 1000 : 0)
   const inTown = city.highlights
     .map((h) => h.id)
     .filter((id) => !outOfTown.has(id))

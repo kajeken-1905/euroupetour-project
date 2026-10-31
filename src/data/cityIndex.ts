@@ -97,7 +97,7 @@ export const cityIndex: CityBrief[] = [
   {"id":"rome","countryId":"it","name":{"ko":"로마","en":"Rome"},"nativeName":"Roma","signatureImage":"/cities/rome.jpg","cardTagline":{"ko":"콜로세움","en":"Colosseum"},"lat":41.9028,"lng":12.4964},
   {"id":"milan","countryId":"it","name":{"ko":"밀라노","en":"Milan"},"nativeName":"Milano","signatureImage":"/cities/milan.jpg","cardTagline":{"ko":"두오모","en":"Duomo di Milano"},"lat":45.4642,"lng":9.19},
   {"id":"florence","countryId":"it","name":{"ko":"피렌체","en":"Florence"},"nativeName":"Firenze","signatureImage":"/cities/florence.jpg","cardTagline":{"ko":"두오모","en":"Cathedral of Santa Maria del Fiore"},"lat":43.7696,"lng":11.2558},
-  {"id":"venice","countryId":"it","name":{"ko":"베네치아","en":"Venice"},"nativeName":"Venezia","signatureImage":"/cities/venice.jpg","cardTagline":{"ko":"산마르코 광장","en":"St Mark's Square"},"lat":45.4408,"lng":12.3155},
+  {"id":"venice","countryId":"it","name":{"ko":"베네치아","en":"Venice"},"nativeName":"Venezia","signatureImage":"/cities/venice.jpg","cardTagline":{"ko":"스칼치 성당","en":"Chiesa degli Scalzi"},"lat":45.4408,"lng":12.3155},
   {"id":"naples","countryId":"it","name":{"ko":"나폴리","en":"Naples"},"nativeName":"Napoli","signatureImage":"/cities/naples.jpg","cardTagline":{"ko":"스파카나폴리","en":"Spaccanapoli"},"lat":40.8518,"lng":14.2681},
   {"id":"strasbourg","countryId":"fr","name":{"ko":"스트라스부르","en":"Strasbourg"},"nativeName":"Strasbourg","signatureImage":"/cities/strasbourg.jpg","cardTagline":{"ko":"스트라스부르 대성당","en":"Strasbourg Cathedral"},"lat":48.5734,"lng":7.7521},
   {"id":"colmar","countryId":"fr","name":{"ko":"콜마르","en":"Colmar"},"nativeName":"Colmar","signatureImage":"/cities/colmar.jpg","cardTagline":{"ko":"쁘띠트 베니스","en":"Petite Venise"},"lat":48.0794,"lng":7.3585},
