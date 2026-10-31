@@ -51,7 +51,7 @@ export const GATEWAYS: Gateway[] = [
         route: '아돌프 다리를 건너 아름 광장까지 약 20분|About 20 min over the Adolphe Bridge to the Place d’Armes',
       },
     ],
-    maps: 'Gare de Luxembourg',
+    maps: '49.5998,6.1339',
     site: 'https://www.cfl.lu/en-GB/network/station/Gare-de-Luxembourg',
     checked: '2026-10',
   },

@@ -1306,3 +1306,11 @@ highlights/aveiro-2.jpg | own photo IMG_0778 (site owner, 2024-11) | — | site 
 highlights/aveiro-4.jpg | own photo IMG_0737 (site owner, 2024-11) | — | site owner
 highlights/lisbon-27.jpg | https://commons.wikimedia.org/wiki/File:Lisboa_Rua_Nova_do_Carvalho_(54388054273).jpg | CC BY 2.0 | Jorge Franganillo
 highlights/lisbon-2.jpg | own photo IMG_0906 (site owner, 2024-11) | — | site owner
+highlights/sintra-6.jpg | https://commons.wikimedia.org/wiki/File:%D0%9C%D1%8B%D1%81_%D0%A0%D0%BE%D0%BA%D0%B0_-_panoramio_(1).jpg | CC BY 3.0 | Tohuchar
+highlights/lisbon-28.jpg | https://commons.wikimedia.org/wiki/File:The_Christ_the_King_statue,_Cristo_Rei.JPG | CC BY-SA 4.0 | Ammar Munir Hefnawy
+highlights/lisbon-29.jpg | https://commons.wikimedia.org/wiki/File:Cacilhas_03.jpg | CC BY-SA 4.0 | Simon Burchell
+highlights/lisbon-30.jpg | https://commons.wikimedia.org/wiki/File:Elevador_da_Boca_do_Vento_-_panoramio.jpg | CC BY-SA 3.0 | singra13
+highlights/lisbon-32.jpg | https://commons.wikimedia.org/wiki/File:View_of_Ponte_25_de_Abril_from_the_Tagus_River,_20250604_1930_9534.jpg | CC BY 4.0 | Jakub Hałun
+highlights/lisbon-33.jpg | https://commons.wikimedia.org/wiki/File:Colorful_Headphone_Girl_Mural_%E2%80%93_LX_Factory,_Lisbon_(54710208650).jpg | CC BY 4.0 | Dale Cruse - 10M views from San Francisco, CA, USA
+highlights/lisbon-34.jpg | https://commons.wikimedia.org/wiki/File:Museu_de_Arte,_Arquitetura_e_Tecnologia.jpg | CC BY-SA 4.0 | Leeturtle
+highlights/lisbon-31.jpg | https://commons.wikimedia.org/wiki/File:Dom_Fernando_II_e_Gl%C3%B3ria,_antiga_fragata_portuguesa,_atual_museu_02.jpg | CC BY-SA 4.0 | GualdimG

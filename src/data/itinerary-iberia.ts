@@ -53,10 +53,10 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   lisbon: {
     days: [
       ['호시우에서 바이샤·알파마|Rossio, Baixa & Alfama', 15, 8, 24, 7, 11, 13, 4, 23, 3],
-      ['벨렝과 강변|Belém & the riverfront', 2, 9, 1, 6, 5, 27],
+      ['벨렝과 강변|Belém & the riverfront', 2, 9, 1, 34, 32, 33, 5, 27],
       ['굴벤키안·해양관과 시아두|Gulbenkian, the Oceanário & Chiado', 20, 21, 17, 25, 22],
     ],
-    trips: [['마프라 궁전|Mafra', 18]],
+    trips: [['마프라 궁전|Mafra', 18], ['테주강 건너 알마다|Across the Tagus to Almada', 29, 31, 30, 28]],
   },
   porto: {
     days: [

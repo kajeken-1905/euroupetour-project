@@ -339,6 +339,13 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'lisbon-h25': v(15, 30, { n: '무료입니다. 아래 헤스타우라도레스 광장과 잇는 글로리아 푸니쿨라는 운행 중단 중이라 걸어 오릅니다.|Free. The Glória funicular up from Restauradores is suspended, so walk up.' }),
   'lisbon-h26': v(90, 150, { n: '지하철 빨간 선 오리엔트역에서 내립니다. 케이블카 운행 시간과 요금은 공식 사이트에서 확인하세요.|Take the red metro line to Oriente. Check the cable car’s hours and fares on its site.' }),
   'lisbon-h27': v(15, 30, { n: '타임아웃 마켓에서 걸어서 약 3분입니다. 밤늦게까지 시끄러운 유흥가입니다.|About three minutes’ walk from the Time Out Market; a nightlife strip that stays loud late.' }),
+  'lisbon-h28': v(60, 90, { c: 'daily', s: 'https://www.cristorei.pt/', t: 'https://cristorei.pt/visitas/bilheteira/', n: '매일 엽니다. 10~3월 10:00~18:00, 4~9월 10:00~19:00이고 마지막 입장은 닫기 20분 전입니다. 전망대 표는 현장에서만 팔며 엘리베이터 뒤 계단 74개를 오릅니다. 카실냐스에서 버스로 약 10분, 내려서 걸어서 약 10분입니다.|Open daily: 10:00–18:00 October to March and 10:00–19:00 April to September, last ascent 20 minutes before closing. Terrace tickets are sold on site only, and there are 74 steps after the lift. About 10 minutes by bus from Cacilhas, then a 10-minute walk.', k: '2026-10' }),
+  'lisbon-h29': v(60, 120, { s: 'https://ttsl.pt/passageiros/horarios-de-ligacoes-fluviais/ligacao-cacilhas-cais-do-sodre/', n: '카이스 두 소드레에서 페리로 약 10분이며 낮에는 자주 다닙니다.|About 10 minutes by ferry from Cais do Sodré, with frequent crossings by day.', k: '2026-10' }),
+  'lisbon-h30': v(60, 90, { n: '카실냐스 선착장에서 강을 따라 걸어서 약 15분입니다.|About 15 minutes’ walk along the river from the Cacilhas pier.' }),
+  'lisbon-h31': v(45, 60, { n: '카실냐스 선착장 바로 옆입니다.|Right beside the Cacilhas ferry pier.' }),
+  'lisbon-h32': v(45, 60, { s: 'https://www.visitlisboa.com/en/places/pilar-7-bridge-experience', n: '필라르 7은 매일 10:00~18:00(마지막 입장 17:00)에 열고 12월 25일에 쉽니다. 리스보아 카드가 있으면 무료입니다.|Pilar 7 opens daily 10:00–18:00 (last entry 17:00), closed 25 December; free with the Lisboa Card.', k: '2026-10', x: [['필라르 7의 엘리베이터가 수리 중입니다(2026년 10월 기준).|Pilar 7’s lift is under repair (October 2026).', '2026-12-31']] }),
+  'lisbon-h33': v(60, 90, { n: '입장은 무료이며 가게마다 여는 시간이 다릅니다.|Free to wander; each shop keeps its own hours.' }),
+  'lisbon-h34': v(60, 90, { c: 'tue', s: 'https://www.maat.pt/en', n: '수~월 10:00~19:00에 열고 화요일과 1월 1일·5월 1일·12월 25일에 쉽니다.|Open Wednesday to Monday 10:00–19:00; closed on Tuesdays, 1 January, 1 May and 25 December.', k: '2026-10' }),
   // Sintra
   'sintra-h1': v(120, 150, { c: 'daily', b: 'req', s: SINTRA, n: '궁전 내부는 시간 지정 입장입니다. 입구에서 궁전까지 오르막으로 20분쯤 걸리니 시간을 넉넉히 잡으세요.|The palace interior is by timed slot. Allow 20 minutes for the uphill walk from the gate.', k: '2026-10' }),
   'sintra-h2': v(60, 75, { c: 'daily', s: SINTRA, k: '2026-10' }),
