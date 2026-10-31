@@ -22,6 +22,8 @@ function useHasSaved() {
     trip.places.length > 0 ||
     trip.beenHighlights.length > 0 ||
     trip.beenPlaces.length > 0 ||
+    trip.gateways.length > 0 ||
+    trip.beenGateways.length > 0 ||
     Object.keys(visits.countries).length > 0 ||
     Object.keys(visits.cities).length > 0
   )

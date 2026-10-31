@@ -1,12 +1,13 @@
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { FavoriteButton } from './FavoriteButton'
 import { TourPanel } from './TourPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCity, getPlace, loadedCities, useCountryData } from '../data/countryData'
+import { loadAllGateways } from '../data/gateways'
 import { t } from '../i18n/ui'
 import { directionsUrl } from '../utils/directions'
-import type { City, CityHighlight, Place } from '../types'
+import type { City, CityHighlight, Gateway, Place } from '../types'
 import { clearPlans, mergeTrip, parseTrip, setPlan, setRoute, useTrip } from '../trip/store'
 import { mergeVisits, parseVisits, useVisitedPlaces } from '../hooks/useVisitedPlaces'
 
@@ -35,14 +36,20 @@ function TripView() {
   const [message, setMessage] = useState('')
   // What a delete button is waiting to confirm: a city id, or 'all' for the reset button.
   const [confirming, setConfirming] = useState<string | null>(null)
+  // Saved airports, stations and ports live in per-country modules: load them only when some are saved.
+  const [gatewayList, setGatewayList] = useState<Gateway[]>([])
+  const hasGateways = trip.gateways.length > 0
+  useEffect(() => {
+    if (hasGateways) loadAllGateways().then(setGatewayList)
+  }, [hasGateways])
 
   const plans = Object.entries(trip.plans)
     .map(([cityId, days]) => ({ city: getCity(cityId), days }))
     .filter((p): p is { city: City; days: typeof p.days } => !!p.city)
 
-  const groups = new Map<string, { city: City; highlights: CityHighlight[]; places: Place[] }>()
+  const groups = new Map<string, { city: City; highlights: CityHighlight[]; places: Place[]; gateways: Gateway[] }>()
   const group = (city: City) => {
-    if (!groups.has(city.id)) groups.set(city.id, { city, highlights: [], places: [] })
+    if (!groups.has(city.id)) groups.set(city.id, { city, highlights: [], places: [], gateways: [] })
     return groups.get(city.id)!
   }
   for (const id of trip.highlights) {
@@ -54,6 +61,11 @@ function TripView() {
     const place = getPlace(id)
     const city = place ? getCity(place.cityId) : undefined
     if (place && city) group(city).places.push(place)
+  }
+  for (const id of trip.gateways) {
+    const gateway = gatewayList.find((g) => g.id === id)
+    const city = gateway ? getCity(gateway.cityId) : undefined
+    if (gateway && city) group(city).gateways.push(gateway)
   }
 
   const exportFile = () => {
@@ -85,7 +97,7 @@ function TripView() {
   const empty = plans.length === 0 && groups.size === 0
   // Cities with saved sights or places that the route does not visit yet, in the order they were saved.
   const notInRoute = [...groups.keys()].filter((id) => !trip.route.includes(id))
-  const beenCount = trip.beenHighlights.length + trip.beenPlaces.length
+  const beenCount = trip.beenHighlights.length + trip.beenPlaces.length + trip.beenGateways.length
   const stampCount = Object.keys(visits.countries).length + Object.keys(visits.cities).length
   const nothingToExport = empty && trip.route.length === 0 && beenCount === 0 && stampCount === 0
 
@@ -99,6 +111,9 @@ function TripView() {
           {t('beenSummary', lang)
             .replace('{h}', String(trip.beenHighlights.length))
             .replace('{p}', String(trip.beenPlaces.length))}
+          {trip.beenGateways.length > 0
+            ? t('beenSummaryGateways', lang).replace('{g}', String(trip.beenGateways.length))
+            : null}
         </p>
       ) : null}
 
@@ -204,14 +219,14 @@ function TripView() {
       {groups.size > 0 ? (
         <section className="search-group">
           <p className="section-label">
-            {t('favTitle', lang)} {trip.highlights.length + trip.places.length}
+            {t('favTitle', lang)} {trip.highlights.length + trip.places.length + trip.gateways.length}
           </p>
           {notInRoute.length > 1 ? (
             <button type="button" className="plan-btn" onClick={() => setRoute([...trip.route, ...notInRoute])}>
               {t('favAddAllToRoute', lang).replace('{n}', String(notInRoute.length))}
             </button>
           ) : null}
-          {[...groups.values()].map(({ city, highlights, places }) => (
+          {[...groups.values()].map(({ city, highlights, places, gateways }) => (
             <div key={city.id} className="trip-fav-group">
               <div className="trip-plan-head">
                 <Link className="trip-city" to={`/city/${city.id}`}>
@@ -246,6 +261,19 @@ function TripView() {
                       <span className="search-item-sub">{t('searchKind_place', lang)}</span>
                     </button>
                     <FavoriteButton kind="places" id={p.id} />
+                  </li>
+                ))}
+                {gateways.map((g) => (
+                  <li key={g.id} className="trip-fav">
+                    <button
+                      type="button"
+                      className="search-item"
+                      onClick={() => navigate(`/city/${city.id}`, { state: { highlightId: g.id } })}
+                    >
+                      <span className="search-item-title">{g.name.split('|')[lang === 'ko' ? 0 : 1] ?? g.name}</span>
+                      <span className="search-item-sub">{t('searchKind_gateway', lang)}</span>
+                    </button>
+                    <FavoriteButton kind="gateways" id={g.id} />
                   </li>
                 ))}
               </ul>

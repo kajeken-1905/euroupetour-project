@@ -5725,7 +5725,15 @@ export const cities: City[] = [
         description: { ko: "먹거리 노점이 가득한 실내 식품 시장입니다.", en: "Indoor food market packed with stalls." },
         image: "/highlights/florence-9.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mercato%20Centrale%20Florence",
-      }
+      },
+      {
+        id: "florence-h10",
+        name: { ko: "더몰 럭셔리 아울렛", en: "The Mall Luxury Outlets" },
+        description: { ko: "피렌체 남동쪽 레초 마을에 있는 명품 아울렛으로 구찌·생로랑·보테가 베네타 등 이탈리아·해외 명품 브랜드가 모여 있습니다.", en: "A luxury outlet village at Leccio, south-east of Florence, gathering Gucci, Saint Laurent, Bottega Veneta and other Italian and international labels." },
+        image: "/highlights/florence-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=The%20Mall%20Firenze%20Leccio%20Reggello",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {

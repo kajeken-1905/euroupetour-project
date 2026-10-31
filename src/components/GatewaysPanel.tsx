@@ -1,4 +1,6 @@
 import { Link } from 'react-router-dom'
+import { BeenButton } from './BeenButton'
+import { FavoriteButton } from './FavoriteButton'
 import { useLanguage } from '../contexts/LanguageContext'
 import { getCityBrief } from '../data/cityIndex'
 import { t } from '../i18n/ui'
@@ -100,6 +102,10 @@ function GatewayCard({ gateway }: { gateway: Gateway }) {
           <GatewayCardBody gateway={gateway} />
         </a>
       )}
+      <div className="card-float-actions">
+        <FavoriteButton kind="gateways" id={gateway.id} />
+        <BeenButton kind="gateways" id={gateway.id} />
+      </div>
       <GatewayWays gateway={gateway} />
     </article>
   )

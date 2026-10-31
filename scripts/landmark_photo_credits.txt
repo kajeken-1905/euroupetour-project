@@ -1245,3 +1245,4 @@ highlights/venice-1.jpg | own photo IMG_6798 (site owner, 2023-10-31) | — | si
 highlights/venice-2.jpg | own photo IMG_6771_B (site owner, 2023-10-31) | — | site owner
 highlights/venice-3.jpg | own photo IMG_6752 (site owner, 2023-10-31) | — | site owner
 highlights/venice-21.jpg | https://commons.wikimedia.org/wiki/File:Vaporetto_stop,_Ca%27_d%27Oro,_Venice,_Italy.tif | CC BY-SA 4.0 | Maitra
+highlights/florence-10.jpg | https://www.flickr.com/photos/73111976@N04/8494419323 | BY 2.0 | StefanoRomeTours

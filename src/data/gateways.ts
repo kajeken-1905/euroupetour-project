@@ -30,3 +30,14 @@ export function useGateways(countryId: string): Gateway[] | undefined {
   }, [countryId])
   return list
 }
+
+/** Every country's gateways, for lists that can hold any of them (the saved list on the home screen). */
+export function loadAllGateways(): Promise<Gateway[]> {
+  return Promise.all(
+    Object.entries(modules).map(async ([path, load]) => {
+      const id = path.slice('./gateways/'.length, -'.ts'.length)
+      if (!cache.has(id)) cache.set(id, (await load()).GATEWAYS)
+      return cache.get(id)!
+    }),
+  ).then((lists) => lists.flat())
+}

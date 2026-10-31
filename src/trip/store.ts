@@ -21,9 +21,13 @@ export interface TripData {
   beenHighlights: string[]
   /** Place ids the traveller has been to. */
   beenPlaces: string[]
+  /** Saved airport, station and port ids. */
+  gateways: string[]
+  /** Airport, station and port ids the traveller has been to. */
+  beenGateways: string[]
 }
 
-export type FavoriteKind = 'highlights' | 'places'
+export type FavoriteKind = 'highlights' | 'places' | 'gateways'
 
 const STORAGE_KEY = 'my-trip-v1'
 
@@ -67,6 +71,8 @@ export function parseTrip(value: unknown): TripData | undefined {
     routeDates,
     beenHighlights: strings(raw.beenHighlights),
     beenPlaces: strings(raw.beenPlaces),
+    gateways: strings(raw.gateways),
+    beenGateways: strings(raw.beenGateways),
   }
 }
 
@@ -78,6 +84,8 @@ const EMPTY: TripData = {
   routeDates: [],
   beenHighlights: [],
   beenPlaces: [],
+  gateways: [],
+  beenGateways: [],
 }
 
 function load(): TripData {
@@ -116,7 +124,7 @@ export function toggleFavorite(kind: FavoriteKind, id: string) {
   commit({ ...data, [kind]: list.includes(id) ? list.filter((v) => v !== id) : [...list, id] })
 }
 
-const BEEN_KEY = { highlights: 'beenHighlights', places: 'beenPlaces' } as const
+const BEEN_KEY = { highlights: 'beenHighlights', places: 'beenPlaces', gateways: 'beenGateways' } as const
 
 /** The ids of sights or places marked as visited. */
 export function beenList(trip: TripData, kind: FavoriteKind): string[] {
@@ -167,5 +175,7 @@ export function mergeTrip(incoming: TripData) {
     routeDates: incoming.route.length > 0 ? incoming.routeDates : data.routeDates,
     beenHighlights: [...new Set([...data.beenHighlights, ...incoming.beenHighlights])],
     beenPlaces: [...new Set([...data.beenPlaces, ...incoming.beenPlaces])],
+    gateways: [...new Set([...data.gateways, ...incoming.gateways])],
+    beenGateways: [...new Set([...data.beenGateways, ...incoming.beenGateways])],
   })
 }

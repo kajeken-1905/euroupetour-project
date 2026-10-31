@@ -190,6 +190,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'florence-h7': v(45, 60, { c: 'daily', s: 'https://www.smn.it/en/', k: '2026-10' }),
   'florence-h8': v(20, 30, { c: 'daily', s: 'https://duomo.firenze.it/en/home', n: '대성당 통합권으로 봅니다. 매일 8:30~19:30이고 매달 첫 일요일은 13:30에 닫습니다. 부활절·12월 25일·1월 1일은 닫고, 천장 모자이크는 복원 중이라 보이지 않습니다.|Visited on the cathedral complex pass. Open daily 8:30–19:30, closing at 13:30 on the first Sunday of the month; closed Easter Sunday, 25 December and 1 January. The ceiling mosaics are hidden by restoration work.', k: '2026-10' }),
   'florence-h9': v(45, 60, { c: 'daily', k: '2026-10' }),
+  'florence-h10': v(180, 240, { c: 'daily', s: 'https://firenze.themall.it/en/visit-us/', t: 'https://themall.busitaliashop.it/en/', n: '매일 10:00~19:00에 엽니다. 피렌체 피아찰레 몬텔룽고(산타 마리아 노벨라역 북쪽)에서 직행 셔틀버스가 8:40~17:00에 하루 11편, 돌아오는 차는 19:20이 막차이며 표는 Busitalia 온라인 판매처에서 삽니다. 면세 환급 라운지가 있습니다.|Open daily 10:00–19:00. A direct shuttle runs from Piazzale Montelungo (north of Santa Maria Novella station) 11 times a day from 8:40 to 17:00, last bus back 19:20; buy tickets from the Busitalia online shop. There is a tax-free lounge.', k: '2026-10' }),
   // Pisa
   'pisa-h1': v(30, 45, { c: 'daily', b: 'req', s: OPA, n: '탑에 오르려면 시간 지정 예약이 필요하고 만 8세 미만은 오를 수 없습니다.|Climbing needs a timed ticket; children under 8 are not admitted.', k: '2026-10' }),
   'pisa-h2': v(20, 30, { c: 'daily', s: OPA, n: '성당은 무료이지만 시간 지정 입장권을 받아야 합니다.|The cathedral is free but needs a timed pass.', k: '2026-10' }),

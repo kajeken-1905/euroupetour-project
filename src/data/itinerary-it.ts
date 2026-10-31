@@ -16,6 +16,7 @@ export const itineraryIt: Record<string, RawItinerary> = {
       ['두오모와 아카데미아|Duomo & Accademia', 7, 9, 5, 1, 8],
       ['우피치와 아르노 강|Uffizi & the Arno', 6, 2, 3, 4],
     ],
+    trips: [['더몰 아울렛|The Mall outlet', 10]],
   },
   venice: {
     days: [
