@@ -1314,3 +1314,32 @@ highlights/lisbon-32.jpg | https://commons.wikimedia.org/wiki/File:View_of_Ponte
 highlights/lisbon-33.jpg | https://commons.wikimedia.org/wiki/File:Colorful_Headphone_Girl_Mural_%E2%80%93_LX_Factory,_Lisbon_(54710208650).jpg | CC BY 4.0 | Dale Cruse - 10M views from San Francisco, CA, USA
 highlights/lisbon-34.jpg | https://commons.wikimedia.org/wiki/File:Museu_de_Arte,_Arquitetura_e_Tecnologia.jpg | CC BY-SA 4.0 | Leeturtle
 highlights/lisbon-31.jpg | https://commons.wikimedia.org/wiki/File:Dom_Fernando_II_e_Gl%C3%B3ria,_antiga_fragata_portuguesa,_atual_museu_02.jpg | CC BY-SA 4.0 | GualdimG
+themeparks/disneyland-paris.jpg | https://commons.wikimedia.org/wiki/File:Disneyland_Paris_Fantasyland_Panorama.jpg | CC BY-SA 2.0 | CetusCetus from University of Warwick, England
+themeparks/parc-asterix.jpg | https://commons.wikimedia.org/wiki/File:Le_Cheval_de_Troie_(Parc_Ast%C3%A9rix).jpg | CC BY-SA 4.0 | Bernd van Delft
+themeparks/europa-park.jpg | https://commons.wikimedia.org/wiki/File:Haupteingang_Europa-Park_Rust.jpg | CC BY-SA 4.0 | Graf Umarov
+themeparks/phantasialand.jpg | https://commons.wikimedia.org/wiki/File:Phantasialand_Entrance_Sign.JPG | CC BY-SA 3.0 | JZ85
+themeparks/heide-park.jpg | https://commons.wikimedia.org/wiki/File:Heide-Park_Eingang.jpg | CC BY-SA 3.0 | Oxfordian Kissuth
+themeparks/legoland-deutschland.jpg | https://commons.wikimedia.org/wiki/File:Legoland_Deutschland.jpg | CC BY-SA 3.0 | A. Kniesel
+themeparks/skyline-park.jpg | https://commons.wikimedia.org/wiki/File:Allgaeu-Skyline-Park_Skyline_Express-1.jpg | CC BY-SA 4.0 | Rufus46
+themeparks/erlebnispark-steinau.jpg | https://commons.wikimedia.org/wiki/File:Erlebnispark_Steinau_Teppichrutsche.jpg | CC BY-SA 4.0 | Freak-Line-Community
+themeparks/efteling.jpg | https://commons.wikimedia.org/wiki/File:Efteling_Entrance.jpg | CC BY 2.5 | Stefan Scheer
+themeparks/duinrell.jpg | https://commons.wikimedia.org/wiki/File:Duinrell_34.jpg | CC BY 4.0 | Hanno Lans
+themeparks/walibi-belgium.jpg | https://commons.wikimedia.org/wiki/File:Walibi_Belgium_Entr%C3%A9e_pour_les_50_ans.jpg | CC0 | Roro00713
+themeparks/plopsaland.jpg | https://commons.wikimedia.org/wiki/File:Ingang_Plopsaland_De_Panne_3.JPG | CC BY-SA 4.0 | Druyts.t
+themeparks/legoland-billund.jpg | https://commons.wikimedia.org/wiki/File:Billund_Legoland_22.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+themeparks/tusenfryd.jpg | https://commons.wikimedia.org/wiki/File:TusenfrydEntrance.jpg | CC BY-SA 2.5 | 
+themeparks/walibi-holland.jpg | https://commons.wikimedia.org/wiki/File:Drako_Walibi_Holland.jpg | CC BY 4.0 | Thijslandsmeer
+themeparks/portaventura.jpg | https://commons.wikimedia.org/wiki/File:PortAventura_parque_de_atracciones.jpg | CC BY-SA 4.0 | Uxuee123
+themeparks/tibidabo.jpg | https://commons.wikimedia.org/wiki/File:Amusement_Park_on_Tibidabo_with_views_of_Barcelona.jpg | CC BY 4.0 | Mattsjc
+themeparks/parque-warner.jpg | https://commons.wikimedia.org/wiki/File:Parque_Warner_Madrid_(1).jpg | CC BY-SA 4.0 | Joseolgon
+themeparks/isla-magica.jpg | https://commons.wikimedia.org/wiki/File:Logo_de_Isla_M%C3%A1gica.jpg | CC BY 2.0 | Manuel Martín
+themeparks/gardaland.jpg | https://commons.wikimedia.org/wiki/File:Gardaland_banner.jpg | CC BY-SA 4.0 | Alexdechi
+themeparks/mirabilandia.jpg | https://commons.wikimedia.org/wiki/File:Mirabilandia_71.jpg | CC0 | SIG SG 510
+themeparks/energylandia.jpg | https://commons.wikimedia.org/wiki/File:Energylandia_-_Entrance_(2018).jpg | CC BY-SA 4.0 | Tom a
+themeparks/legoland-windsor.jpg | https://commons.wikimedia.org/wiki/File:Entrance_to_Legoland_Windsor,_Berkshire_-_geograph.org.uk_-_3125737.jpg | CC BY-SA 2.0 | Steven Haslington
+themeparks/thorpe-park.jpg | https://commons.wikimedia.org/wiki/File:Big_Easy_Bumpers_sign_and_water_ride_at_Thorpe_Park_2024-05-08_aa_04.png | CC BY-SA 4.0 | Suntooooth
+themeparks/wb-studio-tour.jpg | https://commons.wikimedia.org/wiki/File:Entrance_of_Warner_Bros._Studio_Tour_London_(2025).jpg | CC BY-SA 4.0 | S. Perquin
+themeparks/bakken.jpg | https://commons.wikimedia.org/wiki/File:The_Bakken_Museum_Icon.jpg | CC BY 4.0 | Unknown authorUnknown author
+themeparks/grona-lund.jpg | https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_and_Djurg%C3%A5rden_ferry.jpg | CC BY 4.0 | OleNeitzel
+themeparks/linnanmaki.jpg | https://commons.wikimedia.org/wiki/File:Rinkeli_-_Linnanm%C3%A4ki_amusement_park_Helsinki_Finland.jpg | Public domain | No machine-readable author provided. Ppntori assumed (based
+themeparks/puy-du-fou.jpg | https://commons.wikimedia.org/wiki/File:Puy_du_Fou_2024_(2)_02.jpg | CC0 | Mathious Ier

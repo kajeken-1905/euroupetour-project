@@ -24,6 +24,7 @@ import { NightTrainsPanel } from '../components/NightTrainsPanel'
 import { ScenicTrainsPanel } from '../components/ScenicTrainsPanel'
 import { FunicularsPanel } from '../components/FunicularsPanel'
 import { CityGateways } from '../components/GatewaysPanel'
+import { CityThemeParks } from '../components/ThemeParksPanel'
 import { useGateways } from '../data/gateways'
 import { ItineraryPanel } from '../components/ItineraryPanel'
 import { CityMap } from '../components/CityMap'
@@ -141,6 +142,7 @@ function CityView() {
           )
         })}
         <CityGateways gateways={gateways} />
+        <CityThemeParks cityId={city.id} />
       </div>
 
       <FootballClubsPanel cityId={city.id} />

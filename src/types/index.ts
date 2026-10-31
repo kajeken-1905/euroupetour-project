@@ -180,6 +180,25 @@ export interface Gateway {
   checked: string
 }
 
+/** A theme park, shown on the screens of the cities it is reached from. Text is 'ko|en'. */
+export interface ThemePark {
+  id: string
+  name: string
+  about: string
+  /** Opening season and usual hours */
+  season: string
+  /** City id → how to get there from that city */
+  from: Record<string, { time?: string; how: string }>
+  /** Featured on a TV programme (e.g. MBC's 놀러코스터) */
+  tv?: string
+  image?: string
+  /** Search words for Google Maps */
+  maps: string
+  site: string
+  /** Month (YYYY-MM) the season and directions were checked */
+  checked: string
+}
+
 /** A direct onward connection from one city to another, as seen from one end. */
 export interface CityRoute {
   toCityId: string
