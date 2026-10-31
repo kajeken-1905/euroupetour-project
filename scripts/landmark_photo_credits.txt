@@ -1305,3 +1305,4 @@ highlights/aveiro-1.jpg | own photo IMG_0688 (site owner, 2024-11) | — | site 
 highlights/aveiro-2.jpg | own photo IMG_0778 (site owner, 2024-11) | — | site owner
 highlights/aveiro-4.jpg | own photo IMG_0737 (site owner, 2024-11) | — | site owner
 highlights/lisbon-27.jpg | https://commons.wikimedia.org/wiki/File:Lisboa_Rua_Nova_do_Carvalho_(54388054273).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/lisbon-2.jpg | own photo IMG_0906 (site owner, 2024-11) | — | site owner
