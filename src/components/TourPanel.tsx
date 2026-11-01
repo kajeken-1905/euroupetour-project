@@ -4,13 +4,14 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { getCity } from '../data/countryData'
 import { getCityRoutes, getRoutesBetween, getSurfacePath } from '../data/routes'
 import { t } from '../i18n/ui'
-import { setRoute, setRouteDate, useTrip } from '../trip/store'
+import { clearPlans, setRoute, setRouteDate, useTrip } from '../trip/store'
 import type { City, CityRoute, Lang } from '../types'
 import { search } from '../utils/search'
 import { shareUrl } from '../trip/share'
 import { routeText } from '../trip/shareText'
 import { ShareButtons } from './ShareButtons'
 import { duration, MODE_ICON } from './RoutesPanel'
+import { TripCityPlan, useOpenKeys } from './TripCityPlan'
 
 function LegLine({ route, lang, label }: { route: CityRoute; lang: Lang; label?: string }) {
   return (
@@ -72,12 +73,24 @@ function Leg({ from, to, lang }: { from: City; to: City; lang: Lang }) {
   )
 }
 
-/** The multi-city route on the My trip tab: cities in order with the connection between each pair. */
+/** One line for a closed leg: the fastest direct way, or that the trip goes via another city or is unknown. */
+function legSummary(from: City, to: City, lang: Lang) {
+  if (from.id === to.id) return t('tourSame', lang)
+  const [fastest] = getRoutesBetween(from.id, to.id)
+  if (fastest) return `${MODE_ICON[fastest.mode]} ${t(`routeMode_${fastest.mode}`, lang)} · ${duration(fastest.minutes, lang)}`
+  return getSurfacePath(from.id, to.id) ? `🔁 ${t('tourLegVia', lang)}` : t('tourNoDirect', lang)
+}
+
+/**
+ * The trip on the home screen: the route's cities in order, each with its own plan (open to read, edit or delete),
+ * the connection between each pair, and plans for cities not on the route yet. Open/closed state is per browser.
+ */
 export function TourPanel() {
   const { lang } = useLanguage()
   const trip = useTrip()
   const [query, setQuery] = useState('')
-  const [confirming, setConfirming] = useState(false)
+  const [confirming, setConfirming] = useState<'route' | 'plans' | null>(null)
+  const openKeys = useOpenKeys()
 
   // Route entries whose city is known, each keeping its index in the stored route (for its visit date).
   const entries = trip.route
@@ -123,6 +136,15 @@ export function TourPanel() {
     }
   }
   const legs = Math.max(stops.length - 1, 0)
+  const hasPlans = Object.keys(trip.plans).length > 0
+  // A city on the route twice shows its plan at its first stop only.
+  const planAt = (i: number) => ids.indexOf(ids[i]) === i && ids[i] in trip.plans
+  const legKey = (i: number) => `leg:${ids[i - 1]}>${ids[i]}`
+  const toggleKeys = [
+    ...stops.flatMap((_, i) => [...(planAt(i) ? [`plan:${ids[i]}`] : []), ...(i > 0 ? [legKey(i)] : [])]),
+    ...planned.map((c) => `plan:${c.id}`),
+  ]
+  const allOpen = toggleKeys.length > 0 && toggleKeys.every(openKeys.isOpen)
 
   return (
     <section className="search-group">
@@ -130,43 +152,70 @@ export function TourPanel() {
         <p className="section-label">
           {t('tourTitle', lang)} {stops.length > 0 ? stops.length : ''}
         </p>
-        {stops.length === 0 ? null : confirming ? (
+        {confirming ? (
           <span className="trip-confirm">
             <button
               type="button"
               className="plan-btn plan-btn-danger"
               onClick={() => {
-                setRoute([])
-                setConfirming(false)
+                if (confirming === 'route') setRoute([])
+                else clearPlans()
+                setConfirming(null)
               }}
             >
-              {t('tourClear', lang)}
+              {t(confirming === 'route' ? 'tourClear' : 'tripResetConfirm', lang)}
             </button>
-            <button type="button" className="plan-btn" onClick={() => setConfirming(false)}>
+            <button type="button" className="plan-btn" onClick={() => setConfirming(null)}>
               {t('planCancel', lang)}
             </button>
           </span>
         ) : (
-          <button type="button" className="plan-btn" onClick={() => setConfirming(true)}>
-            {t('tourClear', lang)}
-          </button>
+          <span className="trip-confirm">
+            {toggleKeys.length > 0 ? (
+              <button type="button" className="plan-btn" onClick={() => openKeys.setAll(toggleKeys, !allOpen)}>
+                {t(allOpen ? 'tourCollapseAll' : 'tourExpandAll', lang)}
+              </button>
+            ) : null}
+            {hasPlans ? (
+              <button type="button" className="plan-btn" onClick={() => setConfirming('plans')}>
+                {t('tripReset', lang)}
+              </button>
+            ) : null}
+            {stops.length > 0 ? (
+              <button type="button" className="plan-btn" onClick={() => setConfirming('route')}>
+                {t('tourClear', lang)}
+              </button>
+            ) : null}
+          </span>
         )}
       </div>
       <div className="transit-card">
         {stops.length > 0 ? (
           <ol className="tour-stops">
             {stops.map((city, i) => {
-              const days = trip.plans[city.id]?.length
               return (
                 <li key={`${city.id}-${i}`}>
-                  {i > 0 ? <Leg from={stops[i - 1]} to={city} lang={lang} /> : null}
+                  {i > 0 ? (
+                    <div className="tour-leg-wrap">
+                      <button
+                        type="button"
+                        className="trip-toggle tour-leg-toggle"
+                        aria-expanded={openKeys.isOpen(legKey(i))}
+                        onClick={() => openKeys.toggle(legKey(i))}
+                      >
+                        <span className="trip-toggle-icon" aria-hidden="true">
+                          {openKeys.isOpen(legKey(i)) ? '▾' : '▸'}
+                        </span>
+                        {legSummary(stops[i - 1], city, lang)}
+                      </button>
+                      {openKeys.isOpen(legKey(i)) ? <Leg from={stops[i - 1]} to={city} lang={lang} /> : null}
+                    </div>
+                  ) : null}
                   <div className="tour-stop">
                     <span className="tour-stop-n">{i + 1}</span>
                     <Link className="tour-stop-city" to={`/city/${city.id}`}>
                       {city.name[lang]}
-                      {days ? (
-                        <span className="tour-stop-days">{t('tourDays', lang).replace('{n}', String(days))}</span>
-                      ) : null}
+
                     </Link>
                     <input
                       className="tour-stop-date"
@@ -203,6 +252,15 @@ export function TourPanel() {
                       ×
                     </button>
                   </div>
+                  {ids.indexOf(city.id) === i ? (
+                    <div className="tour-stop-plan">
+                      <TripCityPlan
+                        city={city}
+                        open={openKeys.isOpen(`plan:${city.id}`)}
+                        onToggle={() => openKeys.toggle(`plan:${city.id}`)}
+                      />
+                    </div>
+                  ) : null}
                 </li>
               )
             })}
@@ -256,17 +314,23 @@ export function TourPanel() {
             </div>
           </>
         ) : null}
-        {!query.trim() && planned.length > 0 ? (
-          <>
-            <p className="tour-pick-label">{t('tourFromPlans', lang)}</p>
-            <div className="itinerary-stops tour-picks">
-              {planned.map((c) => (
-                <button key={c.id} type="button" className="itinerary-stop" onClick={() => add(c.id)}>
-                  + {c.name[lang]}
-                </button>
-              ))}
-            </div>
-          </>
+        {planned.length > 0 ? (
+          <div className="tour-off-route">
+            <p className="tour-pick-label">{t('tripPlansOffRoute', lang)}</p>
+            {planned.map((c) => (
+              <div key={c.id} className="tour-off-route-city">
+                <div className="trip-plan-head">
+                  <Link className="trip-city" to={`/city/${c.id}`}>
+                    {c.name[lang]} →
+                  </Link>
+                  <button type="button" className="plan-btn" onClick={() => add(c.id)}>
+                    + {t('tourAddCity', lang)}
+                  </button>
+                </div>
+                <TripCityPlan city={c} open={openKeys.isOpen(`plan:${c.id}`)} onToggle={() => openKeys.toggle(`plan:${c.id}`)} />
+              </div>
+            ))}
+          </div>
         ) : null}
         <p className="route-hint">{t('tourHint', lang)}</p>
       </div>

@@ -3417,6 +3417,75 @@ button.back-link {
   gap: 2px;
 }
 
+/* Merged route and plans: legs and plans fold to one line; open state is remembered per browser. */
+.trip-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+}
+
+.trip-toggle-icon {
+  width: 12px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.tour-leg-wrap {
+  margin: 4px 0 4px 11px;
+  padding: 2px 0 2px 18px;
+  border-left: 2px dashed var(--line);
+}
+
+.tour-leg-wrap .tour-leg {
+  margin: 0;
+  padding: 4px 0 6px;
+  border-left: 0;
+}
+
+.tour-leg-toggle {
+  color: #3d342c;
+  font-weight: 500;
+}
+
+.tour-stop-plan {
+  margin: 2px 0 6px 30px;
+}
+
+.trip-plan-block .itinerary-days {
+  margin-top: 4px;
+}
+
+.trip-plan-make {
+  display: inline-block;
+  padding: 4px 0;
+  color: var(--muted);
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.trip-plan-edit {
+  margin-top: 6px;
+}
+
+.tour-off-route {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.tour-off-route-city {
+  margin-top: 8px;
+}
+
 .tour-input {
   margin-top: 12px;
 }

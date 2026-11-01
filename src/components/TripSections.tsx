@@ -6,9 +6,8 @@ import { useLanguage } from '../contexts/LanguageContext'
 import { getCity, getPlace, loadedCities, useCountryData } from '../data/countryData'
 import { loadAllGateways } from '../data/gateways'
 import { t } from '../i18n/ui'
-import { directionsUrl } from '../utils/directions'
 import type { City, CityHighlight, Gateway, Place } from '../types'
-import { clearPlans, mergeTrip, parseTrip, setPlan, setRoute, useTrip } from '../trip/store'
+import { mergeTrip, parseTrip, setRoute, useTrip } from '../trip/store'
 import { mergeVisits, parseVisits, useVisitedPlaces } from '../hooks/useVisitedPlaces'
 
 let highlightCity: Map<string, City> | undefined
@@ -20,7 +19,7 @@ function cityOfHighlight(id: string) {
 }
 
 /**
- * The traveller's route, plans, favourites and backup, shown on the home screen. Saved sights and places can be
+ * The traveller's route with its plans, favourites and backup, shown on the home screen. Saved sights and places can be
  * in any country, so it waits for all of them; it is loaded on its own so the home screen stays light.
  */
 export default function TripSections() {
@@ -34,8 +33,6 @@ function TripView() {
   const navigate = useNavigate()
   const fileRef = useRef<HTMLInputElement>(null)
   const [message, setMessage] = useState('')
-  // What a delete button is waiting to confirm: a city id, or 'all' for the reset button.
-  const [confirming, setConfirming] = useState<string | null>(null)
   // Saved airports, stations and ports live in per-country modules: load them only when some are saved.
   const [gatewayList, setGatewayList] = useState<Gateway[]>([])
   const hasGateways = trip.gateways.length > 0
@@ -118,103 +115,6 @@ function TripView() {
       ) : null}
 
       {empty ? <div className="empty-state">{t('tripEmpty', lang)}</div> : null}
-
-      {plans.length > 0 ? (
-        <section className="search-group">
-          <div className="search-group-head">
-            <p className="section-label">
-              {t('planTitle', lang)} {plans.length}
-            </p>
-            {confirming === 'all' ? (
-              <span className="trip-confirm">
-                <button
-                  type="button"
-                  className="plan-btn plan-btn-danger"
-                  onClick={() => {
-                    clearPlans()
-                    setConfirming(null)
-                  }}
-                >
-                  {t('tripResetConfirm', lang)}
-                </button>
-                <button type="button" className="plan-btn" onClick={() => setConfirming(null)}>
-                  {t('planCancel', lang)}
-                </button>
-              </span>
-            ) : (
-              <button type="button" className="plan-btn" onClick={() => setConfirming('all')}>
-                {t('tripReset', lang)}
-              </button>
-            )}
-          </div>
-          {plans.map(({ city, days }) => {
-            const names = new Map<string, string>(city.highlights.map((h) => [h.id, h.name[lang]]))
-            const mapsUrls = new Map<string, string>(city.highlights.map((h) => [h.id, h.mapsUrl]))
-            return (
-              <div key={city.id} className="transit-card trip-plan">
-                <div className="trip-plan-head">
-                  <Link className="trip-city" to={`/city/${city.id}`}>
-                    {city.name[lang]} →
-                  </Link>
-                  {confirming === city.id ? (
-                    <span className="trip-confirm">
-                      <button
-                        type="button"
-                        className="plan-btn plan-btn-danger"
-                        onClick={() => {
-                          setPlan(city.id, undefined)
-                          setConfirming(null)
-                        }}
-                      >
-                        {t('planClearConfirm', lang)}
-                      </button>
-                      <button type="button" className="plan-btn" onClick={() => setConfirming(null)}>
-                        {t('planCancel', lang)}
-                      </button>
-                    </span>
-                  ) : (
-                    <button
-                      type="button"
-                      className="plan-btn"
-                      aria-label={`${city.name[lang]} — ${t('tripDeletePlan', lang)}`}
-                      onClick={() => setConfirming(city.id)}
-                    >
-                      {t('tripDeletePlan', lang)}
-                    </button>
-                  )}
-                </div>
-                <ol className="itinerary-days">
-                  {days.map((day, d) => {
-                    const stops = day.stops
-                      .map((id) => names.get(id) ?? getPlace(id)?.name)
-                      .filter((n): n is string => !!n)
-                    const directions = directionsUrl(
-                      day.stops
-                        .map((id) => mapsUrls.get(id) ?? getPlace(id)?.mapsUrl)
-                        .filter((u): u is string => !!u),
-                    )
-                    return (
-                      <li key={d} className="itinerary-day">
-                        <p className="itinerary-day-title">
-                          {[t('itineraryDayN', lang).replace('{n}', String(d + 1)), day.title?.[lang]]
-                            .filter(Boolean)
-                            .join(' · ')}
-                        </p>
-                        <p className="trip-stops">{stops.length ? stops.join(' → ') : t('planEmptyDay', lang)}</p>
-                        {directions ? (
-                          <a className="plan-map-link" href={directions} target="_blank" rel="noopener noreferrer">
-                            🗺 {t('planDirections', lang)} ↗
-                          </a>
-                        ) : null}
-                      </li>
-                    )
-                  })}
-                </ol>
-              </div>
-            )
-          })}
-        </section>
-      ) : null}
 
       {groups.size > 0 ? (
         <section className="search-group">

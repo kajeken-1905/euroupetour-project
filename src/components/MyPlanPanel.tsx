@@ -27,7 +27,17 @@ function moveStop(days: PlanDay[], d: number, i: number, dir: -1 | 1): PlanDay[]
   return next
 }
 
-export function MyPlanPanel({ city }: { city: City }) {
+/** The traveller's own plan for a city, editable. `embedded` drops the heading and frame for the home-screen timeline,
+    where `onStop` opens a stop instead of scrolling to it. */
+export function MyPlanPanel({
+  city,
+  embedded = false,
+  onStop = jump,
+}: {
+  city: City
+  embedded?: boolean
+  onStop?: (id: string) => void
+}) {
   const { lang } = useLanguage()
   const trip = useTrip()
   const [confirming, setConfirming] = useState(false)
@@ -51,8 +61,8 @@ export function MyPlanPanel({ city }: { city: City }) {
 
   return (
     <section className="itinerary-panel" aria-label={t('planTitle', lang)}>
-      <p className="section-label">{t('planTitle', lang)}</p>
-      <div className="transit-card">
+      {embedded ? null : <p className="section-label">{t('planTitle', lang)}</p>}
+      <div className={embedded ? 'trip-plan-edit' : 'transit-card'}>
         <ol className="itinerary-days">
           {days.map((day, d) => {
             const stops = day.stops.filter(known)
@@ -84,7 +94,7 @@ export function MyPlanPanel({ city }: { city: City }) {
                     return (
                       <li key={id} className="plan-stop">
                         {highlight ? (
-                          <button type="button" className="plan-stop-name" onClick={() => jump(id)}>
+                          <button type="button" className="plan-stop-name" onClick={() => onStop(id)}>
                             {name}
                           </button>
                         ) : (
