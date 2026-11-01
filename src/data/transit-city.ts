@@ -1379,6 +1379,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  linz: {
+    modes: ['tram', 'bus', 'train', 'walk'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고 강 건너와 역은 트램을 탑니다. 푀스틀링베르크는 50번 산악 트램으로 오릅니다.',
+      en: 'Walk the old town; trams cross the river and run to the station, and tram 50 climbs the Pöstlingberg.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  durnstein: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 크렘스역과는 715번 버스로, 멜크와는 봄~가을 유람선으로 이어집니다.',
+      en: 'Walk the village; bus 715 links it to Krems station, and spring-to-autumn boats run to Melk.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  'bad-ischl': {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 잘츠부르크와는 150번 버스로, 할슈타트와는 버스나 기차로 이어집니다.',
+      en: 'Walk around town; bus 150 runs to Salzburg, and buses or trains to Hallstatt.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  werfen: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '역에서 마을과 성은 걸어서 갑니다. 얼음 동굴은 여름에 마을에서 셔틀버스가 다니고, 내린 뒤 걷기와 케이블카로 입구까지 오릅니다.',
+      en: 'Walk from the station to the village and castle. In summer a shuttle bus runs towards the ice cave, then a walk and a cable car reach the entrance.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
   hallstatt: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {

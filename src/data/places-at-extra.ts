@@ -23,6 +23,10 @@ export const placesATExtra: Place[] = [
   place('vienna-korean-4', 'vienna', 'korean', 'Sang Sang', 'Gumpendorferstraße 14, 1060 Wien', '6구의 아시아 식당. 한식과 스시를 냅니다.', 'Asian restaurant in the 6th district serving Korean food and sushi.'),
   place('vienna-korean-5', 'vienna', 'korean', 'Gaon', 'Apollogasse 20/1, 1070 Wien', '7구의 한식당. 비빔밥·불고기·테이블 바비큐와 물냉면이 있습니다.', 'Korean restaurant in the 7th district with bibimbap, bulgogi, tabletop barbecue and cold noodles.'),
 
+  // —— linz ——
+  place('linz-fine_dining-1', 'linz', 'fine_dining', 'Verdi', 'Pachmayrstraße 137, 4040 Linz', '도시 북쪽 언덕의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant on the hills north of the city.', { michelin: 'star1' }),
+  place('linz-fine_dining-2', 'linz', 'fine_dining', 'Rossbarth', 'Klammstraße 7, 4020 Linz', '구시가 근처의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant near the old town.', { michelin: 'star1' }),
+  place('linz-fine_dining-3', 'linz', 'fine_dining', 'Kliemstein Vino Vitis', 'Obere Donaulände 15, 4020 Linz', '도나우 강변 옛 소금 창고 건물의 미쉐린 1스타 레스토랑입니다(2026년 새로 받음).', 'One-Michelin-star restaurant in the old Salzamt building on the Danube (new in 2026).', { michelin: 'star1' }),
   // —— salzburg ——
   place('salzburg-fine_dining-1', 'salzburg', 'fine_dining', 'Esszimmer', 'Müllner Hauptstraße 33, 5020 Salzburg', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.', { michelin: 'star1' }),
   place('salzburg-fine_dining-2', 'salzburg', 'fine_dining', 'St. Peter Stiftskulinarium', 'Sankt-Peter-Bezirk 1/4, 5020 Salzburg', '803년 문헌에 처음 등장하는 유럽에서 가장 오래된 레스토랑, 잘츠부르거 노케를로 유명.', 'Europe\'s oldest restaurant, first documented in 803, famous for its Salzburger Nockerl.'),

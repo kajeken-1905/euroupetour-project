@@ -1440,3 +1440,28 @@ festivals/fete-des-lumieres.jpg | https://commons.wikimedia.org/wiki/File:F%C3%A
 festivals/fete-du-jasmin.jpg | https://commons.wikimedia.org/wiki/File:2011_F%C3%AAte_du_Jasmin_de_Grasse.jpg | CC BY-SA 3.0 | Copyleft
 highlights/salzburg-12.jpg | https://commons.wikimedia.org/wiki/File:Salzburg_-_Stiftskirche_St_Peter_-_files_1730-1731a.jpg | CC BY-SA 2.5 | Andrew Bossi
 highlights/innsbruck-7.jpg | https://commons.wikimedia.org/wiki/File:Carousel_von_Jaime_Hayon.jpg | CC BY-SA 4.0 | Swarovski Kristallwelten
+cities/linz.jpg | https://commons.wikimedia.org/wiki/File:Linzer_Skyline_2025_an_der_Donau.jpg | CC BY-SA 4.0 | WWWeb.pix
+highlights/linz-1.jpg | https://commons.wikimedia.org/wiki/File:Linz_Hauptplatz_Dreifaltigkeitss%C3%A4ule_Br%C3%BCckenkopf_2015.jpg | CC BY-SA 4.0 | Isiwal
+highlights/linz-2.jpg | https://commons.wikimedia.org/wiki/File:Linz_Schloss-03.jpg | CC BY-SA 4.0 | Radler59 (talk)
+highlights/linz-3.jpg | https://commons.wikimedia.org/wiki/File:Neuer_Dom_Linz_(DFdB).JPG | CC BY-SA 3.0 | Dein Freund der Baum
+highlights/linz-4.jpg | https://commons.wikimedia.org/wiki/File:Lentos_Kunstmuseum_Linz,_Spiegelungen_in_den_Fassaden.jpg | CC BY-SA 4.0 | Martin Thurnherr
+highlights/linz-5.jpg | https://commons.wikimedia.org/wiki/File:Linz_Ars_Electronica_center-5529.jpg | CC BY-SA 4.0 | Isiwal
+highlights/linz-6.jpg | https://commons.wikimedia.org/wiki/File:Linz_-_P%C3%B6stlingberg_(b).JPG | CC BY-SA 4.0 | C.Stadler/Bwag
+highlights/linz-7.jpg | https://commons.wikimedia.org/wiki/File:Einfahrtsgeb%C3%A4ude_zum_KZ_Mauthausen_2014_2.jpg | CC BY-SA 3.0 at | Dnalor 01
+cities/durnstein.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCrnstein,_die_Donau.jpg | CC BY-SA 4.0 | Riadchikova
+highlights/durnstein-1.jpg | https://commons.wikimedia.org/wiki/File:Stift_D%C3%BCrnstein,_20210728_1223_0745.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/durnstein-2.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCrnstein_Burgruine_20211024_01.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/durnstein-3.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCrnstein,_Hauptstra%C3%9Fe_(1).jpg | CC BY-SA 4.0 | Palickap
+highlights/durnstein-4.jpg | https://commons.wikimedia.org/wiki/File:DDSG-Wachau.JPG | Public domain | Ddsg-donau at German Wikipedia
+highlights/durnstein-5.jpg | https://commons.wikimedia.org/wiki/File:Steiner_Tor_2.jpg | CC BY-SA 3.0 at | Bauer Karl
+highlights/durnstein-6.jpg | https://commons.wikimedia.org/wiki/File:Stift_Melk_Nordseite_01.jpg | CC BY-SA 4.0 | Uoaei1
+cities/bad-ischl.jpg | https://commons.wikimedia.org/wiki/File:Bad_Ischl_and_Traun_River.jpg | CC BY-SA 2.0 | David McGregor
+highlights/bad-ischl-1.jpg | https://commons.wikimedia.org/wiki/File:Kaiservilla_1491_pano_5_cut.jpg | CC BY-SA 4.0 | Henry Kellner
+highlights/bad-ischl-2.jpg | https://commons.wikimedia.org/wiki/File:Sophiens_Esplanade_Bad_Ischl_01.jpg | CC BY-SA 3.0 at | Johann Jaritz
+highlights/bad-ischl-3.jpg | https://commons.wikimedia.org/wiki/File:Bad_Ischl_Trinkhalle_2.jpg | CC BY-SA 4.0 | VitVit
+highlights/bad-ischl-4.jpg | https://commons.wikimedia.org/wiki/File:Nikolauskirche_Ischl_01-2.jpg | Public domain | Nikolauskirche_Ischl_01.JPG: Immanuel Giel
+highlights/bad-ischl-5.jpg | https://commons.wikimedia.org/wiki/File:Katrin-Seilbahn_11.jpg | CC BY 4.0 | Linie29
+cities/werfen.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenwerfen,_Werfen,_Austria,_2019-05-17,_DD_120.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/werfen-1.jpg | https://commons.wikimedia.org/wiki/File:Eisriesenwelt,_Macizos_de_Tennen,_Austria,_2019-05-18,_DD_58.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/werfen-2.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenwerfen,_Werfen,_Austria,_2019-05-18,_DD_61.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/werfen-3.jpg | https://commons.wikimedia.org/wiki/File:Werfen_from_castle_Hohenwerfen.jpg | CC BY-SA 3.0 | User:MatthiasKabel

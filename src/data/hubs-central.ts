@@ -703,6 +703,24 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Graz (GRZ)', '그라츠 공항 (GRZ)']],
     rail: [['Graz Hbf', '그라츠 중앙역']],
   },
+  linz: {
+    air: [['Linz (LNZ)', '린츠 공항 (LNZ)'], VIE('빈|Vienna')],
+    rail: [['Linz Hbf', '린츠 중앙역']],
+  },
+  durnstein: {
+    air: [VIE('빈|Vienna')],
+    rail: [['Krems an der Donau', '크렘스역', '뒤른슈타인까지 715번 버스|bus 715 to Dürnstein']],
+    port: [['Dürnstein', '뒤른슈타인 선착장', '바하우 유람선|Wachau boats']],
+  },
+  'bad-ischl': {
+    air: [SZG()],
+    rail: [['Bad Ischl', '바트 이슐역']],
+    bus: [['Bad Ischl Bahnhof', '바트 이슐역 버스 정류장', '잘츠부르크행 150번 버스|bus 150 to Salzburg']],
+  },
+  werfen: {
+    air: [SZG()],
+    rail: [['Werfen', '베르펜역']],
+  },
   hallstatt: {
     air: [SZG()],
     rail: [['Hallstatt', '할슈타트역', '호수 건너편 · 배로 연결|across the lake · boat link']],

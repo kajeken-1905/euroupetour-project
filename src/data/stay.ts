@@ -1051,6 +1051,22 @@ export const STAY: Record<string, StayArea[]> = {
     a('델포이 마을', 'Delphi village', 'Delphi village', '차 없이 지내기 좋음|Best without a car', '식당과 버스 정류장, 유적지(15분)를 걸어서 갑니다. 아테네에서 버스로 3시간쯤이라 당일치기는 긴 하루가 됩니다.|Tavernas, the bus stop and the site (15 minutes) on foot; Athens is about three hours by bus, so a day trip makes a long day.'),
     a('아라호바', 'Arachova', 'Arachova', '산마을 풍경·식당|Mountain views and food', '계곡 전망과 식당이 좋은 산마을로 델포이까지 차로 12분쯤입니다. 차가 있어야 합니다.|A mountain village with valley views and good places to eat, about 12 minutes’ drive from Delphi; you need a car.'),
   ],
+  linz: [
+    a('구시가', 'Old town', 'Altstadt Linz', '구시가|Old town', '중앙 광장과 도나우강, 성이 걸어서 가깝습니다.|The Hauptplatz, the Danube and the castle are all a short walk away.'),
+    a('린츠 중앙역 주변', 'Around Linz Hbf', 'Linz Hauptbahnhof', '역 주변|Station area', '빈·잘츠부르크행 기차와 공항 버스를 타기 편하고 트램으로 중심가까지 몇 분입니다.|Handy for trains to Vienna and Salzburg, a few minutes by tram from the centre.'),
+  ],
+  durnstein: [
+    a('마을에서 묵기', 'In the town', 'Dürnstein', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('빈에서 다녀오기', 'Base in Vienna', 'Wien', '거점에서 다녀오기|Day trip from a base', '빈에서 기차로 크렘스까지 간 뒤 715번 버스로 갈아타 약 2시간입니다.|About 2 hours from Vienna: train to Krems, then bus 715.'),
+  ],
+  'bad-ischl': [
+    a('시내에서 묵기', 'In town', 'Bad Ischl', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('잘츠부르크에서 다녀오기', 'Base in Salzburg', 'Salzburg', '거점에서 다녀오기|Day trip from a base', '잘츠부르크에서 150번 버스로 약 1시간 35분입니다.|About 1 hr 35 by bus 150 from Salzburg.'),
+  ],
+  werfen: [
+    a('마을에서 묵기', 'In the town', 'Werfen', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('잘츠부르크에서 다녀오기', 'Base in Salzburg', 'Salzburg', '거점에서 다녀오기|Day trip from a base', '잘츠부르크에서 기차로 약 45분입니다.|About 45 min by train from Salzburg.'),
+  ],
   hallstatt: [
     a('할슈타트 마을', 'Hallstatt village', 'Hallstatt', '당일치기 손님이 떠난 저녁|Evenings after the day-trippers', '호숫가 마을의 저녁과 아침을 한적하게 봅니다. 숙소가 적고 호수 전망 방은 더 비쌉니다.|The lakeside village is calm in the evening and morning; few rooms, and lake views cost extra.'),
   ],

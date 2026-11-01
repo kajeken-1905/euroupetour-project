@@ -667,6 +667,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'bratislava',
       tip: '성과 구시가를 반나절에 봅니다. 기차나 도나우강 배로 갑니다.|The castle and old town in half a day, by train or Danube boat.',
     },
+    {
+      to: 'linz',
+      tip: '도나우 강변의 렌토스 미술관과 아르스 일렉트로니카 센터를 보고 산악 트램으로 푀스틀링베르크에 오릅니다.|The Lentos and the Ars Electronica Center on the Danube, then the mountain tram up the Pöstlingberg.',
+    },
+    {
+      to: 'durnstein',
+      tip: '크렘스에서 버스로 뒤른슈타인에 가 파란 탑과 성터를 보고, 봄~가을엔 배로 멜크 수도원까지 올라갑니다.|By bus from Krems to Dürnstein for the blue tower and the castle ruins, then in season the boat up to Melk Abbey.',
+    },
   ],
   budapest: [
     {
@@ -1256,6 +1264,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'berchtesgaden',
       tip: '840번 버스로 국경을 넘어 쾨니히스제 호수 배를 타고 성 바르톨로메 성당까지 갑니다. 켈슈타인하우스는 2026년 10월 화재로 소실돼 갈 수 없습니다.|Bus 840 across the border to the Königssee and a boat to St Bartholomä; the Kehlsteinhaus burned down in October 2026 and cannot be visited.',
+    },
+    {
+      to: 'linz',
+      tip: '중앙 광장과 강변 미술관을 보고 푀스틀링베르크에 오릅니다. 마우트하우젠 추모관을 함께 보면 하루가 꽉 찹니다.|The Hauptplatz, the riverside museums and the Pöstlingberg; adding the Mauthausen Memorial fills the day.',
+    },
+    {
+      to: 'bad-ischl',
+      tip: '150번 버스로 볼프강 호수를 지나 황제 별장과 강변 산책로를 보고 옛 제과점에서 케이크를 먹습니다.|Bus 150 past the Wolfgangsee to the Kaiservilla and the riverside promenade, with cake at an old pastry shop.',
+    },
+    {
+      to: 'werfen',
+      tip: '오전에 얼음 동굴에 오르고 오후에 호엔베르펜 성의 맹금류 시범을 봅니다. 동굴은 5~10월에만 엽니다.|The ice cave in the morning and the birds-of-prey show at Hohenwerfen in the afternoon; the cave opens May–October only.',
     },
   ],
   bath: [
