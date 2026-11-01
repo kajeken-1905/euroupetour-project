@@ -41,6 +41,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'salzburg-h11': v(45, 60, { c: 'daily', s: 'https://mozarteum.at/en/mozart-museums/mozarts-residence', n: '매일 9:00~17:30에 엽니다. 표는 공식 판매처에서만 사세요.|Open daily 9:00–17:30; buy tickets only from the official shop.', k: '2026-10' }),
   'salzburg-h12': v(30, 45, { s: 'https://www.stift-stpeter.at/' }),
   'salzburg-h13': v(120, 180, { s: 'https://www.untersbergbahn.at/', n: '계절마다 운행 시간이 다릅니다(10월 8:30~17:00).|Hours vary by season (October 8:30–17:00).', k: '2026-10', x: [['2026년 11월 2일~12월 13일은 정비로 운휴합니다.|Closed for servicing 2 November–13 December 2026.', '2026-12-13']] }),
+  'salzburg-h14': v(20, 30, { s: 'https://www.mozarthaus.info/', n: '잘츠부르크에서 150번 버스로 약 50분입니다. 집 안은 계절·요일에 따라 열어 가기 전에 운영 시간을 확인하세요. 장크트볼프강과 함께 보면 좋습니다.|About 50 min from Salzburg on bus 150. The house opens on set days in season, so check the hours before going; it pairs well with St. Wolfgang.' }),
   // Innsbruck
   'innsbruck-h1': v(15, 30),
   'innsbruck-h2': v(120, 180, { s: 'https://nordkette.com/en/', n: '봄·가을 정기 점검 기간과 강풍 때는 운휴합니다.|Closed for maintenance spells in spring and autumn, and in high winds.' }),

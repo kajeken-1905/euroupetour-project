@@ -281,6 +281,17 @@ export function PlannerPanel({ city }: { city: City }) {
                   {t('plannerCancel', lang)}
                 </button>
               ) : null}
+              <button
+                type="button"
+                className="plan-btn plan-btn-danger"
+                onClick={() => {
+                  setOpen(false)
+                  setSaved(false)
+                  setConfirming(false)
+                }}
+              >
+                {t('plannerDiscard', lang)}
+              </button>
             </div>
           </>
         ) : (

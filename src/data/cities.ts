@@ -3091,6 +3091,14 @@ export const cities: City[] = [
         image: "/highlights/salzburg-13.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Untersbergbahn",
         group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "salzburg-h14",
+        name: { ko: "장크트길겐 모차르트하우스", en: "Mozart House, St. Gilgen" },
+        description: { ko: "볼프강 호숫가 마을 장크트길겐에 있는 모차르트 어머니의 생가로, 누나 난네를도 이 집에 살았습니다.", en: "The birthplace of Mozart’s mother in St. Gilgen on the Wolfgangsee, later home to his sister Nannerl." },
+        image: "/highlights/salzburg-14.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mozarthaus%20St.%20Gilgen",
+        group: { ko: "근교 당일치기", en: "Day trip" },
       }
     ],
   },

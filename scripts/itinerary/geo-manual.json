@@ -108,5 +108,20 @@
   "lisbon-h27": [
     38.70718,
     -9.14312
+  ],
+  "salzburg-h8": [
+    47.73787,
+    13.44827,
+    "previous verified pin (St. Wolfgang village; Wikipedia article match changed on 2026-11-01 rerun)"
+  ],
+  "salzburg-h14": [
+    47.76663,
+    13.36795,
+    "OSM Nominatim \"Mozart Haus St. Gilgen, Ischlerstraße 15\" and Wikidata Q1648992 agree (2026-11-01)"
+  ],
+  "werfen-h3": [
+    47.47825,
+    13.18806,
+    "previous verified pin (Werfen village centre); search changed to the parish church on 2026-11-01"
   ]
 }

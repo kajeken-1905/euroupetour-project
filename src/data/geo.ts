@@ -237,6 +237,7 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'salzburg-h6': [47.79785, 13.04662],
   'salzburg-h7': [47.7972, 13.04649],
   'salzburg-h8': [47.73787, 13.44827],
+  'salzburg-h14': [47.76663, 13.36795],
   'salzburg-h9': [47.80002, 13.04233],
   'salzburg-h10': [47.76211, 13.06027],
   'salzburg-h11': [47.80265, 13.04377],

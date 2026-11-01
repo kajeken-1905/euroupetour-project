@@ -516,6 +516,7 @@ export const ui = {
   plannerReplace: { ko: '내 일정을 이 일정으로 바꾸기', en: 'Replace my plan with this' },
   plannerReplaceConfirm: { ko: '지금 내 일정을 지우고 바꾸기', en: 'Discard my plan and replace' },
   plannerCancel: { ko: '취소', en: 'Cancel' },
+  plannerDiscard: { ko: '삭제', en: 'Delete' },
   plannerSaved: { ko: '내 일정에 저장했습니다. 위의 "내 일정"에서 고칠 수 있습니다.', en: 'Saved. Edit it under “My plan” above.' },
   planTitle: { ko: '내 일정', en: 'My plan' },
   planImport: { ko: '이 일정을 내 일정으로 가져오기', en: 'Copy this into my plan' },
