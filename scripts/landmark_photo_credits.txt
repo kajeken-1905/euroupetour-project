@@ -1608,3 +1608,4 @@ highlights/chur-6.jpg | https://commons.wikimedia.org/wiki/File:Il_Spir_panorama
 highlights/bellinzona-5.jpg | https://commons.wikimedia.org/wiki/File:Villa_dei_Cedri-Bellinzona.jpg | CC BY-SA 3.0 | Photo uploaded by User:RicciSpeziari. Photographer: Riccardo
 highlights/chur-1.jpg | https://commons.wikimedia.org/wiki/File:Poststrasse_at_Martinsplatz_in_Chur,_Graub%C3%BCnden,_Switzerland,_2012_July.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
 highlights/chur-4.jpg | https://commons.wikimedia.org/wiki/File:Chur_R%C3%A4tisches_Museum.jpg | CC BY-SA 4.0 | Paebi
+highlights/london-2.jpg | https://commons.wikimedia.org/wiki/File:London_-_Westminster_Bridge_Road_-_Jubilee_Walkway_-_Panorama_view_on_Palace_of_Westminster,_Big_Ben,_Westminster_Bridge_%26_London_Eye_03.jpg | CC BY-SA 4.0 | Txllxt TxllxT
