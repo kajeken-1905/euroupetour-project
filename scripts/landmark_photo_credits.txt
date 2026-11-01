@@ -1292,7 +1292,7 @@ highlights/aveiro-6.jpg | own photo IMG_0682 (site owner, 2024-11) | — | site 
 highlights/aveiro-7.jpg | own photo IMG_0776 (site owner, 2024-11) | — | site owner
 highlights/aveiro-8.jpg | https://commons.wikimedia.org/wiki/File:Farol_da_Barra_(5923817481).jpg | CC BY 2.0 | jfcfar from Aveiro, Portugal
 highlights/aveiro-9.jpg | https://commons.wikimedia.org/wiki/File:VISTA_ALEGRE_-_%C3%8Dlhavo_-_capela.jpg | CC BY-SA 4.0 | Isabel Pinheiro mcp
-highlights/lisbon-1.jpg | own photo IMG_0864 (site owner, 2024-11) | — | site owner
+highlights/lisbon-1.jpg | own photo IMG_0873 (site owner, 2024-11-16) | — | site owner
 highlights/lisbon-7.jpg | own photo IMG_0021 (site owner, 2024-11) | — | site owner
 highlights/lisbon-8.jpg | own photo IMG_1019 (site owner, 2024-11) | — | site owner
 highlights/lisbon-9.jpg | own photo IMG_0884 (site owner, 2024-11) | — | site owner
