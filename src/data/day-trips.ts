@@ -307,6 +307,22 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'montepulciano',
       tip: '와인 비노 노빌레의 언덕 마을. 발도르차 풍경과 묶는 투어가 편합니다.|The hill town of Vino Nobile; tours that add the Val d’Orcia countryside are easiest.',
     },
+    {
+      to: 'orvieto',
+      tip: '절벽 위 도시의 대성당과 지하 동굴을 봅니다. 기차역에서 푸니쿨라(운휴 중엔 대체 버스)로 올라갑니다.|The cliff-top town’s cathedral and underground caves; ride up from the station by funicular (or the replacement bus while it is out of service).',
+    },
+    {
+      to: 'assisi',
+      how: '기차로 약 2시간 30분(테론톨라 환승)|About 2 hrs 30 by train (change at Terontola)',
+      mode: 'train',
+      tip: '성 프란치스코 대성당의 조토 프레스코를 보고 언덕 위 중세 마을을 걷습니다. 하루가 깁니다.|Giotto’s frescoes in the Basilica of St Francis and the medieval hill town; it makes a long day.',
+    },
+    {
+      to: 'ravenna',
+      how: '기차로 약 2시간(볼로냐 환승)|About 2 hrs by train (change at Bologna)',
+      mode: 'train',
+      tip: '산 비탈레 성당과 갈라 플라치디아 영묘의 비잔틴 모자이크를 봅니다.|The Byzantine mosaics of San Vitale and the Mausoleum of Galla Placidia.',
+    },
   ],
   venice: [
     {

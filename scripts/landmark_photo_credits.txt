@@ -1585,3 +1585,12 @@ highlights/kandersteg-2.jpg | https://commons.wikimedia.org/wiki/File:Blausee_pa
 highlights/kandersteg-3.jpg | https://commons.wikimedia.org/wiki/File:1_1_gemmi_pass_fev_22_(2).jpg | CC BY-SA 4.0 | GinoOnassis
 highlights/kandersteg-4.jpg | https://commons.wikimedia.org/wiki/File:Gasternholz.jpg | CC BY 2.5 | Adrian Michael
 highlights/kandersteg-5.jpg | https://commons.wikimedia.org/wiki/File:Klettersteig_Kandersteg-Allmenalp_02.jpg | CC BY 4.0 | Kent Wang
+highlights/florence-11.jpg | https://commons.wikimedia.org/wiki/File:Southern_facade_of_Palazzo_Pitti.jpg | CC BY-SA 4.0 | Yanko Malinov
+highlights/florence-12.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_B%C3%B3boli,_Florencia,_Italia,_2022-09-19,_DD_12.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/florence-13.jpg | https://commons.wikimedia.org/wiki/File:Torre_del_Bargello_Firenze.jpg | CC0 | Mano1221
+highlights/florence-14.jpg | https://commons.wikimedia.org/wiki/File:Santa_Croce_di_Firenze_viewed_from_Giotto_Campanile_dllu.jpg | CC BY-SA 4.0 | Dllu
+highlights/florence-15.jpg | https://commons.wikimedia.org/wiki/File:Firenze,_cappella_dei_principi,_interno_02.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/florence-16.jpg | https://commons.wikimedia.org/wiki/File:Firenze_-_basilica_di_San_Miniato_al_Monte_-_2026-09-29.jpg | CC BY-SA 4.0 | Mykola_Pokalyuk
+highlights/florence-17.jpg | https://commons.wikimedia.org/wiki/File:Nuovo_museo_dell%27opera_del_duomo,_sala_della_cupola_01.JPG | CC BY 3.0 | Sailko
+highlights/florence-18.jpg | https://commons.wikimedia.org/wiki/File:Firenze,_loggia_dei_lanzi_(2020)_02.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/florence-19.jpg | https://commons.wikimedia.org/wiki/File:FiesoleDec092023_11.jpg | CC BY-SA 4.0 | Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר
