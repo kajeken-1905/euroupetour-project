@@ -1243,7 +1243,7 @@ highlights/venice-1.jpg | own photo IMG_6798 (site owner, 2023-10-31) | — | si
 highlights/venice-2.jpg | own photo IMG_6771_B (site owner, 2023-10-31) | — | site owner
 highlights/venice-3.jpg | own photo IMG_6752 (site owner, 2023-10-31) | — | site owner
 highlights/venice-21.jpg | https://commons.wikimedia.org/wiki/File:Vaporetto_stop,_Ca%27_d%27Oro,_Venice,_Italy.tif | CC BY-SA 4.0 | Maitra
-highlights/florence-10.jpg | https://www.flickr.com/photos/73111976@N04/8494419323 | BY 2.0 | StefanoRomeTours
+outlets/the-mall-firenze.jpg | https://www.flickr.com/photos/73111976@N04/8494419323 | BY 2.0 | StefanoRomeTours
 highlights/rome-14.jpg | own photo IMG_7190 (site owner, 2023-11) | — | site owner
 highlights/rome-16.jpg | own photo IMG_7219 (site owner, 2023-11) | — | site owner
 highlights/rome-17.jpg | https://commons.wikimedia.org/wiki/File:Piazza_del_Popolo_in_Rome_(1).jpg | CC BY-SA 4.0 | Krzysztof Golik
@@ -1557,3 +1557,31 @@ highlights/lugano-6.jpg | https://commons.wikimedia.org/wiki/File:View_of_Lake_L
 highlights/lugano-7.jpg | https://commons.wikimedia.org/wiki/File:Monte_Generoso_fiore_di_pietra.jpg | CC BY-SA 4.0 | Ivo1992
 highlights/st-moritz-6.jpg | https://commons.wikimedia.org/wiki/File:Muottas_Murag2.jpg | CC BY-SA 3.0 | Adrian Michael
 highlights/bern-8.jpg | https://commons.wikimedia.org/wiki/File:Bern_Rosengarten_Brunnen_20211007.jpg | CC BY-SA 3.0 | Daniel Kraft
+cities/lauterbrunnen.jpg | https://commons.wikimedia.org/wiki/File:Wengen_village_view_towards_Lauterbrunnen_valley.jpg | CC BY-SA 4.0 | Armineaghayan
+highlights/lauterbrunnen-1.jpg | https://commons.wikimedia.org/wiki/File:C3.19_Lauterbrunnen,_Staubbachfall.jpg | CC BY-SA 4.0 | Falk2
+highlights/lauterbrunnen-2.jpg | https://commons.wikimedia.org/wiki/File:X2.25_Tr%C3%BCmmelbach.jpg | CC BY-SA 4.0 | Falk2
+highlights/lauterbrunnen-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCrren_is_a_Walser_mountain_village_in_Bernese_Oberland,_Switzerland.jpg | CC BY-SA 4.0 | Rosser1954
+highlights/lauterbrunnen-4.jpg | https://commons.wikimedia.org/wiki/File:Schilthorn_with_Bernese_Alps,_2012_August.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/lauterbrunnen-5.jpg | https://commons.wikimedia.org/wiki/File:Wengen_village_view_towards_Lauterbrunnen_valley.jpg | CC BY-SA 4.0 | Armineaghayan
+cities/locarno.jpg | https://commons.wikimedia.org/wiki/File:Locarno_from_above_-_Lake_facing_Panorama_050622.jpg | CC BY-SA 4.0 | Bob Tan
+highlights/locarno-1.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Grande_16-28_in_Locarno_(2014).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/locarno-2.jpg | https://commons.wikimedia.org/wiki/File:Madonna_del_Sasso,_Orselina,_Ticino.jpg | CC BY-SA 4.0 | Christian David
+highlights/locarno-3.jpg | https://commons.wikimedia.org/wiki/File:Wanderwegweiser_Pian_della_Cimetta_1606.jpg | CC BY-SA 4.0 | Pududuss
+highlights/locarno-4.jpg | https://commons.wikimedia.org/wiki/File:Locarno_Complesso_del_Castello_Visconteo.JPG | CC BY-SA 3.0 | Slightlym
+highlights/locarno-5.jpg | https://commons.wikimedia.org/wiki/File:CHE_%E2%80%94_Kanton_Tessin_%E2%80%94_Kreis_Isole_%E2%80%94_Ascona_%E2%80%94_Lungolago_(Schriftzug_%C2%ABI_%E2%99%A5_ASCONA%C2%BB)_Mattes_2022-07-23.jpg | CC BY 3.0 de | User:Mattes
+highlights/locarno-6.jpg | https://commons.wikimedia.org/wiki/File:Ponte_dei_Salti,_Lavertezzo.jpg | CC BY 2.0 | Peter Sieling
+highlights/locarno-7.jpg | https://commons.wikimedia.org/wiki/File:Isole_di_Brissago,_inverno.jpg | CC BY-SA 4.0 | Civvì
+cities/st-gallen.jpg | https://commons.wikimedia.org/wiki/File:St._Gallen_SG_-_Stiftsbezirk_-_01.jpg | CC BY-SA 4.0 | HaSt
+highlights/st-gallen-1.jpg | https://commons.wikimedia.org/wiki/File:Barocksaal_der_Stiftsbibliothek_St._Gallen_1.jpg | CC BY-SA 3.0 | Elena Ternovaja
+highlights/st-gallen-2.jpg | https://commons.wikimedia.org/wiki/File:St.Gallen_Kathedrale_06.jpg | CC BY-SA 3.0 | albinfo
+highlights/st-gallen-3.jpg | https://commons.wikimedia.org/wiki/File:Textile_Museum_St_Gallen_May_2011.jpg | CC BY-SA 3.0 | WWHenderson20
+highlights/st-gallen-4.jpg | https://commons.wikimedia.org/wiki/File:St-Gallen_von_oben_(von_Drei_Weieren)_-_St-Gall_vue_d%27en_haut_(depuis_Drei_Weieren)_02.jpg | CC0 | Pablodbds
+highlights/st-gallen-5.jpg | https://commons.wikimedia.org/wiki/File:Appenzell_-_Hauptgasse_-_panoramio.jpg | CC BY 3.0 | Beat Koller
+highlights/st-gallen-6.jpg | https://commons.wikimedia.org/wiki/File:Aescher-Wildkirchli_20210528_01.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/st-gallen-7.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A4ntis_(Bergstation)_im_Winter.jpg | CC BY-SA 4.0 | JoachimKohler-HB
+cities/kandersteg.jpg | https://commons.wikimedia.org/wiki/File:Kandersteg_village,_Bernese_Oberland,_Switzerland-LCCN2001701347.jpg | Public domain | Photochrom Print Collection
+highlights/kandersteg-1.jpg | https://commons.wikimedia.org/wiki/File:20190725_Oeschinensee-Panorama,_Kandersteg_(06540-42_stitch).jpg | CC BY-SA 3.0 | Günter Seggebäing, Coesfeld
+highlights/kandersteg-2.jpg | https://commons.wikimedia.org/wiki/File:Blausee_panorama_en_%C3%A9t%C3%A9.jpg | CC BY-SA 4.0 | Türke Andras
+highlights/kandersteg-3.jpg | https://commons.wikimedia.org/wiki/File:1_1_gemmi_pass_fev_22_(2).jpg | CC BY-SA 4.0 | GinoOnassis
+highlights/kandersteg-4.jpg | https://commons.wikimedia.org/wiki/File:Gasternholz.jpg | CC BY 2.5 | Adrian Michael
+highlights/kandersteg-5.jpg | https://commons.wikimedia.org/wiki/File:Klettersteig_Kandersteg-Allmenalp_02.jpg | CC BY 4.0 | Kent Wang

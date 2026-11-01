@@ -1133,6 +1133,22 @@ export const STAY: Record<string, StayArea[]> = {
     a('생모리츠 도르프', 'St. Moritz Dorf', 'St. Moritz Dorf', '처음 가는 여행에 추천|Best for a first visit', '고급 호텔과 식당, 밤 문화가 모여 있고 역과 코르빌리아 케이블카가 가깝습니다. 매우 비쌉니다.|Most of the top hotels, restaurants and nightlife, near the station and the Corviglia funicular; very expensive.'),
     a('생모리츠 바트', 'St. Moritz Bad', 'St. Moritz Bad', '조용한 호숫가|Quieter by the lake', '호숫가 아래쪽 마을이라 조용합니다. 겨울에는 해가 덜 들고 밤 문화가 적으며, 도르프까지 가파른 언덕이 있습니다.|The lower lakeside village, calmer; less winter sun and nightlife, with a steep hill up to Dorf.'),
   ],
+  lauterbrunnen: [
+    a('마을에서 묵기', 'In the town', 'Lauterbrunnen', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('인터라켄에서 다녀오기', 'Base in Interlaken', 'Interlaken', '거점에서 다녀오기|Day trip from a base', '인터라켄 동역에서 기차로 약 20분입니다.|About 20 min by train from Interlaken Ost.'),
+  ],
+  locarno: [
+    a('피아차 그란데 주변', 'Around the Piazza Grande', 'Piazza Grande Locarno', '시내|Town centre', '역과 호숫가, 푸니쿨라와 버스 정류장이 걸어서 가깝습니다.|The station, the lakefront, the funicular and the buses are all within walking distance.'),
+    a('아스코나', 'Ascona', 'Ascona', '호숫가 마을|Lakeside village', '호숫가 식당과 산책로가 모여 있고 로카르노까지 버스로 약 15분입니다.|Lakeside restaurants and promenade, about 15 min by bus from Locarno.'),
+  ],
+  'st-gallen': [
+    a('구시가', 'Old town', 'St. Gallen Altstadt', '구시가|Old town', '수도원 지구와 식당이 모여 있고 역까지 걸어서 약 10분입니다.|Close to the Abbey District and the restaurants, about 10 min on foot from the station.'),
+    a('역 주변', 'Around the station', 'St. Gallen Bahnhof', '역 앞|By the station', '취리히행 기차와 아펜첼행 기차를 타기 편합니다.|Handy for trains to Zurich and up to Appenzell.'),
+  ],
+  kandersteg: [
+    a('마을에서 묵기', 'In the town', 'Kandersteg', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('베른에서 다녀오기', 'Base in Bern', 'Bern', '거점에서 다녀오기|Day trip from a base', '베른에서 직행 기차로 약 1시간입니다.|About an hour by direct train from Bern.'),
+  ],
   montserrat: [
     a('바르셀로나에서 다녀오기', 'Day trip from Barcelona', 'Plaça d’Espanya, Barcelona', '당일치기로 많이 감|The usual day trip', '편도 1시간쯤이라 반나절·하루 투어나 기차와 산악 열차로 다녀옵니다. 산 위 수도원 숙소는 방이 적고 소박합니다.|About an hour each way by tour or train and rack railway; the monastery’s own rooms on the mountain are few and basic.'),
   ],

@@ -244,7 +244,7 @@ export const countries: Country[] = [
       background: '#FCE8E8',
       text: '#3A0000',
     },
-    cityIds: ['zurich', 'geneva', 'bern', 'lucerne', 'interlaken', 'basel', 'zermatt', 'lausanne', 'lugano', 'montreux', 'gruyeres', 'grindelwald', 'st-moritz'],
+    cityIds: ['zurich', 'geneva', 'bern', 'lucerne', 'interlaken', 'basel', 'zermatt', 'lausanne', 'lugano', 'montreux', 'gruyeres', 'grindelwald', 'st-moritz', 'lauterbrunnen', 'locarno', 'st-gallen', 'kandersteg'],
   },
   {
     id: 'li',

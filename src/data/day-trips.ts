@@ -887,6 +887,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'bregenz',
       tip: '직행 기차로 브레겐츠에 가 호수 무대를 보고 펜더 케이블카에 오릅니다. 시간이 남으면 기차로 독일 린다우 섬까지 갑니다.|Direct train to Bregenz for the lake stage and the Pfänder cable car; with time to spare, hop on the train to Lindau island in Germany.',
     },
+    {
+      to: 'st-gallen',
+      tip: '기차로 장크트갈렌에 가 수도원 도서관과 대성당을 보고 구시가를 걷습니다.|By train to St. Gallen for the Abbey Library, the cathedral and the old town.',
+    },
   ],
   geneva: [
     {
@@ -937,6 +941,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'gruyeres',
       tip: '성벽 마을과 그뤼에르 성을 보고 치즈 공방에서 퐁뒤를 먹습니다. 시간이 남으면 카이에 초콜릿 공장에 들릅니다.|The walled village and castle, then fondue at the cheese dairy; add the Cailler chocolate factory if there is time.',
     },
+    {
+      to: 'kandersteg',
+      tip: '직행 기차로 칸더슈테크에 가 곤돌라로 외시넨 호수에 오르고, 돌아오는 길에 블라우 호수에 들릅니다.|By direct train to Kandersteg for the gondola up to the Oeschinensee, stopping at the Blausee on the way back.',
+    },
   ],
   lucerne: [
     {
@@ -967,6 +975,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'grindelwald',
       tip: '피르스트 전망대와 클리프 워크, 아이거 북벽 전망을 즐깁니다.|First and its Cliff Walk, with views of the Eiger north face.',
+    },
+    {
+      to: 'lauterbrunnen',
+      tip: '기차로 라우터브루넨에 가 슈타우프바흐 폭포를 보고, 케이블카와 산악 열차로 뮈렌에 올라 절벽 위 마을을 걷습니다.|By train to Lauterbrunnen for the Staubbach Falls, then the cable car and mountain railway up to Mürren on its cliff.',
     },
   ],
   lausanne: [

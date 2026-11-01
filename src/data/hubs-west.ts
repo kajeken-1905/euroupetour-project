@@ -625,6 +625,22 @@ export const hubsWest: Record<string, RawCityHubs> = {
   },
 
   // —— li ——
+  lauterbrunnen: {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich']],
+    rail: [['Lauterbrunnen', '라우터브루넨역']],
+  },
+  locarno: {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich'], ['Milano Malpensa (MXP)', '밀라노 말펜사 공항 (MXP)', '밀라노|Milan']],
+    rail: [['Locarno', '로카르노역']],
+  },
+  'st-gallen': {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich']],
+    rail: [['St. Gallen', '장크트갈렌역']],
+  },
+  kandersteg: {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich']],
+    rail: [['Kandersteg', '칸더슈테크역']],
+  },
   vaduz: {
     air: [ZRH('스위스 취리히|Zurich, Switzerland')],
     rail: [

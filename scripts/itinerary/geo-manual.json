@@ -153,5 +153,45 @@
     46.52239,
     9.90259,
     "OSM Nominatim \"Muottas Muragl\" locality at the top station (2026-11-01)"
+  ],
+  "lauterbrunnen-h3": [
+    46.56369,
+    7.89712,
+    "OSM Nominatim \"Mürren\" railway station (2026-11-01)"
+  ],
+  "locarno-h3": [
+    46.18329,
+    8.78695,
+    "OSM Nominatim \"Funivia Orselina - Cardada\" (2026-11-01)"
+  ],
+  "st-gallen-h2": [
+    47.42314,
+    9.37668,
+    "OSM Nominatim \"Stiftskirche, Klosterhof, St. Gallen\" (2026-11-01)"
+  ],
+  "st-gallen-h6": [
+    47.2834,
+    9.41445,
+    "OSM Nominatim \"Berggasthaus Aescher-Wildkirchli\" (2026-11-01)"
+  ],
+  "st-gallen-h7": [
+    47.25648,
+    9.3176,
+    "OSM Nominatim \"Säntis-Schwebebahn, Schwägalp\" valley station (2026-11-01)"
+  ],
+  "kandersteg-h3": [
+    46.45799,
+    7.65015,
+    "OSM Nominatim \"Sunnbüel, Waldhaus, Kandersteg\" (2026-11-01)"
+  ],
+  "kandersteg-h4": [
+    46.45988,
+    7.67388,
+    "OSM Nominatim \"Gasterntal, Waldhaus, Kandersteg\" (2026-11-01)"
+  ],
+  "kandersteg-h5": [
+    46.49075,
+    7.65516,
+    "OSM Nominatim \"Luftseilbahn Kandersteg-Allmenalp\" (2026-11-01)"
   ]
 }

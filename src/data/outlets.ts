@@ -329,4 +329,17 @@ export const OUTLETS: ThemePark[] = [
     site: 'https://www.trenitalia.com/en/connections/barberino-designer-outlet-link.html',
     checked: '2026-10',
   },
+  {
+    id: 'the-mall-firenze',
+    name: '더몰 럭셔리 아울렛|The Mall Luxury Outlets',
+    about: '피렌체 남동쪽 레초 마을의 명품 아울렛으로 구찌·생로랑·보테가 베네타 등 이탈리아·해외 명품 브랜드가 모여 있습니다.|A luxury outlet village at Leccio, south-east of Florence, gathering Gucci, Saint Laurent, Bottega Veneta and other Italian and international labels.',
+    season: '매일 10:00~19:00 · 면세 환급 라운지가 있습니다.|Daily 10:00–19:00 · There is a tax-free lounge.',
+    from: {
+      florence: { how: '피아찰레 몬텔룽고(산타 마리아 노벨라역 북쪽)에서 직행 셔틀버스가 8:40~17:00에 하루 11편 다니고, 돌아오는 막차는 19:20입니다. 표는 Busitalia 온라인 판매처에서 삽니다.|A direct shuttle runs from Piazzale Montelungo (north of Santa Maria Novella station) 11 times a day from 8:40 to 17:00, last bus back 19:20; buy tickets from the Busitalia online shop.' },
+    },
+    image: '/outlets/the-mall-firenze.jpg',
+    maps: 'The Mall Firenze Leccio Reggello',
+    site: 'https://firenze.themall.it/en/visit-us/',
+    checked: '2026-10',
+  },
 ]

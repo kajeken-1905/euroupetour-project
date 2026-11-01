@@ -122,6 +122,10 @@ export const itineraryCentral: Record<string, RawItinerary> = {
     ],
   },
   'st-moritz': { days: [['', 2, 5, 1, 4, 3]], trips: [['무오타스 무라글|Muottas Muragl', 6], ['디아볼레차|Diavolezza', 7]] },
+  lauterbrunnen: { days: [['', 1, 2, 5]], trips: [['뮈렌과 쉴트호른|Mürren & Schilthorn', 3, 4]] },
+  locarno: { days: [['', 1, 4, 2, 3]], trips: [['아스코나|Ascona', 5], ['베르차스카 계곡|Verzasca valley', 6], ['브리사고 섬|Brissago Islands', 7]] },
+  'st-gallen': { days: [['', 1, 2, 3, 4]], trips: [['아펜첼과 에벤알프|Appenzell & Ebenalp', 5, 6], ['젠티스|Säntis', 7]] },
+  kandersteg: { days: [['', 1]], trips: [['블라우 호수|Blausee', 2], ['게미 고개|Gemmi Pass', 3], ['가스테른 계곡|Gasterntal', 4], ['알멘알프|Allmenalp', 5]] },
   stuttgart: {
     days: [
       ['바트 칸슈타트|Bad Cannstatt', 1, 4],

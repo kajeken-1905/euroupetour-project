@@ -1320,6 +1320,46 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
   },
   // —— at ——
+  lauterbrunnen: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 벵엔·뮈렌은 산악 열차와 케이블카로, 트뤼멜바흐 폭포와 쉴트호른 케이블카는 141번 버스로 갑니다.',
+      en: 'Walk the village; mountain trains and cable cars climb to Wengen and Mürren, and bus 141 runs to the Trümmelbach Falls and the Schilthorn cable car.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  locarno: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 마돈나 델 사소는 푸니쿨라로, 아스코나는 버스로, 베르차스카 계곡은 321번 버스로 가고 봄~가을엔 호수 배가 다닙니다.',
+      en: 'Walk the town; take the funicular to Madonna del Sasso, the bus to Ascona and bus 321 up the Verzasca valley, and the lake boats from spring to autumn.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  'st-gallen': {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 드라이 바이렌은 뮐레크 푸니쿨라로, 아펜첼과 바서라우엔(에벤알프)은 아펜첼선 기차로 갑니다.',
+      en: 'Walk the old town; the Mühlegg funicular climbs to Drei Weieren, and Appenzell trains run to Appenzell and Wasserauen (Ebenalp).',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  kandersteg: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 외시넨 곤돌라와 알멘알프는 걸어서, 블라우 호수는 230번, 준뷔엘은 241번 버스로 갑니다.',
+      en: 'Walk the village and to the Oeschinensee gondola and Allmenalp; bus 230 runs to the Blausee and bus 241 to Sunnbüel.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
   vienna: {
     modes: ['metro', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {
