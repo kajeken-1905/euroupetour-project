@@ -123,5 +123,35 @@
     47.47825,
     13.18806,
     "previous verified pin (Werfen village centre); search changed to the parish church on 2026-11-01"
+  ],
+  "bern-h8": [
+    46.95197,
+    7.4603,
+    "OSM Nominatim \"Rose Garden, Schosshalde, Bern\" (2026-11-01)"
+  ],
+  "basel-h8": [
+    47.55795,
+    7.58145,
+    "OSM Nominatim \"Spalentor, Spalenvorstadt, Basel\" (2026-11-01)"
+  ],
+  "zermatt-h6": [
+    45.9384,
+    7.72954,
+    "OSM Nominatim \"Matterhorn Glacier Paradise, Zermatt\" summit station (2026-11-01)"
+  ],
+  "montreux-h6": [
+    46.47581,
+    6.85217,
+    "OSM Nominatim \"Chaplin's World, Route de Fenil, Corsier-sur-Vevey\" (2026-11-01)"
+  ],
+  "montreux-h7": [
+    46.45832,
+    6.84644,
+    "OSM Nominatim \"Alimentarium, Quai Perdonnet, Vevey\" (2026-11-01)"
+  ],
+  "st-moritz-h6": [
+    46.52239,
+    9.90259,
+    "OSM Nominatim \"Muottas Muragl\" locality at the top station (2026-11-01)"
   ]
 }

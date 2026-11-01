@@ -5397,7 +5397,22 @@ export const cities: City[] = [
         description: { ko: "종교개혁 지도자들을 새긴 거대한 돋을새김 벽입니다.", en: "Massive relief wall honouring the leaders of the Reformation." },
         image: "/highlights/geneva-8.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Reformation%20Wall%20Geneva",
-      }
+      },
+      {
+        id: "geneva-h9",
+        name: { ko: "CERN 사이언스 게이트웨이", en: "CERN Science Gateway" },
+        description: { ko: "세계 최대 입자 물리 연구소 CERN의 방문자 센터로, 렌초 피아노가 설계한 건물에서 전시와 실험 체험을 무료로 즐깁니다.", en: "The visitor centre of CERN, the world’s largest particle physics lab, with free exhibitions and hands-on labs in a Renzo Piano building." },
+        image: "/highlights/geneva-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=CERN%20Science%20Gateway",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "geneva-h10",
+        name: { ko: "파텍 필립 박물관", en: "Patek Philippe Museum" },
+        description: { ko: "500년에 걸친 시계 약 2,500점과 자동인형, 에나멜 초상화를 모은 세계적인 시계 박물관입니다.", en: "A world-class museum of about 2,500 watches spanning 500 years, with automatons and enamel portraits." },
+        image: "/highlights/geneva-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Patek%20Philippe%20Museum",
+      },
     ],
   },
   {
@@ -5461,7 +5476,22 @@ export const cities: City[] = [
         description: { ko: "아인슈타인이 1903~1905년 살면서 특수 상대성 이론을 발표한 크람가세 49번지 집으로, 당시 살던 집을 꾸며 보여 줍니다.", en: "Kramgasse 49, the flat where Einstein lived from 1903 to 1905 and published special relativity, furnished as in his day." },
         image: "/highlights/bern-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Einsteinhaus%20Kramgasse%2049%20Bern",
-      }
+      },
+      {
+        id: "bern-h8",
+        name: { ko: "장미 정원", en: "Rosengarten" },
+        description: { ko: "곰 공원 위 언덕의 공원으로, 아레강에 둘러싸인 구시가 지붕들이 한눈에 내려다보이는 베른 최고의 전망대입니다.", en: "The park on the hill above the Bear Park, with the best view of the old town’s roofs inside the loop of the Aare." },
+        image: "/highlights/bern-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rosengarten%20Park%20Bern",
+      },
+      {
+        id: "bern-h9",
+        name: { ko: "파울 클레 센터", en: "Zentrum Paul Klee" },
+        description: { ko: "렌초 피아노가 설계한 물결 모양 건물에 화가 파울 클레의 작품을 세계에서 가장 많이 모은 미술관입니다.", en: "Renzo Piano’s wave-shaped building holding the world’s largest collection of Paul Klee’s work." },
+        image: "/highlights/bern-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zentrum%20Paul%20Klee",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -5605,6 +5635,22 @@ export const cities: City[] = [
         description: { ko: "절벽 사이 U자 계곡에 폭포 72개가 쏟아지는 마을로, 슈타우바흐 폭포와 바위 속 트뤼멜바흐 폭포가 있습니다.", en: "A U-shaped valley of sheer cliffs and 72 waterfalls, with the Staubbach Falls and the Trümmelbach Falls inside the rock." },
         image: "/highlights/interlaken-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lauterbrunnen%20Staubbachfall",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "interlaken-h7",
+        name: { ko: "이젤트발트", en: "Iseltwald" },
+        description: { ko: "브리엔츠 호수에 반도처럼 튀어나온 어촌 마을로, 드라마 〈사랑의 불시착〉의 호숫가 선착장 장면을 찍은 곳입니다.", en: "A fishing village on a little peninsula on Lake Brienz, where the lakeside jetty scene of Crash Landing on You was filmed." },
+        image: "/highlights/interlaken-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Crash%20Landing%20on%20You%20Iseltwald",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "interlaken-h8",
+        name: { ko: "쉬니게 플라테", en: "Schynige Platte" },
+        description: { ko: "1893년 개통한 톱니바퀴 열차로 오르는 해발 1,967m 전망대로, 알프스 식물 약 800종을 모은 고산 식물원과 아이거·묀히·융프라우 전망이 있습니다.", en: "A 1,967 m viewpoint reached by the historic cogwheel railway, with an alpine garden of about 800 plants and views of the Eiger, Mönch and Jungfrau." },
+        image: "/highlights/interlaken-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Schynige%20Platte",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
     ],
@@ -7344,7 +7390,30 @@ export const cities: City[] = [
         description: { ko: "움직이는 조각 분수입니다.", en: "Kinetic sculpture fountain." },
         image: "/highlights/basel-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tinguely%20Fountain%20Basel",
-      }
+      },
+      {
+        id: "basel-h6",
+        name: { ko: "바이엘러 재단", en: "Fondation Beyeler" },
+        description: { ko: "렌초 피아노가 설계한 공원 속 미술관으로, 모네·세잔·피카소부터 현대 미술까지 모은 스위스 최고의 사립 미술관입니다.", en: "Renzo Piano’s museum in a park, Switzerland’s finest private collection from Monet, Cézanne and Picasso to today." },
+        image: "/highlights/basel-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fondation%20Beyeler",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "basel-h7",
+        name: { ko: "비트라 캠퍼스", en: "Vitra Campus" },
+        description: { ko: "국경 너머 독일 바일암라인의 가구 회사 캠퍼스로, 프랭크 게리·안도 다다오·자하 하디드 등이 지은 건물과 비트라 디자인 박물관이 있습니다.", en: "A furniture company’s campus over the border in Weil am Rhein, Germany, with buildings by Frank Gehry, Tadao Ando and Zaha Hadid and the Vitra Design Museum." },
+        image: "/highlights/basel-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vitra%20Design%20Museum",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "basel-h8",
+        name: { ko: "슈팔렌 문", en: "Spalentor" },
+        description: { ko: "14세기 성벽에 남은 바젤의 성문 셋 가운데 가장 웅장한 문으로, 초록·노랑 기와 지붕과 조각 장식이 남아 있습니다.", en: "The grandest of Basel’s three surviving 14th-century city gates, with its green and yellow tiled roof and carved figures." },
+        image: "/highlights/basel-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Spalentor%20Basel",
+      },
     ],
   },
   {
@@ -7394,7 +7463,28 @@ export const cities: City[] = [
         description: { ko: "산악 역사 박물관입니다.", en: "Alpine history museum." },
         image: "/highlights/zermatt-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Matterhorn%20Museum",
-      }
+      },
+      {
+        id: "zermatt-h6",
+        name: { ko: "마터호른 글래시어 파라다이스", en: "Matterhorn Glacier Paradise" },
+        description: { ko: "해발 3,883m, 유럽에서 가장 높은 케이블카 정상역입니다. 4,000m 봉우리 38개와 빙하 14개가 보이는 전망대와 빙하 속 얼음 궁전이 있습니다.", en: "Europe’s highest cable-car station at 3,883 m, with a platform looking over 38 four-thousanders and 14 glaciers, and an ice palace inside the glacier." },
+        image: "/highlights/zermatt-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Matterhorn%20Glacier%20Paradise",
+      },
+      {
+        id: "zermatt-h7",
+        name: { ko: "순네가", en: "Sunnegga" },
+        description: { ko: "지하 푸니쿨라로 오르는 해발 2,288m 전망대로, 마터호른이 정면으로 보이는 라이 호수와 5개 호수 길이 시작되는 곳입니다.", en: "A 2,288 m viewpoint reached by underground funicular, with the Matterhorn straight ahead over Lake Leisee and the start of the Five Lakes Walk." },
+        image: "/highlights/zermatt-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sunnegga%20Zermatt",
+      },
+      {
+        id: "zermatt-h8",
+        name: { ko: "슈바르츠제", en: "Schwarzsee" },
+        description: { ko: "해발 2,583m의 검은 호수와 작은 ‘눈의 성모’ 예배당이 있는 곳으로, 마터호른 북벽이 바로 앞에 솟아 있고 회른리 산장 가는 길이 시작됩니다.", en: "The black lake at 2,583 m with its little chapel of Our Lady of the Snows, right under the Matterhorn’s north face where the path to the Hörnli hut begins." },
+        image: "/highlights/zermatt-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Schwarzsee%20Zermatt",
+      },
     ],
   },
   {
@@ -7444,7 +7534,15 @@ export const cities: City[] = [
         description: { ko: "호수 전망 공원입니다.", en: "Lake-view park esplanade." },
         image: "/highlights/lausanne-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Montbenon%20Lausanne",
-      }
+      },
+      {
+        id: "lausanne-h6",
+        name: { ko: "라보 포도밭", en: "Lavaux vineyards" },
+        description: { ko: "로잔과 브베 사이 레만 호숫가 비탈에 1만 개가 넘는 돌담 계단 포도밭이 이어지는 유네스코 세계유산입니다. 퀼리·에페스 사이를 걸으며 와이너리에 들릅니다.", en: "A UNESCO World Heritage landscape of more than 10,000 stone-walled terraces above Lake Geneva between Lausanne and Vevey; walk between Cully and Épesses and stop at the wineries." },
+        image: "/highlights/lausanne-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lavaux%20Patrimoine%20mondial%20Cully",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12741,7 +12839,23 @@ export const cities: City[] = [
         description: { ko: "호숫가 공원입니다.", en: "Lakeside city park." },
         image: "/highlights/lugano-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Parco%20Ciani%20Lugano",
-      }
+      },
+      {
+        id: "lugano-h6",
+        name: { ko: "몬테 브레", en: "Monte Brè" },
+        description: { ko: "1908년 개통한 푸니쿨라로 10분 남짓 오르는 해발 933m 산으로, 루가노 호수와 시내가 내려다보이고 ‘스위스에서 가장 햇볕이 잘 드는 산’으로 불립니다.", en: "A 933 m mountain reached in just over ten minutes by its 1908 funicular, looking over Lake Lugano and the city—called the sunniest in Switzerland." },
+        image: "/highlights/lugano-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Monte%20Br%C3%A8%20funicolare%20Cassarate",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "lugano-h7",
+        name: { ko: "몬테 제네로소", en: "Monte Generoso" },
+        description: { ko: "카폴라고에서 톱니바퀴 열차로 40분 오르는 해발 1,704m 산으로, 마리오 보타가 설계한 ‘돌꽃’ 건물에서 호수와 알프스, 밀라노 평야까지 보입니다.", en: "A 1,704 m peak 40 minutes up by cogwheel train from Capolago, with Mario Botta’s “Stone Flower” building looking over the lakes, the Alps and the plain to Milan." },
+        image: "/highlights/lugano-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fiore%20di%20pietra%20Monte%20Generoso",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12791,7 +12905,23 @@ export const cities: City[] = [
         description: { ko: "산악열차 정상 전망입니다.", en: "Cog railway summit views." },
         image: "/highlights/montreux-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rochers-de-Naye",
-      }
+      },
+      {
+        id: "montreux-h6",
+        name: { ko: "채플린스 월드", en: "Chaplin’s World" },
+        description: { ko: "찰리 채플린이 말년 25년을 보낸 브베 위 저택과 그의 영화 세트를 재현한 스튜디오, 호수가 보이는 정원으로 꾸민 박물관입니다.", en: "Charlie Chaplin’s home above Vevey for his last 25 years, with a studio recreating his film sets and a park overlooking the lake." },
+        image: "/highlights/montreux-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chaplin%27s%20World",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "montreux-h7",
+        name: { ko: "알리멘타리움과 호수의 포크", en: "Alimentarium and the fork in the lake" },
+        description: { ko: "네슬레 재단이 세운 음식 박물관으로, 앞 호수에 꽂힌 거대한 포크 조각이 브베의 상징입니다.", en: "The food museum founded by Nestlé, with the giant fork standing in the lake in front as Vevey’s emblem." },
+        image: "/highlights/montreux-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Alimentarium%20Vevey",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12892,7 +13022,14 @@ export const cities: City[] = [
         description: { ko: "산악 상점·호텔 거리입니다.", en: "Alpine shop and hotel street." },
         image: "/highlights/grindelwald-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dorfstrasse%2073%2C%203818%20Grindelwald",
-      }
+      },
+      {
+        id: "grindelwald-h6",
+        name: { ko: "아이거 트레일", en: "Eiger Trail" },
+        description: { ko: "아이거 익스프레스로 오른 아이거글레처역에서 아이거 북벽 바로 밑을 따라 알피글렌역까지 내려오는 6.1km 산길입니다.", en: "A 6.1 km mountain path from Eigergletscher station, reached by the Eiger Express, along the foot of the Eiger north face down to Alpiglen station." },
+        image: "/highlights/grindelwald-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Eigergletscher%20station",
+      },
     ],
   },
   {
@@ -12942,7 +13079,23 @@ export const cities: City[] = [
         description: { ko: "럭셔리 쇼핑 거리입니다.", en: "Luxury shopping street." },
         image: "/highlights/st-moritz-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Via%20Serlas%2019%2C%207500%20St.%20Moritz",
-      }
+      },
+      {
+        id: "st-moritz-h6",
+        name: { ko: "무오타스 무라글", en: "Muottas Muragl" },
+        description: { ko: "옛 푸니쿨라로 오르는 해발 2,456m 전망대로, 엥가딘 호수들이 줄지어 내려다보이고 철학자의 길과 전망 그네가 있습니다.", en: "A 2,456 m viewpoint up a historic funicular, looking down the chain of Engadin lakes, with the Philosophers’ Path and a panoramic swing." },
+        image: "/highlights/st-moritz-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Muottas%20Muragl%20Bergstation",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "st-moritz-h7",
+        name: { ko: "디아볼레차", en: "Diavolezza" },
+        description: { ko: "베르니나 고개에서 케이블카로 오르는 해발 2,978m 전망대로, 피츠 베르니나와 페르스 빙하가 눈앞에 펼쳐집니다.", en: "A 2,978 m viewpoint by cable car from the Bernina Pass, facing Piz Bernina and the Pers Glacier." },
+        image: "/highlights/st-moritz-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Diavolezza%20Bergstation",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {

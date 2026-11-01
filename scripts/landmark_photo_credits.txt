@@ -1537,3 +1537,23 @@ festivals/maastricht-carnival.jpg | https://commons.wikimedia.org/wiki/File:DeZa
 festivals/jorvik-viking-festival.jpg | https://commons.wikimedia.org/wiki/File:Viking_warriors_in_Stonegate_-_geograph.org.uk_-_5294908.jpg | CC BY-SA 2.0 | Gordon Hatton
 festivals/midsommar-stockholm.jpg | https://commons.wikimedia.org/wiki/File:Midsommar_crowns_on_pole_in_Skansen_(2024).jpg | CC BY-SA 4.0 | ThibautRe
 festivals/istanbul-tulip.jpg | https://commons.wikimedia.org/wiki/File:Carpet_of_tulips.jpg | CC BY-SA 4.0 | Maurice Flesier
+highlights/zermatt-6.jpg | https://commons.wikimedia.org/wiki/File:Matterhorn_Gondel_Matterhorn_glacier_paradise.jpg | CC BY-SA 4.0 | Whgler
+highlights/zermatt-7.jpg | https://commons.wikimedia.org/wiki/File:Sunnegga-Bahn.jpg | CC BY-SA 4.0 | Andreas Faessler
+highlights/zermatt-8.jpg | https://commons.wikimedia.org/wiki/File:2008-07-23_Schwarzsee_(Zermatt)_-_10.jpg | CC BY-SA 4.0 | Maksym Kozlenko
+highlights/interlaken-7.jpg | https://commons.wikimedia.org/wiki/File:Iseltwald_sidharthmittal13.jpg | CC BY-SA 4.0 | Sidharthmittal13
+highlights/interlaken-8.jpg | https://commons.wikimedia.org/wiki/File:Bergstation_mit_Z%C3%BCgen_der_Schynige-Platte-Bahn_(2010).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/grindelwald-6.jpg | https://commons.wikimedia.org/wiki/File:Mor%C3%A4ne_Eigergletscher_unterhalb_der_Station_Eigergletscher.jpg | CC0 | Keimzelle
+highlights/st-moritz-7.jpg | https://commons.wikimedia.org/wiki/File:Diavolezza.jpg | CC BY-SA 4.0 | Patryk Hejduk
+highlights/lausanne-6.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_r%C3%A9form%C3%A9e_Saint-Symphorien,_Lac_Leman_et_les_vignobles_en_terrasses_de_Lavaux_(2013).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/montreux-6.jpg | https://commons.wikimedia.org/wiki/File:Manoir_de_Ban_-_Corsier-sur-Vevey_02.jpg | CC BY-SA 3.0 | Llez
+highlights/montreux-7.jpg | https://commons.wikimedia.org/wiki/File:Fork_of_Vevey.jpg | CC BY-SA 4.0 | D.Novosibirsk
+highlights/basel-6.jpg | https://commons.wikimedia.org/wiki/File:Fondation_Beyeler_in_Riehen_2.jpg | CC BY-SA 3.0 | Andreas Schwarzkopf
+highlights/basel-7.jpg | https://commons.wikimedia.org/wiki/File:%C3%81lvaro-Siza-Promenade_mit_VitraHaus_in_Weil_am_Rhein.jpg | CC BY-SA 3.0 | Andreas Schwarzkopf
+highlights/basel-8.jpg | https://commons.wikimedia.org/wiki/File:Spalentor_Basel_20230531_0027.jpg | CC BY-SA 4.0 | Tilman2007
+highlights/bern-9.jpg | https://commons.wikimedia.org/wiki/File:Zentrum_Paul_Klee_Bern_15.JPG | CC BY 2.5 | Norbert Aepli, Switzerland (User:Noebu)
+highlights/geneva-9.jpg | https://commons.wikimedia.org/wiki/File:Globe_of_Science_and_Innovation_2.jpg | CC BY 2.0 | Karoly Lorentey from Budapest, Hungary
+highlights/geneva-10.jpg | https://commons.wikimedia.org/wiki/File:Immeuble_Patek_%26_Philippe.jpg | CC BY-SA 3.0 | Franck Schneider
+highlights/lugano-6.jpg | https://commons.wikimedia.org/wiki/File:View_of_Lake_Lugano_and_Monte_Br%C3%A8_13.jpg | CC BY-SA 4.0 | John Samuel
+highlights/lugano-7.jpg | https://commons.wikimedia.org/wiki/File:Monte_Generoso_fiore_di_pietra.jpg | CC BY-SA 4.0 | Ivo1992
+highlights/st-moritz-6.jpg | https://commons.wikimedia.org/wiki/File:Muottas_Murag2.jpg | CC BY-SA 3.0 | Adrian Michael
+highlights/bern-8.jpg | https://commons.wikimedia.org/wiki/File:Bern_Rosengarten_Brunnen_20211007.jpg | CC BY-SA 3.0 | Daniel Kraft

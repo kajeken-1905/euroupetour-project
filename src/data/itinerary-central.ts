@@ -73,10 +73,10 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   },
   hallstatt: { days: [['', 2, 6, 4, 5, 3, 1]], trips: [['다흐슈타인 얼음 동굴과 5 핑거스|Dachstein Ice Cave & 5fingers', 7]] },
   zurich: { days: [['', 9, 6, 3, 8, 7, 1, 2, 5, 4]], trips: [['린트 초콜릿 박물관|Lindt Home of Chocolate', 10], ['라인 폭포와 슈타인암라인|Rhine Falls & Stein am Rhein', 11]] },
-  geneva: [8, 3, 2, 7, 1, 5, 6, 4],
-  bern: [4, 1, 7, 2, 6, 3, 5],
+  geneva: { days: [['', 8, 3, 2, 7, 10, 1, 5, 6, 4]], trips: [['CERN 사이언스 게이트웨이|CERN Science Gateway', 9]] },
+  bern: { days: [['', 4, 1, 7, 2, 6, 3, 8, 5]], trips: [['파울 클레 센터|Zentrum Paul Klee', 9]] },
   lucerne: { days: [['', 6, 7, 1, 4, 3, 5]], trips: [['호수 유람과 리기산|Lake cruise & Rigi', 2, 8], ['필라투스|Pilatus', 9], ['티틀리스|Titlis', 10]] },
-  interlaken: { days: [['', 4, 1, 3]], trips: [['융프라우요흐|Jungfraujoch', 5], ['라우터브루넨|Lauterbrunnen', 6]] },
+  interlaken: { days: [['', 4, 1, 3]], trips: [['융프라우요흐|Jungfraujoch', 5], ['라우터브루넨|Lauterbrunnen', 6], ['이젤트발트|Iseltwald', 7], ['쉬니게 플라테|Schynige Platte', 8]] },
   berlin: {
     days: [
       ['미테|Mitte', 4, 1, 5, 2],
@@ -95,9 +95,14 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   cologne: [1, 4, 2, 5, 3],
   rudesheim: [1, 3, 2, 4],
   frankfurt: [6, 2, 1, 3, 5],
-  basel: [5, 2, 1, 3, 4],
-  zermatt: [3, 5, 1, 2, 4],
-  lausanne: [1, 5, 4, 2, 3],
+  basel: { days: [['', 5, 2, 1, 3, 8, 4]], trips: [['바이엘러 재단|Fondation Beyeler', 6], ['비트라 캠퍼스|Vitra Campus', 7]] },
+  zermatt: {
+    days: [
+      ['글래시어 파라다이스와 슈바르츠제|Glacier Paradise & Schwarzsee', 3, 6, 8, 5],
+      ['고르너그라트와 순네가|Gornergrat & Sunnegga', 2, 4, 7, 1],
+    ],
+  },
+  lausanne: { days: [['', 1, 5, 4, 2, 3]], trips: [['라보 포도밭|Lavaux', 6]] },
   dresden: [1, 3, 2, 4, 5],
   heidelberg: [1, 2, 5, 4, 3],
   bamberg: [1, 4, 2, 3, 5],
@@ -107,16 +112,16 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   'garmisch-partenkirchen': [1, 3, 2, 4, 5],
   nuremberg: [1, 5, 2, 3, 4],
   fussen: [2, 3, 1, 4, 5],
-  lugano: [2, 5, 1, 4, 3],
+  lugano: { days: [['', 2, 5, 1, 4, 3]], trips: [['몬테 브레|Monte Brè', 6], ['몬테 제네로소|Monte Generoso', 7]] },
   gruyeres: [2, 1, 4, 3, 5],
-  montreux: { days: [['', 4, 3, 2, 1]], trips: [['로셰드네|Rochers-de-Naye', 5]] },
+  montreux: { days: [['', 4, 3, 2, 1]], trips: [['로셰드네|Rochers-de-Naye', 5], ['브베|Vevey', 6, 7]] },
   grindelwald: {
     days: [
       ['피르스트와 마을|First & the village', 2, 5, 4],
-      ['멘리헨|Männlichen', 3, 1],
+      ['멘리헨과 아이거 트레일|Männlichen & the Eiger Trail', 3, 6, 1],
     ],
   },
-  'st-moritz': [2, 5, 1, 4, 3],
+  'st-moritz': { days: [['', 2, 5, 1, 4, 3]], trips: [['무오타스 무라글|Muottas Muragl', 6], ['디아볼레차|Diavolezza', 7]] },
   stuttgart: {
     days: [
       ['바트 칸슈타트|Bad Cannstatt', 1, 4],
