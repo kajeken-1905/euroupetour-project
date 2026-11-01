@@ -20,6 +20,9 @@ const KIND_ICON: Record<Activity['kind'], string> = {
   swimming: '🏊',
   bungee: '🪢',
   'via-ferrata': '🧗',
+  zipline: '🦅',
+  cart: '🛴',
+  ropes: '🌲',
 }
 
 function ActivityCard({ a }: { a: Activity }) {

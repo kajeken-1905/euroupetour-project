@@ -184,7 +184,7 @@ export interface Gateway {
 export interface Activity {
   id: string
   cityId: string
-  kind: 'paragliding' | 'skydiving' | 'rafting' | 'canyoning' | 'kayak' | 'hiking' | 'sledging' | 'swimming' | 'bungee' | 'via-ferrata'
+  kind: 'paragliding' | 'skydiving' | 'rafting' | 'canyoning' | 'kayak' | 'hiking' | 'sledging' | 'swimming' | 'bungee' | 'via-ferrata' | 'zipline' | 'cart' | 'ropes'
   name: string
   about: string
   /** Where it starts and ends (take-off and landing, river, route) */
