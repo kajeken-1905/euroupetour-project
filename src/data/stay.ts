@@ -1149,6 +1149,14 @@ export const STAY: Record<string, StayArea[]> = {
     a('마을에서 묵기', 'In the town', 'Kandersteg', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('베른에서 다녀오기', 'Base in Bern', 'Bern', '거점에서 다녀오기|Day trip from a base', '베른에서 직행 기차로 약 1시간입니다.|About an hour by direct train from Bern.'),
   ],
+  bellinzona: [
+    a('구시가', 'Old town', 'Piazza Collegiata Bellinzona', '구시가|Old town', '성과 광장이 걸어서 가깝고 역까지도 걸어서 약 10분입니다.|Close to the castles and the squares, about 10 min on foot from the station.'),
+    a('역 주변', 'Around the station', 'Bellinzona stazione', '역 앞|By the station', '루가노·로카르노·취리히행 기차를 타기 편합니다.|Handy for trains to Lugano, Locarno and Zurich.'),
+  ],
+  chur: [
+    a('구시가', 'Old town', 'Chur Altstadt', '구시가|Old town', '식당과 박물관이 모여 있고 역까지 걸어서 약 10분입니다.|Restaurants and museums close together, about 10 min on foot from the station.'),
+    a('역 주변', 'Around the station', 'Chur Bahnhof', '역 앞|By the station', '빙하특급·베르니나 특급과 버스를 타기 편합니다.|Handy for the Glacier and Bernina Express and the buses.'),
+  ],
   montserrat: [
     a('바르셀로나에서 다녀오기', 'Day trip from Barcelona', 'Plaça d’Espanya, Barcelona', '당일치기로 많이 감|The usual day trip', '편도 1시간쯤이라 반나절·하루 투어나 기차와 산악 열차로 다녀옵니다. 산 위 수도원 숙소는 방이 적고 소박합니다.|About an hour each way by tour or train and rack railway; the monastery’s own rooms on the mountain are few and basic.'),
   ],

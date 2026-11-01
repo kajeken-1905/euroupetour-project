@@ -193,5 +193,25 @@
     46.49075,
     7.65516,
     "OSM Nominatim \"Luftseilbahn Kandersteg-Allmenalp\" (2026-11-01)"
+  ],
+  "bellinzona-h4": [
+    46.19174,
+    9.02336,
+    "OSM Nominatim \"Piazza Collegiata, Bellinzona\" (2026-11-01)"
+  ],
+  "chur-h2": [
+    46.84765,
+    9.53544,
+    "OSM Nominatim \"Kathedrale Sankt Mariä Himmelfahrt, Hof, Chur\" (2026-11-01)"
+  ],
+  "chur-h5": [
+    46.82181,
+    9.51428,
+    "OSM Nominatim \"Chur - Brambrüesch\" (2026-11-01)"
+  ],
+  "chur-h6": [
+    46.8127,
+    9.31982,
+    "OSM Nominatim \"Il Spir, Via Conn, Flims\" viewing platform (2026-11-01)"
   ]
 }

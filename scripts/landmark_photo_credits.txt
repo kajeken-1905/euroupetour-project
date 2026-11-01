@@ -1594,3 +1594,17 @@ highlights/florence-16.jpg | https://commons.wikimedia.org/wiki/File:Firenze_-_b
 highlights/florence-17.jpg | https://commons.wikimedia.org/wiki/File:Nuovo_museo_dell%27opera_del_duomo,_sala_della_cupola_01.JPG | CC BY 3.0 | Sailko
 highlights/florence-18.jpg | https://commons.wikimedia.org/wiki/File:Firenze,_loggia_dei_lanzi_(2020)_02.jpg | CC BY-SA 4.0 | Francesco Bini
 highlights/florence-19.jpg | https://commons.wikimedia.org/wiki/File:FiesoleDec092023_11.jpg | CC BY-SA 4.0 | Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר
+cities/bellinzona.jpg | https://commons.wikimedia.org/wiki/File:Castelgrande_Bellinzona.JPG | CC BY-SA 3.0 | H005
+highlights/bellinzona-1.jpg | https://commons.wikimedia.org/wiki/File:Castelgrande,_Torre_Nera_and_Torre_Bianca,_Bellinzona,_Ticino.jpg | CC BY-SA 4.0 | Christian David
+highlights/bellinzona-2.jpg | https://commons.wikimedia.org/wiki/File:Castello_di_Montebello_inside_the_walls,_Bellinzona,_Ticino.jpg | CC BY-SA 4.0 | Christian David
+highlights/bellinzona-3.jpg | https://commons.wikimedia.org/wiki/File:Castello_di_Sasso_Corbaro_Bellinzona_20230529_0617.jpg | CC BY-SA 4.0 | Tilman2007
+highlights/bellinzona-4.jpg | https://commons.wikimedia.org/wiki/File:Bellinzona_-_Piazza_Collegiata_%26_Castelgrande_(2015).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/bellinzona-6.jpg | https://commons.wikimedia.org/wiki/File:Ponte_tibetano_Carasc_-_52002858040.jpg | CC BY-SA 2.0 | dconvertini
+cities/chur.jpg | https://commons.wikimedia.org/wiki/File:Chur_-_Italian_Bridge_-_50567231006.jpg | CC BY 2.0 | Kecko
+highlights/chur-2.jpg | https://commons.wikimedia.org/wiki/File:Chur-04-Kathedrale_Mariae_Himmelfahrt-2006-gje.jpg | CC BY-SA 4.0 | Gerd Eichmann
+highlights/chur-3.jpg | https://commons.wikimedia.org/wiki/File:Kunstmuseum_Chur.jpg | CC BY-SA 3.0 | Adrian Michael
+highlights/chur-5.jpg | https://commons.wikimedia.org/wiki/File:Tschu_Tschu_Bahn_(Brambr%C3%BCesch).jpg | CC BY-SA 4.0 | Capricorn4049
+highlights/chur-6.jpg | https://commons.wikimedia.org/wiki/File:Il_Spir_panorama_20210614.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/bellinzona-5.jpg | https://commons.wikimedia.org/wiki/File:Villa_dei_Cedri-Bellinzona.jpg | CC BY-SA 3.0 | Photo uploaded by User:RicciSpeziari. Photographer: Riccardo
+highlights/chur-1.jpg | https://commons.wikimedia.org/wiki/File:Poststrasse_at_Martinsplatz_in_Chur,_Graub%C3%BCnden,_Switzerland,_2012_July.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/chur-4.jpg | https://commons.wikimedia.org/wiki/File:Chur_R%C3%A4tisches_Museum.jpg | CC BY-SA 4.0 | Paebi

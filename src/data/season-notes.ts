@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  chur: { n: '여름(6~9월)엔 라인 협곡 산책과 산행이 좋고, 겨울엔 빙하특급·베르니나 특급의 설경이 좋습니다.|Summer (June–September) suits the Rhine Gorge and the hills; winter brings snowy views from the Glacier and Bernina Express.' },
+  bellinzona: { n: '봄(4~5월)과 가을이 걷기 좋습니다. 11월 9일~3월 18일엔 카스텔그란데만 안을 볼 수 있고 나머지 두 성은 안뜰만 엽니다.|Spring (April–May) and autumn are best for walking. From 9 November to 18 March only Castelgrande is open inside; the other two castles open just their courtyards.' },
   kandersteg: { n: '여름(6~9월)이 가장 좋고 외시넨 호수는 겨울엔 얼어서 스케이트를 탑니다. 11월엔 케이블카 대부분이 쉽니다.|Summer (June–September) is best; in winter the Oeschinensee freezes for skating. Most lifts pause in November.' },
   'st-gallen': { n: '여름(6~9월)엔 아펜첼 산행과 드라이 바이렌 수영이 좋습니다. 산 케이블카는 11월과 4월에 정비로 쉬는 때가 많습니다.|Summer (June–September) suits Appenzell hikes and swims at Drei Weieren; the mountain lifts often pause for servicing in November and April.' },
   locarno: { n: '봄(4~5월)과 초가을이 걷기 좋고, 8월엔 영화제로 숙소가 매우 비쌉니다. 성과 식물원은 겨울에 닫습니다.|Spring (April–May) and early autumn are best for walking; the August film festival makes rooms very expensive. The castle and the island garden close in winter.' },

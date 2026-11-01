@@ -907,6 +907,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'st-gallen',
       tip: '기차로 장크트갈렌에 가 수도원 도서관과 대성당을 보고 구시가를 걷습니다.|By train to St. Gallen for the Abbey Library, the cathedral and the old town.',
     },
+    {
+      to: 'chur',
+      tip: '기차로 쿠어에 가 구시가와 대성당을 보고, 버스로 플림스에 가 라인 협곡 전망대까지 걷습니다.|By train to Chur for the old town and cathedral, then the bus to Flims and a walk to the Rhine Gorge viewpoint.',
+    },
   ],
   geneva: [
     {

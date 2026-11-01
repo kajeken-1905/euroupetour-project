@@ -641,6 +641,14 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich']],
     rail: [['Kandersteg', '칸더슈테크역']],
   },
+  bellinzona: {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich'], ['Milano Malpensa (MXP)', '밀라노 말펜사 공항 (MXP)', '밀라노|Milan']],
+    rail: [['Bellinzona', '벨린초나역']],
+  },
+  chur: {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '취리히|Zurich']],
+    rail: [['Chur', '쿠어역']],
+  },
   vaduz: {
     air: [ZRH('스위스 취리히|Zurich, Switzerland')],
     rail: [

@@ -1360,6 +1360,26 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('sbb'),
     ],
   },
+  bellinzona: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가와 카스텔그란데는 걸어서 다닙니다. 사소 코르바로 성은 4번 버스로, 카라스크 출렁다리는 2번 버스와 케이블카로 갑니다.',
+      en: 'Walk the old town and up to Castelgrande; bus 4 runs to Sasso Corbaro, and bus 2 plus the cable car to the Carasc bridge.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  chur: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 브람브뤼에슈 곤돌라는 시내에서 타고, 플림스(라인 협곡)는 80·81번 버스로 갑니다.',
+      en: 'Walk the old town; the Brambrüesch gondola leaves from town, and buses 80 and 81 run to Flims for the Rhine Gorge.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
   vienna: {
     modes: ['metro', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

@@ -126,6 +126,8 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   locarno: { days: [['', 1, 4, 2, 3]], trips: [['아스코나|Ascona', 5], ['베르차스카 계곡|Verzasca valley', 6], ['브리사고 섬|Brissago Islands', 7]] },
   'st-gallen': { days: [['', 1, 2, 3, 4]], trips: [['아펜첼과 에벤알프|Appenzell & Ebenalp', 5, 6], ['젠티스|Säntis', 7]] },
   kandersteg: { days: [['', 1]], trips: [['블라우 호수|Blausee', 2], ['게미 고개|Gemmi Pass', 3], ['가스테른 계곡|Gasterntal', 4], ['알멘알프|Allmenalp', 5]] },
+  bellinzona: { days: [['', 4, 1, 2, 3, 5]], trips: [['카라스크 출렁다리|Carasc Tibetan bridge', 6]] },
+  chur: { days: [['', 1, 2, 4, 3]], trips: [['브람브뤼에슈|Brambrüesch', 5], ['라인 협곡|Rhine Gorge', 6]] },
   stuttgart: {
     days: [
       ['바트 칸슈타트|Bad Cannstatt', 1, 4],
