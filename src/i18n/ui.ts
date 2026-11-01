@@ -465,8 +465,6 @@ export const ui = {
   favRemove: { ko: '버킷리스트에서 빼기', en: 'Remove from bucket list' },
   beenAdd: { ko: '가봤어요로 표시', en: 'Mark as visited' },
   beenRemove: { ko: '가봤어요 표시 지우기', en: 'Unmark as visited' },
-  beenSummary: { ko: '✓ 가본 곳: 관광 포인트 {h}곳 · 맛집·카페 {p}곳', en: '✓ Visited: {h} sights · {p} places to eat' },
-  beenSummaryGateways: { ko: ' · 공항·기차역·항구 {g}곳', en: ' · {g} airports, stations and ports' },
   footballLeagueTitle: { ko: '⚽ 프로축구 리그', en: '⚽ Football league' },
   footballClubsTitle: { ko: '⚽ 축구 클럽과 경기장', en: '⚽ Football clubs & stadiums' },
   footballTopDivision: { ko: '1부 리그', en: 'Top division' },

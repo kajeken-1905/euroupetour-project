@@ -124,7 +124,14 @@ export function toggleFavorite(kind: FavoriteKind, id: string) {
   commit({ ...data, [kind]: list.includes(id) ? list.filter((v) => v !== id) : [...list, id] })
 }
 
-const BEEN_KEY = { highlights: 'beenHighlights', places: 'beenPlaces', gateways: 'beenGateways' } as const
+/** Drop several favourites at once (a whole city's group on the home screen). */
+export function removeFavorites(ids: Partial<Record<FavoriteKind, string[]>>) {
+  const next = { ...data }
+  for (const kind of Object.keys(ids) as FavoriteKind[]) next[kind] = data[kind].filter((v) => !ids[kind]!.includes(v))
+  commit(next)
+}
+
+const BEEN_KEY ={ highlights: 'beenHighlights', places: 'beenPlaces', gateways: 'beenGateways' } as const
 
 /** The ids of sights or places marked as visited. */
 export function beenList(trip: TripData, kind: FavoriteKind): string[] {

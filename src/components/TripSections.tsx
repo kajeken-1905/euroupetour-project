@@ -7,7 +7,7 @@ import { getCity, getPlace, loadedCities, useCountryData } from '../data/country
 import { loadAllGateways } from '../data/gateways'
 import { t } from '../i18n/ui'
 import type { City, CityHighlight, Gateway, Place } from '../types'
-import { mergeTrip, parseTrip, setRoute, useTrip } from '../trip/store'
+import { mergeTrip, parseTrip, removeFavorites, setRoute, useTrip } from '../trip/store'
 import { mergeVisits, parseVisits, useVisitedPlaces } from '../hooks/useVisitedPlaces'
 
 let highlightCity: Map<string, City> | undefined
@@ -103,17 +103,6 @@ function TripView() {
 
       <TourPanel />
 
-      {beenCount > 0 ? (
-        <p className="route-hint">
-          {t('beenSummary', lang)
-            .replace('{h}', String(trip.beenHighlights.length))
-            .replace('{p}', String(trip.beenPlaces.length))}
-          {trip.beenGateways.length > 0
-            ? t('beenSummaryGateways', lang).replace('{g}', String(trip.beenGateways.length))
-            : null}
-        </p>
-      ) : null}
-
       {empty ? <div className="empty-state">{t('tripEmpty', lang)}</div> : null}
 
       {groups.size > 0 ? (
@@ -140,6 +129,21 @@ function TripView() {
                       + {t('favAddToRoute', lang)}
                     </button>
                   )}
+                  <button
+                    type="button"
+                    className="plan-icon-btn"
+                    aria-label={`${city.name[lang]} — ${t('favRemove', lang)}`}
+                    title={t('favRemove', lang)}
+                    onClick={() =>
+                      removeFavorites({
+                        highlights: highlights.map((h) => h.id),
+                        places: places.map((p) => p.id),
+                        gateways: gateways.map((g) => g.id),
+                      })
+                    }
+                  >
+                    ×
+                  </button>
                 </div>
                 <ul className="search-list">
                   {highlights.map((h) => (

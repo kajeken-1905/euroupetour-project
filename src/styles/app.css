@@ -3325,6 +3325,18 @@ button.back-link {
   margin-bottom: 0;
 }
 
+/* Bucket-list city: the add-to-route and remove buttons sit together on the right. */
+.trip-fav-group .trip-plan-head .trip-city {
+  margin-right: auto;
+}
+
+.trip-fav-group .trip-plan-head .plan-icon-btn {
+  width: 32px;
+  height: 32px;
+  font-size: 18px;
+  line-height: 1;
+}
+
 .trip-confirm {
   display: flex;
   flex-wrap: wrap;
