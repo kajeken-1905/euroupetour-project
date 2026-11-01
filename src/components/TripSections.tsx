@@ -126,59 +126,61 @@ function TripView() {
               {t('favAddAllToRoute', lang).replace('{n}', String(notInRoute.length))}
             </button>
           ) : null}
-          {[...groups.values()].map(({ city, highlights, places, gateways }) => (
-            <div key={city.id} className="trip-fav-group">
-              <div className="trip-plan-head">
-                <Link className="trip-city" to={`/city/${city.id}`}>
-                  {city.name[lang]} →
-                </Link>
-                {trip.route.includes(city.id) ? (
-                  <span className="trip-in-route">✓ {t('favInRoute', lang)}</span>
-                ) : (
-                  <button type="button" className="plan-btn" onClick={() => setRoute([...trip.route, city.id])}>
-                    + {t('favAddToRoute', lang)}
-                  </button>
-                )}
+          <div className="trip-fav-grid">
+            {[...groups.values()].map(({ city, highlights, places, gateways }) => (
+              <div key={city.id} className="trip-fav-group">
+                <div className="trip-plan-head">
+                  <Link className="trip-city" to={`/city/${city.id}`}>
+                    {city.name[lang]} →
+                  </Link>
+                  {trip.route.includes(city.id) ? (
+                    <span className="trip-in-route">✓ {t('favInRoute', lang)}</span>
+                  ) : (
+                    <button type="button" className="plan-btn" onClick={() => setRoute([...trip.route, city.id])}>
+                      + {t('favAddToRoute', lang)}
+                    </button>
+                  )}
+                </div>
+                <ul className="search-list">
+                  {highlights.map((h) => (
+                    <li key={h.id} className="trip-fav">
+                      <button
+                        type="button"
+                        className="search-item"
+                        onClick={() => navigate(`/city/${city.id}`, { state: { highlightId: h.id } })}
+                      >
+                        <span className="search-item-title">{h.name[lang]}</span>
+                        <span className="search-item-sub">{t('searchKind_highlight', lang)}</span>
+                      </button>
+                      <FavoriteButton kind="highlights" id={h.id} />
+                    </li>
+                  ))}
+                  {places.map((p) => (
+                    <li key={p.id} className="trip-fav">
+                      <button type="button" className="search-item" onClick={() => navigate(`/place/${p.id}`)}>
+                        <span className="search-item-title">{p.name}</span>
+                        <span className="search-item-sub">{t('searchKind_place', lang)}</span>
+                      </button>
+                      <FavoriteButton kind="places" id={p.id} />
+                    </li>
+                  ))}
+                  {gateways.map((g) => (
+                    <li key={g.id} className="trip-fav">
+                      <button
+                        type="button"
+                        className="search-item"
+                        onClick={() => navigate(`/city/${city.id}`, { state: { highlightId: g.id } })}
+                      >
+                        <span className="search-item-title">{g.name.split('|')[lang === 'ko' ? 0 : 1] ?? g.name}</span>
+                        <span className="search-item-sub">{t('searchKind_gateway', lang)}</span>
+                      </button>
+                      <FavoriteButton kind="gateways" id={g.id} />
+                    </li>
+                  ))}
+                </ul>
               </div>
-              <ul className="search-list">
-                {highlights.map((h) => (
-                  <li key={h.id} className="trip-fav">
-                    <button
-                      type="button"
-                      className="search-item"
-                      onClick={() => navigate(`/city/${city.id}`, { state: { highlightId: h.id } })}
-                    >
-                      <span className="search-item-title">{h.name[lang]}</span>
-                      <span className="search-item-sub">{t('searchKind_highlight', lang)}</span>
-                    </button>
-                    <FavoriteButton kind="highlights" id={h.id} />
-                  </li>
-                ))}
-                {places.map((p) => (
-                  <li key={p.id} className="trip-fav">
-                    <button type="button" className="search-item" onClick={() => navigate(`/place/${p.id}`)}>
-                      <span className="search-item-title">{p.name}</span>
-                      <span className="search-item-sub">{t('searchKind_place', lang)}</span>
-                    </button>
-                    <FavoriteButton kind="places" id={p.id} />
-                  </li>
-                ))}
-                {gateways.map((g) => (
-                  <li key={g.id} className="trip-fav">
-                    <button
-                      type="button"
-                      className="search-item"
-                      onClick={() => navigate(`/city/${city.id}`, { state: { highlightId: g.id } })}
-                    >
-                      <span className="search-item-title">{g.name.split('|')[lang === 'ko' ? 0 : 1] ?? g.name}</span>
-                      <span className="search-item-sub">{t('searchKind_gateway', lang)}</span>
-                    </button>
-                    <FavoriteButton kind="gateways" id={g.id} />
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
+            ))}
+          </div>
         </section>
       ) : null}
 

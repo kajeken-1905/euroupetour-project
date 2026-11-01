@@ -4336,3 +4336,94 @@ a.plan-btn {
   margin: 4px 0 0;
   font-size: 13px;
 }
+
+/* Wide screens: route cities, bucket-list cities and itinerary days as four cards across. A plan being edited takes
+   the whole row so the editor keeps its room. */
+@media (min-width: 1024px) {
+  .tour-stops,
+  .tour-off-route-grid,
+  .trip-fav-grid,
+  .itinerary-panel .itinerary-days {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 14px;
+    align-items: start;
+  }
+
+  .tour-stops > li,
+  .tour-off-route-city,
+  .itinerary-panel .itinerary-day {
+    min-width: 0;
+    padding: 12px;
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    background: #fff;
+  }
+
+  .tour-stops > li {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tour-stops > li:has(.trip-plan-edit),
+  .tour-off-route-city:has(.trip-plan-edit) {
+    grid-column: 1 / -1;
+  }
+
+  .tour-stops .tour-stop {
+    order: -1;
+    flex-wrap: wrap;
+  }
+
+  .tour-stops .tour-stop-date {
+    order: 5;
+    width: 100%;
+  }
+
+  /* The leg into this city sits under its name, marked as coming from the card before. */
+  .tour-stops .tour-leg-wrap {
+    margin: 8px 0 0;
+    padding: 2px 8px;
+    border-left: 0;
+    border-radius: 10px;
+    background: rgba(139, 45, 255, 0.06);
+  }
+
+  .tour-stops .tour-leg-toggle::before {
+    content: '←';
+    color: var(--muted);
+  }
+
+  .tour-stops .tour-stop-plan {
+    margin: 8px 0 0;
+  }
+
+  .home-trip .tour-stops .tour-leg {
+    margin-left: 0;
+    padding-left: 0;
+    background: none;
+  }
+
+  .tour-off-route-city,
+  .trip-fav-group {
+    margin-top: 0;
+  }
+
+  .tour-off-route-grid {
+    margin-top: 8px;
+  }
+
+  .trip-fav-grid {
+    margin-top: 12px;
+  }
+
+  .trip-fav-grid .trip-plan-head,
+  .tour-off-route-grid .trip-plan-head {
+    flex-wrap: wrap;
+  }
+
+  .itinerary-panel .itinerary-day + .itinerary-day {
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+  }
+}

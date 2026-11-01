@@ -317,19 +317,21 @@ export function TourPanel() {
         {planned.length > 0 ? (
           <div className="tour-off-route">
             <p className="tour-pick-label">{t('tripPlansOffRoute', lang)}</p>
-            {planned.map((c) => (
-              <div key={c.id} className="tour-off-route-city">
-                <div className="trip-plan-head">
-                  <Link className="trip-city" to={`/city/${c.id}`}>
-                    {c.name[lang]} →
-                  </Link>
-                  <button type="button" className="plan-btn" onClick={() => add(c.id)}>
-                    + {t('tourAddCity', lang)}
-                  </button>
+            <div className="tour-off-route-grid">
+              {planned.map((c) => (
+                <div key={c.id} className="tour-off-route-city">
+                  <div className="trip-plan-head">
+                    <Link className="trip-city" to={`/city/${c.id}`}>
+                      {c.name[lang]} →
+                    </Link>
+                    <button type="button" className="plan-btn" onClick={() => add(c.id)}>
+                      + {t('tourAddCity', lang)}
+                    </button>
+                  </div>
+                  <TripCityPlan city={c} open={openKeys.isOpen(`plan:${c.id}`)} onToggle={() => openKeys.toggle(`plan:${c.id}`)} />
                 </div>
-                <TripCityPlan city={c} open={openKeys.isOpen(`plan:${c.id}`)} onToggle={() => openKeys.toggle(`plan:${c.id}`)} />
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
         ) : null}
         <p className="route-hint">{t('tourHint', lang)}</p>
