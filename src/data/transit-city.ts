@@ -1419,6 +1419,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('oebb'),
     ],
   },
+  'zell-am-see': {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '첼암제 시내는 걸어서 다닙니다. 카프룬과 빙하·댐은 660번 버스로, 크리믈 폭포는 670번 버스로 갑니다.',
+      en: 'Walk around Zell am See; bus 660 runs to Kaprun and its glacier and reservoirs, and bus 670 to the Krimml Falls.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  kitzbuhel: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 하넨캄 곤돌라는 시내에서, 호른 케이블카는 역 건너편에서 탑니다.',
+      en: 'Walk the old town; the Hahnenkamm gondola leaves from town and the Horn cable car from across the station.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  bregenz: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 린다우는 기차로, 여름엔 보덴 호수 유람선으로도 갑니다.',
+      en: 'Walk the centre; Lindau is a short train ride away, or a boat trip on Lake Constance in summer.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  klagenfurt: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고 호숫가와 미니문두스는 시내버스로 갑니다. 여름엔 호수 유람선이 다닙니다.',
+      en: 'Walk the old town; city buses run to the lake and Minimundus, and boats cross the lake in summer.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
   hallstatt: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {

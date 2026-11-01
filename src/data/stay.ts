@@ -1067,6 +1067,22 @@ export const STAY: Record<string, StayArea[]> = {
     a('마을에서 묵기', 'In the town', 'Werfen', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('잘츠부르크에서 다녀오기', 'Base in Salzburg', 'Salzburg', '거점에서 다녀오기|Day trip from a base', '잘츠부르크에서 기차로 약 45분입니다.|About 45 min by train from Salzburg.'),
   ],
+  'zell-am-see': [
+    a('첼암제 시내', 'Zell am See town', 'Zell am See', '호숫가 시내|Lakeside town', '역과 호숫가, 슈미텐회헤 곤돌라가 걸어서 가깝습니다.|The station, the lake and the Schmittenhöhe gondola are all within walking distance.'),
+    a('카프룬', 'Kaprun', 'Kaprun', '빙하 아래 마을|Below the glacier', '키츠슈타인호른 케이블카와 고산 댐 버스가 가깝습니다. 첼암제까지는 660번 버스로 약 30분입니다.|Close to the Kitzsteinhorn lifts and the reservoir buses; about 30 min to Zell am See by bus 660.'),
+  ],
+  kitzbuhel: [
+    a('구시가', 'Old town', 'Kitzbühel Altstadt', '구시가|Old town', '식당과 가게가 모여 있고 하넨캄 곤돌라까지 걸어서 몇 분입니다.|Restaurants and shops are close together, a few minutes’ walk from the Hahnenkamm gondola.'),
+    a('인스브루크에서 다녀오기', 'Base in Innsbruck', 'Innsbruck', '거점에서 다녀오기|Day trip from a base', '인스브루크에서 기차로 약 1시간 15분입니다.|About 1 hr 15 by train from Innsbruck.'),
+  ],
+  bregenz: [
+    a('호숫가 시내', 'Lakeside centre', 'Bregenz', '호숫가 시내|Lakeside centre', '역과 호수 무대, 펜더 케이블카가 걸어서 가깝습니다.|The station, the lake stage and the Pfänder cable car are all a short walk away.'),
+    a('취리히에서 다녀오기', 'Base in Zurich', 'Zurich', '거점에서 다녀오기|Day trip from a base', '취리히에서 직행 기차로 약 1시간 35분입니다.|About 1 hr 35 by direct train from Zurich.'),
+  ],
+  klagenfurt: [
+    a('구시가', 'Old town', 'Klagenfurt Altstadt', '구시가|Old town', '광장과 대성당이 걸어서 가깝고 호수까지는 버스로 약 15분입니다.|The squares and the cathedral are a short walk away, and the lake is about 15 min by bus.'),
+    a('뵈르터 호숫가', 'By the Wörthersee', 'Wörthersee Ostbucht Klagenfurt', '호숫가|Lakeside', '수영장과 미니문두스가 가까워 여름에 좋습니다.|Close to the lido and Minimundus, good in summer.'),
+  ],
   hallstatt: [
     a('할슈타트 마을', 'Hallstatt village', 'Hallstatt', '당일치기 손님이 떠난 저녁|Evenings after the day-trippers', '호숫가 마을의 저녁과 아침을 한적하게 봅니다. 숙소가 적고 호수 전망 방은 더 비쌉니다.|The lakeside village is calm in the evening and morning; few rooms, and lake views cost extra.'),
   ],

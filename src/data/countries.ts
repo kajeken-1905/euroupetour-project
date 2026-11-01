@@ -856,7 +856,7 @@ export const countries: Country[] = [
       background: '#FCEBEC',
       text: '#3A0A10',
     },
-    cityIds: ['vienna', 'salzburg', 'innsbruck', 'graz', 'hallstatt', 'linz', 'durnstein', 'bad-ischl', 'werfen'],
+    cityIds: ['vienna', 'salzburg', 'innsbruck', 'graz', 'hallstatt', 'linz', 'durnstein', 'bad-ischl', 'werfen', 'zell-am-see', 'kitzbuhel', 'bregenz', 'klagenfurt'],
   },
   {
     id: 'cz',

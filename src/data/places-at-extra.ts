@@ -27,6 +27,11 @@ export const placesATExtra: Place[] = [
   place('linz-fine_dining-1', 'linz', 'fine_dining', 'Verdi', 'Pachmayrstraße 137, 4040 Linz', '도시 북쪽 언덕의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant on the hills north of the city.', { michelin: 'star1' }),
   place('linz-fine_dining-2', 'linz', 'fine_dining', 'Rossbarth', 'Klammstraße 7, 4020 Linz', '구시가 근처의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant near the old town.', { michelin: 'star1' }),
   place('linz-fine_dining-3', 'linz', 'fine_dining', 'Kliemstein Vino Vitis', 'Obere Donaulände 15, 4020 Linz', '도나우 강변 옛 소금 창고 건물의 미쉐린 1스타 레스토랑입니다(2026년 새로 받음).', 'One-Michelin-star restaurant in the old Salzamt building on the Danube (new in 2026).', { michelin: 'star1' }),
+  // —— kitzbuhel ——
+  place('kitzbuhel-fine_dining-1', 'kitzbuhel', 'fine_dining', 'Les Deux Kitzbühel', 'Franz-Reisch-Straße 7, 6370 Kitzbühel', '시내 중심의 프렌치 브라세리로 미쉐린 1스타를 받았습니다.', 'A French brasserie in the town centre with one Michelin star.', { michelin: 'star1' }),
+  // —— bregenz ——
+  place('bregenz-fine_dining-1', 'bregenz', 'fine_dining', 'Mangold', 'Pfänderstraße 3, 6911 Lochau', '브레겐츠 바로 옆 로하우의 가족 경영 레스토랑으로 미쉐린 1스타를 받았습니다.', 'A family-run restaurant in Lochau, right next to Bregenz, with one Michelin star.', { michelin: 'star1' }),
+  place('bregenz-fine_dining-2', 'bregenz', 'fine_dining', 'Guth', 'Wälderstraße 10, 6923 Lauterach', '브레겐츠 옆 라우테라흐의 미쉐린 1스타 레스토랑입니다.', 'One-Michelin-star restaurant in Lauterach, next to Bregenz.', { michelin: 'star1' }),
   // —— salzburg ——
   place('salzburg-fine_dining-1', 'salzburg', 'fine_dining', 'Esszimmer', 'Müllner Hauptstraße 33, 5020 Salzburg', '미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant.', { michelin: 'star1' }),
   place('salzburg-fine_dining-2', 'salzburg', 'fine_dining', 'St. Peter Stiftskulinarium', 'Sankt-Peter-Bezirk 1/4, 5020 Salzburg', '803년 문헌에 처음 등장하는 유럽에서 가장 오래된 레스토랑, 잘츠부르거 노케를로 유명.', 'Europe\'s oldest restaurant, first documented in 803, famous for its Salzburger Nockerl.'),

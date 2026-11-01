@@ -48,10 +48,29 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   },
   innsbruck: { days: [['', 4, 1, 3, 8, 6, 9, 2]], trips: [['스와로브스키 크리스탈 세계|Swarovski Crystal Worlds', 7]] },
   graz: [3, 1, 2, 7, 6, 4, 5],
-  linz: [1, 3, 2, 4, 5, 6, 7],
-  durnstein: [1, 3, 2, 4, 6, 5],
+  linz: { days: [['', 1, 3, 2, 4, 5, 6]], trips: [['마우트하우젠 추모관|Mauthausen Memorial', 7]] },
+  durnstein: { days: [['', 1, 3, 2, 4]], trips: [['크렘스|Krems', 5], ['멜크 수도원|Melk Abbey', 6]] },
   'bad-ischl': [1, 2, 3, 4, 5],
   werfen: [1, 2, 3],
+  'zell-am-see': {
+    days: [
+      ['첼암제와 슈미텐회헤|Zell am See & Schmittenhöhe', 1, 2],
+      ['키츠슈타인호른 빙하|Kitzsteinhorn glacier', 3],
+      ['카프룬 고산 댐 호수|Kaprun reservoirs', 4],
+    ],
+    trips: [['크리믈 폭포|Krimml Waterfalls', 5], ['그로스글로크너 산악 도로|Grossglockner Road', 6]],
+  },
+  kitzbuhel: {
+    days: [
+      ['구시가와 하넨캄|Old town & Hahnenkamm', 1, 5, 2],
+      ['호른과 슈바르츠 호수|Horn & Schwarzsee', 3, 4],
+    ],
+  },
+  bregenz: { days: [['', 1, 4, 3, 2]], trips: [['린다우 섬|Lindau island', 5]] },
+  klagenfurt: {
+    days: [['', 1, 2, 3, 4, 5]],
+    trips: [['피라미덴코겔 전망탑|Pyramidenkogel', 6], ['호흐오스터비츠 성|Hochosterwitz Castle', 7]],
+  },
   hallstatt: { days: [['', 2, 6, 4, 5, 3, 1]], trips: [['다흐슈타인 얼음 동굴과 5 핑거스|Dachstein Ice Cave & 5fingers', 7]] },
   zurich: { days: [['', 9, 6, 3, 8, 7, 1, 2, 5, 4]], trips: [['린트 초콜릿 박물관|Lindt Home of Chocolate', 10], ['라인 폭포와 슈타인암라인|Rhine Falls & Stein am Rhein', 11]] },
   geneva: [8, 3, 2, 7, 1, 5, 6, 4],

@@ -721,6 +721,24 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [SZG()],
     rail: [['Werfen', '베르펜역']],
   },
+  'zell-am-see': {
+    air: [SZG(), ['Innsbruck (INN)', '인스브루크 공항 (INN)', '인스브루크|Innsbruck']],
+    rail: [['Zell am See', '첼암제역']],
+    bus: [['Zell am See Bahnhof', '첼암제역 버스 정류장', '카프룬행 660번·크리믈행 670번|bus 660 to Kaprun, 670 to Krimml']],
+  },
+  kitzbuhel: {
+    air: [['Innsbruck (INN)', '인스브루크 공항 (INN)', '인스브루크|Innsbruck'], SZG(), MUC()],
+    rail: [['Kitzbühel', '키츠뷔엘역']],
+  },
+  bregenz: {
+    air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)', '스위스 취리히|Zurich, Switzerland'], ['Friedrichshafen (FDH)', '프리드리히스하펜 공항 (FDH)', '독일 프리드리히스하펜|Friedrichshafen, Germany']],
+    rail: [['Bregenz', '브레겐츠역']],
+    port: [['Bregenz Hafen', '브레겐츠 항구', '보덴 호수 유람선|Lake Constance boats']],
+  },
+  klagenfurt: {
+    air: [['Klagenfurt (KLU)', '클라겐푸르트 공항 (KLU)'], VIE()],
+    rail: [['Klagenfurt Hbf', '클라겐푸르트 중앙역']],
+  },
   hallstatt: {
     air: [SZG()],
     rail: [['Hallstatt', '할슈타트역', '호수 건너편 · 배로 연결|across the lake · boat link']],

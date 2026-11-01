@@ -1465,3 +1465,30 @@ cities/werfen.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenwer
 highlights/werfen-1.jpg | https://commons.wikimedia.org/wiki/File:Eisriesenwelt,_Macizos_de_Tennen,_Austria,_2019-05-18,_DD_58.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/werfen-2.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenwerfen,_Werfen,_Austria,_2019-05-18,_DD_61.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/werfen-3.jpg | https://commons.wikimedia.org/wiki/File:Werfen_from_castle_Hohenwerfen.jpg | CC BY-SA 3.0 | User:MatthiasKabel
+cities/zell-am-see.jpg | https://commons.wikimedia.org/wiki/File:Zell_Am_See_-_panoramio_(2).jpg | CC BY-SA 3.0 | Morten Idriss Nygaar…
+highlights/zell-am-see-1.jpg | https://commons.wikimedia.org/wiki/File:2017-07-21_(177)_Beach_promenade_at_Zeller_See,_Zell_am_See,_Austria.jpg | CC BY-SA 4.0 | GT1976
+highlights/zell-am-see-2.jpg | https://commons.wikimedia.org/wiki/File:Schmittenh%C3%B6he_-_Gipfel_(b).JPG | CC BY-SA 4.0 | C.Stadler/Bwag
+highlights/zell-am-see-3.jpg | https://commons.wikimedia.org/wiki/File:2017-07-15_Urlaub_Virgental_und_Zell_am_See_(182).jpg | CC BY-SA 4.0 | GT1976
+highlights/zell-am-see-4.jpg | https://commons.wikimedia.org/wiki/File:Stausee_Wasserfallboden_Kaprun_03.jpg | CC BY-SA 4.0 | Nxr-at
+highlights/zell-am-see-5.jpg | https://commons.wikimedia.org/wiki/File:Krimmler_Wasserf%C3%A4lle_(22146375560).jpg | CC BY 2.0 | Gido from The Netherlands
+highlights/zell-am-see-6.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fglockner_Hochalpenstra%C3%9Fe_21082018_452.jpg | CC BY-SA 4.0 | PantheraLeo1359531
+cities/kitzbuhel.jpg | https://commons.wikimedia.org/wiki/File:AUT_%E2%80%94_Tirol_%E2%80%94_KB_%E2%80%94_Kitzb%C3%BChel_%E2%80%94_Hinterstadt_%E2%80%94_Hinterstadt_20_(Wappenreliefs_von_Kitzb%C3%BChel_und_Landshut)_2024-08-31_Mattes.jpg | CC BY-SA 4.0 | User:Mateus2019
+highlights/kitzbuhel-1.jpg | https://commons.wikimedia.org/wiki/File:Kitzb%C3%BChel,_die_Stra%C3%9Fe_Vorstadt.jpg | CC BY 4.0 | Dguendel
+highlights/kitzbuhel-2.jpg | https://commons.wikimedia.org/wiki/File:Hahnenkammbahn_(19247946548).jpg | CC BY 2.0 | Kim Skipper Eriksen
+highlights/kitzbuhel-3.jpg | https://commons.wikimedia.org/wiki/File:Kitzb%C3%BChler-Horn.jpg | CC BY-SA 3.0 | stefanski
+highlights/kitzbuhel-4.jpg | https://commons.wikimedia.org/wiki/File:Schwarzsee_Kitzbuehel_01.JPG | CC BY-SA 3.0 | Wolfgang glock
+highlights/kitzbuhel-5.jpg | https://commons.wikimedia.org/wiki/File:Museum_Kitzb%C3%BChel,_Hinterstadt_32.JPG | CC BY-SA 3.0 at | Feel free to use my photos, but please mention me as the aut
+cities/bregenz.jpg | https://commons.wikimedia.org/wiki/File:Oberstadt_Bregenz_Panorama_1.jpg | CC BY-SA 2.5 | böhringer friedrich
+highlights/bregenz-1.jpg | https://commons.wikimedia.org/wiki/File:Bregenz,_Seeb%C3%BChne,_Trib%C3%BCne_und_B%C3%BChnenbild_zu_Turandot,_1.jpeg | CC0 | Renardo la vulpo
+highlights/bregenz-2.jpg | https://commons.wikimedia.org/wiki/File:Pf%C3%A4nderbahn,_Gondel_und_St%C3%BCtze,_1.jpeg | CC BY-SA 4.0 | Renardo la vulpo
+highlights/bregenz-3.jpg | https://commons.wikimedia.org/wiki/File:Kornmarktstra%C3%9Fe_3_Kunsthaus,_2.JPG | CC BY-SA 3.0 at | Feel free to use my photos, but please mention me as the aut
+highlights/bregenz-4.jpg | https://commons.wikimedia.org/wiki/File:Oberstadt_Bregenz_03.jpg | CC BY-SA 4.0 | H.Helmlechner
+highlights/bregenz-5.jpg | https://commons.wikimedia.org/wiki/File:Lindau_Hafeneinfahrt_(3).JPG | CC0 | Angela Huster
+cities/klagenfurt.jpg | https://commons.wikimedia.org/wiki/File:Klagenfurt_Neuer_Platz_Rathaus_Ost-Ansicht_09092015_7228.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/klagenfurt-1.jpg | https://commons.wikimedia.org/wiki/File:Klagenfurt_Innere_Stadt_Neuer_Platz_Lindwurmbrunnen_S-Ansicht_16082020_7620.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/klagenfurt-2.jpg | https://commons.wikimedia.org/wiki/File:Klagenfurt_Landhaus_Kogelnikbrunnen_und_Heiligengeistkirche_18072016_3135.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/klagenfurt-3.jpg | https://commons.wikimedia.org/wiki/File:Klagenfurt_Domplatz_Kirche_22022007_01.jpg | CC BY-SA 3.0 at | Johann Jaritz
+highlights/klagenfurt-4.jpg | https://commons.wikimedia.org/wiki/File:Klagenfurt_W%C3%B6rthersee_Strandbad_Cafe_Sunset_Bar_11102008_72.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/klagenfurt-6.jpg | https://commons.wikimedia.org/wiki/File:Keutschach_am_See_-_Aussichtsturm_Pyramidenkogel_(b).JPG | CC BY-SA 4.0 | C.Stadler/Bwag
+highlights/klagenfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Bahnstation_Maria_Elend,_Rosental,_K%C3%A4rnten,_%C3%96sterreich,_ehem._k.und_k._Staatsbahn_Wien_-_Triest.jpg | CC BY 4.0 | Naturpuur
+highlights/klagenfurt-7.jpg | https://commons.wikimedia.org/wiki/File:Burg_Hochosterwitz_Nordseite_01.jpg | CC BY-SA 4.0 | Uoaei1

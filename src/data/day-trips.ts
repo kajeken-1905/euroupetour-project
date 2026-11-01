@@ -883,6 +883,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'interlaken',
       tip: '하더쿨름 전망대나 호수 유람선을 즐깁니다. 융프라우요흐까지 가면 하루가 꽉 찹니다.|The Harder Kulm or a lake cruise; going up to the Jungfraujoch fills the whole day.',
     },
+    {
+      to: 'bregenz',
+      tip: '직행 기차로 브레겐츠에 가 호수 무대를 보고 펜더 케이블카에 오릅니다. 시간이 남으면 기차로 독일 린다우 섬까지 갑니다.|Direct train to Bregenz for the lake stage and the Pfänder cable car; with time to spare, hop on the train to Lindau island in Germany.',
+    },
   ],
   geneva: [
     {
@@ -1277,6 +1281,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'werfen',
       tip: '오전에 얼음 동굴에 오르고 오후에 호엔베르펜 성의 맹금류 시범을 봅니다. 동굴은 5~10월에만 엽니다.|The ice cave in the morning and the birds-of-prey show at Hohenwerfen in the afternoon; the cave opens May–October only.',
     },
+    {
+      to: 'zell-am-see',
+      tip: '기차로 첼암제에 가 슈미텐회헤 곤돌라에 오르고 호숫가를 걷습니다. 하루 더 있으면 카프룬 빙하나 고산 댐까지 갑니다.|By train to Zell am See for the Schmittenhöhe gondola and the lakeside; with another day, add the Kaprun glacier or reservoirs.',
+    },
   ],
   bath: [
     {
@@ -1353,11 +1361,19 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'garmisch-partenkirchen',
       tip: '미텐발트선 산악 철도로 국경을 넘어 추크슈피체나 파르트나흐 협곡에 갑니다.|Over the border on the Mittenwald Railway for the Zugspitze or the Partnach Gorge.',
     },
+    {
+      to: 'kitzbuhel',
+      tip: '구시가를 걷고 하넨캄 곤돌라로 슈트라이프 출발점까지 올라갑니다.|The old town, then the Hahnenkamm gondola up to the start of the Streif.',
+    },
   ],
   graz: [
     {
       to: 'maribor',
       tip: '드라바 강변 구시가와 세계에서 가장 오래된 포도나무를 봅니다.|The Drava riverside old town and the world’s oldest vine.',
+    },
+    {
+      to: 'klagenfurt',
+      tip: '새 코랄름 철도로 클라겐푸르트에 가 용 분수와 문장의 방을 보고 뵈르터 호숫가를 걷습니다.|Take the new Koralm line to Klagenfurt for the dragon fountain and the Hall of Arms, then a walk by the Wörthersee.',
     },
   ],
   brno: [
