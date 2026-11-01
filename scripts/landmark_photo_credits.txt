@@ -1492,3 +1492,48 @@ highlights/klagenfurt-4.jpg | https://commons.wikimedia.org/wiki/File:Klagenfurt
 highlights/klagenfurt-6.jpg | https://commons.wikimedia.org/wiki/File:Keutschach_am_See_-_Aussichtsturm_Pyramidenkogel_(b).JPG | CC BY-SA 4.0 | C.Stadler/Bwag
 highlights/klagenfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Bahnstation_Maria_Elend,_Rosental,_K%C3%A4rnten,_%C3%96sterreich,_ehem._k.und_k._Staatsbahn_Wien_-_Triest.jpg | CC BY 4.0 | Naturpuur
 highlights/klagenfurt-7.jpg | https://commons.wikimedia.org/wiki/File:Burg_Hochosterwitz_Nordseite_01.jpg | CC BY-SA 4.0 | Uoaei1
+festivals/cologne-carnival.jpg | https://commons.wikimedia.org/wiki/File:2023_Rosenmontagszug_Grossfiguren-2.jpg | CC BY-SA 4.0 | Geolina163
+festivals/striezelmarkt.jpg | https://commons.wikimedia.org/wiki/File:Striezelmarkt_2009_00950.jpg | CC BY-SA 3.0 | LH DD/Dittrich
+festivals/meistertrunk.jpg | https://commons.wikimedia.org/wiki/File:%E2%80%9EDer_Meistertrunk%E2%80%9C,_Rothenburg_odT,_Einmarsch_der_Spielmannsz%C3%BCge.jpg | CC BY-SA 4.0 | Uwa2000
+festivals/heidelberg-castle-illumination.jpg | https://commons.wikimedia.org/wiki/File:Heidelberg_05_06_2011_-_panoramio.jpg | CC BY 3.0 | karin123
+festivals/basel-fasnacht.jpg | https://commons.wikimedia.org/wiki/File:Morgestraich_2018.jpg | CC BY-SA 4.0 | Theusursus
+festivals/escalade.jpg | https://commons.wikimedia.org/wiki/File:Geneva_Escalade_marching_bands_mp3h3660.jpg | CC BY-SA 2.0 fr | Rama
+festivals/kings-day.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam_Koningsdag_2014_-_07.jpg | CC BY-SA 4.0 | Ronn
+festivals/ommegang.jpg | https://commons.wikimedia.org/wiki/File:Ommegang.jpg | CC BY-SA 4.0 | Christophe Degryse
+festivals/holy-blood-procession.jpg | https://commons.wikimedia.org/wiki/File:Heilig-Bloedprocessie_(17).jpg | CC BY-SA 3.0 | Michiel Dumon
+festivals/trooping-the-colour.jpg | https://commons.wikimedia.org/wiki/File:Soldiers_Trooping_the_Colour,_16th_June_2007.jpg | CC BY 2.0 | Jon
+festivals/fete-du-lac-annecy.jpg | https://commons.wikimedia.org/wiki/File:F%C3%AAte_du_lac_d%27Annecy_2012.jpg | CC BY-SA 4.0 | Hélène CROSET [1]
+festivals/copenhagen-jazz.jpg | https://commons.wikimedia.org/wiki/File:Jazz_(7591076490).jpg | CC BY-SA 2.0 | Karen Mardahl
+festivals/roskilde-festival.jpg | https://commons.wikimedia.org/wiki/File:Roskilde_Festival_-_Orange_Stage_-_Bruce_Springsteen.jpg | CC BY-SA 3.0 | Bill Ebbesen
+festivals/vappu.jpg | https://commons.wikimedia.org/wiki/File:Havis_Amanda_during_Vappu_in_1950s.jpg | Public domain | Juha Jernvall
+festivals/prague-spring.jpg | https://commons.wikimedia.org/wiki/File:G_N_Rozhdestvensky_at_Prague_Spring_Festival_2007.jpg | CC BY-SA 3.0 | Jialiang Gao www.peace-on-earth.org
+festivals/prague-christmas.jpg | https://commons.wikimedia.org/wiki/File:Christmas_market_Prague_2021_04.jpg | CC BY-SA 4.0 | Helena Melezínková
+festivals/sziget.jpg | https://commons.wikimedia.org/wiki/File:Sziget_Magyar_Dal.jpg | CC BY-SA 2.0 | Gergely Csatari
+festivals/st-stephens-day.jpg | https://commons.wikimedia.org/wiki/File:Fireworks,_Budapest_2011.JPG | CC BY-SA 4.0 | Derzsi Elekes Andor
+festivals/krakow-jewish-culture.jpg | https://commons.wikimedia.org/wiki/File:029Krak%C3%B3w.JPG | Public domain | Rj1979
+festivals/krakow-christmas.jpg | https://commons.wikimedia.org/wiki/File:2025_Krak%C3%B3w_jarmark_bo%C5%BConarodzeniowy_04.jpg | CC BY-SA 4.0 | Zala
+festivals/kaziukas.jpg | https://commons.wikimedia.org/wiki/File:Kaziuko_muge_2010.jpg | CC BY 2.0 | Evaldas Liutkus from Vilnius, Lithuania
+festivals/tallinn-old-town-days.jpg | https://commons.wikimedia.org/wiki/File:Tallinn_Old_Town_Days_2020.jpg | CC BY-SA 4.0 | Savannah Rivka
+festivals/sibiu-theatre.jpg | https://commons.wikimedia.org/wiki/File:Whirling_street_performers_(8301992585).jpg | CC BY 2.0 | Thomas Quine
+festivals/dubrovnik-summer.jpg | https://commons.wikimedia.org/wiki/File:Audience_at_Dubrovnik_Summer_Festival_2019_(48738594718).jpg | CC BY 2.0 | dronepicr
+festivals/ljubljana-festival.jpg | https://commons.wikimedia.org/wiki/File:Getting_ready_for_Evita_at_the_Ljubljana_Summer_Festival_(14823255698).jpg | CC BY 2.0 | MollySVH
+festivals/kotor-carnival.jpg | https://commons.wikimedia.org/wiki/File:Kotorski_Karneval_2023_(006).jpg | CC BY-SA 4.0 | Ivan.Petrović.Poljak.001
+festivals/boka-night.jpg | https://commons.wikimedia.org/wiki/File:Boka_Night_Festival,_Fireworks_21.jpg | CC BY-SA 4.0 | Miomir Magdevski
+festivals/athens-epidaurus.jpg | https://commons.wikimedia.org/wiki/File:Odeon_of_Herodes_Atticus_night-time_panorama.jpg | CC BY-SA 3.0 | Tomisti
+festivals/san-isidro.jpg | https://commons.wikimedia.org/wiki/File:Fiestas_de_San_Isidro,_Madrid,_2016_02.JPG | CC BY-SA 4.0 | Benjamín Núñez González
+festivals/feria-malaga.jpg | https://commons.wikimedia.org/wiki/File:Feria_de_d%C3%ADa_M%C3%A1laga.jpg | CC BY-SA 2.0 | Steve 2.0
+festivals/carnaval-cadiz.jpg | https://commons.wikimedia.org/wiki/File:Carnaval_de_C%C3%A1diz_2014_-_MIN-DSC04774.jpg | CC BY-SA 4.0 | El Pantera
+festivals/san-sebastian-film.jpg | https://commons.wikimedia.org/wiki/File:62_zinemaldia_kursaal.JPG | CC BY-SA 4.0 | Joxemai
+festivals/jazzaldia.jpg | https://commons.wikimedia.org/wiki/File:Snarky_Puppy@51._Heineken_Jazzaldia_(30052040612).jpg | CC BY-SA 2.0 | Urko Dorronsoro from Donostia - San Sebastian, Euskal Herria
+festivals/fiestas-apostol.jpg | https://commons.wikimedia.org/wiki/File:Santiago._Fuegos_del_Ap%C3%B3stol_2012_(7640736366).jpg | CC BY-SA 2.0 | Contando Estrelas from Vigo, España / Spain
+festivals/sitges-film.jpg | https://commons.wikimedia.org/wiki/File:040_R%C3%A8tol_del_56%C3%A8_Festival_Internacional_de_Cinema_Fant%C3%A0stic,_pg._de_la_Ribera_(Sitges).jpg | CC BY 4.0 | Enric
+festivals/goyesca-ronda.jpg | https://commons.wikimedia.org/wiki/File:%C2%AE_S.D._(ES,EN)_RONDA,_ALAMEDA_DEL_TAJO,_DAMA_GOYESCA_-_panoramio_(2).jpg | CC BY 3.0 | Concepcion AMAT ORTA…
+festivals/corpus-granada.jpg | https://commons.wikimedia.org/wiki/File:Corpus_Christi_en_la_Catedral_de_Granada_05.jpg | CC0 | Ana Carlota Valle
+festivals/semana-santa-braga.jpg | https://commons.wikimedia.org/wiki/File:Braga,_Rua_de_S%C3%A3o_Marcos.jpg | CC BY-SA 2.0 | juantiagues
+festivals/festa-da-flor.jpg | https://commons.wikimedia.org/wiki/File:Festa_da_Flor_2019,_Funchal,_Madeira_-_IMG_20190503_173736.jpg | CC BY-SA 4.0 | Paulo SP/ Wikimedia
+festivals/madeira-new-year.jpg | https://commons.wikimedia.org/wiki/File:Final_Fireworks_(190105933).jpeg | CC BY-SA 3.0 | Cláudia Rodrigues
+festivals/lucerne-fasnacht.jpg | https://commons.wikimedia.org/wiki/File:Carnaval_de_Lucerne.jpg | CC BY-SA 3.0 | Matthieu valentin
+festivals/maastricht-carnival.jpg | https://commons.wikimedia.org/wiki/File:DeZaateHerremenie2008.jpg | Public domain | Joe Thomissen
+festivals/jorvik-viking-festival.jpg | https://commons.wikimedia.org/wiki/File:Viking_warriors_in_Stonegate_-_geograph.org.uk_-_5294908.jpg | CC BY-SA 2.0 | Gordon Hatton
+festivals/midsommar-stockholm.jpg | https://commons.wikimedia.org/wiki/File:Midsommar_crowns_on_pole_in_Skansen_(2024).jpg | CC BY-SA 4.0 | ThibautRe
+festivals/istanbul-tulip.jpg | https://commons.wikimedia.org/wiki/File:Carpet_of_tulips.jpg | CC BY-SA 4.0 | Maurice Flesier
