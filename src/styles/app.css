@@ -3800,11 +3800,15 @@ a.plan-btn {
 }
 
 /* —— My trip on the home screen: K-pop concert look (gradient light-stick colours, glow, ticket chips) —— */
-.home-trip {
+.home-trip,
+.itinerary-panel {
   --kp-pink: #ff2d95;
   --kp-violet: #8b2dff;
   --kp-cyan: #00b8d9;
   --kp-grad: linear-gradient(135deg, var(--kp-pink), var(--kp-violet) 55%, var(--kp-cyan));
+}
+
+.home-trip {
   margin-top: 26px;
 }
 
@@ -4375,11 +4379,6 @@ a.plan-btn {
     flex-wrap: wrap;
   }
 
-  .tour-stops .tour-stop-date {
-    order: 5;
-    width: 100%;
-  }
-
   /* The leg into this city sits under its name, marked as coming from the card before. */
   .tour-stops .tour-leg-wrap {
     margin: 8px 0 0;
@@ -4425,5 +4424,82 @@ a.plan-btn {
   .itinerary-panel .itinerary-day + .itinerary-day {
     padding-top: 12px;
     border-top: 1px solid var(--line);
+  }
+}
+
+/* Arrival date: a small label in front of the picker, on its own line under the city name. */
+.tour-stop {
+  flex-wrap: wrap;
+}
+
+.tour-stop-date-wrap {
+  display: flex;
+  order: 5;
+  width: 100%;
+  align-items: center;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.tour-stop-date-wrap .tour-stop-date {
+  flex: 1 1 auto;
+  width: auto;
+}
+
+.tour-stop-date-label {
+  color: #6b1fd1;
+  font-size: 12px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+/* K-pop light-stick band behind each route city's name and each itinerary day's title. */
+.home-trip .tour-stop {
+  padding: 6px 8px;
+  border-radius: 16px;
+  background:
+    radial-gradient(circle at 12% 20%, rgba(255, 255, 255, 0.55) 0 2px, transparent 3px),
+    radial-gradient(circle at 78% 70%, rgba(255, 255, 255, 0.45) 0 1.5px, transparent 2.5px),
+    linear-gradient(120deg, rgba(255, 45, 149, 0.16), rgba(139, 45, 255, 0.16) 55%, rgba(0, 184, 217, 0.16));
+  background-size: 100% 100%, 100% 100%, 200% 100%;
+  box-shadow: inset 0 0 0 1px rgba(139, 45, 255, 0.18), 0 4px 14px rgba(255, 45, 149, 0.12);
+  animation: kp-band 7s ease-in-out infinite alternate;
+}
+
+.home-trip .tour-stop-city {
+  background: var(--kp-grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.itinerary-panel .itinerary-day > .itinerary-day-title {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--kp-grad);
+  background-size: 200% 100%;
+  color: #fff;
+  box-shadow: 0 4px 14px rgba(255, 45, 149, 0.28), 0 0 0 1px rgba(255, 255, 255, 0.4) inset;
+  animation: kp-band 7s ease-in-out infinite alternate;
+}
+
+.theme-page .itinerary-panel .itinerary-day > .itinerary-day-title {
+  color: #fff;
+}
+
+@keyframes kp-band {
+  from {
+    background-position: 0 0, 0 0, 0% 50%;
+  }
+  to {
+    background-position: 0 0, 0 0, 100% 50%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-trip .tour-stop,
+  .itinerary-panel .itinerary-day > .itinerary-day-title {
+    animation: none;
   }
 }

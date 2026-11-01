@@ -217,14 +217,17 @@ export function TourPanel() {
                       {city.name[lang]}
 
                     </Link>
-                    <input
-                      className="tour-stop-date"
-                      type="date"
-                      value={dates[i]}
-                      onChange={(e) => setRouteDate(entries[i].index, e.target.value)}
-                      aria-label={`${city.name[lang]} — ${t('tourDate', lang)}`}
-                      title={t('tourDate', lang)}
-                    />
+                    <label className="tour-stop-date-wrap">
+                      <span className="tour-stop-date-label">{t('tourArrival', lang)}</span>
+                      <input
+                        className="tour-stop-date"
+                        type="date"
+                        value={dates[i]}
+                        onChange={(e) => setRouteDate(entries[i].index, e.target.value)}
+                        aria-label={`${city.name[lang]} — ${t('tourArrival', lang)}`}
+                        title={t('tourArrival', lang)}
+                      />
+                    </label>
                     <button
                       type="button"
                       className="plan-icon-btn"
