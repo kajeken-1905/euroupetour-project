@@ -174,7 +174,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'antwerp-h4': v(15, 20),
   'antwerp-h5': v(90, 120, { c: 'mon', s: 'https://mas.be/en', n: '옥상 전망대와 건물 통로는 무료입니다.|The rooftop panorama and the walk up through the building are free.', k: '2026-10' }),
   'antwerp-h6': v(45, 60, { c: 'wed', s: 'https://rubenshuis.be/en', n: '루벤스가 살던 집은 보수 공사로 닫혀 있어 빨라야 2030년에 다시 열고, 정원·도서관과 체험 전시만 엽니다.|The artist’s house itself is closed for restoration and will reopen in 2030 at the earliest; only the garden, library and the Rubens Experience are open.', k: '2026-10' }),
-  'antwerp-h7': v(90, 120, { c: 'mon', n: '화~일 10:00~17:00에 열고 월요일, 1월 1일, 5월 1일, 11월 1일, 12월 25일에 쉽니다. 현금은 받지 않습니다.|Open Tuesday to Sunday 10:00–17:00; closed Mondays and 1 January, 1 May, 1 November and 25 December. Card payment only.' }),
+  'antwerp-h7': v(90, 120, { c: 'mon', n: '화~일 10:00~17:00에 열고 월요일, 1월 1일, 5월 1일, 11월 1일, 12월 25일에 쉽니다. 현금은 받지 않습니다.|Open Tuesday to Sunday 10:00–17:00; closed Mondays and 1 January, 1 May, 1 November and 25 December. Card payment only.', x: [['2026년 8월 3일부터 리모델링으로 휴관 중이며 12월 5~6일 주말에 다시 열 예정입니다.|Closed for renovation since 3 August 2026; reopening is planned for the weekend of 5–6 December.', '2026-12-06']] }),
   'antwerp-h8': v(15, 30, { n: '외관과 강변은 언제든 볼 수 있고 안에 관광 안내소가 있습니다.|The outside and the riverfront are always open; the tourist office is inside.' }),
   'antwerp-h9': v(120, 150, { b: 'req', s: 'https://kmska.be/en/opening-hours-and-tickets', n: '평일 10:00~17:00, 주말·공휴일 10:00~18:00에 엽니다. 시간 지정 예약이 필요하고 뮤지엄 패스가 있어도 예약해야 합니다.|Open weekdays 10:00–17:00, weekends and holidays 10:00–18:00. A timed booking is needed, even with a museum pass.', k: '2026-11' }),
   // Leuven

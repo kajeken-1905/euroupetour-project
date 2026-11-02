@@ -1666,3 +1666,10 @@ highlights/bregenz-1.jpg | https://commons.wikimedia.org/wiki/File:Seeb%C3%BChne
 highlights/paris-35.jpg | https://commons.wikimedia.org/wiki/File:Remote_view_of_the_Tour_Montparnasse_%26_Eiffel_Tower_in_2005.jpg | CC BY-SA 3.0 | User:Thbz
 cities/herceg-novi.jpg | https://commons.wikimedia.org/wiki/File:2024-02-04_Herceg_Novi_1.jpg | CC BY 4.0 | Alexkom000
 highlights/rotterdam-8.jpg | https://commons.wikimedia.org/wiki/File:Delfshaven_in_2008.jpg | CC0 | Prolete
+gateways/gw-praha-hln.jpg | own photo (사진검토/IMG_4684.HEIC) | own photo | 사용자 촬영
+highlights/prague-15.jpg | https://commons.wikimedia.org/wiki/File:Vysehrad_hrbitov_cemetery.jpg | CC BY-SA 3.0 | Ludek
+highlights/prague-16.jpg | own photo (사진검토/IMG_4685.HEIC) | own photo | 사용자 촬영
+highlights/prague-17.jpg | https://commons.wikimedia.org/wiki/File:Strahov_Monastery_Library_(34800862940).jpg | CC BY 2.0 | Nan Palmero from San Antonio, TX, USA
+highlights/prague-18.jpg | https://commons.wikimedia.org/wiki/File:Prague_Municipal_House_01.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/prague-19.jpg | https://commons.wikimedia.org/wiki/File:Praha_-_Klementinum_-_View_East.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/prague-20.jpg | own photo (사진검토/IMG_4677.HEIC) | own photo | 사용자 촬영

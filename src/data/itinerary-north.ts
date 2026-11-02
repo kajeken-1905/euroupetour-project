@@ -66,8 +66,9 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   eger: [1, 2, 3, 5, 4],
   prague: {
     days: [
-      ['프라하 성과 말라스트라나|Prague Castle & Malá Strana', 1, 9, 12, 5, 10, 2],
-      ['구시가와 유대인 지구|Old Town & Jewish Quarter', 8, 7, 3, 4, 6, 11],
+      ['프라하 성과 말라스트라나|Prague Castle & Malá Strana', 1, 9, 12, 20, 17, 5, 10, 2],
+      ['구시가와 유대인 지구|Old Town & Jewish Quarter', 19, 3, 4, 7, 6, 8, 18],
+      ['신시가와 비셰흐라드|New Town & Vyšehrad', 16, 11, 15],
     ],
     trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14]],
   },
