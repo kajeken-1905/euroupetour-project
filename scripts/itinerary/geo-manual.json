@@ -223,5 +223,15 @@
     50.67977,
     4.4043,
     "OSM Nominatim \"Mémorial de Waterloo 1815\", 150 m from the Butte du Lion node (2026-11-02)"
+  ],
+  "amsterdam-h16": [
+    52.38386,
+    4.9021,
+    "OSM Nominatim \"A'dam Lookout, Overhoeksplein\" (A'DAM Toren across the IJ from Centraal) (2026-11-02)"
+  ],
+  "rotterdam-h9": [
+    51.90209,
+    4.48431,
+    "OSM Nominatim \"Fenix, Paul Nijghkade, Katendrecht\" (Fenix opened 2025 in the San Francisco warehouse) (2026-11-02)"
   ]
 }

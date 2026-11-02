@@ -202,6 +202,12 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'amsterdam-h9': v(240, 300, { n: '중앙역 뒤 버스 정류장에서 버스로 약 30분입니다. 폴렌담–마르컨 배는 일 년 내내 다니며 약 30분 걸립니다.|About 30 min by bus from behind Centraal station; the Volendam–Marken boat runs all year and takes about 30 min.' }),
   'amsterdam-h10': v(150, 180, { s: 'https://www.kaasmarkt.nl/', n: '시장은 봄~초가을 금요일 10~13시에만 열립니다(2026년은 3월 27일~9월 25일). 암스테르담에서 기차로 약 35분입니다.|The market runs only on Friday mornings, 10:00–13:00, from spring to early autumn (27 March–25 September in 2026). About 35 min by train from Amsterdam.', k: '2026-10' }),
   'amsterdam-h11': v(180, 240, { b: 'req', s: 'https://keukenhof.nl/', n: '3월 중순~5월 초에만 엽니다(2026년은 3월 19일~5월 10일). 입장 시간을 정해 미리 표를 사야 하고, 스히폴 공항이나 레이던역에서 전용 버스가 다닙니다.|Open only from mid-March to early May (19 March–10 May in 2026). Buy a timed ticket in advance; special buses run from Schiphol and Leiden station.', k: '2026-10' }),
+  'amsterdam-h12': v(20, 30, { n: '무료이며 대체로 9:00~17:00에 엽니다. 주민이 사는 곳이라 조용히 둘러보고 단체는 들어갈 수 없습니다. 스파위 광장 쪽 문으로 들어갑니다.|Free, generally open 9:00–17:00; people live here, so keep quiet, and groups are not admitted. Enter from the Spui.' }),
+  'amsterdam-h13': v(60, 90, { s: 'https://www.rembrandthuis.nl/en/plan-your-visit/visitor-information/opening-hours-fees/', n: '11월 2일~12월 18일엔 매일 10:00~17:00에 엽니다. 매표소에선 체크카드만 받으며, 뮤지엄카드·I amsterdam 시티카드는 무료입니다.|Open daily 10:00–17:00 from 2 November to 18 December. The desk takes debit cards only; free with the Museumkaart and I amsterdam City Card.', k: '2026-11' }),
+  'amsterdam-h14': v(45, 90, { n: '무료이며 언제든 들어갈 수 있습니다.|Free and always open.' }),
+  'amsterdam-h15': v(90, 120, { s: 'https://www.stedelijk.nl/en', n: '매일 10:00~18:00에 엽니다. 성인 €22.50, 18세 이하 무료이고 오디오 가이드가 포함됩니다.|Open daily 10:00–18:00; adults €22.50, under-19s free, audio guide included.', k: '2026-11', x: [['쿠사마 야요이 회고전(2027년 1월 17일까지)은 공식 사이트에서 시간 지정 표로만 봅니다.|The Yayoi Kusama retrospective (until 17 January 2027) is by timed ticket from the official site only.', '2027-01-17']] }),
+  'amsterdam-h16': v(60, 90, { s: 'https://www.adamlookout.com/', n: '중앙역 뒤에서 무료 페리로 몇 분이면 건넙니다. 그네는 따로 요금을 냅니다. 운영 시간은 요일마다 달라 공식 사이트에서 확인하세요.|A free ferry crosses from behind Centraal in a few minutes; the swing costs extra. Hours vary by day, so check the official site.' }),
+  'amsterdam-h17': v(90, 120, { b: 'rec', s: 'https://www.heinekenexperience.com/en', n: '매일 엽니다. 시간 지정 표를 온라인으로 사면 현장보다 싸고, 성수기 오후와 주말은 하루 이틀 전에 매진되기도 합니다. 18세 이상만 맥주를 받습니다.|Open daily. Timed tickets are cheaper online, and peak afternoon and weekend slots can sell out a day or two ahead. Beer for over-18s only.' }),
   // Rotterdam
   'rotterdam-h1': v(30, 45, { c: 'daily', b: 'no', k: '2026-10' }),
   'rotterdam-h2': v(15, 20),
@@ -210,6 +216,8 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'rotterdam-h5': v(90, 120, { c: 'mon', s: 'https://www.boijmans.nl/en', n: '본관은 보수 공사로 휴관 중이고, 바로 옆 수장고(Depot)가 문을 엽니다.|The main museum is closed for renovation; the Depot next door is open.', k: '2026-10' }),
   'rotterdam-h6': v(45, 60, { c: 'daily', s: 'https://euromast.nl/en/', k: '2026-10' }),
   'rotterdam-h7': v(150, 210, { s: 'https://kinderdijk.nl/', n: '로테르담 에라스뮈스 다리 근처 선착장에서 워터버스로 약 40분입니다. 겨울엔 운영 시간이 짧아집니다.|About 40 min by waterbus from near the Erasmus Bridge; hours are shorter in winter.' }),
+  'rotterdam-h8': v(45, 60, { n: '무료이며 언제든 걸어 볼 수 있습니다. 시내에서 트램이나 지하철로 약 10분입니다.|Free and always open; about 10 min from the centre by tram or metro.' }),
+  'rotterdam-h9': v(90, 120, { c: 'mon', b: 'rec', s: 'https://www.fenix.nl/en', n: '화~일 10:00~17:00에 열고 월요일에 쉽니다. 시간 지정 표 하나로 전시와 토네이도 계단을 모두 봅니다. 17세 이하 무료.|Open Tuesday to Sunday 10:00–17:00, closed Mondays. One timed ticket covers the exhibitions and the Tornado staircase; free for under-18s.' }),
   // The Hague
   'the-hague-h1': v(10, 15, { n: '국왕 집무 궁전이라 내부는 공개하지 않습니다.|The King’s working palace—not open to visitors.' }),
   'the-hague-h2': v(30, 45, { c: 'mon,tue', s: 'https://www.vredespaleis.nl/visit/?lang=en', n: '방문자 센터는 무료이고, 건물 내부는 지정일 가이드 투어로만 봅니다. 방문자 센터 기준입니다.|The visitor centre is free; the building itself is seen on guided tours on set days only. As listed for the visitor centre.', k: '2026-10' }),

@@ -4,12 +4,13 @@ import type { RawItinerary } from './itinerary-helper'
 export const itineraryCentral: Record<string, RawItinerary> = {
   amsterdam: {
     days: [
-      ['담 광장과 요르단|Dam Square & Jordaan', 1, 5, 4, 2],
-      ['박물관 광장|Museum Quarter', 7, 6, 3],
+      ['담 광장과 운하 지구|Dam Square & the canals', 1, 12, 7, 2, 5, 4],
+      ['박물관 광장과 폰덜파크|Museum Quarter & Vondelpark', 6, 3, 15, 14],
+      ['렘브란트와 IJ강 북쪽|Rembrandt & across the IJ', 13, 17, 16],
     ],
     trips: [['잔세스칸스|Zaanse Schans', 8], ['폴렌담과 마르컨|Volendam & Marken', 9], ['알크마르 치즈 시장|Alkmaar cheese market', 10], ['케우켄호프|Keukenhof', 11]],
   },
-  rotterdam: { days: [['', 3, 1, 4, 2, 5, 6]], trips: [['킨더다이크 풍차|Kinderdijk windmills', 7]] },
+  rotterdam: { days: [['', 3, 1, 4, 2, 9, 5, 6, 8]], trips: [['킨더다이크 풍차|Kinderdijk windmills', 7]] },
   'the-hague': {
     days: [
       ['시내|City centre', 5, 3, 7, 1, 2],

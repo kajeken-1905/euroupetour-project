@@ -1643,3 +1643,26 @@ highlights/antwerp-8.jpg | https://commons.wikimedia.org/wiki/File:BEL_Antwerpen
 highlights/antwerp-9.jpg | https://commons.wikimedia.org/wiki/File:Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen_mit_Ank%C3%BCndigung_der_Wiederer%C3%B6ffnung.jpg | CC BY-SA 4.0 | Ricardalovesmonuments
 highlights/brussels-11.jpg | https://commons.wikimedia.org/wiki/File:Belgian_Comic_Strip_Center_%2B_Lucky_Luke.jpg | CC BY-SA 3.0 | Spielvogel
 highlights/bruges-9.jpg | https://commons.wikimedia.org/wiki/File:Brugge_Begijnhof_R01.jpg | CC BY-SA 4.0 | Marc Ryckaert
+highlights/amsterdam-12.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Begijnhof_--_2015_--_7215-8.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/amsterdam-13.jpg | https://commons.wikimedia.org/wiki/File:Museum_Het_Rembrandthuis_01.JPG | CC BY-SA 3.0 | Hide-sp
+highlights/amsterdam-14.jpg | https://commons.wikimedia.org/wiki/File:Amsterdam,_Vondelpark,_the_pond.jpg | CC BY 4.0 | Dguendel
+highlights/amsterdam-15.jpg | https://commons.wikimedia.org/wiki/File:Stedelijk_Museum_Amsterdam_7173_HDR.jpg | CC BY-SA 4.0 | C messier
+highlights/amsterdam-16.jpg | https://commons.wikimedia.org/wiki/File:A%27DAM_Toren_en_de_skyline_van_Amsterdam.jpg | CC0 | MrAronymous
+highlights/amsterdam-17.jpg | https://commons.wikimedia.org/wiki/File:Heineken_Museum_Experience_,_Amsterdam_-_Ank_Kumar_01.jpg | CC0 | Ank Kumar
+highlights/rotterdam-9.jpg | https://commons.wikimedia.org/wiki/File:FENIX_museum_building,_Katendrecht,_Rotterdam.jpg | CC BY 4.0 | Mitsjol
+cities/paris.jpg | own photo (사진검토/20170731_220110_HDR.JPG) | own photo | 사용자 촬영
+highlights/paris-1.jpg | own photo (사진검토/20170731_214240_HDR.JPG) | own photo | 사용자 촬영
+highlights/banja-luka-5.jpg | https://commons.wikimedia.org/wiki/File:Ferhadija_mosque,_Banja_Luka_(April_2025)_18.jpg | CC BY-SA 4.0 | Dans
+highlights/basel-1.jpg | https://commons.wikimedia.org/wiki/File:Mittlere_Br%C3%BCcke_und_Basler_M%C3%BCnster.jpg | CC BY-SA 4.0 | Oleksandr Dede
+highlights/bursa-2.jpg | https://commons.wikimedia.org/wiki/File:Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_(14).jpg | CC BY-SA 4.0 | Yahia.Mokhtar
+highlights/chartres-1.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_(Chartres)_(2).jpg | CC BY-SA 4.0 | Gzen92
+highlights/chartres-2.jpg | https://commons.wikimedia.org/wiki/File:Vitraux_Int%C3%A9rieur_Cath%C3%A9drale_Notre_Dame_-_Chartres_(FR28)_-_2021-03-14_-_3.jpg | CC BY-SA 4.0 | Chabe01
+highlights/cologne-1.jpg | https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_und_Hohenzollernbr%C3%BCcke_Abendd%C3%A4mmerung_(9706_7_8).jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/ghent-2.jpg | https://commons.wikimedia.org/wiki/File:Gent,_de_Sint-Niklaaskerk_oeg25149_met_op_de_achtergrond_het_Belfort_oeg24555_en_de_Sint-Baafskathedraal_oeg25743_IMG_0387_2021-08-13_16.31.jpg | CC BY-SA 4.0 | Michielverbeek
+highlights/ghent-4.jpg | https://commons.wikimedia.org/wiki/File:Belfry_of_Ghent_20180628-1.jpg | CC BY-SA 4.0 | Suicasmo
+highlights/lyon-2.jpg | https://commons.wikimedia.org/wiki/File:France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_(15939822990).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+highlights/marseille-2.jpg | https://commons.wikimedia.org/wiki/File:Notre-Dame_de_la_Garde_-_1910.jpg | Public domain | Unknown author
+highlights/bregenz-1.jpg | https://commons.wikimedia.org/wiki/File:Seeb%C3%BChne_Bregenz_au%C3%9Fen.JPG | CC BY-SA 3.0 | MatzeTrier
+highlights/paris-35.jpg | https://commons.wikimedia.org/wiki/File:Remote_view_of_the_Tour_Montparnasse_%26_Eiffel_Tower_in_2005.jpg | CC BY-SA 3.0 | User:Thbz
+cities/herceg-novi.jpg | https://commons.wikimedia.org/wiki/File:2024-02-04_Herceg_Novi_1.jpg | CC BY 4.0 | Alexkom000
+highlights/rotterdam-8.jpg | https://commons.wikimedia.org/wiki/File:Delfshaven_in_2008.jpg | CC0 | Prolete
