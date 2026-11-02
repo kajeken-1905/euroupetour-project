@@ -1626,3 +1626,20 @@ highlights/copenhagen-14.jpg | https://commons.wikimedia.org/wiki/File:Designmus
 highlights/copenhagen-15.jpg | https://commons.wikimedia.org/wiki/File:Kronborg_Castle-20140723-RM-150812.jpg | CC BY-SA 4.0 | Ermell
 highlights/copenhagen-16.jpg | https://commons.wikimedia.org/wiki/File:Frederiksborg_Castle,_Hiller%C3%B8d.jpg | CC BY-SA 3.0 | Er.gagansharma
 highlights/copenhagen-17.jpg | https://commons.wikimedia.org/wiki/File:Louisiana_Museum_of_Modern_Art_(2428798800).jpg | CC BY 2.0 | Håkan Dahlström from Malmö, Sweden
+highlights/brussels-9.jpg | https://commons.wikimedia.org/wiki/File:Galeries_Royales_Saint_Hubert_(226188591).jpeg | CC BY 3.0 | Francisco Anzola
+highlights/brussels-10.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saints-Michel-et-Gudule_de_Bruxelles_2017_2.jpg | CC BY-SA 4.0 | Pierre Goiffon
+highlights/brussels-12.jpg | https://commons.wikimedia.org/wiki/File:Arcade_du_Cinquantenaire_(DSCF7405).jpg | CC BY 4.0 | Trougnouf (Benoit Brummer)
+highlights/brussels-13.jpg | https://commons.wikimedia.org/wiki/File:Brussels-Victor_Horta_Museum.jpg | CC0 | Romaine
+highlights/brussels-14.jpg | https://commons.wikimedia.org/wiki/File:Braine-L%27Alleud_-_Butte_du_Lion_dite_de_Waterloo.jpg | CC BY 3.0 | Jean-Pol GRANDMONT
+highlights/bruges-7.jpg | https://commons.wikimedia.org/wiki/File:Church_Of_Our_Lady_Bruges.jpg | CC BY 2.0 | Wolfgang Staudt
+highlights/bruges-8.jpg | https://commons.wikimedia.org/wiki/File:Brugge_-_Stadhuis_van_Brugge_(48196367262).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/bruges-10.jpg | https://commons.wikimedia.org/wiki/File:Sint-Janshuismolen_(2).jpg | CC BY-SA 3.0 | Pedro J Pacheco
+highlights/bruges-11.jpg | https://commons.wikimedia.org/wiki/File:J33_542_Walplein,_%C2%BBDe_halve_Maan%C2%AB.jpg | CC BY-SA 4.0 | Falk2
+highlights/ghent-7.jpg | https://commons.wikimedia.org/wiki/File:Gent_centrum_140_Michielsbrug.JPG | CC BY-SA 3.0 | Demeester
+highlights/ghent-8.jpg | https://commons.wikimedia.org/wiki/File:Sint-Niklaaskerk_and_the_belfry_of_Ghent_(DSCF0229).jpg | CC BY 4.0 | Trougnouf (Benoit Brummer)
+highlights/ghent-9.jpg | https://commons.wikimedia.org/wiki/File:Belgique_Gand_Vrijdagmarkt_Statue_Jacob_Van_Artevelde_-_panoramio.jpg | CC BY-SA 3.0 | rene boulay
+highlights/antwerp-7.jpg | https://commons.wikimedia.org/wiki/File:Antwerp_Belgium_Museum-Plantin-Moretus-05.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+highlights/antwerp-8.jpg | https://commons.wikimedia.org/wiki/File:BEL_Antwerpen,_Het_Steen_005.jpg | CC BY 4.0 | -wuppertaler
+highlights/antwerp-9.jpg | https://commons.wikimedia.org/wiki/File:Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen_mit_Ank%C3%BCndigung_der_Wiederer%C3%B6ffnung.jpg | CC BY-SA 4.0 | Ricardalovesmonuments
+highlights/brussels-11.jpg | https://commons.wikimedia.org/wiki/File:Belgian_Comic_Strip_Center_%2B_Lucky_Luke.jpg | CC BY-SA 3.0 | Spielvogel
+highlights/bruges-9.jpg | https://commons.wikimedia.org/wiki/File:Brugge_Begijnhof_R01.jpg | CC BY-SA 4.0 | Marc Ryckaert

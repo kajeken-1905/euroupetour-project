@@ -25,10 +25,16 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   vianden: [3, 1, 4, 2],
   echternach: [4, 2, 3, 1],
   remich: [1, 3, 2, 4],
-  brussels: [3, 4, 2, 5, 7, 6, 1, 8],
-  bruges: [1, 2, 5, 3, 6, 4],
-  ghent: [6, 2, 4, 1, 3, 5],
-  antwerp: [1, 6, 2, 4, 3, 5],
+  brussels: {
+    days: [
+      ['아토미움과 그랑플라스|Atomium & the Grand-Place', 3, 4, 11, 10, 9, 2, 5],
+      ['몽데자르와 생캉트네르|Mont des Arts & Cinquantenaire', 7, 6, 1, 8, 12, 13],
+    ],
+    trips: [['워털루|Waterloo', 14]],
+  },
+  bruges: [10, 1, 2, 8, 5, 3, 6, 7, 11, 9, 4],
+  ghent: [6, 2, 4, 8, 7, 1, 3, 5, 9],
+  antwerp: [1, 6, 9, 7, 2, 4, 8, 3, 5],
   leuven: [2, 4, 1, 3, 6, 5],
   dinant: [2, 1, 4, 3],
   vienna: {

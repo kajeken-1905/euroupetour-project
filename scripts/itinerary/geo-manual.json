@@ -218,5 +218,10 @@
     46.84795,
     9.53179,
     "earlier verified pin (Arcas square, Chur old town), kept when the maps query moved to St. Martin (2026-11-02)"
+  ],
+  "brussels-h14": [
+    50.67977,
+    4.4043,
+    "OSM Nominatim \"Mémorial de Waterloo 1815\", 150 m from the Butte du Lion node (2026-11-02)"
   ]
 }
