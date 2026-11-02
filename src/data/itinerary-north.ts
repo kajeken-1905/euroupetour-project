@@ -41,9 +41,11 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   kiruna: { days: [['', 4, 3]], trips: [['아이스호텔|Icehotel', 2]] },
   copenhagen: {
     days: [
-      ['시내|City centre', 5, 1, 2, 7, 6, 4],
-      ['티볼리|Tivoli', 3],
+      ['인어공주와 왕궁|The Little Mermaid & the palace', 12, 5, 14, 13, 1, 2],
+      ['로센보르와 구시가|Rosenborg & the old town', 8, 7, 9, 6, 10, 4],
+      ['글립토테크와 티볼리|Glyptotek & Tivoli', 11, 3],
     ],
+    trips: [['크론보르 성|Kronborg Castle', 15], ['프레데릭스보르 성|Frederiksborg Castle', 16], ['루이지애나 미술관|Louisiana', 17]],
   },
   aarhus: [2, 1, 4, 3, 5],
   odense: [4, 3, 2, 1],
@@ -51,9 +53,11 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   roskilde: [4, 2, 1, 3],
   budapest: {
     days: [
-      ['국회의사당과 부다 언덕|Parliament & Castle Hill', 1, 5, 7, 9, 2],
-      ['페스트|Pest', 6, 8, 4, 3],
+      ['부다 왕궁 언덕|Castle Hill', 5, 7, 9, 2, 10],
+      ['국회의사당과 다뉴브|Parliament & the Danube', 14, 1, 13, 8, 6],
+      ['안드라시 거리와 시티 파크|Andrássy Avenue & City Park', 12, 11, 15, 4, 3],
     ],
+    trips: [['에스테르곰|Esztergom', 16]],
   },
   szentendre: [1, 2, 4, 3, 5],
   debrecen: [4, 1, 2, 3, 5],

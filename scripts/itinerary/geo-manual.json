@@ -213,5 +213,10 @@
     46.8127,
     9.31982,
     "OSM Nominatim \"Il Spir, Via Conn, Flims\" viewing platform (2026-11-01)"
+  ],
+  "chur-h1": [
+    46.84795,
+    9.53179,
+    "earlier verified pin (Arcas square, Chur old town), kept when the maps query moved to St. Martin (2026-11-02)"
   ]
 }
