@@ -238,5 +238,15 @@
     50.08908,
     14.39851,
     "OSM Nominatim \"Starbucks, Hradčanské náměstí\", 20 m from the GPS of the user's own photo of its gate (2026-11-03)"
+  ],
+  "luxembourg-city-h10": [
+    49.6117,
+    6.1337,
+    "OSM Nominatim \"Musée national d'histoire et d'art, 1 Marché-aux-Poissons\" (2026-11-03)"
+  ],
+  "luxembourg-city-h8": [
+    49.60931,
+    6.13391,
+    "OSM Nominatim \"Chemin de la Corniche\" (middle of its four segments, above the Grund) (2026-11-03)"
   ]
 }

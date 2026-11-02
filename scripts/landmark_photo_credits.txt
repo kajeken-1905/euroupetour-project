@@ -1673,3 +1673,6 @@ highlights/prague-17.jpg | https://commons.wikimedia.org/wiki/File:Strahov_Monas
 highlights/prague-18.jpg | https://commons.wikimedia.org/wiki/File:Prague_Municipal_House_01.jpg | CC BY-SA 4.0 | Uoaei1
 highlights/prague-19.jpg | https://commons.wikimedia.org/wiki/File:Praha_-_Klementinum_-_View_East.jpg | CC BY-SA 4.0 | Txllxt TxllxT
 highlights/prague-20.jpg | own photo (사진검토/IMG_4677.HEIC) | own photo | 사용자 촬영
+highlights/luxembourg-city-8.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg-ville_%E2%80%93Corniche.jpg | CC BY-SA 4.0 | Cayambe
+highlights/luxembourg-city-9.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%27Art_moderne_Grand-Duc_Jean_(54114938490).jpg | CC BY-SA 2.0 | Alexandre Prevot from Nancy, France
+highlights/luxembourg-city-10.jpg | https://commons.wikimedia.org/wiki/File:MNAHA_-_Mus%C3%A9e_national_d%27arch%C3%A9ologie,_d%27histoire_et_d%27art_(101).jpg | CC0 | MNAHA / Tom Lucas

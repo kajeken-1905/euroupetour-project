@@ -268,6 +268,9 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'luxembourg-city-h5': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.visitluxembourg.com/place/cathedrale-notre-dame', n: '매일 8:00~18:00(일요일 19:00까지).|Open daily 8:00–18:00 (Sundays to 19:00).', k: '2026-10' }),
   'luxembourg-city-h6': v(10, 15),
   'luxembourg-city-h7': v(45, 60),
+  'luxembourg-city-h8': v(20, 30, { n: '무료이며 언제든 걸을 수 있습니다. 끝에서 보크 카즈마트와 이어집니다.|Free and always open; it leads on to the Bock Casemates.' }),
+  'luxembourg-city-h9': v(60, 90, { s: 'https://www.mudam.com/visit/plan-your-visit', n: '21세 미만과 학생은 무료입니다. 요일별 운영 시간이 자주 바뀌니 공식 사이트에서 확인하세요. 시내에서 트램으로 약 10분입니다.|Free for under-21s and students. Hours change by weekday, so check the official site. About 10 min by tram from the centre.' }),
+  'luxembourg-city-h10': v(75, 120, { c: 'mon', s: 'https://www.visitluxembourg.com/place/mnaha-nationalmusee-um-feschmaart', n: '화~일 10:00~18:00(목요일 20:00까지)에 열고 월요일에 쉽니다. 상설 전시는 무료입니다.|Open Tuesday to Sunday 10:00–18:00 (Thursdays to 20:00), closed Mondays. The permanent galleries are free.', k: '2026-11' }),
   // Vianden
   'vianden-h1': v(120, 150, { c: 'daily', s: 'https://castle-vianden.lu/gb/', k: '2026-10' }),
   'vianden-h2': v(20, 30),
