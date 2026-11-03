@@ -1807,3 +1807,4 @@ cities/split.jpg | own photo | own photo | 사용자 촬영
 highlights/lucerne-3.jpg | own photo | own photo | 사용자 촬영
 highlights/lucerne-1.jpg | own photo | own photo | 사용자 촬영
 cities/lucerne.jpg | own photo | own photo | 사용자 촬영
+cities/bern.jpg | own photo | own photo | 사용자 촬영
