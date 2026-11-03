@@ -897,6 +897,17 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('cfl'),
     ],
   },
+  clervaux: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '역에서 성까지 걸어서 약 10분이고 마을은 걸어서 다닙니다. 룩셈부르크의 대중교통은 무료입니다.',
+      en: 'About 10 min on foot from the station to the castle; walk the town. Public transport in Luxembourg is free.',
+    },
+    apps: [
+      ta('mobiliteit-lu', { ko: '전국 길찾기 (대중교통 무료)', en: 'Nationwide planner (public transport is free)' }),
+      ta('cfl'),
+    ],
+  },
   remich: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -1810,6 +1821,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('mav'),
       ta('bolt', { ko: '우버 대체', en: 'Uber alternative' }),
+    ],
+  },
+  tihany: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을과 수도원은 걸어서 다닙니다. 발라톤퓌레드와는 7355번 버스가 다니고, 호수 건너 샨토드로 가는 카페리가 있습니다(겨울엔 쉬는 기간이 있음).',
+      en: 'Walk the village and abbey; bus 7355 runs to Balatonfüred, and a car ferry crosses to Szántód (with a winter break).',
+    },
+    apps: [
+      ta('mav'),
     ],
   },
   eger: {

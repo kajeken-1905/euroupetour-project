@@ -1368,6 +1368,10 @@ export const STAY: Record<string, StayArea[]> = {
   szeged: [
     a('시내 중심 (돔 광장·티서강 변)', 'Centre (Dóm Square and the Tisza)', 'Dóm tér, Szeged', '처음이라면|First visit', '봉헌 교회와 보행자 거리, 강변이 가깝고 숙박비가 비교적 저렴합니다.|Close to the Votive Church, the pedestrian street and the river, at fairly modest prices.'),
   ],
+  tihany: [
+    a('마을에서 묵기', 'In the town', 'Tihany', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('발라톤퓌레드에서 다녀오기', 'Base in Balatonfüred', 'Balatonfüred', '거점에서 다녀오기|Day trip from a base', '버스로 약 15분입니다.|About 15 min by bus.'),
+  ],
   eger: [
     a('구시가 (도보 광장 주변)', 'Old town (Dobó Square)', 'Dobó tér, Eger', '성·광장·식당|Castle, square, restaurants', '에게르 성과 바로크 광장, 식당이 걸어서 닿습니다.|Eger Castle, the Baroque square and restaurants on foot.'),
     a('미녀의 계곡 근처', 'Near the Valley of Beautiful Women', 'Szépasszony-völgy, Eger', '와인 저장고|Wine cellars', '와인 저장고가 바로 앞이라 돌아갈 걱정이 없습니다. 시내까지 걸어서 20~30분이고 숙소가 적습니다.|The wine cellars on your doorstep, so no trip back after tasting; 20–30 minutes’ walk to town and few rooms.'),
@@ -1703,6 +1707,10 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   echternach: [
     a('에히터나흐 시내·호숫가', 'Echternach centre and lake', 'Echternach', '뮐러탈 트레일 거점|Mullerthal Trail base', '작은 마을이라 시내나 호숫가(유스호스텔)에 묵습니다. 트레일과 버스 정류장이 가깝고 버스는 무료입니다.|A small town; stay in the centre or by the lake (youth hostel), close to the trails and the bus station. Buses are free.'),
+  ],
+  clervaux: [
+    a('마을에서 묵기', 'In the town', 'Clervaux', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('룩셈부르크 시티에서 다녀오기', 'Base in Luxembourg City', 'Luxembourg Gare', '거점에서 다녀오기|Day trip from a base', '기차로 약 1시간입니다.|About an hour by train.'),
   ],
   remich: [
     a('룩셈부르크 시내에서 다녀오기', 'Base in Luxembourg City', 'Luxembourg City', '당일치기|Day trip', '버스로 1시간쯤이고 셍겐·와이너리를 묶은 당일 투어도 있습니다.|About an hour by bus, and day tours combine Schengen and the wineries.'),

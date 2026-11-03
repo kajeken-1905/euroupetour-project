@@ -655,6 +655,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'remich',
       tip: '모젤 강변 포도밭과 와인 저장고를 봅니다.|Moselle vineyards and wine cellars.',
     },
+    {
+      to: 'clervaux',
+      tip: '기차로 약 1시간. 성에서 사진전 ‘인간 가족’을 보고 숲길로 수도원에 오릅니다(월·화요일 휴관).|About an hour by train: The Family of Man in the castle, then the woodland path up to the abbey (closed Mondays and Tuesdays).',
+    },
   ],
   helsinki: [
     {
@@ -708,6 +712,11 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'szentendre',
       tip: '도나우강 가 예술가 마을의 골목과 정교회 성당, 마르치판 가게를 걷습니다. 스칸젠까지 보면 하루가 꽉 찹니다.|The artists’ town on the Danube: lanes, Orthodox churches and marzipan shops; adding the Skanzen fills the day.',
+    },
+    {
+      to: 'tihany',
+      tip: '기차와 버스로 약 2시간 20분. 언덕 위 수도원에서 발라톤 호수를 내려다보고 분화구 호수를 걷습니다.|About 2 hrs 20 by train and bus: Lake Balaton from the abbey on the hill, and a walk round the crater lake.',
+      how: '기차·버스로 약 2시간 20분(발라톤퓌레드 환승)|About 2 hrs 20 by train and bus (change at Balatonfüred)',
     },
   ],
   prague: [

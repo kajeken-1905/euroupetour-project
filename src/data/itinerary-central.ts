@@ -26,6 +26,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   'luxembourg-city': [6, 5, 1, 10, 2, 8, 3, 7, 4, 9],
   vianden: [3, 1, 4, 2],
   echternach: [4, 2, 3, 1],
+  clervaux: [1, 2, 3, 4],
   remich: [1, 3, 2, 4],
   brussels: {
     days: [

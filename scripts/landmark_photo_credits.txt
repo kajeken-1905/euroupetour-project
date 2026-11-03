@@ -1698,3 +1698,16 @@ highlights/olomouc-5.jpg | https://commons.wikimedia.org/wiki/File:Arcidiec%C3%A
 highlights/olomouc-6.jpg | https://commons.wikimedia.org/wiki/File:Basilica_of_the_Visitation_of_the_Virgin_Mary_-_Svat%C3%BD_Kope%C4%8Dek_-_Olomouc_(1).jpg | CC BY 3.0 pl | Sylwia Botev
 highlights/olomouc-3.jpg | https://commons.wikimedia.org/wiki/File:Pipe_organ_at_the_church_of_Saint_Maurice_in_Olomouc.png | CC BY 4.0 | Wad53
 highlights/leiden-6.jpg | https://commons.wikimedia.org/wiki/File:Gate_to_De_Burcht_van_Leiden.JPG | CC BY-SA 3.0 | Jane023
+cities/clervaux.jpg | https://commons.wikimedia.org/wiki/File:0_Clervaux_101021_V1.JPG | CC BY 3.0 | Jean-Pol GRANDMONT
+highlights/clervaux-1.jpg | https://commons.wikimedia.org/wiki/File:Clervaux_Castle_6.JPG | CC BY-SA 3.0 lu | LGphotoOP
+highlights/clervaux-2.jpg | https://commons.wikimedia.org/wiki/File:Clervaux,_Grand-Rue_(101).jpg | CC BY-SA 4.0 | GilPe
+highlights/clervaux-3.jpg | https://commons.wikimedia.org/wiki/File:Clervaux,_Marnach_(101).jpg | CC BY-SA 4.0 | GilPe
+highlights/clervaux-4.jpg | https://commons.wikimedia.org/wiki/File:Abbaye_de_Clervaux_01.jpg | CC BY-SA 3.0 | MMFE
+cities/tihany.jpg | https://commons.wikimedia.org/wiki/File:Tihany_dr%C3%B3n_panor%C3%A1ma.jpg | CC BY-SA 4.0 | Inritter
+highlights/tihany-1.jpg | https://commons.wikimedia.org/wiki/File:Tihany_abbey_with_lavender_and_vineyard.JPG | CC BY-SA 4.0 | Antissimo
+highlights/tihany-2.jpg | https://commons.wikimedia.org/wiki/File:View_of_Pisky_promenade,_Tihany.JPG | CC BY-SA 4.0 | Antissimo
+highlights/tihany-3.jpg | https://commons.wikimedia.org/wiki/File:Tihany.jpg | CC BY-SA 3.0 | Quijo
+highlights/tihany-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_Tihany_with_Bels%C5%91-t%C3%B3_02.JPG | CC BY-SA 4.0 | Antissimo
+highlights/tihany-5.jpg | https://commons.wikimedia.org/wiki/File:Levendul%C3%A1s_-_Tihany,_2014.07.24_(1).JPG | CC BY-SA 4.0 | Derzsi Elekes Andor
+highlights/tihany-6.jpg | https://commons.wikimedia.org/wiki/File:TihanyBaratlakasok_05.jpg | CC BY-SA 4.0 | Allexkoch
+highlights/clervaux-3.jpg | https://commons.wikimedia.org/wiki/File:Clervaux,_Grand-Rue_(103).jpg | CC BY-SA 4.0 | GilPe

@@ -1543,6 +1543,49 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "clervaux",
+    countryId: "lu",
+    lat: 50.0547,
+    lng: 6.0293,
+    signatureImage: "/cities/clervaux.jpg",
+    name: { ko: "클레르보", en: "Clervaux" },
+    nativeName: "Clervaux",
+    blurb: {
+      ko: "아르덴 숲 계곡에 자리한 룩셈부르크 북부의 작은 마을. 하얀 성 안에 유네스코 세계기록유산 사진전 ‘인간 가족’이 있고, 언덕 위엔 베네딕트회 수도원이 있습니다.",
+      en: "A small town in a wooded Ardennes valley in northern Luxembourg: its white castle holds The Family of Man, a photo exhibition on UNESCO’s Memory of the World register, below a Benedictine abbey on the hill.",
+    },
+    highlights: [
+      {
+        id: "clervaux-h1",
+        name: { ko: "클레르보 성과 ‘인간 가족’", en: "Clervaux Castle and The Family of Man" },
+        description: { ko: "에드워드 스타이컨이 1955년 뉴욕 현대 미술관에서 연 사진전 ‘인간 가족’ 503점을 그대로 전시하는 성으로, 유네스코 세계기록유산입니다.", en: "The castle that keeps Edward Steichen’s 1955 MoMA exhibition The Family of Man, all 503 photographs, on UNESCO’s Memory of the World register." },
+        image: "/highlights/clervaux-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=The%20Family%20of%20Man%20Clervaux",
+      },
+      {
+        id: "clervaux-h2",
+        name: { ko: "클레르보 구시가", en: "Clervaux old town" },
+        description: { ko: "성 앞 광장에서 쌍둥이 탑의 성 코스마스·다미아노 성당까지 이어지는 작은 구시가로, 성 옆엔 1944년 아르덴 전투 때의 셔먼 전차가 서 있습니다.", en: "The little old town from the castle square to the twin-towered church of Sts Cosmas and Damian, with a Sherman tank from the 1944 Battle of the Bulge by the castle." },
+        image: "/highlights/clervaux-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%89glise%20Saints-C%C3%B4me-et-Damien%20Clervaux",
+      },
+      {
+        id: "clervaux-h3",
+        name: { ko: "시테 드 리마주 사진 산책", en: "Clervaux – Cité de l’Image" },
+        description: { ko: "마을 곳곳의 벽과 정원에 사진 작품을 내건 야외 사진전으로, 지도를 들고 골목을 따라 걷습니다.", en: "An open-air photo trail of works hung on walls and in gardens around the town, followed with a map." },
+        image: "/highlights/clervaux-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Clervaux%20Cit%C3%A9%20de%20l%27Image",
+      },
+      {
+        id: "clervaux-h4",
+        name: { ko: "생모리스 베네딕트회 수도원", en: "Benedictine Abbey of Saint-Maurice" },
+        description: { ko: "숲 언덕 위 1910년의 로마네스크풍 수도원으로, 성당에서 수도사들의 그레고리오 성가를 들을 수 있고 지하에 수도원 생활 전시가 있습니다.", en: "The Romanesque-style abbey of 1910 on the wooded hill, where you can hear the monks sing Gregorian chant and see an exhibition on monastic life in the crypt." },
+        image: "/highlights/clervaux-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Abbaye%20Saint-Maurice%20Clervaux",
+      }
+    ],
+  },
+  {
     id: "brussels",
     countryId: "be",
     lat: 50.8503,
@@ -4568,6 +4611,63 @@ export const cities: City[] = [
         image: "/highlights/eger-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=47.89030%2C20.35912",
       },
+    ],
+  },
+  {
+    id: "tihany",
+    countryId: "hu",
+    lat: 46.9135,
+    lng: 17.889,
+    signatureImage: "/cities/tihany.jpg",
+    name: { ko: "티하니", en: "Tihany" },
+    nativeName: "Tihany",
+    blurb: {
+      ko: "발라톤 호수로 뻗은 반도 위 마을. 언덕 위 베네딕트회 수도원에서 호수를 내려다보고, 화산 분화구 호수와 여름 라벤더 들판 사이를 걷습니다.",
+      en: "A village on a peninsula reaching into Lake Balaton: look over the lake from the Benedictine abbey on the hill, then walk between a crater lake and summer lavender fields.",
+    },
+    highlights: [
+      {
+        id: "tihany-h1",
+        name: { ko: "티하니 베네딕트회 수도원", en: "Tihany Benedictine Abbey" },
+        description: { ko: "1055년 헝가리어 단어가 처음 적힌 설립 문서로 유명한 수도원으로, 지하에 설립자 안드라시 1세가 잠들어 있고 테라스에서 발라톤 호수가 펼쳐집니다.", en: "The abbey famous for its 1055 founding charter, the oldest text with Hungarian words, where its founder King Andrew I lies in the crypt above a terrace over Lake Balaton." },
+        image: "/highlights/tihany-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tihany%20Benedictine%20Abbey",
+      },
+      {
+        id: "tihany-h2",
+        name: { ko: "피스키 산책로", en: "Pisky promenade" },
+        description: { ko: "수도원 뒤 언덕 가장자리를 따라 이어지는 산책로로, 발라톤 호수와 남쪽 기슭이 내려다보입니다.", en: "The promenade along the hill edge behind the abbey, looking over Lake Balaton to the southern shore." },
+        image: "/highlights/tihany-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pisky%20s%C3%A9t%C3%A1ny%20Tihany",
+      },
+      {
+        id: "tihany-h3",
+        name: { ko: "메아리 언덕", en: "Echo Hill" },
+        description: { ko: "수도원 벽에 소리가 부딪혀 돌아오는 언덕으로, 예부터 메아리 명소로 이름났습니다.", en: "The hill where your voice bounces back off the abbey walls, an echo spot of old." },
+        image: "/highlights/tihany-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tihanyi%20visszhang",
+      },
+      {
+        id: "tihany-h4",
+        name: { ko: "벨셰 호수", en: "Inner Lake" },
+        description: { ko: "반도 한가운데 옛 화산 분화구에 고인 호수로, 갈대와 들판 사이로 산책로가 한 바퀴 돕니다.", en: "The lake in an old volcanic crater in the middle of the peninsula, ringed by a path through reeds and meadows." },
+        image: "/highlights/tihany-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bels%C5%91-t%C3%B3%20Tihany",
+      },
+      {
+        id: "tihany-h5",
+        name: { ko: "라벤더 하우스와 라벤더 들판", en: "Lavender House and the lavender fields" },
+        description: { ko: "헝가리 라벤더 재배가 시작된 반도의 라벤더 들판과, 화산 지형과 라벤더를 소개하는 국립공원 방문자 센터입니다.", en: "The lavender fields where Hungarian lavender growing began, and the national park visitor centre on the volcanic landscape and the plant." },
+        image: "/highlights/tihany-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Levendula%20H%C3%A1z%20L%C3%A1togat%C3%B3k%C3%B6zpont%20Tihany",
+      },
+      {
+        id: "tihany-h6",
+        name: { ko: "수도사 동굴", en: "Hermit caves" },
+        description: { ko: "11세기에 동방 정교회 수도사들이 화산암 언덕을 파서 만든 동굴 수도처입니다.", en: "Cells hollowed into the volcanic rock in the 11th century by Orthodox hermit monks." },
+        image: "/highlights/tihany-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bar%C3%A1tlak%C3%A1sok%20Tihany",
+      }
     ],
   },
   {

@@ -63,6 +63,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   debrecen: [4, 1, 2, 3, 5],
   pecs: [5, 2, 1, 3, 4],
   szeged: [2, 1, 3, 5, 4],
+  tihany: [1, 2, 3, 4, 5, 6],
   eger: [1, 2, 3, 5, 4],
   prague: {
     days: [

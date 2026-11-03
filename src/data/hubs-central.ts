@@ -237,6 +237,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [LUX()],
     rail: [['Ettelbruck', '에텔브뤼크역', '에텔브뤼크 · 버스 연결|Ettelbruck · bus link']],
   },
+  clervaux: {
+    air: [LUX('기차로 약 1시간 10분|About 1 hr 10 by train')],
+    rail: [['Clervaux', '클레르보역']],
+  },
   echternach: {
     air: [LUX()],
     bus: [['Echternach Gare', '에히터나흐 버스터미널', '철도 없음|no railway']],
@@ -827,6 +831,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   },
 
   // —— hu ——
+  tihany: {
+    air: [BUD('기차·버스로 약 3시간|About 3 hrs by train and bus')],
+    rail: [['Balatonfüred', '발라톤퓌레드역', '티하니까지 7355번 버스로 약 15분|bus 7355 to Tihany, about 15 min']],
+  },
   szentendre: {
     air: [BUD()],
     rail: [['Szentendre HÉV', '센텐드레 HÉV역', '부다페스트 바차니 광장행 교외선 H5|suburban line H5 to Batthyány tér']],

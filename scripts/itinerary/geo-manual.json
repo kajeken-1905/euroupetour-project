@@ -273,5 +273,50 @@
     49.59778,
     17.2625,
     "Wikidata/cs.wikipedia St Wenceslas Cathedral, on OSM Václavské náměstí (60 m) (2026-11-03)"
+  ],
+  "clervaux-h1": [
+    50.05445,
+    6.03038,
+    "OSM Nominatim \"Château de Clervaux\" / \"The Family of Man\" (two nodes 20 m apart) (2026-11-03)"
+  ],
+  "clervaux-h2": [
+    50.05528,
+    6.02863,
+    "Google Maps \"Church of Saints Côme et Damien\" (maps query moved to the church), 55 m from OSM Grand-Rue (2026-11-03)"
+  ],
+  "clervaux-h4": [
+    50.05717,
+    6.02208,
+    "OSM Nominatim \"Abbaye Saint-Maurice\" / \"Abbaye de Clervaux\" (same point) (2026-11-03)"
+  ],
+  "tihany-h1": [
+    46.91373,
+    17.8897,
+    "OSM Nominatim \"Tihanyi Bencés Apátság\" and its church (20 m apart) (2026-11-03)"
+  ],
+  "tihany-h2": [
+    46.91512,
+    17.88897,
+    "OSM Nominatim \"Pisky sétány\" (2026-11-03)"
+  ],
+  "tihany-h3": [
+    46.91679,
+    17.88831,
+    "OSM Nominatim \"Tihany - Visszhang-domb\" (2026-11-03)"
+  ],
+  "tihany-h5": [
+    46.90917,
+    17.88814,
+    "OSM Nominatim \"Levendula Ház Látogatóközpont, 67 Major utca\" (the visitor centre; the fields spread around it) (2026-11-03)"
+  ],
+  "clervaux-h3": [
+    50.05378,
+    6.03098,
+    "Google Maps \"Clervaux - Cité de l'image\", 11 Grand-Rue; OSM Grand-Rue node 15 m away (2026-11-03)"
+  ],
+  "tihany-h6": [
+    46.92287,
+    17.87908,
+    "Google Maps \"Barátlakások\"; Wikidata Q791099 (46.9227, 17.8788) 30 m away (2026-11-03)"
   ]
 }

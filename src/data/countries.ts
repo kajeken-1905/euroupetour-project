@@ -488,7 +488,7 @@ export const countries: Country[] = [
       background: '#E6F6FC',
       text: '#062433',
     },
-    cityIds: ['luxembourg-city', 'vianden', 'echternach', 'remich'],
+    cityIds: ['luxembourg-city', 'vianden', 'echternach', 'remich', 'clervaux'],
   },
   // —— 남유럽 ——
   {
@@ -943,7 +943,7 @@ export const countries: Country[] = [
       background: '#F8ECEE',
       text: '#2A0A10',
     },
-    cityIds: ['budapest', 'szentendre', 'debrecen', 'pecs', 'szeged', 'eger'],
+    cityIds: ['budapest', 'szentendre', 'debrecen', 'pecs', 'szeged', 'eger', 'tihany'],
   },
   {
     id: 'pl',

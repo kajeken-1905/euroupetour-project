@@ -251,6 +251,12 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'eger-h3': v(15, 20),
   'eger-h4': v(90, 120),
   'eger-h5': v(45, 60),
+  'tihany-h1': v(60, 90, { s: 'https://eng.tihanyiapatsag.hu/', n: '월~토 10:00~17:00, 일요일 11:15~17:00에 열고 매표는 16:30까지입니다. 성인 3,100포린트이며 미사·행사 때 시간이 바뀝니다.|Open Monday to Saturday 10:00–17:00 and Sundays 11:15–17:00, tickets until 16:30; adults 3,100 HUF. Hours change for services and events.', k: '2026-11' }),
+  'tihany-h2': v(15, 20, { n: '무료이며 언제든 걸을 수 있습니다.|Free and always open.' }),
+  'tihany-h3': v(10, 15, { n: '무료이며 언제든 볼 수 있습니다.|Free and always open.' }),
+  'tihany-h4': v(45, 60, { n: '무료이며 언제든 걸을 수 있습니다.|Free and always open.' }),
+  'tihany-h5': v(45, 60, { n: '라벤더는 6월 중순~7월에 핍니다. 방문자 센터는 계절마다 운영 시간이 다르고, 지금은 구글지도에 임시 휴업으로 나오니 전화(+36 30 019 1384)로 확인하세요.|The lavender blooms mid-June to July. The visitor centre’s hours vary by season and Google Maps currently shows it as temporarily closed, so call ahead (+36 30 019 1384).' }),
+  'tihany-h6': v(45, 60, { n: '무료이며 마을에서 숲길로 걸어서 약 30분입니다.|Free; about 30 min on foot from the village along a woodland path.' }),
 
   // Warsaw
   'warsaw-h1': v(90, 120),

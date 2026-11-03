@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  tihany: { n: '라벤더는 6월 중순~7월에 피고, 7·8월엔 호숫가가 붐빕니다. 겨울엔 식당과 배가 많이 쉽니다.|The lavender blooms mid-June to July and the lakeshore is busy in July and August; in winter many restaurants and boats stop.' },
+  clervaux: { n: '‘인간 가족’ 전시는 12월 30일부터 2월 말까지 쉬니 그 사이엔 피하세요. 가을 숲 단풍이 아름답습니다.|The Family of Man closes from 30 December to the end of February, so avoid those weeks; the autumn woods are lovely.' },
   olomouc: { n: '관광객이 적어 계절을 가리지 않습니다. 스바티 코페체크는 시내가 잘 보이는 맑은 날 가세요.|Few crowds at any season; save Svatý Kopeček for a clear day with a view.' },
   mechelen: { n: '도시가 작아 하루면 충분하고 브뤼셀·안트베르펜 사이라 언제든 들르기 좋습니다. 대성당 탑은 날씨가 맑은 날 오르세요.|Small enough for a day and handy between Brussels and Antwerp at any time of year; climb the tower on a clear day.' },
   leiden: { n: '3월 중순~5월 초엔 레이던 중앙역에서 쾨켄호프 튤립 공원행 버스가 다닙니다. 10월 3일 해방 기념 축제 때는 시내가 붐비고 식물원이 쉽니다.|From mid-March to early May buses run from Leiden Centraal to the Keukenhof tulip gardens. The town is packed for the 3 October relief festival, when the botanical garden closes.' },

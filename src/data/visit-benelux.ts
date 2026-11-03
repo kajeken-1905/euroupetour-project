@@ -299,4 +299,8 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'remich-h2': v(120, 180),
   'remich-h3': v(20, 30),
   'remich-h4': v(45, 60, { c: 'daily', s: 'https://www.papillons.lu/en/', n: '그레벤마허(Grevenmacher)에 있으며 봄부터 가을까지만 엽니다. 4~10월에만 엽니다.|In Grevenmacher; open spring to autumn only. Open April to October only.', k: '2026-10' }),
+  'clervaux-h1': v(90, 120, { c: 'mon,tue', s: 'https://www.steichencollections-cna.lu/eng/nous-visiter/1_the-family-of-man', n: '3월 1일~12월 29일 수~일 12:00~18:00에 열고 월·화요일과 겨울(12월 30일~2월 말)에 쉽니다.|Open 1 March to 29 December, Wednesday to Sunday 12:00–18:00; closed Mondays, Tuesdays and in winter (30 December to the end of February).', k: '2026-11' }),
+  'clervaux-h2': v(30, 45, { n: '무료이며 언제든 걸어 볼 수 있습니다.|Free and always open.' }),
+  'clervaux-h3': v(45, 60, { n: '무료이며 언제든 볼 수 있습니다. 지도는 관광 안내소에서 받습니다.|Free and always open; pick up a map at the tourist office.' }),
+  'clervaux-h4': v(45, 60, { n: '마을에서 숲길로 걸어서 약 20분 오릅니다. 수도원 건물은 들어갈 수 없고 성당과 지하 전시만 봅니다. 시간은 공식 사이트에서 확인하세요.|About 20 min uphill on foot through the woods. The monastery itself is closed to visitors; the church and the crypt exhibition are open—check times on its site.' }),
 }

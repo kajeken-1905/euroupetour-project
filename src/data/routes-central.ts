@@ -100,6 +100,8 @@ export const routesCentral: RawRoute[] = [
   r('luxembourg-city', 'vianden', 'mixed', 70, { n: '에텔브뤼크까지 기차 후 버스 · 국내 대중교통 무료|train to Ettelbruck, then bus · public transport is free' }),
   r('luxembourg-city', 'echternach', 'bus', 50, { n: '국내 대중교통 무료|public transport is free' }),
   r('luxembourg-city', 'remich', 'bus', 40, { n: '국내 대중교통 무료|public transport is free' }),
+  r('luxembourg-city', 'clervaux', 'train', 58, { n: '국내 대중교통 무료|public transport is free' }),
+  r('clervaux', 'vianden', 'bus', 46, { n: '국내 대중교통 무료|public transport is free' }),
   r('luxembourg-city', 'paris', 'train', 130, { ...R, fb: '파리 동역|Paris Gare de l’Est', n: 'TGV' }),
 
   // —— es / ad ——
@@ -294,6 +296,7 @@ export const routesCentral: RawRoute[] = [
   r('budapest', 'pecs', 'train', 170, { ...R, fa: '부다페스트 동역|Budapest-Keleti', n: '인터시티|InterCity' }),
   r('budapest', 'szeged', 'train', 145, { ...R, fa: '부다페스트 서역|Budapest-Nyugati', n: '인터시티|InterCity' }),
   r('budapest', 'eger', 'train', 120, { fa: '부다페스트 동역|Budapest-Keleti' }),
+  r('budapest', 'tihany', 'mixed', 139, { fa: '부다페스트 남역|Budapest-Déli', n: '발라톤퓌레드에서 7355번 버스로 환승|change at Balatonfüred for bus 7355' }),
   r('budapest', 'szentendre', 'train', 40, { fa: '바차니 광장|Batthyány tér', fb: '센텐드레 HÉV역|Szentendre', n: '교외선 H5|suburban line H5' }),
   r('budapest', 'zagreb', 'bus', 240),
   r('budapest', 'zagreb', 'train', 360),
