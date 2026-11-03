@@ -76,4 +76,8 @@ export const placesBEExtra: Place[] = [
   place('mechelen-fine_dining-3', 'mechelen', 'fine_dining', 'The Chick', 'Sint-Romboutskerkhof 2, 2800 Mechelen', '대성당 바로 옆의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern restaurant right beside the cathedral. In the MICHELIN Guide.'),
   place('mechelen-fine_dining-4', 'mechelen', 'fine_dining', 'Cosma', 'Befferstraat 24, 2800 Mechelen', '여럿이 나눠 먹는 요리를 내는 레스토랑. 미쉐린 가이드 선정.', 'Sharing-plates restaurant. In the MICHELIN Guide.'),
   place('mechelen-fine_dining-5', 'mechelen', 'fine_dining', 'Ember', 'Guldenstraat 9, 2800 Mechelen', '제철 요리를 내는 레스토랑. 미쉐린 가이드 선정.', 'Seasonal cooking. In the MICHELIN Guide.'),
+  place('mechelen-bakery-1', 'mechelen', 'bakery', 'niki\'s bakery', 'Guldenstraat 16, 2800 Mechelen', '시내 중심 휠던스트라트의 빵집.', 'Bakery on the Guldenstraat in the centre.'),
+  place('mechelen-bakery-2', 'mechelen', 'bakery', 'De Zotte Morgen', 'Goswin de Stassartstraat 50, 2800 Mechelen', '카제르너 도신 근처의 빵집.', 'Bakery near Kazerne Dossin.'),
+  place('mechelen-cafe-1', 'mechelen', 'cafe', 'Mimi', 'Bruul 131, 2800 Mechelen', '쇼핑 거리 브뤼얼의 커피숍.', 'Coffee shop on the Bruul shopping street.'),
+  place('mechelen-cafe-2', 'mechelen', 'cafe', 'Rosco Coffee & more', 'Bruul 11, 2800 Mechelen', '쇼핑 거리 브뤼얼의 커피숍.', 'Coffee shop on the Bruul shopping street.'),
 ]

@@ -106,4 +106,8 @@ export const placesNLExtra: Place[] = [
   place('leiden-fine_dining-3', 'leiden', 'fine_dining', 'In den Doofpot', 'Turfmarkt 9, 2312 CE Leiden', '운하 가의 창의 요리 레스토랑. 미쉐린 가이드 선정.', 'Creative restaurant on a canal. In the MICHELIN Guide.'),
   place('leiden-fine_dining-4', 'leiden', 'fine_dining', 'Wielinga', 'Nieuwe Rijn 28, 2312 JD Leiden', '니우어 레인 운하 가의 모던 프렌치 레스토랑. 미쉐린 가이드 선정.', 'Modern French restaurant on the Nieuwe Rijn canal. In the MICHELIN Guide.'),
   place('leiden-fine_dining-5', 'leiden', 'fine_dining', 'Bistro Bord’o', 'Apothekersdijk 2, 2312 DC Leiden', '구시가의 컨템퍼러리 비스트로. 미쉐린 가이드 선정.', 'Contemporary bistro in the old town. In the MICHELIN Guide.'),
+  place('leiden-bakery-1', 'leiden', 'bakery', 'Stadsbakkerij Water & Bloem', 'Pieterskerk-Choorsteeg 26, 2311 TR Leiden', '피터르스 교회 옆 골목의 빵집.', 'Bakery in the lane beside the Pieterskerk.'),
+  place('leiden-bakery-2', 'leiden', 'bakery', 'Mamie Gourmande', 'Gangetje 14, 2311 ER Leiden', '구시가 골목의 빵집 겸 카페.', 'Bakery-café in an old-town lane.'),
+  place('leiden-cafe-1', 'leiden', 'cafe', 'Giò Neapolitan Espresso', 'Sint Jorissteeg 13, 2311 JA Leiden', '나폴리식 에스프레소를 내는 카페.', 'Café serving Neapolitan-style espresso.'),
+  place('leiden-cafe-2', 'leiden', 'cafe', 'Chummy Coffee Leiden', 'Breestraat 97, 2311 CK Leiden', '중심가 브레이스트라트의 카페.', 'Café on the Breestraat, the main street.'),
 ]

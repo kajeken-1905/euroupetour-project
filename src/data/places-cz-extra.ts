@@ -58,4 +58,7 @@ export const placesCZExtra: Place[] = [
   place('olomouc-fine_dining-1', 'olomouc', 'fine_dining', 'Entrée', 'Ostravská 1, 779 00 Olomouc', '모던 요리를 내는 올로모우츠의 미쉐린 1스타 레스토랑.', 'Olomouc’s One-Michelin-star restaurant of modern cooking.', { michelin: 'star1' }),
   place('olomouc-fine_dining-2', 'olomouc', 'fine_dining', 'Long Story Short Eatery & Bakery', 'Koželužská 945/31, 779 00 Olomouc', '직접 구운 빵과 모던 요리를 내는 식당 겸 빵집. 미쉐린 빕 구르망.', 'Eatery and bakery with its own bread and modern dishes. Michelin Bib Gourmand.', { michelin: 'bib' }),
   place('olomouc-fine_dining-3', 'olomouc', 'fine_dining', 'STeaK Restaurant', 'Lipenská 11/7, 779 00 Olomouc', '그릴 스테이크 레스토랑. 미쉐린 가이드 선정.', 'Grill and steak restaurant. In the MICHELIN Guide.'),
+  place('olomouc-bakery-1', 'olomouc', 'bakery', 'Pekařství Sázava', 'Ostružnická 343, 779 00 Olomouc', '구시가 오스트루주니츠카 거리의 빵집.', 'Bakery on Ostružnická street in the old town.'),
+  place('olomouc-cafe-1', 'olomouc', 'cafe', 'Pikola espresso bar', 'Ostružnická 337/30, 779 00 Olomouc', '구시가 오스트루주니츠카 거리의 에스프레소 바.', 'Espresso bar on Ostružnická street in the old town.'),
+  place('olomouc-cafe-2', 'olomouc', 'cafe', 'KAFE JAK LUSK', 'třída Svobody 646/4, 779 00 Olomouc', '구시가 가장자리 스보보디 거리의 카페.', 'Café on třída Svobody at the edge of the old town.'),
 ]

@@ -11,7 +11,6 @@ export const placesRUExtra: Place[] = [
   place('moscow-fine_dining-2', 'moscow', 'fine_dining', 'White Rabbit', 'Smolenskaya Square 3, 16th floor (Smolensky Passage), Moscow', '스몰렌스키 파사주 16층 레스토랑. 블라디미르 무힌 셰프가 옛 러시아 요리를 현대식으로 냅니다.', 'Sixteenth-floor restaurant in Smolensky Passage where chef Vladimir Mukhin reworks old Russian cooking.'),
   place('moscow-fine_dining-3', 'moscow', 'fine_dining', 'Dr. Zhivago', 'Mokhovaya St 15/1, Hotel National, Moscow', '크렘린 맞은편 나치오날 호텔 1층의 러시아 요리 카페.', 'Russian café on the ground floor of the Hotel National, across from the Kremlin.'),
 
-  place('moscow-bakery-1', 'moscow', 'bakery', 'Masa Madre', 'Solyanka St 1/2 bldg 1, Moscow', '빵과 시나몬 멍키 브레드, 바스크 치즈케이크로 알려진 베이커리.', 'Bakery known for its bread, cinnamon monkey bread and Basque cheesecake.'),
   place('moscow-bakery-2', 'moscow', 'bakery', 'Pechorin', 'Shabolovka St 19, Moscow', '여러 종류의 수제 빵과 점심 메뉴를 내는 베이커리.', 'Bakery with many kinds of artisan bread and full lunches.'),
   place('moscow-bakery-3', 'moscow', 'bakery', 'Bulka', 'Pokrovka St 19, Moscow', '갓 구운 빵과 작은 페이스트리를 파는 베이커리.', 'Bakery selling fresh bread and small pastries.'),
   place('moscow-bakery-4', 'moscow', 'bakery', 'La Poste', 'Myasnitskaya St 13 bldg 3, Moscow', '바게트와 카늘레 같은 프랑스식 빵을 굽는 베이커리.', 'French-style bakery for baguettes and canelés.'),
@@ -36,7 +35,6 @@ export const placesRUExtra: Place[] = [
   place('saint-petersburg-cafe-1', 'saint-petersburg', 'cafe', 'René', 'Nevsky Prospekt 28, 2nd floor (Singer House), Saint Petersburg', '넵스키 대로 싱어 하우스(돔 크니기 서점) 2층의 카페. 러시아·프랑스 요리를 냅니다.', 'Café on the second floor of the Singer House bookshop on Nevsky Prospekt, with Russian and French cooking.'),
 
   place('saint-petersburg-bakery-1', 'saint-petersburg', 'bakery', 'Zoe', 'Radishcheva St 29, Saint Petersburg', '바스코프 골목 모퉁이의 새 물결 빵집. 도넛이 유명하고 아침 식사와 스페셜티 커피도 있습니다.', 'New-wave bakery on the corner of Baskov Lane, famous for its doughnuts, with breakfasts and specialty coffee.'),
-  place('saint-petersburg-bakery-2', 'saint-petersburg', 'bakery', 'Подписные булочки (Podpisnye Bulochki)', 'Liteyny Prospekt 57 (Podpisnye Izdaniya bookshop), Saint Petersburg', '서점 \'포드피스니예 이즈다니야\' 안의 빵집. 2020년부터 크루아상과 카다멈 번을 굽습니다.', 'Bakery inside the Podpisnye Izdaniya bookshop, baking croissants and cardamom buns since 2020.'),
   place('saint-petersburg-bakery-3', 'saint-petersburg', 'bakery', 'Aster', 'Mayakovskogo St 23, Saint Petersburg', '줄 서는 브런치·빵집. 직접 구운 빵과 커피, 아침 식사를 냅니다.', 'Popular brunch spot and bakery with queues, serving its own bakes, coffee and breakfasts.'),
 
   place('saint-petersburg-korean-1', 'saint-petersburg', 'korean', 'МаккоЛи (MakkoLi)', 'Ligovsky Prospekt 25, Saint Petersburg', '플로샤지 보스스타니야역 가까이 있는 한식당. 시내에 지점이 여러 곳 있습니다.', 'Korean restaurant near Ploshchad Vosstaniya metro, one of several branches in the city.'),
@@ -47,8 +45,7 @@ export const placesRUExtra: Place[] = [
   place('kazan-cafe-1', 'kazan', 'cafe', 'Ботаника (Botanika)', 'Zhukovskogo St 6, Kazan', '카잔 로스터리 보타니카의 벽돌 아치 카페. 필터 커피를 여러 원두로 고를 수 있고 원두도 팝니다.', 'Café under brick vaults from the local Botanika roastery, with several filter coffees to choose from and beans to take home.'),
 
   // —— vladivostok (Snob gastro guide, 14 Oct 2026) ——
-  place('vladivostok-fine_dining-1', 'vladivostok', 'fine_dining', 'Улисс Азия (Ulysses Asia)', 'Naberezhnaya St 13, 14th floor (Burny complex), Vladivostok', '부르니 복합 건물 14층의 해산물 레스토랑. 아무르만이 내려다보입니다.', 'Seafood restaurant on the 14th floor of the Burny complex, looking over Amur Bay.'),
-  place('vladivostok-fine_dining-2', 'vladivostok', 'fine_dining', 'Густо (Gusto)', 'GUM courtyard, Svetlanskaya St 35, Vladivostok', '굼 백화점 옛 안뜰의 가스트로바. 연해주 제철 식재료로 유럽식 요리를 냅니다.', 'Gastrobar in the old GUM courtyard serving European dishes with seasonal local produce.'),
+  place('vladivostok-fine_dining-2', 'vladivostok', 'fine_dining', 'Густо (Gusto)', 'Svetlanskaya St 33/2 (GUM courtyard), Vladivostok', '굼 백화점 옛 안뜰의 가스트로바. 연해주 제철 식재료로 유럽식 요리를 냅니다.', 'Gastrobar in the old GUM courtyard serving European dishes with seasonal local produce.'),
 
   place('vladivostok-fine_dining-3', 'vladivostok', 'fine_dining', 'TiAMA', 'Laninsky Pereulok 4, Vladivostok', '연해주식으로 만든 이탈리아 요리 레스토랑. WHERETOEAT 극동 2026 5위.', 'Italian restaurant with a Primorye twist, fifth in WHERETOEAT Far East 2026.'),
   place('vladivostok-fine_dining-4', 'vladivostok', 'fine_dining', 'Супра (Supra)', 'Admirala Fokina St 1B, Vladivostok', '조지아 요리 레스토랑. 시내에 지점이 여러 곳 있습니다. WHERETOEAT 극동 2026 7위.', 'Georgian restaurant with several branches in the city, seventh in WHERETOEAT Far East 2026.'),

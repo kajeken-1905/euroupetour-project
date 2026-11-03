@@ -160,4 +160,22 @@ export const placesCHExtra: Place[] = [
 
   // —— bellinzona ——
   place('bellinzona-fine_dining-1', 'bellinzona', 'fine_dining', 'Locanda Orico', 'Via Orico 13, 6500 Bellinzona', '구시가 골목의 지중해 요리 레스토랑. 미쉐린 1스타.', 'Mediterranean restaurant in an old-town lane. One Michelin star.', { michelin: 'star1' }),
+  place('st-gallen-bakery-1', 'st-gallen', 'bakery', 'g\'nuss', 'Lämmlisbrunnenstrasse 4, 9000 St. Gallen', '구시가 동쪽의 파티스리 겸 카페. 크루아상과 케이크를 냅니다.', 'Patisserie and café east of the old town, with croissants and cakes.'),
+  place('st-gallen-bakery-2', 'st-gallen', 'bakery', 'Confiserie Roggwiller', 'Multergasse 17, 9000 St. Gallen', '구시가 물터가세의 제과점. 장크트갈렌 전통 과자 비버(아몬드 소 생강빵)를 팝니다.', 'Confectioner on the Multergasse selling St. Gallen’s traditional Biber (almond-filled gingerbread).'),
+  place('st-gallen-cafe-1', 'st-gallen', 'cafe', 'Kafi Franz', 'Linsebühlstrasse 35, 9000 St. Gallen', '린제뷜 거리의 카페 겸 식당. 아침부터 브런치와 커피를 냅니다.', 'Café-restaurant on the Linsebühlstrasse, serving brunch and coffee from the morning.'),
+  place('st-gallen-cafe-2', 'st-gallen', 'cafe', 'Mano Espresso Bar', 'Brühlgasse 35, 9000 St. Gallen', '구시가 브륄가세의 작은 에스프레소 바.', 'Small espresso bar on the Brühlgasse in the old town.'),
+  place('st-gallen-cafe-3', 'st-gallen', 'cafe', 'Kaffeehaus', 'Linsebühlstrasse 77, 9000 St. Gallen', '린제뷜 거리의 동네 카페.', 'Neighbourhood café on the Linsebühlstrasse.'),
+  place('chur-bakery-1', 'chur', 'bakery', 'Bühler’s Zuckerbäckerei', 'Untere Gasse 32, 7000 Chur', '구시가 운터레 가세의 제과점.', 'Confectioner on the Untere Gasse in the old town.'),
+  place('chur-bakery-2', 'chur', 'bakery', 'Chüechli Backstuba & Café', 'Untere Gasse 17, 7000 Chur', '구시가 운터레 가세의 빵집 겸 카페. 케이크와 과자를 굽습니다.', 'Bakery-café on the Untere Gasse in the old town, baking cakes and pastries.'),
+  place('chur-cafe-1', 'chur', 'cafe', 'Quintacoira Kaffeerösterei', 'Paradiesgasse 4, 7000 Chur', '구시가의 커피 로스터리 카페.', 'Coffee roastery and café in the old town.'),
+  place('chur-cafe-2', 'chur', 'cafe', 'Café Zschaler', 'Obere Gasse 31, 7000 Chur', '구시가 오베레 가세의 카페.', 'Café on the Obere Gasse in the old town.'),
+  place('locarno-bakery-1', 'locarno', 'bakery', 'Marnin - Piazza Sant\'Antonio', 'Piazza Sant\'Antonio, 6600 Locarno', '구시가 산탄토니오 광장의 제과점 겸 카페.', 'Pastry shop and café on the Piazza Sant’Antonio in the old town.'),
+  place('locarno-cafe-1', 'locarno', 'cafe', 'MUYU Coffee Roasters', 'Via Castelrotto 18A, 6600 Locarno', '직접 원두를 볶는 스페셜티 커피 카페.', 'Speciality coffee café that roasts its own beans.'),
+  place('locarno-cafe-2', 'locarno', 'cafe', 'Giannino Cafè 1899', 'Via vecchia Dogana 1, 6600 Locarno', '시내 중심의 카페.', 'Café in the town centre.'),
+  place('bellinzona-bakery-1', 'bellinzona', 'bakery', 'Al Porto Bellinzona', 'Viale Stazione 1, 6500 Bellinzona', '역 앞 거리의 제과점 겸 카페. 티치노의 제과점 체인입니다.', 'Pastry shop and café on the station avenue, part of a Ticino confectioner chain.'),
+  place('bellinzona-cafe-1', 'bellinzona', 'cafe', 'L’arte del caffè', 'Viale Portone 45, 6500 Bellinzona', '포르토네 거리의 카페.', 'Café on the Viale Portone.'),
+  place('lauterbrunnen-bakery-1', 'lauterbrunnen', 'bakery', 'Airtime Cafe Bakery', 'Fuhren 452D, 3822 Lauterbrunnen', '마을 중심의 빵집 겸 카페.', 'Bakery-café in the village centre.'),
+  place('lauterbrunnen-cafe-1', 'lauterbrunnen', 'cafe', 'Flavours Cafe', 'Fuhren 452C, 3822 Lauterbrunnen', '마을 중심의 카페.', 'Café in the village centre.'),
+  place('lauterbrunnen-cafe-2', 'lauterbrunnen', 'cafe', 'Cycling Bean Coffee-Bike', 'Pfrundmatte 419, 3822 Lauterbrunnen', '관광안내소 근처의 자전거 커피 노점.', 'Coffee bike near the tourist office.'),
+  place('kandersteg-bakery-1', 'kandersteg', 'bakery', 'Feinbäckerei Tea Room Marmotte', 'Innere Dorfstrasse 19, 3718 Kandersteg', '마을 중심 도르프슈트라세의 빵집 겸 찻집.', 'Bakery and tea room on the main village street.'),
 ]
