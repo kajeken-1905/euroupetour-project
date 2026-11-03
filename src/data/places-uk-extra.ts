@@ -198,4 +198,25 @@ export const placesUKExtra: Place[] = [
   place('whitby-bakery-1', 'whitby', 'bakery', 'Botham\'s of Whitby', '35/39 Skinner Street, Whitby YO21 3AH', '스키너 거리의 오래된 빵집 겸 찻집.', 'Long-established bakery and tea room on Skinner Street.'),
   place('whitby-cafe-1', 'whitby', 'cafe', 'Sherlocks Coffee Shop', 'Rose and Crown Yard, 10 Flowergate, Whitby YO21 3BA', '플라워게이트 골목 안쪽의 커피숍.', 'Coffee shop in a yard off Flowergate.'),
   place('whitby-cafe-2', 'whitby', 'cafe', 'Mr Cooper’s Coffee House', '72 Church Street, Whitby YO22 4AS', '수도원 쪽 처치 거리의 커피하우스.', 'Coffee house on Church Street, on the abbey side.'),
+
+  // —— windsor: bakeries and cafés (2026-11-04) ——
+  place('windsor-bakery-1', 'windsor', 'bakery', 'Rex Artisan Bakery', '46 Peascod Street, Windsor SL4 1DE', '피스코드 거리의 빵집.', 'Bakery on Peascod Street.'),
+  place('windsor-cafe-1', 'windsor', 'cafe', 'Cinnamon Cafe', 'Windsor Royal Station, Jubilee Arch, Windsor SL4 1PJ', '옛 왕실 역 건물의 카페.', 'Café in the old Windsor Royal Station building.'),
+
+  // —— st-ives: bakeries and cafés (2026-11-04) ——
+  place('st-ives-bakery-1', 'st-ives', 'bakery', 'St Ives Bakery', '52 Fore Street, St Ives TR26 1HE', '포어 거리의 빵집. 코니시 패스티를 팝니다.', 'Bakery on Fore Street selling Cornish pasties.'),
+  place('st-ives-cafe-1', 'st-ives', 'cafe', 'Olives Cafe', 'Island Square, Island Road, St Ives TR26 1NT', '아일랜드 광장의 카페.', 'Café on Island Square.'),
+  place('st-ives-cafe-2', 'st-ives', 'cafe', 'Yallah Cafe', 'Wharf Road, St Ives TR26 1LF', '항구 부두 길의 커피숍.', 'Coffee shop on Wharf Road by the harbour.'),
+
+  // —— inverness: bakeries and cafés (2026-11-04) ——
+  place('inverness-bakery-1', 'inverness', 'bakery', 'XOKO Bakehouse and Cantina', '13 Bridge Street, Inverness IV1 1HG', '네스강 다리 앞의 빵집 겸 카페.', 'Bakery-café by the Ness bridge.'),
+  place('inverness-bakery-2', 'inverness', 'bakery', 'The Bakery', '72 Tomnahurich Street, Inverness IV3 5DT', '네스강 서쪽의 빵집.', 'Bakery west of the River Ness.'),
+  place('inverness-cafe-1', 'inverness', 'cafe', 'Ember Kafe', '19 Queensgate, Inverness IV1 1DF', '시내 중심 퀸스게이트의 카페.', 'Café on Queensgate in the centre.'),
+  place('inverness-cafe-2', 'inverness', 'cafe', 'Café de Paulo', 'Arcade 7, Victorian Market, Inverness IV1 1PQ', '빅토리안 마켓 안의 카페.', 'Café inside the Victorian Market.'),
+
+  // —— derry: bakeries and cafés (2026-11-04) ——
+  place('derry-bakery-1', 'derry', 'bakery', 'Jerusalem Bakery & Coffeehouse', '45 Great James Street, Londonderry BT48 7DF', '그레이트 제임스 거리의 빵집 겸 카페.', 'Bakery and coffee house on Great James Street.'),
+  place('derry-bakery-2', 'derry', 'bakery', 'Doherty\'s Home Bakery', '23 William Street, Londonderry BT48 6EP', '성벽 밖 윌리엄 거리의 빵집.', 'Bakery on William Street outside the walls.'),
+  place('derry-cafe-1', 'derry', 'cafe', 'The Scullery Cafe', '48 Waterloo Street, Londonderry BT48 6HF', '성벽 아래 워털루 거리의 카페.', 'Café on Waterloo Street below the walls.'),
+  place('derry-cafe-2', 'derry', 'cafe', 'Patricia\'s Coffee House', 'Atlantic Quay, 100-114 Strand Road, Londonderry', '스트랜드 거리의 커피하우스.', 'Coffee house on the Strand Road.'),
 ]

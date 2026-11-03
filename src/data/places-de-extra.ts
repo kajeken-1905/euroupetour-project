@@ -183,4 +183,19 @@ export const placesDEExtra: Place[] = [
   place('bamberg-bakery-2', 'bamberg', 'bakery', 'Alfred Seel', 'Lugbank 8, 96049 Bamberg', '구시가 산 쪽의 빵집 겸 제과점.', 'Bakery and pastry shop in the hill town.'),
   place('bamberg-cafe-1', 'bamberg', 'cafe', 'Zuckerstück', 'Obere Sandstraße 4, 96049 Bamberg', '잔트 지구의 카페.', 'Café in the Sand quarter.'),
   place('bamberg-cafe-2', 'bamberg', 'cafe', 'Hofcafé', 'Austraße 14, 96047 Bamberg', '안뜰 건물 2층의 카페.', 'Café on the first floor of a courtyard building.'),
+
+  // —— berchtesgaden: bakeries and cafés (2026-11-04) ——
+  place('berchtesgaden-bakery-1', 'berchtesgaden', 'bakery', 'Backhandwerkerei Ernst', 'Königsseer Straße 10, 83471 Berchtesgaden', '쾨니히스제 거리의 빵집.', 'Bakery on the Königsseer Straße.'),
+  place('berchtesgaden-bakery-2', 'berchtesgaden', 'bakery', 'Bäckerei Niedermayer', 'Franziskanerplatz 6, 83471 Berchtesgaden', '시내 중심 프란치스카너 광장의 빵집.', 'Bakery on the Franziskanerplatz in the centre.'),
+
+  // —— wurzburg: bakeries and cafés (2026-11-04) ——
+  place('wurzburg-bakery-1', 'wurzburg', 'bakery', 'Marktcafé Brandstetter', 'Marktgasse 3, 97070 Würzburg', '마르크트 광장 옆의 빵집 겸 카페.', 'Bakery-café by the market square.'),
+  place('wurzburg-bakery-2', 'wurzburg', 'bakery', 'Bäckerei Emma', 'Kaiserstraße 23-25, 97070 Würzburg', '역 가는 카이저 거리의 빵집.', 'Bakery on the Kaiserstraße towards the station.'),
+  place('wurzburg-cafe-1', 'wurzburg', 'cafe', 'Café Wunschlos glücklich', 'Bronnbachergasse 22, 97070 Würzburg', '구시가 골목의 카페.', 'Café in an old-town lane.'),
+  place('wurzburg-cafe-2', 'wurzburg', 'cafe', 'BASECOFFEE Würzburg', 'Eichhornstraße 21, 97070 Würzburg', '커피 로스터리의 카페. 브런치도 냅니다.', 'Coffee roaster’s café, also serving brunch.'),
+
+  // —— regensburg: bakeries and cafés (2026-11-04) ——
+  place('regensburg-bakery-1', 'regensburg', 'bakery', 'Konditorei Opera', 'Prüfeninger Straße 44A, 93049 Regensburg', '구시가 서쪽의 케이크 가게.', 'Cake shop west of the old town.'),
+  place('regensburg-cafe-1', 'regensburg', 'cafe', 'Café Lila', 'Rote-Hahnen-Gasse 2, 93047 Regensburg', '구시가 골목의 카페.', 'Café in an old-town lane.'),
+  place('regensburg-cafe-2', 'regensburg', 'cafe', 'ANNA liebt Brot und Kaffee', 'Gesandtenstraße 5, 93047 Regensburg', '구시가의 빵집 겸 카페.', 'Bakery-café in the old town.'),
 ]

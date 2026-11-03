@@ -61,4 +61,12 @@ export const placesNOExtra: Place[] = [
   // —— flam ——
   place('flam-fine_dining-1', 'flam', 'fine_dining', 'Ægir Gastropub', 'A-Feltvegen 19, 5743 Flåm', '9m 벽난로가 있는 바이킹풍 양조 펍. 다섯 가지 요리와 맥주를 짝지은 플레이트가 대표입니다.', 'Viking-style brewpub with a 9-metre fireplace; the signature plank pairs five dishes with five beers.'),
   place('flam-fine_dining-2', 'flam', 'fine_dining', 'Restaurant Arven', 'Nedre Fretheim 7, Fretheim Hotel, 5743 Flåm', '프레트하임 호텔 2층의 레스토랑. 피오르 전망이 있고 메뉴가 계절마다 바뀝니다.', 'Restaurant on the second floor of the Fretheim Hotel with fjord views and a seasonal menu.'),
+
+  // —— alesund: bakeries and cafés (2026-11-04) ——
+  place('alesund-bakery-1', 'alesund', 'bakery', 'Walderhaug Bakery and Confectioner', 'Tollbugata 6, 6002 Ålesund', '시내 중심의 빵집 겸 제과점.', 'Bakery and confectioner in the town centre.'),
+  place('alesund-cafe-1', 'alesund', 'cafe', 'Racoon Coffee', 'Kongens gate 6, 6002 Ålesund', '시내 중심의 커피숍.', 'Coffee shop in the town centre.'),
+  place('alesund-cafe-2', 'alesund', 'cafe', 'Dråpe Ålesund Kaffehus', 'Storgata 4, 6002 Ålesund', '시내 중심의 카페.', 'Café in the town centre.'),
+
+  // —— flam: bakeries and cafés (2026-11-04) ——
+  place('flam-cafe-1', 'flam', 'cafe', 'Coffee & Eats', 'Flåm Market, 5743 Flåm', '플롬역 앞 상가의 커피·샌드위치 가게.', 'Coffee and sandwich shop in the shopping arcade by Flåm station.'),
 ]

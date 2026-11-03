@@ -10,4 +10,8 @@ export const placesGLExtra: Place[] = [
 
   // —— kangerlussuaq (Visit Greenland) ——
   place('kangerlussuaq-fine_dining-1', 'kangerlussuaq', 'fine_dining', 'Restaurant Roklubben', 'Lake Ferguson, about 5 km from Kangerlussuaq', '시내에서 5km쯤 떨어진 퍼거슨 호숫가 레스토랑. 제철 그린란드 식재료로 요리합니다. 봄·가을에는 매일 코스 하나만 냅니다.', 'Restaurant on Lake Ferguson about 5 km out of town, cooking seasonal Greenlandic produce; spring and autumn bring a single set menu each day.'),
+
+  // —— nuuk: bakeries and cafés (2026-11-04) ——
+  place('nuuk-cafe-1', 'nuuk', 'cafe', 'Kaffivik', 'Nuukullak 35, Nuuk 3900', '누크 시내의 카페.', 'Café in Nuuk.'),
+  place('nuuk-cafe-2', 'nuuk', 'cafe', 'Café Esmeralda', 'Aqqusinersuaq 20, Nuuk 3900', '중심가의 카페 겸 식당.', 'Café-restaurant on the main street.'),
 ]

@@ -250,4 +250,15 @@ export const placesESExtra: Place[] = [
   place('sitges-bakery-2', 'sitges', 'bakery', 'St Pierre', 'Carrer de la Creu Roja 1, 08870 Sitges', '시내의 빵집.', 'Bakery in the town.'),
   place('sitges-cafe-1', 'sitges', 'cafe', 'La Butaca Cafetería', 'Carrer de Santiago Rusiñol 36, 08870 Sitges', '시내의 커피숍.', 'Coffee shop in the town.'),
   place('sitges-cafe-2', 'sitges', 'cafe', 'Bloom Coffee', 'Av. Camí de la Fita 10, 08870 Sitges', '시내 북쪽의 카페.', 'Café north of the centre.'),
+
+  // —— cadiz: bakeries and cafés (2026-11-04) ——
+  place('cadiz-bakery-1', 'cadiz', 'bakery', 'Pastelería Casa Hidalgo', 'Plaza Catedral 8, 11005 Cádiz', '대성당 광장의 제과점.', 'Pastry shop on the cathedral square.'),
+  place('cadiz-bakery-2', 'cadiz', 'bakery', 'Le Poème', 'C. Alcalá Galiano 3, 11001 Cádiz', '구시가의 파티스리.', 'Pâtisserie in the old town.'),
+  place('cadiz-cafe-1', 'cadiz', 'cafe', 'Café de Levante', 'C. Rosario 35, 11004 Cádiz', '구시가의 에스프레소 바.', 'Espresso bar in the old town.'),
+  place('cadiz-cafe-2', 'cadiz', 'cafe', 'Clandestine Library', 'C. José del Toro 23, 11004 Cádiz', '구시가의 책 카페.', 'Book café in the old town.'),
+
+  // —— avila: bakeries and cafés (2026-11-04) ——
+  place('avila-bakery-1', 'avila', 'bakery', 'Chuchi Pasteles', 'C. de San Segundo 24, 05001 Ávila', '성벽 동쪽 산 세군도 거리의 제과점.', 'Pastry shop on Calle San Segundo by the east walls.'),
+  place('avila-cafe-1', 'avila', 'cafe', 'Picco Café', 'C. Caballeros 2, 05001 Ávila', '성벽 안의 스페셜티 커피 카페.', 'Speciality coffee café inside the walls.'),
+  place('avila-cafe-2', 'avila', 'cafe', 'Catacafé', 'C. Hornos Caleros 3, 05001 Ávila', '스페셜티 커피 카페.', 'Speciality coffee café.'),
 ]

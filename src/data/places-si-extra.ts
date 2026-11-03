@@ -47,4 +47,7 @@ export const placesSIExtra: Place[] = [
   place('postojna-fine_dining-1', 'postojna', 'fine_dining', 'Bistro Štorja', 'Ulica 1. maja 1, 6230 Postojna, Slovenia', '전통과 현대 감각을 섞은 포스토이나의 비스트로.', 'Postojna bistro mixing traditional and modern cooking.'),
   place('postojna-fine_dining-2', 'postojna', 'fine_dining', 'Gostilna Ob Kaminu', 'Tržaška cesta 88, 6230 Postojna, Slovenia', '트르자슈카 대로의 레스토랑.', 'Restaurant on Tržaška cesta in Postojna.'),
 
+  // —— postojna: bakeries and cafés (2026-11-04) ——
+  place('postojna-cafe-1', 'postojna', 'cafe', 'Qubik caffe', 'Novi trg 8, 6230 Postojna', '시내 광장의 카페.', 'Café on the town square.'),
+  place('postojna-cafe-2', 'postojna', 'cafe', 'Time Out Caffè', 'Tržaška cesta 62, 6230 Postojna', '시내의 카페.', 'Café in the town.'),
 ]

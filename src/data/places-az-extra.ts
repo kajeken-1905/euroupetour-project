@@ -22,4 +22,10 @@ export const placesAZExtra: Place[] = [
   // —— gabala ——
   place('gabala-fine_dining-1', 'gabala', 'fine_dining', 'Caspian Baliq Evi', '2120 Demiraparan Chai Gabala, Qəbələ', '가발랜드 안의 해산물 레스토랑. 물 위에 다리로 이어진 객실에서 식사합니다.', 'Seafood restaurant inside Gabaland, with overwater dining rooms linked by bridges.'),
 
+  // —— sheki: bakeries and cafés (2026-11-04) ——
+  place('sheki-bakery-1', 'sheki', 'bakery', 'Aliahmed Sweetstore', '122 Mirza Fatali Akhundov St, Sheki', '셰키 시내의 과자 가게.', 'Sweet shop in Sheki.'),
+  place('sheki-cafe-1', 'sheki', 'cafe', 'Illy Espresso House', '185 Mirza Fatali Akhundov St, Sheki', '중심가의 카페.', 'Café on the main street.'),
+
+  // —— gabala: bakeries and cafés (2026-11-04) ——
+  place('gabala-cafe-1', 'gabala', 'cafe', 'Karamel coffee shop', 'Heydar Aliyev Ave, Gabala', '중심 대로의 커피숍.', 'Coffee shop on the main avenue.'),
 ]

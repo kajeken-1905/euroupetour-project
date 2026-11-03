@@ -59,4 +59,6 @@ export const placesTRExtra: Place[] = [
   // —— pamukkale ——
   place('pamukkale-fine_dining-1', 'pamukkale', 'fine_dining', 'Kayas Wine House', 'Atatürk Cd. No:3, 20260 Pamukkale/Denizli, Turkey', '파묵칼레 마을 중심가의 레스토랑 겸 와인 바. 튀르키예·지중해 요리와 지역 와인을 냅니다.', 'Restaurant and wine bar in Pamukkale village, serving Turkish and Mediterranean dishes with local wines.'),
 
+  // —— pamukkale: bakeries and cafés (2026-11-04) ——
+  place('pamukkale-bakery-1', 'pamukkale', 'bakery', 'Le Four Patisserie', 'Cumhuriyet Meydanı 13/D, Pamukkale', '파묵칼레 마을 광장의 제과점.', 'Pastry shop on the Pamukkale village square.'),
 ]

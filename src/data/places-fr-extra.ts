@@ -278,4 +278,118 @@ export const placesFRExtra: Place[] = [
   place('cannes-bakery-1', 'cannes', 'bakery', 'Le Pain Paillasse', '49 rue Georges Clemenceau, 06400 Cannes', '르 쉬케 언덕 아래의 빵집.', 'Bakery below the Le Suquet hill.'),
   place('cannes-cafe-1', 'cannes', 'cafe', 'AMAMO Speciality Coffee', '74 rue Meynadier, 06400 Cannes', '메나디에 거리의 스페셜티 커피 카페.', 'Speciality coffee café on the Rue Meynadier.'),
   place('cannes-cafe-2', 'cannes', 'cafe', 'Cafés Sauvage', '12 rue Hélène Vagliano, 06400 Cannes', '시내 중심의 커피숍.', 'Coffee shop in the centre.'),
+
+  // —— cassis: bakeries and cafés (2026-11-04) ——
+  place('cassis-bakery-1', 'cassis', 'bakery', 'Boulangerie Lion', '28 rue Docteur Séverin Icard, 13260 Cassis', '마을 중심의 빵집.', 'Bakery in the village centre.'),
+  place('cassis-cafe-1', 'cassis', 'cafe', 'Mamahé café', '26 rue de l\'Arène, 13260 Cassis', '브런치를 내는 카페.', 'Café serving brunch.'),
+  place('cassis-cafe-2', 'cassis', 'cafe', 'Grain De Folie', '16 rue Docteur Séverin Icard, 13260 Cassis', '마을 중심의 카페.', 'Café in the village centre.'),
+
+  // —— saint-tropez: bakeries and cafés (2026-11-04) ——
+  place('saint-tropez-cafe-1', 'saint-tropez', 'cafe', 'AMA Matcha Lab', '15 rue des Remparts, 83990 Saint-Tropez', '구시가의 말차·스페셜티 커피 카페.', 'Matcha and speciality coffee café in the old town.'),
+
+  // —— eze: bakeries and cafés (2026-11-04) ——
+  place('eze-bakery-1', 'eze', 'bakery', 'Ma Première Boulangerie', 'Avenue de Verdun, 06360 Èze', '마을 아래 중간 코르니슈 도로변의 빵집.', 'Bakery on the Moyenne Corniche below the village.'),
+
+  // —— menton: bakeries and cafés (2026-11-04) ——
+  place('menton-bakery-1', 'menton', 'bakery', 'Atelier Boulanger', '49 rue d\'Adhémar de Lantagnac, 06500 Menton', '시내의 빵집.', 'Bakery in the town.'),
+  place('menton-cafe-1', 'menton', 'cafe', 'Edwige Coffee', '3 rue Palmaro, 06500 Menton', '시내 중심의 커피숍.', 'Coffee shop in the centre.'),
+  place('menton-cafe-2', 'menton', 'cafe', 'Panea', '11 avenue de Verdun, 06500 Menton', '베르됭 거리의 커피숍.', 'Coffee shop on the Avenue de Verdun.'),
+
+  // —— colmar: bakeries and cafés (2026-11-04) ——
+  place('colmar-bakery-1', 'colmar', 'bakery', 'Pâtisserie Gilg', '60 Grand Rue, 68000 Colmar', '구시가 그랑 뤼의 제과점.', 'Pâtisserie on the Grand Rue in the old town.'),
+  place('colmar-cafe-1', 'colmar', 'cafe', 'La Bonneterie', '10A rue de la Poissonnerie, 68000 Colmar', '프티트 베니스 근처의 브런치 카페.', 'Brunch café near Petite Venise.'),
+  place('colmar-cafe-2', 'colmar', 'cafe', 'AMETY Café', '6 rue des Tripiers, 68000 Colmar', '구시가의 커피·브런치 카페.', 'Coffee and brunch café in the old town.'),
+
+  // —— arles: bakeries and cafés (2026-11-04) ——
+  place('arles-bakery-1', 'arles', 'bakery', 'Pâtisserie Chocolaterie Masaki Yamamoto', '37 rue du 4 Septembre, 13200 Arles', '일본인 파티시에의 제과·초콜릿 가게.', 'Pâtisserie and chocolate shop run by a Japanese pastry chef.'),
+  place('arles-bakery-2', 'arles', 'bakery', 'Peach', '2 rue de la République, 13200 Arles', '레퓌블리크 거리의 파티스리.', 'Pâtisserie on the Rue de la République.'),
+  place('arles-cafe-1', 'arles', 'cafe', 'Le Petit Arles Coffee Shop', '29 rue de l\'Hôtel de Ville, 13200 Arles', '시청 거리의 커피숍.', 'Coffee shop on the Rue de l\'Hôtel de Ville.'),
+
+  // —— isle-sur-la-sorgue: bakeries and cafés (2026-11-04) ——
+  place('isle-sur-la-sorgue-bakery-1', 'isle-sur-la-sorgue', 'bakery', 'La Maison Jouvaud', '5 avenue des Quatre Otages, 84800 L\'Isle-sur-la-Sorgue', '프로방스 제과점 주보의 가게.', 'Shop of the Provençal pâtissier Jouvaud.'),
+  place('isle-sur-la-sorgue-bakery-2', 'isle-sur-la-sorgue', 'bakery', 'Boulangerie Lefèvre', '241 cours Fernande Peyre, 84800 L\'Isle-sur-la-Sorgue', '시내의 빵집.', 'Bakery in the town.'),
+  place('isle-sur-la-sorgue-cafe-1', 'isle-sur-la-sorgue', 'cafe', 'French Coffee Shop', '2 rue Carnot, 84800 L\'Isle-sur-la-Sorgue', '시내 중심의 커피숍.', 'Coffee shop in the centre.'),
+
+  // —— chartres: bakeries and cafés (2026-11-04) ——
+  place('chartres-bakery-1', 'chartres', 'bakery', 'La Boulangerie de Marlène', '1 place des Halles, 28000 Chartres', '시장 광장의 빵집.', 'Bakery on the Place des Halles.'),
+  place('chartres-bakery-2', 'chartres', 'bakery', 'Carré Vanille', '17 rue de la Pie, 28000 Chartres', '구시가의 제과점.', 'Pâtisserie in the old town.'),
+  place('chartres-cafe-1', 'chartres', 'cafe', 'Le Comptoir de Sarah', '6 place Billard, 28000 Chartres', '비야르 광장의 브런치 카페.', 'Brunch café on the Place Billard.'),
+  place('chartres-cafe-2', 'chartres', 'cafe', 'Stellata', '23 rue du Soleil d\'Or, 28000 Chartres', '대성당 근처의 스페셜티 커피 카페.', 'Speciality coffee café near the cathedral.'),
+
+  // —— honfleur: bakeries and cafés (2026-11-04) ——
+  place('honfleur-bakery-1', 'honfleur', 'bakery', 'Pollen', '12 rue Haute, 14600 Honfleur', '오트 거리의 파티스리.', 'Pâtisserie on the Rue Haute.'),
+  place('honfleur-cafe-1', 'honfleur', 'cafe', 'Le Brunch Café', '4 rue des Logettes, 14600 Honfleur', '계단 위쪽의 브런치 찻집.', 'Brunch tea room at the top of the steps.'),
+
+  // —— etretat: bakeries and cafés (2026-11-04) ——
+  place('etretat-bakery-1', 'etretat', 'bakery', 'Le Petit Accent', '38 rue Notre-Dame, 76790 Étretat', '마을 중심의 빵집.', 'Bakery in the village centre.'),
+  place('etretat-bakery-2', 'etretat', 'bakery', 'MJ Maison Piquenot', '19 avenue George V, 76790 Étretat', '마을의 빵집.', 'Village bakery.'),
+
+  // —— bayeux: bakeries and cafés (2026-11-04) ——
+  place('bayeux-bakery-1', 'bayeux', 'bakery', 'La Pâtisserie de Guillaume', '20 rue Saint-Martin, 14400 Bayeux', '생마르탱 거리의 파티스리.', 'Pâtisserie on the Rue Saint-Martin.'),
+  place('bayeux-bakery-2', 'bayeux', 'bakery', 'À la Reine Mathilde', '47 rue Saint-Martin, 14400 Bayeux', '생마르탱 거리의 오래된 파티스리 겸 찻집.', 'Long-established pâtisserie and tea room on the Rue Saint-Martin.'),
+  place('bayeux-cafe-1', 'bayeux', 'cafe', 'Le Café Cuillère', '33 rue Saint-Jean, 14400 Bayeux', '생장 거리의 찻집.', 'Tea room on the Rue Saint-Jean.'),
+  place('bayeux-cafe-2', 'bayeux', 'cafe', 'Bisette', '4 rue Saint-Jean, 14400 Bayeux', '생장 거리의 커피숍.', 'Coffee shop on the Rue Saint-Jean.'),
+
+  // —— saint-malo: bakeries and cafés (2026-11-04) ——
+  place('saint-malo-bakery-1', 'saint-malo', 'bakery', 'Boulangerie Pâtisserie de la Cathédrale', '1 rue du Pourpris, 35400 Saint-Malo', '성벽 안 대성당 근처의 빵집.', 'Bakery near the cathedral inside the walls.'),
+  place('saint-malo-cafe-1', 'saint-malo', 'cafe', 'Cavoua Coffee Spot', '3 rue des Orbettes, 35400 Saint-Malo', '성벽 안의 카페.', 'Café inside the walls.'),
+
+  // —— la-rochelle: bakeries and cafés (2026-11-04) ——
+  place('la-rochelle-bakery-1', 'la-rochelle', 'bakery', 'Théo Chereau Pâtisserie', '7 rue du Minage, 17000 La Rochelle', '구시가 아케이드 거리의 파티스리.', 'Pâtisserie on an arcaded old-town street.'),
+  place('la-rochelle-bakery-2', 'la-rochelle', 'bakery', 'Pâton Boulangerie', '57 quai Valin, 17000 La Rochelle', '옛 항구 부두의 빵집.', 'Bakery on the quay of the old port.'),
+  place('la-rochelle-cafe-1', 'la-rochelle', 'cafe', 'Brother\'s Coffee Shop', '8 rue du Port, 17000 La Rochelle', '옛 항구 근처의 커피숍.', 'Coffee shop near the old port.'),
+  place('la-rochelle-cafe-2', 'la-rochelle', 'cafe', 'Chez Albert', '3 rue Gargoulleau, 17000 La Rochelle', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+
+  // —— arcachon: bakeries and cafés (2026-11-04) ——
+  place('arcachon-bakery-1', 'arcachon', 'bakery', 'Dunes Blanches Chez Pascal', '21 avenue Gambetta, 33120 Arcachon', '아르카숑 슈케트 과자 \'뒨 블랑슈\' 가게.', 'Shop for the Dunes Blanches, Arcachon’s cream-filled choux puffs.'),
+  place('arcachon-cafe-1', 'arcachon', 'cafe', 'Maison & Tartine', '6 place Lucien de Gracia, 33120 Arcachon', '시내의 브런치 카페.', 'Brunch café in the town.'),
+  place('arcachon-cafe-2', 'arcachon', 'cafe', 'Blooming Café', '5 rue du Maréchal de Lattre de Tassigny, 33120 Arcachon', '시내의 브런치 카페.', 'Brunch café in the town.'),
+
+  // —— ajaccio: bakeries and cafés (2026-11-04) ——
+  place('ajaccio-bakery-1', 'ajaccio', 'bakery', 'Maison Galeani', '3 rue Cardinal Fesch, 20000 Ajaccio', '구시가 페슈 거리의 빵집.', 'Bakery on the Rue Cardinal Fesch in the old town.'),
+  place('ajaccio-cafe-1', 'ajaccio', 'cafe', 'Carpe Diem Coffee Shop', '51 cours Napoléon, 20000 Ajaccio', '나폴레옹 대로의 커피숍.', 'Coffee shop on the Cours Napoléon.'),
+
+  // —— bonifacio: bakeries and cafés (2026-11-04) ——
+  place('bonifacio-bakery-1', 'bonifacio', 'bakery', 'L\'Ortulinu', 'Rue Paul Nicolaï, 20169 Bonifacio', '고지대 구시가의 빵집.', 'Bakery in the upper old town.'),
+  place('bonifacio-bakery-2', 'bonifacio', 'bakery', 'Pâtisserie Sorba', 'Rue Saint-Dominique, 20169 Bonifacio', '고지대 구시가의 제과점.', 'Pastry shop in the upper old town.'),
+
+  // —— calvi: bakeries and cafés (2026-11-04) ——
+  place('calvi-bakery-1', 'calvi', 'bakery', 'Kelly\'s Pastry', '9 rue Maréchal Joffre, 20260 Calvi', '시내의 제과점.', 'Pastry shop in the town.'),
+
+  // —— carcassonne: bakeries and cafés (2026-11-04) ——
+  place('carcassonne-bakery-1', 'carcassonne', 'bakery', 'La Boulangerie de la Cité', '3 rue Saint-Louis, 11000 Carcassonne', '성채(라 시테) 안의 빵집.', 'Bakery inside La Cité.'),
+  place('carcassonne-bakery-2', 'carcassonne', 'bakery', 'Boulangerie-Pâtisserie Papineau', '57 rue de Verdun, 11000 Carcassonne', '아랫마을(바스티드)의 빵집.', 'Bakery in the lower town (Bastide).'),
+  place('carcassonne-cafe-1', 'carcassonne', 'cafe', 'Bay\'Cake', '37 boulevard Joseph Gay-Lussac, 11000 Carcassonne', '아랫마을의 브런치 카페.', 'Brunch café in the lower town.'),
+
+  // —— narbonne: bakeries and cafés (2026-11-04) ——
+  place('narbonne-bakery-1', 'narbonne', 'bakery', 'Chabana Pâtisserie Fine', '30 rue de l\'Ancien Courrier, 11100 Narbonne', '시내의 파티스리.', 'Pâtisserie in the town.'),
+  place('narbonne-cafe-1', 'narbonne', 'cafe', 'Cortado', 'Place des Quatre Fontaines, 11100 Narbonne', '시내의 커피숍.', 'Coffee shop in the town.'),
+  place('narbonne-cafe-2', 'narbonne', 'cafe', 'Bobarista Gourmet', '4 place de Verdun, 11100 Narbonne', '시청 근처 베르됭 광장의 커피숍.', 'Coffee shop on the Place de Verdun near the town hall.'),
+
+  // —— perpignan: bakeries and cafés (2026-11-04) ——
+  place('perpignan-cafe-1', 'perpignan', 'cafe', 'La Cafetière Catalane', '17 rue de l\'Ange, 66000 Perpignan', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+  place('perpignan-cafe-2', 'perpignan', 'cafe', 'FLOR café céramique', '7 rue du Castillet, 66000 Perpignan', '카스티예 성문 근처의 카페.', 'Café near the Castillet gate.'),
+
+  // —— sete: bakeries and cafés (2026-11-04) ——
+  place('sete-bakery-1', 'sete', 'bakery', 'Boulangerie Anthony Hersog', '66 Grand Rue Mario Roustan, 34200 Sète', '중심가의 빵집.', 'Bakery on the main street.'),
+  place('sete-bakery-2', 'sete', 'bakery', 'La Carioca', '20 quai Maréchal de Lattre de Tassigny, 34200 Sète', '운하 부두의 유기농 빵집.', 'Organic bakery on the canal quay.'),
+  place('sete-cafe-1', 'sete', 'cafe', 'Polponero Café', '9 rue Alsace-Lorraine, 34200 Sète', '시내의 커피숍.', 'Coffee shop in the town.'),
+  place('sete-cafe-2', 'sete', 'cafe', 'Café Fleurette', '28 rue Alsace-Lorraine, 34200 Sète', '시내의 커피숍.', 'Coffee shop in the town.'),
+
+  // —— nimes: bakeries and cafés (2026-11-04) ——
+  place('nimes-bakery-1', 'nimes', 'bakery', 'Pâtisserie Francin', '25 rue de la République, 30900 Nîmes', '아레나 근처 레퓌블리크 거리의 파티스리.', 'Pâtisserie on the Rue de la République near the Arena.'),
+  place('nimes-cafe-1', 'nimes', 'cafe', 'TEXTURES', '8 rue Racine, 30000 Nîmes', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+  place('nimes-cafe-2', 'nimes', 'cafe', 'Cafés Nadal', '7 rue Saint-Castor, 30000 Nîmes', '대성당 근처의 커피 로스터리 가게.', 'Coffee roaster’s shop near the cathedral.'),
+
+  // —— antibes: bakeries and cafés (2026-11-04) ——
+  place('antibes-bakery-1', 'antibes', 'bakery', 'Lilian Bonnefoi', '2 place du Safranier, 06600 Antibes', '구시가 사프라니에 지구의 파티스리.', 'Pâtisserie in the Safranier quarter of the old town.'),
+  place('antibes-bakery-2', 'antibes', 'bakery', 'Boulangerie Veziano', '2 rue de la Pompe, 06600 Antibes', '구시가의 빵집.', 'Bakery in the old town.'),
+  place('antibes-cafe-1', 'antibes', 'cafe', 'NOMADS coffee', '3 rue Sade, 06600 Antibes', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+  place('antibes-cafe-2', 'antibes', 'cafe', 'La Torref de Fersen', '10 rue Lacan, 06600 Antibes', '구시가의 커피 로스터리.', 'Coffee roaster in the old town.'),
+
+  // —— grasse: bakeries and cafés (2026-11-04) ——
+  place('grasse-cafe-1', 'grasse', 'cafe', 'Café Fleur', '19 rue de l\'Oratoire, 06130 Grasse', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+
+  // —— saint-paul-de-vence: bakeries and cafés (2026-11-04) ——
+  place('saint-paul-de-vence-cafe-1', 'saint-paul-de-vence', 'cafe', 'Selah Atelier', '2 rue du Bresc, 06570 Saint-Paul-de-Vence', '성벽 마을 안의 커피숍.', 'Coffee shop inside the walled village.'),
 ]

@@ -122,4 +122,23 @@ export const placesGRExtra: Place[] = [
   place('aegina-bakery-1', 'aegina', 'bakery', 'Mourtzis Pistachio', 'Leof. Dimokratias 6, Aegina 180 10', '에기나 특산 피스타치오와 전통 과자를 파는 가게.', 'Shop selling Aegina’s pistachios and traditional sweets.'),
   place('aegina-bakery-2', 'aegina', 'bakery', 'Melenio', 'Mitropoleos 4, Aegina 180 10', '시내의 파티스리.', 'Patisserie in the town.'),
   place('aegina-cafe-1', 'aegina', 'cafe', 'Remvi', 'Leof. Dimokratias 51, Aegina 180 10', '항구 앞 해안길의 커피숍.', 'Coffee shop on the harbour-front avenue.'),
+
+  // —— meteora: bakeries and cafés (2026-11-04) ——
+  place('meteora-bakery-1', 'meteora', 'bakery', 'Patisserie Robos', 'Trikalon 16, Kalambaka 422 00', '칼람바카 시내의 제과점.', 'Pastry shop in Kalambaka town.'),
+  place('meteora-cafe-1', 'meteora', 'cafe', 'Octo Coffee & Breakfast', 'Trikalon 20, Kalambaka 422 00', '칼람바카 시내의 커피·브런치 카페.', 'Coffee and breakfast café in Kalambaka town.'),
+
+  // —— delphi: bakeries and cafés (2026-11-04) ——
+  place('delphi-cafe-1', 'delphi', 'cafe', 'Phileo Cafe Bar', 'Friderikis 7, Delfi 330 54', '델피 마을 중심 거리의 카페.', 'Café on the main street of Delphi village.'),
+
+  // —— zakynthos: bakeries and cafés (2026-11-04) ——
+  place('zakynthos-bakery-1', 'zakynthos', 'bakery', 'Artogōniá', 'Koliva 83, Zakynthos 291 00', '자킨토스 시내의 빵집.', 'Bakery in Zakynthos town.'),
+  place('zakynthos-cafe-1', 'zakynthos', 'cafe', 'Monk Cafe', 'Dragona 4, Zakynthos 291 00', '자킨토스 시내의 커피숍.', 'Coffee shop in Zakynthos town.'),
+  place('zakynthos-cafe-2', 'zakynthos', 'cafe', 'CAPU Coffee Food', 'Tavoulari 6, Zakynthos 291 00', '자킨토스 시내의 카페.', 'Café in Zakynthos town.'),
+
+  // —— olympia: bakeries and cafés (2026-11-04) ——
+  place('olympia-bakery-1', 'olympia', 'bakery', 'Sweet Creations', 'Avgerinou 5, Archaia Olympia 270 65', '고대 올림피아 마을의 제과점.', 'Pastry shop in the village of Ancient Olympia.'),
+
+  // —— naxos: bakeries and cafés (2026-11-04) ——
+  place('naxos-bakery-1', 'naxos', 'bakery', 'Naxos Bakery', 'Sokratous Papavasiliou, Naxos 843 00', '낙소스 시내의 빵집.', 'Bakery in Naxos town.'),
+  place('naxos-cafe-1', 'naxos', 'cafe', 'Avaton 1739', 'Kastro, Naxos 843 00', '카스트로(성채) 안의 카페 겸 와인 바. 옥상 테라스가 있습니다.', 'Café and wine bar inside the Kastro, with a roof terrace.'),
 ]

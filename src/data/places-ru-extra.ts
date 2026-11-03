@@ -60,4 +60,16 @@ export const placesRUExtra: Place[] = [
 
   // —— suzdal ——
   place('suzdal-fine_dining-1', 'suzdal', 'fine_dining', 'Улей (Uley)', 'Pushkarskaya Sloboda, Lenina St 45, Suzdal', '푸시카르스카야 슬로보다 호텔 안의 큰 목조 건물 레스토랑. 제철 식재료로 러시아 요리를 냅니다.', 'Restaurant in a large timber building in the Pushkarskaya Sloboda hotel grounds, serving Russian dishes with seasonal produce.'),
+
+  // —— vladivostok: bakeries and cafés (2026-11-04) ——
+  place('vladivostok-cafe-1', 'vladivostok', 'cafe', 'Kafema', 'Svetlanskaya St 17, Vladivostok', '스베틀란스카야 거리의 카페.', 'Café on Svetlanskaya Street.'),
+  place('vladivostok-cafe-2', 'vladivostok', 'cafe', 'CaffeMania', 'Svetlanskaya St 108D, Vladivostok', '스베틀란스카야 거리 동쪽의 카페.', 'Café at the east end of Svetlanskaya Street.'),
+
+  // —— khabarovsk: bakeries and cafés (2026-11-04) ——
+  place('khabarovsk-bakery-1', 'khabarovsk', 'bakery', 'Muskatnyy Kit', 'Karl Marx St 41, Khabarovsk', '카를 마르크스 거리의 디저트 카페.', 'Dessert café on Karl Marx Street.'),
+  place('khabarovsk-cafe-1', 'khabarovsk', 'cafe', 'Plantatsiya', 'Lenina St 49, Khabarovsk', '레닌 거리의 커피숍.', 'Coffee shop on Lenin Street.'),
+
+  // —— irkutsk: bakeries and cafés (2026-11-04) ——
+  place('irkutsk-bakery-1', 'irkutsk', 'bakery', 'Cake Home', 'Ulitsa 3 Iyulya 13, Irkutsk', '시내의 디저트 카페.', 'Dessert café in the city.'),
+  place('irkutsk-cafe-1', 'irkutsk', 'cafe', 'Belaya Vorona', 'Karl Marx St 37, Irkutsk', '카를 마르크스 거리의 카페.', 'Café on Karl Marx Street.'),
 ]

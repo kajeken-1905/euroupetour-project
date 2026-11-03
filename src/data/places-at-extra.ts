@@ -99,4 +99,19 @@ export const placesATExtra: Place[] = [
   place('klagenfurt-bakery-1', 'klagenfurt', 'bakery', 'Fahrnberger Cafe Konditorei', 'St. Veiter Straße 144, 9020 Klagenfurt', '시내 북쪽의 제과점 겸 카페.', 'Pastry shop and café north of the centre.'),
   place('klagenfurt-cafe-1', 'klagenfurt', 'cafe', 'Phoenix Book Café', 'Alter Platz 24, 9020 Klagenfurt', '알터 플라츠의 책 카페.', 'Book café on the Alter Platz.'),
   place('klagenfurt-cafe-2', 'klagenfurt', 'cafe', 'Zero Gravity Specialty Coffee', 'Pernhartgasse 12, 9020 Klagenfurt', '구시가의 스페셜티 커피 카페.', 'Speciality coffee café in the old town.'),
+
+  // —— linz: bakeries and cafés (2026-11-04) ——
+  place('linz-bakery-1', 'linz', 'bakery', 'k.u.k. Hofbäckerei', 'Pfarrgasse 17, 4020 Linz', '구시가의 옛 궁정 빵집 겸 카페.', 'Old former court bakery and café in the old town.'),
+  place('linz-cafe-1', 'linz', 'cafe', 'tiktak café', 'Landstraße 119, 4020 Linz', '란트슈트라세의 카페.', 'Café on the Landstraße.'),
+  place('linz-cafe-2', 'linz', 'cafe', 'Teesalon Madame Wu', 'Altstadt 13, 4020 Linz', '구시가의 찻집.', 'Tea room in the old town.'),
+
+  // —— kitzbuhel: bakeries and cafés (2026-11-04) ——
+  place('kitzbuhel-bakery-1', 'kitzbuhel', 'bakery', 'KISINI Bäckerei Café-Bar', 'Kirchgasse 1, 6370 Kitzbühel', '구시가의 빵집 겸 카페.', 'Bakery-café in the old town.'),
+  place('kitzbuhel-cafe-1', 'kitzbuhel', 'cafe', 'cafe ecKing', 'Schwarzseestraße 17, 6370 Kitzbühel', '슈바르츠제 거리의 카페.', 'Café on the Schwarzseestraße.'),
+  place('kitzbuhel-cafe-2', 'kitzbuhel', 'cafe', 'Café Evi', 'Hornweg 5, 6370 Kitzbühel', '호른 길의 카페.', 'Café on the Hornweg.'),
+
+  // —— bregenz: bakeries and cafés (2026-11-04) ——
+  place('bregenz-bakery-1', 'bregenz', 'bakery', 'See Bäckerei', 'Mehrerauerstraße 28, 6900 Bregenz', '메레라우 거리의 빵집.', 'Bakery on the Mehrerauerstraße.'),
+  place('bregenz-cafe-1', 'bregenz', 'cafe', 'La Cafè Bregenz', 'Kaiserstraße 2, 6900 Bregenz', '시내 중심 카이저 거리의 카페.', 'Café on the Kaiserstraße in the centre.'),
+  place('bregenz-cafe-2', 'bregenz', 'cafe', 'Cafesito', 'Anton-Schneider-Straße 8, 6900 Bregenz', '시내 중심의 카페.', 'Café in the centre.'),
 ]

@@ -24,4 +24,8 @@ export const placesALExtra: Place[] = [
   // —— sarande ——
   place('sarande-fine_dining-1', 'sarande', 'fine_dining', 'Observatory Restaurant', 'Godine Nr. 75, Lagja Nr.1, Saranda 9702', '사란데 언덕 꼭대기의 해산물·지중해 요리 식당. 만과 이오니아해가 내려다보입니다.', 'Hilltop seafood and Mediterranean restaurant overlooking Saranda bay and the Ionian Sea.'),
 
+  // —— sarande: bakeries and cafés (2026-11-04) ——
+  place('sarande-bakery-1', 'sarande', 'bakery', 'Pastiçeri Amanda', 'Rruga Lefter Talo, Sarandë', '시내의 제과점.', 'Pastry shop in the town.'),
+  place('sarande-cafe-1', 'sarande', 'cafe', 'ZUM cafe', 'Rruga Onhezmi, Sarandë 9701', '시내의 카페.', 'Café in the town.'),
+  place('sarande-cafe-2', 'sarande', 'cafe', 'Caffe Italia', 'Rruga Butrinti, Sarandë 9701', '부트린트 거리의 카페 바.', 'Café-bar on Rruga Butrinti.'),
 ]

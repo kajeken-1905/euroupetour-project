@@ -37,4 +37,6 @@ export const placesSEExtra: Place[] = [
   // —— kiruna ——
   place('kiruna-fine_dining-1', 'kiruna', 'fine_dining', 'Icehotel Restaurant', 'Marknadsvägen 63, 981 91 Jukkasjärvi', '아이스호텔의 레스토랑. 라플란드 지역 재료로 요리하며 미리 예약해야 합니다.', 'Icehotel’s restaurant, cooking with Lapland produce; book well ahead.'),
 
+  // —— kiruna: bakeries and cafés (2026-11-04) ——
+  place('kiruna-cafe-1', 'kiruna', 'cafe', 'DET café', 'Stadshustorget 1, 981 30 Kiruna', '새 시청 광장의 커피숍.', 'Coffee shop on the new town-hall square.'),
 ]

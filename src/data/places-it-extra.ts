@@ -364,4 +364,47 @@ export const placesITExtra: Place[] = [
   place('san-gimignano-fine_dining-3', 'san-gimignano', 'fine_dining', 'Le Vecchie Mura', 'Via Piandornella 15, 53037 San Gimignano', '옛 성벽 아래 공간의 토스카나 요리 식당.', 'Tuscan restaurant in a space under the old walls.'),
   place('san-gimignano-bakery-1', 'san-gimignano', 'bakery', 'Forno Boboli', 'Via San Matteo 92, 53037 San Gimignano', '1909년부터 이어온 산 마테오 거리의 빵집.', 'Bakery on Via San Matteo, going since 1909.'),
   place('san-gimignano-bakery-2', 'san-gimignano', 'bakery', 'Pasticceria Il Criollo', 'Via dei Fossi 3A, 53037 San Gimignano', '성벽 밖의 제과점.', 'Pastry shop outside the walls.'),
+
+  // —— ravenna: bakeries and cafés (2026-11-04) ——
+  place('ravenna-bakery-1', 'ravenna', 'bakery', 'Pasticceria caffetteria 3 Sorelle', 'Via Armando Diaz 83, 48121 Ravenna', '디아츠 거리의 제과점 겸 카페.', 'Pastry shop and café on Via Diaz.'),
+  place('ravenna-bakery-2', 'ravenna', 'bakery', 'Pasticceria Veneziana', 'Via Salara 15, 48121 Ravenna', '시내 중심의 제과점.', 'Pastry shop in the centre.'),
+  place('ravenna-cafe-1', 'ravenna', 'cafe', 'Caffetteria Guidarello', 'Via Giuseppe Pasolini 21/A, 48121 Ravenna', '초콜릿 가게를 겸한 카페.', 'Café that is also a chocolate shop.'),
+  place('ravenna-cafe-2', 'ravenna', 'cafe', 'Caffè Mazzini', 'Via Giuseppe Mazzini 17, 48121 Ravenna', '시내 중심의 카페.', 'Café in the centre.'),
+
+  // —— orvieto: bakeries and cafés (2026-11-04) ——
+  place('orvieto-bakery-1', 'orvieto', 'bakery', 'Dolceamaro', 'Corso Cavour 78, 05018 Orvieto', '구시가 카보우르 거리의 제과점.', 'Pastry shop on the Corso Cavour in the old town.'),
+  place('orvieto-bakery-2', 'orvieto', 'bakery', 'La Dolceria', 'Piazza Olona 5, 05018 Orvieto', '구시가의 제과점.', 'Pastry shop in the old town.'),
+
+  // —— matera: bakeries and cafés (2026-11-04) ——
+  place('matera-bakery-1', 'matera', 'bakery', 'Panificio Paoluccio Perrone', 'Via del Corso 22, 75100 Matera', '시내 중심의 빵집.', 'Bakery in the centre.'),
+  place('matera-bakery-2', 'matera', 'bakery', 'Panificio De Palo', 'Piazza degli Olmi 53-55, 75100 Matera', '시내의 빵집.', 'Bakery in the town.'),
+  place('matera-cafe-1', 'matera', 'cafe', 'Caffetteria Di Simine', 'Via Vitantonio Conversi 1, 75100 Matera', '시내의 카페 바.', 'Café-bar in the town.'),
+  place('matera-cafe-2', 'matera', 'cafe', 'Gahvè', 'Via San Biagio 32, 75100 Matera', '산 비아조 거리의 카페.', 'Café on Via San Biagio.'),
+
+  // —— alberobello: bakeries and cafés (2026-11-04) ——
+  place('alberobello-bakery-1', 'alberobello', 'bakery', 'La Lira Focacceria', 'Largo Martellotta 67, 70011 Alberobello', '트룰리 지구 아래의 포카치아 가게.', 'Focaccia shop below the trulli district.'),
+  place('alberobello-cafe-1', 'alberobello', 'cafe', '88 Gradi Caffè & Gusto', 'Via Piave 12, 70011 Alberobello', '시내의 카페 바.', 'Café-bar in the town.'),
+
+  // —— mantua: bakeries and cafés (2026-11-04) ——
+  place('mantua-bakery-1', 'mantua', 'bakery', 'Pane al Pane', 'Via San Giorgio 18, 46100 Mantova', '두칼레 궁전 근처의 빵집.', 'Bakery near the Palazzo Ducale.'),
+  place('mantua-bakery-2', 'mantua', 'bakery', 'La DolCeLia', 'Via Cesare Battisti 11, 46100 Mantova', '시내 중심의 디저트 가게.', 'Dessert shop in the centre.'),
+  place('mantua-cafe-1', 'mantua', 'cafe', 'Elena Coffee Bar', 'Via XX Settembre 28, 46100 Mantova', '시내 중심의 에스프레소 바.', 'Espresso bar in the centre.'),
+
+  // —— vicenza: bakeries and cafés (2026-11-04) ——
+  place('vicenza-cafe-1', 'vicenza', 'cafe', 'Caffetteria Bar Pigafetta', 'Contrà Pescaria 12, 36100 Vicenza', '구시가의 카페.', 'Café in the old town.'),
+  place('vicenza-cafe-2', 'vicenza', 'cafe', 'HOSEN Specialty Coffee & Bakery', 'Piazza Matteotti 35, 36100 Vicenza', '테아트로 올림피코 근처의 스페셜티 커피 카페 겸 빵집.', 'Speciality coffee and bakery near the Teatro Olimpico.'),
+
+  // —— urbino: bakeries and cafés (2026-11-04) ——
+  place('urbino-bakery-1', 'urbino', 'bakery', 'Cornetteria Peccati Di Gola', 'Via Giuseppe Mazzini 28, 61029 Urbino', '구시가의 코르네토(크루아상) 가게.', 'Cornetto (croissant) shop in the old town.'),
+  place('urbino-cafe-1', 'urbino', 'cafe', 'Camera A Sud', 'Via Donato Bramante 14, 61029 Urbino', '구시가의 카페 바.', 'Café-bar in the old town.'),
+
+  // —— olbia: bakeries and cafés (2026-11-04) ——
+  place('olbia-bakery-1', 'olbia', 'bakery', 'Ammentos, I Dolci di Lauretta', 'Via Alessandro Nanni 2B, 07026 Olbia', '사르데냐 전통 과자 가게.', 'Shop for traditional Sardinian sweets.'),
+  place('olbia-cafe-1', 'olbia', 'cafe', 'Cafè Gregorio', 'Corso Umberto, 07026 Olbia', '중심가의 카페.', 'Café on the main street.'),
+  place('olbia-cafe-2', 'olbia', 'cafe', 'La Dolce Vita Café', 'Corso Vittorio Veneto 31, 07026 Olbia', '시내의 에스프레소 바.', 'Espresso bar in the town.'),
+
+  // —— parma: bakeries and cafés (2026-11-04) ——
+  place('parma-bakery-1', 'parma', 'bakery', 'Bombé Farini', 'Strada Luigi Carlo Farini 19/a, 43121 Parma', '시내 중심의 파티스리 겸 비스트로.', 'Pastry shop and bistro in the centre.'),
+  place('parma-cafe-1', 'parma', 'cafe', 'Magnolia Café', 'Strada Duomo 6/A, 43121 Parma', '대성당 근처의 카페 바.', 'Café-bar near the cathedral.'),
+  place('parma-cafe-2', 'parma', 'cafe', 'Bar Espresso Napoletano', 'Via Giambattista Bodoni 1/E, 43121 Parma', '나폴리식 에스프레소를 내는 커피숍.', 'Coffee shop serving Neapolitan-style espresso.'),
 ]

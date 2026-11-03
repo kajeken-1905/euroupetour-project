@@ -32,4 +32,7 @@ export const placesGEExtra: Place[] = [
   place('sighnaghi-fine_dining-3', 'sighnaghi', 'fine_dining', 'Restaurant Qiziki', '6 Sarajishvili St, Sighnaghi, Georgia', '사라지시빌리 거리의 조지아 요리 식당. 지역 식재료를 씁니다.', 'Georgian restaurant on Sarajishvili Street cooking with local produce.'),
   place('sighnaghi-fine_dining-4', 'sighnaghi', 'fine_dining', 'Balcony Sighnaghi', '21 Vakhtang Gorgasali St, Sighnaghi, Georgia', '바흐탕 고르가살리 거리의 조지아 요리 식당.', 'Georgian restaurant on Vakhtang Gorgasali Street.'),
   place('sighnaghi-cafe-2', 'sighnaghi', 'cafe', 'Cafe "Medea"', '3A Ketevan Tsamebuli St, Sighnaghi', '성벽 근처의 카페. 조지아 요리와 지역 와이너리 와인, 레드와인 아이스크림을 냅니다.', 'Café near the town walls serving Georgian dishes, local wines and red-wine ice cream.'),
+
+  // —— stepantsminda: bakeries and cafés (2026-11-04) ——
+  place('stepantsminda-bakery-1', 'stepantsminda', 'bakery', 'Cafe Green Corner', 'Tergdaleulebi St 6g, Stepantsminda 4700', '마을의 빵집 겸 카페.', 'Village bakery and café.'),
 ]

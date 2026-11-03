@@ -177,6 +177,14 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"ajaccio-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"ajaccio-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "ajaccio-fine_dining-1": {
 "en": "Small old-town restaurant listed in the MICHELIN Guide, cooking modern dishes with Corsican produce.",
 "ko": "미쉐린 가이드에 실린 구시가의 작은 식당. 코르시카 재료로 현대적인 요리를 냅니다.",
@@ -230,11 +238,31 @@
 "ko": "아이슬란드 어부·농가 식재료로 해산물·초밥·스테이크를 내는 레스토랑. 점심 뷔페가 있습니다.",
 "ok": 1
 },
+"alberobello-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"alberobello-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "alberobello-fine_dining-1": {
 "addr": "Via Indipendenza 21, 70011 Alberobello",
 "en": "Long-standing restaurant in the trulli town, with a vast wine list that holds a Wine Spectator Grand Award.",
 "ko": "트룰리 마을의 오래된 레스토랑. 와인 스펙테이터 그랜드 어워드를 받은 방대한 와인 리스트가 있습니다.",
 "ok": 1
+},
+"alesund-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"alesund-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"alesund-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "alesund-fine_dining-1": {
 "en": "Modern bistro in a 1904 waterfront warehouse using Sunnmøre produce, with summer dining on a floating barge.",
@@ -531,6 +559,22 @@
 "antalya-fine_dining-4": {
 "del": 1
 },
+"antibes-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"antibes-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"antibes-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"antibes-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "antibes-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -612,6 +656,18 @@
 "ko": "불고기·떡볶이·김치찌개를 반찬과 함께 내는 한식당.",
 "ok": 1
 },
+"arcachon-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"arcachon-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"arcachon-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "arcachon-fine_dining-1": {
 "addr": "28 Avenue de la Conche, 33970 Lège-Cap-Ferret, France",
 "en": "Oyster-tasting shack on the Mimbeau basin with oysters, shrimp and terrines plus local wine; book in season.",
@@ -628,6 +684,18 @@
 "en": "Oyster and seafood shack in the Les Youkas oyster quarter of Cap Ferret.",
 "ko": "캅페레 레 유카스 굴 양식촌의 굴·해산물 오두막 식당.",
 "ok": 1
+},
+"arles-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"arles-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"arles-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "arles-fine_dining-1": {
 "ok": 1,
@@ -794,6 +862,18 @@
 },
 "avignon-korean-1": {
 "del": 1
+},
+"avila-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"avila-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"avila-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "avila-fine_dining-1": {
 "ok": 1,
@@ -1305,6 +1385,22 @@
 "ko": "고르길라제 거리의 조지아 요리 식당. 큰 나무 테이블이 놓인 어두운 실내입니다.",
 "ok": 1
 },
+"bayeux-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bayeux-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bayeux-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bayeux-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "bayeux-fine_dining-1": {
 "en": "Restaurant in a 15th-century building, listed in the MICHELIN Guide, cooking with Normandy produce.",
 "ko": "15세기 건물의 식당. 미쉐린 가이드에 실려 있고 노르망디 재료로 요리합니다.",
@@ -1405,6 +1501,14 @@
 "ko": "전통 알바니아 요리 식당. 저녁에 라이브 음악이 있고 현금만 받습니다.",
 "name": "Zonja Gjenë",
 "ok": 1
+},
+"berchtesgaden-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"berchtesgaden-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "berchtesgaden-fine_dining-1": {
 "ok": 1,
@@ -1867,6 +1971,14 @@
 "bolzano-fine_dining-1": {
 "ok": 1
 },
+"bonifacio-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bonifacio-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "bonifacio-fine_dining-1": {
 "addr": "53 Quai Jérôme Comparetti, 20169 Bonifacio, France",
 "en": "Tapas-style Corsican restaurant and wine bar in a vaulted room cut into the harbour cliff, listed in the MICHELIN Guide; open May to October.",
@@ -2051,6 +2163,18 @@
 },
 "bratislava-korean-1": {
 "del": 1
+},
+"bregenz-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bregenz-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bregenz-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "bregenz-fine_dining-1": {
 "ok": 1,
@@ -2593,6 +2717,22 @@
 "ko": "예실 사원 근처에서 부르사식 되네르와 이스켄데르를 내는 식당. 시내 전망이 있습니다.",
 "ok": 1
 },
+"cadiz-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"cadiz-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"cadiz-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"cadiz-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "cadiz-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -2615,6 +2755,10 @@
 },
 "cala-gonone-fine_dining-3": {
 "ok": 1
+},
+"calvi-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "calvi-fine_dining-1": {
 "en": "Corsican restaurant on the Calvi harbour focusing on fish such as grilled sardines and fish soup; open in season only.",
@@ -2724,6 +2868,18 @@
 "capri-fine_dining-2": {
 "ok": 1
 },
+"carcassonne-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"carcassonne-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"carcassonne-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "carcassonne-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -2776,6 +2932,18 @@
 },
 "cascais-fine_dining-3": {
 "del": "O Biscoito listed as temporarily closed"
+},
+"cassis-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"cassis-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"cassis-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "cassis-fine_dining-1": {
 "ok": 1,
@@ -2938,6 +3106,22 @@
 "en": "Traditional Cretan taverna in the old town serving Sfakian dishes, lamb and goat from the wood-fired oven, and its own bread.",
 "ko": "구시가의 크레타 전통 타베르나. 스파키아식 요리와 장작 화덕에 구운 양·염소고기, 직접 구운 빵을 냅니다.",
 "ok": 1
+},
+"chartres-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"chartres-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"chartres-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"chartres-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "chartres-fine_dining-1": {
 "addr": "Le Grand Monarque, 22 Place des Épars, 28000 Chartres",
@@ -3136,6 +3320,18 @@
 "collioure-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"colmar-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"colmar-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"colmar-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "colmar-fine_dining-1": {
 "ok": 1,
@@ -3565,6 +3761,10 @@
 "mi": "bib",
 "ok": 1
 },
+"delphi-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "delphi-fine_dining-1": {
 "en": "Greek and Mediterranean restaurant on Delphi’s main street with views over the gorge and the Gulf of Corinth.",
 "ko": "델포이 중심가의 그리스·지중해 요리 식당. 계곡과 코린트만이 보입니다.",
@@ -3574,6 +3774,22 @@
 "en": "Family-run taverna with valley views, using its own olives and local produce, with many vegetarian and vegan dishes.",
 "ko": "계곡이 보이는 가족 운영 타베르나. 직접 기른 올리브와 지역 식재료를 쓰고 채식·비건 메뉴가 많습니다.",
 "ok": 1
+},
+"derry-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"derry-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"derry-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"derry-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "derry-fine_dining-1": {
 "addr": "70 Ebrington Square, Derry BT47 6FA",
@@ -4027,6 +4243,14 @@
 "ko": "2004년부터 도보 광장에서 영업한 레스토랑 겸 카페. 메뉴가 계절마다 바뀌고 사슴 스테이크 등을 내며 광장 쪽 야외석이 있습니다.",
 "ok": 1
 },
+"etretat-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"etretat-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "etretat-fine_dining-1": {
 "en": "Family bistro in the 1900 mansion where Maurice Leblanc wrote Arsène Lupin, with a weekly seasonal set menu; no bookings, so arrive early; closed Sundays and Mondays.",
 "ko": "모리스 르블랑이 아르센 뤼팽을 쓴 1900년 저택의 가족 비스트로. 매주 바뀌는 제철 코스를 내고 예약은 받지 않으니 일찍 가세요. 일·월요일은 쉽니다.",
@@ -4083,6 +4307,10 @@
 "eysturoy-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"eze-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "eze-fine_dining-1": {
 "ok": 1,
@@ -4162,6 +4390,10 @@
 "ferrara-fine_dining-3": {
 "addr": "Piazza Castello 10, 44121 Ferrara",
 "ok": 1
+},
+"flam-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "flam-fine_dining-1": {
 "addr": "A-Feltvegen 19, 5743 Flåm",
@@ -5166,6 +5398,10 @@
 "ko": "카미노 데 론다 지구의 한식당. 매운 요리와 김치찌개·치킨이 있고 예약하는 편이 좋습니다.",
 "ok": 1
 },
+"grasse-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "grasse-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -5641,6 +5877,14 @@
 "herceg-novi-fine_dining-5": {
 "del": "헤르체그노비에서 그 식당을 찾을 수 없음"
 },
+"honfleur-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"honfleur-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "honfleur-fine_dining-1": {
 "en": "Chef Alexandre Bourdas’s restaurant, bakery and pâtisserie, listed in the MICHELIN Guide, doubling as a tearoom and with a Japanese section on the menu; closed Mondays and Tuesdays.",
 "ko": "셰프 알렉상드르 부르다의 식당 겸 빵집·제과점. 미쉐린 가이드에 실려 있고 시간대에 따라 찻집으로도 운영하며 일본식 메뉴도 있습니다. 월·화요일은 쉽니다.",
@@ -5830,6 +6074,22 @@
 "ko": "크래프트 맥주 종류가 많은 펍. 버거 등 간단한 요리를 냅니다.",
 "ok": 1
 },
+"inverness-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"inverness-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"inverness-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"inverness-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "inverness-fine_dining-1": {
 "en": "Riverside brasserie with views of the Ness and the castle, using Scottish produce.",
 "ko": "네스강과 성이 보이는 강변의 브라세리. 스코틀랜드 식재료를 씁니다.",
@@ -5844,6 +6104,14 @@
 "en": "Scottish restaurant on Castle Street with an open kitchen, using produce from its own croft.",
 "ko": "캐슬 스트리트의 스코틀랜드 요리 레스토랑. 오픈 키친이고 자체 농장 식재료를 씁니다.",
 "ok": 1
+},
+"irkutsk-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"irkutsk-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "irkutsk-fine_dining-1": {
 "ok": 1,
@@ -5863,6 +6131,18 @@
 "en": "Small restaurant above Portree harbour, cooking seasonal Scottish produce; booking advised.",
 "ko": "포트리 항구 위의 작은 레스토랑. 스코틀랜드 제철 식재료를 씁니다. 예약을 권합니다.",
 "ok": 1
+},
+"isle-sur-la-sorgue-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"isle-sur-la-sorgue-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"isle-sur-la-sorgue-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "isle-sur-la-sorgue-fine_dining-1": {
 "ok": 1,
@@ -6179,6 +6459,14 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"khabarovsk-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"khabarovsk-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "khabarovsk-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -6310,6 +6598,18 @@
 "ko": "아이스호텔의 레스토랑. 라플란드 지역 재료로 요리하며 미리 예약해야 합니다.",
 "name": "Icehotel Restaurant",
 "ok": 1
+},
+"kitzbuhel-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"kitzbuhel-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"kitzbuhel-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "kitzbuhel-fine_dining-1": {
 "ok": 1,
@@ -6637,6 +6937,22 @@
 "kyrenia-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"la-rochelle-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"la-rochelle-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"la-rochelle-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"la-rochelle-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "la-rochelle-fine_dining-1": {
 "en": "Three-Michelin-star seafood restaurant on the Plage de la Concurrence; closed Sundays and Mondays.",
@@ -7106,6 +7422,18 @@
 },
 "limerick-fine_dining-2": {
 "ok": 1
+},
+"linz-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"linz-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"linz-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "linz-fine_dining-1": {
 "ok": 1,
@@ -8073,6 +8401,18 @@
 "ko": "2016년 문을 연 스톡포트의 로프트형 코스 요리 레스토랑.",
 "ok": 1
 },
+"mantua-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"mantua-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"mantua-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "mantua-fine_dining-1": {
 "ok": 1
 },
@@ -8187,6 +8527,22 @@
 "ko": "카스텔란 근처의 한식당. 한국식 고기구이가 중심이고 비빔밥·불고기·떡볶이도 있습니다. 일요일은 쉽니다.",
 "name": "Busan",
 "ok": 1
+},
+"matera-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"matera-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"matera-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"matera-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "matera-fine_dining-1": {
 "ok": 1
@@ -8308,6 +8664,18 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"menton-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"menton-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"menton-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "menton-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -8315,6 +8683,14 @@
 "menton-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"meteora-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"meteora-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "meteora-fine_dining-1": {
 "en": "Run by the Gkertsou family since 1925 on Kalambaka’s Town Hall Square, serving grandmother’s moussaka, aubergine saganaki and homemade sausage; closed Wednesdays.",
@@ -8887,6 +9263,18 @@
 "ko": "산나자로 광장의 피체리아. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
 },
+"narbonne-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"narbonne-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"narbonne-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "narbonne-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -8894,6 +9282,14 @@
 "narbonne-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"naxos-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"naxos-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "naxos-fine_dining-1": {
 "addr": "Plateia Protodikiou, Naxos 843 00",
@@ -9106,6 +9502,18 @@
 "ko": "구시가지의 수블라키·그릴 요리 식당. 메제와 생선도 있습니다.",
 "ok": 1
 },
+"nimes-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nimes-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nimes-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "nimes-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -9250,6 +9658,14 @@
 "en": "Korean restaurant north of the old town with japchae, bibimbap and dumplings; evenings, closed Mondays.",
 "ko": "구시가지 북쪽의 한식당. 잡채·비빔밥·만두가 있고 저녁에 열며 월요일은 쉽니다.",
 "ok": 1
+},
+"nuuk-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nuuk-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "nuuk-fine_dining-1": {
 "ok": 1,
@@ -9412,6 +9828,18 @@
 "ohrid-fine_dining-5": {
 "del": "Frogche Ohrid not found in any source"
 },
+"olbia-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"olbia-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"olbia-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "olbia-fine_dining-1": {
 "del": "Il Pescatore: listed Olbia address conflicts with Porto Cervo old-port venue, which has been renamed Quattro Passi al Pescatore"
 },
@@ -9444,6 +9872,10 @@
 "olomouc-fine_dining-3": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"olympia-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "olympia-fine_dining-1": {
 "en": "Stone guesthouse and taverna in Miraka (Ancient Pisa), 3 km from Ancient Olympia, cooking with local produce.",
@@ -9510,6 +9942,14 @@
 "en": "Orhei restaurant serving stews and grills, open until late.",
 "ko": "오르헤이의 레스토랑. 스튜와 그릴 요리를 내고 밤늦게까지 엽니다.",
 "ok": 1
+},
+"orvieto-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"orvieto-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "orvieto-fine_dining-1": {
 "ok": 1
@@ -9934,6 +10374,14 @@
 "parma-bakery-1": {
 "del": "Pasticceria Torino Parma marked Permanently Closed (Wanderlog)"
 },
+"parma-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"parma-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "parma-fine_dining-1": {
 "ok": 1
 },
@@ -10062,6 +10510,14 @@
 "en": "Restaurant on Haxhi Zeka square serving local and international dishes.",
 "ko": "하지 제카 광장의 레스토랑. 지역 요리와 서양 요리를 냅니다.",
 "ok": 1
+},
+"perpignan-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"perpignan-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "perpignan-fine_dining-1": {
 "ok": 1,
@@ -10696,6 +11152,22 @@
 "ko": "옛 건물을 꾸민 전통 요리 식당. 고기구이를 냅니다.",
 "ok": 1
 },
+"ravenna-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"ravenna-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"ravenna-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"ravenna-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "ravenna-fine_dining-1": {
 "ok": 1
 },
@@ -10706,6 +11178,18 @@
 "ravenna-fine_dining-3": {
 "addr": "Viale Francesco Baracca 74, 48121 Ravenna",
 "ok": 1
+},
+"regensburg-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"regensburg-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"regensburg-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "regensburg-fine_dining-1": {
 "ok": 1,
@@ -11337,10 +11821,22 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"saint-malo-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"saint-malo-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "saint-malo-fine_dining-1": {
 "en": "Crêperie inside the walled town serving organic buckwheat galettes and over 60 ciders; listed in the MICHELIN Guide.",
 "ko": "성곽 안 구시가지의 크레프 레스토랑. 유기농 메밀 갈레트와 60종이 넘는 사과주를 내고 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
+},
+"saint-paul-de-vence-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "saint-paul-de-vence-fine_dining-1": {
 "ok": 1,
@@ -11388,6 +11884,10 @@
 "saint-petersburg-korean-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"saint-tropez-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "saint-tropez-fine_dining-1": {
 "ok": 1,
@@ -11743,6 +12243,10 @@
 "sarande-cafe-1": {
 "del": "사란데에서 그 카페를 찾을 수 없음"
 },
+"sarande-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "sarande-fine_dining-1": {
 "en": "Hilltop seafood and Mediterranean restaurant overlooking Saranda bay and the Ionian Sea.",
 "ko": "사란데 언덕 꼭대기의 해산물·지중해 요리 식당. 만과 이오니아해가 내려다보입니다.",
@@ -11874,6 +12378,22 @@
 "selfoss-fine_dining-2": {
 "ok": 1
 },
+"sete-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"sete-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"sete-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"sete-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "sete-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -11953,6 +12473,10 @@
 },
 "sheki-bakery-1": {
 "del": "셰키에서 그 가게를 찾을 수 없음"
+},
+"sheki-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "sheki-cafe-2": {
 "del": "셰키에서 그 가게를 찾을 수 없음"
@@ -12501,6 +13025,18 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"st-ives-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"st-ives-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"st-ives-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "st-ives-fine_dining-1": {
 "en": "Seafood and Mediterranean-leaning restaurant right on Porthminster Beach.",
 "ko": "포스민스터 해변 바로 앞의 해산물·지중해식 레스토랑.",
@@ -12609,6 +13145,10 @@
 "en": "French-style bistro from the Renaa group, cooking with local produce.",
 "ko": "레나 그룹의 프랑스식 비스트로. 지역 식재료로 요리합니다.",
 "ok": 1
+},
+"stepantsminda-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "stepantsminda-cafe-1": {
 "del": "only a sparse listing; address not confirmable"
@@ -14091,6 +14631,14 @@
 "uppsala-fine_dining-2": {
 "ok": 1
 },
+"urbino-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"urbino-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "urbino-fine_dining-1": {
 "ok": 1
 },
@@ -14616,6 +15164,14 @@
 "ko": "비앙덴 성 아래 옛 대장간 건물의 오베르주. 숯불구이 요리로 알려졌고 화요일은 쉽니다.",
 "ok": 1
 },
+"vicenza-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"vicenza-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "vicenza-fine_dining-1": {
 "del": "Trattoria Tre Visi: Contrà Porti address unconfirmed, only one old review"
 },
@@ -14797,6 +15353,14 @@
 "ko": "구시가 보키에치우 거리의 한식당. 김치와 한식 요리를 냅니다.",
 "ok": 1
 },
+"vladivostok-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"vladivostok-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "vladivostok-fine_dining-1": {
 "del": 1
 },
@@ -14901,6 +15465,10 @@
 "windsor-bakery-1": {
 "del": "윈저에서 그 빵집을 찾을 수 없음"
 },
+"windsor-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "windsor-fine_dining-1": {
 "en": "Thames-side pub dating from at least 1829, with a riverside terrace.",
 "ko": "1829년 무렵부터 이어진 템스강 변의 펍. 강가 테라스가 있습니다.",
@@ -14989,6 +15557,22 @@
 "en": "Chef's cooking studio with no fixed menu, built around the day's market produce; booking advised.",
 "ko": "고정 메뉴 없이 그날 시장 재료로 요리하는 셰프의 쿠킹 스튜디오. 예약을 권합니다.",
 "ok": 1
+},
+"wurzburg-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"wurzburg-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"wurzburg-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"wurzburg-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "wurzburg-fine_dining-1": {
 "ok": 1,
@@ -15277,6 +15861,18 @@
 "en": "Small cuckoo-clock-themed restaurant with pork knuckle, ribs and moskol flatbread, plus highlander music.",
 "ko": "뻐꾸기시계로 꾸민 작은 식당. 돼지 정강이·갈비와 감자전 모스콜을 내고 산악 음악 공연이 있습니다.",
 "ok": 1
+},
+"zakynthos-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"zakynthos-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"zakynthos-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "zakynthos-fine_dining-1": {
 "en": "Taverna on Lomvardou Street by the Zakynthos Town harbour, serving seafood and lamb kleftiko.",
