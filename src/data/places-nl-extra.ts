@@ -100,4 +100,10 @@ export const placesNLExtra: Place[] = [
   place('giethoorn-cafe-2', 'giethoorn', 'cafe', 'Grand Café Henri Willig', 'Dominee T.O. Hylkemaweg 39, 8355 CD Giethoorn', '치즈 회사 앙리 빌리흐의 운하변 카페. 치즈 요리와 보트 투어가 있습니다.', 'Canal-side café of cheesemaker Henri Willig, with cheese dishes and boat tours.'),
   place('giethoorn-cafe-3', 'giethoorn', 'cafe', 'Café-Restaurant Smit', 'Zuiderpad 58, 8355 CC Giethoorn', '마을 운하변의 카페 겸 레스토랑. 보트 대여와 테라스가 있습니다.', 'Café-restaurant on the village canal with boat hire and a terrace.'),
 
+  // —— leiden ——
+  place('leiden-fine_dining-1', 'leiden', 'fine_dining', 'Café Visscher', 'Stationsweg 7, 2312 AS Leiden', '중앙역 앞 길의 프렌치 비스트로. 미쉐린 빕 구르망.', 'French bistro on the street from the station. Michelin Bib Gourmand.', { michelin: 'bib' }),
+  place('leiden-fine_dining-2', 'leiden', 'fine_dining', 'Café de Gaper', 'Rapenburg 97, 2311 GL Leiden', '라펜뷔르흐 운하 가의 인터내셔널 요리 레스토랑. 미쉐린 빕 구르망.', 'International cooking on the Rapenburg canal. Michelin Bib Gourmand.', { michelin: 'bib' }),
+  place('leiden-fine_dining-3', 'leiden', 'fine_dining', 'In den Doofpot', 'Turfmarkt 9, 2312 CE Leiden', '운하 가의 창의 요리 레스토랑. 미쉐린 가이드 선정.', 'Creative restaurant on a canal. In the MICHELIN Guide.'),
+  place('leiden-fine_dining-4', 'leiden', 'fine_dining', 'Wielinga', 'Nieuwe Rijn 28, 2312 JD Leiden', '니우어 레인 운하 가의 모던 프렌치 레스토랑. 미쉐린 가이드 선정.', 'Modern French restaurant on the Nieuwe Rijn canal. In the MICHELIN Guide.'),
+  place('leiden-fine_dining-5', 'leiden', 'fine_dining', 'Bistro Bord’o', 'Apothekersdijk 2, 2312 DC Leiden', '구시가의 컨템퍼러리 비스트로. 미쉐린 가이드 선정.', 'Contemporary bistro in the old town. In the MICHELIN Guide.'),
 ]

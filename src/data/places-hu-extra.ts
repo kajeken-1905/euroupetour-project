@@ -57,4 +57,7 @@ export const placesHUExtra: Place[] = [
   place('eger-cafe-1', 'eger', 'cafe', 'Greek Café', 'Dobó István u. 22, 3300 Eger, Hungary', '성으로 올라가는 도보 거리의 카페. 그리스풍 안뜰에서 30여 가지 커피와 핫초콜릿, 지역 와인을 냅니다.', 'Café on Dobó Street on the way up to the castle, with a Greek-style courtyard, over 30 coffees, hot chocolate and regional wines.'),
   place('eger-cafe-3', 'eger', 'cafe', 'Kis sziget cafe and bar', 'Kertész u. 42, Eger', '시내 중심 밖 주택가의 아늑한 카페 겸 바. 커피·차·샌드위치·와인을 내고 테라스와 놀이 공간이 있으며 현금만 받습니다.', 'Cosy café-bar just outside the centre with coffee, tea, sandwiches and wine, a terrace and a kids’ play corner; cash only.'),
   place('eger-cafe-5', 'eger', 'cafe', 'Manooka Kávézó', 'Bajcsy-Zsilinszky Endre 17, Eger', '2018년 문을 연 시내의 스페셜티 커피·아침 식사 카페. 아기 동반에 맞춘 놀이 공간과 수유실이 있고 비건·글루텐프리 메뉴도 있습니다.', 'Specialty coffee and breakfast café in the centre, open since 2018 and set up for families with a play corner and baby room; vegan and gluten-free options.'),
+
+  // —— tihany ——
+  place('tihany-fine_dining-1', 'tihany', 'fine_dining', 'Tihanyi Vinarius', 'Kiserdőtelepi út, 8237 Tihany', '티하니의 컨템퍼러리 레스토랑. 미쉐린 가이드 선정. 지금은 구글지도에 임시 휴업으로 나오니 가기 전에 확인하세요.', 'Contemporary restaurant in Tihany. In the MICHELIN Guide. Google Maps currently shows it as temporarily closed, so check before you go.'),
 ]

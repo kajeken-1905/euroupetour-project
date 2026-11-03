@@ -53,4 +53,9 @@ export const placesCZExtra: Place[] = [
   place('ceske-budejovice-bakery-3', 'ceske-budejovice', 'bakery', 'Pastry Romana Liebing', 'Resslova 2601/8, 370 04 České Budějovice', '구시가지 근처의 카페 겸 제과점. 파블로바·슈크림과 브런치 메뉴가 있습니다.', 'Café and pâtisserie near the old town with pavlova, cream puffs and a brunch menu.'),
   place('ceske-budejovice-cafe-2', 'ceske-budejovice', 'cafe', 'Café Datel', 'Piaristická 22/8, 370 01 České Budějovice', '체코·유럽 로스터리 원두를 쓰는 스페셜티 커피 카페. 직접 만든 디저트와 생맥주도 있습니다.', 'Specialty coffee café using Czech and European roasters, with homemade desserts and draught beer.'),
   place('ceske-budejovice-cafe-3', 'ceske-budejovice', 'cafe', 'Praži Café', 'Na Mlýnské Stoce 282/11, 370 01 České Budějovice', '옛 성문 이름을 딴 건물의 카페 겸 비스트로. 아침·주말 브런치·점심을 내고 정원 자리가 있습니다.', 'Café-bistro in the house named after the old Prague Gate, serving breakfast, weekend brunch and lunch, with a garden.'),
+
+  // —— olomouc ——
+  place('olomouc-fine_dining-1', 'olomouc', 'fine_dining', 'Entrée', 'Ostravská 1, 779 00 Olomouc', '모던 요리를 내는 올로모우츠의 미쉐린 1스타 레스토랑.', 'Olomouc’s One-Michelin-star restaurant of modern cooking.', { michelin: 'star1' }),
+  place('olomouc-fine_dining-2', 'olomouc', 'fine_dining', 'Long Story Short Eatery & Bakery', 'Koželužská 945/31, 779 00 Olomouc', '직접 구운 빵과 모던 요리를 내는 식당 겸 빵집. 미쉐린 빕 구르망.', 'Eatery and bakery with its own bread and modern dishes. Michelin Bib Gourmand.', { michelin: 'bib' }),
+  place('olomouc-fine_dining-3', 'olomouc', 'fine_dining', 'STeaK Restaurant', 'Lipenská 11/7, 779 00 Olomouc', '그릴 스테이크 레스토랑. 미쉐린 가이드 선정.', 'Grill and steak restaurant. In the MICHELIN Guide.'),
 ]

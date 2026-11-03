@@ -70,4 +70,10 @@ export const placesBEExtra: Place[] = [
   place('dinant-cafe-1', 'dinant', 'cafe', 'Le Cerf Vert', 'Avenue Winston Churchill 32, 5500 Dinant', '뫼즈강 오른쪽 기슭의 호텔 겸 레스토랑·바.', 'Hotel with a restaurant and bar on the right bank of the Meuse.'),
   place('dinant-cafe-2', 'dinant', 'cafe', 'Café Leffe', 'Rue Adolphe Sax 2, 5500 Dinant', '참사회 성당 맞은편, 뫼즈강 전망의 바 겸 브라스리.', 'Bar-brasserie opposite the collegiate church, with views of the Meuse.', { image: '/places/dinant-cafe-2.jpg' }),
 
+  // —— mechelen ——
+  place('mechelen-fine_dining-1', 'mechelen', 'fine_dining', 'Tinèlle', 'Goswin de Stassartstraat 90, 2800 Mechelen', '카제르너 도신 근처의 컨템퍼러리 프렌치 레스토랑. 미쉐린 1스타.', 'Contemporary French restaurant near Kazerne Dossin. One Michelin star.', { michelin: 'star1' }),
+  place('mechelen-fine_dining-2', 'mechelen', 'fine_dining', 'Graspoort', 'Begijnenstraat 28, 2800 Mechelen', '베긴회 수녀원 근처의 창의 프렌치 레스토랑. 미쉐린 가이드 선정.', 'Creative French restaurant near the beguinage. In the MICHELIN Guide.'),
+  place('mechelen-fine_dining-3', 'mechelen', 'fine_dining', 'The Chick', 'Sint-Romboutskerkhof 2, 2800 Mechelen', '대성당 바로 옆의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern restaurant right beside the cathedral. In the MICHELIN Guide.'),
+  place('mechelen-fine_dining-4', 'mechelen', 'fine_dining', 'Cosma', 'Befferstraat 24, 2800 Mechelen', '여럿이 나눠 먹는 요리를 내는 레스토랑. 미쉐린 가이드 선정.', 'Sharing-plates restaurant. In the MICHELIN Guide.'),
+  place('mechelen-fine_dining-5', 'mechelen', 'fine_dining', 'Ember', 'Guldenstraat 9, 2800 Mechelen', '제철 요리를 내는 레스토랑. 미쉐린 가이드 선정.', 'Seasonal cooking. In the MICHELIN Guide.'),
 ]

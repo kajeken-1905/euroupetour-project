@@ -141,4 +141,23 @@ export const placesCHExtra: Place[] = [
 
   place('st-moritz-bakery-2', 'st-moritz', 'bakery', 'Hauser Confiserie St. Moritz', 'Via Traunter Plazzas 7, 7500 St. Moritz', '하우저 호텔 건물의 제과점. 엥가딘 호두 케이크와 배 빵 등 지역 과자를 팝니다.', 'Confectioner in the Hauser Hotel building selling Engadine nut cake, pear bread and other local specialities.'),
   place('st-moritz-cafe-1', 'st-moritz', 'cafe', 'Café Hanselmann', 'Via Maistra 8, 7500 St. Moritz, Switzerland', '1894년 문을 연, 그림 장식 건물의 제과점 겸 카페. 엥가딘 호두 케이크가 알려져 있습니다.', 'Patisserie and café in a painted building, open since 1894 and known for Engadine nut cake.', { image: '/places/st-moritz-cafe-1.jpg' }),
+
+  // —— st-gallen ——
+  place('st-gallen-fine_dining-1', 'st-gallen', 'fine_dining', 'Einstein Gourmet', 'Berneggstrasse 2, 9000 St. Gallen', '호텔 아인슈타인의 창의 요리 레스토랑. 미쉐린 2스타.', 'Creative cooking at the Hotel Einstein. Two Michelin stars.', { michelin: 'star2' }),
+  place('st-gallen-fine_dining-2', 'st-gallen', 'fine_dining', 'Jägerhof', 'Brühlbleichestrasse 11, 9000 St. Gallen', '모던 요리를 내는 미쉐린 1스타 레스토랑.', 'One-Michelin-star restaurant serving modern cuisine.', { michelin: 'star1' }),
+  place('st-gallen-fine_dining-3', 'st-gallen', 'fine_dining', 'Corso', 'Brühlgasse 37, 9000 St. Gallen', '구시가의 컨템퍼러리 레스토랑. 미쉐린 1스타.', 'Contemporary restaurant in the old town. One Michelin star.', { michelin: 'star1' }),
+  place('st-gallen-fine_dining-4', 'st-gallen', 'fine_dining', 'Soleil d’Or by David Geisser', 'Haldenstrasse 1, 9000 St. Gallen', '다비드 가이서 셰프의 창의 요리 레스토랑. 미쉐린 1스타.', 'David Geisser’s creative restaurant. One Michelin star.', { michelin: 'star1' }),
+  place('st-gallen-fine_dining-5', 'st-gallen', 'fine_dining', 'Candela', 'Sonnenstrasse 5, 9000 St. Gallen', '인터내셔널 요리를 합리적인 값에 내는 곳. 미쉐린 빕 구르망.', 'International cooking at fair prices. Michelin Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— chur ——
+  place('chur-fine_dining-1', 'chur', 'fine_dining', 'Mekong', 'Poststrasse 22, 7000 Chur', '구시가의 아시아 요리 레스토랑. 미쉐린 가이드 선정.', 'Asian restaurant in the old town. In the MICHELIN Guide.'),
+
+  // —— locarno ——
+  place('locarno-fine_dining-1', 'locarno', 'fine_dining', 'Locanda Locarnese', 'Via Bossi 1, Piazza Grande, 6600 Locarno', '피아차 그란데에 면한 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Mediterranean restaurant on the Piazza Grande. In the MICHELIN Guide.'),
+  place('locarno-fine_dining-2', 'locarno', 'fine_dining', 'Da Valentino', 'Via Torretta 7, 6600 Locarno', '구시가 골목의 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Mediterranean restaurant in an old-town lane. In the MICHELIN Guide.'),
+  place('locarno-fine_dining-3', 'locarno', 'fine_dining', 'Osteria del Centenario', 'Viale Verbano 17, 6600 Muralto', '역 가까운 호숫가 무랄토의 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Mediterranean restaurant on the Muralto lakefront near the station. In the MICHELIN Guide.'),
+  place('locarno-fine_dining-4', 'locarno', 'fine_dining', 'La Fontana Restaurant & Bar', 'Via ai Monti della Trinità 44, 6600 Locarno', '시내 위 몬티 언덕의 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Mediterranean restaurant on the Monti hillside above town. In the MICHELIN Guide.'),
+
+  // —— bellinzona ——
+  place('bellinzona-fine_dining-1', 'bellinzona', 'fine_dining', 'Locanda Orico', 'Via Orico 13, 6500 Bellinzona', '구시가 골목의 지중해 요리 레스토랑. 미쉐린 1스타.', 'Mediterranean restaurant in an old-town lane. One Michelin star.', { michelin: 'star1' }),
 ]
