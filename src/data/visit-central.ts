@@ -222,6 +222,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'budapest-h14': v(60, 120, { n: '머르기트 다리에서 걸어 들어가며 무료입니다. 음악 분수는 따뜻한 계절에만 켭니다.|Walk in from Margaret Bridge, free; the musical fountain runs only in the warm months.' }),
   'budapest-h15': v(90, 120, { c: 'mon', s: 'https://www.terrorhaza.hu/en/visitor-information/opening-hours', n: '화~일 10:00~18:00(매표 17:30까지)에 열고 월요일에 쉽니다. 4,000포린트이며 온라인 판매는 없습니다. 12월 24~26일과 1월 1일은 휴관합니다.|Open Tuesday to Sunday 10:00–18:00 (tickets until 17:30), closed Mondays; 4,000 HUF, sold on site only. Closed 24–26 December and 1 January.', k: '2026-11' }),
   'budapest-h16': v(180, 300, { s: 'https://www.bazilika-esztergom.hu/', n: '성당은 무료이고 10~12월엔 8:00~17:00에 엽니다. 돔·지하 묘소·보물관 통합권 5,600포린트, 돔은 11월부터 16:00까지입니다. 부다페스트에서 기차와 버스로 약 1시간 30분입니다.|The church is free, open 8:00–17:00 from October to December; dome, crypt and treasury combined 5,600 HUF, the dome closing at 16:00 from November. About 1 hr 30 by train and bus from Budapest.', k: '2026-11' }),
+  'budapest-h17': v(45, 90, { n: '무료이며 언제든 걸을 수 있습니다. 성 이슈트반 대성당에서 그레이트 마켓 홀까지 걸어서 이어 보기 좋습니다.|Free and always open; a good walk from St Stephen’s Basilica down to the Great Market Hall.' }),
   'szentendre-h1': v(20, 30),
   'szentendre-h2': v(15, 20),
   'szentendre-h3': v(45, 60),

@@ -1811,3 +1811,4 @@ cities/bern.jpg | own photo | own photo | 사용자 촬영
 places/geneva-fine_dining-6.jpg | own photo | own photo | 사용자 촬영
 highlights/budapest-1.jpg | own photo | own photo | 사용자 촬영
 highlights/budapest-2.jpg | own photo | own photo | 사용자 촬영
+highlights/budapest-17.jpg | own photo | own photo | 사용자 촬영

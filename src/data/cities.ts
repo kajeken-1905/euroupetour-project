@@ -4298,6 +4298,14 @@ export const cities: City[] = [
         group: { ko: "페스트 도심", en: "Central Pest" },
       },
       {
+        id: "budapest-h17",
+        name: { ko: "페스트 구시가(벨바로시)", en: "Pest inner city (Belváros)" },
+        description: { ko: "옛 페스트 성벽 안쪽이던 다뉴브 강변 도심으로, 보행자 거리 바치 거리와 뵈뢰시마르티 광장, 대성당까지 이어지는 골목에 카페와 상점이 모여 있습니다.", en: "The old walled core of Pest by the Danube: the pedestrian Váci Street, Vörösmarty Square and the lanes leading up to St Stephen’s Basilica, full of cafés and shops." },
+        image: "/highlights/budapest-17.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=V%C3%A1ci%20utca%20Budapest",
+        group: { ko: "페스트 도심", en: "Central Pest" },
+      },
+      {
         id: "budapest-h6",
         name: { ko: "중앙시장", en: "Great Market Hall" },
         description: { ko: "파프리카·스트리트푸드 대형 시장입니다.", en: "Paprika and street-food market hall." },

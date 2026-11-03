@@ -349,6 +349,7 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'budapest-h1': [47.507, 19.04527],
   'budapest-h13': [47.50397, 19.04479],
   'budapest-h8': [47.50078, 19.05397],
+  'budapest-h17': [47.4966296, 19.0502206],
   'budapest-h6': [47.48658, 19.05899],
   'budapest-h12': [47.4961, 19.06087],
   'budapest-h11': [47.50287, 19.05816],

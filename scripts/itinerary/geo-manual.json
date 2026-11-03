@@ -643,5 +643,10 @@
     45.8142676,
     15.974127,
     "OSM Nominatim \"Strossmayerovo šetalište\""
+  ],
+  "budapest-h17": [
+    47.4966296,
+    19.0502206,
+    "OSM Nominatim \"Vörösmarty tér\" (heart of Belváros)"
   ]
 }
