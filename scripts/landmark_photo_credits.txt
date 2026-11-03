@@ -1841,3 +1841,5 @@ highlights/milan-17.jpg | https://commons.wikimedia.org/wiki/File:San_Siro_(1581
 highlights/milan-18.jpg | https://commons.wikimedia.org/wiki/File:Veduta_delle_tre_torri_del_quartiere_Citylife_a_Milano.jpg | CC BY-SA 4.0 | Paolobon140
 highlights/milan-19.jpg | https://commons.wikimedia.org/wiki/File:Fondazione_PRADA,_Via_Ripamonti_-_Largo_Isarco_area,_Golden_Tower_Rem_Koolhass_design.jpg | CC BY-SA 4.0 | DesignerToparchitect
 festivals/milan-fashion-week.jpg | https://commons.wikimedia.org/wiki/File:Sofi_Eliseeva_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg | CC BY-SA 2.0 | 
+highlights/stuttgart-1.jpg | https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Museum_201312_03_blue_hour.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/stuttgart-2.jpg | https://commons.wikimedia.org/wiki/File:Stuttgart_Porsche_Museum_(Ank_Kumar,_Infosys_Limited)_06.jpg | CC BY-SA 4.0 | Ank Kumar
