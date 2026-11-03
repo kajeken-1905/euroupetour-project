@@ -71,4 +71,32 @@ export const placesATExtra: Place[] = [
 
   place('hallstatt-bakery-1', 'hallstatt', 'bakery', 'Maislinger', 'Seestraße 156, 4830 Hallstatt, Austria', '호숫가의 빵집 겸 카페. 소금 광산 염수와 자체 사워도우로 매일 빵을 굽습니다.', 'Lakeside bakery-café baking daily with salt-mine brine and its own sourdough.'),
   place('hallstatt-cafe-1', 'hallstatt', 'cafe', 'Café Derbl', 'Marktplatz 61, 4830 Hallstatt', '마르크트 광장의 카페 겸 식당. 직접 만든 케이크와 지역 요리를 냅니다.', 'Café-restaurant on the market square serving homemade cakes and regional dishes.'),
+
+  // —— durnstein ——
+  place('durnstein-fine_dining-1', 'durnstein', 'fine_dining', 'Loibnerhof', 'Unterloiben 7, 3601 Dürnstein', '운터로이벤 마을의 바하우 향토 요리 식당. 미쉐린 가이드 선정.', 'Wachau country cooking in Unterloiben. In the MICHELIN Guide.'),
+  place('durnstein-bakery-1', 'durnstein', 'bakery', 'Bäckerei Schmidl', 'Dürnstein 21, 3601 Dürnstein', '마을 중심 거리의 빵집. 바하우 전통 빵 라벨을 굽습니다.', 'Bakery on the main street, baking the Wachau’s traditional Laberl rolls.'),
+
+  // —— bad-ischl ——
+  place('bad-ischl-fine_dining-1', 'bad-ischl', 'fine_dining', 'Spoarherd Gastropub', 'Leitenbergerstraße 2, 4820 Bad Ischl', '시내의 가스트로펍.', 'Gastropub in the town.'),
+  place('bad-ischl-bakery-1', 'bad-ischl', 'bakery', 'Konditorei Zauner', 'Pfarrgasse 7, 4820 Bad Ischl', '1832년에 문을 연 제과점. 츠아우너슈톨렌이 대표 과자입니다.', 'Confectioner founded in 1832, known for its Zaunerstollen.'),
+  place('bad-ischl-cafe-1', 'bad-ischl', 'cafe', 'Rührwerk Bad Ischl', 'Kaiser-Franz-Josef-Straße 3-5, 4820 Bad Ischl', '시내 중심의 카페.', 'Café in the town centre.'),
+  place('bad-ischl-cafe-2', 'bad-ischl', 'cafe', 'Café Bar Johann', 'Schröpferplatz 2, 4820 Bad Ischl', '슈뢰퍼 광장의 카페.', 'Café on the Schröpferplatz.'),
+
+  // —— werfen ——
+  place('werfen-fine_dining-1', 'werfen', 'fine_dining', 'Obauer', 'Markt 46, 5450 Werfen', '오바우어 형제의 레스토랑. 미쉐린 2스타.', 'The Obauer brothers’ restaurant. Two Michelin stars.', { michelin: 'star2' }),
+  place('werfen-fine_dining-2', 'werfen', 'fine_dining', 'Stiege No1', 'Markt 10, 5450 Werfen', '마르크트 거리의 레스토랑.', 'Restaurant on the Markt.'),
+
+  // —— zell-am-see ——
+  place('zell-am-see-fine_dining-1', 'zell-am-see', 'fine_dining', 'Erlhof', 'Erlhofweg 11, 5700 Zell am See', '호수 동쪽 호텔의 잘츠부르크 향토 요리 식당. 미쉐린 가이드 선정.', 'Regional cooking at a hotel on the east shore of the lake. In the MICHELIN Guide.'),
+  place('zell-am-see-fine_dining-2', 'zell-am-see', 'fine_dining', 'Seecamp Restaurant by Rudi Eder', 'Thumersbacher Straße 34, 5700 Zell am See', '호숫가 캠핑장의 오스트리아 요리 식당.', 'Austrian restaurant at the lakeside campsite.'),
+  place('zell-am-see-bakery-1', 'zell-am-see', 'bakery', 'Bäckerei Unterberger', 'Postplatz 4, 5700 Zell am See', '시내 우체국 광장의 빵집.', 'Bakery on the Postplatz in the centre.'),
+  place('zell-am-see-cafe-1', 'zell-am-see', 'cafe', 'Bella Bean Coffee Roastery', 'Schloßplatz 2a, 5700 Zell am See', '시내 중심의 스페셜티 커피 로스터리.', 'Speciality coffee roastery in the centre.'),
+
+  // —— klagenfurt ——
+  place('klagenfurt-fine_dining-1', 'klagenfurt', 'fine_dining', 'Gasthaus im Landhaushof', 'Landhaushof 1, 9020 Klagenfurt', '주 의사당 안뜰의 오스트리아 요리 식당.', 'Austrian restaurant in the courtyard of the Landhaus.'),
+  place('klagenfurt-fine_dining-2', 'klagenfurt', 'fine_dining', 'Zum Heiligen Josef', 'Osterwitzgasse 7, 9020 Klagenfurt', '구시가의 오스트리아 요리 식당.', 'Austrian restaurant in the old town.'),
+  place('klagenfurt-fine_dining-3', 'klagenfurt', 'fine_dining', 'Das Vogelhaus', 'Domgasse 22, 9020 Klagenfurt', '대성당 근처의 케른텐 향토 요리 식당. 미쉐린 가이드 선정.', 'Carinthian cooking near the cathedral. In the MICHELIN Guide.'),
+  place('klagenfurt-bakery-1', 'klagenfurt', 'bakery', 'Fahrnberger Cafe Konditorei', 'St. Veiter Straße 144, 9020 Klagenfurt', '시내 북쪽의 제과점 겸 카페.', 'Pastry shop and café north of the centre.'),
+  place('klagenfurt-cafe-1', 'klagenfurt', 'cafe', 'Phoenix Book Café', 'Alter Platz 24, 9020 Klagenfurt', '알터 플라츠의 책 카페.', 'Book café on the Alter Platz.'),
+  place('klagenfurt-cafe-2', 'klagenfurt', 'cafe', 'Zero Gravity Specialty Coffee', 'Pernhartgasse 12, 9020 Klagenfurt', '구시가의 스페셜티 커피 카페.', 'Speciality coffee café in the old town.'),
 ]

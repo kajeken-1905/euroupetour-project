@@ -260,4 +260,22 @@ export const placesFRExtra: Place[] = [
   // —— calvi ——
   place('calvi-fine_dining-1', 'calvi', 'fine_dining', 'Umami', 'Quai Adolphe Landry, 20260 Calvi, France', '칼비 항구 앞 코르시카 요리 식당. 정어리 구이·생선 수프 등 생선 요리가 중심이고 관광철에만 엽니다.', 'Corsican restaurant on the Calvi harbour focusing on fish such as grilled sardines and fish soup; open in season only.'),
   place('calvi-fine_dining-3', 'calvi', 'fine_dining', 'A Mandria di Pigna', 'Strada di a Croce, 20220 Pigna, France', '피냐 마을 입구 옛 양 우리 건물의 가족 식당. 미쉐린 가이드에 실려 있고 텃밭 채소와 장작불에 구운 새끼돼지·양고기를 냅니다. 4~10월 초에 엽니다(칼비에서 차로 20분).', 'Family restaurant in a former sheepfold at the entrance to Pigna, listed in the MICHELIN Guide, with garden vegetables and wood-fired suckling pig and lamb; open April to early October (20 min drive from Calvi).'),
+
+  // —— gordes ——
+  place('gordes-fine_dining-1', 'gordes', 'fine_dining', 'Les Bories', 'Route de l\'Abbaye de Sénanque, 84220 Gordes', '세낭크 수도원 가는 길 호텔의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking at a hotel on the road to Sénanque Abbey. In the MICHELIN Guide.'),
+  place('gordes-fine_dining-2', 'gordes', 'fine_dining', 'Le Teston', '19 impasse de la Tour Sarrazine, 84220 Gordes', '마을 안의 모던 프렌치 레스토랑.', 'Modern French restaurant in the village.'),
+  place('gordes-bakery-1', 'gordes', 'bakery', 'Le Fournil de Mamie Jeanne', 'Route Neuve, 84220 Gordes', '마을의 빵집.', 'Village bakery.'),
+
+  // —— aigues-mortes ——
+  place('aigues-mortes-fine_dining-1', 'aigues-mortes', 'fine_dining', 'L\'Atelier de Nicolas', '28 rue Alsace-Lorraine, 30220 Aigues-Mortes', '성벽 안의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking inside the walls. In the MICHELIN Guide.'),
+  place('aigues-mortes-fine_dining-2', 'aigues-mortes', 'fine_dining', 'Le Paiou', '1 rue du 4 Septembre, 30220 Aigues-Mortes', '성벽 안의 모던 프렌치 레스토랑.', 'Modern French restaurant inside the walls.'),
+  place('aigues-mortes-bakery-1', 'aigues-mortes', 'bakery', 'Délices des Anges', '23 Grand Rue Jean Jaurès, 30220 Aigues-Mortes', '중심가의 과자점.', 'Sweet shop on the main street.'),
+  place('aigues-mortes-cafe-1', 'aigues-mortes', 'cafe', 'Les Fées Café', '4 rue Émile Zola, 30220 Aigues-Mortes', '성벽 안의 카페.', 'Café inside the walls.'),
+
+  // —— cannes ——
+  place('cannes-fine_dining-1', 'cannes', 'fine_dining', 'La Cantine Provençale', '9 rue Bivouac Napoléon, 06400 Cannes', '프로방스 요리를 내는 식당.', 'Provençal restaurant.'),
+  place('cannes-fine_dining-2', 'cannes', 'fine_dining', 'L\'Assiette Provençale', '9 quai Saint-Pierre, 06400 Cannes', '옛 항구 앞의 프로방스 요리 식당.', 'Provençal restaurant on the old port.'),
+  place('cannes-bakery-1', 'cannes', 'bakery', 'Le Pain Paillasse', '49 rue Georges Clemenceau, 06400 Cannes', '르 쉬케 언덕 아래의 빵집.', 'Bakery below the Le Suquet hill.'),
+  place('cannes-cafe-1', 'cannes', 'cafe', 'AMAMO Speciality Coffee', '74 rue Meynadier, 06400 Cannes', '메나디에 거리의 스페셜티 커피 카페.', 'Speciality coffee café on the Rue Meynadier.'),
+  place('cannes-cafe-2', 'cannes', 'cafe', 'Cafés Sauvage', '12 rue Hélène Vagliano, 06400 Cannes', '시내 중심의 커피숍.', 'Coffee shop in the centre.'),
 ]

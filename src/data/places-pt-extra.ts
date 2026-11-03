@@ -140,4 +140,10 @@ export const placesPTExtra: Place[] = [
 
   place('guimaraes-bakery-1', 'guimaraes', 'bakery', 'Pastelaria Clarinha', 'Rua de Santa Maria 44, 4800-443 Guimarães, Portugal', '1953년 토우랄 광장에서 시작해 2015년부터 산타 마리아 거리로 옮긴 제과점. 토르타 데 기마랑이스가 대표입니다.', 'Pastry shop founded on Largo do Toural in 1953, on Rua de Santa Maria since 2015, known for tortas de Guimarães.'),
   place('guimaraes-bakery-2', 'guimaraes', 'bakery', 'Casa Costinhas', 'Rua de Santa Maria 68, 4800-675 Guimarães', '산타 클라라 수녀원 레시피를 이어온 전통 과자점. 토르타 데 기마랑이스가 대표이고 주말은 쉽니다.', 'Traditional sweet shop keeping Santa Clara convent recipes, known for tortas de Guimarães; closed weekends.'),
+
+  // —— tomar ——
+  place('tomar-fine_dining-1', 'tomar', 'fine_dining', 'O Tabuleiro', 'R. Serpa Pinto 146, 2300 Tomar', '중심가의 포르투갈 요리 식당.', 'Portuguese restaurant on the main street.'),
+  place('tomar-fine_dining-2', 'tomar', 'fine_dining', 'Tabernáculo do Rio', 'R. Marquês de Pombal 60, 2300-510 Tomar', '나방강 건너편의 식당.', 'Restaurant across the Nabão river.'),
+  place('tomar-bakery-1', 'tomar', 'bakery', 'P\'tit Français', 'R. da Silva Magalhães 111, 2300-593 Tomar', '시내의 프랑스식 제과점.', 'French-style pastry shop in the town.'),
+  place('tomar-cafe-1', 'tomar', 'cafe', 'Hanne Café', 'R. Serpa Pinto 57, 2300-592 Tomar', '중심가의 카페.', 'Café on the main street.'),
 ]

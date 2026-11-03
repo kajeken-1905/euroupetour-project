@@ -62,4 +62,9 @@ export const placesHUExtra: Place[] = [
   place('tihany-fine_dining-1', 'tihany', 'fine_dining', 'Tihanyi Vinarius', 'Kiserdőtelepi út, 8237 Tihany', '티하니의 컨템퍼러리 레스토랑. 미쉐린 가이드 선정. 지금은 구글지도에 임시 휴업으로 나오니 가기 전에 확인하세요.', 'Contemporary restaurant in Tihany. In the MICHELIN Guide. Google Maps currently shows it as temporarily closed, so check before you go.'),
   place('tihany-bakery-1', 'tihany', 'bakery', 'Apátsági Rege Cukrászda', 'Kossuth Lajos u. 22, 8237 Tihany', '수도원 언덕의 제과점 겸 카페. 테라스에서 벌러톤 호수가 보입니다.', 'Cake shop and café on the abbey hill, with Lake Balaton views from the terrace.'),
   place('tihany-cafe-1', 'tihany', 'cafe', 'Énidő Specialty Cafe', 'Rév u. 2, 8237 Tihany', '페리 선착장 쪽 레브 거리의 스페셜티 커피 카페.', 'Speciality coffee café on Rév utca by the ferry pier.'),
+
+  // —— szentendre ——
+  place('szentendre-fine_dining-1', 'szentendre', 'fine_dining', 'Teyföl', 'Városház tér 2, 2000 Szentendre', '시청 광장의 헝가리 요리 식당. 미쉐린 가이드 선정.', 'Hungarian restaurant on the town-hall square. In the MICHELIN Guide.'),
+  place('szentendre-cafe-1', 'szentendre', 'cafe', 'Café Lex', 'Alkotmány u. 5, 2000 Szentendre', '구시가 골목의 카페.', 'Café in an old-town lane.'),
+  place('szentendre-cafe-2', 'szentendre', 'cafe', 'Parti Medve Könyvesbolt és Kávézó', 'Ignatovity Jakov u. 2, 2000 Szentendre', '서점 겸 카페.', 'Bookshop and café.'),
 ]

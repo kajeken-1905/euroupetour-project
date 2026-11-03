@@ -61,4 +61,14 @@ export const placesCZExtra: Place[] = [
   place('olomouc-bakery-1', 'olomouc', 'bakery', 'Pekařství Sázava', 'Ostružnická 343, 779 00 Olomouc', '구시가 오스트루주니츠카 거리의 빵집.', 'Bakery on Ostružnická street in the old town.'),
   place('olomouc-cafe-1', 'olomouc', 'cafe', 'Pikola espresso bar', 'Ostružnická 337/30, 779 00 Olomouc', '구시가 오스트루주니츠카 거리의 에스프레소 바.', 'Espresso bar on Ostružnická street in the old town.'),
   place('olomouc-cafe-2', 'olomouc', 'cafe', 'KAFE JAK LUSK', 'třída Svobody 646/4, 779 00 Olomouc', '구시가 가장자리 스보보디 거리의 카페.', 'Café on třída Svobody at the edge of the old town.'),
+
+  // —— telc ——
+  place('telc-bakery-1', 'telc', 'bakery', 'Cukrárna-Kavárna Haas', 'nám. Zachariáše z Hradce 2, 588 56 Telč', '중앙 광장의 제과점 겸 카페.', 'Cake shop and café on the main square.'),
+  place('telc-cafe-1', 'telc', 'cafe', 'Café Telč', 'Na Můstku 37, 588 56 Telč', '구시가의 에스프레소 바.', 'Espresso bar in the old town.'),
+
+  // —— mikulov ——
+  place('mikulov-fine_dining-1', 'mikulov', 'fine_dining', 'Bistro Drogérka', 'Náměstí 28/23, 692 01 Mikulov', '중앙 광장의 비스트로.', 'Bistro on the main square.'),
+  place('mikulov-fine_dining-2', 'mikulov', 'fine_dining', 'Bistro W Kodiak', 'Jiráskova 2, 692 01 Mikulov', '시내의 비스트로.', 'Bistro in the town.'),
+  place('mikulov-bakery-1', 'mikulov', 'bakery', 'Pekařství a bistro Křižákovi', 'Náměstí 207, 692 01 Mikulov', '중앙 광장의 빵집 겸 비스트로.', 'Bakery and bistro on the main square.'),
+  place('mikulov-cafe-1', 'mikulov', 'cafe', 'moji', 'Svobody 240/4, 692 01 Mikulov', '시내의 커피숍.', 'Coffee shop in the town.'),
 ]

@@ -110,4 +110,16 @@ export const placesGRExtra: Place[] = [
   place('zakynthos-fine_dining-1', 'zakynthos', 'fine_dining', 'Spartakos Tavern', 'Lomvardou 74, 291 00 Zakynthos, Greece', '자킨토스 타운 항구 쪽 롬바르두 거리의 타베르나. 해산물과 양고기 클레프티코를 냅니다.', 'Taverna on Lomvardou Street by the Zakynthos Town harbour, serving seafood and lamb kleftiko.'),
   place('zakynthos-fine_dining-2', 'zakynthos', 'fine_dining', 'Porto Limnionas Tavern', 'Porto Limnionas, Agios Leon, 290 92 Zakynthos, Greece', '서해안 포르토 림니오나스 만 절벽 위의 타베르나. 해산물을 내고 계단으로 바다에 내려갈 수 있습니다.', 'Clifftop taverna above the Porto Limnionas cove on the west coast, serving seafood, with steps down to the water.'),
   place('zakynthos-fine_dining-3', 'zakynthos', 'fine_dining', 'Taverna Apelati', 'Zakynthos–Keri Road, Apelati, 290 92 Keri, Greece', '케리 근처 아펠라티의 가족 운영 타베르나. 자기 포도밭 와인과 무사카·토끼 요리를 냅니다. 일요일 휴무.', 'Family-run taverna at Apelati near Keri, serving wine from its own vineyard with moussaka and rabbit; closed Sundays.'),
+
+  // —— hydra ——
+  place('hydra-fine_dining-1', 'hydra', 'fine_dining', 'Paradosiakó', 'Tompazi 8, Hydra 180 40', '항구 뒤편의 그리스 가정식 식당.', 'Greek home-style restaurant behind the harbour.'),
+  place('hydra-fine_dining-2', 'hydra', 'fine_dining', 'Veranda Restaurant', 'Sahini 4, Hydra 180 40', '항구가 내려다보이는 테라스 식당.', 'Terrace restaurant overlooking the harbour.'),
+  place('hydra-bakery-1', 'hydra', 'bakery', 'Tsagkaris Pastries', 'Ikonomou, Hydra 180 40', '이드라 아몬드 과자를 파는 제과점.', 'Pastry shop selling Hydra’s almond sweets.'),
+
+  // —— aegina ——
+  place('aegina-fine_dining-1', 'aegina', 'fine_dining', 'Ouzeri o Skotadis', 'Leof. Dimokratias 46, Aegina 180 10', '항구 앞 해안길의 우제리.', 'Ouzeri on the harbour-front avenue.'),
+  place('aegina-fine_dining-2', 'aegina', 'fine_dining', 'Maistrali Restaurant', 'Leof. N. Kazantzaki 3, Aegina 180 10', '항구 근처의 그리스 요리 식당.', 'Greek restaurant near the harbour.'),
+  place('aegina-bakery-1', 'aegina', 'bakery', 'Mourtzis Pistachio', 'Leof. Dimokratias 6, Aegina 180 10', '에기나 특산 피스타치오와 전통 과자를 파는 가게.', 'Shop selling Aegina’s pistachios and traditional sweets.'),
+  place('aegina-bakery-2', 'aegina', 'bakery', 'Melenio', 'Mitropoleos 4, Aegina 180 10', '시내의 파티스리.', 'Patisserie in the town.'),
+  place('aegina-cafe-1', 'aegina', 'cafe', 'Remvi', 'Leof. Dimokratias 51, Aegina 180 10', '항구 앞 해안길의 커피숍.', 'Coffee shop on the harbour-front avenue.'),
 ]

@@ -190,4 +190,12 @@ export const placesUKExtra: Place[] = [
   // —— derry ——
   place('derry-fine_dining-1', 'derry', 'fine_dining', 'Walled City Brewery', '70 Ebrington Square, Derry BT47 6FA', '에브링턴 광장의 양조장 겸 탭룸. 직접 만든 맥주와 식사를 냅니다.', 'Brewery and taproom on Ebrington Square, serving its own beers with food.', { image: '/places/derry-fine_dining-1.jpg' }),
   place('derry-fine_dining-2', 'derry', 'fine_dining', 'Pyke ’n’ Pommes POD', '124 Strand Road, Derry BT48 7NS', '강변의 버스·컨테이너 주방에서 시작한 길거리 음식점. 시내 매장은 2026년 초 문을 닫았습니다.', 'Quayside street-food kitchen in a bus and container; the town restaurant closed in early 2026.', { image: '/places/derry-fine_dining-2.jpg' }),
+
+  // —— whitby ——
+  place('whitby-fine_dining-1', 'whitby', 'fine_dining', 'Magpie Café', '14 Pier Road, Whitby YO21 3PU', '항구 앞의 피시앤칩스·해산물 식당.', 'Fish-and-chips and seafood restaurant facing the harbour.'),
+  place('whitby-fine_dining-2', 'whitby', 'fine_dining', 'Trenchers', 'New Quay Road, Whitby YO21 1DH', '역 근처의 피시앤칩스·해산물 식당.', 'Fish-and-chips and seafood restaurant near the station.'),
+  place('whitby-fine_dining-3', 'whitby', 'fine_dining', 'The Brasserie at Saltmoore', 'Saltmoore, Sandsend Road, Whitby YO21 3ST', '샌즈엔드 길 호텔의 모던 브리티시 레스토랑. 미쉐린 가이드 선정.', 'Modern British restaurant in a hotel on the Sandsend road. In the MICHELIN Guide.'),
+  place('whitby-bakery-1', 'whitby', 'bakery', 'Botham\'s of Whitby', '35/39 Skinner Street, Whitby YO21 3AH', '스키너 거리의 오래된 빵집 겸 찻집.', 'Long-established bakery and tea room on Skinner Street.'),
+  place('whitby-cafe-1', 'whitby', 'cafe', 'Sherlocks Coffee Shop', 'Rose and Crown Yard, 10 Flowergate, Whitby YO21 3BA', '플라워게이트 골목 안쪽의 커피숍.', 'Coffee shop in a yard off Flowergate.'),
+  place('whitby-cafe-2', 'whitby', 'cafe', 'Mr Cooper’s Coffee House', '72 Church Street, Whitby YO22 4AS', '수도원 쪽 처치 거리의 커피하우스.', 'Coffee house on Church Street, on the abbey side.'),
 ]

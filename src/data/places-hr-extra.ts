@@ -58,4 +58,15 @@ export const placesHRExtra: Place[] = [
   place('hvar-cafe-2', 'hvar', 'cafe', 'kava37', 'Kroz Burak 37, 21450 Hvar', '리바 옆 골목의 스페셜티 커피 카페. 2018년 시작한 흐바르 커피 브랜드의 첫 가게로 V60·콜드브루를 내고 원두도 팝니다.', 'Specialty coffee bar in a lane off the Riva, the first shop of a Hvar coffee brand founded in 2018, serving V60 and cold brew and selling its own beans.'),
   place('hvar-cafe-3', 'hvar', 'cafe', 'Coffee Snob - Specialty Coffee', 'Dr. Mate Miličića 13, 21450 Hvar', '구시가 골목의 스페셜티 커피 카페. 핸드드립·에스프레소를 내고 테라스가 있습니다.', 'Specialty coffee café in an old-town lane serving pour-over and espresso, with a terrace.'),
   place('hvar-cafe-4', 'hvar', 'cafe', 'Oasis Specialty Coffee and Juice Bar', 'Trg svetog Stjepana 18, 21450 Hvar', '성 스테판 광장(퍄차)의 스페셜티 커피·주스 바. 피스타치오 크루아상·아이스 말차 라테가 있고 반려동물 동반이 됩니다.', 'Specialty coffee and juice bar on St Stephen’s Square (Pjaca) with pistachio croissants and iced matcha; pet-friendly.'),
+
+  // —— trogir ——
+  place('trogir-fine_dining-1', 'trogir', 'fine_dining', 'Il Ponte', 'Kardinala Alojza Stepinca 15a, 21220 Trogir', '구시가 맞은편 치오보섬 쪽 다리 옆의 컨템퍼러리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary restaurant by the bridge to Čiovo, across from the old town. In the MICHELIN Guide.'),
+  place('trogir-fine_dining-2', 'trogir', 'fine_dining', 'Konoba Škrapa', 'Ul. Hrvatskih mučenika 13, 21220 Trogir', '구시가의 달마티아 요리 식당.', 'Dalmatian restaurant in the old town.'),
+  place('trogir-bakery-1', 'trogir', 'bakery', 'Balina Trogir', 'Šubićeva ul. 18, 21220 Trogir', '달마티아 튀김 과자 프리툴레 가게.', 'Shop for fritule, Dalmatian fried doughnuts.'),
+  place('trogir-cafe-1', 'trogir', 'cafe', 'CHI Specialty Coffee Roasters', 'Budislavićeva ul. 3A, 21220 Trogir', '구시가의 스페셜티 커피 로스터리.', 'Speciality coffee roaster in the old town.'),
+  place('trogir-cafe-2', 'trogir', 'cafe', 'Cafe Smokvica', 'Radovanov trg 9, 21220 Trogir', '구시가 라도반 광장의 카페.', 'Café on Radovan Square in the old town.'),
+
+  // —— plitvice ——
+  place('plitvice-fine_dining-1', 'plitvice', 'fine_dining', 'Restaurant Petar', 'Rastovača 4, 53231 Plitvička Jezera', '국립공원 1번 입구 근처 라스토바차 마을의 식당.', 'Restaurant in Rastovača village near Entrance 1.'),
+  place('plitvice-fine_dining-2', 'plitvice', 'fine_dining', 'Degenija', 'Selište Drežničko bb, 47245 Rakovica', '공원 북쪽 국도변의 크로아티아 요리 식당.', 'Croatian restaurant on the main road north of the park.'),
 ]

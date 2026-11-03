@@ -228,4 +228,26 @@ export const placesESExtra: Place[] = [
 
   place('gibraltar-bakery-2', 'gibraltar', 'bakery', 'Piece of Cake Boutique Bakery', 'The Residence, 29-35 Engineer Ln, Gibraltar', '케이크·컵케이크·브라우니를 만드는 부티크 빵집. 일요일은 쉽니다.', 'Boutique bakery making cakes, cupcakes and brownies; closed Sundays.'),
   place('gibraltar-cafe-1', 'gibraltar', 'cafe', 'Amar’s Kosher Bakery & Restaurant', '1 Convent Place, Gibraltar GX11 1AA', '컨벤트 플레이스의 코셔 빵집 겸 식당.', 'Kosher bakery and restaurant on Convent Place.'),
+
+  // —— cuenca ——
+  place('cuenca-fine_dining-1', 'cuenca', 'fine_dining', 'Raff San Pedro', 'C. San Pedro 58, 16001 Cuenca', '구시가 산 페드로 거리의 레스토랑.', 'Restaurant on Calle San Pedro in the old town.'),
+  place('cuenca-fine_dining-2', 'cuenca', 'fine_dining', 'Romera Bistrót', 'C. de los Tintes 19, 16002 Cuenca', '우에카르강 근처의 비스트로.', 'Bistro near the Huécar river.'),
+  place('cuenca-bakery-1', 'cuenca', 'bakery', 'Pastelería Marisol', 'C. Diego Jiménez 4, 16004 Cuenca', '신시가의 제과점.', 'Pastry shop in the new town.'),
+  place('cuenca-cafe-1', 'cuenca', 'cafe', 'Hope Coffee', 'C. Hurtado de Mendoza 1, 16004 Cuenca', '신시가의 커피숍.', 'Coffee shop in the new town.'),
+
+  // —— tarragona ——
+  place('tarragona-fine_dining-1', 'tarragona', 'fine_dining', 'El Pòsit', 'Moll de Pescadors 25, 43004 Tarragona', '세라요 어항의 해산물 식당.', 'Seafood restaurant at the El Serrallo fishing port.'),
+  place('tarragona-fine_dining-2', 'tarragona', 'fine_dining', 'Casa Balcells', 'Pla de la Seu 5, 43003 Tarragona', '대성당 앞 광장의 지중해 요리 식당.', 'Mediterranean restaurant on the cathedral square.'),
+  place('tarragona-fine_dining-3', 'tarragona', 'fine_dining', 'La Xarxa', 'Carrer de Sant Pere 38, 43004 Tarragona', '세라요 지구의 해산물 레스토랑. 미쉐린 가이드 선정.', 'Seafood restaurant in the Serrallo district. In the MICHELIN Guide.'),
+  place('tarragona-bakery-1', 'tarragona', 'bakery', 'Dolce Pastis', 'Rambla Vella 3, 43003 Tarragona', '람블라 베야의 빵집.', 'Bakery on the Rambla Vella.'),
+  place('tarragona-cafe-1', 'tarragona', 'cafe', 'Petit Café Tarragona', 'Carrer d\'en Salinas 8, 43003 Tarragona', '구시가의 에스프레소 바.', 'Espresso bar in the old town.'),
+  place('tarragona-cafe-2', 'tarragona', 'cafe', 'Jardí Cafè', 'Carrer dels Caputxins 35, 43001 Tarragona', '신시가의 카페.', 'Café in the new town.'),
+
+  // —— sitges ——
+  place('sitges-fine_dining-1', 'sitges', 'fine_dining', 'Bar Tomeu', 'Carrer Jesús 8, 08870 Sitges', '시내 중심의 타파스 바.', 'Tapas bar in the centre.'),
+  place('sitges-fine_dining-2', 'sitges', 'fine_dining', 'Sitges Bon Estar', 'Carrer de les Parellades 63, 08870 Sitges', '시내 중심의 지중해 요리 식당.', 'Mediterranean restaurant in the centre.'),
+  place('sitges-bakery-1', 'sitges', 'bakery', 'Modo Boulangerie', 'Carrer de Rafael Llopart 22, 08870 Sitges', '시내의 빵집.', 'Bakery in the town.'),
+  place('sitges-bakery-2', 'sitges', 'bakery', 'St Pierre', 'Carrer de la Creu Roja 1, 08870 Sitges', '시내의 빵집.', 'Bakery in the town.'),
+  place('sitges-cafe-1', 'sitges', 'cafe', 'La Butaca Cafetería', 'Carrer de Santiago Rusiñol 36, 08870 Sitges', '시내의 커피숍.', 'Coffee shop in the town.'),
+  place('sitges-cafe-2', 'sitges', 'cafe', 'Bloom Coffee', 'Av. Camí de la Fita 10, 08870 Sitges', '시내 북쪽의 카페.', 'Café north of the centre.'),
 ]

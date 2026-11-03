@@ -109,6 +109,26 @@
 "ko": "시내 중심의 한식당. 비빔밥·떡볶이·도시락이 있고 월요일은 쉽니다.",
 "ok": 1
 },
+"aegina-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aegina-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aegina-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aegina-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aegina-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "agrigento-bakery-1": {
 "addr": "Piazza Cavour 19, 92100 Agrigento",
 "en": "Gelateria and pastry shop on a raised square with sea views, known for pistachio gelato and cannoli; closed Tuesdays.",
@@ -120,6 +140,22 @@
 "ko": "피란델로 극장과 전망대 사이, 옛 빵집 건물의 시칠리아 향토 요리 식당. 속 채운 정어리·카포나타 등을 냅니다.",
 "mi": "bib",
 "ok": 1
+},
+"aigues-mortes-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aigues-mortes-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aigues-mortes-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"aigues-mortes-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "aix-en-provence-bakery-1": {
 "ok": 1,
@@ -807,6 +843,22 @@
 "ayia-napa-fine_dining-3": {
 "del": "그 이름·주소의 식당을 찾을 수 없음"
 },
+"bad-ischl-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bad-ischl-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bad-ischl-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bad-ischl-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "baku-bakery-1": {
 "addr": "Dilara Aliyeva 220, Baku 1010, Azerbaijan",
 "ok": 1
@@ -856,6 +908,34 @@
 },
 "baku-korean-1": {
 "del": 1
+},
+"bamberg-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bamberg-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bamberg-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bamberg-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bamberg-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bamberg-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"bamberg-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "banja-luka-bakery-1": {
 "addr": "Kralja Petra I Karađorđevića 73, Banja Luka",
@@ -2599,6 +2679,26 @@
 "ko": "옛 여관 건물의 비스트로. 영국·유럽 요리와 안뜰 좌석이 있습니다.",
 "ok": 1
 },
+"cannes-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cannes-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cannes-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cannes-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cannes-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "canterbury-bakery-1": {
 "ok": 1
 },
@@ -2985,6 +3085,18 @@
 "cluj-napoca-korean-1": {
 "del": "unconfirmable"
 },
+"cochem-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cochem-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cochem-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "coimbra-bakery-1": {
 "del": "Pastelaria Penta not found (Fernão de Magalhães 22 is Pastelaria Arco-Iris)"
 },
@@ -3327,6 +3439,22 @@
 },
 "cph-kr-1": {
 "ok": 1
+},
+"cuenca-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cuenca-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cuenca-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"cuenca-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "debrecen-bakery-1": {
 "del": "not found"
@@ -3761,6 +3889,14 @@
 },
 "dubrovnik-korean-2": {
 "del": "not found"
+},
+"durnstein-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"durnstein-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "echternach-bakery-1": {
 "del": "Pâtisserie Hoffmann Echternach closed (owner announced closure)"
@@ -4320,6 +4456,30 @@
 "ko": "시 로드의 레스토랑. 미쉐린 가이드에 실려 있고 화~토요일에 엽니다.",
 "ok": 1
 },
+"garmisch-partenkirchen-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"garmisch-partenkirchen-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"garmisch-partenkirchen-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"garmisch-partenkirchen-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"garmisch-partenkirchen-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"garmisch-partenkirchen-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "gdansk-bakery-1": {
 "addr": "Słodowników 1, 80-823 Gdańsk, Poland",
 "en": "One of Gdańsk's oldest pastry shops; the cherry pączki and apple szarlotka are favourites.",
@@ -4800,6 +4960,18 @@
 "ko": "사우키홀 거리의 스몰 플레이트 비스트로. 미쉐린 가이드에 실려 있고 2025년 초 새 단장했습니다.",
 "ok": 1
 },
+"gordes-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"gordes-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"gordes-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "goreme-bakery-1": {
 "en": "Round-the-clock café on Göreme's main square, serving baklava, künefe and coffee.",
 "ko": "괴레메 중심 광장의 24시간 카페. 바클라바·퀴네페와 커피를 냅니다.",
@@ -5074,6 +5246,14 @@
 "en": "Converted-barn restaurant above the village with valley views, serving cheese fondue and raclette.",
 "ko": "마을 중심에서 조금 떨어진, 골짜기가 보이는 헛간 개조 식당. 치즈 퐁뒤·라클레트를 냅니다.",
 "ok": 1
+},
+"gruyeres-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"gruyeres-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "guimaraes-bakery-1": {
 "addr": "Rua de Santa Maria 44, 4800-443 Guimarães, Portugal",
@@ -5550,6 +5730,18 @@
 "en": "Seafood and steak restaurant on a stone lane near the main square, serving octopus carpaccio, shrimp risotto and châteaubriand; open April to October.",
 "ko": "광장 근처 돌길의 해산물·스테이크 레스토랑. 문어 카르파초·새우 리소토·샤토브리앙을 냅니다. 4~10월 영업.",
 "ok": 1
+},
+"hydra-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"hydra-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"hydra-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "ilulissat-fine_dining-1": {
 "ok": 1,
@@ -6120,6 +6312,30 @@
 "ok": 1
 },
 "kitzbuhel-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"klagenfurt-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"klagenfurt-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"klagenfurt-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"klagenfurt-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"klagenfurt-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"klagenfurt-fine_dining-3": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
@@ -8121,6 +8337,22 @@
 "ko": "칼람바카 시청 광장 분수 옆의 타베르나. 양갈비·무사카·오븐 양고기를 냅니다.",
 "ok": 1
 },
+"mikulov-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"mikulov-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"mikulov-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"mikulov-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "milan-bakery-1": {
 "addr": "Via Santa Maria alla Porta 11/a, 20123 Milano",
 "ok": 1
@@ -9872,6 +10104,38 @@
 "name": "Gostilna Rostelin",
 "ok": 1
 },
+"pisa-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pisa-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pisa-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pisa-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pisa-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pisa-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"plitvice-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"plitvice-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "plovdiv-bakery-1": {
 "addr": "ul. Sv. Sv. Kiril i Metodiy 16, Plovdiv",
 "en": "Local bakery with daily-baked traditional breads, banitsa and cakes.",
@@ -11057,6 +11321,22 @@
 "ko": "항구 끝 옛 와인 저장고의 이스트라 요리 식당. 지역 해산물과 플류칸치 파스타를 냅니다.",
 "ok": 1
 },
+"rudesheim-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"rudesheim-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"rudesheim-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"rudesheim-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "saint-malo-fine_dining-1": {
 "en": "Crêperie inside the walled town serving organic buckwheat galettes and over 60 ciders; listed in the MICHELIN Guide.",
 "ko": "성곽 안 구시가지의 크레프 레스토랑. 유기농 메밀 갈레트와 60종이 넘는 사과주를 내고 미쉐린 가이드에 실려 있습니다.",
@@ -11240,6 +11520,26 @@
 },
 "salzburg-fine_dining-4": {
 "ok": 1
+},
+"san-gimignano-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"san-gimignano-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"san-gimignano-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"san-gimignano-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"san-gimignano-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "san-marino-city-bakery-1": {
 "del": 1
@@ -11884,6 +12184,30 @@
 "ko": "스칼리제라 성 근처의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.",
 "mi": "star1",
 "ok": 1
+},
+"sitges-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sitges-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sitges-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sitges-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sitges-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sitges-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "skopje-bakery-1": {
 "del": "Silbo: mentioned in a guide but Majakovski 2 address unconfirmed; 'Silbo Furna' mixes two bakeries"
@@ -12637,6 +12961,18 @@
 "szeged-korean-1": {
 "del": "not found"
 },
+"szentendre-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"szentendre-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"szentendre-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "tallinn-bakery-1": {
 "en": "Sourdough bakery in a former mill building in the Rotermann Quarter, with cardamom buns; closed Sundays.",
 "ko": "로테르만 지구 옛 제분소 건물의 사워도우 빵집. 카다멈 번이 있고 일요일은 쉽니다.",
@@ -12781,6 +13117,30 @@
 "addr": "Via di Giovanni 45, 98039 Taormina",
 "ok": 1
 },
+"tarragona-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tarragona-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tarragona-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tarragona-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tarragona-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tarragona-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "tartu-bakery-1": {
 "del": 1
 },
@@ -12864,6 +13224,14 @@
 },
 "tbilisi-korean-3": {
 "del": "not found in Tbilisi"
+},
+"telc-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"telc-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "tenby-bakery-1": {
 "addr": "Lower Frog Street, Tenby SA70 7HS",
@@ -13190,6 +13558,22 @@
 "ko": "소코도베르 근처의 가정식 바. 카르카무사스와 톨레도식 자고새 요리가 있고 예약은 받지 않습니다.",
 "ok": 1
 },
+"tomar-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tomar-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tomar-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"tomar-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "torshavn-cafe-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -13435,6 +13819,26 @@
 },
 "trieste-fine_dining-1": {
 "ok": 1
+},
+"trogir-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"trogir-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"trogir-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"trogir-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"trogir-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "tromso-bakery-1": {
 "en": "Neighbourhood bakery in the new Vervet district where you can watch the baking.",
@@ -14462,6 +14866,38 @@
 "ko": "고른 반찬을 담아 주는 한식 구내식당 스타일 식당. 도시락과 한국식 치킨이 인기입니다.",
 "ok": 1
 },
+"werfen-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"werfen-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"whitby-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"whitby-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"whitby-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"whitby-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"whitby-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"whitby-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "windsor-bakery-1": {
 "del": "윈저에서 그 빵집을 찾을 수 없음"
 },
@@ -14905,6 +15341,22 @@
 },
 "zaragoza-korean-2": {
 "del": 1
+},
+"zell-am-see-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"zell-am-see-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"zell-am-see-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"zell-am-see-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "zermatt-bakery-1": {
 "addr": "Bahnhofstrasse 28, 3920 Zermatt",

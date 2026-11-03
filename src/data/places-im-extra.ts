@@ -13,4 +13,7 @@ export const placesIMExtra: Place[] = [
   // —— castletown / peel (Visit Isle of Man listings) ——
   place('peel-cafe-1', 'peel', 'cafe', 'The Coffee Station', 'Station Place, Peel', '필 부두 하우스 오브 마나난 바로 옆 커피숍.', 'Coffee shop beside the House of Manannan on Peel quayside.'),
   place('peel-cafe-2', 'peel', 'cafe', 'Roots by the Sea', '26 Shore Road, Peel IM5 1NH', '필 해변 길의 작은 동네 커피숍. 직접 만든 빵과 간식을 냅니다.', 'Small locally owned coffee shop on Peel’s shore road, with home-made bakes and snacks.'),
+
+  // —— castletown ——
+  place('castletown-fine_dining-1', 'castletown', 'fine_dining', 'The Castle Arms', 'The Quayside, Castletown IM9 1LD', '러셴 성 앞 부두의 오래된 펍.', 'Old pub on the quayside facing Castle Rushen.'),
 ]

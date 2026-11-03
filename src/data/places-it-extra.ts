@@ -349,4 +349,19 @@ export const placesITExtra: Place[] = [
   // —— cala-gonone ——
   place('cala-gonone-fine_dining-1', 'cala-gonone', 'fine_dining', 'Il Nuovo Gabbiano', 'Piazza del Porto, 08022 Cala Gonone, Italy', '항구 광장의 해산물 레스토랑.', 'Seafood restaurant on the harbour square.'),
   place('cala-gonone-fine_dining-3', 'cala-gonone', 'fine_dining', 'La Poltrona', 'Zona Centro Sportivo, 08022 Cala Gonone, Italy', '현지인이 즐겨 찾는 피자·레스토랑.', 'Local-favourite pizzeria-restaurant.'),
+
+  // —— pisa ——
+  place('pisa-fine_dining-1', 'pisa', 'fine_dining', 'Erbaluigia', 'Via San Frediano 10/12, 56126 Pisa', '구시가의 컨템퍼러리 토스카나 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary Tuscan cooking in the old town. In the MICHELIN Guide.'),
+  place('pisa-fine_dining-2', 'pisa', 'fine_dining', 'Osteria I Santi', 'Via Santa Maria 71, 56126 Pisa', '사탑 가는 길의 이탈리아 요리 식당.', 'Italian restaurant on the street to the Leaning Tower.'),
+  place('pisa-fine_dining-3', 'pisa', 'fine_dining', 'Il Peperoncino', 'Via Santa Maria 95, 56126 Pisa', '사탑 가는 길의 이탈리아 요리 식당.', 'Italian restaurant on the street to the Leaning Tower.'),
+  place('pisa-bakery-1', 'pisa', 'bakery', 'Bombolove Pisa', 'Piazza Garibaldi 14, 56126 Pisa', '가리발디 광장의 봄볼로네(이탈리아 도넛) 가게.', 'Bomboloni (Italian doughnut) shop on the Piazza Garibaldi.'),
+  place('pisa-cafe-1', 'pisa', 'cafe', 'Filter Coffee Lab', 'Via Santa Maria 30, 56126 Pisa', '스페셜티 커피 카페.', 'Speciality coffee café.'),
+  place('pisa-cafe-2', 'pisa', 'cafe', 'Caffè Letterario Volta Pagina', 'Via San Martino 71, 56125 Pisa', '아르노강 남쪽의 책 카페.', 'Literary café south of the Arno.'),
+
+  // —— san-gimignano ——
+  place('san-gimignano-fine_dining-1', 'san-gimignano', 'fine_dining', 'Linfa', 'Piazza Sant\'Agostino 19/A, 53037 San Gimignano', '산타고스티노 광장의 창의 요리 레스토랑. 미쉐린 가이드 선정.', 'Creative cooking on the Piazza Sant’Agostino. In the MICHELIN Guide.'),
+  place('san-gimignano-fine_dining-2', 'san-gimignano', 'fine_dining', 'San Martino 26', 'Via San Martino 26, 53037 San Gimignano', '성벽 안의 토스카나 요리 레스토랑. 미쉐린 가이드 선정.', 'Tuscan cooking inside the walls. In the MICHELIN Guide.'),
+  place('san-gimignano-fine_dining-3', 'san-gimignano', 'fine_dining', 'Le Vecchie Mura', 'Via Piandornella 15, 53037 San Gimignano', '옛 성벽 아래 공간의 토스카나 요리 식당.', 'Tuscan restaurant in a space under the old walls.'),
+  place('san-gimignano-bakery-1', 'san-gimignano', 'bakery', 'Forno Boboli', 'Via San Matteo 92, 53037 San Gimignano', '1909년부터 이어온 산 마테오 거리의 빵집.', 'Bakery on Via San Matteo, going since 1909.'),
+  place('san-gimignano-bakery-2', 'san-gimignano', 'bakery', 'Pasticceria Il Criollo', 'Via dei Fossi 3A, 53037 San Gimignano', '성벽 밖의 제과점.', 'Pastry shop outside the walls.'),
 ]

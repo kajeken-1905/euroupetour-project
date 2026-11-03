@@ -178,4 +178,8 @@ export const placesCHExtra: Place[] = [
   place('lauterbrunnen-cafe-1', 'lauterbrunnen', 'cafe', 'Flavours Cafe', 'Fuhren 452C, 3822 Lauterbrunnen', '마을 중심의 카페.', 'Café in the village centre.'),
   place('lauterbrunnen-cafe-2', 'lauterbrunnen', 'cafe', 'Cycling Bean Coffee-Bike', 'Pfrundmatte 419, 3822 Lauterbrunnen', '관광안내소 근처의 자전거 커피 노점.', 'Coffee bike near the tourist office.'),
   place('kandersteg-bakery-1', 'kandersteg', 'bakery', 'Feinbäckerei Tea Room Marmotte', 'Innere Dorfstrasse 19, 3718 Kandersteg', '마을 중심 도르프슈트라세의 빵집 겸 찻집.', 'Bakery and tea room on the main village street.'),
+
+  // —— gruyeres ——
+  place('gruyeres-fine_dining-1', 'gruyeres', 'fine_dining', 'Chalet de Gruyères', 'Rue du Bourg 53, 1663 Gruyères', '퐁뒤와 라클레트를 내는 스위스 요리 식당.', 'Swiss restaurant for fondue and raclette.'),
+  place('gruyeres-fine_dining-2', 'gruyeres', 'fine_dining', 'Auberge de la Halle', 'Rue du Bourg 24, 1663 Gruyères', '마을 중심 거리의 식당.', 'Restaurant on the village’s main street.'),
 ]

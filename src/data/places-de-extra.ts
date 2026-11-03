@@ -155,4 +155,32 @@ export const placesDEExtra: Place[] = [
   place('fussen-fine_dining-2', 'fussen', 'fine_dining', 'Beim Olivenbauer', 'Uferstraße 30, 87629 Füssen-Hopfen', '퓌센 호펜 지구 호숫가의 독일·이탈리아 요리 식당. 큰 비어가든이 있습니다.', 'German and Italian restaurant in the lakeside Hopfen district of Füssen, with a large beer garden.'),
   place('fussen-cafe-1', 'fussen', 'cafe', 'Caffè Lucca', 'Ritterstraße 9, 87629 Füssen, Germany', '구시가의 이탈리아식 카페. 아침·브런치와 글루텐 프리 디저트가 있습니다.', 'Italian-style café in the old town with breakfast, brunch and gluten-free desserts.'),
   place('fussen-bakery-1', 'fussen', 'bakery', 'Bäckerei Brunners', 'Reichenstraße 25, 87629 Füssen, Germany', '구시가 보행자 거리의 빵집 겸 카페. 가게에서 직접 굽는 지역 빵·케이크가 있습니다.', 'Bakery café on an old-town pedestrian street, baking regional breads and cakes on site.'),
+
+  // —— garmisch-partenkirchen ——
+  place('garmisch-partenkirchen-fine_dining-1', 'garmisch-partenkirchen', 'fine_dining', 'Gasthaus zur Schranne', 'Griesstraße 4, 82467 Garmisch-Partenkirchen', '바이에른 요리를 내는 식당.', 'Bavarian restaurant.'),
+  place('garmisch-partenkirchen-fine_dining-2', 'garmisch-partenkirchen', 'fine_dining', 'Zum Wildschütz', 'Bankgasse 9, 82467 Garmisch-Partenkirchen', '가르미슈 중심의 바이에른 요리 식당.', 'Bavarian restaurant in central Garmisch.'),
+  place('garmisch-partenkirchen-fine_dining-3', 'garmisch-partenkirchen', 'fine_dining', 'Husar', 'Fürstenstraße 25, 82467 Garmisch-Partenkirchen', '벽화가 그려진 집의 클래식 요리 레스토랑. 미쉐린 가이드 선정.', 'Classic cooking in a house with a painted façade. In the MICHELIN Guide.'),
+  place('garmisch-partenkirchen-bakery-1', 'garmisch-partenkirchen', 'bakery', 'Bäckerei Benedict Sieß', 'Ludwigstraße 7, 82467 Garmisch-Partenkirchen', '파르텐키르헨 루트비히 거리의 빵집.', 'Bakery on the Ludwigstraße in Partenkirchen.'),
+  place('garmisch-partenkirchen-cafe-1', 'garmisch-partenkirchen', 'cafe', 'Café Max', 'Griesstraße 10A, 82467 Garmisch-Partenkirchen', '가르미슈 중심의 카페.', 'Café in central Garmisch.'),
+  place('garmisch-partenkirchen-cafe-2', 'garmisch-partenkirchen', 'cafe', 'Wildkaffee Café', 'Bahnhofstraße 40+42, 82467 Garmisch-Partenkirchen', '커피 로스터리의 카페.', 'Café of a local coffee roaster.'),
+
+  // —— cochem ——
+  place('cochem-fine_dining-1', 'cochem', 'fine_dining', 'Zom Stüffje', 'Oberbachstraße 14, 56812 Cochem', '구시가의 독일 요리 식당.', 'German restaurant in the old town.'),
+  place('cochem-bakery-1', 'cochem', 'bakery', 'Bäckerei Gebr. Lutz', 'Ravenestraße 18, 56812 Cochem', '구시가의 빵집.', 'Bakery in the old town.'),
+  place('cochem-cafe-1', 'cochem', 'cafe', 'Cochemer Kaffeerösterei', 'Markt 6, 56812 Cochem', '마르크트 광장의 커피 로스터리 카페.', 'Coffee roastery café on the market square.'),
+
+  // —— rudesheim ——
+  place('rudesheim-fine_dining-1', 'rudesheim', 'fine_dining', 'BEES Restaurant', 'Am Rottland 6, 65385 Rüdesheim am Rhein', '농장 식재료로 요리하는 레스토랑. 미쉐린 가이드 선정.', 'Farm-to-table restaurant. In the MICHELIN Guide.'),
+  place('rudesheim-fine_dining-2', 'rudesheim', 'fine_dining', 'Café-Restaurant Stadt Frankfurt', 'Marktstraße 30, 65385 Rüdesheim am Rhein', '구시가의 독일 요리 식당.', 'German restaurant in the old town.'),
+  place('rudesheim-bakery-1', 'rudesheim', 'bakery', 'Bäckerei Aulmann', 'Langstraße 15, 65385 Rüdesheim am Rhein', '구시가 랑 거리의 빵집.', 'Bakery on the Langstraße in the old town.'),
+  place('rudesheim-cafe-1', 'rudesheim', 'cafe', 'Art Cafe', 'Drosselgasse 5, 65385 Rüdesheim am Rhein', '드로셀가세 골목의 카페.', 'Café in the Drosselgasse.'),
+
+  // —— bamberg ——
+  place('bamberg-fine_dining-1', 'bamberg', 'fine_dining', 'Schlenkerla', 'Dominikanerstraße 6, 96049 Bamberg', '훈제 맥주(라우흐비어) 양조장의 프랑켄 요리 식당.', 'Rauchbier (smoked beer) brewery tavern serving Franconian food.'),
+  place('bamberg-fine_dining-2', 'bamberg', 'fine_dining', 'Brüderla', 'Obstmarkt 1, 96047 Bamberg', '구시가의 프랑켄 요리 식당.', 'Franconian restaurant in the old town.'),
+  place('bamberg-fine_dining-3', 'bamberg', 'fine_dining', 'HENRII', 'Untere Mühlbrücke 5, 96047 Bamberg', '레그니츠강 다리 옆의 인터내셔널 요리 레스토랑. 미쉐린 가이드 선정.', 'International cooking by the Regnitz bridges. In the MICHELIN Guide.'),
+  place('bamberg-bakery-1', 'bamberg', 'bakery', 'Kapuzinerbeck', 'Kapuzinerstraße 6, 96047 Bamberg', '구시가의 빵집.', 'Bakery in the old town.'),
+  place('bamberg-bakery-2', 'bamberg', 'bakery', 'Alfred Seel', 'Lugbank 8, 96049 Bamberg', '구시가 산 쪽의 빵집 겸 제과점.', 'Bakery and pastry shop in the hill town.'),
+  place('bamberg-cafe-1', 'bamberg', 'cafe', 'Zuckerstück', 'Obere Sandstraße 4, 96049 Bamberg', '잔트 지구의 카페.', 'Café in the Sand quarter.'),
+  place('bamberg-cafe-2', 'bamberg', 'cafe', 'Hofcafé', 'Austraße 14, 96047 Bamberg', '안뜰 건물 2층의 카페.', 'Café on the first floor of a courtyard building.'),
 ]
