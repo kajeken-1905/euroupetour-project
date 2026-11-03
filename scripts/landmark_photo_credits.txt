@@ -1782,7 +1782,6 @@ highlights/split-12.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of
 highlights/dubrovnik-2.jpg | own photo | own photo | 사용자 촬영
 highlights/dubrovnik-3.jpg | own photo | own photo | 사용자 촬영
 highlights/dubrovnik-7.jpg | own photo | own photo | 사용자 촬영
-highlights/dubrovnik-11.jpg | own photo | own photo | 사용자 촬영
 highlights/dubrovnik-15.jpg | own photo | own photo | 사용자 촬영
 highlights/dubrovnik-16.jpg | own photo | own photo | 사용자 촬영
 highlights/dubrovnik-17.jpg | own photo | own photo | 사용자 촬영
