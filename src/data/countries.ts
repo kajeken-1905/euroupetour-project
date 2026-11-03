@@ -430,7 +430,7 @@ export const countries: Country[] = [
       background: '#F7F4E0',
       text: '#111111',
     },
-    cityIds: ['brussels', 'bruges', 'ghent', 'antwerp', 'leuven', 'dinant'],
+    cityIds: ['brussels', 'bruges', 'ghent', 'antwerp', 'leuven', 'dinant', 'mechelen'],
   },
   {
     id: 'nl',
@@ -459,7 +459,7 @@ export const countries: Country[] = [
       background: '#F8ECEC',
       text: '#1A0A0C',
     },
-    cityIds: ['amsterdam', 'rotterdam', 'the-hague', 'utrecht', 'haarlem', 'delft', 'maastricht', 'giethoorn'],
+    cityIds: ['amsterdam', 'rotterdam', 'the-hague', 'utrecht', 'haarlem', 'delft', 'maastricht', 'giethoorn', 'leiden'],
   },
   {
     id: 'lu',
@@ -885,7 +885,7 @@ export const countries: Country[] = [
       background: '#E8EEF6',
       text: '#0A1A30',
     },
-    cityIds: ['prague', 'brno', 'telc', 'mikulov', 'cesky-krumlov', 'karlovy-vary', 'ceske-budejovice'],
+    cityIds: ['prague', 'brno', 'telc', 'mikulov', 'cesky-krumlov', 'karlovy-vary', 'ceske-budejovice', 'olomouc'],
   },
   {
     id: 'sk',

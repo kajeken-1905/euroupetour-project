@@ -167,6 +167,12 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'ceske-budejovice-h3': v(60, 75, { b: 'req', n: '양조장 투어는 미리 예약해야 합니다.|Brewery tours must be booked ahead.', k: '2026-10' }),
   'ceske-budejovice-h4': v(10, 15),
   'ceske-budejovice-h5': v(20, 30),
+  'olomouc-h1': v(30, 45, { n: '무료이며 천문시계는 정오에 인형이 움직입니다.|Free; the clock’s figures move at noon.' }),
+  'olomouc-h2': v(15, 20, { n: '무료이며 언제든 볼 수 있습니다. 아래 작은 예배당은 여름에만 엽니다.|Free and always visible; the little chapel inside opens only in summer.', x: [['2024년 봄부터 복원 공사 중이며 2026년 말까지 이어집니다. 비계는 걷히는 중이지만 주변 울타리는 남아 있습니다.|Under restoration since spring 2024, continuing to the end of 2026; the scaffolding is coming down but the fence around it stays for now.', '2026-12-31']] }),
+  'olomouc-h3': v(20, 30, { n: '미사 시간에는 관람할 수 없습니다.|No visiting during services.' }),
+  'olomouc-h4': v(30, 45, { n: '미사 중에는 관람이 제한됩니다.|Visiting is restricted during services.' }),
+  'olomouc-h5': v(60, 90, { c: 'mon', n: '화~일 10:00~18:00에 열고 월요일에 쉽니다.|Open Tuesday to Sunday 10:00–18:00; closed Mondays.' }),
+  'olomouc-h6': v(120, 150, { n: '중앙역 앞에서 11번 버스로 약 25분입니다. 성당 운영 시간은 계절과 미사에 따라 다릅니다.|About 25 min on bus 11 from the main station; the basilica’s hours vary with the season and services.' }),
 
   // Bratislava
   'bratislava-h1': v(90, 120, { c: 'tue', n: '성 바깥뜰과 전망은 무료이고 안쪽 박물관만 유료입니다.|The grounds and views are free; only the museum inside is ticketed.', k: '2026-10' }),

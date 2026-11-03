@@ -248,5 +248,30 @@
     49.60931,
     6.13391,
     "OSM Nominatim \"Chemin de la Corniche\" (middle of its four segments, above the Grund) (2026-11-03)"
+  ],
+  "leiden-h4": [
+    52.16492,
+    4.47289,
+    "OSM Nominatim \"Naturalis Biodiversity Centre, 2 Darwinweg\" (Wikidata 60 m away) (2026-11-03)"
+  ],
+  "leiden-h5": [
+    52.16299,
+    4.48755,
+    "OSM Nominatim \"De Lakenhal, 32 Oude Singel\" (Wikidata 8 m away) (2026-11-03)"
+  ],
+  "mechelen-h5": [
+    51.03209,
+    4.47403,
+    "OSM Nominatim \"Groot Begijnhof Mechelen\" (2026-11-03)"
+  ],
+  "olomouc-h3": [
+    49.59509,
+    17.25136,
+    "cs.wikipedia \"Kostel svatého Mořice (Olomouc)\"; OSM parish office next door 60 m away (2026-11-03)"
+  ],
+  "olomouc-h4": [
+    49.59778,
+    17.2625,
+    "Wikidata/cs.wikipedia St Wenceslas Cathedral, on OSM Václavské náměstí (60 m) (2026-11-03)"
   ]
 }

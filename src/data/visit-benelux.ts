@@ -189,6 +189,12 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'dinant-h2': v(15, 20),
   'dinant-h3': v(45, 60),
   'dinant-h4': v(10, 15),
+  'mechelen-h1': v(60, 90, { b: 'rec', s: 'https://www.visitmechelen.be/en/st-rumbolds-tower', n: '대성당은 무료이며 월~토 8:30~17:30, 일요일 13:00~17:30에 엽니다. 탑은 유료이고 20분마다 20명씩 오르니 예약하는 편이 좋습니다(마지막 입장 17:00, 12월 25일·1월 1일 휴무).|The cathedral is free, open Monday to Saturday 8:30–17:30 and Sundays 13:00–17:30. The tower is ticketed and lets up 20 people every 20 minutes, so book ahead (last entry 17:00; closed 25 December and 1 January).', k: '2026-11' }),
+  'mechelen-h2': v(20, 30, { n: '무료이며 언제든 볼 수 있습니다.|Free and always open.' }),
+  'mechelen-h3': v(15, 20, { n: '지금은 법원 건물이라 안뜰과 정원만 둘러봅니다(무료).|It is now a courthouse, so only the courtyard and garden are open (free).' }),
+  'mechelen-h4': v(90, 120, { c: 'wed', s: 'https://www.visitmechelen.be/en/kazerne-dossin', n: '월·화·목·금 9:00~17:00, 주말 9:30~17:00에 열고 수요일과 유대교 신년·욤 키푸르, 12월 24·25·31일, 1월 1일에 쉽니다.|Open Monday, Tuesday, Thursday and Friday 9:00–17:00 and weekends 9:30–17:00; closed Wednesdays, Rosh Hashanah, Yom Kippur, 24, 25 and 31 December and 1 January.', k: '2026-11' }),
+  'mechelen-h5': v(30, 45, { n: '무료이며 주민이 사는 곳이라 조용히 둘러봅니다.|Free; people live here, so keep quiet.' }),
+  'mechelen-h6': v(75, 90, { b: 'rec', s: 'https://www.visitmechelen.be/en/het-anker-brewery-distillery', n: '가이드 투어는 정해진 시간에만 있고 인원이 적어 미리 예약해야 합니다. 시음 두 잔이 포함됩니다.|Guided tours run only at set times with small groups, so book ahead; two tastings are included.' }),
 
   // Amsterdam
   'amsterdam-h1': v(60, 75, { s: 'https://www.paleisamsterdam.nl/en/', n: '왕실 행사가 있는 날은 닫으니 달력을 확인하세요. 왕실 행사로 닫는 날이 많아 연간 230일가량 엽니다. 공식 달력에서 개방일을 확인하세요.|Closed on days of royal events—check the calendar. Royal events close it on many days; it opens about 230 days a year—check the official calendar.', k: '2026-10' }),
@@ -259,6 +265,13 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'giethoorn-h2': v(45, 60),
   'giethoorn-h3': v(20, 30),
   'giethoorn-h4': v(40, 45),
+  'leiden-h1': v(45, 60, { n: '운하 길은 무료로 언제든 걸을 수 있습니다. 피테르스케르크 내부는 유료이고 행사 때는 닫습니다.|The canal walk is free and always open; the Pieterskerk charges for entry and closes for events.' }),
+  'leiden-h2': v(90, 120, { s: 'https://www.rmo.nl/en/', n: '매일 10:00~17:00에 열고 목요일엔 저녁 19:00~22:00에도 엽니다. 뮤지엄카드가 있으면 무료입니다.|Open daily 10:00–17:00, and Thursday evenings 19:00–22:00 too; free with the Museumkaart.', k: '2026-11' }),
+  'leiden-h3': v(60, 90, { n: '겨울(9월 21일~3월 20일)엔 매일 10:00~17:00에 엽니다. 10월 3일과 12월 25일~1월 1일엔 쉽니다.|In winter (21 September–20 March) open daily 10:00–17:00; closed 3 October and 25 December–1 January.' }),
+  'leiden-h4': v(120, 180, { b: 'rec', s: 'https://www.naturalis.nl/en/museum/practical-info', n: '매일 10:00~17:00에 엽니다. 입장 시간을 정해 온라인으로 사 두는 편이 좋고, 주말·방학엔 붐빕니다.|Open daily 10:00–17:00; buy a timed ticket online, as weekends and school holidays are busy.', k: '2026-11' }),
+  'leiden-h5': v(75, 90, { c: 'mon', s: 'https://www.lakenhal.nl/en/story/visitor-information-pratical-information', n: '화~일 10:00~17:00에 열고 월요일에 쉽니다.|Open Tuesday to Sunday 10:00–17:00; closed Mondays.', k: '2026-11' }),
+  'leiden-h6': v(20, 30, { n: '무료이며 낮 동안 엽니다.|Free; open during the day.' }),
+  'leiden-h7': v(45, 60, { c: 'mon', s: 'https://www.molenmuseumdevalk.nl/en/bezoekersinformatie', n: '화~일 10:00~17:00(마지막 입장 16:30)에 열고 월요일에 쉽니다.|Open Tuesday to Sunday 10:00–17:00 (last entry 16:30); closed Mondays.', k: '2026-11' }),
 
   // Luxembourg City
   'luxembourg-city-h1': v(15, 20, { s: LUX, n: '내부 가이드 투어는 매년 한여름에만 있습니다(2026년은 7월 18일~8월 30일). 관광 안내소에서 미리 예매하는 것이 좋습니다.|Interior tours run only in midsummer (18 July–30 August in 2026); book ahead through the tourist office.', k: '2026-10' }),

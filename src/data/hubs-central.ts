@@ -169,6 +169,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [BRU()],
     rail: [['Leuven', '뢰번역']],
   },
+  mechelen: {
+    air: [BRU('기차로 약 10분|About 10 min by train')],
+    rail: [['Mechelen', '메헬렌역']],
+  },
   dinant: {
     air: [['Brussels South Charleroi (CRL)', '샤를루아 공항 (CRL)', '샤를루아|Charleroi'], BRU()],
     rail: [['Dinant', '디낭역']],
@@ -214,6 +218,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Eindhoven (EIN)', '에인트호번 공항 (EIN)', '에인트호번|Eindhoven'],
     ],
     rail: [['Maastricht', '마스트리흐트역']],
+  },
+  leiden: {
+    air: [AMS('스히폴 공항까지 기차로 약 15분|About 15 min by train')],
+    rail: [['Leiden Centraal', '레이던 중앙역']],
   },
   giethoorn: {
     air: [AMS()],
@@ -780,6 +788,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Karlovy Vary dolní nádraží', '카를로비 바리 하부역'],
     ],
     bus: [['Terminál Karlovy Vary', '카를로비 바리 버스터미널']],
+  },
+  olomouc: {
+    air: [PRG('기차로 약 2시간 20분|About 2 hrs 20 by train'), VIE('기차로 약 2시간 40분, 브르제츨라프 환승|About 2 hrs 40 by train, change at Břeclav')],
+    rail: [['Olomouc hlavní nádraží', '올로모우츠 중앙역']],
   },
   'ceske-budejovice': {
     air: [PRG()],

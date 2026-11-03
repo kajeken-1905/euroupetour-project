@@ -1676,3 +1676,25 @@ highlights/prague-20.jpg | own photo (사진검토/IMG_4677.HEIC) | own photo | 
 highlights/luxembourg-city-8.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg-ville_%E2%80%93Corniche.jpg | CC BY-SA 4.0 | Cayambe
 highlights/luxembourg-city-9.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%27Art_moderne_Grand-Duc_Jean_(54114938490).jpg | CC BY-SA 2.0 | Alexandre Prevot from Nancy, France
 highlights/luxembourg-city-10.jpg | https://commons.wikimedia.org/wiki/File:MNAHA_-_Mus%C3%A9e_national_d%27arch%C3%A9ologie,_d%27histoire_et_d%27art_(101).jpg | CC0 | MNAHA / Tom Lucas
+cities/leiden.jpg | https://commons.wikimedia.org/wiki/File:Leiden,_zicht_op_Kort_Galgewater_vanaf_Prinsessekade_foto13_2017-06-11_10.24.jpg | CC BY-SA 4.0 | Michielverbeek
+highlights/leiden-1.jpg | https://commons.wikimedia.org/wiki/File:Rapenburg_Leiden_Centrum.jpg | CC BY 4.0 | Roger Veringmeier
+highlights/leiden-2.jpg | https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Oudheden_Leiden.jpg | CC BY-SA 4.0 | Rijksmuseum van Oudheden
+highlights/leiden-3.jpg | https://commons.wikimedia.org/wiki/File:Hortus_Botanicus_Leiden_-_De_Wintertuin.JPG | CC BY-SA 3.0 | Tubantia
+highlights/leiden-4.jpg | https://commons.wikimedia.org/wiki/File:Naturalis-Leiden-2019-1.jpg | CC BY 4.0 | Hay Kranen
+highlights/leiden-5.jpg | https://commons.wikimedia.org/wiki/File:De_Lakenhal_6864.jpg | CC BY-SA 4.0 | C messier
+highlights/leiden-7.jpg | https://commons.wikimedia.org/wiki/File:Molen_De_Valk,_Leiden,_the_Netherlands_(2019).jpg | CC BY-SA 3.0 | Calips
+cities/mechelen.jpg | https://commons.wikimedia.org/wiki/File:Mechelen-_Grote_Markt_%26_Sint-Romboutskathedraal_-_52169418019.jpg | CC BY 2.0 | Jorge Franganillo
+highlights/mechelen-1.jpg | https://commons.wikimedia.org/wiki/File:Sint-Romboutstoren_8_augustus_2020_(2).jpg | CC BY-SA 4.0 | SPQRobin
+highlights/mechelen-2.jpg | https://commons.wikimedia.org/wiki/File:Grote_Markt,_Mechelen_2023_1.jpg | CC BY-SA 4.0 | Smiley.toerist
+highlights/mechelen-3.jpg | https://commons.wikimedia.org/wiki/File:Mechelen_Hof_van_Savoye_2_9-06-2012_15-28-09.jpg | CC BY-SA 3.0 | Paul Hermans
+highlights/mechelen-4.jpg | https://commons.wikimedia.org/wiki/File:Dossinkazerne_foto_van_op_balkon_museum.jpg | CC BY-SA 4.0 | Wouterskatty
+highlights/mechelen-5.jpg | https://commons.wikimedia.org/wiki/File:Groot_Begijnhof_Mechelen_03.jpg | CC BY-SA 4.0 | FrDr
+highlights/mechelen-6.jpg | https://commons.wikimedia.org/wiki/File:Brouwzaal_Het_Anker,_Mechelen.jpg | CC BY-SA 3.0 | DirkVE
+cities/olomouc.jpg | https://commons.wikimedia.org/wiki/File:Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_Olomouc,_leteck%C3%A1_fotografie_2.jpg | CC BY-SA 4.0 | Lehky.cz
+highlights/olomouc-1.jpg | https://commons.wikimedia.org/wiki/File:Olomouc_-_Corner_Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_-_Ostru%C5%BEnick%C3%A1_-_View_on_Caesar_Fountain_01.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/olomouc-2.jpg | https://commons.wikimedia.org/wiki/File:Olomouc-sloup-Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD-Trojice-UNESCO2009u3.jpg | CC BY-SA 3.0 | Ben Skála, Benfoto
+highlights/olomouc-4.jpg | https://commons.wikimedia.org/wiki/File:Katedr%C3%A1la_sv._V%C3%A1clava_Olomouc_-_panoramio.jpg | CC BY 3.0 | Mister No
+highlights/olomouc-5.jpg | https://commons.wikimedia.org/wiki/File:Arcidiec%C3%A9zn%C3%AD_muzeum_Olomouc_2007.jpg | CC BY-SA 4.0 | Muzeum umění Olomouc
+highlights/olomouc-6.jpg | https://commons.wikimedia.org/wiki/File:Basilica_of_the_Visitation_of_the_Virgin_Mary_-_Svat%C3%BD_Kope%C4%8Dek_-_Olomouc_(1).jpg | CC BY 3.0 pl | Sylwia Botev
+highlights/olomouc-3.jpg | https://commons.wikimedia.org/wiki/File:Pipe_organ_at_the_church_of_Saint_Maurice_in_Olomouc.png | CC BY 4.0 | Wad53
+highlights/leiden-6.jpg | https://commons.wikimedia.org/wiki/File:Gate_to_De_Burcht_van_Leiden.JPG | CC BY-SA 3.0 | Jane023

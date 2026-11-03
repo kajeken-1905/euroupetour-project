@@ -21,6 +21,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   haarlem: [3, 1, 4, 5, 6, 2],
   delft: [3, 1, 5, 4, 6, 2],
   maastricht: [6, 1, 4, 3, 5, 2],
+  leiden: [4, 7, 5, 6, 1, 2, 3],
   giethoorn: [1, 2, 3, 4],
   'luxembourg-city': [6, 5, 1, 10, 2, 8, 3, 7, 4, 9],
   vianden: [3, 1, 4, 2],
@@ -37,6 +38,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   ghent: [6, 2, 4, 8, 7, 1, 3, 5, 9],
   antwerp: [1, 6, 9, 7, 2, 4, 8, 3, 5],
   leuven: [2, 4, 1, 3, 6, 5],
+  mechelen: [2, 1, 3, 4, 5, 6],
   dinant: [2, 1, 4, 3],
   vienna: {
     days: [

@@ -713,6 +713,17 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  mechelen: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '역에서 흐로테 마르크트까지 걸어서 약 15분이고, 볼거리는 모두 걸어서 다닙니다.',
+      en: 'About 15 min on foot from the station to the Grote Markt; every sight is walkable.',
+    },
+    apps: [
+      ta('de-lijn', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+      ta('sncb'),
+    ],
+  },
   dinant: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -819,6 +830,17 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: 'Maastricht: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
       en: 'Reach Maastricht by rail and local buses; walk or take short taxis for sights.',
+    },
+    apps: [
+      ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
+      ta('ns'),
+    ],
+  },
+  leiden: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 나투랄리스와 풍차는 중앙역 바로 옆이고, 쾨켄호프 버스도 중앙역에서 떠납니다.',
+      en: 'Walk the old town; Naturalis and the windmill are right by Leiden Centraal, where the Keukenhof buses also leave.',
     },
     apps: [
       ta('9292', { ko: '전국 길찾기·표', en: 'Nationwide routes and tickets' }),
@@ -1650,6 +1672,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('cd'),
       ta('bolt'),
+    ],
+  },
+  olomouc: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '중앙역에서 구시가까지 트램으로 약 10분이고, 구시가는 걸어서 다닙니다. 스바티 코페체크는 11번 버스로 갑니다.',
+      en: 'About 10 min by tram from the main station to the old town, which you walk; bus 11 climbs to Svatý Kopeček.',
+    },
+    apps: [
+      ta('cd'),
     ],
   },
   'ceske-budejovice': {

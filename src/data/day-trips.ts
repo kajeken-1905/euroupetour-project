@@ -595,6 +595,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'antwerp',
       tip: '루벤스의 집과 대성당, 화려한 중앙역을 봅니다.|Rubens House, the cathedral and the grand Central Station.',
     },
+    {
+      to: 'leiden',
+      tip: '기차로 약 35분. 운하 길을 걷고 국립 고대 유물 박물관과 1590년 식물원을 봅니다.|About 35 min by train: the canals, the National Museum of Antiquities and the botanical garden of 1590.',
+    },
   ],
   rotterdam: [
     {
@@ -626,6 +630,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'dinant',
       tip: '절벽 아래 양파 지붕 성당과 성채를 봅니다.|The onion-domed church under the cliff and the citadel.',
+    },
+    {
+      to: 'mechelen',
+      tip: '기차로 약 20분. 성 롬바우츠 탑에 오르고 카제르너 도신과 베긴회 수녀원을 봅니다.|About 20 min by train: climb St Rumbold’s Tower, then Kazerne Dossin and the beguinage.',
     },
   ],
   bruges: [
@@ -1355,6 +1363,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'rotterdam',
       tip: '큐브 하우스와 마르크탈, 에라스뮈스 다리를 봅니다.|The Cube Houses, the Markthal and the Erasmus Bridge.',
     },
+    {
+      to: 'leiden',
+      tip: '기차로 약 11분. 렘브란트의 도시에서 운하와 박물관을 봅니다.|11 min by train: Rembrandt’s town of canals and museums.',
+    },
   ],
   utrecht: [
     {
@@ -1372,6 +1384,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'ghent',
       tip: '반 에이크의 제단화와 그라슬레이 강변을 봅니다.|Van Eyck’s altarpiece and the Graslei quays.',
+    },
+    {
+      to: 'mechelen',
+      tip: '기차로 약 17분. 대성당 탑과 흐로테 마르크트, 헷 앙커르 양조장을 봅니다.|17 min by train: the cathedral tower, the Grote Markt and the Het Anker brewery.',
     },
   ],
   aarhus: [
@@ -1420,6 +1436,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'mikulov',
       tip: '성과 성스러운 언덕에 오르고 와인 저장고에서 모라비아 와인을 맛봅니다.|The castle and the Holy Hill, then Moravian wine in a cellar.',
+    },
+    {
+      to: 'olomouc',
+      tip: '기차로 약 1시간 15분. 성삼위일체 기념주와 바로크 분수, 대성당을 봅니다.|About 1 hr 15 by train: the Holy Trinity Column, the Baroque fountains and the cathedral.',
     },
   ],
   bratislava: [

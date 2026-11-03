@@ -1093,6 +1093,10 @@ export const STAY: Record<string, StayArea[]> = {
   delft: [
     a('로테르담·헤이그에서 다녀오기', 'Day trip from Rotterdam or The Hague', 'Rotterdam Centraal', '가까워서 당일치기로 편리|Close enough for a day trip', '로테르담에서 기차로 11분쯤이라 두 도시와 묶어 다녀오기 좋습니다.|About 11 minutes by train from Rotterdam, easy to combine with either city.'),
   ],
+  leiden: [
+    a('운하 안쪽 구시가', 'Inside the canal ring', 'Breestraat, Leiden', '걸어서 다니기|On foot', '박물관과 운하, 식당이 모두 걸어서 10분 안에 있습니다.|Museums, canals and restaurants are all within a ten-minute walk.'),
+    a('암스테르담·헤이그에서 다녀오기', 'Base in Amsterdam or The Hague', 'Leiden Centraal', '당일치기|Day trip', '암스테르담에서 약 35분, 헤이그에서 약 11분이라 하루에 다녀오기 쉽습니다.|About 35 min from Amsterdam and 11 from The Hague by train, an easy day out.'),
+  ],
   giethoorn: [
     a('기트호른 마을', 'Giethoorn village', 'Giethoorn', '관광객이 떠난 저녁|Evenings after the crowds', 'B&B와 게스트하우스가 있고, 낮에는 붐비지만 오후 5시 이후에는 마을이 한적합니다.|B&Bs and guesthouses; busy by day, but the village empties after about 5 pm.'),
     a('암스테르담에서 다녀오기', 'Day trip from Amsterdam', 'Amsterdam Centraal', '당일치기 가능|Doable as a day trip', '기차로 스테인베이크까지 간 뒤 버스로 갈아타며 편도 1시간 반~2시간 반 걸립니다. 투어도 많습니다.|Train to Steenwijk then a bus, 1½–2½ hours each way; plenty of tours too.'),
@@ -1664,6 +1668,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('시내 중심 (그로테 마르크트 주변)', 'Centre (around the Grote Markt)', 'Grote Markt, Leuven', '저녁 맥주·식당|Dinner and beer', '볼거리와 식당을 걸어서 다닙니다. 구시가 일부가 보행자 구역이라 주차가 유료입니다.|Sights and restaurants on foot; part of the centre is pedestrianised and parking is paid.'),
     a('브뤼셀에서 다녀오기', 'Base in Brussels', 'Brussels Central Station', '당일치기|Day trip', '기차로 20분쯤이라 하루면 주요 볼거리를 봅니다.|About 20 minutes by train, so a day covers the highlights.'),
   ],
+  mechelen: [
+    a('흐로테 마르크트 주변', 'Around the Grote Markt', 'Grote Markt, Mechelen', '걸어서 다니기|On foot', '볼거리가 모두 광장에서 걸어서 15분 안에 있습니다.|Every sight is within 15 minutes’ walk of the square.'),
+    a('브뤼셀·안트베르펜에서 다녀오기', 'Base in Brussels or Antwerp', 'Mechelen station', '당일치기|Day trip', '브뤼셀에서 기차로 약 20분, 안트베르펜에서 약 17분입니다.|About 20 min by train from Brussels and 17 from Antwerp.'),
+  ],
   dinant: [
     a('나뮈르에서 다녀오기', 'Base in Namur', 'Namur station', '당일치기 거점|Day-trip base', '브뤼셀에서 직행열차로 1시간쯤이고 디낭까지 기차로 30분쯤입니다. 디낭은 작아 하루면 충분합니다.|About an hour by direct train from Brussels and 30 minutes on to Dinant; Dinant is small enough for a day.'),
     a('디낭 마을', 'Dinant town', 'Dinant', '뫼즈 계곡 거점|Meuse valley base', '뫼즈 계곡을 둘러보기 좋은 거점이지만 숙박비가 비싼 편입니다.|A good base for the Meuse valley, but rooms are pricey.'),
@@ -1698,6 +1706,10 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   remich: [
     a('룩셈부르크 시내에서 다녀오기', 'Base in Luxembourg City', 'Luxembourg City', '당일치기|Day trip', '버스로 1시간쯤이고 셍겐·와이너리를 묶은 당일 투어도 있습니다.|About an hour by bus, and day tours combine Schengen and the wineries.'),
+  ],
+  olomouc: [
+    a('구시가(호르니 광장 주변)', 'Old town (around the Upper Square)', 'Horní náměstí, Olomouc', '걸어서 다니기|On foot', '광장과 대성당, 박물관을 걸어서 다닙니다. 중앙역까지는 트램으로 약 10분입니다.|Squares, cathedral and museum on foot; about 10 min by tram to the main station.'),
+    a('브르노에서 다녀오기', 'Base in Brno', 'Brno hlavní nádraží', '당일치기|Day trip', '브르노에서 기차로 약 1시간 15분입니다.|About 1 hr 15 by train from Brno.'),
   ],
   'ceske-budejovice': [
     a('구시가 (프르셰미슬 오타카르 2세 광장 주변)', 'Old town (Přemysl Otakar II Square)', 'Přemysl Otakar II Square, České Budějovice', '걸어서·당일치기 거점|On foot, day-trip base', '큰 광장 주변에 숙소가 있고 체스키크룸로프·인드르지후프 흐라데츠 당일치기 거점으로 좋습니다.|Hotels around the vast square, a good base for day trips to Český Krumlov and Jindřichův Hradec.'),

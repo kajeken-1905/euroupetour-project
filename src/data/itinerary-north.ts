@@ -77,6 +77,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   brno: [5, 4, 3, 1, 2],
   'cesky-krumlov': [2, 3, 5, 1],
   'karlovy-vary': [5, 1, 4, 2, 3],
+  olomouc: [1, 2, 3, 4, 5, 6],
   'ceske-budejovice': [1, 2, 4, 5, 3],
   warsaw: {
     days: [
