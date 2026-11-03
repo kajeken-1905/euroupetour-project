@@ -610,6 +610,17 @@ export const FESTIVALS: Festival[] = [
     checked: '2026-10',
   },
   {
+    id: 'milan-fashion-week',
+    cityIds: ['milan'],
+    name: '밀라노 패션위크|Milan Fashion Week',
+    about: '세계 4대 패션위크 가운데 하나로, 이탈리아 국립 패션 협회(CNMI)가 여는 브랜드 패션쇼가 시내 곳곳에서 열립니다. 쇼는 대부분 초대제지만 기간 내내 거리와 쇼룸이 들썩이고 숙소가 빨리 찹니다.|One of the world’s four big fashion weeks, with brand shows staged across the city by the Camera Nazionale della Moda Italiana. Most shows are invitation-only, but the streets and showrooms buzz all week and hotels fill early.',
+    when: '여성복은 2월 말~3월 초와 9월 말, 남성복은 1월과 6월|Womenswear in late February–early March and late September; menswear in January and June',
+    months: [1, 2, 3, 6, 9],
+    image: '/festivals/milan-fashion-week.jpg',
+    site: 'https://www.cameramoda.it/en/',
+    checked: '2026-11',
+  },
+  {
     id: 'santa-rosalia',
     cityIds: ['palermo'],
     name: '산타 로살리아 축제|Festino di Santa Rosalia',

@@ -1812,3 +1812,32 @@ places/geneva-fine_dining-6.jpg | own photo | own photo | 사용자 촬영
 highlights/budapest-1.jpg | own photo | own photo | 사용자 촬영
 highlights/budapest-2.jpg | own photo | own photo | 사용자 촬영
 highlights/budapest-17.jpg | own photo | own photo | 사용자 촬영
+highlights/bratislava-6.jpg | https://commons.wikimedia.org/wiki/File:Blue_Church,_Bratislava_01.jpg | CC BY-SA 4.0 | Thomas Ledl
+highlights/bratislava-7.jpg | https://commons.wikimedia.org/wiki/File:Bratislava_Primacialny_Palac_R01.jpg | CC BY-SA 4.0 | Marc Ryckaert
+highlights/bratislava-8.jpg | https://commons.wikimedia.org/wiki/File:Most_SNP,_UFO_Bridge,_Bratislava_(Ank_Kumar,_Infosys_)_05.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/bratislava-9.jpg | https://commons.wikimedia.org/wiki/File:Hlavn%C3%A9_n%C3%A1mestie_with_the_Old_Town_Hall_and_Roland_Fountain_(10267625666).jpg | CC BY 2.0 | Jorge Láscar from Australia
+highlights/bratislava-10.jpg | https://commons.wikimedia.org/wiki/File:Slav%C3%ADn_memorial_at_night.jpg | CC BY-SA 4.0 | Jonathan Grundmann
+highlights/kosice-6.jpg | https://commons.wikimedia.org/wiki/File:Spievaj%C3%BAca_font%C3%A1na,_Ko%C5%A1ice,_2026.jpg | CC BY-SA 4.0 | Antimuonium
+highlights/kosice-7.jpg | https://commons.wikimedia.org/wiki/File:National_Theatre_Ko%C5%A1ice_seen_from_Hl%C3%A1vne_n%C3%A1mesti_with_the_street_Hlavna_on_both_sides.jpg | CC BY-SA 4.0 | Helge Høifødt
+highlights/kosice-8.jpg | https://commons.wikimedia.org/wiki/File:Ko%C5%A1ice_-_Hlavn%C3%A1_(Main_Street)_-_Hlavn%C3%A9_n%C3%A1mestie_(Main_Square)_-_View_of_St_Urban_Tower_and_the_Cathedral_of_Saint_Elisabeth_from_the_city_park_(December_2025).jpg | CC BY-SA 4.0 | ZemplinTemplar
+highlights/kosice-9.jpg | https://commons.wikimedia.org/wiki/File:Ko%C5%A1ice_-_Doln%C3%A1_br%C3%A1na_(3).jpg | CC BY-SA 4.0 | Ladislav Luppa
+highlights/poprad-6.jpg | https://commons.wikimedia.org/wiki/File:Square_of_Spisska_Sobota_9.jpg | CC BY-SA 3.0 | Kristo
+highlights/poprad-7.jpg | https://commons.wikimedia.org/wiki/File:Slovensky_Raj-Slovak_Paradise_-_panoramio_-_Tomas_Jancovic.jpg | CC BY 3.0 | Tomas Jancovic
+highlights/poprad-8.jpg | https://commons.wikimedia.org/wiki/File:Lomnick%C3%BD_%C5%A1t%C3%ADt_Observatory_%E2%80%93_silhouette_at_sunrise.jpg | CC BY-SA 4.0 | Punteador
+highlights/banska-bystrica-6.jpg | https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_Bystrica,_Slovakia_-_Slovak_National_Uprising_Memorial_and_Museum_-_2023.jpg | CC BY 4.0 | Patrik Kunec
+highlights/banska-bystrica-7.jpg | https://commons.wikimedia.org/wiki/File:Hodinov%C3%A1_ve%C5%BEa_2024.jpg | CC BY 4.0 | Andrej-airliner
+highlights/banska-bystrica-8.jpg | https://commons.wikimedia.org/wiki/File:Banska_Bystrica_011.JPG | CC BY 3.0 | Georges Jansoone (JoJan)
+highlights/trencin-7.jpg | https://commons.wikimedia.org/wiki/File:Slovakia_Bojnice_Castle_2004_hires.jpg | CC BY-SA 3.0 | No machine-readable author provided. Szarka Gyula~commonswik
+highlights/milan-9.jpg | own photo | own photo | 사용자 촬영
+highlights/milan-10.jpg | own photo | own photo | 사용자 촬영
+highlights/milan-11.jpg | https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg | Public domain | Leonardo da Vinci
+highlights/milan-12.jpg | https://commons.wikimedia.org/wiki/File:Teatro_alla_Scala_interior_Milan.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
+highlights/milan-13.jpg | https://commons.wikimedia.org/wiki/File:Sant%27Ambrogio_(Milan)_-_Atrium.jpg | CC BY 3.0 pl | Radosław Botev
+highlights/milan-14.jpg | https://commons.wikimedia.org/wiki/File:Colonne_di_San_Lorenzo1.jpg | CC BY-SA 2.5 ca | Óðinn
+highlights/milan-15.jpg | https://commons.wikimedia.org/wiki/File:Milan_skyline_with_Unicredit_Tower_and_Bosco_Verticale.jpg | CC BY-SA 3.0 | Daniel Case
+highlights/milan-16.jpg | https://commons.wikimedia.org/wiki/File:Monumental_Cemetery_of_Milano._Ph_Ivan_Stesso.jpg | CC BY-SA 4.0 | Ivan Stesso
+highlights/trencin-6.jpg | https://commons.wikimedia.org/wiki/File:Synagogue_in_Tren%C4%8D%C3%ADn.jpg | CC BY-SA 4.0 | KormiSK
+highlights/milan-17.jpg | https://commons.wikimedia.org/wiki/File:San_Siro_(15817752319).jpg | Public domain | Jose Hidalgo from Punta Arenas y South Lake Tahoe, Chile y C
+highlights/milan-18.jpg | https://commons.wikimedia.org/wiki/File:Veduta_delle_tre_torri_del_quartiere_Citylife_a_Milano.jpg | CC BY-SA 4.0 | Paolobon140
+highlights/milan-19.jpg | https://commons.wikimedia.org/wiki/File:Fondazione_PRADA,_Via_Ripamonti_-_Largo_Isarco_area,_Golden_Tower_Rem_Koolhass_design.jpg | CC BY-SA 4.0 | DesignerToparchitect
+festivals/milan-fashion-week.jpg | https://commons.wikimedia.org/wiki/File:Sofi_Eliseeva_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg | CC BY-SA 2.0 | 

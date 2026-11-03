@@ -10,7 +10,13 @@ export const itineraryIt: Record<string, RawItinerary> = {
     ],
     trips: [['티볼리|Tivoli', 12], ['오스티아 안티카|Ostia Antica', 13]],
   },
-  milan: [1, 2, 5, 3, 7, 4],
+  milan: {
+    days: [
+      ['두오모와 브레라|Duomo & Brera', 1, 2, 12, 5, 16, 15],
+      ['최후의 만찬과 나빌리|Last Supper & the Navigli', 11, 13, 3, 7, 14, 10, 9, 4],
+      ['현대 밀라노|Modern Milan', 18, 17, 19],
+    ],
+  },
   florence: {
     days: [
       ['두오모와 메디치|Duomo & the Medici', 7, 15, 9, 5, 1, 8, 17],

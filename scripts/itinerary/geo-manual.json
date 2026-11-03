@@ -648,5 +648,140 @@
     47.4966296,
     19.0502206,
     "OSM Nominatim \"Vörösmarty tér\" (heart of Belváros)"
+  ],
+  "bratislava-h7": [
+    48.1437398,
+    17.1095582,
+    "OSM Nominatim \"Primaciálny palác, 494/2, Primaciálne námestie, Vnútorné mes\""
+  ],
+  "kosice-h9": [
+    48.7185978,
+    21.2591157,
+    "OSM Nominatim \"Dolná brána, Námestie slobody, Košice-Staré Mesto, okres Koš\""
+  ],
+  "kosice-h8": [
+    48.7206559,
+    21.2581581,
+    "OSM Nominatim \"Urbanova veža, 3/1, Hlavné námestie, Košice-Staré Mesto, okr\""
+  ],
+  "kosice-h6": [
+    48.7212006,
+    21.2576052,
+    "OSM Nominatim \"Spievajúca fontána, Hlavné námestie, Košice-Staré Mesto, okr\""
+  ],
+  "poprad-h1": [
+    49.0600912,
+    20.2949412,
+    "OSM Nominatim \"Poprad-Tatry, Úzka, Veľká, Poprad, okres Poprad, Prešovský k\""
+  ],
+  "poprad-h4": [
+    49.1414836,
+    20.2221042,
+    "OSM Nominatim \"Starý Smokovec, Vysoké Tatry, okres Poprad, Prešovský kraj, \""
+  ],
+  "poprad-h5": [
+    49.1191897,
+    20.063955,
+    "OSM Nominatim \"Štrba - Štrbské pleso, Štrba, okres Poprad, Prešovský kraj, \""
+  ],
+  "poprad-h7": [
+    48.9545678,
+    20.4418874,
+    "OSM Nominatim \"Prielom Hornádu, Spišské Tomášovce, okres Spišská Nová Ves, \""
+  ],
+  "banska-bystrica-h1": [
+    48.7352746,
+    19.1454247,
+    "OSM Nominatim \"Námestie SNP, Banská Bystrica, okres Banská Bystrica, Bansko\""
+  ],
+  "banska-bystrica-h8": [
+    48.7376744,
+    19.1465424,
+    "OSM Nominatim \"Matejov dom, 48/20, Námestie Štefana Moyzesa, Banská Bystric\""
+  ],
+  "banska-bystrica-h2": [
+    48.7367208,
+    19.1464581,
+    "OSM Nominatim \"Barbakan, Námestie Štefana Moyzesa, Banská Bystrica, okres B\""
+  ],
+  "banska-bystrica-h3": [
+    48.7373057,
+    19.1467228,
+    "OSM Nominatim \"Nanebovzatia Panny Márie, 56/28, Námestie Štefana Moyzesa, B\""
+  ],
+  "banska-bystrica-h4": [
+    48.7351155,
+    19.1455954,
+    "OSM Nominatim \"Thurzov Dom, 4/4, Námestie SNP, Banská Bystrica, okres Bansk\""
+  ],
+  "trencin-h6": [
+    48.894462,
+    18.039656,
+    "OSM Nominatim \"Synagóga, 127/3, Hviezdová, Centrum, Žabinec, Trenčín, okres\""
+  ],
+  "trencin-h4": [
+    48.8938424,
+    18.0419512,
+    "OSM Nominatim \"FARSKÝ KOSTOL NARODENIA PANNY MARIE, Mariánske námestie, Cen\""
+  ],
+  "trencin-h2": [
+    48.89581,
+    18.0445741,
+    "OSM Nominatim \"Rímsky nápis, Tatra Passage, Centrum, Žabinec, Trenčín, okre\""
+  ],
+  "poprad-h3": [
+    49.054916,
+    20.3014512,
+    "OSM Nominatim \"Kostol sv. Egídia, Námestie svätého Egídia\""
+  ],
+  "banska-bystrica-h6": [
+    48.7366071,
+    19.1378449,
+    "OSM Nominatim \"Pamätník SNP\" (museum building)"
+  ],
+  "kosice-h7": [
+    48.721647,
+    21.257406,
+    "Wikipedia (sk) \"Národné divadlo Košice\""
+  ],
+  "trencin-h5": [
+    48.8973063,
+    18.038724,
+    "OSM Nominatim \"Starý železničný most\" (riverside footbridge)"
+  ],
+  "milan-h12": [
+    45.4676041,
+    9.1891136,
+    "OSM Nominatim \"Teatro alla Scala, Milano\""
+  ],
+  "milan-h13": [
+    45.4623754,
+    9.1758455,
+    "OSM Nominatim \"Basilica di Sant'Ambrogio, Milano\""
+  ],
+  "milan-h4": [
+    45.4529111,
+    9.1785725,
+    "OSM Nominatim \"Darsena, Milano\" (head of the Navigli)"
+  ],
+  "milan-h10": [
+    45.454017,
+    9.180463,
+    "User's own photo GPS (IMG_6616, on the Corso) 2026-11-04"
+  ],
+  "milan-h17": [
+    45.47806,
+    9.12389,
+    "Wikidata stadium coordinates (football.ts, San Siro)"
+  ],
+  "milan-h18": [
+    45.4783108,
+    9.1570584,
+    "OSM Nominatim \"Piazza Tre Torri, Milano\""
+  ],
+  "milan-h19": [
+    45.4439973,
+    9.2054061,
+    "OSM Nominatim \"Fondazione Prada, Largo Isarco, Milano\""
   ]
 }
