@@ -628,5 +628,20 @@
     44.11553,
     15.22443,
     "User's own photo GPS (IMG_3581, taken facing the church) 2026-11-04"
+  ],
+  "split-h15": [
+    43.5079436,
+    16.4399305,
+    "OSM Nominatim \"Vestibul\""
+  ],
+  "zagreb-h13": [
+    45.8147309,
+    15.9743759,
+    "OSM Nominatim \"crkva svete Katarine Aleksandrijske\""
+  ],
+  "zagreb-h14": [
+    45.8142676,
+    15.974127,
+    "OSM Nominatim \"Strossmayerovo šetalište\""
   ]
 }

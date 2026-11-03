@@ -1793,3 +1793,13 @@ highlights/zadar-4.jpg | own photo | own photo | 사용자 촬영
 cities/neum.jpg | own photo | own photo | 사용자 촬영
 highlights/neum-1.jpg | own photo | own photo | 사용자 촬영
 highlights/zadar-11.jpg | https://commons.wikimedia.org/wiki/File:24.04.2011._Zadar_Crkva_sv._Marije_-_panoramio.jpg | CC BY-SA 3.0 | Sandor Bordas
+highlights/trogir-1.jpg | own photo | own photo | 사용자 촬영
+highlights/trogir-2.jpg | own photo | own photo | 사용자 촬영
+highlights/trogir-3.jpg | own photo | own photo | 사용자 촬영
+highlights/trogir-4.jpg | own photo | own photo | 사용자 촬영
+highlights/split-2.jpg | own photo | own photo | 사용자 촬영
+highlights/split-9.jpg | own photo | own photo | 사용자 촬영
+highlights/split-15.jpg | own photo | own photo | 사용자 촬영
+highlights/zagreb-11.jpg | own photo | own photo | 사용자 촬영
+highlights/zagreb-13.jpg | own photo | own photo | 사용자 촬영
+highlights/zagreb-14.jpg | own photo | own photo | 사용자 촬영

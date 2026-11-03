@@ -18544,6 +18544,22 @@ export const cities: City[] = [
         group: { ko: "윗마을(고르니 그라드)", en: "Upper Town (Gornji grad)" },
       },
       {
+        id: "zagreb-h13",
+        name: { ko: "성 카타리나 성당", en: "St. Catherine’s Church" },
+        description: { ko: "윗마을의 17세기 예수회 성당으로, 하얀 정면과 분홍빛 스투코 장식 실내가 자그레브 바로크의 대표로 꼽힙니다.", en: "The 17th-century Jesuit church in the Upper Town, whose white façade and pink stucco interior are Zagreb’s finest Baroque." },
+        image: "/highlights/zagreb-13.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St.%20Catherine%E2%80%99s%20Church%20Zagreb",
+        group: { ko: "윗마을(고르니 그라드)", en: "Upper Town (Gornji grad)" },
+      },
+      {
+        id: "zagreb-h14",
+        name: { ko: "스트로스마이어 산책로", en: "Strossmayer Promenade" },
+        description: { ko: "윗마을 남쪽 옛 성벽 위 산책로로, 아랫마을 지붕들과 대성당 첨탑이 한눈에 보입니다. 여름 저녁엔 공연이 열립니다.", en: "The walk along the Upper Town’s old southern walls, looking over the Lower Town’s roofs to the cathedral spires; summer evenings bring live music." },
+        image: "/highlights/zagreb-14.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Strossmayer%20Promenade%20Zagreb",
+        group: { ko: "윗마을(고르니 그라드)", en: "Upper Town (Gornji grad)" },
+      },
+      {
         id: "zagreb-h7",
         name: { ko: "자그레브 대성당", en: "Zagreb Cathedral" },
         description: { ko: "두 첨탑이 도시를 내려다보는 카프톨 언덕의 고딕 대성당입니다. 2020년 지진으로 크게 부서져 복원 중이며, 첨탑은 예전보다 약 30m 낮아졌습니다.", en: "The Gothic cathedral on Kaptol hill; badly damaged in the 2020 earthquake and still under restoration, its towers now about 30 m shorter than before." },
@@ -18781,6 +18797,13 @@ export const cities: City[] = [
         description: { ko: "디오클레티아누스 궁전의 중앙 열주 광장으로, 황제가 모습을 드러내던 자리 앞에서 여름 저녁마다 공연이 열립니다.", en: "The colonnaded central court of Diocletian’s Palace, where the emperor once appeared; summer evenings bring performances." },
         image: "/highlights/split-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Peristyle%20Split",
+      },
+      {
+        id: "split-h15",
+        name: { ko: "베스티불(궁전 현관 홀)", en: "Vestibule" },
+        description: { ko: "페리스틸에서 황제의 거처로 들어가던 둥근 현관 홀로, 꼭대기가 뚫린 돔 아래에서 여름이면 아카펠라 ‘클라파’ 노래가 울립니다.", en: "The round entrance hall from the Peristyle to the emperor’s quarters; under its open-topped dome, klapa singers often perform." },
+        image: "/highlights/split-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vestibule%20Split",
       },
       {
         id: "split-h6",

@@ -38,7 +38,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['미케네와 에피다우로스|Mycenae & Epidaurus', 6, 7]] },
-  zagreb: [4, 11, 3, 7, 10, 9, 6, 1, 2, 8, 12, 5],
+  zagreb: [4, 11, 3, 7, 10, 9, 6, 13, 1, 2, 8, 14, 12, 5],
   dubrovnik: {
     days: [
       ['구시가|Old town', 10, 17, 9, 2, 7, 15, 16, 8, 6, 19, 12, 11],
@@ -50,7 +50,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   split: {
-    days: [['', 9, 1, 7, 6, 4, 8, 10, 2, 3, 11, 12]],
+    days: [['', 9, 1, 7, 15, 6, 4, 8, 10, 2, 3, 11, 12]],
     trips: [
       ['흐바르·브라치|Hvar or Brač', 5],
       ['클리스와 살로나|Klis & Salona', 13, 14],

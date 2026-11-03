@@ -22,6 +22,8 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'zagreb-h10': v(20, 40),
   'zagreb-h11': v(15, 30),
   'zagreb-h12': v(10, 15, { n: '무료입니다.|Free.' }),
+  'zagreb-h13': v(10, 20, { n: '지진 피해 뒤 복원 공사로 내부 관람이 제한될 수 있습니다.|Visits to the interior may be limited by post-earthquake restoration.' }),
+  'zagreb-h14': v(15, 20, { n: '무료이며 언제든 걸을 수 있습니다. 로트르슈차크 탑과 푸니쿨라 윗역 바로 옆입니다.|Free and always open; right by the Lotrščak Tower and the upper funicular station.' }),
   // Dubrovnik
   'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.', k: '2026-10' }),
   'dubrovnik-h2': v(20, 30),
@@ -58,6 +60,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'split-h12': v(60, 120),
   'split-h13': v(60, 90, { n: '스플리트에서 버스로 약 30분입니다.|About 30 minutes by bus from Split.' }),
   'split-h14': v(60, 90, { n: '스플리트에서 버스로 약 20분입니다. 클리스 요새와 함께 다녀오기 좋습니다.|About 20 minutes by bus from Split; easy to combine with Klis Fortress.' }),
+  'split-h15': v(5, 10, { n: '무료입니다.|Free.' }),
   // Zadar
   'zadar-h1': v(20, 30, { b: 'no', n: FREE }),
   'zadar-h2': v(15, 20, { b: 'no', n: '해가 진 뒤에 불이 켜집니다.|Lights up after sunset.' }),
