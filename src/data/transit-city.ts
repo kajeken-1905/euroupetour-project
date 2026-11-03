@@ -4453,6 +4453,17 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  sibenik: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고 계단이 많습니다. 크르카 공원과 성 니콜라 요새는 버스나 배로 갑니다.',
+      en: 'Walk the old town (lots of steps); reach Krka and St Nicholas Fortress by bus or boat.',
+    },
+    apps: [
+      ta('flixbus'),
+      ta('uber'),
+    ],
+  },
   rovinj: {
     modes: ['ferry', 'bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -4464,11 +4475,44 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  pula: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가와 아레나는 걸어서 다닙니다. 베루델라 해변 쪽은 시내버스를 탑니다.',
+      en: 'Walk the old town and the Arena; take the city bus to the Verudela beaches.',
+    },
+    apps: [
+      ta('flixbus'),
+      ta('uber'),
+    ],
+  },
+  porec: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 여름엔 리조트 지구와 구시가 사이에 꼬마 기차와 배가 다닙니다.',
+      en: 'Walk the old town; in summer a road train and boats link it with the resort strip.',
+    },
+    apps: [
+      ta('flixbus'),
+      ta('uber'),
+    ],
+  },
   hvar: {
     modes: ['ferry', 'bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
       ko: 'Hvar: 페리·버스·도보를 조합합니다. 배 시간표를 먼저 확인하세요.',
       en: 'Combine ferry, bus, and walking in Hvar. Check boat timetables first.',
+    },
+    apps: [
+      ta('flixbus'),
+      ta('uber'),
+    ],
+  },
+  korcula: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 룸바르다는 버스로, 바디야와 다른 섬은 배로 갑니다.',
+      en: 'Walk the old town; take the bus to Lumbarda and boats to Badija and the other islands.',
     },
     apps: [
       ta('flixbus'),

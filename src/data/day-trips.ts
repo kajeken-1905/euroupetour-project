@@ -1140,6 +1140,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'hvar',
       tip: '배로 건너가 요새에 오르고 항구를 걷습니다.|Ferry over, climb to the fortress and stroll the harbour.',
     },
+    {
+      to: 'sibenik',
+      tip: '버스로 약 1시간 30분. 돌로만 지은 대성당을 보고 크르카 폭포까지 묶으면 하루가 꽉 찹니다.|About 1 hr 30 by bus: the all-stone cathedral, and adding the Krka falls fills the day.',
+    },
   ],
   dubrovnik: [
     {
@@ -1150,11 +1154,19 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'mostar',
       tip: '스타리 모스트 다리와 오스만 구시가를 봅니다. 국경을 넘으니 여권을 챙기세요.|The Stari Most bridge and the Ottoman old town; it crosses a border, so bring your passport.',
     },
+    {
+      to: 'korcula',
+      tip: '쾌속선으로 약 2시간(봄~가을). 성벽 구시가와 대성당을 보고 돌아옵니다.|About 2 hrs by catamaran (spring to autumn): the walled old town and the cathedral.',
+    },
   ],
   zadar: [
     {
       to: 'plitvice',
       tip: '계단식 호수와 폭포 사이 나무 길을 걷습니다. 입장권은 날짜와 시간대가 정해져 있고, 여름엔 현장 표가 거의 없어 미리 온라인으로 삽니다.|Boardwalks among the terraced lakes and waterfalls; tickets are for a set day and time slot, and in summer buy them online ahead as few are left at the gate.',
+    },
+    {
+      to: 'sibenik',
+      tip: '버스로 약 1시간 25분. 대성당과 요새를 보고 크르카 국립공원도 함께 다녀올 수 있습니다.|About 1 hr 25 by bus: the cathedral and fortresses, and you can add Krka National Park.',
     },
   ],
   dublin: [

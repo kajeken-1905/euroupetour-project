@@ -779,6 +779,14 @@ export const STAY: Record<string, StayArea[]> = {
     a('구시가', 'Old Town', 'Old Town, Zadar', '처음 가는 여행에 추천|Best for a first visit', '로마 광장과 바다 오르간, 식당을 걸어서 다닙니다. 주말 밤에 시끄럽고 주차장이 있는 숙소가 드물며 저렴한 곳이 적습니다.|The Roman Forum, the Sea Organ and restaurants on foot; loud on weekend nights, few places with parking and few bargains.'),
     a('보리크', 'Borik', 'Borik, Zadar', '가족 여행·모래 해변|Families, sandy beach', '크로아티아에서 드문 모래 해변과 리조트가 있습니다. 구시가에서 북쪽으로 4km쯤이고 여름에 붐빕니다.|A rare sandy beach for Croatia, with resorts; about 4 km north of the old town and busy in summer.'),
   ],
+  pula: [
+    a('구시가·아레나 주변', 'Old town & Arena', 'Pula Arena', '처음이라면|First visit', '아레나와 포럼, 버스터미널을 걸어서 다닙니다.|The Arena, the Forum and the bus station are all walkable.'),
+    a('베루델라', 'Verudela', 'Verudela Pula', '해변·리조트|Beaches and resorts', '시내 남쪽 반도의 해변 호텔 지구로, 시내까지 버스로 다닙니다.|The beach-hotel peninsula south of town, linked to the centre by bus.'),
+  ],
+  porec: [
+    a('구시가', 'Old town', 'Poreč old town', '처음이라면|First visit', '반도 위 구시가에 묵으면 대성당과 항구를 걸어서 다닙니다.|Stay on the peninsula to walk to the basilica and the harbour.'),
+    a('플라바 라구나·젤레나 라구나', 'Plava & Zelena Laguna', 'Zelena Laguna Poreč', '해변 리조트|Beach resorts', '시내 남쪽 해변 리조트 지구로, 여름엔 꼬마 기차와 배가 구시가를 잇습니다.|The beach-resort strip south of town, linked to the old town by a road train and boats in summer.'),
+  ],
   hvar: [
     a('흐바르 타운', 'Hvar Town', 'Hvar Town', '처음 가는 여행에 추천|Best for a first visit', '밤 문화가 활발하고 파클레니 섬 배편이 있어 차 없이 지내기 좋습니다. 여름에 가장 붐비고 비쌉니다.|Lively nightlife and boats to the Pakleni Islands, easy without a car; the busiest and priciest place in summer.'),
     a('스타리 그라드', 'Stari Grad', 'Stari Grad, Hvar', '조용한 옛 항구|Quiet historic harbour', '유네스코 평원 옆의 조용한 옛 항구 마을입니다. 밤 문화가 적고 흐바르 타운까지는 버스로만 오갑니다.|A calm old harbour town by the UNESCO-listed plain; little nightlife, and only a bus to Hvar Town.'),
@@ -1455,9 +1463,17 @@ export const STAY: Record<string, StayArea[]> = {
   torun: [
     a('구시가 (스타레 미아스토)', 'Old town (Stare Miasto)', 'Stare Miasto, Toruń', '처음이라면|First visit', '구시청과 시장 광장, 튜턴 기사단 성터를 걸어서 다닙니다.|The Old Town Hall, Market Square and the Teutonic castle ruins on foot.'),
   ],
+  sibenik: [
+    a('구시가', 'Old town', 'Šibenik old town', '처음이라면|First visit', '대성당과 요새를 걸어서 다니고 버스터미널도 가깝습니다. 계단이 많습니다.|The cathedral and fortresses are walkable and the bus station is close; expect lots of steps.'),
+    a('스크라딘에서 묵기', 'Skradin', 'Skradin', '크르카 국립공원 가까이|Close to Krka', '크르카 공원 배가 출발하는 작은 마을로, 아침 일찍 폭포에 닿기 좋습니다.|The small town where the Krka park boat leaves, handy for reaching the falls early.'),
+  ],
   rovinj: [
     a('구시가', 'Old town', 'Rovinj old town', '처음이라면|First visit', '차 없는 반도 위 구시가로 분위기가 좋습니다. 바·식당·청소차 소리로 밤에 시끄러울 수 있습니다.|The car-free old town on its peninsula, full of atmosphere; bars, restaurants and street cleaning can be noisy at night.'),
     a('물리니·구시가 남쪽 해변', 'Mulini and the south shore', 'Mulini beach, Rovinj', '조용함·해변|Quieter, beaches', '해변 산책로를 따라 구시가까지 15분쯤 걷고 해변과 숲 공원이 가깝습니다.|About 15 minutes’ walk along the shore to the old town, close to beaches and the forest park.'),
+  ],
+  korcula: [
+    a('구시가에서 묵기', 'In the old town', 'Korčula', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('두브로브니크에서 다녀오기', 'Base in Dubrovnik', 'Dubrovnik old town', '거점에서 다녀오기|Day trip from a base', '쾌속선으로 약 2시간이며 봄~가을에 다닙니다.|About 2 hours by catamaran, running spring to autumn.'),
   ],
   trogir: [
     a('트로기르 구시가', 'Trogir old town', 'Trogir old town', '조용한 저녁·공항 가까움|Quiet evenings, near the airport', '스플리트 공항에서 가깝고 스플리트보다 대개 쌉니다. 차가 있으면 구시가 밖에 묵는 편이 낫고 주차비가 비쌉니다.|Close to Split Airport and usually cheaper than Split; with a car, stay just outside the old town as parking is expensive.'),

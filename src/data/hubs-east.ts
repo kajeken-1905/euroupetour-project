@@ -220,9 +220,23 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Autobusni kolodvor Zadar', '자다르 버스터미널']],
     port: [['Luka Gaženica', '가제니차 항구', '섬행 카페리 · 이탈리아 안코나행은 여름철|car ferries to the islands · Ancona, Italy in summer']],
   },
+  sibenik: {
+    air: [SPU('버스로 약 1시간|About 1 hr by bus'), ['Zadar (ZAD)', '자다르 공항 (ZAD)', '자다르|Zadar']],
+    rail: [['Šibenik', '시베니크역', '열차 적음|few trains']],
+    bus: [['Autobusni kolodvor Šibenik', '시베니크 버스터미널']],
+  },
   rovinj: {
     air: [['Pula (PUY)', '풀라 공항 (PUY)', '풀라|Pula']],
     bus: [['Autobusni kolodvor Rovinj', '로비니 버스터미널', '철도 없음|no railway']],
+  },
+  pula: {
+    air: [['Pula (PUY)', '풀라 공항 (PUY)']],
+    rail: [['Pula', '풀라역', '이스트라 지선 · 열차 적음|Istrian branch line · few trains']],
+    bus: [['Autobusni kolodvor Pula', '풀라 버스터미널']],
+  },
+  porec: {
+    air: [['Pula (PUY)', '풀라 공항 (PUY)', '풀라|Pula']],
+    bus: [['Autobusni kolodvor Poreč', '포레치 버스터미널', '철도 없음|no railway']],
   },
   hvar: {
     air: [SPU('스플리트 · 페리 연결|Split · ferry link')],
@@ -230,6 +244,14 @@ export const hubsEast: Record<string, RawCityHubs> = {
     port: [
       ['Luka Hvar', '흐바르 타운 항구', '스플리트행 쾌속선|catamarans to Split'],
       ['Trajektna luka Stari Grad', '스타리그라드 페리항', '스플리트행 카페리|car ferry to Split'],
+    ],
+  },
+  korcula: {
+    air: [DBV('배로 약 2시간|About 2 hrs by catamaran'), SPU('배로 약 2시간 30분|About 2 hrs 30 by catamaran')],
+    bus: [['Autobusni kolodvor Korčula', '코르출라 버스 정류장', '오레비치행 페리 연결|via the Orebić ferry']],
+    port: [
+      ['Luka Korčula', '코르출라 항구', '스플리트·두브로브니크행 쾌속선|catamarans to Split and Dubrovnik'],
+      ['Trajektna luka Dominče', '도민체 페리항', '오레비치행 카페리|car ferry to Orebić'],
     ],
   },
   plitvice: {

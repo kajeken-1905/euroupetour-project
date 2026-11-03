@@ -1711,3 +1711,71 @@ highlights/tihany-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_Tihany
 highlights/tihany-5.jpg | https://commons.wikimedia.org/wiki/File:Levendul%C3%A1s_-_Tihany,_2014.07.24_(1).JPG | CC BY-SA 4.0 | Derzsi Elekes Andor
 highlights/tihany-6.jpg | https://commons.wikimedia.org/wiki/File:TihanyBaratlakasok_05.jpg | CC BY-SA 4.0 | Allexkoch
 highlights/clervaux-3.jpg | https://commons.wikimedia.org/wiki/File:Clervaux,_Grand-Rue_(103).jpg | CC BY-SA 4.0 | GilPe
+highlights/zagreb-6.jpg | https://commons.wikimedia.org/wiki/File:Zagreb_-_Crkva_svetog_Marka.jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/zagreb-7.jpg | https://commons.wikimedia.org/wiki/File:Zagreb_cathedral_at_sunrise.jpg | CC BY-SA 4.0 | Larisa Uhryn
+highlights/zagreb-8.jpg | https://commons.wikimedia.org/wiki/File:Zagreb_-_Kula_Lotr%C5%A1%C4%8Dak_(44621783755).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/zagreb-9.jpg | https://commons.wikimedia.org/wiki/File:Stone_Gate_in_Zagreb.jpg | CC BY-SA 4.0 | Adam Harangozó
+highlights/zagreb-10.jpg | https://commons.wikimedia.org/wiki/File:Tkalciceva,_Zagreb.JPG | CC BY-SA 3.0 | Modzzak
+highlights/zagreb-11.jpg | https://commons.wikimedia.org/wiki/File:Zrinjevac_Park,_Zagreb,_Croatia_-_July_2022.jpg | CC BY 2.0 | Sharon Hahn Darlin
+highlights/zagreb-12.jpg | https://commons.wikimedia.org/wiki/File:Underground_tunnels_beneath_Zagreb_-_Tunel_Gri%C4%8D_(28330138462).jpg | CC BY-SA 2.0 | Miroslav Vajdic from Zagreb, Croatia
+highlights/dubrovnik-8.jpg | https://commons.wikimedia.org/wiki/File:Kne%C5%BEev_dvor_Dubrovnik_Z-503.jpg | CC BY-SA 4.0 | Sopina Ana
+highlights/dubrovnik-9.jpg | https://commons.wikimedia.org/wiki/File:Franciscan_Monastery_in_Dubrovnik_02.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/dubrovnik-10.jpg | https://commons.wikimedia.org/wiki/File:Pile_Gate,_Dubrovnik_02_(js).jpg | CC BY-SA 3.0 | Jerzy Strzelecki
+highlights/dubrovnik-11.jpg | https://commons.wikimedia.org/wiki/File:Dubrovnik_-_Old_harbour.jpg | CC BY 4.0 | Tiia Monto
+highlights/dubrovnik-12.jpg | https://commons.wikimedia.org/wiki/File:Dominican_Monastery_Dubrovnik.JPG | CC BY-SA 3.0 | IoannesII
+highlights/dubrovnik-13.jpg | https://commons.wikimedia.org/wiki/File:2011_Dubrownik,_Pla%C5%BCa_Banje.jpg | CC BY-SA 4.0 | Marcin Konsek
+highlights/dubrovnik-14.jpg | https://commons.wikimedia.org/wiki/File:Ston-Fort-04.jpg | Public domain | László Szalai (Beyond silence)
+highlights/split-7.jpg | https://commons.wikimedia.org/wiki/File:Peristyle_of_Diocletian%27s_Palace_-_Split_-_51387487617.jpg | CC BY 2.0 | TimeTravelRome
+highlights/split-9.jpg | https://commons.wikimedia.org/wiki/File:Split_-_Grgur_Ninski_(49019337717).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/split-10.jpg | https://commons.wikimedia.org/wiki/File:Narodni_Trg_(Pjaca)_Split.jpg | CC BY-SA 4.0 | Liilia Moroz
+highlights/split-11.jpg | https://commons.wikimedia.org/wiki/File:Split-Mestrovic-Galerie-02.jpg | CC BY-SA 4.0 | SchiDD
+highlights/split-13.jpg | https://commons.wikimedia.org/wiki/File:Fortress_of_Klis_06.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/split-14.jpg | https://commons.wikimedia.org/wiki/File:Ancient_Salona_-_Solin_61.jpg | CC BY 2.0 | TimeTravelRome
+highlights/zadar-6.jpg | https://commons.wikimedia.org/wiki/File:Kathedrale_St._Anastasia.jpg | CC BY-SA 4.0 | Palauenc05
+highlights/zadar-7.jpg | https://commons.wikimedia.org/wiki/File:Kopnena_Vrata_(Zadar)_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/zadar-8.jpg | https://commons.wikimedia.org/wiki/File:Five_Wells_Square_-_panoramio.jpg | CC BY 3.0 | lienyuan lee
+highlights/zadar-9.jpg | https://commons.wikimedia.org/wiki/File:Zadar_Museum_of_Ancient_Glass_57.jpg | CC BY 2.0 | TimeTravelRome
+highlights/zadar-10.jpg | https://commons.wikimedia.org/wiki/File:Lower_City_Gate,_Nin_02.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/rovinj-6.jpg | https://commons.wikimedia.org/wiki/File:Rovigno_-_Balbi%27s_Arch_-_Balbijev_luk_-_panoramio.jpg | CC BY-SA 3.0 | Andrea Albini
+highlights/rovinj-7.jpg | https://commons.wikimedia.org/wiki/File:Rovinj_Old_Town.jpg | CC BY-SA 4.0 | Einaz80
+highlights/rovinj-8.jpg | https://commons.wikimedia.org/wiki/File:Batana_Rovinj_kolovoz_2008_2.jpg | CC BY-SA 3.0 | Roberta F.
+highlights/rovinj-9.jpg | https://commons.wikimedia.org/wiki/File:Lim-Bay_banner1.jpg | CC BY-SA 2.0 | Nick Savchenko from Kiev, Ukraine
+highlights/hvar-6.jpg | https://commons.wikimedia.org/wiki/File:St._Stephen%27s_Cathedral,_Hvar_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/hvar-7.jpg | https://commons.wikimedia.org/wiki/File:Hvar_Town_-_Franciscan_Monastery.jpg | CC BY-SA 4.0 | Shawabunga
+highlights/hvar-8.jpg | https://commons.wikimedia.org/wiki/File:Hvar_arsenal.JPG | CC BY-SA 3.0 | Schorle
+highlights/trogir-5.jpg | https://commons.wikimedia.org/wiki/File:Trogir_North_Gate.jpg | CC BY 2.0 | TimeTravelRome
+highlights/trogir-6.jpg | https://commons.wikimedia.org/wiki/File:Trogir_-_Benediktinke_sv._Nikole_(49013113228).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/trogir-7.jpg | https://commons.wikimedia.org/wiki/File:Trogir_-_Pala%C4%8Da_%C4%86ipiko_(49013848427).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/plitvice-5.jpg | https://commons.wikimedia.org/wiki/File:J32_133_Jezero_Kozjak.jpg | CC BY-SA 4.0 | Falk2
+highlights/plitvice-6.jpg | https://commons.wikimedia.org/wiki/File:Plitvice_lakes_june_30_2017_view_of_lake_from_upper_point_of_view.jpg | CC BY-SA 4.0 | Francescoguarascio1973
+highlights/plitvice-7.jpg | https://commons.wikimedia.org/wiki/File:Lower_lakes,_Plitvice_national_park.jpg | CC BY-SA 4.0 | Twiggiez
+cities/pula.jpg | https://commons.wikimedia.org/wiki/File:Anfiteatro_de_Pula,_Croacia,_2017-04-17,_DD_13-18_HDR_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+cities/porec.jpg | https://commons.wikimedia.org/wiki/File:View_to_Porec_old_town_in_the_morning_sun.jpg | CC BY-SA 4.0 | Ekaterina Polischuk
+cities/sibenik.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0ibenik_harbour_-_panorama.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+cities/korcula.jpg | https://commons.wikimedia.org/wiki/File:West_side_of_Kor%C4%8Dula_Old_Town_with_the_large_Governor%27s_Tower.jpg | CC BY-SA 4.0 | Shawabunga
+highlights/pula-1.jpg | https://commons.wikimedia.org/wiki/File:Arena_di_Pola_Esterno.JPG | Public domain | Grifter72
+highlights/pula-2.jpg | https://commons.wikimedia.org/wiki/File:Arch_of_the_Sergii,_Pula_(36316656253).jpg | CC BY-SA 2.0 | Chris Sammis from Lenexa, KS, United States
+highlights/pula-3.jpg | https://commons.wikimedia.org/wiki/File:Forum,_Pula.jpg | CC BY-SA 4.0 | Viktar Palstsiuk
+highlights/pula-4.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Augusto_y_ayuntamiento,_Pula,_Croacia,_2017-04-17,_DD_68-70_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/pula-5.jpg | https://commons.wikimedia.org/wiki/File:Fuerte_Ka%C5%A1tel,_Pula,_Croacia,_2017-04-16,_DD_45.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/pula-6.jpg | https://commons.wikimedia.org/wiki/File:Brijuni_(1).jpg | CC BY-SA 4.0 | Marko Jukić -Majkl
+highlights/pula-7.jpg | https://commons.wikimedia.org/wiki/File:Kamenjak_Island,_Vela_Luka_20260720_03.jpg | CC BY-SA 4.0 | Argo Navis
+highlights/porec-1.jpg | https://commons.wikimedia.org/wiki/File:Euphrasian_Basilica_Remains_of_Early_Christian_Church.JPG | CC BY-SA 3.0 | Shesmax
+highlights/porec-2.jpg | https://commons.wikimedia.org/wiki/File:Pore%C4%8D,_die_Stra%C3%9Fe_Ulica_Decumanus,_Ostteil.JPG | CC BY 3.0 | Dguendel
+highlights/porec-3.jpg | https://commons.wikimedia.org/wiki/File:Pore%C4%8D%E2%80%93Trg_Marafor-01.jpg | CC0 | Maesi64
+highlights/porec-4.jpg | https://commons.wikimedia.org/wiki/File:Pore%C4%8D%E2%80%93Obrambena_kula-01.jpg | CC0 | Maesi64
+highlights/porec-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_to_Motovun.jpg | CC BY-SA 4.0 | Ekaterina Polischuk
+highlights/sibenik-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_of_St._James,_%C5%A0ibenik_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/sibenik-2.jpg | https://commons.wikimedia.org/wiki/File:Sibenik_13.jpg | CC BY-SA 4.0 | LBM1948
+highlights/sibenik-3.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_St._Michael%27s_Fortress,_%C5%A0ibenik_(view_from_the_west).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/sibenik-4.jpg | https://commons.wikimedia.org/wiki/File:Barone_izgradnja-43.jpg | CC BY-SA 4.0 | Lady Ivy
+highlights/sibenik-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_St._Nicholas_Fortress_(view_from_the_southeast).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/sibenik-6.jpg | https://commons.wikimedia.org/wiki/File:Skradinski_buk_waterfall_%E2%80%93_NP_Krka_%E2%80%93_2016.jpg | CC BY-SA 4.0 | Skot
+highlights/korcula-1.jpg | https://commons.wikimedia.org/wiki/File:Kor%C4%8Dula,_Croatia.jpg | CC BY 4.0 | Quintin Soloviev
+highlights/korcula-2.jpg | https://commons.wikimedia.org/wiki/File:Katedrala_sv._Marka.jpg | CC BY-SA 4.0 | Kireeva Veronika
+highlights/korcula-3.jpg | https://commons.wikimedia.org/wiki/File:Kor%C4%8Dula_06719-_St._Peter%27s_Church_and_Marco_Polo_birthplace.jpg | Public domain | Anto (talk) 13:18, 10 March 2009 (UTC)
+highlights/korcula-4.jpg | https://commons.wikimedia.org/wiki/File:Lumbarda_-_luka.jpg | CC0 | Silverije
+highlights/korcula-5.jpg | https://commons.wikimedia.org/wiki/File:Franciscan_Monastery_Badija_2016.jpg | CC BY-SA 4.0 | Ante Pletikosić
+highlights/maastricht-2.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_-_Sebastianenweg_-_Grotten_Noord_GM-3744_20210117_ingang.jpg | CC BY-SA 4.0 | Otter
+highlights/split-8.jpg | https://commons.wikimedia.org/wiki/File:Basement_room_of_Diocletian%27s_Palace.jpg | CC BY-SA 4.0 | Gaius Cornelius
+highlights/split-12.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Bacvice_Beach_with_a_view_to_Split_in_the_background,_Croatia_(48608737377).jpg | CC BY 2.0 | dronepicr

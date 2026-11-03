@@ -38,20 +38,63 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['미케네와 에피다우로스|Mycenae & Epidaurus', 6, 7]] },
-  zagreb: [4, 3, 1, 2, 5],
-  dubrovnik: { days: [['', 2, 7, 6, 1, 3, 4]], trips: [['로크룸 섬|Lokrum', 5]] },
-  split: { days: [['', 2, 1, 6, 4, 3]], trips: [['흐바르·브라치|Hvar or Brač', 5]] },
-  zadar: [5, 4, 3, 1, 2],
-  rovinj: { days: [['', 3, 2, 1, 4]], trips: [['붉은 섬|Red Island', 5]] },
+  zagreb: [4, 11, 3, 7, 10, 9, 6, 1, 2, 8, 12, 5],
+  dubrovnik: {
+    days: [
+      ['구시가와 성벽|Old town & walls', 10, 9, 2, 7, 8, 6, 12, 11, 1],
+      ['로브리예나츠와 스르지산|Lovrijenac & Mount Srđ', 3, 13, 4],
+    ],
+    trips: [
+      ['로크룸 섬|Lokrum', 5],
+      ['스톤|Ston', 14],
+    ],
+  },
+  split: {
+    days: [['', 9, 1, 7, 6, 4, 8, 10, 2, 3, 11, 12]],
+    trips: [
+      ['흐바르·브라치|Hvar or Brač', 5],
+      ['클리스와 살로나|Klis & Salona', 13, 14],
+    ],
+  },
+  zadar: { days: [['', 7, 8, 5, 4, 3, 6, 9, 1, 2]], trips: [['닌|Nin', 10]] },
+  sibenik: {
+    days: [['', 1, 2, 3, 4]],
+    trips: [
+      ['성 니콜라 요새|St Nicholas Fortress', 5],
+      ['크르카 국립공원|Krka National Park', 6],
+    ],
+  },
+  rovinj: {
+    days: [['', 3, 8, 6, 2, 7, 1, 4]],
+    trips: [
+      ['붉은 섬|Red Island', 5],
+      ['림 피오르|Lim Bay', 9],
+    ],
+  },
+  pula: {
+    days: [['', 1, 2, 3, 4, 5]],
+    trips: [
+      ['브리유니 국립공원|Brijuni National Park', 6],
+      ['카메냐크 곶|Cape Kamenjak', 7],
+    ],
+  },
+  porec: { days: [['', 2, 1, 3, 4]], trips: [['모토분|Motovun', 5]] },
   hvar: {
-    days: [['', 2, 1]],
+    days: [['', 2, 6, 8, 7, 1]],
     trips: [
       ['파클레니 제도|Pakleni Islands', 3],
       ['스타리그라드와 라벤더 밭|Stari Grad & lavender fields', 5, 4],
     ],
   },
-  trogir: [4, 1, 3, 2],
-  plitvice: { days: [['', 1, 3, 2]], trips: [['라스토케|Rastoke', 4]] },
+  korcula: {
+    days: [['', 1, 2, 3]],
+    trips: [
+      ['룸바르다|Lumbarda', 4],
+      ['바디야섬|Badija', 5],
+    ],
+  },
+  trogir: [5, 4, 1, 7, 6, 3, 2],
+  plitvice: { days: [['', 7, 1, 5, 6, 3, 2]], trips: [['라스토케|Rastoke', 4]] },
   istanbul: {
     days: [
       ['술탄아흐메트|Sultanahmet', 6, 1, 2, 3],
