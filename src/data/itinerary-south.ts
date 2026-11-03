@@ -41,12 +41,12 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   zagreb: [4, 11, 3, 7, 10, 9, 6, 1, 2, 8, 12, 5],
   dubrovnik: {
     days: [
-      ['구시가와 성벽|Old town & walls', 10, 9, 2, 7, 8, 6, 12, 11, 1],
-      ['로브리예나츠와 스르지산|Lovrijenac & Mount Srđ', 3, 13, 4],
+      ['구시가|Old town', 10, 17, 9, 2, 7, 15, 16, 8, 6, 19, 12, 11],
+      ['성벽과 로브리예나츠|Walls & Lovrijenac', 1, 3, 18, 13, 4],
     ],
     trips: [
       ['로크룸 섬|Lokrum', 5],
-      ['스톤|Ston', 14],
+      ['스톤|Ston', 20, 14],
     ],
   },
   split: {
@@ -56,7 +56,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['클리스와 살로나|Klis & Salona', 13, 14],
     ],
   },
-  zadar: { days: [['', 7, 8, 5, 4, 3, 6, 9, 1, 2]], trips: [['닌|Nin', 10]] },
+  zadar: { days: [['', 7, 8, 5, 4, 3, 11, 6, 9, 1, 2]], trips: [['닌|Nin', 10]] },
   sibenik: {
     days: [['', 1, 2, 3, 4]],
     trips: [

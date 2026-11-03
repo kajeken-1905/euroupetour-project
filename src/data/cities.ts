@@ -18614,6 +18614,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pile%20Gate%20Dubrovnik",
       },
       {
+        id: "dubrovnik-h17",
+        name: { ko: "오노프리오 대분수", en: "Large Onofrio’s Fountain" },
+        description: { ko: "필레 문 바로 안쪽의 1438년 원형 분수로, 12km 수로로 끌어온 물이 16개의 석조 얼굴 입에서 흘러나옵니다.", en: "The round fountain of 1438 just inside the Pile Gate, where water brought by a 12 km aqueduct pours from 16 carved masks." },
+        image: "/highlights/dubrovnik-17.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Onofrio%E2%80%99s%20Fountain%20Dubrovnik",
+      },
+      {
         id: "dubrovnik-h9",
         name: { ko: "프란체스코 수도원", en: "Franciscan Monastery" },
         description: { ko: "필레 문 바로 안쪽의 수도원으로, 로마네스크 회랑과 1317년부터 문을 연 유럽에서 손꼽히게 오래된 약국이 있습니다.", en: "The monastery just inside the Pile Gate, with a Romanesque cloister and one of Europe’s oldest pharmacies, open since 1317." },
@@ -18635,6 +18642,20 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lu%C5%BEa%201%2C%2020000%20Grad%20Dubrovnik",
       },
       {
+        id: "dubrovnik-h15",
+        name: { ko: "성 블라호 성당", en: "Church of St. Blaise" },
+        description: { ko: "도시 수호성인 성 블라호(블레즈)에게 바친 루자 광장의 바로크 성당으로, 제단에 도시 모형을 든 은제 성인상이 있고 이보 둘치치의 스테인드글라스가 빛납니다.", en: "The Baroque church of the city’s patron, St Blaise, on Luža Square, with a silver statue of the saint holding a model of the city and stained glass by Ivo Dulčić." },
+        image: "/highlights/dubrovnik-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Church%20of%20St.%20Blaise%20Dubrovnik",
+      },
+      {
+        id: "dubrovnik-h16",
+        name: { ko: "스폰자 궁전", en: "Sponza Palace" },
+        description: { ko: "옛 세관이자 조폐소였던 16세기 고딕·르네상스 궁전으로, 1667년 대지진에도 무너지지 않았습니다. 지금은 국가 기록 보관소와 두브로브니크 수비대 추모관이 있습니다.", en: "The 16th-century Gothic-Renaissance palace that served as customs house and mint and survived the 1667 earthquake; now the State Archives and a memorial to the city’s defenders." },
+        image: "/highlights/dubrovnik-16.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sponza%20Palace%20Dubrovnik",
+      },
+      {
         id: "dubrovnik-h8",
         name: { ko: "렉터 궁전", en: "Rector’s Palace" },
         description: { ko: "두브로브니크 공화국의 총독이 한 달씩 머물며 다스리던 고딕·르네상스 궁전으로, 지금은 문화사 박물관입니다.", en: "The Gothic-Renaissance palace where the Republic of Ragusa’s rector lived for his one-month term; now the Cultural History Museum." },
@@ -18647,6 +18668,13 @@ export const cities: City[] = [
         description: { ko: "바로크 양식의 성모승천 대성당입니다.", en: "Baroque cathedral of the Assumption." },
         image: "/highlights/dubrovnik-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dubrovnik%20Cathedral",
+      },
+      {
+        id: "dubrovnik-h19",
+        name: { ko: "군둘리치 광장", en: "Gundulić Square" },
+        description: { ko: "시인 이반 군둘리치 동상이 선 구시가 광장으로, 오전마다 과일·라벤더·말린 무화과를 파는 노점 시장이 섭니다.", en: "The old-town square with a statue of the poet Ivan Gundulić, where a morning stall market sells fruit, lavender and dried figs." },
+        image: "/highlights/dubrovnik-19.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gunduli%C4%87%20Square%20Dubrovnik",
       },
       {
         id: "dubrovnik-h12",
@@ -18677,6 +18705,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fort%20Lovrijenac",
       },
       {
+        id: "dubrovnik-h18",
+        name: { ko: "레벨린 요새", en: "Fort Revelin" },
+        description: { ko: "플로체 문을 지키는 16세기 요새로, 넓은 옥상 테라스의 대포 너머로 옛 항구와 로크룸섬이 보입니다.", en: "The 16th-century fort guarding the Ploče Gate; past the cannons on its broad roof terrace lie the Old Port and Lokrum." },
+        image: "/highlights/dubrovnik-18.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fort%20Revelin%20Dubrovnik",
+      },
+      {
         id: "dubrovnik-h13",
         name: { ko: "반예 해변", en: "Banje Beach" },
         description: { ko: "플로체 문 바로 밖의 자갈 해변으로, 바다 쪽에서 성벽과 옛 항구를 바라볼 수 있습니다.", en: "The pebble beach just outside the Ploče Gate, looking back at the walls and the Old Port." },
@@ -18703,6 +18738,13 @@ export const cities: City[] = [
         description: { ko: "두브로브니크 공화국이 소금밭을 지키려고 쌓은 길이 5km 남짓의 성벽으로, 마을은 굴과 홍합 양식으로도 유명합니다.", en: "The 5-plus-kilometre walls the Republic of Ragusa built to guard its salt pans; the village is also known for its oysters and mussels." },
         image: "/highlights/dubrovnik-14.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ston%20Walls",
+      },
+      {
+        id: "dubrovnik-h20",
+        name: { ko: "펠예샤츠 대교", en: "Pelješac Bridge" },
+        description: { ko: "2022년에 개통한 길이 2.4km의 다리로, 보스니아 네움을 거치지 않고 두브로브니크 쪽 남부 달마티아와 크로아티아 본토를 잇습니다. 스톤 가는 길에 지납니다.", en: "The 2.4 km bridge opened in 2022, linking southern Dalmatia and Dubrovnik with the rest of mainland Croatia without crossing Bosnia at Neum; you cross it on the way to Ston." },
+        image: "/highlights/dubrovnik-20.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pelje%C5%A1ac%20Bridge",
       },
     ],
   },
@@ -18866,6 +18908,13 @@ export const cities: City[] = [
         description: { ko: "원형 중세 교회입니다.", en: "Circular medieval church." },
         image: "/highlights/zadar-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Donatus%20Zadar",
+      },
+      {
+        id: "zadar-h11",
+        name: { ko: "성 마리아 성당과 보물관", en: "St. Mary’s Church & Treasury" },
+        description: { ko: "포룸 옆 베네딕도회 수녀원의 성당으로, 수녀원 안 ‘자다르의 금과 은’ 상설 전시에 중세 금은 성유물함이 모여 있습니다.", en: "The Benedictine convent church beside the Forum, whose “Gold and Silver of Zadar” exhibition gathers medieval gold and silver reliquaries." },
+        image: "/highlights/zadar-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St.%20Mary%E2%80%99s%20Church%20Zadar",
       },
       {
         id: "zadar-h6",

@@ -603,5 +603,30 @@
     42.92484,
     17.16723,
     "Google Maps place page 2026-11-04: Lumbarda"
+  ],
+  "dubrovnik-h15": [
+    42.6408,
+    18.11,
+    "Wikipedia coordinates (42°38′27″N 18°6′36″E) 2026-11-04"
+  ],
+  "dubrovnik-h17": [
+    42.641554,
+    18.107303,
+    "OSM Nominatim \"Velika Onofrijeva česma\""
+  ],
+  "dubrovnik-h18": [
+    42.6423179,
+    18.1125809,
+    "OSM Nominatim \"Revelin\""
+  ],
+  "dubrovnik-h19": [
+    42.6402091,
+    18.1099257,
+    "OSM Nominatim \"Gundulićeva poljana\""
+  ],
+  "zadar-h11": [
+    44.11553,
+    15.22443,
+    "User's own photo GPS (IMG_3581, taken facing the church) 2026-11-04"
   ]
 }

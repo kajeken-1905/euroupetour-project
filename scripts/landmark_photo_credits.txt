@@ -1779,3 +1779,18 @@ highlights/korcula-5.jpg | https://commons.wikimedia.org/wiki/File:Franciscan_Mo
 highlights/maastricht-2.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_-_Sebastianenweg_-_Grotten_Noord_GM-3744_20210117_ingang.jpg | CC BY-SA 4.0 | Otter
 highlights/split-8.jpg | https://commons.wikimedia.org/wiki/File:Basement_room_of_Diocletian%27s_Palace.jpg | CC BY-SA 4.0 | Gaius Cornelius
 highlights/split-12.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Bacvice_Beach_with_a_view_to_Split_in_the_background,_Croatia_(48608737377).jpg | CC BY 2.0 | dronepicr
+highlights/dubrovnik-2.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-3.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-7.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-11.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-15.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-16.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-17.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-18.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-19.jpg | own photo | own photo | 사용자 촬영
+highlights/dubrovnik-20.jpg | own photo | own photo | 사용자 촬영
+highlights/zadar-3.jpg | own photo | own photo | 사용자 촬영
+highlights/zadar-4.jpg | own photo | own photo | 사용자 촬영
+cities/neum.jpg | own photo | own photo | 사용자 촬영
+highlights/neum-1.jpg | own photo | own photo | 사용자 촬영
+highlights/zadar-11.jpg | https://commons.wikimedia.org/wiki/File:24.04.2011._Zadar_Crkva_sv._Marije_-_panoramio.jpg | CC BY-SA 3.0 | Sandor Bordas
