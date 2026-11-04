@@ -1089,6 +1089,34 @@
 "banska-bystrica-fine_dining-3": {
 "ok": 1
 },
+"banska-bystrica-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"banska-stiavnica-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"banska-stiavnica-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"banska-stiavnica-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"banska-stiavnica-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"banska-stiavnica-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"banska-stiavnica-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "barcelona-bakery-1": {
 "del": 1
 },
@@ -1188,6 +1216,26 @@
 "en": "Korean restaurant in the Eixample with generous portions; booking advised.",
 "ko": "에이샴플레의 한식당. 양이 넉넉하고 예약하는 편이 좋습니다.",
 "ok": 1
+},
+"bardejov-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bardejov-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bardejov-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bardejov-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bardejov-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "bari-bakery-1": {
 "ok": 1
@@ -2160,6 +2208,14 @@
 },
 "bratislava-fine_dining-4": {
 "ok": 1
+},
+"bratislava-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"bratislava-fine_dining-6": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "bratislava-korean-1": {
 "del": 1
@@ -7321,6 +7377,30 @@
 "ko": "저녁에만 여는 한식당.",
 "ok": 1
 },
+"levoca-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"levoca-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"levoca-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"levoca-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"levoca-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"levoca-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "limassol-bakery-1": {
 "cat": "cafe",
 "en": "Brunch café in the Enaerios area with healthy dishes and a gluten-free menu.",
@@ -9557,6 +9637,34 @@
 "nis-fine_dining-3": {
 "ok": 1
 },
+"nitra-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nitra-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nitra-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nitra-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nitra-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nitra-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
+"nitra-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps"
+},
 "north-nicosia-cafe-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -10745,6 +10853,10 @@
 "en": "1930s-style restaurant named after a Louis de Funès film character, serving French-inflected dishes and pizza.",
 "ko": "루이 드 퓌네스 영화 속 인물에서 이름을 딴 1930년대풍 레스토랑. 프랑스풍 요리와 피자를 냅니다.",
 "ok": 1
+},
+"poprad-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "porto-bakery-1": {
 "ok": true
@@ -14357,6 +14469,10 @@
 },
 "trencin-fine_dining-3": {
 "ok": 1
+},
+"trencin-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-04 google maps"
 },
 "trieste-cafe-1": {
 "ok": 1

@@ -53,4 +53,55 @@ export const placesSKExtra: Place[] = [
   place('trencin-cafe-1', 'trencin', 'cafe', 'Café Sládkovič', 'Mierové námestie 33/33, 911 01 Trenčín, Slovakia', '시인 얀 슬라드코비치를 기리는 방들로 꾸민 박물관 같은 카페. 커피와 케이크가 좋습니다.', 'Museum-like café with rooms honouring the poet Ján Sládkovič, known for its coffee and cakes.'),
   place('trencin-cafe-2', 'trencin', 'cafe', 'Coffee Lab - Coffee Shop & Roastery', 'Štúrovo námestie 5, 911 01 Trenčín, Slovakia', '슈투로보 광장의 스페셜티 에스프레소 바 겸 로스터리', 'Specialty espresso bar and roastery on Štúrovo námestie square in Trenčín'),
   place('trencin-cafe-3', 'trencin', 'cafe', 'CoffeeSheep', 'Matúšova 22, 911 01 Trenčín, Slovakia', '마투쇼바 거리의 카페.', 'Café on Matúšova street in Trenčín.'),
+
+  // —— banska-stiavnica: restaurants, bakeries and cafés (2026-11-04) ——
+  place('banska-stiavnica-fine_dining-1', 'banska-stiavnica', 'fine_dining', 'Lemberg bistro', 'Radničné námestie 10, 969 01 Banská Štiavnica', '시청 광장의 채식 비스트로.', 'Vegan bistro on the town-hall square.'),
+  place('banska-stiavnica-fine_dining-2', 'banska-stiavnica', 'fine_dining', '4Sochy', 'Kammerhofská 191, 969 01 Banská Štiavnica', '구시가 캄메르호프스카 거리의 레스토랑.', 'Restaurant on Kammerhofská in the old town.'),
+  place('banska-stiavnica-fine_dining-3', 'banska-stiavnica', 'fine_dining', 'Bistro Ďumbier', 'Akademická 334/9, 969 01 Banská Štiavnica', '구시가의 비스트로.', 'Bistro in the old town.'),
+  place('banska-stiavnica-bakery-1', 'banska-stiavnica', 'bakery', 'Štiavnická Špacírka', 'Andreja Kmeťa, 969 01 Banská Štiavnica', '구시가의 제과점.', 'Pastry shop in the old town.'),
+  place('banska-stiavnica-cafe-1', 'banska-stiavnica', 'cafe', 'Stará škola', 'Andreja Kmeťa 9, 969 01 Banská Štiavnica', '옛 학교 건물의 커피숍.', 'Coffee shop in an old school building.'),
+  place('banska-stiavnica-cafe-2', 'banska-stiavnica', 'cafe', 'Tidly Café', 'Dolná 5, 969 01 Banská Štiavnica', '돌나 거리의 카페 바.', 'Café-bar on Dolná street.'),
+
+  // —— levoca: restaurants, bakeries and cafés (2026-11-04) ——
+  place('levoca-fine_dining-1', 'levoca', 'fine_dining', 'Reštaurácia Kupecká Bašta', 'Kukučínova 2, 054 01 Levoča', '옛 성벽 보루의 슬로바키아 요리 식당.', 'Slovak restaurant in an old wall bastion.'),
+  place('levoca-fine_dining-2', 'levoca', 'fine_dining', 'Planéta Levoča', 'Námestie Majstra Pavla 38, 054 01 Levoča', '중앙 광장의 식당.', 'Restaurant on the main square.'),
+  place('levoca-fine_dining-3', 'levoca', 'fine_dining', 'Reštaurácia U Leva', 'Námestie Majstra Pavla 25, 054 01 Levoča', '중앙 광장 호텔의 슬로바키아 요리 식당.', 'Slovak restaurant in a hotel on the main square.'),
+  place('levoca-bakery-1', 'levoca', 'bakery', 'Cukráreň Oáza', 'Námestie Majstra Pavla 26, 054 01 Levoča', '중앙 광장의 제과점.', 'Pastry shop on the main square.'),
+  place('levoca-cafe-1', 'levoca', 'cafe', 'Leutschau CAFÉ', 'Námestie Majstra Pavla 18, 054 01 Levoča', '중앙 광장의 에스프레소 바.', 'Espresso bar on the main square.'),
+  place('levoca-cafe-2', 'levoca', 'cafe', 'Výberofka', 'Námestie Majstra Pavla 56, 054 01 Levoča', '중앙 광장의 커피숍.', 'Coffee shop on the main square.'),
+
+  // —— bardejov: restaurants, bakeries and cafés (2026-11-04) ——
+  place('bardejov-fine_dining-1', 'bardejov', 'fine_dining', 'Assisi Restaurant', 'Františkánov 139/2, 085 01 Bardejov', '프란체스코회 수도원 거리의 레스토랑.', 'Restaurant on Františkánov street by the Franciscan monastery.'),
+  place('bardejov-fine_dining-2', 'bardejov', 'fine_dining', 'Pho Co', 'Štefánikova 682/4, 085 01 Bardejov', '베트남 쌀국수 식당.', 'Vietnamese pho restaurant.'),
+  place('bardejov-bakery-1', 'bardejov', 'bakery', 'Cukráreň Oáza', 'Veterná 155/1, 085 01 Bardejov', '시내의 제과점.', 'Pastry shop in town.'),
+  place('bardejov-cafe-1', 'bardejov', 'cafe', 'Kaviareň Tvoj Deň', 'Františkánov, 085 01 Bardejov', '커피와 케이크를 내는 카페.', 'Café for coffee and cake.'),
+  place('bardejov-cafe-2', 'bardejov', 'cafe', 'Chianti wine & coffee bar', 'Radničné námestie 1/1, 085 01 Bardejov', '시청 광장의 와인·커피 바.', 'Wine and coffee bar on Town Hall Square.'),
+
+  // —— nitra: restaurants, bakeries and cafés (2026-11-04) ——
+  place('nitra-fine_dining-1', 'nitra', 'fine_dining', 'Castellum Cafe', 'Námestie Jána Pavla II., 949 01 Nitra', '니트라 성 안의 레스토랑 겸 카페.', 'Restaurant and café inside Nitra Castle.'),
+  place('nitra-fine_dining-2', 'nitra', 'fine_dining', 'Starý Biskupský Hostinec', 'Na Sihoti 3, 949 01 Nitra', '시립 공원 안의 레스토랑.', 'Restaurant in the city park.'),
+  place('nitra-fine_dining-3', 'nitra', 'fine_dining', 'El Dorado', 'Fraňa Mojtu 12, 949 01 Nitra', '시내의 레스토랑.', 'Restaurant in the town.'),
+  place('nitra-bakery-1', 'nitra', 'bakery', 'Pekáreň Roh', 'Koceľova 1113/8, 949 01 Nitra', '시내의 빵집.', 'Bakery in the town.'),
+  place('nitra-bakery-2', 'nitra', 'bakery', 'Koláčiky od Veve', 'Mostná 13, 949 01 Nitra', '슬로바키아 전통 과자 콜라치를 굽는 제과점.', 'Pastry shop baking koláče, traditional Slovak pastries.'),
+  place('nitra-cafe-1', 'nitra', 'cafe', 'Moka Coffee shop', 'Farská 20, 949 01 Nitra', '시내의 카페.', 'Café in the town.'),
+  place('nitra-cafe-2', 'nitra', 'cafe', 'Kávaprevšetkých – Pražiareň pod Hradom', 'Podzámska 5, 949 01 Nitra', '성 아래의 커피 로스터리 카페.', 'Coffee roaster’s café below the castle.'),
+
+  // —— poprad: restaurants, bakeries and cafés (2026-11-04) ——
+  place('poprad-fine_dining-4', 'poprad', 'fine_dining', 'PREZO Restaurant', 'Dlhé Hony 5268/9, 058 01 Poprad', '시내의 레스토랑.', 'Restaurant in the town.'),
+  place('poprad-bakery-2', 'poprad', 'bakery', 'Cukráreň Domenico', 'Farbiarska 1208/2, 058 01 Poprad', '벨카 지구의 케이크 가게.', 'Cake shop in the Veľká quarter.'),
+  place('poprad-bakery-3', 'poprad', 'bakery', 'Remeselná Pekáreň LA Buchta', 'Velické námestie 1172/3, 058 01 Poprad', '벨카 광장의 수제 빵집.', 'Craft bakery on Velické námestie.'),
+
+  // —— banska-bystrica: restaurants, bakeries and cafés (2026-11-04) ——
+  place('banska-bystrica-fine_dining-4', 'banska-bystrica', 'fine_dining', 'Davaj Het – Bystrický lokál', 'Námestie SNP 2, 974 01 Banská Bystrica', 'SNP 광장의 슬로바키아 요리 식당.', 'Slovak restaurant on SNP Square.'),
+  place('banska-bystrica-bakery-3', 'banska-bystrica', 'bakery', 'Pekáreň Alea', 'Námestie Š. Moysesa 34/6, 974 01 Banská Bystrica', '모이세스 광장의 빵집.', 'Bakery on Moyzes Square.'),
+
+  // —— trencin: restaurants, bakeries and cafés (2026-11-04) ——
+  place('trencin-fine_dining-4', 'trencin', 'fine_dining', 'Black Angus Steak House & Bar', 'Sládkovičova 2, 911 01 Trenčín', '구시가의 스테이크 하우스.', 'Steak house in the old town.'),
+  place('trencin-bakery-3', 'trencin', 'bakery', 'Mood bakery', 'Mierové námestie, 911 01 Trenčín', '미에로베 광장의 빵집.', 'Bakery on Mierové námestie.'),
+
+  // —— bratislava: restaurants, bakeries and cafés (2026-11-04) ——
+  place('bratislava-fine_dining-5', 'bratislava', 'fine_dining', 'Modrá Hviezda (Blue Star)', 'Beblavého 292/14, 811 01 Bratislava', '성으로 오르는 골목의 슬로바키아 요리 레스토랑.', 'Slovak restaurant on a lane up to the castle.'),
+  place('bratislava-fine_dining-6', 'bratislava', 'fine_dining', 'Dolnozemská', 'Panská 248/7, 811 01 Bratislava', '구시가 판스카 거리의 슬로바키아 요리 식당.', 'Slovak restaurant on Panská in the old town.'),
+  place('bratislava-cafe-3', 'bratislava', 'cafe', 'Foxford', 'Obchodná 516/26, 811 06 Bratislava', '오브호드나 거리의 카페.', 'Café on Obchodná street.'),
+  place('bratislava-cafe-4', 'bratislava', 'cafe', 'Sweet Beans Coffee', 'Obchodná 48, 811 06 Bratislava', '오브호드나 거리의 커피숍.', 'Coffee shop on Obchodná street.'),
 ]
