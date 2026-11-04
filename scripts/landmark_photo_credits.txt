@@ -1937,3 +1937,50 @@ highlights/czestochowa-3.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_za
 highlights/czestochowa-4.jpg | https://commons.wikimedia.org/wiki/File:20180721_Zamek_w_Olsztynie_0803_7727_DxO.jpg | CC BY-SA 4.0 | Jakub Hałun
 highlights/lublin-4.jpg | https://commons.wikimedia.org/wiki/File:Lublin_Underground_Route_A_321.JPG | CC BY-SA 4.0 | Ciacho5
 highlights/the-hague-9.jpg | https://commons.wikimedia.org/wiki/File:Yi_Jun_Peace_Museum,_The_Hague_(2016)_05.png | CC BY-SA 4.0 | OSeveno
+highlights/london-21.jpg | https://commons.wikimedia.org/wiki/File:Churchill_Cabinet_War_Rooms_01.jpg | CC BY-SA 4.0 | Jordiferrer
+highlights/london-16.jpg | https://commons.wikimedia.org/wiki/File:National_Gallery_,_Trafalgar_Square,_London_(_Ank_Kumar_,_Infosys_Limited)_01.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/london-24.jpg | https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006.jpg | CC BY 2.5 | Diliff
+highlights/london-23.jpg | https://commons.wikimedia.org/wiki/File:The_Sky_Garden.jpg | CC BY-SA 4.0 | Colin
+highlights/london-20.jpg | https://commons.wikimedia.org/wiki/File:Shakespeare%27s_Globe,_London,_UK_(Ank_Kumar,_Infosys_Limited)_04.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/london-19.jpg | https://commons.wikimedia.org/wiki/File:Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg | CC BY-SA 4.0 | Colin
+highlights/london-17.jpg | https://commons.wikimedia.org/wiki/File:Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/london-18.jpg | https://commons.wikimedia.org/wiki/File:At_Victoria_and_Albert_Museum_2024_001.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/london-22.jpg | https://commons.wikimedia.org/wiki/File:Victoria_and_Kensington_Palace.jpg | CC BY 3.0 | Eusebius
+highlights/london-25.jpg | https://commons.wikimedia.org/wiki/File:London_,_Camden_-_Camden_Market_-_geograph.org.uk_-_2047319.jpg | CC BY-SA 2.0 | Lewis Clarke
+highlights/london-26.jpg | https://commons.wikimedia.org/wiki/File:London,_Greenwich,_Blick_vom_H%C3%BCgel_des_Royal_Greenwich_Observatory_--_2016_--_4736-8.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/london-27.jpg | https://commons.wikimedia.org/wiki/File:Alpine_House,_Kew_Gardens,_2018_edit.jpg | CC BY-SA 3.0 | Daniel Case
+highlights/london-29.jpg | https://commons.wikimedia.org/wiki/File:Hampton_Court_Palace_in_East_Molesey.jpg | CC BY-SA 4.0 | DiscoA340
+highlights/london-28.jpg | https://commons.wikimedia.org/wiki/File:Entrance_to_the_Making_of_Harry_Potter_studio_tour.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/edinburgh-13.jpg | https://commons.wikimedia.org/wiki/File:Edinburgh_-_Outlook_Tower_-_20140421144123.jpg | CC BY-SA 4.0 | Enric
+highlights/edinburgh-8.jpg | https://commons.wikimedia.org/wiki/File:The_scotch_whisky_experience_(Ank_Kumar,_infosys_limited_)_04.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/edinburgh-9.jpg | https://commons.wikimedia.org/wiki/File:St_Giles_Cathedral,_Edinburgh_-_geograph.org.uk_-_5416035.jpg | CC BY-SA 2.0 | Mike Pennington
+highlights/edinburgh-10.jpg | https://commons.wikimedia.org/wiki/File:Victoria_Street,_Edinburgh,_Scotland.jpg | CC BY 2.0 | rboed*
+highlights/edinburgh-12.jpg | https://commons.wikimedia.org/wiki/File:Scott_Monument_and_Princes_Street_Gardens,_Edinburgh_-_geograph.org.uk_-_3085231.jpg | CC BY-SA 2.0 | Chris Morgan
+highlights/edinburgh-11.jpg | https://commons.wikimedia.org/wiki/File:Dean_Village_2.jpg | CC BY-SA 4.0 | Scglossop1
+highlights/edinburgh-14.jpg | https://commons.wikimedia.org/wiki/File:Royal_Yacht_Britannia_flags_blowing.jpg | CC BY-SA 4.0 | Cbuske46
+highlights/manchester-8.jpg | https://commons.wikimedia.org/wiki/File:National_Football_Museum,_Manchester_-_geograph.org.uk_-_4909239.jpg | CC BY-SA 2.0 | Chris Morgan
+highlights/manchester-9.jpg | https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg | CC BY-SA 3.0 de | Arne Müseler, cropped by Blackcat
+highlights/bath-7.jpg | https://commons.wikimedia.org/wiki/File:Pulteney_bridge_in_Bath_view_from_south_before_noon.jpg | CC BY-SA 3.0 | Jürgen Matern
+highlights/bath-8.jpg | https://commons.wikimedia.org/wiki/File:Thermae_Bath_Spa_rooftop_pool.jpg | CC BY 2.0 | Thermae_Spa_from_Bath_Abbey_Tower.jpg: NH53
+highlights/bath-9.jpg | https://commons.wikimedia.org/wiki/File:The_Jane_Austen_Center.002_-_Bath.jpg | CC BY-SA 4.0 | Fernando Losada Rodríguez
+highlights/oxford-8.jpg | https://commons.wikimedia.org/wiki/File:Sheldonian_Theatre_Oxford_2023_03.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/oxford-7.jpg | https://commons.wikimedia.org/wiki/File:Bridge_of_Sighs,_Oxford.jpg | CC BY-SA 3.0 | Bob Collowan
+highlights/oxford-9.jpg | https://commons.wikimedia.org/wiki/File:Pitt_Rivers_museum,_Oxford_1.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/oxford-10.jpg | https://commons.wikimedia.org/wiki/File:Blenheim_Palace_facade_October_2016.jpg | CC BY-SA 4.0 | DeFacto
+highlights/cambridge-7.jpg | https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Trinity_College_Great_Court.jpg | CC BY-SA 3.0 | Cmglee
+highlights/cambridge-8.jpg | https://commons.wikimedia.org/wiki/File:Punting_on_the_River_Cam,_Cambridge_-_geograph.org.uk_-_1954566.jpg | CC BY-SA 2.0 | Peter Trimming
+highlights/liverpool-8.jpg | https://commons.wikimedia.org/wiki/File:Cavern_Club,_Liverpool,_England.jpg | CC BY 2.0 | spaztacular
+highlights/liverpool-7.jpg | https://commons.wikimedia.org/wiki/File:Liver_Building_and_Pier_Head_from_Museum_of_Liverpool_-_geograph.org.uk_-_4355690.jpg | CC BY-SA 2.0 | Martin Dawes
+highlights/liverpool-9.jpg | https://commons.wikimedia.org/wiki/File:Paisley_Gateway,_Anfield.jpg | CC BY-SA 4.0 | Rodhullandemu
+highlights/brighton-7.jpg | https://commons.wikimedia.org/wiki/File:Seven_Sisters_Cliffs,_Brighton.jpg | CC BY-SA 4.0 | Samson Ng . D201@EAL
+highlights/york-8.jpg | https://commons.wikimedia.org/wiki/File:York_Chocolate_Story_Jan24.jpg | CC BY-SA 4.0 | Malcolmxl5
+highlights/york-7.jpg | https://commons.wikimedia.org/wiki/File:Jorvik_Gillygate_Practice_Bishopthorpe_Road_York_Sep24_02.jpg | CC0 | Malcolmxl5
+highlights/bristol-7.jpg | https://commons.wikimedia.org/wiki/File:M_Shed_Museum,_Bristol_City_Docks_-_geograph.org.uk_-_2560807.jpg | CC BY-SA 2.0 | Bob Jones
+highlights/stratford-upon-avon-5.jpg | https://commons.wikimedia.org/wiki/File:Shakespeare%27s_Gardens,_New_Place,_Stratford-upon-Avon_-_geograph.org.uk_-_8395885.jpg | CC BY-SA 2.0 | Rod Grealish
+highlights/glasgow-7.jpg | https://commons.wikimedia.org/wiki/File:Main_Hall,_the_Hunterian_Museum,_Glasgow..JPG | CC BY-SA 4.0 | Osama Shukir Muhammed Amin FRCP(Glasg)
+highlights/glasgow-6.jpg | https://commons.wikimedia.org/wiki/File:The_Clydeside_Distillery_-_geograph.org.uk_-_5858403.jpg | CC BY-SA 2.0 | Thomas Nugent
+highlights/stirling-5.jpg | https://commons.wikimedia.org/wiki/File:Scotland-2016-Aerial-Doune_Castle_(and_Castle_keeper%27s_cottage).jpg | CC BY-SA 4.0 | Godot13
+highlights/inverness-6.jpg | https://commons.wikimedia.org/wiki/File:Glenfiddich_Distillery_Pagoda.jpg | CC BY-SA 4.0 | Coldupnorth
+highlights/isle-of-skye-6.jpg | https://commons.wikimedia.org/wiki/File:Talisker_distillery.jpg | CC BY-SA 4.0 | DeFacto
+highlights/belfast-5.jpg | https://commons.wikimedia.org/wiki/File:Northern_Ireland_-_County_Gaol_Crumlin_Road_Belfast_Co_Antrim_-_20230524124541.jpg | CC BY-SA 4.0 | Z thomas
+highlights/belfast-6.jpg | https://commons.wikimedia.org/wiki/File:Ulster_Museum_(45385322085).jpg | CC BY-SA 2.0 | Tom Parnell from Scottish Borders, Scotland

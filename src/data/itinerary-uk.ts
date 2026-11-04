@@ -4,31 +4,39 @@ import type { RawItinerary } from './itinerary-helper'
 export const itineraryUk: Record<string, RawItinerary> = {
   london: {
     days: [
-      ['웨스트민스터|Westminster', 1, 3, 15, 2, 9, 12, 7],
-      ['시티와 사우스뱅크|The City & South Bank', 6, 11, 5, 13],
-      ['대영박물관과 서쪽 런던|British Museum & west London', 4, 10, 8, 14],
+      ['웨스트민스터|Westminster', 1, 15, 2, 3, 21, 9, 12, 16, 7],
+      ['시티와 사우스뱅크|The City & South Bank', 6, 11, 5, 24, 23, 20, 19, 13],
+      ['켄싱턴과 노팅힐|Kensington & Notting Hill', 17, 18, 22, 8, 14],
+      ['대영박물관과 캠던|British Museum & Camden', 4, 10, 25],
+      ['그리니치|Greenwich', 26],
+    ],
+    trips: [
+      ['큐 가든|Kew Gardens', 27],
+      ['햄프턴 코트|Hampton Court', 29],
+      ['해리 포터 스튜디오|Harry Potter studio', 28],
     ],
   },
   edinburgh: {
     days: [
-      ['에든버러 성과 올드타운|Castle & Old Town', 2, 7, 6, 3],
-      ['홀리루드와 언덕|Holyrood & the hills', 1, 4, 5],
+      ['에든버러 성과 올드타운|Castle & Old Town', 2, 13, 8, 9, 3, 10, 7, 6],
+      ['홀리루드와 뉴타운|Holyrood & New Town', 1, 4, 5, 12, 11],
     ],
+    trips: [['리스와 브리타니아호|Leith & Britannia', 14]],
   },
   manchester: {
     days: [
-      ['시내|City centre', 5, 1, 6, 2, 4],
-      ['살포드 키스와 올드 트래포드|Salford Quays & Old Trafford', 7, 3],
+      ['시내|City centre', 5, 8, 1, 6, 2, 4],
+      ['살포드 키스와 축구장|Salford Quays & the stadiums', 7, 3, 9],
     ],
   },
-  bath: [3, 1, 4, 6, 2],
-  oxford: [4, 2, 3, 5, 1, 6],
-  cambridge: [6, 5, 1, 4, 2, 3],
-  liverpool: [3, 6, 5, 1, 2],
-  brighton: [1, 6, 3, 2, 4, 5],
+  bath: [3, 1, 4, 7, 8, 9, 6, 2],
+  oxford: { days: [['', 4, 8, 2, 7, 3, 5, 1, 9, 6]], trips: [['블레넘 궁전|Blenheim Palace', 10]] },
+  cambridge: [6, 5, 1, 7, 8, 4, 2, 3],
+  liverpool: [3, 6, 5, 8, 7, 1, 2, 9],
+  brighton: { days: [['', 1, 6, 3, 2, 4, 5]], trips: [['세븐 시스터스|Seven Sisters', 7]] },
   whitby: [3, 2, 1, 4, 5],
-  york: [6, 5, 1, 3, 2, 4],
-  bristol: [3, 4, 2, 6, 5, 1],
+  york: [6, 5, 1, 3, 2, 8, 7, 4],
+  bristol: [3, 4, 2, 7, 6, 5, 1],
   canterbury: [3, 2, 1, 4],
   windsor: [4, 1, 2, 3],
   salisbury: {
@@ -39,7 +47,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
     ],
   },
   cotswolds: [5, 4, 1, 2, 3],
-  'stratford-upon-avon': [1, 3, 4, 2],
+  'stratford-upon-avon': [1, 5, 3, 4, 2],
   'lake-district': {
     days: [
       ['윈더미어와 그래스미어|Windermere & Grasmere', 1, 3, 2],
@@ -47,20 +55,21 @@ export const itineraryUk: Record<string, RawItinerary> = {
     ],
   },
   'st-ives': { days: [['', 3, 1, 2]], trips: [['세인트 마이클스 마운트와 랜즈 엔드|St Michael’s Mount & Land’s End', 4, 5]] },
-  glasgow: [5, 1, 3, 2, 4],
-  stirling: { days: [['', 1, 3, 2]], trips: [['켈피스|The Kelpies', 4]] },
+  glasgow: [5, 1, 3, 2, 7, 4, 6],
+  stirling: { days: [['', 1, 3, 2]], trips: [['켈피스|The Kelpies', 4], ['둔 성|Doune Castle', 5]] },
   'st-andrews': [2, 4, 1, 3],
   inverness: {
     days: [['', 4, 5]],
     trips: [
       ['네스호와 어쿼트 성|Loch Ness & Urquhart Castle', 1, 2],
       ['컬로든|Culloden', 3],
+      ['스페이사이드 위스키|Speyside whisky', 6],
     ],
   },
   'isle-of-skye': {
     days: [
       ['트로터니시 반도|Trotternish', 4, 1, 3],
-      ['서부 스카이|West Skye', 2, 5],
+      ['서부 스카이|West Skye', 2, 6, 5],
     ],
   },
   cardiff: { days: [['', 1, 3, 2]], trips: [['캐슬 코크와 세인트 페이건스|Castell Coch & St Fagans', 4, 5]] },
@@ -72,7 +81,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
     ],
   },
   tenby: { days: [['', 4, 1, 2]], trips: [['칼디 섬|Caldey Island', 3]] },
-  belfast: [3, 2, 4, 1],
+  belfast: [3, 5, 2, 4, 6, 1],
   'giants-causeway': [3, 5, 1, 2, 4],
   derry: [3, 2, 1, 4],
   dublin: { days: [['', 1, 2, 3, 4]], trips: [['모허 절벽|Cliffs of Moher', 5]] },

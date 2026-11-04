@@ -978,5 +978,240 @@
     52.0744466,
     4.3156787,
     "OSM Nominatim \"Yi Jun Peace Museum, Wagenstraat 124\""
+  ],
+  "london-h16": [
+    51.50872,
+    -0.12859,
+    "OSM Nominatim: National Gallery Shop, Trafalgar Square, Westminster, Covent (Wikipedia 28m)"
+  ],
+  "london-h17": [
+    51.49651,
+    -0.176,
+    "OSM Nominatim: Natural History Museum, Cromwell Road, Brompton, Royal Borou (Wikipedia 52m)"
+  ],
+  "london-h18": [
+    51.49688,
+    -0.17164,
+    "OSM Nominatim: Victoria and Albert Museum, Cromwell Road, Brompton, Royal B (Wikipedia 32m)"
+  ],
+  "london-h19": [
+    51.50743,
+    -0.09934,
+    "OSM Nominatim: Tate Modern, Bankside, Southwark, London Borough of Southwar (Wikipedia 41m)"
+  ],
+  "london-h20": [
+    51.50812,
+    -0.09719,
+    "OSM Nominatim: Shakespeare's Globe, 21, New Globe Walk, Bankside, Southwark (Wikipedia 8m)"
+  ],
+  "london-h21": [
+    51.50221,
+    -0.12925,
+    "OSM Nominatim: Churchill War Rooms, King Charles Street, Westminster, Millb (Wikipedia 21m)"
+  ],
+  "london-h22": [
+    51.50509,
+    -0.18763,
+    "OSM Nominatim: Kensington Palace, Palace Avenue, South Kensington, Royal Bo (Wikipedia 53m)"
+  ],
+  "london-h23": [
+    51.51127,
+    -0.08354,
+    "OSM Nominatim: Sky Garden, 20, Fenchurch Street, Leadenhall Market, Monumen (Wikipedia 1m)"
+  ],
+  "london-h24": [
+    51.51273,
+    -0.0834,
+    "OSM Nominatim: Leadenhall Market, Gracechurch Street, Leadenhall Market, Mo (Wikipedia 11m)"
+  ],
+  "london-h25": [
+    51.54238,
+    -0.14719,
+    "OSM Nominatim: Camden Market, 56-56, Camden Lock Place, Camden Lock Market, (Wikipedia 123m)"
+  ],
+  "london-h26": [
+    51.47736,
+    -0.00085,
+    "OSM Nominatim: Royal Observatory Greenwich, Blackheath Avenue, Greenwich To (Wikipedia 960m)"
+  ],
+  "london-h27": [
+    51.4833,
+    -0.29307,
+    "OSM Nominatim: The Orangery, Kew Green, Kew, London Borough of Richmond upo (Wikipedia 492m)"
+  ],
+  "london-h28": [
+    51.69098,
+    -0.41829,
+    "OSM Nominatim: Warner Bros. Studio Tour London, Studio Tour Drive, Warner B (Wikipedia 279m)"
+  ],
+  "london-h29": [
+    51.40368,
+    -0.3377,
+    "OSM Nominatim: Hampton Court Palace, The Broad Walk, Hampton Wick, London B (Wikipedia 41m)"
+  ],
+  "edinburgh-h8": [
+    55.94874,
+    -3.19587,
+    "OSM Nominatim: The Scotch Whisky Experience, 354, Castlehill, Abbeyhill, Ol (Wikipedia 26m)"
+  ],
+  "edinburgh-h9": [
+    55.94948,
+    -3.19085,
+    "OSM Nominatim: St Giles' Cathedral, High Street, Abbeyhill, Old Town, City  (Wikipedia 4m)"
+  ],
+  "edinburgh-h10": [
+    55.94865,
+    -3.19377,
+    "OSM Nominatim: Victoria Street, Abbeyhill, Old Town, City of Edinburgh, Alb"
+  ],
+  "edinburgh-h11": [
+    55.95226,
+    -3.21822,
+    "OSM Nominatim: Dean Village, West End, City of Edinburgh, Alba / Scotland,  (Wikipedia 32m)"
+  ],
+  "edinburgh-h12": [
+    55.95236,
+    -3.19326,
+    "OSM Nominatim: Scott Monument, Princes Street, The Mound, Abbeyhill, Old To (Wikipedia 6m)"
+  ],
+  "edinburgh-h13": [
+    55.94903,
+    -3.1956,
+    "OSM Nominatim: Camera Obscura, Castlehill (Wikipedia 0m)"
+  ],
+  "edinburgh-h14": [
+    55.98215,
+    -3.17731,
+    "OSM Nominatim: HMY Britannia, 100, Ocean Drive, Fort, North Leith, Leith, C (Wikipedia 2m)"
+  ],
+  "manchester-h8": [
+    53.48576,
+    -2.24211,
+    "OSM Nominatim: National Football Museum, Todd Street, Medieval Quarter, Cit (Wikipedia 25m)"
+  ],
+  "manchester-h9": [
+    53.48314,
+    -2.20053,
+    "OSM Nominatim: Etihad Stadium, Joe Mercer Way, Bradford, Manchester, Greate (Wikipedia 9m)"
+  ],
+  "bath-h7": [
+    51.38304,
+    -2.35792,
+    "OSM Nominatim: Pulteney Bridge, Bridge Street, Walcot, Bath, Bath and North (Wikipedia 10m)"
+  ],
+  "bath-h8": [
+    51.38057,
+    -2.36103,
+    "OSM Nominatim: Thermae Bath Spa, Hot Bath Street, Kingsmead, Bath, Bath and (Wikipedia 44m)"
+  ],
+  "bath-h9": [
+    51.38407,
+    -2.36313,
+    "OSM Nominatim: Jane Austen Centre, 40, Gay Street, Kingsmead, Bath, Bath an (Wikipedia 4m)"
+  ],
+  "oxford-h7": [
+    51.7545,
+    -1.25378,
+    "OSM Nominatim: The Bridge of Sighs, New College Lane, City Centre, Oxford, "
+  ],
+  "oxford-h8": [
+    51.75432,
+    -1.25502,
+    "OSM Nominatim: Sheldonian Theatre, Broad Street, City Centre, Oxford, Oxfor (Wikipedia 3m)"
+  ],
+  "oxford-h9": [
+    51.75876,
+    -1.25506,
+    "OSM Nominatim: Pitt Rivers Museum, 3, Parks Road, City Centre, Oxford, Oxfo (Wikipedia 18m)"
+  ],
+  "oxford-h10": [
+    51.84194,
+    -1.36263,
+    "OSM Nominatim: Blenheim Palace, The Great Court, Blenheim, West Oxfordshire (Wikipedia 132m)"
+  ],
+  "cambridge-h7": [
+    52.20689,
+    0.11511,
+    "OSM Nominatim: Trinity College (University of Cambridge), Trinity Street, N (Wikipedia 37m)"
+  ],
+  "cambridge-h8": [
+    52.20054,
+    0.11539,
+    "OSM Nominatim: Mill Pond, Newnham, Cambridge, Cambridgeshire, Cambridgeshir"
+  ],
+  "liverpool-h7": [
+    53.40585,
+    -2.99584,
+    "OSM Nominatim: Royal Liver Building, Saint Nicholas Place, Pride Quarter, V (Wikipedia 6m)"
+  ],
+  "liverpool-h8": [
+    53.40627,
+    -2.9879,
+    "OSM Nominatim: Cavern Club, Mathew Street, Cavern Quarter, Liverpool, Liver (Wikipedia 48m)"
+  ],
+  "liverpool-h9": [
+    53.43021,
+    -2.96193,
+    "OSM Nominatim: LFC Museum, Anfield Road, Anfield, Liverpool, Liverpool City (Wikipedia 100m)"
+  ],
+  "brighton-h7": [
+    50.76487,
+    0.16384,
+    "OSM Nominatim: Seven Sisters Country Park, East Dean Road, Cuckmere Valley, (Wikipedia 605m)"
+  ],
+  "york-h7": [
+    53.95739,
+    -1.08029,
+    "OSM Nominatim: Jorvik Viking Centre, Coppergate, Bishophill, York, York and (Wikipedia 9m)"
+  ],
+  "york-h8": [
+    53.96002,
+    -1.08035,
+    "OSM Nominatim: York's Chocolate Story, King's Court, Bootham, Bishophill, Y (Wikipedia 5m)"
+  ],
+  "bristol-h7": [
+    51.44762,
+    -2.59835,
+    "OSM Nominatim: M Shed, Princes Wharf, Wapping Wharf, Temple Quarter, Southv (Wikipedia 39m)"
+  ],
+  "stratford-upon-avon-h5": [
+    52.19072,
+    -1.70757,
+    "OSM Nominatim: Shakespeare's New Place, 22, Chapel Street, Stratford-upon-A (Wikipedia 3m)"
+  ],
+  "glasgow-h6": [
+    55.86227,
+    -4.29677,
+    "OSM Nominatim: The Clydeside Distillery, 100, Stobcross Road, Stobcross, Ke (Wikipedia 17m)"
+  ],
+  "glasgow-h7": [
+    55.87178,
+    -4.28833,
+    "OSM Nominatim: Hunterian Museum, University Avenue, Hillhead, West End, Gla (Wikipedia 25m)"
+  ],
+  "stirling-h5": [
+    56.18506,
+    -4.05051,
+    "OSM Nominatim: Doune Castle, Ardoch Burn Crossing, Doune, Stirling, Alba /  (Wikipedia 19m)"
+  ],
+  "inverness-h6": [
+    57.45511,
+    -3.12874,
+    "OSM Nominatim: Glenfiddich Distillery, Castle Road, Dufftown, Moray, Alba / (Wikipedia 167m)"
+  ],
+  "isle-of-skye-h6": [
+    57.30188,
+    -6.35668,
+    "OSM Nominatim: Talisker Distillery, B8009, Carbostbeg, Carbost, Highland, A (Wikipedia 106m)"
+  ],
+  "belfast-h5": [
+    54.60947,
+    -5.94216,
+    "OSM Nominatim: Crumlin Road Gaol, 53-55, Crumlin Road, Edenderry, Shankill, (Wikipedia 53m)"
+  ],
+  "belfast-h6": [
+    54.58225,
+    -5.93532,
+    "OSM Nominatim: Ulster Museum, Stranmillis Road, Crescent, Queen's Quarter,  (Wikipedia 34m)"
   ]
 }
