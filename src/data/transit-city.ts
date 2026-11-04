@@ -1730,6 +1730,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt'),
     ],
   },
+  bardejov: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '성벽 안 구시가는 걸어서 다닙니다. 온천 마을은 시내버스로 갑니다.',
+      en: 'Walk the walled old town; take the town bus to the spa.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   poprad: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -1739,6 +1749,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('trainline'),
       ta('bolt'),
+    ],
+  },
+  levoca: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '성벽 안 구시가는 걸어서 다닙니다. 스피시 성은 버스가 적어 차나 택시가 편합니다.',
+      en: 'Walk the walled old town; Spiš Castle is easiest by car or taxi, as buses are few.',
+    },
+    apps: [
+      ta('trainline'),
     ],
   },
   'banska-bystrica': {
@@ -1752,6 +1772,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt'),
     ],
   },
+  'banska-stiavnica': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 비탈길이라 걸어서 다닙니다. 역에서 구시가까지는 버스를 타는 편이 편합니다.',
+      en: 'Walk the hilly old town; take the bus up from the station.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   trencin: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -1761,6 +1791,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('trainline'),
       ta('bolt'),
+    ],
+  },
+  nitra: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가와 성은 걸어서 다닙니다. 역과 터미널은 시내버스로 이어집니다.',
+      en: 'Walk the old town and castle; town buses link the station and bus terminal.',
+    },
+    apps: [
+      ta('trainline'),
     ],
   },
   // —— hu ——

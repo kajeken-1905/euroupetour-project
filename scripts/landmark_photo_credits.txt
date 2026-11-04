@@ -1843,3 +1843,30 @@ highlights/milan-19.jpg | https://commons.wikimedia.org/wiki/File:Fondazione_PRA
 festivals/milan-fashion-week.jpg | https://commons.wikimedia.org/wiki/File:Sofi_Eliseeva_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg | CC BY-SA 2.0 | 
 highlights/stuttgart-1.jpg | https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Museum_201312_03_blue_hour.jpg | CC BY 4.0 | Julian Herzog (Website)
 highlights/stuttgart-2.jpg | https://commons.wikimedia.org/wiki/File:Stuttgart_Porsche_Museum_(Ank_Kumar,_Infosys_Limited)_06.jpg | CC BY-SA 4.0 | Ank Kumar
+cities/banska-stiavnica.jpg | https://commons.wikimedia.org/wiki/File:Banska_Stiavnica,_Slovakia_1999_(3187254089).jpg | CC BY-SA 2.0 | Felix O
+highlights/banska-stiavnica-1.jpg | https://commons.wikimedia.org/wiki/File:Around_the_Holy_Trinity_III_-_Bansk%C3%A1_%C5%A0tiavnica_-_Slovakia.jpg | CC BY 2.0 | Pedro
+highlights/banska-stiavnica-2.jpg | https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica_-_Star%C3%BD_z%C3%A1mok_2006.jpg | CC BY-SA 4.0 | Mineralysk
+highlights/banska-stiavnica-3.jpg | https://commons.wikimedia.org/wiki/File:Vartovka_-_Nov%C3%BD_z%C3%A1mok,_Bansk%C3%A1_%C5%A0tiavnica_01.jpg | CC BY-SA 3.0 | Michal Hruška
+highlights/banska-stiavnica-4.jpg | https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica,_kalv%C3%A1ria,_25._zastavenie.jpg | CC BY 4.0 | Palickap
+highlights/banska-stiavnica-5.jpg | https://commons.wikimedia.org/wiki/File:969_01_Bansk%C3%A1_%C5%A0tiavnica,_Slovakia_-_panoramio_(9).jpg | CC BY-SA 3.0 | Marián Hubinský
+highlights/banska-stiavnica-6.jpg | https://commons.wikimedia.org/wiki/File:Pocuvadlo_-_panoramio_(1).jpg | CC BY 3.0 | sharepublicplaces
+cities/levoca.jpg | https://commons.wikimedia.org/wiki/File:Levo%C4%8Da_Old_town_hall_2015_1.jpg | CC BY-SA 3.0 | Karelj
+highlights/levoca-1.jpg | https://commons.wikimedia.org/wiki/File:Levo%C4%8Da,_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Jakuba_(HB9).jpg | CC BY-SA 3.0 | Henryk Bielamowicz
+highlights/levoca-2.jpg | https://commons.wikimedia.org/wiki/File:Old_Town_Hall_of_Levo%C4%8Da.jpg | CC BY-SA 4.0 | Peter Bendl
+highlights/levoca-3.jpg | https://commons.wikimedia.org/wiki/File:In_Levo%C4%8Da,_Levo%C4%8Da_District,_Slovakia,_2016_June.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/levoca-4.jpg | https://commons.wikimedia.org/wiki/File:Bazilika_Nav%C5%A1t%C3%ADvenia_Panny_M%C3%A1rie,_Mari%C3%A1nska_hora_Levo%C4%8Da_19_Slovakia_22.jpg | CC BY-SA 4.0 | Ing.Mgr. Jozef Kotulič
+highlights/levoca-5.jpg | https://commons.wikimedia.org/wiki/File:20180503_Zamek_Spiski_2980_DxO.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/levoca-6.jpg | https://commons.wikimedia.org/wiki/File:Spi%C5%A1sk%C3%A1_Kapitula.02.jpg | CC BY-SA 4.0 | Stepet49
+cities/bardejov.jpg | https://commons.wikimedia.org/wiki/File:Bardejov_%E2%80%93_v%C3%BDhled_z_v%C4%9B%C5%BEe,_2022_(01).jpg | CC BY-SA 4.0 | Draceane
+highlights/bardejov-1.jpg | https://commons.wikimedia.org/wiki/File:Bardejov,_Radni%C4%8Dn%C3%A9_n%C3%A1mestie_(1).jpg | CC BY-SA 4.0 | Palickap
+highlights/bardejov-2.jpg | https://commons.wikimedia.org/wiki/File:Bardejov,_radnica,_2020_13.jpg | CC BY-SA 4.0 | Robert Jahoda
+highlights/bardejov-3.jpg | https://commons.wikimedia.org/wiki/File:Bardejov,_Bazilika_sv%C3%A4t%C3%A9ho_Eg%C3%ADdia_05.jpg | CC BY-SA 4.0 | Robert Jahoda
+highlights/bardejov-4.jpg | https://commons.wikimedia.org/wiki/File:2019-11_Bardejov_(29).jpg | CC BY 4.0 | Marek Mróz
+highlights/bardejov-5.jpg | https://commons.wikimedia.org/wiki/File:Bardejovsk%C3%A9_K%C3%BApele,_Astoria_(HB1).jpg | CC BY-SA 4.0 | Henryk Bielamowicz
+highlights/bardejov-6.jpg | https://commons.wikimedia.org/wiki/File:Hervartov_dreveny_kostelik_Slovakia_3834.JPG | CC BY 3.0 | Hynek Moravec
+cities/nitra.jpg | https://commons.wikimedia.org/wiki/File:Nitra_-_Panorama_01.JPG | CC BY-SA 3.0 | Lestat (Jan Mehlich)
+highlights/nitra-1.jpg | https://commons.wikimedia.org/wiki/File:Nitriansky_hrad_1.jpg | CC BY-SA 4.0 | Tomáš Bartovič
+highlights/nitra-2.jpg | https://commons.wikimedia.org/wiki/File:Nitra_-_Pribinovo_namestie_-_Maly_seminar.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/nitra-3.jpg | https://commons.wikimedia.org/wiki/File:Nitra_-_Sv%C3%A4toplukovo_n%C3%A1mestie_(1).jpg | CC BY-SA 4.0 | Ladislav Luppa
+highlights/nitra-4.jpg | https://commons.wikimedia.org/wiki/File:Inside_Synagogue_in_Nitra.jpg | CC BY-SA 4.0 | Filo
+highlights/nitra-5.jpg | https://commons.wikimedia.org/wiki/File:Zobor_-_pohled_z_hradu.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)

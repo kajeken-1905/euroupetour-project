@@ -1554,6 +1554,10 @@ export const STAY: Record<string, StayArea[]> = {
   kosice: [
     a('구시가 (흘라브나 거리)', 'Old town (Hlavná)', 'Hlavná, Košice', '걸어서 다니기|Walkable', '중심 거리를 따라 상점·식당·카페가 모여 있고 걸어서 다 다닙니다.|Shops, restaurants and cafés line the main street, all within walking distance.'),
   ],
+  bardejov: [
+    a('마을에서 묵기', 'In the town', 'Bardejov', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('코시체에서 다녀오기', 'Base in Košice', 'Košice', '거점에서 다녀오기|Day trip from a base', '버스로 약 1시간 15분이고 직행이 적습니다.|About 1 hr 15 by bus, with few direct services.'),
+  ],
   poprad: [
     a('포프라트 시내', 'Poprad town', 'Poprad', '가성비·교통|Value, transport', '기차역이 있고 숙소가 싸지만 등산로까지는 멉니다.|Has the main station and cheaper rooms, but farther from the trailheads.'),
     a('스타리 스모코베츠', 'Starý Smokovec', 'Starý Smokovec', '타트라 등산 거점|Tatras hiking base', '타트라 한가운데로 흐레비에노크 케이블카와 등산로, 산악 전철역이 가깝습니다.|In the middle of the Tatras, by the Hrebienok funicular, trailheads and the mountain railway.'),
@@ -1573,11 +1577,22 @@ export const STAY: Record<string, StayArea[]> = {
   postojna: [
     a('류블랴나에서 다녀오기', 'Base in Ljubljana', 'Ljubljana city centre', '당일치기|Day trip', '차나 기차로 45분쯤이고 프레드야마성과 묶은 당일 투어가 많습니다.|About 45 minutes by car or train, with many day tours that add Predjama Castle.'),
   ],
+  levoca: [
+    a('마을에서 묵기', 'In the town', 'Levoča', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('포프라트에서 다녀오기', 'Base in Poprad', 'Poprad', '거점에서 다녀오기|Day trip from a base', '기차와 버스로 약 50분입니다.|About 50 min by train and bus.'),
+  ],
   'banska-bystrica': [
     a('구시가 (SNP 광장 주변)', 'Old town (SNP Square)', 'SNP Square, Banská Bystrica', '걸어서 구경|Sights on foot', '광장과 옛 건물, 식당이 걸어서 닿습니다.|The square, historic buildings and restaurants on foot.'),
   ],
+  'banska-stiavnica': [
+    a('마을에서 묵기', 'In the town', 'Banská Štiavnica', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('반스카비스트리차에서 다녀오기', 'Base in Banská Bystrica', 'Banská Bystrica', '거점에서 다녀오기|Day trip from a base', '기차로 약 1시간 45분(즈볼렌 환승)입니다.|About 1 hr 45 by train (change at Zvolen).'),
+  ],
   trencin: [
     a('구시가 (미에로베 광장)', 'Old town (Mierové námestie)', 'Mierové námestie, Trenčín', '성 아래 광장|The square below the castle', '보행자 광장에 카페와 상점이 있고 트렌친성 계단이 바로 이어집니다.|A pedestrian square with cafés and shops leading straight to the castle steps.'),
+  ],
+  nitra: [
+    a('구시가', 'Old town', 'Svätoplukovo námestie, Nitra', '걸어서 다니기|Walkable', '광장과 보행자 거리, 성이 걸어서 닿습니다.|The square, the pedestrian streets and the castle are all within walking distance.'),
   ],
   sarajevo: [
     a('바슈차르시야 (구시가)', 'Baščaršija (old town)', 'Baščaršija, Sarajevo', '처음이라면|First visit', '시장과 세빌 분수, 모스크를 걸어서 다닙니다.|The bazaar, Sebilj fountain and mosques on foot.'),

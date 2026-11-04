@@ -814,20 +814,40 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Košice', '코시체역']],
     bus: [['Autobusová stanica Košice', '코시체 버스터미널']],
   },
+  bardejov: {
+    air: [['Košice (KSC)', '코시체 공항 (KSC)', '코시체|Košice']],
+    rail: [['Bardejov', '바르데요프역', '열차 적음 · 프레쇼우 환승|few trains · change at Prešov']],
+    bus: [['Bardejov, autobusová stanica', '바르데요프 버스터미널']],
+  },
   poprad: {
     air: [['Poprad-Tatry (TAT)', '포프라트 타트리 공항 (TAT)', '런던행 주 2회 위주|mainly London twice a week'], KRK('폴란드 크라쿠프|Kraków, Poland')],
     rail: [['Poprad-Tatry', '포프라트 타트리역']],
     bus: [['Autobusová stanica Poprad', '포프라트 버스터미널']],
+  },
+  levoca: {
+    air: [['Poprad-Tatry (TAT)', '포프라트 타트리 공항 (TAT)', '포프라트|Poprad'], ['Košice (KSC)', '코시체 공항 (KSC)', '코시체|Košice']],
+    rail: [['Spišská Nová Ves', '스피시스카노바베스역', '레보차행 버스 약 20분|bus to Levoča, about 20 min']],
+    bus: [['Levoča, autobusová stanica', '레보차 버스터미널']],
   },
   'banska-bystrica': {
     air: [BTS()],
     rail: [['Banská Bystrica', '반스카비스트리차역']],
     bus: [['Autobusová stanica Banská Bystrica', '반스카비스트리차 버스터미널']],
   },
+  'banska-stiavnica': {
+    air: [BTS('기차·버스로 약 3시간 20분|About 3 hrs 20 by train and bus')],
+    rail: [['Banská Štiavnica', '반스카슈티아브니차역', '구시가까지 오르막 약 2km|about 2 km uphill to the old town']],
+    bus: [['Banská Štiavnica, autobusová stanica', '반스카슈티아브니차 버스 정류장']],
+  },
   trencin: {
     air: [BTS()],
     rail: [['Trenčín', '트렌친역']],
     bus: [['Autobusová stanica Trenčín', '트렌친 버스터미널']],
+  },
+  nitra: {
+    air: [BTS('버스로 약 1시간 15분|About 1 hr 15 by bus')],
+    rail: [['Nitra', '니트라역']],
+    bus: [['Nitra, autobusová stanica', '니트라 버스터미널']],
   },
 
   // —— hu ——

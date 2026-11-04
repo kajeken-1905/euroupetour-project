@@ -1472,6 +1472,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'trencin',
       tip: '바위 위 트렌친 성과 구시가를 봅니다.|Trenčín Castle on its rock and the old town.',
     },
+    {
+      to: 'nitra',
+      tip: '버스로 약 1시간 15분. 언덕 위 성과 대성당을 보고 구시가를 걷습니다.|About 1 hr 15 by bus: the hilltop castle and cathedral, then the old town.',
+    },
   ],
   strasbourg: [
     {
@@ -1573,10 +1577,24 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       tip: '오스만 다리와 시난 파샤 모스크, 언덕 위 요새를 봅니다.|The Ottoman bridge, the Sinan Pasha Mosque and the hilltop fortress.',
     },
   ],
+  poprad: [
+    {
+      to: 'levoca',
+      tip: '기차와 버스로 약 50분. 세계에서 가장 높은 고딕 목조 제단을 보고 스피시 성까지 묶으면 하루가 꽉 찹니다.|About 50 min by train and bus: the world’s tallest Gothic altar, and adding Spiš Castle fills the day.',
+    },
+  ],
   kosice: [
     {
       to: 'poprad',
       tip: '높은 타트라산으로 가는 관문. 스트르브스케 플레소 호수까지 산악 전차로 갑니다.|Gateway to the High Tatras; ride the mountain tram to Štrbské Pleso.',
+    },
+    {
+      to: 'bardejov',
+      tip: '버스로 약 1시간 15분. 유네스코 시청 광장과 고딕 제단들을 보고 목조 성당까지 둘러봅니다.|About 1 hr 15 by bus: the UNESCO-listed square, the Gothic altars and a wooden church.',
+    },
+    {
+      to: 'levoca',
+      tip: '약 1시간 30분. 파볼 장인의 제단과 스피시 성을 묶어 다녀옵니다.|About 1 hr 30: Master Paul’s altar and Spiš Castle.',
     },
   ],
   'san-sebastian': [

@@ -914,7 +914,7 @@ export const countries: Country[] = [
       background: '#E8EEF8',
       text: '#0A1A30',
     },
-    cityIds: ['bratislava', 'kosice', 'poprad', 'banska-bystrica', 'trencin'],
+    cityIds: ['bratislava', 'kosice', 'bardejov', 'poprad', 'levoca', 'banska-bystrica', 'banska-stiavnica', 'trencin', 'nitra'],
   },
   {
     id: 'hu',

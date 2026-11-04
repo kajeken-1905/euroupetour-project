@@ -783,5 +783,50 @@
     45.4439973,
     9.2054061,
     "OSM Nominatim \"Fondazione Prada, Largo Isarco, Milano\""
+  ],
+  "banska-stiavnica-h1": [
+    48.4592727,
+    18.8927328,
+    "OSM Nominatim \"Námestie svätej Trojice, Banská Štiavnica\""
+  ],
+  "banska-stiavnica-h5": [
+    48.45084,
+    18.8889496,
+    "OSM Nominatim \"Banské múzeum v prírode, Banská Štiavnica\""
+  ],
+  "levoca-h2": [
+    49.0257636,
+    20.5886339,
+    "OSM Nominatim \"Radnica, Levoča\""
+  ],
+  "bardejov-h6": [
+    49.2466723,
+    21.2036373,
+    "OSM Nominatim \"Kostol svätého Františka z Assisi, Hervartov\""
+  ],
+  "nitra-h1": [
+    48.3181381,
+    18.0867576,
+    "OSM Nominatim \"Nitriansky hrad\""
+  ],
+  "nitra-h2": [
+    48.3163981,
+    18.0876992,
+    "OSM Nominatim \"Pribinovo námestie, Nitra\""
+  ],
+  "nitra-h3": [
+    48.313825,
+    18.088468,
+    "OSM Nominatim \"Svätoplukovo námestie, Nitra\""
+  ],
+  "bardejov-h4": [
+    49.2912523,
+    21.2779393,
+    "OSM Nominatim \"Bašta, Na Hradbách\" (town walls)"
+  ],
+  "bardejov-h5": [
+    49.3298025,
+    21.2666151,
+    "OSM Nominatim \"Múzeum ľudovej architektúry - Skanzen Bardejov\""
   ]
 }

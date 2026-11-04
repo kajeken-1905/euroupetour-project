@@ -59,6 +59,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
     trips: [['에스테르곰|Esztergom', 16]],
   },
+  nitra: [3, 4, 2, 1, 5],
   szentendre: [1, 2, 4, 3, 5],
   debrecen: [4, 1, 2, 3, 5],
   pecs: [5, 2, 1, 3, 4],
@@ -99,6 +100,13 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   selfoss: [5, 4, 1, 2, 3],
   bratislava: { days: [['', 2, 9, 7, 4, 6, 3, 1, 8, 10]], trips: [['데빈 성|Devín Castle', 5]] },
   kosice: [5, 9, 1, 8, 4, 6, 7, 2, 3],
+  bardejov: {
+    days: [['', 1, 2, 3, 4]],
+    trips: [
+      ['바르데요프스케 쿠펠레|Bardejovské Kúpele', 5],
+      ['헤르바르토우 목조 성당|Hervartov wooden church', 6],
+    ],
+  },
   poprad: {
     days: [['', 3, 6, 2]],
     trips: [
@@ -106,7 +114,9 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['슬로바키아 파라다이스|Slovak Paradise', 7],
     ],
   },
+  levoca: { days: [['', 3, 1, 2, 4]], trips: [['스피시 성과 카피툴라|Spiš Castle & Kapitula', 6, 5]] },
   'banska-bystrica': [1, 7, 8, 2, 3, 4, 6, 5],
+  'banska-stiavnica': { days: [['', 1, 2, 3, 4, 5]], trips: [['타이흐 호수|Tajchy lakes', 6]] },
   trencin: { days: [['', 3, 6, 4, 2, 1, 5]], trips: [['보이니체 성|Bojnice Castle', 7]] },
   tallinn: [4, 2, 3, 1, 5],
   tartu: [2, 1, 4, 5, 3],
