@@ -985,6 +985,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Madurodam%20the%20hague",
       },
       {
+        id: "the-hague-h8",
+        name: { ko: "라우만 박물관", en: "Louwman Museum" },
+        description: { ko: "세계에서 손꼽히게 오래된 개인 자동차 컬렉션으로, 마차부터 경주차까지 수백 대를 전시합니다.", en: "One of the world’s oldest private car collections, with hundreds of vehicles from carriages to racing cars." },
+        image: "/highlights/the-hague-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Louwman%20Museum%20Den%20Haag",
+      },
+      {
         id: "the-hague-h4",
         name: { ko: "스헤베닝언", en: "Scheveningen" },
         description: { ko: "해변과 피어가 있는 덴 하흐의 휴양지입니다.", en: "The Hague's beach and pier resort." },
@@ -2809,18 +2816,18 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Feskek%C3%B6rka%20gothenburg",
       },
       {
-        id: "gothenburg-h2",
-        name: { ko: "리세베리", en: "Liseberg" },
-        description: { ko: "북유럽 대표 놀이공원입니다.", en: "One of Northern Europe's great amusement parks." },
-        image: "/highlights/gothenburg-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Liseberg%20gothenburg",
-      },
-      {
         id: "gothenburg-h3",
         name: { ko: "하가", en: "Haga" },
         description: { ko: "목조 집과 카페가 있는 분위기 좋은 지구입니다.", en: "A charming district of wooden houses and cafés." },
         image: "/highlights/gothenburg-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Haga%20Gothenburg",
+      },
+      {
+        id: "gothenburg-h6",
+        name: { ko: "스카넨스 레바탄", en: "Skansen Kronan" },
+        description: { ko: "언덕 위 요새에서 시내 전망을 봅니다.", en: "A hilltop fort with city views." },
+        image: "/highlights/gothenburg-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Skansen%20Kronan%20gothenburg",
       },
       {
         id: "gothenburg-h4",
@@ -2837,11 +2844,18 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Universeum%20gothenburg",
       },
       {
-        id: "gothenburg-h6",
-        name: { ko: "스카넨스 레바탄", en: "Skansen Kronan" },
-        description: { ko: "언덕 위 요새에서 시내 전망을 봅니다.", en: "A hilltop fort with city views." },
-        image: "/highlights/gothenburg-6.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Skansen%20Kronan%20gothenburg",
+        id: "gothenburg-h2",
+        name: { ko: "리세베리", en: "Liseberg" },
+        description: { ko: "북유럽 대표 놀이공원입니다.", en: "One of Northern Europe's great amusement parks." },
+        image: "/highlights/gothenburg-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Liseberg%20gothenburg",
+      },
+      {
+        id: "gothenburg-h7",
+        name: { ko: "월드 오브 볼보", en: "World of Volvo" },
+        description: { ko: "2024년에 문을 연 볼보의 체험관으로, 나무 구조의 건물 안에서 볼보의 역사와 차, 안전 기술을 보여 줍니다.", en: "Volvo’s experience centre opened in 2024, presenting the brand’s history, cars and safety technology in a timber-framed building." },
+        image: "/highlights/gothenburg-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=World%20of%20Volvo%20Gothenburg",
       },
     ],
   },
@@ -4851,6 +4865,14 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hrad%20Karl%C5%A1tejn",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
+      {
+        id: "prague-h21",
+        name: { ko: "슈코다 박물관(믈라다볼레슬라프)", en: "Škoda Museum (Mladá Boleslav)" },
+        description: { ko: "체코 자동차 회사 슈코다의 본고장 박물관으로, 라우린 & 클레멘트 시절부터의 차와 공장 견학이 있습니다.", en: "The museum in Škoda’s home town, from the Laurin & Klement years onward, with factory tours." },
+        image: "/highlights/prague-21.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C5%A0koda%20Muzeum%20Mlad%C3%A1%20Boleslav",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -6391,11 +6413,25 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "berlin-h4",
+        name: { ko: "의회 돔", en: "Reichstag Dome" },
+        description: { ko: "유리 돔 전망대입니다.", en: "Glass dome viewpoint." },
+        image: "/highlights/berlin-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Reichstag%20Berlin",
+      },
+      {
         id: "berlin-h1",
         name: { ko: "브란덴부르크 문", en: "Brandenburg Gate" },
         description: { ko: "독일 통일의 상징 문입니다.", en: "Symbol of German unity." },
         image: "/highlights/berlin-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Brandenburg%20Gate",
+      },
+      {
+        id: "berlin-h5",
+        name: { ko: "체크포인트 찰리", en: "Checkpoint Charlie" },
+        description: { ko: "냉전 시대 검문소 유적입니다.", en: "Cold War checkpoint site." },
+        image: "/highlights/berlin-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Checkpoint%20Charlie",
       },
       {
         id: "berlin-h2",
@@ -6412,20 +6448,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=East%20Side%20Gallery",
       },
       {
-        id: "berlin-h4",
-        name: { ko: "의회 돔", en: "Reichstag Dome" },
-        description: { ko: "유리 돔 전망대입니다.", en: "Glass dome viewpoint." },
-        image: "/highlights/berlin-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Reichstag%20Berlin",
-      },
-      {
-        id: "berlin-h5",
-        name: { ko: "체크포인트 찰리", en: "Checkpoint Charlie" },
-        description: { ko: "냉전 시대 검문소 유적입니다.", en: "Cold War checkpoint site." },
-        image: "/highlights/berlin-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Checkpoint%20Charlie",
-      },
-      {
         id: "berlin-h6",
         name: { ko: "티어가르텐", en: "Tiergarten" },
         description: { ko: "도심 대형 공원입니다.", en: "Central city park." },
@@ -6438,7 +6460,15 @@ export const cities: City[] = [
         description: { ko: "프로이센 왕실의 바로크 궁전과 정원입니다.", en: "Prussian royal baroque palace and gardens." },
         image: "/highlights/berlin-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Charlottenburg%20Palace%20Berlin",
-      }
+      },
+      {
+        id: "berlin-h8",
+        name: { ko: "아우토슈타트(볼프스부르크)", en: "Autostadt (Wolfsburg)" },
+        description: { ko: "폭스바겐 본사 공장 옆의 자동차 테마파크로, 브랜드별 전시관과 자동차 박물관, 신차를 받아 가는 유리 탑 ‘카 타워’가 있습니다.", en: "Volkswagen’s car theme park beside its Wolfsburg plant, with brand pavilions, a car museum and the glass Car Towers where new cars are collected." },
+        image: "/highlights/berlin-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Autostadt%20Wolfsburg",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
 ],
   },
   {
@@ -6455,25 +6485,11 @@ export const cities: City[] = [
     },
     highlights: [
       {
-        id: "munich-h1",
-        name: { ko: "마리엔광장", en: "Marienplatz" },
-        description: { ko: "신시청과 시계인형이 있는 중심 광장입니다.", en: "New Town Hall and Glockenspiel square." },
-        image: "/highlights/munich-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Marienplatz%2015%2C%2080331%20M%C3%BCnchen",
-      },
-      {
         id: "munich-h2",
         name: { ko: "영국식 정원", en: "English Garden" },
         description: { ko: "도심 속 거대한 공원입니다.", en: "Vast urban park." },
         image: "/highlights/munich-2.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Englischer%20Garten",
-      },
-      {
-        id: "munich-h3",
-        name: { ko: "님펜부르크 궁전", en: "Nymphenburg Palace" },
-        description: { ko: "바로크 궁전과 정원입니다.", en: "Baroque palace and gardens." },
-        image: "/highlights/munich-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nymphenburg%20Palace",
       },
       {
         id: "munich-h4",
@@ -6483,13 +6499,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Alte%20Pinakothek",
       },
       {
-        id: "munich-h5",
-        name: { ko: "호프브로이하우스", en: "Hofbräuhaus" },
-        description: { ko: "상징적인 맥주홀입니다.", en: "Iconic beer hall." },
-        image: "/highlights/munich-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hofbr%C3%A4uhaus%20Munich",
-      },
-      {
         id: "munich-h6",
         name: { ko: "성 미하엘 교회", en: "St. Michael's Church" },
         description: { ko: "알프스 이북 최대의 르네상스 양식 교회입니다.", en: "The largest Renaissance church north of the Alps." },
@@ -6497,11 +6506,47 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Michael's%20Church%20Munich",
       },
       {
+        id: "munich-h1",
+        name: { ko: "마리엔광장", en: "Marienplatz" },
+        description: { ko: "신시청과 시계인형이 있는 중심 광장입니다.", en: "New Town Hall and Glockenspiel square." },
+        image: "/highlights/munich-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Marienplatz%2015%2C%2080331%20M%C3%BCnchen",
+      },
+      {
+        id: "munich-h5",
+        name: { ko: "호프브로이하우스", en: "Hofbräuhaus" },
+        description: { ko: "상징적인 맥주홀입니다.", en: "Iconic beer hall." },
+        image: "/highlights/munich-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hofbr%C3%A4uhaus%20Munich",
+      },
+      {
+        id: "munich-h3",
+        name: { ko: "님펜부르크 궁전", en: "Nymphenburg Palace" },
+        description: { ko: "바로크 궁전과 정원입니다.", en: "Baroque palace and gardens." },
+        image: "/highlights/munich-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nymphenburg%20Palace",
+      },
+      {
+        id: "munich-h8",
+        name: { ko: "BMW 벨트와 BMW 박물관", en: "BMW Welt & BMW Museum" },
+        description: { ko: "올림픽 공원 옆 BMW 본사의 전시장 BMW 벨트와, 그릇 모양 건물에 BMW의 차와 오토바이 역사를 모은 박물관입니다.", en: "BMW Welt, the showroom beside BMW’s headquarters by the Olympic Park, and the bowl-shaped museum of BMW cars and motorcycles." },
+        image: "/highlights/munich-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=BMW%20Welt%20M%C3%BCnchen",
+      },
+      {
         id: "munich-h7",
         name: { ko: "다하우 강제수용소 추모관", en: "Dachau Concentration Camp Memorial" },
         description: { ko: "나치 독일이 처음 세운 강제수용소 터에 만든 추모관이자 기록관입니다.", en: "The memorial and documentation centre on the site of the first concentration camp set up by Nazi Germany." },
         image: "/highlights/munich-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=KZ-Gedenkst%C3%A4tte%20Dachau",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "munich-h9",
+        name: { ko: "아우디 무제움 모빌레(잉골슈타트)", en: "Audi museum mobile (Ingolstadt)" },
+        description: { ko: "잉골슈타트 아우디 본사 ‘아우디 포럼’ 안의 박물관으로, 아우토 우니온 시절부터의 아우디 역사를 보여 줍니다.", en: "The museum in the Audi Forum at Audi’s Ingolstadt headquarters, telling Audi’s story from the Auto Union years." },
+        image: "/highlights/munich-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Audi%20museum%20mobile%20Ingolstadt",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
     ],
@@ -7261,6 +7306,14 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fondazione%20Prada%20Milano",
         group: { ko: "포르타 로마나", en: "Porta Romana" },
       },
+      {
+        id: "milan-h20",
+        name: { ko: "알파 로메오 박물관(아레세)", en: "Alfa Romeo Museum (Arese)" },
+        description: { ko: "밀라노 북서쪽 옛 알파 로메오 공장 터의 박물관으로, 경주차와 역대 명차가 전시됩니다.", en: "The museum on the old Alfa Romeo works north-west of Milan, with racing cars and classics from every era." },
+        image: "/highlights/milan-20.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museo%20Storico%20Alfa%20Romeo%20Arese",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -7766,13 +7819,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Petite%20Venise%20Colmar",
       },
       {
-        id: "colmar-h2",
-        name: { ko: "운터린덴 미술관", en: "Unterlinden Museum" },
-        description: { ko: "옛 수도원에 자리한 미술관으로 그뤼네발트의 이젠하임 제단화가 대표작입니다.", en: "A museum in a former convent, home to Grünewald’s Isenheim Altarpiece." },
-        image: "/highlights/colmar-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Unterlinden%20Colmar",
-      },
-      {
         id: "colmar-h3",
         name: { ko: "구시가와 메종 피스터", en: "Old town and Maison Pfister" },
         description: { ko: "16세기 그림 장식 발코니가 있는 메종 피스터와 옛 세관 쾨피스 사이로 구시가 골목이 이어집니다.", en: "Old-town lanes between the painted 16th-century Maison Pfister and the old customs house, the Koïfhus." },
@@ -7785,6 +7831,13 @@ export const cities: City[] = [
         description: { ko: "구시가 한가운데의 고딕 성당으로 지붕에 알자스식 색 기와가 덮여 있습니다.", en: "The Gothic church at the centre of the old town, roofed in coloured Alsatian tiles." },
         image: "/highlights/colmar-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coll%C3%A9giale%20Saint-Martin%20Colmar",
+      },
+      {
+        id: "colmar-h2",
+        name: { ko: "운터린덴 미술관", en: "Unterlinden Museum" },
+        description: { ko: "옛 수도원에 자리한 미술관으로 그뤼네발트의 이젠하임 제단화가 대표작입니다.", en: "A museum in a former convent, home to Grünewald’s Isenheim Altarpiece." },
+        image: "/highlights/colmar-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Unterlinden%20Colmar",
       },
       {
         id: "colmar-h5",
@@ -7801,7 +7854,15 @@ export const cities: City[] = [
         image: "/highlights/colmar-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Riquewihr",
         group: { ko: "근교 마을", en: "Nearby villages" },
-      }
+      },
+      {
+        id: "colmar-h7",
+        name: { ko: "국립 자동차 박물관(뮐루즈)", en: "Cité de l’Automobile (Mulhouse)" },
+        description: { ko: "슐룸프 형제가 모은 400여 대를 전시하는 세계 최대급 자동차 박물관으로, 부가티 컬렉션이 특히 유명합니다.", en: "One of the world’s largest car museums, showing some 400 cars collected by the Schlumpf brothers and famous for its Bugattis." },
+        image: "/highlights/colmar-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cit%C3%A9%20de%20l%E2%80%99Automobile%20Mulhouse",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -8440,18 +8501,18 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zwinger%20Dresden",
       },
       {
-        id: "dresden-h2",
-        name: { ko: "성모교회", en: "Frauenkirche" },
-        description: { ko: "재건된 돔 교회입니다.", en: "Rebuilt dome church." },
-        image: "/highlights/dresden-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Frauenkirche%20Dresden",
-      },
-      {
         id: "dresden-h3",
         name: { ko: "레지덴츠 궁전", en: "Residenzschloss" },
         description: { ko: "왕궁 박물관입니다.", en: "Royal palace museums." },
         image: "/highlights/dresden-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Residenzschloss%20Dresden",
+      },
+      {
+        id: "dresden-h2",
+        name: { ko: "성모교회", en: "Frauenkirche" },
+        description: { ko: "재건된 돔 교회입니다.", en: "Rebuilt dome church." },
+        image: "/highlights/dresden-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Frauenkirche%20Dresden",
       },
       {
         id: "dresden-h4",
@@ -8466,7 +8527,14 @@ export const cities: City[] = [
         description: { ko: "카페·거리 문화 지구입니다.", en: "Café and street-culture district." },
         image: "/highlights/dresden-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%84u%C3%9Fere%20Neustadt",
-      }
+      },
+      {
+        id: "dresden-h6",
+        name: { ko: "폭스바겐 유리 공장", en: "Volkswagen Transparent Factory" },
+        description: { ko: "벽이 모두 유리로 된 폭스바겐 공장으로, 지금은 전기차 체험관과 견학 투어를 운영합니다.", en: "Volkswagen’s all-glass factory, now an electric-mobility showroom with guided tours." },
+        image: "/highlights/dresden-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gl%C3%A4serne%20Manufaktur%20Dresden",
+      },
     ],
   },
   {
@@ -9302,11 +9370,11 @@ export const cities: City[] = [
     },
     highlights: [
       {
-        id: "modena-h1",
-        name: { ko: "모데나 대성당", en: "Modena Cathedral" },
-        description: { ko: "유네스코 유산인 로마네스크 대성당입니다.", en: "UNESCO-listed Romanesque cathedral." },
-        image: "/highlights/modena-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Modena",
+        id: "modena-h4",
+        name: { ko: "알비넬리 시장", en: "Mercato Albinelli" },
+        description: { ko: "지역 식재료가 모인 실내 시장입니다.", en: "Covered market of local produce." },
+        image: "/highlights/modena-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mercato%20Albinelli",
       },
       {
         id: "modena-h2",
@@ -9316,6 +9384,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Grande%2037%2C%2041121%20Modena",
       },
       {
+        id: "modena-h1",
+        name: { ko: "모데나 대성당", en: "Modena Cathedral" },
+        description: { ko: "유네스코 유산인 로마네스크 대성당입니다.", en: "UNESCO-listed Romanesque cathedral." },
+        image: "/highlights/modena-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Modena",
+      },
+      {
         id: "modena-h3",
         name: { ko: "엔초 페라리 박물관", en: "Enzo Ferrari Museum" },
         description: { ko: "페라리 창업자의 생가와 박물관입니다.", en: "Museum at Enzo Ferrari's birthplace." },
@@ -9323,19 +9398,20 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museo%20Enzo%20Ferrari",
       },
       {
-        id: "modena-h4",
-        name: { ko: "알비넬리 시장", en: "Mercato Albinelli" },
-        description: { ko: "지역 식재료가 모인 실내 시장입니다.", en: "Covered market of local produce." },
-        image: "/highlights/modena-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mercato%20Albinelli",
-      },
-      {
         id: "modena-h5",
         name: { ko: "발사믹 식초 양조장", en: "Balsamic vinegar acetaia" },
         description: { ko: "전통 발사믹 식초 숙성 공방 투어입니다.", en: "Tour a traditional balsamic acetaia." },
         image: "/highlights/modena-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=acetaia%20Modena",
-      }
+      },
+      {
+        id: "modena-h6",
+        name: { ko: "페라리 박물관(마라넬로)", en: "Ferrari Museum (Maranello)" },
+        description: { ko: "페라리 공장이 있는 마라넬로의 박물관으로, F1 경주차와 역대 로드카가 전시됩니다.", en: "The museum in Maranello, home of the Ferrari factory, displaying F1 cars and road cars through the years." },
+        image: "/highlights/modena-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museo%20Ferrari%20Maranello",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12763,6 +12839,20 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "bologna-h3",
+        name: { ko: "마조레 광장", en: "Piazza Maggiore" },
+        description: { ko: "시청과 대성당이 있는 광장입니다.", en: "Square with town hall and basilica." },
+        image: "/highlights/bologna-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Maggiore%201%2C%2040124%20Bologna",
+      },
+      {
+        id: "bologna-h5",
+        name: { ko: "쿠아트로 피우트", en: "Quadrilatero" },
+        description: { ko: "델리·시장 골목입니다.", en: "Deli and market lanes." },
+        image: "/highlights/bologna-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Quadrilatero%20Bologna",
+      },
+      {
         id: "bologna-h1",
         name: { ko: "두에 토리", en: "Two Towers" },
         description: { ko: "기울어진 중세 탑입니다.", en: "Leaning medieval towers." },
@@ -12777,13 +12867,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Santo%20Stefano%20Bologna",
       },
       {
-        id: "bologna-h3",
-        name: { ko: "마조레 광장", en: "Piazza Maggiore" },
-        description: { ko: "시청과 대성당이 있는 광장입니다.", en: "Square with town hall and basilica." },
-        image: "/highlights/bologna-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20Maggiore%201%2C%2040124%20Bologna",
-      },
-      {
         id: "bologna-h4",
         name: { ko: "포르티코 산책", en: "Porticoes" },
         description: { ko: "유네스코 아케이드 거리입니다.", en: "UNESCO covered arcades." },
@@ -12791,12 +12874,20 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Portici%20Bologna",
       },
       {
-        id: "bologna-h5",
-        name: { ko: "쿠아트로 피우트", en: "Quadrilatero" },
-        description: { ko: "델리·시장 골목입니다.", en: "Deli and market lanes." },
-        image: "/highlights/bologna-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Quadrilatero%20Bologna",
-      }
+        id: "bologna-h6",
+        name: { ko: "두카티 박물관", en: "Ducati Museum" },
+        description: { ko: "보르고 파니갈레의 두카티 공장 안 박물관으로, 레이스 바이크와 브랜드 역사를 보여 줍니다.", en: "The museum inside the Ducati factory at Borgo Panigale, showing race bikes and the brand’s history." },
+        image: "/highlights/bologna-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museo%20Ducati%20Borgo%20Panigale",
+      },
+      {
+        id: "bologna-h7",
+        name: { ko: "람보르기니 박물관", en: "Automobili Lamborghini Museum (MUDETEC)" },
+        description: { ko: "산타가타 볼로녜세의 람보르기니 본사 박물관으로, 미우라부터 최신 하이퍼카까지 전시합니다.", en: "The museum at Lamborghini’s Sant’Agata Bolognese headquarters, from the Miura to the latest hypercars." },
+        image: "/highlights/bologna-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museo%20Lamborghini%20Sant%E2%80%99Agata%20Bolognese",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -12863,6 +12954,13 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "turin-h3",
+        name: { ko: "산카를로 광장", en: "Piazza San Carlo" },
+        description: { ko: "아케이드 카페 광장입니다.", en: "Arcade café square." },
+        image: "/highlights/turin-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20San%20Carlo%20Turin",
+      },
+      {
         id: "turin-h1",
         name: { ko: "이집트 박물관", en: "Egyptian Museum" },
         description: { ko: "세계적 이집트 컬렉션입니다.", en: "World-class Egyptian collection." },
@@ -12877,13 +12975,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mole%20Antonelliana",
       },
       {
-        id: "turin-h3",
-        name: { ko: "산카를로 광장", en: "Piazza San Carlo" },
-        description: { ko: "아케이드 카페 광장입니다.", en: "Arcade café square." },
-        image: "/highlights/turin-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piazza%20San%20Carlo%20Turin",
-      },
-      {
         id: "turin-h4",
         name: { ko: "포 강변", en: "Po riverside" },
         description: { ko: "강변 산책로입니다.", en: "Riverside promenade." },
@@ -12891,12 +12982,26 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fiume%20Po%20Turin",
       },
       {
+        id: "turin-h6",
+        name: { ko: "국립 자동차 박물관", en: "National Automobile Museum (MAUTO)" },
+        description: { ko: "포강 옆 피아트의 도시 토리노에 있는 자동차 박물관으로, 마차 시대부터 현대까지 200여 대를 전시합니다.", en: "The car museum in Fiat’s home city by the Po, showing some 200 vehicles from the horseless carriage to today." },
+        image: "/highlights/turin-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museo%20Nazionale%20dell%E2%80%99Automobile%20Torino",
+      },
+      {
+        id: "turin-h7",
+        name: { ko: "링고토와 옥상 트랙", en: "Lingotto & La Pista 500" },
+        description: { ko: "옥상에 시험 주행 트랙을 얹은 옛 피아트 공장으로, 지금은 쇼핑센터와 피나코테카 아녤리 미술관이 들어섰고 옥상 트랙은 정원이 됐습니다.", en: "The former Fiat factory with a test track on its roof, now a shopping centre and the Pinacoteca Agnelli, its rooftop track turned into a garden." },
+        image: "/highlights/turin-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lingotto%20Torino%20Pista%20500",
+      },
+      {
         id: "turin-h5",
         name: { ko: "수페르가", en: "Basilica di Superga" },
         description: { ko: "언덕 위 성당·전망입니다.", en: "Hilltop basilica views." },
         image: "/highlights/turin-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20Superga",
-      }
+      },
     ],
   },
   {
@@ -21669,6 +21774,20 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "monaco-h4",
+        name: { ko: "포르 에르퀼", en: "Port Hercule" },
+        description: { ko: "요트가 늘어선 항구입니다.", en: "Harbour lined with yachts." },
+        image: "/highlights/monaco-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Port%20Hercule",
+      },
+      {
+        id: "monaco-h6",
+        name: { ko: "대공 자동차 컬렉션", en: "Prince of Monaco’s Car Collection" },
+        description: { ko: "레니에 3세 대공이 모은 클래식카와 F1 경주차 컬렉션으로, 2022년 항구 쪽 새 전시장으로 옮겼습니다.", en: "Prince Rainier III’s collection of classic cars and F1 racers, moved to a new hall by the port in 2022." },
+        image: "/highlights/monaco-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Collection%20de%20Voitures%20de%20S.A.S.%20le%20Prince%20Monaco",
+      },
+      {
         id: "monaco-h1",
         name: { ko: "왕궁", en: "Prince’s Palace" },
         description: { ko: "바위 언덕 위 공국 왕궁입니다.", en: "Princely palace on the Rock." },
@@ -21683,26 +21802,19 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Monaco%20Cathedral",
       },
       {
+        id: "monaco-h5",
+        name: { ko: "생마르탱 정원", en: "Saint-Martin Gardens" },
+        description: { ko: "바다 전망 공원입니다.", en: "Sea-view gardens." },
+        image: "/highlights/monaco-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jardin%20Saint-Martin%20Monaco",
+      },
+      {
         id: "monaco-h3",
         name: { ko: "해양박물관", en: "Oceanographic Museum" },
         description: { ko: "절벽 위 해양 박물관입니다.", en: "Cliffside ocean museum." },
         image: "/highlights/monaco-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Oceanographic%20Museum%20Monaco",
       },
-      {
-        id: "monaco-h4",
-        name: { ko: "포르 에르퀼", en: "Port Hercule" },
-        description: { ko: "요트가 늘어선 항구입니다.", en: "Harbour lined with yachts." },
-        image: "/highlights/monaco-4.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Port%20Hercule",
-      },
-      {
-        id: "monaco-h5",
-        name: { ko: "생마르탱 정원", en: "Saint-Martin Gardens" },
-        description: { ko: "바다 전망 공원입니다.", en: "Sea-view gardens." },
-        image: "/highlights/monaco-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jardin%20Saint-Martin%20Monaco",
-      }
     ],
   },
   {

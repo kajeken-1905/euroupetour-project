@@ -110,6 +110,7 @@ export const visitFr: Record<string, HighlightVisit> = {
   'colmar-h4': v(15, 20),
   'colmar-h5': v(90, 120, { n: '콜마르에서 남쪽으로 약 7km입니다. 와인 시음을 하려면 차보다 버스나 투어가 편합니다.|About 7 km south of Colmar; take a bus or tour if you plan to taste wine.' }),
   'colmar-h6': v(90, 120, { n: '콜마르에서 북쪽으로 약 15km이며 버스가 다닙니다.|About 15 km north of Colmar, reached by bus.' }),
+  'colmar-h7': v(120, 180, { s: 'https://www.musee-automobile.fr/', n: '콜마르에서 기차로 약 20분이며 뮐루즈역에서 트램으로 갑니다.|About 20 min by train from Colmar, then the tram from Mulhouse station.' }),
   // Amboise & Loire châteaux
   'amboise-h1': v(90, 120, { c: 'daily', s: 'https://www.chateau-amboise.com/en/', k: '2026-10' }),
   'amboise-h2': v(90, 120, { c: 'daily', s: 'https://www.vinci-closluce.com/en/', k: '2026-10' }),

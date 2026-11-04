@@ -14,7 +14,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   'the-hague': {
     days: [
       ['시내|City centre', 5, 3, 7, 1, 2],
-      ['마뒤로담과 스헤베닝언|Madurodam & Scheveningen', 6, 4],
+      ['마뒤로담과 스헤베닝언|Madurodam & Scheveningen', 6, 8, 4],
     ],
   },
   utrecht: [3, 4, 2, 1, 5, 6],
@@ -92,13 +92,14 @@ export const itineraryCentral: Record<string, RawItinerary> = {
       ['미테|Mitte', 4, 1, 5, 2],
       ['장벽 기념관과 샤를로텐부르크|Wall Memorial & Charlottenburg', 3, 6, 7],
     ],
+    trips: [['아우토슈타트|Autostadt', 8]],
   },
   munich: {
     days: [
       ['시내|City centre', 2, 4, 6, 1, 5],
-      ['님펜부르크|Nymphenburg', 3],
+      ['님펜부르크와 BMW|Nymphenburg & BMW', 3, 8],
     ],
-    trips: [['다하우 추모관|Dachau Memorial', 7]],
+    trips: [['다하우 추모관|Dachau Memorial', 7], ['아우디 박물관|Audi museum', 9]],
   },
   hamburg: [4, 1, 3, 2, 5],
   cochem: [2, 5, 1, 3, 4],
@@ -113,7 +114,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
     ],
   },
   lausanne: { days: [['', 1, 5, 4, 2, 3]], trips: [['라보 포도밭|Lavaux', 6]] },
-  dresden: [1, 3, 2, 4, 5],
+  dresden: [1, 3, 2, 4, 5, 6],
   heidelberg: [1, 2, 5, 4, 3],
   bamberg: [1, 4, 2, 3, 5],
   wurzburg: [1, 4, 3, 2, 5],

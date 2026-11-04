@@ -25,6 +25,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'berlin-h5': v(15, 20),
   'berlin-h6': v(45, 90),
   'berlin-h7': v(90, 120, { c: 'mon', s: 'https://www.spsg.de/en/palaces-gardens/object/charlottenburg-palace-old-palace', k: '2026-10' }),
+  'berlin-h8': v(240, 300, { s: 'https://www.autostadt.de/', n: '베를린에서 ICE로 약 1시간이며 볼프스부르크역 바로 건너편입니다.|About 1 hr from Berlin by ICE, directly across from Wolfsburg station.' }),
   // Potsdam
   'potsdam-h1': v(60, 90, { c: 'mon', b: 'rec', s: SPSG, n: '시간 지정 입장권이라 성수기에는 오전에 매진됩니다. 당일 표는 풍차 옆 방문자 센터에서 팝니다. 정원은 무료입니다.|Entry is by timed ticket and often sells out by late morning in season. Same-day tickets are sold at the visitor centre by the windmill. The gardens are free.', k: '2026-10' }),
   'potsdam-h2': v(75, 90, { c: 'tue', k: '2026-10' }),
@@ -56,6 +57,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'dresden-h3': v(120, 180, { c: 'tue', b: 'rec', s: 'https://gruenes-gewoelbe.skd.museum/en/', n: '역사적 녹색 금고는 시간 지정 입장권이 필요합니다.|The Historic Green Vault needs a timed ticket.', k: '2026-10' }),
   'dresden-h4': v(20, 30),
   'dresden-h5': v(60, 90),
+  'dresden-h6': v(60, 90, { s: 'https://www.glaesernemanufaktur.de/', n: '견학 투어는 미리 예약하는 편이 좋습니다.|Guided tours are best booked ahead.' }),
   // Heidelberg
   'heidelberg-h1': v(90, 120, { c: 'daily', s: 'https://www.schloss-heidelberg.de/en/', n: '입장권에 산악 열차 왕복이 포함됩니다.|The ticket includes the funicular up and down.', k: '2026-10' }),
   'heidelberg-h2': v(60, 90),
@@ -88,6 +90,8 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'munich-h5': v(60, 90, { c: 'daily', b: 'no', s: 'https://www.hofbraeuhaus.de/en/', k: '2026-10' }),
   'munich-h6': v(15, 20, { c: 'daily', b: 'no', s: 'https://www.muenchen.de/en/sights/churches/jesuit-church-st-michael-germanys-first-renaissance-church', n: '성당은 무료입니다. 지하 비텔스바흐 왕가 묘소는 유료이고 따로 정한 시간에만 엽니다.|The church is free; the Wittelsbach crypt below is ticketed and keeps shorter hours.', k: '2026-10' }),
   'munich-h7': v(180, 240, { c: 'daily', s: 'https://www.kz-gedenkstaette-dachau.de/', n: '입장은 무료이고 12월 24일만 쉽니다. 중앙역에서 S2로 다하우역(약 25분), 이어서 726번 버스로 약 10분입니다.|Free entry; closed only on 24 December. S2 from the main station to Dachau (about 25 min), then bus 726 (about 10 min).', k: '2026-10' }),
+  'munich-h8': v(90, 150, { c: 'mon', s: 'https://www.bmw-welt.com/', n: 'BMW 벨트는 무료이고 박물관은 유료이며 월요일에 쉽니다. 지하철 U3호선 올림피아첸트룸역 바로 앞입니다.|BMW Welt is free; the museum is ticketed and closed on Mondays. Right by Olympiazentrum on the U3.' }),
+  'munich-h9': v(90, 120, { n: '뮌헨에서 기차로 약 40분 걸리고, 역에서 버스로 아우디 포럼까지 갑니다. 공장 투어는 따로 예약합니다.|About 40 min by train from Munich, then a bus to the Audi Forum; factory tours are booked separately.' }),
   'cochem-h1': v(60, 90, { s: 'https://www.reichsburg-cochem.de/', n: '가이드 투어로 들어갑니다. 3월 중순~11월 초엔 매일 다니고, 겨울엔 여는 요일과 시간이 줄어듭니다.|Visits are by guided tour, daily from mid-March to early November; in winter there are fewer opening days and shorter hours.' }),
   'cochem-h2': v(30, 45),
   'cochem-h3': v(45, 60, { n: '봄~가을에 운행합니다.|Runs from spring to autumn.' }),
@@ -232,6 +236,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'the-hague-h5': v(15, 20, { n: '대규모 보수 공사로 안뜰과 건물에 들어갈 수 없고, 2031년 여름에야 다시 걸어 다닐 수 있을 예정입니다. 호수 건너편에서 외관만 봅니다.|Closed off for a major renovation, with the courtyard due to reopen to walkers in summer 2031; view it from across the Hofvijver pond.' }),
   'the-hague-h6': v(90, 120, { c: 'daily', s: 'https://www.madurodam.nl/en', k: '2026-10' }),
   'the-hague-h7': v(60, 75, { c: 'mon', s: 'https://escherinhetpaleis.nl/en?lang=en', k: '2026-10' }),
+  'the-hague-h8': v(90, 120, { c: 'mon', s: 'https://www.louwmanmuseum.nl/', n: '유료이며 월요일에 쉽니다.|Ticketed; closed on Mondays.' }),
   // Utrecht
   'utrecht-h1': v(60, 60, { b: 'req', s: 'https://www.domtoren.nl/en', n: '가이드 투어로만 오르며 계단이 465개입니다.|Climbed on guided tours only—465 steps.', k: '2026-10' }),
   'utrecht-h2': v(45, 60),

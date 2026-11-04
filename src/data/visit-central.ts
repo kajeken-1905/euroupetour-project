@@ -134,6 +134,7 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'prague-h18': v(60, 75, { s: 'https://www.obecnidum.cz/en/visits/', n: '내부는 약 1시간짜리 가이드 투어로만 봅니다. 매표소는 매일 10:00~19:00에 열고, 투어 시간은 날마다 달라 공식 사이트에서 확인하세요. 1층 카페는 투어 없이 들어갈 수 있습니다.|The interior is by guided tour only, about an hour. The box office opens daily 10:00–19:00; tour times vary by day, so check the official site. The ground-floor café needs no tour.', k: '2026-11' }),
   'prague-h19': v(45, 60, { b: 'rec', s: 'https://www.prague.eu/clementinum', n: '약 45분짜리 가이드 투어로만 봅니다. 엘리베이터 없이 계단 172개를 오르고, 도서관은 문턱에서 들여다봅니다.|Guided tour only, about 45 min; 172 steps with no lift, and the library is viewed from the threshold.', k: '2026-11' }),
   'prague-h20': v(30, 45, { n: '전망 테라스는 좌석이 적어 오후엔 붐비니 오전이 낫습니다. 운영 시간은 구글지도에서 확인하세요.|The terrace has few seats and fills up in the afternoon, so mornings are better; check the hours on Google Maps.' }),
+  'prague-h21': v(90, 120, { n: '프라하에서 버스로 약 1시간입니다. 공장 견학은 미리 예약합니다.|About 1 hr by bus from Prague; factory tours must be booked ahead.' }),
   // Brno
   'brno-h1': v(75, 90, { c: 'daily', s: 'https://www.spilberk.cz/en/', k: '2026-10' }),
   'brno-h2': v(60, 90, { c: 'mon', b: 'req', s: 'https://www.vilatugendhat.cz/en/', n: '내부 투어는 몇 달 전에 매진됩니다. 표가 없으면 정원만 볼 수 있습니다.|Interior tours sell out months ahead; without a ticket only the garden can be seen.', k: '2026-10' }),

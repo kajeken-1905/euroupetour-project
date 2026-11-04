@@ -1870,3 +1870,18 @@ highlights/nitra-2.jpg | https://commons.wikimedia.org/wiki/File:Nitra_-_Pribino
 highlights/nitra-3.jpg | https://commons.wikimedia.org/wiki/File:Nitra_-_Sv%C3%A4toplukovo_n%C3%A1mestie_(1).jpg | CC BY-SA 4.0 | Ladislav Luppa
 highlights/nitra-4.jpg | https://commons.wikimedia.org/wiki/File:Inside_Synagogue_in_Nitra.jpg | CC BY-SA 4.0 | Filo
 highlights/nitra-5.jpg | https://commons.wikimedia.org/wiki/File:Zobor_-_pohled_z_hradu.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/munich-8.jpg | https://commons.wikimedia.org/wiki/File:BMW_Welt,_M%C3%BAnich,_Alemania,_2013-04-22,_DD_19.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/munich-9.jpg | https://commons.wikimedia.org/wiki/File:Museum_mobile_Ingolstadt.jpg | CC BY-SA 3.0 | Sebastian Terfloth User:Sese_Ingolstadt
+highlights/berlin-8.jpg | https://commons.wikimedia.org/wiki/File:Autostadt_Mittellandkanal.jpg | CC BY-SA 3.0 | Richard Bartz
+highlights/dresden-6.jpg | https://commons.wikimedia.org/wiki/File:Gl%C3%A4serne_Manufaktur_Dresden_2024_Luftbild_Toni_Klemm_2500px.jpg | CC BY-SA 4.0 | Toniklemm
+highlights/modena-6.jpg | https://commons.wikimedia.org/wiki/File:Ferrari-Museum_Maranello_1.JPG | CC BY-SA 3.0 | Wistula
+highlights/bologna-6.jpg | https://commons.wikimedia.org/wiki/File:Ducati_Museum_(6079498269).jpg | CC BY 2.0 | jimmyweee
+highlights/bologna-7.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Lamborghini_0003.JPG | CC BY-SA 3.0 | Arnaud 25
+highlights/turin-6.jpg | https://commons.wikimedia.org/wiki/File:GP_automobiles_Museo_Nazionale_dell%27Automobile_Torino.jpg | CC BY 2.0 | Jokamies .fi
+highlights/turin-7.jpg | https://commons.wikimedia.org/wiki/File:Fiat_Lingotto_Rooftop_Racetrack_1.jpg | CC BY-SA 3.0 | IIVQ / Tijmen Stam
+highlights/milan-20.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A9_Alfa_Romeo_Museo_Storico_OCT_2015.jpg | CC BY-SA 2.0 | azrhey
+highlights/colmar-7.jpg | https://commons.wikimedia.org/wiki/File:Collection_Schlumpf_002.jpg | CC BY-SA 4.0 | Arnaud 25
+highlights/the-hague-8.jpg | https://commons.wikimedia.org/wiki/File:Duryea_1903_and_Ford_A_at_Louwman_museum_(80)_(15758364154).jpg | CC BY-SA 2.0 | bertknot from scarborough, australia
+highlights/prague-21.jpg | https://commons.wikimedia.org/wiki/File:13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-246.jpg | CC BY 3.0 | Ralf Roletschek
+highlights/gothenburg-7.jpg | https://commons.wikimedia.org/wiki/File:World_of_Volvo_20230607.jpg | CC BY-SA 4.0 | Fabianmikaelsson
+highlights/monaco-6.jpg | https://commons.wikimedia.org/wiki/File:Entrance_of_the_car_collection_of_the_Prince_of_Monaco.jpg | CC BY-SA 4.0 | Andromeda2064

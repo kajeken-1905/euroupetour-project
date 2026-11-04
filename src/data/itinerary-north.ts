@@ -34,6 +34,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     days: [
       ['시내|City centre', 1, 3, 6, 4, 5],
       ['리세베리|Liseberg', 2],
+      ['월드 오브 볼보|World of Volvo', 7],
     ],
   },
   malmo: [2, 4, 5, 1, 3],
@@ -72,7 +73,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['구시가와 유대인 지구|Old Town & Jewish Quarter', 19, 3, 4, 7, 6, 8, 18],
       ['신시가와 비셰흐라드|New Town & Vyšehrad', 16, 11, 15],
     ],
-    trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14]],
+    trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14], ['슈코다 박물관|Škoda Museum', 21]],
   },
   telc: [1, 2, 3, 4],
   mikulov: [1, 4, 3, 2, 5],

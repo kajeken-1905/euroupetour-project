@@ -828,5 +828,35 @@
     49.3298025,
     21.2666151,
     "OSM Nominatim \"Múzeum ľudovej architektúry - Skanzen Bardejov\""
+  ],
+  "berlin-h8": [
+    52.4323936,
+    10.7931667,
+    "OSM Nominatim \"Autostadt, Wolfsburg\""
+  ],
+  "bologna-h7": [
+    44.6591378,
+    11.1258279,
+    "OSM Nominatim \"Museo Automobili Lamborghini, Sant'Agata Bolognese\""
+  ],
+  "turin-h7": [
+    45.0314038,
+    7.6668834,
+    "OSM Nominatim \"Lingotto, Via Nizza, Torino\""
+  ],
+  "colmar-h7": [
+    47.7601071,
+    7.3309079,
+    "OSM Nominatim \"Cité de l'Automobile, Mulhouse\""
+  ],
+  "bologna-h6": [
+    44.5161578,
+    11.2684316,
+    "OSM Nominatim \"Museo Ducati, Bologna\""
+  ],
+  "monaco-h6": [
+    43.7351727,
+    7.4215683,
+    "OSM Nominatim \"La Collection de Voitures de SAS Le Prince de Monaco, 54 Route de la Piscine\""
   ]
 }

@@ -34,6 +34,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'milan-h17': v(75, 90, { n: '경기장 투어와 박물관은 유료이며 경기 날과 행사 날에는 바뀌거나 쉽니다. 두오모에서 지하철 M5호선 산 시로 스타디오역까지 약 25분입니다.|The stadium tour and museum are ticketed and change or close on match and event days; about 25 minutes from the Duomo on metro M5 to San Siro Stadio.' }),
   'milan-h18': v(45, 60, { n: '무료로 둘러볼 수 있고 지하철 M5호선 트레 토리역에서 바로 이어집니다.|Free to walk round; straight out of Tre Torri station on metro M5.' }),
   'milan-h19': v(90, 120, { c: 'tue', s: 'https://www.fondazioneprada.org/', n: '유료이며 화요일에 쉽니다. 운영 시간은 공식 사이트에서 확인하세요.|Ticketed and closed on Tuesdays; check opening hours on the official site.' }),
+  'milan-h20': v(90, 120, { s: 'https://www.museoalfaromeo.com/', n: '밀라노 시내에서 차로 약 30분이며 대중교통은 갈아타야 합니다.|About 30 min by car from central Milan; public transport needs a change.' }),
   // Como
   'como-h1': v(20, 30, { b: 'no', n: FREE }),
   'como-h2': v(60, 90),
@@ -67,6 +68,8 @@ export const visitIt: Record<string, HighlightVisit> = {
   'turin-h3': v(15, 20),
   'turin-h4': v(30, 45),
   'turin-h5': v(90, 120, { c: 'daily', s: 'https://www.basilicadisuperga.org/', n: '성당은 평일 10:00~13:30, 14:30~18:00, 주말·공휴일 10:00~19:00에 엽니다. 사시~수페르가 산악 트램은 수요일에 운휴합니다.|The basilica opens 10:00–13:30 and 14:30–18:00 on weekdays, 10:00–19:00 at weekends and on holidays. The Sassi–Superga tram does not run on Wednesdays.', k: '2026-10' }),
+  'turin-h6': v(90, 120, { s: 'https://www.museoauto.com/' }),
+  'turin-h7': v(60, 90, { s: 'https://www.pinacoteca-agnelli.it/', n: '옥상 트랙 입장 방식과 시간은 피나코테카 아녤리 사이트에서 확인하세요.|Check how and when to reach the rooftop track on the Pinacoteca Agnelli site.' }),
   // Genoa
   'genoa-h1': v(150, 180, { c: 'daily', b: 'rec', s: 'https://www.acquariodigenova.it/en/', k: '2026-10' }),
   'genoa-h2': v(60, 90),
@@ -152,12 +155,15 @@ export const visitIt: Record<string, HighlightVisit> = {
   'bologna-h3': v(30, 45),
   'bologna-h4': v(45, 60),
   'bologna-h5': v(30, 45),
+  'bologna-h6': v(60, 90, { n: '시내에서 버스로 약 25분이며 공장 투어는 따로 예약합니다.|About 25 min by bus from the centre; factory tours are booked separately.' }),
+  'bologna-h7': v(60, 90, { s: 'https://www.lamborghini.com/en-en/museum', n: '볼로냐에서 약 30km로 차나 투어로 가는 편이 편합니다. 공장 투어는 미리 예약합니다.|About 30 km from Bologna, easiest by car or tour; factory tours must be booked ahead.' }),
   // Modena
   'modena-h1': v(30, 45, { b: 'no', n: FREE }),
   'modena-h2': v(15, 20),
   'modena-h3': v(75, 90, { c: 'daily', s: 'https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena', k: '2026-10' }),
   'modena-h4': v(30, 45, { c: 'sun', s: 'https://mercatoalbinelli.it/', k: '2026-10' }),
   'modena-h5': v(60, 90, { s: 'https://www.visitmodena.it/en/activities/guided-tour-to-the-acetaia-comunale-of-modena', b: 'req', n: '양조장 견학은 연중 있지만 항상 예약이 필요합니다. 관광 안내소나 각 양조장에 미리 예약하세요. 시청 안 시립 양조장도 예약제입니다.|Tours run all year but always need a reservation—through the tourist office or the producer. The municipal acetaia in the town hall is by reservation too.', k: '2026-10' }),
+  'modena-h6': v(90, 120, { s: 'https://www.ferrari.com/en-EN/museums', n: '모데나에서 약 20km이며 모데나역·엔초 페라리 박물관과 마라넬로를 잇는 셔틀버스가 있습니다. 두 박물관 통합권이 있습니다.|About 20 km from Modena; a shuttle bus links Modena station and the Enzo Ferrari Museum with Maranello, and a combined ticket covers both museums.' }),
   // Parma
   'parma-h1': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.piazzaduomoparma.com/en/', n: FREE, k: '2026-10' }),
   'parma-h2': v(30, 40, { c: 'daily', s: 'https://www.piazzaduomoparma.com/en/', k: '2026-10' }),

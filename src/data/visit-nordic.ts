@@ -61,6 +61,7 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'gothenburg-h4': v(50, 50, { n: '봄부터 가을까지만 다닙니다.|Runs spring to autumn only.' }),
   'gothenburg-h5': v(150, 180, { c: 'daily', s: 'https://www.universeum.se/en/', k: '2026-10' }),
   'gothenburg-h6': v(20, 30),
+  'gothenburg-h7': v(90, 120, { s: 'https://www.worldofvolvo.com/' }),
   // Malmö
   'malmo-h1': v(10, 15, { n: '주거 건물이라 내부는 공개하지 않습니다.|A residential tower—not open to visitors.' }),
   'malmo-h2': v(60, 90),
