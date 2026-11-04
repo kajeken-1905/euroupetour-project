@@ -6776,6 +6776,30 @@
 "ko": "극장 광장에 면한 바 겸 레스토랑. 고기 요리·팬케이크·체펠리나이가 인기이고 양이 많습니다.",
 "ok": 1
 },
+"korcula-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"korcula-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"korcula-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"korcula-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"korcula-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"korcula-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "kosice-bakery-1": {
 "ok": 1
 },
@@ -10958,6 +10982,38 @@
 "ok": 1,
 "src": "2026-11-04 google maps"
 },
+"porec-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"porec-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "porto-bakery-1": {
 "ok": true
 },
@@ -11367,6 +11423,34 @@
 "en": "Traditional restaurant in a historic, colourful building, serving grilled meats.",
 "ko": "옛 건물을 꾸민 전통 요리 식당. 고기구이를 냅니다.",
 "ok": 1
+},
+"pula-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pula-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pula-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pula-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pula-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pula-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"pula-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "ravenna-bakery-1": {
 "ok": 1,
@@ -12703,6 +12787,26 @@
 "sheki-fine_dining-2": {
 "addr": "İzzət Həmidov küçəsi, Şəki",
 "ok": 1
+},
+"sibenik-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sibenik-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sibenik-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sibenik-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"sibenik-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "sibiu-bakery-1": {
 "del": "temporarily closed"

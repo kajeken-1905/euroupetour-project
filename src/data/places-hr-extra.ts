@@ -69,4 +69,38 @@ export const placesHRExtra: Place[] = [
   // —— plitvice ——
   place('plitvice-fine_dining-1', 'plitvice', 'fine_dining', 'Restaurant Petar', 'Rastovača 4, 53231 Plitvička Jezera', '국립공원 1번 입구 근처 라스토바차 마을의 식당.', 'Restaurant in Rastovača village near Entrance 1.'),
   place('plitvice-fine_dining-2', 'plitvice', 'fine_dining', 'Degenija', 'Selište Drežničko bb, 47245 Rakovica', '공원 북쪽 국도변의 크로아티아 요리 식당.', 'Croatian restaurant on the main road north of the park.'),
+
+  // —— pula: restaurants, bakeries and cafés (2026-11-04) ——
+  place('pula-fine_dining-1', 'pula', 'fine_dining', 'Ribarska Koliba', 'Verudela 3, 52100 Pula', '베루델라 반도 바닷가의 해산물 레스토랑. 미쉐린 가이드 선정.', 'Seafood restaurant by the sea on the Verudela peninsula. In the MICHELIN Guide.'),
+  place('pula-fine_dining-2', 'pula', 'fine_dining', 'Batelina', 'Čimulje 25, 52203 Banjole', '풀라 남쪽 반욜레 마을의 해산물 식당. 미쉐린 가이드 선정.', 'Seafood restaurant in Banjole village south of Pula. In the MICHELIN Guide.'),
+  place('pula-fine_dining-3', 'pula', 'fine_dining', 'Konoba Boccaporta', 'Dolinka 18, 52100 Pula', '시내의 콘오바(전통 식당).', 'Konoba (traditional tavern) in the town.'),
+  place('pula-fine_dining-4', 'pula', 'fine_dining', 'Kod Kadre', 'Ul. Nikole Tesle 50A, 52100 Pula', '시내의 식당.', 'Restaurant in the town.'),
+  place('pula-bakery-1', 'pula', 'bakery', 'Bakery Istra', 'Rovinjska ul. 13, 52100 Pula', '시내의 빵집.', 'Bakery in the town.'),
+  place('pula-cafe-1', 'pula', 'cafe', 'Kavana Lattiera', 'Ul. Alda Negrija 37, 52100 Pula', '시내의 카페.', 'Café in the town.'),
+  place('pula-cafe-2', 'pula', 'cafe', 'La Resistance', 'Emova ul. 1, 52100 Pula', '시내의 커피숍.', 'Coffee shop in the town.'),
+
+  // —— porec: restaurants, bakeries and cafés (2026-11-04) ——
+  place('porec-fine_dining-1', 'porec', 'fine_dining', 'Harry’s Piccolo Poreč', 'Pical 2, 52440 Poreč', '구시가 북쪽 해변의 컨템퍼러리 레스토랑. 미쉐린 1스타.', 'Contemporary restaurant on the beach north of the old town. One Michelin star.', { michelin: 'star1' }),
+  place('porec-fine_dining-2', 'porec', 'fine_dining', 'JAZ by Ana Roš', 'Obala Maršala Tita 24, 52440 Poreč', '슬로베니아 셰프 아나 로시의 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Mediterranean restaurant by Slovenian chef Ana Roš. In the MICHELIN Guide.'),
+  place('porec-fine_dining-3', 'porec', 'fine_dining', 'Spinnaker', 'Obala Maršala Tita 15, 52440 Poreč', '항구 앞의 해산물 레스토랑. 미쉐린 가이드 선정.', 'Seafood restaurant on the harbour front. In the MICHELIN Guide.'),
+  place('porec-fine_dining-4', 'porec', 'fine_dining', 'Konoba aba', 'Ul. Matka Vlačića 2, 52440 Poreč', '구시가의 콘오바.', 'Konoba in the old town.'),
+  place('porec-bakery-1', 'porec', 'bakery', 'MOREA bakery and brunch', 'Ul. Pietra Kandlera 3, 52440 Poreč', '구시가의 빵집 겸 브런치 카페.', 'Bakery and brunch café in the old town.'),
+  place('porec-bakery-2', 'porec', 'bakery', 'Bread Point', 'Ul. Bože Milanovića 24, 52440 Poreč', '시내의 빵집.', 'Bakery in the town.'),
+  place('porec-cafe-1', 'porec', 'cafe', 'Yesterday Caffe Bar', 'Park Olge Ban 2, 52440 Poreč', '공원 옆 카페.', 'Café by the park.'),
+  place('porec-cafe-2', 'porec', 'cafe', 'Cafe Legend of M', 'Ul. Istarskog razvoda 7, 52440 Poreč', '시내의 카페.', 'Café in the town.'),
+
+  // —— sibenik: restaurants, bakeries and cafés (2026-11-04) ——
+  place('sibenik-fine_dining-1', 'sibenik', 'fine_dining', 'Pelegrini', 'Jurja Dalmatinca 1, 22000 Šibenik', '대성당 앞의 모던 요리 레스토랑. 미쉐린 1스타. 지금은 구글지도에 임시 휴업으로 나오니(겨울 휴업일 수 있음) 가기 전에 확인하세요.', 'Modern restaurant facing the cathedral. One Michelin star. Google Maps currently shows it as temporarily closed (possibly a winter break), so check before you go.', { michelin: 'star1' }),
+  place('sibenik-fine_dining-2', 'sibenik', 'fine_dining', 'Restoran Pjat', 'Trg Pavla Šubića I 3, 22000 Šibenik', '구시가 광장의 식당.', 'Restaurant on an old-town square.'),
+  place('sibenik-fine_dining-3', 'sibenik', 'fine_dining', 'Konoba Marenda', 'Ul. Bonina iz Milana 5, 22000 Šibenik', '구시가의 콘오바.', 'Konoba in the old town.'),
+  place('sibenik-cafe-1', 'sibenik', 'cafe', 'Faust Caffe', 'Obala prvoboraca 30, 22000 Šibenik', '해안길의 카페.', 'Café on the waterfront.'),
+  place('sibenik-cafe-2', 'sibenik', 'cafe', 'Moderato Coffee & Cakes', 'Ul. Stjepana Radića 1, 22000 Šibenik', '커피와 케이크를 내는 카페.', 'Café for coffee and cakes.'),
+
+  // —— korcula: restaurants, bakeries and cafés (2026-11-04) ——
+  place('korcula-fine_dining-1', 'korcula', 'fine_dining', 'LD Restaurant', 'Don Pavla Poše 1-6, 20260 Korčula', '성벽 위 테라스의 모던 요리 레스토랑. 미쉐린 1스타. 지금은 구글지도에 임시 휴업으로 나오니(겨울 휴업일 수 있음) 가기 전에 확인하세요.', 'Modern restaurant on a terrace atop the walls. One Michelin star. Google Maps currently shows it as temporarily closed (possibly a winter break), so check before you go.', { michelin: 'star1' }),
+  place('korcula-fine_dining-2', 'korcula', 'fine_dining', 'Filippi', 'Šetalište Petra Kanavelića, 20260 Korčula', '구시가 성벽 산책로의 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Mediterranean restaurant on the old-town wall promenade. In the MICHELIN Guide.'),
+  place('korcula-fine_dining-3', 'korcula', 'fine_dining', 'Konoba Mate', 'Pupnat 28, 20260 Pupnat', '섬 안쪽 푸프나트 마을의 시골 요리 콘오바. 미쉐린 빕 구르망. 지금은 구글지도에 임시 휴업으로 나오니(겨울 휴업일 수 있음) 가기 전에 확인하세요.', 'Country-cooking konoba in the inland village of Pupnat. Michelin Bib Gourmand. Google Maps currently shows it as temporarily closed (possibly a winter break), so check before you go.', { michelin: 'bib' }),
+  place('korcula-bakery-1', 'korcula', 'bakery', 'Cukarin', 'Ul. Hrvatske Bratske Zajednice, 20260 Korčula', '코르출라 전통 과자 쿠카린을 파는 과자점.', 'Sweet shop selling cukarin, Korčula’s traditional biscuits.'),
+  place('korcula-cafe-1', 'korcula', 'cafe', 'Modro specialty coffee', 'Ul. Hrvatske Bratske Zajednice 82, 20260 Korčula', '스페셜티 커피숍.', 'Speciality coffee shop.'),
+  place('korcula-cafe-2', 'korcula', 'cafe', 'Cafe Gallery', 'Prolaz Tri Sulara 6, 20260 Korčula', '구시가의 카페.', 'Café in the old town.'),
 ]
