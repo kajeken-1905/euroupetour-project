@@ -901,16 +901,28 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     ],
     bus: [['Dworzec Autobusowy Warszawa Zachodnia', '바르샤바 서부 버스터미널']],
   },
+  lodz: {
+    air: [['Łódź Władysław Reymont (LCJ)', '우치 공항 (LCJ)', '노선 적음|few routes'], ['Warszawa Chopin (WAW)', '바르샤바 쇼팽 공항 (WAW)', '바르샤바|Warsaw']],
+    rail: [['Łódź Fabryczna', '우치 파브리치나역']],
+  },
   krakow: {
     air: [['Kraków John Paul II (KRK)', '크라쿠프 공항 (KRK)']],
     rail: [['Kraków Główny', '크라쿠프 중앙역']],
     bus: [['Małopolski Dworzec Autobusowy (MDA)', '크라쿠프 버스터미널 (MDA)']],
+  },
+  czestochowa: {
+    air: [['Katowice (KTW)', '카토비체 공항 (KTW)', '카토비체|Katowice'], KRK('크라쿠프|Kraków')],
+    rail: [['Częstochowa', '쳉스토호바역']],
   },
   gdansk: {
     air: [['Gdańsk Lech Wałęsa (GDN)', '그단스크 공항 (GDN)']],
     rail: [['Gdańsk Główny', '그단스크 중앙역']],
     bus: [['Dworzec Autobusowy Gdańsk', '그단스크 버스터미널']],
     port: [['Terminal Promowy Westerplatte', '베스테르플라테 페리터미널', '스웨덴행 페리|ferry to Sweden']],
+  },
+  malbork: {
+    air: [['Gdańsk Lech Wałęsa (GDN)', '그단스크 공항 (GDN)', '그단스크|Gdańsk']],
+    rail: [['Malbork', '말보르크역', '성까지 걸어서 약 15분|about 15 min on foot to the castle']],
   },
   wroclaw: {
     air: [['Wrocław Copernicus (WRO)', '브로츠와프 공항 (WRO)']],
@@ -926,6 +938,11 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [KRK()],
     rail: [['Zakopane', '자코파네역']],
     bus: [['Dworzec Autobusowy Zakopane', '자코파네 버스터미널']],
+  },
+  lublin: {
+    air: [['Lublin (LUZ)', '루블린 공항 (LUZ)']],
+    rail: [['Lublin Główny', '루블린 중앙역']],
+    bus: [['Dworzec Lublin', '루블린 버스터미널']],
   },
   torun: {
     air: [['Bydgoszcz (BZG)', '비드고슈치 공항 (BZG)', '비드고슈치|Bydgoszcz']],

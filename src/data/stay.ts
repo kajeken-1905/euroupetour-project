@@ -116,6 +116,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('슈바빙', 'Schwabing', 'Schwabing, Munich', '느긋한 주거지|Relaxed and residential', '도심 북쪽으로 영국 정원이 가깝습니다.|North of the centre, next to the English Garden.'),
     a('중앙역 주변', 'Ludwigsvorstadt (Hauptbahnhof)', 'Ludwigsvorstadt, Munich', '교통·절약형|Transport and budget', '중앙역 근처라 이동이 편하고 숙소가 저렴합니다. 옥토버페스트 장소와 가깝습니다.|By the main station, cheaper and handy for trains; next to the Oktoberfest grounds.'),
   ],
+  czestochowa: [
+    a('시내에서 묵기', 'In town', 'Częstochowa', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('크라쿠프에서 다녀오기', 'Base in Kraków', 'Kraków Old Town', '거점에서 다녀오기|Day trip from a base', '기차로 약 1시간 35분입니다.|About 1 hr 35 by train.'),
+  ],
   krakow: [
     a('구시가', 'Old Town (Stare Miasto)', 'Stare Miasto, Kraków', '처음 가는 여행에 추천|Best for a first visit', '관광지를 모두 걸어서 다닙니다. 가장 붐비는 곳입니다.|Everything on foot; the busiest part of the city.'),
     a('카지미에시', 'Kazimierz', 'Kazimierz, Kraków', '분위기와 밤 문화|Atmosphere and nightlife', '옛 유대인 지구로 카페와 바가 많습니다. 밤에 시끄러울 수 있습니다.|The old Jewish quarter, full of cafés and bars; can be noisy at night.'),
@@ -238,6 +242,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('도심 (미드보르그)', 'Downtown (Miðborg)', 'Miðborg, Reykjavík', '처음 가는 여행에 추천|Best for a first visit', '관광지와 식당을 걸어서 다닙니다. 주말 밤에는 시끄럽습니다.|Sights and restaurants on foot; noisy on weekend nights.'),
     a('옛 항구', 'Old Harbour (Grandi)', 'Old Harbour, Reykjavík', '조용한 물가|Quieter, by the water', '고래 관찰·퍼핀 투어가 떠나는 곳입니다. 호텔은 적습니다.|Where whale and puffin tours leave; fewer hotels.'),
     a('홀렘뮈르', 'Hlemmur', 'Hlemmur, Reykjavík', '절약형·교통|Budget and transport', '푸드홀과 버스 터미널이 있는 도심 동쪽 끝입니다.|The east end of downtown, with a food hall and bus hub.'),
+  ],
+  lodz: [
+    a('표트르코프스카 거리 주변', 'Around Piotrkowska Street', 'Piotrkowska, Łódź', '걸어서 다니기|Walkable', '식당과 카페가 모인 중심 거리로, 마누팍투라까지 트램으로 갑니다.|The main street of restaurants and cafés, with trams to Manufaktura.'),
   ],
   warsaw: [
     a('구시가·중심가', 'Old Town / Śródmieście', 'Old Town, Warsaw', '처음 가는 여행에 추천|Best for a first visit', '왕궁과 구시가 광장을 걸어서 다니고 교통이 좋습니다. 시끄럽고 비싼 편입니다.|The Royal Castle and Market Square on foot, with good transport; busy and pricier.'),
@@ -399,6 +406,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('중앙 시가 (그우브네 미아스토)', 'Main Town (Główne Miasto)', 'Główne Miasto, Gdańsk', '처음 가는 여행에 추천|Best for a first visit', '알록달록한 옛 건물 사이로 명소가 문 앞입니다.|The colourful historic core, with the sights on the doorstep.'),
     a('곡물섬', 'Granary Island', 'Wyspa Spichrzów, Gdańsk', '물가의 조용한 중심|Quieter, by the water', '중심가 바로 옆 섬으로 강 전망 아파트가 많고 가족 여행에 좋습니다.|Next to the centre, with river-view apartments; good for families.'),
     a('브제슈치', 'Wrzeszcz', 'Wrzeszcz, Gdańsk', '가성비·교통|Value and transport', '트램과 근교 열차(SKM)가 편한 현지 동네입니다. 구시가 분위기는 없습니다.|A local area well served by trams and SKM trains; less atmospheric than the centre.'),
+  ],
+  malbork: [
+    a('마을에서 묵기', 'In the town', 'Malbork', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
+    a('그단스크에서 다녀오기', 'Base in Gdańsk', 'Gdańsk Główne Miasto', '거점에서 다녀오기|Day trip from a base', '기차로 약 30분입니다.|About 30 min by train.'),
   ],
   wroclaw: [
     a('구시가', 'Old Town (Stare Miasto)', 'Stare Miasto, Wrocław', '처음 가는 여행에 추천|Best for a first visit', '시장 광장(리넥) 주변입니다. 광장에서 몇 골목 떨어지면 조용합니다.|Around the Market Square; a few streets back is quieter.'),
@@ -1459,6 +1470,9 @@ export const STAY: Record<string, StayArea[]> = {
   zakopane: [
     a('크루프프키 거리 주변 (시내)', 'Around Krupówki (centre)', 'Krupówki, Zakopane', '걸어서 다니기|Walkable', '버스 터미널, 식당, 구바우프카 푸니쿨라, 등산로행 버스가 걸어서 닿습니다. 주말 밤에는 시끄럽습니다.|The bus station, restaurants, the Gubałówka funicular and buses to the trailheads on foot; noisy on weekend nights.'),
     a('코시치엘리스코', 'Kościelisko', 'Kościelisko', '조용함·산 풍경|Quiet, mountain views', '시내에서 떨어진 조용하고 경치 좋은 동네입니다. 시내까지 버스나 차로 다닙니다.|A calm, scenic area away from the bustle; reach town by bus or car.'),
+  ],
+  lublin: [
+    a('구시가와 크라쿠프스키에 프셰드미에시치에', 'Old Town & Krakowskie Przedmieście', 'Stare Miasto, Lublin', '걸어서 다니기|Walkable', '구시가와 성, 중심 보행자 거리가 걸어서 닿습니다.|The Old Town, the castle and the main pedestrian street are all within walking distance.'),
   ],
   torun: [
     a('구시가 (스타레 미아스토)', 'Old town (Stare Miasto)', 'Stare Miasto, Toruń', '처음이라면|First visit', '구시청과 시장 광장, 튜턴 기사단 성터를 걸어서 다닙니다.|The Old Town Hall, Market Square and the Teutonic castle ruins on foot.'),

@@ -1513,16 +1513,34 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       tip: '모젤 강변 마을과 라이히스부르크 성을 봅니다. 엘츠 성까지 보려면 모젤케른역에서 숲길을 걸어 하루가 꽉 찹니다.|The Moselle town and the Reichsburg; adding Eltz Castle, a forest walk from Moselkern, fills the day.',
     },
   ],
+  gdansk: [
+    {
+      to: 'malbork',
+      tip: '기차로 약 30분. 세계 최대의 벽돌 성인 튜턴 기사단의 말보르크 성을 봅니다.|About 30 min by train: Malbork, the Teutonic Knights’ castle and the world’s largest brick castle.',
+    },
+  ],
   krakow: [
     {
       to: 'zakopane',
       tip: '타트라산 아래 산악 마을. 구바우프카 언덕 케이블카와 나무 건축을 봅니다.|The mountain town under the Tatras: the Gubałówka funicular and wooden architecture.',
+    },
+    {
+      to: 'czestochowa',
+      tip: '기차로 약 1시간 35분. 야스나 구라 수도원의 검은 성모를 봅니다.|About 1 hr 35 by train: the Black Madonna at Jasna Góra.',
     },
   ],
   warsaw: [
     {
       to: 'krakow',
       tip: '고속열차로 약 2시간 20분. 중앙 광장과 바벨 성을 봅니다.|About 2 hrs 20 min by fast train: the Main Square and Wawel Castle.',
+    },
+    {
+      to: 'lublin',
+      tip: '기차로 약 1시간 50분. 언덕 위 구시가와 성 삼위일체 예배당의 프레스코를 봅니다(월요일 휴관).|About 1 hr 50 by train: the hilltop old town and the frescoes of the Holy Trinity Chapel (closed Mondays).',
+    },
+    {
+      to: 'lodz',
+      tip: '기차로 약 1시간 15분. 표트르코프스카 거리와 옛 방직 공장 마누팍투라를 봅니다.|About 1 hr 15 by train: Piotrkowska Street and the old Manufaktura mills.',
     },
   ],
   zagreb: [

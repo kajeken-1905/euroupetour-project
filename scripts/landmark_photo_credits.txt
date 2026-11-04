@@ -1915,3 +1915,24 @@ highlights/zakopane-8.jpg | https://commons.wikimedia.org/wiki/File:P%C4%99ksowy
 highlights/torun-6.jpg | https://commons.wikimedia.org/wiki/File:Zamek_w_Toruniu,_20210908_1532_2729.jpg | CC BY-SA 4.0 | Jakub Hałun
 highlights/torun-7.jpg | https://commons.wikimedia.org/wiki/File:Leaning_Tower_in_Toru%C5%84.jpg | CC BY-SA 3.0 | Zorro2212
 highlights/torun-8.jpg | https://commons.wikimedia.org/wiki/File:Widok_ko%C5%9Bci%C3%B3%C5%82a_%C5%9Bw._Jan%C3%B3w_w_Toruniu,_ulica_%C5%BBeglarska.Widok_z_platformy_widokowej_-_panoramio.jpg | CC BY-SA 3.0 | Kazimierz Mendlik
+cities/lublin.jpg | https://commons.wikimedia.org/wiki/File:Lublin_old_town_sunset.jpg | Public domain | This file was created and uploaded by User:Szater Ten plik z
+highlights/lublin-1.jpg | https://commons.wikimedia.org/wiki/File:Flea_market_at_Zamkowy_Square_in_Lublin,_Aug_2019,_01.jpg | CC BY-SA 4.0 | Kgbo
+highlights/lublin-2.jpg | https://commons.wikimedia.org/wiki/File:Lublin,_Brama_Krakowska_(4).jpg | CC BY-SA 3.0 pl | Krzysztof Kokowicz
+highlights/lublin-3.jpg | https://commons.wikimedia.org/wiki/File:A_161_Kaplica_Tr%C3%B3jcy_%C5%9Awi%C4%99tej_w_Lublinie_1.jpg | CC BY-SA 4.0 | Januszk57
+highlights/lublin-5.jpg | https://commons.wikimedia.org/wiki/File:Majdanek_State_Museum_(38893).jpg | CC BY-SA 4.0 | Eran
+highlights/lublin-6.jpg | https://commons.wikimedia.org/wiki/File:Kazimierz_Dolny_22.jpg | CC BY-SA 4.0 | Scotch Mist
+cities/malbork.jpg | https://commons.wikimedia.org/wiki/File:Malbork_zamek_wysoki_i_sredni_(dron).jpg | CC BY-SA 4.0 | Kapitel
+highlights/malbork-1.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Malbork_Castle,_part_4.jpg | CC BY-SA 3.0 | DerHexer; derivate work: Carschten
+highlights/malbork-2.jpg | https://commons.wikimedia.org/wiki/File:Nogat_river_and_Malbork_Castle_in_the_afternoon.jpg | CC BY-SA 3.0 | DerHexer
+cities/lodz.jpg | https://commons.wikimedia.org/wiki/File:Stadion_Widzewa_%C5%81%C3%B3d%C5%BA_przy_zachodzie_s%C5%82o%C5%84ca_-_mecz_(cropped).png | CC BY-SA 4.0 | Domajnik87 (FlightLevel.pl)
+highlights/lodz-1.jpg | https://commons.wikimedia.org/wiki/File:%C5%81%C3%B3d%C5%BA_-_Centrum,_Ulica_Piotrkowska_-_panoramio.jpg | CC BY-SA 3.0 | Mietek Ł
+highlights/lodz-2.jpg | https://commons.wikimedia.org/wiki/File:%C5%81%C3%B3d%C5%BA-Manufaktura_inscription.jpg | CC BY-SA 4.0 | Mariochom
+highlights/lodz-3.jpg | https://commons.wikimedia.org/wiki/File:Pa%C5%82ac_Izraela_Pozna%C5%84skiego_%C5%81%C3%B3d%C5%BA_front.JPG | CC BY-SA 4.0 | Jakub Zasina
+highlights/lodz-4.jpg | https://commons.wikimedia.org/wiki/File:Ksi%C4%99%C5%BCy_M%C5%82yn,_%C5%81%C3%B3d%C5%BA.jpg | CC BY-SA 4.0 | Michał Tomczak
+highlights/lodz-5.jpg | https://commons.wikimedia.org/wiki/File:EC1_%C5%81%C3%B3d%C5%BA_in_the_evening_2024_December.jpg | CC BY-SA 4.0 | Zorro2212
+cities/czestochowa.jpg | https://commons.wikimedia.org/wiki/File:St_Stanislaus_and_Our_Lady_of_Cz%C4%99stochowa_Church_in_%C5%9Awiecie_1683207237147-01.jpg | CC BY-SA 4.0 | Chfast Przemysław
+highlights/czestochowa-1.jpg | https://commons.wikimedia.org/wiki/File:Monastery_at_Jasna_G%C3%B3ra_Monastery,_Cz%C4%99stochowa.jpg | CC BY-SA 4.0 | Fotoomnia
+highlights/czestochowa-2.jpg | https://commons.wikimedia.org/wiki/File:Cz%C4%99stochowa_uk%C5%82ad_urbanistyczny_Aleja_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_2.JPG | CC BY-SA 3.0 pl | Wojciech Domagała
+highlights/czestochowa-3.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_zapa%C5%82ek_sala1.jpg | CC BY-SA 3.0 | No machine-readable author provided. Przykuta assumed (based
+highlights/czestochowa-4.jpg | https://commons.wikimedia.org/wiki/File:20180721_Zamek_w_Olsztynie_0803_7727_DxO.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/lublin-4.jpg | https://commons.wikimedia.org/wiki/File:Lublin_Underground_Route_A_321.JPG | CC BY-SA 4.0 | Ciacho5

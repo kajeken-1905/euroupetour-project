@@ -18437,6 +18437,56 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "lodz",
+    countryId: "pl",
+    lat: 51.7592,
+    lng: 19.456,
+    signatureImage: "/cities/lodz.jpg",
+    name: { ko: "우치", en: "Łódź" },
+    nativeName: "Łódź",
+    blurb: {
+      ko: "19세기 섬유 공업으로 커진 도시. 4km 남짓한 표트르코프스카 거리와 붉은 벽돌 공장을 바꾼 복합 문화 공간이 볼거리입니다.",
+      en: "The city that boomed on 19th-century textiles: the 4-km Piotrkowska Street and red-brick factories turned into cultural complexes.",
+    },
+    highlights: [
+      {
+        id: "lodz-h1",
+        name: { ko: "표트르코프스카 거리", en: "Piotrkowska Street" },
+        description: { ko: "유럽에서 손꼽히게 긴 보행자 거리로, 공장주들의 저택과 카페, 거리 조형물이 이어집니다.", en: "One of Europe’s longest pedestrian streets, lined with factory owners’ mansions, cafés and street sculptures." },
+        image: "/highlights/lodz-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piotrkowska%20%C5%81%C3%B3d%C5%BA",
+      },
+      {
+        id: "lodz-h2",
+        name: { ko: "마누팍투라", en: "Manufaktura" },
+        description: { ko: "이즈라엘 포즈난스키의 옛 방직 공장 단지를 바꾼 쇼핑·문화 공간으로, 도시 박물관 미아스토 공장이 있습니다.", en: "Izrael Poznański’s former textile mill complex, now a shopping and culture hub with the city museum." },
+        image: "/highlights/lodz-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Manufaktura%20%C5%81%C3%B3d%C5%BA",
+      },
+      {
+        id: "lodz-h3",
+        name: { ko: "포즈난스키 궁전", en: "Poznański Palace" },
+        description: { ko: "방직 재벌 포즈난스키의 화려한 저택으로, 지금은 우치 시립 박물관입니다.", en: "The lavish mansion of textile magnate Poznański, now the Museum of the City of Łódź." },
+        image: "/highlights/lodz-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac%20Pozna%C5%84skiego%20%C5%81%C3%B3d%C5%BA",
+      },
+      {
+        id: "lodz-h4",
+        name: { ko: "크시엥지 믈린", en: "Księży Młyn" },
+        description: { ko: "공장 노동자 주택과 공장주 저택이 남은 19세기 산업 마을입니다.", en: "A 19th-century industrial village of workers’ housing and the mill owner’s villa." },
+        image: "/highlights/lodz-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ksi%C4%99%C5%BCy%20M%C5%82yn%20%C5%81%C3%B3d%C5%BA",
+      },
+      {
+        id: "lodz-h5",
+        name: { ko: "EC1 우치", en: "EC1 Łódź" },
+        description: { ko: "옛 화력 발전소를 바꾼 과학·기술 센터와 천체 투영관입니다.", en: "A former power station turned science and technology centre with a planetarium." },
+        image: "/highlights/lodz-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=EC1%20%C5%81%C3%B3d%C5%BA",
+      }
+    ],
+  },
+  {
     id: "krakow",
     countryId: "pl",
     lat: 50.0647,
@@ -18548,6 +18598,50 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "czestochowa",
+    countryId: "pl",
+    lat: 50.8118,
+    lng: 19.1203,
+    signatureImage: "/cities/czestochowa.jpg",
+    name: { ko: "쳉스토호바", en: "Częstochowa" },
+    nativeName: "Częstochowa",
+    blurb: {
+      ko: "폴란드 최대의 순례지. 야스나 구라 수도원에 ‘검은 성모’ 이콘이 모셔져 있어 해마다 수백만 명이 찾아옵니다.",
+      en: "Poland’s greatest pilgrimage site, where the Black Madonna icon at Jasna Góra Monastery draws millions every year.",
+    },
+    highlights: [
+      {
+        id: "czestochowa-h1",
+        name: { ko: "야스나 구라 수도원과 검은 성모", en: "Jasna Góra Monastery & the Black Madonna" },
+        description: { ko: "바오로회 수도원의 성당에 폴란드인이 가장 공경하는 이콘 ‘검은 성모’가 모셔져 있습니다.", en: "The Pauline monastery whose chapel holds the Black Madonna, the icon most revered in Poland." },
+        image: "/highlights/czestochowa-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jasna%20G%C3%B3ra",
+      },
+      {
+        id: "czestochowa-h2",
+        name: { ko: "성모 마리아 대로", en: "Holy Mary Avenue" },
+        description: { ko: "역 쪽 시내에서 야스나 구라까지 곧게 이어지는 가로수 길로, 순례자들이 걸어 오르는 길입니다.", en: "The tree-lined avenue running straight from the town centre up to Jasna Góra, walked by pilgrims." },
+        image: "/highlights/czestochowa-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aleja%20Naj%C5%9Bwi%C4%99tszej%20Maryi%20Panny%20Cz%C4%99stochowa",
+      },
+      {
+        id: "czestochowa-h3",
+        name: { ko: "성냥 생산 박물관", en: "Match Production Museum" },
+        description: { ko: "옛 성냥 공장의 기계로 성냥이 만들어지는 과정을 보여 주는 산업 박물관입니다.", en: "An industrial museum showing how matches were made, on the machines of a former match factory." },
+        image: "/highlights/czestochowa-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Muzeum%20Produkcji%20Zapa%C5%82ek%20Cz%C4%99stochowa",
+      },
+      {
+        id: "czestochowa-h4",
+        name: { ko: "올슈틴 성(독수리 둥지 길)", en: "Olsztyn Castle (Eagles’ Nests Trail)" },
+        description: { ko: "석회암 바위 위 폐허가 된 중세 성으로, 크라쿠프와 쳉스토호바 사이 ‘독수리 둥지 길’ 성들 가운데 하나입니다.", en: "A ruined medieval castle on a limestone crag, one of the castles on the Trail of the Eagles’ Nests between Kraków and Częstochowa." },
+        image: "/highlights/czestochowa-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zamek%20w%20Olsztynie",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
+    ],
+  },
+  {
     id: "gdansk",
     countryId: "pl",
     lat: 54.352,
@@ -18631,6 +18725,35 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Westerplatte",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
+    ],
+  },
+  {
+    id: "malbork",
+    countryId: "pl",
+    lat: 54.0396,
+    lng: 19.0278,
+    signatureImage: "/cities/malbork.jpg",
+    name: { ko: "말보르크", en: "Malbork" },
+    nativeName: "Malbork",
+    blurb: {
+      ko: "노가트강 가에 튜턴 기사단이 세운 세계 최대의 벽돌 성이 있는 도시. 성 전체가 유네스코 세계유산입니다.",
+      en: "The town on the Nogat where the Teutonic Knights built the world’s largest brick castle, a UNESCO World Heritage Site.",
+    },
+    highlights: [
+      {
+        id: "malbork-h1",
+        name: { ko: "말보르크 성", en: "Malbork Castle" },
+        description: { ko: "튜턴 기사단의 본거지였던 세계 최대의 벽돌 성으로, 높은 성·중간 성·아랫 성이 이어집니다. 오디오 가이드로 둘러봅니다.", en: "The Teutonic Knights’ headquarters and the world’s largest brick castle, with its High, Middle and Lower Castles; visited with an audio guide." },
+        image: "/highlights/malbork-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Malbork%20Castle",
+      },
+      {
+        id: "malbork-h2",
+        name: { ko: "노가트강 건너편 전망", en: "View across the Nogat" },
+        description: { ko: "강 건너편 둑과 보행자 다리에서 붉은 성 전체가 물에 비치는 모습을 볼 수 있습니다.", en: "From the far bank and the footbridge you see the whole red castle reflected in the river." },
+        image: "/highlights/malbork-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Malbork%20castle%20view%20Nogat",
+      }
     ],
   },
   {
@@ -18923,6 +19046,64 @@ export const cities: City[] = [
         image: "/highlights/torun-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gingerbread%20Museum%20Toru%C5%84",
       },
+    ],
+  },
+  {
+    id: "lublin",
+    countryId: "pl",
+    lat: 51.2479,
+    lng: 22.5683,
+    signatureImage: "/cities/lublin.jpg",
+    name: { ko: "루블린", en: "Lublin" },
+    nativeName: "Lublin",
+    blurb: {
+      ko: "폴란드 동부 최대 도시. 언덕 위 구시가와 비잔틴 프레스코가 가득한 성 삼위일체 예배당, 유대인 공동체의 기억과 마이다네크 수용소가 함께 남아 있습니다.",
+      en: "The largest city in eastern Poland: a hilltop old town, the Holy Trinity Chapel covered in Byzantine frescoes, and the memory of its Jewish community and the Majdanek camp.",
+    },
+    highlights: [
+      {
+        id: "lublin-h1",
+        name: { ko: "구시가와 시장 광장", en: "Old Town & Market Square" },
+        description: { ko: "파스텔색 시민 가옥이 둘러싼 언덕 위 구시가로, 광장 가운데에 옛 왕실 재판소가 서 있습니다.", en: "The hilltop old town of pastel burghers’ houses, with the old Crown Tribunal at the centre of its square." },
+        image: "/highlights/lublin-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rynek%20Lublin",
+      },
+      {
+        id: "lublin-h2",
+        name: { ko: "크라쿠프 문", en: "Kraków Gate" },
+        description: { ko: "구시가로 들어가는 14세기 고딕 성문으로, 바로크 첨탑을 얹었습니다.", en: "The 14th-century Gothic gate into the Old Town, topped with a Baroque spire." },
+        image: "/highlights/lublin-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Brama%20Krakowska%20Lublin",
+      },
+      {
+        id: "lublin-h3",
+        name: { ko: "루블린 성과 성 삼위일체 예배당", en: "Lublin Castle & Holy Trinity Chapel" },
+        description: { ko: "언덕 위 성 안의 고딕 예배당으로, 벽과 천장이 15세기 러시아·비잔틴풍 프레스코로 덮여 있습니다.", en: "The Gothic chapel in the hilltop castle, its walls and vaults covered in 15th-century Ruthenian-Byzantine frescoes." },
+        image: "/highlights/lublin-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kaplica%20Tr%C3%B3jcy%20%C5%9Awi%C4%99tej%20Lublin",
+      },
+      {
+        id: "lublin-h4",
+        name: { ko: "루블린 지하 길", en: "Lublin Underground Route" },
+        description: { ko: "구시가 지하 저장고와 통로를 이어 도시의 역사를 보여 주는 지하 투어입니다.", en: "A tour through the cellars and passages beneath the Old Town, telling the city’s story." },
+        image: "/highlights/lublin-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lubelska%20Trasa%20Podziemna",
+      },
+      {
+        id: "lublin-h5",
+        name: { ko: "마이다네크 국립 박물관", en: "Majdanek State Museum" },
+        description: { ko: "나치 독일이 세운 강제·절멸 수용소 자리로, 막사와 가스실이 남아 있는 추모 박물관입니다.", en: "The site of the Nazi German concentration and extermination camp, a memorial museum where barracks and gas chambers survive." },
+        image: "/highlights/lublin-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pa%C5%84stwowe%20Muzeum%20na%20Majdanku",
+      },
+      {
+        id: "lublin-h6",
+        name: { ko: "카지미에시 돌니", en: "Kazimierz Dolny" },
+        description: { ko: "비스와강변의 르네상스 마을로, 곡물 창고와 언덕 위 성터가 있는 예술가들의 마을입니다.", en: "A Renaissance town on the Vistula, an artists’ village with granaries and a hilltop castle ruin." },
+        image: "/highlights/lublin-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kazimierz%20Dolny",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
     ],
   },
   {

@@ -948,5 +948,30 @@
     51.1138648,
     17.0335707,
     "OSM Nominatim \"Plac Uniwersytecki 1, Wrocław\""
+  ],
+  "lublin-h1": [
+    51.2478121,
+    22.5675213,
+    "OSM Nominatim \"Rynek, Lublin\""
+  ],
+  "lodz-h3": [
+    51.7793042,
+    19.4511762,
+    "OSM Nominatim \"Pałac Poznańskiego, Łódź\""
+  ],
+  "czestochowa-h3": [
+    50.8031043,
+    19.1221222,
+    "OSM Nominatim \"Muzeum Produkcji Zapałek, Częstochowa\""
+  ],
+  "czestochowa-h4": [
+    50.7491113,
+    19.2737641,
+    "OSM Nominatim \"Zamek w Olsztynie, Olsztyn\""
+  ],
+  "malbork-h2": [
+    54.0401604,
+    19.026384,
+    "OSM Nominatim \"Baszta Mostowa, Bulwar nad Nogatem\" (footbridge end)"
   ]
 }

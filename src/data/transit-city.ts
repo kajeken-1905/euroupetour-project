@@ -1902,6 +1902,18 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  lodz: {
+    modes: ['tram', 'walk', 'bus'],
+    howTo: {
+      ko: '표트르코프스카 거리는 걸어서 다니고, 마누팍투라와 EC1은 트램으로 이어집니다.',
+      en: 'Walk Piotrkowska; trams link Manufaktura and EC1.',
+    },
+    apps: [
+      ta('pkp'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
+      ta('uber'),
+    ],
+  },
   krakow: {
     modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
@@ -1914,6 +1926,18 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('jakdojade', { ko: '시내 교통 표·길찾기', en: 'City transport tickets and routes' }),
+      ta('pkp'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
+      ta('uber'),
+    ],
+  },
+  czestochowa: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '역에서 야스나 구라까지 성모 마리아 대로를 따라 걸어서 약 25분입니다.',
+      en: 'About 25 min on foot along Holy Mary Avenue from the station to Jasna Góra.',
+    },
+    apps: [
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
@@ -1934,6 +1958,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('pkp'),
       ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
       ta('uber'),
+    ],
+  },
+  malbork: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '역에서 성까지 걸어서 약 15분입니다.',
+      en: 'About 15 min on foot from the station to the castle.',
+    },
+    apps: [
+      ta('pkp'),
     ],
   },
   wroclaw: {
@@ -1983,6 +2017,18 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: 'Torun: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
       en: 'Reach Torun by rail and local buses; walk or take short taxis for sights.',
+    },
+    apps: [
+      ta('pkp'),
+      ta('bolt', { ko: '우버보다 빠른 편', en: 'Often faster than Uber' }),
+      ta('uber'),
+    ],
+  },
+  lublin: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가와 성은 걸어서 다닙니다. 마이다네크는 시내버스로 갑니다.',
+      en: 'Walk the old town and castle; take a city bus to Majdanek.',
     },
     apps: [
       ta('pkp'),

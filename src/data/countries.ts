@@ -972,7 +972,7 @@ export const countries: Country[] = [
       background: '#FCE8EC',
       text: '#3A0A10',
     },
-    cityIds: ['warsaw', 'krakow', 'gdansk', 'wroclaw', 'poznan', 'zakopane', 'torun'],
+    cityIds: ['warsaw', 'lodz', 'krakow', 'czestochowa', 'gdansk', 'malbork', 'wroclaw', 'poznan', 'zakopane', 'torun', 'lublin'],
   },
   {
     id: 'mt',

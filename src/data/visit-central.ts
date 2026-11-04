@@ -313,6 +313,11 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'warsaw-h10': v(30, 45),
   'warsaw-h11': v(120, 180, { b: 'rec', s: 'https://www.kopernik.org.pl/en', n: '주말과 방학엔 붐비니 시간 지정 표를 미리 사세요.|Busy at weekends and in school holidays—buy timed tickets ahead.' }),
   'warsaw-h12': v(60, 90, { s: 'https://www.neonmuzeum.org/', n: '2025년 8월부터 문화과학궁전 4층에서 엽니다. 옛 소호 팩토리 주소는 더 이상 맞지 않습니다.|Open on the 4th floor of the Palace of Culture and Science since August 2025; the old Soho Factory address no longer applies.', k: '2026-11' }),
+  'lodz-h1': v(60, 90),
+  'lodz-h2': v(90, 120),
+  'lodz-h3': v(60, 90),
+  'lodz-h4': v(45, 60),
+  'lodz-h5': v(120, 180),
   // Kraków
   'krakow-h1': v(45, 60),
   'krakow-h2': v(180, 240, { c: 'daily', b: 'req', s: 'https://wawel.krakow.pl/en', t: 'https://bilety.wawel.krakow.pl/', n: '전시마다 표가 따로이고 시간 지정이며 하루 입장 인원이 제한됩니다. 성 안뜰과 대성당 본당은 무료입니다.|Each exhibition has its own timed ticket with a daily cap. The courtyard and the cathedral nave are free.', k: '2026-10' }),
@@ -326,6 +331,10 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'krakow-h10': v(15, 30),
   'krakow-h11': v(60, 90, { b: 'rec', n: '시간 지정 표라 미리 사는 편이 좋습니다.|Timed tickets—best bought ahead.' }),
   'krakow-h12': v(30, 45),
+  'czestochowa-h1': v(120, 180, { n: '무료입니다. 이콘은 정해진 시각에만 가림막을 열고, 미사 때는 관람을 삼가야 합니다.|Free; the icon is unveiled only at set times, and visitors should keep back during services.' }),
+  'czestochowa-h2': v(30, 45),
+  'czestochowa-h3': v(60, 90),
+  'czestochowa-h4': v(90, 120, { n: '쳉스토호바에서 버스로 약 30분입니다.|About 30 min by bus from Częstochowa.' }),
   // Gdańsk
   'gdansk-h1': v(30, 45),
   'gdansk-h2': v(10, 10),
@@ -337,6 +346,8 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'gdansk-h8': v(90, 120, { n: '시내에서 버스로 약 30분이며 여름엔 배도 다닙니다.|About 30 min by bus from the centre; boats run in summer.' }),
   'gdansk-h9': v(15, 20),
   'gdansk-h10': v(30, 45),
+  'malbork-h1': v(180, 240, { b: 'rec', s: 'https://zamek.malbork.pl/en', n: '유료이며 오디오 가이드가 포함됩니다. 성수기엔 온라인으로 미리 사세요.|Ticketed, audio guide included; buy online ahead in high season.' }),
+  'malbork-h2': v(20, 30, { n: '무료이며 해 질 녘이 가장 좋습니다.|Free; best at sunset.' }),
   // Wrocław
   'wroclaw-h1': v(45, 60),
   'wroclaw-h2': v(45, 60),
@@ -374,4 +385,10 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'torun-h6': v(30, 45),
   'torun-h7': v(10, 15),
   'torun-h8': v(30, 45),
+  'lublin-h1': v(45, 60),
+  'lublin-h2': v(10, 15),
+  'lublin-h3': v(60, 90, { c: 'mon', s: 'https://muzeumlubelskie.pl/', n: '예배당은 인원 제한이 있어 정해진 시각에 들어갑니다. 월요일에 쉽니다.|The chapel admits small groups at set times; closed on Mondays.' }),
+  'lublin-h4': v(45, 60, { n: '정해진 시각에 안내 투어로 들어갑니다.|Entry is by guided tour at set times.' }),
+  'lublin-h5': v(120, 180, { c: 'mon', n: '무료이며 월요일에 쉽니다. 시내에서 버스로 약 15분입니다.|Free; closed on Mondays. About 15 min by bus from the centre.' }),
+  'lublin-h6': v(240, 300, { n: '루블린에서 버스로 약 1시간입니다.|About 1 hr by bus from Lublin.' }),
 }

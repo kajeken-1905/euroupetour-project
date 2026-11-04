@@ -89,6 +89,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['와지엔키와 빌라누프|Łazienki & Wilanów', 3, 6],
     ],
   },
+  lodz: [2, 3, 1, 5, 4],
   krakow: {
     days: [
       ['구시가와 바벨|Old Town & Wawel', 10, 1, 3, 11, 5, 9, 2],
@@ -99,6 +100,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['비엘리치카 소금광산|Wieliczka', 7],
     ],
   },
+  czestochowa: { days: [['', 2, 1, 3]], trips: [['올슈틴 성|Olsztyn Castle', 4]] },
   gdansk: {
     days: [['', 1, 10, 2, 9, 6, 3, 7, 4]],
     trips: [
@@ -106,6 +108,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['올리바와 해변|Oliwa & the beach', 5],
     ],
   },
+  malbork: [1, 2],
   wroclaw: [1, 4, 7, 5, 6, 2, 3, 8, 9],
   poznan: [3, 8, 1, 6, 4, 2, 7, 5],
   zakopane: {
@@ -116,6 +119,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
   },
   torun: [4, 7, 6, 1, 3, 2, 8, 5],
+  lublin: { days: [['', 2, 1, 4, 3, 5]], trips: [['카지미에시 돌니|Kazimierz Dolny', 6]] },
   reykjavik: { days: [['', 1, 3, 2, 4]], trips: [['블루라군|Blue Lagoon', 5]] },
   akureyri: { days: [['', 3, 1, 2]], trips: [['고다포스와 미바튼|Goðafoss & Mývatn', 5, 4]] },
   vik: [5, 2, 1, 4, 3],
