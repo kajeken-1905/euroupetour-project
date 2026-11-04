@@ -88,6 +88,7 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'rotterdam-h6': [51.9084, 4.46718],
   'rotterdam-h8': [51.9081, 4.44837],
   'rotterdam-h7': [51.8887, 4.6357],
+  'the-hague-h9': [52.0744466, 4.3156787],
   'the-hague-h5': [52.07933, 4.31237],
   'the-hague-h3': [52.08039, 4.31431],
   'the-hague-h7': [52.08342, 4.31426],

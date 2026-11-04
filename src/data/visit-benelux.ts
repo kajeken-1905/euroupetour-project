@@ -237,6 +237,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'the-hague-h6': v(90, 120, { c: 'daily', s: 'https://www.madurodam.nl/en', k: '2026-10' }),
   'the-hague-h7': v(60, 75, { c: 'mon', s: 'https://escherinhetpaleis.nl/en?lang=en', k: '2026-10' }),
   'the-hague-h8': v(90, 120, { c: 'mon', s: 'https://www.louwmanmuseum.nl/', n: '유료이며 월요일에 쉽니다.|Ticketed; closed on Mondays.' }),
+  'the-hague-h9': v(30, 45, { c: 'sun', s: 'https://denhaag.com/en/yi-jun-peace-museum', n: '헤이그 관광청 기준 월~금 10:30~17:30, 토 11:00~16:00에 열고 일요일에 쉽니다. 안내 사이트마다 시간이 달라 가기 전에 확인하세요.|Per The Hague’s tourism board: Monday to Friday 10:30–17:30, Saturday 11:00–16:00, closed Sundays; listings differ, so check before going.', k: '2026-11' }),
   // Utrecht
   'utrecht-h1': v(60, 60, { b: 'req', s: 'https://www.domtoren.nl/en', n: '가이드 투어로만 오르며 계단이 465개입니다.|Climbed on guided tours only—465 steps.', k: '2026-10' }),
   'utrecht-h2': v(45, 60),

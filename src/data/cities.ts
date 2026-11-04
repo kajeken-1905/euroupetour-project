@@ -943,6 +943,13 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "the-hague-h9",
+        name: { ko: "이준 열사 기념관(헤이그 특사)", en: "Yi Jun Peace Museum (Hague envoys)" },
+        description: { ko: "1907년 고종의 밀명을 받은 헤이그 특사 이준·이상설·이위종이 머물던 옛 호텔 ‘드 용’ 건물로, 이준 열사가 순국한 곳입니다. 특사들이 참석을 거부당한 만국평화회의는 비넨호프의 기사의 전당에서 열렸습니다.", en: "The former Hotel De Jong where the 1907 Korean envoys Yi Jun, Yi Sang-seol and Yi Wi-jong stayed on Emperor Gojong’s secret mission, and where Yi Jun died; the Peace Conference that refused them met in the Ridderzaal of the Binnenhof." },
+        image: "/highlights/the-hague-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Yi%20Jun%20Peace%20Museum%20Wagenstraat%20124%20Den%20Haag",
+      },
+      {
         id: "the-hague-h5",
         name: { ko: "비넨호프", en: "Binnenhof" },
         description: { ko: "네덜란드 정치의 중심인 역사적 의회 단지입니다.", en: "The historic seat of Dutch politics." },

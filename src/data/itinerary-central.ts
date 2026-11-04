@@ -13,7 +13,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   rotterdam: { days: [['', 3, 1, 4, 2, 9, 5, 6, 8]], trips: [['킨더다이크 풍차|Kinderdijk windmills', 7]] },
   'the-hague': {
     days: [
-      ['시내|City centre', 5, 3, 7, 1, 2],
+      ['시내|City centre', 9, 5, 3, 7, 1, 2],
       ['마뒤로담과 스헤베닝언|Madurodam & Scheveningen', 6, 8, 4],
     ],
   },

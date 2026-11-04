@@ -1936,3 +1936,4 @@ highlights/czestochowa-2.jpg | https://commons.wikimedia.org/wiki/File:Cz%C4%99s
 highlights/czestochowa-3.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_zapa%C5%82ek_sala1.jpg | CC BY-SA 3.0 | No machine-readable author provided. Przykuta assumed (based
 highlights/czestochowa-4.jpg | https://commons.wikimedia.org/wiki/File:20180721_Zamek_w_Olsztynie_0803_7727_DxO.jpg | CC BY-SA 4.0 | Jakub Hałun
 highlights/lublin-4.jpg | https://commons.wikimedia.org/wiki/File:Lublin_Underground_Route_A_321.JPG | CC BY-SA 4.0 | Ciacho5
+highlights/the-hague-9.jpg | https://commons.wikimedia.org/wiki/File:Yi_Jun_Peace_Museum,_The_Hague_(2016)_05.png | CC BY-SA 4.0 | OSeveno
