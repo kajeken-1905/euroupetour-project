@@ -109,4 +109,42 @@ export const placesPLExtra: Place[] = [
   place('torun-cafe-1', 'torun', 'cafe', 'Grand Coffee', 'Rynek Staromiejski 12, 87-100 Toruń, Poland', '토룬에서 가장 오래된 카페의 구시가 광장 지점. 차이와 커피가 인기입니다.', 'Old Town Square branch of Toruń\'s oldest café; chai and coffee are popular.'),
   place('torun-cafe-2', 'torun', 'cafe', 'Projekt Nano', 'Podmurna 14, 87-100 Toruń', '구시가 성벽 안 골목의 카페. 드립 커피와 치즈케이크가 호평을 받습니다.', 'Café on a lane inside the old walls, praised for drip coffee and cheesecake.'),
   place('torun-cafe-3', 'torun', 'cafe', 'Torunianka Cafe', 'Franciszkańska 16/1, 87-100 Toruń', '피아노 라이브가 있는 구시가 카페. 사과 파이와 아이스크림이 유명합니다.', 'Old Town café with live piano, famous for apple pie with ice cream.'),
+
+  // —— lublin: restaurants, bakeries and cafés (2026-11-04) ——
+  place('lublin-fine_dining-1', 'lublin', 'fine_dining', '2PiEr', 'Artura Grottgera 2, 20-029 Lublin', '5층에 자리한 폴란드 전통 요리 레스토랑. 미쉐린 가이드 선정.', 'Traditional Polish restaurant on the 5th floor. In the MICHELIN Guide.'),
+  place('lublin-fine_dining-2', 'lublin', 'fine_dining', 'Kuchnia Otwarta', 'Nałęczowska 18, 20-701 Lublin', '모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking. In the MICHELIN Guide.'),
+  place('lublin-fine_dining-3', 'lublin', 'fine_dining', 'Perłowa Pijalnia Piwa', 'Bernardyńska 15A, 20-950 Lublin', '옛 펄 양조장의 맥주홀 겸 폴란드 요리 식당. 미쉐린 가이드 선정.', 'Beer hall and Polish restaurant at the old Perła brewery. In the MICHELIN Guide.'),
+  place('lublin-fine_dining-4', 'lublin', 'fine_dining', 'Raj Utracony', 'Stanisława Leszczyńskiego 25, 20-068 Lublin', '중동 요리 레스토랑. 미쉐린 가이드 선정.', 'Middle Eastern restaurant. In the MICHELIN Guide.'),
+  place('lublin-bakery-1', 'lublin', 'bakery', 'Piekarnia Kuźmiuk', 'Furmańska 4, 20-122 Lublin', '구시가 아래쪽의 빵집.', 'Bakery just below the Old Town.'),
+  place('lublin-bakery-2', 'lublin', 'bakery', 'Bułka i Kromka', 'Rynek 5, 20-111 Lublin', '구시가 시장 광장의 빵집.', 'Bakery on the Old Town market square.'),
+  place('lublin-cafe-1', 'lublin', 'cafe', 'The White Bear Coffee', 'Krakowskie Przedmieście 34, 20-002 Lublin', '중심 보행자 거리의 커피숍.', 'Coffee shop on the main pedestrian street.'),
+  place('lublin-cafe-2', 'lublin', 'cafe', 'Święty Spokój Music Cafe', 'Bramowa 6, 20-111 Lublin', '구시가 골목의 음악 카페.', 'Music café in an old-town lane.'),
+
+  // —— lodz: restaurants, bakeries and cafés (2026-11-04) ——
+  place('lodz-fine_dining-1', 'lodz', 'fine_dining', 'Acanti', 'Romualda Traugutta 12, 90-107 Łódź', '호텔 트라우구타의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking at the Hotel Traugutta 12. In the MICHELIN Guide.'),
+  place('lodz-fine_dining-2', 'lodz', 'fine_dining', 'Malinowa', 'Piotrkowska 72, 90-105 Łódź', '그랜드 호텔의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking at the Grand Hotel. In the MICHELIN Guide.'),
+  place('lodz-fine_dining-3', 'lodz', 'fine_dining', 'Ogień i Sól', 'Piotrkowska 295A, 93-004 Łódź', '그릴·고기 요리 레스토랑. 미쉐린 가이드 선정.', 'Grill and meat restaurant. In the MICHELIN Guide.'),
+  place('lodz-bakery-1', 'lodz', 'bakery', 'Słodko czy Wytrawnie', 'Piotrkowska 101, 90-425 Łódź', '표트르코프스카 거리의 빵·디저트 카페.', 'Bakery and dessert café on Piotrkowska.'),
+  place('lodz-bakery-2', 'lodz', 'bakery', 'Montag Bakery', 'Piotrkowska 111, 90-425 Łódź', '표트르코프스카 거리의 빵집.', 'Bakery on Piotrkowska.'),
+  place('lodz-cafe-1', 'lodz', 'cafe', 'The Brick Coffee Factory', 'Piotrkowska 136, 90-063 Łódź', '표트르코프스카 거리의 커피숍.', 'Coffee shop on Piotrkowska.'),
+  place('lodz-cafe-2', 'lodz', 'cafe', 'Cafe Verte', 'Piotrkowska 113, 90-430 Łódź', '표트르코프스카 거리의 카페.', 'Café on Piotrkowska.'),
+
+  // —— czestochowa: restaurants, bakeries and cafés (2026-11-04) ——
+  place('czestochowa-fine_dining-1', 'czestochowa', 'fine_dining', 'Dobry Rok', 'Aleja Najświętszej Maryi Panny 79, 42-200 Częstochowa', '성모 마리아 대로의 식당 겸 카페.', 'Restaurant and café on Holy Mary Avenue.'),
+  place('czestochowa-fine_dining-2', 'czestochowa', 'fine_dining', 'Pireus', 'Wieluńska 12, 42-200 Częstochowa', '그리스 요리 식당.', 'Greek restaurant.'),
+  place('czestochowa-bakery-1', 'czestochowa', 'bakery', 'Piekarnia Jędryka', 'Świętego Rocha 56, 42-200 Częstochowa', '1948년부터 이어온 빵집.', 'Bakery going since 1948.'),
+  place('czestochowa-bakery-2', 'czestochowa', 'bakery', 'Sacre Bread', 'Mikołaja Kopernika 21, 42-217 Częstochowa', '시내의 빵집.', 'Bakery in the town.'),
+  place('czestochowa-cafe-1', 'czestochowa', 'cafe', 'Sweet Home Cafe', '7 Kamienic 11, 42-200 Częstochowa', '시내의 카페.', 'Café in the town.'),
+  place('czestochowa-cafe-2', 'czestochowa', 'cafe', 'Strzykawa', 'Śląska 12, 42-202 Częstochowa', '커피 로스터리 카페.', 'Coffee roaster’s café.'),
+
+  // —— malbork: restaurants, bakeries and cafés (2026-11-04) ——
+  place('malbork-fine_dining-1', 'malbork', 'fine_dining', 'Momo Restauracja', 'Piastowska 3, 82-200 Malbork', '성 근처의 레스토랑.', 'Restaurant near the castle.'),
+  place('malbork-fine_dining-2', 'malbork', 'fine_dining', 'Kamienica', 'Tadeusza Kościuszki 25, 82-200 Malbork', '코시치우슈코 거리의 식당.', 'Restaurant on Kościuszki street.'),
+  place('malbork-bakery-1', 'malbork', 'bakery', 'Cukiernia Niucka', 'Tadeusza Kościuszki 5, 82-200 Malbork', '시내의 제과점 겸 카페.', 'Pastry shop and café in town.'),
+  place('malbork-cafe-1', 'malbork', 'cafe', 'Retro', 'Tadeusza Kościuszki 25, 82-200 Malbork', '코시치우슈코 거리의 카페.', 'Café on Kościuszki street.'),
+
+  // —— warsaw: restaurants, bakeries and cafés (2026-11-04) ——
+  place('warsaw-bakery-3', 'warsaw', 'bakery', 'La Bomboniera', 'Al. Solidarności 82, 00-145 Warszawa', '솔리다르노시치 대로의 제과점.', 'Pastry shop on Solidarności Avenue.'),
+  place('warsaw-bakery-4', 'warsaw', 'bakery', 'Canela Bakery', 'Chmielna 27, 00-020 Warszawa', '흐미엘나 거리의 빵집.', 'Bakery on Chmielna street.'),
+  place('warsaw-bakery-5', 'warsaw', 'bakery', 'eter — vegan bakery', 'Hoża 5/7, 00-528 Warszawa', '비건 빵집 겸 스페셜티 커피 카페.', 'Vegan bakery and speciality coffee café.'),
 ]

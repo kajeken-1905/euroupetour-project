@@ -3708,6 +3708,30 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"czestochowa-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"czestochowa-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"czestochowa-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"czestochowa-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"czestochowa-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"czestochowa-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "debrecen-bakery-1": {
 "del": "not found"
 },
@@ -7760,6 +7784,34 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"lodz-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lodz-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lodz-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lodz-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lodz-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lodz-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lodz-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
 "lon-bk-1": {
 "addr": "197 Richmond Rd, London E8 3NJ",
 "ok": 1
@@ -7836,6 +7888,38 @@
 "en": "Tiny Korean café near Tottenham Court Road, known for bibimbap and gimbap.",
 "ko": "토트넘 코트 로드 근처의 작은 한식 분식집. 비빔밥·김밥이 인기입니다.",
 "ok": 1
+},
+"lublin-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-bakery-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-cafe-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"lublin-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "lucca-bakery-1": {
 "ok": 1
@@ -8351,6 +8435,22 @@
 },
 "malaga-korean-3": {
 "del": 1
+},
+"malbork-bakery-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"malbork-cafe-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"malbork-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"malbork-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "malbun-bakery-1": {
 "del": "Vögeli Alpenhotel is a hotel, not a bakery; its restaurant is already listed as malbun-fine_dining-1"
@@ -15503,6 +15603,18 @@
 "en": "Warsaw's landmark pastry shop since 1869, famous for rose-jam pączki.",
 "ko": "1869년부터 이어온 바르샤바의 대표 제과점. 장미잼 퐁치키가 유명합니다.",
 "ok": 1
+},
+"warsaw-bakery-3": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"warsaw-bakery-4": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
+},
+"warsaw-bakery-5": {
+"ok": 1,
+"src": "2026-11-04 google maps / michelin 2026"
 },
 "warsaw-cafe-1": {
 "en": "Book-lined café in Powiśle popular with students and good for laptop work.",
