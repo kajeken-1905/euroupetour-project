@@ -33,11 +33,14 @@ export const itineraryUk: Record<string, RawItinerary> = {
   oxford: { days: [['', 4, 8, 2, 7, 3, 5, 1, 9, 6]], trips: [['블레넘 궁전|Blenheim Palace', 10]] },
   cambridge: [6, 5, 1, 7, 8, 4, 2, 3],
   liverpool: [3, 6, 5, 8, 7, 1, 2, 9],
+  chester: [1, 3, 2, 4, 5, 6],
   brighton: { days: [['', 1, 6, 3, 2, 4, 5]], trips: [['세븐 시스터스|Seven Sisters', 7]] },
   whitby: [3, 2, 1, 4, 5],
   york: [6, 5, 1, 3, 2, 8, 7, 4],
+  durham: { days: [['', 4, 1, 2, 3]], trips: [['비미시 박물관|Beamish Museum', 5]] },
   bristol: [3, 4, 2, 7, 6, 5, 1],
   canterbury: [3, 2, 1, 4],
+  dover: [1, 2, 3],
   windsor: [4, 1, 2, 3],
   salisbury: {
     days: [['', 2]],
@@ -64,6 +67,13 @@ export const itineraryUk: Record<string, RawItinerary> = {
       ['네스호와 어쿼트 성|Loch Ness & Urquhart Castle', 1, 2],
       ['컬로든|Culloden', 3],
       ['스페이사이드 위스키|Speyside whisky', 6],
+    ],
+  },
+  'fort-william': {
+    days: [['', 4, 3, 2]],
+    trips: [
+      ['글렌피넌과 자코바이트|Glenfinnan & the Jacobite', 1],
+      ['글렌코|Glencoe', 5],
     ],
   },
   'isle-of-skye': {

@@ -1984,3 +1984,26 @@ highlights/inverness-6.jpg | https://commons.wikimedia.org/wiki/File:Glenfiddich
 highlights/isle-of-skye-6.jpg | https://commons.wikimedia.org/wiki/File:Talisker_distillery.jpg | CC BY-SA 4.0 | DeFacto
 highlights/belfast-5.jpg | https://commons.wikimedia.org/wiki/File:Northern_Ireland_-_County_Gaol_Crumlin_Road_Belfast_Co_Antrim_-_20230524124541.jpg | CC BY-SA 4.0 | Z thomas
 highlights/belfast-6.jpg | https://commons.wikimedia.org/wiki/File:Ulster_Museum_(45385322085).jpg | CC BY-SA 2.0 | Tom Parnell from Scottish Borders, Scotland
+cities/chester.jpg | https://commons.wikimedia.org/wiki/File:00_3453_Eastgate_Clock_-_Chester,_England.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/chester-1.jpg | https://commons.wikimedia.org/wiki/File:1_and_2_City_Walls,_Chester.jpg | CC BY-SA 2.0 | Chris McAuley
+highlights/chester-2.jpg | https://commons.wikimedia.org/wiki/File:The_Chester_Rows_Northgate_Street.jpg | CC BY-SA 4.0 | Perigrinator
+highlights/chester-3.jpg | https://commons.wikimedia.org/wiki/File:1376249_The_Eastgate_and_Clock_Chester_20240528_0216.jpg | CC BY-SA 4.0 | Tilman2007
+highlights/chester-4.jpg | https://commons.wikimedia.org/wiki/File:Chester_Cathedral_ext_Hamilton_005.JPG | CC BY-SA 3.0 | Stephen Hamilton
+highlights/chester-5.jpg | https://commons.wikimedia.org/wiki/File:Chester_Roman_Amphitheatre_(geograph_6376074).jpg | CC BY-SA 2.0 | Jeff Buck
+highlights/chester-6.jpg | https://commons.wikimedia.org/wiki/File:At_Chester_Zoo_2023_022.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+cities/durham.jpg | https://commons.wikimedia.org/wiki/File:Skyline_Panorama_of_Durham,_North_Carolina.jpg | CC BY-SA 4.0 | DiscoA340
+highlights/durham-1.jpg | https://commons.wikimedia.org/wiki/File:Durham_Cathedral,_2006_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/durham-2.jpg | https://commons.wikimedia.org/wiki/File:Durham_Castle_014.jpg | CC BY-SA 4.0 | Carla Brain
+highlights/durham-3.jpg | https://commons.wikimedia.org/wiki/File:Durham,_Prebends%27_Bridge_-_geograph.org.uk_-_4473232.jpg | CC BY-SA 2.0 | John Sutton
+highlights/durham-4.jpg | https://commons.wikimedia.org/wiki/File:Durham_Elvet_Bridge01rect_2010-09-10.jpg | CC BY-SA 3.0 | KlausFoehl
+highlights/durham-5.jpg | https://commons.wikimedia.org/wiki/File:Beamish_Museum_2016_012.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+cities/dover.jpg | https://commons.wikimedia.org/wiki/File:Dover_-_1990_-_geograph.org.uk_-_4208757.jpg | CC BY-SA 2.0 | Helmut Zozmann
+highlights/dover-1.jpg | https://commons.wikimedia.org/wiki/File:Dover_Castle_from_the_north.jpg | CC BY-SA 4.0 | DeFacto
+highlights/dover-2.jpg | https://commons.wikimedia.org/wiki/File:White_Cliffs_of_Dover_02.JPG | CC BY-SA 3.0 | Immanuel Giel
+highlights/dover-3.jpg | https://commons.wikimedia.org/wiki/File:Dover_Museum,_Dover.jpg | CC BY-SA 4.0 | Nessy-Pic
+cities/fort-william.jpg | https://commons.wikimedia.org/wiki/File:Fort_William_piers_-_geograph.org.uk_-_3102643.jpg | CC BY-SA 2.0 | Martin Horsfall
+highlights/fort-william-1.jpg | https://commons.wikimedia.org/wiki/File:Jacobite_on_Glenfinnan_Viaduct_1_20211024.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/fort-william-2.jpg | https://commons.wikimedia.org/wiki/File:Albert_I_Land_Albertbreen_Ben_Nevis_H%C3%B6geloftet_IMG_5523_and%C3%B6yholmane.JPG | CC BY-SA 3.0 | Bjoertvedt
+highlights/fort-william-3.jpg | https://commons.wikimedia.org/wiki/File:Nevis_Range_gondola_-_top_station_-_geograph.org.uk_-_2016609.jpg | CC BY-SA 2.0 | Peter S
+highlights/fort-william-4.jpg | https://commons.wikimedia.org/wiki/File:Caledonian_Canal_at_Neptune%E2%80%99s_Staircase_-_geograph.org.uk_-_8064887.jpg | CC BY-SA 2.0 | David Dixon
+highlights/fort-william-5.jpg | https://commons.wikimedia.org/wiki/File:The_Three_Sisters_from_Old_Glencoe_Road_03.jpg | CC BY 4.0 | Nizzan Cohen

@@ -315,6 +315,11 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Windsor & Eton Riverside', '윈저 앤 이튼 리버사이드역'],
     ],
   },
+  dover: {
+    air: [['London Gatwick (LGW)', '개트윅 공항 (LGW)', '런던|London']],
+    rail: [['Dover Priory', '도버 프라이어리역']],
+    port: [['Port of Dover', '도버 항', '프랑스 칼레·덩케르크행 페리|ferries to Calais and Dunkirk']],
+  },
   canterbury: {
     air: [['London Gatwick (LGW)', '개트윅 공항 (LGW)', '런던|London']],
     rail: [
@@ -388,12 +393,23 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Leeds Bradford (LBA)', '리즈 브래드퍼드 공항 (LBA)', '리즈|Leeds']],
     rail: [['Whitby', '휘트비역']],
   },
+  chester: {
+    air: [
+      ['Liverpool John Lennon (LPL)', '리버풀 존 레넌 공항 (LPL)', '리버풀|Liverpool'],
+      ['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester'],
+    ],
+    rail: [['Chester', '체스터역']],
+  },
   york: {
     air: [
       ['Leeds Bradford (LBA)', '리즈 브래드퍼드 공항 (LBA)', '리즈|Leeds'],
       ['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester'],
     ],
     rail: [['York', '요크역']],
+  },
+  durham: {
+    air: [['Newcastle (NCL)', '뉴캐슬 공항 (NCL)', '뉴캐슬|Newcastle']],
+    rail: [['Durham', '더럼역']],
   },
   'lake-district': {
     air: [['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester']],
@@ -443,6 +459,14 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Inverness (INV)', '인버네스 공항 (INV)']],
     rail: [['Inverness', '인버네스역']],
     bus: [['Inverness Bus Station', '인버네스 버스 스테이션']],
+  },
+  'fort-william': {
+    air: [
+      ['Inverness (INV)', '인버네스 공항 (INV)', '인버네스|Inverness'],
+      ['Glasgow (GLA)', '글래스고 공항 (GLA)', '글래스고|Glasgow'],
+    ],
+    rail: [['Fort William', '포트윌리엄역', '자코바이트 출발역|Jacobite departs here']],
+    bus: [['Fort William Bus Station', '포트윌리엄 버스 정류장']],
   },
   'isle-of-skye': {
     air: [['Inverness (INV)', '인버네스 공항 (INV)', '인버네스|Inverness']],

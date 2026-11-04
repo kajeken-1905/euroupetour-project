@@ -917,6 +917,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('마을에서 묵기', 'In the town', 'Whitby', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('요크에서 다녀오기', 'Base in York', 'York', '거점에서 다녀오기|Day trip from a base', '요크에서 코스트라이너 840번 버스로 약 2시간 10분입니다.|About 2 hr 10 from York on the Coastliner 840 bus.'),
   ],
+  chester: [
+    a('성벽 안 구시가', 'Inside the walls', 'Chester city centre', '처음 가는 여행에 추천|Best for a first visit', '로우스와 대성당, 성벽 산책로가 바로 옆입니다.|The Rows, the cathedral and the wall walk on your doorstep.'),
+  ],
   york: [
     a('시내 중심', 'City Centre', 'York city centre', '처음 가는 여행에 추천|Best for a first visit', '요크 민스터와 섐블스를 걸어서 다닙니다. 성수기에 매우 붐비고 좋은 숙소가 먼저 찹니다.|York Minster and the Shambles on foot; very busy in peak season, and the good hotels sell out first.'),
     a('미클게이트', 'Micklegate', 'Micklegate, York', '펍과 식당|Pubs and food', '강 가까이에 카페와 식당, 펍이 모여 있습니다. 밤에는 시끄러울 수 있습니다.|Cafés, restaurants and pubs near the river; can be noisy at night.'),
@@ -930,8 +933,15 @@ export const STAY: Record<string, StayArea[]> = {
     a('카디프 베이', 'Cardiff Bay', 'Cardiff Bay', '바닷가 식당과 공연장|Waterfront dining and venues', '옛 부두를 새로 꾸민 바닷가 지구로 식당과 밀레니엄 센터가 있습니다. 시내까지 택시로 10분쯤입니다.|The redeveloped docks with restaurants and the Millennium Centre; about ten minutes by taxi to the centre.'),
     a('리버사이드', 'Riverside', 'Riverside, Cardiff', '조용하고 비교적 저렴|Quieter and cheaper', '폰트카나 공원 옆으로 카페가 있고 숙소가 비교적 저렴합니다. 중심가까지 걷거나 택시를 탑니다.|Next to Pontcanna Fields with cafés and cheaper stays; walk or take a taxi to the centre.'),
   ],
+  durham: [
+    a('시내 중심', 'City Centre', 'Durham city centre', '처음 가는 여행에 추천|Best for a first visit', '대성당과 성, 강변 산책로를 걸어서 다닙니다. 숙소가 많지 않아 일찍 예약하는 편이 좋습니다.|The cathedral, castle and riverside paths on foot; there are few hotels, so book early.'),
+  ],
   inverness: [
     a('시내 중심', 'City Centre', 'Inverness city centre', '차 없이 지내기 좋음|Best without a car', '성과 박물관, 식당을 걸어서 다니고 숙소가 가장 많습니다. 가장 비싸고 저렴한 곳이 드뭅니다.|The castle, museums and restaurants on foot, with the most places to stay; the priciest area with few bargains.'),
+  ],
+  'fort-william': [
+    a('하이 스트리트 주변', 'Around the High Street', 'Fort William High Street', '차 없이 지내기 좋음|Best without a car', '역과 버스 정류장, 식당이 가깝습니다.|Close to the station, the bus stop and places to eat.'),
+    a('글렌 네비스', 'Glen Nevis', 'Glen Nevis', '등산 거점|For hikers', '벤네비스 등산로 입구 쪽 계곡으로, 유스호스텔과 캠핑장이 있습니다. 시내까지 버스나 차로 갑니다.|The glen at the foot of the Ben Nevis path, with a youth hostel and campsite; take a bus or drive into town.'),
   ],
   'isle-of-skye': [
     a('포트리', 'Portree', 'Portree', '처음 가는 여행에 추천|Best for a first visit', '섬에서 가장 큰 마을이라 숙소와 식당이 가장 많고 버스와 투어가 출발합니다. 마을 자체의 볼거리는 적습니다.|The island’s largest town, with the most rooms and restaurants, and buses and tours leave from here; few sights of its own.'),
@@ -1397,6 +1407,9 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   'karlovy-vary': [
     a('온천 지구 (콜로나다 주변)', 'Spa quarter (the colonnades)', 'Mlýnská kolonáda, Karlovy Vary', '온천 문화|Spa culture', '물레방아·시장 콜로나다와 온천 산책로, 카페가 모여 있습니다. 큰길 쪽보다 계곡 쪽 방이 조용합니다.|The Mill and Market colonnades, spring walks and cafés; rooms facing the valley are quieter than those on the road.'),
+  ],
+  dover: [
+    a('시내와 해안가', 'Town centre & seafront', 'Dover seafront', '페리 타기 전에 묵기 좋음|Handy before a ferry', '역과 항구, 성 아래 시내가 가깝습니다. 저녁 식당은 많지 않습니다.|Close to the station, the port and the town below the castle; few places to eat in the evening.'),
   ],
   canterbury: [
     a('시내 중심', 'City centre', 'Canterbury city centre', '저녁까지 느긋하게|A slower evening', '대성당과 옛 골목, 식당을 걸어서 다닙니다.|The cathedral, old lanes and restaurants on foot.'),

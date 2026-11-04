@@ -509,6 +509,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'york',
       tip: '고속열차로 약 2시간. 요크 민스터와 성벽, 섐블스 골목을 봅니다.|About 2 hours by fast train: York Minster, the walls and the Shambles.',
     },
+    {
+      to: 'dover',
+      tip: '고속열차로 약 1시간 10분. 도버 성과 하얀 절벽 산책로를 봅니다.|About 1 hr 10 by high-speed train: Dover Castle and the White Cliffs path.',
+    },
   ],
   edinburgh: [
     {
@@ -541,6 +545,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'conwy',
       tip: '성벽으로 둘러싸인 웨일스의 성과 마을을 봅니다.|The walled Welsh town and its castle.',
     },
+    {
+      to: 'chester',
+      tip: '기차로 약 1시간. 성벽을 한 바퀴 걷고 2층 회랑 상점가 로우스를 봅니다.|About 1 hr by train: walk the city walls and browse the galleried Rows.',
+    },
   ],
   bristol: [
     {
@@ -552,6 +560,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'stirling',
       tip: '스털링 성과 월리스 기념탑을 봅니다.|Stirling Castle and the Wallace Monument.',
+    },
+    {
+      to: 'fort-william',
+      tip: '버스로 약 3시간 10분이라 1박을 권합니다. 글렌코 계곡을 지나 벤네비스 아래 마을에 닿습니다.|About 3 hr 10 by coach, so an overnight is better: through Glencoe to the town below Ben Nevis.',
     },
   ],
   conwy: [
@@ -1373,6 +1385,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'whitby',
       tip: '노스요크무어스를 넘는 버스로 바닷가에 가서 절벽 위 수도원과 항구를 보고 피시 앤 칩스를 먹습니다.|A bus over the North York Moors to the coast for the clifftop abbey, the harbour and fish and chips.',
+    },
+    {
+      to: 'durham',
+      tip: '기차로 약 45분. 언덕 위 노르만 대성당과 성, 위어강 강변 산책로를 봅니다.|About 45 min by train: the hilltop Norman cathedral and castle and the River Wear paths.',
     },
   ],
   'the-hague': [

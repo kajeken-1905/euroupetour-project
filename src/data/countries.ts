@@ -93,10 +93,10 @@ export const countries: Country[] = [
       background: '#E8EEF7',
       text: '#0A1628',
     },
-    cityIds: ['london', 'windsor', 'canterbury', 'brighton', 'oxford', 'cotswolds', 'stratford-upon-avon', 'cambridge', 'bath', 'bristol', 'salisbury', 'st-ives', 'manchester', 'liverpool', 'york', 'whitby', 'lake-district', 'edinburgh', 'glasgow', 'stirling', 'st-andrews', 'inverness', 'isle-of-skye', 'cardiff', 'tenby', 'snowdonia', 'conwy', 'belfast', 'giants-causeway', 'derry'],
+    cityIds: ['london', 'windsor', 'canterbury', 'dover', 'brighton', 'oxford', 'cotswolds', 'stratford-upon-avon', 'cambridge', 'bath', 'bristol', 'salisbury', 'st-ives', 'manchester', 'liverpool', 'chester', 'york', 'durham', 'whitby', 'lake-district', 'edinburgh', 'glasgow', 'stirling', 'st-andrews', 'inverness', 'fort-william', 'isle-of-skye', 'cardiff', 'tenby', 'snowdonia', 'conwy', 'belfast', 'giants-causeway', 'derry'],
     cityGroups: [
-      { title: { ko: '잉글랜드', en: 'England' }, cityIds: ['london', 'windsor', 'canterbury', 'brighton', 'oxford', 'cotswolds', 'stratford-upon-avon', 'cambridge', 'bath', 'bristol', 'salisbury', 'st-ives', 'manchester', 'liverpool', 'york', 'whitby', 'lake-district'] },
-      { title: { ko: '스코틀랜드', en: 'Scotland' }, cityIds: ['edinburgh', 'glasgow', 'stirling', 'st-andrews', 'inverness', 'isle-of-skye'] },
+      { title: { ko: '잉글랜드', en: 'England' }, cityIds: ['london', 'windsor', 'canterbury', 'dover', 'brighton', 'oxford', 'cotswolds', 'stratford-upon-avon', 'cambridge', 'bath', 'bristol', 'salisbury', 'st-ives', 'manchester', 'liverpool', 'chester', 'york', 'durham', 'whitby', 'lake-district'] },
+      { title: { ko: '스코틀랜드', en: 'Scotland' }, cityIds: ['edinburgh', 'glasgow', 'stirling', 'st-andrews', 'inverness', 'fort-william', 'isle-of-skye'] },
       { title: { ko: '웨일스', en: 'Wales' }, cityIds: ['cardiff', 'tenby', 'snowdonia', 'conwy'] },
       { title: { ko: '북아일랜드', en: 'Northern Ireland' }, cityIds: ['belfast', 'giants-causeway', 'derry'] },
     ],

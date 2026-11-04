@@ -1213,5 +1213,100 @@
     54.58225,
     -5.93532,
     "OSM Nominatim: Ulster Museum, Stranmillis Road, Crescent, Queen's Quarter,  (Wikipedia 34m)"
+  ],
+  "durham-h1": [
+    54.77326,
+    -1.57633,
+    "OSM Nominatim: Durham Cathedral, The College, Crossgate, City of Durham, Du (Wikipedia 41m)"
+  ],
+  "durham-h2": [
+    54.77551,
+    -1.57689,
+    "OSM Nominatim: Durham Castle, Moatside Lane, Crossgate, City of Durham, Dur"
+  ],
+  "durham-h3": [
+    54.77093,
+    -1.57942,
+    "OSM Nominatim: Prebends Bridge, Crossgate, City of Durham, Durham, County D (Wikipedia 8m)"
+  ],
+  "durham-h4": [
+    54.77704,
+    -1.57545,
+    "OSM Nominatim: Market Place, Durham"
+  ],
+  "durham-h5": [
+    54.88573,
+    -1.6598,
+    "OSM Nominatim: Beamish Museum, Francis Street, 1900's Pit Village, Beamish, (Wikipedia 431m)"
+  ],
+  "chester-h1": [
+    53.19097,
+    -2.88887,
+    "OSM Nominatim: City Walls, Newtown, City of Chester, Chester, Cheshire West"
+  ],
+  "chester-h2": [
+    53.18998,
+    -2.89135,
+    "OSM Nominatim: The Rows Jewellers, Bridge Street East Row, Handbridge, City (Wikipedia 29m)"
+  ],
+  "chester-h3": [
+    53.19087,
+    -2.88882,
+    "OSM Nominatim: Eastgate Clock, Eastgate Street, Newtown, City of Chester, C (Wikipedia 1m)"
+  ],
+  "chester-h4": [
+    53.19179,
+    -2.89072,
+    "OSM Nominatim: Cathedral Church of Christ and the Blessed Virgin Mary, St W (Wikipedia 15m)"
+  ],
+  "chester-h5": [
+    53.18934,
+    -2.88698,
+    "OSM Nominatim: Roman Amphitheatre, St John Street, Newtown, City of Chester (Wikipedia 19m)"
+  ],
+  "chester-h6": [
+    53.22627,
+    -2.88531,
+    "OSM Nominatim: Chester Zoo, Alwyn Gardens, Upton Heath, Upton-by-Chester, C (Wikipedia 88m)"
+  ],
+  "dover-h1": [
+    51.12898,
+    1.32288,
+    "OSM Nominatim: Dover Castle, Castle Hill Road, Clarendon, Dover, Kent, Engl (Wikipedia 131m)"
+  ],
+  "dover-h2": [
+    51.13579,
+    1.36209,
+    "OSM Nominatim: White Cliffs of Dover (National Trust), Langdon Cliffs"
+  ],
+  "dover-h3": [
+    51.12473,
+    1.31327,
+    "OSM Nominatim: Dover Museum, Gaol Lane, Clarendon, Dover, Kent, England, CT (Wikipedia 30m)"
+  ],
+  "fort-william-h1": [
+    56.87583,
+    -5.42918,
+    "OSM Nominatim: Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Hi (Wikipedia 173m)"
+  ],
+  "fort-william-h2": [
+    56.81006,
+    -5.07699,
+    "OSM Nominatim: Ben Nevis Visitor Centre, Glen Nevis Road, Achintee, Fort Wi"
+  ],
+  "fort-william-h3": [
+    56.8517,
+    -5.00041,
+    "OSM Nominatim: Nevis Range base station car park"
+  ],
+  "fort-william-h4": [
+    56.8449,
+    -5.09601,
+    "OSM Nominatim: Neptune's Staircase, Great Glen Way, Camaghael, Banavie, Hig (Wikipedia 173m)"
+  ],
+  "fort-william-h5": [
+    56.6707,
+    -5.07968,
+    "OSM Nominatim: Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotl"
   ]
 }

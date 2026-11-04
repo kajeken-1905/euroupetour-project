@@ -534,6 +534,17 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  chester: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 성벽 안이라 걸어서 다닙니다. 역에서 시내까지 걸어서 약 15분이고, 동물원은 버스로 갑니다.',
+      en: 'The old town lies inside the walls and is walkable; about 15 min on foot from the station, and a bus to the zoo.',
+    },
+    apps: [
+      ta('trainline'),
+      ta('uber'),
+    ],
+  },
   york: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -543,6 +554,17 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('trainline'),
       ta('tfl'),
+      ta('uber'),
+    ],
+  },
+  durham: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '역에서 대성당까지 걸어서 약 15분이고, 시내는 걸어서 다닙니다. 비미시는 버스로 갑니다.',
+      en: 'About 15 min on foot from the station to the cathedral; walk the centre and take a bus to Beamish.',
+    },
+    apps: [
+      ta('trainline'),
       ta('uber'),
     ],
   },
@@ -3313,6 +3335,17 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  dover: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '역에서 시내는 걸어서 다니고, 성은 언덕길을 걸어 오르거나 버스·택시로 갑니다. 하얀 절벽은 시내에서 걸어서 약 40분입니다.',
+      en: 'Walk from the station into town; climb to the castle on foot or take a bus or taxi. The White Cliffs are about 40 min on foot from the centre.',
+    },
+    apps: [
+      ta('trainline'),
+      ta('uber'),
+    ],
+  },
   canterbury: {
     modes: ['train', 'bus', 'walk'],
     howTo: {
@@ -3428,6 +3461,17 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('stagecoach-bus', { ko: '표 구매', en: 'Tickets' }),
       ta('trainline'),
+    ],
+  },
+  'fort-william': {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 글렌 네비스·곤돌라·글렌코는 버스로, 글렌피넌은 기차(자코바이트 포함)로 갑니다.',
+      en: 'Walk the town; buses go to Glen Nevis, the gondola and Glencoe, and trains (including the Jacobite) to Glenfinnan.',
+    },
+    apps: [
+      ta('trainline'),
+      ta('stagecoach-bus', { ko: '표 구매', en: 'Tickets' }),
     ],
   },
   'isle-of-skye': {
