@@ -84,16 +84,38 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   'ceske-budejovice': [1, 2, 4, 5, 3],
   warsaw: {
     days: [
-      ['구시가와 게토 기념지|Old Town & ghetto memorials', 2, 1, 5],
-      ['문화과학궁전과 와지엔키|Palace of Culture & Łazienki', 4, 3],
+      ['구시가와 왕의 길|Old Town & the Royal Route', 10, 1, 2, 9, 8, 11],
+      ['봉기 박물관과 도심|Rising Museum & the centre', 7, 5, 4, 12],
+      ['와지엔키와 빌라누프|Łazienki & Wilanów', 3, 6],
     ],
   },
-  krakow: { days: [['', 1, 3, 5, 2, 4]], trips: [['아우슈비츠|Auschwitz', 6], ['비엘리치카 소금광산|Wieliczka', 7]] },
-  gdansk: { days: [['', 1, 2, 3, 4]], trips: [['올리바와 해변|Oliwa & the beach', 5]] },
-  wroclaw: [1, 4, 5, 2, 3],
-  poznan: [3, 1, 4, 2, 5],
-  zakopane: { days: [['', 2, 3, 1]], trips: [['모르스키에 오코|Morskie Oko', 4]] },
-  torun: [4, 1, 3, 2, 5],
+  krakow: {
+    days: [
+      ['구시가와 바벨|Old Town & Wawel', 10, 1, 3, 11, 5, 9, 2],
+      ['카지미에시와 포드구지|Kazimierz & Podgórze', 4, 12, 8],
+    ],
+    trips: [
+      ['아우슈비츠|Auschwitz', 6],
+      ['비엘리치카 소금광산|Wieliczka', 7],
+    ],
+  },
+  gdansk: {
+    days: [['', 1, 10, 2, 9, 6, 3, 7, 4]],
+    trips: [
+      ['베스테르플라테|Westerplatte', 8],
+      ['올리바와 해변|Oliwa & the beach', 5],
+    ],
+  },
+  wroclaw: [1, 4, 7, 5, 6, 2, 3, 8, 9],
+  poznan: [3, 8, 1, 6, 4, 2, 7, 5],
+  zakopane: {
+    days: [['', 2, 6, 8, 3, 1]],
+    trips: [
+      ['모르스키에 오코|Morskie Oko', 4],
+      ['코시치엘리스카 계곡|Kościeliska Valley', 7],
+    ],
+  },
+  torun: [4, 7, 6, 1, 3, 2, 8, 5],
   reykjavik: { days: [['', 1, 3, 2, 4]], trips: [['블루라군|Blue Lagoon', 5]] },
   akureyri: { days: [['', 3, 1, 2]], trips: [['고다포스와 미바튼|Goðafoss & Mývatn', 5, 4]] },
   vik: [5, 2, 1, 4, 3],

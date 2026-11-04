@@ -858,5 +858,95 @@
     43.7351727,
     7.4215683,
     "OSM Nominatim \"La Collection de Voitures de SAS Le Prince de Monaco, 54 Route de la Piscine\""
+  ],
+  "krakow-h10": [
+    50.0654581,
+    19.941451,
+    "OSM Nominatim \"Barbakan, Basztowa, Kraków\""
+  ],
+  "krakow-h6": [
+    50.0293428,
+    19.2055799,
+    "OSM Nominatim \"Państwowe Muzeum Auschwitz-Birkenau, Oświęcim\""
+  ],
+  "gdansk-h2": [
+    54.3485464,
+    18.653228,
+    "OSM Nominatim \"Fontanna Neptuna, Gdańsk\""
+  ],
+  "gdansk-h6": [
+    54.3498079,
+    18.6530094,
+    "OSM Nominatim \"Bazylika Mariacka, Gdańsk\""
+  ],
+  "wroclaw-h9": [
+    51.1043711,
+    17.0752376,
+    "OSM Nominatim \"Afrykarium, Wrocław\""
+  ],
+  "zakopane-h8": [
+    49.2968604,
+    19.9472236,
+    "OSM Nominatim \"Cmentarz Zasłużonych na Pęksowym Brzyzku, Zakopane\""
+  ],
+  "torun-h4": [
+    53.0083696,
+    18.6075807,
+    "OSM Nominatim \"Bulwar Filadelfijski, Toruń\""
+  ],
+  "torun-h6": [
+    53.0095073,
+    18.6100781,
+    "OSM Nominatim \"Zamek Krzyżacki, Toruń\""
+  ],
+  "torun-h3": [
+    53.0105224,
+    18.6041183,
+    "OSM Nominatim \"Ratusz Staromiejski, Toruń\""
+  ],
+  "torun-h5": [
+    53.0086698,
+    18.6046724,
+    "OSM Nominatim \"Żywe Muzeum Piernika, Toruń\""
+  ],
+  "warsaw-h12": [
+    52.2318779,
+    21.0061135,
+    "OSM Nominatim \"Muzeum Neonów, Plac Defilad 1\" (moved Aug 2025)"
+  ],
+  "krakow-h8": [
+    50.0474554,
+    19.9617094,
+    "OSM Nominatim \"Fabryka Schindlera, Kraków\""
+  ],
+  "gdansk-h9": [
+    54.3496313,
+    18.6552801,
+    "OSM Nominatim \"Mariacka, Gdańsk\""
+  ],
+  "gdansk-h5": [
+    54.410761,
+    18.5570013,
+    "OSM Nominatim \"Archikatedra Oliwska\""
+  ],
+  "wroclaw-h4": [
+    51.1075437,
+    17.0325128,
+    "OSM Nominatim \"Papa Krasnal, Wrocław\""
+  ],
+  "zakopane-h5": [
+    49.2943355,
+    19.9429171,
+    "OSM Nominatim \"Kościeliska 18, Zakopane\""
+  ],
+  "torun-h8": [
+    53.0090063,
+    18.6062294,
+    "OSM Nominatim \"Żeglarska 16, Toruń\""
+  ],
+  "wroclaw-h5": [
+    51.1138648,
+    17.0335707,
+    "OSM Nominatim \"Plac Uniwersytecki 1, Wrocław\""
   ]
 }

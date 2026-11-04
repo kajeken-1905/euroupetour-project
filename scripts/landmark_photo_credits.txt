@@ -1885,3 +1885,33 @@ highlights/the-hague-8.jpg | https://commons.wikimedia.org/wiki/File:Duryea_1903
 highlights/prague-21.jpg | https://commons.wikimedia.org/wiki/File:13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-246.jpg | CC BY 3.0 | Ralf Roletschek
 highlights/gothenburg-7.jpg | https://commons.wikimedia.org/wiki/File:World_of_Volvo_20230607.jpg | CC BY-SA 4.0 | Fabianmikaelsson
 highlights/monaco-6.jpg | https://commons.wikimedia.org/wiki/File:Entrance_of_the_car_collection_of_the_Prince_of_Monaco.jpg | CC BY-SA 4.0 | Andromeda2064
+highlights/warsaw-6.jpg | https://commons.wikimedia.org/wiki/File:Warszawa_-_Wilan%C3%B3w_Palace.jpg | CC BY-SA 3.0 | Marcin Białek
+highlights/warsaw-7.jpg | https://commons.wikimedia.org/wiki/File:Stroop_Report_-_Warsaw_Ghetto_Uprising_06b.jpg | Public domain | Unknown authorUnknown author (Franz Konrad confessed to taki
+highlights/warsaw-8.jpg | https://commons.wikimedia.org/wiki/File:PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG | CC BY 3.0 | Happa
+highlights/warsaw-9.jpg | https://commons.wikimedia.org/wiki/File:Krakowskie_Przedmie%C5%9Bcie,_styczniowy_wiecz%C3%B3r_2016.JPG | CC BY-SA 4.0 | Pudelek
+highlights/warsaw-10.jpg | https://commons.wikimedia.org/wiki/File:Barbakan_w_Warszawie_-_01.jpg | CC BY-SA 3.0 pl | Carlos Delgado
+highlights/warsaw-11.jpg | https://commons.wikimedia.org/wiki/File:Planetarium_Niebo_Kopernika_-_Centrum_Nauki_Kopernik_fot._Wojciech_Surdziel_05.jpg | CC BY-SA 4.0 | Wojciech Surdziel
+highlights/warsaw-12.jpg | https://commons.wikimedia.org/wiki/File:Neon_Museum_Warsaw_05.JPG | CC BY-SA 3.0 pl | Adrian Grycuk
+highlights/krakow-8.jpg | https://commons.wikimedia.org/wiki/File:Enamel_factory_2.JPG | Public domain | Jongleur100
+highlights/krakow-9.jpg | https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_-_Collegium_Maius_-_P%C5%82askorze%C5%BAba_01.jpg | CC BY-SA 3.0 | Lestat (Jan Mehlich)
+highlights/krakow-10.jpg | https://commons.wikimedia.org/wiki/File:Barbakan_przed_wschodem_s%C5%82o%C5%84ca.jpg | CC BY-SA 4.0 | Gswito
+highlights/krakow-11.jpg | https://commons.wikimedia.org/wiki/File:Rynek_Underground_Krak%C3%B3w_2019b.jpg | CC BY-SA 3.0 pl | Adrian Grycuk
+highlights/krakow-12.jpg | https://commons.wikimedia.org/wiki/File:PlacBohater%C3%B3wGetta-ZimowaSceneria-POL,_Krak%C3%B3w.jpg | CC BY-SA 4.0 | Igor123121
+highlights/gdansk-6.jpg | https://commons.wikimedia.org/wiki/File:Bazylika_konkatedralna_Wniebowzi%C4%99cia_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_w_Gda%C5%84sku_widok_od_zachodu.jpg | CC BY-SA 4.0 | Aneta Pawska
+highlights/gdansk-7.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025b.jpg | CC BY 3.0 pl | Adrian Grycuk
+highlights/gdansk-8.jpg | https://commons.wikimedia.org/wiki/File:00565_Westerplatte_barrakcks_basement.jpg | CC BY-SA 4.0 | Virtual-Pano
+highlights/gdansk-9.jpg | https://commons.wikimedia.org/wiki/File:Gda%C5%84sk,_Brama_Mariacka_(WLZ14).jpg | CC BY-SA 3.0 pl | 1bumer
+highlights/gdansk-10.jpg | https://commons.wikimedia.org/wiki/File:Artus_Court_and_Neptune_Monument_in_the_Main_Town_of_Gda%C5%84sk.jpg | CC BY-SA 4.0 | John Samuel
+highlights/wroclaw-6.jpg | https://commons.wikimedia.org/wiki/File:Wroclaw_Panorama_Raclawicka.jpg | CC BY-SA 3.0 | Andrzej Otrębski
+highlights/wroclaw-7.jpg | https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw,_Hala_Targowa_I_-_fotopolska.eu_(167660).jpg | CC BY-SA 3.0 | Neo[EZN]
+highlights/wroclaw-8.jpg | https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw,_Ogr%C3%B3d_Japo%C5%84ski_~130719N08.jpg | CC BY-SA 4.0 | Grzegorz W. Tężycki
+highlights/wroclaw-9.jpg | https://commons.wikimedia.org/wiki/File:Afrykarium_tunel.jpg | CC BY-SA 4.0 | Lower Silesia
+highlights/poznan-6.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_Rogala_2.jpg | CC BY-SA 4.0 | Mika58
+highlights/poznan-7.jpg | https://commons.wikimedia.org/wiki/File:Park_Cytadela,_Pozna%C5%84_(PL).jpg | CC BY-SA 4.0 | Abrygnieszka
+highlights/poznan-8.jpg | https://commons.wikimedia.org/wiki/File:Stary_Browar_%E2%80%93_Pozna%C5%84_(4).jpg | CC BY-SA 4.0 | Darekm135
+highlights/zakopane-6.jpg | https://commons.wikimedia.org/wiki/File:Zakopane_Wielka_Krokiew_3.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+highlights/zakopane-7.jpg | https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcieliski_Potok_Dolina_Ko%C5%9Bcieliska_2023-08-22_25.jpg | CC BY-SA 4.0 | Agnieszka Kwiecień, Nova
+highlights/zakopane-8.jpg | https://commons.wikimedia.org/wiki/File:P%C4%99ksowy_Brzyzek_National_Cemetery_in_Zakopane,_August_2017,_04.jpg | CC BY-SA 4.0 | Kgbo
+highlights/torun-6.jpg | https://commons.wikimedia.org/wiki/File:Zamek_w_Toruniu,_20210908_1532_2729.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/torun-7.jpg | https://commons.wikimedia.org/wiki/File:Leaning_Tower_in_Toru%C5%84.jpg | CC BY-SA 3.0 | Zorro2212
+highlights/torun-8.jpg | https://commons.wikimedia.org/wiki/File:Widok_ko%C5%9Bci%C3%B3%C5%82a_%C5%9Bw._Jan%C3%B3w_w_Toruniu,_ulica_%C5%BBeglarska.Widok_z_platformy_widokowej_-_panoramio.jpg | CC BY-SA 3.0 | Kazimierz Mendlik
