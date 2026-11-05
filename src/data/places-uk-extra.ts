@@ -219,4 +219,44 @@ export const placesUKExtra: Place[] = [
   place('derry-bakery-2', 'derry', 'bakery', 'Doherty\'s Home Bakery', '23 William Street, Londonderry BT48 6EP', '성벽 밖 윌리엄 거리의 빵집.', 'Bakery on William Street outside the walls.'),
   place('derry-cafe-1', 'derry', 'cafe', 'The Scullery Cafe', '48 Waterloo Street, Londonderry BT48 6HF', '성벽 아래 워털루 거리의 카페.', 'Café on Waterloo Street below the walls.'),
   place('derry-cafe-2', 'derry', 'cafe', 'Patricia\'s Coffee House', 'Atlantic Quay, 100-114 Strand Road, Londonderry', '스트랜드 거리의 커피하우스.', 'Coffee house on the Strand Road.'),
+
+  // —— durham: restaurants, bakeries and cafés (2026-11-06) ——
+  place('durham-fine_dining-1', 'durham', 'fine_dining', 'Coarse', 'Reform Pl, North Rd, Durham DH1 4RZ', '역 근처 리폼 플레이스의 모던 브리티시 레스토랑. 미쉐린 가이드 선정.', 'Modern British restaurant on Reform Place near the station. In the MICHELIN Guide.'),
+  place('durham-fine_dining-2', 'durham', 'fine_dining', 'Isla', '53 North Rd, Durham DH1 4SF', '노스 로드의 모던 브리티시 식당. 미쉐린 가이드 선정.', 'Modern British restaurant on North Road. In the MICHELIN Guide.'),
+  place('durham-fine_dining-3', 'durham', 'fine_dining', 'The Cellar Door', '41 Saddler St, Durham DH1 3NU', '새들러 스트리트의 모던 유럽 요리 레스토랑.', 'Modern European restaurant on Saddler Street.'),
+  place('durham-fine_dining-4', 'durham', 'fine_dining', 'Akarsu Turkish Restaurant & Grill', '21 Silver St, Durham DH1 3RB', '실버 스트리트의 터키 그릴 식당.', 'Turkish grill restaurant on Silver Street.'),
+  place('durham-cafe-1', 'durham', 'cafe', 'Cafédral Durham', '1 First floor, Owengate, Durham DH1 3HB', '대성당으로 오르는 오언게이트 길의 2층 카페.', 'First-floor café on Owengate, the lane up to the cathedral.'),
+  place('durham-cafe-2', 'durham', 'cafe', 'Vennels Café', '71 Saddler St, Durham DH1 3NP', '새들러 스트리트 골목 안의 카페.', 'Café down an alley off Saddler Street.'),
+  place('durham-cafe-3', 'durham', 'cafe', 'Porcelain Coffee Bar', '3C Old Elvet, Durham DH1 3HL', '올드 엘벳의 작은 커피 바.', 'Small coffee bar on Old Elvet.'),
+  place('durham-bakery-1', 'durham', 'bakery', 'The Nook', 'The Nook, Market Hall, Durham DH1 3NJ', '마켓 홀 안의 작은 빵집.', 'Small bakery stall inside the Market Hall.'),
+
+  // —— chester: restaurants, bakeries and cafés (2026-11-06) ——
+  place('chester-fine_dining-1', 'chester', 'fine_dining', 'Upstairs at the Grill', '70 Watergate St, Chester CH1 2LA', '워터게이트 스트리트의 스테이크·그릴 레스토랑. 미쉐린 가이드 선정.', 'Steak and grill restaurant on Watergate Street. In the MICHELIN Guide.'),
+  place('chester-fine_dining-2', 'chester', 'fine_dining', 'Noted', '63 Bridge St, Chester CH1 1NG', '브리지 스트리트의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern restaurant on Bridge Street. In the MICHELIN Guide.'),
+  place('chester-fine_dining-3', 'chester', 'fine_dining', 'The Jolly Gardeners', '33 Christleton Rd, Chester CH3 5UF', '구시가 동쪽의 펍 레스토랑. 미쉐린 가이드 선정.', 'Pub restaurant east of the old town. In the MICHELIN Guide.'),
+  place('chester-fine_dining-4', 'chester', 'fine_dining', 'La Fattoria', '25 Lower Bridge St, Chester CH1 1RS', '로어 브리지 스트리트의 이탈리아 식당.', 'Italian restaurant on Lower Bridge Street.'),
+  place('chester-fine_dining-5', 'chester', 'fine_dining', 'Chez Jules in Chester', '71 Northgate St, Chester CH1 2HQ', '노스게이트 스트리트의 프랑스 비스트로.', 'French bistro on Northgate Street.'),
+  place('chester-cafe-1', 'chester', 'cafe', 'Marmalade', '67 Northgate St, Chester CH1 2HQ', '노스게이트 스트리트의 브런치 카페.', 'Brunch café on Northgate Street.'),
+  place('chester-cafe-2', 'chester', 'cafe', 'Bean & Cole', '41 Frodsham St, Chester CH1 3JJ', '프로드셤 스트리트의 스페셜티 커피숍.', 'Specialty coffee shop on Frodsham Street.'),
+  place('chester-cafe-3', 'chester', 'cafe', 'The Flower Cup', '61 Watergate St, Chester CH1 2LE', '워터게이트 스트리트의 카페.', 'Café on Watergate Street.'),
+  place('chester-bakery-1', 'chester', 'bakery', 'Kookaburra Bakehouse', '2 Goss St, Chester CH1 2BG', '구시가 고스 스트리트의 빵집.', 'Bakery on Goss Street in the old town.'),
+  place('chester-bakery-2', 'chester', 'bakery', 'Pastry Pédaleur', 'Unit 12, Market Hall, Hunter St, Chester CH1 2AR', '마켓 홀 안의 페이스트리 가게.', 'Pastry shop inside the Market Hall.'),
+  place('chester-bakery-3', 'chester', 'bakery', 'Olawa Bakery Chester', '139 Brook St, Chester CH1 3DU', '역 가까운 브룩 스트리트의 빵집.', 'Bakery on Brook Street near the station.'),
+
+  // —— dover: restaurants, bakeries and cafés (2026-11-06) ——
+  place('dover-fine_dining-1', 'dover', 'fine_dining', 'Il Rustico Restaurant', '4 Bench St, Dover CT16 1JH', '시내 벤치 스트리트의 이탈리아 식당.', 'Italian restaurant on Bench Street in the town centre.'),
+  place('dover-fine_dining-2', 'dover', 'fine_dining', 'Aspendos Dover', '12 King St, Dover CT16 1NU', '킹 스트리트의 터키 식당.', 'Turkish restaurant on King Street.'),
+  place('dover-cafe-1', 'dover', 'cafe', 'Castle Street Coffee', '53 Castle St., Dover CT16 1PT', '성으로 오르는 캐슬 스트리트의 커피숍.', 'Coffee shop on Castle Street, the road up to the castle.'),
+  place('dover-cafe-2', 'dover', 'cafe', 'The Nook', '9 High St, Dover CT16 1DP', '하이 스트리트의 아침·점심 카페.', 'Breakfast and lunch café on the High Street.'),
+  place('dover-cafe-3', 'dover', 'cafe', 'Cafe Melange', '16 Cannon St, Dover CT16 1BZ', '시내 캐넌 스트리트의 카페.', 'Café on Cannon Street in the town centre.'),
+  place('dover-bakery-1', 'dover', 'bakery', 'The Kent Bakery Co', '67 London Rd, Buckland, Dover CT17 0SP', '시내 북쪽 런던 로드의 빵집.', 'Bakery on London Road north of the centre.'),
+
+  // —— fort-william: restaurants, bakeries and cafés (2026-11-06) ——
+  place('fort-william-fine_dining-1', 'fort-william', 'fine_dining', 'Seasgair by Michel Roux Jr', 'Inverlochy Castle, Torlundy, Fort William PH33 6SN', '시내 북쪽 인버로키 성 호텔의 모던 프렌치 레스토랑. 미쉐린 가이드 선정.', 'Modern French restaurant at the Inverlochy Castle hotel north of town. In the MICHELIN Guide.'),
+  place('fort-william-fine_dining-2', 'fort-william', 'fine_dining', 'The Geographer', '88 High St, Fort William PH33 6AD', '하이 스트리트의 식당.', 'Restaurant on the High Street.'),
+  place('fort-william-fine_dining-3', 'fort-william', 'fine_dining', 'Crannog at Garrison West', '4 Cameron Square, Fort William PH33 6AJ', '캐머런 광장의 스코틀랜드 해산물 레스토랑.', 'Scottish seafood restaurant on Cameron Square.'),
+  place('fort-william-cafe-1', 'fort-william', 'cafe', 'The Fort Coffee Collective', 'Fassifern Rd, Fort William PH33 6QX', '파시펀 로드의 커피숍.', 'Coffee shop on Fassifern Road.'),
+  place('fort-william-cafe-2', 'fort-william', 'cafe', 'The Wildcat', '21 High St, Fort William PH33 6DH', '하이 스트리트의 카페.', 'Café on the High Street.'),
+  place('fort-william-cafe-3', 'fort-william', 'cafe', 'The Kilted Camel', '151 High St, Fort William PH33 6EA', '하이 스트리트 끝의 카페.', 'Café at the end of the High Street.'),
+  place('fort-william-bakery-1', 'fort-william', 'bakery', 'Nevis Bakery', '49 High St, Fort William PH33 6DH', '하이 스트리트의 동네 빵집.', 'Local bakery on the High Street.'),
 ]

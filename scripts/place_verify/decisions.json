@@ -3189,6 +3189,50 @@
 "chartres-fine_dining-2": {
 "del": 1
 },
+"chester-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-bakery-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"chester-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "chisinau-bakery-1": {
 "addr": "Strada Albișoara 68/1, Chișinău, Moldova",
 "en": "Branch of a handmade confectionery chain founded in Chișinău in 2005, with traditional and modern cakes and pies.",
@@ -3971,6 +4015,30 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"dover-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dover-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dover-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dover-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dover-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dover-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "dresden-bakery-1": {
 "del": 1
 },
@@ -4185,6 +4253,38 @@
 },
 "dubrovnik-korean-2": {
 "del": "not found"
+},
+"durham-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"durham-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "durnstein-bakery-1": {
 "ok": 1,
@@ -4567,6 +4667,34 @@
 "en": "Parisian-style bistro with an awning-shaded terrace and beamed room, daily-changing dishes and a good wine list.",
 "ko": "차양 테라스와 들보 천장의 파리풍 비스트로. 매일 바뀌는 요리와 와인 리스트가 있습니다.",
 "ok": 1
+},
+"fort-william-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"fort-william-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"fort-william-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"fort-william-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"fort-william-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"fort-william-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"fort-william-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "frankfurt-bakery-1": {
 "del": 1
