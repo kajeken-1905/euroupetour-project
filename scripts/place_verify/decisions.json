@@ -4003,6 +4003,66 @@
 "ko": "1983년부터 이어진 레스토랑. 젤란트 홍합이 대표 메뉴.",
 "ok": 1
 },
+"dingle-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"dingle-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"doolin-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"doolin-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"doolin-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"doolin-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"doolin-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"doolin-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "douglas-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -6801,6 +6861,50 @@
 "en": "Irish restaurant on College Street run by the Cronin family since 1957, known for Kerry seafood chowder and lamb.",
 "ko": "1957년부터 크로닌 가족이 운영하는 칼리지 스트리트의 아일랜드 요리 식당. 케리 해산물 차우더와 양고기가 대표입니다.",
 "ok": 1
+},
+"kinsale-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-cafe-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kinsale-fine_dining-6": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "kiruna-cafe-1": {
 "del": "아이스호텔 안 카페라는 별도 매장을 확인할 수 없음"
@@ -15901,6 +16005,46 @@
 "werfen-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"westport-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"westport-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "whitby-bakery-1": {
 "ok": 1,

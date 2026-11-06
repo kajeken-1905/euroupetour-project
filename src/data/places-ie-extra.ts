@@ -76,4 +76,48 @@ export const placesIEExtra: Place[] = [
   place('limerick-cafe-3', 'limerick', 'cafe', 'Rift Coffee', '30 Upper Mallow St, Limerick, Ireland', '팝업으로 시작해 2018년 자리를 잡은 스페셜티 커피 카페. 반려견 동반이 되고 옆에 델리가 있습니다.', 'Specialty coffee café that started as a pop-up and settled here in 2018; dog-friendly, with a deli next door.'),
   place('limerick-cafe-4', 'limerick', 'cafe', 'Aroma Coffee House', '43 Roches St, Limerick, Ireland', '로치스 스트리트의 아늑한 카페. 커피·차이 라테와 아침·점심 메뉴를 냅니다.', 'Cosy café on Roches Street with coffee, chai lattes, breakfast and lunch.'),
   place('limerick-cafe-5', 'limerick', 'cafe', 'Fika Coffee', '15 Catherine St, Limerick, Ireland', '캐서린 스트리트의 스페셜티 커피 카페. 필터 커피와 페이스트리를 내고 미니멀한 실내와 바깥 좌석이 있습니다.', 'Specialty coffee café on Catherine Street with filter coffee and pastries, a minimalist interior and outdoor seating.'),
+
+  // —— dingle: restaurants, bakeries and cafés (2026-11-06) ——
+  place('dingle-fine_dining-1', 'dingle', 'fine_dining', 'Solas', 'Unit 1, Strand St, Dingle, Co. Kerry V92 Y79T, Ireland', '항구 앞 스트랜드 스트리트에서 아일랜드 재료로 스페인 요리를 내는 식당. 미쉐린 빕 구르망.', 'Spanish cooking with Irish produce on Strand Street by the harbour. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('dingle-fine_dining-2', 'dingle', 'fine_dining', 'Out of the Blue', 'Strand St, Waterside, Dingle, Co. Kerry V92 T181, Ireland', '부두 앞 파란 오두막의 해산물 식당. 그날 들어온 생선으로 메뉴가 바뀝니다.', 'Seafood restaurant in a blue shack by the pier, with a menu that changes with the day\'s catch.'),
+  place('dingle-fine_dining-3', 'dingle', 'fine_dining', 'Doyle\'s Seafood Restaurant', '4 John St, Dingle, Co. Kerry, Ireland', '존 스트리트의 오래된 해산물 레스토랑. 작은 접시 요리도 냅니다.', 'Long-established seafood restaurant on John Street, also serving small plates.'),
+  place('dingle-fine_dining-4', 'dingle', 'fine_dining', 'The Half Door', 'John St, Dingle, Co. Kerry, Ireland', '존 스트리트의 해산물 레스토랑. 저녁에만 엽니다.', 'Seafood restaurant on John Street, open for dinner.'),
+  place('dingle-fine_dining-5', 'dingle', 'fine_dining', 'The Fish Box', 'Green St, Dingle, Co. Kerry, Ireland', '선주 가족이 직접 잡은 생선으로 피시 앤드 칩스와 해산물을 내는 캐주얼 식당.', 'Casual seafood and fish-and-chips spot run by a fishing family using its own catch.'),
+  place('dingle-cafe-1', 'dingle', 'cafe', 'Bean in Dingle', 'Green St, Dingle, Co. Kerry, Ireland', '그린 스트리트의 스페셜티 커피 카페.', 'Specialty coffee café on Green Street.'),
+  place('dingle-cafe-2', 'dingle', 'cafe', 'My Boy Blue', 'Holyground, Dingle, Co. Kerry, Ireland', '홀리그라운드의 카페. 커피와 아침·점심을 냅니다.', 'Café on Holyground serving coffee, breakfast and lunch.'),
+  place('dingle-cafe-3', 'dingle', 'cafe', 'Pig and Leaf', 'Main St, Dingle, Co. Kerry, Ireland', '메인 스트리트의 커피·샌드위치 가게.', 'Coffee and sandwich shop on Main Street.'),
+  place('dingle-bakery-1', 'dingle', 'bakery', 'Courtney\'s Bakery', 'Dick Mack\'s Yard, Green St, Dingle, Co. Kerry, Ireland', '딕 맥스 펍 마당 안의 작은 빵집. 페이스트리와 빵을 굽습니다.', 'Small bakery in Dick Mack\'s Yard baking pastries and bread.'),
+
+  // —— doolin: restaurants, bakeries and cafés (2026-11-06) ——
+  place('doolin-fine_dining-1', 'doolin', 'fine_dining', 'Homestead Cottage', 'Luogh North, Doolin, Co. Clare V95 KH30, Ireland', '대서양이 내다보이는 200년 된 시골집의 레스토랑. 미쉐린 1스타.', 'Restaurant in a 200-year-old cottage looking out to the Atlantic. One MICHELIN star.', { michelin: 'star1' }),
+  place('doolin-fine_dining-2', 'doolin', 'fine_dining', 'Oar', 'Toomullin, Roadford, Doolin, Co. Clare V95 KV02, Ireland', '모허 절벽 쪽이 보이는 버렌의 모던 레스토랑 겸 숙소. 미쉐린 가이드 선정.', 'Modern restaurant with rooms in the Burren, looking towards the Cliffs of Moher. In the MICHELIN Guide.'),
+  place('doolin-fine_dining-3', 'doolin', 'fine_dining', 'Russell\'s Seafood Bar', 'Fiddle + Bow Hotel, Teergonean, Doolin, Co. Clare V95 XR0K, Ireland', '피들 앤드 보 호텔 안의 해산물 바.', 'Seafood bar in the Fiddle + Bow Hotel.'),
+  place('doolin-fine_dining-4', 'doolin', 'fine_dining', 'Riverside Bistro', 'Teergonean, Roadford, Doolin, Co. Clare V95 P603, Ireland', '로드퍼드 강가의 비스트로. 저녁에 엽니다.', 'Riverside bistro in Roadford, open in the evening.'),
+  place('doolin-fine_dining-5', 'doolin', 'fine_dining', 'Gus O\'Connor\'s Pub', 'Fisher St, Doolin, Co. Clare, Ireland', '피셔 스트리트의 오래된 펍. 식사를 하고 저녁엔 전통 음악 세션을 듣습니다.', 'Long-standing pub on Fisher Street serving food, with traditional music sessions in the evening.'),
+  place('doolin-cafe-1', 'doolin', 'cafe', 'Sean Nós', 'Sean Nós Hotel, Doolin, Co. Clare V95 YV76, Ireland', '션 노스 호텔 안의 카페 겸 빵집. 커피와 페이스트리를 냅니다.', 'Café-bakery in the Sean Nós Hotel serving coffee and pastries.'),
+
+  // —— kinsale: restaurants, bakeries and cafés (2026-11-06) ——
+  place('kinsale-fine_dining-1', 'kinsale', 'fine_dining', 'Bastion', 'Main St, Kinsale, Co. Cork P17 NX44, Ireland', '시내 한가운데 부부가 운영하는 모던 레스토랑. 미쉐린 1스타.', 'Modern restaurant in the town centre run by a husband-and-wife team. One MICHELIN star.', { michelin: 'star1' }),
+  place('kinsale-fine_dining-2', 'kinsale', 'fine_dining', 'Saint Francis Provisions', 'Short Quay, Kinsale, Co. Cork P17 T880, Ireland', '15석짜리 작은 지중해 요리 식당. 미쉐린 빕 구르망.', 'Tiny 15-seat Mediterranean restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('kinsale-fine_dining-3', 'kinsale', 'fine_dining', 'Rare', '3 Pearse St, Kinsale, Co. Cork P17 NA72, Ireland', '남인도 타밀나두 요리를 바탕으로 한 모던 인도 레스토랑. 미쉐린 가이드 선정.', 'Modern Indian restaurant drawing on Tamil Nadu cooking. In the MICHELIN Guide.'),
+  place('kinsale-fine_dining-4', 'kinsale', 'fine_dining', 'The Black Pig', '66 Lower O\'Connell St, Kinsale, Co. Cork, Ireland', '와인 바 겸 레스토랑. 현대식 유럽 요리를 냅니다.', 'Wine bar and restaurant serving modern European dishes.'),
+  place('kinsale-fine_dining-5', 'kinsale', 'fine_dining', 'Max\'s', '48 Main St, Kinsale, Co. Cork, Ireland', '메인 스트리트의 해산물 레스토랑.', 'Seafood restaurant on Main Street.'),
+  place('kinsale-fine_dining-6', 'kinsale', 'fine_dining', 'Fishy Fishy', 'Crowley\'s Quay, Kinsale, Co. Cork, Ireland', '항구 앞의 이름난 해산물 식당.', 'Well-known seafood restaurant by the harbour.'),
+  place('kinsale-cafe-1', 'kinsale', 'cafe', 'The Collector', '3 Market Ln, Kinsale, Co. Cork, Ireland', '마켓 레인의 커피 바.', 'Coffee bar on Market Lane.'),
+  place('kinsale-cafe-2', 'kinsale', 'cafe', 'Dána Coffee Bar', '3 Exchange Buildings, Kinsale, Co. Cork, Ireland', '익스체인지 빌딩의 작은 커피 바.', 'Small coffee bar in the Exchange Buildings.'),
+  place('kinsale-cafe-3', 'kinsale', 'cafe', 'Cosy Café', 'Church Square, Kinsale, Co. Cork, Ireland', '처치 스퀘어의 카페. 아침과 점심을 냅니다.', 'Café on Church Square serving breakfast and lunch.'),
+  place('kinsale-cafe-4', 'kinsale', 'cafe', 'Wild and Tame', '16 Market St, Kinsale, Co. Cork, Ireland', '마켓 스트리트의 커피 가게.', 'Coffee shop on Market Street.'),
+  place('kinsale-bakery-1', 'kinsale', 'bakery', 'Seeds Bakery', '4 Market Quay, Kinsale, Co. Cork, Ireland', '마켓 키의 빵집.', 'Bakery on Market Quay.'),
+
+  // —— westport: restaurants, bakeries and cafés (2026-11-06) ——
+  place('westport-fine_dining-1', 'westport', 'fine_dining', 'An Port Mór', '1 Brewery Place, Bridge St, Westport, Co. Mayo F28 KP70, Ireland', '브리지 스트리트 골목 안의 아일랜드 요리 레스토랑. 미쉐린 가이드 선정.', 'Irish restaurant tucked down an alley off Bridge Street. In the MICHELIN Guide.'),
+  place('westport-fine_dining-2', 'westport', 'fine_dining', 'Arno\'s Bistrot', '3 Market Ln, Westport, Co. Mayo, Ireland', '마켓 레인의 아일랜드 요리 비스트로.', 'Irish bistro on Market Lane.'),
+  place('westport-fine_dining-3', 'westport', 'fine_dining', 'Friends Bistro', '1 Bridge St, Westport, Co. Mayo, Ireland', '브리지 스트리트의 비스트로.', 'Bistro on Bridge Street.'),
+  place('westport-fine_dining-4', 'westport', 'fine_dining', 'Sage', '10 High St, Westport, Co. Mayo, Ireland', '하이 스트리트의 현대식 유럽 요리 레스토랑.', 'Modern European restaurant on High Street.'),
+  place('westport-fine_dining-5', 'westport', 'fine_dining', 'La Bella Vita', 'High St, Westport, Co. Mayo, Ireland', '하이 스트리트의 이탈리아 식당.', 'Italian restaurant on High Street.'),
+  place('westport-cafe-1', 'westport', 'cafe', 'Christy\'s Harvest', 'Shop St, Westport, Co. Mayo, Ireland', '숍 스트리트의 커피숍.', 'Coffee shop on Shop Street.'),
+  place('westport-cafe-2', 'westport', 'cafe', 'This Must Be The Place', 'High St, Westport, Co. Mayo, Ireland', '하이 스트리트의 카페.', 'Café on High Street.'),
+  place('westport-cafe-3', 'westport', 'cafe', 'The ClockHouse Cafe', 'Cahernamart, Westport, Co. Mayo F28 Y440, Ireland', '시계탑 옆의 카페.', 'Café by the clock tower.'),
+  place('westport-bakery-1', 'westport', 'bakery', 'Cornrue Bakery', 'New Rd, The Demesne, Westport, Co. Mayo, Ireland', '뉴 로드의 빵집. 오후 일찍 닫습니다.', 'Bakery on New Road; closes early afternoon.'),
+  place('westport-bakery-2', 'westport', 'bakery', 'Curry\'s Cottage Home Bakery & Tea Room', 'James St, Westport, Co. Mayo, Ireland', '제임스 스트리트의 빵집 겸 찻집.', 'Home bakery and tea room on James Street.'),
 ]
