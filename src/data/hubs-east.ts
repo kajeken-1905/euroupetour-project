@@ -367,15 +367,33 @@ export const hubsEast: Record<string, RawCityHubs> = {
     rail: [['Beograd Centar', '베오그라드 중앙역 (프로코프)']],
     bus: [['Beogradska autobuska stanica (BAS)', '베오그라드 버스터미널 (BAS)']],
   },
+  golubac: {
+    air: [BEG('버스로 약 3시간|About 3 hrs by bus')],
+    bus: [['Golubac', '골루바츠 버스 정류장']],
+  },
   'novi-sad': {
     air: [BEG()],
     rail: [['Novi Sad', '노비사드역']],
     bus: [['Međumesna autobuska stanica Novi Sad', '노비사드 시외버스터미널', '기차역 옆|next to the rail station']],
   },
+  'sremski-karlovci': {
+    air: [BEG()],
+    rail: [['Sremski Karlovci', '스렘스키 카를로브치역']],
+    bus: [['Sremski Karlovci', '스렘스키 카를로브치 버스 정류장', '노비사드행 61·62번|buses 61 and 62 to Novi Sad']],
+  },
   nis: {
     air: [['Niš Constantine the Great (INI)', '니시 공항 (INI)']],
     rail: [['Niš', '니시역']],
     bus: [['Autobuska stanica Niš', '니시 버스터미널']],
+  },
+  zlatibor: {
+    air: [BEG('버스로 약 3시간 45분|About 3 hrs 45 by bus')],
+    bus: [['Autobuska stanica Zlatibor', '즐라티보르 버스터미널']],
+  },
+  kraljevo: {
+    air: [['Morava Airport (KVO)', '모라바 공항 (KVO)', '크랄레보|Kraljevo'], BEG()],
+    rail: [['Kraljevo', '크랄레보역']],
+    bus: [['Autobuska stanica Kraljevo', '크랄레보 버스터미널']],
   },
   subotica: {
     air: [BEG()],

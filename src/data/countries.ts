@@ -1296,7 +1296,7 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#2A0A10',
     },
-    cityIds: ['belgrade', 'novi-sad', 'nis', 'subotica'],
+    cityIds: ['belgrade', 'golubac', 'novi-sad', 'sremski-karlovci', 'nis', 'zlatibor', 'kraljevo', 'subotica'],
   },
   {
     id: 'mk',

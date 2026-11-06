@@ -2210,3 +2210,28 @@ highlights/nis-3.jpg | https://commons.wikimedia.org/wiki/File:Crveni_Krst_conce
 highlights/novi-sad-4.jpg | https://commons.wikimedia.org/wiki/File:Novi_Sad_2022,_Zmaj_Jovina_street_02.jpg | CC0 | Imeao
 highlights/novi-sad-6.jpg | https://commons.wikimedia.org/wiki/File:Fruska_gora_-_Novo_Hopovo_monastery.jpg | CC BY-SA 4.0 | Pudelek
 highlights/subotica-6.jpg | https://commons.wikimedia.org/wiki/File:Pa%C5%82ac_Rajhla_(Galeria_Sztuki_Wsp%C3%B3%C5%82czesnej)_w_Suboticy.jpg | CC BY-SA 4.0 | Marcin Konsek
+cities/zlatibor.jpg | https://commons.wikimedia.org/wiki/File:Zlatibor_-_Tornik,_Ski_school,_winter_2016.jpg | CC BY-SA 3.0 | Darkokoracwik
+highlights/zlatibor-1.jpg | https://commons.wikimedia.org/wiki/File:Zlatibor_2023._06.jpg | CC0 | ZABAKATAVA
+highlights/zlatibor-2.jpg | https://commons.wikimedia.org/wiki/File:Zlatibor_gondola_01.jpg | CC BY-SA 4.0 | Pears34love
+highlights/zlatibor-3.jpg | https://commons.wikimedia.org/wiki/File:Stopi%C4%87a_pe%C4%87ina.jpg | CC BY-SA 4.0 | Panonskimornar
+highlights/zlatibor-4.jpg | https://commons.wikimedia.org/wiki/File:Staro_Selo_-_Sirogojno5.JPG | Public domain | Bukephalos
+highlights/zlatibor-5.jpg | https://commons.wikimedia.org/wiki/File:DD_88_Mokra_Gora_2003-09-27.jpg | CC BY 4.0 | Herbert Ortner
+highlights/zlatibor-6.jpg | https://commons.wikimedia.org/wiki/File:Drvengrad.jpg | CC BY-SA 3.0 | This image was made by White Writer.
+cities/sremski-karlovci.jpg | https://commons.wikimedia.org/wiki/File:Sremski_Karlovci,_Patriarha_Ra%C4%8Daji%C4%87a.jpg | CC BY 3.0 | I would appreciate being notified if you use my work outside
+highlights/sremski-karlovci-1.jpg | https://commons.wikimedia.org/wiki/File:Fountain_%22Four_Lions%22.jpg | CC BY-SA 3.0 | This image was made by White Writer.
+highlights/sremski-karlovci-2.jpg | https://commons.wikimedia.org/wiki/File:St_Nicholas_Cathedral_in_Sremski_Karlovci.jpg | CC BY-SA 3.0 | Paelb
+highlights/sremski-karlovci-3.jpg | https://commons.wikimedia.org/wiki/File:Gymnasium_of_Karlovci_8196_10.jpg | CC BY-SA 4.0 | Ванилица
+highlights/sremski-karlovci-4.jpg | https://commons.wikimedia.org/wiki/File:Muzej_p%C4%8Delarstva_u_Sremskim_Karlovcima_20.jpg | CC BY-SA 4.0 | Djuka137
+highlights/sremski-karlovci-5.jpg | https://commons.wikimedia.org/wiki/File:Kapela_mira_8380_34.jpg | CC BY-SA 4.0 | Ванилица
+highlights/sremski-karlovci-6.jpg | https://commons.wikimedia.org/wiki/File:Kru%C5%A1edol_6.jpg | CC BY-SA 4.0 | 11sasapus11
+cities/golubac.jpg | https://commons.wikimedia.org/wiki/File:Golubac.JPG | CC BY-SA 3.0 | Denis Barthel
+highlights/golubac-1.jpg | https://commons.wikimedia.org/wiki/File:Golubac_grad_2019_08.jpg | CC BY-SA 4.0 | BuhaM
+highlights/golubac-2.jpg | https://commons.wikimedia.org/wiki/File:Danube_Golubac_05.jpg | CC BY-SA 4.0 | Miomir Magdevski
+highlights/golubac-3.jpg | https://commons.wikimedia.org/wiki/File:Lepenski_vir_2.JPG | CC BY-SA 3.0 | Nemezis
+highlights/golubac-4.jpg | https://commons.wikimedia.org/wiki/File:Iron_Gate_(Serbia-Romania)_in_2016_-_03.jpg | CC BY-SA 4.0 | Pudelek
+highlights/golubac-5.jpg | https://commons.wikimedia.org/wiki/File:Viminacium_kostolac_pozarevac3.JPG | CC BY-SA 3.0 | Saskafoto
+cities/kraljevo.jpg | https://commons.wikimedia.org/wiki/File:Kraljevo,_centar_02.jpg | CC BY-SA 4.0 | BrankaVV
+highlights/kraljevo-1.jpg | https://commons.wikimedia.org/wiki/File:Kraljevo_milutin.jpg | Public domain | Original uploader was sr:Корисник:Dd.fan bgd at sr.wikipedia
+highlights/kraljevo-2.jpg | https://commons.wikimedia.org/wiki/File:Manastir_%C5%BDi%C4%8Da_(by_Pudelek).JPG | CC BY-SA 3.0 | Pudelek
+highlights/kraljevo-3.jpg | https://commons.wikimedia.org/wiki/File:Studenica_monastery_(Manastir_Studenica)_-_by_Pudelek.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/kraljevo-4.jpg | https://commons.wikimedia.org/wiki/File:Magli%C4%8D_fortress.JPG | CC BY-SA 3.0 | User:Vladsegrt

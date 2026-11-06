@@ -1262,6 +1262,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'subotica',
       tip: '헝가리풍 아르누보 시청과 시나고그를 봅니다.|The Hungarian Art Nouveau town hall and synagogue.',
     },
+    {
+      to: 'sremski-karlovci',
+      tip: '버스로 약 30분. 바로크 광장과 대성당, 베르멧 와인 저장고를 봅니다.|About 30 min by bus: the Baroque square, the cathedral and the Bermet wine cellars.',
+    },
   ],
   skopje: [
     {

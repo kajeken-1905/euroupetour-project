@@ -1694,8 +1694,15 @@ export const STAY: Record<string, StayArea[]> = {
   podgorica: [
     a('시내 중심', 'City centre', 'Podgorica city centre', '걸어서 구경·가성비|Walkable, good value', '숙소 대부분이 모여 있고 볼거리가 걸어서 닿으며 값이 싼 편입니다.|Most hotels are here, the sights are walkable and prices are low.'),
   ],
+  golubac: [
+    a('골루바츠 마을', 'Golubac village', 'Golubac', '마을에서 묵기|Stay in the village', '강변에 민박과 작은 호텔이 있습니다. 협곡을 둘러보려면 차가 편합니다.|Guesthouses and small hotels along the river; a car helps for the gorge.'),
+  ],
   'novi-sad': [
     a('구시가 (즈마이 요비나 거리·자유 광장)', 'Old town (Zmaj Jovina and Liberty Square)', 'Zmaj Jovina, Novi Sad', '걸어서·카페|On foot, cafés', '보행자 거리에 카페·식당이 늘어서 있고 페트로바라딘 요새는 다리 건너 가깝습니다. 보행자 거리 바로 옆은 밤에 시끄러울 수 있습니다.|A pedestrian street of cafés and restaurants, with Petrovaradin Fortress just over the bridge; right by the street it can be noisy at night.'),
+  ],
+  'sremski-karlovci': [
+    a('구시가 (광장 주변)', 'Old town (around the square)', 'Sremski Karlovci', '마을에서 묵기|Stay in the town', '광장과 와인 저장고가 걸어서 닿습니다.|The square and wine cellars on foot.'),
+    a('노비사드에서 다녀오기', 'Base in Novi Sad', 'Novi Sad', '거점에서 다녀오기|Day trip from a base', '버스로 약 30분입니다.|About 30 min by bus.'),
   ],
   nis: [
     a('시내 중심 (밀란 왕 광장·니샤바강 변)', 'Centre (King Milan Square and the Nišava)', 'King Milan Square, Niš', '걸어서 구경|Sights on foot', '작은 도심이라 니시 요새와 식당가가 걸어서 닿습니다.|A compact centre where Niš Fortress and the restaurants are walkable.'),
@@ -1870,6 +1877,13 @@ export const STAY: Record<string, StayArea[]> = {
   aalborg: [
     a('시내 중심', 'City centre', 'Aalborg centrum', '처음이라면|First visit', '보행자 거리와 펍·클럽(요므프루 아네 거리), 교통이 모여 있습니다.|Pedestrian streets, pubs and clubs (Jomfru Ane Gade) and good transport links.'),
     a('베스테르브로·중앙역 주변', 'Vesterbro and the station', 'Aalborg Station', '가성비·기차|Value, trains', '시내 서쪽으로 저렴한 호텔·호스텔이 있고 기차 여행에 편합니다.|West of the centre, with budget hotels and hostels, handy for trains.'),
+  ],
+  zlatibor: [
+    a('즐라티보르 중심가', 'Zlatibor centre', 'Zlatibor centre', '처음 가는 여행에 추천|Best for a first visit', '호수와 곤돌라, 버스터미널이 걸어서 닿습니다.|The lake, the gondola and the bus station on foot.'),
+    a('모크라 고라', 'Mokra Gora', 'Mokra Gora', '열차·나무 마을 가까이|Near the railway', '샤르간 8과 드르벤그라드 바로 옆 산골 마을입니다.|The mountain village right by the Šargan Eight and Drvengrad.'),
+  ],
+  kraljevo: [
+    a('시내 중심', 'Town centre', 'Kraljevo centre', '거점에서 다녀오기|Base for day trips', '광장 주변에 호텔과 식당이 모여 있습니다. 수도원은 차나 투어로 다녀옵니다.|Hotels and restaurants cluster round the square; reach the monasteries by car or tour.'),
   ],
   subotica: [
     a('시내 중심 (시청·코르소 주변)', 'Centre (City Hall and the Korzo)', 'Subotica City Hall', '걸어서 아르누보 건축|Art Nouveau on foot', '시청과 시나고그 등 주요 볼거리를 걸어서 보고, 해 질 녘 건물이 가장 예쁩니다.|City Hall, the synagogue and the main sights on foot; the buildings glow best at sunset.'),

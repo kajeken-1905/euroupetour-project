@@ -2323,5 +2323,110 @@
     44.78444,
     20.38104,
     "OSM Nominatim: Ада Циганлија, Градска општина Чукарица, Град Београд, Центр"
+  ],
+  "golubac-h1": [
+    44.66119,
+    21.67848,
+    "Wikipedia: Golubac Fortress"
+  ],
+  "golubac-h3": [
+    44.56111,
+    22.02417,
+    "Wikipedia: Lepenski Vir (site museum)"
+  ],
+  "golubac-h4": [
+    44.61293,
+    22.2767,
+    "OSM Nominatim: Ploče viewpoint over the Kazan gorge, Tekija"
+  ],
+  "golubac-h5": [
+    44.73507,
+    21.22759,
+    "OSM Nominatim: Viminacium, Kostolac"
+  ],
+  "kraljevo-h4": [
+    43.61371,
+    20.55231,
+    "OSM Nominatim: Maglič (fortress)"
+  ],
+  "sremski-karlovci-h1": [
+    45.20318,
+    19.93389,
+    "OSM Nominatim: Trg Branka Radičevića (fountain on the square)"
+  ],
+  "zlatibor-h1": [
+    43.72584,
+    19.70364,
+    "OSM Nominatim: Краљеве воде, Златибор, Општина Чајетина, Златиборски управн"
+  ],
+  "zlatibor-h2": [
+    43.72292,
+    19.69455,
+    "OSM Nominatim: Голд гондола Златибор, Миладина Пећинара, Краљеве воде, Злат"
+  ],
+  "zlatibor-h3": [
+    43.70225,
+    19.85516,
+    "OSM Nominatim: Стопића пећина, Трнавски крш, Тошићи, Трнава, Општина Чајети (Wikipedia 13m)"
+  ],
+  "zlatibor-h4": [
+    43.68901,
+    19.88006,
+    "OSM Nominatim: Музеј Старо село, Протојереја Георгија Цмиљанића, Сирогојно, (Wikipedia 323m)"
+  ],
+  "zlatibor-h5": [
+    43.79343,
+    19.53571,
+    "OSM Nominatim: Šarganska osmica, Војводе Бојовића, Рабасовићи, Месна заједн"
+  ],
+  "zlatibor-h6": [
+    43.79591,
+    19.50853,
+    "OSM Nominatim: Дрвенград, Џима Џармуша, Шпијуновићи, Месна заједница Мокра  (Wikipedia 47m)"
+  ],
+  "sremski-karlovci-h2": [
+    45.20293,
+    19.9344,
+    "OSM Nominatim: Саборна црква Светог Николе, Трг Бранка Радичевића, Општина "
+  ],
+  "sremski-karlovci-h3": [
+    45.20186,
+    19.93372,
+    "OSM Nominatim: Карловачка гимназија, 1, Карловачких ђака, Дудара, Општина С (Wikipedia 22m)"
+  ],
+  "sremski-karlovci-h4": [
+    45.19912,
+    19.94058,
+    "OSM Nominatim: Музеј пчеларства, Митрополита Стратимировића, Белило, Општин (Wikipedia 681m)"
+  ],
+  "sremski-karlovci-h5": [
+    45.19746,
+    19.94093,
+    "OSM Nominatim: Капела Госпе од мира, Карловачког мира, Белило, Општина Срем"
+  ],
+  "sremski-karlovci-h6": [
+    45.11948,
+    19.9404,
+    "OSM Nominatim: Манастир Крушедол, Драгољуба Јанковића, Крушедол Прњавор, Оп (Wikipedia 47m)"
+  ],
+  "golubac-h2": [
+    44.65311,
+    21.63052,
+    "OSM Nominatim: Голубац, Општина Голубац, Браничевски управни округ, Централ (Wikipedia 411m)"
+  ],
+  "kraljevo-h1": [
+    43.72369,
+    20.68728,
+    "OSM Nominatim: Трг Српских ратника, Ратарско имање, Рибница, Краљево, Град  (Wikipedia 20m)"
+  ],
+  "kraljevo-h2": [
+    43.69559,
+    20.64592,
+    "OSM Nominatim: Манастир Жича, Стефана Првовенчаног Жича, Готовац, Жича, Гра (Wikipedia 80m)"
+  ],
+  "kraljevo-h3": [
+    43.48654,
+    20.53165,
+    "OSM Nominatim: Манастир Студеница, Немањина, Брезова, Град Краљево, Рашки у (Wikipedia 408m)"
   ]
 }

@@ -4990,6 +4990,15 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('flixbus'),
     ],
   },
+  golubac: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 요새는 걸어서 다닙니다(강변길로 약 4km). 협곡과 유적은 차나 투어가 편합니다.',
+      en: 'Walk the village and out to the fortress (about 4 km along the river); a car or tour is easier for the gorge and sites.',
+    },
+    apps: [
+    ],
+  },
   'novi-sad': {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -5001,6 +5010,15 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('flixbus'),
     ],
   },
+  'sremski-karlovci': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 노비사드행 버스가 자주 다닙니다.',
+      en: 'Walk the town; buses to Novi Sad are frequent.',
+    },
+    apps: [
+    ],
+  },
   nis: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -5010,6 +5028,24 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('nicard', { ko: '시내 교통 공식 앱', en: 'Official transit app' }),
       ta('flixbus'),
+    ],
+  },
+  zlatibor: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '중심가는 걸어서 다닙니다. 동굴·민속 마을·모크라 고라는 대중교통이 드물어 차나 투어가 편합니다.',
+      en: 'Walk the centre; public transport to the cave, the village museum and Mokra Gora is sparse, so a car or tour is easier.',
+    },
+    apps: [
+    ],
+  },
+  kraljevo: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 수도원과 요새는 차나 택시, 투어가 편합니다.',
+      en: 'Walk the centre; a car, taxi or tour is easiest for the monasteries and fortress.',
+    },
+    apps: [
     ],
   },
   subotica: {
