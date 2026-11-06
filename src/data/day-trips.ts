@@ -715,6 +715,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'durnstein',
       tip: '크렘스에서 버스로 뒤른슈타인에 가 파란 탑과 성터를 보고, 봄~가을엔 배로 멜크 수도원까지 올라갑니다.|By bus from Krems to Dürnstein for the blue tower and the castle ruins, then in season the boat up to Melk Abbey.',
     },
+    {
+      to: 'sopron',
+      tip: '기차로 약 1시간 30분. 국경 너머 헝가리의 중세 성벽 도시와 불의 탑을 봅니다.|About 1 hr 30 by train: Hungary’s walled medieval border town and its Firewatch Tower.',
+    },
   ],
   budapest: [
     {
@@ -729,6 +733,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'tihany',
       tip: '기차와 버스로 약 2시간 20분. 언덕 위 수도원에서 발라톤 호수를 내려다보고 분화구 호수를 걷습니다.|About 2 hrs 20 by train and bus: Lake Balaton from the abbey on the hill, and a walk round the crater lake.',
       how: '기차·버스로 약 2시간 20분(발라톤퓌레드 환승)|About 2 hrs 20 by train and bus (change at Balatonfüred)',
+    },
+    {
+      to: 'gyor',
+      tip: '기차로 약 1시간 20분. 바로크 구시가와 대성당을 보고 판논할마 대수도원까지 다녀옵니다.|About 1 hr 20 by train: the Baroque old town and cathedral, plus Pannonhalma Archabbey.',
+    },
+    {
+      to: 'holloko',
+      tip: '버스로 약 2시간 30분(환승). 유네스코 팔로츠 민속 마을과 언덕 위 성을 봅니다.|About 2 hrs 30 by bus with a change: the UNESCO Palóc village and its hilltop castle.',
     },
   ],
   prague: [

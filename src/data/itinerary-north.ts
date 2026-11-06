@@ -68,6 +68,11 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   debrecen: { days: [['', 4, 1, 6, 2, 3, 5]], trips: [['호르토바지|Hortobágy', 7]] },
   pecs: { days: [['', 5, 2, 1, 3, 6, 4]], trips: [['빌라니|Villány', 7]] },
   szeged: { days: [['', 2, 1, 7, 3, 6, 5, 4]], trips: [['오푸스터세르|Ópusztaszer', 8]] },
+  gyor: { days: [['', 1, 2, 3, 4]], trips: [['판논할마 대수도원|Pannonhalma Archabbey', 5]] },
+  sopron: { days: [['', 1, 2, 3, 4]], trips: [['에스테르하지 궁전|Esterházy Palace', 5], ['페르퇴라코시 채석장|Fertőrákos Quarry', 6]] },
+  holloko: [1, 4, 3, 2],
+  tokaj: { days: [['', 1, 2, 3, 4]], trips: [['사로슈퍼터크|Sárospatak', 5]] },
+  keszthely: { days: [['', 1, 4, 3], ['헤비즈|Hévíz', 2]], trips: [['바다초니|Badacsony', 5]] },
   tihany: [1, 2, 3, 4, 5, 6],
   eger: [1, 2, 3, 6, 5, 7, 4],
   prague: {

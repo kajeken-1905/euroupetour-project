@@ -1653,5 +1653,130 @@
     47.89835,
     20.38237,
     "OSM Nominatim: Török Fürdő, Fürdő utca, Érsekkert, Eger, Egri járás, Heves  (Wikipedia 577m)"
+  ],
+  "gyor-h1": [
+    47.68823,
+    17.63424,
+    "OSM Nominatim: Széchenyi tér, Belváros, Győr, Győri járás, Győr-Moson-Sopro (Wikipedia 449m)"
+  ],
+  "gyor-h2": [
+    47.68903,
+    17.63143,
+    "OSM Nominatim: Nagyboldogasszony-székesegyház, Apor Vilmos püspök tere, Bel"
+  ],
+  "gyor-h3": [
+    47.69024,
+    17.63365,
+    "OSM Nominatim: Dunakapu tér, Belváros, Győr, Győri járás, Győr-Moson-Sopron (Wikipedia 674m)"
+  ],
+  "gyor-h4": [
+    47.68796,
+    17.62639,
+    "OSM Nominatim: Rába Quelle Gyógyászat, Palotai Károly tér, Sziget, Győr, Gy (Wikipedia 732m)"
+  ],
+  "gyor-h5": [
+    47.54933,
+    17.76349,
+    "OSM Nominatim: Pannonhalmi Főapátság, Váralja, Tabán, Újtelep, Pannonhalma, (Wikipedia 423m)"
+  ],
+  "sopron-h1": [
+    47.6868,
+    16.59137,
+    "OSM Nominatim: Tűztorony, Fő tér, Belváros, Sopron, Soproni járás, Győr-Mos"
+  ],
+  "sopron-h2": [
+    47.68613,
+    16.59047,
+    "OSM Nominatim: Nagyboldogasszony-templom, 1, Templom utca, Belváros, Sopron"
+  ],
+  "sopron-h3": [
+    47.68668,
+    16.59116,
+    "OSM Nominatim: Storno-ház, 8, Fő tér, Belváros, Sopron, Soproni járás, Győr (Wikipedia 639m)"
+  ],
+  "sopron-h5": [
+    47.62101,
+    16.87065,
+    "OSM Nominatim: Esterházy-kastély, Joseph Haydn út, Baross-telep, Eszterháza (Wikipedia 91m)"
+  ],
+  "sopron-h6": [
+    47.72627,
+    16.64331,
+    "OSM Nominatim: Fertőrákosi kőfejtő, 1, Golgota, Fertőrákos, Soproni járás,  (Wikipedia 938m)"
+  ],
+  "holloko-h1": [
+    47.99862,
+    19.58347,
+    "OSM Nominatim: Hollókő ófalu és környezete, Hollókő, Szécsényi járás, Nógrá"
+  ],
+  "holloko-h2": [
+    47.99771,
+    19.58185,
+    "OSM Nominatim: Hollókői vár, 057/1, Kossuth út, Hollókő, Szécsényi járás, N"
+  ],
+  "holloko-h3": [
+    47.99898,
+    19.58787,
+    "OSM Nominatim: Falumúzeum, Kossuth út, Hollókő, Szécsényi járás, Nógrád meg (Wikipedia 910m)"
+  ],
+  "holloko-h4": [
+    47.99911,
+    19.5881,
+    "OSM Nominatim: Tours-i Szent Márton-templom, 83, Kossuth út, Hollókő, Szécs (Wikipedia 891m)"
+  ],
+  "tokaj-h1": [
+    48.12565,
+    21.40647,
+    "OSM Nominatim: Kossuth tér, Óváros, Kistokaj, Tokaj, Tokaji járás, Borsod-A"
+  ],
+  "tokaj-h2": [
+    48.12771,
+    21.40979,
+    "Google Maps: former synagogue, Bodrog u., Tokaj (Commons photo coord 25m)"
+  ],
+  "tokaj-h3": [
+    48.12555,
+    21.40804,
+    "OSM Nominatim: Rákóczi Pince, Kossuth tér, Óváros, Kistokaj, Tokaj, Tokaji "
+  ],
+  "tokaj-h4": [
+    48.12023,
+    21.38178,
+    "OSM Nominatim: Kopasz-hegy, Tokaj, Tokaji járás, Borsod-Abaúj-Zemplén megye"
+  ],
+  "tokaj-h5": [
+    48.31559,
+    21.5689,
+    "OSM Nominatim: Rákóczi-vár, Szent Erzsébet utca, Kispatak, Sárospatak, Sáro"
+  ],
+  "keszthely-h1": [
+    46.77073,
+    17.2419,
+    "OSM Nominatim: Festetics-kastély, 1, Kastély utca, Keszthely, Keszthelyi já (Wikipedia 21m)"
+  ],
+  "keszthely-h2": [
+    46.78682,
+    17.19282,
+    "OSM Nominatim: Hévízi-tó, Egregy, Hévíz, Keszthelyi járás, Zala megye, Duná (Wikipedia 48m)"
+  ],
+  "keszthely-h4": [
+    46.75876,
+    17.24238,
+    "OSM Nominatim: Balatoni Múzeum, 2, Múzeum utca, Helikonliget, Keszthely, Ke"
+  ],
+  "sopron-h4": [
+    47.68488,
+    16.59037,
+    "OSM Nominatim: Ózsinagóga, Új utca 22, Sopron"
+  ],
+  "keszthely-h3": [
+    46.75825,
+    17.25578,
+    "OSM Nominatim: Keszthely kikötő, Mikus Gyula sétány, Keszthely"
+  ],
+  "keszthely-h5": [
+    46.80329,
+    17.49617,
+    "OSM Nominatim: Badacsony, Badacsonytomaj (Wikipedia: Badacsony)"
   ]
 }

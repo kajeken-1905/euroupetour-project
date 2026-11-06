@@ -1,0 +1,90 @@
+{
+"gyor-h1": [
+"Széchenyi tér, Győr",
+"Győr"
+],
+"gyor-h2": [
+"Nagyboldogasszony-székesegyház, Győr",
+"Győr Basilica"
+],
+"gyor-h3": [
+"Dunakapu tér, Győr",
+"Győr"
+],
+"gyor-h4": [
+"Rába Quelle, Győr",
+"Győr"
+],
+"gyor-h5": [
+"Pannonhalmi Főapátság",
+"Pannonhalma Archabbey"
+],
+"sopron-h1": [
+"Tűztorony, Sopron",
+"Firewatch Tower (Sopron)"
+],
+"sopron-h2": [
+"Kecske-templom, Sopron",
+"Goat Church"
+],
+"sopron-h3": [
+"Storno-ház, Sopron",
+"Sopron"
+],
+"sopron-h5": [
+"Esterházy-kastély, Fertőd",
+"Esterháza"
+],
+"sopron-h6": [
+"Fertőrákosi kőfejtő",
+"Fertőrákos"
+],
+"holloko-h1": [
+"Hollókő Ófalu",
+"Hollókő"
+],
+"holloko-h2": [
+"Hollókői vár",
+"Hollókő Castle"
+],
+"holloko-h3": [
+"Falumúzeum, Hollókő",
+"Hollókő"
+],
+"holloko-h4": [
+"Szent Márton templom, Hollókő",
+"Hollókő"
+],
+"tokaj-h1": [
+"Kossuth tér, Tokaj",
+"Tokaj"
+],
+"tokaj-h2": [
+"Tokaji Múzeum, Tokaj",
+"Tokaj"
+],
+"tokaj-h3": [
+"Rákóczi pince, Tokaj",
+"Tokaj"
+],
+"tokaj-h4": [
+"Kopasz-hegy, Tokaj",
+"Tokaj"
+],
+"tokaj-h5": [
+"Rákóczi-vár, Sárospatak",
+"Sárospatak Castle"
+],
+"keszthely-h1": [
+"Festetics-kastély, Keszthely",
+"Festetics Palace"
+],
+"keszthely-h2": [
+"Hévízi-tó",
+"Lake Hévíz"
+],
+"keszthely-h4": [
+"Balatoni Múzeum, Keszthely",
+"Keszthely"
+]
+}

@@ -64,6 +64,12 @@ export const STAY: Record<string, StayArea[]> = {
     a('마을에서 묵기', 'In the town', 'Szentendre', '마을에서 묵기|Stay in the village', '작은 호텔과 게스트하우스가 있어 저녁의 조용한 골목을 볼 수 있습니다.|Small hotels and guesthouses, with the lanes at their quietest in the evening.'),
     a('부다페스트에서 다녀오기', 'Base in Budapest', 'Budapest', '거점에서 다녀오기|Day trip from a base', '바차니 광장에서 교외선 H5로 약 40분입니다. 부다페스트 시내 교통권은 시 경계까지만 유효해 추가 표가 필요합니다.|About 40 min on suburban line H5 from Batthyány tér; Budapest city passes stop at the city boundary, so buy an extension ticket.'),
   ],
+  gyor: [
+    a('구시가', 'Old town', 'Győr old town', '처음 가는 여행에 추천|Best for a first visit', '광장과 대성당, 강변이 걸어서 닿고 역에서도 걸어서 약 10분입니다.|The square, cathedral and riverside on foot, about 10 min’s walk from the station.'),
+  ],
+  sopron: [
+    a('성벽 안 구시가와 주변', 'Inside the old walls', 'Sopron old town', '처음 가는 여행에 추천|Best for a first visit', '불의 탑과 광장이 걸어서 닿고 역까지 걸어서 약 10분입니다.|The Firewatch Tower and square on foot, about 10 min’s walk from the station.'),
+  ],
   budapest: [
     a('5구 (벨바로시)', 'District V (Belváros-Lipótváros)', 'District V, Budapest', '처음 가는 여행에 추천|Best for a first visit', '국회의사당과 성 이슈트반 대성당을 걸어서 다닙니다. 가장 싼 곳은 아닙니다.|Parliament and St Stephen’s Basilica on foot; not the cheapest.'),
     a('7구 (에르제베트바로시)', 'District VII (Erzsébetváros)', 'District VII, Budapest', '밤 문화|Nightlife', '유대인 지구와 폐허 바(심플라 케르트 등)가 모여 있어 밤에 시끄러울 수 있습니다.|The Jewish Quarter and ruin bars such as Szimpla Kert; it can be noisy at night.'),
@@ -1403,6 +1409,17 @@ export const STAY: Record<string, StayArea[]> = {
   tihany: [
     a('마을에서 묵기', 'In the town', 'Tihany', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('발라톤퓌레드에서 다녀오기', 'Base in Balatonfüred', 'Balatonfüred', '거점에서 다녀오기|Day trip from a base', '버스로 약 15분입니다.|About 15 min by bus.'),
+  ],
+  holloko: [
+    a('옛 마을 민박', 'Guesthouses in the old village', 'Hollókő', '마을에서 묵기|Stay in the village', '옛집을 고친 민박에서 묵으면 당일 손님이 떠난 저녁 마을을 볼 수 있습니다.|Sleep in a restored farmhouse to see the village once the day-trippers leave.'),
+    a('부다페스트에서 다녀오기', 'Base in Budapest', 'Budapest', '거점에서 다녀오기|Day trip from a base', '버스로 약 2시간 30분이라 이른 출발이 필요합니다.|About 2 hrs 30 by bus, so start early.'),
+  ],
+  tokaj: [
+    a('마을 중심 (코슈트 광장 주변)', 'Town centre (Kossuth Square)', 'Kossuth tér, Tokaj', '와인 저장고 가까이|Near the cellars', '저장고와 식당이 걸어서 닿아 시음 뒤 돌아가기 편합니다.|Cellars and restaurants on foot, so no trip back after a tasting.'),
+  ],
+  keszthely: [
+    a('시내 중심 (궁전 주변)', 'Town centre (near the palace)', 'Keszthely centre', '처음 가는 여행에 추천|Best for a first visit', '궁전과 식당, 버스터미널이 가깝고 호숫가까지 걸어서 약 15분입니다.|Close to the palace, restaurants and the bus station; the lakeshore is about 15 min on foot.'),
+    a('헤비즈', 'Hévíz', 'Hévíz', '온천 휴양|Spa stay', '온천 호텔이 모여 있어 온천 위주로 쉬기 좋습니다. 케스트헤이까지 버스로 약 30분입니다.|Spa hotels cluster here—good for a thermal break; about 30 min by bus to Keszthely.'),
   ],
   eger: [
     a('구시가 (도보 광장 주변)', 'Old town (Dobó Square)', 'Dobó tér, Eger', '성·광장·식당|Castle, square, restaurants', '에게르 성과 바로크 광장, 식당이 걸어서 닿습니다.|Eger Castle, the Baroque square and restaurants on foot.'),

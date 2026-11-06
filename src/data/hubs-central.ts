@@ -855,9 +855,24 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [BUD('기차·버스로 약 3시간|About 3 hrs by train and bus')],
     rail: [['Balatonfüred', '발라톤퓌레드역', '티하니까지 7355번 버스로 약 15분|bus 7355 to Tihany, about 15 min']],
   },
+  keszthely: {
+    air: [['Hévíz–Balaton (SOB)', '헤비즈-발라톤 공항 (SOB)', '사르멜레크|Sármellék'], BUD()],
+    rail: [['Keszthely', '케스트헤이역']],
+    bus: [['Keszthely autóbusz-állomás', '케스트헤이 버스터미널']],
+  },
   szentendre: {
     air: [BUD()],
     rail: [['Szentendre HÉV', '센텐드레 HÉV역', '부다페스트 바차니 광장행 교외선 H5|suburban line H5 to Batthyány tér']],
+  },
+  gyor: {
+    air: [VIE('오스트리아 빈 · 기차로 약 1시간 30분|Vienna, Austria · about 1 hr 30 by train'), BUD()],
+    rail: [['Győr', '죄르역']],
+    bus: [['Győr autóbusz-állomás', '죄르 버스터미널']],
+  },
+  sopron: {
+    air: [VIE('오스트리아 빈 · 기차로 약 1시간 30분|Vienna, Austria · about 1 hr 30 by train'), BUD()],
+    rail: [['Sopron', '쇼프론역']],
+    bus: [['Sopron autóbusz-állomás', '쇼프론 버스터미널']],
   },
   budapest: {
     air: [['Budapest Liszt Ferenc (BUD)', '부다페스트 공항 (BUD)']],
@@ -887,6 +902,14 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [BUD()],
     rail: [['Eger', '에게르역']],
     bus: [['Eger autóbusz-állomás', '에게르 버스터미널']],
+  },
+  holloko: {
+    air: [BUD('버스로 약 2시간 30분|About 2 hrs 30 by bus')],
+    bus: [['Hollókő', '홀로쾨 버스 정류장']],
+  },
+  tokaj: {
+    air: [['Debrecen (DEB)', '데브레첸 공항 (DEB)', '데브레첸|Debrecen'], BUD()],
+    rail: [['Tokaj', '토카이역', '마을까지 걸어서 약 15분|about 15 min on foot to the town']],
   },
 
   // —— pl ——

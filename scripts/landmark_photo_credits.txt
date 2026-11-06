@@ -2081,3 +2081,33 @@ highlights/szeged-7.jpg | https://commons.wikimedia.org/wiki/File:Facade_of_the_
 highlights/szeged-8.jpg | https://commons.wikimedia.org/wiki/File:MVSZ-h%C3%A1z_%C3%93pusztaszer.JPG | Public domain | Csanády
 highlights/eger-6.jpg | https://commons.wikimedia.org/wiki/File:Eger_Cathedral.jpg | CC BY-SA 2.5 hu | Székesegyház_(Szent_János_apostol_és_főangyal,_Szent_Mihály_
 highlights/eger-7.jpg | https://commons.wikimedia.org/wiki/File:Listed_Turkish_bath_in_Eger,_2016_Hungary.jpg | CC BY-SA 3.0 | Globetrotter19
+cities/gyor.jpg | https://commons.wikimedia.org/wiki/File:Gyor_town_hall.jpg | CC BY-SA 4.0 | User:Slashme
+highlights/gyor-1.jpg | https://commons.wikimedia.org/wiki/File:Sz%C3%A9chenyi_Square,_Gy%C5%91r_(5).jpg | CC BY 4.0 | MOs810
+highlights/gyor-2.jpg | https://commons.wikimedia.org/wiki/File:P%C3%BCsp%C3%B6kv%C3%A1r_Basilica_Minor_in_Gy%C5%91r_02.jpg | CC BY-SA 4.0 | Nxr-at
+highlights/gyor-3.jpg | https://commons.wikimedia.org/wiki/File:Dunakapu_Square.jpg | CC BY-SA 4.0 | S7inG R
+highlights/gyor-4.jpg | https://commons.wikimedia.org/wiki/File:Gy%C5%91r,_R%C3%A1ba_Quelle_Gy%C3%B3gy-,_Term%C3%A1l-_%C3%A9s_%C3%89lm%C3%A9nyf%C3%BCrd%C5%91.jpg | CC BY-SA 4.0 | Random photos 1989
+highlights/gyor-5.jpg | https://commons.wikimedia.org/wiki/File:Pannonhalma_-_Benc%C3%A9s_ap%C3%A1ts%C3%A1g.jpg | CC BY-SA 2.5 | Unknown authorUnknown author
+cities/sopron.jpg | https://commons.wikimedia.org/wiki/File:Sopron,_Villa_sori_panor%C3%A1ma_2022_04.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/sopron-1.jpg | https://commons.wikimedia.org/wiki/File:Fire_Tower_(Sopron,_Hungary).jpg | CC BY-SA 3.0 | HV~huwiki at Hungarian Wikipedia
+highlights/sopron-2.jpg | https://commons.wikimedia.org/wiki/File:Goat_Church_Sopron_02.jpg | CC BY-SA 4.0 | Zeitblick
+highlights/sopron-3.jpg | https://commons.wikimedia.org/wiki/File:SopronStornoFotoThalerTamas1.jpg | CC BY-SA 4.0 | Thaler Tamas
+highlights/sopron-5.jpg | https://commons.wikimedia.org/wiki/File:Esterh%C3%A1zy_Palace,_Fert%C5%91d,_20220426_1058_5447.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/sopron-6.jpg | https://commons.wikimedia.org/wiki/File:Fert%C5%91r%C3%A1kos,_the_Roman_quarry,_image_2.jpg | CC BY 3.0 | Dguendel
+cities/holloko.jpg | https://commons.wikimedia.org/wiki/File:Holl%C3%B3k%C5%91-panorama.jpg | CC BY-SA 3.0 | Pe-Jo
+highlights/holloko-1.jpg | https://commons.wikimedia.org/wiki/File:Holl%C3%B3k%C5%91_%C3%93falu_F%C5%91_utca_(r%C3%A9szlet)_002.jpg | CC BY 3.0 | Krzyżówki
+highlights/holloko-2.jpg | https://commons.wikimedia.org/wiki/File:Holl%C3%B3k%C5%91_Castle,_Hungary.jpg | CC BY-SA 3.0 | Takkk
+highlights/holloko-3.jpg | https://commons.wikimedia.org/wiki/File:Holl%C3%B3k%C5%91i_Falum%C3%BAzeum.jpg | CC BY-SA 3.0 | Pásztörperc at Hungarian Wikipedia
+highlights/holloko-4.jpg | https://commons.wikimedia.org/wiki/File:Holl%C3%B3k%C5%91i_templom.jpg | CC BY-SA 3.0 | Pásztörperc at Hungarian Wikipedia
+cities/tokaj.jpg | https://commons.wikimedia.org/wiki/File:Tokaj_(1).jpg | CC BY 4.0 | Elekes Andor
+highlights/tokaj-1.jpg | https://commons.wikimedia.org/wiki/File:Tokaj_place.jpg | CC BY-SA 3.0 | Pumi
+highlights/tokaj-3.jpg | https://commons.wikimedia.org/wiki/File:Tokaj_Rakoczi_pince.jpg | Public domain | PM
+highlights/tokaj-4.jpg | https://commons.wikimedia.org/wiki/File:Vineyard_near_Tokaj,_Hungary.jpg | CC BY-SA 4.0 | Pudelek
+highlights/tokaj-5.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A1rospatak_-_Castle.jpg | CC BY-SA 2.5 | Unknown authorUnknown author
+cities/keszthely.jpg | https://commons.wikimedia.org/wiki/File:Keszthely_town_centre_F%C3%B6_T%C3%A9r.JPG | CC BY-SA 3.0 | ColdCut
+highlights/keszthely-1.jpg | https://commons.wikimedia.org/wiki/File:Festetics-kast%C3%A9ly,_Angolpark_(Keszthely)_03.jpg | CC BY 4.0 | Derbrauni
+highlights/keszthely-2.jpg | https://commons.wikimedia.org/wiki/File:Medicinal_Bath_H%C3%A9v%C3%ADz_01.jpg | CC BY-SA 2.5 | Unknown authorUnknown author
+highlights/keszthely-3.jpg | https://commons.wikimedia.org/wiki/File:Pier,_Port_of_Keszthely,_2016_Hungary.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/keszthely-5.jpg | https://commons.wikimedia.org/wiki/File:Badacsony_Szigligetr%C5%91l.jpg | CC BY-SA 3.0 | hu:User:Pilgab
+highlights/sopron-4.jpg | https://commons.wikimedia.org/wiki/File:SopronZsinagogaFotoThalerTamas.JPG | CC BY-SA 3.0 | Thaler Tamas
+highlights/keszthely-4.jpg | https://commons.wikimedia.org/wiki/File:Balaton_Museum,_Keszthely_01.jpg | CC BY 4.0 | Derbrauni
+highlights/tokaj-2.jpg | https://commons.wikimedia.org/wiki/File:Tokaj.zsinagoga.jpg | CC BY-SA 2.5 | Stipkovits7 in Hungarian Wikipedia

@@ -943,7 +943,7 @@ export const countries: Country[] = [
       background: '#F8ECEE',
       text: '#2A0A10',
     },
-    cityIds: ['budapest', 'szentendre', 'debrecen', 'pecs', 'szeged', 'eger', 'tihany'],
+    cityIds: ['budapest', 'szentendre', 'gyor', 'sopron', 'debrecen', 'pecs', 'szeged', 'eger', 'holloko', 'tokaj', 'tihany', 'keszthely'],
   },
   {
     id: 'pl',

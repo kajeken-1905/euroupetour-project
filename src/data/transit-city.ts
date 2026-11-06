@@ -1877,6 +1877,26 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('budapestgo'),
     ],
   },
+  gyor: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 판논할마는 버스터미널에서 버스로 갑니다.',
+      en: 'Walk the old town; buses to Pannonhalma leave from the bus station.',
+    },
+    apps: [
+      ta('mav'),
+    ],
+  },
+  sopron: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 페르퇴드와 페르퇴라코시는 버스로 갑니다.',
+      en: 'Walk the old town; buses go to Fertőd and Fertőrákos.',
+    },
+    apps: [
+      ta('mav'),
+    ],
+  },
   budapest: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
@@ -1931,6 +1951,36 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: '마을과 수도원은 걸어서 다닙니다. 발라톤퓌레드와는 7355번 버스가 다니고, 호수 건너 샨토드로 가는 카페리가 있습니다(겨울엔 쉬는 기간이 있음).',
       en: 'Walk the village and abbey; bus 7355 runs to Balatonfüred, and a car ferry crosses to Szántód (with a winter break).',
+    },
+    apps: [
+      ta('mav'),
+    ],
+  },
+  holloko: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 버스편이 적으니 돌아가는 시간을 먼저 확인하세요.',
+      en: 'Walk the village; buses are few, so check the return times first.',
+    },
+    apps: [
+      ta('mav'),
+    ],
+  },
+  tokaj: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 역은 마을에서 걸어서 약 15분이고, 사로슈퍼터크는 기차로 갑니다.',
+      en: 'Walk the town; the station is about 15 min away on foot, and trains go to Sárospatak.',
+    },
+    apps: [
+      ta('mav'),
+    ],
+  },
+  keszthely: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 헤비즈는 버스로 약 30분, 바다초니는 기차로 갑니다.',
+      en: 'Walk the town; Hévíz is about 30 min by bus and trains go to Badacsony.',
     },
     apps: [
       ta('mav'),
