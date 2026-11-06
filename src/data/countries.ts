@@ -128,7 +128,7 @@ export const countries: Country[] = [
       background: '#E8F6EE',
       text: '#0A2A18',
     },
-    cityIds: ['dublin', 'galway', 'cork', 'killarney', 'kilkenny', 'limerick'],
+    cityIds: ['dublin', 'galway', 'doolin', 'cork', 'kinsale', 'killarney', 'dingle', 'kilkenny', 'limerick', 'westport'],
   },
   {
     id: 'im',

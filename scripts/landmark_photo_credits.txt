@@ -2035,3 +2035,30 @@ highlights/kilkenny-7.jpg | https://commons.wikimedia.org/wiki/File:Rock_of_Cash
 highlights/limerick-7.jpg | https://commons.wikimedia.org/wiki/File:Milk_Market_sign.jpg | CC BY-SA 4.0 | Sheila1988
 highlights/limerick-6.jpg | https://commons.wikimedia.org/wiki/File:The_Metropolitan_District_of_Limerick_City_-_St_Mary%27s_Cathedral,_Limerick_-_2025-09-29_19-10-09_001.jpeg | CC BY-SA 4.0 | Thoslee
 highlights/limerick-8.jpg | https://commons.wikimedia.org/wiki/File:Bunratty_Castle_and_Durty_Nellys,_Southeast_view_20150803_1.jpg | CC BY-SA 4.0 | DXR
+cities/dingle.jpg | https://commons.wikimedia.org/wiki/File:Dingle,_Co._Kerry,_Strand_Street_-_Gastronomie_%26_Hotellerie_(2012).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/dingle-1.jpg | https://commons.wikimedia.org/wiki/File:Cross_at_Slea_Head_-_geograph.org.uk_-_6121239.jpg | CC BY-SA 2.0 | Gareth James
+highlights/dingle-2.jpg | https://commons.wikimedia.org/wiki/File:Marina,_Dingle_Harbour_-_geograph.org.uk_-_6057916.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/dingle-3.jpg | https://commons.wikimedia.org/wiki/File:The_Dingle_Whiskey_Bar_at_Fraunces_Tavern_(51222280835).jpg | CC BY 2.0 | Billie Grace Ward from New York, USA
+highlights/dingle-4.jpg | https://commons.wikimedia.org/wiki/File:Statue_of_Tomas_O%27Criomhthain_at_the_Blasket_Centre_-_geograph.org.uk_-_5948488.jpg | CC BY-SA 2.0 | Humphrey Bolton
+highlights/dingle-5.jpg | https://commons.wikimedia.org/wiki/File:Gallarus_Oratory_Rainbow_20070916.jpg | CC BY-SA 3.0 | K. Jähne
+highlights/dingle-6.jpg | https://commons.wikimedia.org/wiki/File:Conor_Pass_-_geograph.org.uk_-_6096420.jpg | CC BY-SA 2.0 | Matthew Chadwick
+cities/doolin.jpg | https://commons.wikimedia.org/wiki/File:Doolin_-_Fisher_Street_-_Village_Area_-_Colourful_Buildings_at_East_End_of_Street_-_geograph.org.uk_-_3131002.jpg | CC BY-SA 2.0 | Suzanne Mischyshyn
+highlights/doolin-1.jpg | https://commons.wikimedia.org/wiki/File:Ireland_Cliffs_of_Moher_BW_2025-09-11_14-27-07.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/doolin-2.jpg | https://commons.wikimedia.org/wiki/File:Doolin_Cave,_Rd_R479_(506324)_(26325624154).jpg | CC BY 2.0 | Robert Linsdell from St. Andrews, Canada
+highlights/doolin-3.jpg | https://commons.wikimedia.org/wiki/File:Doonagore_Castle_County_Clare_2.jpg | CC BY-SA 4.0 | Michael Deligan
+highlights/doolin-4.jpg | https://commons.wikimedia.org/wiki/File:Poulnabrone_dolmen_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/doolin-5.jpg | https://commons.wikimedia.org/wiki/File:Cill_Ghobnait,_Inis_O%C3%ADrr_-_geograph.org.uk_-_2622937.jpg | CC BY-SA 2.0 | louise price
+cities/kinsale.jpg | https://commons.wikimedia.org/wiki/File:Kinsale_Marina_-_geograph.org.uk_-_6051530.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/kinsale-1.jpg | https://commons.wikimedia.org/wiki/File:Kinsale_-_Charles_Fort_-_20210728114416.jpg | CC BY-SA 4.0 | Jonjobaker
+highlights/kinsale-2.jpg | https://commons.wikimedia.org/wiki/File:Summercove_area_in_Kinsale_during_stormy_weather.jpg | CC0 | Podstawko
+highlights/kinsale-3.jpg | https://commons.wikimedia.org/wiki/File:Kinsale_Harbour.JPG | CC BY-SA 4.0 | User: (WT-shared) Spircle at  wts wikivoyage
+highlights/kinsale-4.jpg | https://commons.wikimedia.org/wiki/File:Kinsale_St_Multose_Church_20210728143727.jpg | CC BY-SA 4.0 | Jonjobaker
+highlights/kinsale-5.jpg | https://commons.wikimedia.org/wiki/File:Kinsale_-_Desmond_Castle_-_20080318152648.jpg | CC BY-SA 4.0 | Millars
+highlights/kinsale-6.jpg | https://commons.wikimedia.org/wiki/File:Memorial_Garden_at_the_Lusitania_Museum_%26_Signal_Tower,_Old_Head,_Kinsale.jpg | CC BY-SA 4.0 | DeFacto
+cities/westport.jpg | https://commons.wikimedia.org/wiki/File:Westport_Town_Hall,_Myrtle_Avenue.jpg | CC BY-SA 3.0 | WestportWiki
+highlights/westport-1.jpg | https://commons.wikimedia.org/wiki/File:Croagh_Patrick,_Mayo,_Ireland.jpg | CC BY-SA 2.0 | Vicuna R
+highlights/westport-2.jpg | https://commons.wikimedia.org/wiki/File:Westport_House_South_Face.jpg | CC BY-SA 4.0 | LAS30a
+highlights/westport-3.jpg | https://commons.wikimedia.org/wiki/File:The_Great_Western_Greenway_west_of_Nixon%27s_Lough,_Co_Mayo_-_geograph.org.uk_-_5220669.jpg | CC BY-SA 2.0 | Colin Park
+highlights/westport-4.jpg | https://commons.wikimedia.org/wiki/File:The_Octagon_in_Westport_-_geograph.org.uk_-_8151193.jpg | CC BY-SA 2.0 | Marathon
+highlights/westport-6.jpg | https://commons.wikimedia.org/wiki/File:Achill_Island,_County_Mayo_02.jpg | CC BY-SA 4.0 | Marco Ober
+highlights/westport-5.jpg | https://commons.wikimedia.org/wiki/File:Jan2026._National_Museum_of_Ireland_%E2%80%93_Country_Life,_County_Mayo,_Ireland_02.jpg | CC0 | Ridiculopathy

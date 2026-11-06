@@ -613,6 +613,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  doolin: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 골웨이·에니스 쪽 버스가 모허 절벽을 거쳐 가고, 버렌은 차나 투어로 갑니다.',
+      en: 'Walk around the village; buses towards Galway and Ennis stop at the Cliffs of Moher, and the Burren needs a car or tour.',
+    },
+    apps: [
+      ta('tfi-live', { ko: '노선·실시간', en: 'Routes, live times' }),
+    ],
+  },
   cork: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -627,6 +637,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  kinsale: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 찰스 요새는 걸어서 다닙니다. 코크와 코크 공항은 버스로 잇고, 올드 헤드는 차나 택시로 갑니다.',
+      en: 'Walk the town and out to Charles Fort; buses link Cork and Cork Airport, and the Old Head needs a car or taxi.',
+    },
+    apps: [
+      ta('tfi-live', { ko: '노선·실시간', en: 'Routes, live times' }),
+    ],
+  },
   killarney: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -637,6 +657,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('tfi-live', { ko: '노선·실시간', en: 'Routes, live times' }),
       ta('irish-rail'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+    ],
+  },
+  dingle: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 트럴리에서 275번 버스가 오가고, 슬레아 헤드와 코너 패스는 차나 투어로 갑니다.',
+      en: 'Walk the town; bus 275 links Tralee, and the Slea Head Drive and Conor Pass need a car or tour.',
+    },
+    apps: [
+      ta('tfi-live', { ko: '노선·실시간', en: 'Routes, live times' }),
     ],
   },
   kilkenny: {
@@ -663,6 +693,17 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('irish-rail'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber'),
+    ],
+  },
+  westport: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 크로 패트릭 입구는 버스나 택시로, 그린웨이는 자전거로, 아킬과 박물관은 차로 가는 편이 편합니다.',
+      en: 'Walk the town; take a bus or taxi to the foot of Croagh Patrick, a bike along the Greenway, and a car to Achill and the museum.',
+    },
+    apps: [
+      ta('tfi-live', { ko: '노선·실시간', en: 'Routes, live times' }),
+      ta('irish-rail'),
     ],
   },
   // —— be ——

@@ -1448,5 +1448,115 @@
     52.69666,
     -8.81203,
     "OSM Nominatim: Bunratty Castle, The Low Road, Bunratty, Drumline ED, Shanno (Wikipedia 25m)"
+  ],
+  "dingle-h1": [
+    52.09809,
+    -10.4553,
+    "OSM Nominatim: Ceann Sléibhe, R559, Toghroinn ceantair Ceann Trá, Kenmare M"
+  ],
+  "dingle-h4": [
+    52.13222,
+    -10.46321,
+    "OSM Nominatim: Ionad an Bhlascaoid Mhóir, R559, Toghroinn ceantair Dún Chao"
+  ],
+  "dingle-h5": [
+    52.1727,
+    -10.34936,
+    "OSM Nominatim: Gallarus Oratory, R559, Kilmalkedar ED, Kenmare Municipal Di (Wikipedia 23m)"
+  ],
+  "dingle-h6": [
+    52.18174,
+    -10.20741,
+    "OSM Nominatim: Conor Pass, Glin ED, Kenmare Municipal District, County Kerr (Wikipedia 27m)"
+  ],
+  "doolin-h1": [
+    52.97192,
+    -9.42582,
+    "OSM Nominatim: Cliffs of Moher Visitor Centre, R478, Ballysteen ED, Liscann (Wikipedia 39m)"
+  ],
+  "doolin-h2": [
+    53.04103,
+    -9.34518,
+    "OSM Nominatim: Doolin Cave, R479, Lurraga ED, West Clare Municipal District (Wikipedia 102m)"
+  ],
+  "doolin-h3": [
+    53.00382,
+    -9.3873,
+    "OSM Nominatim: Doonagore Castle, L1038, Killilagh ED, West Clare Municipal  (Wikipedia 62m)"
+  ],
+  "doolin-h4": [
+    53.04871,
+    -9.14004,
+    "OSM Nominatim: Poulnabrone Dolmen, R480, Noughaval ED, West Clare Municipal (Wikipedia 2m)"
+  ],
+  "doolin-h5": [
+    53.05697,
+    -9.52535,
+    "OSM Nominatim: Inis Oírr, Árainn, Conamara Municipal District, County Galwa (Wikipedia 188m)"
+  ],
+  "kinsale-h1": [
+    51.69636,
+    -8.49891,
+    "OSM Nominatim: Charles Fort, Kinsale Rural, The Municipal District of Bando"
+  ],
+  "kinsale-h2": [
+    51.70496,
+    -8.51577,
+    "OSM Nominatim: Scilly, Kinsale Rural, The Municipal District of Bandon-Kins (Wikipedia 449m)"
+  ],
+  "kinsale-h3": [
+    51.70264,
+    -8.51801,
+    "OSM Nominatim: Kinsale, Pier Road, Kinsale Urban, Kinsale, County Cork, Mun (Wikipedia 435m)"
+  ],
+  "kinsale-h4": [
+    51.70586,
+    -8.52577,
+    "OSM Nominatim: Saint Multose Church, Church Street, Kinsale Urban, Kinsale,"
+  ],
+  "kinsale-h5": [
+    51.70731,
+    -8.52479,
+    "OSM Nominatim: Desmond Castle, Cork Street, Kinsale Urban, Kinsale, County "
+  ],
+  "kinsale-h6": [
+    51.60403,
+    -8.5347,
+    "OSM Nominatim: Old Head of Kinsale, Ballymackean ED, The Municipal District (Wikipedia 112m)"
+  ],
+  "westport-h1": [
+    53.76003,
+    -9.65925,
+    "OSM Nominatim: Croagh Patrick, Westport-Belmullet Municipal District, Count (Wikipedia 81m)"
+  ],
+  "westport-h2": [
+    53.80069,
+    -9.53552,
+    "OSM Nominatim: Westport House, Quay Road, Westport Harbour, Westport Urban  (Wikipedia 56m)"
+  ],
+  "westport-h4": [
+    53.79937,
+    -9.52488,
+    "OSM Nominatim: The Octagon, Westport Harbour, Westport Urban ED, Westport-B (Wikipedia 557m)"
+  ],
+  "westport-h5": [
+    53.88454,
+    -9.20794,
+    "OSM Nominatim: National Museum of Ireland, Country Life, Turlough Road, Tur (Wikipedia 109m)"
+  ],
+  "dingle-h2": [
+    52.13872,
+    -10.27829,
+    "OSM Nominatim: Dingle Marina Centre, Sráid na Trá, Dingle (Wikipedia: town)"
+  ],
+  "dingle-h3": [
+    52.14153,
+    -10.28952,
+    "OSM Nominatim: Dingle Distillery, R559, Dingle (Wikipedia: no coordinate)"
+  ],
+  "westport-h6": [
+    53.96752,
+    -10.19349,
+    "OSM Nominatim: Keem Beach, Achill, County Mayo (Wikipedia: island)"
   ]
 }

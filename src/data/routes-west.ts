@@ -80,7 +80,13 @@ export const routesWest: RawRoute[] = [
   r('dublin', 'limerick', 'train', 130, { fa: '더블린 휴스턴역|Dublin Heuston' }),
   r('dublin', 'killarney', 'train', 200, { fa: '더블린 휴스턴역|Dublin Heuston', n: '맬로에서 환승하는 편이 많음|most services change at Mallow' }),
   r('cork', 'killarney', 'train', 100, { n: '맬로에서 환승|change at Mallow' }),
+  r('cork', 'kinsale', 'bus', 45, { fa: '파넬 플레이스 버스 스테이션|Parnell Place Bus Station', n: '226·228번 버스|bus 226 or 228' }),
+  r('killarney', 'dingle', 'bus', 125, { n: '트럴리에서 275번 버스로 환승|change at Tralee to bus 275' }),
   r('galway', 'limerick', 'bus', 80),
+  r('dublin', 'westport', 'train', 200, { fa: '더블린 휴스턴역|Dublin Heuston', n: '직통과 환승편이 있음|direct trains and some with a change' }),
+  r('galway', 'westport', 'bus', 117, { n: '456번 버스|bus 456' }),
+  r('galway', 'doolin', 'bus', 135, { n: '350·351번 버스|bus 350 or 351' }),
+  r('limerick', 'doolin', 'bus', 210, { n: '에니스에서 환승|change at Ennis' }),
 
   // —— ch / li ——
   r('zurich', 'bern', 'train', 56),

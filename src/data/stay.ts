@@ -832,6 +832,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('시내 중심·라틴 쿼터', 'City Centre & Latin Quarter', 'Latin Quarter, Galway', '처음 가는 여행에 추천|Best for a first visit', '펍과 음악, 식당이 모여 있고 에어 광장과 역이 가깝습니다. 늘 붐비고 숙소가 빨리 찹니다.|Pubs, live music and restaurants, near Eyre Square and the stations; always busy, and rooms sell out.'),
     a('솔트힐', 'Salthill', 'Salthill, Galway', '바닷가·가족 여행|Seaside, families', '골웨이만의 해변 산책로가 있는 조용한 동네입니다. 시내까지 걸어서 20분쯤이고 여름에 붐빕니다.|A calmer seaside area with a promenade on Galway Bay; about 20 minutes’ walk to town and busy in summer.'),
   ],
+  doolin: [
+    a('피셔 스트리트 주변', 'Around Fisher Street', 'Fisher Street, Doolin', '펍·부두 가까이|Near pubs and the pier', '마을이 띄엄띄엄 흩어져 있어 펍과 버스 정류장 가까이 고르는 편이 좋습니다. 여름엔 일찍 찹니다.|The village is spread out, so stay near the pubs and the bus stop; summer books up early.'),
+  ],
   cork: [
     a('시내 중심', 'City Centre', 'St Patrick’s Street, Cork', '처음 가는 여행에 추천|Best for a first visit', '명소와 식당, 펍을 걸어서 다닙니다. 가장 번잡한 곳입니다.|The sights, restaurants and pubs on foot; the busiest part of town.'),
     a('빅토리안 쿼터', 'Victorian Quarter', 'Victorian Quarter, Cork', '기차역 근처·저녁 분위기|Near the station, lively', '강 북쪽의 알록달록한 동네로 켄트역과 버스 정류장이 가깝고 호스텔이 있습니다.|A colourful area on the north bank near Kent station and the buses, with hostels.'),
@@ -1461,11 +1464,20 @@ export const STAY: Record<string, StayArea[]> = {
   derry: [
     a('성벽 안 구시가', 'Inside the walls', 'Walled City, Derry', '걸어서 성벽·식당|Walls and dining on foot', '성벽과 길드홀, 식당이 걸어서 닿습니다.|The walls, the Guildhall and restaurants on foot.'),
   ],
+  kinsale: [
+    a('시내 중심', 'Town centre', 'Kinsale town centre', '걸어서 식당·항구|Restaurants and harbour on foot', '식당과 항구, 버스 정류장이 걸어서 닿습니다. 찰스 요새는 실리 워크로 걸어갑니다.|Restaurants, the harbour and the bus stop on foot; walk to Charles Fort along the Scilly Walk.'),
+  ],
   killarney: [
     a('시내 중심 (마켓 크로스 주변)', 'Town centre (around Market Cross)', 'Killarney town centre', '차 없이·펍|Car-free, pubs', '펍과 식당, 국립공원 입구가 걸어서 닿습니다. 차가 없다면 마켓 크로스에서 걸어서 15분 안쪽으로 고르세요. 7~8월에는 일찍 찹니다.|Pubs, restaurants and the national park on foot; without a car, stay within 15 minutes’ walk of Market Cross. July and August book up early.'),
   ],
+  dingle: [
+    a('시내 중심 (항구 주변)', 'Town centre (by the harbour)', 'Dingle town centre', '차 없이·펍|Car-free, pubs', '펍과 식당, 버스 정류장이 걸어서 닿습니다. 여름엔 일찍 찹니다.|Pubs, restaurants and the bus stop on foot; book early for summer.'),
+  ],
   kilkenny: [
     a('시내 중심 (중세 마일)', 'City centre (Medieval Mile)', 'Medieval Mile, Kilkenny', '걸어서 성·대성당|Castle and cathedral on foot', '킬케니 성에서 세인트캐니스 대성당까지 이어지는 옛길이라 걸어서 다 봅니다.|The old street from Kilkenny Castle to St Canice’s Cathedral, all walkable.'),
+  ],
+  westport: [
+    a('시내 중심 (옥타곤·더 몰 주변)', 'Town centre (Octagon & the Mall)', 'Westport town centre', '걸어서 펍·식당|Pubs and dining on foot', '펍과 식당, 자전거 대여점이 걸어서 닿습니다. 역도 시내에서 걸어서 약 10분입니다.|Pubs, restaurants and bike hire on foot; the station is about 10 min’s walk away.'),
   ],
   nafplio: [
     a('구시가 (신타그마 광장 주변)', 'Old town (Syntagma Square)', 'Syntagma Square, Nafplio', '처음이라면|First visit', '광장과 팔라미디 요새, 옛 성벽이 걸어서 닿습니다. 방이 작은 편이고 여름에는 일찍 예약해야 합니다.|The square, Palamidi fortress and old walls on foot; rooms are small and summer books up early.'),

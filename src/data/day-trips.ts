@@ -1192,6 +1192,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'killarney',
       tip: '킬라니 국립공원과 머크로스 저택을 봅니다.|Killarney National Park and Muckross House.',
     },
+    {
+      to: 'kinsale',
+      tip: '버스로 약 45분. 별 모양 요새 찰스 포트와 항구 마을 골목을 봅니다.|About 45 min by bus: the star-shaped Charles Fort and the harbour lanes.',
+    },
   ],
   ljubljana: [
     {
@@ -1647,6 +1651,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'limerick',
       tip: '킹 존 성과 강변을 보고, 모허 절벽 투어와 묶기도 합니다.|King John’s Castle and the riverside; often combined with a Cliffs of Moher tour.',
+    },
+    {
+      to: 'doolin',
+      tip: '버스로 약 2시간 15분이라 투어가 편합니다. 모허 절벽과 버렌, 둘린 마을을 봅니다.|About 2 hr 15 by bus, so a tour is easier: the Cliffs of Moher, the Burren and Doolin village.',
     },
   ],
   'st-helier': [

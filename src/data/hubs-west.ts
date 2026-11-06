@@ -552,16 +552,30 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Galway Ceannt', '골웨이 캔트역']],
     bus: [['Galway Coach Station', '골웨이 코치 스테이션']],
   },
+  doolin: {
+    air: [['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon']],
+    bus: [['Doolin Bus Stop', '둘린 버스 정류장']],
+    port: [['Doolin Pier', '둘린 부두', '아란 제도·모허 절벽 유람선|Aran Islands and Cliffs of Moher cruises']],
+  },
   cork: {
     air: [['Cork (ORK)', '코크 공항 (ORK)']],
     rail: [['Cork Kent', '코크 켄트역']],
     bus: [['Parnell Place Bus Station', '파넬 플레이스 버스 스테이션']],
     port: [['Ringaskiddy Ferry Terminal', '링가스키디 페리터미널', '프랑스행 페리|ferries to France']],
   },
+  kinsale: {
+    air: [['Cork (ORK)', '코크 공항 (ORK)', '코크|Cork']],
+    bus: [['Kinsale Bus Stop', '킨세일 버스 정류장']],
+  },
   killarney: {
     air: [['Kerry (KIR)', '케리 공항 (KIR)', '파란포어|Farranfore']],
     rail: [['Killarney', '킬라니역']],
     bus: [['Killarney Bus Station', '킬라니 버스 스테이션']],
+  },
+  dingle: {
+    air: [['Kerry (KIR)', '케리 공항 (KIR)', '파란포어|Farranfore']],
+    rail: [['Tralee', '트럴리역', '딩글행 275번 버스로 환승|change to bus 275 for Dingle']],
+    bus: [['Dingle Bus Stop', '딩글 버스 정류장']],
   },
   kilkenny: {
     air: [['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin']],
@@ -571,6 +585,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon']],
     rail: [['Limerick Colbert', '리머릭 콜버트역']],
     bus: [['Limerick Colbert Bus Station', '리머릭 콜버트 버스 스테이션', '기차역과 같은 건물|same building as the rail station']],
+  },
+  westport: {
+    air: [['Ireland West Airport Knock (NOC)', '녹 공항 (NOC)', '녹|Knock']],
+    rail: [['Westport', '웨스트포트역']],
   },
 
   // —— ch ——

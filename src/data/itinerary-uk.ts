@@ -116,6 +116,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
       ['코네마라|Connemara', 8],
     ],
   },
+  doolin: { days: [['', 1, 3, 2, 4]], trips: [['이니시어 섬|Inis Oírr', 5]] },
   cork: {
     days: [['', 3, 1, 2, 6, 4, 7]],
     trips: [
@@ -124,7 +125,10 @@ export const itineraryUk: Record<string, RawItinerary> = {
       ['미들턴 제임슨 증류소|Jameson Midleton', 9],
     ],
   },
+  kinsale: { days: [['', 3, 4, 5, 2, 1]], trips: [['올드 헤드 오브 킨세일|Old Head of Kinsale', 6]] },
+  westport: { days: [['', 4, 2, 3], ['크로 패트릭|Croagh Patrick', 1]], trips: [['국립 박물관 시골 생활관|Country Life Museum', 5], ['아킬 섬|Achill Island', 6]] },
   killarney: { days: [['킬라니 국립공원|Killarney National Park', 3, 2, 5, 1]], trips: [['링 오브 케리|Ring of Kerry', 4], ['던로 협곡|Gap of Dunloe', 6]] },
+  dingle: { days: [['', 2, 3, 6], ['슬레아 헤드 드라이브|Slea Head Drive', 1, 5, 4]] },
   kilkenny: { days: [['', 1, 5, 2, 6, 3]], trips: [['캐셜 바위|Rock of Cashel', 7]] },
   limerick: { days: [['', 4, 3, 7, 1, 6, 2, 5]], trips: [['번래티 성|Bunratty Castle', 8]] },
   // Crown Dependencies
