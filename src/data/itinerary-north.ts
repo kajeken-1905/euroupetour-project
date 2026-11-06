@@ -83,13 +83,19 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
     trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14], ['슈코다 박물관|Škoda Museum', 21]],
   },
-  telc: [1, 2, 3, 4],
-  mikulov: [1, 4, 3, 2, 5],
-  brno: [5, 4, 3, 1, 2],
-  'cesky-krumlov': [2, 3, 5, 1],
-  'karlovy-vary': [5, 1, 4, 2, 3],
-  olomouc: [1, 2, 3, 4, 5, 6],
-  'ceske-budejovice': [1, 2, 4, 5, 3],
+  telc: { days: [['', 1, 6, 2, 3, 4]], trips: [['로슈테인 성|Roštejn Castle', 5]] },
+  mikulov: { days: [['', 1, 6, 4, 3, 2]], trips: [['레드니체·발티체|Lednice–Valtice', 5], ['발티체 와인 살롱|Valtice Wine Salon', 7]] },
+  brno: {
+    days: [
+      ['구시가|Old town', 5, 9, 7, 6, 4, 8, 3],
+      ['슈필베르크와 투겐트하트|Špilberk & Tugendhat', 1, 11, 2],
+    ],
+    trips: [['모라비아 카르스트|Moravian Karst', 10]],
+  },
+  'cesky-krumlov': [2, 3, 7, 8, 5, 1, 6],
+  'karlovy-vary': { days: [['', 5, 1, 4, 6, 7, 2, 8, 3]], trips: [['로켓 성|Loket Castle', 9]] },
+  olomouc: { days: [['', 1, 2, 3, 4, 5]], trips: [['스바티 코페체크|Svatý Kopeček', 6], ['부조프 성|Bouzov Castle', 8], ['로슈티체 치즈 박물관|Loštice', 7]] },
+  'ceske-budejovice': { days: [['', 1, 2, 4, 5, 3]], trips: [['흘루보카 성|Hluboká Castle', 6], ['홀라쇼비체|Holašovice', 7]] },
   warsaw: {
     days: [
       ['구시가와 왕의 길|Old Town & the Royal Route', 10, 1, 2, 9, 8, 11],

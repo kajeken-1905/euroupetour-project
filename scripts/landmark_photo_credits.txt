@@ -2111,3 +2111,24 @@ highlights/keszthely-5.jpg | https://commons.wikimedia.org/wiki/File:Badacsony_S
 highlights/sopron-4.jpg | https://commons.wikimedia.org/wiki/File:SopronZsinagogaFotoThalerTamas.JPG | CC BY-SA 3.0 | Thaler Tamas
 highlights/keszthely-4.jpg | https://commons.wikimedia.org/wiki/File:Balaton_Museum,_Keszthely_01.jpg | CC BY 4.0 | Derbrauni
 highlights/tokaj-2.jpg | https://commons.wikimedia.org/wiki/File:Tokaj.zsinagoga.jpg | CC BY-SA 2.5 | Stipkovits7 in Hungarian Wikipedia
+highlights/brno-6.jpg | https://commons.wikimedia.org/wiki/File:Capuchin_Crypt_in_Brno_2013h.jpg | CC BY 2.0 | Morgan Davis from Seattle, USA
+highlights/brno-7.jpg | https://commons.wikimedia.org/wiki/File:Dragon_Bridge_(52322998279).jpg | CC BY-SA 2.0 | দেবর্ষি রায় from Brno, Czech Republic
+highlights/brno-8.jpg | https://commons.wikimedia.org/wiki/File:Kostnice_u_sv_Jakuba_2.jpg | CC BY-SA 4.0 | TIC BRNO, příspěvková organizace
+highlights/brno-9.jpg | https://commons.wikimedia.org/wiki/File:Brno_Underground_-_Cabbage_Square_-_A_hall.JPG | Public domain | Millenium187
+highlights/brno-10.jpg | https://commons.wikimedia.org/wiki/File:Macocha_Abyss_at_Punkva_Caves,_Czechia.jpg | CC BY-SA 4.0 | 7oanna
+highlights/brno-11.jpg | https://commons.wikimedia.org/wiki/File:Mendelovo_muzeum.jpg | CC BY-SA 3.0 | Misa.jar
+highlights/telc-6.jpg | https://commons.wikimedia.org/wiki/File:V%C4%9B%C5%BE_sv._Ducha.JPG | CC BY-SA 4.0 | Brichad1
+highlights/mikulov-6.jpg | https://commons.wikimedia.org/wiki/File:Mikulov_the_Dietrichstein_tomb_detail_01.jpg | CC BY-SA 3.0 | feťour
+highlights/mikulov-7.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Valtice_3.jpg | CC BY-SA 4.0 | VitVit
+highlights/cesky-krumlov-6.jpg | https://commons.wikimedia.org/wiki/File:Castle_tower_in_%C4%8Cesk%C3%BD_Krumlov,_20250504_1311_8882.jpg | CC BY 4.0 | Jakub Hałun
+highlights/cesky-krumlov-7.jpg | https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov,_domek_Egona_Schieleho_(2).jpg | CC BY-SA 4.0 | Palickap
+highlights/cesky-krumlov-8.jpg | https://commons.wikimedia.org/wiki/File:PivovarEggenberg.jpg | CC BY-SA 3.0 | Hu Totya
+highlights/karlovy-vary-6.jpg | https://commons.wikimedia.org/wiki/File:Karlovy_Vary_V%C5%99%C3%ADdlo_2016.jpg | CC BY-SA 4.0 | Zorka Sojka
+highlights/karlovy-vary-7.jpg | https://commons.wikimedia.org/wiki/File:Jan_Becher_Muzeum.jpg | CC BY-SA 3.0 | Karlovarská Becherovka
+highlights/karlovy-vary-8.jpg | https://commons.wikimedia.org/wiki/File:Karlovy_Vary_Kpt_Jarose_Moser_plastika_5.jpg | CC BY-SA 4.0 | JiriMatejicek
+highlights/karlovy-vary-9.jpg | https://commons.wikimedia.org/wiki/File:Loket_castle-0413.jpg | CC BY-SA 4.0 | Isiwal
+highlights/ceske-budejovice-6.jpg | https://commons.wikimedia.org/wiki/File:Hluboka_Castle_during_sunset.jpg | CC BY 4.0 | Michal Klajban
+highlights/ceske-budejovice-7.jpg | https://commons.wikimedia.org/wiki/File:Holasovice1.jpg | CC BY-SA 3.0 | The original uploader was Sgbeer at German Wikipedia.
+highlights/olomouc-7.jpg | https://commons.wikimedia.org/wiki/File:Tvar%C5%AF%C5%BEkov%C3%A1_cukr%C3%A1rna.JPG | CC BY-SA 3.0 | Blanka Post
+highlights/olomouc-8.jpg | https://commons.wikimedia.org/wiki/File:Bouzov_(Busau)_castle.jpg | CC BY-SA 4.0 | Pudelek
+highlights/telc-5.jpg | https://commons.wikimedia.org/wiki/File:Ro%C5%A1tejn_hrad_38.jpg | CC BY-SA 4.0 | Palickap

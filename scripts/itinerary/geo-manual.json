@@ -1778,5 +1778,110 @@
     46.80329,
     17.49617,
     "OSM Nominatim: Badacsony, Badacsonytomaj (Wikipedia: Badacsony)"
+  ],
+  "brno-h8": [
+    49.19634,
+    16.60796,
+    "OSM Nominatim: Brněnská kostnice, Jakubské náměstí, Brno"
+  ],
+  "brno-h9": [
+    49.19297,
+    16.60943,
+    "OSM Nominatim: Zelný trh 320/21, Brno (Google Maps: Labyrinth entrance)"
+  ],
+  "telc-h6": [
+    49.18305,
+    15.45466,
+    "OSM Overpass: sv. Ducha, Telč"
+  ],
+  "mikulov-h7": [
+    48.73951,
+    16.75561,
+    "OSM Nominatim: Salon vín České republiky, Zámek 1, Valtice"
+  ],
+  "cesky-krumlov-h8": [
+    48.81233,
+    14.31986,
+    "OSM Nominatim: Pivovarská 27, Český Krumlov (Google Maps: Historický pivovar)"
+  ],
+  "brno-h6": [
+    49.19111,
+    16.60986,
+    "OSM Nominatim: Kapucínská hrobka, Bašty, Brno-město, Brno-střed, Brno, okre"
+  ],
+  "brno-h7": [
+    49.19301,
+    16.60807,
+    "OSM Nominatim: Stará radnice, Nádvoří Staré radnice, Brno-město, Brno-střed"
+  ],
+  "brno-h10": [
+    49.37114,
+    16.72619,
+    "OSM Nominatim: Punkevní jeskyně, Přední dóm, Nové Dvory, Vavřinec, okres Bl (Wikipedia 333m)"
+  ],
+  "brno-h11": [
+    49.1913,
+    16.5938,
+    "OSM Nominatim: Mendelovo muzeum, Mendlovo náměstí, Staré Brno, Brno-střed,  (Wikipedia 30m)"
+  ],
+  "mikulov-h6": [
+    48.80655,
+    16.63968,
+    "OSM Nominatim: Dietrichsteinská hrobka, Náměstí, Mikulov, okres Břeclav, Ji (Wikipedia 177m)"
+  ],
+  "cesky-krumlov-h6": [
+    48.81232,
+    14.31592,
+    "OSM Nominatim: Zámecká věž, Latrán, Domoradice, Český Krumlov, okres Český  (Wikipedia 51m)"
+  ],
+  "cesky-krumlov-h7": [
+    48.81057,
+    14.31342,
+    "OSM Nominatim: Egon Schiele art centrum, 71, Široká, Vnitřní Město, Domorad (Wikipedia 20m)"
+  ],
+  "karlovy-vary-h6": [
+    50.22273,
+    12.88344,
+    "OSM Nominatim: Vřídelní kolonáda, Vřídelní lávka, Westend, Drahovice, Karlo"
+  ],
+  "karlovy-vary-h7": [
+    50.23038,
+    12.86698,
+    "OSM Nominatim: Jan Becher, 282/57, T. G. Masaryka, Tuhnice, Karlovy Vary, o"
+  ],
+  "karlovy-vary-h8": [
+    50.22761,
+    12.83587,
+    "OSM Nominatim: Moser, Kapitána Jaroše, Dvory, Karlovy Vary, okres Karlovy V"
+  ],
+  "karlovy-vary-h9": [
+    50.18719,
+    12.75466,
+    "OSM Nominatim: Hrad Loket, Zámecká, Nádražní předměstí, Loket, okres Sokolo (Wikipedia 283m)"
+  ],
+  "ceske-budejovice-h6": [
+    49.0509,
+    14.44151,
+    "OSM Nominatim: Zámek Hluboká, 142, Hluboká nad Vltavou, okres České Budějov (Wikipedia 62m)"
+  ],
+  "ceske-budejovice-h7": [
+    48.97256,
+    14.27363,
+    "OSM Nominatim: Holašovice, Jankov, okres České Budějovice, Jihočeský kraj,  (Wikipedia 352m)"
+  ],
+  "olomouc-h7": [
+    49.74554,
+    16.9278,
+    "OSM Nominatim: Muzeum Olomouckých tvarůžků A. W., Palackého, Loštice, okres (Wikipedia 338m)"
+  ],
+  "olomouc-h8": [
+    49.70506,
+    16.88949,
+    "OSM Nominatim: Hrad Bouzov, Taliánka, Doly, Bouzov, okres Olomouc, Olomouck (Wikipedia 70m)"
+  ],
+  "telc-h5": [
+    49.25232,
+    15.42629,
+    "OSM Nominatim: Roštejn (hrad), Růženská, Řídelov, okres Jihlava, Kraj Vysoč"
   ]
 }
