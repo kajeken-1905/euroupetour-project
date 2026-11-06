@@ -5500,6 +5500,14 @@
 "ko": "사우키홀 거리의 스몰 플레이트 비스트로. 미쉐린 가이드에 실려 있고 2025년 초 새 단장했습니다.",
 "ok": 1
 },
+"golubac-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"golubac-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
 "gordes-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -7369,6 +7377,22 @@
 "en": "Kazimierz restaurant cooking Polish and international dishes with local produce; plenty of vegetarian options.",
 "ko": "카지미에시의 레스토랑. 지역 식재료로 폴란드·국제 요리를 내고 채식 메뉴가 많습니다.",
 "ok": 1
+},
+"kraljevo-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"kraljevo-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"kraljevo-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"kraljevo-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps"
 },
 "kutaisi-bakery-1": {
 "del": "no bakery of this name found on Tsminda Nino St"
@@ -13845,6 +13869,22 @@
 "ko": "디오클레티아누스 궁전 안 작은 광장의 레스토랑. 스테이크·파스타·해산물을 냅니다.",
 "ok": 1
 },
+"sremski-karlovci-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"sremski-karlovci-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"sremski-karlovci-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"sremski-karlovci-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
 "st-andrews-bakery-1": {
 "en": "Long-established gelato shop on South Street.",
 "ko": "사우스 스트리트의 오래된 젤라토 가게.",
@@ -16967,6 +17007,30 @@
 "en": "Grill and flambé restaurant in the Hotel Aristella, flambéing and carving dishes at the table.",
 "ko": "호텔 아리스텔라 안의 그릴·플랑베 레스토랑. 테이블에서 고기를 플랑베해 썰어 줍니다.",
 "ok": 1
+},
+"zlatibor-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"zlatibor-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"zlatibor-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"zlatibor-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"zlatibor-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps"
+},
+"zlatibor-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps"
 },
 "znojmo-cafe-1": {
 "ok": 1,

@@ -39,4 +39,28 @@ export const placesRSExtra: Place[] = [
   place('subotica-bakery-2', 'subotica', 'bakery', 'Artos', 'Zmaj Jovina 7a, 24000 Subotica, Serbia', '비건 옵션을 갖춘 수보티차의 베이커리.', 'Subotica bakery with vegan options.'),
   place('subotica-cafe-1', 'subotica', 'cafe', 'Hausbrandt Caffe', 'Trg Cara Jovana Nenada 9, 24000 Subotica, Serbia', '아르누보 시청 앞 광장의 카페.', 'Café facing the Art Nouveau city hall square.'),
   place('subotica-cafe-2', 'subotica', 'cafe', 'Boss Caffe', 'Matije Korvina 7, 24000 Subotica, Serbia', '1986년 문을 연 수보티차의 이름난 카페 겸 레스토랑. 넓은 정원이 있습니다.', 'Well-known Subotica café-restaurant opened in 1986, with a large garden.'),
+
+  // —— zlatibor: restaurants, bakeries and cafés (2026-11-06) ——
+  place('zlatibor-fine_dining-1', 'zlatibor', 'fine_dining', 'Kafana Ljubiš', 'Zelenkada 5, Zlatibor, Serbia', '세르비아 전통 요리를 내는 산장풍 식당.', 'Mountain-lodge style restaurant serving traditional Serbian food.'),
+  place('zlatibor-fine_dining-2', 'zlatibor', 'fine_dining', 'Konoba Akustik', 'Strahinje Popovića, Zlatibor, Serbia', '즐라티보르 중심가의 인기 식당.', 'Popular restaurant in the centre of Zlatibor.'),
+  place('zlatibor-fine_dining-3', 'zlatibor', 'fine_dining', 'Restoran Bakrač', 'Jezerska 6, Zlatibor, Serbia', '호수 근처의 세르비아 요리 식당.', 'Serbian restaurant near the lake.'),
+  place('zlatibor-fine_dining-4', 'zlatibor', 'fine_dining', 'Rotacioni restoran Tornik', 'Alekse Popovića 2, Zlatibor, Serbia', '호텔 꼭대기의 회전 레스토랑.', 'Revolving restaurant at the top of a hotel.'),
+  place('zlatibor-bakery-1', 'zlatibor', 'bakery', 'Pekara Zlatibor', 'Miladina Pećinara 127, Zlatibor, Serbia', '중심가의 빵집.', 'Bakery in the centre.'),
+  place('zlatibor-bakery-2', 'zlatibor', 'bakery', 'Hannes Poslastičarnica', 'Jovanke Jeftanović 3, Zlatibor, Serbia', '케이크와 디저트를 파는 과자점.', 'Pastry shop with cakes and desserts.'),
+
+  // —— sremski-karlovci: restaurants, bakeries and cafés (2026-11-06) ——
+  place('sremski-karlovci-fine_dining-1', 'sremski-karlovci', 'fine_dining', 'Bermet Villa', 'Trg Branka Radičevića 5, 21205 Sremski Karlovci, Serbia', '중앙 광장의 세르비아 요리 식당.', 'Serbian restaurant on the main square.'),
+  place('sremski-karlovci-fine_dining-2', 'sremski-karlovci', 'fine_dining', 'Gostiona Kod 4 lava', 'Trg Branka Radičevića 3, 21205 Sremski Karlovci, Serbia', '네 사자 분수 앞의 세르비아 요리 식당.', 'Serbian restaurant facing the Four Lions Fountain.'),
+  place('sremski-karlovci-fine_dining-3', 'sremski-karlovci', 'fine_dining', 'Pasent', 'Dunavska 7, 21205 Sremski Karlovci, Serbia', '도나우 강변의 생선 요리 식당.', 'Fish restaurant by the Danube.'),
+  place('sremski-karlovci-fine_dining-4', 'sremski-karlovci', 'fine_dining', 'Karlovačka čarda', 'Dunavska 9, 21205 Sremski Karlovci, Serbia', '도나우 강변의 생선 요리 선술집.', 'Riverside tavern specialising in fish.'),
+
+  // —— golubac: restaurants, bakeries and cafés (2026-11-06) ——
+  place('golubac-fine_dining-1', 'golubac', 'fine_dining', 'Kafana kod Šilje', 'Cara Dušana 80, 12223 Golubac, Serbia', '도나우 생선 요리를 내는 마을 식당.', 'Village restaurant serving Danube fish.'),
+  place('golubac-fine_dining-2', 'golubac', 'fine_dining', 'Restaurant Perast', 'Cara Dušana, 12223 Golubac, Serbia', '마을 중심 거리의 세르비아 요리 식당.', 'Serbian restaurant on the main street.'),
+
+  // —— kraljevo: restaurants, bakeries and cafés (2026-11-06) ——
+  place('kraljevo-fine_dining-1', 'kraljevo', 'fine_dining', 'Brvnara', 'Živojina Lazića Solunca 4, 36000 Kraljevo, Serbia', '통나무집 분위기의 세르비아 요리 식당.', 'Log-cabin style Serbian restaurant.'),
+  place('kraljevo-fine_dining-2', 'kraljevo', 'fine_dining', 'Restoran Kralj', 'Cara Lazara 25, 36000 Kraljevo, Serbia', '시내 중심 거리의 세르비아 요리 식당.', 'Serbian restaurant on the main street.'),
+  place('kraljevo-bakery-1', 'kraljevo', 'bakery', 'Pekara Vujić', 'Karađorđeva 15, 36000 Kraljevo, Serbia', '시내의 작은 빵집.', 'Small bakery in the centre.'),
+  place('kraljevo-bakery-2', 'kraljevo', 'bakery', 'Pelivan Kraljevo', 'Omladinska 5, 36000 Kraljevo, Serbia', '전통 과자점.', 'Traditional pastry shop.'),
 ]
