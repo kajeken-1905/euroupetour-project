@@ -264,16 +264,22 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'belgrade-h4': v(30, 45),
   'belgrade-h5': v(90, 120),
   'belgrade-h6': v(10, 15),
+  'belgrade-h7': v(45, 60, { c: 'mon', b: 'rec', n: '안내 투어 시간에 맞춰 들어가는 편이 좋습니다.|Best visited on a scheduled guided tour.' }),
+  'belgrade-h8': v(60, 90, { c: 'mon' }),
+  'belgrade-h9': v(90, 120, { c: 'mon' }),
+  'belgrade-h10': v(90, 180),
+  'belgrade-h11': v(120, 180, { n: '시내에서 차로 약 30분입니다.|About 30 min by car from the centre.' }),
   // Novi Sad
   'novi-sad-h1': v(75, 90, { b: 'no', s: 'https://novisad.travel/en/', n: '성채는 무료이고 지하 통로 투어만 유료입니다.|The fortress is free; only the underground tunnels tour is paid.' }),
   'novi-sad-h2': v(15, 20),
   'novi-sad-h3': v(20, 30),
   'novi-sad-h4': v(30, 45),
   'novi-sad-h5': v(180, 240),
+  'novi-sad-h6': v(240, 360, { n: '여러 곳을 돌려면 차나 투어가 편합니다.|A car or tour is easiest for visiting several.' }),
   // Niš
   'nis-h1': v(45, 60, { b: 'no', n: FREE }),
   'nis-h2': v(20, 30, { c: 'mon', k: '2026-10' }),
-  'nis-h3': v(20, 30),
+  'nis-h3': v(45, 60),
   'nis-h4': v(20, 30),
   'nis-h5': v(30, 45),
   // Subotica
@@ -282,6 +288,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'subotica-h3': v(90, 120),
   'subotica-h4': v(15, 20),
   'subotica-h5': v(45, 60),
+  'subotica-h6': v(20, 30),
 
   // Skopje
   'skopje-h1': v(10, 15),

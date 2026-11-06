@@ -169,10 +169,17 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   },
   podgorica: [3, 5, 2, 4, 1],
   'herceg-novi': [3, 2, 1, 5, 4],
-  belgrade: { days: [['', 3, 6, 2, 4, 1]], trips: [['제문|Zemun', 5]] },
-  'novi-sad': { days: [['', 4, 2, 3, 1]], trips: [['스렘스키 카를로브치|Sremski Karlovci', 5]] },
+  belgrade: {
+    days: [
+      ['칼레메그단과 구시가|Kalemegdan & old town', 1, 4, 9, 6, 2],
+      ['브라차르와 데디네|Vračar & Dedinje', 3, 7, 8],
+      ['강변과 제문|Rivers & Zemun', 10, 5],
+    ],
+    trips: [['아발라 탑|Avala Tower', 11]],
+  },
+  'novi-sad': { days: [['', 2, 4, 3, 1]], trips: [['스렘스키 카를로브치|Sremski Karlovci', 5], ['프루슈카 고라 수도원|Fruška Gora monasteries', 6]] },
   nis: [1, 4, 3, 2, 5],
-  subotica: { days: [['', 2, 1, 4, 5]], trips: [['팔리치 호수|Lake Palić', 3]] },
+  subotica: { days: [['', 2, 1, 4, 6, 5]], trips: [['팔리치 호수|Lake Palić', 3]] },
   tbilisi: [4, 3, 5, 1, 2],
   batumi: { days: [['', 5, 2, 4, 1]], trips: [['바투미 식물원|Batumi Botanical Garden', 3]] },
   kutaisi: {

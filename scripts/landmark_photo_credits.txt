@@ -2201,3 +2201,12 @@ highlights/koper-3.jpg | https://commons.wikimedia.org/wiki/File:Da_Ponte_Founta
 highlights/koper-4.jpg | https://commons.wikimedia.org/wiki/File:Izola,_Slovenia,_20240502_1331_7626.jpg | CC BY 4.0 | Jakub Hałun
 highlights/koper-5.jpg | https://commons.wikimedia.org/wiki/File:Hrastovlje,_Holy_Trinity_filial_church_09.jpg | CC0 | Ajznponar
 highlights/koper-6.jpg | https://commons.wikimedia.org/wiki/File:Strunjan_bay_(24209577441).jpg | CC BY-SA 2.0 | Rok
+highlights/belgrade-7.jpg | https://commons.wikimedia.org/wiki/File:The_Nikola_Tesla_Museum_in_Belgrade,_Serbia.png | CC BY-SA 4.0 | The Nikola Tesla Museum
+highlights/belgrade-8.jpg | https://commons.wikimedia.org/wiki/File:25_May_Museum_Museum_Of_Yugoslavia_Belgrade_Serbia_May_2008.jpg | CC BY 4.0 | Acediscovery
+highlights/belgrade-9.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Serbia_(DSC04612).jpg | CC BY-SA 4.0 | Simon Legner (User:simon04)
+highlights/belgrade-10.jpg | https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_lake.jpg | CC BY-SA 3.0 rs | Gmihail at Serbian Wikipedia
+highlights/belgrade-11.jpg | https://commons.wikimedia.org/wiki/File:Avala_Tower.jpg | CC BY-SA 2.0 | Vladimir Stanković
+highlights/nis-3.jpg | https://commons.wikimedia.org/wiki/File:Crveni_Krst_concentration_camp_(2024-09-05)_01.jpg | CC BY-SA 4.0 | Apokar
+highlights/novi-sad-4.jpg | https://commons.wikimedia.org/wiki/File:Novi_Sad_2022,_Zmaj_Jovina_street_02.jpg | CC0 | Imeao
+highlights/novi-sad-6.jpg | https://commons.wikimedia.org/wiki/File:Fruska_gora_-_Novo_Hopovo_monastery.jpg | CC BY-SA 4.0 | Pudelek
+highlights/subotica-6.jpg | https://commons.wikimedia.org/wiki/File:Pa%C5%82ac_Rajhla_(Galeria_Sztuki_Wsp%C3%B3%C5%82czesnej)_w_Suboticy.jpg | CC BY-SA 4.0 | Marcin Konsek
