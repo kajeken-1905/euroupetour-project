@@ -2173,3 +2173,31 @@ highlights/maribor-8.jpg | https://commons.wikimedia.org/wiki/File:Synagogue_Mar
 highlights/postojna-6.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0kocjan_Caves,_Slovenia,_20240502_1204_7532.jpg | CC BY 4.0 | Jakub Hałun
 highlights/postojna-7.jpg | https://commons.wikimedia.org/wiki/File:Lipica_stud_farm_1.JPG | CC BY-SA 4.0 | Husond
 highlights/maribor-7.jpg | https://commons.wikimedia.org/wiki/File:Maribor_Castle_(Piramida)_01.JPG | CC0 | Janezdrilc
+cities/bohinj.jpg | https://commons.wikimedia.org/wiki/File:Dng_bohinj_jezero_2_2.jpg | CC BY-SA 4.0 | This Photo was taken by Miha Peče.  Feel free to use my phot
+highlights/bohinj-1.jpg | https://commons.wikimedia.org/wiki/File:Dng_bohinj_jezero_1_01.jpg | CC BY-SA 4.0 | This Photo was taken by Miha Peče.  Feel free to use my phot
+highlights/bohinj-2.jpg | https://commons.wikimedia.org/wiki/File:Sv._Janez_Krstnik,_Rib%C4%8Dev_Laz_(52647590226).jpg | CC BY 2.0 | Erik Cooper from Chicago, United Stats
+highlights/bohinj-3.jpg | https://commons.wikimedia.org/wiki/File:PlansarskiMuzej1.JPG | Public domain | Sl-Ziga
+highlights/bohinj-4.jpg | https://commons.wikimedia.org/wiki/File:Mostnica_2.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/bohinj-5.jpg | https://commons.wikimedia.org/wiki/File:Ski_lift_on_Vogel_(mountain)_-_summer_2026_(j).jpg | CC BY 4.0 | Thomas Dahlstrøm Nielsen
+highlights/bohinj-6.jpg | https://commons.wikimedia.org/wiki/File:Savica_Waterfall_(53424892018).jpg | CC BY 2.0 | Sergei Gussev
+cities/ptuj.jpg | https://commons.wikimedia.org/wiki/File:View_of_Ptuj_Castle_01.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/ptuj-1.jpg | https://commons.wikimedia.org/wiki/File:Ptuj_Town_Tower.jpg | CC BY-SA 4.0 | Viktar Palstsiuk
+highlights/ptuj-2.jpg | https://commons.wikimedia.org/wiki/File:Ptuj,_St._George%27s_parish_church_and_town_tower_02.jpg | CC BY-SA 4.0 | Ajznponar
+highlights/ptuj-3.jpg | https://commons.wikimedia.org/wiki/File:Dominikanski_samostan_Ptuj,_E%C5%A0D_588_(1)_01.jpg | CC BY-SA 4.0 | Doroteja Širovnik
+highlights/ptuj-4.jpg | https://commons.wikimedia.org/wiki/File:A_magical_morning_at_Ptuj_Castle.jpg | CC BY-SA 4.0 | Mstegar
+highlights/ptuj-5.jpg | https://commons.wikimedia.org/wiki/File:Drava,_Ptuj_(28033304314).jpg | Public domain | Felix Stahlberg
+highlights/ptuj-6.jpg | https://commons.wikimedia.org/wiki/File:Minorite_Monastery_of_Ptuj.jpg | CC BY-SA 4.0 | Viktar Palstsiuk
+cities/bovec.jpg | https://commons.wikimedia.org/wiki/File:Bovec_Klu%C5%BEe_Flitscher_Klause_West-Seite_10032015_0609.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/bovec-1.jpg | https://commons.wikimedia.org/wiki/File:Velika_korita_Soce_(2).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/bovec-2.jpg | https://commons.wikimedia.org/wiki/File:Rafting-1824785.jpg | CC0 | Steveblack68
+highlights/bovec-3.jpg | https://commons.wikimedia.org/wiki/File:Bovec_Klu%C5%BEe_Flitscher_Klause_West-Seite_10032015_0609.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/bovec-4.jpg | https://commons.wikimedia.org/wiki/File:Boka_waterfall_(53424865628).jpg | CC BY 2.0 | Sergei Gussev
+highlights/bovec-5.jpg | https://commons.wikimedia.org/wiki/File:Kobarid_(35056802976).jpg | CC BY 2.0 | Dage - Looking For Europe
+highlights/bovec-6.jpg | https://commons.wikimedia.org/wiki/File:Slap_Kozjak_(waterfall)_(7936899908).jpg | CC BY 2.0 | Marjolein from The Netherlands
+cities/koper.jpg | https://commons.wikimedia.org/wiki/File:Koper_V_-_Old_town_(44261871000).jpg | CC BY 2.0 | Johan W
+highlights/koper-1.jpg | https://commons.wikimedia.org/wiki/File:Postcard_of_Tito_Square_in_Koper_1964.jpg | Public domain | Unknown authorUnknown author
+highlights/koper-2.jpg | https://commons.wikimedia.org/wiki/File:View_over_Old_Town_from_Bell_Tower_-_Koper_-_Adriatic_Coast_-_Slovenia_-_02_(54567178978).jpg | CC BY 2.0 | Adam Jones from Kelowna, BC, Canada
+highlights/koper-3.jpg | https://commons.wikimedia.org/wiki/File:Da_Ponte_Fountain,_Koper_06.jpg | CC BY-SA 4.0 | John Samuel
+highlights/koper-4.jpg | https://commons.wikimedia.org/wiki/File:Izola,_Slovenia,_20240502_1331_7626.jpg | CC BY 4.0 | Jakub Hałun
+highlights/koper-5.jpg | https://commons.wikimedia.org/wiki/File:Hrastovlje,_Holy_Trinity_filial_church_09.jpg | CC0 | Ajznponar
+highlights/koper-6.jpg | https://commons.wikimedia.org/wiki/File:Strunjan_bay_(24209577441).jpg | CC BY-SA 2.0 | Rok

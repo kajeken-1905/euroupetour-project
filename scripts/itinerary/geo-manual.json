@@ -2123,5 +2123,125 @@
     45.66795,
     13.88549,
     "OSM Nominatim: Kobilarna Lipica, Lipica, Sežana, Upravna enota Sežana, 6219 (Wikipedia 239m)"
+  ],
+  "bohinj-h2": [
+    46.2787,
+    13.88674,
+    "OSM Nominatim: Sv. Janez Krstnik, Ribčev Laz"
+  ],
+  "bovec-h2": [
+    46.3382,
+    13.55328,
+    "OSM Nominatim: Trg golobarskih žrtev, Bovec (rafting outfitters in village centre)"
+  ],
+  "bovec-h6": [
+    46.2603,
+    13.58979,
+    "OSM Nominatim: Slap Kozjak, Kobarid"
+  ],
+  "koper-h2": [
+    45.54826,
+    13.7303,
+    "OSM Overpass: Marijino vnebovzetje, Koper"
+  ],
+  "koper-h5": [
+    45.50985,
+    13.90169,
+    "OSM Nominatim: Cerkev sv. Trojice, Hrastovlje"
+  ],
+  "koper-h6": [
+    45.53788,
+    13.61166,
+    "OSM Nominatim: Mesečev zaliv, Strunjan"
+  ],
+  "bohinj-h1": [
+    46.28227,
+    13.86453,
+    "OSM Nominatim: Bohinjsko jezero, Ribčev Laz, Bohinj, Slovenija (Wikipedia 485m)"
+  ],
+  "bohinj-h3": [
+    46.28916,
+    13.8948,
+    "OSM Nominatim: Planšarski muzej, 181, Stara Fužina, Bohinj, 4265, Slovenija (Wikipedia 111m)"
+  ],
+  "bohinj-h4": [
+    46.29812,
+    13.88549,
+    "OSM Nominatim: Korita Mostnice, Stara Fužina, Bohinj, 4265, Slovenija"
+  ],
+  "bohinj-h5": [
+    46.26976,
+    13.8381,
+    "OSM Nominatim: Nihalka Vogel, Ukanc, Bohinj, 4265, Slovenija"
+  ],
+  "bohinj-h6": [
+    46.29316,
+    13.79631,
+    "OSM Nominatim: Slap Savica, Bohinj, 4265, Slovenija (Wikipedia 43m)"
+  ],
+  "ptuj-h1": [
+    46.42016,
+    15.8706,
+    "OSM Nominatim: Mestni stolp, 14, Slovenski trg, Center, Ptuj, 2250, Sloveni (Wikipedia 120m)"
+  ],
+  "ptuj-h2": [
+    46.42035,
+    15.87118,
+    "OSM Nominatim: Župnijska cerkev svetega Jurija, 10, Slovenski trg, Center,  (Wikipedia 167m)"
+  ],
+  "ptuj-h3": [
+    46.42058,
+    15.86514,
+    "OSM Nominatim: Dominikanski samostan, 1, Muzejski trg, Center, Ptuj, 2250,  (Wikipedia 353m)"
+  ],
+  "ptuj-h4": [
+    46.42101,
+    15.86745,
+    "OSM Nominatim: Ptujski grad, 1, Na gradu, Center, Ptuj, 2250, Slovenija (Wikipedia 36m)"
+  ],
+  "ptuj-h5": [
+    46.41769,
+    15.86759,
+    "OSM Nominatim: Peš most (footbridge over the Drava), Ptuj"
+  ],
+  "ptuj-h6": [
+    46.41814,
+    15.87191,
+    "OSM Nominatim: Minoritski samostan, Minoritski trg 1, Ptuj"
+  ],
+  "bovec-h1": [
+    46.33844,
+    13.64621,
+    "OSM Nominatim: Velika Korita Soče, Soška pot, Podklanec, Soča, Bovec, 5232,"
+  ],
+  "bovec-h3": [
+    46.36119,
+    13.58992,
+    "OSM Nominatim: Trdnjava Kluže, 16, 203, Zabrajda, Log pod Mangartom, Bovec, (Wikipedia 14m)"
+  ],
+  "bovec-h4": [
+    46.32221,
+    13.48158,
+    "OSM Nominatim: Slap Boka, Žaga, Bovec, 5224, Slovenija (Wikipedia 135m)"
+  ],
+  "bovec-h5": [
+    46.24653,
+    13.58099,
+    "OSM Nominatim: Kobariški muzej, 10, Gregorčičeva ulica, Svino, Kobarid, 522"
+  ],
+  "koper-h1": [
+    45.54815,
+    13.72958,
+    "OSM Nominatim: Titov trg / Piazza Tito, Olmo, Koper / Capodistria (naselje)"
+  ],
+  "koper-h3": [
+    45.54549,
+    13.72981,
+    "OSM Nominatim: Vodnjak Da Ponte / Fontana Da Ponte, Prešernov trg / Piazza  (Wikipedia 572m)"
+  ],
+  "koper-h4": [
+    45.54732,
+    13.64783,
+    "OSM Nominatim: Izola / Isola, Upravna enota Izola / Unità amministrativa Is"
   ]
 }

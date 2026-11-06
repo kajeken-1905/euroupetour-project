@@ -277,6 +277,15 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Avtobusna postaja Bled', '블레드 버스터미널']],
     port: [['Pletna boats (Mlino)', '플레트나 나룻배 선착장 (믈리노)', '블레드섬행 전통 나룻배|traditional boats to Bled Island']],
   },
+  bohinj: {
+    air: [LJU()],
+    rail: [['Bohinjska Bistrica', '보힌스카 비스트리차역', '호수까지 버스로 약 15분|about 15 min by bus to the lake']],
+    bus: [['Bohinj Jezero', '보힌 호수 버스 정류장']],
+  },
+  bovec: {
+    air: [LJU(), ['Trieste Airport (TRS)', '트리에스테 공항 (TRS)', '이탈리아 트리에스테|Trieste, Italy']],
+    bus: [['Bovec', '보베츠 버스 정류장']],
+  },
   piran: {
     air: [
       ['Trieste Airport (TRS)', '트리에스테 공항 (TRS)', '이탈리아 트리에스테|Trieste, Italy'],
@@ -285,10 +294,20 @@ export const hubsEast: Record<string, RawCityHubs> = {
     rail: [['Koper', '코페르역', '코페르 · 피란엔 역 없음|Koper · no station in Piran']],
     bus: [['Avtobusna postaja Piran', '피란 버스터미널']],
   },
+  koper: {
+    air: [['Trieste Airport (TRS)', '트리에스테 공항 (TRS)', '이탈리아 트리에스테|Trieste, Italy'], LJU()],
+    rail: [['Koper', '코페르역']],
+    bus: [['Avtobusna postaja Koper', '코페르 버스터미널']],
+  },
   maribor: {
     air: [['Graz (GRZ)', '그라츠 공항 (GRZ)', '오스트리아 그라츠|Graz, Austria'], LJU()],
     rail: [['Maribor', '마리보르역']],
     bus: [['Avtobusna postaja Maribor', '마리보르 버스터미널']],
+  },
+  ptuj: {
+    air: [['Graz (GRZ)', '그라츠 공항 (GRZ)', '오스트리아 그라츠|Graz, Austria'], LJU()],
+    rail: [['Ptuj', '프투이역']],
+    bus: [['Avtobusna postaja Ptuj', '프투이 버스터미널']],
   },
   postojna: {
     air: [LJU()],

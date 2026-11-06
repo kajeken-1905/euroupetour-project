@@ -1226,6 +1226,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'postojna',
       tip: '동굴 열차를 타고 종유석 동굴을 보고 프레드야마 성과 묶습니다.|Ride the cave train through the caverns, then add Predjama Castle.',
     },
+    {
+      to: 'bohinj',
+      tip: '버스로 약 2시간(블레드 경유). 블레드보다 조용한 빙하 호수와 사비차 폭포를 봅니다.|About 2 hrs by bus via Bled: a quieter glacial lake than Bled and the Savica waterfall.',
+    },
   ],
   sarajevo: [
     {

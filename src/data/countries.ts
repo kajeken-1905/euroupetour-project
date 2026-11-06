@@ -1209,7 +1209,7 @@ export const countries: Country[] = [
       background: '#E8F0F8',
       text: '#0A1A30',
     },
-    cityIds: ['ljubljana', 'bled', 'piran', 'maribor', 'postojna'],
+    cityIds: ['ljubljana', 'bled', 'bohinj', 'bovec', 'piran', 'koper', 'maribor', 'ptuj', 'postojna'],
   },
   {
     id: 'ba',

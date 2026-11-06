@@ -1633,12 +1633,27 @@ export const STAY: Record<string, StayArea[]> = {
     a('호숫가', 'Lakeside', 'Lake Bled lakeside', '호수 전망|Lake views', '호수가 보이는 방이 많고 블레드성과 시내가 가깝습니다. 여름에는 빨리 찹니다.|Many lake-view rooms, close to Bled Castle and the centre; fills fast in summer.'),
     a('시내 중심', 'Town centre', 'Bled town centre', '식당·편의|Dining, convenience', '상점·식당이 모여 있습니다. 호수에서 조금 떨어진 큰길 쪽 숙소는 더 싸고 걸어서 닿습니다.|Shops and restaurants; places a little back from the shore are cheaper and still walkable.'),
   ],
+  bohinj: [
+    a('리브체우 라즈 (호숫가)', 'Ribčev Laz (lakeside)', 'Ribčev Laz', '호숫가에서 묵기|By the lake', '호숫가 마을이라 버스 정류장과 교회, 산책로가 가깝습니다.|The lakeside village, close to the bus stop, the church and the walks.'),
+    a('블레드에서 다녀오기', 'Base in Bled', 'Bled', '거점에서 다녀오기|Day trip from a base', '버스로 약 45분입니다.|About 45 min by bus.'),
+  ],
+  bovec: [
+    a('보베츠 마을', 'Bovec village', 'Bovec', '아웃도어 거점|Outdoor base', '래프팅 업체와 식당, 버스 정류장이 마을 중심에 모여 있습니다.|Rafting outfitters, restaurants and the bus stop are all in the village centre.'),
+    a('코바리드', 'Kobarid', 'Kobarid', '조용한 마을|Quieter village', '박물관과 폭포가 가깝고 미식 식당으로 이름난 마을입니다.|Close to the museum and waterfall, and known for its restaurants.'),
+  ],
   piran: [
     a('피란 구시가', 'Piran old town', 'Tartini Square, Piran', '분위기·식당|Atmosphere, dining', '베네치아풍 건물과 타르티니 광장, 해안 산책로가 있습니다. 모래 해변이 없고 주차가 어려워 시내 밖 주차장에서 셔틀버스를 탑니다. 7~8월은 3~6달 전에 예약하세요.|Venetian buildings, Tartini Square and the seafront; no sandy beach and little parking, so use the garage outside town and the shuttle. Book 3–6 months ahead for July–August.'),
     a('포르토로시', 'Portorož', 'Portorož', '해변·리조트|Beach, resorts', '차로 잠깐 거리의 해변 휴양지로 큰 호텔과 모래 해변이 있습니다. 오래된 호텔이 많다는 평이 있습니다.|A short drive away, a beach resort with big hotels and sand; many hotels are described as dated.'),
   ],
+  koper: [
+    a('구시가', 'Old town', 'Koper old town', '처음 가는 여행에 추천|Best for a first visit', '광장과 대성당, 항구가 걸어서 닿고 버스터미널까지 걸어서 약 15분입니다.|The square, cathedral and harbour on foot; the bus station is about 15 min away.'),
+    a('이졸라', 'Izola', 'Izola', '어촌에서 묵기|Fishing-town stay', '작은 항구 마을이라 조용하고 해산물 식당이 가깝습니다.|A quieter harbour town, close to seafood restaurants.'),
+  ],
   maribor: [
     a('렌트 (드라바강 변 구시가)', 'Lent (old town on the Drava)', 'Lent, Maribor', '강변 산책·식당|Riverside, dining', '걸어서 다니기 좋고 카페·식당이 많습니다. 밤에 시끄럽고 주차가 어렵습니다.|Walkable with cafés and restaurants; noisy at night and parking is hard.'),
+  ],
+  ptuj: [
+    a('구시가', 'Old town', 'Ptuj old town', '처음 가는 여행에 추천|Best for a first visit', '광장과 성, 와인 저장고가 걸어서 닿습니다.|The square, the castle and the wine cellar on foot.'),
   ],
   postojna: [
     a('류블랴나에서 다녀오기', 'Base in Ljubljana', 'Ljubljana city centre', '당일치기|Day trip', '차나 기차로 45분쯤이고 프레드야마성과 묶은 당일 투어가 많습니다.|About 45 minutes by car or train, with many day tours that add Predjama Castle.'),

@@ -4806,6 +4806,26 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Historic cores often restrict cars—use outer parking and shuttles.',
     },
   },
+  bohinj: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '호숫가는 걸어서 다닙니다. 여름엔 호수 주변 무료 셔틀버스가 다니고, 블레드·류블랴나행 버스가 있습니다.',
+      en: 'Walk the lakeshore; free summer shuttles circle the lake, and buses run to Bled and Ljubljana.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  bovec: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 코바리드행 버스가 있지만 편수가 적고, 폭포와 협곡은 차나 자전거가 편합니다.',
+      en: 'Walk the village; buses run to Kobarid but are infrequent, so a car or bike is easier for the waterfalls and gorges.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   piran: {
     modes: ['ferry', 'bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -4820,11 +4840,31 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Historic cores often restrict cars—use outer parking and shuttles.',
     },
   },
+  koper: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 이졸라·피란행 해안 버스가 자주 다닙니다.',
+      en: 'Walk the old town; frequent coastal buses run to Izola and Piran.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   maribor: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
       ko: 'Maribor: 시내버스·도보가 기본입니다. 인근 도시는 기차·장거리 버스를 이용하세요.',
       en: 'Maribor is mainly local buses and walking. Use trains or coaches for nearby cities.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  ptuj: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역에서 광장까지 걸어서 약 10분입니다.',
+      en: 'Walk the old town; the square is about 10 min on foot from the station.',
     },
     apps: [
       ta('trainline'),
