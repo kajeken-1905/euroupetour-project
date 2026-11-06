@@ -2062,3 +2062,22 @@ highlights/westport-3.jpg | https://commons.wikimedia.org/wiki/File:The_Great_We
 highlights/westport-4.jpg | https://commons.wikimedia.org/wiki/File:The_Octagon_in_Westport_-_geograph.org.uk_-_8151193.jpg | CC BY-SA 2.0 | Marathon
 highlights/westport-6.jpg | https://commons.wikimedia.org/wiki/File:Achill_Island,_County_Mayo_02.jpg | CC BY-SA 4.0 | Marco Ober
 highlights/westport-5.jpg | https://commons.wikimedia.org/wiki/File:Jan2026._National_Museum_of_Ireland_%E2%80%93_Country_Life,_County_Mayo,_Ireland_02.jpg | CC0 | Ridiculopathy
+highlights/budapest-18.jpg | https://commons.wikimedia.org/wiki/File:Rudas_Baths_connecting_building_in_Tab%C3%A1n,_2016_Budapest.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/budapest-19.jpg | https://commons.wikimedia.org/wiki/File:Budapest._I._Lovas_%C3%BAt_4.-_Hospital_in_the_Rock_and_Castle_Walls._Sour_Soup_tower.JPG | CC BY-SA 3.0 | Globetrotter19
+highlights/budapest-20.jpg | https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_M%C3%BAzeum._Forster_K%C3%B6zpont._-_%C3%9Ajbuda,_Kelenf%C3%B6ld.JPG | CC BY-SA 3.0 | Globetrotter19
+highlights/budapest-21.jpg | https://commons.wikimedia.org/wiki/File:Romkocsma_Szimpla_Kert_Budapest.jpg | CC BY-SA 3.0 | Yelkrokoyade
+highlights/budapest-22.jpg | https://commons.wikimedia.org/wiki/File:Vajdahunyad_v%C3%A1ra_Budapest_September_2013.jpg | CC BY 3.0 | Felix König
+highlights/budapest-23.jpg | https://commons.wikimedia.org/wiki/File:Zwack_Unicum_Nyrt.jpg | CC BY-SA 4.0 | Elekes Andor
+highlights/budapest-24.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_of_G%C3%B6d%C3%B6ll%C5%91_004.JPG | CC BY-SA 3.0 | Rlevente
+highlights/szentendre-6.jpg | https://commons.wikimedia.org/wiki/File:SzentendreMarcipanMuseum.jpg | CC BY-SA 3.0 | Mussklprozz
+highlights/szentendre-7.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6r%C3%B6gkeleti_p%C3%BCsp%C3%B6ki_sz%C3%A9kesegyh%C3%A1z_(Belgr%C3%A1d-templom)_(7388._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k)_4.jpg | CC BY 2.5 hu | Szvitek Péter
+highlights/szentendre-8.jpg | https://commons.wikimedia.org/wiki/File:Visegr%C3%A1d,_Fellegv%C3%A1r,_pohled_z_%C3%BApat%C3%AD_Nagy-Vill%C3%A1m.JPG | CC BY-SA 3.0 | I would appreciate being notified if you use my work outside
+highlights/debrecen-6.jpg | https://commons.wikimedia.org/wiki/File:Debreceni_Reform%C3%A1tus_Koll%C3%A9gium_%C3%A9p%C3%BClete_a_Nagytemplom_torny%C3%A1b%C3%B3l_n%C3%A9zve_(2017).jpg | CC BY-SA 4.0 | Manuista
+highlights/debrecen-7.jpg | https://commons.wikimedia.org/wiki/File:Hortob%C3%A1gy_2017-07-22_%E2%80%93_7.jpg | CC BY-SA 4.0 | Johan Jönsson (Julle)
+highlights/pecs-6.jpg | https://commons.wikimedia.org/wiki/File:Building_of_Csontvary_Museum_Pecs.JPG | CC BY-SA 3.0 | Mrszantogabor
+highlights/pecs-7.jpg | https://commons.wikimedia.org/wiki/File:Vill%C3%A1ny_v%C3%A1rosa_a_kil%C3%A1t%C3%B3b%C3%B3l.jpg | CC BY-SA 4.0 | Szajci
+highlights/szeged-6.jpg | https://commons.wikimedia.org/wiki/File:Szeged-Als%C3%B3v%C3%A1ros,_ferences_templom_2021_01.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/szeged-7.jpg | https://commons.wikimedia.org/wiki/File:Facade_of_the_Ferenc_M%C3%B3ra_Museum_in_Szeged.jpg | CC0 | Szilas
+highlights/szeged-8.jpg | https://commons.wikimedia.org/wiki/File:MVSZ-h%C3%A1z_%C3%93pusztaszer.JPG | Public domain | Csanády
+highlights/eger-6.jpg | https://commons.wikimedia.org/wiki/File:Eger_Cathedral.jpg | CC BY-SA 2.5 hu | Székesegyház_(Szent_János_apostol_és_főangyal,_Szent_Mihály_
+highlights/eger-7.jpg | https://commons.wikimedia.org/wiki/File:Listed_Turkish_bath_in_Eger,_2016_Hungary.jpg | CC BY-SA 3.0 | Globetrotter19

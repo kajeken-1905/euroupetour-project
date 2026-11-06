@@ -1558,5 +1558,100 @@
     53.96752,
     -10.19349,
     "OSM Nominatim: Keem Beach, Achill, County Mayo (Wikipedia: island)"
+  ],
+  "szentendre-h6": [
+    47.66627,
+    19.07647,
+    "OSM Nominatim: Szamos Marcipán Kiállítás és Látványműhely, Dumtsa Jenő utca 14, Szentendre"
+  ],
+  "szeged-h8": [
+    46.48954,
+    20.09607,
+    "OSM Nominatim: Feszty-körkép, Millennium tér, Ópusztaszer"
+  ],
+  "eger-h6": [
+    47.89939,
+    20.37315,
+    "OSM Nominatim: Egri főszékesegyház, Eszterházy tér 1, Eger"
+  ],
+  "budapest-h18": [
+    47.48987,
+    19.04739,
+    "OSM Nominatim: Rudas Gyógyfürdő, Szent Gellért rakpart, Tabán, I. kerület,  (Wikipedia 93m)"
+  ],
+  "budapest-h19": [
+    47.50079,
+    19.03142,
+    "OSM Nominatim: Sziklakórház Atombunker Múzeum, 4/C, Lovas út, Krisztinaváro (Wikipedia 23m)"
+  ],
+  "budapest-h20": [
+    47.49118,
+    19.06288,
+    "OSM Nominatim: Magyar Nemzeti Múzeum, 14-16, Múzeum körút, Palotanegyed, VI (Wikipedia 11m)"
+  ],
+  "budapest-h21": [
+    47.49693,
+    19.06331,
+    "OSM Nominatim: Szimpla Kert, 14, Kazinczy utca, Erzsébetváros, VII. kerület (Wikipedia 10m)"
+  ],
+  "budapest-h22": [
+    47.51535,
+    19.08188,
+    "OSM Nominatim: Vajdahunyad vára, 29732/1, Vajdahunyad sétány, Városliget, X (Wikipedia 10m)"
+  ],
+  "budapest-h23": [
+    47.4761,
+    19.07021,
+    "OSM Nominatim: Zwack Látogatóközpont, 1, Dandár utca, Középső-Ferencváros M"
+  ],
+  "budapest-h24": [
+    47.59559,
+    19.34765,
+    "OSM Nominatim: Gödöllői Királyi Kastély, Szabadság út, Központ, Gödöllő, Gö (Wikipedia 59m)"
+  ],
+  "szentendre-h7": [
+    47.66894,
+    19.07574,
+    "OSM Nominatim: Belgrád székesegyház, Hunyadi köz, Kertváros, Bükköspart, Sz"
+  ],
+  "szentendre-h8": [
+    47.79359,
+    18.98041,
+    "OSM Nominatim: Visegrádi fellegvár, 0125/5, 0125/16, 0125/17, 0125/18, 0125"
+  ],
+  "debrecen-h6": [
+    47.53348,
+    21.62354,
+    "OSM Nominatim: Debreceni Református Kollégium, 16, Kálvin tér, Belváros, De"
+  ],
+  "debrecen-h7": [
+    47.58179,
+    21.14765,
+    "OSM Nominatim: Kilenclyukú híd, Hortobágy, Balmazújvárosi járás, Hajdú-Biha"
+  ],
+  "pecs-h6": [
+    46.0774,
+    18.22508,
+    "OSM Nominatim: Csontváry Múzeum, 11, Janus Pannonius utca, Zidina, Belváros"
+  ],
+  "pecs-h7": [
+    45.86976,
+    18.45552,
+    "OSM Nominatim: Villány, Siklósi járás, Baranya megye, Dunántúl, 7773, Magya (Wikipedia 29m)"
+  ],
+  "szeged-h6": [
+    46.24072,
+    20.13693,
+    "OSM Nominatim: Havas Boldogasszony templom, 26, Mátyás király tér, Alsóváro"
+  ],
+  "szeged-h7": [
+    46.25229,
+    20.15208,
+    "OSM Nominatim: Móra Ferenc Múzeum, Huszár Mátyás rakpart, Belváros, Szeged,"
+  ],
+  "eger-h7": [
+    47.89835,
+    20.38237,
+    "OSM Nominatim: Török Fürdő, Fürdő utca, Érsekkert, Eger, Egri járás, Heves  (Wikipedia 577m)"
   ]
 }

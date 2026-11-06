@@ -54,19 +54,22 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   roskilde: [4, 2, 1, 3],
   budapest: {
     days: [
-      ['부다 왕궁 언덕|Castle Hill', 5, 7, 9, 2, 10],
-      ['국회의사당과 다뉴브|Parliament & the Danube', 14, 1, 13, 8, 17, 6],
-      ['안드라시 거리와 시티 파크|Andrássy Avenue & City Park', 12, 11, 15, 4, 3],
+      ['부다 왕궁 언덕|Castle Hill', 5, 7, 9, 2, 19, 10, 18],
+      ['국회의사당과 다뉴브|Parliament & the Danube', 14, 1, 13, 8, 17, 20, 6, 23],
+      ['안드라시 거리와 시티 파크|Andrássy Avenue & City Park', 12, 21, 11, 15, 4, 22, 3],
     ],
-    trips: [['에스테르곰|Esztergom', 16]],
+    trips: [
+      ['에스테르곰|Esztergom', 16],
+      ['괴될뢰 왕궁|Gödöllő Palace', 24],
+    ],
   },
   nitra: [3, 4, 2, 1, 5],
-  szentendre: [1, 2, 4, 3, 5],
-  debrecen: [4, 1, 2, 3, 5],
-  pecs: [5, 2, 1, 3, 4],
-  szeged: [2, 1, 3, 5, 4],
+  szentendre: { days: [['', 1, 6, 2, 7, 4, 3, 5]], trips: [['비셰그라드|Visegrád', 8]] },
+  debrecen: { days: [['', 4, 1, 6, 2, 3, 5]], trips: [['호르토바지|Hortobágy', 7]] },
+  pecs: { days: [['', 5, 2, 1, 3, 6, 4]], trips: [['빌라니|Villány', 7]] },
+  szeged: { days: [['', 2, 1, 7, 3, 6, 5, 4]], trips: [['오푸스터세르|Ópusztaszer', 8]] },
   tihany: [1, 2, 3, 4, 5, 6],
-  eger: [1, 2, 3, 5, 4],
+  eger: [1, 2, 3, 6, 5, 7, 4],
   prague: {
     days: [
       ['프라하 성과 말라스트라나|Prague Castle & Malá Strana', 1, 9, 12, 20, 17, 5, 10, 2],
