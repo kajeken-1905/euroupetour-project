@@ -71,4 +71,44 @@ export const placesCZExtra: Place[] = [
   place('mikulov-fine_dining-2', 'mikulov', 'fine_dining', 'Bistro W Kodiak', 'Jiráskova 2, 692 01 Mikulov', '시내의 비스트로.', 'Bistro in the town.'),
   place('mikulov-bakery-1', 'mikulov', 'bakery', 'Pekařství a bistro Křižákovi', 'Náměstí 207, 692 01 Mikulov', '중앙 광장의 빵집 겸 비스트로.', 'Bakery and bistro on the main square.'),
   place('mikulov-cafe-1', 'mikulov', 'cafe', 'moji', 'Svobody 240/4, 692 01 Mikulov', '시내의 커피숍.', 'Coffee shop in the town.'),
+
+  // —— plzen: restaurants, bakeries and cafés (2026-11-06) ——
+  place('plzen-fine_dining-1', 'plzen', 'fine_dining', 'Na Spilce', 'U Prazdroje 64/7, 301 00 Plzeň, Czechia', '필스너 우르켈 양조장 안 둥근 천장 지하 저장고의 체코 전통 요리 식당. 미쉐린 가이드 선정.', 'Traditional Czech cooking in a vaulted cellar on the Pilsner Urquell brewery grounds. In the MICHELIN Guide.'),
+  place('plzen-fine_dining-2', 'plzen', 'fine_dining', 'Štipec', 'Riegrova 208/5, 301 00 Plzeň, Czechia', '시내 중심의 현대식 체코 요리 식당. 미쉐린 빕 구르망.', 'Contemporary Czech cooking in the city centre. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('plzen-fine_dining-3', 'plzen', 'fine_dining', 'U Salzmannů', 'Pražská 90/8, 301 00 Plzeň, Czechia', '오래된 맥줏집 겸 체코 요리 식당.', 'Long-established pub-restaurant serving Czech food.'),
+  place('plzen-fine_dining-4', 'plzen', 'fine_dining', 'Rango', 'Pražská 89/10, 301 00 Plzeň, Czechia', '프라시스카 거리의 레스토랑.', 'Restaurant on Pražská Street.'),
+  place('plzen-fine_dining-5', 'plzen', 'fine_dining', 'U Mansfelda', 'Dřevěná 9, 301 00 Plzeň, Czechia', '구시가의 체코 요리 식당 겸 와인 바.', 'Czech restaurant and wine bar in the old town.'),
+  place('plzen-cafe-1', 'plzen', 'cafe', 'Schovaná Kavárna', 'Zbrojnická 6, 301 00 Plzeň, Czechia', '구시가 골목 안의 카페.', 'Café tucked away on an old-town lane.'),
+  place('plzen-cafe-2', 'plzen', 'cafe', 'Pappa Coffee', 'Veleslavínova 8, 301 00 Plzeň, Czechia', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+  place('plzen-cafe-3', 'plzen', 'cafe', 'Orient Coffee', 'nám. Republiky 3, 301 00 Plzeň, Czechia', '공화국 광장의 카페.', 'Café on Republic Square.'),
+  place('plzen-cafe-4', 'plzen', 'cafe', 'Caffe Diem', 'Pražská 59/31, 301 00 Plzeň, Czechia', '프라시스카 거리의 커피숍.', 'Coffee shop on Pražská Street.'),
+  place('plzen-bakery-1', 'plzen', 'bakery', 'Francouzská pekárna U Gaela', 'Sady 5. května 24, 301 00 Plzeň, Czechia', '프랑스식 빵집.', 'French-style bakery.'),
+  place('plzen-bakery-2', 'plzen', 'bakery', 'Pekařství Na Rybníčkách', 'Jungmannova 3, 301 00 Plzeň, Czechia', '시내의 빵집.', 'Bakery in the city centre.'),
+
+  // —— kutna-hora: restaurants, bakeries and cafés (2026-11-06) ——
+  place('kutna-hora-fine_dining-1', 'kutna-hora', 'fine_dining', 'Restaurace Dačický', 'Rakova 8, 284 01 Kutná Hora, Czechia', '중세풍으로 꾸민 체코 전통 요리 식당.', 'Traditional Czech restaurant with medieval-style decor.'),
+  place('kutna-hora-fine_dining-2', 'kutna-hora', 'fine_dining', 'V Ruthardce', 'Dačického nám. 15, 284 01 Kutná Hora, Czechia', '구시가 광장의 식당.', 'Restaurant on an old-town square.'),
+  place('kutna-hora-fine_dining-3', 'kutna-hora', 'fine_dining', 'Čtyři sestry', 'Havlíčkovo nám. 512, 284 01 Kutná Hora, Czechia', '정원 좌석이 있는 식당.', 'Restaurant with a garden.'),
+  place('kutna-hora-fine_dining-4', 'kutna-hora', 'fine_dining', 'Factory Bistro', 'Česká 184/1, 284 01 Kutná Hora, Czechia', '구시가의 비스트로.', 'Bistro in the old town.'),
+  place('kutna-hora-cafe-1', 'kutna-hora', 'cafe', 'Vaškovy dobroty', 'Havlíčkovo nám. 513, 284 01 Kutná Hora, Czechia', '커피와 페이스트리를 내는 작은 카페.', 'Small café with coffee and pastries.'),
+  place('kutna-hora-cafe-2', 'kutna-hora', 'cafe', 'Coffeehood', 'Starosedlecká, 284 03 Kutná Hora-Sedlec, Czechia', '세들레츠의 커피숍.', 'Coffee shop in Sedlec.'),
+  place('kutna-hora-cafe-3', 'kutna-hora', 'cafe', 'Turistka', 'Barborská 29/22, 284 01 Kutná Hora, Czechia', '바르보르스카 거리의 커피숍.', 'Coffee shop on Barborská Street.'),
+  place('kutna-hora-cafe-4', 'kutna-hora', 'cafe', 'Kafírnictví', 'Palackého nám. 510, 284 01 Kutná Hora, Czechia', '팔라츠키 광장의 카페.', 'Café on Palacký Square.'),
+  place('kutna-hora-bakery-1', 'kutna-hora', 'bakery', 'Chleby jako v nebi', 'Kollárova 313/8, 284 01 Kutná Hora, Czechia', '빵집 겸 비스트로.', 'Bakery and bistro.'),
+  place('kutna-hora-bakery-2', 'kutna-hora', 'bakery', 'Cukrárna U Kraba', 'Tylova 505, 284 01 Kutná Hora, Czechia', '과자점.', 'Pastry shop.'),
+
+  // —— znojmo: restaurants, bakeries and cafés (2026-11-06) ——
+  place('znojmo-fine_dining-1', 'znojmo', 'fine_dining', 'BaJo Bistro', 'Horní Česká 12, 669 02 Znojmo, Czechia', '구시가의 비스트로.', 'Bistro in the old town.'),
+  place('znojmo-fine_dining-2', 'znojmo', 'fine_dining', 'Hospůdka Maxwilliam', 'U Brány 435/1, 669 02 Znojmo, Czechia', '체코 요리 선술집.', 'Czech pub-restaurant.'),
+  place('znojmo-fine_dining-3', 'znojmo', 'fine_dining', 'Gastro-bar23', 'Obroková 283/23, 669 02 Znojmo, Czechia', '시청 탑 근처의 식당.', 'Restaurant near the town hall tower.'),
+  place('znojmo-fine_dining-4', 'znojmo', 'fine_dining', 'Restaurace Mikuláš', 'Staré Město 109/1, 669 02 Znojmo, Czechia', '성 니콜라스 성당 근처의 비스트로.', 'Bistro near St Nicholas Church.'),
+  place('znojmo-fine_dining-5', 'znojmo', 'fine_dining', 'Tusto Znojmo', 'Dolní Česká 300, 669 02 Znojmo, Czechia', '이탈리아 요리 식당.', 'Italian restaurant.'),
+  place('znojmo-cafe-1', 'znojmo', 'cafe', 'Půlnapůl', 'Horní Česká, 669 02 Znojmo, Czechia', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+  place('znojmo-cafe-2', 'znojmo', 'cafe', 'Káva na Knopp', 'Malá Michalská 1, 669 02 Znojmo, Czechia', '구시가의 커피숍.', 'Coffee shop in the old town.'),
+  place('znojmo-cafe-3', 'znojmo', 'cafe', 'Cappuccino Café', 'Horní nám. 138/5, 669 02 Znojmo, Czechia', '위쪽 광장의 카페.', 'Café on Upper Square.'),
+  place('znojmo-cafe-4', 'znojmo', 'cafe', 'Kafe U Radnice', 'Obroková 270/3, 669 02 Znojmo, Czechia', '시청 탑 옆의 카페.', 'Café beside the town hall tower.'),
+
+  // —— hrensko: restaurants, bakeries and cafés (2026-11-06) ——
+  place('hrensko-fine_dining-1', 'hrensko', 'fine_dining', 'ARRIGŌ', 'Duchcovská 827/6, 405 02 Děčín, Czechia', '데친의 레스토랑 겸 카페·델리. 아침부터 저녁까지 엽니다. 미쉐린 가이드 선정.', 'Restaurant, café and deli in Děčín, open from breakfast to dinner. In the MICHELIN Guide.'),
+  place('hrensko-fine_dining-2', 'hrensko', 'fine_dining', 'Restaurant Bamboo', 'Hřensko 125, 407 17 Hřensko, Czechia', '흐렌스코 마을의 식당.', 'Restaurant in Hřensko village.'),
 ]

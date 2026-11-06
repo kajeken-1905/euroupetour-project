@@ -6232,6 +6232,14 @@
 "ko": "비외 바생 근처의 작은 식당. 미쉐린 가이드에 실려 있고 노르망디 재료로 세 가지 코스를 냅니다.",
 "ok": 1
 },
+"hrensko-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"hrensko-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "husavik-bakery-1": {
 "en": "Bakery-café near the harbour best known for its snúður cinnamon rolls; closed Sundays.",
 "ko": "항구 근처의 빵집 겸 카페. 시나몬롤 스누두르가 대표이고 일요일은 쉽니다.",
@@ -7310,6 +7318,46 @@
 "en": "Georgian restaurant of Hotel Magnolia by the Galaktion Tabidze statue on the Rioni, known for its Adjarian khachapuri.",
 "ko": "리오니강 옆 갈락티온 타비제 동상 근처 호텔 마그놀리아의 조지아 요리 식당. 아자리아식 하차푸리가 인기입니다.",
 "ok": 1
+},
+"kutna-hora-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-cafe-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"kutna-hora-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "kyiv-bakery-1": {
 "del": 1
@@ -11200,6 +11248,50 @@
 "en": "Modern Bulgarian restaurant opened in Kapana in 2018, cooking seasonally with produce from small regional farms.",
 "ko": "2018년 카파나 지구에 문을 연 모던 불가리아 레스토랑. 지역 소농 재료의 제철 요리.",
 "ok": 1
+},
+"plzen-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-cafe-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"plzen-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "podgorica-bakery-1": {
 "del": "Sicilia at Ivana Vujoševića 50 is a pizzeria, not a bakery"
@@ -16755,6 +16847,42 @@
 "en": "Grill and flambé restaurant in the Hotel Aristella, flambéing and carving dishes at the table.",
 "ko": "호텔 아리스텔라 안의 그릴·플랑베 레스토랑. 테이블에서 고기를 플랑베해 썰어 줍니다.",
 "ok": 1
+},
+"znojmo-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-cafe-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"znojmo-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "zurich-bakery-1": {
 "addr": "Bahnhofstrasse 21, 8001 Zürich",
