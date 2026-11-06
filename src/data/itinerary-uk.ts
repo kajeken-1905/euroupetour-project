@@ -94,18 +94,39 @@ export const itineraryUk: Record<string, RawItinerary> = {
   belfast: [3, 5, 2, 4, 6, 1],
   'giants-causeway': [3, 5, 1, 2, 4],
   derry: [3, 2, 1, 4],
-  dublin: { days: [['', 1, 2, 3, 4]], trips: [['모허 절벽|Cliffs of Moher', 5]] },
+  dublin: {
+    days: [
+      ['트리니티와 조지 시대 더블린|Trinity & Georgian Dublin', 1, 12, 13, 14],
+      ['구시가와 템플 바|Old city & Temple Bar', 7, 8, 9, 15, 2],
+      ['리버티스와 서쪽|The Liberties & west', 10, 3, 6, 11, 4],
+      ['독랜즈와 북쪽|Docklands & north', 16, 17],
+    ],
+    trips: [
+      ['호스|Howth', 18],
+      ['글렌달록|Glendalough', 19],
+      ['뉴그레인지|Newgrange', 20],
+      ['모허 절벽|Cliffs of Moher', 5],
+    ],
+  },
   galway: {
-    days: [['', 2, 1, 3]],
+    days: [['', 2, 1, 7, 6, 3]],
     trips: [
       ['모허 절벽|Cliffs of Moher', 4],
       ['아란 제도|Aran Islands', 5],
+      ['코네마라|Connemara', 8],
     ],
   },
-  cork: { days: [['', 3, 1, 2, 4]], trips: [['블라니성|Blarney Castle', 5]] },
-  killarney: { days: [['킬라니 국립공원|Killarney National Park', 3, 2, 5, 1]], trips: [['링 오브 케리|Ring of Kerry', 4]] },
-  kilkenny: [1, 5, 2, 3],
-  limerick: [4, 3, 1, 2, 5],
+  cork: {
+    days: [['', 3, 1, 2, 6, 4, 7]],
+    trips: [
+      ['블라니성|Blarney Castle', 5],
+      ['코브|Cobh', 8],
+      ['미들턴 제임슨 증류소|Jameson Midleton', 9],
+    ],
+  },
+  killarney: { days: [['킬라니 국립공원|Killarney National Park', 3, 2, 5, 1]], trips: [['링 오브 케리|Ring of Kerry', 4], ['던로 협곡|Gap of Dunloe', 6]] },
+  kilkenny: { days: [['', 1, 5, 2, 6, 3]], trips: [['캐셜 바위|Rock of Cashel', 7]] },
+  limerick: { days: [['', 4, 3, 7, 1, 6, 2, 5]], trips: [['번래티 성|Bunratty Castle', 8]] },
   // Crown Dependencies
   douglas: { days: [['', 2, 3, 1]], trips: [['락시와 스나펠|Laxey & Snaefell', 4, 5]] },
   castletown: [1, 2, 3],

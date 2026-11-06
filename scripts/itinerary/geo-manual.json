@@ -1308,5 +1308,145 @@
     56.6707,
     -5.07968,
     "OSM Nominatim: Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotl"
+  ],
+  "dublin-h6": [
+    53.34169,
+    -6.30957,
+    "OSM Nominatim: Kilmainham Gaol, Inchicore Road, Kilmainham B ED, Dublin, Co (Wikipedia 8m)"
+  ],
+  "dublin-h7": [
+    53.34266,
+    -6.267,
+    "OSM Nominatim: Dublin Castle, Castle Street, Royal Exchange A ED, Dublin, C (Wikipedia 42m)"
+  ],
+  "dublin-h8": [
+    53.34341,
+    -6.2712,
+    "OSM Nominatim: Christ Church Cathedral, 6, Christchurch Place, Wood Quay A  (Wikipedia 41m)"
+  ],
+  "dublin-h9": [
+    53.33956,
+    -6.27148,
+    "OSM Nominatim: Saint Patrick's Cathedral, Patrick Street, Wood Quay A ED, D (Wikipedia 15m)"
+  ],
+  "dublin-h10": [
+    53.33763,
+    -6.2771,
+    "OSM Nominatim: Teeling Whiskey Company, 13-17, Newmarket, Merchants Quay C  (Wikipedia 32m)"
+  ],
+  "dublin-h11": [
+    53.34812,
+    -6.27708,
+    "OSM Nominatim: Old Jameson Distillery, Duck Lane, Smithfield, Arran Quay C  (Wikipedia 21m)"
+  ],
+  "dublin-h12": [
+    53.34024,
+    -6.25496,
+    "OSM Nominatim: National Museum of Ireland, Archaeology, Kildare Street, Man (Wikipedia 5m)"
+  ],
+  "dublin-h13": [
+    53.34112,
+    -6.25267,
+    "OSM Nominatim: National Gallery of Ireland, 89, Merrion Square West, Mansio (Wikipedia 24m)"
+  ],
+  "dublin-h14": [
+    53.33805,
+    -6.25902,
+    "OSM Nominatim: St Stephen's Green, Mansion House B ED, Dublin, County Dubli (Wikipedia 10m)"
+  ],
+  "dublin-h15": [
+    53.34633,
+    -6.26309,
+    "OSM Nominatim: Ha'penny Bridge, Royal Exchange A Ward 1986, Dublin, County  (Wikipedia 26m)"
+  ],
+  "dublin-h16": [
+    53.34827,
+    -6.24798,
+    "OSM Nominatim: EPIC The Irish Emigration Museum, Custom House Quay, North D (Wikipedia 30m)"
+  ],
+  "dublin-h17": [
+    53.37208,
+    -6.27858,
+    "OSM Nominatim: Glasnevin Cemetery, Botanic A Ward 1986, Dublin, County Dubl (Wikipedia 56m)"
+  ],
+  "dublin-h18": [
+    53.38911,
+    -6.07437,
+    "OSM Nominatim: Howth, Harbour Road, Ben Eadair A ED, Howth, Fingal, County  (Wikipedia 654m)"
+  ],
+  "dublin-h19": [
+    53.01051,
+    -6.32434,
+    "OSM Nominatim: Glendalough Visitor Centre, Wicklow Way, Brockagh ED, The Mu (Wikipedia 213m)"
+  ],
+  "dublin-h20": [
+    53.69466,
+    -6.4467,
+    "OSM Nominatim: Brú na Bóinne Visitor Centre, L1601, Duleek ED, The Municipa (Wikipedia 266m)"
+  ],
+  "galway-h6": [
+    53.27522,
+    -9.05758,
+    "OSM Nominatim: Galway Cathedral, Gaol Road, Nun's Island, Cathair na Gailli (Wikipedia 9m)"
+  ],
+  "galway-h7": [
+    53.26982,
+    -9.05346,
+    "OSM Nominatim: Galway City Museum, Spanish Parade, Eyre Square, Cathair na  (Wikipedia 38m)"
+  ],
+  "galway-h8": [
+    53.56174,
+    -9.88941,
+    "OSM Nominatim: Kylemore Abbey, N59, Ballynakill ED, Conamara Municipal Dist (Wikipedia 4m)"
+  ],
+  "cork-h6": [
+    51.89455,
+    -8.47796,
+    "OSM Nominatim: Elizabeth Fort, Keyser's Hill, South Gate B, Cork, County Co (Wikipedia 24m)"
+  ],
+  "cork-h7": [
+    51.89948,
+    -8.49899,
+    "OSM Nominatim: Cork City Gaol, Convent Avenue, Sunday's Well, Sunday's Well (Wikipedia 6m)"
+  ],
+  "cork-h8": [
+    51.84996,
+    -8.29481,
+    "OSM Nominatim: Titanic Experience, Westbourne Place, Cobh Urban ED, Municip (Wikipedia 174m)"
+  ],
+  "cork-h9": [
+    51.91382,
+    -8.16831,
+    "OSM Nominatim: Jameson Distillery Midleton, Distillery Walk, Midleton Urban"
+  ],
+  "killarney-h6": [
+    51.99439,
+    -9.64429,
+    "OSM Nominatim: Gap of Dunloe, Dunloe ED, Kenmare Municipal District, County"
+  ],
+  "kilkenny-h6": [
+    52.65423,
+    -7.25479,
+    "OSM Nominatim: Rothe House, 16, Parliament Street, Kilkenny, County Kilkenn (Wikipedia 13m)"
+  ],
+  "kilkenny-h7": [
+    52.52018,
+    -7.89064,
+    "OSM Nominatim: Rock of Cashel, Tipperary Heritage Way, Cashel Urban, The Mu (Wikipedia 48m)"
+  ],
+  "limerick-h6": [
+    52.66823,
+    -8.62353,
+    "OSM Nominatim: Saint Mary's Cathedral, St Augustine Place, John's B, The Me (Wikipedia 18m)"
+  ],
+  "limerick-h7": [
+    52.66361,
+    -8.6221,
+    "OSM Nominatim: Milk Market, Carr Street, Custom House, The Metropolitan Dis"
+  ],
+  "limerick-h8": [
+    52.69666,
+    -8.81203,
+    "OSM Nominatim: Bunratty Castle, The Low Road, Bunratty, Drumline ED, Shanno (Wikipedia 25m)"
   ]
 }

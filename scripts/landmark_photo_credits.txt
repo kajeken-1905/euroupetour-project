@@ -2007,3 +2007,31 @@ highlights/fort-william-2.jpg | https://commons.wikimedia.org/wiki/File:Albert_I
 highlights/fort-william-3.jpg | https://commons.wikimedia.org/wiki/File:Nevis_Range_gondola_-_top_station_-_geograph.org.uk_-_2016609.jpg | CC BY-SA 2.0 | Peter S
 highlights/fort-william-4.jpg | https://commons.wikimedia.org/wiki/File:Caledonian_Canal_at_Neptune%E2%80%99s_Staircase_-_geograph.org.uk_-_8064887.jpg | CC BY-SA 2.0 | David Dixon
 highlights/fort-william-5.jpg | https://commons.wikimedia.org/wiki/File:The_Three_Sisters_from_Old_Glencoe_Road_03.jpg | CC BY 4.0 | Nizzan Cohen
+highlights/dublin-12.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Ireland.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/dublin-13.jpg | https://commons.wikimedia.org/wiki/File:National_Gallery_of_Ireland_-_geograph.org.uk_-_6414923.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/dublin-14.jpg | https://commons.wikimedia.org/wiki/File:Grafton_Street_from_the_St._Stephen%27s_Green_end_-_geograph.org.uk_-_1873406.jpg | CC BY-SA 2.0 | Eric Jones
+highlights/dublin-7.jpg | https://commons.wikimedia.org/wiki/File:Dublin_-_Dublin_Castle_-_20180925052322.jpg | CC BY-SA 4.0 | Jowaria
+highlights/dublin-8.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Christ_Church_Cathedral,_Dublin_2.png | CC BY-SA 4.0 | Ridiculopathy
+highlights/dublin-9.jpg | https://commons.wikimedia.org/wiki/File:St_Patrick%27s_Cathedral_Exterior,_Dublin,_Ireland_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/dublin-15.jpg | https://commons.wikimedia.org/wiki/File:Ha%27penny_bridge_00209.jpg | CC BY-SA 4.0 | Chris Light
+highlights/dublin-10.jpg | https://commons.wikimedia.org/wiki/File:Teeling_distillery_Dublin.jpg | CC BY-SA 4.0 | FA Shooter
+highlights/dublin-6.jpg | https://commons.wikimedia.org/wiki/File:Kilmainham_Gaol_2.jpg | CC BY-SA 4.0 | GrimsbyT
+highlights/dublin-11.jpg | https://commons.wikimedia.org/wiki/File:Dublin_-_Old_Jameson_Distillery_-_20210918161608.jpg | CC BY-SA 4.0 | Nialljpmurphy
+highlights/dublin-16.jpg | https://commons.wikimedia.org/wiki/File:EPIC_The_Irish_Emigration_Museum_2026.jpg | CC BY 4.0 | Maureliusz
+highlights/dublin-17.jpg | https://commons.wikimedia.org/wiki/File:Glasnevin_Cemetery,_Dublin_-_geograph.org.uk_-_5947111.jpg | CC BY-SA 2.0 | Gareth James
+highlights/dublin-18.jpg | https://commons.wikimedia.org/wiki/File:Howth-From-Plane-2012.JPG | CC BY-SA 3.0 | Bjørn Christian Tørrissen
+highlights/dublin-19.jpg | https://commons.wikimedia.org/wiki/File:2019-07-17-Glendalough-6536.jpg | CC BY-SA 4.0 | Superbass
+highlights/dublin-20.jpg | https://commons.wikimedia.org/wiki/File:Br%C3%BA_na_B%C3%B3inne_-_20170705121243.jpg | CC BY-SA 4.0 | Conorohara
+highlights/galway-7.jpg | https://commons.wikimedia.org/wiki/File:Galway_-_Spanish_Arch_-_geograph.org.uk_-_3109561.jpg | CC BY-SA 2.0 | Suzanne Mischyshyn
+highlights/galway-6.jpg | https://commons.wikimedia.org/wiki/File:Ireland_Galway_Cathedral_BW_2025-09-10_17-37-06.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/galway-8.jpg | https://commons.wikimedia.org/wiki/File:Kylemore_Abbey_BW_2025-09-10_15-27-09.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/cork-6.jpg | https://commons.wikimedia.org/wiki/File:Cork_-_Elizabeth_Fort_-_20170930210330.jpg | CC BY-SA 4.0 | Vimalkvn
+highlights/cork-7.jpg | https://commons.wikimedia.org/wiki/File:Debtors_Gaol,_Cork_City_Gaol_-_geograph.org.uk_-_6328501.jpg | CC BY-SA 2.0 | Robin Webster
+highlights/cork-8.jpg | https://commons.wikimedia.org/wiki/File:The_Titanic_Experience_Cobh_-_geograph.org.uk_-_6039327.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/cork-9.jpg | https://commons.wikimedia.org/wiki/File:Jameson_Visiter_Centre_-_geograph.org.uk_-_3666305.jpg | CC BY-SA 2.0 | derek menzies
+highlights/killarney-6.jpg | https://commons.wikimedia.org/wiki/File:Gap_of_Dunloe,_facing_South.jpg | CC BY-SA 3.0 | Daniel Dudek
+highlights/kilkenny-6.jpg | https://commons.wikimedia.org/wiki/File:Rothe_House_-_geograph.org.uk_-_6431132.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/kilkenny-7.jpg | https://commons.wikimedia.org/wiki/File:Rock_of_Cashel,_Tipperary.jpg | CC BY-SA 2.0 | Mike Searle
+highlights/limerick-7.jpg | https://commons.wikimedia.org/wiki/File:Milk_Market_sign.jpg | CC BY-SA 4.0 | Sheila1988
+highlights/limerick-6.jpg | https://commons.wikimedia.org/wiki/File:The_Metropolitan_District_of_Limerick_City_-_St_Mary%27s_Cathedral,_Limerick_-_2025-09-29_19-10-09_001.jpeg | CC BY-SA 4.0 | Thoslee
+highlights/limerick-8.jpg | https://commons.wikimedia.org/wiki/File:Bunratty_Castle_and_Durty_Nellys,_Southeast_view_20150803_1.jpg | CC BY-SA 4.0 | DXR
