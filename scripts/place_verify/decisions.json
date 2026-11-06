@@ -5800,6 +5800,54 @@
 "ko": "복원한 옛집의 채식 협동조합 레스토랑. 카페와 공정무역 가게를 함께 운영합니다.",
 "ok": 1
 },
+"gyor-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-bakery-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-cafe-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"gyor-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "gyumri-bakery-1": {
 "addr": "Abovyan 242, Gyumri",
 "en": "Armenia’s first inclusive bakery-café, staffed by young people with disabilities.",
@@ -6148,6 +6196,18 @@
 },
 "herceg-novi-fine_dining-5": {
 "del": "헤르체그노비에서 그 식당을 찾을 수 없음"
+},
+"holloko-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"holloko-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"holloko-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "honfleur-bakery-1": {
 "ok": 1,
@@ -6730,6 +6790,38 @@
 "kazan-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"keszthely-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"keszthely-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "khabarovsk-bakery-1": {
 "ok": 1,
@@ -13407,6 +13499,42 @@
 "ko": "2000년 문을 연 전통 불가리아 요리 레스토랑. 옛 생활 소품 장식과 계절 정원 테라스.",
 "ok": 1
 },
+"sopron-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"sopron-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "soroca-bakery-2": {
 "del": "DaviDan Bakery: no Soroca location found"
 },
@@ -14588,6 +14716,30 @@
 "ko": "알바니아·이탈리아식 지중해 요리 식당.",
 "name": "EJAA Mediterranean",
 "ok": 1
+},
+"tokaj-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"tokaj-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"tokaj-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"tokaj-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"tokaj-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"tokaj-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "toledo-bakery-1": {
 "del": 1

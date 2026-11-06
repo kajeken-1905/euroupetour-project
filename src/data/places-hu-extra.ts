@@ -67,4 +67,52 @@ export const placesHUExtra: Place[] = [
   place('szentendre-fine_dining-1', 'szentendre', 'fine_dining', 'Teyföl', 'Városház tér 2, 2000 Szentendre', '시청 광장의 헝가리 요리 식당. 미쉐린 가이드 선정.', 'Hungarian restaurant on the town-hall square. In the MICHELIN Guide.'),
   place('szentendre-cafe-1', 'szentendre', 'cafe', 'Café Lex', 'Alkotmány u. 5, 2000 Szentendre', '구시가 골목의 카페.', 'Café in an old-town lane.'),
   place('szentendre-cafe-2', 'szentendre', 'cafe', 'Parti Medve Könyvesbolt és Kávézó', 'Ignatovity Jakov u. 2, 2000 Szentendre', '서점 겸 카페.', 'Bookshop and café.'),
+
+  // —— gyor: restaurants, bakeries and cafés (2026-11-06) ——
+  place('gyor-fine_dining-1', 'gyor', 'fine_dining', 'Lamareda', 'Apáca u. 4, 9022 Győr, Hungary', '구시가 보행자 거리의 오래된 레스토랑 겸 비스트로. 미쉐린 가이드 선정.', 'Long-standing restaurant and bistro on a pedestrian street in the old town. In the MICHELIN Guide.'),
+  place('gyor-fine_dining-2', 'gyor', 'fine_dining', 'Komédiás Étterem', 'Czuczor Gergely u. 30, 9022 Győr, Hungary', '구시가의 헝가리 요리 식당.', 'Hungarian restaurant in the old town.'),
+  place('gyor-fine_dining-3', 'gyor', 'fine_dining', 'Szalai Vendéglő', 'Kisfaludy u. 34, 9022 Győr, Hungary', '가정식 헝가리 요리를 내는 동네 식당.', 'Neighbourhood restaurant serving home-style Hungarian cooking.'),
+  place('gyor-fine_dining-4', 'gyor', 'fine_dining', 'Zöldfa Restaurant', 'Hunyadi u. 2, 9021 Győr, Hungary', '역 근처의 헝가리 요리 식당.', 'Hungarian restaurant near the station.'),
+  place('gyor-fine_dining-5', 'gyor', 'fine_dining', 'Faceroom Étterem', 'Pálffy u. 2, 9022 Győr, Hungary', '구시가의 헝가리·현대 요리 레스토랑.', 'Hungarian and modern restaurant in the old town.'),
+  place('gyor-cafe-1', 'gyor', 'cafe', 'Másképp Specialty Coffee', 'Dunakapu tér 1, 9022 Győr, Hungary', '두너커푸 광장의 스페셜티 커피 바.', 'Specialty coffee bar on Dunakapu Square.'),
+  place('gyor-cafe-2', 'gyor', 'cafe', 'Kávébajusz', 'Bécsi kapu tér 4, 9022 Győr, Hungary', '베치 커푸 광장의 스페셜티 커피 카페 겸 원두 가게.', 'Specialty coffee café and roastery shop on Bécsi kapu Square.'),
+  place('gyor-cafe-3', 'gyor', 'cafe', 'Café Frei', 'Czuczor Gergely u. 6, 9022 Győr, Hungary', '구시가 골목의 카페.', 'Café on an old-town lane.'),
+  place('gyor-cafe-4', 'gyor', 'cafe', 'Cafe Brunch Győr', 'Baross Gábor út 11-13, 9021 Győr, Hungary', '바로시 거리의 아침·브런치 카페.', 'Breakfast and brunch café on Baross Street.'),
+  place('gyor-bakery-1', 'gyor', 'bakery', 'Boulangerie Nice', 'Baross Gábor út 10, 9021 Győr, Hungary', '바로시 거리의 수제 빵집 겸 카페.', 'Artisan bakery and café on Baross Street.'),
+  place('gyor-bakery-2', 'gyor', 'bakery', 'Brioche Bakery', 'Arany János u. 15, 9021 Győr, Hungary', '아라니 야노시 거리의 빵집.', 'Bakery on Arany János Street.'),
+  place('gyor-bakery-3', 'gyor', 'bakery', 'Eli Pékség', 'Pálffy u. 7, 9022 Győr, Hungary', '구시가의 작은 빵집.', 'Small bakery in the old town.'),
+
+  // —— sopron: restaurants, bakeries and cafés (2026-11-06) ——
+  place('sopron-fine_dining-1', 'sopron', 'fine_dining', 'Deák Étterem', 'Erzsébet u. 20, 9400 Sopron, Hungary', '구시가 남쪽의 헝가리 요리 레스토랑.', 'Hungarian restaurant just south of the old town.'),
+  place('sopron-fine_dining-2', 'sopron', 'fine_dining', 'Erhardt Étterem', 'Balfi út 10, 9400 Sopron, Hungary', '쇼프론 와인을 갖춘 와인 저장고 겸 레스토랑과 펜션.', 'Restaurant, wine cellar and guesthouse with Sopron wines.'),
+  place('sopron-fine_dining-3', 'sopron', 'fine_dining', 'Perkovátz-Ház', 'Széchenyi tér 12, 9400 Sopron, Hungary', '세체니 광장의 레스토랑.', 'Restaurant on Széchenyi Square.'),
+  place('sopron-fine_dining-4', 'sopron', 'fine_dining', 'Papa Joe\'s Saloon & Steakhouse', 'Várkerület 108, 9400 Sopron, Hungary', '성벽 순환로의 스테이크하우스.', 'Steakhouse on the ring road around the old walls.'),
+  place('sopron-cafe-1', 'sopron', 'cafe', 'Cafe Flow', 'Várkerület 53, 9400 Sopron, Hungary', '성벽 순환로의 카페.', 'Café on the ring road around the old walls.'),
+  place('sopron-cafe-2', 'sopron', 'cafe', 'Kultúrpresszó', 'Várkerület 96, 9400 Sopron, Hungary', '성벽 순환로의 커피숍.', 'Coffee shop on the ring road around the old walls.'),
+  place('sopron-cafe-3', 'sopron', 'cafe', 'Coffee Clinic Sopron', 'Lackner Kristóf u. 27, 9400 Sopron, Hungary', '스페셜티 커피 가게.', 'Specialty coffee shop.'),
+  place('sopron-bakery-1', 'sopron', 'bakery', 'Ágoston Pékműhely', 'Színház u. 25, 9400 Sopron, Hungary', '구시가 근처의 작은 수제 빵집.', 'Small artisan bakery near the old town.'),
+  place('sopron-bakery-2', 'sopron', 'bakery', 'Erhardt Pékség', 'Balfi út 8, 9400 Sopron, Hungary', '에르하르트 레스토랑 옆의 빵집.', 'Bakery next to the Erhardt restaurant.'),
+
+  // —— holloko: restaurants, bakeries and cafés (2026-11-06) ——
+  place('holloko-fine_dining-1', 'holloko', 'fine_dining', 'Masinás Vendéglő', 'Kossuth u. 93-95, 3176 Hollókő, Hungary', '마을 길가의 헝가리 요리 식당.', 'Hungarian restaurant on the village street.'),
+  place('holloko-fine_dining-2', 'holloko', 'fine_dining', 'Muskátli Vendéglő', 'Kossuth u. 61, 3176 Hollókő, Hungary', '옛 마을 안의 팔로츠·헝가리 가정식 식당.', 'Palóc and Hungarian home cooking in the old village.'),
+  place('holloko-fine_dining-3', 'holloko', 'fine_dining', 'Mikszáth Étterem', 'Sport utca 14, 3176 Hollókő, Hungary', '마을의 헝가리 요리 식당.', 'Hungarian restaurant in the village.'),
+
+  // —— tokaj: restaurants, bakeries and cafés (2026-11-06) ——
+  place('tokaj-fine_dining-1', 'tokaj', 'fine_dining', 'Galuschka Bistro & Garden', 'Bethlen Gábor út 13, 3910 Tokaj, Hungary', '정원이 있는 비스트로. 토카이 와인과 헝가리 요리를 냅니다.', 'Bistro with a garden serving Hungarian dishes and Tokaj wines.'),
+  place('tokaj-fine_dining-2', 'tokaj', 'fine_dining', '1737 Terroir Restaurant', 'Kossuth tér 14, 3910 Tokaj, Hungary', '코슈트 광장의 지역 와인·식재료 레스토랑.', 'Restaurant on Kossuth Square built around local wine and produce.'),
+  place('tokaj-fine_dining-3', 'tokaj', 'fine_dining', 'Winestone Restaurant', 'Rákóczi út 5, 3910 Tokaj, Hungary', '현대식 유럽 요리 레스토랑.', 'Modern European restaurant.'),
+  place('tokaj-fine_dining-4', 'tokaj', 'fine_dining', 'Terülj-Terülj asztalkám', 'Dienes Pál u. 109, 3910 Tokaj, Hungary', '헝가리 요리 식당.', 'Hungarian restaurant.'),
+  place('tokaj-cafe-1', 'tokaj', 'cafe', 'Tokaj Coffee Roasting Co.', 'Kossuth tér, 3910 Tokaj, Hungary', '코슈트 광장의 커피 로스터리 카페.', 'Coffee roastery café on Kossuth Square.'),
+  place('tokaj-bakery-1', 'tokaj', 'bakery', 'FMX Pékség', 'Tarcali út 6, 3910 Tokaj, Hungary', '마을 입구의 빵집.', 'Bakery at the edge of town.'),
+
+  // —— keszthely: restaurants, bakeries and cafés (2026-11-06) ——
+  place('keszthely-fine_dining-1', 'keszthely', 'fine_dining', 'Pajti', 'Bem József u. 1, 8360 Keszthely, Hungary', '시내의 비스트로.', 'Bistro in the town centre.'),
+  place('keszthely-fine_dining-2', 'keszthely', 'fine_dining', 'Jóbarát Vendéglő', 'Martinovics u. 1, 8360 Keszthely, Hungary', '헝가리 가정식 식당.', 'Restaurant serving Hungarian home cooking.'),
+  place('keszthely-fine_dining-3', 'keszthely', 'fine_dining', 'Tompos Restaurant', 'Pázmány Péter u. 56, 8360 Keszthely, Hungary', '헝가리·유럽 요리 레스토랑.', 'Hungarian and European restaurant.'),
+  place('keszthely-cafe-1', 'keszthely', 'cafe', 'Tulipán Kávéház', 'Erzsébet királyné útja 30, 8360 Keszthely, Hungary', '시내의 카페 겸 디저트 가게.', 'Café and cake shop in the town.'),
+  place('keszthely-cafe-2', 'keszthely', 'cafe', 'Pelso Cafe', 'Kossuth Lajos u. 38, 8360 Keszthely, Hungary', '보행자 거리 코슈트 거리의 커피숍.', 'Coffee shop on the pedestrian Kossuth Street.'),
+  place('keszthely-cafe-3', 'keszthely', 'cafe', 'Part Breakfast & Brunch', 'Bercsényi Miklós u. 65, 8360 Keszthely, Hungary', '호숫가 쪽의 아침·브런치 카페.', 'Breakfast and brunch café towards the lakeshore.'),
+  place('keszthely-bakery-1', 'keszthely', 'bakery', 'Madárlátta Pékség', 'Kossuth Lajos u. 39, 8360 Keszthely, Hungary', '코슈트 거리의 빵집.', 'Bakery on Kossuth Street.'),
+  place('keszthely-bakery-2', 'keszthely', 'bakery', 'Hosszú Pékség', 'Skála köz, 8360 Keszthely, Hungary', '시내의 빵집.', 'Bakery in the town centre.'),
 ]
