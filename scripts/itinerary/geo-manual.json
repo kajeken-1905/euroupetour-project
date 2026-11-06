@@ -1883,5 +1883,110 @@
     49.25232,
     15.42629,
     "OSM Nominatim: Roštejn (hrad), Růženská, Řídelov, okres Jihlava, Kraj Vysoč"
+  ],
+  "plzen-h5": [
+    49.74754,
+    13.38733,
+    "OSM Nominatim: Návštěvnické centrum Plzeňský Prazdroj, U Prazdroje, Plzeň"
+  ],
+  "znojmo-h2": [
+    48.85474,
+    16.04596,
+    "OSM Overpass: sv. Mikuláš, Znojmo"
+  ],
+  "znojmo-h3": [
+    48.85541,
+    16.04353,
+    "OSM Nominatim: rotunda sv. Kateřiny, Hradní, Znojmo"
+  ],
+  "znojmo-h5": [
+    48.81539,
+    15.97585,
+    "OSM Nominatim: Šobes (vinice), Hnanice"
+  ],
+  "plzen-h1": [
+    49.74748,
+    13.37751,
+    "OSM Nominatim: svatý Bartoloměj, náměstí Republiky, Vnitřní Město, Plzeň 3,"
+  ],
+  "plzen-h2": [
+    49.74893,
+    13.38093,
+    "OSM Nominatim: Plzeňské historické podzemí, 58/6, Veleslavínova, Vnitřní Mě (Wikipedia 293m)"
+  ],
+  "plzen-h3": [
+    49.74667,
+    13.37276,
+    "OSM Nominatim: Velká synagoga, 35/11, sady Pětatřicátníků, Vnitřní Město, P (Wikipedia 2m)"
+  ],
+  "plzen-h4": [
+    49.75008,
+    13.37376,
+    "OSM Nominatim: Patton Memorial Plzeň, 10, Pobřežní, Vnitřní Město, Plzeň 3, (Wikipedia 393m)"
+  ],
+  "kutna-hora-h1": [
+    49.96178,
+    15.28809,
+    "OSM Nominatim: Kostnice v Sedlci (Ossuary), 284, Zámecká, Sedlec, Kutná Hor (Wikipedia 25m)"
+  ],
+  "kutna-hora-h2": [
+    49.95982,
+    15.29014,
+    "OSM Nominatim: Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele, U Zas (Wikipedia 792m)"
+  ],
+  "kutna-hora-h3": [
+    49.94493,
+    15.26365,
+    "OSM Nominatim: Chrám svaté Barbory, Pod Barborou, Žižkov, Žižkov a Vrchlice (Wikipedia 8m)"
+  ],
+  "kutna-hora-h4": [
+    49.9464,
+    15.26351,
+    "OSM Nominatim: Jezuitská Kolej, Barborská, Kutná Hora-Vnitřní Město, Vnitřn"
+  ],
+  "kutna-hora-h5": [
+    49.9482,
+    15.26821,
+    "OSM Nominatim: Vlašský dvůr, Havlíčkovo náměstí, Kutná Hora-Vnitřní Město,  (Wikipedia 32m)"
+  ],
+  "kutna-hora-h6": [
+    49.94754,
+    15.26554,
+    "OSM Nominatim: palác Hrádek, Barborská, Kutná Hora-Vnitřní Město, Vnitřní M"
+  ],
+  "znojmo-h1": [
+    48.85549,
+    16.0488,
+    "OSM Nominatim: Radniční věž, Obroková, Znojmo, okres Znojmo, Jihomoravský k (Wikipedia 10m)"
+  ],
+  "znojmo-h4": [
+    48.85581,
+    16.04922,
+    "OSM Nominatim: Znojemské podzemí, Slepičí trh, Znojmo, okres Znojmo, Jihomo (Wikipedia 38m)"
+  ],
+  "znojmo-h6": [
+    48.84062,
+    16.05673,
+    "OSM Nominatim: Znojmo Louka (klášter), Loucká, Znojmo – Louka, Oblekovice, "
+  ],
+  "hrensko-h1": [
+    50.88371,
+    14.28125,
+    "OSM Nominatim: Pravčická brána, Gabrielina stezka, Mezní Louka, Mezná, Hřen (Wikipedia 20m)"
+  ],
+  "hrensko-h2": [
+    50.87029,
+    14.28681,
+    "OSM Nominatim: Edmundova soutěska, Mezná, Hřensko, okres Děčín, Ústecký kra"
+  ],
+  "hrensko-h3": [
+    50.87393,
+    14.24025,
+    "OSM Nominatim: Hřensko, okres Děčín, Ústecký kraj, 407 17, Česko (Wikipedia 168m)"
+  ],
+  "hrensko-h4": [
+    50.77902,
+    14.20836,
+    "OSM Nominatim: Zámek Děčín, 1253, Zámek, Přípeř, Děčín, okres Děčín, Ústeck"
   ]
 }

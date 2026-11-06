@@ -2132,3 +2132,29 @@ highlights/ceske-budejovice-7.jpg | https://commons.wikimedia.org/wiki/File:Hola
 highlights/olomouc-7.jpg | https://commons.wikimedia.org/wiki/File:Tvar%C5%AF%C5%BEkov%C3%A1_cukr%C3%A1rna.JPG | CC BY-SA 3.0 | Blanka Post
 highlights/olomouc-8.jpg | https://commons.wikimedia.org/wiki/File:Bouzov_(Busau)_castle.jpg | CC BY-SA 4.0 | Pudelek
 highlights/telc-5.jpg | https://commons.wikimedia.org/wiki/File:Ro%C5%A1tejn_hrad_38.jpg | CC BY-SA 4.0 | Palickap
+cities/plzen.jpg | https://commons.wikimedia.org/wiki/File:Plze%C5%88_-_N%C3%A1m%C4%9Bst%C3%AD_Republiky_-_Panorama_View_360%C2%B0_02.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/plzen-1.jpg | https://commons.wikimedia.org/wiki/File:St.-Bartholom%C3%A4us-Kathedrale_Plze%C5%88.jpg | CC BY-SA 3.0 | Tmv23
+highlights/plzen-2.jpg | https://commons.wikimedia.org/wiki/File:Plze%C5%88_podzem%C3%AD.JPG | Public domain | Ondřej Koníček
+highlights/plzen-3.jpg | https://commons.wikimedia.org/wiki/File:Plze%C5%88,_Velk%C3%A1_synagoga_(1).jpg | CC BY-SA 4.0 | Palickap
+highlights/plzen-4.jpg | https://commons.wikimedia.org/wiki/File:Pomn%C3%ADk_gener%C3%A1la_Pattona_v_sadech_P%C4%9Btat%C5%99ic%C3%A1tn%C3%ADk%C5%AF_v_Plzni_(Q20758044)_01.jpg | CC0 | Barocco
+highlights/plzen-5.jpg | https://commons.wikimedia.org/wiki/File:Secretary_Pompeo_and_Mrs._Susan_Pompeo_Visit_Pilsner_Urquell_Brewery_(50216088881).jpg | Public domain | U.S. Department of State from United States
+cities/kutna-hora.jpg | https://commons.wikimedia.org/wiki/File:Kutna_Hora_2021_35.jpg | CC BY-SA 4.0 | Scotch Mist
+highlights/kutna-hora-1.jpg | https://commons.wikimedia.org/wiki/File:Sedlec,_kaple_V%C5%A1ech_svat%C3%BDch_s_kostnic%C3%AD.JPG | CC BY-SA 3.0 | H2k4
+highlights/kutna-hora-2.jpg | https://commons.wikimedia.org/wiki/File:Kutna_Hora-Sedlec_cathedral_012.jpg | Public domain | User:Miaow Miaow
+highlights/kutna-hora-3.jpg | https://commons.wikimedia.org/wiki/File:Saint_Barbara_Kutna_Hora_2010_3.jpg | CC0 | Perituss
+highlights/kutna-hora-4.jpg | https://commons.wikimedia.org/wiki/File:Kutn%C3%A1_Hora_-_Barborsk%C3%A1_-_View_NE.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/kutna-hora-5.jpg | https://commons.wikimedia.org/wiki/File:Pal%C3%A1c_Vla%C5%A1sk%C3%BD_dv%C5%AFr_(Kutn%C3%A1_Hora)_(12).jpg | CC BY-SA 3.0 | Ondřej Kořínek
+highlights/kutna-hora-6.jpg | https://commons.wikimedia.org/wiki/File:Hr%C3%A1dek-pr%C5%AF%C4%8Del%C3%AD.jpg | CC BY-SA 3.0 | Jalmin
+cities/znojmo.jpg | https://commons.wikimedia.org/wiki/File:Znojmo_Old_Town_Panorama_from_Castle_20190217.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/znojmo-1.jpg | https://commons.wikimedia.org/wiki/File:Znojmo-Town_Hall_Tower.jpg | CC BY-SA 2.5 | 
+highlights/znojmo-2.jpg | https://commons.wikimedia.org/wiki/File:Kostel_sv._Mikul%C3%A1%C5%A1e_(Znojmo),_Mikul%C3%A1%C5%A1sk%C3%A9_n%C3%A1m.,_Znojmo.JPG | CC BY-SA 3.0 | Bjalek Michal
+highlights/znojmo-3.jpg | https://commons.wikimedia.org/wiki/File:Znojmo-rotunda-svKate%C5%99iny2009n.jpg | CC BY-SA 3.0 | Ben Skála, Benfoto
+highlights/znojmo-4.jpg | https://commons.wikimedia.org/wiki/File:Znojmo-The_Underground_Passages_1.jpg | CC BY-SA 2.5 | 
+highlights/znojmo-5.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0obes_winery,_Moravia.JPG | CC BY-SA 3.0 | Pudelek
+cities/hrensko.jpg | https://commons.wikimedia.org/wiki/File:H%C5%99ensko_20260919.jpg | CC0 | NutzerAusBerlin
+highlights/hrensko-1.jpg | https://commons.wikimedia.org/wiki/File:Prav%C4%8Dick%C3%A1_br%C3%A1na_(Prebischtor)_-_by_Pudelek.jpg | CC BY-SA 4.0 | Pudelek
+highlights/hrensko-2.jpg | https://commons.wikimedia.org/wiki/File:Canyon_of_Kamenice_River_(Kamenice_Gorge,_Edmundsklamm)_06.jpg | CC BY-SA 3.0 | Mar del Sur
+highlights/hrensko-3.jpg | https://commons.wikimedia.org/wiki/File:H%C5%99ensko_2007.jpg | CC BY-SA 3.0 | Chmee2
+highlights/hrensko-4.jpg | https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_Labe_a_z%C3%A1mek_1.jpg | CC BY-SA 4.0 | VitVit
+highlights/znojmo-6.jpg | https://commons.wikimedia.org/wiki/File:Znojmo_(Znaim)_-_Louck%C3%BD_kl%C3%A1%C5%A1ter_(Klosterbruck).JPG | CC BY-SA 4.0 | Pudelek (Marcin Szala)
+highlights/plzen-2.jpg | https://commons.wikimedia.org/wiki/File:Plze%C5%88_podzem%C3%AD.JPG | Public domain | Ondřej Koníček

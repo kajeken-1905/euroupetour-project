@@ -83,6 +83,10 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
     trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14], ['슈코다 박물관|Škoda Museum', 21]],
   },
+  plzen: [1, 2, 3, 4, 5],
+  'kutna-hora': [1, 2, 3, 4, 5, 6],
+  znojmo: { days: [['', 1, 2, 3, 4, 6]], trips: [['포디이 국립공원|Podyjí National Park', 5]] },
+  hrensko: { days: [['', 3, 2], ['프라브치츠카 문|Pravčická brána', 1]], trips: [['데친 성|Děčín Castle', 4]] },
   telc: { days: [['', 1, 6, 2, 3, 4]], trips: [['로슈테인 성|Roštejn Castle', 5]] },
   mikulov: { days: [['', 1, 6, 4, 3, 2]], trips: [['레드니체·발티체|Lednice–Valtice', 5], ['발티체 와인 살롱|Valtice Wine Salon', 7]] },
   brno: {

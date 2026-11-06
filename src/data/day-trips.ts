@@ -756,6 +756,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'dresden',
       tip: '츠빙거 궁전과 프라우엔 교회, 엘베 강변을 봅니다. 엘베강 계곡을 따라가는 기차 풍경이 좋습니다.|The Zwinger, the Frauenkirche and the Elbe riverside; the train follows the scenic Elbe valley.',
     },
+    {
+      to: 'plzen',
+      tip: '기차로 약 1시간 35분. 필스너 우르켈 양조장 투어와 구시가 지하도를 봅니다.|About 1 hr 35 by train: the Pilsner Urquell brewery tour and the old-town underground.',
+    },
   ],
   'ceske-budejovice': [
     {
@@ -1132,6 +1136,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'leipzig',
       tip: '토마스 교회와 니콜라이 교회를 봅니다.|St Thomas and St Nicholas churches.',
     },
+    {
+      to: 'hrensko',
+      tip: 'S1 열차와 나룻배로 약 1시간 20분. 프라브치츠카 문과 협곡 보트를 봅니다.|About 1 hr 20 by S1 train and ferry: Pravčická brána and the gorge boats.',
+    },
   ],
   athens: [
     {
@@ -1493,6 +1501,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'olomouc',
       tip: '기차로 약 1시간 15분. 성삼위일체 기념주와 바로크 분수, 대성당을 봅니다.|About 1 hr 15 by train: the Holy Trinity Column, the Baroque fountains and the cathedral.',
+    },
+    {
+      to: 'znojmo',
+      tip: '버스로 약 1시간 35분. 디이강 협곡 위 구시가와 지하 미로, 와인 저장고를 봅니다.|About 1 hr 35 by bus: the old town above the Dyje gorge, its underground and wine cellars.',
     },
   ],
   bratislava: [

@@ -1691,6 +1691,26 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  plzen: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가와 양조장은 걸어서 다닙니다. 중앙역에서 광장까지 걸어서 약 15분이고 트램도 있습니다.',
+      en: 'Walk the old town and to the brewery; the square is about 15 min on foot from the main station, or take a tram.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
+  'kutna-hora': {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '세들레츠(중앙역 근처)와 구시가는 약 3km 떨어져 있어 연결 열차나 버스를 탑니다. 구시가는 걸어서 다닙니다.',
+      en: 'Sedlec (by the main station) and the old town are about 3 km apart—use the connecting train or a bus; walk the old town.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
   telc: {
     modes: ['walk', 'bus'],
     howTo: {
@@ -1706,6 +1726,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: '마을은 걸어서 다닙니다. 레드니체·발티체는 버스로 갑니다.',
       en: 'Walk the town; take a bus to Lednice and Valtice.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
+  znojmo: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역에서 광장까지 걸어서 약 15분이고, 포도밭과 국립공원은 차나 자전거로 갑니다.',
+      en: 'Walk the old town, about 15 min on foot from the station; go by car or bike to the vineyards and national park.',
     },
     apps: [
       ta('cd'),
@@ -1746,6 +1776,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('cd'),
       ta('bolt'),
+    ],
+  },
+  hrensko: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '마을과 등산로는 걸어서 다닙니다. 데친과는 434번 버스가, 독일 쪽 쇤나역과는 엘베강 나룻배가 잇습니다.',
+      en: 'Walk the village and trails; bus 434 links Děčín, and a ferry crosses the Elbe to Schöna station in Germany.',
+    },
+    apps: [
+      ta('cd'),
     ],
   },
   olomouc: {

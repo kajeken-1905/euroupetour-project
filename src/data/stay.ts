@@ -904,6 +904,13 @@ export const STAY: Record<string, StayArea[]> = {
   bolzano: [
     a('구시가', 'Old Town', 'Piazza Walther, Bolzano', '처음 가는 여행에 추천|Best for a first visit', '발터 광장과 대성당, 박물관, 상점을 걸어서 다니고 크리스마스 마켓도 이곳에서 열립니다.|Piazza Walther, the cathedral, museums and shops on foot, with the Christmas market here too.'),
   ],
+  plzen: [
+    a('구시가 (공화국 광장 주변)', 'Old town (Republic Square)', 'Náměstí Republiky, Plzeň', '처음 가는 여행에 추천|Best for a first visit', '광장과 지하도, 양조장이 걸어서 닿습니다.|The square, the underground and the brewery on foot.'),
+  ],
+  'kutna-hora': [
+    a('구시가', 'Old town', 'Kutná Hora old town', '마을에서 묵기|Stay in the town', '당일 손님이 떠난 저녁 골목이 조용합니다. 세들레츠까지는 버스나 기차로 갑니다.|Quiet lanes once the day-trippers leave; take a bus or train to Sedlec.'),
+    a('프라하에서 다녀오기', 'Base in Prague', 'Prague', '거점에서 다녀오기|Day trip from a base', '기차로 약 1시간 15분입니다.|About 1 hr 15 by train.'),
+  ],
   telc: [
     a('마을에서 묵기', 'In the town', 'Telč', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 버스로 약 2시간입니다.|About 2 hours by bus from Brno.'),
@@ -911,6 +918,9 @@ export const STAY: Record<string, StayArea[]> = {
   mikulov: [
     a('마을에서 묵기', 'In the town', 'Mikulov', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('브르노에서 다녀오기', 'Base in Brno', 'Brno', '거점에서 다녀오기|Day trip from a base', '브르노에서 기차로 약 1시간 25분(브르제츨라프 환승)입니다.|About 1 hr 25 by train from Brno, changing at Břeclav.'),
+  ],
+  znojmo: [
+    a('구시가', 'Old town', 'Znojmo old town', '처음 가는 여행에 추천|Best for a first visit', '광장과 지하 미로, 성당 전망대가 걸어서 닿습니다.|The square, the underground and the church viewpoint on foot.'),
   ],
   brno: [
     a('구시가', 'Old Town', 'Náměstí Svobody, Brno', '처음 가는 여행에 추천|Best for a first visit', '슈필베르크 성과 광장, 카페와 식당을 걸어서 다닙니다. 돌니 광장 주변은 늦은 밤 시끄러울 수 있습니다.|Špilberk Castle, the squares, cafés and restaurants on foot; the bars around Dolní náměstí can be rowdy late at night.'),
@@ -1801,6 +1811,10 @@ export const STAY: Record<string, StayArea[]> = {
   ],
   remich: [
     a('룩셈부르크 시내에서 다녀오기', 'Base in Luxembourg City', 'Luxembourg City', '당일치기|Day trip', '버스로 1시간쯤이고 셍겐·와이너리를 묶은 당일 투어도 있습니다.|About an hour by bus, and day tours combine Schengen and the wineries.'),
+  ],
+  hrensko: [
+    a('흐렌스코 마을', 'Hřensko', 'Hřensko', '등산로 가까이|By the trails', '숙소와 식당이 몇 곳뿐이지만 아침 일찍 걷기 좋습니다.|Only a few hotels and restaurants, but handy for an early start.'),
+    a('데친', 'Děčín', 'Děčín', '거점 도시|Base town', '역과 숙소가 많고 흐렌스코까지 버스로 약 25분입니다.|More rooms and the main station; about 25 min by bus to Hřensko.'),
   ],
   olomouc: [
     a('구시가(호르니 광장 주변)', 'Old town (around the Upper Square)', 'Horní náměstí, Olomouc', '걸어서 다니기|On foot', '광장과 대성당, 박물관을 걸어서 다닙니다. 중앙역까지는 트램으로 약 10분입니다.|Squares, cathedral and museum on foot; about 10 min by tram to the main station.'),

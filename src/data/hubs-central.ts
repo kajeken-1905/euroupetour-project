@@ -767,9 +767,26 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     ],
     bus: [['ÚAN Florenc', '플로렌츠 중앙버스터미널']],
   },
+  plzen: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Plzeň hlavní nádraží', '플젠 중앙역']],
+    bus: [['Plzeň CAN', '플젠 중앙 버스터미널']],
+  },
+  'kutna-hora': {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [
+      ['Kutná Hora hlavní nádraží', '쿠트나호라 중앙역', '세들레츠 근처 · 시내까지 연결 열차|near Sedlec · connecting train to the town'],
+      ['Kutná Hora město', '쿠트나호라 시내역'],
+    ],
+  },
   mikulov: {
     air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno'], VIE()],
     rail: [['Mikulov na Moravě', '미쿨로프역']],
+  },
+  znojmo: {
+    air: [VIE('오스트리아 빈 · 기차로 약 2시간|Vienna, Austria · about 2 hrs by train'), ['Brno (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Znojmo', '즈노이모역']],
+    bus: [['Znojmo autobusové nádraží', '즈노이모 버스터미널']],
   },
   telc: {
     air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno'], PRG()],
@@ -792,6 +809,11 @@ export const hubsCentral: Record<string, RawCityHubs> = {
       ['Karlovy Vary dolní nádraží', '카를로비 바리 하부역'],
     ],
     bus: [['Terminál Karlovy Vary', '카를로비 바리 버스터미널']],
+  },
+  hrensko: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague'], ['Dresden (DRS)', '드레스덴 공항 (DRS)', '드레스덴|Dresden']],
+    rail: [['Děčín hlavní nádraží', '데친 중앙역', '흐렌스코까지 434번 버스|bus 434 to Hřensko']],
+    bus: [['Hřensko', '흐렌스코 버스 정류장']],
   },
   olomouc: {
     air: [PRG('기차로 약 2시간 20분|About 2 hrs 20 by train'), VIE('기차로 약 2시간 40분, 브르제츨라프 환승|About 2 hrs 40 by train, change at Břeclav')],
