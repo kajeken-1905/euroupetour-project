@@ -1960,6 +1960,22 @@
 "bled-fine_dining-3": {
 "ok": 1
 },
+"bohinj-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bohinj-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bohinj-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bohinj-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "bologna-bakery-1": {
 "del": "Impero at Strada Maggiore 51c not confirmed; Impero shops are on Via Indipendenza / Via Caprarie"
 },
@@ -2098,6 +2114,26 @@
 },
 "borgo-maggiore-fine_dining-1": {
 "del": 1
+},
+"bovec-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bovec-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bovec-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bovec-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"bovec-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "braga-bakery-1": {
 "en": "Bakery and restaurant of nearly 100 years, with traditional pastries and brunch.",
@@ -7108,6 +7144,50 @@
 "ko": "극장 광장에 면한 바 겸 레스토랑. 고기 요리·팬케이크·체펠리나이가 인기이고 양이 많습니다.",
 "ok": 1
 },
+"koper-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"koper-fine_dining-6": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
 "korcula-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -11839,6 +11919,46 @@
 "en": "Traditional restaurant in a historic, colourful building, serving grilled meats.",
 "ko": "옛 건물을 꾸민 전통 요리 식당. 고기구이를 냅니다.",
 "ok": 1
+},
+"ptuj-bakery-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-bakery-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-cafe-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-cafe-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-cafe-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-cafe-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
+},
+"ptuj-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-06 google maps / michelin 2026"
 },
 "pula-bakery-1": {
 "ok": 1,

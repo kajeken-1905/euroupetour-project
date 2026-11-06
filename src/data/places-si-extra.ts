@@ -50,4 +50,42 @@ export const placesSIExtra: Place[] = [
   // —— postojna: bakeries and cafés (2026-11-04) ——
   place('postojna-cafe-1', 'postojna', 'cafe', 'Qubik caffe', 'Novi trg 8, 6230 Postojna', '시내 광장의 카페.', 'Café on the town square.'),
   place('postojna-cafe-2', 'postojna', 'cafe', 'Time Out Caffè', 'Tržaška cesta 62, 6230 Postojna', '시내의 카페.', 'Café in the town.'),
+
+  // —— bohinj: restaurants, bakeries and cafés (2026-11-06) ——
+  place('bohinj-fine_dining-1', 'bohinj', 'fine_dining', 'Restavracija Majerca', 'Stara Fužina 19, 4265 Bohinjsko jezero, Slovenia', '스타라 푸지나 마을 부티크 호텔 안의 아담한 레스토랑. 미쉐린 빕 구르망.', 'Intimate restaurant in a boutique hotel in Stara Fužina village. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('bohinj-fine_dining-2', 'bohinj', 'fine_dining', 'Vila Muhr Gourmet', 'Ribčev Laz 45, 4265 Bohinjsko jezero, Slovenia', '호숫가 마을 리브체우 라즈의 고급 레스토랑.', 'Fine-dining restaurant in the lakeside village of Ribčev Laz.'),
+  place('bohinj-fine_dining-3', 'bohinj', 'fine_dining', 'Restaurant Sunrose 7', 'Triglavska cesta 7, 4264 Bohinjska Bistrica, Slovenia', '보힌스카 비스트리차 호텔의 레스토랑.', 'Hotel restaurant in Bohinjska Bistrica.'),
+  place('bohinj-bakery-1', 'bohinj', 'bakery', 'Pekarna Planika', 'Triglavska cesta 52, 4264 Bohinjska Bistrica, Slovenia', '보힌스카 비스트리차의 빵집.', 'Bakery in Bohinjska Bistrica.'),
+
+  // —— ptuj: restaurants, bakeries and cafés (2026-11-06) ——
+  place('ptuj-fine_dining-1', 'ptuj', 'fine_dining', 'Gostilna Amadeus', 'Prešernova ulica 36, 2250 Ptuj, Slovenia', '구시가의 슬로베니아 요리 식당.', 'Slovenian restaurant in the old town.'),
+  place('ptuj-fine_dining-2', 'ptuj', 'fine_dining', 'Gostilna Ribič', 'Dravska ulica 9, 2250 Ptuj, Slovenia', '드라바 강가의 생선·슬로베니아 요리 식당.', 'Fish and Slovenian dishes by the Drava.'),
+  place('ptuj-fine_dining-3', 'ptuj', 'fine_dining', 'Gostilna Rozika', 'Slomškova ulica 7, 2250 Ptuj, Slovenia', '구시가의 가정식 식당.', 'Home-style restaurant in the old town.'),
+  place('ptuj-fine_dining-4', 'ptuj', 'fine_dining', 'Restaurant Pomaranča', 'Ob Dravi 3a, 2250 Ptuj, Slovenia', '드라바 강변의 레스토랑.', 'Restaurant on the Drava riverside.'),
+  place('ptuj-cafe-1', 'ptuj', 'cafe', 'Kavarna Bodi', 'Ulica heroja Lacka 8, 2250 Ptuj, Slovenia', '구시가의 카페.', 'Café in the old town.'),
+  place('ptuj-cafe-2', 'ptuj', 'cafe', 'Kavoteka', 'Ulica 25. maja 13b, 2250 Ptuj, Slovenia', '커피 카페.', 'Coffee café.'),
+  place('ptuj-cafe-3', 'ptuj', 'cafe', 'Kavarna Malina', 'Novi trg 3, 2250 Ptuj, Slovenia', '노비 광장의 카페.', 'Café on Novi trg.'),
+  place('ptuj-cafe-4', 'ptuj', 'cafe', 'Čokoladna kavarna Teta Frida', 'Mestni trg 2, 2250 Ptuj, Slovenia', '시청 광장의 초콜릿 카페.', 'Chocolate café on the town-hall square.'),
+  place('ptuj-bakery-1', 'ptuj', 'bakery', 'Brahaj pekarstvo', 'Ulica heroja Lacka 10, 2250 Ptuj, Slovenia', '구시가의 빵집.', 'Bakery in the old town.'),
+  place('ptuj-bakery-2', 'ptuj', 'bakery', 'Trgovina presta', 'Miklošičeva ulica 3, 2250 Ptuj, Slovenia', '프레첼과 빵을 파는 작은 가게.', 'Small shop selling pretzels and bread.'),
+
+  // —— bovec: restaurants, bakeries and cafés (2026-11-06) ——
+  place('bovec-fine_dining-1', 'bovec', 'fine_dining', 'Hiša Franko', 'Staro selo 1, 5222 Kobarid, Slovenia', '코바리드 근처 셰프 아나 로시의 레스토랑. 미쉐린 3스타.', 'Chef Ana Roš’s restaurant near Kobarid. Three MICHELIN stars.', { michelin: 'star3' }),
+  place('bovec-fine_dining-2', 'bovec', 'fine_dining', 'Hiša Polonka', 'Gregorčičeva ulica 1, 5222 Kobarid, Slovenia', '코바리드 중심의 선술집 겸 식당. 미쉐린 가이드 선정.', 'Lively tavern-restaurant in the centre of Kobarid. In the MICHELIN Guide.'),
+  place('bovec-fine_dining-3', 'bovec', 'fine_dining', 'Bistro 9:45', 'Ravni Laz 18, 5230 Bovec, Slovenia', '보베츠 외곽 자연 속의 작은 비스트로. 미쉐린 가이드 선정.', 'Small bistro in the countryside on the edge of Bovec. In the MICHELIN Guide.'),
+  place('bovec-fine_dining-4', 'bovec', 'fine_dining', 'Gostilna Žvikar', 'Podklopca 4, 5230 Bovec, Slovenia', '보베츠의 슬로베니아 요리 식당.', 'Slovenian restaurant in Bovec.'),
+  place('bovec-bakery-1', 'bovec', 'bakery', 'Pekarna Bovec', 'Mala vas 14, 5230 Bovec, Slovenia', '마을 빵집.', 'Village bakery.'),
+
+  // —— koper: restaurants, bakeries and cafés (2026-11-06) ——
+  place('koper-fine_dining-1', 'koper', 'fine_dining', 'Kogo', 'Šmarska cesta 1, 6000 Koper, Slovenia', '시내에서 조금 떨어진 현대식 레스토랑. 미쉐린 가이드 선정.', 'Modern restaurant a little out of the centre. In the MICHELIN Guide.'),
+  place('koper-fine_dining-2', 'koper', 'fine_dining', 'Salicornia', 'Sermin 74, 6000 Koper, Slovenia', '시내 외곽 세르민의 밝은 레스토랑. 미쉐린 가이드 선정.', 'Bright restaurant in Sermin, on the edge of town. In the MICHELIN Guide.'),
+  place('koper-fine_dining-3', 'koper', 'fine_dining', 'Restavracija Hotela Marina', 'Veliki trg 11, 6310 Izola, Slovenia', '이졸라 항구 앞 호텔 레스토랑. 미쉐린 가이드 선정.', 'Hotel restaurant facing Izola harbour. In the MICHELIN Guide.'),
+  place('koper-fine_dining-4', 'koper', 'fine_dining', 'Stella Maris', 'Ukmarjev trg, 6000 Koper, Slovenia', '항구 앞의 생선 식당 겸 바.', 'Fish canteen and bar by the harbour.'),
+  place('koper-fine_dining-5', 'koper', 'fine_dining', 'Gostilna Pri Tinetu', 'Gortanov trg 14, 6000 Koper, Slovenia', '구시가의 가정식 식당.', 'Home-style restaurant in the old town.'),
+  place('koper-fine_dining-6', 'koper', 'fine_dining', 'Capra', 'Pristaniška ulica, 6000 Koper, Slovenia', '항구 쪽의 지중해 요리 레스토랑.', 'Mediterranean restaurant near the port.'),
+  place('koper-cafe-1', 'koper', 'cafe', 'Kavarna Kapitanija', 'Ukmarjev trg 8, 6000 Koper, Slovenia', '항구 앞 광장의 카페.', 'Café on the harbour square.'),
+  place('koper-cafe-2', 'koper', 'cafe', 'Golden Loggia', 'Titov trg 1, 6000 Koper, Slovenia', '티토 광장 로지아 안의 카페.', 'Café in the loggia on Tito Square.'),
+  place('koper-cafe-3', 'koper', 'cafe', 'Kavarna & Brunch Cappuccino', 'Kopališko nabrežje, 6000 Koper, Slovenia', '바닷가 산책로의 카페 겸 브런치 가게.', 'Café and brunch spot on the seafront promenade.'),
+  place('koper-bakery-1', 'koper', 'bakery', 'Slaščičarna Tradicija', 'Repičeva ulica 2, 6000 Koper, Slovenia', '구시가의 과자점.', 'Pastry shop in the old town.'),
+  place('koper-bakery-2', 'koper', 'bakery', 'Europa Bakery', 'Kidričeva ulica 4, 6000 Koper, Slovenia', '구시가의 빵집.', 'Bakery in the old town.'),
 ]
