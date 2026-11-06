@@ -1988,5 +1988,140 @@
     50.77902,
     14.20836,
     "OSM Nominatim: Zámek Děčín, 1253, Zámek, Přípeř, Děčín, okres Děčín, Ústeck"
+  ],
+  "ljubljana-h5": [
+    46.05122,
+    14.50964,
+    "OSM Nominatim: Ljubljanska tržnica, Vodnikov trg"
+  ],
+  "ljubljana-h6": [
+    46.05076,
+    14.50825,
+    "OSM Nominatim: Stolnica sv. Nikolaja, Dolničarjeva 1"
+  ],
+  "ljubljana-h9": [
+    46.05691,
+    14.51693,
+    "OSM Nominatim: Metelkova, Masarykova cesta"
+  ],
+  "ljubljana-h12": [
+    46.30431,
+    14.61703,
+    "OSM Nominatim: Velika planina cable car lower station, Kamniška Bistrica"
+  ],
+  "bled-h4": [
+    46.36759,
+    14.10862,
+    "OSM Nominatim: Kavarna Park, Cesta svobode 10, Bled"
+  ],
+  "piran-h5": [
+    45.52678,
+    13.56774,
+    "OSM Nominatim: Pristanišče Piran"
+  ],
+  "maribor-h4": [
+    46.55647,
+    15.65548,
+    "OSM Nominatim: Oreško nabrežje, Lent"
+  ],
+  "maribor-h6": [
+    46.55913,
+    15.64502,
+    "OSM Overpass: Stolna cerkev sv. Janeza Krstnika, Maribor"
+  ],
+  "ljubljana-h3": [
+    46.05138,
+    14.50599,
+    "OSM Nominatim: Prešernov trg, Ledina, Grajski grič, Četrtna skupnost Center (Wikipedia 12m)"
+  ],
+  "ljubljana-h4": [
+    46.04968,
+    14.50566,
+    "OSM Nominatim: Cankarjevo nabrežje, Ledina, Grajski grič, Četrtna skupnost "
+  ],
+  "ljubljana-h7": [
+    46.04236,
+    14.50213,
+    "OSM Nominatim: Plečnikova hiša, 4-6, Karunova ulica, Krakovo, Murgle, Četrt"
+  ],
+  "ljubljana-h8": [
+    46.05515,
+    14.49573,
+    "OSM Nominatim: Park Tivoli, Četrtna skupnost Center, Ljubljana, Upravna Eno (Wikipedia 157m)"
+  ],
+  "ljubljana-h10": [
+    46.05402,
+    14.50026,
+    "OSM Nominatim: Narodna galerija, 9, Puharjeva ulica, Grajski grič, Četrtna  (Wikipedia 50m)"
+  ],
+  "ljubljana-h11": [
+    46.16527,
+    14.30675,
+    "OSM Nominatim: Škofja Loka, 4220, Slovenija (Wikipedia 358m)"
+  ],
+  "bled-h5": [
+    46.35963,
+    14.07846,
+    "OSM Nominatim: Ojstrica, Bled, 4263, Slovenija"
+  ],
+  "bled-h6": [
+    46.39862,
+    14.09275,
+    "OSM Nominatim: Soteska Vintgar, Podhom, Gorje, 4273, Slovenija"
+  ],
+  "piran-h3": [
+    45.52796,
+    13.57204,
+    "OSM Nominatim: Mestno obzidje, Ulica IX. korpusa, Mogoron, Raštel, Piran /  (Wikipedia 291m)"
+  ],
+  "piran-h4": [
+    45.53008,
+    13.56345,
+    "OSM Nominatim: Prešernovo nabrežje, Raštel, Piran / Pirano (naselje), Piran (Wikipedia 427m)"
+  ],
+  "piran-h6": [
+    45.52765,
+    13.5681,
+    "OSM Nominatim: Pomorski muzej Piran - Palača Gabrielli, Cankarjevo nabrežje"
+  ],
+  "piran-h7": [
+    45.48226,
+    13.60587,
+    "OSM Nominatim: Krajinski park Sečoveljske soline / Parco naturale delle sal"
+  ],
+  "maribor-h5": [
+    46.52445,
+    15.58932,
+    "OSM Nominatim: Pohorska vzpenjača, Hrastje, Markovo, Maribor, 2000, Sloveni"
+  ],
+  "maribor-h7": [
+    46.56808,
+    15.65233,
+    "OSM Nominatim: Piramida, Maribor"
+  ],
+  "maribor-h8": [
+    46.55679,
+    15.64769,
+    "OSM Nominatim: Sinagoga Maribor, 4, Židovska ulica, Lent, Center, Maribor,  (Wikipedia 15m)"
+  ],
+  "postojna-h3": [
+    45.78217,
+    14.20489,
+    "OSM Nominatim: Vivarium Proteus, Pot pastirčka Jakoba, Sovič, Veliki Otok,  (Wikipedia 110m)"
+  ],
+  "postojna-h5": [
+    45.77515,
+    14.21303,
+    "OSM Nominatim: Titov trg, Spodnji INCIS, Sovič, Postojna, Slovenija (Wikipedia 93m)"
+  ],
+  "postojna-h6": [
+    45.66586,
+    13.98937,
+    "OSM Nominatim: Škocjanske jame (izhod), Izhod / Exit 2-3, Škocjan, Matavun, (Wikipedia 831m)"
+  ],
+  "postojna-h7": [
+    45.66795,
+    13.88549,
+    "OSM Nominatim: Kobilarna Lipica, Lipica, Sežana, Upravna enota Sežana, 6219 (Wikipedia 239m)"
   ]
 }

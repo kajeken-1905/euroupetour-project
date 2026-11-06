@@ -25049,11 +25049,25 @@ export const cities: City[] = [
     },
     highlights: [
       {
-        id: "ljubljana-h1",
-        name: { ko: "류블랴나 성", en: "Ljubljana Castle" },
-        description: { ko: "케이블카로 오르는 언덕 성입니다.", en: "Hill castle reached by funicular." },
-        image: "/highlights/ljubljana-1.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle",
+        id: "ljubljana-h3",
+        name: { ko: "프레셰렌 광장", en: "Prešeren Square" },
+        description: { ko: "분홍 성당과 중앙 광장입니다.", en: "Central square by the pink church." },
+        image: "/highlights/ljubljana-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pre%C5%A1eren%20Square%20Ljubljana",
+      },
+      {
+        id: "ljubljana-h5",
+        name: { ko: "중앙 시장", en: "Central Market" },
+        description: { ko: "플레치니크 설계의 야외 시장입니다.", en: "Plečnik-designed open market." },
+        image: "/highlights/ljubljana-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Central%20Market",
+      },
+      {
+        id: "ljubljana-h6",
+        name: { ko: "류블랴나 대성당", en: "Ljubljana Cathedral" },
+        description: { ko: "바로크 프레스코로 가득한 성 니콜라스 대성당으로, 청동 정문에 슬로베니아 역사가 새겨져 있습니다.", en: "St Nicholas’s Cathedral, filled with Baroque frescoes, its bronze doors carved with Slovenian history." },
+        image: "/highlights/ljubljana-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Cathedral",
       },
       {
         id: "ljubljana-h2",
@@ -25063,11 +25077,11 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dragon%20Bridge%20Ljubljana",
       },
       {
-        id: "ljubljana-h3",
-        name: { ko: "프레셰렌 광장", en: "Prešeren Square" },
-        description: { ko: "분홍 성당과 중앙 광장입니다.", en: "Central square by the pink church." },
-        image: "/highlights/ljubljana-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pre%C5%A1eren%20Square%20Ljubljana",
+        id: "ljubljana-h1",
+        name: { ko: "류블랴나 성", en: "Ljubljana Castle" },
+        description: { ko: "케이블카로 오르는 언덕 성입니다.", en: "Hill castle reached by funicular." },
+        image: "/highlights/ljubljana-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle",
       },
       {
         id: "ljubljana-h4",
@@ -25077,12 +25091,49 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ljubljanica%20Ljubljana",
       },
       {
-        id: "ljubljana-h5",
-        name: { ko: "츠베타르나 시장", en: "Central Market" },
-        description: { ko: "플레치니크 설계의 야외 시장입니다.", en: "Plečnik-designed open market." },
-        image: "/highlights/ljubljana-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Central%20Market",
-      }
+        id: "ljubljana-h8",
+        name: { ko: "티볼리 공원", en: "Tivoli Park" },
+        description: { ko: "시내 서쪽의 가장 큰 공원으로, 야외 사진 전시가 열리는 산책로와 티볼리 성이 있습니다.", en: "The city’s largest park, west of the centre, with an outdoor photo gallery along its promenade and Tivoli Mansion." },
+        image: "/highlights/ljubljana-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tivoli%20Park%20Ljubljana",
+      },
+      {
+        id: "ljubljana-h10",
+        name: { ko: "슬로베니아 국립 미술관", en: "National Gallery of Slovenia" },
+        description: { ko: "중세부터 20세기 초까지 슬로베니아와 유럽 회화를 모은 미술관입니다.", en: "Slovenian and European painting from the Middle Ages to the early 20th century." },
+        image: "/highlights/ljubljana-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Slovenia",
+      },
+      {
+        id: "ljubljana-h7",
+        name: { ko: "플레치니크 하우스", en: "Plečnik House" },
+        description: { ko: "류블랴나를 설계한 건축가 요제 플레치니크의 집으로, 그의 작업실과 생활공간을 안내 투어로 봅니다. 그의 류블랴나 작품은 유네스코 세계유산입니다.", en: "The home of Jože Plečnik, the architect who shaped Ljubljana, with his studio and rooms seen on guided tours; his Ljubljana works are a UNESCO World Heritage Site." },
+        image: "/highlights/ljubljana-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ple%C4%8Dnikova%20hi%C5%A1a",
+      },
+      {
+        id: "ljubljana-h9",
+        name: { ko: "메텔코바", en: "Metelkova" },
+        description: { ko: "옛 군 막사를 예술가들이 차지해 그라피티와 조형물로 꾸민 자치 문화 지구입니다.", en: "Former army barracks taken over by artists, covered in graffiti and sculpture—an autonomous cultural quarter." },
+        image: "/highlights/ljubljana-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Metelkova%20Mesto",
+      },
+      {
+        id: "ljubljana-h11",
+        name: { ko: "슈코퓨 로카", en: "Škofja Loka" },
+        description: { ko: "성과 중세 광장이 잘 남은 슬로베니아에서 손꼽히게 오래된 소도시입니다.", en: "One of Slovenia’s oldest towns, with a castle and a well-kept medieval square." },
+        image: "/highlights/ljubljana-11.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C5%A0kofja%20Loka",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "ljubljana-h12",
+        name: { ko: "벨리카 플라니나", en: "Velika Planina" },
+        description: { ko: "케이블카로 오르는 고원 목초지로, 지붕이 낮은 목동 오두막 마을이 흩어져 있습니다.", en: "A high alpine pasture reached by cable car, dotted with a village of low-roofed herdsmen’s huts." },
+        image: "/highlights/ljubljana-12.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Velika%20Planina",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -25113,13 +25164,6 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bled%20Island",
       },
       {
-        id: "bled-h3",
-        name: { ko: "블레드 성", en: "Bled Castle" },
-        description: { ko: "호수 절벽 위의 중세 성입니다.", en: "Medieval castle on a lakeside cliff." },
-        image: "/highlights/bled-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bled%20Castle",
-      },
-      {
         id: "bled-h4",
         name: { ko: "블레드 케이크", en: "Bled cream cake" },
         description: { ko: "현지 명물 크림 케이크입니다.", en: "Famous local cream cake." },
@@ -25127,12 +25171,27 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hotel%20Park%20Bled",
       },
       {
+        id: "bled-h3",
+        name: { ko: "블레드 성", en: "Bled Castle" },
+        description: { ko: "호수 절벽 위의 중세 성입니다.", en: "Medieval castle on a lakeside cliff." },
+        image: "/highlights/bled-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bled%20Castle",
+      },
+      {
         id: "bled-h5",
-        name: { ko: "브인트 전망", en: "Ojstrica / viewpoints" },
-        description: { ko: "호수 전경 하이킹 포인트입니다.", en: "Hiking viewpoints over the lake." },
+        name: { ko: "오이스트리차 전망대", en: "Ojstrica / viewpoints" },
+        description: { ko: "호수 서쪽 숲길로 20~30분 오르면 섬과 성, 알프스가 한 장에 담기는 전망대입니다.", en: "A 20–30 minute climb through the woods on the west shore to a viewpoint framing the island, castle and Alps." },
         image: "/highlights/bled-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ojstrica%20Bled",
-      }
+      },
+      {
+        id: "bled-h6",
+        name: { ko: "빈트가르 협곡", en: "Vintgar Gorge" },
+        description: { ko: "라도브나강이 만든 1.6km 협곡을 나무 데크 길로 따라 걷습니다.", en: "A 1.6 km gorge carved by the Radovna, walked on wooden boardwalks." },
+        image: "/highlights/bled-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vintgar%20Gorge",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -25149,11 +25208,25 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "piran-h5",
+        name: { ko: "소금 창고·항구", en: "Harbour / salt warehouses" },
+        description: { ko: "역사 항구와 소금 창고입니다.", en: "Historic harbour and salt stores." },
+        image: "/highlights/piran-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piran%20harbour",
+      },
+      {
         id: "piran-h1",
         name: { ko: "타르티니 광장", en: "Tartini Square" },
         description: { ko: "타원형 해안 메인 광장입니다.", en: "Oval main square by the sea." },
         image: "/highlights/piran-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tartini%20Square%20Piran",
+      },
+      {
+        id: "piran-h6",
+        name: { ko: "세르게이 마셰라 해양 박물관", en: "Sergej Mašera Maritime Museum" },
+        description: { ko: "바닷가 궁전 건물에 피란의 항해·어업·소금 산업 역사를 전시합니다.", en: "Piran’s seafaring, fishing and salt-making history in a seafront palazzo." },
+        image: "/highlights/piran-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pomorski%20muzej%20Piran",
       },
       {
         id: "piran-h2",
@@ -25177,12 +25250,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piran",
       },
       {
-        id: "piran-h5",
-        name: { ko: "소금 창고·항구", en: "Harbour / salt warehouses" },
-        description: { ko: "역사 항구와 소금 창고입니다.", en: "Historic harbour and salt stores." },
-        image: "/highlights/piran-5.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piran%20harbour",
-      }
+        id: "piran-h7",
+        name: { ko: "세초블레 염전 자연공원", en: "Sečovlje Salina Nature Park" },
+        description: { ko: "700년 넘게 옛 방식으로 소금을 만드는 염전으로, 소금 박물관과 새 관찰 길이 있습니다.", en: "Salt pans worked the traditional way for over 700 years, with a salt museum and birdwatching trails." },
+        image: "/highlights/piran-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Se%C4%8Dovlje%20Salina%20Nature%20Park",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -25199,11 +25273,39 @@ export const cities: City[] = [
     },
     highlights: [
       {
+        id: "maribor-h3",
+        name: { ko: "마리보르 성", en: "Maribor Castle" },
+        description: { ko: "지역 박물관이 있는 성입니다.", en: "Castle with regional museum." },
+        image: "/highlights/maribor-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Maribor%20Castle",
+      },
+      {
         id: "maribor-h1",
-        name: { ko: "렌트 광장", en: "Main Square / Plague Column" },
+        name: { ko: "중앙 광장과 페스트 기념탑", en: "Main Square / Plague Column" },
         description: { ko: "구시가 중앙 광장입니다.", en: "Central old-town square." },
         image: "/highlights/maribor-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Glavni%20trg%203%2C%202000%20Maribor",
+      },
+      {
+        id: "maribor-h6",
+        name: { ko: "마리보르 대성당", en: "Maribor Cathedral" },
+        description: { ko: "고딕과 바로크가 섞인 성당으로, 종탑에 올라 시내와 드라바강을 볼 수 있습니다.", en: "A Gothic and Baroque cathedral whose bell tower looks over the city and the Drava." },
+        image: "/highlights/maribor-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Maribor%20Cathedral",
+      },
+      {
+        id: "maribor-h8",
+        name: { ko: "마리보르 유대교 회당", en: "Maribor Synagogue" },
+        description: { ko: "유럽에서 오래된 축에 드는 중세 유대교 회당으로, 지금은 문화 공간입니다.", en: "One of the oldest surviving medieval synagogues in Europe, now a cultural centre." },
+        image: "/highlights/maribor-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sinagoga%20Maribor",
+      },
+      {
+        id: "maribor-h7",
+        name: { ko: "피라미다 언덕", en: "Piramida hill" },
+        description: { ko: "시내 바로 북쪽의 포도밭 언덕으로, 옛 성터와 예배당이 있는 꼭대기에서 마리보르 시내와 드라바강이 내려다보입니다.", en: "The vineyard hill just north of the centre, with a chapel on the old castle site at the top looking over Maribor and the Drava." },
+        image: "/highlights/maribor-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Piramida%20Maribor",
       },
       {
         id: "maribor-h2",
@@ -25211,13 +25313,6 @@ export const cities: City[] = [
         description: { ko: "세계 최고령 포도나무 하우스입니다.", en: "World’s oldest vine house." },
         image: "/highlights/maribor-2.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Old%20Vine%20Maribor",
-      },
-      {
-        id: "maribor-h3",
-        name: { ko: "마리보르 성", en: "Maribor Castle" },
-        description: { ko: "지역 박물관이 있는 성입니다.", en: "Castle with regional museum." },
-        image: "/highlights/maribor-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Maribor%20Castle",
       },
       {
         id: "maribor-h4",
@@ -25228,11 +25323,12 @@ export const cities: City[] = [
       },
       {
         id: "maribor-h5",
-        name: { ko: "포흐리예", en: "Pohorje" },
+        name: { ko: "포호리예", en: "Pohorje" },
         description: { ko: "근교 스키·하이킹 산입니다.", en: "Nearby ski and hiking mountain." },
         image: "/highlights/maribor-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mariborsko%20Pohorje",
-      }
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {
@@ -25250,17 +25346,10 @@ export const cities: City[] = [
     highlights: [
       {
         id: "postojna-h1",
-        name: { ko: "포스트오이나 동굴", en: "Postojna Cave" },
+        name: { ko: "포스토이나 동굴", en: "Postojna Cave" },
         description: { ko: "열차로 들어가는 거대 종유석 동굴입니다.", en: "Huge stalactite cave entered by train." },
         image: "/highlights/postojna-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Postojna%20Cave",
-      },
-      {
-        id: "postojna-h2",
-        name: { ko: "프레디아마 성", en: "Predjama Castle" },
-        description: { ko: "동굴 절벽에 박힌 성입니다.", en: "Castle built into a cave cliff." },
-        image: "/highlights/postojna-2.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Predjama%20Castle",
       },
       {
         id: "postojna-h3",
@@ -25278,11 +25367,35 @@ export const cities: City[] = [
       },
       {
         id: "postojna-h5",
-        name: { ko: "포스트오이나 구시가", en: "Postojna town" },
+        name: { ko: "포스토이나 시내", en: "Postojna town" },
         description: { ko: "소규모 광장과 카페입니다.", en: "Small square and cafés." },
         image: "/highlights/postojna-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Postojna%20town",
-      }
+      },
+      {
+        id: "postojna-h2",
+        name: { ko: "프레드야마 성", en: "Predjama Castle" },
+        description: { ko: "동굴 절벽에 박힌 성입니다.", en: "Castle built into a cave cliff." },
+        image: "/highlights/postojna-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Predjama%20Castle",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "postojna-h6",
+        name: { ko: "슈코찬 동굴", en: "Škocjan Caves" },
+        description: { ko: "레카강이 만든 거대한 지하 협곡으로, 동굴 안 다리 아래 깊은 협곡이 펼쳐집니다. 유네스코 세계유산입니다.", en: "A vast underground canyon carved by the Reka river, crossed by a bridge high above the gorge; a UNESCO World Heritage Site." },
+        image: "/highlights/postojna-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C5%A0kocjan%20Caves",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "postojna-h7",
+        name: { ko: "리피차 종마 사육장", en: "Lipica Stud Farm" },
+        description: { ko: "하얀 리피차너 말의 원산지로, 1580년부터 말을 길러 온 사육장입니다.", en: "The original home of the white Lipizzaner horses, bred here since 1580." },
+        image: "/highlights/postojna-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lipica%20Stud%20Farm",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
     ],
   },
   {

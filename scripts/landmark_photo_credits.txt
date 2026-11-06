@@ -2158,3 +2158,18 @@ highlights/hrensko-3.jpg | https://commons.wikimedia.org/wiki/File:H%C5%99ensko_
 highlights/hrensko-4.jpg | https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_Labe_a_z%C3%A1mek_1.jpg | CC BY-SA 4.0 | VitVit
 highlights/znojmo-6.jpg | https://commons.wikimedia.org/wiki/File:Znojmo_(Znaim)_-_Louck%C3%BD_kl%C3%A1%C5%A1ter_(Klosterbruck).JPG | CC BY-SA 4.0 | Pudelek (Marcin Szala)
 highlights/plzen-2.jpg | https://commons.wikimedia.org/wiki/File:Plze%C5%88_podzem%C3%AD.JPG | Public domain | Ondřej Koníček
+highlights/ljubljana-6.jpg | https://commons.wikimedia.org/wiki/File:Ljubljana_St_Nicholas_Cathedral_(11992595764).jpg | CC BY 2.0 | Jorge Láscar from Australia
+highlights/ljubljana-7.jpg | https://commons.wikimedia.org/wiki/File:La_maison_de_Jo%C5%BEe_Ple%C4%8Dnik_(Ljubljana)_(9375937247).jpg | CC BY 2.0 | dalbera from Paris, France
+highlights/ljubljana-8.jpg | https://commons.wikimedia.org/wiki/File:Tivoli_City_Park,_Ljubljana_(2013).jpg | CC BY-SA 4.0 | Dedo70
+highlights/ljubljana-9.jpg | https://commons.wikimedia.org/wiki/File:Ljubljana_Metelkova_ulica_29.JPG | CC BY-SA 4.0 | Zairon
+highlights/ljubljana-10.jpg | https://commons.wikimedia.org/wiki/File:National_Gallery_of_Slovenia_2.jpg | CC BY-SA 4.0 | Viktar Palstsiuk
+highlights/ljubljana-11.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0kofja_Loka_Castle_(%C5%A0kofjelo%C5%A1ki_grad,_Slovenija).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/ljubljana-12.jpg | https://commons.wikimedia.org/wiki/File:Velika_planina_(8965484358).jpg | CC BY 2.0 | Reuben Dalke from D.C., U.S.
+highlights/bled-6.jpg | https://commons.wikimedia.org/wiki/File:Waterfall,_Vintgar_Gorge._Slovenia._(9308209014).jpg | CC BY 2.0 | Luke Price from Rotterdam, Netherlands
+highlights/piran-6.jpg | https://commons.wikimedia.org/wiki/File:Piran,_Gabrielli_Palace_01.jpg | CC0 | Ajznponar
+highlights/piran-7.jpg | https://commons.wikimedia.org/wiki/File:Greater_flamingo_flock_(Se%C4%8Dovlje_salina).jpg | CC BY-SA 4.0 | Yerpo
+highlights/maribor-6.jpg | https://commons.wikimedia.org/wiki/File:Maribor_cathedral_from_east.JPG | CC0 | Ježofska
+highlights/maribor-8.jpg | https://commons.wikimedia.org/wiki/File:Synagogue_Maribor.jpg | CC BY-SA 4.0 | Sinagoga Maribor
+highlights/postojna-6.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0kocjan_Caves,_Slovenia,_20240502_1204_7532.jpg | CC BY 4.0 | Jakub Hałun
+highlights/postojna-7.jpg | https://commons.wikimedia.org/wiki/File:Lipica_stud_farm_1.JPG | CC BY-SA 4.0 | Husond
+highlights/maribor-7.jpg | https://commons.wikimedia.org/wiki/File:Maribor_Castle_(Piramida)_01.JPG | CC0 | Janezdrilc
