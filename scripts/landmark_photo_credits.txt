@@ -2235,3 +2235,14 @@ highlights/kraljevo-1.jpg | https://commons.wikimedia.org/wiki/File:Kraljevo_mil
 highlights/kraljevo-2.jpg | https://commons.wikimedia.org/wiki/File:Manastir_%C5%BDi%C4%8Da_(by_Pudelek).JPG | CC BY-SA 3.0 | Pudelek
 highlights/kraljevo-3.jpg | https://commons.wikimedia.org/wiki/File:Studenica_monastery_(Manastir_Studenica)_-_by_Pudelek.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
 highlights/kraljevo-4.jpg | https://commons.wikimedia.org/wiki/File:Magli%C4%8D_fortress.JPG | CC BY-SA 3.0 | User:Vladsegrt
+highlights/sarajevo-6.jpg | https://commons.wikimedia.org/wiki/File:Sarajevo_%E2%80%93_Vije%C4%87nica_(2013).jpg | CC BY-SA 3.0 | Julian Nyča
+highlights/sarajevo-7.jpg | https://commons.wikimedia.org/wiki/File:BiH_Svrzo_women%27s_coutryard_(2).jpg | CC0 | Whitepixels
+highlights/sarajevo-8.jpg | https://commons.wikimedia.org/wiki/File:War_Childhood_Museum.jpg | CC BY-SA 4.0 | Anida Krečo
+highlights/sarajevo-9.jpg | https://commons.wikimedia.org/wiki/File:Zuta_tabija.jpg | CC BY-SA 2.0 | Damien Smith from London, United Kingdom
+highlights/sarajevo-10.jpg | https://commons.wikimedia.org/wiki/File:Vrelo_Bosne_Labudovi.jpg | CC BY-SA 4.0 | Ethomorphis
+highlights/mostar-6.jpg | https://commons.wikimedia.org/wiki/File:Crooked_Bridge,_Mostar_(28684082377).jpg | CC BY 2.0 | Jocelyn Erskine-Kellie from London, UK
+highlights/mostar-7.jpg | https://commons.wikimedia.org/wiki/File:Muslibegovic_House,_Mostar1.jpg | CC BY-SA 4.0 | Jocelyn777 Love Europe
+highlights/mostar-8.jpg | https://commons.wikimedia.org/wiki/File:Kravica_Waterfalls,Bosnia_%26_Herzegovina.jpg | CC BY 2.0 | john mcsporran from Trossachs, Scotland
+highlights/mostar-9.jpg | https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/banja-luka-6.jpg | https://commons.wikimedia.org/wiki/File:Banski_dvor_Banja_Luka.jpg | CC0 | ArhistefoBL
+highlights/travnik-6.jpg | https://commons.wikimedia.org/wiki/File:Plava_voda_belo_nebo.jpg | CC BY-SA 4.0 | Mirvladimir

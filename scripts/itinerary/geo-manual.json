@@ -2428,5 +2428,130 @@
     43.48654,
     20.53165,
     "OSM Nominatim: Манастир Студеница, Немањина, Брезова, Град Краљево, Рашки у (Wikipedia 408m)"
+  ],
+  "sarajevo-h5": [
+    43.85548,
+    18.43512,
+    "OSM Overpass: Bistrik station (Trebević cable car lower station)"
+  ],
+  "neum-h1": [
+    42.92596,
+    17.61178,
+    "OSM Overpass: beach, Neum centre"
+  ],
+  "neum-h2": [
+    42.92433,
+    17.6118,
+    "OSM Overpass: Neum seafront (beach line)"
+  ],
+  "sarajevo-h3": [
+    43.81982,
+    18.33735,
+    "OSM Nominatim: Tunel spasa - Kuća Kolara, 1, Tuneli, Donji Kotorac, Ilidža, (Wikipedia 15m)"
+  ],
+  "sarajevo-h4": [
+    43.85763,
+    18.42893,
+    "OSM Nominatim: Latinska ćuprija, Sarajevo, MZ \"Baščaršija\", Općina Stari Gr"
+  ],
+  "sarajevo-h6": [
+    43.85917,
+    18.43335,
+    "OSM Nominatim: Vijećnica, 1, Brodac, MZ \"Baščaršija\", Sarajevo, Općina Star (Wikipedia 1m)"
+  ],
+  "sarajevo-h7": [
+    43.86246,
+    18.4292,
+    "OSM Nominatim: Svrzina kuća, Glođina 8, Sarajevo"
+  ],
+  "sarajevo-h8": [
+    43.86195,
+    18.42854,
+    "OSM Nominatim: Muzej ratnog djetinjstva, 32, Logavina, MZ \"Logavina\", Saraj (Wikipedia 5m)"
+  ],
+  "sarajevo-h9": [
+    43.86146,
+    18.43772,
+    "OSM Nominatim: Žuta tabija, Bijela česma, MZ \"Vratnik\", Sarajevo, Vratnik, "
+  ],
+  "sarajevo-h10": [
+    43.82199,
+    18.26942,
+    "OSM Nominatim: Vrelo Bosne, Ilidža, Općina Ilidža, Kanton Sarajevo, Federac (Wikipedia 347m)"
+  ],
+  "mostar-h2": [
+    43.33782,
+    17.81546,
+    "OSM Nominatim: Kujundžiluk, Stari Grad, Mostar, Grad Mostar, Hercegovačko-n (Wikipedia 911m)"
+  ],
+  "mostar-h3": [
+    43.33867,
+    17.81478,
+    "OSM Nominatim: Koski Mehmed Pašina džamija, Mala Tepa, Stari Grad, Mostar, "
+  ],
+  "mostar-h4": [
+    43.33726,
+    17.81504,
+    "OSM Nominatim: Stari most, Oneščukova, Stari Grad, Mostar, Grad Mostar, Her"
+  ],
+  "mostar-h6": [
+    43.33676,
+    17.81313,
+    "OSM Nominatim: Kriva Ćuprija, Stari Grad, Mostar, Grad Mostar, Hercegovačko"
+  ],
+  "mostar-h7": [
+    43.34505,
+    17.8107,
+    "OSM Nominatim: Muslibegovića kuća, Lacina, Majdan, Mostar, Grad Mostar, Her (Wikipedia 9m)"
+  ],
+  "mostar-h8": [
+    43.15615,
+    17.60789,
+    "OSM Nominatim: Kravica, Zvirići, Grad Ljubuški, Županija Zapadnohercegovačk"
+  ],
+  "mostar-h9": [
+    43.13458,
+    17.73196,
+    "OSM Nominatim: Počitelj, Grad Čapljina, Hercegovačko-neretvanska županija ( (Wikipedia 178m)"
+  ],
+  "banja-luka-h4": [
+    44.77477,
+    17.20014,
+    "OSM Nominatim: Vrbas, Gundulićeva, Pentagon zgrade, Aleja-centar, Banja Luk"
+  ],
+  "banja-luka-h6": [
+    44.7729,
+    17.19232,
+    "OSM Nominatim: Kulturni centar \"Banski dvor\", 2, Kralja Petra I Karađorđevi"
+  ],
+  "travnik-h2": [
+    44.22654,
+    17.66985,
+    "OSM Nominatim: Šarena džamija, Žitarnica, Musala, Ilovača, Travnik, Općina  (Wikipedia 808m)"
+  ],
+  "travnik-h3": [
+    44.22614,
+    17.65967,
+    "OSM Nominatim: Vezirska sahat kula, Bosanska, Bojna, Travnik, Općina Travni (Wikipedia 28m)"
+  ],
+  "travnik-h4": [
+    44.3377,
+    17.27049,
+    "OSM Nominatim: Slapovi Plive, II zasjedanja AVNOJ-a, Stari grad, Jajce, Opć"
+  ],
+  "travnik-h5": [
+    44.22654,
+    17.66803,
+    "OSM Nominatim: Rodna kuća Ive Andrića, Zenjak, Musala, Ilovača, Travnik, Op"
+  ],
+  "travnik-h6": [
+    44.22989,
+    17.67231,
+    "OSM Nominatim: Plava voda, Ilovača, Travnik, Općina Travnik, Srednjobosansk"
+  ],
+  "neum-h3": [
+    42.94559,
+    17.56331,
+    "OSM Nominatim: Klek, Općina Slivno, Dubrovačko-neretvanska županija, Hrvats"
   ]
 }

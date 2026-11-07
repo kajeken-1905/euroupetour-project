@@ -154,10 +154,19 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   maribor: { days: [['', 3, 1, 6, 8, 7, 2, 4]], trips: [['포호리예|Pohorje', 5]] },
   ptuj: [1, 2, 6, 3, 4, 5],
   postojna: { days: [['', 1, 3, 4, 5]], trips: [['프레드야마 성|Predjama Castle', 2], ['슈코찬 동굴|Škocjan Caves', 6], ['리피차|Lipica', 7]] },
-  sarajevo: { days: [['', 2, 1, 4, 5]], trips: [['터널 박물관|Tunnel Museum', 3]] },
-  mostar: { days: [['', 3, 2, 1, 4]], trips: [['블라가이|Blagaj', 5]] },
-  'banja-luka': [2, 5, 1, 4, 3],
-  travnik: { days: [['', 2, 3, 5, 1]], trips: [['플리바 호수와 야이체|Pliva lakes & Jajce', 4]] },
+  sarajevo: {
+    days: [
+      ['바슈차르시야와 구시가|Baščaršija & old town', 1, 2, 6, 4, 7, 9],
+      ['산과 전쟁의 기억|Mountain & war memory', 5, 8],
+    ],
+    trips: [
+      ['희망의 터널|Tunnel of Hope', 3],
+      ['브렐로 보스네|Vrelo Bosne', 10],
+    ],
+  },
+  mostar: { days: [['', 3, 2, 1, 4, 6, 7]], trips: [['블라가이|Blagaj', 5], ['크라비차 폭포|Kravica', 8], ['포치텔리|Počitelj', 9]] },
+  'banja-luka': [2, 6, 5, 3, 1, 4],
+  travnik: { days: [['', 2, 3, 5, 6, 1]], trips: [['플리바 호수와 야이체|Pliva lakes & Jajce', 4]] },
   neum: [2, 1, 3],
   kotor: { days: [['', 1, 2, 5, 3]], trips: [['코토르 만 유람|Bay of Kotor cruise', 4], ['페라스트|Perast', 6]] },
   budva: {
