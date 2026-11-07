@@ -828,10 +828,28 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Bolzano/Bozen', '볼차노역']],
     bus: [['Autostazione di Bolzano', '볼차노 버스터미널']],
   },
+  merano: {
+    air: [['Bolzano (BZO)', '볼차노 공항 (BZO)', '운항편 적음|few flights'], ['Verona Villafranca (VRN)', '베로나 공항 (VRN)', '베로나|Verona'], ['Innsbruck (INN)', '인스브루크 공항 (INN)', '오스트리아 인스브루크|Innsbruck, Austria']],
+    rail: [['Merano/Meran', '메라노역']],
+  },
+  trento: {
+    air: [['Verona Villafranca (VRN)', '베로나 공항 (VRN)', '베로나|Verona'], ['Bolzano (BZO)', '볼차노 공항 (BZO)', '운항편 적음|few flights']],
+    rail: [['Trento', '트렌토역']],
+    bus: [['Autostazione di Trento', '트렌토 버스터미널']],
+  },
   cortina: {
     air: [VCE()],
     rail: [['Calalzo–Pieve di Cadore–Cortina', '칼랄초역', '칼랄초 · 코르티나엔 역 없음|Calalzo · no station in Cortina']],
     bus: [['Autostazione di Cortina', '코르티나 버스터미널']],
+  },
+  ortisei: {
+    air: [['Bolzano (BZO)', '볼차노 공항 (BZO)', '운항편 적음|few flights'], ['Verona Villafranca (VRN)', '베로나 공항 (VRN)', '베로나|Verona'], ['Innsbruck (INN)', '인스브루크 공항 (INN)', '오스트리아 인스브루크|Innsbruck, Austria']],
+    bus: [['Ortisei/St. Ulrich', '오르티세이 버스 정류장']],
+  },
+  aosta: {
+    air: [['Torino Caselle (TRN)', '토리노 공항 (TRN)', '토리노|Turin'], ['Genève Aéroport (GVA)', '제네바 공항 (GVA)', '스위스 제네바|Geneva, Switzerland']],
+    rail: [['Aosta', '아오스타역', '이브레아 구간 공사로 대체 버스|replacement buses on the Ivrea section during works']],
+    bus: [['Autostazione di Aosta', '아오스타 버스터미널']],
   },
   bologna: {
     air: [['Bologna Guglielmo Marconi (BLQ)', '볼로냐 공항 (BLQ)']],
@@ -894,19 +912,35 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [FLR(), ['Pisa Galileo Galilei (PSA)', '피사 공항 (PSA)', '피사|Pisa']],
     rail: [['Poggibonsi–San Gimignano', '포지본시-산지미냐노역', '포지본시 · 버스 연결|Poggibonsi · bus link']],
   },
+  arezzo: {
+    air: [['Firenze Peretola (FLR)', '피렌체 공항 (FLR)', '피렌체|Florence']],
+    rail: [['Arezzo', '아레초역']],
+  },
   montepulciano: {
     air: [FLR()],
     rail: [['Chiusi–Chianciano Terme', '키우시-키안차노 테르메역', '키우시 · 버스 연결|Chiusi · bus link']],
     bus: [['Autostazione di Montepulciano', '몬테풀차노 버스터미널']],
+  },
+  cortona: {
+    air: [['Firenze Peretola (FLR)', '피렌체 공항 (FLR)', '피렌체|Florence'], ['Perugia San Francesco d’Assisi (PEG)', '페루자 공항 (PEG)', '페루자|Perugia']],
+    rail: [['Camucia-Cortona', '카무차-코르토나역', '언덕 아래 · 버스 연결|below the hill · bus link']],
   },
   perugia: {
     air: [['Perugia San Francesco d’Assisi (PEG)', '페루자 공항 (PEG)']],
     rail: [['Perugia', '페루자역']],
     bus: [['Piazza Partigiani', '피아차 파르티자니 버스터미널']],
   },
+  gubbio: {
+    air: [['Perugia San Francesco d’Assisi (PEG)', '페루자 공항 (PEG)', '페루자|Perugia']],
+    bus: [['Piazza Quaranta Martiri', '40 순교자 광장 버스 정류장']],
+  },
   assisi: {
     air: [['Perugia San Francesco d’Assisi (PEG)', '페루자 공항 (PEG)', '페루자|Perugia']],
     rail: [['Assisi', '아시시역', '산타 마리아 델리 안젤리 · 언덕 아래|Santa Maria degli Angeli · below the hill town']],
+  },
+  spoleto: {
+    air: [['Perugia San Francesco d’Assisi (PEG)', '페루자 공항 (PEG)', '페루자|Perugia'], ['Roma Fiumicino (FCO)', '로마 피우미치노 공항 (FCO)', '로마|Rome']],
+    rail: [['Spoleto', '스폴레토역']],
   },
   orvieto: {
     air: [FCO()],
@@ -960,6 +994,17 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Bari Centrale', '바리 중앙역']],
     port: [['Porto di Bari', '바리 항구', '그리스·크로아티아·알바니아행 페리|ferries to Greece, Croatia and Albania']],
   },
+  ostuni: {
+    air: [['Brindisi Salento (BDS)', '브린디시 공항 (BDS)', '브린디시|Brindisi'], ['Bari Karol Wojtyła (BRI)', '바리 공항 (BRI)', '바리|Bari']],
+    rail: [['Ostuni', '오스투니역', '시내에서 약 3km · 버스 연결|about 3 km from town · bus link']],
+  },
+  ischia: {
+    air: [['Napoli Capodichino (NAP)', '나폴리 공항 (NAP)', '나폴리|Naples']],
+    port: [
+      ['Ischia Porto', '이스키아 항구'],
+      ['Casamicciola Terme', '카사미촐라 항구'],
+    ],
+  },
   alberobello: {
     air: [BRI()],
     rail: [['Alberobello', '알베로벨로역']],
@@ -993,6 +1038,15 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Palermo Falcone Borsellino (PMO)', '팔레르모 공항 (PMO)', '팔레르모|Palermo']],
     rail: [['Agrigento Centrale', '아그리젠토 중앙역']],
     bus: [['Piazzale Rosselli', '피아찰레 로셀리 버스터미널']],
+  },
+  ragusa: {
+    air: [['Catania Fontanarossa (CTA)', '카타니아 공항 (CTA)', '카타니아|Catania'], ['Comiso (CIY)', '코미소 공항 (CIY)', '운항편 적음|few flights']],
+    rail: [['Ragusa', '라구사역']],
+  },
+  trapani: {
+    air: [['Trapani Birgi (TPS)', '트라파니 공항 (TPS)'], ['Palermo Falcone Borsellino (PMO)', '팔레르모 공항 (PMO)', '팔레르모|Palermo']],
+    rail: [['Trapani', '트라파니역']],
+    port: [['Porto di Trapani', '트라파니 항구', '에가디 제도행 쾌속선|fast boats to the Egadi Islands']],
   },
   siracusa: {
     air: [CTA()],

@@ -3732,5 +3732,980 @@
     47.70625,
     9.19156,
     "OSM Nominatim: Insel Mainau, Litzelstetten, Konstanz, VVG der Stadt Konstan (Wikipedia 229m)"
+  ],
+  "sirmione-h3": [
+    45.50251,
+    10.60597,
+    "OSM Nominatim: Jamaica Beach, Sirmione"
+  ],
+  "sirmione-h4": [
+    45.492,
+    10.60622,
+    "OSM Overpass: Sirmione ferry terminal"
+  ],
+  "turin-h9": [
+    45.07333,
+    7.68541,
+    "OSM Nominatim: Cattedrale di San Giovanni Battista, Torino"
+  ],
+  "milan-h24": [
+    45.25644,
+    9.14685,
+    "OSM Nominatim: Monastero della Certosa di Pavia"
+  ],
+  "como-h2": [
+    45.81855,
+    9.09158,
+    "OSM Nominatim: Funicolare Como-Brunate, Via Carescione, Carescione, Laghett (Wikipedia 169m)"
+  ],
+  "bergamo-h4": [
+    45.70339,
+    9.65924,
+    "OSM Nominatim: Mura Venete, Largo di Porta Sant'Alessandro, Santa Grata, Be"
+  ],
+  "turin-h4": [
+    45.05239,
+    7.68494,
+    "OSM Nominatim: Parco del Valentino, Circoscrizione 8, Cavoretto, Torino, Pi (Wikipedia 197m)"
+  ],
+  "genoa-h2": [
+    44.40768,
+    8.93078,
+    "OSM Nominatim: Via San Lorenzo, Sottoripa, Molo, Centro Est, Genova, Liguri (Wikipedia 252m)"
+  ],
+  "genoa-h6": [
+    44.4109,
+    8.93386,
+    "OSM Nominatim: Via Giuseppe Garibaldi, Sottoripa, Maddalena, Centro Est, Ge"
+  ],
+  "genoa-h7": [
+    44.40763,
+    8.93141,
+    "OSM Nominatim: Cattedrale di San Lorenzo, Piazza di San Lorenzo, Sottoripa, (Wikipedia 24m)"
+  ],
+  "genoa-h8": [
+    44.38978,
+    8.97484,
+    "OSM Nominatim: Boccadasse, Medio Levante, Genova, Liguria, 16146, Italia (Wikipedia 120m)"
+  ],
+  "portofino-h1": [
+    44.30563,
+    9.21165,
+    "OSM Nominatim: Piazzetta Vincent Ardissone, Portofino, Genova, Liguria, 160 (Wikipedia 364m)"
+  ],
+  "cinque-terre-h4": [
+    44.14652,
+    9.65556,
+    "OSM Nominatim: Monterosso al Mare, La Spezia, Liguria, 19016, Italia (Wikipedia 135m)"
+  ],
+  "cinque-terre-h6": [
+    44.12414,
+    9.71304,
+    "OSM Nominatim: Sentiero Azzurro, Località Lardarina, Case Pianca, Corniglia (Wikipedia 597m)"
+  ],
+  "turin-h8": [
+    45.07305,
+    7.68696,
+    "OSM Nominatim: Palazzo Reale, Piazzetta Reale, Quadrilatero Romano, Centro, (Wikipedia 85m)"
+  ],
+  "turin-h10": [
+    45.07622,
+    7.67903,
+    "OSM Nominatim: Al Bicerin, Piazza della Consolata, Quadrilatero Romano, Cen"
+  ],
+  "turin-h11": [
+    45.13582,
+    7.62336,
+    "OSM Nominatim: Reggia di Venaria Reale, Corte d'Onore, Centro, Altessano, V (Wikipedia 13m)"
+  ],
+  "turin-h12": [
+    44.61125,
+    7.9439,
+    "OSM Nominatim: Castello Falletti, Vicoloconfraternita, Barolo, Cuneo, Piemo"
+  ],
+  "como-h5": [
+    45.98768,
+    9.23193,
+    "OSM Nominatim: Villa Carlotta, Rogaro, Tremezzo, Tremezzina, Como, Lombardi (Wikipedia 164m)"
+  ],
+  "bergamo-h6": [
+    45.70321,
+    9.66222,
+    "OSM Nominatim: Basilica di Santa Maria Maggiore, Piazza Padre Reginaldo Giu (Wikipedia 17m)"
+  ],
+  "stresa-h5": [
+    45.92546,
+    8.56169,
+    "OSM Nominatim: Giardini Botanici Villa Taranto, Intra, Biganzolo, Verbania, (Wikipedia 141m)"
+  ],
+  "milan-h21": [
+    45.47224,
+    9.18841,
+    "OSM Nominatim: Pinacoteca di Brera, 28, Via Brera, Borgonuovo, Cerchia dei  (Wikipedia 43m)"
+  ],
+  "milan-h22": [
+    45.46339,
+    9.19023,
+    "OSM Nominatim: Museo del Novecento, 1, Via Guglielmo Marconi, Duomo, Cerchi (Wikipedia 25m)"
+  ],
+  "milan-h23": [
+    45.46178,
+    9.17059,
+    "OSM Nominatim: Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, 21, "
+  ],
+  "venice-h25": [
+    45.43404,
+    12.33904,
+    "OSM Nominatim: Campanile di San Marco, Piazzetta San Marco, San Marco, Vene (Wikipedia 5m)"
+  ],
+  "venice-h26": [
+    45.43277,
+    12.34856,
+    "OSM Nominatim: Arsenale, Riva de Ca' di Dio, Castello, Venezia-Murano-Buran (Wikipedia 448m)"
+  ],
+  "venice-h6": [
+    45.43407,
+    12.32557,
+    "OSM Nominatim: Ca' Macana, Calle del Capeler, Dorsoduro, Venezia-Murano-Bur"
+  ],
+  "modena-h5": [
+    44.69061,
+    10.90052,
+    "OSM Nominatim: Acetaia Giusti museum, Strada Quattro Ville 52, Modena"
+  ],
+  "parma-h5": [
+    44.76241,
+    10.20493,
+    "OSM Nominatim: Caseificio Gennari, Collecchio (Parma)"
+  ],
+  "verona-h9": [
+    45.54295,
+    10.88397,
+    "OSM Nominatim: Fumane, Valpolicella"
+  ],
+  "cortina-h6": [
+    46.54576,
+    12.13142,
+    "OSM Overpass: Freccia nel Cielo valley station \"Cortina\""
+  ],
+  "bolzano-h4": [
+    46.49997,
+    11.36425,
+    "OSM Nominatim: Funivia del Renon - Rittner Seilbahn, Via Piani di Bolzano -"
+  ],
+  "bologna-h2": [
+    44.49203,
+    11.34872,
+    "OSM Nominatim: Basilica di Santo Stefano, Piazza Santo Stefano, Quadrilater (Wikipedia 18m)"
+  ],
+  "ferrara-h4": [
+    44.84848,
+    11.63236,
+    "OSM Nominatim: Mura di Ferrara, Corso Porta Mare, Centro cittadino, Borgo P"
+  ],
+  "verona-h6": [
+    45.43995,
+    10.98786,
+    "OSM Nominatim: Museo di Castelvecchio, 2, Corso Castelvecchio, Cittadella,  (Wikipedia 9m)"
+  ],
+  "verona-h7": [
+    45.44258,
+    10.97923,
+    "OSM Nominatim: Basilica di San Zeno Maggiore, Piazza San Zeno, San Zeno, Ce (Wikipedia 10m)"
+  ],
+  "verona-h8": [
+    45.44298,
+    10.99772,
+    "OSM Nominatim: Torre dei Lamberti, Cortile del Mercato Vecchio, Città antic (Wikipedia 12m)"
+  ],
+  "trieste-h6": [
+    45.65282,
+    13.78028,
+    "OSM Nominatim: Caffè San Marco, 18, Via Cesare Battisti, Barriera Nuova, Ci (Wikipedia 35m)"
+  ],
+  "trieste-h7": [
+    45.70992,
+    13.76457,
+    "OSM Nominatim: Grotta Gigante / Briškovska jama, Strada regionale Trieste 8 (Wikipedia 97m)"
+  ],
+  "bologna-h8": [
+    44.49187,
+    11.34385,
+    "OSM Nominatim: Biblioteca Comunale dell'Archiginnasio, 1, Piazza Galvani, Q (Wikipedia 43m)"
+  ],
+  "bologna-h9": [
+    44.4791,
+    11.29817,
+    "OSM Nominatim: Santuario della Madonna di San Luca, Portico di San Luca, Ma (Wikipedia 101m)"
+  ],
+  "padua-h6": [
+    45.39856,
+    11.88085,
+    "OSM Nominatim: Orto Botanico 1545, Via Jacopo Stellini, Santa Rita, Madonna (Wikipedia 63m)"
+  ],
+  "bolzano-h6": [
+    46.5175,
+    11.35891,
+    "OSM Nominatim: Castel Roncolo - Schloss Runkelstein, Kaiser-Franz-Josef-Weg (Wikipedia 31m)"
+  ],
+  "cortina-h5": [
+    46.53877,
+    12.13538,
+    "OSM Nominatim: Corso Italia, Crignes, Cortina d'Ampezzo, Belluno, Veneto, 3 (Wikipedia 176m)"
+  ],
+  "parma-h6": [
+    44.61197,
+    10.26838,
+    "OSM Nominatim: Museo del prosciutto e dei salumi di Parma, 7, Via Fabio Boc"
+  ],
+  "ravenna-h6": [
+    44.41559,
+    12.19736,
+    "OSM Nominatim: Battistero Neoniano, Via Gioacchino Rasponi, San Rocco, Rave (Wikipedia 12m)"
+  ],
+  "pisa-h3": [
+    43.72325,
+    10.3942,
+    "OSM Nominatim: Battistero di San Giovanni, Piazza del Duomo, Santa Maria, G (Wikipedia 26m)"
+  ],
+  "pisa-h5": [
+    43.72402,
+    10.39569,
+    "OSM Nominatim: Camposanto Monumentale, Piazza del Duomo, Santa Maria, Gagno (Wikipedia 55m)"
+  ],
+  "pisa-h6": [
+    43.71946,
+    10.40009,
+    "OSM Nominatim: Piazza dei Cavalieri, Santa Maria, Porta a Lucca, Pisa, Tosc (Wikipedia 4m)"
+  ],
+  "lucca-h4": [
+    43.84063,
+    10.50605,
+    "OSM Nominatim: Cattedrale di San Martino, Piazza Antelminelli, Sant'Anna, M (Wikipedia 19m)"
+  ],
+  "lucca-h6": [
+    43.8433,
+    10.50155,
+    "OSM Nominatim: Museo-casa natale di Giacomo Puccini, 9, Corte San Lorenzo, "
+  ],
+  "siena-h5": [
+    43.31719,
+    11.32797,
+    "OSM Nominatim: Complesso Museale Santa Maria della Scala, 1, Piazza del Duo"
+  ],
+  "san-gimignano-h1": [
+    43.46763,
+    11.04292,
+    "OSM Nominatim: Torre Grossa, Via Costarella, Centro storico di San Gimignan"
+  ],
+  "san-gimignano-h5": [
+    43.40034,
+    10.86002,
+    "OSM Nominatim: Volterra, Pisa, Toscana, 56048, Italia (Wikipedia 538m)"
+  ],
+  "montepulciano-h6": [
+    43.05602,
+    11.48934,
+    "OSM Nominatim: Fortezza di Montalcino, Via Ricasoli, Quartiere Borghetto, M"
+  ],
+  "perugia-h5": [
+    43.11469,
+    12.38835,
+    "OSM Nominatim: Via Dell'acquedotto, Sant'Erminio, Ponte Rio, Perugia, Umbri"
+  ],
+  "perugia-h6": [
+    43.08066,
+    12.33371,
+    "OSM Nominatim: Casa del cioccolato Perugina, Via Pievaiola, Sant'Andrea del"
+  ],
+  "assisi-h4": [
+    43.07343,
+    12.61512,
+    "OSM Nominatim: Rocca Maggiore, Via della Rocca, Valecchie, Assisi, Perugia, (Wikipedia 48m)"
+  ],
+  "orvieto-h4": [
+    42.7185,
+    12.11065,
+    "OSM Nominatim: Torre del Moro, Via della Costituente, Quartiere Olmo, Case "
+  ],
+  "orvieto-h5": [
+    42.62771,
+    12.11368,
+    "OSM Nominatim: Civita, Bagnoregio, Viterbo, Lazio, 01022, Italia (Wikipedia 19m)"
+  ],
+  "florence-h20": [
+    43.77284,
+    11.2557,
+    "OSM Nominatim: Campanile di Giotto, Piazza del Duomo, Quartiere 1, Firenze, (Wikipedia 38m)"
+  ],
+  "florence-h21": [
+    43.76775,
+    11.24366,
+    "OSM Nominatim: Cappella Brancacci, Piazza del Carmine, San Frediano, Quarti (Wikipedia 7m)"
+  ],
+  "florence-h22": [
+    43.76766,
+    11.25591,
+    "OSM Nominatim: Museo Galileo - Istituto e Museo di Storia della Scienza, 1, (Wikipedia 14m)"
+  ],
+  "florence-h24": [
+    43.60695,
+    11.33201,
+    "OSM Nominatim: Greve in Chianti, Firenze, Toscana, Italia"
+  ],
+  "rome-h12": [
+    41.96297,
+    12.79599,
+    "OSM Nominatim: Villa d'Este, Via Santa Maria Maggiore, Tivoli, Paterno, Tiv"
+  ],
+  "rome-h13": [
+    41.75364,
+    12.28574,
+    "OSM Nominatim: Ostia Antica, Decumano Massimo, Ostia Antica, Municipio Roma (Wikipedia 549m)"
+  ],
+  "rome-h29": [
+    41.8589,
+    12.51075,
+    "OSM Nominatim: Catacombe di San Callisto, 110, Via Appia Antica, Municipio  (Wikipedia 5m)"
+  ],
+  "rome-h30": [
+    41.88585,
+    12.50559,
+    "OSM Nominatim: Basilica di San Giovanni in Laterano, Piazza di San Giovanni (Wikipedia 47m)"
+  ],
+  "rome-h31": [
+    41.89237,
+    12.47738,
+    "Portico di Ottavia (Wikipedia coordinates)"
+  ],
+  "rome-h32": [
+    41.88285,
+    12.47855,
+    "OSM Nominatim: Piazza dei Cavalieri di Malta, Ripa, Municipio Roma I, Roma,"
+  ],
+  "assisi-h5": [
+    43.06146,
+    12.61815,
+    "OSM Overpass: Chiesa di San Damiano"
+  ],
+  "orvieto-h3": [
+    42.71654,
+    12.11304,
+    "OSM Nominatim: Piazza del Duomo (Orvieto Underground ticket office, tours start here)"
+  ],
+  "florence-h23": [
+    43.76745,
+    11.24795,
+    "OSM Nominatim: Sagrestia di Santo Spirito, Piazza di Santo Spirito"
+  ],
+  "rome-h33": [
+    41.90479,
+    12.48859,
+    "OSM Overpass: Museo dei Frati Cappuccini e Cripta Ossario"
+  ],
+  "naples-h1": [
+    40.84959,
+    14.25813,
+    "OSM Nominatim: Aria di Napoli, Via San Gregorio Armeno, Rione Forcella, San"
+  ],
+  "naples-h5": [
+    40.83044,
+    14.24468,
+    "OSM Nominatim: Via Partenope, Pizzofalcone, San Ferdinando, Municipalità 1,"
+  ],
+  "naples-h8": [
+    40.41991,
+    15.0054,
+    "OSM Nominatim: Tempio di Hera II - di Nettuno, Via Sacra, Paestum, Capaccio (Wikipedia 257m)"
+  ],
+  "naples-h9": [
+    40.8493,
+    14.25493,
+    "OSM Nominatim: Cappella Sansevero, 19;21, Via Francesco de Sanctis, Porto,  (Wikipedia 13m)"
+  ],
+  "naples-h11": [
+    40.83648,
+    14.25032,
+    "OSM Nominatim: Palazzo Reale, Piazza del Plebiscito, Pizzofalcone, San Ferd (Wikipedia 68m)"
+  ],
+  "naples-h12": [
+    40.84316,
+    14.24106,
+    "OSM Nominatim: Certosa di San Martino, 5, Largo San Martino, Vomero, Munici (Wikipedia 8m)"
+  ],
+  "naples-h13": [
+    40.86703,
+    14.25088,
+    "OSM Nominatim: Museo Nazionale di Capodimonte, 2, Via Milano, Porta Capuana (Wikipedia 29m)"
+  ],
+  "naples-h14": [
+    41.07316,
+    14.3271,
+    "OSM Nominatim: Reggia di Caserta, Viale Giulio Douhet, Caserta, Ercole, Cas (Wikipedia 63m)"
+  ],
+  "pompeii-h1": [
+    40.74933,
+    14.48485,
+    "OSM Nominatim: Foro di Pompei (VII.8), Via Marina, Masseria Curato, Pompei,"
+  ],
+  "pompeii-h6": [
+    40.75209,
+    14.48465,
+    "OSM Nominatim: Casa dei Vettii (VI.15.1), Vicolo di Mercurio, Masseria Cura (Wikipedia 6m)"
+  ],
+  "sorrento-h2": [
+    40.6275,
+    14.36563,
+    "OSM Nominatim: Marina Grande, Sorrento, Napoli, Campania, 80067, Italia"
+  ],
+  "sorrento-h3": [
+    40.62809,
+    14.37284,
+    "OSM Nominatim: Villa Comunale \"Salve D'Esposito\", Marina Piccola, Sorrento,"
+  ],
+  "positano-h3": [
+    40.6288,
+    14.53768,
+    "OSM Nominatim: Via Sentiero degli Dei, Bomerano, Agerola, Napoli, Campania,"
+  ],
+  "positano-h5": [
+    40.62853,
+    14.48823,
+    "OSM Nominatim: Via Cristoforo Colombo, Montepertuso, Arienzo, Positano, Sal (Wikipedia 675m)"
+  ],
+  "amalfi-h2": [
+    40.63374,
+    14.60352,
+    "OSM Nominatim: Marina Grande, Corso delle Repubbliche Marinare, Pogerola, A (Wikipedia 76m)"
+  ],
+  "amalfi-h6": [
+    40.64867,
+    14.61266,
+    "OSM Nominatim: Villa Rufolo, Minuta, Ravello, Salerno, Campania, 84010, Ita (Wikipedia 522m)"
+  ],
+  "amalfi-h7": [
+    40.63691,
+    14.60754,
+    "OSM Nominatim: Atrani, Salerno, Campania, Italia"
+  ],
+  "capri-h3": [
+    40.55074,
+    14.24279,
+    "OSM Nominatim: Piazza Umberto Primo, Capri, Napoli, Campania, 80073, Italia"
+  ],
+  "capri-h6": [
+    40.55727,
+    14.22504,
+    "OSM Nominatim: Villa San Michele, Viale Axel Munthe, Anacapri, Napoli, Camp (Wikipedia 7m)"
+  ],
+  "capri-h7": [
+    40.55811,
+    14.26263,
+    "OSM Nominatim: Villa Jovis, Via Tiberio, Capri, Napoli, Campania, 80073, It (Wikipedia 42m)"
+  ],
+  "bari-h3": [
+    41.12743,
+    16.86705,
+    "OSM Nominatim: Arco Basso, Strada Arco Basso, San Nicola, Municipio 1, Bari"
+  ],
+  "bari-h6": [
+    41.12855,
+    16.86908,
+    "OSM Nominatim: Cattedrale di San Sabino, Piazza dell'Odegitria, San Nicola, (Wikipedia 11m)"
+  ],
+  "alberobello-h1": [
+    40.78167,
+    17.23638,
+    "OSM Nominatim: Via Monte San Michele, Rione Monti"
+  ],
+  "lecce-h5": [
+    40.35011,
+    18.17238,
+    "OSM Nominatim: Museo Archeologico Faggiano, 56, Via Ascanio Grandi, Lecce, "
+  ],
+  "lecce-h6": [
+    40.14589,
+    18.49106,
+    "OSM Nominatim: Cattedrale di Santa Maria Annunziata, 1, Piazza Basilica, Ot (Wikipedia 11m)"
+  ],
+  "matera-h1": [
+    40.66825,
+    16.61014,
+    "OSM Nominatim: Sasso Barisano, Rioni Sassi, Pedale della Palomba, Matera, B (Wikipedia 232m)"
+  ],
+  "matera-h2": [
+    40.66353,
+    16.6113,
+    "OSM Nominatim: Sasso Caveoso, Rioni Sassi, Matera, Basilicata, 75100, Itali (Wikipedia 434m)"
+  ],
+  "matera-h4": [
+    40.66403,
+    16.61779,
+    "OSM Nominatim: Belvedere di Murgia Timone, Strada Belvedere Murgia Timone, "
+  ],
+  "matera-h6": [
+    40.66689,
+    16.60644,
+    "OSM Nominatim: Palombaro Lungo, Piazza Vittorio Veneto, Sassi di Matera, Ce"
+  ],
+  "tropea-h2": [
+    38.68075,
+    15.89938,
+    "OSM Nominatim: Spiaggia della Rotonda, Tropea, Vibo Valentia, Calabria, 898 (Wikipedia 718m)"
+  ],
+  "naples-h4": [
+    40.8213,
+    14.426,
+    "OSM Overpass: Cratere del 1944 / Vesuvio volcano"
+  ],
+  "naples-h10": [
+    40.85093,
+    14.25744,
+    "OSM Nominatim: Piazza San Gaetano (Napoli Sotterranea entrance)"
+  ],
+  "sorrento-h5": [
+    40.63418,
+    14.35121,
+    "OSM Overpass: Bagni Regina Giovanna"
+  ],
+  "alberobello-h3": [
+    40.78371,
+    17.24071,
+    "OSM Nominatim: Via Cristoforo Colombo, Aia Piccola"
+  ],
+  "tropea-h3": [
+    38.67967,
+    15.89761,
+    "OSM Nominatim: Affaccio Raf Vallone (Belvedere), Corso Vittorio Emanuele III"
+  ],
+  "palermo-h6": [
+    38.12017,
+    13.35715,
+    "OSM Nominatim: Teatro Massimo Vittorio Emanuele, Piazza Giuseppe Verdi, Il  (Wikipedia 13m)"
+  ],
+  "palermo-h7": [
+    38.11549,
+    13.36208,
+    "OSM Nominatim: Fontana Pretoria, Discesa dei Musici, La Loggia, I Circoscri (Wikipedia 1m)"
+  ],
+  "palermo-h8": [
+    38.11183,
+    13.33924,
+    "OSM Nominatim: Catacombe dei Cappuccini, Piazza Cappuccini, Villaggio Santa"
+  ],
+  "taormina-h3": [
+    37.85179,
+    15.28607,
+    "OSM Nominatim: Corso Umberto Primo, Villagonia, Taormina, Messina, Sicilia, (Wikipedia 518m)"
+  ],
+  "taormina-h5": [
+    37.70022,
+    14.99825,
+    "OSM Nominatim: Rifugio Sapienza (cable car base, Etna south side)"
+  ],
+  "taormina-h6": [
+    37.85835,
+    15.27732,
+    "OSM Nominatim: Castelmola, Messina, Sicilia, 98030, Italia (Wikipedia 173m)"
+  ],
+  "taormina-h7": [
+    37.8796,
+    15.17414,
+    "OSM Nominatim: Gole dell'Alcantara, Sentiero alle Gole dell'Alcantara, Fica"
+  ],
+  "catania-h3": [
+    37.50446,
+    15.08696,
+    "OSM Nominatim: Via Etnea, San Berillo, Centro storico, Catania, Sicilia, 95"
+  ],
+  "catania-h6": [
+    37.50427,
+    15.07939,
+    "OSM Nominatim: Monastero di San Nicolò l'Arena, Via Biblioteca, Antico Cors"
+  ],
+  "siracusa-h3": [
+    37.07568,
+    15.27609,
+    "OSM Nominatim: Area Monumentale della Neapolis, Via Ettore Campailla, Neapo"
+  ],
+  "siracusa-h6": [
+    37.06403,
+    15.29302,
+    "OSM Nominatim: Tempio di Apollo, Via dell'Apollonion, Ortigia, Siracusa, Si (Wikipedia 15m)"
+  ],
+  "siracusa-h7": [
+    36.89162,
+    15.07093,
+    "OSM Nominatim: Cattedrale di San Nicolò, Via Rinaldo Montuoro, Piano Alto,  (Wikipedia 5m)"
+  ],
+  "siracusa-h8": [
+    36.86025,
+    14.75991,
+    "OSM Nominatim: Antica Dolceria Bonajuto, Vicolo Franco Ruta, Dente, Modica "
+  ],
+  "agrigento-h5": [
+    37.29708,
+    13.58915,
+    "OSM Nominatim: Museo Archeologico Regionale Pietro Griffo, Via Passeggiata "
+  ],
+  "cagliari-h4": [
+    39.21941,
+    9.16248,
+    "OSM Nominatim: Parco Naturale Regionale \"Molentargius-Saline\", Casteddu/Cag"
+  ],
+  "cagliari-h6": [
+    39.22235,
+    9.11665,
+    "OSM Nominatim: Museo Archeologico Nazionale di Cagliari, 1, Piazza Arsenale (Wikipedia 52m)"
+  ],
+  "cagliari-h7": [
+    39.70587,
+    8.99089,
+    "OSM Nominatim: Su Nuraxi, Barùmini/Barumini, Medio Campidano, Sardigna/Sard (Wikipedia 29m)"
+  ],
+  "alghero-h1": [
+    40.55788,
+    8.312,
+    "OSM Nominatim: Via Bastioni Marco Polo, ZTL Centro Storico, Centro storico, (Wikipedia 346m)"
+  ],
+  "alghero-h4": [
+    40.55947,
+    8.31398,
+    "OSM Nominatim: Piazza Civica, ZTL Centro Storico, Centro storico, l'Alguer/ (Wikipedia 104m)"
+  ],
+  "olbia-h1": [
+    41.08143,
+    9.53365,
+    "OSM Nominatim: Capriccioli beach, Costa Smeralda"
+  ],
+  "olbia-h3": [
+    41.21284,
+    9.40549,
+    "OSM Nominatim: La Maddalena, Gallura Nord-Est Sardegna, Sardigna/Sardegna, "
+  ],
+  "cala-gonone-h4": [
+    40.28354,
+    9.63817,
+    "OSM Nominatim: Piazza del Porto, Cala Gonone, Durgali/Dorgali, Nuoro, Sardi (Wikipedia 541m)"
+  ],
+  "palermo-h9": [
+    38.20623,
+    13.32455,
+    "OSM Nominatim: Mondello"
+  ],
+  "taormina-h4": [
+    37.8516,
+    15.2858,
+    "OSM Overpass: Piazza Nove Aprile"
+  ],
+  "cefalu-h4": [
+    38.0393,
+    14.02004,
+    "OSM Overpass: Lavatoio medioevale"
+  ],
+  "ortisei-h1": [
+    46.60059,
+    11.72578,
+    "OSM Nominatim: Secëda - Monte Seceda, Santa Cristina Gherdëina - St. Christ"
+  ],
+  "ortisei-h2": [
+    46.53106,
+    11.62471,
+    "OSM Nominatim: Seiser Alm - Mont de Sëuc - Alpe di Siusi, Kastelruth - Cast"
+  ],
+  "ortisei-h3": [
+    46.57388,
+    11.67455,
+    "OSM Nominatim: Museum Gherdëina, 83, Streda Rezia, Sant Antone, Urtijëi - S (Wikipedia 3m)"
+  ],
+  "ortisei-h4": [
+    46.57218,
+    11.6766,
+    "OSM Nominatim: Streda Rezia, Bruscia, Sacun - St. Jakob - San Giacomo, Urti (Wikipedia 976m)"
+  ],
+  "ortisei-h5": [
+    46.50807,
+    11.76733,
+    "OSM Nominatim: Jouf de Sela - Passo Sella - Sellajoch, Canazei, Comun Gener (Wikipedia 353m)"
+  ],
+  "merano-h1": [
+    46.65999,
+    11.18596,
+    "OSM Nominatim: Die Gärten von Schloss Trauttmansdorff - I Giardini di Caste (Wikipedia 73m)"
+  ],
+  "merano-h2": [
+    46.66804,
+    11.16009,
+    "OSM Nominatim: Therme Meran, 9, Thermenplatz, Maia Bassa - Untermais, Meran"
+  ],
+  "merano-h4": [
+    46.66937,
+    11.16577,
+    "OSM Nominatim: Winterpromenade - Passeggiata D'inverno, Steinach, Meran - M (Wikipedia 308m)"
+  ],
+  "merano-h5": [
+    46.69443,
+    11.14463,
+    "OSM Nominatim: Schloss Tirol - Castel Tirolo, Schlossweg - Via del Castello (Wikipedia 35m)"
+  ],
+  "trento-h1": [
+    46.0669,
+    11.12156,
+    "OSM Nominatim: Cattedrale di San Vigilio, Piazza Adamo d'Arogno, Centro sto (Wikipedia 12m)"
+  ],
+  "trento-h2": [
+    46.07102,
+    11.12727,
+    "OSM Nominatim: Castello del Buonconsiglio, Via Cardinale Bernardo Clesio, S (Wikipedia 29m)"
+  ],
+  "trento-h3": [
+    46.06261,
+    11.11474,
+    "OSM Nominatim: MUSE, 3, Corso del Lavoro e della Scienza, Le Albere, San Gi"
+  ],
+  "trento-h4": [
+    46.06779,
+    11.10922,
+    "OSM Nominatim: Funivia Trento Sardagna, Tangenziale Ovest, Piedicastello, C"
+  ],
+  "trento-h5": [
+    46.04397,
+    11.11316,
+    "OSM Nominatim: Cantine Ferrari, Autostrada del Brennero, Belvedere, Ravina "
+  ],
+  "aosta-h1": [
+    45.73873,
+    7.32196,
+    "OSM Nominatim: Teatro Romano, Porossan-La Combaz, Arpuilles, Aosta / Aoste,"
+  ],
+  "aosta-h2": [
+    45.73796,
+    7.32354,
+    "OSM Nominatim: Porta Prætoria / Porte Prétorienne, Via/Rue Vevey, Porossan-"
+  ],
+  "aosta-h3": [
+    45.73906,
+    7.32526,
+    "OSM Nominatim: Collegiata di Sant'Orso, Porticato Chiostro Sant Orso, Poros"
+  ],
+  "aosta-h4": [
+    45.73829,
+    7.31755,
+    "OSM Nominatim: Criptoportico Forense, Piazza Giovanni XXIII, Le Gotrau, Arp (Wikipedia 15m)"
+  ],
+  "aosta-h5": [
+    45.73695,
+    7.48879,
+    "OSM Nominatim: Castello di Fénis, Strada comunale \"Delle Piane\", Chez Sapin"
+  ],
+  "aosta-h6": [
+    45.84587,
+    6.93176,
+    "OSM Nominatim: Pointe Helbronner / Punta Helbronner, Courmayeur, Valle d'Ao"
+  ],
+  "arezzo-h1": [
+    43.46445,
+    11.88077,
+    "OSM Nominatim: Basilica di San Francesco, Via San Francesco, Arezzo, Toscan"
+  ],
+  "arezzo-h2": [
+    43.46472,
+    11.88428,
+    "OSM Nominatim: Piazza Grande, Arezzo, Toscana, Italia"
+  ],
+  "arezzo-h3": [
+    43.4649,
+    11.88343,
+    "OSM Nominatim: Pieve di Santa Maria, Corso Italia, Arezzo, Toscana, 52100,  (Wikipedia 18m)"
+  ],
+  "arezzo-h4": [
+    43.46704,
+    11.88342,
+    "OSM Nominatim: Duomo di Arezzo, Piazza del Duomo, Arezzo, Toscana, 52100, I (Wikipedia 20m)"
+  ],
+  "arezzo-h5": [
+    43.46518,
+    11.88728,
+    "OSM Nominatim: Fortezza Medicea, Viale Bruno Buozzi, San Fabiano, La Pace,  (Wikipedia 751m)"
+  ],
+  "arezzo-h6": [
+    43.46891,
+    11.88015,
+    "OSM Nominatim: Museo di Casa Vasari, 55, Via Venti Settembre, Arezzo, Tosca"
+  ],
+  "cortona-h1": [
+    43.27503,
+    11.98547,
+    "OSM Nominatim: Piazza della Repubblica, Cortona, Le Contesse, Camucia, Cort (Wikipedia 218m)"
+  ],
+  "cortona-h3": [
+    43.27627,
+    11.9839,
+    "OSM Nominatim: Museo Diocesano del Capitolo di Cortona, Piazza del Duomo, C (Wikipedia 346m)"
+  ],
+  "cortona-h4": [
+    43.27698,
+    11.99405,
+    "OSM Nominatim: Fortezza del Girifalco, Via di Fortezza, Le Contesse, Camuci"
+  ],
+  "gubbio-h1": [
+    43.35344,
+    12.5783,
+    "OSM Nominatim: Palazzo dei Consoli, Piazza Grande, Sant'Ubaldo, Gubbio, Per (Wikipedia 12m)"
+  ],
+  "gubbio-h2": [
+    43.35325,
+    12.57879,
+    "OSM Nominatim: Piazza Grande, Sant'Ubaldo, Gubbio, Perugia, Umbria, 06024,  (Wikipedia 49m)"
+  ],
+  "gubbio-h3": [
+    43.35308,
+    12.58491,
+    "OSM Nominatim: Funivia Colle Eletto, via San Girolamo, Sant'Ubaldo, Gubbio,"
+  ],
+  "gubbio-h4": [
+    43.35392,
+    12.57952,
+    "OSM Nominatim: Palazzo Ducale, 1, Via della Cattedrale, Sant'Ubaldo, Gubbio"
+  ],
+  "gubbio-h5": [
+    43.35187,
+    12.57239,
+    "OSM Nominatim: Teatro Romano, Viale Umberto Paruccini, Sant'Ubaldo, Gubbio, (Wikipedia 19m)"
+  ],
+  "spoleto-h1": [
+    42.733,
+    12.74385,
+    "OSM Nominatim: Ponte delle Torri, Via del Ponte, Monteluco, Spoleto, Perugi"
+  ],
+  "spoleto-h2": [
+    42.73536,
+    12.74085,
+    "OSM Nominatim: Cappella della Santissima Icone, Piazza del Duomo, Spoleto,  (Wikipedia 26m)"
+  ],
+  "spoleto-h3": [
+    42.73421,
+    12.74237,
+    "OSM Nominatim: Rocca Albornoziana, Via Matteo Gattaponi, La Fornace, Spolet"
+  ],
+  "spoleto-h4": [
+    42.73318,
+    12.73503,
+    "OSM Nominatim: Teatro Romano, Piazza della Libertà, Spoleto, Perugia, Umbri"
+  ],
+  "spoleto-h5": [
+    42.74187,
+    12.74343,
+    "OSM Nominatim: Basilica di San Salvatore, Via Sanguineto, Spoleto, Perugia,"
+  ],
+  "ostuni-h1": [
+    40.73215,
+    17.57817,
+    "OSM Nominatim: Piazza della Libertà, Ostuni, Brindisi, Puglia, Italia"
+  ],
+  "ostuni-h2": [
+    40.73408,
+    17.57904,
+    "OSM Nominatim: Concattedrale Santa Maria Assunta, Largo Beato Papa Giovanni (Wikipedia 370m)"
+  ],
+  "ostuni-h3": [
+    40.73372,
+    17.57878,
+    "OSM Nominatim: Museo di Civiltà Preclassiche della Murgia Meridionale, Via "
+  ],
+  "ischia-h1": [
+    40.73202,
+    13.96519,
+    "OSM Nominatim: Castello Aragonese, Viale dei palmenti, Ischia, Napoli, Camp"
+  ],
+  "ischia-h2": [
+    40.71676,
+    13.86182,
+    "OSM Nominatim: Giardini Poseidon Terme, Via Giovanni Mazzella, Cuotto, Fori"
+  ],
+  "ischia-h3": [
+    40.75252,
+    13.8727,
+    "OSM Nominatim: Giardini La Mortella, Forio, Napoli, Campania, Italia (Wikipedia 67m)"
+  ],
+  "ischia-h4": [
+    40.69932,
+    13.89299,
+    "OSM Nominatim: Sant Angelo, Serrara Fontana, Napoli, Campania, 80075, Itali"
+  ],
+  "ischia-h5": [
+    40.76163,
+    14.02958,
+    "OSM Nominatim: Via Marina Corricella, Procida"
+  ],
+  "ragusa-h1": [
+    36.93135,
+    14.75092,
+    "OSM Nominatim: Ragusa Ibla, Strada statale Ragusana, Ragusa Ibla, Ragusa, S"
+  ],
+  "ragusa-h2": [
+    36.92655,
+    14.7423,
+    "OSM Nominatim: Duomo di San Giorgio, Salita Duomo, Ragusa Ibla, Ragusa, Sic"
+  ],
+  "ragusa-h3": [
+    36.92522,
+    14.73516,
+    "OSM Nominatim: Chiesa di Santa Maria delle Scale, Via Santa Maria delle Sca"
+  ],
+  "ragusa-h4": [
+    36.92598,
+    14.74867,
+    "OSM Nominatim: Giardino Ibleo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia"
+  ],
+  "ragusa-h5": [
+    36.92567,
+    14.72868,
+    "OSM Nominatim: Cattedrale di San Giovanni Battista, Via Roma, Cappuccini, R (Wikipedia 3m)"
+  ],
+  "trapani-h1": [
+    38.01862,
+    12.51363,
+    "OSM Nominatim: Municipio di Trapani, Via Mura Tramontana Est, Il Palazzo, T (Wikipedia 173m)"
+  ],
+  "trapani-h2": [
+    38.0126,
+    12.59124,
+    "OSM Nominatim: Erice, Trapani, Sicilia, 91016, Italia"
+  ],
+  "trapani-h3": [
+    38.03527,
+    12.59212,
+    "OSM Nominatim: Castello di Venere, Sentiero di Venere, Erice, Trapani, Sici"
+  ],
+  "trapani-h4": [
+    37.983,
+    12.49778,
+    "OSM Nominatim: Museo del Sale, Via Chiusa, Culcasi, Nubia, Paceco, Trapani,"
+  ],
+  "trapani-h5": [
+    37.78665,
+    12.44638,
+    "OSM Nominatim: cantine Florio, Casabianca, Marsala, Trapani, Sicilia, 91025"
+  ],
+  "trapani-h6": [
+    37.9314,
+    12.32743,
+    "OSM Nominatim: Favignana, Trapani, Sicilia, 91023, Italia"
+  ],
+  "merano-h3": [
+    46.67174,
+    11.16204,
+    "OSM Nominatim: Via Portici - Laubengasse"
+  ],
+  "cortona-h2": [
+    43.27543,
+    11.98483,
+    "OSM Nominatim: MAEC - Museo dell'Accademia Etrusca"
+  ],
+  "ostuni-h4": [
+    40.7585,
+    17.52241,
+    "OSM Nominatim: Masseria Il Frantoio, SP 93 Fasano-Ostuni (olive plain)"
   ]
 }

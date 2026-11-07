@@ -384,10 +384,16 @@ export const STAY: Record<string, StayArea[]> = {
     a('브라 광장 주변', 'Piazza Bra', 'Piazza Bra, Verona', '아레나 바로 옆|Next to the Arena', '원형 경기장 주변으로 명소가 모두 가깝습니다. 비싸고 일찍 찹니다.|Around the Roman amphitheatre, close to everything; pricier and books up early.'),
     a('베로네타', 'Veronetta', 'Veronetta, Verona', '현지 분위기·절약형|Local and cheaper', '아디제강 건너 대학가로 숙소가 저렴하고 밤이 활기찹니다.|The university quarter across the Adige, cheaper and lively at night.'),
   ],
+  aosta: [
+    a('구시가', 'Old town', 'Aosta centro storico', '처음 가는 여행에 추천|Best for a first visit', '로마 유적과 성당, 버스터미널·역이 걸어서 닿습니다.|The Roman sites, churches, bus station and railway station on foot.'),
+  ],
   turin: [
     a('역사 지구 (첸트로)', 'Centro Storico', 'Piazza Castello, Turin', '처음 가는 여행에 추천|Best for a first visit', '카스텔로 광장, 왕궁, 산 카를로 광장을 걸어서 다닙니다. 비싼 편입니다.|Piazza Castello, the Royal Palace and Piazza San Carlo on foot; pricier.'),
     a('콰드릴라테로 로마노', 'Quadrilatero Romano', 'Quadrilatero Romano, Turin', '분위기와 가성비|Atmosphere and value', '돌길에 와인 바와 식당이 많고 중심가보다 숙소가 저렴합니다.|Cobbled streets of wine bars and restaurants, cheaper than the centre.'),
     a('산 살바리오', 'San Salvario', 'San Salvario, Turin', '먹거리·밤 문화|Food and nightlife', '중심 남쪽의 젊은 동네입니다. 포르타 누오바역 바로 옆 골목은 밤에 조심하세요.|A young area south of the centre; take care at night in the streets right by Porta Nuova station.'),
+  ],
+  trapani: [
+    a('구시가', 'Old town', 'Trapani centro storico', '처음 가는 여행에 추천|Best for a first visit', '항구와 구시가 식당이 걸어서 닿고 섬행 배를 타기 편합니다.|The harbour and old-town restaurants on foot, handy for the island boats.'),
   ],
   palermo: [
     a('폴리테아마·리베르타', 'Politeama / Libertà', 'Politeama, Palermo', '가장 안전·가족 여행|Safest, for families', '현대식 중심가로 교통이 좋고 역사 지구까지 걸어서 갑니다.|The modern centre with good connections, walkable to the old town.'),
@@ -607,6 +613,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('역사 지구', 'Centro Storico', 'Piazza del Duomo, Catania', '처음 가는 여행에 추천|Best for a first visit', '대성당과 코끼리 분수 등 명소와 식당이 걸어서 가깝습니다. 호텔값이 비싼 편이고 주말 밤에는 북적입니다.|The cathedral, the Elephant Fountain and places to eat on foot; hotels cost more and weekend nights are lively.'),
     a('아치카스텔로', 'Aci Castello', 'Aci Castello', '바닷가 마을|Seaside village', '카타니아 북쪽의 조용한 해안 마을로 버스가 자주 다닙니다. 숙소가 적고 해안은 바위가 많습니다.|A quiet coastal village north of Catania with frequent buses; few places to stay, and the shore is rocky.'),
     a('니콜로시', 'Nicolosi', 'Nicolosi', '에트나 화산 여행|For Mount Etna', '에트나산 아래 마을이라 등산과 투어에 좋습니다. 카타니아 시내까지 30분쯤 걸려 교통편이 필요합니다.|A village at the foot of Etna, good for hikes and tours; about 30 minutes from central Catania, so you need transport.'),
+  ],
+  ragusa: [
+    a('라구사 이블라', 'Ragusa Ibla', 'Ragusa Ibla', '처음 가는 여행에 추천|Best for a first visit', '바로크 골목 안에서 묵으며 저녁 산책을 합니다. 언덕과 계단이 많습니다.|Stay among the Baroque lanes for evening walks; hilly, with many steps.'),
   ],
   siracusa: [
     a('오르티자섬', 'Ortigia', 'Ortigia, Siracusa', '처음 가는 여행에 추천|Best for a first visit', '옛 시가지 섬이라 대성당과 시장, 바닷가 산책길과 식당을 걸어서 다닙니다. 차량 통행이 제한되고, 기차역과 고고학 공원은 꽤 멉니다.|The old island town, with the cathedral, market, sea walks and restaurants on foot; traffic is restricted, and the station and archaeological park are a long walk.'),
@@ -895,6 +904,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('벨라조', 'Bellagio', 'Bellagio', '처음 가는 호수 여행|Classic first visit', '호수 한가운데라 배로 다른 마을에 가기 좋습니다. 작고 언덕이 많아 빨리 차며 최소 숙박일이 있는 곳이 많습니다.|In the middle of the lake for easy ferries; small and hilly, fills up fast, and many hotels have minimum stays.'),
     a('바렌나', 'Varenna', 'Varenna', '조용하고 로맨틱|Quiet and romantic', '작은 마을이라 한적하고 기차역이 있습니다. 호텔이 매우 적습니다.|A small, peaceful village with a train station; very few hotels.'),
   ],
+  arezzo: [
+    a('구시가', 'Old town', 'Arezzo centro storico', '처음 가는 여행에 추천|Best for a first visit', '광장과 성당들이 걸어서 닿고 기차역까지 걸어서 약 10분입니다.|The squares and churches on foot, about 10 min’s walk from the station.'),
+  ],
   siena: [
     a('성벽 안 역사 지구', 'Historic centre (inside the walls)', 'Piazza del Campo, Siena', '처음 가는 여행에 추천|Best for a first visit', '캄포 광장과 대성당을 걸어서 다니고 아침·저녁이 한적합니다. 낮에는 붐비고 차량 통행 제한(ZTL)이 있으며 비싸고 빨리 찹니다.|Piazza del Campo and the cathedral on foot, with quiet mornings and evenings; crowded by day, inside the ZTL, pricier and books up fast.'),
     a('성벽 밖 역 주변', 'Outside the walls, near the station', 'Siena railway station', '주차·기차·가성비|Parking, trains and value', '숙소가 넓고 저렴하며 주차가 쉽고 기차역이 가깝습니다. 구시가까지 걸어서 15~20분이거나 에스컬레이터로 올라갑니다.|Roomier, cheaper places with easier parking, near the station; 15–20 minutes on foot or the escalators up to the old town.'),
@@ -912,6 +924,10 @@ export const STAY: Record<string, StayArea[]> = {
   matera: [
     a('사씨 (동굴 지구)', 'The Sassi (cave districts)', 'Sassi di Matera', '동굴 호텔의 특별한 하룻밤|A night in a cave', '당일치기 손님이 떠난 저녁과 아침의 골목이 특히 좋습니다. 계단이 많고 차량 진입이 금지돼 위쪽에 주차해야 합니다(호텔이 짐을 옮겨 주기도 합니다).|The lanes are best in the evening and morning after the day-trippers leave; lots of steps, and no driving, so park above (some hotels ferry your bags).'),
     a('신시가', 'Modern town', 'Piazza Vittorio Veneto, Matera', '짐·차가 있을 때 편리|Easier with a car or luggage', '평지라 주차와 짐, 기차역 이용이 쉽고 사씨까지 걸어서 가깝습니다. 동굴 마을 분위기는 덜합니다.|Flat, with easier parking, luggage and station access, a short walk from the Sassi; less of the cave-town magic.'),
+  ],
+  ischia: [
+    a('이스키아 포르토', 'Ischia Porto', 'Ischia Porto', '처음 가는 여행에 추천|Best for a first visit', '배가 닿는 항구 마을로 버스가 섬 곳곳으로 출발합니다.|The ferry port, where buses leave for every part of the island.'),
+    a('포리오', 'Forio', 'Forio, Ischia', '온천 정원과 노을|Thermal gardens and sunsets', '서쪽 해안 마을로 포세이돈·라 모르텔라 정원이 가깝습니다.|The west-coast town near the Poseidon and La Mortella gardens.'),
   ],
   capri: [
     a('카프리 타운', 'Capri Town', 'Piazzetta, Capri', '처음 가는 여행에 추천|Best for a first visit', '호텔과 상점, 식당이 가장 많고 활기찹니다. 성수기 피아체타 광장은 매우 붐비고, 해변까지는 가파른 계단이나 버스를 타야 합니다.|The most hotels, shops and restaurants, and lively; the Piazzetta is packed in peak season, and the beaches are down steep steps or a bus ride.'),
@@ -1312,6 +1328,9 @@ export const STAY: Record<string, StayArea[]> = {
   'san-gimignano': [
     a('피렌체·시에나에서 다녀오기', 'Day trip from Florence or Siena', 'Firenze Santa Maria Novella', '당일치기로 많이 감|The usual day trip', '피렌체에서 60km쯤이라 차나 투어로 시에나와 묶어 다녀오는 경우가 많습니다. 투어는 마을에서 머무는 시간이 2시간 안팎으로 짧습니다.|About 60 km from Florence, often combined with Siena by car or tour; tours leave only about two hours in town.'),
   ],
+  spoleto: [
+    a('구시가', 'Old town', 'Spoleto centro storico', '처음 가는 여행에 추천|Best for a first visit', '대성당과 다리, 요새가 걸어서 닿습니다. 기차역은 아래 새 시가에 있어 에스컬레이터와 버스로 오릅니다.|The cathedral, bridge and fortress on foot; the station is in the lower town, linked by escalators and buses.'),
+  ],
   assisi: [
     a('아시시 구시가', 'Assisi old town', 'Basilica di San Francesco, Assisi', '관광객이 떠난 저녁|Evenings after the crowds', '낮의 관광객이 떠난 뒤 조용한 순례 도시를 봅니다. 로마 테르미니역에서 직행 기차가 있습니다.|See the quiet pilgrim town after the day crowds leave; direct trains run from Roma Termini.'),
     a('피렌체에서 다녀오기', 'Day trip from Florence', 'Firenze Santa Maria Novella', '시간이 없을 때|When time is short', '투어로 하루에 다녀올 수 있습니다. 기차는 갈아타야 합니다.|Day tours run from Florence; by train you need to change.'),
@@ -1319,6 +1338,9 @@ export const STAY: Record<string, StayArea[]> = {
   orvieto: [
     a('로마에서 다녀오기', 'Day trip from Rome', 'Roma Termini', '당일치기로 충분|Fine as a day trip', '테르미니역에서 거의 매시간 기차가 있고 1시간 반쯤 걸립니다. 6~7시간이면 대성당과 지하 도시, 전망을 봅니다.|Trains almost hourly from Termini take about 1½ hours; 6–7 hours covers the cathedral, the underground and the views.'),
     a('오르비에토 구시가', 'Orvieto old town', 'Duomo di Orvieto', '관광객이 떠난 저녁|Evenings after the crowds', '당일 관광객이 떠난 저녁에 한적한 골목과 노을을 즐깁니다. 역에서 구시가까지는 푸니쿨라로 오르는데, 2026년 6월부터 정비 중이라 그동안은 대체 버스를 탑니다.|Quiet lanes and sunsets once the day-trippers leave; the funicular up from the station is shut for maintenance since June 2026, so take the replacement bus.'),
+  ],
+  ostuni: [
+    a('구시가', 'Old town', 'Ostuni centro storico', '처음 가는 여행에 추천|Best for a first visit', '하얀 골목 안 숙소에서 저녁 산책을 합니다. 계단이 많고 차가 못 들어갑니다.|Stay inside the white lanes for evening walks; lots of steps and no car access.'),
   ],
   alberobello: [
     a('트룰리 숙소', 'A night in a trullo', 'Rione Monti, Alberobello', '특별한 하룻밤|A one-off stay', '원뿔 지붕 집 트룰로에서 묵어 볼 수 있습니다. 낮에는 관광객이 많고 식당이 적습니다.|Sleep in one of the cone-roofed trulli; crowded by day, with fewer places to eat.'),
@@ -1347,9 +1369,15 @@ export const STAY: Record<string, StayArea[]> = {
     a('파르마 역사 지구', 'Parma centro storico', 'Piazza Duomo, Parma', '음식 여행으로 묵을 때|For a food-focused stay', '대성당과 세례당, 광장과 식당을 걸어서 다닙니다.|The cathedral, the baptistery, the squares and restaurants on foot.'),
     a('볼로냐에서 다녀오기', 'Day trip from Bologna', 'Bologna Centrale', '당일치기로 충분|Fine as a day trip', '기차로 1시간쯤이라 대성당과 점심, 산책 위주라면 하루로 충분합니다.|About an hour by train; a day is enough for the Duomo, lunch and a stroll.'),
   ],
+  cortona: [
+    a('구시가', 'Old town', 'Cortona centro storico', '마을에서 묵기|Stay in the town', '언덕 위 마을이라 저녁 골목과 전망이 좋습니다. 기차역은 아래 카무차에 있어 버스나 택시를 탑니다.|A hilltop town with lovely evening lanes and views; the station is down in Camucia, so take a bus or taxi.'),
+  ],
   montepulciano: [
     a('성벽 안 구시가', 'Inside the walls', 'Montepulciano centro storico', '걸어서 다니기|Walk to everything', '그란데 광장과 와인 저장고, 식당을 걸어서 다닙니다. 차가 들어갈 수 없어 성벽 밖에 주차해야 하고, 언덕이 가파르며 밤에 시끄러울 수 있습니다.|Piazza Grande, the wine cellars and restaurants on foot; cars cannot enter, so park outside the walls, and the streets are steep and can be noisy at night.'),
     a('주변 농가 숙소 (아그리투리스모)', 'Farm stays nearby', 'Montepulciano agriturismo', '조용함·발도르차 전망|Quiet, Val d’Orcia views', '조용하고 전망이 좋으며 대개 더 쌉니다. 차가 꼭 있어야 합니다.|Quiet, with views and usually lower prices; you need a car.'),
+  ],
+  gubbio: [
+    a('구시가', 'Old town', 'Gubbio centro storico', '마을에서 묵기|Stay in the town', '광장과 케이블카가 걸어서 닿고, 당일 손님이 떠난 저녁이 조용합니다.|The square and cable car on foot, and quiet evenings once day-trippers leave.'),
   ],
   perugia: [
     a('구시가 (첸트로 스토리코)', 'Centro storico', 'Perugia centro storico', '처음이라면|First visit', '11월 4일 광장과 코르소 반누치를 걸어서 다닙니다. 언덕과 계단이 많고 차로 들어가기 어려우며 값이 더 나갑니다. 7월 움브리아 재즈 기간에는 일찍 예약하세요.|Piazza IV Novembre and Corso Vannucci on foot; hilly with many steps, hard to reach by car and pricier. Book early for Umbria Jazz in July.'),
@@ -1389,6 +1417,15 @@ export const STAY: Record<string, StayArea[]> = {
     a('아말피 마을', 'Amalfi town', 'Amalfi', '해안 한가운데|On the coast itself', '포지타노보다 덜 비싸고 배·버스가 모이는 곳입니다. 폼페이 등 다른 곳으로는 멀어 불편할 수 있습니다.|Less pricey than Positano and a ferry and bus hub, but farther from places like Pompeii.'),
     a('포지타노', 'Positano', 'Positano', '풍경·특별한 여행|Views, special trips', '가장 아름답지만 가장 비싸고 붐비며 계단과 비탈이 많습니다.|The most beautiful and the most expensive and crowded, with many steps.'),
     a('소렌토에서 다녀오기', 'Base in Sorrento', 'Sorrento', '가성비·짧은 일정|Value, short trips', '더 크고 걷기 쉬운 도시로 나폴리·폼페이 기차가 있어 편합니다. 포지타노까지 1시간쯤 걸릴 수 있습니다.|A bigger, walkable town with trains to Naples and Pompeii; Positano can be an hour away.'),
+  ],
+  ortisei: [
+    a('마을 중심', 'Village centre', 'Ortisei centre', '처음 가는 여행에 추천|Best for a first visit', '세체다·알페 디 시우시 케이블카와 버스 정류장이 걸어서 닿습니다.|The Seceda and Alpe di Siusi cable cars and the bus stop on foot.'),
+  ],
+  merano: [
+    a('구시가 (포르티치 거리 주변)', 'Old town (around Via dei Portici)', 'Via dei Portici, Merano', '처음 가는 여행에 추천|Best for a first visit', '아케이드 거리와 강변 산책로, 온천이 걸어서 닿습니다.|The arcades, river promenades and spa on foot.'),
+  ],
+  trento: [
+    a('구시가 (두오모 광장 주변)', 'Old town (around Piazza del Duomo)', 'Piazza del Duomo, Trento', '처음 가는 여행에 추천|Best for a first visit', '광장과 성, 기차역이 걸어서 닿습니다.|The square, castle and station on foot.'),
   ],
   cortina: [
     a('시내 중심 (코르소 이탈리아)', 'Town centre (Corso Italia)', 'Corso Italia, Cortina d’Ampezzo', '차 없이 여행|Without a car', '카페·식당·상점이 모여 있습니다. 베네치아에서 직행버스가 옵니다. 값이 비쌉니다.|Cafés, restaurants and shops, with direct buses from Venice; expensive.'),

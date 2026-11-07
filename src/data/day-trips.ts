@@ -323,6 +323,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       mode: 'train',
       tip: '산 비탈레 성당과 갈라 플라치디아 영묘의 비잔틴 모자이크를 봅니다.|The Byzantine mosaics of San Vitale and the Mausoleum of Galla Placidia.',
     },
+    {
+      to: 'arezzo',
+      tip: '기차로 약 1시간. 피에로 델라 프란체스카의 프레스코와 그란데 광장을 봅니다.|About 1 hr by train: Piero della Francesca’s frescoes and the Piazza Grande.',
+    },
   ],
   venice: [
     {
@@ -354,6 +358,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'vicenza',
       tip: '팔라디오의 올림피코 극장과 바실리카를 봅니다.|Palladio’s Teatro Olimpico and Basilica.',
+    },
+    {
+      to: 'trento',
+      tip: '기차로 약 1시간. 두오모 광장과 부온콘실리오 성을 봅니다.|About 1 hr by train: the cathedral square and the Buonconsiglio Castle.',
     },
   ],
   bologna: [
@@ -392,6 +400,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       how: '기차·버스로 소렌토 경유 약 2시간|About 2 hrs by train and bus via Sorrento',
       mode: 'train',
       tip: '아말피 해안 절벽 마을. 여름엔 나폴리에서 직항 배도 다닙니다.|The cliffside Amalfi Coast village; in summer boats also run direct from Naples.',
+    },
+    {
+      to: 'ischia',
+      tip: '쾌속선으로 약 1시간. 아라고네세 성과 온천 정원을 봅니다.|About 1 hr by hydrofoil: the Aragonese Castle and the thermal gardens.',
     },
   ],
   sorrento: [
@@ -445,6 +457,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'matera',
       tip: '동굴 주거지 사씨를 걷습니다. 버스가 기차보다 빠릅니다.|Walk the cave districts, the Sassi; the bus is faster than the train.',
     },
+    {
+      to: 'ostuni',
+      tip: '기차로 약 50분 뒤 버스. 하얀 구시가와 올리브 평원을 봅니다.|About 50 min by train, then a bus: the white old town and the olive plain.',
+    },
   ],
   catania: [
     {
@@ -455,17 +471,33 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'siracusa',
       tip: '오르티자 섬 구시가와 네아폴리스 고고학 공원을 봅니다.|Ortigia’s old town and the Neapolis archaeological park.',
     },
+    {
+      to: 'ragusa',
+      tip: '버스로 약 2시간. 바로크 옛 마을 라구사 이블라를 봅니다.|About 2 hrs by bus: the Baroque old quarter of Ragusa Ibla.',
+    },
   ],
   palermo: [
     {
       to: 'cefalu',
       tip: '바위산 아래 노르만 대성당과 해변을 봅니다.|The Norman cathedral under the rock, and the beach.',
     },
+    {
+      to: 'trapani',
+      tip: '버스로 약 2시간. 케이블카로 산꼭대기 마을 에리체에 오릅니다.|About 2 hrs by bus: take the cable car up to the hilltop town of Erice.',
+    },
   ],
   perugia: [
     {
       to: 'assisi',
       tip: '성 프란치스코 대성당과 언덕 마을을 봅니다.|The Basilica of St Francis and the hill town.',
+    },
+    {
+      to: 'gubbio',
+      tip: '버스로 약 1시간 10분. 콘솔리 궁전과 바구니 케이블카를 봅니다.|About 1 hr 10 by bus: the Palazzo dei Consoli and the basket cable car.',
+    },
+    {
+      to: 'spoleto',
+      tip: '기차로 약 1시간 15분(폴리뇨 환승). 탑의 다리와 대성당을 봅니다.|About 1 hr 15 by train, changing at Foligno: the Ponte delle Torri and the cathedral.',
     },
   ],
   london: [

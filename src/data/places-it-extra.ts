@@ -407,4 +407,95 @@ export const placesITExtra: Place[] = [
   place('parma-bakery-1', 'parma', 'bakery', 'Bombé Farini', 'Strada Luigi Carlo Farini 19/a, 43121 Parma', '시내 중심의 파티스리 겸 비스트로.', 'Pastry shop and bistro in the centre.'),
   place('parma-cafe-1', 'parma', 'cafe', 'Magnolia Café', 'Strada Duomo 6/A, 43121 Parma', '대성당 근처의 카페 바.', 'Café-bar near the cathedral.'),
   place('parma-cafe-2', 'parma', 'cafe', 'Bar Espresso Napoletano', 'Via Giambattista Bodoni 1/E, 43121 Parma', '나폴리식 에스프레소를 내는 커피숍.', 'Coffee shop serving Neapolitan-style espresso.'),
+
+  // —— ortisei: restaurants, bakeries and cafés (2026-11-07) ——
+  place('ortisei-fine_dining-1', 'ortisei', 'fine_dining', 'Anna Stuben', 'Via Vidalong 3, 39046 Ortisei, Italy', '호텔 가르데나 안의 창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine in the Hotel Gardena. One MICHELIN star.', { michelin: 'star1' }),
+  place('ortisei-fine_dining-2', 'ortisei', 'fine_dining', 'Tubladel', 'Via Trebinger 22, 39046 Ortisei, Italy', '옛 목조 헛간을 고친 남티롤 향토 요리 식당. 미쉐린 가이드 선정.', 'South Tyrolean regional cooking in a converted wooden barn. In the MICHELIN Guide.'),
+  place('ortisei-cafe-1', 'ortisei', 'cafe', 'Cafe Surëdl', 'Streda Roma, 39046 Ortisei, Italy', '마을 중심의 작은 카페.', 'A small café in the village centre.'),
+  place('ortisei-cafe-2', 'ortisei', 'cafe', 'Pitla Stua', 'Strada Rezia 202, 39046 Ortisei, Italy', '중심 거리 레치아 길의 아늑한 카페 겸 바.', 'A cosy café-bar on the main Strada Rezia.'),
+
+  // —— merano: restaurants, bakeries and cafés (2026-11-07) ——
+  place('merano-fine_dining-1', 'merano', 'fine_dining', 'Sissi', 'Via Galilei 44, 39012 Merano, Italy', '아르누보 저택의 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine in an Art Nouveau villa. One MICHELIN star.', { michelin: 'star1' }),
+  place('merano-fine_dining-2', 'merano', 'fine_dining', 'Prezioso', 'Via Fragsburg 3, 39012 Merano, Italy', '언덕 위 호텔의 알프스 요리 레스토랑. 미쉐린 1스타.', 'Alpine cuisine at a hillside hotel. One MICHELIN star.', { michelin: 'star1' }),
+  place('merano-fine_dining-3', 'merano', 'fine_dining', 'In Viaggio - Claudio Melis', 'Via Belvedere 17, 39012 Merano, Italy', '셰프 클라우디오 멜리스의 창의 요리. 미쉐린 1스타.', 'Chef Claudio Melis’s creative cooking. One MICHELIN star.', { michelin: 'star1' }),
+  place('merano-fine_dining-4', 'merano', 'fine_dining', 'The Tasting Room by Marcello Corrado', 'Via Winkel 70, 39012 Merano, Italy', '시식 코스 중심의 창의 요리 레스토랑. 미쉐린 가이드 선정.', 'Creative tasting-menu restaurant. In the MICHELIN Guide.'),
+  place('merano-bakery-1', 'merano', 'bakery', 'Forno Ivo De Pellegrin', 'Via delle Corse 141A, 39012 Merano, Italy', '시내의 작은 동네 빵집.', 'A small neighbourhood bakery in town.'),
+  place('merano-bakery-2', 'merano', 'bakery', 'Erb Bäckerei Konditorei Untermais', 'Via Matteotti 40, 39012 Merano, Italy', '메라노의 오랜 빵집 겸 제과점 에르프의 마이아 바사 지점.', 'The Maia Bassa branch of Erb, Merano’s long-standing bakery and pâtisserie.'),
+  place('merano-cafe-1', 'merano', 'cafe', 'Caffè Wandelhalle', 'Passeggiata d’Inverno 25, 39012 Merano, Italy', '겨울 산책로 회랑 안의 카페.', 'A café inside the colonnade on the Winter Promenade.'),
+  place('merano-cafe-2', 'merano', 'cafe', 'Café Darling', 'Passeggiata d’Inverno 5, 39012 Merano, Italy', '파서강 가 겨울 산책로의 카페.', 'A café on the Winter Promenade by the Passer.'),
+
+  // —— trento: restaurants, bakeries and cafés (2026-11-07) ——
+  place('trento-fine_dining-1', 'trento', 'fine_dining', 'Osteria a "Le Due Spade"', 'Via Don Arcangelo Rizzi 11, 38122 Trento, Italy', '16세기부터 이어진 오래된 식당의 현대 요리. 미쉐린 가이드 선정.', 'Modern cooking in a dining room dating back to the 16th century. In the MICHELIN Guide.'),
+  place('trento-fine_dining-2', 'trento', 'fine_dining', 'Scrigno del Duomo', 'Piazza Duomo 29, 38122 Trento, Italy', '두오모 광장의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine on the cathedral square. In the MICHELIN Guide.'),
+  place('trento-fine_dining-3', 'trento', 'fine_dining', 'Osteria Il Cappello', 'Piazzetta Bruno Lunelli 5, 38122 Trento, Italy', '구시가 작은 광장의 클래식 요리 식당. 미쉐린 가이드 선정.', 'Classic cooking on a little old-town square. In the MICHELIN Guide.'),
+  place('trento-fine_dining-4', 'trento', 'fine_dining', 'Augurio', 'Via Dietro le Mura B 16, 38122 Trento, Italy', '성벽 아래의 시골풍 요리 식당. 미쉐린 가이드 선정.', 'Country cooking below the old walls. In the MICHELIN Guide.'),
+  place('trento-bakery-1', 'trento', 'bakery', 'Pasticceria Cara Siria', 'Via Torre d’Augusto 21, 38122 Trento, Italy', '구시가의 과자점.', 'A pastry shop in the old town.'),
+  place('trento-bakery-2', 'trento', 'bakery', 'Pasticceria Filippi & Gardumi', 'Via Bolghera 34, 38122 Trento, Italy', '케이크와 과자로 이름난 과자점.', 'A pâtisserie known for its cakes and pastries.'),
+  place('trento-cafe-1', 'trento', 'cafe', 'Casa del Caffè', 'Via San Pietro 38, 38122 Trento, Italy', '구시가의 커피 전문점.', 'A coffee house in the old town.'),
+  place('trento-cafe-2', 'trento', 'cafe', 'Casa del Cioccolato', 'Via Rodolfo Belenzani 21, 38122 Trento, Italy', '초콜릿과 핫초코를 파는 구시가의 카페.', 'An old-town café for chocolates and hot chocolate.'),
+
+  // —— aosta: restaurants, bakeries and cafés (2026-11-07) ——
+  place('aosta-fine_dining-1', 'aosta', 'fine_dining', 'Vecchio Ristoro', 'Via Tourneuve 4, 11100 Aosta, Italy', '옛 방앗간 건물의 발레다오스타 요리. 미쉐린 1스타.', 'Aosta Valley cooking in an old mill. One MICHELIN star.', { michelin: 'star1' }),
+  place('aosta-fine_dining-2', 'aosta', 'fine_dining', 'Paolo Griffa al Caffè Nazionale', 'Piazza Emile Chanoux 9, 11100 Aosta, Italy', '광장의 역사적 카페 건물 안 창의 요리. 미쉐린 1스타.', 'Creative cuisine in the historic café on the main square. One MICHELIN star.', { michelin: 'star1' }),
+  place('aosta-fine_dining-3', 'aosta', 'fine_dining', 'Osteria da Nando', 'Via Sant’Anselmo 99, 11100 Aosta, Italy', '발레다오스타 향토 요리 식당. 미쉐린 가이드 선정.', 'Aosta Valley regional cooking. In the MICHELIN Guide.'),
+  place('aosta-fine_dining-4', 'aosta', 'fine_dining', 'Gina casa con cucina', 'Via Croce di Città 25, 11100 Aosta, Italy', '구시가의 현대 요리 식당. 미쉐린 가이드 선정.', 'Modern cooking in the old town. In the MICHELIN Guide.'),
+  place('aosta-bakery-1', 'aosta', 'bakery', 'Pasticceria De Santis', 'Via Roma 3/B, 11100 Aosta, Italy', '시내 중심의 과자점.', 'A pastry shop in the centre.'),
+  place('aosta-bakery-2', 'aosta', 'bakery', 'Gatò Pasticceria e Caffè', 'Via Monsignore de Sales 34, 11100 Aosta, Italy', '과자점 겸 카페.', 'A pâtisserie and café.'),
+  place('aosta-cafe-1', 'aosta', 'cafe', 'Caffetteria Dolce&Salato', 'Via Giuseppe Mazzini 12, 11100 Aosta, Italy', '시내의 작은 카페.', 'A small café in town.'),
+
+  // —— arezzo: restaurants, bakeries and cafés (2026-11-07) ——
+  place('arezzo-fine_dining-1', 'arezzo', 'fine_dining', 'Osteria Grande', 'Piazza Grande 26, 52100 Arezzo, Italy', '그란데 광장의 현대 이탈리아 요리. 미쉐린 가이드 선정.', 'Contemporary Italian cooking on the Piazza Grande. In the MICHELIN Guide.'),
+  place('arezzo-fine_dining-2', 'arezzo', 'fine_dining', 'Le Chiavi d’Oro', 'Piazza San Francesco 7, 52100 Arezzo, Italy', '산 프란체스코 성당 앞의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine opposite the Basilica of San Francesco. In the MICHELIN Guide.'),
+  place('arezzo-bakery-1', 'arezzo', 'bakery', 'Pasticceria F.lli Bruschi', 'Via di San Domenico 42, 52100 Arezzo, Italy', '구시가의 과자점.', 'A pastry shop in the old town.'),
+  place('arezzo-bakery-2', 'arezzo', 'bakery', 'Pasticceria Cioccolateria Le Mura', 'Via della Chimera 2, 52100 Arezzo, Italy', '성벽 가의 과자점 겸 초콜릿 가게.', 'A pastry and chocolate shop by the walls.'),
+  place('arezzo-cafe-1', 'arezzo', 'cafe', 'Caffè Via Veneto', 'Via Vittorio Veneto 65, 52100 Arezzo, Italy', '동네 카페.', 'A neighbourhood café.'),
+
+  // —— cortona: restaurants, bakeries and cafés (2026-11-07) ——
+  place('cortona-fine_dining-1', 'cortona', 'fine_dining', 'La Bucaccia', 'Via Ghibellina 17, 52044 Cortona, Italy', '중세 저택 지하의 토스카나 요리 식당. 미쉐린 빕 구르망.', 'Tuscan cooking in a medieval palazzo’s cellar. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('cortona-fine_dining-2', 'cortona', 'fine_dining', 'Osteria del Teatro', 'Via Maffei 2, 52044 Cortona, Italy', '극장 옆 토스카나 요리 식당. 미쉐린 가이드 선정.', 'Tuscan cooking beside the theatre. In the MICHELIN Guide.'),
+  place('cortona-fine_dining-3', 'cortona', 'fine_dining', 'Il Falconiere', 'Località San Martino a Bocena 370, 52044 Cortona, Italy', '마을 아래 언덕의 별장 호텔 레스토랑. 미쉐린 1스타.', 'The restaurant of a country-villa hotel on the hillside below town. One MICHELIN star.', { michelin: 'star1' }),
+  place('cortona-bakery-1', 'cortona', 'bakery', 'Pasticceria Vannelli', 'Viale Regina Elena 13, 52044 Cortona, Italy', '마을 성벽 아래의 과자점.', 'A pastry shop just below the town walls.'),
+
+  // —— gubbio: restaurants, bakeries and cafés (2026-11-07) ——
+  place('gubbio-fine_dining-1', 'gubbio', 'fine_dining', 'Orto Osteria dalla terra', 'Via Camillo Benso Conte di Cavour 27, 06024 Gubbio, Italy', '제철 채소를 내세운 구시가 식당.', 'An old-town restaurant built around seasonal produce.'),
+  place('gubbio-fine_dining-2', 'gubbio', 'fine_dining', 'Osteria dei Re', 'Via Camillo Benso Conte di Cavour 15B, 06024 Gubbio, Italy', '움브리아 향토 요리 식당.', 'Umbrian regional cooking.'),
+  place('gubbio-fine_dining-3', 'gubbio', 'fine_dining', 'Locanda del Tartufo', 'Via dei Consoli 111, 06024 Gubbio, Italy', '콘솔리 거리의 송로버섯 요리 식당.', 'Truffle dishes on Via dei Consoli.'),
+  place('gubbio-fine_dining-4', 'gubbio', 'fine_dining', 'Osteria del Bottaccione', 'Via di Giove Pennino 25, 06024 Gubbio, Italy', '마을 위 계곡 길의 향토 요리 식당.', 'Regional cooking on the gorge road above town.'),
+  place('gubbio-bakery-1', 'gubbio', 'bakery', 'Pasticceria Gli Angeli', 'Via Tifernate 204, 06024 Gubbio, Italy', '성벽 밖의 과자점 겸 바.', 'A pastry shop and bar outside the walls.'),
+  place('gubbio-cafe-1', 'gubbio', 'cafe', 'La Garibaldi - Caffetteria e Pasticceria', 'Corso Giuseppe Garibaldi 42, 06024 Gubbio, Italy', '구시가 중심 거리의 카페 겸 과자점.', 'A café and pastry shop on the old town’s main street.'),
+
+  // —— spoleto: restaurants, bakeries and cafés (2026-11-07) ——
+  place('spoleto-fine_dining-1', 'spoleto', 'fine_dining', 'Apollinare', 'Via Sant’Agata 14, 06049 Spoleto, Italy', '로마 극장 옆 옛 수도원 건물의 현대 이탈리아 요리. 미쉐린 가이드 선정.', 'Contemporary Italian cooking in a former convent by the Roman theatre. In the MICHELIN Guide.'),
+  place('spoleto-fine_dining-2', 'spoleto', 'fine_dining', 'San Lorenzo', 'Piazza Sordini 6, 06049 Spoleto, Italy', '생선·해산물 요리 식당. 미쉐린 가이드 선정.', 'Fish and seafood restaurant. In the MICHELIN Guide.'),
+  place('spoleto-bakery-1', 'spoleto', 'bakery', 'Pasticceria Tebro', 'Via Minervio 1, 06049 Spoleto, Italy', '구시가의 오래된 과자점.', 'A long-established pastry shop in the old town.'),
+
+  // —— ostuni: restaurants, bakeries and cafés (2026-11-07) ——
+  place('ostuni-fine_dining-1', 'ostuni', 'fine_dining', 'Osteria Piazzetta Cattedrale', 'Largo Arcidiacono Trinchera 7, 72017 Ostuni, Italy', '대성당 옆 작은 광장의 풀리아 요리 식당. 미쉐린 빕 구르망.', 'Apulian cooking on the little square by the cathedral. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('ostuni-fine_dining-2', 'ostuni', 'fine_dining', 'Osteria Ricanatti', 'Corso Cavour 37, 72017 Ostuni, Italy', '구시가 아래 거리의 현대 요리 식당. 미쉐린 가이드 선정.', 'Modern cooking on the street below the old town. In the MICHELIN Guide.'),
+  place('ostuni-fine_dining-3', 'ostuni', 'fine_dining', 'Restaurant 700', 'Largo Michele Ayroldi Carissimo 14, 72017 Ostuni, Italy', '구시가의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary restaurant in the old town. In the MICHELIN Guide.'),
+  place('ostuni-bakery-1', 'ostuni', 'bakery', 'Bar Pasticceria da Pasquale', 'Via Francesco Tanzarella Vitale, 72017 Ostuni, Italy', '풀리아 과자로 이름난 바 겸 과자점.', 'A bar and pastry shop known for Apulian sweets.'),
+  place('ostuni-cafe-1', 'ostuni', 'cafe', 'Caffetteria D’Amico', 'Corso Giuseppe Mazzini 33, 72017 Ostuni, Italy', '시내 중심의 커피 전문점.', 'A coffee bar in the centre.'),
+
+  // —— ischia: restaurants, bakeries and cafés (2026-11-07) ——
+  place('ischia-fine_dining-1', 'ischia', 'fine_dining', 'daní maison', 'Via Montetignuso 4, 80077 Ischia, Italy', '정원 속 옛 농가의 현대 요리. 미쉐린 2스타.', 'Contemporary cuisine in an old farmhouse set in a garden. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('ischia-fine_dining-2', 'ischia', 'fine_dining', 'Umberto a Mare', 'Via del Soccorso 8, 80075 Forio, Italy', '포리오 소코르소 성당 아래 바닷가의 해산물 요리. 미쉐린 1스타.', 'Seafood by the sea below Forio’s Soccorso church. One MICHELIN star.', { michelin: 'star1' }),
+  place('ischia-fine_dining-3', 'ischia', 'fine_dining', 'Indaco', 'Piazza Santa Restituta 1, 80076 Lacco Ameno, Italy', '라코 아메노 호텔의 바다 앞 창의 요리. 미쉐린 1스타.', 'Creative cuisine by the sea at a Lacco Ameno hotel. One MICHELIN star.', { michelin: 'star1' }),
+  place('ischia-fine_dining-4', 'ischia', 'fine_dining', 'Il Saturnino', 'Via Soprascaro 17, 80075 Forio, Italy', '포리오의 생선·해산물 식당. 미쉐린 가이드 선정.', 'Fish and seafood restaurant in Forio. In the MICHELIN Guide.'),
+  place('ischia-bakery-1', 'ischia', 'bakery', 'Pasticceria Caffetteria Gelateria Ascione', 'II Traversa Via Morgioni 2, 80077 Ischia, Italy', '이스키아 포르토의 과자점 겸 카페.', 'A pastry shop and café in Ischia Porto.'),
+
+  // —— ragusa: restaurants, bakeries and cafés (2026-11-07) ——
+  place('ragusa-fine_dining-1', 'ragusa', 'fine_dining', 'Duomo', 'Via Capitano Bocchieri 31, 97100 Ragusa, Italy', '이블라 대성당 근처의 현대 시칠리아 요리. 미쉐린 2스타.', 'Contemporary Sicilian cuisine near Ibla’s cathedral. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('ragusa-fine_dining-2', 'ragusa', 'fine_dining', 'Locanda Don Serafino', 'Via Avv. Ottaviano 13, 97100 Ragusa, Italy', '동굴 같은 바위 방의 창의 요리. 미쉐린 1스타.', 'Creative cuisine in a cave-like rock-hewn room. One MICHELIN star.', { michelin: 'star1' }),
+  place('ragusa-fine_dining-3', 'ragusa', 'fine_dining', 'I Banchi', 'Via Orfanotrofio 39, 97100 Ragusa, Italy', '빵집을 겸한 시칠리아 요리 비스트로. 미쉐린 가이드 선정.', 'A Sicilian bistro with its own bakery. In the MICHELIN Guide.'),
+  place('ragusa-bakery-1', 'ragusa', 'bakery', 'Pasticceria Iudice', 'Via Giardino 23, 97100 Ragusa, Italy', '이블라의 과자점.', 'A pastry shop in Ibla.'),
+  place('ragusa-cafe-1', 'ragusa', 'cafe', 'Caffè Siciliano', 'Giardino Ibleo, Via Giardino, 97100 Ragusa, Italy', '이블레오 정원 안 키오스크 카페.', 'A kiosk café inside the Giardino Ibleo.'),
+  place('ragusa-cafe-2', 'ragusa', 'cafe', 'Caffè Italia', 'Piazza San Giovanni 29, 97100 Ragusa, Italy', '위 시가 대성당 광장의 카페.', 'A café on the cathedral square in the upper town.'),
+
+  // —— trapani: restaurants, bakeries and cafés (2026-11-07) ——
+  place('trapani-fine_dining-1', 'trapani', 'fine_dining', 'Osteria il Moro', 'Via Giuseppe Garibaldi 86, 91100 Trapani, Italy', '구시가의 현대 요리 식당. 미쉐린 가이드 선정.', 'Contemporary cooking in the old town. In the MICHELIN Guide.'),
+  place('trapani-fine_dining-2', 'trapani', 'fine_dining', 'La Bettolaccia', 'Via Generale Enrico Fardella 25, 91100 Trapani, Italy', '쿠스쿠스 등 트라파니 향토 요리 식당.', 'Trapani regional dishes such as fish couscous.'),
+  place('trapani-fine_dining-3', 'trapani', 'fine_dining', 'Al Vicoletto Ristorantino Tipico', 'Via Biscottai 6, 91100 Trapani, Italy', '구시가 골목의 해산물 식당.', 'A seafood restaurant in an old-town lane.'),
+  place('trapani-fine_dining-4', 'trapani', 'fine_dining', 'Ristorante Santa Chiara 19', 'Piazza Principessa Jolanda, 91100 Trapani, Italy', '구시가의 시칠리아 요리 식당.', 'Sicilian cooking in the old town.'),
+  place('trapani-bakery-1', 'trapani', 'bakery', 'Pasticceria La Rinascente', 'Via Gatti 3, 91100 Trapani, Italy', '구시가 골목의 과자점.', 'A pastry shop in an old-town lane.'),
+  place('trapani-bakery-2', 'trapani', 'bakery', 'Pasticceria Maria Grammatico', 'Via Vittorio Emanuele 14, 91016 Erice, Italy', '에리체 수녀원 아몬드 과자의 전통을 잇는 유명 과자점.', 'The famous Erice pastry shop carrying on the convent tradition of almond sweets.'),
 ]

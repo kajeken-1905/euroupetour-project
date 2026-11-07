@@ -3092,6 +3092,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber', { ko: '블랙·밴 위주 (우버X 없음)', en: 'Mostly Black/Van, not UberX' }),
     ],
   },
+  aosta: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 쿠르마예르와 계곡의 성들은 버스로 갑니다.',
+      en: 'Walk the old town; buses go to Courmayeur and the valley castles.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
   turin: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
@@ -3116,6 +3126,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trenitalia'),
     ],
   },
+  arezzo: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
   siena: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
@@ -3135,6 +3155,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('trenitalia'),
       ta('citymapper'),
+    ],
+  },
+  trapani: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 시내버스로 에리체 케이블카 승강장에 가고, 섬행 쾌속선은 항구에서 탑니다.',
+      en: 'Walk the old town; city buses reach the Erice cable car, and fast boats leave from the harbour.',
+    },
+    apps: [
+      ta('trenitalia'),
     ],
   },
   palermo: {
@@ -3220,6 +3250,37 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trenitalia'),
     ],
   },
+  ortisei: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 케이블카와 버스로 고원과 고개에 오릅니다. 볼차노에서 350번 버스로 약 1시간입니다.',
+      en: 'Walk the village; cable cars and buses climb to the meadows and passes. Bus 350 takes about an hour from Bolzano.',
+    },
+    apps: [
+      ta('sudtirolmobil', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+    ],
+  },
+  merano: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가와 산책로는 걸어서 다닙니다. 정원과 티롤 마을은 시내버스로 갑니다.',
+      en: 'Walk the old town and promenades; city buses go to the gardens and Dorf Tirol.',
+    },
+    apps: [
+      ta('sudtirolmobil', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+      ta('trenitalia'),
+    ],
+  },
+  trento: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 기차역 옆에서 사르다냐 케이블카가 출발합니다.',
+      en: 'Walk the old town; the Sardagna cable car leaves from beside the station.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
   cortina: {
     modes: ['bus', 'taxi', 'walk'],
     howTo: {
@@ -3293,6 +3354,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trenitalia'),
     ],
   },
+  cortona: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 가파른 골목을 걸어서 다닙니다. 아래 카무차역과 마을 사이엔 버스가 다닙니다.',
+      en: 'Walk the steep lanes; buses link the town with Camucia station below.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
   montepulciano: {
     modes: ['bus', 'taxi', 'walk'],
     howTo: {
@@ -3300,6 +3371,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Buses from Chiusi or Siena; a rental car is easiest for the Val d\'Orcia.',
     },
     apps: [
+    ],
+  },
+  spoleto: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '언덕 구시가는 걸어서 다니고, 무료 에스컬레이터와 엘리베이터가 아래 시가와 이어집니다.',
+      en: 'Walk the hilltop old town; free escalators and lifts link it with the lower town.',
+    },
+    apps: [
+      ta('trenitalia'),
     ],
   },
   assisi: {
@@ -3310,6 +3391,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
+    ],
+  },
+  gubbio: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '기차역이 없어 페루자에서 버스로 약 1시간 10분입니다. 마을은 걸어서 다니고 오르막엔 공공 엘리베이터가 있습니다.',
+      en: 'No railway—about 1 hr 10 by bus from Perugia. Walk the town; public lifts help on the climbs.',
+    },
+    apps: [
     ],
   },
   perugia: {
@@ -3353,6 +3443,15 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trenitalia'),
     ],
   },
+  ischia: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '섬 일주 버스가 항구와 마을을 잇습니다. 프로치다는 이스키아 항구에서 쾌속선으로 갑니다.',
+      en: 'Island buses link the port and villages; fast boats run from Ischia Porto to Procida.',
+    },
+    apps: [
+    ],
+  },
   capri: {
     modes: ['ferry', 'bus', 'taxi', 'walk'],
     howTo: {
@@ -3378,6 +3477,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: '공항에서 기차로 약 20분. 바리 베키아는 도보로 다닙니다. 풀리아 소도시는 기차로 이어집니다.',
       en: '~20 min train from the airport; Bari Vecchia on foot; trains out to Puglia towns.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
+  ostuni: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 기차역은 시내에서 약 3km 떨어져 있어 버스나 택시를 탑니다.',
+      en: 'Walk the old town; the station is about 3 km out, so take a bus or taxi.',
     },
     apps: [
       ta('trenitalia'),
@@ -3444,6 +3553,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
       ta('ct-mover', { ko: '시내 교통 공식 앱', en: 'Official transit app' }),
       ta('trenitalia'),
+    ],
+  },
+  ragusa: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '위 시가와 이블라 사이는 계단길을 걷거나 시내버스를 탑니다.',
+      en: 'Walk the stairways between the upper town and Ibla, or take a city bus.',
+    },
+    apps: [
     ],
   },
   siracusa: {

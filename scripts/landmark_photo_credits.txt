@@ -2443,3 +2443,204 @@ highlights/lindau-2.jpg | https://commons.wikimedia.org/wiki/File:Lindau_Maximil
 highlights/lindau-3.jpg | https://commons.wikimedia.org/wiki/File:Lindau,_Rathaus_Nordseite-001.jpg | CC BY-SA 3.0 | Tilman2007
 highlights/lindau-4.jpg | https://commons.wikimedia.org/wiki/File:BSB-Schiff_in_Wasserburg_(Bodensee)_(2026-07-07)-3.jpg | CC BY-SA 4.0 | Sneeuwvlakte
 highlights/lindau-5.jpg | https://commons.wikimedia.org/wiki/File:Insel_Mainau_Aerial.jpg | CC BY-SA 4.0 | SimonWaldherr
+highlights/genoa-6.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Le_Strade_Nuove_and_the_system_of_the_Palazzi_dei_Rolli-113866.jpg | CC BY-SA 3.0 igo | Michel Ravassard
+highlights/genoa-7.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Cathedral_(50572312381).jpg | CC BY-SA 2.0 | Kent Wang from Barcelona, Spain
+highlights/genoa-8.jpg | https://commons.wikimedia.org/wiki/File:Boccadasse_Genova_Liguria.jpg | CC BY-SA 4.0 | EJBJane
+highlights/turin-8.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_(Turin)_Facade.jpg | CC BY-SA 4.0 | TorinoDoc
+highlights/turin-9.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Torino.JPG | CC BY-SA 3.0 | Livioandronico2013
+highlights/turin-10.jpg | https://commons.wikimedia.org/wiki/File:Torino_Caff%C3%A8_Al_Bicerin_(52738271224).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/turin-11.jpg | https://commons.wikimedia.org/wiki/File:Reggia_di_Venaria_Reale_83.jpg | CC BY-SA 4.0 | FrDr
+highlights/turin-12.jpg | https://commons.wikimedia.org/wiki/File:Castello_Barolo.jpg | CC BY 2.0 | Taz
+highlights/como-5.jpg | https://commons.wikimedia.org/wiki/File:Tremezzo_-_Villa_Carlotta_0691.JPG | CC BY-SA 4.0 | Phyrexian
+highlights/bergamo-6.jpg | https://commons.wikimedia.org/wiki/File:Bergamo,_Santa_Maria_Maggiore,_2016-06_CN-01.jpg | CC BY-SA 4.0 | Steffen Schmitz
+highlights/stresa-5.jpg | https://commons.wikimedia.org/wiki/File:Giardini_Botanici_Villa_Taranto_(14093432222).jpg | CC BY-SA 2.0 | Irene Grassi from Italy
+highlights/milan-21.jpg | https://commons.wikimedia.org/wiki/File:Pinacoteca_di_Brera_0100_02.jpg | CC BY-SA 4.0 | FrDr
+highlights/milan-22.jpg | https://commons.wikimedia.org/wiki/File:Milano_-_Museo_del_Novecento_-_202109022215.jpeg | CC BY-SA 4.0 | Lauraderiu
+highlights/milan-23.jpg | https://commons.wikimedia.org/wiki/File:Sala_delle_colonne_-_Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci.jpg | CC BY 4.0 | Museo Nazionale Scienza e Tecnologia Leonardo da Vinci
+highlights/milan-24.jpg | https://commons.wikimedia.org/wiki/File:Certosa_di_Pavia_(maggio_2025).jpg | CC BY-SA 4.0 | Chiyako92
+highlights/venice-25.jpg | https://commons.wikimedia.org/wiki/File:Saint_Mark%27s_Campanile_and_Palazzo_Ducale,_Venice,_September_2017_-2.jpg | CC BY-SA 4.0 | Martin Falbisoner
+highlights/venice-26.jpg | https://commons.wikimedia.org/wiki/File:Arsenale_ingresso_Venezia_notte.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
+highlights/verona-6.jpg | https://commons.wikimedia.org/wiki/File:Castelvecchio_-_Verona_-_Italy_-_2026_-_03.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/verona-7.jpg | https://commons.wikimedia.org/wiki/File:San_Zeno_Maggiore_-_Verona_-_West_facade_and_towers_-_2026_-_03.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/verona-9.jpg | https://commons.wikimedia.org/wiki/File:Vineyards_in_Valpolicella_region.jpg | CC BY 2.0 | Aaron Epstein
+highlights/trieste-6.jpg | https://commons.wikimedia.org/wiki/File:Trieste_-_Caff%C3%A8_San_Marco_(38698207911).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/trieste-7.jpg | https://commons.wikimedia.org/wiki/File:Grotta_Gigante_2613.JPG | CC BY-SA 3.0 | Brane.Blokar at Slovenian Wikipedia
+highlights/bologna-8.jpg | https://commons.wikimedia.org/wiki/File:Archiginnasio_ora_blu_Bologna.jpg | CC BY-SA 4.0 | Wwikiwalter
+highlights/bologna-9.jpg | https://commons.wikimedia.org/wiki/File:Bologna_-_Santuario_della_Madonna_di_San_Luca_-_Portico_di_San_Luca_-_2026-09-15_18-58-56_001.jpg | CC BY-SA 4.0 | Terragio67
+highlights/padua-6.jpg | https://commons.wikimedia.org/wiki/File:Orto_botanico_di_Padova.jpeg | CC BY-SA 4.0 | Memi26
+highlights/bolzano-6.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Runkelstein_ext.jpg | CC BY 2.0 | suedtirol-altoadige
+highlights/cortina-5.jpg | https://commons.wikimedia.org/wiki/File:Cortina_d%27Ampezzo_-_Corso_Italia.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/cortina-6.jpg | https://commons.wikimedia.org/wiki/File:Dolomites_-_Cortina_area_-_mrning_trip_up_the_cables_cars_to_Tofana_di_Mezzo_(11059138724).jpg | CC BY-SA 2.0 | Murray Foubister
+highlights/parma-6.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_prosciutto_e_dei_salumi_di_Parma_(Langhirano)_-_cortile_interno_1_2022-05-11.jpg | CC BY-SA 4.0 | Parma1983
+highlights/ravenna-6.jpg | https://commons.wikimedia.org/wiki/File:Battistero_Neoniano_02.jpg | CC BY-SA 4.0 | Ernesto Sguotti
+highlights/pisa-5.jpg | https://commons.wikimedia.org/wiki/File:Pisa_-_Camposanto_monumentale_01.JPG | CC BY-SA 4.0 | Luca Aless
+highlights/pisa-6.jpg | https://commons.wikimedia.org/wiki/File:Pisa_Piazza_dei_Cavalieri_2.jpg | CC BY 4.0 | Zairon
+highlights/lucca-6.jpg | https://commons.wikimedia.org/wiki/File:Lucca,_palazzo_della_casa_natale_di_giacomo_puccini,_01.jpg | CC BY 3.0 | Sailko
+highlights/siena-5.jpg | https://commons.wikimedia.org/wiki/File:Santissima_Annunziata,_Siena,_Santa_Maria_della_Scala.jpg | CC BY-SA 4.0 | Gennadii Saus i Segura
+highlights/assisi-5.jpg | https://commons.wikimedia.org/wiki/File:San_Damiano_(Assisi)_01.JPG | CC BY-SA 3.0 | Superchilum
+highlights/orvieto-5.jpg | https://commons.wikimedia.org/wiki/File:Civita_(Bagnoregio)_-_Panorama.jpg | CC BY-SA 4.0 | User:New2022
+highlights/perugia-6.jpg | https://commons.wikimedia.org/wiki/File:Perugina_(46).jpg | CC BY 4.0 | Elekes Andor
+highlights/montepulciano-6.jpg | https://commons.wikimedia.org/wiki/File:Montalcino_001.jpg | CC BY-SA 3.0 | O.S
+highlights/florence-20.jpg | https://commons.wikimedia.org/wiki/File:Firenze_-_Campanile_di_Giotto_-_2025-09-29_18-32-15_001.jpg | CC BY-SA 4.0 | TeKappa
+highlights/florence-21.jpg | https://commons.wikimedia.org/wiki/File:Cappella_brancacci_02.JPG | CC BY 2.5 | sailko
+highlights/florence-22.jpg | https://commons.wikimedia.org/wiki/File:Piano_inclinato,_Museo_Galileo,_Florence,_Inv._104,_224108.jpg | CC BY-SA 4.0 | Zde
+highlights/florence-23.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_Santo_Spirito,_Firenze.jpg | CC BY-SA 3.0 | Lucarelli
+highlights/florence-24.jpg | https://commons.wikimedia.org/wiki/File:IVERAZZANO_MONOUMENT_GREVE_IN_CHIANTI_%D7%A4%D7%A1%D7%9C_%D7%95%D7%A8%D7%90%D7%96%D7%90%D7%A0%D7%95_%D7%92%D7%A8%D7%95%D7%95%D7%94_%D7%90%D7%99%D7%9F_%D7%A7%D7%99%D7%90%D7%A0%D7%98%D7%99.jpg | CC0 | Avisadehh
+highlights/rome-29.jpg | https://commons.wikimedia.org/wiki/File:End_of_the_Via_Appia_Antica_(Brindisi)_at_night.jpg | CC BY-SA 4.0 | Livioandronico2013
+highlights/rome-30.jpg | https://commons.wikimedia.org/wiki/File:San_Giovanni_in_Laterano_-_Rome.jpg | CC BY-SA 4.0 | MrPanyGoff
+highlights/rome-31.jpg | https://commons.wikimedia.org/wiki/File:Roma-_Portico_d%27Ottavia_-_52350512476.jpg | CC BY 2.0 | Jorge Franganillo
+highlights/rome-32.jpg | https://commons.wikimedia.org/wiki/File:Ripa_-_giardino_degli_aranci_01.JPG | Public domain | user:Lalupa
+highlights/rome-33.jpg | https://commons.wikimedia.org/wiki/File:Convento_dei_Frati_Minori_Cappuccini_(cripta).jpg | CC BY-SA 4.0 | Antreus93
+highlights/genoa-6.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Le_Strade_Nuove_and_the_system_of_the_Palazzi_dei_Rolli-113866.jpg | CC BY-SA 3.0 igo | Michel Ravassard
+highlights/genoa-7.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Cathedral_(50572312381).jpg | CC BY-SA 2.0 | Kent Wang from Barcelona, Spain
+highlights/genoa-8.jpg | https://commons.wikimedia.org/wiki/File:Boccadasse_Genova_Liguria.jpg | CC BY-SA 4.0 | EJBJane
+highlights/turin-8.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_(Turin)_Facade.jpg | CC BY-SA 4.0 | TorinoDoc
+highlights/turin-9.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Torino.JPG | CC BY-SA 3.0 | Livioandronico2013
+highlights/turin-10.jpg | https://commons.wikimedia.org/wiki/File:Torino_Caff%C3%A8_Al_Bicerin_(52738271224).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/turin-11.jpg | https://commons.wikimedia.org/wiki/File:Reggia_di_Venaria_Reale_83.jpg | CC BY-SA 4.0 | FrDr
+highlights/turin-12.jpg | https://commons.wikimedia.org/wiki/File:Castello_Barolo.jpg | CC BY 2.0 | Taz
+highlights/como-5.jpg | https://commons.wikimedia.org/wiki/File:Tremezzo_-_Villa_Carlotta_0691.JPG | CC BY-SA 4.0 | Phyrexian
+highlights/bergamo-6.jpg | https://commons.wikimedia.org/wiki/File:Bergamo,_Santa_Maria_Maggiore,_2016-06_CN-01.jpg | CC BY-SA 4.0 | Steffen Schmitz
+highlights/stresa-5.jpg | https://commons.wikimedia.org/wiki/File:Giardini_Botanici_Villa_Taranto_(14093432222).jpg | CC BY-SA 2.0 | Irene Grassi from Italy
+highlights/milan-21.jpg | https://commons.wikimedia.org/wiki/File:Pinacoteca_di_Brera_0100_02.jpg | CC BY-SA 4.0 | FrDr
+highlights/milan-22.jpg | https://commons.wikimedia.org/wiki/File:Milano_-_Museo_del_Novecento_-_202109022215.jpeg | CC BY-SA 4.0 | Lauraderiu
+highlights/milan-23.jpg | https://commons.wikimedia.org/wiki/File:Sala_delle_colonne_-_Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci.jpg | CC BY 4.0 | Museo Nazionale Scienza e Tecnologia Leonardo da Vinci
+highlights/milan-24.jpg | https://commons.wikimedia.org/wiki/File:Certosa_di_Pavia_(maggio_2025).jpg | CC BY-SA 4.0 | Chiyako92
+highlights/venice-25.jpg | https://commons.wikimedia.org/wiki/File:Saint_Mark%27s_Campanile_and_Palazzo_Ducale,_Venice,_September_2017_-2.jpg | CC BY-SA 4.0 | Martin Falbisoner
+highlights/venice-26.jpg | https://commons.wikimedia.org/wiki/File:Arsenale_ingresso_Venezia_notte.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
+highlights/verona-6.jpg | https://commons.wikimedia.org/wiki/File:Castelvecchio_-_Verona_-_Italy_-_2026_-_03.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/verona-7.jpg | https://commons.wikimedia.org/wiki/File:San_Zeno_Maggiore_-_Verona_-_West_facade_and_towers_-_2026_-_03.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/verona-9.jpg | https://commons.wikimedia.org/wiki/File:Vineyards_in_Valpolicella_region.jpg | CC BY 2.0 | Aaron Epstein
+highlights/trieste-6.jpg | https://commons.wikimedia.org/wiki/File:Trieste_-_Caff%C3%A8_San_Marco_(38698207911).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/trieste-7.jpg | https://commons.wikimedia.org/wiki/File:Grotta_Gigante_2613.JPG | CC BY-SA 3.0 | Brane.Blokar at Slovenian Wikipedia
+highlights/bologna-8.jpg | https://commons.wikimedia.org/wiki/File:Archiginnasio_ora_blu_Bologna.jpg | CC BY-SA 4.0 | Wwikiwalter
+highlights/bologna-9.jpg | https://commons.wikimedia.org/wiki/File:Bologna_-_Santuario_della_Madonna_di_San_Luca_-_Portico_di_San_Luca_-_2026-09-15_18-58-56_001.jpg | CC BY-SA 4.0 | Terragio67
+highlights/padua-6.jpg | https://commons.wikimedia.org/wiki/File:Orto_botanico_di_Padova.jpeg | CC BY-SA 4.0 | Memi26
+highlights/bolzano-6.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Runkelstein_ext.jpg | CC BY 2.0 | suedtirol-altoadige
+highlights/cortina-5.jpg | https://commons.wikimedia.org/wiki/File:Cortina_d%27Ampezzo_-_Corso_Italia.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/cortina-6.jpg | https://commons.wikimedia.org/wiki/File:Dolomites_-_Cortina_area_-_mrning_trip_up_the_cables_cars_to_Tofana_di_Mezzo_(11059138724).jpg | CC BY-SA 2.0 | Murray Foubister
+highlights/parma-6.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_prosciutto_e_dei_salumi_di_Parma_(Langhirano)_-_cortile_interno_1_2022-05-11.jpg | CC BY-SA 4.0 | Parma1983
+highlights/ravenna-6.jpg | https://commons.wikimedia.org/wiki/File:Battistero_Neoniano_02.jpg | CC BY-SA 4.0 | Ernesto Sguotti
+highlights/pisa-5.jpg | https://commons.wikimedia.org/wiki/File:Pisa_-_Camposanto_monumentale_01.JPG | CC BY-SA 4.0 | Luca Aless
+highlights/pisa-6.jpg | https://commons.wikimedia.org/wiki/File:Pisa_Piazza_dei_Cavalieri_2.jpg | CC BY 4.0 | Zairon
+highlights/lucca-6.jpg | https://commons.wikimedia.org/wiki/File:Lucca,_palazzo_della_casa_natale_di_giacomo_puccini,_01.jpg | CC BY 3.0 | Sailko
+highlights/siena-5.jpg | https://commons.wikimedia.org/wiki/File:Santissima_Annunziata,_Siena,_Santa_Maria_della_Scala.jpg | CC BY-SA 4.0 | Gennadii Saus i Segura
+highlights/assisi-5.jpg | https://commons.wikimedia.org/wiki/File:San_Damiano_(Assisi)_01.JPG | CC BY-SA 3.0 | Superchilum
+highlights/orvieto-5.jpg | https://commons.wikimedia.org/wiki/File:Civita_(Bagnoregio)_-_Panorama.jpg | CC BY-SA 4.0 | User:New2022
+highlights/perugia-6.jpg | https://commons.wikimedia.org/wiki/File:Perugina_(46).jpg | CC BY 4.0 | Elekes Andor
+highlights/montepulciano-6.jpg | https://commons.wikimedia.org/wiki/File:Montalcino_001.jpg | CC BY-SA 3.0 | O.S
+highlights/florence-20.jpg | https://commons.wikimedia.org/wiki/File:Firenze_-_Campanile_di_Giotto_-_2025-09-29_18-32-15_001.jpg | CC BY-SA 4.0 | TeKappa
+highlights/florence-21.jpg | https://commons.wikimedia.org/wiki/File:Cappella_brancacci_02.JPG | CC BY 2.5 | sailko
+highlights/florence-22.jpg | https://commons.wikimedia.org/wiki/File:Piano_inclinato,_Museo_Galileo,_Florence,_Inv._104,_224108.jpg | CC BY-SA 4.0 | Zde
+highlights/florence-23.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_Santo_Spirito,_Firenze.jpg | CC BY-SA 3.0 | Lucarelli
+highlights/florence-24.jpg | https://commons.wikimedia.org/wiki/File:IVERAZZANO_MONOUMENT_GREVE_IN_CHIANTI_%D7%A4%D7%A1%D7%9C_%D7%95%D7%A8%D7%90%D7%96%D7%90%D7%A0%D7%95_%D7%92%D7%A8%D7%95%D7%95%D7%94_%D7%90%D7%99%D7%9F_%D7%A7%D7%99%D7%90%D7%A0%D7%98%D7%99.jpg | CC0 | Avisadehh
+highlights/rome-29.jpg | https://commons.wikimedia.org/wiki/File:End_of_the_Via_Appia_Antica_(Brindisi)_at_night.jpg | CC BY-SA 4.0 | Livioandronico2013
+highlights/rome-30.jpg | https://commons.wikimedia.org/wiki/File:San_Giovanni_in_Laterano_-_Rome.jpg | CC BY-SA 4.0 | MrPanyGoff
+highlights/rome-31.jpg | https://commons.wikimedia.org/wiki/File:Roma-_Portico_d%27Ottavia_-_52350512476.jpg | CC BY 2.0 | Jorge Franganillo
+highlights/rome-32.jpg | https://commons.wikimedia.org/wiki/File:Ripa_-_giardino_degli_aranci_01.JPG | Public domain | user:Lalupa
+highlights/rome-33.jpg | https://commons.wikimedia.org/wiki/File:Convento_dei_Frati_Minori_Cappuccini_(cripta).jpg | CC BY-SA 4.0 | Antreus93
+highlights/naples-4.jpg | https://commons.wikimedia.org/wiki/File:Mount_Vesuvius_Araucaria.jpg | CC0 | Jebulon
+highlights/naples-9.jpg | https://commons.wikimedia.org/wiki/File:BozzettoCristoVelatoSanMartino.jpg | CC BY-SA 3.0 | E. della Morte
+highlights/naples-10.jpg | https://commons.wikimedia.org/wiki/File:Napoli_Sotterranea_1.jpg | CC BY 4.0 | Photo2023
+highlights/naples-11.jpg | https://commons.wikimedia.org/wiki/File:7K5A3060Piazza_del_Plebiscito_Naples_lateral_view_2025.jpg | CC BY-SA 4.0 | Lucia Montanaro
+highlights/naples-12.jpg | https://commons.wikimedia.org/wiki/File:Certosa_di_San_Martino,_Naples_20230622_01.jpg | CC BY-SA 4.0 | Argo Navis
+highlights/naples-13.jpg | https://commons.wikimedia.org/wiki/File:Fontana_del_Belvedere_di_Capodimonte_Agosto_2021.jpg | CC BY 4.0 | Francesco Pollasto
+highlights/naples-14.jpg | https://commons.wikimedia.org/wiki/File:Reggia_di_Caserta_2023.jpg | CC BY-SA 4.0 | augurgo
+highlights/pompeii-6.jpg | https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_1.JPG | CC BY-SA 3.0 | Mentnafunangann
+highlights/sorrento-5.jpg | https://commons.wikimedia.org/wiki/File:Pl%C3%BCschow,_Wilhelm_von_(1852-1930)_-_n._01044_recto_-_Sorrento._Bagno_di_Diana_o_Bagno_della_Regina_Giovanna_-_Theodor_Her_estate.jpg | Public domain | Guglielmo Plüschow
+highlights/amalfi-7.jpg | https://commons.wikimedia.org/wiki/File:Atrani_(Costiera_Amalfitana,_23-8-2011).jpg | CC BY 3.0 | Paolo Costa Baldi
+highlights/capri-6.jpg | https://commons.wikimedia.org/wiki/File:Overlooking_Capri_harbour_from_the_rotunda_in_Villa_San_Michele_Anacapri_BW_2013-05-14_13-55-21.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/capri-7.jpg | https://commons.wikimedia.org/wiki/File:Villa_Jovis.jpg | CC BY-SA 3.0 | No machine-readable author provided. Buckeye~commonswiki ass
+highlights/bari-6.jpg | https://commons.wikimedia.org/wiki/File:Bari_-_Cattedrale_di_San_Sabino_-_08.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/lecce-5.jpg | https://commons.wikimedia.org/wiki/File:Lecce_-_Museo_Archeologico_Faggiano_-_2025-09-26_04-59-29_014.jpg | CC BY-SA 4.0 | Tommasopaiano
+highlights/lecce-6.jpg | https://commons.wikimedia.org/wiki/File:Otranto_-_Cattedrale_di_Santa_Maria_Annunziata_-_12.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/matera-6.jpg | https://commons.wikimedia.org/wiki/File:%22Palombaro_Lungo%22_ist_die_gr%C3%B6%C3%9Fte_Zisterne_Materas._01.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/palermo-6.jpg | https://commons.wikimedia.org/wiki/File:Teatro_Massimo_Vittorio_Emanuele,_Palermo_(30534532731).jpg | CC BY 2.0 | kuhnmi
+highlights/palermo-7.jpg | https://commons.wikimedia.org/wiki/File:Palermo_-_Fontana_Pretoria_closeup.jpg | CC BY-SA 4.0 | P. Hughes
+highlights/palermo-8.jpg | https://commons.wikimedia.org/wiki/File:Catacombe_dei_Cappuccini_Corridoio_Professionisti.jpg | CC BY-SA 3.0 rs | Gmihail at Serbian Wikipedia
+highlights/palermo-9.jpg | https://commons.wikimedia.org/wiki/File:Mondello_Beach_in_Spring.jpg | CC BY 4.0 | Joefromthebay
+highlights/taormina-6.jpg | https://commons.wikimedia.org/wiki/File:Castelmola_outside_Bar_Turrisi_07-07-2026.jpg | CC BY-SA 4.0 | Jeanne Griffin
+highlights/taormina-7.jpg | https://commons.wikimedia.org/wiki/File:Alcantara_Canyon_-_2018-07-27-A.jpg | CC BY-SA 4.0 | Eleassar
+highlights/catania-6.jpg | https://commons.wikimedia.org/wiki/File:Catania,_ex_Monastero_dei_Benedettini_7.jpg | CC0 | Carmelovunque
+highlights/siracusa-6.jpg | https://commons.wikimedia.org/wiki/File:Siracusa_-_Tempio_di_Apollo_20240103-01.jpg | CC BY-SA 4.0 | Pymouss
+highlights/siracusa-7.jpg | https://commons.wikimedia.org/wiki/File:La_cattedrale_di_Noto_-_panoramio.jpg | CC BY-SA 3.0 | Lamberto Zannotti
+highlights/siracusa-8.jpg | https://commons.wikimedia.org/wiki/File:Cioccolato_di_Modica.jpg | CC BY 2.0 | Andrea Critti
+highlights/agrigento-5.jpg | https://commons.wikimedia.org/wiki/File:Museo_Archeologico_Regionale_-_Agrigento_-_Italy_2015.JPG | CC BY-SA 4.0 | José Luiz
+highlights/cagliari-6.jpg | https://commons.wikimedia.org/wiki/File:Museo_archeologico_nazionale_di_Cagliari.jpg | CC BY 4.0 | Unukorno
+highlights/cagliari-7.jpg | https://commons.wikimedia.org/wiki/File:Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/ortisei-4.jpg | https://commons.wikimedia.org/wiki/File:La_Bruscia_da_Nadel_cun_la_dlieja_de_Sant_Antone_a_Urtijei.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
+highlights/ortisei-2.jpg | https://commons.wikimedia.org/wiki/File:Seiser_Alm_Langkofel_Pferdeschlitten.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
+highlights/merano-2.jpg | https://www.flickr.com/photos/66502410@N04/6086831473 | BY-SA 2.0 | Forcellini51
+highlights/merano-4.jpg | https://www.landesarchiv-bw.de/plink/?f=5-2287611 | BY 3.0 | 
+highlights/trento-5.jpg | https://commons.wikimedia.org/wiki/File:Trento_-_Palazzo_Malfatti_Ferrari_01.jpg | CC BY-SA 4.0 | Syrio
+highlights/gubbio-3.jpg | https://commons.wikimedia.org/wiki/File:Sant%27Ubaldo_(Gubbio)_03.jpg | CC BY-SA 4.0 | Superchilum (changes by Rabanus Flavus)
+highlights/ostuni-1.jpg | https://commons.wikimedia.org/wiki/File:%22Ostuni_beeindruckt_mit_einer_malerischen_Altstadt.%22_06.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/ostuni-2.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Ostuni_1.JPG | CC BY-SA 4.0 | Mentnafunangann
+highlights/ostuni-3.jpg | https://commons.wikimedia.org/wiki/File:Ostuni,_ex-chiesa_di_san_vito_(museo_archeologico).jpg | CC BY 3.0 | Sailko
+highlights/ostuni-4.jpg | https://commons.wikimedia.org/wiki/File:Ostuni_olive_grove_SS379-3339.jpg | CC BY-SA 4.0 | Isiwal
+highlights/ischia-2.jpg | https://commons.wikimedia.org/wiki/File:Giardini_termali_poseidon_-_panoramio_(4).jpg | CC BY 3.0 | francverde
+highlights/trapani-5.jpg | https://www.flickr.com/photos/35995738@N00/6530592595 | BY-SA 2.0 | Effervescing Elephant
+highlights/florence-20.jpg | own photo | own photo | 사용자 촬영
+highlights/florence-6.jpg | own photo | own photo | 사용자 촬영
+cities/ortisei.jpg | https://commons.wikimedia.org/wiki/File:St._Antony_-_Urtij%C3%ABi_-_14.JPG | CC BY-SA 3.0 | H. Zell
+highlights/ortisei-1.jpg | https://commons.wikimedia.org/wiki/File:Odles_da_Seceda_da_duman_tl_nibl_Gherd%C3%ABina.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
+highlights/ortisei-3.jpg | https://commons.wikimedia.org/wiki/File:Museum_Gherdeina_Cesa_di_Ladins_Urtijei.jpg | CC BY-SA 3.0 | Moroder
+highlights/ortisei-5.jpg | https://commons.wikimedia.org/wiki/File:Sellajoch-Schild.jpg | CC BY-SA 3.0 de | FkMohr
+cities/merano.jpg | https://commons.wikimedia.org/wiki/File:Meran,_Stadtpfarrkiche_St._Nikolaus_--_2026_--_3399.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/merano-1.jpg | https://commons.wikimedia.org/wiki/File:Brunnen_mit_Frauenfigur_in_den_G%C3%A4rten_von_Schloss_Trauttmansdorff.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/merano-3.jpg | https://commons.wikimedia.org/wiki/File:Via_dei_Portici_Bolzano_Italy_-_panoramio.jpg | CC BY 3.0 | Hiroki Ogawa
+highlights/merano-5.jpg | https://commons.wikimedia.org/wiki/File:17576_Schloss_Tirol_Castel_Tirolo_Tirol_20220909_0251.jpg | CC BY-SA 4.0 | Tilman2007
+cities/trento.jpg | https://commons.wikimedia.org/wiki/File:Trento_Piazza_del_Duomo_6.jpg | CC BY-SA 4.0 | Zairon
+highlights/trento-1.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Duomo,_Trento,_Italy.jpg | CC BY-SA 4.0 | MartinB29
+highlights/trento-2.jpg | https://commons.wikimedia.org/wiki/File:20110727_Trento_Buonconsiglio_Castle_6609.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/trento-3.jpg | https://commons.wikimedia.org/wiki/File:MuSe_esterno_1.JPG | CC BY-SA 3.0 | Libens libenter
+highlights/trento-4.jpg | https://commons.wikimedia.org/wiki/File:Sardagna-cabin_of_cableway.jpg | CC BY-SA 3.0 | Matteo Ianeselli
+cities/aosta.jpg | https://commons.wikimedia.org/wiki/File:Aosta_-_Porta_Praetoria_4.jpg | CC BY-SA 3.0 | Wolfgang Sauber
+highlights/aosta-1.jpg | https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Orange_2008.jpg | CC BY-SA 2.0 | Benh LIEU SONG (Flickr)
+highlights/aosta-2.jpg | https://commons.wikimedia.org/wiki/File:Aosta_Porta_Praetoria_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/aosta-3.jpg | https://commons.wikimedia.org/wiki/File:Aosta_-_Collegiata_di_Sant%27Orso_-_2025-09-03_19-50-40_001.jpg | CC BY-SA 4.0 | Maurizio Moro5153
+highlights/aosta-4.jpg | https://commons.wikimedia.org/wiki/File:Il_criptoportico_forense_di_Aosta.jpg | CC BY-SA 4.0 | DavideAlberani
+highlights/aosta-5.jpg | https://commons.wikimedia.org/wiki/File:CastelloDiF%C3%A9nisJuly292023_06.jpg | CC BY-SA 4.0 | Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר
+highlights/aosta-6.jpg | https://commons.wikimedia.org/wiki/File:Cabina_Skyway_Monte_Bianco.jpg | CC BY-SA 4.0 | Stefano Venturini
+cities/arezzo.jpg | https://commons.wikimedia.org/wiki/File:Catedral,_Arezzo,_Italia,_2022-09-17,_DD_77-79_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/arezzo-1.jpg | https://commons.wikimedia.org/wiki/File:Assisi_San_Francesco_BW_2.JPG | Public domain | Berthold Werner
+highlights/arezzo-3.jpg | https://commons.wikimedia.org/wiki/File:Arezzo_-_chiesa_di_Santa_Maria_della_Pieve_-_2026-10-02_00-41-44_003.JPG | CC BY-SA 4.0 | Luciano_Bernardi
+highlights/arezzo-4.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_(Arezzo).jpg | CC BY-SA 4.0 | Gzen92
+highlights/arezzo-5.jpg | https://commons.wikimedia.org/wiki/File:Fortezza_Medicea_(Volterra)_02.jpg | CC BY-SA 4.0 | Mongolo1984
+highlights/arezzo-6.jpg | https://commons.wikimedia.org/wiki/File:Casa_Vasari_Arezzo_2.jpg | CC BY 4.0 | Photo2023
+cities/cortona.jpg | https://commons.wikimedia.org/wiki/File:Cortona_Camucia_Panorama_01.jpg | CC BY-SA 4.0 | Spike
+highlights/cortona-1.jpg | https://commons.wikimedia.org/wiki/File:Piazza_della_Repubblica_(Rome)_at_night_20150814-3.jpg | CC BY-SA 4.0 | Suicasmo
+highlights/cortona-2.jpg | https://commons.wikimedia.org/wiki/File:Maec,_cratere,_01.jpg | CC BY-SA 4.0 | Sailko
+highlights/cortona-3.jpg | https://commons.wikimedia.org/wiki/File:Museo_diocesano_di_Cortona.jpg | CC BY-SA 4.0 | Diego Baglieri
+highlights/cortona-4.jpg | https://commons.wikimedia.org/wiki/File:Fortezza_del_Girifalco_-_Cortona_8.jpg | CC BY-SA 4.0 | Diego Baglieri
+cities/gubbio.jpg | https://commons.wikimedia.org/wiki/File:Gubbio_panorama.jpg | CC BY 4.0 | Labicanense
+highlights/gubbio-1.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_dei_Consoli,Gubbio.jpg | CC BY-SA 4.0 | Livioandronico2013
+highlights/gubbio-2.jpg | https://commons.wikimedia.org/wiki/File:Piazza_Grande_Gubbio_04.jpg | CC BY-SA 4.0 | Superchilum
+highlights/gubbio-4.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_Ducale_-_Gubbio_15.jpg | CC BY-SA 4.0 | Diego Baglieri
+highlights/gubbio-5.jpg | https://commons.wikimedia.org/wiki/File:Antico_teatro_romano_di_Gubbio_03.jpg | CC BY-SA 4.0 | Superchilum
+cities/spoleto.jpg | https://commons.wikimedia.org/wiki/File:Rocca_Albornoz_and_Ponte_delle_Torri,_Spoleto.jpg | CC BY-SA 2.5 | Zyance
+highlights/spoleto-1.jpg | https://commons.wikimedia.org/wiki/File:Spoleto_-_Ponte_delle_Torri_02.jpg | CC BY-SA 4.0 | Pietro
+highlights/spoleto-2.jpg | https://commons.wikimedia.org/wiki/File:Spoleto_-_Duomo_di_Spoleto_-_2026-09-27_17-15-43_002.JPG | CC BY-SA 4.0 | Akira_Amon
+highlights/spoleto-3.jpg | https://commons.wikimedia.org/wiki/File:Rocca_Albornoziana,_Spoleto.jpg | CC BY-SA 4.0 | Livioandronico2013
+highlights/spoleto-4.jpg | https://commons.wikimedia.org/wiki/File:Teatro_romano_-_Spoleto_03.jpg | CC BY-SA 4.0 | Diego Baglieri
+highlights/spoleto-5.jpg | https://commons.wikimedia.org/wiki/File:Spoleto_-_Basilica_di_San_Salvatore_01.jpg | CC BY-SA 4.0 | Pietro
+cities/ostuni.jpg | https://commons.wikimedia.org/wiki/File:%22Ostuni_beeindruckt_mit_einer_malerischen_Altstadt.%22_13.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+cities/ischia.jpg | https://commons.wikimedia.org/wiki/File:Ischia_Castello_Aragonese.jpg | Public domain | Gerd Fahrenhorst, Hannover, Germany
+highlights/ischia-1.jpg | https://commons.wikimedia.org/wiki/File:Castello_Aragonese_(Ischia).jpg | CC0 | Dudva
+highlights/ischia-3.jpg | https://commons.wikimedia.org/wiki/File:La_Mortella._Ninfeo._03.JPG | CC BY-SA 4.0 | Miguel Hermoso Cuesta
+highlights/ischia-4.jpg | https://commons.wikimedia.org/wiki/File:Ischia-Baia_di_Sant%27Angelo_-_panoramio.jpg | CC BY 3.0 | maury3001
+highlights/ischia-5.jpg | https://commons.wikimedia.org/wiki/File:Marina_di_Corricella_5.JPG | CC BY-SA 4.0 | Mentnafunangann
+cities/ragusa.jpg | https://commons.wikimedia.org/wiki/File:Ragusa_Ibla_lasera.jpg | CC BY-SA 4.0 | Maurizio Moro5153
+highlights/ragusa-1.jpg | https://commons.wikimedia.org/wiki/File:Ragusa_Ibla,_Sicily.jpg | CC BY 4.0 | Chris Down
+highlights/ragusa-2.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_San_Giorgio_a_Ragusa_Ibla.jpg | CC BY-SA 4.0 | TeKappa
+highlights/ragusa-3.jpg | https://commons.wikimedia.org/wiki/File:Ragusa_-_Santa_Maria_delle_Scale_-_20150523103045.jpg | CC BY-SA 4.0 | Fischer1961
+highlights/ragusa-4.jpg | https://commons.wikimedia.org/wiki/File:Giardino_ibleo_2.JPG | Public domain | Gdiquattro
+highlights/ragusa-5.jpg | https://commons.wikimedia.org/wiki/File:Cattedrale_di_San_Giovanni.jpg | CC BY-SA 2.0 | Alex Bueno from Barcelona, Spain
+cities/trapani.jpg | https://commons.wikimedia.org/wiki/File:Erice_Chiesa_Madre_BW_2025-04-30_11-26-57.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/trapani-1.jpg | https://commons.wikimedia.org/wiki/File:Mura_di_Tramontana_-_Trapani,_Italia_-_1_Maggio_2023_01.jpg | CC BY-SA 4.0 | Giorgio Galeotti
+highlights/trapani-2.jpg | https://commons.wikimedia.org/wiki/File:Erice_BW_2012-10-10_14-16-25.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/trapani-3.jpg | https://commons.wikimedia.org/wiki/File:Erice_Castello_di_Venere_BW_2025-04-30_12-16-40.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/trapani-4.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_Sale_presso_le_Saline_di_Nubia_al_Tramonto.jpg | CC BY-SA 4.0 | Angelo Petrozza
+highlights/trapani-6.jpg | https://commons.wikimedia.org/wiki/File:Viewpoint_at_Favignana_Island,_Sicily_(Italy)_-_panoramio_(2).jpg | CC BY 3.0 | Tommie Hansen
+highlights/verona-8.jpg | https://commons.wikimedia.org/wiki/File:Torre_dei_Lamberti_in_Verona_(3).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/arezzo-2.jpg | https://commons.wikimedia.org/wiki/File:Piazza_grande_(Arezzo).jpg | CC BY-SA 4.0 | Gzen92
