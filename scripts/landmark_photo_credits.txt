@@ -2247,3 +2247,25 @@ highlights/mostar-9.jpg | https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_
 highlights/banja-luka-6.jpg | https://commons.wikimedia.org/wiki/File:Banski_dvor_Banja_Luka.jpg | CC0 | ArhistefoBL
 highlights/travnik-6.jpg | https://commons.wikimedia.org/wiki/File:Plava_voda_belo_nebo.jpg | CC BY-SA 4.0 | Mirvladimir
 highlights/killarney-2.jpg | https://commons.wikimedia.org/wiki/File:Ireland_Muckross_House_BW_2025-09-12_17-10-11.jpg | CC BY-SA 4.0 | Berthold Werner
+cities/jajce.jpg | https://commons.wikimedia.org/wiki/File:Pliva_Waterfall,_Jajce,_2022.jpg | CC0 | YxMb
+highlights/jajce-1.jpg | https://commons.wikimedia.org/wiki/File:Jajce_%E2%80%93_Pliva_waterfall.jpg | CC BY-SA 3.0 | Julian Nyča
+highlights/jajce-2.jpg | https://commons.wikimedia.org/wiki/File:Jajce_%E2%80%93_Fortress_5.jpg | CC BY-SA 3.0 | Julian Nyča
+highlights/jajce-3.jpg | https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_des_catacombes_de_Jajce.jpg | CC BY-SA 4.0 | Toïlev
+highlights/jajce-5.jpg | https://commons.wikimedia.org/wiki/File:Muzej_AVNOJ-a,_Jajce.JPG | CC BY 3.0 rs | The original uploader was Вики корисник at Serbian Wikipedia
+highlights/jajce-6.jpg | https://commons.wikimedia.org/wiki/File:Mlin%C4%8Di%C4%87i.jpg | CC BY 4.0 | Ekki3
+cities/visegrad.jpg | https://commons.wikimedia.org/wiki/File:Visegrad_Drina_Bridge_2.jpg | CC BY-SA 3.0 | Julian Nyča
+highlights/visegrad-1.jpg | https://commons.wikimedia.org/wiki/File:Mehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge_10.jpg | CC BY-SA 4.0 | Bojana Wiki PG
+highlights/visegrad-2.jpg | https://commons.wikimedia.org/wiki/File:Andri%C4%87grad_ulica_Mlade_Bosne.JPG | CC BY-SA 4.0 | Branevgd
+highlights/visegrad-3.jpg | https://commons.wikimedia.org/wiki/File:Drina_Canyon.JPG | CC BY-SA 3.0 | Julian Nyča
+highlights/visegrad-4.jpg | https://commons.wikimedia.org/wiki/File:Manastir_Dobrun,_Republika_Srpska.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+cities/trebinje.jpg | https://commons.wikimedia.org/wiki/File:Trebinje_River.jpg | CC BY-SA 3.0 | Goran Andjelic (Hrast)
+highlights/trebinje-1.jpg | https://commons.wikimedia.org/wiki/File:Stari_grad,_Trebinje.jpg | CC BY-SA 4.0 | BrankaVV
+highlights/trebinje-2.jpg | https://commons.wikimedia.org/wiki/File:Arslanagic_bridge.jpg | CC BY-SA 3.0 | Christopher Hylarides
+highlights/trebinje-3.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_Nova_Gracanica,_Trebinje,_Bosnia_y_Herzegovina,_2014-04-14,_DD_20.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/trebinje-4.jpg | https://commons.wikimedia.org/wiki/File:ManastirTvrdos.jpg | CC BY-SA 3.0 | Ranko
+highlights/trebinje-5.jpg | https://commons.wikimedia.org/wiki/File:Muzej_Hercegovine,_Trebinje_03.jpg | CC BY-SA 4.0 | BoMaric
+cities/srebrenica.jpg | https://commons.wikimedia.org/wiki/File:Srebrenica_ispod_snijega.jpg | CC BY-SA 4.0 | Kojic.m
+highlights/srebrenica-1.jpg | https://commons.wikimedia.org/wiki/File:Srebrenica_Memorial_Photo.jpg | CC BY-SA 4.0 | Skrewt25
+highlights/srebrenica-2.jpg | https://commons.wikimedia.org/wiki/File:Stari_grad_Klotjevac.jpg | CC BY-SA 4.0 | Kojic.m
+highlights/srebrenica-3.jpg | https://commons.wikimedia.org/wiki/File:Srebrenica_Crni_Guber_1.JPG | CC BY-SA 4.0 | Julian Nyča
+highlights/jajce-4.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Mithras-Jajce.jpg | CC BY-SA 4.0 | Kisanova

@@ -4891,11 +4891,40 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('flixbus'),
     ],
   },
+  visegrad: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '다리와 안드리치그라드는 걸어서 다닙니다. 수도원은 차나 택시로 갑니다.',
+      en: 'Walk to the bridge and Andrićgrad; take a car or taxi to the monastery.',
+    },
+    apps: [
+      ta('flixbus'),
+    ],
+  },
+  srebrenica: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '추모관은 마을에서 약 6km 떨어져 있어 택시나 차로 갑니다.',
+      en: 'The memorial is about 6 km from town—go by taxi or car.',
+    },
+    apps: [
+    ],
+  },
   mostar: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
       ko: 'Mostar: 시내버스·도보가 기본입니다. 인근 도시는 기차·장거리 버스를 이용하세요.',
       en: 'Mostar is mainly local buses and walking. Use trains or coaches for nearby cities.',
+    },
+    apps: [
+      ta('flixbus'),
+    ],
+  },
+  trebinje: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 수도원과 와이너리는 택시나 차가 편합니다.',
+      en: 'Walk the centre; a taxi or car is easiest for the monastery and winery.',
     },
     apps: [
       ta('flixbus'),
@@ -4916,6 +4945,16 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: 'Travnik: 시내버스·도보가 기본입니다. 인근 도시는 기차·장거리 버스를 이용하세요.',
       en: 'Travnik is mainly local buses and walking. Use trains or coaches for nearby cities.',
+    },
+    apps: [
+      ta('flixbus'),
+    ],
+  },
+  jajce: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 물레방아까지는 걷거나 택시를 탑니다.',
+      en: 'Walk the old town; walk or take a taxi to the watermills.',
     },
     apps: [
       ta('flixbus'),

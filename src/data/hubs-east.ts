@@ -324,10 +324,22 @@ export const hubsEast: Record<string, RawCityHubs> = {
       ['Autobuska stanica Istočno Sarajevo', '동사라예보 버스터미널', '세르비아·몬테네그로행|buses to Serbia and Montenegro'],
     ],
   },
+  visegrad: {
+    air: [SJJ()],
+    bus: [['Autobuska stanica Višegrad', '비셰그라드 버스터미널']],
+  },
+  srebrenica: {
+    air: [SJJ('버스로 약 3시간 50분|About 3 hrs 50 by bus')],
+    bus: [['Autobuska stanica Srebrenica', '스레브레니차 버스 정류장']],
+  },
   mostar: {
     air: [['Mostar (OMO)', '모스타르 공항 (OMO)', '운항편 적음|few flights'], SJJ()],
     rail: [['Mostar', '모스타르역']],
     bus: [['Autobuska stanica Mostar (Istok)', '모스타르 동부 버스터미널', '기차역 옆|next to the rail station']],
+  },
+  trebinje: {
+    air: [DBV(), SJJ()],
+    bus: [['Autobuska stanica Trebinje', '트레비네 버스터미널']],
   },
   'banja-luka': {
     air: [['Banja Luka (BNX)', '바냐루카 공항 (BNX)']],
@@ -337,6 +349,10 @@ export const hubsEast: Record<string, RawCityHubs> = {
   travnik: {
     air: [SJJ()],
     bus: [['Autobuska stanica Travnik', '트라브니크 버스터미널']],
+  },
+  jajce: {
+    air: [SJJ('버스로 약 3시간 30분|About 3 hrs 30 by bus'), ['Banja Luka (BNX)', '바냐루카 공항 (BNX)', '바냐루카|Banja Luka']],
+    bus: [['Autobuska stanica Jajce', '야이체 버스터미널']],
   },
   neum: {
     air: [DBV(), ['Mostar (OMO)', '모스타르 공항 (OMO)', '모스타르 · 운항편 적음|Mostar · few flights']],

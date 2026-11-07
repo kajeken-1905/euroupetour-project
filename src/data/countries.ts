@@ -1238,7 +1238,7 @@ export const countries: Country[] = [
       background: '#E8ECF8',
       text: '#0A1A30',
     },
-    cityIds: ['sarajevo', 'mostar', 'banja-luka', 'travnik', 'neum'],
+    cityIds: ['sarajevo', 'visegrad', 'srebrenica', 'mostar', 'trebinje', 'banja-luka', 'travnik', 'jajce', 'neum'],
   },
   {
     id: 'me',

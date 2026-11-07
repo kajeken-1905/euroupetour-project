@@ -2553,5 +2553,95 @@
     42.94559,
     17.56331,
     "OSM Nominatim: Klek, Općina Slivno, Dubrovačko-neretvanska županija, Hrvats"
+  ],
+  "jajce-h1": [
+    44.3377,
+    17.27049,
+    "OSM Nominatim: Slapovi Plive, Jajce"
+  ],
+  "jajce-h4": [
+    44.34074,
+    17.26603,
+    "OSM Nominatim: Jajački mitrej, Mitrasova, Jajce"
+  ],
+  "trebinje-h5": [
+    42.71127,
+    18.34739,
+    "OSM Nominatim: Muzej Hercegovine, Stari grad, Trebinje"
+  ],
+  "jajce-h2": [
+    44.34069,
+    17.26917,
+    "OSM Nominatim: Jajačka tvrđava, Tunel ispod centra, Varoš, Jajce, Općina Ja (Wikipedia 165m)"
+  ],
+  "jajce-h3": [
+    44.3396,
+    17.26835,
+    "OSM Nominatim: Podzemna crkva i katakombe, Sv. Luke, Stari grad, Jajce, Opć (Wikipedia 246m)"
+  ],
+  "jajce-h5": [
+    44.33813,
+    17.26804,
+    "OSM Nominatim: Muzej AVNOJ-a, II zasjedanja AVNOJ-a, Stari grad, Jajce, Opć (Wikipedia 409m)"
+  ],
+  "jajce-h6": [
+    44.34706,
+    17.22648,
+    "OSM Nominatim: Plivski Mlinčići, M-5, Jezero (FBiH), Prisoje, Općina Jajce,"
+  ],
+  "visegrad-h1": [
+    43.78263,
+    19.28754,
+    "OSM Nominatim: Most Mehmed-paše Sokolovića, Megdan, Вишеград, Opština Višeg"
+  ],
+  "visegrad-h2": [
+    43.78612,
+    19.29395,
+    "OSM Nominatim: Andrićgrad, Вишеград, Opština Višegrad, Република Српска / R (Wikipedia 39m)"
+  ],
+  "visegrad-h3": [
+    43.78643,
+    19.2941,
+    "OSM Nominatim: Вишеград, Opština Višegrad, Република Српска / Republika Srp (Wikipedia 471m)"
+  ],
+  "visegrad-h4": [
+    43.7564,
+    19.39763,
+    "OSM Nominatim: Manastir Dobrun, M-I 114, Доњи Добрун, Gornji Dobrun, Opštin (Wikipedia 31m)"
+  ],
+  "trebinje-h1": [
+    42.71148,
+    18.3448,
+    "OSM Nominatim: Trg Slobode, Krš, Mjesna zajednica Centar, Bregovi, Trebinje (Wikipedia 119m)"
+  ],
+  "trebinje-h2": [
+    42.71465,
+    18.35401,
+    "OSM Nominatim: Arslanagića most, Perovića most, Mjesna zajednica Donje Poli"
+  ],
+  "trebinje-h3": [
+    42.71074,
+    18.36001,
+    "OSM Nominatim: Херцеговачка Грачаница, Miloša Šarabe, Mjesna zajednica Gorn (Wikipedia 31m)"
+  ],
+  "trebinje-h4": [
+    42.71844,
+    18.29235,
+    "OSM Nominatim: Manastir Tvrdoš, Tvrdoš, Тврдош, Dražin Do, Град Требиње / G (Wikipedia 356m)"
+  ],
+  "srebrenica-h1": [
+    44.15713,
+    19.30339,
+    "OSM Nominatim: Srebrenica-Potočari Memorial Center, R-I 4105, Доњи Поточари (Wikipedia 172m)"
+  ],
+  "srebrenica-h2": [
+    44.10096,
+    19.30274,
+    "OSM Nominatim: Stari Grad Srebrenica, Stari grad, Karaboja, Сребреница, Sre (Wikipedia 567m)"
+  ],
+  "srebrenica-h3": [
+    44.10218,
+    19.31977,
+    "OSM Nominatim: Guber, Crni Guber, Обади, Srebrenica, Opština Srebrenica, Ре"
   ]
 }

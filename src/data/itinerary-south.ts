@@ -164,9 +164,13 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['브렐로 보스네|Vrelo Bosne', 10],
     ],
   },
+  visegrad: { days: [['', 1, 2, 3]], trips: [['도브룬 수도원|Dobrun Monastery', 4]] },
+  srebrenica: [1, 2, 3],
   mostar: { days: [['', 3, 2, 1, 4, 6, 7]], trips: [['블라가이|Blagaj', 5], ['크라비차 폭포|Kravica', 8], ['포치텔리|Počitelj', 9]] },
+  trebinje: { days: [['', 1, 5, 2, 3], ['와인|Wine', 4]] },
   'banja-luka': [2, 6, 5, 3, 1, 4],
   travnik: { days: [['', 2, 3, 5, 6, 1]], trips: [['플리바 호수와 야이체|Pliva lakes & Jajce', 4]] },
+  jajce: [1, 2, 3, 4, 5, 6],
   neum: [2, 1, 3],
   kotor: { days: [['', 1, 2, 5, 3]], trips: [['코토르 만 유람|Bay of Kotor cruise', 4], ['페라스트|Perast', 6]] },
   budva: {

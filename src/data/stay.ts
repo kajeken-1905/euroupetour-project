@@ -1679,14 +1679,26 @@ export const STAY: Record<string, StayArea[]> = {
     a('바슈차르시야 (구시가)', 'Baščaršija (old town)', 'Baščaršija, Sarajevo', '처음이라면|First visit', '시장과 세빌 분수, 모스크를 걸어서 다닙니다.|The bazaar, Sebilj fountain and mosques on foot.'),
     a('첸타르 남쪽·비스트리크', 'Southern Centar and Bistrik', 'Bistrik, Sarajevo', '조용함·가까움|Quieter, still central', '라틴 다리와 황제 모스크가 걸어서 닿고 구시가보다 조용합니다.|The Latin Bridge and Emperor’s Mosque are walkable, and it is quieter than the bazaar.'),
   ],
+  visegrad: [
+    a('다리 주변', 'By the bridge', 'Višegrad centre', '처음 가는 여행에 추천|Best for a first visit', '다리와 안드리치그라드가 걸어서 닿습니다.|The bridge and Andrićgrad on foot.'),
+  ],
+  srebrenica: [
+    a('사라예보에서 다녀오기', 'Base in Sarajevo', 'Sarajevo', '거점에서 다녀오기|Day trip from a base', '차나 투어로 약 2시간 30분입니다. 마을에는 숙소가 거의 없습니다.|About 2 hrs 30 by car or tour; there are very few places to stay in town.'),
+  ],
   mostar: [
     a('구시가 (스타리 모스트 근처)', 'Old town (near the Old Bridge)', 'Stari Most, Mostar', '다리 걸어서|The bridge on foot', '다리와 시장 거리가 바로 앞입니다. 낮에는 붐비니 조용히 지내려면 시장에서 조금 떨어진 곳을 고르세요.|The bridge and bazaar on your doorstep; busy by day, so pick somewhere a little away from the bazaar for quiet.'),
+  ],
+  trebinje: [
+    a('구시가 주변', 'Around the old town', 'Trebinje old town', '처음 가는 여행에 추천|Best for a first visit', '광장과 다리, 식당이 걸어서 닿습니다.|The square, bridge and restaurants on foot.'),
   ],
   'banja-luka': [
     a('시내 중심', 'City centre', 'Banja Luka city centre', '걸어서 구경·카페|Sights and cafés on foot', '카페·식당·상점이 모여 있고 주요 볼거리와 대중교통이 가깝습니다.|Cafés, restaurants and shops, close to the main sights and public transport.'),
   ],
   travnik: [
     a('구시가 (요새·플라바 보다 주변)', 'Old town (fortress and Plava Voda)', 'Plava Voda, Travnik', '작고 걸어 다니기 좋음|Compact, walkable', '트라브니크 요새와 샘, 박물관이 가깝고 시내 중심까지 5분쯤 걷습니다.|Close to the fortress, the springs and the museum, about five minutes’ walk to the centre.'),
+  ],
+  jajce: [
+    a('구시가', 'Old town', 'Jajce old town', '처음 가는 여행에 추천|Best for a first visit', '폭포와 요새가 걸어서 닿습니다.|The waterfall and fortress on foot.'),
   ],
   neum: [
     a('네움 해변 마을', 'Neum seafront', 'Neum', '해변·가성비|Beach, value', '작아서 걸어 다니기 쉽고 크로아티아보다 싸고 덜 붐빕니다. 두브로브니크까지 차로 1시간쯤이며 국경을 넘으니 여권을 챙기세요.|Small and walkable, cheaper and calmer than Croatia; Dubrovnik is about an hour’s drive across a border, so bring your passport.'),

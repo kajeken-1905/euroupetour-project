@@ -1190,6 +1190,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'korcula',
       tip: '쾌속선으로 약 2시간(봄~가을). 성벽 구시가와 대성당을 보고 돌아옵니다.|About 2 hrs by catamaran (spring to autumn): the walled old town and the cathedral.',
     },
+    {
+      to: 'trebinje',
+      tip: '버스로 약 1시간 15분(국경 포함). 플라타너스 광장과 오스만 다리, 수도원 와인 저장고를 봅니다.|About 1 hr 15 by bus including the border: the plane-tree square, the Ottoman bridge and the monastery wine cellar.',
+    },
   ],
   zadar: [
     {
