@@ -1010,6 +1010,10 @@ export const STAY: Record<string, StayArea[]> = {
     a('아기오스 게오르기오스 해변', 'Agios Georgios beach', 'Agios Georgios beach, Naxos', '해변과 시내를 함께|Beach next to town', '호라 바로 옆의 긴 모래 해변이라 시내를 걸어서 오갑니다.|A long sandy beach right beside Chora, walking distance to town.'),
     a('아기오스 프로코피오스·아기아 안나', 'Agios Prokopios & Agia Anna', 'Agios Prokopios, Naxos', '가족 여행·가성비|Families and value', '해변 숙소가 비교적 저렴하고 성수기에는 호라행 버스가 자주 다닙니다. 비수기에는 버스가 줄어듭니다.|Cheaper beach stays with frequent buses to Chora in season; fewer buses off-season.'),
   ],
+  perast: [
+    a('마을 바닷가', 'Waterfront', 'Perast', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁에 조용한 해안을 걸을 수 있습니다. 숙소가 적어 일찍 예약하세요.|Quiet evenings once the day-trippers leave; few rooms, so book early.'),
+    a('코토르에서 다녀오기', 'Base in Kotor', 'Kotor', '거점에서 다녀오기|Day trip from a base', '버스로 약 25분입니다.|About 25 min by bus.'),
+  ],
   budva: [
     a('구시가', 'Old Town', 'Stari Grad, Budva', '처음 가는 여행에 추천|Best for a first visit', '성벽과 요새, 교회가 있는 옛 시가지로 부티크 호텔과 호스텔이 있습니다.|The walled old town with the citadel and churches, with boutique hotels and hostels.'),
     a('해변 산책로', 'Budva Promenade', 'Slovenska plaža, Budva', '밤 문화와 해변|Nightlife and beaches', '바다 쪽 산책로에 바와 식당, 마리나와 해변이 모여 있습니다. 밤늦게까지 붐빕니다.|Seafront bars, restaurants, the marina and beaches; busy late into the night.'),
@@ -1703,6 +1707,9 @@ export const STAY: Record<string, StayArea[]> = {
   neum: [
     a('네움 해변 마을', 'Neum seafront', 'Neum', '해변·가성비|Beach, value', '작아서 걸어 다니기 쉽고 크로아티아보다 싸고 덜 붐빕니다. 두브로브니크까지 차로 1시간쯤이며 국경을 넘으니 여권을 챙기세요.|Small and walkable, cheaper and calmer than Croatia; Dubrovnik is about an hour’s drive across a border, so bring your passport.'),
   ],
+  ulcinj: [
+    a('구시가와 작은 해변 주변', 'Old town & Small Beach', 'Ulcinj old town', '처음 가는 여행에 추천|Best for a first visit', '구시가와 시내 해변, 식당이 걸어서 닿습니다.|The old town, town beach and restaurants on foot.'),
+  ],
   podgorica: [
     a('시내 중심', 'City centre', 'Podgorica city centre', '걸어서 구경·가성비|Walkable, good value', '숙소 대부분이 모여 있고 볼거리가 걸어서 닿으며 값이 싼 편입니다.|Most hotels are here, the sights are walkable and prices are low.'),
   ],
@@ -1881,6 +1888,12 @@ export const STAY: Record<string, StayArea[]> = {
   lugano: [
     a('시내 중심', 'City centre', 'Lugano centro', '처음이라면|First visit', '옛 거리와 상점, 식당, 밤 문화가 모여 있습니다.|Historic streets, shops, restaurants and nightlife.'),
     a('파라디소', 'Paradiso', 'Paradiso, Lugano', '호수 전망|Lake views', '호숫가 호텔이 모여 있고 산살바토레 푸니쿨라가 가깝습니다. 시내까지 걷거나 버스로 잠깐입니다.|Lakeside hotels near the Monte San Salvatore funicular, a short walk or bus ride to the centre.'),
+  ],
+  cetinje: [
+    a('시내 중심', 'Town centre', 'Cetinje centre', '처음 가는 여행에 추천|Best for a first visit', '수도원과 궁전, 박물관이 걸어서 닿습니다.|The monastery, palace and museums on foot.'),
+  ],
+  zabljak: [
+    a('시내 중심', 'Town centre', 'Žabljak centre', '산행 거점|Hiking base', '버스터미널과 식당이 가깝고 검은 호수까지 걸어갈 수 있습니다.|Close to the bus station and restaurants, with the Black Lake within walking distance.'),
   ],
   'herceg-novi': [
     a('성벽 안 구시가', 'Old town', 'Herceg Novi old town', '분위기|Atmosphere', '볼거리가 걸어서 2분 안에 있습니다. 계단이 많아 짐이 무겁다면 힘들고 성수기에는 자정까지 시끄럽습니다.|Everything within a two-minute walk; lots of steps with luggage and noisy until midnight in season.'),

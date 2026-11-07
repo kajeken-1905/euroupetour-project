@@ -1254,6 +1254,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'herceg-novi',
       tip: '계단 골목과 요새가 있는 만 입구의 마을입니다.|Stepped lanes and fortresses at the mouth of the bay.',
     },
+    {
+      to: 'perast',
+      tip: '버스로 약 25분. 바로크 해안 마을과 바위의 성모 섬을 봅니다.|About 25 min by bus: the Baroque waterfront village and Our Lady of the Rocks.',
+    },
   ],
   belgrade: [
     {

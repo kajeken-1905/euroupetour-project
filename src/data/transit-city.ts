@@ -4974,6 +4974,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  perast: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '마을은 바닷가를 따라 걸어서 다닙니다. 코토르행 버스와 섬행 작은 배가 있습니다.',
+      en: 'Walk the waterfront; buses run to Kotor and small boats to the islands.',
+    },
+    apps: [
+    ],
+  },
   budva: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     airportToCity: {
@@ -4987,6 +4996,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  ulcinj: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가와 시내 해변은 걸어서 다닙니다. 대해변과 아다 보야나는 택시나 차가 편합니다.',
+      en: 'Walk the old town and town beach; a taxi or car is easiest for Long Beach and Ada Bojana.',
+    },
+    apps: [
+    ],
+  },
   podgorica: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     airportToCity: {
@@ -4996,6 +5014,24 @@ export const cityTransitById: Record<string, CityTransit> = {
     howTo: {
       ko: 'Podgorica: 시내버스·도보가 기본입니다. 인근 도시는 기차·장거리 버스를 이용하세요.',
       en: 'Podgorica is mainly local buses and walking. Use trains or coaches for nearby cities.',
+    },
+    apps: [
+    ],
+  },
+  cetinje: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 로브첸과 리예카 츠르노예비차는 차나 택시, 투어가 편합니다.',
+      en: 'Walk the town; a car, taxi or tour is easiest for Lovćen and Rijeka Crnojevića.',
+    },
+    apps: [
+    ],
+  },
+  zabljak: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 검은 호수는 걸어서 다닙니다. 협곡 다리와 고리 도로는 차나 투어가 필요합니다.',
+      en: 'Walk the town and to the Black Lake; the canyon bridge and ring road need a car or tour.',
     },
     apps: [
     ],

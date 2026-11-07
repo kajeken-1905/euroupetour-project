@@ -1267,7 +1267,7 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#3A0A10',
     },
-    cityIds: ['kotor', 'budva', 'podgorica', 'herceg-novi'],
+    cityIds: ['kotor', 'perast', 'budva', 'ulcinj', 'podgorica', 'cetinje', 'zabljak', 'herceg-novi'],
   },
   {
     id: 'rs',

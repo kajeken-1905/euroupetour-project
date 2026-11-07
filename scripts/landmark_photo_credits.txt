@@ -2277,3 +2277,31 @@ highlights/podgorica-7.jpg | https://commons.wikimedia.org/wiki/File:Podgorica-T
 highlights/podgorica-8.jpg | https://commons.wikimedia.org/wiki/File:Lake_Skadar,_Montenegro_3.jpg | CC BY-SA 4.0 | 井上子木
 highlights/podgorica-9.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Ostrog,_Montenegro,_2014-04-14,_DD_14.JPG | CC BY-SA 3.0 | Diego Delso
 highlights/herceg-novi-6.jpg | https://commons.wikimedia.org/wiki/File:Kanli_kula_panorama.jpg | CC BY-SA 4.0 | MariaKristianova
+cities/cetinje.jpg | https://commons.wikimedia.org/wiki/File:Mausoleum_of_Danilo_I,_Metropolitan_of_Cetinje_14.jpg | CC BY-SA 4.0 | Milica Buha
+highlights/cetinje-1.jpg | https://commons.wikimedia.org/wiki/File:Cetinje_Monastery,_MNE.jpg | CC BY-SA 4.0 | Desemeus
+highlights/cetinje-2.jpg | https://commons.wikimedia.org/wiki/File:King_Nikola%27s_Palace_in_Cetinje.jpg | CC BY-SA 4.0 | Milica Buha
+highlights/cetinje-3.jpg | https://commons.wikimedia.org/wiki/File:Biljarda_Cetinje.jpg | CC BY-SA 4.0 | Desemeus
+highlights/cetinje-4.jpg | https://commons.wikimedia.org/wiki/File:Former_Austrian-Hungarian_Embassy_In_Cetinje_2.jpg | CC BY-SA 4.0 | Pudelek
+highlights/cetinje-5.jpg | https://commons.wikimedia.org/wiki/File:Njegos_mausoleum_frontside.jpg | CC BY-SA 4.0 | Ingo Mehling
+highlights/cetinje-6.jpg | https://commons.wikimedia.org/wiki/File:Pavlova_Strana,_Rijeka_Crnojevi%C4%87a,_Cetinje.jpg | CC BY-SA 4.0 | A81t
+cities/zabljak.jpg | https://commons.wikimedia.org/wiki/File:%C5%BDabljak,_Montenegro_-_town_centre_3.jpg | CC BY-SA 3.0 | This image is a work by Mercy.
+highlights/zabljak-1.jpg | https://commons.wikimedia.org/wiki/File:Crno_Jezero_sa_Me%C4%91eda_-_panoramio.jpg | CC BY-SA 3.0 | Emil Joanović
+highlights/zabljak-2.jpg | https://commons.wikimedia.org/wiki/File:Savin_Kuk_with_Moti%C4%8Dki_Gaj_in_the_foreground,_September_2022_03.jpg | CC BY-SA 4.0 | Calistemon
+highlights/zabljak-3.jpg | https://commons.wikimedia.org/wiki/File:%C4%90ur%C4%91evi%C4%87a_Tara_Bridge_B1.jpg | CC BY-SA 4.0 | Jerzy Opioła
+highlights/zabljak-4.jpg | https://commons.wikimedia.org/wiki/File:Durmitor_-_Obla_glava.jpg | CC BY-SA 3.0 | This image is a work by Mercy.
+cities/ulcinj.jpg | https://commons.wikimedia.org/wiki/File:Panorama_e_Ulqinit.jpg | CC BY 3.0 | The original uploader was Ammartivari at Albanian Wikipedia.
+highlights/ulcinj-1.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj_Old_Town,_August_2012.jpg | CC BY-SA 3.0 | Mjuzikxhankej
+highlights/ulcinj-3.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj,_small_beach.jpg | CC BY-SA 3.0 | Palickap
+highlights/ulcinj-4.jpg | https://commons.wikimedia.org/wiki/File:Long_Beaches_of_Ulcinj,_Montenegro.jpg | CC BY 2.0 | miketnorton
+highlights/ulcinj-5.jpg | https://commons.wikimedia.org/wiki/File:2025-05-12_Ulcinj_Salina_22.jpg | CC BY 4.0 | Alexkom000
+highlights/ulcinj-6.jpg | https://commons.wikimedia.org/wiki/File:Ada_bojana_plaza.jpg | CC BY-SA 4.0 | Mladifilozof
+cities/perast.jpg | https://commons.wikimedia.org/wiki/File:Widok_na_Perast_z_zachodu_01.JPG | CC BY-SA 4.0 | Marcin Konsek
+highlights/perast-1.jpg | https://commons.wikimedia.org/wiki/File:Tower_of_St._Nikolas_in_Perast.jpg | CC BY-SA 3.0 | Leeturtle
+highlights/perast-2.jpg | https://commons.wikimedia.org/wiki/File:Perast_Museum.jpg | CC BY-SA 4.0 | Desemeus
+highlights/perast-3.jpg | https://commons.wikimedia.org/wiki/File:Kotor_area_Our_Lady_of_the_Rocks.JPG | Public domain | Brian Dell
+highlights/perast-4.jpg | https://commons.wikimedia.org/wiki/File:Islet_of_St._George_in_the_Bay_of_Kotor_(2)_(29577189770).jpg | CC BY 2.0 | Richard Mortel from Riyadh, Saudi Arabia
+highlights/perast-5.jpg | https://commons.wikimedia.org/wiki/File:Risan_-_Hypnos.JPG | CC BY-SA 4.0 | Janusz Recław
+highlights/ulcinj-2.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj_Old_Town,_August_2012.jpg | CC BY-SA 3.0 | Mjuzikxhankej
+highlights/ulcinj-3.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj,_small_beach.jpg | CC BY-SA 3.0 | Palickap
+highlights/ulcinj-4.jpg | https://www.flickr.com/photos/49665685@N06/41789454840 | BY 2.0 | miketnorton
+highlights/perast-1.jpg | https://www.flickr.com/photos/113306963@N05/38105080686 | BY 2.0 | travelmag.com

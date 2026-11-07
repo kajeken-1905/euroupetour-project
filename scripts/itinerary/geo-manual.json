@@ -2747,5 +2747,110 @@
     42.45235,
     18.53791,
     "OSM Nominatim: Kanli Kula, Sima Matavulja, Dubrava, Stari grad, Marići, Her (Wikipedia 16m)"
+  ],
+  "cetinje-h2": [
+    42.3875,
+    18.92443,
+    "OSM Nominatim: Muzej Kralja Nikole, Dvorski Trg, Cetinje"
+  ],
+  "zabljak-h1": [
+    43.14539,
+    19.09374,
+    "OSM Nominatim: Crno Jezero, Žabljak"
+  ],
+  "zabljak-h4": [
+    43.09852,
+    19.05054,
+    "OSM Nominatim: Sedlo pass, Žabljak"
+  ],
+  "cetinje-h1": [
+    42.38784,
+    18.92182,
+    "OSM Nominatim: Cetinjski Manastir, Ul 15, Borovik, Cetinje, Prijestolnica C (Wikipedia 37m)"
+  ],
+  "cetinje-h3": [
+    42.38787,
+    18.92297,
+    "OSM Nominatim: Biljarda, 5, Dvorski Trg, Borovik, Cetinje, Prijestolnica Ce (Wikipedia 22m)"
+  ],
+  "cetinje-h4": [
+    42.38886,
+    18.92458,
+    "OSM Nominatim: Ulica Njegoševa, Borovik, Cetinje, Prijestolnica Cetinje, 81 (Wikipedia 61m)"
+  ],
+  "cetinje-h5": [
+    42.40007,
+    18.83746,
+    "OSM Nominatim: Njegošev Mauzolej, Cetinje - Lovćen, Trešnja, Mali Bostur, P"
+  ],
+  "cetinje-h6": [
+    42.35635,
+    19.02265,
+    "OSM Nominatim: Rijeka Crnojevića, Prijestolnica Cetinje, Crna Gora / Црна Г"
+  ],
+  "zabljak-h2": [
+    43.1227,
+    19.08085,
+    "OSM Nominatim: Savin kuk, Opština Žabljak, 84220, Crna Gora / Црна Гора"
+  ],
+  "zabljak-h3": [
+    43.14971,
+    19.29447,
+    "OSM Nominatim: Most na Đurđevića Tari, Most na Tari, Budečevica, Đurđevića "
+  ],
+  "ulcinj-h1": [
+    41.92369,
+    19.20122,
+    "OSM Nominatim: Stari grad - Qytet i Vjetër, Ulcinj - Ulqin, Opština Ulcinj  (Wikipedia 423m)"
+  ],
+  "ulcinj-h2": [
+    41.92467,
+    19.20144,
+    "OSM Nominatim: Zavičajni muzej Ulcinj - Muzeu i Ulqinit, Trg roblja - Tregu (Wikipedia 533m)"
+  ],
+  "ulcinj-h3": [
+    41.92328,
+    19.2054,
+    "OSM Nominatim: Mala plaža - Plazhi i Vogël, Stari grad - Qytet i Vjetër, Ul (Wikipedia 577m)"
+  ],
+  "ulcinj-h4": [
+    41.88874,
+    19.30478,
+    "OSM Nominatim: Velika Plaža - Plazhi i Madh, Donji Štoj - Shtoji i Poshtëm,"
+  ],
+  "ulcinj-h5": [
+    41.91739,
+    19.25153,
+    "OSM Nominatim: Ulcinjska solana, Rruga e Kripores, Đerana - Gjerana, Opštin"
+  ],
+  "ulcinj-h6": [
+    41.86044,
+    19.35901,
+    "OSM Nominatim: Ada Bojana - Ada e Bunës, Gornji Štoj - Shtoji i Epërm, Opšt (Wikipedia 288m)"
+  ],
+  "perast-h1": [
+    42.48616,
+    18.69865,
+    "OSM Nominatim: Crkva svetog Nikole, Admiralov trg, Perast, Opština Kotor, 8 (Wikipedia 97m)"
+  ],
+  "perast-h2": [
+    42.48795,
+    18.69571,
+    "OSM Nominatim: Muzej Grada Perasta, Obala Kapetana Marka Martinovića, Peras (Wikipedia 305m)"
+  ],
+  "perast-h3": [
+    42.48687,
+    18.68859,
+    "OSM Nominatim: Gospa od Škrpjela, Perast, Crna Gora / Црна Гора (Wikipedia 33m)"
+  ],
+  "perast-h4": [
+    42.48561,
+    18.69068,
+    "OSM Nominatim: Sveti Đorđe, Perast, Crna Gora / Црна Гора"
+  ],
+  "perast-h5": [
+    42.51282,
+    18.69702,
+    "OSM Nominatim: Rimski mozaici, Ulica  X, Risan, Opština Kotor, 85337, Crna  (Wikipedia 268m)"
   ]
 }

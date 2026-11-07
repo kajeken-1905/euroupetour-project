@@ -363,14 +363,30 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [TIV(), TGD()],
     bus: [['Autobuska stanica Kotor', '코토르 버스터미널']],
   },
+  perast: {
+    air: [TIV(), TGD()],
+    bus: [['Perast', '페라스트 버스 정류장', '코토르행 해안 버스|coastal buses to Kotor']],
+  },
   budva: {
     air: [TIV(), TGD()],
     bus: [['Autobuska stanica Budva', '부드바 버스터미널']],
+  },
+  ulcinj: {
+    air: [TGD('버스로 약 2시간|About 2 hrs by bus'), TIV()],
+    bus: [['Autobuska stanica Ulcinj', '울치니 버스터미널']],
   },
   podgorica: {
     air: [['Podgorica (TGD)', '포드고리차 공항 (TGD)']],
     rail: [['Podgorica', '포드고리차역']],
     bus: [['Autobuska stanica Podgorica', '포드고리차 버스터미널', '기차역 옆|next to the rail station']],
+  },
+  cetinje: {
+    air: [TGD(), TIV()],
+    bus: [['Autobuska stanica Cetinje', '체티냐 버스터미널']],
+  },
+  zabljak: {
+    air: [TGD('버스로 약 2시간 30분|About 2 hrs 30 by bus')],
+    bus: [['Autobuska stanica Žabljak', '자블야크 버스터미널']],
   },
   'herceg-novi': {
     air: [TIV(), DBV()],

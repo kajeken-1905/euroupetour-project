@@ -173,6 +173,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   jajce: [1, 2, 3, 4, 5, 6],
   neum: [2, 1, 3],
   kotor: { days: [['', 1, 2, 8, 7, 5, 3]], trips: [['코토르만 유람선|Bay of Kotor boat trip', 4], ['페라스트|Perast', 6]] },
+  perast: { days: [['', 1, 2, 3, 4]], trips: [['리산|Risan', 5]] },
   budva: {
     days: [['', 1, 6, 4, 2]],
     trips: [
@@ -180,7 +181,10 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['스베티 스테판|Sveti Stefan', 5],
     ],
   },
+  ulcinj: { days: [['', 1, 2, 3], ['해변과 염전|Beaches & salina', 4, 5]], trips: [['아다 보야나|Ada Bojana', 6]] },
   podgorica: { days: [['', 3, 6, 5, 2, 4, 1], ['와인|Wine', 7]], trips: [['스카다르 호수|Lake Skadar', 8], ['오스트로그 수도원|Ostrog Monastery', 9]] },
+  cetinje: { days: [['', 1, 2, 3, 4]], trips: [['로브첸|Lovćen', 5], ['리예카 츠르노예비차|Rijeka Crnojevića', 6]] },
+  zabljak: { days: [['', 1, 2]], trips: [['타라 협곡 다리|Tara Bridge', 3], ['두르미토르 고리 도로|Durmitor Ring', 4]] },
   'herceg-novi': [3, 2, 6, 1, 5, 4],
   belgrade: {
     days: [
