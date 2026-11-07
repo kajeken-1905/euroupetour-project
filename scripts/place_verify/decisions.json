@@ -3146,6 +3146,26 @@
 "ko": "체코·유럽 요리 식당. 야외 자리가 넓고 연중 엽니다.",
 "ok": 1
 },
+"cetinje-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"cetinje-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"cetinje-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"cetinje-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"cetinje-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
 "chamonix-bakery-1": {
 "addr": "204 Avenue de l’Aiguille du Midi, 74400 Chamonix-Mont-Blanc, France",
 "en": "Bakery near the Aiguille du Midi cable car, open daily from early morning, with long queues at breakfast.",
@@ -11247,6 +11267,18 @@
 "ko": "하지 제카 광장의 레스토랑. 지역 요리와 서양 요리를 냅니다.",
 "ok": 1
 },
+"perast-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"perast-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"perast-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
 "perpignan-cafe-1": {
 "ok": 1,
 "src": "2026-11-04 google maps"
@@ -15628,6 +15660,30 @@
 "ko": "투르쿠 중심가의 아시아식 뷔페 식당(탐페레의 Yummy Korean과 같은 계열).",
 "ok": 1
 },
+"ulcinj-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"ulcinj-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"ulcinj-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"ulcinj-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"ulcinj-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"ulcinj-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
 "uppsala-bakery-1": {
 "ok": 1
 },
@@ -16784,6 +16840,18 @@
 "en": "Restaurant on Scarcroft Road, open since 1990, serving tasting menus.",
 "ko": "1990년 문을 연 스카크로프트 로드의 레스토랑. 코스 요리를 냅니다.",
 "ok": 1
+},
+"zabljak-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"zabljak-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"zabljak-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
 },
 "zadar-bakery-1": {
 "en": "Old-town bakery and snack shop known for burek and cheese pita, open until 10 pm.",

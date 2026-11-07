@@ -42,4 +42,29 @@ export const placesMEExtra: Place[] = [
   place('herceg-novi-cafe-3', 'herceg-novi', 'cafe', 'FABRIKA COFFEE Herceg Novi', '13 Njegoševa, Herceg Novi', '구시가의 스페셜티 로스터리 카페. 목련 나무 아래 안뜰 자리가 있습니다.', 'Specialty roastery café in the old town with a courtyard under a big magnolia.'),
   place('herceg-novi-cafe-4', 'herceg-novi', 'cafe', 'Koffein Specialty coffee shop', '2 Stepeniste 28 oktobra, Herceg Novi', '니콜라 주르코비치 광장으로 오르는 계단의 스페셜티 커피숍. 니트로 커피도 있습니다.', 'Specialty coffee shop on the steps up to Nikola Đurković Square, with nitro coffee too.'),
   place('herceg-novi-cafe-5', 'herceg-novi', 'cafe', 'Coffee Novi', '106 Njegoševa, Herceg Novi', '필터 커피가 대표인 커피숍. 컵을 가져가면 10% 할인해 줍니다.', 'Coffee shop best known for filter coffee; 10% off if you bring your own cup.'),
+
+  // —— cetinje: restaurants, bakeries and cafés (2026-11-07) ——
+  place('cetinje-fine_dining-1', 'cetinje', 'fine_dining', 'Verige Restaurant', 'Mojkovačka bb (Donji kraj 24), 81250 Cetinje, Montenegro', '고기 요리로 이름난 몬테네그로 식당.', 'Montenegrin restaurant known for its grilled meats.'),
+  place('cetinje-fine_dining-2', 'cetinje', 'fine_dining', 'Kole Restaurant', 'Bulevar Crnogorskih junaka 12, 81250 Cetinje, Montenegro', '몬테네그로 가정식 식당.', 'Restaurant serving Montenegrin home cooking.'),
+  place('cetinje-fine_dining-3', 'cetinje', 'fine_dining', 'Restoran TavèRna', 'Baja Pivljanina 61, 81250 Cetinje, Montenegro', '시내의 몬테네그로 요리 식당.', 'Montenegrin restaurant in town.'),
+  place('cetinje-fine_dining-4', 'cetinje', 'fine_dining', 'Konoba Korzo', 'Njegoševa 24, 81250 Cetinje, Montenegro', '중심 거리의 작은 선술집 식당.', 'Small tavern on the main street.'),
+  place('cetinje-fine_dining-5', 'cetinje', 'fine_dining', 'National Restaurant Belveder', 'Cetinje, Montenegro', '시내 외곽 전망 좋은 곳의 전통 요리 식당.', 'Traditional restaurant with views on the edge of town.'),
+
+  // —— zabljak: restaurants, bakeries and cafés (2026-11-07) ——
+  place('zabljak-fine_dining-1', 'zabljak', 'fine_dining', 'Krčma Nostalgija', 'Vuka Karadžića, 84220 Žabljak, Montenegro', '산골 분위기의 몬테네그로 요리 선술집.', 'Mountain-style tavern serving Montenegrin food.'),
+  place('zabljak-fine_dining-2', 'zabljak', 'fine_dining', 'Restaurant Or\'O', 'Njegoševa, 84220 Žabljak, Montenegro', '시내 중심의 식당.', 'Restaurant in the town centre.'),
+  place('zabljak-fine_dining-3', 'zabljak', 'fine_dining', 'Podgora', 'Božidara Žugića, 84220 Žabljak, Montenegro', '산악 지방 전통 요리 식당.', 'Restaurant serving traditional mountain dishes.'),
+
+  // —— ulcinj: restaurants, bakeries and cafés (2026-11-07) ——
+  place('ulcinj-fine_dining-1', 'ulcinj', 'fine_dining', 'Restaurant Dulcinea 1984', '85360 Ulcinj, Montenegro', '해산물로 이름난 레스토랑.', 'Restaurant known for its seafood.'),
+  place('ulcinj-fine_dining-2', 'ulcinj', 'fine_dining', 'Konoba Barutana', '85360 Ulcinj, Montenegro', '구시가 근처의 지중해 요리 선술집.', 'Mediterranean tavern near the old town.'),
+  place('ulcinj-fine_dining-3', 'ulcinj', 'fine_dining', 'Terra Promessa', '85360 Ulcinj, Montenegro', '해산물 레스토랑.', 'Seafood restaurant.'),
+  place('ulcinj-cafe-1', 'ulcinj', 'cafe', 'Coda Pastry & Brunch', '85360 Ulcinj, Montenegro', '페이스트리와 브런치를 내는 카페.', 'Café serving pastries and brunch.'),
+  place('ulcinj-cafe-2', 'ulcinj', 'cafe', 'Buongiorno Caffe', 'Rruga Vëllezërit Frashëri, 85360 Ulcinj, Montenegro', '시내의 카페 겸 비스트로.', 'Café-bistro in town.'),
+  place('ulcinj-bakery-1', 'ulcinj', 'bakery', 'Univers Bakery', 'Kodre, 85360 Ulcinj, Montenegro', '동네 빵집.', 'Neighbourhood bakery.'),
+
+  // —— perast: restaurants, bakeries and cafés (2026-11-07) ——
+  place('perast-fine_dining-1', 'perast', 'fine_dining', 'Restaurant Conte', 'Ul. Marka Martinovića bb, 85336 Perast, Montenegro', '바닷가 호텔의 지중해 요리 레스토랑.', 'Mediterranean restaurant in a waterfront hotel.'),
+  place('perast-fine_dining-2', 'perast', 'fine_dining', 'Perast Bistro', 'Obala Marka Martinovića bb, 85336 Perast, Montenegro', '바닷가의 피자·비스트로.', 'Waterfront bistro and pizzeria.'),
+  place('perast-fine_dining-3', 'perast', 'fine_dining', 'Calletta', '85336 Perast, Montenegro', '마을 안 작은 식당 겸 바.', 'Small restaurant and bar in the village.'),
 ]
