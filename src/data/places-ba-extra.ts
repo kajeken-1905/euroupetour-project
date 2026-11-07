@@ -43,4 +43,30 @@ export const placesBAExtra: Place[] = [
   place('neum-fine_dining-1', 'neum', 'fine_dining', 'Restoran Laguna', 'Kralja Tomislava 26, Neum 88390', '바다 가까운 해산물 레스토랑. 굴·해산물 리조토·생선 모둠.', 'Seafood restaurant near the sea: oysters, seafood risotto and fish platters.'),
   place('neum-fine_dining-2', 'neum', 'fine_dining', 'Villa Dom Restoran Pizzeria', 'Primorska 79, Neum', '해변 쪽 지중해식 피자·해산물 레스토랑.', 'Mediterranean pizza and seafood restaurant by the sea.'),
   place('neum-fine_dining-3', 'neum', 'fine_dining', 'Caffe Grill Adriatic', 'Kamenice bb, Neum 88390', '도로변 그릴 레스토랑. 그릴 고기와 생선.', 'Roadside grill restaurant with grilled meat and fish.'),
+
+  // —— jajce: restaurants, bakeries and cafés (2026-11-07) ——
+  place('jajce-fine_dining-1', 'jajce', 'fine_dining', 'Restoran Stari grad', 'Svetog Luke 3, 70101 Jajce, Bosnia and Herzegovina', '구시가 성 루카 탑 근처의 보스니아 요리 식당.', 'Bosnian restaurant near the Tower of St Luke in the old town.'),
+  place('jajce-fine_dining-2', 'jajce', 'fine_dining', 'La Casa', 'Hrvoja Vukčića Hrvatinića, 70101 Jajce, Bosnia and Herzegovina', '구시가 중심 거리의 가정식 식당.', 'Home-style restaurant on the old town’s main street.'),
+  place('jajce-fine_dining-3', 'jajce', 'fine_dining', 'Restoran Cosmopolit', 'Hrvoja Vukčića Hrvatinića, 70101 Jajce, Bosnia and Herzegovina', '중심 거리의 보스니아 요리 식당.', 'Bosnian restaurant on the main street.'),
+  place('jajce-fine_dining-4', 'jajce', 'fine_dining', 'Svemirko pub', 'Maršala Tita 51, 70101 Jajce, Bosnia and Herzegovina', '버거와 간단한 식사를 내는 펍.', 'Pub serving burgers and simple meals.'),
+  place('jajce-cafe-1', 'jajce', 'cafe', 'Caffe slastičarna Passionis', 'Hrvoja Vukčića Hrvatinića, 70101 Jajce, Bosnia and Herzegovina', '케이크를 함께 파는 카페.', 'Café and cake shop.'),
+  place('jajce-bakery-1', 'jajce', 'bakery', 'Granny Kate\'s', 'Kulina bana 28, 70101 Jajce, Bosnia and Herzegovina', '수제 빵과 페이스트리 가게.', 'Shop for homemade bread and pastries.'),
+
+  // —— visegrad: restaurants, bakeries and cafés (2026-11-07) ——
+  place('visegrad-fine_dining-1', 'visegrad', 'fine_dining', 'Anika', 'Ive Andrića 36, 73240 Višegrad, Bosnia and Herzegovina', '다리 근처의 세르비아·보스니아 요리 식당 겸 숙소.', 'Serbian-Bosnian restaurant with rooms near the bridge.'),
+  place('visegrad-fine_dining-2', 'visegrad', 'fine_dining', 'Restaurant Višegrad', 'Ive Andrića, 73240 Višegrad, Bosnia and Herzegovina', '이보 안드리치 거리의 세르비아 요리 식당.', 'Serbian restaurant on Ive Andrića Street.'),
+  place('visegrad-fine_dining-3', 'visegrad', 'fine_dining', 'Ćevabdžinica Kasaba', 'Andrićgrad bb, 73240 Višegrad, Bosnia and Herzegovina', '안드리치그라드 안의 체바피 식당.', 'Ćevapi grill inside Andrićgrad.'),
+
+  // —— trebinje: restaurants, bakeries and cafés (2026-11-07) ——
+  place('trebinje-fine_dining-1', 'trebinje', 'fine_dining', 'Restoran Kukurića Vrtovi', 'Obala Mića Ljubibratića, 89101 Trebinje, Bosnia and Herzegovina', '강가 정원 좌석이 있는 헤르체고비나 요리 식당.', 'Herzegovinian restaurant with a riverside garden.'),
+  place('trebinje-fine_dining-2', 'trebinje', 'fine_dining', 'Restoran MG', 'Majke Jugovića 11, 89101 Trebinje, Bosnia and Herzegovina', '시내의 지역 요리 식당.', 'Local restaurant in the town centre.'),
+  place('trebinje-fine_dining-3', 'trebinje', 'fine_dining', 'Harizma', 'Španska bb, 89101 Trebinje, Bosnia and Herzegovina', '시내의 레스토랑.', 'Restaurant in town.'),
+  place('trebinje-cafe-1', 'trebinje', 'cafe', 'Grk', 'Stari grad 150, 89101 Trebinje, Bosnia and Herzegovina', '구시가 안의 카페.', 'Café inside the old town.'),
+  place('trebinje-cafe-2', 'trebinje', 'cafe', 'Lilly\'s Trebinje', 'Kralja Petra I Oslobodioca, 89101 Trebinje, Bosnia and Herzegovina', '케이크 카페.', 'Cake café.'),
+  place('trebinje-bakery-1', 'trebinje', 'bakery', 'Caffe Hercegovac', 'Hercegnovska, 89101 Trebinje, Bosnia and Herzegovina', '빵과 페이스트리를 파는 가게.', 'Bakery and pastry shop.'),
+
+  // —— srebrenica: restaurants, bakeries and cafés (2026-11-07) ——
+  place('srebrenica-fine_dining-1', 'srebrenica', 'fine_dining', 'UR Azemina', 'Vase Jovanovića, 75430 Srebrenica, Bosnia and Herzegovina', '가정식을 내는 작은 식당.', 'Small restaurant serving home cooking.'),
+  place('srebrenica-fine_dining-2', 'srebrenica', 'fine_dining', 'Restoran Bato', 'Maršala Tita, 75430 Srebrenica, Bosnia and Herzegovina', '구이 요리 식당.', 'Grill restaurant.'),
+  place('srebrenica-cafe-1', 'srebrenica', 'cafe', 'Cafe bar 42', 'Vase Jovanovića, 75430 Srebrenica, Bosnia and Herzegovina', '마을 중심의 카페.', 'Café in the town centre.'),
 ]

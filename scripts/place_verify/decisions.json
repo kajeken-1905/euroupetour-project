@@ -6654,6 +6654,30 @@
 "name": "Sakız Alsancak",
 "ok": 1
 },
+"jajce-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"jajce-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"jajce-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"jajce-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"jajce-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"jajce-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
 "jurmala-bakery-1": {
 "del": "Vienības prospekts 35 is only the company's registered address; no shop confirmed there"
 },
@@ -13869,6 +13893,18 @@
 "ko": "디오클레티아누스 궁전 안 작은 광장의 레스토랑. 스테이크·파스타·해산물을 냅니다.",
 "ok": 1
 },
+"srebrenica-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"srebrenica-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"srebrenica-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
 "sremski-karlovci-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-06 google maps"
@@ -15278,6 +15314,30 @@
 "travnik-fine_dining-3": {
 "del": 1
 },
+"trebinje-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"trebinje-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"trebinje-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"trebinje-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"trebinje-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"trebinje-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
 "trencin-bakery-1": {
 "del": 1
 },
@@ -16312,6 +16372,18 @@
 "en": "Korean restaurant on Vokiečių street in the Old Town.",
 "ko": "구시가 보키에치우 거리의 한식당. 김치와 한식 요리를 냅니다.",
 "ok": 1
+},
+"visegrad-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"visegrad-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps"
+},
+"visegrad-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps"
 },
 "vladivostok-cafe-1": {
 "ok": 1,
