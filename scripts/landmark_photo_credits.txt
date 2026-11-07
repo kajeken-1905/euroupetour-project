@@ -2246,3 +2246,4 @@ highlights/mostar-8.jpg | https://commons.wikimedia.org/wiki/File:Kravica_Waterf
 highlights/mostar-9.jpg | https://commons.wikimedia.org/wiki/File:Po%C4%8Ditelj_-_pano.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
 highlights/banja-luka-6.jpg | https://commons.wikimedia.org/wiki/File:Banski_dvor_Banja_Luka.jpg | CC0 | ArhistefoBL
 highlights/travnik-6.jpg | https://commons.wikimedia.org/wiki/File:Plava_voda_belo_nebo.jpg | CC BY-SA 4.0 | Mirvladimir
+highlights/killarney-2.jpg | https://commons.wikimedia.org/wiki/File:Ireland_Muckross_House_BW_2025-09-12_17-10-11.jpg | CC BY-SA 4.0 | Berthold Werner
