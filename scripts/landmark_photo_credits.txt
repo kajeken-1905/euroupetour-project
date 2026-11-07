@@ -2350,3 +2350,38 @@ highlights/hamburg-11.jpg | https://commons.wikimedia.org/wiki/File:R%C3%BCcksei
 highlights/potsdam-6.jpg | https://commons.wikimedia.org/wiki/File:Alexandrowka_Potsdam_2.JPG | CC BY-SA 3.0 | Superchilum
 highlights/potsdam-7.jpg | https://commons.wikimedia.org/wiki/File:Glienicker_Br%C3%BCcke_in_Potsdam_(2025).jpg | CC BY-SA 4.0 | JoachimKohler-HB
 highlights/potsdam-8.jpg | https://commons.wikimedia.org/wiki/File:Babelsberg_Filmpark_Lion_20220907_152627.jpg | CC BY-SA 4.0 | Rigorius
+highlights/cologne-6.jpg | https://commons.wikimedia.org/wiki/File:K%C3%B6ln,_Drehbr%C3%BCcke_am_Schokoladenmuseum_--_2014_--_1824.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/cologne-7.jpg | https://commons.wikimedia.org/wiki/File:Peters_Brauhaus,_K%C3%B6ln-8848.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/cologne-8.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9F_St._Martin_-_Stapelhaus_-_Rathausturm_-_Abend%C3%A4mmerung_(9733_4_5).jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/cologne-9.jpg | https://commons.wikimedia.org/wiki/File:Museum_Ludwig_K%C3%B6ln_-_S%C3%BCdansicht.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/cologne-10.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Augustusburg,_Southern_Facade,_November_2017_-02.jpg | CC BY-SA 4.0 | Martin Falbisoner
+highlights/frankfurt-7.jpg | https://commons.wikimedia.org/wiki/File:Goethe-Haus_in_Frankfurt_am_Main.jpg | CC BY-SA 3.0 | Munin2005
+highlights/frankfurt-8.jpg | https://commons.wikimedia.org/wiki/File:Kaiserdom_St._Bartholom%C3%A4us_-_Frankfurt_-_Germany_-_01.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/frankfurt-9.jpg | https://commons.wikimedia.org/wiki/File:Kleinmarkthalle_Frankfurt_Einblick.jpg | CC BY-SA 2.5 | EvaK
+highlights/rudesheim-5.jpg | https://commons.wikimedia.org/wiki/File:Cloister,_Kloster_Eberbach_20140903_1.jpg | CC BY-SA 3.0 de | DXR
+highlights/leipzig-6.jpg | https://commons.wikimedia.org/wiki/File:Nikolaikirche_Leipzig_2009.jpg | CC BY-SA 3.0 | Appaloosa
+highlights/leipzig-7.jpg | https://commons.wikimedia.org/wiki/File:Leipzig_Bach-Museum_Bach-Archiv_2.jpg | CC BY 3.0 | Photo: Andreas Praefcke
+highlights/leipzig-8.jpg | https://commons.wikimedia.org/wiki/File:Zeitgeschichtliches-forum-leipzig-2026.jpg | CC BY 4.0 | Kaethe17
+highlights/dresden-7.jpg | https://commons.wikimedia.org/wiki/File:Dresden_Germany_Exterior-of-Semperoper-01a.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+highlights/dresden-8.jpg | https://commons.wikimedia.org/wiki/File:Dresden_F%C3%BCrstenzug_03.JPG | CC BY-SA 4.0 | Ad Meskens
+highlights/dresden-9.jpg | https://commons.wikimedia.org/wiki/File:20070114615DR_Dresden-Neustadt_Pfunds_Molkerei.jpg | CC BY-SA 4.0 | Jörg Blobelt
+highlights/dresden-10.jpg | https://commons.wikimedia.org/wiki/File:Basteibr%C3%BCcke_morgens.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/dresden-11.jpg | https://commons.wikimedia.org/wiki/File:32568-Mei%C3%9Fen-2002-Porzellan-Manufaktur-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg | CC BY-SA 4.0 | Klaus Tänzer
+highlights/munich-10.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Viktualienmarkt,_Ladenzeile_--_2011_--_1.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/munich-11.jpg | https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich_view_from_Peterskirche_Tower.jpg | CC BY 4.0 | AuHaidhausen
+highlights/munich-12.jpg | https://commons.wikimedia.org/wiki/File:Antiquarium,_M%C3%BCnchner_Residenz.jpg | CC0 | Wilfredor
+highlights/munich-13.jpg | https://commons.wikimedia.org/wiki/File:Deutsches_Museum_Munich_2014_01.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/munich-14.jpg | https://commons.wikimedia.org/wiki/File:Olympiapark_M%C3%BCnchen.jpg | CC BY-SA 4.0 | Tobi 87
+highlights/munich-15.jpg | https://commons.wikimedia.org/wiki/File:Kloster_Andechs-1.jpg | CC BY-SA 3.0 | Rufus46
+highlights/heidelberg-6.jpg | https://commons.wikimedia.org/wiki/File:Baden-W%C3%BCrttemberg_Heidelberg_Heiliggeistkirche_01.jpg | CC BY-SA 3.0 | Calips
+highlights/heidelberg-7.jpg | https://commons.wikimedia.org/wiki/File:K%C3%B6nigstuhl,_Heidelberg,_U-17.jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/stuttgart-5.jpg | https://commons.wikimedia.org/wiki/File:Grabkapelle_auf_dem_W%C3%BCrttemberg_Stuttgart_Rotenberg_2015_03.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/stuttgart-6.jpg | https://commons.wikimedia.org/wiki/File:Alte_Staatsgalerie_Stuttgart_2013_02.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/stuttgart-7.jpg | https://commons.wikimedia.org/wiki/File:Residenzschloss_Ludwigsburg_2019-04-22b_(cropped).jpg | CC BY-SA 4.0 | Maulaff
+highlights/rothenburg-6.jpg | https://commons.wikimedia.org/wiki/File:K%C3%A4the_Wohlfahrt_Weihnachtsdorf_in_Rothenburg_ob_der_Tauber.JPG | CC BY-SA 4.0 | Avi1111 dr. avishai teicher
+highlights/rothenburg-7.jpg | https://commons.wikimedia.org/wiki/File:St._Jakob_Rothenburg_Umgebung_2014.jpg | CC BY-SA 3.0 | Tuxyso
+highlights/nuremberg-6.jpg | https://commons.wikimedia.org/wiki/File:Albrecht-D%C3%BCrer-Haus_(N%C3%BCrnberg-St._Sebald).Umgebung.fw13.ajb.jpg | CC BY-SA 3.0 de | Ajepbah
+highlights/nuremberg-7.jpg | https://commons.wikimedia.org/wiki/File:Germanisches-Nationalmuseum-Nuernberg-2012.jpg | CC BY-SA 3.0 | Tuxyso
+highlights/nuremberg-8.jpg | https://commons.wikimedia.org/wiki/File:Nuernberg_Felsengaenge_002.JPG | Public domain | Janericloebe
+highlights/wurzburg-6.jpg | https://commons.wikimedia.org/wiki/File:Juliusspital_W%C3%BCrzburg_F%C3%BCrstenbau.jpg | CC BY-SA 3.0 | Bbb
+highlights/fussen-6.jpg | https://commons.wikimedia.org/wiki/File:Steingaden_-_Wieskirche,_Kapelle_v_N,_Winter.JPG | CC BY-SA 3.0 | Flodur63

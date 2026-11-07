@@ -3077,5 +3077,410 @@
     52.38658,
     13.11609,
     "OSM Nominatim: Filmpark Babelsberg, 200, Großbeerenstraße, Babelsberg Süd,  (Wikipedia 231m)"
+  ],
+  "cochem-h5": [
+    50.14544,
+    7.16588,
+    "OSM Nominatim: Markt, Cochem (by the Rathaus)"
+  ],
+  "rudesheim-h4": [
+    49.97744,
+    7.92467,
+    "OSM Overpass: Rüdesheim landing stages (pier 10, KD piers 9 and 11 beside it)"
+  ],
+  "cologne-h2": [
+    50.93918,
+    6.96004,
+    "OSM Nominatim: Alter Markt, Martinsviertel, Altstadt-Nord, Innenstadt, Köln (Wikipedia 596m)"
+  ],
+  "cologne-h5": [
+    50.93855,
+    6.96304,
+    "OSM Nominatim: Frankenwerft, Martinsviertel, Altstadt-Nord, Innenstadt, Köl (Wikipedia 758m)"
+  ],
+  "cologne-h6": [
+    50.93198,
+    6.96444,
+    "OSM Nominatim: Schokoladenmuseum, 1a, Am Schokoladenmuseum, Rheinauhafen, A"
+  ],
+  "cologne-h7": [
+    50.93977,
+    6.95696,
+    "OSM Nominatim: Brauhaus Früh am Dom, 12, Am Hof, Martinsviertel, Altstadt-N (Wikipedia 476m)"
+  ],
+  "cologne-h8": [
+    50.93858,
+    6.96162,
+    "OSM Nominatim: Groß Sankt Martin, 8, Martinspförtchen, Martinsviertel, Alts (Wikipedia 13m)"
+  ],
+  "cologne-h9": [
+    50.94083,
+    6.96002,
+    "OSM Nominatim: Museum Ludwig, Heinrich-Böll-Platz, Martinsviertel, Altstadt (Wikipedia 18m)"
+  ],
+  "cologne-h10": [
+    50.8284,
+    6.90774,
+    "OSM Nominatim: Schloss Augustusburg, 6, Schloßstraße, Kierberg, Brühl, Rhei (Wikipedia 103m)"
+  ],
+  "cochem-h1": [
+    50.14223,
+    7.16709,
+    "OSM Nominatim: Reichsburg Cochem, Oberstadt, Cond, Cochem, Landkreis Cochem"
+  ],
+  "cochem-h2": [
+    50.13862,
+    7.17409,
+    "OSM Nominatim: Moselpromenade, Sehl, Cochem, Landkreis Cochem-Zell, Rheinla"
+  ],
+  "cochem-h3": [
+    50.1501,
+    7.16158,
+    "OSM Nominatim: Cochemer Sesselbahn, 44, Endertstraße, Oberstadt, Cond, Coch (Wikipedia 505m)"
+  ],
+  "cochem-h4": [
+    50.20507,
+    7.33677,
+    "OSM Nominatim: Burg Eltz, Wierschem, Maifeld, Landkreis Mayen-Koblenz, Rhei (Wikipedia 13m)"
+  ],
+  "frankfurt-h3": [
+    50.10329,
+    8.67386,
+    "OSM Nominatim: Städel Museum, 63, Schaumainkai, Sachsenhausen Nord, Sachsen (Wikipedia 8m)"
+  ],
+  "frankfurt-h5": [
+    50.10571,
+    8.69095,
+    "OSM Nominatim: Alt-Sachsenhausen, Ehemalige Auslagergasse, Sachsenhausen No (Wikipedia 257m)"
+  ],
+  "frankfurt-h7": [
+    50.1112,
+    8.67759,
+    "OSM Nominatim: Goethe-Haus, 23-25, Großer Hirschgraben, Altstadt, Innenstad (Wikipedia 12m)"
+  ],
+  "frankfurt-h8": [
+    50.11067,
+    8.68534,
+    "OSM Nominatim: Kaiserdom St. Bartholomäus, 1, Domplatz, Altstadt, Innenstad (Wikipedia 27m)"
+  ],
+  "frankfurt-h9": [
+    50.11272,
+    8.68304,
+    "OSM Nominatim: Kleinmarkthalle, 5-7, Hasengasse, Altstadt, Innenstadt 1, Fr"
+  ],
+  "rudesheim-h1": [
+    49.97835,
+    7.9208,
+    "OSM Nominatim: Drosselgasse, Rüdesheim, Alt-Rüdesheim, Rüdesheim am Rhein,  (Wikipedia 891m)"
+  ],
+  "rudesheim-h2": [
+    49.9811,
+    7.89976,
+    "OSM Nominatim: Niederwalddenkmal, Frenzer Weg, Rüdesheim, Alt-Rüdesheim, Rü (Wikipedia 30m)"
+  ],
+  "rudesheim-h3": [
+    49.97928,
+    7.91993,
+    "OSM Nominatim: Siegfrieds Mechanisches Musikkabinett, 29, Oberstraße, Rüdes (Wikipedia 884m)"
+  ],
+  "rudesheim-h5": [
+    50.04343,
+    8.04646,
+    "OSM Nominatim: Kloster Eberbach, Kreuzgang, Hattenheim, Eltville am Rhein,  (Wikipedia 105m)"
+  ],
+  "leipzig-h3": [
+    51.33911,
+    12.37499,
+    "OSM Nominatim: Mädlerpassage, Zentrum, Mitte, Leipzig, Sachsen, 04109, Deut"
+  ],
+  "leipzig-h5": [
+    51.32795,
+    12.31989,
+    "OSM Nominatim: Spinnerei, Spinnereistraße, Neulindenau, Altwest, Leipzig, S"
+  ],
+  "leipzig-h6": [
+    51.34032,
+    12.37855,
+    "OSM Nominatim: Nikolaikirche, 4b, Nikolaikirchhof, Zentrum, Mitte, Leipzig, (Wikipedia 6m)"
+  ],
+  "leipzig-h7": [
+    51.33879,
+    12.37233,
+    "OSM Nominatim: Bach-Museum Leipzig, 15-16, Thomaskirchhof, Zentrum, Mitte, "
+  ],
+  "leipzig-h8": [
+    51.33979,
+    12.37573,
+    "OSM Nominatim: Zeitgeschichtliches Forum, 6, Grimmaische Straße, Zentrum, M (Wikipedia 56m)"
+  ],
+  "dresden-h7": [
+    51.05454,
+    13.73523,
+    "OSM Nominatim: Semperoper, 2, Theaterplatz, Innere Altstadt, Altstadt, Dres (Wikipedia 11m)"
+  ],
+  "dresden-h8": [
+    51.05276,
+    13.73897,
+    "OSM Nominatim: Fürstenzug, Stallhof, Innere Altstadt, Altstadt, Dresden, Sa (Wikipedia 14m)"
+  ],
+  "dresden-h9": [
+    51.0638,
+    13.75982,
+    "OSM Nominatim: Pfunds Molkerei, 79, Bautzner Straße, Äußere Neustadt, Neust"
+  ],
+  "dresden-h10": [
+    50.96174,
+    14.073,
+    "OSM Nominatim: Basteibrücke, Lohmen, Lohmen/Stadt Wehlen, Sächsische Schwei (Wikipedia 125m)"
+  ],
+  "dresden-h11": [
+    51.15709,
+    13.46613,
+    "OSM Nominatim: Porzellan-Manufaktur, Talstraße, Rauenthal, Meißen, Sachsen, (Wikipedia 171m)"
+  ],
+  "rothenburg-h7": [
+    49.37791,
+    10.17766,
+    "OSM Nominatim: St. Jakob, Kirchplatz 14, Rothenburg"
+  ],
+  "nuremberg-h8": [
+    49.45698,
+    11.07488,
+    "OSM Nominatim: Felsengänge tour meeting point, Bergstraße 19, Nürnberg"
+  ],
+  "regensburg-h2": [
+    49.01948,
+    12.09833,
+    "OSM Nominatim: Dom Sankt Peter, Domplatz 1, Regensburg"
+  ],
+  "regensburg-h6": [
+    49.01495,
+    12.09254,
+    "OSM Nominatim: Schloss St. Emmeram cloister, Regensburg"
+  ],
+  "heidelberg-h2": [
+    49.41209,
+    8.71146,
+    "OSM Nominatim: Hauptstraße, Altstadt, Heidelberg, Baden-Württemberg, 69117, (Wikipedia 633m)"
+  ],
+  "heidelberg-h6": [
+    49.4121,
+    8.70966,
+    "OSM Nominatim: Heiliggeistkirche, 189, Hauptstraße, Altstadt, Heidelberg, B (Wikipedia 21m)"
+  ],
+  "heidelberg-h7": [
+    49.40266,
+    8.72979,
+    "OSM Nominatim: Königstuhl, Heidelberg, Baden-Württemberg, 69117, Deutschlan (Wikipedia 577m)"
+  ],
+  "stuttgart-h5": [
+    48.78204,
+    9.26874,
+    "OSM Nominatim: Grabkapelle auf dem Württemberg, 350, Württembergstraße, Rot (Wikipedia 14m)"
+  ],
+  "stuttgart-h6": [
+    48.78021,
+    9.18711,
+    "OSM Nominatim: Staatsgalerie, 30 - 32, Konrad-Adenauer-Straße, Oberer Schlo (Wikipedia 17m)"
+  ],
+  "stuttgart-h7": [
+    48.90016,
+    9.19655,
+    "OSM Nominatim: Schloss Ludwigsburg, 30, Schlossstraße, Ludwigsburg - Mitte, (Wikipedia 55m)"
+  ],
+  "rothenburg-h3": [
+    49.37942,
+    10.17539,
+    "OSM Nominatim: Stadtmauer, Klosterweth, Schlößlein, Rothenburg ob der Taube (Wikipedia 721m)"
+  ],
+  "rothenburg-h5": [
+    49.37596,
+    10.17376,
+    "OSM Nominatim: Burggarten, Schlößlein, Rothenburg ob der Tauber, Landkreis "
+  ],
+  "rothenburg-h6": [
+    49.37683,
+    10.17839,
+    "OSM Nominatim: Deutsches Weihnachtsmuseum, 1, Herrngasse, Schlößlein, Rothe (Wikipedia 807m)"
+  ],
+  "nuremberg-h4": [
+    49.43384,
+    11.11247,
+    "OSM Nominatim: Dokumentationszentrum Reichsparteitagsgelände, 110, Bayernst (Wikipedia 23m)"
+  ],
+  "nuremberg-h6": [
+    49.45716,
+    11.0738,
+    "OSM Nominatim: Albrecht-Dürer-Haus, Neutormauer, Altstadt, St. Sebald, Alts (Wikipedia 10m)"
+  ],
+  "nuremberg-h7": [
+    49.44808,
+    11.07616,
+    "OSM Nominatim: Germanisches Nationalmuseum, 1, Kartäusergasse, Altstadt, St (Wikipedia 51m)"
+  ],
+  "bamberg-h1": [
+    49.89166,
+    10.88679,
+    "OSM Nominatim: Altes Rathaus, 1, Obere Brücke, Haingebiet, Inselstadt, Bamb"
+  ],
+  "bamberg-h2": [
+    49.89073,
+    10.88252,
+    "OSM Nominatim: Bamberger Dom, 6, Domplatz, Berggebiet, Bamberg, Bayern, 960 (Wikipedia 12m)"
+  ],
+  "bamberg-h3": [
+    49.89185,
+    10.88242,
+    "OSM Nominatim: Neue Residenz, 8, Domplatz, Berggebiet, Bamberg, Bayern, 960"
+  ],
+  "bamberg-h4": [
+    49.89361,
+    10.88386,
+    "OSM Nominatim: Klein Venedig, Fischerei, Haingebiet, Inselstadt, Bamberg, B (Wikipedia 332m)"
+  ],
+  "bamberg-h5": [
+    49.89169,
+    10.88501,
+    "OSM Nominatim: Schlenkerla, 6, Dominikanerstraße, Haingebiet, Inselstadt, B (Wikipedia 21m)"
+  ],
+  "wurzburg-h1": [
+    49.79281,
+    9.93918,
+    "OSM Nominatim: Residenz Würzburg, 2, Residenzplatz, Innenstadt, Würzburg Al (Wikipedia 41m)"
+  ],
+  "wurzburg-h2": [
+    49.7898,
+    9.91924,
+    "OSM Nominatim: Festung Marienberg, Echtersche Vorburg, Würzburg Altstadt, W (Wikipedia 154m)"
+  ],
+  "wurzburg-h3": [
+    49.79298,
+    9.92566,
+    "OSM Nominatim: Alte Mainbrücke, Mainviertel, Würzburg Altstadt, Würzburg, B"
+  ],
+  "wurzburg-h4": [
+    49.79341,
+    9.93231,
+    "OSM Nominatim: Dom St. Kilian, 42, Domstraße, Innenstadt, Würzburg Altstadt (Wikipedia 11m)"
+  ],
+  "wurzburg-h5": [
+    49.78433,
+    9.92193,
+    "OSM Nominatim: Käppele, Spittelbergweg, Steinbachtal, Würzburg, Bayern, 970 (Wikipedia 3m)"
+  ],
+  "wurzburg-h6": [
+    49.79792,
+    9.93206,
+    "OSM Nominatim: Juliusspital, Juliuspromenade, Innenstadt, Würzburg Altstadt (Wikipedia 39m)"
+  ],
+  "regensburg-h1": [
+    49.02261,
+    12.09723,
+    "OSM Nominatim: Steinerne Brücke, Ostermayer-Viertel, Altstadt, Regensburg,  (Wikipedia 18m)"
+  ],
+  "regensburg-h3": [
+    49.01971,
+    12.09281,
+    "OSM Nominatim: Haidplatz, Altstadt, Regensburg, Bayern, 93047, Deutschland (Wikipedia 770m)"
+  ],
+  "regensburg-h4": [
+    49.02091,
+    12.09755,
+    "OSM Nominatim: Historische Wurstkuchl, 3, Thundorferstraße, Ostermayer-Vier"
+  ],
+  "regensburg-h5": [
+    49.03114,
+    12.22406,
+    "OSM Nominatim: Walhalla, Fußweg zur Walhalla, Reiflding, Sulzbach an der Do (Wikipedia 38m)"
+  ],
+  "munich-h10": [
+    48.13533,
+    11.57622,
+    "OSM Nominatim: Viktualienmarkt, Angerviertel, Altstadt-Lehel, München, Baye (Wikipedia 10m)"
+  ],
+  "munich-h11": [
+    48.13858,
+    11.57359,
+    "OSM Nominatim: Frauenkirche, 1, Frauenplatz, Kreuzviertel, Altstadt-Lehel,  (Wikipedia 22m)"
+  ],
+  "munich-h12": [
+    48.14081,
+    11.57755,
+    "OSM Nominatim: Residenz München, Residenzstraße, Graggenauerviertel, Altsta (Wikipedia 50m)"
+  ],
+  "munich-h13": [
+    48.13004,
+    11.58291,
+    "OSM Nominatim: Deutsches Museum, 1, Museumsinsel, Gärtnerplatz, Isarvorstad (Wikipedia 29m)"
+  ],
+  "munich-h14": [
+    48.16871,
+    11.55036,
+    "OSM Nominatim: Olympiapark, München, Bayern, Deutschland (Wikipedia 146m)"
+  ],
+  "munich-h15": [
+    47.97445,
+    11.18314,
+    "OSM Nominatim: Kloster Andechs, Andechs, Landkreis Starnberg, Bayern, 82346 (Wikipedia 56m)"
+  ],
+  "berchtesgaden-h1": [
+    47.58803,
+    12.98884,
+    "OSM Nominatim: Königssee Seelände, Steg 1, Königssee, Schönau am Königssee,"
+  ],
+  "berchtesgaden-h2": [
+    47.5447,
+    12.97216,
+    "OSM Nominatim: Sankt Bartholomä, 1, Sankt Bartholomä, Königssee, Schönau am"
+  ],
+  "berchtesgaden-h3": [
+    47.63166,
+    13.04082,
+    "OSM Nominatim: Dokumentation Obersalzberg, Salzbergstraße, Untersalzberg I, (Wikipedia 40m)"
+  ],
+  "berchtesgaden-h4": [
+    47.63769,
+    13.01775,
+    "OSM Nominatim: Salzbergwerk Berchtesgaden, 83, Bergwerkstraße, Kropfleiten,"
+  ],
+  "berchtesgaden-h5": [
+    47.63276,
+    13.00147,
+    "OSM Nominatim: Marktplatz, Untersalzberg II, Mitterbach, Berchtesgaden, Lan (Wikipedia 253m)"
+  ],
+  "garmisch-partenkirchen-h1": [
+    47.42121,
+    10.9863,
+    "OSM Nominatim: Zugspitze, Grainau, Landkreis Garmisch-Partenkirchen, Bayern (Wikipedia 78m)"
+  ],
+  "garmisch-partenkirchen-h2": [
+    47.46465,
+    11.12212,
+    "OSM Nominatim: Partnachklamm, Vordergraseck, Garmisch-Partenkirchen, Landkr (Wikipedia 567m)"
+  ],
+  "garmisch-partenkirchen-h3": [
+    47.45825,
+    10.97084,
+    "OSM Nominatim: Eibsee, Grainau, Landkreis Garmisch-Partenkirchen, Bayern, D (Wikipedia 174m)"
+  ],
+  "garmisch-partenkirchen-h4": [
+    47.49484,
+    11.10957,
+    "OSM Nominatim: Ludwigstraße, Partenkirchen, Garmisch-Partenkirchen, Landkre"
+  ],
+  "garmisch-partenkirchen-h5": [
+    47.48151,
+    11.11765,
+    "OSM Nominatim: Olympia-Skistadion, Auenstraße, Kainzenbad, Garmisch-Partenk"
+  ],
+  "fussen-h6": [
+    47.68058,
+    10.90054,
+    "OSM Nominatim: Wieskirche, 14, Wies, Steingaden, Steingaden (VGem), Landkre (Wikipedia 72m)"
+  ],
+  "heidelberg-h4": [
+    49.41418,
+    8.70956,
+    "OSM Nominatim: Alte Brücke, Altstadt, Heidelberg, Baden-Württemberg, 69117,"
   ]
 }
