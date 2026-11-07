@@ -2852,5 +2852,75 @@
     42.51282,
     18.69702,
     "OSM Nominatim: Rimski mozaici, Ulica  X, Risan, Opština Kotor, 85337, Crna  (Wikipedia 268m)"
+  ],
+  "peja-h1": [
+    42.69222,
+    20.16861,
+    "Wikipedia: Rugova Canyon"
+  ],
+  "pristina-h4": [
+    42.65637,
+    21.15935,
+    "OSM Overpass: Katedralja Shën Nënë Tereza"
+  ],
+  "pristina-h6": [
+    42.66699,
+    21.16701,
+    "OSM Overpass: Xhamia e Madhe (Imperial/Fatih Mosque)"
+  ],
+  "pristina-h8": [
+    42.63806,
+    21.26,
+    "Wikipedia: Bear Sanctuary Prishtina"
+  ],
+  "prizren-h7": [
+    42.21096,
+    20.74148,
+    "OSM Nominatim: Gazi Mehmed Pasa Hamami, Prizren"
+  ],
+  "peja-h4": [
+    42.6531,
+    20.2938,
+    "Wikipedia: Bajrakli Mosque, Peja"
+  ],
+  "peja-h6": [
+    42.73802,
+    20.30692,
+    "OSM Nominatim: Burimi i Drinit të Bardhë (cave beside it)"
+  ],
+  "prizren-h3": [
+    42.20807,
+    20.73931,
+    "OSM Nominatim: Shadërvan, Prizren, Qyteti Historik, Prizren, Komuna e Prizr (Wikipedia 523m)"
+  ],
+  "pristina-h5": [
+    42.66869,
+    21.16819,
+    "OSM Nominatim: Muzeu Etnologjik Emin Gjiku, Antigona Fazliu, Qendra Histori"
+  ],
+  "pristina-h7": [
+    42.59859,
+    21.19349,
+    "OSM Nominatim: Manastir Gračanica, бб, Kosovke Devojke, Kishnicë - Kišnica, (Wikipedia 31m)"
+  ],
+  "prizren-h4": [
+    42.20957,
+    20.74061,
+    "OSM Nominatim: Ura e Gurit, Prizren, Qyteti Historik, Prizren, Komuna e Pri"
+  ],
+  "prizren-h5": [
+    42.2116,
+    20.73589,
+    "OSM Nominatim: Kisha e Shën Premtës, Shaban Jashari, Prizren, Qyteti Histor (Wikipedia 24m)"
+  ],
+  "prizren-h6": [
+    42.20696,
+    20.7385,
+    "OSM Nominatim: Lidhja e Prizrenit, Ismet Jashari Kumanova, Prizren, Qyteti "
+  ],
+  "peja-h5": [
+    42.54643,
+    20.27001,
+    "OSM Nominatim: Manastiri i Deçanit, Demë Ali Pozhari, Hulaj, Komuna e Deçan (Wikipedia 325m)"
   ]
 }

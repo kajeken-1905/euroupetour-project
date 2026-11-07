@@ -498,9 +498,9 @@ export const cityIndex: CityBrief[] = [
   {"id":"gabala","countryId":"az","name":{"ko":"가발라","en":"Gabala"},"nativeName":"Qəbələ","signatureImage":"/cities/gabala.jpg","cardTagline":{"ko":"투판다그 리조트","en":"Tufandag mountain resort"},"lat":40.9958,"lng":47.8492},
   {"id":"san-marino-city","countryId":"sm","name":{"ko":"산마리노 시","en":"City of San Marino"},"nativeName":"Città di San Marino","signatureImage":"/cities/san-marino-city.jpg","cardTagline":{"ko":"구아이타 탑","en":"Guaita Tower"},"lat":43.9424,"lng":12.4578},
   {"id":"borgo-maggiore","countryId":"sm","name":{"ko":"보르고 마조레","en":"Borgo Maggiore"},"nativeName":"Borgo Maggiore","signatureImage":"/cities/borgo-maggiore.jpg","cardTagline":{"ko":"산마리노 케이블카","en":"San Marino cable car"},"lat":43.9505,"lng":12.4489},
-  {"id":"pristina","countryId":"xk","name":{"ko":"프리슈티나","en":"Pristina"},"nativeName":"Prishtinë","signatureImage":"/cities/pristina.jpg","cardTagline":{"ko":"뉴본 기념비","en":"NEWBORN Monument"},"lat":42.6629,"lng":21.1655},
-  {"id":"prizren","countryId":"xk","name":{"ko":"프리즈렌","en":"Prizren"},"nativeName":"Prizren","signatureImage":"/cities/prizren.jpg","cardTagline":{"ko":"프리즈렌 요새","en":"Prizren Fortress"},"lat":42.2139,"lng":20.7397},
-  {"id":"peja","countryId":"xk","name":{"ko":"페야","en":"Peja"},"nativeName":"Pejë","signatureImage":"/cities/peja.jpg","cardTagline":{"ko":"루고바 협곡","en":"Rugova Canyon"},"lat":42.6591,"lng":20.2883},
+  {"id":"pristina","countryId":"xk","name":{"ko":"프리슈티나","en":"Pristina"},"nativeName":"Prishtinë","signatureImage":"/cities/pristina.jpg","cardTagline":{"ko":"마더 테레사 대로","en":"Mother Teresa Boulevard"},"lat":42.6629,"lng":21.1655},
+  {"id":"prizren","countryId":"xk","name":{"ko":"프리즈렌","en":"Prizren"},"nativeName":"Prizren","signatureImage":"/cities/prizren.jpg","cardTagline":{"ko":"돌다리","en":"Stone Bridge"},"lat":42.2139,"lng":20.7397},
+  {"id":"peja","countryId":"xk","name":{"ko":"페야","en":"Peja"},"nativeName":"Pejë","signatureImage":"/cities/peja.jpg","cardTagline":{"ko":"페야 구시장","en":"Peja Old Bazaar"},"lat":42.6591,"lng":20.2883},
 ]
 
 export function getCityBrief(id: string) {
