@@ -2581,7 +2581,6 @@ highlights/ostuni-4.jpg | https://commons.wikimedia.org/wiki/File:Ostuni_olive_g
 highlights/ischia-2.jpg | https://commons.wikimedia.org/wiki/File:Giardini_termali_poseidon_-_panoramio_(4).jpg | CC BY 3.0 | francverde
 highlights/trapani-5.jpg | https://www.flickr.com/photos/35995738@N00/6530592595 | BY-SA 2.0 | Effervescing Elephant
 highlights/florence-20.jpg | own photo | own photo | 사용자 촬영
-highlights/florence-6.jpg | own photo | own photo | 사용자 촬영
 cities/ortisei.jpg | https://commons.wikimedia.org/wiki/File:St._Antony_-_Urtij%C3%ABi_-_14.JPG | CC BY-SA 3.0 | H. Zell
 highlights/ortisei-1.jpg | https://commons.wikimedia.org/wiki/File:Odles_da_Seceda_da_duman_tl_nibl_Gherd%C3%ABina.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
 highlights/ortisei-3.jpg | https://commons.wikimedia.org/wiki/File:Museum_Gherdeina_Cesa_di_Ladins_Urtijei.jpg | CC BY-SA 3.0 | Moroder
