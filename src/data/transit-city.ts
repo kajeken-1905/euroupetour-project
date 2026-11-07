@@ -5665,6 +5665,24 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [],
   },
+  gjakova: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '바자르와 시내는 걸어서 다닙니다. 테르지 다리는 택시나 차로 갑니다.',
+      en: 'Walk the bazaar and centre; take a taxi or car to the Terzi Bridge.',
+    },
+    apps: [
+    ],
+  },
+  rahovec: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 와이너리와 전망대는 택시나 차가 편합니다.',
+      en: 'Walk the town; a taxi or car is easiest for the wineries and viewpoint.',
+    },
+    apps: [
+    ],
+  },
   peja: {
     modes: ['bus', 'taxi', 'walk'],
     howTo: {

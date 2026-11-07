@@ -1928,6 +1928,12 @@ export const STAY: Record<string, StayArea[]> = {
     a('가발라 시내', 'Gabala town', 'Gabala city centre', '가성비·식당|Value, restaurants', '숙소가 싸고 식당이 가깝습니다. 바쿠에서 차로 2~3시간입니다.|Cheaper rooms close to restaurants; 2–3 hours by road from Baku.'),
     a('투판다그 산기슭', 'Tufandag foothills', 'Tufandag, Gabala', '케이블카·스키|Cable car, skiing', '케이블카 역 옆 리조트로 스키·산 풍경에 좋습니다.|Resorts by the cable car, for skiing and mountain views.'),
   ],
+  gjakova: [
+    a('바자르 주변', 'Around the bazaar', 'Gjakova old bazaar', '처음 가는 여행에 추천|Best for a first visit', '바자르와 모스크, 식당이 걸어서 닿습니다.|The bazaar, mosques and restaurants on foot.'),
+  ],
+  rahovec: [
+    a('프리즈렌에서 다녀오기', 'Base in Prizren', 'Prizren', '거점에서 다녀오기|Day trip from a base', '버스로 약 45분입니다. 마을엔 숙소가 적습니다.|About 45 min by bus; few rooms in town.'),
+  ],
   peja: [
     a('시내 중심', 'Town centre', 'Peja city centre', '거점|Base', '강과 산이 보이는 시내 중심에 숙소가 모여 있습니다. 루고바 협곡·데차니 수도원은 차나 택시로 다녀옵니다.|Hotels gather in the centre by the river and mountains; Rugova Canyon and Dečani Monastery need a car or taxi.'),
   ],

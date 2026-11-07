@@ -2317,3 +2317,17 @@ highlights/prizren-7.jpg | https://commons.wikimedia.org/wiki/File:Gazi_Mehmed_P
 highlights/peja-4.jpg | https://commons.wikimedia.org/wiki/File:Bajrakli_Mosque_from_the_air_2.jpg | CC BY-SA 4.0 | Arianit
 highlights/peja-5.jpg | https://commons.wikimedia.org/wiki/File:Manastir_Visoki_De%C4%8Dani_(%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%B8_%D0%94%D0%B5%D1%87%D0%B0%D0%BD%D0%B8)_-_by_Pudelek..jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
 highlights/peja-6.jpg | https://commons.wikimedia.org/wiki/File:Radavc_Shpella.jpg | CC BY-SA 4.0 | Arben Llapashtica
+cities/gjakova.jpg | https://commons.wikimedia.org/wiki/File:Esht%C3%ABrorja_e_t%C3%AB_r%C3%ABn%C3%ABve_n%C3%AB_Luft%C3%ABn_e_Dyt%C3%AB_Bot%C3%ABrore_-_Gjakov%C3%AB.jpg | CC BY-SA 4.0 | Arianit
+highlights/gjakova-1.jpg | https://commons.wikimedia.org/wiki/File:Street_in_the_Old_Bazaar_of_Gjakova,_2025.jpg | CC0 | Bdx
+highlights/gjakova-2.jpg | https://commons.wikimedia.org/wiki/File:Hadum_Mosque_in_Gjakova.jpg | CC BY-SA 3.0 | Gresasyla
+highlights/gjakova-3.jpg | https://commons.wikimedia.org/wiki/File:Shejh_Emin_Tekke_of_the_XVIII_ct._-_Gjakov%C3%AB.JPG | CC BY-SA 3.0 | Nentor Oseku
+highlights/gjakova-4.jpg | https://commons.wikimedia.org/wiki/File:Sahat_Kulla_Gjakove_(cropped).jpg | CC BY-SA 4.0 | Arianit
+highlights/gjakova-5.jpg | https://commons.wikimedia.org/wiki/File:Die_Schneiderbr%C3%BCcke_(Ura_e_Terzive)_%C3%BCber_den_Fluss_Erenik,_Kosovo_-_panoramio.jpg | CC BY 3.0 | Martin Furtschegger
+cities/rahovec.jpg | https://commons.wikimedia.org/wiki/File:Rahovec_Grapes_and_Wine.JPG | CC BY-SA 3.0 | Bujar I Gashi
+highlights/rahovec-1.jpg | https://commons.wikimedia.org/wiki/File:Vreshtat_ne_Rahovec.jpg | CC BY-SA 3.0 | Bujar I Gashi
+highlights/rahovec-2.jpg | https://commons.wikimedia.org/wiki/File:Stone_Castle_Wine.JPG | CC BY-SA 3.0 | Shpat Buzoku
+highlights/rahovec-3.jpg | https://commons.wikimedia.org/wiki/File:Maja_e_Shkodranit,_Rahovec,_Kosovo.jpg | CC BY-SA 4.0 | Gettonderg
+highlights/rahovec-4.jpg | https://commons.wikimedia.org/wiki/File:Hrast_Medunac_-_panoramio.jpg | CC BY-SA 3.0 | goxy94
+highlights/menton-6.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_Menton.jpg | CC BY-SA 4.0 | Espirat
+highlights/reims-3.jpg | https://commons.wikimedia.org/wiki/File:Palais_du_Tau_in_Reims_(6).jpg | CC BY-SA 4.0 | Tournasol7
+highlights/ulcinj-2.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj,_old_town_(39403504681).jpg | CC BY-SA 2.0 | Alex Alishevskikh

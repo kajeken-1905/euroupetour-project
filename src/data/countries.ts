@@ -1383,7 +1383,7 @@ export const countries: Country[] = [
       background: '#E7EEFA',
       text: '#0A1A40',
     },
-    cityIds: ['pristina', 'prizren', 'peja'],
+    cityIds: ['pristina', 'prizren', 'gjakova', 'rahovec', 'peja'],
   },
   {
     id: 'bg',

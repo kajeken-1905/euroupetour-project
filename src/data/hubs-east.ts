@@ -484,6 +484,14 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [PRN()],
     bus: [['Stacioni i Autobusëve Prizren', '프리즈렌 버스터미널']],
   },
+  gjakova: {
+    air: [PRN('버스로 약 1시간 30분|About 1 hr 30 by bus')],
+    bus: [['Stacioni i Autobusëve Gjakovë', '자코바 버스터미널']],
+  },
+  rahovec: {
+    air: [PRN('버스로 약 1시간 15분|About 1 hr 15 by bus')],
+    bus: [['Rahovec', '라호베츠 버스 정류장']],
+  },
   peja: {
     air: [PRN()],
     rail: [['Pejë', '페야역', '프리슈티나행 하루 2회|two trains a day to Pristina']],

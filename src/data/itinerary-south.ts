@@ -244,6 +244,8 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   gabala: [1, 2, 3],
   pristina: { days: [['', 3, 4, 2, 1, 6, 5]], trips: [['그라차니차 수도원|Gračanica', 7], ['곰 보호소|Bear Sanctuary', 8]] },
   prizren: [4, 3, 2, 7, 6, 5, 1],
+  gjakova: { days: [['', 1, 2, 3, 4]], trips: [['테르지 다리|Terzi Bridge', 5]] },
+  rahovec: [4, 1, 3, 2],
   peja: { days: [['', 3, 4, 2]], trips: [['루고바 협곡|Rugova Canyon', 1], ['비소키 데차니|Visoki Dečani', 5], ['라다바츠 동굴|Radavc Cave', 6]] },
   // Northern Cyprus
   'north-nicosia': [4, 1, 2, 3],

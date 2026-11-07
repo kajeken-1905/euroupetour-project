@@ -167,6 +167,9 @@ export const routesEast: RawRoute[] = [
   r('pristina', 'peja', 'bus', 90),
   r('pristina', 'peja', 'train', 120, { n: '하루 2회|two trains a day' }),
   r('prizren', 'peja', 'bus', 135),
+  r('prizren', 'rahovec', 'bus', 45),
+  r('pristina', 'gjakova', 'bus', 90),
+  r('prizren', 'gjakova', 'bus', 55),
 
   // —— bg / ro ——
   r('sofia', 'plovdiv', 'bus', 120),

@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  rahovec: { n: '9월 포도 수확 축제(Vjeshta e Rahovecit) 때 가장 활기찹니다.|Liveliest at the September harvest festival.' },
+  gjakova: { n: '봄~가을이 걷기 좋습니다. 여름 저녁엔 바자르 노천 카페가 붐빕니다.|Spring to autumn is best for walking; summer evenings fill the bazaar terraces.' },
   perast: { n: '7~8월엔 크루즈 손님으로 낮에 붐비니 아침이나 저녁이 좋습니다. 7월 22일엔 바위의 성모 섬 행사가 열립니다.|Cruise passengers crowd the village by day in July–August, so come early or late; the Our Lady of the Rocks festival is on 22 July.' },
   ulcinj: { n: '7~8월에 해변이 가장 붐빕니다. 봄·가을엔 염전에서 철새를 보기 좋습니다.|July–August is peak beach season; spring and autumn are best for birdwatching at the salina.' },
   zabljak: { n: '6~9월이 산행철이고, 12~3월엔 스키장이 엽니다. 여름에도 저녁은 쌀쌀합니다.|June–September is hiking season and December–March the ski season; evenings are cool even in summer.' },

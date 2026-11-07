@@ -500,6 +500,8 @@ export const cityIndex: CityBrief[] = [
   {"id":"borgo-maggiore","countryId":"sm","name":{"ko":"보르고 마조레","en":"Borgo Maggiore"},"nativeName":"Borgo Maggiore","signatureImage":"/cities/borgo-maggiore.jpg","cardTagline":{"ko":"산마리노 케이블카","en":"San Marino cable car"},"lat":43.9505,"lng":12.4489},
   {"id":"pristina","countryId":"xk","name":{"ko":"프리슈티나","en":"Pristina"},"nativeName":"Prishtinë","signatureImage":"/cities/pristina.jpg","cardTagline":{"ko":"마더 테레사 대로","en":"Mother Teresa Boulevard"},"lat":42.6629,"lng":21.1655},
   {"id":"prizren","countryId":"xk","name":{"ko":"프리즈렌","en":"Prizren"},"nativeName":"Prizren","signatureImage":"/cities/prizren.jpg","cardTagline":{"ko":"돌다리","en":"Stone Bridge"},"lat":42.2139,"lng":20.7397},
+  {"id":"gjakova","countryId":"xk","name":{"ko":"자코바","en":"Gjakova"},"nativeName":"Gjakovë / Đakovica","signatureImage":"/cities/gjakova.jpg","cardTagline":{"ko":"대바자르 (차르시아 에 마데)","en":"Grand Bazaar (Çarshia e Madhe)"},"lat":42.3803,"lng":20.4308},
+  {"id":"rahovec","countryId":"xk","name":{"ko":"라호베츠","en":"Rahovec"},"nativeName":"Rahovec / Orahovac","signatureImage":"/cities/rahovec.jpg","cardTagline":{"ko":"라호베츠 포도밭","en":"Rahovec vineyards"},"lat":42.3994,"lng":20.6547},
   {"id":"peja","countryId":"xk","name":{"ko":"페야","en":"Peja"},"nativeName":"Pejë","signatureImage":"/cities/peja.jpg","cardTagline":{"ko":"페야 구시장","en":"Peja Old Bazaar"},"lat":42.6591,"lng":20.2883},
 ]
 

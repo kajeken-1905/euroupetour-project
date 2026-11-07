@@ -2922,5 +2922,50 @@
     42.54643,
     20.27001,
     "OSM Nominatim: Manastiri i Deçanit, Demë Ali Pozhari, Hulaj, Komuna e Deçan (Wikipedia 325m)"
+  ],
+  "gjakova-h1": [
+    42.37919,
+    20.42732,
+    "OSM Nominatim: Hadum Mosque on the Grand Bazaar street (bazaar has no OSM point)"
+  ],
+  "rahovec-h2": [
+    42.36697,
+    20.61551,
+    "OSM Nominatim: Stone Castle Winery, Bërnjak"
+  ],
+  "rahovec-h1": [
+    42.3994,
+    20.6547,
+    "town centre (vineyards surround the town)"
+  ],
+  "gjakova-h2": [
+    42.37919,
+    20.42732,
+    "OSM Nominatim: Xhamia e Hadum Agës, Vëllezërit Frashëri, Lagjja e Hadumit,  (Wikipedia 2m)"
+  ],
+  "gjakova-h3": [
+    42.38065,
+    20.42892,
+    "OSM Nominatim: Teqja e Madhe, Sefedin Xërxa, Lagjja e Hadumit, Qendra Histo (Wikipedia 470m)"
+  ],
+  "gjakova-h4": [
+    42.38052,
+    20.42815,
+    "OSM Nominatim: Sahat kulla, Mazllum Lakuci, Lagjja e Hadumit, Qendra Histor (Wikipedia 529m)"
+  ],
+  "gjakova-h5": [
+    42.35926,
+    20.50943,
+    "OSM Nominatim: Ura e Terzive, Bishtazhin, Komuna e Gjakovës / Opština Ðakov (Wikipedia 29m)"
+  ],
+  "rahovec-h3": [
+    42.41889,
+    20.65576,
+    "OSM Nominatim: Maja e Shkodranit, Rahovec, Komuna e Rahovecit / Opština Ora"
+  ],
+  "rahovec-h4": [
+    42.39987,
+    20.65274,
+    "OSM Nominatim: Rahovec, Komuna e Rahovecit / Opština Orahovac, Rajoni i Gja (Wikipedia 170m)"
   ]
 }
