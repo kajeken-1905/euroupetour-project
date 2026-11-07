@@ -89,10 +89,14 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   interlaken: { days: [['', 4, 1, 3]], trips: [['융프라우요흐|Jungfraujoch', 5], ['라우터브루넨|Lauterbrunnen', 6], ['이젤트발트|Iseltwald', 7], ['쉬니게 플라테|Schynige Platte', 8]] },
   berlin: {
     days: [
-      ['미테|Mitte', 4, 1, 5, 2],
-      ['장벽 기념관과 샤를로텐부르크|Wall Memorial & Charlottenburg', 3, 6, 7],
+      ['정부 지구와 박물관 섬|Government quarter & Museum Island', 4, 1, 9, 12, 2, 11, 10],
+      ['장벽과 크로이츠베르크|The Wall & Kreuzberg', 14, 5, 13, 15, 3],
+      ['서베를린|West Berlin', 6, 17, 7, 16],
     ],
-    trips: [['아우토슈타트|Autostadt', 8]],
+    trips: [
+      ['작센하우젠|Sachsenhausen', 18],
+      ['아우토슈타트|Autostadt', 8],
+    ],
   },
   munich: {
     days: [
@@ -101,7 +105,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
     ],
     trips: [['다하우 추모관|Dachau Memorial', 7], ['아우디 박물관|Audi museum', 9]],
   },
-  hamburg: [4, 1, 3, 2, 5],
+  hamburg: { days: [['구시가와 하펜시티|Old town & HafenCity', 6, 7, 1, 10, 3, 2], ['항구와 알스터|Harbour & Alster', 9, 8, 5, 4, 11]] },
   cochem: [2, 5, 1, 3, 4],
   cologne: [1, 4, 2, 5, 3],
   rudesheim: [1, 3, 2, 4],
@@ -147,7 +151,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   },
   leipzig: [2, 3, 1, 5, 4],
   rothenburg: [1, 4, 2, 3, 5],
-  potsdam: [3, 1, 2, 5],
+  potsdam: { days: [['', 3, 6, 1, 2, 4, 7, 5]], trips: [['바벨스베르크 영화 공원|Filmpark Babelsberg', 8]] },
   vaduz: [6, 2, 3, 4, 1, 5],
   schaan: [2, 1, 3, 4, 5],
   malbun: [5, 3, 2, 4],

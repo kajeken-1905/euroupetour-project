@@ -2331,3 +2331,22 @@ highlights/rahovec-4.jpg | https://commons.wikimedia.org/wiki/File:Hrast_Medunac
 highlights/menton-6.jpg | https://commons.wikimedia.org/wiki/File:Plage_de_Menton.jpg | CC BY-SA 4.0 | Espirat
 highlights/reims-3.jpg | https://commons.wikimedia.org/wiki/File:Palais_du_Tau_in_Reims_(6).jpg | CC BY-SA 4.0 | Tournasol7
 highlights/ulcinj-2.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj,_old_town_(39403504681).jpg | CC BY-SA 2.0 | Alex Alishevskikh
+highlights/berlin-9.jpg | https://commons.wikimedia.org/wiki/File:Memorial_to_the_Murdered_Jews_of_Europe_6.jpg | CC0 | Kurt Kaiser
+highlights/berlin-10.jpg | https://commons.wikimedia.org/wiki/File:Fernsehturm,_Berl%C3%ADn,_Alemania,_2016-04-21,_DD_40-42_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/berlin-11.jpg | https://commons.wikimedia.org/wiki/File:Berliner_Dom,_170409,_ako_(2).jpg | CC BY 3.0 de | Ansgar Koreng
+highlights/berlin-12.jpg | https://commons.wikimedia.org/wiki/File:Gendarmenmarkt-Konzerthaus-Franzoesischer-Dom-2015.jpg | CC BY-SA 3.0 | Tuxyso
+highlights/berlin-13.jpg | https://commons.wikimedia.org/wiki/File:Topographie_Des_Terrors_(Topography_of_Terror),_Berlin_(Ank_Kumar)_07.jpg | CC BY-SA 4.0 | Ank Kumar
+highlights/berlin-14.jpg | https://commons.wikimedia.org/wiki/File:Dokumentationszentrum_(Gedenkst%C3%A4tte_Berliner_Mauer)_01.jpg | CC BY 4.0 | Derbrauni
+highlights/berlin-15.jpg | https://commons.wikimedia.org/wiki/File:Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg | CC BY-SA 4.0 | Marek Śliwecki
+highlights/berlin-16.jpg | https://commons.wikimedia.org/wiki/File:Tempelhof_N_softball_field.jpg | CC BY-SA 4.0 | Orderinchaos
+highlights/berlin-17.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_Kaiser-Wilhelm-Ged%C3%A4chtniskirche,_2024_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/berlin-18.jpg | https://commons.wikimedia.org/wiki/File:Poort_van_Concentratiekamp_Sachsenhausen_Oranienburg_Duitsland_Tekst_Arbeit_Macht_Frei.jpg | CC BY-SA 4.0 | Roger Veringmeier
+highlights/hamburg-6.jpg | https://commons.wikimedia.org/wiki/File:Hamburg,_Rathaus_--_2023_--_6597.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/hamburg-7.jpg | https://commons.wikimedia.org/wiki/File:Hamburg,_St._Michaelis_--_2023_--_6615.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/hamburg-8.jpg | https://commons.wikimedia.org/wiki/File:Hamburg,_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/hamburg-9.jpg | https://commons.wikimedia.org/wiki/File:Die_Hansekogge_auf_dem_Hamburger_Fischmarkt_in_Aschaffenburg.jpg | CC0 | Digital olm
+highlights/hamburg-10.jpg | https://commons.wikimedia.org/wiki/File:Maritimes_Museum_Hamburg_2024.jpg | CC BY-SA 4.0 | Avaholic
+highlights/hamburg-11.jpg | https://commons.wikimedia.org/wiki/File:R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg | CC BY-SA 3.0 | Axel Schnell
+highlights/potsdam-6.jpg | https://commons.wikimedia.org/wiki/File:Alexandrowka_Potsdam_2.JPG | CC BY-SA 3.0 | Superchilum
+highlights/potsdam-7.jpg | https://commons.wikimedia.org/wiki/File:Glienicker_Br%C3%BCcke_in_Potsdam_(2025).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/potsdam-8.jpg | https://commons.wikimedia.org/wiki/File:Babelsberg_Filmpark_Lion_20220907_152627.jpg | CC BY-SA 4.0 | Rigorius

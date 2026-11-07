@@ -2967,5 +2967,115 @@
     42.39987,
     20.65274,
     "OSM Nominatim: Rahovec, Komuna e Rahovecit / Opština Orahovac, Rajoni i Gja (Wikipedia 170m)"
+  ],
+  "hamburg-h6": [
+    53.55033,
+    9.99257,
+    "OSM Nominatim: Rathaus, Rathausmarkt 1, Hamburg"
+  ],
+  "hamburg-h1": [
+    53.54401,
+    9.98698,
+    "OSM Nominatim: Speicherstadt, Kehrwieder, Hanseatic Trade Center, HafenCity (Wikipedia 337m)"
+  ],
+  "berlin-h7": [
+    52.52064,
+    13.29271,
+    "OSM Nominatim: Schloss Charlottenburg, 10, Spandauer Damm, Danckelmannkiez, (Wikipedia 204m)"
+  ],
+  "potsdam-h5": [
+    52.39376,
+    13.06137,
+    "OSM Nominatim: Lange Brücke, Breite Straße, Viertel der Seidenweber, Histor (Wikipedia 770m)"
+  ],
+  "berlin-h9": [
+    52.51387,
+    13.37873,
+    "OSM Nominatim: Denkmal für die ermordeten Juden Europas, 1, Cora-Berliner-S (Wikipedia 9m)"
+  ],
+  "berlin-h10": [
+    52.52083,
+    13.40942,
+    "OSM Nominatim: Berliner Fernsehturm, 1a, Panoramastraße, Klosterviertel, Sp (Wikipedia 2m)"
+  ],
+  "berlin-h11": [
+    52.51908,
+    13.40109,
+    "OSM Nominatim: Berliner Dom, Am Lustgarten, Nikolaiviertel, Spandauer Vorst (Wikipedia 9m)"
+  ],
+  "berlin-h12": [
+    52.51357,
+    13.3923,
+    "OSM Nominatim: Gendarmenmarkt, Friedrichswerder, Friedrichstadt, Mitte, Ber (Wikipedia 33m)"
+  ],
+  "berlin-h13": [
+    52.50621,
+    13.38415,
+    "OSM Nominatim: Topographie des Terrors, 8, Niederkirchnerstraße, Friedrichs (Wikipedia 124m)"
+  ],
+  "berlin-h14": [
+    52.53582,
+    13.39085,
+    "OSM Nominatim: Gedenkstätte Berliner Mauer, Bernauer Straße, Oranienburger  (Wikipedia 119m)"
+  ],
+  "berlin-h15": [
+    52.50225,
+    13.39515,
+    "OSM Nominatim: Jüdisches Museum Berlin, 9-14, Lindenstraße, Luisenstadt, Kr (Wikipedia 29m)"
+  ],
+  "berlin-h16": [
+    52.47442,
+    13.4026,
+    "OSM Nominatim: Tempelhofer Feld, Tempelhof-Schöneberg, Berlin, Deutschland (Wikipedia 544m)"
+  ],
+  "berlin-h17": [
+    52.50479,
+    13.33519,
+    "OSM Nominatim: Kaiser-Wilhelm-Gedächtniskirche (Ruine), Kurfürstendamm, Cit (Wikipedia 27m)"
+  ],
+  "berlin-h18": [
+    52.76628,
+    13.2628,
+    "OSM Nominatim: Gedenkstätte und Museum Sachsenhausen, 22, Straße der Nation (Wikipedia 104m)"
+  ],
+  "hamburg-h7": [
+    53.54843,
+    9.97889,
+    "OSM Nominatim: Hauptkirche St. Michaelis, 1A, Englische Planke, Portugiesen (Wikipedia 11m)"
+  ],
+  "hamburg-h8": [
+    53.54555,
+    9.97037,
+    "OSM Nominatim: St. Pauli - Landungsbrücken, Bei den St. Pauli-Landungsbrück (Wikipedia 252m)"
+  ],
+  "hamburg-h9": [
+    53.54481,
+    9.95168,
+    "OSM Nominatim: Fischauktionshalle, 9, Große Elbstraße, Altona, Altona-Altst"
+  ],
+  "hamburg-h10": [
+    53.54335,
+    9.99982,
+    "OSM Nominatim: Internationales Maritimes Museum Hamburg, 1, Koreastraße, Qu"
+  ],
+  "hamburg-h11": [
+    53.55529,
+    10.003,
+    "OSM Nominatim: Hamburger Kunsthalle, 5, Glockengießerwall, Altstadt, Hambur (Wikipedia 33m)"
+  ],
+  "potsdam-h6": [
+    52.41171,
+    13.05687,
+    "OSM Nominatim: Museum Alexandrowka, 2, Russische Kolonie, Nauener Vorstadt,"
+  ],
+  "potsdam-h7": [
+    52.41346,
+    13.09023,
+    "OSM Nominatim: Glienicker Brücke, Wannsee, Steglitz-Zehlendorf, Berlin, 141 (Wikipedia 8m)"
+  ],
+  "potsdam-h8": [
+    52.38658,
+    13.11609,
+    "OSM Nominatim: Filmpark Babelsberg, 200, Großbeerenstraße, Babelsberg Süd,  (Wikipedia 231m)"
   ]
 }
