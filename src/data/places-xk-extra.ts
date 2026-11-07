@@ -23,4 +23,13 @@ export const placesXKExtra: Place[] = [
   place('peja-fine_dining-2', 'peja', 'fine_dining', "Flo's Restaurant", 'Sheshi Haxhi Zeka, 30000 Peja, Kosovo', '하지 제카 광장의 레스토랑. 지역 요리와 서양 요리를 냅니다.', 'Restaurant on Haxhi Zeka square serving local and international dishes.'),
 
   place('peja-cafe-1', 'peja', 'cafe', 'Radio Caffe', 'Rruga Mbreti Pirro, Pec 30000, Kosovo', '페야 시내 음브레티 피로 거리의 카페 겸 바.', 'Café-bar on Mbreti Pirro street in central Peja.'),
+
+  // —— gjakova: restaurants, bakeries and cafés (2026-11-07) ——
+  place('gjakova-fine_dining-1', 'gjakova', 'fine_dining', 'Ku Zinë', 'Sylejman Hadum Aga, Gjakovë, Kosovo', '대바자르 거리 안의 전통 요리 식당.', 'Traditional restaurant on the Grand Bazaar street.'),
+  place('gjakova-fine_dining-2', 'gjakova', 'fine_dining', 'Jaki Grill', 'Gjon Nikollë Kazazi, Gjakovë, Kosovo', '구이 요리로 이름난 동네 식당.', 'Neighbourhood grill known for its meats.'),
+  place('gjakova-fine_dining-3', 'gjakova', 'fine_dining', 'Grill House Gjakovë', 'Rr. Martirët Qerkezi, Gjakovë, Kosovo', '스테이크와 구이 요리 식당.', 'Steak and grill restaurant.'),
+
+  // —— rahovec: restaurants, bakeries and cafés (2026-11-07) ——
+  place('rahovec-fine_dining-1', 'rahovec', 'fine_dining', 'Bella Agroturizëm', 'Rr. Pika Pesqind, Rahovec, Kosovo', '포도밭 언덕의 농가 체험 식당으로, 지역 와인과 음식을 냅니다.', 'Agritourism restaurant in the vineyard hills, serving local wine and food.'),
+  place('rahovec-fine_dining-2', 'rahovec', 'fine_dining', 'Restaurant Bjeshka', 'Rahovec, Kosovo', '마을 위쪽의 식당.', 'Restaurant above the town.'),
 ]
