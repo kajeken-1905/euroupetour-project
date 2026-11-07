@@ -1,4 +1,36 @@
 {
+"aachen-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-bakery-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"aachen-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
 "aalborg-bakery-1": {
 "del": 1
 },
@@ -2275,6 +2307,34 @@
 "bregenz-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"bremen-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"bremen-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"bremen-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"bremen-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"bremen-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"bremen-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"bremen-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
 },
 "brighton-bakery-2": {
 "en": "Neighbourhood bakery on Elm Grove, baking bread every night.",
@@ -4898,6 +4958,38 @@
 "frankfurt-korean-3": {
 "del": 1
 },
+"freiburg-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"freiburg-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
 "funchal-bakery-1": {
 "en": "Funchal bakery named after the baker Mariazinha (1955), popular for pastéis de nata and queijadas, open late.",
 "ko": "1955년 마리아지냐의 이름을 딴 푼샬의 빵집. 파스텔 드 나타와 케이자다가 인기이고 늦게까지 엽니다.",
@@ -5571,6 +5663,18 @@
 "gorey-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"gorlitz-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"gorlitz-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"gorlitz-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
 },
 "gothenburg-bakery-1": {
 "ok": 1
@@ -8087,6 +8191,22 @@
 "limerick-fine_dining-2": {
 "ok": 1
 },
+"lindau-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lindau-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lindau-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lindau-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
 "linz-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps"
@@ -8444,6 +8564,34 @@
 "en": "Tiny Korean café near Tottenham Court Road, known for bibimbap and gimbap.",
 "ko": "토트넘 코트 로드 근처의 작은 한식 분식집. 비빔밥·김밥이 인기입니다.",
 "ok": 1
+},
+"lubeck-bakery-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lubeck-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lubeck-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lubeck-cafe-3": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lubeck-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lubeck-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"lubeck-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
 },
 "lublin-bakery-1": {
 "ok": 1,
@@ -15426,6 +15574,26 @@
 "ok": 1,
 "src": "2026-11-04 google maps"
 },
+"trier-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"trier-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"trier-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"trier-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"trier-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
 "trieste-cafe-1": {
 "ok": 1
 },
@@ -16549,6 +16717,22 @@
 "en": "Cafeteria-style Korean spot where staff fill your tray; bento boxes and Korean fried chicken are favourites.",
 "ko": "고른 반찬을 담아 주는 한식 구내식당 스타일 식당. 도시락과 한국식 치킨이 인기입니다.",
 "ok": 1
+},
+"weimar-cafe-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"weimar-cafe-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"weimar-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
+},
+"weimar-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-07 google maps / michelin 2026"
 },
 "werfen-fine_dining-1": {
 "ok": 1,

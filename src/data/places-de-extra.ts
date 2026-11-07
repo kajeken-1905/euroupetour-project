@@ -198,4 +198,66 @@ export const placesDEExtra: Place[] = [
   place('regensburg-bakery-1', 'regensburg', 'bakery', 'Konditorei Opera', 'Prüfeninger Straße 44A, 93049 Regensburg', '구시가 서쪽의 케이크 가게.', 'Cake shop west of the old town.'),
   place('regensburg-cafe-1', 'regensburg', 'cafe', 'Café Lila', 'Rote-Hahnen-Gasse 2, 93047 Regensburg', '구시가 골목의 카페.', 'Café in an old-town lane.'),
   place('regensburg-cafe-2', 'regensburg', 'cafe', 'ANNA liebt Brot und Kaffee', 'Gesandtenstraße 5, 93047 Regensburg', '구시가의 빵집 겸 카페.', 'Bakery-café in the old town.'),
+
+  // —— lubeck: restaurants, bakeries and cafés (2026-11-07) ——
+  place('lubeck-fine_dining-1', 'lubeck', 'fine_dining', 'Wullenwever', 'Beckergrube 71, 23552 Lübeck, Germany', '구시가 귀족 저택의 클래식·지중해 요리 레스토랑. 미쉐린 1스타.', 'Classic and Mediterranean cooking in a patrician townhouse in the old town. One MICHELIN star.', { michelin: 'star1' }),
+  place('lubeck-fine_dining-2', 'lubeck', 'fine_dining', 'Meilenstein', 'Königstraße 5, 23552 Lübeck, Germany', '구시가의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary restaurant in the old town. In the MICHELIN Guide.'),
+  place('lubeck-fine_dining-3', 'lubeck', 'fine_dining', 'Fangfrisch', 'An der Untertrave 51, 23552 Lübeck, Germany', '트라베강 가의 생선·해산물 식당. 미쉐린 가이드 선정.', 'Fish and seafood restaurant on the Trave. In the MICHELIN Guide.'),
+  place('lubeck-cafe-1', 'lubeck', 'cafe', 'Café Niederegger', 'Breite Straße 89, 23552 Lübeck, Germany', '마르치판 본점 위층의 카페로, 마르치판 케이크가 명물입니다.', 'The café above the original marzipan shop, famous for its marzipan cake.'),
+  place('lubeck-cafe-2', 'lubeck', 'cafe', 'Café Camino', 'Jakobikirchhof 1, 23552 Lübeck, Germany', '성 야고보 교회 옆의 카페.', 'Café beside St. James’s Church.'),
+  place('lubeck-cafe-3', 'lubeck', 'cafe', 'Café Marae', 'Engelsgrube 59, 23552 Lübeck, Germany', '옛 골목 엥겔스그루베의 카페.', 'Café on the old Engelsgrube lane.'),
+  place('lubeck-bakery-1', 'lubeck', 'bakery', 'Konvent Café, Rösterei, Bäckerei', 'St.-Annen-Straße 1, 23552 Lübeck, Germany', '빵을 굽고 커피를 볶는 카페 겸 빵집.', 'Café-bakery that bakes its own bread and roasts its own coffee.'),
+
+  // —— bremen: restaurants, bakeries and cafés (2026-11-07) ——
+  place('bremen-fine_dining-1', 'bremen', 'fine_dining', 'alto', 'Bredenstraße 2, 28195 Bremen, Germany', '지역 농산물을 쓰는 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary farm-to-table restaurant. In the MICHELIN Guide.'),
+  place('bremen-fine_dining-2', 'bremen', 'fine_dining', 'Chapeau La Vache', 'Hollerallee 77, 28209 Bremen, Germany', '클래식 요리 레스토랑. 미쉐린 가이드 선정.', 'Classic restaurant. In the MICHELIN Guide.'),
+  place('bremen-fine_dining-3', 'bremen', 'fine_dining', 'Park Restaurant', 'Im Bürgerpark 1, 28209 Bremen, Germany', '뷔르거파크 호텔 안의 레스토랑. 미쉐린 가이드 선정.', 'Restaurant in the Bürgerpark hotel. In the MICHELIN Guide.'),
+  place('bremen-fine_dining-4', 'bremen', 'fine_dining', 'Al Pappagallo', 'Außer der Schleifmühle 73, 28203 Bremen, Germany', '이탈리아 요리 레스토랑. 미쉐린 가이드 선정.', 'Italian restaurant. In the MICHELIN Guide.'),
+  place('bremen-cafe-1', 'bremen', 'cafe', 'Teestübchen im Schnoor', 'Wüstestätte 1, 28195 Bremen, Germany', '슈노어 골목의 찻집 겸 카페.', 'Tea room and café in the Schnoor.'),
+  place('bremen-cafe-2', 'bremen', 'cafe', 'Café Bachmann', 'Obernstraße 16, 28195 Bremen, Germany', '구시가 중심 거리의 카페.', 'Café on the old town’s main street.'),
+  place('bremen-bakery-1', 'bremen', 'bakery', 'Konditorei Café Stecker', 'Knochenhauerstraße 14, 28195 Bremen, Germany', '1908년부터 이어진 과자점 겸 카페.', 'Pastry shop and café since 1908.'),
+
+  // —— weimar: restaurants, bakeries and cafés (2026-11-07) ——
+  place('weimar-fine_dining-1', 'weimar', 'fine_dining', 'AnnA', 'Markt 19, 99423 Weimar, Germany', '마르크트 광장의 현대·국제 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary international restaurant on the market square. In the MICHELIN Guide.'),
+  place('weimar-fine_dining-2', 'weimar', 'fine_dining', 'Clara – Restaurant im Kaisersaal', 'Futterstraße 15, 99084 Erfurt, Germany', '에르푸르트 카이저잘 안의 레스토랑. 미쉐린 1스타.', 'Restaurant in the Kaisersaal in Erfurt. One MICHELIN star.', { michelin: 'star1' }),
+  place('weimar-cafe-1', 'weimar', 'cafe', 'Café Lieblingsgarten', 'Jakobstraße 10, 99423 Weimar, Germany', '키름스-크라코 하우스 정원의 카페.', 'Café in the garden of the Kirms-Krackow House.'),
+  place('weimar-cafe-2', 'weimar', 'cafe', 'Gretchens', 'Seifengasse 8, 99423 Weimar, Germany', '유기농 식당 겸 카페.', 'Organic restaurant and café.'),
+
+  // —— gorlitz: restaurants, bakeries and cafés (2026-11-07) ——
+  place('gorlitz-fine_dining-1', 'gorlitz', 'fine_dining', 'Schneider Stube', 'Peterstraße 8, 02826 Görlitz, Germany', '구시가의 지역 전통 요리 식당. 미쉐린 가이드 선정.', 'Regional and traditional cooking in the old town. In the MICHELIN Guide.'),
+  place('gorlitz-cafe-1', 'gorlitz', 'cafe', 'Lucullus Coffee Shop', 'Peterstraße 4, 02826 Görlitz, Germany', '구시가의 카페.', 'Café in the old town.'),
+  place('gorlitz-cafe-2', 'gorlitz', 'cafe', 'Café Flair', 'Brüderstraße 3, 02826 Görlitz, Germany', '구시가의 카페.', 'Café in the old town.'),
+
+  // —— aachen: restaurants, bakeries and cafés (2026-11-07) ——
+  place('aachen-fine_dining-1', 'aachen', 'fine_dining', 'La Bécasse', 'Hanbrucher Straße 1, 52064 Aachen, Germany', '클래식 프랑스 요리 레스토랑. 미쉐린 1스타.', 'Classic French restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('aachen-fine_dining-2', 'aachen', 'fine_dining', 'Sankt Benedikt', 'Benediktusplatz 12, 52076 Aachen-Kornelimünster, Germany', '코르넬리뮌스터 마을의 창의적 프랑스 요리 레스토랑. 미쉐린 1스타.', 'Creative modern French cooking in the village of Kornelimünster. One MICHELIN star.', { michelin: 'star1' }),
+  place('aachen-fine_dining-3', 'aachen', 'fine_dining', 'Bistro (Sankt Benedikt)', 'Benediktusplatz 12, 52076 Aachen-Kornelimünster, Germany', '상트 베네딕트의 비스트로. 미쉐린 빕 구르망.', 'The bistro of Sankt Benedikt. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('aachen-fine_dining-4', 'aachen', 'fine_dining', 'dario', 'Promenadenstraße 36, 52062 Aachen, Germany', '현대 프랑스·제철 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern French and seasonal cooking. In the MICHELIN Guide.'),
+  place('aachen-cafe-1', 'aachen', 'cafe', 'Café Didier', 'Fischmarkt 6, 52062 Aachen, Germany', '대성당 근처의 카페.', 'Café near the cathedral.'),
+  place('aachen-cafe-2', 'aachen', 'cafe', 'Café Juli', 'Sandkaulstraße 15, 52062 Aachen, Germany', '구시가의 카페.', 'Café in the old town.'),
+  place('aachen-bakery-1', 'aachen', 'bakery', 'Printenbäckerei Klein', 'Ursulinerstraße 21, 52062 Aachen, Germany', '아헨 명물 생강 과자 ‘프린텐’ 전문 빵집.', 'Bakery specialising in Aachen’s gingerbread, Printen.'),
+  place('aachen-bakery-2', 'aachen', 'bakery', 'Nobis Printen', 'Münsterplatz 3, 52062 Aachen, Germany', '대성당 앞의 프린텐 과자점.', 'Printen bakery facing the cathedral.'),
+
+  // —— trier: restaurants, bakeries and cafés (2026-11-07) ——
+  place('trier-fine_dining-1', 'trier', 'fine_dining', 'Bagatelle', 'Zurlaubener Ufer 78, 54292 Trier, Germany', '모젤 강변의 창의적 프랑스 요리 레스토랑. 미쉐린 1스타.', 'Creative French cooking on the Moselle bank. One MICHELIN star.', { michelin: 'star1' }),
+  place('trier-fine_dining-2', 'trier', 'fine_dining', 'Gastraum', 'Bernhardstraße 14, 54295 Trier, Germany', '모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern restaurant. In the MICHELIN Guide.'),
+  place('trier-fine_dining-3', 'trier', 'fine_dining', 'BECKER\'S Weinhaus', 'Olewiger Straße 206, 54295 Trier, Germany', '와이너리 가문의 와인하우스 레스토랑. 미쉐린 가이드 선정.', 'Wine-house restaurant of a winemaking family. In the MICHELIN Guide.'),
+  place('trier-cafe-1', 'trier', 'cafe', 'Café Mohr', 'Fleischstraße 55, 54290 Trier, Germany', '구시가의 카페.', 'Café in the old town.'),
+  place('trier-cafe-2', 'trier', 'cafe', 'Süß & Salzig', 'Neustraße 59, 54290 Trier, Germany', '구시가의 카페.', 'Café in the old town.'),
+
+  // —— freiburg: restaurants, bakeries and cafés (2026-11-07) ——
+  place('freiburg-fine_dining-1', 'freiburg', 'fine_dining', 'Jacobi', 'Herrenstraße 43, 79098 Freiburg im Breisgau, Germany', '혁신적인 모던 요리 레스토랑. 미쉐린 1스타.', 'Innovative modern cooking. One MICHELIN star.', { michelin: 'star1' }),
+  place('freiburg-fine_dining-2', 'freiburg', 'fine_dining', 'Zur Wolfshöhle', 'Konviktstraße 8, 79098 Freiburg im Breisgau, Germany', '구시가의 클래식 요리 레스토랑. 미쉐린 1스타.', 'Classic cooking in the old town. One MICHELIN star.', { michelin: 'star1' }),
+  place('freiburg-fine_dining-3', 'freiburg', 'fine_dining', 'Colombi Zirbelstube', 'Rotteckring 16, 79098 Freiburg im Breisgau, Germany', '콜롬비 호텔의 클래식 프랑스·지중해 요리 레스토랑. 미쉐린 1스타.', 'Classic French and Mediterranean cooking in the Colombi hotel. One MICHELIN star.', { michelin: 'star1' }),
+  place('freiburg-fine_dining-4', 'freiburg', 'fine_dining', 'Hawara', 'Dreikönigstraße 8, 79102 Freiburg im Breisgau, Germany', '지역 재료의 모던 요리 레스토랑. 미쉐린 1스타.', 'Modern regional cooking. One MICHELIN star.', { michelin: 'star1' }),
+  place('freiburg-fine_dining-5', 'freiburg', 'fine_dining', 'Drexlers', 'Rosastraße 9, 79098 Freiburg im Breisgau, Germany', '제철 재료를 쓰는 레스토랑. 미쉐린 가이드 선정.', 'Seasonal farm-to-table restaurant. In the MICHELIN Guide.'),
+  place('freiburg-cafe-1', 'freiburg', 'cafe', 'Café August', 'Gerberau 11, 79098 Freiburg im Breisgau, Germany', '물길 거리 게르베라우의 카페.', 'Café on the canal-side Gerberau.'),
+  place('freiburg-cafe-2', 'freiburg', 'cafe', 'Origin Coffee Stories', 'Schusterstraße 34, 79098 Freiburg im Breisgau, Germany', '구시가의 스페셜티 커피 카페.', 'Specialty coffee café in the old town.'),
+  place('freiburg-bakery-1', 'freiburg', 'bakery', 'Bäckerei Pfeifle', 'Oberlinden 18, 79098 Freiburg im Breisgau, Germany', '구시가 오버린덴의 빵집.', 'Bakery on Oberlinden in the old town.'),
+
+  // —— lindau: restaurants, bakeries and cafés (2026-11-07) ——
+  place('lindau-fine_dining-1', 'lindau', 'fine_dining', 'KARRisma', 'Alter Schulplatz 1, 88131 Lindau, Germany', '섬 구시가의 창의적 요리 레스토랑. 미쉐린 1스타.', 'Creative farm-to-table cooking on the island. One MICHELIN star.', { michelin: 'star1' }),
+  place('lindau-fine_dining-2', 'lindau', 'fine_dining', 'Valentin', 'In der Grub 28A, 88131 Lindau, Germany', '섬 구시가의 현대·국제 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary international restaurant on the island. In the MICHELIN Guide.'),
+  place('lindau-cafe-1', 'lindau', 'cafe', 'Café Augustin', 'Fischergasse 33, 88131 Lindau, Germany', '섬 구시가의 카페.', 'Café on the island old town.'),
+  place('lindau-cafe-2', 'lindau', 'cafe', 'MOKKA Café', 'Maximilianstraße 26, 88131 Lindau, Germany', '막시밀리안 거리의 카페.', 'Café on Maximilianstrasse.'),
 ]
