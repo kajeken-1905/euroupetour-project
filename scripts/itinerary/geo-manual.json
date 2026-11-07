@@ -3482,5 +3482,255 @@
     49.41418,
     8.70956,
     "OSM Nominatim: Alte Brücke, Altstadt, Heidelberg, Baden-Württemberg, 69117,"
+  ],
+  "bremen-h1": [
+    53.07607,
+    8.80774,
+    "OSM Nominatim: Rathaus, Am Markt 21, Bremen"
+  ],
+  "weimar-h1": [
+    50.97756,
+    11.32874,
+    "OSM Nominatim: Goethe-Nationalmuseum, Frauenplan 1, Weimar"
+  ],
+  "lubeck-h1": [
+    53.86627,
+    10.67968,
+    "OSM Nominatim: Holstentor, Holstentorplatz, Innenstadt, Lübeck, Schleswig-H (Wikipedia 8m)"
+  ],
+  "lubeck-h2": [
+    53.86777,
+    10.6851,
+    "OSM Nominatim: St.-Marien-Kirche, 1, Marienkirchhof, Innenstadt, Lübeck, Sc (Wikipedia 10m)"
+  ],
+  "lubeck-h3": [
+    53.86655,
+    10.68577,
+    "OSM Nominatim: Niederegger, 89, Breite Straße, Innenstadt, Lübeck, Schleswi (Wikipedia 5m)"
+  ],
+  "lubeck-h4": [
+    53.87138,
+    10.68991,
+    "OSM Nominatim: Heiligen-Geist-Hospital, 11, Koberg, Innenstadt, Lübeck, Sch"
+  ],
+  "lubeck-h5": [
+    53.8739,
+    10.68953,
+    "OSM Nominatim: Europäisches Hansemuseum, 1, An der Untertrave, Innenstadt,  (Wikipedia 24m)"
+  ],
+  "lubeck-h6": [
+    53.96487,
+    10.87596,
+    "OSM Nominatim: Lübeck-Travemünde Strand, Fehlingstraße, Alt-Travemünde / Rö (Wikipedia 640m)"
+  ],
+  "bremen-h2": [
+    53.07621,
+    8.80753,
+    "OSM Nominatim: Die Bremer Stadtmusikanten, Unser Lieben Frauen Kirchhof, An (Wikipedia 3m)"
+  ],
+  "bremen-h3": [
+    53.07549,
+    8.80911,
+    "OSM Nominatim: St. Petri-Dom, 1, Am Dom, Ansgari-Viertel, Altstadt, Mitte,  (Wikipedia 17m)"
+  ],
+  "bremen-h4": [
+    53.07475,
+    8.80513,
+    "OSM Nominatim: Böttcherstraße, Ansgari-Viertel, Altstadt, Mitte, Bremen-Mit (Wikipedia 40m)"
+  ],
+  "bremen-h5": [
+    53.07284,
+    8.80967,
+    "OSM Nominatim: Schnoor, Altstadt, Mitte, Bremen-Mitte, Bremen, 28195, Deuts (Wikipedia 8m)"
+  ],
+  "bremen-h6": [
+    53.07705,
+    8.79226,
+    "OSM Nominatim: Brauerei Beck GmbH & Co. KG, Oldenburger Straße, Alte Neusta"
+  ],
+  "weimar-h2": [
+    50.97896,
+    11.32779,
+    "OSM Nominatim: Schillers Wohnhaus, Neugasse, Altstadt, Weimar, Thüringen, 9"
+  ],
+  "weimar-h3": [
+    50.97866,
+    11.33211,
+    "OSM Nominatim: Herzogin Anna Amalia Bibliothek, 1, Platz der Demokratie, Al (Wikipedia 10m)"
+  ],
+  "weimar-h4": [
+    50.976,
+    11.33675,
+    "OSM Nominatim: Goethes Gartenhaus, 1, Corona-Schröter-Weg, Parkvorstadt, Ti"
+  ],
+  "weimar-h5": [
+    50.98477,
+    11.32438,
+    "OSM Nominatim: Bauhaus-Museum Weimar, 1, Oskar-Schlemmer-Straße, Nordvorsta (Wikipedia 29m)"
+  ],
+  "weimar-h6": [
+    51.0228,
+    11.2501,
+    "OSM Nominatim: Gedenkstätte Buchenwald, Appellplatz, Weimar, Thüringen, 994 (Wikipedia 157m)"
+  ],
+  "weimar-h7": [
+    50.97869,
+    11.0302,
+    "OSM Nominatim: Krämerbrücke, Altstadt, Erfurt, Thüringen, 99084, Deutschlan (Wikipedia 45m)"
+  ],
+  "gorlitz-h1": [
+    51.15647,
+    14.99133,
+    "OSM Nominatim: Untermarkt, Historische Altstadt, Görlitz, Sachsen, Deutschl (Wikipedia 501m)"
+  ],
+  "gorlitz-h2": [
+    51.15276,
+    14.98762,
+    "OSM Nominatim: Kaufhaus Görlitz, 5;6;7, An der Frauenkirche, Innenstadt, Gö (Wikipedia 28m)"
+  ],
+  "gorlitz-h3": [
+    51.15835,
+    14.99223,
+    "OSM Nominatim: Sankt Peter und Paul, 7, Bei der Peterskirche, Historische A"
+  ],
+  "gorlitz-h4": [
+    51.15765,
+    14.99417,
+    "OSM Nominatim: Altstadtbrücke / Most Staromiejski, Altstadtbrücke, Historis (Wikipedia 727m)"
+  ],
+  "gorlitz-h5": [
+    51.15598,
+    14.99049,
+    "OSM Nominatim: Schlesisches Museum, 8, Brüderstraße, Historische Altstadt, "
+  ],
+  "gorlitz-h6": [
+    51.15862,
+    14.98319,
+    "OSM Nominatim: Heiliges Grab, 80, Heilige-Grab-Straße, Innenstadt, Görlitz,"
+  ],
+  "trier-h3": [
+    49.75624,
+    6.64353,
+    "OSM Nominatim: Dom St. Peter zu Trier, Domfreihof"
+  ],
+  "lindau-h1": [
+    47.54325,
+    9.68393,
+    "OSM Nominatim: Löwenmole (lion and lighthouse at the harbour mouth), Lindau"
+  ],
+  "aachen-h1": [
+    50.77476,
+    6.08399,
+    "OSM Nominatim: Aachener Dom, 1, Domhof, Burtscheid, Aachen-Mitte, Aachen, S (Wikipedia 4m)"
+  ],
+  "aachen-h2": [
+    50.77504,
+    6.08282,
+    "OSM Nominatim: Domschatzkammer, Johannes-Paul-II.-Straße, Burtscheid, Aache (Wikipedia 0m)"
+  ],
+  "aachen-h3": [
+    50.77607,
+    6.08377,
+    "OSM Nominatim: Aachener Rathaus, 38-40, Markt, Burtscheid, Aachen-Mitte, Aa (Wikipedia 9m)"
+  ],
+  "aachen-h4": [
+    50.7741,
+    6.08686,
+    "OSM Nominatim: Elisenbrunnen, Friedrich-Wilhelm-Platz, Burtscheid, Aachen-M"
+  ],
+  "aachen-h5": [
+    50.78299,
+    6.09706,
+    "OSM Nominatim: Carolus Thermen, 79, Passstraße, Frankenberger Viertel, Aach"
+  ],
+  "aachen-h6": [
+    50.75541,
+    6.01885,
+    "OSM Nominatim: Labyrint Drielandenpunt, Viergrenzenweg, Vaals, Limburg, Ned (Wikipedia 159m)"
+  ],
+  "trier-h1": [
+    49.75966,
+    6.64417,
+    "OSM Nominatim: Porta Nigra, 9, Porta-Nigra-Platz, Altstadt, Mitte-Gartenfel (Wikipedia 21m)"
+  ],
+  "trier-h2": [
+    49.7569,
+    6.64139,
+    "OSM Nominatim: Hauptmarkt, Altstadt, Mitte-Gartenfeld, Trier, Trierweiler,  (Wikipedia 25m)"
+  ],
+  "trier-h4": [
+    49.75343,
+    6.64339,
+    "OSM Nominatim: Konstantinbasilika, 1, Martin-Luther-Platz, Altstadt, Mitte- (Wikipedia 16m)"
+  ],
+  "trier-h5": [
+    49.75038,
+    6.64162,
+    "OSM Nominatim: Kaiserthermen, Weberbach, Altstadt, Mitte-Gartenfeld, Trier, (Wikipedia 86m)"
+  ],
+  "trier-h6": [
+    49.74788,
+    6.64879,
+    "OSM Nominatim: Amphitheater, Olewiger Straße, Gartenfeld, Mitte-Gartenfeld, (Wikipedia 30m)"
+  ],
+  "trier-h7": [
+    49.7539,
+    6.63572,
+    "OSM Nominatim: Karl-Marx-Haus, 10, Brückenstraße, Altstadt, Mitte-Gartenfel (Wikipedia 12m)"
+  ],
+  "freiburg-h1": [
+    47.99555,
+    7.85292,
+    "OSM Nominatim: Münster Unserer Lieben Frau, 1, Münsterplatz, Altstadt-Mitte (Wikipedia 10m)"
+  ],
+  "freiburg-h2": [
+    47.9956,
+    7.85273,
+    "OSM Nominatim: Münsterplatz, Altstadt-Mitte, Altstadt, Freiburg im Breisgau (Wikipedia 214m)"
+  ],
+  "freiburg-h3": [
+    47.99371,
+    7.84895,
+    "OSM Nominatim: Martinstor, Kaiser-Joseph-Straße, Altstadt-Mitte, Altstadt,  (Wikipedia 2m)"
+  ],
+  "freiburg-h4": [
+    47.99381,
+    7.85325,
+    "OSM Nominatim: Augustinermuseum, Augustinerplatz, Altstadt-Mitte, Altstadt, (Wikipedia 57m)"
+  ],
+  "freiburg-h5": [
+    47.99505,
+    7.862,
+    "OSM Nominatim: Schlossbergturm, Salzbüchsletreppe, Neuburg, Freiburg im Bre (Wikipedia 213m)"
+  ],
+  "freiburg-h6": [
+    47.89321,
+    8.14624,
+    "OSM Nominatim: Titisee, Titisee-Neustadt, VVG der Stadt Titisee-Neustadt, L (Wikipedia 806m)"
+  ],
+  "freiburg-h7": [
+    48.12636,
+    8.22765,
+    "OSM Nominatim: Triberger Wasserfälle, Triberg im Schwarzwald, GVV Raumschaf (Wikipedia 29m)"
+  ],
+  "lindau-h2": [
+    47.54634,
+    9.68388,
+    "OSM Nominatim: Maximilianstraße, Insel, Lindau (Bodensee), Landkreis Lindau (Wikipedia 70m)"
+  ],
+  "lindau-h3": [
+    47.54593,
+    9.68409,
+    "OSM Nominatim: Altes Rathaus, 4, Bismarckplatz, Insel, Lindau (Bodensee), L (Wikipedia 58m)"
+  ],
+  "lindau-h4": [
+    47.54489,
+    9.68395,
+    "OSM Nominatim: Hafenplatz, Insel, Lindau (Bodensee), Landkreis Lindau, Baye (Wikipedia 114m)"
+  ],
+  "lindau-h5": [
+    47.70625,
+    9.19156,
+    "OSM Nominatim: Insel Mainau, Litzelstetten, Konstanz, VVG der Stadt Konstan (Wikipedia 229m)"
   ]
 }

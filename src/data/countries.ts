@@ -396,11 +396,11 @@ export const countries: Country[] = [
       background: '#F5F5F5',
       text: '#1A1A1A',
     },
-    cityIds: ['hamburg', 'berlin', 'potsdam', 'cologne', 'cochem', 'frankfurt', 'rudesheim', 'leipzig', 'dresden', 'heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen'],
+    cityIds: ['hamburg', 'lubeck', 'bremen', 'berlin', 'potsdam', 'cologne', 'aachen', 'cochem', 'trier', 'frankfurt', 'rudesheim', 'leipzig', 'weimar', 'dresden', 'gorlitz', 'heidelberg', 'stuttgart', 'freiburg', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen', 'lindau'],
     cityGroups: [
-      { title: { ko: '북부', en: 'Northern Germany' }, cityIds: ['hamburg', 'berlin', 'potsdam'] },
-      { title: { ko: '중부', en: 'Central Germany' }, cityIds: ['cologne', 'cochem', 'frankfurt', 'rudesheim', 'leipzig', 'dresden'] },
-      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen'] },
+      { title: { ko: '북부', en: 'Northern Germany' }, cityIds: ['hamburg', 'lubeck', 'bremen', 'berlin', 'potsdam'] },
+      { title: { ko: '중부', en: 'Central Germany' }, cityIds: ['cologne', 'aachen', 'cochem', 'trier', 'frankfurt', 'rudesheim', 'leipzig', 'weimar', 'dresden', 'gorlitz'] },
+      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'freiburg', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen', 'lindau'] },
     ],
   },
   {

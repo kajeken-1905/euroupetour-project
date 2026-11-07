@@ -87,6 +87,12 @@ export const STAY: Record<string, StayArea[]> = {
     a('카나레조', 'Cannaregio', 'Cannaregio, Venice', '현지 분위기|Local feel', '유대인 게토가 있는 동네로 상대적으로 조용하고 역과 가깝습니다.|Around the Jewish Ghetto, calmer and near the station.'),
     a('도르소두로', 'Dorsoduro', 'Dorsoduro, Venice', '예술적인 분위기|Artsy', '아카데미아 미술관과 구겐하임이 있는 조용한 동네입니다.|A quieter area with the Accademia and the Guggenheim.'),
   ],
+  lubeck: [
+    a('구시가 섬', 'Old town island', 'Lübeck Altstadt', '처음 가는 여행에 추천|Best for a first visit', '성문과 교회, 박물관이 걸어서 닿고 중앙역까지 걸어서 약 10분입니다.|The gate, churches and museums on foot, about 10 min’s walk from the station.'),
+  ],
+  bremen: [
+    a('구시가', 'Old town', 'Bremen Altstadt', '처음 가는 여행에 추천|Best for a first visit', '광장과 슈노어, 강변이 걸어서 닿습니다.|The square, the Schnoor and the riverside on foot.'),
+  ],
   berlin: [
     a('미테', 'Mitte', 'Mitte, Berlin', '처음 가는 여행에 추천|Best for a first visit', '브란덴부르크 문과 박물관 섬을 걸어서 다닙니다.|The Brandenburg Gate and Museum Island on foot.'),
     a('크로이츠베르크', 'Kreuzberg', 'Kreuzberg, Berlin', '다문화·대안 문화|Multicultural and alternative', '식당과 바가 많고 젊은 분위기입니다.|Young and lively, with plenty to eat and drink.'),
@@ -115,6 +121,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('템플 바 주변', 'Temple Bar', 'Temple Bar, Dublin', '처음 가는 여행에 추천|Best for a first visit', '트리니티 칼리지가 걸어서 5분입니다. 밤늦게까지 시끄럽고 술값이 비쌉니다.|Five minutes from Trinity College; noisy late into the night and drinks cost more.'),
     a('세인트 스티븐스 그린·그래프턴 거리', 'St Stephen’s Green / Grafton Street', 'St Stephen’s Green, Dublin', '중심가지만 덜 붐빔|Central, fewer crowds', '식당과 공원이 가까운 중심가입니다.|Central, with restaurants and green space close by.'),
     a('메리언 스퀘어', 'Merrion Square', 'Merrion Square, Dublin', '조용한 중심가|Quiet but central', '트리니티 칼리지와 템플 바가 가깝지만 한적합니다.|Near Trinity College and Temple Bar, yet calm.'),
+  ],
+  lindau: [
+    a('섬 구시가', 'Island old town', 'Lindau Insel', '처음 가는 여행에 추천|Best for a first visit', '항구와 구시가가 걸어서 닿습니다. 장거리 열차는 섬 밖 로이틴역에 서고 섬까지 기차로 몇 분입니다.|The harbour and old town on foot; long-distance trains stop at Reutin on the mainland, a few minutes by train from the island.'),
   ],
   munich: [
     a('알트슈타트', 'Altstadt-Lehel', 'Altstadt, Munich', '처음 가는 여행에 추천|Best for a first visit', '마리엔 광장과 주요 관광지를 걸어서 다닙니다. 숙박비가 매우 비쌀 때가 있습니다.|Marienplatz and the main sights on foot; prices can be very high.'),
@@ -305,6 +314,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('르 파니에', 'Le Panier', 'Le Panier, Marseille', '옛 동네·먹거리|Old quarter and food', '구항구 위 가장 오래된 동네로 골목 식당이 많습니다.|The oldest quarter above the port, full of small places to eat.'),
     a('쿠르 쥘리앵', 'Cours Julien', 'Cours Julien, Marseille', '밤 문화|Nightlife', '바와 식당이 모인 6구 동네로 밤늦게 시끄럽습니다.|Bars and restaurants in the 6th; noisy late at night.'),
   ],
+  aachen: [
+    a('구시가 (대성당 주변)', 'Old town (around the cathedral)', 'Aachen Altstadt', '처음 가는 여행에 추천|Best for a first visit', '대성당과 시청, 온천 분수가 걸어서 닿고 중앙역까지 걸어서 약 15분입니다.|The cathedral, town hall and spring fountain on foot, about 15 min’s walk from the station.'),
+  ],
   cochem: [
     a('마을에서 묵기', 'In the town', 'Cochem', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('쾰른에서 다녀오기', 'Base in Cologne', 'Cologne', '거점에서 다녀오기|Day trip from a base', '쾰른에서 기차로 약 2시간(코블렌츠 환승)입니다.|About 2 hours by train from Cologne, changing at Koblenz.'),
@@ -334,6 +346,9 @@ export const STAY: Record<string, StayArea[]> = {
   rudesheim: [
     a('마을에서 묵기', 'In the town', 'Rüdesheim am Rhein', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁과 이른 아침에 조용한 골목을 볼 수 있습니다.|See the lanes at their quietest in the evening and early morning, once the day-trippers have gone.'),
     a('프랑크푸르트에서 다녀오기', 'Base in Frankfurt', 'Frankfurt', '거점에서 다녀오기|Day trip from a base', '프랑크푸르트에서 기차로 약 1시간 10분입니다.|About 1 hr 10 by train from Frankfurt.'),
+  ],
+  trier: [
+    a('구시가', 'Old town', 'Trier Altstadt', '처음 가는 여행에 추천|Best for a first visit', '포르타 니그라와 대성당, 로마 유적이 걸어서 닿습니다.|The Porta Nigra, cathedral and Roman sites on foot.'),
   ],
   frankfurt: [
     a('구시가 (알트슈타트)', 'Altstadt', 'Altstadt, Frankfurt', '짧은 여행·처음 가는 여행|Short and first visits', '관광지를 걸어서 다닙니다. 호텔이 적고 비싼 편입니다.|Sights on foot; few hotels, often expensive.'),
@@ -501,6 +516,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('렌트', 'Lend', 'Lend, Graz', '카페와 예술 분위기|Cafés and an arty feel', '무어강 건너편으로 미술관과 카페, 바가 많습니다. 저녁에는 시끄러울 수 있습니다.|Across the Mur, with the Kunsthaus, cafés and bars; can be noisy in the evening.'),
     a('그리스', 'Gries', 'Gries, Graz', '숙박비 절약|Cheaper', '숙소가 저렴하고 트램으로 중심가까지 10분 안팎입니다. 관광지와 떨어져 있고 일부 거리는 어수선합니다.|Cheaper rooms, about ten minutes by tram to the centre; away from the sights, and some streets are a bit rough.'),
   ],
+  weimar: [
+    a('구시가', 'Old town', 'Weimar Altstadt', '처음 가는 여행에 추천|Best for a first visit', '괴테·실러 하우스와 공원이 걸어서 닿습니다. 역에서 시내까지 걸어서 약 20분입니다.|The Goethe and Schiller houses and the park on foot; about 20 min’s walk from the station.'),
+  ],
   dresden: [
     a('구시가', 'Altstadt', 'Altstadt, Dresden', '처음 가는 여행에 추천|Best for a first visit', '츠빙거 궁전·프라우엔 교회 등 주요 명소가 모여 있어 걸어서 다닙니다. 숙박비가 비싼 편입니다.|The Zwinger, the Frauenkirche and the other sights are close together on foot; rooms cost more.'),
     a('노이슈타트', 'Neustadt', 'Äußere Neustadt, Dresden', '저녁 분위기·숙박비 절약|Evenings out, lower prices', '엘베강 건너편으로 바와 식당, 개성 있는 가게가 많고 숙소가 비교적 저렴합니다. 일부 거리는 밤에 시끄럽습니다.|Across the Elbe, full of bars, restaurants and independent shops, with cheaper rooms; some streets are loud at night.'),
@@ -534,10 +552,16 @@ export const STAY: Record<string, StayArea[]> = {
     a('쥐트슈타트', 'Südstadt', 'Südstadt, Nuremberg', '숙박비 절약|Cheaper', '중앙역 남쪽이라 교통이 편하고 숙소가 저렴합니다. 구시가에서는 조금 떨어져 있습니다.|South of the main station, well connected and cheaper; a little out of the centre.'),
     a('고스텐호프', 'Gostenhof', 'Gostenhof, Nuremberg', '조용한 동네·가족 여행|Quieter, for families', '구시가 서쪽의 주거지로 비교적 조용합니다. 중심가까지는 대중교통을 탑니다.|A residential area west of the old town, calmer; take public transport to the centre.'),
   ],
+  gorlitz: [
+    a('구시가', 'Old town', 'Görlitz Altstadt', '처음 가는 여행에 추천|Best for a first visit', '광장과 교회, 국경 다리가 걸어서 닿습니다.|The squares, church and border bridge on foot.'),
+  ],
   heidelberg: [
     a('구시가', 'Altstadt', 'Altstadt, Heidelberg', '처음 가는 여행에 추천|Best for a first visit', '성 아래 네카어강 변이라 명소를 걸어서 다닙니다. 숙박비가 비싸고 주차가 어렵습니다.|Below the castle on the Neckar, with the sights on foot; rooms are pricey and parking is hard.'),
     a('베르크하임', 'Bergheim', 'Bergheim, Heidelberg', '숙박비 절약·기차역 근처|Cheaper, near the station', '구시가 바로 서쪽이라 중앙역과 트램이 가깝고 숙소가 비교적 저렴합니다.|Just west of the old town, close to the main station and trams, with cheaper rooms.'),
     a('노이엔하임', 'Neuenheim', 'Neuenheim, Heidelberg', '가족 여행·조용한 동네|Families, quieter', '강 건너 북쪽의 푸른 주거지로 강변 공원과 동물원이 가깝습니다. 구시가까지 다리를 건너 걷거나 트램을 탑니다.|A leafy area across the river with riverside parks and the zoo; cross the bridge on foot or take the tram to the old town.'),
+  ],
+  freiburg: [
+    a('구시가', 'Old town', 'Freiburg Altstadt', '처음 가는 여행에 추천|Best for a first visit', '대성당과 광장, 슐로스베르크가 걸어서 닿습니다.|The minster, squares and Schlossberg on foot.'),
   ],
   stuttgart: [
     a('미테', 'Mitte (city centre)', 'Stuttgart-Mitte', '처음 가는 여행에 추천|Best for a first visit', '슐로스 광장과 중앙역 주변이라 쇼핑과 관광에 편합니다. 번화가라 붐빕니다.|Around Schlossplatz and the main station, handy for sights and shopping; busy and commercial.'),

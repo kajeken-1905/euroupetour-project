@@ -2385,3 +2385,61 @@ highlights/nuremberg-7.jpg | https://commons.wikimedia.org/wiki/File:Germanische
 highlights/nuremberg-8.jpg | https://commons.wikimedia.org/wiki/File:Nuernberg_Felsengaenge_002.JPG | Public domain | Janericloebe
 highlights/wurzburg-6.jpg | https://commons.wikimedia.org/wiki/File:Juliusspital_W%C3%BCrzburg_F%C3%BCrstenbau.jpg | CC BY-SA 3.0 | Bbb
 highlights/fussen-6.jpg | https://commons.wikimedia.org/wiki/File:Steingaden_-_Wieskirche,_Kapelle_v_N,_Winter.JPG | CC BY-SA 3.0 | Flodur63
+cities/lubeck.jpg | https://commons.wikimedia.org/wiki/File:Holstentor_in_L%C3%BCbeck_Frontseite.jpg | CC BY-SA 3.0 de | Christian Wolf (www.c-w-design.de)
+highlights/lubeck-1.jpg | https://commons.wikimedia.org/wiki/File:Holstentor_von_der_Petrikirche.jpg | CC BY-SA 3.0 de | Christian Wolf (www.c-w-design.de)
+highlights/lubeck-2.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_St._Mary%27s_Church,_L%C3%BCbeck_(view_from_the_west).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/lubeck-3.jpg | https://commons.wikimedia.org/wiki/File:L%C3%BCbeck_Niederegger_Arkadencafe_(38962085281).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/lubeck-4.jpg | https://commons.wikimedia.org/wiki/File:L%C3%BCbeck_Germany_Heiligen-geist-Hospital-01.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+highlights/lubeck-5.jpg | https://commons.wikimedia.org/wiki/File:Europ%C3%A4isches_Hansemuseum._-_panoramio.jpg | CC BY-SA 3.0 | Andreas Geick
+highlights/lubeck-6.jpg | https://commons.wikimedia.org/wiki/File:Abendlicher_Blick_auf_Travem%C3%BCnde_von_Priwall.jpg | CC BY 4.0 | Gerd Fahrenhorst
+cities/bremen.jpg | https://commons.wikimedia.org/wiki/File:Bremen,_Bremer_Stadtmusikanten_--_2021_--_6369.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/bremen-1.jpg | https://commons.wikimedia.org/wiki/File:Bremen,_Rathaus,_Herolde_--_2021_--_6351.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/bremen-2.jpg | https://commons.wikimedia.org/wiki/File:Bremen,_Bremer_Stadtmusikanten_--_2021_--_6358.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/bremen-3.jpg | https://commons.wikimedia.org/wiki/File:Bremen_Domt%C3%BCrme_von_Rathausstufen_19h51b4h.jpg | CC BY-SA 3.0 | Ulamm (talk)
+highlights/bremen-4.jpg | https://commons.wikimedia.org/wiki/File:B%C3%B6ttcherstra%C3%9Fe-Bremen-2024-msu-8310-.jpg | CC BY-SA 4.0 | Matthias Süßen
+highlights/bremen-5.jpg | https://commons.wikimedia.org/wiki/File:Bremen,_Schnoorviertel,_Schnoor_--_2021_--_6441.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/bremen-6.jpg | https://commons.wikimedia.org/wiki/File:Bremen-Becks_Brewery.jpg | CC BY-SA 3.0 | 
+cities/weimar.jpg | https://commons.wikimedia.org/wiki/File:Weimar_Atrium_2019.jpg | CC BY-SA 4.0 | Mantelmoewe
+highlights/weimar-1.jpg | https://commons.wikimedia.org/wiki/File:Goethe_House_(Weimar).jpg | CC BY-SA 4.0 | Yair-haklai
+highlights/weimar-2.jpg | https://commons.wikimedia.org/wiki/File:Schiller_Weimar.jpg | CC BY-SA 2.5 | Andreas Trepte
+highlights/weimar-3.jpg | https://commons.wikimedia.org/wiki/File:Weimar,_Herzogin_Anna_Amalia_Bibliothek,_2019-09_CN-05.jpg | CC BY-SA 4.0 | Steffen Schmitz (more photos)
+highlights/weimar-4.jpg | https://commons.wikimedia.org/wiki/File:Goethes_Gartenhaus-0077.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/weimar-5.jpg | https://commons.wikimedia.org/wiki/File:Bauhaus_Museum_Weimar-.jpg | CC BY-SA 4.0 | Yair-haklai
+highlights/weimar-6.jpg | https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Buchenwald_06.jpg | CC BY-SA 4.0 | FrDr
+highlights/weimar-7.jpg | https://commons.wikimedia.org/wiki/File:Erfurt_-_Kr%C3%A4merbr%C3%BCcke_2_-_8.jpg | CC BY-SA 3.0 | H. Zell
+cities/gorlitz.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6rlitz_Impressionen_2021-07_220.jpg | CC BY-SA 4.0 | This image is a work by Wikipedia and Wikimedia Commons user
+highlights/gorlitz-1.jpg | https://commons.wikimedia.org/wiki/File:Obermarkt_G%C3%B6rlitz_-_Blick_richtung_Steinstra%C3%9Fe.jpg | CC0 | ubahnverleih
+highlights/gorlitz-2.jpg | https://commons.wikimedia.org/wiki/File:Kaufhaus_G%C3%B6rlitz_vom_Dicken_Turm.jpg | CC BY-SA 4.0 | Muck
+highlights/gorlitz-3.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6rlitz_St._Peter_und_Paul_01.jpg | CC BY-SA 4.0 | ErwinMeier
+highlights/gorlitz-4.jpg | https://commons.wikimedia.org/wiki/File:MKr361498_Nei%C3%9Fe_zwischen_G%C3%B6rlitz_und_Zgorzelec.jpg | CC BY-SA 4.0 | Martin Kraft
+highlights/gorlitz-5.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6rlitz,_Schlesisches_Museum_zu_G%C3%B6rlitz.jpg | CC BY-SA 4.0 | This image is a work by Wikipedia and Wikimedia Commons user
+highlights/gorlitz-6.jpg | https://commons.wikimedia.org/wiki/File:Heiliges_Grab(Goerlitz)2005.jpg | Public domain | User ProfessorX on de.wikipedia
+cities/aachen.jpg | https://commons.wikimedia.org/wiki/File:Aachen,_Dom_--_2016_--_2724.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/aachen-1.jpg | https://commons.wikimedia.org/wiki/File:Aachen,_Dom_--_2016_--_2768.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/aachen-2.jpg | https://commons.wikimedia.org/wiki/File:Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/aachen-3.jpg | https://commons.wikimedia.org/wiki/File:Aachen,_Rathaus_--_2016_--_2772.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/aachen-4.jpg | https://commons.wikimedia.org/wiki/File:Elisenbrunnen_Panorama.jpg | CC BY-SA 2.5 | Karl Friedrich Schinkel
+highlights/aachen-5.jpg | https://commons.wikimedia.org/wiki/File:CarolusThermen04.jpg | CC BY-SA 3.0 | Wi1234
+highlights/aachen-6.jpg | https://commons.wikimedia.org/wiki/File:Grenzstein_auf_dem_Dreil%C3%A4nderpunkt_-_panoramio_(1).jpg | CC BY 3.0 | Ralf Houven
+cities/trier.jpg | https://commons.wikimedia.org/wiki/File:Hauptmarkt_in_Trier_01.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/trier-1.jpg | https://commons.wikimedia.org/wiki/File:1957_Volkswagen_Beetle,_export_model,_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg | CC BY-SA 4.0 | Palauenc05
+highlights/trier-2.jpg | https://commons.wikimedia.org/wiki/File:Hauptmarkt_in_Trier_03.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/trier-3.jpg | https://commons.wikimedia.org/wiki/File:Trier,_Hohe_Domkirche_St._Peter_--_2015_--_6172.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/trier-4.jpg | https://commons.wikimedia.org/wiki/File:Basilica_Of_Constantine_And_Maxentius.jpg | CC BY 2.0 | Paul VanDerWerf
+highlights/trier-5.jpg | https://commons.wikimedia.org/wiki/File:Trier_Kaiserthermen_BW_1.JPG | Public domain | Berthold Werner
+highlights/trier-6.jpg | https://commons.wikimedia.org/wiki/File:Trier_Amphitheater_BW_2013-07-08_13-24-21.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/trier-7.jpg | https://commons.wikimedia.org/wiki/File:Trier_-_Karl_Marx_Haus.jpg | CC BY-SA 4.0 | Hoebele
+cities/freiburg.jpg | https://commons.wikimedia.org/wiki/File:Freiburg_M%C3%BCnster_rechtes_Seitenschiff_M%C3%A4rtyrerfenster_01.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/freiburg-1.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster_Unserer_Lieben_Frau_-_Zwiefalten_01.jpg | CC BY-SA 3.0 | H. Zell
+highlights/freiburg-2.jpg | https://commons.wikimedia.org/wiki/File:Plant_market_in_M%C3%BCnsterplatz_(Freiburg)_-_DSC06561.jpg | CC0 | Daderot
+highlights/freiburg-3.jpg | https://commons.wikimedia.org/wiki/File:Kaiser-Joseph-Strasse_mit_Martinstor_in_Freiburg_im_Breisgau_(2025).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/freiburg-4.jpg | https://commons.wikimedia.org/wiki/File:Augustinermuseum_Freiburg_-_DSC06509.JPG | CC0 | Daderot
+highlights/freiburg-5.jpg | https://commons.wikimedia.org/wiki/File:Am_Schlossberg_view_Freiburg_im_Breisgau_Neuburg.jpg | CC BY 4.0 | Datsofelija
+highlights/freiburg-6.jpg | https://commons.wikimedia.org/wiki/File:Double_rainbow_over_Titisee_Lake_seen_from_Campingplatz_Weiherhof.jpg | CC BY 4.0 | XdTAGCLAN
+highlights/freiburg-7.jpg | https://commons.wikimedia.org/wiki/File:Triberg_Wasserfalle.jpg | CC0 | Hecmon
+cities/lindau.jpg | https://commons.wikimedia.org/wiki/File:Lindau_Lake_Constance_002.jpg | CC BY-SA 2.5 | Markus Bernet
+highlights/lindau-1.jpg | https://commons.wikimedia.org/wiki/File:Lindau,_Hafeneinfahrt_--_2026_--_2362.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/lindau-2.jpg | https://commons.wikimedia.org/wiki/File:Lindau_Maximilianstra%C3%9Fe_01.jpg | CC BY-SA 4.0 | H. Helmlechner
+highlights/lindau-3.jpg | https://commons.wikimedia.org/wiki/File:Lindau,_Rathaus_Nordseite-001.jpg | CC BY-SA 3.0 | Tilman2007
+highlights/lindau-4.jpg | https://commons.wikimedia.org/wiki/File:BSB-Schiff_in_Wasserburg_(Bodensee)_(2026-07-07)-3.jpg | CC BY-SA 4.0 | Sneeuwvlakte
+highlights/lindau-5.jpg | https://commons.wikimedia.org/wiki/File:Insel_Mainau_Aerial.jpg | CC BY-SA 4.0 | SimonWaldherr

@@ -671,6 +671,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'clervaux',
       tip: '기차로 약 1시간. 성에서 사진전 ‘인간 가족’을 보고 숲길로 수도원에 오릅니다(월·화요일 휴관).|About an hour by train: The Family of Man in the castle, then the woodland path up to the abbey (closed Mondays and Tuesdays).',
     },
+    {
+      to: 'trier',
+      tip: '기차로 약 50분. 로마 성문 포르타 니그라와 황제 목욕탕, 대성당을 봅니다.|About 50 min by train: the Roman Porta Nigra, the imperial baths and the cathedral.',
+    },
   ],
   helsinki: [
     {
@@ -1131,6 +1135,16 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       tip: '돌다리와 대성당, 탑 저택이 늘어선 구시가를 걷고 소시지 주방에서 점심을 먹습니다.|The stone bridge, the cathedral and the old town of tower houses, with lunch at the sausage kitchen.',
     },
   ],
+  hamburg: [
+    {
+      to: 'lubeck',
+      tip: '기차로 약 50분. 홀스텐 문과 벽돌 고딕 교회, 마르치판 가게를 봅니다.|About 50 min by train: the Holstentor, Brick Gothic churches and the marzipan shop.',
+    },
+    {
+      to: 'bremen',
+      tip: '기차로 약 1시간. 시청과 롤란트 상, 브레멘 음악대 동상, 슈노어 골목을 봅니다.|About 1 hr by train: the town hall and Roland, the Town Musicians statue and the Schnoor lanes.',
+    },
+  ],
   dresden: [
     {
       to: 'leipzig',
@@ -1139,6 +1153,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'hrensko',
       tip: 'S1 열차와 나룻배로 약 1시간 20분. 프라브치츠카 문과 협곡 보트를 봅니다.|About 1 hr 20 by S1 train and ferry: Pravčická brána and the gorge boats.',
+    },
+    {
+      to: 'gorlitz',
+      tip: '기차로 약 1시간 30분. 전쟁 피해가 없는 중세 구시가와 폴란드로 건너가는 다리를 봅니다.|About 1 hr 30 by train: an intact medieval old town and the bridge across to Poland.',
     },
   ],
   athens: [
@@ -1556,6 +1574,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'colmar',
       tip: '국경을 넘어 쁘띠트 베니스 운하와 운터린덴 미술관을 봅니다. 미술관은 화요일 휴관입니다.|Across the border for the Petite Venise canals and the Unterlinden Museum; the museum is closed on Tuesdays.',
     },
+    {
+      to: 'freiburg',
+      tip: '기차로 약 40분. 고딕 대성당과 베힐레 물길, 대성당 광장 시장을 봅니다.|About 40 min by train: the Gothic minster, the Bächle channels and the minster market.',
+    },
   ],
   heidelberg: [
     {
@@ -1571,6 +1593,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'cochem',
       tip: '모젤 강변 마을과 라이히스부르크 성을 봅니다. 엘츠 성까지 보려면 모젤케른역에서 숲길을 걸어 하루가 꽉 찹니다.|The Moselle town and the Reichsburg; adding Eltz Castle, a forest walk from Moselkern, fills the day.',
+    },
+    {
+      to: 'aachen',
+      tip: '기차로 약 55분. 샤를마뉴의 대성당과 시청, 온천 분수를 봅니다.|About 55 min by train: Charlemagne’s cathedral, the town hall and the thermal fountain.',
     },
   ],
   gdansk: [

@@ -1021,6 +1021,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
+  lindau: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '섬 구시가는 걸어서 다닙니다. 보덴호 유람선과 오스트리아 브레겐츠행 열차(약 20분)가 있습니다.',
+      en: 'Walk the island old town; lake boats and trains to Bregenz in Austria (about 20 min) leave from here.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   munich: {
     modes: ['metro', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {
@@ -1040,6 +1050,26 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
+  lubeck: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가 섬은 걸어서 다닙니다. 트라베뮌데는 기차나 버스로 갑니다.',
+      en: 'Walk the old-town island; trains or buses go to Travemünde.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  bremen: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 중앙역에서 광장까지 걸어서 약 15분이고 트램도 있습니다.',
+      en: 'Walk the old town; the square is about 15 min on foot or a short tram ride from the station.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   hamburg: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
@@ -1057,6 +1087,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
+    ],
+  },
+  aachen: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 국경점과 온천은 시내버스로 갑니다.',
+      en: 'Walk the old town; city buses go to the three-country point and the spa.',
+    },
+    apps: [
+      ta('db'),
     ],
   },
   cochem: {
@@ -1094,6 +1134,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('db'),
     ],
   },
+  trier: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '로마 유적과 구시가는 걸어서 다닙니다.',
+      en: 'Walk between the Roman sites and the old town.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   frankfurt: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
@@ -1123,6 +1173,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('dvb-mobil', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
       ta('db'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
+    ],
+  },
+  gorlitz: {
+    modes: ['walk', 'tram'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역에서 구시가까지 트램이나 걸어서 약 20분입니다.',
+      en: 'Walk the old town; it is about 20 min on foot or a short tram ride from the station.',
+    },
+    apps: [
+      ta('db'),
     ],
   },
   heidelberg: {
@@ -1201,6 +1261,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
     ],
   },
+  freiburg: {
+    modes: ['walk', 'tram', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 트램이 시내를 잇고, 검은 숲 마을은 기차로 갑니다.',
+      en: 'Walk the old town; trams cross the city and trains run into the Black Forest.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   stuttgart: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
@@ -1214,6 +1284,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt'),
       ta('free-now', { ko: '면허 택시', en: 'Licensed taxis' }),
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
+    ],
+  },
+  weimar: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 부헨발트는 버스로, 에르푸르트는 기차로 갑니다.',
+      en: 'Walk the town; buses go to Buchenwald and trains to Erfurt.',
+    },
+    apps: [
+      ta('db'),
     ],
   },
   leipzig: {

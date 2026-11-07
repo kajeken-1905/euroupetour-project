@@ -35,6 +35,14 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     ],
     bus: [['ZOB Hamburg', '함부르크 중앙버스터미널 (ZOB)']],
   },
+  lubeck: {
+    air: [['Hamburg (HAM)', '함부르크 공항 (HAM)', '함부르크|Hamburg']],
+    rail: [['Lübeck Hbf', '뤼베크 중앙역']],
+  },
+  bremen: {
+    air: [['Bremen (BRE)', '브레멘 공항 (BRE)']],
+    rail: [['Bremen Hbf', '브레멘 중앙역']],
+  },
   berlin: {
     air: [['Berlin Brandenburg (BER)', '베를린 브란덴부르크 공항 (BER)']],
     rail: [
@@ -47,6 +55,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   potsdam: {
     air: [BER()],
     rail: [['Potsdam Hbf', '포츠담 중앙역']],
+  },
+  aachen: {
+    air: [['Cologne Bonn (CGN)', '쾰른 본 공항 (CGN)', '쾰른|Cologne'], ['Düsseldorf (DUS)', '뒤셀도르프 공항 (DUS)', '뒤셀도르프|Düsseldorf']],
+    rail: [['Aachen Hbf', '아헨 중앙역']],
   },
   cochem: {
     air: [['Köln Bonn (CGN)', '쾰른 본 공항 (CGN)', '쾰른|Cologne'], FRA()],
@@ -66,6 +78,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [FRA()],
     rail: [['Rüdesheim (Rhein)', '뤼데스하임역']],
   },
+  trier: {
+    air: [LUX(), FRA()],
+    rail: [['Trier Hbf', '트리어 중앙역']],
+  },
   frankfurt: {
     air: [['Frankfurt am Main (FRA)', '프랑크푸르트 공항 (FRA)']],
     rail: [
@@ -79,12 +95,20 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Leipzig Hbf', '라이프치히 중앙역']],
     bus: [['Fernbusterminal Leipzig', '라이프치히 장거리 버스터미널']],
   },
+  weimar: {
+    air: [['Erfurt-Weimar (ERF)', '에르푸르트-바이마르 공항 (ERF)'], ['Leipzig/Halle (LEJ)', '라이프치히/할레 공항 (LEJ)', '라이프치히|Leipzig']],
+    rail: [['Weimar', '바이마르역']],
+  },
   dresden: {
     air: [['Dresden (DRS)', '드레스덴 공항 (DRS)']],
     rail: [
       ['Dresden Hbf', '드레스덴 중앙역'],
       ['Dresden-Neustadt', '드레스덴 노이슈타트역'],
     ],
+  },
+  gorlitz: {
+    air: [['Dresden (DRS)', '드레스덴 공항 (DRS)', '드레스덴|Dresden']],
+    rail: [['Görlitz', '괴를리츠역']],
   },
   heidelberg: {
     air: [FRA()],
@@ -124,6 +148,17 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [SZG(), MUC()],
     rail: [['Berchtesgaden Hbf', '베르히테스가덴 중앙역', '프라이라싱에서 환승|change at Freilassing']],
     bus: [['Berchtesgaden Hbf (Bus 840)', '중앙역 버스 정류장', '잘츠부르크행 840번|bus 840 to Salzburg']],
+  },
+  freiburg: {
+    air: [['EuroAirport Basel-Mulhouse-Freiburg (BSL)', '유로에어포트 (BSL)', '스위스 바젤|Basel, Switzerland'], FRA()],
+    rail: [['Freiburg (Breisgau) Hbf', '프라이부르크 중앙역']],
+  },
+  lindau: {
+    air: [['Friedrichshafen (FDH)', '프리드리히스하펜 공항 (FDH)', '프리드리히스하펜|Friedrichshafen'], ['Zürich (ZRH)', '취리히 공항 (ZRH)', '스위스 취리히|Zürich, Switzerland']],
+    rail: [
+      ['Lindau-Reutin', '린다우-로이틴역', '장거리 열차|long-distance trains'],
+      ['Lindau-Insel', '린다우 섬역', '구시가|old town'],
+    ],
   },
   munich: {
     air: [
