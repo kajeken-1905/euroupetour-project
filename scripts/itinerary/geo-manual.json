@@ -10,7 +10,11 @@
   "zaragoza-h5": null,
   "aveiro-h2": null,
   "schaan-h5": null,
-  "podgorica-h4": null,
+  "podgorica-h4": [
+    42.43947,
+    19.25878,
+    "OSM Nominatim: old arch bridge over the Ribnica, Stara Varoš"
+  ],
   "borgo-maggiore-h1": null,
   "milan-h8": [
     45.46493,
@@ -2643,5 +2647,105 @@
     44.10218,
     19.31977,
     "OSM Nominatim: Guber, Crni Guber, Обади, Srebrenica, Opština Srebrenica, Ре"
+  ],
+  "kotor-h1": [
+    42.42474,
+    18.7697,
+    "OSM Nominatim: Vrata od Mora (Sea Gate), Kotor Old Town"
+  ],
+  "kotor-h5": [
+    42.4251,
+    18.77025,
+    "OSM Nominatim: Muzej mačaka, Pjaca Gospe od Anđela, Kotor"
+  ],
+  "kotor-h7": [
+    42.42506,
+    18.7714,
+    "Google Maps: Kotor Maritime Museum, Trg Bokeljske mornarice 391"
+  ],
+  "podgorica-h6": [
+    42.44571,
+    19.24824,
+    "OSM Nominatim: Hram Hristovog vaskrsenja (Wikipedia 3m)"
+  ],
+  "podgorica-h9": [
+    42.675,
+    19.02917,
+    "Wikipedia: Ostrog Monastery (upper monastery)"
+  ],
+  "herceg-novi-h5": [
+    42.4518,
+    18.53132,
+    "OSM Nominatim: Šetalište 5 Danica, Herceg Novi old town"
+  ],
+  "kotor-h3": [
+    42.42208,
+    18.77488,
+    "OSM Nominatim: Tvrđava Sveti Ivan, Zanatska ulica, Kotor, Opština Kotor, 85 (Wikipedia 967m)"
+  ],
+  "kotor-h4": [
+    42.42607,
+    18.76822,
+    "OSM Nominatim: Port of Kotor, 1, M-1, Kotor, Opština Kotor, 85330, Crna Gor"
+  ],
+  "kotor-h6": [
+    42.48687,
+    18.68859,
+    "OSM Nominatim: Gospa od Škrpjela, Perast, Crna Gora / Црна Гора (Wikipedia 33m)"
+  ],
+  "kotor-h8": [
+    42.42549,
+    18.7712,
+    "OSM Nominatim: Crkva sv. Luke, Pjaca od mlijeka, Kotor, Opština Kotor, 8533"
+  ],
+  "budva-h1": [
+    42.27826,
+    18.83803,
+    "OSM Nominatim: Stari grad, Stari Grad, Budva, Opština Budva, 85313, Crna Go"
+  ],
+  "budva-h4": [
+    42.27698,
+    18.83206,
+    "OSM Nominatim: Mogren 1, M-1, Komoševina, Budva, Opština Budva, 86000, Crna"
+  ],
+  "budva-h6": [
+    42.27707,
+    18.83808,
+    "OSM Nominatim: Citadela, Starogradski trg, Stari grad, Stari Grad, Budva, O"
+  ],
+  "podgorica-h5": [
+    42.4356,
+    19.26007,
+    "OSM Nominatim: Sahat kula, Trg Vojvode Bećir-bega Osmanagića, Drač, Stara v"
+  ],
+  "podgorica-h7": [
+    42.36842,
+    19.31566,
+    "OSM Nominatim: Šipčanik, Tuzi, Opština Tuzi, 81206, Crna Gora / Црна Гора"
+  ],
+  "podgorica-h8": [
+    42.23949,
+    19.08405,
+    "OSM Nominatim: Virpazar, Ulica Vojvode Ilije Plamenca, Virpazar, Opština Ba"
+  ],
+  "herceg-novi-h1": [
+    42.45004,
+    18.53607,
+    "OSM Nominatim: Forte Mare, Partizanski put, Dubrava, Stari grad, Marići, He (Wikipedia 514m)"
+  ],
+  "herceg-novi-h2": [
+    42.4517,
+    18.5372,
+    "OSM Nominatim: Sahat Kula, Stepenište kralja Tvrtka I, Dubrava, Stari grad, (Wikipedia 511m)"
+  ],
+  "herceg-novi-h4": [
+    42.4524,
+    18.55443,
+    "OSM Nominatim: Manastir Savina, Branka Čopića, Nemila, Savina, Herceg Novi,"
+  ],
+  "herceg-novi-h6": [
+    42.45235,
+    18.53791,
+    "OSM Nominatim: Kanli Kula, Sima Matavulja, Dubrava, Stari grad, Marići, Her (Wikipedia 16m)"
   ]
 }

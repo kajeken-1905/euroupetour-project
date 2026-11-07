@@ -2269,3 +2269,11 @@ highlights/srebrenica-1.jpg | https://commons.wikimedia.org/wiki/File:Srebrenica
 highlights/srebrenica-2.jpg | https://commons.wikimedia.org/wiki/File:Stari_grad_Klotjevac.jpg | CC BY-SA 4.0 | Kojic.m
 highlights/srebrenica-3.jpg | https://commons.wikimedia.org/wiki/File:Srebrenica_Crni_Guber_1.JPG | CC BY-SA 4.0 | Julian Nyča
 highlights/jajce-4.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Mithras-Jajce.jpg | CC BY-SA 4.0 | Kisanova
+highlights/kotor-7.jpg | https://commons.wikimedia.org/wiki/File:Maritime_Museum,_Kotor,_Montenegro.jpg | CC BY-SA 4.0 | Desemeus
+highlights/kotor-8.jpg | https://commons.wikimedia.org/wiki/File:Church_of_St._Luka_(Kotor)_04.jpg | CC BY-SA 4.0 | Jaba1977
+highlights/budva-6.jpg | https://commons.wikimedia.org/wiki/File:View_from_Budva_citadel_(1).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/podgorica-6.jpg | https://commons.wikimedia.org/wiki/File:SaborniHram.JPG | CC BY-SA 3.0 | Rasho992
+highlights/podgorica-7.jpg | https://commons.wikimedia.org/wiki/File:Podgorica-Tuzi_plantaze_wineyard_IMG_1316_Cijevna_river.JPG | CC BY-SA 4.0 | Bjoertvedt
+highlights/podgorica-8.jpg | https://commons.wikimedia.org/wiki/File:Lake_Skadar,_Montenegro_3.jpg | CC BY-SA 4.0 | 井上子木
+highlights/podgorica-9.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Ostrog,_Montenegro,_2014-04-14,_DD_14.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/herceg-novi-6.jpg | https://commons.wikimedia.org/wiki/File:Kanli_kula_panorama.jpg | CC BY-SA 4.0 | MariaKristianova
