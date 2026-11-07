@@ -2643,3 +2643,48 @@ highlights/trapani-4.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_Sal
 highlights/trapani-6.jpg | https://commons.wikimedia.org/wiki/File:Viewpoint_at_Favignana_Island,_Sicily_(Italy)_-_panoramio_(2).jpg | CC BY 3.0 | Tommie Hansen
 highlights/verona-8.jpg | https://commons.wikimedia.org/wiki/File:Torre_dei_Lamberti_in_Verona_(3).jpg | CC BY-SA 4.0 | Krzysztof Golik
 highlights/arezzo-2.jpg | https://commons.wikimedia.org/wiki/File:Piazza_grande_(Arezzo).jpg | CC BY-SA 4.0 | Gzen92
+highlights/paris-41.jpg | https://commons.wikimedia.org/wiki/File:Sculpture_Decure_catacombes_Paris.JPG | Public domain | KoS
+highlights/paris-42.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_the_Courtyard_in_the_Mus%C3%A9e_National_Picasso-Paris.jpg | CC BY-SA 4.0 | DiscoA340
+highlights/paris-43.jpg | https://commons.wikimedia.org/wiki/File:Carnavalet_Par%C3%ADs_10.JPG | CC BY-SA 4.0 | Miguel Hermoso Cuesta
+highlights/paris-44.jpg | https://commons.wikimedia.org/wiki/File:Lock_on_the_Canal_Saint-Martin_6.jpg | CC BY-SA 4.0 | DiscoA340
+highlights/paris-45.jpg | https://commons.wikimedia.org/wiki/File:Fondation_Louis_Vuitton_5.jpg | CC BY 3.0 | Moktarama
+highlights/paris-46.jpg | https://commons.wikimedia.org/wiki/File:Paris_-Mus%C3%A9e_national_du_Moyen-%C3%A2ge_-_Vue_ext%C3%A9rieur_de_l%27h%C3%B4tel_de_Cluny_-_003.jpg | CC BY-SA 3.0 | Thesupermat
+highlights/reims-6.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_la_Reddition_-_entr%C3%A9e.jpg | CC BY-SA 3.0 | Gérald Garitan
+highlights/rouen-5.jpg | https://commons.wikimedia.org/wiki/File:Northeastern_staircase,_A%C3%AEtre_Saint-Maclou,_Rouen,_2024.jpg | CC0 | DimiTalen
+highlights/rouen-6.jpg | https://commons.wikimedia.org/wiki/File:Jardin_des_sculptures_-_Mus%C3%A9e_des_Beaux-Arts_de_Rouen_2025-03-23.jpg | CC0 | Andy Li
+highlights/honfleur-5.jpg | https://commons.wikimedia.org/wiki/File:Maison_Francois-Xavier-Drouin_-_06.jpg | CC BY-SA 4.0 | Jeangagnon
+highlights/etretat-5.jpg | https://commons.wikimedia.org/wiki/File:Le_Jardin_Impressions.jpg | CC BY-SA 4.0 | Etretatgarden
+highlights/bayeux-6.jpg | https://commons.wikimedia.org/wiki/File:Caisson_du_port_Mulberry_B_(Arromanches-les-Bains).jpg | CC BY-SA 4.0 | Gzen92
+highlights/saint-malo-5.jpg | https://commons.wikimedia.org/wiki/File:Cancale_(9).jpg | CC BY-SA 4.0 | Avi1111 dr. avishai teicher
+highlights/strasbourg-7.jpg | https://commons.wikimedia.org/wiki/File:Ausflugsboote_auf_der_Ill_vor_Palais_Rohan,_Strasbourg.jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/strasbourg-8.jpg | https://commons.wikimedia.org/wiki/File:Strasbourg_Barrage_Vauban_apr%C3%A8s_restauration_2012-01.jpg | CC BY-SA 3.0 | Claude TRUONG-NGOC
+highlights/strasbourg-5.jpg | https://commons.wikimedia.org/wiki/File:Bateau_Ill_Quai_Bateliers_Strasbourg_2.jpg | CC BY-SA 4.0 | Chabe01
+highlights/chartres-2.jpg | https://commons.wikimedia.org/wiki/File:Chartres_Maison_Picassiette_6.jpg | CC BY-SA 4.0 | Zairon
+highlights/amboise-5.jpg | https://commons.wikimedia.org/wiki/File:Jardins_du_ch%C3%A2teau_de_Villandry_07.JPG | CC BY-SA 3.0 | ZohaStel
+highlights/amboise-6.jpg | https://commons.wikimedia.org/wiki/File:Vouvray_wine_cave.jpg | CC BY 2.0 | Peter Dutton
+highlights/la-rochelle-5.jpg | https://commons.wikimedia.org/wiki/File:Aquarium_de_La_Rochelle.JPG | CC BY-SA 3.0 | No machine-readable author provided. CaptainHaddock assumed
+highlights/la-rochelle-6.jpg | https://commons.wikimedia.org/wiki/File:Cognac_16_Quai_M.-Hennessy_depuis_Pont-Neuf-2014.jpg | CC BY-SA 3.0 | JLPC
+highlights/dijon-6.jpg | https://commons.wikimedia.org/wiki/File:Dijon_Cit%C3%A9_internationale_de_la_gastronomie_et_du_vin_02.jpg | CC BY-SA 4.0 | FrDr
+highlights/dijon-7.jpg | https://commons.wikimedia.org/wiki/File:Vougeot_WLM2016_Ch%C3%A2teau_du_Clos_de_Vougeot_(5).jpg | CC BY-SA 4.0 | PIERRE ANDRE LECLERCQ
+highlights/lyon-6.jpg | https://commons.wikimedia.org/wiki/File:Roman_Theatre_and_Odeon_at_Fourvi%C3%A8re_2022-10-22_09.32.22.jpg | CC BY-SA 4.0 | Chris j wood
+highlights/lyon-7.jpg | https://commons.wikimedia.org/wiki/File:CiteCreation_-_Mur_des_Canuts_-_Lyon.jpg | CC0 | Klangwolke
+highlights/lyon-8.jpg | https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Palais_Saint-Pierre_-_Escalier_d%27honneur_des_Dames_de_Saint-Pierre_-_Renomm%C3%A9e_nord-est_03.jpg | CC0 | Romainbehar
+highlights/lyon-9.jpg | https://commons.wikimedia.org/wiki/File:Statue_in_the_Parc_de_la_Tete_d%27Or_(1).jpg | CC BY 4.0 | Tournasol7
+highlights/lyon-10.jpg | https://commons.wikimedia.org/wiki/File:Tram_Mus%C3%A9e_des_Confluences.JPG | CC BY-SA 4.0 | Babsy
+highlights/lyon-11.jpg | https://commons.wikimedia.org/wiki/File:Cit%C3%A9_m%C3%A9di%C3%A9vale_de_P%C3%A9rouges_-_Marilou_Perino.jpg | CC BY-SA 4.0 | Marilou Perino
+highlights/annecy-5.jpg | https://commons.wikimedia.org/wiki/File:Annecy_Canal_du_Vass%C3%A9_Pont_des_Amours.jpg | CC BY-SA 4.0 | Zairon
+highlights/chamonix-5.jpg | https://commons.wikimedia.org/wiki/File:Chamonix_-_Lac_Blanc_6.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/bordeaux-6.jpg | https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_01.jpg | CC BY-SA 4.0 | Zairon
+highlights/bordeaux-7.jpg | https://commons.wikimedia.org/wiki/File:Salles_consacr%C3%A9es_%C3%A0_l%27esclavage_au_Mus%C3%A9e_d%27Aquitaine,_Bordeaux.jpg | CC BY-SA 4.0 | Jefunky
+highlights/bordeaux-8.jpg | https://commons.wikimedia.org/wiki/File:Panorama_de_Saint_Emilion_De_la_tour_du_roi_2_-_Gironde.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/biarritz-5.jpg | https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_de_la_Mer_de_Biarritz.jpg | CC BY-SA 4.0 | Thomon
+highlights/toulouse-6.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_du_vieux_Toulouse_-_Le_port_Saint-Sauveur_et_le_canal_du_Midi_Inv.80_1389.jpg | Public domain | Didier Descouens
+highlights/toulouse-7.jpg | https://commons.wikimedia.org/wiki/File:Aeroscopia_Blagnac.jpg | CC0 | Patrice Bon
+highlights/montpellier-6.jpg | https://commons.wikimedia.org/wiki/File:Montpellier_Promenade_du_Peyrou_Aqueduc_Saint-Cl%C3%A9ment_1.jpg | CC BY-SA 4.0 | Zairon
+highlights/avignon-6.jpg | https://commons.wikimedia.org/wiki/File:Vue_d%27ensemble_du_vieux_village_Ch%C3%A2teauneuf-du-Pape.JPG | CC BY-SA 3.0 | Vi..Cult...
+highlights/marseille-6.jpg | https://commons.wikimedia.org/wiki/File:La_cath%C3%A9drale_de_la_Major_de_Marseille_vue_en_contre-plong%C3%A9e.jpg | CC BY-SA 4.0 | Remontees
+highlights/marseille-7.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27If,_le_matin.jpg | CC BY-SA 4.0 | Vlad Mandyev
+highlights/nice-6.jpg | https://commons.wikimedia.org/wiki/File:Nice_(06)_Mus%C3%A9e_Matisse_591.jpg | CC BY-SA 4.0 | GFreihalter
+highlights/cannes-4.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_%C3%8Eles_de_L%C3%A9rins.jpg | CC BY 4.0 | Olivier Cleynen
+highlights/nice-7.jpg | https://commons.wikimedia.org/wiki/File:%D0%92%D0%86%D0%A6%D0%95%D0%91%D0%A1%D0%9A._%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0_%D0%A8%D0%B0%D0%B3%D0%B0%D0%BB%D0%B0_-_VICIEBSK._Marc_Chagall_Museum..jpg | CC BY 3.0 | Jurasikt
+highlights/dijon-8.jpg | https://commons.wikimedia.org/wiki/File:Beaune.-_Vitrail_de_la_chapelle_de_l%27H%C3%B4tel-Dieu_aux_armoiries_de_Nicolas_Rolin,.jpg | CC BY-SA 4.0 | Pierre André Leclercq

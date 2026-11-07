@@ -1,0 +1,502 @@
+{
+"bordeaux-h6": [
+"Tour Pey-Berland",
+"Cathedral of Saint-André & Pey-Berland Tower"
+],
+"bordeaux-h7": [
+"Musée d'Aquitaine",
+"Musée d’Aquitaine"
+],
+"bordeaux-h5": [
+"Chartrons Bordeaux",
+"Chartrons"
+],
+"bordeaux-h8": [
+"Saint-Émilion",
+"Saint-Émilion"
+],
+"arcachon-h1": [
+"Dune du Pilat",
+"Dune du Pilat"
+],
+"arcachon-h2": [
+"Bassin d'Arcachon",
+"Arcachon Bay"
+],
+"biarritz-h5": [
+"Aquarium de Biarritz",
+"Musée de la Mer"
+],
+"toulouse-h4": [
+"Garonne Toulouse",
+"Garonne quays"
+],
+"toulouse-h6": [
+"Port Saint-Sauveur Toulouse",
+"Canal du Midi"
+],
+"toulouse-h7": [
+"Aeroscopia",
+"Aeroscopia"
+],
+"carcassonne-h1": [
+"La Cité de Carcassonne",
+"La Cité"
+],
+"carcassonne-h2": [
+"Château Comtal Carcassonne",
+"Château Comtal and ramparts"
+],
+"carcassonne-h3": [
+"Basilique Saint-Nazaire Carcassonne",
+"Basilica of Saint-Nazaire"
+],
+"carcassonne-h4": [
+"Pont Vieux Carcassonne",
+"Pont Vieux"
+],
+"carcassonne-h5": [
+"Place Carnot Carcassonne",
+"Bastide Saint-Louis"
+],
+"carcassonne-h6": [
+"Canal du Midi Carcassonne",
+"Canal du Midi"
+],
+"narbonne-h1": [
+"Cathédrale Saint-Just-et-Saint-Pasteur Narbonne",
+"Cathedral of Saint-Just-et-Saint-Pasteur"
+],
+"narbonne-h2": [
+"Palais des Archevêques Narbonne",
+"Archbishops’ Palace"
+],
+"narbonne-h3": [
+"Via Domitia Narbonne",
+"Via Domitia"
+],
+"narbonne-h4": [
+"Les Halles de Narbonne",
+"Les Halles"
+],
+"narbonne-h5": [
+"Narbo Via musée",
+"Narbo Via"
+],
+"perpignan-h1": [
+"Palais des Rois de Majorque",
+"Palace of the Kings of Majorca"
+],
+"perpignan-h2": [
+"Le Castillet Perpignan",
+"Le Castillet"
+],
+"perpignan-h3": [
+"Cathédrale Saint-Jean-Baptiste Perpignan",
+"Cathedral of Saint-Jean-Baptiste"
+],
+"perpignan-h4": [
+"Place de la Loge Perpignan",
+"Place de la Loge"
+],
+"collioure-h1": [
+"Église Notre-Dame-des-Anges Collioure",
+"Notre-Dame-des-Anges"
+],
+"collioure-h2": [
+"Château Royal de Collioure",
+"Château Royal de Collioure"
+],
+"collioure-h3": [
+"Chemin du Fauvisme Collioure",
+"Fauvism trail"
+],
+"collioure-h4": [
+"Fort Saint-Elme Collioure",
+"Fort Saint-Elme"
+],
+"montpellier-h2": [
+"Écusson Montpellier",
+"Écusson"
+],
+"montpellier-h6": [
+"Promenade du Peyrou",
+"Promenade du Peyrou & aqueduct"
+],
+"sete-h1": [
+"Canal Royal Sète",
+"Canal Royal"
+],
+"sete-h2": [
+"Mont Saint-Clair Sète",
+"Mont Saint-Clair"
+],
+"sete-h3": [
+"Cimetière marin Sète",
+"Cimetière marin"
+],
+"sete-h4": [
+"Musée Paul Valéry Sète",
+"Musée Paul Valéry"
+],
+"sete-h5": [
+"Bouzigues",
+"Thau lagoon and Bouzigues"
+],
+"aigues-mortes-h1": [
+"Tour de Constance Aigues-Mortes",
+"Ramparts and Tower of Constance"
+],
+"aigues-mortes-h2": [
+"Salins d'Aigues-Mortes",
+"Pink salt marshes"
+],
+"aigues-mortes-h3": [
+"Place Saint-Louis Aigues-Mortes",
+"Place Saint-Louis"
+],
+"aigues-mortes-h4": [
+"Plage de l'Espiguette",
+"L’Espiguette beach"
+],
+"nimes-h1": [
+"Arènes de Nîmes",
+"Arena of Nîmes"
+],
+"nimes-h2": [
+"Maison Carrée Nîmes",
+"Maison Carrée"
+],
+"nimes-h3": [
+"Musée de la Romanité",
+"Musée de la Romanité"
+],
+"nimes-h4": [
+"Jardins de la Fontaine Nîmes",
+"Jardins de la Fontaine and Tour Magne"
+],
+"nimes-h5": [
+"Pont du Gard",
+"Pont du Gard"
+],
+"avignon-h5": [
+"Remparts Avignon",
+"City ramparts"
+],
+"avignon-h6": [
+"Châteauneuf-du-Pape",
+"Châteauneuf-du-Pape"
+],
+"arles-h1": [
+"Amphithéâtre d'Arles",
+"Arles Amphitheatre"
+],
+"arles-h2": [
+"Théâtre antique d'Arles",
+"Roman Theatre"
+],
+"arles-h3": [
+"Cloître Saint-Trophime Arles",
+"Saint-Trophime Church and Cloister"
+],
+"arles-h4": [
+"Espace Van Gogh Arles",
+"Espace Van Gogh"
+],
+"arles-h5": [
+"LUMA Arles",
+"LUMA Arles"
+],
+"arles-h6": [
+"Parc ornithologique du Pont de Gau",
+"Camargue"
+],
+"les-baux-de-provence-h1": [
+"Château des Baux-de-Provence",
+"Château des Baux"
+],
+"les-baux-de-provence-h2": [
+"Carrières des Lumières",
+"Carrières des Lumières"
+],
+"les-baux-de-provence-h3": [
+"Église Saint-Vincent Les Baux-de-Provence",
+"Village lanes and Saint-Vincent Church"
+],
+"les-baux-de-provence-h4": [
+"Monastère Saint-Paul-de-Mausole",
+"Saint-Rémy-de-Provence"
+],
+"gordes-h1": [
+"Belvédère de Gordes",
+"Gordes viewpoint"
+],
+"gordes-h2": [
+"Abbaye Notre-Dame de Sénanque",
+"Sénanque Abbey"
+],
+"gordes-h3": [
+"Château de Gordes",
+"Village lanes and château"
+],
+"gordes-h4": [
+"Village des Bories Gordes",
+"Village des Bories"
+],
+"gordes-h5": [
+"Sentier des Ocres Roussillon",
+"Roussillon Ochre Trail"
+],
+"isle-sur-la-sorgue-h1": [
+"Marché de L'Isle-sur-la-Sorgue",
+"Sunday antiques market"
+],
+"isle-sur-la-sorgue-h2": [
+"Roues à aubes L'Isle-sur-la-Sorgue",
+"Water wheels and canals"
+],
+"isle-sur-la-sorgue-h3": [
+"Collégiale Notre-Dame-des-Anges L'Isle-sur-la-Sorgue",
+"Collégiale Notre-Dame-des-Anges"
+],
+"isle-sur-la-sorgue-h4": [
+"Partage des Eaux L'Isle-sur-la-Sorgue",
+"Partage des Eaux"
+],
+"isle-sur-la-sorgue-h5": [
+"Fontaine de Vaucluse",
+"Fontaine-de-Vaucluse"
+],
+"aix-en-provence-h1": [
+"Cours Mirabeau Aix-en-Provence",
+"Cours Mirabeau"
+],
+"aix-en-provence-h2": [
+"Fontaine de la Rotonde Aix-en-Provence",
+"Fontaine de la Rotonde"
+],
+"aix-en-provence-h3": [
+"Cathédrale Saint-Sauveur Aix-en-Provence",
+"Cathédrale Saint-Sauveur"
+],
+"aix-en-provence-h4": [
+"Atelier de Cézanne Aix-en-Provence",
+"Atelier de Cézanne"
+],
+"aix-en-provence-h5": [
+"Musée Granet Aix-en-Provence",
+"Musée Granet"
+],
+"aix-en-provence-h6": [
+"Hôtel de Caumont Aix-en-Provence",
+"Hôtel de Caumont"
+],
+"moustiers-sainte-marie-h1": [
+"Moustiers-Sainte-Marie",
+"Village and the cliff star"
+],
+"moustiers-sainte-marie-h2": [
+"Chapelle Notre-Dame-de-Beauvoir Moustiers",
+"Notre-Dame-de-Beauvoir Chapel"
+],
+"moustiers-sainte-marie-h3": [
+"Musée de la Faïence Moustiers",
+"Faience Museum"
+],
+"moustiers-sainte-marie-h4": [
+"Lac de Sainte-Croix",
+"Lake Sainte-Croix"
+],
+"moustiers-sainte-marie-h5": [
+"Gorges du Verdon",
+"Verdon Gorge"
+],
+"marseille-h6": [
+"Cathédrale La Major Marseille",
+"Marseille Cathedral (La Major)"
+],
+"marseille-h4": [
+"Calanques Marseille",
+"Calanques"
+],
+"marseille-h7": [
+"Château d'If",
+"Château d’If"
+],
+"cassis-h1": [
+"Port de Cassis",
+"Port of Cassis"
+],
+"cassis-h2": [
+"Croisière Calanques Cassis",
+"Calanques boat trip"
+],
+"cassis-h3": [
+"Calanque d'En-Vau",
+"Port-Pin and En-Vau hike"
+],
+"cassis-h4": [
+"Cap Canaille",
+"Cap Canaille and Route des Crêtes"
+],
+"saint-tropez-h1": [
+"Vieux Port Saint-Tropez",
+"Vieux-Port"
+],
+"saint-tropez-h2": [
+"Citadelle de Saint-Tropez",
+"Citadelle de Saint-Tropez"
+],
+"saint-tropez-h3": [
+"Musée de l'Annonciade Saint-Tropez",
+"Musée de l’Annonciade"
+],
+"saint-tropez-h4": [
+"Place des Lices Saint-Tropez",
+"Place des Lices"
+],
+"saint-tropez-h5": [
+"La Ponche Saint-Tropez",
+"La Ponche"
+],
+"saint-tropez-h6": [
+"Plage de Pampelonne",
+"Plage de Pampelonne"
+],
+"cannes-h2": [
+"La Croisette Cannes",
+"La Croisette"
+],
+"cannes-h4": [
+"Île Sainte-Marguerite",
+"Lérins Islands"
+],
+"antibes-h1": [
+"Musée Picasso Antibes",
+"Musée Picasso"
+],
+"antibes-h2": [
+"Marché Provençal Antibes",
+"Marché provençal"
+],
+"antibes-h3": [
+"Port Vauban Antibes",
+"Port Vauban"
+],
+"antibes-h4": [
+"Fort Carré Antibes",
+"Fort Carré"
+],
+"antibes-h5": [
+"Sentier du Littoral Cap d'Antibes",
+"Cap d’Antibes coastal path"
+],
+"grasse-h1": [
+"Musée International de la Parfumerie Grasse",
+"Musée International de la Parfumerie"
+],
+"grasse-h2": [
+"Parfumerie Fragonard Usine Historique Grasse",
+"Fragonard – historic factory"
+],
+"grasse-h3": [
+"Molinard Grasse",
+"Molinard"
+],
+"grasse-h4": [
+"Cathédrale Notre-Dame-du-Puy Grasse",
+"Cathédrale Notre-Dame-du-Puy"
+],
+"grasse-h5": [
+"Place aux Aires Grasse",
+"Place aux Aires"
+],
+"saint-paul-de-vence-h1": [
+"Remparts de Saint-Paul-de-Vence",
+"Village and ramparts"
+],
+"saint-paul-de-vence-h2": [
+"Fondation Maeght",
+"Fondation Maeght"
+],
+"saint-paul-de-vence-h3": [
+"Rue Grande Saint-Paul-de-Vence",
+"Rue Grande"
+],
+"saint-paul-de-vence-h4": [
+"Cimetière de Saint-Paul-de-Vence",
+"Chagall’s grave"
+],
+"saint-paul-de-vence-h5": [
+"Chapelle du Rosaire Vence",
+"Chapelle du Rosaire (Vence)"
+],
+"nice-h7": [
+"Musée national Marc Chagall",
+"Musée Marc Chagall"
+],
+"nice-h6": [
+"Musée Matisse Nice",
+"Musée Matisse"
+],
+"eze-h1": [
+"Èze Village",
+"Èze village"
+],
+"eze-h2": [
+"Jardin Exotique d'Èze",
+"Jardin exotique d’Èze"
+],
+"eze-h3": [
+"Chemin de Nietzsche Èze",
+"Chemin de Nietzsche"
+],
+"eze-h4": [
+"Église Notre-Dame-de-l'Assomption Èze",
+"Église Notre-Dame-de-l’Assomption"
+],
+"eze-h5": [
+"Parfumerie Fragonard Èze",
+"Fragonard Èze"
+],
+"menton-h1": [
+"Vieille Ville Menton",
+"Old town"
+],
+"menton-h2": [
+"Basilique Saint-Michel-Archange Menton",
+"Basilique Saint-Michel-Archange"
+],
+"menton-h3": [
+"Musée Jean Cocteau Menton",
+"Musée Jean Cocteau"
+],
+"menton-h4": [
+"Jardin Serre de la Madone Menton",
+"Jardin Serre de la Madone"
+],
+"menton-h5": [
+"Jardin du Val Rahmeh Menton",
+"Jardin du Val Rahmeh"
+],
+"menton-h6": [
+"Promenade du Soleil Menton",
+"Promenade du Soleil"
+],
+"bonifacio-h1": [
+"Bonifacio haute ville",
+"Clifftop old town"
+],
+"bonifacio-h3": [
+"Port de Bonifacio",
+"Bonifacio marina"
+],
+"bonifacio-h4": [
+"Îles Lavezzi",
+"Lavezzi Islands"
+],
+"calvi-h2": [
+"Plage de Calvi",
+"Calvi beach"
+]
+}

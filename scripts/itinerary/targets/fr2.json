@@ -1,0 +1,23 @@
+{
+"amboise-h5": ["Château de Villandry", "Château de Villandry"],
+"amboise-h6": ["Vouvray", "Vouvray"],
+"la-rochelle-h3": ["Saint-Martin-de-Ré", "Île de Ré"],
+"la-rochelle-h4": ["Rue du Palais, La Rochelle", "La Rochelle"],
+"la-rochelle-h5": ["Aquarium La Rochelle", "Aquarium La Rochelle"],
+"la-rochelle-h6": ["Hennessy, Cognac", "Hennessy"],
+"dijon-h6": ["Cité internationale de la gastronomie et du vin, Dijon", "Cité internationale de la gastronomie et du vin"],
+"dijon-h7": ["Château du Clos de Vougeot", "Clos de Vougeot"],
+"dijon-h8": ["Hospices de Beaune", "Hospices de Beaune"],
+"lyon-h6": ["Théâtre antique de Fourvière, Lyon", "Roman Theatre of Lyon"],
+"lyon-h7": ["Mur des Canuts, Lyon", "Mur des Canuts"],
+"lyon-h8": ["Musée des Beaux-Arts de Lyon", "Musée des Beaux-Arts de Lyon"],
+"lyon-h9": ["Parc de la Tête d'Or, Lyon", "Parc de la Tête d'Or"],
+"lyon-h10": ["Musée des Confluences, Lyon", "Musée des Confluences"],
+"lyon-h11": ["Cité médiévale de Pérouges", "Pérouges"],
+"annecy-h1": ["Lac d'Annecy", "Lake Annecy"],
+"annecy-h2": ["Quai de l'Île, Annecy", "Annecy"],
+"annecy-h5": ["Pont des Amours, Annecy", "Pont des Amours"],
+"chamonix-h1": ["Aiguille du Midi", "Aiguille du Midi"],
+"chamonix-h3": ["Place Balmat, Chamonix", "Chamonix"],
+"chamonix-h5": ["Lac Blanc, Chamonix", "Lac Blanc (Haute-Savoie)"]
+}

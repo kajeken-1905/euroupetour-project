@@ -3,9 +3,21 @@
   "nicosia-h3": null,
   "dinant-h3": null,
   "lake-district-h1": null,
-  "la-rochelle-h3": null,
-  "calvi-h2": null,
-  "toulouse-h4": null,
+  "la-rochelle-h3": [
+    46.20169,
+    -1.36819,
+    "OSM Nominatim: Saint-Martin-de-Ré, La Rochelle, Charente-Maritime, Nouvelle"
+  ],
+  "calvi-h2": [
+    42.55655,
+    8.78192,
+    "OSM Nominatim: La Pinède, Calvi beach"
+  ],
+  "toulouse-h4": [
+    43.60047,
+    1.43973,
+    "OSM Nominatim: Quai de la Daurade"
+  ],
   "lugano-h2": null,
   "zaragoza-h5": null,
   "aveiro-h2": null,
@@ -4707,5 +4719,875 @@
     40.7585,
     17.52241,
     "OSM Nominatim: Masseria Il Frantoio, SP 93 Fasano-Ostuni (olive plain)"
+  ],
+  "paris-h5": [
+    48.8605,
+    2.29399,
+    "OSM Nominatim: Port de la Bourdonnais, Quartier du Gros-Caillou, Paris 7e A (Wikipedia 945m)"
+  ],
+  "paris-h40": [
+    49.19382,
+    2.48525,
+    "OSM Nominatim: Château de Chantilly, Place du Connétable, Chantilly, Senlis"
+  ],
+  "paris-h41": [
+    48.83374,
+    2.33229,
+    "OSM Nominatim: Catacombes de Paris, 1, Avenue du Colonel Henri Rol Tanguy,  (Wikipedia 17m)"
+  ],
+  "paris-h42": [
+    48.85987,
+    2.36212,
+    "OSM Nominatim: Musée national Picasso-Paris, 5, Rue de Thorigny, Quartier d (Wikipedia 28m)"
+  ],
+  "paris-h43": [
+    48.85732,
+    2.36247,
+    "OSM Nominatim: Musée Carnavalet, Rue Madame de Sévigné, Quartier des Archiv"
+  ],
+  "paris-h44": [
+    48.86896,
+    2.36717,
+    "OSM Nominatim: Canal Saint-Martin, Paris, Île-de-France, France métropolita"
+  ],
+  "paris-h45": [
+    48.87665,
+    2.26334,
+    "OSM Nominatim: Fondation Louis Vuitton, 8, Avenue du Mahatma Gandhi, Quarti (Wikipedia 2m)"
+  ],
+  "paris-h46": [
+    48.85065,
+    2.34356,
+    "OSM Nominatim: Musée de Cluny, 6, Place Paul Painlevé, Quartier de la Sorbo (Wikipedia 20m)"
+  ],
+  "giverny-h3": [
+    49.07535,
+    1.53379,
+    "OSM Nominatim: Fondation Claude Monet, 84, Rue Claude Monet, Giverny, Les A"
+  ],
+  "fontainebleau-h2": [
+    48.40212,
+    2.69985,
+    "OSM Nominatim: Château de Fontainebleau, Cour de la Fontaine, Centre, Fonta (Wikipedia 56m)"
+  ],
+  "fontainebleau-h3": [
+    48.40812,
+    2.62024,
+    "OSM Nominatim: Gorges de Franchard, Fontainebleau, Seine-et-Marne, Île-de-F"
+  ],
+  "chartres-h2": [
+    48.44213,
+    1.50697,
+    "OSM Nominatim: Maison Picassiette, 22, Rue du Repos, Plateau Nord-Est, Char (Wikipedia 13m)"
+  ],
+  "chartres-h3": [
+    48.44459,
+    1.49378,
+    "OSM Nominatim: Pont Saint-Hilaire, Plateau Nord-Est, Chartres, Eure-et-Loir"
+  ],
+  "chartres-h4": [
+    48.44781,
+    1.48791,
+    "OSM Nominatim: Cathédrale Notre-Dame, Cloître Notre-Dame, Chartres, Eure-et (Wikipedia 8m)"
+  ],
+  "reims-h5": [
+    49.04275,
+    3.9618,
+    "OSM Nominatim: Avenue de Champagne, La Villa, Épernay, Marne, Grand Est, Fr (Wikipedia 606m)"
+  ],
+  "reims-h6": [
+    49.26225,
+    4.0262,
+    "OSM Nominatim: Musée de la Reddition, 12, Rue du Président Franklin Rooseve"
+  ],
+  "rouen-h5": [
+    49.44026,
+    1.09985,
+    "OSM Nominatim: Aître Saint-Maclou, Rue Martainville, Quartier Saint-Marc / "
+  ],
+  "rouen-h6": [
+    49.44482,
+    1.09422,
+    "OSM Nominatim: Musée des Beaux-Arts, Esplanade Marcel Duchamp, Vieux-Marché (Wikipedia 38m)"
+  ],
+  "honfleur-h5": [
+    49.3044,
+    0.16482,
+    "OSM Nominatim: Calvados Christian Drouin, Route de Trouville, La Grande Cou"
+  ],
+  "etretat-h3": [
+    49.71107,
+    0.20549,
+    "OSM Nominatim: Chapelle Notre-Dame de la Garde, Avenue Damilaville, Sous La"
+  ],
+  "etretat-h5": [
+    49.71053,
+    0.20653,
+    "OSM Nominatim: Les Jardins d'Étretat, Avenue Damilaville, Sous La Chapelle,"
+  ],
+  "bayeux-h1": [
+    49.27441,
+    -0.69994,
+    "OSM Nominatim: Musée de la Tapisserie de Bayeux, 13B, Rue de Nesmond, Résid"
+  ],
+  "bayeux-h6": [
+    49.33726,
+    -0.62279,
+    "OSM Nominatim: Arromanches-les-Bains, Bayeux, Calvados, Normandie, France m"
+  ],
+  "mont-saint-michel-h4": [
+    48.61723,
+    -1.51067,
+    "OSM Nominatim: Place du Barrage, Route de la Caserne, Ardevon, Pontorson, A"
+  ],
+  "saint-malo-h5": [
+    48.67077,
+    -1.85131,
+    "OSM Nominatim: Marché aux huîtres, Rue des Parcs, Cancale, Saint-Malo, Ille (Wikipedia 684m)"
+  ],
+  "strasbourg-h5": [
+    48.58017,
+    7.75209,
+    "OSM Nominatim: Batorama - bornes automatiques, Place du Marché aux Poissons"
+  ],
+  "strasbourg-h6": [
+    48.58475,
+    7.74906,
+    "OSM Nominatim: Place Broglie, La Petite France, Centre, Strasbourg, Bas-Rhi"
+  ],
+  "strasbourg-h7": [
+    48.58101,
+    7.75265,
+    "OSM Nominatim: Palais Rohan, Rue du Bain-aux-Roses, Centre, Strasbourg, Bas (Wikipedia 37m)"
+  ],
+  "strasbourg-h8": [
+    48.5796,
+    7.738,
+    "OSM Nominatim: Barrage Vauban, Place Hans-Jean Arp, Tribunal-Gare-Porte de  (Wikipedia 18m)"
+  ],
+  "colmar-h4": [
+    48.07735,
+    7.35811,
+    "OSM Nominatim: Collégiale Saint-Martin, Place de la Cathédrale, Colmar, Col"
+  ],
+  "bayeux-h3": [
+    49.37094,
+    -0.87951,
+    "OSM Nominatim: Les Braves memorial, Omaha Beach (Saint-Laurent-sur-Mer)"
+  ],
+  "amboise-h5": [
+    47.34057,
+    0.51461,
+    "OSM Nominatim: Château de Villandry, M 7, Le Bourg, Le Château, Villandry,  (Wikipedia 138m)"
+  ],
+  "amboise-h6": [
+    47.41367,
+    0.79984,
+    "OSM Nominatim: Vouvray, Tours, Indre-et-Loire, Centre-Val de Loire, France  (Wikipedia 97m)"
+  ],
+  "la-rochelle-h4": [
+    46.1595,
+    -1.15367,
+    "OSM Nominatim: Rue du Palais, La Rochelle (arcaded street)"
+  ],
+  "la-rochelle-h5": [
+    46.15252,
+    -1.15005,
+    "OSM Nominatim: Aquarium, Esplanade de l’Encan, Le Gabut, Tasdon, La Rochell"
+  ],
+  "la-rochelle-h6": [
+    45.64899,
+    -0.33328,
+    "OSM Nominatim: Hennessy, Salles-d'Angles, Cognac, Charente, Nouvelle-Aquita"
+  ],
+  "dijon-h6": [
+    47.31687,
+    5.02938,
+    "OSM Nominatim: Cité Internationale de la Gastronomie et du Vin, Quai Nicola"
+  ],
+  "dijon-h7": [
+    47.17483,
+    4.95522,
+    "OSM Nominatim: Château du Clos de Vougeot, Rue de la Montagne, Vougeot, Bea (Wikipedia 23m)"
+  ],
+  "dijon-h8": [
+    47.02216,
+    4.83682,
+    "OSM Nominatim: Hospices de Beaune, 2, Rue de l'Hôtel-Dieu, Beaune, Côte-d'O (Wikipedia 26m)"
+  ],
+  "lyon-h7": [
+    45.77793,
+    4.82797,
+    "OSM Nominatim: Mur des Canuts, Espace Guignol, La Croix-Rousse, Lyon 4e Arr"
+  ],
+  "lyon-h8": [
+    45.7667,
+    4.83365,
+    "OSM Nominatim: Musée des Beaux-Arts de Lyon, Rue Paul Chenavard, Terreaux,  (Wikipedia 22m)"
+  ],
+  "lyon-h9": [
+    45.77858,
+    4.8521,
+    "OSM Nominatim: Parc de la Tête d'Or, Lyon, Métropole de Lyon, Rhône, Auverg (Wikipedia 216m)"
+  ],
+  "lyon-h10": [
+    45.73268,
+    4.81816,
+    "OSM Nominatim: Musée des Confluences, Autoroute du Soleil, Confluence, Lyon (Wikipedia 28m)"
+  ],
+  "lyon-h11": [
+    45.90338,
+    5.17911,
+    "OSM Nominatim: Cité Médiévale de Pérouges, Le Péage, Pérouges, Belley, Ain, (Wikipedia 662m)"
+  ],
+  "annecy-h1": [
+    45.84936,
+    6.17131,
+    "OSM Nominatim: Lac d'Annecy, Saint-Jorioz, Annecy, Haute-Savoie, Auvergne-R (Wikipedia 366m)"
+  ],
+  "annecy-h2": [
+    45.89875,
+    6.12721,
+    "OSM Nominatim: Quai de l'Île, Les Balmettes, Annecy, Haute-Savoie, Auvergne"
+  ],
+  "annecy-h5": [
+    45.9002,
+    6.13136,
+    "OSM Nominatim: Pont des Amours, Les Balmettes, Annecy, Haute-Savoie, Auverg"
+  ],
+  "chamonix-h1": [
+    45.87864,
+    6.88735,
+    "OSM Nominatim: Aiguille du Midi, Chamonix-Mont-Blanc, Bonneville, Haute-Sav (Wikipedia 11m)"
+  ],
+  "chamonix-h3": [
+    45.92309,
+    6.86951,
+    "OSM Nominatim: Place Balmat, Les Plans, Chamonix-Mont-Blanc, Bonneville, Ha (Wikipedia 15m)"
+  ],
+  "chamonix-h5": [
+    45.98262,
+    6.88886,
+    "OSM Nominatim: Lac Blanc, Chamonix-Mont-Blanc, Bonneville, Haute-Savoie, Au"
+  ],
+  "lyon-h6": [
+    45.75972,
+    4.81969,
+    "OSM Nominatim: Théâtre Gallo-Romain de Fourvière"
+  ],
+  "bordeaux-h6": [
+    44.8376,
+    -0.57661,
+    "OSM Nominatim: Tour Pey Berland, Place Pey Berland, Bordeaux, Port de la Lu"
+  ],
+  "bordeaux-h7": [
+    44.83562,
+    -0.57469,
+    "OSM Nominatim: Musée d'Aquitaine, 20, Cours Pasteur, Bordeaux, Port de la L"
+  ],
+  "bordeaux-h5": [
+    44.85864,
+    -0.56423,
+    "OSM Nominatim: Chartrons, Bordeaux Maritime, Bordeaux, Gironde, Nouvelle-Aq"
+  ],
+  "bordeaux-h8": [
+    44.89315,
+    -0.15607,
+    "OSM Nominatim: Saint-Émilion, Libourne, Gironde, Nouvelle-Aquitaine, France (Wikipedia 119m)"
+  ],
+  "arcachon-h1": [
+    44.58878,
+    -1.21417,
+    "OSM Nominatim: Dune du Pilat, La Teste-de-Buch, Arcachon, Gironde, Nouvelle (Wikipedia 240m)"
+  ],
+  "arcachon-h2": [
+    44.65647,
+    -1.14364,
+    "OSM Nominatim: Port d'Arcachon (Arcachon Bay boat departures)"
+  ],
+  "biarritz-h5": [
+    43.48318,
+    -1.56741,
+    "OSM Nominatim: Aquarium de Biarritz, Boulevard du Maréchal Leclerc, Lapurdi"
+  ],
+  "toulouse-h6": [
+    43.59525,
+    1.4563,
+    "OSM Nominatim: Port Saint-Sauveur, Côte Pavée, Bonhoure / Guilheméry / Chât"
+  ],
+  "toulouse-h7": [
+    43.66076,
+    1.36033,
+    "OSM Nominatim: Aeroscopia, Voie Lactée, Pinot, Blagnac, Toulouse, Haute-Gar (Wikipedia 62m)"
+  ],
+  "carcassonne-h1": [
+    43.1918,
+    2.3686,
+    "OSM Nominatim: La Cité de Carcassonne, Autoroute des Deux Mers, Montlegun, "
+  ],
+  "carcassonne-h2": [
+    43.20722,
+    2.3632,
+    "OSM Nominatim: Château Comtal, Place Saint-Jean, Cité de Carcassonne, La Ba"
+  ],
+  "carcassonne-h3": [
+    43.20523,
+    2.36286,
+    "OSM Nominatim: Basilique Saint-Nazaire, Place Auguste-Pierre Pont, Cité de "
+  ],
+  "carcassonne-h4": [
+    43.20983,
+    2.36094,
+    "OSM Nominatim: Pont-Vieux, La Trivalle, Bastide Saint-Louis, Carcassonne, A"
+  ],
+  "carcassonne-h5": [
+    43.2132,
+    2.35226,
+    "OSM Nominatim: Place Carnot, Bastide Saint-Louis"
+  ],
+  "carcassonne-h6": [
+    43.23872,
+    2.41076,
+    "OSM Nominatim: Canal du Midi, Castans, Carcassonne, Aude, Occitanie, France"
+  ],
+  "narbonne-h1": [
+    43.18489,
+    3.004,
+    "OSM Nominatim: Cathédrale Saint-Just et Saint-Pasteur, Rue Armand Gauthier,"
+  ],
+  "narbonne-h2": [
+    43.18409,
+    3.00386,
+    "OSM Nominatim: Palais des Archevêques, Passage de l'Ancre, Bourg, Narbonne,"
+  ],
+  "narbonne-h3": [
+    43.18377,
+    3.00422,
+    "OSM Nominatim: Via Domitia, Place de l'Hôtel de Ville, Bourg, Narbonne, Aud"
+  ],
+  "narbonne-h4": [
+    43.18119,
+    3.00511,
+    "OSM Nominatim: Les Halles, Place Émile Digeon, Bourg, Narbonne, Aude, Occit"
+  ],
+  "narbonne-h5": [
+    43.1788,
+    3.01886,
+    "OSM Nominatim: Narbo Via, Avenue André Mècle, Égassiairal, Narbonne, Aude, "
+  ],
+  "perpignan-h1": [
+    42.6939,
+    2.89607,
+    "OSM Nominatim: Palais des Rois de Majorque, Rue Jacques 1er, Saint-Mathieu, (Wikipedia 42m)"
+  ],
+  "perpignan-h2": [
+    42.70062,
+    2.89408,
+    "OSM Nominatim: Le Castillet, Place de la Victoire, Saint-Jean, Perpignan, P"
+  ],
+  "perpignan-h3": [
+    42.70059,
+    2.89716,
+    "OSM Nominatim: Cathédrale Saint-Jean-Baptiste, Rue Amiral Ribeil, Saint-Jea"
+  ],
+  "perpignan-h4": [
+    42.69966,
+    2.89473,
+    "OSM Nominatim: Place de la Loge, Saint-Jean, Perpignan, Pyrénées-Orientales"
+  ],
+  "collioure-h1": [
+    42.5276,
+    3.0865,
+    "OSM Nominatim: Église Notre-Dame-des-Anges"
+  ],
+  "collioure-h2": [
+    42.52555,
+    3.08485,
+    "OSM Nominatim: Château Royal de Collioure, Quai de l'Amirauté, La Ville, Co (Wikipedia 22m)"
+  ],
+  "collioure-h4": [
+    42.51864,
+    3.09388,
+    "OSM Nominatim: Fort Saint-Elme, Chemin del Coll de Mala Cara, Résidence les"
+  ],
+  "montpellier-h2": [
+    43.61084,
+    3.87659,
+    "OSM Nominatim: L'Écusson, Centre, Montpellier, Hérault, Occitanie, France m"
+  ],
+  "montpellier-h6": [
+    43.61147,
+    3.87008,
+    "OSM Nominatim: Promenade du Peyrou, Centre, Montpellier, Hérault, Occitanie"
+  ],
+  "sete-h2": [
+    43.40222,
+    3.6844,
+    "OSM Nominatim: Mont Saint-Clair, Sète, Montpellier, Hérault, Occitanie, Fra"
+  ],
+  "sete-h3": [
+    43.39484,
+    3.69122,
+    "OSM Nominatim: Cimetière marin, Sète, Montpellier, Hérault, Occitanie, Fran"
+  ],
+  "sete-h4": [
+    43.39538,
+    3.69066,
+    "OSM Nominatim: Musée Paul Valéry, Rue François Desnoyer, Sète, Montpellier,"
+  ],
+  "sete-h5": [
+    43.44702,
+    3.65901,
+    "OSM Nominatim: Bouzigues, Montpellier, Hérault, Occitanie, France métropoli"
+  ],
+  "aigues-mortes-h1": [
+    43.56848,
+    4.1897,
+    "OSM Nominatim: Tour de Constance, D 979, La Malamousque Dorée, Aigues-Morte"
+  ],
+  "aigues-mortes-h2": [
+    43.55761,
+    4.18337,
+    "OSM Nominatim: Boutique de vente de billets des Salins du midi, D 979, Aigu"
+  ],
+  "aigues-mortes-h3": [
+    43.56672,
+    4.19006,
+    "OSM Nominatim: Place Saint-Louis, Aigues-Mortes, Nîmes, Gard, Occitanie, Fr"
+  ],
+  "aigues-mortes-h4": [
+    43.48089,
+    4.1444,
+    "OSM Nominatim: L'Oyat-Plage, Voie Verte de l'Espiguette, Le Grau-du-Roi, Nî"
+  ],
+  "nimes-h1": [
+    43.83489,
+    4.35962,
+    "OSM Nominatim: Arènes de Nîmes, Boulevard des Arènes, Écusson, Feuchères, N (Wikipedia 33m)"
+  ],
+  "nimes-h2": [
+    43.83847,
+    4.35533,
+    "OSM Nominatim: Maison Carrée, Boulevard Alphonse Daudet, Écusson, La Placet (Wikipedia 64m)"
+  ],
+  "nimes-h3": [
+    43.8338,
+    4.35937,
+    "OSM Nominatim: Musée de la Romanité, 16, Boulevard des Arènes, Écusson, Feu (Wikipedia 16m)"
+  ],
+  "nimes-h4": [
+    43.84143,
+    4.34973,
+    "OSM Nominatim: Les Jardins de la Fontaine, La Placette, Nîmes, Gard, Occita"
+  ],
+  "nimes-h5": [
+    43.94707,
+    4.5356,
+    "OSM Nominatim: Pont du Gard, 400, Route du Pont du Gard, La Bégude, Vers-Po (Wikipedia 17m)"
+  ],
+  "avignon-h5": [
+    43.95032,
+    4.80247,
+    "OSM Nominatim: Porte de l'Oulle (ramparts)"
+  ],
+  "avignon-h6": [
+    44.05599,
+    4.83174,
+    "OSM Nominatim: Châteauneuf-du-Pape, Carpentras, Vaucluse, Provence-Alpes-Cô (Wikipedia 102m)"
+  ],
+  "arles-h1": [
+    43.67776,
+    4.63139,
+    "OSM Nominatim: Arènes d'Arles, Rue du Grand Couvent, L'Hauture, Pont-de-Cra (Wikipedia 22m)"
+  ],
+  "arles-h2": [
+    43.67649,
+    4.63002,
+    "OSM Nominatim: Théâtre antique, Rue Porte de Laure, L'Hauture, Pont-de-Crau"
+  ],
+  "arles-h3": [
+    43.67631,
+    4.62881,
+    "OSM Nominatim: Cloître Saint-Trophime, Rue du Cloitre, L'Hauture, Pont-de-C"
+  ],
+  "arles-h4": [
+    43.67572,
+    4.6255,
+    "OSM Nominatim: Espace Van Gogh, Rue Molière, Le Méjan, Arles, Bouches-du-Rh"
+  ],
+  "arles-h5": [
+    43.67312,
+    4.63731,
+    "OSM Nominatim: Parc des Ateliers, Les Alyscamps, Pont-de-Crau, Arles, Bouch (Wikipedia 38m)"
+  ],
+  "arles-h6": [
+    43.49088,
+    4.40716,
+    "OSM Nominatim: Parc Ornithologique de Pont de Gau, Route d'Arles, Pont de G"
+  ],
+  "les-baux-de-provence-h1": [
+    43.74397,
+    4.79681,
+    "OSM Nominatim: Château des Baux-de-Provence, Chemin des Tremais, Saint-Mart (Wikipedia 43m)"
+  ],
+  "les-baux-de-provence-h2": [
+    43.7489,
+    4.79722,
+    "OSM Nominatim: Carrières des Lumières, Route de Maillane, Les Baux-de-Prove"
+  ],
+  "les-baux-de-provence-h3": [
+    43.74351,
+    4.79439,
+    "OSM Nominatim: Église Saint-Vincent, Place Saint-Vincent, Carita, Les Baux-"
+  ],
+  "les-baux-de-provence-h4": [
+    43.77757,
+    4.83466,
+    "OSM Nominatim: Monastère Saint-Paul de Mausole, Avenue Docteur Edgar Leroy,"
+  ],
+  "gordes-h1": [
+    43.91034,
+    5.20058,
+    "OSM Nominatim: Rue du Belvédère, Gordes, Apt, Vaucluse, Provence-Alpes-Côte"
+  ],
+  "gordes-h2": [
+    43.92845,
+    5.18715,
+    "OSM Nominatim: Abbaye Notre-Dame de Sénanque, Chemin de l'Abbaye de Sénanqu (Wikipedia 21m)"
+  ],
+  "gordes-h3": [
+    43.91111,
+    5.19997,
+    "OSM Nominatim: Château de Gordes, D 102, Gordes, Apt, Vaucluse, Provence-Al"
+  ],
+  "gordes-h4": [
+    43.90743,
+    5.18019,
+    "OSM Nominatim: Village des Bories, Gordes, Apt, Vaucluse, Provence-Alpes-Cô (Wikipedia 17m)"
+  ],
+  "gordes-h5": [
+    43.89969,
+    5.29859,
+    "OSM Nominatim: Sentier des Ocres, Sentiers des Ocres, Roussillon, Apt, Vauc"
+  ],
+  "isle-sur-la-sorgue-h3": [
+    43.91983,
+    5.0518,
+    "OSM Nominatim: Collégiale Notre-Dame des Anges, Place de la Liberté, L'Isle"
+  ],
+  "isle-sur-la-sorgue-h4": [
+    43.91691,
+    5.07222,
+    "OSM Nominatim: Le Partage des Eaux, L'Isle-sur-la-Sorgue, Avignon, Vaucluse"
+  ],
+  "isle-sur-la-sorgue-h5": [
+    43.92212,
+    5.12729,
+    "OSM Nominatim: Fontaine-de-Vaucluse, Avignon, Vaucluse, Provence-Alpes-Côte (Wikipedia 111m)"
+  ],
+  "aix-en-provence-h1": [
+    43.52652,
+    5.44716,
+    "OSM Nominatim: Cours Mirabeau, Cuques, Aix-en-Provence, Bouches-du-Rhône, P (Wikipedia 118m)"
+  ],
+  "aix-en-provence-h3": [
+    43.53181,
+    5.44722,
+    "OSM Nominatim: Cathédrale Saint-Sauveur, 34, Place des Martyrs de la Résist (Wikipedia 15m)"
+  ],
+  "aix-en-provence-h4": [
+    43.5384,
+    5.44625,
+    "OSM Nominatim: Atelier Cézanne, Avenue Paul Cézanne, Beisson, Saint-Eutrope (Wikipedia 14m)"
+  ],
+  "aix-en-provence-h5": [
+    43.52535,
+    5.45295,
+    "OSM Nominatim: Musée Granet, 21, Rue Roux Alphéran, Cuques, Aix-en-Provence (Wikipedia 21m)"
+  ],
+  "aix-en-provence-h6": [
+    43.52626,
+    5.44879,
+    "OSM Nominatim: Hôtel de Réauville, Rue Joseph Cabassol, Cuques, Aix-en-Prov (Wikipedia 63m)"
+  ],
+  "moustiers-sainte-marie-h1": [
+    43.84601,
+    6.22176,
+    "OSM Nominatim: Moustiers-Sainte-Marie, Digne-les-Bains, Alpes-de-Haute-Prov"
+  ],
+  "moustiers-sainte-marie-h2": [
+    43.84823,
+    6.22429,
+    "OSM Nominatim: Chapelle Notre-Dame de Beauvoir, Place Jean-Baptiste Pomey, "
+  ],
+  "moustiers-sainte-marie-h3": [
+    43.84589,
+    6.22145,
+    "OSM Nominatim: Musée de la Faïence, 9, Rue du Seigneur Berthet de la Clue, "
+  ],
+  "moustiers-sainte-marie-h4": [
+    43.76732,
+    6.18393,
+    "OSM Nominatim: Lac de Sainte-Croix, Sainte-Croix-du-Verdon, Digne-les-Bains (Wikipedia 413m)"
+  ],
+  "moustiers-sainte-marie-h5": [
+    43.74966,
+    6.32856,
+    "OSM Nominatim: Gorges du Verdon, La Palud-sur-Verdon, Castellane, Alpes-de-"
+  ],
+  "marseille-h6": [
+    43.29979,
+    5.36494,
+    "OSM Nominatim: Cathédrale de la Major, 1, Avenue Robert Schuman, La Joliett"
+  ],
+  "marseille-h4": [
+    43.22943,
+    5.40343,
+    "OSM Nominatim: Les Calanques, Sormiou, Marseille 9e Arrondissement, Marseil"
+  ],
+  "marseille-h7": [
+    43.27986,
+    5.32528,
+    "OSM Nominatim: Château d'If, Chemin de Saint-Estève, Îles du Frioul, Marsei"
+  ],
+  "cassis-h1": [
+    43.21395,
+    5.53606,
+    "OSM Nominatim: Port de Cassis, Esplanade Général de Gaulle, Cassis, Marseil"
+  ],
+  "cassis-h3": [
+    43.20097,
+    5.50108,
+    "OSM Nominatim: Calanque d'En-Vau, France métropolitaine, 13288, France"
+  ],
+  "cassis-h4": [
+    43.19937,
+    5.54778,
+    "OSM Nominatim: Cap Canaille, Cassis, Marseille, Bouches-du-Rhône, Provence-"
+  ],
+  "saint-tropez-h1": [
+    43.27318,
+    6.63912,
+    "OSM Nominatim: Le Glacier du Vieux Port, Montée Honnorat Coste, Saint-Trope"
+  ],
+  "saint-tropez-h2": [
+    43.27239,
+    6.64416,
+    "OSM Nominatim: Citadelle de Saint-Tropez, Montée de la Citadelle, Saint-Tro"
+  ],
+  "saint-tropez-h3": [
+    43.27109,
+    6.63706,
+    "OSM Nominatim: Musée de l'Annonciade, Place Georges Grammont, Saint-Tropez,"
+  ],
+  "saint-tropez-h4": [
+    43.27003,
+    6.64125,
+    "OSM Nominatim: Place des Lices, Saint-Tropez, Draguignan, Var, Provence-Alp"
+  ],
+  "saint-tropez-h5": [
+    43.27346,
+    6.64117,
+    "OSM Nominatim: Plage de la Ponche, Saint-Tropez, Draguignan, Var, Provence-"
+  ],
+  "saint-tropez-h6": [
+    43.22818,
+    6.6623,
+    "OSM Nominatim: Plage de Pampelonne, Ramatuelle, Draguignan, Var, Provence-A"
+  ],
+  "cannes-h2": [
+    43.54685,
+    7.03263,
+    "OSM Nominatim: La Croisette, 79, Boulevard de la Croisette, La Lepre, Canne (Wikipedia 546m)"
+  ],
+  "cannes-h4": [
+    43.51945,
+    7.04932,
+    "OSM Nominatim: Île Sainte-Marguerite, Cannes, Grasse, Alpes-Maritimes, Prov (Wikipedia 410m)"
+  ],
+  "antibes-h1": [
+    43.58071,
+    7.12826,
+    "OSM Nominatim: Musée Picasso, Place Mariejol, Vieille Ville, Juan-les-Pins,"
+  ],
+  "antibes-h2": [
+    43.58093,
+    7.12758,
+    "OSM Nominatim: Marché Provençal, Rue Sade, Vieille Ville, Juan-les-Pins, An"
+  ],
+  "antibes-h3": [
+    43.58679,
+    7.12867,
+    "OSM Nominatim: Port Vauban, Avenue du 11 Novembre, Val Claret, Centre Ville (Wikipedia 139m)"
+  ],
+  "antibes-h4": [
+    43.59034,
+    7.12762,
+    "OSM Nominatim: Fort-Carré, Quai Éric Tabarly, Vieille Ville, Antibes, Grass"
+  ],
+  "antibes-h5": [
+    43.55529,
+    7.13969,
+    "OSM Nominatim: Cap d'Antibes - Sentier du littoral dit de \"tire-poil\", Sent"
+  ],
+  "grasse-h1": [
+    43.65805,
+    6.92185,
+    "OSM Nominatim: Musée International de la Parfumerie, 2, Boulevard du Jeu de"
+  ],
+  "grasse-h3": [
+    43.65221,
+    6.92004,
+    "OSM Nominatim: Molinard, Boulevard Victor Hugo, Saint-Claude, Grasse, Alpes"
+  ],
+  "grasse-h4": [
+    43.65785,
+    6.92476,
+    "OSM Nominatim: Cathédrale Notre-Dame-du-Puy, Traverse Saint-Martin, Saint-C"
+  ],
+  "grasse-h5": [
+    43.65953,
+    6.923,
+    "OSM Nominatim: Place aux Aires, Saint-Claude, Grasse, Alpes-Maritimes, Prov"
+  ],
+  "saint-paul-de-vence-h1": [
+    43.70503,
+    7.09839,
+    "OSM Nominatim: Avenue des Remparts, Saint-Paul-de-Vence, Grasse, Alpes-Mari"
+  ],
+  "saint-paul-de-vence-h2": [
+    43.70087,
+    7.1149,
+    "OSM Nominatim: Fondation Maeght, 623, Chemin des Gardettes, Saint-Paul-de-V (Wikipedia 34m)"
+  ],
+  "saint-paul-de-vence-h3": [
+    43.69583,
+    7.12252,
+    "OSM Nominatim: Rue Grande, Saint-Paul-de-Vence, Grasse, Alpes-Maritimes, Pr"
+  ],
+  "saint-paul-de-vence-h5": [
+    43.72751,
+    7.11286,
+    "OSM Nominatim: Chapelle du Rosaire, Avenue Henri Matisse, Le Claoux, Saint-"
+  ],
+  "nice-h6": [
+    43.71945,
+    7.27597,
+    "OSM Nominatim: Musée Matisse, 164, Avenue des Arènes de Cimiez, Valrose, Ci"
+  ],
+  "eze-h1": [
+    43.7299,
+    7.36109,
+    "OSM Nominatim: Èze Village, Moyenne Corniche, Èze-Bord-de-Mer, Èze, Nice, A"
+  ],
+  "eze-h2": [
+    43.7282,
+    7.36125,
+    "OSM Nominatim: Jardin exotique d'Èze, 20, Rue du Château, Èze-Bord-de-Mer, "
+  ],
+  "eze-h3": [
+    43.72832,
+    7.36459,
+    "OSM Nominatim: Chemin de Nietzsche, Sentier Nietzsche, Èze-Bord-de-Mer, Èze"
+  ],
+  "eze-h4": [
+    43.72848,
+    7.36174,
+    "OSM Nominatim: Église Notre-Dame de l'Assomption, Rue de l'Église, Èze-Bord"
+  ],
+  "eze-h5": [
+    43.72969,
+    7.36331,
+    "OSM Nominatim: Parfumerie Fragonard, La Condamine, Èze-Bord-de-Mer, Èze, Ni"
+  ],
+  "menton-h1": [
+    43.77566,
+    7.50837,
+    "OSM Nominatim: Vieille Ville - Sablettes, Traverse du Bastion, Garavan, Men"
+  ],
+  "menton-h2": [
+    43.77691,
+    7.50711,
+    "OSM Nominatim: Basilique Saint-Michel-Archange, Place Honoré II, Garavan, M"
+  ],
+  "menton-h3": [
+    43.77477,
+    7.50846,
+    "OSM Nominatim: Musée Jean Cocteau - Le Bastion, Place Fontana, Garavan, Men"
+  ],
+  "menton-h4": [
+    43.77557,
+    7.47526,
+    "OSM Nominatim: Serre de la Madone, Menton, Nice, Alpes-Maritimes, Provence- (Wikipedia 21m)"
+  ],
+  "menton-h5": [
+    43.78485,
+    7.51108,
+    "OSM Nominatim: Jardin botanique du Val Rahmeh, Garavan, Menton, Nice, Alpes"
+  ],
+  "menton-h6": [
+    43.77107,
+    7.4958,
+    "OSM Nominatim: Promenade du Soleil, Garavan, Menton, Nice, Alpes-Maritimes,"
+  ],
+  "bonifacio-h3": [
+    41.38871,
+    9.16531,
+    "OSM Nominatim: Quai Comparetti, Bonifacio marina"
+  ],
+  "bonifacio-h4": [
+    41.36757,
+    9.2647,
+    "OSM Nominatim: Îles Lavezzi, Bonifacio / Bunifaziu, Sartène, Corse-du-Sud, "
+  ],
+  "collioure-h3": [
+    42.52676,
+    3.08462,
+    "OSM Nominatim: Place du 18 Juin (Chemin du Fauvisme start)"
+  ],
+  "sete-h1": [
+    43.40375,
+    3.69681,
+    "OSM Nominatim: Quai de la Résistance, Canal Royal"
+  ],
+  "isle-sur-la-sorgue-h1": [
+    43.9197,
+    5.05149,
+    "OSM Nominatim: Place de la Liberté (market)"
+  ],
+  "isle-sur-la-sorgue-h2": [
+    43.91917,
+    5.0539,
+    "OSM Nominatim: Quai Jean Jaurès (water wheels)"
+  ],
+  "aix-en-provence-h2": [
+    43.52629,
+    5.44557,
+    "OSM Nominatim: La Rotonde, Place du Général de Gaulle"
+  ],
+  "cassis-h2": [
+    43.21376,
+    5.5379,
+    "OSM Nominatim: Quai Saint-Pierre (Calanques boats)"
+  ],
+  "grasse-h2": [
+    43.65721,
+    6.92156,
+    "OSM Nominatim: Fragonard, Boulevard Fragonard"
+  ],
+  "saint-paul-de-vence-h4": [
+    43.69417,
+    7.12325,
+    "OSM Overpass: Saint-Paul-de-Vence cemetery (Q2972557)"
+  ],
+  "nice-h7": [
+    43.70914,
+    7.26953,
+    "OSM Nominatim: Musée Marc Chagall, 36 Avenue du Docteur Ménard"
+  ],
+  "bonifacio-h1": [
+    41.38788,
+    9.15822,
+    "OSM Nominatim: Citadelle, Bonifacio"
   ]
 }
