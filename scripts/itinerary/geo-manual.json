@@ -7747,5 +7747,100 @@
     33.5948,
     -7.67,
     "manual 2026-11-08: Corniche Ain Diab"
+  ],
+  "tunis-h1": [
+    36.79869,
+    10.17174,
+    "OSM Nominatim: مدينة تونس العتيقة, Rue Sidi Maaouia, المدينة, معتمدية المدي"
+  ],
+  "tunis-h2": [
+    36.79736,
+    10.17152,
+    "OSM Nominatim: جامع الزيتونة, نهج جامع الزيتونة, مدينة تونس العتيقة, الأسوا (Wikipedia 41m)"
+  ],
+  "tunis-h3": [
+    36.8095,
+    10.1342,
+    "manual 2026-11-08: Musée national du Bardo"
+  ],
+  "tunis-h4": [
+    36.7999,
+    10.183,
+    "manual 2026-11-08: Avenue Habib Bourguiba"
+  ],
+  "tunis-h5": [
+    36.85449,
+    10.33378,
+    "OSM Nominatim: الحمامات أنطونيس العامة, قرطاج الشاطئ, قرطاج, تونس, ولاية تو"
+  ],
+  "tunis-h6": [
+    36.87109,
+    10.34905,
+    "OSM Nominatim: سيدي بو سعيد, قرطاج, تونس, ولاية تونس, 2026, تونس (Wikipedia 175m)"
+  ],
+  "sousse-h1": [
+    35.82765,
+    10.63858,
+    "OSM Nominatim: رباط سوسة, ساحة الشهداء, مدينة سوسة العتيقة, المدينة, سوسة,  (Wikipedia 15m)"
+  ],
+  "sousse-h2": [
+    35.82765,
+    10.63858,
+    "OSM Nominatim: رباط سوسة, ساحة الشهداء, مدينة سوسة العتيقة, المدينة, سوسة,  (Wikipedia 21m)"
+  ],
+  "sousse-h4": [
+    35.82311,
+    10.63558,
+    "OSM Nominatim: المتحف الأثري بسوسة, نهج ابن رشيق, مدينة سوسة العتيقة, المدي (Wikipedia 132m)"
+  ],
+  "sousse-h5": [
+    35.29641,
+    10.70751,
+    "OSM Nominatim: Amphithéâtre d'El Jem, Front Stairs, El Jem, المرابطين, معتم"
+  ],
+  "monastir-h1": [
+    35.77616,
+    10.83291,
+    "OSM Nominatim: رباط المنستير, نهج باب تونس, الربط, معتمدية المنستير, ولاية  (Wikipedia 7m)"
+  ],
+  "monastir-h3": [
+    35.7765,
+    10.828,
+    "manual 2026-11-08: Marina de Monastir"
+  ],
+  "monastir-h4": [
+    35.50395,
+    11.06865,
+    "OSM Nominatim: السقيفة الكحلة, نهج عبيد الله المهدي, المهدية, معتمدية المهد"
+  ],
+  "kairouan-h1": [
+    35.68154,
+    10.10424,
+    "OSM Nominatim: جامع القيروان الكبير, Rue Sanaani, المدينة العتيقة, القيروان"
+  ],
+  "kairouan-h4": [
+    35.68154,
+    10.10424,
+    "OSM Nominatim: جامع القيروان الكبير, نهج إبراهيم ابن الأغلب, المدينة العتيق"
+  ],
+  "sousse-h3": [
+    35.8283,
+    10.6403,
+    "manual 2026-11-08: Great Mosque of Sousse"
+  ],
+  "monastir-h2": [
+    35.77,
+    10.8274,
+    "manual 2026-11-08: Mausoleum of Habib Bourguiba"
+  ],
+  "kairouan-h2": [
+    35.6869,
+    10.0985,
+    "manual 2026-11-08: Aghlabid Basins"
+  ],
+  "kairouan-h3": [
+    35.6858,
+    10.0937,
+    "manual 2026-11-08: Zaouia of Sidi Sahab"
   ]
 }

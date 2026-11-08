@@ -2596,6 +2596,42 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  tunis: {
+    modes: ['walk', 'tram', 'train', 'taxi'],
+    howTo: {
+      ko: '메디나는 걸어서, 시내는 경전철(메트로 레제르)과 택시로, 카르타고·시디 부 사이드는 TGM 근교 열차로 갑니다.',
+      en: 'Walk the medina, use the light rail (métro léger) and taxis in town, and the TGM suburban train to Carthage and Sidi Bou Said.',
+    },
+    apps: [
+    ],
+  },
+  sousse: {
+    modes: ['walk', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 모나스티르·마흐디아는 사헬 전철로, 카이루안은 루아지로 갑니다.',
+      en: 'Walk the town; take the Sahel metro to Monastir and Mahdia and a louage to Kairouan.',
+    },
+    apps: [
+    ],
+  },
+  monastir: {
+    modes: ['walk', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 수스·마흐디아는 사헬 전철로 갑니다.',
+      en: 'Walk the town; take the Sahel metro to Sousse and Mahdia.',
+    },
+    apps: [
+    ],
+  },
+  kairouan: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '메디나와 대모스크는 걸어서 다닙니다.',
+      en: 'Walk between the medina and the Great Mosque.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

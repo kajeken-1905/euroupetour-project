@@ -1750,6 +1750,41 @@ export const countries: Country[] = [
       { title: { ko: '대서양 연안', en: 'Atlantic coast' }, cityIds: ['rabat', 'casablanca'] },
     ],
   },
+  {
+    id: 'tn',
+    region: 'mena',
+    name: { ko: '튀니지', en: 'Tunisia' },
+    nativeName: 'تونس · Tunisie',
+    flagImage: '/flags/tn.svg',
+    landmarkImage: '/landmarks/landmark-tn.jpg',
+    flag: '🇹🇳',
+    blurb: {
+      ko: '시칠리아 건너편 지중해의 나라. 카르타고와 로마 원형경기장, 이슬람 성지 카이루안, 흰 벽에 파란 문의 시디 부 사이드가 있습니다.',
+      en: 'The Mediterranean country across from Sicily—Carthage and a Roman amphitheatre, the holy city of Kairouan, and white-and-blue Sidi Bou Said.',
+    },
+    facts: {
+      population: { ko: '약 1,197만 명 (2024년 인구조사)', en: 'Approx. 11.97 million (2024 census)' },
+      area: { ko: '약 16만 3,610 km²', en: 'Approx. 163,610 km²' },
+      capital: { ko: '튀니스 (Tunis)', en: 'Tunis' },
+      currency: { ko: '튀니지 디나르 (TND, DT)', en: 'Tunisian dinar (TND, DT)' },
+    },
+    currencyCode: 'TND',
+    currencySymbol: 'DT',
+    schengen: false,
+    flagColors: {
+      primary: '#E70013',
+      secondary: '#FFFFFF',
+      accent: '#E70013',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['tunis', 'sousse', 'monastir', 'kairouan'],
+    cityGroups: [
+      { title: { ko: '튀니스', en: 'Tunis' }, cityIds: ['tunis'] },
+      { title: { ko: '사헬 해안', en: 'Sahel coast' }, cityIds: ['sousse', 'monastir'] },
+      { title: { ko: '내륙', en: 'Inland' }, cityIds: ['kairouan'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

@@ -3094,3 +3094,27 @@ highlights/essaouira-3.jpg | https://www.flickr.com/photos/91772175@N00/53217076
 highlights/fez-7.jpg | https://www.flickr.com/photos/45959769@N02/5447898203 | BY 2.0 | Anja Disseldorp
 highlights/casablanca-4.jpg | https://commons.wikimedia.org/wiki/File:Promenade_sur_la_Corniche_Ain_Diab_%C3%A0_Casablanca_-_photo_Bertrand_SOUBEYRAND.jpg | CC BY-SA 4.0 | Bertrand SOUBEYRAND
 highlights/merzouga-2.jpg | https://commons.wikimedia.org/wiki/File:Aiour_Luxury_Camp_(54242710330).jpg | CC BY 2.0 | Jorge Franganillo
+landmarks/landmark-tn.jpg | https://commons.wikimedia.org/wiki/File:Antonine_Baths_at_Carthage.jpg | CC BY 2.0 | Institute for the Study of the Ancient World
+cities/tunis.jpg | https://commons.wikimedia.org/wiki/File:Super_moon_over_Medina_of_Tunis.jpg | CC BY-SA 4.0 | IssamBarhoumi
+highlights/tunis-1.jpg | https://commons.wikimedia.org/wiki/File:View_over_the_Medina_of_Tunis_02.jpg | CC BY-SA 4.0 | Kritzolina
+highlights/tunis-2.jpg | https://commons.wikimedia.org/wiki/File:Dome_and_Minaret_of_Jamaa_Zitouna.jpg | CC BY-SA 4.0 | IssamBarhoumi
+highlights/tunis-3.jpg | https://commons.wikimedia.org/wiki/File:Diane_la_chasseresse_d%27El_Jem_-_Mus%C3%A9e_du_BARDO_2.jpg | CC BY-SA 4.0 | Selma JMII
+highlights/tunis-4.jpg | https://commons.wikimedia.org/wiki/File:TunisAveHabibBourguiba.jpg | CC0 | Dacoslett
+highlights/tunis-5.jpg | https://commons.wikimedia.org/wiki/File:Antonine_Baths.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/tunis-6.jpg | https://commons.wikimedia.org/wiki/File:Sidi_Bou_Said,_Tunisia,_19_March_2018_DSC_8004.jpg | CC BY 4.0 | Habib M'henni
+cities/sousse.jpg | https://commons.wikimedia.org/wiki/File:Medina_of_Sousse,_Sousse_Governorate,_Tunisia,_January_2024_-_Wall_and_palms.jpg | CC BY 2.0 | Sharon Hahn Darlin
+highlights/sousse-1.jpg | https://commons.wikimedia.org/wiki/File:Medina_of_Sousse,_Sousse_Governorate,_Tunisia,_January_2024_-_Rampart_walkway.jpg | CC BY 2.0 | Sharon Hahn Darlin
+highlights/sousse-2.jpg | https://commons.wikimedia.org/wiki/File:Medina_of_Sousse-130323.jpg | CC BY-SA 3.0 igo | Christian Manhart
+highlights/sousse-3.jpg | https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Sousse_2.jpg | CC BY-SA 4.0 | Hamed Gamaoun
+highlights/sousse-4.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_Museum_of_Sousse_07042013.jpg | CC BY-SA 4.0 | Yamen
+highlights/sousse-5.jpg | https://commons.wikimedia.org/wiki/File:Amphith%C3%A9%C3%A2tre_d%E2%80%99El_Jem_vue_aerienne_(2023)_1.jpg | CC BY-SA 4.0 | Skander zarrad
+cities/monastir.jpg | https://commons.wikimedia.org/wiki/File:Ribat_de_Monastir_111.jpg | CC BY-SA 4.0 | IssamBarhoumi
+highlights/monastir-1.jpg | https://commons.wikimedia.org/wiki/File:Ribat_of_Monastir,_April_3,_2025_(01).jpg | CC BY-SA 4.0 | Habib M'henni
+highlights/monastir-2.jpg | https://commons.wikimedia.org/wiki/File:Tunisia-3210_-_Mausoleum_of_Habib_Bourguiba_(7846795684).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+highlights/monastir-3.jpg | https://commons.wikimedia.org/wiki/File:Vue_panoramique_-_marina_Monastir.jpg | CC BY-SA 4.0 | Jihed M'hamed
+highlights/monastir-4.jpg | https://commons.wikimedia.org/wiki/File:Skifa_kahla_1.jpg | CC BY-SA 4.0 | Noomen9
+cities/kairouan.jpg | https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_minaret_view_01.jpg | CC BY-SA 4.0 | IssamBarhoumi
+highlights/kairouan-1.jpg | https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg | CC BY-SA 2.0 | MAREK SZAREJKO from CLONMEL, IRELAND  -  POLAND
+highlights/kairouan-2.jpg | https://commons.wikimedia.org/wiki/File:Aghlabid_cistern.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/kairouan-3.jpg | https://commons.wikimedia.org/wiki/File:ZaouiaSidiSahab.Kairouan.jpg | CC BY-SA 3.0 | China Crisis
+highlights/kairouan-4.jpg | https://commons.wikimedia.org/wiki/File:Kairouan_medina_walls.jpg | CC BY-SA 2.0 | damian entwistle

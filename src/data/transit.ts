@@ -1244,6 +1244,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  tn: {
+    summary: {
+      ko: '우측통행. 튀니스와 해안 도시는 국철(SNCFT)과 사헬 지역 전철(메트로 뒤 사헬)로, 그 밖은 합승 택시 ‘루아지’로 다닙니다.',
+      en: 'Drive on the right. SNCFT trains and the Sahel metro link Tunis and the coast; shared louage taxis cover the rest.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '이탈리아 팔레르모·제노바·치비타베키아와 프랑스 마르세유에서 튀니스(라 굴레트) 항까지 페리가 다닙니다. 수스–카이루안은 루아지로 약 1시간입니다.',
+      en: 'Ferries run to Tunis (La Goulette) from Palermo, Genoa and Civitavecchia in Italy and from Marseille. Sousse to Kairouan is about an hour by louage.',
+    },
+    paymentTip: {
+      ko: '루아지는 다 차면 출발하고 요금은 현금으로 냅니다. 시내 택시는 미터기를 켜 달라고 하세요.',
+      en: 'Louages leave when full and take cash; ask city taxis to use the meter.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

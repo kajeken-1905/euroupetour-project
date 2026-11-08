@@ -504,6 +504,23 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Casablanca Mohammed V (CMN)', '카사블랑카 모하메드 5세 공항 (CMN)', '시내까지 기차로 약 35분|about 35 min to the city by train']],
     rail: [['Casa-Voyageurs', '카사블랑카 보야죄르역', '고속열차·마라케시행|high-speed and to Marrakech'], ['Casa-Port', '카사블랑카 포르역']],
   },
+  tunis: {
+    air: [['Tunis–Carthage (TUN)', '튀니스 카르타고 공항 (TUN)']],
+    rail: [['Tunis Ville', '튀니스 역 (SNCFT)'], ['Tunis Marine', '튀니스 마린역', '카르타고·시디 부 사이드행 TGM|TGM to Carthage and Sidi Bou Said']],
+    port: [['La Goulette', '라 굴레트 항', '이탈리아·프랑스행 페리|ferries to Italy and France']],
+  },
+  sousse: {
+    air: [['Monastir Habib Bourguiba (MIR)', '모나스티르 공항 (MIR)', '모나스티르|Monastir'], ['Enfidha–Hammamet (NBE)', '엔피다 하마메트 공항 (NBE)']],
+    rail: [['Sousse Voyageurs', '수스역'], ['Sousse Bab Jedid', '수스 밥 즈디드역', '모나스티르·마흐디아행 사헬 전철|Sahel metro to Monastir and Mahdia']],
+  },
+  monastir: {
+    air: [['Monastir Habib Bourguiba (MIR)', '모나스티르 하비브 부르기바 공항 (MIR)']],
+    rail: [['Monastir', '모나스티르역', '수스·마흐디아행 사헬 전철|Sahel metro to Sousse and Mahdia']],
+  },
+  kairouan: {
+    air: [['Monastir Habib Bourguiba (MIR)', '모나스티르 공항 (MIR)', '모나스티르|Monastir'], ['Enfidha–Hammamet (NBE)', '엔피다 하마메트 공항 (NBE)']],
+    bus: [['Kairouan louage station', '카이루안 루아지 정류장', '수스·튀니스행|to Sousse and Tunis']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

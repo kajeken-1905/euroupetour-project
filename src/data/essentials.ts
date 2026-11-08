@@ -910,6 +910,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국과 사증 면제 협정이 있어 관광·단기 체류는 90일까지 비자 없이 입국할 수 있습니다(외교부). 90일을 넘게 머물려면 주한 모로코 대사관에서 미리 비자를 받아야 합니다.', 'Under a visa-waiver agreement, Korean passports can stay up to 90 days visa-free (Korean Foreign Ministry). Longer stays need a visa from the Moroccan Embassy in Korea beforehand.'),
     telecom: T('주요 통신사는 Maroc Telecom·Orange·inwi입니다. 유럽 로밍 요금제에 포함되지 않는 경우가 많아 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Maroc Telecom, Orange and inwi. European roaming bundles rarely include Morocco, so a local SIM from the airport is usually cheaper.'),
   },
+  tn: {
+    // Korean Foreign Ministry travel-safety page for Tunisia (0404.go.kr/ntnSafetyInfo/233/detail), 2026-11.
+    emergency: [num('197', '경찰(범죄 신고)', 'Police'), num('190', '응급 의료', 'Ambulance'), num('198', '소방', 'Fire')],
+    embassy: {
+      name: T('주튀니지 대한민국 대사관', 'Korean Embassy in Tunisia'),
+      address: 'Immeuble Blue Square, Avenue de la Bourse, Les Jardins du Lac 2, 1053 Tunis',
+      phone: '+216-71-198-595',
+      afterHours: '+216-99-567-040',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/233/detail',
+    },
+    power: T('230V · 50Hz, C·E형 콘센트. 한국 플러그를 대부분 그대로 꽂을 수 있습니다.', '230V, 50Hz, type C/E sockets. Korean plugs usually fit.'),
+    tipping: T('식당에선 5~10% 정도를 두는 것이 관례입니다.', 'Around 5–10% is customary in restaurants.'),
+    water: WATER_BOTTLED,
+    shops: T('수크(시장)에선 값을 흥정합니다. 디나르는 나라 밖으로 가지고 나갈 수 없는 돈이라 출국 전에 다시 바꿔야 합니다. 외화는 입국 때 5,000디나르어치가 넘으면 신고해야 하고, 출국 때는 신고한 만큼만 가지고 나갈 수 있습니다.', 'Bargain in the souks. The dinar can’t be taken out of the country, so change it back before you leave. Declare foreign currency worth over 5,000 dinars on arrival; you can only take out what you declared.'),
+    toilets: TOILETS_MIXED,
+    time: T('UTC+1, 서머타임 없음. 한국보다 8시간 늦습니다.', 'UTC+1 with no daylight saving: 8 hours behind Korea.'),
+    safety: T('외교부 여행경보: 튀니스·수스·모나스티르·마흐디아 등 해안 지역은 1단계(여행유의), 카이루안 등 그 밖의 지역은 2단계(여행자제), 알제리·리비아 접경과 크사르 길란 이남 사막은 3단계(출국권고)입니다. 2026년 10월 시위가 격화돼 신변 안전 유의 공지가 나와 있습니다. 메디나와 하비브 부르기바 거리에선 소매치기를 조심하세요.', 'Korean travel alert: level 1 on the coast (Tunis, Sousse, Monastir, Mahdia and more), level 2 elsewhere including Kairouan, level 3 along the Algerian and Libyan borders and in the desert south of Ksar Ghilane. A personal-safety notice was issued in October 2026 as protests intensified. Watch for pickpockets in the medina and on Avenue Habib Bourguiba.'),
+    entry: T('한국 여권은 90일까지 비자 없이 머물 수 있습니다(외교부: 협정상 30일이지만 튀니지 이민법에 따라 90일).', 'Korean passports can stay up to 90 days visa-free (Korean Foreign Ministry: 30 days by treaty, 90 under Tunisian immigration law).'),
+    telecom: T('주요 통신사는 Ooredoo·Orange·Tunisie Telecom입니다. 유럽 로밍 요금제에 포함되지 않는 경우가 많아 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Ooredoo, Orange and Tunisie Telecom. European roaming bundles rarely include Tunisia, so a local SIM from the airport is usually cheaper.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

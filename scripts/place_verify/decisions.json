@@ -7391,6 +7391,18 @@
 "ko": "30년 된 가족 운영 비스트로. 직접 굽는 페이스트리와 저렴한 점심을 냅니다.",
 "ok": 1
 },
+"kairouan-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"kairouan-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"kairouan-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "kandersteg-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -10495,6 +10507,14 @@
 "en": "Meat restaurant on Fontvieille port serving beef from several origins, including Wagyu and Black Angus.",
 "ko": "퐁비에유 항구의 고기 전문 레스토랑. 와규·블랙 앵거스 등 여러 산지 소고기를 냅니다.",
 "ok": 1
+},
+"monastir-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"monastir-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "monsanto-fine_dining-1": {
 "ok": 1,
@@ -15189,6 +15209,14 @@
 "ko": "포세이돈 신전에서 차로 5분 거리의 해산물 타베르나. 생선구이·오징어·홍합을 내고 바다가 보입니다.",
 "ok": 1
 },
+"sousse-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"sousse-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "split-bakery-1": {
 "addr": "Obrov 6, 21000 Split",
 "en": "Artisan bakery behind the fish market in the old town, baking baguettes, sourdough and Viška pogača; closes at 2 pm and on Sundays.",
@@ -17030,6 +17058,30 @@
 "en": "Seafood osteria in the old town near the cathedral; swordfish is the speciality and portions are generous.",
 "ko": "트로페아 대성당 근처 구시가의 해산물 오스테리아. 황새치 요리가 대표적이고 양이 넉넉합니다.",
 "ok": 1
+},
+"tunis-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tunis-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tunis-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tunis-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tunis-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tunis-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "turin-bakery-1": {
 "addr": "Via Cavour 10, Torino, Italy",

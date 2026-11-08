@@ -32,6 +32,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://0404.go.kr/ntnSafetyInfo/39/detail',
   },
+  // 0404.go.kr Tunisia page: alert levels (last adjusted 2023-03-07) and notices of 2026-10-06 and 2026-10-23.
+  tn: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 지역별 1~3단계', en: 'Korean travel alert · levels 1–3 by region' },
+    lines: [
+      {
+        ko: '튀니스·비제르트·나불·수스·모나스티르·마흐디아·스팍스·제르바는 1단계(여행유의), 카이루안 등 그 밖의 지역은 2단계(여행자제), 알제리·리비아 접경 지역과 크사르 길란 이남 사막은 3단계(출국권고)입니다.',
+        en: 'Tunis, Bizerte, Nabeul, Sousse, Monastir, Mahdia, Sfax and Djerba are level 1 (exercise caution); elsewhere, including Kairouan, is level 2 (refrain from travel); the Algerian and Libyan border areas and the desert south of Ksar Ghilane are level 3 (leave the country).',
+      },
+      {
+        ko: '외교부는 2026년 10월 6일 제르바섬 방문 자제를, 10월 23일 시위 격화에 따른 신변 안전 유의를 공지했습니다. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'On 6 October 2026 the ministry advised against visiting Djerba, and on 23 October it warned of intensifying protests. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/233/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

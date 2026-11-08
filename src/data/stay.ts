@@ -254,6 +254,19 @@ export const STAY: Record<string, StayArea[]> = {
   casablanca: [
     a('시내 중심', 'City centre', 'Place Mohammed V Casablanca', '처음 가는 여행에 추천|Best for a first visit', '아르데코 거리와 카사 포르역이 가깝고 트램이 다닙니다.|Near the Art Deco streets and Casa-Port station, on the tram line.'),
   ],
+  tunis: [
+    a('메디나 근처 시내', 'City centre by the medina', 'Avenue Habib Bourguiba Tunis', '처음 가는 여행에 추천|Best for a first visit', '메디나와 대로가 걸어서 닿고 TGM 역이 가깝습니다.|The medina and boulevard on foot, near the TGM station.'),
+    a('시디 부 사이드', 'Sidi Bou Said', 'Sidi Bou Said', '조용히 머물기|For a quiet stay', '바다를 내려다보는 언덕 마을로, 시내까지 TGM으로 약 35분입니다.|The hillside village above the sea, about 35 min to the city by TGM.'),
+  ],
+  sousse: [
+    a('메디나 근처 시내', 'Centre by the medina', 'Medina of Sousse', '처음 가는 여행에 추천|Best for a first visit', '메디나와 항구, 역이 걸어서 닿습니다.|The medina, port and station on foot.'),
+  ],
+  monastir: [
+    a('리바트 주변', 'Around the ribat', 'Ribat of Monastir', '처음 가는 여행에 추천|Best for a first visit', '리바트와 영묘, 해변이 걸어서 닿고 공항이 가깝습니다.|The ribat, mausoleum and beach on foot, close to the airport.'),
+  ],
+  kairouan: [
+    a('수스에서 다녀오기', 'Base in Sousse', 'Sousse', '거점에서 다녀오기|Day trip from a base', '수스에서 루아지로 약 1시간이라 당일로 많이 다녀옵니다.|About 1 hr by louage from Sousse, so most visit as a day trip.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),
