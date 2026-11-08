@@ -481,6 +481,30 @@
 "ko": "앙부아즈 성 근처의 비스트로노미 식당. 미쉐린 가이드에 실려 있고 버드나무 그늘 테라스가 있습니다. 일·월요일은 쉽니다.",
 "ok": 1
 },
+"amman-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"amman-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"amman-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"amman-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"amman-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"amman-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "ams-bk-1": {
 "ok": 1
 },
@@ -851,6 +875,14 @@
 "aosta-fine_dining-4": {
 "ok": 1,
 "src": "2026-11-07 google maps / michelin 2026"
+},
+"aqaba-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"aqaba-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "arcachon-bakery-1": {
 "ok": 1,
@@ -12512,6 +12544,18 @@
 "peso-da-regua-fine_dining-4": {
 "ok": 1,
 "src": "2026-11-08 google maps / michelin 2026"
+},
+"petra-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"petra-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"petra-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "piran-bakery-1": {
 "ok": 1

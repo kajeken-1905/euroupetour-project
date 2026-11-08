@@ -950,6 +950,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 여권은 비자가 필요합니다. 공항에서 도착 비자(QR 비자, 2026년 8월 1일부터 36달러)를 사거나 전자비자를 미리 받습니다. 여권은 입국일 기준 6개월 이상 남아 있어야 합니다. 샴엘셰이크 등 시나이 남부만 갈 때는 14일 무료 비자가 나오지만, 시나이 밖으로 가려면 따로 비자를 사야 합니다.', 'Korean passports need a visa: buy a visa on arrival (QR visa, USD 36 from 1 August 2026) or get an e-visa in advance. Passports need 6 months’ validity from entry. A free 14-day stamp covers south Sinai resorts such as Sharm el-Sheikh only; going beyond Sinai needs a full visa.'),
     telecom: T('주요 통신사는 Vodafone·Orange·e&(Etisalat)·WE입니다. 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Vodafone, Orange, e& (Etisalat) and WE. A local SIM from the airport is the cheapest option.'),
   },
+  jo: {
+    // Korean Foreign Ministry travel-safety page for Jordan (0404.go.kr/ntnSafetyInfo/165/detail), 2026-11.
+    emergency: [num('911', '경찰·구급·소방', 'Police, ambulance and fire')],
+    embassy: {
+      name: T('주요르단 대한민국 대사관', 'Korean Embassy in Jordan'),
+      address: 'Bahjat Homsi St. 7, Amman 11181',
+      phone: '+962-6-593-0745',
+      note: T('근무 시간 밖 긴급 상황은 영사콜센터(+82-2-3210-0404, 24시간)로 연락하세요. 영사콜센터 무료 전화 앱과 카카오톡 채널도 있습니다.', 'Out of hours, call the consular call centre (+82-2-3210-0404, 24 hours); its free-call app and KakaoTalk channel also work.'),
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/165/detail',
+    },
+    power: T('220V · 50Hz. 콘센트 모양이 여러 가지(C·F·G형 등)라 멀티 어댑터가 편합니다.', '220V, 50Hz. Socket types vary (C, F, G and others), so bring a universal adapter.'),
+    tipping: T('식당에선 10% 안팎을 두는 것이 관례입니다(봉사료가 포함됐는지 확인).', 'Around 10% is customary in restaurants (check whether service is included).'),
+    water: WATER_BOTTLED,
+    shops: T('디나르는 미국 달러에 고정돼 있습니다. 공항·은행·시내 환전소에서 바꿀 수 있고, 1만 디나르가 넘는 현금·귀중품은 출입국 때 신고합니다.', 'The dinar is pegged to the US dollar; change money at the airport, banks or exchange offices. Declare cash or valuables over 10,000 dinars when entering or leaving.'),
+    toilets: TOILETS_MIXED,
+    time: T('UTC+3, 서머타임 없음. 한국보다 6시간 늦습니다.', 'UTC+3 with no daylight saving: 6 hours behind Korea.'),
+    safety: T('외교부 여행경보: 자르카 동쪽은 3단계(출국권고), 나머지 전역은 특별여행주의보(여행 취소·연기 권고)입니다. 이란발 미사일·드론의 낙탄 위험이 있어 공습경보가 울리면 실내로 대피하세요. 2026년 10~11월 총격 사건과 암만 경찰관 피살 사건 관련 공지가 나와 있습니다.', 'Korean travel alert: level 3 east of Zarqa, and a special travel advisory (cancel or postpone travel) everywhere else. There is a risk of debris from Iranian missiles and drones—shelter indoors if air-raid sirens sound. Notices were issued after a shooting and the killing of a police officer in Amman in October–November 2026.'),
+    entry: T('한국 여권은 비자가 필요합니다. 공항과 육로 국경에서 도착 비자(90일, 40디나르)를 받거나 내무부 앱으로 전자비자를 미리 받습니다. 요르단 패스(70~80디나르, 페트라 입장 포함)를 미리 사면 3일 이상 머물 때 비자 요금이 면제되고, 아카바 공항·국경으로 들어오면 비자 요금이 없습니다.', 'Korean passports need a visa: get a visa on arrival (90 days, JOD 40) at airports and land borders, or an e-visa in advance through the Interior Ministry app. Buying the Jordan Pass (JOD 70–80, Petra included) waives the visa fee for stays of 3 days or more, and entry via Aqaba’s airport or border is fee-free.'),
+    telecom: T('주요 통신사는 Zain·Orange·Umniah입니다. 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Zain, Orange and Umniah. A local SIM from the airport is the cheapest option.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

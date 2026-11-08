@@ -2677,6 +2677,69 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  amman: {
+    modes: ['taxi', 'rideshare', 'bus', 'walk'],
+    howTo: {
+      ko: '언덕이 많아 택시와 호출 앱(Careem·Uber)으로 다닙니다.',
+      en: 'The city is hilly—get around by taxi or ride-hailing (Careem, Uber).',
+    },
+    apps: [
+    ],
+  },
+  petra: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '유적 안은 걸어서 다닙니다(하루 10~20km).',
+      en: 'Inside the site you walk (10–20 km a day).',
+    },
+    apps: [
+    ],
+  },
+  'wadi-rum': {
+    modes: ['taxi'],
+    howTo: {
+      ko: '사막 안은 지프로만 다닙니다.',
+      en: 'Inside the desert you travel by 4×4 only.',
+    },
+    apps: [
+    ],
+  },
+  aqaba: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 해변과 와디럼은 택시로 갑니다.',
+      en: 'Walk the town; taxis go to the beaches and Wadi Rum.',
+    },
+    apps: [
+    ],
+  },
+  edfu: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '선착장에서 신전까지 마차나 택시를 탑니다.',
+      en: 'Take a horse cart or taxi from the landing to the temple.',
+    },
+    apps: [
+    ],
+  },
+  'kom-ombo': {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '크루즈 선착장에서 신전이 바로 보입니다.',
+      en: 'The temple is right above the cruise landing.',
+    },
+    apps: [
+    ],
+  },
+  'abu-simbel': {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을과 신전은 걸어서 다닙니다.',
+      en: 'Walk between the village and the temples.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

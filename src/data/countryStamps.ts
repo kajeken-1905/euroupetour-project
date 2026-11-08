@@ -7,6 +7,8 @@ export type StampIcon =
 
 export const countryStamps: Record<string, StampIcon> = {
   // North Africa & Middle East: cut from the user's stamp sheet (2026-11-08).
+  // Petra's Treasury between its cliffs, drawn by hand (no usable stamp on the sheet).
+  jo: { kind: 'svg', width: 160, height: 120, markup: `<path d="M4,116 L4,8 L30,8 L30,116 Z M130,116 L130,8 L156,8 L156,116 Z M36,116 L36,64 L124,64 L124,116 Z M32,64 L80,48 L128,64 Z M44,48 L44,14 L116,14 L116,48 Z M42,112 L42,70 L46,70 L46,112 Z M56,112 L56,70 L60,70 L60,112 Z M100,112 L100,70 L104,70 L104,112 Z M114,112 L114,70 L118,70 L118,112 Z M72,112 L72,76 Q80,70 88,76 L88,112 Z M50,44 L50,20 L53,20 L53,44 Z  M60,44 L60,20 L63,20 L63,44 Z  M97,44 L97,20 L100,20 L100,44 Z  M107,44 L107,20 L110,20 L110,44 Z M70,44 L70,24 Q80,16 90,24 L90,44 Z" fill="#8a8a8a" fill-rule="evenodd"/><path d="M80,10 L80,4" stroke="#8a8a8a" stroke-width="3"/>` },
   // The Giza pyramids, drawn by hand (the sheet's stamp was too blurry).
   eg: { kind: 'svg', width: 200, height: 110, markup: `<path d="M8,104 L62,30 L116,104 Z M94,104 L134,48 L174,104 Z M168,104 L182,84 L196,104 Z" fill="#8a8a8a"/><path d="M62,30 L50,104 L8,104 Z M134,48 L125,104 L94,104 Z M182,84 L179,104 L168,104 Z" fill="#6f6f6f"/><path d="M2,104 L198,104" stroke="#8a8a8a" stroke-width="3"/>` },
   // El Jem's three tiers of arches, drawn by hand (the sheet's stamp was too blurry).

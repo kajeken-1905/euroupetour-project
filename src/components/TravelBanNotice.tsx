@@ -64,6 +64,26 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/178/detail',
   },
+  // 0404.go.kr Jordan page: special travel advisory (extended 2026-09-04), level 3 east of Zarqa, notices of 2026-10-22, 10-25, 11-05.
+  jo: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 특별여행주의보', en: 'Korean travel alert · special travel advisory' },
+    lines: [
+      {
+        ko: '요르단 전역에 특별여행주의보(여행 취소·연기 권고)가 내려져 있고, 자르카시 동쪽 지역은 3단계(출국권고)입니다.',
+        en: 'A special travel advisory (cancel or postpone travel) covers Jordan, and the area east of Zarqa is level 3 (leave the country).',
+      },
+      {
+        ko: '미국·이스라엘과 이란 사이 군사 충돌로 이란발 미사일·드론의 낙탄 위험이 있습니다. 공습경보가 울리면 실내로 대피하세요. 외교부는 2026년 10월 22일(중동 상황), 10월 25일(총격 사건), 11월 5일(암만 경찰관 피살 사건) 안전 공지를 냈습니다.',
+        en: 'With military conflict between the US, Israel and Iran, debris from Iranian missiles and drones is a risk; shelter indoors if sirens sound. The ministry issued safety notices on 22 October (Middle East situation), 25 October (a shooting) and 5 November 2026 (a police officer killed in Amman).',
+      },
+      {
+        ko: '이 앱의 정보는 참고용입니다. 출발 전 외교부 공지를 꼭 확인하세요.',
+        en: 'The information here is for reference; check the ministry’s notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/165/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

@@ -1276,6 +1276,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  jo: {
+    summary: {
+      ko: '우측통행. 도시 사이는 JETT 관광버스가 다니고, 와디럼·사해처럼 버스가 적은 곳은 택시나 렌터카, 투어가 편합니다. 철도 여객 노선은 없습니다.',
+      en: 'Drive on the right. JETT coaches run between cities; for places with few buses, such as Wadi Rum and the Dead Sea, a taxi, rental car or tour is easier. There are no passenger trains.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '암만–페트라는 JETT 버스로 약 3시간 30분, 암만–아카바는 약 4시간입니다. 암만–아카바는 국내선으로 약 1시간입니다.',
+      en: 'Amman to Petra is about 3 hr 30 by JETT bus and Amman to Aqaba about 4 hr, or about 1 hr by domestic flight.',
+    },
+    paymentTip: {
+      ko: '암만 시내는 호출 앱(Careem·Uber)이나 미터 택시를 탑니다. JETT 버스는 웹사이트나 터미널에서 미리 예약합니다.',
+      en: 'In Amman use ride-hailing (Careem, Uber) or metered taxis; book JETT buses online or at the terminal in advance.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

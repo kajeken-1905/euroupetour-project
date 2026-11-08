@@ -283,6 +283,27 @@ export const STAY: Record<string, StayArea[]> = {
   hurghada: [
     a('시내 남쪽 해변 리조트', 'Beach resorts', 'Hurghada', '처음 가는 여행에 추천|Best for a first visit', '해변 리조트가 길게 이어지고 공항이 가깝습니다.|A long strip of beach resorts close to the airport.'),
   ],
+  amman: [
+    a('제벨 암만 (레인보 거리)', 'Jabal Amman (Rainbow Street)', 'Rainbow Street Amman', '처음 가는 여행에 추천|Best for a first visit', '카페 거리와 시내 유적이 가깝고 분위기가 좋습니다.|Close to the café street and the downtown sights, with a pleasant atmosphere.'),
+  ],
+  petra: [
+    a('와디 무사', 'Wadi Musa', 'Wadi Musa', '처음 가는 여행에 추천|Best for a first visit', '페트라 입구 마을로, 이틀 이상 묵으며 이른 아침에 들어가면 덜 붐빕니다.|The town at the gate of Petra; stay two nights or more and go in early to beat the crowds.'),
+  ],
+  'wadi-rum': [
+    a('사막 캠프', 'Desert camp', 'Wadi Rum', '처음 가는 여행에 추천|Best for a first visit', '캠프에서 마을이나 방문자 센터로 마중을 나옵니다.|Camps pick you up from the village or visitor centre.'),
+  ],
+  aqaba: [
+    a('시내와 해변', 'Town & beach', 'Aqaba', '처음 가는 여행에 추천|Best for a first visit', '요새와 식당이 걸어서 닿고, 남쪽 해변은 택시로 갑니다.|The fort and restaurants on foot; take a taxi to South Beach.'),
+  ],
+  edfu: [
+    a('나일강 크루즈', 'On a Nile cruise', 'Edfu', '크루즈로 들르기|Visit by cruise', '대부분 룩소르–아스완 크루즈로 들르거나 두 도시 사이 기차·차로 잠깐 내립니다.|Most visit on a Luxor–Aswan cruise or stop briefly by train or car between the two.'),
+  ],
+  'kom-ombo': [
+    a('나일강 크루즈', 'On a Nile cruise', 'Kom Ombo', '크루즈로 들르기|Visit by cruise', '대부분 크루즈로 들르거나 아스완에서 차로 약 50분 다녀옵니다.|Most visit on a cruise or as a 50-min drive from Aswan.'),
+  ],
+  'abu-simbel': [
+    a('아부심벨 마을', 'Abu Simbel village', 'Abu Simbel', '처음 가는 여행에 추천|Best for a first visit', '마을에 묵으면 소리와 빛의 쇼와 이른 아침 신전을 여유 있게 봅니다. 대부분은 아스완에서 당일로 다녀옵니다.|Staying lets you see the evening show and the temples early; most visit as a day trip from Aswan.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

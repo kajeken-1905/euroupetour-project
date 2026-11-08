@@ -7982,5 +7982,165 @@
     27.225,
     33.67,
     "manual 2026-11-08: Eastern Desert west of Hurghada (safari area, approximate)"
+  ],
+  "amman-h1": [
+    31.95448,
+    35.93671,
+    "OSM Nominatim: Amman Citadel, شارع المتحف, البلد, منطقة المدينة, عمان, ناحي"
+  ],
+  "amman-h2": [
+    31.95162,
+    35.93929,
+    "OSM Nominatim: Roman Theatre, Hashemite Plaza, البلد, منطقة المدينة, عمان, "
+  ],
+  "amman-h3": [
+    31.94965,
+    35.93226,
+    "OSM Nominatim: شارع الرينبو, Jabal Amman, منطقة المدينة, عمان, ناحية عمان,  (Wikipedia 870m)"
+  ],
+  "amman-h4": [
+    31.94561,
+    35.92711,
+    "OSM Nominatim: متحف الأردن, شارع علي بن أبي طالب, الياسمين, منطقة المدينة, "
+  ],
+  "amman-h5": [
+    31.96117,
+    35.91287,
+    "OSM Nominatim: مسجد الملك عبد الله, شارع سليمان النابلسي, جبل اللويبدة, منط (Wikipedia 53m)"
+  ],
+  "amman-h6": [
+    32.27845,
+    35.88968,
+    "OSM Nominatim: جرش, North Decumanus, ساكب, مقاطعة جرش, لواء قصبة جرش, جرش,  (Wikipedia 747m)"
+  ],
+  "amman-h8": [
+    31.7685,
+    35.7258,
+    "manual 2026-11-08: Mount Nebo"
+  ],
+  "petra-h1": [
+    30.323,
+    35.4503,
+    "OSM Nominatim: As-Siq, وادي موسى, Petra Sub-District, لواء البتراء, معان, 7"
+  ],
+  "petra-h2": [
+    30.32208,
+    35.45153,
+    "OSM Nominatim: Al-Khazneh, As-Siq, وادي موسى, Petra Sub-District, لواء البت (Wikipedia 2m)"
+  ],
+  "petra-h3": [
+    30.32882,
+    35.44972,
+    "OSM Nominatim: Royal Tombs, \"Monastery from above\" footpath, أم صيحون, Petr"
+  ],
+  "petra-h4": [
+    30.33821,
+    35.43098,
+    "OSM Nominatim: Ad Deir (Monastery), Umm Al-Biyara Trail, وادي موسى, Petra S (Wikipedia 50m)"
+  ],
+  "petra-h5": [
+    30.3222,
+    35.4512,
+    "manual 2026-11-08: Petra by Night at Al-Khazneh"
+  ],
+  "petra-h6": [
+    30.37408,
+    35.44803,
+    "OSM Nominatim: Little Petra, Al Bayḑā, Petra Sub-District, لواء البتراء, مع"
+  ],
+  "wadi-rum-h2": [
+    29.65048,
+    35.44509,
+    "OSM Nominatim: Dream Bedouin Life Camp Wadi Rum, شارع وادي رم, الشاكرية, قض"
+  ],
+  "wadi-rum-h3": [
+    29.50844,
+    35.33622,
+    "OSM Nominatim: وادي رم, Jordan Trail, قضاء العقبة, لواء قصبة العقبة, العقبة"
+  ],
+  "wadi-rum-h4": [
+    29.51796,
+    35.42347,
+    "OSM Nominatim: Siq al Khazali, قضاء العقبة, لواء قصبة العقبة, العقبة, الأرد"
+  ],
+  "aqaba-h2": [
+    29.52137,
+    35.00204,
+    "OSM Nominatim: قلعة العقبة, ساحة الثورة العربية الكبرى, العقبة, قضاء العقبة"
+  ],
+  "aqaba-h3": [
+    29.42329,
+    34.97338,
+    "OSM Nominatim: Aqaba South Beach, تالا بي, قضاء العقبة, لواء قصبة العقبة, ا"
+  ],
+  "aqaba-h4": [
+    29.525,
+    35.0,
+    "manual 2026-11-08: Aqaba public beach / boat pier"
+  ],
+  "amman-h7": [
+    31.683,
+    35.588,
+    "manual 2026-11-08: Amman Beach, Dead Sea"
+  ],
+  "wadi-rum-h1": [
+    29.639,
+    35.433,
+    "manual 2026-11-08: Wadi Rum Visitor Centre"
+  ],
+  "aqaba-h1": [
+    29.45,
+    34.975,
+    "manual 2026-11-08: Japanese Garden reef"
+  ],
+  "edfu-h1": [
+    24.97837,
+    32.8735,
+    "OSM Nominatim: معبد هورس, شارع سور المعبد, مدينه ادفو, أسوان, 81644, مصر (Wikipedia 68m)"
+  ],
+  "kom-ombo-h1": [
+    24.45207,
+    32.92841,
+    "OSM Nominatim: معبد كوم أمبو, Grande Cour, مدينه كوم امبو, أسوان, 81611, مص (Wikipedia 39m)"
+  ],
+  "kom-ombo-h2": [
+    24.45305,
+    32.92769,
+    "OSM Nominatim: متحف التمساح, Grande Cour, مدينه كوم امبو, أسوان, 81611, مصر"
+  ],
+  "kom-ombo-h3": [
+    24.4523,
+    32.929,
+    "manual 2026-11-08: Kom Ombo riverfront"
+  ],
+  "abu-simbel-h1": [
+    22.33712,
+    31.6258,
+    "OSM Nominatim: معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, م (Wikipedia 32m)"
+  ],
+  "abu-simbel-h2": [
+    22.33779,
+    31.62661,
+    "OSM Nominatim: معبد نفرتاري, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, مصر (Wikipedia 143m)"
+  ],
+  "abu-simbel-h3": [
+    22.33712,
+    31.6258,
+    "OSM Nominatim: معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, م (Wikipedia 32m)"
+  ],
+  "abu-simbel-h4": [
+    22.33712,
+    31.6258,
+    "OSM Nominatim: معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, م (Wikipedia 32m)"
+  ],
+  "edfu-h2": [
+    24.979,
+    32.879,
+    "manual 2026-11-08: Edfu corniche landing"
+  ],
+  "edfu-h3": [
+    24.9805,
+    32.8795,
+    "manual 2026-11-08: Edfu Nile front"
   ]
 }

@@ -541,6 +541,32 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Hurghada International (HRG)', '후르가다 공항 (HRG)']],
     bus: [['Go Bus Hurghada', '고버스 터미널', '룩소르·카이로행|to Luxor and Cairo']],
   },
+  amman: {
+    air: [['Queen Alia International (AMM)', '퀸 알리아 국제공항 (AMM)']],
+    bus: [['JETT Abdali', 'JETT 압달리 터미널', '페트라·아카바행|to Petra and Aqaba']],
+  },
+  petra: {
+    air: [['Queen Alia International (AMM)', '퀸 알리아 공항 (AMM)', '암만|Amman'], ['King Hussein International (AQJ)', '아카바 공항 (AQJ)', '아카바|Aqaba']],
+    bus: [['JETT Wadi Musa', 'JETT 와디 무사 정류장', '암만행|to Amman']],
+  },
+  'wadi-rum': {
+    air: [['King Hussein International (AQJ)', '아카바 공항 (AQJ)', '아카바|Aqaba']],
+  },
+  aqaba: {
+    air: [['King Hussein International (AQJ)', '킹 후세인 국제공항 (AQJ)']],
+    bus: [['JETT Aqaba', 'JETT 아카바 터미널', '암만행|to Amman']],
+  },
+  edfu: {
+    air: [['Aswan International (ASW)', '아스완 공항 (ASW)', '아스완|Aswan'], ['Luxor International (LXR)', '룩소르 공항 (LXR)', '룩소르|Luxor']],
+    rail: [['Edfu', '에드푸역']],
+  },
+  'kom-ombo': {
+    air: [['Aswan International (ASW)', '아스완 공항 (ASW)', '아스완|Aswan']],
+    rail: [['Kom Ombo', '콤옴보역', '신전까지 택시로 약 15분|about 15 min by taxi to the temple']],
+  },
+  'abu-simbel': {
+    air: [['Abu Simbel (ABS)', '아부심벨 공항 (ABS)', '카이로·아스완 국내선|domestic flights from Cairo and Aswan']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

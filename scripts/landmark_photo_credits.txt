@@ -12,15 +12,11 @@ cities/fussen.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanste
 cities/munich.jpg | https://commons.wikimedia.org/wiki/File:Munich_skyline.jpg | CC BY-SA 3.0 | Stefan Kühn
 cities/stuttgart.jpg | https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz_Stuttgart_2015_04.jpg | CC BY 4.0 | Julian Herzog (Website)
 landmarks/landmark-de.jpg | https://commons.wikimedia.org/wiki/File:Daniel_Cox_-_Brandenburger_Tor_in_Berlin_bei_Sonnenaufgang_(DEU).jpg | CC BY-SA 4.0 | Daniel Cox
-
 # Paris highlights (2026-09-27)
 highlights/paris-4.jpg | https://commons.wikimedia.org/wiki/File:Montmartre,_Place_du_Tertre._Fortepan_69849.jpg | CC BY-SA 3.0 | FOTO:Fortepan — ID 69849: Adományozó/Donor: A R.
 highlights/paris-10.jpg | https://commons.wikimedia.org/wiki/File:Paris_View_from_the_Eiffel_Tower_third_floor_Palais_de_Chaillot_2015_01.jpg | CC0 | Maxime Homme
 highlights/paris-11.jpg | https://commons.wikimedia.org/wiki/File:Paris_75007_Champ-de-Mars_lawn_20170526_Eiffel_Tower_(6).jpg | CC BY 2.0 | xiquinhosilva from Cacau
 highlights/paris-12.jpg | https://commons.wikimedia.org/wiki/File:H%C3%B4tel_des_Invalides_-_20150801_16h09_(10630).jpg | CC BY-SA 4.0 | Another one of my pictures:
-
-
-
 This photograph was taken by 
 highlights/paris-13.jpg | https://commons.wikimedia.org/wiki/File:Le_Penseur_in_the_Jardin_du_Mus%C3%A9e_Rodin,_Paris_August_2013_003.jpg | CC BY 2.0 | Shadowgate from Novara, ITALY
 highlights/paris-14.jpg | https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg | CC BY 2.0 | Getfunky Paris
@@ -49,7 +45,6 @@ highlights/paris-37.jpg | https://commons.wikimedia.org/wiki/File:Moulin_Rouge,_
 highlights/paris-38.jpg | https://commons.wikimedia.org/wiki/File:Grande_Arche,_France_-_April_2011.jpg | CC BY 2.0 | Cristian Bortes from Cluj-Napoca, Romania
 highlights/paris-39.jpg | https://commons.wikimedia.org/wiki/File:Cemetery_P%C3%A8re-Lachaise_in_autumn_01.jpg | CC BY-SA 3.0 | Pierre-Yves Beaudouin
 # highlights/paris-36.jpg | moved from previous highlights/paris-4.jpg (source not recorded)
-
 # Paris place photos (Openverse/Flickr + Commons)
 places/paris-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Arp%C3%A8ge.jpg | CC BY-SA 2.0 | NIeFH from Taipei, Taiwan
 places/paris-fine_dining-2.jpg | https://www.flickr.com/photos/34377776@N00/6354818383 | BY-SA 2.0 | awduthie
@@ -62,7 +57,6 @@ places/paris-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/26977246754 
 places/paris-cafe-4.jpg | https://www.flickr.com/photos/68147320@N02/20668933102 | BY 2.0 | T.Tseng
 places/paris-cafe-5.jpg | https://www.flickr.com/photos/7831824@N04/33310678015 | BY 2.0 | Bex.Walton
 places/paris-korean-2.jpg | https://www.flickr.com/photos/71368551@N00/6802132109 | BY-SA 2.0 | Tonio Vega
-
 # Barcelona place photos
 places/barcelona-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Alkimia.jpg | CC BY-SA 3.0 | Pere prlpz
 places/barcelona-fine_dining-2.jpg | https://www.flickr.com/photos/72969462@N00/3620962676 | BY 2.0 | Ruby Grace Reyes
@@ -71,7 +65,6 @@ places/barcelona-fine_dining-5.jpg | https://www.flickr.com/photos/27454212@N00/
 places/barcelona-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Barcelona_-_Pastisseria_Escrib%C3%A0.jpg | CC BY 2.0 | Fred Romero
 places/barcelona-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Fleca_Mistral_Ronda_Sant_Antoni_Barcelona.JPG | CC BY-SA 3.0 | No machine-readable author provided. 1997 assumed (based on 
 places/barcelona-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:039_Pastisseria_Mauri,_rambla_de_Catalunya_102_(Barcelona),_interior_amb_ous_de_Pasqua.jpg | CC BY 4.0 | Enric
-
 # Lisbon place photos
 places/lisbon-fine_dining-3.jpg | https://www.flickr.com/photos/27454212@N00/29109096678 | BY-SA 2.0 | Kent Wang
 places/lisbon-fine_dining-4.jpg | https://www.flickr.com/photos/29217566@N00/28627089198 | BY 2.0 | yawper
@@ -81,19 +74,16 @@ places/lisbon-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Pastelaria_
 places/lisbon-cafe-1.jpg | https://www.flickr.com/photos/24866547@N02/3093365622 | BY 2.0 | andrea.prave
 places/lisbon-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/28503727345 | BY 2.0 | Bex.Walton
 places/lisbon-cafe-3.jpg | https://www.flickr.com/photos/7831824@N04/22180347070 | BY 2.0 | Bex.Walton
-
 # Porto place photos
 places/porto-fine_dining-5.jpg | https://www.flickr.com/photos/35995738@N00/22116365132 | BY-SA 2.0 | Effervescing Elephant
 places/porto-cafe-1.jpg | https://www.flickr.com/photos/7831824@N04/51707556015 | BY 2.0 | Bex.Walton
 places/porto-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/51706674956 | BY 2.0 | Bex.Walton
-
 # Madrid place photos
 places/madrid-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:DiverXO_AV4A3451_(27539839788).jpg | CC BY 2.0 | City Foodsters
 places/madrid-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:2014_-_Sobrino_de_Bot%C3%ADn_(Casa_Bot%C3%ADn)_Restaurant,_Madrid,_Spain_(_Ank_Kumar_)_05.jpg | CC BY-SA 4.0 | Ank Kumar
 places/madrid-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:StreetXO_barra.jpg | CC BY-SA 4.0 | Triplecaña
 places/madrid-fine_dining-5.jpg | https://www.flickr.com/photos/59170444@N05/46603244694 | CC0 1.0 | Txemai Argazki
 places/madrid-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Comercial_Exterior.jpg | CC0 | https://www.flickr.com/photos/boklm/
-
 # Rome place photos
 places/rome-fine_dining-2.jpg | https://www.flickr.com/photos/87605170@N00/23194273764 | BY 2.0 | Kyle T.
 places/rome-fine_dining-4.jpg | https://www.flickr.com/photos/49169223@N00/15302934362 | BY-SA 2.0 | daryl_mitchell
@@ -101,7 +91,6 @@ places/rome-bakery-1.jpg | https://www.flickr.com/photos/49399018@N00/5265282388
 places/rome-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Boccione_Bakery.jpg | CC BY-SA 4.0 | JSFarman
 places/rome-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Roma_-_Caff%C3%A8_Sant%27Eustachio.jpg | CC BY-SA 4.0 | Blackcat
 places/rome-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:La_Casa_del_Caffe_Tazza_D%60oro_%E9%87%91%E6%9D%AF%E5%92%96%E5%95%A1%E9%A4%A8_-_panoramio.jpg | CC BY 3.0 | lienyuan lee
-
 # Northern Italy place photos
 places/milan-fine_dining-2.jpg | https://www.flickr.com/photos/87922801@N08/18986344295 | BY-SA 2.0 | grits2go
 places/turin-cafe-1.jpg | https://www.flickr.com/photos/129231073@N06/39473426581 | BY 2.0 | corno.fulgur75
@@ -112,7 +101,6 @@ places/verona-fine_dining-3.jpg | https://www.flickr.com/photos/24314126@N05/100
 places/padua-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Pedrocchi_Padova.jpg | CC BY-SA 4.0 | Camelia.boban
 places/trieste-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A8_San_Marco-Trieste.jpg | Public domain | Tiesse
 places/modena-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Osteria_Francescana_IMG_2703_(23174690034).jpg | CC BY 2.0 | City Foodsters
-
 # Central Italy place photos
 places/florence-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_jacometti-ciofi_(enoteca_pinchiorri).JPG | CC BY 2.5 | sailko
 places/florence-fine_dining-2.jpg | https://www.flickr.com/photos/27454212@N00/16154759518 | BY-SA 2.0 | Kent Wang
@@ -121,15 +109,12 @@ places/lucca-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Buccellato_d
 places/siena-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Siena,_Nannini_conca_d%27oro.jpg | CC BY 4.0 | Alienautic
 places/montepulciano-cafe-1.jpg | https://www.flickr.com/photos/10101918@N08/30247232168 | BY-SA 2.0 | g_u
 places/perugia-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caff%C3%A9_Sandri_Perugia.JPG | CC BY-SA 4.0 | Adri08
-
 # Southern Italy place photos
 places/capri-fine_dining-1.jpg | https://www.flickr.com/photos/81195835@N00/33521513134 | BY 2.0 | .curt.
 places/lecce-fine_dining-2.jpg | https://www.flickr.com/photos/51035756584@N01/36806107232 | BY 2.0 | Kaeru
-
 # Sicily place photos
 places/siracusa-fine_dining-1.jpg | https://www.flickr.com/photos/49399018@N00/52720771251 | BY 2.0 | amanderson2
 places/taormina-cafe-1.jpg | https://www.flickr.com/photos/118744179@N03/13054296643 | BY-SA 2.0 | j.tarallo
-
 # Northern France place photos
 places/giverny-fine_dining-2.jpg | https://www.flickr.com/photos/38712296@N07/6135656976 | BY 2.0 | zigazou76
 places/fontainebleau-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:2020-10-04_15-22-58_-_Fontainebleau_-_Boutique_Fr%C3%A9d%C3%A9ric_Cassel.jpg | CC BY-SA 4.0 | Baidax
@@ -139,7 +124,6 @@ places/rouen-cafe-1.jpg | https://www.flickr.com/photos/96214671@N08/52402491974
 places/strasbourg-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Winstub_Chez_Yvonne_avril_2014_04.jpg | CC BY-SA 3.0 | Photo Claude TRUONG-NGOC
 places/strasbourg-fine_dining-2.jpg | https://www.flickr.com/photos/22539273@N00/44855977114 | BY 2.0 | *_*
 places/strasbourg-cafe-1.jpg | https://www.flickr.com/photos/26480501@N06/3154355512 | BY 2.0 | dierk schaefer
-
 # Central France place photos
 places/la-rochelle-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Illumination_du_Bar_Andr%C3%A9_pour_les_f%C3%AAtes_de_fin_d%27ann%C3%A9e_2016_(1).JPG | CC BY-SA 3.0 | Jean-Pierre Bazard Jpbazard
 places/lyon-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_La_M%C3%A8re_Brazier_(Lyon)_de_nuit.jpg | CC0 | Benoît Prieur
@@ -147,7 +131,6 @@ places/lyon-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Lyon_1er
 places/lyon-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais,_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg | CC0 | Romainbehar
 places/lyon-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Galerie_B%C3%A9raudier,_p%C3%A2tisserie_Aux_Merveilleux_de_Fred.jpg | CC BY-SA 4.0 | TCY
 places/chamonix-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%22La_Caleche%22_%D0%B2_%D0%A8%D0%B0%D0%BC%D0%BE%D0%BD%D0%B8,_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%90%D0%BB%D1%8C%D0%BF%D1%8B.(_rue_du_docteure_Paccard.18)_-_panoramio.jpg | CC BY-SA 3.0 | oleg.kuh
-
 # Southern France place photos
 places/bordeaux-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Bordeaux_La_Tupina_agneau_et_haricots_de_Tarbes.jpg | CC BY-SA 4.0 | Guallendra
 places/bordeaux-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Bordeaux_-_Rue_Saint-James_-_Boutique_Cassonade_-_G%C3%A2teaux_dans_la_vitrine.jpg | CC0 | Romainbehar
@@ -157,10 +140,8 @@ places/avignon-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Avign
 places/marseille-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Bouillabaisse_de_chez_Fonfon_dans_un_restaurant_du_Vieux-Port_(Marseille)_en_novembre_2022.JPG | CC0 | Benoît Prieur
 places/marseille-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Four_des_navettes_Marseille_2015.JPG | CC BY-SA 4.0 | Alexmar983
 places/nice-fine_dining-2.jpg | https://www.flickr.com/photos/13595617@N00/10301282876 | BY 2.0 | tammylo
-
 # Monaco place photos
 places/monaco-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Cafe_de_Paris_Monte-Carlo_-_panoramio.jpg | CC BY 3.0 | Mister No
-
 # United Kingdom place photos
 places/windsor-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Waterman%27s_Arms,_Brocas_Street,_Eton_-_geograph.org.uk_-_5963166.jpg | CC BY-SA 2.0 | Jaggery
 places/canterbury-fine_dining-1.jpg | https://www.flickr.com/photos/27678895@N02/34800288081 | BY 2.0 | ijclark
@@ -217,7 +198,6 @@ places/st-andrews-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Northpoin
 places/conwy-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Erskine_Arms,_Conwy_-_geograph.org.uk_-_6303058.jpg | CC BY-SA 2.0 | Jaggery
 places/derry-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Walled_City_Brewery,_Ebrington_Square,_Derry_-_geograph.org.uk_-_5501243.jpg | CC BY-SA 2.0 | Robert Eva
 places/derry-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Pyke_%27n%27_Pommes,_Derry_-_Londonderry_-_geograph.org.uk_-_7963228.jpg | CC BY-SA 2.0 | Kenneth  Allen
-
 # Ireland & Corsica place photos
 places/dublin-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Chapter_One_sign.jpg | CC BY-SA 2.0 | William Murphy
 places/dublin-fine_dining-4.jpg | https://www.flickr.com/photos/7503705@N07/8704032125 | BY-SA 2.0 | Kristian Lindqvist
@@ -226,7 +206,6 @@ places/dublin-bakery-1.jpg | https://www.flickr.com/photos/80824546@N00/31680656
 places/dublin-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:At_Bewley%27s_Cafe_in_Dublin_03.JPG | CC BY-SA 3.0 | BKP
 places/dublin-korean-1.jpg | https://www.flickr.com/photos/80824546@N00/37948183304 | BY-SA 2.0 | infomatique
 places/bonifacio-fine_dining-2.jpg | https://www.flickr.com/photos/7815453@N05/5790718813 | BY-SA 2.0 | paspog
-
 # Switzerland place photos
 places/zurich-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Switzerland-Kronenhalle-Zurich-01.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
 places/zurich-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Paradeplatz_-_Zeughauskeller_2011-03-15_17-42-48_ShiftN.jpg | CC BY-SA 3.0 | Roland zh
@@ -249,7 +228,6 @@ places/montreux-fine_dining-4.jpg | https://www.flickr.com/photos/73293249@N00/1
 places/montreux-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Tea_Room_de_la_Baye_(Montreux)-1.jpg | CC BY-SA 4.0 | MHM55
 places/grindelwald-fine_dining-1.jpg | https://www.flickr.com/photos/16253319@N00/32392053048 | BY 2.0 | travelmemo.com
 places/st-moritz-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:St._Moritz_Hanselmann.JPG | CC BY-SA 4.0 | Paebi
-
 # Germany place photos
 places/hamburg-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Fischereihafen_Restaurant_-_panoramio.jpg | CC BY 3.0 | hh oldman
 places/hamburg-cafe-1.jpg | https://www.flickr.com/photos/13101981@N03/4756285764 | BY-SA 2.0 | pixculture
@@ -278,7 +256,6 @@ places/nuremberg-fine_dining-2.jpg | https://www.flickr.com/photos/67975030@N00/
 places/munich-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Munich_--_Augustiner_Braustuben_02.jpg | CC BY-SA 4.0 | Explorer1940
 places/munich-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_%E2%80%94_Hofbr%C3%A4uhaus-Kunstm%C3%BChle_2013.JPG | CC BY 2.0 de | User:Mattes
 places/munich-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Gasthaus_Isarthor_M%C3%BCnchen_01.jpg | CC BY-SA 4.0 | Burkhard Mücke
-
 # Belgium place photos
 places/bruges-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Sans_Cravate_-_Amuse_1_-_macaron.jpg | CC BY-SA 2.0 | FotoosVanRobin
 places/bruges-bakery-3.jpg | https://www.flickr.com/photos/10205031@N07/31041246180 | BY 2.0 | Antonio Campoy Ederra
@@ -290,7 +267,6 @@ places/ghent-cafe-4.jpg | https://www.flickr.com/photos/15218964@N00/4056289443 
 places/antwerp-fine_dining-2.jpg | https://www.flickr.com/photos/63311602@N08/15144573570 | BY 2.0 | loustejskal.com
 places/leuven-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Leuven_Caf%C3%A9_huisbrouwerij_Domus_05.jpg | CC BY-SA 4.0 | Sally V
 places/dinant-cafe-2.jpg | https://www.flickr.com/photos/48783556@N08/14220920671 | BY 2.0 | Daviddje
-
 # Netherlands place photos
 places/rotterdam-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:1604_Parkheuvel_restaurant,_Rotterdam_152.jpg | CC BY-SA 4.0 | Jan Geerling
 places/rotterdam-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:FG_Restaurant_-_2018.jpg | CC BY-SA 4.0 | Magere Hein
@@ -304,7 +280,6 @@ places/delft-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Delft_De_Waag_
 places/maastricht-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Neercanne_Neercanne_Castle_(Explore)_(6317792842).jpg | CC BY-SA 2.0 | Bert Kaufmann from Roermond, Netherlands
 places/maastricht-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_Bisschopsmolen_BW_2017-08-19_15-36-58.jpg | CC BY-SA 4.0 | Berthold Werner
 places/maastricht-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Maastricht_Caf%C3%A9_Zuid_(17065960505).jpg | CC BY 2.0 | Jorge Franganillo
-
 # Luxembourg & Spain (1) place photos
 places/vianden-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_du_Pont_in_Vianden_viewed_from_the_bridge.jpg | CC BY-SA 4.0 | Андрей Романенко
 places/segovia-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Mes%C3%B3n_de_C%C3%A1ndido.jpg | CC BY-SA 4.0 | Mesón de Cándido
@@ -320,7 +295,6 @@ places/valencia-fine_dining-4.jpg | https://www.flickr.com/photos/26163384@N00/2
 places/valencia-fine_dining-5.jpg | https://commons.wikimedia.org/wiki/File:Casa_Roberto.jpg | CC BY-SA 2.0 | https://www.flickr.com/photos/simbiosc/
 places/palma-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Entrada_Forn_del_Santo_Cristo_(convert.io).jpg | CC0 | Fullet
 places/palma-bakery-2.jpg | https://www.flickr.com/photos/47525329@N05/13161172173 | BY 2.0 | Iñaki Pérez de Albéniz
-
 # Spain (2) place photos
 places/seville-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Bodeguita_Romero_(7850724508).jpg | CC BY 2.0 | Rubén Vique
 places/seville-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Casa_Morales_(17137025117).jpg | CC BY 2.0 | Sandra Vallaure from Seville, Spain
@@ -340,7 +314,6 @@ places/bilbao-fine_dining-2.jpg | https://www.flickr.com/photos/21160385@N02/338
 places/bilbao-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:%EB%B9%8C%EB%B0%94%EC%98%A4_%EB%A7%9B%EC%A7%91_-_La_Vina_del_Ensanche.jpg | CC BY-SA 4.0 | http://blog.naver.com/abraxasblog/220994809029
 places/bilbao-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Roscones_de_Reyes_en_la_Pasteler%C3%ADa_Arrese_(Gran_V%C3%ADa_n%C2%BA_24).jpg | CC0 | Zarateman
 places/san-sebastian-fine_dining-1.jpg | https://www.flickr.com/photos/27454212@N00/9665011477 | BY-SA 2.0 | Kent Wang
-
 # Portugal place photos
 places/porto-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Confeitaria_do_Bolh%C3%A3o.jpg | CC BY 2.0 | Jorge Franganillo
 places/braga-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:A_Brasileira_(Braga_3).JPG | CC BY-SA 3.0 | Béria Lima de Rodríguez
@@ -354,7 +327,6 @@ places/sintra-cafe-2.jpg | https://www.flickr.com/photos/130450256@N03/368645510
 places/cascais-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Fortaleza_do_Guincho_Hotel_do_Guincho_Cascais_01.jpg | CC BY-SA 4.0 | GualdimG
 places/funchal-fine_dining-1.jpg | https://www.flickr.com/photos/24001499@N03/4624015086 | BY 2.0 | PortoBay Trade
 places/funchal-fine_dining-2.jpg | https://www.flickr.com/photos/94611718@N00/6466754459 | BY-SA 2.0 | andynash
-
 # Denmark place photos
 places/aarhus-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Domestic_entrance,_Denmark_(2016-03-19).jpg | CC BY-SA 4.0 | RhinoMind
 places/aarhus-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Frederiksh%C3%B8j_Kro.jpg | CC BY-SA 4.0 | RhinoMind
@@ -364,7 +336,6 @@ places/aarhus-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:DavidBreadH
 places/odense-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Den_Gamle_Kro,_Odense.jpg | CC BY-SA 4.0 | Toxophilus
 places/odense-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Odense-Cafebiografen.jpg | CC BY-SA 3.0 | Kåre Thor Olsen
 places/odense-cafe-3.jpg | https://www.flickr.com/photos/75796607@N00/52669163614 | BY 2.0 | westher
-
 # Sweden place photos
 places/gothenburg-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurang_Project_i_G%C3%B6teborg.jpg | CC BY-SA 4.0 | Mattias Blomgren
 places/gothenburg-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurang_Koka_i_G%C3%B6teborg.jpg | CC BY-SA 4.0 | Mattias Blomgren
@@ -374,7 +345,6 @@ places/gothenburg-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Bread_a
 places/gothenburg-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Husaren_in_Haga,_Gothenburg_(6488513251).jpg | CC BY 2.0 | Heather Cowper from Bristol, UK
 places/malmo-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Far_i_Hatten,_Malm%C3%B6.jpg | CC BY 3.0 | Jorchr
 places/uppsala-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Ofvandahls_kafe.jpg | CC BY-SA 4.0 | Udo Schröter
-
 # Capitals (London, Amsterdam, Brussels, Luxembourg, Copenhagen, Stockholm, Oslo, Helsinki) place photos
 places/lon-fd-3.jpg | https://www.flickr.com/photos/55935853@N00/5499132198 | BY-SA 2.0 | Ewan-M
 places/lon-fd-5.jpg | https://www.flickr.com/photos/55935853@N00/5881677793 | BY-SA 2.0 | Ewan-M
@@ -428,14 +398,12 @@ places/hel-cf-1.jpg | https://www.flickr.com/photos/7831824@N04/28422192301 | BY
 places/hel-cf-2.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Regatta_in_Helsinki.jpg | CC BY-SA 4.0 | Alicia Fagerving
 places/hel-cf-4.jpg | https://www.flickr.com/photos/47402349@N00/2075777 | BY-SA 2.0 | eirikso
 places/hel-cf-5.jpg | https://commons.wikimedia.org/wiki/File:Pasta_Bolognese_at_La_Torrefazione.jpg | CC BY-SA 4.0 | JIP
-
 # Finland place photos
 places/turku-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Pinellan_terassi_2018.jpg | CC BY-SA 4.0 | Vilho Verkkotoimitus
 places/tampere-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Tampere_-_Tiiliholvi.jpg | CC BY-SA 3.0 | Tiia Monto
 places/tampere-bakery-3.jpg | https://commons.wikimedia.org/wiki/File:Konditoria_Mari_2017.jpg | CC BY 2.0 | Vapriikin kuva-arkisto
 places/rovaniemi-fine_dining-2.jpg | https://www.flickr.com/photos/126293612@N07/52073665129 | PDM 1.0 | dickinsonjohn02
 places/rovaniemi-fine_dining-3.jpg | https://www.flickr.com/photos/11724697@N00/28246895786 | BY-SA 2.0 | Sami Keinänen
-
 # Norway place photos
 places/bergen-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Lysverket_Bergen_tunliweb.jpg | CC BY-SA 4.0 | Svein-Magne Tunli - tunliweb.no
 places/bergen-bakery-5.jpg | https://commons.wikimedia.org/wiki/File:Baker_Brun.JPG | Public domain | Reinhardheydt
@@ -445,12 +413,10 @@ places/tromso-cafe-2.jpg | https://www.flickr.com/photos/16900221@N04/4732299891
 places/stavanger-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:RE-NAA_IMG_5343_(30924204340).jpg | CC BY 2.0 | City Foodsters
 places/trondheim-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Baklandet_Skydsstation_(Trondheim)_(kubos16)2677.JPG | CC BY-SA 3.0 no | Kubos16
 places/trondheim-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Rosenborg_bakeri_Rosenborg_gate_8-10_(Trondheim)_24JUL2023.jpg | CC BY-SA 4.0 | Kimberli Mäkäräinen
-
 # Iceland place photos
 places/reykjavik-bakery-4.jpg | https://commons.wikimedia.org/wiki/File:Cafe_Babalu_Reykjavik_Iceland_360_degree_panorama_2026-02-08_07-56-36_1.jpg | CC BY 4.0 | G. Edward Johnson
 places/reykjavik-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Stofan_Caf%C3%A9,_Reykjavik_(7115831285).jpg | CC BY 2.0 | Rob Young from United Kingdom
 places/selfoss-cafe-1.jpg | https://www.flickr.com/photos/45457437@N00/44009961190 | BY 2.0 | David Jones
-
 # Austria place photos
 places/vienna-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Restaurante_Steirereck,_Stadtpark,_Viena,_Austria,_2020-01-31,_DD_94.jpg | CC BY-SA 4.0 | Diego Delso
 places/vienna-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Plachutta_Wollzeile_38,_1010_Wien.JPG | CC BY-SA 3.0 at | Feel free to use my photos, but please mention me as the aut
@@ -474,7 +440,6 @@ places/graz-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Graz_Hofb%C3%
 places/graz-cafe-2.jpg | https://www.flickr.com/photos/61226174@N07/24712855102 | BY 2.0 | Plankoskop
 places/graz-cafe-3.jpg | https://commons.wikimedia.org/wiki/File:20220708-b%C3%BCcherschrank-cafe-fotter-h%C3%B6rsaal-attemsgasse-graz-geidorf.jpg | CC BY-SA 4.0 | Chester100rot
 places/hallstatt-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Br%C3%A4ugasthof_Schild.JPG | CC BY-SA 3.0 | Werner100359
-
 # Czechia place photos
 places/prague-fine_dining-1.jpg | https://www.flickr.com/photos/54549113@N00/54423547509 | BY-SA 2.0 | Haydn Blackey
 places/prague-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Praha_Stare_Mesto_Kozi_21_Field_b.jpg | CC BY-SA 4.0 | JiriMatejicek
@@ -487,13 +452,11 @@ places/brno-cafe-1.jpg | https://www.flickr.com/photos/39423133@N04/53422741048 
 places/cesky-krumlov-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Svejk_Restaurant_in_Cesky_Krumlov.jpg | CC BY-SA 4.0 | Zorro2212
 places/karlovy-vary-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:07548-Karlsbad-1906-Cafe_Pupp_-_Innenansicht-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg | CC0 | Brück &amp; Sohn Kunstverlag Meißen
 places/ceske-budejovice-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurace_Masn%C3%A9_kr%C3%A1my_-_panoramio.jpg | CC BY 3.0 | Mister No
-
 # Slovakia place photos
 places/bratislava-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Hotel_Albrecht_04.jpg | CC BY-SA 4.0 | Wizzard
 places/bratislava-fine_dining-2.jpg | https://www.flickr.com/photos/8383084@N06/3823797647 | BY 2.0 | Klearchos Kapoutsis
 places/bratislava-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:1.Slovak_pub_-_panoramio.jpg | CC BY 3.0 | Валерий Дед
 places/kosice-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Sl%C3%A1viaKo%C5%A1ice2.jpg | Public domain | Of
-
 # Hungary place photos
 places/budapest-fine_dining-1.jpg | https://www.flickr.com/photos/94611718@N00/9028487052 | BY-SA 2.0 | andynash
 places/budapest-fine_dining-2.jpg | https://www.flickr.com/photos/7831824@N04/29084309538 | BY 2.0 | Bex.Walton
@@ -501,13 +464,11 @@ places/budapest-cafe-1.jpg | https://commons.wikimedia.org/wiki/File:Clocks_in_N
 places/budapest-cafe-2.jpg | https://www.flickr.com/photos/7831824@N04/42907414452 | BY 2.0 | Bex.Walton
 places/budapest-cafe-4.jpg | https://commons.wikimedia.org/wiki/File:Gerbeaud_Budapest_2005_078.jpg | CC BY 2.5 | Norbert Aepli, Switzerland (User:Noebu)
 places/szeged-cafe-1.jpg | https://www.flickr.com/photos/129231073@N06/44799815711 | BY 2.0 | corno.fulgur75
-
 # Poland place photos
 places/warsaw-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Warsaw_Senses_degustation_menu_2019_P04.jpg | CC BY-SA 4.0 | Fallaner
 places/warsaw-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Restauracja_Magdy_Gessler_Polka_-_Warszawa.JPG | CC BY 3.0 | Alina Zienowicz (Ala_z)
 places/krakow-cafe-2.jpg | https://commons.wikimedia.org/wiki/File:Gossip_Caf%C3%A9_in_Zwierzyniecka_Street,_Krak%C3%B3w,_Poland_2019.jpg | CC BY-SA 4.0 | Kgbo
 places/wroclaw-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw,_Konspira_(4).jpg | CC BY 4.0 | Palickap
-
 # Malta & Greece place photos
 places/valletta-fine_dining-3.jpg | https://www.flickr.com/photos/7831824@N04/51536395964 | BY 2.0 | Bex.Walton
 places/valletta-fine_dining-4.jpg | https://www.flickr.com/photos/24470821@N04/48365104116 | BY 2.0 | Andrew Milligan sumo
@@ -522,7 +483,6 @@ places/santorini-fine_dining-1.jpg | https://www.flickr.com/photos/76396789@N00/
 places/santorini-fine_dining-3.jpg | https://www.flickr.com/photos/79792862@N05/7316487228 | BY-SA 2.0 | Irene Grassi (sun sand & sea)
 places/heraklion-fine_dining-2.jpg | https://www.flickr.com/photos/50141284@N04/24573110292 | BY-SA 2.0 | Andy Montgomery
 places/chania-fine_dining-1.jpg | https://www.flickr.com/photos/27087959@N00/459580068 | BY 2.0 | ccarlstead
-
 # Baltics (Estonia, Latvia, Lithuania) place photos
 places/tallinn-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:NOA_restaurant_in_Meriv%C3%A4lja.JPG | Public domain | Dmitry G
 places/tallinn-fine_dining-5.jpg | https://www.flickr.com/photos/54549113@N00/53122293650 | BY-SA 2.0 | Haydn Blackey
@@ -533,7 +493,6 @@ places/riga-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaura
 places/jurmala-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Majorenhoff_Restaurant_in_Jurmala.jpg | CC BY-SA 4.0 | Андрей Романенко
 places/vilnius-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:D%C5%BEiaugsmas,_4_July_2025,_white_and_green_aspargus.jpg | CC0 | Bdx
 places/vilnius-bakery-1.jpg | https://commons.wikimedia.org/wiki/File:Pilies_kepyklele,_Vilnius_LT.jpg | CC0 | Stefano Vigorelli
-
 # Balkans (Croatia, Slovenia, Bosnia, Montenegro, Serbia, North Macedonia, Kosovo) place photos
 places/zagreb-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Vinodol_restaurant_20150323_DSC_0265.JPG | CC BY-SA 4.0 | Branko Radovanović
 places/split-bakery-4.jpg | https://www.flickr.com/photos/79721788@N00/53692628080 | BY 2.0 | D-Stanley
@@ -551,11 +510,9 @@ places/nis-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Wiki.Ni%C
 places/nis-fine_dining-3.jpg | https://commons.wikimedia.org/wiki/File:Kafana_Ni%C5%A1lijska_mehana.IMG_1692.jpg | CC BY-SA 4.0 | Intermedichbo
 places/tetovo-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Bakal_-_Brvenica_(29).JPG | CC BY-SA 3.0 | This illustration was made by Rašo. 
 An email to 
-
 Rašo woul
 places/pristina-fine_dining-2.jpg | https://commons.wikimedia.org/wiki/File:Restaurant_Liburnia_Prishtina2.jpg | CC BY-SA 4.0 | Arianit
 places/peja-fine_dining-1.jpg | https://commons.wikimedia.org/wiki/File:Kulla_e_Zenel_Beut.jpg | CC BY-SA 4.0 | Dini Begolli
-
 # Bulgaria, Romania, Türkiye, Armenia, Ukraine, Moldova place photos
 places/sofia-fine_dining-5.jpg | https://www.flickr.com/photos/14759783@N04/23943510586 | BY 2.0 | young shanahan
 places/bucharest-fine_dining-4.jpg | https://www.flickr.com/photos/46191841@N00/53692128431 | BY 2.0 | Jorge Franganillo
@@ -573,7 +530,6 @@ places/yerevan-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:Yerev
 places/kyiv-fine_dining-2.jpg | https://www.flickr.com/photos/31849470@N02/17086264791 | BY 2.0 | Oleksii Leonov
 places/lviv-bakery-2.jpg | https://commons.wikimedia.org/wiki/File:Lviv_Croissants_near_the_Lviv_railway_station.jpg | CC0 | Real archimedes of syracuse
 places/chisinau-fine_dining-4.jpg | https://commons.wikimedia.org/wiki/File:La_Pl%C4%83cinte,_Kiev_Street_12,_Kiszyni%C3%B3w_(6).jpg | CC BY 4.0 | MOs810
-
 cities/coimbra.jpg | https://commons.wikimedia.org/wiki/File:Coimbra_December_2011-9.jpg | CC BY-SA 3.0 | Alvesgaspar
 cities/nazare.jpg | https://commons.wikimedia.org/wiki/File:2025-12-21_View_of_Nazar%C3%A9_in_December.jpg | CC BY 4.0 | Alexkom000
 cities/fatima.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nossa_Senhora_do_Ros%C3%A1rio_de_F%C3%A1tima_-_03.jpg | CC BY-SA 4.0 | Reis Quarteu
@@ -960,7 +916,6 @@ highlights/eze-3.jpg | https://commons.wikimedia.org/wiki/File:%C3%88ze_Chemin_d
 highlights/eze-4.jpg | https://commons.wikimedia.org/wiki/File:Notre_Dame_de_l%60Assomption,_%C3%88ze,_Provence-Alpes-C%C3%B4te_d%27Azur,_France_-_panoramio.jpg | CC BY-SA 3.0 | M.Strīķis
 highlights/eze-5.jpg | https://commons.wikimedia.org/wiki/File:Fragonard_(%C3%88ze)003.JPG | CC BY 3.0 | Georges Jansoone (JoJan)
 cities/antibes.jpg | https://commons.wikimedia.org/wiki/File:Antibes-panorama.jpg | CC BY-SA 3.0 | Huiskamergeleerde at Dutch Wikipedia
-
 (Original text: Frits 
 highlights/antibes-1.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Picasso,_Antibes_(9612066353).jpg | CC BY 2.0 | Jeanne Menjoulet from Paris, France
 highlights/antibes-2.jpg | https://commons.wikimedia.org/wiki/File:March%C3%A9_Provencal_Antibes_5.jpg | CC BY-SA 4.0 | Abxbay
@@ -2155,7 +2110,6 @@ highlights/hrensko-2.jpg | https://commons.wikimedia.org/wiki/File:Canyon_of_Kam
 highlights/hrensko-3.jpg | https://commons.wikimedia.org/wiki/File:H%C5%99ensko_2007.jpg | CC BY-SA 3.0 | Chmee2
 highlights/hrensko-4.jpg | https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_Labe_a_z%C3%A1mek_1.jpg | CC BY-SA 4.0 | VitVit
 highlights/znojmo-6.jpg | https://commons.wikimedia.org/wiki/File:Znojmo_(Znaim)_-_Louck%C3%BD_kl%C3%A1%C5%A1ter_(Klosterbruck).JPG | CC BY-SA 4.0 | Pudelek (Marcin Szala)
-highlights/plzen-2.jpg | https://commons.wikimedia.org/wiki/File:Plze%C5%88_podzem%C3%AD.JPG | Public domain | Ondřej Koníček
 highlights/ljubljana-6.jpg | https://commons.wikimedia.org/wiki/File:Ljubljana_St_Nicholas_Cathedral_(11992595764).jpg | CC BY 2.0 | Jorge Láscar from Australia
 highlights/ljubljana-7.jpg | https://commons.wikimedia.org/wiki/File:La_maison_de_Jo%C5%BEe_Ple%C4%8Dnik_(Ljubljana)_(9375937247).jpg | CC BY 2.0 | dalbera from Paris, France
 highlights/ljubljana-8.jpg | https://commons.wikimedia.org/wiki/File:Tivoli_City_Park,_Ljubljana_(2013).jpg | CC BY-SA 4.0 | Dedo70
@@ -2300,7 +2254,6 @@ highlights/perast-3.jpg | https://commons.wikimedia.org/wiki/File:Kotor_area_Our
 highlights/perast-4.jpg | https://commons.wikimedia.org/wiki/File:Islet_of_St._George_in_the_Bay_of_Kotor_(2)_(29577189770).jpg | CC BY 2.0 | Richard Mortel from Riyadh, Saudi Arabia
 highlights/perast-5.jpg | https://commons.wikimedia.org/wiki/File:Risan_-_Hypnos.JPG | CC BY-SA 4.0 | Janusz Recław
 highlights/ulcinj-2.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj_Old_Town,_August_2012.jpg | CC BY-SA 3.0 | Mjuzikxhankej
-highlights/ulcinj-3.jpg | https://commons.wikimedia.org/wiki/File:Ulcinj,_small_beach.jpg | CC BY-SA 3.0 | Palickap
 highlights/ulcinj-4.jpg | https://www.flickr.com/photos/49665685@N06/41789454840 | BY 2.0 | miketnorton
 highlights/perast-1.jpg | https://www.flickr.com/photos/113306963@N05/38105080686 | BY 2.0 | travelmag.com
 highlights/pristina-4.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_la_Madre_Teresa,_Pristina,_Kosovo,_2014-04-16,_DD_11.JPG | CC BY-SA 3.0 | Diego Delso
@@ -2441,54 +2394,6 @@ highlights/lindau-2.jpg | https://commons.wikimedia.org/wiki/File:Lindau_Maximil
 highlights/lindau-3.jpg | https://commons.wikimedia.org/wiki/File:Lindau,_Rathaus_Nordseite-001.jpg | CC BY-SA 3.0 | Tilman2007
 highlights/lindau-4.jpg | https://commons.wikimedia.org/wiki/File:BSB-Schiff_in_Wasserburg_(Bodensee)_(2026-07-07)-3.jpg | CC BY-SA 4.0 | Sneeuwvlakte
 highlights/lindau-5.jpg | https://commons.wikimedia.org/wiki/File:Insel_Mainau_Aerial.jpg | CC BY-SA 4.0 | SimonWaldherr
-highlights/genoa-6.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Le_Strade_Nuove_and_the_system_of_the_Palazzi_dei_Rolli-113866.jpg | CC BY-SA 3.0 igo | Michel Ravassard
-highlights/genoa-7.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Cathedral_(50572312381).jpg | CC BY-SA 2.0 | Kent Wang from Barcelona, Spain
-highlights/genoa-8.jpg | https://commons.wikimedia.org/wiki/File:Boccadasse_Genova_Liguria.jpg | CC BY-SA 4.0 | EJBJane
-highlights/turin-8.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_(Turin)_Facade.jpg | CC BY-SA 4.0 | TorinoDoc
-highlights/turin-9.jpg | https://commons.wikimedia.org/wiki/File:Duomo_di_Torino.JPG | CC BY-SA 3.0 | Livioandronico2013
-highlights/turin-10.jpg | https://commons.wikimedia.org/wiki/File:Torino_Caff%C3%A8_Al_Bicerin_(52738271224).jpg | CC BY 2.0 | Jorge Franganillo
-highlights/turin-11.jpg | https://commons.wikimedia.org/wiki/File:Reggia_di_Venaria_Reale_83.jpg | CC BY-SA 4.0 | FrDr
-highlights/turin-12.jpg | https://commons.wikimedia.org/wiki/File:Castello_Barolo.jpg | CC BY 2.0 | Taz
-highlights/como-5.jpg | https://commons.wikimedia.org/wiki/File:Tremezzo_-_Villa_Carlotta_0691.JPG | CC BY-SA 4.0 | Phyrexian
-highlights/bergamo-6.jpg | https://commons.wikimedia.org/wiki/File:Bergamo,_Santa_Maria_Maggiore,_2016-06_CN-01.jpg | CC BY-SA 4.0 | Steffen Schmitz
-highlights/stresa-5.jpg | https://commons.wikimedia.org/wiki/File:Giardini_Botanici_Villa_Taranto_(14093432222).jpg | CC BY-SA 2.0 | Irene Grassi from Italy
-highlights/milan-21.jpg | https://commons.wikimedia.org/wiki/File:Pinacoteca_di_Brera_0100_02.jpg | CC BY-SA 4.0 | FrDr
-highlights/milan-22.jpg | https://commons.wikimedia.org/wiki/File:Milano_-_Museo_del_Novecento_-_202109022215.jpeg | CC BY-SA 4.0 | Lauraderiu
-highlights/milan-23.jpg | https://commons.wikimedia.org/wiki/File:Sala_delle_colonne_-_Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci.jpg | CC BY 4.0 | Museo Nazionale Scienza e Tecnologia Leonardo da Vinci
-highlights/milan-24.jpg | https://commons.wikimedia.org/wiki/File:Certosa_di_Pavia_(maggio_2025).jpg | CC BY-SA 4.0 | Chiyako92
-highlights/venice-25.jpg | https://commons.wikimedia.org/wiki/File:Saint_Mark%27s_Campanile_and_Palazzo_Ducale,_Venice,_September_2017_-2.jpg | CC BY-SA 4.0 | Martin Falbisoner
-highlights/venice-26.jpg | https://commons.wikimedia.org/wiki/File:Arsenale_ingresso_Venezia_notte.jpg | CC BY-SA 3.0 | This Photo was taken by Wolfgang Moroder.
-highlights/verona-6.jpg | https://commons.wikimedia.org/wiki/File:Castelvecchio_-_Verona_-_Italy_-_2026_-_03.jpg | CC BY-SA 4.0 | NorbertNagel
-highlights/verona-7.jpg | https://commons.wikimedia.org/wiki/File:San_Zeno_Maggiore_-_Verona_-_West_facade_and_towers_-_2026_-_03.jpg | CC BY-SA 4.0 | NorbertNagel
-highlights/verona-9.jpg | https://commons.wikimedia.org/wiki/File:Vineyards_in_Valpolicella_region.jpg | CC BY 2.0 | Aaron Epstein
-highlights/trieste-6.jpg | https://commons.wikimedia.org/wiki/File:Trieste_-_Caff%C3%A8_San_Marco_(38698207911).jpg | CC BY 2.0 | Fred Romero from Paris, France
-highlights/trieste-7.jpg | https://commons.wikimedia.org/wiki/File:Grotta_Gigante_2613.JPG | CC BY-SA 3.0 | Brane.Blokar at Slovenian Wikipedia
-highlights/bologna-8.jpg | https://commons.wikimedia.org/wiki/File:Archiginnasio_ora_blu_Bologna.jpg | CC BY-SA 4.0 | Wwikiwalter
-highlights/bologna-9.jpg | https://commons.wikimedia.org/wiki/File:Bologna_-_Santuario_della_Madonna_di_San_Luca_-_Portico_di_San_Luca_-_2026-09-15_18-58-56_001.jpg | CC BY-SA 4.0 | Terragio67
-highlights/padua-6.jpg | https://commons.wikimedia.org/wiki/File:Orto_botanico_di_Padova.jpeg | CC BY-SA 4.0 | Memi26
-highlights/bolzano-6.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Runkelstein_ext.jpg | CC BY 2.0 | suedtirol-altoadige
-highlights/cortina-5.jpg | https://commons.wikimedia.org/wiki/File:Cortina_d%27Ampezzo_-_Corso_Italia.jpg | CC BY-SA 3.0 | Tiia Monto
-highlights/cortina-6.jpg | https://commons.wikimedia.org/wiki/File:Dolomites_-_Cortina_area_-_mrning_trip_up_the_cables_cars_to_Tofana_di_Mezzo_(11059138724).jpg | CC BY-SA 2.0 | Murray Foubister
-highlights/parma-6.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_prosciutto_e_dei_salumi_di_Parma_(Langhirano)_-_cortile_interno_1_2022-05-11.jpg | CC BY-SA 4.0 | Parma1983
-highlights/ravenna-6.jpg | https://commons.wikimedia.org/wiki/File:Battistero_Neoniano_02.jpg | CC BY-SA 4.0 | Ernesto Sguotti
-highlights/pisa-5.jpg | https://commons.wikimedia.org/wiki/File:Pisa_-_Camposanto_monumentale_01.JPG | CC BY-SA 4.0 | Luca Aless
-highlights/pisa-6.jpg | https://commons.wikimedia.org/wiki/File:Pisa_Piazza_dei_Cavalieri_2.jpg | CC BY 4.0 | Zairon
-highlights/lucca-6.jpg | https://commons.wikimedia.org/wiki/File:Lucca,_palazzo_della_casa_natale_di_giacomo_puccini,_01.jpg | CC BY 3.0 | Sailko
-highlights/siena-5.jpg | https://commons.wikimedia.org/wiki/File:Santissima_Annunziata,_Siena,_Santa_Maria_della_Scala.jpg | CC BY-SA 4.0 | Gennadii Saus i Segura
-highlights/assisi-5.jpg | https://commons.wikimedia.org/wiki/File:San_Damiano_(Assisi)_01.JPG | CC BY-SA 3.0 | Superchilum
-highlights/orvieto-5.jpg | https://commons.wikimedia.org/wiki/File:Civita_(Bagnoregio)_-_Panorama.jpg | CC BY-SA 4.0 | User:New2022
-highlights/perugia-6.jpg | https://commons.wikimedia.org/wiki/File:Perugina_(46).jpg | CC BY 4.0 | Elekes Andor
-highlights/montepulciano-6.jpg | https://commons.wikimedia.org/wiki/File:Montalcino_001.jpg | CC BY-SA 3.0 | O.S
-highlights/florence-20.jpg | https://commons.wikimedia.org/wiki/File:Firenze_-_Campanile_di_Giotto_-_2025-09-29_18-32-15_001.jpg | CC BY-SA 4.0 | TeKappa
-highlights/florence-21.jpg | https://commons.wikimedia.org/wiki/File:Cappella_brancacci_02.JPG | CC BY 2.5 | sailko
-highlights/florence-22.jpg | https://commons.wikimedia.org/wiki/File:Piano_inclinato,_Museo_Galileo,_Florence,_Inv._104,_224108.jpg | CC BY-SA 4.0 | Zde
-highlights/florence-23.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_Santo_Spirito,_Firenze.jpg | CC BY-SA 3.0 | Lucarelli
-highlights/florence-24.jpg | https://commons.wikimedia.org/wiki/File:IVERAZZANO_MONOUMENT_GREVE_IN_CHIANTI_%D7%A4%D7%A1%D7%9C_%D7%95%D7%A8%D7%90%D7%96%D7%90%D7%A0%D7%95_%D7%92%D7%A8%D7%95%D7%95%D7%94_%D7%90%D7%99%D7%9F_%D7%A7%D7%99%D7%90%D7%A0%D7%98%D7%99.jpg | CC0 | Avisadehh
-highlights/rome-29.jpg | https://commons.wikimedia.org/wiki/File:End_of_the_Via_Appia_Antica_(Brindisi)_at_night.jpg | CC BY-SA 4.0 | Livioandronico2013
-highlights/rome-30.jpg | https://commons.wikimedia.org/wiki/File:San_Giovanni_in_Laterano_-_Rome.jpg | CC BY-SA 4.0 | MrPanyGoff
-highlights/rome-31.jpg | https://commons.wikimedia.org/wiki/File:Roma-_Portico_d%27Ottavia_-_52350512476.jpg | CC BY 2.0 | Jorge Franganillo
-highlights/rome-32.jpg | https://commons.wikimedia.org/wiki/File:Ripa_-_giardino_degli_aranci_01.JPG | Public domain | user:Lalupa
-highlights/rome-33.jpg | https://commons.wikimedia.org/wiki/File:Convento_dei_Frati_Minori_Cappuccini_(cripta).jpg | CC BY-SA 4.0 | Antreus93
 highlights/genoa-6.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Le_Strade_Nuove_and_the_system_of_the_Palazzi_dei_Rolli-113866.jpg | CC BY-SA 3.0 igo | Michel Ravassard
 highlights/genoa-7.jpg | https://commons.wikimedia.org/wiki/File:Genoa_Cathedral_(50572312381).jpg | CC BY-SA 2.0 | Kent Wang from Barcelona, Spain
 highlights/genoa-8.jpg | https://commons.wikimedia.org/wiki/File:Boccadasse_Genova_Liguria.jpg | CC BY-SA 4.0 | EJBJane
@@ -3152,3 +3057,43 @@ highlights/hurghada-2.jpg | https://commons.wikimedia.org/wiki/File:Hurghada_Mar
 highlights/hurghada-3.jpg | https://commons.wikimedia.org/wiki/File:Desert_safari_in_Hurghada_-_panoramio_(1).jpg | CC BY 3.0 | E v Schoonhoven
 highlights/hurghada-4.jpg | https://commons.wikimedia.org/wiki/File:El_Gouna_R14.jpg | CC BY 3.0 | Marc Ryckaert
 cities/cairo.jpg | https://www.flickr.com/photos/80854685@N08/23785641449 | BY-SA 2.0 | Mark Fischer
+landmarks/landmark-jo.jpg | https://commons.wikimedia.org/wiki/File:Tourists_on_path_near_Ad-Deir,_Petra.jpg | CC BY-SA 3.0 | Daniel Case
+cities/amman.jpg | https://commons.wikimedia.org/wiki/File:Amman_BW_29.JPG | CC BY 3.0 | Berthold Werner
+highlights/amman-1.jpg | https://commons.wikimedia.org/wiki/File:Byzantine_Church,_Amman_Citadel,_Jordan1.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/amman-2.jpg | https://commons.wikimedia.org/wiki/File:Roman_theater_of_Amman_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/amman-3.jpg | https://commons.wikimedia.org/wiki/File:Rainbow_Road,_Amman.jpg | CC BY-SA 4.0 | miiika
+highlights/amman-4.jpg | https://commons.wikimedia.org/wiki/File:Jordan_Museum.JPG | CC BY-SA 3.0 | Freedom's Falcon
+highlights/amman-5.jpg | https://commons.wikimedia.org/wiki/File:King_Abdullah_I_Mosque_from_balcony_across_the_street.jpg | CC BY-SA 4.0 | Trldp
+highlights/amman-6.jpg | https://commons.wikimedia.org/wiki/File:Jerash_Archaeological_Sites_(2026)_28.jpg | CC BY-SA 4.0 | Mohammad hajeer
+highlights/amman-7.jpg | https://commons.wikimedia.org/wiki/File:Dead_Sea_beach_in_Jordan.jpg | CC BY-SA 4.0 | John Romano D'Orazio
+highlights/amman-8.jpg | https://commons.wikimedia.org/wiki/File:Mount_Nebo_Utah.jpg | CC BY-SA 3.0 | No machine-readable author provided. C.Maylett assumed (base
+cities/petra.jpg | https://commons.wikimedia.org/wiki/File:Petra_,_Al-Khazneh_2.jpg | CC BY-SA 3.0 | Faraheed
+highlights/petra-1.jpg | https://commons.wikimedia.org/wiki/File:Petra_Siq,_entrance_to_the_ancient_Nabatean_city_of_Petra,_Jordan.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/petra-2.jpg | https://commons.wikimedia.org/wiki/File:El_Khazneh_%C3%A0_09h33.jpg | CC BY-SA 4.0 | Mikolalain
+highlights/petra-3.jpg | https://commons.wikimedia.org/wiki/File:Royal_tombs_in_Petra_archaeological_park,_Jordan.jpg | CC BY-SA 4.0 | Yousef Awad 90
+highlights/petra-4.jpg | https://commons.wikimedia.org/wiki/File:Ad_Deir,_Monastery,_Petra_(35565835611).jpg | CC BY 2.0 | subherwal from London, United Kingdom
+highlights/petra-5.jpg | https://commons.wikimedia.org/wiki/File:Petra_by_Night_29042019.jpg | CC BY-SA 4.0 | AntoniusPigeonius
+highlights/petra-6.jpg | https://commons.wikimedia.org/wiki/File:05_Little_Petra_Canyon_Trail_-_The_Trail_Starts_at_the_End_of_Little_Petra_-_panoramio.jpg | CC BY-SA 3.0 | hikinginjordan
+cities/wadi-rum.jpg | https://commons.wikimedia.org/wiki/File:Wadi_Rum_BW_16.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/wadi-rum-1.jpg | https://commons.wikimedia.org/wiki/File:401_Wadi_Rum_Visitors%27_centre.jpg | CC BY 2.0 | Verity Cridland
+highlights/wadi-rum-2.jpg | https://commons.wikimedia.org/wiki/File:Wadi_Rum_Camp.jpg | CC BY-SA 4.0 | Raya Sharbain
+highlights/wadi-rum-3.jpg | https://commons.wikimedia.org/wiki/File:Wadi_rum_desert.jpg | CC0 | Peter Chisholm
+highlights/wadi-rum-4.jpg | https://commons.wikimedia.org/wiki/File:2019_Israel_Jordanien_0765_Wadi_Rum_-_Khazali_Canyon.JPG | CC BY-SA 4.0 | Steffen 962
+cities/aqaba.jpg | https://commons.wikimedia.org/wiki/File:Red_sea_in_Aqaba_in_jordan_in_3rd_of_August_2025.jpg | CC0 | Khalidabukhamseh
+highlights/aqaba-1.jpg | https://commons.wikimedia.org/wiki/File:Gulf_of_Eilat_(Red_Sea)_coral_reefs.jpg | Public domain | Daviddarom
+highlights/aqaba-2.jpg | https://commons.wikimedia.org/wiki/File:Aqaba_Fort_may_2024_by_najehphoto_(13).jpg | CC BY 4.0 | Justwiki
+highlights/aqaba-3.jpg | https://commons.wikimedia.org/wiki/File:Aqaba%27s_South_Beach_thatch_roofs_sunset.jpg | CC BY-SA 4.0 | عباد ديرانية
+highlights/aqaba-4.jpg | https://commons.wikimedia.org/wiki/File:Marina_Berthing_on_the_red_sea,_in_Aqaba.jpg | CC BY 4.0 | Ghaydaa.s
+cities/edfu.jpg | https://commons.wikimedia.org/wiki/File:02010_05831_Edfu_Temple.jpg | CC BY-SA 4.0 | Silar
+highlights/edfu-1.jpg | https://commons.wikimedia.org/wiki/File:Edfu_Temple_R04.jpg | CC BY-SA 4.0 | Marc Ryckaert
+highlights/edfu-2.jpg | https://commons.wikimedia.org/wiki/File:Cruise_Ships_Along_the_Corniche,_Edfu,_AG,_EGY_(48022360963).jpg | CC0 | Warren LeMay from Cullowhee, NC, United States
+highlights/edfu-3.jpg | https://commons.wikimedia.org/wiki/File:Edfu_from_nile.JPG | CC BY-SA 3.0 | Rémih
+cities/kom-ombo.jpg | https://commons.wikimedia.org/wiki/File:020100218_05860_Reliefs_in_Kom_Ombo_Temple.jpg | CC BY-SA 4.0 | Silar
+highlights/kom-ombo-1.jpg | https://commons.wikimedia.org/wiki/File:Kom_Ombo_Portal_03.JPG | CC BY 3.0 | Olaf Tausch
+highlights/kom-ombo-2.jpg | https://commons.wikimedia.org/wiki/File:Kom_Ombo_-_Sobek_statue.jpg | CC BY-SA 4.0 | Mannivu
+highlights/kom-ombo-3.jpg | https://commons.wikimedia.org/wiki/File:Kom_Ombo_Mammisi_02.JPG | CC BY 3.0 | Olaf Tausch
+cities/abu-simbel.jpg | https://commons.wikimedia.org/wiki/File:Kleiner_Tempel_(Abu_Simbel)_02.jpg | CC BY 3.0 | Olaf Tausch
+highlights/abu-simbel-1.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_03.jpg | CC BY 3.0 | Olaf Tausch
+highlights/abu-simbel-2.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Nefertari,_Abu_Simbel,_Egipto,_2022-04-02,_DD_159.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/abu-simbel-3.jpg | https://commons.wikimedia.org/wiki/File:Abu_Simbel_01.jpg | CC BY-SA 3.0 | Angel Aroca Escámez
+highlights/abu-simbel-4.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_26-28_HDR.jpg | CC BY-SA 4.0 | Diego Delso
