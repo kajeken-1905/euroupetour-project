@@ -1,0 +1,57 @@
+// Israel's airports, stations and ports, with the ways into town (2026-11).
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-tlv',
+    cityId: 'tel-aviv',
+    kind: 'air',
+    name: '벤구리온 공항|Ben Gurion Airport',
+    code: 'TLV',
+    image: '/gateways/gw-tlv.jpg',
+    intl: true,
+    about: '텔아비브 남동쪽 약 20km의 이스라엘 최대 공항으로, 텔아비브와 예루살렘 사이에 있습니다.|Israel’s main airport, about 20 km south-east of Tel Aviv, between Tel Aviv and Jerusalem.',
+    options: [
+      {
+        mode: 'train',
+        name: '이스라엘 철도|Israel Railways',
+        route: '공항역(터미널 3) → 텔아비브 하하가나·사비도르 센터 · 예루살렘 이츠하크 나본|Airport station (Terminal 3) → Tel Aviv HaHagana and Savidor Center, Jerusalem–Yitzhak Navon',
+        time: '텔아비브 약 15~20분 · 예루살렘 약 25분|Tel Aviv about 15–20 min, Jerusalem about 25 min',
+        ticket: '라브카브 카드나 결제 앱|Rav-Kav card or a payment app',
+      },
+      {
+        mode: 'taxi',
+        name: '택시·호출 앱|Taxi or ride-hailing',
+        route: '도착층 택시 승강장|Arrivals taxi rank',
+        time: '텔아비브 약 25분 · 예루살렘 약 45분|Tel Aviv about 25 min, Jerusalem about 45 min',
+      },
+    ],
+    note: '안식일(금요일 저녁~토요일 저녁)엔 기차가 다니지 않으니 택시를 탑니다. 출국 보안 검사가 길어 3시간 전에 도착하세요.|Trains don’t run on the Sabbath (Friday evening to Saturday evening)—take a taxi. Departure security is lengthy; arrive 3 hours early.',
+    maps: 'Ben Gurion Airport',
+    site: 'https://www.iaa.gov.il/en/',
+    checked: '2026-11',
+  },
+  {
+    id: 'gw-jerusalem-navon',
+    cityId: 'jerusalem',
+    kind: 'rail',
+    name: '예루살렘 이츠하크 나본역|Jerusalem–Yitzhak Navon station',
+    image: '/gateways/gw-jerusalem-navon.jpg',
+    about: '예루살렘 입구의 고속철도역으로, 지하 깊은 승강장에서 공항·텔아비브행 열차가 출발합니다.|The fast-train station at the entrance to Jerusalem, with deep underground platforms for trains to the airport and Tel Aviv.',
+    options: [
+      {
+        mode: 'tram',
+        name: '경전철 레드 라인|Light rail Red Line',
+        route: '→ 마하네 예후다 · 야파 문(구시가) 근처|→ Mahane Yehuda and near the Jaffa Gate (Old City)',
+      },
+      {
+        mode: 'walk',
+        name: '중앙 버스터미널|Central Bus Station',
+        route: '길 건너편 → 사해·마사다행 버스|Across the road → buses to the Dead Sea and Masada',
+      },
+    ],
+    maps: 'Jerusalem Yitzhak Navon railway station',
+    site: 'https://www.rail.co.il/en',
+    checked: '2026-11',
+  },
+]

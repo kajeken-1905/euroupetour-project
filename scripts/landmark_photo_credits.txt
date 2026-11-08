@@ -3200,3 +3200,28 @@ highlights/riyadh-4.jpg | https://commons.wikimedia.org/wiki/File:Souq_Ushaiger_
 highlights/jeddah-3.jpg | https://www.flickr.com/photos/43714545@N06/50703470911 | BY 2.0 | Prof. Mortel
 highlights/riyadh-7.jpg | https://commons.wikimedia.org/wiki/File:Edge_of_the_world_(6524166121).jpg | CC BY 2.0 | Sammy Six
 landmarks/landmark-sa.jpg | https://commons.wikimedia.org/wiki/File:The_Kaaba_during_Hajj_-_edited.jpg | CC BY-SA 4.0 | Adli Wahid (minor edits by Basile Morin)
+gateways/gw-rak.jpg | https://commons.wikimedia.org/wiki/File:MARRAKECH_MENARA_AIRPORT_TERMINAL_1_MOROCCO_APRIL_2013_(8709772671).jpg | CC BY-SA 2.0 | calflier001
+gateways/gw-cmn.jpg | https://commons.wikimedia.org/wiki/File:Casablanca_Mohammed_V_International_Airport,_Morocco_January_2024_-_Exterior.jpg | CC BY 2.0 | Sharon Hahn Darlin
+gateways/gw-tng.jpg | https://commons.wikimedia.org/wiki/File:IBN_BATTOUTTA_AIRPORT_TANGER_MOROCCO_APRIL_2013_(8695760132).jpg | CC BY-SA 2.0 | calflier001
+gateways/gw-fez.jpg | https://commons.wikimedia.org/wiki/File:AEROPORT_FES_SAISS_FES_Commune_Oulad_Tay_(cropped).jpg | CC0 | RACHID BAYA
+gateways/gw-tanger-ville.jpg | https://commons.wikimedia.org/wiki/File:Tanger_Railway_Station.jpg | CC BY 2.0 | mustapha_ennaimi
+gateways/gw-casa-voyageurs.jpg | https://www.flickr.com/photos/94611718@N00/15734749920 | BY-SA 2.0 | andynash
+gateways/gw-marrakech-station.jpg | https://commons.wikimedia.org/wiki/File:Marrakesh_railway_station_06.jpg | CC BY-SA 4.0 | Stolbovsky
+gateways/gw-tangier-port.jpg | https://commons.wikimedia.org/wiki/File:Photo_du_Port_de_Tanger_Ville_072.jpg | CC BY-SA 4.0 | Jobt1962
+gateways/gw-tun.jpg | https://commons.wikimedia.org/wiki/File:A%C3%A9roport_international_de_Tunis-Carthage,_2019.jpg | CC BY-SA 4.0 | Mohatatou
+gateways/gw-mir.jpg | https://commons.wikimedia.org/wiki/File:Monastir-Habib_Bourguiba_International_Airport_01.jpg | CC BY-SA 4.0 | Ad Meskens
+gateways/gw-nbe.jpg | https://commons.wikimedia.org/wiki/File:Enfidha_Hammamet_International_Airport.jpg | CC BY-SA 4.0 | Waiwaq
+gateways/gw-la-goulette.jpg | https://commons.wikimedia.org/wiki/File:MSC_Melody,_La_Goulette,_2009_stern.jpg | CC BY-SA 3.0 | Bahnfrend
+gateways/gw-cai.jpg | https://commons.wikimedia.org/wiki/File:Cairo_Airport_Terminal_3.jpg | CC BY-SA 4.0 | Alensha
+gateways/gw-hbe.jpg | https://commons.wikimedia.org/wiki/File:Alexandria_International_Airport_(Louisiana).jpg | CC BY-SA 4.0 | Greyfiveys
+gateways/gw-lxr.jpg | https://commons.wikimedia.org/wiki/File:Luxor_International.JPG | Public domain | Charlesdrakew at English Wikipedia
+gateways/gw-asw.jpg | https://commons.wikimedia.org/wiki/File:Aswan_International_Airport,_Aswan,_AG,_EGY_(48025277278).jpg | CC0 | Warren LeMay from Cullowhee, NC, United States
+gateways/gw-hrg.jpg | https://commons.wikimedia.org/wiki/File:Hurghada-Airport.jpg | Public domain | No machine-readable author provided. Binter~commonswiki assu
+gateways/gw-abs.jpg | https://www.flickr.com/photos/101175215@N08/16240528725 | PDM 1.0 | yungchin0412
+gateways/gw-cairo-ramses.jpg | https://commons.wikimedia.org/wiki/File:Ramses-Station.jpg | CC BY-SA 4.0 | Osama Khalil
+gateways/gw-amm.jpg | https://commons.wikimedia.org/wiki/File:Queen_Alia_International_Airport_2.jpg | CC BY-SA 4.0 | Malkawi99
+gateways/gw-aqj.jpg | https://commons.wikimedia.org/wiki/File:Aqaba_BW_4.JPG | CC BY 3.0 | Berthold Werner
+gateways/gw-tlv.jpg | https://www.flickr.com/photos/8721758@N06/9869861255 | BY 2.0 | Jorge Lascar
+gateways/gw-jerusalem-navon.jpg | https://commons.wikimedia.org/wiki/File:Train_in_Yitzhak_Navon_Station_Jerusalem.jpg | CC BY-SA 4.0 | Davcza
+gateways/gw-dxb.jpg | https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_-_2024-10-24_-_Andy_Mabbett_-_51.jpg | CC BY-SA 4.0 | Andy Mabbett
+gateways/gw-auh.jpg | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_(UAE),_Zayed_International_Airport,_Terminal_A_(02).jpg | CC BY-SA 4.0 | Vincent van Zeijst
