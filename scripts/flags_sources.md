@@ -18,3 +18,4 @@ Two edits on each file's root <svg>:
 - ru.svg — File:Flag_of_Russia.svg (public domain), added 2026-10-26
 - by.svg — File:Flag_of_Belarus.svg (public domain), added 2026-10-26
 - xc.svg — File:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg (public domain), added 2026-10-26
+- ma.svg — File:Flag_of_Morocco.svg (public domain), added 2026-11-08

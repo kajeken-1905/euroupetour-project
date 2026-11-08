@@ -2524,6 +2524,78 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  marrakech: {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '메디나는 걸어서 다닙니다. 신시가지와 공항은 프티 택시나 공항버스로 갑니다.',
+      en: 'Walk the medina; take a petit taxi or the airport bus to the new town and airport.',
+    },
+    apps: [
+    ],
+  },
+  essaouira: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '메디나는 걸어서 다닙니다.',
+      en: 'Walk the medina.',
+    },
+    apps: [
+    ],
+  },
+  merzouga: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '사막은 낙타나 사륜구동차로 들어갑니다.',
+      en: 'The desert is reached by camel or 4×4.',
+    },
+    apps: [
+    ],
+  },
+  fez: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '메디나는 걸어서만 다닙니다. 신시가지와 역은 프티 택시로 갑니다.',
+      en: 'The medina is on foot only; take a petit taxi to the new town and station.',
+    },
+    apps: [
+    ],
+  },
+  chefchaouen: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다(계단이 많습니다).',
+      en: 'Walk the town (expect lots of steps).',
+    },
+    apps: [
+    ],
+  },
+  tangier: {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서, 동굴·곶은 택시로 갑니다.',
+      en: 'Walk the old town; take a taxi to the caves and cape.',
+    },
+    apps: [
+    ],
+  },
+  rabat: {
+    modes: ['walk', 'tram', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서, 셸라와 신시가지는 트램이나 택시로 갑니다.',
+      en: 'Walk the old town; take the tram or a taxi to Chellah and the new town.',
+    },
+    apps: [
+    ],
+  },
+  casablanca: {
+    modes: ['tram', 'taxi', 'walk', 'train'],
+    howTo: {
+      ko: '트램 노선과 프티 택시로 다닙니다. 공항은 기차(ONCF)로 갑니다.',
+      en: 'Get around by tram and petit taxi; the airport train is run by ONCF.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

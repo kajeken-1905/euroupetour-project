@@ -3039,3 +3039,58 @@ highlights/lamego-4.jpg | https://commons.wikimedia.org/wiki/File:Caves_da_Rapos
 highlights/peso-da-regua-3.jpg | https://commons.wikimedia.org/wiki/File:Wine_tasting_Quinta_das_Carvalhas.jpg | CC BY-SA 4.0 | sanjorgepinho
 highlights/tavira-4.jpg | https://commons.wikimedia.org/wiki/File:Anchor_Cemetery_at_Praia_do_Barril,_Portugal_2019-11-07-2.jpg | CC BY-SA 4.0 | Alexey Komarov
 highlights/ericeira-3.jpg | https://commons.wikimedia.org/wiki/File:Arredores_da_Praia_de_Ribeira_d%27Ilhas_-_Portugal_(51923426732).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/marrakech.jpg | https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine,_Marrakech_Medina,_Morocco.jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/marrakech-1.jpg | https://commons.wikimedia.org/wiki/File:Jemaa_el-Fnaa_Marrakech_at_sunset.jpg | CC BY-SA 4.0 | Herokk
+highlights/marrakech-2.jpg | https://commons.wikimedia.org/wiki/File:Koutoubia_Mosque_1.jpg | Public domain | 
+highlights/marrakech-3.jpg | https://commons.wikimedia.org/wiki/File:Bahia_Palace_large_court.jpg | CC BY-SA 4.0 | Val Traveler
+highlights/marrakech-4.jpg | https://commons.wikimedia.org/wiki/File:Le_jardin_des_majorelle_21.JPG | CC BY-SA 3.0 | Viault
+highlights/marrakech-5.jpg | https://commons.wikimedia.org/wiki/File:Ben_Youssef_Madrasa_DSCF5986.jpg | CC BY-SA 4.0 | R Prazeres
+highlights/marrakech-6.jpg | https://commons.wikimedia.org/wiki/File:Souk_Semmarine,_Marrakech.jpg | CC BY 4.0 | RACHID BAYA
+highlights/marrakech-7.jpg | https://commons.wikimedia.org/wiki/File:Saadian_Tombs_1044-HDR.jpg | CC BY-SA 4.0 | C messier
+highlights/marrakech-8.jpg | https://commons.wikimedia.org/wiki/File:Ourika_Valley_south_of_Marrakech,_Morocco_-_panoramio_(1).jpg | CC BY 3.0 | David Broad
+cities/essaouira.jpg | https://commons.wikimedia.org/wiki/File:Bab_El_Marsa,_Essaouira,_Morocco.jpg | CC BY-SA 4.0 | CastlesCatalog
+highlights/essaouira-1.jpg | https://commons.wikimedia.org/wiki/File:Skala_de_Ville.jpg | CC BY 3.0 | Jerzy Strzelecki
+highlights/essaouira-2.jpg | https://commons.wikimedia.org/wiki/File:Essaouira_-_fishing_port_1989_04.jpg | CC BY-SA 4.0 | JopkeB
+highlights/essaouira-4.jpg | https://commons.wikimedia.org/wiki/File:La_plage_d%27Essaouira.jpg | CC BY-SA 4.0 | Amal Lazrek
+highlights/essaouira-5.jpg | https://commons.wikimedia.org/wiki/File:Women%E2%80%99s_argan_cooperatives.jpeg | CC BY-SA 2.0 | Dan Lundberg
+cities/merzouga.jpg | https://commons.wikimedia.org/wiki/File:The_desert%27s_ships_3_-_Merzouga_Morocco_-_by_Brahim_FARAJI.jpg | CC BY-SA 4.0 | Farajiibrahim
+highlights/merzouga-1.jpg | https://commons.wikimedia.org/wiki/File:Camel_Tour_on_Erg_Chebbi_riding_across_the_dunes.jpg | CC BY-SA 3.0 | Johannes K Becker
+highlights/merzouga-3.jpg | https://commons.wikimedia.org/wiki/File:Erg_Chebbi_sunset.jpg | CC BY-SA 4.0 | Thomas Fuhrmann
+highlights/merzouga-5.jpg | https://commons.wikimedia.org/wiki/File:Rissani_City_Gate_2011.jpg | CC BY-SA 3.0 | Bjørn Christian Tørrissen
+cities/fez.jpg | https://commons.wikimedia.org/wiki/File:Stucco_decoration,_Bou_Inania_Madrasa,_Fez,_Marocco_(%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D8%A8%D9%88%D8%B9%D9%86%D8%A7%D9%86%D9%8A%D8%A9,_%E2%B4%B0%E2%B5%99%E2%B5%89%E2%B5%8F%E2%B4%B0%E2%B5%8F_%E2%B4%B1%E2%B5%93_%E2%B5%89%E2%B5%8F%E2%B4%B0%E2%B5%8F%E2%B5%89%E2%B5%A2%E2%B4%B0).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/fez-1.jpg | https://commons.wikimedia.org/wiki/File:Minaret_of_the_Zawiya_of_Moulay_Idris_II_shrine,_F%C3%A8s_El_Bali,_Morocco_2005.jpg | CC BY 2.5 | Patrick Morin
+highlights/fez-2.jpg | https://commons.wikimedia.org/wiki/File:Chouara_Tannery_-_154_-_Marokko_Handybilder_2018_-_Fes_(27347707917).jpg | CC BY-SA 2.0 | Uwe Brodrecht
+highlights/fez-3.jpg | https://commons.wikimedia.org/wiki/File:Fez_Universit%C3%A9_Al_Quaraouiyine_(54250246168).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/fez-4.jpg | https://commons.wikimedia.org/wiki/File:Bou_Inania_Madrasa_2011.jpg | CC BY-SA 3.0 | Bjørn Christian Tørrissen
+highlights/fez-5.jpg | https://commons.wikimedia.org/wiki/File:Bab_Bou_Jeloud_(Fes,_Marocco).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/fez-6.jpg | https://commons.wikimedia.org/wiki/File:Al-Attarine_Madrasa_DSCF3541_(R_Prazeres).jpg | CC BY-SA 4.0 | Robert Prazeres
+highlights/fez-8.jpg | https://commons.wikimedia.org/wiki/File:Volubilis_1990.jpg | CC BY-SA 4.0 | Chrisi1964
+cities/chefchaouen.jpg | https://commons.wikimedia.org/wiki/File:Place-el-haouta-fountain-chefchaouen-morocco.jpg | CC BY-SA 4.0 | Badr Rachadi
+highlights/chefchaouen-2.jpg | https://commons.wikimedia.org/wiki/File:Kasbah-de-chefchaouen-in-chefchaouen-morocco.jpg | CC BY-SA 4.0 | Badr Rachadi
+highlights/chefchaouen-3.jpg | https://commons.wikimedia.org/wiki/File:Spanish_Mosque_in_Chefchaouen_(52187858062).jpg | CC BY-SA 2.0 | William John Gauthier from Denmark
+highlights/chefchaouen-5.jpg | https://commons.wikimedia.org/wiki/File:Akchour_waterfall.jpg | CC BY-SA 4.0 | Itachoo1
+cities/tangier.jpg | https://commons.wikimedia.org/wiki/File:Tangier_-_44699733295.jpg | CC BY 2.0 | Mike McBey
+highlights/tangier-1.jpg | https://commons.wikimedia.org/wiki/File:Kasbah_Museum_(39014311340).jpg | CC BY 2.0 | Travel4Brews
+highlights/tangier-2.jpg | https://commons.wikimedia.org/wiki/File:Grand_Socco_Tangier.jpg | CC BY-SA 2.0 | Chris Yunker
+highlights/tangier-3.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Hafa,_Tangier_(48169).jpg | CC BY-SA 4.0 | Ideophagous
+highlights/tangier-4.jpg | https://commons.wikimedia.org/wiki/File:American_Legation_Tangier_3.jpg | CC BY 2.0 | Susan
+highlights/tangier-5.jpg | https://commons.wikimedia.org/wiki/File:Cuevas_de_H%C3%A9rcules,_Cabo_Espartel,_Marruecos,_2015-12-11,_DD_22-24_HDR.JPG | CC BY-SA 4.0 | Diego Delso
+cities/rabat.jpg | https://commons.wikimedia.org/wiki/File:Honor_guard_at_Mausoleum_of_Mohammed_V,_Rabat,_Morocco.jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/rabat-1.jpg | https://commons.wikimedia.org/wiki/File:Hassan_Tower.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/rabat-2.jpg | https://commons.wikimedia.org/wiki/File:Walls_of_Kasbah_of_Udayas_and_new_Mohammed_VI_Tower_(2024).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/rabat-3.jpg | https://commons.wikimedia.org/wiki/File:Roman_Ruins_Zawiya_Chellah_Rabat_Nov25_A7CR_08989.jpg | CC BY-SA 4.0 | This Photo was taken by Timothy A. Gonsalves.  Feel free to
+highlights/rabat-5.jpg | https://commons.wikimedia.org/wiki/File:Rabat_Mohammed_VI_Museum.jpg | CC BY-SA 4.0 | Boubloub
+cities/casablanca.jpg | https://commons.wikimedia.org/wiki/File:Casablanca,_Morocco_at_night,_November_2023_-_Tramway.jpg | CC BY 2.0 | Sharon Hahn Darlin
+highlights/casablanca-1.jpg | https://commons.wikimedia.org/wiki/File:Sunshine_on_mosque_Hassan_II_in_Casablanca,_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg | CC BY 2.0 | Milamber's portfolio
+highlights/casablanca-2.jpg | https://commons.wikimedia.org/wiki/File:Amazing_Habous_neighbouhood_in_Marruecos.jpg | CC BY-SA 4.0 | Erika Moreno Garibaldi
+highlights/casablanca-3.jpg | https://commons.wikimedia.org/wiki/File:Place_Mohammed_V_-_Casablanca_-_2022.jpg | CC BY-SA 4.0 | Hamza Izourane
+highlights/casablanca-5.jpg | https://commons.wikimedia.org/wiki/File:Central_market_hall,_Budapest.jpg | CC BY-SA 3.0 | András Osvát
+landmarks/landmark-ma.jpg | https://commons.wikimedia.org/wiki/File:Sunshine_on_mosque_Hassan_II_in_Casablanca,_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg | CC BY 2.0 | Milamber's portfolio
+highlights/chefchaouen-1.jpg | https://commons.wikimedia.org/wiki/File:Chefchaouen_Street_-_14103634495.jpg | CC BY-SA 2.0 | Mark Fischer
+highlights/chefchaouen-4.jpg | https://commons.wikimedia.org/wiki/File:Chefchaouen,_Morocco_(5410195002)_(4).jpg | CC BY 2.0 | YoTuT from United States
+highlights/merzouga-4.jpg | https://commons.wikimedia.org/wiki/File:%22Bekannt_wurden_die_Gnawa_durch_ihre_rhythmusbetonte_Musik%22._09.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/rabat-4.jpg | https://www.flickr.com/photos/43896901@N00/14083702802 | BY-SA 2.0 | jfgornet
+highlights/essaouira-3.jpg | https://www.flickr.com/photos/91772175@N00/53217076 | BY 2.0 | fredsharples
+highlights/fez-7.jpg | https://www.flickr.com/photos/45959769@N02/5447898203 | BY 2.0 | Anja Disseldorp
+highlights/casablanca-4.jpg | https://commons.wikimedia.org/wiki/File:Promenade_sur_la_Corniche_Ain_Diab_%C3%A0_Casablanca_-_photo_Bertrand_SOUBEYRAND.jpg | CC BY-SA 4.0 | Bertrand SOUBEYRAND
+highlights/merzouga-2.jpg | https://commons.wikimedia.org/wiki/File:Aiour_Luxury_Camp_(54242710330).jpg | CC BY 2.0 | Jorge Franganillo

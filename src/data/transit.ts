@@ -1228,6 +1228,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     apps: [],
   },
   // —— 2026-10 new countries (operators' and tourist boards' own sites) ——
+  ma: {
+    summary: {
+      ko: '우측통행. 탕헤르–라바트–카사블랑카는 고속열차 알 보라크가, 마라케시·페스까지는 국철(ONCF)이, 그 밖은 CTM·수프라투르 버스가 이어 줍니다.',
+      en: 'Drive on the right. The Al Boraq high-speed train links Tangier, Rabat and Casablanca, ONCF trains run on to Marrakech and Fez, and CTM and Supratours buses cover the rest.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '스페인 타리파에서 탕헤르 시내 항구까지 페리로 약 1시간, 알헤시라스에서 탕헤르 메드 항까지 약 1시간 30분입니다. 사하라(메르주가)는 버스나 투어로 하루 가까이 걸립니다.',
+      en: 'Ferries take about 1 hour from Tarifa to Tangier’s city port and about 1 hr 30 from Algeciras to Tanger Med. The Sahara (Merzouga) is most of a day away by bus or tour.',
+    },
+    paymentTip: {
+      ko: '프티 택시(시내 택시)는 미터기를 켜 달라고 하거나 타기 전에 값을 정하세요. 기차표는 ONCF 웹사이트·앱이나 역에서 삽니다.',
+      en: 'In petits taxis (city taxis), ask for the meter or agree a price first. Buy train tickets on the ONCF website or app, or at the station.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

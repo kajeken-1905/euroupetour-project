@@ -227,6 +227,33 @@ export const STAY: Record<string, StayArea[]> = {
   tenerife: [
     a('라 라구나', 'La Laguna', 'San Cristóbal de La Laguna', '처음 가는 여행에 추천|Best for a first visit', '구시가와 트램이 있고 북부 공항이 가깝습니다. 해변 휴가는 남부 해안이 편합니다.|The old town and tram, close to the north airport; for a beach holiday the south coast is easier.'),
   ],
+  marrakech: [
+    a('메디나의 리야드', 'Riads in the medina', 'Medina Marrakech', '처음 가는 여행에 추천|Best for a first visit', '안뜰이 있는 전통 가옥 숙소로, 광장과 수크가 걸어서 닿습니다. 차가 못 들어가는 골목이 많아 짐을 옮겨 줄 사람을 미리 부탁하세요.|Traditional courtyard houses within walking distance of the square and souks; cars can’t reach many lanes, so ask the riad to meet you.'),
+    a('게리즈', 'Guéliz', 'Gueliz Marrakech', '편하게 머물기|For comfort', '신시가지로, 역과 마조렐 정원이 가깝고 호텔과 카페가 많습니다.|The new town, near the station and Jardin Majorelle, with hotels and cafés.'),
+  ],
+  essaouira: [
+    a('메디나', 'Medina', 'Medina Essaouira', '처음 가는 여행에 추천|Best for a first visit', '성벽과 항구가 걸어서 닿습니다.|The ramparts and port on foot.'),
+  ],
+  merzouga: [
+    a('사막 캠프', 'Desert camp', 'Erg Chebbi', '처음 가는 여행에 추천|Best for a first visit', '모래언덕 사이 텐트 숙소로, 낙타 트레킹과 저녁·아침이 함께인 경우가 많습니다.|Tented camps among the dunes, usually with the camel trek, dinner and breakfast included.'),
+    a('메르주가 마을', 'Merzouga village', 'Merzouga', '편하게 머물기|For comfort', '모래언덕 바로 앞 호텔(오베르주)에서 묵고 낮에 사막을 다녀옵니다.|Stay in an auberge at the foot of the dunes and visit the desert by day.'),
+  ],
+  fez: [
+    a('페스 엘 발리의 리야드', 'Riads in Fes el-Bali', 'Fes el Bali', '처음 가는 여행에 추천|Best for a first visit', '메디나 안 전통 가옥 숙소입니다. 길이 복잡해 숙소에서 블루 게이트까지 마중을 부탁하세요.|Traditional houses inside the medina; the lanes are confusing, so ask your riad to meet you at the Blue Gate.'),
+  ],
+  chefchaouen: [
+    a('메디나', 'Medina', 'Chefchaouen medina', '처음 가는 여행에 추천|Best for a first visit', '광장과 골목이 걸어서 닿습니다. 버스터미널은 언덕 아래라 택시를 탑니다.|The square and lanes on foot; the bus station is downhill, so take a taxi.'),
+  ],
+  tangier: [
+    a('메디나와 카스바', 'Medina & Kasbah', 'Kasbah Tangier', '처음 가는 여행에 추천|Best for a first visit', '카스바와 카페가 걸어서 닿고 시내 항구가 가깝습니다.|The kasbah and cafés on foot, near the city ferry port.'),
+    a('신시가지', 'Ville Nouvelle', 'Boulevard Pasteur Tangier', '편하게 머물기|For comfort', '대로를 따라 호텔과 식당이 모여 있고 역은 택시로 약 10분입니다.|Hotels and restaurants along the boulevards, about 10 min by taxi to the station.'),
+  ],
+  rabat: [
+    a('메디나 주변과 아그달', 'Around the medina & Agdal', 'Medina Rabat', '처음 가는 여행에 추천|Best for a first visit', '카스바와 메디나가 걸어서 닿고 트램이 시내를 잇습니다.|The kasbah and medina on foot, with a tram across town.'),
+  ],
+  casablanca: [
+    a('시내 중심', 'City centre', 'Place Mohammed V Casablanca', '처음 가는 여행에 추천|Best for a first visit', '아르데코 거리와 카사 포르역이 가깝고 트램이 다닙니다.|Near the Art Deco streets and Casa-Port station, on the tram line.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

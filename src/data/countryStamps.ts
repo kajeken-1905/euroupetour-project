@@ -6,6 +6,8 @@ export type StampIcon =
   | { kind: 'svg'; markup: string; width: number; height: number }
 
 export const countryStamps: Record<string, StampIcon> = {
+  // North Africa & Middle East: cut from the user's stamp sheet (2026-11-08).
+  ma: { kind: 'raster', width: 58, height: 150 },
   ad: { kind: 'raster', width: 210, height: 150 },
   al: { kind: 'raster', width: 148, height: 180 },
   am: { kind: 'raster', width: 194, height: 179 },

@@ -469,6 +469,41 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Tenerife Norte (TFN)', '테네리페 북부 공항 (TFN)'], ['Tenerife Sur (TFS)', '테네리페 남부 공항 (TFS)']],
     port: [['Puerto de Santa Cruz de Tenerife', '산타 크루스 항구', '다른 카나리아 섬행 페리|ferries to the other Canary Islands']],
   },
+  marrakech: {
+    air: [['Marrakech Menara (RAK)', '마라케시 메나라 공항 (RAK)']],
+    rail: [['Marrakech', '마라케시역 (ONCF)']],
+    bus: [['Gare routière CTM / Supratours', 'CTM·수프라투르 버스터미널', '역 옆|by the station']],
+  },
+  essaouira: {
+    air: [['Essaouira-Mogador (ESU)', '에사우이라 공항 (ESU)'], ['Marrakech Menara (RAK)', '마라케시 공항 (RAK)', '마라케시|Marrakech']],
+    bus: [['Supratours Essaouira', '수프라투르 터미널', '마라케시행|to Marrakech']],
+  },
+  merzouga: {
+    air: [['Errachidia Moulay Ali Cherif (ERH)', '에라시디아 공항 (ERH)'], ['Marrakech Menara (RAK)', '마라케시 공항 (RAK)', '마라케시|Marrakech'], ['Fès–Saïss (FEZ)', '페스 공항 (FEZ)', '페스|Fez']],
+    bus: [['Supratours Merzouga', '수프라투르 정류장', '마라케시·페스행 야간버스|night buses to Marrakech and Fez']],
+  },
+  fez: {
+    air: [['Fès–Saïss (FEZ)', '페스 사이스 공항 (FEZ)']],
+    rail: [['Fès', '페스역 (ONCF)']],
+    bus: [['Gare routière CTM Fès', 'CTM 버스터미널']],
+  },
+  chefchaouen: {
+    air: [['Tangier Ibn Battouta (TNG)', '탕헤르 공항 (TNG)', '탕헤르|Tangier'], ['Fès–Saïss (FEZ)', '페스 공항 (FEZ)', '페스|Fez']],
+    bus: [['Gare routière CTM Chefchaouen', 'CTM 버스터미널']],
+  },
+  tangier: {
+    air: [['Tangier Ibn Battouta (TNG)', '탕헤르 이븐 바투타 공항 (TNG)']],
+    rail: [['Tanger Ville', '탕헤르 빌역', '고속열차 알 보라크|Al Boraq high-speed']],
+    port: [['Tanger Ville port', '탕헤르 시내 항구', '스페인 타리파행 페리|ferries to Tarifa, Spain'], ['Tanger Med', '탕헤르 메드 항', '알헤시라스행 페리 · 시내에서 약 45km|ferries to Algeciras, about 45 km from the city']],
+  },
+  rabat: {
+    air: [['Rabat–Salé (RBA)', '라바트 살레 공항 (RBA)'], ['Casablanca Mohammed V (CMN)', '카사블랑카 공항 (CMN)', '카사블랑카|Casablanca']],
+    rail: [['Rabat Ville', '라바트 빌역'], ['Rabat Agdal', '라바트 아그달역', '고속열차 알 보라크|Al Boraq high-speed']],
+  },
+  casablanca: {
+    air: [['Casablanca Mohammed V (CMN)', '카사블랑카 모하메드 5세 공항 (CMN)', '시내까지 기차로 약 35분|about 35 min to the city by train']],
+    rail: [['Casa-Voyageurs', '카사블랑카 보야죄르역', '고속열차·마라케시행|high-speed and to Marrakech'], ['Casa-Port', '카사블랑카 포르역']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

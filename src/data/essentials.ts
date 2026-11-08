@@ -890,6 +890,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     telecom: T('주요 통신사는 A1, MTS, life:)입니다. 한국 통신사 로밍 요금과 가능 여부를 출발 전에 확인하세요.', 'Main operators: A1, MTS and life:). Check roaming availability and rates with your carrier before you go.'),
   },
   // No Korean mission in the north; the Republic of Cyprus is covered from Athens.
+  ma: {
+    // Korean Foreign Ministry travel-safety page for Morocco (0404.go.kr/ntnSafetyInfo/60/detail), 2026-11.
+    emergency: [num('19', '경찰', 'Police'), num('15', '구급·소방', 'Ambulance and fire'), num('177', '지방 경찰(도시 밖)', 'Rural police (outside cities)')],
+    embassy: {
+      name: T('주모로코 대한민국 대사관', 'Korean Embassy in Morocco'),
+      address: '41 Avenue Mehdi Ben Barka, Souissi, Rabat',
+      phone: '+212-5-3775-1767',
+      note: T('근무 시간 밖 긴급 상황은 영사콜센터(+82-2-3210-0404, 24시간)로 연락하세요.', 'Out of hours, call the consular call centre (+82-2-3210-0404, 24 hours).'),
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/60/detail',
+    },
+    power: T('220V · 50Hz, C·E형 콘센트. 한국 플러그를 대부분 그대로 꽂을 수 있습니다.', '220V, 50Hz, type C/E sockets. Korean plugs usually fit.'),
+    tipping: T('식당에선 5~10% 정도, 짐을 들어 주거나 길을 안내해 준 사람에겐 몇 디르함을 주는 것이 관례입니다.', 'Around 5–10% in restaurants, and a few dirhams for porters or guides, is customary.'),
+    water: WATER_BOTTLED,
+    shops: T('수크(시장)에선 값을 흥정합니다. 디르함은 나라 밖으로 가져가거나 들여오기 어려운 통화라 현지에서 바꾸고, 환전 영수증을 보관해야 출국 때 남은 돈을 다시 바꿀 수 있습니다. 10만 디르함이 넘는 돈을 들여올 때는 세관에 신고합니다.', 'Bargain in the souks. The dirham can’t be freely taken in or out, so change money locally and keep the receipt—you need it to change leftovers back on departure. Declare amounts over 100,000 dirhams at customs.'),
+    toilets: TOILETS_MIXED,
+    time: T('UTC+1로 한국보다 8시간 늦습니다. 라마단 기간에는 한시적으로 9시간 늦어집니다.', 'UTC+1, 8 hours behind Korea; during Ramadan it temporarily becomes 9 hours behind.'),
+    safety: T('외교부 여행경보는 서사하라를 뺀 전역이 1단계(여행유의)입니다. 서사하라는 모래 방어벽 서쪽 2단계, 동쪽 3단계입니다. 메디나에서 길을 안내해 주겠다며 돈을 요구하는 사람이 많으니 정중히 거절하세요.', 'Korean travel alert: level 1 (exercise caution) everywhere except Western Sahara (level 2 west of the sand berm, level 3 east of it). In the medinas, unofficial guides often ask for money—decline politely.'),
+    entry: T('한국과 사증 면제 협정이 있어 관광·단기 체류는 90일까지 비자 없이 입국할 수 있습니다(외교부). 90일을 넘게 머물려면 주한 모로코 대사관에서 미리 비자를 받아야 합니다.', 'Under a visa-waiver agreement, Korean passports can stay up to 90 days visa-free (Korean Foreign Ministry). Longer stays need a visa from the Moroccan Embassy in Korea beforehand.'),
+    telecom: T('주요 통신사는 Maroc Telecom·Orange·inwi입니다. 유럽 로밍 요금제에 포함되지 않는 경우가 많아 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Maroc Telecom, Orange and inwi. European roaming bundles rarely include Morocco, so a local SIM from the airport is usually cheaper.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

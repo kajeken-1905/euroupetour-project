@@ -3308,6 +3308,22 @@
 "ko": "캔턴의 카페 겸 로스터리. 브런치를 냅니다.",
 "ok": 1
 },
+"casablanca-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"casablanca-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"casablanca-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"casablanca-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "cascais-bakery-1": {
 "del": "Panisol: no source places it at Rua Frederico Arouca 23"
 },
@@ -3560,6 +3576,18 @@
 },
 "chartres-fine_dining-2": {
 "del": 1
+},
+"chefchaouen-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"chefchaouen-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"chefchaouen-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "chester-bakery-1": {
 "ok": 1,
@@ -4947,6 +4975,18 @@
 "ok": 1,
 "src": "2026-11-08 google maps / michelin 2026"
 },
+"essaouira-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"essaouira-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"essaouira-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "etretat-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps"
@@ -5094,6 +5134,18 @@
 "ferrara-fine_dining-3": {
 "addr": "Piazza Castello 10, 44121 Ferrara",
 "ok": 1
+},
+"fez-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"fez-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"fez-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "flam-cafe-1": {
 "ok": 1,
@@ -9965,6 +10017,30 @@
 "name": "Baščaršija",
 "ok": 1
 },
+"marrakech-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"marrakech-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"marrakech-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"marrakech-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"marrakech-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"marrakech-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "marseille-bakery-1": {
 "en": "Marseille’s oldest bakery (1781), baking only navette biscuits in its 18th-century vaulted oven, blessed each Candlemas by the archbishop.",
 "ko": "1781년에 문을 연 마르세유에서 가장 오래된 빵집. 18세기 아치형 화덕에서 나베트 과자만 굽고, 매년 성촉절엔 대주교가 화덕을 축복합니다.",
@@ -10259,6 +10335,14 @@
 "merida-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-08 google maps / michelin 2026"
+},
+"merzouga-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"merzouga-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "meteora-bakery-1": {
 "ok": 1,
@@ -13156,6 +13240,22 @@
 "ok": 1,
 "src": "2026-11-08 google maps / michelin 2026"
 },
+"rabat-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"rabat-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"rabat-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"rabat-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "ragusa-bakery-1": {
 "ok": 1,
 "src": "2026-11-07 google maps / michelin 2026"
@@ -15877,6 +15977,22 @@
 "en": "Korean restaurant on Hämeenkatu.",
 "ko": "하메엔카투의 한식당.",
 "ok": 1
+},
+"tangier-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tangier-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tangier-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"tangier-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "taormina-bakery-1": {
 "ok": 1

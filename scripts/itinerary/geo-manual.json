@@ -7517,5 +7517,235 @@
     40.3217,
     -7.6114,
     "manual 2026-11-08: Torre, Serra da Estrela"
+  ],
+  "marrakech-h1": [
+    31.62578,
+    -7.9889,
+    "OSM Nominatim: piazza Jemaa El Fnaa , Café de France, Jamaâ el-Fna ساحة جام (Wikipedia 51m)"
+  ],
+  "marrakech-h2": [
+    31.62375,
+    -7.99336,
+    "OSM Nominatim: Mosquée de la Koutoubia جامع الكتبية, Rue Koutoubia, Mechoua (Wikipedia 45m)"
+  ],
+  "marrakech-h3": [
+    31.62163,
+    -7.98194,
+    "OSM Nominatim: Palais Bahia قصر الباهية, 5, Rue Riad Zitoun El Jedid, Souks (Wikipedia 28m)"
+  ],
+  "marrakech-h4": [
+    31.64147,
+    -8.00291,
+    "OSM Nominatim: Jardin Majorelle حديقة ماجوريل, Rue Yves Saint Laurent, Guél (Wikipedia 146m)"
+  ],
+  "marrakech-h5": [
+    31.63198,
+    -7.98604,
+    "OSM Nominatim: Medersa Ben Youssef, Rue du Souk des Fassis, Mouassine, Medi (Wikipedia 16m)"
+  ],
+  "marrakech-h6": [
+    31.62792,
+    -7.98809,
+    "OSM Nominatim: Souk Semmarine, Souks, Medina ⵎⴷⵉⵏⴰ المدينة, Arrondissement "
+  ],
+  "marrakech-h7": [
+    31.61726,
+    -7.98855,
+    "OSM Nominatim: Tombeaux Saadiens ضريح السعديين, Rue de la Kasbah, Zone Tour (Wikipedia 15m)"
+  ],
+  "marrakech-h8": [
+    31.19641,
+    -7.78006,
+    "OSM Nominatim: Ourika Valley, Timmgouist ⵜⵉⵎⴳⴳⵯⵉⵙⵜ تمكست, Anemiter ⴰⵏⵎⵉⵜⵔ أ"
+  ],
+  "essaouira-h1": [
+    31.5142,
+    -9.7724,
+    "OSM Nominatim: Skala De La Ville, Rue Ibn Rochd زنقة أبن رشد, Medina المدين"
+  ],
+  "essaouira-h3": [
+    31.51328,
+    -9.76882,
+    "OSM Nominatim: مدينة الصويرة (قديمًا موغادور), Essaouira Ville Nouvelle, Di"
+  ],
+  "essaouira-h4": [
+    31.49926,
+    -9.76416,
+    "OSM Nominatim: Plage d'Essaouira, Essaouira Ville Nouvelle, Diabat ⴷⵢⴰⴱⴰⵜ ا"
+  ],
+  "essaouira-h5": [
+    31.36068,
+    -9.79359,
+    "OSM Nominatim: cooperative d'Argan Dar  hafida and family, RR211, Sidi Kaou"
+  ],
+  "merzouga-h1": [
+    31.13824,
+    -3.97078,
+    "OSM Nominatim: Erg Chebbi ⵉⴷⵀⴰⵏ ⵛⴱⴱⵉ عرق الشبي, Cercle d'Er-Rissani, Provin"
+  ],
+  "merzouga-h3": [
+    31.13824,
+    -3.97078,
+    "OSM Nominatim: Erg Chebbi ⵉⴷⵀⴰⵏ ⵛⴱⴱⵉ عرق الشبي, Cercle d'Er-Rissani, Provin"
+  ],
+  "merzouga-h4": [
+    31.01251,
+    -3.9956,
+    "OSM Nominatim: Bivouac Merzouga Experience, RR702, Khamlia ⵅⵎⵍⵢⵢⴰ خملية, Et"
+  ],
+  "merzouga-h5": [
+    31.26189,
+    -3.95931,
+    "OSM Nominatim: Er-Rissani الريصاني, caïdat d'Er-Rissani, Cercle d'Er-Rissan"
+  ],
+  "fez-h1": [
+    34.06069,
+    -4.98011,
+    "OSM Nominatim: Riad Fes Iline, Rue Douh زنقة الدوح, Sidi Ahmed Chaoui, Fès-"
+  ],
+  "fez-h2": [
+    34.06592,
+    -4.97099,
+    "OSM Nominatim: Quartier des tanneurs Chouara, Fès-Médina ⴼⴰⵙ-ⵎⴷⵉⵏⴰ فاس-المد (Wikipedia 19m)"
+  ],
+  "fez-h3": [
+    34.06482,
+    -4.9733,
+    "OSM Nominatim: Mosquée al-Quaraouiyine جامعة القرويين, Rue Ben Hayoun, R'mi (Wikipedia 42m)"
+  ],
+  "fez-h4": [
+    34.06225,
+    -4.98269,
+    "OSM Nominatim: Médersa Bou Inania المدرسة البوعنانية, Rue Talâa Saghira, Si (Wikipedia 35m)"
+  ],
+  "fez-h5": [
+    34.0617,
+    -4.98402,
+    "OSM Nominatim: باب بوجلود, Bab Boujloud باب بوجلود, Fès-Médina ⴼⴰⵙ-ⵎⴷⵉⵏⴰ فا (Wikipedia 13m)"
+  ],
+  "fez-h6": [
+    34.06513,
+    -4.97356,
+    "OSM Nominatim: Madrasa al-Attarine مدرسة العطارين, Boutouil, R'mila, Fès-Mé (Wikipedia 13m)"
+  ],
+  "fez-h7": [
+    34.0553,
+    -4.99393,
+    "OSM Nominatim: Palais Royal القصر الملكي, Avenue Derb Moulay Abdellah, Moul"
+  ],
+  "fez-h8": [
+    34.07347,
+    -5.55537,
+    "OSM Nominatim: Volubilis وليلي ⵡⴰⵍⵉⵍⵉ, Oualili ⵡⴰⵍⵉⵍⵉ وليلي, caïdat d'Ouali (Wikipedia 308m)"
+  ],
+  "chefchaouen-h1": [
+    35.16937,
+    -5.26127,
+    "OSM Nominatim: Médina, Onsar, Chefchaouen ⴰⵛⵛⴰⵡⵏ شفشاون, Province de Chefch"
+  ],
+  "chefchaouen-h2": [
+    35.16862,
+    -5.2618,
+    "OSM Nominatim: Kasbah, Place Outa Hamam ساحة اوطا حمام, Souika, Chefchaouen"
+  ],
+  "chefchaouen-h3": [
+    35.16553,
+    -5.25563,
+    "OSM Nominatim: Mosquée Jemma Bouzafar, Avenue Tareq Rass El Maa شارع طريق ر"
+  ],
+  "chefchaouen-h4": [
+    35.16316,
+    -5.2672,
+    "OSM Nominatim: Ras el Maa, Souika, Chefchaouen ⴰⵛⵛⴰⵡⵏ شفشاون, Province de C"
+  ],
+  "chefchaouen-h5": [
+    35.24264,
+    -5.18186,
+    "OSM Nominatim: Akchour أقشور, Talambote تلمبوط, Caïdat de Talambote قيادة ت"
+  ],
+  "tangier-h1": [
+    35.78833,
+    -5.81254,
+    "OSM Nominatim: Musée des cultures méditerranéennes, Rue Ben Abou, Kasbah, a"
+  ],
+  "tangier-h2": [
+    35.7843,
+    -5.81309,
+    "OSM Nominatim: Place du Grand 9 Avril 1947, Oued Aherdan, arrondissement de"
+  ],
+  "tangier-h3": [
+    35.79007,
+    -5.82139,
+    "OSM Nominatim: Café Hafa, Avenue Hadj Mohamed Tazi, Parque del Marxán, arro (Wikipedia 163m)"
+  ],
+  "tangier-h4": [
+    35.78386,
+    -5.81088,
+    "OSM Nominatim: Tangier American Legation Institute, 8, Zankat Amreeka, Bni "
+  ],
+  "rabat-h1": [
+    34.02415,
+    -6.8228,
+    "OSM Nominatim: Tour Hassan صومعة حسان, Avenue Mohamed Al Yazidi شارع محمد ا (Wikipedia 3m)"
+  ],
+  "rabat-h2": [
+    34.03166,
+    -6.83585,
+    "OSM Nominatim: Kasbah des Oudayas ⵇⴰⵙⴱⴰⵜ ⵍⵡⴷⴰⵢⴰ قصبة الوداية, Rabat ⵔⴱⴰⵟ ال (Wikipedia 125m)"
+  ],
+  "rabat-h3": [
+    34.00637,
+    -6.82078,
+    "OSM Nominatim: Chellah, Deuxième Rocade, Youssoufia ⵢⵓⵙⵙⵓⴼⵉⵢⴰ اليوسفية, Arr (Wikipedia 57m)"
+  ],
+  "rabat-h4": [
+    34.02591,
+    -6.83677,
+    "OSM Nominatim: Médina ⵍⵎⴷⵉⵏⴰ المدينة, Arrondissement Hassan مقاطعة حسان, RA"
+  ],
+  "rabat-h5": [
+    34.01523,
+    -6.83288,
+    "OSM Nominatim: متحف محمد السادس للفن الحديث والمعاصر, 2, Rue Tissa زنقة تيس (Wikipedia 11m)"
+  ],
+  "casablanca-h1": [
+    33.60822,
+    -7.63247,
+    "OSM Nominatim: Mosquée Hassan II مسجد الحسن الثاني, Boulevard Sidi Mohammed (Wikipedia 37m)"
+  ],
+  "casablanca-h2": [
+    33.57746,
+    -7.60639,
+    "OSM Nominatim: Habous ⵍⵃⵓⴱⵓⵙ الحبوس, Méchouar de Casablanca ⵍⵎⵉⵛⵡⴰⵔ ⵏ ⵜⴳⵎⵉ "
+  ],
+  "casablanca-h3": [
+    33.59164,
+    -7.61984,
+    "OSM Nominatim: Place Mohammed V ساحة محمد الخامس, Centre-Ville وسط المدينة, (Wikipedia 116m)"
+  ],
+  "casablanca-h5": [
+    33.59488,
+    -7.612,
+    "OSM Nominatim: Marché central, Boulevard Mohammed V شارع محمد الخامس, Centr"
+  ],
+  "essaouira-h2": [
+    31.5126,
+    -9.774,
+    "manual 2026-11-08: Port of Essaouira"
+  ],
+  "merzouga-h2": [
+    31.14,
+    -3.98,
+    "manual 2026-11-08: Erg Chebbi camps"
+  ],
+  "tangier-h5": [
+    35.7597,
+    -5.939,
+    "manual 2026-11-08: Caves of Hercules"
+  ],
+  "casablanca-h4": [
+    33.5948,
+    -7.67,
+    "manual 2026-11-08: Corniche Ain Diab"
   ]
 }

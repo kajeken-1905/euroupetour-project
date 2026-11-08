@@ -1714,6 +1714,42 @@ export const countries: Country[] = [
     },
     cityIds: ['north-nicosia', 'kyrenia', 'famagusta'],
   },
+  // —— 북아프리카·중동 ——
+  {
+    id: 'ma',
+    region: 'mena',
+    name: { ko: '모로코', en: 'Morocco' },
+    nativeName: 'المغرب · ⵍⵎⵖⵔⵉⴱ · Maroc',
+    flagImage: '/flags/ma.svg',
+    landmarkImage: '/landmarks/landmark-ma.jpg',
+    flag: '🇲🇦',
+    blurb: {
+      ko: '지브롤터 해협 건너 아프리카의 첫 나라. 미로 같은 메디나와 사하라 사막, 대서양 항구가 스페인 여행과 배로 이어집니다.',
+      en: 'Africa’s first country across the Strait of Gibraltar—maze-like medinas, the Sahara and Atlantic ports, a ferry ride from Spain.',
+    },
+    facts: {
+      population: { ko: '약 3,690만 명 (2024년 인구조사)', en: 'Approx. 36.9 million (2024 census)' },
+      area: { ko: '약 44만 6,550 km² (서사하라 제외)', en: 'Approx. 446,550 km² (excluding Western Sahara)' },
+      capital: { ko: '라바트 (Rabat)', en: 'Rabat' },
+      currency: { ko: '모로코 디르함 (MAD, DH)', en: 'Moroccan dirham (MAD, DH)' },
+    },
+    currencyCode: 'MAD',
+    currencySymbol: 'DH',
+    schengen: false,
+    flagColors: {
+      primary: '#C1272D',
+      secondary: '#006233',
+      accent: '#C1272D',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['marrakech', 'essaouira', 'merzouga', 'fez', 'chefchaouen', 'tangier', 'rabat', 'casablanca'],
+    cityGroups: [
+      { title: { ko: '마라케시와 남부', en: 'Marrakech & the south' }, cityIds: ['marrakech', 'essaouira', 'merzouga'] },
+      { title: { ko: '북부', en: 'Northern Morocco' }, cityIds: ['fez', 'chefchaouen', 'tangier'] },
+      { title: { ko: '대서양 연안', en: 'Atlantic coast' }, cityIds: ['rabat', 'casablanca'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {
