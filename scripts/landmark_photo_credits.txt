@@ -3178,3 +3178,25 @@ highlights/al-ain-5.jpg | https://commons.wikimedia.org/wiki/File:Jebel_Hafeet_M
 landmarks/landmark-ae.jpg | https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Night_View_03.jpg | CC BY 2.0 | Sergei Gussev
 highlights/al-ain-3.jpg | https://commons.wikimedia.org/wiki/File:Al_Ain_Palace_Museum.jpg | CC BY-SA 4.0 | Jpbowen
 places/doha-fine_dining-8.jpg | own photo | own photo | 사용자 촬영
+cities/riyadh.jpg | https://commons.wikimedia.org/wiki/File:Riyadh-Skyline.jpg | CC BY-SA 3.0 | Ammar Shaker
+cities/jeddah.jpg | https://commons.wikimedia.org/wiki/File:Bait_Al_Balad,_Jeddah_3.jpg | CC BY-SA 4.0 | Tahir mq
+cities/alula.jpg | https://commons.wikimedia.org/wiki/File:AlUla;_A_Blend_of_History,_Landscape,_and_Nature_(2025)-4.jpg | CC BY-SA 4.0 | Saudi Press Agency (SPA)
+highlights/riyadh-1.jpg | https://commons.wikimedia.org/wiki/File:Masmak_Fortress_(6329473680).jpg | CC BY 2.0 | Sammy Six
+highlights/riyadh-2.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Saudi_Arabia_03_b.jpg | CC0 | Gryffindor
+highlights/riyadh-3.jpg | https://commons.wikimedia.org/wiki/File:Murabba_Palace_(1).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/riyadh-5.jpg | https://commons.wikimedia.org/wiki/File:Kingdom_Centre,_Riyadh_(6129688934).jpg | CC BY-SA 2.0 | Wajahat Mahmood from Perth, Australia
+highlights/riyadh-6.jpg | https://commons.wikimedia.org/wiki/File:At-Turaif_District_in_ad-Dir%27iyah_(12).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/jeddah-1.jpg | https://commons.wikimedia.org/wiki/File:Historic_Jeddah_10.jpg | CC BY-SA 4.0 | Tahir mq
+highlights/jeddah-2.jpg | https://commons.wikimedia.org/wiki/File:Naseef_House,_Old_Jeddah_8.jpg | CC BY-SA 4.0 | Tahir mq
+highlights/jeddah-4.jpg | https://commons.wikimedia.org/wiki/File:King_Fahd%E2%80%99s_Fountain_2025.jpg | CC0 | ほっきー
+highlights/jeddah-5.jpg | https://commons.wikimedia.org/wiki/File:Jeddah_Corniche_34.jpg | CC BY-SA 4.0 | Tahir mq
+highlights/jeddah-6.jpg | https://commons.wikimedia.org/wiki/File:Masjid_Al_Rahmah_1.jpg | CC BY-SA 4.0 | Tahir mq
+highlights/alula-1.jpg | https://commons.wikimedia.org/wiki/File:Mada%27in_Saleh_2017.jpg | CC BY-SA 4.0 | Ahmad AlHasanat
+highlights/alula-2.jpg | https://commons.wikimedia.org/wiki/File:Elephant_Rock_2020.jpg | CC BY 2.0 | Richard Mortel
+highlights/alula-3.jpg | https://commons.wikimedia.org/wiki/File:Al_Ula_old_town,_Saudi_Arabia_2011.jpg | CC BY-SA 3.0 | Pteropus conspicillatus
+highlights/alula-4.jpg | https://commons.wikimedia.org/wiki/File:Maraya_Concert_Hall_20260130_5.jpg | CC BY 4.0 | Z thomas
+highlights/alula-5.jpg | https://commons.wikimedia.org/wiki/File:Ancient_site_of_Dadan_at_al-Ula,_1st_millenium_BCE,_Saudi_Arabia_44.jpg | CC BY 2.0 | Richard Mortel
+highlights/riyadh-4.jpg | https://commons.wikimedia.org/wiki/File:Souq_Ushaiger_Riyadh_2024.jpg | CC BY 4.0 | Hamza A. Durrani
+highlights/jeddah-3.jpg | https://www.flickr.com/photos/43714545@N06/50703470911 | BY 2.0 | Prof. Mortel
+highlights/riyadh-7.jpg | https://commons.wikimedia.org/wiki/File:Edge_of_the_world_(6524166121).jpg | CC BY 2.0 | Sammy Six
+landmarks/landmark-sa.jpg | https://commons.wikimedia.org/wiki/File:The_Kaaba_during_Hajj_-_edited.jpg | CC BY-SA 4.0 | Adli Wahid (minor edits by Basile Morin)

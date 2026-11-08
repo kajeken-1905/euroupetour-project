@@ -1032,6 +1032,27 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 여권은 180일 중 90일까지 비자 없이 들어갈 수 있습니다. 여권은 입·출국일 기준 6개월 이상 남아 있어야 하고, 훼손된 여권으론 입국할 수 없습니다. 6만 디르함 넘는 현금은 세관에 신고합니다. 차를 빌리려면 외교부 2026년 11월 2일 국제운전면허증 유의 공지를 확인하세요.', 'Korean passports are visa-free for 90 days in any 180. Passports must be valid for six months beyond entry and exit, and damaged passports are refused. Declare cash over 60,000 dirhams. If renting a car, read the ministry’s 2 November 2026 notice on international driving permits.'),
     telecom: T('주요 통신사는 e&(옛 Etisalat)·du입니다. 공항에서 관광객용 유심·eSIM을 살 수 있습니다.', 'Main operators: e& (formerly Etisalat) and du; tourist SIMs and eSIMs are sold at the airport.'),
   },
+  sa: {
+    // Korean Foreign Ministry travel-safety page for Saudi Arabia (0404.go.kr/ntnSafetyInfo/107/detail), 2026-11.
+    emergency: [num('999', '경찰 (교통사고)', 'Police (traffic accidents)'), num('997', '구급', 'Ambulance'), num('998', '소방', 'Fire')],
+    embassy: {
+      name: T('주사우디아라비아 대한민국 대사관', 'Korean Embassy in Saudi Arabia'),
+      address: 'Diplomatic Quarter, Riyadh (P.O. Box 94399)',
+      phone: '+966-11-488-2211',
+      afterHours: '+966-50-080-1065',
+      note: T('제다·서부 지역은 주제다 총영사관(+966-12-668-1990, 24시간 +966-55-668-3432)이 맡습니다.', 'Jeddah and the west are covered by the Consulate General in Jeddah (+966-12-668-1990; 24 h +966-55-668-3432).'),
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/107/detail',
+    },
+    power: T('220V, 영국식(G형) 콘센트. 한국 플러그는 맞지 않아 어댑터가 필요합니다.', '220V with British-style (type G) sockets. Korean plugs do not fit; bring an adapter.'),
+    tipping: T('팁은 의무가 아니지만 식당에선 10% 안팎을 두기도 합니다.', 'Tipping is optional; around 10% is common in restaurants.'),
+    water: WATER_BOTTLED,
+    shops: T('리얄은 미국 달러에 고정돼 있고 카드가 거의 어디서나 됩니다. 기도 시간엔 가게가 잠시 문을 닫기도 합니다.', 'The riyal is pegged to the US dollar and cards are accepted almost everywhere; some shops close briefly at prayer times.'),
+    toilets: T('쇼핑몰·박물관·주유소 화장실을 이용합니다.', 'Use toilets in malls, museums and petrol stations.'),
+    time: T('UTC+3, 서머타임 없음. 한국보다 6시간 늦습니다.', 'UTC+3 with no daylight saving: 6 hours behind Korea.'),
+    safety: T('외교부 여행경보: 2026년 10월 11일부터 사우디 전역이 3단계(출국권고)입니다. 11월 8일 중부·동부 지역 공격 관련 안전 공지와, 11월 4일·8일 서부·서남부 공항 이용 주의 공지가 나와 있습니다. 예멘 국경 지역(지잔·아시르·나지란)과 동부 알아흐사·카티프는 피하세요. 술은 전면 금지이고, 공공장소에선 어깨와 무릎을 가립니다.', 'Korean travel alert: level 3 (leave the country) nationwide since 11 October 2026, with a notice on 8 November about attacks in the centre and east and notices on 4 and 8 November about airports in the west and south-west. Avoid the Yemen border regions (Jizan, Asir, Najran) and Al-Ahsa and Qatif in the east. Alcohol is banned outright; cover shoulders and knees in public.'),
+    entry: T('한국 일반 여권은 비자가 필요합니다. 외교부 안내에 따르면 도착 비자(수수료 480리얄, 1년 동안 총 90일 체류)를 받을 수 있고, 전자 비자는 visitsaudi.com에서 안내합니다. 메카와 메디나 성역에는 무슬림만 들어갈 수 있습니다.', 'Ordinary Korean passports need a visa. The Korean ministry says a visa on arrival is issued (SR 480, up to 90 days in total within a year); e-visa details are at visitsaudi.com. Only Muslims may enter Mecca and the holy area of Medina.'),
+    telecom: T('주요 통신사는 STC·Mobily·Zain입니다. 공항에서 관광객용 유심·eSIM을 살 수 있습니다.', 'Main operators: STC, Mobily and Zain; tourist SIMs and eSIMs are sold at the airport.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

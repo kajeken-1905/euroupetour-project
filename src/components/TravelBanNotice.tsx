@@ -132,6 +132,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/135/detail',
   },
+  // 0404.go.kr Saudi Arabia page: level 3 nationwide since 2026-10-11; notices of 2026-11-04 and 11-08.
+  sa: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고', en: 'Korean travel alert · level 3, leave the country' },
+    lines: [
+      {
+        ko: '2026년 10월 11일부터 사우디아라비아 전역이 3단계(출국권고) 지역입니다. 여행 예정이면 취소하거나 미루고, 머무는 중이면 꼭 필요한 일이 아니면 출국하라는 단계입니다.',
+        en: 'All of Saudi Arabia has been at level 3 (leave the country) since 11 October 2026: cancel or postpone planned trips, and leave unless your stay is essential.',
+      },
+      {
+        ko: '외교부는 11월 8일 중부·동부 지역 공격 관련 안전 공지와, 11월 4일·8일 서부·서남부 지역 공항 이용 주의 공지를 냈습니다. 예멘 국경 지역은 미사일 공격이 있어 가지 마세요. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'The ministry issued a notice on 8 November about attacks in the centre and east, and notices on 4 and 8 November about using airports in the west and south-west. Stay away from the Yemen border, which has seen missile attacks. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/107/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

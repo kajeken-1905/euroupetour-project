@@ -25,3 +25,4 @@ Two edits on each file's root <svg>:
 - qa.svg — File:Flag_of_Qatar.svg (public domain), added 2026-11-08
 - il.svg — File:Flag_of_Israel.svg (public domain), added 2026-11-08
 - ae.svg — File:Flag_of_the_United_Arab_Emirates.svg (public domain), added 2026-11-08
+- sa.svg — File:Flag_of_Saudi_Arabia.svg (public domain), added 2026-11-09

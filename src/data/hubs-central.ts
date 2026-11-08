@@ -601,6 +601,17 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Zayed International (AUH)', '자이드 국제공항 (AUH)', '아부다비|Abu Dhabi']],
     bus: [['Al Ain Central Bus Station', '알아인 중앙 버스터미널', '아부다비·두바이행|to Abu Dhabi and Dubai']],
   },
+  riyadh: {
+    air: [['King Khalid International (RUH)', '킹 칼리드 국제공항 (RUH)', '시내까지 차로 약 30~40분|about 30–40 min to the city by car']],
+    rail: [['Riyadh station (SAR)', '리야드역 (SAR)', '담맘·북부선|to Dammam and the north']],
+  },
+  jeddah: {
+    air: [['King Abdulaziz International (JED)', '킹 압둘아지즈 국제공항 (JED)', '시내까지 차로 약 30분|about 30 min to the city by car']],
+    rail: [['Jeddah Al-Sulaimaniyah (Haramain)', '제다 알술라이마니야역 (하라메인 고속철도)', '메디나행|to Medina']],
+  },
+  alula: {
+    air: [['AlUla International (ULH)', '알울라 국제공항 (ULH)', '구시가까지 차로 약 30분|about 30 min to the old town by car']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

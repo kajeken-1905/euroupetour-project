@@ -332,6 +332,15 @@ export const STAY: Record<string, StayArea[]> = {
   'al-ain': [
     a('오아시스 주변 시내', 'Centre near the Oasis', 'Al Ain Oasis', '처음 가는 여행에 추천|Best for a first visit', '오아시스와 궁전 박물관이 걸어서 닿습니다. 아부다비·두바이에서 당일로도 다녀옵니다.|The oasis and palace museum on foot; also a day trip from Abu Dhabi or Dubai.'),
   ],
+  riyadh: [
+    a('올라야', 'Olaya', 'Olaya Riyadh', '처음 가는 여행에 추천|Best for a first visit', '킹덤 센터 주변 상업 지구로 호텔과 식당이 많고 메트로가 다닙니다.|The business district around the Kingdom Centre, with many hotels and restaurants on the Metro.'),
+  ],
+  jeddah: [
+    a('알 하므라·코르니시', 'Al Hamra & the Corniche', 'Al Hamra Jeddah', '처음 가는 여행에 추천|Best for a first visit', '해안 산책로와 분수가 가깝고 알발라드까지 차로 15분 남짓입니다.|Close to the seafront and the fountain, about 15 min by car from Al-Balad.'),
+  ],
+  alula: [
+    a('알울라 구시가 주변', 'Around AlUla Old Town', 'AlUla Old Town', '처음 가는 여행에 추천|Best for a first visit', '구시가와 식당가가 가깝습니다. 사막 리조트도 많습니다.|Near the old town and restaurants; there are many desert resorts too.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

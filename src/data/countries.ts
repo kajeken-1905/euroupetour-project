@@ -1955,6 +1955,40 @@ export const countries: Country[] = [
       { title: { ko: '아부다비', en: 'Abu Dhabi' }, cityIds: ['abu-dhabi', 'al-ain'] },
     ],
   },
+  {
+    id: 'sa',
+    region: 'mena',
+    name: { ko: '사우디아라비아', en: 'Saudi Arabia' },
+    nativeName: 'المملكة العربية السعودية',
+    flagImage: '/flags/sa.svg',
+    landmarkImage: '/landmarks/landmark-sa.jpg',
+    flag: '🇸🇦',
+    blurb: {
+      ko: '아라비아반도 대부분을 차지하는 왕국. 2019년 관광 비자를 열면서 흙벽 도시 디리야와 수도 리야드, 홍해의 옛 항구 제다, 나바테아 무덤 도시 헤그라가 있는 알울라를 둘러볼 수 있게 됐습니다.',
+      en: 'The kingdom covering most of the Arabian Peninsula, opened to tourist visas in 2019—Riyadh and the mud-brick Diriyah, the old Red Sea port of Jeddah, and AlUla with the Nabataean tombs of Hegra.',
+    },
+    facts: {
+      population: { ko: '약 3,500만 명 (2024년)', en: 'Approx. 35 million (2024)' },
+      area: { ko: '약 215만 km²', en: 'Approx. 2.15 million km²' },
+      capital: { ko: '리야드 (Riyadh)', en: 'Riyadh' },
+      currency: { ko: '사우디 리얄 (SAR, SR) · 고정 환율 1달러 ≈ 3.75리얄', en: 'Saudi riyal (SAR, SR), pegged at 3.75 to the US dollar' },
+    },
+    currencyCode: 'SAR',
+    currencySymbol: 'SR',
+    schengen: false,
+    flagColors: {
+      primary: '#006C35',
+      secondary: '#FFFFFF',
+      accent: '#006C35',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['riyadh', 'jeddah', 'alula'],
+    cityGroups: [
+      { title: { ko: '리야드', en: 'Riyadh' }, cityIds: ['riyadh'] },
+      { title: { ko: '홍해 연안과 알울라', en: 'Red Sea coast & AlUla' }, cityIds: ['jeddah', 'alula'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

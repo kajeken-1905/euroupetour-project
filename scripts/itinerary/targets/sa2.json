@@ -1,0 +1,15 @@
+{
+ "riyadh-h1": ["Al Masmak Palace Museum", "Masmak Fort"],
+ "riyadh-h3": ["Al Murabba Palace", "Al Murabba Palace"],
+ "riyadh-h4": ["سوق الزل", "Souq Al-Zal"],
+ "riyadh-h6": ["At-Turaif, Diriyah", "At-Turaif District"],
+ "riyadh-h7": ["Edge of the World, Riyadh Province", "Jebel Fihrayn"],
+ "jeddah-h2": ["Beit Nassif, Jeddah", "Beit Nassif"],
+ "jeddah-h5": ["Corniche Road, Jeddah", "Corniche, Jeddah"],
+ "jeddah-h6": ["Al-Rahma Mosque, Jeddah", "Al Rahma Mosque"],
+ "alula-h1": ["Hegra, Al-'Ula", "Hegra (Saudi Arabia)"],
+ "alula-h2": ["Jabal AlFil, AlUla", "Jabal Al-Fil"],
+ "alula-h3": ["AlUla Old Town, Al-'Ula", "Al-'Ula"],
+ "alula-h4": ["Maraya, Al-'Ula", "Maraya"],
+ "alula-h5": ["Dadan, Al-'Ula", "Dedan (Arabia)"]
+}

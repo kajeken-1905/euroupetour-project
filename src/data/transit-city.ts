@@ -2812,6 +2812,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  riyadh: {
+    modes: ['metro', 'bus', 'rideshare', 'taxi'],
+    howTo: {
+      ko: '리야드 메트로 6개 노선과 호출 앱(Uber·Careem)으로 다닙니다. 도시가 넓어 걷기는 어렵습니다.',
+      en: 'Use the six-line Riyadh Metro and ride-hailing (Uber, Careem); the city is too spread out to walk.',
+    },
+    apps: [
+    ],
+  },
+  jeddah: {
+    modes: ['bus', 'rideshare', 'taxi'],
+    howTo: {
+      ko: '호출 앱(Uber·Careem)이 가장 편합니다. 알발라드 안은 걸어서 다닙니다.',
+      en: 'Ride-hailing (Uber, Careem) is easiest; explore Al-Balad on foot.',
+    },
+    apps: [
+    ],
+  },
+  alula: {
+    modes: ['bus', 'taxi'],
+    howTo: {
+      ko: '명소가 수십 km씩 떨어져 있어 차를 빌리거나 알울라 관광 셔틀·투어를 이용합니다.',
+      en: 'Sights lie tens of kilometres apart—rent a car or use AlUla’s tourist shuttles and tours.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

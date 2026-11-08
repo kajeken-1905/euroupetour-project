@@ -1340,6 +1340,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  sa: {
+    summary: {
+      ko: '우측통행. 리야드엔 2024년 말 개통한 리야드 메트로가 있고, 도시 사이는 국내선이 가장 편합니다. 하라메인 고속철도가 제다와 메디나를 잇습니다.',
+      en: 'Drive on the right. Riyadh has the Riyadh Metro, opened in late 2024; domestic flights are the easiest way between cities, and the Haramain high-speed railway links Jeddah and Medina.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '리야드–제다는 비행기로 약 2시간, 알울라는 리야드·제다에서 국내선으로 갑니다.',
+      en: 'Riyadh to Jeddah is about 2 hrs by air; AlUla is reached on domestic flights from Riyadh and Jeddah.',
+    },
+    paymentTip: {
+      ko: '호출 앱(Uber·Careem)이 널리 쓰입니다. 리야드 메트로는 역 자판기나 앱으로 표를 삽니다.',
+      en: 'Ride-hailing (Uber, Careem) is widely used; buy Riyadh Metro tickets from station machines or the app.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',
