@@ -1959,13 +1959,13 @@ export const countries: Country[] = [
     id: 'sa',
     region: 'mena',
     name: { ko: '사우디아라비아', en: 'Saudi Arabia' },
-    nativeName: 'المملكة العربية السعودية',
+    nativeName: 'السعودية · as-Suʿūdiyya',
     flagImage: '/flags/sa.svg',
     landmarkImage: '/landmarks/landmark-sa.jpg',
     flag: '🇸🇦',
     blurb: {
-      ko: '아라비아반도 대부분을 차지하는 왕국. 2019년 관광 비자를 열면서 흙벽 도시 디리야와 수도 리야드, 홍해의 옛 항구 제다, 나바테아 무덤 도시 헤그라가 있는 알울라를 둘러볼 수 있게 됐습니다.',
-      en: 'The kingdom covering most of the Arabian Peninsula, opened to tourist visas in 2019—Riyadh and the mud-brick Diriyah, the old Red Sea port of Jeddah, and AlUla with the Nabataean tombs of Hegra.',
+      ko: '아라비아반도의 왕국. 흙벽 도시 디리야와 수도 리야드, 홍해의 옛 항구 제다, 나바테아 무덤 도시 헤그라가 있는 알울라가 있습니다.',
+      en: 'The kingdom of the Arabian Peninsula—Riyadh and mud-brick Diriyah, the old Red Sea port of Jeddah, and AlUla with the Nabataean tombs of Hegra.',
     },
     facts: {
       population: { ko: '약 3,500만 명 (2024년)', en: 'Approx. 35 million (2024)' },
