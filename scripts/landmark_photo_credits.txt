@@ -2837,3 +2837,4 @@ highlights/madrid-25.jpg | own photo | own photo | 사용자 촬영
 highlights/madrid-26.jpg | own photo | own photo | 사용자 촬영
 highlights/madrid-27.jpg | own photo | own photo | 사용자 촬영
 highlights/madrid-28.jpg | own photo | own photo | 사용자 촬영
+highlights/salamanca-1.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Salamanca_iluminada.jpg | CC BY-SA 4.0 | Jl FilpoC
