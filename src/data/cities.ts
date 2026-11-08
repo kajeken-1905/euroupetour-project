@@ -19550,6 +19550,14 @@ export const cities: City[] = [
         group: { ko: "예술의 거리 · 대로", en: "The Art Walk & boulevards" },
       },
       {
+        id: "madrid-h25",
+        name: { ko: "BBVA 빌딩 (옛 빌바오 은행)", en: "BBVA Building (former Banco de Bilbao)" },
+        description: { ko: "1920~1923년 알칼라 거리에 지은 은행 건물로, 두 탑 위에 청동 4두 마차 조각이 올라 있습니다. 메트로폴리스 빌딩 바로 옆입니다.", en: "A bank building raised on Calle de Alcalá in 1920–1923, its two towers crowned by bronze four-horse chariots—right next to the Metropolis Building." },
+        image: "/highlights/madrid-25.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Edificio%20BBVA%20Calle%20de%20Alcal%C3%A1%2016%20Madrid",
+        group: { ko: "예술의 거리 · 대로", en: "The Art Walk & boulevards" },
+      },
+      {
         id: "madrid-h20",
         name: { ko: "그란비아", en: "Gran Vía" },
         description: { ko: "20세기 초에 낸 대로로, 극장과 백화점, 고층 건물 옥상 테라스가 이어집니다.", en: "The early-20th-century boulevard of theatres, department stores and rooftop terraces." },
