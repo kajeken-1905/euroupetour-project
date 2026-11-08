@@ -146,4 +146,83 @@ export const placesPTExtra: Place[] = [
   place('tomar-fine_dining-2', 'tomar', 'fine_dining', 'Tabernáculo do Rio', 'R. Marquês de Pombal 60, 2300-510 Tomar', '나방강 건너편의 식당.', 'Restaurant across the Nabão river.'),
   place('tomar-bakery-1', 'tomar', 'bakery', 'P\'tit Français', 'R. da Silva Magalhães 111, 2300-593 Tomar', '시내의 프랑스식 제과점.', 'French-style pastry shop in the town.'),
   place('tomar-cafe-1', 'tomar', 'cafe', 'Hanne Café', 'R. Serpa Pinto 57, 2300-592 Tomar', '중심가의 카페.', 'Café on the main street.'),
+
+  // —— peso-da-regua: restaurants, bakeries and cafés (2026-11-08) ——
+  place('peso-da-regua-fine_dining-1', 'peso-da-regua', 'fine_dining', 'Schistó', 'Rua de Vilarinho dos Freires, 5050-364 Peso da Régua, Portugal', '도루강을 내려다보는 현대 요리 레스토랑. 미쉐린 1스타.', 'Contemporary cuisine overlooking the Douro. One MICHELIN star.', { michelin: 'star1' }),
+  place('peso-da-regua-fine_dining-2', 'peso-da-regua', 'fine_dining', 'Bomfim 1896', 'Quinta do Bomfim, 5085-060 Pinhão, Portugal', '피냥의 와인 농장 안 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary restaurant on a Pinhão wine estate. In the MICHELIN Guide.'),
+  place('peso-da-regua-fine_dining-3', 'peso-da-regua', 'fine_dining', 'DOC', 'Estrada Nacional 222, 5110-214 Folgosa, Portugal', '강가에 떠 있는 듯한 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine on a riverside deck. In the MICHELIN Guide.'),
+  place('peso-da-regua-fine_dining-4', 'peso-da-regua', 'fine_dining', 'Tasca da Quinta', 'Rua do Marquês de Pombal 42, Peso da Régua, Portugal', '도루 가정식 식당. 구글 지도 평점 4.8.', 'Douro home cooking. Rated 4.8 on Google Maps.'),
+  place('peso-da-regua-bakery-1', 'peso-da-regua', 'bakery', 'Natas D\'Ouro', 'Avenida João Franco, Peso da Régua, Portugal', '에그타르트 전문 제과점.', 'Custard-tart bakery.'),
+  place('peso-da-regua-cafe-1', 'peso-da-regua', 'cafe', 'Galripo Brunch & Coffee', 'Avenida João Franco, Peso da Régua, Portugal', '강변의 브런치 카페.', 'Riverside brunch café.'),
+
+  // —— lamego: restaurants, bakeries and cafés (2026-11-08) ——
+  place('lamego-fine_dining-1', 'lamego', 'fine_dining', 'Cozinha do Douro', 'Quinta Vale de Abraão, Samodães, 5100-758 Lamego, Portugal', '도루강 위 호텔의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Contemporary cuisine in a hotel above the Douro. In the MICHELIN Guide.'),
+  place('lamego-bakery-1', 'lamego', 'bakery', 'Pastelaria da Sé', 'Rua Virgílio Correia 16, Lamego, Portugal', '대성당 옆 제과점.', 'Pastry shop by the cathedral.'),
+  place('lamego-bakery-2', 'lamego', 'bakery', 'Pastelaria Scala', 'Avenida Visconde Guedes Teixeira 31, Lamego, Portugal', '시내 중심 제과점.', 'Pastry shop in the centre.'),
+
+  // —— amarante: restaurants, bakeries and cafés (2026-11-08) ——
+  place('amarante-fine_dining-1', 'amarante', 'fine_dining', 'Largo do Paço', 'Largo do Paço 6, 4600-017 Amarante, Portugal', '강변 호텔 안의 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine in a riverside manor hotel. One MICHELIN star.', { michelin: 'star1' }),
+  place('amarante-bakery-1', 'amarante', 'bakery', 'Confeitaria da Ponte', 'Rua 31 de Janeiro 186, Amarante, Portugal', '다리 옆 수녀원 과자 가게로, 테라스에서 강이 보입니다.', 'Convent-sweets shop by the bridge, with a river terrace.'),
+  place('amarante-bakery-2', 'amarante', 'bakery', 'Confeitaria Tinoca', 'Rua 31 de Janeiro 62, Amarante, Portugal', '아마란트 전통 과자 가게.', 'Traditional Amarante sweets.'),
+
+  // —— viana-do-castelo: restaurants, bakeries and cafés (2026-11-08) ——
+  place('viana-do-castelo-fine_dining-1', 'viana-do-castelo', 'fine_dining', 'Tasquinha da Linda', 'Rua dos Mareantes A-10, 4900-351 Viana do Castelo, Portugal', '항구 앞 해산물 식당. 미쉐린 가이드 선정.', 'Seafood restaurant by the harbour. In the MICHELIN Guide.'),
+  place('viana-do-castelo-bakery-1', 'viana-do-castelo', 'bakery', 'Pastelaria Natário', 'Rua Manuel Espregueira 37, Viana do Castelo, Portugal', '따뜻한 크림 과자 ‘볼라 드 베를림’으로 유명한 제과점.', 'Pastry shop famous for its warm cream-filled bolas de Berlim.'),
+  place('viana-do-castelo-bakery-2', 'viana-do-castelo', 'bakery', 'Confeitaria A Brasileira', 'Rua Sacadura Cabral 23, Viana do Castelo, Portugal', '구시가의 오래된 제과점.', 'Long-standing old-town confectioner.'),
+  place('viana-do-castelo-cafe-1', 'viana-do-castelo', 'cafe', 'Peloton Café & Cycling', 'Rua do Poço 10, Viana do Castelo, Portugal', '자전거 테마 카페.', 'Cycling-themed café.'),
+
+  // —— alcobaca: restaurants, bakeries and cafés (2026-11-08) ——
+  place('alcobaca-fine_dining-1', 'alcobaca', 'fine_dining', 'António Padeiro', 'Rua Dom Maur Cocheril 27, Alcobaça, Portugal', '수도원 옆 전통 요리 식당. 구글 지도 평점 4.6.', 'Traditional cooking by the monastery. Rated 4.6 on Google Maps.'),
+  place('alcobaca-fine_dining-2', 'alcobaca', 'fine_dining', 'O Cabeço', 'Rua Dona Elvina Machado 65, Alcobaça, Portugal', '포르투갈 가정식 식당. 구글 지도 평점 4.8.', 'Portuguese home cooking. Rated 4.8 on Google Maps.'),
+  place('alcobaca-bakery-1', 'alcobaca', 'bakery', 'Pastelaria Alcôa', 'Praça 25 de Abril 44, Alcobaça, Portugal', '수녀원 과자로 이름난 수도원 앞 제과점.', 'Pastry shop opposite the monastery, known for convent sweets.'),
+  place('alcobaca-bakery-2', 'alcobaca', 'bakery', 'Casa dos Doces Conventuais', 'Praça Dom Afonso Henriques 4, Alcobaça, Portugal', '수녀원 과자 전문점.', 'Convent-sweets shop.'),
+
+  // —— setubal: restaurants, bakeries and cafés (2026-11-08) ——
+  place('setubal-fine_dining-1', 'setubal', 'fine_dining', 'Pérola da Mourisca', 'Rua da Baía do Sado 9, Setúbal, Portugal', '사두강 가 해산물 식당. 구글 지도 평점 4.6.', 'Seafood restaurant by the Sado. Rated 4.6 on Google Maps.'),
+  place('setubal-fine_dining-2', 'setubal', 'fine_dining', 'Oficina do Peixe', 'Rua Guilherme Gomes Fernandes 33, Setúbal, Portugal', '생선 요리 식당. 구글 지도 평점 4.5.', 'Fish restaurant. Rated 4.5 on Google Maps.'),
+  place('setubal-bakery-1', 'setubal', 'bakery', 'Confeitaria d\'Arrábida', 'Avenida São Francisco Xavier 8, Setúbal, Portugal', '시내 제과점.', 'Pastry shop in town.'),
+  place('setubal-bakery-2', 'setubal', 'bakery', 'Pastelaria Capri', 'Rua Álvaro Castelões 34, Setúbal, Portugal', '구시가 제과점.', 'Old-town pastry shop.'),
+
+  // —— ericeira: restaurants, bakeries and cafés (2026-11-08) ——
+  place('ericeira-fine_dining-1', 'ericeira', 'fine_dining', 'Mar d\'Areia', 'Rua da Fonte do Cabo 49, Ericeira, Portugal', '생선 요리 식당. 구글 지도 평점 4.6.', 'Fish restaurant. Rated 4.6 on Google Maps.'),
+  place('ericeira-fine_dining-2', 'ericeira', 'fine_dining', 'Ribas Marisqueira', 'Rua Mendes Leal 32, Ericeira, Portugal', '해산물 식당. 구글 지도 평점 4.5.', 'Seafood restaurant. Rated 4.5 on Google Maps.'),
+  place('ericeira-bakery-1', 'ericeira', 'bakery', 'Pastelaria Saloia', 'Rua Paroquial 9B, Ericeira, Portugal', '동네 제과점.', 'Neighbourhood pastry shop.'),
+  place('ericeira-bakery-2', 'ericeira', 'bakery', 'O Pãozinho das Marias', 'Rua Florêncio Granate 10, Ericeira, Portugal', '빵집 겸 카페.', 'Bakery-café.'),
+  place('ericeira-cafe-1', 'ericeira', 'cafe', 'Tiger & Chick', 'Rua do Caldeira 37A, Ericeira, Portugal', '커피와 디저트 카페.', 'Coffee and treats café.'),
+  place('ericeira-cafe-2', 'ericeira', 'cafe', 'Dear Rose Café', 'Rua de Santo António 12A, Ericeira, Portugal', '구시가 커피 가게.', 'Old-village coffee shop.'),
+
+  // —— manteigas: restaurants, bakeries and cafés (2026-11-08) ——
+  place('manteigas-fine_dining-1', 'manteigas', 'fine_dining', 'Serra à Mesa', 'N232 2, Manteigas, Portugal', '산골 지방 요리 식당. 구글 지도 평점 4.8.', 'Mountain regional cooking. Rated 4.8 on Google Maps.'),
+  place('manteigas-fine_dining-2', 'manteigas', 'fine_dining', 'Queijaria Manteigas', 'Rua 1.º de Maio 49, Manteigas, Portugal', '세하 치즈와 샤퀴테리를 내는 타파스 식당. 구글 지도 평점 4.7.', 'Tapas of Serra cheese and charcuterie. Rated 4.7 on Google Maps.'),
+
+  // —— monsanto: restaurants, bakeries and cafés (2026-11-08) ——
+  place('monsanto-fine_dining-1', 'monsanto', 'fine_dining', 'A Camponesa', 'Rua do Castelo 16, Monsanto, Portugal', '마을 골목의 작은 가정식 식당. 구글 지도 평점 4.9.', 'Small home-cooking restaurant in the village lanes. Rated 4.9 on Google Maps.'),
+  place('monsanto-fine_dining-2', 'monsanto', 'fine_dining', 'Taverna Lusitana', 'Rua do Castelo 19, Monsanto, Portugal', '바위 마을의 타파스 바. 구글 지도 평점 4.4.', 'Tapas bar in the boulder village. Rated 4.4 on Google Maps.'),
+
+  // —— tavira: restaurants, bakeries and cafés (2026-11-08) ——
+  place('tavira-fine_dining-1', 'tavira', 'fine_dining', 'A Ver Tavira', 'Calçada da Galeria 13, 8800-306 Tavira, Portugal', '성 아래 테라스에서 지붕들이 내려다보이는 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine on a terrace below the castle, over the rooftops. One MICHELIN star.', { michelin: 'star1' }),
+  place('tavira-fine_dining-2', 'tavira', 'fine_dining', 'À Mesa', 'Rua Álvaro de Campos 14, 8800-320 Tavira, Portugal', '전통과 현대 요리 식당. 미쉐린 가이드 선정.', 'Traditional and modern cooking. In the MICHELIN Guide.'),
+  place('tavira-fine_dining-3', 'tavira', 'fine_dining', 'Mesa Farta', 'Rua de Santo Estevão 2, 8800-386 Tavira, Portugal', '현대 요리 식당. 미쉐린 가이드 선정.', 'Contemporary restaurant. In the MICHELIN Guide.'),
+  place('tavira-bakery-1', 'tavira', 'bakery', 'Bakery Porta Nova', 'Rua dos Namarrais 16, Tavira, Portugal', '구시가 제과점.', 'Old-town bakery.'),
+  place('tavira-cafe-1', 'tavira', 'cafe', 'Formosa', 'Rua José Pires Padinha 180, Tavira, Portugal', '강변의 커피 가게.', 'Riverside coffee shop.'),
+
+  // —— marvao: restaurants, bakeries and cafés (2026-11-08) ——
+  place('marvao-fine_dining-1', 'marvao', 'fine_dining', 'fago', 'Travessa da Praça 2A, 7330-124 Marvão, Portugal', '성벽 마을 안의 현대 요리 식당. 미쉐린 가이드 선정.', 'Contemporary cooking inside the walled village. In the MICHELIN Guide.'),
+  place('marvao-fine_dining-2', 'marvao', 'fine_dining', 'J.J. Videira', 'Rua Nova 11, Marvão, Portugal', '알렌테주 가정식 식당. 구글 지도 평점 4.6.', 'Alentejo home cooking. Rated 4.6 on Google Maps.'),
+
+  // —— elvas: restaurants, bakeries and cafés (2026-11-08) ——
+  place('elvas-fine_dining-1', 'elvas', 'fine_dining', 'Adega Regional', 'Rua de João Casqueiro 23, Elvas, Portugal', '알렌테주 전통 요리 식당. 구글 지도 평점 4.6.', 'Traditional Alentejo cooking. Rated 4.6 on Google Maps.'),
+  place('elvas-fine_dining-2', 'elvas', 'fine_dining', 'Luís Cobra', 'Rua Évora 3A, Elvas, Portugal', '포르투갈 가정식 식당. 구글 지도 평점 4.8.', 'Portuguese home cooking. Rated 4.8 on Google Maps.'),
+
+  // —— ponta-delgada: restaurants, bakeries and cafés (2026-11-08) ——
+  place('ponta-delgada-fine_dining-1', 'ponta-delgada', 'fine_dining', 'Gastrónomo', 'Rua da Boa Nova 49, Ponta Delgada, Portugal', '아소르스 재료를 쓰는 식당. 구글 지도 평점 4.8.', 'Restaurant cooking with Azorean produce. Rated 4.8 on Google Maps.'),
+  place('ponta-delgada-fine_dining-2', 'ponta-delgada', 'fine_dining', 'Rotas da Ilha Verde', 'Rua de Pedro Homem 49, Ponta Delgada, Portugal', '채식 식당. 구글 지도 평점 4.8.', 'Vegetarian restaurant. Rated 4.8 on Google Maps.'),
+  place('ponta-delgada-cafe-1', 'ponta-delgada', 'cafe', 'GIZI Coffee and Bakeshop', 'Rua Carvalho Araújo 4, Ponta Delgada, Portugal', '커피와 구움과자 가게.', 'Coffee and bakeshop.'),
+  place('ponta-delgada-cafe-2', 'ponta-delgada', 'cafe', 'Café da Linda', 'Rua de Baixo 56A, Ponta Delgada, Portugal', '동네 카페.', 'Neighbourhood café.'),
+
+  // —— angra-do-heroismo: restaurants, bakeries and cafés (2026-11-08) ——
+  place('angra-do-heroismo-fine_dining-1', 'angra-do-heroismo', 'fine_dining', 'Taberna Dona Viola', 'Rua do Rego 74, Angra do Heroísmo, Portugal', '구시가의 작은 선술집 식당. 구글 지도 평점 4.8.', 'Small old-town tavern. Rated 4.8 on Google Maps.'),
+  place('angra-do-heroismo-fine_dining-2', 'angra-do-heroismo', 'fine_dining', 'O Cachalote', 'Rua do Rego 14, Angra do Heroísmo, Portugal', '해산물 식당. 구글 지도 평점 4.5.', 'Seafood restaurant. Rated 4.5 on Google Maps.'),
+  place('angra-do-heroismo-bakery-1', 'angra-do-heroismo', 'bakery', 'O Forno Pastelaria', 'Rua de São João 67, Angra do Heroísmo, Portugal', '구시가 제과점.', 'Old-town pastry shop.'),
+  place('angra-do-heroismo-bakery-2', 'angra-do-heroismo', 'bakery', 'Pastelaria Santa Bárbara', 'Rua da Guarita 12, Angra do Heroísmo, Portugal', '동네 빵집.', 'Neighbourhood bakery.'),
 ]

@@ -592,12 +592,13 @@ export const countries: Country[] = [
       background: '#E8F5E8',
       text: '#0A2A0A',
     },
-    cityIds: ['lisbon', 'sintra', 'cascais', 'obidos', 'nazare', 'fatima', 'tomar', 'coimbra', 'porto', 'braga', 'guimaraes', 'aveiro', 'evora', 'faro', 'lagos', 'funchal'],
+    cityIds: ['lisbon', 'sintra', 'ericeira', 'cascais', 'setubal', 'obidos', 'alcobaca', 'nazare', 'fatima', 'tomar', 'coimbra', 'manteigas', 'monsanto', 'porto', 'braga', 'viana-do-castelo', 'guimaraes', 'amarante', 'peso-da-regua', 'lamego', 'aveiro', 'evora', 'marvao', 'elvas', 'faro', 'tavira', 'lagos', 'funchal', 'ponta-delgada', 'angra-do-heroismo'],
     cityGroups: [
-      { title: { ko: '중부', en: 'Central Portugal' }, cityIds: ['lisbon', 'sintra', 'cascais', 'obidos', 'nazare', 'fatima', 'tomar', 'coimbra'] },
-      { title: { ko: '북부', en: 'Northern Portugal' }, cityIds: ['porto', 'braga', 'guimaraes', 'aveiro'] },
-      { title: { ko: '남부', en: 'Southern Portugal' }, cityIds: ['evora', 'faro', 'lagos'] },
+      { title: { ko: '중부', en: 'Central Portugal' }, cityIds: ['lisbon', 'sintra', 'ericeira', 'cascais', 'setubal', 'obidos', 'alcobaca', 'nazare', 'fatima', 'tomar', 'coimbra', 'manteigas', 'monsanto'] },
+      { title: { ko: '북부', en: 'Northern Portugal' }, cityIds: ['porto', 'braga', 'viana-do-castelo', 'guimaraes', 'amarante', 'peso-da-regua', 'lamego', 'aveiro'] },
+      { title: { ko: '남부', en: 'Southern Portugal' }, cityIds: ['evora', 'marvao', 'elvas', 'faro', 'tavira', 'lagos'] },
       { title: { ko: '마데이라', en: 'Madeira' }, cityIds: ['funchal'] },
+      { title: { ko: '아소르스 제도', en: 'Azores' }, cityIds: ['ponta-delgada', 'angra-do-heroismo'] },
     ],
   },
   {

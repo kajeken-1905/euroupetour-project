@@ -233,6 +233,48 @@ export const STAY: Record<string, StayArea[]> = {
     a('트리아나', 'Triana', 'Triana, Seville', '현지 분위기·플라멩코|Local feel and flamenco', '다리를 건너 강 건너편 동네로 시장과 플라멩코 공연장이 있습니다. 중심까지 걸어서 10분쯤입니다.|Across the river, with its market and flamenco venues; about ten minutes’ walk to the centre.'),
     a('알라메다', 'Alameda', 'Alameda de Hércules, Seville', '밤 문화·식당|Nightlife and food', '관광객이 적고 바와 식당이 많은 광장 주변입니다.|Fewer tourists, with bars and restaurants around the square.'),
   ],
+  'peso-da-regua': [
+    a('강변', 'Riverside', 'Peso da Régua', '처음 가는 여행에 추천|Best for a first visit', '역과 선착장, 박물관이 걸어서 닿습니다. 포도밭 속 킨타 숙소도 많습니다.|The station, piers and museum on foot; many quinta stays among the vines.'),
+  ],
+  lamego: [
+    a('시내 중심', 'Town centre', 'Lamego', '처음 가는 여행에 추천|Best for a first visit', '대성당과 계단 아래 공원이 걸어서 닿습니다.|The cathedral and the park at the foot of the steps on foot.'),
+  ],
+  amarante: [
+    a('다리 주변', 'By the bridge', 'Amarante', '처음 가는 여행에 추천|Best for a first visit', '다리와 수도원, 강변이 모두 걸어서 닿습니다.|The bridge, monastery and riverside all on foot.'),
+  ],
+  'viana-do-castelo': [
+    a('구시가', 'Old town', 'Praça da República Viana do Castelo', '처음 가는 여행에 추천|Best for a first visit', '광장과 강변, 역이 걸어서 닿습니다.|The square, riverside and station on foot.'),
+  ],
+  alcobaca: [
+    a('수도원 앞', 'By the monastery', 'Mosteiro de Alcobaça', '처음 가는 여행에 추천|Best for a first visit', '수도원과 버스터미널이 걸어서 닿습니다. 나자레에 묵고 다녀와도 됩니다.|The monastery and bus station on foot; Nazaré also works as a base.'),
+  ],
+  setubal: [
+    a('구시가와 강변', 'Old town & riverside', 'Setúbal centre', '처음 가는 여행에 추천|Best for a first visit', '시장과 선착장이 걸어서 닿고 역까지 걸어서 약 15분입니다.|The market and piers on foot, about 15 min’s walk from the station.'),
+  ],
+  ericeira: [
+    a('구시가', 'Old village', 'Ericeira', '처음 가는 여행에 추천|Best for a first visit', '해변과 식당이 걸어서 닿고 버스터미널까지 걸어서 약 10분입니다.|Beaches and restaurants on foot, about 10 min’s walk from the bus station.'),
+  ],
+  manteigas: [
+    a('만테이가스 마을', 'Manteigas village', 'Manteigas', '처음 가는 여행에 추천|Best for a first visit', '계곡 산길이 마을에서 시작됩니다. 대중교통이 적어 차가 편합니다.|Valley trails start in the village; with little public transport, a car is easiest.'),
+  ],
+  monsanto: [
+    a('마을 안', 'In the village', 'Monsanto', '처음 가는 여행에 추천|Best for a first visit', '당일 손님이 떠난 저녁과 아침이 조용합니다. 대중교통이 적어 차가 편합니다.|Quiet in the evening and morning once day-trippers leave; a car is easiest.'),
+  ],
+  tavira: [
+    a('강변 구시가', 'Riverside old town', 'Tavira centre', '처음 가는 여행에 추천|Best for a first visit', '다리와 성, 섬행 선착장이 걸어서 닿고 역까지 걸어서 약 10분입니다.|The bridge, castle and island boats on foot, about 10 min’s walk from the station.'),
+  ],
+  marvao: [
+    a('성벽 안', 'Inside the walls', 'Marvão', '처음 가는 여행에 추천|Best for a first visit', '노을과 아침 안개를 보려면 마을 안에 묵습니다. 대중교통이 적어 차가 편합니다.|Stay inside the walls for sunset and morning mist; a car is easiest.'),
+  ],
+  elvas: [
+    a('성벽 안 구시가', 'Old town inside the walls', 'Praça da República Elvas', '처음 가는 여행에 추천|Best for a first visit', '광장과 요새가 걸어서 닿습니다.|The square and forts on foot.'),
+  ],
+  'ponta-delgada': [
+    a('시내 중심과 마리나', 'Centre & marina', 'Ponta Delgada', '처음 가는 여행에 추천|Best for a first visit', '성문과 항구가 걸어서 닿고 공항까지 차로 약 10분입니다. 섬 일주는 차가 편합니다.|The gates and harbour on foot, about 10 min from the airport; a car is easiest for touring the island.'),
+  ],
+  'angra-do-heroismo': [
+    a('구시가', 'Old town', 'Angra do Heroísmo', '처음 가는 여행에 추천|Best for a first visit', '구시가와 항구가 걸어서 닿고 공항까지 차로 약 25분입니다.|The old town and harbour on foot, about 25 min by car from the airport.'),
+  ],
   porto: [
     a('히베이라', 'Ribeira', 'Ribeira, Porto', '처음 가는 여행에 추천|Best for a first visit', '강변의 옛 동네로 관광지를 걸어서 다닙니다. 가장 관광객이 많습니다.|The riverside old quarter, walkable to the sights; the most touristy part.'),
     a('바이샤', 'Baixa', 'Baixa, Porto', '중심가·교통|Downtown and transport', '상벤투역이 있는 시내 중심으로 밤에도 활기찹니다.|Downtown around São Bento station, lively at night.'),

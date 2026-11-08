@@ -547,6 +547,62 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   },
 
   // —— pt ——
+  'peso-da-regua': {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    rail: [['Peso da Régua', '페주 다 헤구아역', '도루선|Douro line']],
+  },
+  lamego: {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    rail: [['Peso da Régua', '페주 다 헤구아역', '라메구까지 버스로 약 25분|about 25 min to Lamego by bus']],
+    bus: [['Lamego bus station', '라메구 버스터미널']],
+  },
+  amarante: {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    bus: [['Amarante bus station', '아마란트 버스터미널', '포르투행 버스|buses to Porto']],
+  },
+  'viana-do-castelo': {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    rail: [['Viana do Castelo', '비아나 두 카스텔루역']],
+  },
+  alcobaca: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon']],
+    bus: [['Alcobaça bus station', '알코바사 버스터미널', '리스본·나자레·바탈랴행|to Lisbon, Nazaré and Batalha']],
+  },
+  setubal: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon']],
+    rail: [['Setúbal', '세투발역', '리스본행 페르타구스|Fertagus to Lisbon']],
+    port: [['Setúbal ferry', '세투발 페리 터미널', '트로이아행|to Tróia']],
+  },
+  ericeira: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon']],
+    bus: [['Ericeira bus station', '에리세이라 버스터미널', '리스본 캄푸 그란드행|to Lisbon Campo Grande']],
+  },
+  manteigas: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon'], ['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    rail: [['Covilhã', '코빌량역', '만테이가스까지 차로 약 40분|about 40 min to Manteigas by car']],
+  },
+  monsanto: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon']],
+    rail: [['Castelo Branco', '카스텔루 브랑쿠역', '몬산투까지 버스·택시로 약 1시간|about 1 hr to Monsanto by bus or taxi']],
+  },
+  tavira: {
+    air: [['Faro (FAO)', '파루 공항 (FAO)', '파루|Faro']],
+    rail: [['Tavira', '타비라역']],
+  },
+  marvao: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon']],
+    bus: [['Portalegre bus station', '포르탈레그르 버스터미널', '마르바웅까지 버스(평일)·택시|weekday bus or taxi to Marvão']],
+  },
+  elvas: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon'], ['Badajoz (BJZ)', '바다호스 공항 (BJZ)', '스페인 바다호스|Badajoz, Spain']],
+    bus: [['Elvas bus station', '엘바스 버스터미널']],
+  },
+  'ponta-delgada': {
+    air: [['Ponta Delgada João Paulo II (PDL)', '폰타 델가다 공항 (PDL)']],
+  },
+  'angra-do-heroismo': {
+    air: [['Terceira Lajes (TER)', '테르세이라 공항 (TER)']],
+  },
   porto: {
     air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)']],
     rail: [

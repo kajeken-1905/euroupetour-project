@@ -7227,5 +7227,295 @@
     41.14908,
     -8.60524,
     "OSM Nominatim: Via Catarina Shopping (photo GPS matches)"
+  ],
+  "peso-da-regua-h1": [
+    41.16141,
+    -7.79,
+    "OSM Nominatim: Museu do Douro, Rua do Marquês de Pombal, Peso da Régua e Go"
+  ],
+  "peso-da-regua-h2": [
+    41.16141,
+    -7.79262,
+    "OSM Nominatim: Cais da Régua, Avenida de João Franco, Peso da Régua e Godim"
+  ],
+  "peso-da-regua-h3": [
+    41.1622,
+    -7.76656,
+    "OSM Nominatim: Quinta do Vallado, Granja, Vilarinho dos Freires, Peso da Ré"
+  ],
+  "peso-da-regua-h5": [
+    41.1905,
+    -7.54509,
+    "OSM Nominatim: Estação Ferroviária do Pinhão, 14, Largo da Estação, Bairro "
+  ],
+  "lamego-h1": [
+    41.09167,
+    -7.81663,
+    "OSM Nominatim: Santuário de Nossa Senhora dos Remédios, Adro do Santuário d"
+  ],
+  "lamego-h2": [
+    41.0966,
+    -7.80651,
+    "OSM Nominatim: Sé de Lamego, Rua Virgílio Correia, Lamego (Almacave e Sé), "
+  ],
+  "lamego-h3": [
+    41.09747,
+    -7.80582,
+    "OSM Nominatim: Museu de Lamego, Largo de Camões, Lamego (Almacave e Sé), La"
+  ],
+  "lamego-h4": [
+    41.09006,
+    -7.82473,
+    "OSM Nominatim: Caves da Raposeira, EN 2, Medelo, Lamego (Almacave e Sé), La"
+  ],
+  "amarante-h1": [
+    41.26885,
+    -8.07807,
+    "OSM Nominatim: Ponte de São Gonçalo, Trilho dos Castanheiros, Formão, Figue"
+  ],
+  "amarante-h2": [
+    41.26923,
+    -8.07873,
+    "OSM Nominatim: Igreja de São Gonçalo, Praça da República (Largo de São Gonç"
+  ],
+  "amarante-h3": [
+    41.26956,
+    -8.07846,
+    "OSM Nominatim: Museu Municipal Amadeo de Souza-Cardoso, Alameda Teixeira de"
+  ],
+  "amarante-h4": [
+    41.2687,
+    -8.07742,
+    "OSM Nominatim: Confeitaria da Ponte, Rua 31 de Janeiro, Campo da Feira, Cos (Wikipedia 335m)"
+  ],
+  "viana-do-castelo-h1": [
+    41.70153,
+    -8.83511,
+    "OSM Nominatim: Santuário de Santa Luzia, Estrada de Santa Luzia, Areosa, Vi"
+  ],
+  "viana-do-castelo-h2": [
+    41.69332,
+    -8.82842,
+    "OSM Nominatim: Praça da República, Viana do Castelo, Viana do Castelo (Sant (Wikipedia 847m)"
+  ],
+  "viana-do-castelo-h4": [
+    41.69275,
+    -8.81835,
+    "OSM Nominatim: Ponte Eiffel, Viana do Castelo, Viana do Castelo (Santa Mari"
+  ],
+  "viana-do-castelo-h5": [
+    41.67679,
+    -8.82922,
+    "OSM Nominatim: Praia do Cabedelo, Darque, Viana do Castelo, Portugal"
+  ],
+  "alcobaca-h1": [
+    39.54855,
+    -8.97749,
+    "OSM Nominatim: Montebelo Mosteiro de Alcobaça Historic Hotel, 2, Rua Silvér (Wikipedia 217m)"
+  ],
+  "alcobaca-h2": [
+    39.65921,
+    -8.82583,
+    "OSM Nominatim: Mosteiro da Batalha, Largo da Vitória, Urbanização do Pinhal (Wikipedia 25m)"
+  ],
+  "alcobaca-h4": [
+    39.51353,
+    -9.13359,
+    "OSM Nominatim: São Martinho do Porto, Alcobaça, Leiria, Portugal (Wikipedia 69m)"
+  ],
+  "setubal-h1": [
+    38.47535,
+    -8.98436,
+    "OSM Nominatim: Portinho da Arrábida, Azeitão (São Lourenço e São Simão), Se (Wikipedia 791m)"
+  ],
+  "setubal-h2": [
+    38.521,
+    -8.88662,
+    "OSM Nominatim: Doca de Recreio das Fontaínhas, Avenida Jaime Rebelo, São Do"
+  ],
+  "setubal-h3": [
+    38.52232,
+    -8.89426,
+    "OSM Nominatim: Mercado do Livramento, 163, Avenida Luísa Todi, Centro Histó (Wikipedia 263m)"
+  ],
+  "setubal-h4": [
+    38.52595,
+    -8.89471,
+    "OSM Nominatim: Igreja do Mosteiro de Jesus, Rua Acácio Barradas, Fonte Nova (Wikipedia 23m)"
+  ],
+  "setubal-h5": [
+    38.5199,
+    -9.0115,
+    "manual 2026-11-08: José Maria da Fonseca, Vila Nogueira de Azeitão"
+  ],
+  "ericeira-h2": [
+    38.96431,
+    -9.41855,
+    "OSM Nominatim: Praia dos Pescadores, Ericeira, Mafra, Lisboa, Portugal (Wikipedia 261m)"
+  ],
+  "ericeira-h4": [
+    38.93689,
+    -9.32577,
+    "OSM Nominatim: Palácio Nacional de Mafra, Alameda da Escola Prática de Infa (Wikipedia 3m)"
+  ],
+  "manteigas-h2": [
+    40.35646,
+    -7.55894,
+    "OSM Nominatim: Vale Glaciar do Zêzere, Manteigas (São Pedro), Manteigas, Gu"
+  ],
+  "manteigas-h3": [
+    40.37254,
+    -7.51653,
+    "OSM Nominatim: Poço do Inferno, Manteigas (São Pedro), Manteigas, Guarda, P"
+  ],
+  "manteigas-h4": [
+    40.63813,
+    -7.39147,
+    "OSM Nominatim: Solar do Queijo, 5, Praça de Santa Maria, Celorico (São Pedr"
+  ],
+  "monsanto-h1": [
+    40.03875,
+    -7.11511,
+    "OSM Nominatim: Monsanto, Idanha-a-Nova, Castelo Branco, 6060-000, Portugal (Wikipedia 99m)"
+  ],
+  "monsanto-h2": [
+    40.03591,
+    -7.11389,
+    "OSM Nominatim: Castelo de Monsanto, Rua do Castelo, Lagar de Junho, Monsant"
+  ],
+  "monsanto-h3": [
+    39.99825,
+    -7.15484,
+    "OSM Nominatim: Idanha-a-Velha, Idanha-a-Nova, Castelo Branco, Portugal (Wikipedia 934m)"
+  ],
+  "tavira-h1": [
+    37.12687,
+    -7.64984,
+    "OSM Nominatim: Ponte Romana, Marlin, Tavira (Santa Maria e Santiago), Tavir"
+  ],
+  "tavira-h2": [
+    37.12524,
+    -7.65123,
+    "OSM Nominatim: Castelo de Tavira, Calçada Dom Paio Peres Correia, Vila-A-De (Wikipedia 7m)"
+  ],
+  "tavira-h3": [
+    37.08459,
+    -7.67054,
+    "OSM Nominatim: Ilha de Tavira, Santa Luzia, Tavira, Faro, Portugal (Wikipedia 484m)"
+  ],
+  "tavira-h4": [
+    37.08672,
+    -7.66149,
+    "OSM Nominatim: Cemitério das Âncoras, Santa Luzia, Tavira, Faro, Portugal"
+  ],
+  "marvao-h1": [
+    39.39711,
+    -7.38,
+    "OSM Nominatim: Castelo de Marvão, Calçada Romana, Santa Maria de Marvão, Ma (Wikipedia 412m)"
+  ],
+  "marvao-h2": [
+    39.39349,
+    -7.37647,
+    "OSM Nominatim: Igreja de Santiago, Rua Doutor Matos Magalhães, Santa Maria  (Wikipedia 77m)"
+  ],
+  "marvao-h3": [
+    39.41523,
+    -7.45542,
+    "OSM Nominatim: Castelo de Vide, Portalegre, Portugal"
+  ],
+  "elvas-h1": [
+    38.87875,
+    -7.188,
+    "OSM Nominatim: Aqueduto da Amoreira, São Brás e São Lourenço, Elvas, Portal"
+  ],
+  "elvas-h2": [
+    38.89491,
+    -7.16433,
+    "OSM Nominatim: Forte de Nossa Senhora da Graça, Trilho da Antiga Calçada Ro"
+  ],
+  "elvas-h3": [
+    38.88055,
+    -7.16368,
+    "OSM Nominatim: Praça da República, Centro Histórico de Elvas, Assunção, Aju"
+  ],
+  "elvas-h4": [
+    38.87295,
+    -7.15822,
+    "OSM Nominatim: Forte de Santa Luzia, Avenida do Dia de Portugal - 10 de Jun"
+  ],
+  "ponta-delgada-h1": [
+    37.73951,
+    -25.66846,
+    "OSM Nominatim: Portas da Cidade, Praça Gonçalo Velho Cabral, Ponta Delgada "
+  ],
+  "ponta-delgada-h2": [
+    37.73852,
+    -25.66518,
+    "OSM Nominatim: Marina de Ponta Delgada, Avenida Infante Dom Henrique, Ponta"
+  ],
+  "ponta-delgada-h3": [
+    37.83935,
+    -25.79487,
+    "OSM Nominatim: Miradouro da Vista do Rei, ER 8-1ª, Sete Cidades, Ponta Delg"
+  ],
+  "ponta-delgada-h4": [
+    37.77044,
+    -25.31198,
+    "OSM Nominatim: Parque Terra Nostra, Furnas, Povoação, Açores, Portugal (Wikipedia 263m)"
+  ],
+  "ponta-delgada-h5": [
+    37.81794,
+    -25.40251,
+    "OSM Nominatim: Chá Gorreana, EN 1-1ª, Maia, Ribeira Grande, Açores, 9625-30"
+  ],
+  "angra-do-heroismo-h1": [
+    38.65588,
+    -27.21865,
+    "OSM Nominatim: Praça Velha, Angra (Sé), Angra do Heroísmo, Açores, 9700-201 (Wikipedia 78m)"
+  ],
+  "angra-do-heroismo-h2": [
+    38.64275,
+    -27.22649,
+    "OSM Nominatim: Monte Brasil, Angra do Heroísmo, Açores, 9700-103, Portugal (Wikipedia 282m)"
+  ],
+  "angra-do-heroismo-h3": [
+    38.72778,
+    -27.21524,
+    "OSM Nominatim: Algar do Carvão, Porto Judeu, Angra do Heroísmo, Açores, Por"
+  ],
+  "angra-do-heroismo-h4": [
+    38.79254,
+    -27.25807,
+    "OSM Nominatim: Biscoitos, Praia da Vitória, Açores, Portugal (Wikipedia 79m)"
+  ],
+  "peso-da-regua-h4": [
+    41.208,
+    -7.69,
+    "manual 2026-11-08: Miradouro de São Leonardo da Galafura"
+  ],
+  "viana-do-castelo-h3": [
+    41.6912,
+    -8.8317,
+    "manual 2026-11-08: Navio Gil Eannes"
+  ],
+  "alcobaca-h3": [
+    39.553,
+    -8.9757,
+    "manual 2026-11-08: Museu Nacional do Vinho, Alcobaça"
+  ],
+  "ericeira-h1": [
+    38.963,
+    -9.4174,
+    "manual 2026-11-08: Ericeira old village"
+  ],
+  "ericeira-h3": [
+    38.9876,
+    -9.4185,
+    "manual 2026-11-08: Ribeira d'Ilhas"
+  ],
+  "manteigas-h1": [
+    40.3217,
+    -7.6114,
+    "manual 2026-11-08: Torre, Serra da Estrela"
   ]
 }

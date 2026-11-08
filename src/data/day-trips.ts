@@ -968,6 +968,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'tomar',
       tip: '템플 기사단의 그리스도 수도원과 둥근 예배당을 보고 강변 구시가를 걷습니다. 편도 2시간이라 아침 일찍 출발하세요.|The Templars’ Convent of Christ and its round church, then the riverside old town; it is 2 hours each way, so leave early.',
     },
+    {
+      to: 'setubal',
+      tip: '기차로 약 1시간. 돌고래 관찰 배를 타거나 아라비다 해변에 갑니다.|About 1 hr by train: a dolphin-watching boat or Arrábida’s beaches.',
+    },
+    {
+      to: 'ericeira',
+      tip: '버스로 약 1시간. 서핑 해변과 하얀 어촌을 보고 해산물을 먹습니다. 가는 길에 마프라 궁전을 들러도 됩니다.|About 1 hr by bus: surf beaches, the white village and seafood; stop at Mafra Palace on the way.',
+    },
   ],
   porto: [
     {
@@ -985,6 +993,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'coimbra',
       tip: '대학 조아니나 도서관과 구시가를 봅니다.|The university’s Joanina Library and the old town.',
+    },
+    {
+      to: 'peso-da-regua',
+      tip: '도루선 기차로 약 2시간 15분. 강변 포도밭을 보고 킨타에서 포트와인을 맛봅니다.|About 2 hr 15 on the Douro line: riverside vineyards and a port tasting at a quinta.',
+    },
+    {
+      to: 'amarante',
+      tip: '버스로 약 1시간. 강변 다리와 수도원을 보고 수녀원 과자를 맛봅니다.|About 1 hr by bus: the bridge, the monastery and convent sweets.',
+    },
+    {
+      to: 'viana-do-castelo',
+      tip: '기차로 약 1시간 25분. 푸니쿨라로 산타 루지아 성당에 오르고 구시가 광장을 봅니다.|About 1 hr 25 by train: the funicular to Santa Luzia and the old-town square.',
     },
   ],
   coimbra: [

@@ -2855,6 +2855,156 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Alfama and Baixa are hilly, so trams help; the historic funiculars and the Santa Justa lift have been closed since an accident in September 2025.',
     },
   },
+  'peso-da-regua': {
+    modes: ['walk', 'train', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서, 피냥까지는 기차, 킨타는 차나 택시로 갑니다.',
+      en: 'Walk the town; take the train to Pinhão and a car or taxi to the quintas.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  lamego: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 헤구아역까지 버스나 택시를 탑니다.',
+      en: 'Walk the town; take a bus or taxi to Régua station.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  amarante: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다.',
+      en: 'Walk the town.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  'viana-do-castelo': {
+    modes: ['walk', 'train', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서, 산타 루지아는 푸니쿨라로 갑니다.',
+      en: 'Walk the town and take the funicular to Santa Luzia.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  alcobaca: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 바탈랴·나자레는 버스로 갑니다.',
+      en: 'Walk the town; buses go to Batalha and Nazaré.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  setubal: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서, 아라비다는 버스나 차로 갑니다.',
+      en: 'Walk the town; reach Arrábida by bus or car.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  ericeira: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 마프라·리스본은 버스로 갑니다.',
+      en: 'Walk the village; buses go to Mafra and Lisbon.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  manteigas: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '산과 계곡은 차로 다니는 것이 편합니다.',
+      en: 'A car is easiest for the mountains and valleys.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  monsanto: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 주변 마을은 차로 갑니다.',
+      en: 'Walk the village; drive to nearby villages.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  tavira: {
+    modes: ['walk', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서, 섬은 배로 갑니다.',
+      en: 'Walk the town; boats go to the island.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  marvao: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 이웃 마을은 차로 갑니다.',
+      en: 'Walk the village; drive to neighbouring towns.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  elvas: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서, 그라사 요새는 택시로 갑니다.',
+      en: 'Walk the old town; take a taxi to Forte da Graça.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  'ponta-delgada': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 섬 일주는 렌터카나 투어가 편합니다.',
+      en: 'Walk the town; a rental car or tour is easiest for the island.',
+    },
+    apps: [
+    ],
+  },
+  'angra-do-heroismo': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 섬 일주는 차가 편합니다.',
+      en: 'Walk the old town; a car is easiest for the island.',
+    },
+    apps: [
+    ],
+  },
   porto: {
     modes: ['metro', 'bus', 'train', 'tram', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
