@@ -2790,7 +2790,6 @@ highlights/corte-1.jpg | https://commons.wikimedia.org/wiki/File:Citadelle-Corte
 highlights/rocamadour-4.jpg | https://commons.wikimedia.org/wiki/File:Rocamadour_L%27Hospitalet1.JPG | Public domain | Torsade de Pointes
 highlights/madrid-18.jpg | https://commons.wikimedia.org/wiki/File:Madrid_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_(MNCARS)_03.JPG | CC BY-SA 4.0 | Zarateman
 highlights/madrid-19.jpg | https://commons.wikimedia.org/wiki/File:Museo_Thyssen-Bornemisza_(Madrid)_06a.jpg | CC BY-SA 3.0 | Luis García (Zaqarbal)
-highlights/madrid-20.jpg | https://commons.wikimedia.org/wiki/File:Gran_V%C3%ADa_(Madrid)_42.jpg | CC BY 2.0 | Felipe Gabaldón from Spain
 highlights/madrid-21.jpg | https://commons.wikimedia.org/wiki/File:Crowds_queue_to_enter_Madrid%E2%80%99s_iconic_Chocolater%C3%ADa_San_Gin%C3%A9s,_a_landmark_caf%C3%A9_since_1894._Taken_December_1990.jpg | CC BY-SA 4.0 | Girlwholovessunset
 highlights/madrid-22.jpg | https://commons.wikimedia.org/wiki/File:Rastro_-_Ribera_de_Curtidores_-_Madrid_01.jpg | CC BY-SA 4.0 | Javier Perez Montes
 highlights/madrid-23.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_Casa_Museo_Sorolla,_Madrid.JPG | CC BY-SA 3.0 | Alan
@@ -2830,3 +2829,7 @@ highlights/san-sebastian-8.jpg | https://commons.wikimedia.org/wiki/File:Getaria
 highlights/santiago-6.jpg | https://commons.wikimedia.org/wiki/File:Santiago_de_Compostela_-_Mercado_de_Abastos_-_01.jpg | CC BY-SA 4.0 | Xosema
 highlights/santiago-7.jpg | https://commons.wikimedia.org/wiki/File:Cubiertas_catedral_Santiago_(7983279462).jpg | CC BY 2.0 | amaianos from Galicia
 highlights/barcelona-27.jpg | https://commons.wikimedia.org/wiki/File:Museu_de_la_Xocolata_de_Barcelona_fa%C3%A7ana.JPG | CC BY-SA 3.0 | Kippelboy
+places/madrid-bakery-6.jpg | own photo | own photo | 사용자 촬영
+highlights/madrid-20.jpg | own photo | own photo | 사용자 촬영
+highlights/madrid-10.jpg | own photo | own photo | 사용자 촬영
+highlights/madrid-6.jpg | own photo | own photo | 사용자 촬영
