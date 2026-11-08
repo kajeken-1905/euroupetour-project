@@ -2788,3 +2788,45 @@ highlights/saint-jean-pied-de-port-4.jpg | https://commons.wikimedia.org/wiki/Fi
 highlights/bastia-6.jpg | https://www.flickr.com/photos/7815453@N05/7453412002 | BY-SA 2.0 | paspog
 highlights/corte-1.jpg | https://commons.wikimedia.org/wiki/File:Citadelle-Corte.jpg | CC BY-SA 3.0 | Jérôme Saillard - ©dzeis
 highlights/rocamadour-4.jpg | https://commons.wikimedia.org/wiki/File:Rocamadour_L%27Hospitalet1.JPG | Public domain | Torsade de Pointes
+highlights/madrid-18.jpg | https://commons.wikimedia.org/wiki/File:Madrid_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_(MNCARS)_03.JPG | CC BY-SA 4.0 | Zarateman
+highlights/madrid-19.jpg | https://commons.wikimedia.org/wiki/File:Museo_Thyssen-Bornemisza_(Madrid)_06a.jpg | CC BY-SA 3.0 | Luis García (Zaqarbal)
+highlights/madrid-20.jpg | https://commons.wikimedia.org/wiki/File:Gran_V%C3%ADa_(Madrid)_42.jpg | CC BY 2.0 | Felipe Gabaldón from Spain
+highlights/madrid-21.jpg | https://commons.wikimedia.org/wiki/File:Crowds_queue_to_enter_Madrid%E2%80%99s_iconic_Chocolater%C3%ADa_San_Gin%C3%A9s,_a_landmark_caf%C3%A9_since_1894._Taken_December_1990.jpg | CC BY-SA 4.0 | Girlwholovessunset
+highlights/madrid-22.jpg | https://commons.wikimedia.org/wiki/File:Rastro_-_Ribera_de_Curtidores_-_Madrid_01.jpg | CC BY-SA 4.0 | Javier Perez Montes
+highlights/madrid-23.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_Casa_Museo_Sorolla,_Madrid.JPG | CC BY-SA 3.0 | Alan
+highlights/segovia-9.jpg | https://commons.wikimedia.org/wiki/File:San_Ildefonso_-_Palacio_Real_de_la_Granja-Casa_de_Can%C3%B3nigos.jpg | CC BY-SA 3.0 | Zarateman
+highlights/salamanca-6.jpg | https://commons.wikimedia.org/wiki/File:Campanario_de_la_Iglesia_de_La_Clerec%C3%ADa,_Salamanca.jpg | CC BY-SA 4.0 | Jl FilpoC
+highlights/salamanca-7.jpg | https://commons.wikimedia.org/wiki/File:Salamanca,_Casa_Lis_-_54013433290.jpg | CC BY 2.0 | liakada-web
+highlights/toledo-10.jpg | https://commons.wikimedia.org/wiki/File:Molinos_de_Consuegra_(cropped).jpg | CC BY 2.5 | Pavlemadrid
+highlights/barcelona-26.jpg | https://commons.wikimedia.org/wiki/File:Hospital_de_Sant_Pau_01.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/barcelona-28.jpg | https://commons.wikimedia.org/wiki/File:049_Tur%C3%B3_de_la_Rovira,_antiga_bateria_antia%C3%A8ria.jpg | CC BY-SA 4.0 | Enric
+highlights/barcelona-29.jpg | https://commons.wikimedia.org/wiki/File:Tibidabo_(134720133).jpeg | CC BY-SA 3.0 | Rubens Vallejos
+highlights/barcelona-30.jpg | https://commons.wikimedia.org/wiki/File:Caves_Codorniu_(Sant_Sadurn%C3%AD_d%27Anoia)_-_18.jpg | CC BY-SA 2.0 | Angela Llop
+highlights/girona-6.jpg | https://commons.wikimedia.org/wiki/File:Pont_Medieval_(Besal%C3%BA)_-_7.jpg | CC BY-SA 2.0 | Montse Poch
+highlights/zaragoza-6.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_Teatro_Romano_de_Caesaraugusta_-_Wiki_Takes_Caesaraugusta_03.jpg | CC BY-SA 4.0 | Millars
+highlights/valencia-6.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_del_Turia_2010.jpg | CC BY 2.0 | 16:9clue
+highlights/valencia-7.jpg | https://commons.wikimedia.org/wiki/File:Torres_de_Serranos_in_Ciutat_Vella,_Valencia,_Spain.jpg | CC0 | MCAE Consulting
+highlights/valencia-8.jpg | https://commons.wikimedia.org/wiki/File:Albuferenc,_parque_natural_de_la_Albufera,_Valencia,_Espa%C3%B1a,_2022-12-18,_DD_25-27_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/palma-7.jpg | https://commons.wikimedia.org/wiki/File:Valldemossa_view.jpg | CC BY-SA 3.0 | Abrget47j
+highlights/palma-8.jpg | https://commons.wikimedia.org/wiki/File:S%C3%B3ller_Tren_de_S%C3%B3ller-4334.jpg | CC BY-SA 4.0 | Isiwal
+highlights/seville-11.jpg | https://commons.wikimedia.org/wiki/File:1483_wurde_mit_dem_Bau_de_Casa_de_Pilatos_begonnen._15.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/seville-12.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Cruz_de_Sevilla.jpg | CC BY-SA 3.0 | Gpedro
+highlights/seville-13.jpg | https://commons.wikimedia.org/wiki/File:Museo_del_baile_flamenco,_sevilla.jpg | CC BY 3.0 | Anual
+highlights/seville-14.jpg | https://commons.wikimedia.org/wiki/File:Bodegas_Gonz%C3%A1lez_Byass_-Jerez-P1490746.jpg | CC BY-SA 4.0 | El Pantera
+highlights/cordoba-6.jpg | https://commons.wikimedia.org/wiki/File:Calleja_de_las_Flores_(C%C3%B3rdoba,_Espa%C3%B1a).jpg | CC BY-SA 2.0 | Olivier Bruchez
+highlights/cordoba-7.jpg | https://commons.wikimedia.org/wiki/File:Medina_Azahara_2009-08-07a.jpg | CC BY-SA 4.0 | Rabe!
+highlights/granada-13.jpg | https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/malaga-8.jpg | https://commons.wikimedia.org/wiki/File:Teatro_romano,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_11.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/malaga-9.jpg | https://commons.wikimedia.org/wiki/File:Mercado_Central_de_Atarazanas,_vidriera.jpg | CC BY-SA 4.0 | Mentxuwiki
+highlights/malaga-10.jpg | https://commons.wikimedia.org/wiki/File:Caminito_del_Rey,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-18,_DD_28.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/ronda-4.jpg | https://commons.wikimedia.org/wiki/File:Casa_del_Rey_Moro.jpg | CC BY 2.0 | cloudsoup
+highlights/ronda-6.jpg | https://commons.wikimedia.org/wiki/File:Setenil_de_las_Bodegas_-_Wallpaper.jpg | CC BY-SA 4.0 | Wiki2Fred
+highlights/bilbao-6.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Ribera.jpg | CC BY-SA 4.0 | PA
+highlights/bilbao-7.jpg | https://commons.wikimedia.org/wiki/File:Funicular_de_Artxanda_2018.jpg | CC0 | Marco Almbauer
+highlights/bilbao-8.jpg | https://commons.wikimedia.org/wiki/File:San_juan_de_gaztelugatxe,_Bilbao_(Unsplash).jpg | CC0 | Nuri Lopez bartalamus
+highlights/san-sebastian-6.jpg | https://commons.wikimedia.org/wiki/File:Monte_Igueldo,_San_Sebastian.jpg | CC0 | Marco Almbauer
+highlights/san-sebastian-7.jpg | https://commons.wikimedia.org/wiki/File:El_Peine_del_Viento_(pasado_y_futuro)_-_San_sebastian_01.jpg | CC BY-SA 4.0 | Javier Perez Montes
+highlights/san-sebastian-8.jpg | https://commons.wikimedia.org/wiki/File:Getaria,_Euskal_Herria..jpg | CC BY 3.0 es | Mikel Arrazola
+highlights/santiago-6.jpg | https://commons.wikimedia.org/wiki/File:Santiago_de_Compostela_-_Mercado_de_Abastos_-_01.jpg | CC BY-SA 4.0 | Xosema
+highlights/santiago-7.jpg | https://commons.wikimedia.org/wiki/File:Cubiertas_catedral_Santiago_(7983279462).jpg | CC BY 2.0 | amaianos from Galicia
+highlights/barcelona-27.jpg | https://commons.wikimedia.org/wiki/File:Museu_de_la_Xocolata_de_Barcelona_fa%C3%A7ana.JPG | CC BY-SA 3.0 | Kippelboy
