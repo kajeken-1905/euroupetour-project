@@ -59,11 +59,23 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'bayeux',
       tip: '생라자르역에서 기차로 약 2시간 10분입니다. 대성당과 구시가를 보고 노르망디 상륙 해변(오마하 해변, 미군 묘지)은 현지 투어로 다녀옵니다. 태피스트리 박물관은 2027년 10월 재개관 예정이라 지금은 볼 수 없습니다.|About 2 hr 10 by train from Saint-Lazare. The cathedral and old town, then a local tour to the D-Day beaches (Omaha Beach, the American Cemetery); the Tapestry museum is closed until its planned reopening in October 2027.',
     },
+    {
+      to: 'lille',
+      tip: 'TGV로 약 1시간. 그랑 플라스와 비유 릴, 미술관을 봅니다.|About 1 hr by TGV: the Grand Place, Vieux-Lille and the art museum.',
+    },
+    {
+      to: 'blois',
+      tip: '기차로 약 1시간 30분. 블루아 왕성과 마술의 집을 봅니다.|About 1 hr 30 by train: the royal château and the House of Magic.',
+    },
   ],
   lyon: [
     {
       to: 'annecy',
       tip: '호수와 운하가 흐르는 구시가를 걷습니다. 왕복 4시간이 걸려 하루가 꽉 찹니다.|Lakeside walks and the canal-side old town; about four hours there and back makes a full day.',
+    },
+    {
+      to: 'grenoble',
+      tip: '기차로 약 1시간 20분. 구슬 케이블카로 바스티유 요새에 오릅니다.|About 1 hr 20 by train: ride the bubble cable car to the Bastille.',
     },
   ],
   marseille: [
@@ -172,6 +184,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'carcassonne',
       tip: '성벽 안 시테와 콩탈 성을 보고, 아랫마을과 미디 운하를 걷습니다.|The walled Cité and the castle, then the lower town and the Canal du Midi.',
+    },
+    {
+      to: 'albi',
+      tip: '기차로 약 1시간. 벽돌 대성당과 툴루즈 로트레크 미술관을 봅니다.|About 1 hr by train: the brick cathedral and the Toulouse-Lautrec museum.',
+    },
+    {
+      to: 'lourdes',
+      tip: '기차로 약 1시간 50분. 마사비엘 동굴과 대성당, 밤 촛불 행렬을 봅니다.|About 1 hr 50 by train: the grotto, the basilicas and the evening procession.',
     },
   ],
   perpignan: [
@@ -1595,6 +1615,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'colmar',
       tip: '쁘띠트 베니스 운하와 운터린덴 미술관을 보고, 버스로 에기스하임이나 리크비르 같은 와인 마을에 들릅니다. 미술관은 화요일 휴관입니다.|The Petite Venise canals and the Unterlinden Museum, then a bus to a wine village such as Eguisheim or Riquewihr; the museum is closed on Tuesdays.',
+    },
+    {
+      to: 'nancy',
+      tip: '기차로 약 1시간 25분. 스타니슬라스 광장과 아르누보 박물관을 봅니다.|About 1 hr 25 by train: Place Stanislas and the Art Nouveau museum.',
     },
   ],
   basel: [

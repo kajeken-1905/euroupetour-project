@@ -3994,6 +3994,164 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  lille: {
+    modes: ['walk', 'metro', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 무인 지하철 2개 노선과 트램이 루베 등 근교로 이어집니다.',
+      en: 'Walk the old town; two driverless metro lines and trams run out to Roubaix and beyond.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  nantes: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고 트램이 역과 시내를 잇습니다. 레 마신 드 릴은 낭트섬에 있습니다.',
+      en: 'Walk the centre; trams link the station and town, and the Machines are on the Île de Nantes.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  quimper: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 콩카르노와 퐁타벤은 지역 버스로 갑니다.',
+      en: 'Walk the old town; regional buses go to Concarneau and Pont-Aven.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  blois: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 샹보르·슈베르니 성은 계절 셔틀버스나 차, 자전거로 갑니다.',
+      en: 'Walk the town; seasonal shuttles, cars or bikes reach Chambord and Cheverny.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  nancy: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '광장과 구시가는 걸어서 다닙니다. 낭시파 박물관은 버스로 갑니다.',
+      en: 'Walk the squares and old town; take a bus to the École de Nancy museum.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  grenoble: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니거나 트램을 탑니다.',
+      en: 'Walk the centre or take the tram.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'clermont-ferrand': {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고 트램이 역과 시내를 잇습니다.',
+      en: 'Walk the old town; the tram links the station and centre.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'le-puy-en-velay': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 언덕길이 가파릅니다.',
+      en: 'Walk the town; the streets are steep.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  sarlat: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 라스코와 강가 마을은 대중교통이 드물어 차나 투어가 편합니다.',
+      en: 'Walk the old town; Lascaux and the river villages are best by car or on a tour.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  rocamadour: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고 절벽 위아래는 엘리베이터와 경사 열차가 잇습니다. 역과 파디라크는 택시나 차로 갑니다.',
+      en: 'Walk the village; lifts and an inclined railway link the levels. Take a taxi or car to the station and Padirac.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  albi: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  'saint-jean-pied-de-port': {
+    modes: ['walk', 'train', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 바욘에서 지역 열차로 약 1시간 20분입니다.',
+      en: 'Walk the village; regional trains take about 1 hr 20 from Bayonne.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  pau: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니고 역과 대로 사이는 무료 푸니쿨라를 탑니다.',
+      en: 'Walk the centre; the free funicular links the station and boulevard.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  lourdes: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '성역과 시내는 걸어서 다닙니다. 가바르니는 차나 여름 버스로 갑니다.',
+      en: 'Walk the sanctuary and town; Gavarnie is by car or summer bus.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  bastia: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 코르시카 철도가 코르테·아작시오로 이어지고 카프 코르스는 차가 편합니다.',
+      en: 'Walk the town; the Corsican railway runs to Corte and Ajaccio, and Cap Corse is easiest by car.',
+    },
+    apps: [
+    ],
+  },
+  corte: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 코르시카 철도가 아작시오·바스티아로 이어집니다.',
+      en: 'Walk the town; the Corsican railway runs to Ajaccio and Bastia.',
+    },
+    apps: [
+    ],
+  },
   reims: {
     modes: ['train', 'tram', 'walk'],
     howTo: {

@@ -1,0 +1,338 @@
+{
+"lille-h1": [
+"Grand Place Lille",
+"Grand Place"
+],
+"lille-h2": [
+"Vieille Bourse Lille",
+"Vieille Bourse"
+],
+"lille-h3": [
+"Vieux-Lille",
+"Vieux-Lille"
+],
+"lille-h4": [
+"Citadelle de Lille",
+"Citadelle de Lille"
+],
+"lille-h5": [
+"Palais des Beaux-Arts de Lille",
+"Palais des Beaux-Arts"
+],
+"lille-h6": [
+"La Piscine Roubaix",
+"La Piscine (Roubaix)"
+],
+"nantes-h1": [
+"Château des ducs de Bretagne",
+"Château des ducs de Bretagne"
+],
+"nantes-h2": [
+"Cathédrale Saint-Pierre-et-Saint-Paul de Nantes",
+"Nantes Cathedral"
+],
+"nantes-h3": [
+"Passage Pommeraye",
+"Passage Pommeraye"
+],
+"nantes-h4": [
+"Les Machines de l'île",
+"Les Machines de l’île"
+],
+"nantes-h5": [
+"Musée Jules Verne Nantes",
+"Musée Jules Verne"
+],
+"nantes-h6": [
+"Musée du Vignoble Nantais",
+"Muscadet vineyards"
+],
+"quimper-h1": [
+"Cathédrale Saint-Corentin",
+"Quimper Cathedral"
+],
+"quimper-h2": [
+"Place au Beurre Quimper",
+"Old town"
+],
+"quimper-h3": [
+"Musée départemental breton",
+"Musée départemental breton"
+],
+"quimper-h4": [
+"Faïencerie Henriot Quimper",
+"Faïencerie Henriot-Quimper"
+],
+"quimper-h5": [
+"Ville Close Concarneau",
+"Ville Close, Concarneau"
+],
+"quimper-h6": [
+"Pont-Aven",
+"Pont-Aven"
+],
+"blois-h1": [
+"Château royal de Blois",
+"Royal Château of Blois"
+],
+"blois-h2": [
+"Maison de la Magie Blois",
+"Maison de la Magie"
+],
+"blois-h3": [
+"Cathédrale Saint-Louis de Blois",
+"Blois Cathedral"
+],
+"blois-h4": [
+"Escalier Denis Papin Blois",
+"Denis-Papin steps & old town"
+],
+"blois-h5": [
+"Château de Cheverny",
+"Château de Cheverny"
+],
+"nancy-h1": [
+"Place Stanislas",
+"Place Stanislas"
+],
+"nancy-h2": [
+"Place de la Carrière Nancy",
+"Place de la Carrière"
+],
+"nancy-h3": [
+"Musée des Beaux-Arts de Nancy",
+"Musée des Beaux-Arts de Nancy"
+],
+"nancy-h4": [
+"Musée de l'École de Nancy",
+"Musée de l’École de Nancy"
+],
+"nancy-h5": [
+"Parc de la Pépinière",
+"Parc de la Pépinière"
+],
+"grenoble-h1": [
+"Téléphérique Grenoble Bastille",
+"Grenoble-Bastille cable car"
+],
+"grenoble-h2": [
+"Musée de Grenoble",
+"Musée de Grenoble"
+],
+"grenoble-h3": [
+"Place Saint-André Grenoble",
+"Place Saint-André & old town"
+],
+"grenoble-h4": [
+"Musée Dauphinois",
+"Musée Dauphinois"
+],
+"grenoble-h5": [
+"Caves de la Chartreuse Voiron",
+"Caves de la Chartreuse"
+],
+"clermont-ferrand-h1": [
+"Cathédrale Notre-Dame-de-l'Assomption de Clermont-Ferrand",
+"Clermont Cathedral"
+],
+"clermont-ferrand-h2": [
+"Basilique Notre-Dame-du-Port",
+"Notre-Dame-du-Port"
+],
+"clermont-ferrand-h3": [
+"Place de Jaude",
+"Place de Jaude"
+],
+"clermont-ferrand-h4": [
+"L'Aventure Michelin",
+"L’Aventure Michelin"
+],
+"clermont-ferrand-h5": [
+"Panoramique des Dômes",
+"Puy de Dôme"
+],
+"le-puy-en-velay-h1": [
+"Rocher Saint-Michel d'Aiguilhe",
+"Saint-Michel d’Aiguilhe"
+],
+"le-puy-en-velay-h2": [
+"Cathédrale Notre-Dame du Puy",
+"Le Puy Cathedral"
+],
+"le-puy-en-velay-h3": [
+"Statue Notre-Dame de France Le Puy",
+"Notre-Dame de France statue"
+],
+"le-puy-en-velay-h4": [
+"Atelier Conservatoire National de la Dentelle Le Puy",
+"Lace workshop"
+],
+"sarlat-h1": [
+"Place de la Liberté Sarlat",
+"Sarlat old town"
+],
+"sarlat-h2": [
+"Marché de Sarlat",
+"Sarlat market"
+],
+"sarlat-h3": [
+"Cathédrale Saint-Sacerdos Sarlat",
+"Cathedral & Lanterne des Morts"
+],
+"sarlat-h4": [
+"Lascaux IV",
+"Lascaux IV"
+],
+"sarlat-h5": [
+"Château de Beynac",
+"Beynac & La Roque-Gageac"
+],
+"sarlat-h6": [
+"Jardins de Marqueyssac",
+"Jardins de Marqueyssac"
+],
+"rocamadour-h1": [
+"Sanctuaire de Rocamadour",
+"Sanctuaries & Great Stairway"
+],
+"rocamadour-h2": [
+"Chapelle Notre-Dame Rocamadour",
+"Chapelle Notre-Dame"
+],
+"rocamadour-h3": [
+"Château de Rocamadour",
+"Castle ramparts"
+],
+"rocamadour-h4": [
+"L'Hospitalet Rocamadour",
+"L’Hospitalet viewpoint"
+],
+"rocamadour-h5": [
+"Gouffre de Padirac",
+"Gouffre de Padirac"
+],
+"albi-h1": [
+"Cathédrale Sainte-Cécile d'Albi",
+"Albi Cathedral"
+],
+"albi-h2": [
+"Musée Toulouse-Lautrec",
+"Musée Toulouse-Lautrec"
+],
+"albi-h3": [
+"Jardins du Palais de la Berbie",
+"Berbie Palace gardens"
+],
+"albi-h4": [
+"Pont-Vieux Albi",
+"Pont-Vieux & the Tarn"
+],
+"albi-h5": [
+"Cordes-sur-Ciel",
+"Cordes-sur-Ciel"
+],
+"saint-jean-pied-de-port-h1": [
+"Rue de la Citadelle Saint-Jean-Pied-de-Port",
+"Rue de la Citadelle"
+],
+"saint-jean-pied-de-port-h2": [
+"Citadelle de Saint-Jean-Pied-de-Port",
+"Citadel"
+],
+"saint-jean-pied-de-port-h3": [
+"Église Notre-Dame-du-Bout-du-Pont",
+"Notre-Dame church & Nive bridge"
+],
+"saint-jean-pied-de-port-h4": [
+"Prison des Évêques Saint-Jean-Pied-de-Port",
+"Prison des Évêques"
+],
+"saint-jean-pied-de-port-h5": [
+"Cave d'Irouléguy",
+"Irouléguy wine"
+],
+"pau-h1": [
+"Château de Pau",
+"Château de Pau"
+],
+"pau-h2": [
+"Boulevard des Pyrénées",
+"Boulevard des Pyrénées"
+],
+"pau-h3": [
+"Funiculaire de Pau",
+"Pau funicular"
+],
+"pau-h4": [
+"Musée des Beaux-Arts de Pau",
+"Musée des Beaux-Arts de Pau"
+],
+"pau-h5": [
+"Jurançon",
+"Jurançon wine route"
+],
+"lourdes-h1": [
+"Grotte de Massabielle",
+"Grotto of Massabielle & sanctuary"
+],
+"lourdes-h2": [
+"Basilique de l'Immaculée-Conception Lourdes",
+"Upper Basilica & Rosary Basilica"
+],
+"lourdes-h3": [
+"Esplanade du Rosaire Lourdes",
+"Torchlight procession"
+],
+"lourdes-h4": [
+"Château fort de Lourdes",
+"Château fort de Lourdes"
+],
+"lourdes-h5": [
+"Funiculaire du Pic du Jer",
+"Pic du Jer"
+],
+"lourdes-h6": [
+"Cirque de Gavarnie",
+"Cirque de Gavarnie"
+],
+"bastia-h1": [
+"Vieux-Port de Bastia",
+"Vieux-Port"
+],
+"bastia-h2": [
+"Palais des Gouverneurs Bastia",
+"Citadel & Governors’ Palace"
+],
+"bastia-h3": [
+"Place Saint-Nicolas Bastia",
+"Place Saint-Nicolas"
+],
+"bastia-h4": [
+"Église Saint-Jean-Baptiste Bastia",
+"Église Saint-Jean-Baptiste"
+],
+"bastia-h5": [
+"Cap Corse",
+"Cap Corse"
+],
+"bastia-h6": [
+"Patrimonio",
+"Patrimonio wine"
+],
+"corte-h1": [
+"Musée de la Corse Corte",
+"Citadel & Museu di a Corsica"
+],
+"corte-h2": [
+"Place Paoli Corte",
+"Upper town & Place Paoli"
+],
+"corte-h3": [
+"Belvédère de Corte",
+"Belvédère"
+],
+"corte-h4": [
+"Gorges de la Restonica",
+"Restonica valley"
+]
+}

@@ -284,6 +284,22 @@
 "ko": "트룰리 마을의 오래된 레스토랑. 와인 스펙테이터 그랜드 어워드를 받은 방대한 와인 리스트가 있습니다.",
 "ok": 1
 },
+"albi-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"albi-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"albi-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"albi-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "alesund-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps"
@@ -1409,6 +1425,26 @@
 "ko": "만두·비빔밥·바비큐 등 한국 요리를 내는 바젤의 한식당.",
 "ok": 1
 },
+"bastia-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"bastia-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"bastia-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"bastia-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"bastia-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "bath-bakery-1": {
 "del": 1
 },
@@ -2039,6 +2075,30 @@
 },
 "bled-fine_dining-3": {
 "ok": 1
+},
+"blois-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"blois-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"blois-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"blois-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"blois-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"blois-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "bohinj-bakery-1": {
 "ok": 1,
@@ -3490,6 +3550,34 @@
 "cinque-terre-fine_dining-2": {
 "ok": 1
 },
+"clermont-ferrand-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"clermont-ferrand-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"clermont-ferrand-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"clermont-ferrand-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"clermont-ferrand-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"clermont-ferrand-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"clermont-ferrand-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "cluj-napoca-bakery-1": {
 "del": "branch unconfirmable"
 },
@@ -3814,6 +3902,22 @@
 "en": "Seafood restaurant on Oliver Plunkett Street, listed in the MICHELIN Guide.",
 "ko": "올리버 플렁킷 거리의 해산물 레스토랑. 미쉐린 가이드에 실려 있습니다.",
 "ok": 1
+},
+"corte-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"corte-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"corte-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"corte-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "cortina-bakery-1": {
 "ok": 1
@@ -5968,6 +6072,34 @@
 "ko": "슐로스베르크 위의 레스토랑. 유리벽 너머로 그라츠 지붕이 내려다보이고 예약을 권합니다.",
 "ok": 1
 },
+"grenoble-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"grenoble-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"grenoble-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"grenoble-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"grenoble-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"grenoble-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"grenoble-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "grindelwald-bakery-1": {
 "del": 1
 },
@@ -7974,6 +8106,22 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"le-puy-en-velay-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"le-puy-en-velay-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"le-puy-en-velay-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"le-puy-en-velay-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "lecce-bakery-1": {
 "ok": 1
 },
@@ -8192,6 +8340,38 @@
 "levoca-fine_dining-3": {
 "ok": 1,
 "src": "2026-11-04 google maps"
+},
+"lille-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lille-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "limassol-bakery-1": {
 "cat": "cafe",
@@ -8672,6 +8852,22 @@
 "en": "Tiny Korean café near Tottenham Court Road, known for bibimbap and gimbap.",
 "ko": "토트넘 코트 로드 근처의 작은 한식 분식집. 비빔밥·김밥이 인기입니다.",
 "ok": 1
+},
+"lourdes-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lourdes-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lourdes-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"lourdes-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "lubeck-bakery-1": {
 "ok": 1,
@@ -10243,6 +10439,58 @@
 "ko": "구시가 남쪽 조용한 골목의 가족 운영 식당. 그리스 가정식과 해산물에 창의적인 손길을 더합니다.",
 "ok": 1
 },
+"nancy-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nancy-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nancy-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nancy-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"nantes-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "naples-bakery-1": {
 "ok": 1
 },
@@ -11528,6 +11776,26 @@
 "pas-de-la-casa-fine_dining-1": {
 "ok": 1
 },
+"pau-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pau-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pau-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pau-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pau-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "pecs-bakery-1": {
 "addr": "Citrom utca 5-7, 7621 Pécs",
 "en": "Confectioner in business since 1985, known for Italian-style craft ice cream and family-made sweets.",
@@ -12404,6 +12672,34 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"quimper-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"quimper-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"quimper-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"quimper-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"quimper-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"quimper-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"quimper-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "ragusa-bakery-1": {
 "ok": 1,
 "src": "2026-11-07 google maps / michelin 2026"
@@ -12688,6 +12984,22 @@
 },
 "riga-korean-1": {
 "ok": 1
+},
+"rocamadour-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"rocamadour-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"rocamadour-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"rocamadour-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "rome-bakery-1": {
 "del": 1
@@ -13104,6 +13416,22 @@
 "rudesheim-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"saint-jean-pied-de-port-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"saint-jean-pied-de-port-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"saint-jean-pied-de-port-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"saint-jean-pied-de-port-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "saint-malo-bakery-1": {
 "ok": 1,
@@ -13550,6 +13878,26 @@
 "sark-fine_dining-2": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"sarlat-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"sarlat-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"sarlat-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"sarlat-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"sarlat-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "schaan-bakery-1": {
 "del": "Bäckerei Gassner Schaan: no source gives a street address"

@@ -5589,5 +5589,425 @@
     41.38788,
     9.15822,
     "OSM Nominatim: Citadelle, Bonifacio"
+  ],
+  "lille-h1": [
+    50.63689,
+    3.06474,
+    "OSM Nominatim: Place du Général de Gaulle (Grand Place), Lille"
+  ],
+  "lille-h2": [
+    50.63705,
+    3.06402,
+    "OSM Nominatim: Vieille Bourse, Galerie du Campanile, Euralille, Lille-Centr"
+  ],
+  "lille-h3": [
+    50.64415,
+    3.06034,
+    "OSM Nominatim: Vieux-Lille, Lille, Nord, Hauts-de-France, France métropolit"
+  ],
+  "lille-h4": [
+    50.64136,
+    3.04439,
+    "OSM Nominatim: Citadelle de Lille, Esplanade du Champ de Mars, Vauban-Esque (Wikipedia 28m)"
+  ],
+  "lille-h5": [
+    50.63046,
+    3.06281,
+    "OSM Nominatim: Palais des Beaux-Arts, Rue Gauthier de Châtillon, Euralille,"
+  ],
+  "lille-h6": [
+    50.69251,
+    3.16795,
+    "OSM Nominatim: La Piscine, 23, Rue de l'Espérance, L'Épeule, Nations Unies,"
+  ],
+  "nantes-h1": [
+    47.21612,
+    -1.54931,
+    "OSM Nominatim: Château des Ducs de Bretagne, 4, Place Marc Elder, Cathédral (Wikipedia 61m)"
+  ],
+  "nantes-h2": [
+    47.21837,
+    -1.55018,
+    "OSM Nominatim: Cathédrale Saint-Pierre-et-Saint-Paul, Rue de l'Évêché, Cath (Wikipedia 63m)"
+  ],
+  "nantes-h3": [
+    47.21346,
+    -1.55944,
+    "OSM Nominatim: Passage Pommeraye, Rue Régnier, Commerce, Graslin - Commerce (Wikipedia 26m)"
+  ],
+  "nantes-h4": [
+    47.206,
+    -1.56434,
+    "OSM Nominatim: Les Machines de l’Île, Parvis des Nefs, Sainte-Anne - Zone p"
+  ],
+  "nantes-h5": [
+    47.20163,
+    -1.57735,
+    "OSM Nominatim: Musée Jules Verne, Rue de l'Hermitage, Sainte-Anne, Salorges (Wikipedia 2m)"
+  ],
+  "nantes-h6": [
+    47.13448,
+    -1.33003,
+    "OSM Nominatim: Musée du Vignoble Nantais, Rue Pierre Abélard, Le Bourg, San"
+  ],
+  "quimper-h1": [
+    47.99562,
+    -4.10223,
+    "OSM Nominatim: Cathédrale Saint-Corentin, Place Saint-Corentin, Le Cap Horn (Wikipedia 7m)"
+  ],
+  "quimper-h2": [
+    47.99688,
+    -4.10322,
+    "OSM Nominatim: Place-au-Beurre, Le Cap Horn, La Tourelle, Quimper, Finistèr"
+  ],
+  "quimper-h3": [
+    47.99527,
+    -4.10254,
+    "OSM Nominatim: Musée Départemental Breton, 1, Rue du Roi Gradlon, Le Cap Ho"
+  ],
+  "quimper-h4": [
+    47.98891,
+    -4.11197,
+    "OSM Nominatim: Faïencerie HB-Henriot, Rue du Chanoine Moreau, Rozmaria, Le "
+  ],
+  "quimper-h5": [
+    47.87281,
+    -3.91376,
+    "OSM Nominatim: Ville Close, Kercorre, Concarneau, Quimper, Finistère, Breta"
+  ],
+  "quimper-h6": [
+    47.85474,
+    -3.74626,
+    "OSM Nominatim: Pont-Aven, Quimper, Finistère, Bretagne, France métropolitai (Wikipedia 188m)"
+  ],
+  "blois-h1": [
+    47.58559,
+    1.33024,
+    "OSM Nominatim: Château Royal de Blois, Place du Château, Château-Commerce, "
+  ],
+  "blois-h2": [
+    47.58643,
+    1.33313,
+    "OSM Nominatim: Maison de la Magie, Place du Château, Château-Commerce, Cent"
+  ],
+  "blois-h3": [
+    47.5885,
+    1.33651,
+    "OSM Nominatim: Cathédrale Saint-Louis, 7 bis, Place Saint-Louis, Cathédrale"
+  ],
+  "blois-h4": [
+    47.58784,
+    1.33341,
+    "OSM Nominatim: Escalier Denis Papin, Cathédrale, Centre, Blois, Loir-et-Che"
+  ],
+  "blois-h5": [
+    47.50023,
+    1.45802,
+    "OSM Nominatim: Château de Cheverny, Avenue du Château, Le Bourg, Cheverny,  (Wikipedia 6m)"
+  ],
+  "nancy-h1": [
+    48.69352,
+    6.18329,
+    "OSM Nominatim: Place Stanislas, Centre Ville, Charles III, Nancy, Meurthe-e (Wikipedia 19m)"
+  ],
+  "nancy-h2": [
+    48.69574,
+    6.18176,
+    "OSM Nominatim: Place de la Carrière, Léopold, Ville Vieille, Nancy, Meurthe"
+  ],
+  "nancy-h3": [
+    48.69366,
+    6.1819,
+    "OSM Nominatim: Musée des Beaux-Arts, Rue Gustave Simon, Léopold, Ville Viei (Wikipedia 41m)"
+  ],
+  "nancy-h4": [
+    48.68055,
+    6.16608,
+    "OSM Nominatim: Musée de l'École de Nancy, Rue du Sergent Blandan, Haussonvi"
+  ],
+  "nancy-h5": [
+    48.69786,
+    6.18473,
+    "OSM Nominatim: Parc de la Pépinière, Léopold, Ville Vieille, Nancy, Meurthe"
+  ],
+  "grenoble-h2": [
+    45.19497,
+    5.73225,
+    "OSM Nominatim: Musée de Grenoble, 5, Place de Lavalette, Hyper Centre, Sect (Wikipedia 54m)"
+  ],
+  "grenoble-h3": [
+    45.19301,
+    5.72827,
+    "OSM Nominatim: Place Saint-André, Hyper Centre, Secteur 2, Grenoble, Isère,"
+  ],
+  "grenoble-h4": [
+    45.19516,
+    5.72707,
+    "OSM Nominatim: Musée Dauphinois, 30, Rue Maurice Gignoux, Notre-Dame, Secte (Wikipedia 31m)"
+  ],
+  "clermont-ferrand-h1": [
+    45.77873,
+    3.08583,
+    "OSM Nominatim: Cathédrale Notre-Dame-de-l'Assomption, Place de la Victoire, (Wikipedia 5m)"
+  ],
+  "clermont-ferrand-h2": [
+    45.78068,
+    3.08963,
+    "OSM Nominatim: Basilique Notre-Dame-du-Port, Place Notre-Dame-du-Port, Les "
+  ],
+  "clermont-ferrand-h3": [
+    45.77641,
+    3.08214,
+    "OSM Nominatim: Place de Jaude, Ballainvilliers, Bonnabaud, Plateau central, (Wikipedia 21m)"
+  ],
+  "clermont-ferrand-h4": [
+    45.79055,
+    3.1055,
+    "OSM Nominatim: L'Aventure Michelin, Rue du Clos Four, Saint-Jean, Montferra"
+  ],
+  "clermont-ferrand-h5": [
+    45.77351,
+    2.99106,
+    "OSM Nominatim: Panoramique des Dômes, Chemin de Couleyras, Orcines, Clermon"
+  ],
+  "le-puy-en-velay-h1": [
+    45.05009,
+    3.88276,
+    "OSM Nominatim: Saint-Michel d'Aiguilhe, Rue du Rocher, Aiguilhe, Le Puy-en-"
+  ],
+  "le-puy-en-velay-h2": [
+    45.04559,
+    3.88471,
+    "OSM Nominatim: Cathédrale Notre-Dame du Puy, 2, Rue de la Manécanterie, Le  (Wikipedia 3m)"
+  ],
+  "le-puy-en-velay-h3": [
+    45.04727,
+    3.88521,
+    "OSM Nominatim: Statue de Notre-Dame de France, Rue du Cloître, Le Puy-en-Ve"
+  ],
+  "sarlat-h1": [
+    44.88987,
+    1.21677,
+    "OSM Nominatim: Place de la Liberté, Le Colombier, Le Moulin à Vent, Sarlat-"
+  ],
+  "sarlat-h2": [
+    44.89039,
+    1.21633,
+    "OSM Nominatim: Place du Marché aux Oies, Sarlat (market)"
+  ],
+  "sarlat-h3": [
+    44.88877,
+    1.21707,
+    "OSM Nominatim: Cathédrale Saint-Sacerdos, Place du Peyrou, Le Colombier, Le"
+  ],
+  "sarlat-h4": [
+    45.05789,
+    1.16952,
+    "OSM Nominatim: Lascaux IV, 42, Avenue de Lascaux, Montignac-Lascaux, Sarlat (Wikipedia 477m)"
+  ],
+  "sarlat-h5": [
+    44.84014,
+    1.14553,
+    "OSM Nominatim: Château de Beynac, Place du Château de Beynac, La Porte, Bey"
+  ],
+  "sarlat-h6": [
+    44.82648,
+    1.17079,
+    "OSM Nominatim: Jardins de Marqueyssac, 880, La Malartrie, Castelnaud, Vézac (Wikipedia 694m)"
+  ],
+  "rocamadour-h2": [
+    44.79945,
+    1.6175,
+    "OSM Nominatim: Chapelle Notre-Dame de Rocamadour, Parvis des Eglises, Rocam"
+  ],
+  "rocamadour-h3": [
+    44.79938,
+    1.61723,
+    "OSM Nominatim: Château de Rocamadour, Rue de la Mercerie, Rocamadour, Gourd"
+  ],
+  "rocamadour-h4": [
+    44.80492,
+    1.62665,
+    "OSM Nominatim: L'Hospitalet, Rocamadour, Gourdon, Lot, Occitanie, France mé"
+  ],
+  "rocamadour-h5": [
+    44.8582,
+    1.75039,
+    "OSM Nominatim: Gouffre de Padirac, Route du Puits au Salvage, Padirac, Gour (Wikipedia 26m)"
+  ],
+  "albi-h1": [
+    43.92852,
+    2.14256,
+    "OSM Nominatim: Cathédrale Sainte-Cécile d'Albi, Place de la Trébaille, Le L"
+  ],
+  "albi-h2": [
+    43.92934,
+    2.14287,
+    "OSM Nominatim: Musée Toulouse-Lautrec, Promenade du Tarn, Le Lude, Albi, Ta (Wikipedia 24m)"
+  ],
+  "albi-h4": [
+    43.93121,
+    2.14456,
+    "OSM Nominatim: Pont Vieux, Albi, Tarn, Occitanie, France métropolitaine, 81"
+  ],
+  "albi-h5": [
+    44.0626,
+    1.95799,
+    "OSM Nominatim: Cordes-sur-Ciel, Albi, Tarn, Occitanie, France métropolitain (Wikipedia 404m)"
+  ],
+  "saint-jean-pied-de-port-h1": [
+    43.16237,
+    -1.23722,
+    "OSM Nominatim: Rue de la Citadelle, Nafarroa Beherea, Larroinea, Saint-Jean"
+  ],
+  "saint-jean-pied-de-port-h2": [
+    43.16237,
+    -1.23395,
+    "OSM Nominatim: Citadelle de Saint Jean Pied de Port, Allée d'Eyheraberry, N"
+  ],
+  "saint-jean-pied-de-port-h3": [
+    43.29061,
+    -0.38023,
+    "OSM Nominatim: Église Notre-Dame-du-Bout-du-Pont, Rue Marcel Barthe, XIV Ju"
+  ],
+  "saint-jean-pied-de-port-h4": [
+    43.16373,
+    -1.23565,
+    "OSM Nominatim: Prison des Evêques, 41, Rue de la Citadelle, Nafarroa Behere"
+  ],
+  "saint-jean-pied-de-port-h5": [
+    43.18376,
+    -1.33417,
+    "OSM Nominatim: Cave d'Irouleguy, 255, Sotoko bidea, Nafarroa Beherea, Leizp"
+  ],
+  "pau-h1": [
+    43.2948,
+    -0.37583,
+    "OSM Nominatim: Château de Pau, Place de la Déportation, Quartier du Hédas,  (Wikipedia 68m)"
+  ],
+  "pau-h2": [
+    43.29338,
+    -0.36788,
+    "OSM Nominatim: Boulevard des Pyrénées, Quartier du Hédas, Centre Ville, Pau (Wikipedia 71m)"
+  ],
+  "pau-h3": [
+    43.29313,
+    -0.37075,
+    "OSM Nominatim: Funiculaire de Pau, Sentiers du Roy, Centre Ville, Pau, Pyré"
+  ],
+  "pau-h4": [
+    43.29773,
+    -0.36439,
+    "OSM Nominatim: Musée des Beaux-Arts, Rue Mathieu Lalanne, Quartier du Hédas (Wikipedia 4m)"
+  ],
+  "pau-h5": [
+    43.28718,
+    -0.38964,
+    "OSM Nominatim: Jurançon, Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine, Fra"
+  ],
+  "lourdes-h1": [
+    43.09754,
+    -0.05852,
+    "OSM Nominatim: Grotte de Massabielle, Avenue Monseigneur Théas, Lourdes, Ar"
+  ],
+  "lourdes-h2": [
+    43.09742,
+    -0.05828,
+    "OSM Nominatim: Basilique de l'Immaculée Conception, Avenue Monseigneur Théa"
+  ],
+  "lourdes-h4": [
+    43.09654,
+    -0.0491,
+    "OSM Nominatim: Château-fort de Lourdes, Sente du Fort, Lourdes, Argelès-Gaz (Wikipedia 15m)"
+  ],
+  "lourdes-h5": [
+    43.0834,
+    -0.04249,
+    "OSM Nominatim: Funiculaire du Pic du Jer, Chemin du Pic du Jer, Lourdes, Ar"
+  ],
+  "lourdes-h6": [
+    42.69574,
+    -0.0103,
+    "OSM Nominatim: Cirque de Gavarnie, Gavarnie, Gavarnie-Gèdre, Argelès-Gazost (Wikipedia 227m)"
+  ],
+  "bastia-h1": [
+    42.69622,
+    9.45,
+    "OSM Nominatim: Vieux-Port de Bastia, A Conca Marina, Bastia, Haute-Corse, C"
+  ],
+  "bastia-h2": [
+    42.69366,
+    9.45123,
+    "OSM Nominatim: Palais des Gouverneurs, A Piazzetta, Bastia, Haute-Corse, Co"
+  ],
+  "bastia-h3": [
+    42.70067,
+    9.45093,
+    "OSM Nominatim: Place Saint-Nicolas, Capanelle, Bastia, Haute-Corse, Corse, "
+  ],
+  "bastia-h4": [
+    42.69699,
+    9.45029,
+    "OSM Nominatim: Église Saint-Jean-Baptiste, Impasse Saint-Jean, Bastia, Haut"
+  ],
+  "bastia-h5": [
+    42.84897,
+    9.40324,
+    "OSM Nominatim: Cap Corse, Haute-Corse, Corse, France métropolitaine, France"
+  ],
+  "bastia-h6": [
+    42.70074,
+    9.36452,
+    "OSM Nominatim: Patrimonio, Calvi, Haute-Corse, Corse, France métropolitaine"
+  ],
+  "corte-h1": [
+    42.30666,
+    9.14813,
+    "OSM Nominatim: Citadelle de Corte (Musée de la Corse)"
+  ],
+  "corte-h2": [
+    42.30524,
+    9.15118,
+    "OSM Nominatim: Place Paoli, Pilusellu, Faubourg Scarafaglie, Corte, Haute-C"
+  ],
+  "corte-h3": [
+    42.30386,
+    9.14854,
+    "OSM Overpass: Belvédère, Corte"
+  ],
+  "corte-h4": [
+    42.24828,
+    9.05657,
+    "OSM Nominatim: Gorges de la Restonica, Route de la Restonica, Corte, Haute-"
+  ],
+  "grenoble-h1": [
+    45.19288,
+    5.72524,
+    "OSM Nominatim: Quai Stéphane Jay (Bastille cable-car station)"
+  ],
+  "grenoble-h5": [
+    45.36061,
+    5.59962,
+    "OSM Nominatim: Boulevard Edgar Kofler, Voiron (Caves de la Chartreuse)"
+  ],
+  "le-puy-en-velay-h4": [
+    45.04495,
+    3.88261,
+    "OSM Nominatim: Rue Raphaël (lace conservatory)"
+  ],
+  "rocamadour-h1": [
+    44.7993,
+    1.61757,
+    "OSM Nominatim: Grand Escalier, Rocamadour"
+  ],
+  "albi-h3": [
+    43.92963,
+    2.14266,
+    "OSM Nominatim: Jardins de la Berbie"
+  ],
+  "lourdes-h3": [
+    43.0975,
+    -0.05746,
+    "OSM Nominatim: Rosary Basilica esplanade (procession)"
   ]
 }

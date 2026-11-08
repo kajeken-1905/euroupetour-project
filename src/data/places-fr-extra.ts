@@ -392,4 +392,123 @@ export const placesFRExtra: Place[] = [
 
   // —— saint-paul-de-vence: bakeries and cafés (2026-11-04) ——
   place('saint-paul-de-vence-cafe-1', 'saint-paul-de-vence', 'cafe', 'Selah Atelier', '2 rue du Bresc, 06570 Saint-Paul-de-Vence', '성벽 마을 안의 커피숍.', 'Coffee shop inside the walled village.'),
+
+  // —— lille: restaurants, bakeries and cafés (2026-11-08) ——
+  place('lille-fine_dining-1', 'lille', 'fine_dining', 'Ginko', '70 rue de l\'Hôpital-Militaire, 59000 Lille, France', '현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine. One MICHELIN star.', { michelin: 'star1' }),
+  place('lille-fine_dining-2', 'lille', 'fine_dining', 'Pureté', '79 rue de la Monnaie, 59000 Lille, France', '비유 릴의 창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine in Vieux-Lille. One MICHELIN star.', { michelin: 'star1' }),
+  place('lille-fine_dining-3', 'lille', 'fine_dining', 'Le Restaurant du Cerisier', '14 avenue du Peuple-Belge, 59000 Lille, France', '창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine. One MICHELIN star.', { michelin: 'star1' }),
+  place('lille-fine_dining-4', 'lille', 'fine_dining', 'Sébastopol', '1 place Sébastopol, 59000 Lille, France', '세바스토폴 광장의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine on Place Sébastopol. In the MICHELIN Guide.'),
+  place('lille-bakery-1', 'lille', 'bakery', 'Méert', '27 rue Esquermoise, 59800 Lille, France', '1761년 문을 연 과자점으로, 바닐라 크림을 넣은 얇은 와플이 명물입니다.', 'The pâtisserie founded in 1761, famous for its thin vanilla-filled waffles.'),
+  place('lille-bakery-2', 'lille', 'bakery', 'Boulangerie Vianney Degruson', '102 rue Saint-André, 59800 Lille, France', '비유 릴의 빵집 겸 과자점.', 'A bakery and pâtisserie in Vieux-Lille.'),
+  place('lille-cafe-1', 'lille', 'cafe', 'Terres de Café', '6 rue de la Monnaie, 59800 Lille, France', '비유 릴의 스페셜티 커피 카페.', 'A specialty coffee café in Vieux-Lille.'),
+  place('lille-cafe-2', 'lille', 'cafe', 'Elizabeth\'s', '71 rue Basse, 59800 Lille, France', '비유 릴의 영국식 티룸.', 'An English-style tea room in Vieux-Lille.'),
+
+  // —— nantes: restaurants, bakeries and cafés (2026-11-08) ——
+  place('nantes-fine_dining-1', 'nantes', 'fine_dining', 'Les Cadets', '15 rue des Hauts-Pavés, 44000 Nantes, France', '현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine. One MICHELIN star.', { michelin: 'star1' }),
+  place('nantes-fine_dining-2', 'nantes', 'fine_dining', 'L\'Atlantide 1874 - Maison Guého', '5 rue de l\'Hermitage, 44100 Nantes, France', '루아르강이 내려다보이는 저택의 현대 요리. 미쉐린 1스타.', 'Modern cuisine in a mansion overlooking the Loire. One MICHELIN star.', { michelin: 'star1' }),
+  place('nantes-fine_dining-3', 'nantes', 'fine_dining', 'LuluRouget', '4 place Albert-Camus, 44200 Nantes, France', '낭트섬의 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine on the Île de Nantes. One MICHELIN star.', { michelin: 'star1' }),
+  place('nantes-fine_dining-4', 'nantes', 'fine_dining', 'La Mandale', '32 rue Léon-Jamin, 44000 Nantes, France', '농장 식재료를 쓰는 작은 식당. 미쉐린 빕 구르망.', 'A small farm-to-table restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('nantes-fine_dining-5', 'nantes', 'fine_dining', 'OBBO', '10 allée des Tanneurs, 44000 Nantes, France', '현대 요리 비스트로. 미쉐린 빕 구르망.', 'A modern bistro. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('nantes-bakery-1', 'nantes', 'bakery', 'La Petite Boulangerie', '1 place Saint-Félix, 44000 Nantes, France', '동네 빵집.', 'A neighbourhood bakery.'),
+  place('nantes-bakery-2', 'nantes', 'bakery', 'ArnO Boulangerie', '16 rue de Verdun, 44000 Nantes, France', '구시가의 빵집.', 'A bakery in the old centre.'),
+  place('nantes-cafe-1', 'nantes', 'cafe', 'Madeleine Café', '7 rue Pelisson, 44000 Nantes, France', '커피 전문점.', 'A coffee shop.'),
+  place('nantes-cafe-2', 'nantes', 'cafe', 'Café Penché', '17 rue des Vieilles-Douves, 44000 Nantes, France', '구시가의 카페.', 'A café in the old centre.'),
+
+  // —— quimper: restaurants, bakeries and cafés (2026-11-08) ——
+  place('quimper-fine_dining-1', 'quimper', 'fine_dining', 'Allium', '88 boulevard de Créac\'h-Gwen, 29000 Quimper, France', '창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine. One MICHELIN star.', { michelin: 'star1' }),
+  place('quimper-fine_dining-2', 'quimper', 'fine_dining', 'Ti-Coz', '4 Hent-Koz, 29000 Quimper, France', '전통 요리 식당. 미쉐린 빕 구르망.', 'Traditional cooking. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('quimper-fine_dining-3', 'quimper', 'fine_dining', 'Éclosion', '3 rue Laennec, 29000 Quimper, France', '현대 요리 비스트로. 미쉐린 빕 구르망.', 'A modern bistro. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('quimper-fine_dining-4', 'quimper', 'fine_dining', 'Le Flaveur', '4 rue Duquesne, 29900 Concarneau, France', '콩카르노의 현대 요리 식당. 미쉐린 빕 구르망.', 'Modern cooking in Concarneau. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('quimper-fine_dining-5', 'quimper', 'fine_dining', 'Crêperie du Quartier', '16 rue du Sallé, 29000 Quimper, France', '버터 광장 옆의 크레프·갈레트 식당.', 'Crêpes and galettes beside the Place au Beurre.'),
+  place('quimper-cafe-1', 'quimper', 'cafe', 'Sélène Café', '20 rue des Boucheries, 29000 Quimper, France', '구시가의 커피 전문점 겸 식료품점.', 'A coffee shop and fine-food store in the old town.'),
+  place('quimper-cafe-2', 'quimper', 'cafe', 'Kafeenn Coffee Shop', '1 place au Beurre, 29000 Quimper, France', '버터 광장의 커피 전문점.', 'A coffee shop on the Place au Beurre.'),
+
+  // —— blois: restaurants, bakeries and cafés (2026-11-08) ——
+  place('blois-fine_dining-1', 'blois', 'fine_dining', 'Christophe Hay - Fleur de Loire', '26 quai Villebois-Mareuil, 41000 Blois, France', '루아르강 가 호텔의 현대·창의 요리. 미쉐린 2스타.', 'Modern, creative cuisine at a hotel on the Loire. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('blois-fine_dining-2', 'blois', 'fine_dining', 'Assa', '26 avenue du Maréchal-Maunoury, 41000 Blois, France', '루아르강이 보이는 창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine with Loire views. One MICHELIN star.', { michelin: 'star1' }),
+  place('blois-fine_dining-3', 'blois', 'fine_dining', 'Le Médicis', '2 allée François-1er, 41000 Blois, France', '현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine. In the MICHELIN Guide.'),
+  place('blois-bakery-1', 'blois', 'bakery', 'Boulangerie Chouquette', '2 rue Jean-de-La-Fontaine, 41000 Blois, France', '동네 빵집.', 'A neighbourhood bakery.'),
+  place('blois-bakery-2', 'blois', 'bakery', 'Boulangerie Anaïs et Renan Picart', '7 rue du Commerce, 41000 Blois, France', '구시가의 빵집 겸 과자점.', 'A bakery and pâtisserie in the old town.'),
+  place('blois-cafe-1', 'blois', 'cafe', 'Lauren\'s Coffee Shop', '10 rue Émile-Laurens, 41000 Blois, France', '커피 전문점.', 'A coffee shop.'),
+
+  // —— nancy: restaurants, bakeries and cafés (2026-11-08) ——
+  place('nancy-fine_dining-1', 'nancy', 'fine_dining', 'La Maison dans le Parc', '3 rue Sainte-Catherine, 54000 Nancy, France', '페피니에르 공원 옆 저택의 창의 요리. 미쉐린 1스타.', 'Creative cuisine in a house by the Pépinière park. One MICHELIN star.', { michelin: 'star1' }),
+  place('nancy-fine_dining-2', 'nancy', 'fine_dining', 'Le Capu', '31 rue Gambetta, 54000 Nancy, France', '현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine. In the MICHELIN Guide.'),
+  place('nancy-fine_dining-3', 'nancy', 'fine_dining', 'Transparence - La Table de Patrick Fréchin', '28 rue Stanislas, 54000 Nancy, France', '스타니슬라스 거리의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine on Rue Stanislas. In the MICHELIN Guide.'),
+  place('nancy-bakery-1', 'nancy', 'bakery', 'Boulangerie Pâtisserie Jérôme Poiré', '134 rue Saint-Dizier, 54000 Nancy, France', '시내의 빵집 겸 과자점.', 'A bakery and pâtisserie in town.'),
+
+  // —— grenoble: restaurants, bakeries and cafés (2026-11-08) ——
+  place('grenoble-fine_dining-1', 'grenoble', 'fine_dining', 'Maison Fantin Latour - Stéphane Froidevaux', '1 rue Général-de-Beylie, 38000 Grenoble, France', '화가 팡탱 라투르의 옛 저택에서 내는 현대·창의 요리. 미쉐린 1스타.', 'Modern, creative cuisine in the painter Fantin-Latour’s former house. One MICHELIN star.', { michelin: 'star1' }),
+  place('grenoble-fine_dining-2', 'grenoble', 'fine_dining', 'Tohu Bohu', '16 rue Chenoise, 38000 Grenoble, France', '구시가의 현대 요리 비스트로. 미쉐린 빕 구르망.', 'A modern bistro in the old town. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('grenoble-fine_dining-3', 'grenoble', 'fine_dining', 'L\'Amélyss', '3 boulevard Gambetta, 38000 Grenoble, France', '현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine. In the MICHELIN Guide.'),
+  place('grenoble-bakery-1', 'grenoble', 'bakery', 'Boulangerie Le Fournil Notre-Dame - Maison Briffod', '8 rue Frédéric-Taulier, 38000 Grenoble, France', '노트르담 구역의 빵집.', 'A bakery in the Notre-Dame quarter.'),
+  place('grenoble-bakery-2', 'grenoble', 'bakery', 'Pâtisserie Sarrazin', '10 place Victor-Hugo, 38000 Grenoble, France', '빅토르 위고 광장의 과자점.', 'A pâtisserie on Place Victor-Hugo.'),
+  place('grenoble-cafe-1', 'grenoble', 'cafe', 'Papapy', '4 place de Gordes, 38000 Grenoble, France', '구시가 광장의 티룸 겸 브런치 카페.', 'A tea room and brunch café on an old-town square.'),
+  place('grenoble-cafe-2', 'grenoble', 'cafe', 'Tower Coffee', '6 place du Docteur-Léon-Martin, 38000 Grenoble, France', '커피 전문점.', 'A coffee shop.'),
+
+  // —— clermont-ferrand: restaurants, bakeries and cafés (2026-11-08) ——
+  place('clermont-ferrand-fine_dining-1', 'clermont-ferrand', 'fine_dining', 'Le Pré - Xavier Beaudiment', '3 route de la Baraque, 63000 Clermont-Ferrand, France', '화산 지대 식재료를 쓰는 창의 요리. 미쉐린 2스타.', 'Creative cuisine built on produce from the volcano country. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('clermont-ferrand-fine_dining-2', 'clermont-ferrand', 'fine_dining', 'Jean-Claude Leclerc', '12 rue Saint-Adjutor, 63000 Clermont-Ferrand, France', '현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine. One MICHELIN star.', { michelin: 'star1' }),
+  place('clermont-ferrand-fine_dining-3', 'clermont-ferrand', 'fine_dining', 'L\'Ostal', '16 rue Claussmann, 63000 Clermont-Ferrand, France', '창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine. One MICHELIN star.', { michelin: 'star1' }),
+  place('clermont-ferrand-fine_dining-4', 'clermont-ferrand', 'fine_dining', 'Le Chardonnay', '1 place Philippe-Marcombes, 63000 Clermont-Ferrand, France', '와인 비스트로. 미쉐린 빕 구르망.', 'A wine bistro. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('clermont-ferrand-bakery-1', 'clermont-ferrand', 'bakery', 'Pâtisserie Alexis Thauvin', '20 rue des Gras, 63000 Clermont-Ferrand, France', '대성당 앞 거리의 과자점.', 'A pâtisserie on the street below the cathedral.'),
+  place('clermont-ferrand-cafe-1', 'clermont-ferrand', 'cafe', 'La Fée Carabosse', '7 rue des Vieillards, 63000 Clermont-Ferrand, France', '구시가의 티룸.', 'A tea room in the old town.'),
+  place('clermont-ferrand-cafe-2', 'clermont-ferrand', 'cafe', 'Café Amour', '20 boulevard Desaix, 63000 Clermont-Ferrand, France', '커피 전문점.', 'A coffee shop.'),
+
+  // —— le-puy-en-velay: restaurants, bakeries and cafés (2026-11-08) ——
+  place('le-puy-en-velay-fine_dining-1', 'le-puy-en-velay', 'fine_dining', 'Le Chamarlenc', '19 rue Raphaël, 43000 Le Puy-en-Velay, France', '구시가의 창의 요리 레스토랑. 미쉐린 1스타.', 'Creative cuisine in the old town. One MICHELIN star.', { michelin: 'star1' }),
+  place('le-puy-en-velay-fine_dining-2', 'le-puy-en-velay', 'fine_dining', 'L\'Émotion', '15 place Cadelade, 43000 Le Puy-en-Velay, France', '현대 요리 비스트로. 미쉐린 빕 구르망.', 'A modern bistro. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('le-puy-en-velay-bakery-1', 'le-puy-en-velay', 'bakery', 'La Constantinoise', '1 rue Portail-d\'Avignon, 43000 Le Puy-en-Velay, France', '구시가의 과자점.', 'A pâtisserie in the old town.'),
+  place('le-puy-en-velay-bakery-2', 'le-puy-en-velay', 'bakery', 'Pâtisserie la Gourmandiz', '14 rue Porte-Aiguière, 43000 Le Puy-en-Velay, France', '시내의 과자점.', 'A pâtisserie in town.'),
+
+  // —— sarlat: restaurants, bakeries and cafés (2026-11-08) ——
+  place('sarlat-fine_dining-1', 'sarlat', 'fine_dining', 'La Belle Étoile', '285 promenade de la Batellerie, 24250 La Roque-Gageac, France', '도르도뉴강 가 절벽 마을의 전통 요리. 미쉐린 빕 구르망.', 'Traditional cooking in the cliffside village on the Dordogne. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('sarlat-fine_dining-2', 'sarlat', 'fine_dining', 'L\'Adresse', '12 rue Fénelon, 24200 Sarlat-la-Canéda, France', '구시가의 프랑스 요리 식당.', 'French cooking in the old town.'),
+  place('sarlat-fine_dining-3', 'sarlat', 'fine_dining', 'Le Présidial', '6 rue Landry, 24200 Sarlat-la-Canéda, France', '옛 법원 저택과 정원의 페리고르 요리.', 'Périgord cooking in a former courthouse mansion and garden.'),
+  place('sarlat-fine_dining-4', 'sarlat', 'fine_dining', 'Auberge Le Mirandol', '7 rue des Consuls, 24200 Sarlat-la-Canéda, France', '구시가 거리의 페리고르 향토 요리.', 'Périgord regional cooking on an old-town street.'),
+  place('sarlat-bakery-1', 'sarlat', 'bakery', 'Maison Lissajoux', '8 avenue du Général-Leclerc, 24200 Sarlat-la-Canéda, France', '구시가 옆의 빵집 겸 과자점.', 'A bakery and pâtisserie beside the old town.'),
+
+  // —— rocamadour: restaurants, bakeries and cafés (2026-11-08) ——
+  place('rocamadour-fine_dining-1', 'rocamadour', 'fine_dining', 'Château de la Treyne', '3135 route des Deux-Châteaux, 46200 Lacave, France', '도르도뉴강 위 성 호텔의 현대 요리. 미쉐린 1스타.', 'Modern cuisine at a castle hotel above the Dordogne. One MICHELIN star.', { michelin: 'star1' }),
+  place('rocamadour-fine_dining-2', 'rocamadour', 'fine_dining', 'Le Voyage d\'Ernestine', '182 Grand-Rue, 46500 Alvignac, France', '이웃 마을의 현대 요리 비스트로. 미쉐린 빕 구르망.', 'A modern bistro in a neighbouring village. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('rocamadour-fine_dining-3', 'rocamadour', 'fine_dining', 'Hôtel Restaurant Le Bellevue', 'L\'Hospitalet, 46500 Rocamadour, France', '절벽 마을 전망의 프랑스 요리 식당.', 'French cooking with a view of the cliff village.'),
+  place('rocamadour-fine_dining-4', 'rocamadour', 'fine_dining', 'Beau Site', 'Rue Roland-le-Preux, 46500 Rocamadour, France', '중세 마을 안 호텔 식당.', 'The hotel restaurant inside the medieval village.'),
+
+  // —— albi: restaurants, bakeries and cafés (2026-11-08) ——
+  place('albi-fine_dining-1', 'albi', 'fine_dining', 'L\'Épicurien', '42 place Jean-Jaurès, 81000 Albi, France', '현대 요리 레스토랑. 미쉐린 빕 구르망.', 'Modern cuisine. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('albi-fine_dining-2', 'albi', 'fine_dining', 'Alchimy', '12 place du Palais, 81000 Albi, France', '온실 같은 방의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine in a conservatory-like dining room. In the MICHELIN Guide.'),
+  place('albi-bakery-1', 'albi', 'bakery', 'Cédric Millet Pâtisserie Fine', '102 rue Porta, 81000 Albi, France', '과자점.', 'A pâtisserie.'),
+  place('albi-cafe-1', 'albi', 'cafe', 'Sweet Rose', '1 rue de l\'Oulmet, 81000 Albi, France', '구시가의 티룸.', 'A tea room in the old town.'),
+
+  // —— saint-jean-pied-de-port: restaurants, bakeries and cafés (2026-11-08) ——
+  place('saint-jean-pied-de-port-fine_dining-1', 'saint-jean-pied-de-port', 'fine_dining', 'Jarapea', '94 rue du Fronton, 64220 Irouléguy, France', '포도밭 마을의 현대 요리 식당. 미쉐린 빕 구르망.', 'Modern cooking in the wine village. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('saint-jean-pied-de-port-fine_dining-2', 'saint-jean-pied-de-port', 'fine_dining', 'Café de la Paix', '4 place Floquet, 64220 Saint-Jean-Pied-de-Port, France', '광장의 바스크 요리 식당 겸 카페.', 'Basque food and café on the main square.'),
+  place('saint-jean-pied-de-port-fine_dining-3', 'saint-jean-pied-de-port', 'fine_dining', 'Restaurant Oillarburu', '8 rue de l\'Église, 64220 Saint-Jean-Pied-de-Port, France', '바스크 요리 식당.', 'Basque cooking.'),
+  place('saint-jean-pied-de-port-bakery-1', 'saint-jean-pied-de-port', 'bakery', 'Pâtisserie Artizarra', '12 avenue Renaud, 64220 Saint-Jean-Pied-de-Port, France', '바스크 케이크를 굽는 과자점.', 'A pâtisserie baking gâteau basque.'),
+
+  // —— pau: restaurants, bakeries and cafés (2026-11-08) ——
+  place('pau-fine_dining-1', 'pau', 'fine_dining', 'L\'Interprète', '8 rue des Orphelines, 64000 Pau, France', '현대 프랑스 요리 레스토랑.', 'Modern French cuisine.'),
+  place('pau-fine_dining-2', 'pau', 'fine_dining', 'L\'Opéra', '10 rue Samonzet, 64000 Pau, France', '프랑스 요리 식당.', 'French cooking.'),
+  place('pau-fine_dining-3', 'pau', 'fine_dining', 'Le Canard Royal', '13 rue du Moulin, 64000 Pau, France', '오리 요리를 내는 남서부 요리 식당.', 'South-western cooking built around duck.'),
+  place('pau-bakery-1', 'pau', 'bakery', 'Maison Constanti', '10 rue Henri-IV, 64000 Pau, France', '성 근처의 과자점 겸 초콜릿 가게.', 'A pâtisserie and chocolatier near the castle.'),
+  place('pau-bakery-2', 'pau', 'bakery', 'Boulangerie Grangé', '12 rue Maréchal-Foch, 64000 Pau, France', '시내의 빵집.', 'A bakery in town.'),
+
+  // —— lourdes: restaurants, bakeries and cafés (2026-11-08) ——
+  place('lourdes-fine_dining-1', 'lourdes', 'fine_dining', 'Le B', '66 rue de la Grotte, 65100 Lourdes, France', '성역 가는 길의 프랑스 요리 레스토랑.', 'French cuisine on the street to the sanctuary.'),
+  place('lourdes-fine_dining-2', 'lourdes', 'fine_dining', 'O Piment Rouge', '37 rue de la Grotte, 65100 Lourdes, France', '남서부 향토 요리 식당.', 'South-western regional cooking.'),
+  place('lourdes-fine_dining-3', 'lourdes', 'fine_dining', 'Restaurant Divin', '6 place de l\'Église, 65100 Lourdes, France', '포르투갈 요리 식당.', 'Portuguese cooking.'),
+  place('lourdes-bakery-1', 'lourdes', 'bakery', 'Boulangerie des Pyrénées', '11 avenue François-Abadie, 65100 Lourdes, France', '시내의 빵집.', 'A bakery in town.'),
+
+  // —— bastia: restaurants, bakeries and cafés (2026-11-08) ——
+  place('bastia-fine_dining-1', 'bastia', 'fine_dining', 'ADN', '1 rue de l\'Ancienne-Poste, 20200 Bastia, France', '현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine. In the MICHELIN Guide.'),
+  place('bastia-fine_dining-2', 'bastia', 'fine_dining', 'Radiche', '4 place de l\'Hôtel-de-Ville, 20200 Bastia, France', '구시가 광장의 현대 요리 식당. 미쉐린 가이드 선정.', 'Modern cooking on the old-town square. In the MICHELIN Guide.'),
+  place('bastia-fine_dining-3', 'bastia', 'fine_dining', 'Le Pirate', 'Port, 20222 Erbalunga, France', '카프 코르스 어촌 항구의 현대 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cuisine at the harbour of a Cap Corse fishing village. In the MICHELIN Guide.'),
+  place('bastia-bakery-1', 'bastia', 'bakery', 'A Biscutteria', '14 rue Napoléon, 20200 Bastia, France', '코르시카 전통 과자 비스킷 가게.', 'A shop of traditional Corsican biscuits.'),
+  place('bastia-bakery-2', 'bastia', 'bakery', 'Pâtisserie Chocolaterie Leoncini', '3 rue du Commandant-Luce-de-Casabianca, 20200 Bastia, France', '과자점 겸 초콜릿 가게.', 'A pâtisserie and chocolatier.'),
+
+  // —— corte: restaurants, bakeries and cafés (2026-11-08) ——
+  place('corte-fine_dining-1', 'corte', 'fine_dining', 'A Funtana', '1 ruelle de la Fontaine, 20250 Corte, France', '윗마을의 코르시카 요리 식당.', 'Corsican cooking in the upper town.'),
+  place('corte-fine_dining-2', 'corte', 'fine_dining', 'U Museu', 'Rampe Ribanelle, 20250 Corte, France', '성채 아래의 코르시카 요리 식당.', 'Corsican cooking below the citadel.'),
+  place('corte-fine_dining-3', 'corte', 'fine_dining', 'A Casuccia', '12 rue Scoliscia, 20250 Corte, France', '코르시카 향토 요리 식당.', 'Corsican regional cooking.'),
+  place('corte-bakery-1', 'corte', 'bakery', 'Pâtisserie Casanova 1887', '4 cours Paoli, 20250 Corte, France', '1887년부터 이어 온 과자점.', 'A pâtisserie going since 1887.'),
 ]

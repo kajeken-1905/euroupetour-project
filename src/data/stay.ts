@@ -1089,6 +1089,54 @@ export const STAY: Record<string, StayArea[]> = {
   rouen: [
     a('구시가 (대성당 주변)', 'Old town (around the cathedral)', 'Cathédrale de Rouen', '처음 가는 여행에 추천|Best for a first visit', '대성당과 대시계, 구시장 광장이 걸어서 가까운 보행자 중심 구역입니다. 차로 들어가기와 주차가 어렵고 시끄러울 수 있습니다.|A largely pedestrian area with the cathedral, the Gros-Horloge and Place du Vieux-Marché on foot; hard to drive and park, and can be noisy.'),
   ],
+  lille: [
+    a('비유 릴', 'Vieux-Lille', 'Vieux-Lille', '처음 가는 여행에 추천|Best for a first visit', '구시가 골목과 그랑 플라스가 걸어서 닿고, 두 기차역까지 걸어서 약 10~15분입니다.|Old-town lanes and the Grand Place on foot, 10–15 min’s walk from both stations.'),
+  ],
+  nantes: [
+    a('부포 구시가', 'Bouffay old quarter', 'Quartier Bouffay, Nantes', '처음 가는 여행에 추천|Best for a first visit', '공작성과 대성당, 식당가가 걸어서 닿고 역까지 걸어서 약 10분입니다.|The castle, cathedral and restaurants on foot, about 10 min’s walk from the station.'),
+  ],
+  quimper: [
+    a('구시가', 'Old town', 'Quimper centre-ville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 강변이 걸어서 닿고 역까지 걸어서 약 15분입니다.|The cathedral and river on foot, about 15 min’s walk from the station.'),
+  ],
+  blois: [
+    a('구시가', 'Old town', 'Blois centre-ville', '처음 가는 여행에 추천|Best for a first visit', '왕성과 성당, 강변이 걸어서 닿고 역까지 걸어서 약 10분입니다.|The château, cathedral and river on foot, about 10 min’s walk from the station.'),
+  ],
+  nancy: [
+    a('스타니슬라스 광장 주변', 'Around Place Stanislas', 'Place Stanislas, Nancy', '처음 가는 여행에 추천|Best for a first visit', '광장과 구시가, 역이 모두 걸어서 닿습니다.|The squares, old town and station all on foot.'),
+  ],
+  grenoble: [
+    a('구시가', 'Old town', 'Grenoble centre-ville', '처음 가는 여행에 추천|Best for a first visit', '케이블카 승강장과 광장, 미술관이 걸어서 닿습니다.|The cable car, squares and museum on foot.'),
+  ],
+  'clermont-ferrand': [
+    a('구시가 (대성당 주변)', 'Old town (around the cathedral)', 'Clermont-Ferrand centre', '처음 가는 여행에 추천|Best for a first visit', '대성당과 조드 광장이 걸어서 닿고 트램이 역과 이어집니다.|The cathedral and Place de Jaude on foot, with a tram to the station.'),
+  ],
+  'le-puy-en-velay': [
+    a('구시가', 'Old town', 'Le Puy-en-Velay centre', '처음 가는 여행에 추천|Best for a first visit', '대성당과 바위 예배당이 걸어서 닿습니다. 언덕이 가파릅니다.|The cathedral and rock chapel on foot; the streets are steep.'),
+  ],
+  sarlat: [
+    a('구시가', 'Old town', 'Sarlat centre historique', '처음 가는 여행에 추천|Best for a first visit', '저녁 골목이 조용하고 시장이 바로 앞입니다. 근교는 차가 필요합니다.|Quiet evening lanes with the market on the doorstep; you need a car for the surroundings.'),
+  ],
+  rocamadour: [
+    a('마을 (절벽 아래 거리)', 'The village (lower street)', 'Rocamadour', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁에 절벽 마을이 조용해집니다. 위쪽 로스피탈레에도 숙소가 있습니다.|The cliff village is quiet in the evening once day-trippers leave; there are also hotels up at L’Hospitalet.'),
+  ],
+  albi: [
+    a('구시가 (대성당 주변)', 'Old town (around the cathedral)', 'Albi centre historique', '처음 가는 여행에 추천|Best for a first visit', '대성당과 미술관, 강변이 걸어서 닿고 역까지 걸어서 약 15분입니다.|The cathedral, museum and river on foot, about 15 min’s walk from the station.'),
+  ],
+  'saint-jean-pied-de-port': [
+    a('성곽 안 마을', 'Inside the walls', 'Saint-Jean-Pied-de-Port', '마을에서 묵기|Stay in the village', '순례자 숙소와 작은 호텔이 성곽 안팎에 있습니다. 성수기엔 일찍 예약해야 합니다.|Pilgrim hostels and small hotels inside and around the walls; book early in season.'),
+  ],
+  pau: [
+    a('성과 대로 주변', 'Around the castle and boulevard', 'Pau centre-ville', '처음 가는 여행에 추천|Best for a first visit', '성과 피레네 대로가 걸어서 닿고 푸니쿨라로 역에 내려갑니다.|The castle and boulevard on foot, with the funicular down to the station.'),
+  ],
+  lourdes: [
+    a('성역 주변', 'Near the sanctuary', 'Lourdes', '처음 가는 여행에 추천|Best for a first visit', '성역과 촛불 행렬이 걸어서 닿고 호텔이 많습니다. 역까지 걸어서 약 15분입니다.|The sanctuary and procession on foot, with plenty of hotels; about 15 min’s walk from the station.'),
+  ],
+  bastia: [
+    a('구항구와 성채', 'Old port & citadel', 'Vieux-Port Bastia', '처음 가는 여행에 추천|Best for a first visit', '항구와 성채, 광장이 걸어서 닿고 페리 터미널까지 걸어서 약 10분입니다.|The port, citadel and square on foot, about 10 min’s walk from the ferry terminal.'),
+  ],
+  corte: [
+    a('윗마을 아래 중심가', 'Town centre', 'Corte centre', '처음 가는 여행에 추천|Best for a first visit', '성채와 광장이 걸어서 닿고 역까지 걸어서 약 15분입니다.|The citadel and square on foot, about 15 min’s walk from the station.'),
+  ],
   reims: [
     a('대성당 주변 (시내 중심)', 'Centre-Ville (near the cathedral)', 'Cathédrale Notre-Dame de Reims', '처음 가는 여행에 추천|Best for a first visit', '대성당과 상점, 식당, 기차역을 걸어서 다닙니다. 가장 붐비는 곳입니다.|The cathedral, shops, restaurants and the station on foot; the busiest area.'),
     a('샴페인 시골 마을', 'Champagne countryside', 'Montagne de Reims', '포도밭과 샴페인 하우스|Vineyards and Champagne houses', '포도밭 전망과 작은 양조장을 즐기며 조용히 지냅니다. 차가 필요하고 마을 식당은 일찍 닫습니다.|Vineyard views and small producers in calm villages; you need a car, and village restaurants close early.'),

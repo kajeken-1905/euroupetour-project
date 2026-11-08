@@ -2688,3 +2688,103 @@ highlights/nice-6.jpg | https://commons.wikimedia.org/wiki/File:Nice_(06)_Mus%C3
 highlights/cannes-4.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_%C3%8Eles_de_L%C3%A9rins.jpg | CC BY 4.0 | Olivier Cleynen
 highlights/nice-7.jpg | https://commons.wikimedia.org/wiki/File:%D0%92%D0%86%D0%A6%D0%95%D0%91%D0%A1%D0%9A._%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0_%D0%A8%D0%B0%D0%B3%D0%B0%D0%BB%D0%B0_-_VICIEBSK._Marc_Chagall_Museum..jpg | CC BY 3.0 | Jurasikt
 highlights/dijon-8.jpg | https://commons.wikimedia.org/wiki/File:Beaune.-_Vitrail_de_la_chapelle_de_l%27H%C3%B4tel-Dieu_aux_armoiries_de_Nicolas_Rolin,.jpg | CC BY-SA 4.0 | Pierre André Leclercq
+cities/lille.jpg | https://commons.wikimedia.org/wiki/File:Mai_2008_Lille_15.jpg | CC0 | Syced
+highlights/lille-1.jpg | https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_184-186_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/lille-2.jpg | https://commons.wikimedia.org/wiki/File:Vieille_Bourse_(Lille).jpg | CC BY-SA 4.0 | Gzen92
+highlights/lille-4.jpg | https://commons.wikimedia.org/wiki/File:Lille_citadelle_porte_royale.jpg | CC BY-SA 4.0 | Velvet
+highlights/lille-5.jpg | https://commons.wikimedia.org/wiki/File:Lille_palais_des_beaux-arts_reflet.jpg | CC BY-SA 4.0 | Velvet
+highlights/lille-6.jpg | https://commons.wikimedia.org/wiki/File:Roubaix_piscine_1_bis.jpg | CC BY-SA 3.0 | Velvet
+cities/nantes.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-Pierre_de_Nantes_-_fa%C3%A7ade.jpg | Public domain | Eusebius
+highlights/nantes-1.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_ducs_de_Bretagne_(Nantes)_11.jpg | CC BY-SA 4.0 | John Samuel
+highlights/nantes-3.jpg | https://commons.wikimedia.org/wiki/File:Passage_Pommeraye_in_Winter_(December)_03.jpg | CC BY-SA 4.0 | John Samuel
+highlights/nantes-4.jpg | https://commons.wikimedia.org/wiki/File:Les_Machines_de_l%27Ile_@_Nantes_(7929894986).jpg | CC BY 2.0 | Guilhem Vellut from Annecy, France
+highlights/nantes-5.jpg | https://commons.wikimedia.org/wiki/File:Musee_Jules_Verne_001.jpg | CC BY-SA 3.0 | Pasdenom
+cities/quimper.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_the_Cath%C3%A9drale_of_Quimper.jpg | CC0 | PtiBzh
+highlights/quimper-1.jpg | https://commons.wikimedia.org/wiki/File:Quimper_(29)_Cath%C3%A9drale_Saint-Corentin_Grandes_Orgues_05.JPG | CC BY-SA 4.0 | GO69
+highlights/quimper-2.jpg | https://commons.wikimedia.org/wiki/File:Quimper_-_Place_au_Beurre_03.jpeg | CC0 | Romainbehar
+highlights/quimper-3.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%C3%A9partemental_breton_Quimper.jpg | CC BY-SA 3.0 | Kergourlay
+highlights/quimper-4.jpg | https://commons.wikimedia.org/wiki/File:Quimper_-_Fa%C3%A7ade_faiencerie_Henriot_-_001.jpg | CC BY-SA 3.0 | Thesupermat
+highlights/quimper-5.jpg | https://commons.wikimedia.org/wiki/File:Ville_close_de_Concarneau_(1).jpg | CC BY-SA 4.0 | Julien1978
+highlights/quimper-6.jpg | https://commons.wikimedia.org/wiki/File:Pont-Aven--le-port.jpg | Public domain | Rundvald
+cities/blois.jpg | https://commons.wikimedia.org/wiki/File:Blois_Loire_Panorama_-_July_2011.jpg | CC BY-SA 3.0 | Diliff
+highlights/blois-1.jpg | https://commons.wikimedia.org/wiki/File:Blois_-_ch%C3%A2teau_royal_(01).jpg | CC BY-SA 4.0 | Fab5669
+highlights/blois-2.jpg | https://commons.wikimedia.org/wiki/File:Maison_Magie_-_Blois_(FR41)_-_2022-07-16_-_3.jpg | CC BY-SA 4.0 | Chabe01
+highlights/blois-3.jpg | https://commons.wikimedia.org/wiki/File:Blois_Cath%C3%A9drale_Saint-Louis_seen_from_Place_du_Ch%C3%A2teau.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/blois-4.jpg | https://commons.wikimedia.org/wiki/File:Blois_Escaliers_Denis_Papin_02.jpg | CC BY-SA 4.0 | Zairon
+highlights/blois-5.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Cheverny_21.jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/nancy.jpg | https://commons.wikimedia.org/wiki/File:Nancy_Place_Stanislas_BW_2015-07-18_16-35-40.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/nancy-1.jpg | https://commons.wikimedia.org/wiki/File:Vue_de_nuit_de_la_Place_Stanislas_%C3%A0_Nancy.jpg | CC BY-SA 4.0 | Nicolas Cornet
+highlights/nancy-2.jpg | https://commons.wikimedia.org/wiki/File:Nancy_Place_de_la_Carri%C3%A8re_BW_2015-07-18_14-01-09.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/nancy-3.jpg | https://commons.wikimedia.org/wiki/File:Building_of_the_Musee_des_Beaux-Arts_de_Nancy_02.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/nancy-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_l%27%C3%89cole_de_Nancy_2018o.jpg | CC BY-SA 4.0 | Antony-22
+highlights/nancy-5.jpg | https://commons.wikimedia.org/wiki/File:Parc_de_la_P%C3%A9pini%C3%A8re_(Nancy)_(2).jpg | CC BY-SA 4.0 | Gzen92
+cities/grenoble.jpg | https://commons.wikimedia.org/wiki/File:Bastille_de_Grenoble_2012.jpg | CC BY-SA 3.0 | Marcin Białek
+highlights/grenoble-1.jpg | https://commons.wikimedia.org/wiki/File:Grenoble-Bastille_cable_car_-_T%C3%A9l%C3%A9ph%C3%A9rique_de_Grenoble_Bastille_photo1.jpg | CC BY-SA 4.0 | Sami Mlouhi
+highlights/grenoble-2.jpg | https://commons.wikimedia.org/wiki/File:Musee_Grenoble.JPG | CC BY-SA 3.0 | Milky
+highlights/grenoble-3.jpg | https://commons.wikimedia.org/wiki/File:Grenoble,_place_Saint-Andr%C3%A9_-_panoramio.jpg | CC BY-SA 3.0 | Gilles Guillamot
+highlights/grenoble-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Dauphinois_2014_abc2.jpg | CC BY-SA 4.0 | Patafisik
+highlights/grenoble-5.jpg | https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_des_Caves_de_la_Chartreuse.jpg | CC BY 4.0 | ELEANA ZAPPIA CHARTREUSE
+cities/clermont-ferrand.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame-de-l%27Assomption_de_Clermont-Ferrand_04.jpg | CC BY-SA 4.0 | John Samuel
+highlights/clermont-ferrand-1.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_Cath%C3%A9drale_Notre-Dame-de-l%27Assomption_de_Clermont-Ferrand_06.jpg | CC BY-SA 4.0 | John Samuel
+highlights/clermont-ferrand-3.jpg | https://commons.wikimedia.org/wiki/File:Jaude_04.JPG | Public domain | 
+highlights/clermont-ferrand-4.jpg | https://commons.wikimedia.org/wiki/File:Fourgonnette_Citro%C3%ABn_type_H_Michelin.jpg | CC0 | TCY
+highlights/clermont-ferrand-5.jpg | https://commons.wikimedia.org/wiki/File:Panoramique_des_D%C3%B4mes.JPG | CC BY-SA 3.0 | Gegeours
+cities/le-puy-en-velay.jpg | https://commons.wikimedia.org/wiki/File:00_1135_Le_Puy-en-velay_-_Frankreich.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/le-puy-en-velay-1.jpg | https://commons.wikimedia.org/wiki/File:Le_rocher_de_l%27Aiguilhe_et_sa_chapelle_St-Michel_01.JPG | CC BY-SA 3.0 | Hélène Grenier
+highlights/le-puy-en-velay-2.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame-de-l%27Annonciation,_Le_Puy_en_Velay.jpg | CC BY-SA 4.0 | Clément Bardot
+highlights/le-puy-en-velay-3.jpg | https://commons.wikimedia.org/wiki/File:Statue_de_Notre_Dame_de_France_-_Statue_embl%C3%A9matique_du_Puy_en_Velay.jpg | CC BY-SA 3.0 | Jennifer5
+cities/sarlat.jpg | https://commons.wikimedia.org/wiki/File:Sarlat-la-Can%C3%A9da_-_Pr%C3%A9sidial.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/sarlat-1.jpg | https://commons.wikimedia.org/wiki/File:Place_de_la_Libert%C3%A9_%C3%A0_Sarlat.jpg | CC BY-SA 4.0 | Thérèse Gaigé
+highlights/sarlat-3.jpg | https://commons.wikimedia.org/wiki/File:Sarlat-la-Can%C3%A9da_-_Cath%C3%A9drale_Saint-Sacerdos_-_5.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/sarlat-4.jpg | https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg | Public domain | EU
+highlights/sarlat-5.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Beynac_27.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/sarlat-6.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Marqueyssac_27.jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/rocamadour.jpg | https://commons.wikimedia.org/wiki/File:Rocamadour,_Lot,_Midi-Pyr%C3%A9n%C3%A9es,_france.jpg | CC BY-SA 2.0 | Dynamosquito from France
+highlights/rocamadour-1.jpg | https://commons.wikimedia.org/wiki/File:Sanctuaire_de_Rocamadour_19.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/rocamadour-2.jpg | https://commons.wikimedia.org/wiki/File:Chapelle_de_Notre-Dame-de-Rocamadour_(1).jpg | CC BY-SA 4.0 | Gzen92
+highlights/rocamadour-3.jpg | https://commons.wikimedia.org/wiki/File:Rocamadour_chateau_vue_int.JPG | CC BY-SA 4.0 | Velvet
+highlights/rocamadour-5.jpg | https://commons.wikimedia.org/wiki/File:Padirac_-_Gouffre_-_09.jpg | CC BY-SA 4.0 | Benjamin Smith
+cities/albi.jpg | https://commons.wikimedia.org/wiki/File:Albi_2014-02-22_19-52-00_-_Tarn_river_at_dusk_-_7236.jpg | CC BY 4.0 | PierreSelim
+highlights/albi-1.jpg | https://commons.wikimedia.org/wiki/File:(Albi)_Cath%C3%A9drale_Sainte-C%C3%A9cile_-_View_from_the_nave_towards_the_choir.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/albi-2.jpg | https://commons.wikimedia.org/wiki/File:(Albi)_Entr%C3%A9e_du_Mus%C3%A9e_Toulouse-Lautrec_sur_la_place_sainte_C%C3%A9cile.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/albi-3.jpg | https://commons.wikimedia.org/wiki/File:(Albi)_Palais_de_la_Berbie_-_Jardin_ancienne_place_d%27arme.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/albi-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Cordes-sur-Ciel_(view_from_the_southwest).jpg | CC BY-SA 4.0 | Carsten Steger
+cities/saint-jean-pied-de-port.jpg | https://commons.wikimedia.org/wiki/File:00_2786_Saint_Jean-Pied-de-Port,_Frankreich,.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/saint-jean-pied-de-port-1.jpg | https://commons.wikimedia.org/wiki/File:Saint_Jean_Pied_de_Port_Rue_de_Citadelle.jpg | CC BY 4.0 | Othello95
+highlights/saint-jean-pied-de-port-2.jpg | https://commons.wikimedia.org/wiki/File:Citadelle_de_Saint-Jean-Pied-de-Port_-_remparts_3.jpg | CC BY-SA 4.0 | Marianne Casamance
+cities/pau.jpg | https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Cadaval_depuis_le_boulevard_des_Pyr%C3%A9n%C3%A9es_-_Pau.jpg | CC BY-SA 4.0 | Will6475
+highlights/pau-1.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Pau_Enceinte.jpg | CC BY-SA 4.0 | Capbourrut
+highlights/pau-2.jpg | https://commons.wikimedia.org/wiki/File:Boulevard_des_Pyr%C3%A9n%C3%A9es_Pau_1.JPG | CC BY-SA 3.0 | Flo641
+highlights/pau-3.jpg | https://commons.wikimedia.org/wiki/File:Funiculaire_de_Pau_2021.jpg | CC BY-SA 4.0 | LursLeBolideur
+highlights/pau-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Beaux-Arts_de_Pau.jpg | CC0 | Patrice Bon
+highlights/pau-5.jpg | https://commons.wikimedia.org/wiki/File:Juran%C3%A7on_saint-faust_2011_08_21_018.jpg | CC BY-SA 3.0 | Ddfree
+cities/lourdes.jpg | https://commons.wikimedia.org/wiki/File:Sanctuaire_de_la_Vierge-de-Lourdes_-_statue.jpg | CC BY-SA 4.0 | Cantons-de-l'Est
+highlights/lourdes-1.jpg | https://commons.wikimedia.org/wiki/File:Grotte_de_Massabielle_et_ses_ex-votos.jpg | Public domain | Unknown authorUnknown author
+highlights/lourdes-2.jpg | https://commons.wikimedia.org/wiki/File:Lourdes_(65)_Basilique_de_l%27Immacul%C3%A9e-Conception_03.jpg | CC BY-SA 4.0 | Edwars
+highlights/lourdes-3.jpg | https://commons.wikimedia.org/wiki/File:Esplanade_du_Rosaire.jpg | CC BY-SA 4.0 | Thomon
+highlights/lourdes-4.jpg | https://commons.wikimedia.org/wiki/File:Banner_-_2018_-_Ch%C3%A2teau_fort_de_Lourdes.jpg | CC BY-SA 4.0 | Moahim
+highlights/lourdes-5.jpg | https://commons.wikimedia.org/wiki/File:Funiculaire_du_Pic_du_Jer_de_Lourdes_(Hautes-Pyr%C3%A9n%C3%A9es)_2.jpg | CC BY-SA 4.0 | Sotos
+highlights/lourdes-6.jpg | https://commons.wikimedia.org/wiki/File:WLE_-_2018_-_Parc_national_des_Pyrenees_-_Cirque_de_Gavarnie_-_2.jpg | CC BY-SA 4.0 | Moahim
+cities/bastia.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_port_of_Bastia,_Corsica,_France_(52723827071).jpg | CC BY 2.0 | dronepicr
+highlights/bastia-1.jpg | https://commons.wikimedia.org/wiki/File:Vieux-Port_de_Marseille,_France.jpg | CC BY-SA 4.0 | Clément Bardot
+highlights/bastia-2.jpg | https://commons.wikimedia.org/wiki/File:Citadelle_et_Palais_des_Gouverneurs.JPG | CC BY-SA 3.0 | Clio20
+highlights/bastia-3.jpg | https://commons.wikimedia.org/wiki/File:Place_Saint-Nicolas_(Bastia)_(3).jpg | CC BY-SA 4.0 | Gzen92
+highlights/bastia-4.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Jean-Baptiste_de_Bastia.jpg | CC BY-SA 4.0 | Christelle Molinié
+highlights/bastia-5.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Cape_de_Corse.jpg | CC BY-SA 4.0 | Nacaru
+cities/corte.jpg | https://commons.wikimedia.org/wiki/File:Citadelle-Corte.jpg | CC BY-SA 3.0 | Jérôme Saillard - ©dzeis
+highlights/corte-2.jpg | https://commons.wikimedia.org/wiki/File:Place_Paoli_-_Corte_(FR2B)_-_2021-09-08_-_3.jpg | CC BY-SA 4.0 | Chabe01
+highlights/corte-3.jpg | https://commons.wikimedia.org/wiki/File:Corte,_veduta_dal_belvedere,_la_cittadella_01.jpg | CC BY 3.0 | Sailko
+highlights/corte-4.jpg | https://commons.wikimedia.org/wiki/File:Gorges_de_la_Restonica_3.jpg | CC BY-SA 4.0 | Nacaru
+highlights/lille-3.jpg | https://commons.wikimedia.org/wiki/File:La_Vieille_Bourse_%C3%A0_Lille.jpg | CC BY-SA 4.0 | Olga.Mach
+highlights/nantes-2.jpg | https://commons.wikimedia.org/wiki/File:Nantes_-_cath%C3%A9drale_vue_du_ch%C3%A2teau.jpg | CC BY 3.0 | Eusebius
+highlights/nantes-6.jpg | https://commons.wikimedia.org/wiki/File:Muscadet_wine_bottle.jpg | CC BY-SA 4.0 | Julien.scavini
+highlights/clermont-ferrand-2.jpg | https://commons.wikimedia.org/wiki/File:Basilique_Notre-Dame-du-Port.jpg | CC BY-SA 2.0 | Thalia Gylonno
+highlights/le-puy-en-velay-4.jpg | https://www.flickr.com/photos/35618684@N03/6103996299 | BY 2.0 | sweetpeasue
+highlights/sarlat-2.jpg | https://www.flickr.com/photos/64225465@N04/5848942966 | BY-SA 2.0 | M@rc LecεrF ┃Photographie
+highlights/albi-4.jpg | https://commons.wikimedia.org/wiki/File:Albi_2014-02-22_19-52-00_-_Tarn_river_at_dusk_-_7236.jpg | CC BY 4.0 | PierreSelim
+highlights/saint-jean-pied-de-port-5.jpg | https://commons.wikimedia.org/wiki/File:Vignes_d%27Iroul%C3%A8guy.jpg | CC BY-SA 2.0 | dynamosquito
+highlights/saint-jean-pied-de-port-3.jpg | https://commons.wikimedia.org/wiki/File:Notre-Dame_du_Bout_du_Pont_Church_interior.jpg | CC BY 4.0 | Hayden Soloviev
+highlights/saint-jean-pied-de-port-4.jpg | https://commons.wikimedia.org/wiki/File:Arriere_prison_des_eveques_Saint-Jean-Pied-de-Port.jpg | CC0 | Jojo V
+highlights/bastia-6.jpg | https://www.flickr.com/photos/7815453@N05/7453412002 | BY-SA 2.0 | paspog
+highlights/corte-1.jpg | https://commons.wikimedia.org/wiki/File:Citadelle-Corte.jpg | CC BY-SA 3.0 | Jérôme Saillard - ©dzeis
+highlights/rocamadour-4.jpg | https://commons.wikimedia.org/wiki/File:Rocamadour_L%27Hospitalet1.JPG | Public domain | Torsade de Pointes

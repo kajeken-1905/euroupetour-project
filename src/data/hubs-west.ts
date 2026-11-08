@@ -50,6 +50,74 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [ORY()],
     rail: [['Gare de Chartres', '샤르트르역']],
   },
+  lille: {
+    air: [['Lille-Lesquin (LIL)', '릴 공항 (LIL)'], ['Paris Charles de Gaulle (CDG)', '샤를 드 골 공항 (CDG)', '파리|Paris']],
+    rail: [
+      ['Lille-Flandres', '릴 플랑드르역', '파리행 TGV·지역 열차|TGVs to Paris, regional trains'],
+      ['Lille-Europe', '릴 유럽역', '유로스타·TGV|Eurostar, TGV'],
+    ],
+  },
+  nantes: {
+    air: [['Nantes Atlantique (NTE)', '낭트 공항 (NTE)']],
+    rail: [['Nantes', '낭트역']],
+  },
+  quimper: {
+    air: [['Brest Bretagne (BES)', '브레스트 공항 (BES)', '브레스트|Brest'], ['Quimper Bretagne (UIP)', '캥페르 공항 (UIP)', '운항편 적음|few flights']],
+    rail: [['Quimper', '캥페르역']],
+  },
+  blois: {
+    air: [['Tours Val de Loire (TUF)', '투르 공항 (TUF)', '운항편 적음|few flights'], ['Paris Charles de Gaulle (CDG)', '샤를 드 골 공항 (CDG)', '파리|Paris']],
+    rail: [['Blois-Chambord', '블루아-샹보르역']],
+  },
+  nancy: {
+    air: [['Luxembourg (LUX)', '룩셈부르크 공항 (LUX)', '룩셈부르크|Luxembourg'], ['Strasbourg (SXB)', '스트라스부르 공항 (SXB)', '스트라스부르|Strasbourg']],
+    rail: [['Nancy', '낭시역']],
+  },
+  grenoble: {
+    air: [['Lyon Saint-Exupéry (LYS)', '리옹 공항 (LYS)', '리옹|Lyon'], ['Grenoble Alpes-Isère (GNB)', '그르노블 공항 (GNB)', '주로 겨울 스키 노선|mostly winter ski flights']],
+    rail: [['Grenoble', '그르노블역']],
+  },
+  'clermont-ferrand': {
+    air: [['Clermont-Ferrand Auvergne (CFE)', '클레르몽페랑 공항 (CFE)'], ['Lyon Saint-Exupéry (LYS)', '리옹 공항 (LYS)', '리옹|Lyon']],
+    rail: [['Clermont-Ferrand', '클레르몽페랑역']],
+  },
+  'le-puy-en-velay': {
+    air: [['Lyon Saint-Exupéry (LYS)', '리옹 공항 (LYS)', '리옹|Lyon'], ['Clermont-Ferrand Auvergne (CFE)', '클레르몽페랑 공항 (CFE)', '클레르몽페랑|Clermont-Ferrand']],
+    rail: [['Le Puy-en-Velay', '르퓌역']],
+  },
+  sarlat: {
+    air: [['Bergerac Dordogne Périgord (EGC)', '베르주라크 공항 (EGC)', '베르주라크|Bergerac'], ['Bordeaux-Mérignac (BOD)', '보르도 공항 (BOD)', '보르도|Bordeaux']],
+    rail: [['Sarlat', '사를라역']],
+  },
+  rocamadour: {
+    air: [['Brive–Vallée de la Dordogne (BVE)', '브리브 공항 (BVE)', '브리브|Brive'], ['Toulouse-Blagnac (TLS)', '툴루즈 공항 (TLS)', '툴루즈|Toulouse']],
+    rail: [['Rocamadour-Padirac', '로카마두르-파디라크역', '마을에서 약 4km · 택시|about 4 km from the village · taxi']],
+  },
+  albi: {
+    air: [['Toulouse-Blagnac (TLS)', '툴루즈 공항 (TLS)', '툴루즈|Toulouse']],
+    rail: [['Albi-Ville', '알비역']],
+  },
+  'saint-jean-pied-de-port': {
+    air: [['Biarritz Pays Basque (BIQ)', '비아리츠 공항 (BIQ)', '비아리츠|Biarritz']],
+    rail: [['Saint-Jean-Pied-de-Port', '생장피에드포르역']],
+  },
+  pau: {
+    air: [['Pau Pyrénées (PUF)', '포 공항 (PUF)']],
+    rail: [['Pau', '포역', '푸니쿨라로 시내|funicular up to town']],
+  },
+  lourdes: {
+    air: [['Tarbes-Lourdes-Pyrénées (LDE)', '타르브루르드 공항 (LDE)'], ['Pau Pyrénées (PUF)', '포 공항 (PUF)', '포|Pau']],
+    rail: [['Lourdes', '루르드역']],
+  },
+  bastia: {
+    air: [['Bastia-Poretta (BIA)', '바스티아 공항 (BIA)']],
+    rail: [['Bastia', '바스티아역', '코르시카 철도|Corsican railway']],
+    port: [['Port de Bastia', '바스티아 항구', '니스·마르세유·이탈리아행 페리|ferries to Nice, Marseille and Italy']],
+  },
+  corte: {
+    air: [['Bastia-Poretta (BIA)', '바스티아 공항 (BIA)'], ['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 공항 (AJA)', '아작시오|Ajaccio']],
+    rail: [['Corte', '코르테역', '코르시카 철도|Corsican railway']],
+  },
   reims: {
     air: [CDG()],
     rail: [
