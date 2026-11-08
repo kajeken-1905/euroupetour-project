@@ -3225,3 +3225,7 @@ gateways/gw-tlv.jpg | https://www.flickr.com/photos/8721758@N06/9869861255 | BY 
 gateways/gw-jerusalem-navon.jpg | https://commons.wikimedia.org/wiki/File:Train_in_Yitzhak_Navon_Station_Jerusalem.jpg | CC BY-SA 4.0 | Davcza
 gateways/gw-dxb.jpg | https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_-_2024-10-24_-_Andy_Mabbett_-_51.jpg | CC BY-SA 4.0 | Andy Mabbett
 gateways/gw-auh.jpg | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_(UAE),_Zayed_International_Airport,_Terminal_A_(02).jpg | CC BY-SA 4.0 | Vincent van Zeijst
+gateways/gw-ruh.jpg | https://commons.wikimedia.org/wiki/File:King_Khalid_International_Airport,_Riyadh_Saudi_Arabia_-_panoramio_(2).jpg | CC BY 3.0 | liton islam
+gateways/gw-jed.jpg | https://commons.wikimedia.org/wiki/File:King_Abdulaziz_International_Airport_in_2022.01.jpg | CC BY-SA 4.0 | CAPTAIN RAJU
+gateways/gw-jeddah-haramain.jpg | https://www.flickr.com/photos/49399018@N00/51943593073 | BY 2.0 | amanderson2
+gateways/gw-ulh.jpg | https://commons.wikimedia.org/wiki/File:Al-Ula_International_Airport_20260130_1.jpg | CC BY 4.0 | Z thomas
