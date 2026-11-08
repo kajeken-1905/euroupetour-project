@@ -308,6 +308,18 @@ export const STAY: Record<string, StayArea[]> = {
     a('무셰이레브·수크 와키프', 'Msheireb & Souq Waqif', 'Msheireb Downtown Doha', '처음 가는 여행에 추천|Best for a first visit', '시장과 박물관, 지하철 환승역이 걸어서 닿습니다.|The souq, museums and the Metro interchange on foot.'),
     a('웨스트베이', 'West Bay', 'West Bay Doha', '전망 좋은 호텔|Hotels with views', '고층 호텔이 모인 신도심으로, 코르니시와 지하철이 가깝습니다.|The high-rise hotel district near the Corniche and the Metro.'),
   ],
+  jerusalem: [
+    a('구시가 근처 (야파 문)', 'Near the Old City (Jaffa Gate)', 'Jaffa Gate Jerusalem', '처음 가는 여행에 추천|Best for a first visit', '구시가와 마밀라 거리가 걸어서 닿고 경전철이 가깝습니다.|The Old City and Mamilla on foot, near the light rail.'),
+  ],
+  'tel-aviv': [
+    a('해변 근처 시내', 'Near the beach', 'Tel Aviv beach', '처음 가는 여행에 추천|Best for a first visit', '해변과 카르멜 시장, 화이트 시티가 걸어서 닿습니다.|The beach, Carmel Market and White City on foot.'),
+  ],
+  haifa: [
+    a('독일인 거주지', 'German Colony', 'German Colony Haifa', '처음 가는 여행에 추천|Best for a first visit', '바하이 정원 아래 식당 거리로, 역과 항구가 가깝습니다.|The restaurant street below the gardens, near the station and port.'),
+  ],
+  'dead-sea': [
+    a('엔 보케크 호텔', 'Ein Bokek hotels', 'Ein Bokek', '처음 가는 여행에 추천|Best for a first visit', '해변 호텔에 묵으면 해 뜨기 전 마사다에 오르기 좋습니다. 예루살렘에서 당일로도 다녀옵니다.|A beach hotel makes a pre-dawn Masada climb easy; it is also a day trip from Jerusalem.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

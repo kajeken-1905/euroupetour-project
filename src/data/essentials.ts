@@ -990,6 +990,27 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 여권은 90일까지 비자 없이 들어갈 수 있습니다. 모든 방문객은 도착 전에 카타르 의료보험(30일, 최소 50리얄, 보건부 사이트나 Metrash 앱)에 가입해야 합니다.', 'Korean passports can enter visa-free for up to 90 days. All visitors must buy Qatari health insurance before arrival (30 days, from QR 50, via the Ministry of Public Health site or the Metrash app).'),
     telecom: T('주요 통신사는 Ooredoo·Vodafone입니다. 공항에서 관광객용 유심을 살 수 있습니다.', 'Main operators: Ooredoo and Vodafone; tourist SIMs are sold at the airport.'),
   },
+  il: {
+    // Korean Foreign Ministry travel-safety page for Israel (0404.go.kr/ntnSafetyInfo/177/detail), 2026-11.
+    emergency: [num('100', '경찰', 'Police'), num('101', '구급', 'Ambulance'), num('102', '소방', 'Fire')],
+    embassy: {
+      name: T('주이스라엘 대한민국 대사관', 'Korean Embassy in Israel'),
+      address: '6 Hasadnaot St., Herzliya Pituach 4672833',
+      phone: '+972-9-959-6800',
+      afterHours: '+972-50-528-8345',
+      note: T('서안지구는 주팔레스타인 대표사무소(라말라, +972-2-240-2846)가 맡습니다.', 'The West Bank is covered by the Korean Representative Office in Ramallah (+972-2-240-2846).'),
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/177/detail',
+    },
+    power: T('230V · 50Hz, H형(이스라엘식) 콘센트. 얇은 2핀 플러그는 대체로 꽂히지만 한국의 굵은 플러그는 어댑터가 필요할 수 있습니다.', '230V, 50Hz, type H (Israeli) sockets. Thin two-pin plugs usually fit, but thicker Korean plugs may need an adapter.'),
+    tipping: T('식당에선 10~15%가 관례입니다.', 'Tipping 10–15% is customary in restaurants.'),
+    water: T('수돗물은 마실 수 있습니다.', 'Tap water is safe to drink.'),
+    shops: T('카드가 거의 어디서나 됩니다. 안식일(금요일 해 질 녘~토요일 해 질 녘)엔 대부분의 가게와 대중교통이 쉽니다.', 'Cards are accepted almost everywhere. On the Sabbath (Friday sunset to Saturday sunset) most shops and public transport stop.'),
+    toilets: TOILETS_FREE,
+    time: T('UTC+2로 한국보다 7시간 늦고, 서머타임(3월 말~10월 말)엔 6시간 늦습니다.', 'UTC+2, 7 hours behind Korea; 6 hours behind during daylight saving (late March to late October).'),
+    safety: T('외교부 여행경보: 가자지구와 레바논 국경 4km 이내는 4단계(여행금지)로 허가 없이 가면 여권법에 따라 처벌받을 수 있고, 나머지 전역은 3단계(출국권고)입니다. 이스라엘 민방위사령부(Home Front Command) 앱을 설치하고, 경보가 울리면 바로 방공호로 대피하세요. 공항 운영이 예고 없이 제한될 수 있습니다.', 'Korean travel alert: Gaza and within 4 km of the Lebanese border are level 4 (travel ban—entry without permission is punishable under the Passport Act); the rest of Israel is level 3 (leave the country). Install the Home Front Command app and go straight to a shelter when sirens sound. Airport operations can be restricted without notice.'),
+    entry: T('한국 여권은 90일까지 비자 없이 들어갈 수 있지만, 2025년 1월 1일부터 출발 전에 전자여행허가(ETA-IL, israel-entry.piba.gov.il)를 받아야 합니다. 결과는 24~72시간 걸립니다. 아랍·무슬림 국가 방문 기록이 있으면 입국 심사가 까다로울 수 있으니 귀국 항공권과 숙소 예약을 지니세요.', 'Korean passports are visa-free for 90 days, but since 1 January 2025 an ETA-IL (israel-entry.piba.gov.il) must be approved before travel; it takes 24–72 hours. Entry checks can be stricter if you have visited Arab or Muslim countries—carry your return ticket and hotel bookings.'),
+    telecom: T('주요 통신사는 Partner·Cellcom·Pelephone입니다. 공항이나 시내에서 관광객용 유심·eSIM을 삽니다.', 'Main operators: Partner, Cellcom and Pelephone; tourist SIMs and eSIMs are sold at the airport and in town.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

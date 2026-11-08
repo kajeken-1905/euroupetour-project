@@ -1887,6 +1887,40 @@ export const countries: Country[] = [
       { title: { ko: '도하', en: 'Doha' }, cityIds: ['doha'] },
     ],
   },
+  {
+    id: 'il',
+    region: 'mena',
+    name: { ko: '이스라엘', en: 'Israel' },
+    nativeName: 'ישראל · إسرائيل',
+    flagImage: '/flags/il.svg',
+    landmarkImage: '/landmarks/landmark-il.jpg',
+    flag: '🇮🇱',
+    blurb: {
+      ko: '유대교·기독교·이슬람의 성지 예루살렘과 지중해 해변 도시 텔아비브, 몸이 뜨는 사해와 마사다 요새가 있는 나라입니다.',
+      en: 'Home of Jerusalem, holy to Judaism, Christianity and Islam, the Mediterranean beach city of Tel Aviv, the Dead Sea and the fortress of Masada.',
+    },
+    facts: {
+      population: { ko: '약 1,000만 명 (2024년)', en: 'Approx. 10 million (2024)' },
+      area: { ko: '약 2만 2,000 km²', en: 'Approx. 22,000 km²' },
+      capital: { ko: '예루살렘 (국제적으로 지위가 다투어짐)', en: 'Jerusalem (status internationally disputed)' },
+      currency: { ko: '이스라엘 신셰켈 (ILS, ₪)', en: 'Israeli new shekel (ILS, ₪)' },
+    },
+    currencyCode: 'ILS',
+    currencySymbol: '₪',
+    schengen: false,
+    flagColors: {
+      primary: '#0038B8',
+      secondary: '#FFFFFF',
+      accent: '#0038B8',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['jerusalem', 'dead-sea', 'tel-aviv', 'haifa'],
+    cityGroups: [
+      { title: { ko: '예루살렘과 사해', en: 'Jerusalem & the Dead Sea' }, cityIds: ['jerusalem', 'dead-sea'] },
+      { title: { ko: '지중해 연안', en: 'Mediterranean coast' }, cityIds: ['tel-aviv', 'haifa'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

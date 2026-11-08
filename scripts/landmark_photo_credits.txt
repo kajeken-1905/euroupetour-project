@@ -3118,5 +3118,33 @@ highlights/doha-15.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_
 highlights/doha-16.jpg | own photo | own photo | 사용자 촬영
 highlights/doha-17.jpg | https://commons.wikimedia.org/wiki/File:View_of_the_fountain_at_Al_Bayt_Stadium_Park.png | CC BY 3.0 | RaviNevi VIBES
 highlights/doha-18.jpg | https://commons.wikimedia.org/wiki/File:2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg | CC BY 2.0 | D@LY3D from Qatar, Doha
-highlights/doha-19.jpg | https://commons.wikimedia.org/wiki/File:Crawler_crane_and_tower_cranes._lusail_al_thumama_stadium_-_panoramio.jpg | CC BY 3.0 | Suresh Babunair
-highlights/doha-20.jpg | https://commons.wikimedia.org/wiki/File:28_10_2019_Visita_ao_est%C3%A1dio_de_futebol_Al_Janoub_(48977932316).jpg | CC BY 2.0 | Palácio do Planalto from Brasilia, Brasil
+highlights/doha-19.jpg | https://commons.wikimedia.org/wiki/File:Al_Thumama_Stadium_1.jpg | CC BY-SA 4.0 | En.saravanan
+highlights/doha-20.jpg | https://commons.wikimedia.org/wiki/File:Al_Janoub.jpg | CC BY-SA 4.0 | Nydegger Markus
+cities/jerusalem.jpg | https://commons.wikimedia.org/wiki/File:Jerusalem_old_city_panorama_.jpg | CC BY-SA 3.0 | Nettadi
+cities/tel-aviv.jpg | https://commons.wikimedia.org/wiki/File:Israel_Tel_Aviv_Skyline_(34714425090).jpg | CC BY-SA 2.0 | FLASHPACKER TRAVELGUIDE
+cities/haifa.jpg | https://commons.wikimedia.org/wiki/File:Israel_-_Haifa_-_Bahai_Gardens_002.jpg | Public domain | No machine-readable author provided. EdoM assumed (based on
+cities/dead-sea.jpg | https://commons.wikimedia.org/wiki/File:20211122_Landscape_at_the_Dead_Sea,_Ein_Bokek,_Israel_anagoria.jpg | CC BY-SA 4.0 | Anagoria
+highlights/jerusalem-1.jpg | https://commons.wikimedia.org/wiki/File:Western_Wall_at_night_2022.jpg | CC BY-SA 4.0 | DGtal
+highlights/jerusalem-2.jpg | https://commons.wikimedia.org/wiki/File:Jerusalem-2013-Temple_Mount-Dome_of_the_Rock_%26_Chain.jpg | CC BY-SA 4.0 | Godot13
+highlights/jerusalem-3.jpg | https://commons.wikimedia.org/wiki/File:Jerusalem_Holy_Sepulchre_BW_24.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/jerusalem-4.jpg | https://commons.wikimedia.org/wiki/File:Via_Dolorosa,_Jerusalem.jpg | CC BY-SA 4.0 | Dr. Ondřej Havelka (cestovatel)
+highlights/jerusalem-5.jpg | https://commons.wikimedia.org/wiki/File:Old_City_Walls_and_Tower_of_David_in_Jerusalem_(2019)_03.jpg | CC BY-SA 4.0 | Pudelek
+highlights/jerusalem-6.jpg | https://commons.wikimedia.org/wiki/File:Jerusalem_Mount_of_Olives_BW_2010-09-20_07-57-31.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/jerusalem-7.jpg | https://commons.wikimedia.org/wiki/File:Yad_Vashem_View.jpg | CC BY-SA 4.0 | Godot13
+highlights/jerusalem-8.jpg | https://commons.wikimedia.org/wiki/File:Israel_Museum,_Jerusalem_P1110149_(5887691947).jpg | CC BY 2.0 | Ricardo Tulio Gandelman from Rio de Janeiro, Brazil
+highlights/jerusalem-9.jpg | https://commons.wikimedia.org/wiki/File:Mahane_Yehuda_Market_sales_2.JPG | CC BY-SA 3.0 | -jkb-
+highlights/jerusalem-10.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity,_Bethlehem,_Palestine2.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/tel-aviv-1.jpg | https://commons.wikimedia.org/wiki/File:ISR-2013-Aerial-Jaffa-Port_of_Jaffa.jpg | CC BY-SA 4.0 | Godot13
+highlights/tel-aviv-2.jpg | https://commons.wikimedia.org/wiki/File:White_City_(Bauhaus)_Tel_Aviv_Yafo_-_02.jpg | CC BY-SA 2.0 | andynash
+highlights/tel-aviv-3.jpg | https://commons.wikimedia.org/wiki/File:20191006-people_Carmel_Market_Tel_Aviv_2019.jpg | CC0 | Rakoon
+highlights/tel-aviv-4.jpg | https://commons.wikimedia.org/wiki/File:Tel_Aviv_Promenade.jpg | CC0 | Simon Cobb
+highlights/tel-aviv-5.jpg | https://commons.wikimedia.org/wiki/File:Neve_Tzedek_(military_prison),_March_2021._VIII.jpg | CC BY-SA 3.0 | IDF Spokesperson's Unit photographer
+highlights/tel-aviv-6.jpg | https://commons.wikimedia.org/wiki/File:Tel_Aviv_Museum_of_Art_-_Israel,_March_2024_33.jpg | CC BY-SA 4.0 | Chenspec
+highlights/haifa-1.jpg | https://commons.wikimedia.org/wiki/File:150458_haifa_-_the_bahai_gardens_PikiWiki_Israel.jpg | CC BY 2.5 | ליזי שאנן
+highlights/haifa-2.jpg | https://commons.wikimedia.org/wiki/File:German_Colony_(8115431902).jpg | CC BY-SA 2.0 | StateofIsrael
+highlights/haifa-3.jpg | https://commons.wikimedia.org/wiki/File:Stella_Maris_Monastery_12.jpg | CC BY-SA 3.0 | דניאל פישלר
+highlights/haifa-4.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_old_city_of_Acre_(11_April,_2015).I.jpg | CC BY 4.0 | Geagea
+highlights/dead-sea-1.jpg | https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg | CC BY-SA 4.0 | Godot13
+highlights/dead-sea-2.jpg | https://commons.wikimedia.org/wiki/File:Ein_Bokek_06.jpg | CC BY-SA 4.0 | Davide Mauro
+highlights/dead-sea-3.jpg | https://commons.wikimedia.org/wiki/File:Nubian_Ibex_(Capra_nubiana)_in_the_Ein_Gedi_Nature_Reserve,_Judean_Desert.jpg | CC BY-SA 4.0 | Noemi Alzayadi
+landmarks/landmark-il.jpg | https://commons.wikimedia.org/wiki/File:Jerusalem_2012_n026.jpg | CC BY-SA 4.0 | Soluvo

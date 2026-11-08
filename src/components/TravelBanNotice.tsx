@@ -100,6 +100,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/202/detail',
   },
+  // 0404.go.kr Israel page: travel-ban areas (extended 2026-07-09), level 3 elsewhere, notices of 2026-10-20/23/26.
+  il: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고 / 일부 4단계 여행금지', en: 'Korean travel alert · level 3, with level-4 travel-ban areas' },
+    lines: [
+      {
+        ko: '가자지구와 북부 레바논 국경 4km 이내는 4단계(여행금지) 지역으로, 허가 없이 가면 여권법에 따라 처벌받을 수 있습니다. 나머지 전역은 중동 정세로 3단계(출국권고)입니다.',
+        en: 'Gaza and within 4 km of the northern Lebanese border are level 4 (travel ban); entering without permission is punishable under the Passport Act. The rest of Israel is level 3 (leave the country) because of the Middle East situation.',
+      },
+      {
+        ko: '외교부는 2026년 10월 20일·23일·26일 서안지구 상황과 중동 정세에 따른 신변 안전 공지를 냈습니다. 민방위사령부 앱을 설치하고 경보가 울리면 바로 방공호로 대피하세요. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'The ministry issued personal-safety notices on 20, 23 and 26 October 2026 about the West Bank and the wider region. Install the Home Front Command app and go to a shelter at once when sirens sound. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/177/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

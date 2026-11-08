@@ -1308,6 +1308,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  il: {
+    summary: {
+      ko: '우측통행. 텔아비브–예루살렘 고속철도와 해안선 기차, 시외버스가 잘 이어져 있습니다. 안식일(금요일 저녁~토요일 저녁)엔 기차와 대부분의 버스가 쉽니다.',
+      en: 'Drive on the right. The Tel Aviv–Jerusalem fast train, coastal railway and intercity buses connect well, but trains and most buses stop on the Sabbath (Friday evening to Saturday evening).',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '벤구리온 공항–예루살렘 고속철도는 약 25분, 텔아비브–하이파 기차는 약 1시간입니다. 사해와 마사다는 예루살렘에서 버스로 약 1시간 30분입니다.',
+      en: 'Ben Gurion Airport to Jerusalem is about 25 min by fast train; Tel Aviv to Haifa about 1 hr by train; the Dead Sea and Masada about 1 hr 30 by bus from Jerusalem.',
+    },
+    paymentTip: {
+      ko: '기차와 버스는 교통카드 라브카브(Rav-Kav)나 결제 앱으로 탑니다.',
+      en: 'Trains and buses take the Rav-Kav card or a payment app.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

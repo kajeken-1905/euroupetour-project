@@ -2749,6 +2749,42 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  jerusalem: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서, 시내는 경전철과 버스로 다닙니다. 안식일엔 대부분 쉽니다.',
+      en: 'Walk the Old City; use the light rail and buses elsewhere—most stop on the Sabbath.',
+    },
+    apps: [
+    ],
+  },
+  'tel-aviv': {
+    modes: ['walk', 'bus', 'train', 'bike', 'taxi'],
+    howTo: {
+      ko: '해변과 시내는 걷거나 공유 자전거를 타고, 버스·경전철로 다닙니다.',
+      en: 'Walk or use shared bikes along the beach and centre; buses and the light rail cover the rest.',
+    },
+    apps: [
+    ],
+  },
+  haifa: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '산비탈이라 버스와 지하 케이블카(카르멜리트)를 씁니다.',
+      en: 'The city is steep—use buses and the Carmelit underground funicular.',
+    },
+    apps: [
+    ],
+  },
+  'dead-sea': {
+    modes: ['bus', 'taxi'],
+    howTo: {
+      ko: '버스가 적어 차나 투어가 편합니다.',
+      en: 'Buses are few—a car or tour is easiest.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {
