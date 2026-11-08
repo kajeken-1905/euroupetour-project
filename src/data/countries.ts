@@ -588,10 +588,10 @@ export const countries: Country[] = [
       background: '#E8F5E8',
       text: '#0A2A0A',
     },
-    cityIds: ['porto', 'braga', 'guimaraes', 'aveiro', 'coimbra', 'fatima', 'tomar', 'nazare', 'obidos', 'lisbon', 'sintra', 'cascais', 'evora', 'lagos', 'faro', 'funchal'],
+    cityIds: ['porto', 'braga', 'guimaraes', 'aveiro', 'lisbon', 'sintra', 'cascais', 'obidos', 'nazare', 'fatima', 'tomar', 'coimbra', 'evora', 'lagos', 'faro', 'funchal'],
     cityGroups: [
       { title: { ko: '북부', en: 'Northern Portugal' }, cityIds: ['porto', 'braga', 'guimaraes', 'aveiro'] },
-      { title: { ko: '중부', en: 'Central Portugal' }, cityIds: ['coimbra', 'fatima', 'tomar', 'nazare', 'obidos', 'lisbon', 'sintra', 'cascais'] },
+      { title: { ko: '중부', en: 'Central Portugal' }, cityIds: ['lisbon', 'sintra', 'cascais', 'obidos', 'nazare', 'fatima', 'tomar', 'coimbra'] },
       { title: { ko: '남부', en: 'Southern Portugal' }, cityIds: ['evora', 'lagos', 'faro', 'funchal'] },
     ],
   },
