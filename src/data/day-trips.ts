@@ -880,6 +880,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'cadiz',
       tip: '바다로 둘러싸인 구시가의 대성당과 타비라 탑, 중앙 시장을 보고 라 칼레타 해변에서 해 지는 풍경을 봅니다.|The sea-ringed old town: the cathedral, Torre Tavira and the market, then sunset at La Caleta.',
     },
+    {
+      to: 'jerez',
+      tip: '기차로 약 1시간. 셰리 보데가와 승마학교 공연(정해진 요일), 알카사르를 봅니다.|About 1 hr by train: a sherry bodega, the equestrian show (set days only) and the Alcázar.',
+    },
   ],
   malaga: [
     {
@@ -904,11 +908,23 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'cordoba',
       tip: '메스키타와 꽃 골목을 봅니다.|The Mezquita and the flower lanes.',
     },
+    {
+      to: 'ubeda',
+      tip: '버스로 약 2시간 20분. 우베다와 바에사의 르네상스 광장을 보고 올리브유를 맛봅니다.|About 2 hr 20 by bus: the Renaissance squares of Úbeda and Baeza, and an olive-oil tasting.',
+    },
   ],
   bilbao: [
     {
       to: 'san-sebastian',
       tip: '구시가 핀초스 바와 라 콘차 해변을 즐깁니다.|Pintxos bars in the old town and La Concha beach.',
+    },
+    {
+      to: 'logrono',
+      tip: '버스로 약 1시간 40분. 시내 와이너리를 보고 저녁 라우렐 거리 핀초 바를 돕니다.|About 1 hr 40 by bus: a winery in town, then the pintxo bars of Calle Laurel in the evening.',
+    },
+    {
+      to: 'santander',
+      tip: '버스로 약 1시간 30분. 막달레나 궁전과 사르디네로 해변, 보틴 센터를 봅니다.|About 1 hr 30 by bus: the Magdalena Palace, El Sardinero and Centro Botín.',
     },
   ],
   lisbon: [
@@ -1761,6 +1777,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'biarritz',
       tip: '프랑스 바스크 해안의 등대와 바위섬, 서핑 해변을 봅니다.|The lighthouse, the Rocher de la Vierge and the surf beaches of the French Basque coast.',
+    },
+    {
+      to: 'pamplona',
+      tip: '버스로 약 1시간 20분. 구시가 성벽과 엔시에로 길을 걷고 카페 이루냐에 들릅니다.|About 1 hr 20 by bus: the walls, the bull-run route and Café Iruña.',
     },
   ],
   cordoba: [

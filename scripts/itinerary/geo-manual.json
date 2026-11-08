@@ -6509,6 +6509,431 @@
     -3.71223,
     "OSM: Catedral Castrense de las Fuerzas Armadas (photo GPS bearing matches)"
   ],
+  "leon-h1": [
+    42.59946,
+    -5.56668,
+    "OSM Nominatim: Catedral de León, Plaza de Regla, Casco Histórico, León, Cas (Wikipedia 2m)"
+  ],
+  "leon-h3": [
+    42.59849,
+    -5.57068,
+    "OSM Nominatim: Casa Botines, Plaza de San Marcelo, Casco Histórico, León, C (Wikipedia 25m)"
+  ],
+  "leon-h4": [
+    42.59732,
+    -5.56654,
+    "OSM Nominatim: Plaza Mayor, Casco Histórico, León, Castilla y León, España"
+  ],
+  "leon-h5": [
+    42.60208,
+    -5.58225,
+    "OSM Nominatim: Convento de San Marcos, Plaza de San Marcos, Eras de Renueva (Wikipedia 56m)"
+  ],
+  "burgos-h1": [
+    42.34073,
+    -3.70456,
+    "OSM Nominatim: Catedral de Santa María, Plaza Rey San Fernando, Vadillos, D (Wikipedia 11m)"
+  ],
+  "burgos-h2": [
+    42.33979,
+    -3.70394,
+    "OSM Nominatim: Arco de Santa María, Paseo del Espolón, Vadillos, Distrito C (Wikipedia 4m)"
+  ],
+  "burgos-h3": [
+    42.33907,
+    -3.69714,
+    "OSM Nominatim: Museo de la Evolución Humana, Paseo Sierra de Atapuerca, San (Wikipedia 15m)"
+  ],
+  "burgos-h4": [
+    42.33745,
+    -3.65639,
+    "OSM Nominatim: La Cartuja de Miraflores, Acceso a la Cartuja de Miraflores,"
+  ],
+  "burgos-h5": [
+    42.34155,
+    -3.70672,
+    "OSM Nominatim: Mirador del Castillo, Vadillos, Distrito Centro Norte, Burgo (Wikipedia 144m)"
+  ],
+  "logrono-h1": [
+    42.4664,
+    -2.4466,
+    "manual 2026-11-08: Calle del Laurel, Logroño"
+  ],
+  "logrono-h2": [
+    42.46659,
+    -2.44524,
+    "OSM Nominatim: Concatedral de Santa María de la Redonda, 14, Plaza del Merc (Wikipedia 25m)"
+  ],
+  "logrono-h3": [
+    42.47207,
+    -2.44693,
+    "OSM Nominatim: Bodegas Franco españolas, Cabo Noval, San Antonio, El Campil"
+  ],
+  "logrono-h4": [
+    42.58371,
+    -2.84913,
+    "OSM Nominatim: Haro, Calle de la Estación, Barrio de La Estación, Haro, La "
+  ],
+  "logrono-h5": [
+    42.51168,
+    -2.6177,
+    "OSM Nominatim: Hotel Marqués de Riscal, Torrea kalea, Barrihuelo, Elciego, "
+  ],
+  "pamplona-h1": [
+    42.81748,
+    -1.64325,
+    "OSM Nominatim: Café Iruña, Gazteluko plaza, Nabarreria, Casco Antiguo, Pamp"
+  ],
+  "pamplona-h2": [
+    42.81728,
+    -1.64201,
+    "OSM Nominatim: Estafeta kalea, Nabarreria, Casco Antiguo, Pamplona / Iruña,"
+  ],
+  "pamplona-h4": [
+    42.81347,
+    -1.65017,
+    "OSM Nominatim: Ciudadela de Pamplona, Armada etorbidea, Zitadela / Ciudadel (Wikipedia 158m)"
+  ],
+  "santander-h1": [
+    43.46922,
+    -3.76608,
+    "OSM Nominatim: Palacio de La Magdalena, Calle de la Familia Real, Santander (Wikipedia 7m)"
+  ],
+  "santander-h2": [
+    43.4762,
+    -3.7876,
+    "manual 2026-11-08: Playa del Sardinero"
+  ],
+  "santander-h3": [
+    43.46022,
+    -3.80432,
+    "OSM Nominatim: Centro Botín, Muelle de Albareda, Ensanche, Tetuán, Santande"
+  ],
+  "santander-h4": [
+    43.46067,
+    -3.80731,
+    "OSM Nominatim: Catedral de Nuestra Señora de la Asunción, Calle de los Azog (Wikipedia 19m)"
+  ],
+  "santander-h5": [
+    43.37741,
+    -4.1224,
+    "OSM Nominatim: Museo Nacional y Centro de Investigación de Altamira, Acceso (Wikipedia 592m)"
+  ],
+  "oviedo-h1": [
+    43.36252,
+    -5.84329,
+    "OSM Nominatim: Catedral de San Salvador de Oviedo, Plaza de Alfonso II El C (Wikipedia 19m)"
+  ],
+  "oviedo-h2": [
+    43.37905,
+    -5.86599,
+    "OSM Nominatim: Santa María del Naranco, Avenida de los Monumentos, Naranco, (Wikipedia 3m)"
+  ],
+  "oviedo-h3": [
+    43.36493,
+    -5.8456,
+    "OSM Nominatim: Calle Gascona / Cai La Gascona, Foncalada, Centro Norte, Ovi (Wikipedia 550m)"
+  ],
+  "oviedo-h4": [
+    43.3619,
+    -5.84438,
+    "OSM Nominatim: Museo de Bellas Artes de Asturias, Calle Rúa, Trascorrales,  (Wikipedia 57m)"
+  ],
+  "oviedo-h5": [
+    43.30697,
+    -5.05387,
+    "OSM Nominatim: Santa Cueva, Fonte de Cuadonga, Cuadonga / Covadonga, Cangas"
+  ],
+  "teruel-h1": [
+    40.34201,
+    -1.10802,
+    "OSM Nominatim: Torre de la Iglesia del Salvador, 7, Calle El Salvador, Teru"
+  ],
+  "teruel-h2": [
+    40.34384,
+    -1.10726,
+    "OSM Nominatim: Catedral de Santa María, Plaza de la Catedral, Teruel, Comun (Wikipedia 6m)"
+  ],
+  "teruel-h3": [
+    40.3424,
+    -1.10627,
+    "OSM Nominatim: Mausoleo de los Amantes, Plaza de los Amantes, Teruel, Comun"
+  ],
+  "teruel-h4": [
+    40.34303,
+    -1.10697,
+    "OSM Nominatim: Plaza de Carlos Castel, Teruel, Comunidad de Teruel, Teruel,"
+  ],
+  "teruel-h5": [
+    40.40728,
+    -1.44428,
+    "OSM Nominatim: Albarracín, Sierra de Albarracín, Teruel, Aragón, España (Wikipedia 426m)"
+  ],
+  "caceres-h1": [
+    39.47491,
+    -6.37098,
+    "OSM Nominatim: Arco de la Estrella, Calle Arco de la Estrella, Plaza Mayor,"
+  ],
+  "caceres-h2": [
+    39.47518,
+    -6.37097,
+    "OSM Nominatim: Torre de Bujaco, Plaza Mayor, Cáceres, Extremadura, 10003, E"
+  ],
+  "caceres-h4": [
+    39.47275,
+    -6.37034,
+    "OSM Nominatim: Museo de Cáceres, Plaza de las Veletas, Ciudad Monumental, C"
+  ],
+  "caceres-h5": [
+    39.46059,
+    -5.88159,
+    "OSM Nominatim: Plaza Mayor, Trujillo, Cáceres, Extremadura, España (Wikipedia 570m)"
+  ],
+  "merida-h1": [
+    38.91531,
+    -6.33834,
+    "OSM Nominatim: Teatro Romano, Calle Arzobispo Antonio Montero, Los Bodegone (Wikipedia 16m)"
+  ],
+  "merida-h2": [
+    38.91724,
+    -6.33984,
+    "OSM Nominatim: Museo Nacional de Arte Romano, Calle Hernán Cortés, Cruz Cam (Wikipedia 7m)"
+  ],
+  "merida-h3": [
+    38.91295,
+    -6.35132,
+    "OSM Nominatim: Puente Romano, Plaza de Roma, Cruz Campo, Mérida, Badajoz, E (Wikipedia 44m)"
+  ],
+  "merida-h4": [
+    38.91654,
+    -6.34437,
+    "OSM Nominatim: Templo de Diana, Calle Santa Catalina, Cruz Campo, Mérida, B (Wikipedia 115m)"
+  ],
+  "merida-h5": [
+    38.92395,
+    -6.3479,
+    "OSM Nominatim: Acueducto de los Milagros, Calle Ribera, Las Abadías, Carces (Wikipedia 120m)"
+  ],
+  "ubeda-h1": [
+    38.00764,
+    -3.36824,
+    "OSM Nominatim: Plaza Vázquez de Molina, Santa María, Centro Histórico, Úbed (Wikipedia 23m)"
+  ],
+  "ubeda-h3": [
+    38.01,
+    -3.36889,
+    "OSM Nominatim: Sinagoga del Agua, 2, Calle Roque Rojas, Santa María, Centro"
+  ],
+  "ubeda-h4": [
+    38.01148,
+    -3.36917,
+    "OSM Nominatim: Centro de Interpretación Olivar y Aceite, 32, Calle de la Co"
+  ],
+  "ubeda-h5": [
+    37.99162,
+    -3.47042,
+    "OSM Nominatim: Plaza de los Leones, Barrio Poetas de la Hispanidad, Baeza, "
+  ],
+  "jerez-h1": [
+    36.68007,
+    -6.14295,
+    "OSM Nominatim: Bodegas González Byass, Calle Unión, San Lucas, Jerez de la "
+  ],
+  "jerez-h3": [
+    36.68077,
+    -6.13987,
+    "OSM Nominatim: Alcázar de Jerez de la Frontera, Calle Conde de Bayona, San  (Wikipedia 26m)"
+  ],
+  "jerez-h4": [
+    36.68232,
+    -6.14111,
+    "OSM Nominatim: Catedral de Jerez de la Frontera, Plaza Encarnación, San Luc (Wikipedia 41m)"
+  ],
+  "jerez-h5": [
+    36.6887,
+    -6.14765,
+    "OSM Nominatim: Calle Barrio Obrero, Santiago, Jerez de la Frontera, Campiña"
+  ],
+  "tarifa-h1": [
+    36.01415,
+    -5.6044,
+    "OSM Nominatim: Puerta de Jerez, Calle Jerez, 28 de Febrero, Tarifa, Campo d (Wikipedia 145m)"
+  ],
+  "tarifa-h2": [
+    36.01168,
+    -5.60281,
+    "OSM Nominatim: Castillo de Guzmán El Bueno, Calle María Coronel, Barriada d"
+  ],
+  "tarifa-h3": [
+    36.03003,
+    -5.62406,
+    "OSM Nominatim: Playa de Los Lances, Tarifa, Campo de Gibraltar, Cádiz, Anda"
+  ],
+  "tarifa-h4": [
+    36.00902,
+    -5.60399,
+    "OSM Nominatim: Puerto de Tarifa, Calle Joaquín Tena Artigas, Huerta del Rey (Wikipedia 906m)"
+  ],
+  "tarifa-h5": [
+    36.08961,
+    -5.77455,
+    "OSM Nominatim: Baelo Claudia, El Lentiscal, Tarifa, Campo de Gibraltar, Cád (Wikipedia 20m)"
+  ],
+  "almeria-h1": [
+    36.84091,
+    -2.47135,
+    "OSM Nominatim: Conjunto Monumental la Alcazaba de Almería, Calle Pendiente, (Wikipedia 58m)"
+  ],
+  "almeria-h2": [
+    36.83803,
+    -2.46721,
+    "OSM Nominatim: Catedral de la Encarnación, Plaza Bendicho, Almedina, Almerí (Wikipedia 74m)"
+  ],
+  "almeria-h3": [
+    36.84,
+    -2.4629,
+    "manual 2026-11-08: Refugios de la Guerra Civil, Almería"
+  ],
+  "almeria-h4": [
+    36.72165,
+    -2.19288,
+    "OSM Nominatim: Faro de Cabo de Gata, AL-3115, Níjar, Almería, Andalucía, Es"
+  ],
+  "almeria-h5": [
+    37.01802,
+    -2.43023,
+    "OSM Nominatim: Minihollywood Oasys Theme Park, N-340a, Tabernas, Almería, A"
+  ],
+  "alicante-h1": [
+    38.34911,
+    -0.47751,
+    "OSM Nominatim: Castell de Santa Bàrbara, Carrer de la Mare de Déu del Socor (Wikipedia 54m)"
+  ],
+  "alicante-h2": [
+    38.34314,
+    -0.48329,
+    "OSM Nominatim: Passeig de l'Esplanada d'Espanya, Raval de Sant Francesc, Al"
+  ],
+  "alicante-h3": [
+    38.3462,
+    -0.47631,
+    "OSM Nominatim: Platja del Postiguet, Alacant / Alicante, l'Alacantí, Alacan (Wikipedia 597m)"
+  ],
+  "alicante-h4": [
+    38.3467,
+    -0.4797,
+    "manual 2026-11-08: Barrio de Santa Cruz, Alicante"
+  ],
+  "alicante-h5": [
+    38.35388,
+    -0.47621,
+    "OSM Nominatim: MARQ - Museo Arqueológico de Alicante, Carrer d'Indalecio Pr (Wikipedia 21m)"
+  ],
+  "alicante-h6": [
+    38.16492,
+    -0.47317,
+    "OSM Nominatim: Illa de Tabarca, Tabarca, Alacant / Alicante, l'Alacantí, Al (Wikipedia 808m)"
+  ],
+  "ibiza-h1": [
+    38.90739,
+    1.43579,
+    "OSM Nominatim: Dalt Vila, Eivissa, Illes Balears, España"
+  ],
+  "ibiza-h2": [
+    38.90664,
+    1.43671,
+    "OSM Nominatim: Catedral d'Eivissa, 3, Plaça de la Catedral, Dalt Vila, Eivi (Wikipedia 4m)"
+  ],
+  "ibiza-h3": [
+    38.85332,
+    1.39156,
+    "OSM Nominatim: Ses Salines, Sant Francesc de s'Estany, Sant Josep de sa Tal"
+  ],
+  "ibiza-h4": [
+    38.96288,
+    1.22127,
+    "OSM Nominatim: Platges de Comte, Sant Josep de sa Talaia, Eivissa, Illes Ba (Wikipedia 96m)"
+  ],
+  "ibiza-h5": [
+    38.8757,
+    1.2137,
+    "manual 2026-11-08: Mirador des Savinar (Es Vedrà)"
+  ],
+  "menorca-h1": [
+    39.889,
+    4.266,
+    "manual 2026-11-08: Port de Maó"
+  ],
+  "menorca-h2": [
+    39.89149,
+    4.26184,
+    "OSM Nominatim: Xoriguer Gin factory, Moll de Ponent, Dalt Sant Joan, Maó, M"
+  ],
+  "menorca-h3": [
+    40.00179,
+    3.83772,
+    "OSM Nominatim: Catedral de Santa Maria, Plaça de la Catedral, Nucli Antic, "
+  ],
+  "menorca-h4": [
+    40.00308,
+    3.89165,
+    "OSM Nominatim: Naveta des Tudons, Camí Vell, Torretrencada, Ciutadella de M (Wikipedia 9m)"
+  ],
+  "menorca-h5": [
+    39.9387,
+    3.93709,
+    "OSM Nominatim: Cala Macarella, Ciutadella, Menorca, Illes Balears, España"
+  ],
+  "tenerife-h1": [
+    28.26225,
+    -16.63236,
+    "OSM Nominatim: Teleférico del Teide, Mirador Base del Teide, La Orotava, Sa"
+  ],
+  "tenerife-h2": [
+    28.48751,
+    -16.31361,
+    "OSM Nominatim: Plaza del Adelantado, San Roque, La Cuesta, San Cristóbal de (Wikipedia 388m)"
+  ],
+  "tenerife-h3": [
+    28.5308,
+    -16.2797,
+    "manual 2026-11-08: Cruz del Carmen, Anaga"
+  ],
+  "tenerife-h4": [
+    28.3047,
+    -16.8424,
+    "manual 2026-11-08: Masca"
+  ],
+  "tenerife-h5": [
+    28.31625,
+    -16.88311,
+    "OSM Nominatim: Acantilados de los Gigantes, Buenavista del Norte, Santiago "
+  ],
+  "leon-h2": [
+    42.6006,
+    -5.5713,
+    "manual 2026-11-08: Real Colegiata de San Isidoro"
+  ],
+  "pamplona-h3": [
+    42.8195,
+    -1.6401,
+    "manual 2026-11-08: Catedral de Pamplona"
+  ],
+  "caceres-h3": [
+    39.474,
+    -6.3709,
+    "manual 2026-11-08: Concatedral de Santa María, Cáceres"
+  ],
+  "ubeda-h2": [
+    38.0081,
+    -3.3693,
+    "manual 2026-11-08: Sacra Capilla del Salvador"
+  ],
+  "jerez-h2": [
+    36.6936,
+    -6.1338,
+    "manual 2026-11-08: Real Escuela Andaluza del Arte Ecuestre"
+  ],
   "madrid-h25": [
     40.4175,
     -3.69955,

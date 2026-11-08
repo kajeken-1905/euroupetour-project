@@ -176,6 +176,57 @@ export const STAY: Record<string, StayArea[]> = {
     a('구시가', 'Old town', 'Plaza de San Juan de Dios, Cádiz', '처음 가는 여행에 추천|Best for a first visit', '바다로 둘러싸인 구시가에 대성당과 시장, 해변이 모두 걸어서 닿습니다.|The sea-ringed old town, with the cathedral, market and beaches all on foot.'),
     a('세비야에서 다녀오기', 'Base in Seville', 'Seville', '거점에서 다녀오기|Day trip from a base', '세비야에서 기차로 약 1시간 40분입니다.|About 1 hr 40 by train from Seville.'),
   ],
+  leon: [
+    a('구시가', 'Old town', 'Barrio Húmedo León', '처음 가는 여행에 추천|Best for a first visit', '대성당과 바리오 우메도가 걸어서 닿고 역까지 걸어서 약 20분입니다.|The cathedral and the Barrio Húmedo on foot, about 20 min’s walk from the station.'),
+  ],
+  burgos: [
+    a('대성당 주변 구시가', 'Old town by the cathedral', 'Plaza Mayor Burgos', '처음 가는 여행에 추천|Best for a first visit', '대성당과 강변이 걸어서 닿습니다. 기차역은 시 외곽이라 버스나 택시를 탑니다.|The cathedral and riverside on foot; the station is out of town, so take a bus or taxi.'),
+  ],
+  logrono: [
+    a('구시가', 'Old town', 'Calle Laurel Logroño', '처음 가는 여행에 추천|Best for a first visit', '라우렐 거리와 대성당이 걸어서 닿고 역까지 걸어서 약 15분입니다.|Calle Laurel and the cathedral on foot, about 15 min’s walk from the station.'),
+  ],
+  pamplona: [
+    a('구시가', 'Old town', 'Casco Antiguo Pamplona', '처음 가는 여행에 추천|Best for a first visit', '광장과 성벽이 걸어서 닿고 버스터미널까지 걸어서 약 10분입니다.|The square and walls on foot, about 10 min’s walk from the bus station.'),
+  ],
+  santander: [
+    a('시내 중심과 항구', 'Centre & waterfront', 'Paseo de Pereda Santander', '처음 가는 여행에 추천|Best for a first visit', '보틴 센터와 대성당, 역이 걸어서 닿고 사르디네로까지 버스로 약 15분입니다.|Centro Botín, the cathedral and the station on foot; about 15 min by bus to El Sardinero.'),
+  ],
+  oviedo: [
+    a('구시가', 'Old town', 'Casco Antiguo Oviedo', '처음 가는 여행에 추천|Best for a first visit', '대성당과 시드레리아 거리가 걸어서 닿고 역까지 걸어서 약 15분입니다.|The cathedral and cider bars on foot, about 15 min’s walk from the station.'),
+  ],
+  teruel: [
+    a('구시가', 'Old town', 'Plaza del Torico Teruel', '처음 가는 여행에 추천|Best for a first visit', '탑과 대성당이 걸어서 닿고 역에서 계단 ‘에스칼리나타’로 올라옵니다.|The towers and cathedral on foot; climb up from the station by the grand staircase.'),
+  ],
+  caceres: [
+    a('구시가 아래 마요르 광장', 'Plaza Mayor', 'Plaza Mayor Cáceres', '처음 가는 여행에 추천|Best for a first visit', '구시가가 걸어서 닿고 역에서는 버스나 택시로 약 10분입니다.|The old town on foot; about 10 min from the station by bus or taxi.'),
+  ],
+  merida: [
+    a('시내 중심', 'Town centre', 'Plaza de España Mérida', '처음 가는 여행에 추천|Best for a first visit', '극장과 신전, 다리가 모두 걸어서 닿습니다.|The theatre, temple and bridge all on foot.'),
+  ],
+  ubeda: [
+    a('우베다 구시가', 'Úbeda old town', 'Plaza Vázquez de Molina Úbeda', '처음 가는 여행에 추천|Best for a first visit', '광장과 성당이 걸어서 닿고 버스터미널까지 걸어서 약 15분입니다.|The square and churches on foot, about 15 min’s walk from the bus station.'),
+  ],
+  jerez: [
+    a('시내 중심', 'Town centre', 'Plaza del Arenal Jerez', '처음 가는 여행에 추천|Best for a first visit', '보데가와 알카사르가 걸어서 닿고 역까지 걸어서 약 15분입니다.|Bodegas and the Alcázar on foot, about 15 min’s walk from the station.'),
+  ],
+  tarifa: [
+    a('구시가', 'Old town', 'Tarifa old town', '처음 가는 여행에 추천|Best for a first visit', '성과 항구가 걸어서 닿고 버스 정류장까지 걸어서 약 10분입니다.|The castle and port on foot, about 10 min’s walk from the bus stop.'),
+  ],
+  almeria: [
+    a('시내 중심', 'City centre', 'Paseo de Almería', '처음 가는 여행에 추천|Best for a first visit', '알카사바와 대성당이 걸어서 닿고 통합 역까지 걸어서 약 15분입니다.|The Alcazaba and cathedral on foot, about 15 min’s walk from the combined station.'),
+  ],
+  alicante: [
+    a('구시가와 에스플라나다', 'Old town & Explanada', 'Explanada de España', '처음 가는 여행에 추천|Best for a first visit', '해변과 성 엘리베이터가 걸어서 닿고 역까지 걸어서 약 15분입니다.|The beach and castle lift on foot, about 15 min’s walk from the station.'),
+  ],
+  ibiza: [
+    a('이비사 시내 항구', 'Ibiza Town harbour', 'Marina Ibiza', '처음 가는 여행에 추천|Best for a first visit', '달트 빌라와 항구가 걸어서 닿고 공항버스가 다닙니다.|Dalt Vila and the harbour on foot, with the airport bus nearby.'),
+  ],
+  menorca: [
+    a('마온 시내와 항구', 'Mahón centre & harbour', 'Maó centre', '처음 가는 여행에 추천|Best for a first visit', '항구와 구시가가 걸어서 닿고 공항까지 차로 약 10분입니다.|The harbour and old town on foot, about 10 min by car from the airport.'),
+  ],
+  tenerife: [
+    a('라 라구나', 'La Laguna', 'San Cristóbal de La Laguna', '처음 가는 여행에 추천|Best for a first visit', '구시가와 트램이 있고 북부 공항이 가깝습니다. 해변 휴가는 남부 해안이 편합니다.|The old town and tram, close to the north airport; for a beach holiday the south coast is easier.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

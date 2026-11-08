@@ -2838,3 +2838,105 @@ highlights/madrid-26.jpg | own photo | own photo | 사용자 촬영
 highlights/madrid-27.jpg | own photo | own photo | 사용자 촬영
 highlights/madrid-28.jpg | own photo | own photo | 사용자 촬영
 highlights/salamanca-1.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Salamanca_iluminada.jpg | CC BY-SA 4.0 | Jl FilpoC
+cities/leon.jpg | https://commons.wikimedia.org/wiki/File:P%C3%B3rtico_Catedral_de_Le%C3%B3n_55.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/leon-1.jpg | https://commons.wikimedia.org/wiki/File:Le%C3%B3n_Cathedral,_Spain.jpg | CC0 | Joselodos
+highlights/leon-2.jpg | https://commons.wikimedia.org/wiki/File:Real_Colegiata_de_San_Isidoro,_Le%C3%B3n._Claustro.jpg | CC BY 3.0 | José Luis Filpo Cabana
+highlights/leon-3.jpg | https://commons.wikimedia.org/wiki/File:Casa_Botines_(Gaudi)_1_Le%C3%B3n.jpg | CC0 | Coralma*
+highlights/leon-5.jpg | https://commons.wikimedia.org/wiki/File:Hostal_de_San_Marcos_Leon.jpg | CC BY-SA 3.0 | The original uploader was Josemanuel at Spanish Wikipedia.
+cities/burgos.jpg | https://commons.wikimedia.org/wiki/File:Escaleras_a_la_Catedral_--_2023_--_Burgos,_Castilla_y_Le%C3%B3n,_Espa%C3%B1a.jpg | CC BY-SA 4.0 | José Ligero Loarte
+highlights/burgos-1.jpg | https://commons.wikimedia.org/wiki/File:Burgos_cathedral_1.JPG | CC0 | Jebulon
+highlights/burgos-2.jpg | https://commons.wikimedia.org/wiki/File:Burgos_-_Arco_de_Santa_Maria_10.JPG | CC0 | Zarateman
+highlights/burgos-3.jpg | https://commons.wikimedia.org/wiki/File:Human_Evolution_Museum.jpg | CC BY-SA 3.0 | Jardoz
+highlights/burgos-4.jpg | https://commons.wikimedia.org/wiki/File:Burgos_-_Cartuja_de_Miraflores.jpg | CC BY 2.5 | Ecelan 08:48, 1 December 2007 (UTC)
+cities/logrono.jpg | https://commons.wikimedia.org/wiki/File:Logro%C3%B1o_-_Bicicletas_municipales.jpg | CC0 | Zarateman
+highlights/logrono-1.jpg | https://commons.wikimedia.org/wiki/File:Logro%C3%B1o_-_Calle_Laurel_2.JPG | CC BY-SA 3.0 | Zarateman
+highlights/logrono-2.jpg | https://commons.wikimedia.org/wiki/File:Retablo_mayor_de_la_Concatedral_de_Santa_Mar%C3%ADa_de_la_Redonda,_Logro%C3%B1o.jpg | CC BY-SA 4.0 | Jl FilpoC
+highlights/logrono-5.jpg | https://commons.wikimedia.org/wiki/File:Bodega_Marqu%C3%A9s_de_Riscal_en_Elciego_(%C3%81lava)_-_panoramio.jpg | CC BY-SA 3.0 | Juan E. M.
+cities/pamplona.jpg | https://commons.wikimedia.org/wiki/File:Gate_at_Parque_de_la_Taconera_-_Pamplona_-_Spain_-_April_2024.jpg | CC BY-SA 4.0 | Anass Sedrati
+highlights/pamplona-1.jpg | https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Iru%C3%B1a_Pamplona_02.jpg | CC BY-SA 4.0 | Waltie
+highlights/pamplona-3.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_of_Pamplona_(8).jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/santander.jpg | https://commons.wikimedia.org/wiki/File:Isla_de_Corbera,_Santander,_Espa%C3%B1a,_2019-08-15,_DD_68.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/santander-1.jpg | https://commons.wikimedia.org/wiki/File:El_Palacio_de_la_Magdalena_(2).jpg | CC BY-SA 3.0 | Noreenlam
+highlights/santander-2.jpg | https://commons.wikimedia.org/wiki/File:Playa_Sardinero,_Santander,_Spain_(2).jpg | CC BY 2.0 | Pedro Lopez from Ottawa, Canada
+highlights/santander-3.jpg | https://commons.wikimedia.org/wiki/File:Centro_Bot%C3%ADn_(37578627575).jpg | CC BY-SA 2.0 | Angel  de los Rios from Valladolid, Spain
+highlights/santander-5.jpg | https://commons.wikimedia.org/wiki/File:Entrada_al_Museo_de_Altamira.jpg | CC BY-SA 4.0 | Alonso de Mendoza
+cities/oviedo.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Oviedo_en_2023.jpg | CC0 | Aarón-ulpgc
+highlights/oviedo-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_of_Oviedo_2021_-_exterior.jpg | CC BY-SA 4.0 | Fernando
+highlights/oviedo-3.jpg | https://commons.wikimedia.org/wiki/File:Gascona_(4163640865).jpg | CC BY 2.0 | amaianos from Galicia
+highlights/oviedo-4.jpg | https://commons.wikimedia.org/wiki/File:Museo-de-Bellas-Artes-de-Asturias-Oviedo.jpg | CC BY 4.0 | Acediscovery
+highlights/oviedo-5.jpg | https://commons.wikimedia.org/wiki/File:Lagos_de_Covadonga,2.jpg | CC BY-SA 4.0 | JavierOlivares
+cities/teruel.jpg | https://commons.wikimedia.org/wiki/File:Museo_de_Arte_Sacro,_Teruel,_Espa%C3%B1a,_2014-01-10,_DD_44.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/teruel-1.jpg | https://commons.wikimedia.org/wiki/File:Torre_de_El_Salvador._Teruel_cropped.jpg | CC BY-SA 4.0 | Tagarino
+highlights/teruel-2.jpg | https://commons.wikimedia.org/wiki/File:Catedral,_Teruel,_Espa%C3%B1a,_2014-01-10,_DD_67.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/teruel-4.jpg | https://commons.wikimedia.org/wiki/File:Plaza_del_Torico_junio_2024.jpg | CC BY-SA 4.0 | 19Tarrestnom65
+highlights/teruel-5.jpg | https://commons.wikimedia.org/wiki/File:Albarrac%C3%ADn,_Teruel,_Espa%C3%B1a,_2014-01-10,_DD_035.JPG | CC BY-SA 3.0 | Diego Delso
+cities/caceres.jpg | https://commons.wikimedia.org/wiki/File:Old_Town_of_C%C3%A1ceres-111096.jpg | CC BY-SA 3.0 igo | Yvon Fruneau
+highlights/caceres-1.jpg | https://commons.wikimedia.org/wiki/File:C%C3%A1ceres-Arco_de_la_Estrella_12.jpg | CC BY-SA 4.0 | Leyendasdesevilla
+highlights/caceres-2.jpg | https://commons.wikimedia.org/wiki/File:Ermita_de_la_Paz_y_torre_de_Bujaco_3.JPG | CC BY-SA 3.0 | Lancastermerrin88
+highlights/caceres-4.jpg | https://commons.wikimedia.org/wiki/File:University_of_Nueva_Caceres_Museum_signage.jpg | CC BY-SA 4.0 | Irvin (PH-WC)
+highlights/caceres-5.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Trujillo_-_05.jpg | CC BY-SA 4.0 | Carlos Delgado
+cities/merida.jpg | https://commons.wikimedia.org/wiki/File:Teatro_romano_de_M%C3%A9rida._Espa%C3%B1a-2.jpg | CC BY-SA 4.0 | Lmbuga (Luis Miguel Bugallo Sánchez)
+highlights/merida-1.jpg | https://commons.wikimedia.org/wiki/File:Teatro_romano_de_M%C3%A9rida._Espa%C3%B1a-2.jpg | CC BY-SA 4.0 | Lmbuga (Luis Miguel Bugallo Sánchez)
+highlights/merida-2.jpg | https://commons.wikimedia.org/wiki/File:Museo_internacional_de_arte_romana._M%C3%A9rida._eue-101.jpg | CC BY-SA 4.0 | Lmbuga (Luis Miguel Bugallo Sánchez)
+highlights/merida-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A9rida_-_Puente_romano_-_02.jpg | CC BY-SA 4.0 | Xosema
+highlights/merida-4.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Diana_in_M%C3%A9rida.jpg | CC BY-SA 4.0 | Fernando
+highlights/merida-5.jpg | https://commons.wikimedia.org/wiki/File:Acueducto_de_Los_Milagros_(6804059108).jpg | CC BY-SA 2.0 | Ángel M. Felicísimo from Mérida, España
+cities/ubeda.jpg | https://commons.wikimedia.org/wiki/File:Museo_Arqueol%C3%B3gico_de_%C3%9Abeda_09.jpg | CC BY-SA 4.0 | Carlosjvives
+highlights/ubeda-2.jpg | https://commons.wikimedia.org/wiki/File:%C3%9Abeda_Spain_Church-of-El-Salvador-01.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+highlights/ubeda-5.jpg | https://commons.wikimedia.org/wiki/File:Baeza_-_Plaza_del_P%C3%B3pulo_-_1.jpg | CC BY-SA 4.0 | Benjamin Smith
+cities/jerez.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel,_Jerez_de_la_Frontera,_Espa%C3%B1a,_2015-12-07,_DD_105-107_HDR.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/jerez-1.jpg | https://commons.wikimedia.org/wiki/File:Bodegas_T%C3%ADo_Pepe_IMG_20230214_175224.jpg | CC BY-SA 4.0 | El Pantera
+highlights/jerez-3.jpg | https://commons.wikimedia.org/wiki/File:Alc%C3%A1zar,_Jerez_de_la_Frontera,_Espa%C3%B1a,_2015-12-07,_DD_66-71_PAN.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/jerez-4.jpg | https://commons.wikimedia.org/wiki/File:Catedral,_Jerez_de_la_Frontera,_Espa%C3%B1a,_2015-12-07,_DD_24-26_HDR.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/jerez-5.jpg | https://commons.wikimedia.org/wiki/File:Santiago-Jerez-P1530080.jpg | CC BY-SA 4.0 | El Pantera
+cities/tarifa.jpg | https://commons.wikimedia.org/wiki/File:Tarifa_3678999.jpg | CC BY-SA 4.0 | Đuro Jiří
+highlights/tarifa-2.jpg | https://commons.wikimedia.org/wiki/File:Torre_de_Guzm%C3%A1n,_Conil_(14553750770).jpg | CC BY-SA 2.0 | rey perezoso
+highlights/tarifa-3.jpg | https://commons.wikimedia.org/wiki/File:Playa_de_los_Lances_atardecer.JPG | CC BY-SA 3.0 | Falconaumanni
+highlights/tarifa-5.jpg | https://commons.wikimedia.org/wiki/File:Ruinas_Baelo_Claudia-IMG_20230819_113553.jpg | CC BY-SA 4.0 | El Pantera
+cities/almeria.jpg | https://commons.wikimedia.org/wiki/File:Horizon_cr%C3%A9neaux_Alcazaba,_Almeria,_Spain.jpg | CC BY-SA 4.0 | Jebulon
+highlights/almeria-1.jpg | https://commons.wikimedia.org/wiki/File:Alcazaba_1,_Almeria,_Spain.jpg | CC0 | Jebulon
+highlights/almeria-2.jpg | https://commons.wikimedia.org/wiki/File:Almeria_Cathedral_2023_-_Main_fa%C3%A7ade.jpg | CC BY-SA 4.0 | Fernando
+highlights/almeria-3.jpg | https://commons.wikimedia.org/wiki/File:Civil_War_Shelters_of_Almer%C3%ADa_-_42794189921.jpg | CC BY 2.0 | Shadowgate
+highlights/almeria-4.jpg | https://commons.wikimedia.org/wiki/File:Panoramica_del_Cabo_de_Gata,_Almeria_(Almeria).jpg | Public domain | Pablo Forcén Soler (Forcy)
+highlights/almeria-5.jpg | https://commons.wikimedia.org/wiki/File:Tabernas_al_sur_de_Mini_Hollywood_OASYS-3.jpg | CC BY-SA 4.0 | Fährtenleser
+cities/alicante.jpg | https://commons.wikimedia.org/wiki/File:El_Faro_de_Torrevieja_lighthouse_in_Torrevieja,_Alicante,_Spain,_2022_January.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/alicante-1.jpg | https://commons.wikimedia.org/wiki/File:Alicante_-_Castillo_de_Santa_B%C3%A1rbara_22.11.2010_16.JPG | CC BY-SA 3.0 | Michael Kranewitter
+highlights/alicante-2.jpg | https://commons.wikimedia.org/wiki/File:Explanada_de_Espa%C3%B1a_Alicante_1.jpg | CC BY-SA 4.0 | kallerna
+highlights/alicante-3.jpg | https://commons.wikimedia.org/wiki/File:Playa_del_Postiguet_4.jpg | CC BY-SA 4.0 | kallerna
+highlights/alicante-4.jpg | https://commons.wikimedia.org/wiki/File:J29_459_Alicante,_barrio_de_Santa_Cruz.jpg | CC BY-SA 4.0 | Falk2
+highlights/alicante-5.jpg | https://commons.wikimedia.org/wiki/File:MARQ_Alacant.JPG | Public domain | Joanbanjo
+highlights/alicante-6.jpg | https://commons.wikimedia.org/wiki/File:Tabarca_Island-Alicante_(Spain)_-_48502403002_(cropped).jpg | CC BY 2.0 | Jose A.
+cities/ibiza.jpg | https://commons.wikimedia.org/wiki/File:Old_Ibiza_Town_5.jpg | CC BY 2.0 | AH AP
+highlights/ibiza-1.jpg | https://commons.wikimedia.org/wiki/File:Dalt_Vila_004.JPG | CC BY-SA 3.0 | Xaviduran
+highlights/ibiza-2.jpg | https://commons.wikimedia.org/wiki/File:20230717_164928_Cathedral_in_Eivissa_(Ibiza).jpg | CC BY-SA 4.0 | Leon petrosyan
+highlights/ibiza-3.jpg | https://commons.wikimedia.org/wiki/File:Ibiza_playa_de_ses_salines_2335.jpg | CC BY-SA 3.0 | Zavijavah
+highlights/ibiza-4.jpg | https://commons.wikimedia.org/wiki/File:Sunset_Cala_Comte.JPG | CC BY-SA 4.0 | AinaCE
+cities/menorca.jpg | https://commons.wikimedia.org/wiki/File:Ciutadella_de_Menorca_-_44051328972.jpg | CC0 | Nicolas Vigier
+highlights/menorca-3.jpg | https://commons.wikimedia.org/wiki/File:Ciutadella_de_Menorca_-_29161861717.jpg | CC0 | Nicolas Vigier
+highlights/menorca-4.jpg | https://commons.wikimedia.org/wiki/File:Tudons01.jpg | Public domain | 
+highlights/menorca-5.jpg | https://commons.wikimedia.org/wiki/File:Cala_Macarella_(16419868752).jpg | CC BY-SA 2.0 | Markus Trienke
+cities/tenerife.jpg | https://commons.wikimedia.org/wiki/File:Vista_de_Garachico,_Tenerife,_Espa%C3%B1a,_2012-12-13,_DD_05.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/tenerife-1.jpg | https://commons.wikimedia.org/wiki/File:Teide_qtl1.jpg | CC BY-SA 3.0 | Quartl
+highlights/tenerife-2.jpg | https://commons.wikimedia.org/wiki/File:San_Crist%C3%B3bal_de_La_Laguna.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/tenerife-3.jpg | https://commons.wikimedia.org/wiki/File:Euphorbia_canariensis_-_Macizo_de_Anaga.jpg | CC BY-SA 3.0 | H. Zell
+highlights/tenerife-4.jpg | https://commons.wikimedia.org/wiki/File:Masca_-_Macizo_de_Teno_02.jpg | CC BY-SA 3.0 | H. Zell
+highlights/tenerife-5.jpg | https://commons.wikimedia.org/wiki/File:Los_Gigantes,_Tenerife,_Espa%C3%B1a,_2012-12-16,_DD_02.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/leon-4.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Le%C3%B3n,_Espa%C3%B1a.png | CC BY-SA 3.0 | XanaG
+highlights/burgos-5.jpg | https://www.flickr.com/photos/31195974@N05/22172066406 | BY-SA 2.0 | El Coleccionista de Instantes
+highlights/logrono-3.jpg | https://www.flickr.com/photos/48600078653@N01/51644366787 | BY-SA 2.0 | jmerelo
+highlights/logrono-4.jpg | https://www.flickr.com/photos/21186555@N07/54111301698 | BY 2.0 | . Ray in Manila
+highlights/pamplona-2.jpg | https://commons.wikimedia.org/wiki/File:Pamplona_-_Monumento_al_Encierro.jpg | CC0 | Zarateman
+highlights/pamplona-4.jpg | https://commons.wikimedia.org/wiki/File:Pamplona_-_Ciudadela_10.JPG | CC0 | Zarateman
+highlights/santander-4.jpg | https://commons.wikimedia.org/wiki/File:Santander_Cathedral_2021_-_exterior_panoramic.jpg | CC BY-SA 4.0 | Fernando
+highlights/teruel-3.jpg | https://commons.wikimedia.org/wiki/File:Teruel_-_Mausoleo_de_los_Amantes_3.jpg | CC0 | Zarateman
+highlights/caceres-3.jpg | https://commons.wikimedia.org/wiki/File:Parte_antigua_de_C%C3%A1ceres,_Extremadura,_Espa%C3%B1a_edited.jpg | CC BY-SA 4.0 | Alonso de Mendoza
+highlights/ubeda-1.jpg | https://www.flickr.com/photos/16564965@N04/53151220209 | BY 2.0 | www.mgaylard.co.uk and thanks for looking
+highlights/ubeda-4.jpg | https://commons.wikimedia.org/wiki/File:Olivar_de_Ja%C3%A9n02.jpg | CC BY-SA 4.0 | Veinticuatro de Jahén
+highlights/jerez-2.jpg | https://commons.wikimedia.org/wiki/File:Real_Escuela_Andaluza_Arte_Ecuestre_DSC06087.JPG | CC BY-SA 4.0 | El Pantera
+highlights/tarifa-1.jpg | https://commons.wikimedia.org/wiki/File:Tarifa_-_001_(30671256916).jpg | CC BY-SA 2.0 | Luis Rogelio HM
+highlights/tarifa-4.jpg | https://www.flickr.com/photos/155466725@N07/35916410942 | BY 2.0 | Yakari-Travel
+highlights/ibiza-5.jpg | https://www.flickr.com/photos/86829008@N03/26541728985 | BY 2.0 | Travelbusy.com
+highlights/menorca-1.jpg | https://www.flickr.com/photos/7728954@N02/4977922014 | BY-SA 2.0 | Miquel Colomer
+highlights/menorca-2.jpg | https://commons.wikimedia.org/wiki/File:Xoriguer_Destilerias_Port_Mahon_Minorca_night_-_panoramio.jpg | CC BY-SA 3.0 | Santiago Lap
+highlights/oviedo-2.jpg | https://commons.wikimedia.org/wiki/File:Oviedo_Iglesia_de_Santa_Mar%C3%ADa_del_Naranco_(53035776074).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/ubeda-3.jpg | https://commons.wikimedia.org/wiki/File:Sinagoga_del_Agua.jpg | CC BY-SA 4.0 | Fernando

@@ -2343,6 +2343,187 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('renfe'),
     ],
   },
+  leon: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  burgos: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역에서 시내는 버스로 갑니다.',
+      en: 'Walk the old town; buses link the station to the centre.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  logrono: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 하로까지는 기차나 버스, 엘시에고는 차가 편합니다.',
+      en: 'Walk the town; take a train or bus to Haro, and a car is easiest for Elciego.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  pamplona: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역은 강 건너라 버스를 탑니다.',
+      en: 'Walk the old town; the station is across the river, so take a bus.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  santander: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서, 사르디네로와 막달레나는 시내버스로 갑니다.',
+      en: 'Walk the centre; city buses go to El Sardinero and La Magdalena.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  oviedo: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 나랑코 성당은 버스나 걸어서 약 30분입니다.',
+      en: 'Walk the old town; Naranco is a bus ride or about 30 min uphill on foot.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  teruel: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 알바라신은 차가 편합니다.',
+      en: 'Walk the old town; a car is easiest for Albarracín.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  caceres: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  merida: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '유적들이 시내에 모여 있어 걸어서 다닙니다.',
+      en: 'The ruins are close together, so walk.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  ubeda: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 바에사는 버스로 갑니다.',
+      en: 'Walk the old town; take the bus to Baeza.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  jerez: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 카디스·세비야와 근교 열차로 이어집니다.',
+      en: 'Walk the centre; trains link it to Cádiz and Seville.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  tarifa: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 해변과 바엘로 클라우디아는 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the beaches and Baelo Claudia.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  almeria: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 카보 데 가타와 타베르나스는 차가 편합니다.',
+      en: 'Walk the centre; a car is easiest for Cabo de Gata and Tabernas.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  alicante: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 해안 트램이 북쪽 해변 마을로 이어집니다.',
+      en: 'Walk the centre; the coastal tram runs to beach towns to the north.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  ibiza: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 해변은 버스로 가고, 섬 서쪽은 차가 편합니다.',
+      en: 'Walk the town; buses reach the beaches, and a car is easiest for the west coast.',
+    },
+    apps: [
+    ],
+  },
+  menorca: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마온과 시우타데야는 걸어서 다니고, 두 도시는 버스로 이어집니다. 만은 여름 버스나 차로 갑니다.',
+      en: 'Walk Mahón and Ciutadella, linked by bus; reach the coves by summer bus or car.',
+    },
+    apps: [
+    ],
+  },
+  tenerife: {
+    modes: ['tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '라 라구나와 산타 크루스는 트램으로 이어집니다. 섬 일주와 테이데는 차가 편합니다.',
+      en: 'A tram links La Laguna and Santa Cruz; a car is easiest for Teide and the rest of the island.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

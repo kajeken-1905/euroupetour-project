@@ -387,6 +387,88 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   cadiz: {
     rail: [['Cádiz', '카디스역', '구시가 입구|at the edge of the old town']],
   },
+  leon: {
+    air: [MAD()],
+    rail: [['León', '레온역']],
+    bus: [['Estación de Autobuses de León', '레온 버스터미널']],
+  },
+  burgos: {
+    air: [MAD()],
+    rail: [['Burgos Rosa de Lima', '부르고스 로사 데 리마역', '시내까지 버스로 약 15분|about 15 min by bus to the centre']],
+    bus: [['Estación de Autobuses de Burgos', '부르고스 버스터미널']],
+  },
+  logrono: {
+    air: [['Bilbao (BIO)', '빌바오 공항 (BIO)', '빌바오|Bilbao']],
+    rail: [['Logroño', '로그로뇨역']],
+    bus: [['Estación de Autobuses de Logroño', '로그로뇨 버스터미널']],
+  },
+  pamplona: {
+    air: [['Pamplona (PNA)', '팜플로나 공항 (PNA)'], ['Bilbao (BIO)', '빌바오 공항 (BIO)', '빌바오|Bilbao']],
+    rail: [['Pamplona-Iruña', '팜플로나역', '시내까지 버스로 약 15분|about 15 min by bus to the centre']],
+    bus: [['Estación de Autobuses de Pamplona', '팜플로나 버스터미널']],
+  },
+  santander: {
+    air: [['Santander Seve Ballesteros (SDR)', '산탄데르 공항 (SDR)']],
+    rail: [['Santander', '산탄데르역']],
+    port: [['Puerto de Santander', '산탄데르 항구', '영국 포츠머스·플리머스행 페리|ferries to Portsmouth and Plymouth']],
+  },
+  oviedo: {
+    air: [['Asturias (OVD)', '아스투리아스 공항 (OVD)']],
+    rail: [['Oviedo', '오비에도역']],
+    bus: [['Estación de Autobuses de Oviedo', '오비에도 버스터미널']],
+  },
+  teruel: {
+    air: [['Valencia (VLC)', '발렌시아 공항 (VLC)', '발렌시아|Valencia']],
+    rail: [['Teruel', '테루엘역']],
+    bus: [['Estación de Autobuses de Teruel', '테루엘 버스터미널']],
+  },
+  caceres: {
+    air: [MAD(), ['Badajoz (BJZ)', '바다호스 공항 (BJZ)', '바다호스|Badajoz']],
+    rail: [['Cáceres', '카세레스역']],
+    bus: [['Estación de Autobuses de Cáceres', '카세레스 버스터미널']],
+  },
+  merida: {
+    air: [['Badajoz (BJZ)', '바다호스 공항 (BJZ)', '바다호스|Badajoz'], ['Sevilla (SVQ)', '세비야 공항 (SVQ)', '세비야|Seville']],
+    rail: [['Mérida', '메리다역']],
+    bus: [['Estación de Autobuses de Mérida', '메리다 버스터미널']],
+  },
+  ubeda: {
+    air: [['Granada (GRX)', '그라나다 공항 (GRX)', '그라나다|Granada'], AGP()],
+    rail: [['Linares-Baeza', '리나레스 바에사역', '우베다까지 버스·택시로 약 30분|about 30 min to Úbeda by bus or taxi']],
+    bus: [['Estación de Autobuses de Úbeda', '우베다 버스터미널']],
+  },
+  jerez: {
+    air: [['Jerez (XRY)', '헤레스 공항 (XRY)'], ['Sevilla (SVQ)', '세비야 공항 (SVQ)', '세비야|Seville']],
+    rail: [['Jerez de la Frontera', '헤레스역']],
+    bus: [['Estación de Autobuses de Jerez', '헤레스 버스터미널']],
+  },
+  tarifa: {
+    air: [['Gibraltar (GIB)', '지브롤터 공항 (GIB)', '지브롤터|Gibraltar'], AGP()],
+    bus: [['Estación de Autobuses de Tarifa', '타리파 버스 정류장']],
+    port: [['Puerto de Tarifa', '타리파 항구', '모로코 탕헤르행 페리|ferries to Tangier, Morocco']],
+  },
+  almeria: {
+    air: [['Almería (LEI)', '알메리아 공항 (LEI)']],
+    rail: [['Almería', '알메리아 역(버스·기차 통합)']],
+    port: [['Puerto de Almería', '알메리아 항구', '모로코·알제리행 페리|ferries to Morocco and Algeria']],
+  },
+  alicante: {
+    air: [['Alicante–Elche (ALC)', '알리칸테 엘체 공항 (ALC)']],
+    rail: [['Alicante-Terminal', '알리칸테 테르미날역']],
+    bus: [['Estación de Autobuses de Alicante', '알리칸테 버스터미널']],
+  },
+  ibiza: {
+    air: [['Ibiza (IBZ)', '이비사 공항 (IBZ)']],
+    port: [['Puerto de Ibiza', '이비사 항구', '바르셀로나·발렌시아·팔마·포르멘테라행 페리|ferries to Barcelona, Valencia, Palma and Formentera']],
+  },
+  menorca: {
+    air: [['Menorca (MAH)', '메노르카 공항 (MAH)']],
+    port: [['Port de Maó', '마온 항구', '바르셀로나·팔마행 페리|ferries to Barcelona and Palma'], ['Port de Ciutadella', '시우타데야 항구', '마요르카 알쿠디아행 페리|ferries to Alcúdia, Mallorca']],
+  },
+  tenerife: {
+    air: [['Tenerife Norte (TFN)', '테네리페 북부 공항 (TFN)'], ['Tenerife Sur (TFS)', '테네리페 남부 공항 (TFS)']],
+    port: [['Puerto de Santa Cruz de Tenerife', '산타 크루스 항구', '다른 카나리아 섬행 페리|ferries to the other Canary Islands']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

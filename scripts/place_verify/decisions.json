@@ -335,6 +335,66 @@
 "alghero-fine_dining-2": {
 "ok": 1
 },
+"alicante-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"alicante-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"almeria-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "amalfi-bakery-1": {
 "addr": "Piazza Duomo 40, 84011 Amalfi",
 "ok": 1
@@ -2945,6 +3005,30 @@
 "ko": "부드바의 한식당. 비빔밥이 가장 호평을 받습니다.",
 "ok": 1
 },
+"burgos-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"burgos-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"burgos-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"burgos-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"burgos-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"burgos-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "bursa-bakery-1": {
 "en": "Old wood-oven bakery in Muradiye making Bursa's tahini pide (tahanlı).",
 "ko": "무라디예의 오래된 화덕 빵집. 부르사 명물 타히니 피데(타한르)를 굽습니다.",
@@ -2976,6 +3060,26 @@
 "en": "Restaurant near the Green Mosque serving Bursa-style döner and İskender, with city views.",
 "ko": "예실 사원 근처에서 부르사식 되네르와 이스켄데르를 내는 식당. 시내 전망이 있습니다.",
 "ok": 1
+},
+"caceres-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"caceres-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"caceres-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"caceres-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"caceres-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "cadiz-bakery-1": {
 "ok": 1,
@@ -6727,6 +6831,26 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"ibiza-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ibiza-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ibiza-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ibiza-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ibiza-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "ilulissat-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -7053,6 +7177,30 @@
 "jajce-fine_dining-4": {
 "ok": 1,
 "src": "2026-11-07 google maps"
+},
+"jerez-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"jerez-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"jerez-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"jerez-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"jerez-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"jerez-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "jurmala-bakery-1": {
 "del": "Vienības prospekts 35 is only the company's registered address; no shop confirmed there"
@@ -8248,6 +8396,30 @@
 "ko": "중앙역 근처의 한식당. 김치·고기 요리와 채식 메뉴가 있습니다.",
 "ok": 1
 },
+"leon-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"leon-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"leon-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"leon-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"leon-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"leon-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "les-baux-de-provence-fine_dining-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -8775,6 +8947,38 @@
 "lodz-fine_dining-3": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
+},
+"logrono-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"logrono-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "lon-bk-1": {
 "addr": "197 Richmond Rd, London E8 3NJ",
@@ -9860,6 +10064,30 @@
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
 },
+"menorca-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"menorca-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"menorca-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"menorca-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"menorca-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"menorca-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "menton-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps"
@@ -9911,6 +10139,22 @@
 "merano-fine_dining-4": {
 "ok": 1,
 "src": "2026-11-07 google maps / michelin 2026"
+},
+"merida-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"merida-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"merida-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"merida-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "meteora-bakery-1": {
 "ok": 1,
@@ -11363,6 +11607,34 @@
 "ok": 1,
 "src": "2026-11-07 google maps / michelin 2026"
 },
+"oviedo-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"oviedo-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"oviedo-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"oviedo-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"oviedo-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"oviedo-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"oviedo-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "oxford-bakery-1": {
 "en": "Neighbourhood bakery café on Iffley Road.",
 "ko": "이플리 로드의 동네 빵집 겸 카페.",
@@ -11551,6 +11823,34 @@
 "en": "Asian restaurant on the Plaça del Mercat serving bibimbap and other Korean and Asian dishes; closed Sundays.",
 "ko": "메르카트 광장의 아시아 식당. 비빔밥 같은 한식과 다른 아시아 요리를 내고 일요일은 쉽니다.",
 "ok": 1
+},
+"pamplona-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pamplona-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pamplona-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pamplona-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pamplona-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pamplona-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"pamplona-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "pamukkale-bakery-1": {
 "del": 1
@@ -13724,6 +14024,34 @@
 "san-sebastian-korean-2": {
 "del": 1
 },
+"santander-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"santander-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"santander-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"santander-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"santander-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"santander-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"santander-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "santiago-bakery-1": {
 "del": 1
 },
@@ -15389,6 +15717,22 @@
 "addr": "Via di Giovanni 45, 98039 Taormina",
 "ok": 1
 },
+"tarifa-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tarifa-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tarifa-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tarifa-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
 "tarragona-bakery-1": {
 "ok": 1,
 "src": "2026-11-04 google maps / michelin 2026"
@@ -15519,6 +15863,50 @@
 "en": "Fish-and-chip restaurant and takeaway since 1935, using local fish, with gluten-free options.",
 "ko": "1935년부터 이어온 피시앤칩스 가게 겸 식당. 지역 생선을 쓰고 글루텐프리도 있습니다.",
 "ok": 1
+},
+"tenerife-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tenerife-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tenerife-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tenerife-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"tenerife-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"teruel-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"teruel-bakery-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"teruel-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"teruel-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"teruel-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"teruel-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "tetovo-bakery-1": {
 "del": "Bakal Bakery Tetovo not found in any source"
@@ -16467,6 +16855,26 @@
 "en": "All-you-can-eat Asian buffet in central Turku, related to Yummy Korean in Tampere.",
 "ko": "투르쿠 중심가의 아시아식 뷔페 식당(탐페레의 Yummy Korean과 같은 계열).",
 "ok": 1
+},
+"ubeda-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ubeda-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ubeda-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ubeda-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
+},
+"ubeda-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps / michelin 2026"
 },
 "ulcinj-bakery-1": {
 "ok": 1,
