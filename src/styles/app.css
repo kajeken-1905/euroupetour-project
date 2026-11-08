@@ -4515,3 +4515,23 @@ a.plan-btn {
     animation: none;
   }
 }
+
+/* Region tabs on the map and region headings on the country list (Europe pink, North Africa & Middle East blue). */
+.map-region-tabs {
+  margin: 0 0 10px;
+}
+.map-region-tabs button.active.map-region-tab--mena {
+  background: var(--map-mena-selected);
+  border-color: var(--map-mena-selected);
+  color: #fff;
+}
+.country-region-heading {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  margin: 18px 4px 10px;
+  padding-left: 10px;
+  border-left: 4px solid var(--map-selected);
+}
+.country-region-heading--mena {
+  border-left-color: var(--map-mena-selected);
+}

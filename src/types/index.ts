@@ -271,7 +271,7 @@ export interface Country {
     currency: { ko: string; en: string }
   }
   /** 환율 조회용 ISO 코드 */
-  currencyCode: 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK' | 'TRY' | 'RON' | 'BAM' | 'RSD' | 'GEL' | 'MKD' | 'ALL' | 'UAH' | 'MDL' | 'AMD' | 'AZN' | 'RUB' | 'BYN'
+  currencyCode: 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK' | 'TRY' | 'RON' | 'BAM' | 'RSD' | 'GEL' | 'MKD' | 'ALL' | 'UAH' | 'MDL' | 'AMD' | 'AZN' | 'RUB' | 'BYN' | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD'
   currencySymbol: string
   /** 솅겐 지역 가입 여부 */
   schengen: boolean
@@ -282,6 +282,8 @@ export interface Country {
     background: string
     text: string
   }
+  /** World region: 'mena' = North Africa & Middle East (blue map palette); unset = Europe. */
+  region?: 'europe' | 'mena'
   cityIds: string[]
   /** Optional regional grouping of cities (shown with headings on the country page, in this order). */
   cityGroups?: { title: { ko: string; en: string }; cityIds: string[] }[]

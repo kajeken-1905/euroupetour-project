@@ -42,6 +42,22 @@ const PHONE_LAYOUT: MapLayout = { width: 800, height: 485, center: [16, 53.5], s
 /** Wide screens: a 2:1 map that fills the window, North Cape to Cyprus, with room for Iceland where it is. */
 const WIDE_LAYOUT: MapLayout = { width: 1100, height: 535, center: [13, 56.7], scale: 453, iceland: 'true' }
 
+/** North Africa & Middle East: Morocco to the Gulf, the Mediterranean coast down to southern Egypt and Saudi Arabia. */
+const MENA_PHONE_LAYOUT: MapLayout = { width: 800, height: 485, center: [21, 28], scale: 560, iceland: 'true' }
+const MENA_WIDE_LAYOUT: MapLayout = { width: 1100, height: 535, center: [21, 28.5], scale: 700, iceland: 'true' }
+
+export type MapRegion = 'europe' | 'mena'
+
+/** Map fills per region: Europe keeps its pinks, North Africa & the Middle East are blue. */
+const REGION_FILL = {
+  europe: { default: 'var(--map-default)', visited: 'var(--map-visited)', selected: 'var(--map-selected)' },
+  mena: { default: 'var(--map-mena-default)', visited: 'var(--map-mena-visited)', selected: 'var(--map-mena-selected)' },
+} as const
+
+function fillOf(country: { region?: MapRegion }) {
+  return REGION_FILL[country.region ?? 'europe']
+}
+
 const WIDE_QUERY = '(min-width: 1024px)'
 function useWideScreen() {
   return useSyncExternalStore(
@@ -181,11 +197,12 @@ function nearMainlandFeature(
   }
 }
 
-export function EuropeMap() {
+export function EuropeMap({ region = 'europe' }: { region?: MapRegion } = {}) {
   const navigate = useNavigate()
   const { lang } = useLanguage()
   const { data: visitedData } = useVisitedPlaces()
-  const layout = useWideScreen() ? WIDE_LAYOUT : PHONE_LAYOUT
+  const wide = useWideScreen()
+  const layout = region === 'mena' ? (wide ? MENA_WIDE_LAYOUT : MENA_PHONE_LAYOUT) : wide ? WIDE_LAYOUT : PHONE_LAYOUT
   const { width: MAP_WIDTH, height: MAP_HEIGHT, center: DEFAULT_CENTER, scale: MAP_SCALE } = layout
   // Fixed screen position for the selected-country label, in the map's own viewBox units.
   const LABEL_ANCHOR: [number, number] = [MAP_WIDTH / 2, 18]
@@ -456,10 +473,10 @@ export function EuropeMap() {
                         style={{
                           fill: country
                             ? isVisited
-                              ? 'var(--map-visited)'
-                              : 'var(--map-default)'
+                              ? fillOf(country).visited
+                              : fillOf(country).default
                             : 'var(--map-neutral)',
-                          stroke: isSelected ? 'var(--map-selected)' : 'var(--surface)',
+                          stroke: isSelected && country ? fillOf(country).selected : 'var(--surface)',
                           strokeWidth: isSelected ? 2.5 : 0.5,
                           // Keeps the stroke a constant on-screen thickness regardless of
                           // zoom — without this, a selected (zoomed-in) country's thin
@@ -529,8 +546,8 @@ export function EuropeMap() {
                       fill: isSelected
                         ? hexToRgba(c.flagColors.primary, 0.55)
                         : isVisited
-                          ? 'var(--map-visited)'
-                          : 'var(--map-default)',
+                          ? fillOf(c).visited
+                          : fillOf(c).default,
                     }}
                   />
                   <title>{c.name[lang]}</title>

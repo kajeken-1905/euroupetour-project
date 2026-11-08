@@ -67,6 +67,8 @@ export const ui = {
   home: { ko: '홈', en: 'Home' },
   countries: { ko: '국가', en: 'Countries' },
   map: { ko: '지도', en: 'Map' },
+  regionEurope: { ko: '유럽', en: 'Europe' },
+  regionMena: { ko: '북아프리카·중동', en: 'North Africa & Middle East' },
   mapSubtitle: {
     ko: '가이드가 완성된 57개국을 지도에서 한눈에 확인하세요.',
     en: 'See all 57 guide-complete countries at a glance.',

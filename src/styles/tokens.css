@@ -15,6 +15,10 @@
   --map-visited: #e0569b;
   --map-selected: #d6006f;
   --map-neutral: #e2dccf;
+  /* North Africa & Middle East use a blue palette (Europe keeps the pinks above). */
+  --map-mena-default: #c7dcf3;
+  --map-mena-visited: #3f7fd0;
+  --map-mena-selected: #0057b8;
 }
 
 * {
