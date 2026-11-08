@@ -28,6 +28,7 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  doha: { n: '11~3월이 선선해 좋고, 6~9월은 40℃를 훌쩍 넘습니다. 라마단 기간엔 낮에 식당이 문을 닫습니다.|November–March is pleasantly cool; June–September soars past 40 °C. During Ramadan restaurants close by day.' },
   'abu-simbel': { n: '10~3월이 좋고, 여름 낮은 45℃ 가까이 오릅니다. 2월·10월 22일 태양 축제가 유명합니다.|October–March is best; summer days near 45 °C. The Sun Festival on 22 February and 22 October is famous.' },
   'kom-ombo': { n: '10~4월이 좋습니다. 크루즈는 대개 저녁에 신전을 들릅니다.|October–April is best; cruises usually visit in the evening.' },
   edfu: { n: '10~4월이 좋습니다. 크루즈는 대개 아침 일찍 신전을 들릅니다.|October–April is best; cruises usually visit the temple early in the morning.' },

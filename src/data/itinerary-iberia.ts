@@ -83,6 +83,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   edfu: [2, 1, 3],
   'kom-ombo': [1, 2, 3],
   'abu-simbel': [1, 2, 3, 4],
+  doha: { days: [['수크 와키프와 해안 박물관|Souq Waqif & the bayside museums', 6, 1, 7, 2, 3, 5, 4, 11, 16], ['웨스트베이·더 펄과 월드컵 경기장|West Bay, The Pearl & the World Cup stadiums', 18, 10, 12, 19, 9, 8, 15, 20]], trips: [['알 베이트 스타디움|Al Bayt Stadium', 17], ['알 주바라 요새|Al Zubarah Fort', 13], ['내해 사막 투어|Inland Sea desert tour', 14]] },
   segovia: { days: [['', 1, 5, 6, 7, 3, 4, 8, 2]], trips: [['라 그랑하|La Granja', 9]] },
   avila: [1, 3, 2, 4, 6, 5],
   ronda: { days: [['', 5, 3, 1, 2, 4]], trips: [['세테닐 데 라스 보데가스|Setenil de las Bodegas', 6]] },

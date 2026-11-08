@@ -62,6 +62,7 @@ import { placesMAExtra } from './places-ma-extra'
 import { placesTNExtra } from './places-tn-extra'
 import { placesEGExtra } from './places-eg-extra'
 import { placesJOExtra } from './places-jo-extra'
+import { placesQAExtra } from './places-qa-extra'
 import { sortByRating } from '../utils/sortByRating'
 
 export const places: Place[] = [
@@ -122,6 +123,7 @@ export const places: Place[] = [
   ...placesTNExtra,
   ...placesEGExtra,
   ...placesJOExtra,
+  ...placesQAExtra,
   ...placesUAExtra,
   ...placesMDExtra,
   ...placesAMExtra,

@@ -2740,6 +2740,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  doha: {
+    modes: ['metro', 'tram', 'rideshare', 'taxi', 'walk'],
+    howTo: {
+      ko: '도하 지하철과 무료 트램, 호출 앱(Uber·Careem·Karwa)으로 다닙니다. 한낮엔 걷기 어려울 만큼 덥습니다.',
+      en: 'Use the Doha Metro, free trams and ride-hailing (Uber, Careem, Karwa); midday is too hot to walk far.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

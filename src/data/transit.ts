@@ -1292,6 +1292,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  qa: {
+    summary: {
+      ko: '우측통행. 도하 지하철 3개 노선과 무료 트램(무셰이레브·루사일), 호출 앱으로 다닙니다. 사막과 북부는 차나 투어가 편합니다.',
+      en: 'Drive on the right. Use the three Doha Metro lines, the free Msheireb and Lusail trams and ride-hailing apps; a car or tour is easiest for the desert and the north.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '하마드 국제공항은 유럽–아시아 노선의 큰 환승지로, 지하철 레드 라인으로 시내까지 약 20분입니다.',
+      en: 'Hamad International is a major Europe–Asia hub, about 20 min from the city on the Metro Red Line.',
+    },
+    paymentTip: {
+      ko: '지하철은 트래블 카드를 사서 충전하거나 1회권을 삽니다. 골드 클럽(1등 칸)은 요금이 다릅니다.',
+      en: 'Buy a rechargeable travel card or single tickets for the Metro; Gold Club carriages cost more.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

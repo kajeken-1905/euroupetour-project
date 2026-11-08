@@ -304,6 +304,10 @@ export const STAY: Record<string, StayArea[]> = {
   'abu-simbel': [
     a('아부심벨 마을', 'Abu Simbel village', 'Abu Simbel', '처음 가는 여행에 추천|Best for a first visit', '마을에 묵으면 소리와 빛의 쇼와 이른 아침 신전을 여유 있게 봅니다. 대부분은 아스완에서 당일로 다녀옵니다.|Staying lets you see the evening show and the temples early; most visit as a day trip from Aswan.'),
   ],
+  doha: [
+    a('무셰이레브·수크 와키프', 'Msheireb & Souq Waqif', 'Msheireb Downtown Doha', '처음 가는 여행에 추천|Best for a first visit', '시장과 박물관, 지하철 환승역이 걸어서 닿습니다.|The souq, museums and the Metro interchange on foot.'),
+    a('웨스트베이', 'West Bay', 'West Bay Doha', '전망 좋은 호텔|Hotels with views', '고층 호텔이 모인 신도심으로, 코르니시와 지하철이 가깝습니다.|The high-rise hotel district near the Corniche and the Metro.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

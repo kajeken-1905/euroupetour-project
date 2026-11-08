@@ -7,6 +7,8 @@ export type StampIcon =
 
 export const countryStamps: Record<string, StampIcon> = {
   // North Africa & Middle East: cut from the user's stamp sheet (2026-11-08).
+  // The Museum of Islamic Art's stepped block, drawn by hand (no stamp for Qatar on the sheet).
+  qa: { kind: 'svg', width: 160, height: 120, markup: `<path d="M30,112 L130,112 L130,92 L30,92 Z M42,92 L118,92 L118,70 L42,70 Z M54,70 L106,70 L106,46 L54,46 Z M64,46 L96,46 L96,26 L64,26 Z M72,26 L88,26 L88,14 L72,14 Z" fill="#8a8a8a"/><path d="M74,88 L74,76 Q80,70 86,76 L86,88 Z M70,40 L70,32 L90,32 L90,40 Z" fill="#f6f2ea"/><path d="M4,114 L156,114" stroke="#8a8a8a" stroke-width="3"/>` },
   // Petra's Treasury between its cliffs, drawn by hand (no usable stamp on the sheet).
   jo: { kind: 'svg', width: 160, height: 120, markup: `<path d="M4,116 L4,8 L30,8 L30,116 Z M130,116 L130,8 L156,8 L156,116 Z M36,116 L36,64 L124,64 L124,116 Z M32,64 L80,48 L128,64 Z M44,48 L44,14 L116,14 L116,48 Z M42,112 L42,70 L46,70 L46,112 Z M56,112 L56,70 L60,70 L60,112 Z M100,112 L100,70 L104,70 L104,112 Z M114,112 L114,70 L118,70 L118,112 Z M72,112 L72,76 Q80,70 88,76 L88,112 Z M50,44 L50,20 L53,20 L53,44 Z  M60,44 L60,20 L63,20 L63,44 Z  M97,44 L97,20 L100,20 L100,44 Z  M107,44 L107,20 L110,20 L110,44 Z M70,44 L70,24 Q80,16 90,24 L90,44 Z" fill="#8a8a8a" fill-rule="evenodd"/><path d="M80,10 L80,4" stroke="#8a8a8a" stroke-width="3"/>` },
   // The Giza pyramids, drawn by hand (the sheet's stamp was too blurry).

@@ -567,6 +567,10 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   'abu-simbel': {
     air: [['Abu Simbel (ABS)', '아부심벨 공항 (ABS)', '카이로·아스완 국내선|domestic flights from Cairo and Aswan']],
   },
+  doha: {
+    air: [['Hamad International (DOH)', '하마드 국제공항 (DOH)', '지하철 레드 라인으로 시내까지 약 20분|about 20 min to the city on the Metro Red Line']],
+    rail: [['Msheireb', '무셰이레브역', '도하 지하철 세 노선 환승역|interchange of all three Metro lines']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

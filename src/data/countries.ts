@@ -1854,6 +1854,39 @@ export const countries: Country[] = [
       { title: { ko: '남부', en: 'The south' }, cityIds: ['petra', 'wadi-rum', 'aqaba'] },
     ],
   },
+  {
+    id: 'qa',
+    region: 'mena',
+    name: { ko: '카타르', en: 'Qatar' },
+    nativeName: 'قطر · Qaṭar',
+    flagImage: '/flags/qa.svg',
+    landmarkImage: '/landmarks/landmark-qa.jpg',
+    flag: '🇶🇦',
+    blurb: {
+      ko: '페르시아만에 튀어나온 반도 나라. 수도 도하에 전통 시장 수크 와키프와 이슬람 미술관, 사막의 장미 모양 국립 박물관이 있고, 유럽과 아시아를 잇는 경유지로도 많이 들릅니다.',
+      en: 'The peninsula nation in the Persian Gulf—Doha has the Souq Waqif market, the Museum of Islamic Art and the desert-rose National Museum, and is a popular stopover between Europe and Asia.',
+    },
+    facts: {
+      population: { ko: '약 300만 명 (2024년)', en: 'Approx. 3 million (2024)' },
+      area: { ko: '약 1만 1,586 km²', en: 'Approx. 11,586 km²' },
+      capital: { ko: '도하 (Doha)', en: 'Doha' },
+      currency: { ko: '카타르 리얄 (QAR, QR) · 고정 환율 1달러 ≈ 3.64리얄', en: 'Qatari riyal (QAR, QR), pegged at about 3.64 to the US dollar' },
+    },
+    currencyCode: 'QAR',
+    currencySymbol: 'QR',
+    schengen: false,
+    flagColors: {
+      primary: '#8A1538',
+      secondary: '#FFFFFF',
+      accent: '#8A1538',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['doha'],
+    cityGroups: [
+      { title: { ko: '도하', en: 'Doha' }, cityIds: ['doha'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

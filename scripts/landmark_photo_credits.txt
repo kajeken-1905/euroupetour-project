@@ -3097,3 +3097,26 @@ highlights/abu-simbel-1.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe
 highlights/abu-simbel-2.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Nefertari,_Abu_Simbel,_Egipto,_2022-04-02,_DD_159.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/abu-simbel-3.jpg | https://commons.wikimedia.org/wiki/File:Abu_Simbel_01.jpg | CC BY-SA 3.0 | Angel Aroca Escámez
 highlights/abu-simbel-4.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_26-28_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+landmarks/landmark-qa.jpg | own photo | own photo | 사용자 촬영
+gateways/gw-doh.jpg | own photo | own photo | 사용자 촬영
+cities/doha.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-1.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-2.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-3.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-4.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-5.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-6.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-7.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-8.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-9.jpg | https://commons.wikimedia.org/wiki/File:Colorful_landscaping_in_Katara_cultural_village_plaza.jpg | CC BY-SA 4.0 | km2bp @ Mapillary.com
+highlights/doha-10.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-13.jpg | https://commons.wikimedia.org/wiki/File:Qatar_-_Al_Zubarah_Fort_01.jpg | CC BY 4.0 | P. Hughes
+highlights/doha-11.jpg | https://commons.wikimedia.org/wiki/File:Old_Doha_Port_(26531598444).jpg | CC BY 2.0 | Erick Irani from Doha
+highlights/doha-12.jpg | https://www.flickr.com/photos/14759783@N04/54011213544 | BY 2.0 | young shanahan
+highlights/doha-14.jpg | https://commons.wikimedia.org/wiki/File:InlandSeaQatar.jpg | CC BY-SA 2.0 | Isabell Schulz
+highlights/doha-15.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lusail_Stadium_during_the_daytime.png | CC BY 3.0 | Djawed_vlog
+highlights/doha-16.jpg | own photo | own photo | 사용자 촬영
+highlights/doha-17.jpg | https://commons.wikimedia.org/wiki/File:View_of_the_fountain_at_Al_Bayt_Stadium_Park.png | CC BY 3.0 | RaviNevi VIBES
+highlights/doha-18.jpg | https://commons.wikimedia.org/wiki/File:2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg | CC BY 2.0 | D@LY3D from Qatar, Doha
+highlights/doha-19.jpg | https://commons.wikimedia.org/wiki/File:Crawler_crane_and_tower_cranes._lusail_al_thumama_stadium_-_panoramio.jpg | CC BY 3.0 | Suresh Babunair
+highlights/doha-20.jpg | https://commons.wikimedia.org/wiki/File:28_10_2019_Visita_ao_est%C3%A1dio_de_futebol_Al_Janoub_(48977932316).jpg | CC BY 2.0 | Palácio do Planalto from Brasilia, Brasil

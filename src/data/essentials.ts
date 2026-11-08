@@ -970,6 +970,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 여권은 비자가 필요합니다. 공항과 육로 국경에서 도착 비자(90일, 40디나르)를 받거나 내무부 앱으로 전자비자를 미리 받습니다. 요르단 패스(70~80디나르, 페트라 입장 포함)를 미리 사면 3일 이상 머물 때 비자 요금이 면제되고, 아카바 공항·국경으로 들어오면 비자 요금이 없습니다.', 'Korean passports need a visa: get a visa on arrival (90 days, JOD 40) at airports and land borders, or an e-visa in advance through the Interior Ministry app. Buying the Jordan Pass (JOD 70–80, Petra included) waives the visa fee for stays of 3 days or more, and entry via Aqaba’s airport or border is fee-free.'),
     telecom: T('주요 통신사는 Zain·Orange·Umniah입니다. 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Zain, Orange and Umniah. A local SIM from the airport is the cheapest option.'),
   },
+  qa: {
+    // Korean Foreign Ministry travel-safety page for Qatar (0404.go.kr/ntnSafetyInfo/202/detail), 2026-11.
+    emergency: [num('999', '경찰·구급·소방', 'Police, ambulance and fire')],
+    embassy: {
+      name: T('주카타르 대한민국 대사관', 'Korean Embassy in Qatar'),
+      address: 'New Diplomatic Area, Al Shabab St., Onaiza-66, Doha',
+      phone: '+974-4483-2238',
+      afterHours: '+974-5001-1695',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/202/detail',
+    },
+    power: T('220~240V · 50Hz, G형(영국식 3핀) 콘센트. 한국 플러그는 맞지 않아 어댑터가 필요합니다.', '220–240V, 50Hz, type G (British three-pin) sockets. Korean plugs do not fit; bring an adapter.'),
+    tipping: T('팁은 의무가 아니지만 식당에선 10% 안팎을 두기도 합니다.', 'Tipping is optional; around 10% is common in restaurants.'),
+    water: WATER_BOTTLED,
+    shops: T('리얄은 미국 달러에 고정돼 있고 카드가 거의 어디서나 됩니다. 수크 와키프에선 값을 흥정합니다.', 'The riyal is pegged to the US dollar and cards are accepted almost everywhere; bargain in Souq Waqif.'),
+    toilets: T('쇼핑몰·지하철역·박물관 화장실이 깨끗하고 무료입니다.', 'Malls, metro stations and museums have clean, free toilets.'),
+    time: T('UTC+3, 서머타임 없음. 한국보다 6시간 늦습니다.', 'UTC+3 with no daylight saving: 6 hours behind Korea.'),
+    safety: T('외교부 여행경보: 2026년 3월 8일부터 카타르 전역이 3단계(출국권고)입니다. 10월 22일·29일 중동 정세 악화에 대비한 신변 안전과 행동 요령 공지가 나와 있습니다. 공공장소에선 어깨와 무릎을 가리는 옷이 예의이고, 술은 허가받은 호텔·식당에서만 마십니다.', 'Korean travel alert: level 3 (leave the country) nationwide since 8 March 2026, with notices on 22 and 29 October about the worsening Middle East situation. Cover shoulders and knees in public, and drink alcohol only in licensed hotels and restaurants.'),
+    entry: T('한국 여권은 90일까지 비자 없이 들어갈 수 있습니다. 모든 방문객은 도착 전에 카타르 의료보험(30일, 최소 50리얄, 보건부 사이트나 Metrash 앱)에 가입해야 합니다.', 'Korean passports can enter visa-free for up to 90 days. All visitors must buy Qatari health insurance before arrival (30 days, from QR 50, via the Ministry of Public Health site or the Metrash app).'),
+    telecom: T('주요 통신사는 Ooredoo·Vodafone입니다. 공항에서 관광객용 유심을 살 수 있습니다.', 'Main operators: Ooredoo and Vodafone; tourist SIMs are sold at the airport.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

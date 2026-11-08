@@ -84,6 +84,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/165/detail',
   },
+  // 0404.go.kr Qatar page: level 3 nationwide since 2026-03-08; notices of 2026-10-22 and 10-29.
+  qa: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고', en: 'Korean travel alert · level 3, leave the country' },
+    lines: [
+      {
+        ko: '중동 정세로 2026년 3월 8일부터 카타르 전역이 3단계(출국권고) 지역입니다. 여행 예정이면 취소하거나 미루고, 머무는 중이면 꼭 필요한 일이 아니면 출국하라는 단계입니다.',
+        en: 'Because of the Middle East situation, all of Qatar has been at level 3 (leave the country) since 8 March 2026: cancel or postpone planned trips, and leave unless your stay is essential.',
+      },
+      {
+        ko: '외교부는 2026년 10월 22일과 29일 중동 정세 악화에 대비한 신변 안전·행동 요령 공지를 냈습니다. 하마드 공항을 경유할 때도 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'The ministry issued personal-safety and conduct notices on 22 and 29 October 2026; check the latest notices before you go, even when only transiting Hamad Airport.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/202/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

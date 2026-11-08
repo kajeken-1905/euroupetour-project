@@ -8142,5 +8142,105 @@
     24.9805,
     32.8795,
     "manual 2026-11-08: Edfu Nile front"
+  ],
+  "doha-h1": [
+    25.28823,
+    51.53322,
+    "OSM Nominatim: سوق واقف, السوق, سوق واقف, الجسرة, الدوحة, قطر"
+  ],
+  "doha-h2": [
+    25.29554,
+    51.53942,
+    "OSM Nominatim: متحف الفن الإسلامي, شارع الكورنيش, حي الميناء, ميناء الدوحة,"
+  ],
+  "doha-h3": [
+    25.2938,
+    51.5395,
+    "manual 2026-11-08: MIA Park"
+  ],
+  "doha-h4": [
+    25.28789,
+    51.54951,
+    "OSM Nominatim: المتحف الوطني في قطر, شارع الكورنيش, الشرق - السلطة, الدوحة,"
+  ],
+  "doha-h6": [
+    25.28282,
+    51.52558,
+    "OSM Nominatim: مشيرب, شارع وادي مشيرب, مشيرب, مشيرب قلب الدوحة, الدوحة, قطر (Wikipedia 395m)"
+  ],
+  "doha-h8": [
+    25.3648,
+    51.54548,
+    "OSM Nominatim: Porto Arabia Tower 29, 29, درب المارينا 29, بورتو أرابيا, ال (Wikipedia 775m)"
+  ],
+  "doha-h9": [
+    25.36091,
+    51.52474,
+    "OSM Nominatim: الحي الثقافي كتارا, كتارا, الدوحة, قطر (Wikipedia 176m)"
+  ],
+  "doha-h10": [
+    25.25921,
+    51.44381,
+    "OSM Nominatim: VILLAGGIO MALL, شارع الوعب, بعيا, محيرجة, الريان, قطر (Wikipedia 167m)"
+  ],
+  "doha-h12": [
+    25.31807,
+    51.44162,
+    "OSM Nominatim: Qatar National Library, اللقطة, المدينة التعليمية, الريان, ق"
+  ],
+  "doha-h5": [
+    25.2918,
+    51.5455,
+    "manual 2026-11-08: Corniche Flag Plaza (user photo GPS)"
+  ],
+  "doha-h7": [
+    25.2873,
+    51.5355,
+    "manual 2026-11-08: Abdulla Bin Zaid Al Mahmoud Islamic Cultural Center"
+  ],
+  "doha-h11": [
+    25.295,
+    51.545,
+    "manual 2026-11-08: Mina District, Old Doha Port"
+  ],
+  "doha-h13": [
+    25.9772,
+    51.0287,
+    "manual 2026-11-08: Al Zubarah Fort"
+  ],
+  "doha-h14": [
+    24.6175,
+    51.319,
+    "manual 2026-11-08: Khor Al Adaid"
+  ],
+  "doha-h15": [
+    25.4207,
+    51.4904,
+    "manual 2026-11-08: Lusail Stadium"
+  ],
+  "doha-h16": [
+    25.2905,
+    51.5649,
+    "manual 2026-11-08: Stadium 974, Ras Abu Aboud"
+  ],
+  "doha-h17": [
+    25.6522,
+    51.4875,
+    "manual 2026-11-08: Al Bayt Stadium, Al Khor"
+  ],
+  "doha-h18": [
+    25.2637,
+    51.4482,
+    "manual 2026-11-08: Khalifa International Stadium / 3-2-1 Museum"
+  ],
+  "doha-h19": [
+    25.2357,
+    51.5323,
+    "manual 2026-11-08: Al Thumama Stadium"
+  ],
+  "doha-h20": [
+    25.1599,
+    51.5743,
+    "manual 2026-11-08: Al Janoub Stadium, Al Wakrah"
   ]
 }
