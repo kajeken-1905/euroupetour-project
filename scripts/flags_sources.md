@@ -20,3 +20,4 @@ Two edits on each file's root <svg>:
 - xc.svg — File:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg (public domain), added 2026-10-26
 - ma.svg — File:Flag_of_Morocco.svg (public domain), added 2026-11-08
 - tn.svg — File:Flag_of_Tunisia.svg (public domain), added 2026-11-08
+- eg.svg — File:Flag_of_Egypt.svg (public domain), added 2026-11-08

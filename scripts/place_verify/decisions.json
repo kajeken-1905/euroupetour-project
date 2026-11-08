@@ -339,6 +339,22 @@
 "ko": "유럽에서 손꼽히는 규모의 바칼라오(염장대구) 레스토랑. 역사적인 부두에 있습니다.",
 "ok": 1
 },
+"alexandria-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"alexandria-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"alexandria-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"alexandria-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "alghero-bakery-1": {
 "addr": "Via Sassari 35b, 07041 Alghero",
 "en": "Bar and pastry shop in central Alghero.",
@@ -907,6 +923,14 @@
 },
 "assisi-bakery-1": {
 "ok": 1
+},
+"aswan-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"aswan-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "athens-bakery-1": {
 "addr": "Voulis 10, 105 62 Athens",
@@ -3154,6 +3178,30 @@
 },
 "cagliari-fine_dining-1": {
 "ok": 1
+},
+"cairo-bakery-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"cairo-cafe-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"cairo-cafe-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"cairo-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"cairo-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"cairo-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "cala-gonone-fine_dining-1": {
 "ok": 1
@@ -6872,6 +6920,14 @@
 "ok": 1,
 "src": "2026-11-06 google maps / michelin 2026"
 },
+"hurghada-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"hurghada-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
 "husavik-bakery-1": {
 "en": "Bakery-café near the harbour best known for its snúður cinnamon rolls; closed Sundays.",
 "ko": "항구 근처의 빵집 겸 카페. 시나몬롤 스누두르가 대표이고 일요일은 쉽니다.",
@@ -9489,6 +9545,18 @@
 "lux-fd-5": {
 "addr": "18 Place d’Armes, 1136 Luxembourg",
 "ok": 1
+},
+"luxor-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"luxor-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-08 google maps"
+},
+"luxor-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-08 google maps"
 },
 "lviv-bakery-1": {
 "del": 1

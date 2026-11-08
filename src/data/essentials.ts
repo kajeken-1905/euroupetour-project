@@ -930,6 +930,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 여권은 90일까지 비자 없이 머물 수 있습니다(외교부: 협정상 30일이지만 튀니지 이민법에 따라 90일).', 'Korean passports can stay up to 90 days visa-free (Korean Foreign Ministry: 30 days by treaty, 90 under Tunisian immigration law).'),
     telecom: T('주요 통신사는 Ooredoo·Orange·Tunisie Telecom입니다. 유럽 로밍 요금제에 포함되지 않는 경우가 많아 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Ooredoo, Orange and Tunisie Telecom. European roaming bundles rarely include Tunisia, so a local SIM from the airport is usually cheaper.'),
   },
+  eg: {
+    // Korean Foreign Ministry travel-safety page for Egypt (0404.go.kr/ntnSafetyInfo/178/detail), 2026-11.
+    emergency: [num('122', '경찰', 'Police'), num('123', '구급', 'Ambulance'), num('126', '관광 경찰', 'Tourist police'), num('180', '소방', 'Fire')],
+    embassy: {
+      name: T('주이집트 대한민국 대사관', 'Korean Embassy in Egypt'),
+      address: '3 Boulos Hanna St., Dokki, Cairo',
+      phone: '+20-2-3761-1234',
+      afterHours: '+20-12-8333-3236',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/178/detail',
+    },
+    power: T('220V · 50Hz, C·F형 콘센트. 한국 플러그를 대부분 그대로 꽂을 수 있습니다.', '220V, 50Hz, type C/F sockets. Korean plugs usually fit.'),
+    tipping: T('팁(박시시) 문화가 강해 식당에선 10% 안팎, 화장실·짐·안내를 도와준 사람에겐 몇 파운드를 줍니다. 잔돈을 넉넉히 준비하세요.', 'Tipping (baksheesh) is expected: around 10% in restaurants and a few pounds for toilets, porters and helpers—carry plenty of small notes.'),
+    water: WATER_BOTTLED,
+    shops: T('시장에선 값을 흥정합니다. 외화는 1만 달러 이상이면 입국 때 신고하고, 이집트 파운드는 5,000파운드까지만 가지고 나갈 수 있습니다.', 'Bargain in the markets. Declare foreign currency over USD 10,000 on arrival; you may take out no more than 5,000 Egyptian pounds.'),
+    toilets: T('유적지 화장실은 관리인이 팁을 받는 경우가 많습니다. 휴지를 챙기세요.', 'Attendants at sites often expect a tip; carry tissues.'),
+    time: T('UTC+2로 한국보다 7시간 늦습니다. 서머타임 기간(2026년은 4월 24일~10월 30일)엔 6시간 늦습니다.', 'UTC+2, 7 hours behind Korea; during daylight saving (24 April–30 October in 2026) 6 hours behind.'),
+    safety: T('외교부 여행경보: 카이로 등 나일강 유역 도시와 지중해 연안, 다합·샴엘셰이크는 1단계(여행유의), 서부 사막과 남시나이 일부는 2단계(여행자제), 시나이반도 중·북부와 리비아 국경 30km 이내는 3단계(출국권고)입니다. 유적지 주변 호객과 사진 요금 요구가 많으니 조심하세요.', 'Korean travel alert: level 1 for Cairo and the Nile-valley cities, the Mediterranean coast, Dahab and Sharm el-Sheikh; level 2 for the Western Desert and parts of south Sinai; level 3 for central and northern Sinai and within 30 km of the Libyan border. Expect touts and photo fees around the sites.'),
+    entry: T('한국 여권은 비자가 필요합니다. 공항에서 도착 비자(QR 비자, 2026년 8월 1일부터 36달러)를 사거나 전자비자를 미리 받습니다. 여권은 입국일 기준 6개월 이상 남아 있어야 합니다. 샴엘셰이크 등 시나이 남부만 갈 때는 14일 무료 비자가 나오지만, 시나이 밖으로 가려면 따로 비자를 사야 합니다.', 'Korean passports need a visa: buy a visa on arrival (QR visa, USD 36 from 1 August 2026) or get an e-visa in advance. Passports need 6 months’ validity from entry. A free 14-day stamp covers south Sinai resorts such as Sharm el-Sheikh only; going beyond Sinai needs a full visa.'),
+    telecom: T('주요 통신사는 Vodafone·Orange·e&(Etisalat)·WE입니다. 공항에서 현지 유심을 사는 편이 쌉니다.', 'Main operators: Vodafone, Orange, e& (Etisalat) and WE. A local SIM from the airport is the cheapest option.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

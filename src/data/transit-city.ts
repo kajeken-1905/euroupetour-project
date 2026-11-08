@@ -2632,6 +2632,51 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  cairo: {
+    modes: ['metro', 'taxi', 'rideshare', 'walk'],
+    howTo: {
+      ko: '지하철 3개 노선과 호출 앱(우버·카림)으로 다닙니다. 피라미드·박물관은 차로 갑니다.',
+      en: 'Use the three metro lines and ride-hailing (Uber, Careem); the pyramids and museum are reached by car.',
+    },
+    apps: [
+    ],
+  },
+  luxor: {
+    modes: ['walk', 'taxi', 'ferry', 'bike'],
+    howTo: {
+      ko: '동안은 걸어서, 서안 유적은 택시를 하루 빌려 다닙니다. 강은 공공 페리로 건넙니다.',
+      en: 'Walk the east bank; hire a taxi for the day for the west bank, crossing the river by public ferry.',
+    },
+    apps: [
+    ],
+  },
+  aswan: {
+    modes: ['walk', 'taxi', 'ferry'],
+    howTo: {
+      ko: '강변은 걸어서, 섬과 서안은 배로, 필레·댐은 택시로 갑니다.',
+      en: 'Walk the corniche; boats go to the islands and west bank, taxis to Philae and the dam.',
+    },
+    apps: [
+    ],
+  },
+  alexandria: {
+    modes: ['walk', 'tram', 'taxi', 'rideshare'],
+    howTo: {
+      ko: '코르니시는 걸어서, 그 밖은 택시·호출 앱이나 옛 트램으로 다닙니다.',
+      en: 'Walk the Corniche; use taxis, ride-hailing or the old trams elsewhere.',
+    },
+    apps: [
+    ],
+  },
+  hurghada: {
+    modes: ['taxi', 'rideshare', 'bus'],
+    howTo: {
+      ko: '리조트와 시내는 택시나 호출 앱으로 다닙니다.',
+      en: 'Use taxis or ride-hailing between the resorts and town.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

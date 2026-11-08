@@ -1785,6 +1785,41 @@ export const countries: Country[] = [
       { title: { ko: '내륙', en: 'Inland' }, cityIds: ['kairouan'] },
     ],
   },
+  {
+    id: 'eg',
+    region: 'mena',
+    name: { ko: '이집트', en: 'Egypt' },
+    nativeName: 'مصر · Miṣr',
+    flagImage: '/flags/eg.svg',
+    landmarkImage: '/landmarks/landmark-eg.jpg',
+    flag: '🇪🇬',
+    blurb: {
+      ko: '나일강을 따라 5천 년 문명이 이어지는 나라. 기자 피라미드와 룩소르 신전, 아부심벨, 홍해 바다가 유럽에서 4시간 남짓 비행 거리에 있습니다.',
+      en: 'Five thousand years of civilisation along the Nile—the Giza pyramids, Luxor’s temples, Abu Simbel and the Red Sea, about four hours’ flight from Europe.',
+    },
+    facts: {
+      population: { ko: '약 1억 700만 명 (2024년 추계)', en: 'Approx. 107 million (2024 estimate)' },
+      area: { ko: '약 100만 1,450 km²', en: 'Approx. 1,001,450 km²' },
+      capital: { ko: '카이로 (Cairo)', en: 'Cairo' },
+      currency: { ko: '이집트 파운드 (EGP, E£)', en: 'Egyptian pound (EGP, E£)' },
+    },
+    currencyCode: 'EGP',
+    currencySymbol: 'E£',
+    schengen: false,
+    flagColors: {
+      primary: '#CE1126',
+      secondary: '#000000',
+      accent: '#C09300',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['cairo', 'alexandria', 'luxor', 'aswan', 'hurghada'],
+    cityGroups: [
+      { title: { ko: '카이로와 나일강 하류', en: 'Cairo & Lower Egypt' }, cityIds: ['cairo', 'alexandria'] },
+      { title: { ko: '나일강 상류', en: 'Upper Egypt (Nile valley)' }, cityIds: ['luxor', 'aswan'] },
+      { title: { ko: '홍해', en: 'Red Sea' }, cityIds: ['hurghada'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

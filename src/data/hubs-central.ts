@@ -521,6 +521,26 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Monastir Habib Bourguiba (MIR)', '모나스티르 공항 (MIR)', '모나스티르|Monastir'], ['Enfidha–Hammamet (NBE)', '엔피다 하마메트 공항 (NBE)']],
     bus: [['Kairouan louage station', '카이루안 루아지 정류장', '수스·튀니스행|to Sousse and Tunis']],
   },
+  cairo: {
+    air: [['Cairo International (CAI)', '카이로 국제공항 (CAI)'], ['Sphinx International (SPX)', '스핑크스 국제공항 (SPX)', '기자 서쪽|west of Giza']],
+    rail: [['Ramses (Cairo Station)', '람세스역']],
+  },
+  luxor: {
+    air: [['Luxor International (LXR)', '룩소르 공항 (LXR)']],
+    rail: [['Luxor', '룩소르역']],
+  },
+  aswan: {
+    air: [['Aswan International (ASW)', '아스완 공항 (ASW)'], ['Abu Simbel (ABS)', '아부심벨 공항 (ABS)']],
+    rail: [['Aswan', '아스완역']],
+  },
+  alexandria: {
+    air: [['Borg El Arab (HBE)', '보르그 엘 아랍 공항 (HBE)']],
+    rail: [['Misr Station', '미스르역']],
+  },
+  hurghada: {
+    air: [['Hurghada International (HRG)', '후르가다 공항 (HRG)']],
+    bus: [['Go Bus Hurghada', '고버스 터미널', '룩소르·카이로행|to Luxor and Cairo']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

@@ -48,6 +48,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/233/detail',
   },
+  // 0404.go.kr Egypt page: alert levels (last adjusted 2023-08-04, Libyan border noted 2026-06) and the 2026-10-25 notice.
+  eg: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 지역별 1~3단계', en: 'Korean travel alert · levels 1–3 by region' },
+    lines: [
+      {
+        ko: '카이로 등 나일강 유역 도시, 지중해 연안, 다합·샴엘셰이크는 1단계(여행유의), 서부 사막과 남시나이 일부(성 카테리나·타바)는 2단계(여행자제), 시나이반도 중·북부와 리비아 국경 30km 이내는 3단계(출국권고)입니다.',
+        en: 'Cairo and the Nile-valley cities, the Mediterranean coast, Dahab and Sharm el-Sheikh are level 1 (exercise caution); the Western Desert and parts of south Sinai (St Catherine, Taba) are level 2 (refrain from travel); central and northern Sinai and within 30 km of the Libyan border are level 3 (leave the country).',
+      },
+      {
+        ko: '외교부는 2026년 10월 25일 최근 중동 지역 긴장 고조에 따른 안전 유의를 공지했습니다. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'On 25 October 2026 the ministry issued a safety notice on rising tension in the Middle East. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/178/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

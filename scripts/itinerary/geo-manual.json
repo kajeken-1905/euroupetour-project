@@ -7842,5 +7842,145 @@
     35.6858,
     10.0937,
     "manual 2026-11-08: Zaouia of Sidi Sahab"
+  ],
+  "cairo-h1": [
+    29.97078,
+    31.12423,
+    "OSM Nominatim: أهرامات الجيزة, طريق القاهرة, الفيوم الصحراوى, الجيزة, 12559"
+  ],
+  "cairo-h2": [
+    29.99458,
+    31.11907,
+    "OSM Nominatim: المتحف المصري الكبير, طريق القاهرة, الاسكندرية الصحراوي, كفر (Wikipedia 52m)"
+  ],
+  "cairo-h3": [
+    30.04797,
+    31.23361,
+    "OSM Nominatim: المتحف المصري, شارع مريت باشا, الإسماعيلية, باب اللوق, القاه (Wikipedia 34m)"
+  ],
+  "cairo-h4": [
+    30.04894,
+    31.26134,
+    "OSM Nominatim: خان الخليلى, القاهرة الإسلامية, القاهرة, 11261, مصر (Wikipedia 181m)"
+  ],
+  "cairo-h5": [
+    30.04931,
+    31.26117,
+    "OSM Nominatim: Monuments of al-Muizz li-Din Allah Street, شارع المعز لدين ا"
+  ],
+  "cairo-h6": [
+    30.0287,
+    31.2599,
+    "manual 2026-11-08: Cairo Citadel"
+  ],
+  "cairo-h7": [
+    30.00526,
+    31.23003,
+    "OSM Nominatim: الكنيسة المعلقة, شارع مارجرجس, مصر القديمة, خرطة الشيخ مبارك (Wikipedia 203m)"
+  ],
+  "cairo-h8": [
+    29.8712,
+    31.21657,
+    "OSM Nominatim: هرم زوسر المدرج, طريق اثار سقارة السياحية, سقارة, الجيزة, 12 (Wikipedia 20m)"
+  ],
+  "luxor-h1": [
+    25.7188,
+    32.6573,
+    "manual 2026-11-08: Karnak Temple"
+  ],
+  "luxor-h2": [
+    25.69953,
+    32.63907,
+    "OSM Nominatim: معبد الأقصر, شارع معبد الاقصر, مدينه الاقصر, الأقصر, 85951,  (Wikipedia 54m)"
+  ],
+  "luxor-h3": [
+    25.74049,
+    32.60176,
+    "OSM Nominatim: وادي الملوك, مدينه القرنة الجديدة, الأقصر, مصر (Wikipedia 60m)"
+  ],
+  "luxor-h4": [
+    25.73784,
+    32.60767,
+    "OSM Nominatim: Mortuary Temple of Hatshepsut, طريق معبد حتشبسوت, مدينه القر (Wikipedia 119m)"
+  ],
+  "luxor-h5": [
+    25.72049,
+    32.61044,
+    "OSM Nominatim: عملاق ممنون, شارع تمثال ممنون, الجزيرة الوسطى, قريه البعيرات (Wikipedia 13m)"
+  ],
+  "luxor-h6": [
+    25.73156,
+    32.61889,
+    "OSM Nominatim: Balloons, شارع عزبة الورد, LX_NW_P008, مدينه القرنة الجديدة,"
+  ],
+  "aswan-h1": [
+    24.02525,
+    32.88419,
+    "OSM Nominatim: معبد فيلة, 25, قرية شاش, أسوان, 81531, مصر"
+  ],
+  "aswan-h3": [
+    24.07691,
+    32.89541,
+    "OSM Nominatim: مسلة ناقصةال, شارع شرق البندر, عبد الحفيظ ابو قديس, أسوان, 8 (Wikipedia 5m)"
+  ],
+  "aswan-h4": [
+    23.97041,
+    32.8749,
+    "OSM Nominatim: السد العالى, مدينة صحارى, أسوان, مصر (Wikipedia 293m)"
+  ],
+  "aswan-h5": [
+    22.33712,
+    31.6258,
+    "OSM Nominatim: معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, م (Wikipedia 32m)"
+  ],
+  "alexandria-h1": [
+    31.20866,
+    29.90893,
+    "OSM Nominatim: مكتبة الإسكندرية, شارع بورسعيد, الشاطبى, الإسكندرية, 21526,  (Wikipedia 34m)"
+  ],
+  "alexandria-h2": [
+    31.21368,
+    29.88541,
+    "OSM Nominatim: قلعة قايتباي, شارع قلعه قايتباى, السيالة شرق, الإسكندرية, 21 (Wikipedia 78m)"
+  ],
+  "alexandria-h3": [
+    31.17839,
+    29.89305,
+    "OSM Nominatim: كوم الشقافة, حارة ابن عماد, كوم الشقافه, القباري, الإسكندرية (Wikipedia 20m)"
+  ],
+  "alexandria-h5": [
+    31.201,
+    29.899,
+    "manual 2026-11-08: Corniche at Saad Zaghloul"
+  ],
+  "hurghada-h1": [
+    27.22383,
+    33.92694,
+    "OSM Nominatim: جزيرة جفتون الكبير, الغردقة, البحر الأحمر, مصر"
+  ],
+  "hurghada-h2": [
+    27.24364,
+    33.84887,
+    "OSM Nominatim: Marina, شارع البحر, السقاله, Arabia, الغردقة, البحر الأحمر, "
+  ],
+  "hurghada-h4": [
+    27.39893,
+    33.67416,
+    "OSM Nominatim: الجونة, البحر الأحمر, 84513, مصر"
+  ],
+  "aswan-h2": [
+    24.105,
+    32.877,
+    "manual 2026-11-08: Gharb Soheil Nubian village"
+  ],
+  "alexandria-h4": [
+    31.2885,
+    30.016,
+    "manual 2026-11-08: Montaza Palace"
+  ],
+  "hurghada-h3": [
+    27.225,
+    33.67,
+    "manual 2026-11-08: Eastern Desert west of Hurghada (safari area, approximate)"
   ]
 }

@@ -1260,6 +1260,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  eg: {
+    summary: {
+      ko: '우측통행. 카이로–룩소르–아스완과 카이로–알렉산드리아는 국철(ENR) 기차가, 먼 거리는 국내선이 편하고, 시내에선 우버·카림 같은 호출 앱이 흔합니다.',
+      en: 'Drive on the right. ENR trains run Cairo–Luxor–Aswan and Cairo–Alexandria, domestic flights save time over long distances, and ride-hailing (Uber, Careem) is common in the cities.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '카이로–룩소르는 비행기로 약 1시간, 침대 열차로 약 10시간입니다. 룩소르–아스완은 기차나 나일강 크루즈로 갑니다.',
+      en: 'Cairo to Luxor is about 1 hr by air or about 10 hrs by sleeper train; Luxor to Aswan by train or Nile cruise.',
+    },
+    paymentTip: {
+      ko: '택시는 호출 앱이 값을 정해 줘 편합니다. 카이로 지하철은 1회권을 역에서 삽니다.',
+      en: 'Ride-hailing apps fix the fare in advance; buy single Cairo metro tickets at the station.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

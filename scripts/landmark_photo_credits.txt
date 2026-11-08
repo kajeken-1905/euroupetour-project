@@ -3118,3 +3118,37 @@ highlights/kairouan-1.jpg | https://commons.wikimedia.org/wiki/File:Great_Mosque
 highlights/kairouan-2.jpg | https://commons.wikimedia.org/wiki/File:Aghlabid_cistern.jpg | CC BY-SA 3.0 | Bernard Gagnon
 highlights/kairouan-3.jpg | https://commons.wikimedia.org/wiki/File:ZaouiaSidiSahab.Kairouan.jpg | CC BY-SA 3.0 | China Crisis
 highlights/kairouan-4.jpg | https://commons.wikimedia.org/wiki/File:Kairouan_medina_walls.jpg | CC BY-SA 2.0 | damian entwistle
+landmarks/landmark-eg.jpg | https://commons.wikimedia.org/wiki/File:The_Sphinx_and_Pyramid_of_Khafre.jpg | CC BY-SA 4.0 | kallerna
+highlights/cairo-1.jpg | https://commons.wikimedia.org/wiki/File:The_Sphinx_along_with_the_Pyramids_at_Giza.jpg | CC BY-SA 4.0 | Dr Mahul Brahma
+highlights/cairo-2.jpg | https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025_(42292).jpg | Public domain | Amr F.Nagy
+highlights/cairo-3.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_Egyptian_Antiquities._Built_in_1835_near_the_Ezbekeyah_Garden._Al-Tahrir_Square_Cairo,_Egypt_-_panoramio.jpg | CC BY 3.0 | Николай Максимович
+highlights/cairo-4.jpg | https://commons.wikimedia.org/wiki/File:Mercado_de_Khan_el-Khalili,_El_Cairo,_Egipto1.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/cairo-5.jpg | https://commons.wikimedia.org/wiki/File:Al_Qasby_Alley_at_the_corner_with_Muizz_Street_02.jpg | CC BY 4.0 | Marsupium
+highlights/cairo-6.jpg | https://commons.wikimedia.org/wiki/File:Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg | CC BY-SA 2.0 | Ahmed Al.Badawy from Cairo, Egypt
+highlights/cairo-7.jpg | https://commons.wikimedia.org/wiki/File:The_Church_of_the_Virgin_Mary,_Coptic_Cairo,_Egypt.png | CC BY-SA 4.0 | The Eloquent Peasant
+highlights/cairo-8.jpg | https://commons.wikimedia.org/wiki/File:Egypt-12B-047_-_Step_Pyramid_Complex_of_Djoser.jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+cities/luxor.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_144.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/luxor-1.jpg | https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_12.jpg | CC BY-SA 4.0 | Hamerani
+highlights/luxor-2.jpg | https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk_Luxor_temple.JPG | CC BY-SA 3.0 | Ad Meskens
+highlights/luxor-3.jpg | https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Valley_of_the_Kings_from_above.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/luxor-4.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Hatshepsut_2,_Deir_el-Bahari,_Luxor,_Egypt.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/luxor-5.jpg | https://commons.wikimedia.org/wiki/File:Colosos_de_Memn%C3%B3n,_Luxor,_Egipto,_2022-04-03,_DD_131.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/luxor-6.jpg | https://commons.wikimedia.org/wiki/File:Balloon_over_Luxor_-_Egypt.jpg | CC BY-SA 3.0 | Marcosleal
+cities/aswan.jpg | https://commons.wikimedia.org/wiki/File:Aswan,_Elephantine,_felucca,_Egypt,_Oct_2004.jpg | CC BY-SA 2.0 | Przemyslaw "Blueshade" Idzkiewicz.
+highlights/aswan-1.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Isis_in_Philae.jpg | CC BY-SA 3.0 | M.ramadan2014
+highlights/aswan-2.jpg | https://www.flickr.com/photos/126397594@N03/26363482221 | BY 2.0 | ustung
+highlights/aswan-3.jpg | https://www.flickr.com/photos/59081381@N03/48027150558 | CC0 1.0 | w_lemay
+highlights/aswan-4.jpg | https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_05.jpg | CC BY-SA 4.0 | Ovedc
+highlights/aswan-5.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_03.jpg | CC BY-SA 4.0 | Diego Delso
+cities/alexandria.jpg | https://commons.wikimedia.org/wiki/File:Alexandria_-_Egypt.jpg | CC BY 2.0 | David Evers from Amsterdam, Netherlands
+highlights/alexandria-1.jpg | https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_GLAM_EGY_05.jpg | Public domain | Hassan Hamdy wahidy
+highlights/alexandria-2.jpg | https://commons.wikimedia.org/wiki/File:Citadel_of_Qaitbay_014.JPG | CC BY-SA 3.0 | لا روسا
+highlights/alexandria-3.jpg | https://commons.wikimedia.org/wiki/File:Catacombs_of_Kom_El_Shoqafa,_Alexandria,_Egypt_-_50852603281.jpg | CC BY-SA 2.0 | Following Hadrian
+highlights/alexandria-4.jpg | https://commons.wikimedia.org/wiki/File:Montaza_Palace,_Alexandria,_Egypt_-_Murat_%C3%96zsoy_2018.jpg | CC BY-SA 4.0 | Murat Özsoy 1958
+highlights/alexandria-5.jpg | https://commons.wikimedia.org/wiki/File:Alexandria_Corniche_(cropped).jpeg | CC BY-SA 3.0 | Wing045
+cities/hurghada.jpg | https://commons.wikimedia.org/wiki/File:Hurghada_TTC_Sunny_Beach_Resort_R02.jpg | CC BY-SA 4.0 | Marc Ryckaert
+highlights/hurghada-1.jpg | https://commons.wikimedia.org/wiki/File:Giftun_Island_Egypte_-_panoramio_(2).jpg | CC BY 3.0 | E v Schoonhoven
+highlights/hurghada-2.jpg | https://commons.wikimedia.org/wiki/File:Hurghada_Marina,_Red_Sea._32.jpg | CC BY-SA 4.0 | Sohilaali869
+highlights/hurghada-3.jpg | https://commons.wikimedia.org/wiki/File:Desert_safari_in_Hurghada_-_panoramio_(1).jpg | CC BY 3.0 | E v Schoonhoven
+highlights/hurghada-4.jpg | https://commons.wikimedia.org/wiki/File:El_Gouna_R14.jpg | CC BY 3.0 | Marc Ryckaert
+cities/cairo.jpg | https://www.flickr.com/photos/80854685@N08/23785641449 | BY-SA 2.0 | Mark Fischer

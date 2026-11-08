@@ -267,6 +267,22 @@ export const STAY: Record<string, StayArea[]> = {
   kairouan: [
     a('수스에서 다녀오기', 'Base in Sousse', 'Sousse', '거점에서 다녀오기|Day trip from a base', '수스에서 루아지로 약 1시간이라 당일로 많이 다녀옵니다.|About 1 hr by louage from Sousse, so most visit as a day trip.'),
   ],
+  cairo: [
+    a('자말렉', 'Zamalek', 'Zamalek Cairo', '처음 가는 여행에 추천|Best for a first visit', '나일강 섬의 조용한 동네로, 카페와 호텔이 많고 시내 중심이 가깝습니다.|A calm Nile-island neighbourhood of cafés and hotels close to downtown.'),
+    a('기자 피라미드 근처', 'Near the Giza pyramids', 'Giza', '피라미드 보기|For the pyramids', '피라미드가 보이는 호텔이 많고 대이집트 박물관이 가깝습니다. 시내까지는 차로 40분 이상 걸립니다.|Many hotels with pyramid views, near the Grand Egyptian Museum; downtown is 40+ min by car.'),
+  ],
+  luxor: [
+    a('동안 시내', 'East bank', 'Luxor Corniche', '처음 가는 여행에 추천|Best for a first visit', '신전과 역, 식당이 걸어서 닿습니다. 서안은 배나 다리로 건넙니다.|Temples, station and restaurants on foot; cross to the west bank by ferry or bridge.'),
+  ],
+  aswan: [
+    a('나일강변', 'Nile corniche', 'Aswan Corniche', '처음 가는 여행에 추천|Best for a first visit', '강변 호텔에서 펠루카를 보고, 역과 시장이 걸어서 닿습니다.|Riverside hotels with felucca views, near the station and souk.'),
+  ],
+  alexandria: [
+    a('코르니시', 'The Corniche', 'Corniche Alexandria', '처음 가는 여행에 추천|Best for a first visit', '바다가 보이는 호텔이 많고 요새와 도서관이 가깝습니다.|Many sea-view hotels near the fort and library.'),
+  ],
+  hurghada: [
+    a('시내 남쪽 해변 리조트', 'Beach resorts', 'Hurghada', '처음 가는 여행에 추천|Best for a first visit', '해변 리조트가 길게 이어지고 공항이 가깝습니다.|A long strip of beach resorts close to the airport.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),
