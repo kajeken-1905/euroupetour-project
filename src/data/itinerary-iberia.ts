@@ -4,7 +4,7 @@ import type { RawItinerary } from './itinerary-helper'
 export const itineraryIberia: Record<string, RawItinerary> = {
   madrid: {
     days: [
-      ['구시가와 왕궁|Old town & Royal Palace', 5, 21, 4, 11, 13, 3, 6, 10, 9],
+      ['구시가와 왕궁|Old town & Royal Palace', 5, 21, 4, 11, 24, 13, 3, 6, 10, 9],
       ['그란비아와 프라도, 레티로|Gran Vía, Prado & Retiro', 20, 8, 7, 19, 1, 2],
       ['레이나 소피아와 소로야|Reina Sofía & Sorolla', 14, 18, 23, 12],
     ],

@@ -6503,5 +6503,10 @@
     36.7184,
     -4.4243,
     "manual 2026-11-08: Mercado de Atarazanas"
+  ],
+  "madrid-h24": [
+    40.41465,
+    -3.71223,
+    "OSM: Catedral Castrense de las Fuerzas Armadas (photo GPS bearing matches)"
   ]
 }

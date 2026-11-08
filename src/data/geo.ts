@@ -1857,6 +1857,7 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'madrid-h13': [40.41822, -3.71058],
   'madrid-h3': [40.41782, -3.71511],
   'madrid-h6': [40.41571, -3.71459],
+  'madrid-h24': [40.41465, -3.71223],
   'madrid-h22': [40.40391, -3.70656],
   'madrid-h7': [40.41942, -3.69254],
   'madrid-h8': [40.41877, -3.69739],

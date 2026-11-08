@@ -36,6 +36,7 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'madrid-h21': v(20, 30, { n: '24시간에 가깝게 영업하지만 오후엔 줄이 깁니다.|Open almost round the clock, but expect a queue in the afternoon.' }),
   'madrid-h22': v(60, 90, { n: '일요일과 공휴일 오전에만 열립니다. 소매치기를 조심하세요.|Sunday and holiday mornings only; mind your pockets.' }),
   'madrid-h23': v(60, 75, { c: 'mon' }),
+  'madrid-h24': v(15, 20, { n: '내부는 주로 미사 시간 앞뒤에 열립니다.|The interior is usually open around Mass times.' }),
   // Segovia
   'segovia-h1': v(20, 30),
   'segovia-h5': v(10, 15),

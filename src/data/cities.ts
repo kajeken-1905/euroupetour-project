@@ -19518,6 +19518,14 @@ export const cities: City[] = [
         group: { ko: "합스부르크 마드리드 (구시가)", en: "Habsburg Madrid (old town)" },
       },
       {
+        id: "madrid-h24",
+        name: { ko: "군 대성당 (사크라멘토 성당)", en: "Armed Forces Cathedral (Iglesia del Sacramento)" },
+        description: { ko: "17~18세기 베르나르도 수녀원 성당으로 지은 바로크 성당으로, 지금은 스페인 군의 대성당입니다. 왕궁과 마요르 광장 사이 골목에 있습니다.", en: "A Baroque church built in the 17th–18th centuries for Bernardine nuns, now the cathedral of Spain’s armed forces, in the lanes between the Royal Palace and Plaza Mayor." },
+        image: "/highlights/madrid-24.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20las%20Fuerzas%20Armadas%20Madrid",
+        group: { ko: "합스부르크 마드리드 (구시가)", en: "Habsburg Madrid (old town)" },
+      },
+      {
         id: "madrid-h22",
         name: { ko: "엘 라스트로 벼룩시장", en: "El Rastro" },
         description: { ko: "라 라티나 비탈길에 노점 1,000여 개가 서는 마드리드 최대 벼룩시장입니다.", en: "Madrid’s biggest flea market, with around 1,000 stalls down the slopes of La Latina." },
