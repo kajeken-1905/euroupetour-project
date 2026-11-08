@@ -3177,3 +3177,4 @@ highlights/al-ain-4.jpg | https://commons.wikimedia.org/wiki/File:Hili-Grand-Tom
 highlights/al-ain-5.jpg | https://commons.wikimedia.org/wiki/File:Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg | CC BY-SA 2.5 | Riyaz Ahamed
 landmarks/landmark-ae.jpg | https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Night_View_03.jpg | CC BY 2.0 | Sergei Gussev
 highlights/al-ain-3.jpg | https://commons.wikimedia.org/wiki/File:Al_Ain_Palace_Museum.jpg | CC BY-SA 4.0 | Jpbowen
+places/doha-fine_dining-8.jpg | own photo | own photo | 사용자 촬영
