@@ -295,6 +295,7 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [
       ['Estación Sur de Autobuses', '남부 버스터미널 (멘데스 알바로)'],
       ['Intercambiador de Avenida de América', '아베니다 데 아메리카 버스터미널'],
+      ['Intercambiador de Moncloa', '몬클로아 환승 터미널', '세고비아·엘에스코리알행 버스, 메트로 3·6호선 몬클로아역|buses to Segovia and El Escorial; Metro lines 3 and 6 (Moncloa)'],
     ],
   },
   avila: {

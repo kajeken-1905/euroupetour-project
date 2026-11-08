@@ -125,6 +125,7 @@ export const routesCentral: RawRoute[] = [
 
   // —— es / ad ——
   r('madrid', 'segovia', 'train', 28, { ...R, fa: CHAMARTIN, fb: '세고비아 기오마르역|Segovia-Guiomar', n: AVE }),
+  r('madrid', 'segovia', 'bus', 80, { fa: '몬클로아 환승 터미널|Intercambiador de Moncloa', fb: '세고비아 버스터미널|Segovia bus station', n: '아반사 버스 · 터미널에서 수도교까지 걸어서 약 10분|Avanza bus; about 10 min’s walk from the bus station to the aqueduct' }),
   r('madrid', 'avila', 'train', 90, { fa: '마드리드 프린시페 피오역|Madrid Príncipe Pío', fb: '아빌라역|Ávila', n: '차마르틴역 출발편도 있음|also from Chamartín' }),
   r('madrid', 'toledo', 'train', 33, { ...R, fa: ATOCHA, n: AVE }),
   r('madrid', 'cuenca', 'train', 55, { fb: '쿠엔카 페르난도 소벨역|Cuenca Fernando Zóbel', n: '고속열차|high-speed train' }),
