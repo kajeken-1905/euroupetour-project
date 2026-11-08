@@ -2785,6 +2785,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  dubai: {
+    modes: ['metro', 'tram', 'bus', 'ferry', 'rideshare', 'taxi'],
+    howTo: {
+      ko: '무인 지하철 레드·그린 라인과 트램, 크리크를 건너는 아브라, 호출 앱(Uber·Careem)으로 다닙니다. 한낮엔 걷기 어려울 만큼 덥습니다.',
+      en: 'Use the driverless Red and Green Metro lines, the tram, abras across the creek and ride-hailing (Uber, Careem); midday is too hot to walk far.',
+    },
+    apps: [
+    ],
+  },
+  'abu-dhabi': {
+    modes: ['bus', 'taxi', 'rideshare'],
+    howTo: {
+      ko: '명소가 흩어져 있어 택시·호출 앱이 편하고, 시내버스는 하파라트 카드로 탑니다.',
+      en: 'Sights are spread out—taxis and ride-hailing are easiest; city buses take the Hafilat card.',
+    },
+    apps: [
+    ],
+  },
+  'al-ain': {
+    modes: ['bus', 'taxi', 'rideshare'],
+    howTo: {
+      ko: '시내는 택시가 편하고, 하피트산은 차로만 오릅니다.',
+      en: 'Taxis are easiest in town; Jebel Hafeet is reached only by road.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

@@ -3148,3 +3148,32 @@ highlights/dead-sea-1.jpg | https://commons.wikimedia.org/wiki/File:Israel-2013-
 highlights/dead-sea-2.jpg | https://commons.wikimedia.org/wiki/File:Ein_Bokek_06.jpg | CC BY-SA 4.0 | Davide Mauro
 highlights/dead-sea-3.jpg | https://commons.wikimedia.org/wiki/File:Nubian_Ibex_(Capra_nubiana)_in_the_Ein_Gedi_Nature_Reserve,_Judean_Desert.jpg | CC BY-SA 4.0 | Noemi Alzayadi
 landmarks/landmark-il.jpg | https://commons.wikimedia.org/wiki/File:Jerusalem_2012_n026.jpg | CC BY-SA 4.0 | Soluvo
+cities/dubai.jpg | https://commons.wikimedia.org/wiki/File:Dubai_Skyline_(25500263365).jpg | CC BY 2.0 | martin.mutch
+cities/abu-dhabi.jpg | https://commons.wikimedia.org/wiki/File:Skyline_of_Abu_Dhabi_by_night.jpg | CC BY-SA 4.0 | Darthjipsu
+cities/al-ain.jpg | https://commons.wikimedia.org/wiki/File:Al_Ain_Oasis,_Al_Mutawaa_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio.jpg | CC BY-SA 3.0 | trolvag
+highlights/dubai-1.jpg | https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(16260269606).jpg | CC BY-SA 2.0 | Laika ac
+highlights/dubai-2.jpg | https://commons.wikimedia.org/wiki/File:Dubai_fountain_show.jpg | CC BY-SA 4.0 | Amzexplorersfamily
+highlights/dubai-3.jpg | https://commons.wikimedia.org/wiki/File:Camello_y_campamento,_Al_Bastakiya,_Dubai,_2009-11-23,_DD_8878.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/dubai-4.jpg | https://commons.wikimedia.org/wiki/File:Dubai_Creek_from_an_abra_3.jpg | Public domain | CT Cooper
+highlights/dubai-5.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_inside-Dubai_UAE-Andres_Larin.jpg | CC BY-SA 4.0 | Saaremees
+highlights/dubai-6.jpg | https://commons.wikimedia.org/wiki/File:DONIS_Dubai_Frame_Nighttime.jpg | CC BY-SA 4.0 | Sachimo
+highlights/dubai-7.jpg | https://commons.wikimedia.org/wiki/File:Palm_jumeirah_core.jpg | CC BY-SA 4.0 | Aheilner
+highlights/dubai-8.jpg | https://commons.wikimedia.org/wiki/File:Burj_Al_Arab_and_Jumeirah_Beach_(9601659067).jpg | CC BY 2.0 | Yacine Hary
+highlights/dubai-9.jpg | https://commons.wikimedia.org/wiki/File:Madinat_Jumeirah-Dubai3303.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/dubai-10.jpg | https://commons.wikimedia.org/wiki/File:Dubai_Marina_03.jpg | CC BY-SA 4.0 | Davide Mauro
+highlights/dubai-11.jpg | https://commons.wikimedia.org/wiki/File:Jeeps_(Desert_Safari_Dubai)_(8668553232).jpg | CC BY 2.0 | Rob Young from United Kingdom
+highlights/dubai-12.jpg | https://commons.wikimedia.org/wiki/File:Heart_of_Sharjah.jpg | CC BY-SA 4.0 | Alexandermcnabb
+highlights/abu-dhabi-1.jpg | https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Grand_Mosque_@_Abu_Dhabi_(15856602738).jpg | CC BY 2.0 | Guilhem Vellut from Annecy, France
+highlights/abu-dhabi-2.jpg | https://commons.wikimedia.org/wiki/File:Visitors_Louvre_Abu_Dhabi.jpg | CC BY-SA 4.0 | Saschaporsche
+highlights/abu-dhabi-3.jpg | https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan_in_March_2022_09.jpg | CC BY-SA 4.0 | Renek78
+highlights/abu-dhabi-4.jpg | https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(3).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/abu-dhabi-5.jpg | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Corniche_32.jpg | CC BY-SA 4.0 | Halamoudi
+highlights/abu-dhabi-6.jpg | https://commons.wikimedia.org/wiki/File:Emirates_Palace_@_Abu_Dhabi_(15421786344).jpg | CC BY 2.0 | Guilhem Vellut from Annecy, France
+highlights/abu-dhabi-7.jpg | https://commons.wikimedia.org/wiki/File:Iss069e022976_lrg_Abu_Dhabi_Mangrove_National_Park.jpg | Public domain | Astronaut photograph ISS069-E-22976 was acquired on June 17,
+highlights/abu-dhabi-8.jpg | https://commons.wikimedia.org/wiki/File:Ferrari_world-abu_dhabi-2011_(19).JPG | CC BY-SA 3.0 | Alberto-g-rovi
+highlights/al-ain-1.jpg | https://commons.wikimedia.org/wiki/File:Al_Ain_Oasis,_Al_Mutawaa_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio.jpg | CC BY-SA 3.0 | trolvag
+highlights/al-ain-2.jpg | https://commons.wikimedia.org/wiki/File:Al_Jahili_Fort_Innenhof.jpg | CC BY-SA 4.0 | Kaulike2b
+highlights/al-ain-4.jpg | https://commons.wikimedia.org/wiki/File:Hili-Grand-Tomb-1.jpg | CC BY-SA 4.0 | SUNILKUMAR NAIR
+highlights/al-ain-5.jpg | https://commons.wikimedia.org/wiki/File:Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg | CC BY-SA 2.5 | Riyaz Ahamed
+landmarks/landmark-ae.jpg | https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Night_View_03.jpg | CC BY 2.0 | Sergei Gussev
+highlights/al-ain-3.jpg | https://commons.wikimedia.org/wiki/File:Al_Ain_Palace_Museum.jpg | CC BY-SA 4.0 | Jpbowen

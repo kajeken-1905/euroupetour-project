@@ -1921,6 +1921,40 @@ export const countries: Country[] = [
       { title: { ko: '지중해 연안', en: 'Mediterranean coast' }, cityIds: ['tel-aviv', 'haifa'] },
     ],
   },
+  {
+    id: 'ae',
+    region: 'mena',
+    name: { ko: '아랍에미리트', en: 'United Arab Emirates' },
+    nativeName: 'الإمارات العربية المتحدة',
+    flagImage: '/flags/ae.svg',
+    landmarkImage: '/landmarks/landmark-ae.jpg',
+    flag: '🇦🇪',
+    blurb: {
+      ko: '일곱 토후국이 모인 걸프 연안의 나라. 세계에서 가장 높은 부르즈 할리파가 선 두바이와 하얀 셰이크 자이드 그랜드 모스크·루브르 아부다비가 있는 수도 아부다비, 오아시스 도시 알아인이 있습니다.',
+      en: 'Seven emirates on the Gulf—Dubai with the world’s tallest building, the Burj Khalifa; the capital Abu Dhabi with the white Sheikh Zayed Grand Mosque and the Louvre Abu Dhabi; and the oasis city of Al Ain.',
+    },
+    facts: {
+      population: { ko: '약 1,000만 명 (2024년)', en: 'Approx. 10 million (2024)' },
+      area: { ko: '약 8만 3,600 km²', en: 'Approx. 83,600 km²' },
+      capital: { ko: '아부다비 (Abu Dhabi)', en: 'Abu Dhabi' },
+      currency: { ko: '아랍에미리트 디르함 (AED, Dh) · 고정 환율 1달러 ≈ 3.67디르함', en: 'UAE dirham (AED, Dh), pegged at about 3.67 to the US dollar' },
+    },
+    currencyCode: 'AED',
+    currencySymbol: 'Dh',
+    schengen: false,
+    flagColors: {
+      primary: '#00843D',
+      secondary: '#FFFFFF',
+      accent: '#C8102E',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['dubai', 'abu-dhabi', 'al-ain'],
+    cityGroups: [
+      { title: { ko: '두바이와 북부', en: 'Dubai & the north' }, cityIds: ['dubai'] },
+      { title: { ko: '아부다비', en: 'Abu Dhabi' }, cityIds: ['abu-dhabi', 'al-ain'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

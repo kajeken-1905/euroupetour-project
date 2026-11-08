@@ -8357,5 +8357,130 @@
     31.44466,
     35.37324,
     "OSM Nominatim: שמורת טבע עין גדי, מועצה אזורית תמר, נפת באר שבע, מחוז הדרום"
+  ],
+  "dubai-h1": [
+    25.19703,
+    55.27413,
+    "OSM Nominatim: برج خليفة, 1, شارع الشيخ محمد بن راشد, برج خليفة, وسط مدينة  (Wikipedia 20m)"
+  ],
+  "dubai-h2": [
+    25.19512,
+    55.27517,
+    "OSM Nominatim: نافورة دبي, Wheelchair access, برج خليفة, وسط مدينة دبي, دبي (Wikipedia 13m)"
+  ],
+  "dubai-h3": [
+    25.26423,
+    55.30017,
+    "OSM Nominatim: حي الفهيدي التاريخي, شارع الشيخ صباح الأحمد الجابر الصباح, ب"
+  ],
+  "dubai-h4": [
+    25.26998,
+    55.29812,
+    "OSM Nominatim: سوق الذهب, الرأس, دبي, الإمارات العربية المتحدة"
+  ],
+  "dubai-h5": [
+    25.21915,
+    55.28187,
+    "OSM Nominatim: متحف المستقبل, شارع الشيخ زايد, Sheikh Zayed Road, مركز التج (Wikipedia 23m)"
+  ],
+  "dubai-h6": [
+    25.23546,
+    55.30037,
+    "OSM Nominatim: برواز دبي, Jogging track, بر دبي, الكفاف, زعبيل, دبي, الإمار (Wikipedia 4m)"
+  ],
+  "dubai-h7": [
+    25.11397,
+    55.13983,
+    "OSM Nominatim: ذا فيو ات ذا بالم, Shoreline Street, نخلة جميرا, دبي, الإمار (Wikipedia 797m)"
+  ],
+  "dubai-h8": [
+    25.14811,
+    55.1941,
+    "OSM Nominatim: الشاطئ المفتوح, أم سقيم, دبي, الإمارات العربية المتحدة"
+  ],
+  "dubai-h9": [
+    25.13342,
+    55.18579,
+    "OSM Nominatim: سوق مدينة جميرا, Madinat Jumeirah, الصفوح 1, أم سقيم 3, أم س (Wikipedia 129m)"
+  ],
+  "dubai-h10": [
+    25.08556,
+    55.14761,
+    "OSM Nominatim: Reem Al Bawadi (Dubai Marina Walk Branch), ممشى المارينا, دب (Wikipedia 588m)"
+  ],
+  "dubai-h11": [
+    24.86212,
+    55.64645,
+    "OSM Nominatim: محمية دبي الصحراوية, دبي, الإمارات العربية المتحدة"
+  ],
+  "dubai-h12": [
+    25.36489,
+    55.38926,
+    "OSM Nominatim: متحف الشارقة للحضارة الإسلامية, شارع الكورنيش, المجرة, الشرق"
+  ],
+  "abu-dhabi-h1": [
+    24.41245,
+    54.47427,
+    "OSM Nominatim: جامع الشيخ زايد الكبير, ساحة جامع الشيخ زايد الكبير, الجامع  (Wikipedia 57m)"
+  ],
+  "abu-dhabi-h2": [
+    24.53368,
+    54.39861,
+    "OSM Nominatim: Louvre Museum Abu Dhabi, 133, شارع جاك شيراك, منطقة الثقافة, (Wikipedia 161m)"
+  ],
+  "abu-dhabi-h3": [
+    24.46259,
+    54.30683,
+    "OSM Nominatim: Qasr Al Watan Library, شارع الرِّيادة, الرأس الأخضر, أبو ظبي (Wikipedia 139m)"
+  ],
+  "abu-dhabi-h4": [
+    24.48234,
+    54.35528,
+    "OSM Nominatim: قصر الحصن, شارع الحِصن, الحصن, أبو ظبي, أبوظبي, أبو ظبي, الإ"
+  ],
+  "abu-dhabi-h5": [
+    24.47147,
+    54.33608,
+    "OSM Nominatim: Corniche Family Beach, الخالدية, أبو ظبي, أبوظبي, أبو ظبي, ا"
+  ],
+  "abu-dhabi-h6": [
+    24.46239,
+    54.31747,
+    "OSM Nominatim: قصر الإمارات, 39999, شارع الملك عبدالله بن عبدالعزيز آل سعود (Wikipedia 95m)"
+  ],
+  "abu-dhabi-h7": [
+    24.45288,
+    54.40897,
+    "OSM Nominatim: Eastern Mangrove Lagoon National Park, أبو ظبي, أبوظبي, أبو "
+  ],
+  "abu-dhabi-h8": [
+    24.48407,
+    54.60989,
+    "OSM Nominatim: عالم فراري, شارع الخُيُول, جزيرة ياس, أبو ظبي, أبوظبي, أبو ظ (Wikipedia 294m)"
+  ],
+  "al-ain-h1": [
+    24.21726,
+    55.76967,
+    "OSM Nominatim: Al Ain Oasis, شارع عثمان بن عفان, وسط المدينة, العين, أبو ظب (Wikipedia 778m)"
+  ],
+  "al-ain-h2": [
+    24.21617,
+    55.75209,
+    "OSM Nominatim: قلعة الجاهلي, شارع محمد بن خليفة, الجاهلي, العين, أبو ظبي, ا (Wikipedia 42m)"
+  ],
+  "al-ain-h3": [
+    24.21497,
+    55.76091,
+    "OSM Nominatim: Al Ain Sheikh Zayed Palace Museum, 337, شارع حصة بنت محمد, و"
+  ],
+  "al-ain-h4": [
+    24.29317,
+    55.79408,
+    "OSM Nominatim: حديقة آثار هيلي, شارع الآثار, هيلي, الهيلي, العين, أبو ظبي,  (Wikipedia 424m)"
+  ],
+  "al-ain-h5": [
+    24.05796,
+    55.78086,
+    "OSM Nominatim: جبل حفيت, جبل حَفيت, العين, أبو ظبي, الإمارات العربية المتحد (Wikipedia 349m)"
   ]
 }

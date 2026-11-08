@@ -588,6 +588,19 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Ben Gurion (TLV)', '벤구리온 공항 (TLV)', '텔아비브|Tel Aviv'], ['Ramon (ETM)', '라몬 공항 (ETM)', '에일라트|Eilat']],
     bus: [['Ein Bokek bus stop', '엔 보케크 정류장', '예루살렘행 버스|buses to Jerusalem']],
   },
+  dubai: {
+    air: [['Dubai International (DXB)', '두바이 국제공항 (DXB)', '지하철 레드 라인으로 시내까지 약 20~30분|about 20–30 min to the city on the Metro Red Line']],
+    rail: [['BurJuman', '버주만역', '레드·그린 라인 환승역|Red and Green Line interchange']],
+    bus: [['Al Ghubaiba Bus Station', '알 구바이바 버스터미널', '아부다비·샤르자행|to Abu Dhabi and Sharjah']],
+  },
+  'abu-dhabi': {
+    air: [['Zayed International (AUH)', '자이드 국제공항 (AUH)', '택시·버스로 시내까지 약 30~40분|about 30–40 min to the city by taxi or bus']],
+    bus: [['Abu Dhabi Central Bus Station', '아부다비 중앙 버스터미널', '두바이·알아인행|to Dubai and Al Ain']],
+  },
+  'al-ain': {
+    air: [['Zayed International (AUH)', '자이드 국제공항 (AUH)', '아부다비|Abu Dhabi']],
+    bus: [['Al Ain Central Bus Station', '알아인 중앙 버스터미널', '아부다비·두바이행|to Abu Dhabi and Dubai']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

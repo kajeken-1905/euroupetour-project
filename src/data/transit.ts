@@ -1324,6 +1324,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  ae: {
+    summary: {
+      ko: '우측통행. 두바이는 무인 지하철·트램·아브라(수상 택시)가 잘 갖춰져 있고, 아부다비·알아인은 버스와 택시·호출 앱으로 다닙니다. 도시 사이는 시외버스로 이어집니다.',
+      en: 'Drive on the right. Dubai has a driverless metro, a tram and abra water taxis; Abu Dhabi and Al Ain rely on buses, taxis and ride-hailing, and intercity buses link the cities.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '두바이–아부다비는 시외버스로 약 2시간, 아부다비–알아인도 버스로 약 2시간입니다. 두바이 국제공항(DXB)은 큰 환승지입니다.',
+      en: 'Dubai to Abu Dhabi is about 2 hrs by intercity bus, as is Abu Dhabi to Al Ain. Dubai International (DXB) is a major hub.',
+    },
+    paymentTip: {
+      ko: '두바이는 교통카드 놀(Nol)로 지하철·버스·트램을 타고, 아부다비 버스는 하파라트(Hafilat) 카드를 씁니다.',
+      en: 'Dubai uses the Nol card for the metro, buses and tram; Abu Dhabi buses take the Hafilat card.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

@@ -116,6 +116,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/177/detail',
   },
+  // 0404.go.kr UAE page: level 3 nationwide since 2026-03-08; notices of 2026-10-23, 10-28 and 11-02.
+  ae: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고', en: 'Korean travel alert · level 3, leave the country' },
+    lines: [
+      {
+        ko: '중동 정세로 2026년 3월 8일부터 아랍에미리트 전역이 3단계(출국권고) 지역입니다. 여행 예정이면 취소하거나 미루고, 머무는 중이면 꼭 필요한 일이 아니면 출국하라는 단계입니다.',
+        en: 'Because of the Middle East situation, all of the UAE has been at level 3 (leave the country) since 8 March 2026: cancel or postpone planned trips, and leave unless your stay is essential.',
+      },
+      {
+        ko: '외교부는 2026년 10월 23일과 28일 중동 정세 관련 재외국민 안전 공지를 냈습니다. 두바이·아부다비 공항을 경유할 때도 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'The ministry issued safety notices on 23 and 28 October 2026; check the latest notices before you go, even when only transiting Dubai or Abu Dhabi airports.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/135/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

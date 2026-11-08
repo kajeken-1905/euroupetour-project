@@ -320,6 +320,18 @@ export const STAY: Record<string, StayArea[]> = {
   'dead-sea': [
     a('엔 보케크 호텔', 'Ein Bokek hotels', 'Ein Bokek', '처음 가는 여행에 추천|Best for a first visit', '해변 호텔에 묵으면 해 뜨기 전 마사다에 오르기 좋습니다. 예루살렘에서 당일로도 다녀옵니다.|A beach hotel makes a pre-dawn Masada climb easy; it is also a day trip from Jerusalem.'),
   ],
+  dubai: [
+    a('다운타운 두바이', 'Downtown Dubai', 'Downtown Dubai', '처음 가는 여행에 추천|Best for a first visit', '부르즈 할리파·두바이 몰이 걸어서 닿고 지하철역이 가깝습니다.|The Burj Khalifa and Dubai Mall on foot, near the Metro.'),
+    a('두바이 마리나', 'Dubai Marina', 'Dubai Marina', '해변 휴양|Beach stay', '해변과 마리나 산책로가 가깝고 트램·지하철이 다닙니다.|Close to the beach and marina walk, with the tram and Metro.'),
+    a('데이라·버 두바이', 'Deira & Bur Dubai', 'Bur Dubai', '실속 여행|Budget stays', '옛 시장과 크리크가 가깝고 숙소 값이 저렴한 편입니다.|Near the old souks and creek, with cheaper hotels.'),
+  ],
+  'abu-dhabi': [
+    a('코르니시', 'Corniche', 'Abu Dhabi Corniche', '처음 가는 여행에 추천|Best for a first visit', '바닷가 산책로와 카스르 알 호슨이 가깝습니다.|Near the seafront and Qasr Al Hosn.'),
+    a('사디야트·야스섬', 'Saadiyat & Yas Island', 'Saadiyat Island', '해변 리조트|Beach resorts', '루브르 아부다비와 해변 리조트, 테마파크가 가깝습니다.|Near the Louvre Abu Dhabi, beach resorts and the theme parks.'),
+  ],
+  'al-ain': [
+    a('오아시스 주변 시내', 'Centre near the Oasis', 'Al Ain Oasis', '처음 가는 여행에 추천|Best for a first visit', '오아시스와 궁전 박물관이 걸어서 닿습니다. 아부다비·두바이에서 당일로도 다녀옵니다.|The oasis and palace museum on foot; also a day trip from Abu Dhabi or Dubai.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

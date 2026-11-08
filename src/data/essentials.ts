@@ -1011,6 +1011,27 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 여권은 90일까지 비자 없이 들어갈 수 있지만, 2025년 1월 1일부터 출발 전에 전자여행허가(ETA-IL, israel-entry.piba.gov.il)를 받아야 합니다. 결과는 24~72시간 걸립니다. 아랍·무슬림 국가 방문 기록이 있으면 입국 심사가 까다로울 수 있으니 귀국 항공권과 숙소 예약을 지니세요.', 'Korean passports are visa-free for 90 days, but since 1 January 2025 an ETA-IL (israel-entry.piba.gov.il) must be approved before travel; it takes 24–72 hours. Entry checks can be stricter if you have visited Arab or Muslim countries—carry your return ticket and hotel bookings.'),
     telecom: T('주요 통신사는 Partner·Cellcom·Pelephone입니다. 공항이나 시내에서 관광객용 유심·eSIM을 삽니다.', 'Main operators: Partner, Cellcom and Pelephone; tourist SIMs and eSIMs are sold at the airport and in town.'),
   },
+  ae: {
+    // Korean Foreign Ministry travel-safety page for the UAE (0404.go.kr/ntnSafetyInfo/135/detail), 2026-11.
+    emergency: [num('999', '경찰 (두바이에선 구급도)', 'Police (also ambulance in Dubai)'), num('998', '구급 (아부다비)', 'Ambulance (Abu Dhabi)'), num('997', '소방', 'Fire')],
+    embassy: {
+      name: T('주아랍에미리트 대한민국 대사관', 'Korean Embassy in the UAE'),
+      address: 'Embassies District, 33rd Airport Road, Abu Dhabi (P.O. Box 3270)',
+      phone: '+971-2-441-1520',
+      afterHours: '+971-50-133-7362',
+      note: T('두바이·샤르자·아즈만·라스알카이마·움알카이와인·푸자이라는 주두바이 총영사관(Villa 39, Street 24b, Jumeirah 2, +971-4-344-9200, 24시간 +971-50-553-2816)이 맡습니다.', 'Dubai, Sharjah, Ajman, Ras Al Khaimah, Umm Al Quwain and Fujairah are covered by the Consulate General in Dubai (Villa 39, Street 24b, Jumeirah 2, +971-4-344-9200; 24 h +971-50-553-2816).'),
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/135/detail',
+    },
+    power: T('220~240V · 50Hz, G형(영국식 3핀) 콘센트. 한국 플러그는 맞지 않아 어댑터가 필요합니다.', '220–240V, 50Hz, type G (British three-pin) sockets. Korean plugs do not fit; bring an adapter.'),
+    tipping: T('팁은 의무가 아니지만 식당에선 10% 안팎을 두기도 합니다.', 'Tipping is optional; around 10% is common in restaurants.'),
+    water: WATER_BOTTLED,
+    shops: T('디르함은 미국 달러에 고정돼 있고 카드가 거의 어디서나 됩니다. 수크(전통 시장)에선 값을 흥정합니다.', 'The dirham is pegged to the US dollar and cards are accepted almost everywhere; bargain in the souks.'),
+    toilets: T('쇼핑몰·지하철역·박물관 화장실이 깨끗하고 무료입니다.', 'Malls, metro stations and museums have clean, free toilets.'),
+    time: T('UTC+4, 서머타임 없음. 한국보다 5시간 늦습니다.', 'UTC+4 with no daylight saving: 5 hours behind Korea.'),
+    safety: T('외교부 여행경보: 2026년 3월 8일부터 아랍에미리트 전역이 3단계(출국권고)입니다. 10월 23일·28일 중동 정세 관련 안전 공지가 나와 있습니다. 사우디 국경 지역과 군사 시설 주변은 사진만 찍어도 체포될 수 있습니다. 공공장소에선 어깨와 무릎을 가리고, 술은 허가받은 호텔·식당에서만 마십니다.', 'Korean travel alert: level 3 (leave the country) nationwide since 8 March 2026, with Middle East safety notices on 23 and 28 October. Near the Saudi border and military sites even taking photos can lead to arrest. Cover shoulders and knees in public, and drink alcohol only in licensed hotels and restaurants.'),
+    entry: T('한국 여권은 180일 중 90일까지 비자 없이 들어갈 수 있습니다. 여권은 입·출국일 기준 6개월 이상 남아 있어야 하고, 훼손된 여권으론 입국할 수 없습니다. 6만 디르함 넘는 현금은 세관에 신고합니다. 차를 빌리려면 외교부 2026년 11월 2일 국제운전면허증 유의 공지를 확인하세요.', 'Korean passports are visa-free for 90 days in any 180. Passports must be valid for six months beyond entry and exit, and damaged passports are refused. Declare cash over 60,000 dirhams. If renting a car, read the ministry’s 2 November 2026 notice on international driving permits.'),
+    telecom: T('주요 통신사는 e&(옛 Etisalat)·du입니다. 공항에서 관광객용 유심·eSIM을 살 수 있습니다.', 'Main operators: e& (formerly Etisalat) and du; tourist SIMs and eSIMs are sold at the airport.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {
