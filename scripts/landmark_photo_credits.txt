@@ -1280,7 +1280,6 @@ highlights/porto-13.jpg | https://commons.wikimedia.org/wiki/File:Igreja_de_S%C3
 highlights/porto-14.jpg | https://commons.wikimedia.org/wiki/File:Funda%C3%A7%C3%A3o_Serralves_(51707326939).jpg | CC BY 2.0 | Bex Walton from London, England
 highlights/porto-15.jpg | https://commons.wikimedia.org/wiki/File:Gardens_of_the_Pal%C3%A1cio_de_Cristal_(Porto)_04.jpg | CC BY-SA 4.0 | John Samuel
 highlights/porto-16.jpg | https://commons.wikimedia.org/wiki/File:The_Douro_Valley_(10185551276).jpg | CC BY 2.0 | mat's eye
-highlights/porto-17.jpg | own photo IMG_0274 (site owner, 2024-11) | — | site owner
 highlights/porto-18.jpg | own photo IMG_0352 (site owner, 2024-11) | — | site owner
 highlights/porto-19.jpg | own photo IMG_0379 (site owner, 2024-11) | — | site owner
 highlights/porto-20.jpg | own photo IMG_0626 (site owner, 2024-11) | — | site owner
@@ -1299,7 +1298,6 @@ highlights/lisbon-9.jpg | own photo IMG_0884 (site owner, 2024-11) | — | site 
 highlights/porto-1.jpg | own photo IMG_0670 (site owner, 2024-11) | — | site owner
 highlights/porto-2.jpg | own photo IMG_0472 (site owner, 2024-11) | — | site owner
 highlights/porto-6.jpg | own photo IMG_0511 (site owner, 2024-11) | — | site owner
-highlights/porto-7.jpg | own photo IMG_0270 (site owner, 2024-11) | — | site owner
 highlights/coimbra-6.jpg | own photo IMG_0957 (site owner, 2024-11) | — | site owner
 highlights/aveiro-1.jpg | own photo IMG_0688 (site owner, 2024-11) | — | site owner
 highlights/aveiro-2.jpg | own photo IMG_0778 (site owner, 2024-11) | — | site owner
@@ -2940,3 +2938,32 @@ highlights/menorca-1.jpg | https://www.flickr.com/photos/7728954@N02/4977922014 
 highlights/menorca-2.jpg | https://commons.wikimedia.org/wiki/File:Xoriguer_Destilerias_Port_Mahon_Minorca_night_-_panoramio.jpg | CC BY-SA 3.0 | Santiago Lap
 highlights/oviedo-2.jpg | https://commons.wikimedia.org/wiki/File:Oviedo_Iglesia_de_Santa_Mar%C3%ADa_del_Naranco_(53035776074).jpg | CC BY 2.0 | Jorge Franganillo
 highlights/ubeda-3.jpg | https://commons.wikimedia.org/wiki/File:Sinagoga_del_Agua.jpg | CC BY-SA 4.0 | Fernando
+highlights/porto-26.jpg | own photo | own photo | 사용자 촬영
+highlights/porto-27.jpg | own photo | own photo | 사용자 촬영
+highlights/porto-28.jpg | own photo | own photo | 사용자 촬영
+highlights/porto-7.jpg | own photo | own photo | 사용자 촬영
+highlights/porto-17.jpg | own photo | own photo | 사용자 촬영
+highlights/lisbon-35.jpg | own photo | own photo | 사용자 촬영
+highlights/lisbon-36.jpg | https://commons.wikimedia.org/wiki/File:Museu_do_Fado_-_Lisboa_-_Portugal_(51533480514).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/lisbon-37.jpg | https://commons.wikimedia.org/wiki/File:Lissabon-Ginjinha-02-2011-gje.jpg | CC BY-SA 4.0 | Gerd Eichmann
+highlights/lisbon-38.jpg | https://commons.wikimedia.org/wiki/File:Feira_da_Ladra_(34083164331).jpg | CC BY 2.0 | Shadowgate from Novara, ITALY
+highlights/porto-23.jpg | https://commons.wikimedia.org/wiki/File:Capela_das_Almas_(Porto).jpg | CC BY 2.0 | Nelson Rocha from Portugal
+highlights/porto-24.jpg | https://commons.wikimedia.org/wiki/File:Sandeman_Port_Wine_Cellars_and_Cable_Cars_in_Vila_Nova_de_Gaia,_Porto_(54813354822).jpg | CC BY 4.0 | Dale Cruse - 10M views from San Francisco, CA, USA
+highlights/porto-25.jpg | https://commons.wikimedia.org/wiki/File:Barcos_Rabelos_face_%C3%A0_Vila_Nova_de_Gaia.JPG | CC BY-SA 4.0 | Waxilexlilarose
+highlights/braga-7.jpg | https://commons.wikimedia.org/wiki/File:Garden_of_Santa_Barbara_-_Braga,_Portugal_-_panoramio.jpg | CC BY-SA 3.0 | Sergey Ashmarin
+highlights/coimbra-8.jpg | https://commons.wikimedia.org/wiki/File:Fado_ao_Centro,_Coimbra_(42028608204).jpg | CC BY 2.0 | FlyingCrimsonPig
+highlights/coimbra-9.jpg | https://commons.wikimedia.org/wiki/File:Mosaic_floor_in_the_House_of_the_Squeletons,_Conimbriga,_Lusitania,_Portugal_(13006583964).jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
+highlights/evora-6.jpg | https://commons.wikimedia.org/wiki/File:Convento_da_Cartuxa_-_%C3%89vora_-_Portugal_(520228706).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/evora-7.jpg | https://commons.wikimedia.org/wiki/File:Cromeleque_dos_Almendres1341.JPG | Public domain | 
+highlights/evora-8.jpg | https://commons.wikimedia.org/wiki/File:Monsaraz_December_2016-7a.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/cascais-6.jpg | https://commons.wikimedia.org/wiki/File:Casa_das_Hist%C3%B3rias_Paula_Rego_-_Cascais_-_Portugal_(52596241296).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/fatima-7.jpg | https://commons.wikimedia.org/wiki/File:Casa_da_L%C3%BAcia_-_Aljustrel,_F%C3%A1tima_-_02.jpg | CC BY-SA 4.0 | Reis Quarteu
+highlights/lagos-6.jpg | https://commons.wikimedia.org/wiki/File:Algar_de_Benagil,_O_Algarve_20210713_111605_(51615602464).jpg | CC BY 2.0 | David Ceballos
+highlights/lagos-7.jpg | https://commons.wikimedia.org/wiki/File:Sagres_-_Farol_de_Cabo_de_S%C3%A3o_Vicente.jpg | CC BY-SA 4.0 | Rui Glória
+highlights/faro-6.jpg | https://commons.wikimedia.org/wiki/File:Arco_da_Vila_04.jpg | CC BY-SA 4.0 | Joseolgon
+highlights/funchal-6.jpg | https://commons.wikimedia.org/wiki/File:Carreiros_do_Monte_(4).jpg | CC BY 3.0 | Alberto-g-rovi
+highlights/funchal-7.jpg | https://commons.wikimedia.org/wiki/File:Blandy%27s_Wine_Lodge_-_Funchal_01.jpg | CC BY-SA 3.0 | H. Zell
+highlights/funchal-8.jpg | https://commons.wikimedia.org/wiki/File:Levada_25_Fontes,_Madeira,_Portugal,_June-July_2011_-_panoramio_(30).jpg | CC BY-SA 3.0 | anagh
+highlights/funchal-9.jpg | https://commons.wikimedia.org/wiki/File:Vista_desde_el_pico_de_Arieiro,_Madeira,_Portugal,_2019-05-30,_DD_142-146_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/sintra-5.jpg | https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Monserrate_(1).jpg | CC BY-SA 4.0 | Jorge Lobo
+highlights/evora-5.jpg | https://commons.wikimedia.org/wiki/File:Aqueduto_da_%C3%81gua_de_Prata_(50879388777).jpg | CC BY 2.0 | F Delventhal from Outside Washington, D.C., US

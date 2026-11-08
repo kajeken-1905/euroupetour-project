@@ -24,7 +24,11 @@
     -0.87534,
     "OSM Nominatim: Puente de Piedra, El Tubo, Casco Antiguo, Casco Histórico, Z (Wikipedia 6m)"
   ],
-  "aveiro-h2": null,
+  "aveiro-h2": [
+    40.6413,
+    -8.6537,
+    "manual 2026-11-08: Moliceiro pier, Canal Central"
+  ],
   "schaan-h5": null,
   "podgorica-h4": [
     42.43947,
@@ -6953,5 +6957,275 @@
     40.41995,
     -3.7058,
     "es.wikipedia: Plaza del Callao (photo GPS)"
+  ],
+  "porto-h25": [
+    41.14055,
+    -8.61184,
+    "OSM Nominatim: Cais da Ribeira, Barredo, Ribeira, Centro Histórico do Porto"
+  ],
+  "porto-h10": [
+    41.14663,
+    -8.6108,
+    "OSM Nominatim: McDonald's, 126, Praça da Liberdade, Baixa do Porto, Conjunt"
+  ],
+  "porto-h23": [
+    41.14983,
+    -8.60558,
+    "OSM Nominatim: Capela das Almas, Rua de Fernandes Tomás, Baixa do Porto, Co"
+  ],
+  "porto-h5": [
+    41.13786,
+    -8.6193,
+    "OSM Nominatim: Cais de Gaia, Lugar do Castelo, Santa Marinha, Vila Nova de  (Wikipedia 549m)"
+  ],
+  "porto-h24": [
+    41.13474,
+    -8.61435,
+    "OSM Nominatim: Wine Museum, 39, Rua do Choupelo, Devesas, Santa Marinha, Vi"
+  ],
+  "porto-h16": [
+    41.1906,
+    -7.5468,
+    "manual 2026-11-08: Pinhão, Douro Valley"
+  ],
+  "braga-h7": [
+    41.55138,
+    -8.4259,
+    "OSM Nominatim: Jardim de Santa Bárbara, São João do Souto, Braga (São José "
+  ],
+  "guimaraes-h3": [
+    41.4429,
+    -8.29287,
+    "OSM Nominatim: Largo da Oliveira, Oliveira, São Paio e São Sebastião, Guima"
+  ],
+  "aveiro-h1": [
+    40.64134,
+    -8.65482,
+    "OSM Nominatim: Canal Central, Largo do Rossio, Glória e Vera Cruz, Aveiro,  (Wikipedia 979m)"
+  ],
+  "aveiro-h5": [
+    40.64835,
+    -8.66738,
+    "OSM Nominatim: Salinas, Cais do Sal, Lugar dos Moinhos, Glória e Vera Cruz,"
+  ],
+  "lisbon-h22": [
+    38.71339,
+    -9.14555,
+    "OSM Nominatim: Bairro Alto, Misericórdia, Lisboa, Portugal (Wikipedia 139m)"
+  ],
+  "lisbon-h36": [
+    38.71103,
+    -9.12766,
+    "OSM Nominatim: Museu do Fado, 1, Largo do Chafariz de Dentro, Alfama, Santa (Wikipedia 12m)"
+  ],
+  "lisbon-h38": [
+    38.71473,
+    -9.12749,
+    "OSM Nominatim: Igreja de São Vicente de Fora, Largo de São Vicente, São Vic (Wikipedia 25m)"
+  ],
+  "lisbon-h12": [
+    38.7175,
+    -9.13579,
+    "OSM Nominatim: Martim Moniz, Rua da Palma, Pena, Santa Maria Maior, Arroios"
+  ],
+  "lisbon-h35": [
+    38.69748,
+    -9.20332,
+    "OSM Nominatim: Pastéis de Belém, 84-92, Rua de Belém, São Francisco Xavier,"
+  ],
+  "lisbon-h26": [
+    38.76387,
+    -9.09537,
+    "OSM Nominatim: Parque das Nações, Lisboa, Portugal (Wikipedia 474m)"
+  ],
+  "lisbon-h30": [
+    38.6847,
+    -9.15881,
+    "OSM Nominatim: Elevador da Boca do Vento, Almada Velha, Ginjal, Almada, Cov (Wikipedia 493m)"
+  ],
+  "cascais-h4": [
+    38.69297,
+    -9.42293,
+    "OSM Nominatim: Parque Marechal Carmona, Cascais e Estoril, Cascais, Lisboa, (Wikipedia 952m)"
+  ],
+  "cascais-h6": [
+    38.69521,
+    -9.42404,
+    "OSM Nominatim: Casa das Histórias - Paula Rego, acesso para veiculos do Mus (Wikipedia 589m)"
+  ],
+  "obidos-h5": [
+    39.35953,
+    -9.15788,
+    "OSM Nominatim: Porta da Vila, Rua da Porta da Vila, Pinhal, Santa Maria, Sã (Wikipedia 164m)"
+  ],
+  "obidos-h4": [
+    39.36132,
+    -9.1575,
+    "OSM Nominatim: Rua Direita, Pinhal, Santa Maria, São Pedro e Sobral da Lago (Wikipedia 364m)"
+  ],
+  "obidos-h2": [
+    39.36015,
+    -9.15702,
+    "OSM Nominatim: Muralhas, 6, Rua Dom João de Ornelas, Pinhal, Santa Maria, S"
+  ],
+  "nazare-h5": [
+    39.62283,
+    -9.0834,
+    "OSM Nominatim: Praia do Norte, Nazaré, Leiria, Portugal"
+  ],
+  "fatima-h7": [
+    39.61597,
+    -8.66475,
+    "OSM Nominatim: Aljustrel, Fátima, Ourém, Santarém, 2495-408, Portugal (Wikipedia 15m)"
+  ],
+  "fatima-h6": [
+    39.65921,
+    -8.82583,
+    "OSM Nominatim: Mosteiro da Batalha, Largo da Vitória, Urbanização do Pinhal (Wikipedia 25m)"
+  ],
+  "tomar-h1": [
+    39.60359,
+    -8.41993,
+    "OSM Nominatim: Convento de Cristo, Estrada do Convento, Casal dos Peixinhos (Wikipedia 243m)"
+  ],
+  "tomar-h3": [
+    39.60148,
+    -8.40731,
+    "OSM Nominatim: Igreja de Santa Maria dos Olivais, Rua Aquiles da Mota Lima,"
+  ],
+  "tomar-h5": [
+    39.6036,
+    -8.41503,
+    "OSM Nominatim: Praça da República, Tomar (São João Baptista) e Santa Maria  (Wikipedia 424m)"
+  ],
+  "tomar-h4": [
+    39.6032,
+    -8.41379,
+    "OSM Nominatim: Sinagoga de Tomar, Rua Doutor Joaquim Jacinto, Quinta do Lim"
+  ],
+  "tomar-h2": [
+    39.60868,
+    -8.43916,
+    "OSM Nominatim: Aqueduto dos Pegões, Rua Casal dos Peixinhos, Casal dos Peix (Wikipedia 99m)"
+  ],
+  "coimbra-h5": [
+    40.20132,
+    -8.42505,
+    "OSM Nominatim: Parque Verde do Mondego, Alta, Coimbra (Sé Nova, Santa Cruz, (Wikipedia 962m)"
+  ],
+  "coimbra-h8": [
+    40.20886,
+    -8.4284,
+    "OSM Nominatim: Fado ao Centro, 7, Rua de Quebra-Costas, Almedina, Alta, Coi"
+  ],
+  "coimbra-h9": [
+    40.09874,
+    -8.4953,
+    "OSM Nominatim: Ruínas de Conímbriga, Ameixieira, Condeixa-a-Velha e Condeix (Wikipedia 411m)"
+  ],
+  "evora-h5": [
+    38.57866,
+    -7.91748,
+    "OSM Nominatim: Aqueduto da Água de Prata, Avenida Doutor João Alves Pimenta (Wikipedia 543m)"
+  ],
+  "evora-h6": [
+    38.54247,
+    -7.87018,
+    "OSM Nominatim: Adega Cartuxa, EN 18, Malagueira e Horta das Figueiras, Évor"
+  ],
+  "evora-h7": [
+    38.5575,
+    -8.06117,
+    "OSM Nominatim: Cromeleque dos Almendres, Acesso ao Menir, Nossa Senhora da  (Wikipedia 2m)"
+  ],
+  "evora-h8": [
+    38.443,
+    -7.3806,
+    "manual 2026-11-08: Monsaraz village"
+  ],
+  "lagos-h3": [
+    37.099,
+    -8.66851,
+    "OSM Nominatim: Forte da Ponta da Bandeira / Ponta da Bandeira Fort, Cais da (Wikipedia 566m)"
+  ],
+  "lagos-h6": [
+    37.0872,
+    -8.42372,
+    "OSM Nominatim: Gruta de Benagil, Lagoa, Lagoa e Carvoeiro, Lagoa, Faro, 840 (Wikipedia 191m)"
+  ],
+  "lagos-h7": [
+    37.02291,
+    -8.99652,
+    "OSM Nominatim: Farol do Cabo de São Vicente, EN 268, Sagres, Vila do Bispo, (Wikipedia 297m)"
+  ],
+  "faro-h6": [
+    37.01465,
+    -7.93485,
+    "OSM Nominatim: Arco da Vila, Faro (Sé e São Pedro), Faro, 8000-250, Portuga (Wikipedia 163m)"
+  ],
+  "faro-h1": [
+    37.01326,
+    -7.93519,
+    "OSM Nominatim: Largo da Sé, Faro (Sé e São Pedro), Faro, Portugal (Wikipedia 43m)"
+  ],
+  "faro-h5": [
+    37.00314,
+    -7.98599,
+    "OSM Nominatim: Praia de Faro, Avenida Nascente, Praia de Faro Nascente, Mon"
+  ],
+  "funchal-h7": [
+    32.64783,
+    -16.91058,
+    "OSM Nominatim: Blandy's Wine Lodge, 28, Avenida Arriaga, São Francisco, Ilh (Wikipedia 619m)"
+  ],
+  "funchal-h6": [
+    32.67543,
+    -16.90263,
+    "OSM Nominatim: Carreiros do Monte, 4, Caminho do Monte, Desterro, Livrament"
+  ],
+  "funchal-h8": [
+    32.76162,
+    -17.13442,
+    "OSM Nominatim: PR6 Levada das 25 Fontes/PR 6.1 Levada do Risco, Levada Velh"
+  ],
+  "funchal-h9": [
+    32.73573,
+    -16.92871,
+    "OSM Nominatim: Pico do Arieiro, Vereda do Areeiro, São Roque do Faial, Sant (Wikipedia 26m)"
+  ],
+  "lisbon-h37": [
+    38.7144,
+    -9.1385,
+    "manual 2026-11-08: A Ginjinha, Largo de São Domingos"
+  ],
+  "lisbon-h32": [
+    38.6935,
+    -9.177,
+    "manual 2026-11-08: Pilar 7 Bridge Experience"
+  ],
+  "fatima-h5": [
+    39.6312,
+    -8.673,
+    "manual 2026-11-08: Sanctuary of Fátima museum"
+  ],
+  "funchal-h1": [
+    32.6476,
+    -16.9038,
+    "manual 2026-11-08: Funchal cable car base station"
+  ],
+  "porto-h26": [
+    41.14717,
+    -8.60664,
+    "OSM Nominatim: Café Majestic (photo GPS matches)"
+  ],
+  "porto-h27": [
+    41.14456,
+    -8.60754,
+    "OSM Nominatim: Teatro Nacional São João (photo GPS matches)"
+  ],
+  "porto-h28": [
+    41.14908,
+    -8.60524,
+    "OSM Nominatim: Via Catarina Shopping (photo GPS matches)"
   ]
 }
