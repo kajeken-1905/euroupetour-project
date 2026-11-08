@@ -6513,5 +6513,20 @@
     40.4175,
     -3.69955,
     "es.wikipedia: Edificio del Banco de Bilbao (Madrid) (photo GPS bearing matches)"
+  ],
+  "madrid-h26": [
+    40.41662,
+    -3.70377,
+    "manual: Kilómetro Cero plaque, Puerta del Sol (photo GPS)"
+  ],
+  "madrid-h27": [
+    40.41733,
+    -3.70031,
+    "es.wikipedia: Palacio de la Equitativa (photo GPS bearing matches)"
+  ],
+  "madrid-h28": [
+    40.41995,
+    -3.7058,
+    "es.wikipedia: Plaza del Callao (photo GPS)"
   ]
 }

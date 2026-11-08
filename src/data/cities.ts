@@ -19470,6 +19470,14 @@ export const cities: City[] = [
         group: { ko: "합스부르크 마드리드 (구시가)", en: "Habsburg Madrid (old town)" },
       },
       {
+        id: "madrid-h26",
+        name: { ko: "킬로미터 0", en: "Kilómetro Cero" },
+        description: { ko: "솔 광장 옛 우체국 건물(지금은 마드리드 자치정부 청사) 앞 바닥의 표지판으로, 스페인 방사형 국도의 거리를 재는 출발점입니다.", en: "The plaque in the pavement before the old Royal Post Office on Puerta del Sol (now the regional government seat)—the point from which Spain’s radial highways are measured." },
+        image: "/highlights/madrid-26.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kil%C3%B3metro%20Cero%20Puerta%20del%20Sol%20Madrid",
+        group: { ko: "합스부르크 마드리드 (구시가)", en: "Habsburg Madrid (old town)" },
+      },
+      {
         id: "madrid-h21",
         name: { ko: "산히네스 초콜라테리아", en: "Chocolatería San Ginés" },
         description: { ko: "1894년부터 영업한 가게로, 진한 핫초코에 추로스를 찍어 먹습니다.", en: "Serving since 1894—dunk churros into thick hot chocolate." },
@@ -19558,11 +19566,27 @@ export const cities: City[] = [
         group: { ko: "예술의 거리 · 대로", en: "The Art Walk & boulevards" },
       },
       {
+        id: "madrid-h27",
+        name: { ko: "라 에키타티바 궁전 (옛 바네스토 본점)", en: "Palacio de la Equitativa (former Banesto HQ)" },
+        description: { ko: "19세기 말 보험회사 사옥으로 지은 뒤 바네스토 은행 본점이 된 건물로, 알칼라 거리와 세비야 거리 모퉁이에 첨탑이 솟아 있습니다. 지금은 카날레하스 센터의 호텔과 상가입니다.", en: "Built in the late 19th century for an insurance company and later the Banesto bank’s headquarters, its spire rises over the corner of Calle de Alcalá and Calle Sevilla; it is now part of the Centro Canalejas hotel and shopping complex." },
+        image: "/highlights/madrid-27.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20la%20Equitativa%20Calle%20de%20Alcal%C3%A1%2014%20Madrid",
+        group: { ko: "예술의 거리 · 대로", en: "The Art Walk & boulevards" },
+      },
+      {
         id: "madrid-h20",
         name: { ko: "그란비아", en: "Gran Vía" },
         description: { ko: "20세기 초에 낸 대로로, 극장과 백화점, 고층 건물 옥상 테라스가 이어집니다.", en: "The early-20th-century boulevard of theatres, department stores and rooftop terraces." },
         image: "/highlights/madrid-20.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gran%20V%C3%ADa%20Madrid",
+        group: { ko: "예술의 거리 · 대로", en: "The Art Walk & boulevards" },
+      },
+      {
+        id: "madrid-h28",
+        name: { ko: "카야오 광장", en: "Plaza del Callao" },
+        description: { ko: "그란비아 중간의 광장으로, 대형 전광판과 영화관, 백화점이 둘러싸 ‘마드리드의 타임스스퀘어’로 불립니다.", en: "The square midway along Gran Vía, ringed by giant screens, cinemas and a department store—“Madrid’s Times Square”." },
+        image: "/highlights/madrid-28.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plaza%20del%20Callao%20Madrid",
         group: { ko: "예술의 거리 · 대로", en: "The Art Walk & boulevards" },
       },
       {

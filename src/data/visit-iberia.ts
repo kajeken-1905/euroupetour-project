@@ -38,6 +38,9 @@ export const visitIberia: Record<string, HighlightVisit> = {
   'madrid-h23': v(60, 75, { c: 'mon' }),
   'madrid-h24': v(15, 20, { n: '내부는 주로 미사 시간 앞뒤에 열립니다.|The interior is usually open around Mass times.' }),
   'madrid-h25': v(10, 15, { n: '은행 건물이라 밖에서만 봅니다.|A bank building, seen from the street only.' }),
+  'madrid-h26': v(5, 10),
+  'madrid-h27': v(10, 15),
+  'madrid-h28': v(15, 20),
   // Segovia
   'segovia-h1': v(20, 30),
   'segovia-h5': v(10, 15),
