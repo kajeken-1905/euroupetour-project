@@ -1356,6 +1356,38 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  kw: {
+    summary: {
+      ko: '우측통행. 철도와 지하철이 없어 택시·호출 앱과 시내버스로 다닙니다.',
+      en: 'Drive on the right. There is no rail or metro—use taxis, ride-hailing and city buses.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '쿠웨이트 국제공항에서 시내까지 차로 약 20~30분입니다. 주변국은 비행기로 이어집니다.',
+      en: 'Kuwait International Airport is about 20–30 min from the city by car; neighbouring countries are reached by air.',
+    },
+    paymentTip: {
+      ko: '호출 앱(Uber·Careem)이 편하고, 택시는 타기 전에 요금을 정하세요.',
+      en: 'Ride-hailing (Uber, Careem) is easiest; agree taxi fares before you set off.',
+    },
+    apps: [],
+  },
+  dz: {
+    summary: {
+      ko: '우측통행. 알제엔 지하철과 트램, 언덕을 오르는 케이블카가 있고, 알제–오랑·콘스탄틴은 기차로, 사막 도시는 국내선으로 갑니다.',
+      en: 'Drive on the right. Algiers has a metro, trams and cable cars up its hills; trains link Algiers with Oran and Constantine, and domestic flights reach the desert towns.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '알제–오랑은 기차로 약 4시간, 알제–콘스탄틴은 기차로 6시간 안팎이거나 비행기로 약 1시간, 가르다이아는 비행기로 약 1시간 15분입니다.',
+      en: 'Algiers to Oran is about 4 hrs by train; Algiers to Constantine about 6 hrs by train or 1 hr by air; Ghardaïa about 1 hr 15 by air.',
+    },
+    paymentTip: {
+      ko: '기차표는 SNTF 역 창구에서 현금으로 삽니다. 택시는 미터기를 켜는지 확인하세요.',
+      en: 'Buy SNTF train tickets with cash at the station; make sure taxis use the meter.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

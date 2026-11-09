@@ -148,6 +148,38 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/107/detail',
   },
+  // 0404.go.kr Kuwait page: level 3 nationwide since 2026-03-08; no notices in the last two months.
+  kw: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고', en: 'Korean travel alert · level 3, leave the country' },
+    lines: [
+      {
+        ko: '중동 정세로 2026년 3월 8일부터 쿠웨이트 전역이 3단계(출국권고) 지역입니다. 여행 예정이면 취소하거나 미루고, 머무는 중이면 꼭 필요한 일이 아니면 출국하라는 단계입니다.',
+        en: 'Because of the Middle East situation, all of Kuwait has been at level 3 (leave the country) since 8 March 2026: cancel or postpone planned trips, and leave unless your stay is essential.',
+      },
+      {
+        ko: '이라크 국경 지역은 가지 말고, 사막과 섬에선 걸프전 지뢰가 남아 있을 수 있으니 정해진 길을 벗어나지 마세요. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'Stay away from the Iraqi border, and keep to roads in the desert and on the islands, where Gulf War landmines may remain. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/216/detail',
+  },
+  // 0404.go.kr Algeria page: alert levels (last regular review 2025-06-30) and the 2026-09-02 notices.
+  dz: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 지역별 1~3단계', en: 'Korean travel alert · levels 1–3 by region' },
+    lines: [
+      {
+        ko: '알제는 1단계(여행유의), 카빌리 산악 지역(부메르데스·부이라·티지우주·베자이아·보르즈부아레리즈·지젤)은 2단계(여행자제), 튀니지·리비아 접경과 남부 니제르·말리·모리타니 접경 지역은 3단계(출국권고)입니다.',
+        en: 'Algiers is level 1 (exercise caution); the Kabylie mountain wilayas (Boumerdès, Bouira, Tizi Ouzou, Béjaïa, Bordj Bou Arréridj, Jijel) are level 2 (refrain from travel); the Tunisian and Libyan borders and the southern borders with Niger, Mali and Mauritania are level 3 (leave the country).',
+      },
+      {
+        ko: '외교부는 2026년 9월 2일 중동 정세에 따른 신변 안전 유의를 공지했습니다. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'On 2 September 2026 the ministry advised caution because of the Middle East situation. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/150/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

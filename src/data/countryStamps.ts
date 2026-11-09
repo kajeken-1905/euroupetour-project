@@ -20,6 +20,8 @@ export const countryStamps: Record<string, StampIcon> = {
   ma: { kind: 'raster', width: 58, height: 150 },
   il: { kind: 'raster', width: 130, height: 150 },
   sa: { kind: 'raster', width: 67, height: 150 },
+  kw: { kind: 'raster', width: 80, height: 150 },
+  dz: { kind: 'raster', width: 143, height: 150 },
   ad: { kind: 'raster', width: 210, height: 150 },
   al: { kind: 'raster', width: 148, height: 180 },
   am: { kind: 'raster', width: 194, height: 179 },

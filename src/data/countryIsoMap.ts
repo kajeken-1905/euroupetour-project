@@ -68,6 +68,8 @@ export const countryIsoMap: Record<string, string> = {
   il: '376',
   ae: '784',
   sa: '682',
+  kw: '414',
+  dz: '012',
 }
 
 /** world-atlas features with no ISO id, matched by their `name` property instead: name → app country id. */

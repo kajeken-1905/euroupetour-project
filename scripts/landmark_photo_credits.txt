@@ -3229,3 +3229,46 @@ gateways/gw-ruh.jpg | https://commons.wikimedia.org/wiki/File:King_Khalid_Intern
 gateways/gw-jed.jpg | https://commons.wikimedia.org/wiki/File:King_Abdulaziz_International_Airport_in_2022.01.jpg | CC BY-SA 4.0 | CAPTAIN RAJU
 gateways/gw-jeddah-haramain.jpg | https://www.flickr.com/photos/49399018@N00/51943593073 | BY 2.0 | amanderson2
 gateways/gw-ulh.jpg | https://commons.wikimedia.org/wiki/File:Al-Ula_International_Airport_20260130_1.jpg | CC BY 4.0 | Z thomas
+highlights/kuwait-city-1.jpg | https://www.flickr.com/photos/10345599@N03/26897283182 | BY 2.0 | Francisco Anzola
+highlights/kuwait-city-2.jpg | https://commons.wikimedia.org/wiki/File:Kuwait_City_Grand_Mosque_Exterior_South_Facade_5.jpg | CC BY 4.0 | Zairon
+highlights/kuwait-city-3.jpg | https://commons.wikimedia.org/wiki/File:Kuwait_City_Souq_al-Mubarakeya_at_Night_01.jpg | CC BY 4.0 | Zairon
+highlights/kuwait-city-6.jpg | https://commons.wikimedia.org/wiki/File:A_miniature_city_in_Al_Shaheed_Park,_Kuwait.jpg | CC BY-SA 4.0 | Coretto958
+highlights/kuwait-city-7.jpg | https://www.flickr.com/photos/21543443@N00/23096938522 | BY 2.0 | alazaat
+highlights/kuwait-city-8.jpg | https://www.flickr.com/photos/45953381@N05/8016484403 | BY 2.0 | robef
+gateways/gw-kwi.jpg | https://commons.wikimedia.org/wiki/File:Kuwait_Airport.jpg | CC BY 4.0 | Aarti Surana
+landmarks/landmark-kw.jpg | https://commons.wikimedia.org/wiki/File:Fireworks_in_Kuwait_City_(24244363641).jpg | CC0 | www.Pixel.la Free Stock Photos
+cities/kuwait-city.jpg | https://commons.wikimedia.org/wiki/File:Kuwait_City_banner.jpg | CC BY 2.0 | Francisco Anzola from United States
+highlights/kuwait-city-5.jpg | https://sketchfab.com/3d-models/a501f54675c04ac899f4b2c283b964f7 | BY 4.0 | overwatch.blue
+highlights/kuwait-city-4.jpg | https://commons.wikimedia.org/wiki/File:ASCC_Cultural_Centre_Kw.webp | CC0 | Indian Fact Finder
+landmarks/landmark-dz.jpg | https://commons.wikimedia.org/wiki/File:Timgad_%D8%AA%D9%8A%D9%85%D9%82%D8%A7%D8%AF_4.jpg | CC BY-SA 4.0 | Habib kaki
+cities/algiers.jpg | https://commons.wikimedia.org/wiki/File:Bay_of_Algiers_by_night.jpg | CC BY-SA 2.0 | toufik Lerari from Nice, France
+cities/oran.jpg | https://commons.wikimedia.org/wiki/File:Chapelle_de_Santa_Cruz_(Oran)_02.jpg | CC BY 4.0 | Bernard Gagnon
+cities/constantine.jpg | https://commons.wikimedia.org/wiki/File:The_Great_Bridge_in_Constantine_Algeria_1899.jpg | CC BY 2.0 | Silverbanks Pictures Image Archive
+cities/ghardaia.jpg | https://commons.wikimedia.org/wiki/File:Vue_Ghardaia_Melika.jpg | CC BY-SA 4.0 | Camille Gillet
+highlights/algiers-1.jpg | https://commons.wikimedia.org/wiki/File:La_casbah_d%27Alger.jpg | CC BY-SA 4.0 | SEBA Abdouellah
+highlights/algiers-2.jpg | https://commons.wikimedia.org/wiki/File:Alger_Monument_aux_Martyres_(2).jpg | CC BY-SA 3.0 | Bachounda
+highlights/algiers-3.jpg | https://commons.wikimedia.org/wiki/File:Basilique_Notre_dame_d%27afrique_%C3%A0_Alger.jpg | CC BY-SA 4.0 | Habib kaki
+highlights/algiers-4.jpg | https://commons.wikimedia.org/wiki/File:Djama%C3%A2_El-Djaza%C3%AFr_-_20240405_210459719.jpg | CC BY 4.0 | Riad Salih
+highlights/algiers-5.jpg | https://commons.wikimedia.org/wiki/File:Jardin_d%27essai_du_Hamma,_Alger_,_Alg%C3%A9rie.jpg | CC BY-SA 4.0 | Sabi sabrwina
+highlights/algiers-6.jpg | https://commons.wikimedia.org/wiki/File:Centre_commercial_de_la_Grande_Poste_d%27Alger_-_IMG_0282.jpg | CC BY 3.0 | Poudou99
+highlights/algiers-7.jpg | https://www.flickr.com/photos/87506599@N00/33413469470 | BY 2.0 | Bagolina
+highlights/algiers-8.jpg | https://commons.wikimedia.org/wiki/File:Tipasa_remain_2.JPG | CC BY-SA 3.0 | Alloutthere at English Wikipedia
+highlights/oran-1.jpg | https://commons.wikimedia.org/wiki/File:Fort_Santa_Cruz_Oran_5.jpg | CC BY-SA 3.0 | Ramy Maalouf
+highlights/oran-2.jpg | https://commons.wikimedia.org/wiki/File:Place_d%27armes.jpg | CC BY-SA 3.0 | Boumlik Messaïli
+highlights/oran-3.jpg | https://commons.wikimedia.org/wiki/File:Front_de_mer_Oran_3_-_panoramio.jpg | CC BY 3.0 | habib kaki
+highlights/oran-4.jpg | https://commons.wikimedia.org/wiki/File:Hassan_Pasha_Mosque_2024_32.jpg | CC BY-SA 4.0 | Dezedien
+highlights/oran-5.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_Ahmed_Zabana_05.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/constantine-1.jpg | https://commons.wikimedia.org/wiki/File:Pont_de_Sidi_M%27Cid_08.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/constantine-2.jpg | https://commons.wikimedia.org/wiki/File:Ahmed_Bey_Palace_06.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/constantine-3.jpg | https://commons.wikimedia.org/wiki/File:Emir_Abdelkader_Mosque_06.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/constantine-4.jpg | https://commons.wikimedia.org/wiki/File:Monument_aux_morts_-_Constantine_%D9%85%D8%B9%D9%84%D9%85_%D8%AA%D8%B0%D9%83%D8%A7%D8%B1%D9%8A_-_%D9%82%D8%B3%D9%86%D8%B7%D9%8A%D9%86%D8%A9.jpg | CC0 | Habib kaki
+highlights/constantine-5.jpg | https://commons.wikimedia.org/wiki/File:Roman_Ruins_of_Djemila_in_S%C3%A9tif,_Algeria.jpg | CC BY-SA 4.0 | Alioueche Mokhtar
+highlights/constantine-6.jpg | https://commons.wikimedia.org/wiki/File:Timgad_Ruins_Panorama.jpg | CC BY-SA 3.0 | Hamza-sia
+highlights/ghardaia-1.jpg | https://commons.wikimedia.org/wiki/File:Market_Place_of_Ksar_Gharda%C3%AFa_06.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/ghardaia-2.jpg | https://www.flickr.com/photos/31712587@N04/33623094033 | BY 2.0 | Mickaël T.
+highlights/ghardaia-3.jpg | https://commons.wikimedia.org/wiki/File:Vue_Ghardaia_Melika.jpg | CC BY-SA 4.0 | Camille Gillet
+highlights/ghardaia-4.jpg | https://commons.wikimedia.org/wiki/File:El_Atteuf_rue.jpg | CC BY-SA 4.0 | Camille Gillet
+gateways/gw-alg.jpg | https://commons.wikimedia.org/wiki/File:Aeroport_Houari_Boumediene_IMG_1362.JPG | CC BY 3.0 | Poudou99
+gateways/gw-orn.jpg | https://commons.wikimedia.org/wiki/File:2014-03-13_15-05-41_F-HBIB_at_Oran_airport.jpg | CC BY-SA 4.0 | Hansueli Krapf
+gateways/gw-czl.jpg | https://commons.wikimedia.org/wiki/File:Constantine_airport.jpg | CC BY-SA 4.0 | kallerna
+gateways/gw-gha.jpg | https://commons.wikimedia.org/wiki/File:A%C3%A9roport_Noumirate_-_panoramio.jpg | CC BY-SA 3.0 | oulad ali abdelrazak

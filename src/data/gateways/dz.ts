@@ -1,0 +1,92 @@
+// Algeria's airports, with the ways into town (2026-11).
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-alg',
+    cityId: 'algiers',
+    kind: 'air',
+    name: '우아리 부메디엔 공항|Houari Boumediene Airport',
+    code: 'ALG',
+    image: '/gateways/gw-alg.jpg',
+    intl: true,
+    about: '알제 동쪽 약 20km의 알제리 최대 공항입니다.|Algeria’s main airport, about 20 km east of Algiers.',
+    options: [
+      {
+        mode: 'train',
+        name: 'SNTF 공항 열차|SNTF airport train',
+        route: '공항역 → 엘 하라슈 → 알제 아가역|Airport station → El Harrach → Alger Agha',
+        time: '약 20분, 낮 동안 운행|About 20 min, daytime service',
+        ticket: '역 창구에서 현금으로|Cash at the station counter',
+      },
+      {
+        mode: 'taxi',
+        name: '택시·호출 앱|Taxi or ride-hailing',
+        route: '도착층 택시 승강장|Arrivals taxi rank',
+        time: '시내까지 약 30~40분|About 30–40 min to the centre',
+      },
+    ],
+    note: '공항에서 디나르로 환전해 두세요. 카드가 되는 곳이 드뭅니다.|Change money into dinars at the airport—cards are rarely accepted.',
+    maps: 'Houari Boumediene Airport',
+    checked: '2026-11',
+  },
+  {
+    id: 'gw-orn',
+    cityId: 'oran',
+    kind: 'air',
+    name: '아흐메드 벤 벨라 공항|Ahmed Ben Bella Airport',
+    code: 'ORN',
+    image: '/gateways/gw-orn.jpg',
+    intl: true,
+    about: '오랑 남동쪽 약 10km의 공항입니다.|The airport about 10 km south-east of Oran.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시·호출 앱|Taxi or ride-hailing',
+        route: '도착층 택시 승강장|Arrivals taxi rank',
+        time: '시내까지 약 20분|About 20 min to the centre',
+      },
+    ],
+    maps: 'Ahmed Ben Bella Airport Oran',
+    checked: '2026-11',
+  },
+  {
+    id: 'gw-czl',
+    cityId: 'constantine',
+    kind: 'air',
+    name: '모하메드 부디아프 공항|Mohamed Boudiaf Airport',
+    code: 'CZL',
+    image: '/gateways/gw-czl.jpg',
+    intl: true,
+    about: '콘스탄틴 남쪽 약 10km의 공항입니다.|The airport about 10 km south of Constantine.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시·호출 앱|Taxi or ride-hailing',
+        route: '도착층 택시 승강장|Arrivals taxi rank',
+        time: '시내까지 약 20~30분|About 20–30 min to the centre',
+      },
+    ],
+    maps: 'Mohamed Boudiaf International Airport',
+    checked: '2026-11',
+  },
+  {
+    id: 'gw-gha',
+    cityId: 'ghardaia',
+    kind: 'air',
+    name: '누메라트 공항|Noumérat – Moufdi Zakaria Airport',
+    code: 'GHA',
+    image: '/gateways/gw-gha.jpg',
+    about: '가르다이아 남쪽의 작은 공항으로, 알제 국내선이 다닙니다.|The small airport south of Ghardaïa, with domestic flights from Algiers.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시·호출 앱|Taxi or ride-hailing',
+        route: '도착층 택시 승강장|Arrivals taxi rank',
+        time: '시내까지 약 20분|About 20 min to town',
+      },
+    ],
+    maps: 'Noumérat Moufdi Zakaria Airport',
+    checked: '2026-11',
+  },
+]

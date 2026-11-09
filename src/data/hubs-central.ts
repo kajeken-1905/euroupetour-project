@@ -612,6 +612,24 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   alula: {
     air: [['AlUla International (ULH)', '알울라 국제공항 (ULH)', '구시가까지 차로 약 30분|about 30 min to the old town by car']],
   },
+  'kuwait-city': {
+    air: [['Kuwait International (KWI)', '쿠웨이트 국제공항 (KWI)', '시내까지 차로 약 20~30분|about 20–30 min to the city by car']],
+  },
+  algiers: {
+    air: [['Houari Boumediene (ALG)', '우아리 부메디엔 공항 (ALG)', '시내까지 차로 약 30분|about 30 min to the city by car']],
+    rail: [['Alger Agha', '알제 아가역', '오랑·콘스탄틴행|to Oran and Constantine']],
+  },
+  oran: {
+    air: [['Ahmed Ben Bella (ORN)', '아흐메드 벤 벨라 공항 (ORN)', '시내까지 차로 약 20분|about 20 min to the city by car']],
+    rail: [['Oran station', '오랑역', '알제행|to Algiers']],
+  },
+  constantine: {
+    air: [['Mohamed Boudiaf (CZL)', '모하메드 부디아프 공항 (CZL)', '시내까지 차로 약 20~30분|about 20–30 min to the city by car']],
+    rail: [['Constantine station', '콘스탄틴역', '알제행|to Algiers']],
+  },
+  ghardaia: {
+    air: [['Noumérat – Moufdi Zakaria (GHA)', '누메라트 공항 (GHA)', '시내까지 차로 약 20분|about 20 min to town by car']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

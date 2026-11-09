@@ -341,6 +341,21 @@ export const STAY: Record<string, StayArea[]> = {
   alula: [
     a('알울라 구시가 주변', 'Around AlUla Old Town', 'AlUla Old Town', '처음 가는 여행에 추천|Best for a first visit', '구시가와 식당가가 가깝습니다. 사막 리조트도 많습니다.|Near the old town and restaurants; there are many desert resorts too.'),
   ],
+  'kuwait-city': [
+    a('샤르크·시내', 'Sharq & the centre', 'Sharq Kuwait City', '처음 가는 여행에 추천|Best for a first visit', '수크·그랜드 모스크·바닷가가 가깝습니다.|Close to the souq, the Grand Mosque and the seafront.'),
+  ],
+  algiers: [
+    a('알제 중심가 (디두슈 무라드 거리)', 'Central Algiers (Rue Didouche Mourad)', 'Rue Didouche Mourad Alger', '처음 가는 여행에 추천|Best for a first visit', '그랑드 포스트와 카스바가 가깝고 지하철이 다닙니다.|Close to the Grande Poste and the Casbah, on the metro.'),
+  ],
+  oran: [
+    a('시내 중심 (11월 1일 광장 주변)', 'City centre (around Place du 1er Novembre)', 'Place du 1er Novembre Oran', '처음 가는 여행에 추천|Best for a first visit', '광장과 해안 산책로가 걸어서 닿습니다.|The square and the seafront are within walking distance.'),
+  ],
+  constantine: [
+    a('시내 중심', 'City centre', 'Constantine centre ville', '처음 가는 여행에 추천|Best for a first visit', '다리와 궁전이 걸어서 닿습니다. 유적은 차를 빌리거나 기사를 구해 다녀옵니다.|The bridges and palace on foot; hire a car or driver for the ruins.'),
+  ],
+  ghardaia: [
+    a('가르다이아 시내', 'Ghardaïa town', 'Ghardaïa', '처음 가는 여행에 추천|Best for a first visit', '시장 광장과 가이드 사무소가 가깝습니다.|Close to the market square and the guide offices.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

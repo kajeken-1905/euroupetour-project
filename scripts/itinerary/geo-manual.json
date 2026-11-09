@@ -8547,5 +8547,120 @@
     26.65623,
     37.91368,
     "OSM Nominatim: Historische Dadan Stadt, محافظة العلا, منطقة المدينة المنورة"
+  ],
+  "kuwait-city-h1": [
+    29.38992,
+    48.00329,
+    "OSM Nominatim: أبراج الكويت, شارع الخليج العربي, شرق, مدينة الكويت, دسمان,  (Wikipedia 24m)"
+  ],
+  "kuwait-city-h4": [
+    29.34263,
+    48.04022,
+    "OSM Nominatim: Sheikh Abdullah Al Salem Cultural Centre, 35;127, السالمية - (Wikipedia 176m)"
+  ],
+  "kuwait-city-h5": [
+    29.36036,
+    47.95652,
+    "OSM Nominatim: مركز الشيخ جابر الأحمد الثقافي, شارع الخليج العربي, الشويخ - (Wikipedia 67m)"
+  ],
+  "kuwait-city-h8": [
+    29.36824,
+    47.97501,
+    "OSM Nominatim: برج التحرير, شارع عبدالعزيز حمد الصقر, القبلة - قطعة 10, الق (Wikipedia 7m)"
+  ],
+  "kuwait-city-h2": [
+    29.37959,
+    47.97505,
+    "OSM Nominatim: المسجد الكبير, شارع الخليج العربي, الشرق - قطعة 1, شرق, محاف (Wikipedia 84m)"
+  ],
+  "kuwait-city-h3": [
+    29.37164,
+    47.97189,
+    "OSM Nominatim: سوق المباركية, شارع صلاح الدين الأيوبي, القبلة - قطعة 6, الق"
+  ],
+  "algiers-h1": [
+    36.78447,
+    3.05785,
+    "OSM Nominatim: القصبة Casbah ⵝⴰⵇⵚⴻⴲⵝ, القصبة, Daïra Bab El Oued, الجزائر ⴷⵣ (Wikipedia 366m)"
+  ],
+  "algiers-h2": [
+    36.74571,
+    3.06973,
+    "OSM Nominatim: مقام الشهيد, Chemin Kechkar Omar, El Madania ⵍⵎⴰⴷⴰⵏⵢⴰ المدني (Wikipedia 14m)"
+  ],
+  "algiers-h3": [
+    36.80096,
+    3.04328,
+    "OSM Nominatim: Notre Dame d'Afrique, Route de Zghara, Village Marie قرية ما (Wikipedia 71m)"
+  ],
+  "algiers-h4": [
+    36.73475,
+    3.14033,
+    "OSM Nominatim: جامع الجزائر, Rocade Nord, الديار الخمس, Mohammadia ⵎⵓⵃⴻⵎⵎⴰⴷ (Wikipedia 235m)"
+  ],
+  "algiers-h6": [
+    36.77271,
+    3.06079,
+    "OSM Nominatim: Grande Poste, Boulevard Zighoud Youcef;ⴰⴱⵔⵉⴷ ⵏ ⵢⵓⵙⴼ ⵥⵉⵖⵓⴷ ⴰⴱ (Wikipedia 131m)"
+  ],
+  "algiers-h7": [
+    36.76038,
+    3.04615,
+    "OSM Nominatim: Musée National du Bardo, 3, Rue Franklin Roosvelt شارع فرانك (Wikipedia 24m)"
+  ],
+  "oran-h1": [
+    35.70922,
+    -0.66505,
+    "OSM Nominatim: Fort Santa Cruz, طريق المرسى الكبير, Oran, Daïra Oran, وهران"
+  ],
+  "oran-h3": [
+    35.7117,
+    -0.62619,
+    "OSM Nominatim: Esplanade front de mer, Cité Gambetta حي قمبيطة, Oran, Daïra"
+  ],
+  "oran-h5": [
+    35.69564,
+    -0.64512,
+    "OSM Nominatim: Musée National Ahmed Zabana, Boulevard Zabana, El Medina El  (Wikipedia 26m)"
+  ],
+  "constantine-h2": [
+    36.36775,
+    6.61164,
+    "OSM Nominatim: Palais du Bey, Rue BOULAKLAB Mostapha, plan1, El Koudia, Les (Wikipedia 42m)"
+  ],
+  "constantine-h3": [
+    36.34684,
+    6.60332,
+    "OSM Nominatim: Mosquée Emir Abdelkader, Rue Ernesto Che Guevara, كوحيل لخضر (Wikipedia 31m)"
+  ],
+  "constantine-h4": [
+    36.3752,
+    6.61369,
+    "OSM Nominatim: Monument aux morts, El Koudia, الحطابية ⵍⵃⵟⵟⴰⴱⵉⵢⴰ, Constanti"
+  ],
+  "constantine-h5": [
+    36.3209,
+    5.73679,
+    "OSM Nominatim: Djémila, CW 117, جميلة ⵊⵎⵉⵍⴰ, Djemila, Daïra Djemila, سطيف,  (Wikipedia 563m)"
+  ],
+  "constantine-h6": [
+    35.48363,
+    6.46681,
+    "OSM Nominatim: Ruines Romaines de Timgad, Timgad ⵜⴰⵎⵓⴳⴰⴷⵉ تيمقاد, دائرة تيم (Wikipedia 173m)"
+  ],
+  "ghardaia-h2": [
+    32.47664,
+    3.69724,
+    "OSM Nominatim: Beni Isguen, At Izjen, Bounoura ⴱⵓⵏⵓⵔⴰ, دائرة بونورة ⴰⴷⴷⴰⵢⵔⵜ"
+  ],
+  "ghardaia-h3": [
+    32.48315,
+    3.6862,
+    "OSM Nominatim: Melika, غرداية, دائرة غرداية ⴰⴷⴷⴰⵢⵔⵜ ⵏ ⵜⴰⵖⴻⵔⴷⴰⵢⵜ, غرداية ⵜⴰⵖ"
+  ],
+  "ghardaia-h4": [
+    32.47675,
+    3.74712,
+    "OSM Nominatim: El Atteuf ⵍⵄⴰⵟⴻⴼ, دائرة بونورة ⴰⴷⴷⴰⵢⵔⵜ ⵏ ⴱⵓⵏⵓⵔⴰ, غرداية ⵜⴰⵖⴻ"
   ]
 }

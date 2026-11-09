@@ -1053,6 +1053,46 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 일반 여권은 비자가 필요합니다. 외교부 안내에 따르면 도착 비자(수수료 480리얄, 1년 동안 총 90일 체류)를 받을 수 있고, 전자 비자는 visitsaudi.com에서 안내합니다. 메카와 메디나 성역에는 무슬림만 들어갈 수 있습니다.', 'Ordinary Korean passports need a visa. The Korean ministry says a visa on arrival is issued (SR 480, up to 90 days in total within a year); e-visa details are at visitsaudi.com. Only Muslims may enter Mecca and the holy area of Medina.'),
     telecom: T('주요 통신사는 STC·Mobily·Zain입니다. 공항에서 관광객용 유심·eSIM을 살 수 있습니다.', 'Main operators: STC, Mobily and Zain; tourist SIMs and eSIMs are sold at the airport.'),
   },
+  kw: {
+    // Korean Foreign Ministry travel-safety page for Kuwait (0404.go.kr/ntnSafetyInfo/216/detail), 2026-11.
+    emergency: [num('112', '경찰·구급·소방', 'Police, ambulance and fire')],
+    embassy: {
+      name: T('주쿠웨이트 대한민국 대사관', 'Korean Embassy in Kuwait'),
+      address: 'Diplomatic Zone 2, Street 303, Block 7A, Plot 6, Mishref, Kuwait',
+      phone: '+965-2537-8621',
+      afterHours: '+965-9919-3048',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/216/detail',
+    },
+    power: T('240V · 50Hz, G형(영국식 3핀) 콘센트가 흔합니다. 한국 플러그는 어댑터가 필요합니다.', '240V, 50Hz, mostly type G (British three-pin) sockets; Korean plugs need an adapter.'),
+    tipping: T('팁은 의무가 아니지만 식당에선 10% 안팎을 두기도 합니다.', 'Tipping is optional; around 10% is common in restaurants.'),
+    water: WATER_BOTTLED,
+    shops: T('카드가 거의 어디서나 됩니다. 디나르는 단위가 큰 통화라 값을 잘 확인하세요.', 'Cards are accepted almost everywhere. The dinar is a high-value currency, so check prices carefully.'),
+    toilets: T('쇼핑몰·박물관 화장실을 이용합니다.', 'Use toilets in malls and museums.'),
+    time: T('UTC+3, 서머타임 없음. 한국보다 6시간 늦습니다.', 'UTC+3 with no daylight saving: 6 hours behind Korea.'),
+    safety: T('외교부 여행경보: 2026년 3월 8일부터 쿠웨이트 전역이 3단계(출국권고)입니다. 이라크 국경 지역은 피하고, 사막과 섬에는 걸프전 때 묻힌 지뢰가 남아 있을 수 있으니 길을 벗어나지 마세요. 술은 전면 금지이고, 공공장소에선 어깨와 무릎을 가립니다.', 'Korean travel alert: level 3 (leave the country) nationwide since 8 March 2026. Avoid the Iraqi border, and don’t stray off roads in the desert or on the islands, where Gulf War landmines may remain. Alcohol is banned outright; cover shoulders and knees in public.'),
+    entry: T('한국 일반 여권은 비자가 필요합니다. 입국 3일(근무일) 전까지 내무부 전자 비자(kuwaitvisa.moi.gov.kw, 수수료 10디나르)를 받으면 3개월 머물 수 있고, 같은 조건이면 공항에서 도착 비자도 받을 수 있습니다. 여권은 6개월 이상 남아 있어야 합니다.', 'Ordinary Korean passports need a visa: apply for the Interior Ministry e-visa (kuwaitvisa.moi.gov.kw, KD 10) at least three working days ahead for a three-month stay; eligible travellers can also get a visa on arrival at the airport. Passports need six months’ validity.'),
+    telecom: T('주요 통신사는 Zain·Ooredoo·stc입니다. 공항에서 유심·eSIM을 살 수 있습니다.', 'Main operators: Zain, Ooredoo and stc; SIMs and eSIMs are sold at the airport.'),
+  },
+  dz: {
+    // Korean Foreign Ministry travel-safety page for Algeria (0404.go.kr/ntnSafetyInfo/150/detail), 2026-11.
+    emergency: [num('1548', '경찰', 'Police'), num('14', '소방', 'Fire'), num('115', '구급', 'Ambulance')],
+    embassy: {
+      name: T('주알제리 대한민국 대사관', 'Korean Embassy in Algeria'),
+      address: '5 Chemin Mackley (El Bakri), Ben Aknoun, Alger',
+      phone: '+213-23-18-77-17',
+      afterHours: '+213-770-11-44-00',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/150/detail',
+    },
+    power: T('230V · 50Hz, C·F형 콘센트로 한국 플러그를 그대로 씁니다.', '230V, 50Hz, type C and F sockets—Korean plugs fit.'),
+    tipping: T('팁은 의무가 아니지만 식당에선 잔돈을 남기거나 5~10%를 둡니다.', 'Tipping is optional; leave small change or 5–10% in restaurants.'),
+    water: WATER_BOTTLED,
+    shops: T('현금 사회라 카드가 되는 곳이 드뭅니다. 디나르는 현지에서만 바꿀 수 있으니 은행·공항 환전소를 이용하세요.', 'Algeria runs on cash and cards are rarely accepted; dinars can only be obtained locally, at banks and airport exchange counters.'),
+    toilets: T('호텔·식당 화장실을 이용합니다.', 'Use toilets in hotels and restaurants.'),
+    time: T('UTC+1, 서머타임 없음. 한국보다 8시간 늦습니다.', 'UTC+1 with no daylight saving: 8 hours behind Korea.'),
+    safety: T('외교부 여행경보: 알제는 1단계(여행유의), 카빌리 산악 지역(부메르데스·부이라·티지우주·베자이아·보르즈부아레리즈·지젤)은 2단계(여행자제), 튀니지·리비아·니제르·말리·모리타니 접경 지역은 3단계(출국권고)입니다. 2026년 9월 2일 중동 정세 관련 신변 안전 공지가 나와 있습니다.', 'Korean travel alert: Algiers is level 1 (exercise caution), the Kabylie mountain wilayas (Boumerdès, Bouira, Tizi Ouzou, Béjaïa, Bordj Bou Arréridj, Jijel) level 2 (refrain from travel), and the Tunisian, Libyan, Niger, Mali and Mauritania border areas level 3 (leave the country). A personal-safety notice on the Middle East situation was issued on 2 September 2026.'),
+    entry: T('한국 일반 여권은 출발 전에 대사관·영사관에서 비자를 받아야 합니다(수수료 현금). 여권은 6개월 이상 남아 있어야 하고 서명란에 서명해야 합니다. 의약품을 가져갈 땐 외교부 2026년 9월 2일 안내를 확인하세요. 모로코와의 육로 국경과 직항은 닫혀 있습니다.', 'Ordinary Korean passports need a visa from an embassy or consulate before travel (cash fee). Passports need six months’ validity and must be signed. Check the ministry’s 2 September 2026 notice before bringing medicines. The land border and direct flights with Morocco are closed.'),
+    telecom: T('주요 통신사는 Mobilis·Djezzy·Ooredoo입니다. 공항에서 유심을 살 수 있습니다.', 'Main operators: Mobilis, Djezzy and Ooredoo; SIMs are sold at the airport.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

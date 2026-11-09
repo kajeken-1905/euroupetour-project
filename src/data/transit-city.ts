@@ -2839,6 +2839,51 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  'kuwait-city': {
+    modes: ['bus', 'rideshare', 'taxi'],
+    howTo: {
+      ko: '호출 앱(Uber·Careem)과 택시로 다닙니다. 한낮엔 걷기 어려울 만큼 덥습니다.',
+      en: 'Get around by ride-hailing (Uber, Careem) and taxi; midday is too hot to walk far.',
+    },
+    apps: [
+    ],
+  },
+  algiers: {
+    modes: ['metro', 'tram', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '지하철 1호선과 트램, 언덕을 잇는 케이블카, 택시로 다닙니다. 카스바는 걸어서 봅니다.',
+      en: 'Use metro line 1, the tram, the hillside cable cars and taxis; explore the Casbah on foot.',
+    },
+    apps: [
+    ],
+  },
+  oran: {
+    modes: ['tram', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '트램과 택시로 다니고, 산타크루즈 요새는 택시로 오릅니다.',
+      en: 'Use the tram and taxis; take a taxi up to the Santa Cruz fort.',
+    },
+    apps: [
+    ],
+  },
+  constantine: {
+    modes: ['tram', 'taxi', 'walk'],
+    howTo: {
+      ko: '시내는 걷거나 트램·택시로, 협곡을 건너는 케이블카도 있습니다.',
+      en: 'Walk the centre or use the tram and taxis; a cable car crosses the gorge.',
+    },
+    apps: [
+    ],
+  },
+  ghardaia: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '마을 사이는 택시로, 마을 안은 가이드와 걸어서 다닙니다.',
+      en: 'Take taxis between the ksour and walk within them with a guide.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {
