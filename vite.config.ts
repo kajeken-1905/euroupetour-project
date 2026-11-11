@@ -7,8 +7,8 @@ import react from '@vitejs/plugin-react'
 /** Folders saved on first visit (app shell). Photos are cached on demand instead. */
 const PRECACHE_DIRS = ['assets', 'flags', 'stamps', 'transit-apps', 'phrases', 'icons']
 const PRECACHE_FILES = ['index.html', 'favicon.svg', 'icons.svg', 'manifest.webmanifest', 'image-sizes.json', 'offline-images.json']
-/** Photo folders whose file sizes are published so the app can show download sizes. */
-const IMAGE_DIRS = ['cities', 'highlights', 'places', 'landmarks', 'crests']
+/** Photo folders whose file sizes are published: the app shows download sizes, and the service worker drops a cached photo whose size changed (a replaced file under the same name). */
+const IMAGE_DIRS = ['cities', 'highlights', 'places', 'landmarks', 'crests', 'gateways', 'festivals', 'outlets', 'themeparks']
 
 function walk(dir: string): string[] {
   return readdirSync(dir, { withFileTypes: true }).flatMap((entry) =>
