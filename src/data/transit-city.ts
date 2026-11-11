@@ -2884,6 +2884,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  tripoli: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '메디나는 걸어서, 나머지는 택시로 다닙니다.',
+      en: 'Walk the medina and take taxis elsewhere.',
+    },
+    apps: [
+    ],
+  },
+  ghadames: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '옛 시가는 걸어서 봅니다.',
+      en: 'Explore the old town on foot.',
+    },
+    apps: [
+    ],
+  },
+  cyrene: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '유적 사이는 차로 다닙니다.',
+      en: 'Travel between the sites by car.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

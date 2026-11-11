@@ -3272,3 +3272,21 @@ gateways/gw-alg.jpg | https://commons.wikimedia.org/wiki/File:Aeroport_Houari_Bo
 gateways/gw-orn.jpg | https://commons.wikimedia.org/wiki/File:2014-03-13_15-05-41_F-HBIB_at_Oran_airport.jpg | CC BY-SA 4.0 | Hansueli Krapf
 gateways/gw-czl.jpg | https://commons.wikimedia.org/wiki/File:Constantine_airport.jpg | CC BY-SA 4.0 | kallerna
 gateways/gw-gha.jpg | https://commons.wikimedia.org/wiki/File:A%C3%A9roport_Noumirate_-_panoramio.jpg | CC BY-SA 3.0 | oulad ali abdelrazak
+landmarks/landmark-ly.jpg | https://commons.wikimedia.org/wiki/File:Leptis_libya.jpg | CC BY-SA 4.0 | Abdulfatah Amr
+cities/cyrene.jpg | https://commons.wikimedia.org/wiki/File:Cyrene_-_Shahat_-_Ruins_%D8%8C_Antiquities_(6).jpg | CC BY-SA 4.0 | Waseem Omar
+cities/ghadames.jpg | https://commons.wikimedia.org/wiki/File:Ghadames_Panorama_April_2004.jpg | CC BY-SA 3.0 | 
+cities/tripoli.jpg | https://commons.wikimedia.org/wiki/File:2Red_Castle_of_Tripoli.jpg | CC BY-SA 4.0 | Abdulaziz alkeelani
+highlights/tripoli-1.jpg | https://commons.wikimedia.org/wiki/File:Clock_tower_in_tripoli_libya_01.jpg | CC BY-SA 4.0 | Ridda Basheer
+highlights/tripoli-2.jpg | https://commons.wikimedia.org/wiki/File:The_Red_Castle.jpg | CC BY-SA 4.0 | Abdulfatah Amr
+highlights/tripoli-3.jpg | https://commons.wikimedia.org/wiki/File:Arch_of_Marcus_Aurelius_-_Tripoli.jpg | CC BY 2.0 | David Stanley
+highlights/tripoli-4.jpg | https://commons.wikimedia.org/wiki/File:The_Green_Square_at_Tripoli,_Libya_-_panoramio.jpg | CC BY 3.0 | Cüneyt Türksen
+highlights/tripoli-5.jpg | https://commons.wikimedia.org/wiki/File:Gurgi_Mosque_Exterior_Tripoli_Libya.JPG | CC BY-SA 3.0 | Abdul-Jawad Elhusuni (عبدالجواد الحسوني)
+highlights/tripoli-6.jpg | https://commons.wikimedia.org/wiki/File:Ahmed_Pasha_Karamanli_Mosque_(5282695475).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
+highlights/tripoli-7.jpg | https://commons.wikimedia.org/wiki/File:Arch_of_Septimius_Severus_in_Leptis_Magna,_Libya.jpg | CC BY-SA 4.0 | Assilinee Ali
+highlights/tripoli-8.jpg | https://commons.wikimedia.org/wiki/File:Theatre_of_Sabratha,_Libya.jpg | CC BY-SA 2.0 | 
+highlights/ghadames-1.jpg | https://commons.wikimedia.org/wiki/File:Ghadames_Old_city_from_the_air.jpg | CC BY-SA 4.0 | Mohamed alazrak
+highlights/ghadames-2.jpg | https://commons.wikimedia.org/wiki/File:Museum_in_Ghadames.jpg | CC BY 2.0 | sunoochi
+highlights/cyrene-1.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Apollo,_Cyrene_(50144963856).jpg | CC BY-SA 2.0 | Libyan Studies
+highlights/cyrene-2.jpg | https://commons.wikimedia.org/wiki/File:CireneTempioZeus1999.jpg | Public domain | MM
+highlights/cyrene-3.jpg | https://commons.wikimedia.org/wiki/File:Apollonia_bysantinsk_basilika.jpg | CC BY-SA 3.0 | Siculo73
+gateways/gw-mji.jpg | https://commons.wikimedia.org/wiki/File:Libyan_Air_Cargo_Ilyushin_Il-62M_(5A-DNY)_at_Mitiga_International_Airport.jpeg | CC BY-SA 4.0 | Flo Weiss

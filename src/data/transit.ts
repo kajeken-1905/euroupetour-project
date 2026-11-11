@@ -1388,6 +1388,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  ly: {
+    summary: {
+      ko: '우측통행. 철도와 지하철이 없어 택시와 차를 이용합니다.',
+      en: 'Drive on the right. There is no rail or metro—get around by taxi and car.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '트리폴리 미티가 공항에서 국내선과 국제선이 뜹니다. 도시 사이 육로는 멀고 검문소가 많습니다.',
+      en: 'Domestic and international flights use Mitiga Airport in Tripoli; overland distances are long, with many checkpoints.',
+    },
+    paymentTip: {
+      ko: '택시는 타기 전에 요금을 정하세요.',
+      en: 'Agree taxi fares before you set off.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

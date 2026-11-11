@@ -1,0 +1,26 @@
+// Libya's airport, with the way into the city (2026-11). Travel-ban country.
+import type { Gateway } from '../../types'
+
+export const GATEWAYS: Gateway[] = [
+  {
+    id: 'gw-mji',
+    cityId: 'tripoli',
+    kind: 'air',
+    name: '미티가 국제공항|Mitiga International Airport',
+    code: 'MJI',
+    image: '/gateways/gw-mji.jpg',
+    intl: true,
+    about: '시내에서 동쪽으로 약 8km 떨어진 옛 군 비행장으로, 지금 트리폴리의 국제선·국내선이 뜨는 공항입니다. 남쪽의 트리폴리 국제공항은 2014년 전투 뒤 닫혀 있습니다.|A former air base about 8 km east of the centre, now Tripoli’s airport for international and domestic flights; Tripoli International Airport to the south has been closed since fighting in 2014.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '공항 앞 택시|Taxis outside the terminal',
+        time: '시내까지 약 20분|About 20 min to the city',
+      },
+    ],
+    note: '한국 정부 지정 여행금지국입니다. 외교부의 예외적 여권 사용 허가 없이 입국하면 처벌받을 수 있습니다.|Libya is a Korean travel-ban country; entering without the Foreign Ministry’s exceptional passport-use permission can be punished.',
+    maps: 'Mitiga International Airport',
+    checked: '2026-11',
+  },
+]

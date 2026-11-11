@@ -1093,6 +1093,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('한국 일반 여권은 출발 전에 대사관·영사관에서 비자를 받아야 합니다(수수료 현금). 여권은 6개월 이상 남아 있어야 하고 서명란에 서명해야 합니다. 의약품을 가져갈 땐 외교부 2026년 9월 2일 안내를 확인하세요. 모로코와의 육로 국경과 직항은 닫혀 있습니다.', 'Ordinary Korean passports need a visa from an embassy or consulate before travel (cash fee). Passports need six months’ validity and must be signed. Check the ministry’s 2 September 2026 notice before bringing medicines. The land border and direct flights with Morocco are closed.'),
     telecom: T('주요 통신사는 Mobilis·Djezzy·Ooredoo입니다. 공항에서 유심을 살 수 있습니다.', 'Main operators: Mobilis, Djezzy and Ooredoo; SIMs are sold at the airport.'),
   },
+  ly: {
+    // Korean Foreign Ministry travel-safety page for Libya (0404.go.kr/ntnSafetyInfo/375/detail), 2026-11. The page lists no local emergency numbers.
+    emergency: [num('+218-91-263-9408', '주리비아 대사관 긴급 연락처(24시간)', 'Korean Embassy emergency line (24 hours)'), num('+82-2-3210-0404', '영사콜센터(24시간)', 'Consular call centre (24 hours)')],
+    embassy: {
+      name: T('주리비아 대한민국 대사관 (튀니지 임시사무소)', 'Korean Embassy in Libya (temporary office in Tunis)'),
+      address: 'Montazah Cote De Carthage Villa D1, 2078 Gammarth, Tunis',
+      phone: '+216-71-274-759',
+      afterHours: '+218-91-263-9408',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/375/detail',
+    },
+    power: T('230V · 50Hz. 콘센트 모양이 여러 가지라 멀티 어댑터를 챙기세요.', '230V, 50Hz; socket types vary, so bring a universal adapter.'),
+    tipping: T('팁은 의무가 아닙니다.', 'Tipping is not expected.'),
+    water: WATER_BOTTLED,
+    shops: T('현금 사회입니다. 1만 달러 이상의 외화 현금은 입국 때 세관에 신고하고 신고서를 보관해야 출국할 수 있습니다.', 'Libya runs on cash. Declare foreign cash of US$10,000 or more at customs on arrival and keep the form, which you need when leaving.'),
+    toilets: T('호텔·식당 화장실을 이용합니다.', 'Use toilets in hotels and restaurants.'),
+    time: T('UTC+2, 서머타임 없음. 한국보다 7시간 늦습니다.', 'UTC+2 with no daylight saving: 7 hours behind Korea.'),
+    safety: T('외교부가 리비아 전역을 여행금지국으로 지정했습니다. 무력 충돌과 납치·강도 위험이 있고, 2026년 봄부터 자위야에서 충돌이 이어지고 있습니다. 술·돼지고기는 반입할 수 없습니다.', 'Korea has designated all of Libya a travel-ban country. There is a risk of armed clashes, kidnapping and robbery, and fighting has continued in Al Zawiya since spring 2026. Alcohol and pork may not be brought in.'),
+    entry: T('여행금지국이라 외교부의 예외적 여권 사용 허가가 먼저 있어야 합니다. 한국 여권은 무비자·도착 비자가 안 되고, 비자는 미리 받아야 하며 한 달 넘게 걸리기도 합니다.', 'As a travel-ban country, Libya needs the Korean Foreign Ministry’s exceptional passport-use permission first. Korean passports get neither visa-free entry nor a visa on arrival; the visa must be obtained in advance and can take over a month.'),
+    telecom: T('주요 통신사는 Libyana·Al Madar입니다. 한국 통신사 로밍 가능 여부를 출발 전에 확인하세요.', 'Main operators: Libyana and Al Madar. Check roaming with your carrier before you go.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

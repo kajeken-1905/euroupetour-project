@@ -2057,6 +2057,40 @@ export const countries: Country[] = [
       { title: { ko: '사하라', en: 'The Sahara' }, cityIds: ['ghardaia'] },
     ],
   },
+  {
+    id: 'ly',
+    region: 'mena',
+    name: { ko: '리비아', en: 'Libya' },
+    nativeName: 'ليبيا · Lībiyā',
+    flagImage: '/flags/ly.svg',
+    landmarkImage: '/landmarks/landmark-ly.jpg',
+    flag: '🇱🇾',
+    blurb: {
+      ko: '한국 정부 지정 여행금지국. 로마 유적 렙티스 마그나·사브라타, 그리스 도시 키레네, 사막 오아시스 가다메스가 있습니다.',
+      en: 'A Korean travel-ban country—home to the Roman ruins of Leptis Magna and Sabratha, Greek Cyrene and the desert oasis of Ghadames.',
+    },
+    facts: {
+      population: { ko: '약 740만 명 (2024년)', en: 'Approx. 7.4 million (2024)' },
+      area: { ko: '약 176만 km²', en: 'Approx. 1.76 million km²' },
+      capital: { ko: '트리폴리 (Tripoli)', en: 'Tripoli' },
+      currency: { ko: '리비아 디나르 (LYD, LD)', en: 'Libyan dinar (LYD, LD)' },
+    },
+    currencyCode: 'LYD',
+    currencySymbol: 'LD',
+    schengen: false,
+    flagColors: {
+      primary: '#E70013',
+      secondary: '#000000',
+      accent: '#239E46',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['tripoli', 'ghadames', 'cyrene'],
+    cityGroups: [
+      { title: { ko: '트리폴리와 서부', en: 'Tripoli & the west' }, cityIds: ['tripoli', 'ghadames'] },
+      { title: { ko: '동부 (키레나이카)', en: 'The east (Cyrenaica)' }, cityIds: ['cyrene'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

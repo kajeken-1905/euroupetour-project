@@ -630,6 +630,15 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   ghardaia: {
     air: [['Noumérat – Moufdi Zakaria (GHA)', '누메라트 공항 (GHA)', '시내까지 차로 약 20분|about 20 min to town by car']],
   },
+  tripoli: {
+    air: [['Mitiga International (MJI)', '미티가 국제공항 (MJI)', '시내에서 동쪽으로 약 8km|about 8 km east of the centre']],
+  },
+  ghadames: {
+    air: [['Ghadames (LTD)', '가다메스 공항 (LTD)', '국내선|domestic flights']],
+  },
+  cyrene: {
+    air: [['Al Abraq (LAQ)', '알 아브라크 공항 (LAQ)', '국내선|domestic flights']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

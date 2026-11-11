@@ -4,7 +4,7 @@ import { t } from '../i18n/ui'
 type Text = { ko: string; en: string }
 
 /** Countries the Korean government has made travel-ban areas (passport use restricted). */
-const TRAVEL_BAN = new Set(['ua'])
+const TRAVEL_BAN = new Set(['ua', 'ly'])
 const MOFA_ALERTS = 'https://www.0404.go.kr/travelAlert/apntStatus/stepTravelAlert'
 
 /**
@@ -179,6 +179,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
       },
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/150/detail',
+  },
+  // 0404.go.kr Libya page: travel-ban country (extended to 2027-01-31 in the 2026-08-13 notice); embassy in Tunis.
+  ly: {
+    icon: '⛔',
+    title: { ko: '여행금지국', en: 'Travel ban' },
+    lines: [
+      {
+        ko: '한국 정부가 리비아 전역을 여행금지 지역으로 지정했습니다(2027년 1월 31일까지). 외교부의 예외적 여권 사용 허가 없이 방문하면 여권법에 따라 처벌받을 수 있습니다.',
+        en: 'The Korean government has designated all of Libya a travel-ban area (until 31 January 2027). Visiting without the Foreign Ministry’s exceptional passport-use permission can be punished under the Passport Act.',
+      },
+      {
+        ko: '무력 충돌과 납치·강도 위험이 있습니다. 주리비아 대사관은 튀니지 튀니스의 임시사무소에서 일합니다. 이 앱의 정보는 참고용이며 여행을 권하지 않습니다.',
+        en: 'There is a risk of armed clashes, kidnapping and robbery. The Korean Embassy works from a temporary office in Tunis. The information here is for reference only and is not a suggestion to travel.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/375/detail',
   },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {

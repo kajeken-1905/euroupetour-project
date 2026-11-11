@@ -1,0 +1,15 @@
+{
+ "tripoli-h1": ["Medina of Tripoli", "Old City of Tripoli"],
+ "tripoli-h2": ["Red Castle, Tripoli", "Red Castle Museum"],
+ "tripoli-h3": ["Arch of Marcus Aurelius, Tripoli", "Arch of Marcus Aurelius"],
+ "tripoli-h4": ["Martyrs' Square, Tripoli", "Martyrs' Square"],
+ "tripoli-h5": ["Gurgi Mosque", "Gurgi Mosque"],
+ "tripoli-h6": ["Ahmed Pasha Karamanli Mosque", "Ahmed Pasha Karamanli Mosque"],
+ "tripoli-h7": ["Leptis Magna", "Leptis Magna"],
+ "tripoli-h8": ["Sabratha", "Sabratha"],
+ "ghadames-h1": ["Old Town of Ghadames", "Ghadames"],
+ "ghadames-h2": ["Ghadames Museum", "Ghadames Museum"],
+ "cyrene-h1": ["Sanctuary of Apollo, Cyrene", "Cyrene"],
+ "cyrene-h2": ["Temple of Zeus, Cyrene", "Temple of Zeus (Cyrene)"],
+ "cyrene-h3": ["Apollonia, Libya", "Apollonia (Cyrenaica)"]
+}

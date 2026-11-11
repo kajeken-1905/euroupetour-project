@@ -28,3 +28,4 @@ Two edits on each file's root <svg>:
 - sa.svg — File:Flag_of_Saudi_Arabia.svg (public domain), added 2026-11-09
 - kw.svg — File:Flag_of_Kuwait.svg (public domain), added 2026-11-09
 - dz.svg — File:Flag_of_Algeria.svg (public domain; viewBox added), added 2026-11-09
+- ly.svg — File:Flag_of_Libya.svg (public domain; viewBox added), added 2026-11-09
