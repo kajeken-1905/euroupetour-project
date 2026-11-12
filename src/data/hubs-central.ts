@@ -678,6 +678,28 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   aden: {
     air: [['Aden International (ADE)', '아덴 국제공항 (ADE)', '시내까지 차로 약 15분|about 15 min to the city by car']],
   },
+  damascus: {
+    air: [['Damascus International (DAM)', '다마스쿠스 국제공항 (DAM)', '시내에서 남동쪽으로 약 25km|about 25 km south-east of the centre']],
+  },
+  homs: {
+  },
+  palmyra: {
+  },
+  aleppo: {
+    air: [['Aleppo International (ALP)', '알레포 국제공항 (ALP)', '시내에서 동쪽으로 약 10km|about 10 km east of the centre']],
+  },
+  kabul: {
+    air: [['Kabul International (KBL)', '카불 국제공항 (KBL)', '시내에서 북동쪽으로 약 5km|about 5 km north-east of the centre']],
+  },
+  bamiyan: {
+    air: [['Bamyan (BIN)', '바미안 공항 (BIN)', '국내선|domestic flights']],
+  },
+  'mazar-i-sharif': {
+    air: [['Mazar-i-Sharif International (MZR)', '마자르이샤리프 국제공항 (MZR)', '시내에서 동쪽으로 약 9km|about 9 km east of the centre']],
+  },
+  herat: {
+    air: [['Herat International (HEA)', '헤라트 국제공항 (HEA)', '시내에서 남쪽으로 약 15km|about 15 km south of the centre']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

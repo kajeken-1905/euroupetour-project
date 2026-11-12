@@ -32,3 +32,5 @@ Two edits on each file's root <svg>:
 - ir.svg — File:Flag_of_Iran.svg (public domain; viewBox added), added 2026-11-11
 - iq.svg — File:Flag_of_Iraq.svg (public domain; preserveAspectRatio added), added 2026-11-12
 - ye.svg — File:Flag_of_Yemen.svg (public domain; viewBox added), added 2026-11-12
+- sy.svg — File:Flag_of_Syria_(2025-).svg (public domain; viewBox added), added 2026-11-12
+- af.svg — File:Flag_of_Afghanistan_(2013–2021).svg (public domain; viewBox added; tricolour used because Korea and the UN do not recognise the Taliban government), added 2026-11-12

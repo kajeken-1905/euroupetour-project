@@ -1452,6 +1452,38 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  sy: {
+    summary: {
+      ko: '우측통행. 시내는 노란 택시와 미니버스로 다닙니다.',
+      en: 'Drive on the right. Yellow taxis and minibuses run in the cities.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '다마스쿠스–홈스–알레포는 장거리 버스로 이어집니다. 국경 택시로 암만·베이루트까지 국경 통과를 포함해 약 3시간 30분입니다.',
+      en: 'Long-distance buses link Damascus, Homs and Aleppo. Border taxis reach Amman or Beirut in about 3 hrs 30 including the crossing.',
+    },
+    paymentTip: {
+      ko: '택시는 미터기를 켜 달라고 하세요. 외국인에겐 켜지 않으려는 기사가 많습니다.',
+      en: 'Insist on the taxi meter—many drivers won’t use it for foreigners.',
+    },
+    apps: [],
+  },
+  af: {
+    summary: {
+      ko: '우측통행. 외교부는 대중교통을 쓰지 말고 현지 운전기사와 경호원을 두라고 권고합니다.',
+      en: 'Drive on the right. The Korean ministry advises against public transport—use a local driver and guards.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '카불에서 헤라트·마자르이샤리프로 국내선(아리아나 항공·캄 에어)이 다닙니다.',
+      en: 'Domestic flights (Ariana, Kam Air) link Kabul with Herat and Mazar-i-Sharif.',
+    },
+    paymentTip: {
+      ko: '현금으로 냅니다.',
+      en: 'Pay in cash.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

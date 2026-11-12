@@ -1174,6 +1174,46 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('여행금지국이라 외교부의 예외적 여권 사용 허가가 먼저 있어야 하고, 허가 없이 가면 여권법에 따라 처벌받습니다. 도착 비자는 2012년 말 없어졌고, 입국 뒤 1개월 머물 수 있습니다. 사나 공항으로는 예멘인만 출국할 수 있고, 아덴 공항은 제한이 없습니다.', 'As a travel-ban country, Yemen needs the Korean Foreign Ministry’s exceptional passport-use permission first; going without it is punishable under the Passport Act. Visas on arrival ended in late 2012, and stays are one month. Only Yemenis may depart from Sana’a airport; Aden has no such restriction.'),
     telecom: T('한국 통신사 로밍 가능 여부를 출발 전에 확인하세요.', 'Check roaming with your carrier before you go.'),
   },
+  sy: {
+    // Korean Foreign Ministry travel-safety page for Syria (0404.go.kr/ntnSafetyInfo/131/detail), 2026-11. No Korean embassy in Syria.
+    emergency: [num('112', '경찰', 'Police'), num('110', '긴급 신고', 'Emergency'), num('113', '소방', 'Fire')],
+    embassy: {
+      name: T('주레바논 대한민국 대사관 (시리아 겸임)', 'Korean Embassy in Lebanon (also covers Syria)'),
+      address: 'Bldg. 4, Elias Sarkis Road 1209, Yarzeh, Baabda, Lebanon',
+      phone: '+961-5-922-846',
+      afterHours: '+961-81-007-491',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/131/detail',
+    },
+    power: T('220V · 50Hz. 콘센트 모양이 여러 가지라 멀티 어댑터를 챙기세요.', '220V, 50Hz; socket types vary, so bring a universal adapter.'),
+    tipping: T('팁은 의무가 아닙니다.', 'Tipping is not expected.'),
+    water: WATER_BOTTLED,
+    shops: T('돈은 은행이나 허가받은 환전소에서만 바꿀 수 있고, 다른 곳의 환전은 불법입니다. 카드는 거의 쓸 수 없습니다.', 'Change money only at banks and licensed exchange offices—changing elsewhere is illegal. Cards are mostly not accepted.'),
+    toilets: T('호텔·식당 화장실을 이용합니다.', 'Use toilets in hotels and restaurants.'),
+    time: T('UTC+3, 서머타임 없음. 한국보다 6시간 늦습니다.', 'UTC+3 with no daylight saving: 6 hours behind Korea.'),
+    safety: T('외교부가 골란고원 일부를 뺀 시리아 전역을 여행금지 지역으로 지정했습니다. 공습이 이어지고 종파 간 충돌과 통행금지가 있었으며, 2025년 6월 다마스쿠스 교회 폭탄 테러가 있었습니다. 군사·정부 시설은 사진을 찍지 말고, 신분증을 늘 지니세요.', 'Korea has designated all of Syria except part of the Golan Heights a travel-ban area. Air strikes continue, there have been sectarian clashes and curfews, and a Damascus church was bombed in June 2025. Don’t photograph military or government sites, and carry ID at all times.'),
+    entry: T('여행금지국이라 외교부의 예외적 여권 사용 허가가 먼저 있어야 하고, 허가 없이 가면 처벌받습니다. 도착 비자는 없고, 15일 넘게 머물면 15일째 전에 출입국 사무소에 등록합니다. 나갈 땐 출국세를 냅니다.', 'As a travel-ban country, Syria needs the Korean Foreign Ministry’s exceptional passport-use permission first; going without it is punishable. There is no visa on arrival; for stays over 15 days, register with immigration before day 15. A departure tax is charged.'),
+    telecom: T('한국 통신사 로밍 가능 여부를 출발 전에 확인하세요.', 'Check roaming with your carrier before you go.'),
+  },
+  af: {
+    // Korean Foreign Ministry travel-safety page for Afghanistan (0404.go.kr/ntnSafetyInfo/284/detail), 2026-11. The page shows no embassy address.
+    emergency: [num('119', '경찰(범죄)', 'Police (crime)'), num('100', '소방', 'Fire'), num('102', '구급', 'Ambulance')],
+    embassy: {
+      name: T('주아프가니스탄 대한민국 대사관 (카타르 임시사무소)', 'Korean Embassy in Afghanistan (temporary office in Qatar)'),
+      address: 'Doha, Qatar',
+      phone: '+974-4463-9555',
+      afterHours: '+82-2-3210-0404',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/284/detail',
+    },
+    power: T('220V · 50Hz. 콘센트 모양이 여러 가지라 멀티 어댑터를 챙기세요.', '220V, 50Hz; socket types vary, so bring a universal adapter.'),
+    tipping: T('팁 문화가 없습니다.', 'There is no tipping culture.'),
+    water: WATER_BOTTLED,
+    shops: T('현금 사회입니다. 미화 5,000달러 이상을 가지고 나갈 땐 미리 신고합니다.', 'Afghanistan runs on cash. Declare US$5,000 or more before taking it out.'),
+    toilets: T('호텔 화장실을 이용합니다.', 'Use hotel toilets.'),
+    time: T('UTC+4:30, 서머타임 없음. 한국보다 4시간 30분 늦습니다.', 'UTC+4:30 with no daylight saving: 4 hrs 30 behind Korea.'),
+    safety: T('외교부가 2007년 8월부터 아프가니스탄 전역을 여행금지국으로 지정했습니다. 외국인은 극단주의 무장 단체의 주요 테러 표적이고, 납치와 폭탄 테러 위험이 큽니다. 운전과 거리 보행 모두 매우 위험하며 대중교통은 쓰지 말라고 권고합니다. 선교 활동은 현지법 위반이자 테러 위협을 부릅니다.', 'Korea has designated all of Afghanistan a travel-ban country since August 2007. Foreigners are prime targets for extremist groups, and the risk of kidnapping and bombings is high. Driving and even walking in the street are very dangerous, and public transport should be avoided. Proselytising breaks local law and invites terrorist threats.'),
+    entry: T('여행금지국이라 외교부의 예외적 여권 사용 허가 없이는 입국할 수 없고, 어기면 여권법에 따라 처벌받습니다. 무비자·도착 비자 모두 안 됩니다. 허가를 받아도 경비 업체의 무장 경호와 방탄 차량을 준비하라고 안내합니다.', 'As a travel-ban country, Afghanistan cannot be entered without the Korean Foreign Ministry’s exceptional passport-use permission; violations are punishable under the Passport Act. There is neither visa-free entry nor a visa on arrival. Even with permission, the ministry advises armed security escorts and armoured vehicles.'),
+    telecom: T('한국 통신사 로밍 가능 여부를 출발 전에 확인하세요.', 'Check roaming with your carrier before you go.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

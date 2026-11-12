@@ -1,0 +1,21 @@
+{
+ "damascus-h1": ["Umayyad Mosque", "Umayyad Mosque"],
+ "damascus-h2": ["Straight Street, Damascus", "Street Called Straight"],
+ "damascus-h3": ["Al-Hamidiyah Souq", "Al-Hamidiyah Souq"],
+ "damascus-h4": ["Azm Palace", "Azm Palace"],
+ "damascus-h5": ["National Museum of Damascus", "National Museum of Damascus"],
+ "damascus-h6": ["Citadel of Damascus", "Citadel of Damascus"],
+ "damascus-h7": ["Bosra Theatre", "Roman theatre at Bosra"],
+ "damascus-h8": ["Maaloula", "Maaloula"],
+ "homs-h1": ["Krak des Chevaliers", "Krak des Chevaliers"],
+ "homs-h2": ["Khalid ibn al-Walid Mosque", "Khalid ibn al-Walid Mosque"],
+ "homs-h3": ["Church of Saint Mary of the Holy Belt", "Church of Saint Mary of the Holy Belt"],
+ "palmyra-h1": ["Great Colonnade, Palmyra", "Great Colonnade at Palmyra"],
+ "palmyra-h2": ["Roman Theatre, Palmyra", "Roman Theatre, Palmyra"],
+ "palmyra-h3": ["Temple of Bel", "Temple of Bel"],
+ "palmyra-h4": ["Palmyra Castle", "Palmyra Castle"],
+ "aleppo-h1": ["Citadel of Aleppo", "Citadel of Aleppo"],
+ "aleppo-h2": ["Great Mosque of Aleppo", "Great Mosque of Aleppo"],
+ "aleppo-h3": ["Al-Madina Souq", "Al-Madina Souq"],
+ "aleppo-h4": ["Church of Saint Simeon Stylites", "Church of Saint Simeon Stylites"]
+}

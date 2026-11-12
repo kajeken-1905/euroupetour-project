@@ -3380,3 +3380,50 @@ highlights/baghdad-4.jpg | https://commons.wikimedia.org/wiki/File:Mutanabbi_Str
 highlights/aden-3.jpg | https://commons.wikimedia.org/wiki/File:Het_paleis_van_justitie_in_Aden_met_een_minaret,_KITLV_19769.tiff | CC BY 4.0 | IBS (Aden)
 gateways/gw-bsr.jpg | https://commons.wikimedia.org/wiki/File:Herc_Basra.jpg | CC BY 2.0 | Paulio Geordio
 gateways/gw-ade.jpg | https://commons.wikimedia.org/wiki/File:Aden_International_Airport_in_July_2017_ruin_01.jpg | CC BY 3.0 | IOM - UN Migration
+landmarks/landmark-af.jpg | https://commons.wikimedia.org/wiki/File:View_of_Herat_Citadel_from_atop_the_premises.jpg | CC BY 2.0 | Todd Huffman from Phoenix, AZ
+cities/mazar-i-sharif.jpg | https://commons.wikimedia.org/wiki/File:Rowza_Shrine_Hazrat_Ali_Mazar-e_Sharif_Afghanistan.._shrine.jpg | CC BY-SA 4.0 | AhmadElhan
+highlights/kabul-2.jpg | https://www.flickr.com/photos/99761031@N00/6834655319 | BY 2.0 | James Dennes
+highlights/bamiyan-3.jpg | https://commons.wikimedia.org/wiki/File:Zohak_City.jpg | CC BY-SA 4.0 | Najeem.taufiq
+highlights/mazar-i-sharif-2.jpg | https://commons.wikimedia.org/wiki/File:15c_green_mosque.jpg | Public domain | bluuurgh
+highlights/herat-3.jpg | https://commons.wikimedia.org/wiki/File:Musalla_Complex_and_Minarets_-_Herat,_Afghanistan_(4111447545).jpg | CC BY-SA 2.0 | Marius Arnesen from Oslo, Norway
+cities/kabul.jpg | https://commons.wikimedia.org/wiki/File:Kabul,_Afghanistan_view.jpg | CC BY-SA 4.0 | Weaveravel
+cities/herat.jpg | https://commons.wikimedia.org/wiki/File:Herat_city_by_Ali_mosavi_sam.jpg | CC BY-SA 4.0 | Alimosavisam
+highlights/kabul-3.jpg | https://www.flickr.com/photos/59442036@N08/6102394571 | BY-SA 2.0 | wgauthier
+highlights/bamiyan-1.jpg | https://commons.wikimedia.org/wiki/File:Buddhas_of_Bamiyan_D39.jpg | CC BY-SA 3.0 | František Řiháček
+highlights/bamiyan-4.jpg | https://commons.wikimedia.org/wiki/File:Lake_in_Band-e_Amir_National_Park,_March_2008.jpg | CC BY 2.0 | Afghanistan Matters from Brunssum, Netherlands
+highlights/herat-1.jpg | https://commons.wikimedia.org/wiki/File:Citadel_of_Alexander_in_Herat.jpg | Public domain | Artacoana
+highlights/herat-4.jpg | https://commons.wikimedia.org/wiki/File:Gawhar_Shad_Mausoleum_in_1928._Herat,_Afghanistan._Photographed_by_Fr%C3%A9d%C3%A9ric_Gadmer.jpg | Public domain | Gadmer, Frédéric (died in 1954)
+cities/bamiyan.jpg | https://commons.wikimedia.org/wiki/File:Bamiyan_valley_1967_postcard.jpg | Public domain | Unknown authorUnknown author
+highlights/kabul-1.jpg | https://commons.wikimedia.org/wiki/File:Garden_of_Babur_By_Dani.jpg | CC BY-SA 4.0 | Danial f4
+highlights/bamiyan-2.jpg | https://commons.wikimedia.org/wiki/File:02-_Gholghola_Mountains.jpg | CC BY-SA 4.0 | EFarid
+highlights/mazar-i-sharif-1.jpg | https://commons.wikimedia.org/wiki/File:Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)
+highlights/herat-2.jpg | https://commons.wikimedia.org/wiki/File:Friday_Mosque_in_Herat,_Afghanistan.jpg | CC BY-SA 2.0 | koldo hormaza from madrid, españa
+highlights/kabul-4.jpg | https://commons.wikimedia.org/wiki/File:Shah_do_shamsheera.jpg | CC BY-SA 4.0 | AhmadElhan
+gateways/gw-mzr.jpg | https://commons.wikimedia.org/wiki/File:MAZAR-E_SHARIF_INT._AIRPORT_-_panoramio.jpg | CC BY-SA 3.0 | Kayhan ERTUGRUL
+gateways/gw-hea.jpg | https://commons.wikimedia.org/wiki/File:Plane_of_Pamir_Airways_at_Herat_Airport_in_2010.jpg | Public domain | USAID Afghanistan
+gateways/gw-kbl.jpg | https://commons.wikimedia.org/wiki/File:Kabul_Airport_-_panoramio.jpg | CC BY-SA 3.0 | Masoud Akbari
+landmarks/landmark-sy.jpg | https://commons.wikimedia.org/wiki/File:The_Umayyad_Mosque,_the_Great_Mosque_of_Damascus,_Damascus,_Syria.jpg | CC BY 4.0 | Vyacheslav Argenberg
+cities/palmyra.jpg | https://commons.wikimedia.org/wiki/File:Palmyra_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/damascus-3.jpg | https://commons.wikimedia.org/wiki/File:Al-Hamidiyah_Souq_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/homs-1.jpg | https://commons.wikimedia.org/wiki/File:Krak_des_Chevaliers_landscape_(cropped).jpg | CC BY 2.0 | Krak_des_Chevaliers_landscape.jpg: (Ergo)
+highlights/palmyra-1.jpg | https://commons.wikimedia.org/wiki/File:Palmyra,_Syria,_The_Great_Colonnade_4.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/palmyra-4.jpg | https://commons.wikimedia.org/wiki/File:Palmyra_Castle,_Tadmur_Castle_2,_Syria.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/aleppo-3.jpg | https://commons.wikimedia.org/wiki/File:Suq_al-Atmah,_al-Madina_Souq,_Aleppo_(2).jpg | CC BY-SA 2.0 | rusticus80
+cities/damascus.jpg | https://www.flickr.com/photos/67769030@N07/6368698875 | BY 2.0 | Arian Zwegers
+cities/aleppo.jpg | https://www.flickr.com/photos/67769030@N07/6362436131 | BY 2.0 | Arian Zwegers
+highlights/damascus-1.jpg | https://commons.wikimedia.org/wiki/File:Umayyad_Mosque,_Damascus.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/damascus-4.jpg | https://commons.wikimedia.org/wiki/File:Al-Azm_Palace_photo1.jpg | CC BY-SA 4.0 | Hanin Jamal Batikh
+highlights/damascus-7.jpg | https://commons.wikimedia.org/wiki/File:Bosra_theatre_cavea_0559b.jpg | CC BY-SA 4.0 | Dosseman
+highlights/homs-2.jpg | https://www.flickr.com/photos/62312286@N05/7685276496 | BY 2.0 | Beshr Abdulhadi
+highlights/palmyra-2.jpg | https://commons.wikimedia.org/wiki/File:Palmyre_-_th%C3%A9%C3%A2tre_pano.jpg | CC BY 3.0 | Eusebius
+highlights/aleppo-1.jpg | https://commons.wikimedia.org/wiki/File:Citadel_of_Aleppo.jpg | CC BY-SA 3.0 | Memorino
+cities/homs.jpg | https://www.flickr.com/photos/62312286@N05/7684920808 | BY 2.0 | Beshr Abdulhadi
+highlights/damascus-2.jpg | https://commons.wikimedia.org/wiki/File:Damascus_straight_street_at_night.jpg | CC BY 2.0 | Bryn Pitzgauer
+highlights/damascus-5.jpg | https://commons.wikimedia.org/wiki/File:Damascus_National_Museum_sgraffito_earthenware_5289.jpg | CC BY-SA 4.0 | Dosseman
+highlights/damascus-8.jpg | https://commons.wikimedia.org/wiki/File:Maaloula_view.jpg | CC BY-SA 2.0 | Dan from Brussels, Europe
+highlights/palmyra-3.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Bel,_Palmyra_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/aleppo-2.jpg | https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Aleppo,_Courtyard,_Aleppo,_Syria.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/damascus-6.jpg | https://www.flickr.com/photos/12394349@N06/5494661025 | BY 2.0 | Bryn Pinzgauer
+gateways/gw-alp.jpg | https://commons.wikimedia.org/wiki/File:Aleppo_(2)_cropped.jpg | CC BY-SA 3.0 | No machine-readable author provided. Danij84~commonswiki ass
+gateways/gw-dam.jpg | https://commons.wikimedia.org/wiki/File:Damascus_International_Airport.jpg | CC BY 3.0 | Bangin
+highlights/aleppo-4.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Simeon_Stylites_17.jpg | CC BY-SA 3.0 | Bernard Gagnon

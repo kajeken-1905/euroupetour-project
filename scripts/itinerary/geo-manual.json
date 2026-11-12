@@ -8932,5 +8932,110 @@
     12.7746,
     45.02911,
     "OSM Nominatim: صهاريج عدن, حي شمسان, مديرية صيرة, مدينة عدن, محافظة عدن, ال (Wikipedia 35m)"
+  ],
+  "damascus-h6": [
+    33.51189,
+    36.30214,
+    "OSM Nominatim: قلعة دمشق, سوق الحميدية, حي الحميدية, دمشق, بلدية دمشق القدي"
+  ],
+  "damascus-h7": [
+    32.51779,
+    36.48168,
+    "OSM Nominatim: المسرح الروماني ببصرى, 109, بصرى, ناحية بصرى الشام, منطقة در"
+  ],
+  "damascus-h8": [
+    33.84419,
+    36.54615,
+    "OSM Nominatim: معلولا, ناحية معلولا, منطقة القطيفة, محافظة ريف دمشق, سوريا (Wikipedia 48m)"
+  ],
+  "homs-h1": [
+    34.75706,
+    36.29481,
+    "OSM Nominatim: قلعة الحصن, شارع السيد الرئيس, بصومع, عنّاز, ناحية الحواش, م (Wikipedia 12m)"
+  ],
+  "palmyra-h1": [
+    34.55093,
+    38.26904,
+    "OSM Nominatim: Via Recta, حي الغوطة, تدمر, ناحية مركز تدمر, منطقة تدمر, محا (Wikipedia 57m)"
+  ],
+  "palmyra-h4": [
+    34.56275,
+    38.2572,
+    "OSM Nominatim: قلعة فخر الدين ا, 7, المنطقة الصناعية, تدمر, ناحية مركز تدمر (Wikipedia 9m)"
+  ],
+  "aleppo-h1": [
+    36.19952,
+    37.16292,
+    "OSM Nominatim: قلعة حلب, Sahet Bizzeh district, حلب, ناحية مركز جبل سمعان, "
+  ],
+  "aleppo-h2": [
+    36.19934,
+    37.15738,
+    "OSM Nominatim: مسجد الأمويين في حلب, Souq Ibn al Khanshab, حي قلعة الشريف,  (Wikipedia 45m)"
+  ],
+  "aleppo-h4": [
+    36.33313,
+    36.84385,
+    "OSM Nominatim: كنيسة مار سمعان العمودي, 62, باعي, ناحية دارة عزة, منطقة جبل (Wikipedia 115m)"
+  ],
+  "damascus-h4": [
+    33.51019,
+    36.30701,
+    "OSM Nominatim: قصر العظم, 23, Palazzo Azm, حي القيمرية, دمشق, بلدية دمشق ال (Wikipedia 11m)"
+  ],
+  "palmyra-h2": [
+    34.55068,
+    38.26882,
+    "OSM Nominatim: مسرح زنوبيا, Via Recta, حي الغوطة, تدمر, ناحية مركز تدمر, من (Wikipedia 106m)"
+  ],
+  "palmyra-h3": [
+    34.54731,
+    38.27407,
+    "OSM Nominatim: معبد بل, M 20, حي الغوطة, تدمر, ناحية مركز تدمر, منطقة تدمر,"
+  ],
+  "kabul-h1": [
+    34.5026,
+    69.15838,
+    "OSM Nominatim: Bagh-e Babur, ناحیه هفتم, کابل, کابل ښاروالۍ, ولایت كابل, اف (Wikipedia 56m)"
+  ],
+  "kabul-h2": [
+    34.46756,
+    69.12005,
+    "OSM Nominatim: موزه کابل, School Street, ناحیه ششم, کابل, کابل ښاروالۍ, ولا (Wikipedia 8m)"
+  ],
+  "kabul-h3": [
+    34.46493,
+    69.11995,
+    "OSM Nominatim: کاخ دارالامان, Chahar Qala-e-Chahardihi Road, ناحیه ششم, کاب (Wikipedia 68m)"
+  ],
+  "bamiyan-h1": [
+    34.83166,
+    67.82662,
+    "OSM Nominatim: تندیس‌های بودا در بامیان, Bamyan Road from Sar Kotal Shibar  (Wikipedia 39m)"
+  ],
+  "bamiyan-h3": [
+    34.82654,
+    67.98236,
+    "OSM Nominatim: شهر ضحاک, Kabul-Hajigak-Bamyan Highway, ولسوالی بامیان, ولای"
+  ],
+  "bamiyan-h4": [
+    34.89035,
+    67.28402,
+    "OSM Nominatim: پارک ملی بند امیر, ولسوالی یکاولنگ, ولایت بامیان, افغانستان"
+  ],
+  "mazar-i-sharif-h1": [
+    36.70896,
+    67.11085,
+    "OSM Nominatim: شین جومات, بلوار گرد روضه, مزار شريف, ولایت بلخ, 1701, افغان (Wikipedia 73m)"
+  ],
+  "mazar-i-sharif-h2": [
+    36.75807,
+    66.89795,
+    "OSM Nominatim: بلخ, ولسوالی بلخ, ولایت بلخ, افغانستان (Wikipedia 9m)"
+  ],
+  "herat-h1": [
+    34.34606,
+    62.18823,
+    "OSM Nominatim: ارگ هرات, Bazarcheh Street, ناحیه هفتم, هرات, ولایت هرات, 30 (Wikipedia 43m)"
   ]
 }

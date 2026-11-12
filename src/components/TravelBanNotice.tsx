@@ -4,7 +4,7 @@ import { t } from '../i18n/ui'
 type Text = { ko: string; en: string }
 
 /** Countries the Korean government has made travel-ban areas (passport use restricted). */
-const TRAVEL_BAN = new Set(['ua', 'ly', 'ir', 'iq', 'ye'])
+const TRAVEL_BAN = new Set(['ua', 'ly', 'ir', 'iq', 'ye', 'sy', 'af'])
 const MOFA_ALERTS = 'https://www.0404.go.kr/travelAlert/apntStatus/stepTravelAlert'
 
 /**
@@ -243,6 +243,38 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
       },
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/294/detail',
+  },
+  // 0404.go.kr Syria page: travel ban everywhere except part of the Golan Heights (level 3); ban items extended to 2027-01-31.
+  sy: {
+    icon: '⛔',
+    title: { ko: '여행금지국', en: 'Travel ban' },
+    lines: [
+      {
+        ko: '한국 정부가 골란고원 일부(3단계 출국권고)를 뺀 시리아 전역을 여행금지 지역으로 지정했습니다. 외교부의 예외적 여권 사용 허가 없이 방문하면 여권법에 따라 처벌받을 수 있습니다.',
+        en: 'The Korean government has designated all of Syria except part of the Golan Heights (level 3, leave the country) a travel-ban area. Visiting without the Foreign Ministry’s exceptional passport-use permission can be punished under the Passport Act.',
+      },
+      {
+        ko: '공습과 테러, 무력 충돌 위험이 있습니다. 시리아엔 한국 대사관이 없어 주레바논 대사관이 맡습니다. 이 앱의 정보는 참고용이며 여행을 권하지 않습니다.',
+        en: 'There is a risk of air strikes, terrorism and armed clashes. Korea has no embassy in Syria; the embassy in Lebanon covers it. The information here is for reference only and is not a suggestion to travel.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/131/detail',
+  },
+  // 0404.go.kr Afghanistan page: travel-ban country since 2007-08, extended to 2027-01-31 (2026-08-24 notice).
+  af: {
+    icon: '⛔',
+    title: { ko: '여행금지국', en: 'Travel ban' },
+    lines: [
+      {
+        ko: '한국 정부가 2007년 8월부터 아프가니스탄 전역을 여행금지 지역으로 지정했습니다(2027년 1월 31일까지). 외교부의 예외적 여권 사용 허가 없이 입국하면 여권법에 따라 처벌받을 수 있습니다.',
+        en: 'The Korean government has designated all of Afghanistan a travel-ban area since August 2007 (now until 31 January 2027). Entering without the Foreign Ministry’s exceptional passport-use permission can be punished under the Passport Act.',
+      },
+      {
+        ko: '외국인을 노린 테러와 납치 위험이 큽니다. 주아프가니스탄 대사관은 카타르의 임시사무소에서 일합니다. 이 앱의 정보는 참고용이며 여행을 권하지 않습니다.',
+        en: 'The risk of terrorism and kidnapping aimed at foreigners is high. The Korean Embassy works from a temporary office in Qatar. The information here is for reference only and is not a suggestion to travel.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/284/detail',
   },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {

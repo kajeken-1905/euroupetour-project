@@ -3019,6 +3019,78 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  damascus: {
+    modes: ['taxi', 'bus', 'walk'],
+    howTo: {
+      ko: '옛 시가는 걸어서, 나머지는 택시로 다닙니다.',
+      en: 'Walk the old city and take taxis elsewhere.',
+    },
+    apps: [
+    ],
+  },
+  homs: {
+    modes: ['taxi', 'bus'],
+    howTo: {
+      ko: '크라크 데 슈발리에는 차를 빌려 다녀옵니다.',
+      en: 'Hire a car to visit Krak des Chevaliers.',
+    },
+    apps: [
+    ],
+  },
+  palmyra: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '유적은 걸어서, 성은 차로 오릅니다.',
+      en: 'Walk the ruins and drive up to the castle.',
+    },
+    apps: [
+    ],
+  },
+  aleppo: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '옛 시가는 걸어서 봅니다.',
+      en: 'Explore the old city on foot.',
+    },
+    apps: [
+    ],
+  },
+  kabul: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '현지 운전기사와 경호원을 두고 차로만 다니라고 권고합니다.',
+      en: 'The ministry advises moving only by car with a local driver and guards.',
+    },
+    apps: [
+    ],
+  },
+  bamiyan: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차와 현지 가이드를 구해 다닙니다.',
+      en: 'Get around with a car and a local guide.',
+    },
+    apps: [
+    ],
+  },
+  'mazar-i-sharif': {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차로 다닙니다.',
+      en: 'Get around by car.',
+    },
+    apps: [
+    ],
+  },
+  herat: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차로 다닙니다.',
+      en: 'Get around by car.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

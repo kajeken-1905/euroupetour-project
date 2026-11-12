@@ -1,5 +1,5 @@
 export type FxCode = 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK' | 'TRY' | 'RON' | 'BAM' | 'RSD' | 'GEL' | 'MKD' | 'ALL' | 'UAH' | 'MDL' | 'AMD' | 'AZN' | 'RUB' | 'BYN'
-  | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD' | 'IRR' | 'IQD' | 'YER' | 'AFN' | 'OMR'
+  | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD' | 'IRR' | 'IQD' | 'YER' | 'AFN' | 'OMR' | 'SYP'
 
 export interface DailyRates {
   /** YYYY-MM-DD (로컬 날짜) */
@@ -9,8 +9,16 @@ export interface DailyRates {
   source: string
 }
 
-const STORAGE_KEY = 'mvp-fx-krw-daily-v10'
-const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON', 'BAM', 'RSD', 'GEL', 'MKD', 'ALL', 'UAH', 'MDL', 'AMD', 'AZN', 'RUB', 'BYN', 'MAD', 'TND', 'EGP', 'DZD', 'LYD', 'ILS', 'JOD', 'AED', 'QAR', 'SAR', 'KWD', 'IRR', 'IQD', 'YER', 'AFN', 'OMR']
+const STORAGE_KEY = 'mvp-fx-krw-daily-v11'
+
+/**
+ * Syria dropped two zeros from its pound (new pound = 100 old). Some feeds still quote the old pound, which
+ * shows up as far more than one pound per won; convert those to new pounds so both sources agree.
+ */
+function perKrwFixed(code: FxCode, perKrw: number) {
+  return code === 'SYP' && perKrw > 1 ? perKrw / 100 : perKrw
+}
+const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON', 'BAM', 'RSD', 'GEL', 'MKD', 'ALL', 'UAH', 'MDL', 'AMD', 'AZN', 'RUB', 'BYN', 'MAD', 'TND', 'EGP', 'DZD', 'LYD', 'ILS', 'JOD', 'AED', 'QAR', 'SAR', 'KWD', 'IRR', 'IQD', 'YER', 'AFN', 'OMR', 'SYP']
 
 function todayKey() {
   const d = new Date()
@@ -61,7 +69,7 @@ async function fetchFromCurrencyApi(): Promise<DailyRates> {
       for (const code of CODES) {
         const perKrw = krw[code.toLowerCase()]
         if (!perKrw || perKrw <= 0) throw new Error(`Missing ${code}`)
-        rates[code] = 1 / perKrw
+        rates[code] = 1 / perKrwFixed(code, perKrw)
       }
       return {
         date: todayKey(),
@@ -88,7 +96,7 @@ async function fetchFromOpenErApi(): Promise<DailyRates> {
   for (const code of CODES) {
     const perKrw = json.rates[code]
     if (!perKrw || perKrw <= 0) throw new Error(`Missing ${code}`)
-    rates[code] = 1 / perKrw
+    rates[code] = 1 / perKrwFixed(code, perKrw)
   }
   return { date: todayKey(), rates, source: 'open.er-api' }
 }
