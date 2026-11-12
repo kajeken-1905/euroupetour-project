@@ -639,6 +639,45 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   cyrene: {
     air: [['Al Abraq (LAQ)', '알 아브라크 공항 (LAQ)', '국내선|domestic flights']],
   },
+  tehran: {
+    air: [['Imam Khomeini International (IKA)', '이맘 호메이니 국제공항 (IKA)', '국제선 · 시내까지 차로 약 1시간|international · about 1 hr to the city by car'], ['Mehrabad (THR)', '메흐라바드 공항 (THR)', '국내선 · 시내 서쪽|domestic · west of the centre']],
+    rail: [['Tehran Railway Station', '테헤란역', '카샨·이스파한·야즈드·시라즈행|to Kashan, Isfahan, Yazd and Shiraz']],
+  },
+  kashan: {
+    rail: [['Kashan station', '카샨역', '테헤란·이스파한행|to Tehran and Isfahan']],
+  },
+  isfahan: {
+    air: [['Isfahan International (IFN)', '이스파한 국제공항 (IFN)', '시내까지 차로 약 30~40분|about 30–40 min to the city by car']],
+    rail: [['Isfahan station', '이스파한역', '테헤란·야즈드행|to Tehran and Yazd']],
+  },
+  yazd: {
+    air: [['Shahid Sadooghi (AZD)', '야즈드 공항 (AZD)', '시내까지 차로 약 15분|about 15 min to the city by car']],
+    rail: [['Yazd station', '야즈드역', '테헤란·이스파한행|to Tehran and Isfahan']],
+  },
+  shiraz: {
+    air: [['Shiraz International (SYZ)', '시라즈 국제공항 (SYZ)', '시내까지 차로 약 20분|about 20 min to the city by car']],
+  },
+  baghdad: {
+    air: [['Baghdad International (BGW)', '바그다드 국제공항 (BGW)', '시내에서 서쪽으로 약 16km|about 16 km west of the centre']],
+  },
+  basra: {
+    air: [['Basra International (BSR)', '바스라 국제공항 (BSR)', '시내까지 차로 약 30분|about 30 min to the city by car']],
+  },
+  erbil: {
+    air: [['Erbil International (EBL)', '에르빌 국제공항 (EBL)', '시내까지 차로 약 15분|about 15 min to the city by car']],
+  },
+  sanaa: {
+    air: [['Sana’a International (SAH)', '사나 국제공항 (SAH)', '2025년 공습 피해 · 예멘인만 출국 가능|damaged by air strikes in 2025; departures for Yemenis only']],
+  },
+  shibam: {
+    air: [['Seiyun (GXF)', '세이윤 공항 (GXF)', '시밤까지 차로 약 30분|about 30 min to Shibam by car']],
+  },
+  socotra: {
+    air: [['Socotra (SCT)', '소코트라 공항 (SCT)', '하디부까지 차로 약 20분|about 20 min to Hadibu by car']],
+  },
+  aden: {
+    air: [['Aden International (ADE)', '아덴 국제공항 (ADE)', '시내까지 차로 약 15분|about 15 min to the city by car']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

@@ -1,5 +1,5 @@
 export type FxCode = 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK' | 'TRY' | 'RON' | 'BAM' | 'RSD' | 'GEL' | 'MKD' | 'ALL' | 'UAH' | 'MDL' | 'AMD' | 'AZN' | 'RUB' | 'BYN'
-  | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD'
+  | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD' | 'IRR' | 'IQD' | 'YER' | 'AFN' | 'OMR'
 
 export interface DailyRates {
   /** YYYY-MM-DD (로컬 날짜) */
@@ -9,8 +9,8 @@ export interface DailyRates {
   source: string
 }
 
-const STORAGE_KEY = 'mvp-fx-krw-daily-v9'
-const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON', 'BAM', 'RSD', 'GEL', 'MKD', 'ALL', 'UAH', 'MDL', 'AMD', 'AZN', 'RUB', 'BYN', 'MAD', 'TND', 'EGP', 'DZD', 'LYD', 'ILS', 'JOD', 'AED', 'QAR', 'SAR', 'KWD']
+const STORAGE_KEY = 'mvp-fx-krw-daily-v10'
+const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON', 'BAM', 'RSD', 'GEL', 'MKD', 'ALL', 'UAH', 'MDL', 'AMD', 'AZN', 'RUB', 'BYN', 'MAD', 'TND', 'EGP', 'DZD', 'LYD', 'ILS', 'JOD', 'AED', 'QAR', 'SAR', 'KWD', 'IRR', 'IQD', 'YER', 'AFN', 'OMR']
 
 function todayKey() {
   const d = new Date()

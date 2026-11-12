@@ -2911,6 +2911,114 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  tehran: {
+    modes: ['metro', 'bus', 'taxi'],
+    howTo: {
+      ko: '지하철이 넓게 다니고, 북쪽 궁전은 택시로 갑니다. 출퇴근 시간 도로가 매우 막힙니다.',
+      en: 'The metro covers most of the city; take a taxi to the northern palaces. Rush-hour traffic is very heavy.',
+    },
+    apps: [
+    ],
+  },
+  kashan: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '저택들은 걸어서 둘러보고, 핀 정원은 택시로 갑니다.',
+      en: 'Walk between the houses; take a taxi to the Fin Garden.',
+    },
+    apps: [
+    ],
+  },
+  isfahan: {
+    modes: ['metro', 'taxi', 'walk'],
+    howTo: {
+      ko: '광장 주변은 걸어서 보고, 다리와 졸파 지구는 택시나 지하철로 갑니다.',
+      en: 'Walk around the square; take a taxi or the metro to the bridges and Jolfa.',
+    },
+    apps: [
+    ],
+  },
+  yazd: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '옛 시가는 걸어서, 침묵의 탑과 불의 사원은 택시로 갑니다.',
+      en: 'Walk the old town; take taxis to the Towers of Silence and the fire temple.',
+    },
+    apps: [
+    ],
+  },
+  shiraz: {
+    modes: ['metro', 'taxi', 'walk'],
+    howTo: {
+      ko: '시내는 걷거나 택시로, 페르세폴리스는 기사 딸린 차를 빌려 다녀옵니다.',
+      en: 'Walk or take taxis in town; hire a car and driver for Persepolis.',
+    },
+    apps: [
+    ],
+  },
+  baghdad: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '외교부는 경호가 붙은 차로만 다니라고 권고합니다.',
+      en: 'The Korean ministry advises travelling only in escorted vehicles.',
+    },
+    apps: [
+    ],
+  },
+  basra: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '경호가 붙은 차로 다니라고 권고합니다.',
+      en: 'Escorted vehicles are advised.',
+    },
+    apps: [
+    ],
+  },
+  erbil: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '성채와 바자르는 걸어서, 나머지는 차로 다닙니다.',
+      en: 'Walk the citadel and bazaar; go by car elsewhere.',
+    },
+    apps: [
+    ],
+  },
+  sanaa: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '옛 시가는 걸어서 봅니다.',
+      en: 'Explore the old city on foot.',
+    },
+    apps: [
+    ],
+  },
+  shibam: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '세 마을 사이는 차로 다닙니다.',
+      en: 'Travel between the three towns by car.',
+    },
+    apps: [
+    ],
+  },
+  socotra: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '사륜구동 차와 현지 가이드를 구해 다닙니다.',
+      en: 'Get around with a four-wheel-drive vehicle and a local guide.',
+    },
+    apps: [
+    ],
+  },
+  aden: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차로 다닙니다.',
+      en: 'Get around by car.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {

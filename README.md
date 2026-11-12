@@ -1,6 +1,6 @@
 # My Vacation Plan
 
-유럽·북아프리카·중동 68개국 여행 체크리스트 · 도시 가이드 웹앱  
+유럽·북아프리카·중동 71개국 여행 체크리스트 · 도시 가이드 웹앱  
 **사이트:** https://kajeken-1905.github.io/euroupetour-project/
 
 ## 로컬 실행

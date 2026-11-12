@@ -4,7 +4,7 @@ import { t } from '../i18n/ui'
 type Text = { ko: string; en: string }
 
 /** Countries the Korean government has made travel-ban areas (passport use restricted). */
-const TRAVEL_BAN = new Set(['ua', 'ly'])
+const TRAVEL_BAN = new Set(['ua', 'ly', 'ir', 'iq', 'ye'])
 const MOFA_ALERTS = 'https://www.0404.go.kr/travelAlert/apntStatus/stepTravelAlert'
 
 /**
@@ -195,6 +195,54 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
       },
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/375/detail',
+  },
+  // 0404.go.kr Iran page: travel ban issued 2026-03-05, extended to 2027-01-31 (2026-07-09 notice); 2026-10-25 safety notice.
+  ir: {
+    icon: '⛔',
+    title: { ko: '여행금지국', en: 'Travel ban' },
+    lines: [
+      {
+        ko: '한국 정부가 2026년 3월 5일 이란 전역을 여행금지 지역으로 지정했습니다(2027년 1월 31일까지). 외교부의 예외적 여권 사용 허가 없이 방문하면 여권법에 따라 처벌받을 수 있습니다.',
+        en: 'The Korean government designated all of Iran a travel-ban area on 5 March 2026 (until 31 January 2027). Visiting without the Foreign Ministry’s exceptional passport-use permission can be punished under the Passport Act.',
+      },
+      {
+        ko: '외교부는 2026년 10월 25일 공습 재개 가능성에 따른 신변 안전 유의를 공지했습니다. 이 앱의 정보는 참고용이며 여행을 권하지 않습니다.',
+        en: 'On 25 October 2026 the ministry warned of the risk that air strikes may resume. The information here is for reference only and is not a suggestion to travel.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/176/detail',
+  },
+  // 0404.go.kr Iraq page: travel-ban country, extended to 2027-01-31 (2026-07-09 notice).
+  iq: {
+    icon: '⛔',
+    title: { ko: '여행금지국', en: 'Travel ban' },
+    lines: [
+      {
+        ko: '한국 정부가 이라크 전역을 여행금지 지역으로 지정했습니다(2027년 1월 31일까지). 쿠르디스탄 지역도 포함되며, 외교부의 예외적 여권 사용 허가 없이 방문하면 여권법에 따라 처벌받을 수 있습니다.',
+        en: 'The Korean government has designated all of Iraq, including the Kurdistan Region, a travel-ban area (until 31 January 2027). Visiting without the Foreign Ministry’s exceptional passport-use permission can be punished under the Passport Act.',
+      },
+      {
+        ko: '납치와 폭탄 테러 위험이 있습니다. 이 앱의 정보는 참고용이며 여행을 권하지 않습니다.',
+        en: 'There is a risk of kidnapping and bombings. The information here is for reference only and is not a suggestion to travel.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/174/detail',
+  },
+  // 0404.go.kr Yemen page: travel-ban country, extended to 2027-01-31 (2026-07-09 notice); 2026-10-28 notice on the worsening situation.
+  ye: {
+    icon: '⛔',
+    title: { ko: '여행금지국', en: 'Travel ban' },
+    lines: [
+      {
+        ko: '한국 정부가 예멘 전역을 여행금지 지역으로 지정했습니다(2027년 1월 31일까지). 외교부의 예외적 여권 사용 허가 없이 방문하면 여권법에 따라 처벌받을 수 있습니다.',
+        en: 'The Korean government has designated all of Yemen a travel-ban area (until 31 January 2027). Visiting without the Foreign Ministry’s exceptional passport-use permission can be punished under the Passport Act.',
+      },
+      {
+        ko: '내전과 납치 위험이 있고, 외교부는 2026년 10월 28일 정세 악화를 공지했습니다. 주예멘 대사관은 사우디 리야드의 임시사무소에서 일합니다. 이 앱의 정보는 참고용이며 여행을 권하지 않습니다.',
+        en: 'There is civil war and a risk of kidnapping; on 28 October 2026 the ministry warned of a worsening situation. The Korean Embassy works from a temporary office in Riyadh. The information here is for reference only and is not a suggestion to travel.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/294/detail',
   },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {

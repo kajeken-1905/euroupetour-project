@@ -1404,6 +1404,54 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  ir: {
+    summary: {
+      ko: '우측통행. 테헤란·이스파한·시라즈엔 지하철이 있고, 도시 사이는 장거리 버스·기차·국내선으로 다닙니다.',
+      en: 'Drive on the right. Tehran, Isfahan and Shiraz have metros; long-distance buses, trains and domestic flights link the cities.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '테헤란–카샨–이스파한–야즈드–시라즈를 잇는 장거리 버스가 자주 다니고, 테헤란과 시라즈·이스파한 사이엔 국내선이 많습니다.',
+      en: 'Long-distance buses run often along the Tehran–Kashan–Isfahan–Yazd–Shiraz route, with frequent domestic flights from Tehran to Shiraz and Isfahan.',
+    },
+    paymentTip: {
+      ko: '외국 카드가 안 되니 교통비도 현금으로 냅니다. 택시는 타기 전에 요금을 정하세요.',
+      en: 'Foreign cards don’t work, so pay fares in cash; agree taxi fares before you set off.',
+    },
+    apps: [],
+  },
+  iq: {
+    summary: {
+      ko: '우측통행. 대중교통 대신 경호가 붙은 차로 다니라고 외교부가 권고합니다.',
+      en: 'Drive on the right. The Korean ministry advises escorted vehicles rather than public transport.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '바그다드와 에르빌·바스라 사이는 국내선으로 약 1시간입니다.',
+      en: 'Domestic flights link Baghdad with Erbil and Basra in about an hour.',
+    },
+    paymentTip: {
+      ko: '현금으로 냅니다.',
+      en: 'Pay in cash.',
+    },
+    apps: [],
+  },
+  ye: {
+    summary: {
+      ko: '우측통행. 육로 납치 위험이 커서 도시 사이는 비행기로 다니라고 외교부가 권고합니다.',
+      en: 'Drive on the right. Because of the kidnapping risk on the roads, the Korean ministry advises flying between cities.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '아덴·세이윤·소코트라 공항 사이에 국내선이 다닙니다. 사나에서 도시 밖으로 나갈 땐 관광 경찰의 허가와 호송이 필요합니다.',
+      en: 'Domestic flights link the Aden, Seiyun and Socotra airports. Leaving Sana’a by road requires tourist-police permission and an escort.',
+    },
+    paymentTip: {
+      ko: '현금으로 냅니다.',
+      en: 'Pay in cash.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

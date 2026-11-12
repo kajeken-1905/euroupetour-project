@@ -3290,3 +3290,93 @@ highlights/cyrene-1.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Apol
 highlights/cyrene-2.jpg | https://commons.wikimedia.org/wiki/File:CireneTempioZeus1999.jpg | Public domain | MM
 highlights/cyrene-3.jpg | https://commons.wikimedia.org/wiki/File:Apollonia_bysantinsk_basilika.jpg | CC BY-SA 3.0 | Siculo73
 gateways/gw-mji.jpg | https://commons.wikimedia.org/wiki/File:Libyan_Air_Cargo_Ilyushin_Il-62M_(5A-DNY)_at_Mitiga_International_Airport.jpeg | CC BY-SA 4.0 | Flo Weiss
+landmarks/landmark-ir.jpg | https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis,_Ir%C3%A1n,_2016-09-24,_DD_53.jpg | CC BY-SA 4.0 | Diego Delso
+landmarks/landmark-iq.jpg | https://commons.wikimedia.org/wiki/File:Processional_Way,_Babylon_-_Google_Art_Project.jpg | Public domain | unknown artist Details on Google Art Project
+landmarks/landmark-ye.jpg | https://commons.wikimedia.org/wiki/File:Shibam_Hadramaut_1.jpg | CC BY-SA 4.0 | Ala Askool
+cities/yazd.jpg | https://commons.wikimedia.org/wiki/File:Faravahar_on_Fire_Temple,_Yazd.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/tehran-3.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Iran_(21018141301).jpg | CC BY 2.0 | s1ingshot from Berlin, Germany
+highlights/tehran-7.jpg | https://commons.wikimedia.org/wiki/File:Tabiat-Bridge-by-DIBA-group.jpg | CC BY-SA 4.0 | Diba Tensile Architecture
+highlights/kashan-3.jpg | https://commons.wikimedia.org/wiki/File:Borujerdi_House,_Kashan,_Iran2.jpg | CC BY-SA 4.0 | Amirpashaei
+highlights/isfahan-2.jpg | https://commons.wikimedia.org/wiki/File:Shah_Mosque_(Isfahan,_Iran)_2013_07.jpg | CC BY-SA 4.0 | Skot
+highlights/isfahan-6.jpg | https://commons.wikimedia.org/wiki/File:Si-o-se_Pol,_Isfahan,_Ir%C3%A1n,_2016-09-19,_DD_04-06_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/yazd-1.jpg | https://commons.wikimedia.org/wiki/File:Jameh_Mosque_of_Yazd_2015_3.jpg | CC BY 3.0 | Pawel Ryszawa
+highlights/yazd-5.jpg | https://commons.wikimedia.org/wiki/File:Zoroastrian_Fire_Temple,_Yazd_02.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/shiraz-3.jpg | https://commons.wikimedia.org/wiki/File:Mausoleo_de_Hafez,_Shiraz,_Ir%C3%A1n,_2016-09-24,_DD_07.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/shiraz-7.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_Darius_from_the_Apadana,_Persepolis,_Shiraz,_Iran_(14475045645).jpg | CC BY 2.0 | Julia Maudlin from Lake Oswego, Oregon, USA
+cities/tehran.jpg | https://commons.wikimedia.org/wiki/File:Tehran_skyline_from_Milad_Tower_by_Mojnews_05.jpg | CC BY 4.0 | Amin Yari
+cities/shiraz.jpg | https://www.flickr.com/photos/78722206@N00/1250138570 | BY-SA 2.0 | Fulvio Spada
+highlights/tehran-8.jpg | https://commons.wikimedia.org/wiki/File:Sharif_University_and_Milad_tower_in_a_frame_-_Tehran,_Iran.jpg | CC BY-SA 4.0 | Md4956
+highlights/kashan-4.jpg | https://commons.wikimedia.org/wiki/File:Sultan_Amir_Ahmad_Bathhouse1.jpg | CC BY-SA 4.0 | Amir Pashaei
+highlights/isfahan-3.jpg | https://commons.wikimedia.org/wiki/File:Sheikh_Lotfollah_Mosque,_Isfahan_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/isfahan-7.jpg | https://commons.wikimedia.org/wiki/File:Khaju_Bridje_at_night.jpg | Public domain | Gire 3pich2005 with special thanks to Hossein Majidi
+highlights/yazd-2.jpg | https://www.flickr.com/photos/37583176@N00/3015960016 | BY 2.0 | Ninara
+highlights/yazd-6.jpg | https://commons.wikimedia.org/wiki/File:Tower_of_Silence,_Yazd_10.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/shiraz-4.jpg | https://www.flickr.com/photos/35385832@N05/27998630293 | BY 2.0 | Sasha India
+highlights/shiraz-8.jpg | https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_12.jpg | CC BY-SA 4.0 | Diego Delso
+cities/kashan.jpg | https://commons.wikimedia.org/wiki/File:Borujerdi_House_Kashan_Iran.jpg | CC BY-SA 4.0 | Amir Pashaei
+highlights/tehran-1.jpg | https://www.flickr.com/photos/37583176@N00/16758337127 | BY 2.0 | Ninara
+highlights/tehran-5.jpg | https://commons.wikimedia.org/wiki/File:Azadi_Tower_in_the_spring.jpg | CC BY-SA 4.0 | بهادر های زاده
+highlights/kashan-1.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_Fin,_Kashan,_Ir%C3%A1n,_2016-09-19,_DD_22.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/kashan-5.jpg | https://commons.wikimedia.org/wiki/File:Mezquita_de_Agha_Bozorg,_Kashan,_Ir%C3%A1n,_2016-09-19,_DD_81.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/isfahan-4.jpg | https://commons.wikimedia.org/wiki/File:%C4%80l%C4%AB_Q%C4%81p%C5%AB_in_golden_time.jpg | CC BY-SA 4.0 | Amir Pashaei
+highlights/isfahan-8.jpg | https://commons.wikimedia.org/wiki/File:Vank_Cathedral_01.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/yazd-3.jpg | https://commons.wikimedia.org/wiki/File:Amir_Chakhmaq_2.jpg | CC BY 3.0 | Pawel Ryszawa
+highlights/shiraz-1.jpg | https://www.flickr.com/photos/95905799@N00/11993910736 | BY-SA 2.0 | Joan Simon
+highlights/shiraz-5.jpg | https://commons.wikimedia.org/wiki/File:Bazaar_de_Vakil,_Shiraz,_Ir%C3%A1n,_2016-09-24,_DD_48.jpg | CC BY-SA 4.0 | Diego Delso
+cities/isfahan.jpg | https://commons.wikimedia.org/wiki/File:Naghshe_Jahan_Square_Isfahan_modified2.jpg | CC BY-SA 3.0 | Arad Mojtahedi
+highlights/tehran-2.jpg | https://www.flickr.com/photos/37583176@N00/42624960301 | BY 2.0 | Ninara
+highlights/tehran-6.jpg | https://commons.wikimedia.org/wiki/File:Palais_de_Saadabad,_T%C3%A9h%C3%A9ran,_palais_Vert.jpg | CC BY-SA 4.0 | ZarlokX
+highlights/kashan-2.jpg | https://commons.wikimedia.org/wiki/File:Casa_hist%C3%B3rica_de_Tabatabaeis,_Kashan,_Ir%C3%A1n,_2016-09-19,_DD_60.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/isfahan-1.jpg | https://commons.wikimedia.org/wiki/File:Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg | CC BY-SA 4.0 | Amir Pashaei
+highlights/isfahan-5.jpg | https://commons.wikimedia.org/wiki/File:Chehel_Sotoun_building.jpg | CC BY-SA 4.0 | Amir Pashaei
+highlights/isfahan-9.jpg | https://commons.wikimedia.org/wiki/File:Jameh_Mosque_of_Isfahan_-_Northern_Iwan.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/yazd-4.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_Dolat-Abad,_Yazd,_Ir%C3%A1n,_2016-09-21,_DD_36.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/shiraz-2.jpg | https://commons.wikimedia.org/wiki/File:Eram_Garden_Shiraz_%D8%A8%D8%A7%D8%BA_%D8%A7%D8%B1%D9%85_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2_02.jpg | CC BY-SA 4.0 | Mostafameraji
+highlights/shiraz-6.jpg | https://commons.wikimedia.org/wiki/File:Shah_cheragh_,_panorama.jpg | CC BY-SA 4.0 | Hosseinhodjat
+gateways/gw-ifn.jpg | https://commons.wikimedia.org/wiki/File:ISFAHAN_AIRPORT_-_panoramio.jpg | CC BY-SA 3.0 | ak ba
+gateways/gw-syz.jpg | https://commons.wikimedia.org/wiki/File:Sepehran_Airlines_Boeing_737-500_at_Shiraz_Airport.jpg | CC BY-SA 4.0 | Mohammadreza Farhadi Aref
+gateways/gw-ika.jpg | https://commons.wikimedia.org/wiki/File:Imam_Khomeini_Airport_Tehran_at_night.jpg | CC BY-SA 3.0 | Orijentolog
+gateways/gw-thr.jpg | https://commons.wikimedia.org/wiki/File:Mehrabad_airport_-_2024.jpg | CC BY-SA 4.0 | Standardwhale
+cities/basra.jpg | https://commons.wikimedia.org/wiki/File:Saif_in_BasraAas.jpg | CC BY-SA 4.0 | Saif Al7sain
+highlights/baghdad-6.jpg | https://commons.wikimedia.org/wiki/File:Incomplete_Liberty_Monument_at_Tahrir_Square,_Baghdad,_1960.png | Public domain | Unknown authorUnknown author
+highlights/baghdad-8.jpg | https://commons.wikimedia.org/wiki/File:Taq_Kasra.jpg | CC BY-SA 4.0 | Hassan Majed
+highlights/basra-2.jpg | https://www.flickr.com/photos/79721788@N00/30292893454 | BY 2.0 | D-Stanley
+highlights/erbil-1.jpg | https://commons.wikimedia.org/wiki/File:Erbil_Citadel_2024.jpg | CC BY 4.0 | جيهان شيركو
+highlights/erbil-3.jpg | https://commons.wikimedia.org/wiki/File:Kurdistan_-_Erbil_-_Qaysari_Market.jpg | CC BY-SA 4.0 | Lamacchiacosta
+highlights/erbil-5.jpg | https://commons.wikimedia.org/wiki/File:A_bout_with_Kurdistan_flag_in_Sami_Abdulrahman_Park_Lake.jpg | CC BY-SA 4.0 | Kushared (Mohammed Sardar)
+cities/baghdad.jpg | https://commons.wikimedia.org/wiki/File:001125-Kadhemiya-Baghdad-IMG_8124-2.jpg | CC BY-SA 4.0 | Safa.daneshvar
+cities/erbil.jpg | https://commons.wikimedia.org/wiki/File:Park_Shanadar-Erbil_02.jpg | CC BY-SA 4.0 | Abdulsalam Al Dabbagh
+highlights/baghdad-1.jpg | https://commons.wikimedia.org/wiki/File:Carved_ivory_panel_showing_Egyptianized_scene._From_Nimrud,_Iraq._Iraq_Museum,_Baghdad.jpg | CC BY-SA 4.0 | Osama Shukir Muhammed Amin FRCP(Glasg)
+highlights/baghdad-3.jpg | https://commons.wikimedia.org/wiki/File:Abbasid_Palace1.jpg | CC BY-SA 4.0 | Mohammed Qays Kazem
+highlights/baghdad-5.jpg | https://commons.wikimedia.org/wiki/File:Al-Kadhimiya_Mosque_2020_(2).png | CC BY 3.0 | المكتب الاعلامي لرئيس الوزراء
+highlights/baghdad-7.jpg | https://commons.wikimedia.org/wiki/File:001125-Babylon-Iraq-IMG_8057-2.jpg | CC BY-SA 4.0 | Safa.daneshvar
+highlights/basra-1.jpg | https://commons.wikimedia.org/wiki/File:Basrah_Museum_Gallery_2016_JPM.jpg | CC BY-SA 4.0 | JPMacIver
+highlights/basra-3.jpg | https://commons.wikimedia.org/wiki/File:Marsh_Arabs_in_a_mashoof.jpg | Public domain | Hassan Janali, U.S. Army Corps of Engineers
+highlights/erbil-2.jpg | https://commons.wikimedia.org/wiki/File:Kurdish_Textile_Museum_Hewler_Citadel.jpg | CC BY-SA 3.0 | Ara Qadir
+highlights/erbil-4.jpg | https://commons.wikimedia.org/wiki/File:Mudhafaria_Minaret_at_Minaret_Park,_Erbil.jpg | CC BY-SA 4.0 | Osama Shukir Muhammed Amin FRCP(Glasg)
+highlights/baghdad-2.jpg | https://commons.wikimedia.org/wiki/File:Mustansiriya_University_CPT.jpg | CC BY-SA 3.0 | CPT photo
+gateways/gw-bgw.jpg | https://commons.wikimedia.org/wiki/File:Baghdad_International_Airport_2003_2.jpg | CC0 | SC National Guard
+gateways/gw-ebl.jpg | https://commons.wikimedia.org/wiki/File:Erbil_International_Airport.JPG | CC BY 3.0 | Jeffrey Beall
+cities/shibam.jpg | https://commons.wikimedia.org/wiki/File:Shibam_Hadramaut_2.jpg | CC BY-SA 4.0 | Ala Askool
+cities/aden.jpg | https://commons.wikimedia.org/wiki/File:Aden,_Yemen_Port.jpg | CC BY-SA 3.0 | T3n60
+highlights/sanaa-1.jpg | https://commons.wikimedia.org/wiki/File:Old_city_of_Sana%27a_(10874148435).jpg | CC BY 2.0 | Julian-G. Albert
+highlights/sanaa-5.jpg | https://commons.wikimedia.org/wiki/File:%D9%82%D8%B5%D8%B1_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A_%D9%85%D8%B9_%D8%A3%D8%B4%D8%AC%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%88%D8%BA%D8%A7%D9%86%D9%81%D9%8A%D9%84%D9%8A%D8%A7_Historic_Dar_al-Hajar_palace_with_bougainvillea_trees.jpg | CC BY-SA 4.0 | Ayah Alakwaa
+highlights/shibam-2.jpg | https://commons.wikimedia.org/wiki/File:Sultan_Al_Kathiri_Palace,_Seiyun_(2285895989).jpg | CC BY-SA 2.0 | Dan from Brussels, Europe
+highlights/socotra-1.jpg | https://commons.wikimedia.org/wiki/File:Dragonblood_tree_in_Socotra_2.jpg | CC BY 4.0 | Alex38
+highlights/socotra-3.jpg | https://commons.wikimedia.org/wiki/File:Detwahlagune_gezien_vanaf_Qalansyah.jpg | CC BY-SA 4.0 | Hardscarf
+highlights/aden-2.jpg | https://commons.wikimedia.org/wiki/File:Sirah_Castle.jpg | CC BY-SA 4.0 | Bn aden
+cities/sanaa.jpg | https://commons.wikimedia.org/wiki/File:Yemen_-_Mosque_in_Sanaa.jpg | CC BY 2.5 | Niklas Schiffler (Grmpf)
+cities/socotra.jpg | https://commons.wikimedia.org/wiki/File:Dragon%27s_Blood_Trees,_Socotra_Is._(24142290504).jpg | CC BY-SA 2.0 | Rod Waddington
+highlights/sanaa-2.jpg | https://commons.wikimedia.org/wiki/File:Bab_al_Yemen.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/shibam-1.jpg | https://commons.wikimedia.org/wiki/File:A_shibam_Hadramaut.jpg | CC BY-SA 4.0 | Ala Askool
+highlights/shibam-3.jpg | https://commons.wikimedia.org/wiki/File:13_Tarim_(13).jpg | CC BY-SA 3.0 | Ljuba brank
+highlights/socotra-2.jpg | https://commons.wikimedia.org/wiki/File:Homhil_Plateau_%26_Arabian_Sea.jpg | CC BY 2.0 | valerian.guillot
+highlights/aden-1.jpg | https://commons.wikimedia.org/wiki/File:Cisterns_of_Tawila.jpg | Public domain | العمري
+highlights/sanaa-3.jpg | https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A8%D8%AC%D9%88%D8%A7%D8%B1_%D9%85%D8%A6%D8%B0%D9%86%D8%A9_%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1_%D9%81%D9%8A_%D8%B5%D9%86%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9_Evening_atmosphere_near_the_Grand_Mosque_minaret_in_Old_Sana%27a.jpg | CC BY-SA 4.0 | Ayah Alakwaa
+highlights/sanaa-4.jpg | https://www.flickr.com/photos/64607715@N05/10035332343 | BY-SA 2.0 | Rod Waddington
+gateways/gw-sct.jpg | https://commons.wikimedia.org/wiki/File:Socotra_airport_lobby_(6407125315).jpg | CC BY 2.0 | Gerry &amp; Bonni
+highlights/tehran-4.jpg | https://commons.wikimedia.org/wiki/File:New_Iran%27s_Treasury_of_National_Jewels_0153.jpg | CC BY-SA 4.0 | GTVM92
+highlights/baghdad-4.jpg | https://commons.wikimedia.org/wiki/File:Mutanabbi_Street_-_Nov_13,_2020_09.jpg | CC BY 3.0 | قناة التغيير
+highlights/aden-3.jpg | https://commons.wikimedia.org/wiki/File:Het_paleis_van_justitie_in_Aden_met_een_minaret,_KITLV_19769.tiff | CC BY 4.0 | IBS (Aden)
+gateways/gw-bsr.jpg | https://commons.wikimedia.org/wiki/File:Herc_Basra.jpg | CC BY 2.0 | Paulio Geordio
+gateways/gw-ade.jpg | https://commons.wikimedia.org/wiki/File:Aden_International_Airport_in_July_2017_ruin_01.jpg | CC BY 3.0 | IOM - UN Migration

@@ -29,3 +29,6 @@ Two edits on each file's root <svg>:
 - kw.svg — File:Flag_of_Kuwait.svg (public domain), added 2026-11-09
 - dz.svg — File:Flag_of_Algeria.svg (public domain; viewBox added), added 2026-11-09
 - ly.svg — File:Flag_of_Libya.svg (public domain; viewBox added), added 2026-11-09
+- ir.svg — File:Flag_of_Iran.svg (public domain; viewBox added), added 2026-11-11
+- iq.svg — File:Flag_of_Iraq.svg (public domain; preserveAspectRatio added), added 2026-11-12
+- ye.svg — File:Flag_of_Yemen.svg (public domain; viewBox added), added 2026-11-12

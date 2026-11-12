@@ -1,0 +1,19 @@
+{
+ "tehran-h3": ["Iran Bastan Museum", "National Museum of Iran"],
+ "tehran-h4": ["Treasury of National Jewels, Tehran", "Iranian National Jewels"],
+ "tehran-h6": ["Saadabad Palace, Tehran", "Sa'dabad Complex"],
+ "kashan-h3": ["Borujerdi House, Kashan", "Borujerdi House"],
+ "kashan-h5": ["Agha Bozorg Mosque, Kashan", "Agha Bozorg Mosque"],
+ "isfahan-h4": ["Ali Qapu Palace, Isfahan", "Ali Qapu"],
+ "isfahan-h5": ["Chehel Sotoun Palace, Isfahan", "Chehel Sotoun"],
+ "isfahan-h8": ["Vank Cathedral, Isfahan", "Holy Savior Cathedral"],
+ "isfahan-h9": ["Jameh Mosque, Isfahan", "Jameh Mosque of Isfahan"],
+ "yazd-h1": ["Jameh Mosque, Yazd", "Jameh Mosque of Yazd"],
+ "yazd-h2": ["Old Town, Yazd", "Historic City of Yazd"],
+ "yazd-h4": ["Dowlatabad Garden, Yazd", "Dowlatabad Garden"],
+ "yazd-h5": ["Fire Temple, Yazd", "Yazd Atash Behram"],
+ "shiraz-h1": ["Nasir ol Molk Mosque, Shiraz", "Nasir al-Mulk Mosque"],
+ "shiraz-h2": ["Eram Garden, Shiraz", "Eram Garden"],
+ "shiraz-h5": ["Vakil Bazaar, Shiraz", "Vakil Bazaar"],
+ "shiraz-h6": ["Shah Cheragh, Shiraz", "Shah Cheragh"]
+}
