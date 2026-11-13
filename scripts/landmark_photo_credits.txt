@@ -3427,3 +3427,57 @@ highlights/damascus-6.jpg | https://www.flickr.com/photos/12394349@N06/549466102
 gateways/gw-alp.jpg | https://commons.wikimedia.org/wiki/File:Aleppo_(2)_cropped.jpg | CC BY-SA 3.0 | No machine-readable author provided. Danij84~commonswiki ass
 gateways/gw-dam.jpg | https://commons.wikimedia.org/wiki/File:Damascus_International_Airport.jpg | CC BY 3.0 | Bangin
 highlights/aleppo-4.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Simeon_Stylites_17.jpg | CC BY-SA 3.0 | Bernard Gagnon
+landmarks/landmark-om.jpg | https://commons.wikimedia.org/wiki/File:Muscat,_moschea_del_sultano_qaboos,_esterno_04.jpg | CC BY-SA 4.0 | Francesco Bini
+landmarks/landmark-ps.jpg | https://www.flickr.com/photos/95698871@N00/3846711512 | BY 2.0 | annemarieangelo
+cities/sur.jpg | https://commons.wikimedia.org/wiki/File:Sur,_Oman_(7).jpg | CC BY-SA 2.0 | Andries Oudshoorn
+highlights/muscat-3.jpg | https://commons.wikimedia.org/wiki/File:Mutrah_Souk,_Muscat_-_panoramio.jpg | CC BY 3.0 | Banja-Frans Mulder
+highlights/muscat-6.jpg | https://commons.wikimedia.org/wiki/File:Fuerte_de_Al_Jalali,_Mascate,_Om%C3%A1n,_2024-08-14,_DD_52.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/nizwa-1.jpg | https://www.flickr.com/photos/10345599@N03/8728968841 | BY 2.0 | Francisco Anzola
+highlights/nizwa-4.jpg | https://commons.wikimedia.org/wiki/File:Jabrin_Castle-01.jpg | CC BY-SA 4.0 | Muck
+highlights/sur-1.jpg | https://commons.wikimedia.org/wiki/File:Sur,_cantieri_navali_di_dhow,_imbarcazione_tradizionale.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/sur-4.jpg | https://www.flickr.com/photos/116264784@N02/14933405155 | BY-SA 2.0 | Kim Kash
+highlights/salalah-3.jpg | https://www.flickr.com/photos/130649623@N05/20657165944 | BY 2.0 | riyadh.albalushi
+cities/muscat.jpg | https://commons.wikimedia.org/wiki/File:Fort_Mutrah_in_Muscat,_Oman.jpg | CC BY-SA 4.0 | Safa.daneshvar
+cities/salalah.jpg | https://commons.wikimedia.org/wiki/File:Salalah,_ad-dahariz_street,_porta_intagliata.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/muscat-1.jpg | https://commons.wikimedia.org/wiki/File:Sultan_Qaboos_Grand_Mosque_-_Outside.jpg | CC BY-SA 4.0 | Sherenk1
+highlights/muscat-4.jpg | https://commons.wikimedia.org/wiki/File:Puerto_de_Mutrah,_Om%C3%A1n,_2024-08-14,_DD_04.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/muscat-7.jpg | https://commons.wikimedia.org/wiki/File:National_museum_of_Oman.jpg | CC BY-SA 4.0 | Mohammedkhamisnasserkhamis
+highlights/nizwa-2.jpg | https://commons.wikimedia.org/wiki/File:Nizwa_souq_(8730535574).jpg | CC BY 2.0 | Francisco Anzola
+highlights/nizwa-5.jpg | https://commons.wikimedia.org/wiki/File:Misfah_(14).JPG | CC BY-SA 3.0 | Ji-Elle
+highlights/sur-2.jpg | https://www.flickr.com/photos/63503049@N03/36285822814 | BY 2.0 | travelourplanet.com
+highlights/salalah-1.jpg | https://commons.wikimedia.org/wiki/File:Al-Baleed_(Zafar)12.jpg | CC BY 2.5 | 9591353082 at English Wikipedia (original text: I am the aut
+highlights/salalah-4.jpg | https://commons.wikimedia.org/wiki/File:Wadi_darbat_(2).jpg | CC BY-SA 4.0 | Muiad123
+cities/nizwa.jpg | https://commons.wikimedia.org/wiki/File:Nizwa_Fort_and_Minaret_of_Friday_Mosque.JPG | CC BY-SA 4.0 | Martin Falbisoner
+highlights/muscat-2.jpg | https://www.flickr.com/photos/130649623@N05/22674805082 | BY 2.0 | riyadh.albalushi
+highlights/muscat-5.jpg | https://www.flickr.com/photos/10345599@N03/8727225176 | BY 2.0 | Francisco Anzola
+highlights/muscat-8.jpg | https://commons.wikimedia.org/wiki/File:Muscat,_Bait_Al_Zubair,_interno_01.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/nizwa-3.jpg | https://commons.wikimedia.org/wiki/File:Bahla_Fort.jpg | CC BY 2.0 | Francisco Anzola
+highlights/nizwa-6.jpg | https://commons.wikimedia.org/wiki/File:Jebel_Akhdar_view.jpg | CC BY 3.0 | Philipp Weigell
+highlights/sur-3.jpg | https://commons.wikimedia.org/wiki/File:Hawiyat_Najm_Dabab_Sinkhole_1.JPG | CC BY-SA 3.0 | Wusel007
+highlights/salalah-2.jpg | https://commons.wikimedia.org/wiki/File:Oman,_Salalah,_Haffa_Souq_(Souq_al-Hosn).jpg | CC BY-SA 4.0 | Dr. Thomas Liptak
+highlights/salalah-5.jpg | https://commons.wikimedia.org/wiki/File:Al_Mughsail_Beach_1.jpg | CC BY-SA 2.0 | https://www.flickr.com/photos/130649623@N05/
+gateways/gw-sll.jpg | https://commons.wikimedia.org/wiki/File:Flughafen_Salalah.jpg | CC BY-SA 4.0 | Baden65
+gateways/gw-mct.jpg | https://commons.wikimedia.org/wiki/File:Muscat_International_Airport-Arrivals2.jpg | CC BY 4.0 | Mohammad hajeer
+highlights/bethlehem-2.jpg | https://commons.wikimedia.org/wiki/File:Manger_Square.jpg | CC BY-SA 4.0 | Alexey Goral
+highlights/jericho-1.jpg | https://commons.wikimedia.org/wiki/File:Tell_es-Sultan,_Jericho,_Palestine2.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/jericho-4.jpg | https://commons.wikimedia.org/wiki/File:Palestine,_Wadi_Qelt,_Saint_George_Monastery_(7).jpg | CC BY-SA 4.0 | Britchi Mirela
+highlights/hebron-3.jpg | https://commons.wikimedia.org/wiki/File:Modern_Hebron_Glass_Factory.jpg | CC BY-SA 3.0 | Mrbrefast
+highlights/ramallah-3.jpg | https://commons.wikimedia.org/wiki/File:Al-Manara_Square,_Ramallah_02.jpg | CC BY-SA 4.0 | Davide Mauro
+cities/bethlehem.jpg | https://commons.wikimedia.org/wiki/File:Bethlehem_by_Mujaddara_-_panoramio_(2813).jpg | CC BY-SA 3.0 | Mujaddara
+cities/ramallah.jpg | https://commons.wikimedia.org/wiki/File:2003-08-30-Ramallah-01.jpg | CC BY-SA 4.0 | Gunnar Klack
+highlights/bethlehem-3.jpg | https://commons.wikimedia.org/wiki/File:Holy_Land_2016_P0008_Milk_Grotto_in_Bethlehem_entrance.jpg | CC BY-SA 4.0 | Fallaner
+highlights/bethlehem-6.jpg | https://commons.wikimedia.org/wiki/File:Herodium_from_above_2.jpg | Public domain | Asaf T.
+highlights/jericho-2.jpg | https://www.flickr.com/photos/126110866@N08/37482931086 | BY 2.0 | larrywkoester
+highlights/hebron-1.jpg | https://commons.wikimedia.org/wiki/File:Hebron_Cave_of_the_Patriarchs.jpg | CC BY-SA 4.0 | Utilisateur:Djampa - User:Djampa
+highlights/ramallah-1.jpg | https://commons.wikimedia.org/wiki/File:Entrance_of_Mausoleum_of_Yasser_Arafat_01.jpg | CC BY-SA 4.0 | Davide Mauro
+highlights/ramallah-4.jpg | https://commons.wikimedia.org/wiki/File:Taybeh_06.JPG | CC BY-SA 3.0 | Abraham Sobkowski OFM
+highlights/bethlehem-1.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity,_Bethlehem,_Palestine2.jpg | CC BY-SA 3.0 | Diego Delso
+highlights/bethlehem-4.jpg | https://commons.wikimedia.org/wiki/File:Beit-Sahour-Shepherds-Orthodox-40980.jpg | CC BY 4.0 | Bukvoed
+highlights/bethlehem-7.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mar_Saba_02.jpg | CC BY-SA 4.0 | Godot13
+highlights/jericho-3.jpg | https://www.flickr.com/photos/147860906@N07/31014955761 | BY 2.0 | DYKT Mohigan
+highlights/hebron-2.jpg | https://commons.wikimedia.org/wiki/File:Hebron_Old_city-souq.jpg | CC BY-SA 4.0 | Obada A Zatari
+highlights/ramallah-2.jpg | https://commons.wikimedia.org/wiki/File:Mahmoud_Darwish_Museum_IMG_4086.jpg | CC BY-SA 4.0 | بدارين
+
+cities/hebron.jpg | https://commons.wikimedia.org/wiki/File:Old_Hebron.jpg | CC BY-SA 4.0 | Malak Jibreel
+cities/jericho.jpg | https://commons.wikimedia.org/wiki/File:Al-Auja_Jericho_20201120_141302.jpg | CC BY-SA 4.0 | عماد الدين المقدسي
+highlights/bethlehem-5.jpg | https://www.flickr.com/photos/8328536@N06/7700900288 | BY 2.0 | neilward

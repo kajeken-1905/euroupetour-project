@@ -1484,6 +1484,38 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  om: {
+    summary: {
+      ko: '우측통행. 철도가 없어 차를 빌리거나 택시·버스로 다닙니다. 무스카트엔 시내버스(Mwasalat)와 호출 앱이 있습니다.',
+      en: 'Drive on the right. There is no railway—rent a car or use taxis and buses; Muscat has city buses (Mwasalat) and ride-hailing apps.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: 'Mwasalat 장거리 버스가 무스카트와 니즈와·수르·살랄라를 잇고, 살랄라는 비행기로 약 1시간 40분입니다. 산과 와디는 사륜구동 차가 필요한 곳이 많습니다.',
+      en: 'Mwasalat intercity buses link Muscat with Nizwa, Sur and Salalah; Salalah is about 1 hr 40 by air. Many mountain and wadi roads need a four-wheel drive.',
+    },
+    paymentTip: {
+      ko: '미터기 없는 택시가 많으니 타기 전에 요금을 정하거나 요금이 미리 나오는 호출 앱(Yango 등)을 쓰세요.',
+      en: 'Many taxis have no meter—agree the fare first, or use a ride-hailing app that shows it in advance (e.g. Yango).',
+    },
+    apps: [],
+  },
+  ps: {
+    summary: {
+      ko: '우측통행. 예루살렘 다마스쿠스 문 근처에서 베들레헴·라말라행 아랍 버스가 다니고, 도시 사이는 합승 택시(세르비스)로 다닙니다.',
+      en: 'Drive on the right. Arab buses to Bethlehem and Ramallah leave from near Jerusalem’s Damascus Gate, and shared taxis (servees) link the towns.',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '예루살렘에서 베들레헴·라말라까지 버스로 약 30~45분입니다. 이스라엘과 서안 사이엔 검문소가 있어 시간이 더 걸릴 수 있습니다.',
+      en: 'Buses take about 30–45 min from Jerusalem to Bethlehem or Ramallah; checkpoints between Israel and the West Bank can add time.',
+    },
+    paymentTip: {
+      ko: '버스와 세르비스는 현금(셰켈)으로 냅니다. 택시는 타기 전에 요금을 정하세요.',
+      en: 'Pay buses and servees in cash (shekels); agree taxi fares before you set off.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

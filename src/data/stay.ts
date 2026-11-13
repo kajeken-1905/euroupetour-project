@@ -356,6 +356,31 @@ export const STAY: Record<string, StayArea[]> = {
   ghardaia: [
     a('가르다이아 시내', 'Ghardaïa town', 'Ghardaïa', '처음 가는 여행에 추천|Best for a first visit', '시장 광장과 가이드 사무소가 가깝습니다.|Close to the market square and the guide offices.'),
   ],
+  muscat: [
+    a('무트라', 'Mutrah', 'Mutrah Muscat', '처음 가는 여행에 추천|Best for a first visit', '수크·코니시·옛 무스카트가 가깝습니다.|Close to the souq, the corniche and old Muscat.'),
+    a('쿠룸·샤티 알 쿠룸', 'Qurum & Shatti Al Qurum', 'Shatti Al Qurum', '바닷가 호텔|Beach hotels', '해변 호텔과 식당이 모여 있고 오페라 하우스가 가깝습니다.|Beach hotels and restaurants, close to the opera house.'),
+  ],
+  nizwa: [
+    a('니즈와 시내', 'Nizwa town', 'Nizwa', '처음 가는 여행에 추천|Best for a first visit', '요새와 수크를 걸어서 보고, 근교는 차로 다녀옵니다.|Walk to the fort and souq; drive to the sights around.'),
+  ],
+  sur: [
+    a('수르 시내', 'Sur town', 'Sur Oman', '처음 가는 여행에 추천|Best for a first visit', '다우 조선소와 바닷가가 가깝고, 와디와 거북 해변은 차로 다녀옵니다.|Close to the dhow yard and the seafront; drive to the wadis and turtle beach.'),
+  ],
+  salalah: [
+    a('살랄라 시내·알 하파', 'Salalah centre & Al Haffa', 'Al Haffa Salalah', '처음 가는 여행에 추천|Best for a first visit', '유향 시장과 알 발리드가 가깝습니다.|Close to the frankincense souq and Al Baleed.'),
+  ],
+  bethlehem: [
+    a('구유 광장 주변', 'Around Manger Square', 'Manger Square Bethlehem', '처음 가는 여행에 추천|Best for a first visit', '성탄 교회와 옛 시가를 걸어서 봅니다.|Walk to the Church of the Nativity and the old town.'),
+  ],
+  jericho: [
+    a('예리코 시내', 'Jericho town', 'Jericho', '처음 가는 여행에 추천|Best for a first visit', '유적과 케이블카가 차로 몇 분 거리입니다.|The sites and the cable car are a few minutes away by car.'),
+  ],
+  hebron: [
+    a('베들레헴', 'Bethlehem', 'Bethlehem', '거점에서 다녀오기|Day trip from a base', '베들레헴에서 버스로 약 45분입니다.|About 45 min by bus from Bethlehem.'),
+  ],
+  ramallah: [
+    a('알 마나라 광장 주변', 'Around Al-Manara Square', 'Al-Manara Square Ramallah', '처음 가는 여행에 추천|Best for a first visit', '시내 카페·식당과 버스 터미널이 가깝습니다.|Close to the cafés, restaurants and bus station.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

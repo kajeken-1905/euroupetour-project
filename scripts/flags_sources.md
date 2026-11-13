@@ -34,3 +34,5 @@ Two edits on each file's root <svg>:
 - ye.svg — File:Flag_of_Yemen.svg (public domain; viewBox added), added 2026-11-12
 - sy.svg — File:Flag_of_Syria_(2025-).svg (public domain; viewBox added), added 2026-11-12
 - af.svg — File:Flag_of_Afghanistan_(2013–2021).svg (public domain; viewBox added; tricolour used because Korea and the UN do not recognise the Taliban government), added 2026-11-12
+- om.svg — File:Flag_of_Oman.svg (public domain; viewBox added), added 2026-11-12
+- ps.svg — File:Flag_of_Palestine.svg (public domain; preserveAspectRatio added), added 2026-11-12

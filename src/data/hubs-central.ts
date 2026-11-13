@@ -700,6 +700,29 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   herat: {
     air: [['Herat International (HEA)', '헤라트 국제공항 (HEA)', '시내에서 남쪽으로 약 15km|about 15 km south of the centre']],
   },
+  muscat: {
+    air: [['Muscat International (MCT)', '무스카트 국제공항 (MCT)', '무트라까지 차로 약 30분|about 30 min to Mutrah by car']],
+    bus: [['Mwasalat Ruwi bus station', '루위 버스 터미널', '니즈와·수르·살랄라행|to Nizwa, Sur and Salalah']],
+  },
+  nizwa: {
+    bus: [['Nizwa bus stop', '니즈와 버스 정류장', '무스카트행|to Muscat']],
+  },
+  sur: {
+    bus: [['Sur bus stop', '수르 버스 정류장', '무스카트행|to Muscat']],
+  },
+  salalah: {
+    air: [['Salalah International (SLL)', '살랄라 국제공항 (SLL)', '시내까지 차로 약 10분|about 10 min to the city by car']],
+  },
+  bethlehem: {
+    bus: [['Bab al-Zqaq bus stop', '바브 알 즈칵 정류장', '예루살렘행 231번 버스|bus 231 to Jerusalem']],
+  },
+  jericho: {
+  },
+  hebron: {
+  },
+  ramallah: {
+    bus: [['Ramallah central bus station', '라말라 중앙 버스 터미널', '예루살렘·서안 각 도시행|to Jerusalem and other West Bank towns']],
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

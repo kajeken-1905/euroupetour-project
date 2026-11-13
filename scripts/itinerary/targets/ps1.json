@@ -1,0 +1,20 @@
+{
+ "bethlehem-h1": ["Church of the Nativity", "Church of the Nativity"],
+ "bethlehem-h2": ["Manger Square", "Manger Square"],
+ "bethlehem-h3": ["Milk Grotto", "Milk Grotto"],
+ "bethlehem-h4": ["Shepherds' Field, Beit Sahour", "Shepherds' Field"],
+ "bethlehem-h5": ["Walled Off Hotel", "The Walled Off Hotel"],
+ "bethlehem-h6": ["Herodium", "Herodium"],
+ "bethlehem-h7": ["Mar Saba", "Mar Saba"],
+ "jericho-h1": ["Tell es-Sultan", "Tell es-Sultan"],
+ "jericho-h2": ["Monastery of the Temptation", "Monastery of the Temptation"],
+ "jericho-h3": ["Hisham's Palace", "Hisham's Palace"],
+ "jericho-h4": ["St. George's Monastery, Wadi Qelt", "Saint George's Monastery, Al Qelt"],
+ "hebron-h1": ["Ibrahimi Mosque", "Cave of the Patriarchs"],
+ "hebron-h2": ["Old City of Hebron", "Hebron/Al-Khalil Old Town"],
+ "hebron-h3": ["Hebron Glass", "Hebron glass"],
+ "ramallah-h1": ["Yasser Arafat Museum", "Yasser Arafat Museum"],
+ "ramallah-h2": ["Mahmoud Darwish Museum", "Mahmoud Darwish Museum"],
+ "ramallah-h3": ["Al-Manara Square", "Al-Manara Square"],
+ "ramallah-h4": ["Taybeh Brewing Company", "Taybeh Brewing Company"]
+}

@@ -1214,6 +1214,47 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('여행금지국이라 외교부의 예외적 여권 사용 허가 없이는 입국할 수 없고, 어기면 여권법에 따라 처벌받습니다. 무비자·도착 비자 모두 안 됩니다. 허가를 받아도 경비 업체의 무장 경호와 방탄 차량을 준비하라고 안내합니다.', 'As a travel-ban country, Afghanistan cannot be entered without the Korean Foreign Ministry’s exceptional passport-use permission; violations are punishable under the Passport Act. There is neither visa-free entry nor a visa on arrival. Even with permission, the ministry advises armed security escorts and armoured vehicles.'),
     telecom: T('한국 통신사 로밍 가능 여부를 출발 전에 확인하세요.', 'Check roaming with your carrier before you go.'),
   },
+  om: {
+    // Korean Foreign Ministry travel-safety page for Oman (0404.go.kr/ntnSafetyInfo/162/detail), 2026-11.
+    emergency: [num('9999', '경찰·소방', 'Police and fire')],
+    embassy: {
+      name: T('주오만 대한민국 대사관', 'Korean Embassy in Oman'),
+      address: 'Plot 42, Jamiat Al Duwal Al Arabia Street, Muscat',
+      phone: '+968-2469-1490',
+      afterHours: '+968-9823-2554',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/162/detail',
+    },
+    power: T('240V · 50Hz, G형(영국식 3핀) 콘센트가 흔합니다. 한국 플러그는 어댑터가 필요합니다.', '240V, 50Hz, mostly type G (British three-pin) sockets; Korean plugs need an adapter.'),
+    tipping: T('호텔과 고급 식당은 봉사료 8%와 세금 9%를 더하므로 따로 팁을 주지 않아도 됩니다.', 'Hotels and upscale restaurants add an 8% service charge and 9% tax, so no extra tip is needed.'),
+    water: WATER_BOTTLED,
+    shops: T('카드가 널리 쓰이지만 시장과 작은 가게는 현금이 편합니다. 리알은 단위가 큰 통화라 값을 잘 확인하세요.', 'Cards are widely accepted, but cash is easier in souqs and small shops. The rial is a high-value currency, so check prices carefully.'),
+    toilets: T('쇼핑몰·박물관·주유소 화장실을 이용합니다.', 'Use toilets in malls, museums and petrol stations.'),
+    time: T('UTC+4, 서머타임 없음. 한국보다 5시간 늦습니다.', 'UTC+4 with no daylight saving: 5 hours behind Korea.'),
+    safety: T('외교부 여행경보: 2026년 3월 8일 중동 정세로 오만이 3단계(출국권고)로 올랐습니다. 오만은 교통사고 사망률이 높아 운전에 특히 조심하고, 비가 오면 와디가 갑자기 물에 잠기니 건너지 마세요. 거리에서 여성을 촬영하지 마세요. 술·돼지고기·도박은 금기이고, 라마단 기간엔 낮에 공공장소에서 먹고 마시지 않습니다.', 'Korean travel alert: Oman was raised to level 3 (leave the country) on 8 March 2026 because of the Middle East situation. Oman has a high road-death rate, so drive with great care, and don’t cross wadis when it rains—they flood suddenly. Don’t photograph women in the street. Alcohol, pork and gambling are taboo, and during Ramadan don’t eat or drink in public by day.'),
+    entry: T('한국 일반 여권은 30일까지 비자 없이 머물 수 있습니다(상호주의). 입국 심사에서 14일만 주는 경우가 있으니 한국인이라 말하고 30일을 확인하세요. 30일 넘게 머물려면 왕립 경찰 전자 비자(evisa.rop.gov.om, 20리알)를 미리 받습니다. 돌아가는 항공권이나 숙소를 물어볼 수 있습니다.', 'Ordinary Korean passports get 30 days visa-free (reciprocity). Officers sometimes stamp only 14 days—say you are Korean and check for 30. For longer stays, get a Royal Oman Police e-visa (evisa.rop.gov.om, RO 20) in advance. Officers may ask for an onward ticket or hotel booking.'),
+    telecom: T('주요 통신사는 Omantel·Ooredoo·Vodafone입니다. 공항에서 유심·eSIM을 살 수 있습니다.', 'Main operators: Omantel, Ooredoo and Vodafone; SIMs and eSIMs are sold at the airport.'),
+  },
+  ps: {
+    // Korean Foreign Ministry travel-safety page for the Palestinian territories (0404.go.kr/ntnSafetyInfo/398/detail), 2026-11.
+    emergency: [num('100', '경찰', 'Police'), num('101', '구급', 'Ambulance'), num('102', '소방', 'Fire')],
+    embassy: {
+      name: T('주팔레스타인 대한민국 대표사무소', 'Korean Representative Office to Palestine'),
+      address: 'Al-Quds St. 17, PADICO Building 5F, Al-Masyoun, Ramallah',
+      phone: '+972-2-240-2846',
+      afterHours: '+972-50-528-8345',
+      note: T('근무 시간 밖 사건·사고는 주이스라엘 대사관의 담당 영사가 받습니다(위 번호).', 'Out of hours, the duty consul at the Korean Embassy in Israel answers (the number above).'),
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/398/detail',
+    },
+    power: T('230V · 50Hz, C·H형 콘센트로 한국 플러그는 대부분 맞지만 H형엔 어댑터가 필요합니다.', '230V, 50Hz, type C and H sockets; Korean plugs fit type C, but type H needs an adapter.'),
+    tipping: T('봉사료가 없으면 식당에선 10% 안팎, 호텔 객실엔 5셰켈 정도를 둡니다. 택시는 팁이 없습니다.', 'If service isn’t included, leave about 10% in restaurants and about ₪5 for hotel housekeeping; no tip for taxis.'),
+    water: WATER_BOTTLED,
+    shops: T('이스라엘 셰켈을 쓰고 달러·요르단 디나르도 받습니다. 금요일엔 오후 2시까지 대부분 가게가 닫습니다.', 'Shekels are used, and dollars and Jordanian dinars are accepted. Most shops close on Friday until 2 pm.'),
+    toilets: T('식당·호텔 화장실을 이용합니다.', 'Use toilets in restaurants and hotels.'),
+    time: T('UTC+2(서머타임 기간 UTC+3). 한국보다 7시간(서머타임 6시간) 늦습니다.', 'UTC+2 (UTC+3 in summer): 7 hours behind Korea (6 in summer).'),
+    safety: T('외교부 여행경보: 가자지구는 4단계(여행금지), 라말라·베들레헴·헤브론·예리코 등 서안 지역은 3단계(출국권고)입니다. 이스라엘에서 들어올 때 검문소를 지나므로 여권과 이스라엘 입국 서류를 늘 지니세요. 이스라엘 번호판 렌터카 도난이 잦고 대부분의 렌터카 회사가 서안 진입을 막습니다. 되도록 2명 이상 함께 다니고, 주택가에선 단정하게 입으세요.', 'Korean travel alert: Gaza is level 4 (travel ban), and the West Bank—Ramallah, Bethlehem, Hebron, Jericho and others—level 3 (leave the country). Entering from Israel means passing checkpoints, so always carry your passport and Israeli entry document. Israeli-plated rental cars are often stolen, and most rental firms don’t allow them into the West Bank. Travel in twos or more where possible, and dress modestly in residential areas.'),
+    entry: T('서안은 이스라엘(벤구리온 공항)이나 요르단에서 들어갑니다. 아랍 국가 출입국 도장이 많거나 팔레스타인 방문이 목적이라고 말하면 이스라엘 입국 심사가 길어지거나 거부되기도 한다고 외교부가 안내합니다.', 'The West Bank is reached through Israel (Ben Gurion Airport) or from Jordan. The Korean ministry notes that many Arab-country stamps, or stating a Palestine visit as your purpose, can mean long questioning or refusal at Israeli immigration.'),
+    telecom: T('팔레스타인 통신사(Jawwal·Ooredoo)와 이스라엘 통신사가 함께 잡힙니다. 한국 로밍 요금을 출발 전에 확인하세요.', 'Both Palestinian (Jawwal, Ooredoo) and Israeli networks are available; check roaming rates before you go.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

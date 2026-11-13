@@ -276,6 +276,38 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/284/detail',
   },
+  // 0404.go.kr Oman page: level 3 (leave the country) since the 2026-03-08 Middle East raise; notices 2026-09-24, 2026-10-26.
+  om: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고', en: 'Korean travel alert · level 3, leave the country' },
+    lines: [
+      {
+        ko: '중동 정세로 2026년 3월 8일부터 오만이 3단계(출국권고) 지역입니다. 여행 예정이면 취소하거나 미루고, 머무는 중이면 꼭 필요한 일이 아니면 출국하라는 단계입니다.',
+        en: 'Because of the Middle East situation, Oman has been at level 3 (leave the country) since 8 March 2026: cancel or postpone planned trips, and leave unless your stay is essential.',
+      },
+      {
+        ko: '외교부는 2026년 9월 24일과 10월 26일 중동 정세에 따른 신변 안전 유의를 공지했습니다. 출발 전 최신 공지를 꼭 확인하세요.',
+        en: 'On 24 September and 26 October 2026 the ministry advised caution because of the Middle East situation. Check the latest notices before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/162/detail',
+  },
+  // 0404.go.kr Palestinian territories page: Gaza travel ban (to 2027-01-31 per the 2026-07-09 notice), the rest level 3; notices 2026-09-22, 2026-10-26.
+  ps: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고 / 가자지구 4단계 여행금지', en: 'Korean travel alert · level 3, with Gaza a level-4 travel-ban area' },
+    lines: [
+      {
+        ko: '가자지구는 4단계(여행금지) 지역으로, 허가 없이 가면 여권법에 따라 처벌받을 수 있습니다. 이 앱은 가자지구를 다루지 않습니다.',
+        en: 'Gaza is a level-4 travel-ban area; going without permission can be punished under the Passport Act. This app does not cover Gaza.',
+      },
+      {
+        ko: '라말라·베들레헴·헤브론·예리코 등 서안 지역은 3단계(출국권고)로, 외교부는 되도록 출입을 자제하라고 권고합니다. 2026년 9월 22일과 10월 26일 중동 정세 관련 긴급 안전 공지가 나왔으니 출발 전 꼭 확인하세요.',
+        en: 'The West Bank—Ramallah, Bethlehem, Hebron, Jericho and others—is level 3 (leave the country), and the ministry advises staying away where possible. Urgent safety notices on the Middle East were issued on 22 September and 26 October 2026—check them before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/398/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

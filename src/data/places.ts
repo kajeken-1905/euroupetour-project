@@ -68,6 +68,8 @@ import { placesAEExtra } from './places-ae-extra'
 import { placesSAExtra } from './places-sa-extra'
 import { placesKWExtra } from './places-kw-extra'
 import { placesDZExtra } from './places-dz-extra'
+import { placesOMExtra } from './places-om-extra'
+import { placesPSExtra } from './places-ps-extra'
 import { sortByRating } from '../utils/sortByRating'
 
 export const places: Place[] = [
@@ -134,6 +136,8 @@ export const places: Place[] = [
   ...placesSAExtra,
   ...placesKWExtra,
   ...placesDZExtra,
+  ...placesOMExtra,
+  ...placesPSExtra,
   ...placesUAExtra,
   ...placesMDExtra,
   ...placesAMExtra,

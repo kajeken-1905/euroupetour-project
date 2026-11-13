@@ -3091,6 +3091,78 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  muscat: {
+    modes: ['bus', 'rideshare', 'taxi'],
+    howTo: {
+      ko: '도시가 길게 퍼져 있어 호출 앱이나 택시로 다닙니다. 무트라와 옛 무스카트는 걸을 만합니다.',
+      en: 'The city sprawls, so use ride-hailing or taxis; Mutrah and old Muscat are walkable.',
+    },
+    apps: [
+    ],
+  },
+  nizwa: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '요새와 수크는 걸어서, 근교는 차를 빌려 다닙니다.',
+      en: 'Walk the fort and souq; rent a car for the sights around.',
+    },
+    apps: [
+    ],
+  },
+  sur: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차를 빌려 다니는 것이 편합니다.',
+      en: 'A rental car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  salalah: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차를 빌려 다니는 것이 편합니다.',
+      en: 'A rental car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  bethlehem: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '옛 시가는 걸어서, 목자들의 들판과 근교는 택시로 다닙니다.',
+      en: 'Walk the old town; take taxis to Shepherds’ Field and the sights around.',
+    },
+    apps: [
+    ],
+  },
+  jericho: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '유적 사이는 택시로 다닙니다.',
+      en: 'Take taxis between the sites.',
+    },
+    apps: [
+    ],
+  },
+  hebron: {
+    modes: ['taxi', 'walk'],
+    howTo: {
+      ko: '옛 시가는 걸어서 봅니다.',
+      en: 'Explore the old town on foot.',
+    },
+    apps: [
+    ],
+  },
+  ramallah: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '시내는 걸어서, 근교는 택시나 세르비스로 다닙니다.',
+      en: 'Walk the centre; take taxis or servees farther out.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {
