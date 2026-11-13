@@ -745,7 +745,13 @@ export const countries: Country[] = [
       background: '#F8E9EC',
       text: '#14040A',
     },
-    cityIds: ['oslo', 'bergen', 'tromso', 'stavanger', 'trondheim', 'alesund', 'flam'],
+    cityIds: ['oslo', 'bergen', 'stavanger', 'flam', 'alesund', 'trondheim', 'tromso'],
+    cityGroups: [
+      { title: { ko: '동부', en: 'Eastern Norway' }, cityIds: ['oslo'] },
+      { title: { ko: '서부 피오르', en: 'Western fjords' }, cityIds: ['bergen', 'stavanger', 'flam', 'alesund'] },
+      { title: { ko: '중부', en: 'Central Norway' }, cityIds: ['trondheim'] },
+      { title: { ko: '북부', en: 'Northern Norway' }, cityIds: ['tromso'] },
+    ],
   },
   {
     id: 'is',

@@ -9672,5 +9672,140 @@
     37.32475,
     26.53816,
     "OSM Nominatim: Πάτμος, Κάμπος, Δήμος Πάτμου, Περιφερειακή Ενότητα Καλύμνου,"
+  ],
+  "oslo-h8": [
+    59.9076,
+    10.73721,
+    "OSM Nominatim: Akershus festning, Operatunnelen / Festningstunnelen, Akersh (Wikipedia 120m)"
+  ],
+  "oslo-h9": [
+    59.91208,
+    10.73372,
+    "OSM Nominatim: Oslo rådhus, Hieronymus Heyerdahls gate, Vika, Sentrum, Oslo (Wikipedia 36m)"
+  ],
+  "oslo-h10": [
+    59.91163,
+    10.72842,
+    "OSM Nominatim: Nasjonalmuseet, Munkedamsveien, Vika, Frogner, Oslo, 0251, N (Wikipedia 44m)"
+  ],
+  "oslo-h11": [
+    59.90336,
+    10.69955,
+    "OSM Nominatim: Framhuset;Frammuseet, Bygdøynesveien, Skarpsno, Frogner, Osl (Wikipedia 7m)"
+  ],
+  "oslo-h12": [
+    59.90351,
+    10.69806,
+    "OSM Nominatim: Kon-Tiki Museet, Bygdøynesveien, Skarpsno, Frogner, Oslo, 02 (Wikipedia 12m)"
+  ],
+  "oslo-h13": [
+    59.90681,
+    10.68436,
+    "OSM Nominatim: Norsk Folkemuseum, Strømsborgveien, Bygdøy, Frogner, Oslo, 0 (Wikipedia 90m)"
+  ],
+  "oslo-h14": [
+    59.91418,
+    10.73753,
+    "OSM Nominatim: Karl Johans gate, Tullin, Kvadraturen, Sentrum, Oslo, 0162,  (Wikipedia 223m)"
+  ],
+  "oslo-h15": [
+    59.92547,
+    10.77742,
+    "OSM Nominatim: Grünerløkka, Oslo, Norge"
+  ],
+  "oslo-h16": [
+    59.89512,
+    10.7379,
+    "OSM Nominatim: Hovedøya, Gamle Oslo, Oslo, Norge (Wikipedia 599m)"
+  ],
+  "bergen-h7": [
+    60.40011,
+    5.31785,
+    "OSM Nominatim: Bergenhus festning, Skuteviken, Bergenhus, Bergen, Vestland, (Wikipedia 54m)"
+  ],
+  "bergen-h8": [
+    60.39965,
+    5.30374,
+    "OSM Nominatim: Akvariet i Bergen, Nordnesbakken, Nordnes, Skuteviken, Berge (Wikipedia 6m)"
+  ],
+  "bergen-h10": [
+    60.41794,
+    5.31114,
+    "OSM Nominatim: Gamle Bergen, Elsesro, Ytre Sandviken, Skuteviken, Bergenhus"
+  ],
+  "bergen-h11": [
+    60.37125,
+    6.14596,
+    "OSM Nominatim: Norheimsund, Kvam herad, Vestland, 5610, Norge (Wikipedia 44m)"
+  ],
+  "tromso-h6": [
+    69.65221,
+    18.96332,
+    "OSM Nominatim: Polarmuseet, Søndre Tollbodgate, Vervet, Hansjordnesbukta, T"
+  ],
+  "tromso-h7": [
+    69.64587,
+    18.95026,
+    "OSM Nominatim: Ludwig Mack Brygghus, Storgata, Mackkvartalet, Sørbyen, Trom"
+  ],
+  "stavanger-h7": [
+    59.03373,
+    6.59327,
+    "OSM Nominatim: Kjeragbolten, Nilsebuvegen, Lysebotn, Sandnes, Rogaland, 412 (Wikipedia 0m)"
+  ],
+  "stavanger-h8": [
+    58.97272,
+    5.73352,
+    "OSM Nominatim: Øvre Holmegate, Holmen, Storhaug, Stavanger, Rogaland, 4006, (Wikipedia 326m)"
+  ],
+  "stavanger-h9": [
+    58.94137,
+    5.6719,
+    "OSM Nominatim: Sverd i fjell, Hafrsfjordruta, Nov, Madla, Stavanger, Sola,  (Wikipedia 35m)"
+  ],
+  "stavanger-h10": [
+    58.9724,
+    5.72517,
+    "OSM Nominatim: Norsk Hermetikkmuseum, Øvre Strandgate, Gamle Stavanger, Str"
+  ],
+  "trondheim-h6": [
+    63.4261,
+    10.39599,
+    "OSM Nominatim: Erkebispegården, Elgeseter, Midtbyen, Trondheim, Trøndelag,  (Wikipedia 74m)"
+  ],
+  "trondheim-h8": [
+    63.41976,
+    10.35891,
+    "OSM Nominatim: Sverresborg Trøndelag Folkemuseum, Hyllveien, Schøningsdal, "
+  ],
+  "trondheim-h9": [
+    63.45231,
+    10.38378,
+    "OSM Nominatim: Munkholmen, Midtbyen, Trondheim, Trøndelag, Norge (Wikipedia 110m)"
+  ],
+  "alesund-h5": [
+    62.46558,
+    6.09603,
+    "OSM Nominatim: Atlanterhavsparken, Tuenesvegen, Drevik, Skarbøvik, Ålesund,"
+  ],
+  "alesund-h6": [
+    62.46891,
+    6.23624,
+    "OSM Nominatim: Sunnmøre museum, Museumsvegen, Skuggen, Larsgården, Nørvasun"
+  ],
+  "flam-h5": [
+    60.90863,
+    7.21177,
+    "OSM Nominatim: Stegastein, Lunde, Aurlandsvangen, Aurland, Vestland, 5745,  (Wikipedia 10m)"
+  ],
+  "flam-h6": [
+    60.95091,
+    7.10474,
+    "OSM Nominatim: Undredal, Aurland, Vestland, 5746, Norge (Wikipedia 178m)"
+  ],
+  "flam-h7": [
+    60.87688,
+    7.14704,
+    "OSM Nominatim: Otternes, Strandavegen, Åtnes, Flåm, Aurland, Vestland, 5743 (Wikipedia 238m)"
   ]
 }

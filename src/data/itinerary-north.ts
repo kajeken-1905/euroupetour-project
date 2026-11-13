@@ -2,18 +2,41 @@ import type { RawItinerary } from './itinerary-helper'
 
 /** Nordics, Baltics, Poland, Czechia, Slovakia, Hungary, the Faroes, Greenland, Russia and Belarus. */
 export const itineraryNorth: Record<string, RawItinerary> = {
-  oslo: [2, 6, 4, 1, 3],
+  oslo: {
+    days: [
+      ['시내 중심과 항구|Centre & harbour', 1, 14, 9, 10, 8, 4],
+      ['뷔그되위와 오페라 하우스|Bygdøy & the Opera House', 13, 11, 12, 2, 6],
+      ['비겔란 공원과 홀멘콜렌|Vigeland & Holmenkollen', 3, 7, 15],
+    ],
+    trips: [['오슬로 피오르 섬|Oslofjord islands', 16]],
+  },
   bergen: {
     days: [
-      ['브뤼겐과 플뢰위엔|Bryggen & Fløyen', 3, 1, 2, 5],
-      ['트롤하우겐과 울리켄|Troldhaugen & Ulriken', 4, 6],
+      ['브뤼겐과 플뢰위엔|Bryggen & Fløyen', 3, 1, 7, 10, 2],
+      ['미술관과 트롤하우겐|Museums & Troldhaugen', 8, 5, 4, 9, 6],
+    ],
+    trips: [['하르당에르피오르|Hardangerfjord', 11]],
+  },
+  tromso: {
+    days: [['', 5, 6, 7, 4, 1, 2]],
+    trips: [
+      ['피오르 크루즈|Fjord cruise', 3],
+      ['오로라 투어|Northern lights tour', 8],
+      ['개썰매·순록 농장|Dog sledding & reindeer', 9],
+      ['소마뢰위|Sommarøy', 10],
     ],
   },
-  tromso: { days: [['', 5, 4, 1, 2]], trips: [['피오르 크루즈|Fjord cruise', 3]] },
-  stavanger: { days: [['', 2, 5, 4, 3]], trips: [['프레이케스톨렌|Preikestolen', 1]] },
-  trondheim: [1, 2, 3, 4, 5],
-  alesund: { days: [['', 2, 4, 1]], trips: [['주변 섬|Nearby islands', 3]] },
-  flam: [1, 4, 2, 3],
+  stavanger: {
+    days: [['', 2, 10, 8, 4, 5, 3, 9]],
+    trips: [
+      ['프레이케스톨렌|Preikestolen', 1],
+      ['뤼세피오르 크루즈|Lysefjord cruise', 6],
+      ['셰라그볼텐|Kjeragbolten', 7],
+    ],
+  },
+  trondheim: { days: [['', 1, 6, 4, 2, 3, 7], ['', 5, 8]], trips: [['뭉크홀멘섬|Munkholmen', 9]] },
+  alesund: { days: [['', 2, 4, 1], ['', 5, 6]], trips: [['주변 섬|Nearby islands', 3]] },
+  flam: { days: [['', 1, 4, 7, 3, 5]], trips: [['내뢰위피오르 크루즈|Nærøyfjord cruise', 2], ['운드레달|Undredal', 6]] },
   helsinki: { days: [['', 4, 7, 1, 3, 5]], trips: [['수오멘린나|Suomenlinna', 2]] },
   turku: [2, 4, 3, 5, 1],
   tampere: {

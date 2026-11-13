@@ -3619,3 +3619,36 @@ gateways/gw-efl.jpg | https://commons.wikimedia.org/wiki/File:Kefalonia_Airport.
 gateways/gw-pas.jpg | https://commons.wikimedia.org/wiki/File:Paros_Airport.jpg | CC BY-SA 4.0 | Felix Riehle
 gateways/gw-mlo.jpg | https://commons.wikimedia.org/wiki/File:Milos_Airport_terminal_2.jpg | CC BY 2.5 | Daquella manera
 gateways/gw-kgs.jpg | https://commons.wikimedia.org/wiki/File:Olympic_Bombadier_Q400_NextGen_SX-OBD-Kos_airport-01ASD.jpg | CC BY-SA 4.0 | Asurnipal
+highlights/oslo-8.jpg | https://commons.wikimedia.org/wiki/File:Akershus_festning.jpg | CC BY-SA 4.0 | Pudelek (Marcin Szala)
+highlights/oslo-12.jpg | https://commons.wikimedia.org/wiki/File:%22Ein_Denkmal_f%C3%BCr_Thor_Heyerdahl%22_-_Das_Kon-Tiki_Museum_in_Oslo._09.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/oslo-16.jpg | https://commons.wikimedia.org/wiki/File:Hoved%C3%B8ya_aerial.jpg | CC BY-SA 2.0 | Wilhelm Joys Andersen from Oslo, Norway
+highlights/bergen-10.jpg | https://commons.wikimedia.org/wiki/File:Gamle_Bergen_Norway_2009_18.jpg | CC BY-SA 3.0 | Sveter
+highlights/tromso-8.jpg | https://commons.wikimedia.org/wiki/File:Northern_Lights_-_Aurora_Borealis_Ringvass%C3%B8ya_Troms%C3%B8_Norway.jpg | CC BY-SA 4.0 | Svein-Magne Tunli - tunliweb.no
+highlights/stavanger-7.jpg | https://commons.wikimedia.org/wiki/File:Kjerag_with_rainbow.jpg | CC BY-SA 4.0 | Christer Tjessem
+highlights/alesund-5.jpg | https://www.flickr.com/photos/42142275@N04/15910520253 | BY-SA 2.0 | Steffen239
+highlights/flam-7.jpg | https://commons.wikimedia.org/wiki/File:2006_05_14_Otternes_014.jpg | CC BY 2.5 | 
+highlights/oslo-9.jpg | https://commons.wikimedia.org/wiki/File:Oslo_City_Hall_20180728-2.jpg | CC BY-SA 4.0 | Suicasmo
+highlights/oslo-13.jpg | https://commons.wikimedia.org/wiki/File:Norsk_Folkemuseum,_esposizione_di_arte_sacra_(church_art)_02.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/bergen-7.jpg | https://commons.wikimedia.org/wiki/File:Bergenhus_Fortress_Museum5034.JPG | CC BY-SA 4.0 | יעקב
+highlights/bergen-11.jpg | https://commons.wikimedia.org/wiki/File:Norheimsund_i_Kvam.JPG | CC BY-SA 3.0 | Jan Aril Sivertsen
+highlights/tromso-9.jpg | https://www.flickr.com/photos/44908367@N08/33805084861 | BY 2.0 | m_p_king
+highlights/stavanger-8.jpg | https://commons.wikimedia.org/wiki/File:%C3%98vre_Holmegate,_Stavanger.jpg | CC BY-SA 4.0 | Vogler
+highlights/trondheim-7.jpg | https://commons.wikimedia.org/wiki/File:Fortaleza_de_Kristiansten,_Trondheim,_Noruega,_2019-09-06,_DD_65-73_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/alesund-6.jpg | https://commons.wikimedia.org/wiki/File:Alesund_Sunnmore_museum_Fjordmannstove_02.jpg | CC BY-SA 4.0 | Ad Meskens
+highlights/oslo-10.jpg | https://commons.wikimedia.org/wiki/File:Nye_Nasjonalmuseet_(2022)_(2).jpg | CC BY-SA 4.0 | Premeditated
+highlights/oslo-14.jpg | https://commons.wikimedia.org/wiki/File:Troops_lining_Karl_Johans_gate_12.jpg | CC BY-SA 4.0 | Birgit Fostervold
+highlights/bergen-8.jpg | https://commons.wikimedia.org/wiki/File:Penguins_Akvariet_i_Bergen_(2022)_(2).jpg | CC BY-SA 4.0 | Premeditated
+highlights/tromso-6.jpg | https://www.flickr.com/photos/73293249@N00/48467659056 | BY-SA 2.0 | Olivier Bruchez
+highlights/tromso-10.jpg | https://commons.wikimedia.org/wiki/File:Rorbuer_sommar%C3%B8y.jpg | CC BY-SA 4.0 | Harald Groven
+highlights/stavanger-9.jpg | https://commons.wikimedia.org/wiki/File:Sverd_I_Fjell_Stavanger_Norway_Landscape_Travel_Photography_(120169943).jpeg | CC BY 3.0 | Giuseppe Milo
+highlights/trondheim-8.jpg | https://www.flickr.com/photos/20947932@N04/30780425366 | BY-SA 2.0 | JUMBOROIS
+highlights/flam-5.jpg | https://commons.wikimedia.org/wiki/File:2023-07-05-Stegastein-6849.jpg | CC BY-SA 4.0 | Superbass
+highlights/oslo-11.jpg | https://commons.wikimedia.org/wiki/File:%22Die_Fram_wurde_bei_drei_ber%C3%BChmten_Polarexpeditionen_eingesetzt%22._01.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/oslo-15.jpg | https://commons.wikimedia.org/wiki/File:Gr%C3%BCnerl%C3%B8kka_2026_mars_20.jpg | CC BY-SA 4.0 | Øyvind Holmstad
+highlights/bergen-9.jpg | https://commons.wikimedia.org/wiki/File:Fantoft_stave_church_(52606262661).jpg | CC BY 2.0 | Maarten Heerlien from Voorschoten, The Netherlands
+highlights/tromso-7.jpg | https://commons.wikimedia.org/wiki/File:Mack_East,_Troms%C3%B8.jpg | CC BY-SA 3.0 | Manxruler
+highlights/stavanger-6.jpg | https://commons.wikimedia.org/wiki/File:%27Fjordbuen%27_Lysefjord_cruise_boat_-_Norway_-_panoramio.jpg | CC BY-SA 3.0 | Sergey Ashmarin
+highlights/stavanger-10.jpg | https://commons.wikimedia.org/wiki/File:IDDIS_Norsk_grafisk_museum_og_Norsk_hermetikkmuseum_(Norwegian_Printing_Canning_Museum)_Stavanger_Norway_kveldslys_evening_skorsteiner_etc_2022-03-31_IMG_3599.jpg | CC BY-SA 4.0 | Wolfmann
+highlights/trondheim-9.jpg | https://commons.wikimedia.org/wiki/File:Munkholmen_IMG_6003.JPG | CC BY-SA 3.0 | Bjoertvedt
+highlights/flam-6.jpg | https://commons.wikimedia.org/wiki/File:Undredal-Aurland-Norway-April-2011.jpg | CC BY 4.0 | Acediscovery
+highlights/trondheim-6.jpg | https://commons.wikimedia.org/wiki/File:Erkebispeg%C3%A5rden_Trondheim_2022-08-18_09.jpg | CC0 | Leonhard Lenz
