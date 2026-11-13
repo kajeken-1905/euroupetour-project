@@ -3715,3 +3715,29 @@ gateways/gw-boo.jpg | https://commons.wikimedia.org/wiki/File:Bod%C3%B8_lufthavn
 gateways/gw-svj.jpg | https://commons.wikimedia.org/wiki/File:Svolvaer-lufthavn.jpg | CC BY 3.0 | Algkalv (talk)
 gateways/gw-lkn.jpg | https://commons.wikimedia.org/wiki/File:LKN-leknes-lufthavn-exterior.jpg | Public domain | Algkalv (talk)
 gateways/gw-hvg.jpg | https://commons.wikimedia.org/wiki/File:Honningsv%C3%A5g_Airport_02.jpg | CC BY-SA 4.0 | Davide Mauro
+highlights/stockholm-8.jpg | https://commons.wikimedia.org/wiki/File:Drottningholm_Palace_(by_Pudelek)_1.jpg | CC BY-SA 4.0 | Pudelek
+highlights/stockholm-9.jpg | https://commons.wikimedia.org/wiki/File:ABBA_the_Museum,_winter_2014_01.JPG | CC BY-SA 3.0 | I99pema
+highlights/stockholm-10.jpg | https://commons.wikimedia.org/wiki/File:Nationalmuseum_October_2019_03.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/stockholm-11.jpg | https://commons.wikimedia.org/wiki/File:Moderna_museet,_2006.jpg | Public domain | No machine-readable author provided. Kalle1~commonswiki assu
+highlights/stockholm-12.jpg | https://commons.wikimedia.org/wiki/File:Nordiska_Museet_Mars_2013.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/stockholm-13.jpg | https://commons.wikimedia.org/wiki/File:T-centralen_metro_station_december_2017_01.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/stockholm-14.jpg | https://commons.wikimedia.org/wiki/File:Skogskyrkogarden-night-2007-11-03.JPG | CC BY-SA 3.0 | BloodIce
+highlights/stockholm-15.jpg | https://commons.wikimedia.org/wiki/File:Vaxholms_kastell_November_2013.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/stockholm-16.jpg | https://commons.wikimedia.org/wiki/File:Sigtuna_October_2016_06.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/gothenburg-8.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6taplatsen,_2019_(03).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/gothenburg-9.jpg | https://commons.wikimedia.org/wiki/File:Slottsskogen_Friluftskyrkan.jpg | CC BY-SA 3.0 | Alicia Fagerving
+highlights/gothenburg-10.jpg | https://commons.wikimedia.org/wiki/File:Styrs%C3%B6_kyrka_September_2012_03.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/gothenburg-11.jpg | https://commons.wikimedia.org/wiki/File:Nya_%C3%84lvsborg_September_2015.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/gothenburg-12.jpg | https://commons.wikimedia.org/wiki/File:Marstrand_-_KMB_-_16000300022826_(cropped).jpg | CC BY 2.5 | Jan Norrman
+highlights/malmo-6.jpg | https://commons.wikimedia.org/wiki/File:Lilla_Torg,_Malm%C3%B6,_mars_2015-3.jpg | CC BY-SA 3.0 | Jorchr
+highlights/malmo-7.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A4stra_hamnen%E2%80%93flygbild_06_september_2014.jpg | CC0 | This image was produced by me, David Castor (user:dcastor).
+highlights/malmo-9.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_Sankt_Petri_kyrka,_Malm%C3%B6_(08).jpg | CC BY-SA 4.0 | Chris06
+highlights/malmo-10.jpg | https://commons.wikimedia.org/wiki/File:Barnacle_goose_-_Slottsparken,_Malm%C3%B6_(28142606860).jpg | CC BY-SA 2.0 | Susanne Nilsson
+highlights/uppsala-6.jpg | https://commons.wikimedia.org/wiki/File:Gamla_Uppsala_Museum_May_2024_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/uppsala-7.jpg | https://commons.wikimedia.org/wiki/File:GUSTAVIANUM_1.jpg | CC BY-SA 3.0 | Jarvis
+highlights/uppsala-8.jpg | https://commons.wikimedia.org/wiki/File:Linn%C3%A9tr%C3%A4dg%C3%A5rden_September_2024_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/uppsala-9.jpg | https://commons.wikimedia.org/wiki/File:Carolina_Rediviva_in_summer.jpg | CC BY-SA 3.0 | Dr. Mirko Junge
+highlights/kiruna-5.jpg | https://commons.wikimedia.org/wiki/File:Kiruna_stadshus_September_2017_01.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/kiruna-6.jpg | https://commons.wikimedia.org/wiki/File:Reindeer_in_Holmaj%C3%A4rvi.jpg | CC0 | Hosumaija
+highlights/kiruna-7.jpg | https://commons.wikimedia.org/wiki/File:KirunaDogsled.jpg | CC BY-SA 3.0 | Yeti Hunter (talk)
+highlights/malmo-8.jpg | https://commons.wikimedia.org/wiki/File:Moderna_museet_Malmo_20130915_004_(9768289441).jpg | CC BY 2.0 | Johan Wessman / News Oresund

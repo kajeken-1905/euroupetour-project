@@ -59,20 +59,38 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   porvoo: [3, 1, 4, 2],
   stockholm: {
     days: [
-      ['감라스탄과 쇠데르말름|Gamla Stan & Södermalm', 5, 1, 2, 7, 4],
-      ['유르고르덴|Djurgården', 3, 6],
+      ['감라스탄과 노르말름|Gamla Stan & Norrmalm', 2, 1, 5, 13, 10, 11],
+      ['유르고르덴|Djurgården', 3, 12, 9, 6],
+      ['쇠데르말름|Södermalm', 7, 4, 14],
+    ],
+    trips: [
+      ['드로트닝홀름 궁전|Drottningholm Palace', 8],
+      ['군도와 박스홀름|Archipelago & Vaxholm', 15],
+      ['시그투나|Sigtuna', 16],
     ],
   },
   gothenburg: {
     days: [
-      ['시내|City centre', 1, 3, 6, 4, 5],
-      ['리세베리|Liseberg', 2],
-      ['월드 오브 볼보|World of Volvo', 7],
+      ['시내|City centre', 1, 4, 3, 6, 9, 8],
+      ['리세베리와 우주과학관|Liseberg & Universeum', 5, 7, 2],
+    ],
+    trips: [
+      ['남쪽 군도|Southern archipelago', 10],
+      ['뉘엘브스보리 요새|Nya Älvsborg Fortress', 11],
+      ['마르스트란드|Marstrand', 12],
     ],
   },
-  malmo: [2, 4, 5, 1, 3],
-  uppsala: [5, 3, 1, 4, 2],
-  kiruna: { days: [['', 4, 3]], trips: [['아이스호텔|Icehotel', 2]] },
+  malmo: { days: [['', 2, 6, 9, 4, 10, 8], ['', 7, 1, 5, 3]] },
+  uppsala: { days: [['', 1, 5, 7, 9, 3, 8, 4, 2]], trips: [['감라 웁살라|Gamla Uppsala', 6]] },
+  kiruna: {
+    days: [['', 5, 1, 4]],
+    trips: [
+      ['아이스호텔|Icehotel', 2],
+      ['오로라 투어|Northern lights tour', 3],
+      ['사미 순록 체험|Sámi reindeer visit', 6],
+      ['개썰매|Dog sledding', 7],
+    ],
+  },
   copenhagen: {
     days: [
       ['인어공주와 왕궁|The Little Mermaid & the palace', 12, 5, 14, 13, 1, 2],
