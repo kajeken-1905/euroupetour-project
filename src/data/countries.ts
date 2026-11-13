@@ -2334,6 +2334,40 @@ export const countries: Country[] = [
       { title: { ko: '서안 중부', en: 'Central West Bank' }, cityIds: ['ramallah'] },
     ],
   },
+  {
+    id: 'lb',
+    region: 'mena',
+    name: { ko: '레바논', en: 'Lebanon' },
+    nativeName: 'لبنان · Lubnān',
+    flagImage: '/flags/lb.svg',
+    landmarkImage: '/landmarks/landmark-lb.jpg',
+    flag: '🇱🇧',
+    blurb: {
+      ko: '지중해와 레바논산맥 사이의 작은 나라. 수도 베이루트와 페니키아 항구 비블로스, 세계유산 카디샤 계곡과 백향목 숲이 있습니다.',
+      en: 'A small country between the Mediterranean and the Lebanon mountains—Beirut, the Phoenician port of Byblos, and the World Heritage Qadisha Valley and cedar forest.',
+    },
+    facts: {
+      population: { ko: '약 580만 명 (2024년)', en: 'Approx. 5.8 million (2024)' },
+      area: { ko: '약 1만 450 km²', en: 'Approx. 10,450 km²' },
+      capital: { ko: '베이루트 (Beirut)', en: 'Beirut' },
+      currency: { ko: '레바논 파운드 (LBP, LL) · 달러도 널리 통용', en: 'Lebanese pound (LBP, LL); US dollars widely used' },
+    },
+    currencyCode: 'LBP',
+    currencySymbol: 'LL',
+    schengen: false,
+    flagColors: {
+      primary: '#ED1C24',
+      secondary: '#FFFFFF',
+      accent: '#00A651',
+      background: '#E8F0FA',
+      text: '#0B2A4A',
+    },
+    cityIds: ['beirut', 'byblos', 'bsharri'],
+    cityGroups: [
+      { title: { ko: '베이루트와 해안', en: 'Beirut & the coast' }, cityIds: ['beirut', 'byblos'] },
+      { title: { ko: '북부 산악 지대', en: 'The northern mountains' }, cityIds: ['bsharri'] },
+    ],
+  },
 ]
 
 export function getCountry(id: string) {

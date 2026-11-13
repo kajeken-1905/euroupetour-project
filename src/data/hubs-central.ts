@@ -723,6 +723,13 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   ramallah: {
     bus: [['Ramallah central bus station', '라말라 중앙 버스 터미널', '예루살렘·서안 각 도시행|to Jerusalem and other West Bank towns']],
   },
+  beirut: {
+    air: [['Beirut–Rafic Hariri International (BEY)', '베이루트 라피크 하리리 국제공항 (BEY)', '시내까지 차로 약 20분|about 20 min to the city by car']],
+  },
+  byblos: {
+  },
+  bsharri: {
+  },
   seville: {
     air: [['Sevilla (SVQ)', '세비야 공항 (SVQ)']],
     rail: [['Sevilla Santa Justa', '세비야 산타 후스타역']],

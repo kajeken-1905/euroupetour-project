@@ -1255,6 +1255,26 @@ const essentialsByCountry: Record<string, CountryEssentials> = {
     entry: T('서안은 이스라엘(벤구리온 공항)이나 요르단에서 들어갑니다. 아랍 국가 출입국 도장이 많거나 팔레스타인 방문이 목적이라고 말하면 이스라엘 입국 심사가 길어지거나 거부되기도 한다고 외교부가 안내합니다.', 'The West Bank is reached through Israel (Ben Gurion Airport) or from Jordan. The Korean ministry notes that many Arab-country stamps, or stating a Palestine visit as your purpose, can mean long questioning or refusal at Israeli immigration.'),
     telecom: T('팔레스타인 통신사(Jawwal·Ooredoo)와 이스라엘 통신사가 함께 잡힙니다. 한국 로밍 요금을 출발 전에 확인하세요.', 'Both Palestinian (Jawwal, Ooredoo) and Israeli networks are available; check roaming rates before you go.'),
   },
+  lb: {
+    // Korean Foreign Ministry travel-safety page for Lebanon (0404.go.kr/ntnSafetyInfo/40/detail), 2026-11.
+    emergency: [num('112', '경찰', 'Police'), num('140', '구급(적십자)', 'Ambulance (Red Cross)'), num('175', '소방', 'Fire')],
+    embassy: {
+      name: T('주레바논 대한민국 대사관', 'Korean Embassy in Lebanon'),
+      address: 'Bldg. 4, Elias Sarkis Road 1209, Yarzeh, Baabda',
+      phone: '+961-5-922-846',
+      afterHours: '+961-81-007-491',
+      source: 'https://www.0404.go.kr/ntnSafetyInfo/40/detail',
+    },
+    power: T('220V · 50Hz. 콘센트 모양이 여러 가지라 멀티 어댑터를 챙기세요. 정전이 잦습니다.', '220V, 50Hz; socket types vary, so bring a universal adapter. Power cuts are frequent.'),
+    tipping: T('식당에선 5~10%, 호텔 포터에겐 1달러 정도를 줍니다.', 'Leave 5–10% in restaurants and about $1 for hotel porters.'),
+    water: WATER_BOTTLED,
+    shops: T('달러가 널리 쓰이고, 가게는 시장 환율로 파운드를 받습니다. 공식 환율과 시장 환율 차이가 크니 값을 잘 확인하세요. 1만 5천 달러가 넘는 현금이나 귀중품은 출국 때 신고합니다.', 'US dollars are widely used, and shops take pounds at the market rate—the gap from the official rate is large, so check prices. Declare cash over US$15,000 or valuables when leaving.'),
+    toilets: T('식당·호텔 화장실을 이용합니다.', 'Use toilets in restaurants and hotels.'),
+    time: T('UTC+2(서머타임 기간 UTC+3). 한국보다 7시간(서머타임 6시간) 늦습니다.', 'UTC+2 (UTC+3 in summer): 7 hours behind Korea (6 in summer).'),
+    safety: T('외교부 여행경보: 레바논 전역이 3단계(출국권고)이고, 남부 이스라엘 접경(블루라인 5km 포함)·남부주·나바티예주·다히예 일부(베이루트 공항과 M51 도로 제외)·바알베크헤르멜주·베카주 일부(서베카·라샤야)는 4단계 여행금지(2027년 1월 31일까지)입니다. 산악 도로에선 차량 강도가 있어 렌터카를 직접 몰지 말라고 권고합니다. 군사·헤즈볼라 관련 시설은 사진을 찍지 마세요.', 'Korean travel alert: all of Lebanon is level 3 (leave the country), and the southern Israeli border (including 5 km from the Blue Line), South and Nabatieh governorates, parts of Dahiyeh (not the airport or the M51 road), Baalbek-Hermel and parts of Bekaa (West Bekaa, Rashaya) are level-4 travel-ban areas until 31 January 2027. Car theft and robbery happen on mountain roads, so the ministry advises against driving a rental car yourself. Don’t photograph military or Hezbollah-related sites.'),
+    entry: T('한국 일반 여권은 관광 목적이면 공항에서 1개월 도착 비자를 무료로 받습니다(왕복 항공권 필요, 최장 3개월까지 연장). 여권은 6개월 이상 남아 있어야 하고, 이스라엘 비자나 출입국 기록이 있으면 입국이 거부됩니다.', 'Ordinary Korean passports get a free one-month visa on arrival for tourism (return ticket required; extendable to three months). Passports need six months’ validity, and an Israeli visa or entry stamp means refusal.'),
+    telecom: T('주요 통신사는 Alfa·touch입니다. 공항에서 유심을 살 수 있습니다.', 'Main operators: Alfa and touch; SIMs are sold at the airport.'),
+  },
   xc: {
     emergency: [num('155', '경찰', 'Police'), num('112', '구급', 'Ambulance'), num('199', '소방', 'Fire brigade')],
     embassy: {

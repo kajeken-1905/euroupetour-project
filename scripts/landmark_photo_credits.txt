@@ -3481,3 +3481,26 @@ highlights/ramallah-2.jpg | https://commons.wikimedia.org/wiki/File:Mahmoud_Darw
 cities/hebron.jpg | https://commons.wikimedia.org/wiki/File:Old_Hebron.jpg | CC BY-SA 4.0 | Malak Jibreel
 cities/jericho.jpg | https://commons.wikimedia.org/wiki/File:Al-Auja_Jericho_20201120_141302.jpg | CC BY-SA 4.0 | عماد الدين المقدسي
 highlights/bethlehem-5.jpg | https://www.flickr.com/photos/8328536@N06/7700900288 | BY 2.0 | neilward
+landmarks/landmark-lb.jpg | https://commons.wikimedia.org/wiki/File:Pigeon_Rocks_of_Beirut,_Rock_of_Raouche,_Beirut,_Lebanon.jpg | CC BY 4.0 | Vyacheslav Argenberg
+cities/bsharri.jpg | https://commons.wikimedia.org/wiki/File:Bsharri_church_and_main_square_with_a_statue_of_angel,_Bsharri,_Lebanon.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/beirut-2.jpg | https://www.flickr.com/photos/90475107@N00/5960044302 | BY-SA 2.0 | krnjn
+highlights/beirut-5.jpg | https://commons.wikimedia.org/wiki/File:Pigeon_Rocks_of_Beirut,_Rock_of_Raouche,_Beirut,_Lebanon.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/beirut-8.jpg | https://commons.wikimedia.org/wiki/File:Jeita_Grotto_ITH044.jpg | CC BY 4.0 | Dennis Chanter
+highlights/byblos-2.jpg | https://commons.wikimedia.org/wiki/File:ByblosOldSouk.jpg | CC BY-SA 3.0 | Elgaard
+highlights/byblos-5.jpg | https://commons.wikimedia.org/wiki/File:Batroun_Makaad_El_Mir.jpg | CC0 | TheGrg
+highlights/bsharri-3.jpg | https://commons.wikimedia.org/wiki/File:The_Monastery_of_Mar_Elisha_2,_Kadisha_Valley,_Lebanon.jpg | CC BY 4.0 | Vyacheslav Argenberg
+cities/beirut.jpg | https://commons.wikimedia.org/wiki/File:Beirut,_Central_District,_Nejmeh_Square.jpg | CC BY-SA 3.0 | Heinz Hövel
+highlights/beirut-3.jpg | https://commons.wikimedia.org/wiki/File:Mohammad_Al-Amin_Mosque_and_St._George_Maronite_Cathedral,_Beirut_(1).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/beirut-6.jpg | https://commons.wikimedia.org/wiki/File:Gemmayzeh_(4694185351).jpg | CC BY 2.0 | Francisco Anzola
+highlights/beirut-9.jpg | https://commons.wikimedia.org/wiki/File:Our_Lady_statue_in_Harissa,_Lebanon.jpg | CC BY-SA 4.0 | FPP
+highlights/byblos-3.jpg | https://commons.wikimedia.org/wiki/File:Byblos_Ancient_Port_Panorama_color_2011.jpg | CC BY-SA 3.0 | Karim Saad at en.wikipedia
+highlights/bsharri-1.jpg | https://commons.wikimedia.org/wiki/File:The_Cedars_of_God,_Lebanon_2002.jpeg | CC BY-SA 3.0 | DIMSFIKAS at Greek Wikipedia
+highlights/bsharri-4.jpg | https://commons.wikimedia.org/wiki/File:Qozhaya01072003.jpg | Public domain | Yellaban
+cities/byblos.jpg | https://commons.wikimedia.org/wiki/File:Byblos_Libanon_2003.JPG | CC BY-SA 2.0 de | Orient at de.wikipedia
+highlights/beirut-1.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Beirut,_Beirut,_Lebanon.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/beirut-4.jpg | https://commons.wikimedia.org/wiki/File:Roman_baths_beirut.jpg | CC BY-SA 3.0 | A.K.Khalifeh
+highlights/beirut-7.jpg | https://commons.wikimedia.org/wiki/File:Sursock_house.jpg | CC BY 2.5 | No machine-readable author provided. Bertilvidet~commonswiki
+highlights/byblos-1.jpg | https://commons.wikimedia.org/wiki/File:Byblos_Castle_2009.jpg | CC BY-SA 3.0 | Peripitus
+highlights/bsharri-2.jpg | https://commons.wikimedia.org/wiki/File:Gibran_Museum.JPG | Public domain | Xtcrider at English Wikipedia
+highlights/byblos-4.jpg | https://commons.wikimedia.org/wiki/File:Byblos_-_Jbeil_Church.jpg | CC BY 2.0 | Serge Melki
+gateways/gw-bey.jpg | https://commons.wikimedia.org/wiki/File:Airbus_A320_of_Middle_East_Airlines_at_Beirut_Rafic_Hariri_International_Airport.jpg | CC BY 2.0 | abdallahh from Montréal, Canada

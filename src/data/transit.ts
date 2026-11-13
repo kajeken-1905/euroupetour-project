@@ -1516,6 +1516,22 @@ export const countryTransitById: Record<string, CountryTransit> = {
     },
     apps: [],
   },
+  lb: {
+    summary: {
+      ko: '우측통행. 철도가 없어 버스·미니버스와 택시, 합승 택시(세르비스)로 다닙니다.',
+      en: 'Drive on the right. There is no railway—get around by bus, minibus, taxi and shared taxi (servees).',
+    },
+    drivingSide: 'right',
+    longDistance: {
+      ko: '베이루트에서 해안 도로를 따라 비블로스까지 약 1시간, 브샤리까지는 차로 약 2시간 30분입니다.',
+      en: 'Byblos is about an hour up the coast road from Beirut, and Bsharri about 2 hrs 30 by car.',
+    },
+    paymentTip: {
+      ko: '택시는 타기 전에 요금을 정하세요. 달러 잔돈을 준비하면 편합니다.',
+      en: 'Agree taxi fares before you set off; small-dollar notes are handy.',
+    },
+    apps: [],
+  },
   gi: {
     summary: {
       ko: '우측통행. 걸어서 다닐 만큼 작아 시내는 버스와 도보로 충분합니다.',

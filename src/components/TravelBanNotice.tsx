@@ -308,6 +308,22 @@ const NOTICES: Record<string, { icon: string; title: Text; lines: Text[]; link: 
     ],
     link: 'https://www.0404.go.kr/ntnSafetyInfo/398/detail',
   },
+  // 0404.go.kr Lebanon page: level 3 nationwide with level-4 areas (2026-03-11/03-20 additions, extended to 2027-01-31 on 2026-07-09); notice 2026-10-23.
+  lb: {
+    icon: '⚠️',
+    title: { ko: '외교부 여행경보 · 3단계 출국권고 / 일부 4단계 여행금지', en: 'Korean travel alert · level 3, with level-4 travel-ban areas' },
+    lines: [
+      {
+        ko: '남부 이스라엘 접경(블루라인 5km 포함)·남부주·나바티예주·다히예 일부(베이루트 공항과 M51 도로 제외)·바알베크헤르멜주·베카주 일부(서베카·라샤야)는 4단계 여행금지 지역(2027년 1월 31일까지)으로, 허가 없이 가면 여권법에 따라 처벌받을 수 있습니다. 이 앱은 이 지역(바알베크·시돈·티레 등)을 다루지 않습니다.',
+        en: 'The southern Israeli border (including 5 km from the Blue Line), South and Nabatieh governorates, parts of Dahiyeh (not the airport or the M51 road), Baalbek-Hermel and parts of Bekaa (West Bekaa, Rashaya) are level-4 travel-ban areas until 31 January 2027; going without permission can be punished under the Passport Act. This app does not cover them (Baalbek, Sidon, Tyre and others).',
+      },
+      {
+        ko: '나머지 전역은 3단계(출국권고)로, 급한 용무가 아니면 여행을 취소하라고 권고합니다. 외교부가 2026년 10월 23일 안전 공지를 냈으니 출발 전 꼭 확인하세요.',
+        en: 'Everywhere else is level 3 (leave the country): cancel travel unless it is urgent. The ministry issued a safety notice on 23 October 2026—check it before you go.',
+      },
+    ],
+    link: 'https://www.0404.go.kr/ntnSafetyInfo/40/detail',
+  },
   // 0404.go.kr notice of 2026-08-13: alert periods extended to 2027-01-31.
   by: {
     icon: '⚠️',

@@ -1,5 +1,5 @@
 export type FxCode = 'GBP' | 'EUR' | 'NOK' | 'SEK' | 'DKK' | 'HUF' | 'CZK' | 'CHF' | 'PLN' | 'ISK' | 'TRY' | 'RON' | 'BAM' | 'RSD' | 'GEL' | 'MKD' | 'ALL' | 'UAH' | 'MDL' | 'AMD' | 'AZN' | 'RUB' | 'BYN'
-  | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD' | 'IRR' | 'IQD' | 'YER' | 'AFN' | 'OMR' | 'SYP'
+  | 'MAD' | 'TND' | 'EGP' | 'DZD' | 'LYD' | 'ILS' | 'JOD' | 'AED' | 'QAR' | 'SAR' | 'KWD' | 'IRR' | 'IQD' | 'YER' | 'AFN' | 'OMR' | 'SYP' | 'LBP'
 
 export interface DailyRates {
   /** YYYY-MM-DD (로컬 날짜) */
@@ -9,7 +9,7 @@ export interface DailyRates {
   source: string
 }
 
-const STORAGE_KEY = 'mvp-fx-krw-daily-v11'
+const STORAGE_KEY = 'mvp-fx-krw-daily-v12'
 
 /**
  * Syria dropped two zeros from its pound (new pound = 100 old). Some feeds still quote the old pound, which
@@ -18,7 +18,7 @@ const STORAGE_KEY = 'mvp-fx-krw-daily-v11'
 function perKrwFixed(code: FxCode, perKrw: number) {
   return code === 'SYP' && perKrw > 1 ? perKrw / 100 : perKrw
 }
-const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON', 'BAM', 'RSD', 'GEL', 'MKD', 'ALL', 'UAH', 'MDL', 'AMD', 'AZN', 'RUB', 'BYN', 'MAD', 'TND', 'EGP', 'DZD', 'LYD', 'ILS', 'JOD', 'AED', 'QAR', 'SAR', 'KWD', 'IRR', 'IQD', 'YER', 'AFN', 'OMR', 'SYP']
+const CODES: FxCode[] = ['GBP', 'EUR', 'NOK', 'SEK', 'DKK', 'HUF', 'CZK', 'CHF', 'PLN', 'ISK', 'TRY', 'RON', 'BAM', 'RSD', 'GEL', 'MKD', 'ALL', 'UAH', 'MDL', 'AMD', 'AZN', 'RUB', 'BYN', 'MAD', 'TND', 'EGP', 'DZD', 'LYD', 'ILS', 'JOD', 'AED', 'QAR', 'SAR', 'KWD', 'IRR', 'IQD', 'YER', 'AFN', 'OMR', 'SYP', 'LBP']
 
 function todayKey() {
   const d = new Date()

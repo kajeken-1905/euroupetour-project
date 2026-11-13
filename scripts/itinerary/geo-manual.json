@@ -9172,5 +9172,70 @@
     31.90496,
     35.20443,
     "OSM Nominatim: ميدان المنارة, رام الله التحتة, مجلس ماتي بنيامين الإقليمي,  (Wikipedia 4m)"
+  ],
+  "beirut-h1": [
+    33.87857,
+    35.51238,
+    "OSM Nominatim: متحف بيروت الوطنيّ, جادة عبدالله اليافي, رأس النبع, مزرعة, م"
+  ],
+  "beirut-h4": [
+    33.89715,
+    35.50266,
+    "OSM Nominatim: الحمام الروماني, شارع الكبوشية, السراي, زقاق البلاط, النجمة,"
+  ],
+  "beirut-h6": [
+    33.89695,
+    35.50969,
+    "OSM Nominatim: جميزة, الصيفي, محافظة بيروت, 1100, لبنان"
+  ],
+  "beirut-h7": [
+    33.89296,
+    35.51636,
+    "OSM Nominatim: متحف سرسق, Rue Georges Choueri, مار نيكولا, الرميل, محافظة ب (Wikipedia 12m)"
+  ],
+  "beirut-h8": [
+    33.9434,
+    35.64187,
+    "OSM Nominatim: مغارة جعيتا, Route principale de Zakrît, دير مار عبدا المشمر (Wikipedia 47m)"
+  ],
+  "byblos-h1": [
+    34.11984,
+    35.64648,
+    "OSM Nominatim: قلعة جبيل, Rue Pépé, جبيل, قضاء جبيل, محافظة كسروان جبيل, 45 (Wikipedia 19m)"
+  ],
+  "byblos-h3": [
+    34.11589,
+    35.64602,
+    "OSM Nominatim: Byblos - Ancient Port, Rue Pépé, جبيل, قضاء جبيل, محافظة كسر"
+  ],
+  "bsharri-h2": [
+    34.24985,
+    36.01912,
+    "OSM Nominatim: Gibran Museum, Lebanon Mountain Trail Section 8, بشري, قضاء  (Wikipedia 26m)"
+  ],
+  "bsharri-h3": [
+    34.28182,
+    35.95475,
+    "OSM Nominatim: Vallée de Qadîcha, إهدن, قضاء زغرتا, محافظة الشمال, لبنان"
+  ],
+  "bsharri-h4": [
+    34.28288,
+    35.94681,
+    "OSM Nominatim: دير مار أنطونيوس قزحيا, Lebanon Mountain Trail Section 6, فر"
+  ],
+  "beirut-h9": [
+    33.98164,
+    35.65136,
+    "OSM Nominatim: نوتردام لبنان - حريصا, Route Harîssa, درعون, حريصا, قضاء كسر (Wikipedia 4m)"
+  ],
+  "byblos-h5": [
+    34.25489,
+    35.65886,
+    "OSM Nominatim: البترون, قضاء البترون, محافظة الشمال, 1400, لبنان (Wikipedia 979m)"
+  ],
+  "bsharri-h1": [
+    34.24322,
+    36.04857,
+    "OSM Nominatim: غابة أرز الرّب, الأرز, بشري, قضاء بشرّي, محافظة الشمال, لبنا (Wikipedia 203m)"
   ]
 }

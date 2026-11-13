@@ -17,5 +17,5 @@ export const countryRegions: CountryRegion[] = [
   { id: 'east', title: { ko: '동유럽', en: 'Eastern Europe' }, countryIds: ['cz', 'sk', 'hu', 'pl', 'ro', 'md', 'ge', 'am', 'az', 'ru', 'ua', 'by'] },
   { id: 'balkans', title: { ko: '남동유럽·발칸반도', en: 'Southeastern Europe & the Balkans' }, countryIds: ['hr', 'si', 'ba', 'rs', 'me', 'xk', 'mk', 'al', 'bg', 'tr'] },
   { id: 'nafrica', title: { ko: '북아프리카', en: 'North Africa' }, mena: true, countryIds: ['ma', 'tn', 'dz', 'eg', 'ly'] },
-  { id: 'mideast', title: { ko: '중동', en: 'Middle East' }, mena: true, countryIds: ['jo', 'qa', 'il', 'ae', 'sa', 'kw', 'ir', 'iq', 'sy', 'ps', 'ye', 'om', 'af'] },
+  { id: 'mideast', title: { ko: '중동', en: 'Middle East' }, mena: true, countryIds: ['il', 'ps', 'jo', 'lb', 'ae', 'qa', 'kw', 'sa', 'om', 'sy', 'ye', 'iq', 'ir', 'af'] },
 ]

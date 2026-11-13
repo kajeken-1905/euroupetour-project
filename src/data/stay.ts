@@ -381,6 +381,16 @@ export const STAY: Record<string, StayArea[]> = {
   ramallah: [
     a('알 마나라 광장 주변', 'Around Al-Manara Square', 'Al-Manara Square Ramallah', '처음 가는 여행에 추천|Best for a first visit', '시내 카페·식당과 버스 터미널이 가깝습니다.|Close to the cafés, restaurants and bus station.'),
   ],
+  beirut: [
+    a('젬마이제·마르 미하일', 'Gemmayzeh & Mar Mikhael', 'Gemmayzeh Beirut', '처음 가는 여행에 추천|Best for a first visit', '식당·바가 모여 있고 시내 중심이 가깝습니다.|Restaurants and bars, close to downtown.'),
+    a('함라', 'Hamra', 'Hamra Street Beirut', '현지 분위기|Local feel', '대학가 상점가로, 코니시까지 걸어갑니다.|The university shopping district, within walking distance of the Corniche.'),
+  ],
+  byblos: [
+    a('비블로스 구시가', 'Byblos old town', 'Byblos', '처음 가는 여행에 추천|Best for a first visit', '유적·시장·항구를 걸어서 봅니다.|Walk to the ruins, souq and harbour.'),
+  ],
+  bsharri: [
+    a('브샤리 마을', 'Bsharri village', 'Bsharri', '처음 가는 여행에 추천|Best for a first visit', '지브란 박물관과 계곡 입구가 가깝습니다.|Close to the Gibran Museum and the valley trails.'),
+  ],
   seville: [
     a('산타 크루스', 'Santa Cruz', 'Barrio Santa Cruz, Seville', '처음 가는 여행에 추천|Best for a first visit', '대성당과 알카사르를 걸어서 다닙니다. 골목이 좁아 택시가 못 들어가는 곳이 많고 짐 끌기가 힘듭니다.|The cathedral and Alcázar on foot; the lanes are too narrow for taxis in places and hard work with luggage.'),
     a('엘 아레날', 'El Arenal', 'El Arenal, Seville', '중심가·타파스|Central, for tapas', '대성당과 강 사이로 산타 크루스보다 조금 저렴합니다.|Between the cathedral and the river, slightly cheaper than Santa Cruz.'),

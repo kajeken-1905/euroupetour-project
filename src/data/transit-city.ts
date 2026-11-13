@@ -3163,6 +3163,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  beirut: {
+    modes: ['taxi', 'bus', 'walk'],
+    howTo: {
+      ko: '시내는 택시와 세르비스로 다니고, 젬마이제와 시내 중심은 걸을 만합니다.',
+      en: 'Use taxis and servees; Gemmayzeh and downtown are walkable.',
+    },
+    apps: [
+    ],
+  },
+  byblos: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서, 바트룬은 버스나 택시로 갑니다.',
+      en: 'Walk the old town; take a bus or taxi to Batroun.',
+    },
+    apps: [
+    ],
+  },
+  bsharri: {
+    modes: ['taxi'],
+    howTo: {
+      ko: '차를 빌리기보다 기사 딸린 차나 택시로 다니는 것이 안전합니다.',
+      en: 'A car with a driver or a taxi is safer than renting a car.',
+    },
+    apps: [
+    ],
+  },
   seville: {
     modes: ['metro', 'tram', 'bus', 'rideshare', 'taxi', 'bike', 'walk'],
     airportToCity: {
