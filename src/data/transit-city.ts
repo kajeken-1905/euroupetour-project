@@ -5444,6 +5444,114 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  kalamata: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가와 해변은 걷거나 시내버스로 다닙니다. 메세니·미스트라스·마니는 차나 택시가 편합니다.',
+      en: 'Walk or take the city bus between the old town and the beach; a car or taxi is easiest for Messene, Mystras and the Mani.',
+    },
+    apps: [
+    ],
+  },
+  monemvasia: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '성 안은 걸어서만 다닙니다. 여름엔 예피라와 성문 사이에 작은 셔틀이 다닙니다.',
+      en: 'Inside the walls you go on foot; in summer a small shuttle runs between Gefyra and the gate.',
+    },
+    apps: [
+    ],
+  },
+  kavala: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '구시가와 항구는 걸어서 다닙니다. 필리피는 시외버스로, 타소스는 배로 갑니다.',
+      en: 'Walk the old town and harbour; take the regional bus to Philippi and the ferry to Thasos.',
+    },
+    apps: [
+    ],
+  },
+  ioannina: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가와 호숫가는 걸어서 다닙니다. 페라마 동굴은 시내버스로, 자고리는 차나 투어로 갑니다.',
+      en: 'Walk the old town and the lakefront; city buses reach Perama Cave, and Zagori needs a car or tour.',
+    },
+    apps: [
+    ],
+  },
+  kefalonia: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '섬이 넓고 버스가 적어 차를 빌리는 편이 편합니다. 아르고스톨리 시내는 걸어서 다닙니다.',
+      en: 'The island is big and buses are few, so a hire car is easiest; walk around Argostoli.',
+    },
+    apps: [
+    ],
+  },
+  paros: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: 'KTEL 버스가 파리키아·나우사·레프케스를 잇습니다. 마을 안은 걸어서 다닙니다.',
+      en: 'KTEL buses link Parikia, Naousa and Lefkes; walk within the villages.',
+    },
+    apps: [
+    ],
+  },
+  milos: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '여름엔 아다마스에서 플라카·폴로니아·사라키니코로 버스가 다닙니다. 클레프티코는 보트 투어로만 갑니다.',
+      en: 'In summer buses run from Adamas to Plaka, Pollonia and Sarakiniko; Kleftiko is by boat tour only.',
+    },
+    apps: [
+    ],
+  },
+  rethymno: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 이라클리온·하니아는 KTEL 버스가 자주 다닙니다.',
+      en: 'Walk the old town; KTEL buses run often to Heraklion and Chania.',
+    },
+    apps: [
+    ],
+  },
+  'agios-nikolaos': {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 엘룬다·플라카·크리차는 KTEL 버스로, 스피날롱가는 배로 갑니다.',
+      en: 'Walk around town; KTEL buses reach Elounda, Plaka and Kritsa, and boats go to Spinalonga.',
+    },
+    apps: [
+    ],
+  },
+  symi: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '얄로스와 호리오는 걸어서 다닙니다. 파노르미티스는 버스나 택시로, 작은 해변들은 보트 택시로 갑니다.',
+      en: 'Walk between Gialos and Chorio; take the bus or a taxi to Panormitis and water taxis to the small beaches.',
+    },
+    apps: [
+    ],
+  },
+  kos: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걷거나 자전거로 다니기 좋습니다. 아스클레피온과 지아, 해변은 KTEL 버스로 갑니다.',
+      en: 'The town is flat and easy on foot or by bike; KTEL buses reach the Asklepieion, Zia and the beaches.',
+    },
+    apps: [
+    ],
+  },
+  patmos: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '스칼라와 호라 사이엔 버스와 택시가 다니고, 옛 돌길로 걸어 올라갈 수도 있습니다.',
+      en: 'Buses and taxis link Skala and Chora, or walk up the old stone path.',
+    },
+    apps: [
+    ],
+  },
   thessaloniki: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {

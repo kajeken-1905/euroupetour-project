@@ -129,6 +129,59 @@ export const hubsEast: Record<string, RawCityHubs> = {
   },
 
   // —— cy ——
+  kalamata: {
+    air: [['Kalamata (KLX)', '칼라마타 공항 (KLX)', '여름철 국제선 위주|mostly summer international flights']],
+    bus: [['KTEL Messinias', '칼라마타 KTEL 버스터미널']],
+  },
+  monemvasia: {
+    bus: [['Monemvasia (Gefyra)', '모넴바시아(예피라) 버스 정류장', '스파르타에서 환승|change at Sparta']],
+  },
+  kavala: {
+    air: [['Kavala Alexander the Great (KVA)', '카발라 공항 (KVA)', '여름철 국제선 위주|mostly summer international flights']],
+    bus: [['KTEL Kavalas', '카발라 KTEL 버스터미널']],
+    port: [['Port of Kavala', '카발라 항구', '타소스(프리노스)행 페리|ferries to Thasos (Prinos)']],
+  },
+  ioannina: {
+    air: [['Ioannina King Pyrrhus (IOA)', '이오아니나 공항 (IOA)']],
+    bus: [['KTEL Ioanninon', '이오아니나 KTEL 버스터미널']],
+  },
+  kefalonia: {
+    air: [['Kefalonia (EFL)', '케팔로니아 공항 (EFL)']],
+    bus: [['KTEL Kefalonias', '아르고스톨리 KTEL 버스터미널']],
+    port: [
+      ['Sami Port', '사미 항구', '이타카·파트라행 페리|ferries to Ithaca and Patras'],
+      ['Poros Port', '포로스 항구', '킬리니행 페리|ferries to Kyllini'],
+    ],
+  },
+  paros: {
+    air: [['Paros (PAS)', '파로스 공항 (PAS)']],
+    bus: [['KTEL Paros (Parikia)', '파리키아 버스 정류장']],
+    port: [['Parikia Port', '파리키아 항구']],
+  },
+  milos: {
+    air: [['Milos (MLO)', '밀로스 공항 (MLO)']],
+    bus: [['Adamas bus stop', '아다마스 버스 정류장']],
+    port: [['Adamas Port', '아다마스 항구']],
+  },
+  rethymno: {
+    air: [['Chania (CHQ)', '하니아 공항 (CHQ)', '버스로 약 1시간 30분|About 1 hr 30 by bus'], ['Heraklion (HER)', '이라클리온 공항 (HER)', '버스로 약 1시간 30분|About 1 hr 30 by bus']],
+    bus: [['KTEL Rethymno', '레팀노 KTEL 버스터미널']],
+  },
+  'agios-nikolaos': {
+    air: [['Heraklion (HER)', '이라클리온 공항 (HER)', '버스로 약 1시간 15분|About 1 hr 15 by bus']],
+    bus: [['KTEL Agios Nikolaos', '아기오스 니콜라오스 KTEL 버스터미널']],
+  },
+  symi: {
+    port: [['Symi (Gialos) Port', '시미 얄로스 항구', '로도스행 배|boats to Rhodes']],
+  },
+  kos: {
+    air: [['Kos Hippocrates (KGS)', '코스 공항 (KGS)']],
+    bus: [['KTEL Kos', '코스 KTEL 버스 정류장']],
+    port: [['Port of Kos', '코스 항구', '로도스·파트모스·피레우스행 배, 보드룸행 배|boats to Rhodes, Patmos, Piraeus and Bodrum']],
+  },
+  patmos: {
+    port: [['Skala Port', '스칼라 항구', '코스·로도스·피레우스행 배|boats to Kos, Rhodes and Piraeus']],
+  },
   nicosia: {
     air: [LCA()],
     bus: [['Solomos Square Bus Station', '솔로모스 광장 버스터미널', '키프로스엔 철도 없음|no railways in Cyprus']],

@@ -1037,6 +1037,54 @@ export const STAY: Record<string, StayArea[]> = {
     a('린도스', 'Lindos', 'Lindos', '그림 같은 마을|Picture-postcard village', '언덕 위 성채와 해변이 있는 하얀 마을입니다. 시내에서 50km(1시간쯤) 떨어져 있고 여름에 매우 붐비며 계단이 많습니다.|A white village with a hilltop acropolis and beach; about 50 km (an hour) from town, very crowded in summer, with lots of steps.'),
     a('팔리라키', 'Faliraki', 'Faliraki', '해변과 밤 문화|Beach and nightlife', '해변과 클럽, 바가 많은 휴양지입니다. 중심가는 밤에 시끄럽습니다.|A resort of beaches, clubs and bars; the centre is loud at night.'),
   ],
+  kalamata: [
+    a('구시가·성 아래', 'Old town', 'Kalamata old town', '구시가 분위기|Old-town atmosphere', '성과 시장 골목이 가깝고 버스터미널도 멀지 않습니다.|Close to the castle and market lanes, not far from the bus station.'),
+    a('해안가 (나바리누 거리)', 'Seafront (Navarinou)', 'Navarinou Kalamata', '해변|Beach', '해변 앞 호텔과 식당이 모인 곳으로, 시내까지 버스나 택시로 다닙니다.|Beachfront hotels and restaurants, linked to the centre by bus or taxi.'),
+  ],
+  monemvasia: [
+    a('성 안 아랫마을', 'Inside the walls', 'Monemvasia Castle Town', '성 안에서 묵기|Stay inside the walls', '당일 손님이 떠난 저녁과 이른 아침의 성 안이 가장 아름답습니다. 계단이 많고 차가 못 들어갑니다.|The walled town is at its best in the evening and early morning; lots of steps and no cars.'),
+    a('예피라', 'Gefyra', 'Gefyra Monemvasia', '편한 접근|Easy access', '둑길 건너 본토 쪽 마을로, 버스가 서고 주차가 쉬우며 값이 싼 편입니다.|The mainland village across the causeway, where the bus stops; easier parking and lower prices.'),
+  ],
+  kavala: [
+    a('파나기아 구시가', 'Panagia old town', 'Panagia Kavala', '처음이라면|First visit', '요새와 항구를 걸어서 다니는 언덕 위 옛 동네입니다. 계단과 언덕이 많습니다.|The old hilltop quarter, walkable to the fortress and harbour; hilly, with steps.'),
+    a('항구·시내 중심', 'Harbour & centre', 'Kavala port', '교통이 편한 곳|Convenient', '버스터미널과 타소스행 배 타는 곳이 가깝습니다.|Close to the bus station and the Thasos ferries.'),
+  ],
+  ioannina: [
+    a('성벽 안 구시가', 'Inside the castle walls', 'Ioannina Castle', '처음이라면|First visit', '성채와 호수 선착장이 바로 앞이고 돌집 숙소가 많습니다.|The citadel and the island boats are on the doorstep, with plenty of stone guesthouses.'),
+    a('호숫가·시내 중심', 'Lakefront & centre', 'Ioannina lakefront', '교통이 편한 곳|Convenient', '카페와 식당이 모인 호숫가로, 버스터미널까지 걸어서 다닙니다.|The café-lined lakefront, walkable to the bus station.'),
+  ],
+  kefalonia: [
+    a('아르고스톨리', 'Argostoli', 'Argostoli', '교통이 편한 곳|Convenient', '버스와 식당이 가장 많은 섬 중심 도시입니다.|The island capital, with the most buses and restaurants.'),
+    a('피스카르도·아소스', 'Fiskardo & Assos', 'Fiskardo', '조용한 항구 마을|Quiet harbour villages', '북쪽의 그림 같은 항구 마을로, 차가 있으면 좋습니다.|The picturesque northern harbour villages; best with a car.'),
+  ],
+  paros: [
+    a('파리키아', 'Parikia', 'Parikia', '교통이 편한 곳|Convenient', '배와 버스가 출발하는 항구 마을입니다.|The port town where boats and buses leave.'),
+    a('나우사', 'Naousa', 'Naousa Paros', '분위기|Atmosphere', '식당과 바가 모인 그림 같은 항구로, 숙소값이 높은 편입니다.|The picturesque harbour of restaurants and bars, with higher prices.'),
+  ],
+  milos: [
+    a('아다마스', 'Adamas', 'Adamas Milos', '교통이 편한 곳|Convenient', '배가 들어오는 항구 마을로, 보트 투어와 버스가 출발합니다.|The port village where ferries, boat tours and buses leave.'),
+    a('폴로니아', 'Pollonia', 'Pollonia Milos', '조용한 바닷가|Quiet seaside', '북동쪽 어촌 마을로, 사라키니코와 가깝고 차분합니다.|A calm northeastern fishing village, close to Sarakiniko.'),
+  ],
+  rethymno: [
+    a('구시가', 'Old town', 'Rethymno old town', '처음이라면|First visit', '요새와 항구, 식당을 걸어서 다닙니다.|The fortress, harbour and restaurants on foot.'),
+    a('동쪽 해변가', 'East beachfront', 'Rethymno beach', '해변|Beach', '구시가 동쪽으로 길게 이어지는 해변 호텔 지구입니다.|The long strip of beach hotels east of the old town.'),
+  ],
+  'agios-nikolaos': [
+    a('호수·항구 주변', 'Lake & harbour', 'Lake Voulismeni', '교통이 편한 곳|Convenient', '식당과 버스터미널이 가까운 시내 중심입니다.|The town centre, close to restaurants and the bus station.'),
+    a('엘룬다', 'Elounda', 'Elounda', '리조트|Resorts', '스피날롱가가 가깝고 고급 리조트가 모인 바닷가 마을입니다.|The resort village closest to Spinalonga.'),
+  ],
+  symi: [
+    a('얄로스', 'Gialos', 'Gialos Symi', '처음이라면|First visit', '항구와 식당, 배 타는 곳이 바로 앞입니다.|The harbour, restaurants and ferry quay on the doorstep.'),
+    a('호리오', 'Chorio', 'Chorio Symi', '전망과 조용함|Views and quiet', '항구가 내려다보이는 윗마을로, 계단이 많습니다.|The upper village with harbour views; lots of steps.'),
+  ],
+  kos: [
+    a('코스 시내', 'Kos Town', 'Kos Town', '처음이라면|First visit', '성과 유적, 항구를 걸어서 다니고 버스가 가장 많습니다.|The castle, ruins and harbour on foot, with the most buses.'),
+    a('카르다메나·키파리시아 해변', 'Kardamena & beach resorts', 'Kardamena', '해변 리조트|Beach resorts', '섬 남쪽 해변 리조트 지구로, 시내까지 버스로 다닙니다.|The southern beach resorts, linked to town by bus.'),
+  ],
+  patmos: [
+    a('스칼라', 'Skala', 'Skala Patmos', '교통이 편한 곳|Convenient', '항구와 식당이 바로 앞이고 호라까지 버스가 다닙니다.|The harbour and restaurants on the doorstep, with buses up to Chora.'),
+    a('호라', 'Chora', 'Chora Patmos', '조용한 윗마을|Quiet upper village', '수도원 바로 옆 하얀 마을로, 저녁이 조용합니다.|The white village beside the monastery, quiet in the evening.'),
+  ],
   corfu: [
     a('코르푸 시내', 'Corfu Town', 'Corfu Old Town', '처음 가는 여행에 추천|Best for a first visit', '유네스코 구시가와 식당, 명소를 걸어서 다닙니다. 바로 앞에 모래 해변은 없습니다.|The UNESCO old town, restaurants and sights on foot; no sandy beach on the doorstep.'),
     a('팔레오카스트리차', 'Paleokastritsa', 'Paleokastritsa', '해변과 풍경|Coves and scenery', '서해안의 맑은 만과 바다 동굴, 언덕 위 수도원이 있는 곳입니다.|West-coast coves, sea caves and a hilltop monastery.'),

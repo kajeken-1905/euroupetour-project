@@ -3533,7 +3533,6 @@ highlights/zakynthos-5.jpg | https://commons.wikimedia.org/wiki/File:1_keri_pier
 highlights/mykonos-6.jpg | https://commons.wikimedia.org/wiki/File:Holy_Church_of_Panagia_Paraportiani,_Mykonos.jpg | CC0 | Julian Lupyan
 highlights/santorini-6.jpg | https://commons.wikimedia.org/wiki/File:Skaros_-_panoramio.jpg | CC BY 3.0 | Michal Huniewicz
 highlights/santorini-7.jpg | https://commons.wikimedia.org/wiki/File:2012_-_Ancient_Thera_-_Santorini_-_Greece_-_19.jpg | CC BY-SA 3.0 | Norbert Nagel
-highlights/santorini-8.jpg | https://commons.wikimedia.org/wiki/File:Greek_Easter_-_Pyrgos_village_-_Santorini_-3.jpg | CC BY-SA 4.0 | Georgios Michos
 highlights/heraklion-5.jpg | https://www.flickr.com/photos/59081381@N03/53535819429 | BY-SA 2.0 | w_lemay
 highlights/heraklion-6.jpg | https://commons.wikimedia.org/wiki/File:5313048walls_of_Herakleion.JPG | CC0 | C messier
 highlights/heraklion-7.jpg | https://commons.wikimedia.org/wiki/File:Outside_church_Hagios_Titos_Heraklion.jpg | CC0 | Jebulon
@@ -3541,3 +3540,75 @@ highlights/chania-6.jpg | https://commons.wikimedia.org/wiki/File:Firkas_Fortres
 highlights/rhodes-6.jpg | https://commons.wikimedia.org/wiki/File:Rhodes_Knights_street.jpg | CC BY-SA 4.0 | Jwslubbock
 highlights/rhodes-7.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_museum_of_rhodes_cloister.jpg | CC0 | Jebulon
 highlights/rhodes-8.jpg | https://www.flickr.com/photos/79586279@N00/241495095 | BY 2.0 | Shadowgate
+landmarks/landmark-gr.jpg | https://www.flickr.com/photos/28878339@N00/1372547275 | BY-SA 2.0 | simon_music
+highlights/santorini-8.jpg | https://commons.wikimedia.org/wiki/File:Pyrgos_Kallistis_847_00,_Greece_-_panoramio.jpg | CC BY-SA 3.0 | logopop
+cities/kalamata.jpg | https://commons.wikimedia.org/wiki/File:2012_Kalamata_railstation_(5).jpg | CC BY-SA 4.0 | Chris06
+highlights/kalamata-6.jpg | https://commons.wikimedia.org/wiki/File:Diros-cave-greece_16890493012_o.jpg | CC BY-SA 4.0 | George Fournaris
+cities/kavala.jpg | https://commons.wikimedia.org/wiki/File:Kavala_aqueduct_-_1.jpg | CC BY-SA 3.0 | MrPanyGoff
+highlights/kavala-6.jpg | https://commons.wikimedia.org/wiki/File:Thasos,_Agora.jpg | CC0 | DocWoKav
+highlights/ioannina-5.jpg | https://commons.wikimedia.org/wiki/File:Zagori_-_Kipi_bridge.JPG | CC BY-SA 3.0 | Erik1980
+highlights/kefalonia-5.jpg | https://www.flickr.com/photos/33174580@N00/35461698314 | BY-SA 2.0 | Mike_fleming
+highlights/paros-4.jpg | https://commons.wikimedia.org/wiki/File:Lefkes_(Paros)_Village_View.jpg | CC BY-SA 4.0 | Kondephy
+highlights/milos-3.jpg | https://commons.wikimedia.org/wiki/File:Klima_on_Milos,_syrmata,_152734.jpg | CC BY-SA 4.0 | Zde
+highlights/rethymno-3.jpg | https://commons.wikimedia.org/wiki/File:Crete,_Rethymno,_Rimondi_Fountain_BW_2026-10-16_12-24-11.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/agios-nikolaos-4.jpg | https://commons.wikimedia.org/wiki/File:Krits%C3%A0_-_la_chiesa_rurale_di_Panagia_Kera_-_panoramio.jpg | CC BY-SA 3.0 | patano
+highlights/kos-1.jpg | https://commons.wikimedia.org/wiki/File:Greece_kos_city_neratzia.jpg | CC BY-SA 3.0 de | Arne Müseler
+highlights/patmos-1.jpg | https://commons.wikimedia.org/wiki/File:Monastery_of_St._John_the_Divine.JPG | Public domain | The original uploader was Vladimir Boskovic at English Wikip
+highlights/kalamata-1.jpg | https://commons.wikimedia.org/wiki/File:Kalamata_from_Castle_(7%27700x2%27000px)_-_panoramio.jpg | CC BY 3.0 | macrolepis
+cities/monemvasia.jpg | https://www.flickr.com/photos/50624154@N00/4428346275 | BY 2.0 | ForsterFoto
+highlights/kavala-1.jpg | https://commons.wikimedia.org/wiki/File:Kavala_Fortress.jpg | CC BY-SA 4.0 | Explorer1940
+cities/ioannina.jpg | https://commons.wikimedia.org/wiki/File:%2B_879_wurde_Ioannina_erstmals_in_einer_Urkunde_erw%C3%A4hnt._12.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+cities/kefalonia.jpg | https://commons.wikimedia.org/wiki/File:Myrtos_Beach,_Kefalonia,_Greece_-_20031008.jpg | CC BY 2.0 | Dan Taylor from London, UK
+highlights/kefalonia-6.jpg | https://commons.wikimedia.org/wiki/File:Fiskardo,_Kefalonia_IMG_5944.jpg_-_panoramio.jpg | CC BY 3.0 | Paul Lakin
+highlights/paros-5.jpg | https://www.flickr.com/photos/58661913@N00/14777926132 | BY 2.0 | limitsios
+highlights/milos-4.jpg | https://commons.wikimedia.org/wiki/File:Catacombs_of_Milos,_exterior,_entrance,_152710.jpg | CC BY-SA 4.0 | Zde
+highlights/rethymno-4.jpg | https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Amnatos,_Kloster_Arkadi,_Kirche_--_2023_--_8540.jpg | CC BY-SA 4.0 | Dietmar Rabich
+cities/symi.jpg | https://commons.wikimedia.org/wiki/File:View_of_Ano_Symi_from_the_northwest._Symi,_Greece.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/kos-2.jpg | https://commons.wikimedia.org/wiki/File:Tree_of_Hippocrates_2.jpg | CC BY-SA 3.0 | kallerna
+highlights/patmos-2.jpg | https://commons.wikimedia.org/wiki/File:Cave_of_the_apocalypse.jpg | CC BY-SA 4.0 | PLBechly
+highlights/kalamata-2.jpg | https://www.flickr.com/photos/139841152@N02/52229116876 | PDM 1.0 | Giannis Giannakitsas
+highlights/monemvasia-1.jpg | https://commons.wikimedia.org/wiki/File:Monemvasia_lower_town_from_NE_(1988)_02.jpg | CC BY 4.0 | Mark Landon (User:Choliamb)
+highlights/kavala-2.jpg | https://commons.wikimedia.org/wiki/File:Kavala_-_view_of_the_old_town_on_Panagia_peninsula.jpg | CC BY-SA 4.0 | Patrik Kunec
+highlights/ioannina-1.jpg | https://commons.wikimedia.org/wiki/File:Fethiye_Mosque,_Ioannina,_September_2022_01.jpg | CC BY-SA 4.0 | Calistemon
+highlights/kefalonia-1.jpg | https://commons.wikimedia.org/wiki/File:Argostoli_Mnimeio.JPG | CC BY-SA 2.5 | No machine-readable author provided. Christos Vittoratos ass
+cities/paros.jpg | https://www.flickr.com/photos/132050254@N04/19381808472 | PDM 1.0 | nickar1978
+highlights/paros-6.jpg | https://commons.wikimedia.org/wiki/File:GR-paros-antiparos-hafen.jpg | CC BY-SA 3.0 | Bgabel
+highlights/milos-5.jpg | https://www.flickr.com/photos/58661913@N00/28130581983 | BY 2.0 | limitsios
+cities/agios-nikolaos.jpg | https://commons.wikimedia.org/wiki/File:Agios_Nikolaos_R02.jpg | CC BY 3.0 | Marc Ryckaert (MJJR)
+highlights/symi-1.jpg | https://commons.wikimedia.org/wiki/File:View_of_Symi_settlement_from_its_harbour-2.jpg | Public domain | Szilas
+highlights/kos-3.jpg | https://www.flickr.com/photos/76319087@N08/31460646698 | CC0 1.0 | www.wbayer.com - www.facebook.com/wbayercom
+highlights/patmos-3.jpg | https://www.flickr.com/photos/87616709@N00/2177892437 | BY 2.0 | lyng883
+highlights/kalamata-3.jpg | https://commons.wikimedia.org/wiki/File:Sunset_Kalamata.jpg | CC BY-SA 3.0 | Oliver Deisenroth
+highlights/monemvasia-2.jpg | https://commons.wikimedia.org/wiki/File:MONEMVASIA_SQUARE_evlahos.jpg | CC BY-SA 3.0 | Evlahos
+highlights/kavala-3.jpg | https://commons.wikimedia.org/wiki/File:Kavala_Imaret_Hotel_tyh.jpg | CC BY-SA 3.0 | (original image), User:Deiadameian (cropped detail)
+highlights/ioannina-2.jpg | https://commons.wikimedia.org/wiki/File:Aslan_Pasha_Ottoman_mosque_in_Ioannina,_Greece.jpg | CC BY-SA 3.0 | Χαράλαμπος Γκούβας (Harrygouvas)
+highlights/kefalonia-2.jpg | https://commons.wikimedia.org/wiki/File:Melissani_Cave,_Kefalonia_3.jpg | CC BY 2.0 | Matt Sims
+highlights/paros-1.jpg | https://commons.wikimedia.org/wiki/File:Panagia_Ekatontapyliani,_Parikia,_Paros,_13M1174.jpg | CC BY-SA 4.0 | Zde
+cities/milos.jpg | https://commons.wikimedia.org/wiki/File:Firopotamos_%CE%A6%CF%85%CF%81%CE%BF%CF%80%CF%8C%CF%84%CE%B1%CE%BC%CE%BF%CF%82_Milos_%CE%9C%CE%AE%CE%BB%CE%BF%CF%82_2021-11-12_2528.jpg | CC BY-SA 4.0 | Manfred Werner (Tsui)
+cities/rethymno.jpg | https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Rethymno,_Church_Of_Four_Martyrs_--_2023_--_8372.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/agios-nikolaos-1.jpg | https://commons.wikimedia.org/wiki/File:Lake_Voulismeni,_Agios_Nikolaos,_Crete,_Sept_2019.jpg | CC BY-SA 4.0 | Cayambe
+highlights/symi-2.jpg | https://commons.wikimedia.org/wiki/File:Ano_Symi_856_00,_Greece_-_panoramio_(6).jpg | CC BY-SA 3.0 | INDALOMANIA
+highlights/kos-4.jpg | https://commons.wikimedia.org/wiki/File:The_ruins_of_Asklepieion_(Kos)_09.jpg | CC BY-SA 4.0 | Rodw
+highlights/patmos-4.jpg | https://commons.wikimedia.org/wiki/File:Patmos,_skala,_torre_dell%27ufficio_postale.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/kalamata-4.jpg | https://commons.wikimedia.org/wiki/File:Columns_in_Ancient_Messene_(7).jpg | CC BY-SA 4.0 | Peulle
+highlights/monemvasia-3.jpg | https://commons.wikimedia.org/wiki/File:Monemvasia_Upper-town_Agia-Sofia_20230926_104454.jpg | CC BY-SA 4.0 | Rigorius
+highlights/kavala-4.jpg | https://commons.wikimedia.org/wiki/File:Aqueduct_in_Kavala.jpg | CC BY-SA 2.0 | AJ Alfieri-Crispin
+highlights/ioannina-3.jpg | https://commons.wikimedia.org/wiki/File:Pamvotida_Lake_(%CE%9B%CE%AF%CE%BC%CE%BD%CE%B7_%CE%A0%CE%B1%CE%BC%CE%B2%CF%8E%CF%84%CE%B9%CE%B4%CE%B1)_02.JPG | CC BY-SA 4.0 | Pudelek
+highlights/kefalonia-3.jpg | https://commons.wikimedia.org/wiki/File:Drogarati_Cave_(240651041).jpeg | CC BY 3.0 | Lubomir Mihalik
+highlights/paros-2.jpg | https://www.flickr.com/photos/59081381@N03/53514026387 | BY-SA 2.0 | w_lemay
+highlights/milos-1.jpg | https://commons.wikimedia.org/wiki/File:Sarakiniko_Beach_on_Milos_Island,_Greece_with_a_view_of_the_Aegean_Sea.jpg | CC BY 2.0 | dronepicr
+highlights/rethymno-1.jpg | https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Rethymno,_Fortezza_--_2023_--_8321.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/agios-nikolaos-2.jpg | https://commons.wikimedia.org/wiki/File:Spinalonga_(35052199191).jpg | CC BY-SA 2.0 | Rolf Dietrich Brecher from Germany
+highlights/symi-3.jpg | https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F._Archangel_Michael_of_Panormitis_Monastery._Panormitis._%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_Symi._Greece._%D0%98%D1%8E%D0%BD%D1%8C_2014_-_panoramio.jpg | CC BY-SA 3.0 | Vadim Indeikin
+highlights/kos-5.jpg | https://commons.wikimedia.org/wiki/File:Zia-kos-street.jpg | CC BY-SA 2.5 | Thomas Feldes
+highlights/kalamata-5.jpg | https://commons.wikimedia.org/wiki/File:Palace_at_Mystras_by_Joy_of_Museums.jpg | CC BY-SA 4.0 | Joyofmuseums
+highlights/monemvasia-4.jpg | https://commons.wikimedia.org/wiki/File:Mur_Est_de_la_ville_basse_de_Monemvasia_vu_de_l%27ext%C3%A9rieur.jpg | CC BY-SA 4.0 | Patrice78500
+highlights/kavala-5.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_site_of_Philippi_BW_2017-10-05_13-35-57.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/ioannina-4.jpg | https://commons.wikimedia.org/wiki/File:Perama_Cave_Cross.jpg | CC0 | PaigePhault
+highlights/kefalonia-4.jpg | https://www.flickr.com/photos/33174580@N00/35461645714 | BY-SA 2.0 | Mike_fleming
+highlights/milos-2.jpg | https://commons.wikimedia.org/wiki/File:Area_of_Tramythia,_Plaka,_Klima,_on_Milos,_152832.jpg | CC BY-SA 4.0 | Zde
+highlights/rethymno-2.jpg | https://commons.wikimedia.org/wiki/File:Crete,_Rethymno,_Venetian_harbour_BW_2026-10-16_14-54-07.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/agios-nikolaos-3.jpg | https://www.flickr.com/photos/22083482@N03/2700743410 | BY 2.0 | George M. Groutas
+cities/kos.jpg | https://commons.wikimedia.org/wiki/File:Castri_island_and_chapel_of_St._Nicholas._Kos,_Greece.jpg | CC BY-SA 3.0 | Ввласенко
+cities/patmos.jpg | https://commons.wikimedia.org/wiki/File:Patmos,_chora,_monastero_di_Zoodochos_Pighi,_campanile_a_vela_2.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/paros-3.jpg | https://commons.wikimedia.org/wiki/File:Naousa_Town.jpg | CC BY-SA 2.0 | Martin Swart
