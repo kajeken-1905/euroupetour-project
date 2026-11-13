@@ -69,4 +69,92 @@ export const placesNOExtra: Place[] = [
 
   // —— flam: bakeries and cafés (2026-11-04) ——
   place('flam-cafe-1', 'flam', 'cafe', 'Coffee & Eats', 'Flåm Market, 5743 Flåm', '플롬역 앞 상가의 커피·샌드위치 가게.', 'Coffee and sandwich shop in the shopping arcade by Flåm station.'),
+
+  // —— fredrikstad: restaurants, bakeries and cafés (2026-11-13) ——
+  place('fredrikstad-fine_dining-1', 'fredrikstad', 'fine_dining', 'Restaurant Koriander Matværste', 'Jens Wilhelmsens gate 7, Fredrikstad', '프레드릭스타드의 레스토랑. 구글 지도 평점 4.9.', 'Restaurant in Fredrikstad. Rated 4.9 on Google Maps.'),
+  place('fredrikstad-fine_dining-2', 'fredrikstad', 'fine_dining', 'Restaurant Slippen', 'Verkstedveien 12, Fredrikstad', '프레드릭스타드의 강변 레스토랑. 구글 지도 평점 4.6.', 'Waterfront restaurant in Fredrikstad. Rated 4.6 on Google Maps.'),
+  place('fredrikstad-fine_dining-3', 'fredrikstad', 'fine_dining', 'Elina House', 'Farmanns gate 1, Fredrikstad', '프레드릭스타드의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Fredrikstad. Rated 4.8 on Google Maps.'),
+  place('fredrikstad-fine_dining-4', 'fredrikstad', 'fine_dining', 'Restaurant Mother India', 'Storgata 20, Fredrikstad', '프레드릭스타드의 인도 요리 식당. 구글 지도 평점 4.5.', 'Indian restaurant in Fredrikstad. Rated 4.5 on Google Maps.'),
+  place('fredrikstad-bakery-1', 'fredrikstad', 'bakery', 'Odds konditori', 'Farmanns gate 3, Fredrikstad', '프레드릭스타드의 제과점. 구글 지도 평점 4.6.', 'Pâtisserie in Fredrikstad. Rated 4.6 on Google Maps.'),
+  place('fredrikstad-bakery-2', 'fredrikstad', 'bakery', 'Bakfickan', 'Olaf M. Holwechs gate 2, Fredrikstad', '프레드릭스타드의 빵집. 구글 지도 평점 4.6.', 'Bakery in Fredrikstad. Rated 4.6 on Google Maps.'),
+  place('fredrikstad-bakery-3', 'fredrikstad', 'bakery', 'Backstube Fredrikstad', 'Nygaardsgata 55, Fredrikstad', '프레드릭스타드의 빵집. 구글 지도 평점 4.4.', 'Bakery in Fredrikstad. Rated 4.4 on Google Maps.'),
+  place('fredrikstad-cafe-1', 'fredrikstad', 'cafe', 'Café Cicignon', 'Ridehusgata 14, Fredrikstad', '프레드릭스타드의 구시가지(감레뷔엔) 카페. 구글 지도 평점 4.7.', 'Café in the Old Town (Gamlebyen) in Fredrikstad. Rated 4.7 on Google Maps.'),
+  place('fredrikstad-cafe-2', 'fredrikstad', 'cafe', 'Mormors Cafe', 'Raadhusgaten 18 a, Fredrikstad', '프레드릭스타드의 카페. 구글 지도 평점 4.3.', 'Café in Fredrikstad. Rated 4.3 on Google Maps.'),
+  place('fredrikstad-cafe-3', 'fredrikstad', 'cafe', 'Café Magenta', 'Toldbodgaten 105, Fredrikstad', '프레드릭스타드의 구시가지 카페. 구글 지도 평점 4.4.', 'Café in the Old Town in Fredrikstad. Rated 4.4 on Google Maps.'),
+
+  // —— lillehammer: restaurants, bakeries and cafés (2026-11-13) ——
+  place('lillehammer-fine_dining-1', 'lillehammer', 'fine_dining', 'Hvelvet', 'Stortorget 1, Lillehammer', '릴레함메르의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Lillehammer. Rated 4.5 on Google Maps.'),
+  place('lillehammer-fine_dining-2', 'lillehammer', 'fine_dining', 'LYNG mat & bar', 'Nymosvingen 2, Lillehammer', '릴레함메르의 노르웨이 요리 식당. 구글 지도 평점 4.8.', 'Norwegian restaurant in Lillehammer. Rated 4.8 on Google Maps.'),
+  place('lillehammer-fine_dining-3', 'lillehammer', 'fine_dining', 'OLIVEN Spiseri', 'Storgata 57, Lillehammer', '릴레함메르의 그리스 요리 식당. 구글 지도 평점 4.7.', 'Greek restaurant in Lillehammer. Rated 4.7 on Google Maps.'),
+  place('lillehammer-fine_dining-4', 'lillehammer', 'fine_dining', 'Det Lille Pannekakehuset', 'Nymosvingen 10, Lillehammer', '릴레함메르의 팬케이크 식당. 구글 지도 평점 4.6.', 'Pancake restaurant in Lillehammer. Rated 4.6 on Google Maps.'),
+  place('lillehammer-bakery-1', 'lillehammer', 'bakery', 'Lillehammer Bakeri', 'Mesnakvartalet 15, Lillehammer', '릴레함메르의 빵집. 구글 지도 평점 4.8.', 'Bakery in Lillehammer. Rated 4.8 on Google Maps.'),
+  place('lillehammer-cafe-1', 'lillehammer', 'cafe', 'Cafe Sorgenfri', 'Storgata 64A, Lillehammer', '릴레함메르의 카페. 구글 지도 평점 4.7.', 'Café in Lillehammer. Rated 4.7 on Google Maps.'),
+  place('lillehammer-cafe-2', 'lillehammer', 'cafe', 'Brygg Kaffebar', 'Kirkegata 68, Lillehammer', '릴레함메르의 커피 전문점. 구글 지도 평점 4.8.', 'Coffee bar in Lillehammer. Rated 4.8 on Google Maps.'),
+  place('lillehammer-cafe-3', 'lillehammer', 'cafe', 'Kafe Fønix', 'Storgata 46, Lillehammer', '릴레함메르의 카페. 구글 지도 평점 4.8.', 'Café in Lillehammer. Rated 4.8 on Google Maps.'),
+
+  // —— kristiansand: restaurants, bakeries and cafés (2026-11-13) ——
+  place('kristiansand-fine_dining-1', 'kristiansand', 'fine_dining', 'Smag & Behag', 'Dronningens gate 48a, Kristiansand', '크리스티안산의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Kristiansand. Rated 4.8 on Google Maps.'),
+  place('kristiansand-fine_dining-2', 'kristiansand', 'fine_dining', 'TilStede mat og mer', 'Markens gate 29, Kristiansand', '크리스티안산의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Kristiansand. Rated 4.7 on Google Maps.'),
+  place('kristiansand-fine_dining-3', 'kristiansand', 'fine_dining', 'Bønder i Byen', 'Rådhusgata 16, Kristiansand', '크리스티안산의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Kristiansand. Rated 4.5 on Google Maps.'),
+  place('kristiansand-fine_dining-4', 'kristiansand', 'fine_dining', 'Sjøhuset Restaurant', 'Østre Strandgate 12, Kristiansand', '크리스티안산의 해산물 식당. 구글 지도 평점 4.4.', 'Seafood restaurant in Kristiansand. Rated 4.4 on Google Maps.'),
+  place('kristiansand-bakery-1', 'kristiansand', 'bakery', 'The Odd Bakery', 'Kronprinsens gate 57, Kristiansand', '크리스티안산의 빵집. 구글 지도 평점 4.8.', 'Bakery in Kristiansand. Rated 4.8 on Google Maps.'),
+  place('kristiansand-bakery-2', 'kristiansand', 'bakery', 'Grim bakeri & konditori', 'Grim Torv 3, Kristiansand', '크리스티안산의 빵집·제과점. 구글 지도 평점 4.3.', 'Bakery and pâtisserie in Kristiansand. Rated 4.3 on Google Maps.'),
+  place('kristiansand-cafe-1', 'kristiansand', 'cafe', 'Cuba Life Kaffebar', 'Tollbodgata 6, Kristiansand', '크리스티안산의 커피 전문점. 구글 지도 평점 4.8.', 'Coffee bar in Kristiansand. Rated 4.8 on Google Maps.'),
+  place('kristiansand-cafe-2', 'kristiansand', 'cafe', 'Spiren Kafe', 'Dronningens gate 52, Kristiansand', '크리스티안산의 채식 카페. 구글 지도 평점 4.7.', 'Vegetarian café in Kristiansand. Rated 4.7 on Google Maps.'),
+  place('kristiansand-cafe-3', 'kristiansand', 'cafe', 'Camillo Bastrup', 'Markens gate 53, Kristiansand', '크리스티안산의 카페. 구글 지도 평점 4.6.', 'Café in Kristiansand. Rated 4.6 on Google Maps.'),
+
+  // —— voss: restaurants, bakeries and cafés (2026-11-13) ——
+  place('voss-fine_dining-1', 'voss', 'fine_dining', 'Eyyes Lokanta', 'Gurid Almenningens Plass 1, Voss', '보스의 튀르키예 요리 식당. 구글 지도 평점 4.8.', 'Turkish restaurant in Voss. Rated 4.8 on Google Maps.'),
+  place('voss-fine_dining-2', 'voss', 'fine_dining', 'Vossa Sushi', 'Uttrågata 29, Voss', '보스의 초밥집. 구글 지도 평점 4.8.', 'Sushi restaurant in Voss. Rated 4.8 on Google Maps.'),
+  place('voss-bakery-1', 'voss', 'bakery', 'VossaBakst', 'Vangsgata 38, Voss', '보스의 빵집. 구글 지도 평점 4.5.', 'Bakery in Voss. Rated 4.5 on Google Maps.'),
+  place('voss-cafe-1', 'voss', 'cafe', 'Vangen Café', 'Hestavangen 3, Voss', '보스의 카페. 구글 지도 평점 4.5.', 'Café in Voss. Rated 4.5 on Google Maps.'),
+  place('voss-cafe-2', 'voss', 'cafe', 'Skrot Kafé & Bar', 'Vangsgata 31, Voss', '보스의 카페·바. 구글 지도 평점 4.8.', 'Café and bar in Voss. Rated 4.8 on Google Maps.'),
+
+  // —— odda: restaurants, bakeries and cafés (2026-11-13) ——
+  place('odda-fine_dining-1', 'odda', 'fine_dining', 'Aaks Bistro', 'Eitrheimsvegen 10, Odda', '오다의 노르웨이 요리 식당. 구글 지도 평점 4.8.', 'Norwegian restaurant in Odda. Rated 4.8 on Google Maps.'),
+  place('odda-fine_dining-2', 'odda', 'fine_dining', 'Ferskvaren', 'Røldalsvegen 31, Odda', '오다의 노르웨이 요리 식당. 구글 지도 평점 4.6.', 'Norwegian restaurant in Odda. Rated 4.6 on Google Maps.'),
+  place('odda-fine_dining-3', 'odda', 'fine_dining', 'Langhuset Restaurant', 'Hjøllovegen 12, Odda', '오다의 노르웨이 요리 식당. 구글 지도 평점 4.5.', 'Norwegian restaurant in Odda. Rated 4.5 on Google Maps.'),
+  place('odda-cafe-1', 'odda', 'cafe', 'Cafe Verket', 'Smelteverket 8, Odda', '오다의 옛 제련소 단지의 카페. 구글 지도 평점 4.7.', 'Café in the old smelter complex in Odda. Rated 4.7 on Google Maps.'),
+  place('odda-cafe-2', 'odda', 'cafe', 'Kafe Pause', 'Røldalsvegen 18-24, Odda', '오다의 카페. 구글 지도 평점 4.3.', 'Café in Odda. Rated 4.3 on Google Maps.'),
+
+  // —— geiranger: restaurants, bakeries and cafés (2026-11-13) ——
+  place('geiranger-fine_dining-1', 'geiranger', 'fine_dining', 'Brasserie Posten', 'Geirangervegen 4, Geiranger', '예이랑에르의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Geiranger. Rated 4.6 on Google Maps.'),
+  place('geiranger-cafe-1', 'geiranger', 'cafe', 'CaféOlé', 'Maråkvegen 19, Geiranger', '예이랑에르의 카페. 구글 지도 평점 4.4.', 'Café in Geiranger. Rated 4.4 on Google Maps.'),
+
+  // —— roros: restaurants, bakeries and cafés (2026-11-13) ——
+  place('roros-fine_dining-1', 'roros', 'fine_dining', 'Burger and beers', 'Henrik Grønns vei 6, Røros', '뢰로스의 버거 식당. 구글 지도 평점 4.7.', 'Burger restaurant in Røros. Rated 4.7 on Google Maps.'),
+  place('roros-bakery-1', 'roros', 'bakery', 'Trygstad bakeri og konditori', 'Kjerkgata 12, Røros', '뢰로스의 빵집·제과점. 구글 지도 평점 4.6.', 'Bakery and pâtisserie in Røros. Rated 4.6 on Google Maps.'),
+  place('roros-bakery-2', 'roros', 'bakery', 'Bakeriet på Røros', 'Hans Aasengata 5, Røros', '뢰로스의 빵집. 구글 지도 평점 4.5.', 'Bakery in Røros. Rated 4.5 on Google Maps.'),
+
+  // —— bodo: restaurants, bakeries and cafés (2026-11-13) ——
+  place('bodo-fine_dining-1', 'bodo', 'fine_dining', 'Brasilia Bodø', 'Sjøgata 31B, Bodø', '보되의 브라질 요리 식당. 구글 지도 평점 4.6.', 'Brazilian restaurant in Bodø. Rated 4.6 on Google Maps.'),
+  place('bodo-fine_dining-2', 'bodo', 'fine_dining', 'Bryggerikaia', 'Sjøgata 1, Bodø', '보되의 노르웨이 요리 식당. 구글 지도 평점 4.3.', 'Norwegian restaurant in Bodø. Rated 4.3 on Google Maps.'),
+  place('bodo-fine_dining-3', 'bodo', 'fine_dining', 'Hundholmen Brygghus', 'Tollbugata 13, Bodø', '보되의 양조장 레스토랑. 구글 지도 평점 4.4.', 'Brewpub restaurant in Bodø. Rated 4.4 on Google Maps.'),
+  place('bodo-fine_dining-4', 'bodo', 'fine_dining', 'Pangea Kitchen & Bar', 'Storgata 5C, Bodø', '보되의 레스토랑. 구글 지도 평점 4.4.', 'Restaurant in Bodø. Rated 4.4 on Google Maps.'),
+  place('bodo-bakery-1', 'bodo', 'bakery', 'Berbusmel', 'Storgata 7C, Bodø', '보되의 빵집. 구글 지도 평점 4.6.', 'Bakery in Bodø. Rated 4.6 on Google Maps.'),
+  place('bodo-bakery-2', 'bodo', 'bakery', 'Craig Alibone Pâtisserie', 'Torvgata 1, Bodø', '보되의 제과점. 구글 지도 평점 4.7.', 'Pâtisserie in Bodø. Rated 4.7 on Google Maps.'),
+  place('bodo-bakery-3', 'bodo', 'bakery', 'Baker Olsen', 'Sjøgata 33, Bodø', '보되의 빵집. 구글 지도 평점 4.4.', 'Bakery in Bodø. Rated 4.4 on Google Maps.'),
+  place('bodo-cafe-1', 'bodo', 'cafe', 'Maloca Coffee & Food', 'Dronningens gate 30, Bodø', '보되의 카페. 구글 지도 평점 4.5.', 'Café in Bodø. Rated 4.5 on Google Maps.'),
+
+  // —— lofoten: restaurants, bakeries and cafés (2026-11-13) ——
+  place('lofoten-fine_dining-1', 'lofoten', 'fine_dining', 'Børsen Spiseri', 'Gunnar Bergs vei 2, Svolvær', '스볼베르의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Svolvær. Rated 4.6 on Google Maps.'),
+  place('lofoten-fine_dining-2', 'lofoten', 'fine_dining', 'Fellini Restaurant', 'Vestfjordgata 8, Svolvær', '스볼베르의 이탈리아 요리 식당. 구글 지도 평점 4.5.', 'Italian restaurant in Svolvær. Rated 4.5 on Google Maps.'),
+  place('lofoten-fine_dining-3', 'lofoten', 'fine_dining', 'Anita\'s Sjømat', 'Sakrisøy', '사크리쇠위의 해산물 식당. 구글 지도 평점 4.6.', 'Seafood restaurant on Sakrisøy. Rated 4.6 on Google Maps.'),
+  place('lofoten-fine_dining-4', 'lofoten', 'fine_dining', 'Tapperiet Bistro', 'Reineveien 164, Reine', '레이네의 비스트로. 구글 지도 평점 4.5.', 'Bistro in Reine. Rated 4.5 on Google Maps.'),
+  place('lofoten-fine_dining-5', 'lofoten', 'fine_dining', 'Restaurant Gammelbua', 'Reineveien 165, Reine', '레이네의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Reine. Rated 4.7 on Google Maps.'),
+  place('lofoten-fine_dining-6', 'lofoten', 'fine_dining', 'Maren Anna', 'Gamle Sørvågen 12, Sørvågen', '쇠르보겐의 해산물 식당. 구글 지도 평점 4.6.', 'Seafood restaurant in Sørvågen. Rated 4.6 on Google Maps.'),
+  place('lofoten-bakery-1', 'lofoten', 'bakery', 'Bakeriet på Å', 'Å vegen 21, Å', '오(Å) 마을의 빵집. 구글 지도 평점 4.5.', 'Bakery in Å. Rated 4.5 on Google Maps.'),
+  place('lofoten-bakery-2', 'lofoten', 'bakery', 'Lofoten Bakeri', 'Storgata 34, Leknes', '레크네스의 빵집. 구글 지도 평점 4.5.', 'Bakery in Leknes. Rated 4.5 on Google Maps.'),
+  place('lofoten-cafe-1', 'lofoten', 'cafe', 'Henningsvær Lysstøperi og Cafe', 'Gammelveien 2, Henningsvær', '헨닝스베르의 양초 공방 카페. 구글 지도 평점 4.7.', 'Candle workshop and café in Henningsvær. Rated 4.7 on Google Maps.'),
+  place('lofoten-cafe-2', 'lofoten', 'cafe', 'Klatrekaféen', 'Misværveien 10, Henningsvær', '헨닝스베르의 카페. 구글 지도 평점 4.6.', 'Café in Henningsvær. Rated 4.6 on Google Maps.'),
+  place('lofoten-cafe-3', 'lofoten', 'cafe', 'Deja Brew', 'Sivert Nilsens gt. 26, Svolvær', '스볼베르의 커피 전문점. 구글 지도 평점 4.7.', 'Coffee bar in Svolvær. Rated 4.7 on Google Maps.'),
+  place('lofoten-cafe-4', 'lofoten', 'cafe', 'Chocolateroom', 'Gravdalsgata 15, Leknes', '레크네스의 카페. 구글 지도 평점 4.9.', 'Café in Leknes. Rated 4.9 on Google Maps.'),
+
+  // —— honningsvag: restaurants, bakeries and cafés (2026-11-13) ——
+  place('honningsvag-fine_dining-1', 'honningsvag', 'fine_dining', 'Corner Spiseri', 'Fiskeriveien 2A, Honningsvåg', '호닝스보그의 레스토랑. 구글 지도 평점 4.4.', 'Restaurant in Honningsvåg. Rated 4.4 on Google Maps.'),
+  place('honningsvag-fine_dining-2', 'honningsvag', 'fine_dining', 'Havly Restaurant', 'Storgata 12B, Honningsvåg', '호닝스보그의 레스토랑. 구글 지도 평점 4.4.', 'Restaurant in Honningsvåg. Rated 4.4 on Google Maps.'),
+  place('honningsvag-fine_dining-3', 'honningsvag', 'fine_dining', 'Soi 9 Restaurant & Bar', 'Sjøgata 6, Honningsvåg', '호닝스보그의 태국 요리 식당. 구글 지도 평점 4.5.', 'Thai restaurant in Honningsvåg. Rated 4.5 on Google Maps.'),
+  place('honningsvag-bakery-1', 'honningsvag', 'bakery', 'Honni Bakes', 'Sjøgata 2, Honningsvåg', '호닝스보그의 빵집. 구글 지도 평점 4.6.', 'Bakery in Honningsvåg. Rated 4.6 on Google Maps.'),
+  place('honningsvag-cafe-1', 'honningsvag', 'cafe', 'NOR Cafe & Bistro', 'Holmen 6B, Honningsvåg', '호닝스보그의 카페·비스트로. 구글 지도 평점 4.7.', 'Café and bistro in Honningsvåg. Rated 4.7 on Google Maps.'),
+  place('honningsvag-cafe-2', 'honningsvag', 'cafe', 'KOS Kitchen and Small Shop', 'Storgata 22, Honningsvåg', '호닝스보그의 카페. 구글 지도 평점 4.5.', 'Café in Honningsvåg. Rated 4.5 on Google Maps.'),
 ]

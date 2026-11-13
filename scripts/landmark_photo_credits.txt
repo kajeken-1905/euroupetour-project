@@ -3710,3 +3710,8 @@ highlights/lofoten-1.jpg | https://commons.wikimedia.org/wiki/File:Houses_of_Rei
 cities/honningsvag.jpg | https://www.flickr.com/photos/21779865@N08/2111924173 | BY 2.0 | arcticroute.com
 highlights/geiranger-4.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Geirangerfjorden_from_%C3%98rnesvingen_20150604_1.jpg | CC BY-SA 4.0 | DXR
 highlights/honningsvag-4.jpg | https://commons.wikimedia.org/wiki/File:Honningsv%C3%A5g_kirke,_Nordkapp_kommune.jpg | CC BY-SA 4.0 | Lars Engerengen
+gateways/gw-krs.jpg | https://commons.wikimedia.org/wiki/File:KRISTIANSAND_LUFTHAVN_KJEVIK_INTERNATIONAL_airside_stand_11.jpg | CC BY-SA 4.0 | Vjikiun
+gateways/gw-boo.jpg | https://commons.wikimedia.org/wiki/File:Bod%C3%B8_lufthavn.jpg | CC BY-SA 2.5 | Lars Røed Hansen
+gateways/gw-svj.jpg | https://commons.wikimedia.org/wiki/File:Svolvaer-lufthavn.jpg | CC BY 3.0 | Algkalv (talk)
+gateways/gw-lkn.jpg | https://commons.wikimedia.org/wiki/File:LKN-leknes-lufthavn-exterior.jpg | Public domain | Algkalv (talk)
+gateways/gw-hvg.jpg | https://commons.wikimedia.org/wiki/File:Honningsv%C3%A5g_Airport_02.jpg | CC BY-SA 4.0 | Davide Mauro
