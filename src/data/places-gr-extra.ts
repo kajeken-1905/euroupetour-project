@@ -141,4 +141,124 @@ export const placesGRExtra: Place[] = [
   // —— naxos: bakeries and cafés (2026-11-04) ——
   place('naxos-bakery-1', 'naxos', 'bakery', 'Naxos Bakery', 'Sokratous Papavasiliou, Naxos 843 00', '낙소스 시내의 빵집.', 'Bakery in Naxos town.'),
   place('naxos-cafe-1', 'naxos', 'cafe', 'Avaton 1739', 'Kastro, Naxos 843 00', '카스트로(성채) 안의 카페 겸 와인 바. 옥상 테라스가 있습니다.', 'Café and wine bar inside the Kastro, with a roof terrace.'),
+
+  // —— kalamata: restaurants, bakeries and cafés (2026-11-13) ——
+  place('kalamata-fine_dining-1', 'kalamata', 'fine_dining', 'Aphrálato', 'Miaouli 30, Kalamata', '칼라마타의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Kalamata. Rated 4.8 on Google Maps.'),
+  place('kalamata-fine_dining-2', 'kalamata', 'fine_dining', 'To katofli', 'Salaminos 20, Kalamata', '칼라마타의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Kalamata. Rated 4.8 on Google Maps.'),
+  place('kalamata-fine_dining-3', 'kalamata', 'fine_dining', 'Kardamo', 'Sidirodromikou Stathmou 21, Kalamata', '칼라마타의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Kalamata. Rated 4.6 on Google Maps.'),
+  place('kalamata-fine_dining-4', 'kalamata', 'fine_dining', 'Ta Rolla', 'Spartis 53, Kalamata', '칼라마타의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Kalamata. Rated 4.6 on Google Maps.'),
+  place('kalamata-bakery-1', 'kalamata', 'bakery', 'Pes Alevri (Πες Αλεύρι)', 'Kampysi 17, Kalamata', '칼라마타의 빵집. 구글 지도 평점 4.9.', 'Bakery in Kalamata. Rated 4.9 on Google Maps.'),
+  place('kalamata-bakery-2', 'kalamata', 'bakery', 'Apolausi Sweet Lab', 'Κρήτης 22 και Μαιζώνος 103, Kalamata', '칼라마타의 제과점. 구글 지도 평점 4.7.', 'Patisserie in Kalamata. Rated 4.7 on Google Maps.'),
+  place('kalamata-bakery-3', 'kalamata', 'bakery', 'Bake My Day', 'Navarinou 93, Kalamata', '칼라마타의 페이스트리 가게. 구글 지도 평점 4.5.', 'Pastry shop in Kalamata. Rated 4.5 on Google Maps.'),
+  place('kalamata-cafe-1', 'kalamata', 'cafe', 'AfoiManetta', 'King George Square, Kalamata', '칼라마타의 카페. 구글 지도 평점 4.8.', 'Café in Kalamata. Rated 4.8 on Google Maps.'),
+  place('kalamata-cafe-2', 'kalamata', 'cafe', 'Lord Cafe', 'Faron 143, Kalamata', '칼라마타의 카페. 구글 지도 평점 4.9.', 'Café in Kalamata. Rated 4.9 on Google Maps.'),
+  place('kalamata-cafe-3', 'kalamata', 'cafe', 'Kalimera Artisan Coffee', 'Faron 150, Kalamata', '칼라마타의 카페. 구글 지도 평점 4.7.', 'Café in Kalamata. Rated 4.7 on Google Maps.'),
+
+  // —— monemvasia: restaurants, bakeries and cafés (2026-11-13) ——
+  place('monemvasia-fine_dining-1', 'monemvasia', 'fine_dining', 'Voltes', 'Γιάννη Ρίτσου, Monemvasia', '모넴바시아의 그리스 요리 식당. 구글 지도 평점 4.8.', 'Greek restaurant in Monemvasia. Rated 4.8 on Google Maps.'),
+  place('monemvasia-fine_dining-2', 'monemvasia', 'fine_dining', 'Oinomelo', 'Γιάννη Ρίτσου, Monemvasia', '모넴바시아의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Monemvasia. Rated 4.6 on Google Maps.'),
+  place('monemvasia-fine_dining-3', 'monemvasia', 'fine_dining', 'Mateo\'s', 'Malvazia 3, Monemvasia', '모넴바시아의 해산물 식당. 구글 지도 평점 4.6.', 'Seafood restaurant in Monemvasia. Rated 4.6 on Google Maps.'),
+  place('monemvasia-bakery-1', 'monemvasia', 'bakery', 'Charamis Cakeshop (Χαράμης)', '23ης Ιουλίου 1821 6, Monemvasia', '모넴바시아의 제과점. 구글 지도 평점 4.7.', 'Patisserie in Monemvasia. Rated 4.7 on Google Maps.'),
+  place('monemvasia-bakery-2', 'monemvasia', 'bakery', 'Bakery Kamarinos', '23ης Ιουλίου 1821 17, Monemvasia', '모넴바시아의 빵집. 구글 지도 평점 4.4.', 'Bakery in Monemvasia. Rated 4.4 on Google Maps.'),
+  place('monemvasia-cafe-1', 'monemvasia', 'cafe', 'Enetiko Cafe & Cocktail Bar', 'Γιάννη Ρίτσου, Monemvasia', '모넴바시아의 카페. 구글 지도 평점 4.5.', 'Café in Monemvasia. Rated 4.5 on Google Maps.'),
+
+  // —— kavala: restaurants, bakeries and cafés (2026-11-13) ——
+  place('kavala-fine_dining-1', 'kavala', 'fine_dining', 'Atopo Bistronomy', 'Lamprou Katsoni 3, Kavala', '카발라의 레스토랑. 구글 지도 평점 4.9.', 'Restaurant in Kavala. Rated 4.9 on Google Maps.'),
+  place('kavala-fine_dining-2', 'kavala', 'fine_dining', 'Ta Batzanakia', 'Volou 91, Kavala', '카발라의 그리스 요리 식당. 구글 지도 평점 4.8.', 'Greek restaurant in Kavala. Rated 4.8 on Google Maps.'),
+  place('kavala-fine_dining-3', 'kavala', 'fine_dining', 'Apiko Tsipouradiko (Απίκο Τσιπουράδικο)', 'Erithrou Stavrou 2, Kavala', '카발라의 메제(작은 접시 요리) 식당. 구글 지도 평점 4.5.', 'Small-plates (meze) restaurant in Kavala. Rated 4.5 on Google Maps.'),
+  place('kavala-fine_dining-4', 'kavala', 'fine_dining', 'Mermaids And Guys', 'Ellis 2-10, Kavala', '카발라의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Kavala. Rated 4.7 on Google Maps.'),
+  place('kavala-bakery-1', 'kavala', 'bakery', 'Ntinos Patisserie', 'El. Venizelou 25, Kavala', '카발라의 제과점. 구글 지도 평점 4.8.', 'Patisserie in Kavala. Rated 4.8 on Google Maps.'),
+  place('kavala-bakery-2', 'kavala', 'bakery', 'Boulangerie Boutique by Chef Konstandinos', 'Poulidou 31, Kavala', '카발라의 제과점. 구글 지도 평점 4.8.', 'Patisserie in Kavala. Rated 4.8 on Google Maps.'),
+  place('kavala-bakery-3', 'kavala', 'bakery', 'Wood Bakery I Trapeza (Η Τράπεζα)', 'Tenedou 32, Kavala', '카발라의 빵집. 구글 지도 평점 4.7.', 'Bakery in Kavala. Rated 4.7 on Google Maps.'),
+  place('kavala-cafe-1', 'kavala', 'cafe', 'Chateau Espresso Bar', 'Poulidou 10, Kavala', '카발라의 에스프레소 바. 구글 지도 평점 4.9.', 'Espresso bar in Kavala. Rated 4.9 on Google Maps.'),
+  place('kavala-cafe-2', 'kavala', 'cafe', 'Good Morning bread & coffee', 'Zaloggou 15, Kavala', '카발라의 카페. 구글 지도 평점 4.8.', 'Café in Kavala. Rated 4.8 on Google Maps.'),
+  place('kavala-cafe-3', 'kavala', 'cafe', 'Caffeine Roastery', 'Chrisostomou Smirnis 8, Kavala', '카발라의 카페. 구글 지도 평점 4.6.', 'Café in Kavala. Rated 4.6 on Google Maps.'),
+
+  // —— ioannina: restaurants, bakeries and cafés (2026-11-13) ——
+  place('ioannina-fine_dining-1', 'ioannina', 'fine_dining', 'Balsamico', 'Plateia Neomartiros Georgiou 17, Ioannina', '이오아니나의 그리스 요리 식당. 구글 지도 평점 4.7.', 'Greek restaurant in Ioannina. Rated 4.7 on Google Maps.'),
+  place('ioannina-fine_dining-2', 'ioannina', 'fine_dining', 'Metsovitiki Folia', 'Averof 101, Ioannina', '이오아니나의 숯불구이 식당. 구글 지도 평점 4.8.', 'Grill restaurant in Ioannina. Rated 4.8 on Google Maps.'),
+  place('ioannina-fine_dining-3', 'ioannina', 'fine_dining', 'Presveia Restaurant Meze', 'Leof. Karamanli 17, Ioannina', '이오아니나의 메제(작은 접시 요리) 식당. 구글 지도 평점 4.7.', 'Small-plates (meze) restaurant in Ioannina. Rated 4.7 on Google Maps.'),
+  place('ioannina-fine_dining-4', 'ioannina', 'fine_dining', 'Fysa Roufa', 'Averof 45, Ioannina', '이오아니나의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Ioannina. Rated 4.6 on Google Maps.'),
+  place('ioannina-bakery-1', 'ioannina', 'bakery', 'Melísitos', '28is Oktovriou 9, Ioannina', '이오아니나의 빵집. 구글 지도 평점 4.9.', 'Bakery in Ioannina. Rated 4.9 on Google Maps.'),
+  place('ioannina-bakery-2', 'ioannina', 'bakery', 'Gateaux', 'Fotou Tzavella 5, Ioannina', '이오아니나의 제과점. 구글 지도 평점 4.6.', 'Patisserie in Ioannina. Rated 4.6 on Google Maps.'),
+  place('ioannina-cafe-1', 'ioannina', 'cafe', 'YARD Specialty Coffee & Brunch', 'Kon/nou Karamanli 2, Ioannina', '이오아니나의 브런치 카페. 구글 지도 평점 4.8.', 'Brunch café in Ioannina. Rated 4.8 on Google Maps.'),
+  place('ioannina-cafe-2', 'ioannina', 'cafe', 'Coffee Lab', 'Pirsinela 12, Ioannina', '이오아니나의 카페. 구글 지도 평점 4.8.', 'Café in Ioannina. Rated 4.8 on Google Maps.'),
+  place('ioannina-cafe-3', 'ioannina', 'cafe', 'Limné', 'Stratarchou Papagou 30, Ioannina', '이오아니나의 카페. 구글 지도 평점 5.0.', 'Café in Ioannina. Rated 5.0 on Google Maps.'),
+
+  // —— kefalonia: restaurants, bakeries and cafés (2026-11-13) ——
+  place('kefalonia-fine_dining-1', 'kefalonia', 'fine_dining', 'Palia Plaka', 'Agnis Metaxa 2, Argostoli', '아르고스톨리의 그리스 요리 식당. 구글 지도 평점 4.7.', 'Greek restaurant in Argostoli. Rated 4.7 on Google Maps.'),
+  place('kefalonia-fine_dining-2', 'kefalonia', 'fine_dining', 'Tzivras', 'Vandorou 1, Argostoli', '아르고스톨리의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Argostoli. Rated 4.7 on Google Maps.'),
+  place('kefalonia-fine_dining-3', 'kefalonia', 'fine_dining', 'Edepa (Εδεπά)', 'Sitemporon 59, Argostoli', '아르고스톨리의 메제(작은 접시 요리) 식당. 구글 지도 평점 4.9.', 'Small-plates (meze) restaurant in Argostoli. Rated 4.9 on Google Maps.'),
+  place('kefalonia-fine_dining-4', 'kefalonia', 'fine_dining', 'Baroque le Bistrot', 'P. Vallianou 3, Argostoli', '아르고스톨리의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Argostoli. Rated 4.6 on Google Maps.'),
+  place('kefalonia-bakery-1', 'kefalonia', 'bakery', 'Sesoulas Bakery', 'Sotiros 11, Argostoli', '아르고스톨리의 빵집. 구글 지도 평점 4.9.', 'Bakery in Argostoli. Rated 4.9 on Google Maps.'),
+  place('kefalonia-bakery-2', 'kefalonia', 'bakery', 'Manentis Bakery (Αρτοποιείο Μανέντης)', 'Leof. Antoni Tritsi 41, Argostoli', '아르고스톨리의 페이스트리 가게. 구글 지도 평점 4.8.', 'Pastry shop in Argostoli. Rated 4.8 on Google Maps.'),
+  place('kefalonia-cafe-1', 'kefalonia', 'cafe', 'Antico - Cafe Del Corso', 'Lithostroto 7, Argostoli', '아르고스톨리의 카페. 구글 지도 평점 4.4.', 'Café in Argostoli. Rated 4.4 on Google Maps.'),
+  place('kefalonia-cafe-2', 'kefalonia', 'cafe', 'Soulatso Cafe', 'Leof. Antoni Tritsi, Argostoli', '아르고스톨리의 카페. 구글 지도 평점 4.6.', 'Café in Argostoli. Rated 4.6 on Google Maps.'),
+
+  // —— paros: restaurants, bakeries and cafés (2026-11-13) ——
+  place('paros-fine_dining-1', 'paros', 'fine_dining', 'Parea Cuisine', 'Γλαύκου 13, Paros', '파로스의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Paros. Rated 4.7 on Google Maps.'),
+  place('paros-fine_dining-2', 'paros', 'fine_dining', 'The Little Green Rocket', 'Christou Konstantopoulos, Paros', '파로스의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Paros. Rated 4.7 on Google Maps.'),
+  place('paros-fine_dining-3', 'paros', 'fine_dining', 'Basilikos', 'Marpissa, Paros', '파로스의 그리스 요리 식당. 구글 지도 평점 4.9.', 'Greek restaurant in Paros. Rated 4.9 on Google Maps.'),
+  place('paros-bakery-1', 'paros', 'bakery', 'OASIS Local Bakery', 'Διασταύρωση Λογαρά, Paros', '파로스의 페이스트리 가게. 구글 지도 평점 4.8.', 'Pastry shop in Paros. Rated 4.8 on Google Maps.'),
+  place('paros-bakery-2', 'paros', 'bakery', 'Pastry Shop Antonis', 'Ναούσης, Paros', '파로스의 페이스트리 가게. 구글 지도 평점 4.6.', 'Pastry shop in Paros. Rated 4.6 on Google Maps.'),
+  place('paros-cafe-1', 'paros', 'cafe', 'YaYa Cafe and Bar', 'Mavrogeni Sq, Paros', '파로스의 브런치 카페. 구글 지도 평점 4.8.', 'Brunch café in Paros. Rated 4.8 on Google Maps.'),
+  place('paros-cafe-2', 'paros', 'cafe', 'Coffee Paros', 'Epar.Od. Naoussas-Marpissas, Paros', '파로스의 카페. 구글 지도 평점 4.5.', 'Café in Paros. Rated 4.5 on Google Maps.'),
+
+  // —— milos: restaurants, bakeries and cafés (2026-11-13) ——
+  place('milos-fine_dining-1', 'milos', 'fine_dining', 'DOM', 'Epar.Od. Triovasalou - Apollonion, Milos', '밀로스의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Milos. Rated 4.8 on Google Maps.'),
+  place('milos-fine_dining-2', 'milos', 'fine_dining', 'Karodromos', 'Karodromos, Milos', '밀로스의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Milos. Rated 4.7 on Google Maps.'),
+  place('milos-fine_dining-3', 'milos', 'fine_dining', 'Nostos Seafood Experience', 'Adama-Zephyria, Milos', '밀로스의 해산물 식당. 구글 지도 평점 4.6.', 'Seafood restaurant in Milos. Rated 4.6 on Google Maps.'),
+  place('milos-fine_dining-4', 'milos', 'fine_dining', 'Estia Milos', 'Adama-Zephyria, Milos', '밀로스의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Milos. Rated 4.6 on Google Maps.'),
+  place('milos-cafe-1', 'milos', 'cafe', 'Mentor Coffee Guidance & More', 'Adama-Zephyria, Milos', '밀로스의 카페. 구글 지도 평점 4.6.', 'Café in Milos. Rated 4.6 on Google Maps.'),
+
+  // —— rethymno: restaurants, bakeries and cafés (2026-11-13) ——
+  place('rethymno-fine_dining-1', 'rethymno', 'fine_dining', 'Stella\'s Kitchen', 'Souliou 55, Rethymno', '레팀노의 레스토랑. 구글 지도 평점 4.9.', 'Restaurant in Rethymno. Rated 4.9 on Google Maps.'),
+  place('rethymno-fine_dining-2', 'rethymno', 'fine_dining', 'Othonas Taverna', 'Mavrokordatou Alexandrou 27, Rethymno', '레팀노의 그리스 요리 식당. 구글 지도 평점 4.8.', 'Greek restaurant in Rethymno. Rated 4.8 on Google Maps.'),
+  place('rethymno-fine_dining-3', 'rethymno', 'fine_dining', 'Adama Restaurant', 'Titou Petihaki 33, Rethymno', '레팀노의 지중해 요리 식당. 구글 지도 평점 4.9.', 'Mediterranean restaurant in Rethymno. Rated 4.9 on Google Maps.'),
+  place('rethymno-fine_dining-4', 'rethymno', 'fine_dining', 'Kapilio', 'Xanthoudidou 7, Rethymno', '레팀노의 그리스 요리 식당. 구글 지도 평점 4.8.', 'Greek restaurant in Rethymno. Rated 4.8 on Google Maps.'),
+  place('rethymno-bakery-1', 'rethymno', 'bakery', 'Handmade Traditional Philo Workshop', 'Βερνάρδου 30, Rethymno', '레팀노의 필로 반죽 공방 겸 가게. 구글 지도 평점 4.9.', 'Filo pastry workshop and shop in Rethymno. Rated 4.9 on Google Maps.'),
+  place('rethymno-bakery-2', 'rethymno', 'bakery', 'Ma Douce Patisserie-Café', 'Sofokli Venizelou 45, Rethymno', '레팀노의 제과점. 구글 지도 평점 4.7.', 'Patisserie in Rethymno. Rated 4.7 on Google Maps.'),
+  place('rethymno-bakery-3', 'rethymno', 'bakery', 'Rustico Bakery', 'Papanastasiou 2, Rethymno', '레팀노의 빵집. 구글 지도 평점 4.7.', 'Bakery in Rethymno. Rated 4.7 on Google Maps.'),
+  place('rethymno-cafe-1', 'rethymno', 'cafe', 'Barrio The Neighbourhood Cafe', 'Dimitrakaki 1, Rethymno', '레팀노의 카페. 구글 지도 평점 4.8.', 'Café in Rethymno. Rated 4.8 on Google Maps.'),
+  place('rethymno-cafe-2', 'rethymno', 'cafe', 'Vivliothiki Café', 'Kountouriotou 127, Rethymno', '레팀노의 카페. 구글 지도 평점 4.7.', 'Café in Rethymno. Rated 4.7 on Google Maps.'),
+  place('rethymno-cafe-3', 'rethymno', 'cafe', 'Yellow Brunch Cafe', 'Kountouriotou 200, Rethymno', '레팀노의 브런치 카페. 구글 지도 평점 4.9.', 'Brunch café in Rethymno. Rated 4.9 on Google Maps.'),
+
+  // —— agios-nikolaos: restaurants, bakeries and cafés (2026-11-13) ——
+  place('agios-nikolaos-fine_dining-1', 'agios-nikolaos', 'fine_dining', 'To Mesogeiako', 'Akti Koundourou 12, Agios Nikolaos', '아기오스 니콜라오스의 지중해 요리 식당. 구글 지도 평점 4.8.', 'Mediterranean restaurant in Agios Nikolaos. Rated 4.8 on Google Maps.'),
+  place('agios-nikolaos-fine_dining-2', 'agios-nikolaos', 'fine_dining', 'Karnagio / Pita tou Riga', 'Kon/nou Paleologou 24, Agios Nikolaos', '아기오스 니콜라오스의 그리스식 파이(피타) 식당. 구글 지도 평점 4.7.', 'Greek pie (pita) restaurant in Agios Nikolaos. Rated 4.7 on Google Maps.'),
+  place('agios-nikolaos-fine_dining-3', 'agios-nikolaos', 'fine_dining', 'Migomis Piano Restaurant & Café', 'Nikolaou Plastira 20, Agios Nikolaos', '아기오스 니콜라오스의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Agios Nikolaos. Rated 4.7 on Google Maps.'),
+  place('agios-nikolaos-fine_dining-4', 'agios-nikolaos', 'fine_dining', 'Limni', 'Kon/nou Paleologou 8, Agios Nikolaos', '아기오스 니콜라오스의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Agios Nikolaos. Rated 4.6 on Google Maps.'),
+  place('agios-nikolaos-bakery-1', 'agios-nikolaos', 'bakery', 'Milo Patisserie (Μήλο Ζαχαροπλαστείο)', 'Λουί Παστέρ 1, Agios Nikolaos', '아기오스 니콜라오스의 페이스트리 가게. 구글 지도 평점 4.6.', 'Pastry shop in Agios Nikolaos. Rated 4.6 on Google Maps.'),
+  place('agios-nikolaos-bakery-2', 'agios-nikolaos', 'bakery', 'Perfect', 'Kontogianni 14, Agios Nikolaos', '아기오스 니콜라오스의 페이스트리 가게. 구글 지도 평점 4.6.', 'Pastry shop in Agios Nikolaos. Rated 4.6 on Google Maps.'),
+  place('agios-nikolaos-cafe-1', 'agios-nikolaos', 'cafe', 'Palazzo Cafe Bar', 'Ακτή Πάγκαλου 8, Agios Nikolaos', '아기오스 니콜라오스의 카페. 구글 지도 평점 4.7.', 'Café in Agios Nikolaos. Rated 4.7 on Google Maps.'),
+  place('agios-nikolaos-cafe-2', 'agios-nikolaos', 'cafe', 'Flow coffee and more', 'Akti Koundourou 19, Agios Nikolaos', '아기오스 니콜라오스의 카페. 구글 지도 평점 5.0.', 'Café in Agios Nikolaos. Rated 5.0 on Google Maps.'),
+  place('agios-nikolaos-cafe-3', 'agios-nikolaos', 'cafe', 'Deja Vu', 'Akti Papa Nikolaou Pagalou 11, Agios Nikolaos', '아기오스 니콜라오스의 카페. 구글 지도 평점 4.8.', 'Café in Agios Nikolaos. Rated 4.8 on Google Maps.'),
+
+  // —— symi: restaurants, bakeries and cafés (2026-11-13) ——
+  place('symi-fine_dining-1', 'symi', 'fine_dining', 'Agora Symi', 'Kali Strata, Symi', '시미의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Symi. Rated 4.8 on Google Maps.'),
+  place('symi-fine_dining-2', 'symi', 'fine_dining', 'Georgio & Maria', 'Chorio, Symi', '시미의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Symi. Rated 4.5 on Google Maps.'),
+  place('symi-bakery-1', 'symi', 'bakery', 'The Panormitis Bakery – Gialos', 'Gialos, Symi', '시미의 빵집. 구글 지도 평점 4.8.', 'Bakery in Symi. Rated 4.8 on Google Maps.'),
+  place('symi-bakery-2', 'symi', 'bakery', 'Sweet Aigli', 'Gialos, Symi', '시미의 제과점. 구글 지도 평점 4.9.', 'Patisserie in Symi. Rated 4.9 on Google Maps.'),
+  place('symi-cafe-1', 'symi', 'cafe', 'Mediterraneo Café', 'Gialos 2, Symi', '시미의 카페. 구글 지도 평점 4.7.', 'Café in Symi. Rated 4.7 on Google Maps.'),
+  place('symi-cafe-2', 'symi', 'cafe', 'Lefteris Coffee Shop (Καφενείον ο Λευτέρης)', 'Chorio, Symi', '시미의 카페. 구글 지도 평점 4.7.', 'Café in Symi. Rated 4.7 on Google Maps.'),
+  place('symi-cafe-3', 'symi', 'cafe', 'Pap-illon Coffee & Desserts', 'Kali Strata, Symi', '시미의 카페. 구글 지도 평점 4.7.', 'Café in Symi. Rated 4.7 on Google Maps.'),
+
+  // —— kos: restaurants, bakeries and cafés (2026-11-13) ——
+  place('kos-fine_dining-1', 'kos', 'fine_dining', 'Plaza Traditional Greek Restaurant', 'Sokratous 6, Kos', '코스 시내의 그리스 요리 식당. 구글 지도 평점 4.8.', 'Greek restaurant in Kos Town. Rated 4.8 on Google Maps.'),
+  place('kos-fine_dining-2', 'kos', 'fine_dining', 'Elia', 'Apellou 27, Kos', '코스 시내의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Kos Town. Rated 4.6 on Google Maps.'),
+  place('kos-fine_dining-3', 'kos', 'fine_dining', 'Soul Kitchen', 'Alexandrou Ypsilantou 18, Kos', '코스 시내의 지중해 요리 식당. 구글 지도 평점 4.8.', 'Mediterranean restaurant in Kos Town. Rated 4.8 on Google Maps.'),
+  place('kos-fine_dining-4', 'kos', 'fine_dining', 'Noah\'s Ark', 'Mpoumpoulinas 14, Kos', '코스 시내의 아르메니아 요리 식당. 구글 지도 평점 4.8.', 'Armenian restaurant in Kos Town. Rated 4.8 on Google Maps.'),
+  place('kos-bakery-1', 'kos', 'bakery', 'Gianniotiko Bakery (Γιαννιώτικο Αρτοζαχαροπλαστείο)', 'Αρίστωνος 7, Kos', '코스 시내의 빵집. 구글 지도 평점 4.7.', 'Bakery in Kos Town. Rated 4.7 on Google Maps.'),
+  place('kos-bakery-2', 'kos', 'bakery', 'Xeni\'s Homemade Sweets', 'Ifestou 30, Kos', '코스 시내의 페이스트리 가게. 구글 지도 평점 4.8.', 'Pastry shop in Kos Town. Rated 4.8 on Google Maps.'),
+  place('kos-bakery-3', 'kos', 'bakery', 'Lune Croissanterie', 'Antinavarchou Ioannidi 10, Kos', '코스 시내의 빵집. 구글 지도 평점 4.5.', 'Bakery in Kos Town. Rated 4.5 on Google Maps.'),
+  place('kos-cafe-1', 'kos', 'cafe', 'The Cup', 'Vasileos Pavlou 22, Kos', '코스 시내의 카페. 구글 지도 평점 4.8.', 'Café in Kos Town. Rated 4.8 on Google Maps.'),
+  place('kos-cafe-2', 'kos', 'cafe', 'Alchimion Coffee and Brunch', 'Vasileos Pavlou 33, Kos', '코스 시내의 브런치 카페. 구글 지도 평점 4.8.', 'Brunch café in Kos Town. Rated 4.8 on Google Maps.'),
+  place('kos-cafe-3', 'kos', 'cafe', 'Royal Cafe Kos', 'Navarinou 14, Kos', '코스 시내의 카페. 구글 지도 평점 4.8.', 'Café in Kos Town. Rated 4.8 on Google Maps.'),
+
+  // —— patmos: restaurants, bakeries and cafés (2026-11-13) ——
+  place('patmos-fine_dining-1', 'patmos', 'fine_dining', 'Loza', 'Chora, Patmos', '파트모스의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Patmos. Rated 4.6 on Google Maps.'),
+  place('patmos-fine_dining-2', 'patmos', 'fine_dining', 'Ktima Petra', 'Petra, Patmos', '파트모스의 그리스 요리 식당. 구글 지도 평점 4.6.', 'Greek restaurant in Patmos. Rated 4.6 on Google Maps.'),
+  place('patmos-fine_dining-3', 'patmos', 'fine_dining', 'Pleiades Bar Restaurant', 'Loukakia, Patmos', '파트모스의 그리스 요리 식당. 구글 지도 평점 4.8.', 'Greek restaurant in Patmos. Rated 4.8 on Google Maps.'),
+  place('patmos-bakery-1', 'patmos', 'bakery', 'Christodoulos Confectionery', 'Patmos', '파트모스의 제과점. 구글 지도 평점 4.8.', 'Patisserie in Patmos. Rated 4.8 on Google Maps.'),
+  place('patmos-cafe-1', 'patmos', 'cafe', 'Ta Kardasia', 'Patmos', '파트모스의 카페. 구글 지도 평점 4.8.', 'Café in Patmos. Rated 4.8 on Google Maps.'),
 ]

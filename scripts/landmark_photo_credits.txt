@@ -3612,3 +3612,10 @@ highlights/agios-nikolaos-3.jpg | https://www.flickr.com/photos/22083482@N03/270
 cities/kos.jpg | https://commons.wikimedia.org/wiki/File:Castri_island_and_chapel_of_St._Nicholas._Kos,_Greece.jpg | CC BY-SA 3.0 | Ввласенко
 cities/patmos.jpg | https://commons.wikimedia.org/wiki/File:Patmos,_chora,_monastero_di_Zoodochos_Pighi,_campanile_a_vela_2.jpg | CC BY-SA 4.0 | Francesco Bini
 highlights/paros-3.jpg | https://commons.wikimedia.org/wiki/File:Naousa_Town.jpg | CC BY-SA 2.0 | Martin Swart
+gateways/gw-klx.jpg | https://commons.wikimedia.org/wiki/File:Kalamata_Airport.jpg | CC BY-SA 4.0 | Zeromonk
+gateways/gw-kva.jpg | https://commons.wikimedia.org/wiki/File:Kavala_International_Airport.JPG | CC BY-SA 4.0 | Rosa-Maria Rinkl
+gateways/gw-ioa.jpg | https://commons.wikimedia.org/wiki/File:Ioannina-airport-b.JPG | CC BY-SA 4.0 | Mboesch
+gateways/gw-efl.jpg | https://commons.wikimedia.org/wiki/File:Kefalonia_Airport.jpg | CC BY-SA 3.0 | Matti
+gateways/gw-pas.jpg | https://commons.wikimedia.org/wiki/File:Paros_Airport.jpg | CC BY-SA 4.0 | Felix Riehle
+gateways/gw-mlo.jpg | https://commons.wikimedia.org/wiki/File:Milos_Airport_terminal_2.jpg | CC BY 2.5 | Daquella manera
+gateways/gw-kgs.jpg | https://commons.wikimedia.org/wiki/File:Olympic_Bombadier_Q400_NextGen_SX-OBD-Kos_airport-01ASD.jpg | CC BY-SA 4.0 | Asurnipal
