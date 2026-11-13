@@ -5807,6 +5807,102 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  fredrikstad: {
+    modes: ['walk', 'bus', 'ferry', 'train'],
+    howTo: {
+      ko: '시내와 감레뷔엔은 걷고 무료 나룻배로 강을 건넙니다. 발레르는 버스로 갑니다.',
+      en: 'Walk the centre and Gamlebyen, crossing the river on the free ferry; take the bus to Hvaler.',
+    },
+    apps: [
+      ta('vy'),
+    ],
+  },
+  lillehammer: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 마이하우겐과 스키 점프대는 걸어서 15~20분, 하프옐은 버스로 갑니다.',
+      en: 'Walk the centre; Maihaugen and the ski jumps are 15–20 min on foot, and buses run to Hafjell.',
+    },
+    apps: [
+      ta('vy'),
+    ],
+  },
+  kristiansand: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '시내 중심은 바둑판 거리라 걷기 쉽습니다. 동물원은 버스로 갑니다.',
+      en: 'The grid-plan centre is easy on foot; take the bus to the zoo.',
+    },
+    apps: [
+      ta('vy'),
+    ],
+  },
+  voss: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 폭포와 스탈하임은 버스나 차로 갑니다.',
+      en: 'Walk around town; the waterfalls and Stalheim are by bus or car.',
+    },
+    apps: [
+      ta('vy'),
+    ],
+  },
+  odda: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 여름엔 트롤퉁가 들머리까지 셔틀버스가 다닙니다.',
+      en: 'Walk around the village; in summer shuttle buses run to the Trolltunga trailhead.',
+    },
+    apps: [
+    ],
+  },
+  geiranger: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 전망대와 트롤스티겐은 여름 버스·투어나 차로 갑니다.',
+      en: 'Walk the village; reach the viewpoints and Trollstigen by summer bus, tour or car.',
+    },
+    apps: [
+    ],
+  },
+  roros: {
+    modes: ['walk', 'train', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다닙니다. 올라브 광산은 차나 택시로 갑니다.',
+      en: 'The small town is walkable; reach Olavsgruva by car or taxi.',
+    },
+    apps: [
+      ta('vy'),
+    ],
+  },
+  bodo: {
+    modes: ['walk', 'bus', 'ferry', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 공항도 가깝습니다. 살트스트라우멘은 버스로 갑니다.',
+      en: 'Walk the centre, and the airport is close; take the bus to Saltstraumen.',
+    },
+    apps: [
+      ta('vy'),
+    ],
+  },
+  lofoten: {
+    modes: ['bus', 'ferry', 'taxi', 'walk'],
+    howTo: {
+      ko: '섬 사이 버스는 적으니 차를 빌리는 편이 좋습니다. 마을 안은 걸어서 다닙니다.',
+      en: 'Buses between the islands are infrequent, so a hire car is best; walk within the villages.',
+    },
+    apps: [
+    ],
+  },
+  honningsvag: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 노르카프는 여름 버스나 차·투어로 갑니다.',
+      en: 'Walk the town; reach the North Cape by summer bus, car or tour.',
+    },
+    apps: [
+    ],
+  },
   tromso: {
     modes: ['ferry', 'bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {

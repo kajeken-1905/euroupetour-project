@@ -1080,6 +1080,53 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [['Prostneset', '프로스트네세 터미널', '철도 없음|no railway']],
     port: [['Prostneset', '프로스트네세 터미널', '후르티그루텐 연안 여객선|Hurtigruten coastal voyage']],
   },
+  fredrikstad: {
+    rail: [['Fredrikstad', '프레드릭스타드역']],
+    bus: [['Fredrikstad bussterminal', '프레드릭스타드 버스터미널']],
+  },
+  lillehammer: {
+    rail: [['Lillehammer', '릴레함메르역', '오슬로 공항·오슬로 직행|direct to Oslo Airport and Oslo']],
+    bus: [['Lillehammer skysstasjon', '릴레함메르 버스 정류장']],
+  },
+  kristiansand: {
+    air: [['Kristiansand Kjevik (KRS)', '크리스티안산 공항 (KRS)']],
+    rail: [['Kristiansand', '크리스티안산역']],
+    port: [['Kristiansand ferry terminal', '크리스티안산 페리 터미널', '덴마크 히르트스할스행|ferries to Hirtshals, Denmark']],
+  },
+  voss: {
+    rail: [['Voss', '보스역', '베르겐선 · 베르겐 약 1시간 15분|Bergen Line · about 1 hr 15 to Bergen']],
+    bus: [['Voss skysstasjon', '보스 버스 정류장']],
+  },
+  odda: {
+    air: [['Bergen (BGO)', '베르겐 공항 (BGO)', '버스로 약 3시간|About 3 hrs by bus']],
+    bus: [['Odda rutebilstasjon', '오다 버스터미널', '철도 없음|no railway']],
+  },
+  geiranger: {
+    air: [['Ålesund Vigra (AES)', '올레순 공항 (AES)', '차로 약 3시간|About 3 hrs by car']],
+    bus: [['Geiranger', '예이랑에르 버스 정류장', '여름철 위주|mainly summer']],
+    port: [['Geiranger', '예이랑에르 선착장', '헬레쉴트행 카페리 · 여름엔 후르티그루텐|car ferry to Hellesylt · Hurtigruten in summer']],
+  },
+  roros: {
+    air: [['Røros (RRS)', '뢰로스 공항 (RRS)', '오슬로행 소형기|small planes to Oslo']],
+    rail: [['Røros', '뢰로스역', '트론헤임·하마르행 뢰로스선|Røros Line to Trondheim and Hamar']],
+  },
+  bodo: {
+    air: [['Bodø (BOO)', '보되 공항 (BOO)', '시내에서 가까움|close to the centre']],
+    rail: [['Bodø', '보되역', '트론헤임행 노를란선 · 야간열차|Nordland Line to Trondheim · night train']],
+    port: [['Bodø ferjeterminal', '보되 페리 터미널', '로포텐행 카페리·쾌속선, 후르티그루텐|ferries and express boats to Lofoten, Hurtigruten']],
+  },
+  lofoten: {
+    air: [['Svolvær (SVJ)', '스볼베르 공항 (SVJ)'], ['Leknes (LKN)', '레크네스 공항 (LKN)']],
+    bus: [['Svolvær', '스볼베르 버스 정류장']],
+    port: [
+      ['Svolvær', '스볼베르 항구', '보되행 쾌속선 · 후르티그루텐|express boat to Bodø · Hurtigruten'],
+      ['Moskenes', '모스케네스 항구', '보되행 카페리|car ferry to Bodø'],
+    ],
+  },
+  honningsvag: {
+    air: [['Honningsvåg Valan (HVG)', '호닝스보그 공항 (HVG)', '트롬쇠 등 경유 소형기|small planes via Tromsø and others']],
+    port: [['Honningsvåg', '호닝스보그 항구', '후르티그루텐 연안 여객선|Hurtigruten coastal voyage']],
+  },
   stavanger: {
     air: [['Stavanger Sola (SVG)', '스타방에르 공항 (SVG)']],
     rail: [['Stavanger', '스타방에르역']],

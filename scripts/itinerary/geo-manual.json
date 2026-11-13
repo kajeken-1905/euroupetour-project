@@ -9807,5 +9807,205 @@
     60.87688,
     7.14704,
     "OSM Nominatim: Otternes, Strandavegen, Åtnes, Flåm, Aurland, Vestland, 5743 (Wikipedia 238m)"
+  ],
+  "fredrikstad-h1": [
+    59.20313,
+    10.9535,
+    "OSM Nominatim: Gamlebyen, Fredrikstad, Østfold, Norge"
+  ],
+  "fredrikstad-h3": [
+    59.1979,
+    10.96287,
+    "OSM Nominatim: Kongsten Fort, Kongsten, Fredrikstad, Østfold, Norge"
+  ],
+  "fredrikstad-h4": [
+    59.02527,
+    11.03685,
+    "OSM Nominatim: Skjærhalden, Hvaler, Østfold, 1680, Norge"
+  ],
+  "lillehammer-h2": [
+    61.11167,
+    10.47809,
+    "OSM Nominatim: Norges Olympiske museum, Storgaten, Nybu, Vingnes, Lillehamm"
+  ],
+  "lillehammer-h5": [
+    61.22721,
+    10.43522,
+    "OSM Nominatim: Hunderfossen Familiepark, Musehullet, Lillehammer, Innlandet (Wikipedia 498m)"
+  ],
+  "kristiansand-h1": [
+    58.14913,
+    7.99824,
+    "OSM Nominatim: Posebyen, Festningsgata, Tangen, Kvadraturen, Kristiansand,  (Wikipedia 177m)"
+  ],
+  "kristiansand-h2": [
+    58.14084,
+    7.9951,
+    "OSM Nominatim: Fiskebrygga, Tangen, Kvadraturen, Kristiansand, Agder, Norge (Wikipedia 653m)"
+  ],
+  "kristiansand-h3": [
+    58.14413,
+    8.00343,
+    "OSM Nominatim: Christiansholm festning, Tresse, Gravane, Tangen, Kvadrature (Wikipedia 9m)"
+  ],
+  "kristiansand-h4": [
+    58.13921,
+    7.99709,
+    "OSM Nominatim: Kilden teater og konserthus, Sjølystveien, Gravane, Tangen,  (Wikipedia 12m)"
+  ],
+  "voss-h1": [
+    60.6456,
+    6.40225,
+    "OSM Nominatim: Voss Gondol, Hangursløypa, Skulestadmoen, Vossavangen, Voss,"
+  ],
+  "voss-h2": [
+    60.62877,
+    6.41685,
+    "OSM Nominatim: Vangskyrkja, Vangsgata, Lekve, Vossavangen, Voss, Vestland,  (Wikipedia 2m)"
+  ],
+  "voss-h3": [
+    60.63344,
+    6.41267,
+    "OSM Nominatim: Mølstertunet, Mølstervegen, Lekve, Vossavangen, Voss, Vestla"
+  ],
+  "voss-h4": [
+    60.7261,
+    6.48578,
+    "OSM Nominatim: Tvindefossen, Voss, Vestland, Norge (Wikipedia 87m)"
+  ],
+  "voss-h5": [
+    60.83528,
+    6.68121,
+    "OSM Nominatim: Stalheim Hotel, Stalheimsvegen, Stalheim, Voss, Vestland, 57 (Wikipedia 130m)"
+  ],
+  "odda-h1": [
+    60.13296,
+    6.754,
+    "OSM Nominatim: Trolltunga, Ullensvang, Vestland, Norge (Wikipedia 47m)"
+  ],
+  "odda-h2": [
+    59.9479,
+    6.58476,
+    "OSM Nominatim: Låtefossen, Skare, Ullensvang, Vestland, 5763, Norge (Wikipedia 214m)"
+  ],
+  "odda-h3": [
+    60.04456,
+    6.47734,
+    "OSM Nominatim: Buarbreen, Odda, Buer, Odda, Ullensvang, Vestland, 5750, Nor"
+  ],
+  "odda-h4": [
+    60.11932,
+    6.55669,
+    "OSM Nominatim: Tyssedal kraftstasjon/Tyssedal/Kraftmuseet, Salthellervegen, (Wikipedia 239m)"
+  ],
+  "geiranger-h3": [
+    62.04785,
+    7.27131,
+    "OSM Nominatim: Dalsnibba, Stranda, Møre og Romsdal, Norge (Wikipedia 152m)"
+  ],
+  "geiranger-h4": [
+    62.12625,
+    7.16674,
+    "OSM Nominatim: Ørnesvingen, Ørnevegen, Møllsæter, Stranda, Møre og Romsdal,"
+  ],
+  "geiranger-h5": [
+    62.0956,
+    7.2098,
+    "OSM Nominatim: Norsk Fjordsenter, Gjørvahaugane, Vinje, Geiranger, Stranda,"
+  ],
+  "roros-h1": [
+    62.57739,
+    11.38779,
+    "OSM Nominatim: Røros kirke, Kjerkgata, Haugan, Sjøhaga'an, Røros, Trøndelag (Wikipedia 2m)"
+  ],
+  "roros-h2": [
+    62.57535,
+    11.38656,
+    "OSM Nominatim: Bergmannsgata, Øra, Røros, Trøndelag, 7374, Norge"
+  ],
+  "roros-h3": [
+    62.57706,
+    11.39125,
+    "OSM Nominatim: Smelthytta, Sagbrua, Haugan, Røros, Trøndelag, 7374, Norge"
+  ],
+  "roros-h4": [
+    62.63104,
+    11.56291,
+    "OSM Nominatim: Olavsgruva, Gruvveien, Røros, Trøndelag, Norge"
+  ],
+  "bodo-h1": [
+    67.23214,
+    14.61005,
+    "OSM Nominatim: Saltstraumen, Saltstraumbrua, Ripnes, Saltstraumen - Stuorst (Wikipedia 530m)"
+  ],
+  "bodo-h2": [
+    67.27608,
+    14.4137,
+    "OSM Nominatim: Norsk Luftfartsmuseum, Olav V gate, Prærien, Østbyen, Bodø,  (Wikipedia 53m)"
+  ],
+  "bodo-h3": [
+    67.28311,
+    14.37543,
+    "OSM Nominatim: Stormen Konserthus, Hålogalandsgata, Bodø sentrum, Bodø, Nor"
+  ],
+  "bodo-h4": [
+    67.28242,
+    14.38163,
+    "OSM Nominatim: Bodø domkirke, Kongens gate, Bodø sentrum, Bodø, Nordland, 8 (Wikipedia 15m)"
+  ],
+  "bodo-h5": [
+    67.31496,
+    14.47832,
+    "OSM Nominatim: Keiservarden, Bodø, Nordland, 8015, Norge (Wikipedia 9m)"
+  ],
+  "lofoten-h1": [
+    67.93247,
+    13.08877,
+    "OSM Nominatim: Reine, Moskenes, Nordland, 8390, Norge"
+  ],
+  "lofoten-h2": [
+    68.15289,
+    14.20072,
+    "OSM Nominatim: Henningsvær, Vågan, Nordland, 8312, Norge (Wikipedia 3m)"
+  ],
+  "lofoten-h4": [
+    68.03541,
+    13.3477,
+    "OSM Nominatim: Nusfjord, Flakstad, Nordland, 8380, Norge (Wikipedia 13m)"
+  ],
+  "lofoten-h5": [
+    67.87962,
+    12.98404,
+    "OSM Nominatim: Å, Moskenes, Nordland, 8392, Norge (Wikipedia 3m)"
+  ],
+  "lofoten-h6": [
+    67.92784,
+    13.0714,
+    "OSM Nominatim: Reinebringen, Moskenes, Nordland, 8390, Norge (Wikipedia 883m)"
+  ],
+  "honningsvag-h2": [
+    71.18499,
+    25.6765,
+    "OSM Nominatim: Knivskjellodden, Nordkapp, Finnmark, 9764, Norge (Wikipedia 195m)"
+  ],
+  "honningsvag-h3": [
+    71.13765,
+    25.34523,
+    "OSM Nominatim: Gjesværstappan naturreservat, Nordkapp, Finnmark, Norge (Wikipedia 406m)"
+  ],
+  "honningsvag-h4": [
+    70.97798,
+    25.97913,
+    "OSM Nominatim: Honningsvåg kirke, Kirkegata, Holmen, Honningsvåg, Nordkapp, (Wikipedia 1m)"
+  ],
+  "honningsvag-h1": [
+    71.16995,
+    25.78589,
+    "OSM Nominatim: Nordkapp, Finnmark, Norge"
+  ],
+  "lillehammer-h4": [
+    61.10758,
+    10.47214,
+    "OSM Nominatim: Storgata, Breiseth, Langset, Vingnes, Lillehammer, Innlandet"
   ]
 }

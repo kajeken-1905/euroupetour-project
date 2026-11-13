@@ -745,12 +745,13 @@ export const countries: Country[] = [
       background: '#F8E9EC',
       text: '#14040A',
     },
-    cityIds: ['oslo', 'bergen', 'stavanger', 'flam', 'alesund', 'trondheim', 'tromso'],
+    cityIds: ['oslo', 'fredrikstad', 'lillehammer', 'kristiansand', 'bergen', 'voss', 'odda', 'stavanger', 'flam', 'geiranger', 'alesund', 'trondheim', 'roros', 'tromso', 'bodo', 'lofoten', 'honningsvag'],
     cityGroups: [
-      { title: { ko: '동부', en: 'Eastern Norway' }, cityIds: ['oslo'] },
-      { title: { ko: '서부 피오르', en: 'Western fjords' }, cityIds: ['bergen', 'stavanger', 'flam', 'alesund'] },
-      { title: { ko: '중부', en: 'Central Norway' }, cityIds: ['trondheim'] },
-      { title: { ko: '북부', en: 'Northern Norway' }, cityIds: ['tromso'] },
+      { title: { ko: '동부', en: 'Eastern Norway' }, cityIds: ['oslo', 'fredrikstad', 'lillehammer'] },
+      { title: { ko: '남부', en: 'Southern Norway' }, cityIds: ['kristiansand'] },
+      { title: { ko: '서부 피오르', en: 'Western fjords' }, cityIds: ['bergen', 'voss', 'odda', 'stavanger', 'flam', 'geiranger', 'alesund'] },
+      { title: { ko: '중부', en: 'Central Norway' }, cityIds: ['trondheim', 'roros'] },
+      { title: { ko: '북부', en: 'Northern Norway' }, cityIds: ['tromso', 'bodo', 'lofoten', 'honningsvag'] },
     ],
   },
   {

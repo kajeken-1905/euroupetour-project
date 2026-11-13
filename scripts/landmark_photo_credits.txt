@@ -3652,3 +3652,61 @@ highlights/stavanger-10.jpg | https://commons.wikimedia.org/wiki/File:IDDIS_Nors
 highlights/trondheim-9.jpg | https://commons.wikimedia.org/wiki/File:Munkholmen_IMG_6003.JPG | CC BY-SA 3.0 | Bjoertvedt
 highlights/flam-6.jpg | https://commons.wikimedia.org/wiki/File:Undredal-Aurland-Norway-April-2011.jpg | CC BY 4.0 | Acediscovery
 highlights/trondheim-6.jpg | https://commons.wikimedia.org/wiki/File:Erkebispeg%C3%A5rden_Trondheim_2022-08-18_09.jpg | CC0 | Leonhard Lenz
+cities/fredrikstad.jpg | https://commons.wikimedia.org/wiki/File:City_ferry_Fredrikstad,_Norway_01.jpg | CC BY-SA 4.0 | Ulflarsen
+highlights/lillehammer-1.jpg | https://commons.wikimedia.org/wiki/File:%22Maihaugen_ist_eines_der_gr%C3%B6%C3%9Ften_Museen_in_Norwegen%22_._12.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/kristiansand-1.jpg | https://commons.wikimedia.org/wiki/File:Posebyen_Gyldenl%C3%B8vesgate.JPG | CC BY-SA 4.0 | Carsten R D
+highlights/voss-1.jpg | https://commons.wikimedia.org/wiki/File:Voss_Gondol_Gondola_aerial_passenger_lift_(taubane)_Bottom_station_View_from_cabin_Vossavangen_Kulturhus_Voss_railway_station_Fleischer%27s_Hotel_Evangervegen_E16_Vangsvatnet_Low_november_afternoon_sunset_etc_Voss_Norway_2019-11-20_0540.jpg | CC BY-SA 4.0 | Wolfmann
+highlights/odda-1.jpg | https://commons.wikimedia.org/wiki/File:Trolltunga_2.jpg | CC BY-SA 3.0 | Steinar Talmoen
+highlights/geiranger-2.jpg | https://commons.wikimedia.org/wiki/File:0626_The_seven_sisters_-_De_syv_s%C3%B8strene_-_Geiranger_Fjord_water_falls_V-P.jpg | CC BY-SA 4.0 | Virtual-Pano
+highlights/roros-1.jpg | https://commons.wikimedia.org/wiki/File:Bergstaden_R%C3%B8ros_R%C3%B8ros_kirke_Bergstadens_Ziir_Hyttklokka_Tr%C3%B8ndelag_Norway_(2022.08.04).jpg | CC BY-SA 4.0 | Geir Hval (www.MacWhale.eu)
+highlights/bodo-2.jpg | https://commons.wikimedia.org/wiki/File:57-2247_Cessna_T-37B_Tweet_Norsk_Luftfartsmuseum.jpg | CC BY 4.0 | kitmasterbloke
+highlights/lofoten-2.jpg | https://commons.wikimedia.org/wiki/File:Henningsv%C3%A6r_and_the_surrounding_islands.jpg | CC BY-SA 4.0 | Giladtop
+highlights/honningsvag-1.jpg | https://commons.wikimedia.org/wiki/File:North_Cape_seen_from_Knivskjelvika.jpg | CC BY-SA 4.0 | Frankemann
+highlights/fredrikstad-1.jpg | https://commons.wikimedia.org/wiki/File:Gamlebyen_Fredrikstad_-_panoramio.jpg | CC BY 3.0 | TomasEE
+highlights/lillehammer-2.jpg | https://commons.wikimedia.org/wiki/File:Norwegian_Olympic_Museum_Lillehammer_2016.jpg | CC BY-SA 4.0 | Norwegen-Service, Martin Schmidt
+highlights/kristiansand-2.jpg | https://commons.wikimedia.org/wiki/File:Fiskebrygga,_Kristiansand.jpg | CC BY-SA 4.0 | Sierra200
+highlights/voss-2.jpg | https://commons.wikimedia.org/wiki/File:Voss_-_Vangskyrkja_sett_fra_Uttr%C3%A5gata.jpg | CC BY-SA 4.0 | Odd Roar Aalborg
+highlights/odda-2.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A5tefoss.jpg | CC BY 2.0 | mathias hentschke
+highlights/geiranger-3.jpg | https://commons.wikimedia.org/wiki/File:View_of_Dalsnibba_from_the_access_road,_Stranda,_2006.jpg | CC0 | DimiTalen
+highlights/roros-2.jpg | https://commons.wikimedia.org/wiki/File:Old_miners%27_houses_on_Sleggveien,_R%C3%B8ros,_Norway_(PPL1-Corrected)_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+highlights/bodo-3.jpg | https://commons.wikimedia.org/wiki/File:Stormen_Biblioteket_Bod%C3%B8_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/lofoten-3.jpg | https://commons.wikimedia.org/wiki/File:Lofotr_03.jpg | CC BY 2.0 | Por los caminos de Málaga
+highlights/honningsvag-2.jpg | https://commons.wikimedia.org/wiki/File:Lighthouse_Knivskjellodden_Mager%C3%B8ya_2022-09-10_01.jpg | CC0 | Leonhard Lenz
+highlights/fredrikstad-2.jpg | https://commons.wikimedia.org/wiki/File:City_ferry_Fredrikstad,_Norway_01.jpg | CC BY-SA 4.0 | Ulflarsen
+highlights/lillehammer-3.jpg | https://commons.wikimedia.org/wiki/File:Lysg%C3%A5rdsbakken_torch.jpg | CC BY-SA 2.0 | Gorik Francois from Zoutleeuw, Belgium
+highlights/kristiansand-3.jpg | https://commons.wikimedia.org/wiki/File:Kristiansand_-_Christiansholm_Fortress.jpg | CC BY 4.0 | P. Hughes
+highlights/voss-3.jpg | https://commons.wikimedia.org/wiki/File:Voss_-_litt_av_M%C3%B8lstertunet.jpg | CC BY-SA 4.0 | Odd Roar Aalborg
+highlights/odda-3.jpg | https://commons.wikimedia.org/wiki/File:Buerbrae_(i.e.,_Buarbreen)_Glacier,_Odde_(i.e._Odda),_Hardanger_Fjord,_Norway-LCCN2001699487.jpg | Public domain | Photochrom Print Collection
+highlights/roros-3.jpg | https://commons.wikimedia.org/wiki/File:Smelthytta_R%C3%B8ros_(8675397842).jpg | CC BY 2.0 | Lars Geithe
+highlights/bodo-4.jpg | https://commons.wikimedia.org/wiki/File:Bod%C3%B8_Cathedral,_South_view_20150608_1.jpg | CC BY-SA 4.0 | DXR
+highlights/lofoten-4.jpg | https://commons.wikimedia.org/wiki/File:Boats_in_Nusfjord,_Lofoten,_Norway,_2015_September.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/honningsvag-3.jpg | https://commons.wikimedia.org/wiki/File:Gjesv%C3%A6rstappan_natural_reserve-4.jpg | CC BY-SA 3.0 | Fanny Schertzer
+highlights/fredrikstad-3.jpg | https://commons.wikimedia.org/wiki/File:Kongsten_Fort_from_north.jpg | Public domain | Szilas
+highlights/lillehammer-4.jpg | https://commons.wikimedia.org/wiki/File:Fra_Storgata_i_Lillehammer.jpg | CC BY-SA 4.0 | Helge Høifødt
+highlights/kristiansand-4.jpg | https://commons.wikimedia.org/wiki/File:Kilden_konsert-_og_teaterhus.jpg | CC BY-SA 4.0 | Knut Arne Gjertsen
+highlights/voss-4.jpg | https://commons.wikimedia.org/wiki/File:Tvindefossen_fr%C3%A5_E16.jpg | CC BY 2.0 | Alfred Diem
+highlights/odda-4.jpg | https://commons.wikimedia.org/wiki/File:Tyssedal_Power_Plant.jpg | CC BY-SA 3.0 no | Atle Abelsen
+highlights/geiranger-5.jpg | https://commons.wikimedia.org/wiki/File:Norsk_fjordsenter_8140.jpg | CC BY 4.0 | Gerd Fahrenhorst
+highlights/roros-4.jpg | https://commons.wikimedia.org/wiki/File:Heishuset_ved_Olavsgruva,_R%C3%B8ros_(1052).jpg | CC BY-SA 4.0 | Lars Geithe
+highlights/bodo-5.jpg | https://commons.wikimedia.org/wiki/File:Keiservarden_Gedenktafel.jpg | CC BY-SA 4.0 | Brunost16
+highlights/lofoten-5.jpg | https://commons.wikimedia.org/wiki/File:%C3%85_i_Lofoten_III_(perspective_corrected).jpg | CC BY 2.0 | Jules Henze
+highlights/fredrikstad-4.jpg | https://commons.wikimedia.org/wiki/File:Struten_fyr_Ytre_hvaler_nasjonalpark_Fredrikstad.jpg | CC BY-SA 3.0 | Kyrre
+highlights/lillehammer-5.jpg | https://commons.wikimedia.org/wiki/File:Hunderfossen_-_Trollet.JPG | Public domain | Stig Sunde
+highlights/kristiansand-5.jpg | https://commons.wikimedia.org/wiki/File:Bk_antelopes,_Kristiansand_Zoo,_Norway.jpg | CC BY-SA 3.0 | Bjelleklang
+highlights/voss-5.jpg | https://commons.wikimedia.org/wiki/File:The_View_From_Stalheim_Hotel.png | CC BY-SA 3.0 | בר
+cities/geiranger.jpg | https://www.flickr.com/photos/8327374@N02/7568740226 | BY 2.0 | Tips For Travellers
+highlights/geiranger-6.jpg | https://commons.wikimedia.org/wiki/File:Trollstigen_(11).jpg | CC BY-SA 4.0 | Edoderoo
+cities/bodo.jpg | https://commons.wikimedia.org/wiki/File:Bod%C3%B8_Hafen_lub_2025-07-24_img12.jpg | CC BY 4.0 | Lukas Beck
+cities/lofoten.jpg | https://commons.wikimedia.org/wiki/File:Lofoten_Islands_-_Norway_-_June_1989_03.jpg | CC BY 4.0 | Giorgio Galeotti
+highlights/lofoten-6.jpg | https://www.flickr.com/photos/20696814@N02/3759208600 | BY 2.0 | vasile23
+cities/lillehammer.jpg | https://commons.wikimedia.org/wiki/File:Lillehammer_City.jpg | CC BY-SA 4.0 | Stian Rognhaugen
+cities/kristiansand.jpg | https://commons.wikimedia.org/wiki/File:Kristiansand_havn_overview_2013.jpg | CC BY-SA 3.0 no | Steinar Kristiansen
+cities/voss.jpg | https://commons.wikimedia.org/wiki/File:Voss_Gondol_Passenger_lift_cableway_(taubane)_to_Hanguren_View_from_gondola_cabin_towards_Vossavangen_Vangsvatnet_November_afternoon_sunset_Snow_Pylon_tower_Cables_Snow_etc_Voss_Norway_2019-11-20_0574.jpg | CC BY-SA 4.0 | Wolfmann
+cities/odda.jpg | https://commons.wikimedia.org/wiki/File:Odda_i_februar_2004.jpg | Public domain | No machine-readable author provided. Gunnernett assumed (bas
+highlights/geiranger-1.jpg | https://commons.wikimedia.org/wiki/File:00_2269_Geiranger_-_Norway.jpg | CC BY-SA 4.0 | W. Bulach
+cities/roros.jpg | https://commons.wikimedia.org/wiki/File:Harald_Sohlberg_-_Street_in_R%C3%B8ros_in_Winter_-_Google_Art_Project.jpg | Public domain | Harald Sohlberg
+highlights/bodo-1.jpg | https://commons.wikimedia.org/wiki/File:Saltstraumen_-_Bod%C3%B8,_Norway_2023-07-17_(10).jpg | CC BY-SA 4.0 | Ryan Hodnett
+highlights/lofoten-1.jpg | https://commons.wikimedia.org/wiki/File:Houses_of_Reine_by_Gravdalsbukta,_Moskenes,_Nordland,_Norway,_2022_June.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+cities/honningsvag.jpg | https://www.flickr.com/photos/21779865@N08/2111924173 | BY 2.0 | arcticroute.com
+highlights/geiranger-4.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Geirangerfjorden_from_%C3%98rnesvingen_20150604_1.jpg | CC BY-SA 4.0 | DXR
+highlights/honningsvag-4.jpg | https://commons.wikimedia.org/wiki/File:Honningsv%C3%A5g_kirke,_Nordkapp_kommune.jpg | CC BY-SA 4.0 | Lars Engerengen

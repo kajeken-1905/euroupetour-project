@@ -1186,6 +1186,46 @@ export const STAY: Record<string, StayArea[]> = {
   tromso: [
     a('항구·시내 중심', 'Harbour & town centre', 'Tromsø harbour', '처음 가는 여행에 추천|Best for a first visit', '작은 도심이라 상점과 식당, 오로라·고래 투어 집결지를 걸어서 다닙니다. 항구 쪽은 가장 비싸고, 도시 불빛 때문에 오로라는 투어로 나가서 보는 편이 낫습니다.|A compact centre with shops, restaurants and tour pick-ups on foot; the harbour is the priciest, and city lights mean auroras are better seen on a tour.'),
   ],
+  fredrikstad: [
+    a('감레뷔엔', 'Gamlebyen', 'Gamlebyen Fredrikstad', '분위기|Atmosphere', '요새 마을 안에서 묵으면 저녁 성벽 산책이 좋습니다. 숙소가 적습니다.|Staying inside the fortress town means evening walks on the ramparts; few places to stay.'),
+    a('시내 중심', 'Town centre', 'Fredrikstad sentrum', '교통이 편한 곳|Convenient', '기차역과 식당이 가깝고 나룻배로 감레뷔엔에 갑니다.|Close to the station and restaurants, with the ferry over to Gamlebyen.'),
+  ],
+  lillehammer: [
+    a('시내 중심', 'Town centre', 'Lillehammer sentrum', '처음이라면|First visit', '역과 스토르가타 거리, 식당이 모두 가깝습니다.|Close to the station, Storgata and restaurants.'),
+    a('하프옐', 'Hafjell', 'Hafjell', '스키|Skiing', '시내 북쪽 약 15km의 스키 리조트 마을입니다.|The ski-resort village about 15 km north of town.'),
+  ],
+  kristiansand: [
+    a('시내 중심 (크바드라투렌)', 'Kvadraturen', 'Kvadraturen Kristiansand', '처음이라면|First visit', '포세뷔엔과 부두, 기차역을 걸어서 다닙니다.|Posebyen, the quay and the station are all walkable.'),
+    a('해변가', 'Beachfront', 'Bystranda Kristiansand', '해변|Beach', '시내 해변 비스트란다 앞으로, 여름에 좋습니다.|By the town beach, Bystranda—good in summer.'),
+  ],
+  voss: [
+    a('역 주변 시내', 'Town centre', 'Voss sentrum', '교통이 편한 곳|Convenient', '기차역과 곤돌라, 호수가 모두 가깝습니다.|The station, the gondola and the lake are all close.'),
+    a('미르크달렌', 'Myrkdalen', 'Myrkdalen', '스키|Skiing', '보스 북쪽 산속의 스키 리조트 마을입니다.|The ski-resort village in the mountains north of Voss.'),
+  ],
+  odda: [
+    a('오다 시내', 'Odda', 'Odda sentrum', '교통이 편한 곳|Convenient', '버스터미널과 상점이 모인 마을 중심입니다.|The village centre, with the bus station and shops.'),
+    a('티세달', 'Tyssedal', 'Tyssedal', '트롤퉁가 가까이|Close to Trolltunga', '트롤퉁가 들머리로 가는 길목 마을로, 이른 출발에 편합니다.|The village on the way to the Trolltunga trailhead, handy for an early start.'),
+  ],
+  geiranger: [
+    a('예이랑에르 마을', 'Geiranger village', 'Geiranger', '피오르 마을|Fjord village', '피오르 바로 앞이라 아침저녁 풍경이 좋습니다. 숙소가 적고 여름엔 일찍 찹니다.|Right on the fjord, lovely morning and evening; few places, which fill early in summer.'),
+    a('올레순에서 다녀오기', 'Base in Ålesund', 'Ålesund', '거점에서 다녀오기|Day trip from a base', '여름엔 버스와 투어로 하루에 다녀옵니다. 편도 약 3시간입니다.|In summer, buses and tours make it a long day trip—about 3 hours each way.'),
+  ],
+  roros: [
+    a('구시가', 'Old town', 'Røros sentrum', '처음이라면|First visit', '목조 가옥 거리 안에 묵어 아침저녁 풍경을 봅니다.|Stay among the wooden streets to see them morning and evening.'),
+    a('역 주변', 'By the station', 'Røros stasjon', '교통이 편한 곳|Convenient', '기차역 바로 앞이며 구시가까지 걸어서 몇 분입니다.|Right by the station, a few minutes’ walk from the old town.'),
+  ],
+  bodo: [
+    a('시내 중심', 'Town centre', 'Bodø sentrum', '처음이라면|First visit', '항구와 기차역, 페리 터미널이 모두 걸어서 갈 거리입니다.|The harbour, the station and the ferry terminal are all walkable.'),
+    a('살트스트라우멘', 'Saltstraumen', 'Saltstraumen', '자연|Nature', '해협 옆 숙소에서 조류와 오로라를 봅니다. 차가 있으면 좋습니다.|Lodges beside the strait for the current and the aurora; best with a car.'),
+  ],
+  lofoten: [
+    a('스볼베르', 'Svolvær', 'Svolvær', '교통이 편한 곳|Convenient', '공항과 배, 식당이 가장 많은 중심 마을입니다.|The main town, with the airport, boats and most restaurants.'),
+    a('레이네·함뇌위', 'Reine & Hamnøy', 'Reine', '풍경|Scenery', '붉은 어부 오두막(로르부)에서 묵는 서쪽 마을입니다.|The western villages, where you sleep in red fishermen’s cabins (rorbuer).'),
+  ],
+  honningsvag: [
+    a('호닝스보그', 'Honningsvåg', 'Honningsvåg', '교통이 편한 곳|Convenient', '항구와 버스, 식당이 모인 마을입니다.|The town with the harbour, buses and restaurants.'),
+    a('예스베르', 'Gjesvær', 'Gjesvær', '자연|Nature', '바닷새 투어가 출발하는 작은 어촌입니다. 차가 필요합니다.|The small fishing village where bird safaris start; a car is needed.'),
+  ],
   malmo: [
     a('구시가 (감라 스타덴)', 'Gamla Staden (Old Town)', 'Gamla Staden, Malmö', '처음 가는 여행에 추천|Best for a first visit', '광장과 명소, 식당을 걸어서 다니고 중앙역이 가깝습니다. 중심 광장 주변은 붐빕니다.|The squares, sights and restaurants on foot, near the central station; the main square is busy.'),
     a('베스트라 함넨', 'Västra Hamnen (Western Harbour)', 'Västra Hamnen, Malmö', '바닷가 현대 지구|Modern waterfront', '공원과 바다 수영장이 있는 새 지구로 조용합니다. 구시가까지 걸어서 30분쯤이고 옛 분위기는 없습니다.|A new district with parks and sea swimming, calm and residential; about 30 minutes’ walk to the old town, with no historic feel.'),
