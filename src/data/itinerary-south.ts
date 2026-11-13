@@ -2,19 +2,20 @@ import type { RawItinerary } from './itinerary-helper'
 
 /** Greece, Cyprus, the Balkans, Türkiye, Bulgaria, Romania, the Caucasus, Ukraine, Moldova and Northern Cyprus. */
 export const itinerarySouth: Record<string, RawItinerary> = {
-  meteora: [1, 2, 3, 4, 5],
+  meteora: [1, 2, 3, 4, 6, 5],
   delphi: { days: [['', 4, 1, 3, 2]], trips: [['아라호바|Arachova', 5]] },
-  sounion: [4, 3, 1, 2],
+  sounion: [4, 3, 5, 1, 2],
   zakynthos: {
     days: [['', 4]],
     trips: [
-      ['블루 케이브와 나바요|Blue Caves & Navagio', 2, 1],
+      ['블루 케이브와 나바지오|Blue Caves & Navagio', 2, 1],
       ['마라토니시|Marathonisi', 3],
+      ['케리 절벽|Keri cliffs', 5],
     ],
   },
   olympia: [5, 1, 3, 4, 2],
   chania: {
-    days: [['', 1, 2]],
+    days: [['', 1, 6, 2]],
     trips: [
       ['발로스 석호|Balos Lagoon', 3],
       ['엘라포니시|Elafonisi', 4],
@@ -22,22 +23,29 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   naxos: { days: [['', 1, 2, 3]], trips: [['데메테르 신전과 할키|Temple of Demeter & Chalki', 5, 4]] },
-  athens: [1, 2, 3, 6, 5, 4],
+  athens: {
+    days: [
+      ['아크로폴리스와 플라카|Acropolis & Plaka', 1, 2, 11, 3, 12, 4, 5, 14],
+      ['신타그마와 콜로나키|Syntagma & Kolonaki', 6, 16, 7, 8, 13, 17, 10],
+      ['박물관과 시장|Museums & market', 9, 18, 15],
+    ],
+    trips: [['스타브로스 니아르코스 센터|SNF Cultural Center', 19]],
+  },
   aegina: [2, 5, 1, 3, 4],
   hydra: [1, 2, 3, 4, 5],
-  santorini: [4, 3, 5, 2, 1],
-  heraklion: [1, 2, 4, 3],
-  mykonos: { days: [['', 3, 1, 2, 4]], trips: [['델로스|Delos', 5]] },
-  rhodes: { days: [['', 4, 2, 1]], trips: [['참비카 해변과 린도스|Tsambika & Lindos', 5, 3]] },
-  thessaloniki: [2, 1, 5, 4, 3],
+  santorini: { days: [['피라·이메로비글리와 오이아|Fira, Imerovigli & Oia', 2, 6, 1], ['남쪽: 유적과 와이너리|The south: ruins & wineries', 4, 3, 7, 8, 5]] },
+  heraklion: { days: [['', 2, 5, 7, 4, 3, 6]], trips: [['크노소스|Knossos', 1]] },
+  mykonos: { days: [['', 3, 6, 1, 2, 4]], trips: [['델로스|Delos', 5]] },
+  rhodes: { days: [['', 4, 1, 6, 2, 7, 8]], trips: [['참비카 해변과 린도스|Tsambika & Lindos', 5, 3]] },
+  thessaloniki: { days: [['해안과 시장|Seafront & markets', 2, 10, 1, 5, 8, 9], ['로마 유적과 윗마을|Roman sites & the Upper Town', 6, 4, 7, 3]] },
   corfu: {
-    days: [['', 3, 2, 1]],
+    days: [['', 9, 3, 6, 1, 2, 8, 7]],
     trips: [
       ['아킬레이온|Achilleion', 5],
       ['팔레오카스트리차|Paleokastritsa', 4],
     ],
   },
-  nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['미케네와 에피다우로스|Mycenae & Epidaurus', 6, 7]] },
+  nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['미케네와 에피다우로스|Mycenae & Epidaurus', 6, 7], ['네메아|Nemea', 8]] },
   zagreb: [4, 11, 3, 7, 10, 9, 6, 13, 1, 2, 8, 14, 12, 5],
   dubrovnik: {
     days: [

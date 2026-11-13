@@ -1,0 +1,278 @@
+{
+ "athens-h7": [
+  "Temple of Olympian Zeus Athens",
+  "Temple of Olympian Zeus"
+ ],
+ "athens-h15": [
+  "Philopappos Hill",
+  "Philopappos Hill"
+ ],
+ "athens-h11": [
+  "Anafiotika",
+  "Anafiotika"
+ ],
+ "athens-h12": [
+  "Roman Agora Athens",
+  "Roman Agora & Tower of the Winds"
+ ],
+ "athens-h14": [
+  "Kerameikos",
+  "Kerameikos"
+ ],
+ "athens-h16": [
+  "National Garden Athens",
+  "National Garden & Zappeion"
+ ],
+ "athens-h8": [
+  "Panathenaic Stadium",
+  "Panathenaic Stadium"
+ ],
+ "athens-h13": [
+  "Benaki Museum",
+  "Benaki Museum"
+ ],
+ "athens-h17": [
+  "Museum of Cycladic Art",
+  "Museum of Cycladic Art"
+ ],
+ "athens-h10": [
+  "Mount Lycabettus",
+  "Mount Lycabettus"
+ ],
+ "athens-h9": [
+  "National Archaeological Museum Athens",
+  "National Archaeological Museum"
+ ],
+ "athens-h18": [
+  "Varvakios Central Market Athens",
+  "Varvakios Central Market"
+ ],
+ "athens-h19": [
+  "Stavros Niarchos Foundation Cultural Center",
+  "Stavros Niarchos Foundation Cultural Center"
+ ],
+ "sounion-h4": [
+  "Athens Riviera",
+  "Athens Riviera"
+ ],
+ "sounion-h5": [
+  "Lavrio Mineralogical Museum",
+  "Lavrio"
+ ],
+ "sounion-h2": [
+  "Temple of Poseidon Sounion",
+  "Sounion sunset"
+ ],
+ "aegina-h2": [
+  "Aegina Port",
+  "Harbour and fish market"
+ ],
+ "aegina-h5": [
+  "Kolona Aegina",
+  "Kolona"
+ ],
+ "aegina-h1": [
+  "Temple of Aphaia Aegina",
+  "Temple of Aphaia"
+ ],
+ "aegina-h3": [
+  "Monastery of Saint Nektarios Aegina",
+  "Monastery of St Nektarios"
+ ],
+ "aegina-h4": [
+  "Palaiochora Aegina",
+  "Palaiochora"
+ ],
+ "hydra-h1": [
+  "Hydra Port",
+  "Hydra harbour"
+ ],
+ "hydra-h2": [
+  "Holy Monastery of the Assumption of Virgin Mary Hydra",
+  "Monastery of the Dormition"
+ ],
+ "hydra-h3": [
+  "Lazaros Koundouriotis Historical Mansion",
+  "Lazaros Koundouriotis Mansion"
+ ],
+ "hydra-h4": [
+  "Historical Archives Museum of Hydra",
+  "Historical Archives Museum of Hydra"
+ ],
+ "hydra-h5": [
+  "Kamini Hydra",
+  "Coastal walk to Kamini"
+ ],
+ "nafplio-h3": [
+  "Syntagma Square Nafplio",
+  "Syntagma Square"
+ ],
+ "nafplio-h8": [
+  "Ancient Nemea",
+  "Nemea"
+ ],
+ "olympia-h1": [
+  "Archaeological Site of Olympia",
+  "Ancient Olympia"
+ ],
+ "olympia-h2": [
+  "Olympia ancient stadium",
+  "Ancient Stadium"
+ ],
+ "delphi-h4": [
+  "Delphi Archaeological Museum",
+  "Delphi Archaeological Museum"
+ ],
+ "delphi-h3": [
+  "Ancient Theatre of Delphi",
+  "Ancient Theatre"
+ ],
+ "meteora-h6": [
+  "Holy Monastery of St. Stephen Meteora",
+  "Monastery of St Stephen"
+ ],
+ "meteora-h5": [
+  "Meteora sunset viewpoint",
+  "Sunset viewpoint"
+ ],
+ "thessaloniki-h10": [
+  "Kapani Market Thessaloniki",
+  "Kapani Market"
+ ],
+ "thessaloniki-h5": [
+  "Thessaloniki waterfront",
+  "New Waterfront"
+ ],
+ "thessaloniki-h8": [
+  "Archaeological Museum of Thessaloniki",
+  "Archaeological Museum of Thessaloniki"
+ ],
+ "thessaloniki-h9": [
+  "Museum of Byzantine Culture",
+  "Museum of Byzantine Culture"
+ ],
+ "thessaloniki-h6": [
+  "Arch of Galerius",
+  "Arch of Galerius"
+ ],
+ "thessaloniki-h7": [
+  "Hagios Demetrios Thessaloniki",
+  "Church of Saint Demetrius"
+ ],
+ "thessaloniki-h3": [
+  "Ano Poli Thessaloniki",
+  "Ano Poli (Upper Town)"
+ ],
+ "corfu-h9": [
+  "Spianada Square Corfu",
+  "Spianada Square"
+ ],
+ "corfu-h6": [
+  "Saint Spyridon Church Corfu",
+  "Church of Saint Spyridon"
+ ],
+ "corfu-h8": [
+  "New Fortress Corfu",
+  "New Fortress"
+ ],
+ "corfu-h7": [
+  "Kanoni Corfu",
+  "Kanoni & Mouse Island"
+ ],
+ "corfu-h4": [
+  "Paleokastritsa",
+  "Paleokastritsa"
+ ],
+ "zakynthos-h2": [
+  "Blue Caves Zakynthos",
+  "Blue Caves"
+ ],
+ "zakynthos-h5": [
+  "Keri Lighthouse Zakynthos",
+  "Keri cliffs"
+ ],
+ "mykonos-h6": [
+  "Panagia Paraportiani",
+  "Panagia Paraportiani"
+ ],
+ "mykonos-h4": [
+  "Paradise Beach Mykonos",
+  "Paradise Beach"
+ ],
+ "naxos-h4": [
+  "Chalki Naxos",
+  "Halki"
+ ],
+ "santorini-h6": [
+  "Skaros Rock",
+  "Skaros Rock"
+ ],
+ "santorini-h1": [
+  "Oia Santorini",
+  "Oia"
+ ],
+ "santorini-h7": [
+  "Ancient Thera",
+  "Ancient Thera"
+ ],
+ "santorini-h8": [
+  "Pyrgos Santorini",
+  "Pyrgos"
+ ],
+ "santorini-h5": [
+  "Santo Wines Santorini",
+  "Wineries"
+ ],
+ "heraklion-h5": [
+  "Morosini Fountain Heraklion",
+  "Morosini Fountain (Lions Square)"
+ ],
+ "heraklion-h7": [
+  "Agios Titos Heraklion",
+  "Church of Saint Titus"
+ ],
+ "heraklion-h4": [
+  "1866 Street Heraklion",
+  "1866 Street market"
+ ],
+ "heraklion-h3": [
+  "Koules Fortress Heraklion",
+  "Koules Fortress"
+ ],
+ "heraklion-h6": [
+  "Tomb of Nikos Kazantzakis",
+  "Venetian walls & Kazantzakis’s grave"
+ ],
+ "chania-h1": [
+  "Venetian Harbour Chania",
+  "Venetian Harbour"
+ ],
+ "chania-h6": [
+  "Maritime Museum of Crete",
+  "Firkas Fortress & Maritime Museum"
+ ],
+ "chania-h4": [
+  "Elafonissi Beach",
+  "Elafonissi Beach"
+ ],
+ "chania-h5": [
+  "Samaria Gorge",
+  "Samaria Gorge"
+ ],
+ "rhodes-h1": [
+  "Rhodes Old Town",
+  "Rhodes Old Town"
+ ],
+ "rhodes-h6": [
+  "Street of the Knights Rhodes",
+  "Street of the Knights"
+ ],
+ "rhodes-h7": [
+  "Archaeological Museum of Rhodes",
+  "Archaeological Museum of Rhodes"
+ ],
+ "rhodes-h8": [
+  "Acropolis of Rhodes",
+  "Acropolis of Rhodes (Monte Smith)"
+ ]
+}

@@ -3504,3 +3504,40 @@ highlights/byblos-1.jpg | https://commons.wikimedia.org/wiki/File:Byblos_Castle_
 highlights/bsharri-2.jpg | https://commons.wikimedia.org/wiki/File:Gibran_Museum.JPG | Public domain | Xtcrider at English Wikipedia
 highlights/byblos-4.jpg | https://commons.wikimedia.org/wiki/File:Byblos_-_Jbeil_Church.jpg | CC BY 2.0 | Serge Melki
 gateways/gw-bey.jpg | https://commons.wikimedia.org/wiki/File:Airbus_A320_of_Middle_East_Airlines_at_Beirut_Rafic_Hariri_International_Airport.jpg | CC BY 2.0 | abdallahh from Montréal, Canada
+highlights/athens-7.jpg | https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_25_Olympian_Zeus_Temple.jpg | CC BY-SA 3.0 | A.Savin
+highlights/athens-8.jpg | https://www.flickr.com/photos/14829735@N00/51420289152 | BY-SA 2.0 | dullhunk
+highlights/athens-9.jpg | https://www.flickr.com/photos/64379474@N00/3471084251 | BY 2.0 | Tilemahos Efthimiadis
+highlights/athens-10.jpg | https://commons.wikimedia.org/wiki/File:The_Acropolis_and_Mount_Lycabettus_from_Philopappos_Hill_on_October_2,_2019.jpg | CC BY-SA 4.0 | George E. Koronaios
+highlights/athens-11.jpg | https://www.flickr.com/photos/162706130@N02/49473468383 | PDM 1.0 | pantelispan
+highlights/athens-12.jpg | https://commons.wikimedia.org/wiki/File:Tower_of_the_Winds_Athen.jpg | CC BY-SA 2.5 | Andreas Trepte
+highlights/athens-13.jpg | https://commons.wikimedia.org/wiki/File:Benaki_Museum_Athens.JPG | CC BY-SA 3.0 | Dimboukas
+highlights/athens-14.jpg | https://commons.wikimedia.org/wiki/File:Arch_Kerameikos_Athens_Greece.jpg | CC0 | Jebulon
+highlights/athens-15.jpg | https://commons.wikimedia.org/wiki/File:Monument_de_Philopappos_crop.jpg | CC BY 3.0 | Eusebius
+highlights/athens-16.jpg | https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_27_Zappeion.jpg | CC BY-SA 3.0 | A.Savin
+highlights/athens-17.jpg | https://commons.wikimedia.org/wiki/File:Cycladic_Art_Museum,_Athens,_Greece_(1).jpg | CC BY 2.0 | Tilemahos Efthimiadis
+highlights/athens-18.jpg | https://commons.wikimedia.org/wiki/File:Athens_central_market_1_2017-02-07.jpg | CC BY 4.0 | Herbert Ortner
+highlights/athens-19.jpg | https://www.flickr.com/photos/98231059@N00/29989701530 | BY-SA 2.0 | JohnKarak
+highlights/sounion-5.jpg | https://www.flickr.com/photos/58739232@N07/48922913756 | BY 2.0 | Rab .
+highlights/nafplio-8.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Nemean_Zeus,_330_BC,_201755.jpg | CC BY-SA 4.0 | Zde
+highlights/meteora-6.jpg | https://commons.wikimedia.org/wiki/File:Stefanos_Monastery,_Meteora_-_panoramio.jpg | CC BY-SA 3.0 | LucT
+highlights/thessaloniki-6.jpg | https://commons.wikimedia.org/wiki/File:Arch_of_Galerius_in_September_(3).jpg | CC BY-SA 4.0 | Armineaghayan
+highlights/thessaloniki-7.jpg | https://commons.wikimedia.org/wiki/File:Hagios_Demetrios,_Thessaloniki_01-edit.jpg | CC0 | DMY, edited by MenkinAlRire
+highlights/thessaloniki-8.jpg | https://commons.wikimedia.org/wiki/File:Thessaloniki_Archaeological_Museum_Votive_relief_depicting_a_symposium.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/thessaloniki-9.jpg | https://www.flickr.com/photos/64379474@N00/9168211223 | BY-SA 2.0 | Tilemahos Efthimiadis
+highlights/thessaloniki-10.jpg | https://commons.wikimedia.org/wiki/File:Thessaloniki_Kapani_Market_covered_arcade.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/corfu-6.jpg | https://commons.wikimedia.org/wiki/File:Korfu_(GR),_Korfu,_Altstadt,_St.-Spiridon-Kirche_--_2018_--_1173.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/corfu-7.jpg | https://commons.wikimedia.org/wiki/File:The_mouse_Island_in_front_of_the_Corfu_International_Airport.jpg | CC BY-SA 4.0 | Ronavni
+highlights/corfu-8.jpg | https://www.flickr.com/photos/61798879@N00/54375853600 | BY 2.0 | Mark Wordy
+highlights/corfu-9.jpg | https://commons.wikimedia.org/wiki/File:Spianada_Platz_Korfu_Stadt.jpg | CC BY-SA 4.0 | Herbert wie
+highlights/zakynthos-5.jpg | https://commons.wikimedia.org/wiki/File:1_keri_pier_july_2023_(1).jpg | CC BY-SA 4.0 | Blackberrijack
+highlights/mykonos-6.jpg | https://commons.wikimedia.org/wiki/File:Holy_Church_of_Panagia_Paraportiani,_Mykonos.jpg | CC0 | Julian Lupyan
+highlights/santorini-6.jpg | https://commons.wikimedia.org/wiki/File:Skaros_-_panoramio.jpg | CC BY 3.0 | Michal Huniewicz
+highlights/santorini-7.jpg | https://commons.wikimedia.org/wiki/File:2012_-_Ancient_Thera_-_Santorini_-_Greece_-_19.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/santorini-8.jpg | https://commons.wikimedia.org/wiki/File:Greek_Easter_-_Pyrgos_village_-_Santorini_-3.jpg | CC BY-SA 4.0 | Georgios Michos
+highlights/heraklion-5.jpg | https://www.flickr.com/photos/59081381@N03/53535819429 | BY-SA 2.0 | w_lemay
+highlights/heraklion-6.jpg | https://commons.wikimedia.org/wiki/File:5313048walls_of_Herakleion.JPG | CC0 | C messier
+highlights/heraklion-7.jpg | https://commons.wikimedia.org/wiki/File:Outside_church_Hagios_Titos_Heraklion.jpg | CC0 | Jebulon
+highlights/chania-6.jpg | https://commons.wikimedia.org/wiki/File:Firkas_Fortress,_Chania_03.jpg | CC BY-SA 4.0 | Bernard Gagnon
+highlights/rhodes-6.jpg | https://commons.wikimedia.org/wiki/File:Rhodes_Knights_street.jpg | CC BY-SA 4.0 | Jwslubbock
+highlights/rhodes-7.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_museum_of_rhodes_cloister.jpg | CC0 | Jebulon
+highlights/rhodes-8.jpg | https://www.flickr.com/photos/79586279@N00/241495095 | BY 2.0 | Shadowgate
