@@ -1165,6 +1165,10 @@ export const countries: Country[] = [
       text: '#3A0A14',
     },
     cityIds: ['riga', 'jurmala', 'sigulda'],
+    cityGroups: [
+      { title: { ko: '리가·해안', en: 'Riga & coast' }, cityIds: ['riga', 'jurmala'] },
+      { title: { ko: '비드제메', en: 'Vidzeme' }, cityIds: ['sigulda'] },
+    ],
   },
   {
     id: 'lt',

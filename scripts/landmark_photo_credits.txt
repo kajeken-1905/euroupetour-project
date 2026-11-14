@@ -3975,3 +3975,14 @@ gateways/gw-tay.jpg | https://commons.wikimedia.org/wiki/File:Tartu_Airport.jpg 
 gateways/gw-ure.jpg | https://commons.wikimedia.org/wiki/File:Kuressaare_lennujaam,_2010.jpg | CC BY-SA 3.0 | WikedKentaur
 gateways/gw-tallinn-port.jpg | https://commons.wikimedia.org/wiki/File:D-terminal_Port_of_Tallinn.jpg | CC BY-SA 4.0 | Squad0273
 gateways/gw-virtsu.jpg | https://commons.wikimedia.org/wiki/File:Virtsu_sadam.IMGP6443.JPG | CC BY 3.0 | Avjoska
+highlights/riga-6.jpg | https://commons.wikimedia.org/wiki/File:House_of_Blackheads_and_St._Peter%27s_Church_Tower,_Riga,_Latvia_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/riga-7.jpg | https://www.flickr.com/photos/8721758@N06/23676812426 | BY 2.0 | Jorge Lascar
+highlights/riga-8.jpg | https://commons.wikimedia.org/wiki/File:Riga_-_The_three_brothers_-_tr%C4%ABs_br%C4%81%C4%BCi_-_panoramio.jpg | CC BY 3.0 | giggel
+highlights/riga-9.jpg | https://commons.wikimedia.org/wiki/File:Latvijas_Nacion%C4%81lais_m%C4%81kslas_muzejs_nakt%C4%AB.jpg | CC BY-SA 4.0 | Juriskraulis
+highlights/riga-10.jpg | https://commons.wikimedia.org/wiki/File:The_museum_of_occupation_of_Latvia-Riga.JPG | CC BY-SA 3.0 | Avi1111 dr. avishai teicher
+highlights/riga-12.jpg | https://commons.wikimedia.org/wiki/File:The_Ethnographic_Open-Air_Museum_of_Latvia,_May_2022_20.jpg | CC BY-SA 4.0 | Mateusz Giełczyński
+highlights/riga-13.jpg | https://commons.wikimedia.org/wiki/File:Rund%C4%81le_Palace_27.jpg | CC BY-SA 4.0 | Scotch Mist
+highlights/sigulda-3.jpg | https://commons.wikimedia.org/wiki/File:2023_Sigulda_cable_car.jpg | CC0 | Qasinka
+highlights/sigulda-6.jpg | https://commons.wikimedia.org/wiki/File:Sigulda_medieval_castle_ruins_-_panoramio.jpg | CC BY-SA 3.0 | Laima Gūtmane (simka…
+highlights/sigulda-7.jpg | https://commons.wikimedia.org/wiki/File:Bobsleigh_in_Sigulda_(3147456378).jpg | CC BY-SA 2.0 | Helmuts Rudzītis from Rīga, Latvia
+highlights/riga-11.jpg | https://commons.wikimedia.org/wiki/File:Kalnciema_Quarter_Market.jpg | CC BY-SA 4.0 | Андрей Романенко

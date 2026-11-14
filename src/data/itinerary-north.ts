@@ -295,9 +295,16 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   viljandi: { days: [['', 1, 2, 3]] },
   haapsalu: { days: [['', 1, 4, 2, 3]] },
   kuressaare: { days: [['', 1]], trips: [['칼리·앙글라·팡가|Kaali, Angla & Panga', 2, 3, 4]] },
-  riga: [4, 2, 1, 5, 3],
+  riga: {
+    days: [
+      ['구시가|Old Town', 2, 10, 6, 8, 7, 1],
+      ['신시가지와 시장|New town & market', 5, 3, 9, 4],
+      ['시내 밖|Beyond the centre', 11, 12],
+    ],
+    trips: [['룬달레 궁전|Rundāle Palace', 13]],
+  },
   jurmala: { days: [['', 4, 2, 1, 3]], trips: [['케메리 국립공원|Ķemeri National Park', 5]] },
-  sigulda: [3, 5, 4, 1, 2],
+  sigulda: { days: [['', 6, 7, 3, 5, 4, 1], ['', 2]] },
   vilnius: { days: [['', 5, 1, 3, 2, 4]], trips: [['트라카이|Trakai', 6]] },
   kaunas: { days: [['', 3, 1, 2, 5]], trips: [['제9요새|Ninth Fort', 4]] },
   klaipeda: { days: [['', 2, 1, 5]], trips: [['쿠로니아 사주|Curonian Spit', 4, 3]] },
