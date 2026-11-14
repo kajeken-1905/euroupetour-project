@@ -72,6 +72,16 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
   },
   porvoo: { days: [['', 3, 1, 2, 4, 5]], trips: [['알베르트 에델펠트 화실|Albert Edelfelt’s Studio', 6]] },
+  naantali: { days: [['', 2, 3, 4]], trips: [['무민월드|Moominworld', 1]] },
+  rauma: { days: [['', 1, 2, 3]], trips: [['삼말라흐덴메키|Sammallahdenmäki', 4]] },
+  mariehamn: { days: [['', 1, 2]], trips: [['카스텔홀름 성|Kastelholm Castle', 3], ['보마르순드 요새|Bomarsund Fortress', 4]] },
+  jyvaskyla: { days: [['', 1, 4]], trips: [['세위낫살로 시청|Säynätsalo Town Hall', 2], ['페테예베시 옛 교회|Petäjävesi Old Church', 3]] },
+  kuopio: { days: [['', 3, 4, 1], ['', 2]] },
+  savonlinna: { days: [['', 1, 2]], trips: [['케리매키 교회|Kerimäki Church', 3], ['린난사리 국립공원|Linnansaari National Park', 4]] },
+  oulu: { days: [['', 1, 2, 3]], trips: [['하일루오토섬|Hailuoto', 4]] },
+  kemi: { days: [['', 2]], trips: [['쇄빙선 삼포호|Icebreaker Sampo', 1], ['토르니오–하파란다|Tornio–Haparanda', 3]] },
+  levi: { days: [['', 1]], trips: [['팔라스–윌래스툰투리 국립공원|Pallas-Yllästunturi National Park', 2], ['허스키·순록 썰매|Husky & reindeer safari', 3], ['오로라 투어|Northern lights tour', 4]] },
+  inari: { days: [['', 1, 2, 3]], trips: [['피엘파야르비 황야 교회|Pielpajärvi Wilderness Church', 4]] },
   stockholm: {
     days: [
       ['감라스탄과 노르말름|Gamla Stan & Norrmalm', 2, 1, 5, 13, 10, 11],

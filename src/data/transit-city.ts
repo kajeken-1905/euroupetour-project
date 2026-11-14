@@ -6075,8 +6075,8 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'I train or airport buses (e.g. 615) ~30–40 min.',
     },
     howTo: {
-      ko: 'HSL 티켓·앱. 트램·메트로·수완린나 페리어(수오멘린나) 연결.',
-      en: 'HSL tickets/app. Trams, metro, and ferry to Suomenlinna.',
+      ko: 'HSL 앱이나 역 자판기에서 표를 사서 트램·메트로·버스와 수오멘린나행 배를 같은 표로 탑니다.',
+      en: 'Buy HSL tickets in the app or at station machines; one ticket covers trams, metro, buses and the Suomenlinna ferry.',
     },
     apps: [
       ta('hsl', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
@@ -6086,10 +6086,10 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   turku: {
-    modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
+    modes: ['bus', 'ferry', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
-      ko: 'Turku: 트램·버스가 중심입니다. 구시가는 도보가 편할 때가 많습니다.',
-      en: 'Turku centres on trams and buses; the old town is often best on foot.',
+      ko: '푈리 시내버스가 중심이고, 시내 강변은 걸어서 다닙니다. 아우라강은 무료 나룻배 푀리로 건넙니다.',
+      en: 'Föli city buses are the main transport and the riverside centre is walkable; cross the Aura on the free Föri ferry.',
     },
     apps: [
       ta('foli', { ko: '표 구매', en: 'Tickets' }),
@@ -6101,8 +6101,8 @@ export const cityTransitById: Record<string, CityTransit> = {
   tampere: {
     modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
     howTo: {
-      ko: 'Tampere: 트램·버스가 중심입니다. 구시가는 도보가 편할 때가 많습니다.',
-      en: 'Tampere centres on trams and buses; the old town is often best on foot.',
+      ko: '2021년 개통한 트램과 시내버스(뉘세)가 중심이고, 시내 중심은 걸어서 다닙니다.',
+      en: 'The tram (opened 2021) and Nysse city buses are the backbone; the centre is walkable.',
     },
     apps: [
       ta('vr'),
@@ -6113,8 +6113,8 @@ export const cityTransitById: Record<string, CityTransit> = {
   rovaniemi: {
     modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
     howTo: {
-      ko: 'Rovaniemi: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
-      en: 'Reach Rovaniemi by rail and local buses; walk or take short taxis for sights.',
+      ko: '시내는 걸어서 다니고, 산타클로스 마을과 공항은 시내버스 8번이나 택시로 갑니다.',
+      en: 'Walk the centre; take city bus 8 or a taxi to Santa Claus Village and the airport.',
     },
     apps: [
       ta('vr'),
@@ -6122,14 +6122,118 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   porvoo: {
-    modes: ['bus', 'train', 'taxi', 'rideshare', 'walk'],
+    modes: ['bus', 'taxi', 'walk'],
     howTo: {
-      ko: 'Porvoo: 기차역·시내버스로 접근합니다. 구시가·명소는 도보·짧은 택시.',
-      en: 'Reach Porvoo by rail and local buses; walk or take short taxis for sights.',
+      ko: '여객 철도가 없어 헬싱키 캄피에서 버스로 약 1시간에 옵니다. 구시가는 걸어서 다닙니다.',
+      en: 'With no passenger railway, come by bus from Kamppi in Helsinki in about an hour; walk the old town.',
     },
     apps: [
       ta('vr'),
       ta('uber'),
+    ],
+  },
+  naantali: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다. 투르쿠와는 푈리 시내버스로 오갑니다.',
+      en: 'A small town best on foot; Föli city buses link it with Turku.',
+    },
+    apps: [
+      ta('foli', { ko: '표 구매', en: 'Tickets' }),
+    ],
+  },
+  rauma: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 기차가 없어 투르쿠·포리와는 버스로 오갑니다.',
+      en: 'Walk the old town; with no railway, take coaches to Turku and Pori.',
+    },
+    apps: [
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  mariehamn: {
+    modes: ['walk', 'bike', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 섬 곳곳은 자전거나 버스, 섬 사이 배로 갑니다.',
+      en: 'Walk the town; reach the rest of the islands by bike, bus or inter-island ferry.',
+    },
+    apps: [
+    ],
+  },
+  jyvaskyla: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 세위낫살로 등 알토 건축은 시내버스나 차로 갑니다.',
+      en: 'Walk the centre; reach Säynätsalo and other Aalto sites by local bus or car.',
+    },
+    apps: [
+      ta('vr'),
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  kuopio: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 푸이요 언덕과 스모크 사우나는 시내버스나 택시로 갑니다.',
+      en: 'Walk the centre; take a local bus or taxi to Puijo and the smoke sauna.',
+    },
+    apps: [
+      ta('vr'),
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  savonlinna: {
+    modes: ['walk', 'bus', 'train', 'ferry', 'taxi'],
+    howTo: {
+      ko: '시내와 성은 걸어서 다닙니다. 여름엔 호수 유람선이 항구에서 떠납니다.',
+      en: 'Walk between the centre and the castle; summer lake cruises leave from the harbour.',
+    },
+    apps: [
+      ta('vr'),
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  oulu: {
+    modes: ['walk', 'bike', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니거나 자전거를 빌립니다. 자전거 도로가 아주 잘 되어 있습니다.',
+      en: 'Walk or hire a bike; the cycle-path network is excellent.',
+    },
+    apps: [
+      ta('vr'),
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  kemi: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 쇄빙선 투어는 출발지까지 투어 버스로 갑니다.',
+      en: 'Walk the centre; icebreaker tours include transfers to the departure point.',
+    },
+    apps: [
+      ta('vr'),
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  levi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 공항과 국립공원은 버스나 택시, 투어로 갑니다.',
+      en: 'Walk around the village; reach the airport and national park by bus, taxi or tour.',
+    },
+    apps: [
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
+    ],
+  },
+  inari: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 이발로 공항과 로바니에미는 장거리 버스로 오갑니다.',
+      en: 'Walk around the village; long-distance buses link it with Ivalo Airport and Rovaniemi.',
+    },
+    apps: [
+      ta('matkahuolto', { ko: '장거리 버스', en: 'Coaches' }),
     ],
   },
   // —— is ——

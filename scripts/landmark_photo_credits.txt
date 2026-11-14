@@ -3819,3 +3819,52 @@ highlights/rovaniemi-7.jpg | https://commons.wikimedia.org/wiki/File:Gentle_but_
 highlights/porvoo-4.jpg | https://commons.wikimedia.org/wiki/File:Porvoo_Old_Town_Hall_in_September_2024.jpg | CC BY-SA 4.0 | Christian David
 highlights/porvoo-5.jpg | https://commons.wikimedia.org/wiki/File:The_Johan_Ludvig_Runeberg_home_museum_in_Porvoo.jpg | CC BY-SA 3.0 | kallerna
 highlights/porvoo-6.jpg | https://commons.wikimedia.org/wiki/File:Edelfelt%27s_studio_in_Haikko_1973_(JOKABBL3B_D10-3).tif | CC BY 4.0 | 
+cities/naantali.jpg | https://www.flickr.com/photos/31816015@N02/3805364606 | BY 2.0 | Follow Your Nose
+highlights/naantali-1.jpg | https://commons.wikimedia.org/wiki/File:Moominmamma_and_Moominpappa,_Moominworld.jpg | CC BY-SA 3.0 | Andy Dingley
+highlights/naantali-2.jpg | https://commons.wikimedia.org/wiki/File:Naantali_high_street.jpg | CC BY 2.0 | Magnus Franklin
+highlights/naantali-3.jpg | https://commons.wikimedia.org/wiki/File:Naantalin_kirkko.jpg | Public domain | 
+highlights/naantali-4.jpg | https://www.flickr.com/photos/37583176@N00/51792224446 | BY 2.0 | Ninara
+cities/rauma.jpg | https://commons.wikimedia.org/wiki/File:Rauma_Finland_Helsingintori_20051225.jpg | CC SA 1.0 | Antti Vähä-Sipilä
+highlights/rauma-1.jpg | https://commons.wikimedia.org/wiki/File:Old_Rauma_on_10th_July_2017_3.jpg | CC BY-SA 4.0 | Lauren Stevens
+highlights/rauma-2.jpg | https://www.flickr.com/photos/37583176@N00/51808170295 | BY 2.0 | Ninara
+highlights/rauma-3.jpg | https://commons.wikimedia.org/wiki/File:Rauma_Old_Town_Hall.jpg | CC BY-SA 4.0 | Eteil
+highlights/rauma-4.jpg | https://commons.wikimedia.org/wiki/File:Sammallahdenm%C3%A4ki_1.jpg | CC BY-SA 3.0 | kallerna
+cities/mariehamn.jpg | https://www.flickr.com/photos/55671677@N00/183294471 | BY 2.0 | visulogik
+highlights/mariehamn-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%85lands_sj%C3%B6fartsmuseum_May_2016_07.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/mariehamn-2.jpg | https://commons.wikimedia.org/wiki/File:%C3%85land_Museum_2022.jpg | CC BY-SA 4.0 | Erik Wannee
+highlights/mariehamn-3.jpg | https://commons.wikimedia.org/wiki/File:Kastelholms_slott,_den_4_augusti_2012,_bild_20.JPG | CC BY-SA 3.0 | Västgöten
+highlights/mariehamn-4.jpg | https://commons.wikimedia.org/wiki/File:Bomarsund_4.JPG | CC BY-SA 3.0 | MrFinland
+cities/jyvaskyla.jpg | https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_harbour_pier.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/jyvaskyla-1.jpg | https://www.flickr.com/photos/37583176@N00/54159304859 | BY 2.0 | Ninara
+highlights/jyvaskyla-2.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A4yn%C3%A4tsalon_kunnantalo_3.jpg | CC BY-SA 4.0 | Tiia Monto
+highlights/jyvaskyla-3.jpg | https://commons.wikimedia.org/wiki/File:Pet%C3%A4j%C3%A4veden_vanha_kirkko_talvipuvussa.jpg | CC BY-SA 4.0 | Maaritti Siitonen
+highlights/jyvaskyla-4.jpg | https://commons.wikimedia.org/wiki/File:Vesilinna_(Jyv%C3%A4skyl%C3%A4).JPG | CC BY 3.0 | DCB, Wikimedia Commons
+cities/kuopio.jpg | https://commons.wikimedia.org/wiki/File:Downtown_Kuopio_and_Kallavesi_as_seen_from_Puijo_tower,_Kuopio,_North_Savo,_Finland,_2023_April_-_2.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/kuopio-1.jpg | https://www.flickr.com/photos/57769506@N08/28717052783 | BY-SA 2.0 | Discovering Finland
+highlights/kuopio-3.jpg | https://commons.wikimedia.org/wiki/File:Kuopio_market_hall_-_Veljmies.jpg | CC BY-SA 4.0 | Tiia Monto
+highlights/kuopio-4.jpg | https://commons.wikimedia.org/wiki/File:Suomen_ortodoksinen_kirkkomuseo_2012.jpg | CC BY-SA 3.0 | Opa at Finnish Wikipedia
+cities/savonlinna.jpg | https://www.flickr.com/photos/37583176@N00/2718847793 | BY 2.0 | Ninara
+highlights/savonlinna-2.jpg | https://commons.wikimedia.org/wiki/File:Savonlinna_Riihisaari.jpg | CC BY-SA 4.0 | Mikkoau
+highlights/savonlinna-3.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Kerimaki.jpg | CC BY-SA 3.0 | Jniemenmaa 10:20, 27 June 2006 (UTC)
+highlights/savonlinna-4.jpg | https://commons.wikimedia.org/wiki/File:Linnansaari_National_Park_20140725_01.jpg | CC BY-SA 4.0 | Sino Yu
+highlights/kuopio-2.jpg | https://commons.wikimedia.org/wiki/File:Kylpyl%C3%A4-hotelli_Rauhalahti2_-_Katiskaniementie_8_-_Lev%C3%A4nen_-_Kuopio_-_m.jpg | CC BY-SA 3.0 | Paju~commonswiki
+cities/oulu.jpg | https://www.flickr.com/photos/15087210@N00/4270765345 | BY-SA 2.0 | henribergius
+highlights/oulu-1.jpg | https://commons.wikimedia.org/wiki/File:Oulu_Market_Square_20260421_01.jpg | CC0 | Estormiz
+highlights/oulu-2.jpg | https://www.flickr.com/photos/9375173@N03/36354931235 | PDM 1.0 | Lapponica
+highlights/oulu-3.jpg | https://commons.wikimedia.org/wiki/File:Tietomaa_Oulu_20060212.JPG | CC0 | Estormiz
+highlights/oulu-4.jpg | https://www.flickr.com/photos/37583176@N00/51852514538 | BY 2.0 | Ninara
+cities/kemi.jpg | https://commons.wikimedia.org/wiki/File:Kemi_City_Hall_view_1.jpg | CC BY-SA 4.0 | kallerna
+highlights/kemi-1.jpg | https://commons.wikimedia.org/wiki/File:2017-03-23_Sampo_in_Port_of_Kemi_(Finland)_07.jpg | CC BY-SA 4.0 | Eduard47
+highlights/kemi-2.jpg | https://commons.wikimedia.org/wiki/File:SnowCastle,_Kemi,_Finland.jpg | CC BY 2.0 | Art of Backpacking
+highlights/kemi-3.jpg | https://commons.wikimedia.org/wiki/File:Sittb%C3%A4nk_Victoriatorget_Haparanda-Tornio_20260716.jpg | CC BY-SA 4.0 | Dalruwa
+cities/levi.jpg | https://commons.wikimedia.org/wiki/File:Sirkka_from_Levi,_Finland.jpg | CC0 | DanielMichaelPerry
+highlights/levi-1.jpg | https://commons.wikimedia.org/wiki/File:Levi_hiihtokeskus_2003.jpg | CC BY 2.0 | Janne Karaste, Janne Karaste
+highlights/levi-2.jpg | https://commons.wikimedia.org/wiki/File:Pallastunturi_and_Hanhij%C3%A4rvi_in_Muonio,_Lapland,_Finland,_2021_June.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/levi-3.jpg | https://www.rawpixel.com/image/13966096/image-paper-horse-cartoon | CC0 1.0 | 
+highlights/levi-4.jpg | https://commons.wikimedia.org/wiki/File:Gentle_but_wide_green_aurora_display_over_Tuikku,_Kittil%C3%A4,_Lapland,_Finland,_2023_September.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+cities/inari.jpg | https://commons.wikimedia.org/wiki/File:Inari,_Finland_-_panoramio_(17).jpg | CC BY-SA 3.0 | VogelainenMikael
+highlights/inari-1.jpg | https://commons.wikimedia.org/wiki/File:SIIDA_Inari,_Suomi_Finland_2013-03-10_001.jpg | CC BY-SA 3.0 | Manfred Werner - Tsui
+highlights/inari-2.jpg | https://www.flickr.com/photos/37583176@N00/50153841603 | BY 2.0 | Ninara
+highlights/inari-3.jpg | https://www.flickr.com/photos/37583176@N00/50159304836 | BY 2.0 | Ninara
+highlights/inari-4.jpg | https://commons.wikimedia.org/wiki/File:Pielpaj%C3%A4rvi_Wilderness_Church_aerial_19990412_RHO124394_2.jpg | CC BY 4.0 | Lentokuva Vallas Oy
+highlights/savonlinna-1.jpg | https://www.flickr.com/photos/18005655@N00/3491289782 | BY-SA 2.0 | cloning girl

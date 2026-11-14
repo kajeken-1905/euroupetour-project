@@ -1086,6 +1086,49 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [HEL()],
     bus: [['Porvoon linja-autoasema', '포르보 버스터미널', '여객 철도 없음|no passenger railway']],
   },
+  naantali: {
+    air: [['Turku (TKU)', '투르쿠 공항 (TKU)']],
+  },
+  rauma: {
+    bus: [['Rauman linja-autoasema', '라우마 버스터미널', '여객 철도 없음|no passenger railway']],
+  },
+  mariehamn: {
+    air: [['Mariehamn (MHQ)', '마리에함 공항 (MHQ)']],
+    port: [['Mariehamns hamn', '마리에함 항구', '투르쿠·헬싱키·스톡홀름행 페리|ferries to Turku, Helsinki and Stockholm']],
+  },
+  jyvaskyla: {
+    air: [['Jyväskylä (JYV)', '위배스퀼래 공항 (JYV)']],
+    rail: [['Jyväskylä', '위배스퀼래역']],
+    bus: [['Jyväskylän matkakeskus', '위배스퀼래 교통센터']],
+  },
+  kuopio: {
+    air: [['Kuopio (KUO)', '쿠오피오 공항 (KUO)']],
+    rail: [['Kuopio', '쿠오피오역']],
+    bus: [['Kuopion matkakeskus', '쿠오피오 교통센터']],
+  },
+  savonlinna: {
+    air: [['Savonlinna (SVL)', '사본린나 공항 (SVL)']],
+    rail: [['Savonlinna', '사본린나역']],
+    bus: [['Savonlinnan matkakeskus', '사본린나 교통센터']],
+  },
+  oulu: {
+    air: [['Oulu (OUL)', '오울루 공항 (OUL)']],
+    rail: [['Oulu', '오울루역']],
+    bus: [['Oulun linja-autoasema', '오울루 버스터미널']],
+  },
+  kemi: {
+    air: [['Kemi-Tornio (KEM)', '케미 토르니오 공항 (KEM)']],
+    rail: [['Kemi', '케미역']],
+    bus: [['Kemin linja-autoasema', '케미 버스터미널']],
+  },
+  levi: {
+    air: [['Kittilä (KTT)', '키틸래 공항 (KTT)']],
+    bus: [['Levi', '레비 버스 정류장']],
+  },
+  inari: {
+    air: [['Ivalo (IVL)', '이발로 공항 (IVL)']],
+    bus: [['Inari', '이나리 버스 정류장']],
+  },
 
   // —— no ——
   oslo: {

@@ -1849,6 +1849,38 @@ export const STAY: Record<string, StayArea[]> = {
     a('헬싱키에서 다녀오기', 'Base in Helsinki', 'Helsinki city centre', '당일치기로 충분|A day is enough', '버스로 1시간쯤이고 여름에는 마켓 광장에서 증기선도 다닙니다. 구시가는 반나절이면 걸어서 봅니다.|About an hour by bus, and in summer a steamship leaves from Market Square; the old town takes half a day on foot.'),
     a('포르보 구시가', 'Porvoo old town', 'Porvoo old town', '느긋한 하룻밤|A slower overnight', '당일 관광객이 떠난 저녁이 조용하고 식당·B&B가 많습니다. 다도해까지 둘러볼 때 좋습니다.|Quiet once day visitors leave, with good restaurants and B&Bs; handy for exploring the archipelago.'),
   ],
+  naantali: [
+    a('투르쿠에서 다녀오기', 'Base in Turku', 'Turku city centre', '당일치기|Day trip', '시내버스로 약 30분이라 투르쿠에 묵고 다녀오기 쉽습니다.|About 30 minutes by city bus, so easy to visit from Turku.'),
+    a('구시가와 항구', 'Old town & harbour', 'Naantali harbour', '바닷가 하룻밤|A night by the sea', '무민월드까지 걸어갈 수 있고 저녁 항구가 조용합니다.|Within walking distance of Moominworld, with a quiet harbour in the evening.'),
+  ],
+  rauma: [
+    a('오래된 라우마 주변', 'Around Old Rauma', 'Vanha Rauma', '걸어서 다 보기|Everything on foot', '구시가와 버스터미널, 식당이 모두 가깝습니다.|The old town, bus station and restaurants are all close.'),
+  ],
+  mariehamn: [
+    a('시내 중심', 'Town centre', 'Mariehamn centrum', '교통이 편한 곳|Convenient', '항구와 박물관, 식당이 걸어서 가깝습니다.|The harbour, museums and restaurants are within walking distance.'),
+  ],
+  jyvaskyla: [
+    a('역·시내 중심', 'Station & centre', 'Jyväskylä city centre', '교통이 편한 곳|Convenient', '교통센터와 보행자 거리, 하리우 언덕이 가깝습니다.|Close to the travel centre, the pedestrian streets and the Harju ridge.'),
+  ],
+  kuopio: [
+    a('마켓 광장 주변', 'Around Market Square', 'Kuopio Market Square', '교통이 편한 곳|Convenient', '역과 항구, 식당이 걸어서 가깝습니다.|Within walking distance of the station, harbour and restaurants.'),
+  ],
+  savonlinna: [
+    a('시내와 항구', 'Centre & harbour', 'Savonlinna Market Square', '걸어서 성까지|Walk to the castle', '마켓 광장과 항구에서 성까지 걸어서 15분 안팎입니다.|About 15 minutes’ walk from the market square and harbour to the castle.'),
+  ],
+  oulu: [
+    a('마켓 광장·시내 중심', 'Market Square & centre', 'Oulu city centre', '교통이 편한 곳|Convenient', '역과 광장, 식당이 걸어서 가깝습니다.|The station, square and restaurants are within walking distance.'),
+  ],
+  kemi: [
+    a('시내 중심', 'Town centre', 'Kemi city centre', '교통이 편한 곳|Convenient', '역과 바닷가 눈 성이 가깝습니다.|Close to the station and the seafront snow castle.'),
+    a('로바니에미에서 다녀오기', 'Base in Rovaniemi', 'Rovaniemi city centre', '당일치기|Day trip', '쇄빙선 투어는 로바니에미 픽업 상품도 있습니다.|Icebreaker tours also offer pick-ups from Rovaniemi.'),
+  ],
+  levi: [
+    a('레비 마을 중심', 'Levi village centre', 'Levi centre', '스키·식당|Skiing & restaurants', '곤돌라와 상점, 식당이 모두 걸어서 가깝습니다.|The gondolas, shops and restaurants are all within walking distance.'),
+  ],
+  inari: [
+    a('이나리 마을', 'Inari village', 'Inari', '박물관 옆|By the museum', '시이다와 사요스, 호숫가가 모두 걸어서 가깝습니다. 숙소가 적어 일찍 예약하세요.|Siida, Sajos and the lakeshore are all within walking distance; rooms are few, so book early.'),
+  ],
   uppsala: [
     a('스톡홀름에서 다녀오기', 'Base in Stockholm', 'Stockholm Central Station', '당일치기|Day trip', '기차로 40~50분입니다. 스톡홀름 교통 구역 밖이라 요금을 더 내야 합니다.|40–50 minutes by train; it lies outside the Stockholm fare zone, so the ticket costs extra.'),
     a('대성당·퓌리스강 주변', 'Around the cathedral and Fyris river', 'Uppsala centrum', '걸어서 대학 도시 구경|The university town on foot', '대성당과 박물관, 정원, 대학 건물을 걸어서 다닙니다.|The cathedral, museums, gardens and university buildings on foot.'),

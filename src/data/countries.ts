@@ -723,12 +723,12 @@ export const countries: Country[] = [
       background: '#EEF3F9',
       text: '#001A3D',
     },
-    cityIds: ['helsinki', 'porvoo', 'turku', 'tampere', 'rovaniemi'],
+    cityIds: ['helsinki', 'porvoo', 'turku', 'naantali', 'rauma', 'mariehamn', 'tampere', 'jyvaskyla', 'kuopio', 'savonlinna', 'oulu', 'kemi', 'rovaniemi', 'levi', 'inari'],
     cityGroups: [
       { title: { ko: '남부', en: 'Southern Finland' }, cityIds: ['helsinki', 'porvoo'] },
-      { title: { ko: '서해안', en: 'West coast' }, cityIds: ['turku'] },
-      { title: { ko: '호수 지방', en: 'Lakeland' }, cityIds: ['tampere'] },
-      { title: { ko: '라플란드', en: 'Lapland' }, cityIds: ['rovaniemi'] },
+      { title: { ko: '서해안·올란드', en: 'West coast & Åland' }, cityIds: ['turku', 'naantali', 'rauma', 'mariehamn'] },
+      { title: { ko: '호수 지방', en: 'Lakeland' }, cityIds: ['tampere', 'jyvaskyla', 'kuopio', 'savonlinna'] },
+      { title: { ko: '북부·라플란드', en: 'North & Lapland' }, cityIds: ['oulu', 'kemi', 'rovaniemi', 'levi', 'inari'] },
     ],
   },
   {
