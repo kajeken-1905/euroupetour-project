@@ -213,6 +213,25 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [TLL()],
     bus: [['Pärnu bussijaam', '패르누 버스터미널']],
   },
+  rakvere: {
+    rail: [['Rakvere', '라크베레역']],
+    bus: [['Rakvere bussijaam', '라크베레 버스터미널']],
+  },
+  narva: {
+    rail: [['Narva', '나르바역']],
+    bus: [['Narva bussijaam', '나르바 버스터미널']],
+  },
+  viljandi: {
+    rail: [['Viljandi', '빌랸디역']],
+    bus: [['Viljandi bussijaam', '빌랸디 버스터미널']],
+  },
+  haapsalu: {
+    bus: [['Haapsalu bussijaam', '합살루 버스터미널', '여객 철도 없음|no passenger railway']],
+  },
+  kuressaare: {
+    air: [['Kuressaare (URE)', '쿠레사레 공항 (URE)'], TLL()],
+    bus: [['Kuressaare bussijaam', '쿠레사레 버스터미널']],
+  },
 
   // —— lv ——
   riga: {

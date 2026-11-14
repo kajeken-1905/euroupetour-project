@@ -10802,5 +10802,85 @@
     58.38371,
     24.50002,
     "OSM Nominatim: Elisabethi kirik, 22, Nikolai, Kesklinn, Pärnu linn, Pärnu m"
+  ],
+  "rakvere-h3": [
+    59.60346,
+    25.89675,
+    "OSM Nominatim: Käsmu küla, Haljala vald, Lääne-Viru maakond, 45601, Eesti"
+  ],
+  "narva-h1": [
+    59.37556,
+    28.20043,
+    "OSM Nominatim: Hermanni linnus, Linnuse, Vanalinn, Narva linn, Ida-Viru maa (Wikipedia 63m)"
+  ],
+  "narva-h3": [
+    59.35747,
+    28.19738,
+    "OSM Nominatim: Kreenholmi saar, Narva linn, Ida-Viru maakond, Eesti (Wikipedia 372m)"
+  ],
+  "narva-h4": [
+    59.43954,
+    28.00493,
+    "OSM Nominatim: Narva-Jõesuu rand, Meriküla, Narva-Jõesuu linn, Ida-Viru maa"
+  ],
+  "viljandi-h2": [
+    58.36103,
+    25.59614,
+    "OSM Nominatim: Pärimusmuusika Ait, 6, Tasuja pst, Lossimäed, Viljandi linn,"
+  ],
+  "viljandi-h3": [
+    58.34759,
+    25.59177,
+    "OSM Nominatim: Viljandi järv, Viljandi linn, Viljandi maakond, Eesti (Wikipedia 278m)"
+  ],
+  "haapsalu-h1": [
+    58.94702,
+    23.53947,
+    "OSM Nominatim: Haapsalu piiskopilinnus, Lossiplats, Haapsalu linn, Lääne ma"
+  ],
+  "haapsalu-h2": [
+    58.95041,
+    23.53753,
+    "OSM Nominatim: Kuursaal, 1, Promenaadi, Haapsalu linn, Lääne maakond, 90502"
+  ],
+  "haapsalu-h3": [
+    58.9386,
+    23.5319,
+    "OSM Nominatim: Eesti Raudteemuuseum, 2, Raudtee, Haapsalu linn, Lääne maako (Wikipedia 58m)"
+  ],
+  "haapsalu-h4": [
+    58.94908,
+    23.5407,
+    "OSM Nominatim: Iloni Imedemaa galerii, 5, Kooli, Haapsalu linn, Lääne maako"
+  ],
+  "kuressaare-h1": [
+    58.2469,
+    22.47957,
+    "OSM Nominatim: Kuressaare piiskopilinnus, 1, Lossihoov, Kuressaare linn, Sa"
+  ],
+  "kuressaare-h2": [
+    58.37109,
+    22.66482,
+    "OSM Nominatim: Krater Nr. 1, Masa — Putla, Liiva-Putla, Kaali küla, Saarema"
+  ],
+  "kuressaare-h4": [
+    58.56574,
+    22.28429,
+    "OSM Nominatim: Panga Pank, Panga küla, Saaremaa vald, Saare maakond, Eesti (Wikipedia 538m)"
+  ],
+  "viljandi-h1": [
+    58.36039,
+    25.59528,
+    "OSM Nominatim: Lossimäed, Viljandi linn, Viljandi maakond, 71003, Eesti"
+  ],
+  "kuressaare-h3": [
+    58.52548,
+    22.70027,
+    "OSM Nominatim: Angla tuulikumägi, Upa — Leisi, Angla küla, Saaremaa vald, S"
+  ],
+  "rakvere-h2": [
+    59.35059,
+    26.35346,
+    "OSM Nominatim: Eesti Politseimuuseum, 3a, Tallinna, Vanalinn, Rakvere linn,"
   ]
 }

@@ -3948,3 +3948,30 @@ highlights/tartu-7.jpg | https://commons.wikimedia.org/wiki/File:Tartu_m%C3%A4ng
 highlights/parnu-4.jpg | https://commons.wikimedia.org/wiki/File:P%C3%A4rnu._Tallinna_v%C3%A4rav.JPG | CC BY-SA 4.0 | A8Pin
 highlights/parnu-5.jpg | https://commons.wikimedia.org/wiki/File:P%C3%A4rnu_Eliisabeti_kirik_peale_restaureerimist.jpg | CC BY-SA 4.0 | SamuelMMäkimaa
 highlights/parnu-6.jpg | https://commons.wikimedia.org/wiki/File:Soomaa_viies_aastaaeg,_Soomaa_Rahvuspargis_Viljandimaal.JPG | CC BY-SA 3.0 | Aime Pae
+cities/rakvere.jpg | https://commons.wikimedia.org/wiki/File:Rakvere_linnuse_varemed_vallikraaviga1.jpg | CC BY-SA 3.0 ee | Ivar Leidus
+highlights/rakvere-1.jpg | https://commons.wikimedia.org/wiki/File:Rakvere_linnuse_varemed_vallikraaviga1.jpg | CC BY-SA 3.0 ee | Ivar Leidus
+highlights/rakvere-2.jpg | https://commons.wikimedia.org/wiki/File:Eesti_Politseimuuseum_21.jpg | CC BY-SA 4.0 | Tauno Rahnu
+highlights/rakvere-3.jpg | https://commons.wikimedia.org/wiki/File:K%C3%A4smu_sadam_2015.jpg | CC BY-SA 4.0 | Hiiumaamudeliklubi
+cities/narva.jpg | https://commons.wikimedia.org/wiki/File:Narva_Hermanni_linnus_2020_01.jpg | CC BY-SA 4.0 | Vaido Otsar
+highlights/narva-1.jpg | https://commons.wikimedia.org/wiki/File:Narva_Hermanni_linnus_2020_01.jpg | CC BY-SA 4.0 | Vaido Otsar
+highlights/narva-2.jpg | https://commons.wikimedia.org/wiki/File:Narva_j%C3%B5epromenaad_2020_01.jpg | CC BY-SA 4.0 | Vaido Otsar
+highlights/narva-3.jpg | https://commons.wikimedia.org/wiki/File:Kreenholmi_juhtkonna_hoone_14018-2.jpg | CC BY-SA 3.0 ee | Geonarva
+highlights/narva-4.jpg | https://commons.wikimedia.org/wiki/File:Narva-J%C3%B5esuu_park.jpg | CC BY-SA 4.0 | Looduspiltnik
+cities/viljandi.jpg | https://commons.wikimedia.org/wiki/File:Viljandi_ordulinnuse_varemed.jpg | CC BY-SA 3.0 ee | Ivar Leidus
+highlights/viljandi-1.jpg | https://commons.wikimedia.org/wiki/File:Viljandi_castle_main.jpg | Public domain | Otoomet
+highlights/viljandi-2.jpg | https://commons.wikimedia.org/wiki/File:Viljandi_P%C3%A4rimusmuusika_Ait_2021_02.jpg | CC BY-SA 4.0 | Vaido Otsar
+highlights/viljandi-3.jpg | https://commons.wikimedia.org/wiki/File:Viljandi_j%C3%A4rv_2011.jpg | CC BY-SA 3.0 | Aleksandr Smutov
+cities/haapsalu.jpg | https://www.flickr.com/photos/133200397@N03/34490528671 | BY 2.0 | sergei.gussev
+highlights/haapsalu-1.jpg | https://commons.wikimedia.org/wiki/File:Haapsalu_Castle.jpg | CC BY 3.0 | Sander Säde at English Wikipedia
+highlights/haapsalu-2.jpg | https://commons.wikimedia.org/wiki/File:Haapsalu_kuursaal_2012.jpg | CC BY-SA 3.0 ee | Ivar Leidus
+highlights/haapsalu-3.jpg | https://commons.wikimedia.org/wiki/File:Haapsalu_raudteejaama_ooteplatvorm.jpg | CC BY-SA 3.0 ee | Ivar Leidus
+highlights/haapsalu-4.jpg | https://commons.wikimedia.org/wiki/File:Ilon%27s_Wonderland.IMG_1065.JPG | CC BY 3.0 | Ave Maria Mõistlik
+cities/kuressaare.jpg | https://commons.wikimedia.org/wiki/File:Kuressaare_linn_ja_sadam_2015.jpg | CC BY-SA 4.0 | Hiiumaamudeliklubi
+highlights/kuressaare-1.jpg | https://commons.wikimedia.org/wiki/File:Kuressaare_Castle.jpg | CC BY-SA 4.0 | Stefan Hiienurm
+highlights/kuressaare-2.jpg | https://commons.wikimedia.org/wiki/File:Kaali_kraater1.jpg | CC BY-SA 4.0 | Monika Michelson-Mõik
+highlights/kuressaare-3.jpg | https://commons.wikimedia.org/wiki/File:Windmills_at_Angla,_Saaremaa-ekkeekke.jpg | CC BY 2.0 | ekke vasli
+highlights/kuressaare-4.jpg | https://commons.wikimedia.org/wiki/File:Varahommik_ja_Panga_pank.jpg | CC BY-SA 3.0 | Margus6
+gateways/gw-tay.jpg | https://commons.wikimedia.org/wiki/File:Tartu_Airport.jpg | CC BY-SA 4.0 | Whaleinanutshell
+gateways/gw-ure.jpg | https://commons.wikimedia.org/wiki/File:Kuressaare_lennujaam,_2010.jpg | CC BY-SA 3.0 | WikedKentaur
+gateways/gw-tallinn-port.jpg | https://commons.wikimedia.org/wiki/File:D-terminal_Port_of_Tallinn.jpg | CC BY-SA 4.0 | Squad0273
+gateways/gw-virtsu.jpg | https://commons.wikimedia.org/wiki/File:Virtsu_sadam.IMGP6443.JPG | CC BY 3.0 | Avjoska

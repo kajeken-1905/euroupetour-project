@@ -30,4 +30,58 @@ export const placesEEExtra: Place[] = [
   place('parnu-bakery-1', 'parnu', 'bakery', 'Pärnamäed bakery and café', 'Reiu küla, Häädemeeste vald, 86508 Pärnu maakond', '패르누 시내에서 남쪽으로 13km, 레이우 강변의 빵집 겸 카페. 강이 보이는 여름 테라스가 있습니다.', 'Bakery café on the Reiu river, 13 km south of Pärnu, with a summer terrace over the river.'),
   place('parnu-bakery-2', 'parnu', 'bakery', 'Leivakas - Pagaritöökoda / Kiviahjupitsa', 'Lai tn 10/3, 80010 Pärnu', '패르누 강변 옛 공장 지구의 빵집 겸 카페. 장작 화덕 피자도 굽습니다.', 'Bakery café in a former industrial quarter on the Pärnu river, also baking wood-fired pizza.'),
   place('parnu-cafe-2', 'parnu', 'cafe', 'Kohvila', 'Lai tn 10/3, 80010 Pärnu', '강변의 커피·와인 카페. 원두와 내추럴 와인이 자주 바뀝니다. 월요일은 쉽니다.', 'Riverside coffee and wine café with rotating beans and natural wines; closed Mondays.'),
+
+  // —— rakvere: restaurants, bakeries and cafés (2026-11-14) ——
+  place('rakvere-fine_dining-1', 'rakvere', 'fine_dining', 'Bonzai', 'Niine tn 4, Rakvere', '라크베레의 아시아 요리 식당. 구글 지도 평점 4.9.', 'Asian restaurant in Rakvere. Rated 4.9 on Google Maps.'),
+  place('rakvere-fine_dining-2', 'rakvere', 'fine_dining', 'Sarvik', 'Tallinna tn 8, Rakvere', '라크베레의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Rakvere. Rated 4.5 on Google Maps.'),
+  place('rakvere-fine_dining-3', 'rakvere', 'fine_dining', 'Rohuaia Kohvik', 'Rohuaia tn 13, Rakvere', '라크베레의 카페 겸 식당. 구글 지도 평점 4.6.', 'Café restaurant in Rakvere. Rated 4.6 on Google Maps.'),
+  place('rakvere-fine_dining-4', 'rakvere', 'fine_dining', 'Ciao Bella pitsa', 'Tallinna tn 1, Rakvere', '라크베레의 피자 가게. 구글 지도 평점 4.9.', 'Pizzeria in Rakvere. Rated 4.9 on Google Maps.'),
+  place('rakvere-fine_dining-5', 'rakvere', 'fine_dining', 'Berlin\'s Tavern', 'Lai 15, Rakvere', '라크베레의 펍 겸 식당. 구글 지도 평점 4.5.', 'Pub restaurant in Rakvere. Rated 4.5 on Google Maps.'),
+  place('rakvere-bakery-1', 'rakvere', 'bakery', 'Päts sahver', 'Jaama pst 15, Rakvere', '라크베레의 빵집. 구글 지도 평점 4.8.', 'Bakery in Rakvere. Rated 4.8 on Google Maps.'),
+  place('rakvere-bakery-2', 'rakvere', 'bakery', 'Pihlaka', 'Parkali tn 7, Rakvere', '라크베레의 제과점. 구글 지도 평점 4.6.', 'Pâtisserie in Rakvere. Rated 4.6 on Google Maps.'),
+  place('rakvere-cafe-1', 'rakvere', 'cafe', 'Art Cafe', 'Lai 13, Rakvere', '라크베레의 카페. 구글 지도 평점 4.5.', 'Café in Rakvere. Rated 4.5 on Google Maps.'),
+  place('rakvere-cafe-2', 'rakvere', 'cafe', 'Rakvere Teatrikohvik', 'F. R. Kreutzwaldi tn 2, Rakvere', '라크베레의 카페. 구글 지도 평점 4.6.', 'Café in Rakvere. Rated 4.6 on Google Maps.'),
+
+  // —— narva: restaurants, bakeries and cafés (2026-11-14) ——
+  place('narva-fine_dining-1', 'narva', 'fine_dining', 'Franzia', 'Koidu tn 10, Narva', '나르바의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Narva. Rated 4.6 on Google Maps.'),
+  place('narva-fine_dining-2', 'narva', 'fine_dining', 'Khachapuri Georgian Cafe', 'Paul Kerese tn 5, Narva', '나르바의 조지아 요리 식당. 구글 지도 평점 4.5.', 'Georgian restaurant in Narva. Rated 4.5 on Google Maps.'),
+  place('narva-fine_dining-3', 'narva', 'fine_dining', 'Monk Narva Astri', 'Tallinna mnt 41, Narva', '나르바의 아시아 요리 식당. 구글 지도 평점 4.3.', 'Asian restaurant in Narva. Rated 4.3 on Google Maps.'),
+  place('narva-bakery-1', 'narva', 'bakery', 'Oven cafe', 'Paul Kerese tn 5, Narva', '나르바의 빵집 겸 카페. 구글 지도 평점 4.8.', 'Bakery and café in Narva. Rated 4.8 on Google Maps.'),
+  place('narva-cafe-1', 'narva', 'cafe', 'Maius', 'Energia tn 7, Narva', '나르바의 에스프레소 바. 구글 지도 평점 4.5.', 'Espresso bar in Narva. Rated 4.5 on Google Maps.'),
+  place('narva-cafe-2', 'narva', 'cafe', 'Kohvik Muna', 'Raekoja plats 2, Narva', '나르바의 카페. 구글 지도 평점 4.5.', 'Café in Narva. Rated 4.5 on Google Maps.'),
+  place('narva-cafe-3', 'narva', 'cafe', 'Bublik CAFÉ', 'A. Puškini tn 13, Narva', '나르바의 카페. 구글 지도 평점 4.6.', 'Café in Narva. Rated 4.6 on Google Maps.'),
+  place('narva-cafe-4', 'narva', 'cafe', 'Valge Kõrvits', 'Lavretsovi tn 8, Narva', '나르바의 카페. 구글 지도 평점 4.4.', 'Café in Narva. Rated 4.4 on Google Maps.'),
+
+  // —— viljandi: restaurants, bakeries and cafés (2026-11-14) ——
+  place('viljandi-fine_dining-1', 'viljandi', 'fine_dining', 'Fellin', 'Kauba 11, Viljandi', '빌랸디의 미쉐린 빕 구르망 식당(에스토니아 전통 요리)입니다.', 'MICHELIN Bib Gourmand restaurant serving traditional Estonian food in Viljandi.', { michelin: 'bib' }),
+  place('viljandi-fine_dining-2', 'viljandi', 'fine_dining', 'koduKOHVIK', 'Tartu tn 1, Viljandi', '빌랸디의 카페 겸 식당. 구글 지도 평점 4.7.', 'Café restaurant in Viljandi. Rated 4.7 on Google Maps.'),
+  place('viljandi-fine_dining-3', 'viljandi', 'fine_dining', 'Bodega Veiniresto', 'Lossi tn 15, Viljandi', '빌랸디의 와인 바 겸 식당. 구글 지도 평점 4.8.', 'Wine bar and restaurant in Viljandi. Rated 4.8 on Google Maps.'),
+  place('viljandi-fine_dining-4', 'viljandi', 'fine_dining', 'Armeenia Köök Soso Juures', 'Posti tn 6a, Viljandi', '빌랸디의 아르메니아 요리 식당. 구글 지도 평점 4.6.', 'Armenian restaurant in Viljandi. Rated 4.6 on Google Maps.'),
+  place('viljandi-fine_dining-5', 'viljandi', 'fine_dining', 'Restaurant Ormisson', 'Johan Laidoneri plats 8, Viljandi', '빌랸디의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Viljandi. Rated 4.5 on Google Maps.'),
+  place('viljandi-bakery-1', 'viljandi', 'bakery', 'Kivi Pagar', 'C. R. Jakobsoni tn 7, Viljandi', '빌랸디의 빵집. 구글 지도 평점 4.5.', 'Bakery in Viljandi. Rated 4.5 on Google Maps.'),
+  place('viljandi-bakery-2', 'viljandi', 'bakery', 'Magusatuba', 'Tallinna tn 3, Viljandi', '빌랸디의 제과점. 구글 지도 평점 4.8.', 'Pâtisserie in Viljandi. Rated 4.8 on Google Maps.'),
+  place('viljandi-cafe-1', 'viljandi', 'cafe', 'Cafe Viljandi', 'Lossi tn 31, Viljandi', '빌랸디의 카페. 구글 지도 평점 4.4.', 'Café in Viljandi. Rated 4.4 on Google Maps.'),
+  place('viljandi-cafe-2', 'viljandi', 'cafe', 'Aida Kohvik', 'Tasuja pst 6, Viljandi', '빌랸디의 카페. 구글 지도 평점 4.6.', 'Café in Viljandi. Rated 4.6 on Google Maps.'),
+  place('viljandi-cafe-3', 'viljandi', 'cafe', 'Kohvik Herr Artur', 'Väike-Turu tn 8, Viljandi', '빌랸디의 카페. 구글 지도 평점 4.6.', 'Café in Viljandi. Rated 4.6 on Google Maps.'),
+
+  // —— haapsalu: restaurants, bakeries and cafés (2026-11-14) ——
+  place('haapsalu-fine_dining-1', 'haapsalu', 'fine_dining', 'Wiigi Kohvik', 'Suur-Lossi tn 25, Haapsalu', '합살루의 카페 겸 식당. 구글 지도 평점 4.7.', 'Café restaurant in Haapsalu. Rated 4.7 on Google Maps.'),
+  place('haapsalu-fine_dining-2', 'haapsalu', 'fine_dining', 'demoresto', 'Karja tn 21, Haapsalu', '합살루의 작은 접시 요리 식당. 구글 지도 평점 4.7.', 'Small-plates restaurant in Haapsalu. Rated 4.7 on Google Maps.'),
+  place('haapsalu-fine_dining-3', 'haapsalu', 'fine_dining', 'Restaurant Kärme Küülik', 'Karja tn 5, Haapsalu', '합살루의 모던 유러피언 식당. 구글 지도 평점 4.3.', 'Modern European restaurant in Haapsalu. Rated 4.3 on Google Maps.'),
+  place('haapsalu-fine_dining-4', 'haapsalu', 'fine_dining', 'Trühvlid&Sidrunid', 'Posti tn 19, Haapsalu', '합살루의 모던 유러피언 식당. 구글 지도 평점 4.9.', 'Modern European restaurant in Haapsalu. Rated 4.9 on Google Maps.'),
+  place('haapsalu-fine_dining-5', 'haapsalu', 'fine_dining', 'Restaurant Talumehe kõrts', 'Karja tn 2, Haapsalu', '합살루의 에스토니아 시골 요리 식당. 구글 지도 평점 4.4.', 'Estonian country-food restaurant in Haapsalu. Rated 4.4 on Google Maps.'),
+  place('haapsalu-bakery-1', 'haapsalu', 'bakery', 'Teele Bakery', 'Metsa tn 53, Haapsalu', '합살루의 빵집. 구글 지도 평점 4.7.', 'Bakery in Haapsalu. Rated 4.7 on Google Maps.'),
+  place('haapsalu-bakery-2', 'haapsalu', 'bakery', 'Müüriääre Pagar', 'Karja tn 12, Haapsalu', '합살루의 빵집. 구글 지도 평점 4.8.', 'Bakery in Haapsalu. Rated 4.8 on Google Maps.'),
+  place('haapsalu-cafe-1', 'haapsalu', 'cafe', 'Müüriääre cafe', 'Karja tn 7, Haapsalu', '합살루의 커피숍. 구글 지도 평점 4.5.', 'Coffee shop in Haapsalu. Rated 4.5 on Google Maps.'),
+  place('haapsalu-cafe-2', 'haapsalu', 'cafe', 'Hapsal Dietrich', 'Karja tn 10, Haapsalu', '합살루의 카페. 구글 지도 평점 4.7.', 'Café in Haapsalu. Rated 4.7 on Google Maps.'),
+
+  // —— kuressaare: restaurants, bakeries and cafés (2026-11-14) ——
+  place('kuressaare-fine_dining-1', 'kuressaare', 'fine_dining', 'Söstar köök & baar', 'Tallinna tn 1, Kuressaare', '쿠레사레의 레스토랑. 구글 지도 평점 4.9.', 'Restaurant in Kuressaare. Rated 4.9 on Google Maps.'),
+  place('kuressaare-fine_dining-2', 'kuressaare', 'fine_dining', 'Resto HAFEN', 'Tori tn 4, Kuressaare', '쿠레사레의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Kuressaare. Rated 4.7 on Google Maps.'),
+  place('kuressaare-fine_dining-3', 'kuressaare', 'fine_dining', 'Põide Grillhouse', 'Uus tn 20, Kuressaare', '쿠레사레의 그릴 식당. 구글 지도 평점 4.7.', 'Grill restaurant in Kuressaare. Rated 4.7 on Google Maps.'),
+  place('kuressaare-fine_dining-4', 'kuressaare', 'fine_dining', 'OmNom söök & jook', 'Veski tn 9, Kuressaare', '쿠레사레의 레스토랑. 구글 지도 평점 4.9.', 'Restaurant in Kuressaare. Rated 4.9 on Google Maps.'),
+  place('kuressaare-fine_dining-5', 'kuressaare', 'fine_dining', 'Ristorante la Perla', 'Lossi tn 3, Kuressaare', '쿠레사레의 이탈리아 요리 식당. 구글 지도 평점 4.5.', 'Italian restaurant in Kuressaare. Rated 4.5 on Google Maps.'),
+  place('kuressaare-bakery-1', 'kuressaare', 'bakery', 'Pagariäri Vanalinna kohvik', 'Kauba tn 8, Kuressaare', '쿠레사레의 빵집 겸 카페. 구글 지도 평점 4.7.', 'Bakery and café in Kuressaare. Rated 4.7 on Google Maps.'),
+  place('kuressaare-cafe-1', 'kuressaare', 'cafe', 'Classic Café', 'Lossi tn 9, Kuressaare', '쿠레사레의 카페. 구글 지도 평점 4.4.', 'Café in Kuressaare. Rated 4.4 on Google Maps.'),
+  place('kuressaare-cafe-2', 'kuressaare', 'cafe', 'Chameleon Cafe', 'Kauba tn 2, Kuressaare', '쿠레사레의 카페. 구글 지도 평점 4.6.', 'Café in Kuressaare. Rated 4.6 on Google Maps.'),
 ]
