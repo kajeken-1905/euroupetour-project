@@ -1858,6 +1858,41 @@ export const STAY: Record<string, StayArea[]> = {
     a('유카스예르비', 'Jukkasjärvi', 'Jukkasjärvi', '아이스호텔·조용한 마을|Ice Hotel, quiet village', '키루나에서 동쪽으로 20분쯤, 아이스호텔과 사미 마을이 있습니다.|About 20 minutes east of Kiruna, home to the Ice Hotel and a Sámi village.'),
     a('아비스코', 'Abisko', 'Abisko', '국립공원·산 풍경|National park, mountains', '국립공원과 산 풍경이 좋습니다. 상점과 편의시설이 적습니다.|National park and mountain scenery; few shops and services.'),
   ],
+  falun: [
+    a('시내 중심', 'Town centre', 'Falun centrum', '교통이 편한 곳|Convenient', '기차역과 광장, 식당이 가깝고 광산까지 걸어갈 수 있습니다.|Close to the station, square and restaurants, with the mine within walking distance.'),
+  ],
+  lund: [
+    a('말뫼에서 다녀오기', 'Base in Malmö', 'Malmö Centralstation', '당일치기|Day trip', '기차로 약 12분이라 말뫼에 묵고 다녀오기 쉽습니다.|About 12 minutes by train, so easy to visit from a base in Malmö.'),
+    a('대성당 주변', 'Around the cathedral', 'Lund centrum', '걸어서 다 보기|Everything on foot', '역과 대성당, 박물관이 모두 걸어서 10분 안입니다.|The station, cathedral and museums are all within a 10-minute walk.'),
+  ],
+  ystad: [
+    a('구시가', 'Old town', 'Ystad centrum', '걸어서 다 보기|Everything on foot', '역과 항구, 구시가가 모두 가깝습니다.|The station, harbour and old town are all close together.'),
+  ],
+  kalmar: [
+    a('크바르놀멘 (구시가 섬)', 'Kvarnholmen', 'Kvarnholmen Kalmar', '걸어서 다 보기|Everything on foot', '역과 대성당, 식당이 모인 섬 구시가로, 성까지 걸어갑니다.|The island old town with the station, cathedral and restaurants, a walk from the castle.'),
+    a('욀란드 보리홀름', 'Borgholm, Öland', 'Borgholm', '섬 여름 휴가|Island summer', '여름 휴가지 분위기의 섬 마을입니다. 버스가 적어 차가 편합니다.|A summer-holiday island town; buses are few, so a car helps.'),
+  ],
+  karlskrona: [
+    a('트로쇠 섬 시내', 'Trossö town centre', 'Trossö Karlskrona', '걸어서 다 보기|Everything on foot', '역과 광장, 해군 박물관이 모인 중심 섬입니다.|The central island with the station, square and naval museum.'),
+  ],
+  visby: [
+    a('성벽 안 구시가', 'Inside the walls', 'Visby innerstad', '분위기|Atmosphere', '중세 골목 안에서 묵습니다. 여름엔 일찍 예약하세요.|Stay among the medieval lanes; book early for summer.'),
+    a('항구 근처', 'By the harbour', 'Visby hamn', '교통이 편한 곳|Convenient', '페리 터미널과 버스가 가깝고 성벽까지 걸어갑니다.|Close to the ferry terminal and buses, a walk from the walls.'),
+  ],
+  'hoga-kusten': [
+    a('도크스타·스쿨레베리에트 주변', 'Docksta & Skuleberget', 'Docksta', '자연|Nature', '산과 국립공원 출발점이 가깝습니다. 차가 있으면 편합니다.|Close to the hill and national park trailheads; easiest with a car.'),
+    a('외른셸스비크', 'Örnsköldsvik', 'Örnsköldsvik', '교통이 편한 곳|Convenient', '기차역과 식당이 있는 해안 도시로, 북쪽 거점으로 좋습니다.|A coastal town with a station and restaurants, a good northern base.'),
+  ],
+  are: [
+    a('오레 마을', 'Åre village', 'Åre torg', '스키·교통|Skiing & transport', '역과 케이블카, 슬로프가 모두 걸어서 갈 수 있습니다.|The station, cable car and slopes are all within walking distance.'),
+  ],
+  lulea: [
+    a('시내 중심', 'City centre', 'Luleå centrum', '교통이 편한 곳|Convenient', '역과 식당, 항구가 가깝고 감멜스타드까지 버스가 다닙니다.|Close to the station, restaurants and harbour, with buses to Gammelstad.'),
+  ],
+  abisko: [
+    a('아비스코 투리스트스타숀', 'Abisko Turiststation', 'Abisko Turiststation', '자연·교통|Nature & transport', '역과 국립공원 입구, 산장이 함께 있습니다. 숙소가 적어 일찍 예약하세요.|The station, park entrance and lodge are together; rooms are few, so book early.'),
+    a('아비스코 마을', 'Abisko village', 'Abisko Östra', '조용한 마을|Quiet village', '작은 상점과 숙소가 있는 마을입니다.|The village with a small shop and guesthouses.'),
+  ],
   odense: [
     a('오덴세 시내 (오덴세 C)', 'Odense C (centre)', 'Odense C', '걸어서 다 보기|Everything on foot', '중앙역과 숙소 대부분, 식당·밤 문화가 모여 있고 안데르센 지구도 가깝습니다.|The station, most hotels, restaurants and nightlife, close to the Hans Christian Andersen quarter.'),
   ],

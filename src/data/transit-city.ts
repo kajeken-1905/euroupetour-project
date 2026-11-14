@@ -5776,6 +5776,107 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('sj'),
     ],
   },
+  falun: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내와 광산은 걸어서 다니고, 순드보른과 실리안 호수는 버스나 차로 갑니다.',
+      en: 'Walk between the centre and the mine; reach Sundborn and Lake Siljan by bus or car.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
+  lund: {
+    modes: ['walk', 'bike', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 말뫼와 코펜하겐은 외레순 열차로 갑니다.',
+      en: 'Walk the centre; take the Öresund trains to Malmö and Copenhagen.',
+    },
+    apps: [
+      ta('skanetrafiken', { ko: '표 구매', en: 'Tickets' }),
+      ta('sj'),
+    ],
+  },
+  ystad: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 알레스 스테나르는 버스가 드물어 차나 자전거가 편합니다.',
+      en: 'Walk the town; buses to Ales stenar are infrequent, so a car or bike is easier.',
+    },
+    apps: [
+      ta('skanetrafiken', { ko: '표 구매', en: 'Tickets' }),
+      ta('sj'),
+    ],
+  },
+  kalmar: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가와 성은 걸어서 다니고, 욀란드는 버스나 차로 다리를 건넙니다.',
+      en: 'Walk the old town and castle; cross to Öland by bus or car.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
+  karlskrona: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '중심 섬은 걸어서 다닙니다. 여름엔 군도 섬으로 배가 다닙니다.',
+      en: 'Walk the central island; in summer boats run out to the archipelago.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
+  visby: {
+    modes: ['walk', 'bike', 'bus', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 섬 여행은 버스가 적어 자전거나 차를 빌리는 편이 좋습니다.',
+      en: 'Walk the old town; buses round the island are few, so hire a bike or car.',
+    },
+    apps: [
+    ],
+  },
+  'hoga-kusten': {
+    modes: ['bus', 'train', 'ferry', 'taxi'],
+    howTo: {
+      ko: '명소가 해안을 따라 흩어져 있고 버스가 적어 차를 빌리는 편이 좋습니다.',
+      en: 'Sights are spread along the coast and buses are few, so a hire car is best.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
+  are: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을 안은 걸어서 다니고, 스키철엔 리조트 셔틀버스가 다닙니다.',
+      en: 'Walk the village; resort shuttle buses run in the ski season.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
+  lulea: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 감멜스타드는 시내버스로 갑니다.',
+      en: 'Walk the centre; take a city bus to Gammelstad.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
+  abisko: {
+    modes: ['walk', 'train', 'bus'],
+    howTo: {
+      ko: '역과 산길, 관측소는 걸어서 다닙니다. 키루나와는 기차로 오갑니다.',
+      en: 'Walk between the station, trails and sky station; take the train to and from Kiruna.',
+    },
+    apps: [
+      ta('sj'),
+    ],
+  },
   // —— no ——
   oslo: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],

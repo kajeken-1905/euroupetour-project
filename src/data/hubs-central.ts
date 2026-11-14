@@ -1014,6 +1014,43 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Kiruna (KRN)', '키루나 공항 (KRN)']],
     rail: [['Kiruna', '키루나역']],
   },
+  falun: {
+    rail: [['Falun Centralstation', '팔룬 중앙역']],
+  },
+  lund: {
+    rail: [['Lund Central', '룬드 중앙역']],
+  },
+  ystad: {
+    rail: [['Ystad', '위스타드역']],
+    port: [['Ystad', '위스타드 항구', '덴마크 보른홀름·폴란드행|ferries to Bornholm (Denmark) and Poland']],
+  },
+  kalmar: {
+    air: [['Kalmar Öland (KLR)', '칼마르 욀란드 공항 (KLR)']],
+    rail: [['Kalmar Centralstation', '칼마르 중앙역']],
+  },
+  karlskrona: {
+    air: [['Ronneby (RNB)', '론네뷔 공항 (RNB)', '시내에서 약 25km|about 25 km from town']],
+    rail: [['Karlskrona Centralstation', '칼스크로나 중앙역']],
+  },
+  visby: {
+    air: [['Visby (VBY)', '비스뷔 공항 (VBY)']],
+    port: [['Visby', '비스뷔 항구', '니네스함·오스카르스함행 데스티나숀 고틀란드|Destination Gotland to Nynäshamn and Oskarshamn']],
+  },
+  'hoga-kusten': {
+    air: [['Kramfors-Sollefteå (KRF)', '크람포르스 공항 (KRF)']],
+    rail: [['Kramfors', '크람포르스역'], ['Örnsköldsvik C', '외른셸스비크 중앙역']],
+  },
+  are: {
+    air: [['Åre Östersund (OSD)', '오레 외스테르순드 공항 (OSD)', '오레까지 약 100km|about 100 km to Åre']],
+    rail: [['Åre', '오레역']],
+  },
+  lulea: {
+    air: [['Luleå (LLA)', '룰레오 공항 (LLA)']],
+    rail: [['Luleå', '룰레오역']],
+  },
+  abisko: {
+    rail: [['Abisko Turiststation', '아비스코 투리스트스타숀역']],
+  },
 
   // —— fi ——
   helsinki: {

@@ -1,0 +1,34 @@
+{
+ "lund-h1": [
+  "Lunds domkyrka",
+  "Lund Cathedral"
+ ],
+ "kalmar-h1": [
+  "Kalmar slott",
+  "Kalmar Castle"
+ ],
+ "kalmar-h2": [
+  "Kalmar domkyrka",
+  "Kalmar Cathedral"
+ ],
+ "visby-h1": [
+  "Visby ringmur",
+  "Visby City Wall"
+ ],
+ "visby-h2": [
+  "Visby domkyrka",
+  "Visby Cathedral"
+ ],
+ "hoga-kusten-h1": [
+  "Högakustenbron",
+  "High Coast Bridge"
+ ],
+ "lulea-h1": [
+  "Gammelstads kyrkstad",
+  "Gammelstad Church Town"
+ ],
+ "ystad-h3": [
+  "Gråbrödraklostret, Ystad",
+  "Greyfriars Abbey, Ystad"
+ ]
+}

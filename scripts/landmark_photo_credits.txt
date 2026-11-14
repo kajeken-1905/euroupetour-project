@@ -3741,3 +3741,54 @@ highlights/kiruna-5.jpg | https://commons.wikimedia.org/wiki/File:Kiruna_stadshu
 highlights/kiruna-6.jpg | https://commons.wikimedia.org/wiki/File:Reindeer_in_Holmaj%C3%A4rvi.jpg | CC0 | Hosumaija
 highlights/kiruna-7.jpg | https://commons.wikimedia.org/wiki/File:KirunaDogsled.jpg | CC BY-SA 3.0 | Yeti Hunter (talk)
 highlights/malmo-8.jpg | https://commons.wikimedia.org/wiki/File:Moderna_museet_Malmo_20130915_004_(9768289441).jpg | CC BY 2.0 | Johan Wessman / News Oresund
+cities/falun.jpg | https://commons.wikimedia.org/wiki/File:Kristine_kyrka,_Falun_(by_Pudelek).jpg | CC BY-SA 4.0 | Pudelek
+highlights/falun-1.jpg | https://commons.wikimedia.org/wiki/File:Falu_gruva_(by_Pudelek).JPG | CC BY-SA 4.0 | Pudelek
+highlights/falun-2.jpg | https://commons.wikimedia.org/wiki/File:Lilla_Hyttn%C3%A4s_2012_03.jpg | CC BY-SA 3.0 | Holger.Ellgaard
+highlights/falun-3.jpg | https://commons.wikimedia.org/wiki/File:Lugnet_Falun.jpg | Public domain | Matthias Wilke
+highlights/falun-4.jpg | https://commons.wikimedia.org/wiki/File:Nusnas-Bootsschuppen.JPG | CC BY-SA 4.0 | Frank Hüncke (www.huencke.de)
+cities/lund.jpg | https://commons.wikimedia.org/wiki/File:Lunds_domkyrka_-_mosaik_kor.jpg | CC0 | Atleett
+highlights/lund-1.jpg | https://commons.wikimedia.org/wiki/File:Lunds_domkyrka1.jpeg | CC BY-SA 3.0 | Kallekn
+highlights/lund-2.jpg | https://commons.wikimedia.org/wiki/File:20210515_Lund_universitetshuset_1_(51187884060).jpg | CC BY 2.0 | Jenny Andersson / News Oresund
+highlights/lund-3.jpg | https://commons.wikimedia.org/wiki/File:Lund,_kulturen,_casa_ystad_01.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/lund-4.jpg | https://commons.wikimedia.org/wiki/File:Lund_Botanical_Garden_-_Botaniska_tr%C3%A4dg%C3%A5rden_(51327462484).jpg | CC BY-SA 2.0 | Jens Cederskjold from København S, Danmark
+cities/ystad.jpg | https://commons.wikimedia.org/wiki/File:Lilla_V%C3%A4stergatan,_Ystad,_Sweden.jpg | CC BY 4.0 | OleNeitzel
+highlights/ystad-1.jpg | https://commons.wikimedia.org/wiki/File:Ales_stenar_2015-2.jpg | CC BY-SA 3.0 | Jorchr
+highlights/ystad-2.jpg | https://commons.wikimedia.org/wiki/File:00_0927_Interior_of_Sankta_Maria_kyrka,_Ystad.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/ystad-3.jpg | https://commons.wikimedia.org/wiki/File:Gr%C3%A5br%C3%B6draklostret_i_Ystad_02.jpg | CC0 | This image was produced by me, David Castor (user:dcastor).
+highlights/ystad-4.jpg | https://commons.wikimedia.org/wiki/File:Ystad_sandskog.jpg | CC BY-SA 4.0 | Jorchr
+cities/kalmar.jpg | https://commons.wikimedia.org/wiki/File:Slottskyrkan_i_Kalmar_slott_13.JPG | CC BY-SA 4.0 | Jopparn
+highlights/kalmar-1.jpg | https://commons.wikimedia.org/wiki/File:Kalmar_castle_(by_Pudelek).JPG | CC BY-SA 4.0 | Pudelek
+highlights/kalmar-2.jpg | https://commons.wikimedia.org/wiki/File:Kalmar_Domkyrka_fr%C3%A5n_luften.jpg | CC BY-SA 4.0 | L.G.foto
+highlights/kalmar-3.jpg | https://commons.wikimedia.org/wiki/File:Kalmar_l%C3%A4ns_Museum_2015_02.JPG | CC BY-SA 4.0 | Jopparn
+highlights/kalmar-4.jpg | https://commons.wikimedia.org/wiki/File:Borgholm_castle_ruin.jpg | CC BY 2.0 | Håkan Dahlström
+highlights/kalmar-5.jpg | https://commons.wikimedia.org/wiki/File:003Kosta_glasbruk.jpg | CC BY-SA 3.0 | Bernt Fransson,Lindås
+cities/karlskrona.jpg | https://commons.wikimedia.org/wiki/File:Karlskrona_kamienica_Stortorget_3.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+highlights/karlskrona-1.jpg | https://commons.wikimedia.org/wiki/File:Royal_Swedish_Navy_Band_outside_Naval_Museum_in_Karlskrona_in_2008.jpg | CC BY 2.0 | Marinmuseum Karlskrona from Karlskrona, Sweden
+highlights/karlskrona-2.jpg | https://commons.wikimedia.org/wiki/File:Stortorget_-_Karlskrona,_Sweden_-_DSC08342.JPG | CC0 | Daderot
+highlights/karlskrona-3.jpg | https://commons.wikimedia.org/wiki/File:Amiralitetskyrkan_Karlskrona_Exteri%C3%B6r_01.jpg | CC BY-SA 4.0 | Bernt Fransson,Lindås
+highlights/karlskrona-4.jpg | https://commons.wikimedia.org/wiki/File:KungsholmsFortKarlskrona2.JPG | CC BY-SA 4.0 | Patrik Nylin
+cities/visby.jpg | https://www.flickr.com/photos/63457884@N04/6030508582 | BY-SA 2.0 | Bochum1805
+highlights/visby-1.jpg | https://commons.wikimedia.org/wiki/File:Visby_ringmur_June_2026_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/visby-2.jpg | https://commons.wikimedia.org/wiki/File:Visby_Sankta_Maria_domkyrka_August_2020_01.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/visby-3.jpg | https://commons.wikimedia.org/wiki/File:Sankta_Katarina_kyrkoruin01.jpg | CC BY-SA 3.0 | Esquilo
+highlights/visby-4.jpg | https://commons.wikimedia.org/wiki/File:Gotlands_Museum_(Fornsalen)_innerg%C3%A5rden_och_logga_(5).jpg | CC BY-SA 4.0 | W.carter
+highlights/visby-5.jpg | https://commons.wikimedia.org/wiki/File:Rauks_(3881539849).jpg | CC BY-SA 2.0 | allen watkin from London, UK
+cities/hoga-kusten.jpg | https://www.flickr.com/photos/68442394@N07/14304487219 | BY-SA 2.0 | nillamaria
+highlights/hoga-kusten-1.jpg | https://commons.wikimedia.org/wiki/File:High_Coast_Bridge_(H%C3%B6gakustenbron).jpg | Public domain | Orjan67 Örjan Öberg
+highlights/hoga-kusten-2.jpg | https://commons.wikimedia.org/wiki/File:Skuleberget_rastplats_i_360.jpg | CC BY-SA 4.0 | Jan Ainali
+highlights/hoga-kusten-3.jpg | https://commons.wikimedia.org/wiki/File:Sl%C3%A5ttdalsskrevan,_Skuleskogen.jpg | CC BY-SA 4.0 | Pavel.shyshkouski
+highlights/hoga-kusten-4.jpg | https://commons.wikimedia.org/wiki/File:Ulv%C3%B6hamn_fr%C3%A5n_Lotsberget_i_%C3%85ngermanlands_l%C3%A4n_20250710.jpg | CC BY-SA 4.0 | Dalruwa
+cities/are.jpg | https://commons.wikimedia.org/wiki/File:%C3%85re,_Sweden_(Unsplash).jpg | CC0 | Dmitriy Karfagenskiy dima7k
+highlights/are-1.jpg | https://commons.wikimedia.org/wiki/File:Snowy_%C3%85reskutan_Ski_lift.jpg | CC BY 2.0 | Anders Carlsson
+highlights/are-2.jpg | https://commons.wikimedia.org/wiki/File:%C3%85re_skistar_-_20260117_-_13.jpg | CC BY-SA 4.0 | AleWi
+highlights/are-3.jpg | https://commons.wikimedia.org/wiki/File:T%C3%A4nnforsen.jpg | CC BY 2.0 | Pierre Nordique from Seattle
+cities/lulea.jpg | https://commons.wikimedia.org/wiki/File:Lule%C3%A5_domkyrka_2.jpg | CC BY-SA 3.0 | Tortap
+highlights/lulea-1.jpg | https://commons.wikimedia.org/wiki/File:Gammelstad_Gammelstad_33.JPG | CC BY-SA 4.0 | Zairon
+highlights/lulea-2.jpg | https://commons.wikimedia.org/wiki/File:Klubbviken_Lulea2.JPG | CC BY-SA 4.0 | Patrik Nylin
+highlights/lulea-3.jpg | https://commons.wikimedia.org/wiki/File:Norrbottens_museum,_2015-12-10.jpg | CC BY 4.0 | Axel Pettersson
+highlights/lulea-4.jpg | https://commons.wikimedia.org/wiki/File:The_cabin_(treehotel).jpg | CC BY 2.0 | Nicolás Boullosa
+cities/abisko.jpg | https://commons.wikimedia.org/wiki/File:20221226_-_Abisko_-_Aurore_bor%C3%A9ale_1.jpg | CC BY-SA 4.0 | Fabricio Cardenas
+highlights/abisko-1.jpg | https://commons.wikimedia.org/wiki/File:Nuolja_Peak_360_Degree.jpg | CC BY-SA 4.0 | Jojoo64
+highlights/abisko-2.jpg | https://commons.wikimedia.org/wiki/File:Abiskoj%C3%A5kka_canyon.jpg | CC BY-SA 3.0 | Silverkey
+highlights/abisko-3.jpg | https://www.flickr.com/photos/78904630@N08/14134611868 | BY-SA 2.0 | Christoph Strässler
+highlights/abisko-4.jpg | https://commons.wikimedia.org/wiki/File:Lapporten_over_Tornetr%C3%A4sk,_Norrbotten,_Sweden,_2015_April.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)

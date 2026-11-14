@@ -91,6 +91,16 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['개썰매|Dog sledding', 7],
     ],
   },
+  falun: { days: [['', 1, 3]], trips: [['카를 라르손 저택|Carl Larsson-gården', 2], ['실리안 호수|Lake Siljan', 4]] },
+  lund: { days: [['', 1, 2, 3, 4]] },
+  ystad: { days: [['', 2, 3, 4]], trips: [['알레스 스테나르|Ales stenar', 1]] },
+  kalmar: { days: [['', 1, 2, 3]], trips: [['욀란드섬|Öland', 4], ['유리 왕국|Kingdom of Crystal', 5]] },
+  karlskrona: { days: [['', 2, 3, 1]], trips: [['쿵스홀름 요새|Kungsholm Fortress', 4]] },
+  visby: { days: [['', 1, 3, 2, 4]], trips: [['포뢰섬|Fårö', 5]] },
+  'hoga-kusten': { days: [['', 1, 2], ['', 3]], trips: [['울뵌섬|Ulvön', 4]] },
+  are: { days: [['', 1, 2]], trips: [['텐포르센 폭포|Tännforsen', 3]] },
+  lulea: { days: [['', 1, 3]], trips: [['룰레오 군도|Luleå archipelago', 2], ['트리호텔|Treehotel', 4]] },
+  abisko: { days: [['', 2, 4], ['', 3]], trips: [['오로라 스카이 스테이션|Aurora Sky Station', 1]] },
   copenhagen: {
     days: [
       ['인어공주와 왕궁|The Little Mermaid & the palace', 12, 5, 14, 13, 1, 2],

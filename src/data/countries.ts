@@ -687,12 +687,13 @@ export const countries: Country[] = [
       background: '#E6F2F8',
       text: '#00324F',
     },
-    cityIds: ['stockholm', 'uppsala', 'gothenburg', 'malmo', 'kiruna'],
+    cityIds: ['stockholm', 'uppsala', 'falun', 'gothenburg', 'malmo', 'lund', 'ystad', 'kalmar', 'karlskrona', 'visby', 'hoga-kusten', 'are', 'lulea', 'kiruna', 'abisko'],
     cityGroups: [
-      { title: { ko: '스톡홀름·중부', en: 'Stockholm & central Sweden' }, cityIds: ['stockholm', 'uppsala'] },
+      { title: { ko: '스톡홀름·중부', en: 'Stockholm & central Sweden' }, cityIds: ['stockholm', 'uppsala', 'falun'] },
       { title: { ko: '서해안', en: 'West coast' }, cityIds: ['gothenburg'] },
-      { title: { ko: '스코네', en: 'Skåne' }, cityIds: ['malmo'] },
-      { title: { ko: '북부', en: 'Northern Sweden' }, cityIds: ['kiruna'] },
+      { title: { ko: '스코네', en: 'Skåne' }, cityIds: ['malmo', 'lund', 'ystad'] },
+      { title: { ko: '남동부·섬', en: 'Southeast & Gotland' }, cityIds: ['kalmar', 'karlskrona', 'visby'] },
+      { title: { ko: '북부', en: 'Northern Sweden' }, cityIds: ['hoga-kusten', 'are', 'lulea', 'kiruna', 'abisko'] },
     ],
   },
   {
