@@ -3792,3 +3792,9 @@ highlights/abisko-1.jpg | https://commons.wikimedia.org/wiki/File:Nuolja_Peak_36
 highlights/abisko-2.jpg | https://commons.wikimedia.org/wiki/File:Abiskoj%C3%A5kka_canyon.jpg | CC BY-SA 3.0 | Silverkey
 highlights/abisko-3.jpg | https://www.flickr.com/photos/78904630@N08/14134611868 | BY-SA 2.0 | Christoph Strässler
 highlights/abisko-4.jpg | https://commons.wikimedia.org/wiki/File:Lapporten_over_Tornetr%C3%A4sk,_Norrbotten,_Sweden,_2015_April.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+gateways/gw-vby.jpg | https://commons.wikimedia.org/wiki/File:Almedalsveckan_Malmo_Aviation_Visby_flygplats_20130701_0039F_(9208578994).jpg | CC BY 2.0 | Johan Wessman / News Oresund
+gateways/gw-lla.jpg | https://commons.wikimedia.org/wiki/File:Lulea_airport.jpg | CC BY-SA 4.0 | Andreas Harnemo
+gateways/gw-osd.jpg | https://commons.wikimedia.org/wiki/File:%C3%85re_%C3%B6stersund_flygplats.jpg | Public domain | Andreas Eriksson
+gateways/gw-rnb.jpg | https://commons.wikimedia.org/wiki/File:Arriving_at_Ronneby_Airport_-_Timr%C3%A5_Municipality,_Sweden_-_DSC08287.JPG | CC0 | Daderot
+gateways/gw-klr.jpg | https://www.flickr.com/photos/84159903@N00/14970126897 | BY-SA 2.0 | Eldkvast
+gateways/gw-krf.jpg | https://commons.wikimedia.org/wiki/File:Kramfors-Sollefte%C3%A5_flygplats.JPG | Public domain | Own work
