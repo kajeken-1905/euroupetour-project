@@ -10932,5 +10932,90 @@
     57.16662,
     24.84927,
     "OSM Nominatim: Siguldas viduslaiku pils, Gaujas iela, Sigulda, Siguldas nov"
+  ],
+  "cesis-h4": [
+    57.2519,
+    25.28269,
+    "OSM Nominatim: Āraišu ezerpils, Drabeši — Līvi, Drabeši, Drabešu pagasts, C (Wikipedia 57m)"
+  ],
+  "kuldiga-h1": [
+    56.96791,
+    21.97904,
+    "OSM Nominatim: Ventas Rumba, Pārventa, Kuldīga, Kuldīgas novads, LV-3301, L (Wikipedia 8m)"
+  ],
+  "kuldiga-h4": [
+    57.00659,
+    21.98615,
+    "OSM Nominatim: Riežupes Smilšu Alas, Vetklīnika - Palejas, Rumbas pagasts, "
+  ],
+  "liepaja-h2": [
+    56.54633,
+    21.02096,
+    "OSM Nominatim: Karostas cietums, 4, Invalīdu iela, Karosta, Liepāja, LV-341"
+  ],
+  "liepaja-h3": [
+    56.50984,
+    21.01335,
+    "OSM Nominatim: Svētās Trīsvienības Baznīca, 9, Lielā iela, Vecliepāja, Liep"
+  ],
+  "ventspils-h3": [
+    57.3859,
+    21.53497,
+    "OSM Nominatim: Piejūras Brīvdabas Muzejs, 2, Riņķa iela, Vasarnīcu rajons, "
+  ],
+  "daugavpils-h1": [
+    55.88384,
+    26.49745,
+    "OSM Nominatim: Rotko muzejs, 3, Mihaila iela, Cietoksnis, Daugavpils, LV-54"
+  ],
+  "daugavpils-h2": [
+    55.88645,
+    26.49501,
+    "OSM Nominatim: Daugavpils cietoksnis, Hospitāļa iela, Cietoksnis, Daugavpil"
+  ],
+  "cesis-h3": [
+    57.31219,
+    25.27185,
+    "OSM Nominatim: Cēsu Svētā Jāņa baznīca, 8, Lielā Skolas iela, Dubinska, Cēs"
+  ],
+  "liepaja-h4": [
+    56.51142,
+    21.01057,
+    "OSM Nominatim: Lielais Dzintars, 8, Radio iela, Vecliepāja, Liepāja, LV-340"
+  ],
+  "ventspils-h2": [
+    57.38778,
+    21.53277,
+    "OSM Nominatim: Pludmale, Džungļu taka, Vasarnīcu rajons, Ventspils, LV-3602"
+  ],
+  "daugavpils-h3": [
+    55.8703,
+    26.53889,
+    "OSM Nominatim: Baznīcu kalns, 18. novembra iela, Jaunbūve, Daugavpils, LV-5"
+  ],
+  "cesis-h1": [
+    57.31322,
+    25.27152,
+    "OSM Nominatim: Cēsu pils muzejs, 9, Pils laukums, Dubinska, Cēsis, Cēsu nov"
+  ],
+  "cesis-h2": [
+    57.31322,
+    25.27152,
+    "OSM Nominatim: Cēsu pils muzejs, 9, Pils laukums, Dubinska, Cēsis, Cēsu nov"
+  ],
+  "kuldiga-h3": [
+    56.9679,
+    21.97076,
+    "OSM Nominatim: Rātslaukums, Ķelšu ciems, Kuldīga, Kuldīgas novads, LV-3301,"
+  ],
+  "liepaja-h5": [
+    56.50697,
+    20.99419,
+    "OSM Nominatim: Jūrmalas parks, Vecliepāja, Liepāja, Latvija"
+  ],
+  "ventspils-h1": [
+    57.39615,
+    21.55868,
+    "OSM Nominatim: Ventspils viduslaiku pils, 17, Jāņa iela, Vecpilsēta, Ventsp"
   ]
 }

@@ -2339,6 +2339,22 @@ export const STAY: Record<string, StayArea[]> = {
     a('리가에서 다녀오기', 'Base in Riga', 'Riga Central Station', '당일치기|Day trip', '기차로 45분~1시간입니다. 볼거리 사이를 꽤 많이 걸어야 합니다.|45 minutes to an hour by train; expect a lot of walking between the sights.'),
     a('시굴다 마을', 'Sigulda town', 'Sigulda', '하룻밤·투라이다성|Overnight, Turaida', '투라이다성 등 주변을 느긋하게 둘러보기 좋은 거점입니다.|A good base to explore Turaida Castle and the area at a slower pace.'),
   ],
+  cesis: [
+    a('구시가', 'Old town', 'Cēsis Old Town', '걸어서 다 보기|Everything on foot', '성과 교회, 식당이 모두 걸어서 가깝습니다.|The castle, church and restaurants are all within walking distance.'),
+    a('리가에서 다녀오기', 'Base in Riga', 'Riga', '당일치기|Day trip', '기차로 약 1시간 30분이라 시굴다와 함께 하루에 다녀올 수 있습니다.|About 1 hr 30 min by train, so it pairs with Sigulda in a day.'),
+  ],
+  kuldiga: [
+    a('구시가', 'Old town', 'Kuldīga Old Town', '걸어서 다 보기|Everything on foot', '폭포와 다리, 구시가가 모두 걸어서 가깝습니다.|The falls, bridge and old town are all within walking distance.'),
+  ],
+  liepaja: [
+    a('시내와 해변 공원', 'Centre & Seaside Park', 'Liepāja centre', '교통이 편한 곳|Convenient', '버스터미널과 해변, 콘서트홀이 가깝고 카로스타까지 시내버스가 다닙니다.|Close to the bus station, beach and concert hall, with city buses to Karosta.'),
+  ],
+  ventspils: [
+    a('구시가와 성', 'Old town & castle', 'Ventspils Old Town', '걸어서 다 보기|Everything on foot', '성과 강변, 버스터미널이 가깝고 해변까지 걸어서 20분 안팎입니다.|Close to the castle, riverside and bus station, about 20 minutes’ walk from the beach.'),
+  ],
+  daugavpils: [
+    a('시내 중심', 'City centre', 'Daugavpils centre', '교통이 편한 곳|Convenient', '역과 시내가 가깝고, 요새까지 트램이 다닙니다.|Close to the station, with trams to the fortress.'),
+  ],
   klaipeda: [
     a('구시가 (극장 광장 주변)', 'Old town (Theatre Square)', 'Theatre Square, Klaipėda', '걸어서 구경|Sights on foot', '극장 광장과 다네강 변, 성터가 걸어서 닿습니다. 쿠르시우 사주의 니다는 50km 떨어져 따로 묵는 편이 낫습니다.|Theatre Square, the Danė riverside and the castle site on foot; Nida on the Curonian Spit is 50 km away and better as its own stay.'),
   ],

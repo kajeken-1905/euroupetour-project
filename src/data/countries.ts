@@ -1164,10 +1164,12 @@ export const countries: Country[] = [
       background: '#FCE8EC',
       text: '#3A0A14',
     },
-    cityIds: ['riga', 'jurmala', 'sigulda'],
+    cityIds: ['riga', 'jurmala', 'sigulda', 'cesis', 'kuldiga', 'liepaja', 'ventspils', 'daugavpils'],
     cityGroups: [
       { title: { ko: '리가·해안', en: 'Riga & coast' }, cityIds: ['riga', 'jurmala'] },
-      { title: { ko: '비드제메', en: 'Vidzeme' }, cityIds: ['sigulda'] },
+      { title: { ko: '비드제메', en: 'Vidzeme' }, cityIds: ['sigulda', 'cesis'] },
+      { title: { ko: '쿠르제메', en: 'Kurzeme' }, cityIds: ['kuldiga', 'liepaja', 'ventspils'] },
+      { title: { ko: '라트갈레', en: 'Latgale' }, cityIds: ['daugavpils'] },
     ],
   },
   {

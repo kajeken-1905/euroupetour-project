@@ -3986,3 +3986,29 @@ highlights/sigulda-3.jpg | https://commons.wikimedia.org/wiki/File:2023_Sigulda_
 highlights/sigulda-6.jpg | https://commons.wikimedia.org/wiki/File:Sigulda_medieval_castle_ruins_-_panoramio.jpg | CC BY-SA 3.0 | Laima Gūtmane (simka…
 highlights/sigulda-7.jpg | https://commons.wikimedia.org/wiki/File:Bobsleigh_in_Sigulda_(3147456378).jpg | CC BY-SA 2.0 | Helmuts Rudzītis from Rīga, Latvia
 highlights/riga-11.jpg | https://commons.wikimedia.org/wiki/File:Kalnciema_Quarter_Market.jpg | CC BY-SA 4.0 | Андрей Романенко
+cities/cesis.jpg | https://commons.wikimedia.org/wiki/File:Skats_no_Vidzemes_koncertz%C4%81le_C%C4%93sis_jumta_-_panoramio_(2).jpg | CC BY-SA 3.0 | Guntars Mednis
+highlights/cesis-1.jpg | https://commons.wikimedia.org/wiki/File:C%C4%93su_viduslaiku_pils_03.jpg | CC BY-SA 4.0 | Edgars Košovojs
+highlights/cesis-2.jpg | https://commons.wikimedia.org/wiki/File:C%C4%93sis_New_Castle_in_Jaunary_2017.jpg | CC BY-SA 4.0 | AgrisR
+highlights/cesis-3.jpg | https://commons.wikimedia.org/wiki/File:C%C4%93su_J%C4%81%C5%86a_bazn%C4%ABca_10.jpg | CC BY-SA 4.0 | Edgars Košovojs
+highlights/cesis-4.jpg | https://commons.wikimedia.org/wiki/File:%C4%80rai%C5%A1u_ezerpils_(1).jpg | CC BY-SA 4.0 | Edgars Šulcs
+cities/kuldiga.jpg | https://commons.wikimedia.org/wiki/File:Kuld%C4%ABga,_Kurzeme,_Latvija,_Vecpils%C4%93ta.jpg | CC BY-SA 4.0 | Inārs Švarcs
+highlights/kuldiga-1.jpg | https://commons.wikimedia.org/wiki/File:Kuldiga_Ventas_rumba_26.JPG | CC BY-SA 4.0 | Zairon
+highlights/kuldiga-2.jpg | https://commons.wikimedia.org/wiki/File:Kuldiga_bridge.jpg | CC BY-SA 2.0 | Staffan Vilcans
+highlights/kuldiga-3.jpg | https://commons.wikimedia.org/wiki/File:Wiew_to_Kuldiga_from_St._Catherin_evangelic_lutheran_church%27s_tower_-_panoramio.jpg | CC BY-SA 3.0 | Laima Gūtmane (simka…
+highlights/kuldiga-4.jpg | https://commons.wikimedia.org/wiki/File:Rie%C5%BEupes_alu_ieeja_2010-06-24.jpg | CC BY 3.0 | J. Sedols
+cities/liepaja.jpg | https://commons.wikimedia.org/wiki/File:Liepaja_Kanal_Handlowy_3.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+highlights/liepaja-1.jpg | https://commons.wikimedia.org/wiki/File:Karosta_church.JPG | CC BY-SA 3.0 | Kulmalukko
+highlights/liepaja-2.jpg | https://commons.wikimedia.org/wiki/File:Liep%C4%81jas_karostas_cietums.JPG | CC BY-SA 4.0 | Wellstar69
+highlights/liepaja-3.jpg | https://commons.wikimedia.org/wiki/File:Liepaja_tramway_passing_Holy_Trinity_Cathedral.jpg | CC0 | Sekreterare
+highlights/liepaja-4.jpg | https://commons.wikimedia.org/wiki/File:Koncertzale_Lielais_Dzintars_2015_-_panoramio.jpg | CC BY 3.0 | ---=XEON=---
+highlights/liepaja-5.jpg | https://commons.wikimedia.org/wiki/File:Liepaja_beach.jpg | CC BY-SA 4.0 | Werner100359
+cities/ventspils.jpg | https://www.flickr.com/photos/97702840@N00/48416682227 | BY 2.0 | Jukk_a
+highlights/ventspils-1.jpg | https://commons.wikimedia.org/wiki/File:Ventspils_castle_-_panoramio.jpg | CC BY-SA 3.0 | Laima Gūtmane (simka…
+highlights/ventspils-2.jpg | https://commons.wikimedia.org/wiki/File:Ventspils_beach.jpg | CC BY-SA 3.0 | Laima Gūtmane (Simka)
+highlights/ventspils-3.jpg | https://commons.wikimedia.org/wiki/File:Ventspils_Piej%C5%ABras_br%C4%ABvdabas_muzejs_-_panoramio.jpg | CC BY-SA 3.0 | aldonis
+cities/daugavpils.jpg | https://commons.wikimedia.org/wiki/File:Daugava_in_Daugavpils_-_edik50_(4).jpg | CC BY 3.0 | edik50
+highlights/daugavpils-1.jpg | https://commons.wikimedia.org/wiki/File:RothkoCenter2.jpg | CC BY-SA 3.0 | Karlis.Rasis
+highlights/daugavpils-2.jpg | https://commons.wikimedia.org/wiki/File:Daugavpils_Fortress_05.jpg | CC BY-SA 4.0 | Scotch Mist
+highlights/daugavpils-3.jpg | https://commons.wikimedia.org/wiki/File:Daugavpils_Ss_Boris_and_Gleb_Orthodox_Cathedral_(1).jpg | CC BY-SA 3.0 | Glossologist
+gateways/gw-liepaja-port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Liep%C4%81ja_(51127242063).jpg | Public domain | Liepāja fotogrāfijās from Latvia
+gateways/gw-ventspils-port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Ventspils_from_the_left_shore.jpg | CC BY-SA 4.0 | Ymblanter

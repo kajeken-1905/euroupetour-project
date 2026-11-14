@@ -6478,6 +6478,53 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  cesis: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다. 리가와 시굴다는 기차로 오갑니다.',
+      en: 'A small town best on foot; trains link it with Riga and Sigulda.',
+    },
+    apps: [
+      ta('vivi'),
+    ],
+  },
+  kuldiga: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다. 기차가 없어 리가와는 버스로 오갑니다.',
+      en: 'A small town best on foot; with no railway, buses link it with Riga.',
+    },
+    apps: [
+    ],
+  },
+  liepaja: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 해변은 걸어서 다니고, 카로스타는 시내버스로 갑니다. 1899년부터 전차가 다니는 도시입니다.',
+      en: 'Walk the centre and beach; take a city bus to Karosta. Trams have run here since 1899.',
+    },
+    apps: [
+    ],
+  },
+  ventspils: {
+    modes: ['walk', 'bus', 'bike', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니거나 자전거를 빌립니다.',
+      en: 'Walk or hire a bike around town.',
+    },
+    apps: [
+    ],
+  },
+  daugavpils: {
+    modes: ['walk', 'tram', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 요새는 트램이나 버스로 갑니다.',
+      en: 'Walk the centre; take a tram or bus to the fortress.',
+    },
+    apps: [
+      ta('vivi'),
+    ],
+  },
   // —— lt ——
   vilnius: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],

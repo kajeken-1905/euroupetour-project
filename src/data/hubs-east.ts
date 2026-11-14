@@ -251,6 +251,30 @@ export const hubsEast: Record<string, RawCityHubs> = {
     rail: [['Sigulda', '시굴다역']],
     bus: [['Siguldas autoosta', '시굴다 버스터미널', '기차역 옆|next to the rail station']],
   },
+  cesis: {
+    air: [RIX()],
+    rail: [['Cēsis', '체시스역']],
+    bus: [['Cēsu autoosta', '체시스 버스터미널']],
+  },
+  kuldiga: {
+    air: [RIX()],
+    bus: [['Kuldīgas autoosta', '쿨디가 버스터미널', '여객 철도 없음|no passenger railway']],
+  },
+  liepaja: {
+    air: [['Liepāja (LPX)', '리예파야 공항 (LPX)'], RIX()],
+    bus: [['Liepājas autoosta', '리예파야 버스터미널']],
+    port: [['Liepājas osta', '리예파야 항구', '독일행 페리|ferries to Germany']],
+  },
+  ventspils: {
+    air: [RIX()],
+    bus: [['Ventspils autoosta', '벤츠필스 버스터미널']],
+    port: [['Ventspils osta', '벤츠필스 항구', '스웨덴행 페리|ferries to Sweden']],
+  },
+  daugavpils: {
+    air: [RIX()],
+    rail: [['Daugavpils', '다우가프필스역']],
+    bus: [['Daugavpils autoosta', '다우가프필스 버스터미널']],
+  },
 
   // —— lt ——
   vilnius: {
