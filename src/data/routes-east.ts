@@ -81,13 +81,6 @@ export const routesEast: RawRoute[] = [
   // —— ee / lv / lt ——
   r('tallinn', 'tartu', 'train', 125),
   r('tallinn', 'parnu', 'bus', 110),
-  r('tallinn', 'kuressaare', 'bus', 240, { n: '비르츠–쿠이바스투 페리 포함|includes the Virtsu–Kuivastu ferry' }),
-  r('tallinn', 'kuressaare', 'flight', 45),
-  r('tallinn', 'haapsalu', 'bus', 100),
-  r('tallinn', 'viljandi', 'train', 140),
-  r('tartu', 'viljandi', 'bus', 75),
-  r('tallinn', 'narva', 'train', 155),
-  r('tallinn', 'rakvere', 'train', 95),
   r('tallinn', 'riga', 'bus', 265),
   r('riga', 'jurmala', 'train', 30, { fb: '마요리역|Majori' }),
   r('riga', 'sigulda', 'train', 60),

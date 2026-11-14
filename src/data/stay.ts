@@ -2313,24 +2313,6 @@ export const STAY: Record<string, StayArea[]> = {
     a('해변 쪽', 'Beach area', 'Pärnu beach', '바다·스파|Sea and spas', '해변과 해변 공원 옆에 스파 호텔이 많고 시내까지 15분쯤 걷습니다.|Spa hotels by the beach and its park, about 15 minutes’ walk to town.'),
     a('시내 중심', 'Town centre', 'Rüütli, Pärnu', '식당·쇼핑|Dining, shopping', '뤼틀리 보행자 거리와 광장 주변에 식당·상점이 모여 있습니다.|Restaurants and shops around the Rüütli pedestrian street and the square.'),
   ],
-  rakvere: [
-    a('탈린에서 다녀오기', 'Base in Tallinn', 'Tallinn', '당일치기|Day trip', '기차로 약 1시간 30분이라 탈린에서 하루 다녀오기 좋습니다.|About 1 hr 30 min by train, an easy day trip from Tallinn.'),
-    a('라크베레 시내', 'Rakvere centre', 'Rakvere', '라헤마 거점|Base for Lahemaa', '성 아래 시내에 묵으면 라헤마 국립공원까지 가깝습니다.|Staying below the castle puts Lahemaa National Park close by.'),
-  ],
-  narva: [
-    a('성과 시내 중심', 'Castle & centre', 'Narva', '교통이 편한 곳|Convenient', '역과 성, 강변 산책로가 걸어서 가깝습니다.|The station, castle and promenade are within walking distance.'),
-    a('나르바예수', 'Narva-Jõesuu', 'Narva-Jõesuu', '해변 휴양|Beach resort', '해변의 스파 호텔에 묵고 나르바로 다녀옵니다.|Stay in a beach spa hotel and visit Narva from there.'),
-  ],
-  viljandi: [
-    a('구시가와 성 공원', 'Old town & castle park', 'Viljandi', '걸어서 다 보기|Everything on foot', '성터와 음악 센터, 호수가 모두 걸어서 가깝습니다.|The castle ruins, music centre and lake are all within walking distance.'),
-    a('타르투에서 다녀오기', 'Base in Tartu', 'Tartu', '당일치기|Day trip', '버스로 약 1시간 15분이라 타르투에서 다녀올 수 있습니다.|About 1 hr 15 min by bus, so visitable from Tartu.'),
-  ],
-  haapsalu: [
-    a('구시가와 바닷가', 'Old town & seafront', 'Haapsalu', '걸어서 다 보기|Everything on foot', '성과 산책로, 박물관이 모두 걸어서 가깝습니다.|The castle, promenade and museums are all within walking distance.'),
-  ],
-  kuressaare: [
-    a('성과 시내 중심', 'Castle & centre', 'Kuressaare', '교통이 편한 곳|Convenient', '성과 스파 호텔, 버스터미널이 가깝습니다.|Close to the castle, spa hotels and bus station.'),
-  ],
   jurmala: [
     a('마요리', 'Majori', 'Majori, Jūrmala', '처음이라면|First visit', '식당·상점·보행자 거리가 가장 많이 모여 있고 기차역이 있습니다.|The most restaurants, shops and pedestrian streets, with a railway station.'),
     a('리가에서 다녀오기', 'Base in Riga', 'Riga Central Station', '당일치기|Day trip', '가까워 당일치기로 쉽게 다녀옵니다.|Close enough for an easy day trip.'),

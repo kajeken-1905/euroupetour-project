@@ -1130,11 +1130,11 @@ export const countries: Country[] = [
       background: '#E8F2FA',
       text: '#0A1A30',
     },
-    cityIds: ['tallinn', 'rakvere', 'narva', 'tartu', 'viljandi', 'parnu', 'haapsalu', 'kuressaare'],
+    cityIds: ['tallinn', 'tartu', 'parnu'],
     cityGroups: [
-      { title: { ko: '북부', en: 'North Estonia' }, cityIds: ['tallinn', 'rakvere', 'narva'] },
-      { title: { ko: '남부', en: 'South Estonia' }, cityIds: ['tartu', 'viljandi'] },
-      { title: { ko: '서부·섬', en: 'West coast & islands' }, cityIds: ['parnu', 'haapsalu', 'kuressaare'] },
+      { title: { ko: '북부', en: 'North Estonia' }, cityIds: ['tallinn'] },
+      { title: { ko: '남부', en: 'South Estonia' }, cityIds: ['tartu'] },
+      { title: { ko: '서부·섬', en: 'West coast & islands' }, cityIds: ['parnu'] },
     ],
   },
   {
