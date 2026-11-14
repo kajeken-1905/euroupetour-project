@@ -6393,6 +6393,56 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt', { ko: '탈린 기본 앱', en: 'Default in Tallinn' }),
     ],
   },
+  rakvere: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내와 성은 걸어서 다닙니다. 라헤마는 차나 투어가 편합니다.',
+      en: 'Walk between the centre and the castle; a car or tour is easier for Lahemaa.',
+    },
+    apps: [
+      ta('elron'),
+    ],
+  },
+  narva: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내와 성은 걸어서 다니고, 나르바예수는 시내버스로 갑니다.',
+      en: 'Walk the centre and castle; take a local bus to Narva-Jõesuu.',
+    },
+    apps: [
+      ta('elron'),
+    ],
+  },
+  viljandi: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다. 탈린과는 엘론 기차로 오갑니다.',
+      en: 'A small town best on foot; Elron trains link it with Tallinn.',
+    },
+    apps: [
+      ta('elron'),
+    ],
+  },
+  haapsalu: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다. 기차가 없어 탈린과는 버스로 오갑니다.',
+      en: 'A small town best on foot; with no railway, buses link it with Tallinn.',
+    },
+    apps: [
+      ta('bolt'),
+    ],
+  },
+  kuressaare: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 섬 곳곳의 볼거리는 버스가 드물어 차가 편합니다.',
+      en: 'Walk the town; buses to sights around the island are sparse, so a car is easier.',
+    },
+    apps: [
+      ta('bolt'),
+    ],
+  },
   // —— lv ——
   riga: {
     modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],

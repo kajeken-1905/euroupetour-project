@@ -3934,3 +3934,17 @@ highlights/seydisfjordur-2.jpg | https://www.flickr.com/photos/130450256@N03/193
 highlights/seydisfjordur-3.jpg | https://commons.wikimedia.org/wiki/File:Gufufoss_-_Blick_von_oben.jpg | CC BY-SA 4.0 | Oliver Schöpgens
 highlights/seydisfjordur-4.jpg | https://commons.wikimedia.org/wiki/File:Hengifoss_2026_02.jpg | CC BY-SA 4.0 | Syrio
 highlights/stykkisholmur-5.jpg | https://commons.wikimedia.org/wiki/File:Flatey,_Brei%C3%B0afj%C3%B6r%C3%B0ur_-_panoramio_(9).jpg | CC BY-SA 3.0 | Patrick Nouhailler's…
+highlights/tallinn-5.jpg | https://commons.wikimedia.org/wiki/File:Kadriorg_Palace_20180807-3.jpg | CC BY-SA 4.0 | Suicasmo
+highlights/tallinn-6.jpg | https://commons.wikimedia.org/wiki/File:Tallinn_-_Town_Hall_Square_(Raekoja_plats).jpg | CC BY-SA 3.0 ee | Pudelek (Marcin Szala)
+highlights/tallinn-7.jpg | https://commons.wikimedia.org/wiki/File:Tallinna_Oleviste_kirik,_13.-19.saj.x1.JPG | CC BY-SA 3.0 ee | A.palu
+highlights/tallinn-8.jpg | https://www.flickr.com/photos/31467556@N00/20118049714 | BY 2.0 | PhotoHenning
+highlights/tallinn-9.jpg | https://commons.wikimedia.org/wiki/File:Lennusadam_2015.jpg | CC BY-SA 4.0 | Hiiumaa mudeliklubi
+highlights/tallinn-10.jpg | https://commons.wikimedia.org/wiki/File:KUMU_Eesti_Kunstimuuseum_06.jpg | CC BY-SA 4.0 | FrDr
+highlights/tallinn-11.jpg | https://commons.wikimedia.org/wiki/File:Buildings_in_the_Estonian_Open_Air_Museum,_2006_(06).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/tallinn-12.jpg | https://commons.wikimedia.org/wiki/File:Tallinn_TV_Tower_01.jpg | CC BY-SA 4.0 | Erko
+highlights/tallinn-13.jpg | https://www.flickr.com/photos/66926737@N08/16100932672 | BY 2.0 | Falling Outside The Normal Moral Constraints
+highlights/tartu-6.jpg | https://www.flickr.com/photos/37583176@N00/54183993155 | BY 2.0 | Ninara
+highlights/tartu-7.jpg | https://commons.wikimedia.org/wiki/File:Tartu_m%C3%A4nguasjamuuseumi_hoone_Lutsu_8,_20._september_2011.jpg | CC BY-SA 3.0 | Oop
+highlights/parnu-4.jpg | https://commons.wikimedia.org/wiki/File:P%C3%A4rnu._Tallinna_v%C3%A4rav.JPG | CC BY-SA 4.0 | A8Pin
+highlights/parnu-5.jpg | https://commons.wikimedia.org/wiki/File:P%C3%A4rnu_Eliisabeti_kirik_peale_restaureerimist.jpg | CC BY-SA 4.0 | SamuelMMäkimaa
+highlights/parnu-6.jpg | https://commons.wikimedia.org/wiki/File:Soomaa_viies_aastaaeg,_Soomaa_Rahvuspargis_Viljandimaal.JPG | CC BY-SA 3.0 | Aime Pae

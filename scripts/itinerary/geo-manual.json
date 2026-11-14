@@ -10732,5 +10732,75 @@
     65.09518,
     -14.88955,
     "OSM Nominatim: Hengifoss, Fljótsdalshreppur, Austurland, Ísland"
+  ],
+  "tallinn-h6": [
+    59.43735,
+    24.74521,
+    "OSM Nominatim: Raekoja plats, All-linn, Vanalinn, Kesklinna linnaosa, Talli"
+  ],
+  "tallinn-h7": [
+    59.44132,
+    24.7479,
+    "OSM Nominatim: Oleviste kirik, 50, Lai, All-linn, Vanalinn, Kesklinna linna (Wikipedia 12m)"
+  ],
+  "tallinn-h8": [
+    59.4347,
+    24.74127,
+    "OSM Nominatim: Kiek in de Kök, 2, Komandandi tee, Vanalinn, Kesklinna linna"
+  ],
+  "tallinn-h9": [
+    59.45451,
+    24.73885,
+    "OSM Nominatim: Lennusadam, Vesilennuki, Noblessner, Kalamaja, Põhja-Tallinn"
+  ],
+  "tallinn-h10": [
+    59.43634,
+    24.79583,
+    "OSM Nominatim: Kumu kunstimuuseum, 34, August Weizenbergi, Kadriorg, Keskli"
+  ],
+  "tallinn-h11": [
+    59.436,
+    24.63534,
+    "OSM Nominatim: Eesti Vabaõhumuuseum, 12, Vabaõhumuuseumi tee, Õismäe, Haabe"
+  ],
+  "tallinn-h12": [
+    59.47119,
+    24.88744,
+    "OSM Nominatim: Tallinna teletorn, 58a, Kloostrimetsa tee, Kloostrimetsa, Pi"
+  ],
+  "tallinn-h13": [
+    59.51238,
+    25.95479,
+    "OSM Nominatim: Palmse mõis, Viitna — Koljaku, Palmse, Palmse küla, Haljala "
+  ],
+  "tartu-h6": [
+    58.3789,
+    26.71906,
+    "OSM Nominatim: Toomemägi, Tartu linn, Tartu maakond, 50093, Eesti"
+  ],
+  "tartu-h7": [
+    58.38226,
+    26.71812,
+    "OSM Nominatim: Tartu Mänguasjamuuseum, Lutsu, Vanalinn, Kesklinn, Tartu lin"
+  ],
+  "parnu-h4": [
+    58.38361,
+    24.49483,
+    "OSM Nominatim: Tallinna väravad, 1, Vana-Tallinna, Kesklinn, Pärnu linn, Pä"
+  ],
+  "parnu-h6": [
+    58.44861,
+    25.11953,
+    "OSM Nominatim: Soomaa rahvuspark, Viljandi maakond, Eesti"
+  ],
+  "tartu-h4": [
+    58.3958,
+    26.74641,
+    "OSM Nominatim: Eesti Rahva Muuseum, 2, Muuseumi tee, Raadi-Kruusamäe, Raadi (Wikipedia 51m)"
+  ],
+  "parnu-h5": [
+    58.38371,
+    24.50002,
+    "OSM Nominatim: Elisabethi kirik, 22, Nikolai, Kesklinn, Pärnu linn, Pärnu m"
   ]
 }
