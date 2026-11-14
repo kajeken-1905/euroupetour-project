@@ -3868,3 +3868,11 @@ highlights/inari-2.jpg | https://www.flickr.com/photos/37583176@N00/50153841603 
 highlights/inari-3.jpg | https://www.flickr.com/photos/37583176@N00/50159304836 | BY 2.0 | Ninara
 highlights/inari-4.jpg | https://commons.wikimedia.org/wiki/File:Pielpaj%C3%A4rvi_Wilderness_Church_aerial_19990412_RHO124394_2.jpg | CC BY 4.0 | Lentokuva Vallas Oy
 highlights/savonlinna-1.jpg | https://www.flickr.com/photos/18005655@N00/3491289782 | BY-SA 2.0 | cloning girl
+gateways/gw-oul.jpg | https://commons.wikimedia.org/wiki/File:Oulun_lentoasema,C0020-3.jpg | CC BY-SA 4.0 | Arto häkkilä
+gateways/gw-kem.jpg | https://commons.wikimedia.org/wiki/File:Kemi-Tornio_Airport_Terminal_20130922.jpg | CC BY 2.0 | Jukka Palmu
+gateways/gw-ktt.jpg | https://commons.wikimedia.org/wiki/File:Finnair_Airbus_A321_OH-LZA_at_Kittil%C3%A4_airport_(Feb_2017)_1.jpg | CC BY-SA 4.0 | Markus Säynevirta
+gateways/gw-ivl.jpg | https://commons.wikimedia.org/wiki/File:Ivalon_lentoasema_kes%C3%A4ll%C3%A4.jpg | CC BY-SA 3.0 | J-P Kärnä
+gateways/gw-jyv.jpg | https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_Airport_1.jpg | CC BY-SA 4.0 | kallerna
+gateways/gw-kuo.jpg | https://commons.wikimedia.org/wiki/File:Kuopio_airport_from_air_cropped.jpg | CC BY-SA 2.0 | VirtuaaliAnu
+gateways/gw-svl.jpg | https://commons.wikimedia.org/wiki/File:Savonlinna_Airport_AB.JPG | CC BY-SA 3.0 | Antti Bilund
+gateways/gw-mhq.jpg | https://commons.wikimedia.org/wiki/File:Mariehamn_Airport.jpg | Public domain | Egon Eagle

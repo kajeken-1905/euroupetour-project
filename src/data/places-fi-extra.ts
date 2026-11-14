@@ -50,4 +50,105 @@ export const placesFIExtra: Place[] = [
   place('porvoo-cafe-2', 'porvoo', 'cafe', 'Café Fanny', 'Välikatu 13, 06100 Porvoo', '구시가 광장의 작은 카페. 루네베리 케이크를 1년 내내 팔고 시나몬롤도 있습니다.', 'Small café on the Old Town square selling Runeberg cake year-round, plus cinnamon buns.'),
   place('porvoo-korean-1', 'porvoo', 'korean', 'Kimchi Korean Kitchen', 'Pormestrinkatu 14, 06100 Porvoo', '포르보 중심가의 한식당. 점심 뷔페가 있습니다.', 'Korean restaurant in central Porvoo with a lunch buffet.'),
 
+  // —— naantali: restaurants, bakeries and cafés (2026-11-14) ——
+  place('naantali-fine_dining-1', 'naantali', 'fine_dining', 'Ravintola Metsätähti', 'Immasentie 1, Naantali', '난탈리의 점심 뷔페 식당. 구글 지도 평점 4.6.', 'Lunch restaurant in Naantali. Rated 4.6 on Google Maps.'),
+  place('naantali-fine_dining-2', 'naantali', 'fine_dining', 'Kultaranta Heineken House', 'Särkänsalmentie 178, Naantali', '난탈리의 피자 가게. 구글 지도 평점 4.3.', 'Pizzeria in Naantali. Rated 4.3 on Google Maps.'),
+  place('naantali-cafe-1', 'naantali', 'cafe', 'Cafe Akseli', 'Tullikatu 13, Naantali', '난탈리의 카페. 구글 지도 평점 4.4.', 'Café in Naantali. Rated 4.4 on Google Maps.'),
+
+  // —— rauma: restaurants, bakeries and cafés (2026-11-14) ——
+  place('rauma-fine_dining-1', 'rauma', 'fine_dining', 'Wanhan Rauman Kellari', 'Anundilankatu 8, Rauma', '라우마의 핀란드 요리 식당. 구글 지도 평점 4.4.', 'Finnish restaurant in Rauma. Rated 4.4 on Google Maps.'),
+  place('rauma-fine_dining-2', 'rauma', 'fine_dining', 'Ravintola Kalatori', 'Kalatori 4, Rauma', '라우마의 핀란드 요리 식당. 구글 지도 평점 4.7.', 'Finnish restaurant in Rauma. Rated 4.7 on Google Maps.'),
+  place('rauma-fine_dining-3', 'rauma', 'fine_dining', 'Marina Vista Rauma', 'Suvitie 14, Rauma', '라우마의 항구 레스토랑. 구글 지도 평점 4.4.', 'Harbourside restaurant in Rauma. Rated 4.4 on Google Maps.'),
+  place('rauma-fine_dining-4', 'rauma', 'fine_dining', 'Ravintola Sydvest', 'Kuninkaankatu 6, Rauma', '라우마의 모던 유러피언 식당. 구글 지도 평점 4.4.', 'Modern European restaurant in Rauma. Rated 4.4 on Google Maps.'),
+  place('rauma-fine_dining-5', 'rauma', 'fine_dining', 'Osteria da Filippo', 'Isokirkkokatu 9, Rauma', '라우마의 이탈리아 요리 식당. 구글 지도 평점 4.3.', 'Italian restaurant in Rauma. Rated 4.3 on Google Maps.'),
+  place('rauma-bakery-1', 'rauma', 'bakery', 'Kontio\'s Bakery', 'Karjalankatu 3, Rauma', '라우마의 빵집. 구글 지도 평점 4.5.', 'Bakery in Rauma. Rated 4.5 on Google Maps.'),
+  place('rauma-cafe-1', 'rauma', 'cafe', 'Café Kontion Kahvila', 'Kuninkaankatu 9, Rauma', '라우마의 카페. 구글 지도 평점 4.5.', 'Café in Rauma. Rated 4.5 on Google Maps.'),
+  place('rauma-cafe-2', 'rauma', 'cafe', 'Kahvila Prassen', 'Kuninkaankatu 16, Rauma', '라우마의 카페. 구글 지도 평점 4.5.', 'Café in Rauma. Rated 4.5 on Google Maps.'),
+  place('rauma-cafe-3', 'rauma', 'cafe', 'Wanhan Rauman KaffeBar', 'Kuninkaankatu 27, Rauma', '라우마의 커피숍. 구글 지도 평점 4.6.', 'Coffee shop in Rauma. Rated 4.6 on Google Maps.'),
+  place('rauma-cafe-4', 'rauma', 'cafe', 'Café Sali & Lounge', 'Kuninkaankatu 22, Rauma', '라우마의 카페. 구글 지도 평점 4.4.', 'Café in Rauma. Rated 4.4 on Google Maps.'),
+  place('rauma-cafe-5', 'rauma', 'cafe', 'Puistokahvila', 'Valtakatu 2 B, Rauma', '라우마의 공원 파빌리온 식당. 구글 지도 평점 4.4.', 'Park pavilion restaurant in Rauma. Rated 4.4 on Google Maps.'),
+
+  // —— mariehamn: restaurants, bakeries and cafés (2026-11-14) ——
+  place('mariehamn-fine_dining-1', 'mariehamn', 'fine_dining', 'Indigo Restaurant & Bar', 'Nygatan 1, Mariehamn', '마리에함의 레스토랑. 구글 지도 평점 4.4.', 'Restaurant in Mariehamn. Rated 4.4 on Google Maps.'),
+  place('mariehamn-fine_dining-2', 'mariehamn', 'fine_dining', 'Kallas Stadskrog', 'Norra Esplanadgatan 2, Mariehamn', '마리에함의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Mariehamn. Rated 4.5 on Google Maps.'),
+  place('mariehamn-fine_dining-3', 'mariehamn', 'fine_dining', 'Thai street food', 'Strandgatan 21, Mariehamn', '마리에함의 태국 요리 식당. 구글 지도 평점 4.4.', 'Thai restaurant in Mariehamn. Rated 4.4 on Google Maps.'),
+  place('mariehamn-fine_dining-4', 'mariehamn', 'fine_dining', 'Kvarter5', 'Norragatan 10, Mariehamn', '마리에함의 레스토랑. 구글 지도 평점 4.3.', 'Restaurant in Mariehamn. Rated 4.3 on Google Maps.'),
+  place('mariehamn-fine_dining-5', 'mariehamn', 'fine_dining', 'Restaurang Nautical', 'Hamngatan 2, Mariehamn', '마리에함의 항구 레스토랑. 구글 지도 평점 4.4.', 'Harbourside restaurant in Mariehamn. Rated 4.4 on Google Maps.'),
+  place('mariehamn-bakery-1', 'mariehamn', 'bakery', 'Johannas Hembakta', 'Stornäsvägen 40, Mariehamn', '마리에함의 빵집. 구글 지도 평점 4.6.', 'Bakery in Mariehamn. Rated 4.6 on Google Maps.'),
+  place('mariehamn-bakery-2', 'mariehamn', 'bakery', 'Julius Café & Konditori', 'Torggatan 10, Mariehamn', '마리에함의 카페 겸 제과점. 구글 지도 평점 4.3.', 'Café and pâtisserie in Mariehamn. Rated 4.3 on Google Maps.'),
+  place('mariehamn-cafe-1', 'mariehamn', 'cafe', 'Bagarstugan Cafe & Vin', 'Ekonomiegatan 2, Mariehamn', '마리에함의 카페 겸 와인 바. 구글 지도 평점 4.5.', 'Café and wine bar in Mariehamn. Rated 4.5 on Google Maps.'),
+  place('mariehamn-cafe-2', 'mariehamn', 'cafe', 'Café Viktor', 'Torggatan 15, Mariehamn', '마리에함의 카페. 구글 지도 평점 4.6.', 'Café in Mariehamn. Rated 4.6 on Google Maps.'),
+  place('mariehamn-cafe-3', 'mariehamn', 'cafe', 'Black Cat cafe', 'Norragatan 15, Mariehamn', '마리에함의 카페. 구글 지도 평점 4.4.', 'Café in Mariehamn. Rated 4.4 on Google Maps.'),
+  place('mariehamn-cafe-4', 'mariehamn', 'cafe', 'Bagel Bee Coffee Bar', 'Torggatan 6, Mariehamn', '마리에함의 커피숍. 구글 지도 평점 4.3.', 'Coffee shop in Mariehamn. Rated 4.3 on Google Maps.'),
+
+  // —— jyvaskyla: restaurants, bakeries and cafés (2026-11-14) ——
+  place('jyvaskyla-fine_dining-1', 'jyvaskyla', 'fine_dining', 'Ravintola Marani Jyväskylä', 'Kauppalaispiha 1, Jyväskylä', '위배스퀼래의 조지아 요리 식당. 구글 지도 평점 4.8.', 'Georgian restaurant in Jyväskylä. Rated 4.8 on Google Maps.'),
+  place('jyvaskyla-fine_dining-2', 'jyvaskyla', 'fine_dining', 'Amano Restaurant', 'Asemakatu 7, Jyväskylä', '위배스퀼래의 일식당. 구글 지도 평점 4.6.', 'Japanese restaurant in Jyväskylä. Rated 4.6 on Google Maps.'),
+  place('jyvaskyla-fine_dining-3', 'jyvaskyla', 'fine_dining', 'Pasargad Indian Cuisine', 'Ahjokatu 12, Jyväskylä', '위배스퀼래의 인도 요리 식당. 구글 지도 평점 4.9.', 'Indian restaurant in Jyväskylä. Rated 4.9 on Google Maps.'),
+  place('jyvaskyla-fine_dining-4', 'jyvaskyla', 'fine_dining', 'Ravintola Kissanviikset', 'Puistokatu 3, Jyväskylä', '위배스퀼래의 핀란드 요리 식당. 구글 지도 평점 4.6.', 'Finnish restaurant in Jyväskylä. Rated 4.6 on Google Maps.'),
+  place('jyvaskyla-fine_dining-5', 'jyvaskyla', 'fine_dining', 'Restaurant Pöllöwaari', 'Yliopistonkatu 23, Jyväskylä', '위배스퀼래의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Jyväskylä. Rated 4.7 on Google Maps.'),
+  place('jyvaskyla-bakery-1', 'jyvaskyla', 'bakery', 'Caffitella leipomomyymälä', 'Härkökuja 4, Jyväskylä', '위배스퀼래의 빵집. 구글 지도 평점 4.5.', 'Bakery in Jyväskylä. Rated 4.5 on Google Maps.'),
+  place('jyvaskyla-bakery-2', 'jyvaskyla', 'bakery', 'Ruthin Leipomo', 'Metsäraivio 1, Jyväskylä', '위배스퀼래의 빵집. 구글 지도 평점 4.5.', 'Bakery in Jyväskylä. Rated 4.5 on Google Maps.'),
+  place('jyvaskyla-cafe-1', 'jyvaskyla', 'cafe', 'Kahvila Miriam\'s', 'Asemakatu 12, Jyväskylä', '위배스퀼래의 커피숍. 구글 지도 평점 4.5.', 'Coffee shop in Jyväskylä. Rated 4.5 on Google Maps.'),
+  place('jyvaskyla-cafe-2', 'jyvaskyla', 'cafe', 'Valkoinen Puu Jyväskylä', 'Cygnaeuksenkatu 2, Jyväskylä', '위배스퀼래의 카페. 구글 지도 평점 4.4.', 'Café in Jyväskylä. Rated 4.4 on Google Maps.'),
+  place('jyvaskyla-cafe-3', 'jyvaskyla', 'cafe', 'Lutakon Teeleidi', 'Schaumanin puistotie 2, Jyväskylä', '위배스퀼래의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Jyväskylä. Rated 4.7 on Google Maps.'),
+
+  // —— kuopio: restaurants, bakeries and cafés (2026-11-14) ——
+  place('kuopio-fine_dining-1', 'kuopio', 'fine_dining', 'Ravintola Boka', 'Koljonniemenkatu 2, Kuopio', '쿠오피오의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Kuopio. Rated 4.6 on Google Maps.'),
+  place('kuopio-fine_dining-2', 'kuopio', 'fine_dining', 'Gallá Kitchen & Bar', 'Puijonkatu 32, Kuopio', '쿠오피오의 핀란드 요리 식당. 구글 지도 평점 4.6.', 'Finnish restaurant in Kuopio. Rated 4.6 on Google Maps.'),
+  place('kuopio-fine_dining-3', 'kuopio', 'fine_dining', 'Cai Ji Noodle House', 'Ajurinkatu 16, Kuopio', '쿠오피오의 국수 가게. 구글 지도 평점 4.8.', 'Noodle shop in Kuopio. Rated 4.8 on Google Maps.'),
+  place('kuopio-fine_dining-4', 'kuopio', 'fine_dining', 'Ravintola Musta Lammas', 'Satamakatu 4, Kuopio', '쿠오피오의 파인 다이닝. 구글 지도 평점 4.6.', 'Fine-dining restaurant in Kuopio. Rated 4.6 on Google Maps.'),
+  place('kuopio-fine_dining-5', 'kuopio', 'fine_dining', 'Muikkuravintola Sampo', 'Kauppakatu 13, Kuopio', '쿠오피오의 호수 생선 무이쿠 전문 식당. 구글 지도 평점 4.5.', 'Restaurant specialising in vendace (muikku) in Kuopio. Rated 4.5 on Google Maps.'),
+  place('kuopio-bakery-1', 'kuopio', 'bakery', 'Kalakukkoleipomo Hanna Partanen', 'Kasarmikatu 15, Kuopio', '쿠오피오의 칼라쿠코 빵집. 구글 지도 평점 4.7.', 'Kalakukko bakery in Kuopio. Rated 4.7 on Google Maps.'),
+  place('kuopio-bakery-2', 'kuopio', 'bakery', 'Kahvila-konditoria Houkutus', 'Kauppakatu 49, Kuopio', '쿠오피오의 카페 겸 제과점. 구글 지도 평점 4.4.', 'Café and pâtisserie in Kuopio. Rated 4.4 on Google Maps.'),
+  place('kuopio-bakery-3', 'kuopio', 'bakery', 'Rami Kuopio', 'Puijonkatu 23, Kuopio', '쿠오피오의 제과점. 구글 지도 평점 4.3.', 'Pâtisserie in Kuopio. Rated 4.3 on Google Maps.'),
+  place('kuopio-cafe-1', 'kuopio', 'cafe', 'Kahvila Kaneli', 'Kauppakatu 22, Kuopio', '쿠오피오의 카페. 구글 지도 평점 4.6.', 'Café in Kuopio. Rated 4.6 on Google Maps.'),
+  place('kuopio-cafe-2', 'kuopio', 'cafe', 'Kaffeteria mummola', 'Puijonkatu 27, Kuopio', '쿠오피오의 카페. 구글 지도 평점 4.7.', 'Café in Kuopio. Rated 4.7 on Google Maps.'),
+  place('kuopio-cafe-3', 'kuopio', 'cafe', 'Kahvila Kantti', 'Museokatu 1, Kuopio', '쿠오피오의 카페. 구글 지도 평점 4.4.', 'Café in Kuopio. Rated 4.4 on Google Maps.'),
+
+  // —— savonlinna: restaurants, bakeries and cafés (2026-11-14) ——
+  place('savonlinna-fine_dining-1', 'savonlinna', 'fine_dining', 'Ravintola Himalayan Bite', 'Karjalantie 11, Savonlinna', '사본린나의 네팔 요리 식당. 구글 지도 평점 4.9.', 'Nepalese restaurant in Savonlinna. Rated 4.9 on Google Maps.'),
+  place('savonlinna-fine_dining-2', 'savonlinna', 'fine_dining', 'Ravintola Majakka', 'Satamakatu 11, Savonlinna', '사본린나의 핀란드 요리 식당. 구글 지도 평점 4.3.', 'Finnish restaurant in Savonlinna. Rated 4.3 on Google Maps.'),
+  place('savonlinna-fine_dining-3', 'savonlinna', 'fine_dining', 'Waahto Brewhouse', 'Satamapuistonkatu 5, Savonlinna', '사본린나의 브루펍. 구글 지도 평점 4.3.', 'Brewpub in Savonlinna. Rated 4.3 on Google Maps.'),
+  place('savonlinna-bakery-1', 'savonlinna', 'bakery', 'Kakkukaaos', 'Olavinkatu 35, Savonlinna', '사본린나의 제과점. 구글 지도 평점 4.8.', 'Pâtisserie in Savonlinna. Rated 4.8 on Google Maps.'),
+  place('savonlinna-bakery-2', 'savonlinna', 'bakery', 'Kotileipomo Kupsakka', 'Heikinpohjantie 59, Savonlinna', '사본린나의 빵집. 구글 지도 평점 4.4.', 'Bakery in Savonlinna. Rated 4.4 on Google Maps.'),
+  place('savonlinna-cafe-1', 'savonlinna', 'cafe', 'Phin Cafe Station', 'Olavinkatu 35, Savonlinna', '사본린나의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Savonlinna. Rated 4.9 on Google Maps.'),
+  place('savonlinna-cafe-2', 'savonlinna', 'cafe', 'Kahvila Leivintupa', 'Kirkkokatu 8, Savonlinna', '사본린나의 카페. 구글 지도 평점 4.4.', 'Café in Savonlinna. Rated 4.4 on Google Maps.'),
+
+  // —— oulu: restaurants, bakeries and cafés (2026-11-14) ——
+  place('oulu-fine_dining-1', 'oulu', 'fine_dining', 'Tamada', 'Pakkahuoneenkatu 8, Oulu', '오울루의 조지아 요리 식당. 구글 지도 평점 4.9.', 'Georgian restaurant in Oulu. Rated 4.9 on Google Maps.'),
+  place('oulu-fine_dining-2', 'oulu', 'fine_dining', 'Pho Dat Viet Ravintola', 'Pakkahuoneenkatu 9, Oulu', '오울루의 베트남 요리 식당. 구글 지도 평점 4.9.', 'Vietnamese restaurant in Oulu. Rated 4.9 on Google Maps.'),
+  place('oulu-fine_dining-3', 'oulu', 'fine_dining', 'Alfred Kitchen & Bar', 'Pakkahuoneenkatu 24, Oulu', '오울루의 레스토랑. 구글 지도 평점 4.6.', 'Restaurant in Oulu. Rated 4.6 on Google Maps.'),
+  place('oulu-fine_dining-4', 'oulu', 'fine_dining', 'Ravintola Hugo', 'Rantakatu 4, Oulu', '오울루의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Oulu. Rated 4.7 on Google Maps.'),
+  place('oulu-fine_dining-5', 'oulu', 'fine_dining', 'Uleåborg 1881', 'Aittatori 4-5, Oulu', '오울루의 핀란드 요리 식당. 구글 지도 평점 4.7.', 'Finnish restaurant in Oulu. Rated 4.7 on Google Maps.'),
+  place('oulu-bakery-1', 'oulu', 'bakery', 'Mon Chou Pâtisserie', 'Pakkahuoneenkatu 5 B 20, Oulu', '오울루의 제과점. 구글 지도 평점 4.8.', 'Pâtisserie in Oulu. Rated 4.8 on Google Maps.'),
+  place('oulu-bakery-2', 'oulu', 'bakery', 'Kreema', 'Kainuuntie 1, Oulu', '오울루의 빵집. 구글 지도 평점 4.5.', 'Bakery in Oulu. Rated 4.5 on Google Maps.'),
+  place('oulu-bakery-3', 'oulu', 'bakery', 'Huovisen Bakery', 'Ilmarinkatu 16, Oulu', '오울루의 빵집. 구글 지도 평점 4.5.', 'Bakery in Oulu. Rated 4.5 on Google Maps.'),
+  place('oulu-cafe-1', 'oulu', 'cafe', 'Cafe Konstantiina', 'Torikatu 12, Oulu', '오울루의 카페. 구글 지도 평점 4.9.', 'Café in Oulu. Rated 4.9 on Google Maps.'),
+  place('oulu-cafe-2', 'oulu', 'cafe', 'Kauppahallin Kahvila', 'Kauppatori, Oulu', '오울루의 시장 홀 카페. 구글 지도 평점 4.7.', 'Market-hall café in Oulu. Rated 4.7 on Google Maps.'),
+  place('oulu-cafe-3', 'oulu', 'cafe', 'Magnolia Coffee & Bakery', 'Torikatu 15-17, Oulu', '오울루의 커피숍. 구글 지도 평점 4.3.', 'Coffee shop in Oulu. Rated 4.3 on Google Maps.'),
+  place('oulu-cafe-4', 'oulu', 'cafe', 'Samba Café - Brazilian Coffee', 'Hallituskatu 30, Oulu', '오울루의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Oulu. Rated 4.9 on Google Maps.'),
+
+  // —— kemi: restaurants, bakeries and cafés (2026-11-14) ——
+  place('kemi-fine_dining-1', 'kemi', 'fine_dining', 'Thai Onzon', 'Valtakatu 5, Kemi', '케미의 태국 요리 식당. 구글 지도 평점 4.6.', 'Thai restaurant in Kemi. Rated 4.6 on Google Maps.'),
+  place('kemi-fine_dining-2', 'kemi', 'fine_dining', 'Pizzeria San Milano', 'Meripuistonpolku 11, Kemi', '케미의 피자 가게. 구글 지도 평점 4.6.', 'Pizzeria in Kemi. Rated 4.6 on Google Maps.'),
+  place('kemi-fine_dining-3', 'kemi', 'fine_dining', 'Kemin Puistopaviljonki', 'Meripuistonpolku 11, Kemi', '케미의 공원 파빌리온 식당. 구글 지도 평점 4.3.', 'Park pavilion restaurant in Kemi. Rated 4.3 on Google Maps.'),
+  place('kemi-bakery-1', 'kemi', 'bakery', 'Confectionery Miorita', 'Valtakatu 5, Kemi', '케미의 제과점. 구글 지도 평점 4.3.', 'Pâtisserie in Kemi. Rated 4.3 on Google Maps.'),
+  place('kemi-cafe-1', 'kemi', 'cafe', 'Cafe Hertta Kemi', 'Rautatiekatu 1, Kemi', '케미의 카페. 구글 지도 평점 4.7.', 'Café in Kemi. Rated 4.7 on Google Maps.'),
+  place('kemi-cafe-2', 'kemi', 'cafe', 'Satamakaffila Nuotta', 'Rantabulevardi 7, Kemi', '케미의 항구 카페. 구글 지도 평점 4.4.', 'Harbourside café in Kemi. Rated 4.4 on Google Maps.'),
+
+  // —— levi: restaurants, bakeries and cafés (2026-11-14) ——
+  place('levi-fine_dining-1', 'levi', 'fine_dining', 'Ravintola NiliPoro', 'Torikuja 4, Levi', '레비의 순록 요리 레스토랑. 구글 지도 평점 4.5.', 'Reindeer-meat restaurant in Levi. Rated 4.5 on Google Maps.'),
+  place('levi-fine_dining-2', 'levi', 'fine_dining', 'Salteriet Levi', 'Torikuja 5, Levi', '레비의 핀란드 요리 식당. 구글 지도 평점 4.8.', 'Finnish restaurant in Levi. Rated 4.8 on Google Maps.'),
+  place('levi-fine_dining-3', 'levi', 'fine_dining', 'Ravintola Pihvipirtti', 'Hissitie 14, Levi', '레비의 스테이크 식당. 구글 지도 평점 4.5.', 'Steak restaurant in Levi. Rated 4.5 on Google Maps.'),
+  place('levi-fine_dining-4', 'levi', 'fine_dining', 'Restaurant Ämmilä', 'Rakkavaarantie 3, Levi', '레비의 라플란드 요리 식당. 구글 지도 평점 4.4.', 'Lappish restaurant in Levi. Rated 4.4 on Google Maps.'),
+  place('levi-fine_dining-5', 'levi', 'fine_dining', 'Myllyn Äijä', 'Myllyjoentie 2, Levi', '레비의 핀란드 요리 식당. 구글 지도 평점 4.4.', 'Finnish restaurant in Levi. Rated 4.4 on Google Maps.'),
+  place('levi-bakery-1', 'levi', 'bakery', 'Pannukakkutalo Levi', 'Torikuja 10, Levi', '레비의 팬케이크 가게. 구글 지도 평점 4.3.', 'Pancake house in Levi. Rated 4.3 on Google Maps.'),
+  place('levi-cafe-1', 'levi', 'cafe', 'Coffee House Levi', 'Tähtitie 5, Levi', '레비의 카페. 구글 지도 평점 4.3.', 'Café in Levi. Rated 4.3 on Google Maps.'),
+  place('levi-cafe-2', 'levi', 'cafe', 'Campfire Barista', 'Hissitie 8, Levi', '레비의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Levi. Rated 4.9 on Google Maps.'),
+  place('levi-cafe-3', 'levi', 'cafe', 'Kota Cafe & Bar', 'Torikuja 3, Levi', '레비의 카페 겸 바. 구글 지도 평점 4.4.', 'Café and bar in Levi. Rated 4.4 on Google Maps.'),
+
+  // —— inari: restaurants, bakeries and cafés (2026-11-14) ——
+  place('inari-fine_dining-1', 'inari', 'fine_dining', 'PaPaNa', 'Inarintie 49, Inari', '이나리의 펍 겸 식당. 구글 지도 평점 4.3.', 'Pub restaurant in Inari. Rated 4.3 on Google Maps.'),
+  place('inari-fine_dining-2', 'inari', 'fine_dining', 'ScanBurger Inari', 'Menesjärventie 1, Inari', '이나리의 버거 가게. 구글 지도 평점 4.4.', 'Burger restaurant in Inari. Rated 4.4 on Google Maps.'),
 ]
