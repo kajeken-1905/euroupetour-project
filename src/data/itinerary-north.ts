@@ -47,16 +47,31 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   bodo: { days: [['', 3, 4, 2, 5]], trips: [['살트스트라우멘|Saltstraumen', 1]] },
   lofoten: { days: [['스볼베르와 동쪽|Svolvær & the east', 2, 3], ['서쪽 마을|The western villages', 4, 1, 5, 6]] },
   honningsvag: { days: [['', 4]], trips: [['노르카프|North Cape', 1], ['바닷새 투어|Bird safari', 3], ['크니브셸로데|Knivskjellodden', 2]] },
-  helsinki: { days: [['', 4, 7, 1, 3, 5]], trips: [['수오멘린나|Suomenlinna', 2]] },
-  turku: [2, 4, 3, 5, 1],
+  helsinki: {
+    days: [
+      ['원로원 광장과 항구|Senate Square & harbour', 4, 1, 8, 7, 3],
+      ['중앙역과 퇴욀뢰|Central Station & Töölö', 10, 9, 11, 12, 5, 14, 6],
+      ['수오멘린나와 바닷가|Suomenlinna & seafront', 2, 13],
+    ],
+    trips: [['누크시오 국립공원|Nuuksio National Park', 15]],
+  },
+  turku: { days: [['', 2, 7, 6, 4, 3], ['', 5, 1]], trips: [['투르쿠 군도|Turku archipelago', 8]] },
   tampere: {
     days: [
-      ['시내|City centre', 4, 3, 2, 1],
+      ['시내|City centre', 3, 7, 6, 4, 2],
+      ['피니키와 피스팔라|Pyynikki & Pispala', 1, 8, 9],
       ['새르캔니에미|Särkänniemi', 5],
     ],
   },
-  rovaniemi: { days: [['', 3, 4]], trips: [['산타클로스 마을|Santa Claus Village', 1, 2]] },
-  porvoo: [3, 1, 4, 2],
+  rovaniemi: {
+    days: [['', 3, 5, 4]],
+    trips: [
+      ['산타클로스 마을|Santa Claus Village', 1, 2],
+      ['라누아 야생동물원|Ranua Wildlife Park', 6],
+      ['오로라 투어|Northern lights tour', 7],
+    ],
+  },
+  porvoo: { days: [['', 3, 1, 2, 4, 5]], trips: [['알베르트 에델펠트 화실|Albert Edelfelt’s Studio', 6]] },
   stockholm: {
     days: [
       ['감라스탄과 노르말름|Gamla Stan & Norrmalm', 2, 1, 5, 13, 10, 11],

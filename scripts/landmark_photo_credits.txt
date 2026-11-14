@@ -3798,3 +3798,24 @@ gateways/gw-osd.jpg | https://commons.wikimedia.org/wiki/File:%C3%85re_%C3%B6ste
 gateways/gw-rnb.jpg | https://commons.wikimedia.org/wiki/File:Arriving_at_Ronneby_Airport_-_Timr%C3%A5_Municipality,_Sweden_-_DSC08287.JPG | CC0 | Daderot
 gateways/gw-klr.jpg | https://www.flickr.com/photos/84159903@N00/14970126897 | BY-SA 2.0 | Eldkvast
 gateways/gw-krf.jpg | https://commons.wikimedia.org/wiki/File:Kramfors-Sollefte%C3%A5_flygplats.JPG | Public domain | Own work
+highlights/helsinki-8.jpg | https://commons.wikimedia.org/wiki/File:Uspenskin_katedraali_kes%C3%A4iltana.jpg | CC BY-SA 4.0 | Jari Kolehmainen
+highlights/helsinki-9.jpg | https://commons.wikimedia.org/wiki/File:Helsinki_Central_Library_Oodi_20190602_203034.jpg | CC0 | Sino Yu
+highlights/helsinki-10.jpg | https://commons.wikimedia.org/wiki/File:Art_museum_Ateneum_in_Kluuvi,_Helsinki,_Finland,_2014.jpg | CC BY-SA 4.0 | Finnish National Gallery
+highlights/helsinki-11.jpg | https://www.flickr.com/photos/123734360@N08/14300456481 | BY 2.0 | Museum of Contemporary Art Kiasma
+highlights/helsinki-12.jpg | https://commons.wikimedia.org/wiki/File:Kamppi_Chapel_2020.jpg | CC BY-SA 4.0 | Vadelmavene
+highlights/helsinki-13.jpg | https://commons.wikimedia.org/wiki/File:L%C3%B6yly_in_Hernesaari,_Helsinki,_Finland,_2022_May.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/helsinki-14.jpg | https://www.flickr.com/photos/22490717@N02/4040528698 | BY-SA 2.0 | archer10 (Dennis)
+highlights/helsinki-15.jpg | https://www.flickr.com/photos/143070752@N05/45641643414 | BY 2.0 | OutdoorsFi
+highlights/turku-6.jpg | https://commons.wikimedia.org/wiki/File:Aboa_Vetus_%26_Ars_Nova_ulkokuva_2016.jpg | CC BY-SA 4.0 | Aboa Vetus &amp; Ars Nova
+highlights/turku-7.jpg | https://commons.wikimedia.org/wiki/File:Sibelius-museo_Turku.jpg | Public domain | Alinja
+highlights/turku-8.jpg | https://www.flickr.com/photos/68716054@N00/13186060865 | BY 2.0 | Rosa Menkman
+highlights/tampere-6.jpg | https://commons.wikimedia.org/wiki/File:Museokeskus_Vapriikki_(29769680481).jpg | CC BY 2.0 | Photo: Saana Säilynoja/Vapriikki Photo Archives
+highlights/tampere-7.jpg | https://commons.wikimedia.org/wiki/File:Finlayson_gate1.jpg | CC BY 2.5 | Visa580
+highlights/tampere-8.jpg | https://commons.wikimedia.org/wiki/File:Pispala_hillside_29th_March_2018.jpg | CC BY-SA 4.0 | Lauren Stevens
+highlights/tampere-9.jpg | https://commons.wikimedia.org/wiki/File:Rauhanniemen_kansankylpyl%C3%A4.jpg | CC BY-SA 4.0 | kallerna
+highlights/rovaniemi-5.jpg | https://commons.wikimedia.org/wiki/File:2011_0406_Korundi_aula_02.jpg | CC BY-SA 3.0 | Rovaniemen taidemuseo / Arto Liiti
+highlights/rovaniemi-6.jpg | https://commons.wikimedia.org/wiki/File:Eisb%C3%A4ren_Ranua_Zoo.jpg | CC BY-SA 4.0 | Matzedeluxe77
+highlights/rovaniemi-7.jpg | https://commons.wikimedia.org/wiki/File:Gentle_but_wide_green_aurora_display_over_Tuikku,_Kittil%C3%A4,_Lapland,_Finland,_2023_September.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/porvoo-4.jpg | https://commons.wikimedia.org/wiki/File:Porvoo_Old_Town_Hall_in_September_2024.jpg | CC BY-SA 4.0 | Christian David
+highlights/porvoo-5.jpg | https://commons.wikimedia.org/wiki/File:The_Johan_Ludvig_Runeberg_home_museum_in_Porvoo.jpg | CC BY-SA 3.0 | kallerna
+highlights/porvoo-6.jpg | https://commons.wikimedia.org/wiki/File:Edelfelt%27s_studio_in_Haikko_1973_(JOKABBL3B_D10-3).tif | CC BY 4.0 | 

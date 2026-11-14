@@ -10297,5 +10297,95 @@
     65.6449,
     22.02828,
     "OSM Nominatim: Gammelstads kyrkstad, Gammelstad, Luleå, Luleå kommun, Norrb (Wikipedia 135m)"
+  ],
+  "helsinki-h8": [
+    60.16846,
+    24.95993,
+    "OSM Nominatim: Uspenskin katedraali, 1, Kanavakatu, Katajanokka, Eteläinen  (Wikipedia 15m)"
+  ],
+  "helsinki-h9": [
+    60.17394,
+    24.93798,
+    "OSM Nominatim: Helsingin keskustakirjasto Oodi, 4, Töölönlahdenkatu, Keskus"
+  ],
+  "helsinki-h10": [
+    60.17002,
+    24.94407,
+    "OSM Nominatim: Ateneum, 2, Kaivokatu, Keskusta, Kluuvi, Eteläinen suurpiiri"
+  ],
+  "helsinki-h11": [
+    60.17204,
+    24.93674,
+    "OSM Nominatim: Kiasma, 2, Mannerheiminaukio, Keskusta, Kluuvi, Eteläinen su"
+  ],
+  "helsinki-h12": [
+    60.16944,
+    24.93592,
+    "OSM Nominatim: Kampin kappeli, 7, Simonkatu, Kamppi, Eteläinen suurpiiri, H (Wikipedia 13m)"
+  ],
+  "helsinki-h13": [
+    60.15218,
+    24.93044,
+    "OSM Nominatim: Löyly, 4, Hernesaarenranta, Munkkisaari, Hernesaari, Länsisa"
+  ],
+  "helsinki-h14": [
+    60.18203,
+    24.91342,
+    "OSM Nominatim: Sibelius-monumentti, Merikannontie, Töölö, Taka-Töölö, Etelä (Wikipedia 3m)"
+  ],
+  "helsinki-h15": [
+    60.3122,
+    24.47448,
+    "OSM Nominatim: Nuuksion kansallispuisto, Vihti, Helsingin seutukunta, Uusim"
+  ],
+  "turku-h6": [
+    60.44961,
+    22.27367,
+    "OSM Nominatim: Aboa Vetus Ars Nova, 4-6, Itäinen Rantakatu, II, Keskusta, T (Wikipedia 13m)"
+  ],
+  "tampere-h6": [
+    61.50298,
+    23.76015,
+    "OSM Nominatim: Museokeskus Vapriikki, 5, Alaverstaanraitti, Ranta-Tampella, (Wikipedia 19m)"
+  ],
+  "tampere-h7": [
+    61.50193,
+    23.75545,
+    "OSM Nominatim: Finlayson, Keskustan suuralue, Tampere, Tampereen seutukunta"
+  ],
+  "tampere-h8": [
+    61.50343,
+    23.71038,
+    "OSM Nominatim: Pispala, Läntinen suuralue, Tampere, Tampereen seutukunta, P"
+  ],
+  "rovaniemi-h5": [
+    66.50078,
+    25.71802,
+    "OSM Nominatim: Korundi Shop, Lapinkävijäntie, Ratantaus, Rovaniemi, Rovanie"
+  ],
+  "rovaniemi-h6": [
+    65.94086,
+    26.46341,
+    "OSM Nominatim: Ranuan Eläinpuisto, 29, Rovaniementie, Ranua, Rovaniemen seu"
+  ],
+  "porvoo-h5": [
+    60.39032,
+    25.66354,
+    "OSM Nominatim: J. L. Runebergin koti, 3, Aleksanterinkatu, Keskusta, Porvoo"
+  ],
+  "turku-h8": [
+    60.30091,
+    22.30208,
+    "OSM Nominatim: Pargas, Åboland, Varsinais-Suomi, Manner-Suomi, Suomi / Finl (Wikipedia 153m)"
+  ],
+  "tampere-h9": [
+    61.51536,
+    23.78669,
+    "OSM Nominatim: Rauhaniemen kansankylpylä, 23, Rauhaniementie, Käpylä, Lappi"
+  ],
+  "porvoo-h4": [
+    60.3952,
+    25.65809,
+    "OSM Nominatim: Porvoon museo, 45, Jokikatu, Vanha Porvoo, Porvoo, Porvoon s"
   ]
 }
