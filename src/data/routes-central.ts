@@ -532,6 +532,14 @@ export const routesCentral: RawRoute[] = [
   r('reykjavik', 'akureyri', 'bus', 390),
   r('selfoss', 'vik', 'bus', 120),
   r('akureyri', 'husavik', 'bus', 75),
+  r('akureyri', 'seydisfjordur', 'mixed', 270, { n: '에길스타디르에서 버스 환승|change buses at Egilsstaðir' }),
+  r('reykjavik', 'seydisfjordur', 'flight', 60, { fa: '에길스타디르 공항|Egilsstaðir Airport' }),
+  r('akureyri', 'myvatn', 'bus', 90),
+  r('reykjavik', 'isafjordur', 'flight', 40),
+  r('reykjavik', 'stykkisholmur', 'bus', 150),
+  r('vik', 'hofn', 'bus', 270),
+  r('reykjavik', 'hofn', 'flight', 60),
+  r('reykjavik', 'vestmannaeyjar', 'mixed', 180, { n: '버스로 란데이야회픈, 페리 약 35분|bus to Landeyjahöfn, then a ~35 min ferry' }),
 
   // —— at / cz / sk / hu / pl ——
   r('vienna', 'salzburg', 'train', 145),

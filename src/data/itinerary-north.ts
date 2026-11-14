@@ -254,6 +254,12 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   },
   husavik: { days: [['', 2, 3, 1, 4]], trips: [['아우스비르기와 데티포스|Ásbyrgi & Dettifoss', 5, 6]] },
   selfoss: { days: [['골든 서클|Golden Circle', 3, 1, 2, 5, 6], ['분화구와 온천 강|Crater & hot river', 4, 7]] },
+  vestmannaeyjar: { days: [['', 1, 2, 4, 3]] },
+  hofn: { days: [['', 4]], trips: [['요퀼사우를론과 다이아몬드 해변|Jökulsárlón & Diamond Beach', 1, 2], ['스카프타펠|Skaftafell', 3], ['얼음 동굴 투어|Ice cave tour', 5]] },
+  stykkisholmur: { days: [['', 1, 2]], trips: [['키르큐펠과 스나이펠스네스|Kirkjufell & Snæfellsnes', 3, 4], ['플라테이섬|Flatey', 5]] },
+  isafjordur: { days: [['', 1]], trips: [['딘얀디 폭포|Dynjandi', 2], ['비구르섬|Vigur', 3], ['혼스트란디르|Hornstrandir', 4]] },
+  myvatn: { days: [['', 4, 2, 3, 1]], trips: [['크라플라|Krafla', 5]] },
+  seydisfjordur: { days: [['', 1, 2, 3]], trips: [['헹이포스 폭포|Hengifoss', 4]] },
   bratislava: { days: [['', 2, 9, 7, 4, 6, 3, 1, 8, 10]], trips: [['데빈 성|Devín Castle', 5]] },
   kosice: [5, 9, 1, 8, 4, 6, 7, 2, 3],
   bardejov: {

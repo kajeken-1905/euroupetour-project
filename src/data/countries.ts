@@ -794,11 +794,13 @@ export const countries: Country[] = [
       background: '#E6EEF7',
       text: '#0A1A30',
     },
-    cityIds: ['reykjavik', 'selfoss', 'vik', 'akureyri', 'husavik'],
+    cityIds: ['reykjavik', 'selfoss', 'vestmannaeyjar', 'vik', 'hofn', 'stykkisholmur', 'isafjordur', 'akureyri', 'myvatn', 'husavik', 'seydisfjordur'],
     cityGroups: [
-      { title: { ko: '레이캬비크·남서부', en: 'Reykjavík & southwest' }, cityIds: ['reykjavik', 'selfoss'] },
-      { title: { ko: '남부 해안', en: 'South coast' }, cityIds: ['vik'] },
-      { title: { ko: '북부', en: 'North Iceland' }, cityIds: ['akureyri', 'husavik'] },
+      { title: { ko: '레이캬비크·남서부', en: 'Reykjavík & southwest' }, cityIds: ['reykjavik', 'selfoss', 'vestmannaeyjar'] },
+      { title: { ko: '남부 해안', en: 'South coast' }, cityIds: ['vik', 'hofn'] },
+      { title: { ko: '서부·웨스트피오르', en: 'West & Westfjords' }, cityIds: ['stykkisholmur', 'isafjordur'] },
+      { title: { ko: '북부', en: 'North Iceland' }, cityIds: ['akureyri', 'myvatn', 'husavik'] },
+      { title: { ko: '동부', en: 'East Iceland' }, cityIds: ['seydisfjordur'] },
     ],
   },
   {

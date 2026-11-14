@@ -1254,6 +1254,26 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   selfoss: {
     air: [KEF()],
   },
+  vestmannaeyjar: {
+    air: [['Vestmannaeyjar (VEY)', '베스트만나에이야르 공항 (VEY)']],
+    port: [['Vestmannaeyjahöfn', '베스트만나에이야르 항구', '란데이야회픈행 헤르욜퓌르 페리|Herjólfur ferry to Landeyjahöfn']],
+  },
+  hofn: {
+    air: [['Hornafjörður (HFN)', '호르나피외르뒤르 공항 (HFN)']],
+  },
+  stykkisholmur: {
+    port: [['Stykkishólmur', '스티키스홀뮈르 항구', '플라테이·브랸슬래퀴르행 발뒤르 페리|Baldur ferry to Flatey and Brjánslækur']],
+  },
+  isafjordur: {
+    air: [['Ísafjörður (IFJ)', '이사피외르뒤르 공항 (IFJ)']],
+  },
+  myvatn: {
+    air: [['Akureyri (AEY)', '아쿠레이리 공항 (AEY)', '아쿠레이리|Akureyri']],
+  },
+  seydisfjordur: {
+    air: [['Egilsstaðir (EGS)', '에길스타디르 공항 (EGS)']],
+    port: [['Seyðisfjörður', '세이디스피외르뒤르 항구', '페로 제도·덴마크행 노뢰나 페리|Norröna ferry to the Faroe Islands and Denmark']],
+  },
 
   // —— at ——
   vienna: {

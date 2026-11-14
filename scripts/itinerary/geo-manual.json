@@ -10612,5 +10612,125 @@
     65.89476,
     -18.07124,
     "OSM Nominatim: Laufás, Grýtubakkahreppur, Norðurland eystra, Ísland"
+  ],
+  "vestmannaeyjar-h1": [
+    63.43499,
+    -20.26009,
+    "OSM Nominatim: Eldheimar, 10, Gerðisbraut, Vestmannaeyjabær, Suðurland, 900"
+  ],
+  "vestmannaeyjar-h2": [
+    63.43232,
+    -20.24728,
+    "OSM Nominatim: Eldfell, Vestmannaeyjabær, Suðurland, 900, Ísland"
+  ],
+  "vestmannaeyjar-h4": [
+    63.44295,
+    -20.29625,
+    "OSM Nominatim: Herjólfsdalur, Vestmannaeyjabær, Suðurland, 900, Ísland"
+  ],
+  "hofn-h1": [
+    64.07832,
+    -16.22742,
+    "OSM Nominatim: Jökulsárlón, Sveitarfélagið Hornafjörður, Suðurland, Ísland"
+  ],
+  "hofn-h2": [
+    64.04314,
+    -16.17825,
+    "OSM Nominatim: Breiðamerkursandur, Sveitarfélagið Hornafjörður, Suðurland, "
+  ],
+  "hofn-h3": [
+    64.02772,
+    -16.97529,
+    "OSM Nominatim: Svartifoss, Sveitarfélagið Hornafjörður, Suðurland, Ísland"
+  ],
+  "hofn-h4": [
+    64.24404,
+    -14.96729,
+    "OSM Nominatim: Stokksnes, Sveitarfélagið Hornafjörður, Suðurland, Ísland"
+  ],
+  "stykkisholmur-h1": [
+    65.0803,
+    -22.72332,
+    "OSM Nominatim: Súgandisey, Súgandiseyjargata, Stykkishólmur, Sveitarfélagið"
+  ],
+  "stykkisholmur-h3": [
+    64.93995,
+    -23.30748,
+    "OSM Nominatim: Kirkjufell, Grundarfjarðarbær, Vesturland, 350, Ísland"
+  ],
+  "stykkisholmur-h4": [
+    64.7521,
+    -23.90322,
+    "OSM Nominatim: Djúpalónssandur, Snæfellsbær, Vesturland, Ísland"
+  ],
+  "isafjordur-h1": [
+    66.06812,
+    -23.12746,
+    "OSM Nominatim: Byggðasafn Vestfjarða, Ásgeirsbakki, Neðstikaupstaður, Ísafj"
+  ],
+  "isafjordur-h2": [
+    65.73251,
+    -23.19856,
+    "OSM Nominatim: Dynjandi, Ísafjarðarbær, Vestfirðir, Ísland"
+  ],
+  "isafjordur-h3": [
+    66.05478,
+    -22.82867,
+    "OSM Nominatim: Vigur, Vestfirðir, Ísland"
+  ],
+  "myvatn-h1": [
+    65.63046,
+    -16.8476,
+    "OSM Nominatim: Jarðböðin við Mývatn, Jarðbaðsvegur, Þingeyjarsveit, Norðurl"
+  ],
+  "myvatn-h2": [
+    65.58805,
+    -16.90794,
+    "OSM Nominatim: Dimmuborgir, Þingeyjarsveit, Norðurland eystra, Ísland"
+  ],
+  "myvatn-h3": [
+    65.64114,
+    -16.80918,
+    "OSM Nominatim: Hverir, Þingeyjarsveit, Norðurland eystra, Ísland"
+  ],
+  "myvatn-h4": [
+    65.57138,
+    -17.03373,
+    "OSM Nominatim: Skútustaðagígar, Þingeyjarsveit, Norðurland eystra, Ísland"
+  ],
+  "seydisfjordur-h1": [
+    65.26132,
+    -14.0106,
+    "OSM Nominatim: Seyðisfjarðarkirkja, 10, Bjólfsgata, Seyðisfjörður, Múlaþing"
+  ],
+  "seydisfjordur-h2": [
+    65.26781,
+    -13.98186,
+    "OSM Nominatim: Tvísöngur, Strandarvegur, Seyðisfjörður, Múlaþing, Austurlan"
+  ],
+  "seydisfjordur-h3": [
+    65.23995,
+    -14.0575,
+    "OSM Nominatim: Gufufoss, Seyðisfjörður, Múlaþing, Austurland, 710, Ísland"
+  ],
+  "vestmannaeyjar-h3": [
+    63.3996,
+    -20.28846,
+    "OSM Nominatim: Stórhöfði, Stórhöfðavegur, Vestmannaeyjabær, Suðurland, 900,"
+  ],
+  "myvatn-h5": [
+    65.72127,
+    -16.79354,
+    "OSM Nominatim: Leirhnjúkur, Þingeyjarsveit, Norðurland eystra, Ísland"
+  ],
+  "stykkisholmur-h2": [
+    65.0739,
+    -22.72182,
+    "OSM Nominatim: Stykkishólmskirkja, 5, Borgarbraut, Flatir, Stykkishólmur, S"
+  ],
+  "seydisfjordur-h4": [
+    65.09518,
+    -14.88955,
+    "OSM Nominatim: Hengifoss, Fljótsdalshreppur, Austurland, Ísland"
   ]
 }

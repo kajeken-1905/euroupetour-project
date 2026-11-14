@@ -6303,6 +6303,60 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  vestmannaeyjar: {
+    modes: ['walk', 'ferry', 'bus', 'taxi'],
+    howTo: {
+      ko: '섬 안은 걸어서 다닙니다. 본토와는 헤르욜퓌르 페리로 오가며, 날씨가 나쁘면 더 먼 토를라욱스회픈 항구로 바뀌기도 합니다.',
+      en: 'Walk around the island; the Herjólfur ferry links it to the mainland, switching to the more distant port of Þorlákshöfn in bad weather.',
+    },
+    apps: [
+    ],
+  },
+  hofn: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 버스가 하루 몇 편뿐이라 렌터카나 투어가 편합니다.',
+      en: 'Walk around town. Buses run only a few times a day, so a hire car or tour is easier.',
+    },
+    apps: [
+    ],
+  },
+  stykkisholmur: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 버스가 하루 몇 편뿐이라 렌터카나 투어가 편합니다.',
+      en: 'Walk around town. Buses run only a few times a day, so a hire car or tour is easier.',
+    },
+    apps: [
+    ],
+  },
+  isafjordur: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다니고, 섬과 보호구역은 보트 투어로 갑니다. 버스가 하루 몇 편뿐이라 렌터카나 투어가 편합니다.',
+      en: 'Walk around town; reach the islands and reserve by boat tour. Buses run only a few times a day, so a hire car or tour is easier.',
+    },
+    apps: [
+    ],
+  },
+  myvatn: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '볼거리가 호수를 따라 흩어져 있습니다. 버스가 하루 몇 편뿐이라 렌터카나 투어가 편합니다.',
+      en: 'The sights are spread around the lake. Buses run only a few times a day, so a hire car or tour is easier.',
+    },
+    apps: [
+    ],
+  },
+  seydisfjordur: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다닙니다. 에길스타디르와는 시내버스로 오가며 하루 몇 편뿐입니다.',
+      en: 'Walk around the village; a few buses a day link it with Egilsstaðir.',
+    },
+    apps: [
+    ],
+  },
   // —— ee ——
   tallinn: {
     modes: ['ferry', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],

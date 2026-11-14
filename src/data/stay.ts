@@ -2084,6 +2084,29 @@ export const STAY: Record<string, StayArea[]> = {
   husavik: [
     a('시내 중심·항구', 'Town centre and harbour', 'Húsavík harbour', '고래 관찰|Whale watching', '고래 관찰 배가 떠나는 항구와 고래 박물관이 걸어서 닿습니다. 식당이 비싸 부엌 있는 숙소가 편합니다.|The whale-watching harbour and whale museum on foot; eating out is pricey, so a kitchen helps.'),
   ],
+  vestmannaeyjar: [
+    a('헤이마에이 항구 주변', 'Heimaey harbour', 'Heimaey', '걸어서 다 보기|Everything on foot', '페리 선착장과 박물관, 식당이 모두 가깝습니다.|The ferry pier, museums and restaurants are all close by.'),
+    a('본토에서 다녀오기', 'Day trip from the mainland', 'Landeyjahöfn', '당일치기|Day trip', '란데이야회픈에서 페리로 약 35분이라 남해안 여행 중 하루 다녀올 수 있습니다.|About 35 minutes by ferry from Landeyjahöfn, so easy to visit for a day on a south-coast trip.'),
+  ],
+  hofn: [
+    a('회픈 마을', 'Höfn town', 'Höfn', '항구 마을|Harbour town', '식당과 슈퍼가 있는 이 지역 가장 큰 마을입니다.|The largest town in the area, with restaurants and a supermarket.'),
+    a('빙하 호수 근처', 'Near Jökulsárlón', 'Jökulsárlón', '자연 속 숙소|Countryside lodges', '빙하 호수와 스카프타펠 사이 농장 숙소에 묵으면 이른 아침에 둘러보기 좋습니다.|Farm guesthouses between the lagoon and Skaftafell make early starts easy.'),
+  ],
+  stykkisholmur: [
+    a('스티키스홀뮈르 항구', 'Stykkishólmur harbour', 'Stykkishólmur', '항구 마을|Harbour town', '식당과 페리 선착장이 가까운 반도 북쪽의 거점입니다.|The base on the north of the peninsula, close to restaurants and the ferry.'),
+    a('그룬다르피외르뒤르', 'Grundarfjörður', 'Grundarfjörður', '키르큐펠 옆|By Kirkjufell', '키르큐펠 바로 옆이라 해 뜰 때나 오로라를 보기 좋습니다.|Right by Kirkjufell, handy for sunrise or the aurora.'),
+  ],
+  isafjordur: [
+    a('이사피외르뒤르 시내', 'Ísafjörður town', 'Ísafjörður', '교통이 편한 곳|Convenient', '공항 버스와 보트 투어 선착장, 식당이 가깝습니다.|Close to the airport bus, the boat-tour pier and restaurants.'),
+  ],
+  myvatn: [
+    a('레이캬흘리드', 'Reykjahlíð', 'Reykjahlíð', '호숫가 마을|Lakeside village', '온천과 지열 지대가 가깝고 슈퍼와 식당이 있습니다.|Close to the baths and geothermal areas, with a supermarket and restaurants.'),
+    a('아쿠레이리에서 다녀오기', 'Base in Akureyri', 'Akureyri', '당일치기|Day trip', '차로 약 1시간 15분이라 아쿠레이리에서 다녀오는 투어도 많습니다.|About 1 hr 15 min by car, and many tours run from Akureyri.'),
+  ],
+  seydisfjordur: [
+    a('세이디스피외르뒤르 마을', 'Seyðisfjörður village', 'Seyðisfjörður', '피오르 마을|Fjord village', '작은 마을이라 숙소가 적어 페리 날엔 일찍 예약하세요.|A small village with few rooms; book early on ferry days.'),
+    a('에길스타디르', 'Egilsstaðir', 'Egilsstaðir', '교통이 편한 곳|Convenient', '동부의 교통 중심지로 공항과 슈퍼, 숙소가 많고 마을까지 차로 약 30분입니다.|The transport hub of the east, with the airport, shops and more rooms, about 30 minutes’ drive away.'),
+  ],
   ankara: [
     a('크즐라이', 'Kızılay', 'Kızılay, Ankara', '교통·식당|Transport, dining', '지하철·버스가 모이는 도심으로 상점과 식당이 많습니다.|The central hub of metro and bus lines with shops and restaurants.'),
     a('울루스', 'Ulus', 'Ulus, Ankara', '옛 앙카라·저렴|Old Ankara, budget', '옛 앙카라의 볼거리 대부분을 걸어서 갑니다. 숙소가 소박하고 언덕이 가파릅니다.|Walk to most of old Ankara’s sights; simpler hotels and steep streets.'),

@@ -3895,3 +3895,42 @@ highlights/selfoss-5.jpg | https://commons.wikimedia.org/wiki/File:Fridheimar_To
 highlights/selfoss-6.jpg | https://www.flickr.com/photos/49293046@N08/44485540564 | BY-SA 2.0 | Cédric Liénart
 highlights/selfoss-7.jpg | https://www.flickr.com/photos/31195974@N05/8661369678 | BY-SA 2.0 | El Coleccionista de Instantes
 highlights/akureyri-7.jpg | https://commons.wikimedia.org/wiki/File:Laufas.jpg | CC BY 2.0 | Steve L. Martin
+gateways/gw-rkv.jpg | https://commons.wikimedia.org/wiki/File:Air_Iceland_Connect_TF-FXI_taxiing_at_Reykjav%C3%ADk_Airport.jpg | CC BY 4.0 | Photographer: Mosbatho
+gateways/gw-aey.jpg | https://commons.wikimedia.org/wiki/File:Akureyri_airport_2023.jpg | CC BY 4.0 | Bair175
+gateways/gw-ifj.jpg | https://commons.wikimedia.org/wiki/File:%C3%8Dsafj%C3%B6r%C3%B0ur_Airport_2023_01.jpg | CC BY-SA 4.0 | Hornstrandir1
+gateways/gw-egs.jpg | https://commons.wikimedia.org/wiki/File:Egilssta%C3%B0ir_Airport_Jun_2018_a.jpg | CC BY-SA 4.0 | Gestumblindi
+gateways/gw-landeyjahofn.jpg | https://commons.wikimedia.org/wiki/File:Herj%C3%B3lfur_ferry_(14461749640).jpg | CC BY 2.0 | James Brooks from Juneau, Alaska
+gateways/gw-seydisfjordur-port.jpg | https://commons.wikimedia.org/wiki/File:Sey%C3%B0isfj%C3%B6r%C3%B0ur,_Norr%C3%B6na_-_20250528_-_07.jpg | CC BY-SA 4.0 | AleWi
+cities/vestmannaeyjar.jpg | https://commons.wikimedia.org/wiki/File:Puerto_de_Vestmannaeyjar,_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_017-019_PAN.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/vestmannaeyjar-1.jpg | https://commons.wikimedia.org/wiki/File:Eldfell_-_museum_of_the_eruption,_house_under_the_tefra.jpg | Public domain | Szilas
+highlights/vestmannaeyjar-2.jpg | https://commons.wikimedia.org/wiki/File:Eldfell,_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_066.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/vestmannaeyjar-3.jpg | https://commons.wikimedia.org/wiki/File:Juvenile_atlantic_puffins_at_Vestmannaeyjar_2.jpg | CC BY-SA 4.0 | MSK
+highlights/vestmannaeyjar-4.jpg | https://commons.wikimedia.org/wiki/File:Herj%C3%B3lfsdalur,_Heimaey_-_panoramio_(1).jpg | CC BY-SA 3.0 | Bjarne Henning Kvaal…
+cities/hofn.jpg | https://commons.wikimedia.org/wiki/File:Iceland_H%C3%B6fn.jpg | CC BY-SA 3.0 | Maryam Laura Moazedi, www.moazedi.org
+highlights/hofn-1.jpg | https://commons.wikimedia.org/wiki/File:Jokulsarlon_lake,_Iceland.jpg | CC BY 2.0 | Kenny Muir
+highlights/hofn-2.jpg | https://www.flickr.com/photos/54379975@N05/46866333852 | BY 2.0 | nakul.sharma07
+highlights/hofn-3.jpg | https://commons.wikimedia.org/wiki/File:Svartifoss_Panorama_01.jpg | CC BY-SA 4.0 | Spike
+highlights/hofn-4.jpg | https://www.flickr.com/photos/29340537@N06/51632552091 | BY-SA 2.0 | Simaron
+highlights/hofn-5.jpg | https://commons.wikimedia.org/wiki/File:Ice_Cave_Explorer_-_Iceland.jpg | CC BY-SA 2.0 | Eric Kilby
+cities/stykkisholmur.jpg | https://commons.wikimedia.org/wiki/File:1_aerial_pano_stykkish%C3%B3lmur_2017.jpg | CC BY-SA 4.0 | Chensiyuan
+highlights/stykkisholmur-1.jpg | https://commons.wikimedia.org/wiki/File:Stykkish%C3%B3lmur_Lighthouse_(24358381911).jpg | CC BY-SA 2.0 | Navin75
+highlights/stykkisholmur-2.jpg | https://commons.wikimedia.org/wiki/File:Stykkisholmur_Church_2019_1.jpg | CC BY-SA 4.0 | Kasa Fue
+highlights/stykkisholmur-3.jpg | https://commons.wikimedia.org/wiki/File:Kirkjufell_mvp.jpg | CC BY 4.0 | Miquelvp
+highlights/stykkisholmur-4.jpg | https://commons.wikimedia.org/wiki/File:Djupalonssandur_Beach_Iceland_Travel_Photography_(212306465).jpeg | CC BY 3.0 | Giuseppe Milo
+cities/isafjordur.jpg | https://commons.wikimedia.org/wiki/File:%C3%8Dsafj%C3%B6r%C3%B0ur,_Vestfir%C3%B0ir,_Islandia,_2014-08-15,_DD_071.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/isafjordur-1.jpg | https://commons.wikimedia.org/wiki/File:Westfjords_Heritage_Museum_445.jpg | CC BY 4.0 | Steinninn
+highlights/isafjordur-2.jpg | https://commons.wikimedia.org/wiki/File:Cascada_Dynjandi,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_139-141_HDR.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/isafjordur-3.jpg | https://commons.wikimedia.org/wiki/File:Vigur_02.JPG | CC BY-SA 2.0 de | Christian Bickel fingalo
+highlights/isafjordur-4.jpg | https://www.flickr.com/photos/58189808@N03/36788339631 | BY 2.0 | Steenaire
+cities/myvatn.jpg | https://www.flickr.com/photos/16997397@N04/15108181258 | BY 2.0 | Μanu
+highlights/myvatn-1.jpg | https://commons.wikimedia.org/wiki/File:Myvatn_Nature_Baths_by_Bruce_McAdam.jpg | CC BY-SA 2.0 | Bruce McAdam
+highlights/myvatn-2.jpg | https://www.flickr.com/photos/22178197@N00/16011468649 | BY-SA 2.0 | Kamil Porembiński
+highlights/myvatn-3.jpg | https://commons.wikimedia.org/wiki/File:Hverir_N%C3%A1maskar%C3%B0.jpg | CC BY-SA 4.0 | JavierOlivares
+highlights/myvatn-4.jpg | https://commons.wikimedia.org/wiki/File:2008-05-21_19_Pseudo_Craters_near_Sk%C3%BAtusta%C3%B0ir.jpg | CC BY 2.5 | Hansueli Krapf
+highlights/myvatn-5.jpg | https://commons.wikimedia.org/wiki/File:V%C3%ADti_(Krafla).jpg | CC BY 4.0 | Areuland
+cities/seydisfjordur.jpg | https://commons.wikimedia.org/wiki/File:Sey%C3%B0isfj%C3%B6r%C3%B0ur_Sept_2019_1.jpg | CC BY-SA 4.0 | Kasa Fue
+highlights/seydisfjordur-1.jpg | https://www.flickr.com/photos/49293046@N08/30268125357 | BY-SA 2.0 | Cédric Liénart
+highlights/seydisfjordur-2.jpg | https://www.flickr.com/photos/130450256@N03/19362037435 | BY-SA 2.0 | Janko Hoener
+highlights/seydisfjordur-3.jpg | https://commons.wikimedia.org/wiki/File:Gufufoss_-_Blick_von_oben.jpg | CC BY-SA 4.0 | Oliver Schöpgens
+highlights/seydisfjordur-4.jpg | https://commons.wikimedia.org/wiki/File:Hengifoss_2026_02.jpg | CC BY-SA 4.0 | Syrio
+highlights/stykkisholmur-5.jpg | https://commons.wikimedia.org/wiki/File:Flatey,_Brei%C3%B0afj%C3%B6r%C3%B0ur_-_panoramio_(9).jpg | CC BY-SA 3.0 | Patrick Nouhailler's…

@@ -45,4 +45,39 @@ export const placesISExtra: Place[] = [
   place('selfoss-cafe-2', 'selfoss', 'cafe', 'Konungskaffi', 'Brúarstræti 2, 800 Selfoss', '셀포스 새 구시가지의 복원 건물 카페. 1907년 덴마크 국왕 방문용으로 지은 집을 본떴고 오픈 샌드위치·사과 케이크·스키르 치즈케이크를 냅니다.', 'Café in a reconstructed building in Selfoss’s new old town, modelled on a house built for the Danish king’s 1907 visit, serving open sandwiches, apple cake and skyr cheesecake.'),
   place('selfoss-cafe-3', 'selfoss', 'cafe', 'Bókakaffið - Books & Coffee', 'Austurvegur 22, 800 Selfoss', '새 책과 헌책을 함께 파는 서점 겸 카페. 아이슬란드 남부의 유일한 서점으로 소개된 곳입니다.', 'Bookshop-café selling new and second-hand books, described as the only bookshop in south Iceland.'),
   place('selfoss-cafe-4', 'selfoss', 'cafe', 'Byrja', 'Austurvegur 3-5, 800 Selfoss', '로터리 옆 크로난 건물의 브런치 카페. 에그 베네딕트·수프·버거를 내고 비건·글루텐프리 메뉴와 아이 놀이 공간이 있습니다.', 'Brunch café in the Krónan building by the roundabout with eggs Benedict, soups and burgers, vegan and gluten-free options and a kids’ play corner.'),
+
+  // —— vestmannaeyjar: restaurants, bakeries and cafés (2026-11-14) ——
+  place('vestmannaeyjar-fine_dining-1', 'vestmannaeyjar', 'fine_dining', 'Vöruhúsið', 'Skólavegur 1, Vestmannaeyjar', '베스트만나에이야르의 레스토랑. 구글 지도 평점 4.9.', 'Restaurant in Vestmannaeyjar. Rated 4.9 on Google Maps.'),
+  place('vestmannaeyjar-fine_dining-2', 'vestmannaeyjar', 'fine_dining', 'Slippurinn', 'Strandvegur 76, Vestmannaeyjar', '베스트만나에이야르의 아이슬란드 요리 식당. 구글 지도 평점 4.8.', 'Icelandic restaurant in Vestmannaeyjar. Rated 4.8 on Google Maps.'),
+  place('vestmannaeyjar-fine_dining-3', 'vestmannaeyjar', 'fine_dining', 'Tanginn', 'Básaskersbryggja 8, Vestmannaeyjar', '베스트만나에이야르의 항구 식당. 구글 지도 평점 4.4.', 'Harbourside diner in Vestmannaeyjar. Rated 4.4 on Google Maps.'),
+  place('vestmannaeyjar-fine_dining-4', 'vestmannaeyjar', 'fine_dining', 'Kráin - Local Restaurant', 'Bárustígur 1, Vestmannaeyjar', '베스트만나에이야르의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Vestmannaeyjar. Rated 4.7 on Google Maps.'),
+  place('vestmannaeyjar-fine_dining-5', 'vestmannaeyjar', 'fine_dining', 'The Brothers Brewery', 'Bárustígur 7, Vestmannaeyjar', '베스트만나에이야르의 브루펍. 구글 지도 평점 4.8.', 'Brewpub in Vestmannaeyjar. Rated 4.8 on Google Maps.'),
+  place('vestmannaeyjar-bakery-1', 'vestmannaeyjar', 'bakery', 'Vigtin bakhús', 'Strandvegur 30, Vestmannaeyjar', '베스트만나에이야르의 빵집 겸 카페. 구글 지도 평점 4.6.', 'Bakery and café in Vestmannaeyjar. Rated 4.6 on Google Maps.'),
+
+  // —— hofn: restaurants, bakeries and cafés (2026-11-14) ——
+  place('hofn-fine_dining-1', 'hofn', 'fine_dining', 'Pakkhús Restaurant', 'Krosseyjarvegur 3, Höfn', '회픈의 랑구스틴(아이슬란드 랍스터) 요리로 유명한 식당. 구글 지도 평점 4.7.', 'Restaurant known for langoustine in Höfn. Rated 4.7 on Google Maps.'),
+  place('hofn-fine_dining-2', 'hofn', 'fine_dining', 'Kaffi Hornið', 'Hafnarbraut 42, Höfn', '회픈의 카페 겸 식당. 구글 지도 평점 4.5.', 'Café restaurant in Höfn. Rated 4.5 on Google Maps.'),
+  place('hofn-fine_dining-3', 'hofn', 'fine_dining', 'Birki Restaurant', 'Hafnarbraut 4, Höfn', '회픈의 레스토랑. 구글 지도 평점 4.7.', 'Restaurant in Höfn. Rated 4.7 on Google Maps.'),
+  place('hofn-fine_dining-4', 'hofn', 'fine_dining', 'Hafnarbúðin', 'Ránarslóð 2a, Höfn', '회픈의 항구 식당. 구글 지도 평점 4.7.', 'Harbourside diner in Höfn. Rated 4.7 on Google Maps.'),
+  place('hofn-fine_dining-5', 'hofn', 'fine_dining', 'Heppa Restaurant', 'Heppuvegur 6, Höfn', '회픈의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Höfn. Rated 4.5 on Google Maps.'),
+  place('hofn-bakery-1', 'hofn', 'bakery', 'Ljósdís Kaffihús & Bakarí', 'Hafnarbraut 34, Höfn', '회픈의 빵집 겸 카페. 구글 지도 평점 4.9.', 'Bakery and café in Höfn. Rated 4.9 on Google Maps.'),
+
+  // —— stykkisholmur: restaurants, bakeries and cafés (2026-11-14) ——
+  place('stykkisholmur-fine_dining-1', 'stykkisholmur', 'fine_dining', 'Sjávarpakkhúsið', 'Hafnargata 2, Stykkishólmur', '스티키스홀뮈르의 해산물 식당. 구글 지도 평점 4.8.', 'Seafood restaurant in Stykkishólmur. Rated 4.8 on Google Maps.'),
+  place('stykkisholmur-fine_dining-2', 'stykkisholmur', 'fine_dining', 'Narfeyrarstofa', 'Aðalgata 3, Stykkishólmur', '스티키스홀뮈르의 아이슬란드 요리 식당. 구글 지도 평점 4.6.', 'Icelandic restaurant in Stykkishólmur. Rated 4.6 on Google Maps.'),
+  place('stykkisholmur-bakery-1', 'stykkisholmur', 'bakery', 'Nesbrauð', 'Nesvegur, Stykkishólmur', '스티키스홀뮈르의 빵집. 구글 지도 평점 4.6.', 'Bakery in Stykkishólmur. Rated 4.6 on Google Maps.'),
+
+  // —— isafjordur: restaurants, bakeries and cafés (2026-11-14) ——
+  place('isafjordur-fine_dining-1', 'isafjordur', 'fine_dining', 'Húsið', 'Hrannargata 2, Ísafjörður', '이사피외르뒤르의 아이슬란드 요리 식당. 구글 지도 평점 4.7.', 'Icelandic restaurant in Ísafjörður. Rated 4.7 on Google Maps.'),
+  place('isafjordur-fine_dining-2', 'isafjordur', 'fine_dining', 'Thai Tawee', 'Hafnarstræti 9, Ísafjörður', '이사피외르뒤르의 태국 요리 식당. 구글 지도 평점 4.7.', 'Thai restaurant in Ísafjörður. Rated 4.7 on Google Maps.'),
+  place('isafjordur-bakery-1', 'isafjordur', 'bakery', 'Kaffihús Bakarans', 'Hafnarstræti 14, Ísafjörður', '이사피외르뒤르의 빵집 겸 카페. 구글 지도 평점 4.5.', 'Bakery and café in Ísafjörður. Rated 4.5 on Google Maps.'),
+  place('isafjordur-cafe-1', 'isafjordur', 'cafe', 'Heimabyggð', 'Aðalstræti 22b, Ísafjörður', '이사피외르뒤르의 카페. 구글 지도 평점 4.7.', 'Café in Ísafjörður. Rated 4.7 on Google Maps.'),
+
+  // —— myvatn: restaurants, bakeries and cafés (2026-11-14) ——
+  place('myvatn-fine_dining-1', 'myvatn', 'fine_dining', 'Mylla Restaurant', 'Reykjahlíð, Mývatn', '미바튼의 아이슬란드 요리 식당. 구글 지도 평점 4.4.', 'Icelandic restaurant in Mývatn. Rated 4.4 on Google Maps.'),
+  place('myvatn-fine_dining-2', 'myvatn', 'fine_dining', 'Eldey Restaurant', 'Olnbogaás, Mývatn', '미바튼의 아이슬란드 요리 식당. 구글 지도 평점 4.6.', 'Icelandic restaurant in Mývatn. Rated 4.6 on Google Maps.'),
+
+  // —— seydisfjordur: restaurants, bakeries and cafés (2026-11-14) ——
+  place('seydisfjordur-fine_dining-1', 'seydisfjordur', 'fine_dining', 'Aldan Restaurant', 'Norðurgata 2, Seyðisfjörður', '세이디스피외르뒤르의 아이슬란드 요리 식당. 구글 지도 평점 4.6.', 'Icelandic restaurant in Seyðisfjörður. Rated 4.6 on Google Maps.'),
+  place('seydisfjordur-fine_dining-2', 'seydisfjordur', 'fine_dining', 'Skaftfell Bistro', 'Austurvegur 42, Seyðisfjörður', '세이디스피외르뒤르의 비스트로. 구글 지도 평점 4.6.', 'Bistro in Seyðisfjörður. Rated 4.6 on Google Maps.'),
 ]
