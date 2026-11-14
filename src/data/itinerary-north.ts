@@ -224,11 +224,36 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   },
   torun: [4, 7, 6, 1, 3, 2, 8, 5],
   lublin: { days: [['', 2, 1, 4, 3, 5]], trips: [['카지미에시 돌니|Kazimierz Dolny', 6]] },
-  reykjavik: { days: [['', 1, 3, 2, 4]], trips: [['블루라군|Blue Lagoon', 5]] },
-  akureyri: { days: [['', 3, 1, 2]], trips: [['고다포스와 미바튼|Goðafoss & Mývatn', 5, 4]] },
-  vik: [5, 2, 1, 4, 3],
-  husavik: { days: [['', 2, 3, 1, 4]], trips: [['아우스비르기|Ásbyrgi', 5]] },
-  selfoss: [5, 4, 1, 2, 3],
+  reykjavik: {
+    days: [
+      ['시내 중심|Downtown', 1, 8, 3, 2, 4],
+      ['박물관과 온천|Museums & lagoon', 7, 6, 9],
+    ],
+    trips: [
+      ['블루라군|Blue Lagoon', 5],
+      ['비데이섬|Viðey', 10],
+      ['고래 관찰|Whale watching', 11],
+      ['오로라 투어|Northern lights tour', 12],
+    ],
+  },
+  akureyri: {
+    days: [['', 1, 8, 2, 3]],
+    trips: [
+      ['고다포스와 미바튼|Goðafoss & Mývatn', 5, 4],
+      ['흐리세이섬|Hrísey', 6],
+      ['라우바스|Laufás', 7],
+    ],
+  },
+  vik: {
+    days: [['', 3, 1, 4, 2]],
+    trips: [
+      ['스코가포스와 셀랴란즈포스|Skógafoss & Seljalandsfoss', 5, 6],
+      ['솔헤이마요퀴들 빙하 걷기|Sólheimajökull glacier walk', 7],
+      ['피야드라르글리우푸르|Fjaðrárgljúfur', 8],
+    ],
+  },
+  husavik: { days: [['', 2, 3, 1, 4]], trips: [['아우스비르기와 데티포스|Ásbyrgi & Dettifoss', 5, 6]] },
+  selfoss: { days: [['골든 서클|Golden Circle', 3, 1, 2, 5, 6], ['분화구와 온천 강|Crater & hot river', 4, 7]] },
   bratislava: { days: [['', 2, 9, 7, 4, 6, 3, 1, 8, 10]], trips: [['데빈 성|Devín Castle', 5]] },
   kosice: [5, 9, 1, 8, 4, 6, 7, 2, 3],
   bardejov: {

@@ -3876,3 +3876,22 @@ gateways/gw-jyv.jpg | https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A
 gateways/gw-kuo.jpg | https://commons.wikimedia.org/wiki/File:Kuopio_airport_from_air_cropped.jpg | CC BY-SA 2.0 | VirtuaaliAnu
 gateways/gw-svl.jpg | https://commons.wikimedia.org/wiki/File:Savonlinna_Airport_AB.JPG | CC BY-SA 3.0 | Antti Bilund
 gateways/gw-mhq.jpg | https://commons.wikimedia.org/wiki/File:Mariehamn_Airport.jpg | Public domain | Egon Eagle
+highlights/reykjavik-2.jpg | https://www.flickr.com/photos/87690240@N03/23767691300 | BY 2.0 | Giuseppe Milo (www.pixael.com)
+highlights/reykjavik-6.jpg | https://www.flickr.com/photos/37804979@N00/25179288160 | BY 2.0 | ahisgett
+highlights/reykjavik-7.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Iceland,_Reykjav%C3%ADk,_20230508_1356_5910.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/reykjavik-8.jpg | https://www.flickr.com/photos/7787006@N02/20950775629 | BY 2.0 | domfell
+highlights/reykjavik-9.jpg | https://commons.wikimedia.org/wiki/File:Sky_Lagoon_Saunas.jpg | CC BY-SA 4.0 | Laurenmcl
+highlights/reykjavik-10.jpg | https://www.flickr.com/photos/7919860@N06/3997139198 | BY 2.0 | co Nyanda
+highlights/reykjavik-11.jpg | https://commons.wikimedia.org/wiki/File:Humpback_whale,_Faxafl%C3%B3i_Bay,_Iceland,_20230507_1029_5616.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/reykjavik-12.jpg | https://www.flickr.com/photos/31195974@N05/8616375619 | BY-SA 2.0 | El Coleccionista de Instantes
+highlights/akureyri-6.jpg | https://commons.wikimedia.org/wiki/File:2014-04-29_10-07-01_Iceland_-_Hr%C3%ADsey_Litli-%C3%81rsk%C3%B3gssandur.JPG | CC BY-SA 3.0 | Hansueli Krapf  This   file was uploaded  with Commonist.
+highlights/akureyri-8.jpg | https://commons.wikimedia.org/wiki/File:Sundlaug_Akureyrar.jpg | CC BY-SA 4.0 | Palinadagny
+highlights/vik-5.jpg | https://www.flickr.com/photos/12297822@N05/38182862062 | BY 2.0 | pindari
+highlights/vik-6.jpg | https://www.flickr.com/photos/87690240@N03/23217417503 | BY 2.0 | Giuseppe Milo (www.pixael.com)
+highlights/vik-7.jpg | https://www.flickr.com/photos/31195974@N05/8634396409 | BY-SA 2.0 | El Coleccionista de Instantes
+highlights/vik-8.jpg | https://www.flickr.com/photos/7942389@N04/16469645135 | BY-SA 2.0 | sergejf
+highlights/husavik-6.jpg | https://commons.wikimedia.org/wiki/File:Dettifoss_Waterfall,_Iceland,_20240716_1506_1563.jpg | CC BY 4.0 | Jakub Hałun
+highlights/selfoss-5.jpg | https://commons.wikimedia.org/wiki/File:Fridheimar_Tomatoes.jpg | CC BY-SA 2.0 | Eric Kilby
+highlights/selfoss-6.jpg | https://www.flickr.com/photos/49293046@N08/44485540564 | BY-SA 2.0 | Cédric Liénart
+highlights/selfoss-7.jpg | https://www.flickr.com/photos/31195974@N05/8661369678 | BY-SA 2.0 | El Coleccionista de Instantes
+highlights/akureyri-7.jpg | https://commons.wikimedia.org/wiki/File:Laufas.jpg | CC BY 2.0 | Steve L. Martin
