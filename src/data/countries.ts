@@ -1378,7 +1378,12 @@ export const countries: Country[] = [
       background: '#FCE8E8',
       text: '#3A0A0A',
     },
-    cityIds: ['skopje', 'ohrid', 'bitola', 'tetovo'],
+    cityIds: ['skopje', 'tetovo', 'ohrid', 'bitola'],
+    cityGroups: [
+      { title: { ko: '스코페·북부', en: 'Skopje & north' }, cityIds: ['skopje', 'tetovo'] },
+      { title: { ko: '남서부', en: 'South-west' }, cityIds: ['ohrid'] },
+      { title: { ko: '남부', en: 'South' }, cityIds: ['bitola'] },
+    ],
   },
   {
     id: 'al',

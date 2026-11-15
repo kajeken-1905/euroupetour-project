@@ -305,10 +305,34 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   },
   stepantsminda: { days: [['', 5, 1, 2]], trips: [['그벨레티 폭포와 다리알리 협곡|Gveleti & Dariali Gorge', 4, 3]] },
   sighnaghi: [2, 4, 1, 5, 3],
-  skopje: { days: [['', 3, 1, 2, 5]], trips: [['마트카 협곡|Matka Canyon', 4]] },
-  ohrid: [3, 5, 4, 2, 1],
-  bitola: [3, 5, 1, 4, 2],
-  tetovo: { days: [['', 1, 5, 4, 2]], trips: [['샤르 산맥|Šar Mountains', 3]] },
+  skopje: {
+    days: [
+      ['구시장·요새|Old Bazaar & fortress', 1, 2, 6, 7, 5],
+      ['강 남쪽 신시가|South of the river', 3, 10, 8, 9, 11],
+    ],
+    trips: [['마트카 협곡|Matka Canyon', 4]],
+  },
+  ohrid: {
+    days: [
+      ['', 3, 8, 6, 7, 5, 4, 2],
+      ['', 1],
+    ],
+    trips: [
+      ['성 나움 수도원|St Naum', 9],
+      ['갈리치차 국립공원|Galičica', 10],
+    ],
+  },
+  bitola: {
+    days: [['', 3, 7, 5, 1, 6, 4, 2]],
+    trips: [['펠리스테르 국립공원|Pelister National Park', 8]],
+  },
+  tetovo: {
+    days: [['', 1, 4, 5, 2, 7]],
+    trips: [
+      ['포포바 샵카|Popova Šapka', 3],
+      ['레쇼크 수도원|Lešok Monastery', 6],
+    ],
+  },
   nicosia: [4, 1, 5, 3],
   limassol: { days: [['', 3, 1, 2, 4]], trips: [['와인 박물관|Wine Museum', 5]] },
   paphos: { days: [['', 3, 2, 1, 4]], trips: [['아프로디테 바위|Aphrodite’s Rock', 5]] },
