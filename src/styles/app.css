@@ -2603,6 +2603,22 @@ button.back-link {
     gap: 20px;
   }
 
+  /* Same card height in every row: one-line name, three-line blurb. */
+  .country-card .name {
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .country-card .blurb {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    height: calc(3 * 1.45em);
+  }
+
   /* Cities, sights and restaurants in four columns, like the countries. */
   .city-list,
   .place-list,
