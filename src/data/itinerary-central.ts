@@ -104,7 +104,12 @@ export const itineraryCentral: Record<string, RawItinerary> = {
       ['박물관과 영국 정원|Museums & English Garden', 4, 13, 2],
       ['님펜부르크와 올림픽 공원|Nymphenburg & Olympiapark', 3, 14, 8],
     ],
-    trips: [['다하우 추모관|Dachau Memorial', 7], ['안덱스 수도원|Andechs', 15], ['아우디 박물관|Audi museum', 9]],
+    trips: [
+      ['다하우 추모관|Dachau Memorial', 7],
+      ['슐라이스하임 궁전|Schleissheim Palace', 16],
+      ['안덱스 수도원|Andechs', 15],
+      ['아우디 박물관|Audi museum', 9],
+    ],
   },
   lubeck: { days: [['', 1, 2, 3, 4, 5]], trips: [['트라베뮌데|Travemünde', 6]] },
   bremen: [1, 2, 3, 4, 5, 6],

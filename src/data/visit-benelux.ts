@@ -180,6 +180,7 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'munich-h13': v(180, 240),
   'munich-h14': v(60, 120),
   'munich-h15': v(180, 240, { n: '뮌헨에서 S반으로 헤르싱까지 약 50분, 버스나 숲길(약 1시간)로 오릅니다.|About 50 min on the S-Bahn to Herrsching, then a bus or an hour’s woodland walk up.' }),
+  'munich-h16': v(90, 120, { c: 'mon', s: 'https://schloesser-schleissheim.de/englisch/tourist/opening.htm', n: '뮌헨에서 S1 S반으로 오버슐라이스하임까지 약 25분, 역에서 걸어서 15분입니다. 월요일엔 쉽니다(일부 공휴일 제외).|About 25 min from Munich on the S1 to Oberschleißheim, then a 15-minute walk; closed Mondays (except a few holidays).', k: '2026-11' }),
   'cochem-h1': v(60, 90, { s: 'https://www.reichsburg-cochem.de/', n: '가이드 투어로 들어갑니다. 3월 중순~11월 초엔 매일 다니고, 겨울엔 여는 요일과 시간이 줄어듭니다.|Visits are by guided tour, daily from mid-March to early November; in winter there are fewer opening days and shorter hours.' }),
   'cochem-h2': v(30, 45),
   'cochem-h3': v(45, 60, { n: '봄~가을에 운행합니다.|Runs from spring to autumn.' }),
