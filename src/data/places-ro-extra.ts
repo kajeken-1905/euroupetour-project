@@ -68,4 +68,81 @@ export const placesROExtra: Place[] = [
   place('timisoara-cafe-2', 'timisoara', 'cafe', 'Garage Café', 'Strada Palanca 2, Timișoara, Romania', '팔란카 거리의 커피숍.', 'Coffee shop on Strada Palanca in Timișoara.'),
   place('timisoara-cafe-3', 'timisoara', 'cafe', 'OVRIDE Coffee Shop', 'Strada Lucian Blaga 6, Timișoara, Romania', '루치안 블라가 거리의 커피숍.', 'Coffee shop on Strada Lucian Blaga in Timișoara.'),
   place('timisoara-cafe-4', 'timisoara', 'cafe', 'acas specialty coffee', 'Strada Ciprian Porumbescu 32, Timișoara, Romania', '치프리안 포룸베스쿠 거리의 스페셜티 커피숍', 'Specialty coffee shop on Strada Ciprian Porumbescu in Timișoara'),
+
+  // —— constanta: restaurants, bakeries and cafés (2026-11-15) ——
+  place('constanta-fine_dining-1', 'constanta', 'fine_dining', 'Restaurant The Boat', 'Strada Lebedei 16, Constanța', '콘스탄차의 해산물 식당. 구글 지도 평점 4.9.', 'Seafood restaurant in Constanța. Rated 4.9 on Google Maps.'),
+  place('constanta-fine_dining-2', 'constanta', 'fine_dining', 'Bacaro', 'Strada Marinei, Constanța', '콘스탄차의 식당. 구글 지도 평점 4.5.', 'Restaurant in Constanța. Rated 4.5 on Google Maps.'),
+  place('constanta-fine_dining-3', 'constanta', 'fine_dining', 'Pizzico', 'Piața Ovidiu 7, Constanța', '콘스탄차의 식당. 구글 지도 평점 4.5.', 'Restaurant in Constanța. Rated 4.5 on Google Maps.'),
+  place('constanta-fine_dining-4', 'constanta', 'fine_dining', 'Restaurant Toscana', 'Strada Mircea cel Bătrân 103, Constanța', '콘스탄차의 토스카나 음식 식당. 구글 지도 평점 4.5.', 'Tuscan restaurant in Constanța. Rated 4.5 on Google Maps.'),
+  place('constanta-bakery-1', 'constanta', 'bakery', 'Maya Bakery & Bistro', 'Str. Mihai Viteazu 119, Constanța', '콘스탄차의 빵집. 구글 지도 평점 4.5.', 'Bakery in Constanța. Rated 4.5 on Google Maps.'),
+  place('constanta-bakery-2', 'constanta', 'bakery', 'Sophie Patisserie', 'Strada Dezrobirii 101, Constanța', '콘스탄차의 디저트 가게. 구글 지도 평점 4.7.', 'Dessert shop in Constanța. Rated 4.7 on Google Maps.'),
+  place('constanta-bakery-3', 'constanta', 'bakery', 'AMO Bakery', 'Str. Răscoala din 1907 5-7, Constanța', '콘스탄차의 빵집. 구글 지도 평점 4.7.', 'Bakery in Constanța. Rated 4.7 on Google Maps.'),
+  place('constanta-cafe-1', 'constanta', 'cafe', 'Cafe Bonjour', 'Bulevardul Tomis 6, Constanța', '콘스탄차의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Constanța. Rated 4.9 on Google Maps.'),
+  place('constanta-cafe-2', 'constanta', 'cafe', 'Haute Cup Tomis 67', 'Bulevardul Tomis 67, Constanța', '콘스탄차의 카페. 구글 지도 평점 4.7.', 'Café in Constanța. Rated 4.7 on Google Maps.'),
+  place('constanta-cafe-3', 'constanta', 'cafe', 'Corretto', 'Str. Tepes Vodă 14A, Constanța', '콘스탄차의 커피숍. 구글 지도 평점 4.8.', 'Coffee shop in Constanța. Rated 4.8 on Google Maps.'),
+
+  // —— tulcea: restaurants, bakeries and cafés (2026-11-15) ——
+  place('tulcea-fine_dining-1', 'tulcea', 'fine_dining', 'Ca odinioară', 'Strada Viticulturii, Tulcea', '툴체아의 식당. 구글 지도 평점 4.6.', 'Restaurant in Tulcea. Rated 4.6 on Google Maps.'),
+  place('tulcea-fine_dining-2', 'tulcea', 'fine_dining', 'Ivan Pescar', 'Strada Gării 28, Tulcea', '툴체아의 식당. 구글 지도 평점 4.3.', 'Restaurant in Tulcea. Rated 4.3 on Google Maps.'),
+  place('tulcea-bakery-1', 'tulcea', 'bakery', 'Pluto Café', 'Strada Babadag 15, Tulcea', '툴체아의 과자점. 구글 지도 평점 4.7.', 'Confectioner in Tulcea. Rated 4.7 on Google Maps.'),
+  place('tulcea-cafe-1', 'tulcea', 'cafe', '5 to go', 'Strada Spitalului 12, Tulcea', '툴체아의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Tulcea. Rated 4.9 on Google Maps.'),
+  place('tulcea-cafe-2', 'tulcea', 'cafe', 'Pick Up Coffee & More', 'Strada Rezervorului, Tulcea', '툴체아의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Tulcea. Rated 4.9 on Google Maps.'),
+
+  // —— sinaia: restaurants, bakeries and cafés (2026-11-15) ——
+  place('sinaia-fine_dining-1', 'sinaia', 'fine_dining', 'Taverna Sârbului', 'Calea Codrului 39 E, Sinaia', '시나이아의 세르비아 음식 식당. 구글 지도 평점 4.6.', 'Serbian restaurant in Sinaia. Rated 4.6 on Google Maps.'),
+  place('sinaia-fine_dining-2', 'sinaia', 'fine_dining', 'Opus Garden', 'Strada Coștilei 27, Sinaia', '시나이아의 식당. 구글 지도 평점 4.8.', 'Restaurant in Sinaia. Rated 4.8 on Google Maps.'),
+  place('sinaia-fine_dining-3', 'sinaia', 'fine_dining', 'Bistro Caramello', 'Strada Octavian Goga 27, Sinaia', '시나이아의 식당. 구글 지도 평점 4.7.', 'Restaurant in Sinaia. Rated 4.7 on Google Maps.'),
+  place('sinaia-bakery-1', 'sinaia', 'bakery', 'CRUST (Focaccerie)', 'Bulevardul Carol I 33, Sinaia', '시나이아의 포카치아 가게. 구글 지도 평점 4.9.', 'Focaccia shop in Sinaia. Rated 4.9 on Google Maps.'),
+  place('sinaia-cafe-1', 'sinaia', 'cafe', 'La Cafenea', 'Strada Octavian Goga 27, Sinaia', '시나이아의 카페. 구글 지도 평점 4.7.', 'Café in Sinaia. Rated 4.7 on Google Maps.'),
+  place('sinaia-cafe-2', 'sinaia', 'cafe', 'Prăvălia cu cafea', 'Bulevardul Carol I 33, Sinaia', '시나이아의 카페. 구글 지도 평점 4.5.', 'Café in Sinaia. Rated 4.5 on Google Maps.'),
+
+  // —— oradea: restaurants, bakeries and cafés (2026-11-15) ——
+  place('oradea-fine_dining-1', 'oradea', 'fine_dining', 'Restaurant Midway', 'Piața Unirii 5, Oradea', '오라데아의 파인다이닝 식당. 구글 지도 평점 4.9.', 'Fine-dining restaurant in Oradea. Rated 4.9 on Google Maps.'),
+  place('oradea-fine_dining-2', 'oradea', 'fine_dining', 'Eat IT casual gourmet kitchen', 'Strada Vasile Alecsandri 10, Oradea', '오라데아의 이탈리아 음식 식당. 구글 지도 평점 4.7.', 'Italian restaurant in Oradea. Rated 4.7 on Google Maps.'),
+  place('oradea-fine_dining-3', 'oradea', 'fine_dining', 'Botanic by Armonia', 'Cele Trei Crișuri nr. 4, Oradea', '오라데아의 모던 유럽 음식 식당. 구글 지도 평점 4.6.', 'Modern European restaurant in Oradea. Rated 4.6 on Google Maps.'),
+  place('oradea-fine_dining-4', 'oradea', 'fine_dining', 'Ya Habibi', 'Strada Barbu Ștefănescu Delavrancea 3, Oradea', '오라데아의 레바논 음식 식당. 구글 지도 평점 4.9.', 'Lebanese restaurant in Oradea. Rated 4.9 on Google Maps.'),
+  place('oradea-bakery-1', 'oradea', 'bakery', 'Cofetăria Elidor', 'Strada Zaharia Stancu 8, Oradea', '오라데아의 빵집. 구글 지도 평점 4.7.', 'Bakery in Oradea. Rated 4.7 on Google Maps.'),
+  place('oradea-bakery-2', 'oradea', 'bakery', 'La Torta', 'Strada Republicii 26, Oradea', '오라데아의 제과점. 구글 지도 평점 4.8.', 'Pâtisserie in Oradea. Rated 4.8 on Google Maps.'),
+  place('oradea-bakery-3', 'oradea', 'bakery', 'Chantia', 'Strada Vasile Alecsandri 3, Oradea', '오라데아의 제과점. 구글 지도 평점 4.7.', 'Pâtisserie in Oradea. Rated 4.7 on Google Maps.'),
+  place('oradea-cafe-1', 'oradea', 'cafe', 'SemiramiS Café', 'Strada Primăriei 23, Oradea', '오라데아의 카페. 구글 지도 평점 4.8.', 'Café in Oradea. Rated 4.8 on Google Maps.'),
+  place('oradea-cafe-2', 'oradea', 'cafe', 'Street Coffee Roasters', 'Piața Unirii 12, Oradea', '오라데아의 카페. 구글 지도 평점 4.8.', 'Café in Oradea. Rated 4.8 on Google Maps.'),
+  place('oradea-cafe-3', 'oradea', 'cafe', 'MY. Specialty Coffee', 'Piața 1 Decembrie 5, Oradea', '오라데아의 커피숍. 구글 지도 평점 5.0.', 'Coffee shop in Oradea. Rated 5.0 on Google Maps.'),
+
+  // —— iasi: restaurants, bakeries and cafés (2026-11-15) ——
+  place('iasi-fine_dining-1', 'iasi', 'fine_dining', 'Boho by London', 'Piața Unirii 2, Iași', '야시의 식당. 구글 지도 평점 4.8.', 'Restaurant in Iași. Rated 4.8 on Google Maps.'),
+  place('iasi-fine_dining-2', 'iasi', 'fine_dining', 'Veranda', 'Strada Anastasie Panu nr. 46, Iași', '야시의 식당. 구글 지도 평점 4.9.', 'Restaurant in Iași. Rated 4.9 on Google Maps.'),
+  place('iasi-fine_dining-3', 'iasi', 'fine_dining', 'Toujours', 'Strada Gându nr. 2, Iași', '야시의 식당. 구글 지도 평점 4.8.', 'Restaurant in Iași. Rated 4.8 on Google Maps.'),
+  place('iasi-fine_dining-4', 'iasi', 'fine_dining', 'MUSE', 'Bulevardul Carol I 48, Iași', '야시의 식당. 구글 지도 평점 4.6.', 'Restaurant in Iași. Rated 4.6 on Google Maps.'),
+  place('iasi-bakery-1', 'iasi', 'bakery', 'LUV Bakery', 'Strada Tabacului 11, Iași', '야시의 빵집. 구글 지도 평점 4.8.', 'Bakery in Iași. Rated 4.8 on Google Maps.'),
+  place('iasi-bakery-2', 'iasi', 'bakery', 'Dulcinella - Moldova Center', 'Strada Palat 1, Iași', '야시의 제과점. 구글 지도 평점 4.8.', 'Pâtisserie in Iași. Rated 4.8 on Google Maps.'),
+  place('iasi-cafe-1', 'iasi', 'cafe', 'Fika', 'Piața Unirii 7, Iași', '야시의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Iași. Rated 4.7 on Google Maps.'),
+  place('iasi-cafe-2', 'iasi', 'cafe', 'Acaju Cafe', 'Strada Anastasie Fătu nr. 2A, Iași', '야시의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Iași. Rated 4.7 on Google Maps.'),
+  place('iasi-cafe-3', 'iasi', 'cafe', 'Gist Specialty Coffee Shop', 'Strada Cuza Vodă nr. 4, Iași', '야시의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Iași. Rated 4.7 on Google Maps.'),
+
+  // —— suceava: restaurants, bakeries and cafés (2026-11-15) ——
+  place('suceava-fine_dining-1', 'suceava', 'fine_dining', 'Eker', 'Strada Ștefan cel Mare 28, Suceava', '수체아바의 파인다이닝 식당. 구글 지도 평점 4.8.', 'Fine-dining restaurant in Suceava. Rated 4.8 on Google Maps.'),
+  place('suceava-fine_dining-2', 'suceava', 'fine_dining', 'AVENUE', 'Bulevardul 1 Decembrie 1918 15, Suceava', '수체아바의 모던 유럽 음식 식당. 구글 지도 평점 4.9.', 'Modern European restaurant in Suceava. Rated 4.9 on Google Maps.'),
+  place('suceava-fine_dining-3', 'suceava', 'fine_dining', 'Latino', 'Strada Curtea Domnească 9, Suceava', '수체아바의 이탈리아 음식 식당. 구글 지도 평점 4.7.', 'Italian restaurant in Suceava. Rated 4.7 on Google Maps.'),
+  place('suceava-bakery-1', 'suceava', 'bakery', 'JIC', 'Strada Victoriei nr. 12A, Suceava', '수체아바의 제과점. 구글 지도 평점 4.9.', 'Pâtisserie in Suceava. Rated 4.9 on Google Maps.'),
+  place('suceava-bakery-2', 'suceava', 'bakery', 'Pati Prima', 'Strada Universității 46, Suceava', '수체아바의 제과점. 구글 지도 평점 4.6.', 'Pâtisserie in Suceava. Rated 4.6 on Google Maps.'),
+  place('suceava-cafe-1', 'suceava', 'cafe', 'Camera cu cafea', 'Strada Ștefan cel Mare 26, Suceava', '수체아바의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Suceava. Rated 4.7 on Google Maps.'),
+  place('suceava-cafe-2', 'suceava', 'cafe', 'Palo Santo Shop Bar & Coffee Hub', 'Strada Bistriței 8, Suceava', '수체아바의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Suceava. Rated 4.9 on Google Maps.'),
+  place('suceava-cafe-3', 'suceava', 'cafe', 'AVANTGARDE Specialty Coffee & Wine bar', 'Strada Mihai Eminescu 3, Suceava', '수체아바의 커피숍. 구글 지도 평점 5.0.', 'Coffee shop in Suceava. Rated 5.0 on Google Maps.'),
+
+  // —— sighetu-marmatiei: restaurants, bakeries and cafés (2026-11-15) ——
+  place('sighetu-marmatiei-fine_dining-1', 'sighetu-marmatiei', 'fine_dining', 'Crama Sigheteană', 'Strada Iuliu Maniu 16, Sighetu Marmației', '시게투마르마치에이의 루마니아 음식 식당. 구글 지도 평점 4.5.', 'Romanian restaurant in Sighetu Marmației. Rated 4.5 on Google Maps.'),
+  place('sighetu-marmatiei-fine_dining-2', 'sighetu-marmatiei', 'fine_dining', 'Paul\'s Roti', 'Strada Tudor Vladimirescu 17, Sighetu Marmației', '시게투마르마치에이의 식당. 구글 지도 평점 4.9.', 'Restaurant in Sighetu Marmației. Rated 4.9 on Google Maps.'),
+  place('sighetu-marmatiei-cafe-1', 'sighetu-marmatiei', 'cafe', 'The Coffee Factory', 'Piața Libertății 1, Sighetu Marmației', '시게투마르마치에이의 커피숍. 구글 지도 평점 4.6.', 'Coffee shop in Sighetu Marmației. Rated 4.6 on Google Maps.'),
+  place('sighetu-marmatiei-cafe-2', 'sighetu-marmatiei', 'cafe', 'Brisetto\'s Coffee Corner', 'Strada Iuliu Maniu 2, Sighetu Marmației', '시게투마르마치에이의 카페. 구글 지도 평점 4.8.', 'Café in Sighetu Marmației. Rated 4.8 on Google Maps.'),
+
+  // —— cluj-napoca: restaurants, bakeries and cafés (2026-11-15) ——
+  place('cluj-napoca-bakery-1', 'cluj-napoca', 'bakery', 'Community Foods Bakery', 'Strada Regele Ferdinand 3, Cluj-Napoca', '클루지나포카의 빵집. 구글 지도 평점 4.8.', 'Bakery in Cluj-Napoca. Rated 4.8 on Google Maps.'),
+  place('cluj-napoca-bakery-2', 'cluj-napoca', 'bakery', 'Meron Bakery (Unirii Square)', 'Piața Unirii 13, Cluj-Napoca', '클루지나포카의 빵집. 구글 지도 평점 4.6.', 'Bakery in Cluj-Napoca. Rated 4.6 on Google Maps.'),
+
+  // —— sighisoara: restaurants, bakeries and cafés (2026-11-15) ——
+  place('sighisoara-bakery-1', 'sighisoara', 'bakery', 'Sablee Boutique Pastry & Specialty Coffee', 'Piața Hermann Oberth 15/2, Sighișoara', '시기쇼아라의 제과점·커피숍. 구글 지도 평점 4.9.', 'Pâtisserie and coffee shop in Sighișoara. Rated 4.9 on Google Maps.'),
+
+  // —— timisoara: restaurants, bakeries and cafés (2026-11-15) ——
+  place('timisoara-bakery-2', 'timisoara', 'bakery', 'Prospero', 'Piața Victoriei 5, Timișoara', '티미쇼아라의 빵집. 구글 지도 평점 4.5.', 'Bakery in Timișoara. Rated 4.5 on Google Maps.'),
+  place('timisoara-bakery-3', 'timisoara', 'bakery', 'Pasticceria', 'Strada Vasile Alecsandri 3, Timișoara', '티미쇼아라의 빵집. 구글 지도 평점 4.8.', 'Bakery in Timișoara. Rated 4.8 on Google Maps.'),
 ]

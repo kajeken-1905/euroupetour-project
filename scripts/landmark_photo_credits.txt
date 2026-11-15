@@ -4134,3 +4134,6 @@ highlights/sighetu-marmatiei-3.jpg | https://commons.wikimedia.org/wiki/File:Cas
 highlights/sighetu-marmatiei-4.jpg | https://commons.wikimedia.org/wiki/File:Merry_Cemetery,_S%C4%83p%C3%A2n%C8%9Ba,_2017.jpg | CC0 | DimiTalen
 highlights/sighetu-marmatiei-5.jpg | https://commons.wikimedia.org/wiki/File:M%C4%83n%C4%83stirea_B%C3%A2rsana_Maramures_Romania_-_vedere_interioara.JPG | CC BY-SA 3.0 | The Traveller LB
 cities/constanta.jpg | https://commons.wikimedia.org/wiki/File:Cazinoul_din_Constan%C8%9Ba_%C3%AEn_anul_2015.jpg | CC BY-SA 4.0 | PosifCool
+gateways/gw-ias.jpg | https://commons.wikimedia.org/wiki/File:Romania_Ia%C8%99i_Airport_Flagman_Directs_Pilot_(Stop).jpg | CC BY 4.0 | Alexander Klink
+gateways/gw-scv.jpg | https://commons.wikimedia.org/wiki/File:Aeroportul_Suceava1.jpg | Public domain | Musichistory2009 at ro.wikipedia; transferred to Commons by
+gateways/gw-cnd.jpg | https://commons.wikimedia.org/wiki/File:Mihail_Kog%C4%83lniceanu_International_Airport,_1996.jpg | Public domain | TSgt. Russ Pollanen

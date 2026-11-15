@@ -3835,10 +3835,12 @@
 "src": "2026-11-08 google maps / michelin 2026"
 },
 "cluj-napoca-bakery-1": {
-"del": "branch unconfirmable"
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "cluj-napoca-bakery-2": {
-"del": "unconfirmable"
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "cluj-napoca-bakery-3": {
 "del": "unconfirmable"
@@ -14993,7 +14995,8 @@
 "ok": 1
 },
 "sighisoara-bakery-1": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "sighisoara-bakery-2": {
 "del": 1
@@ -16565,10 +16568,12 @@
 "ok": 1
 },
 "timisoara-bakery-2": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "timisoara-bakery-3": {
-"del": "그 이름·주소의 제과점을 확인할 수 없음"
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "timisoara-bakery-4": {
 "del": "그 이름의 제과점을 찾을 수 없음(비슷한 이름은 일반 식당)"
@@ -21734,5 +21739,213 @@
 "druskininkai-cafe-3": {
 "ok": 1,
 "src": "2026-11-15 google maps / michelin guide"
+},
+"constanta-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-bakery-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"tulcea-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"tulcea-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"tulcea-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sinaia-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sinaia-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sinaia-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-bakery-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sighetu-marmatiei-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sighetu-marmatiei-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"constanta-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"tulcea-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"tulcea-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sinaia-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sinaia-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sinaia-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"oradea-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"iasi-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"suceava-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sighetu-marmatiei-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sighetu-marmatiei-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
 }
 }
