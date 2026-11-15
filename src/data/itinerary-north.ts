@@ -167,13 +167,19 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['구시가와 유대인 지구|Old Town & Jewish Quarter', 19, 3, 4, 7, 6, 8, 18],
       ['신시가와 비셰흐라드|New Town & Vyšehrad', 16, 11, 15],
     ],
-    trips: [['쿠트나호라|Kutná Hora', 13], ['카를슈테인 성|Karlštejn Castle', 14], ['슈코다 박물관|Škoda Museum', 21]],
+    trips: [
+      ['쿠트나호라|Kutná Hora', 13],
+      ['카를슈테인 성|Karlštejn Castle', 14],
+      ['슈코다 박물관|Škoda Museum', 21],
+      ['흐라데크 우 네하니츠 성|Hrádek u Nechanic', 22],
+      ['토호비체 성|Tochovice', 23],
+    ],
   },
-  plzen: [1, 2, 3, 4, 5],
-  'kutna-hora': [1, 2, 3, 4, 5, 6],
+  plzen: { days: [['', 1, 2, 3, 4, 5]], trips: [['슈비호프 수상성|Švihov Castle', 6]] },
+  'kutna-hora': [1, 2, 3, 4, 5, 7, 6],
   znojmo: { days: [['', 1, 2, 3, 4, 6]], trips: [['포디이 국립공원|Podyjí National Park', 5]] },
   hrensko: { days: [['', 3, 2], ['프라브치츠카 문|Pravčická brána', 1]], trips: [['데친 성|Děčín Castle', 4]] },
-  telc: { days: [['', 1, 6, 2, 3, 4]], trips: [['로슈테인 성|Roštejn Castle', 5]] },
+  telc: { days: [['', 1, 6, 2, 3, 4]], trips: [['로슈테인 성|Roštejn Castle', 5], ['야로메르지체 성|Jaroměřice', 7]] },
   mikulov: { days: [['', 1, 6, 4, 3, 2]], trips: [['레드니체·발티체|Lednice–Valtice', 5], ['발티체 와인 살롱|Valtice Wine Salon', 7]] },
   brno: {
     days: [
@@ -185,7 +191,10 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   'cesky-krumlov': [2, 3, 7, 8, 5, 1, 6],
   'karlovy-vary': { days: [['', 5, 1, 4, 6, 7, 2, 8, 3]], trips: [['로켓 성|Loket Castle', 9]] },
   olomouc: { days: [['', 1, 2, 3, 4, 5]], trips: [['스바티 코페체크|Svatý Kopeček', 6], ['부조프 성|Bouzov Castle', 8], ['로슈티체 치즈 박물관|Loštice', 7]] },
-  'ceske-budejovice': { days: [['', 1, 2, 4, 5, 3]], trips: [['흘루보카 성|Hluboká Castle', 6], ['홀라쇼비체|Holašovice', 7]] },
+  'ceske-budejovice': {
+    days: [['', 1, 2, 4, 5, 3]],
+    trips: [['흘루보카 성|Hluboká Castle', 6], ['홀라쇼비체|Holašovice', 7], ['체르베나 르호타 성|Červená Lhota', 8]],
+  },
   warsaw: {
     days: [
       ['구시가와 왕의 길|Old Town & the Royal Route', 10, 1, 2, 9, 8, 11],

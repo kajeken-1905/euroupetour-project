@@ -11807,5 +11807,35 @@
     48.24884,
     11.56101,
     "OSM Nominatim: Neues Schloss Schleißheim, 1, Max-Emanuel-Platz, Lustheim, O (Wikipedia 543m)"
+  ],
+  "prague-h22": [
+    50.22363,
+    15.6676,
+    "OSM Nominatim: Zámek Hrádek u Nechanic, 66, Lubno, Nechanice, okres Hradec "
+  ],
+  "prague-h23": [
+    49.59631,
+    13.98898,
+    "OSM Nominatim: Zámek Tochovice, 174, Podtochovice, Tochovice, okres Příbram (Wikipedia 267m)"
+  ],
+  "kutna-hora-h7": [
+    49.94976,
+    15.2665,
+    "OSM Nominatim: Šultysova, Kutná Hora-Vnitřní Město, Vnitřní Město, Kutná Ho (Wikipedia 206m)"
+  ],
+  "plzen-h6": [
+    49.47874,
+    13.28532,
+    "OSM Nominatim: Vodní hrad Švihov, Žižkova, Kokšín, Švihov, okres Klatovy, P (Wikipedia 28m)"
+  ],
+  "telc-h7": [
+    49.09367,
+    15.89211,
+    "OSM Nominatim: Zámek Jaroměřice nad Rokytnou, Dobrovského, Jaroměřice nad R"
+  ],
+  "ceske-budejovice-h8": [
+    49.24654,
+    14.88536,
+    "OSM Nominatim: Červená Lhota, 12838, Záříčí, Pluhův Žďár, okres Jindřichův  (Wikipedia 10m)"
   ]
 }
