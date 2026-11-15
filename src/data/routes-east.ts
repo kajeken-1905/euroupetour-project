@@ -104,6 +104,15 @@ export const routesEast: RawRoute[] = [
   r('vilnius', 'kaunas', 'train', 75),
   r('vilnius', 'klaipeda', 'train', 240),
   r('kaunas', 'klaipeda', 'bus', 170),
+  r('vilnius', 'druskininkai', 'bus', 120),
+  r('kaunas', 'druskininkai', 'bus', 120),
+  r('klaipeda', 'nida', 'bus', 75),
+  r('klaipeda', 'palanga', 'bus', 35),
+  r('vilnius', 'palanga', 'bus', 270),
+  r('vilnius', 'siauliai', 'train', 140),
+  r('kaunas', 'siauliai', 'bus', 120),
+  r('siauliai', 'klaipeda', 'train', 120),
+  r('riga', 'siauliai', 'bus', 150),
 
   // —— hr / si ——
   r('zagreb', 'split', 'flight', 50),

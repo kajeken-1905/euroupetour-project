@@ -32,4 +32,57 @@ export const placesLTExtra: Place[] = [
   place('klaipeda-bakery-3', 'klaipeda', 'bakery', 'Bandelių kepyklėlė', 'J. Janonio g. 6, Klaipėda', '베제(BEZĖ)가 운영하는 빵집. 번과 주문 케이크를 만듭니다.', 'Bun bakery run by BEZĖ, also making cakes to order.'),
   place('klaipeda-cafe-2', 'klaipeda', 'cafe', 'Ateik Ateik', 'Vėtros g. 8, Klaipėda', '멜르나게 방파제 근처 해변의 작은 카페. 여름철에 특히 인기입니다.', 'Small beach café near the Melnragė breakwater, especially popular in summer.'),
   place('klaipeda-cafe-4', 'klaipeda', 'cafe', 'Coffee King', 'H. Manto g. 13, Klaipėda', '중심가의 아늑한 커피숍. 주말 아침 메뉴가 있고 가끔 라이브 연주가 열립니다.', 'Cosy central coffee shop with weekend breakfast and occasional live music.'),
+
+  // —— vilnius: restaurants, bakeries and cafés (2026-11-15) ——
+  place('vilnius-fine_dining-3', 'vilnius', 'fine_dining', 'Gaspar\'s', 'Pylimo g. 23-3, Vilnius', '빌뉴스의 미쉐린 빕 구르망 인도 음식 식당입니다.', 'MICHELIN Bib Gourmand Indian restaurant in Vilnius.', { michelin: 'bib' }),
+  place('vilnius-fine_dining-4', 'vilnius', 'fine_dining', 'Stebuklai', 'L. Stuokos-Gucevičiaus g. 1, Vilnius', '미쉐린 가이드에 선정된 빌뉴스의 모던 퀴진 식당입니다.', 'Listed in the MICHELIN Guide: modern cuisine restaurant in Vilnius.'),
+  place('vilnius-fine_dining-5', 'vilnius', 'fine_dining', 'Amandus', 'Užupio g. 22, Vilnius', '미쉐린 가이드에 선정된 빌뉴스의 모던 퀴진 식당입니다.', 'Listed in the MICHELIN Guide: modern cuisine restaurant in Vilnius.'),
+  place('vilnius-cafe-3', 'vilnius', 'cafe', 'Strange Love Bernardinai', 'Barboros Radvilaitės g. 6B, Vilnius', '빌뉴스의 카페. 구글 지도 평점 4.5.', 'Café in Vilnius. Rated 4.5 on Google Maps.'),
+  place('vilnius-cafe-4', 'vilnius', 'cafe', 'Italala Caffè', 'Vokiečių g. 1, Vilnius', '빌뉴스의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Vilnius. Rated 4.7 on Google Maps.'),
+  place('vilnius-cafe-5', 'vilnius', 'cafe', 'Taste Map Coffee Roasters', 'M. K. Čiurlionio g. 8, Vilnius', '빌뉴스의 커피 로스터리 카페. 구글 지도 평점 4.6.', 'Coffee roastery café in Vilnius. Rated 4.6 on Google Maps.'),
+
+  // —— klaipeda: restaurants, bakeries and cafés (2026-11-15) ——
+  place('klaipeda-fine_dining-4', 'klaipeda', 'fine_dining', 'ALBA Bistro', 'Sukilėlių g. 6, Klaipėda', '미쉐린 가이드에 선정된 클라이페다의 이탈리아 음식 식당입니다.', 'Listed in the MICHELIN Guide: Italian restaurant in Klaipėda.'),
+  place('klaipeda-bakery-4', 'klaipeda', 'bakery', 'AZUKERIA', 'Turgaus g. 11, Klaipėda', '클라이페다의 빵집. 구글 지도 평점 4.5.', 'Bakery in Klaipėda. Rated 4.5 on Google Maps.'),
+  place('klaipeda-bakery-5', 'klaipeda', 'bakery', 'Žvirblio puota', 'Liepų g. 64, Klaipėda', '클라이페다의 빵집. 구글 지도 평점 4.9.', 'Bakery in Klaipėda. Rated 4.9 on Google Maps.'),
+  place('klaipeda-cafe-5', 'klaipeda', 'cafe', 'Kavos architektai', 'H. Manto g. 9, Klaipėda', '클라이페다의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop in Klaipėda. Rated 4.7 on Google Maps.'),
+  place('klaipeda-cafe-6', 'klaipeda', 'cafe', '10 tiltų', 'Turgaus g. 19, Klaipėda', '클라이페다의 카페. 구글 지도 평점 4.6.', 'Café in Klaipėda. Rated 4.6 on Google Maps.'),
+
+  // —— siauliai: restaurants, bakeries and cafés (2026-11-15) ——
+  place('siauliai-fine_dining-1', 'siauliai', 'fine_dining', 'BOHO', 'Vilniaus g. 134, Šiauliai', '시아울랴이의 양식당. 구글 지도 평점 4.7.', 'Western restaurant in Šiauliai. Rated 4.7 on Google Maps.'),
+  place('siauliai-fine_dining-2', 'siauliai', 'fine_dining', 'Leja', 'Vilniaus g. 138, Šiauliai', '시아울랴이의 모던 유러피언 식당. 구글 지도 평점 4.6.', 'Modern European restaurant in Šiauliai. Rated 4.6 on Google Maps.'),
+  place('siauliai-fine_dining-3', 'siauliai', 'fine_dining', 'TRYS', 'Tilžės g. 63A, Šiauliai', '시아울랴이의 모던 유러피언 식당. 구글 지도 평점 4.6.', 'Modern European restaurant in Šiauliai. Rated 4.6 on Google Maps.'),
+  place('siauliai-fine_dining-4', 'siauliai', 'fine_dining', 'Žemaitis', 'Draugystės pr. 25, Šiauliai', '시아울랴이의 리투아니아 음식점. 구글 지도 평점 4.5.', 'Lithuanian restaurant in Šiauliai. Rated 4.5 on Google Maps.'),
+  place('siauliai-bakery-1', 'siauliai', 'bakery', 'Keksainė', 'Gardino g. 3, Šiauliai', '시아울랴이의 빵집. 구글 지도 평점 4.8.', 'Bakery in Šiauliai. Rated 4.8 on Google Maps.'),
+  place('siauliai-bakery-2', 'siauliai', 'bakery', 'Prezo Kepyklėlė', 'A. Mickevičiaus g. 2A, Šiauliai', '시아울랴이의 빵집. 구글 지도 평점 4.4.', 'Bakery in Šiauliai. Rated 4.4 on Google Maps.'),
+  place('siauliai-cafe-1', 'siauliai', 'cafe', 'Desertų dirbtuvės', 'Aido g. 8, Šiauliai', '시아울랴이의 디저트 가게. 구글 지도 평점 4.9.', 'Dessert shop in Šiauliai. Rated 4.9 on Google Maps.'),
+
+  // —— palanga: restaurants, bakeries and cafés (2026-11-15) ——
+  place('palanga-fine_dining-1', 'palanga', 'fine_dining', 'Monist', 'Vytauto g. 88A, Palanga', '미쉐린 가이드에 선정된 팔랑가의 모던 퀴진 식당입니다.', 'Listed in the MICHELIN Guide: modern cuisine restaurant in Palanga.'),
+  place('palanga-fine_dining-2', 'palanga', 'fine_dining', 'Palanga', 'Birutės al. 60, Palanga', '미쉐린 가이드에 선정된 팔랑가의 이탈리아 음식 식당입니다.', 'Listed in the MICHELIN Guide: Italian restaurant in Palanga.'),
+  place('palanga-fine_dining-3', 'palanga', 'fine_dining', 'Restoranas grás', 'Kęstučio g. 32, Palanga', '팔랑가의 레스토랑. 구글 지도 평점 4.5.', 'Restaurant in Palanga. Rated 4.5 on Google Maps.'),
+  place('palanga-fine_dining-4', 'palanga', 'fine_dining', 'Tepu tepu', 'Senojo Turgaus g. 19, Palanga', '팔랑가의 레스토랑. 구글 지도 평점 4.8.', 'Restaurant in Palanga. Rated 4.8 on Google Maps.'),
+  place('palanga-fine_dining-5', 'palanga', 'fine_dining', 'Šilelis GastroPub', 'Vytauto g. 112, Palanga', '팔랑가의 가스트로펍. 구글 지도 평점 4.6.', 'Gastropub in Palanga. Rated 4.6 on Google Maps.'),
+  place('palanga-bakery-1', 'palanga', 'bakery', 'Bandė', 'Jūratės g. 42A, Palanga', '팔랑가의 파티스리. 구글 지도 평점 4.7.', 'Patisserie in Palanga. Rated 4.7 on Google Maps.'),
+  place('palanga-bakery-2', 'palanga', 'bakery', 'Biržų duona', 'Vytauto g. 61, Palanga', '팔랑가의 빵집. 구글 지도 평점 4.5.', 'Bakery in Palanga. Rated 4.5 on Google Maps.'),
+  place('palanga-cafe-1', 'palanga', 'cafe', 'Fotokava Palanga', 'Vytauto g. 69, Palanga', '팔랑가의 커피숍. 구글 지도 평점 4.5.', 'Coffee shop in Palanga. Rated 4.5 on Google Maps.'),
+  place('palanga-cafe-2', 'palanga', 'cafe', 'CAFFEINE LT', 'Vytauto g. 49, Palanga', '팔랑가의 커피숍. 구글 지도 평점 4.5.', 'Coffee shop in Palanga. Rated 4.5 on Google Maps.'),
+  place('palanga-cafe-3', 'palanga', 'cafe', 'BREW Specialty Coffee', 'Vytauto g. 48, Palanga', '팔랑가의 카페. 구글 지도 평점 4.5.', 'Café in Palanga. Rated 4.5 on Google Maps.'),
+
+  // —— nida: restaurants, bakeries and cafés (2026-11-15) ——
+  place('nida-fine_dining-1', 'nida', 'fine_dining', 'Tik pas Joną', 'Naglių g. 6, Nida', '니다의 생선 요리 식당. 구글 지도 평점 4.7.', 'Fish restaurant in Nida. Rated 4.7 on Google Maps.'),
+  place('nida-fine_dining-2', 'nida', 'fine_dining', 'Malkinė', 'Naglių g. 18, Nida', '니다의 피자집. 구글 지도 평점 4.8.', 'Pizzeria in Nida. Rated 4.8 on Google Maps.'),
+  place('nida-fine_dining-3', 'nida', 'fine_dining', 'Nidos prieplauka', 'Naglių g. 16, Nida', '니다의 모던 유러피언 식당. 구글 지도 평점 4.3.', 'Modern European restaurant in Nida. Rated 4.3 on Google Maps.'),
+  place('nida-cafe-1', 'nida', 'cafe', 'Vero Cafe du broliai', 'Naglių g. 31A, Nida', '니다의 카페. 구글 지도 평점 4.4.', 'Café in Nida. Rated 4.4 on Google Maps.'),
+  place('nida-cafe-2', 'nida', 'cafe', 'Kuršis', 'Naglių g. 29, Nida', '니다의 카페 겸 바. 구글 지도 평점 4.4.', 'Café-bar in Nida. Rated 4.4 on Google Maps.'),
+
+  // —— druskininkai: restaurants, bakeries and cafés (2026-11-15) ——
+  place('druskininkai-fine_dining-1', 'druskininkai', 'fine_dining', 'NO ONION', 'M. K. Čiurlionio g. 71, Druskininkai', '드루스키닝카이의 모던 유러피언 식당. 구글 지도 평점 4.8.', 'Modern European restaurant in Druskininkai. Rated 4.8 on Google Maps.'),
+  place('druskininkai-fine_dining-2', 'druskininkai', 'fine_dining', 'Sicilia', 'M. K. Čiurlionio g. 56, Druskininkai', '드루스키닝카이의 유러피언 식당. 구글 지도 평점 4.6.', 'European restaurant in Druskininkai. Rated 4.6 on Google Maps.'),
+  place('druskininkai-fine_dining-3', 'druskininkai', 'fine_dining', 'ETNO Dvaras', 'M. K. Čiurlionio g. 55, Druskininkai', '드루스키닝카이의 리투아니아 음식점. 구글 지도 평점 4.5.', 'Lithuanian restaurant in Druskininkai. Rated 4.5 on Google Maps.'),
+  place('druskininkai-fine_dining-4', 'druskininkai', 'fine_dining', 'Restoranas LABAI', 'K. Dineikos g. 1, Druskininkai', '드루스키닝카이의 리투아니아 음식점. 구글 지도 평점 4.6.', 'Lithuanian restaurant in Druskininkai. Rated 4.6 on Google Maps.'),
+  place('druskininkai-bakery-1', 'druskininkai', 'bakery', 'Boulangerie Druskininkai', 'M. K. Čiurlionio g. 63, Druskininkai', '드루스키닝카이의 프랑스식 빵집 겸 카페. 구글 지도 평점 4.6.', 'French bakery and café in Druskininkai. Rated 4.6 on Google Maps.'),
+  place('druskininkai-cafe-1', 'druskininkai', 'cafe', 'City Coffee', 'V. Kudirkos g. 37, Druskininkai', '드루스키닝카이의 커피숍. 구글 지도 평점 4.8.', 'Coffee shop in Druskininkai. Rated 4.8 on Google Maps.'),
+  place('druskininkai-cafe-2', 'druskininkai', 'cafe', 'Caffeine Druskininkai', 'Šv. Jokūbo g. 12, Druskininkai', '드루스키닝카이의 카페. 구글 지도 평점 4.7.', 'Café in Druskininkai. Rated 4.7 on Google Maps.'),
+  place('druskininkai-cafe-3', 'druskininkai', 'cafe', 'VaJo kavinė', 'Šv. Jokūbo g. 10, Druskininkai', '드루스키닝카이의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop in Druskininkai. Rated 4.9 on Google Maps.'),
 ]

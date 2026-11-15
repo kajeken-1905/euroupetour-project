@@ -4036,3 +4036,29 @@ highlights/kaunas-3.jpg | https://commons.wikimedia.org/wiki/File:Kaunas_Castle_
 highlights/klaipeda-1.jpg | https://commons.wikimedia.org/wiki/File:Klaipeda_old_town.jpg | Public domain | &lt;squareshadow&gt;
 highlights/klaipeda-3.jpg | https://commons.wikimedia.org/wiki/File:Curonian_Spit_(130).jpg | CC BY-SA 4.0 | SofiRussia
 highlights/klaipeda-4.jpg | https://commons.wikimedia.org/wiki/File:Beach_of_smiltyne.JPG | CC BY 2.5 | Pavel Gromov (Pagan)
+cities/siauliai.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0iauliai_Cathedral_Interior_1,_%C5%A0iauliai,_Lithuania_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/siauliai-1.jpg | https://commons.wikimedia.org/wiki/File:Kry%C5%BEi%C5%B3_kalnas_(G%C3%B3ra_Krzy%C5%BCy).JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/siauliai-2.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0iauliai_cathedral.jpg | CC BY-SA 4.0 | Syrio
+highlights/siauliai-3.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0iauliai_%D0%A8%D0%B0%D1%83%D0%BB%D1%8F%D0%B9_(7)_-_panoramio.jpg | CC BY 3.0 | Aleksandrs Timofejev…
+highlights/siauliai-4.jpg | https://commons.wikimedia.org/wiki/File:Chaimas_Frenkelis_Villa_-_panoramio_(1).jpg | CC BY-SA 3.0 | Laima Gūtmane (simka…
+highlights/siauliai-5.jpg | https://commons.wikimedia.org/wiki/File:Dvira%C4%8Di%C5%B3_ir_varikli%C5%B3_gamyklos_%E2%80%9EVairas%E2%80%9C_produkcija.jpg | CC BY-SA 4.0 | IRANKIS
+cities/palanga.jpg | https://commons.wikimedia.org/wiki/File:Palanga_lurdas-svc_mergele_marija.jpg | CC BY-SA 4.0 | Topperis
+highlights/palanga-1.jpg | https://commons.wikimedia.org/wiki/File:Ti%C5%A1kevi%C4%8Diai_Palace_at_dusk,_Palanga,_Lithuania_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/palanga-2.jpg | https://commons.wikimedia.org/wiki/File:Palanga_Botanical_Park._2018(2).jpg | CC BY-SA 4.0 | Inga Tomane
+highlights/palanga-3.jpg | https://commons.wikimedia.org/wiki/File:Palanga_Pier_Sunset.jpg | CC BY 4.0 | Michael Kuhn
+highlights/palanga-4.jpg | https://commons.wikimedia.org/wiki/File:Basanavi%C4%8Diaus_gatv%C4%97_en_Palanga_2.jpg | CC BY-SA 3.0 | Thomas Pusch
+highlights/palanga-5.jpg | https://commons.wikimedia.org/wiki/File:Palanga_banner_beach.jpg | CC0 | Knutux
+cities/nida.jpg | https://commons.wikimedia.org/wiki/File:Nida_from_bird%27s-eye_view.jpg | CC BY-SA 4.0 | LinasD
+highlights/nida-1.jpg | https://commons.wikimedia.org/wiki/File:Parnidis_Dune_11.jpg | CC BY 4.0 | Derbrauni
+highlights/nida-2.jpg | https://commons.wikimedia.org/wiki/File:House_of_Thomas_Mann_in_Nida_02.jpg | CC BY-SA 4.0 | Андрей Романенко
+highlights/nida-3.jpg | https://commons.wikimedia.org/wiki/File:Nida_Fisherman%27s_Ethnographic_Homestead,_2006_(04).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/nida-4.jpg | https://commons.wikimedia.org/wiki/File:Nida_Beach_02.jpg | CC BY 4.0 | Derbrauni
+highlights/nida-5.jpg | https://commons.wikimedia.org/wiki/File:Juodkrant%C4%97_Monto_de_Sor%C4%89istinoj_Ragan%C5%B3_Kalnas_12_Naglis.jpg | CC BY-SA 3.0 | Thomas Pusch
+cities/druskininkai.jpg | https://commons.wikimedia.org/wiki/File:Druskininkai_Nemunas_04.jpg | CC BY-SA 4.0 | Zairon
+highlights/druskininkai-1.jpg | https://commons.wikimedia.org/wiki/File:Druskininkai_church.jpg | CC BY-SA 3.0 | Juste
+highlights/druskininkai-2.jpg | https://commons.wikimedia.org/wiki/File:Orthodox_church_in_Druskininkai,_Lithuania.jpg | CC BY 2.0 | Hans Põldoja from Estonia
+highlights/druskininkai-3.jpg | https://commons.wikimedia.org/wiki/File:Druskininkai_Blick_von_der_Seilbahn_auf_die_anderen_Gondeln_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/druskininkai-4.jpg | https://commons.wikimedia.org/wiki/File:Druskininkai_Aquapark_-_panoramio.jpg | CC BY 3.0 | D&amp;G photo
+highlights/druskininkai-5.jpg | https://commons.wikimedia.org/wiki/File:LT._Gr%C5%ABtas,_Antakalnio_kareiviai.jpeg | CC BY-SA 4.0 | Vilensija
+gateways/gw-plq.jpg | https://commons.wikimedia.org/wiki/File:Departure_Area_at_Palanga_Airport.jpg | CC BY-SA 4.0 | Tadas.82xx
+gateways/gw-klaipeda-port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Klaip%C4%97da,_2006_(03).jpg | CC BY-SA 4.0 | Bahnfrend

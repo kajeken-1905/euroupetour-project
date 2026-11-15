@@ -2358,6 +2358,19 @@ export const STAY: Record<string, StayArea[]> = {
   klaipeda: [
     a('구시가 (극장 광장 주변)', 'Old town (Theatre Square)', 'Theatre Square, Klaipėda', '걸어서 구경|Sights on foot', '극장 광장과 다네강 변, 성터가 걸어서 닿습니다. 쿠르시우 사주의 니다는 50km 떨어져 따로 묵는 편이 낫습니다.|Theatre Square, the Danė riverside and the castle site on foot; Nida on the Curonian Spit is 50 km away and better as its own stay.'),
   ],
+  siauliai: [
+    a('시내 중심', 'City centre', 'Šiauliai centre', '교통이 편한 곳|Convenient', '역과 버스터미널, 대성당이 걸어서 가깝습니다.|The station, bus station and cathedral are all within walking distance.'),
+  ],
+  palanga: [
+    a('바사나비추스 거리 주변', 'Around J. Basanavičius Street', 'J. Basanavičiaus gatvė Palanga', '걸어서 다 보기|Everything on foot', '해변과 해상 다리, 식당이 걸어서 가깝고 호박 박물관까지 15분 안팎입니다.|Close to the beach, pier and restaurants, about 15 minutes’ walk from the amber museum.'),
+  ],
+  nida: [
+    a('니다 마을', 'Nida village', 'Nida', '걸어서 다 보기|Everything on foot', '석호 쪽 마을에 숙소가 모여 있고, 사구와 해변까지 걷거나 자전거로 갑니다.|Places to stay cluster in the lagoon-side village, with the dune and beach a walk or bike ride away.'),
+    a('클라이페다에서 다녀오기', 'Base in Klaipėda', 'Klaipėda', '당일치기|Day trip', '페리와 버스로 약 1시간 15분이라 하루에 다녀올 수 있습니다.|About 1 hr 15 min by ferry and bus, so it works as a day trip.'),
+  ],
+  druskininkai: [
+    a('시내 중심과 강변', 'Centre & riverside', 'Druskininkai centre', '걸어서 다 보기|Everything on foot', '버스터미널과 공원, 아쿠아 파크, 케이블카가 걸어서 가깝습니다.|The bus station, park, water park and cable car are all within walking distance.'),
+  ],
   chisinau: [
     a('시내 중심 (슈테판 첼 마레 거리)', 'Centre (Ștefan cel Mare boulevard)', 'Ștefan cel Mare boulevard, Chișinău', '걸어서 구경|Sights on foot', '대성당과 슈테판 대공 공원, 오페라 극장, 카페·바가 가깝습니다.|Close to the cathedral, Ștefan cel Mare park, the opera and cafés.'),
   ],

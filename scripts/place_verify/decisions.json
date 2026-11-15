@@ -7931,10 +7931,12 @@
 "ok": 1
 },
 "klaipeda-bakery-4": {
-"del": "Gabalėlis torto Klaipėda not found in any source"
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
 },
 "klaipeda-bakery-5": {
-"del": "La Farine: no source places it at H. Manto 23"
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
 },
 "klaipeda-cafe-1": {
 "del": "Vanilės namai: operating company in bankruptcy, H. Manto 9 unconfirmed"
@@ -7954,7 +7956,8 @@
 "ok": 1
 },
 "klaipeda-cafe-5": {
-"del": "Musangas at Liepų 64 not found in any source"
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
 },
 "klaipeda-fine_dining-1": {
 "en": "Modern-cuisine restaurant listed in the MICHELIN Guide.",
@@ -21579,5 +21582,157 @@
 "daugavpils-cafe-3": {
 "ok": 1,
 "src": "2026-11-14 google maps / michelin guide"
+},
+"vilnius-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"vilnius-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"vilnius-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"vilnius-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"vilnius-cafe-4": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"vilnius-cafe-5": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"klaipeda-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"klaipeda-cafe-6": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"siauliai-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"palanga-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"nida-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"nida-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"nida-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"nida-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"nida-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
+},
+"druskininkai-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps / michelin guide"
 }
 }

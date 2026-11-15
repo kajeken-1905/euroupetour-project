@@ -335,6 +335,10 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     days: [['', 2, 1, 7, 6, 5, 8]],
     trips: [['스밀티네·쿠로니아 사주|Smiltynė & Curonian Spit', 4, 9, 3]],
   },
+  siauliai: { days: [['', 2, 3, 4, 5]], trips: [['십자가 언덕|Hill of Crosses', 1]] },
+  palanga: { days: [['', 1, 2, 5, 4, 3]] },
+  nida: { days: [['', 3, 2, 1, 4]], trips: [['마녀의 언덕|Hill of Witches', 5]] },
+  druskininkai: { days: [['', 1, 2, 3, 4]], trips: [['그루타스 공원|Grūtas Park', 5]] },
   // Faroe Islands, Greenland, Russia and Belarus
   torshavn: { days: [['', 1, 2, 3]], trips: [['키르큐보우르|Kirkjubøur', 4]] },
   vagar: { days: [['', 1, 2]], trips: [['미키네스섬|Mykines', 3]] },

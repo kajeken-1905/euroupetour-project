@@ -11122,5 +11122,85 @@
     54.89814,
     23.90447,
     "OSM Nominatim: 102, Laisvės al., Naujamiestis, Centro seniūnija, Kaunas, Ka (Wikipedia 10m)"
+  ],
+  "siauliai-h1": [
+    56.01503,
+    23.41568,
+    "OSM Nominatim: Kryžių kalnas, Piliakalnio g., Domantai, Meškuičių seniūnija (Wikipedia 67m)"
+  ],
+  "siauliai-h4": [
+    55.92547,
+    23.32859,
+    "OSM Nominatim: Chaimo Frenkelio vila, 74, Vilniaus g., Kompelis, Šiauliai, "
+  ],
+  "siauliai-h5": [
+    55.92837,
+    23.31985,
+    "OSM Nominatim: Dviračių muziejus, 139, Vilniaus g., Senamiestis, Šiauliai,  (Wikipedia 587m)"
+  ],
+  "palanga-h1": [
+    55.90683,
+    21.05577,
+    "OSM Nominatim: Gintaro muziejus, 17, Vytauto g., Palanga, Palangos miesto s"
+  ],
+  "palanga-h2": [
+    55.90567,
+    21.05302,
+    "OSM Nominatim: Birutės kalnas, Palanga, Palangos miesto savivaldybė, Klaipė"
+  ],
+  "palanga-h3": [
+    55.91988,
+    21.05035,
+    "OSM Nominatim: Palangos tiltas, J. Basanavičiaus g., Vanagupė, Palanga, Pal (Wikipedia 268m)"
+  ],
+  "palanga-h4": [
+    55.91838,
+    21.05877,
+    "OSM Nominatim: J. Basanavičiaus g., Vanagupė, Palanga, Palangos miesto savi (Wikipedia 528m)"
+  ],
+  "nida-h1": [
+    55.29493,
+    20.99064,
+    "OSM Nominatim: Parnidžio kopa, Neringa, Neringos savivaldybė, Klaipėdos aps (Wikipedia 0m)"
+  ],
+  "nida-h3": [
+    55.30152,
+    21.00621,
+    "OSM Nominatim: Žvejo etnografinė sodyba, 4, Naglių g., Nida, Neringa, Nerin (Wikipedia 206m)"
+  ],
+  "nida-h5": [
+    55.53761,
+    21.10918,
+    "OSM Nominatim: Raganų kalnas, Neringa, Neringos savivaldybė, Klaipėdos apsk (Wikipedia 375m)"
+  ],
+  "druskininkai-h2": [
+    54.02118,
+    23.97117,
+    "OSM Nominatim: Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsma (Wikipedia 581m)"
+  ],
+  "druskininkai-h3": [
+    54.02359,
+    23.9727,
+    "OSM Nominatim: Druskininkų lynų kelias, Maironio g., Senamiestis, Druskinin (Wikipedia 865m)"
+  ],
+  "druskininkai-h4": [
+    54.02342,
+    23.97453,
+    "OSM Nominatim: Druskininkų Vandens Parkas, 13, Vilniaus al., Senamiestis, D (Wikipedia 910m)"
+  ],
+  "druskininkai-h5": [
+    54.02185,
+    24.0802,
+    "OSM Nominatim: Grūto parkas, Parko g., Grūtas, Viečiūnų seniūnija, Druskini (Wikipedia 80m)"
+  ],
+  "siauliai-h2": [
+    55.93271,
+    23.31996,
+    "OSM Nominatim: Šiaulių Šv. apaštalų Petro ir Pauliaus katedra, 1, Aušros ta"
+  ],
+  "druskininkai-h1": [
+    54.01727,
+    23.97466,
+    "OSM Nominatim: Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia, 1,  (Wikipedia 527m)"
   ]
 }

@@ -293,6 +293,23 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Klaipėdos autobusų stotis', '클라이페다 버스터미널']],
     port: [['Senoji perkėla (Old Ferry Terminal)', '구 페리터미널', '쿠로니아 사주행 배|ferry to the Curonian Spit']],
   },
+  siauliai: {
+    air: [['Vilnius (VNO)', '빌뉴스 공항 (VNO)', '빌뉴스|Vilnius'], RIX()],
+    rail: [['Šiaulių geležinkelio stotis', '시아울랴이역']],
+    bus: [['Šiaulių autobusų stotis', '시아울랴이 버스터미널']],
+  },
+  palanga: {
+    air: [['Palanga (PLQ)', '팔랑가 공항 (PLQ)', '팔랑가|Palanga']],
+    bus: [['Palangos autobusų stotis', '팔랑가 버스터미널', '여객 철도 없음|no passenger railway']],
+  },
+  nida: {
+    air: [['Palanga (PLQ)', '팔랑가 공항 (PLQ)', '팔랑가|Palanga']],
+    bus: [['Nidos autobusų stotis', '니다 버스정류장', '클라이페다에서 페리 건너 버스|bus from Klaipėda via the ferry']],
+  },
+  druskininkai: {
+    air: [['Vilnius (VNO)', '빌뉴스 공항 (VNO)', '빌뉴스|Vilnius']],
+    bus: [['Druskininkų autobusų stotis', '드루스키닝카이 버스터미널', '여객 철도 없음|no passenger railway']],
+  },
 
   // —— hr ——
   zagreb: {

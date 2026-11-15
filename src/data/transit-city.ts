@@ -6564,6 +6564,42 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt', { ko: '우버보다 잘 잡힘', en: 'Usually more cars than Uber' }),
     ],
   },
+  siauliai: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 십자가 언덕은 시외버스나 택시로 갑니다.',
+      en: 'Walk the centre; take an intercity bus or a taxi to the Hill of Crosses.',
+    },
+    apps: [
+    ],
+  },
+  palanga: {
+    modes: ['walk', 'bus', 'bike', 'taxi'],
+    howTo: {
+      ko: '작은 휴양지라 걸어서 다니거나 자전거를 빌립니다. 클라이페다와는 버스로 오갑니다.',
+      en: 'A small resort best on foot or by bike; buses link it with Klaipėda.',
+    },
+    apps: [
+    ],
+  },
+  nida: {
+    modes: ['walk', 'bus', 'bike', 'taxi'],
+    howTo: {
+      ko: '마을 안은 걸어서 다니고, 사구와 해변은 자전거를 빌려 다니기 좋습니다. 클라이페다에서 페리를 건너 버스로 옵니다.',
+      en: 'Walk the village and hire a bike for the dunes and beach; reach it from Klaipėda by ferry and bus.',
+    },
+    apps: [
+    ],
+  },
+  druskininkai: {
+    modes: ['walk', 'bus', 'bike', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다니거나 자전거를 빌립니다. 빌뉴스·카우나스와는 버스로 오갑니다.',
+      en: 'A small town best on foot or by bike; buses link it with Vilnius and Kaunas.',
+    },
+    apps: [
+    ],
+  },
   // —— hr ——
   zagreb: {
     modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
