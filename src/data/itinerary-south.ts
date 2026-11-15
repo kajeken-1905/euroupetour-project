@@ -145,11 +145,39 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   pamukkale: [1, 4, 5, 3, 2],
-  sofia: { days: [['', 3, 2, 6, 1]], trips: [['보야나 교회와 비토샤 산|Boyana Church & Vitosha', 4, 5]] },
-  plovdiv: [3, 4, 1, 2, 5],
-  varna: [4, 3, 5, 1, 2],
-  'veliko-tarnovo': { days: [['', 4, 2, 3, 1]], trips: [['아르바나시|Arbanasi', 5]] },
-  nessebar: [3, 5, 1, 2, 4],
+  sofia: {
+    days: [
+      ['중심가 동쪽|East of the centre', 1, 7, 8, 6, 2],
+      ['중심가 서쪽|West of the centre', 10, 9, 11, 3],
+      ['남부·비토샤|South & Vitosha', 12, 4, 5],
+    ],
+    trips: [['릴라 수도원|Rila Monastery', 13]],
+  },
+  plovdiv: {
+    days: [
+      ['', 5, 8, 7, 2, 1],
+      ['', 4, 6, 3],
+    ],
+    trips: [['바치코보 수도원|Bachkovo Monastery', 9]],
+  },
+  varna: {
+    days: [['', 4, 5, 6, 3, 1, 2]],
+    trips: [
+      ['알라자 수도원|Aladzha Monastery', 7],
+      ['포비티 카마니|Pobiti Kamani', 8],
+    ],
+  },
+  'veliko-tarnovo': {
+    days: [
+      ['', 1, 3, 7],
+      ['', 6, 2, 4],
+    ],
+    trips: [
+      ['아르바나시|Arbanasi', 5],
+      ['에타르 민속 마을|Etar', 8],
+    ],
+  },
+  nessebar: { days: [['', 3, 1, 6, 7, 2, 5, 4]] },
   bucharest: {
     days: [
       ['구시가·의회궁|Old Town & Parliament', 1, 12, 2, 7, 8],

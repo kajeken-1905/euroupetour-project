@@ -4137,3 +4137,32 @@ cities/constanta.jpg | https://commons.wikimedia.org/wiki/File:Cazinoul_din_Cons
 gateways/gw-ias.jpg | https://commons.wikimedia.org/wiki/File:Romania_Ia%C8%99i_Airport_Flagman_Directs_Pilot_(Stop).jpg | CC BY 4.0 | Alexander Klink
 gateways/gw-scv.jpg | https://commons.wikimedia.org/wiki/File:Aeroportul_Suceava1.jpg | Public domain | Musichistory2009 at ro.wikipedia; transferred to Commons by
 gateways/gw-cnd.jpg | https://commons.wikimedia.org/wiki/File:Mihail_Kog%C4%83lniceanu_International_Airport,_1996.jpg | Public domain | TSgt. Russ Pollanen
+highlights/sofia-7.jpg | https://www.flickr.com/photos/45457437@N00/47329358511 | BY 2.0 | David Jones
+highlights/sofia-8.jpg | https://commons.wikimedia.org/wiki/File:Sveta_Sofia_Church,_Sofia_(P1070749).jpg | CC BY-SA 4.0 | Matti Blume
+highlights/sofia-9.jpg | https://www.flickr.com/photos/158619309@N03/37849692391 | BY 2.0 | deensel
+highlights/sofia-10.jpg | https://commons.wikimedia.org/wiki/File:Ancient_Cultural_and_Communication_Complex_Serdica,_Sofia,_Bulgaria_(15).jpg | CC BY-SA 4.0 | TodorBelomorski
+highlights/sofia-11.jpg | https://commons.wikimedia.org/wiki/File:Sofia_Public_Mineral_Baths_(Sofia,_Bulgaria).jpg | CC BY-SA 4.0 | Jaimrsilva
+highlights/sofia-12.jpg | https://commons.wikimedia.org/wiki/File:Sofia_-_National_Museum_of_History.jpg | CC BY 2.0 | Ann Wuyts
+highlights/sofia-13.jpg | https://commons.wikimedia.org/wiki/File:Rila_Monastery,_August_2013.jpg | CC BY-SA 3.0 | Raggatt2000
+highlights/plovdiv-6.jpg | https://commons.wikimedia.org/wiki/File:Dzhumayata.jpg | CC BY-SA 3.0 | Ivelin Vraykov
+highlights/plovdiv-8.jpg | https://commons.wikimedia.org/wiki/File:Hisar_kapia,_Plovdiv,_Bulgaria.jpg | CC BY-SA 3.0 | VladislavNedelev
+highlights/plovdiv-9.jpg | https://www.flickr.com/photos/132862914@N04/24335900367 | BY-SA 2.0 | Balcon del Mundo
+highlights/varna-6.jpg | https://commons.wikimedia.org/wiki/File:Etnografisch_Museum.jpg | CC BY-SA 3.0 | Ilonamay
+highlights/varna-7.jpg | https://commons.wikimedia.org/wiki/File:Aladzha_Monastery-01.JPG | CC BY-SA 4.0 | www.vacacionesbulgaria.com
+highlights/varna-8.jpg | https://commons.wikimedia.org/wiki/File:Bosque_de_Piedra,_provincia_de_Varna,_Bulgaria,_2016-05-27,_DD_73.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/veliko-tarnovo-6.jpg | https://commons.wikimedia.org/wiki/File:Veliko_Tarnovo_Gourko_street_002.JPG | Public domain | Kandi
+highlights/veliko-tarnovo-7.jpg | https://commons.wikimedia.org/wiki/File:20140621_Veliko_Tarnovo_020.jpg | CC BY-SA 4.0 | Mark Ahsmann
+highlights/veliko-tarnovo-8.jpg | https://commons.wikimedia.org/wiki/File:Etar_Architectural-Ethnographic_Complex_(32128258434).jpg | CC BY-SA 2.0 | www.bdmundo.com
+highlights/nessebar-6.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Stephen_in_Nesebar,_outer_walls_07.jpg | CC BY-SA 4.0 | Kritzolina
+highlights/nessebar-7.jpg | https://commons.wikimedia.org/wiki/File:Pantokrator_church_in_Nessebar_(Bulgaria).jpg | CC BY-SA 3.0 | Raphaël Toussaint
+highlights/sofia-3.jpg | https://commons.wikimedia.org/wiki/File:Vitosha_Blvd..jpg | CC BY 2.0 | teodorpk
+highlights/sofia-5.jpg | https://commons.wikimedia.org/wiki/File:Cherni_Vrah_Vitosha_05.jpg | CC BY-SA 4.0 | Иван
+highlights/plovdiv-4.jpg | https://www.flickr.com/photos/22490717@N02/7432845478 | BY-SA 2.0 | archer10 (Dennis)
+highlights/veliko-tarnovo-2.jpg | https://commons.wikimedia.org/wiki/File:Bulgaria_Bulgaria-1019_-_Samovodska_Charshiya_Street_(7433586992).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+highlights/veliko-tarnovo-3.jpg | https://commons.wikimedia.org/wiki/File:SS.Forty_Martyrs_Church_(Veliko_Tarnovo)_E3.jpg | CC BY-SA 3.0 | Elena Chochkova
+highlights/veliko-tarnovo-4.jpg | https://www.flickr.com/photos/9508280@N07/48655841133 | BY-SA 2.0 | Dan Lundberg
+highlights/veliko-tarnovo-5.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Georges,_Arbanasi,_Naos,_abside.jpg | CC BY-SA 4.0 | Hugo Rota
+highlights/nessebar-2.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sophia_in_Nesebar_(by_Pudelek).JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/nessebar-4.jpg | https://www.flickr.com/photos/142545996@N08/28794649846 | BY 2.0 | EnnyKoeva
+highlights/nessebar-5.jpg | https://commons.wikimedia.org/wiki/File:Nessebar_Museum_10.jpg | CC0 | Ридиславоз
+highlights/plovdiv-7.jpg | https://commons.wikimedia.org/wiki/File:Bulgaria_Bulgaria-0743_-_Plovdiv_Regional_Ethnographic_Museum_(7432394622).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
