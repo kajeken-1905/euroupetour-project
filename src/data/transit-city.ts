@@ -7244,6 +7244,69 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('flixbus'),
     ],
   },
+  burgas: {
+    modes: ['walk', 'bus', 'taxi', 'train'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 공항과 해안 휴양지는 버스로 오갑니다.',
+      en: 'Walk the centre; buses link the airport and the coastal resorts.',
+    },
+    apps: [
+    ],
+  },
+  sozopol: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다니고, 부르가스와는 버스로 오갑니다.',
+      en: 'A small town best on foot; buses link it with Burgas.',
+    },
+    apps: [
+    ],
+  },
+  bansko: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 겨울엔 스키 셔틀이 곤돌라까지 다닙니다.',
+      en: 'Walk the town; in winter ski shuttles run to the gondola.',
+    },
+    apps: [
+    ],
+  },
+  koprivshtitsa: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 기차역은 열차 시간에 맞춘 버스로 오갑니다.',
+      en: 'Walk the village; a bus timed to the trains links the station.',
+    },
+    apps: [
+    ],
+  },
+  melnik: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 산단스키에서 버스가 들어옵니다. 로젠은 차나 도보로 갑니다.',
+      en: 'Walk the village; buses come in from Sandanski, and Rozhen is reached by car or on foot.',
+    },
+    apps: [
+    ],
+  },
+  kazanlak: {
+    modes: ['walk', 'bus', 'taxi', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 쉽카는 버스나 택시로 갑니다.',
+      en: 'Walk the town; take a bus or taxi to Shipka.',
+    },
+    apps: [
+    ],
+  },
+  ruse: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 기차역은 버스나 트롤리버스로 오갑니다.',
+      en: 'Walk the centre; buses and trolleybuses run to the station.',
+    },
+    apps: [
+    ],
+  },
   // —— ro ——
   bucharest: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],

@@ -1465,12 +1465,12 @@ export const countries: Country[] = [
       background: '#E8F6F1',
       text: '#0A2A20',
     },
-    cityIds: ['sofia', 'plovdiv', 'veliko-tarnovo', 'varna', 'nessebar'],
+    cityIds: ['sofia', 'bansko', 'koprivshtitsa', 'melnik', 'plovdiv', 'kazanlak', 'veliko-tarnovo', 'ruse', 'varna', 'nessebar', 'burgas', 'sozopol'],
     cityGroups: [
-      { title: { ko: '소피아·서부', en: 'Sofia & west' }, cityIds: ['sofia'] },
-      { title: { ko: '남부', en: 'South' }, cityIds: ['plovdiv'] },
-      { title: { ko: '북부', en: 'North' }, cityIds: ['veliko-tarnovo'] },
-      { title: { ko: '흑해', en: 'Black Sea' }, cityIds: ['varna', 'nessebar'] },
+      { title: { ko: '소피아·서부', en: 'Sofia & west' }, cityIds: ['sofia', 'bansko', 'koprivshtitsa', 'melnik'] },
+      { title: { ko: '남부', en: 'South' }, cityIds: ['plovdiv', 'kazanlak'] },
+      { title: { ko: '북부', en: 'North' }, cityIds: ['veliko-tarnovo', 'ruse'] },
+      { title: { ko: '흑해', en: 'Black Sea' }, cityIds: ['varna', 'nessebar', 'burgas', 'sozopol'] },
     ],
   },
   {

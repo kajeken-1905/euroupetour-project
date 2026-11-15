@@ -642,6 +642,39 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Burgas (BOJ)', '부르가스 공항 (BOJ)', '부르가스|Burgas']],
     rail: [['Burgas', '부르가스역', '부르가스 · 네세바르엔 역 없음|Burgas · no station in Nesebar']],
   },
+  burgas: {
+    air: [['Burgas (BOJ)', '부르가스 공항 (BOJ)']],
+    rail: [['Burgas', '부르가스역']],
+    bus: [['Avtogara Yug Burgas', '부르가스 남부 버스터미널', '기차역 옆|next to the rail station']],
+  },
+  sozopol: {
+    air: [['Burgas (BOJ)', '부르가스 공항 (BOJ)', '부르가스|Burgas']],
+    bus: [['Avtogara Sozopol', '소조폴 버스터미널', '철도 없음|no railway']],
+  },
+  bansko: {
+    air: [['Sofia (SOF)', '소피아 공항 (SOF)', '소피아|Sofia']],
+    rail: [['Bansko', '반스코역', '셉템브리발 협궤 열차|narrow-gauge line from Septemvri']],
+    bus: [['Avtogara Bansko', '반스코 버스터미널']],
+  },
+  koprivshtitsa: {
+    air: [['Sofia (SOF)', '소피아 공항 (SOF)', '소피아|Sofia']],
+    rail: [['Koprivshtitsa', '코프리브시티차역', '마을에서 약 9km, 열차 시간에 맞춰 버스 연결|about 9 km from the village, bus timed to trains']],
+    bus: [['Avtogara Koprivshtitsa', '코프리브시티차 버스터미널']],
+  },
+  melnik: {
+    air: [['Sofia (SOF)', '소피아 공항 (SOF)', '소피아|Sofia']],
+    bus: [['Melnik bus stop', '멜니크 버스 정류장', '산단스키에서 버스|buses from Sandanski']],
+  },
+  kazanlak: {
+    air: [['Sofia (SOF)', '소피아 공항 (SOF)', '소피아|Sofia']],
+    rail: [['Kazanlak', '카잔루크역']],
+    bus: [['Avtogara Kazanlak', '카잔루크 버스터미널']],
+  },
+  ruse: {
+    air: [['București Henri Coandă (OTP)', '부쿠레슈티 오토페니 공항 (OTP)', '부쿠레슈티 · 약 75km|Bucharest · about 75 km'], ['Sofia (SOF)', '소피아 공항 (SOF)', '소피아|Sofia']],
+    rail: [['Ruse', '루세역']],
+    bus: [['Avtogara Yug Ruse', '루세 남부 버스터미널', '기차역 옆|next to the rail station']],
+  },
 
   // —— ro ——
   bucharest: {

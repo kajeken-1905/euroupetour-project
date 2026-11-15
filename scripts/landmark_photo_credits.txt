@@ -4166,3 +4166,45 @@ highlights/nessebar-2.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Sa
 highlights/nessebar-4.jpg | https://www.flickr.com/photos/142545996@N08/28794649846 | BY 2.0 | EnnyKoeva
 highlights/nessebar-5.jpg | https://commons.wikimedia.org/wiki/File:Nessebar_Museum_10.jpg | CC0 | Ридиславоз
 highlights/plovdiv-7.jpg | https://commons.wikimedia.org/wiki/File:Bulgaria_Bulgaria-0743_-_Plovdiv_Regional_Ethnographic_Museum_(7432394622).jpg | CC BY-SA 2.0 | Dennis G. Jarvis
+cities/burgas.jpg | https://commons.wikimedia.org/wiki/File:Burgas_Bulgarien_PD_2011_13.JPG | CC BY-SA 3.0 | Bin im Garten
+highlights/burgas-1.jpg | https://commons.wikimedia.org/wiki/File:Sea_Garden,_Burgas_-_fountain_2007.jpg | CC BY 3.0 pl | Radosław Botev
+highlights/burgas-2.jpg | https://commons.wikimedia.org/wiki/File:Crno_more_-_panoramio_(2).jpg | CC BY 3.0 | Mister No
+highlights/burgas-3.jpg | https://commons.wikimedia.org/wiki/File:Burgas_Cathedral_2018-05-14_01.jpg | CC BY-SA 3.0 | Alicia Fagerving
+highlights/burgas-4.jpg | https://commons.wikimedia.org/wiki/File:Burgas_Bulgarien_PD_2011_07.JPG | CC BY-SA 3.0 | Bin im Garten
+highlights/burgas-5.jpg | https://commons.wikimedia.org/wiki/File:St._Anastasia_Island_(%D0%BE-%D0%B2_%D0%A1%D0%B2%D0%B5%D1%82%D0%B0_%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F)_-_Burgas,_Bulgaria_-7-2017_(247).jpg | CC BY-SA 4.0 | EvelinaRibarova
+cities/sozopol.jpg | https://www.flickr.com/photos/70058529@N00/3206803991 | BY 2.0 | Михал Орела
+highlights/sozopol-1.jpg | https://www.flickr.com/photos/75838976@N07/7449908228 | BY 2.0 | Stanislav Trifonov
+highlights/sozopol-2.jpg | https://commons.wikimedia.org/wiki/File:Sozopol_Archaeological_Museum,_acquisition_of_documentation,_Sozm20.jpg | CC BY-SA 4.0 | Zde
+highlights/sozopol-3.jpg | https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B0%D1%81%D1%82_%D0%BE%D1%82_%D1%8E%D0%B6%D0%BD%D0%B0_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%BD%D0%B0_%D1%81%D1%82%D0%B5%D0%BD%D0%B0_-_%D0%A1%D0%BE%D0%B7%D0%BE%D0%BF%D0%BE%D0%BB.JPG | CC BY-SA 4.0 | Zlatimir23
+highlights/sozopol-4.jpg | https://commons.wikimedia.org/wiki/File:Saints_Cyril_and_Methodius_Church_Tower_-_Sozopol.jpg | CC BY-SA 3.0 | MrPanyGoff
+highlights/sozopol-5.jpg | https://commons.wikimedia.org/wiki/File:Ropotamo_beach.jpg | CC BY-SA 4.0 | Sinkuchi
+cities/bansko.jpg | https://commons.wikimedia.org/wiki/File:Bansko_ski_2025_19.jpg | CC BY-SA 4.0 | kallerna
+highlights/bansko-1.jpg | https://www.flickr.com/photos/8521690@N02/12908763283 | BY 2.0 | summonedbyfells
+highlights/bansko-2.jpg | https://commons.wikimedia.org/wiki/File:St_Troica_-_Bansko.jpeg | CC BY-SA 4.0 | SokratX
+highlights/bansko-3.jpg | https://commons.wikimedia.org/wiki/File:House-museum_of_Nikola_Vaptsarov_svik.JPG | CC BY-SA 3.0 | Svilen Enev
+highlights/bansko-4.jpg | https://commons.wikimedia.org/wiki/File:Gondeln_im_Wald_im_s%C3%BCdlichen_Teil_des_Wintersportortes_Bansko,_Bulgarien_(2025).jpg | CC BY 4.0 | Brataffe
+highlights/bansko-5.jpg | https://commons.wikimedia.org/wiki/File:Pirin_-_Vihren_peak.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+cities/koprivshtitsa.jpg | https://www.flickr.com/photos/8383084@N06/4302545210 | BY 2.0 | Klearchos Kapoutsis
+highlights/koprivshtitsa-1.jpg | https://commons.wikimedia.org/wiki/File:Oslekov_House_002.jpg | CC BY-SA 4.0 | Vislupus
+highlights/koprivshtitsa-2.jpg | https://commons.wikimedia.org/wiki/File:Lyutov_House_001.jpg | CC BY-SA 4.0 | Vislupus
+highlights/koprivshtitsa-3.jpg | https://commons.wikimedia.org/wiki/File:Kableshkov_House_003.jpg | CC BY-SA 4.0 | Vislupus
+highlights/koprivshtitsa-4.jpg | https://www.flickr.com/photos/8383084@N06/4302567140 | BY 2.0 | Klearchos Kapoutsis
+highlights/koprivshtitsa-5.jpg | https://commons.wikimedia.org/wiki/File:Brug_van_het_eerste_schot_-_Koprivshtitsa_(4759742960).jpg | CC BY 2.0 | Esther Westerveld from Haarlemmermeer, Nederland
+cities/melnik.jpg | https://commons.wikimedia.org/wiki/File:Melnik_kz09.jpg | CC BY-SA 4.0 | Krzysztof Ziarnek, Kenraiz
+highlights/melnik-1.jpg | https://commons.wikimedia.org/wiki/File:The_Kordopulov_House_031.jpg | CC BY-SA 4.0 | Vislupus
+highlights/melnik-2.jpg | https://commons.wikimedia.org/wiki/File:Melnik_Pyramids_near_Karlanovo_-_kopie.jpg | CC BY-SA 4.0 | Dreamsdestroyer
+highlights/melnik-3.jpg | https://www.flickr.com/photos/94361969@N00/2426902245 | BY 2.0 | alex.lovelltroy
+highlights/melnik-4.jpg | https://commons.wikimedia.org/wiki/File:Church_of_St_Nicholas_Melnik_Klearchos_2.jpg | CC BY 2.0 | Klearchos Kapoutsis from Santorini, Greece
+highlights/melnik-5.jpg | https://commons.wikimedia.org/wiki/File:Rozhen_Monastery_001.jpg | CC BY-SA 4.0 | Vislupus
+cities/kazanlak.jpg | https://www.flickr.com/photos/8383084@N06/2711751884 | BY 2.0 | Klearchos Kapoutsis
+highlights/kazanlak-1.jpg | https://commons.wikimedia.org/wiki/File:Kazanlak-tomb_1.jpg | Public domain | Izvora
+highlights/kazanlak-2.jpg | https://commons.wikimedia.org/wiki/File:Mask_of_Teres_I_in_Iskra_museum.jpg | CC BY 4.0 | Galileo01
+highlights/kazanlak-3.jpg | https://commons.wikimedia.org/wiki/File:Kazan%C5%82yk_H17-43.jpg | CC BY-SA 3.0 | Roweromaniak
+highlights/kazanlak-4.jpg | https://commons.wikimedia.org/wiki/File:Kazan%C5%82yk_H17-29.jpg | CC BY-SA 3.0 | Roweromaniak
+highlights/kazanlak-5.jpg | https://commons.wikimedia.org/wiki/File:ShipkaMemorialChurch_0774.jpg | CC BY-SA 3.0 | QuartierLatin1968
+cities/ruse.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_San_Pablo_de_la_Cruz,_Ruse,_Bulgaria,_2016-05-27,_DD_11-13_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/ruse-1.jpg | https://commons.wikimedia.org/wiki/File:The_Monument_of_Liberty_on_the_Freedom_square.jpg | CC BY-SA 4.0 | StefkaVasileva
+highlights/ruse-2.jpg | https://commons.wikimedia.org/wiki/File:Detail_of_Silver_Jug_Showing_Wedding_of_Dionysus_and_Ariadne_-_Borovo_Treasure_-_Regional_Historical_Museum_-_Ruse_-_Bulgaria_-_03_(28177808927).jpg | CC BY-SA 2.0 | Adam Jones from Kelowna, BC, Canada
+highlights/ruse-3.jpg | https://commons.wikimedia.org/wiki/File:Alexandrovska_Street_Ruse.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/ruse-4.jpg | https://commons.wikimedia.org/wiki/File:Puerto_de_Ruse,_Bulgaria,_2016-05-27,_DD_06.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/ruse-5.jpg | https://commons.wikimedia.org/wiki/File:Frescoes_of_saints_in_the_Ivanovo_rock_churches_-_autumn_2016.jpg | CC BY-SA 4.0 | Delysia v

@@ -178,6 +178,13 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   nessebar: { days: [['', 3, 1, 6, 7, 2, 5, 4]] },
+  burgas: { days: [['', 4, 3, 1, 2]], trips: [['성 아나스타시아섬|St Anastasia Island', 5]] },
+  sozopol: { days: [['', 1, 3, 2, 4]], trips: [['로포타모강|Ropotamo River', 5]] },
+  bansko: { days: [['', 1, 2, 3, 4]], trips: [['피린 국립공원|Pirin National Park', 5]] },
+  koprivshtitsa: { days: [['', 5, 1, 2, 4, 3]] },
+  melnik: { days: [['', 1, 3, 4, 2]], trips: [['로젠 수도원|Rozhen Monastery', 5]] },
+  kazanlak: { days: [['', 1, 2, 3, 4]], trips: [['쉽카 기념 교회|Shipka Memorial Church', 5]] },
+  ruse: { days: [['', 1, 3, 2, 4]], trips: [['이바노보 바위 교회|Ivanovo Rock Churches', 5]] },
   bucharest: {
     days: [
       ['구시가·의회궁|Old Town & Parliament', 1, 12, 2, 7, 8],

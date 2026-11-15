@@ -2136,6 +2136,29 @@ export const STAY: Record<string, StayArea[]> = {
     a('신시가 (뉴 네세바르)', 'New Nessebar', 'New Nessebar', '가족 여행|Families', '넓은 호텔과 모래 해변, 식당이 많습니다.|Roomier hotels, sandy beaches and plenty of restaurants.'),
     a('선니 비치', 'Sunny Beach', 'Sunny Beach, Bulgaria', '밤 문화|Nightlife', '해변 클럽과 바가 모여 있습니다. 구시가 항구에서 수상 택시로 10분쯤입니다.|Beach clubs and bars; about 10 minutes by water taxi from the old town harbour.'),
   ],
+  burgas: [
+    a('중심가 (알렉산드로프스카 거리 주변)', 'Centre (Aleksandrovska Street)', 'Aleksandrovska Street Burgas', '걸어서 다 보기|Everything on foot', '기차역·버스터미널과 해변 공원이 걸어서 가깝습니다.|The station, bus station and Sea Garden are all within walking distance.'),
+  ],
+  sozopol: [
+    a('구시가', 'Old town', 'Sozopol Old Town', '분위기|Atmosphere', '옛 집을 고친 게스트하우스가 많고 바다 전망 식당이 가깝습니다. 여름엔 일찍 찹니다.|Guesthouses in old houses, close to sea-view restaurants; books up early in summer.'),
+    a('신시가 (하르마니 해변)', 'New town (Harmanite beach)', 'Harmanite Beach Sozopol', '해변|Beach', '모래 해변 옆 호텔이 많고 구시가까지 걸어서 15분쯤입니다.|Hotels beside the sandy beach, about 15 minutes’ walk from the old town.'),
+  ],
+  bansko: [
+    a('구시가 주변', 'Around the old town', 'Bansko old town', '식당·분위기|Restaurants, atmosphere', '전통 식당 메하나와 교회가 걸어서 가깝고 곤돌라까지 15분쯤입니다.|Close to the traditional mehana restaurants and the church, about 15 minutes’ walk from the gondola.'),
+    a('곤돌라 주변', 'Near the gondola', 'Bansko Gondola', '스키|Skiing', '큰 스키 호텔이 모여 있어 아침 리프트 타기 편합니다.|The big ski hotels, handy for an early lift.'),
+  ],
+  koprivshtitsa: [
+    a('마을 안 민박', 'Village guesthouses', 'Koprivshtitsa', '옛집 체험|Stay in an old house', '옛 집을 고친 민박에서 묵으며 저녁의 조용한 마을을 걷습니다.|Stay in a restored old house and walk the quiet village in the evening.'),
+  ],
+  melnik: [
+    a('마을 안', 'In the village', 'Melnik', '와인·조용한 저녁|Wine, quiet evenings', '옛 집을 고친 게스트하우스와 와인 식당이 모여 있습니다.|Guesthouses in old houses and wine restaurants, all together.'),
+  ],
+  kazanlak: [
+    a('시내 중심', 'Town centre', 'Kazanlak centre', '구경 거점|Sightseeing base', '박물관들과 무덤이 걸어서 가깝습니다. 축제 기간엔 일찍 예약하세요.|The museums and the tomb are all within walking distance; book early for the festival.'),
+  ],
+  ruse: [
+    a('중심가 (자유 광장 주변)', 'Centre (Freedom Square)', 'Freedom Square Ruse', '걸어서 다 보기|Everything on foot', '광장과 보행자 거리, 강변이 걸어서 가깝습니다. 기차역까지는 버스나 택시로 10분쯤입니다.|The square, pedestrian street and riverside are all on foot; the station is about 10 minutes by bus or taxi.'),
+  ],
   sighisoara: [
     a('성채 안', 'Inside the citadel', 'Sighișoara Citadel', '조용한 저녁|Quiet evenings', '단체 관광객이 떠난 저녁이 조용하고 중세 건물을 고친 게스트하우스가 많습니다. 주차장이 거의 없어 성벽 밖에 세웁니다. 축제 기간에는 일찍 찹니다.|Peaceful once the coaches leave, in restored medieval guesthouses; most have no parking, so park outside the walls. Books up fast at festival time.'),
     a('아래 시가지', 'Lower town', 'Sighișoara lower town', '가성비·차·기차|Value, car, train', '더 싸고 차로 다니기 쉽습니다. 기차역에서 성채까지 10분쯤 오르막입니다.|Cheaper and easier by car; the station is about a 10-minute climb from the citadel.'),
