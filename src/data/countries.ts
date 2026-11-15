@@ -1495,6 +1495,11 @@ export const countries: Country[] = [
       text: '#0A1A30',
     },
     cityIds: ['bucharest', 'brasov', 'sibiu', 'sighisoara', 'cluj-napoca', 'timisoara'],
+    cityGroups: [
+      { title: { ko: '부쿠레슈티·흑해', en: 'Bucharest & Black Sea' }, cityIds: ['bucharest'] },
+      { title: { ko: '트란실바니아', en: 'Transylvania' }, cityIds: ['brasov', 'sibiu', 'sighisoara', 'cluj-napoca'] },
+      { title: { ko: '서부', en: 'West' }, cityIds: ['timisoara'] },
+    ],
   },
   {
     id: 'tr',

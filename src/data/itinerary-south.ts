@@ -150,12 +150,43 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   varna: [4, 3, 5, 1, 2],
   'veliko-tarnovo': { days: [['', 4, 2, 3, 1]], trips: [['아르바나시|Arbanasi', 5]] },
   nessebar: [3, 5, 1, 2, 4],
-  bucharest: [1, 2, 3, 6, 5, 4],
-  brasov: { days: [['', 2, 1, 5, 3]], trips: [['브란 성|Bran Castle', 4]] },
-  sibiu: { days: [['', 1, 2, 3, 4]], trips: [['아스트라 박물관|ASTRA Museum', 5]] },
-  sighisoara: [1, 3, 2, 5, 4],
-  'cluj-napoca': [5, 2, 1, 3, 4],
-  timisoara: [1, 5, 2, 3, 4],
+  bucharest: {
+    days: [
+      ['구시가·의회궁|Old Town & Parliament', 1, 12, 2, 7, 8],
+      ['혁명광장·칼레아 빅토리에이|Revolution Square & Calea Victoriei', 9, 3, 6, 5],
+      ['북부|North', 10, 11, 4],
+    ],
+    trips: [['모고쇼아이아 궁전|Mogoșoaia Palace', 13]],
+  },
+  brasov: {
+    days: [['', 2, 1, 5, 7, 6, 3]],
+    trips: [
+      ['브란 성·라슈노프 요새|Bran & Râșnov', 8, 4],
+      ['프레지메르|Prejmer', 9],
+    ],
+  },
+  sibiu: {
+    days: [['', 1, 8, 2, 3, 7, 6, 4]],
+    trips: [
+      ['아스트라 박물관|ASTRA Museum', 5],
+      ['트란스퍼거러산 도로|Transfăgărășan', 9],
+    ],
+  },
+  sighisoara: {
+    days: [['', 1, 2, 3, 4, 6, 5]],
+    trips: [
+      ['비에르탄|Biertan', 7],
+      ['비스크리|Viscri', 8],
+    ],
+  },
+  'cluj-napoca': {
+    days: [
+      ['', 2, 1, 7, 6, 3, 4],
+      ['', 5, 8],
+    ],
+    trips: [['투르다 소금 광산|Salina Turda', 9]],
+  },
+  timisoara: { days: [['', 1, 6, 2, 3, 5, 4, 7]] },
   ljubljana: {
     days: [
       ['구시가와 성|Old town & castle', 3, 5, 6, 2, 1, 4],

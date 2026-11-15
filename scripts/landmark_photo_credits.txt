@@ -4062,3 +4062,33 @@ highlights/druskininkai-4.jpg | https://commons.wikimedia.org/wiki/File:Druskini
 highlights/druskininkai-5.jpg | https://commons.wikimedia.org/wiki/File:LT._Gr%C5%ABtas,_Antakalnio_kareiviai.jpeg | CC BY-SA 4.0 | Vilensija
 gateways/gw-plq.jpg | https://commons.wikimedia.org/wiki/File:Departure_Area_at_Palanga_Airport.jpg | CC BY-SA 4.0 | Tadas.82xx
 gateways/gw-klaipeda-port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Klaip%C4%97da,_2006_(03).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/bucharest-7.jpg | https://commons.wikimedia.org/wiki/File:4,_Strada_Stavropoleos,_Bucharest_(Romania).jpg | Public domain | Neoclassicism Enthusiast
+highlights/bucharest-8.jpg | https://commons.wikimedia.org/wiki/File:Libraria_Carturesti_Carusel_-_Interior_ziua.jpg | CC BY-SA 4.0 | Mihai Petre
+highlights/bucharest-9.jpg | https://commons.wikimedia.org/wiki/File:Calea_Victoriei-June_2022.jpg | CC BY-SA 4.0 | Turgidson
+highlights/bucharest-10.jpg | https://www.flickr.com/photos/22083482@N03/3490395613 | BY 2.0 | George M. Groutas
+highlights/bucharest-11.jpg | https://commons.wikimedia.org/wiki/File:Bucharest_-_Village_Museum_7_-_old_CoA.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/bucharest-12.jpg | https://commons.wikimedia.org/wiki/File:Bucharest_-_Patriarchal_Cathedral_(28444947425).jpg | CC BY 2.0 | Ștefan Jurcă from Munich, Germany
+highlights/bucharest-13.jpg | https://commons.wikimedia.org/wiki/File:Palatul_Mogosoaia.jpg | Public domain | Al at Dutch Wikipedia
+highlights/brasov-6.jpg | https://commons.wikimedia.org/wiki/File:Turnul_alb_din_Bra%C8%99ov;_pe_fundal_se_vede_T%C3%A2mpa.jpg | CC BY-SA 4.0 | Neighbor's goat
+highlights/brasov-7.jpg | https://commons.wikimedia.org/wiki/File:Brasov,_porta_ecaterineu_01.JPG | CC BY-SA 3.0 | sailko
+highlights/brasov-8.jpg | https://commons.wikimedia.org/wiki/File:R%C3%A2%C5%9Fnov_Citadel_(Rosenauer_Burg)_01.jpg | CC BY-SA 4.0 | Pudelek
+highlights/brasov-9.jpg | https://commons.wikimedia.org/wiki/File:Prejmer_Fortified_Church,_May_2018_56.jpg | CC BY-SA 4.0 | XeresNelro
+highlights/sibiu-6.jpg | https://commons.wikimedia.org/wiki/File:Brukenthal-sibiu.jpg | CC BY-SA 3.0 | 7castle
+highlights/sibiu-7.jpg | https://commons.wikimedia.org/wiki/File:Evangelical_Cathedral,_Sibiu_01.jpg | CC BY-SA 4.0 | Superchilum
+highlights/sibiu-8.jpg | https://commons.wikimedia.org/wiki/File:Council_Tower_seen_from_the_Small_Square_in_Sibiu_(2023).jpg | CC BY-SA 4.0 | Paul Colin Hennig firstdorsal.eu
+highlights/sibiu-9.jpg | https://commons.wikimedia.org/wiki/File:BaleaLac4.jpg | CC BY-SA 2.5 | Ana Zecheru at ro.wikipedia
+highlights/sighisoara-6.jpg | https://commons.wikimedia.org/wiki/File:The_Church_on_the_Hill.jpg | CC BY-SA 4.0 | Andrea Dioporco
+highlights/sighisoara-7.jpg | https://commons.wikimedia.org/wiki/File:Biertan_fortified_Church.jpg | CC BY-SA 4.0 | Florio1974
+highlights/sighisoara-8.jpg | https://commons.wikimedia.org/wiki/File:Viscri_(5).jpg | CC BY-SA 4.0 | Zsolt Deak
+highlights/cluj-napoca-6.jpg | https://commons.wikimedia.org/wiki/File:Dormition_of_the_Theotokos_Cathedral,_Cluj-Napoca.jpg | CC BY 4.0 | AkakiBalanchivadze
+highlights/cluj-napoca-7.jpg | https://commons.wikimedia.org/wiki/File:B%C3%A1nffy_Palace_in_Kluj-Napoca.PNG | CC BY-SA 3.0 | Image taken by User:Mathiasrex Maciej Szczepańczyk
+highlights/cluj-napoca-8.jpg | https://commons.wikimedia.org/wiki/File:Ethnographic_Park_Romulus_Vuia_6.jpg | CC BY-SA 4.0 | Marcmiquel
+highlights/cluj-napoca-9.jpg | https://commons.wikimedia.org/wiki/File:Rudolfmijn_Salina_Turda.jpg | CC BY 4.0 | Rkoster
+highlights/timisoara-6.jpg | https://commons.wikimedia.org/wiki/File:Catedrala_mitropolitan%C4%83_%E2%80%9ESf._Trei_Ierarhi%E2%80%9D.jpg | CC BY-SA 4.0 | Gratziela Ciortuz
+highlights/timisoara-7.jpg | https://commons.wikimedia.org/wiki/File:Parcul_Rozelor_Timisoara_-_roses.jpg | CC BY-SA 4.0 | Turbojet
+highlights/bucharest-2.jpg | https://commons.wikimedia.org/wiki/File:2012-09-22_street_in_Old_Town_of_Bucharest_01.jpg | CC BY-SA 2.0 | Mario Sánchez Prada
+highlights/brasov-4.jpg | https://commons.wikimedia.org/wiki/File:Bran_Castle_(Toerzburg_or_Castelul_Bran)-06ASD.jpg | CC BY-SA 4.0 | Asurnipal
+highlights/sibiu-4.jpg | https://commons.wikimedia.org/wiki/File:Hermannstadt_(Sibiu)-historic_city_wall-external_wall-04ASD.jpg | CC BY-SA 4.0 | Asurnipal
+highlights/sighisoara-4.jpg | https://commons.wikimedia.org/wiki/File:Covered_Stairway_(1163650496).jpg | CC BY 2.0 | Aleksander Dragnes from Oslo, Norway
+highlights/sighisoara-5.jpg | https://commons.wikimedia.org/wiki/File:Tinsmiths%27_Tower.jpg | CC BY-SA 4.0 | Xhulia Likaj
+highlights/timisoara-1.jpg | https://commons.wikimedia.org/wiki/File:Pia%C8%9Ba_Victoriei_Timi%C8%99oara.jpg | CC BY-SA 4.0 | Marius Catalin Boldeanu
