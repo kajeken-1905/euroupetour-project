@@ -4208,3 +4208,5 @@ highlights/ruse-2.jpg | https://commons.wikimedia.org/wiki/File:Detail_of_Silver
 highlights/ruse-3.jpg | https://commons.wikimedia.org/wiki/File:Alexandrovska_Street_Ruse.jpg | CC BY-SA 4.0 | Ymblanter
 highlights/ruse-4.jpg | https://commons.wikimedia.org/wiki/File:Puerto_de_Ruse,_Bulgaria,_2016-05-27,_DD_06.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/ruse-5.jpg | https://commons.wikimedia.org/wiki/File:Frescoes_of_saints_in_the_Ivanovo_rock_churches_-_autumn_2016.jpg | CC BY-SA 4.0 | Delysia v
+gateways/gw-boj.jpg | https://commons.wikimedia.org/wiki/File:Burgas_Airport_01.JPG | CC BY-SA 3.0 | Cherubino
+gateways/gw-pdv.jpg | https://commons.wikimedia.org/wiki/File:Plovdiv_Airport.jpg | CC BY-SA 2.0 | apoltix

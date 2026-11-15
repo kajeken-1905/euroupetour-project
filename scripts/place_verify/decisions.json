@@ -11250,10 +11250,12 @@
 "del": 1
 },
 "nessebar-bakery-1": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "nessebar-bakery-2": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "nessebar-bakery-3": {
 "del": 1
@@ -11267,7 +11269,8 @@
 "ok": 1
 },
 "nessebar-cafe-3": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "nessebar-fine_dining-1": {
 "en": "Seafood restaurant in the old town.",
@@ -11275,10 +11278,12 @@
 "ok": 1
 },
 "nessebar-fine_dining-2": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "nessebar-fine_dining-3": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "neum-fine_dining-1": {
 "en": "Seafood restaurant near the sea: oysters, seafood risotto and fish platters.",
@@ -15234,13 +15239,16 @@
 "ok": 1
 },
 "sofia-bakery-1": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "sofia-bakery-2": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "sofia-bakery-3": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "sofia-bakery-4": {
 "del": 1
@@ -17686,10 +17694,12 @@
 "del": "이스숙 탈벨트에 그 한식 매장을 찾을 수 없음"
 },
 "varna-bakery-1": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "varna-bakery-2": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "varna-bakery-3": {
 "del": 1
@@ -17781,10 +17791,12 @@
 "ok": 1
 },
 "veliko-tarnovo-bakery-1": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "veliko-tarnovo-bakery-2": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "veliko-tarnovo-cafe-1": {
 "del": 1
@@ -17795,7 +17807,8 @@
 "ok": 1
 },
 "veliko-tarnovo-cafe-3": {
-"del": 1
+"ok": 1,
+"src": "2026-11-15 google maps"
 },
 "veliko-tarnovo-fine_dining-1": {
 "del": 1
@@ -21945,6 +21958,194 @@
 "src": "2026-11-15 google maps"
 },
 "sighetu-marmatiei-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-bakery-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"burgas-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sozopol-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sozopol-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sozopol-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sozopol-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sozopol-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"sozopol-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"bansko-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"bansko-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"bansko-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"bansko-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"bansko-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"bansko-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"koprivshtitsa-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"koprivshtitsa-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"koprivshtitsa-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"melnik-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"melnik-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-bakery-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-bakery-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"kazanlak-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"ruse-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"ruse-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"ruse-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"ruse-cafe-1": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"ruse-cafe-2": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"ruse-cafe-3": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"nessebar-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"nessebar-cafe-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"veliko-tarnovo-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"veliko-tarnovo-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"veliko-tarnovo-cafe-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"varna-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-15 google maps"
+},
+"varna-fine_dining-5": {
 "ok": 1,
 "src": "2026-11-15 google maps"
 }
