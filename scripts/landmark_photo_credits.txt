@@ -4092,3 +4092,45 @@ highlights/sibiu-4.jpg | https://commons.wikimedia.org/wiki/File:Hermannstadt_(S
 highlights/sighisoara-4.jpg | https://commons.wikimedia.org/wiki/File:Covered_Stairway_(1163650496).jpg | CC BY 2.0 | Aleksander Dragnes from Oslo, Norway
 highlights/sighisoara-5.jpg | https://commons.wikimedia.org/wiki/File:Tinsmiths%27_Tower.jpg | CC BY-SA 4.0 | Xhulia Likaj
 highlights/timisoara-1.jpg | https://commons.wikimedia.org/wiki/File:Pia%C8%9Ba_Victoriei_Timi%C8%99oara.jpg | CC BY-SA 4.0 | Marius Catalin Boldeanu
+highlights/constanta-1.jpg | https://commons.wikimedia.org/wiki/File:Constanta_Casino.JPG | CC BY-SA 4.0 | Julian Nyča
+highlights/constanta-2.jpg | https://commons.wikimedia.org/wiki/File:City_-_Ovidiu_Square_-_panoramio.jpg | CC BY 3.0 | ---=XEON=---
+highlights/constanta-3.jpg | https://commons.wikimedia.org/wiki/File:Moscheea_Carol_I,_Constanta.JPG | CC BY-SA 3.0 | 
+highlights/constanta-4.jpg | https://commons.wikimedia.org/wiki/File:Farul_Genovez_(Genoese_Lighthouse)_-_Constan%C8%9Ba,_Romania.jpg | CC BY 2.0 | Ștefan Jurcă from Munich, Germany
+highlights/constanta-5.jpg | https://cartipostale.cimec.ro/Detaliu.php?id=1626 | BY-SA 4.0 | 
+cities/tulcea.jpg | https://commons.wikimedia.org/wiki/File:Tulcea_Denkmal.jpg | CC BY-SA 4.0 | Tiefkuehlfan
+highlights/tulcea-1.jpg | https://www.flickr.com/photos/23317598@N05/8924144109 | BY-SA 2.0 | KLMircea
+highlights/tulcea-2.jpg | https://commons.wikimedia.org/wiki/File:Independence_Monument_(37959358165).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
+highlights/tulcea-3.jpg | https://cartipostale.cimec.ro/Detaliu.php?id=10998 | BY-SA 4.0 | 
+highlights/tulcea-4.jpg | https://commons.wikimedia.org/wiki/File:White_pelicans_(Pelecanus_onocrotalus)_Danube_delta_2.jpg | CC BY-SA 4.0 | Charles J. Sharp
+highlights/tulcea-5.jpg | https://commons.wikimedia.org/wiki/File:Cetatea_Enisala_la_apus_(2).JPG | CC BY-SA 4.0 | Gabriel Tocu
+cities/sinaia.jpg | https://www.flickr.com/photos/84275777@N08/35779290640 | BY 2.0 | stefanjurca
+highlights/sinaia-1.jpg | https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg | CC BY-SA 3.0 | Myrabella
+highlights/sinaia-2.jpg | https://commons.wikimedia.org/wiki/File:Pelisor_Castle,_Sinaia.jpg | CC BY 2.0 | Cristian Bortes
+highlights/sinaia-3.jpg | https://commons.wikimedia.org/wiki/File:Sinaia_Monastery_(53743443033).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/sinaia-4.jpg | https://www.flickr.com/photos/44124419077@N01/29491520122 | BY-SA 2.0 | fernand0
+highlights/sinaia-5.jpg | https://commons.wikimedia.org/wiki/File:Bucegi_Sphinx_-_Romania_-_July_2009.jpg | CC BY 2.0 | Radu Privantu
+cities/oradea.jpg | https://www.flickr.com/photos/27248374@N04/5747696762 | BY-SA 2.0 | MarculescuEugenIancuD5200Alaska
+highlights/oradea-1.jpg | https://commons.wikimedia.org/wiki/File:Black_Eagle_Palace,_Oradea,_Romania,_2020.jpg | CC BY-SA 4.0 | Paralelogram
+highlights/oradea-2.jpg | https://commons.wikimedia.org/wiki/File:Biserica_cu_Lun%C4%83_Oradea_(2023)_-_img_07.jpg | CC BY 4.0 | Chainwit.
+highlights/oradea-3.jpg | https://commons.wikimedia.org/wiki/File:Fortress_of_Oradea.jpg | CC BY-SA 4.0 | Ovi D. Pop
+highlights/oradea-4.jpg | https://www.flickr.com/photos/134469298@N03/34608346866 | PDM 1.0 | Daniel ENGELVIN (ONE Million thanks)
+highlights/oradea-5.jpg | https://commons.wikimedia.org/wiki/File:Oradea-Nagyv%C3%A1rad_-_Cri%C5%9Ful_Repede_and_synagogue.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+cities/iasi.jpg | https://www.flickr.com/photos/11473706@N03/10251406966 | BY 2.0 | Cost3l
+highlights/iasi-1.jpg | https://commons.wikimedia.org/wiki/File:2020_04_17_Ia%C8%99i_Palatul_Culturii.jpg | CC BY-SA 4.0 | KittyKaliNeo
+highlights/iasi-2.jpg | https://www.flickr.com/photos/198268261@N07/54623777459 | PDM 1.0 | M. Cristian-Ioan
+highlights/iasi-3.jpg | https://commons.wikimedia.org/wiki/File:Catedrala_Mitropolitana_Iasi_02.JPG | CC BY-SA 3.0 ro | Losy
+highlights/iasi-4.jpg | https://www.flickr.com/photos/143449296@N06/29250381500 | BY 2.0 | Bobet22
+highlights/iasi-5.jpg | https://commons.wikimedia.org/wiki/File:Manastirea_Golia-vedere_dinspre_sud.JPG | CC BY-SA 4.0 | Ancuticag
+cities/suceava.jpg | https://commons.wikimedia.org/wiki/File:Cityscape_of_Suceava,_Suceava_County,_Bukovina,_Romania_(2010),_as_seen_by_sunset.jpg | CC0 | Rosenborg BK Fan
+highlights/suceava-1.jpg | https://commons.wikimedia.org/wiki/File:Suceava_fortress_(by_Pudelek).jpg | CC BY-SA 4.0 | Pudelek
+highlights/suceava-2.jpg | https://commons.wikimedia.org/wiki/File:M%C4%83n%C4%83stirea_Sf%C3%A2ntul_Ioan_cel_Nou26.jpg | CC BY 3.0 | Cezar Suceveanu
+highlights/suceava-3.jpg | https://commons.wikimedia.org/wiki/File:Muzeul_Satului_Bucovinean2.jpg | CC BY 3.0 | Cezar Suceveanu
+highlights/suceava-4.jpg | https://commons.wikimedia.org/wiki/File:Voronet_Intrare.JPG | Public domain | Dstefanescu
+highlights/suceava-5.jpg | https://commons.wikimedia.org/wiki/File:Biserica_si_curtea_manastirii_Sucevita.jpg | CC BY-SA 3.0 ro | Alex Moise
+cities/sighetu-marmatiei.jpg | https://commons.wikimedia.org/wiki/File:Gara_Sighetu_Marma%C8%9Biei_3.JPG | CC BY-SA 4.0 | T.seppelt
+highlights/sighetu-marmatiei-1.jpg | https://www.flickr.com/photos/14759783@N04/15548876512 | BY 2.0 | young shanahan
+highlights/sighetu-marmatiei-2.jpg | https://commons.wikimedia.org/wiki/File:EliWieselHouse-0092a.jpg | CC BY-SA 4.0 | Idobi
+highlights/sighetu-marmatiei-3.jpg | https://commons.wikimedia.org/wiki/File:Casa_B%C3%A2rsan_-_Muzeul_Satului_Maramure%C8%99ean_(2023)_-_img_04.jpg | CC BY 4.0 | Chainwit.
+highlights/sighetu-marmatiei-4.jpg | https://commons.wikimedia.org/wiki/File:Merry_Cemetery,_S%C4%83p%C3%A2n%C8%9Ba,_2017.jpg | CC0 | DimiTalen
+highlights/sighetu-marmatiei-5.jpg | https://commons.wikimedia.org/wiki/File:M%C4%83n%C4%83stirea_B%C3%A2rsana_Maramures_Romania_-_vedere_interioara.JPG | CC BY-SA 3.0 | The Traveller LB
+cities/constanta.jpg | https://commons.wikimedia.org/wiki/File:Cazinoul_din_Constan%C8%9Ba_%C3%AEn_anul_2015.jpg | CC BY-SA 4.0 | PosifCool

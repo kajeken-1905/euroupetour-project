@@ -2143,6 +2143,29 @@ export const STAY: Record<string, StayArea[]> = {
   timisoara: [
     a('구시가 (우니리 광장 주변)', 'Old town (Union Square)', 'Piața Unirii, Timișoara', '걸어서 다 보기|Everything on foot', '우니리·빅토리에이·리베르타티 광장과 대성당, 오페라 극장을 걸어서 다닙니다.|Union, Victory and Liberty squares, the cathedral and the opera, all on foot.'),
   ],
+  constanta: [
+    a('구시가 (반도)', 'Old town (peninsula)', 'Constanța old town', '구경 거점|Sightseeing base', '카지노·오비디우스 광장·모스크가 걸어서 가깝습니다.|The casino, Ovid Square and mosque are all within walking distance.'),
+    a('마마이아', 'Mamaia', 'Mamaia', '해변|Beach', '해변 호텔이 모여 있고 여름 밤 문화가 활발합니다. 구시가까진 버스로 다닙니다.|Beach hotels and summer nightlife; buses run to the old town.'),
+  ],
+  tulcea: [
+    a('강변 중심가', 'Riverside centre', 'Tulcea centre', '배 투어 거점|Boat-trip base', '버스터미널과 선착장, 박물관이 걸어서 가깝습니다.|The bus station, quays and museum are all within walking distance.'),
+  ],
+  sinaia: [
+    a('시내 중심', 'Town centre', 'Sinaia centre', '걸어서 다니기|On foot', '역과 수도원, 펠레슈 성까지 걸어서 다닙니다(성까지 오르막 20~30분).|Walk to the station, monastery and Peleș (20–30 minutes uphill to the castle).'),
+  ],
+  oradea: [
+    a('중심가 (우니리 광장 주변)', 'Centre (Union Square)', 'Piața Unirii, Oradea', '걸어서 다 보기|Everything on foot', '광장과 리퍼블리치 거리, 요새가 걸어서 가깝습니다.|The square, Strada Republicii and the fortress are all within walking distance.'),
+  ],
+  iasi: [
+    a('중심가 (슈테판 첼 마레 대로)', 'Centre (Bd. Ștefan cel Mare)', 'Bulevardul Ștefan cel Mare și Sfânt, Iași', '걸어서 다 보기|Everything on foot', '문화 궁전과 교회들이 대로를 따라 모여 있습니다.|The Palace of Culture and the churches line the boulevard.'),
+  ],
+  suceava: [
+    a('시내 중심', 'Town centre', 'Suceava centre', '구경 거점|Sightseeing base', '요새와 성 요한 노이 수도원이 걸어서 가깝습니다. 수도원 투어는 대부분 여기서 출발합니다.|Walk to the fortress and the Monastery of St John the New; most monastery tours start here.'),
+  ],
+  'sighetu-marmatiei': [
+    a('시내 중심', 'Town centre', 'Sighetu Marmației centre', '구경 거점|Sightseeing base', '기념관과 엘리 위젤 생가가 걸어서 가깝습니다.|Walk to the memorial and the Elie Wiesel house.'),
+    a('마라무레슈 마을 민박', 'Maramureș village guesthouses', 'Maramureș', '시골 체험|Village life', '근교 마을 민박에서 묵으며 나무 교회와 시골 생활을 봅니다. 차가 있으면 편합니다.|Stay in a village guesthouse to see the wooden churches and rural life; easiest with a car.'),
+  ],
   'vatican-city': [
     a('프라티', 'Prati', 'Prati, Rome', '바티칸 걸어서|Walk to the Vatican', '바티칸 박물관과 성 베드로 대성당까지 걸어서 10~15분입니다. 구시가보다 조용하고 콜라 디 리엔초 거리에 식당·상점이 있으며 오타비아노·레판토 지하철역이 있습니다.|10–15 minutes’ walk to the Vatican Museums and St Peter’s; quieter than the historic centre, with shops and restaurants on Via Cola di Rienzo and the Ottaviano and Lepanto metro stops.'),
   ],

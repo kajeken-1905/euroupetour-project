@@ -1494,11 +1494,12 @@ export const countries: Country[] = [
       background: '#E8EEF8',
       text: '#0A1A30',
     },
-    cityIds: ['bucharest', 'brasov', 'sibiu', 'sighisoara', 'cluj-napoca', 'timisoara'],
+    cityIds: ['bucharest', 'constanta', 'tulcea', 'brasov', 'sinaia', 'sibiu', 'sighisoara', 'cluj-napoca', 'timisoara', 'oradea', 'iasi', 'suceava', 'sighetu-marmatiei'],
     cityGroups: [
-      { title: { ko: '부쿠레슈티·흑해', en: 'Bucharest & Black Sea' }, cityIds: ['bucharest'] },
-      { title: { ko: '트란실바니아', en: 'Transylvania' }, cityIds: ['brasov', 'sibiu', 'sighisoara', 'cluj-napoca'] },
-      { title: { ko: '서부', en: 'West' }, cityIds: ['timisoara'] },
+      { title: { ko: '부쿠레슈티·흑해', en: 'Bucharest & Black Sea' }, cityIds: ['bucharest', 'constanta', 'tulcea'] },
+      { title: { ko: '트란실바니아', en: 'Transylvania' }, cityIds: ['brasov', 'sinaia', 'sibiu', 'sighisoara', 'cluj-napoca'] },
+      { title: { ko: '서부', en: 'West' }, cityIds: ['timisoara', 'oradea'] },
+      { title: { ko: '북부', en: 'North' }, cityIds: ['iasi', 'suceava', 'sighetu-marmatiei'] },
     ],
   },
   {

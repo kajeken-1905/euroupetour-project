@@ -187,6 +187,13 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     trips: [['투르다 소금 광산|Salina Turda', 9]],
   },
   timisoara: { days: [['', 1, 6, 2, 3, 5, 4, 7]] },
+  constanta: { days: [['', 1, 4, 2, 3], ['', 5]] },
+  tulcea: { days: [['', 3, 2, 1]], trips: [['다뉴브 삼각주 배 투어|Danube Delta boat trip', 4], ['에니살라 요새|Enisala Fortress', 5]] },
+  sinaia: { days: [['', 3, 1, 2, 4]], trips: [['바벨레와 스핑크스|Babele & the Sphinx', 5]] },
+  oradea: { days: [['', 1, 2, 5, 4, 3]] },
+  iasi: { days: [['', 1, 2, 3, 5, 4]] },
+  suceava: { days: [['', 1, 3, 2]], trips: [['보로네츠·수체비차 수도원|Voroneț & Sucevița', 4, 5]] },
+  'sighetu-marmatiei': { days: [['', 1, 2, 3]], trips: [['사푼차·버르사나|Săpânța & Bârsana', 4, 5]] },
   ljubljana: {
     days: [
       ['구시가와 성|Old town & castle', 3, 5, 6, 2, 1, 4],

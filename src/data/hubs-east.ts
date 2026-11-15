@@ -675,6 +675,35 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Timișoara Traian Vuia (TSR)', '티미쇼아라 공항 (TSR)']],
     rail: [['Timișoara Nord', '티미쇼아라 북역']],
   },
+  constanta: {
+    air: [['Constanța Mihail Kogălniceanu (CND)', '콘스탄차 공항 (CND)']],
+    rail: [['Constanța', '콘스탄차역']],
+  },
+  tulcea: {
+    air: [['Constanța Mihail Kogălniceanu (CND)', '콘스탄차 공항 (CND)']],
+    bus: [['Autogara Tulcea', '툴체아 버스터미널', '선착장 옆|next to the river quays']],
+  },
+  sinaia: {
+    air: [['București Henri Coandă (OTP)', '부쿠레슈티 오토페니 공항 (OTP)', '부쿠레슈티|Bucharest']],
+    rail: [['Sinaia', '시나이아역']],
+  },
+  oradea: {
+    air: [['Oradea (OMR)', '오라데아 공항 (OMR)']],
+    rail: [['Oradea', '오라데아역']],
+  },
+  iasi: {
+    air: [['Iași (IAS)', '야시 공항 (IAS)']],
+    rail: [['Iași', '야시역']],
+  },
+  suceava: {
+    air: [['Suceava Ștefan cel Mare (SCV)', '수체아바 공항 (SCV)']],
+    rail: [['Suceava', '수체아바역']],
+  },
+  'sighetu-marmatiei': {
+    air: [['Cluj Avram Iancu (CLJ)', '클루지 공항 (CLJ)', '클루지나포카|Cluj-Napoca']],
+    rail: [['Sighetu Marmației', '시게투마르마치에이역']],
+    bus: [['Autogara Sighetu Marmației', '시게투마르마치에이 버스터미널']],
+  },
 
   // —— tr ——
   istanbul: {

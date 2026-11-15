@@ -7323,6 +7323,69 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  constanta: {
+    modes: ['walk', 'bus', 'taxi', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 기차역과 마마이아는 시내버스로 오갑니다.',
+      en: 'Walk the old town; city buses link the station and Mamaia.',
+    },
+    apps: [
+    ],
+  },
+  tulcea: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다니고, 삼각주는 선착장에서 배로 들어갑니다.',
+      en: 'A small town best on foot; the Delta is reached by boat from the quays.',
+    },
+    apps: [
+    ],
+  },
+  sinaia: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다니고, 부슈테니와 브라쇼브는 기차로 오갑니다.',
+      en: 'A small town best on foot; trains run to Bușteni and Brașov.',
+    },
+    apps: [
+    ],
+  },
+  oradea: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 기차역은 트램으로 오갑니다.',
+      en: 'Walk the centre; trams link the station.',
+    },
+    apps: [
+    ],
+  },
+  iasi: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 코포우 공원과 기차역은 트램·버스로 오갑니다.',
+      en: 'Walk the centre; trams and buses run to Copou Park and the station.',
+    },
+    apps: [
+    ],
+  },
+  suceava: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 채색 수도원은 차를 빌리거나 투어로 갑니다.',
+      en: 'Walk the centre; reach the painted monasteries by hire car or on a tour.',
+    },
+    apps: [
+    ],
+  },
+  'sighetu-marmatiei': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 근교 마을은 차를 빌리거나 버스로 갑니다.',
+      en: 'Walk the town; reach the villages by hire car or bus.',
+    },
+    apps: [
+    ],
+  },
   // —— tr ——
   istanbul: {
     modes: ['metro', 'tram', 'bus', 'ferry', 'train', 'rideshare', 'taxi', 'walk'],
