@@ -1200,6 +1200,11 @@ export const countries: Country[] = [
       text: '#1A2A14',
     },
     cityIds: ['vilnius', 'kaunas', 'klaipeda'],
+    cityGroups: [
+      { title: { ko: '빌뉴스·남동부', en: 'Vilnius & south-east' }, cityIds: ['vilnius'] },
+      { title: { ko: '중부·북부', en: 'Centre & north' }, cityIds: ['kaunas'] },
+      { title: { ko: '해안', en: 'Coast' }, cityIds: ['klaipeda'] },
+    ],
   },
   {
     id: 'hr',

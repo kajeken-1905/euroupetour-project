@@ -4012,3 +4012,27 @@ highlights/daugavpils-2.jpg | https://commons.wikimedia.org/wiki/File:Daugavpils
 highlights/daugavpils-3.jpg | https://commons.wikimedia.org/wiki/File:Daugavpils_Ss_Boris_and_Gleb_Orthodox_Cathedral_(1).jpg | CC BY-SA 3.0 | Glossologist
 gateways/gw-liepaja-port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Liep%C4%81ja_(51127242063).jpg | Public domain | Liepāja fotogrāfijās from Latvia
 gateways/gw-ventspils-port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Ventspils_from_the_left_shore.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/vilnius-7.jpg | https://commons.wikimedia.org/wiki/File:Valdov%C5%B3_r%C5%ABmai_01(js).jpg | CC BY-SA 3.0 | Jerzy Strzelecki
+highlights/vilnius-8.jpg | https://commons.wikimedia.org/wiki/File:Church_of_St._Anne_in_Vilnius,_2006_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/vilnius-9.jpg | https://commons.wikimedia.org/wiki/File:Vilnius_University_M._K._Sarbievijus_Courtyard,_Vilnius,_Lithuania_-_Diliff.jpg | CC BY-SA 3.0 | Diliff
+highlights/vilnius-10.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_Occupations_and_Freedom_Fights_in_Vilnius,_Lithuania,_2021.jpg | CC BY-SA 4.0 | Pofka
+highlights/vilnius-11.jpg | https://commons.wikimedia.org/wiki/File:The_Hill_of_Three_Crosses,_Vilnius_(55176284797).jpg | CC BY 4.0 | Matka voi alkaa
+highlights/vilnius-12.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_St._Peter_and_St._Paul%27s_Church_in_Vilnius.03.jpg | CC BY-SA 4.0 | Nenea hartia
+highlights/vilnius-13.jpg | https://commons.wikimedia.org/wiki/File:Mo_Museum,_Vilnius.jpg | CC BY 2.0 | Felix Winkelnkemper
+highlights/vilnius-14.jpg | https://commons.wikimedia.org/wiki/File:Kernav%C4%97_19172,_Lithuania_-_panoramio_(9).jpg | CC BY 3.0 | VietovesLt
+highlights/kaunas-6.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Christ%27s_Resurrection,_Kaunas,_side_view.jpg | CC0 | Bdx
+highlights/kaunas-7.jpg | https://commons.wikimedia.org/wiki/File:%C4%8Ciurlionio_muziejus.jpg | CC BY-SA 4.0 | Blowwhite
+highlights/kaunas-8.jpg | https://commons.wikimedia.org/wiki/File:A._%C5%BDmuidzinavi%C4%8Diaus_memorialiniai_namai,_Velni%C5%B3_muziejus.jpg | CC BY-SA 4.0 | Andrijana F
+highlights/kaunas-9.jpg | https://commons.wikimedia.org/wiki/File:Aleksotas,_Kaunas,_Lithuania_-_panoramio_(5).jpg | CC BY-SA 3.0 | Michal Gorski
+highlights/kaunas-10.jpg | https://commons.wikimedia.org/wiki/File:Pazaislis_by_Augustas_Didzgalvis.jpg | CC BY-SA 4.0 | Augustas Didžgalvis
+highlights/kaunas-11.jpg | https://commons.wikimedia.org/wiki/File:Rumsiskes._Liaudies_buities_muziejus._2007-04-21.jpg | CC BY-SA 3.0 | Algirdas at Lithuanian Wikipedia
+highlights/klaipeda-6.jpg | https://commons.wikimedia.org/wiki/File:Klaip%C4%97da_Castle_site_in_2025.jpg | Public domain | Kusurija
+highlights/klaipeda-7.jpg | https://commons.wikimedia.org/wiki/File:Klaip%C4%97dos_laikrod%C5%BEi%C5%B3_muziejus.jpg | CC BY-SA 4.0 | Petriukas
+highlights/klaipeda-8.jpg | https://commons.wikimedia.org/wiki/File:Meridianas_2019_m.jpg | CC BY-SA 4.0 | Turaids
+highlights/klaipeda-9.jpg | https://commons.wikimedia.org/wiki/File:Lithuanian_Sea_Museum_(28946).jpg | CC BY-SA 4.0 | Lee Vilenski
+highlights/vilnius-2.jpg | https://commons.wikimedia.org/wiki/File:Gedimino_pilis_by_Augustas_Didzgalvis.jpg | CC BY-SA 4.0 | BigHead
+highlights/vilnius-4.jpg | https://commons.wikimedia.org/wiki/File:Uzupis_entrance_sign.jpg | CC BY 4.0 | HartOve
+highlights/kaunas-3.jpg | https://commons.wikimedia.org/wiki/File:Kaunas_Castle_-_panorama.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/klaipeda-1.jpg | https://commons.wikimedia.org/wiki/File:Klaipeda_old_town.jpg | Public domain | &lt;squareshadow&gt;
+highlights/klaipeda-3.jpg | https://commons.wikimedia.org/wiki/File:Curonian_Spit_(130).jpg | CC BY-SA 4.0 | SofiRussia
+highlights/klaipeda-4.jpg | https://commons.wikimedia.org/wiki/File:Beach_of_smiltyne.JPG | CC BY 2.5 | Pavel Gromov (Pagan)

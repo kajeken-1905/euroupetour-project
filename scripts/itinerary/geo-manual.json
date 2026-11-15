@@ -11017,5 +11017,110 @@
     57.39615,
     21.55868,
     "OSM Nominatim: Ventspils viduslaiku pils, 17, Jāņa iela, Vecpilsēta, Ventsp"
+  ],
+  "vilnius-h6": [
+    54.65273,
+    24.93392,
+    "OSM Nominatim: Trakų salos pilis, Trakų pilies tiltas, Senamiestis, Trakai,"
+  ],
+  "vilnius-h7": [
+    54.68621,
+    25.28944,
+    "OSM Nominatim: Valdovų rūmai, 3, Katedros a., Senamiestis, Senamiesčio seni"
+  ],
+  "vilnius-h8": [
+    54.68302,
+    25.29321,
+    "OSM Nominatim: Šv. Onos bažnyčia, 8, Maironio g., Tymo kvartalas, Senamiesč"
+  ],
+  "vilnius-h9": [
+    54.68282,
+    25.28783,
+    "OSM Nominatim: Vilniaus universitetas, Universiteto g., Senamiestis, Senami (Wikipedia 53m)"
+  ],
+  "vilnius-h10": [
+    54.68802,
+    25.27069,
+    "OSM Nominatim: Okupacijų ir laisvės kovų muziejus, 2A, Aukų g., Lukiškės, N"
+  ],
+  "vilnius-h11": [
+    54.68674,
+    25.29755,
+    "OSM Nominatim: Trys kryžiai, Trispalvės al., Užupis, Senamiesčio seniūnija, (Wikipedia 5m)"
+  ],
+  "vilnius-h13": [
+    54.67935,
+    25.2775,
+    "OSM Nominatim: MO muziejus, 17, Pylimo g., Vingriai, Senamiesčio seniūnija,"
+  ],
+  "vilnius-h14": [
+    54.87862,
+    24.85641,
+    "OSM Nominatim: Valstybinis Kernavės kultūrinis rezervatas, Kriveikiškis, Ke"
+  ],
+  "kaunas-h6": [
+    54.90264,
+    23.91701,
+    "OSM Nominatim: Kauno Kristaus prisikėlimo bažnyčia, 31A, Žemaičių g., Žalia"
+  ],
+  "kaunas-h9": [
+    54.89226,
+    23.88793,
+    "OSM Nominatim: Aleksoto funikulierius, Veiverių g., Linksmadvaris, Aleksoto"
+  ],
+  "kaunas-h10": [
+    54.87604,
+    24.02269,
+    "OSM Nominatim: Pažaislio vienuolynas, 31, T. Masiulio g., Pažaislis, Petraš"
+  ],
+  "klaipeda-h6": [
+    55.70592,
+    21.12891,
+    "OSM Nominatim: Pilies muziejus, 2, Priešpilio g., Piliavietė, Senamiestis, "
+  ],
+  "klaipeda-h8": [
+    55.71034,
+    21.13491,
+    "OSM Nominatim: Meridianas, 8, Kurpių g., Jono kalnelis, Senamiestis, Klaipė"
+  ],
+  "klaipeda-h9": [
+    55.71677,
+    21.09976,
+    "OSM Nominatim: Lietuvos jūrų muziejus, 2, Smiltynės g., Kopgalis, Smiltynė,"
+  ],
+  "vilnius-h12": [
+    54.69412,
+    25.30621,
+    "OSM Nominatim: Šv. apaštalų Petro ir Povilo bažnyčia, 1, Antakalnio g., Ant (Wikipedia 13m)"
+  ],
+  "kaunas-h7": [
+    54.90026,
+    23.91202,
+    "OSM Nominatim: Nacionalinis M. K. Čiurlionio dailės muziejus, 64, K. Donela (Wikipedia 50m)"
+  ],
+  "kaunas-h8": [
+    54.90088,
+    23.91056,
+    "OSM Nominatim: Velnių muziejus, 64, V. Putvinskio g., Naujamiestis, Centro "
+  ],
+  "kaunas-h11": [
+    54.86642,
+    24.20117,
+    "OSM Nominatim: Lietuvos liaudies buities muziejus, 2, L. Lekavičiaus g., Ru"
+  ],
+  "klaipeda-h2": [
+    55.7078,
+    21.13163,
+    "OSM Nominatim: Teatro aikštė, Piliavietė, Senamiestis, Klaipėda, Klaipėdos "
+  ],
+  "klaipeda-h7": [
+    55.71221,
+    21.13416,
+    "OSM Nominatim: Laikrodžių muziejus, 12, Liepų g., Naujamiestis, Centras, Kl"
+  ],
+  "kaunas-h5": [
+    54.89814,
+    23.90447,
+    "OSM Nominatim: 102, Laisvės al., Naujamiestis, Centro seniūnija, Kaunas, Ka (Wikipedia 10m)"
   ]
 }

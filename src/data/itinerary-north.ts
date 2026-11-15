@@ -310,9 +310,31 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   liepaja: { days: [['', 3, 4, 5], ['', 1, 2]] },
   ventspils: { days: [['', 1, 3, 2]] },
   daugavpils: { days: [['', 2, 1, 3]] },
-  vilnius: { days: [['', 5, 1, 3, 2, 4]], trips: [['트라카이|Trakai', 6]] },
-  kaunas: { days: [['', 3, 1, 2, 5]], trips: [['제9요새|Ninth Fort', 4]] },
-  klaipeda: { days: [['', 2, 1, 5]], trips: [['쿠로니아 사주|Curonian Spit', 4, 3]] },
+  vilnius: {
+    days: [
+      ['구시가|Old Town', 3, 7, 2, 9, 8, 1, 5],
+      ['구시가 바깥|Beyond the old town', 13, 10, 4, 11, 12],
+    ],
+    trips: [
+      ['트라카이|Trakai', 6],
+      ['케르나베|Kernavė', 14],
+    ],
+  },
+  kaunas: {
+    days: [
+      ['', 3, 1, 9, 2, 5],
+      ['', 8, 7, 6],
+    ],
+    trips: [
+      ['제9요새|Ninth Fort', 4],
+      ['파자이슬리스 수도원|Pažaislis Monastery', 10],
+      ['룸시슈케스|Rumšiškės', 11],
+    ],
+  },
+  klaipeda: {
+    days: [['', 2, 1, 7, 6, 5, 8]],
+    trips: [['스밀티네·쿠로니아 사주|Smiltynė & Curonian Spit', 4, 9, 3]],
+  },
   // Faroe Islands, Greenland, Russia and Belarus
   torshavn: { days: [['', 1, 2, 3]], trips: [['키르큐보우르|Kirkjubøur', 4]] },
   vagar: { days: [['', 1, 2]], trips: [['미키네스섬|Mykines', 3]] },
