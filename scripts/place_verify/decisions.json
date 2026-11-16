@@ -2153,7 +2153,8 @@
 "ok": 1
 },
 "bitola-bakery-2": {
-"del": "Fresh bakery Bitola not found in any source"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "bitola-bakery-3": {
 "del": "Vekna bakery Bitola not found in any source"
@@ -15181,13 +15182,16 @@
 "ok": 1
 },
 "skopje-bakery-3": {
-"del": "스코페에서 그 가게를 찾을 수 없음"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "skopje-bakery-4": {
-"del": "Pan Pan Kapistec not found in any source"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "skopje-bakery-5": {
-"del": "Oriolo Skopje not found in any source"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "skopje-cafe-1": {
 "en": "Industrial-style café between the centre and Debar Maalo, with DJ nights.",
@@ -16411,10 +16415,12 @@
 "src": "2026-11-08 google maps / michelin 2026"
 },
 "tetovo-bakery-1": {
-"del": "Bakal Bakery Tetovo not found in any source"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "tetovo-bakery-2": {
-"del": "Burek Adriana Tetovo not found in any source"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "tetovo-bakery-3": {
 "del": "Garden café exists but Dervish Cara 35 address unconfirmed (two locations)"
@@ -22148,5 +22154,145 @@
 "varna-fine_dining-5": {
 "ok": 1,
 "src": "2026-11-15 google maps"
+},
+"struga-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-bakery-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-bakery-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"struga-cafe-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-cafe-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-cafe-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"prilep-cafe-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"krusevo-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"krusevo-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"krusevo-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"krusevo-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"krusevo-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"krusevo-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"stip-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"tetovo-cafe-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"skopje-bakery-6": {
+"ok": 1,
+"src": "2026-11-16 google maps"
 }
 }
