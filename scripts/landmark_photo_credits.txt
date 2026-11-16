@@ -4316,3 +4316,5 @@ highlights/himare-3.jpg | https://commons.wikimedia.org/wiki/File:Livadhi_Beach,
 highlights/himare-4.jpg | https://commons.wikimedia.org/wiki/File:Porto_Palermo_Castle_(by_Pudelek)_4.JPG | CC BY-SA 4.0 | Pudelek
 highlights/himare-5.jpg | https://commons.wikimedia.org/wiki/File:Gjipe_beach,_Albania.JPG | CC BY-SA 3.0 | Pudelek
 highlights/kruje-5.jpg | https://commons.wikimedia.org/wiki/File:Dollma_Tekke_in_Kruj%C3%AB_(1).jpg | CC BY-SA 4.0 | Marie Čcheidzeová
+gateways/gw-durres-port.jpg | https://www.flickr.com/photos/111076799@N03/25111686627 | BY-SA 2.0 | LITTLE KONSTANTIN
+gateways/gw-sarande-port.jpg | https://www.flickr.com/photos/41980486@N07/52488595684 | BY 2.0 | Sharon Hahn Darlin

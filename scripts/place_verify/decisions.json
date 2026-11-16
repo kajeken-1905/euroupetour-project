@@ -1804,10 +1804,12 @@
 "src": "2026-11-04 google maps / michelin 2026"
 },
 "berat-bakery-1": {
-"del": "베라트에서 그 가게를 찾을 수 없음"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "berat-bakery-2": {
-"del": "베라트에서 그 제과점을 찾을 수 없음"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "berat-cafe-1": {
 "en": "Self-service café on Republic Boulevard, popular for crêpes and Turkish coffee brewed over a flame.",
@@ -16628,10 +16630,12 @@
 "del": 1
 },
 "tirana-bakery-1": {
-"del": "\"Byrektore\"는 부렉 가게를 뜻하는 일반 명사이고 그 주소의 가게를 찾을 수 없음"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "tirana-bakery-2": {
-"del": "그 빵집을 찾을 수 없음"
+"ok": 1,
+"src": "2026-11-16 google maps"
 },
 "tirana-cafe-2": {
 "name": "Frut’za Specialty Coffee & Brunch",
@@ -22292,6 +22296,314 @@
 "src": "2026-11-16 google maps"
 },
 "skopje-bakery-6": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-bakery-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-bakery-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"durres-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"kruje-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"kruje-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"kruje-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"kruje-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"kruje-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-bakery-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-bakery-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-bakery-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-bakery-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-cafe-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"shkoder-cafe-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-bakery-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"korce-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-bakery-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-cafe-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"vlore-cafe-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-cafe-1": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"himare-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"tirana-bakery-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"tirana-cafe-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"tirana-cafe-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"tirana-cafe-6": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"berat-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"berat-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"berat-bakery-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"berat-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-bakery-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-bakery-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-bakery-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-bakery-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-cafe-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"gjirokaster-cafe-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-bakery-2": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-bakery-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-cafe-3": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-cafe-4": {
+"ok": 1,
+"src": "2026-11-16 google maps"
+},
+"sarande-cafe-5": {
 "ok": 1,
 "src": "2026-11-16 google maps"
 }
