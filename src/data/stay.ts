@@ -2348,6 +2348,26 @@ export const STAY: Record<string, StayArea[]> = {
     a('시내 중심·해안 산책로', 'Centre and promenade', 'Sarandë promenade', '처음이라면|First visit', '항구와 산책로, 바·카페를 걸어서 다니고 크사밀·부트린트행 버스가 해안에서 떠납니다.|The port, promenade, bars and cafés on foot, with buses to Ksamil and Butrint from the seafront.'),
     a('크사밀', 'Ksamil', 'Ksamil', '해변|Beaches', '남쪽으로 14km쯤 떨어진 하얀 모래 해변 마을입니다.|A white-sand beach village about 14 km south.'),
   ],
+  durres: [
+    a('구시가·항구 주변', 'Old town & harbour', 'Durrës Amphitheatre', '처음 가는 여행에 추천|Best for a first visit', '원형극장과 박물관, 페리 터미널이 걸어서 가깝습니다.|The amphitheatre, museum and ferry terminal are all on foot.'),
+    a('해변 지구', 'Beach district', 'Plazhi i Durrësit', '해변 휴양|Beach holiday', '시내 남쪽 해변을 따라 호텔이 길게 늘어서 있고, 시내까지는 버스나 택시로 갑니다.|Hotels line the beach south of town; the centre is a bus or taxi ride away.'),
+  ],
+  kruje: [
+    a('성 주변', 'Around the castle', 'Krujë Castle', '하룻밤 묵기|An overnight stop', '옛 집을 고친 작은 숙소가 몇 곳 있어 당일치기 손님이 떠난 저녁에 조용합니다.|A few small guesthouses in old houses; quiet in the evening once the day-trippers have gone.'),
+  ],
+  shkoder: [
+    a('보행자 거리 주변', 'Pedestrian street area', 'Rruga Kolë Idromeno', '처음 가는 여행에 추천|Best for a first visit', '카페와 식당, 박물관이 걸어서 가깝고 자전거 대여도 쉽습니다. 성까지는 걸어서 30분쯤입니다.|Cafés, restaurants and the museum are on foot and bikes are easy to rent; the castle is about 30 minutes’ walk.'),
+  ],
+  korce: [
+    a('옛 바자르 주변', 'Old bazaar area', 'Old Bazaar Korçë', '처음 가는 여행에 추천|Best for a first visit', '바자르의 옛 집을 고친 숙소가 많고 대성당과 박물관이 걸어서 가깝습니다.|Many guesthouses in restored bazaar houses, with the cathedral and museum on foot.'),
+  ],
+  vlore: [
+    a('시내 중심·해안 산책로', 'Centre & seafront', 'Flag Square Vlorë', '처음 가는 여행에 추천|Best for a first visit', '광장과 모스크, 산책로가 걸어서 가깝고 버스터미널도 멀지 않습니다.|The square, mosque and seafront are on foot, and the bus station is not far.'),
+    a('남쪽 해변 (우이 이 프토흐터)', 'Southern beaches (Uji i Ftohtë)', 'Uji i Ftohtë Vlorë', '해변 휴양|Beach holiday', '시내 남쪽 해안을 따라 호텔이 이어지고 바다가 더 맑습니다. 시내까지는 버스나 택시로 갑니다.|Hotels line the coast south of town where the sea is clearer; the centre is a bus or taxi ride away.'),
+  ],
+  himare: [
+    a('해변 마을', 'Beach town', 'Himarë', '해변 휴양|Beach holiday', '해변과 식당이 걸어서 가깝습니다. 옛 마을까지는 걸어서 30분쯤 오릅니다.|The beach and restaurants are on foot; the old village is about a 30-minute walk up.'),
+  ],
   mdina: [
     a('음디나·라바트', 'Mdina and Rabat', 'Rabat, Malta', '조용한 중세 마을|Quiet medieval town', '성벽 안 작은 숙소에서 골목과 궁전을 걸어서 봅니다. 바로 붙은 라바트는 대중교통이 편하고 큰 숙소가 있습니다.|Small boutique stays inside the walls, steps from the lanes and palaces; neighbouring Rabat has easier buses and larger hotels.'),
     a('발레타에서 다녀오기', 'Base in Valletta', 'Valletta', '식당·저녁|Dining, evenings', '식당과 저녁 분위기는 발레타가 낫습니다. 음디나는 당일로 다녀옵니다.|Valletta is livelier for dinner and evenings; visit Mdina as a day trip.'),

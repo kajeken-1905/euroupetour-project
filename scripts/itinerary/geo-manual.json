@@ -11967,5 +11967,120 @@
     41.32943,
     19.81667,
     "OSM Nominatim: Muzeu Historik Kombëtar, 7, Sheshi Skënderbej, Njësia Bashki (Wikidata 45m)"
+  ],
+  "durres-h1": [
+    41.31212,
+    19.445,
+    "OSM Nominatim: Amfiteatri i Durrësit, Sheshi Iliria, Durrës, Bashkia Durrës (Wikipedia 11m)"
+  ],
+  "durres-h4": [
+    41.30655,
+    19.48832,
+    "OSM Nominatim: Beach of Durrës, Durrës, Bashkia Durrës, Qarku i Durrësit, 2 (Wikipedia 160m)"
+  ],
+  "durres-h5": [
+    41.31466,
+    19.43837,
+    "OSM Nominatim: Vila Mbretërore e Durrësit, Rruga Kont Urani, Durrës, Bashki (Wikipedia 28m)"
+  ],
+  "kruje-h1": [
+    41.50689,
+    19.79393,
+    "OSM Nominatim: Kalaja e Krujës, Albanopolis, Krujë, Bashkia Krujë, Qarku i  (Wikipedia 7m)"
+  ],
+  "shkoder-h3": [
+    42.06838,
+    19.51603,
+    "OSM Nominatim: Rruga Kolë Idromeno, Vasil Shanto, Lagjja 3, Shkodër, Bashki (Wikipedia 339m)"
+  ],
+  "shkoder-h5": [
+    42.11449,
+    19.57515,
+    "OSM Nominatim: Ura e Mesit, Boks, Postribë, Bashkia Shkodër, Qarku i Shkodr (Wikipedia 23m)"
+  ],
+  "korce-h1": [
+    40.61775,
+    20.77476,
+    "OSM Nominatim: Pazari i Vjetër, Rrugica Koli Karapanxha, Pazari i Korçës, K (Wikipedia 38m)"
+  ],
+  "korce-h5": [
+    40.6332,
+    20.59061,
+    "OSM Nominatim: Voskopojë, Bashkia Korçë, Qarku i Korçës, 7029, Shqipëria (Wikipedia 32m)"
+  ],
+  "vlore-h4": [
+    40.51728,
+    19.40278,
+    "OSM Nominatim: Manastiri i Shën Marisë të Zvërnecit, Rruga Manastirit, Çobe (Wikipedia 24m)"
+  ],
+  "vlore-h5": [
+    40.19819,
+    19.59241,
+    "OSM Nominatim: Qafa e Llogarasë, Orikum, Bashkia Vlorë, Qarku i Vlorës, 942 (Wikipedia 79m)"
+  ],
+  "himare-h4": [
+    40.06218,
+    19.79071,
+    "OSM Nominatim: Kalaja e Porto Palermos, Rruga Vangjel Zoto, Himarë, Bashkia (Wikipedia 32m)"
+  ],
+  "durres-h2": [
+    41.31155,
+    19.44024,
+    "OSM Nominatim: Muzeu Arkeologjik Durrës, Rruga Taulantia, Durrës, Bashkia D (Wikidata 18m)"
+  ],
+  "shkoder-h4": [
+    42.059,
+    19.45754,
+    "OSM Nominatim: Shirokë, Shkodër, Bashkia Shkodër, Qarku i Shkodrës, 4007, S (Wikidata 187m)"
+  ],
+  "korce-h2": [
+    40.61235,
+    20.78671,
+    "OSM Nominatim: Muzeu Kombëtar i Artit Mesjetar, 59, Bulevardi Fan Noli, Kor (Wikidata 460m)"
+  ],
+  "himare-h3": [
+    40.10693,
+    19.727,
+    "OSM Nominatim: Plazhi i Livadhit, Spile, Himarë, Bashkia Himarë, Qarku i Vl (Wikidata 111m)"
+  ],
+  "kruje-h2": [
+    41.50746,
+    19.79407,
+    "OSM Nominatim: Muzeu Historik Kombëtar \"Gjergj Kastriot Skëndërbeu\", Kalasë (Wikipedia 15m) (Wikidata 8m)"
+  ],
+  "korce-h4": [
+    40.61587,
+    20.77541,
+    "OSM Nominatim: Xhamia e Iljaz Mirahorit, Rruga Floresha Myteveli, Korçë, Ba (Wikipedia 12m) (Wikidata 5m)"
+  ],
+  "shkoder-h2": [
+    42.06858,
+    19.51557,
+    "OSM Nominatim: Fototeka Kombëtare e Fotografisë - Marubi, 34, Rruga Kolë Id (Wikipedia 2m) (Wikidata 9m)"
+  ],
+  "korce-h3": [
+    40.61574,
+    20.78082,
+    "OSM Nominatim: Katedralja Ringjallja, Rruga Mihal Grameno, Korçë, Bashkia K (Wikidata 7m)"
+  ],
+  "vlore-h2": [
+    40.46905,
+    19.49087,
+    "OSM Nominatim: Xhamia Muradie, Rruga Demokracia, Vlorë, Bashkia Vlorë, Qark (Wikipedia 5m) (Wikidata 5m)"
+  ],
+  "shkoder-h1": [
+    42.04653,
+    19.49391,
+    "OSM Nominatim: Kalaja e Rozafës, 10 Korriku, Lagjja 4, Shkodër, Bashkia Shk (Wikidata 78m)"
+  ],
+  "vlore-h1": [
+    40.47067,
+    19.49066,
+    "OSM Nominatim: Monumenti i Pavarësisë, Rruga Liria, Vlorë, Bashkia Vlorë, Q (Wikidata 35m)"
+  ],
+  "kruje-h5": [
+    41.50608,
+    19.7928,
+    "OSM Nominatim: Teqeja e Dollmës, Stonebridge, Krujë, Bashkia Krujë, Qarku i (Wikipedia 2m)"
   ]
 }

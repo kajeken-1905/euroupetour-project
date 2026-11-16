@@ -1413,11 +1413,12 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#2A0A10',
     },
-    cityIds: ['tirana', 'berat', 'gjirokaster', 'sarande'],
+    cityIds: ['tirana', 'durres', 'kruje', 'shkoder', 'berat', 'gjirokaster', 'korce', 'vlore', 'himare', 'sarande'],
     cityGroups: [
-      { title: { ko: '티라나·중부', en: 'Tirana & central' }, cityIds: ['tirana'] },
-      { title: { ko: '남부 내륙', en: 'Southern interior' }, cityIds: ['berat', 'gjirokaster'] },
-      { title: { ko: '이오니아 해안', en: 'Ionian coast' }, cityIds: ['sarande'] },
+      { title: { ko: '티라나·중부', en: 'Tirana & central' }, cityIds: ['tirana', 'durres', 'kruje'] },
+      { title: { ko: '북부', en: 'North' }, cityIds: ['shkoder'] },
+      { title: { ko: '남부 내륙', en: 'Southern interior' }, cityIds: ['berat', 'gjirokaster', 'korce'] },
+      { title: { ko: '이오니아 해안', en: 'Ionian coast' }, cityIds: ['vlore', 'himare', 'sarande'] },
     ],
   },
   {

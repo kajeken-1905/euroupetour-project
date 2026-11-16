@@ -357,6 +357,24 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['블루 아이와 메소포탐|Blue Eye & Mesopotam', 8, 3],
     ],
   },
+  durres: [1, 3, 2, 5, 4],
+  kruje: [3, 1, 5, 2, 4],
+  shkoder: { days: [['', 3, 2, 1, 4]], trips: [['메스 다리|Mes Bridge', 5]] },
+  korce: { days: [['', 1, 4, 3, 2]], trips: [['보스코포여|Voskopojë', 5]] },
+  vlore: {
+    days: [['', 1, 2, 3]],
+    trips: [
+      ['즈베르네츠 수도원|Zvërnec', 4],
+      ['로고라 고개|Llogara Pass', 5],
+    ],
+  },
+  himare: {
+    days: [['', 2, 1, 3]],
+    trips: [
+      ['포르토 팔레르모 성|Porto Palermo', 4],
+      ['드흐르미와 지프 해변|Dhërmi & Gjipe', 5],
+    ],
+  },
   kyiv: [2, 3, 1],
   lviv: [1, 2, 3],
   odesa: [2, 3, 1],

@@ -4280,3 +4280,39 @@ highlights/sarande-7.jpg | https://commons.wikimedia.org/wiki/File:Onchesmos_5th
 highlights/sarande-8.jpg | https://commons.wikimedia.org/wiki/File:Mesopotam_monastery.jpg | CC BY-SA 4.0 | Rob Sherratt
 highlights/sarande-2.jpg | https://commons.wikimedia.org/wiki/File:L%C3%ABkur%C3%ABsi_Castle,_Saranda,_Albania_2015-09-25_02.jpg | CC BY-SA 4.0 | Pasztilla¨aka Attila Terbócs
 highlights/sarande-4.jpg | https://commons.wikimedia.org/wiki/File:Mosaic_of_Butrint_Baptistery.jpg | CC BY-SA 4.0 | Albinfo
+cities/durres.jpg | https://commons.wikimedia.org/wiki/File:Durres,Portez_beach.jpg | CC BY-SA 4.0 | Durres1998
+highlights/durres-1.jpg | https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Durr%C3%ABs_(by_Pudelek).JPG | CC BY-SA 4.0 | Pudelek
+highlights/durres-2.jpg | https://commons.wikimedia.org/wiki/File:Archeologic_Museum_of_Durres.jpg | CC BY-SA 4.0 | Jora Kasapi
+highlights/durres-3.jpg | https://commons.wikimedia.org/wiki/File:The_Venetian_Tower_of_Durr%C3%ABs,_Albania.jpg | CC BY-SA 4.0 | Gerimema2
+highlights/durres-4.jpg | https://commons.wikimedia.org/wiki/File:Plazhi_i_Durr%C3%ABsit_02.jpg | CC0 | Shkelzen A. Rexha
+highlights/durres-5.jpg | https://commons.wikimedia.org/wiki/File:Royal_Villa_of_King_Zog,_in_Durr%C3%ABs.jpg | CC BY-SA 4.0 | Besara1
+cities/kruje.jpg | https://www.flickr.com/photos/23442653@N00/3940018132 | BY 2.0 | Dave Proffer
+highlights/kruje-1.jpg | https://commons.wikimedia.org/wiki/File:Kruj%C3%AB_castle_during_sunset.jpg | CC BY-SA 4.0 | Ravi Dwivedi
+highlights/kruje-2.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_Skanderbega_w_Kruji_2.jpg | CC BY-SA 3.0 | Marcin Konsek
+highlights/kruje-3.jpg | https://commons.wikimedia.org/wiki/File:Pazari_i_vjet%C3%ABr_i_Kruj%C3%ABs_05.jpg | CC BY-SA 4.0 | ShkelzenRexha
+highlights/kruje-4.jpg | https://commons.wikimedia.org/wiki/File:Ethnographic_Museum_of_Kruja_2.jpg | CC BY-SA 4.0 | Andisrado
+cities/shkoder.jpg | https://commons.wikimedia.org/wiki/File:Vista_de_Shkodra,_Albania,_2014-04-18,_DD_24.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/shkoder-1.jpg | https://commons.wikimedia.org/wiki/File:Rozafa_Castle_in_July_2013_(5).JPG | CC BY-SA 3.0 | Bdx
+highlights/shkoder-2.jpg | https://commons.wikimedia.org/wiki/File:Marubi_Museum_Photography_in_Shkod%C3%ABr_Albania.jpg | CC BY-SA 4.0 | Artemiss.B
+highlights/shkoder-3.jpg | https://commons.wikimedia.org/wiki/File:Kol%C3%AB_Idromeno_St._Shkodra.jpg | CC BY-SA 4.0 | Arianit
+highlights/shkoder-4.jpg | https://commons.wikimedia.org/wiki/File:Shkodra_lake_near_Shiroka.jpg | CC BY-SA 4.0 | DGA05
+highlights/shkoder-5.jpg | https://commons.wikimedia.org/wiki/File:Ura_e_Mesit_Mbi_Perroin_e_Kirit_03.jpg | CC BY-SA 4.0 | ShkelzenRexha
+cities/korce.jpg | https://www.flickr.com/photos/16687586@N00/41860731402 | BY-SA 2.0 | gripso_banana_prune
+highlights/korce-1.jpg | https://commons.wikimedia.org/wiki/File:2014_Kor%C3%A7%C3%AB_,_Pazari_i_Vjet%C3%ABr_01.JPG | CC BY-SA 4.0 | Berberi PG
+highlights/korce-2.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Medieval_Art_05.jpg | CC BY-SA 4.0 | Muzeu Kombëtar i Artit Mesjetar
+highlights/korce-3.jpg | https://www.flickr.com/photos/16687586@N00/28033819138 | BY-SA 2.0 | gripso_banana_prune
+highlights/korce-4.jpg | https://commons.wikimedia.org/wiki/File:Kor%C3%A7%C3%AB_-_Mirahor-Moschee_1a.jpg | CC BY-SA 4.0 | Wolfgang Sauber
+highlights/korce-5.jpg | https://commons.wikimedia.org/wiki/File:Lapidar_in_Voskopoja.JPG | CC BY-SA 4.0 | Geographer84
+cities/vlore.jpg | https://www.flickr.com/photos/13832715@N05/6257739891 | BY 2.0 | Godo-Godaj
+highlights/vlore-1.jpg | https://commons.wikimedia.org/wiki/File:The_monument_of_Independence_in_Vlor%C3%AB_(Vlora).jpg | CC BY 2.0 | Constantine H.
+highlights/vlore-2.jpg | https://commons.wikimedia.org/wiki/File:Xhamia_Muradie_Vlor%C3%AB_2.jpg | CC BY-SA 4.0 | Arianit
+highlights/vlore-3.jpg | https://commons.wikimedia.org/wiki/File:Vlora_waterfront_project_albania_2016.jpg | CC BY-SA 2.0 | blackcharliepho - @Flickr: https://www.flickr.com/photos/bla
+highlights/vlore-4.jpg | https://commons.wikimedia.org/wiki/File:Kloster_Zvernec_Albania_1.JPG | CC BY-SA 3.0 | Decius
+highlights/vlore-5.jpg | https://commons.wikimedia.org/wiki/File:Llogara_park_Albania_2018_3.jpg | CC BY-SA 4.0 | Karelj
+cities/himare.jpg | https://commons.wikimedia.org/wiki/File:Himara_Potam_Beach_(2).jpg | CC BY-SA 2.0 | Mario Gjashta
+highlights/himare-1.jpg | https://commons.wikimedia.org/wiki/File:Kalaja_e_Himares_buze_mbremje_02.jpg | CC BY-SA 4.0 | Telemak GOGA
+highlights/himare-2.jpg | https://commons.wikimedia.org/wiki/File:Himara_potami.jpg | CC BY-SA 3.0 | Aggbel
+highlights/himare-3.jpg | https://commons.wikimedia.org/wiki/File:Livadhi_Beach,_Himare_-_2020_July.jpg | CC BY-SA 4.0 | Liridon
+highlights/himare-4.jpg | https://commons.wikimedia.org/wiki/File:Porto_Palermo_Castle_(by_Pudelek)_4.JPG | CC BY-SA 4.0 | Pudelek
+highlights/himare-5.jpg | https://commons.wikimedia.org/wiki/File:Gjipe_beach,_Albania.JPG | CC BY-SA 3.0 | Pudelek
+highlights/kruje-5.jpg | https://commons.wikimedia.org/wiki/File:Dollma_Tekke_in_Kruj%C3%AB_(1).jpg | CC BY-SA 4.0 | Marie Čcheidzeová

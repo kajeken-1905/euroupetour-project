@@ -7224,6 +7224,60 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  durres: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 해변 지구까지는 시내버스나 택시를 탑니다.',
+      en: 'Walk the old town; take a city bus or taxi to the beach district.',
+    },
+    apps: [
+    ],
+  },
+  kruje: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다니고, 티라나에서 미니버스가 옵니다.',
+      en: 'A small town best on foot; minibuses come from Tirana.',
+    },
+    apps: [
+    ],
+  },
+  shkoder: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고 자전거를 많이 탑니다. 호수와 다리는 자전거나 택시로 갑니다.',
+      en: 'Walk the centre or do as locals do and cycle; the lake and the bridge are a bike or taxi ride away.',
+    },
+    apps: [
+    ],
+  },
+  korce: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 보스코포여는 택시나 차로 갑니다.',
+      en: 'Walk the town; reach Voskopojë by taxi or car.',
+    },
+    apps: [
+    ],
+  },
+  vlore: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 남쪽 해변과 수도원은 시내버스나 택시로 갑니다.',
+      en: 'Walk the centre; take a city bus or taxi to the southern beaches and the monastery.',
+    },
+    apps: [
+    ],
+  },
+  himare: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 다른 해변은 택시나 하루 몇 번 다니는 버스로 갑니다.',
+      en: 'Walk the town; reach the other beaches by taxi or the few daily buses.',
+    },
+    apps: [
+    ],
+  },
   // —— bg ——
   sofia: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],

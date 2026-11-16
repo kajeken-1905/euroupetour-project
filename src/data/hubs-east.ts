@@ -603,6 +603,32 @@ export const hubsEast: Record<string, RawCityHubs> = {
     ],
     port: [['Porti i Sarandës', '사란더 항구', '그리스 코르푸행 페리|ferries to Corfu, Greece']],
   },
+  durres: {
+    air: [TIA()],
+    bus: [['Terminali i Autobusëve Durrës', '두러스 버스터미널']],
+    port: [['Porti i Durrësit', '두러스 항', '이탈리아 바리·앙코나행 페리|ferries to Bari and Ancona, Italy']],
+  },
+  kruje: {
+    air: [TIA()],
+    bus: [['Krujë bus stop', '크루야 버스 정류장']],
+  },
+  shkoder: {
+    air: [TIA()],
+    bus: [['Terminali i Autobusëve Shkodër', '슈코더르 버스터미널', '테트·발보너행 미니버스|minibuses to Theth and Valbonë']],
+  },
+  korce: {
+    air: [TIA()],
+    bus: [['Terminali i Autobusëve Korçë', '코르처 버스터미널']],
+  },
+  vlore: {
+    air: [TIA()],
+    bus: [['Terminali i Autobusëve Vlorë', '블로러 버스터미널']],
+    port: [['Porti i Vlorës', '블로러 항', '이탈리아 브린디시행 페리|ferries to Brindisi, Italy']],
+  },
+  himare: {
+    air: [TIA()],
+    bus: [['Himarë bus stop', '히마러 버스 정류장', '블로러·사란다행|to Vlorë and Sarandë']],
+  },
 
   // —— xk ——
   pristina: {
