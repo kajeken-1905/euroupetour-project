@@ -341,14 +341,20 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   limassol: { days: [['', 3, 1, 2, 4]], trips: [['와인 박물관|Wine Museum', 5]] },
   paphos: { days: [['', 3, 2, 1, 4]], trips: [['아프로디테 바위|Aphrodite’s Rock', 5]] },
   'ayia-napa': [1, 3, 4, 2, 5],
-  tirana: { days: [['', 5, 1, 4, 2]], trips: [['다이티 산|Mount Dajti', 3]] },
-  berat: [3, 5, 2, 1, 4],
-  gjirokaster: [2, 5, 4, 3, 1],
+  tirana: {
+    days: [
+      ['중심가|City centre', 1, 8, 5, 7, 10, 9],
+      ['블로쿠·남쪽|Blloku & south', 4, 2, 11],
+    ],
+    trips: [['다이티 산과 벙크아트 1|Mount Dajti & Bunk’Art 1', 3, 6]],
+  },
+  berat: [2, 8, 7, 5, 3, 1, 6, 4],
+  gjirokaster: [2, 7, 5, 1, 3, 6, 4, 8],
   sarande: {
-    days: [['', 1, 2]],
+    days: [['', 1, 7, 2, 6]],
     trips: [
-      ['부트린트와 해변|Butrint & the beaches', 4, 5],
-      ['블루 아이|Blue Eye', 3],
+      ['부트린트와 크사밀|Butrint & Ksamil', 4, 5],
+      ['블루 아이와 메소포탐|Blue Eye & Mesopotam', 8, 3],
     ],
   },
   kyiv: [2, 3, 1],

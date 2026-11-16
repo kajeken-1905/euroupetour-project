@@ -4260,3 +4260,23 @@ highlights/stip-2.jpg | https://commons.wikimedia.org/wiki/File:%D0%A8%D1%82%D0%
 highlights/stip-3.jpg | https://commons.wikimedia.org/wiki/File:Sv._Nikola_-_%C5%A0tip_4.JPG | CC BY-SA 3.0 | This illustration was made by Rašo.
 highlights/stip-4.jpg | https://commons.wikimedia.org/wiki/File:Husa_Medin_Pasha_Mosque_in_%C5%A0tip.jpg | CC BY-SA 3.0 | This illustration was made by Rašo.
 highlights/stip-5.jpg | https://commons.wikimedia.org/wiki/File:Bargala_(7438469900).jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
+highlights/tirana-6.jpg | https://commons.wikimedia.org/wiki/File:Bunk%27art_Tunnel_-_Mapillary_(cb9o_yznl64Kd3tv7JVUNA).jpg | CC BY-SA 4.0 | kobykarin @ Mapillary.com
+highlights/tirana-7.jpg | https://commons.wikimedia.org/wiki/File:BunkArt2_Bunker_Clocktower_(WPWTR16).JPG | CC BY-SA 4.0 | Albinfo
+highlights/tirana-8.jpg | https://commons.wikimedia.org/wiki/File:Tirana,_Muzeu_Historik_Komb%C3%ABtar,_2024-10_CN-01.jpg | CC BY-SA 4.0 | Steffen Schmitz (more photos)
+highlights/tirana-9.jpg | https://commons.wikimedia.org/wiki/File:New_Bazaar_(Pazari_i_Ri),_Tirana,_Albania.jpg | CC0 | Ridiculopathy
+highlights/tirana-10.jpg | https://commons.wikimedia.org/wiki/File:Muzeu_Komb%C3%ABtar_i_P%C3%ABrgjimeve,_%E2%80%9CSht%C3%ABpia_me_Gjethe%E2%80%9D.jpg | CC BY-SA 3.0 | Bes-ART
+highlights/tirana-11.jpg | https://commons.wikimedia.org/wiki/File:Grand_Park_of_Tirana_(2020).jpg | CC BY-SA 2.0 | P4Jags
+highlights/berat-5.jpg | https://commons.wikimedia.org/wiki/File:Ura_Goric%C3%ABs_n%C3%AB_Berat.jpg | CC BY-SA 4.0 | OdettMelody
+highlights/berat-6.jpg | https://commons.wikimedia.org/wiki/File:Kisha_e_shen_Triadhes.JPG | CC BY-SA 4.0 | InaMyrtollari
+highlights/berat-7.jpg | https://commons.wikimedia.org/wiki/File:Die_Halveti-Tekke_(Teqeja_e_Helvetive)_des_Sufiordens_Halveti,_Berati_-_panoramio.jpg | CC BY 3.0 | Martin Furtschegger
+highlights/berat-8.jpg | https://commons.wikimedia.org/wiki/File:Xhamia_e_Beqareve,Berat-April_2022.jpg | CC BY-SA 4.0 | Zoogr
+highlights/gjirokaster-6.jpg | https://commons.wikimedia.org/wiki/File:Shtepia_e_Zekateve_Gjirokaster.jpg | CC BY-SA 4.0 | Gjirokastra1
+highlights/gjirokaster-7.jpg | https://commons.wikimedia.org/wiki/File:Gjirokast%C3%ABr_Mosque_-_Mosques_in_Albania.jpg | CC BY-SA 2.0 | Marcos Escudero Olano
+highlights/gjirokaster-8.jpg | https://commons.wikimedia.org/wiki/File:Gjirokastra_%E2%80%93_Ura_e_Ali_Pash%C3%ABs_-_Mapillary_(n3MZxlDHs6RRpr5t1uLaAw).jpg | CC BY-SA 4.0 | malenki @ Mapillary.com
+highlights/gjirokaster-2.jpg | https://commons.wikimedia.org/wiki/File:Gjirokastra_Old_Bazaar_-_Cobblestone_Street_and_Shops.jpg | CC BY-SA 4.0 | Senada Kusi
+highlights/gjirokaster-4.jpg | https://commons.wikimedia.org/wiki/File:Muzeu_Etnografik_ne_Gjirokaster.jpg | CC BY-SA 4.0 | Oltashehu
+highlights/sarande-6.jpg | https://commons.wikimedia.org/wiki/File:Manastiri_i_40_Shenjtoreve.jpg | CC BY-SA 4.0 | Albinfo
+highlights/sarande-7.jpg | https://commons.wikimedia.org/wiki/File:Onchesmos_5th_c_synagogue_2015_03.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/sarande-8.jpg | https://commons.wikimedia.org/wiki/File:Mesopotam_monastery.jpg | CC BY-SA 4.0 | Rob Sherratt
+highlights/sarande-2.jpg | https://commons.wikimedia.org/wiki/File:L%C3%ABkur%C3%ABsi_Castle,_Saranda,_Albania_2015-09-25_02.jpg | CC BY-SA 4.0 | Pasztilla¨aka Attila Terbócs
+highlights/sarande-4.jpg | https://commons.wikimedia.org/wiki/File:Mosaic_of_Butrint_Baptistery.jpg | CC BY-SA 4.0 | Albinfo

@@ -1414,6 +1414,11 @@ export const countries: Country[] = [
       text: '#2A0A10',
     },
     cityIds: ['tirana', 'berat', 'gjirokaster', 'sarande'],
+    cityGroups: [
+      { title: { ko: '티라나·중부', en: 'Tirana & central' }, cityIds: ['tirana'] },
+      { title: { ko: '남부 내륙', en: 'Southern interior' }, cityIds: ['berat', 'gjirokaster'] },
+      { title: { ko: '이오니아 해안', en: 'Ionian coast' }, cityIds: ['sarande'] },
+    ],
   },
   {
     id: 'xk',

@@ -11897,5 +11897,75 @@
     41.36894,
     21.25231,
     "OSM Nominatim: Никола Мартиноски, Нико Доага-Кољка, Струнга, Крушево, Општи (Wikipedia 352m)"
+  ],
+  "tirana-h9": [
+    41.33025,
+    19.82435,
+    "OSM Nominatim: Pazari i Ri, Rruga Luigj Gurakuqi, Njësia Bashkiake Nr. 2, T (Wikipedia 34m)"
+  ],
+  "tirana-h11": [
+    41.31149,
+    19.82945,
+    "OSM Nominatim: Parku i Madh i Tiranës, Njësia Bashkiake Nr. 2, Tiranë, Bash (Wikipedia 621m)"
+  ],
+  "berat-h5": [
+    40.70321,
+    19.94463,
+    "OSM Nominatim: Ura e Goricës, Mangalem, Berat, Bashkia Berat, Qarku i Berat (Wikipedia 58m)"
+  ],
+  "berat-h6": [
+    40.70787,
+    19.94443,
+    "OSM Nominatim: Kisha e Shën Triadhës, Rruga Lagje Kala, Kalaja e Beratit, B (Wikipedia 398m)"
+  ],
+  "berat-h8": [
+    40.70475,
+    19.95001,
+    "OSM Nominatim: Xhamia e Beqarëve, Rruga Antipatrea, Mangalem, Berat, Bashki (Wikipedia 7m)"
+  ],
+  "gjirokaster-h1": [
+    40.07323,
+    20.14001,
+    "OSM Nominatim: Kalaja e Gjirokastrës, Rruga Peço Qirka, Gjirokastër, Bashki (Wikipedia 120m)"
+  ],
+  "sarande-h5": [
+    39.77014,
+    20.00379,
+    "OSM Nominatim: Ksamil, Bashkia Sarandë, Qarku i Vlorës, 9706, Shqipëria (Wikipedia 504m)"
+  ],
+  "gjirokaster-h6": [
+    40.07484,
+    20.13234,
+    "OSM Nominatim: Zekate House, Rruga Mazllëm Shazivari, Gjirokastër, Bashkia  (Wikipedia 5m)"
+  ],
+  "sarande-h1": [
+    39.87329,
+    20.00558,
+    "OSM Nominatim: Rruga Jonianët, Gjashtë, Sarandë, Bashkia Sarandë, Qarku i V (Wikipedia 422m)"
+  ],
+  "tirana-h6": [
+    41.35314,
+    19.86121,
+    "OSM Nominatim: Bunk'Art, Rruga Fadil Deliu, Fresku, Qesarak (Linsa), Shtish (Wikidata 166m)"
+  ],
+  "tirana-h7": [
+    41.32702,
+    19.81955,
+    "OSM Nominatim: Bunk'Art 2, Rruga Abdi Toptani, Njësia Bashkiake Nr. 2, Tira (Wikidata 12m)"
+  ],
+  "tirana-h10": [
+    41.32647,
+    19.81633,
+    "OSM Nominatim: Shtëpia me Gjethe - Muzeu i Përgjimeve të Sigurimit të Shtet (Wikidata 26m)"
+  ],
+  "berat-h7": [
+    40.70569,
+    19.95204,
+    "OSM Nominatim: Xhamia Mbret, Rruga Kurt Pasha, Mangalem, Berat, Bashkia Ber (Wikidata 17m)"
+  ],
+  "tirana-h8": [
+    41.32943,
+    19.81667,
+    "OSM Nominatim: Muzeu Historik Kombëtar, 7, Sheshi Skënderbej, Njësia Bashki (Wikidata 45m)"
   ]
 }
