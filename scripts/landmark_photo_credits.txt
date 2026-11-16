@@ -4236,3 +4236,27 @@ highlights/kutna-hora-7.jpg | https://commons.wikimedia.org/wiki/File:Kutn%C3%A1
 highlights/plzen-6.jpg | https://commons.wikimedia.org/wiki/File:Hrad_%C5%A0vihov_od_v%C3%BDchodu.jpg | CC BY-SA 4.0 | Jiří Strašek
 highlights/telc-7.jpg | https://commons.wikimedia.org/wiki/File:Jarom%C4%9B%C5%99ice_nad_Rokytnou,_z%C3%A1mek_(4).jpg | CC BY-SA 3.0 | Jan Polák
 highlights/ceske-budejovice-8.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_%C4%8Cerven%C3%A1_Lhota_14.jpg | CC BY-SA 3.0 | Czeva
+cities/struga.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Struga,_Lake_Ohrid_%26_Black_Drin_(7).jpg | CC BY-SA 4.0 | Liridon
+highlights/struga-1.jpg | https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B5%D0%B7%D0%B8%D1%98%D0%B0%D1%82%D0%B0.jpg | CC BY-SA 4.0 | Dandarmkd
+highlights/struga-2.jpg | https://commons.wikimedia.org/wiki/File:%D0%A6%D1%80%D0%BA%D0%B2%D0%B0,,%D0%A1%D0%B2%D0%B5%D1%82%D0%B8_%D0%83%D0%BE%D1%80%D1%93%D0%B8,,_%D0%A1%D1%82%D1%80%D1%83%D0%B3%D0%B0_,_The_Church_of_St.George_,_Struga.JPG | CC BY-SA 4.0 | Jakupica
+highlights/struga-3.jpg | https://commons.wikimedia.org/wiki/File:Ohrid_Lake_22.JPG | CC BY-SA 3.0 | Makedonski biseri
+highlights/struga-4.jpg | https://commons.wikimedia.org/wiki/File:%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%E2%80%9E%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0%E2%80%9C_-_%D0%9A%D0%B0%D0%BB%D0%B8%D1%88%D1%82%D0%B0.jpg | CC BY-SA 4.0 | Kiril Simeonovski
+highlights/struga-5.jpg | https://commons.wikimedia.org/wiki/File:Vevchani_springs.jpg | CC BY-SA 3.0 | Silfiriel
+cities/prilep.jpg | https://commons.wikimedia.org/wiki/File:Prilep_-_Tomb_of_the_Undefeated_(2024)_01.jpg | CC BY-SA 4.0 | Pudelek
+highlights/prilep-1.jpg | https://commons.wikimedia.org/wiki/File:Markovi_kuli_1.JPG | CC BY-SA 3.0 | Petar Milošević
+highlights/prilep-2.jpg | https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%E2%80%9C%D0%A1%D0%B2._%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%E2%80%9C,_%D0%92%D0%B0%D1%80%D0%BE%D1%88,_%D0%9F%D1%80%D0%B8%D0%BB%D0%B5%D0%BF.jpg | CC BY-SA 4.0 | Filip.pere
+highlights/prilep-3.jpg | https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D1%87%D0%B0%D1%80%D1%88%D0%B8%D1%98%D0%B0-%D0%9F%D1%80%D0%B8%D0%BB%D0%B5%D0%BF..jpg | CC BY-SA 4.0 | FilipB.88
+highlights/prilep-4.jpg | https://commons.wikimedia.org/wiki/File:Inv_br_006.jpg | CC BY-SA 3.0 | Arwena at Macedonian Wikipedia
+highlights/prilep-5.jpg | https://commons.wikimedia.org/wiki/File:Treskavec_Monastery_02.jpg | CC BY 2.0 | Geoff Wong
+cities/krusevo.jpg | https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%83%D0%BC_-_%D0%9A%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BE.jpg | CC BY-SA 3.0 | Марјан Петковски
+highlights/krusevo-1.jpg | https://commons.wikimedia.org/wiki/File:Makedonija140.jpg | CC BY-SA 3.0 | Merlotica at Slovenian Wikipedia
+highlights/krusevo-2.jpg | https://commons.wikimedia.org/wiki/File:To%C5%A1e_Proeski_Memorial.jpg | CC BY 2.0 | Milo van Kovacevic
+highlights/krusevo-3.jpg | https://commons.wikimedia.org/wiki/File:Ilinden_2011,_Meckin_kamen.jpg | Public domain | Plamen at sr.wikipedia
+highlights/krusevo-4.jpg | https://commons.wikimedia.org/wiki/File:Krushevo_-_St_Nicholas_Church_-_P1100221.JPG | CC BY-SA 3.0 | User:Vmenkov
+highlights/krusevo-5.jpg | https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D1%83%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_,_Architecture_of_Krusevo_city_5.JPG | CC BY-SA 4.0 | Makedonski biseri
+cities/stip.jpg | https://commons.wikimedia.org/wiki/File:Sv._Kliment_Ohridski_-_Stip_07.JPG | CC BY-SA 3.0 | This illustration was made by Rašo.
+highlights/stip-1.jpg | https://commons.wikimedia.org/wiki/File:Isarot-%C5%A0tip_8.JPG | CC BY-SA 3.0 | This illustration was made by Rašo.
+highlights/stip-2.jpg | https://commons.wikimedia.org/wiki/File:%D0%A8%D1%82%D0%B8%D0%BF%D1%81%D0%BA%D0%B8%D0%BE%D1%82_%D0%B1%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%B5%D0%BD_(2021)_2.jpg | CC BY-SA 4.0 | Dandarmkd
+highlights/stip-3.jpg | https://commons.wikimedia.org/wiki/File:Sv._Nikola_-_%C5%A0tip_4.JPG | CC BY-SA 3.0 | This illustration was made by Rašo.
+highlights/stip-4.jpg | https://commons.wikimedia.org/wiki/File:Husa_Medin_Pasha_Mosque_in_%C5%A0tip.jpg | CC BY-SA 3.0 | This illustration was made by Rašo.
+highlights/stip-5.jpg | https://commons.wikimedia.org/wiki/File:Bargala_(7438469900).jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany

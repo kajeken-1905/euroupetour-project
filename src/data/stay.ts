@@ -2555,6 +2555,18 @@ export const STAY: Record<string, StayArea[]> = {
     a('스코페에서 다녀오기', 'Base in Skopje', 'Skopje bus station', '당일치기|Day trip', '50km쯤, 버스로 1시간 조금 넘게 걸려 하루면 채색 모스크와 아라바티 바바 테케를 봅니다.|About 50 km, a little over an hour by bus; a day covers the Painted Mosque and Arabati Baba Teke.'),
     a('테토보 시내 (일린덴스카 거리 주변)', 'Town centre (Ilindenska)', 'Tetovo city centre', '하룻밤·오흐리드 가는 길|Overnight, en route to Ohrid', '시장과 모스크, 식당이 걸어서 닿습니다. 마브로보·오흐리드로 가는 길에 하룻밤 묵기 좋습니다.|The bazaar, mosque and restaurants on foot; a handy overnight on the way to Mavrovo or Ohrid.'),
   ],
+  struga: [
+    a('강변·호숫가 중심', 'Riverside centre', 'Struga centre', '걸어서 다 보기|Everything on foot', '시의 다리와 해변, 식당이 걸어서 가깝습니다. 오흐리드 공항이 10km쯤입니다.|The bridge, beach and restaurants are all on foot; Ohrid airport is about 10 km away.'),
+  ],
+  prilep: [
+    a('시내 중심', 'Town centre', 'Prilep centre', '구경 거점|Sightseeing base', '구시장과 박물관이 걸어서 가깝고 마르코의 탑까지 30분쯤 걷습니다.|The bazaar and museum are on foot, with Markovi Kuli about a 30-minute walk.'),
+  ],
+  krusevo: [
+    a('구시가', 'Old town', 'Krusevo', '분위기|Atmosphere', '옛 집을 고친 숙소에서 묵으며 비탈 골목을 걷습니다. 마케도니움까지 걸어서 20분쯤입니다.|Stay in a restored old house and walk the hillside lanes; the Makedonium is about 20 minutes on foot.'),
+  ],
+  stip: [
+    a('시내 중심', 'City centre', 'Štip centre', '구경 거점|Sightseeing base', '베즈이스텐과 교회, 이사르 언덕 오르는 길이 걸어서 가깝습니다.|The bezisten, the church and the path up the Isar are all on foot.'),
+  ],
   soroca: [
     a('키시너우에서 다녀오기', 'Base in Chișinău', 'Chișinău North Bus Station', '당일치기|Day trip', '북부 버스 터미널에서 버스로 2시간 반~3시간쯤이고, 요새와 집시 언덕은 하루면 봅니다. 버스 정류장에서 요새까지 걸어서 20분쯤입니다.|2.5–3 hours by bus from the North Bus Station; a day covers the fortress and Gypsy Hill. The fortress is about 20 minutes’ walk from the bus stop.'),
   ],

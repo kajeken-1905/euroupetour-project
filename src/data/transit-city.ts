@@ -7135,6 +7135,42 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  struga: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다니고, 오흐리드와는 버스가 자주 오갑니다.',
+      en: 'A small town best on foot; buses run often to Ohrid.',
+    },
+    apps: [
+    ],
+  },
+  prilep: {
+    modes: ['walk', 'bus', 'taxi', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 수도원은 차나 택시로 갑니다.',
+      en: 'Walk the town; reach the monasteries by car or taxi.',
+    },
+    apps: [
+    ],
+  },
+  krusevo: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다니고, 프릴레프에서 버스가 들어옵니다.',
+      en: 'A small town best on foot; buses come in from Prilep.',
+    },
+    apps: [
+    ],
+  },
+  stip: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 바르갈라는 차나 택시로 갑니다.',
+      en: 'Walk the town; reach Bargala by car or taxi.',
+    },
+    apps: [
+    ],
+  },
   // —— al ——
   tirana: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],

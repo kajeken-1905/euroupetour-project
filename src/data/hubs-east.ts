@@ -566,6 +566,23 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [SKP()],
     bus: [['Tetovo Bus Station', '테토보 버스터미널']],
   },
+  struga: {
+    air: [['Ohrid St. Paul the Apostle (OHD)', '오흐리드 공항 (OHD)', '오흐리드|Ohrid']],
+    bus: [['Struga Bus Station', '스트루가 버스터미널']],
+  },
+  prilep: {
+    air: [SKP()],
+    rail: [['Prilep', '프릴레프역']],
+    bus: [['Prilep Bus Station', '프릴레프 버스터미널']],
+  },
+  krusevo: {
+    air: [SKP()],
+    bus: [['Kruševo Bus Station', '크루셰보 버스터미널']],
+  },
+  stip: {
+    air: [SKP()],
+    bus: [['Štip Bus Station', '슈티프 버스터미널']],
+  },
 
   // —— al ——
   tirana: {
