@@ -3736,7 +3736,8 @@
 "ok": 1
 },
 "chisinau-bakery-5": {
-"del": "Julia's Sweets Coffee House Chișinău not found in any source"
+"ok": 1,
+"src": "2026-11-17 google maps"
 },
 "chisinau-cafe-1": {
 "del": "Odélle at Mihai Eminescu 70 not found in any source"
@@ -15348,7 +15349,8 @@
 "ok": 1
 },
 "soroca-cafe-2": {
-"del": "COFFEEIN Soroca not found in any source"
+"ok": 1,
+"src": "2026-11-17 google maps"
 },
 "soroca-fine_dining-1": {
 "en": "Restaurant inside Hotel Europa 1928.",
@@ -15356,7 +15358,8 @@
 "ok": 1
 },
 "soroca-fine_dining-2": {
-"del": "소로카에서 그 식당을 찾을 수 없음"
+"ok": 1,
+"src": "2026-11-17 google maps"
 },
 "sorrento-bakery-1": {
 "en": "Well-known gelateria on Corso Italia with over 40 flavours and walls covered in photos of celebrity visitors.",
@@ -22606,5 +22609,73 @@
 "sarande-cafe-5": {
 "ok": 1,
 "src": "2026-11-16 google maps"
+},
+"saharna-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"saharna-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"purcari-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"purcari-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"comrat-fine_dining-1": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"comrat-fine_dining-2": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"comrat-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"comrat-fine_dining-4": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"comrat-bakery-1": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"comrat-bakery-2": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"chisinau-fine_dining-5": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"chisinau-bakery-6": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"chisinau-cafe-4": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"chisinau-cafe-5": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"chisinau-cafe-6": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"soroca-fine_dining-3": {
+"ok": 1,
+"src": "2026-11-17 google maps"
+},
+"soroca-bakery-1": {
+"ok": 1,
+"src": "2026-11-17 google maps"
 }
 }
