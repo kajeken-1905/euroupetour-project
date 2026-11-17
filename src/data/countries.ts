@@ -1693,6 +1693,10 @@ export const countries: Country[] = [
       text: '#0A1A30',
     },
     cityIds: ['chisinau', 'orheiul-vechi', 'soroca'],
+    cityGroups: [
+      { title: { ko: '키시너우·중부', en: 'Chișinău & centre' }, cityIds: ['chisinau', 'orheiul-vechi'] },
+      { title: { ko: '북부', en: 'North' }, cityIds: ['soroca'] },
+    ],
   },
   {
     id: 'ru',

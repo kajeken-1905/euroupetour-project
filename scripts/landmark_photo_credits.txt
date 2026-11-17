@@ -4318,3 +4318,26 @@ highlights/himare-5.jpg | https://commons.wikimedia.org/wiki/File:Gjipe_beach,_A
 highlights/kruje-5.jpg | https://commons.wikimedia.org/wiki/File:Dollma_Tekke_in_Kruj%C3%AB_(1).jpg | CC BY-SA 4.0 | Marie Čcheidzeová
 gateways/gw-durres-port.jpg | https://www.flickr.com/photos/111076799@N03/25111686627 | BY-SA 2.0 | LITTLE KONSTANTIN
 gateways/gw-sarande-port.jpg | https://www.flickr.com/photos/41980486@N07/52488595684 | BY 2.0 | Sharon Hahn Darlin
+highlights/chisinau-4.jpg | https://www.flickr.com/photos/83641890@N00/4049870185 | BY 2.0 | hanspoldoja
+highlights/chisinau-5.jpg | https://commons.wikimedia.org/wiki/File:Museum_of_History_(AP4L0086_1PS)_(28922487610).jpg | CC BY 2.0 | Alexandru Panoiu from Bucharest, Romania
+highlights/chisinau-6.jpg | https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnography_and_Natural_History_in_Chi%C8%99in%C4%83u_14.jpg | CC BY 4.0 | Tomasz Bladyniec
+highlights/chisinau-7.jpg | https://commons.wikimedia.org/wiki/File:Parque_Valea_Morilor,_Chisin%C3%A1u,_Moldavia,_2023-11-03,_DD_59.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/chisinau-8.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Ciuflea,_Chisin%C3%A1u,_Moldavia,_2023-11-03,_DD_02.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/chisinau-9.jpg | https://commons.wikimedia.org/wiki/File:Chi%C8%99in%C4%83u_-_Memorial_complex_Eternitate_(by_Pudelek).jpg | CC BY-SA 4.0 | Pudelek
+highlights/chisinau-10.jpg | https://commons.wikimedia.org/wiki/File:Chi%C8%99in%C4%83u_Water_Tower_01.jpg | CC BY 4.0 | Tomasz Bladyniec
+highlights/chisinau-11.jpg | https://commons.wikimedia.org/wiki/File:Casa-muzeu_Aleksandr_Pu%C8%99kin_dinspre_strada_Colina_Pu%C8%99kin.jpg | CC BY-SA 4.0 | TotalAnarchy
+highlights/chisinau-12.jpg | https://commons.wikimedia.org/wiki/File:Museo_nacional_de_bellas_artes,_Chisin%C3%A1u,_Moldavia,_2023-11-03,_DD_71-73_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/chisinau-14.jpg | https://commons.wikimedia.org/wiki/File:Cricova_Winery_-_Moldova_(by_David_Stanley).jpg | CC BY 2.0 | D-Stanley
+highlights/chisinau-15.jpg | https://commons.wikimedia.org/wiki/File:Caves_Milestii_Mici_Moldavie.jpg | CC BY-SA 3.0 | Myrabella
+highlights/chisinau-16.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_C%C4%83priana,_C%C4%83priana,_Moldavia,_2023-11-02,_DD_38.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/chisinau-17.jpg | https://commons.wikimedia.org/wiki/File:Castel_Mimi_fa%C8%9Bada.jpg | CC BY-SA 4.0 | Helgie12
+highlights/chisinau-18.jpg | https://commons.wikimedia.org/wiki/File:AIRM_-_Doors_Open_Day_@_mansion_of_Manuc_Bei_-_dec_2015_-_02.jpg | CC BY-SA 4.0 | Agenția de Inspectare și Restaurare a Monumentelor din Repub
+highlights/chisinau-19.jpg | https://commons.wikimedia.org/wiki/File:H%C3%A2ncu_monastery,_Moldova.jpg | CC BY-SA 4.0 | Pudelek
+highlights/orheiul-vechi-4.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_Orheiul_Vechi,_Orhei,_Moldavia,_2023-11-02,_DD_14.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/orheiul-vechi-5.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Curchi,_Curchi,_Moldavia,_2023-11-01,_DD_105-107_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/orheiul-vechi-6.jpg | https://www.flickr.com/photos/137066529@N04/48792956128 | CC0 1.0 | photobankmd
+highlights/soroca-4.jpg | https://commons.wikimedia.org/wiki/File:Candle_monument_-_Lum%C3%A2narea_Recuno%C8%99tin%C8%9Bei_02.jpg | CC BY-SA 4.0 | SergheyZ
+highlights/soroca-6.jpg | https://commons.wikimedia.org/wiki/File:Rudi_2020_08.jpg | CC BY-SA 4.0 | Criss90kf
+highlights/soroca-7.jpg | https://commons.wikimedia.org/wiki/File:AIRM_-_Japca_Monastery_-_iunie_2013_-_618839638140793.jpg | CC BY-SA 4.0 | Agenția de Inspectare și Restaurare a Monumentelor din Repub
+highlights/chisinau-13.jpg | https://commons.wikimedia.org/wiki/File:Chi%C8%99in%C4%83u_Botanical_Garden_12.jpg | CC0 | Iurie Nistor
+highlights/soroca-5.jpg | https://commons.wikimedia.org/wiki/File:Cos%C4%83u%C5%A3iMonastery02.jpg | CC BY-SA 3.0 | Visem

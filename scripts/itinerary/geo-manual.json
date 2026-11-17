@@ -12082,5 +12082,80 @@
     41.50608,
     19.7928,
     "OSM Nominatim: Teqeja e Dollmës, Stonebridge, Krujë, Bashkia Krujë, Qarku i (Wikipedia 2m)"
+  ],
+  "chisinau-h5": [
+    47.02265,
+    28.82798,
+    "OSM Nominatim: Muzeul Național de Istorie a Moldovei, 121A, Strada 31 Augus (Wikipedia 18m)"
+  ],
+  "chisinau-h8": [
+    47.01275,
+    28.84711,
+    "OSM Nominatim: Mănăstirea Sfântul Mare Mucenic Teodor Tiron, 14, Strada Ciu (Wikipedia 20m)"
+  ],
+  "chisinau-h10": [
+    47.01935,
+    28.82241,
+    "OSM Nominatim: Turnul de Apă, 2, Strada Mitropolit Gavriil Bănulescu-Bodoni (Wikipedia 15m)"
+  ],
+  "chisinau-h16": [
+    47.11615,
+    28.51057,
+    "OSM Nominatim: Mănăstirea Căpriana, Strada Cuza-Vodă, Căpriana, Raionul Str (Wikipedia 53m)"
+  ],
+  "orheiul-vechi-h5": [
+    47.33378,
+    28.65313,
+    "OSM Nominatim: Manastirea Curchi, Strada Iuri Gagarin, Curchi, Vatici, Raio (Wikipedia 31m)"
+  ],
+  "soroca-h4": [
+    48.1372,
+    28.30477,
+    "OSM Nominatim: Lumânarea Recunoștinței, Strada Independenței, Zastînca, Sor (Wikipedia 28m)"
+  ],
+  "soroca-h7": [
+    47.98807,
+    28.71112,
+    "OSM Nominatim: Mănăstirea Japca, R19-Drumul de acces spre satul Bursuc, Bur (Wikipedia 40m)"
+  ],
+  "chisinau-h6": [
+    47.02349,
+    28.82078,
+    "OSM Nominatim: Muzeul Național de Etnografie și Istorie Naturală, 82, Strad (Wikidata 53m)"
+  ],
+  "chisinau-h9": [
+    47.00913,
+    28.83244,
+    "OSM Nominatim: Complexul Memorial „Eternitate“, Chișinău, Centrul Istoric,  (Wikidata 47m)"
+  ],
+  "chisinau-h17": [
+    46.89209,
+    29.2918,
+    "OSM Nominatim: Castel Mimi, 1, Strada Renașterii, Bulboaca, Raionul Anenii  (Wikidata 126m)"
+  ],
+  "soroca-h5": [
+    48.20843,
+    28.24436,
+    "OSM Nominatim: Mănăstirea Cosăuți, Drum de acces la podul Cosăuți – Yampil, (Wikidata 13m)"
+  ],
+  "soroca-h6": [
+    48.34596,
+    27.89175,
+    "OSM Nominatim: Mănăstirea Rudi, Drmul de access spre Mănăstirea Rudi, Rudi, (Wikidata 81m)"
+  ],
+  "chisinau-h4": [
+    47.02606,
+    28.83453,
+    "OSM Nominatim: Catedrala Mitropolitană „Nașterea Domnului”, 138, Bulevardul (Wikipedia 1m)"
+  ],
+  "chisinau-h13": [
+    46.97436,
+    28.88523,
+    "OSM Nominatim: Grădina Botanică, 18, Municipiul Chișinău, Moldova (Wikipedia 218m)"
+  ],
+  "chisinau-h7": [
+    47.01842,
+    28.81296,
+    "OSM Nominatim: Lacul „Valea Morilor”, sectorul Centru, Municipiul Chișinău, (Wikidata 17m)"
   ]
 }

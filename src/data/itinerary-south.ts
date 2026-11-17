@@ -378,9 +378,31 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   kyiv: [2, 3, 1],
   lviv: [1, 2, 3],
   odesa: [2, 3, 1],
-  chisinau: [1, 2, 3],
-  'orheiul-vechi': [3, 1, 2],
-  soroca: [1, 3, 2],
+  chisinau: {
+    days: [
+      ['중심가|City centre', 4, 1, 2, 12, 11, 10, 3],
+      ['박물관과 공원|Museums & parks', 6, 5, 8, 9, 7],
+    ],
+    trips: [
+      ['크리코바 와이너리|Cricova', 14],
+      ['밀레슈티 미치 와이너리|Mileștii Mici', 15],
+      ['카스텔 미미|Castel Mimi', 17],
+      ['카프리아나·한쿠 수도원|Căpriana & Hâncu', 16, 19],
+      ['마누크 베이 저택|Manuc Bey Mansion', 18],
+    ],
+  },
+  'orheiul-vechi': {
+    days: [['', 3, 1, 4, 2]],
+    trips: [['오르헤이 시내와 쿠르키 수도원|Orhei town & Curchi', 6, 5]],
+  },
+  soroca: {
+    days: [['', 1, 3, 2, 4]],
+    trips: [
+      ['코사우치 수도원|Cosăuți', 5],
+      ['루디 수도원|Rudi', 6],
+      ['자프카 수도원|Japca', 7],
+    ],
+  },
   yerevan: [2, 3, 1],
   gyumri: [1, 3, 2],
   dilijan: [3, 2, 1],
