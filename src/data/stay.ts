@@ -2590,6 +2590,15 @@ export const STAY: Record<string, StayArea[]> = {
   soroca: [
     a('키시너우에서 다녀오기', 'Base in Chișinău', 'Chișinău North Bus Station', '당일치기|Day trip', '북부 버스 터미널에서 버스로 2시간 반~3시간쯤이고, 요새와 집시 언덕은 하루면 봅니다. 버스 정류장에서 요새까지 걸어서 20분쯤입니다.|2.5–3 hours by bus from the North Bus Station; a day covers the fortress and Gypsy Hill. The fortress is about 20 minutes’ walk from the bus stop.'),
   ],
+  saharna: [
+    a('수도원 근처 민박', 'Guesthouses near the monastery', 'Saharna', '조용한 하룻밤|A quiet night', '마을에 민박이 몇 곳 있습니다. 대부분은 키시너우나 오르헤이에서 당일치기로 옵니다.|The village has a few guesthouses; most visitors come on a day trip from Chișinău or Orhei.'),
+  ],
+  purcari: [
+    a('와이너리 숙소', 'Winery stay', 'Chateau Purcari', '와인 여행|Wine trip', '샤토 푸르카리 안에 객실이 있어 시음 뒤 그대로 묵을 수 있습니다.|Château Purcari has rooms on the estate, so you can stay after the tasting.'),
+  ],
+  comrat: [
+    a('시내 중심', 'Town centre', 'Comrat', '구경 거점|Sightseeing base', '박물관과 대성당, 광장이 모두 걸어서 가깝습니다.|The museum, cathedral and square are all on foot.'),
+  ],
   dilijan: [
     a('옛 거리 (샤람베얀 거리) 주변', 'Around Sharambeyan Street', 'Sharambeyan Street, Dilijan', '옛 마을 분위기|Old-town character', '복원된 옛 거리 근처에 게스트하우스가 모여 있습니다. 비탈이 많아 계단이 있는 숙소도 있습니다.|Guesthouses cluster around the restored old street; hilly, so some rooms are down steps.'),
   ],

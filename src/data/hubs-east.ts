@@ -936,6 +936,18 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [RMO()],
     bus: [['Gara Auto Soroca', '소로카 버스터미널']],
   },
+  saharna: {
+    air: [RMO()],
+    bus: [['Gara Auto Rezina', '레지나 버스터미널', '사하르나까지 택시 약 15분|about 15 min by taxi to Saharna']],
+  },
+  purcari: {
+    air: [RMO()],
+    bus: [['Gara Auto Ștefan Vodă', '슈테판 보더 버스터미널']],
+  },
+  comrat: {
+    air: [RMO()],
+    bus: [['Gara Auto Comrat', '코므라트 버스터미널']],
+  },
   // —— im, je, gg (Crown Dependencies) ——
   douglas: {
     air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆 로널즈웨이|Ronaldsway, by Castletown']],

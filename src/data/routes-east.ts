@@ -352,6 +352,9 @@ export const routesEast: RawRoute[] = [
   r('kyiv', 'warsaw', 'train', 960, { ...R, n: NIGHT_TRAIN }),
   r('chisinau', 'orheiul-vechi', 'bus', 90, { fa: '중앙 버스터미널|Gara Centrală', n: MARSH }),
   r('chisinau', 'soroca', 'bus', 165, { fa: '북부 버스터미널|Gara de Nord' }),
+  r('chisinau', 'comrat', 'bus', 120, { fa: '남부 버스터미널|Gara de Sud' }),
+  r('chisinau', 'purcari', 'bus', 150, { fa: '중앙 버스터미널|Gara Centrală', n: '슈테판 보더까지 버스 뒤 택시|bus to Ștefan Vodă, then taxi' }),
+  r('chisinau', 'saharna', 'bus', 150, { fa: '북부 버스터미널|Gara de Nord', n: '레지나까지 버스 뒤 택시|bus to Rezina, then taxi' }),
   r('chisinau', 'odesa', 'bus', 285),
   // —— im, je, gg ——
   r('douglas', 'castletown', 'train', 35, { fa: '더글러스역|Douglas Railway Station', fb: '캐슬타운역|Castletown', n: '증기 철도 · 운행 시기 확인|steam railway · check the seasonal timetable' }),

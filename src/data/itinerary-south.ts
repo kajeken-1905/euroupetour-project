@@ -403,6 +403,15 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['자프카 수도원|Japca', 7],
     ],
   },
+  saharna: { days: [['', 1, 2, 3]], trips: [['티포바 동굴 수도원|Țipova', 4, 5]] },
+  purcari: { days: [['', 1, 2, 3]], trips: [['카우셰니 교회|Căușeni church', 4]] },
+  comrat: {
+    days: [['', 3, 2, 1]],
+    trips: [
+      ['베살마 박물관|Besalma', 4],
+      ['베레우 호수|Lake Beleu', 5],
+    ],
+  },
   yerevan: [2, 3, 1],
   gyumri: [1, 3, 2],
   dilijan: [3, 2, 1],

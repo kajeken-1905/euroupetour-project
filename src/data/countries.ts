@@ -1692,10 +1692,11 @@ export const countries: Country[] = [
       background: '#E8EEF8',
       text: '#0A1A30',
     },
-    cityIds: ['chisinau', 'orheiul-vechi', 'soroca'],
+    cityIds: ['chisinau', 'orheiul-vechi', 'saharna', 'soroca', 'purcari', 'comrat'],
     cityGroups: [
-      { title: { ko: '키시너우·중부', en: 'Chișinău & centre' }, cityIds: ['chisinau', 'orheiul-vechi'] },
+      { title: { ko: '키시너우·중부', en: 'Chișinău & centre' }, cityIds: ['chisinau', 'orheiul-vechi', 'saharna'] },
       { title: { ko: '북부', en: 'North' }, cityIds: ['soroca'] },
+      { title: { ko: '남부', en: 'South' }, cityIds: ['purcari', 'comrat'] },
     ],
   },
   {

@@ -7747,6 +7747,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [],
   },
+  saharna: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 협곡은 걸어서 다니고, 티포바는 택시나 차로 갑니다.',
+      en: 'Walk the village and gorge; reach Țipova by taxi or car.',
+    },
+    apps: [
+    ],
+  },
+  purcari: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '대중교통이 드물어 키시너우에서 차나 택시, 와이너리 투어로 많이 갑니다.',
+      en: 'Public transport is sparse; most people come from Chișinău by car, taxi or a winery tour.',
+    },
+    apps: [
+    ],
+  },
+  comrat: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 근교는 택시나 차로 갑니다.',
+      en: 'Walk the town; take a taxi or car for the surroundings.',
+    },
+    apps: [
+    ],
+  },
   yerevan: {
     modes: ['metro', 'bus', 'rideshare', 'taxi', 'walk'],
     howTo: {
