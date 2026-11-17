@@ -374,6 +374,9 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['마크로니소스와 아기아 테클라|Makronissos', 10],
     ],
   },
+  larnaca: {"days": [["", 1, 3, 2, 5, 4]], "trips": [["키티 교회|Kiti", 6], ["히로키티아와 레프카라|Choirokoitia & Lefkara", 7, 8], ["스타브로부니 수도원|Stavrovouni", 9], ["제노비아 난파선|Zenobia", 10]]},
+  troodos: {"days": [["", 1, 2]], "trips": [["아시누·아라쿠 교회|Asinou & Araka", 3, 4], ["키코스 수도원과 트로니|Kykkos & Throni", 5, 6], ["올림포스산과 칼레도니아 폭포|Olympos & Caledonia", 7, 8], ["플라트레스와 밀로메리스 폭포|Platres & Millomeris", 10, 9]]},
+  polis: {"days": [["", 5, 1, 2, 3]], "trips": [["블루 라군 보트|Blue Lagoon boat", 4]]},
   tirana: {
     days: [
       ['중심가|City centre', 1, 8, 5, 7, 10, 9],

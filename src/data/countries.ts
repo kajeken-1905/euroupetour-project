@@ -1101,11 +1101,11 @@ export const countries: Country[] = [
       background: '#FFF8F0',
       text: '#2A1A0A',
     },
-    cityIds: ['nicosia', 'limassol', 'paphos', 'ayia-napa'],
+    cityIds: ['nicosia', 'troodos', 'larnaca', 'ayia-napa', 'limassol', 'paphos', 'polis'],
     cityGroups: [
-      { title: { ko: '니코시아·내륙', en: 'Nicosia & inland' }, cityIds: ['nicosia'] },
-      { title: { ko: '남·서부 해안', en: 'South & west coast' }, cityIds: ['limassol', 'paphos'] },
-      { title: { ko: '동부 해안', en: 'East coast' }, cityIds: ['ayia-napa'] },
+      { title: { ko: '니코시아·내륙', en: 'Nicosia & inland' }, cityIds: ['nicosia', 'troodos'] },
+      { title: { ko: '동부 해안', en: 'East coast' }, cityIds: ['larnaca', 'ayia-napa'] },
+      { title: { ko: '남·서부 해안', en: 'South & west coast' }, cityIds: ['limassol', 'paphos', 'polis'] },
     ],
   },
   {

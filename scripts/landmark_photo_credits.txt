@@ -4390,3 +4390,31 @@ highlights/ayia-napa-7.jpg | https://commons.wikimedia.org/wiki/File:Konnos_Beac
 highlights/ayia-napa-8.jpg | https://commons.wikimedia.org/wiki/File:Fig_Tree_beach_Protaras_(29851923968).jpg | CC BY 2.0 | dronepicr
 highlights/ayia-napa-9.jpg | https://commons.wikimedia.org/wiki/File:Agioi_Anargyroi_Church,_Agia_Napa,_Kypr_01.jpg | CC BY-SA 4.0 | Fry72, Karel Frydrýšek
 highlights/ayia-napa-10.jpg | https://commons.wikimedia.org/wiki/File:2022_03_Aiya_Napa_Makronisos_Tombs_1.jpg | CC0 | Qasinka
+cities/larnaca.jpg | https://commons.wikimedia.org/wiki/File:Larnaca_Promenade_2.jpg | CC BY-SA 4.0 | Héctor Ochoa "Robot8A"
+highlights/larnaca-1.jpg | https://commons.wikimedia.org/wiki/File:Cyprus-lazarus-church_hg.jpg | CC BY 3.0 | Hannes Grobe/BHV
+highlights/larnaca-2.jpg | https://commons.wikimedia.org/wiki/File:Stunning_Larnaca_Castle_and_finikoudes_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou
+highlights/larnaca-3.jpg | https://commons.wikimedia.org/wiki/File:2022_Larnaca_castle_courtyard.jpg | CC0 | Qasinka
+highlights/larnaca-4.jpg | https://commons.wikimedia.org/wiki/File:Larnaca_Salt_Lake_with_Flamingos_(32380593262).jpg | CC BY-SA 2.0 | Amanda Slater from Coventry, West Midlands, UK
+highlights/larnaca-5.jpg | https://commons.wikimedia.org/wiki/File:Cyprus_-_Larnaca_Bekir_Pasha_Aqueduct_5.JPG | CC BY-SA 3.0 | Dickelbers
+highlights/larnaca-6.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_Panagia_tis_Angeloktistis_Mosa%C3%AFque.jpg | CC0 | Croquemort Nestor
+highlights/larnaca-7.jpg | https://commons.wikimedia.org/wiki/File:Choirokoitia_2.JPG | CC BY-SA 3.0 | Pan narrans
+highlights/larnaca-8.jpg | https://commons.wikimedia.org/wiki/File:Lefkara-View.jpg | CC BY-SA 4.0 | Mboesch
+highlights/larnaca-9.jpg | https://commons.wikimedia.org/wiki/File:Stavrovouni_Kloster_Stavrovouni_4.jpg | CC BY-SA 4.0 | Zairon
+highlights/larnaca-10.jpg | https://commons.wikimedia.org/wiki/File:Zenobia_Wreck_Cyprus.jpg | CC BY-SA 4.0 | Easydivers
+cities/troodos.jpg | https://commons.wikimedia.org/wiki/File:Kakopetria_03.JPG | CC BY 3.0 | F.Higer
+highlights/troodos-1.jpg | https://commons.wikimedia.org/wiki/File:Palea_Kakopetria_20180404_img_21.jpg | CC BY-SA 4.0 | Héctor Ochoa 'Robot8A'
+highlights/troodos-2.jpg | https://commons.wikimedia.org/wiki/File:Agios_Nikolaos_tis_Stegis.JPG | CC BY-SA 3.0 | Benutzer:Coranton.
+highlights/troodos-3.jpg | https://commons.wikimedia.org/wiki/File:Asinou_-_Kirche_Au%C3%9Fen_1.jpg | CC BY-SA 3.0 | Xenophon
+highlights/troodos-4.jpg | https://commons.wikimedia.org/wiki/File:Lagoudera_Kirche_Panagia_tou_Arakou_Innen_Langhaus_Ost.jpg | CC BY-SA 4.0 | Zairon
+highlights/troodos-5.jpg | https://commons.wikimedia.org/wiki/File:Kloster_Kykkos_BW_2023-09-20_12-10-47_v1.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/troodos-6.jpg | https://commons.wikimedia.org/wiki/File:193Zypern_Kykkos_Throni-Berg_(13941475157).jpg | CC BY-SA 2.0 | Rüdiger Stehn from Kiel, Deutschland
+highlights/troodos-7.jpg | https://commons.wikimedia.org/wiki/File:Chionistra_winter_1.JPG | CC BY-SA 3.0 | Chneophytou
+highlights/troodos-8.jpg | https://commons.wikimedia.org/wiki/File:Part_of_Caledonia_Cascade.JPG | CC BY-SA 3.0 | Jsfouche
+highlights/troodos-9.jpg | https://commons.wikimedia.org/wiki/File:Millomeris_Waterfall_-_%CE%9A%CE%B1%CF%84%CE%B1%CF%81%CF%81%CE%AC%CE%BA%CF%84%CE%B7%CF%82_%CF%84%CE%BF%CF%85_%CE%9C%CE%B9%CE%BB%CE%BB%CE%BF%CE%BC%CE%AD%CF%81%CE%B7.JPG | CC BY-SA 3.0 | AlekosCY
+highlights/troodos-10.jpg | https://commons.wikimedia.org/wiki/File:Prodromos_village_market_1957_02.jpg | CC BY-SA 4.0 | Don Christie
+cities/polis.jpg | https://commons.wikimedia.org/wiki/File:PolisChrysochousBeach.JPG | CC BY-SA 4.0 | Savvas Alexandrou
+highlights/polis-1.jpg | https://commons.wikimedia.org/wiki/File:Marina_Latchi_-_panoramio.jpg | CC BY 3.0 | bobo3033
+highlights/polis-2.jpg | https://commons.wikimedia.org/wiki/File:Baths_of_Aphrodite,_State_Forest_of_the_Akamas_Peninsula,_Neo_Chorio_01.jpg | CC BY-SA 4.0 | Fry72, Karel Frydrýšek
+highlights/polis-3.jpg | https://commons.wikimedia.org/wiki/File:Aphrodite_Nature_Trail,_Cyprus,_view_to_Akamas_peninsula_from_Moutti_Tis_Sotiras.jpg | CC0 | Gerda Arendt
+highlights/polis-4.jpg | https://commons.wikimedia.org/wiki/File:Blue_Lagoon_boat_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou
+highlights/polis-5.jpg | https://commons.wikimedia.org/wiki/File:Polis_Chrysochous_Camping_site_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou

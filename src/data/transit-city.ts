@@ -5644,6 +5644,33 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt', { ko: '우버 없음', en: 'No Uber' }),
     ],
   },
+  larnaca: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 공항과 근교는 버스나 택시를 탑니다. 근교 유적은 차가 편합니다.',
+      en: 'Walk the town; take a bus or taxi to the airport and nearby sights. A car is easiest for the outlying sites.',
+    },
+    apps: [
+    ],
+  },
+  troodos: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 산길은 렌터카가 가장 편합니다. 마을 안은 걸어서 다닙니다.',
+      en: 'Buses are sparse, so a rental car is easiest in the mountains; walk within the villages.',
+    },
+    apps: [
+    ],
+  },
+  polis: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 항구는 걸어서 다니고, 아카마스 쪽은 버스나 택시, 차로 갑니다.',
+      en: 'Walk the town and harbour; reach Akamas by bus, taxi or car.',
+    },
+    apps: [
+    ],
+  },
   // —— dk ——
   copenhagen: {
     modes: ['metro', 'bus', 'train', 'bike', 'rideshare', 'taxi', 'walk'],

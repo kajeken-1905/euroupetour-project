@@ -16,6 +16,12 @@ export const routesEast: RawRoute[] = [
   r('nicosia', 'paphos', 'bus', 120),
   r('nicosia', 'ayia-napa', 'bus', 90),
   r('limassol', 'paphos', 'bus', 70),
+  r('paphos', 'polis', 'bus', 50),
+  r('nicosia', 'troodos', 'bus', 75),
+  r('limassol', 'troodos', 'bus', 75, { n: '플라트레스까지|to Platres' }),
+  r('nicosia', 'larnaca', 'bus', 50),
+  r('larnaca', 'limassol', 'bus', 60),
+  r('larnaca', 'ayia-napa', 'bus', 60),
 
   // —— gr ——
   r('athens', 'thessaloniki', 'flight', 55),

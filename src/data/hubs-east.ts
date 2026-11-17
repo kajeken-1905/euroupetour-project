@@ -196,6 +196,18 @@ export const hubsEast: Record<string, RawCityHubs> = {
   'ayia-napa': {
     air: [LCA()],
   },
+  larnaca: {
+    air: [['Larnaca (LCA)', '라르나카 공항 (LCA)']],
+    bus: [['Finikoudes bus stop', '피니쿠데스 버스 정류장', '니코시아·리마솔·아야나파행 시외버스|intercity buses to Nicosia, Limassol and Ayia Napa']],
+  },
+  troodos: {
+    air: [LCA(), ['Paphos (PFO)', '파포스 공항 (PFO)', '파포스|Paphos']],
+    bus: [['Kakopetria bus stop', '카코페트리아 버스 정류장', '니코시아행 버스|buses to Nicosia']],
+  },
+  polis: {
+    air: [['Paphos (PFO)', '파포스 공항 (PFO)', '파포스|Paphos']],
+    bus: [['Polis bus station', '폴리스 버스터미널', '파포스행 버스|buses to Paphos']],
+  },
 
   // —— ee ——
   tallinn: {

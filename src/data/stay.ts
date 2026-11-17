@@ -2337,6 +2337,18 @@ export const STAY: Record<string, StayArea[]> = {
     a('니시 해변 쪽', 'Nissi Beach area', 'Nissi Beach', '해변 걸어서|Walk to the beach', '해변이 걸어서 닿고 시내보다 조용합니다. 젊은 여행자와 커플이 많습니다.|The beach on foot and calmer than the centre; popular with young travellers and couples.'),
     a('마크로니소스·란다', 'Makronissos and Landa', 'Makronissos, Ayia Napa', '가장 조용함|Quietest', '가족용·성인 전용 호텔이 있는 조용한 지역으로 니시 해변이 가깝습니다.|A quiet area of family and adults-only hotels, a short trip from Nissi.'),
   ],
+  larnaca: [
+    a('피니쿠데스 해변', 'Finikoudes seafront', 'Finikoudes Larnaca', '처음 가는 여행에 추천|Best for a first visit', '해변과 성 라자로 교회, 요새가 걸어서 가깝고 공항까지 택시로 15분쯤입니다.|The beach, St Lazarus and the fort are on foot, and the airport is about 15 minutes by taxi.'),
+    a('맥켄지 해변', 'Mackenzie Beach', 'Mackenzie Beach Larnaca', '해변 휴양|Beach holiday', '공항과 시내 사이의 해변 지구로 바와 식당이 많습니다. 시내까지는 걸어서 25분쯤입니다.|A beach district between the airport and town with many bars and restaurants; town is about a 25-minute walk.'),
+  ],
+  troodos: [
+    a('카코페트리아 옛 마을', 'Kakopetria old village', 'Kakopetria', '분위기|Atmosphere', '옛 돌집을 고친 숙소에서 묵으며 벽화 교회와 산을 다닙니다.|Stay in a restored stone house and explore the churches and mountains.'),
+    a('플라트레스', 'Platres', 'Pano Platres', '산 휴양|Mountain resort', '호텔과 식당이 많고 폭포 산책로가 가깝습니다.|More hotels and restaurants, with the waterfall trails nearby.'),
+  ],
+  polis: [
+    a('폴리스 시내', 'Polis town', 'Polis Chrysochous', '조용한 거점|A quiet base', '시내 식당과 해변이 가깝고 라치 항구까지 차로 5분입니다.|Restaurants and the beach are close, and Latchi harbour is 5 minutes by car.'),
+    a('라치', 'Latchi', 'Latchi', '바닷가|By the sea', '항구 바로 옆이라 보트 투어에 편하고 해산물 식당이 많습니다.|Right by the harbour, handy for boat trips, with many seafood restaurants.'),
+  ],
   berat: [
     a('망갈렘', 'Mangalem', 'Mangalem, Berat', '성 아래 구시가|Old town below the castle', '성 언덕 아래 가장 중심이 되는 구역으로 볼거리를 걸어서 다닙니다.|The most central quarter at the foot of the castle hill, with the sights on foot.'),
     a('고리차', 'Gorica', 'Gorica, Berat', '조용함·전망|Quieter, views', '강 건너편 조용한 구역으로 망갈렘의 돌지붕 집들이 가장 잘 보입니다.|The quieter quarter across the river, with the best views of Mangalem’s stone-roofed houses.'),

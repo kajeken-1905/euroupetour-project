@@ -12276,5 +12276,55 @@
     34.98114,
     33.95401,
     "OSM Nominatim: Makronissos Tombs, Leoforos Nissi, Αγία Νάπα, Δήμος Αγίας Νά (Wikidata 10m)"
+  ],
+  "larnaca-h4": [
+    34.88536,
+    33.60996,
+    "OSM Nominatim: Hala Sultan Tekke, Λεωφόρος Αρτέμιδος, Δρομολαξιά, Δήμος Λάρ (Wikipedia 10m)"
+  ],
+  "larnaca-h5": [
+    34.91225,
+    33.5989,
+    "OSM Nominatim: Υδραγωγείο Καμάρες, Leoforos Vasou Lyssaridi, Άγιος Νικόλαος (Wikipedia 21m)"
+  ],
+  "larnaca-h9": [
+    34.88638,
+    33.43566,
+    "OSM Nominatim: Stavrovouni Monastery, F106, Pyrga Larnacas, Σύμπλεγμα Κοινο (Wikipedia 58m)"
+  ],
+  "troodos-h2": [
+    34.97727,
+    32.88955,
+    "OSM Nominatim: Agios Nikolaos tis Stegis, E938, Κακοπετριά, Kakopetria, Σύμ (Wikipedia 4m)"
+  ],
+  "troodos-h4": [
+    34.96544,
+    33.0072,
+    "OSM Nominatim: Παναγίας του Άρακα, F969, Λαγουδερά, Lagoudera, Σύμπλεγμα Κο (Wikipedia 6m)"
+  ],
+  "troodos-h5": [
+    34.98388,
+    32.74123,
+    "OSM Nominatim: Ιερά Μονή Κύκκου, E912, Κύκκος, Tsakistra, Σύμπλεγμα Κοινοτή (Wikipedia 25m)"
+  ],
+  "larnaca-h1": [
+    34.91169,
+    33.6354,
+    "OSM Nominatim: Agios Lazaros, Agiou Lazarou, Σκάλα, Δήμος Λάρνακας, Επαρχία (Wikipedia 60m)"
+  ],
+  "larnaca-h7": [
+    34.79719,
+    33.34401,
+    "OSM Nominatim: Χοιροκοιτία, Zinon Kitieus, Χοιροκοιτία, Choirokoitia, Σύμπλ (Wikipedia 58m)"
+  ],
+  "troodos-h7": [
+    34.93661,
+    32.86495,
+    "OSM Nominatim: Όλυμπος, Κοινότητα Τροόδους, Σύμπλεγμα Κοινοτήτων Τροόδους,  (Wikipedia 149m)"
+  ],
+  "larnaca-h6": [
+    34.84757,
+    33.57098,
+    "OSM Nominatim: Παναγία της Αγγελόκτιστης, Panagias Angeloktistis, Κίτι, Δήμ (Wikipedia 3m)"
   ]
 }
