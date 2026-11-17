@@ -1,0 +1,13 @@
+{
+ "istanbul-h9": ["İstanbul Arkeoloji Müzeleri", "Istanbul Archaeology Museums"],
+ "istanbul-h20": ["İstanbul Modern Sanat Müzesi", "Istanbul Modern"],
+ "istanbul-h21": ["Galata Mevlevihanesi Müzesi", "Galata Mevlevi Lodge Museum"],
+ "istanbul-h26": ["Kız Kulesi, Üsküdar", "Maiden's Tower"],
+ "ankara-h7": ["Ankara Rahmi M. Koç Müzesi", "Çengelhan Rahmi M. Koç Museum"],
+ "antalya-h6": ["Hadrian Kapısı", "Hadrian's Gate, Antalya"],
+ "antalya-h7": ["Yivli Minare Camii, Antalya", "Yivli Minaret Mosque"],
+ "goreme-h10": ["Ortahisar Kalesi, Ürgüp", "Ortahisar, Nevşehir"],
+ "bursa-h6": ["Muradiye Külliyesi, Osmangazi, Bursa", "Muradiye Complex"],
+ "pamukkale-h6": ["Laodikeia Antik Kenti, Denizli", "Laodicea on the Lycus"],
+ "pamukkale-h7": ["Afrodisias, Karacasu", "Aphrodisias"]
+}

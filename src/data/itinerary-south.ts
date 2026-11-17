@@ -117,21 +117,49 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   plitvice: { days: [['', 7, 1, 5, 6, 3, 2]], trips: [['라스토케|Rastoke', 4]] },
   istanbul: {
     days: [
-      ['술탄아흐메트|Sultanahmet', 6, 1, 2, 3],
-      ['갈라타와 보스포루스|Galata & the Bosphorus', 5, 4],
+      ['술탄아흐메트|Sultanahmet', 8, 1, 2, 7, 6],
+      ['바자르와 보스포루스|Bazaars & the Bosphorus', 3, 13, 14, 12, 4],
+      ['갈라타·베이올루와 해협|Galata, Beyoğlu & the strait', 20, 5, 21, 18, 22, 23],
+      ['골든혼 서쪽|Golden Horn west', 15, 16, 17],
+    ],
+    trips: [
+      ['아시아 쪽|Asian side', 26, 25],
+      ['프린스 제도|Princes’ Islands', 27],
     ],
   },
-  ankara: [1, 3, 2, 5, 4],
-  izmir: { days: [['', 3, 2, 4, 1]], trips: [['에페소스|Ephesus', 5]] },
-  antalya: { days: [['', 1, 2, 4]], trips: [['아스펜도스|Aspendos', 5]] },
+  ankara: {
+    days: [
+      ['성채와 박물관|Citadel & museums', 5, 3, 2, 8, 7, 6],
+      ['아느트카비르|Anıtkabir', 1, 4],
+    ],
+  },
+  izmir: {
+    days: [['', 3, 6, 2, 7, 4, 1]],
+    trips: [
+      ['에페소스|Ephesus', 5],
+      ['페르가몬|Pergamon', 9],
+      ['체슈메·알라차트|Çeşme & Alaçatı', 8],
+    ],
+  },
+  antalya: {
+    days: [
+      ['칼레이치|Kaleiçi', 6, 7, 1, 3, 8],
+      ['두덴 폭포와 라라|Düden & Lara', 2, 4],
+    ],
+    trips: [
+      ['아스펜도스·시데|Aspendos & Side', 5, 10],
+      ['페르게|Perge', 9],
+    ],
+  },
   goreme: {
     days: [
       ['열기구와 북부|Balloon & the north', 1, 2, 6, 8],
-      ['지하도시와 계곡|Underground city & valleys', 5, 4, 3, 7],
+      ['지하도시와 계곡|Underground city & valleys', 5, 4, 10, 3, 7],
     ],
+    trips: [['으흘라라 계곡|Ihlara Valley', 9]],
   },
   bursa: {
-    days: [['', 1, 3, 2]],
+    days: [['', 7, 1, 3, 8, 2, 6]],
     trips: [
       ['울루다으|Uludağ', 4],
       ['주말르크즈크|Cumalıkızık', 5],
@@ -144,7 +172,13 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['우준괼|Uzungöl', 3],
     ],
   },
-  pamukkale: [1, 4, 5, 3, 2],
+  pamukkale: {
+    days: [['', 1, 2, 3, 4, 5, 8]],
+    trips: [
+      ['라오디케아|Laodicea', 6],
+      ['아프로디시아스|Aphrodisias', 7],
+    ],
+  },
   sofia: {
     days: [
       ['중심가 동쪽|East of the centre', 1, 7, 8, 6, 2],

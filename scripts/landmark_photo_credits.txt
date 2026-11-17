@@ -4419,3 +4419,45 @@ highlights/polis-3.jpg | https://commons.wikimedia.org/wiki/File:Aphrodite_Natur
 highlights/polis-4.jpg | https://commons.wikimedia.org/wiki/File:Blue_Lagoon_boat_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou
 highlights/polis-5.jpg | https://commons.wikimedia.org/wiki/File:Polis_Chrysochous_Camping_site_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou
 gateways/gw-lca.jpg | https://commons.wikimedia.org/wiki/File:Larnaca_International_Airport.jpg | CC BY-SA 4.0 | George Kokkinidis-GR
+highlights/istanbul-7.jpg | https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_58-60_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/istanbul-8.jpg | https://commons.wikimedia.org/wiki/File:Hippodrome_of_Constantinople,_Turkey_001.JPG | CC BY-SA 3.0 | Moonik
+highlights/istanbul-9.jpg | https://commons.wikimedia.org/wiki/File:Istanbularcheology.jpg | CC BY-SA 4.0 | Metuboy
+highlights/istanbul-11.jpg | https://commons.wikimedia.org/wiki/File:Little_Hagia_Sophia.JPG | CC BY-SA 3.0 | DavidConFran
+highlights/istanbul-12.jpg | https://commons.wikimedia.org/wiki/File:Istanbul_spice_bazaar_02.jpg | CC BY-SA 3.0 | Takeaway
+highlights/istanbul-13.jpg | https://commons.wikimedia.org/wiki/File:Courtyard_of_the_S%C3%BCleymaniye_Mosque_in_Istanbul,_Turkey_001.jpg | CC BY-SA 3.0 | Moonik
+highlights/istanbul-14.jpg | https://commons.wikimedia.org/wiki/File:R%C3%BCstem_Pasha_Mosque_in_2024_5321.jpg | CC BY-SA 4.0 | Dosseman
+highlights/istanbul-15.jpg | https://commons.wikimedia.org/wiki/File:Chora_Church_2024.jpg | CC0 | Tadam
+highlights/istanbul-16.jpg | https://commons.wikimedia.org/wiki/File:Balat_houses.jpg | CC BY-SA 4.0 | Antoloji
+highlights/istanbul-17.jpg | https://commons.wikimedia.org/wiki/File:View_from_Pierre_Loti_Hill_8.jpg | CC BY 4.0 | Joseolgon
+highlights/istanbul-18.jpg | https://commons.wikimedia.org/wiki/File:Istiklal_Avenue_in_Istanbul_-_Turkey.jpg | CC BY-SA 4.0 | Mark Ahsmann
+highlights/istanbul-19.jpg | https://commons.wikimedia.org/wiki/File:Istanbul_Beyoglu_Pera_museum.jpg | CC BY-SA 3.0 | Tatiana Matlina
+highlights/istanbul-20.jpg | https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Modern_(10072023).jpg | CC BY 2.0 | Kadı Kadı
+highlights/istanbul-21.jpg | https://commons.wikimedia.org/wiki/File:Galata_Mevlevihanesi,_semahane_8354_Nevit.jpg | CC BY-SA 3.0 | Nevit Dilmen (talk)
+highlights/istanbul-22.jpg | https://commons.wikimedia.org/wiki/File:Palacio_de_Dolmabah%C3%A7e,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_111.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/istanbul-23.jpg | https://commons.wikimedia.org/wiki/File:Ortak%C3%B6y_Mosque_from_the_Bosporus,_Istanbul,_20260606_1424_1504.jpg | CC BY 4.0 | Jakub Hałun
+highlights/istanbul-24.jpg | https://commons.wikimedia.org/wiki/File:Twierdza_Rumeli_Istambu%C5%82_RB1.jpg | CC BY-SA 3.0 | 
+highlights/istanbul-26.jpg | https://commons.wikimedia.org/wiki/File:Maiden_tower,_Istanbul_(P1100204).jpg | CC BY-SA 4.0 | Matti Blume
+highlights/istanbul-27.jpg | https://commons.wikimedia.org/wiki/File:At_Arabas%C4%B1,_B%C3%BCy%C3%BCkada_2015.jpg | CC0 | Hamdigumus
+highlights/ankara-6.jpg | https://commons.wikimedia.org/wiki/File:Ankara_Hac%C4%B1_Bayram_Mosque_Exterior_and_Augustus_Temple_in_2014_06.jpg | CC BY-SA 4.0 | Dosseman
+highlights/ankara-7.jpg | https://commons.wikimedia.org/wiki/File:Rahmi_M._Ko%C3%A7_Museum,_Ankara.jpg | CC BY-SA 3.0 | User:Quintucket
+highlights/ankara-8.jpg | https://commons.wikimedia.org/wiki/File:Ankara_Archaeology_and_art_museum_2019_3465.jpg | CC BY-SA 4.0 | Dosseman
+highlights/izmir-6.jpg | https://commons.wikimedia.org/wiki/File:Kemeralt%C4%B1_market_01.jpg | CC BY 2.0 | Francisco Anzola
+highlights/izmir-7.jpg | https://commons.wikimedia.org/wiki/File:Asans%C3%B6r_(yandan).jpg | CC BY-SA 2.0 | Yılmaz Uğurlu (metoikos_) from İzmir, Turkey
+highlights/izmir-8.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Port_Ala%C3%A7at%C4%B1,_%C3%87e%C5%9Fme.jpg | CC0 | Gorkemssc
+highlights/izmir-9.jpg | https://commons.wikimedia.org/wiki/File:Pergamon_panomaric.jpg | CC BY-SA 4.0 | Tvdp77
+highlights/antalya-6.jpg | https://commons.wikimedia.org/wiki/File:2023-01-17_Hadrian%27s_Gate_in_Antalya_1.jpg | CC BY-SA 4.0 | Maksym Kozlenko
+highlights/antalya-7.jpg | https://commons.wikimedia.org/wiki/File:Yivli_Minaret_Mosque_Antalya.jpg | CC BY 3.0 | Saffron Blaze
+highlights/antalya-8.jpg | https://commons.wikimedia.org/wiki/File:Konyaalt%C4%B1_Beach,_Antalya,_Turkey,_March_2022_-_Harrington_Park_Resort.jpg | CC BY 2.0 | Sharon Hahn Darlin
+highlights/antalya-9.jpg | https://commons.wikimedia.org/wiki/File:Roman_Gate_(Perge)_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/antalya-10.jpg | https://commons.wikimedia.org/wiki/File:2023-01-19_Temple_of_Apollo,_Side,_Turkey_3.jpg | CC BY-SA 4.0 | Maksym Kozlenko
+highlights/goreme-9.jpg | https://commons.wikimedia.org/wiki/File:Ihlara_Valley,_Turkey.jpg | CC BY-SA 4.0 | Andrada Boldis
+highlights/goreme-10.jpg | https://commons.wikimedia.org/wiki/File:Ortahisar_Castle_-_Ortahisar_Kalesi.jpg | CC BY-SA 4.0 | Theugursevinc
+highlights/goreme-11.jpg | https://commons.wikimedia.org/wiki/File:Cave_hotels_in_Goreme.jpg | CC BY-SA 4.0 | Codas
+highlights/bursa-6.jpg | https://commons.wikimedia.org/wiki/File:Muradiye_Complex_03.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/bursa-7.jpg | https://commons.wikimedia.org/wiki/File:Sultan_Orhan_tomb_Bursa_Turkey_2013_5.jpg | CC BY-SA 3.0 | Karelj
+highlights/bursa-8.jpg | https://commons.wikimedia.org/wiki/File:The_Irgand%C4%B1_Bridge.jpg | CC BY-SA 4.0 | Umuryurekli
+highlights/pamukkale-6.jpg | https://commons.wikimedia.org/wiki/File:Laodicea_on_the_Lycus,_Phrygia,_Turkey_(21614102922).jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
+highlights/pamukkale-7.jpg | https://commons.wikimedia.org/wiki/File:Aphrodisias_-_Portico_of_Tiberius_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/pamukkale-8.jpg | https://commons.wikimedia.org/wiki/File:K%C4%B1rm%C4%B1z%C4%B1_Su_(Red_Spring),_Karahay%C4%B1t,_Turkey,_March_2024_05.jpg | CC BY-SA 4.0 | Calistemon
+highlights/istanbul-10.jpg | https://commons.wikimedia.org/wiki/File:T%C3%BCrk_ve_%C4%B0slam_Eserleri_M%C3%BCzesi_(69096).jpg | CC BY-SA 3.0 | Tayeçe2024
+highlights/istanbul-25.jpg | https://commons.wikimedia.org/wiki/File:Kad%C4%B1k%C3%B6y_market_stall,_Istanbul.jpg | CC BY-SA 4.0 | Jwslubbock

@@ -12326,5 +12326,130 @@
     34.84757,
     33.57098,
     "OSM Nominatim: Παναγία της Αγγελόκτιστης, Panagias Angeloktistis, Κίτι, Δήμ (Wikipedia 3m)"
+  ],
+  "istanbul-h7": [
+    41.00848,
+    28.97838,
+    "OSM Nominatim: Yerebatan Sarnıcı, 1, Yerebatan Caddesi, Alemdar Mahallesi,  (Wikipedia 69m)"
+  ],
+  "istanbul-h8": [
+    41.00652,
+    28.97598,
+    "OSM Nominatim: Sultanahmet Meydanı, Binbirdirek Mahallesi, İstanbul, Fatih, (Wikipedia 19m)"
+  ],
+  "istanbul-h10": [
+    41.00628,
+    28.97491,
+    "OSM Nominatim: Türk ve İslam Eserleri Müzesi, Atmeydanı Caddesi, Binbirdire (Wikipedia 30m)"
+  ],
+  "istanbul-h11": [
+    41.00273,
+    28.9722,
+    "OSM Nominatim: Küçük Ayasofya Camii, 13, Küçük Ayasofya Caddesi, Küçük Ayas (Wikipedia 22m)"
+  ],
+  "istanbul-h12": [
+    41.01648,
+    28.97054,
+    "OSM Nominatim: Mısır Çarşısı, Saka Mehmet Sokağı, Eminönü, Rüstempaşa Mahal (Wikipedia 10m)"
+  ],
+  "istanbul-h13": [
+    41.01623,
+    28.96395,
+    "OSM Nominatim: Süleymaniye Camii, 1, Profesör Doktor Sıddık Sami Onar Cadde (Wikipedia 14m)"
+  ],
+  "istanbul-h14": [
+    41.01767,
+    28.9687,
+    "OSM Nominatim: Rüstem Paşa Camii, 62, Hasırcılar Caddesi, Rüstempaşa Mahall (Wikipedia 20m)"
+  ],
+  "istanbul-h15": [
+    41.03121,
+    28.93895,
+    "OSM Nominatim: Kariye Camii, 18, Kariye Cami Sokağı, Derviş Ali Mahallesi,  (Wikipedia 6m)"
+  ],
+  "istanbul-h17": [
+    41.04801,
+    28.93375,
+    "OSM Nominatim: Eyüp Sultan Camii, Bahariye Yolu, Merkez Mahallesi, Eyüpsult (Wikipedia 8m)"
+  ],
+  "istanbul-h19": [
+    41.0318,
+    28.9752,
+    "OSM Nominatim: Pera Müzesi, 141, Meşrutiyet Caddesi, İstiklal, Asmalı Mesci (Wikipedia 1m)"
+  ],
+  "istanbul-h22": [
+    41.03896,
+    28.99977,
+    "OSM Nominatim: Dolmabahçe Sarayı, Vişnezade Mahallesi, Beşiktaş, İstanbul,  (Wikipedia 168m)"
+  ],
+  "istanbul-h23": [
+    41.04729,
+    29.02677,
+    "OSM Nominatim: Büyük Mecidiye Camii, Ortaköy Salhanesi Sokağı, Mecidiye Mah (Wikipedia 41m)"
+  ],
+  "istanbul-h24": [
+    41.08492,
+    29.05671,
+    "OSM Nominatim: Rumeli Hisarı, Yahya Kemal Caddesi, Rumelihisarı Mahallesi,  (Wikipedia 55m)"
+  ],
+  "ankara-h6": [
+    39.94435,
+    32.85791,
+    "OSM Nominatim: Hacı Bayram Veli Camii, Şehit Keskin Sokak, Ulus, Hacı Bayra (Wikipedia 24m)"
+  ],
+  "ankara-h8": [
+    39.9378,
+    32.863,
+    "OSM Nominatim: Erimtan Arkeoloji ve Sanat Müzesi, 10, Depo Sokağı, Samanpaz (Wikipedia 29m)"
+  ],
+  "izmir-h6": [
+    38.41874,
+    27.13075,
+    "OSM Nominatim: İzmir Kapalı Çarşı, 35, Anafartalar Caddesi, Kemeraltı, Kona (Wikipedia 136m)"
+  ],
+  "izmir-h7": [
+    38.40879,
+    27.11748,
+    "OSM Nominatim: Asansör, Darío Moreno Sokağı, Turgut Reis Mahallesi, İzmir,  (Wikipedia 2m)"
+  ],
+  "izmir-h9": [
+    39.13206,
+    27.18402,
+    "OSM Nominatim: Pergamon Akropolü, Akropol Caddesi, Ulucami Mahallesi, Berga (Wikipedia 50m)"
+  ],
+  "antalya-h10": [
+    36.76419,
+    31.38671,
+    "OSM Nominatim: Apollon ve Athena Tapınağı, Nergiz Sokak, Side, Manavgat, An (Wikipedia 18m)"
+  ],
+  "bursa-h8": [
+    40.18192,
+    29.07085,
+    "OSM Nominatim: Irgandi Köprüsü, Kayıhan, Kayıhan Mahallesi, Osmangazi, Burs (Wikipedia 19m)"
+  ],
+  "istanbul-h21": [
+    41.02801,
+    28.97512,
+    "OSM Nominatim: Galata Mevlevihanesi Müzesi, Galip Dede Caddesi, Şahkulu, Şa (Wikipedia 2m)"
+  ],
+  "istanbul-h26": [
+    41.02105,
+    29.00413,
+    "OSM Nominatim: Kız Kulesi, Üsküdar Harem Sahil Yolu, Salacak Mahallesi, Üsk (Wikipedia 16m)"
+  ],
+  "antalya-h7": [
+    36.88661,
+    30.70447,
+    "OSM Nominatim: Yivli Minare Camii, Ömer Reis Çıkmazı, Selçuk Mahallesi, Ant (Wikipedia 25m)"
+  ],
+  "goreme-h10": [
+    38.62038,
+    34.86445,
+    "OSM Nominatim: Ortahisar Kalesi, Ortahisar, Ortahisar Beldesi, Ürgüp, Nevşe (Wikipedia 56m)"
+  ],
+  "pamukkale-h7": [
+    37.70878,
+    28.72381,
+    "OSM Nominatim: Aphrodisias, Geyre, Karacasu, Aydın, Ege Bölgesi, Türkiye (Wikipedia 53m)"
   ]
 }
