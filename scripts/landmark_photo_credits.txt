@@ -4358,3 +4358,35 @@ highlights/comrat-2.jpg | https://commons.wikimedia.org/wiki/File:MD.GE.Comrat_-
 highlights/comrat-3.jpg | https://commons.wikimedia.org/wiki/File:%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC_%D0%93%D0%B0%D0%B3%D0%B0%D1%83%D0%B7%D0%B8%D0%B8.jpg | CC BY-SA 4.0 | Федя Кузнецов:)
 highlights/comrat-4.jpg | https://commons.wikimedia.org/wiki/File:MD.GE.Be%C8%99alma_-_muzeul_Karacioban_-_jun_2023_-_02.jpg | CC0 | Gikü (talk)
 highlights/comrat-5.jpg | https://commons.wikimedia.org/wiki/File:O_vedere_naturala_a_lacului_Beleu.jpg | CC BY-SA 3.0 | VasilyMD
+highlights/nicosia-6.jpg | https://commons.wikimedia.org/wiki/File:Archbishop%27s_Palace_in_Nicosia_old_city_Republic_of_Cyprus.jpg | CC BY-SA 3.0 | AncientNicosia
+highlights/nicosia-7.jpg | https://commons.wikimedia.org/wiki/File:Nikosia_BW_2023-09-21_10-03-36_v1.jpg | CC BY-SA 4.0 | Berthold Werner
+highlights/nicosia-8.jpg | https://www.flickr.com/photos/10978503@N00/2932141339 | BY-SA 2.0 | Glen Bowman
+highlights/nicosia-9.jpg | https://commons.wikimedia.org/wiki/File:Muzei_Leventis-28a.jpg | CC BY-SA 4.0 | Молли
+highlights/nicosia-10.jpg | https://europeanheritageawards-archive.eu/laureates-1978-2018/detail/famagusta-gate-nicosia | PDM 1.0 | 
+highlights/nicosia-11.jpg | https://www.flickr.com/photos/11932978@N00/52725015252 | BY-SA 2.0 | tomislavmedak
+highlights/nicosia-12.jpg | https://commons.wikimedia.org/wiki/File:Eleftherias_Square_5.jpg | CC BY 4.0 | Iakovos Hatzistavrou, European Commission
+highlights/nicosia-13.jpg | https://commons.wikimedia.org/wiki/File:Nicosia_-_Panorama_from_Shacolas_Tower-2.jpg | CC BY-SA 4.0 | Молли
+highlights/nicosia-14.jpg | https://commons.wikimedia.org/wiki/File:Machairas_Blick_auf_das_Kloster_Machairas_04.jpg | CC BY-SA 4.0 | Zairon
+highlights/limassol-5.jpg | https://commons.wikimedia.org/wiki/File:Agia_Napa_Cathedral,_Limassol,_Cyprus.jpg | CC0 | Julian Lupyan
+highlights/limassol-6.jpg | https://www.flickr.com/photos/69570948@N04/14059298062 | BY-SA 2.0 | Rüdiger Stehn
+highlights/limassol-7.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Kolossi,_Chipre,_2021-12-14,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/limassol-8.jpg | https://www.flickr.com/photos/41523983@N08/24519164002 | BY-SA 2.0 | Following Hadrian
+highlights/limassol-9.jpg | https://commons.wikimedia.org/wiki/File:Limassol_Marina_10.jpg | CC BY-SA 3.0 | Tech bro
+highlights/limassol-10.jpg | https://www.flickr.com/photos/93087649@N06/16438860437 | BY 2.0 | k_tjaaa
+highlights/limassol-11.jpg | https://commons.wikimedia.org/wiki/File:Omodos,_Cyprus_(2).jpg | CC BY-SA 4.0 | This image is a work by Mercy.
+highlights/limassol-12.jpg | https://commons.wikimedia.org/wiki/File:Governor%27s_Beach,_Cyprus_-_panoramio_(4).jpg | CC BY 3.0 | Dmitry Panov
+highlights/paphos-6.jpg | https://commons.wikimedia.org/wiki/File:Agios_Neophytos_Monastery_Cyprus_01.jpg | CC BY-SA 3.0 | Nikodem Nijaki
+highlights/paphos-7.jpg | https://commons.wikimedia.org/wiki/File:Castillo_de_Saranta_Kolones,_parque_arqueol%C3%B3gico_de_Pafos,_Chipre,_2021-12-10,_DD_60.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/paphos-8.jpg | https://www.flickr.com/photos/43881438@N00/5207826922 | BY-SA 2.0 | Vicky Brock
+highlights/paphos-9.jpg | https://www.flickr.com/photos/26445715@N00/49637963258 | BY 2.0 | muffinn
+highlights/paphos-10.jpg | https://commons.wikimedia.org/wiki/File:Coral_Bay,_Cyprus_IMG_9132_-_panoramio.jpg | CC BY 3.0 | Paul Lakin
+highlights/paphos-11.jpg | https://www.flickr.com/photos/41523983@N08/23908763884 | BY-SA 2.0 | Following Hadrian
+highlights/paphos-12.jpg | https://commons.wikimedia.org/wiki/File:Avakas_Gorge_kz05.jpg | CC BY-SA 4.0 | Krzysztof Ziarnek, Kenraiz
+highlights/paphos-13.jpg | https://commons.wikimedia.org/wiki/File:Sea_Caves,_Akamas_Peninsula,_Cyprus_-_panoramio_(11).jpg | CC BY 3.0 | Dm Bsg
+highlights/paphos-14.jpg | https://www.flickr.com/photos/35142635@N05/30154512833 | BY 2.0 | S. Rae
+highlights/paphos-4.jpg | https://www.flickr.com/photos/69570948@N04/14085703533 | BY-SA 2.0 | Rüdiger Stehn
+highlights/ayia-napa-6.jpg | https://commons.wikimedia.org/wiki/File:Treasures_of_THALASSA_Museum_Ayia_Napa_34.JPG | CC BY-SA 3.0 | Claus Ableiter
+highlights/ayia-napa-7.jpg | https://commons.wikimedia.org/wiki/File:Konnos_Beach_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/ayia-napa-8.jpg | https://commons.wikimedia.org/wiki/File:Fig_Tree_beach_Protaras_(29851923968).jpg | CC BY 2.0 | dronepicr
+highlights/ayia-napa-9.jpg | https://commons.wikimedia.org/wiki/File:Agioi_Anargyroi_Church,_Agia_Napa,_Kypr_01.jpg | CC BY-SA 4.0 | Fry72, Karel Frydrýšek
+highlights/ayia-napa-10.jpg | https://commons.wikimedia.org/wiki/File:2022_03_Aiya_Napa_Makronisos_Tombs_1.jpg | CC0 | Qasinka

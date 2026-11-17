@@ -337,10 +337,43 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   prilep: { days: [['', 3, 4, 2, 1]], trips: [['트레스카베츠 수도원|Treskavec Monastery', 5]] },
   krusevo: { days: [['', 5, 4, 2, 1, 3]] },
   stip: { days: [['', 2, 3, 4, 1]], trips: [['바르갈라 유적|Bargala', 5]] },
-  nicosia: [4, 1, 5, 3],
-  limassol: { days: [['', 3, 1, 2, 4]], trips: [['와인 박물관|Wine Museum', 5]] },
-  paphos: { days: [['', 3, 2, 1, 4]], trips: [['아프로디테 바위|Aphrodite’s Rock', 5]] },
-  'ayia-napa': [1, 3, 4, 2, 5],
+  nicosia: {
+    days: [
+      ['구시가 서쪽|Old town west', 12, 1, 8, 9, 3, 13, 5],
+      ['구시가 동쪽·박물관|Old town east & museums', 6, 7, 11, 10, 4],
+    ],
+    trips: [['마하이라스 수도원|Machairas', 14]],
+  },
+  limassol: {
+    days: [['', 3, 9, 1, 2, 5, 4]],
+    trips: [
+      ['쿠리온과 콜로시 성|Kourion & Kolossi', 6, 7],
+      ['아마투스|Amathus', 8],
+      ['아크로티리 소금 호수|Akrotiri', 10],
+      ['오모도스|Omodos', 11],
+      ['거버너스 비치|Governor’s Beach', 12],
+    ],
+  },
+  paphos: {
+    days: [
+      ['카토 파포스|Kato Paphos', 2, 7, 1, 4, 8],
+      ['구시가와 왕들의 무덤|Old town & Tombs', 9, 3],
+    ],
+    trips: [
+      ['아프로디테 바위와 쿠클리아|Aphrodite’s Rock & Kouklia', 5, 11],
+      ['아기오스 네오피토스|Agios Neophytos', 6],
+      ['페야 바다 동굴과 코랄 베이|Peyia & Coral Bay', 13, 10],
+      ['아바카스 협곡과 라라 베이|Avakas & Lara', 12, 14],
+    ],
+  },
+  'ayia-napa': {
+    days: [['', 1, 3, 6, 4, 2]],
+    trips: [
+      ['케이프 그레코와 코노스 베이|Cape Greco & Konnos', 5, 9, 7],
+      ['피그 트리 베이|Fig Tree Bay', 8],
+      ['마크로니소스와 아기아 테클라|Makronissos', 10],
+    ],
+  },
   tirana: {
     days: [
       ['중심가|City centre', 1, 8, 5, 7, 10, 9],

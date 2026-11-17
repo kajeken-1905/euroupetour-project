@@ -1,6 +1,10 @@
 {
   "sofia-h6": null,
-  "nicosia-h3": null,
+  "nicosia-h3": [
+    35.17415,
+    33.36142,
+    "OSM Nominatim: Λήδρας, Νεμπετχανέ, Λευκωσία, Δήμος Λευκωσίας, Επαρχία Λευκω (Wikipedia 33m)"
+  ],
   "dinant-h3": null,
   "lake-district-h1": null,
   "la-rochelle-h3": [
@@ -12172,5 +12176,105 @@
     45.5982,
     28.12244,
     "OSM Nominatim: Lacul Beleu, Slobozia Mare, Raionul Cahul, Moldova (Wikidata 925m)"
+  ],
+  "nicosia-h7": [
+    35.1733,
+    33.36792,
+    "OSM Nominatim: Άγιος Ιωάννης, Αποστόλου Βαρνάβα, Άγιος Ιωάννης, Λευκωσία, A (Wikipedia 167m)"
+  ],
+  "nicosia-h9": [
+    35.17061,
+    33.3617,
+    "OSM Nominatim: Λεβέντειο Δημοτικό Μουσείο Λευκωσίας, 17, Ιπποκράτους, Λαϊκή (Wikipedia 2m)"
+  ],
+  "nicosia-h12": [
+    35.16852,
+    33.36203,
+    "OSM Nominatim: Eleftheria Square, Λεωφόρος Στασίνου, Λαϊκή Γειτονιά, Τρυπιώ (Wikipedia 247m)"
+  ],
+  "nicosia-h13": [
+    35.17175,
+    33.36145,
+    "OSM Nominatim: Shacolas Tower, 171, Λήδρας, Φανερωμένη, Λευκωσία, Faneromen (Wikipedia 18m)"
+  ],
+  "nicosia-h14": [
+    34.94031,
+    33.19066,
+    "OSM Nominatim: Ιερά Μονή της Παναγίας του Μαχαιρά, Κατάβαση ποδηλάτου βουνο (Wikipedia 39m)"
+  ],
+  "limassol-h6": [
+    34.66547,
+    32.88579,
+    "OSM Nominatim: Κούριο, Akrotiri Sovereign Base Area, 4620, Κύπρος - Kıbrıs (Wikipedia 225m)"
+  ],
+  "limassol-h7": [
+    34.66519,
+    32.93434,
+    "OSM Nominatim: Kolossi Castle, Agiou Efstathiou, Κολόσσι, Δήμος Κουρίου, Επ (Wikipedia 36m)"
+  ],
+  "limassol-h8": [
+    34.71195,
+    33.14044,
+    "OSM Nominatim: Αμαθούντα, Leoforos Amathountos, Άγιος Τύχωνας, Κοινότητα Αγ (Wikipedia 128m)"
+  ],
+  "limassol-h11": [
+    34.84809,
+    32.80781,
+    "OSM Nominatim: Omodos, Σύμπλεγμα Κοινοτήτων Κρασοχωρίων, Επαρχία Λεμεσού, Κ (Wikipedia 48m)"
+  ],
+  "paphos-h10": [
+    34.85379,
+    32.36993,
+    "OSM Nominatim: Coral bay, Κόλπου Κοραλλίων, Κόλπος των Κοραλίων, Πέγεια, Δή (Wikipedia 46m)"
+  ],
+  "ayia-napa-h8": [
+    35.01284,
+    34.05876,
+    "OSM Nominatim: Fig Tree Bay, Πρωταράς, Παραλίμνι, Δήμος Παραλιμνίου - Δερύν (Wikipedia 13m)"
+  ],
+  "limassol-h4": [
+    34.67586,
+    33.04302,
+    "OSM Nominatim: Πλατεία Σαριπόλου, Καθολική, Λεμεσός, Δήμος Λεμεσού, Επαρχία (Wikipedia 164m)"
+  ],
+  "limassol-h10": [
+    34.62126,
+    32.97454,
+    "OSM Nominatim: Αλυκή Λεμεσού, Ακρωτήρι, Akrotiri, Akrotiri Sovereign Base A (Wikipedia 883m)"
+  ],
+  "limassol-h9": [
+    34.66963,
+    33.04022,
+    "OSM Nominatim: Limassol Marina, Agios Antonios, Λεμεσός, Δήμος Λεμεσού, Επα (Wikidata 273m)"
+  ],
+  "limassol-h12": [
+    34.71283,
+    33.27105,
+    "OSM Nominatim: Governor's Beach, Πεντάκωμο, Σύμπλεγμα Κοινοτήτων Ανατολικής (Wikidata 427m)"
+  ],
+  "paphos-h7": [
+    34.75762,
+    32.40973,
+    "OSM Nominatim: Saranta Kolones, Apostolou Pavlou, Κάτω Πάφος, Kato Paphos,  (Wikidata 9m)"
+  ],
+  "paphos-h12": [
+    34.92307,
+    32.34456,
+    "OSM Nominatim: Avakas Gorge, Pano Arodes, Δήμος Ακάμα, Επαρχία Πάφου, Κύπρο (Wikidata 233m)"
+  ],
+  "ayia-napa-h6": [
+    34.98757,
+    34.00215,
+    "OSM Nominatim: Δημοτικό Μουσείο Thalassa, Λεωφόρος Κρυού Νερού, Αγία Νάπα,  (Wikidata 33m)"
+  ],
+  "ayia-napa-h7": [
+    34.98418,
+    34.06699,
+    "OSM Nominatim: Konnos Bay, Leoforos Konnou, Αγία Νάπα, Δήμος Αγίας Νάπας, Ε (Wikidata 242m)"
+  ],
+  "ayia-napa-h10": [
+    34.98114,
+    33.95401,
+    "OSM Nominatim: Makronissos Tombs, Leoforos Nissi, Αγία Νάπα, Δήμος Αγίας Νά (Wikidata 10m)"
   ]
 }
