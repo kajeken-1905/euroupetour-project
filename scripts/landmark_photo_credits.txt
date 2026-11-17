@@ -4418,3 +4418,4 @@ highlights/polis-2.jpg | https://commons.wikimedia.org/wiki/File:Baths_of_Aphrod
 highlights/polis-3.jpg | https://commons.wikimedia.org/wiki/File:Aphrodite_Nature_Trail,_Cyprus,_view_to_Akamas_peninsula_from_Moutti_Tis_Sotiras.jpg | CC0 | Gerda Arendt
 highlights/polis-4.jpg | https://commons.wikimedia.org/wiki/File:Blue_Lagoon_boat_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou
 highlights/polis-5.jpg | https://commons.wikimedia.org/wiki/File:Polis_Chrysochous_Camping_site_-_panoramio.jpg | CC BY 3.0 | Georgy Papantoniou
+gateways/gw-lca.jpg | https://commons.wikimedia.org/wiki/File:Larnaca_International_Airport.jpg | CC BY-SA 4.0 | George Kokkinidis-GR
