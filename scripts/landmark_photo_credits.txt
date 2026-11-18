@@ -4577,3 +4577,32 @@ gateways/gw-gny.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eanl%C4%B1urf
 gateways/gw-mqm.jpg | https://commons.wikimedia.org/wiki/File:Mardin_Airport.jpg | CC BY-SA 4.0 | Oystercard
 gateways/gw-ksy.jpg | https://commons.wikimedia.org/wiki/File:Kars_Airport.JPG | CC BY-SA 3.0 | Ex13
 gateways/gw-ckz.jpg | https://commons.wikimedia.org/wiki/File:%C3%87anakkale_Airport.jpg | CC BY-SA 4.0 | Ex13
+highlights/tbilisi-6.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_de_Metekhi,_Tiflis,_Georgia,_2016-09-29,_DD_145-147_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/tbilisi-7.jpg | https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Park_Rike_(02).jpg | CC BY-SA 4.0 | Marcin Konsek
+highlights/tbilisi-8.jpg | https://commons.wikimedia.org/wiki/File:Kartlis_Deda_-_Mother_of_a_Kartli_or_Mother_of_a_Georgian_-_Photo_by_Mostafa_Meraji_03.jpg | CC BY-SA 4.0 | Mostafameraji
+highlights/tbilisi-9.jpg | https://commons.wikimedia.org/wiki/File:2018_-_The_Sioni_Cathedral.jpg | CC BY-SA 4.0 | Moahim
+highlights/tbilisi-10.jpg | https://commons.wikimedia.org/wiki/File:Anchiskhati_Basilica_Tbilisi_Georgia.jpg | CC BY 3.0 pl | Radosław Botev
+highlights/tbilisi-11.jpg | https://commons.wikimedia.org/wiki/File:Rezo_Gabriadze_Marionette_Theater_Clock_Tower_(1).jpg | CC BY-SA 4.0 | Benreis
+highlights/tbilisi-12.jpg | https://commons.wikimedia.org/wiki/File:Rustaveli_Avenue_P1000187.jpg | CC BY 2.0 | James Emery
+highlights/tbilisi-13.jpg | https://commons.wikimedia.org/wiki/File:Georgian_National_Museum_%D9%85%D9%88%D8%B2%D9%87_%D9%85%D9%84%DB%8C_%D8%AA%D9%81%D9%84%DB%8C%D8%B3-_%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86_17.jpg | CC BY-SA 4.0 | Mostafameraji
+highlights/tbilisi-14.jpg | https://commons.wikimedia.org/wiki/File:2025-04-19_Dry_Bridge_Market,_Tbilisi_4.jpg | CC BY 4.0 | Alexkom000
+highlights/tbilisi-15.jpg | https://commons.wikimedia.org/wiki/File:Mtatsminda_park_January_2013_11.jpg | CC BY-SA 3.0 | Jonathan Cardy
+highlights/tbilisi-16.jpg | https://commons.wikimedia.org/wiki/File:Georgiaren_Kronikak_(Tbilisi)_-_The_Chronicle_of_Georgia_-_Tagzania_-_1775459624045.jpg | CC BY-SA 4.0 | MSO (Tagzania user ID: 3984)
+highlights/tbilisi-17.jpg | https://commons.wikimedia.org/wiki/File:Fabrika_Tbilisi,_an_urban_culture_hub_in_the_capital_of_Georgia.jpg | CC BY-SA 2.0 | Alf Altendorf
+highlights/tbilisi-18.jpg | https://commons.wikimedia.org/wiki/File:National_Botanical_Garden_of_Georgia_(HDR_Photo,_Lg_G46)_%D8%A8%D8%A7%D8%BA_%D8%A8%D9%88%D8%AA%D8%A7%D9%86%DB%8C%DA%A9%D8%A7%D9%84%D8%8C_%D8%B4%D9%87%D8%B1_%D8%AA%D9%81%D9%84%DB%8C%D8%B3.jpg | CC BY-SA 4.0 | Mostafameraji
+highlights/tbilisi-19.jpg | https://commons.wikimedia.org/wiki/File:Tbilisi_Open_Air_Museum_of_Ethnography_22.jpg | CC BY-SA 4.0 | Kober
+highlights/tbilisi-5.jpg | https://commons.wikimedia.org/wiki/File:Tbilisi,_Old_town,_Georgia.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/batumi-6.jpg | https://commons.wikimedia.org/wiki/File:Europe_Square_in_Batumi.jpg | CC BY-SA 4.0 | Erez.Gt
+highlights/batumi-7.jpg | https://commons.wikimedia.org/wiki/File:Argo_Cable_Car,_Batumi_(51153983676).jpg | CC BY 2.0 | Andrew Milligan sumo
+highlights/batumi-8.jpg | https://commons.wikimedia.org/wiki/File:Gonio-Apsaros_Fortress-Museum.jpg | CC BY-SA 4.0 | Giorgi Balakhadze
+highlights/batumi-9.jpg | https://commons.wikimedia.org/wiki/File:Makhuntseti_Waterfall_-_%E1%83%9B%E1%83%90%E1%83%AE%E1%83%A3%E1%83%9C%E1%83%AA%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%A9%E1%83%90%E1%83%9C%E1%83%A9%E1%83%A5%E1%83%94%E1%83%A0%E1%83%98_-_panoramio_(1).jpg | CC BY-SA 3.0 | Wojciech Biegun
+highlights/kutaisi-6.jpg | https://commons.wikimedia.org/wiki/File:Motsameta_Monastery_(1).jpg | CC BY-SA 4.0 | Jaba1977
+highlights/kutaisi-7.jpg | https://commons.wikimedia.org/wiki/File:2025-06-21_Green_Bazaar,_Kutaisi_1.jpg | CC BY 4.0 | Alexkom000
+highlights/kutaisi-8.jpg | https://commons.wikimedia.org/wiki/File:Kutaisi_White_Bridge_(August_2011).jpg | CC BY-SA 3.0 | Kober
+highlights/kutaisi-9.jpg | https://commons.wikimedia.org/wiki/File:Martvili_Canyon_Natural_Monument_June_2017.jpg | CC BY-SA 4.0 | Jami430
+highlights/stepantsminda-5.jpg | https://commons.wikimedia.org/wiki/File:Juta_-_Mountain_Chaukhebi_Rd,_Juta,_Georgia_-_panoramio.jpg | CC BY-SA 3.0 | franek2
+highlights/stepantsminda-6.jpg | https://commons.wikimedia.org/wiki/File:Truso_Valley_views_18.jpg | CC BY 4.0 | David Osipov
+highlights/stepantsminda-7.jpg | https://commons.wikimedia.org/wiki/File:Russia%E2%80%93Georgia_Friendship_Monument_Gruzia_2019_1.jpg | CC BY-SA 3.0 | Karelj
+highlights/stepantsminda-8.jpg | https://commons.wikimedia.org/wiki/File:Ananuri_Fortress_02.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/sighnaghi-3.jpg | https://commons.wikimedia.org/wiki/File:Sighnaghi_Museum._Bronze_Age_collections_03.jpg | CC BY-SA 4.0 | Kober
+highlights/kutaisi-10.jpg | https://commons.wikimedia.org/wiki/File:Okatse_Canyon,_Imereti,_Georgia.jpg | CC BY-SA 4.0 | FingerWiki

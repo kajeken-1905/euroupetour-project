@@ -344,17 +344,39 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   zlatibor: { days: [['', 1, 2]], trips: [['스토피차 동굴|Stopića Cave', 3], ['시로고이노|Sirogojno', 4], ['샤르간 8 열차|Šargan Eight', 5], ['드르벤그라드|Drvengrad', 6]] },
   kraljevo: { days: [['', 1, 2]], trips: [['스투데니차 수도원|Studenica', 3], ['마글리치 요새|Maglič', 4]] },
   subotica: { days: [['', 2, 1, 4, 6, 5]], trips: [['팔리치 호수|Lake Palić', 3]] },
-  tbilisi: [4, 3, 5, 1, 2],
-  batumi: { days: [['', 5, 2, 4, 1]], trips: [['바투미 식물원|Batumi Botanical Garden', 3]] },
-  kutaisi: {
-    days: [['', 4, 1]],
+  tbilisi: {
+    days: [
+      ['구시가와 나리칼라|Old Town & Narikala', 5, 9, 10, 11, 2, 18, 1, 8],
+      ['강 건너와 루스타벨리|Across the river & Rustaveli', 6, 4, 3, 7, 12, 13, 14],
+      ['므타츠민다와 외곽|Mtatsminda & further out', 15, 19, 16, 17],
+    ],
+  },
+  batumi: {
+    days: [['', 6, 5, 2, 4, 1, 7]],
     trips: [
-      ['겔라티 수도원|Gelati Monastery', 2],
+      ['바투미 식물원|Batumi Botanical Garden', 3],
+      ['고니오 요새|Gonio Fortress', 8],
+      ['마훈체티 폭포|Makhuntseti', 9],
+    ],
+  },
+  kutaisi: {
+    days: [['', 4, 8, 7, 1]],
+    trips: [
+      ['겔라티·모차메타 수도원|Gelati & Motsameta', 2, 6],
+      ['마르트빌리·오카체 협곡|Martvili & Okatse', 9, 10],
       ['사타플리아와 프로메테우스 동굴|Sataplia & Prometheus Cave', 5, 3],
     ],
   },
-  stepantsminda: { days: [['', 5, 1, 2]], trips: [['그벨레티 폭포와 다리알리 협곡|Gveleti & Dariali Gorge', 4, 3]] },
-  sighnaghi: [2, 4, 1, 5, 3],
+  stepantsminda: {
+    days: [['', 1, 2]],
+    trips: [
+      ['그벨레티 폭포와 다리알리 협곡|Gveleti & Dariali Gorge', 4, 3],
+      ['유타 계곡|Juta valley', 5],
+      ['트루소 계곡|Truso valley', 6],
+      ['아나누리와 구다우리|Ananuri & Gudauri', 8, 7],
+    ],
+  },
+  sighnaghi: [4, 1, 3, 5, 2],
   skopje: {
     days: [
       ['구시장·요새|Old Bazaar & fortress', 1, 2, 6, 7, 5],
