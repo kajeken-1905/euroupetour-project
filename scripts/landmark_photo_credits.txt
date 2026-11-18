@@ -4569,3 +4569,11 @@ highlights/gaziantep-4.jpg | https://commons.wikimedia.org/wiki/File:Gaziantep_A
 highlights/gaziantep-5.jpg | https://commons.wikimedia.org/wiki/File:TAHMIS_GENIS_ACI_01_(18).jpg | CC BY-SA 4.0 | Cengiz Gurkay
 highlights/sanliurfa-3.jpg | https://commons.wikimedia.org/wiki/File:UrfaMuseumG%C3%B6bekli.jpg | CC BY-SA 3.0 | Klaus-Peter Simon
 highlights/mardin-4.jpg | https://commons.wikimedia.org/wiki/File:Mardin_P1050254_20080426114925.JPG | CC BY-SA 3.0 | Nevit Dilmen
+gateways/gw-bjv.jpg | https://commons.wikimedia.org/wiki/File:Bodrumairport.jpg | CC BY 3.0 | Madmick13 at en.wikipedia
+gateways/gw-dlm.jpg | https://commons.wikimedia.org/wiki/File:International_terminal_dalaman_airport_dlm_lbts.jpg | CC BY 3.0 | Tiha0711
+gateways/gw-kya.jpg | https://commons.wikimedia.org/wiki/File:KONYA_AIRPORT_-_panoramio_(1).jpg | CC BY 3.0 | Hüseyin Öcal
+gateways/gw-gzt.jpg | https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Gaziantep_City_from_the_AJet_aircraft.IMG_1656.jpg | CC BY 4.0 | YG01
+gateways/gw-gny.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eanl%C4%B1urfa_GAP_Airport.jpg | CC BY-SA 3.0 | Kayhan ERTUGRUL
+gateways/gw-mqm.jpg | https://commons.wikimedia.org/wiki/File:Mardin_Airport.jpg | CC BY-SA 4.0 | Oystercard
+gateways/gw-ksy.jpg | https://commons.wikimedia.org/wiki/File:Kars_Airport.JPG | CC BY-SA 3.0 | Ex13
+gateways/gw-ckz.jpg | https://commons.wikimedia.org/wiki/File:%C3%87anakkale_Airport.jpg | CC BY-SA 4.0 | Ex13
