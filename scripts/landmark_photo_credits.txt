@@ -4461,3 +4461,111 @@ highlights/pamukkale-7.jpg | https://commons.wikimedia.org/wiki/File:Aphrodisias
 highlights/pamukkale-8.jpg | https://commons.wikimedia.org/wiki/File:K%C4%B1rm%C4%B1z%C4%B1_Su_(Red_Spring),_Karahay%C4%B1t,_Turkey,_March_2024_05.jpg | CC BY-SA 4.0 | Calistemon
 highlights/istanbul-10.jpg | https://commons.wikimedia.org/wiki/File:T%C3%BCrk_ve_%C4%B0slam_Eserleri_M%C3%BCzesi_(69096).jpg | CC BY-SA 3.0 | Tayeçe2024
 highlights/istanbul-25.jpg | https://commons.wikimedia.org/wiki/File:Kad%C4%B1k%C3%B6y_market_stall,_Istanbul.jpg | CC BY-SA 4.0 | Jwslubbock
+cities/selcuk.jpg | https://commons.wikimedia.org/wiki/File:Sel%C3%A7uk_Museum_Ivory_relief_fragment_in_2015_2901_panorama.jpg | CC BY-SA 4.0 | Dosseman
+highlights/selcuk-1.jpg | https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg | CC BY-SA 3.0 | Benh LIEU SONG
+highlights/selcuk-2.jpg | https://commons.wikimedia.org/wiki/File:Terrace_Houses_in_Ephesus_2024_4.jpg | CC BY-SA 4.0 | Satirdan kahraman
+highlights/selcuk-3.jpg | https://commons.wikimedia.org/wiki/File:Sarcophagus_outside_Ephesus_Museum_-_Efes_(Ephesus)_-_Turkey_(5754975238).jpg | CC BY-SA 2.0 | Adam Jones from Kelowna, BC, Canada
+highlights/selcuk-4.jpg | https://commons.wikimedia.org/wiki/File:Basilica_of_St._John_-_Sel%C3%A7uk,_%C4%B0zmir_Province,_Turkey_-_October_7,_2025_03.jpg | CC BY-SA 4.0 | Giorgio Galeotti
+highlights/selcuk-5.jpg | https://commons.wikimedia.org/wiki/File:Sel%C3%A7uk_Artemis_temple_in_1992_007.jpg | CC BY-SA 4.0 | Dosseman
+highlights/selcuk-6.jpg | https://commons.wikimedia.org/wiki/File:House_of_the_Virgin_Mary_(13951299641)_(cropped).jpg | CC BY 2.0 | Erik Cleves Kristensen
+highlights/selcuk-7.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eirince_mosque.jpg | CC BY 4.0 | Carl9311
+cities/bodrum.jpg | https://commons.wikimedia.org/wiki/File:Bodrum_Museum_probably_Byzantine_find_in_2015_3553_Panorama.jpg | CC BY-SA 4.0 | Dosseman
+highlights/bodrum-1.jpg | https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg | CC BY 4.0 | Serhio Magpie
+highlights/bodrum-2.jpg | https://commons.wikimedia.org/wiki/File:Bodrum_marina,_Turkey_(5654382668).jpg | CC BY-SA 2.0 | Michal Osmenda from Brussels, Belgium
+highlights/bodrum-3.jpg | https://commons.wikimedia.org/wiki/File:Mausoleum_of_Halicarnassus_2009.jpg | CC BY-SA 3.0 | Dorushiva
+highlights/bodrum-4.jpg | https://commons.wikimedia.org/wiki/File:Myndos_Gate_(Bodrum,_Turkey).jpg | CC BY 2.0 | Robin &amp; Bazylek
+highlights/bodrum-5.jpg | https://commons.wikimedia.org/wiki/File:Bodrum_Theatre.jpg | CC BY-SA 4.0 | Onur CİHAN
+highlights/bodrum-6.jpg | https://commons.wikimedia.org/wiki/File:Bodrum_G%C3%BCm%C3%BC%C5%9Fl%C3%BCk.jpg | CC BY-SA 4.0 | Bright estrellas
+cities/fethiye.jpg | https://commons.wikimedia.org/wiki/File:Kelebek_m%C3%BCzesi_in_Fethiye_(WV_Banner).jpg | CC BY-SA 4.0 | Ezzeldin.Elbaksawy
+highlights/fethiye-1.jpg | https://commons.wikimedia.org/wiki/File:Fethiye_Paspatur_%C3%87ar%C5%9F%C4%B1s%C4%B1_(15318746922).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/fethiye-2.jpg | https://commons.wikimedia.org/wiki/File:Tomb_of_Amyntas_-_1.jpg | CC BY-SA 4.0 | Harald the Bard
+highlights/fethiye-3.jpg | https://commons.wikimedia.org/wiki/File:Kayak%C3%B6y_2014.jpg | CC BY-SA 4.0 | Jorge Franganillo
+highlights/fethiye-4.jpg | https://commons.wikimedia.org/wiki/File:Swimming_area_in_the_Blue_Lagoon_in_%C3%96l%C3%BCdeniz,_Turkey_(49070949277).jpg | CC BY 2.0 | dronepicr
+highlights/fethiye-5.jpg | https://commons.wikimedia.org/wiki/File:Butterfly_Valley,_Fethiye.jpg | CC BY-SA 4.0 | Ezzeldin.Elbaksawy
+cities/kas.jpg | https://commons.wikimedia.org/wiki/File:Ka%C5%9F,_A%C4%9Fustos_2015_Liman%27dan_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg | CC BY-SA 4.0 | Esginmurat
+highlights/kas-2.jpg | https://commons.wikimedia.org/wiki/File:Antiphellus_Ancient_Theatre_-_2014.10_-_panoramio.jpg | CC BY 3.0 | rheins
+highlights/kas-3.jpg | https://commons.wikimedia.org/wiki/File:Sunken_City_Ruins_in_Kekova.jpg | CC BY-SA 4.0 | JamesDavidShoots
+highlights/kas-4.jpg | https://commons.wikimedia.org/wiki/File:KAPUTA%C5%9E_PLAJI_-_panoramio_-_HALUK_COMERTEL.jpg | CC BY 3.0 | HALUK COMERTEL
+highlights/kas-5.jpg | https://commons.wikimedia.org/wiki/File:Kastellorizo-Psoradia.jpg | CC BY-SA 4.0 | Thanasis Christodoulou
+highlights/kas-6.jpg | https://commons.wikimedia.org/wiki/File:Patara_City_Gate_2019.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+cities/olympos.jpg | https://commons.wikimedia.org/wiki/File:%C3%87%C4%B1ral%C4%B1-Chimeria-Kemer-Olympos_-_panoramio.jpg | CC BY 3.0 | Haluk Comertel
+highlights/olympos-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%87%C4%B1ral%C4%B1_Plaj%C4%B1.jpg | CC BY-SA 4.0 | Josh.artofwayfaring
+highlights/olympos-2.jpg | https://commons.wikimedia.org/wiki/File:Olympos_Ancient_City.jpg | CC BY-SA 4.0 | Capyusuf
+highlights/olympos-3.jpg | https://commons.wikimedia.org/wiki/File:Chimaera_(6877346128).jpg | CC BY 2.0 | William Neuheisel from DC, US
+highlights/olympos-4.jpg | https://commons.wikimedia.org/wiki/File:Phaselis_August_2019_01.jpg | CC BY-SA 4.0 | Лобачев Владимир
+highlights/olympos-5.jpg | https://commons.wikimedia.org/wiki/File:Olimpos_Teleferik._-_panoramio.jpg | CC BY-SA 3.0 | Сергей Секачёв
+cities/alanya.jpg | https://commons.wikimedia.org/wiki/File:Alanya-gullet-J%C3%BCrgenBOT.jpg | CC BY 2.0 | [https://www.flickr.com/people/29410084@N07 J�rgenBOT]
+highlights/alanya-1.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_View_of_Kizilkule_(Red_Tower)_and_Alanya_Harbor.jpg | CC BY-SA 4.0 | İsmail Çamönü
+highlights/alanya-3.jpg | https://commons.wikimedia.org/wiki/File:Alanya_kale.jpg | CC BY 2.5 pl | Luke_33
+highlights/alanya-4.jpg | https://commons.wikimedia.org/wiki/File:Damlata%C5%9F_Ma%C4%9Faras%C4%B1_09.jpg | CC BY-SA 4.0 | Jaba1977
+highlights/alanya-5.jpg | https://commons.wikimedia.org/wiki/File:Alanya_Cleopatra_Beach_5833.jpg | CC BY-SA 4.0 | Dosseman
+cities/ayvalik.jpg | https://commons.wikimedia.org/wiki/File:Comet_NEOWISE_over_Ayval%C4%B1k_Islands_Nature_Park.jpg | CC BY-SA 4.0 | Otemiz (Oğulcan Temiz)
+highlights/ayvalik-1.jpg | https://commons.wikimedia.org/wiki/File:Ayval%C4%B1k_Street_view_in_2004_07.jpg | CC BY-SA 4.0 | Dosseman
+highlights/ayvalik-3.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eeytan_Sofras%C4%B1%27ndan_G%C3%BCnbat%C4%B1m%C4%B1nda_Ayval%C4%B1k_Adalar%C4%B1_Milli_Park%C4%B1_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg | CC BY-SA 4.0 | Otemiz
+highlights/ayvalik-4.jpg | https://commons.wikimedia.org/wiki/File:View_from_Cunda_Island.jpg | CC BY-SA 4.0 | Magurale
+highlights/ayvalik-5.jpg | https://commons.wikimedia.org/wiki/File:Sar%C4%B1msakl%C4%B1_Kleopatra_Plaj%C4%B1,_Ayval%C4%B1k_01.jpg | CC BY 4.0 | Kadı
+cities/canakkale.jpg | https://commons.wikimedia.org/wiki/File:Troy_Museum_(%C3%87anakkale)_Polyxena_Sarcophagus_enthroned_woman_long_side_8064_panorama.jpg | CC BY-SA 4.0 | Dosseman
+highlights/canakkale-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%87anakkale_trojan_horse.jpg | CC BY-SA 3.0 | 
+highlights/canakkale-2.jpg | https://commons.wikimedia.org/wiki/File:Aynali-carsi.jpg | CC BY-SA 4.0 | Dardanel17
+highlights/canakkale-3.jpg | https://commons.wikimedia.org/wiki/File:%C3%87imenlik_Kalesi_Fatih_Camii_2026-09-13_12.57.01_1789588493.jpeg | CC BY-SA 4.0 | Emirhan Sağdır
+highlights/canakkale-4.jpg | https://commons.wikimedia.org/wiki/File:Hisarl%C4%B1k_(City_of_Troy).jpg | CC BY-SA 4.0 | Barrowbob
+highlights/canakkale-5.jpg | https://commons.wikimedia.org/wiki/File:Troy_Museum_20022022_005.jpg | CC BY-SA 4.0 | Yamen
+highlights/canakkale-6.jpg | https://commons.wikimedia.org/wiki/File:Gallipoli_Battlefield_(15399670914).jpg | CC BY-SA 2.0 | Clay Gilliland
+cities/konya.jpg | https://commons.wikimedia.org/wiki/File:Konya_6.jpg | CC BY-SA 4.0 | Imperissionist
+highlights/konya-1.jpg | https://commons.wikimedia.org/wiki/File:Al%C3%A2eddin_Mosque,_Konya_02.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/konya-2.jpg | https://commons.wikimedia.org/wiki/File:Karatay_Madrasa,_Konya,_Turkey_04.jpg | CC BY-SA 4.0 | Murat Özsoy 1958
+highlights/konya-3.jpg | https://commons.wikimedia.org/wiki/File:Ince_Minareli_Medrese_01.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/konya-4.jpg | https://commons.wikimedia.org/wiki/File:Mevlana_M%C3%BCzesi_01.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/konya-5.jpg | https://commons.wikimedia.org/wiki/File:Mevlana_Cultural_Center,_Konya.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/konya-6.jpg | https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_08.jpg | CC BY-SA 4.0 | Murat Özsoy 1958
+cities/safranbolu.jpg | https://commons.wikimedia.org/wiki/File:K%C3%B6zde_T%C3%BCrk_Kahvesi,_Safranbolu_2014-2.jpg | CC0 | Hamdigumus
+highlights/safranbolu-1.jpg | https://commons.wikimedia.org/wiki/File:Safranbolu_Eski_%C3%87ar%C5%9F%C4%B1_3.jpg | CC BY-SA 4.0 | Zhryldiz
+highlights/safranbolu-2.jpg | https://commons.wikimedia.org/wiki/File:Safranbolu_Cinci_Han_in_2006_8114.jpg | CC BY-SA 4.0 | Dosseman
+highlights/safranbolu-4.jpg | https://commons.wikimedia.org/wiki/File:H%C4%B1d%C4%B1rl%C4%B1k_tepesi_14_2007.JPG | CC BY-SA 4.0 | Özgür Esen (Surdurulebiliryasam)
+highlights/safranbolu-5.jpg | https://commons.wikimedia.org/wiki/File:Y%C3%B6r%C3%BCk_K%C3%B6y%C3%BC.jpg | CC BY-SA 4.0 | Tevfik Teker
+cities/amasra.jpg | https://commons.wikimedia.org/wiki/File:Amasra,_Turkey,_Castle,_view_from_the_island.jpg | CC BY-SA 3.0 | Babbsack
+highlights/amasra-1.jpg | https://commons.wikimedia.org/wiki/File:Amasra_193.JPG | CC BY-SA 4.0 | Vikiçizer
+highlights/amasra-2.jpg | https://commons.wikimedia.org/wiki/File:Amasra_225.JPG | CC BY-SA 4.0 | Vikiçizer
+highlights/amasra-3.jpg | https://commons.wikimedia.org/wiki/File:Kemere_K%C3%B6pr%C3%BCs%C3%BC_2025-05-11_15.17.22_1793978957.jpg | CC BY-SA 4.0 | Mushat29
+highlights/amasra-5.jpg | https://commons.wikimedia.org/wiki/File:Ancient_Greek_torsos,_,_lapidary_of_Amasra_Museum,_2321.jpg | CC BY-SA 4.0 | Zde
+cities/edirne.jpg | https://commons.wikimedia.org/wiki/File:Edirne_merkez,_Meyve_Heykeli.JPG | CC BY-SA 4.0 | Sadrettin
+highlights/edirne-1.jpg | https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_in_Edirne_01.jpg | CC BY-SA 4.0 | BuhaM
+highlights/edirne-2.jpg | https://commons.wikimedia.org/wiki/File:Eski_Cami,_Edirne_47.JPG | CC BY-SA 4.0 | Sadrettin
+highlights/edirne-3.jpg | https://commons.wikimedia.org/wiki/File:%C3%9C%C3%A7_%C5%9Eerefeli_Cami_01.jpg | CC BY-SA 4.0 | "Yahia"
+highlights/edirne-4.jpg | https://commons.wikimedia.org/wiki/File:Edirne_Ali_Pa%C5%9Fa_%C3%87ar%C5%9F%C4%B1s%C4%B1_in_2003_4462.jpg | CC BY-SA 4.0 | Dosseman
+highlights/edirne-5.jpg | https://commons.wikimedia.org/wiki/File:Sultan_Bayezid_II_Health_Museum_probably_teacher_and_student_in_2009_6203_052.jpg | CC BY-SA 4.0 | Dosseman
+highlights/edirne-6.jpg | https://commons.wikimedia.org/wiki/File:Meri%C3%A7_K%C3%B6pr%C3%BCs%C3%BC_ve_Meri%C3%A7_Nehri.jpg | CC BY-SA 2.0 | Ahmet Usal
+cities/kars.jpg | https://commons.wikimedia.org/wiki/File:Kars_museum,_Turkey_16.jpg | CC BY-SA 4.0 | Jaba1977
+highlights/kars-1.jpg | https://commons.wikimedia.org/wiki/File:Kars,_Zitadelle_(Kars_Kalesi)_(26510354908).jpg | CC BY 2.0 | Herbert Frank from Wien (Vienna), AT
+highlights/kars-2.jpg | https://commons.wikimedia.org/wiki/File:K%C3%BCmbet_Camii_-_Do%C4%9Fu%27nun_Ayasofyas%C4%B1_-2.jpg | CC BY-SA 4.0 | Ozlmktv
+highlights/kars-3.jpg | https://commons.wikimedia.org/wiki/File:Kars_Fethiye_Camii_5796.jpg | CC BY-SA 4.0 | Dosseman
+highlights/kars-4.jpg | https://commons.wikimedia.org/wiki/File:20110419_Ani_North_Walls_Turkey_Panorama.jpg | CC BY-SA 3.0 | Ggia
+highlights/kars-5.jpg | https://commons.wikimedia.org/wiki/File:Atl%C4%B1_K%C4%B1zak_in_%C3%87%C4%B1ld%C4%B1r_Lake.jpg | CC BY-SA 4.0 | Ringofener
+cities/gaziantep.jpg | https://commons.wikimedia.org/wiki/File:A_rainbow_at_sunset_after_rain_in_Gaziantep,_Turkey.IMG_2448.jpg | CC BY 4.0 | YG01
+highlights/gaziantep-1.jpg | https://commons.wikimedia.org/wiki/File:The_Oceanus_and_Tethys_Mosaic.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/gaziantep-3.jpg | https://commons.wikimedia.org/wiki/File:Gaziantep_Kalesi_4696.jpg | CC BY-SA 4.0 | Dosseman
+cities/sanliurfa.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_%C4%B0slami_D%C3%B6nem_aslan_ve_insan_kabartmas%C4%B1.jpg | CC BY-SA 4.0 | Cobija
+highlights/sanliurfa-1.jpg | https://commons.wikimedia.org/wiki/File:Bal%C4%B1kl%C4%B1g%C3%B6l,_Urfa_2015-14.jpg | CC0 | Hamdigumus
+highlights/sanliurfa-2.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eanl%C4%B1urfa_G%C3%BCmr%C3%BCk_Han%C4%B1_3970.jpg | CC BY-SA 4.0 | Dosseman
+highlights/sanliurfa-4.jpg | https://commons.wikimedia.org/wiki/File:Haleplibah%C3%A7e_Mozaik_M%C3%BCzesi_i%C3%A7.jpg | CC BY-SA 4.0 | Cobija
+highlights/sanliurfa-5.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe_12_November_2022.jpg | CC BY-SA 4.0 | TaylanOzgurUksal
+highlights/sanliurfa-6.jpg | https://commons.wikimedia.org/wiki/File:Harran_Beehive_houses_193.jpg | CC BY-SA 4.0 | Dosseman
+cities/mardin.jpg | https://commons.wikimedia.org/wiki/File:View_from_Mardin_to_the_Mesopotamian_plains.jpg | CC BY-SA 2.0 | Florian Koch
+highlights/mardin-1.jpg | https://commons.wikimedia.org/wiki/File:Mardin_Ulu_Camii_(cropped).jpg | CC BY-SA 4.0 | Ugurgulervikipedia
+highlights/mardin-2.jpg | https://commons.wikimedia.org/wiki/File:Zinciriye_medresesi_-_panoramio.jpg | CC BY-SA 3.0 | Necim
+highlights/mardin-3.jpg | https://commons.wikimedia.org/wiki/File:Mardin_P1050137_20080426105032.JPG | CC BY-SA 3.0 | Nevit Dilmen
+highlights/mardin-5.jpg | https://commons.wikimedia.org/wiki/File:Mor_Hananyo_Monastery_3.jpg | CC BY-SA 4.0 | Izabela Miszczak
+highlights/mardin-6.jpg | https://commons.wikimedia.org/wiki/File:Dara_Antik_Kenti.jpg | CC BY-SA 4.0 | Sedefdavutoglu
+highlights/mardin-7.jpg | https://commons.wikimedia.org/wiki/File:Mansion_in_Midyat.jpg | CC BY 2.0 | Mar Sharb
+highlights/fethiye-6.jpg | https://commons.wikimedia.org/wiki/File:Sakl%C4%B1kent_5.jpg | CC BY-SA 4.0 | Acar54
+highlights/kas-1.jpg | https://commons.wikimedia.org/wiki/File:A_monumental_Lycian_sarcophagus_at_Xanthos_necropolis_during_twilight.jpg | CC BY-SA 4.0 | Buğra Kaan Ersoy
+highlights/alanya-2.jpg | https://commons.wikimedia.org/wiki/File:Alanya_Tersane_Inside_8407.jpg | CC BY-SA 4.0 | Dosseman
+highlights/ayvalik-2.jpg | https://commons.wikimedia.org/wiki/File:Taksiyarhis_Kilisesi,_Ayval%C4%B1k_2026-09-15_14.44.41_1789587269.jpeg | CC BY-SA 4.0 | Emirhan Sağdır
+highlights/safranbolu-3.jpg | https://commons.wikimedia.org/wiki/File:Safranbolu_22.JPG | CC BY-SA 4.0 | Vikiçizer
+highlights/safranbolu-6.jpg | https://commons.wikimedia.org/wiki/File:%C4%B0ncekaya_Su_kemeri_(2013)_-_panoramio.jpg | CC BY-SA 3.0 | Ahmet KAYNARPUNAR
+highlights/amasra-4.jpg | https://www.flickr.com/photos/46191841@N00/9307418929 | BY 2.0 | Jorge Franganillo
+highlights/gaziantep-2.jpg | https://commons.wikimedia.org/wiki/File:A_jam-packed_bazaar_in_Gaziantep_T%C3%BCrkiye.jpg | CC BY-SA 4.0 | Qrdaaa
+highlights/gaziantep-4.jpg | https://commons.wikimedia.org/wiki/File:Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg | CC BY-SA 4.0 | Dosseman
+highlights/gaziantep-5.jpg | https://commons.wikimedia.org/wiki/File:TAHMIS_GENIS_ACI_01_(18).jpg | CC BY-SA 4.0 | Cengiz Gurkay
+highlights/sanliurfa-3.jpg | https://commons.wikimedia.org/wiki/File:UrfaMuseumG%C3%B6bekli.jpg | CC BY-SA 3.0 | Klaus-Peter Simon
+highlights/mardin-4.jpg | https://commons.wikimedia.org/wiki/File:Mardin_P1050254_20080426114925.JPG | CC BY-SA 3.0 | Nevit Dilmen

@@ -2123,6 +2123,62 @@ export const STAY: Record<string, StayArea[]> = {
     a('파묵칼레 마을', 'Pamukkale village', 'Pamukkale, Denizli', '석회봉·온천 가까이|By the travertines', '석회봉과 온천 수영장 바로 아래 마을이라 이른 아침에 가기 좋습니다. 시골이라 닭·개 소리가 들릴 수 있습니다.|The village right below the travertines and pools, ideal for an early start; rural, so expect roosters and dogs.'),
     a('데니즐리 시내', 'Denizli city', 'Denizli Merkezefendi', '가성비·식당|Value, restaurants', '17km쯤 떨어져 있고 돌무시(미니버스)로 20분쯤입니다. 값이 싸고 식당이 많습니다.|About 17 km away, 20 minutes by minibus; cheaper with more restaurants.'),
   ],
+  selcuk: [
+    a('셀추크 시내', 'Selçuk town', 'Selçuk', '유적 가까이|Near the sites', '기차역과 박물관, 성 요한 성당이 걸어서 가깝고 에페소스까지 3km입니다.|The station, museum and St John’s are on foot, and Ephesus is 3 km away.'),
+    a('쉬린제', 'Şirince', 'Şirince', '산마을 분위기|Village atmosphere', '돌집을 고친 숙소가 많고 밤엔 조용합니다. 차가 있으면 편합니다.|Many restored stone-house guesthouses and quiet nights; easier with a car.'),
+  ],
+  bodrum: [
+    a('보드룸 시내 (항구 근처)', 'Bodrum town (by the harbour)', 'Bodrum Marina', '걸어서 다니기|Walkable', '성과 시장, 식당이 걸어서 가깝습니다. 바 거리 근처는 밤늦게까지 시끄럽습니다.|The castle, bazaar and restaurants are on foot; the bar street is loud until late.'),
+    a('귀뮈실뤼크·얄르카바크', 'Gümüşlük & Yalıkavak', 'Yalıkavak', '조용한 만|Quiet bays', '반도 서쪽의 조용한 마을들로, 차가 있으면 편합니다.|Quieter villages on the west of the peninsula; easier with a car.'),
+  ],
+  fethiye: [
+    a('페티예 시내 (항구 근처)', 'Fethiye town (by the harbour)', 'Fethiye Marina', '교통 거점|Transport hub', '버스와 돌무시, 보트 투어가 모두 여기서 떠나고 식당이 많습니다.|Buses, dolmuşes and boat trips all leave from here, with plenty of restaurants.'),
+    a('욀뤼데니즈·히사뢰뉘', 'Ölüdeniz & Hisarönü', 'Ölüdeniz', '해변 휴양|Beach holiday', '해변 바로 옆이라 수영과 패러글라이딩에 편합니다. 여름엔 붐빕니다.|Right by the beach for swimming and paragliding; busy in summer.'),
+  ],
+  kas: [
+    a('카쉬 시내', 'Kaş town', 'Kaş', '걸어서 다니기|Walkable', '항구와 식당, 보트 투어 출발지가 모두 걸어서 가깝습니다.|The harbour, restaurants and boat departures are all on foot.'),
+    a('추쿠르바으 반도', 'Çukurbağ peninsula', 'Çukurbağ Yarımadası', '바다 전망|Sea views', '시내 서쪽 반도의 호텔들로 바다로 바로 들어갑니다. 시내까지는 차나 택시가 필요합니다.|Hotels on the peninsula west of town with direct sea access; you need a car or taxi to town.'),
+  ],
+  olympos: [
+    a('치랄르', 'Çıralı', 'Çıralı', '조용한 해변 마을|Quiet beach village', '과수원 사이 펜션이 많고 키메라까지 걸어갈 수 있습니다.|Many guesthouses among orchards, with the Chimaera within walking distance.'),
+    a('올림포스 계곡', 'Olympos valley', 'Olympos', '트리하우스 숙소|Treehouse lodges', '유적 입구 근처의 나무집 숙소들로, 배낭여행자가 많습니다.|Treehouse lodges near the ruins’ entrance, popular with backpackers.'),
+  ],
+  alanya: [
+    a('클레오파트라 해변', 'Cleopatra Beach', 'Cleopatra Beach Alanya', '해변과 성 가까이|By the beach and castle', '해변과 케이블카, 다믈라타시가 걸어서 가깝습니다.|The beach, cable car and Damlataş are on foot.'),
+    a('항구 주변', 'Harbour area', 'Alanya Harbour', '식당·밤 문화|Dining, nightlife', '붉은 탑과 항구 식당이 가깝고 밤늦게까지 붐빕니다.|Close to the Red Tower and harbour restaurants; lively until late.'),
+  ],
+  ayvalik: [
+    a('아이발르크 구시가', 'Ayvalık old town', 'Ayvalık', '분위기|Atmosphere', '돌집을 고친 부티크 숙소가 많고 식당과 장터가 가깝습니다.|Many boutique stays in restored stone houses, near restaurants and the market.'),
+    a('쿤다섬', 'Cunda Island', 'Cunda Island', '바닷가|By the sea', '해산물 식당 바로 옆이라 저녁이 즐겁습니다. 시내까지 버스나 배로 갑니다.|Right by the seafood restaurants; buses and boats run to town.'),
+  ],
+  canakkale: [
+    a('해안 산책로 근처', 'Near the seafront', 'Çanakkale Kordon', '걸어서 다니기|Walkable', '선착장과 시계탑, 식당이 걸어서 가깝습니다.|The ferry pier, clock tower and restaurants are on foot.'),
+    a('에제아바트', 'Eceabat', 'Eceabat', '갈리폴리 가까이|Near Gallipoli', '해협 건너 작은 마을로 전적지 투어가 여기서 떠납니다.|A small town across the strait where battlefield tours start.'),
+  ],
+  konya: [
+    a('메블라나 박물관 근처', 'Near the Mevlana Museum', 'Mevlana Museum Konya', '구경하기 편함|Handy for sightseeing', '박물관과 알라에딘 언덕, 시장이 걸어서 가깝습니다.|The museum, Alaeddin Hill and the bazaar are on foot.'),
+  ],
+  safranbolu: [
+    a('차르시 구시가', 'Çarşı old town', 'Safranbolu Çarşı', '분위기|Atmosphere', '목조 저택을 고친 숙소에서 묵습니다. 계단이 가파른 곳이 많습니다.|Stay in a restored timber mansion; many have steep stairs.'),
+  ],
+  amasra: [
+    a('성 안과 항구', 'Inside the walls & the harbour', 'Amasra Kalesi', '바다 전망|Sea views', '작은 마을이라 어디서든 걸어 다닙니다. 여름 주말엔 일찍 예약하세요.|Everything is walkable in this small town; book early for summer weekends.'),
+  ],
+  edirne: [
+    a('셀리미예 주변 시내', 'Centre around the Selimiye', 'Selimiye Edirne', '걸어서 다니기|Walkable', '모스크와 시장이 모두 걸어서 가깝습니다.|The mosques and bazaars are all on foot.'),
+  ],
+  kars: [
+    a('시내 중심', 'City centre', 'Kars Merkez', '걸어서 다니기|Walkable', '러시아 시대 거리와 식당이 걸어서 가깝습니다.|The Russian-era streets and restaurants are on foot.'),
+  ],
+  gaziantep: [
+    a('성과 시장 주변', 'Around the castle & bazaars', 'Gaziantep Kalesi', '걸어서 다니기|Walkable', '시장과 커피하우스, 식당이 걸어서 가깝습니다.|The bazaars, coffee houses and restaurants are on foot.'),
+  ],
+  sanliurfa: [
+    a('발르클르괼 주변', 'Around Balıklıgöl', 'Balıklıgöl', '걸어서 다니기|Walkable', '연못과 시장, 박물관이 걸어서 가깝습니다.|The pools, bazaar and museums are on foot.'),
+  ],
+  mardin: [
+    a('구시가', 'Old town', 'Mardin Eski Şehir', '분위기·전망|Atmosphere, views', '석조 저택을 고친 숙소에서 평원을 내려다봅니다. 계단과 비탈이 많습니다.|Stay in a restored stone mansion overlooking the plain; expect steps and slopes.'),
+  ],
   varna: [
     a('시내 중심', 'City centre', 'Varna city centre', '구경·식당·밤 문화|Sights, dining, nightlife', '볼거리와 보행자 거리, 식당을 걸어서 다니고 바다 공원이 바로 시작됩니다.|Sights, the pedestrian street and restaurants on foot, with the Sea Garden right at the edge.'),
     a('바다 공원 (모르스카 그라디나) 근처', 'Near the Sea Garden', 'Primorski Park, Varna', '조용함·해변|Calmer, by the beach', '공원과 해변이 가까워 가족·커플에게 좋습니다.|Green space and the beach close by, good for families and couples.'),

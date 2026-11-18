@@ -1552,7 +1552,15 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#3A0A10',
     },
-    cityIds: ['istanbul', 'goreme', 'ankara', 'izmir', 'antalya', 'bursa', 'trabzon', 'pamukkale'],
+    cityIds: ['istanbul', 'edirne', 'bursa', 'canakkale', 'izmir', 'selcuk', 'ayvalik', 'bodrum', 'pamukkale', 'antalya', 'olympos', 'kas', 'fethiye', 'alanya', 'ankara', 'goreme', 'konya', 'trabzon', 'safranbolu', 'amasra', 'gaziantep', 'sanliurfa', 'mardin', 'kars'],
+    cityGroups: [
+      { title: { ko: '이스탄불·마르마라', en: 'Istanbul & Marmara' }, cityIds: ['istanbul', 'edirne', 'bursa', 'canakkale'] },
+      { title: { ko: '에게해', en: 'Aegean' }, cityIds: ['izmir', 'selcuk', 'ayvalik', 'bodrum', 'pamukkale'] },
+      { title: { ko: '지중해', en: 'Mediterranean' }, cityIds: ['antalya', 'olympos', 'kas', 'fethiye', 'alanya'] },
+      { title: { ko: '중부 아나톨리아', en: 'Central Anatolia' }, cityIds: ['ankara', 'goreme', 'konya'] },
+      { title: { ko: '흑해', en: 'Black Sea' }, cityIds: ['trabzon', 'safranbolu', 'amasra'] },
+      { title: { ko: '동부·동남부', en: 'East & south-east' }, cityIds: ['kars', 'gaziantep', 'sanliurfa', 'mardin'] },
+    ],
   },
   {
     id: 'ge',

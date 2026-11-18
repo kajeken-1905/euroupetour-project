@@ -12451,5 +12451,170 @@
     37.70878,
     28.72381,
     "OSM Nominatim: Aphrodisias, Geyre, Karacasu, Aydın, Ege Bölgesi, Türkiye (Wikipedia 53m)"
+  ],
+  "selcuk-h3": [
+    37.94899,
+    27.36785,
+    "OSM Nominatim: Selçuk Efes Müzesi, Ugur Mumcu Sevgi Yolu, Atatürk Mahallesi (Wikipedia 13m)"
+  ],
+  "selcuk-h5": [
+    37.9498,
+    27.36363,
+    "OSM Nominatim: Artemis Tapinagi, Atatürk Mahallesi, Selçuk, İzmir, Ege Bölg (Wikipedia 24m)"
+  ],
+  "selcuk-h6": [
+    37.91156,
+    27.33401,
+    "OSM Nominatim: Meryem Ana Evi, Meryem Ana yolu, Atatürk Mahallesi, Selçuk,  (Wikipedia 4m)"
+  ],
+  "selcuk-h7": [
+    37.94235,
+    27.43283,
+    "OSM Nominatim: Şirince Mahallesi, Selçuk, İzmir, Ege Bölgesi, Türkiye (Wikipedia 109m)"
+  ],
+  "bodrum-h1": [
+    37.03177,
+    27.4291,
+    "OSM Nominatim: Bodrum Kalesi, Müftü Yakup Önes Caddesi, Çarşı, Çarşı Mahall (Wikipedia 32m)"
+  ],
+  "bodrum-h6": [
+    37.05351,
+    27.23663,
+    "OSM Nominatim: Gümüşlük, Bodrum, Muğla, Ege Bölgesi, 48970, Türkiye (Wikipedia 51m)"
+  ],
+  "fethiye-h2": [
+    36.61869,
+    29.11814,
+    "OSM Nominatim: Amintas Kaya Mezarı, 123. Sokak, Kesikkapı Mahallesi, Fethiy (Wikipedia 51m)"
+  ],
+  "fethiye-h4": [
+    36.57089,
+    29.14025,
+    "OSM Nominatim: Ölüdeniz Mahallesi, Fethiye, Muğla, Ege Bölgesi, Türkiye (Wikipedia 201m)"
+  ],
+  "fethiye-h5": [
+    36.49747,
+    29.12717,
+    "OSM Nominatim: Kelebekler Vadisi, Likya Yolu 2.02 Faralya - Kabak, Hisar, F (Wikipedia 76m)"
+  ],
+  "olympos-h4": [
+    36.52281,
+    30.55274,
+    "OSM Nominatim: Faselis, Main Street, Tekirova, Kemer, Antalya, Akdeniz Bölg (Wikipedia 100m)"
+  ],
+  "alanya-h3": [
+    36.53311,
+    31.99056,
+    "OSM Nominatim: Alanya Kalesi, Kale Caddesi, Hisariçi Mahallesi, Alanya, Ant (Wikipedia 21m)"
+  ],
+  "canakkale-h4": [
+    39.95737,
+    26.23802,
+    "OSM Nominatim: Troya'nın Arkeolojik Alanı, Kalafat, Çanakkale Merkez, Çanak (Wikipedia 76m)"
+  ],
+  "canakkale-h5": [
+    39.95528,
+    26.24927,
+    "OSM Nominatim: Troya Müzesi, 17-56, Tevfikiye, Çanakkale Merkez, Çanakkale, (Wikipedia 8m)"
+  ],
+  "canakkale-h6": [
+    40.23593,
+    26.27681,
+    "OSM Nominatim: Anzak Koyu, Çanakkale, Marmara Bölgesi, Türkiye (Wikipedia 62m)"
+  ],
+  "konya-h1": [
+    37.87343,
+    32.49279,
+    "OSM Nominatim: Alaeddin Keykubad Camii, Alaaddin Bulvarı, İhsaniye Mahalles (Wikipedia 108m)"
+  ],
+  "konya-h4": [
+    37.87096,
+    32.50571,
+    "OSM Nominatim: Mevlâna Müzesi, Aslanlı Kışla Caddesi, Aziziye Mahallesi, Ka (Wikipedia 98m)"
+  ],
+  "konya-h6": [
+    37.66679,
+    32.82526,
+    "OSM Nominatim: Çatalhöyük, Küçükköy Caddesi, Küçükköy, Çumra, Konya, İç Ana (Wikipedia 247m)"
+  ],
+  "amasra-h1": [
+    41.74973,
+    32.38729,
+    "OSM Nominatim: Amasra Kalesi, Kemere Köprüsü, Boztepe Mahallesi, Amasra Mer (Wikipedia 235m)"
+  ],
+  "amasra-h5": [
+    41.74714,
+    32.38309,
+    "OSM Nominatim: Amasra Müzesi, Zübeyde Hanım Caddesi, Kum, Amasra Merkez, Am (Wikipedia 22m)"
+  ],
+  "edirne-h2": [
+    41.67664,
+    26.55585,
+    "OSM Nominatim: Eski Cami, Atatürk Bulvarı, Sabuni Mahallesi, Edirne Merkez, (Wikipedia 15m)"
+  ],
+  "edirne-h3": [
+    41.67796,
+    26.55352,
+    "OSM Nominatim: Üç Şerefeli Cami, Çamaşırcılar Sokak, Babademirtaş Mahallesi (Wikipedia 13m)"
+  ],
+  "edirne-h5": [
+    41.68544,
+    26.54299,
+    "OSM Nominatim: Bayezıd II Külliyesi, Kumyolu Nazar Baba Caddesi, Yeniimaret (Wikipedia 67m)"
+  ],
+  "edirne-h6": [
+    41.66342,
+    26.55212,
+    "OSM Nominatim: Meriç Köprüsü, Karaağaç Mahallesi, Edirne Merkez, Edirne, Ma (Wikipedia 17m)"
+  ],
+  "kars-h1": [
+    40.61347,
+    43.08997,
+    "OSM Nominatim: Kars Kalesi, Şehit Celal Baba Caddesi, Kaleiçi Mahallesi, Ka (Wikipedia 26m)"
+  ],
+  "gaziantep-h3": [
+    37.06646,
+    37.38321,
+    "OSM Nominatim: Gaziantep Kalesi, Hamdi Kutlar Caddesi, Karagöz Mahallesi, G (Wikipedia 11m)"
+  ],
+  "sanliurfa-h3": [
+    37.15371,
+    38.78233,
+    "OSM Nominatim: Şanlıurfa Arkeoloji Müzesi, 11 Nisan Fuar Caddesi, Halepliba (Wikipedia 60m)"
+  ],
+  "sanliurfa-h5": [
+    37.22335,
+    38.92065,
+    "OSM Nominatim: Göbeklitepe, Haliliye, Şanlıurfa, Güneydoğu Anadolu Bölgesi, (Wikipedia 95m)"
+  ],
+  "sanliurfa-h6": [
+    36.87101,
+    39.02514,
+    "OSM Nominatim: Harran, Şanlıurfa, Güneydoğu Anadolu Bölgesi, Türkiye (Wikipedia 23m)"
+  ],
+  "mardin-h2": [
+    37.31423,
+    40.73988,
+    "OSM Nominatim: Zinciriye Medresesi, 249 Kumru Sokak, Medrese Mah., Medrese  (Wikipedia 7m)"
+  ],
+  "mardin-h4": [
+    37.30761,
+    40.71981,
+    "OSM Nominatim: Kasımiye Medresesi, 4. Sokak, Yenişehir Mah., Cumhuriyet Mah (Wikipedia 52m)"
+  ],
+  "mardin-h5": [
+    37.29944,
+    40.79283,
+    "OSM Nominatim: Deyrulzafarân Manastırı, Mardin-Akıncı yolu, Şehidiye Mah.,  (Wikipedia 29m)"
+  ],
+  "edirne-h1": [
+    41.67814,
+    26.55934,
+    "OSM Nominatim: Selimiye Camii, Taş Odalar Sokak, Meydan Mahallesi, Edirne M (Wikipedia 13m)"
+  ],
+  "bodrum-h3": [
+    37.03788,
+    27.42415,
+    "OSM Nominatim: Halikarnas Mozolesi, Saray Sokak, Tepecik Mahallesi, Bodrum, (Wikipedia 4m)"
   ]
 }

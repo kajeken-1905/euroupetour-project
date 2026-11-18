@@ -7654,19 +7654,159 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber'),
     ],
   },
+  selcuk: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 유적은 걸어서 다니고, 쉬린제와 해변은 돌무시(미니버스)를 탑니다.',
+      en: 'Walk the town and sites; take a dolmuş (minibus) to Şirince and the beaches.',
+    },
+    apps: [
+    ],
+  },
+  bodrum: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 반도의 마을과 해변은 돌무시(미니버스)를 탑니다.',
+      en: 'Walk the town; take a dolmuş (minibus) to the villages and beaches of the peninsula.',
+    },
+    apps: [
+    ],
+  },
+  fethiye: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 욀뤼데니즈·카야쾨이·사클르켄트는 돌무시(미니버스)를 탑니다.',
+      en: 'Walk the town; take a dolmuş (minibus) to Ölüdeniz, Kayaköy and Saklıkent.',
+    },
+    apps: [
+    ],
+  },
+  kas: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해변과 유적은 돌무시나 택시, 섬은 배로 갑니다.',
+      en: 'Walk the town; take a dolmuş or taxi to beaches and ruins, and a boat to the islands.',
+    },
+    apps: [
+    ],
+  },
+  olympos: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 유적, 해변은 걸어서 다니고, 큰길까지는 미니버스나 택시를 탑니다.',
+      en: 'Walk between the village, ruins and beach; a minibus or taxi links to the main road.',
+    },
+    apps: [
+    ],
+  },
+  alanya: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 해변은 걸어서 다니고, 성은 케이블카나 시내버스로 오릅니다.',
+      en: 'Walk the town and beaches; ride the cable car or a city bus up to the castle.',
+    },
+    apps: [
+    ],
+  },
+  ayvalik: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 쿤다섬과 해변은 시내버스나 배를 탑니다.',
+      en: 'Walk the old town; take a city bus or boat to Cunda and the beaches.',
+    },
+    apps: [
+    ],
+  },
+  canakkale: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 트로이는 돌무시, 갈리폴리는 페리와 투어를 이용합니다.',
+      en: 'Walk the town; take a dolmuş to Troy, and the ferry plus a tour to Gallipoli.',
+    },
+    apps: [
+    ],
+  },
+  konya: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '볼거리는 걸어서 다니고, 기차역·버스터미널과 시내는 트램으로 잇습니다.',
+      en: 'Walk between the sights; trams link the station and bus terminal with the centre.',
+    },
+    apps: [
+    ],
+  },
+  safranbolu: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 버스터미널과 신시가지 사이는 미니버스를 탑니다.',
+      en: 'Walk the old town; minibuses link it with the bus terminal and new town.',
+    },
+    apps: [
+    ],
+  },
+  amasra: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 바르튼까지 미니버스로 나가 장거리 버스를 갈아탑니다.',
+      en: 'Walk the town; take a minibus to Bartın for long-distance buses.',
+    },
+    apps: [
+    ],
+  },
+  edirne: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 보건 박물관과 버스터미널은 시내버스나 택시를 탑니다.',
+      en: 'Walk the centre; take a city bus or taxi to the Health Museum and bus terminal.',
+    },
+    apps: [
+    ],
+  },
+  kars: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 아니와 츨드르 호수는 택시나 투어를 이용합니다.',
+      en: 'Walk the town; use a taxi or tour for Ani and Lake Çıldır.',
+    },
+    apps: [
+    ],
+  },
+  gaziantep: {
+    modes: ['walk', 'tram', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 모자이크 박물관은 트램이나 택시로 갑니다.',
+      en: 'Walk the old town; take the tram or a taxi to the Mosaic Museum.',
+    },
+    apps: [
+    ],
+  },
+  sanliurfa: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가와 박물관은 걸어서 다니고, 괴베클리 테페와 하란은 택시나 투어를 이용합니다.',
+      en: 'Walk the old town and museums; use a taxi or tour for Göbekli Tepe and Harran.',
+    },
+    apps: [
+    ],
+  },
+  mardin: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 근교 수도원과 유적은 택시나 투어를 이용합니다.',
+      en: 'Walk the old town; use a taxi or tour for the monasteries and ruins nearby.',
+    },
+    apps: [
+    ],
+  },
   pamukkale: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {
-      ko: 'Pamukkale: 기차·산악열차·버스·케이블카 조합이 기본입니다. 자동차 규제를 확인하세요.',
-      en: 'Pamukkale usually needs train, mountain rail, bus, and cableways—check car restrictions.',
+      ko: '마을과 석회 테라스는 걸어서 다니고, 데니즐리 기차역·버스터미널까지는 돌무시(미니버스)로 20분쯤입니다.',
+      en: 'Walk the village and travertines; a dolmuş (minibus) takes about 20 minutes to Denizli’s station and bus terminal.',
     },
     apps: [
       ta('uber'),
     ],
-    tip: {
-      ko: '산악·협곡 구간은 기상과 케이블카 운행을 미리 확인하세요.',
-      en: 'In mountains/gorges, check weather and cableway status ahead.',
-    },
   },
   // —— ge ——
   tbilisi: {

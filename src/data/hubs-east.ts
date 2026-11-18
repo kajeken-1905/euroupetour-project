@@ -847,6 +847,73 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Trabzon (TZX)', '트라브존 공항 (TZX)']],
     bus: [['Trabzon Otogarı', '트라브존 버스터미널', '철도 없음|no railway']],
   },
+  selcuk: {
+    air: [['İzmir Adnan Menderes (ADB)', '이즈미르 공항 (ADB)', '기차로 약 1시간|about 1 hour by train']],
+    rail: [['Selçuk', '셀추크역', '이즈미르·데니즐리행|to İzmir and Denizli']],
+    bus: [['Selçuk Otogarı', '셀추크 버스터미널']],
+  },
+  bodrum: {
+    air: [['Milas–Bodrum (BJV)', '밀라스-보드룸 공항 (BJV)', '공항버스 약 45분|airport bus about 45 min']],
+    bus: [['Bodrum Otogarı', '보드룸 버스터미널']],
+  },
+  fethiye: {
+    air: [['Dalaman (DLM)', '달라만 공항 (DLM)', '공항버스 약 1시간|airport bus about 1 hour']],
+    bus: [['Fethiye Otogarı', '페티예 버스터미널']],
+  },
+  kas: {
+    air: [['Dalaman (DLM)', '달라만 공항 (DLM)', '약 2시간 30분|about 2.5 hours'], ['Antalya (AYT)', '안탈리아 공항 (AYT)', '약 3시간 30분|about 3.5 hours']],
+    bus: [['Kaş Otogarı', '카쉬 버스터미널']],
+    port: [['Kaş Limanı', '카쉬 항구', '메이스(카스텔로리조)행|to Meis (Kastellorizo)']],
+  },
+  olympos: {
+    air: [['Antalya (AYT)', '안탈리아 공항 (AYT)', '약 1시간 30분|about 1.5 hours']],
+    bus: [['Olimpos/Çıralı yol ağzı', '올림포스·치랄르 갈림길 정류장', '안탈리아-카쉬 버스 하차 후 미니버스|get off the Antalya–Kaş bus, then a minibus']],
+  },
+  alanya: {
+    air: [['Gazipaşa–Alanya (GZP)', '가지파샤-알라니아 공항 (GZP)', '약 40분|about 40 min'], ['Antalya (AYT)', '안탈리아 공항 (AYT)', '약 2시간|about 2 hours']],
+    bus: [['Alanya Otogarı', '알라니아 버스터미널']],
+  },
+  ayvalik: {
+    air: [['Balıkesir Koca Seyit (EDO)', '에드레미트 공항 (EDO)', '약 1시간|about 1 hour'], ['İzmir Adnan Menderes (ADB)', '이즈미르 공항 (ADB)', '약 2시간 30분|about 2.5 hours']],
+    bus: [['Ayvalık Otogarı', '아이발르크 버스터미널']],
+  },
+  canakkale: {
+    air: [['Çanakkale (CKZ)', '차나칼레 공항 (CKZ)']],
+    bus: [['Çanakkale Otogarı', '차나칼레 버스터미널']],
+    port: [['Çanakkale İskelesi', '차나칼레 선착장', '에제아바트·킬리트바히르행|to Eceabat and Kilitbahir']],
+  },
+  konya: {
+    air: [['Konya (KYA)', '콘야 공항 (KYA)']],
+    rail: [['Konya YHT Garı', '콘야 고속철도역', '앙카라·이스탄불행 고속열차|high-speed trains to Ankara and Istanbul']],
+    bus: [['Konya Otogarı', '콘야 버스터미널']],
+  },
+  safranbolu: {
+    rail: [['Karabük', '카라뷔크역', '버스로 약 20분|about 20 min by bus']],
+    bus: [['Safranbolu Otogarı', '사프란볼루 버스터미널', '구시가까지 미니버스|minibus to the old town']],
+  },
+  amasra: {
+    bus: [['Amasra Otobüs Durağı', '아마스라 버스 정류장', '바르튼행 미니버스|minibus to Bartın']],
+  },
+  edirne: {
+    bus: [['Edirne Otogarı', '에디르네 버스터미널', '이스탄불·불가리아행|to Istanbul and Bulgaria']],
+  },
+  kars: {
+    air: [['Kars Harakani (KSY)', '카르스 공항 (KSY)']],
+    rail: [['Kars Garı', '카르스역', '도우 익스프레스·투리스틱 도우 익스프레스|Doğu Express and Touristic Doğu Express']],
+    bus: [['Kars Otogarı', '카르스 버스터미널']],
+  },
+  gaziantep: {
+    air: [['Gaziantep (GZT)', '가지안테프 공항 (GZT)']],
+    bus: [['Gaziantep Otogarı', '가지안테프 버스터미널']],
+  },
+  sanliurfa: {
+    air: [['Şanlıurfa GAP (GNY)', '샨르우르파 공항 (GNY)']],
+    bus: [['Şanlıurfa Otogarı', '샨르우르파 버스터미널']],
+  },
+  mardin: {
+    air: [['Mardin (MQM)', '마르딘 공항 (MQM)']],
+    bus: [['Mardin Otogarı', '마르딘 버스터미널']],
+  },
   pamukkale: {
     air: [['Denizli Çardak (DNZ)', '데니즐리 차르닥 공항 (DNZ)', '데니즐리|Denizli']],
     rail: [['Denizli', '데니즐리역', '데니즐리 · 미니버스 연결|Denizli · minibus link']],
