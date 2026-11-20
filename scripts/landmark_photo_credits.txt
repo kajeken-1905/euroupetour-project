@@ -4781,3 +4781,9 @@ highlights/monaco-10.jpg | https://commons.wikimedia.org/wiki/File:Le_rocher_de_
 highlights/monte-carlo-6.jpg | https://commons.wikimedia.org/wiki/File:Japanese_garden_Monaco_(pond_and_bridge).jpg | Public domain | Tangopaso
 highlights/monte-carlo-7.jpg | https://commons.wikimedia.org/wiki/File:Grimaldi_Forum_Monaco_-_photographe_Olivia_Marocco.jpg | CC BY-SA 4.0 | Grimaldi Forum Monaco
 highlights/monaco-7.jpg | https://commons.wikimedia.org/wiki/File:Roseraie_Princesse_Grace_-_panoramio_(3).jpg | CC BY 3.0 | Mister No
+highlights/san-marino-city-4.jpg | https://commons.wikimedia.org/wiki/File:Plaza_de_la_Libertad,_San_Marino,_2022-09-20,_DD_08.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/san-marino-city-5.jpg | https://commons.wikimedia.org/wiki/File:Montale_Tower_-_San_Marino.jpg | CC BY-SA 4.0 | Commonists
+highlights/san-marino-city-6.jpg | https://commons.wikimedia.org/wiki/File:Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_01_ver2.jpg | CC BY-SA 4.0 | Terragio67
+highlights/san-marino-city-7.jpg | https://commons.wikimedia.org/wiki/File:Banner_of_Museo_di_stato_(San_Marino).jpg | CC BY 3.0 | roadmap
+highlights/san-marino-city-8.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_di_San_Francesco_June_2016_1.jpg | CC0 | Mx. Granger
+highlights/borgo-maggiore-3.jpg | https://commons.wikimedia.org/wiki/File:Santuario_della_Beata_Vergine_della_Consolazione.jpg | CC BY-SA 4.0 | Cezar Suceveanu

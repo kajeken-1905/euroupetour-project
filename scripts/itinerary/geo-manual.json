@@ -12976,5 +12976,30 @@
     43.74398,
     7.43192,
     "OSM Nominatim: Grimaldi Forum, Esplanade et promenade Prince Jacques, Le Po (Wikipedia 21m)"
+  ],
+  "san-marino-city-h4": [
+    43.93678,
+    12.44627,
+    "OSM Nominatim: Palazzo Pubblico, Contrada del Pianello, Città, Città di San (Wikipedia 29m)"
+  ],
+  "san-marino-city-h5": [
+    43.93069,
+    12.45055,
+    "OSM Nominatim: Montale, Murata, Città di San Marino, 47890, San Marino (Wikipedia 177m)"
+  ],
+  "san-marino-city-h6": [
+    43.93512,
+    12.44905,
+    "OSM Nominatim: Passo delle Streghe, Fratta, Murata, Città di San Marino, 47 (Wikipedia 77m)"
+  ],
+  "san-marino-city-h8": [
+    43.93523,
+    12.44712,
+    "OSM Nominatim: Chiesa di San Francesco, Piazzetta del Placito Feretrano, Ci (Wikipedia 8m)"
+  ],
+  "borgo-maggiore-h3": [
+    43.94048,
+    12.44744,
+    "OSM Nominatim: Santuario della Beata Vergine della Consolazione, Via Ventot (Wikipedia 10m)"
   ]
 }

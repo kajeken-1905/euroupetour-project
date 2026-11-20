@@ -554,9 +554,15 @@ export const visitIt: Record<string, HighlightVisit> = {
   'vatican-city-h4': v(20, 30, { c: 'sun', s: VAT, t: VAT_T, n: '바티칸 박물관 관람 동선의 끝에 있어 박물관 입장권으로 봅니다. 사진 촬영은 금지입니다.|At the end of the Vatican Museums route, on the museum ticket. Photography is forbidden.', k: '2026-10' }),
   'vatican-city-h5': v(120, 120, { b: 'req', s: VAT, t: VAT_T, n: '가이드 투어로만 들어가며 일요일과 공휴일에는 투어가 없습니다.|Guided tours only; none on Sundays and public holidays.', k: '2026-10' }),
   // San Marino
-  'san-marino-city-h1': v(40, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '두 탑을 묶은 통합권이 있습니다. 11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|A combined ticket covers both towers. Closed on the afternoon of 2 November, 25 December and 1 January.', k: '2026-10' }),
-  'san-marino-city-h2': v(30, 40, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|Closed on the afternoon of 2 November, 25 December and 1 January.', k: '2026-10' }),
+  'san-marino-city-h1': v(40, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다. 제2탑은 공사로 닫혀 있어 지금은 제1탑만 들어갈 수 있습니다.|Closed on the afternoon of 2 November, 25 December and 1 January. The Second Tower is closed for works, so only the First Tower can be entered for now.', k: '2026-11' }),
+  'san-marino-city-h2': v(10, 15, { s: 'https://www.museidistato.sm/', n: '탑 내부와 무기 박물관은 공사로 문을 닫았습니다(공식 사이트, 2026년 11월). 다시 여는 날짜는 발표되지 않았고, 탑 바깥과 능선 산책로는 걸을 수 있습니다.|The tower and its arms museum are closed for works (official site, November 2026); no reopening date has been announced. The outside and the ridge path remain open.', k: '2026-11' }),
   'san-marino-city-h3': v(15, 20, { b: 'no', n: FREE }),
+  'san-marino-city-h4': v(20, 30, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|Closed on the afternoon of 2 November, 25 December and 1 January.' }),
+  'san-marino-city-h5': v(15, 20, { b: 'no', n: '내부는 공개하지 않습니다. 외관은 무료로 볼 수 있습니다.|Not open inside; the exterior is free to see.' }),
+  'san-marino-city-h6': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
+  'san-marino-city-h7': v(45, 60, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|Closed on the afternoon of 2 November, 25 December and 1 January.' }),
+  'san-marino-city-h8': v(30, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다.|Closed on the afternoon of 2 November, 25 December and 1 January.' }),
   'borgo-maggiore-h1': v(10, 15, { n: '보르고 마조레에서 구시가까지 2분 걸립니다.|Two minutes from Borgo Maggiore up to the old town.' }),
   'borgo-maggiore-h2': v(15, 20),
+  'borgo-maggiore-h3': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
 }
