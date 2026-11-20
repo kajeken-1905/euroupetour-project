@@ -2718,6 +2718,24 @@ export const STAY: Record<string, StayArea[]> = {
     a('가발라 시내', 'Gabala town', 'Gabala city centre', '가성비·식당|Value, restaurants', '숙소가 싸고 식당이 가깝습니다. 바쿠에서 차로 2~3시간입니다.|Cheaper rooms close to restaurants; 2–3 hours by road from Baku.'),
     a('투판다그 산기슭', 'Tufandag foothills', 'Tufandag, Gabala', '케이블카·스키|Cable car, skiing', '케이블카 역 옆 리조트로 스키·산 풍경에 좋습니다.|Resorts by the cable car, for skiing and mountain views.'),
   ],
+  quba: [
+    a('시내 중심', 'Town centre', 'Quba', '히날루그 거점|Base for Khinalug', '시내와 숲 속 리조트에 숙소가 있고, 히날루그 마을엔 민박이 몇 곳 있습니다.|Hotels in town and forest resorts nearby; Khinalug itself has a few homestays.'),
+  ],
+  shamakhi: [
+    a('바쿠에서 다녀오기', 'Base in Baku', 'Baku', '거점에서 다녀오기|Day trip from a base', '바쿠에서 버스로 약 2시간이라 당일치기가 많습니다. 시 외곽 산기슭에 리조트가 있습니다.|About two hours by bus from Baku, so most come for the day; there are resorts in the hills outside town.'),
+  ],
+  lahij: [
+    a('마을 안', 'In the village', 'Lahıc', '마을 민박|Village guesthouses', '옛 돌집 민박과 작은 호텔이 있습니다. 바쿠에서 3시간 반쯤 걸려 하룻밤 묵는 여행자가 많습니다.|Old stone-house guesthouses and a small hotel; about three and a half hours from Baku, so many stay a night.'),
+  ],
+  qakh: [
+    a('일리수 마을', 'Ilisu village', 'İlisu', '산 풍경·민박|Mountain views, guesthouses', '마을과 계곡에 민박과 리조트가 있습니다. 셰키에서 다녀오는 여행자도 많습니다.|Guesthouses and resorts in the village and valley; many also visit from Sheki.'),
+  ],
+  ganja: [
+    a('자바드 칸 거리 주변', 'Around Javad Khan Street', 'Javad Khan Street Ganja', '처음 가는 여행에 추천|Best for a first visit', '보행자 거리와 모스크가 걸어서 닿고 식당이 많습니다.|The pedestrian street and the mosque are on foot, with plenty of restaurants.'),
+  ],
+  lankaran: [
+    a('시내 중심', 'Town centre', 'Lənkəran', '처음 가는 여행에 추천|Best for a first visit', '등대와 박물관, 식당이 걸어서 닿습니다.|The lighthouse, museum and restaurants are on foot.'),
+  ],
   gjakova: [
     a('바자르 주변', 'Around the bazaar', 'Gjakova old bazaar', '처음 가는 여행에 추천|Best for a first visit', '바자르와 모스크, 식당이 걸어서 닿습니다.|The bazaar, mosques and restaurants on foot.'),
   ],

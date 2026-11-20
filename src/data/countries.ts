@@ -1658,7 +1658,13 @@ export const countries: Country[] = [
       background: '#E7F6FA',
       text: '#04303F',
     },
-    cityIds: ['baku', 'sheki', 'gabala'],
+    cityIds: ['baku', 'quba', 'shamakhi', 'lahij', 'sheki', 'gabala', 'qakh', 'ganja', 'lankaran'],
+    cityGroups: [
+      { title: { ko: '바쿠와 동부', en: 'Baku & the east' }, cityIds: ['baku', 'quba', 'shamakhi', 'lahij'] },
+      { title: { ko: '북서부', en: 'North-west' }, cityIds: ['sheki', 'gabala', 'qakh'] },
+      { title: { ko: '서부', en: 'West' }, cityIds: ['ganja'] },
+      { title: { ko: '남부', en: 'South' }, cityIds: ['lankaran'] },
+    ],
   },
   {
     id: 'ua',

@@ -1035,6 +1035,31 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Qəbələ Avtovağzalı', '가발라 버스터미널']],
   },
 
+  quba: {
+    air: [GYD()],
+    bus: [['Quba Avtovağzalı', '구바 버스터미널']],
+  },
+  shamakhi: {
+    air: [GYD()],
+    bus: [['Şamaxı Avtovağzalı', '샤마흐 버스터미널']],
+  },
+  lahij: {
+    air: [GYD(), ['Gabala (GBB)', '가발라 공항 (GBB)', '가발라|Gabala']],
+  },
+  qakh: {
+    air: [['Gabala (GBB)', '가발라 공항 (GBB)', '가발라|Gabala'], GYD()],
+    bus: [['Qax Avtovağzalı', '카흐 버스터미널']],
+  },
+  ganja: {
+    air: [['Ganja (GNJ)', '간자 공항 (GNJ)'], GYD()],
+    rail: [['Gəncə', '간자역']],
+    bus: [['Gəncə Avtovağzalı', '간자 버스터미널']],
+  },
+  lankaran: {
+    air: [['Lankaran (LLK)', '랑케란 공항 (LLK)'], GYD()],
+    rail: [['Lənkəran', '랑케란역']],
+    bus: [['Lənkəran Avtovağzalı', '랑케란 버스터미널']],
+  },
   // —— ua ——
   kyiv: {
     air: [['Kyiv Boryspil (KBP)', '키이우 보리스필 공항 (KBP)', SUSPENDED]],

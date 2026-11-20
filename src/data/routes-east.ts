@@ -404,6 +404,17 @@ export const routesEast: RawRoute[] = [
   r('baku', 'gabala', 'train', 195),
   r('baku', 'gabala', 'bus', 240),
   r('sheki', 'gabala', 'bus', 105),
+  r('baku', 'lankaran', 'bus', 240),
+  r('baku', 'lankaran', 'train', 300),
+  r('baku', 'ganja', 'train', 300),
+  r('baku', 'ganja', 'bus', 360),
+  r('ganja', 'sheki', 'bus', 180),
+  r('sheki', 'qakh', 'bus', 45),
+  r('baku', 'qakh', 'bus', 390),
+  r('baku', 'lahij', 'bus', 210, { n: '이스마일리에서 택시나 미니버스로 갈아탐|change to a taxi or minibus at Ismayilli' }),
+  r('shamakhi', 'lahij', 'mixed', 90, { n: '택시|taxi' }),
+  r('baku', 'shamakhi', 'bus', 120),
+  r('baku', 'quba', 'bus', 180),
 
   // —— ua / md ——
   r('kyiv', 'lviv', 'train', 345, { ...R, n: '인터시티+|Intercity+' }),

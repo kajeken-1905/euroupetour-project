@@ -4715,3 +4715,28 @@ highlights/gabala-5.jpg | https://commons.wikimedia.org/wiki/File:Nij_settlement
 highlights/sheki-4.jpg | https://commons.wikimedia.org/wiki/File:The_gate_of_the_Shekikhanovs%27_house_(XVIII_century).jpg | CC BY 4.0 | Rüfət Həsənli
 highlights/gabala-4.jpg | https://commons.wikimedia.org/wiki/File:DSC_shelale_yeddi_g%C3%B6zel.jpg | CC BY-SA 4.0 | İmirisil
 highlights/baku-6.jpg | https://www.flickr.com/photos/38029563@N07/3501892625 | BY 2.0 | mark i geo
+cities/quba.jpg | https://commons.wikimedia.org/wiki/File:Quba_%C5%9F%C9%99h%C9%99r_q%C9%99biristanl%C4%B1%C4%9F%C4%B1ndak%C4%B1_q%C9%99birl%C9%99r_(8).jpg | CC BY-SA 4.0 | Rəcəb Həsənbəyov
+highlights/quba-1.jpg | https://commons.wikimedia.org/wiki/File:Village_Krasnaya_Sloboda,_near_the_city_of_Quba_(Guba)_-_2002.jpg | CC BY 2.0 | lelebella
+highlights/quba-2.jpg | https://commons.wikimedia.org/wiki/File:Juma_Mosque_Quba.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/quba-3.jpg | https://commons.wikimedia.org/wiki/File:Khinalug_pano.jpg | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/User:Gulustan
+cities/shamakhi.jpg | https://commons.wikimedia.org/wiki/File:Mezquita_del_Viernes,_Shamakhi,_Azerbaiy%C3%A1n,_2016-09-27,_DD_22-36_HDR_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/shamakhi-1.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eamax%C4%B1_c%C3%BCm%C9%99_m%C9%99scidi.jpg | CC BY-SA 4.0 | Urmen19
+highlights/shamakhi-2.jpg | https://commons.wikimedia.org/wiki/File:Yeddi_Gumbaz_Mausoleum_02.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/shamakhi-3.jpg | https://commons.wikimedia.org/wiki/File:Mausoleo_de_Diri_Baba,_Qobustan,_Azerbaiy%C3%A1n,_2016-09-27,_DD_11.jpg | CC BY-SA 4.0 | Diego Delso
+cities/lahij.jpg | https://commons.wikimedia.org/wiki/File:Lah%C4%B1c,_%C4%B0smay%C4%B1ll%C4%B1,_Azerbaijan_in_2015.jpg | CC BY-SA 4.0 | ElxanQəniyev
+highlights/lahij-1.jpg | https://commons.wikimedia.org/wiki/File:Lahic_1216.jpg | CC BY-SA 3.0 | Gulustan
+highlights/lahij-2.jpg | https://commons.wikimedia.org/wiki/File:Girdimanchay_river_near_Lahij.jpg | Public domain | Interfase
+cities/qakh.jpg | https://commons.wikimedia.org/wiki/File:St_George%27s_Church,_Qakh_10.jpg | CC BY-SA 4.0 | Interfase
+highlights/qakh-1.jpg | https://commons.wikimedia.org/wiki/File:Ilisu._Alp_%C3%A7%C9%99m%C9%99nlikl%C9%99ri.jpg | CC BY-SA 4.0 | Namikilisu
+highlights/qakh-2.jpg | https://commons.wikimedia.org/wiki/File:Qax_-_K%C3%BCrm%C3%BCk_Alban_kils%C9%99si.jpg | CC BY-SA 4.0 | Rashad Mirzayev
+highlights/qakh-3.jpg | https://commons.wikimedia.org/wiki/File:Qum_bazilikas%C4%B1n%C4%B1n_m%C9%99rk%C9%99zi_nefinin_orta_hiss%C9%99sind%C9%99n_a%C5%9Fa%C4%9F%C4%B1_istiqam%C9%99td%C9%99n_altar_istiqam%C9%99tin%C9%99_g%C3%B6r%C3%BCn%C3%BC%C5%9F.jpg | CC BY-SA 4.0 | Sefer azeri
+cities/ganja.jpg | https://commons.wikimedia.org/wiki/File:Imamzadeh_Mausoleum_(Ganja,_Azerbaijan).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/ganja-1.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Eah_Abbas_m%C9%99scidi_(184)_1.jpg | CC BY-SA 4.0 | Rəcəb Yaxşı
+highlights/ganja-2.jpg | https://commons.wikimedia.org/wiki/File:Cavad_Xan-1.JPG | CC BY-SA 3.0 | Nuhun
+highlights/ganja-4.jpg | https://commons.wikimedia.org/wiki/File:Nizami-Ganjavi-6.JPG | CC BY-SA 3.0 | Nuhun
+highlights/ganja-5.jpg | https://commons.wikimedia.org/wiki/File:Lake_G%C3%B6yg%C3%B6l.jpg | CC BY-SA 4.0 | Golden
+cities/naftalan.jpg | https://commons.wikimedia.org/wiki/File:Naftalan_-_20.07.17_-_2.jpg | CC BY-SA 4.0 | Tərxan Paşazadə
+cities/lankaran.jpg | https://commons.wikimedia.org/wiki/File:Lankaran_Mosque_Lankaran,_Azerbaijan.jpg | CC BY-SA 1.0 | User: (WT-shared) Lankaran at  wts wikivoyage
+highlights/lankaran-3.jpg | https://commons.wikimedia.org/wiki/File:Caspian_Hyrcanian_Mixed_Forests_in_Northern_Iran_11.jpg | CC BY 4.0 | Gholamreza Rezaei Aghozgole
+highlights/lankaran-2.jpg | https://commons.wikimedia.org/wiki/File:L%C9%99nk%C9%99ran_xan_saray%C4%B1_(4793)_7.jpg | CC BY-SA 4.0 | Rəcəb Yaxşı
+highlights/lankaran-1.jpg | https://commons.wikimedia.org/wiki/File:Lankaran_castle.jpg | CC BY-SA 4.0 | Азербайджан-е-Джануби

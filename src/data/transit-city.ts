@@ -8118,6 +8118,60 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [ta('bolt')],
   },
+  quba: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 붉은 마을은 걸어서 다니고, 히날루그는 택시나 사륜구동차를 빌립니다.',
+      en: 'Walk the town and the Red Settlement; hire a taxi or 4x4 for Khinalug.',
+    },
+    apps: [
+    ],
+  },
+  shamakhi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 디리 바바 영묘는 바쿠를 오가는 버스나 택시로 들릅니다.',
+      en: 'Walk the town; stop at Diri Baba by taxi or on the Baku bus.',
+    },
+    apps: [
+    ],
+  },
+  lahij: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 이스마일리에서 택시나 미니버스로 오갑니다.',
+      en: 'Walk the village; taxis and minibuses run from Ismayilli.',
+    },
+    apps: [
+    ],
+  },
+  qakh: {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '일리수와 근교는 택시를 하루 빌려 도는 게 편합니다.',
+      en: 'Hiring a taxi for the day is the easiest way to Ilisu and around.',
+    },
+    apps: [
+    ],
+  },
+  ganja: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 니자미 영묘와 괴이괼은 택시를 탑니다.',
+      en: 'Walk the centre; take a taxi to the Nizami Mausoleum and Lake Goygol.',
+    },
+    apps: [
+    ],
+  },
+  lankaran: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 히르칸 국립공원은 택시를 탑니다.',
+      en: 'Walk the town; take a taxi to Hirkan National Park.',
+    },
+    apps: [
+    ],
+  },
   'san-marino-city': {
     modes: ['walk', 'taxi', 'bus'],
     howTo: {
