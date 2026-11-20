@@ -527,9 +527,21 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['베레우 호수|Lake Beleu', 5],
     ],
   },
-  yerevan: [2, 3, 1],
-  gyumri: [1, 3, 2],
-  dilijan: [3, 2, 1],
+  yerevan: {
+    days: [
+      ['공화국 광장과 캐스케이드|Republic Square & Cascade', 2, 4, 11, 8, 6, 5, 1, 3],
+      ['추모관과 언덕|Memorial & hills', 12, 15, 10, 7, 9, 13],
+    ],
+    trips: [
+      ['에레부니 요새|Erebuni Fortress', 14],
+      ['호르비라프|Khor Virap', 16],
+    ],
+  },
+  gyumri: { days: [['', 1, 4, 5, 3, 6, 2]], trips: [['마르마셴 수도원|Marmashen', 7]] },
+  dilijan: {
+    days: [['', 3, 6, 1]],
+    trips: [['하가르친·파르즈 호수·고샤방크|Haghartsin, Lake Parz & Goshavank', 2, 5, 4]],
+  },
   baku: [3, 2, 1],
   sheki: [3, 2, 1],
   gabala: [1, 2, 3],

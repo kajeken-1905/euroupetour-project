@@ -4647,3 +4647,25 @@ highlights/mestia-4.jpg | https://commons.wikimedia.org/wiki/File:Chalaadi_Glaci
 highlights/gori-4.jpg | https://commons.wikimedia.org/wiki/File:Atenis_Sioni_view.jpg | CC BY-SA 2.0 | George Mel
 highlights/mestia-3.jpg | https://commons.wikimedia.org/wiki/File:View_to_ushba_mount._from_zuruldi_mount._-_panoramio.jpg | CC BY-SA 3.0 | G.N.
 gateways/gw-mestia.jpg | https://commons.wikimedia.org/wiki/File:Mestia_Queen_Tamar_Airport_in_2022_foto_1.jpg | CC BY-SA 4.0 | Nikolay Kazak
+highlights/yerevan-4.jpg | https://commons.wikimedia.org/wiki/File:Natural_History_Museum_of_Armenia_05.jpg | CC BY-SA 4.0 | 23artashes
+highlights/yerevan-5.jpg | https://commons.wikimedia.org/wiki/File:%C3%93pera,_Erev%C3%A1n,_Armenia,_2016-10-03,_DD_13.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/yerevan-6.jpg | https://commons.wikimedia.org/wiki/File:Northern_Avenue_Yerevan_01.jpg | CC BY-SA 4.0 | 23artashes
+highlights/yerevan-7.jpg | https://commons.wikimedia.org/wiki/File:Yerevan_Vernissage_hats.jpg | CC BY-SA 2.0 | Shaun Dunphy
+highlights/yerevan-9.jpg | https://commons.wikimedia.org/wiki/File:Saint_Gregory_the_Illuminator_Cathedral,_Yerevan-2.jpg | Public domain | User:Pandukht/By Pandukht
+highlights/yerevan-10.jpg | https://commons.wikimedia.org/wiki/File:Sergei_Parajanov_Museum.jpg | CC BY-SA 3.0 | Tiia Monto
+highlights/yerevan-11.jpg | https://commons.wikimedia.org/wiki/File:Honey_and_herbs_at_GUM_market_in_Yerevan.jpg | CC BY 4.0 | Dor Shabashewitz
+highlights/yerevan-12.jpg | https://commons.wikimedia.org/wiki/File:Yerevan_Tsitsernakaberd_Armenian_Genocide_Museum_Memorial_msu-2018-3008.jpg | CC BY-SA 4.0 | User:Matthias Süßen
+highlights/yerevan-14.jpg | https://commons.wikimedia.org/wiki/File:2025-05-20_Erebuni_Fortress_6.jpg | CC BY 4.0 | Alexkom000
+highlights/yerevan-15.jpg | https://commons.wikimedia.org/wiki/File:Yerevan,_Brandy_cellars,_Armenia.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/yerevan-16.jpg | https://commons.wikimedia.org/wiki/File:Khor_Virap_Monastery,_Ararat_Plain,_Armenia.jpg | CC BY 4.0 | Vyacheslav Argenberg
+highlights/gyumri-3.jpg | https://commons.wikimedia.org/wiki/File:Dzitoghtsyan_House_Museum_22-05-2019.jpg | CC BY-SA 4.0 | Armenak Margarian
+highlights/gyumri-4.jpg | https://commons.wikimedia.org/wiki/File:Holy_Saviour%27s_Church,_Gyumri,_Armenia_(2026).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/gyumri-7.jpg | https://commons.wikimedia.org/wiki/File:Marmashen_Monastery_two_churches_22.04.2018.jpg | CC BY-SA 4.0 | Armenak Margarian
+highlights/dilijan-3.jpg | https://commons.wikimedia.org/wiki/File:Old_Dilijan,_Sharambeyan_Street,_view_from_the_gate_into_the_street,_April_2026.jpg | CC0 | Textfabrikant
+highlights/dilijan-4.jpg | https://commons.wikimedia.org/wiki/File:Goshavank_Monastery,_Armenia_2008.jpg | CC BY 2.0 | retlaw snellac
+highlights/dilijan-5.jpg | https://commons.wikimedia.org/wiki/File:Lake_Parz_016.jpg | CC BY-SA 4.0 | Dav Sargsyan
+highlights/dilijan-6.jpg | https://commons.wikimedia.org/wiki/File:2014_Prowincja_Tawusz,_Klasztor_Jukhtakwank_(11).jpg | CC BY-SA 4.0 | Marcin Konsek
+highlights/gyumri-5.jpg | https://commons.wikimedia.org/wiki/File:Abovyan_Street,_Pedestrian,_Gyumri,_July_2023.jpeg | CC BY-SA 4.0 | Textfabrikant
+highlights/gyumri-6.jpg | https://commons.wikimedia.org/wiki/File:The_Gallery_of_Mariam_and_Eranuhi_Aslamazyan_Sisters.jpg | CC BY-SA 4.0 | Meri Asatryan
+highlights/yerevan-13.jpg | https://commons.wikimedia.org/wiki/File:Mother_Armenia_Monument_in_Gyumri_2019-06-14.jpg | CC BY-SA 4.0 | Armenak Margarian
+highlights/yerevan-8.jpg | https://www.flickr.com/photos/129665369@N02/28730255664 | BY 2.0 | Vahe Martirosyan
