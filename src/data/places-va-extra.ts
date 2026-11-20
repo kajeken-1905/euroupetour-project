@@ -15,4 +15,7 @@ export const placesVAExtra: Place[] = [
 
   place('vatican-city-cafe-1', 'vatican-city', 'cafe', 'Sciascia Caffè 1919', 'Via Fabio Massimo, 80/a, 00192 Roma RM, Italia', '1919년 문을 연 프라티의 바. 다크 초콜릿을 입힌 잔에 커피를 냅니다.', 'Prati bar open since 1919, serving coffee in a dark-chocolate-lined cup.'),
   place('vatican-city-cafe-2', 'vatican-city', 'cafe', 'Cafe Risorgimento', 'Piazza del Risorgimento, 63, 00192 Roma RM, Italia', '리소르지멘토 광장의 카페. 아침부터 아페리티보까지 냅니다.', 'Café on Piazza del Risorgimento, open from breakfast to aperitivo.'),
+
+  // —— vatican-city: restaurants, bakeries and cafés (2026-11-21) ——
+  place('vatican-city-fine_dining-6', 'vatican-city', 'fine_dining', 'Pulejo', 'Via dei Gracchi 31, 00192 Roma RM, Italia', '바티칸 동쪽 프라티 지구의 현대 이탈리아 요리 레스토랑. 미쉐린 1스타.', 'Contemporary Italian restaurant in Prati, east of the Vatican. One MICHELIN star.', { michelin: 'star1' }),
 ]
