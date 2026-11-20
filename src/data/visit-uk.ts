@@ -14,11 +14,17 @@ export const visitUk: Record<string, HighlightVisit> = {
   'monaco-h4': v(20, 30),
   'monaco-h5': v(20, 30),
   'monaco-h6': v(45, 60),
+  'monaco-h7': v(20, 30, { b: 'no', n: '무료입니다.|Free.' }),
+  'monaco-h8': v(30, 45),
+  'monaco-h9': v(30, 45),
+  'monaco-h10': v(45, 60),
   'monte-carlo-h1': v(30, 60, { c: 'daily', s: 'https://www.montecarlosbm.com/en/casino-monaco/casino-monte-carlo', n: '매일 10:00~13:00에 관람하고 게임장은 14:00부터 엽니다. 입장에는 여권이 필요하고 만 18세 이상만 들어갑니다. 게임 시간에는 복장 규정이 있습니다.|Visits run daily 10:00–13:00 and the gaming rooms open from 14:00. Bring your passport; over-18s only. A dress code applies during gaming hours.', k: '2026-10' }),
   'monte-carlo-h2': v(15, 20),
   'monte-carlo-h3': v(30, 45, { n: '그랑프리(2026년부터 6월 초) 전후로는 도로와 보행로가 통제됩니다.|Roads and pavements are closed off around the Grand Prix, held in early June since 2026.' }),
   'monte-carlo-h4': v(45, 90),
   'monte-carlo-h5': v(30, 45),
+  'monte-carlo-h6': v(20, 30, { b: 'no', n: '무료입니다.|Free.' }),
+  'monte-carlo-h7': v(60, 90),
 
   // London
   'london-h1': v(30, 45, { s: 'https://www.rct.uk/visit/buckingham-palace', n: '궁전 내부(스테이트 룸)는 여름에만 공개하고 예약이 필요합니다(대략 7월 초~9월 말). 그 밖의 계절에는 밖에서 근위병 교대식을 봅니다.|The State Rooms open only in summer and need booking (roughly early July to late September). At other times, watch the Changing the Guard outside.', k: '2026-10' }),

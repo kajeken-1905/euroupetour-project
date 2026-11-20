@@ -4774,3 +4774,10 @@ highlights/mellieha-5.jpg | https://commons.wikimedia.org/wiki/File:St._Agatha%2
 gateways/gw-mla.jpg | https://commons.wikimedia.org/wiki/File:Malta_International_Airport.jpg | Public domain | William Shewring
 gateways/gw-cirkewwa.jpg | https://commons.wikimedia.org/wiki/File:Cirkewwa_Ferry_Terminal_%5E2015_-_panoramio.jpg | CC BY 3.0 | Yuri Raysper
 gateways/gw-mgarr.jpg | https://commons.wikimedia.org/wiki/File:Puerto_de_M%C4%A1arr,_isla_de_Gozo,_Malta,_2021-08-23,_DD_47-50_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/monaco-7.jpg | https://commons.wikimedia.org/wiki/File:L%27Ha%C3%BF-les-Roses_-_Parc_de_la_Roseraie_du_Val-de-Marne_03.jpg | CC BY-SA 4.0 | Société d'histoire locale et de protection du patrimoine de
+highlights/monaco-8.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Timbres_et_Monnaies_Monaco_03.jpg | CC BY-SA 4.0 | Arnaud 25
+highlights/monaco-9.jpg | https://commons.wikimedia.org/wiki/File:Le_rocher_depuis_la_Place_d%27Armes_(Monaco)_en_novembre_2021.jpg | CC0 | Benoît Prieur
+highlights/monaco-10.jpg | https://commons.wikimedia.org/wiki/File:Le_rocher_de_Monaco_(33746809898).jpg | CC BY 2.0 | Jean-Pierre Dalbéra from Paris, France
+highlights/monte-carlo-6.jpg | https://commons.wikimedia.org/wiki/File:Japanese_garden_Monaco_(pond_and_bridge).jpg | Public domain | Tangopaso
+highlights/monte-carlo-7.jpg | https://commons.wikimedia.org/wiki/File:Grimaldi_Forum_Monaco_-_photographe_Olivia_Marocco.jpg | CC BY-SA 4.0 | Grimaldi Forum Monaco
+highlights/monaco-7.jpg | https://commons.wikimedia.org/wiki/File:Roseraie_Princesse_Grace_-_panoramio_(3).jpg | CC BY 3.0 | Mister No

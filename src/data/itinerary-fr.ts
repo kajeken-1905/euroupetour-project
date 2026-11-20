@@ -94,6 +94,6 @@ export const itineraryFr: Record<string, RawItinerary> = {
   },
   cannes: { days: [['', 3, 1, 2]], trips: [['레랭 제도|Lérins Islands', 4]] },
   'mont-saint-michel': [2, 1, 3, 4],
-  monaco: [4, 6, 1, 2, 5, 3],
-  'monte-carlo': [3, 2, 1, 5, 4],
+  monaco: { days: [['모나코빌|Monaco-Ville', 10, 1, 2, 5, 3], ['항구와 퐁비에유|Port & Fontvieille', 9, 4, 6, 7, 8]] },
+  'monte-carlo': { days: [['', 2, 1, 5, 3, 6, 7, 4]] },
 }

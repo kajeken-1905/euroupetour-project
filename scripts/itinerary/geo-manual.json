@@ -12956,5 +12956,25 @@
     35.96128,
     14.3429,
     "OSM Nominatim: Popeye Village, Triq Tal-Prajjet, Il-Mellieħa, Reġjun tat-Tr (Wikipedia 152m)"
+  ],
+  "monaco-h7": [
+    43.72725,
+    7.4193,
+    "OSM Nominatim: Roseraie Princesse Grace, Fontvieille, Monaco (Wikipedia 3m)"
+  ],
+  "monaco-h9": [
+    43.73263,
+    7.41953,
+    "OSM Nominatim: Marché de la Condamine, Place d'Armes, La Condamine, Monaco, (Wikipedia 227m)"
+  ],
+  "monaco-h10": [
+    43.73119,
+    7.42286,
+    "OSM Nominatim: Monaco-Ville, Monaco (Wikipedia 105m)"
+  ],
+  "monte-carlo-h7": [
+    43.74398,
+    7.43192,
+    "OSM Nominatim: Grimaldi Forum, Esplanade et promenade Prince Jacques, Le Po (Wikipedia 21m)"
   ]
 }
