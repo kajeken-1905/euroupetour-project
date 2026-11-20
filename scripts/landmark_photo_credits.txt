@@ -4669,3 +4669,33 @@ highlights/gyumri-5.jpg | https://commons.wikimedia.org/wiki/File:Abovyan_Street
 highlights/gyumri-6.jpg | https://commons.wikimedia.org/wiki/File:The_Gallery_of_Mariam_and_Eranuhi_Aslamazyan_Sisters.jpg | CC BY-SA 4.0 | Meri Asatryan
 highlights/yerevan-13.jpg | https://commons.wikimedia.org/wiki/File:Mother_Armenia_Monument_in_Gyumri_2019-06-14.jpg | CC BY-SA 4.0 | Armenak Margarian
 highlights/yerevan-8.jpg | https://www.flickr.com/photos/129665369@N02/28730255664 | BY 2.0 | Vahe Martirosyan
+cities/vagharshapat.jpg | https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Vagharshapat.jpg | CC BY-SA 4.0 | Wowan1978
+highlights/vagharshapat-1.jpg | https://commons.wikimedia.org/wiki/File:Etchmiadzin_cathedral_2024.jpg | CC BY-SA 4.0 | Armen888
+highlights/vagharshapat-2.jpg | https://commons.wikimedia.org/wiki/File:Armenia._Vagharshapat._Saint_Hripsime_Church_P8200160_2350.jpg | CC BY-SA 4.0 | Alexxx1979
+highlights/vagharshapat-3.jpg | https://commons.wikimedia.org/wiki/File:St_Gayane_church_2015.jpg | CC BY-SA 4.0 | Yerevantsi
+highlights/vagharshapat-4.jpg | https://commons.wikimedia.org/wiki/File:Zvartnots_Cathedral_ruins_in_Vagharshapat_2016.jpg | CC BY 2.0 | Vahe Martirosyan
+cities/garni.jpg | https://commons.wikimedia.org/wiki/File:Garni_temple_2021_drone.jpg | CC BY-SA 4.0 | Yerevantsi
+highlights/garni-1.jpg | https://commons.wikimedia.org/wiki/File:Templo_de_Garni,_Armenia,_2016-10-02,_DD_03.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/garni-2.jpg | https://commons.wikimedia.org/wiki/File:Garni_Gorge_Armenia_(26).JPG | CC BY-SA 3.0 | Hanay
+highlights/garni-3.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Geghard,_Armenia,_2016-10-02,_DD_63.jpg | CC BY-SA 4.0 | Diego Delso
+cities/sevan.jpg | https://commons.wikimedia.org/wiki/File:Frozen_Lake_Sevan,_%D5%8E%D4%B1%D5%8D.jpg | CC BY-SA 4.0 | ՎԱՍ
+highlights/sevan-1.jpg | https://commons.wikimedia.org/wiki/File:Sevanavank_on_1.09.23,_44.jpg | CC BY-SA 4.0 | Anastasiya Lvova
+highlights/sevan-2.jpg | https://commons.wikimedia.org/wiki/File:Sunrise_on_the_shore_of_Lake_Sevan.jpg | CC BY-SA 4.0 | Ավետիսյան91
+highlights/sevan-3.jpg | https://commons.wikimedia.org/wiki/File:Hayravank_Monastery_(20).jpg | CC BY 4.0 | Palickap
+highlights/sevan-4.jpg | https://commons.wikimedia.org/wiki/File:2014_Prowincja_Gegharkunik,_Cmentarz_Noratus_(03).jpg | CC BY-SA 4.0 | Marcin Konsek
+cities/alaverdi.jpg | https://commons.wikimedia.org/wiki/File:Alaverdi_Monastery_02.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/alaverdi-1.jpg | https://commons.wikimedia.org/wiki/File:2014_Prowincja_Lorri,_Sanahin,_Klasztor_Sanahin_(29).jpg | CC BY-SA 4.0 | Marcin Konsek
+highlights/alaverdi-2.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Haghpat,_Armenia,_2016-09-30,_DD_04.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/alaverdi-3.jpg | https://commons.wikimedia.org/wiki/File:Odzun_Church_24-08-2018_v2.jpg | CC BY-SA 4.0 | Armenak Margarian
+highlights/alaverdi-4.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Akhtala,_Armenia,_2016-09-30,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/yeghegnadzor-1.jpg | https://commons.wikimedia.org/wiki/File:Orbelian%27s_Caravanserai,_Armenia.jpg | CC BY 4.0 | Photographer: Mosbatho
+highlights/yeghegnadzor-2.jpg | https://commons.wikimedia.org/wiki/File:Smbataberd_23.jpg | CC BY-SA 4.0 | Well-read MountainMan
+cities/jermuk.jpg | https://commons.wikimedia.org/wiki/File:R%C3%ADo_Arpa,_Jermuk,_Armenia,_2016-10-01,_DD_65-68_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/jermuk-2.jpg | https://commons.wikimedia.org/wiki/File:Jermuk_waterfall_28.jpg | CC BY-SA 4.0 | Dav Sargsyan
+highlights/jermuk-3.jpg | https://commons.wikimedia.org/wiki/File:Gndevank,Gavit-E.jpg | CC BY-SA 3.0 | Bertramz
+cities/goris.jpg | https://commons.wikimedia.org/wiki/File:Goris,_Armenia_-_panoramio_(3).jpg | CC BY 3.0 | Dalibor Z. Chvatal
+highlights/goris-1.jpg | https://commons.wikimedia.org/wiki/File:2014_Prowincja_Sjunik,_Goris,_Widok_na_Stary_Goris_(Kores)_(10).jpg | CC BY-SA 4.0 | Marcin Konsek
+highlights/goris-3.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_Tatev,_Armenia,_2016-10-01,_DD_86-88_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/goris-2.jpg | https://www.flickr.com/photos/79721788@N00/37202335960 | BY 2.0 | D-Stanley
+highlights/jermuk-1.jpg | https://commons.wikimedia.org/wiki/File:Jermuk-ympelasrah.jpg | CC BY-SA 3.0 | 23artashes
+cities/yeghegnadzor.jpg | https://www.flickr.com/photos/129665369@N02/29402942706 | BY 2.0 | Vahe Martirosyan

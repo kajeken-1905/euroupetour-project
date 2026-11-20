@@ -990,6 +990,29 @@ export const hubsEast: Record<string, RawCityHubs> = {
     rail: [['Gyumri', '귬리역']],
     bus: [['Gyumri Central Bus Station', '귬리 중앙 버스터미널']],
   },
+  vagharshapat: {
+    air: [EVN()],
+  },
+  garni: {
+    air: [EVN()],
+  },
+  sevan: {
+    air: [EVN()],
+    bus: [['Northern Bus Station Yerevan', '예레반 북부 버스터미널', '예레반 · 세반행 미니버스 출발|Yerevan · minibuses to Sevan leave from here']],
+  },
+  alaverdi: {
+    air: [EVN()],
+    rail: [['Alaverdi', '알라베르디역', '예레반–트빌리시 열차가 섭니다|on the Yerevan–Tbilisi line']],
+  },
+  yeghegnadzor: {
+    air: [EVN()],
+  },
+  jermuk: {
+    air: [EVN()],
+  },
+  goris: {
+    air: [EVN()],
+  },
   dilijan: {
     air: [EVN()],
     bus: [['Northern Bus Station Yerevan', '예레반 북부 버스터미널', '예레반 · 딜리잔행 미니버스 출발|Yerevan · minibuses to Dilijan leave from here']],

@@ -1624,7 +1624,12 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#3A0A10',
     },
-    cityIds: ['yerevan', 'gyumri', 'dilijan'],
+    cityIds: ['yerevan', 'vagharshapat', 'garni', 'gyumri', 'alaverdi', 'dilijan', 'sevan', 'yeghegnadzor', 'jermuk', 'goris'],
+    cityGroups: [
+      { title: { ko: '예레반·아라랏 평원', en: 'Yerevan & Ararat plain' }, cityIds: ['yerevan', 'vagharshapat', 'garni'] },
+      { title: { ko: '북부', en: 'North' }, cityIds: ['gyumri', 'alaverdi', 'dilijan', 'sevan'] },
+      { title: { ko: '남부', en: 'South' }, cityIds: ['yeghegnadzor', 'jermuk', 'goris'] },
+    ],
   },
   {
     id: 'az',

@@ -47546,6 +47546,192 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "vagharshapat",
+    countryId: "am",
+    lat: 40.1617,
+    lng: 44.2914,
+    signatureImage: "/cities/vagharshapat.jpg",
+    name: { ko: "바가르샤파트 (에치미아진)", en: "Vagharshapat (Etchmiadzin)" },
+    nativeName: "Վաղարշապատ",
+    blurb: {
+      ko: "아르메니아 사도 교회의 총본산이 있는 성스러운 도시. 4세기에 처음 세운 에치미아진 대성당과 성 흐립시메·가야네 교회, 7세기 즈바르트노츠 대성당 유적이 세계유산이며, 예레반에서 30분 거리입니다.",
+      en: "The holy city at the heart of the Armenian Apostolic Church: Etchmiadzin Cathedral, first built in the 4th century, the churches of St Hripsime and St Gayane, and the ruins of 7th-century Zvartnots Cathedral are World Heritage sites, 30 minutes from Yerevan.",
+    },
+    highlights: [
+      {
+        id: "vagharshapat-h1",
+        name: { ko: "에치미아진 대성당", en: "Etchmiadzin Cathedral" },
+        description: { ko: "301년 기독교를 국교로 삼은 직후 세운 세계에서 손꼽히게 오래된 대성당으로, 가톨리코스가 머무는 총본산입니다.", en: "Among the oldest cathedrals in the world, founded soon after Armenia adopted Christianity in 301, and the seat of the Catholicos." },
+        image: "/highlights/vagharshapat-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Etchmiadzin%20Cathedral",
+      },
+      {
+        id: "vagharshapat-h2",
+        name: { ko: "성 흐립시메 교회", en: "St Hripsime Church" },
+        description: { ko: "618년에 지은 교회로, 순교한 성녀 흐립시메를 기리며 초기 아르메니아 건축의 걸작으로 꼽힙니다.", en: "A church of 618 honouring the martyred St Hripsime, regarded as a masterpiece of early Armenian architecture." },
+        image: "/highlights/vagharshapat-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Saint%20Hripsime%20Church",
+      },
+      {
+        id: "vagharshapat-h3",
+        name: { ko: "성 가야네 교회", en: "St Gayane Church" },
+        description: { ko: "630년에 지은 교회로, 흐립시메와 함께 순교한 원장 가야네를 기립니다.", en: "A church of 630 honouring the abbess Gayane, martyred with Hripsime." },
+        image: "/highlights/vagharshapat-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Saint%20Gayane%20Church",
+      },
+      {
+        id: "vagharshapat-h4",
+        name: { ko: "즈바르트노츠 대성당 유적", en: "Zvartnots Cathedral ruins" },
+        description: { ko: "7세기 원형 3층 대성당의 기둥과 터가 남은 유적으로, 맑은 날엔 뒤로 아라라트산이 보입니다.", en: "The columns and foundations of a 7th-century three-tiered round cathedral, with Mount Ararat behind on clear days." },
+        image: "/highlights/vagharshapat-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zvartnots%20Cathedral",
+      }
+    ],
+  },
+  {
+    id: "garni",
+    countryId: "am",
+    lat: 40.1194,
+    lng: 44.73,
+    signatureImage: "/cities/garni.jpg",
+    name: { ko: "가르니 (게하르트)", en: "Garni (Geghard)" },
+    nativeName: "Գառնի",
+    blurb: {
+      ko: "아자트 강 협곡 위의 마을. 1세기 그리스·로마식 가르니 신전과 협곡의 육각 현무암 기둥 ‘돌의 교향곡’이 있고, 근처에 바위를 파서 지은 세계유산 게하르트 수도원이 있어 예레반에서 함께 다녀옵니다.",
+      en: "A village above the Azat river gorge, with the 1st-century Greco-Roman Temple of Garni and the hexagonal basalt columns of the “Symphony of Stones” in the gorge; nearby is Geghard, a World Heritage monastery carved into the rock, and the two are visited together from Yerevan.",
+    },
+    highlights: [
+      {
+        id: "garni-h1",
+        name: { ko: "가르니 신전", en: "Temple of Garni" },
+        description: { ko: "1세기에 지은 이오니아식 신전으로, 옛 소련 지역에 남은 유일한 그리스·로마식 신전입니다. 옆에 왕궁 목욕탕 모자이크가 있습니다.", en: "An Ionic temple of the 1st century, the only Greco-Roman colonnaded temple in the former Soviet Union, with a mosaic in the royal bath beside it." },
+        image: "/highlights/garni-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Temple%20of%20Garni",
+      },
+      {
+        id: "garni-h2",
+        name: { ko: "돌의 교향곡", en: "Symphony of Stones" },
+        description: { ko: "협곡 벽을 따라 육각형 현무암 기둥이 파이프오르간처럼 늘어선 곳으로, 신전 아래 협곡 길로 내려갑니다.", en: "Hexagonal basalt columns lining the gorge wall like organ pipes, reached by the road down into the gorge below the temple." },
+        image: "/highlights/garni-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Symphony%20of%20Stones",
+      },
+      {
+        id: "garni-h3",
+        name: { ko: "게하르트 수도원", en: "Geghard Monastery" },
+        description: { ko: "바위를 파고 들어가 지은 13세기 수도원으로, 동굴 성당 안에서 울리는 소리가 신비롭습니다.", en: "A 13th-century monastery partly carved into the rock, with cave chapels of remarkable acoustics." },
+        image: "/highlights/garni-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Geghard%20Monastery",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
+    ],
+  },
+  {
+    id: "yeghegnadzor",
+    countryId: "am",
+    lat: 39.7611,
+    lng: 45.3333,
+    signatureImage: "/cities/yeghegnadzor.jpg",
+    name: { ko: "예게그나조르", en: "Yeghegnadzor" },
+    nativeName: "Եղեգնաձոր",
+    blurb: {
+      ko: "남부 바요츠조르 지방의 중심 도시로, 남쪽 고원으로 가는 길목입니다. 산속 14세기 셀림 카라반사라이와 언덕 위 스밧타베르드 요새로 다녀옵니다. 노라방크 수도원과 아레니 마을·동굴은 아제르바이잔(나히체반) 국경 5km 안의 여행금지 구간입니다. 외교부 여행경보 2단계(여행자제) 지역입니다.",
+      en: "The main town of Vayots Dzor in the south, on the way to the southern highlands, with trips to the 14th-century Selim Caravanserai in the mountains and the hilltop Smbataberd fortress. Noravank Monastery and Areni village and cave lie within 5 km of the Azerbaijani (Nakhchivan) border, in the travel-ban zone. A level-2 (refrain from travel) area on the Korean travel alert.",
+    },
+    highlights: [
+      {
+        id: "yeghegnadzor-h1",
+        name: { ko: "셀림 카라반사라이", en: "Selim Caravanserai" },
+        description: { ko: "해발 2,400m 고갯길에 1332년 지은 대상(隊商) 숙소로, 돌 지붕 아래 긴 회랑이 남아 있습니다.", en: "A caravan inn built in 1332 on a 2,410 m mountain pass, its long stone-roofed hall still intact." },
+        image: "/highlights/yeghegnadzor-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Selim%20Caravanserai",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "yeghegnadzor-h2",
+        name: { ko: "스밧타베르드 요새", en: "Smbataberd" },
+        description: { ko: "두 협곡 사이 능선을 따라 쌓은 중세 요새 성벽으로, 걸어서 오릅니다.", en: "Medieval fortress walls running along a ridge between two gorges, reached on foot." },
+        image: "/highlights/yeghegnadzor-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Smbataberd",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
+    ],
+  },
+  {
+    id: "jermuk",
+    countryId: "am",
+    lat: 39.8417,
+    lng: 45.6722,
+    signatureImage: "/cities/jermuk.jpg",
+    name: { ko: "제르무크", en: "Jermuk" },
+    nativeName: "Ջերմուկ",
+    blurb: {
+      ko: "남부 산속 협곡 위의 온천 휴양 도시. 광천수가 나오는 갤러리에서 온도별로 물을 마시고, 협곡으로 떨어지는 ‘인어의 머리카락’ 폭포와 숲속 산책길을 걷습니다. 외교부 여행경보 2단계(여행자제) 지역입니다.",
+      en: "A spa town on a gorge in the southern mountains: sip mineral water at different temperatures in the drinking gallery, see the “Mermaid’s Hair” waterfall tumbling into the gorge and walk the forest paths. A level-2 (refrain from travel) area on the Korean travel alert.",
+    },
+    highlights: [
+      {
+        id: "jermuk-h1",
+        name: { ko: "광천수 갤러리", en: "Mineral water gallery" },
+        description: { ko: "돌 회랑의 꼭지마다 온도가 다른 제르무크 광천수가 나와 직접 마셔 봅니다.", en: "A stone colonnade where each tap pours Jermuk mineral water at a different temperature." },
+        image: "/highlights/jermuk-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jermuk%20mineral%20water%20gallery",
+      },
+      {
+        id: "jermuk-h2",
+        name: { ko: "제르무크 폭포", en: "Jermuk waterfall" },
+        description: { ko: "협곡 벽을 따라 70m를 흘러내리는 폭포로, ‘인어의 머리카락’이라 불립니다.", en: "A 70 m waterfall streaming down the gorge wall, known as the “Mermaid’s Hair”." },
+        image: "/highlights/jermuk-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jermuk%20waterfall",
+      },
+      {
+        id: "jermuk-h3",
+        name: { ko: "그네방크 수도원", en: "Gndevank" },
+        description: { ko: "아르파 강 협곡 속 10세기 수도원으로, 제르무크로 오는 길에 들릅니다.", en: "A 10th-century monastery in the Arpa river gorge, on the road to Jermuk." },
+        image: "/highlights/jermuk-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gndevank",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
+    ],
+  },
+  {
+    id: "goris",
+    countryId: "am",
+    lat: 39.5111,
+    lng: 46.3383,
+    signatureImage: "/cities/goris.jpg",
+    name: { ko: "고리스 (타테브)", en: "Goris (Tatev)" },
+    nativeName: "Գորիս",
+    blurb: {
+      ko: "남부 슈니크 지방 산골의 돌집 도시. 언덕의 옛 동굴 주거지를 걷고, 세계 최장 왕복 케이블카 ‘타테브의 날개’를 타고 협곡 건너 9세기 타테브 수도원으로 갑니다. 흔조레스크 동굴 마을은 아제르바이잔 국경 5km 안의 여행금지 구간입니다. 외교부 여행경보 2단계(여행자제) 지역입니다.",
+      en: "A stone-built town in the mountains of Syunik in the south: walk the old cave dwellings on its hillside and ride the “Wings of Tatev”, among the world’s longest reversible cable cars, across a gorge to the 9th-century Tatev Monastery. The cave village of Khndzoresk lies within 5 km of the Azerbaijani border, in the travel-ban zone. A level-2 (refrain from travel) area on the Korean travel alert.",
+    },
+    highlights: [
+      {
+        id: "goris-h1",
+        name: { ko: "옛 고리스 동굴 주거지", en: "Old Goris cave dwellings" },
+        description: { ko: "시내 동쪽 언덕의 뾰족한 바위에 판 옛 동굴 집들로, 산책길로 오릅니다.", en: "Old cave homes cut into the pointed rocks on the hill east of town, reached by a walking path." },
+        image: "/highlights/goris-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Old%20Goris",
+      },
+      {
+        id: "goris-h2",
+        name: { ko: "타테브의 날개 케이블카", en: "Wings of Tatev" },
+        description: { ko: "협곡 위 5.7km를 건너는 케이블카로, 할리조르 역에서 타테브 수도원까지 약 12분 걸립니다.", en: "A 5.7 km cable car across a gorge, about 12 minutes from Halidzor station to Tatev Monastery." },
+        image: "/highlights/goris-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wings%20of%20Tatev",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "goris-h3",
+        name: { ko: "타테브 수도원", en: "Tatev Monastery" },
+        description: { ko: "협곡 절벽 위의 9세기 수도원으로, 중세에 대학이 있던 학문의 중심이었습니다.", en: "A 9th-century monastery on a clifftop above the gorge, a medieval centre of learning with its own university." },
+        image: "/highlights/goris-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tatev%20Monastery",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
+    ],
+  },
+  {
     id: "gyumri",
     countryId: "am",
     lat: 40.7942,
@@ -47611,6 +47797,51 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "alaverdi",
+    countryId: "am",
+    lat: 41.0975,
+    lng: 44.6556,
+    signatureImage: "/cities/alaverdi.jpg",
+    name: { ko: "알라베르디 (하흐파트)", en: "Alaverdi (Haghpat)" },
+    nativeName: "Ալավերդի",
+    blurb: {
+      ko: "북부 데베드 강 협곡의 광산 도시. 협곡 양쪽 언덕에 10~13세기 하흐파트·사나힌 수도원이 세계유산으로 남아 있고, 벽화가 아름다운 아흐탈라 수도원과 오준 교회로 다녀옵니다.",
+      en: "A mining town in the Debed river gorge in the north: on the hills either side stand the 10th–13th-century monasteries of Haghpat and Sanahin, a World Heritage site, with trips to the frescoed Akhtala Monastery and Odzun church.",
+    },
+    highlights: [
+      {
+        id: "alaverdi-h1",
+        name: { ko: "사나힌 수도원", en: "Sanahin Monastery" },
+        description: { ko: "협곡 언덕 위 10세기 수도원으로, 이끼 낀 돌 회랑과 바닥에 묘비가 깔린 교회들이 있습니다.", en: "A 10th-century monastery on the gorge rim, with mossy stone halls and churches floored with gravestones." },
+        image: "/highlights/alaverdi-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sanahin%20Monastery",
+      },
+      {
+        id: "alaverdi-h2",
+        name: { ko: "하흐파트 수도원", en: "Haghpat Monastery" },
+        description: { ko: "976년에 세운 수도원으로, 산을 배경으로 교회와 종탑, 도서관이 모여 있습니다.", en: "A monastery founded in 976, a cluster of churches, a bell tower and a library against the mountains." },
+        image: "/highlights/alaverdi-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Haghpat%20Monastery",
+      },
+      {
+        id: "alaverdi-h3",
+        name: { ko: "오준 교회", en: "Odzun Church" },
+        description: { ko: "협곡 위 고원의 6~7세기 교회로, 옆에 독특한 쌍아치 기념비가 있습니다.", en: "A 6th–7th-century church on a plateau above the gorge, with an unusual twin-arched monument beside it." },
+        image: "/highlights/alaverdi-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Odzun%20Church",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "alaverdi-h4",
+        name: { ko: "아흐탈라 수도원", en: "Akhtala Monastery" },
+        description: { ko: "요새 성벽 안의 13세기 성당으로, 안쪽 벽을 가득 채운 벽화가 잘 남아 있습니다.", en: "A 13th-century church inside fortress walls, its interior covered in well-preserved frescoes." },
+        image: "/highlights/alaverdi-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Akhtala%20Monastery",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
+    ],
+  },
+  {
     id: "dilijan",
     countryId: "am",
     lat: 40.7439,
@@ -47619,8 +47850,8 @@ export const cities: City[] = [
     name: { ko: "딜리잔", en: "Dilijan" },
     nativeName: "Դիլիջան",
     blurb: {
-      ko: "숲이 우거진 산골의 휴양 도시. 국립공원 숲속에 하가르친·고샤방크 같은 중세 수도원이 숨어 있고, 시내에는 나무 발코니 집을 복원한 샤람베얀 거리가 있습니다.",
-      en: "A resort town in forested mountains, with medieval monasteries such as Haghartsin and Goshavank hidden in the national park and the restored wooden-balconied houses of Sharambeyan Street in town.",
+      ko: "숲이 우거진 산골의 휴양 도시. 국립공원 숲속에 하가르친·고샤방크 같은 중세 수도원이 숨어 있고, 시내에는 나무 발코니 집을 복원한 샤람베얀 거리가 있습니다. 외교부 여행경보 2단계(여행자제) 지역입니다.",
+      en: "A resort town in forested mountains, with medieval monasteries such as Haghartsin and Goshavank hidden in the national park and the restored wooden-balconied houses of Sharambeyan Street in town. A level-2 (refrain from travel) area on the Korean travel alert.",
     },
     highlights: [
       {
@@ -47668,6 +47899,51 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Goshavank",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
+    ],
+  },
+  {
+    id: "sevan",
+    countryId: "am",
+    lat: 40.5481,
+    lng: 44.9483,
+    signatureImage: "/cities/sevan.jpg",
+    name: { ko: "세반", en: "Sevan" },
+    nativeName: "Սևան",
+    blurb: {
+      ko: "해발 1,900m 세반 호수 북서쪽 기슭의 도시. 반도 위 9세기 세바나방크 수도원에서 푸른 호수를 내려다보고, 여름엔 호숫가에서 수영하며, 남쪽 기슭의 하치카르(십자가 돌) 묘지 노라투스로 다녀옵니다. 외교부 여행경보 2단계(여행자제) 지역입니다.",
+      en: "A town on the north-west shore of Lake Sevan at 1,900 m: look over the blue lake from the 9th-century Sevanavank Monastery on its peninsula, swim from the beaches in summer, and visit the khachkar (cross-stone) cemetery of Noratus on the southern shore. A level-2 (refrain from travel) area on the Korean travel alert.",
+    },
+    highlights: [
+      {
+        id: "sevan-h1",
+        name: { ko: "세바나방크 수도원", en: "Sevanavank Monastery" },
+        description: { ko: "반도 언덕 위 9세기 두 교회로, 계단을 오르면 호수와 산이 한눈에 보입니다.", en: "Two 9th-century churches on the hill of a peninsula; climb the steps for views over the lake and mountains." },
+        image: "/highlights/sevan-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sevanavank",
+      },
+      {
+        id: "sevan-h2",
+        name: { ko: "세반 호숫가", en: "Lake Sevan shore" },
+        description: { ko: "반도 양쪽에 모래 해변과 호숫가 식당이 늘어서고, 여름엔 물이 차갑지만 수영을 합니다.", en: "Sand beaches and lakeside restaurants on both sides of the peninsula; the water is cold, but people swim in summer." },
+        image: "/highlights/sevan-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sevan%20peninsula%20beach",
+      },
+      {
+        id: "sevan-h3",
+        name: { ko: "하야라방크 수도원", en: "Hayravank Monastery" },
+        description: { ko: "호숫가 바위 위의 9~12세기 작은 수도원입니다.", en: "A small 9th–12th-century monastery on a rocky shore of the lake." },
+        image: "/highlights/sevan-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hayravank",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      },
+      {
+        id: "sevan-h4",
+        name: { ko: "노라투스 하치카르 묘지", en: "Noratus cemetery" },
+        description: { ko: "중세 하치카르(십자가 돌) 수백 기가 서 있는 들판 묘지로, 아르메니아에서 가장 큰 하치카르 숲입니다.", en: "A field cemetery of hundreds of medieval khachkars (cross-stones), the largest collection in Armenia." },
+        image: "/highlights/sevan-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Noratus%20cemetery",
+        group: { ko: "근교 당일치기", en: "Day trip" },
+      }
     ],
   },
   {

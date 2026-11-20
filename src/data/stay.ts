@@ -2690,6 +2690,27 @@ export const STAY: Record<string, StayArea[]> = {
   comrat: [
     a('시내 중심', 'Town centre', 'Comrat', '구경 거점|Sightseeing base', '박물관과 대성당, 광장이 모두 걸어서 가깝습니다.|The museum, cathedral and square are all on foot.'),
   ],
+  vagharshapat: [
+    a('대성당 주변', 'Around the cathedral', 'Etchmiadzin Cathedral', '조용한 저녁|Quiet evenings', '대부분 예레반에서 당일치기로 다녀오지만, 대성당 근처에 작은 숙소가 있습니다.|Most visit as a day trip from Yerevan, but there are small hotels near the cathedral.'),
+  ],
+  garni: [
+    a('가르니 마을', 'Garni village', 'Garni', '마을 민박|Village guesthouses', '대부분 예레반에서 당일치기로 다녀오지만, 신전 근처 민박에서 묵을 수도 있습니다.|Most visit from Yerevan, but guesthouses near the temple make a quiet overnight.'),
+  ],
+  sevan: [
+    a('세반 반도 주변', 'Around the peninsula', 'Sevan peninsula', '호수 전망|Lake views', '수도원 아래 호숫가 호텔과 리조트가 모여 있습니다. 여름 주말엔 일찍 찹니다.|Lakeside hotels and resorts below the monastery; book early for summer weekends.'),
+  ],
+  alaverdi: [
+    a('하흐파트·사나힌 마을', 'Haghpat or Sanahin village', 'Haghpat', '수도원 옆 민박|Guesthouses by the monasteries', '광산 도시 시내보다 수도원 마을의 민박이 조용합니다.|Guesthouses in the monastery villages are quieter than the mining town.'),
+  ],
+  yeghegnadzor: [
+    a('시내 중심', 'Town centre', 'Yeghegnadzor', '교통 거점|Transport hub', '남쪽으로 가는 미니버스가 서는 거리 근처에 숙소가 있습니다.|Hotels near the main road where southbound minibuses stop.'),
+  ],
+  jermuk: [
+    a('시내 중심', 'Town centre', 'Jermuk', '온천 호텔|Spa hotels', '광천수 갤러리 주변에 온천 호텔이 모여 있습니다.|Spa hotels cluster around the mineral water gallery.'),
+  ],
+  goris: [
+    a('시내 중심', 'Town centre', 'Goris', '타테브 거점|Base for Tatev', '돌집 게스트하우스가 많고, 타테브의 날개 할리조르 역까지 차로 약 20분입니다.|Plenty of stone-house guesthouses, about 20 minutes by car from the Halidzor station of the Wings of Tatev.'),
+  ],
   dilijan: [
     a('옛 거리 (샤람베얀 거리) 주변', 'Around Sharambeyan Street', 'Sharambeyan Street, Dilijan', '옛 마을 분위기|Old-town character', '복원된 옛 거리 근처에 게스트하우스가 모여 있습니다. 비탈이 많아 계단이 있는 숙소도 있습니다.|Guesthouses cluster around the restored old street; hilly, so some rooms are down steps.'),
   ],

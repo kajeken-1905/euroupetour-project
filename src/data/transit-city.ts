@@ -8028,6 +8028,69 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [],
   },
+  vagharshapat: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '대성당과 교회들은 걸어서 다니고, 즈바르트노츠는 택시나 예레반행 미니버스로 들릅니다.',
+      en: 'Walk between the cathedral and churches; take a taxi or a Yerevan minibus to Zvartnots.',
+    },
+    apps: [
+    ],
+  },
+  garni: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '신전과 협곡은 걸어서 다니고, 게하르트는 택시를 탑니다. 예레반에서 택시나 투어로 함께 도는 경우가 많습니다.',
+      en: 'Walk the temple and gorge; take a taxi to Geghard. Many combine both by taxi or tour from Yerevan.',
+    },
+    apps: [
+    ],
+  },
+  sevan: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내에서 반도까지는 택시가 편하고, 노라투스는 택시로 다녀옵니다.',
+      en: 'A taxi is easiest from town to the peninsula and to Noratus.',
+    },
+    apps: [
+    ],
+  },
+  alaverdi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '수도원과 마을 사이는 택시를 타는 것이 편합니다.',
+      en: 'Taxis are easiest between the monasteries and villages.',
+    },
+    apps: [
+    ],
+  },
+  yeghegnadzor: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '근교는 택시를 하루 빌려 도는 것이 편합니다.',
+      en: 'Hiring a taxi for the day is easiest for the surroundings.',
+    },
+    apps: [
+    ],
+  },
+  jermuk: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다니고, 그네방크는 택시로 다녀옵니다.',
+      en: 'A small town on foot; take a taxi to Gndevank.',
+    },
+    apps: [
+    ],
+  },
+  goris: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 타테브의 날개 할리조르 역까지는 택시를 탑니다.',
+      en: 'Walk the town; take a taxi to the Halidzor station of the Wings of Tatev.',
+    },
+    apps: [
+    ],
+  },
   baku: {
     modes: ['metro', 'bus', 'rideshare', 'taxi', 'walk'],
     howTo: {
