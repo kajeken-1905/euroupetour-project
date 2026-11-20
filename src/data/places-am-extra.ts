@@ -29,4 +29,34 @@ export const placesAMExtra: Place[] = [
 
   place('dilijan-bakery-1', 'dilijan', 'bakery', 'Darchin Pastry & Cafe', 'Kalinin St 202, Dilijan 3904, Armenia', '딜리잔의 작은 제과점 겸 카페.', 'Small pastry shop and café in Dilijan.'),
   place('dilijan-cafe-1', 'dilijan', 'cafe', 'Cafe #2', 'Gorky Street 17/1, Dilijan, Armenia', '딜리잔 중심의 카페. 지역 학생들이 실습하며 운영하고 호수 쪽 발코니가 있습니다.', 'Central Dilijan café run as a training venue for local hospitality students, with a lake-view balcony.'),
+
+  // —— vagharshapat: restaurants, bakeries and cafés (2026-11-20) ——
+  place('vagharshapat-fine_dining-1', 'vagharshapat', 'fine_dining', 'Machanents Tourism & Art Restaurant', '36 Shahumyan St, Vagharshapat', '예술 공간을 겸한 아르메니아 요리 식당. 구글 지도 평점 4.7.', 'Armenian restaurant doubling as an art space. Rated 4.7 on Google Maps.'),
+  place('vagharshapat-fine_dining-2', 'vagharshapat', 'fine_dining', 'Louis Charden', '11 King Pap St, Vagharshapat', '대성당 근처의 식당. 구글 지도 평점 4.7.', 'Restaurant near the cathedral. Rated 4.7 on Google Maps.'),
+  place('vagharshapat-bakery-1', 'vagharshapat', 'bakery', 'Crumbs Bread Factory & Cafe', '37 Mesrop Mashtots Ave, Vagharshapat', '빵을 굽는 베이커리 카페. 구글 지도 평점 4.6.', 'Bakery-café baking its own bread. Rated 4.6 on Google Maps.'),
+  place('vagharshapat-bakery-2', 'vagharshapat', 'bakery', 'Baguette & Co.', '20 Abovyan St, Vagharshapat', '빵집. 구글 지도 평점 4.4.', 'Bakery. Rated 4.4 on Google Maps.'),
+
+  // —— garni: restaurants, bakeries and cafés (2026-11-20) ——
+  place('garni-fine_dining-1', 'garni', 'fine_dining', 'Sarizard Garni', '7/7 Azatamartikneri Hwy, Garni', '아르메니아 요리 식당. 구글 지도 평점 4.9.', 'Armenian restaurant. Rated 4.9 on Google Maps.'),
+  place('garni-fine_dining-2', 'garni', 'fine_dining', 'Garni Avenue Cafe & Restaurant', '10 Marzpetuni St, Garni', '신전 가는 길의 아르메니아 요리 식당. 구글 지도 평점 4.3.', 'Armenian restaurant on the street to the temple. Rated 4.3 on Google Maps.'),
+
+  // —— sevan: restaurants, bakeries and cafés (2026-11-20) ——
+  place('sevan-fine_dining-1', 'sevan', 'fine_dining', 'Mirans Restaurant', '157/2 Nairyan St, Sevan', '식당. 구글 지도 평점 4.7.', 'Restaurant. Rated 4.7 on Google Maps.'),
+  place('sevan-fine_dining-2', 'sevan', 'fine_dining', 'Parus Lunch', '165 Nairyan St, Sevan', '간단한 식사를 내는 비스트로. 구글 지도 평점 4.7.', 'Bistro for simple meals. Rated 4.7 on Google Maps.'),
+  place('sevan-cafe-1', 'sevan', 'cafe', 'Bohem Studio Teahouse', '16/13 Sayat-Nova St, Sevan', '찻집. 구글 지도 평점 4.8.', 'Teahouse. Rated 4.8 on Google Maps.'),
+  place('sevan-cafe-2', 'sevan', 'cafe', 'Cafe Le Petit', 'Sayat-Nova St, Sevan', '카페. 구글 지도 평점 4.8.', 'Café. Rated 4.8 on Google Maps.'),
+
+  // —— alaverdi: restaurants, bakeries and cafés (2026-11-20) ——
+  place('alaverdi-fine_dining-1', 'alaverdi', 'fine_dining', 'Lastuer Restaurant', 'Haghpat', '하흐파트 마을의 식당. 구글 지도 평점 4.8.', 'Restaurant in Haghpat village. Rated 4.8 on Google Maps.'),
+
+  // —— yeghegnadzor: restaurants, bakeries and cafés (2026-11-20) ——
+  place('yeghegnadzor-fine_dining-1', 'yeghegnadzor', 'fine_dining', 'Bistro', '7 Yerevanyan Hwy, Yeghegnadzor', '큰길가의 셀프서비스 식당. 구글 지도 평점 4.4.', 'Self-service restaurant on the main road. Rated 4.4 on Google Maps.'),
+
+  // —— jermuk: restaurants, bakeries and cafés (2026-11-20) ——
+  place('jermuk-fine_dining-1', 'jermuk', 'fine_dining', 'Karandzav', 'Barekamutyan St, Jermuk', '식당. 구글 지도 평점 4.6.', 'Restaurant. Rated 4.6 on Google Maps.'),
+  place('jermuk-fine_dining-2', 'jermuk', 'fine_dining', 'Canyon Restaurant', 'Jermuk', '식당. 구글 지도 평점 4.7.', 'Restaurant. Rated 4.7 on Google Maps.'),
+
+  // —— goris: restaurants, bakeries and cafés (2026-11-20) ——
+  place('goris-fine_dining-1', 'goris', 'fine_dining', 'Old Goris Restaurant', 'Mashtots St, Goris', '식당. 구글 지도 평점 4.8.', 'Restaurant. Rated 4.8 on Google Maps.'),
+  place('goris-bakery-1', 'goris', 'bakery', 'Aregak Bakery & Café', '242 Abovyan St, Goris', '빵집 겸 카페. 구글 지도 평점 4.9.', 'Bakery-café. Rated 4.9 on Google Maps.'),
 ]
