@@ -28,4 +28,21 @@ export const placesAZExtra: Place[] = [
 
   // —— gabala: bakeries and cafés (2026-11-04) ——
   place('gabala-cafe-1', 'gabala', 'cafe', 'Karamel coffee shop', 'Heydar Aliyev Ave, Gabala', '중심 대로의 커피숍.', 'Coffee shop on the main avenue.'),
+
+  // —— quba: restaurants, bakeries and cafés (2026-11-20) ——
+  place('quba-fine_dining-1', 'quba', 'fine_dining', 'Şah Quba Restaurant', 'Quba-Qəçrəş yolu, Qəçrəş', '구바에서 게체레시 숲으로 가는 길가의 아제르바이잔 요리 식당. 구글 지도 평점 4.3.', 'Azerbaijani restaurant on the road from Quba to the Qechresh forest. Rated 4.3 on Google Maps.'),
+
+  // —— shamakhi: restaurants, bakeries and cafés (2026-11-20) ——
+  place('shamakhi-fine_dining-1', 'shamakhi', 'fine_dining', 'Dostlug Restaurant', 'JJPQ+4XV Şəhriyar küçəsi, Şamaxı', '아제르바이잔 요리 식당. 구글 지도 평점 4.6.', 'Azerbaijani restaurant. Rated 4.6 on Google Maps.'),
+
+  // —— ganja: restaurants, bakeries and cafés (2026-11-20) ——
+  place('ganja-fine_dining-1', 'ganja', 'fine_dining', 'Milli Süfrə', 'Gəncə', '식당. 구글 지도 평점 4.4.', 'Restaurant. Rated 4.4 on Google Maps.'),
+  place('ganja-cafe-1', 'ganja', 'cafe', 'London CoffeeShop', '10 Cavadxan küçəsi, Gəncə', '자바드 칸 거리의 카페. 구글 지도 평점 4.8.', 'Café on Javad Khan Street. Rated 4.8 on Google Maps.'),
+  place('ganja-cafe-2', 'ganja', 'cafe', 'Kucali CoffeeShop', 'Mirzə Abbas Abbaszadə küçəsi, Gəncə', '커피 전문점. 구글 지도 평점 4.7.', 'Coffee shop. Rated 4.7 on Google Maps.'),
+  place('ganja-cafe-3', 'ganja', 'cafe', 'SanCrema Coffee and Bakery', '69 Mirzə Abbas Abbaszadə küçəsi, Gəncə', '빵도 파는 커피 전문점. 구글 지도 평점 4.8.', 'Coffee shop with a bakery counter. Rated 4.8 on Google Maps.'),
+
+  // —— lankaran: restaurants, bakeries and cafés (2026-11-20) ——
+  place('lankaran-fine_dining-1', 'lankaran', 'fine_dining', 'Boranı Restoran (Lənkəran Filialı)', 'QV53+3VC, Lənkəran', '가족 단위 손님이 많은 식당. 구글 지도 평점 4.3.', 'Family restaurant. Rated 4.3 on Google Maps.'),
+  place('lankaran-fine_dining-2', 'lankaran', 'fine_dining', 'Məkan ailəvi restoran', 'Heydər Əliyev prospekti, Lənkəran', '가족 식당. 구글 지도 평점 4.7.', 'Family restaurant. Rated 4.7 on Google Maps.'),
+  place('lankaran-cafe-1', 'lankaran', 'cafe', 'Paus Brewing', '3 Qala Xiyabanı, Lənkəran', '커피 전문점. 구글 지도 평점 5.0.', 'Coffee shop. Rated 5.0 on Google Maps.'),
 ]

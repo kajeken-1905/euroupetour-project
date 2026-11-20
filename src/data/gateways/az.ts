@@ -49,4 +49,23 @@ export const GATEWAYS: Gateway[] = [
     site: 'https://www.airport.az',
     checked: '2026-10',
   },
+  {
+    id: 'gw-gnj',
+    cityId: 'ganja',
+    kind: 'air',
+    name: '간자 국제공항|Ganja International Airport',
+    code: 'GNJ',
+    image: '/gateways/gw-gnj.jpg',
+    intl: true,
+    about: '시내에서 북서쪽 약 7km입니다. 이스탄불·모스크바 등 국제선과 나흐치반 국내선이 다닙니다.|About 7 km north-west of the city, with international flights to Istanbul, Moscow and elsewhere and a domestic route to Nakhchivan.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시·차량 호출|Taxi or ride-hailing',
+        route: '공항 → 간자 시내|Airport → Ganja centre',
+      },
+    ],
+    maps: 'Ganja International Airport',
+    checked: '2026-11',
+  },
 ]

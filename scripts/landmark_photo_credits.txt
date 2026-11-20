@@ -4740,3 +4740,4 @@ cities/lankaran.jpg | https://commons.wikimedia.org/wiki/File:Lankaran_Mosque_La
 highlights/lankaran-3.jpg | https://commons.wikimedia.org/wiki/File:Caspian_Hyrcanian_Mixed_Forests_in_Northern_Iran_11.jpg | CC BY 4.0 | Gholamreza Rezaei Aghozgole
 highlights/lankaran-2.jpg | https://commons.wikimedia.org/wiki/File:L%C9%99nk%C9%99ran_xan_saray%C4%B1_(4793)_7.jpg | CC BY-SA 4.0 | Rəcəb Yaxşı
 highlights/lankaran-1.jpg | https://commons.wikimedia.org/wiki/File:Lankaran_castle.jpg | CC BY-SA 4.0 | Азербайджан-е-Джануби
+gateways/gw-gnj.jpg | https://commons.wikimedia.org/wiki/File:4K-AZ03_GANJA-_Airbus_A319-111_-_Azerbaijan_Airlines.jpg | CC BY 4.0 | UzeyirMikayil
