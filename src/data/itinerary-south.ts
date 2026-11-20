@@ -549,9 +549,18 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   yeghegnadzor: {"days": [["셀림 카라반사라이|Selim Caravanserai", 1], ["스밧타베르드|Smbataberd", 2]]},
   jermuk: {"days": [["", 1, 2]], "trips": [["그네방크|Gndevank", 3]]},
   goris: {"days": [["", 1]], "trips": [["타테브의 날개와 타테브 수도원|Wings of Tatev & Tatev Monastery", 2, 3]]},
-  baku: [3, 2, 1],
-  sheki: [3, 2, 1],
-  gabala: [1, 2, 3],
+  baku: {
+    days: [
+      ['구시가와 불바르|Old City & Boulevard', 2, 3, 4, 7, 6, 5],
+      ['새 바쿠|Modern Baku', 8, 1, 10, 9],
+    ],
+    trips: [
+      ['압셰론 반도|Absheron peninsula', 11, 12],
+      ['고브스탄과 진흙 화산|Gobustan & mud volcanoes', 13, 14],
+    ],
+  },
+  sheki: { days: [['', 1, 4, 3, 2]], trips: [['키시 교회|Kish', 5], ['겔레르센-괴뢰르센|Gelersen-Gorersen', 6]] },
+  gabala: { days: [['', 3, 1], ['', 2, 4]], trips: [['니지 마을|Nij', 5]] },
   pristina: { days: [['', 3, 4, 2, 1, 6, 5]], trips: [['그라차니차 수도원|Gračanica', 7], ['곰 보호소|Bear Sanctuary', 8]] },
   prizren: [4, 3, 2, 7, 6, 5, 1],
   gjakova: { days: [['', 1, 2, 3, 4]], trips: [['테르지 다리|Terzi Bridge', 5]] },

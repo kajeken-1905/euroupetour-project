@@ -4699,3 +4699,19 @@ highlights/goris-3.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_T
 highlights/goris-2.jpg | https://www.flickr.com/photos/79721788@N00/37202335960 | BY 2.0 | D-Stanley
 highlights/jermuk-1.jpg | https://commons.wikimedia.org/wiki/File:Jermuk-ympelasrah.jpg | CC BY-SA 3.0 | 23artashes
 cities/yeghegnadzor.jpg | https://www.flickr.com/photos/129665369@N02/29402942706 | BY 2.0 | Vahe Martirosyan
+highlights/baku-4.jpg | https://commons.wikimedia.org/wiki/File:Shirvanshah_Palace_001.JPG | CC BY-SA 3.0 | Emin Bashirov
+highlights/baku-5.jpg | https://commons.wikimedia.org/wiki/File:Baku_PrimorskyBoulevard_004_1980.jpg | CC BY-SA 4.0 | Ludvig14
+highlights/baku-7.jpg | https://commons.wikimedia.org/wiki/File:Fountains_Square5,_August_2010.JPG | CC BY-SA 3.0 | Frokor
+highlights/baku-8.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Baku_2022_from_Highland_Park.jpg | CC BY-SA 4.0 | Sefer azeri
+highlights/baku-9.jpg | https://commons.wikimedia.org/wiki/File:HEYDAR_ALIYEV_CENTER_INDOORS.%D7%97%D7%9C%D7%9C_%D7%A4%D7%A0%D7%99%D7%9E%D7%99_%D7%9E%D7%95%D7%93%D7%A8%D7%A0%D7%99_%D7%91%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91.jpg | CC0 | Avisadehh
+highlights/baku-10.jpg | https://commons.wikimedia.org/wiki/File:Bibi-Heybat_Mosque,_Baku,_Azerbaijan_(%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%AD%D0%B9%D0%B1%D0%B0%D1%82,_2026).jpg | CC BY-SA 4.0 | Petar Milošević
+highlights/baku-11.jpg | https://commons.wikimedia.org/wiki/File:Ateshgah_Fire_Temple.jpg | CC BY 2.0 | Nick Taylor
+highlights/baku-12.jpg | https://commons.wikimedia.org/wiki/File:Yanar_Dag,_Baku,_Azerbaiy%C3%A1n,_2016-09-27,_DD_03.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/baku-13.jpg | https://commons.wikimedia.org/wiki/File:We_now_enter_the_petroglyphs_area_of_Gobustan_(37092695832).jpg | CC BY 2.0 | shankar s. from Dubai, united arab emirates
+highlights/baku-14.jpg | https://commons.wikimedia.org/wiki/File:Mud_volcanoes_near_Baku,_Azerbaijan_(6).jpg | CC BY 2.0 | Richard Mortel
+highlights/sheki-5.jpg | https://commons.wikimedia.org/wiki/File:Church,_Kish_(P1090438).jpg | CC BY-SA 4.0 | Matti Blume
+highlights/sheki-6.jpg | https://commons.wikimedia.org/wiki/File:Gelersen_gerersen1.JPG | Public domain | Эмин Маммадов
+highlights/gabala-5.jpg | https://commons.wikimedia.org/wiki/File:Nij_settlement_(Gabala).jpg | CC BY 4.0 | Rüfət Həsənli
+highlights/sheki-4.jpg | https://commons.wikimedia.org/wiki/File:The_gate_of_the_Shekikhanovs%27_house_(XVIII_century).jpg | CC BY 4.0 | Rüfət Həsənli
+highlights/gabala-4.jpg | https://commons.wikimedia.org/wiki/File:DSC_shelale_yeddi_g%C3%B6zel.jpg | CC BY-SA 4.0 | İmirisil
+highlights/baku-6.jpg | https://www.flickr.com/photos/38029563@N07/3501892625 | BY 2.0 | mark i geo
