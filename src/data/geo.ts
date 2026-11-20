@@ -4270,6 +4270,7 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'san-marino-city-h2': [43.93262, 12.45136],
   'san-marino-city-h5': [43.93069, 12.45055],
   'borgo-maggiore-h3': [43.94048, 12.44744],
+  'serravalle-h3': [43.97149, 12.47716],
   'pristina-h3': [42.66204, 21.16273],
   'pristina-h4': [42.65637, 21.15935],
   'pristina-h2': [42.65752, 21.16234],

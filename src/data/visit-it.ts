@@ -565,4 +565,7 @@ export const visitIt: Record<string, HighlightVisit> = {
   'borgo-maggiore-h1': v(10, 15, { n: '보르고 마조레에서 구시가까지 2분 걸립니다.|Two minutes from Borgo Maggiore up to the old town.' }),
   'borgo-maggiore-h2': v(15, 20),
   'borgo-maggiore-h3': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
+  'serravalle-h1': v(15, 30, { b: 'no', n: '무료입니다.|Free.' }),
+  'serravalle-h2': v(20, 30, { b: 'no', n: '무료입니다.|Free.' }),
+  'serravalle-h3': v(90, 120, { n: '경기가 있는 날에만 들어갈 수 있습니다.|Open only on match days.' }),
 }

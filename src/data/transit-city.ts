@@ -8210,6 +8210,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [],
   },
+  serravalle: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '볼거리가 흩어져 있어 차나 택시가 편합니다. 리미니–산마리노 버스가 도가나를 지나갑니다.',
+      en: 'The sights are spread out, so a car or taxi is easiest; the Rimini–San Marino bus runs through Dogana.',
+    },
+    apps: [
+    ],
+  },
   pristina: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {

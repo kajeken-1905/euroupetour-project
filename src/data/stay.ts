@@ -2555,6 +2555,9 @@ export const STAY: Record<string, StayArea[]> = {
   'borgo-maggiore': [
     a('보르고 마조레 마을', 'Borgo Maggiore', 'Borgo Maggiore', '차 여행·가성비|By car, better value', '역사 지구보다 조금 싸고 차로 오기 쉽습니다. 케이블카나 걸어서 위로 올라갑니다.|A little cheaper than the historic centre and easier by car; walk or take the cable car up.'),
   ],
+  serravalle: [
+    a('도가나', 'Dogana', 'Dogana San Marino', '차 여행·리미니 버스|By car, Rimini bus', '리미니–산마리노 버스가 지나가는 국경 쪽 동네로, 차로 다니기 편합니다.|The border-side district on the Rimini–San Marino bus route, handy by car.'),
+  ],
   prizren: [
     a('구시가', 'Old town', 'Prizren old town', '걸어서 구경|Sights on foot', '시난 파샤 모스크와 강변 카페가 걸어서 닿습니다.|The Sinan Pasha Mosque and riverside cafés on foot.'),
   ],

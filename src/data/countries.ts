@@ -367,7 +367,7 @@ export const countries: Country[] = [
       background: '#EAF7FE',
       text: '#0B2A3A',
     },
-    cityIds: ['san-marino-city', 'borgo-maggiore'],
+    cityIds: ['san-marino-city', 'borgo-maggiore', 'serravalle'],
   },
   {
     id: 'de',

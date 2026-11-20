@@ -4787,3 +4787,7 @@ highlights/san-marino-city-6.jpg | https://commons.wikimedia.org/wiki/File:Guait
 highlights/san-marino-city-7.jpg | https://commons.wikimedia.org/wiki/File:Banner_of_Museo_di_stato_(San_Marino).jpg | CC BY 3.0 | roadmap
 highlights/san-marino-city-8.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_di_San_Francesco_June_2016_1.jpg | CC0 | Mx. Granger
 highlights/borgo-maggiore-3.jpg | https://commons.wikimedia.org/wiki/File:Santuario_della_Beata_Vergine_della_Consolazione.jpg | CC BY-SA 4.0 | Cezar Suceveanu
+cities/serravalle.jpg | https://commons.wikimedia.org/wiki/File:SerravalleRSMPanorama.JPG | CC BY 3.0 | LigaDue
+highlights/serravalle-1.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_di_Sant_Andrea_interno.jpg | CC BY-SA 4.0 | IrmaRossi
+highlights/serravalle-2.jpg | https://commons.wikimedia.org/wiki/File:San_Marino_Jinja_-_Honden.jpg | CC BY-SA 4.0 | Fred Cherrygarden
+highlights/serravalle-3.jpg | https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_(Serravalle).jpg | CC BY 4.0 | Labicanense

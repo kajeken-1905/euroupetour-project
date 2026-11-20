@@ -1168,6 +1168,13 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Rimini', '리미니역', '이탈리아 · 산마리노행 버스|Italy · bus to San Marino']],
     bus: [['Piazzale Calcigni', '피아찰레 칼치니 버스 정류장']],
   },
+  serravalle: {
+    air: [
+      ['Rimini Federico Fellini (RMI)', '리미니 공항 (RMI)', '이탈리아 리미니|Rimini, Italy'],
+      BLQ('이탈리아 볼로냐|Bologna, Italy'),
+    ],
+    rail: [['Rimini', '리미니역', '이탈리아 · 산마리노행 버스|Italy · bus to San Marino']],
+  },
   'borgo-maggiore': {
     air: [
       ['Rimini Federico Fellini (RMI)', '리미니 공항 (RMI)', '이탈리아 리미니|Rimini, Italy'],

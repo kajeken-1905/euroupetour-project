@@ -194,6 +194,7 @@ export const routesWest: RawRoute[] = [
   r('bologna', 'urbino', 'mixed', 165, { n: '페사로까지 기차 후 버스|train to Pesaro, then bus' }),
   r('san-marino-city', 'borgo-maggiore', 'bus', 10, { n: '케이블카로는 2분|two minutes by cable car' }),
   r('bologna', 'san-marino-city', 'mixed', 130, { n: '리미니까지 기차 후 버스|train to Rimini, then bus' }),
+  r('san-marino-city', 'serravalle', 'bus', 20, { n: '리미니–산마리노 버스가 도가나를 지납니다|the Rimini–San Marino bus runs through Dogana' }),
 
   // —— it: centre ——
   r('florence', 'pisa', 'train', 55),
