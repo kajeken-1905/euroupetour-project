@@ -4791,3 +4791,4 @@ cities/serravalle.jpg | https://commons.wikimedia.org/wiki/File:SerravalleRSMPan
 highlights/serravalle-1.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_di_Sant_Andrea_interno.jpg | CC BY-SA 4.0 | IrmaRossi
 highlights/serravalle-2.jpg | https://commons.wikimedia.org/wiki/File:San_Marino_Jinja_-_Honden.jpg | CC BY-SA 4.0 | Fred Cherrygarden
 highlights/serravalle-3.jpg | https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_(Serravalle).jpg | CC BY 4.0 | Labicanense
+gateways/gw-rimini-sm.jpg | https://commons.wikimedia.org/wiki/File:Rimini_FS.JPG | Public domain | Valentino1
