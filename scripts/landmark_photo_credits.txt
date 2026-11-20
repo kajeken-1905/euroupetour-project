@@ -4771,3 +4771,6 @@ highlights/mellieha-2.jpg | https://commons.wikimedia.org/wiki/File:Golden_Bay_a
 highlights/mellieha-3.jpg | https://commons.wikimedia.org/wiki/File:Malta_-_Mellieha_-_Misrah_il-Parocca_-_Sanctuary_of_our_Lady_of_Mellieha_01_ies.jpg | CC BY-SA 3.0 | Frank Vincentz
 highlights/mellieha-4.jpg | https://commons.wikimedia.org/wiki/File:Pueblo_de_Popeye,_Mellie%C4%A7a,_isla_de_Malta,_Malta,_2021-08-24,_DD_02-03_PAN.jpg | CC BY-SA 4.0 | Diego Delso
 highlights/mellieha-5.jpg | https://commons.wikimedia.org/wiki/File:St._Agatha%27s_Tower_(The_Red_Tower),_Mellieha,_Malta.jpg | CC BY-SA 4.0 | BoneA
+gateways/gw-mla.jpg | https://commons.wikimedia.org/wiki/File:Malta_International_Airport.jpg | Public domain | William Shewring
+gateways/gw-cirkewwa.jpg | https://commons.wikimedia.org/wiki/File:Cirkewwa_Ferry_Terminal_%5E2015_-_panoramio.jpg | CC BY 3.0 | Yuri Raysper
+gateways/gw-mgarr.jpg | https://commons.wikimedia.org/wiki/File:Puerto_de_M%C4%A1arr,_isla_de_Gozo,_Malta,_2021-08-23,_DD_47-50_PAN.jpg | CC BY-SA 4.0 | Diego Delso

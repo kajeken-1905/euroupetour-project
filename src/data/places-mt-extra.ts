@@ -49,4 +49,25 @@ export const placesMTExtra: Place[] = [
   place('gozo-cafe-3', 'gozo', 'cafe', 'Coffee Break Café & Bistro', 'Triq Taħt Putirjal, Victoria, Gozo, Malta', '넓은 테라스가 있는 카페 겸 비스트로. 영국식 아침 식사가 푸짐합니다.', 'Café-bistro with a large terrace; the full English breakfast is generous.'),
   place('gozo-cafe-4', 'gozo', 'cafe', 'Noble Cafe Bistro', 'Triq Fortunato Mizzi, VCT 2591 Victoria, Malta', '빅토리아의 카페 겸 비스트로. 버거·피자·아침 메뉴와 수제 레모네이드를 냅니다.', 'Victoria café-bistro serving burgers, pizzas, breakfast and homemade lemonade.'),
   place('gozo-cafe-5', 'gozo', 'cafe', 'Black Cat Café', '19 Triq Vajrinġa, Gozo', '빅토리아 중심의 아늑한 카페. 당근 케이크가 유명하고 채식 메뉴가 있습니다.', 'Cosy café in central Victoria known for its carrot cake, with vegetarian options.'),
+
+  // —— sliema: restaurants, bakeries and cafés (2026-11-20) ——
+  place('sliema-fine_dining-1', 'sliema', 'fine_dining', 'Fernandõ Gastrotheque', '17 Tigne Street, Sliema SLM 3172', '슬리마의 현대 지중해 요리 레스토랑. 미쉐린 1스타.', 'Contemporary Mediterranean restaurant in Sliema. One MICHELIN star.', { michelin: 'star1' }),
+  place('sliema-fine_dining-2', 'sliema', 'fine_dining', 'Le GV', 'Le Soleil Hotel, Thornton Street, Sliema SLM 3143', '1926년 건물 르 솔레유 호텔 11층의 전망 레스토랑. 미쉐린 1스타.', 'Panoramic restaurant on the 11th floor of the 1926 Le Soleil Hotel. One MICHELIN star.', { michelin: 'star1' }),
+  place('sliema-fine_dining-3', 'sliema', 'fine_dining', 'Rosamì', 'The Villa, Main Street, Balluta Bay, St Julian\'s STJ 1017', '발루타 만의 창작 요리 레스토랑. 미쉐린 1스타.', 'Creative restaurant on Balluta Bay. One MICHELIN star.', { michelin: 'star1' }),
+  place('sliema-fine_dining-4', 'sliema', 'fine_dining', 'Chophouse', 'Censu Xerri, Tigné Point, Sliema SLM 3190', '티녜 포인트 바닷가의 그릴 레스토랑. 미쉐린 가이드 선정.', 'Grill restaurant on the Tigné Point waterfront. In the MICHELIN Guide.'),
+  place('sliema-fine_dining-5', 'sliema', 'fine_dining', 'Zest', '25 St George\'s Road, St Julian\'s STJ 3208', '세인트줄리언스의 아시아 요리 레스토랑. 미쉐린 가이드 선정.', 'Asian restaurant in St Julian\'s. In the MICHELIN Guide.'),
+  place('sliema-cafe-1', 'sliema', 'cafe', 'COFFEE & strangers Espresso Bar', '267 Triq Manwel Dimech, Sliema', '에스프레소 바. 구글 지도 평점 4.9.', 'Espresso bar. Rated 4.9 on Google Maps.'),
+  place('sliema-cafe-2', 'sliema', 'cafe', 'Delizie Siciliane', 'Triq Għar il-Lembi, Sliema', '시칠리아식 카페. 구글 지도 평점 4.8.', 'Sicilian-style café. Rated 4.8 on Google Maps.'),
+  place('sliema-cafe-3', 'sliema', 'cafe', 'Abrazo Sliema', '13 Triq Tigné, Sliema', '카페. 구글 지도 평점 4.8.', 'Café. Rated 4.8 on Google Maps.'),
+  place('sliema-bakery-1', 'sliema', 'bakery', 'Kyoto Japanese Bakery', '15 Triq Għar il-Lembi, Sliema', '일본식 빵집 겸 카페. 구글 지도 평점 4.6.', 'Japanese bakery-café. Rated 4.6 on Google Maps.'),
+  place('sliema-bakery-2', 'sliema', 'bakery', 'Carmelo Micallef Bakery', '2 Triq San Trofimu, Sliema', '동네 빵집. 구글 지도 평점 4.8.', 'Neighbourhood bakery. Rated 4.8 on Google Maps.'),
+  place('sliema-bakery-3', 'sliema', 'bakery', 'Jeff\'s Pastizzeria', 'Triq Manwel Dimech, Sliema', '몰타식 페이스트리 파스티치 가게. 구글 지도 평점 4.6.', 'Pastizzeria selling Maltese pastizzi. Rated 4.6 on Google Maps.'),
+
+  // —— mellieha: restaurants, bakeries and cafés (2026-11-20) ——
+  place('mellieha-fine_dining-1', 'mellieha', 'fine_dining', 'Commando', 'Misraħ iż-Żjara tal-Papa, Mellieħa MLH 1080', '멜리하 광장의 지중해 요리 레스토랑. 미쉐린 빕 구르망.', 'Mediterranean restaurant on Mellieħa\'s square. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('mellieha-fine_dining-2', 'mellieha', 'fine_dining', 'Rebekah\'s', '12 Triq it-Tgħam, Mellieħa MLH 1472', '현대 지중해 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern Mediterranean restaurant. In the MICHELIN Guide.'),
+  place('mellieha-cafe-1', 'mellieha', 'cafe', 'TuttoBuono', '69 Triq Ġorġ Borg Olivier, Mellieħa', '커피 전문점. 구글 지도 평점 4.9.', 'Coffee shop. Rated 4.9 on Google Maps.'),
+  place('mellieha-cafe-2', 'mellieha', 'cafe', 'Debbie\'s Cafe', '62 Triq Ġorġ Borg Olivier, Mellieħa', '카페. 구글 지도 평점 4.6.', 'Café. Rated 4.6 on Google Maps.'),
+  place('mellieha-cafe-3', 'mellieha', 'cafe', 'XEMX Brunch Cafe', '45 Triq il-Kbira, Mellieħa', '브런치 카페. 구글 지도 평점 4.6.', 'Brunch café. Rated 4.6 on Google Maps.'),
+  place('mellieha-bakery-1', 'mellieha', 'bakery', 'Freds Pies & More', '66 Triq il-Kbira, Mellieħa', '파이 가게. 구글 지도 평점 5.0.', 'Pie shop. Rated 5.0 on Google Maps.'),
 ]
