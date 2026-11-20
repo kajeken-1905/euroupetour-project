@@ -7857,6 +7857,69 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'In mountains/gorges, check weather and cableway status ahead.',
     },
   },
+  mtskheta: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 즈바리 수도원은 택시로 오릅니다.',
+      en: 'Walk the old town; take a taxi up to Jvari.',
+    },
+    apps: [
+    ],
+  },
+  gori: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 우플리스치헤와 아테니는 택시를 이용합니다.',
+      en: 'Walk the town; take a taxi to Uplistsikhe and Ateni.',
+    },
+    apps: [
+    ],
+  },
+  akhaltsikhe: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 바르지아와 사파라는 택시나 투어를 이용합니다.',
+      en: 'Walk the town; use a taxi or tour for Vardzia and Sapara.',
+    },
+    apps: [
+    ],
+  },
+  borjomi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 공원은 걸어서 다니고, 근교는 택시나 마르슈루트카를 탑니다.',
+      en: 'Walk the town and park; take a taxi or marshrutka further out.',
+    },
+    apps: [
+    ],
+  },
+  telavi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 수도원과 와이너리는 택시를 하루 빌려 도는 것이 편합니다.',
+      en: 'Walk the town; hiring a taxi for the day is easiest for the monasteries and wineries.',
+    },
+    apps: [
+    ],
+  },
+  zugdidi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 메스티아와 아나클리아는 마르슈루트카나 택시를 탑니다.',
+      en: 'Walk the town; take a marshrutka or taxi to Mestia and Anaklia.',
+    },
+    apps: [
+    ],
+  },
+  mestia: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 빙하와 우슈굴리는 사륜구동 택시나 투어를 이용합니다.',
+      en: 'Walk the village; use a 4×4 taxi or tour for the glacier and Ushguli.',
+    },
+    apps: [
+    ],
+  },
   sighnaghi: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     howTo: {

@@ -4606,3 +4606,43 @@ highlights/stepantsminda-7.jpg | https://commons.wikimedia.org/wiki/File:Russia%
 highlights/stepantsminda-8.jpg | https://commons.wikimedia.org/wiki/File:Ananuri_Fortress_02.jpg | CC BY 4.0 | Bernard Gagnon
 highlights/sighnaghi-3.jpg | https://commons.wikimedia.org/wiki/File:Sighnaghi_Museum._Bronze_Age_collections_03.jpg | CC BY-SA 4.0 | Kober
 highlights/kutaisi-10.jpg | https://commons.wikimedia.org/wiki/File:Okatse_Canyon,_Imereti,_Georgia.jpg | CC BY-SA 4.0 | FingerWiki
+cities/mtskheta.jpg | https://commons.wikimedia.org/wiki/File:Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg | CC BY-SA 4.0 | Dmitry A. Mottl
+highlights/mtskheta-1.jpg | https://commons.wikimedia.org/wiki/File:The_Svetitskhoveli_Cathedral_-_01.jpg | CC BY-SA 4.0 | Moahim
+highlights/mtskheta-2.jpg | https://commons.wikimedia.org/wiki/File:Samtavro_Monastery_main_church._View_from_southeast.jpg | CC0 | Kober
+highlights/mtskheta-4.jpg | https://commons.wikimedia.org/wiki/File:Georgia_Jvari_monastery_IMG_9345_2070.jpg | CC BY-SA 4.0 | Alexxx1979
+highlights/mtskheta-5.jpg | https://commons.wikimedia.org/wiki/File:Shiomgvime_Monastery,_Georgia2.JPG | Public domain | Kober
+cities/gori.jpg | https://commons.wikimedia.org/wiki/File:Communist_relief_in_Gori,_Georgia_1.jpg | CC BY-SA 4.0 | Dudva
+highlights/gori-1.jpg | https://commons.wikimedia.org/wiki/File:Stalin_Museum,_Gori_04.jpg | CC BY-SA 3.0 | Stolbovsky
+highlights/gori-2.jpg | https://commons.wikimedia.org/wiki/File:Gori_fortress_by_ArmAg_(1).JPG | CC BY-SA 4.0 | Armineaghayan
+highlights/gori-3.jpg | https://commons.wikimedia.org/wiki/File:Middle_ages_Basilica_on_the_top_of_the_cave,_Uplistsikhe_20230920_(II).jpg | CC BY 4.0 | This Photo was taken by Supanut Arunoprayote.
+cities/akhaltsikhe.jpg | https://commons.wikimedia.org/wiki/File:Akhaltsikhe,_Georgia_(23).jpg | CC BY 2.0 | tjabeljan
+highlights/akhaltsikhe-1.jpg | https://commons.wikimedia.org/wiki/File:Rabati_Castle_in_Akhaltsikhe.jpg | CC BY-SA 4.0 | Zurabgiorgadze
+highlights/akhaltsikhe-2.jpg | https://commons.wikimedia.org/wiki/File:Sapara_Monastery,_Akhtaltsikhe,_Georgia_(2).JPG | CC BY-SA 4.0 | Kober
+highlights/akhaltsikhe-3.jpg | https://commons.wikimedia.org/wiki/File:Khertvisi_fortress,_Samtskhe,_Georgia.jpg | CC0 | Makalu from Pixabay
+highlights/akhaltsikhe-4.jpg | https://commons.wikimedia.org/wiki/File:Vardzia_Cave_Monastery_12.jpg | CC BY 4.0 | Bernard Gagnon
+cities/borjomi.jpg | https://commons.wikimedia.org/wiki/File:Borjomi_Municipality_coat_of_arms_on_a_street_digital_display_board._Borjomi,_Georgia._July_2024.jpg | CC0 | Kober
+highlights/borjomi-1.jpg | https://commons.wikimedia.org/wiki/File:Borjomi%27s_Park.JPG | CC BY-SA 3.0 | პაატა შ
+highlights/borjomi-4.jpg | https://commons.wikimedia.org/wiki/File:Borjomi_Kharagauli_National_Park_(13).jpg | CC BY-SA 4.0 | Jaba1977
+highlights/borjomi-5.jpg | https://commons.wikimedia.org/wiki/File:Tsagveri_station_-_Kukushka_train.jpg | CC BY 2.0 | Jelger Groeneveld
+cities/telavi.jpg | https://commons.wikimedia.org/wiki/File:Roses_in_Garden_-_Telavi_-_Georgia_(17765452304).jpg | CC BY-SA 2.0 | Adam Jones from Kelowna, BC, Canada
+highlights/telavi-3.jpg | https://commons.wikimedia.org/wiki/File:Alaverdi_Monastery_02.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/telavi-4.jpg | https://commons.wikimedia.org/wiki/File:Ikalto_monastery,_Kakheti,_Georgia.jpg | CC BY-SA 2.0 | Jon Gudorf Photography
+highlights/telavi-5.jpg | https://commons.wikimedia.org/wiki/File:Prince_Chavchavadze%27s_estate.Tsinandali.jpg | CC BY-SA 4.0 | Oleg Moro
+highlights/telavi-6.jpg | https://commons.wikimedia.org/wiki/File:Gremi_Kakheti01.jpg | Public domain | Zangala at Georgian Wikipedia
+cities/zugdidi.jpg | https://commons.wikimedia.org/wiki/File:Tsaishi_Cathedral,_Zugdidi,_Megrelia,_Georgia_-_%E1%83%AA%E1%83%90%E1%83%98%E1%83%A8%E1%83%98_(2).jpg | CC BY-SA 4.0 | Abkhazian1
+highlights/zugdidi-1.jpg | https://commons.wikimedia.org/wiki/File:Dadiani_Palace_2.jpg | CC BY-SA 4.0 | Kakhi Kuloshvili
+highlights/zugdidi-2.jpg | https://commons.wikimedia.org/wiki/File:Zugdidi_botanical_garden5.jpg | Public domain | Lika2672
+highlights/zugdidi-3.jpg | https://commons.wikimedia.org/wiki/File:Anaklia.JPG | CC BY-SA 3.0 | Odabade90
+cities/mestia.jpg | https://commons.wikimedia.org/wiki/File:Mestia_Gospels_(4).png | Public domain | https://www.facebook.com/photo?fbid=693183156618870&amp;set=
+highlights/mestia-1.jpg | https://commons.wikimedia.org/wiki/File:Svaneti_Museum_(AFCP)_21.jpg | Public domain | U.S. Embassy Georgia
+highlights/mestia-5.jpg | https://commons.wikimedia.org/wiki/File:Koruldi_Lakes,_Svaneti,_June,_2018-3.jpg | CC BY-SA 4.0 | Alexey Komarov
+highlights/mestia-6.jpg | https://commons.wikimedia.org/wiki/File:Ushguli_Svaneti_Georgia.JPG | CC BY-SA 3.0 | Florian Pinel
+highlights/mtskheta-3.jpg | https://commons.wikimedia.org/wiki/File:Mtskheta_-_city_3.jpg | CC BY-SA 4.0 | Asif Masimov
+highlights/borjomi-2.jpg | https://commons.wikimedia.org/wiki/File:Borjomi_Cable_Car.jpg | CC BY-SA 4.0 | Hundnase
+highlights/borjomi-3.jpg | https://commons.wikimedia.org/wiki/File:Mtsvane_Monastery,_Borjomi_(2).JPG | CC BY-SA 4.0 | Kober
+highlights/telavi-1.jpg | https://commons.wikimedia.org/wiki/File:A_far_shot_of_the_museum_and_royal_apartments_at_Telavi_(30802611210).jpg | CC BY 2.0 | shankar s. from Dubai, united arab emirates
+highlights/telavi-2.jpg | https://www.flickr.com/photos/90126577@N00/2199894709 | BY 2.0 | miss_rubov
+highlights/mestia-2.jpg | https://commons.wikimedia.org/wiki/File:Mestia_with_Svan_towers.jpg | CC BY 2.0 | Jelger Groeneveld
+highlights/mestia-4.jpg | https://commons.wikimedia.org/wiki/File:Chalaadi_Glacier_and_Mt_Chatintau.jpg | CC BY 2.0 | Jelger Groeneveld
+highlights/gori-4.jpg | https://commons.wikimedia.org/wiki/File:Atenis_Sioni_view.jpg | CC BY-SA 2.0 | George Mel
+highlights/mestia-3.jpg | https://commons.wikimedia.org/wiki/File:View_to_ushba_mount._from_zuruldi_mount._-_panoramio.jpg | CC BY-SA 3.0 | G.N.

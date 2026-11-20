@@ -1589,7 +1589,13 @@ export const countries: Country[] = [
       background: '#FFF0F0',
       text: '#3A0A0A',
     },
-    cityIds: ['tbilisi', 'batumi', 'kutaisi', 'stepantsminda', 'sighnaghi'],
+    cityIds: ['tbilisi', 'mtskheta', 'gori', 'stepantsminda', 'sighnaghi', 'telavi', 'kutaisi', 'zugdidi', 'mestia', 'batumi', 'borjomi', 'akhaltsikhe'],
+    cityGroups: [
+      { title: { ko: '트빌리시·카르틀리', en: 'Tbilisi & Kartli' }, cityIds: ['tbilisi', 'mtskheta', 'gori', 'stepantsminda'] },
+      { title: { ko: '카헤티', en: 'Kakheti' }, cityIds: ['sighnaghi', 'telavi'] },
+      { title: { ko: '서부·스바네티', en: 'West & Svaneti' }, cityIds: ['kutaisi', 'zugdidi', 'mestia', 'batumi'] },
+      { title: { ko: '남부', en: 'South' }, cityIds: ['borjomi', 'akhaltsikhe'] },
+    ],
   },
   {
     id: 'am',

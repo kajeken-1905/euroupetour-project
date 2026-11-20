@@ -943,6 +943,37 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [TBS()],
     bus: [['Didube Bus Station Tbilisi', '디두베 버스터미널', '트빌리시 · 마르슈루트카 출발|Tbilisi · marshrutkas leave from here']],
   },
+  mtskheta: {
+    air: [TBS()],
+    bus: [['Didube Bus Station Tbilisi', '디두베 버스터미널', '트빌리시 · 마르슈루트카 출발|Tbilisi · marshrutkas leave from here']],
+  },
+  gori: {
+    air: [TBS()],
+    rail: [['Gori', '고리역', '트빌리시행 열차|trains to Tbilisi']],
+    bus: [['Gori Bus Station', '고리 버스터미널']],
+  },
+  akhaltsikhe: {
+    air: [['Kutaisi David the Builder (KUT)', '쿠타이시 공항 (KUT)', '쿠타이시|Kutaisi'], TBS()],
+    bus: [['Akhaltsikhe Bus Station', '아할치헤 버스터미널']],
+  },
+  borjomi: {
+    air: [['Kutaisi David the Builder (KUT)', '쿠타이시 공항 (KUT)', '쿠타이시|Kutaisi'], TBS()],
+    rail: [['Borjomi Park', '보르조미 파크역', '바쿠리아니행 협궤 열차|narrow-gauge train to Bakuriani']],
+    bus: [['Borjomi Bus Station', '보르조미 버스터미널']],
+  },
+  telavi: {
+    air: [TBS()],
+    bus: [['Telavi Bus Station', '텔라비 버스터미널']],
+  },
+  zugdidi: {
+    air: [['Kutaisi David the Builder (KUT)', '쿠타이시 공항 (KUT)', '쿠타이시|Kutaisi']],
+    rail: [['Zugdidi', '주그디디역', '트빌리시행 열차|trains to Tbilisi']],
+    bus: [['Zugdidi Bus Station', '주그디디 버스터미널', '메스티아행 마르슈루트카|marshrutkas to Mestia']],
+  },
+  mestia: {
+    air: [['Kutaisi David the Builder (KUT)', '쿠타이시 공항 (KUT)', '쿠타이시|Kutaisi']],
+    bus: [['Mestia (Seti Square)', '메스티아 세티 광장', '주그디디·쿠타이시행 마르슈루트카|marshrutkas to Zugdidi and Kutaisi']],
+  },
   sighnaghi: {
     air: [TBS()],
     bus: [['Samgori Bus Station Tbilisi', '삼고리 버스터미널', '트빌리시 · 마르슈루트카 출발|Tbilisi · marshrutkas leave from here']],

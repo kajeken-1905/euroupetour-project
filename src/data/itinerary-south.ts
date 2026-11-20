@@ -377,6 +377,13 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   sighnaghi: [4, 1, 3, 5, 2],
+  mtskheta: {"days": [["", 1, 2, 3, 4]], "trips": [["시오므그비메|Shio-Mgvime", 5]]},
+  gori: {"days": [["", 1, 2]], "trips": [["우플리스치헤|Uplistsikhe", 3], ["아테니 시오니|Ateni Sioni", 4]]},
+  akhaltsikhe: {"days": [["", 1]], "trips": [["헤르트비시와 바르지아|Khertvisi & Vardzia", 3, 4], ["사파라 수도원|Sapara", 2]]},
+  borjomi: {"days": [["", 1, 2]], "trips": [["초록 수도원|Green Monastery", 3], ["국립공원|National park", 4], ["쿠쿠시카 열차|Kukushka train", 5]]},
+  telavi: {"days": [["", 1, 2]], "trips": [["알라베르디·이칼토|Alaverdi & Ikalto", 3, 4], ["치난달리|Tsinandali", 5], ["그레미|Gremi", 6]]},
+  zugdidi: {"days": [["", 1, 2]], "trips": [["아나클리아|Anaklia", 3]]},
+  mestia: {"days": [["", 1, 2, 3]], "trips": [["찰라디 빙하|Chalaadi Glacier", 4], ["코룰디 호수|Koruldi Lakes", 5], ["우슈굴리|Ushguli", 6]]},
   skopje: {
     days: [
       ['구시장·요새|Old Bazaar & fortress', 1, 2, 6, 7, 5],

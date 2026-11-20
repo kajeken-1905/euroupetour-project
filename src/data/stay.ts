@@ -2379,6 +2379,29 @@ export const STAY: Record<string, StayArea[]> = {
     a('스테판츠민다 마을 (강 동쪽)', 'Stepantsminda village (east bank)', 'Stepantsminda', '식당·편의|Restaurants', '식당과 가게가 모여 있고 게스트하우스가 많습니다.|Restaurants and shops, with plenty of guesthouses.'),
     a('게르게티 마을', 'Gergeti village', 'Gergeti', '트레킹|Trekking', '게르게티 교회 등산로 입구가 가까워 걷는 시간을 30분쯤 줄입니다.|Close to the trail up to Gergeti church, saving about 30 minutes of hiking.'),
   ],
+  mtskheta: [
+    a('대성당 주변', 'Around the cathedral', 'Svetitskhoveli Cathedral', '조용한 저녁|Quiet evenings', '당일치기 손님이 떠난 뒤 조용한 구시가에서 묵습니다.|Stay in the old town once the day-trippers have gone.'),
+  ],
+  gori: [
+    a('시내 중심', 'Town centre', 'Gori', '걸어서 다니기|Walkable', '박물관과 요새가 걸어서 가깝습니다. 트빌리시에서 당일치기도 많이 합니다.|The museum and fortress are on foot; many visit as a day trip from Tbilisi.'),
+  ],
+  akhaltsikhe: [
+    a('라바티 성 근처', 'Near Rabati Castle', 'Rabati Castle', '구경하기 편함|Handy for sightseeing', '성채가 걸어서 가깝고 버스터미널도 멀지 않습니다.|The castle is on foot and the bus station is close.'),
+  ],
+  borjomi: [
+    a('공원 입구 근처', 'Near the park entrance', 'Borjomi Central Park', '걸어서 다니기|Walkable', '공원과 케이블카, 식당이 걸어서 가깝습니다.|The park, cable car and restaurants are on foot.'),
+  ],
+  telavi: [
+    a('시내 중심', 'Town centre', 'Telavi', '걸어서 다니기|Walkable', '궁전과 시장이 걸어서 가깝고 와이너리 투어가 여기서 떠납니다.|The palace and market are on foot, and winery tours start here.'),
+    a('와이너리 숙소', 'Winery stays', 'Kvareli', '와인 여행|Wine trips', '포도밭 안 와이너리 호텔에서 묵습니다. 차가 있으면 편합니다.|Stay at a winery hotel among the vineyards; easier with a car.'),
+  ],
+  zugdidi: [
+    a('기차역 근처', 'Near the station', 'Zugdidi railway station', '교통 거점|Transport hub', '메스티아행 마르슈루트카가 역 앞에서 떠나 하룻밤 묵기 편합니다.|Marshrutkas to Mestia leave from outside the station, handy for an overnight stop.'),
+  ],
+  mestia: [
+    a('세티 광장 주변', 'Around Seti Square', 'Seti Square Mestia', '걸어서 다니기|Walkable', '박물관과 식당, 마르슈루트카 정류장이 걸어서 가깝습니다.|The museum, restaurants and marshrutka stop are on foot.'),
+    a('우슈굴리', 'Ushguli', 'Ushguli', '오지 마을|Remote village', '탑 마을의 게스트하우스에서 묵으며 조용한 밤을 보냅니다.|Spend a quiet night in a guesthouse among the towers.'),
+  ],
   sighnaghi: [
     a('성벽 안 구시가', 'Old town', 'Sighnaghi old town', '아침 산책·전망|Morning walks, views', '광장과 성벽까지 걸어서 다닙니다. 비탈과 계단이 많으니 숙소 위치를 확인하세요.|The square and walls on foot; there are many slopes and stairs, so check the exact location.'),
   ],
