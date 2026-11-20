@@ -4792,3 +4792,8 @@ highlights/serravalle-1.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_di_
 highlights/serravalle-2.jpg | https://commons.wikimedia.org/wiki/File:San_Marino_Jinja_-_Honden.jpg | CC BY-SA 4.0 | Fred Cherrygarden
 highlights/serravalle-3.jpg | https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_(Serravalle).jpg | CC BY 4.0 | Labicanense
 gateways/gw-rimini-sm.jpg | https://commons.wikimedia.org/wiki/File:Rimini_FS.JPG | Public domain | Valentino1
+highlights/vatican-city-10.jpg | https://commons.wikimedia.org/wiki/File:2018-05-02_Pope_Francis_General_Audience_0355.jpg | CC BY-SA 4.0 | Mariordo (Mario Roberto Durán Ortiz)
+highlights/vatican-city-6.jpg | https://commons.wikimedia.org/wiki/File:Choesa_di_San_Pietro_in_Valle,_Cupola_5.jpg | CC BY-SA 4.0 | Alesera251099
+highlights/vatican-city-7.jpg | https://commons.wikimedia.org/wiki/File:Fronte_del_sarcofago_di_giona,_280-300_dc.,_da_necropoli_vaticana_01.JPG | CC BY 3.0 | Sailko
+highlights/vatican-city-8.jpg | https://commons.wikimedia.org/wiki/File:Original_tomb_of_Josef_Beran_in_Grotte_Vaticane,_Rome.jpg | CC BY-SA 4.0 | Henta
+highlights/vatican-city-9.jpg | https://commons.wikimedia.org/wiki/File:Tesoro_di_san_pietro,_ciborio_di_donatello.JPG | CC BY-SA 3.0 | sailko

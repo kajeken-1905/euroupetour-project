@@ -549,10 +549,15 @@ export const visitIt: Record<string, HighlightVisit> = {
 
   // Vatican City
   'vatican-city-h1': v(90, 120, { c: 'daily', b: 'no', s: 'https://www.basilicasanpietro.va/en', n: '성당은 무료이지만 보안 검색 줄이 1시간 넘게 걸리는 날이 많습니다. 돔은 유료이고 어깨와 무릎을 가려야 합니다. 수요일 오전은 교황 알현으로 입장이 늦어집니다.|Free, but security queues often top an hour. The dome is ticketed; cover shoulders and knees. Entry is delayed on Wednesday mornings for the papal audience.', k: '2026-10' }),
-  'vatican-city-h2': v(20, 30),
+  'vatican-city-h2': v(20, 30, { b: 'no', n: '무료입니다. 행사 날엔 보안 검색을 거쳐 들어갑니다.|Free; on event days entry is through security checks.' }),
   'vatican-city-h3': v(180, 240, { c: 'sun', b: 'rec', s: VAT, t: VAT_T, n: '매월 마지막 일요일은 무료로 열지만 매우 붐빕니다.|Open free on the last Sunday of the month, when it is very crowded.', k: '2026-10' }),
   'vatican-city-h4': v(20, 30, { c: 'sun', s: VAT, t: VAT_T, n: '바티칸 박물관 관람 동선의 끝에 있어 박물관 입장권으로 봅니다. 사진 촬영은 금지입니다.|At the end of the Vatican Museums route, on the museum ticket. Photography is forbidden.', k: '2026-10' }),
   'vatican-city-h5': v(120, 120, { b: 'req', s: VAT, t: VAT_T, n: '가이드 투어로만 들어가며 일요일과 공휴일에는 투어가 없습니다.|Guided tours only; none on Sundays and public holidays.', k: '2026-10' }),
+  'vatican-city-h6': v(60, 90, { s: 'https://www.basilicasanpietro.va/en', n: '유료이며 엘리베이터로 중간까지 올라가도 꼭대기까지는 계단 320여 개를 걸어야 합니다. 좁은 계단이라 폐소공포증이 있으면 힘듭니다.|Ticketed; even with the lift part-way, the last 320-odd steps are on foot, up narrow stairs that are hard going for the claustrophobic.' }),
+  'vatican-city-h7': v(90, 90, { b: 'req', s: 'https://www.basilicasanpietro.va/en', n: '소규모 가이드 투어로만 들어가며 일찍 예약이 차므로 미리 신청해야 합니다.|Small guided tours only, which fill up early; book well ahead.' }),
+  'vatican-city-h8': v(20, 30, { b: 'no', n: '대성당 관람 중에 무료로 내려갑니다.|Free, reached during a basilica visit.' }),
+  'vatican-city-h9': v(30, 45, { s: 'https://www.basilicasanpietro.va/en', n: '유료입니다.|Ticketed.' }),
+  'vatican-city-h10': v(120, 180, { b: 'req', n: '입장권은 무료이며 교황청 궁내원에 미리 신청합니다. 교황 일정에 따라 없는 주가 있습니다.|Tickets are free, requested in advance from the Prefecture of the Papal Household; some weeks there is none, depending on the pope’s schedule.' }),
   // San Marino
   'san-marino-city-h1': v(40, 45, { c: 'daily', s: 'https://www.museidistato.sm/', n: '11월 2일 오후, 12월 25일, 1월 1일은 쉽니다. 제2탑은 공사로 닫혀 있어 지금은 제1탑만 들어갈 수 있습니다.|Closed on the afternoon of 2 November, 25 December and 1 January. The Second Tower is closed for works, so only the First Tower can be entered for now.', k: '2026-11' }),
   'san-marino-city-h2': v(10, 15, { s: 'https://www.museidistato.sm/', n: '탑 내부와 무기 박물관은 공사로 문을 닫았습니다(공식 사이트, 2026년 11월). 다시 여는 날짜는 발표되지 않았고, 탑 바깥과 능선 산책로는 걸을 수 있습니다.|The tower and its arms museum are closed for works (official site, November 2026); no reopening date has been announced. The outside and the ridge path remain open.', k: '2026-11' }),

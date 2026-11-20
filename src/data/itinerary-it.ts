@@ -122,7 +122,7 @@ export const itineraryIt: Record<string, RawItinerary> = {
   siena: [1, 3, 4, 2, 5],
   genoa: [3, 7, 2, 6, 4, 1, 5, 8],
   palermo: { days: [['구시가|Old town', 2, 1, 4, 7, 3, 6], ['카타콤베와 몬델로|Catacombs & Mondello', 8, 9]], trips: [['몬레알레|Monreale', 5]] },
-  'vatican-city': [3, 4, 1, 2],
+  'vatican-city': { days: [['', 3, 4, 1, 8, 6, 2]] },
   valletta: {
     days: [
       ['발레타 시내|Inside Valletta', 2, 1, 7, 3, 9, 8],
