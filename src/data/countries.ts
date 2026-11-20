@@ -1034,7 +1034,11 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#3A0A10',
     },
-    cityIds: ['valletta', 'mdina', 'gozo'],
+    cityIds: ['valletta', 'sliema', 'mdina', 'mellieha', 'gozo'],
+    cityGroups: [
+      { title: { ko: '몰타 섬', en: 'Malta' }, cityIds: ['valletta', 'sliema', 'mdina', 'mellieha'] },
+      { title: { ko: '고조 섬', en: 'Gozo' }, cityIds: ['gozo'] },
+    ],
   },
   {
     id: 'gr',

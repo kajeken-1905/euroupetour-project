@@ -44884,6 +44884,42 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "sliema",
+    countryId: "mt",
+    lat: 35.9122,
+    lng: 14.5042,
+    signatureImage: "/cities/sliema.jpg",
+    name: { ko: "슬리마·세인트줄리언스", en: "Sliema & St Julian’s" },
+    nativeName: "Tas-Sliema / San Ġiljan",
+    blurb: {
+      ko: "발레타 맞은편 해안의 숙박 거점. 바닷가 산책로를 따라 호텔과 카페가 이어지고, 페리로 10분이면 발레타 성벽 아래에 닿으며, 이웃 세인트줄리언스의 작은 만에는 어선과 식당이, 파처빌에는 바와 클럽이 모여 있습니다.",
+      en: "The seaside base facing Valletta: hotels and cafés line the promenade, the ferry reaches the foot of Valletta’s walls in ten minutes, and next-door St Julian’s has fishing boats and restaurants on its little bays and the bars and clubs of Paceville.",
+    },
+    highlights: [
+      {
+        id: "sliema-h1",
+        name: { ko: "슬리마 해안 산책로", en: "Sliema seafront" },
+        description: { ko: "바위 해안을 따라 몇 km 이어지는 산책로로, 바위 수영터와 발레타 전망이 있습니다.", en: "A promenade running for kilometres along the rocky shore, with rock-swimming spots and views across to Valletta." },
+        image: "/highlights/sliema-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tower%20Road%20Sliema",
+      },
+      {
+        id: "sliema-h2",
+        name: { ko: "발루타 만", en: "Balluta Bay" },
+        description: { ko: "네오고딕 카르멜 성당과 아르누보 아파트 발루타 빌딩이 둘러싼 작은 만입니다.", en: "A small bay framed by a neo-Gothic Carmelite church and the Art Nouveau Balluta Buildings." },
+        image: "/highlights/sliema-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Balluta%20Bay",
+      },
+      {
+        id: "sliema-h3",
+        name: { ko: "스피놀라 만", en: "Spinola Bay" },
+        description: { ko: "세인트줄리언스의 작은 만으로, 알록달록한 어선 앞에 식당이 늘어서 있습니다.", en: "St Julian’s little bay, with restaurants facing its brightly painted fishing boats." },
+        image: "/highlights/sliema-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Spinola%20Bay",
+      }
+    ],
+  },
+  {
     id: "mdina",
     countryId: "mt",
     lat: 35.8878,
@@ -44968,6 +45004,56 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dingli%20Cliffs",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
+    ],
+  },
+  {
+    id: "mellieha",
+    countryId: "mt",
+    lat: 35.9564,
+    lng: 14.3622,
+    signatureImage: "/cities/mellieha.jpg",
+    name: { ko: "멜리하", en: "Mellieħa" },
+    nativeName: "Il-Mellieħa",
+    blurb: {
+      ko: "몰타 북쪽 언덕 위 마을로, 아래로 몰타에서 가장 긴 모래 해변 멜리하 만이 펼쳐집니다. 서쪽 골든 베이와 영화 세트장 뽀빠이 마을이 가깝고, 고조·코미노행 배가 뜨는 치르케와까지 차로 10분입니다.",
+      en: "A hilltop village in the north of Malta above Mellieħa Bay, the island’s longest sandy beach. Golden Bay and the Popeye Village film set are close by, and Ċirkewwa, where boats leave for Gozo and Comino, is ten minutes away.",
+    },
+    highlights: [
+      {
+        id: "mellieha-h1",
+        name: { ko: "멜리하 만 (가디라)", en: "Mellieħa Bay (Għadira)" },
+        description: { ko: "몰타에서 가장 긴 모래 해변으로, 물이 얕아 가족 해수욕객이 많습니다.", en: "Malta’s longest sandy beach, with shallow water popular with families." },
+        image: "/highlights/mellieha-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghadira%20Bay",
+      },
+      {
+        id: "mellieha-h2",
+        name: { ko: "골든 베이", en: "Golden Bay" },
+        description: { ko: "서쪽 해안 절벽 사이의 모래 해변으로, 해 질 녘이 아름답습니다.", en: "A sandy beach between cliffs on the west coast, lovely at sunset." },
+        image: "/highlights/mellieha-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Golden%20Bay%20Malta",
+      },
+      {
+        id: "mellieha-h3",
+        name: { ko: "멜리하 성모 성지", en: "Sanctuary of Our Lady of Mellieħa" },
+        description: { ko: "바위 동굴 안에 성모 벽화가 있는 오래된 순례 성당입니다.", en: "An old pilgrimage church built into the rock, with a painting of the Virgin on the cave wall." },
+        image: "/highlights/mellieha-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sanctuary%20of%20Our%20Lady%20of%20Mellieha",
+      },
+      {
+        id: "mellieha-h4",
+        name: { ko: "뽀빠이 마을", en: "Popeye Village" },
+        description: { ko: "1980년 영화 ‘뽀빠이’ 세트장을 남긴 바닷가 나무 마을로, 가족 테마파크로 운영합니다.", en: "The wooden seaside set built for the 1980 film Popeye, now run as a family theme park." },
+        image: "/highlights/mellieha-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Popeye%20Village%20Malta",
+      },
+      {
+        id: "mellieha-h5",
+        name: { ko: "붉은 탑 (성 아가타 탑)", en: "Red Tower (St Agatha’s Tower)" },
+        description: { ko: "마를레나 능선 위 17세기 기사단 망루로, 북쪽 바다와 코미노·고조가 내려다보입니다.", en: "A 17th-century Knights’ watchtower on the Marfa ridge, looking over the northern sea to Comino and Gozo." },
+        image: "/highlights/mellieha-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Red%20Tower%20Mellieha",
+      }
     ],
   },
   {

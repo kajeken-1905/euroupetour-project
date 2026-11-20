@@ -5353,12 +5353,34 @@ export const cityTransitById: Record<string, CityTransit> = {
   gozo: {
     modes: ['ferry', 'bus', 'taxi', 'rideshare', 'walk'],
     airportToCity: {
-      ko: '인근 공항에서 버스·택시·렌터로 Gozo에 들어옵니다. 배차가 많지 않을 수 있으니 시간을 확인하세요.',
-      en: 'Reach Gozo from the nearest airport by bus, taxi, or rental—check sparse schedules.',
+      ko: '몰타 공항에서 버스나 택시로 치르케와 항에 가서 고조 채널 페리(약 25분)를 타거나, 발레타에서 쾌속선(약 45분)을 탑니다.',
+      en: 'From Malta airport take a bus or taxi to Ċirkewwa for the Gozo Channel ferry (about 25 min), or the fast ferry from Valletta (about 45 min).',
     },
     howTo: {
-      ko: 'Gozo: 페리·버스·도보를 조합합니다. 배 시간표를 먼저 확인하세요.',
-      en: 'Combine ferry, bus, and walking in Gozo. Check boat timetables first.',
+      ko: '섬 안은 빅토리아 버스터미널에서 퍼지는 버스로 다니고, 해안 마을은 택시가 편합니다.',
+      en: 'Buses fan out from the Victoria terminus; taxis are easier for the coastal villages.',
+    },
+    apps: [
+      ta('tallinja', { ko: '버스 노선·실시간·교통카드', en: 'Bus routes, live times, Tallinja card' }),
+      ta('bolt'),
+    ],
+  },
+  sliema: {
+    modes: ['walk', 'bus', 'ferry', 'taxi', 'rideshare'],
+    howTo: {
+      ko: '해안 산책로를 따라 걸어 다니고, 발레타는 페리나 버스로 오갑니다.',
+      en: 'Walk the promenade; take the ferry or a bus to Valletta.',
+    },
+    apps: [
+      ta('tallinja', { ko: '버스 노선·실시간·교통카드', en: 'Bus routes, live times, Tallinja card' }),
+      ta('bolt'),
+    ],
+  },
+  mellieha: {
+    modes: ['bus', 'walk', 'taxi', 'rideshare'],
+    howTo: {
+      ko: '마을과 멜리하 만은 걸어서 오가고, 골든 베이·뽀빠이 마을·치르케와는 버스나 택시로 갑니다.',
+      en: 'Walk between the village and the bay; take a bus or taxi to Golden Bay, Popeye Village and Ċirkewwa.',
     },
     apps: [
       ta('tallinja', { ko: '버스 노선·실시간·교통카드', en: 'Bus routes, live times, Tallinja card' }),

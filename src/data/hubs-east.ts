@@ -41,6 +41,14 @@ export const hubsEast: Record<string, RawCityHubs> = {
     port: [['Mġarr Harbour', '므자르 항구', '몰타 본섬 치르케와행 페리|ferry to Ċirkewwa on the main island']],
   },
 
+  sliema: {
+    air: [MLA()],
+    port: [['Sliema Ferries', '슬리마 페리 선착장', '발레타행 페리·유람선|ferry to Valletta, harbour cruises']],
+  },
+  mellieha: {
+    air: [MLA()],
+    port: [['Ċirkewwa Ferry Terminal', '치르케와 페리 터미널', '고조·코미노행 배|ferries to Gozo and Comino']],
+  },
   // —— gr ——
   thessaloniki: {
     air: [['Thessaloniki Makedonia (SKG)', '테살로니키 마케도니아 공항 (SKG)']],

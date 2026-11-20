@@ -46,6 +46,14 @@ export const visitMed: Record<string, HighlightVisit> = {
   'gozo-h7': v(30, 45),
   'gozo-h8': v(45, 90),
   'gozo-h9': v(120, 240, { n: '고조 음자르 항이나 몰타 치르케와에서 배로 갑니다. 그늘이 거의 없어 이른 시간이 좋습니다.|Boats from Mġarr on Gozo or Ċirkewwa on Malta; there is little shade, so go early.' }),
+  'mellieha-h1': v(120, 240),
+  'mellieha-h2': v(120, 240),
+  'mellieha-h3': v(20, 30, { n: '어깨와 무릎을 가리는 차림이 좋고, 미사 중에는 관람을 삼갑니다.|Cover shoulders and knees, and avoid visiting during Mass.' }),
+  'mellieha-h4': v(90, 150, { n: '유료입니다.|Ticketed.' }),
+  'mellieha-h5': v(30, 45),
+  'sliema-h1': v(60, 90),
+  'sliema-h2': v(20, 30),
+  'sliema-h3': v(30, 45),
 
   // Thessaloniki
   'thessaloniki-h1': v(40, 45, { c: 'daily', b: 'no', s: 'https://www.mbp.gr/en/news/extension-of-the-white-towers-opening-hours-until-2100/', k: '2026-10', x: [['2026년 11월 1일까지 매일 21:00까지 엽니다.|Open until 21:00 daily until 1 November 2026.', '2026-11-01']] }),

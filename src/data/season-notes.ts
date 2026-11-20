@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  mellieha: { n: '6~9월이 해수욕철이고, 7~8월 해변은 매우 붐빕니다.|June–September is beach season, and the beaches are packed in July and August.' },
+  sliema: { n: '4~6월과 9~10월이 걷기·수영에 좋습니다. 7~8월은 덥고 붐빕니다.|April–June and September–October are best for walking and swimming; July and August are hot and crowded.' },
   lankaran: { n: '5~6월과 9~10월이 좋습니다. 여름은 습하고, 가을~겨울엔 비가 많습니다.|May–June and September–October are best; summers are humid, and autumn and winter are rainy.' },
   ganja: { n: '4~6월과 9~10월이 좋습니다. 여름 시내는 무덥고, 괴이괼은 겨울에 길이 얼 수 있습니다.|April–June and September–October are best; summer is hot in town, and the Goygol road can ice up in winter.' },
   qakh: { n: '5~10월이 좋습니다. 일리수 폭포 숲길은 비 온 뒤 미끄럽습니다.|May–October is best; the forest path to the Ilisu waterfall is slippery after rain.' },

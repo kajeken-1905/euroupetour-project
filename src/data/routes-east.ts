@@ -12,6 +12,11 @@ export const routesEast: RawRoute[] = [
   // —— mt / cy ——
   r('valletta', 'mdina', 'bus', 30),
   r('valletta', 'gozo', 'ferry', 45, { n: '쾌속선 · 므자르 항구 도착|fast ferry · arrives at Mġarr' }),
+  r('valletta', 'mellieha', 'bus', 60),
+  r('sliema', 'mellieha', 'bus', 50),
+  r('mellieha', 'gozo', 'mixed', 45, { n: '치르케와에서 고조 채널 페리 약 25분|Gozo Channel ferry from Ċirkewwa, about 25 min' }),
+  r('valletta', 'sliema', 'ferry', 10, { n: '슬리마 페리|Sliema ferry' }),
+  r('valletta', 'sliema', 'bus', 20),
   r('nicosia', 'limassol', 'bus', 90),
   r('nicosia', 'paphos', 'bus', 120),
   r('nicosia', 'ayia-napa', 'bus', 90),

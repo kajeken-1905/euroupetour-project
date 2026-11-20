@@ -2463,6 +2463,13 @@ export const STAY: Record<string, StayArea[]> = {
     a('음디나·라바트', 'Mdina and Rabat', 'Rabat, Malta', '조용한 중세 마을|Quiet medieval town', '성벽 안 작은 숙소에서 골목과 궁전을 걸어서 봅니다. 바로 붙은 라바트는 대중교통이 편하고 큰 숙소가 있습니다.|Small boutique stays inside the walls, steps from the lanes and palaces; neighbouring Rabat has easier buses and larger hotels.'),
     a('발레타에서 다녀오기', 'Base in Valletta', 'Valletta', '식당·저녁|Dining, evenings', '식당과 저녁 분위기는 발레타가 낫습니다. 음디나는 당일로 다녀옵니다.|Valletta is livelier for dinner and evenings; visit Mdina as a day trip.'),
   ],
+  sliema: [
+    a('슬리마 해안', 'Sliema seafront', 'Tower Road Sliema', '바다·발레타 접근|Sea, easy Valletta', '산책로를 따라 호텔이 많고, 페리로 발레타까지 약 10분입니다.|Plenty of hotels along the promenade, about 10 minutes from Valletta by ferry.'),
+    a('세인트줄리언스·파처빌', 'St Julian’s & Paceville', 'Paceville', '밤 문화|Nightlife', '식당·바·클럽이 모여 밤늦게까지 시끄럽습니다.|Restaurants, bars and clubs, lively and noisy late into the night.'),
+  ],
+  mellieha: [
+    a('멜리하 마을·해변', 'Mellieħa village & bay', 'Mellieħa', '해변·고조 거점|Beaches, base for Gozo', '언덕 위 마을과 아래 해변에 호텔이 있고, 치르케와 페리 터미널까지 차로 약 10분입니다.|Hotels in the hilltop village and down by the bay, about 10 minutes by road from the Ċirkewwa ferry terminal.'),
+  ],
   tartu: [
     a('구시가 (시청 광장 주변)', 'Old town (Town Hall Square)', 'Town Hall Square, Tartu', '걸어서 구경|Sights on foot', '시청 광장과 대학, 토메매기 언덕이 걸어서 닿습니다.|Town Hall Square, the university and Toomemägi hill on foot.'),
   ],

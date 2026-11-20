@@ -135,6 +135,8 @@ export const itineraryIt: Record<string, RawItinerary> = {
   },
   mdina: { days: [['', 1, 4, 2, 5, 3, 8, 6, 7]], trips: [['딩글리 절벽|Dingli Cliffs', 9]] },
   gozo: { days: [['', 1, 2, 6, 3], ['', 7, 8, 4, 5]], trips: [['코미노 블루 라군|Comino', 9]] },
+  sliema: {"days": [["", 1, 2, 3]]},
+  mellieha: {"days": [["", 3, 5, 1], ["", 4, 2]]},
   'san-marino-city': [3, 1, 2],
   'borgo-maggiore': [2, 1],
 }

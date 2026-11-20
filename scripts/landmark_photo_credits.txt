@@ -4761,3 +4761,13 @@ highlights/gozo-7.jpg | https://commons.wikimedia.org/wiki/File:Xwejni_Salt_Pans
 highlights/gozo-8.jpg | https://commons.wikimedia.org/wiki/File:Wied_il-G%C4%A7asri_2025-05-05_(1).jpg | CC BY-SA 2.5 ca | The Cosmonaut
 highlights/valletta-8.jpg | https://commons.wikimedia.org/wiki/File:Casa_Rocca_Piccola_30.jpg | CC0 | Edelmauswaldgeist
 highlights/gozo-9.jpg | https://www.flickr.com/photos/91124353@N05/8590785264 | BY 2.0 | sky_hlv
+cities/sliema.jpg | https://commons.wikimedia.org/wiki/File:Malta_-_Sliema_-_Triq_Ix-Xatt_-_Sliema_Harbour_05.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/sliema-1.jpg | https://commons.wikimedia.org/wiki/File:Malta_-_St._Julian%27s_-_Sliema_-_Tower_Road_-_Sliema_Promenade_-_Font_Ghadir_-_360%C2%B0_Panorama_03.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/sliema-2.jpg | https://commons.wikimedia.org/wiki/File:Church_Our_Lady_of_Mount_Carmel_Balluta_Bay_03.jpg | CC BY-SA 4.0 | This photo was taken by Anton Zelenov.
+highlights/sliema-3.jpg | https://commons.wikimedia.org/wiki/File:Spinola_Bay_to_St_Georges_Bay_Entrenchment.jpg | CC BY-SA 4.0 | Josi
+cities/mellieha.jpg | https://commons.wikimedia.org/wiki/File:Pueblo_de_Popeye,_Mellie%C4%A7a,_isla_de_Malta,_Malta,_2021-08-24,_DD_02-03_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/mellieha-1.jpg | https://commons.wikimedia.org/wiki/File:Mellieha_Bay_view_on_Mellieha_Malta_21.jpg | CC BY-SA 3.0 | Karelj
+highlights/mellieha-2.jpg | https://commons.wikimedia.org/wiki/File:Golden_Bay_and_Gnejna_Bay_at_Sunset.jpg | CC BY-SA 4.0 | AbbyT93
+highlights/mellieha-3.jpg | https://commons.wikimedia.org/wiki/File:Malta_-_Mellieha_-_Misrah_il-Parocca_-_Sanctuary_of_our_Lady_of_Mellieha_01_ies.jpg | CC BY-SA 3.0 | Frank Vincentz
+highlights/mellieha-4.jpg | https://commons.wikimedia.org/wiki/File:Pueblo_de_Popeye,_Mellie%C4%A7a,_isla_de_Malta,_Malta,_2021-08-24,_DD_02-03_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/mellieha-5.jpg | https://commons.wikimedia.org/wiki/File:St._Agatha%27s_Tower_(The_Red_Tower),_Mellieha,_Malta.jpg | CC BY-SA 4.0 | BoneA
