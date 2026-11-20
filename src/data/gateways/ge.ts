@@ -75,4 +75,22 @@ export const GATEWAYS: Gateway[] = [
     site: 'https://www.batumiairport.com/en',
     checked: '2026-10',
   },
+  {
+    id: 'gw-mestia',
+    cityId: 'mestia',
+    kind: 'air',
+    name: '메스티아 타마르 여왕 공항|Mestia Queen Tamar Airport',
+    image: '/gateways/gw-mestia.jpg',
+    about: '스바네티 메스티아 가까이의 작은 산악 공항(해발 1,480m)으로, 국내선만 다닙니다. 트빌리시 근교 나타흐타리 비행장과 쿠타이시에서 정기편이 옵니다. 산악 날씨로 결항이 잦을 수 있습니다.|A small mountain airport (1,480 m) close to Mestia in Svaneti, with domestic flights only: regular services from Natakhtari airfield near Tbilisi and from Kutaisi. Mountain weather can cancel flights.',
+    options: [
+      {
+        mode: 'taxi',
+        name: '택시|Taxi',
+        route: '공항 → 메스티아 시내|Airport → Mestia',
+      },
+    ],
+    maps: 'Mestia Queen Tamar Airport',
+    site: 'https://www.airports.ge/en/about-us/airports/mestia',
+    checked: '2026-11',
+  },
 ]
