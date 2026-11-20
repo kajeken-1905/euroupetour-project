@@ -4741,3 +4741,23 @@ highlights/lankaran-3.jpg | https://commons.wikimedia.org/wiki/File:Caspian_Hyrc
 highlights/lankaran-2.jpg | https://commons.wikimedia.org/wiki/File:L%C9%99nk%C9%99ran_xan_saray%C4%B1_(4793)_7.jpg | CC BY-SA 4.0 | Rəcəb Yaxşı
 highlights/lankaran-1.jpg | https://commons.wikimedia.org/wiki/File:Lankaran_castle.jpg | CC BY-SA 4.0 | Азербайджан-е-Джануби
 gateways/gw-gnj.jpg | https://commons.wikimedia.org/wiki/File:4K-AZ03_GANJA-_Airbus_A319-111_-_Azerbaijan_Airlines.jpg | CC BY 4.0 | UzeyirMikayil
+highlights/valletta-6.jpg | https://commons.wikimedia.org/wiki/File:Valletta_Lower_Barrakka_gardens_Malta_2014_2.jpg | CC BY-SA 3.0 | Karelj
+highlights/valletta-7.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_the_Grand_Masters,_Rhodes.jpg | CC BY 2.0 | David Spender
+highlights/valletta-9.jpg | https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Republic_Street_-_At_National_Museum_of_Archaeology.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/valletta-10.jpg | https://commons.wikimedia.org/wiki/File:Auberge_d%27Italie,_Valletta_001.jpg | CC BY-SA 4.0 | Matthew Axiak
+highlights/valletta-11.jpg | https://commons.wikimedia.org/wiki/File:Malta-Fort_St.Angelo-Birgu-ISymeonidis.tif | CC BY-SA 4.0 | Isymeoni
+highlights/valletta-12.jpg | https://commons.wikimedia.org/wiki/File:Fort_St._Angelo_2009.jpg | CC BY 3.0 | Felix König
+highlights/valletta-13.jpg | https://commons.wikimedia.org/wiki/File:Hal_Saflieni_Hypogeum_%E2%80%93_Upper_Level.jpg | CC BY 2.0 | xiquinhosilva
+highlights/valletta-14.jpg | https://commons.wikimedia.org/wiki/File:Templos_de_Tarxien,_isla_de_Malta,_Malta,_2021-08-25,_DD_29.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/valletta-15.jpg | https://commons.wikimedia.org/wiki/File:Malta_Marsaxlokk_BW_011-10-04_14-40-27.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/valletta-16.jpg | https://commons.wikimedia.org/wiki/File:Malta_Blue_Grotto_BW_2011-10-09_11-08-16.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/valletta-17.jpg | https://commons.wikimedia.org/wiki/File:Complejo_de_%C4%A6a%C4%A1ar_Qim,_isla_de_Malta,_Malta,_2021-08-25,_DD_63.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/mdina-6.jpg | https://commons.wikimedia.org/wiki/File:Catacombas_de_San_Pablo,_Rabat,_isla_de_Malta,_Malta,_2021-08-25,_DD_164.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/mdina-7.jpg | https://commons.wikimedia.org/wiki/File:St._Paul%27s_Grotto,_Rabat_02.jpg | CC BY-SA 4.0 | Simon Burchell
+highlights/mdina-8.jpg | https://commons.wikimedia.org/wiki/File:Domus_Romana,_Rabat_0629.jpg | CC BY-SA 4.0 | Justlettersandnumbers
+highlights/mdina-9.jpg | https://commons.wikimedia.org/wiki/File:Sunset_in_Dingli.jpg | CC BY-SA 4.0 | CapturedMomentsAbbyPhotography
+highlights/gozo-6.jpg | https://commons.wikimedia.org/wiki/File:Malta_Gozo_Ta_Pinu_BW_2011-10-08_10-18-54.JPG | CC BY-SA 3.0 | Berthold Werner
+highlights/gozo-7.jpg | https://commons.wikimedia.org/wiki/File:Xwejni_Salt_Pans_05.jpg | CC BY-SA 4.0 | G.Mannaerts
+highlights/gozo-8.jpg | https://commons.wikimedia.org/wiki/File:Wied_il-G%C4%A7asri_2025-05-05_(1).jpg | CC BY-SA 2.5 ca | The Cosmonaut
+highlights/valletta-8.jpg | https://commons.wikimedia.org/wiki/File:Casa_Rocca_Piccola_30.jpg | CC0 | Edelmauswaldgeist
+highlights/gozo-9.jpg | https://www.flickr.com/photos/91124353@N05/8590785264 | BY 2.0 | sky_hlv

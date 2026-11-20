@@ -12891,5 +12891,55 @@
     40.67752,
     46.35887,
     "OSM Nominatim: Şah Abbas Məscidi, Heydər Əliyev, Nizami rayonu, Gəncə İnzib (Wikipedia 3m)"
+  ],
+  "valletta-h7": [
+    35.89856,
+    14.5145,
+    "OSM Nominatim: Grand Master's Palace, طريق القديس فريدريك, Il-Kamrata, Il-B (Wikipedia 31m)"
+  ],
+  "valletta-h8": [
+    35.89988,
+    14.51535,
+    "OSM Nominatim: Casa Rocca Piccola, 74, Triq ir-Repubblika, Diju Balli, Il-B (Wikipedia 7m)"
+  ],
+  "valletta-h11": [
+    35.88811,
+    14.52384,
+    "OSM Nominatim: Il-Birgu, Reġjun tal-Port, Malta (Wikipedia 121m)"
+  ],
+  "valletta-h12": [
+    35.89181,
+    14.51842,
+    "OSM Nominatim: Forti Sant'Anġlu, Ix-Xatt tal-Birgu, Il-Birgu, Reġjun tal-Po (Wikipedia 17m)"
+  ],
+  "valletta-h13": [
+    35.86955,
+    14.50689,
+    "OSM Nominatim: L-Ipoġew ta' Ħal Saflieni, Triq iċ-Ċimiterju, Raħal Ġdid, Re (Wikipedia 9m)"
+  ],
+  "valletta-h15": [
+    35.84177,
+    14.54484,
+    "OSM Nominatim: Marsaxlokk, Reġjun tan-Nofsinhar, Malta (Wikipedia 15m)"
+  ],
+  "valletta-h17": [
+    35.8272,
+    14.44353,
+    "OSM Nominatim: Ħaġar Qim, Triq il-Panorama, Wied iż-Żurrieq, Il-Qrendi, Reġ (Wikipedia 134m)"
+  ],
+  "mdina-h6": [
+    35.88136,
+    14.39742,
+    "OSM Nominatim: Katakombi ta' San Pawl, Triq Bir ir-Riebu, Sqaq Numru 3, Ħal (Wikipedia 76m)"
+  ],
+  "mdina-h8": [
+    35.88524,
+    14.40035,
+    "OSM Nominatim: Domus Romana, Wesgħa tal-Mużew, Ħal Bajjada, Tal-Virtù, Ir-R (Wikipedia 25m)"
+  ],
+  "gozo-h8": [
+    36.07869,
+    14.22822,
+    "OSM Nominatim: Wied il-Għasri, L-Għasri, Reġjun Għawdex, Malta (Wikipedia 28m)"
   ]
 }

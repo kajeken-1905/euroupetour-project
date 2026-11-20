@@ -123,9 +123,18 @@ export const itineraryIt: Record<string, RawItinerary> = {
   genoa: [3, 7, 2, 6, 4, 1, 5, 8],
   palermo: { days: [['구시가|Old town', 2, 1, 4, 7, 3, 6], ['카타콤베와 몬델로|Catacombs & Mondello', 8, 9]], trips: [['몬레알레|Monreale', 5]] },
   'vatican-city': [3, 4, 1, 2],
-  valletta: [3, 1, 2, 4, 5],
-  mdina: [1, 4, 2, 5, 3],
-  gozo: [3, 5, 1, 2, 4],
+  valletta: {
+    days: [
+      ['발레타 시내|Inside Valletta', 2, 1, 7, 3, 9, 8],
+      ['요새와 그랜드 하버|Forts & the Grand Harbour', 10, 5, 6, 4, 11, 12],
+    ],
+    trips: [
+      ['하이포지움과 타르시엔|Hypogeum & Tarxien', 13, 14],
+      ['남부 해안|South coast', 15, 16, 17],
+    ],
+  },
+  mdina: { days: [['', 1, 4, 2, 5, 3, 8, 6, 7]], trips: [['딩글리 절벽|Dingli Cliffs', 9]] },
+  gozo: { days: [['', 1, 2, 6, 3], ['', 7, 8, 4, 5]], trips: [['코미노 블루 라군|Comino', 9]] },
   'san-marino-city': [3, 1, 2],
   'borgo-maggiore': [2, 1],
 }
