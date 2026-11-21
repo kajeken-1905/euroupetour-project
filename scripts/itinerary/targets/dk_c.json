@@ -1,0 +1,58 @@
+{
+ "aarhus-h1": [
+  "ARoS Aarhus Kunstmuseum",
+  "ARoS Aarhus Art Museum"
+ ],
+ "odense-h1": [
+  "H.C. Andersens Hus, Odense",
+  "Hans Christian Andersen Museum"
+ ],
+ "odense-h4": [
+  "Sankt Knuds Kirke, Odense",
+  "St. Canute's Cathedral"
+ ],
+ "odense-h5": [
+  "Den Fynske Landsby",
+  "The Funen Village"
+ ],
+ "odense-h6": [
+  "Egeskov Slot",
+  "Egeskov Castle"
+ ],
+ "aalborg-h2": [
+  "Utzon Center, Aalborg",
+  "Utzon Center"
+ ],
+ "aalborg-h3": [
+  "Jomfru Ane Gade, Aalborg",
+  "Aalborg"
+ ],
+ "aalborg-h5": [
+  "Budolfi Kirke",
+  "Budolfi Church"
+ ],
+ "aalborg-h6": [
+  "Kunsten, Aalborg",
+  "KUNSTEN Museum of Modern Art Aalborg"
+ ],
+ "aalborg-h7": [
+  "Lindholm Høje",
+  "Lindholm Høje"
+ ],
+ "roskilde-h4": [
+  "Stændertorvet, Roskilde",
+  "Roskilde"
+ ],
+ "roskilde-h3": [
+  "Roskilde Fjord, Vikingeskibsmuseet",
+  "Roskilde"
+ ],
+ "roskilde-h5": [
+  "Sagnlandet Lejre",
+  "Sagnlandet Lejre"
+ ],
+ "aarhus-h6": [
+  "Moesgaard Museum",
+  "Moesgaard Museum"
+ ]
+}

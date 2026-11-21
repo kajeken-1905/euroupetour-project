@@ -134,10 +134,10 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
     trips: [['크론보르 성|Kronborg Castle', 15], ['프레데릭스보르 성|Frederiksborg Castle', 16], ['루이지애나 미술관|Louisiana', 17]],
   },
-  aarhus: [2, 1, 4, 3, 5],
-  odense: [4, 3, 2, 1],
-  aalborg: [4, 1, 2, 3],
-  roskilde: [4, 2, 1, 3],
+  aarhus: { days: [['', 2, 1, 4, 3, 5]], trips: [['모에스고르 박물관|Moesgaard Museum', 6]] },
+  odense: { days: [['', 1, 2, 4, 3, 5]], trips: [['에게스코우 성|Egeskov Castle', 6]] },
+  aalborg: { days: [['', 4, 5, 1, 2, 6, 3]], trips: [['린홀름 회예|Lindholm Høje', 7]] },
+  roskilde: { days: [['', 2, 4, 1, 3]], trips: [['레이레|Lejre', 5]] },
   budapest: {
     days: [
       ['부다 왕궁 언덕|Castle Hill', 5, 7, 9, 2, 19, 10, 18],

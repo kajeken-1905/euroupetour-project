@@ -30,21 +30,28 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'aarhus-h3': v(45, 60),
   'aarhus-h4': v(20, 30, { b: 'no', s: 'https://www.visitaarhus.com/aarhus/planlaeg/aarhus-domkirke-gdk1077542', n: '입장 무료. 종탑만 유료입니다.|Free; only the tower is paid.', k: '2026-10' }),
   'aarhus-h5': v(20, 30, { c: 'daily', b: 'no', s: 'https://dokk1.dk/aabningstider-i-dokk1', n: '입장 무료. 평일 8:00~22:00, 주말 10:00~16:00. 공휴일에는 닫습니다.|Free. Weekdays 8:00–22:00, weekends 10:00–16:00; closed on public holidays.', k: '2026-10' }),
+  'aarhus-h6': v(120, 180),
   // Odense
   'odense-h1': v(90, 120, { b: 'rec', s: 'https://hcandersenshus.dk/en/', k: '2026-10' }),
   'odense-h2': v(45, 60),
   'odense-h3': v(30, 45),
   'odense-h4': v(20, 30, { c: 'daily', b: 'no', s: 'https://www.visitdenmark.se/odense-domkirke-skt-knuds-kirke-gdk1077438', n: '입장 무료. 수요일 11:45~12:30 정오 기도 중에는 둘러볼 수 없습니다.|Free. No sightseeing during Wednesday noon prayers (11:45–12:30).', k: '2026-10' }),
+  'odense-h5': v(90, 120),
+  'odense-h6': v(180, 240),
   // Aalborg
   'aalborg-h1': v(60, 75, { c: 'mon', s: 'https://utzoncenter.dk/en', n: '여름 방학 기간(27~32주, 대략 7월~8월 초)에는 월요일에도 엽니다.|Open on Mondays too during the Danish summer holidays (weeks 27–32, roughly July to early August).', k: '2026-10' }),
   'aalborg-h2': v(30, 45),
   'aalborg-h3': v(20, 30),
   'aalborg-h4': v(15, 20),
+  'aalborg-h5': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
+  'aalborg-h6': v(60, 90),
+  'aalborg-h7': v(60, 90, { b: 'no' }),
   // Roskilde
   'roskilde-h1': v(150, 180, { c: 'daily', s: 'https://www.vikingeskibsmuseet.dk/en/', k: '2026-10' }),
   'roskilde-h2': v(45, 60, { c: 'daily', s: 'https://roskildedomkirke.dk/english', n: '예배·장례가 있으면 관광 입장이 중단됩니다.|Sightseeing stops during services and funerals.', k: '2026-10' }),
   'roskilde-h3': v(30, 45),
   'roskilde-h4': v(15, 20),
+  'roskilde-h5': v(120, 180),
 
   // Stockholm
   'stockholm-h1': v(120, 180, { c: 'daily', s: 'https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace.html', n: '국가 행사가 있으면 일부 또는 전체를 닫습니다. 근위병 교대식은 낮에 바깥뜰에서 열립니다. 왕실 공식 행사가 있는 날에는 일부 또는 전부를 닫습니다.|Partly or fully closed for state occasions. The guard changes in the outer courtyard around midday. Parts or all of it close for official royal events.', k: '2026-10' }),

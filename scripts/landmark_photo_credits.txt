@@ -4974,3 +4974,10 @@ highlights/dinant-8.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d
 highlights/vianden-5.jpg | https://commons.wikimedia.org/wiki/File:Vianden_Trinitarian_Cloisters_R01.jpg | CC BY 3.0 | Marc Ryckaert
 highlights/echternach-5.jpg | https://commons.wikimedia.org/wiki/File:Echternach,_villa_romaine_(111).jpg | CC BY-SA 4.0 | GilPe
 highlights/remich-5.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Schengen_from_Markusberg_a.jpg | CC BY-SA 3.0 | Cayambe
+highlights/odense-5.jpg | https://commons.wikimedia.org/wiki/File:Den_Fynske_Landsby_-_d.jpg | CC BY-SA 4.0 | Thomas Dahlstrøm Nielsen
+highlights/odense-6.jpg | https://commons.wikimedia.org/wiki/File:Egeskov_Slot_spejling_Edit_2.jpg | CC BY-SA 3.0 | Malene Thyssen
+highlights/aalborg-5.jpg | https://commons.wikimedia.org/wiki/File:Budolfi_kirke_-_panoramio.jpg | CC BY-SA 3.0 | Ralf Skjerning
+highlights/aalborg-6.jpg | https://commons.wikimedia.org/wiki/File:KUNSTEN_Aalborg_2006.jpg | CC BY-SA 3.0 | KUNSTEN Museum of Modern Art Aalborg
+highlights/aalborg-7.jpg | https://commons.wikimedia.org/wiki/File:Lindholm_H%C3%B8je_N%C3%B8rresundby.jpg | CC BY-SA 4.0 | Mikkel Houmøller
+highlights/roskilde-5.jpg | https://commons.wikimedia.org/wiki/File:Lejre_Iron_age_village_DSCN0529_w1536.jpg | CC BY-SA 4.0 | Per Meistrup
+highlights/aarhus-6.jpg | https://commons.wikimedia.org/wiki/File:Moesgaard,_Aarhus_Denemarken_(45511131525).jpg | CC BY-SA 2.0 | Nanda Sluijsmans from Den Haag, Nederland

@@ -13545,5 +13545,60 @@
     49.8134,
     6.42172,
     "OSM Nominatim: Basilique Saint-Willibrord, Parvis de la Basilique, Echterna (Wikipedia 78m)"
+  ],
+  "aarhus-h1": [
+    56.15389,
+    10.1996,
+    "OSM Nominatim: ARoS Kunstmuseum, Your rainbow panorama, Frederiksbjerg, Aar (Wikipedia 0m)"
+  ],
+  "odense-h1": [
+    55.39873,
+    10.39077,
+    "OSM Nominatim: H. C. Andersens Hus, Bangs Boder, H. C. Andersenkvarteret, C (Wikipedia 26m)"
+  ],
+  "odense-h4": [
+    55.39541,
+    10.38897,
+    "OSM Nominatim: Sankt Knuds Kirke, Flakhaven, City Campus, Odense, Odense Ko (Wikipedia 1m)"
+  ],
+  "odense-h5": [
+    55.3654,
+    10.38422,
+    "OSM Nominatim: Den Fynske Landsby, Sejerskovvej, Hjallese, Odense, Odense K (Wikipedia 49m)"
+  ],
+  "odense-h6": [
+    55.17619,
+    10.49015,
+    "OSM Nominatim: Egeskov Slot, Egeskov Gade, Kværndrup, Faaborg-Midtfyn Kommu (Wikipedia 50m)"
+  ],
+  "aalborg-h2": [
+    57.04946,
+    9.92641,
+    "OSM Nominatim: Utzon Center, Nyhavnsgade, Kanalbyen, Havnefronten, Stigsbor (Wikipedia 119m)"
+  ],
+  "aalborg-h5": [
+    57.0479,
+    9.91943,
+    "OSM Nominatim: Budolfi Kirke, Algade, Havnefronten, Vestbyen, Aalborg, Aalb (Wikipedia 14m)"
+  ],
+  "aalborg-h6": [
+    57.04255,
+    9.90578,
+    "OSM Nominatim: Kunsten, Kong Christians Alle, Hasseris Villaby, Vestbyen, A (Wikipedia 11m)"
+  ],
+  "aalborg-h7": [
+    57.07688,
+    9.91228,
+    "OSM Nominatim: Lindholm Høje, Højens Alle, Voerbjerg, Lindholm, Aalborg, Aa (Wikipedia 41m)"
+  ],
+  "roskilde-h5": [
+    55.61791,
+    11.94551,
+    "OSM Nominatim: Sagnlandet Lejre, Slangealleen, Allerslev, Lejre Kommune, Re (Wikipedia 253m)"
+  ],
+  "aarhus-h6": [
+    56.08635,
+    10.22252,
+    "OSM Nominatim: Moesgaard Museum, Moesgård Allé, Moesgård Huse, Aarhus, Aarh (Wikipedia 245m)"
   ]
 }
