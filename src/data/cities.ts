@@ -34859,14 +34859,14 @@ export const cities: City[] = [
     nativeName: "St Peter Port / Saint-Pierre-Port",
     cardTagline: { ko: "코넷 성", en: "Castle Cornet" },
     blurb: {
-      ko: "건지의 항구 도시. 언덕을 따라 돌집이 늘어서고 빅토르 위고가 망명 시절 살던 집이 있습니다.",
-      en: "Guernsey's harbour town, its stone houses climbing the hill, where Victor Hugo lived in exile.",
+      ko: "영국 왕실령 건지섬의 중심 항구 도시로, 언덕을 따라 화강암 집과 좁은 계단길이 이어집니다. 항구 입구를 지키는 코넷 성, 빅토르 위고가 망명 중 15년을 산 오트빌 하우스, 15세기 타운 교회가 있고, 버스로 섬 남쪽의 작은 예배당과 서해안의 썰물 섬 리우까지 다녀옵니다. 사크·험섬으로 가는 배도 여기서 탑니다.",
+      en: "The harbour town of Guernsey, a British Crown Dependency, climbing a hillside of granite houses and steep stepped lanes. Castle Cornet guards the harbour mouth, Victor Hugo spent fifteen years of exile at Hauteville House, and the Town Church dates to the 15th century; buses run out to the Little Chapel in the south and the tidal island of Lihou on the west coast. Boats to Sark and Herm leave from here.",
     },
     highlights: [
       {
         id: "st-peter-port-h1",
         name: { ko: "코넷 성", en: "Castle Cornet" },
-        description: { ko: "항구 입구를 지키는 800년 된 성으로, 박물관과 정오 대포 의식이 있습니다.", en: "800-year-old castle guarding the harbour entrance, with museums and a noon-day gun." },
+        description: { ko: "항구 입구 바위섬에 선 800년 된 성으로, 옛날엔 썰물 때만 이어지던 섬이었지만 1859년 방파제로 육지와 연결됐습니다. 성 안에 박물관 여러 곳이 있고, 매일 정오에 대포를 쏘는 의식이 열립니다.", en: "An 800-year-old castle on a rock at the harbour mouth, once a tidal island but joined to the shore by the breakwater in 1859. Inside are several museums, and a cannon is fired every day at noon." },
         image: "/highlights/st-peter-port-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Castle%20Cornet%20Guernsey",
       },
@@ -34885,6 +34885,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=The%20Little%20Chapel%20Guernsey",
       },
       {
+        id: "st-peter-port-h6",
+        name: { ko: "타운 교회", en: "Town Church" },
+        description: { ko: "세인트피터포트의 교구 교회로, 1020년 기록에 작은 예배당이 처음 나오며 지금 건물은 13세기 무렵 짓기 시작해 1466년에 완성됐습니다. 항구 바로 앞에 있습니다.", en: "St Peter Port’s parish church: a small chapel is first recorded in 1020, and the present building, probably begun in the 13th century, was complete by 1466. It stands right by the harbour." },
+        image: "/highlights/st-peter-port-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Town%20Church%20St%20Peter%20Port",
+      },
+      {
         id: "st-peter-port-h4",
         name: { ko: "캔디 정원", en: "Candie Gardens" },
         description: { ko: "빅토리아 시대 정원으로, 건지 박물관이 안에 있습니다.", en: "Victorian gardens that are home to the Guernsey Museum." },
@@ -34897,7 +34904,35 @@ export const cities: City[] = [
         description: { ko: "2차 대전 중 5년간의 독일군 점령 시기 생활을 보여 주는 박물관입니다.", en: "Museum of island life during the five years of German occupation in the Second World War." },
         image: "/highlights/st-peter-port-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=German%20Occupation%20Museum%20Guernsey",
-      }
+      },
+      {
+        id: "st-peter-port-h7",
+        name: { ko: "빅토리아 타워", en: "Victoria Tower" },
+        description: { ko: "1846년 빅토리아 여왕과 앨버트 공의 건지 방문을 기념해 세운 붉은 화강암 탑으로, 시내 언덕 위에 있습니다.", en: "A red granite tower on the hill above town, built to mark Queen Victoria and Prince Albert’s visit to Guernsey in 1846." },
+        image: "/highlights/st-peter-port-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Victoria%20Tower%20Guernsey",
+      },
+      {
+        id: "st-peter-port-h8",
+        name: { ko: "포트 그레이", en: "Fort Grey" },
+        description: { ko: "서해안 로크인 만의 썰물 바위 위에 선 마텔로 탑으로, 모양 때문에 ‘컵과 받침’이라 불립니다.", en: "A Martello tower on a tidal rock in Rocquaine Bay on the west coast, nicknamed the “cup and saucer” for its shape." },
+        image: "/highlights/st-peter-port-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fort%20Grey%20Guernsey",
+      },
+      {
+        id: "st-peter-port-h10",
+        name: { ko: "리우섬", en: "Lihou" },
+        description: { ko: "서해안 바로 앞의 작은 썰물 섬으로, 썰물 때 돌길로 걸어 건넙니다. 람사르 습지로 지정된 자연 보호 지역입니다.", en: "A small tidal island just off the west coast, reached on foot along a causeway at low tide; a conservation area within a Ramsar wetland site." },
+        image: "/highlights/st-peter-port-10.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lihou%20Island%20Guernsey",
+      },
+      {
+        id: "st-peter-port-h9",
+        name: { ko: "소마레즈 장원", en: "Sausmarez Manor" },
+        description: { ko: "섬 남동쪽 세인트마틴 교구의 오래된 장원 저택으로, 정원과 함께 둘러봅니다.", en: "A historic manor house in the parish of St Martin in the south-east of the island, visited together with its grounds." },
+        image: "/highlights/st-peter-port-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sausmarez%20Manor%20Guernsey",
+      },
     ],
   },
   {
@@ -34910,8 +34945,8 @@ export const cities: City[] = [
     nativeName: "Sark / Sercq",
     cardTagline: { ko: "라 쿠페", en: "La Coupée" },
     blurb: {
-      ko: "건지에서 배로 가는 작은 섬. 자동차가 없어 걷거나 자전거·마차로 다니고, 세계 첫 '어두운 하늘 섬'입니다.",
-      en: "Small island reached by boat from Guernsey. With no cars, you walk, cycle or ride a horse cart; it was the world's first Dark Sky Island.",
+      ko: "건지에서 배로 약 1시간 걸리는 작은 섬으로, 자동차가 다니지 않아 걷거나 자전거·트랙터 버스·마차로 다닙니다. 절벽 위 좁은 길 라 쿠페가 본섬과 리틀 사크를 잇고, 섬 영주 저택의 정원이 있습니다. 빛 공해가 적어 세계 첫 ‘어두운 하늘 섬’으로 지정됐습니다.",
+      en: "A small island about an hour by boat from Guernsey, with no cars: you get around on foot, by bike, tractor bus or horse and cart. The clifftop path of La Coupée links the main island to Little Sark, and the Seigneur’s manor has walled gardens. With so little light pollution it became the world’s first Dark Sky Island.",
     },
     highlights: [
       {

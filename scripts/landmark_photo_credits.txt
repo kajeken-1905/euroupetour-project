@@ -4884,3 +4884,7 @@ highlights/st-brelade-2.jpg | https://commons.wikimedia.org/wiki/File:St_Brelade
 cities/st-ouen.jpg | https://commons.wikimedia.org/wiki/File:Paragliding_St_Ouen%27s_Bay,_Jersey.jpg | Public domain | No machine-readable author provided. Man vyi assumed (based
 highlights/st-ouen-1.jpg | https://commons.wikimedia.org/wiki/File:St._Ouens_Bay.jpg | CC BY-SA 3.0 | ch-info.ch
 highlights/st-ouen-2.jpg | https://commons.wikimedia.org/wiki/File:Battery_Moltke,_Les_Landes,_Jersey.JPG | CC BY-SA 3.0 | Danrok
+highlights/st-peter-port-6.jpg | https://commons.wikimedia.org/wiki/File:StPeterPortChurch.jpg | Public domain | AlanFord at English Wikipedia
+highlights/st-peter-port-7.jpg | https://commons.wikimedia.org/wiki/File:Victoria_Tower_top_St_Peter_Port_Guernsey.jpg | Public domain | Man vyi
+highlights/st-peter-port-8.jpg | https://commons.wikimedia.org/wiki/File:Fort_Grey.jpg | CC BY 2.0 | Angus MacRae
+highlights/st-peter-port-10.jpg | https://commons.wikimedia.org/wiki/File:Lihou_priory_20160904_2.jpg | CC BY-SA 3.0 | Daniel Kraft
