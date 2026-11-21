@@ -193,7 +193,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   'angra-do-heroismo': { days: [['', 1, 2]], trips: [['알가르 두 카르방|Algar do Carvão', 3], ['비스코이투스|Biscoitos', 4]] },
   nazare: [1, 4, 2, 3, 5],
   guimaraes: [1, 2, 4, 3, 5],
-  'andorra-la-vella': [1, 2, 3, 5, 4],
-  'pas-de-la-casa': [3, 2, 4, 5],
-  ordino: { days: [['', 1, 2, 5]], trips: [['아르칼리스|Arcalís', 4]] },
+  'andorra-la-vella': { days: [['', 5, 1, 2, 3, 7, 4]], trips: [['산타 콜로마|Santa Coloma', 6]] },
+  'pas-de-la-casa': { days: [['', 2, 1]], trips: [['엔발리라 고개·페손스 호수|Envalira & Pessons', 3, 4]] },
+  ordino: { days: [['', 1, 2, 5, 6], ['', 9, 8, 3]], trips: [['아르칼리스·트리스타이나|Arcalís & Tristaina', 4, 7]] },
 }

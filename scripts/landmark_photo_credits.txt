@@ -4797,3 +4797,15 @@ highlights/vatican-city-6.jpg | https://commons.wikimedia.org/wiki/File:Choesa_d
 highlights/vatican-city-7.jpg | https://commons.wikimedia.org/wiki/File:Fronte_del_sarcofago_di_giona,_280-300_dc.,_da_necropoli_vaticana_01.JPG | CC BY 3.0 | Sailko
 highlights/vatican-city-8.jpg | https://commons.wikimedia.org/wiki/File:Original_tomb_of_Josef_Beran_in_Grotte_Vaticane,_Rome.jpg | CC BY-SA 4.0 | Henta
 highlights/vatican-city-9.jpg | https://commons.wikimedia.org/wiki/File:Tesoro_di_san_pietro,_ciborio_di_donatello.JPG | CC BY-SA 3.0 | sailko
+highlights/andorra-la-vella-5.jpg | https://commons.wikimedia.org/wiki/File:060_Casa_de_la_Vall_(Andorra_la_Vella),_antic_escut_d%27Andorra.JPG | CC BY-SA 3.0 | Enfo
+highlights/andorra-la-vella-6.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Coloma_de_Andorra,_Santa_Coloma,_Andorra,_2013-12-30,_DD_05.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/andorra-la-vella-7.jpg | https://commons.wikimedia.org/wiki/File:Noblesse_du_Temps_(Salvador_Dal%C3%AD).jpg | CC0 | August Dominus
+highlights/pas-de-la-casa-2.jpg | https://commons.wikimedia.org/wiki/File:Pas_de_la_Casa_(1).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/pas-de-la-casa-3.jpg | https://commons.wikimedia.org/wiki/File:View_from_Port_d%27Envalira_(6).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/pas-de-la-casa-4.jpg | https://commons.wikimedia.org/wiki/File:Circ_dels_Pessons_(Encamp)_-_3.jpg | CC BY-SA 2.0 | Ferran Llorens
+highlights/ordino-2.jpg | https://commons.wikimedia.org/wiki/File:Wine_cellar_Casa_d%27Areny-Plandolit_n02.jpg | CC BY 4.0 | Marie-Lan Taÿ Pamart
+highlights/ordino-3.jpg | https://commons.wikimedia.org/wiki/File:Parc_Natural_de_la_vall_de_Sorteny.jpg | CC BY 3.0 | Simonjoan
+highlights/ordino-6.jpg | https://commons.wikimedia.org/wiki/File:(Barcelona)_Biga_de_la_Passi%C3%B3_-_Museu_Nacional_d%27Art_de_Catalunya.jpg | Public domain | Didier Descouens
+highlights/ordino-7.jpg | https://commons.wikimedia.org/wiki/File:Estanys_de_Tristaina_03.jpg | CC BY-SA 4.0 | Jordi Gili
+highlights/ordino-8.jpg | https://commons.wikimedia.org/wiki/File:San_Mart%C3%AD_de_La_Cortinada._Andorra_38.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/ordino-9.jpg | https://commons.wikimedia.org/wiki/File:Farga_Rossell_La_Massana_20240901_n21.jpg | CC BY 4.0 | Marie-Lan Taÿ Pamart
