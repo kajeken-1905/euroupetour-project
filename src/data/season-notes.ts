@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  alderney: { n: '철도와 배, 등대 투어가 다니는 5~9월이 좋습니다.|May–September, when the railway, boats and lighthouse tours run.' },
+  herm: { n: '배가 자주 다니는 5~9월이 좋습니다.|May–September, when boats run most often.' },
   'st-ouen': { n: '서핑은 사계절 하지만 해변 산책과 해수욕은 6~9월이 알맞습니다.|Surfing goes on year-round, but June–September suits beach walks and swimming.' },
   'st-brelade': { n: '해수욕은 6~9월이 알맞고, 코르비에르 등대는 썰물과 해 질 녘에 맞춰 가세요.|Swim June–September; time La Corbière for low tide and sunset.' },
   'st-aubin': { n: '해변 산책과 철길 산책로는 5~9월이 좋고, 요새는 썰물 때 맞춰 갑니다.|May–September is best for the shore and the railway path; time the fort for low tide.' },

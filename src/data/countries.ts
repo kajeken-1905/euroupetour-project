@@ -215,7 +215,7 @@ export const countries: Country[] = [
       background: '#FDE8EB',
       text: '#3A0A10',
     },
-    cityIds: ['st-peter-port', 'sark'],
+    cityIds: ['st-peter-port', 'herm', 'sark', 'alderney'],
   },
   {
     id: 'ch',

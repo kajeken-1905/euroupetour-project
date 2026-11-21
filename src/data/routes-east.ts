@@ -448,6 +448,8 @@ export const routesEast: RawRoute[] = [
   r('st-helier', 'st-aubin', 'bus', 15),
   r('st-peter-port', 'sark', 'ferry', 50, { n: '배에 따라 35~55분|35–55 min depending on the vessel' }),
   r('st-peter-port', 'london', 'flight', 60),
+  r('st-peter-port', 'alderney', 'flight', 20),
+  r('st-peter-port', 'herm', 'ferry', 20, { n: '트래블 트라이던트 · 연중 운항|Travel Trident · all year' }),
   // —— fo, gl ——
   r('torshavn', 'vagar', 'bus', 55, { fa: '파르스퇴딘 터미널|Farstøðin', fb: '바가르 공항|Vágar Airport', n: '300번 버스 · 주말엔 적음|bus 300 · few at weekends' }),
   r('vagar', 'copenhagen', 'flight', 130),

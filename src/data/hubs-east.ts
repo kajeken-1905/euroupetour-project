@@ -1152,6 +1152,14 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Guernsey (GCI)', '건지 공항 (GCI)']],
     port: [['St Peter Port Harbour', '세인트피터포트 항구', '저지·영국·프랑스·사크섬행 배|ferries to Jersey, Britain, France and Sark']],
   },
+  herm: {
+    air: [['Guernsey (GCI)', '건지 공항 (GCI)', '험섬엔 공항 없음 · 세인트피터포트에서 배|no airport on Herm · boat from St Peter Port']],
+    port: [['Herm Harbour', '험 항구', '세인트피터포트행 배|boats to St Peter Port']],
+  },
+  alderney: {
+    air: [['Alderney (ACI)', '올더니 공항 (ACI)', '건지 등에서 비행기|flights from Guernsey and elsewhere']],
+    port: [['Braye Harbour', '브레이 항구', '건지·프랑스행 여름 배|summer boats to Guernsey and France']],
+  },
   sark: {
     air: [['Guernsey (GCI)', '건지 공항 (GCI)', '사크섬엔 공항 없음 · 세인트피터포트에서 배|no airport on Sark · boat from St Peter Port']],
   },

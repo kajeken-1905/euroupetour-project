@@ -2809,6 +2809,12 @@ export const STAY: Record<string, StayArea[]> = {
   'st-peter-port': [
     a('세인트피터포트 시내', 'St Peter Port town', 'St Peter Port, Guernsey', '처음 가는 여행자|First visit', '항구·상점·코넷 성이 가깝고 버스와 배가 모두 여기서 출발합니다. 언덕이 가파릅니다.|Near the harbour, shops and Castle Cornet, and the hub for buses and boats; the streets are steep.'),
   ],
+  herm: [
+    a('험섬 항구', 'Herm harbour', 'Herm', '조용한 섬·해변|Quiet island, beaches', '항구 둘레에 섬의 호텔과 별장형 숙소가 있습니다. 당일로 다녀오는 사람이 많습니다.|The island’s hotel and holiday cottages are by the harbour; many visit as a day trip.'),
+  ],
+  alderney: [
+    a('세인트앤', 'St Anne', 'St Anne, Alderney', '섬 마을|Island town', '섬의 숙소와 식당이 마을에 모여 있고 항구까지 걸어서 약 20분입니다.|The island’s hotels and restaurants are in the town, about 20 minutes’ walk from the harbour.'),
+  ],
   sark: [
     a('섬 안에서 묵기', 'Stay on Sark', 'Sark', '별빛·고요함|Dark skies and quiet', '숙소가 적어 7~8월에는 일찍 예약해야 합니다.|Few rooms, so book early for July and August.'),
     a('건지에서 다녀오기', 'Base in Guernsey', 'St Peter Port, Guernsey', '당일치기|Day trip', '세인트피터포트에서 배로 35~55분입니다.|35–55 minutes by boat from St Peter Port.'),

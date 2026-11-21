@@ -13171,5 +13171,20 @@
     49.46048,
     -2.66712,
     "OSM Nominatim: Lihou, St. Pierre du Bois, Guernsey (Wikipedia 67m)"
+  ],
+  "alderney-h1": [
+    49.71547,
+    -2.20513,
+    "OSM Nominatim: St. Anne's Church, Le Pre, Crabby, Saint Anne, Alderney, GY9 (Wikipedia 2m)"
+  ],
+  "alderney-h3": [
+    49.72913,
+    -2.16424,
+    "OSM Nominatim: Alderney Lighthouse, Mannez Quarry, Mannez, Saint Anne, Alde (Wikipedia 9m)"
+  ],
+  "alderney-h5": [
+    49.72375,
+    -2.2023,
+    "OSM Nominatim: Braye Harbour, Alderney Breakwater, Braye, Saint Anne, Alder (Wikipedia 105m)"
   ]
 }

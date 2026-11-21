@@ -8445,6 +8445,24 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [ta('buses-gg', { ko: '실시간 버스', en: 'Live bus times' })],
   },
+  herm: {
+    modes: ['ferry', 'walk'],
+    howTo: {
+      ko: '세인트피터포트에서 트래블 트라이던트 배가 연중 다닙니다. 섬에는 차가 없어 걸어서 다닙니다. 썰물 땐 항구 대신 로자이어 계단에 배가 닿습니다.',
+      en: 'Travel Trident boats run from St Peter Port all year. There are no cars, so you walk; at low tide boats use the Rosaire Steps instead of the harbour.',
+    },
+    apps: [
+    ],
+  },
+  alderney: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '섬이 작아 대부분 걸어 다니고, 택시와 자전거도 있습니다. 여름 주말엔 철도가 등대까지 다닙니다.',
+      en: 'The island is small enough to walk, with taxis and bikes too; on summer weekends the railway runs to the lighthouse.',
+    },
+    apps: [
+    ],
+  },
   sark: {
     modes: ['ferry', 'bike', 'walk'],
     howTo: {

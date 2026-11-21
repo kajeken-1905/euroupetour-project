@@ -141,5 +141,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
   'st-ouen': {"days": [["", 1, 3, 2]]},
   gorey: [1, 2, 3],
   'st-peter-port': { days: [['', 1, 6, 4, 2, 7]], trips: [['섬 남쪽|South of the island', 3, 5], ['서해안|West coast', 8, 10]] },
+  herm: {"days": [["", 3, 4, 1, 2]]},
+  alderney: {"days": [["", 1, 6, 5, 2, 3, 4]]},
   sark: [1, 2],
 }

@@ -4888,3 +4888,15 @@ highlights/st-peter-port-6.jpg | https://commons.wikimedia.org/wiki/File:StPeter
 highlights/st-peter-port-7.jpg | https://commons.wikimedia.org/wiki/File:Victoria_Tower_top_St_Peter_Port_Guernsey.jpg | Public domain | Man vyi
 highlights/st-peter-port-8.jpg | https://commons.wikimedia.org/wiki/File:Fort_Grey.jpg | CC BY 2.0 | Angus MacRae
 highlights/st-peter-port-10.jpg | https://commons.wikimedia.org/wiki/File:Lihou_priory_20160904_2.jpg | CC BY-SA 3.0 | Daniel Kraft
+cities/herm.jpg | https://commons.wikimedia.org/wiki/File:Stained-glass_window_St_Tugual%27s_Chapel_Herm.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/herm-1.jpg | https://commons.wikimedia.org/wiki/File:Herm_natuur.jpg | CC BY-SA 3.0 | Dickelbers
+highlights/herm-2.jpg | https://commons.wikimedia.org/wiki/File:Seattle_-_Belvoir_Place_Park_pano_01_-_view_to_Union_Bay.jpg | CC BY-SA 4.0 | Photo by Joe Mabel
+highlights/herm-3.jpg | https://commons.wikimedia.org/wiki/File:Dublin_Castle_Chapel_Royal_Record_Tower.JPG | CC BY-SA 3.0 | J.-H. Janßen
+highlights/herm-4.jpg | https://commons.wikimedia.org/wiki/File:Herm_Coast_Path.JPG | CC BY-SA 3.0 | Robertthebilling
+cities/alderney.jpg | https://commons.wikimedia.org/wiki/File:Alderney_by_Sentinel-2.jpg | CC BY-SA 3.0 igo | Copernicus Sentinel-2, ESA
+highlights/alderney-1.jpg | https://commons.wikimedia.org/wiki/File:High_Str._St.Anne_Alderney_IMG_3889aa.jpg | CC BY-SA 4.0 | Christof46
+highlights/alderney-2.jpg | https://commons.wikimedia.org/wiki/File:Alderney_Railway_1993_1b.jpg | CC BY-SA 4.0 | Helmut Seger
+highlights/alderney-3.jpg | https://commons.wikimedia.org/wiki/File:Alderney_Mannez_Lighthouse.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/alderney-4.jpg | https://commons.wikimedia.org/wiki/File:Fort_Clonque_(8157760688).jpg | CC BY 2.0 | Richard from Leeds, Yorkshire, UK
+highlights/alderney-5.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Braye_Harbour.JPG | CC BY-SA 3.0 | Chickenofbristol at English Wikipedia
+highlights/alderney-6.jpg | https://commons.wikimedia.org/wiki/File:Orbicular_rock,_Alderney,_Channel_Islands_-_Natural_History_Museum,_London_-_DSC05210.jpg | CC0 | Daderot
