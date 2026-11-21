@@ -1752,6 +1752,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('sbb'),
     ],
   },
+  balzers: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서 둘러보고, 파두츠·샨까지는 LIEmobil 버스로 다닙니다.',
+      en: 'Walk around Balzers; LIEmobil buses link it with Vaduz and Schaan.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  triesenberg: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서 둘러보고, 파두츠·샨까지는 LIEmobil 버스로 다닙니다.',
+      en: 'Walk around Triesenberg; LIEmobil buses link it with Vaduz and Schaan.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  'eschen-nendeln': {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서 둘러보고, 파두츠·샨까지는 LIEmobil 버스로 다닙니다.',
+      en: 'Walk around Eschen-Nendeln; LIEmobil buses link it with Vaduz and Schaan.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
+  schellenberg: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서 둘러보고, 파두츠·샨까지는 LIEmobil 버스로 다닙니다.',
+      en: 'Walk around Schellenberg; LIEmobil buses link it with Vaduz and Schaan.',
+    },
+    apps: [
+      ta('sbb'),
+    ],
+  },
   // —— cz ——
   prague: {
     modes: ['metro', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],

@@ -167,7 +167,11 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   leipzig: [2, 3, 6, 1, 7, 8, 5, 4],
   rothenburg: [1, 7, 6, 4, 2, 3, 5],
   potsdam: { days: [['', 3, 6, 1, 2, 4, 7, 5]], trips: [['바벨스베르크 영화 공원|Filmpark Babelsberg', 8]] },
+  balzers: {"days": [["", 1, 2, 3, 4]]},
+  triesenberg: {"days": [["", 1, 2, 3]], "trips": [["퓌르스텐슈타이크|Fürstensteig", 4]]},
+  'eschen-nendeln': {"days": [["", 1, 3]], "trips": [["에셔베르크 역사 산책로|Eschnerberg trail", 2]]},
+  schellenberg: {"days": [["", 1, 4, 3, 2]]},
   vaduz: { days: [['', 2, 6, 8, 3, 7, 4, 1]], trips: [['미텔도르프 포도밭|Mitteldorf vineyards', 9, 10], ['옛 라인 다리|Old Rhine Bridge', 5]] },
   schaan: { days: [['', 2, 1, 3, 4]] },
-  malbun: { days: [['', 3, 2, 4]], trips: [['스키|Skiing', 1], ['슈테크·트리젠베르크|Steg & Triesenberg', 6, 5]] },
+  malbun: { days: [['', 3, 2, 4]], trips: [['스키|Skiing', 1], ['슈테크 갱글레 호수|Gänglesee, Steg', 6]] },
 }

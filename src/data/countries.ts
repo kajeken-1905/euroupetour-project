@@ -273,7 +273,7 @@ export const countries: Country[] = [
       background: '#E8EEF8',
       text: '#0A1A30',
     },
-    cityIds: ['vaduz', 'schaan', 'malbun'],
+    cityIds: ['vaduz', 'schaan', 'balzers', 'triesenberg', 'malbun', 'eschen-nendeln', 'schellenberg'],
   },
   {
     id: 'it',

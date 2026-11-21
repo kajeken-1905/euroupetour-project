@@ -4841,3 +4841,21 @@ highlights/malbun-3.jpg | https://commons.wikimedia.org/wiki/File:LIE_%E2%80%94_
 highlights/malbun-4.jpg | https://commons.wikimedia.org/wiki/File:Pf%C3%A4lzerh%C3%BCtte_(valo139).jpg | CC BY-SA 4.0 | Valo139
 highlights/malbun-5.jpg | https://commons.wikimedia.org/wiki/File:Walsermuseum_Triesenberg,_Maiens%C3%A4ssh%C3%BCtte_(216).jpg | CC BY-SA 3.0 | Wikiolo
 highlights/malbun-6.jpg | https://commons.wikimedia.org/wiki/File:Steg,_Liechtenstein.jpg | CC BY 2.0 | Clemens v. Vogelsang from Liechtenstein
+cities/balzers.jpg | https://commons.wikimedia.org/wiki/File:Burg_Gutenberg_-_Balzers-_Liechtenstein.jpg | CC BY-SA 3.0 | St9191
+highlights/balzers-1.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Gutenberg_in_Balzers,_Liechtenstein.jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/balzers-2.jpg | https://commons.wikimedia.org/wiki/File:LIE_Balzers,_Pfarrkirche_St._Nikolaus_0036.jpg | CC BY 4.0 | -wuppertaler
+highlights/balzers-3.jpg | https://commons.wikimedia.org/wiki/File:Mariahilfkapelle_Balzers.JPG | CC BY-SA 3.0 | St9191
+highlights/balzers-4.jpg | https://commons.wikimedia.org/wiki/File:Kapelle_St._Peter_-_Balzers.jpg | CC BY-SA 3.0 | Presse- und Informationsamt, Vaduz
+cities/triesenberg.jpg | https://commons.wikimedia.org/wiki/File:Triesenberg-road-and-mountain.jpg | CC BY-SA 4.0 | Good Will Hunting
+highlights/triesenberg-2.jpg | https://commons.wikimedia.org/wiki/File:TriesenbergKirche.jpg | Public domain | Ramessos
+highlights/triesenberg-3.jpg | https://commons.wikimedia.org/wiki/File:Masescha_im_Winter.jpg | CC BY-SA 4.0 | Romybomy
+highlights/triesenberg-4.jpg | https://commons.wikimedia.org/wiki/File:Na_trase_F%C3%BCrstensteig_-_panoramio_(1).jpg | CC BY 3.0 | Pavel Špindler
+cities/eschen-nendeln.jpg | https://commons.wikimedia.org/wiki/File:Eschen_Seitenaltar_L.jpg | CC0 | Plutowiki
+highlights/eschen-nendeln-1.jpg | https://commons.wikimedia.org/wiki/File:CemeteryEschenLiechtenstein_RomanDeckert25012023-02.jpg | CC BY-SA 4.0 | RomanDeckert
+highlights/eschen-nendeln-2.jpg | https://commons.wikimedia.org/wiki/File:Landscape_in_Schellenberg_(3).jpg | CC BY 4.0 | Tournasol7
+highlights/eschen-nendeln-3.jpg | https://commons.wikimedia.org/wiki/File:Nendeln_070610.jpg | CC BY-SA 3.0 | NAC
+cities/schellenberg.jpg | https://commons.wikimedia.org/wiki/File:Memorial-OldCemeterySchellenbergLiechtenstein_RomanDeckert25012023.jpg | CC BY-SA 4.0 | RomanDeckert
+highlights/schellenberg-1.jpg | https://commons.wikimedia.org/wiki/File:Obere_Burg_Schellenberg1.JPG | CC BY-SA 4.0 | SchuetzeZH
+highlights/schellenberg-2.jpg | https://commons.wikimedia.org/wiki/File:Untere_Burg_Castle_in_Schellenberg_(3).jpg | CC BY 4.0 | Tournasol7
+highlights/schellenberg-3.jpg | https://commons.wikimedia.org/wiki/File:Biedermannhaus.jpg | CC BY 3.0 | Presse- und Informationsamt, Vaduz
+highlights/schellenberg-4.jpg | https://commons.wikimedia.org/wiki/File:Russian_monument_in_Sofia.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)

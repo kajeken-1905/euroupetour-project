@@ -13066,5 +13066,55 @@
     47.10696,
     9.57773,
     "OSM Nominatim: Gänglesee, Steg (de.wikipedia 14m)"
+  ],
+  "balzers-h1": [
+    47.06562,
+    9.50053,
+    "OSM Nominatim: Burg Gutenberg, 5, Burgweg, Mäls, Balzers, Oberland, 9496, L (Wikipedia 57m)"
+  ],
+  "balzers-h3": [
+    47.06084,
+    9.49003,
+    "OSM Nominatim: Mariahilfkapelle, 1, Eichholz, Mäls, Balzers, Oberland, 9496"
+  ],
+  "balzers-h4": [
+    47.06026,
+    9.49691,
+    "OSM Nominatim: Kapelle St. Peter, 2, St. Peter, Mäls, Balzers, Oberland, 94"
+  ],
+  "triesenberg-h2": [
+    47.11801,
+    9.54384,
+    "OSM Nominatim: Pfarrkirche Sankt Josef, Triesenberg (de.wikipedia 5m)"
+  ],
+  "triesenberg-h3": [
+    47.13225,
+    9.5438,
+    "OSM Nominatim: Sankt Theodul, 52, Maseschastrasse, Vorder Prufatscheng, Mas"
+  ],
+  "schellenberg-h1": [
+    47.2328,
+    9.55415,
+    "OSM Nominatim: Ruine Neu-Schellenberg (de.wikipedia 20m)"
+  ],
+  "schellenberg-h2": [
+    47.2332,
+    9.54245,
+    "OSM Nominatim: Ruine Alt-Schellenberg (de.wikipedia 6m)"
+  ],
+  "schellenberg-h4": [
+    47.24168,
+    9.56085,
+    "OSM Nominatim: Russendenkmal, St. Georg-Strasse, Hinterschellenberg, Schell"
+  ],
+  "triesenberg-h4": [
+    47.1438,
+    9.54818,
+    "OSM Nominatim: Fürstensteig, Gaflei (de.wikipedia 170m, trail)"
+  ],
+  "schellenberg-h3": [
+    47.23275,
+    9.54783,
+    "OSM Nominatim: Biedermannhaus, Schellenberg (de.wikipedia 2m)"
   ]
 }

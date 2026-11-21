@@ -780,6 +780,28 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Sargans', '자르간스역', '스위스 · 파두츠 경유 버스|Switzerland · bus via Vaduz']],
   },
 
+  balzers: {
+    air: [ZRH('스위스 취리히|Zurich, Switzerland')],
+    rail: [['Sargans', '자르간스역', '스위스 · 버스 연결|Switzerland · bus link']],
+  },
+  triesenberg: {
+    air: [ZRH('스위스 취리히|Zurich, Switzerland')],
+    rail: [['Sargans', '자르간스역', '스위스 · 파두츠 경유 버스|Switzerland · bus via Vaduz']],
+  },
+  'eschen-nendeln': {
+    air: [ZRH('스위스 취리히|Zurich, Switzerland')],
+    rail: [
+      ['Nendeln', '넨델른역', '정차 열차 적음|few trains stop'],
+      ['Feldkirch', '펠트키르히역', '오스트리아 · 버스 연결|Austria · bus link'],
+    ],
+  },
+  schellenberg: {
+    air: [ZRH('스위스 취리히|Zurich, Switzerland')],
+    rail: [
+      ['Feldkirch', '펠트키르히역', '오스트리아 · 버스 연결|Austria · bus link'],
+      ['Nendeln', '넨델른역', '정차 열차 적음|few trains stop'],
+    ],
+  },
   // —— it ——
   milan: {
     air: [

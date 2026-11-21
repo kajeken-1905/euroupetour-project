@@ -2279,6 +2279,18 @@ export const STAY: Record<string, StayArea[]> = {
   malbun: [
     a('말분 마을', 'Malbun village', 'Malbun', '스키·알프스|Skiing, the Alps', '리히텐슈타인 유일의 스키장 마을로 산 숙소가 있습니다.|The country’s only ski resort village, with alpine hotels.'),
   ],
+  balzers: [
+    a('발처스 마을', 'Balzers village', 'Balzers', '조용한 마을·성 구경|Quiet village, the castle', '성 언덕 둘레에 작은 숙소가 있고, 파두츠까지 버스로 20분쯤 걸립니다.|A few small hotels around the castle hill, about 20 minutes by bus from Vaduz.'),
+  ],
+  triesenberg: [
+    a('트리젠베르크 마을', 'Triesenberg village', 'Triesenberg', '전망·산행|Views, hiking', '라인 계곡이 내려다보이는 산마을 숙소로, 파두츠·말분 모두 버스로 가깝습니다.|Hillside hotels looking over the Rhine valley, a short bus ride from both Vaduz and Malbun.'),
+  ],
+  'eschen-nendeln': [
+    a('에셴 마을', 'Eschen village', 'Eschen', '조용한 마을·산책|Quiet village, walking', '운터란트 한가운데라 셸렌베르크·샨이 버스로 가깝고, 오스트리아 펠트키르히도 가깝습니다.|In the middle of the Unterland, a short bus ride from Schellenberg and Schaan, and close to Feldkirch in Austria.'),
+  ],
+  schellenberg: [
+    a('에셴에서 다녀오기', 'Visit from Eschen', 'Eschen', '당일치기|Day trip', '마을이 작아 숙소가 적으니 에셴이나 파두츠에 묵고 버스로 다녀오세요.|The village is tiny with few beds, so stay in Eschen or Vaduz and come by bus.'),
+  ],
   kosice: [
     a('구시가 (흘라브나 거리)', 'Old town (Hlavná)', 'Hlavná, Košice', '걸어서 다니기|Walkable', '중심 거리를 따라 상점·식당·카페가 모여 있고 걸어서 다 다닙니다.|Shops, restaurants and cafés line the main street, all within walking distance.'),
   ],
