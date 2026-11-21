@@ -13041,5 +13041,30 @@
     42.57083,
     1.60779,
     "OSM Nominatim: Sant Joan de Caselles, Avinguda de Sant Joan de Caselles, Ur (Wikipedia 1m)"
+  ],
+  "vaduz-h7": [
+    47.13818,
+    9.52274,
+    "OSM Nominatim: Liechtensteinisches Landesmuseum, Städtle 43 (Wikipedia 10m)"
+  ],
+  "vaduz-h8": [
+    47.13709,
+    9.52276,
+    "OSM Nominatim: Regierungsgebäude, Peter-Kaiser-Platz 1 (de.wikipedia 3m)"
+  ],
+  "vaduz-h9": [
+    47.1448,
+    9.52182,
+    "OSM Nominatim: Rotes Haus, Fürst-Franz-Josef-Strasse 102 (de.wikipedia 8m)"
+  ],
+  "malbun-h4": [
+    47.07132,
+    9.61326,
+    "OSM Nominatim: Pfälzerhütte, Bettlerjoch (de.wikipedia 9m)"
+  ],
+  "malbun-h6": [
+    47.10696,
+    9.57773,
+    "OSM Nominatim: Gänglesee, Steg (de.wikipedia 14m)"
   ]
 }

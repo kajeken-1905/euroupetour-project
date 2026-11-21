@@ -4828,3 +4828,16 @@ cities/soldeu.jpg | https://commons.wikimedia.org/wiki/File:Soldeu.jpg | Public 
 highlights/soldeu-1.jpg | https://commons.wikimedia.org/wiki/File:Grandvalira_ski_resort,_Andorra5.jpg | CC BY-SA 2.0 | Christof Damian (cdamian) from Barcelona, Spain
 highlights/soldeu-2.jpg | https://commons.wikimedia.org/wiki/File:Vall_d%27Incles_-_Principat_d%27Andorra.tif | CC BY-SA 3.0 | Cdani
 highlights/soldeu-3.jpg | https://commons.wikimedia.org/wiki/File:Estanys_de_Juclar_@_Collada_de_Juclar_02.jpg | CC BY-SA 4.0 | Rémih
+highlights/vaduz-5.jpg | https://commons.wikimedia.org/wiki/File:Alte_Rheinbr%C3%BCcke_Vaduz_%E2%80%93_Sevelen.jpg | CC BY 4.0 | AuHaidhausen
+highlights/vaduz-7.jpg | https://commons.wikimedia.org/wiki/File:Liechtensteinisches_Landesmuseum,_2014.JPG | CC BY-SA 4.0 | Bahnfrend
+highlights/vaduz-8.jpg | https://commons.wikimedia.org/wiki/File:Regierungsgeb%C3%A4ude,_Vaduz.jpg | CC BY 4.0 | AuHaidhausen
+highlights/vaduz-9.jpg | https://commons.wikimedia.org/wiki/File:LIE_Vaduz,_Rotes_Haus_0004.jpg | CC BY 4.0 | -wuppertaler
+highlights/vaduz-10.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Vaduz._Ansicht_aus_dem_Weinberg._2011-05-28_16-43-02.jpg | CC BY-SA 4.0 | Shesmax
+highlights/schaan-1.jpg | https://commons.wikimedia.org/wiki/File:Kastell_Schaan_01.jpg | CC BY-SA 4.0 | Pakeha
+highlights/schaan-4.jpg | https://commons.wikimedia.org/wiki/File:Schaan_Duxkapelle_S%C3%BCdseite_%E2%80%93_WAF_300_J_FL.jpg | CC0 | albinfo
+highlights/malbun-1.jpg | https://commons.wikimedia.org/wiki/File:MalbunFL_4.jpg | CC BY-SA 2.5 | böhringer friedrich
+highlights/malbun-2.jpg | https://commons.wikimedia.org/wiki/File:Augstenberg_03.jpg | CC BY-SA 4.0 | Basotxerri
+highlights/malbun-3.jpg | https://commons.wikimedia.org/wiki/File:LIE_%E2%80%94_Gemeinde_Triesenberg_Malbun_(4er_Sessellift_Sareis_%C2%B7_Talstation)_2023-05-29.jpg | CC BY 3.0 de | User:Mateus2019
+highlights/malbun-4.jpg | https://commons.wikimedia.org/wiki/File:Pf%C3%A4lzerh%C3%BCtte_(valo139).jpg | CC BY-SA 4.0 | Valo139
+highlights/malbun-5.jpg | https://commons.wikimedia.org/wiki/File:Walsermuseum_Triesenberg,_Maiens%C3%A4ssh%C3%BCtte_(216).jpg | CC BY-SA 3.0 | Wikiolo
+highlights/malbun-6.jpg | https://commons.wikimedia.org/wiki/File:Steg,_Liechtenstein.jpg | CC BY 2.0 | Clemens v. Vogelsang from Liechtenstein
