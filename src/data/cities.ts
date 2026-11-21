@@ -34926,13 +34926,6 @@ export const cities: City[] = [
         image: "/highlights/st-peter-port-10.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lihou%20Island%20Guernsey",
       },
-      {
-        id: "st-peter-port-h9",
-        name: { ko: "소마레즈 장원", en: "Sausmarez Manor" },
-        description: { ko: "섬 남동쪽 세인트마틴 교구의 오래된 장원 저택으로, 정원과 함께 둘러봅니다.", en: "A historic manor house in the parish of St Martin in the south-east of the island, visited together with its grounds." },
-        image: "/highlights/st-peter-port-9.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sausmarez%20Manor%20Guernsey",
-      },
     ],
   },
   {

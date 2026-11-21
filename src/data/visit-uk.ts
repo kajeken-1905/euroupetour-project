@@ -410,7 +410,6 @@ export const visitUk: Record<string, HighlightVisit> = {
   'st-peter-port-h6': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
   'st-peter-port-h7': v(10, 15, { b: 'no' }),
   'st-peter-port-h8': v(30, 45),
-  'st-peter-port-h9': v(60, 90),
   'st-peter-port-h10': v(60, 120, { b: 'no', n: '썰물 때만 건널 수 있으니 물때표와 건너는 시간을 꼭 확인하세요.|It can be crossed only at low tide; check the tide tables and crossing times first.' }),
   'sark-h1': v(30, 45),
   'sark-h2': v(60, 90),
