@@ -13072,25 +13072,10 @@
     9.50053,
     "OSM Nominatim: Burg Gutenberg, 5, Burgweg, Mäls, Balzers, Oberland, 9496, L (Wikipedia 57m)"
   ],
-  "balzers-h3": [
-    47.06084,
-    9.49003,
-    "OSM Nominatim: Mariahilfkapelle, 1, Eichholz, Mäls, Balzers, Oberland, 9496"
-  ],
-  "balzers-h4": [
-    47.06026,
-    9.49691,
-    "OSM Nominatim: Kapelle St. Peter, 2, St. Peter, Mäls, Balzers, Oberland, 94"
-  ],
   "triesenberg-h2": [
     47.11801,
     9.54384,
     "OSM Nominatim: Pfarrkirche Sankt Josef, Triesenberg (de.wikipedia 5m)"
-  ],
-  "triesenberg-h3": [
-    47.13225,
-    9.5438,
-    "OSM Nominatim: Sankt Theodul, 52, Maseschastrasse, Vorder Prufatscheng, Mas"
   ],
   "schellenberg-h1": [
     47.2328,
@@ -13102,11 +13087,6 @@
     9.54245,
     "OSM Nominatim: Ruine Alt-Schellenberg (de.wikipedia 6m)"
   ],
-  "schellenberg-h4": [
-    47.24168,
-    9.56085,
-    "OSM Nominatim: Russendenkmal, St. Georg-Strasse, Hinterschellenberg, Schell"
-  ],
   "triesenberg-h4": [
     47.1438,
     9.54818,
@@ -13116,5 +13096,40 @@
     47.23275,
     9.54783,
     "OSM Nominatim: Biedermannhaus, Schellenberg (de.wikipedia 2m)"
+  ],
+  "gibraltar-h8": [
+    36.14386,
+    -5.35015,
+    "OSM Nominatim: Moorish Castle, Willis’s Road, Moorish Castle Estate, Catala (Wikipedia 27m)"
+  ],
+  "gibraltar-h9": [
+    36.13898,
+    -5.35449,
+    "OSM Nominatim: Gibraltar Museum, Bomb House Lane (Wikipedia 10m)"
+  ],
+  "gibraltar-h10": [
+    36.13465,
+    -5.35212,
+    "OSM Nominatim: Trafalgar Cemetery, Catalan Bay, Gibraltar (Wikipedia 17m)"
+  ],
+  "gibraltar-h11": [
+    36.13156,
+    -5.35121,
+    "OSM Nominatim: Alameda Botanic Gardens, Catalan Bay, Gibraltar (Wikipedia 31m)"
+  ],
+  "gibraltar-h14": [
+    36.12411,
+    -5.34163,
+    "OSM Nominatim: Mediterranean Steps, Gibraltar, GX11 1AA, Gibraltar (Wikipedia 172m)"
+  ],
+  "gibraltar-h15": [
+    36.13898,
+    -5.34091,
+    "OSM Nominatim: Catalan Bay, Gibraltar (Wikipedia 42m)"
+  ],
+  "gibraltar-h7": [
+    36.14508,
+    -5.35308,
+    "OSM Nominatim: Grand Casemates Square (Wikipedia 40m)"
   ]
 }

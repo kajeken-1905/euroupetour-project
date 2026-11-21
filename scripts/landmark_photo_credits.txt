@@ -4859,3 +4859,12 @@ highlights/schellenberg-1.jpg | https://commons.wikimedia.org/wiki/File:Obere_Bu
 highlights/schellenberg-2.jpg | https://commons.wikimedia.org/wiki/File:Untere_Burg_Castle_in_Schellenberg_(3).jpg | CC BY 4.0 | Tournasol7
 highlights/schellenberg-3.jpg | https://commons.wikimedia.org/wiki/File:Biedermannhaus.jpg | CC BY 3.0 | Presse- und Informationsamt, Vaduz
 highlights/schellenberg-4.jpg | https://commons.wikimedia.org/wiki/File:Russian_monument_in_Sofia.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/gibraltar-7.jpg | https://commons.wikimedia.org/wiki/File:Grand_Casemates_Square_4.jpg | CC BY-SA 3.0 | Nathan Harig
+highlights/gibraltar-8.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_Moorish_Castle_02.jpg | CC BY 3.0 | Olaf Tausch
+highlights/gibraltar-9.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_National_Museum_main_facade.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/gibraltar-10.jpg | https://commons.wikimedia.org/wiki/File:Trafalgar_Cemetery_18082014-007.jpg | CC BY-SA 4.0 | Yamen
+highlights/gibraltar-11.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_Botanic_Gardens_kz02.jpg | CC BY-SA 4.0 | Krzysztof Ziarnek, Kenraiz
+highlights/gibraltar-12.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Suspension_Bridge.jpg | CC BY-SA 4.0 | Rockysantos
+highlights/gibraltar-13.jpg | https://commons.wikimedia.org/wiki/File:Sandy_Bay_(beach),_Gibraltar_in_August_2025_as_seen_from_The_Rock_of_Gibraltar_Skywalk_(5_of_6).jpg | CC BY 4.0 | Cabeza2000
+highlights/gibraltar-14.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_Mediterranean_Steps_15.jpg | CC BY 4.0 | Scott Wylie
+highlights/gibraltar-15.jpg | https://commons.wikimedia.org/wiki/File:Catalan_Bay,_Gibraltar.jpg | CC BY 2.0 | David Stanley

@@ -141,7 +141,7 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   girona: { days: [['', 4, 2, 1, 5, 3]], trips: [['베살루|Besalú', 6]] },
   montserrat: [1, 4, 3, 2],
   nerja: { days: [['', 4, 1, 3]], trips: [['수도교와 네르하 동굴|Aqueduct & Nerja Caves', 5, 2]] },
-  gibraltar: [5, 1, 3, 4, 6],
+  gibraltar: { days: [['시내와 남쪽 끝|Town & the southern tip', 7, 9, 10, 11, 5], ['바위산|The Upper Rock', 8, 6, 4, 12, 13, 3, 1, 14]], trips: [['카탈란 베이|Catalan Bay', 15]] },
   palma: { days: [['', 1, 3, 5, 2, 4, 6]], trips: [['발데모사|Valldemossa', 7], ['소예르 기차|Sóller train', 8]] },
   lisbon: {
     days: [
