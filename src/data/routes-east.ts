@@ -443,6 +443,9 @@ export const routesEast: RawRoute[] = [
   r('st-helier', 'st-peter-port', 'ferry', 60, { n: '고속선 · 운항이 적으니 미리 확인|fast ferry · few sailings, check ahead' }),
   r('st-helier', 'saint-malo', 'ferry', 120, { fa: '엘리자베스 항구|Elizabeth Harbour', n: 'DFDS · 시기에 따라 다름|DFDS · varies by season' }),
   r('st-helier', 'london', 'flight', 60),
+  r('st-helier', 'st-ouen', 'bus', 30),
+  r('st-aubin', 'st-brelade', 'bus', 10),
+  r('st-helier', 'st-aubin', 'bus', 15),
   r('st-peter-port', 'sark', 'ferry', 50, { n: '배에 따라 35~55분|35–55 min depending on the vessel' }),
   r('st-peter-port', 'london', 'flight', 60),
   // —— fo, gl ——

@@ -2792,7 +2792,16 @@ export const STAY: Record<string, StayArea[]> = {
   'st-helier': [
     a('세인트헬리어 시내', 'St Helier town', 'St Helier, Jersey', '선택지·교통|Choice and transport', '숙소가 가장 많고 버스가 모두 여기서 출발합니다. 섬에서 가장 붐비고 시끄럽습니다.|The most places to stay and the hub for every bus; the busiest and noisiest part of the island.'),
     a('세인트오뱅', 'St Aubin', 'St Aubin, Jersey', '항구 마을 분위기·해산물|Harbour village, seafood', '만 건너편의 작은 항구 마을로 카페와 식당이 많습니다.|Little harbour across the bay with cafés and restaurants.'),
-    a('세인트브렐라드 만', 'St Brelade’s Bay', 'St Brelade’s Bay, Jersey', '해변|Beach', '섬에서 손꼽히는 해변 앞 숙소들입니다.|Hotels on one of the island’s best beaches.'),
+    a('세인트브렐레이드 만', 'St Brelade’s Bay', 'St Brelade’s Bay, Jersey', '해변|Beach', '섬에서 손꼽히는 해변 앞 숙소들입니다.|Hotels on one of the island’s best beaches.'),
+  ],
+  'st-aubin': [
+    a('세인트오뱅 항구', 'St Aubin harbour', 'St Aubin, Jersey', '항구 마을 분위기·식당|Harbour village, restaurants', '항구 둘레에 작은 호텔과 식당이 모여 있고 세인트헬리어까지 버스로 가깝습니다.|Small hotels and restaurants around the harbour, a short bus ride from St Helier.'),
+  ],
+  'st-brelade': [
+    a('세인트브렐레이드 해변', 'St Brelade’s Bay', 'St Brelade’s Bay, Jersey', '해변|Beach', '해변 바로 뒤에 호텔이 모여 있습니다.|Hotels right behind the beach.'),
+  ],
+  'st-ouen': [
+    a('세인트브렐레이드·세인트헬리어에서 다녀오기', 'Visit from St Brelade or St Helier', 'St Brelade’s Bay, Jersey', '당일치기|Day trip', '해변 쪽 숙소가 적으니 세인트브렐레이드나 세인트헬리어에 묵고 버스로 다녀오세요.|Few places to stay by the bay, so base yourself in St Brelade or St Helier and come by bus.'),
   ],
   gorey: [
     a('고리 항구', 'Gorey Harbour', 'Gorey Pier, Jersey', '성 아래 항구 전망|Harbour views below the castle', '부두를 따라 작은 호텔이 있고 세인트헬리어행 버스가 자주 다닙니다.|Small hotels along the pier, with frequent buses to St Helier.'),

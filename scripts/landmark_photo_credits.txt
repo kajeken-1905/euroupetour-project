@@ -4874,3 +4874,13 @@ highlights/st-helier-8.jpg | https://commons.wikimedia.org/wiki/File:Royal_Squar
 highlights/st-helier-9.jpg | https://commons.wikimedia.org/wiki/File:IMG_2430_Boeien_in_de_haven_van_St_Helier_achtergrond_Fort_Regent.JPG | CC BY 2.5 | No machine-readable author provided. Ellywa assumed (based o
 highlights/st-helier-10.jpg | https://commons.wikimedia.org/wiki/File:La_Corbiere_Lighthouse_20160901.jpg | CC BY-SA 3.0 | Daniel Kraft
 highlights/st-helier-11.jpg | https://commons.wikimedia.org/wiki/File:Grosnez_Castle_Jersey.jpg | Public domain | Emeraude
+cities/st-aubin.jpg | https://commons.wikimedia.org/wiki/File:St_Aubin%27s_Bay,_Jersey_2.jpg | CC BY 3.0 | Mailolstar
+highlights/st-aubin-1.jpg | https://commons.wikimedia.org/wiki/File:St._Aubin%27s_Fort_-_panoramio_(3).jpg | CC BY 3.0 | georama
+highlights/st-aubin-2.jpg | https://commons.wikimedia.org/wiki/File:Port_de_Saint_Aubin_%C3%A0_Jersey.jpg | CC BY 2.0 | [2]
+highlights/st-aubin-3.jpg | https://commons.wikimedia.org/wiki/File:Railway_Walk_Jersey_10.jpg | Public domain | Man vyi
+cities/st-brelade.jpg | https://commons.wikimedia.org/wiki/File:St_Brelade%27s_Bay_towards_Ouaisn%C3%A9,_Jersey.jpg | Public domain | No machine-readable author provided. Man vyi assumed (based
+highlights/st-brelade-1.jpg | https://commons.wikimedia.org/wiki/File:St_Brelade%27s_Bay,_Jersey,_Channel_Islands.jpg | CC BY 2.0 | Jersey Tourism
+highlights/st-brelade-2.jpg | https://commons.wikimedia.org/wiki/File:St_Brelade%27s_Church_13.jpg | CC BY-SA 4.0 | Derbrauni
+cities/st-ouen.jpg | https://commons.wikimedia.org/wiki/File:Paragliding_St_Ouen%27s_Bay,_Jersey.jpg | Public domain | No machine-readable author provided. Man vyi assumed (based
+highlights/st-ouen-1.jpg | https://commons.wikimedia.org/wiki/File:St._Ouens_Bay.jpg | CC BY-SA 3.0 | ch-info.ch
+highlights/st-ouen-2.jpg | https://commons.wikimedia.org/wiki/File:Battery_Moltke,_Les_Landes,_Jersey.JPG | CC BY-SA 3.0 | Danrok

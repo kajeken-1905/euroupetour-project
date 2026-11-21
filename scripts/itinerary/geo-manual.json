@@ -13137,14 +13137,19 @@
     -2.10978,
     "OSM Nominatim: Maritime Museum, New North Quay, Havre des Pas, Canton de Ha (Wikipedia 3m)"
   ],
-  "st-helier-h10": [
+  "st-brelade-h3": [
     49.17984,
     -2.2501,
     "OSM Nominatim: Corbière Lighthouse, La Corbière Causeway, St. Brelade, St B (Wikipedia 314m) (area article; lighthouse point)"
   ],
-  "st-helier-h11": [
+  "st-ouen-h3": [
     49.25755,
     -2.2468,
     "OSM Nominatim: Grosnez Castle, Chemin du Câtel, La Cueillette de Vinchelez, (Wikipedia 27m)"
+  ],
+  "st-brelade-h2": [
+    49.18401,
+    -2.20287,
+    "OSM Nominatim: St. Brelade's Church, Chemin des Creux, La Moye, La Vingtain (Wikipedia 10m)"
   ]
 }

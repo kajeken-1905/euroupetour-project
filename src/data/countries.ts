@@ -186,7 +186,7 @@ export const countries: Country[] = [
       background: '#FDE8EB',
       text: '#3A0A10',
     },
-    cityIds: ['st-helier', 'gorey'],
+    cityIds: ['st-helier', 'st-aubin', 'st-brelade', 'st-ouen', 'gorey'],
   },
   {
     id: 'gg',

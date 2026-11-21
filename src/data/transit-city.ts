@@ -8399,6 +8399,36 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Free printed timetables are available at Liberation Station.',
     },
   },
+  'st-aubin': {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '세인트헬리어 리버레이션 버스터미널에서 15번 버스(공항행)가 세인트오뱅을 지납니다.',
+      en: 'Route 15 (to the airport) runs from Liberation Station in St Helier through St Aubin.',
+    },
+    apps: [
+      ta('libertybus'),
+    ],
+  },
+  'st-brelade': {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '세인트헬리어 리버레이션 버스터미널에서 버스로 갑니다. 코르비에르 등대는 22번 버스가 지납니다.',
+      en: 'Buses run from Liberation Station in St Helier; route 22 passes La Corbière.',
+    },
+    apps: [
+      ta('libertybus'),
+    ],
+  },
+  'st-ouen': {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '세인트헬리어 리버레이션 버스터미널에서 22번 버스가 공항·코르비에르를 지나 해변 북쪽 레탁까지 갑니다.',
+      en: 'Route 22 runs from Liberation Station in St Helier via the airport and La Corbière to L’Etacq at the north end of the bay.',
+    },
+    apps: [
+      ta('libertybus'),
+    ],
+  },
   gorey: {
     modes: ['bus', 'walk'],
     howTo: {

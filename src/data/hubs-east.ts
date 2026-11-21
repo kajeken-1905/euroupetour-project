@@ -1138,6 +1138,16 @@ export const hubsEast: Record<string, RawCityHubs> = {
   gorey: {
     air: [['Jersey (JER)', '저지 공항 (JER)', '세인트헬리어 쪽|towards St Helier']],
   },
+  'st-aubin': {
+    air: [['Jersey (JER)', '저지 공항 (JER)']],
+    port: [['Elizabeth Harbour', '엘리자베스 항구', '세인트헬리어 · 건지·영국·프랑스행 배|St Helier · ferries to Guernsey, Britain and France']],
+  },
+  'st-brelade': {
+    air: [['Jersey (JER)', '저지 공항 (JER)']],
+  },
+  'st-ouen': {
+    air: [['Jersey (JER)', '저지 공항 (JER)']],
+  },
   'st-peter-port': {
     air: [['Guernsey (GCI)', '건지 공항 (GCI)']],
     port: [['St Peter Port Harbour', '세인트피터포트 항구', '저지·영국·프랑스·사크섬행 배|ferries to Jersey, Britain, France and Sark']],
