@@ -120,4 +120,40 @@ export const placesATExtra: Place[] = [
   place('durnstein-fine_dining-3', 'durnstein', 'fine_dining', 'Fesslhütte', 'Dürnsteiner Waldhütten 23, 3601 Dürnstein', '마을 위 숲속의 오스트리아 요리 산장 식당. 구글 지도 평점 4.7.', 'Austrian forest-hut restaurant in the woods above the village. Rated 4.7 on Google Maps.'),
   place('durnstein-fine_dining-4', 'durnstein', 'fine_dining', 'Wachauerstube Loiben', 'Unterloiben 24, 3601 Dürnstein', '운터로이벤의 오스트리아 요리 식당. 구글 지도 평점 4.5.', 'Austrian restaurant in Unterloiben. Rated 4.5 on Google Maps.'),
   place('durnstein-cafe-1', 'durnstein', 'cafe', 'Schloss Greisslerei', 'Dürnstein 32, 3601 Dürnstein', '마을 중심의 식료품점 겸 카페. 구글 지도 평점 4.7.', 'Delicatessen and café in the village centre. Rated 4.7 on Google Maps.'),
+
+  // —— st-wolfgang: restaurants, bakeries and cafés (2026-11-22) ——
+  place('st-wolfgang-fine_dining-1', 'st-wolfgang', 'fine_dining', 'Paula', 'Markt 88, 5360 St. Wolfgang im Salzkammergut', '장크트볼프강의 미쉐린 1스타 레스토랑.', 'One-MICHELIN-star restaurant in St. Wolfgang.', { michelin: 'star1' }),
+  place('st-wolfgang-fine_dining-2', 'st-wolfgang', 'fine_dining', 'Poll\'s Kaiserterrasse', 'Markt 74, 5360 St. Wolfgang im Salzkammergut', '백마 여관 호텔 안의 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Restaurant in the Weisses Rössl hotel, listed in the MICHELIN Guide.'),
+  place('st-wolfgang-fine_dining-3', 'st-wolfgang', 'fine_dining', 'Genussschmied', 'Markt 30, 5360 St. Wolfgang im Salzkammergut', '마을 중심의 퓨전 레스토랑. 구글 지도 평점 4.6.', 'Fusion restaurant in the village centre. Rated 4.6 on Google Maps.'),
+  place('st-wolfgang-fine_dining-4', 'st-wolfgang', 'fine_dining', 'Dorf-Alm zu St. Wolfgang', 'Markt 123, 5360 St. Wolfgang im Salzkammergut', '오스트리아 산장풍 식당. 구글 지도 평점 4.5.', 'Austrian alpine-hut-style restaurant. Rated 4.5 on Google Maps.'),
+  place('st-wolfgang-fine_dining-5', 'st-wolfgang', 'fine_dining', 'PAUL der Wirt', 'Markt 54, 5360 St. Wolfgang im Salzkammergut', '마을 중심의 식당. 구글 지도 평점 4.5.', 'Restaurant in the village centre. Rated 4.5 on Google Maps.'),
+  place('st-wolfgang-bakery-1', 'st-wolfgang', 'bakery', 'Café Konditorei Lebzelterei Wallner', 'Markt 29, 5360 St. Wolfgang im Salzkammergut', '교회 근처의 제과점 겸 카페로, 생강 과자 레프쿠헨을 굽습니다. 구글 지도 평점 4.4.', 'Patisserie-café near the church, baking gingerbread. Rated 4.4 on Google Maps.'),
+  place('st-wolfgang-cafe-1', 'st-wolfgang', 'cafe', 'Kaffeewerkstatt', 'Markt 140, 5360 St. Wolfgang im Salzkammergut', '마을 중심의 카페. 구글 지도 평점 4.6.', 'Café in the village centre. Rated 4.6 on Google Maps.'),
+
+  // —— melk: restaurants, bakeries and cafés (2026-11-22) ——
+  place('melk-fine_dining-1', 'melk', 'fine_dining', 'Mahlzeit in Melk', 'Linzer Straße 7/1, 3390 Melk', '구시가의 식당. 구글 지도 평점 4.8.', 'Restaurant in the old town. Rated 4.8 on Google Maps.'),
+  place('melk-fine_dining-2', 'melk', 'fine_dining', 'Restaurant zur Post Melk', 'Linzer Straße 1, 3390 Melk', '구시가의 오스트리아 식당. 구글 지도 평점 4.7.', 'Austrian restaurant in the old town. Rated 4.7 on Google Maps.'),
+  place('melk-bakery-1', 'melk', 'bakery', 'Bäckerei Konditorei Mistlbacher', 'Hauptstraße 1, 3390 Melk', '구시가의 빵집 겸 제과점. 구글 지도 평점 4.3.', 'Bakery and patisserie in the old town. Rated 4.3 on Google Maps.'),
+  place('melk-bakery-2', 'melk', 'bakery', 'Bäckerei Teufner', 'Abt-Karl-Straße 98, 3390 Melk', '멜크의 빵집. 구글 지도 평점 4.5.', 'Bakery in Melk. Rated 4.5 on Google Maps.'),
+  place('melk-bakery-3', 'melk', 'bakery', 'Haubis Backstube & Café Melk', 'Löwenpark 1, 3390 Melk', '빵집 겸 카페. 구글 지도 평점 4.4.', 'Bakery-café. Rated 4.4 on Google Maps.'),
+  place('melk-cafe-1', 'melk', 'cafe', 'Cafe Teufner', 'Wiener Straße 36, 3390 Melk', '구시가의 카페 겸 제과점. 구글 지도 평점 4.7.', 'Café and patisserie in the old town. Rated 4.7 on Google Maps.'),
+  place('melk-cafe-2', 'melk', 'cafe', 'Corrado Cafe', 'Rathausplatz 9, 3390 Melk', '시청 광장의 카페. 구글 지도 평점 4.4.', 'Café on the town-hall square. Rated 4.4 on Google Maps.'),
+  place('melk-cafe-3', 'melk', 'cafe', 'Stifts-Restaurant', 'Abt-Berthold-Dietmayr-Straße 3, 3390 Melk', '멜크 수도원 앞의 카페 겸 식당. 구글 지도 평점 4.3.', 'Café-restaurant by Melk Abbey. Rated 4.3 on Google Maps.'),
+
+  // —— eisenstadt: restaurants, bakeries and cafés (2026-11-22) ——
+  place('eisenstadt-fine_dining-1', 'eisenstadt', 'fine_dining', 'Taubenkobel', 'Hauptstraße 31, 7081 Schützen am Gebirge', '아이젠슈타트와 노이지들러 호수 사이 쉬첸 마을의 미쉐린 2스타 레스토랑.', 'Two-MICHELIN-star restaurant in Schützen am Gebirge, between Eisenstadt and Lake Neusiedl.', { michelin: 'star2' }),
+  place('eisenstadt-fine_dining-2', 'eisenstadt', 'fine_dining', 'Gasthof OHR', 'Ruster Straße 51, 7000 Eisenstadt', '아이젠슈타트의 향토 요리 식당으로 미쉐린 가이드에 실려 있습니다.', 'Regional-cuisine inn in Eisenstadt, listed in the MICHELIN Guide.'),
+  place('eisenstadt-fine_dining-3', 'eisenstadt', 'fine_dining', 'Kirchenwirt', 'Rathausplatz 18, 7071 Rust', '루스트 광장의 오스트리아 식당으로 미쉐린 가이드에 실려 있습니다.', 'Austrian restaurant on the square in Rust, listed in the MICHELIN Guide.'),
+  place('eisenstadt-fine_dining-4', 'eisenstadt', 'fine_dining', 'Im Hofgassl', 'Rathausplatz 10, 7071 Rust', '루스트 광장의 향토 요리 식당으로 미쉐린 가이드에 실려 있습니다.', 'Regional-cuisine restaurant on the square in Rust, listed in the MICHELIN Guide.'),
+  place('eisenstadt-fine_dining-5', 'eisenstadt', 'fine_dining', 'Gut Purbach', 'Hauptgasse 64, 7083 Purbach am Neusiedler See', '호숫가 와인 마을 푸르바흐의 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Restaurant in the lakeside wine village of Purbach, listed in the MICHELIN Guide.'),
+  place('eisenstadt-bakery-1', 'eisenstadt', 'bakery', 'Chez Paul', 'Colmarplatz 1, 7000 Eisenstadt', '빵과 식료품을 파는 비스트로. 구글 지도 평점 4.7.', 'Bistro selling bread and delicatessen. Rated 4.7 on Google Maps.'),
+  place('eisenstadt-cafe-1', 'eisenstadt', 'cafe', 'Cafe Im Hof', 'Hauptstraße 26, 7000 Eisenstadt', '중심 거리 안뜰의 카페. 구글 지도 평점 4.8.', 'Courtyard café on the main street. Rated 4.8 on Google Maps.'),
+  place('eisenstadt-cafe-2', 'eisenstadt', 'cafe', '2Beans Kaffeerösterei', 'Kleinhöfleiner Hauptstraße 8, 7000 Eisenstadt', '원두를 직접 볶는 카페. 구글 지도 평점 4.6.', 'Roastery café. Rated 4.6 on Google Maps.'),
+  place('eisenstadt-cafe-3', 'eisenstadt', 'cafe', 'Café Central by Takitos', 'Hauptstraße 40, 7000 Eisenstadt', '중심 거리의 카페. 구글 지도 평점 4.4.', 'Café on the main street. Rated 4.4 on Google Maps.'),
+
+  // —— alpbach: restaurants, bakeries and cafés (2026-11-22) ——
+  place('alpbach-fine_dining-1', 'alpbach', 'fine_dining', 'Fuggerstube', 'Alpbach 166, 6236 Alpbach', '알프바흐의 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Restaurant in Alpbach, listed in the MICHELIN Guide.'),
+  place('alpbach-fine_dining-2', 'alpbach', 'fine_dining', 'Jausenstüberl Oberthaler', 'Alpbach 119, 6236 Alpbach', '알프바흐 골짜기의 작은 식당. 구글 지도 평점 4.9.', 'Small restaurant in the Alpbach valley. Rated 4.9 on Google Maps.'),
+  place('alpbach-fine_dining-3', 'alpbach', 'fine_dining', 'Postalm', 'Alpbach 184/b, 6236 Alpbach', '마을 중심의 식당. 구글 지도 평점 4.3.', 'Restaurant in the village centre. Rated 4.3 on Google Maps.'),
+  place('alpbach-cafe-1', 'alpbach', 'cafe', 'Bikerei 701', 'Alpbach 701, 6236 Alpbach', '마을의 카페. 구글 지도 평점 4.8.', 'Café in the village. Rated 4.8 on Google Maps.'),
 ]
