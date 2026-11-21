@@ -1188,6 +1188,17 @@ export const hubsEast: Record<string, RawCityHubs> = {
   eysturoy: {
     air: [['Vágar (FAE)', '바가르 공항 (FAE)', '바가르섬|on Vágar']],
   },
+  klaksvik: {
+    air: [['Vágar (FAE)', '바가르 공항 (FAE)', '바가르섬|on Vágar']],
+    bus: [['Klaksvík', '클락스비크 버스 정류장', '토르스하운행 400번|route 400 to Tórshavn']],
+  },
+  sandoy: {
+    air: [['Vágar (FAE)', '바가르 공항 (FAE)', '바가르섬|on Vágar']],
+  },
+  suduroy: {
+    air: [['Vágar (FAE)', '바가르 공항 (FAE)', '바가르섬|on Vágar']],
+    port: [['Krambatangi', '크람바탕기 페리 항구', '토르스하운행 스미릴호 · 약 2시간|Smyril to Tórshavn · about 2 hours']],
+  },
   nuuk: {
     air: [['Nuuk (GOH)', '누크 공항 (GOH)', '그린란드엔 도시 사이 도로 없음|no roads between towns in Greenland']],
   },

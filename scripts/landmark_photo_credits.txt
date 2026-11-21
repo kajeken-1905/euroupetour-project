@@ -4934,3 +4934,15 @@ highlights/vagar-5.jpg | https://commons.wikimedia.org/wiki/File:Drangarnir,_Far
 highlights/eysturoy-4.jpg | https://commons.wikimedia.org/wiki/File:Inside_Nor%C3%B0oyatunnilin_1.jpg | CC BY-SA 3.0 | Erik Christensen, Porkeri (Contact at the Danish Wikipedia)
 highlights/eysturoy-5.jpg | https://commons.wikimedia.org/wiki/File:Funningur_2_2022.jpg | CC BY-SA 4.0 | Ekrem Canli
 highlights/eysturoy-6.jpg | https://commons.wikimedia.org/wiki/File:Elduv%C3%ADk_Eysturoy.1.jpg | CC BY-SA 3.0 | Erik Christensen
+cities/klaksvik.jpg | https://commons.wikimedia.org/wiki/File:Klaksv%C3%ADk_harbour.jpg | CC BY-SA 4.0 | Ekrem Canli
+highlights/klaksvik-1.jpg | https://commons.wikimedia.org/wiki/File:KlaksvikChurch.JPG | Public domain | Matthew Ross
+highlights/klaksvik-2.jpg | https://commons.wikimedia.org/wiki/File:Kallur_kalsoy_2.jpg | CC BY-SA 4.0 | Ekrem Canli
+highlights/klaksvik-3.jpg | https://commons.wikimedia.org/wiki/File:Vi%C3%B0arei%C3%B0i_sunset.jpg | CC BY-SA 4.0 | Rokaso
+cities/sandoy.jpg | https://commons.wikimedia.org/wiki/File:Sandur_Sandoy_Faroe_Islands_on_15_July_2012.JPG | CC BY-SA 3.0 | EileenSanda
+highlights/sandoy-1.jpg | https://commons.wikimedia.org/wiki/File:Sandur_village_and_the_sandy_beach_with_dunes_Sandoy_Faroe_Islands.JPG | CC BY-SA 3.0 | EileenSanda
+highlights/sandoy-3.jpg | https://commons.wikimedia.org/wiki/File:Sk%C3%BAvoy_01062013.JPG | CC BY-SA 3.0 | EileenSanda
+cities/suduroy.jpg | https://commons.wikimedia.org/wiki/File:Lopransei%C3%B0i_and_Kirvi_a_Mountain_in_Su%C3%B0uroy_and_the_Cliff_Beinisv%C3%B8r%C3%B0.JPG | CC BY-SA 3.0 | Eileen Sandá
+highlights/suduroy-1.jpg | https://commons.wikimedia.org/wiki/File:Beinisv%C3%B8r%C3%B0.Su%C3%B0uroy.1.jpg | CC BY-SA 3.0 | Erik Christensen
+highlights/suduroy-2.jpg | https://commons.wikimedia.org/wiki/File:Faroese_sheep_Sumba_1.jpg | CC BY-SA 4.0 | kallerna
+highlights/suduroy-3.jpg | https://commons.wikimedia.org/wiki/File:F%C3%A1mjin_Kirkja_1.jpg | CC BY-SA 3.0 | Erik Christensen
+highlights/suduroy-4.jpg | https://commons.wikimedia.org/wiki/File:Tv%C3%B8royri_from_Smyril_2.jpg | CC BY-SA 4.0 | kallerna

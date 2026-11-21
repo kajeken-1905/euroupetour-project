@@ -2838,6 +2838,15 @@ export const STAY: Record<string, StayArea[]> = {
     a('고르브', 'Gjógv', 'Gjógv', '산행·조용한 마을|Hiking, a quiet village', '산행 거점으로 좋지만 토르스하운과 공항에서 차로 약 1시간 걸립니다.|A good hiking base, but about an hour’s drive from Tórshavn and the airport.'),
     a('토르스하운에서 다녀오기', 'Base in Tórshavn', 'Tórshavn', '식당·편의|Dining and convenience', '해저 터널로 이어져 차로 당일에 다녀올 수 있습니다.|Linked by undersea tunnel, easy as a day trip by car.'),
   ],
+  klaksvik: [
+    a('클락스비크 항구', 'Klaksvík harbour', 'Klaksvík', '북쪽 섬 거점|Base for the northern isles', '숙소와 식당이 항구 둘레에 있고, 칼소이섬 배가 여기서 떠납니다.|Hotels and restaurants around the harbour, where the Kalsoy boat leaves.'),
+  ],
+  sandoy: [
+    a('토르스하운에서 다녀오기', 'Visit from Tórshavn', 'Tórshavn', '당일치기|Day trip', '해저 터널로 차로 가깝고 섬 숙소가 적어 토르스하운에 묵는 사람이 많습니다.|Close by car through the tunnel, with few places to stay on the island, so most stay in Tórshavn.'),
+  ],
+  suduroy: [
+    a('트뵈로위리·바구르', 'Tvøroyri or Vágur', 'Tvøroyri', '섬에서 1박|A night on the island', '페리 시간이 정해져 있어 섬에서 하룻밤 묵으면 서두르지 않고 둘러볼 수 있습니다.|With fixed ferry times, a night on the island lets you explore without rushing.'),
+  ],
   nuuk: [
     a('누크 시내', 'Central Nuuk', 'Nuuk centre', '처음 가는 여행자|First visit', '국립 박물관과 옛 항구가 가깝습니다. 와이파이가 비싼 곳이 많습니다.|Close to the National Museum and the old harbour; Wi-Fi is often expensive.'),
   ],

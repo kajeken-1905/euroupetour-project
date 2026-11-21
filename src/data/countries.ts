@@ -830,7 +830,7 @@ export const countries: Country[] = [
       background: '#E8F1FB',
       text: '#0A2240',
     },
-    cityIds: ['torshavn', 'vagar', 'eysturoy'],
+    cityIds: ['torshavn', 'sandoy', 'vagar', 'eysturoy', 'klaksvik', 'suduroy'],
   },
   {
     id: 'gl',

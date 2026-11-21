@@ -13296,5 +13296,20 @@
     62.00959,
     -6.77171,
     "OSM Nominatim: Havnar Kirkja, Tinganes (Wikipedia 10m)"
+  ],
+  "klaksvik-h1": [
+    62.22538,
+    -6.58658,
+    "OSM Nominatim: Christianskirkjan, Kirkjubrekka, Klaksvík, Klaksvíkar kommun (Wikipedia 27m)"
+  ],
+  "suduroy-h3": [
+    61.5257,
+    -6.87951,
+    "OSM Nominatim: Fámjins kirkja, 5, Fámjinsvegur, Heiman Kirkju, Fámjin, Fámj (Wikipedia 156m)"
+  ],
+  "suduroy-h4": [
+    61.55533,
+    -6.80468,
+    "OSM Nominatim: Tvøroyri, Froðba, Tvøroyrar kommuna, Suðuroyar sýsla, 800, F (Wikipedia 91m)"
   ]
 }

@@ -8539,6 +8539,33 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Village buses run only a few times a day—check the return times first.',
     },
   },
+  klaksvik: {
+    modes: ['bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '토르스하운에서 400번 버스가 다닙니다. 칼소이섬은 배, 비더레이디는 버스나 차로 갑니다.',
+      en: 'Route 400 runs from Tórshavn; take the boat to Kalsoy and a bus or car to Viðareiði.',
+    },
+    apps: [
+    ],
+  },
+  sandoy: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '해저 터널 개통 뒤 토르스하운에서 버스와 차로 갑니다. 버스는 자주 다니지 않으니 시간표를 확인하세요.',
+      en: 'Since the tunnel opened, buses and cars run from Tórshavn; buses are infrequent, so check the timetable.',
+    },
+    apps: [
+    ],
+  },
+  suduroy: {
+    modes: ['ferry', 'bus', 'walk'],
+    howTo: {
+      ko: '토르스하운에서 스미릴호로 크람바탕기에 닿습니다. 섬 안은 700번(트뵈로위리~숨바)·701번(퍼민~산드비크) 버스가 다닙니다.',
+      en: 'The Smyril sails from Tórshavn to Krambatangi; on the island, bus 700 runs Tvøroyri–Sumba and 701 Fámjin–Sandvík.',
+    },
+    apps: [
+    ],
+  },
   // —— gl (Visit Greenland) ——
   nuuk: {
     modes: ['bus', 'taxi', 'bike', 'walk'],

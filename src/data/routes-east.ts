@@ -457,6 +457,9 @@ export const routesEast: RawRoute[] = [
   // —— fo, gl ——
   r('torshavn', 'vagar', 'bus', 55, { fa: '파르스퇴딘 터미널|Farstøðin', fb: '바가르 공항|Vágar Airport', n: '300번 버스 · 주말엔 적음|bus 300 · few at weekends' }),
   r('vagar', 'copenhagen', 'flight', 130),
+  r('torshavn', 'suduroy', 'ferry', 120, { n: '스미릴호 · 하루 2~3회|Smyril · 2–3 sailings a day' }),
+  r('torshavn', 'sandoy', 'bus', 40),
+  r('torshavn', 'klaksvik', 'bus', 60, { n: '400번 버스|bus 400' }),
   r('nuuk', 'copenhagen', 'flight', 280, { n: '2024년 11월부터 직항|direct since November 2024' }),
   r('nuuk', 'kangerlussuaq', 'flight', 50),
   r('nuuk', 'ilulissat', 'flight', 75),
