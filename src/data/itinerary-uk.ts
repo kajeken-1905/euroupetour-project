@@ -132,9 +132,9 @@ export const itineraryUk: Record<string, RawItinerary> = {
   kilkenny: { days: [['', 1, 5, 2, 6, 3]], trips: [['캐셜 바위|Rock of Cashel', 7]] },
   limerick: { days: [['', 4, 3, 7, 1, 6, 2, 5]], trips: [['번래티 성|Bunratty Castle', 8]] },
   // Crown Dependencies
-  douglas: { days: [['', 2, 3, 1]], trips: [['락시와 스나펠|Laxey & Snaefell', 4, 5]] },
-  castletown: [1, 2, 3],
-  peel: [1, 2],
+  douglas: { days: [['', 2, 3, 7, 1, 8]], trips: [['락시와 스나펠|Laxey & Snaefell', 6, 4, 5], ['그라우들 글렌|Groudle Glen', 9]] },
+  castletown: { days: [['', 4, 1, 2, 3]], trips: [['러셴 수도원|Rushen Abbey', 5]] },
+  peel: { days: [['', 1, 2, 3]], trips: [['세인트존스|St John’s', 4], ['니아빌|Niarbyl', 5]] },
   'st-helier': { days: [['', 7, 6, 4, 8, 3, 9, 1]], trips: [['섬 안쪽|Inland', 2, 5]] },
   'st-aubin': {"days": [["", 2, 1, 3]]},
   'st-brelade': {"days": [["", 1, 2, 3]]},

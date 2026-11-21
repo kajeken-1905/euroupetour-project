@@ -4900,3 +4900,12 @@ highlights/alderney-3.jpg | https://commons.wikimedia.org/wiki/File:Alderney_Man
 highlights/alderney-4.jpg | https://commons.wikimedia.org/wiki/File:Fort_Clonque_(8157760688).jpg | CC BY 2.0 | Richard from Leeds, Yorkshire, UK
 highlights/alderney-5.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Braye_Harbour.JPG | CC BY-SA 3.0 | Chickenofbristol at English Wikipedia
 highlights/alderney-6.jpg | https://commons.wikimedia.org/wiki/File:Orbicular_rock,_Alderney,_Channel_Islands_-_Natural_History_Museum,_London_-_DSC05210.jpg | CC0 | Daderot
+highlights/douglas-6.jpg | https://commons.wikimedia.org/wiki/File:Manx_Electric_Railway_tram_passing_The_Mines_at_Laxey_-_geograph.org.uk_-_5070898.jpg | CC BY-SA 2.0 | Alan Murray-Rust
+highlights/douglas-7.jpg | https://commons.wikimedia.org/wiki/File:Great_Union_Camera_Obscura,_Douglas_-_geograph.org.uk_-_8385084.jpg | CC BY-SA 2.0 | Gareth James
+highlights/douglas-8.jpg | https://commons.wikimedia.org/wiki/File:2013_Isle_of_Man_TT_14.jpg | CC BY-SA 3.0 | [Agljones at en.wikipedia
+highlights/douglas-9.jpg | https://commons.wikimedia.org/wiki/File:Groudle_Glen_Railway_-_geograph.org.uk_-_1674386.jpg | CC BY-SA 2.0 | Dr Neil Clifton
+highlights/castletown-4.jpg | https://commons.wikimedia.org/wiki/File:Isle_of_Man_Railways_No_11_Maitland_at_Douglas_1982-06-30.jpg | CC BY-SA 2.0 | John Ward
+highlights/castletown-5.jpg | https://commons.wikimedia.org/wiki/File:Rushen_Abbey,_August_2026.jpg | CC0 | HallCastleKing
+highlights/peel-3.jpg | https://commons.wikimedia.org/wiki/File:Peel_Cathedral_IOM_-_geograph.org.uk_-_5619429.jpg | CC BY-SA 2.0 | Colin Park
+highlights/peel-4.jpg | https://commons.wikimedia.org/wiki/File:St._John%27s,_Tynwald_Hill_-_geograph.org.uk_-_4615271.jpg | CC BY-SA 2.0 | Mike Faherty
+highlights/peel-5.jpg | https://commons.wikimedia.org/wiki/File:Niarbyl,_Isle_of_Man.jpg | CC0 | Manx James

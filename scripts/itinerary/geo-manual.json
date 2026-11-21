@@ -13186,5 +13186,30 @@
     49.72375,
     -2.2023,
     "OSM Nominatim: Braye Harbour, Alderney Breakwater, Braye, Saint Anne, Alder (Wikipedia 105m)"
+  ],
+  "douglas-h9": [
+    54.17731,
+    -4.42169,
+    "OSM Nominatim: Groudle Glen Railway, Groudle Old Road, Onchan, Middle, IM3  (Wikipedia 115m)"
+  ],
+  "castletown-h5": [
+    54.09832,
+    -4.6346,
+    "OSM Nominatim: Rushen Abbey, Bridge Road, Ballasalla, Malew, Rushen, IM9 2E (Wikipedia 200m)"
+  ],
+  "peel-h3": [
+    54.22183,
+    -4.69123,
+    "OSM Nominatim: Saint German's Cathedral, Derby Road, Peel (Wikipedia 20m)"
+  ],
+  "peel-h5": [
+    54.16385,
+    -4.74005,
+    "OSM Nominatim: Niarbyl, Patrick, Glenfaba, IM5 3BS, Isle of Man (Wikipedia 6m)"
+  ],
+  "douglas-h7": [
+    54.14335,
+    -4.4673,
+    "OSM Nominatim: Grand Union Camera Obscura, Douglas Head (Wikipedia 2m)"
   ]
 }
