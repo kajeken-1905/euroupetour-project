@@ -35935,8 +35935,8 @@ export const cities: City[] = [
     nativeName: "Tórshavn",
     cardTagline: { ko: "틴가네스", en: "Tinganes" },
     blurb: {
-      ko: "페로 제도의 수도. 잔디 지붕 집이 모인 옛 의회 터와 작은 항구가 있는 아담한 도시입니다.",
-      en: "The Faroese capital, a compact harbour town around a turf-roofed old parliament quarter.",
+      ko: "페로 제도의 수도로, 세계에서 가장 작은 수도 가운데 하나입니다. 바이킹 시대부터 의회가 모이던 틴가네스 반도에 붉은 목조 정부 건물과 잔디 지붕 집이 모여 있고, 1788년 대성당과 국립 미술관·박물관이 걸어서 닿는 거리에 있습니다. 남쪽 키르큐보우르의 중세 유적과 북서쪽 사크순 마을까지 차로 다녀옵니다.",
+      en: "The capital of the Faroe Islands and one of the world’s smallest capitals. Red wooden government buildings and turf-roofed houses crowd the Tinganes peninsula, where the parliament has met since Viking times, and the 1788 cathedral, the national gallery and museum are all within walking distance. Drive out to the medieval ruins at Kirkjubøur in the south and the village of Saksun in the north-west.",
     },
     highlights: [
       {
@@ -35945,6 +35945,13 @@ export const cities: City[] = [
         description: { ko: "바이킹 시대부터 의회가 모이던 반도로, 붉은 목조 정부 건물과 잔디 지붕 집이 늘어서 있습니다.", en: "Headland where the parliament has met since Viking times, lined with red wooden government buildings and turf roofs." },
         image: "/highlights/torshavn-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tinganes%20T%C3%B3rshavn",
+      },
+      {
+        id: "torshavn-h5",
+        name: { ko: "토르스하운 대성당", en: "Tórshavn Cathedral" },
+        description: { ko: "틴가네스 북쪽 끝의 하얀 벽, 슬레이트 지붕 교회로 1788년에 세워졌습니다. 1990년부터 페로 주교좌가 있어 대성당이라 부릅니다.", en: "A white-walled, slate-roofed church at the north end of Tinganes, built in 1788; the seat of the Bishop of the Faroes since 1990, hence a cathedral." },
+        image: "/highlights/torshavn-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=T%C3%B3rshavn%20Cathedral%20Havnar%20Kirkja",
       },
       {
         id: "torshavn-h2",
@@ -35961,12 +35968,40 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nor%C3%B0urlandah%C3%BAsi%C3%B0%20T%C3%B3rshavn",
       },
       {
+        id: "torshavn-h6",
+        name: { ko: "페로 국립 미술관", en: "Listasavn Føroya" },
+        description: { ko: "토르스하운 공원 북쪽 끝, 노르딕 하우스 가까이의 미술관으로, 페로 화가들의 작품을 주로 전시합니다.", en: "The national art gallery at the north end of Tórshavn’s park near the Nordic House, showing mostly Faroese art." },
+        image: "/highlights/torshavn-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Listasavn%20F%C3%B8roya",
+      },
+      {
+        id: "torshavn-h7",
+        name: { ko: "페로 국립박물관", en: "National Museum of the Faroe Islands" },
+        description: { ko: "토르스하운의 국립박물관으로, 페로의 역사와 문화를 보여 줍니다.", en: "The national museum in Tórshavn, on the history and culture of the Faroe Islands." },
+        image: "/highlights/torshavn-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tj%C3%B3%C3%B0savni%C3%B0%20T%C3%B3rshavn",
+      },
+      {
         id: "torshavn-h4",
         name: { ko: "키르큐보우르", en: "Kirkjubøur" },
-        description: { ko: "토르스하운 남쪽 마을로, 중세 성 마그누스 대성당 유적과 오래된 농가가 있습니다.", en: "Village south of Tórshavn with the ruined medieval St Magnus Cathedral and an ancient farmhouse." },
+        description: { ko: "토르스하운 남쪽 스트레이모이섬 끝의 마을로, 페로에서 가장 중요한 역사 유적지입니다. 1300년 무렵의 마그누스 대성당 유적, 12세기 성 올라프 교회, 11세기부터 이어진 농가가 있습니다.", en: "A village at the southern tip of Streymoy, the most important historic site in the Faroes: the ruins of the Magnus Cathedral from around 1300, the 12th-century St Olav’s Church and a farmhouse dating back to the 11th century." },
         image: "/highlights/torshavn-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kirkjub%C3%B8ur",
-      }
+      },
+      {
+        id: "torshavn-h9",
+        name: { ko: "사크순", en: "Saksun" },
+        description: { ko: "스트레이모이섬 북서쪽 해안 가까이의 작은 마을로, 잔디 지붕 교회와 썰물 때 드러나는 모래 석호 풍경이 유명합니다.", en: "A small village near the north-west coast of Streymoy, known for its turf-roofed church and the sandy lagoon revealed at low tide." },
+        image: "/highlights/torshavn-9.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Saksun%20Faroe%20Islands",
+      },
+      {
+        id: "torshavn-h8",
+        name: { ko: "뇔소이섬", en: "Nólsoy" },
+        description: { ko: "토르스하운 동쪽 4km 앞바다의 섬으로, 항구에서 배로 건너가 하나뿐인 마을과 해안을 걷습니다.", en: "An island 4 km east of Tórshavn, reached by ferry from the harbour, with a single village and coastal walks." },
+        image: "/highlights/torshavn-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=N%C3%B3lsoy",
+      },
     ],
   },
   {
@@ -35979,14 +36014,14 @@ export const cities: City[] = [
     nativeName: "Vágar",
     cardTagline: { ko: "뮐라포수르 폭포", en: "Múlafossur" },
     blurb: {
-      ko: "공항이 있는 섬. 바다로 바로 떨어지는 폭포와 바다 위에 뜬 듯한 호수로 유명합니다.",
-      en: "The airport island, famous for a waterfall that drops straight into the sea and a lake that seems to hang above the ocean.",
+      ko: "페로 제도의 유일한 공항이 있는 섬입니다. 가사달루르 마을 앞 절벽에서 바다로 곧장 떨어지는 폭포, 바다 절벽 위에 떠 있는 듯한 호수, 아치가 뚫린 바위 기둥 드랑가르니르가 모여 있어 섬에 내리자마자 페로다운 풍경을 만납니다.",
+      en: "The island with the Faroes’ only airport. The waterfall dropping straight off the cliff into the sea at Gásadalur, a lake that seems to float above the ocean and the arched sea stacks of Drangarnir are all here, so the classic Faroese scenery starts as soon as you land.",
     },
     highlights: [
       {
         id: "vagar-h1",
         name: { ko: "뮐라포수르 폭포", en: "Múlafossur" },
-        description: { ko: "가사달루르 마을 앞 절벽에서 바다로 곧장 떨어지는 폭포입니다.", en: "Waterfall plunging off the cliffs at Gásadalur straight into the sea." },
+        description: { ko: "가사달루르 마을 앞 절벽에서 바다로 곧장 떨어지는 폭포입니다. 마을 뒤로 높은 산이 둘러싸고 앞으로 미키네스섬이 보이며, 2004년 터널이 뚫리기 전엔 산길로만 닿던 마을입니다.", en: "A waterfall dropping straight off the cliff into the sea in front of the village of Gásadalur, which is ringed by Vágar’s highest mountains and looks across to Mykines; before its tunnel opened in 2004 the village could be reached only over the mountain." },
         image: "/highlights/vagar-1.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=M%C3%BAlafossur%20G%C3%A1sadalur",
       },
@@ -35998,12 +36033,26 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=S%C3%B8rv%C3%A1gsvatn",
       },
       {
+        id: "vagar-h5",
+        name: { ko: "드랑가르니르", en: "Drangarnir" },
+        description: { ko: "틴드횔무르와 바가르섬 사이 바다에 선 두 바위 기둥으로, 큰 기둥 스토리 드랑구르엔 바다 아치가 뚫려 있습니다.", en: "A pair of sea stacks between Tindhólmur and Vágar; the larger, Stóri Drangur, is pierced by a sea arch." },
+        image: "/highlights/vagar-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Drangarnir%20Faroe%20Islands",
+      },
+      {
+        id: "vagar-h4",
+        name: { ko: "뵈우르 마을", en: "Bøur" },
+        description: { ko: "쇠르바구르 서쪽 4km의 작은 마을로, 바다 위 뾰족한 섬 틴드횔무르와 바위 기둥 드랑가르니르가 마주 보여 그림과 사진으로 자주 등장합니다.", en: "A small village 4 km west of Sørvágur, looking out to the jagged islet of Tindhólmur and the Drangarnir sea stacks, a scene painted and photographed again and again." },
+        image: "/highlights/vagar-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=B%C3%B8ur%20Faroe%20Islands",
+      },
+      {
         id: "vagar-h3",
         name: { ko: "미키네스섬", en: "Mykines" },
         description: { ko: "배나 헬리콥터로 가는 작은 섬으로, 여름에 퍼핀이 둥지를 틉니다.", en: "Small island reached by boat or helicopter, where puffins nest in summer." },
         image: "/highlights/vagar-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mykines%20Faroe%20Islands",
-      }
+      },
     ],
   },
   {
@@ -36016,8 +36065,8 @@ export const cities: City[] = [
     nativeName: "Eysturoy",
     cardTagline: { ko: "고르브 협곡 항구", en: "Gjógv" },
     blurb: {
-      ko: "페로에서 두 번째로 큰 섬. 가장 높은 산과 협곡 속 항구 마을, 전설 속 바위 기둥이 있습니다.",
-      en: "The second-largest island, with the highest peak, a gorge-harbour village and legendary sea stacks.",
+      ko: "페로 제도에서 두 번째로 큰 섬으로, 가장 높은 산 슬래타라틴두르(880m)가 있습니다. 바다로 열린 협곡을 항구로 쓰는 고르브, 거인과 마녀 전설의 바위 기둥, 산골짜기 끝의 작은 마을들이 흩어져 있고, 토르스하운에서 해저 로터리가 있는 해저 터널로 바로 이어집니다.",
+      en: "The second-largest of the Faroe Islands, home to the highest peak, Slættaratindur (880 m). Gjógv with its gorge harbour, the legendary sea stacks of the Giant and the Witch and tiny villages at the ends of green valleys are scattered across it, and an undersea tunnel with a roundabout links it directly to Tórshavn.",
     },
     highlights: [
       {
@@ -36028,6 +36077,13 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gj%C3%B3gv%20Faroe%20Islands",
       },
       {
+        id: "eysturoy-h3",
+        name: { ko: "거인과 마녀 바위", en: "Risin og Kellingin" },
+        description: { ko: "에이디 마을 앞바다에 선 두 바위 기둥으로, 거인과 마녀의 전설이 있습니다.", en: "Twin sea stacks off Eiði, said to be a giant and a witch turned to stone." },
+        image: "/highlights/eysturoy-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Risin%20og%20Kellingin",
+      },
+      {
         id: "eysturoy-h2",
         name: { ko: "슬래타라틴두르", en: "Slættaratindur" },
         description: { ko: "해발 880m, 페로 제도에서 가장 높은 산입니다.", en: "At 880 m, the highest mountain in the Faroe Islands." },
@@ -36035,12 +36091,26 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sl%C3%A6ttaratindur",
       },
       {
-        id: "eysturoy-h3",
-        name: { ko: "거인과 마녀 바위", en: "Risin og Kellingin" },
-        description: { ko: "에이디 마을 앞바다에 선 두 바위 기둥으로, 거인과 마녀의 전설이 있습니다.", en: "Twin sea stacks off Eiði, said to be a giant and a witch turned to stone." },
-        image: "/highlights/eysturoy-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Risin%20og%20Kellingin",
-      }
+        id: "eysturoy-h6",
+        name: { ko: "엘두비크 마을", en: "Elduvík" },
+        description: { ko: "푼닝스피오르 안쪽의 작은 마을로, 개울을 사이에 두고 알록달록한 옛 집들과 반원으로 둘러선 보트 창고가 마주합니다. 바다 건너 칼소이섬이 보입니다.", en: "A tiny village on the Funningsfjørður inlet, split by a stream between colourful old houses and boathouses ringed round the pier, looking across to Kalsoy." },
+        image: "/highlights/eysturoy-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Elduv%C3%ADk",
+      },
+      {
+        id: "eysturoy-h5",
+        name: { ko: "푼닝구르 마을", en: "Funningur" },
+        description: { ko: "에이스투르오이 북서쪽 피오르 안쪽의 마을로, 뒤로 페로 최고봉 슬래타라틴두르가 솟아 있습니다.", en: "A village at the head of a fjord on Eysturoy’s north-west coast, with Slættaratindur, the highest peak, rising behind it." },
+        image: "/highlights/eysturoy-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Funningur",
+      },
+      {
+        id: "eysturoy-h4",
+        name: { ko: "에이스투르오이 해저 터널", en: "Eysturoy Tunnel" },
+        description: { ko: "스트레이모이와 에이스투르오이를 잇는 총길이 11.24km의 해저 터널로, 바다 밑 한가운데에 세계 첫 해저 로터리가 있고 조명 예술로 꾸며져 있습니다.", en: "An 11.24 km undersea tunnel linking Streymoy and Eysturoy, with the world’s first undersea roundabout, lit with an art installation, at its centre." },
+        image: "/highlights/eysturoy-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Eysturoyartunnilin",
+      },
     ],
   },
   {

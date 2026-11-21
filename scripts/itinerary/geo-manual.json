@@ -13261,5 +13261,40 @@
     54.05279,
     -4.81656,
     "OSM Nominatim: Calf of Man, Rushen, Isle of Man (Wikipedia 243m)"
+  ],
+  "torshavn-h6": [
+    62.01774,
+    -6.78054,
+    "OSM Nominatim: Listasavn Føroya, 9, J9, Gundadalsvegur, Tórshavn, Tórshavna (Wikipedia 33m)"
+  ],
+  "torshavn-h9": [
+    62.24423,
+    -7.17125,
+    "OSM Nominatim: Saksun, Sunda kommuna, Streymoyar sýsla, 436, Føroyar (Wikipedia 570m)"
+  ],
+  "vagar-h4": [
+    62.08798,
+    -7.37145,
+    "OSM Nominatim: Bøur, Sørvágs kommuna, Vága sýsla, 386, Føroyar (Wikipedia 378m)"
+  ],
+  "vagar-h5": [
+    62.0754,
+    -7.41443,
+    "OSM Nominatim: Drangarnir, Gásadalsvegur, Bøur, Sørvágs kommuna, Vága sýsla (Wikipedia 14m)"
+  ],
+  "eysturoy-h5": [
+    62.28707,
+    -6.96634,
+    "OSM Nominatim: Funningur, Runavíkar kommuna, Eysturoyar sýsla, 475, Føroyar (Wikipedia 119m)"
+  ],
+  "eysturoy-h6": [
+    62.28228,
+    -6.91183,
+    "OSM Nominatim: Elduvík, Runavíkar kommuna, Eysturoyar sýsla, 478, Føroyar (Wikipedia 112m)"
+  ],
+  "torshavn-h5": [
+    62.00959,
+    -6.77171,
+    "OSM Nominatim: Havnar Kirkja, Tinganes (Wikipedia 10m)"
   ]
 }

@@ -4924,3 +4924,13 @@ highlights/port-erin-2.jpg | https://commons.wikimedia.org/wiki/File:Port_Erin_B
 highlights/port-erin-3.jpg | https://commons.wikimedia.org/wiki/File:Port_erin_railway_museum_No6_peveril_2018-06-28.jpg | CC BY 4.0 | Herbert Ortner
 highlights/port-erin-4.jpg | https://commons.wikimedia.org/wiki/File:Cregneash_Folk_Museum_1988.jpg | CC BY 3.0 | RuthAS
 highlights/port-erin-5.jpg | https://commons.wikimedia.org/wiki/File:The_Calf_of_Man_-_geograph.org.uk_-_29.jpg | CC BY-SA 2.0 | Andy Stephenson
+highlights/torshavn-5.jpg | https://commons.wikimedia.org/wiki/File:T%C3%B3rshavn_Cathedral_2014.jpg | CC BY-SA 3.0 | Henrik Dvergsdal
+highlights/torshavn-6.jpg | https://commons.wikimedia.org/wiki/File:Listasavn_F%C3%B8roya.jpg | CC BY-SA 3.0 | Eileen Sandá
+highlights/torshavn-7.jpg | https://commons.wikimedia.org/wiki/File:T%C3%B3rshavn_F%C3%B8roya_Fornminnissavn_main_building_seen_from_the_southeast.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/torshavn-8.jpg | https://commons.wikimedia.org/wiki/File:N%C3%B3lsoy_by_Arne_List_-_2569792191.jpg | CC BY-SA 2.0 | Arne List
+highlights/torshavn-9.jpg | https://commons.wikimedia.org/wiki/File:Saksun,_Faroe_Islands.jpg | CC BY-SA 4.0 | MiroRosa
+highlights/vagar-4.jpg | https://commons.wikimedia.org/wiki/File:B%C3%B8ur_(20692732549).jpg | CC BY 2.0 | Stefan Wisselink
+highlights/vagar-5.jpg | https://commons.wikimedia.org/wiki/File:Drangarnir,_Faroe_Islands_2009.jpg | CC BY-SA 3.0 | Stanisław Soluch
+highlights/eysturoy-4.jpg | https://commons.wikimedia.org/wiki/File:Inside_Nor%C3%B0oyatunnilin_1.jpg | CC BY-SA 3.0 | Erik Christensen, Porkeri (Contact at the Danish Wikipedia)
+highlights/eysturoy-5.jpg | https://commons.wikimedia.org/wiki/File:Funningur_2_2022.jpg | CC BY-SA 4.0 | Ekrem Canli
+highlights/eysturoy-6.jpg | https://commons.wikimedia.org/wiki/File:Elduv%C3%ADk_Eysturoy.1.jpg | CC BY-SA 3.0 | Erik Christensen

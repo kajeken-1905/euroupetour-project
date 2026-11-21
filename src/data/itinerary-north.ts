@@ -349,9 +349,9 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   nida: { days: [['', 3, 2, 1, 4]], trips: [['마녀의 언덕|Hill of Witches', 5]] },
   druskininkai: { days: [['', 1, 2, 3, 4]], trips: [['그루타스 공원|Grūtas Park', 5]] },
   // Faroe Islands, Greenland, Russia and Belarus
-  torshavn: { days: [['', 1, 2, 3]], trips: [['키르큐보우르|Kirkjubøur', 4]] },
-  vagar: { days: [['', 1, 2]], trips: [['미키네스섬|Mykines', 3]] },
-  eysturoy: [2, 3, 1],
+  torshavn: { days: [['', 1, 5, 2, 6, 3, 7]], trips: [['키르큐보우르|Kirkjubøur', 4], ['사크순|Saksun', 9], ['뇔소이섬|Nólsoy', 8]] },
+  vagar: { days: [['', 2, 4, 1]], trips: [['드랑가르니르|Drangarnir', 5], ['미키네스섬|Mykines', 3]] },
+  eysturoy: { days: [['', 4, 6, 5, 1, 3]], trips: [['슬래타라틴두르|Slættaratindur', 2]] },
   nuuk: { days: [['', 3, 1, 2]], trips: [['피오르 보트 투어|Fjord boat tour', 4]] },
   ilulissat: { days: [['', 3, 2, 1]], trips: [['에키 빙하 보트|Eqi Glacier by boat', 4]] },
   kangerlussuaq: { days: [['', 1, 3]], trips: [['빙상 투어|Ice sheet tour', 2]] },
