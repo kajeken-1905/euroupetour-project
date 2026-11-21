@@ -1015,6 +1015,22 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Roskilde', '로스킬데역']],
   },
 
+  skagen: {
+    air: [['Aalborg (AAL)', '올보르 공항 (AAL)']],
+    rail: [['Skagen', '스카겐역', '프레데릭스하운 환승|change at Frederikshavn']],
+  },
+  ribe: {
+    air: [['Billund (BLL)', '빌룬 공항 (BLL)']],
+    rail: [['Ribe', '리베역']],
+  },
+  billund: {
+    air: [['Billund (BLL)', '빌룬 공항 (BLL)']],
+    bus: [['Billund Lufthavn', '빌룬 공항 버스 정류장', '바일레·오르후스행|to Vejle and Aarhus']],
+  },
+  bornholm: {
+    air: [['Bornholm (RNN)', '보른홀름 공항 (RNN)', '뢴네 남동쪽 5km|5 km south-east of Rønne']],
+    port: [['Rønne', '뢴네 항구', '이스타(스웨덴)·쾨게행 배|ferries to Ystad (Sweden) and Køge']],
+  },
   // —— se ——
   stockholm: {
     air: [

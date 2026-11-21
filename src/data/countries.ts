@@ -658,7 +658,7 @@ export const countries: Country[] = [
       background: '#F9E8EB',
       text: '#3A0610',
     },
-    cityIds: ['copenhagen', 'aarhus', 'odense', 'aalborg', 'roskilde'],
+    cityIds: ['copenhagen', 'roskilde', 'bornholm', 'odense', 'ribe', 'billund', 'aarhus', 'aalborg', 'skagen'],
   },
   {
     id: 'se',

@@ -5769,6 +5769,78 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "ribe",
+    countryId: "dk",
+    lat: 55.3283,
+    lng: 8.7622,
+    signatureImage: "/cities/ribe.jpg",
+    name: { ko: "리베", en: "Ribe" },
+    nativeName: "Ribe",
+    blurb: {
+      ko: "유틀란트 남서쪽의 덴마크에서 가장 오래된 도시입니다. 바이킹 시대 선교사 안스가르가 세운 덴마크 첫 교회 자리에 로마네스크 양식이 가장 잘 남은 대성당이 서 있고, 돌길과 목조 가옥이 이어지는 옛 시가가 그대로입니다. 서쪽엔 유네스코 세계유산 바덴해 갯벌이 펼쳐집니다.",
+      en: "Denmark’s oldest town, in south-west Jutland. Its cathedral, the best-preserved Romanesque building in the country, stands where the missionary Ansgar founded Denmark’s first church in the Viking Age, amid an intact old town of cobbled lanes and half-timbered houses. To the west stretch the UNESCO-listed tidal flats of the Wadden Sea.",
+    },
+    highlights: [
+      {
+        id: "ribe-h1",
+        name: { ko: "리베 대성당", en: "Ribe Cathedral" },
+        description: { ko: "바이킹 시대 선교사 안스가르가 덴마크 첫 교회를 세운 자리의 대성당으로, 덴마크에서 가장 잘 보존된 로마네스크 건물입니다. 탑에 오르면 옛 시가와 습지가 내려다보입니다.", en: "The cathedral on the site where the missionary Ansgar founded Denmark’s first church in the Viking Age, the best-preserved Romanesque building in the country; climb the tower for views over the old town and marshes." },
+        image: "/highlights/ribe-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ribe%20Domkirke",
+      },
+      {
+        id: "ribe-h2",
+        name: { ko: "리베 옛 시가", en: "Ribe old town" },
+        description: { ko: "대성당 둘레로 돌길과 기울어진 목조 가옥이 이어지는 덴마크에서 가장 오래된 시가지입니다.", en: "Cobbled lanes and leaning half-timbered houses round the cathedral, the oldest townscape in Denmark." },
+        image: "/highlights/ribe-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ribe%20gamle%20by",
+      },
+      {
+        id: "ribe-h3",
+        name: { ko: "바덴해 국립공원", en: "Wadden Sea National Park" },
+        description: { ko: "덴마크·독일·네덜란드에 걸친 유네스코 세계유산 갯벌로, 썰물 때 넓은 갯벌이 드러나고 봄가을엔 철새 떼가 하늘을 덮습니다.", en: "The UNESCO-listed tidal flats shared by Denmark, Germany and the Netherlands; vast mudflats appear at low tide, and huge flocks of migrating birds fill the sky in spring and autumn." },
+        image: "/highlights/ribe-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nationalpark%20Vadehavet",
+      }
+    ],
+  },
+  {
+    id: "billund",
+    countryId: "dk",
+    lat: 55.7308,
+    lng: 9.1153,
+    signatureImage: "/cities/billund.jpg",
+    name: { ko: "빌룬", en: "Billund" },
+    nativeName: "Billund",
+    blurb: {
+      ko: "레고가 태어난 유틀란트 중부의 작은 도시로, 레고 본사와 1968년 문을 연 첫 레고랜드, 2,500만 개 브릭으로 채운 레고 하우스가 있습니다. 덴마크 둘째 공항이 있어 가족 여행의 출발점이 되고, 가까이엔 사파리 동물원도 있습니다.",
+      en: "The small central-Jutland town where Lego was born, home to the Lego headquarters, the original Legoland, opened in 1968, and Lego House, filled with 25 million bricks. Denmark’s second airport makes it an easy family base, with a safari zoo nearby.",
+    },
+    highlights: [
+      {
+        id: "billund-h1",
+        name: { ko: "레고랜드 빌룬", en: "Legoland Billund" },
+        description: { ko: "1968년 6월 7일 문을 연 세계 첫 레고랜드로, 2,000만 개 넘는 브릭으로 만든 미니랜드가 유명합니다. 코펜하겐 밖에서 덴마크 최대의 관광지입니다.", en: "The original Legoland, opened on 7 June 1968 and famous for its Miniland of more than 20 million bricks; the biggest attraction in Denmark outside Copenhagen." },
+        image: "/highlights/billund-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Legoland%20Billund",
+      },
+      {
+        id: "billund-h2",
+        name: { ko: "레고 하우스", en: "Lego House" },
+        description: { ko: "2,500만 개 브릭으로 채운 12,000m² 건물로, 직접 조립하고 로봇을 프로그래밍하는 체험 구역과 레고 역사 박물관이 있습니다.", en: "A 12,000 m² building filled with 25 million bricks, with hands-on building and robot-programming zones and a museum of Lego history." },
+        image: "/highlights/billund-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lego%20House%20Billund",
+      },
+      {
+        id: "billund-h3",
+        name: { ko: "기브스쿠 동물원", en: "Givskud Zoo" },
+        description: { ko: "빌룬 북동쪽의 사파리 동물원으로, 1969년 사자 공원으로 시작해 지금은 70종 700마리가 넘는 동물이 삽니다. 차로 사파리를 돕니다.", en: "A safari park north-east of Billund that began as a lion park in 1969 and now has more than 700 animals of over 70 species; drive through the safari." },
+        image: "/highlights/billund-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Givskud%20Zoo",
+      }
+    ],
+  },
+  {
     id: "aalborg",
     countryId: "dk",
     lat: 57.0488,
@@ -5833,6 +5905,49 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "skagen",
+    countryId: "dk",
+    lat: 57.7209,
+    lng: 10.5839,
+    signatureImage: "/cities/skagen.jpg",
+    name: { ko: "스카겐", en: "Skagen" },
+    nativeName: "Skagen",
+    blurb: {
+      ko: "유틀란트반도 끝, 덴마크 최북단 마을로 덴마크 최대의 어항입니다. 북쪽 곶 그레넨에선 스카게라크와 카테가트 두 바다가 부딪치고, 19세기 말 노란 집과 빛에 반한 화가들이 모여 ‘스카겐 화파’를 이뤘습니다. 남쪽엔 해마다 움직이는 거대한 모래언덕과 모래에 묻힌 교회가 있습니다.",
+      en: "Denmark’s northernmost town and its main fishing port, at the very tip of Jutland. At the Grenen spit two seas, the Skagerrak and the Kattegat, collide, and the yellow houses and light drew the late-19th-century Skagen Painters. To the south lie a vast migrating dune and a church half buried by sand.",
+    },
+    highlights: [
+      {
+        id: "skagen-h1",
+        name: { ko: "그레넨", en: "Grenen" },
+        description: { ko: "스카겐 북동쪽 끝으로 길게 뻗은 모래톱으로, 덴마크 최북단에서 두 바다의 물결이 만나는 모습을 봅니다.", en: "The long sandbar at the tip of the Skagen headland, Denmark’s northernmost point, where the waves of two seas meet." },
+        image: "/highlights/skagen-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Grenen%20Skagen",
+      },
+      {
+        id: "skagen-h2",
+        name: { ko: "스카겐 미술관", en: "Skagens Museum" },
+        description: { ko: "19세기 말~20세기 초 이곳에 모여 산 스카겐 화가들(크뢰위에르, 안케르 부부 등)의 작품을 모은 미술관입니다.", en: "An art museum of the Skagen Painters who lived here in the late 19th and early 20th centuries, among them P. S. Krøyer and Anna and Michael Ancher." },
+        image: "/highlights/skagen-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Skagens%20Museum",
+      },
+      {
+        id: "skagen-h3",
+        name: { ko: "모래에 묻힌 교회", en: "Sand-Covered Church" },
+        description: { ko: "시내 남서쪽 2km의 14세기 말 교회로, 18세기 모래언덕에 묻혀 1795년 버려졌고 지금은 탑만 모래 위에 남아 있습니다.", en: "A late-14th-century church 2 km south-west of town, buried by drifting dunes in the 18th century and abandoned in 1795; only its tower now rises from the sand." },
+        image: "/highlights/skagen-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Den%20Tilsandede%20Kirke",
+      },
+      {
+        id: "skagen-h4",
+        name: { ko: "로비에르 밀레 모래언덕", en: "Råbjerg Mile" },
+        description: { ko: "스카겐과 프레데릭스하운 사이의 북유럽 최대 이동 모래언덕으로, 넓이 약 2km², 높이 40m이며 바람에 밀려 해마다 최대 18m씩 움직입니다.", en: "Northern Europe’s largest migrating dune, between Skagen and Frederikshavn: about 2 km² and 40 m high, pushed up to 18 m a year by the wind." },
+        image: "/highlights/skagen-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=R%C3%A5bjerg%20Mile",
+      }
+    ],
+  },
+  {
     id: "roskilde",
     countryId: "dk",
     lat: 55.6415,
@@ -5880,6 +5995,49 @@ export const cities: City[] = [
         image: "/highlights/roskilde-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sagnlandet%20Lejre",
       },
+    ],
+  },
+  {
+    id: "bornholm",
+    countryId: "dk",
+    lat: 55.1,
+    lng: 14.7,
+    signatureImage: "/cities/bornholm.jpg",
+    name: { ko: "보른홀름섬", en: "Bornholm" },
+    nativeName: "Bornholm",
+    blurb: {
+      ko: "발트해에 떠 있는 덴마크의 섬으로, 스웨덴 남쪽·폴란드 북쪽에 있습니다. 화강암 바위가 많아 ‘바위섬’, 날씨가 좋아 ‘햇빛섬’이라 불리고, 북쪽 끝엔 북유럽 최대의 중세 요새 터 함메르후스, 섬 곳곳엔 덴마크의 둥근 교회들이 있습니다. 코펜하겐에서 비행기로, 또는 스웨덴 이스타를 거쳐 배로 갑니다.",
+      en: "A Danish island in the Baltic, south of Sweden and north of Poland. Its granite earns it the name ‘rock island’ and its weather ‘sunshine island’; Hammershus, the largest medieval fortress in northern Europe, crowns its northern tip, and Denmark’s round churches are scattered across it. Fly from Copenhagen, or go via Ystad in Sweden by ferry.",
+    },
+    highlights: [
+      {
+        id: "bornholm-h1",
+        name: { ko: "함메르후스 성터", en: "Hammershus" },
+        description: { ko: "섬 북쪽 끝 함메렌의 중세 요새 터로, 북유럽에서 가장 큰 중세 요새입니다. 1750년 무렵 일부 헐렸고 1900년 무렵 일부 복원됐습니다.", en: "The ruins of a medieval fortress at Hammeren on the island’s northern tip, the largest in northern Europe; partly demolished around 1750 and partly restored around 1900." },
+        image: "/highlights/bornholm-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hammershus",
+      },
+      {
+        id: "bornholm-h2",
+        name: { ko: "외스테를라르스 둥근 교회", en: "Østerlars Church" },
+        description: { ko: "구드옘 남쪽 5km의 둥근 교회로, 섬에 있는 네 둥근 교회 가운데 가장 크고 아마 가장 오래됐습니다.", en: "A round church 5 km south of Gudhjem, the largest and perhaps the oldest of the island’s four round churches." },
+        image: "/highlights/bornholm-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%98sterlars%20Kirke",
+      },
+      {
+        id: "bornholm-h3",
+        name: { ko: "구드옘", en: "Gudhjem" },
+        description: { ko: "섬 북쪽 해안의 작은 어촌으로, 가파른 골목과 바다 전망, 훈제 생선집으로 사랑받습니다.", en: "A small fishing town on the north coast, loved for its steep lanes, sea views and smokehouses." },
+        image: "/highlights/bornholm-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gudhjem",
+      },
+      {
+        id: "bornholm-h4",
+        name: { ko: "크리스티안쇠", en: "Christiansø" },
+        description: { ko: "구드옘 북동쪽 18km의 작은 섬 무리(에르트홀메네)로, 덴마크 최동단이며 옛 해군 요새 섬에 약 90명이 삽니다. 구드옘에서 배로 갑니다.", en: "A tiny archipelago (Ertholmene) 18 km north-east of Gudhjem, Denmark’s easternmost point, where about 90 people live on the old naval fortress islands; boats leave from Gudhjem." },
+        image: "/highlights/bornholm-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Christians%C3%B8",
+      }
     ],
   },
   {

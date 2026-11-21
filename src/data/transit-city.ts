@@ -5838,6 +5838,50 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('dsb'),
     ],
   },
+  skagen: {
+    modes: ['bus', 'train', 'walk'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 그레넨까지 버스나 자전거로 갑니다. 올보르에서 프레데릭스하운을 거쳐 기차로 옵니다.',
+      en: 'Walk around town and take a bus or bike to Grenen; trains come from Aalborg via Frederikshavn.',
+    },
+    apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
+      ta('dsb'),
+    ],
+  },
+  ribe: {
+    modes: ['train', 'walk'],
+    howTo: {
+      ko: '옛 시가는 작아서 걸어서 다닙니다. 기차역이 시내 바로 옆입니다.',
+      en: 'The old town is small enough to walk; the station is right by the centre.',
+    },
+    apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
+      ta('dsb'),
+    ],
+  },
+  billund: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '철도가 없어 바일레·오르후스에서 버스로 옵니다. 공항과 레고랜드가 걸어서 닿는 거리입니다.',
+      en: 'There is no railway; buses come from Vejle and Aarhus. The airport and Legoland are within walking distance.',
+    },
+    apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
+      ta('dsb'),
+    ],
+  },
+  bornholm: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '섬 버스가 뢴네와 마을들을 잇고, 자전거 길이 잘 돼 있습니다.',
+      en: 'Island buses link Rønne with the villages, and there are good cycle paths.',
+    },
+    apps: [
+      ta('rejsebillet', { ko: '전국 버스·기차·메트로 표', en: 'Bus, train and metro tickets nationwide' }),
+      ta('dsb'),
+    ],
+  },
   // —— se ——
   stockholm: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],

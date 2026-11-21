@@ -13600,5 +13600,60 @@
     56.08635,
     10.22252,
     "OSM Nominatim: Moesgaard Museum, Moesgård Allé, Moesgård Huse, Aarhus, Aarh (Wikipedia 245m)"
+  ],
+  "skagen-h1": [
+    57.74624,
+    10.65017,
+    "OSM Nominatim: Grenen, Skagen, Frederikshavn Kommune, Region Nordjylland, D (Wikipedia 306m)"
+  ],
+  "skagen-h2": [
+    57.72452,
+    10.59679,
+    "OSM Nominatim: Skagens Museum, Brøndumsvej, Østerby, Skagen, Frederikshavn  (Wikipedia 31m)"
+  ],
+  "skagen-h3": [
+    57.71364,
+    10.55056,
+    "OSM Nominatim: Den Tilsandede Kirke, Gammel Landevej, Højen, Skagen, Freder (Wikipedia 23m)"
+  ],
+  "skagen-h4": [
+    57.64781,
+    10.40961,
+    "OSM Nominatim: Råbjerg Mile, Kandestederne, Frederikshavn Kommune, Region N (Wikipedia 210m)"
+  ],
+  "ribe-h1": [
+    55.32807,
+    8.76147,
+    "OSM Nominatim: Ribe Domkirke, Torvet, Ribe Søndermark, Ribe, Esbjerg Kommun (Wikipedia 12m)"
+  ],
+  "billund-h1": [
+    55.73593,
+    9.12676,
+    "OSM Nominatim: Legoland, Nordmarksvej, Travbyen, Billund, Billund Kommune,  (Wikipedia 58m)"
+  ],
+  "billund-h3": [
+    55.80847,
+    9.35168,
+    "OSM Nominatim: Givskud Zoo - Zootopia, Vejlevej, Givskud, Vejle Kommune, Re (Wikipedia 356m)"
+  ],
+  "bornholm-h1": [
+    55.27091,
+    14.75519,
+    "OSM Nominatim: Hammershus, Langebjergvej, Sæne, Allinge-Sandvig, Bornholms  (Wikipedia 15m)"
+  ],
+  "bornholm-h2": [
+    55.17148,
+    14.96169,
+    "OSM Nominatim: Østerlars Kirke, Vietsvej, Østerlars, Bornholms Regionskommu (Wikipedia 9m)"
+  ],
+  "bornholm-h3": [
+    55.21122,
+    14.97041,
+    "OSM Nominatim: Gudhjem, Bornholms Regionskommune, Region Hovedstaden, 3760, (Wikipedia 143m)"
+  ],
+  "bornholm-h4": [
+    55.32045,
+    15.18924,
+    "OSM Nominatim: Christiansø, Christiansø Administration, Danmark (Wikipedia 106m)"
   ]
 }

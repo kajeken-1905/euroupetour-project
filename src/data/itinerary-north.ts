@@ -138,6 +138,10 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   odense: { days: [['', 1, 2, 4, 3, 5]], trips: [['에게스코우 성|Egeskov Castle', 6]] },
   aalborg: { days: [['', 4, 5, 1, 2, 6, 3]], trips: [['린홀름 회예|Lindholm Høje', 7]] },
   roskilde: { days: [['', 2, 4, 1, 3]], trips: [['레이레|Lejre', 5]] },
+  skagen: {"days": [["", 1, 2, 3]], "trips": [["로비에르 밀레|Råbjerg Mile", 4]]},
+  ribe: {"days": [["", 1, 2]], "trips": [["바덴해|Wadden Sea", 3]]},
+  billund: {"days": [["", 1]], "trips": [["레고 하우스|Lego House", 2], ["기브스쿠 동물원|Givskud Zoo", 3]]},
+  bornholm: {"days": [["", 1, 3, 2]], "trips": [["크리스티안쇠|Christiansø", 4]]},
   budapest: {
     days: [
       ['부다 왕궁 언덕|Castle Hill', 5, 7, 9, 2, 19, 10, 18],

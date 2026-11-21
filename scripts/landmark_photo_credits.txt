@@ -4981,3 +4981,21 @@ highlights/aalborg-6.jpg | https://commons.wikimedia.org/wiki/File:KUNSTEN_Aalbo
 highlights/aalborg-7.jpg | https://commons.wikimedia.org/wiki/File:Lindholm_H%C3%B8je_N%C3%B8rresundby.jpg | CC BY-SA 4.0 | Mikkel Houmøller
 highlights/roskilde-5.jpg | https://commons.wikimedia.org/wiki/File:Lejre_Iron_age_village_DSCN0529_w1536.jpg | CC BY-SA 4.0 | Per Meistrup
 highlights/aarhus-6.jpg | https://commons.wikimedia.org/wiki/File:Moesgaard,_Aarhus_Denemarken_(45511131525).jpg | CC BY-SA 2.0 | Nanda Sluijsmans from Den Haag, Nederland
+cities/skagen.jpg | https://commons.wikimedia.org/wiki/File:Bike_and_accessibility_walkway_at_S%C3%B8nderstrand_beach_Skagen_Denmark.jpg | CC BY-SA 4.0 | Ciara Ní Riain
+highlights/skagen-1.jpg | https://commons.wikimedia.org/wiki/File:Grenen_set_fra_Skagen_Fyr.jpg | CC BY-SA 3.0 | Wishes anonymity
+highlights/skagen-2.jpg | https://commons.wikimedia.org/wiki/File:Skagens_Museum_2017_(37252127714).jpg | CC BY-SA 2.0 | Skagens Kunstmuseer from Denmark
+highlights/skagen-3.jpg | https://commons.wikimedia.org/wiki/File:Den_tilsandede_kirke_(Sankt_Laurentii_Kirke)_Denmark_(2026-08-21)_3.jpg | CC BY-SA 4.0 | Olgierd Rudak
+highlights/skagen-4.jpg | https://commons.wikimedia.org/wiki/File:R%C3%A5bjerg_Mile_Denmark_(2026-08-21)_11.jpg | CC BY-SA 4.0 | Olgierd Rudak
+cities/ribe.jpg | https://commons.wikimedia.org/wiki/File:Denmark_ribe_church.jpg | CC BY-SA 4.0 | Arne Müseler
+highlights/ribe-1.jpg | https://commons.wikimedia.org/wiki/File:Ribe_Cathedral_017_2285.jpg | CC BY-SA 4.0 | Ludvig14
+highlights/ribe-2.jpg | https://commons.wikimedia.org/wiki/File:Denmark_ribe.jpg | CC BY-SA 4.0 | Arne Müseler
+highlights/ribe-3.jpg | https://commons.wikimedia.org/wiki/File:Waddenzee_achter_de_zeedijk_bij_Paesens-Moddergat._17-09-2024._(d.j.b)_06.jpg | CC BY-SA 4.0 | Dominicus Johannes Bergsma.
+cities/billund.jpg | https://commons.wikimedia.org/wiki/File:The_LEGO_Campus_in_Billund_(2025).jpg | CC BY 4.0 | Michał Beim
+highlights/billund-1.jpg | https://commons.wikimedia.org/wiki/File:Legoland_Billund_-_The_Temple_(Adventure_Land).jpg | CC BY-SA 4.0 | Kigsz
+highlights/billund-2.jpg | https://commons.wikimedia.org/wiki/File:Lego_House_Billund.jpg | CC BY-SA 4.0 | MPhernambucq
+highlights/billund-3.jpg | https://commons.wikimedia.org/wiki/File:L%C3%B8ve_i_Givskud_Zoo.JPG | CC BY-SA 3.0 | Helt
+cities/bornholm.jpg | https://commons.wikimedia.org/wiki/File:R%C3%B8nne_waterfront_2025.jpg | CC BY 4.0 | Wikiolo
+highlights/bornholm-1.jpg | https://commons.wikimedia.org/wiki/File:Hammershus_3.jpg | CC BY-SA 4.0 | Fugit hora
+highlights/bornholm-2.jpg | https://commons.wikimedia.org/wiki/File:2023_Oesterlars_Kirke_02.jpg | CC BY-SA 4.0 | Unukorno
+highlights/bornholm-3.jpg | https://commons.wikimedia.org/wiki/File:GudhjemHavn2.jpg | CC BY-SA 4.0 | Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wik
+highlights/bornholm-4.jpg | https://commons.wikimedia.org/wiki/File:Store_T%C3%A5rn_p%C3%A5_Christians%C3%B8_med_fyret_ovenp%C3%A5.jpg | CC BY-SA 3.0 | 7alaskan

@@ -1931,6 +1931,18 @@ export const STAY: Record<string, StayArea[]> = {
   roskilde: [
     a('코펜하겐에서 다녀오기', 'Base in Copenhagen', 'København H', '당일치기|Day trip', '중앙역에서 기차로 25~30분, 한 시간에 여러 대 있습니다. 코펜하겐 카드로 기차와 바이킹선 박물관이 됩니다. 여름 음악 축제 기간에는 숙소가 비쌉니다.|25–30 minutes by train from Central Station with several trains an hour; the Copenhagen Card covers the train and the Viking Ship Museum. Rooms get pricey during the summer festival.'),
   ],
+  skagen: [
+    a('스카겐 시내', 'Skagen town', 'Skagen', '항구·해변|Harbour, beaches', '항구와 노란 집들 사이에 숙소가 있고 그레넨까지 버스·자전거로 갑니다.|Places to stay between the harbour and the yellow houses, with buses or bikes to Grenen.'),
+  ],
+  ribe: [
+    a('리베 옛 시가', 'Ribe old town', 'Ribe', '옛 시가 분위기|Historic atmosphere', '대성당 둘레 옛 집을 고친 숙소가 있어 저녁 산책하기 좋습니다.|Hotels in old houses round the cathedral, lovely for an evening stroll.'),
+  ],
+  billund: [
+    a('레고랜드 주변', 'By Legoland', 'Billund', '가족 여행|Family trips', '레고랜드와 공항 가까이에 테마 호텔과 휴양 시설이 모여 있습니다.|Theme hotels and holiday resorts cluster near Legoland and the airport.'),
+  ],
+  bornholm: [
+    a('뢴네·구드옘', 'Rønne or Gudhjem', 'Rønne', '섬 여행|Island stay', '항구 도시 뢴네가 교통이 편하고, 북쪽 해안 구드옘은 분위기가 좋습니다.|Rønne, the port town, is handiest; Gudhjem on the north coast has more charm.'),
+  ],
   debrecen: [
     a('시내 중심 (코슈트 광장)', 'Centre (Kossuth Square)', 'Kossuth tér, Debrecen', '걸어서 구경|Sights on foot', '대개혁교회와 데리 박물관, 카페·식당을 걸어서 다닙니다.|The Great Reformed Church, Déri Museum, cafés and restaurants on foot.'),
     a('너지에르되 (큰 숲)', 'Nagyerdő (Great Forest)', 'Nagyerdő, Debrecen', '숲·온천|Park and spa', '숲 공원과 온천 시설 근처로 조용합니다. 시내까지 2km쯤입니다.|A quiet area by the park and spa, about 2 km from the centre.'),
