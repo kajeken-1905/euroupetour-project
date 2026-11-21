@@ -195,5 +195,9 @@ export const itineraryIberia: Record<string, RawItinerary> = {
   guimaraes: [1, 2, 4, 3, 5],
   'andorra-la-vella': { days: [['', 5, 1, 2, 3, 7, 4]], trips: [['산타 콜로마|Santa Coloma', 6]] },
   'pas-de-la-casa': { days: [['', 2, 1]], trips: [['엔발리라 고개·페손스 호수|Envalira & Pessons', 3, 4]] },
+  'escaldes-engordany': {"days": [["", 1, 2, 3]], "trips": [["마드리우 계곡|Madriu valley", 4]]},
+  'la-massana': {"days": [["", 1, 2, 3]], "trips": [["팔-아린살 스키장|Pal-Arinsal", 4], ["코마페드로사|Comapedrosa", 5]]},
+  canillo: {"days": [["", 1, 3, 2]]},
+  soldeu: {"days": [["", 1]], "trips": [["인클레스·후클라르|Incles & Juclar", 2, 3]]},
   ordino: { days: [['', 1, 2, 5, 6], ['', 9, 8, 3]], trips: [['아르칼리스·트리스타이나|Arcalís & Tristaina', 4, 7]] },
 }

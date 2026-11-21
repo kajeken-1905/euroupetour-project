@@ -3600,6 +3600,8 @@ export const HIGHLIGHT_GEO: Record<string, [number, number]> = {
   'ordino-h5': [42.55689, 1.53287],
   'ordino-h8': [42.57662, 1.51775],
   'ordino-h4': [42.63139, 1.50039],
+  'canillo-h1': [42.55463, 1.59088],
+  'canillo-h2': [42.57083, 1.60779],
   'vaduz-h1': [47.14057, 9.5242],
   'vaduz-h2': [47.14109, 9.52121],
   'vaduz-h3': [47.1395, 9.52211],

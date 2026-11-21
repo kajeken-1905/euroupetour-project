@@ -807,6 +807,39 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [["Estació Nacional d'Autobusos", '안도라 국립 버스터미널', '안도라라베야|Andorra la Vella']],
   },
 
+  'escaldes-engordany': {
+    air: [
+      ["Andorra–La Seu d'Urgell (LEU)", '안도라–라 세우 두르젤 공항 (LEU)', '스페인 라 세우 두르젤 · 마드리드·팔마행 주 2회|La Seu d’Urgell, Spain · Madrid and Palma twice a week'],
+      BCN('스페인 바르셀로나|Barcelona, Spain'),
+      ['Toulouse–Blagnac (TLS)', '툴루즈 블라냑 공항 (TLS)', '프랑스 툴루즈|Toulouse, France'],
+    ],
+    rail: [["L'Hospitalet-près-l'Andorre", '로스피탈레 프레 랑도르역', '프랑스 · 안도라엔 철도 없음|France · no railway in Andorra']],
+    bus: [["Estació Nacional d'Autobusos", '안도라 국립 버스터미널', '안도라라베야|Andorra la Vella']],
+  },
+  'la-massana': {
+    air: [
+      ["Andorra–La Seu d'Urgell (LEU)", '안도라–라 세우 두르젤 공항 (LEU)', '스페인 라 세우 두르젤 · 마드리드·팔마행 주 2회|La Seu d’Urgell, Spain · Madrid and Palma twice a week'],
+      BCN('스페인 바르셀로나|Barcelona, Spain'),
+      ['Toulouse–Blagnac (TLS)', '툴루즈 블라냑 공항 (TLS)', '프랑스 툴루즈|Toulouse, France'],
+    ],
+    bus: [["Estació Nacional d'Autobusos", '안도라 국립 버스터미널', '안도라라베야|Andorra la Vella']],
+  },
+  canillo: {
+    air: [
+      ["Andorra–La Seu d'Urgell (LEU)", '안도라–라 세우 두르젤 공항 (LEU)', '스페인 라 세우 두르젤 · 마드리드·팔마행 주 2회|La Seu d’Urgell, Spain · Madrid and Palma twice a week'],
+      BCN('스페인 바르셀로나|Barcelona, Spain'),
+      ['Toulouse–Blagnac (TLS)', '툴루즈 블라냑 공항 (TLS)', '프랑스 툴루즈|Toulouse, France'],
+    ],
+    bus: [["Estació Nacional d'Autobusos", '안도라 국립 버스터미널', '안도라라베야|Andorra la Vella']],
+  },
+  soldeu: {
+    air: [
+      ["Andorra–La Seu d'Urgell (LEU)", '안도라–라 세우 두르젤 공항 (LEU)', '스페인 라 세우 두르젤 · 마드리드·팔마행 주 2회|La Seu d’Urgell, Spain · Madrid and Palma twice a week'],
+      BCN('스페인 바르셀로나|Barcelona, Spain'),
+      ['Toulouse–Blagnac (TLS)', '툴루즈 블라냑 공항 (TLS)', '프랑스 툴루즈|Toulouse, France'],
+    ],
+    rail: [["L'Hospitalet-près-l'Andorre", '로스피탈레 프레 랑도르역', '프랑스 · 안도라엔 철도 없음|France · no railway in Andorra']],
+  },
   // —— pt ——
   'peso-da-regua': {
     air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],

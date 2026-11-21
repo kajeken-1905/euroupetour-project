@@ -2257,6 +2257,18 @@ export const STAY: Record<string, StayArea[]> = {
   ordino: [
     a('오르디노 마을', 'Ordino village', 'Ordino, Andorra', '조용한 계곡·발노르드 스키|Quiet valley, Vallnord', '높은 계곡의 조용한 마을로 발노르드 스키장과 산길이 가깝습니다.|A quiet high-valley village close to Vallnord and mountain roads.'),
   ],
+  'escaldes-engordany': [
+    a('에스칼데스 중심', 'Escaldes centre', 'Avinguda Carlemany, Escaldes-Engordany', '쇼핑·온천|Shopping, spa', '칼데아 온천과 카를레마니 거리 사이로, 안도라라베야 구시가까지 걸어갈 수 있습니다.|Between Caldea and Avinguda Carlemany, within walking distance of Andorra la Vella’s old quarter.'),
+  ],
+  'la-massana': [
+    a('라 마사나 중심', 'La Massana centre', 'La Massana, Andorra', '스키·산행|Skiing, hiking', '스키장 곤돌라가 출발하고 오르디노·아린살 버스가 지나는 마을 중심입니다.|The village centre where the ski gondola starts and buses for Ordino and Arinsal pass.'),
+  ],
+  canillo: [
+    a('카니요 마을', 'Canillo village', 'Canillo, Andorra', '스키·조용한 숙소|Skiing, quiet base', '스키장 곤돌라가 마을에서 출발하고 안도라라베야까지 버스로 오갑니다.|The ski gondola leaves from the village, with buses to Andorra la Vella.'),
+  ],
+  soldeu: [
+    a('솔데우 마을', 'Soldeu village', 'Soldeu, Andorra', '스키|Skiing', '곤돌라 승강장 가까이에 호텔이 모여 있어 스키 타기에 편합니다.|Hotels cluster near the gondola station, handy for skiing.'),
+  ],
   vaduz: [
     a('파두츠·샨', 'Vaduz and Schaan', 'Vaduz', '구경 거점|Sightseeing base', '나라의 중심지로 작아서 걸어 다니기 쉽고, 샨에 유스호스텔이 있습니다.|The country’s hub, compact and walkable, with a youth hostel in Schaan.'),
     a('트리젠베르크', 'Triesenberg', 'Triesenberg', '하이킹·산마을|Hiking, a hillside village', '파두츠 위 산비탈 마을로 발저 문화가 남아 있습니다.|A hillside village above Vaduz with Walser heritage.'),

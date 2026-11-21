@@ -4809,3 +4809,22 @@ highlights/ordino-6.jpg | https://commons.wikimedia.org/wiki/File:(Barcelona)_Bi
 highlights/ordino-7.jpg | https://commons.wikimedia.org/wiki/File:Estanys_de_Tristaina_03.jpg | CC BY-SA 4.0 | Jordi Gili
 highlights/ordino-8.jpg | https://commons.wikimedia.org/wiki/File:San_Mart%C3%AD_de_La_Cortinada._Andorra_38.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
 highlights/ordino-9.jpg | https://commons.wikimedia.org/wiki/File:Farga_Rossell_La_Massana_20240901_n21.jpg | CC BY 4.0 | Marie-Lan Taÿ Pamart
+cities/escaldes-engordany.jpg | https://commons.wikimedia.org/wiki/File:Cruceiro._Praza_de_Lal%C3%ADn._Escaldes-Engordany._Andorra_109.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/escaldes-engordany-1.jpg | https://commons.wikimedia.org/wiki/File:Avinguda_Carlemany_Christmas_decorations_2023.jpg | CC0 | FrankAndProust
+highlights/escaldes-engordany-2.jpg | https://commons.wikimedia.org/wiki/File:Sant_Miquel_d%27Engolasters_2017.jpg | CC BY-SA 4.0 | Castellbo
+highlights/escaldes-engordany-3.jpg | https://commons.wikimedia.org/wiki/File:Estany_d%27Engolasters_-_19.jpg | CC BY-SA 2.0 | Angela Llop
+highlights/escaldes-engordany-4.jpg | https://commons.wikimedia.org/wiki/File:Vall_del_Madriu-Perafita-Claror_-_52.jpg | CC BY-SA 2.0 | Ferran Llorens
+cities/la-massana.jpg | https://commons.wikimedia.org/wiki/File:La_massana_170213.jpg | CC BY-SA 3.0 | Cdani
+highlights/la-massana-1.jpg | https://commons.wikimedia.org/wiki/File:Sant_Climent_de_Pal_2017.jpg | CC BY-SA 4.0 | Castellbo
+highlights/la-massana-2.jpg | https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_de_Sant_Crist%C3%B2fol_d%27Any%C3%B3s_1.JPG | CC BY-SA 3.0 | Cdani
+highlights/la-massana-3.jpg | https://commons.wikimedia.org/wiki/File:Casa_Rull,_Sispony,_Principat_d%27Andorra.JPG | CC BY-SA 3.0 | Cdani
+highlights/la-massana-4.jpg | https://commons.wikimedia.org/wiki/File:Pal_skiing_zone_-_panoramio.jpg | CC BY-SA 3.0 | Michael Karavanov
+highlights/la-massana-5.jpg | https://commons.wikimedia.org/wiki/File:Comapedrosa_with_snow.jpg | CC0 | FrameOverdose
+cities/canillo.jpg | https://commons.wikimedia.org/wiki/File:Campanario_da_capela_de_Santa_Creu_en_Canillo._Andorra-2.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/canillo-1.jpg | https://commons.wikimedia.org/wiki/File:Saint_Mary_church_in_Meritxell_(8).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/canillo-2.jpg | https://commons.wikimedia.org/wiki/File:Saint_John_church_in_Caselles_(8).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/canillo-3.jpg | https://commons.wikimedia.org/wiki/File:Mirador_Roc_del_Quer_(9).jpg | CC BY 3.0 | Alberto-g-rovi
+cities/soldeu.jpg | https://commons.wikimedia.org/wiki/File:Soldeu.jpg | Public domain | Albert.white at English Wikipedia
+highlights/soldeu-1.jpg | https://commons.wikimedia.org/wiki/File:Grandvalira_ski_resort,_Andorra5.jpg | CC BY-SA 2.0 | Christof Damian (cdamian) from Barcelona, Spain
+highlights/soldeu-2.jpg | https://commons.wikimedia.org/wiki/File:Vall_d%27Incles_-_Principat_d%27Andorra.tif | CC BY-SA 3.0 | Cdani
+highlights/soldeu-3.jpg | https://commons.wikimedia.org/wiki/File:Estanys_de_Juclar_@_Collada_de_Juclar_02.jpg | CC BY-SA 4.0 | Rémih

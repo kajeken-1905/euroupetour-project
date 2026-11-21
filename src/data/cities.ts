@@ -39238,6 +39238,99 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "escaldes-engordany",
+    countryId: "ad",
+    lat: 42.5086,
+    lng: 1.5389,
+    signatureImage: "/cities/escaldes-engordany.jpg",
+    name: { ko: "에스칼데스엥고르다니", en: "Escaldes-Engordany" },
+    nativeName: "Escaldes-Engordany",
+    blurb: {
+      ko: "안도라라베야와 강 하나를 사이에 두고 붙어 있는 시가지로, 칼데아 온천과 카를레마니 거리 상점가가 있는 쇼핑·휴양 중심입니다. 뒷산엔 로마네스크 성당 산 미겔 데 엥골라스테르스와 빙하호가 있고, 유네스코 세계유산 마드리우-페라피타-클라로르 계곡도 이곳에서 걸어 들어갑니다.",
+      en: "A town joined to Andorra la Vella across the river, the country’s shopping and spa centre with Caldea and the shops of Avinguda Carlemany. On the slopes above are the Romanesque church of Sant Miquel d’Engolasters and a glacial lake, and the UNESCO-listed Madriu-Perafita-Claror valley is entered on foot from here.",
+    },
+    highlights: [
+      {
+        id: "escaldes-engordany-h1",
+        name: { ko: "카를레마니 거리", en: "Avinguda Carlemany" },
+        description: { ko: "안도라라베야의 메리체이 거리에서 이어지는 에스칼데스의 큰 쇼핑 거리로, 세금이 낮아 시계·화장품·전자제품 상점과 백화점이 늘어서 있습니다.", en: "Escaldes’ main shopping street, continuing from Andorra la Vella’s Avinguda Meritxell, lined with low-tax watch, cosmetics and electronics shops and department stores." },
+        image: "/highlights/escaldes-engordany-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Avinguda%20Carlemany%20Escaldes-Engordany",
+      },
+      {
+        id: "escaldes-engordany-h2",
+        name: { ko: "산 미겔 데 엥골라스테르스 성당", en: "Sant Miquel d’Engolasters" },
+        description: { ko: "해발 1,504m 언덕에서 안도라 골짜기를 내려다보는 로마네스크 성당으로, 롬바르디아식 종탑이 우뚝합니다. 2003년 최고 등급 문화재로 지정됐습니다.", en: "A Romanesque church at 1,504 m looking down over the Andorran valley, with a tall Lombard bell tower; listed in 2003 in the highest heritage category." },
+        image: "/highlights/escaldes-engordany-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sant%20Miquel%20d%27Engolasters",
+      },
+      {
+        id: "escaldes-engordany-h3",
+        name: { ko: "엥골라스테르스 호수", en: "Engolasters Lake" },
+        description: { ko: "산비탈에 걸린 깊이 17m의 빙하호로, 둘레를 걷는 산책로에서 안도라라베야 쪽 골짜기가 내려다보입니다. 행정상 엔캄프 소속이지만 엥골라스테르스 마을 바로 위에 있습니다.", en: "A 17 m-deep glacial lake hanging on the hillside, with a path around it looking down towards Andorra la Vella. It belongs to Encamp but sits just above the hamlet of Engolasters." },
+        image: "/highlights/escaldes-engordany-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Estany%20d%27Engolasters",
+      },
+      {
+        id: "escaldes-engordany-h4",
+        name: { ko: "마드리우-페라피타-클라로르 계곡", en: "Madriu-Perafita-Claror Valley" },
+        description: { ko: "2004년 유네스코 세계유산에 오른 빙하 계곡으로 나라 면적의 약 9%를 차지합니다. 도로가 없어 걸어서만 들어가며, 돌담과 목동 오두막 같은 옛 산간 생활의 흔적이 남아 있습니다.", en: "A glacial valley listed by UNESCO in 2004, covering about 9% of the country. With no roads it is entered only on foot, past dry-stone walls and shepherds’ huts from centuries of mountain life." },
+        image: "/highlights/escaldes-engordany-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vall%20del%20Madriu-Perafita-Claror",
+      }
+    ],
+  },
+  {
+    id: "la-massana",
+    countryId: "ad",
+    lat: 42.545,
+    lng: 1.515,
+    signatureImage: "/cities/la-massana.jpg",
+    name: { ko: "라 마사나", en: "La Massana" },
+    nativeName: "La Massana",
+    blurb: {
+      ko: "안도라라베야 북쪽 계곡의 마을로, 오르디노와 아린살로 길이 갈라지는 길목입니다. 돌집 마을 팔, 17세기 가옥 박물관 카사 룰, 로마네스크 성당들이 흩어져 있고, 겨울엔 팔-아린살 스키장, 여름엔 안도라 최고봉 코마페드로사 산행의 거점이 됩니다.",
+      en: "A valley town north of Andorra la Vella where the roads to Ordino and Arinsal part. The stone village of Pal, the 17th-century Casa Rull house museum and Romanesque churches are scattered around, with the Pal-Arinsal ski area in winter and hikes up Comapedrosa, Andorra’s highest peak, in summer.",
+    },
+    highlights: [
+      {
+        id: "la-massana-h1",
+        name: { ko: "팔 마을과 산 클레멘트 성당", en: "Pal & Sant Climent" },
+        description: { ko: "돌집이 비탈에 모인 산마을로, 마을 위에 2003년 최고 등급 문화재로 지정된 로마네스크 성당 산 클레멘트가 있습니다.", en: "A mountain village of stone houses on the slope, topped by the Romanesque church of Sant Climent, listed in 2003 in the highest heritage category." },
+        image: "/highlights/la-massana-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sant%20Climent%20de%20Pal",
+      },
+      {
+        id: "la-massana-h2",
+        name: { ko: "산 크리스토폴 다니오스 성당", en: "Sant Cristòfol d’Anyós" },
+        description: { ko: "아니오스 고원 끝 절벽 위(해발 약 1,310m)에 선 작은 로마네스크 성당으로, 16세기에 본당을 늘렸습니다.", en: "A small Romanesque church on a cliff at the end of the Anyós plateau (about 1,310 m), its nave lengthened in the 16th century." },
+        image: "/highlights/la-massana-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sant%20Crist%C3%B2fol%20d%27Any%C3%B3s",
+      },
+      {
+        id: "la-massana-h3",
+        name: { ko: "카사 룰", en: "Casa Rull" },
+        description: { ko: "시스포니 마을의 17세기 집을 19세기~20세기 초 안도라 부농 가족의 살림 그대로 꾸민 박물관입니다.", en: "A 17th-century house in Sispony furnished as the home of a well-off Andorran family of the 19th and early 20th centuries." },
+        image: "/highlights/la-massana-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museu%20Casa%20Rull%20Sispony",
+      },
+      {
+        id: "la-massana-h4",
+        name: { ko: "팔-아린살 스키장", en: "Pal-Arinsal ski area" },
+        description: { ko: "팔과 아린살 두 마을 위로 펼쳐진 스키장으로, 두 구역이 케이블카로 이어지고 라 마사나 시내에서 곤돌라로 올라갈 수 있습니다.", en: "A ski area above the villages of Pal and Arinsal, the two sectors linked by cable car, reached by gondola from La Massana." },
+        image: "/highlights/la-massana-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pal%20Arinsal%20ski%20resort",
+      },
+      {
+        id: "la-massana-h5",
+        name: { ko: "코마페드로사 자연공원", en: "Comapedrosa Natural Park" },
+        description: { ko: "안도라 최고봉 코마페드로사(2,942m)를 품은 자연공원으로, 아린살에서 산길이 시작됩니다.", en: "The natural park around Comapedrosa (2,942 m), Andorra’s highest peak, with trails starting from Arinsal." },
+        image: "/highlights/la-massana-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Parc%20Natural%20Comunal%20de%20les%20Valls%20del%20Comapedrosa",
+      }
+    ],
+  },
+  {
     id: "pas-de-la-casa",
     countryId: "ad",
     lat: 42.5427,
@@ -39356,6 +39449,78 @@ export const cities: City[] = [
         image: "/highlights/ordino-7.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Estanys%20de%20Tristaina",
       },
+    ],
+  },
+  {
+    id: "canillo",
+    countryId: "ad",
+    lat: 42.5667,
+    lng: 1.5978,
+    signatureImage: "/cities/canillo.jpg",
+    name: { ko: "카니요", en: "Canillo" },
+    nativeName: "Canillo",
+    blurb: {
+      ko: "동쪽 계곡 중간의 마을로, 안도라에서 면적이 가장 큰 행정구(파로키아)의 중심입니다. 나라의 수호 성지 메리체이 성모 성당과 11~12세기 로마네스크 성당 산 조안 데 카셀레스가 있고, 절벽 전망대 로크 델 케르와 아이스링크도 마을 가까이에 있습니다. 그란발리라 스키장으로 오르는 곤돌라가 마을에서 출발합니다.",
+      en: "A village halfway up the eastern valley, seat of Andorra’s largest parish. It has the Sanctuary of Meritxell, the national shrine, and the 11th–12th-century Romanesque church of Sant Joan de Caselles, with the Roc del Quer cliff viewpoint and an ice rink close by. A gondola climbs from the village into Grandvalira.",
+    },
+    highlights: [
+      {
+        id: "canillo-h1",
+        name: { ko: "메리체이 성모 성당", en: "Sanctuary of Meritxell" },
+        description: { ko: "안도라의 수호성인 메리체이 성모를 모시는 성지로, 1972년 불탄 옛 성당 옆에 건축가 리카르도 보필이 새 성당을 지었습니다. 해마다 9월 8일 국경일에 순례 행사가 열립니다.", en: "The shrine of Our Lady of Meritxell, Andorra’s patron, rebuilt by the architect Ricardo Bofill beside the old church that burned in 1972. A pilgrimage is held every 8 September, the national day." },
+        image: "/highlights/canillo-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Santuari%20de%20Meritxell",
+      },
+      {
+        id: "canillo-h2",
+        name: { ko: "산 조안 데 카셀레스 성당", en: "Sant Joan de Caselles" },
+        description: { ko: "11~12세기 로마네스크 성당으로, 사도 요한의 생애와 순교를 그린 16세기 제단화가 뛰어납니다.", en: "An 11th–12th-century Romanesque church whose 16th-century altarpiece of the life and martyrdom of St John is of exceptional quality." },
+        image: "/highlights/canillo-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sant%20Joan%20de%20Caselles",
+      },
+      {
+        id: "canillo-h3",
+        name: { ko: "로크 델 케르 전망대", en: "Roc del Quer viewpoint" },
+        description: { ko: "절벽 밖으로 길게 뻗은 보행 다리 끝에서 계곡과 카니요 마을을 내려다보는 전망대입니다.", en: "A walkway jutting out from the cliff, looking down over the valley and Canillo." },
+        image: "/highlights/canillo-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mirador%20Roc%20del%20Quer%20Canillo",
+      }
+    ],
+  },
+  {
+    id: "soldeu",
+    countryId: "ad",
+    lat: 42.5768,
+    lng: 1.6678,
+    signatureImage: "/cities/soldeu.jpg",
+    name: { ko: "솔데우", en: "Soldeu" },
+    nativeName: "Soldeu",
+    blurb: {
+      ko: "해발 약 1,800m의 스키 마을로, 그란발리라 스키장 솔데우-엘 타르테르 구역의 중심입니다. 겨울엔 마을에서 곤돌라로 슬로프에 오르고, 여름엔 바로 옆 인클레스 계곡에서 안도라에서 가장 큰 호수 후클라르까지 걷습니다. 행정상 카니요에 속합니다.",
+      en: "A ski village at about 1,800 m, the heart of Grandvalira’s Soldeu–El Tarter sector. In winter a gondola lifts you straight to the slopes; in summer the Incles valley next door leads up to Juclar, Andorra’s largest lake. It belongs to the parish of Canillo.",
+    },
+    highlights: [
+      {
+        id: "soldeu-h1",
+        name: { ko: "그란발리라 솔데우 구역", en: "Grandvalira Soldeu" },
+        description: { ko: "마을에서 곤돌라로 오르는 그란발리라 스키장 구역으로, 파스 데 라 카사 쪽 슬로프까지 이어집니다.", en: "The Grandvalira sector reached by gondola from the village, linked across to the slopes above Pas de la Casa." },
+        image: "/highlights/soldeu-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Grandvalira%20Soldeu",
+      },
+      {
+        id: "soldeu-h2",
+        name: { ko: "인클레스 계곡", en: "Incles valley" },
+        description: { ko: "솔데우와 엘 타르테르 사이로 들어가는 빙하 계곡으로, 좁은 길로 일부까지 차로 갈 수 있고 경치가 아름답습니다.", en: "A glacial valley entered between Soldeu and El Tarter, partly reachable by a narrow road and known for its scenery." },
+        image: "/highlights/soldeu-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vall%20d%27Incles",
+      },
+      {
+        id: "soldeu-h3",
+        name: { ko: "후클라르 호수", en: "Juclar lakes" },
+        description: { ko: "해발 2,300m에 있는 안도라에서 가장 큰 호수(21.3ha)로 두 호수로 이뤄집니다. 인클레스 계곡에서 걸어 올라가며 옆에 산장이 있습니다.", en: "At 2,300 m, Andorra’s largest lake (21.3 ha), made up of two basins; reached on foot from the Incles valley, with a mountain refuge beside it." },
+        image: "/highlights/soldeu-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Estany%20de%20Juclar",
+      }
     ],
   },
   {

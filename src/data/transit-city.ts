@@ -3969,6 +3969,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('alsa'),
     ],
   },
+  'escaldes-engordany': {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '안도라라베야와 붙어 있어 걸어서 오갈 수 있습니다. 엥골라스테르스는 차나 택시가 편합니다.',
+      en: 'It runs into Andorra la Vella, so you can walk between them; Engolasters is easiest by car or taxi.',
+    },
+    apps: [
+      ta('alsa'),
+    ],
+  },
+  'la-massana': {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '안도라라베야와 버스로 이어지고, 팔·아린살·시스포니도 버스나 차로 갑니다.',
+      en: 'Buses link it with Andorra la Vella; Pal, Arinsal and Sispony are reached by bus or car.',
+    },
+    apps: [
+      ta('alsa'),
+    ],
+  },
+  canillo: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어 다니고, 메리체이·로크 델 케르는 버스나 차로 갑니다.',
+      en: 'Walk around the village; take a bus or car to Meritxell and Roc del Quer.',
+    },
+    apps: [
+      ta('alsa'),
+    ],
+  },
+  soldeu: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 안도라라베야·카니요까지 버스로 이어집니다.',
+      en: 'Walk around the village; buses run to Canillo and Andorra la Vella.',
+    },
+    apps: [
+      ta('alsa'),
+    ],
+  },
   // —— it ——
   rome: {
     modes: ['metro', 'bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],

@@ -385,6 +385,12 @@ export const routesCentral: RawRoute[] = [
   r('casablanca', 'marrakech', 'train', 160, { fa: '카사블랑카 보야죄르역|Casa-Voyageurs' }),
   r('andorra-la-vella', 'pas-de-la-casa', 'bus', 45),
   r('andorra-la-vella', 'ordino', 'bus', 20),
+  r('soldeu', 'pas-de-la-casa', 'bus', 25),
+  r('canillo', 'soldeu', 'bus', 15),
+  r('andorra-la-vella', 'canillo', 'bus', 30),
+  r('la-massana', 'ordino', 'bus', 10),
+  r('andorra-la-vella', 'la-massana', 'bus', 15),
+  r('andorra-la-vella', 'escaldes-engordany', 'bus', 10),
   r('toulouse', 'andorra-la-vella', 'bus', 210),
 
   // —— pt ——
