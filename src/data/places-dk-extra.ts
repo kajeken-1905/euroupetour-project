@@ -44,4 +44,35 @@ export const placesDKExtra: Place[] = [
   place('roskilde-cafe-3', 'roskilde', 'cafe', 'Café 48', 'Algade 48, 4000 Roskilde', '역 근처 알가데 거리의 덴마크식 카페. 점심에 스뫼레브뢰드를 냅니다.', 'Danish café on Algade near the station, serving smørrebrød at lunch.'),
   place('roskilde-korean-1', 'roskilde', 'korean', 'Seoul Koreansk BBQ', 'RO’s Torv 1, 1. sal, 4000 Roskilde', '로스토르브 쇼핑센터 2층의 한국식 바비큐 체인 매장. 테이블에서 고기를 굽습니다.', 'Korean barbecue chain branch on the first floor of the RO’s Torv centre, with tableside grilling.'),
 
+  // —— skagen: restaurants, bakeries and cafés (2026-11-21) ——
+  place('skagen-fine_dining-1', 'skagen', 'fine_dining', 'Okê', 'Ruths Hotel, Hans Ruths Vej 1, 9990 Skagen', '뤼츠 호텔 안의 미쉐린 1스타 레스토랑.', 'One-MICHELIN-star restaurant in Ruths Hotel.', { michelin: 'star1' }),
+  place('skagen-fine_dining-2', 'skagen', 'fine_dining', 'Skagen Fiskerestaurant', 'Fiskehuskajen 1, 9990 Skagen', '항구 앞의 해산물 식당. 구글 지도 평점 4.3.', 'Seafood restaurant on the harbour. Rated 4.3 on Google Maps.'),
+  place('skagen-fine_dining-3', 'skagen', 'fine_dining', 'Café Knuth\'s', 'Havnevej 14, 9990 Skagen', '항구 거리의 레스토랑. 구글 지도 평점 4.4.', 'Restaurant on Havnevej by the harbour. Rated 4.4 on Google Maps.'),
+  place('skagen-fine_dining-4', 'skagen', 'fine_dining', 'Dit smørrebrød - Skagen', 'Østre Strandvej, 9990 Skagen', '덴마크식 오픈 샌드위치 스뫼레브뢰 식당. 구글 지도 평점 4.4.', 'Danish open-sandwich (smørrebrød) restaurant. Rated 4.4 on Google Maps.'),
+  place('skagen-bakery-1', 'skagen', 'bakery', 'Skagen Bageri & Café', 'Sankt Laurentii Vej 82, 9990 Skagen', '중심 거리의 빵집 겸 카페. 구글 지도 평점 4.4.', 'Bakery-café on the main street. Rated 4.4 on Google Maps.'),
+  place('skagen-cafe-1', 'skagen', 'cafe', 'Jakobs Café & Bar', 'Havnevej 4A, 9990 Skagen', '항구 거리의 카페 겸 바. 구글 지도 평점 4.3.', 'Café-bar on Havnevej. Rated 4.3 on Google Maps.'),
+  place('skagen-cafe-2', 'skagen', 'cafe', 'Smørrebrød Cafe', 'Daphnesvej 1A, 9990 Skagen', '외스테르뷔 지구의 카페. 구글 지도 평점 4.6.', 'Café in the Østerby district. Rated 4.6 on Google Maps.'),
+
+  // —— ribe: restaurants, bakeries and cafés (2026-11-21) ——
+  place('ribe-fine_dining-1', 'ribe', 'fine_dining', 'Restaurant Sælhunden', 'Skibbroen 13, 6760 Ribe', '옛 항구 가의 덴마크 요리 식당. 구글 지도 평점 4.5.', 'Danish restaurant by the old harbour. Rated 4.5 on Google Maps.'),
+  place('ribe-fine_dining-2', 'ribe', 'fine_dining', 'Quedensgård Cafe og Krambod', 'Overdammen 1, 6760 Ribe', '옛 상인 저택 안의 식당 겸 상점. 구글 지도 평점 4.4.', 'Restaurant and shop in an old merchant’s house. Rated 4.4 on Google Maps.'),
+  place('ribe-fine_dining-3', 'ribe', 'fine_dining', 'Pinocchio', 'Overdammen 7, 6760 Ribe', '옛 시가의 이탈리아 식당. 구글 지도 평점 4.3.', 'Italian restaurant in the old town. Rated 4.3 on Google Maps.'),
+  place('ribe-bakery-1', 'ribe', 'bakery', 'Pompei', 'Saltgade 7, 6760 Ribe', '옛 시가의 빵집. 구글 지도 평점 4.6.', 'Bakery in the old town. Rated 4.6 on Google Maps.'),
+  place('ribe-cafe-1', 'ribe', 'cafe', 'Terpager & Co', 'Mellemdammen, 6760 Ribe', '옛 시가의 커피집. 구글 지도 평점 4.8.', 'Coffee shop in the old town. Rated 4.8 on Google Maps.'),
+  place('ribe-cafe-2', 'ribe', 'cafe', 'Café Sallys', 'Ribe', '대성당 가까이의 카페. 구글 지도 평점 4.7.', 'Café near the cathedral. Rated 4.7 on Google Maps.'),
+
+  // —— billund: restaurants, bakeries and cafés (2026-11-21) ——
+  place('billund-fine_dining-1', 'billund', 'fine_dining', 'Beefinity Restaurant & Brasserie', 'Gammelbro 34, 7190 Billund', '레고 하우스 근처의 스테이크 식당. 구글 지도 평점 4.7.', 'Steak restaurant near Lego House. Rated 4.7 on Google Maps.'),
+  place('billund-fine_dining-2', 'billund', 'fine_dining', 'Refborg Restaurant', 'Buen 6, 7190 Billund', '빌룬 중심의 덴마크 요리 식당. 구글 지도 평점 4.5.', 'Danish restaurant in central Billund. Rated 4.5 on Google Maps.'),
+  place('billund-fine_dining-3', 'billund', 'fine_dining', 'Bellini Café Ristorante', 'Vejlevej 2, 7190 Billund', '빌룬의 이탈리아 식당. 구글 지도 평점 4.4.', 'Italian restaurant in Billund. Rated 4.4 on Google Maps.'),
+  place('billund-bakery-1', 'billund', 'bakery', 'Billund bakery and café', 'Hovedgaden 20, 7190 Billund', '중심 거리의 빵집 겸 카페. 구글 지도 평점 4.4.', 'Bakery-café on the main street. Rated 4.4 on Google Maps.'),
+  place('billund-cafe-1', 'billund', 'cafe', 'ALMA Coffee Food People', 'Hans Jensensvej 6, 7190 Billund', '빌룬의 카페 겸 브라스리. 구글 지도 평점 4.9.', 'Café-brasserie in Billund. Rated 4.9 on Google Maps.'),
+
+  // —— bornholm: restaurants, bakeries and cafés (2026-11-21) ——
+  place('bornholm-fine_dining-1', 'bornholm', 'fine_dining', 'Kadeau Bornholm', 'Baunevej 18, Vestre Sømark, 3720 Pedersker', '섬 남쪽 해변 가의 미쉐린 1스타 레스토랑.', 'One-MICHELIN-star restaurant by the beach on the south of the island.', { michelin: 'star1' }),
+  place('bornholm-fine_dining-2', 'bornholm', 'fine_dining', 'Det Røde Pakhus', 'Snellemark 30, 3700 Rønne', '뢴네의 레스토랑으로 미쉐린 가이드에 실려 있습니다. 구글 지도 평점 4.7.', 'Restaurant in Rønne, listed in the MICHELIN Guide. Rated 4.7 on Google Maps.'),
+  place('bornholm-fine_dining-3', 'bornholm', 'fine_dining', 'Restaurant ThaiMark', 'Munch Petersens Vej, 3700 Rønne', '뢴네 항구 가까이의 태국 요리 식당. 구글 지도 평점 4.8.', 'Thai restaurant near Rønne harbour. Rated 4.8 on Google Maps.'),
+  place('bornholm-fine_dining-4', 'bornholm', 'fine_dining', 'Café Plateau', 'Grevens Dal 50, 3760 Gudhjem', '구드옘의 브라스리. 구글 지도 평점 4.7.', 'Brasserie in Gudhjem. Rated 4.7 on Google Maps.'),
+  place('bornholm-bakery-1', 'bornholm', 'bakery', 'Jensens Bageri', 'Lille Madsegade 70, 3700 Rønne', '뢴네의 빵집. 구글 지도 평점 4.6.', 'Bakery in Rønne. Rated 4.6 on Google Maps.'),
+  place('bornholm-cafe-1', 'bornholm', 'cafe', 'Café Kaas', 'Bådehavnsvej 15, 3700 Rønne', '뢴네 요트 항구의 카페. 구글 지도 평점 4.5.', 'Café at Rønne marina. Rated 4.5 on Google Maps.'),
 ]
