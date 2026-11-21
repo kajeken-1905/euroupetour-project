@@ -436,6 +436,10 @@ export const routesEast: RawRoute[] = [
   // —— im, je, gg ——
   r('douglas', 'castletown', 'train', 35, { fa: '더글러스역|Douglas Railway Station', fb: '캐슬타운역|Castletown', n: '증기 철도 · 운행 시기 확인|steam railway · check the seasonal timetable' }),
   r('douglas', 'peel', 'bus', 40, { n: '5·6번 버스|bus routes 5 and 6' }),
+  r('castletown', 'port-erin', 'train', 25, { n: '증기 철도 · 계절 운행 · 시간표 확인|seasonal · check the timetable' }),
+  r('douglas', 'ramsey', 'bus', 50),
+  r('laxey', 'ramsey', 'train', 45, { n: '맨크스 전기 철도 · 계절 운행 · 시간표 확인|seasonal · check the timetable' }),
+  r('douglas', 'laxey', 'train', 30, { n: '맨크스 전기 철도 · 계절 운행 · 시간표 확인|seasonal · check the timetable' }),
   r('douglas', 'liverpool', 'ferry', 165, { fa: '더글러스 여객선 터미널|Douglas Sea Terminal', n: '고속선 · 계절과 배에 따라 다름|fast craft · varies by season and vessel' }),
   r('douglas', 'london', 'flight', 75),
   r('douglas', 'dublin', 'flight', 45),

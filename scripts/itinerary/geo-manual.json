@@ -13211,5 +13211,55 @@
     54.14335,
     -4.4673,
     "OSM Nominatim: Grand Union Camera Obscura, Douglas Head (Wikipedia 2m)"
+  ],
+  "laxey-h1": [
+    54.23145,
+    -4.3964,
+    "OSM Nominatim: King Orry's Grave, Ballaragh Road, Laxey, Garff, IM4 7PT, Is (Wikipedia 6m)"
+  ],
+  "laxey-h2": [
+    54.23545,
+    -4.40618,
+    "OSM Nominatim: Great Laxey Mine Railway, Mines Road, Laxey, Garff, IM4 7NH, (Wikipedia 204m)"
+  ],
+  "laxey-h3": [
+    54.23862,
+    -4.40736,
+    "OSM Nominatim: Laxey Wheel, Miners Trail, Laxey, Garff, IM4 7NL, Isle of Ma (Wikipedia 11m)"
+  ],
+  "laxey-h4": [
+    54.26209,
+    -4.46293,
+    "OSM Nominatim: Snaefell Summit, Walker's Path, Lezayre, Ayre, IM4 5AF, Isle (Wikipedia 157m)"
+  ],
+  "ramsey-h1": [
+    54.31952,
+    -4.3702,
+    "OSM Nominatim: Queen's Pier, Stanley Mount East, Ramsey, Garff, IM8 1NP, Is (Wikipedia 36m)"
+  ],
+  "ramsey-h2": [
+    54.31297,
+    -4.37968,
+    "OSM Nominatim: Albert Tower, Mountain Road, Maughold, Garff, IM8 2JN, Isle  (Wikipedia 4m)"
+  ],
+  "ramsey-h5": [
+    54.41746,
+    -4.36655,
+    "OSM Nominatim: Point of Ayre, Bride, Ayre, Isle of Man (Wikipedia 220m)"
+  ],
+  "port-erin-h3": [
+    54.08513,
+    -4.75794,
+    "OSM Nominatim: Isle of Man Railway Museum, Station Road, Port Erin, Rushen, (Wikipedia 15m)"
+  ],
+  "port-erin-h4": [
+    54.06968,
+    -4.76819,
+    "OSM Nominatim: Cregneash, Rushen, IM9 5PX, Isle of Man (Wikipedia 73m)"
+  ],
+  "port-erin-h5": [
+    54.05279,
+    -4.81656,
+    "OSM Nominatim: Calf of Man, Rushen, Isle of Man (Wikipedia 243m)"
   ]
 }

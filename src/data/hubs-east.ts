@@ -1127,6 +1127,18 @@ export const hubsEast: Record<string, RawCityHubs> = {
     air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)']],
     rail: [['Castletown', '캐슬타운역', '증기 철도 · 더글러스행|steam railway to Douglas']],
   },
+  laxey: {
+    air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆 로널즈웨이|Ronaldsway, by Castletown']],
+    rail: [['Laxey', '락시역', '전기 철도·스나펠 산악철도|electric railway and Snaefell Mountain Railway']],
+  },
+  ramsey: {
+    air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆 로널즈웨이|Ronaldsway, by Castletown']],
+    rail: [['Ramsey', '램지역', '맨크스 전기 철도 종점|Manx Electric Railway terminus']],
+  },
+  'port-erin': {
+    air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆 로널즈웨이|Ronaldsway, by Castletown']],
+    rail: [['Port Erin', '포트에린역', '증기 철도 종점|steam railway terminus']],
+  },
   peel: {
     air: [['Isle of Man (IOM)', '맨섬 공항 (IOM)', '캐슬타운 옆|by Castletown']],
   },

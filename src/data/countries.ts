@@ -157,7 +157,7 @@ export const countries: Country[] = [
       background: '#FCE8EA',
       text: '#3A0A10',
     },
-    cityIds: ['douglas', 'castletown', 'peel'],
+    cityIds: ['douglas', 'laxey', 'ramsey', 'castletown', 'port-erin', 'peel'],
   },
   {
     id: 'je',

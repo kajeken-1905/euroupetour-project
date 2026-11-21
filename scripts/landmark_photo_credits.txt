@@ -4909,3 +4909,18 @@ highlights/castletown-5.jpg | https://commons.wikimedia.org/wiki/File:Rushen_Abb
 highlights/peel-3.jpg | https://commons.wikimedia.org/wiki/File:Peel_Cathedral_IOM_-_geograph.org.uk_-_5619429.jpg | CC BY-SA 2.0 | Colin Park
 highlights/peel-4.jpg | https://commons.wikimedia.org/wiki/File:St._John%27s,_Tynwald_Hill_-_geograph.org.uk_-_4615271.jpg | CC BY-SA 2.0 | Mike Faherty
 highlights/peel-5.jpg | https://commons.wikimedia.org/wiki/File:Niarbyl,_Isle_of_Man.jpg | CC0 | Manx James
+cities/laxey.jpg | https://commons.wikimedia.org/wiki/File:Laxey_-_Cart_used_to_haul_ore_from_Laxey_Mine_-_geograph.org.uk_-_1707291.jpg | CC BY-SA 2.0 | Joseph Mischyshyn
+highlights/laxey-1.jpg | https://commons.wikimedia.org/wiki/File:King_Orry%27s_Grave,_Laxey.jpg | CC BY 2.0 | James Qualtrough
+highlights/laxey-2.jpg | https://commons.wikimedia.org/wiki/File:Great_Laxey_Mine_Railway_-_geograph.org.uk_-_8380240.jpg | CC BY-SA 2.0 | Gareth James
+cities/ramsey.jpg | https://commons.wikimedia.org/wiki/File:Ramsey_IOM_-_The_Harbour_-_geograph.org.uk_-_5619555.jpg | CC BY-SA 2.0 | Colin Park
+highlights/ramsey-1.jpg | https://commons.wikimedia.org/wiki/File:Queen%27s_Pier,_Ramsey_-_geograph.org.uk_-_2388007.jpg | CC BY-SA 2.0 | David Dixon
+highlights/ramsey-2.jpg | https://commons.wikimedia.org/wiki/File:Albert_Tower_of_the_Adelaide_Town_Hall_in_July_2026_(028A8343).jpg | CC BY-SA 4.0 | Yu Chu Chin
+highlights/ramsey-3.jpg | https://commons.wikimedia.org/wiki/File:Courtyard_at_the_Grove_museum_of_Victorian_life_-_geograph.org.uk_-_8380660.jpg | CC BY-SA 2.0 | Gareth James
+highlights/ramsey-4.jpg | https://commons.wikimedia.org/wiki/File:Ramsey,_Milntown_House_-_geograph.org.uk_-_4618711.jpg | CC BY-SA 2.0 | Mike Faherty
+highlights/ramsey-5.jpg | https://commons.wikimedia.org/wiki/File:Bight_of_Musker_from_Point_of_Ayre_-_geograph.org.uk_-_3105938.jpg | CC BY-SA 2.0 | Andrew Curtis
+cities/port-erin.jpg | https://commons.wikimedia.org/wiki/File:Port_Erin_Bay_-_geograph.org.uk_-_7664178.jpg | CC BY-SA 2.0 | Gerald England
+highlights/port-erin-1.jpg | https://commons.wikimedia.org/wiki/File:Port_Erin_Beach_-_geograph.org.uk_-_8355419.jpg | CC BY-SA 2.0 | Chris Morgan
+highlights/port-erin-2.jpg | https://commons.wikimedia.org/wiki/File:Port_Erin_Bradda_Head_Milner%27s_Tower_2.jpg | CC BY 4.0 | Zairon
+highlights/port-erin-3.jpg | https://commons.wikimedia.org/wiki/File:Port_erin_railway_museum_No6_peveril_2018-06-28.jpg | CC BY 4.0 | Herbert Ortner
+highlights/port-erin-4.jpg | https://commons.wikimedia.org/wiki/File:Cregneash_Folk_Museum_1988.jpg | CC BY 3.0 | RuthAS
+highlights/port-erin-5.jpg | https://commons.wikimedia.org/wiki/File:The_Calf_of_Man_-_geograph.org.uk_-_29.jpg | CC BY-SA 2.0 | Andy Stephenson

@@ -8370,6 +8370,33 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [],
   },
+  laxey: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '더글러스 더비 캐슬에서 맨크스 전기 철도로 오고, 버스도 다닙니다. 마을 안은 걸어서 다닙니다.',
+      en: 'Come from Derby Castle in Douglas on the Manx Electric Railway, or by bus; walk around the village.',
+    },
+    apps: [
+    ],
+  },
+  ramsey: {
+    modes: ['bus', 'train', 'walk'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 더글러스까지는 버스나 계절 운행 전기 철도로 갑니다.',
+      en: 'Walk the town; buses and the seasonal electric railway run to Douglas.',
+    },
+    apps: [
+    ],
+  },
+  'port-erin': {
+    modes: ['bus', 'train', 'walk'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 캐슬타운·더글러스까지 버스와 계절 운행 증기 철도가 다닙니다.',
+      en: 'Walk the village; buses and the seasonal steam railway run to Castletown and Douglas.',
+    },
+    apps: [
+    ],
+  },
   peel: {
     modes: ['bus', 'walk'],
     airportToCity: {

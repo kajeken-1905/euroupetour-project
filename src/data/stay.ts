@@ -2785,6 +2785,15 @@ export const STAY: Record<string, StayArea[]> = {
   castletown: [
     a('더글러스에서 다녀오기', 'Base in Douglas', 'Douglas, Isle of Man', '당일치기|Day trip', '증기 철도로 약 35분이라 대부분 더글러스에 묵고 다녀옵니다.|About 35 minutes by steam train, so most visitors stay in Douglas.'),
   ],
+  laxey: [
+    a('더글러스에서 다녀오기', 'Visit from Douglas', 'Douglas, Isle of Man', '당일치기|Day trip', '전기 철도로 30분 남짓이라 더글러스에 묵고 다녀오는 사람이 많습니다.|Just over half an hour by electric tram, so most people stay in Douglas.'),
+  ],
+  ramsey: [
+    a('램지 시내', 'Ramsey town', 'Ramsey, Isle of Man', '섬 북쪽 거점|Base for the north', '항구 둘레에 숙소와 식당이 있고, 전기 철도·버스로 더글러스와 이어집니다.|Hotels and restaurants around the harbour, with the electric railway and buses to Douglas.'),
+  ],
+  'port-erin': [
+    a('포트에린 해변', 'Port Erin seafront', 'Port Erin, Isle of Man', '해변·남쪽 거점|Beach, base for the south', '해변 산책로를 따라 숙소가 있고, 버스·증기 철도로 캐슬타운·더글러스와 이어집니다.|Places to stay along the promenade, with buses and the steam railway to Castletown and Douglas.'),
+  ],
   peel: [
     a('필 마을', 'Peel town', 'Peel, Isle of Man', '해변·일몰|Beach and sunsets', '항구 근처에 작은 B&B와 호텔이 있습니다.|Small B&Bs and hotels near the marina.'),
     a('더글러스에서 다녀오기', 'Base in Douglas', 'Douglas, Isle of Man', '숙소 선택이 많음|More choice', '버스로 약 40분이라 당일로 다녀올 수 있습니다.|About 40 minutes by bus, easy as a day trip.'),
