@@ -22,7 +22,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   delft: [3, 1, 5, 4, 6, 2],
   maastricht: [6, 1, 4, 3, 5, 2],
   leiden: [4, 7, 5, 6, 1, 2, 3],
-  giethoorn: [1, 2, 3, 4],
+  giethoorn: { days: [['', 1, 2, 3, 4]], trips: [['베리번-비던 국립공원|Weerribben-Wieden', 5], ['블록제일|Blokzijl', 6]] },
   'luxembourg-city': [6, 5, 1, 10, 2, 8, 3, 7, 4, 9],
   vianden: [3, 1, 4, 2],
   echternach: [4, 2, 3, 1],

@@ -4965,3 +4965,5 @@ highlights/tasiilaq-3.jpg | https://commons.wikimedia.org/wiki/File:Kulusuk-wint
 highlights/werfen-4.jpg | https://commons.wikimedia.org/wiki/File:AT-25241_Pfarrkirche_hl._Jakobus_in_Werfen_01.jpg | CC BY 3.0 | Clemens PFEIFFER
 highlights/werfen-5.jpg | https://commons.wikimedia.org/wiki/File:Werfenweng_2018_Kat_D2_STAWOWCZYK_Waldemar-9379.jpg | CC BY-SA 4.0 | Isiwal
 highlights/werfen-6.jpg | https://commons.wikimedia.org/wiki/File:Liechtensteinklamm_35.JPG | CC BY-SA 3.0 | Zairon
+highlights/giethoorn-5.jpg | https://commons.wikimedia.org/wiki/File:Nationaal_Park_Weerribben-Wieden,_locatie_De_Wieden_03.JPG | CC BY-SA 3.0 nl | Dominicus Johannes Bergsma
+highlights/giethoorn-6.jpg | https://commons.wikimedia.org/wiki/File:Overzicht_voorgevels_vanaf_steiger_in_haven_-_Blokzijl_-_20351690_-_RCE.jpg | CC BY-SA 4.0 | IJsbrand Heins

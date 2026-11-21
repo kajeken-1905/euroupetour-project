@@ -13480,5 +13480,30 @@
     46.58411,
     7.08242,
     "OSM Nominatim: HR Giger Museum, Gruyères (de.wikipedia 12m)"
+  ],
+  "amsterdam-h9": [
+    52.49638,
+    5.06827,
+    "OSM Nominatim: Volendam, Edam-Volendam, Noord-Holland, Nederland (Wikipedia 345m)"
+  ],
+  "rotterdam-h3": [
+    51.92039,
+    4.49013,
+    "OSM Nominatim: Kubuswoningen, Overblaak, Stadsdriehoek, Centrum, Rotterdam, (Wikipedia 32m)"
+  ],
+  "utrecht-h5": [
+    52.09086,
+    5.12245,
+    "OSM Nominatim: Domkerk, Domplein, Domplein, Neude, Janskerkhof, Binnenstad  (Wikipedia 54m)"
+  ],
+  "maastricht-h3": [
+    50.84721,
+    5.68595,
+    "OSM Nominatim: Maastricht University, 4-6, Minderbroedersberg, Kommelkwarti (Wikipedia 177m)"
+  ],
+  "giethoorn-h6": [
+    52.72615,
+    5.96142,
+    "OSM Nominatim: Blokzijl, Steenwijkerland, Overijssel, Nederland (Wikipedia 31m)"
   ]
 }

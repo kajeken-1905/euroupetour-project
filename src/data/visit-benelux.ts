@@ -375,6 +375,8 @@ export const visitBenelux: Record<string, HighlightVisit> = {
   'giethoorn-h2': v(45, 60),
   'giethoorn-h3': v(20, 30),
   'giethoorn-h4': v(40, 45),
+  'giethoorn-h5': v(120, 240, { b: 'no', n: '무료입니다.|Free.' }),
+  'giethoorn-h6': v(45, 60, { b: 'no', n: '무료입니다.|Free.' }),
   'leiden-h1': v(45, 60, { n: '운하 길은 무료로 언제든 걸을 수 있습니다. 피테르스케르크 내부는 유료이고 행사 때는 닫습니다.|The canal walk is free and always open; the Pieterskerk charges for entry and closes for events.' }),
   'leiden-h2': v(90, 120, { s: 'https://www.rmo.nl/en/', n: '매일 10:00~17:00에 열고 목요일엔 저녁 19:00~22:00에도 엽니다. 뮤지엄카드가 있으면 무료입니다.|Open daily 10:00–17:00, and Thursday evenings 19:00–22:00 too; free with the Museumkaart.', k: '2026-11' }),
   'leiden-h3': v(60, 90, { n: '겨울(9월 21일~3월 20일)엔 매일 10:00~17:00에 엽니다. 10월 3일과 12월 25일~1월 1일엔 쉽니다.|In winter (21 September–20 March) open daily 10:00–17:00; closed 3 October and 25 December–1 January.' }),

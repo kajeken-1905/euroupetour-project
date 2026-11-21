@@ -110,4 +110,7 @@ export const placesNLExtra: Place[] = [
   place('leiden-bakery-2', 'leiden', 'bakery', 'Mamie Gourmande', 'Gangetje 14, 2311 ER Leiden', '구시가 골목의 빵집 겸 카페.', 'Bakery-café in an old-town lane.'),
   place('leiden-cafe-1', 'leiden', 'cafe', 'Giò Neapolitan Espresso', 'Sint Jorissteeg 13, 2311 JA Leiden', '나폴리식 에스프레소를 내는 카페.', 'Café serving Neapolitan-style espresso.'),
   place('leiden-cafe-2', 'leiden', 'cafe', 'Chummy Coffee Leiden', 'Breestraat 97, 2311 CK Leiden', '중심가 브레이스트라트의 카페.', 'Café on the Breestraat, the main street.'),
+
+  // —— giethoorn: restaurants, bakeries and cafés (2026-11-21) ——
+  place('giethoorn-bakery-1', 'giethoorn', 'bakery', 'ChocoManiak', 'Beulakerweg 133d, 8355 AH Giethoorn', '마을 입구의 초콜릿·제과점. 구글 지도 평점 5.0.', 'Chocolate and pastry shop at the edge of the village. Rated 5.0 on Google Maps.'),
 ]

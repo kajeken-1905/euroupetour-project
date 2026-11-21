@@ -1,0 +1,50 @@
+{
+ "amsterdam-h9": [
+  "Volendam",
+  "Volendam"
+ ],
+ "amsterdam-h10": [
+  "Waagplein, Alkmaar",
+  "Alkmaar Cheese Market"
+ ],
+ "rotterdam-h3": [
+  "Kubuswoningen",
+  "Cube houses"
+ ],
+ "rotterdam-h4": [
+  "Spido, Willemsplein, Rotterdam",
+  "Rotterdam"
+ ],
+ "utrecht-h5": [
+  "Domkerk, Utrecht",
+  "St. Martin's Cathedral, Utrecht"
+ ],
+ "delft-h6": [
+  "Oude Delft, Delft",
+  "Delft"
+ ],
+ "delft-h2": [
+  "Royal Delft, Rotterdamseweg",
+  "Royal Delft"
+ ],
+ "maastricht-h6": [
+  "Maasboulevard, Maastricht",
+  "Maastricht"
+ ],
+ "maastricht-h3": [
+  "Universiteit Maastricht, Minderbroedersberg",
+  "Maastricht University"
+ ],
+ "maastricht-h2": [
+  "Grotten Noord, Sint Pietersberg",
+  "Caves of Sint Pietersberg"
+ ],
+ "giethoorn-h4": [
+  "Museum Giethoorn 't Olde Maat Uus",
+  "Giethoorn"
+ ],
+ "giethoorn-h6": [
+  "Blokzijl",
+  "Blokzijl"
+ ]
+}
