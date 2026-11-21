@@ -13131,5 +13131,20 @@
     36.14508,
     -5.35308,
     "OSM Nominatim: Grand Casemates Square (Wikipedia 40m)"
+  ],
+  "st-helier-h6": [
+    49.18158,
+    -2.10978,
+    "OSM Nominatim: Maritime Museum, New North Quay, Havre des Pas, Canton de Ha (Wikipedia 3m)"
+  ],
+  "st-helier-h10": [
+    49.17984,
+    -2.2501,
+    "OSM Nominatim: Corbière Lighthouse, La Corbière Causeway, St. Brelade, St B (Wikipedia 314m) (area article; lighthouse point)"
+  ],
+  "st-helier-h11": [
+    49.25755,
+    -2.2468,
+    "OSM Nominatim: Grosnez Castle, Chemin du Câtel, La Cueillette de Vinchelez, (Wikipedia 27m)"
   ]
 }

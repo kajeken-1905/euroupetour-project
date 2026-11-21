@@ -4868,3 +4868,9 @@ highlights/gibraltar-12.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Su
 highlights/gibraltar-13.jpg | https://commons.wikimedia.org/wiki/File:Sandy_Bay_(beach),_Gibraltar_in_August_2025_as_seen_from_The_Rock_of_Gibraltar_Skywalk_(5_of_6).jpg | CC BY 4.0 | Cabeza2000
 highlights/gibraltar-14.jpg | https://commons.wikimedia.org/wiki/File:Gibraltar_Mediterranean_Steps_15.jpg | CC BY 4.0 | Scott Wylie
 highlights/gibraltar-15.jpg | https://commons.wikimedia.org/wiki/File:Catalan_Bay,_Gibraltar.jpg | CC BY 2.0 | David Stanley
+highlights/st-helier-6.jpg | https://commons.wikimedia.org/wiki/File:NEW_JERSEY_MARITIME_MUSEUM,_BEACH_HAVEN_OCEAN_COUNTY_(cropped).jpg | CC BY-SA 3.0 | Jerrye &amp; Roy Klotz, MD
+highlights/st-helier-7.jpg | https://commons.wikimedia.org/wiki/File:Liberation_Day_in_Jersey_2-0070.jpg | CC BY 2.0 | Jersey Tourism
+highlights/st-helier-8.jpg | https://commons.wikimedia.org/wiki/File:Royal_Square_Jersey.JPG | CC BY-SA 3.0 | Danrok
+highlights/st-helier-9.jpg | https://commons.wikimedia.org/wiki/File:IMG_2430_Boeien_in_de_haven_van_St_Helier_achtergrond_Fort_Regent.JPG | CC BY 2.5 | No machine-readable author provided. Ellywa assumed (based o
+highlights/st-helier-10.jpg | https://commons.wikimedia.org/wiki/File:La_Corbiere_Lighthouse_20160901.jpg | CC BY-SA 3.0 | Daniel Kraft
+highlights/st-helier-11.jpg | https://commons.wikimedia.org/wiki/File:Grosnez_Castle_Jersey.jpg | Public domain | Emeraude

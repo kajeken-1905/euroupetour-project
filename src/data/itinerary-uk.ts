@@ -135,7 +135,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
   douglas: { days: [['', 2, 3, 1]], trips: [['락시와 스나펠|Laxey & Snaefell', 4, 5]] },
   castletown: [1, 2, 3],
   peel: [1, 2],
-  'st-helier': { days: [['', 1, 4, 3]], trips: [['섬 안쪽|Inland', 2, 5]] },
+  'st-helier': { days: [['', 7, 6, 4, 8, 3, 9, 1]], trips: [['섬 안쪽|Inland', 2, 5], ['서쪽 해안|West coast', 10, 11]] },
   gorey: [1, 2, 3],
   'st-peter-port': { days: [['', 1, 4, 2]], trips: [['섬 남쪽|South of the island', 3, 5]] },
   sark: [1, 2],
