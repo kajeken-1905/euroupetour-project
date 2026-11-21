@@ -229,6 +229,11 @@ export const placesESExtra: Place[] = [
 
   place('gibraltar-bakery-2', 'gibraltar', 'bakery', 'Piece of Cake Boutique Bakery', 'The Residence, 29-35 Engineer Ln, Gibraltar', '케이크·컵케이크·브라우니를 만드는 부티크 빵집. 일요일은 쉽니다.', 'Boutique bakery making cakes, cupcakes and brownies; closed Sundays.'),
   place('gibraltar-cafe-1', 'gibraltar', 'cafe', 'Amar’s Kosher Bakery & Restaurant', '1 Convent Place, Gibraltar GX11 1AA', '컨벤트 플레이스의 코셔 빵집 겸 식당.', 'Kosher bakery and restaurant on Convent Place.'),
+  place('gibraltar-fine_dining-6', 'gibraltar', 'fine_dining', 'Curry & Nigiri', '4 City Mill Lane, Gibraltar GX11 1AA', '메인 스트리트 옆 골목의 인도 요리 식당. 구글 지도 평점 4.8.', 'Indian restaurant in a lane off Main Street. Rated 4.8 on Google Maps.'),
+  place('gibraltar-fine_dining-7', 'gibraltar', 'fine_dining', 'Paparazzi Steakhouse', "44 Cornwall's Lane, Gibraltar GX11 1AA", '시내 중심의 스테이크 전문 식당. 구글 지도 평점 4.6.', 'Steakhouse in the town centre. Rated 4.6 on Google Maps.'),
+  place('gibraltar-bakery-3', 'gibraltar', 'bakery', 'chök - Main Street', '249 Main Street, Gibraltar GX11 1AA', '메인 스트리트 남쪽의 빵집. 구글 지도 평점 4.4.', 'Bakery on the southern stretch of Main Street. Rated 4.4 on Google Maps.'),
+  place('gibraltar-cafe-2', 'gibraltar', 'cafe', 'Café Louis', '184 Main Street, Gibraltar GX11 1AA', '메인 스트리트의 작은 커피집. 구글 지도 평점 4.4.', 'Small coffee shop on Main Street. Rated 4.4 on Google Maps.'),
+  place('gibraltar-cafe-3', 'gibraltar', 'cafe', 'Gibraltar Tea Company', "5 Tuckey's Lane, Gibraltar GX11 1AA", '메인 스트리트 옆 골목의 찻집. 구글 지도 평점 4.4.', 'Tea house in a lane off Main Street. Rated 4.4 on Google Maps.'),
 
   // —— cuenca ——
   place('cuenca-fine_dining-1', 'cuenca', 'fine_dining', 'Raff San Pedro', 'C. San Pedro 58, 16001 Cuenca', '구시가 산 페드로 거리의 레스토랑.', 'Restaurant on Calle San Pedro in the old town.'),
