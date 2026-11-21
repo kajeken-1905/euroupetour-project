@@ -183,4 +183,14 @@ export const placesCHExtra: Place[] = [
   // —— gruyeres ——
   place('gruyeres-fine_dining-1', 'gruyeres', 'fine_dining', 'Chalet de Gruyères', 'Rue du Bourg 53, 1663 Gruyères', '퐁뒤와 라클레트를 내는 스위스 요리 식당.', 'Swiss restaurant for fondue and raclette.'),
   place('gruyeres-fine_dining-2', 'gruyeres', 'fine_dining', 'Auberge de la Halle', 'Rue du Bourg 24, 1663 Gruyères', '마을 중심 거리의 식당.', 'Restaurant on the village’s main street.'),
+
+  // —— lauterbrunnen: restaurants, bakeries and cafés (2026-11-21) ——
+  place('lauterbrunnen-fine_dining-1', 'lauterbrunnen', 'fine_dining', 'Smash Huus', 'Auf der Fuhren 435, 3822 Lauterbrunnen', '마을 중심의 버거·간식 가게. 구글 지도 평점 4.8.', 'Burger and snack bar in the village centre. Rated 4.8 on Google Maps.'),
+  place('lauterbrunnen-fine_dining-2', 'lauterbrunnen', 'fine_dining', 'Swiss Street Food', 'Fuhren 434A, 3822 Lauterbrunnen', '마을 중심의 길거리 음식 가게. 구글 지도 평점 4.9.', 'Street-food stand in the village centre. Rated 4.9 on Google Maps.'),
+
+  // —— kandersteg: restaurants, bakeries and cafés (2026-11-21) ——
+  place('kandersteg-fine_dining-1', 'kandersteg', 'fine_dining', 'Restaurant Schweizerhof', 'Bahnhofstrasse 1, 3718 Kandersteg', '역 앞의 식당. 구글 지도 평점 4.5.', 'Restaurant by the station. Rated 4.5 on Google Maps.'),
+  place('kandersteg-fine_dining-2', 'kandersteg', 'fine_dining', 'Restaurant Ritter', 'Äussere Dorfstrasse, 3718 Kandersteg', '마을 큰길의 식당. 구글 지도 평점 4.3.', 'Restaurant on the main village street. Rated 4.3 on Google Maps.'),
+  place('kandersteg-fine_dining-3', 'kandersteg', 'fine_dining', 'Nico\'s', 'Äussere Dorfstrasse, 3718 Kandersteg', '마을 북쪽의 레스토랑. 구글 지도 평점 4.4.', 'Restaurant at the north end of the village. Rated 4.4 on Google Maps.'),
+  place('kandersteg-fine_dining-4', 'kandersteg', 'fine_dining', 'Restaurant Berghotel Oeschinensee', 'Oeschinensee 8, 3718 Kandersteg', '외시넨 호숫가 산장 호텔의 스위스 요리 식당. 구글 지도 평점 4.3.', 'Swiss restaurant at the mountain hotel on the shore of the Oeschinensee. Rated 4.3 on Google Maps.'),
 ]

@@ -22,7 +22,6 @@
     1.43973,
     "OSM Nominatim: Quai de la Daurade"
   ],
-  "lugano-h2": null,
   "zaragoza-h5": [
     41.65719,
     -0.87534,
@@ -13426,5 +13425,60 @@
     47.31336,
     13.18981,
     "OSM Nominatim: Liechtensteinklamm, 41, Alpendorf, Salzburg, 5621, Österreic (Wikipedia 295m)"
+  ],
+  "zurich-h11": [
+    47.67772,
+    8.61507,
+    "OSM Nominatim: Rheinfall, Uhwiesen, Laufen-Uhwiesen, Bezirk Andelfingen, Zü (Wikipedia 79m)"
+  ],
+  "geneva-h2": [
+    46.20109,
+    6.1485,
+    "OSM Nominatim: Cathédrale Saint-Pierre, 8, Cour de Saint-Pierre, Vieille-Vi (Wikipedia 9m)"
+  ],
+  "bern-h2": [
+    46.94795,
+    7.4478,
+    "OSM Nominatim: Zytglogge, 3, Bim Zytglogge, Altstadt, Grünes Quartier, Stad (Wikipedia 12m)"
+  ],
+  "lucerne-h10": [
+    46.77203,
+    8.43781,
+    "OSM Nominatim: Titlis, Innertkirchen, Verwaltungskreis Interlaken-Oberhasli (Wikipedia 69m)"
+  ],
+  "interlaken-h6": [
+    46.58978,
+    7.90543,
+    "OSM Nominatim: Staubbachfall, Wengen, Lauterbrunnen, Verwaltungskreis Inter (Wikipedia 15m)"
+  ],
+  "basel-h1": [
+    47.55642,
+    7.59224,
+    "OSM Nominatim: Basler Münster, 9, Münsterplatz, Altstadt Grossbasel, Grossb (Wikipedia 27m)"
+  ],
+  "zermatt-h1": [
+    45.98331,
+    7.78463,
+    "OSM Nominatim: Gornergrat, Gornergrat - Hohtälli, Zermatt, Visp, Oberwallis (Wikipedia 8m)"
+  ],
+  "gruyeres-h1": [
+    46.5848,
+    7.08405,
+    "OSM Nominatim: Château de Gruyères, Rue du Château, Le Bourgo, Epagny, Gruy (Wikipedia 6m)"
+  ],
+  "gruyeres-h2": [
+    46.58302,
+    7.08039,
+    "OSM Nominatim: Rue du Bourg, Le Bourgo, Epagny, Gruyères, District de la Gr (Wikipedia 227m)"
+  ],
+  "st-moritz-h2": [
+    46.49824,
+    9.83859,
+    "OSM Nominatim: St. Moritz-Dorf, Plazza da Scoula, Sur Chaunt, St. Moritz Ba (Wikipedia 129m)"
+  ],
+  "gruyeres-h4": [
+    46.58411,
+    7.08242,
+    "OSM Nominatim: HR Giger Museum, Gruyères (de.wikipedia 12m)"
   ]
 }
