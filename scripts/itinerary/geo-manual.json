@@ -13311,5 +13311,20 @@
     61.55533,
     -6.80468,
     "OSM Nominatim: Tvøroyri, Froðba, Tvøroyrar kommuna, Suðuroyar sýsla, 800, F (Wikipedia 91m)"
+  ],
+  "nuuk-h5": [
+    64.17825,
+    -51.74482,
+    "OSM Nominatim: Hans Egedes Hus, 15, Hans Egedesvej, Nuutoqaq, Nuuk Centrum, (Wikipedia 6m)"
+  ],
+  "nuuk-h6": [
+    64.17787,
+    -51.72927,
+    "OSM Nominatim: Nuuk Kunstmuseum, 5, Kisserneqqortuunnguaq, Inussussuaq, Nuu (Wikipedia 3m)"
+  ],
+  "nuuk-h7": [
+    64.29418,
+    -51.49271,
+    "OSM Nominatim: Sermitsiaq, Nuuk, Sermersooq, Kalaallit Nunaat (Wikipedia 737m)"
   ]
 }

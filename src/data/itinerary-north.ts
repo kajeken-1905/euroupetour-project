@@ -355,8 +355,8 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   klaksvik: {"days": [["", 1, 3]], "trips": [["칼소이섬|Kalsoy", 2]]},
   sandoy: {"days": [["", 1]], "trips": [["스쿠보이섬|Skúvoy", 3]]},
   suduroy: {"days": [["", 4, 3, 2, 1]]},
-  nuuk: { days: [['', 3, 1, 2]], trips: [['피오르 보트 투어|Fjord boat tour', 4]] },
-  ilulissat: { days: [['', 3, 2, 1]], trips: [['에키 빙하 보트|Eqi Glacier by boat', 4]] },
+  nuuk: { days: [['', 3, 5, 1, 6, 2, 7]], trips: [['피오르 보트 투어|Fjord boat tour', 4]] },
+  ilulissat: { days: [['', 3, 2, 1, 5]], trips: [['에키 빙하 보트|Eqi Glacier by boat', 4]] },
   kangerlussuaq: { days: [['', 1, 3]], trips: [['빙상 투어|Ice sheet tour', 2]] },
   moscow: {
     days: [

@@ -4946,3 +4946,7 @@ highlights/suduroy-1.jpg | https://commons.wikimedia.org/wiki/File:Beinisv%C3%B8
 highlights/suduroy-2.jpg | https://commons.wikimedia.org/wiki/File:Faroese_sheep_Sumba_1.jpg | CC BY-SA 4.0 | kallerna
 highlights/suduroy-3.jpg | https://commons.wikimedia.org/wiki/File:F%C3%A1mjin_Kirkja_1.jpg | CC BY-SA 3.0 | Erik Christensen
 highlights/suduroy-4.jpg | https://commons.wikimedia.org/wiki/File:Tv%C3%B8royri_from_Smyril_2.jpg | CC BY-SA 4.0 | kallerna
+highlights/nuuk-5.jpg | https://commons.wikimedia.org/wiki/File:House_of_Hans_Egede_(26017191815).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
+highlights/nuuk-6.jpg | https://commons.wikimedia.org/wiki/File:The_Nuuk_Art_Museum.jpg | CC BY 2.0 | Peter Løvstrøm
+highlights/nuuk-7.jpg | https://commons.wikimedia.org/wiki/File:Sermitsiaq_Mountain_(26068695776).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
+highlights/ilulissat-5.jpg | https://commons.wikimedia.org/wiki/File:Church_in_Ilulissat_with_Icebergs.jpg | CC BY-SA 4.0 | Ekrem Canli

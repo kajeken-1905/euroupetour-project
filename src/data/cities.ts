@@ -36231,8 +36231,8 @@ export const cities: City[] = [
     nativeName: "Nuuk",
     cardTagline: { ko: "누크 피오르", en: "Nuuk Fjord" },
     blurb: {
-      ko: "그린란드의 수도. 피오르 끝 작은 도시에 박물관과 문화 센터, 옛 식민지 항구가 있습니다.",
-      en: "Greenland's capital, a small city at the mouth of a fjord with museums, a cultural centre and the old colonial harbour.",
+      ko: "그린란드의 수도로, 1728년 선교사 한스 에게데가 세운 세계에서 가장 작은 수도 가운데 하나입니다. 피오르 입구의 옛 식민지 항구에 붉은 목조 대성당과 그린란드에서 가장 오래된 집이 남아 있고, 국립 박물관에선 15세기 킬라키초크 미라를 봅니다. 맞은편으로 1,210m 세르미치아크 산이 솟아 있으며, 2024년 새 공항이 열려 코펜하겐에서 바로 옵니다.",
+      en: "The capital of Greenland, founded in 1728 by the missionary Hans Egede and one of the world’s smallest capitals. The old colonial harbour at the fjord mouth keeps the red wooden cathedral and the oldest house in Greenland, the National Museum shows the 15th-century Qilakitsoq mummies, and the 1,210 m Sermitsiaq rises across the water. Since its new airport opened in 2024, flights arrive direct from Copenhagen.",
     },
     highlights: [
       {
@@ -36243,6 +36243,20 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Greenland%20National%20Museum%20Nuuk",
       },
       {
+        id: "nuuk-h3",
+        name: { ko: "구세주 교회", en: "Church of Our Saviour" },
+        description: { ko: "옛 식민지 항구 언덕에 1849년 지은 붉은 목조 교회로, 1884년 시계탑이 더해졌고 1994년 대성당이 됐습니다. 앞에 한스 에게데 동상이 서 있습니다.", en: "A red wooden church built in 1849 on the hill above the old colonial harbour, with its clock tower added in 1884; it became the cathedral in 1994. A statue of Hans Egede stands outside." },
+        image: "/highlights/nuuk-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nuuk%20Cathedral",
+      },
+      {
+        id: "nuuk-h5",
+        name: { ko: "한스 에게데 하우스", en: "Hans Egede House" },
+        description: { ko: "1728년에 지은 그린란드에서 가장 오래된 집으로, 선교사 한스 에게데가 살았고 한때 총리 관저였습니다. 지금은 정부 공식 행사장으로 써서 밖에서 봅니다.", en: "Built in 1728, the oldest house in Greenland, once home to the missionary Hans Egede and later the prime minister’s residence; now used for official government receptions and seen from outside." },
+        image: "/highlights/nuuk-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hans%20Egede%20House%20Nuuk",
+      },
+      {
         id: "nuuk-h2",
         name: { ko: "카투악 문화 센터", en: "Katuaq" },
         description: { ko: "오로라를 본뜬 물결 모양 외관의 문화 센터로, 영화관과 공연장이 있습니다.", en: "Cultural centre with an undulating façade inspired by the northern lights, housing a cinema and concert hall." },
@@ -36250,11 +36264,11 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Katuaq%20Nuuk",
       },
       {
-        id: "nuuk-h3",
-        name: { ko: "구세주 교회", en: "Church of Our Saviour" },
-        description: { ko: "옛 식민지 항구 언덕에 선 붉은 목조 대성당입니다.", en: "Red wooden cathedral on the hill above the old colonial harbour." },
-        image: "/highlights/nuuk-3.jpg",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nuuk%20Cathedral",
+        id: "nuuk-h6",
+        name: { ko: "누크 미술관", en: "Nuuk Art Museum" },
+        description: { ko: "그림·수채화와 동석·상아·나무 조각을 모은 미술관으로, 덴마크 화가 에마누엘 A. 페테르센의 그림 150점 넘게 소장하고 있습니다.", en: "An art museum of paintings, watercolours and carvings in soapstone, ivory and wood, including more than 150 paintings by Emanuel A. Petersen." },
+        image: "/highlights/nuuk-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nuuk%20Art%20Museum",
       },
       {
         id: "nuuk-h4",
@@ -36262,7 +36276,14 @@ export const cities: City[] = [
         description: { ko: "배를 타고 빙산과 고래, 옛 마을 터를 보러 가는 거대한 피오르입니다.", en: "Vast fjord explored by boat for icebergs, whales and abandoned settlements." },
         image: "/highlights/nuuk-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nuuk%20Fjord",
-      }
+      },
+      {
+        id: "nuuk-h7",
+        name: { ko: "세르미치아크 산", en: "Sermitsiaq" },
+        description: { ko: "누크에서 약 20km 떨어진 피오르 건너편의 높이 1,210m 산으로, 안장 모양 봉우리가 시내 어디서나 보입니다.", en: "A 1,210 m mountain across the fjord about 20 km from Nuuk, its saddle-shaped summit visible all over town." },
+        image: "/highlights/nuuk-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sermitsiaq%20mountain%20Nuuk",
+      },
     ],
   },
   {
@@ -36275,8 +36296,8 @@ export const cities: City[] = [
     nativeName: "Ilulissat",
     cardTagline: { ko: "일룰리사트 빙하 피오르", en: "Ilulissat Icefjord" },
     blurb: {
-      ko: "거대한 빙산이 떠다니는 유네스코 빙하 피오르 옆 마을. 그린란드 여행의 하이라이트입니다.",
-      en: "Town beside a UNESCO icefjord crowded with giant icebergs—the highlight of most Greenland trips.",
+      ko: "북극권에서 북쪽으로 약 350km, 디스코만에 면한 그린란드 셋째 도시로, 이름이 ‘빙산들’이라는 뜻입니다. 바로 옆 유네스코 빙하 피오르에서 거대한 빙산이 쏟아져 나오고, 사람 수만큼 썰매개가 산다는 마을입니다. 극지 탐험가 크누드 라스무센이 태어난 곳이며, 2026년 활주로가 늘어나 코펜하겐 직항이 생겼습니다.",
+      en: "Greenland’s third town, on Disko Bay about 350 km north of the Arctic Circle; its name means ‘icebergs’. Huge icebergs pour out of the UNESCO-listed icefjord next door, and the town is said to have almost as many sled dogs as people. It is the birthplace of the polar explorer Knud Rasmussen, and a longer runway opened in 2026 brought direct flights to Copenhagen.",
     },
     highlights: [
       {
@@ -36306,7 +36327,14 @@ export const cities: City[] = [
         description: { ko: "배로 가서 빙하 벽이 바다로 무너지는 모습을 가까이서 보는 당일 여행지입니다.", en: "Day trip by boat to watch the glacier front calve into the sea." },
         image: "/highlights/ilulissat-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Eqi%20Glacier%20Greenland",
-      }
+      },
+      {
+        id: "ilulissat-h5",
+        name: { ko: "시온 교회", en: "Zion’s Church" },
+        description: { ko: "18세기 말에 지은 교회로, 세워질 당시 그린란드에서 가장 큰 건물이었습니다. 빙산이 떠 있는 바다 앞에 서 있습니다.", en: "A church built in the late 18th century, at the time the largest building in Greenland, standing by the iceberg-filled sea." },
+        image: "/highlights/ilulissat-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Zion%20Church%20Ilulissat",
+      },
     ],
   },
   {
@@ -36319,8 +36347,8 @@ export const cities: City[] = [
     nativeName: "Kangerlussuaq",
     cardTagline: { ko: "러셀 빙하", en: "Russell Glacier" },
     blurb: {
-      ko: "그린란드 내륙 빙상과 가장 가까운 공항 마을. 빙하와 사향소를 보러 갑니다.",
-      en: "Airport settlement closest to the Greenland ice sheet, a base for glaciers and musk oxen.",
+      ko: "긴 피오르 끝, 그린란드 내륙 빙상과 가장 가까운 마을입니다. 2차 대전 때 미군 기지로 세워져 1992년 그린란드 마을이 됐고, 2024년 누크 새 공항이 열리기 전까지 그린란드 하늘길의 중심이었습니다. 빙하와 빙상, 사향소가 사는 툰드라를 투어로 둘러봅니다.",
+      en: "A settlement at the head of a long fjord, the closest to Greenland’s inland ice sheet. Built as a US base in the Second World War, it became a Greenlandic town in 1992 and was the country’s main air hub until Nuuk’s new airport opened in 2024. Glaciers, the ice sheet and musk-ox tundra are explored on tours.",
     },
     highlights: [
       {
