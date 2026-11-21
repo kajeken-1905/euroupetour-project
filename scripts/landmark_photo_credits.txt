@@ -4971,3 +4971,6 @@ highlights/dinant-5.jpg | https://commons.wikimedia.org/wiki/File:Maison_de_Mons
 highlights/dinant-6.jpg | https://commons.wikimedia.org/wiki/File:Dinant_Rocher_Bayard_01.jpg | CC BY-SA 4.0 | Zairon
 highlights/dinant-7.jpg | https://commons.wikimedia.org/wiki/File:Leffe,Abbaye_(batiment_principal).JPG | Public domain | Grentidez
 highlights/dinant-8.jpg | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Fre%C3%BFr_3.jpg | CC0 | Torsade de Pointes
+highlights/vianden-5.jpg | https://commons.wikimedia.org/wiki/File:Vianden_Trinitarian_Cloisters_R01.jpg | CC BY 3.0 | Marc Ryckaert
+highlights/echternach-5.jpg | https://commons.wikimedia.org/wiki/File:Echternach,_villa_romaine_(111).jpg | CC BY-SA 4.0 | GilPe
+highlights/remich-5.jpg | https://commons.wikimedia.org/wiki/File:Luxembourg_Schengen_from_Markusberg_a.jpg | CC BY-SA 3.0 | Cayambe

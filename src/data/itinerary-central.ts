@@ -24,10 +24,10 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   leiden: [4, 7, 5, 6, 1, 2, 3],
   giethoorn: { days: [['', 1, 2, 3, 4]], trips: [['베리번-비던 국립공원|Weerribben-Wieden', 5], ['블록제일|Blokzijl', 6]] },
   'luxembourg-city': [6, 5, 1, 10, 2, 8, 3, 7, 4, 9],
-  vianden: [3, 1, 4, 2],
-  echternach: [4, 2, 3, 1],
+  vianden: { days: [['', 1, 3, 5, 4, 2]] },
+  echternach: { days: [['', 4, 2, 5, 1]], trips: [['뮐러탈|Mullerthal', 3]] },
   clervaux: [1, 2, 3, 4],
-  remich: [1, 3, 2, 4],
+  remich: { days: [['', 1, 3, 2]], trips: [['솅겐|Schengen', 5], ['그레벤마허 나비 정원|Grevenmacher Butterfly Garden', 4]] },
   brussels: {
     days: [
       ['아토미움과 그랑플라스|Atomium & the Grand-Place', 3, 4, 11, 10, 9, 2, 5],

@@ -13530,5 +13530,20 @@
     50.22627,
     4.88866,
     "OSM Nominatim: Château de Freÿr, N96, Freÿr, Waulsort, Hastière, Dinant, Na (fr.wikipedia 21m)"
+  ],
+  "luxembourg-city-h6": [
+    49.60846,
+    6.12692,
+    "OSM Nominatim: Pont Adolphe, Place de Bruxelles, Ville-Haute, Luxembourg, C (Wikipedia 19m)"
+  ],
+  "vianden-h1": [
+    49.93488,
+    6.2028,
+    "OSM Nominatim: Château de Vianden, Promenade B, Vianden, Canton Vianden, 94 (Wikipedia 44m)"
+  ],
+  "echternach-h2": [
+    49.8134,
+    6.42172,
+    "OSM Nominatim: Basilique Saint-Willibrord, Parvis de la Basilique, Echterna (Wikipedia 78m)"
   ]
 }
