@@ -36338,6 +36338,35 @@ export const cities: City[] = [
     ],
   },
   {
+    id: "sisimiut",
+    countryId: "gl",
+    lat: 66.9389,
+    lng: -53.6722,
+    signatureImage: "/cities/sisimiut.jpg",
+    name: { ko: "시시미우트", en: "Sisimiut" },
+    nativeName: "Sisimiut",
+    blurb: {
+      ko: "누크에서 북쪽으로 약 320km, 북극권 바로 위의 그린란드 둘째 도시입니다. 4,500년 전부터 사람이 살았고, 옛 식민지 구역엔 그린란드에서 가장 오래된 교회(1775년)와 1725년 집이 남아 있습니다. 내륙의 캉에를루수아크까지 165km를 걷는 아크틱 서클 트레일의 끝점이며, 겨울엔 개썰매와 스키의 거점입니다.",
+      en: "Greenland’s second city, about 320 km north of Nuuk just above the Arctic Circle. People have lived here for 4,500 years, and the old colonial quarter keeps the oldest surviving church in Greenland (1775) and a house from 1725. It is the end of the 165 km Arctic Circle Trail from Kangerlussuaq, and in winter a base for dog sledding and skiing.",
+    },
+    highlights: [
+      {
+        id: "sisimiut-h1",
+        name: { ko: "옛 식민지 구역과 베델 교회", en: "Old quarter & Bethel Church" },
+        description: { ko: "1775년 지은 ‘푸른 교회’ 베델 교회는 그린란드에 남은 가장 오래된 교회이고, 옆의 감멜후세트는 1725년 집입니다. 옛 정착지에서 옮겨 온 건물들입니다.", en: "The ‘Blue Church’, Bethel Church of 1775, is the oldest surviving church in Greenland, and Gammelhuset next to it dates from 1725; both were moved here from the earlier settlement." },
+        image: "/highlights/sisimiut-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bethel%20Church%20Sisimiut",
+      },
+      {
+        id: "sisimiut-h3",
+        name: { ko: "아크틱 서클 트레일", en: "Arctic Circle Trail" },
+        description: { ko: "캉에를루수아크에서 시시미우트까지 165km를 걷는 그린란드에서 가장 유명한 장거리 산길로, 허가 없이 무료로 걸을 수 있습니다. 보통 1~2주가 걸리고 산장과 캠핑으로 지냅니다.", en: "Greenland’s best-known long-distance trail, 165 km from Kangerlussuaq to Sisimiut, free and with no permit needed; it usually takes one to two weeks, staying in huts or camping." },
+        image: "/highlights/sisimiut-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Arctic%20Circle%20Trail%20Sisimiut",
+      }
+    ],
+  },
+  {
     id: "kangerlussuaq",
     countryId: "gl",
     lat: 67.0086,
@@ -36371,6 +36400,85 @@ export const cities: City[] = [
         description: { ko: "툰드라에서 사향소와 순록을 찾아보는 투어입니다.", en: "Tour across the tundra looking for musk oxen and reindeer." },
         image: "/highlights/kangerlussuaq-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kangerlussuaq",
+      }
+    ],
+  },
+  {
+    id: "qaqortoq",
+    countryId: "gl",
+    lat: 60.7222,
+    lng: -46.0403,
+    signatureImage: "/cities/qaqortoq.jpg",
+    name: { ko: "카코르토크", en: "Qaqortoq" },
+    nativeName: "Qaqortoq",
+    blurb: {
+      ko: "남부 그린란드에서 가장 큰 마을로, 알록달록한 집들이 항구를 둘러싼 언덕에 늘어서 있습니다. 마을 곳곳의 바위에 새긴 40점 넘는 조각 ‘돌과 사람’, 1932년 그린란드 최초의 분수가 있고, 배로 가까운 흐발세이 노르드인 교회 유적(유네스코)에 다녀옵니다. 2026년 공항이 열려 비행기로 바로 옵니다.",
+      en: "The largest town in southern Greenland, its brightly painted houses climbing the hills round the harbour. More than 40 rock carvings of the ‘Stone & Man’ project are scattered through town, the 1932 fountain was Greenland’s first, and boats run to the UNESCO-listed Norse church ruins at Hvalsey. Its airport opened in 2026.",
+    },
+    highlights: [
+      {
+        id: "qaqortoq-h1",
+        name: { ko: "돌과 사람", en: "Stone & Man" },
+        description: { ko: "1993~1994년 카코르토크 화가 아카 회에그와 북유럽 예술가 18명이 마을의 바위와 돌에 새긴 조각 프로젝트로, 지금 40점이 넘는 작품이 마을 곳곳에 있습니다.", en: "A 1993–94 project in which the local artist Aka Høegh and 18 other Nordic artists carved the town’s rocks and boulders; more than 40 works are now scattered through Qaqortoq." },
+        image: "/highlights/qaqortoq-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Stone%20and%20Man%20Qaqortoq",
+      },
+      {
+        id: "qaqortoq-h2",
+        name: { ko: "민데브뢴덴 분수", en: "Mindebrønden fountain" },
+        description: { ko: "1932년 완성된 그린란드에서 가장 오래된 분수로, 고래들이 숨구멍으로 물을 뿜는 모양입니다. 마을 중심 광장에 있습니다.", en: "Greenland’s oldest fountain, finished in 1932, with whales spouting water from their blowholes; it stands on the central square." },
+        image: "/highlights/qaqortoq-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mindebr%C3%B8nden%20Qaqortoq",
+      },
+      {
+        id: "qaqortoq-h3",
+        name: { ko: "카코르토크 박물관", en: "Qaqortoq Museum" },
+        description: { ko: "분수 광장 옆 1804년 건물(옛 대장간)의 박물관으로, 도싯·툴레 문화와 노르드인 유물, 옛 이누이트 배와 사냥 도구, 민족 의상을 보여 줍니다.", en: "A museum by the fountain square in an 1804 building, once the blacksmith’s shop, with Dorset, Thule and Norse finds, old Inuit boats, hunting gear and national dress." },
+        image: "/highlights/qaqortoq-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Qaqortoq%20Museum",
+      },
+      {
+        id: "qaqortoq-h4",
+        name: { ko: "흐발세이 교회 유적", en: "Hvalsey Church ruins" },
+        description: { ko: "카코르토크 뒤편 피오르의 노르드인 농장 터로, 그린란드에서 가장 크고 잘 남은 노르드 유적입니다. 1408년 이 교회의 결혼식이 노르드인의 마지막 기록이며, 2017년 유네스코 세계유산(쿠야타)이 됐습니다.", en: "A Norse farmstead in the fjord behind Qaqortoq, the largest and best-preserved Norse ruins in Greenland; a wedding here in 1408 is the last written record of the Norse, and it became part of the Kujataa UNESCO site in 2017." },
+        image: "/highlights/qaqortoq-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hvalsey%20Church%20ruins",
+      }
+    ],
+  },
+  {
+    id: "tasiilaq",
+    countryId: "gl",
+    lat: 65.6136,
+    lng: -37.6311,
+    signatureImage: "/cities/tasiilaq.jpg",
+    name: { ko: "타실라크", en: "Tasiilaq" },
+    nativeName: "Tasiilaq",
+    blurb: {
+      ko: "그린란드 동해안에서 가장 큰 마을로, 빙산이 떠 있는 바다와 험한 산 사이 암마살리크섬에 있습니다. 아카 회에그가 꾸민 1986년 교회가 있고, 서쪽으로 빙하가 쏟아지는 거대한 세르밀리크 피오르가 펼쳐집니다. 아이슬란드에서 쿨루수크 공항으로 날아와 헬리콥터로 들어옵니다.",
+      en: "The largest town on Greenland’s east coast, on Ammassalik Island between an iceberg-strewn sea and rugged mountains. It has a 1986 church decorated by Aka Høegh, and to the west the vast Sermilik fjord fills with glacier ice. Visitors fly from Iceland to Kulusuk and come in by helicopter.",
+    },
+    highlights: [
+      {
+        id: "tasiilaq-h1",
+        name: { ko: "타실라크 교회", en: "Tasiilaq Church" },
+        description: { ko: "1986년 지은 마을 교회로, 그린란드 화가 아카 회에그가 실내를 꾸몄습니다.", en: "The town church of 1986, its interior decorated by the Greenlandic artist Aka Høegh." },
+        image: "/highlights/tasiilaq-1.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tasiilaq%20Church",
+      },
+      {
+        id: "tasiilaq-h2",
+        name: { ko: "세르밀리크 피오르", en: "Sermilik Fjord" },
+        description: { ko: "타실라크 서쪽의 남동 그린란드 최대급 피오르로, 헬하임 빙하 등에서 떨어져 나온 빙산이 가득합니다.", en: "One of the largest fjords in south-east Greenland, west of Tasiilaq, crowded with ice from the Helheim and other glaciers." },
+        image: "/highlights/tasiilaq-2.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sermilik%20Fjord",
+      },
+      {
+        id: "tasiilaq-h3",
+        name: { ko: "쿨루수크 마을", en: "Kulusuk" },
+        description: { ko: "공항이 있는 이웃 섬의 작은 마을로, 1908년 해안에 좌초한 덴마크 배의 목재로 지은 교회가 있고 오르간 위에 그 배의 모형이 걸려 있습니다.", en: "The small village on the neighbouring island with the airport; its church was built in 1908 from the timbers of a Danish ship wrecked on the coast, and a model of the ship hangs above the organ." },
+        image: "/highlights/tasiilaq-3.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kulusuk%20church",
       }
     ],
   },

@@ -859,7 +859,7 @@ export const countries: Country[] = [
       background: '#FCE8EC',
       text: '#3A0A12',
     },
-    cityIds: ['nuuk', 'ilulissat', 'kangerlussuaq'],
+    cityIds: ['nuuk', 'sisimiut', 'ilulissat', 'kangerlussuaq', 'qaqortoq', 'tasiilaq'],
   },
   // —— 동유럽 ——
   {

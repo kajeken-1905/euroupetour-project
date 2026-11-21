@@ -8603,6 +8603,36 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [ta('air-greenland', { ko: '국내선', en: 'Domestic flights' })],
   },
+  sisimiut: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 다른 도시와는 도로가 없어 비행기나 배로 갑니다.',
+      en: 'Walk around town; there are no roads to other towns, so fly or take a boat.',
+    },
+    apps: [
+      ta('air-greenland', { ko: '국내선', en: 'Domestic flights' }),
+    ],
+  },
+  qaqortoq: {
+    modes: ['walk'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 다른 마을과는 도로가 없어 비행기·헬리콥터·배로 갑니다.',
+      en: 'Walk around town; there are no roads to other places, so fly, take a helicopter or a boat.',
+    },
+    apps: [
+      ta('air-greenland', { ko: '국내선', en: 'Domestic flights' }),
+    ],
+  },
+  tasiilaq: {
+    modes: ['walk'],
+    howTo: {
+      ko: '쿨루수크 공항에서 헬리콥터(약 24km)로 들어옵니다. 마을은 걸어서 다니고, 주변은 헬리콥터나 배로 갑니다.',
+      en: 'Fly into Kulusuk and take the helicopter (about 24 km); walk around town and use helicopters or boats beyond.',
+    },
+    apps: [
+      ta('air-greenland', { ko: '국내선', en: 'Domestic flights' }),
+    ],
+  },
   // —— ru (airport and operator sites) ——
   moscow: {
     modes: ['metro', 'train', 'bus', 'tram', 'taxi', 'walk'],

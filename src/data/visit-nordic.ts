@@ -480,4 +480,13 @@ export const visitNordic: Record<string, HighlightVisit> = {
   'kangerlussuaq-h1': v(180, 300, { n: '투어로 갑니다.|Visited on a tour.' }),
   'kangerlussuaq-h2': v(240, 360, { n: '투어로 갑니다.|Visited on a tour.' }),
   'kangerlussuaq-h3': v(180, 240, { n: '투어로 갑니다.|Visited on a tour.' }),
+  'sisimiut-h1': v(30, 45, { b: 'no', n: '무료입니다.|Free.' }),
+  'sisimiut-h3': v(60, 120, { b: 'no', n: '여름(대략 6~9월)에 걷습니다. 표지가 드물어 지도와 장비를 갖춰야 합니다.|Walked in summer (roughly June–September); markings are sparse, so carry maps and full kit.' }),
+  'qaqortoq-h1': v(60, 90, { b: 'no', n: '무료입니다.|Free.' }),
+  'qaqortoq-h2': v(10, 15, { b: 'no', n: '무료입니다.|Free.' }),
+  'qaqortoq-h3': v(45, 60),
+  'qaqortoq-h4': v(180, 300, { b: 'no', n: '보트 투어로 갑니다.|Reached on a boat tour.' }),
+  'tasiilaq-h1': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
+  'tasiilaq-h2': v(240, 480, { b: 'no', n: '보트 투어로 갑니다.|Reached on a boat tour.' }),
+  'tasiilaq-h3': v(60, 90, { b: 'no', n: '무료입니다.|Free.' }),
 }

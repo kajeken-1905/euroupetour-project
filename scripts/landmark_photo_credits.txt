@@ -4950,3 +4950,15 @@ highlights/nuuk-5.jpg | https://commons.wikimedia.org/wiki/File:House_of_Hans_Eg
 highlights/nuuk-6.jpg | https://commons.wikimedia.org/wiki/File:The_Nuuk_Art_Museum.jpg | CC BY 2.0 | Peter Løvstrøm
 highlights/nuuk-7.jpg | https://commons.wikimedia.org/wiki/File:Sermitsiaq_Mountain_(26068695776).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
 highlights/ilulissat-5.jpg | https://commons.wikimedia.org/wiki/File:Church_in_Ilulissat_with_Icebergs.jpg | CC BY-SA 4.0 | Ekrem Canli
+cities/sisimiut.jpg | https://commons.wikimedia.org/wiki/File:Sisimiut_Blick_auf_Hafen.jpg | CC BY-SA 3.0 | Jens Bludau
+highlights/sisimiut-1.jpg | https://commons.wikimedia.org/wiki/File:Bethel_Church_(26515855415).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
+highlights/sisimiut-3.jpg | https://commons.wikimedia.org/wiki/File:Landscape_during_Arctic_Circle_Trail_(19).JPG | CC BY 3.0 | Chmee2
+cities/qaqortoq.jpg | https://commons.wikimedia.org/wiki/File:GL-Qaqortoq-Relief-03.jpg | CC BY-SA 4.0 | Balou46
+highlights/qaqortoq-1.jpg | https://commons.wikimedia.org/wiki/File:Sculpture,_Qaqortoq.jpg | CC BY-SA 4.0 | Charele
+highlights/qaqortoq-2.jpg | https://commons.wikimedia.org/wiki/File:Qaqortoq_fountain.jpg | CC BY 2.0 | Greenland Travel
+highlights/qaqortoq-3.jpg | https://commons.wikimedia.org/wiki/File:Oldest_house_and_museum_Qarqortoq_Greenland.jpg | CC BY 2.0 | amanderson2
+highlights/qaqortoq-4.jpg | https://commons.wikimedia.org/wiki/File:Hvalsey_Church_southern_aspect.jpg | CC0 | Number_57 (talk) (Uploads).
+cities/tasiilaq.jpg | https://commons.wikimedia.org/wiki/File:Tasiilaq,_East_Greenland_-_46474973201.jpg | CC BY-SA 2.0 | Christoph Strässler
+highlights/tasiilaq-1.jpg | https://commons.wikimedia.org/wiki/File:Tasiilaq_old_church.jpg | CC BY-SA 3.0 | Clemens Stockner
+highlights/tasiilaq-2.jpg | https://commons.wikimedia.org/wiki/File:Johan_Petersen_Fjord_and_Sermilik_Fjord,_East_Greenland.jpg | CC BY-SA 2.0 | Christoph Strässler
+highlights/tasiilaq-3.jpg | https://commons.wikimedia.org/wiki/File:Kulusuk-winter-sunset.jpg | CC BY 3.0 | Algkalv (talk)

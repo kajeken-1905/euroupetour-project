@@ -1208,6 +1208,17 @@ export const hubsEast: Record<string, RawCityHubs> = {
   kangerlussuaq: {
     air: [['Kangerlussuaq (SFJ)', '캉에를루수아크 공항 (SFJ)']],
   },
+  sisimiut: {
+    air: [['Sisimiut (JHS)', '시시미우트 공항 (JHS)', '누크 경유 유럽행|to Europe via Nuuk']],
+    port: [['Sisimiut', '시시미우트 항구', '연중 얼지 않는 가장 북쪽 항구|northernmost year-round ice-free port']],
+  },
+  qaqortoq: {
+    air: [['Qaqortoq (JJU)', '카코르토크 공항 (JJU)', '2026년 개항 · 국내선·아이슬란드|opened 2026 · domestic and Iceland']],
+    port: [['Qaqortoq', '카코르토크 항구', '아크틱 우미아크 연안 여객선|Arctic Umiaq coastal ferry']],
+  },
+  tasiilaq: {
+    air: [['Kulusuk (KUS)', '쿨루수크 공항 (KUS)', '헬리콥터로 24km · 누크·아이슬란드행|24 km by helicopter · flights to Nuuk and Iceland']],
+  },
   // —— ru ——
   moscow: {
     air: [

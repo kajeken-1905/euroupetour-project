@@ -2856,6 +2856,15 @@ export const STAY: Record<string, StayArea[]> = {
   kangerlussuaq: [
     a('공항 주변', 'By the airport', 'Kangerlussuaq', '빙상 투어 출발지|Base for ice sheet tours', '마을이 공항 주변에 모여 있고 투어가 여기서 출발합니다. 여름에만 여는 곳이 있습니다.|The settlement clusters round the airport where tours leave; some places open only in summer.'),
   ],
+  sisimiut: [
+    a('시시미우트 시내', 'Sisimiut town', 'Sisimiut', '도시 거점|Town base', '항구와 옛 식민지 구역 가까이에 호텔과 게스트하우스가 있습니다.|Hotels and guesthouses near the harbour and the old quarter.'),
+  ],
+  qaqortoq: [
+    a('카코르토크 시내', 'Qaqortoq town', 'Qaqortoq', '남부 거점|Base for the south', '항구 둘레에 호텔과 호스텔이 있고 보트 투어가 여기서 떠납니다.|A hotel and hostel round the harbour, where boat tours leave.'),
+  ],
+  tasiilaq: [
+    a('타실라크 마을', 'Tasiilaq town', 'Tasiilaq', '동부 거점|Base for the east', '호텔과 게스트하우스가 몇 곳 있어 미리 예약해야 합니다.|A few hotels and guesthouses; book ahead.'),
+  ],
   moscow: [
     a('키타이고로드', 'Kitay-Gorod', 'Kitay-Gorod, Moscow', '처음 가는 여행자|First visit', '붉은 광장과 크렘린 바로 옆이지만 가장 비쌉니다.|Right by Red Square and the Kremlin, but the priciest area.'),
     a('트베르스코이', 'Tverskoy', 'Tverskoy District, Moscow', '활기·식당|Lively, restaurants', '키타이고로드 북쪽의 번화가로 조금 덜 비쌉니다.|The busy, trendy area north of Kitay-Gorod, a little cheaper.'),

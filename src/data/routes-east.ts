@@ -464,6 +464,10 @@ export const routesEast: RawRoute[] = [
   r('nuuk', 'kangerlussuaq', 'flight', 50),
   r('nuuk', 'ilulissat', 'flight', 75),
   r('kangerlussuaq', 'ilulissat', 'flight', 45),
+  r('nuuk', 'tasiilaq', 'flight', 120, { n: '쿨루수크 공항 뒤 헬리콥터|helicopter on from Kulusuk Airport' }),
+  r('nuuk', 'qaqortoq', 'flight', 75),
+  r('kangerlussuaq', 'sisimiut', 'flight', 30),
+  r('nuuk', 'sisimiut', 'flight', 50),
   // —— ru (no direct flights from Korea) ——
   r('moscow', 'saint-petersburg', 'train', 210, { ...R, fa: '레닌그라드역|Leningradsky', fb: '모스크바역|Moskovsky', n: '삽산 고속열차|Sapsan high-speed' }),
   r('moscow', 'kazan', 'flight', 95),
