@@ -1709,6 +1709,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       en: 'Historic cores often restrict cars—use outer parking and shuttles.',
     },
   },
+  'st-wolfgang': {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 스트로블·바트 이슐과는 546번 버스로, 호숫가 마을과는 봄~가을 배로 이어집니다.',
+      en: 'Walk the village; bus 546 runs to Strobl and Bad Ischl, and spring-to-autumn boats link the lakeside villages.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  melk: {
+    modes: ['walk', 'train', 'ferry'],
+    howTo: {
+      ko: '역에서 수도원까지 걸어서 갑니다. 봄~가을엔 뒤른슈타인·크렘스와 유람선으로 이어집니다.',
+      en: 'Walk from the station to the abbey; spring-to-autumn boats link Dürnstein and Krems.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  eisenstadt: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '아이젠슈타트 시내는 걸어서 다닙니다. 루스트와 호숫가 마을은 버스로 갑니다.',
+      en: 'Walk around Eisenstadt; buses run to Rust and the lakeside villages.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
+  alpbach: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '브릭슬레크역에서 620번 버스로 마을까지 옵니다. 마을은 걸어서 다닙니다.',
+      en: 'Bus 620 runs from Brixlegg station to the village, which is easy to walk.',
+    },
+    apps: [
+      ta('oebb'),
+    ],
+  },
   // —— li ——
   vaduz: {
     modes: ['bus', 'taxi', 'walk'],

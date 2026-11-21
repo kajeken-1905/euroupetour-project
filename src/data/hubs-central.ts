@@ -1389,6 +1389,22 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     port: [['Hallstatt Markt', '할슈타트 마르크트 선착장', '기차역 연결 배·호수 유람선|boat to the rail station and lake cruises']],
   },
 
+  'st-wolfgang': {
+    air: [SZG()],
+    bus: [['St. Wolfgang', '장크트볼프강 버스 정류장', '스트로블·바트 이슐행 546번|bus 546 to Strobl and Bad Ischl']],
+  },
+  melk: {
+    air: [VIE()],
+    rail: [['Melk', '멜크역']],
+  },
+  eisenstadt: {
+    air: [VIE()],
+    rail: [['Eisenstadt', '아이젠슈타트역'], ['Neusiedl am See', '노이지들암제역']],
+  },
+  alpbach: {
+    air: [['Innsbruck (INN)', '인스브루크 공항 (INN)', '인스브루크|Innsbruck'], MUC()],
+    rail: [['Brixlegg', '브릭슬레크역', '알프바흐행 620번 버스|bus 620 to Alpbach']],
+  },
   // —— cz ——
   prague: {
     air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)']],

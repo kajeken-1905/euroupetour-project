@@ -1571,6 +1571,18 @@ export const STAY: Record<string, StayArea[]> = {
   hallstatt: [
     a('할슈타트 마을', 'Hallstatt village', 'Hallstatt', '당일치기 손님이 떠난 저녁|Evenings after the day-trippers', '호숫가 마을의 저녁과 아침을 한적하게 봅니다. 숙소가 적고 호수 전망 방은 더 비쌉니다.|The lakeside village is calm in the evening and morning; few rooms, and lake views cost extra.'),
   ],
+  'st-wolfgang': [
+    a('장크트볼프강 마을', 'St. Wolfgang village', 'St. Wolfgang', '호숫가 마을|Lakeside village', '교회와 선착장 가까이에 숙소가 모여 있습니다.|Hotels cluster near the church and the boat pier.'),
+  ],
+  melk: [
+    a('빈에서 다녀오기', 'Visit from Vienna', 'Vienna', '당일치기|Day trip', '빈에서 기차로 약 1시간이라 빈에 묵고 다녀오기 좋습니다.|About an hour by train, so it is easy to stay in Vienna and come for the day.'),
+  ],
+  eisenstadt: [
+    a('빈에서 다녀오기', 'Visit from Vienna', 'Vienna', '당일치기|Day trip', '빈에서 기차로 약 1시간이라 빈에 묵고 다녀오기 좋습니다.|About an hour by train, so it is easy to stay in Vienna and come for the day.'),
+  ],
+  alpbach: [
+    a('알프바흐 마을', 'Alpbach village', 'Alpbach', '산골 마을|Mountain village', '전통 목조 건물 사이에 펜션과 호텔이 있습니다.|Guesthouses and hotels among the traditional wooden buildings.'),
+  ],
   haarlem: [
     a('하를럼 시내 중심', 'Haarlem centre', 'Grote Markt, Haarlem', '하룻밤 묵을 때|For an overnight stay', '당일 관광객이 떠난 저녁이 한적하고 식당과 바가 많으며 기차역까지 걸어갑니다. 여름과 크리스마스 무렵에는 일찍 예약해야 합니다.|Calm in the evening after the day-trippers leave, with plenty of restaurants and bars and the station on foot; book early in summer and before Christmas.'),
     a('암스테르담에서 다녀오기', 'Day trip from Amsterdam', 'Amsterdam Centraal', '당일치기로 충분|Easy day trip', '직행 기차로 15~20분이라 몇 시간 둘러보기에 좋습니다.|Direct trains take 15–20 minutes, fine for a few hours’ visit.'),

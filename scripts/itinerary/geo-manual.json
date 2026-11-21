@@ -13356,11 +13356,6 @@
     15.59649,
     "OSM Nominatim: Steiner Tor, 1, Südtirolerplatz, Innenstadt, Katastralgemein (Wikipedia 13m)"
   ],
-  "durnstein-h6": [
-    48.22862,
-    15.33188,
-    "OSM Nominatim: Stift Melk, 1, Abt-Berthold-Dietmayr-Straße, Katastralgemein (Wikipedia 161m)"
-  ],
   "werfen-h1": [
     47.51086,
     13.19323,
@@ -13700,5 +13695,50 @@
     50.84856,
     14.34755,
     "OSM Nominatim: Dolský mlýn, Grundmühlensteig, Vysoká Lípa, Jetřichovice, ok (cs.wikipedia 6m)"
+  ],
+  "melk-h1": [
+    48.22862,
+    15.33188,
+    "OSM Nominatim: Stift Melk, 1, Abt-Berthold-Dietmayr-Straße, Katastralgemein (Wikipedia 161m)"
+  ],
+  "melk-h2": [
+    48.18906,
+    15.35619,
+    "OSM Nominatim: Schallaburg, 1, Katastralgemeinde Schallaburg, Schallaburg,  (Wikipedia 23m)"
+  ],
+  "melk-h3": [
+    48.31392,
+    15.42163,
+    "OSM Nominatim: Burgruine Aggstein, 13, Kuenringerstraße, Aggstein, Katastra (Wikipedia 5m)"
+  ],
+  "melk-h4": [
+    48.24266,
+    15.20257,
+    "OSM Nominatim: Schloss Artstetten, 1, Schlossplatz, Katastralgemeinde Artst (Wikipedia 19m)"
+  ],
+  "eisenstadt-h1": [
+    47.8464433,
+    16.5193017,
+    "OSM Nominatim: Schloss Esterházy, Esterhazyplatz 1 (de Wikipedia 29m)"
+  ],
+  "eisenstadt-h3": [
+    47.84499,
+    16.512,
+    "OSM Nominatim: Bergkirche, Grabengassl, Oberberg, Katastralgemeinde Oberber (Wikipedia 1m)"
+  ],
+  "alpbach-h5": [
+    47.46388,
+    11.91853,
+    "OSM Nominatim: Museum Tiroler Bauernhöfe, 10, Angerberg, Moosen, Kramsach,  (Wikipedia 32m)"
+  ],
+  "st-wolfgang-h1": [
+    47.7379946,
+    13.4475589,
+    "OSM Nominatim: Pfarrkirche St. Wolfgang (de Wikipedia Pacher-Altar 6m)"
+  ],
+  "alpbach-h2": [
+    47.3983437,
+    11.9443871,
+    "OSM Nominatim: Pfarrkirche Alpbach (de Wikipedia 1m)"
   ]
 }

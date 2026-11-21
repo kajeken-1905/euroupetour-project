@@ -5018,3 +5018,24 @@ highlights/cesky-raj-3.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_
 highlights/cesky-raj-4.jpg | https://commons.wikimedia.org/wiki/File:Hrad_Vald%C5%A1tejn_(2005).jpg | CC BY-SA 3.0 | Hadonos
 highlights/hrensko-5.jpg | https://commons.wikimedia.org/wiki/File:Mariina_sk%C3%A1la_4772.jpg | CC BY-SA 3.0 | Matěj Baťha
 highlights/hrensko-6.jpg | https://commons.wikimedia.org/wiki/File:Nationalpark_B%C3%B6hmische_Schweiz_20260920_Dolsk%C3%BD_Ml%C3%BDn_15.jpg | CC0 | NutzerAusBerlin
+cities/st-wolfgang.jpg | https://commons.wikimedia.org/wiki/File:St._Wolfgang_kath._Pfarrkirche_Pacher-Altar_Sonntagsseite_01.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/st-wolfgang-1.jpg | https://commons.wikimedia.org/wiki/File:Metnitz_Grades_Filial-_und_Wallfahrtskirche_hl_Wolfgang_NO-Ansicht_21122016_4685.jpg | CC BY-SA 4.0 | Johann Jaritz
+highlights/st-wolfgang-2.jpg | https://commons.wikimedia.org/wiki/File:Schafbergbahn_Z13.jpg | CC BY-SA 3.0 | Tobias b köhler
+highlights/st-wolfgang-3.jpg | https://commons.wikimedia.org/wiki/File:Kaiser_Franz_Josef_Wolfgangsee_044.JPG | Public domain | Marion &amp; Christoph Aistleitner
+highlights/st-wolfgang-4.jpg | https://commons.wikimedia.org/wiki/File:20190130_WeissenR%C3%B6ssl_1221_(46503195325).jpg | CC BY-SA 2.0 | Ray Swi-hymn from Sijhih-Taipei, Taiwan
+cities/melk.jpg | https://commons.wikimedia.org/wiki/File:Stift_Melk_Nordseite_01.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/melk-2.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schallaburg_Castle_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/melk-3.jpg | https://commons.wikimedia.org/wiki/File:Ruine_Aggstein_02.JPG | CC BY-SA 3.0 at | Uoaei1
+highlights/melk-4.jpg | https://commons.wikimedia.org/wiki/File:Artstetten.JPG | CC BY-SA 4.0 | C.Stadler/Bwag
+cities/eisenstadt.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Landhaus_Eisenstadt_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/eisenstadt-1.jpg | https://commons.wikimedia.org/wiki/File:DSC08860_Schloss_Esterh%C3%A1zy,_Eisenstadt,_2023-05.jpg | CC BY-SA 4.0 | Aciarium
+highlights/eisenstadt-2.jpg | https://commons.wikimedia.org/wiki/File:Eisenstadt_-_Haydn-Haus,_Joseph_Haydn-Gasse_21.JPG | CC BY-SA 3.0 | C.Stadler/Bwag
+highlights/eisenstadt-3.jpg | https://commons.wikimedia.org/wiki/File:Bergkirche_Eisenstadt,_Portal.jpg | CC BY-SA 4.0 | Thomas Ledl
+highlights/eisenstadt-4.jpg | https://commons.wikimedia.org/wiki/File:Rust,_Burgenland,_Austria,_20220424_1640_4818.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/eisenstadt-5.jpg | https://commons.wikimedia.org/wiki/File:Lake_Neusiedl_in_Rust_during_sunset,_20220424_1941_4889.jpg | CC BY-SA 4.0 | Jakub Hałun
+cities/alpbach.jpg | https://commons.wikimedia.org/wiki/File:Tirol_Day_at_European_Forum_Alpbach_2013.jpg | CC BY-SA 3.0 | Partisan Moro
+highlights/alpbach-1.jpg | https://commons.wikimedia.org/wiki/File:Inneralpbach_2.jpg | CC BY-SA 4.0 | The wub
+highlights/alpbach-2.jpg | https://commons.wikimedia.org/wiki/File:St._Oswald_mit_Heiligenkasten-Alpbach.JPG | CC BY-SA 3.0 at | Erich Schmid
+highlights/alpbach-3.jpg | https://commons.wikimedia.org/wiki/File:Wiedersberger_Horn_0278.jpg | Public domain | Hecki at German Wikipedia
+highlights/alpbach-4.jpg | https://commons.wikimedia.org/wiki/File:Rattenberg_Innufer.jpg | CC BY-SA 3.0 at | Linie29
+highlights/alpbach-5.jpg | https://commons.wikimedia.org/wiki/File:Tiroler_Bauernh%C3%B6fe_2009a.JPG | CC BY 3.0 | Holger.Ellgaard
