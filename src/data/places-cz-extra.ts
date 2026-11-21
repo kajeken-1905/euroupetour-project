@@ -111,4 +111,46 @@ export const placesCZExtra: Place[] = [
   // —— hrensko: restaurants, bakeries and cafés (2026-11-06) ——
   place('hrensko-fine_dining-1', 'hrensko', 'fine_dining', 'ARRIGŌ', 'Duchcovská 827/6, 405 02 Děčín, Czechia', '데친의 레스토랑 겸 카페·델리. 아침부터 저녁까지 엽니다. 미쉐린 가이드 선정.', 'Restaurant, café and deli in Děčín, open from breakfast to dinner. In the MICHELIN Guide.'),
   place('hrensko-fine_dining-2', 'hrensko', 'fine_dining', 'Restaurant Bamboo', 'Hřensko 125, 407 17 Hřensko, Czechia', '흐렌스코 마을의 식당.', 'Restaurant in Hřensko village.'),
+
+  // —— lednice: restaurants, bakeries and cafés (2026-11-22) ——
+  place('lednice-fine_dining-1', 'lednice', 'fine_dining', 'ESSENS', 'K Zámečku 16, 691 43 Hlohovec', '레드니체–발티체 일대 흘로호베츠 마을의 미쉐린 1스타 레스토랑.', 'One-MICHELIN-star restaurant in Hlohovec, a village in the Lednice–Valtice area.', { michelin: 'star1' }),
+  place('lednice-fine_dining-2', 'lednice', 'fine_dining', 'Zlatá Terasa', 'Zámek 1, 691 42 Valtice', '발티체 성 안의 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Restaurant in Valtice Château, listed in the MICHELIN Guide.'),
+  place('lednice-fine_dining-3', 'lednice', 'fine_dining', 'Burgr\'s Club', '21. dubna 694, 691 44 Lednice', '레드니체 마을의 버거·고기 요리 식당. 구글 지도 평점 4.7.', 'Burger and grill restaurant in Lednice village. Rated 4.7 on Google Maps.'),
+  place('lednice-fine_dining-4', 'lednice', 'fine_dining', 'Hospůdka U Korunky', 'Břeclavská 359, 691 44 Lednice', '레드니체의 체코 선술집 식당. 구글 지도 평점 4.6.', 'Czech pub restaurant in Lednice. Rated 4.6 on Google Maps.'),
+  place('lednice-fine_dining-5', 'lednice', 'fine_dining', 'Pivovar Lednice', 'Břeclavská 368, 691 44 Lednice', '레드니체의 양조장 겸 식당. 구글 지도 평점 4.5.', 'Brewpub in Lednice. Rated 4.5 on Google Maps.'),
+  place('lednice-cafe-1', 'lednice', 'cafe', 'Pražírna a kavárna coffeesquare', 'U Jednoty 253, 691 44 Lednice', '원두를 직접 볶는 레드니체의 카페. 구글 지도 평점 4.8.', 'Roastery café in Lednice. Rated 4.8 on Google Maps.'),
+  place('lednice-cafe-2', 'lednice', 'cafe', 'Kavárna & vinárna Knoll', '21. dubna 702, 691 44 Lednice', '레드니체의 카페 겸 와인 바. 구글 지도 평점 4.7.', 'Café and wine bar in Lednice. Rated 4.7 on Google Maps.'),
+  place('lednice-cafe-3', 'lednice', 'cafe', 'Zahrada café Valtice', 'Zámecká 3/1, 691 42 Valtice', '발티체 성 근처의 카페. 구글 지도 평점 4.7.', 'Café near Valtice Château. Rated 4.7 on Google Maps.'),
+
+  // —— litomysl: restaurants, bakeries and cafés (2026-11-22) ——
+  place('litomysl-fine_dining-1', 'litomysl', 'fine_dining', 'Bohém', 'Šantovo náměstí 181, 570 01 Litomyšl', '리토미슬의 향토 요리 식당으로 미쉐린 가이드에 실려 있습니다. 구글 지도 평점 4.6.', 'Regional-cuisine restaurant in Litomyšl, listed in the MICHELIN Guide. Rated 4.6 on Google Maps.'),
+  place('litomysl-fine_dining-2', 'litomysl', 'fine_dining', 'Restaurace U Kolji', 'Mařákova 365, 570 01 Litomyšl', '리토미슬의 우크라이나 요리 식당. 구글 지도 평점 4.6.', 'Ukrainian restaurant in Litomyšl. Rated 4.6 on Google Maps.'),
+  place('litomysl-fine_dining-3', 'litomysl', 'fine_dining', 'Restaurace a café U medvěda', 'Na Lánech 764, 570 01 Litomyšl', '리토미슬의 체코 식당 겸 카페. 구글 지도 평점 4.4.', 'Czech restaurant and café in Litomyšl. Rated 4.4 on Google Maps.'),
+  place('litomysl-bakery-1', 'litomysl', 'bakery', 'Pekařství a cukrářství Sázava', 'Smetanovo náměstí 108, 570 01 Litomyšl', '광장의 빵집 겸 제과점. 구글 지도 평점 4.7.', 'Bakery and patisserie on the main square. Rated 4.7 on Google Maps.'),
+  place('litomysl-bakery-2', 'litomysl', 'bakery', 'Makronky Diana Mauerová', 'Smetanovo náměstí 139, 570 01 Litomyšl', '광장의 마카롱 가게. 구글 지도 평점 4.9.', 'Macaron shop on the main square. Rated 4.9 on Google Maps.'),
+  place('litomysl-cafe-1', 'litomysl', 'cafe', 'Kafemysl', 'Smetanovo náměstí 100, 570 01 Litomyšl', '광장의 카페. 구글 지도 평점 4.8.', 'Café on the main square. Rated 4.8 on Google Maps.'),
+  place('litomysl-cafe-2', 'litomysl', 'cafe', 'Dvorek Litomyšl', 'Smetanovo náměstí 129, 570 01 Litomyšl', '광장 안뜰의 카페. 구글 지도 평점 4.8.', 'Courtyard café on the main square. Rated 4.8 on Google Maps.'),
+  place('litomysl-cafe-3', 'litomysl', 'cafe', 'Chocco Caffé', 'Smetanovo náměstí 117, 570 01 Litomyšl', '광장의 카페. 구글 지도 평점 4.7.', 'Café on the main square. Rated 4.7 on Google Maps.'),
+  place('litomysl-cafe-4', 'litomysl', 'cafe', 'Caffe Delizia', 'Smetanovo náměstí 53, 570 01 Litomyšl', '원두를 직접 볶는 광장의 카페. 구글 지도 평점 4.7.', 'Roastery café on the main square. Rated 4.7 on Google Maps.'),
+  place('litomysl-cafe-5', 'litomysl', 'cafe', 'Café & Bar No3', 'Smetanovo náměstí 73, 570 01 Litomyšl', '광장의 에스프레소 바. 구글 지도 평점 4.7.', 'Espresso bar on the main square. Rated 4.7 on Google Maps.'),
+
+  // —— kromeriz: restaurants, bakeries and cafés (2026-11-22) ——
+  place('kromeriz-fine_dining-1', 'kromeriz', 'fine_dining', 'Café Bistro Matiné', 'Ztracená 11, 767 01 Kroměříž', '구시가의 프랑스식 비스트로. 구글 지도 평점 4.6.', 'French bistro in the old town. Rated 4.6 on Google Maps.'),
+  place('kromeriz-fine_dining-2', 'kromeriz', 'fine_dining', 'Špagetárna Kroměříž', 'Milíčovo náměstí 489/8, 767 01 Kroměříž', '생면 파스타 식당. 구글 지도 평점 4.7.', 'Fresh-pasta restaurant. Rated 4.7 on Google Maps.'),
+  place('kromeriz-fine_dining-3', 'kromeriz', 'fine_dining', 'Earnest', 'Tovačovského 2828/22, 767 01 Kroměříž', '카페 겸 식당. 구글 지도 평점 4.7.', 'Café-kitchen. Rated 4.7 on Google Maps.'),
+  place('kromeriz-fine_dining-4', 'kromeriz', 'fine_dining', 'Flavor Of India', 'Velehradská 507/41, 767 01 Kroměříž', '인도 요리 식당. 구글 지도 평점 4.8.', 'Indian restaurant. Rated 4.8 on Google Maps.'),
+  place('kromeriz-fine_dining-5', 'kromeriz', 'fine_dining', 'Radegastovna Kroměříž', 'Velehradská 4248/24A, 767 01 Kroměříž', '체코 선술집 식당. 구글 지도 평점 4.5.', 'Czech pub restaurant. Rated 4.5 on Google Maps.'),
+  place('kromeriz-cafe-1', 'kromeriz', 'cafe', 'Velo Café', 'Velké náměstí 46, 767 01 Kroměříž', '대광장의 카페. 구글 지도 평점 4.6.', 'Café on the main square. Rated 4.6 on Google Maps.'),
+  place('kromeriz-cafe-2', 'kromeriz', 'cafe', 'Novákova zahrada', 'Ztracená 69/13, 767 01 Kroměříž', '정원이 있는 구시가의 카페. 구글 지도 평점 4.9.', 'Garden café in the old town. Rated 4.9 on Google Maps.'),
+  place('kromeriz-cafe-3', 'kromeriz', 'cafe', 'River Café', 'Spáčilova 569/27, 767 01 Kroměříž', '강가의 카페. 구글 지도 평점 4.8.', 'Riverside café. Rated 4.8 on Google Maps.'),
+
+  // —— cesky-raj: restaurants, bakeries and cafés (2026-11-22) ——
+  place('cesky-raj-fine_dining-1', 'cesky-raj', 'fine_dining', 'PUKU Bistro', 'Skálova 68, 511 01 Turnov', '거점 투르노프의 비스트로. 구글 지도 평점 4.8.', 'Bistro in Turnov, the base town. Rated 4.8 on Google Maps.'),
+  place('cesky-raj-fine_dining-2', 'cesky-raj', 'fine_dining', 'EMOI', 'Sobotecká 595, 511 01 Turnov', '투르노프의 베트남 식당. 구글 지도 평점 4.8.', 'Vietnamese restaurant in Turnov. Rated 4.8 on Google Maps.'),
+  place('cesky-raj-fine_dining-3', 'cesky-raj', 'fine_dining', 'FEWA', 'Sobotecká 223, 511 01 Turnov', '투르노프의 인도·네팔 식당. 구글 지도 평점 4.9.', 'Indian and Nepali restaurant in Turnov. Rated 4.9 on Google Maps.'),
+  place('cesky-raj-fine_dining-4', 'cesky-raj', 'fine_dining', 'Pizzerie Restaurant Plaudit', 'Bezručova 698, 511 01 Turnov', '투르노프의 피자 식당. 구글 지도 평점 4.3.', 'Pizzeria in Turnov. Rated 4.3 on Google Maps.'),
+  place('cesky-raj-bakery-1', 'cesky-raj', 'bakery', 'Vaše Selka', 'Nádražní 1064, 511 01 Turnov', '투르노프의 제과점. 구글 지도 평점 4.5.', 'Patisserie in Turnov. Rated 4.5 on Google Maps.'),
+  place('cesky-raj-cafe-1', 'cesky-raj', 'cafe', 'Panorama Café', 'Jiráskova 127, 511 01 Turnov', '투르노프의 카페. 구글 지도 평점 4.8.', 'Café in Turnov. Rated 4.8 on Google Maps.'),
+  place('cesky-raj-cafe-2', 'cesky-raj', 'cafe', 'Café Depo', 'Nádražní 1118, 511 01 Turnov', '투르노프 역 근처의 카페. 구글 지도 평점 4.7.', 'Café near Turnov station. Rated 4.7 on Google Maps.'),
+  place('cesky-raj-cafe-3', 'cesky-raj', 'cafe', 'Bistro Kafe Kytka', 'Na Sboře 2271, 511 01 Turnov', '투르노프의 카페. 구글 지도 평점 4.6.', 'Café in Turnov. Rated 4.6 on Google Maps.'),
 ]
