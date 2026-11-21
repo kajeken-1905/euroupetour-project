@@ -13505,5 +13505,30 @@
     52.72615,
     5.96142,
     "OSM Nominatim: Blokzijl, Steenwijkerland, Overijssel, Nederland (Wikipedia 31m)"
+  ],
+  "antwerp-h3": [
+    51.22277,
+    4.39742,
+    "OSM Nominatim: Het Steen, 1,1A, Steenplein, Historisch Centrum, Antwerpen,  (Wikipedia 8m)"
+  ],
+  "leuven-h4": [
+    50.87954,
+    4.7012,
+    "OSM Nominatim: Sint-Pieterskerk, 1, Grote Markt, Lei, Leuven, Vlaams-Braban (Wikipedia 8m)"
+  ],
+  "dinant-h5": [
+    50.26178,
+    4.91116,
+    "OSM Nominatim: La Maison de Monsieur Sax, 37, Rue Adolphe Sax, Wespin, Dina (Wikipedia 19m)"
+  ],
+  "dinant-h7": [
+    50.26897,
+    4.90779,
+    "OSM Nominatim: Abbaye Notre-Dame de Leffe, Rue du Moulin, Leffe, Dinant, Na (fr.wikipedia 41m)"
+  ],
+  "dinant-h8": [
+    50.22627,
+    4.88866,
+    "OSM Nominatim: Château de Freÿr, N96, Freÿr, Waulsort, Hastière, Dinant, Na (fr.wikipedia 21m)"
   ]
 }

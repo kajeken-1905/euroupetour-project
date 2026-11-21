@@ -40,7 +40,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   antwerp: [1, 6, 9, 7, 2, 4, 8, 3, 5],
   leuven: [2, 4, 1, 3, 6, 5],
   mechelen: [2, 1, 3, 4, 5, 6],
-  dinant: [2, 1, 4, 3],
+  dinant: { days: [['', 2, 1, 5, 4, 3, 7, 6]], trips: [['프레이르 성|Château de Freÿr', 8]] },
   vienna: {
     days: [
       ['구시가와 왕궁|Old town & the Hofburg', 2, 5, 17, 10, 7],

@@ -1,0 +1,38 @@
+{
+ "bruges-h3": [
+  "Rozenhoedkaai, Brugge",
+  "Bruges"
+ ],
+ "antwerp-h3": [
+  "Het Steen, Antwerpen",
+  "Het Steen"
+ ],
+ "leuven-h4": [
+  "Sint-Pieterskerk, Leuven",
+  "St. Peter's Church, Leuven"
+ ],
+ "leuven-h6": [
+  "Kruidtuin, Leuven",
+  "Botanical Garden of Leuven"
+ ],
+ "dinant-h4": [
+  "Pont Charles de Gaulle, Dinant",
+  "Dinant"
+ ],
+ "dinant-h5": [
+  "Maison de Monsieur Sax, Dinant",
+  "Mr Sax's House"
+ ],
+ "dinant-h7": [
+  "Abbaye de Leffe, Dinant",
+  "Leffe Abbey"
+ ],
+ "dinant-h8": [
+  "Château de Freÿr",
+  "Freÿr Castle"
+ ],
+ "dinant-h6": [
+  "Rocher Bayard",
+  "Bayard Rock"
+ ]
+}
