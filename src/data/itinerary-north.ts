@@ -182,9 +182,9 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   plzen: { days: [['', 1, 2, 3, 4, 5]], trips: [['슈비호프 수상성|Švihov Castle', 6]] },
   'kutna-hora': [1, 2, 3, 4, 5, 7, 6],
   znojmo: { days: [['', 1, 2, 3, 4, 6]], trips: [['포디이 국립공원|Podyjí National Park', 5]] },
-  hrensko: { days: [['', 3, 2], ['프라브치츠카 문|Pravčická brána', 1]], trips: [['데친 성|Děčín Castle', 4]] },
+  hrensko: { days: [['', 3, 2], ['프라브치츠카 문|Pravčická brána', 1]], trips: [['데친 성|Děčín Castle', 4], ['마리나 전망대|Mariina vyhlídka', 5, 6]] },
   telc: { days: [['', 1, 6, 2, 3, 4]], trips: [['로슈테인 성|Roštejn Castle', 5], ['야로메르지체 성|Jaroměřice', 7]] },
-  mikulov: { days: [['', 1, 6, 4, 3, 2]], trips: [['레드니체·발티체|Lednice–Valtice', 5], ['발티체 와인 살롱|Valtice Wine Salon', 7]] },
+  mikulov: { days: [['', 1, 6, 4, 3, 2]] },
   brno: {
     days: [
       ['구시가|Old town', 5, 9, 7, 6, 4, 8, 3],
@@ -195,6 +195,10 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   'cesky-krumlov': [2, 3, 7, 8, 5, 1, 6],
   'karlovy-vary': { days: [['', 5, 1, 4, 6, 7, 2, 8, 3]], trips: [['로켓 성|Loket Castle', 9]] },
   olomouc: { days: [['', 1, 2, 3, 4, 5]], trips: [['스바티 코페체크|Svatý Kopeček', 6], ['부조프 성|Bouzov Castle', 8], ['로슈티체 치즈 박물관|Loštice', 7]] },
+  lednice: {"days": [["", 1, 2]], "trips": [["발티체|Valtice", 3, 4], ["레드니체·발티체 정원 경관|Lednice–Valtice landscape", 5]]},
+  litomysl: {"days": [["", 1, 2, 3]]},
+  kromeriz: {"days": [["", 1, 2, 3]]},
+  'cesky-raj': {"days": [["", 4, 3]], "trips": [["트로스키 성|Trosky Castle", 2], ["프라호프 바위|Prachov Rocks", 1]]},
   'ceske-budejovice': {
     days: [['', 1, 2, 4, 5, 3]],
     trips: [['흘루보카 성|Hluboká Castle', 6], ['홀라쇼비체|Holašovice', 7], ['체르베나 르호타 성|Červená Lhota', 8]],

@@ -2658,6 +2658,18 @@ export const STAY: Record<string, StayArea[]> = {
   'ceske-budejovice': [
     a('구시가 (프르셰미슬 오타카르 2세 광장 주변)', 'Old town (Přemysl Otakar II Square)', 'Přemysl Otakar II Square, České Budějovice', '걸어서·당일치기 거점|On foot, day-trip base', '큰 광장 주변에 숙소가 있고 체스키크룸로프·인드르지후프 흐라데츠 당일치기 거점으로 좋습니다.|Hotels around the vast square, a good base for day trips to Český Krumlov and Jindřichův Hradec.'),
   ],
+  lednice: [
+    a('레드니체 마을', 'Lednice village', 'Lednice', '성 가까이|By the château', '성 정원 바로 옆 마을로, 와인 펜션이 많습니다.|The village right by the château park, with many wine guesthouses.'),
+  ],
+  litomysl: [
+    a('리토미슐 옛 시가', 'Litomyšl old town', 'Litomyšl', '조용한 소도시|Quiet small town', '성과 광장 가까이에 숙소가 있어 걸어서 다닙니다.|Places to stay near the castle and square, all on foot.'),
+  ],
+  kromeriz: [
+    a('올로모우츠에서 다녀오기', 'Visit from Olomouc', 'Olomouc', '당일치기|Day trip', '기차로 1시간이 안 걸려 올로모우츠에 묵고 다녀오기 좋습니다.|Under an hour by train, so it is easy to stay in Olomouc and come for the day.'),
+  ],
+  'cesky-raj': [
+    a('투르노프', 'Turnov', 'Turnov', '거점 도시|Base town', '기차역과 숙소가 있고 흐루바 스칼라·발트슈테인까지 걸어서도 갑니다.|Station and hotels, with Hrubá Skála and Valdštejn within walking distance.'),
+  ],
   agrigento: [
     a('구시가 (아테네아 거리 주변)', 'Historic centre (Via Atenea)', 'Via Atenea, Agrigento', '처음이라면·대중교통|First visit, by bus or train', '식당과 버스·기차역이 걸어서 닿습니다. 신전 계곡까지 걸어서 내리막 30분이나 버스로 10분입니다.|Restaurants and the bus and rail stations on foot; the temples are a 30-minute downhill walk or 10 minutes by bus.'),
     a('신전 계곡 언덕', 'Temple ridge', 'Valle dei Templi, Agrigento', '신전 전망|Temple views', '콘코르디아 신전이 보이는 고급 숙소가 있고 입구까지 걸어서 5분이 안 걸립니다. 근처에 식당이 적어 저녁엔 차나 택시가 필요합니다.|Upmarket stays facing the Temple of Concordia, under 5 minutes from the gates; few restaurants nearby, so evenings need a car or taxi.'),

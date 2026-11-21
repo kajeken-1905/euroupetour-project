@@ -1929,6 +1929,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('bolt'),
     ],
   },
+  lednice: {
+    modes: ['bus', 'train', 'walk'],
+    howTo: {
+      ko: '레드니체와 발티체 사이는 버스로 약 20분입니다. 발티체엔 기차역이 있고, 레드니체는 브르제츨라프에서 버스로 갑니다.',
+      en: 'Buses link Lednice and Valtice in about 20 minutes; Valtice has a station, and Lednice is reached by bus from Břeclav.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
+  litomysl: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다. 프라하에서 버스로 옵니다.',
+      en: 'The town is small enough to walk; buses come from Prague.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
+  kromeriz: {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '역에서 성과 정원까지 걸어서 갑니다.',
+      en: 'Walk from the station to the castle and gardens.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
+  'cesky-raj': {
+    modes: ['train', 'bus', 'walk'],
+    howTo: {
+      ko: '투르노프·이친에서 버스와 걷는 길로 바위 지대와 성을 잇습니다.',
+      en: 'Buses and marked trails link the rock towns and castles from Turnov and Jičín.',
+    },
+    apps: [
+      ta('cd'),
+    ],
+  },
   // —— sk ——
   bratislava: {
     modes: ['tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],

@@ -4999,3 +4999,22 @@ highlights/bornholm-1.jpg | https://commons.wikimedia.org/wiki/File:Hammershus_3
 highlights/bornholm-2.jpg | https://commons.wikimedia.org/wiki/File:2023_Oesterlars_Kirke_02.jpg | CC BY-SA 4.0 | Unukorno
 highlights/bornholm-3.jpg | https://commons.wikimedia.org/wiki/File:GudhjemHavn2.jpg | CC BY-SA 4.0 | Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wik
 highlights/bornholm-4.jpg | https://commons.wikimedia.org/wiki/File:Store_T%C3%A5rn_p%C3%A5_Christians%C3%B8_med_fyret_ovenp%C3%A5.jpg | CC BY-SA 3.0 | 7alaskan
+cities/lednice.jpg | https://commons.wikimedia.org/wiki/File:Lednice_(Eisgrub)_-_z%C3%A1mek.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/lednice-1.jpg | https://commons.wikimedia.org/wiki/File:Lednice_(Eisgrub)_-_z%C3%A1mek.JPG | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/lednice-2.jpg | https://commons.wikimedia.org/wiki/File:Lednice,_minaret_(13).jpg | CC BY-SA 3.0 | Harold
+highlights/lednice-3.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Valtice_3.jpg | CC BY-SA 4.0 | VitVit
+cities/litomysl.jpg | https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Hv%C4%9Bzda_Litomy%C5%A1l_(14).jpg | CC BY-SA 4.0 | Marie Čcheidzeová
+highlights/litomysl-1.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Litomy%C5%A1l,_Jir%C3%A1skovo_n%C3%A1m%C4%9Bst%C3%AD_01.JPG | CC BY-SA 3.0 | Petr1888
+highlights/litomysl-2.jpg | https://commons.wikimedia.org/wiki/File:Litomy%C5%A1l_z%C3%A1meck%C3%BD_pivovar_01.JPG | CC BY-SA 3.0 | Petr1888
+highlights/litomysl-3.jpg | https://commons.wikimedia.org/wiki/File:M%C4%9Bstsk%C3%BD_d%C5%AFm_-_Portmoneum_(Litomy%C5%A1l).JPG | CC BY-SA 3.0 | Lehotsky
+cities/kromeriz.jpg | https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE._Ausblick_vom_Schlossturm_(25007770188).jpg | CC BY 2.0 | Herbert Frank from Wien (Vienna), AT
+highlights/kromeriz-1.jpg | https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE,_Arcibiskupsk%C3%BD_z%C3%A1mek_(24).jpg | CC BY-SA 3.0 cz | Radim Holiš
+highlights/kromeriz-2.jpg | https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE,_Kv%C4%9Btn%C3%A1_zahrada_(30).jpg | CC BY-SA 3.0 cz | Radim Holiš
+highlights/kromeriz-3.jpg | https://commons.wikimedia.org/wiki/File:Overview_of_garden_near_zoo_in_Castle_Gardens_in_Krom%C4%9B%C5%99%C3%AD%C5%BE,_Krom%C4%9B%C5%99%C3%AD%C5%BE_District.jpg | CC BY-SA 4.0 | Jiří Sedláček
+cities/cesky-raj.jpg | https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_r%C3%A1j_Bohemian_Paradise.JPG | CC BY-SA 4.0 | Cantab12
+highlights/cesky-raj-1.jpg | https://commons.wikimedia.org/wiki/File:Rozcesti,_Prachovske_skaly.jpg | CC BY-SA 4.0 | Stevacek
+highlights/cesky-raj-2.jpg | https://commons.wikimedia.org/wiki/File:Hrad_Trosky,_leteck%C3%BD_sn%C3%ADmek.jpg | CC BY-SA 3.0 | Zdeněk Fiedler
+highlights/cesky-raj-3.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Hrub%C3%A1_sk%C3%A1la.jpg | CC BY-SA 3.0 | Pavel Kinšt
+highlights/cesky-raj-4.jpg | https://commons.wikimedia.org/wiki/File:Hrad_Vald%C5%A1tejn_(2005).jpg | CC BY-SA 3.0 | Hadonos
+highlights/hrensko-5.jpg | https://commons.wikimedia.org/wiki/File:Mariina_sk%C3%A1la_4772.jpg | CC BY-SA 3.0 | Matěj Baťha
+highlights/hrensko-6.jpg | https://commons.wikimedia.org/wiki/File:Nationalpark_B%C3%B6hmische_Schweiz_20260920_Dolsk%C3%BD_Ml%C3%BDn_15.jpg | CC0 | NutzerAusBerlin

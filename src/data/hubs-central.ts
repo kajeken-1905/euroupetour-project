@@ -1456,6 +1456,22 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [['Autobusové nádraží České Budějovice', '체스케 부데요비체 버스터미널']],
   },
 
+  lednice: {
+    air: [VIE(), ['Brno (BRQ)', '브르노 공항 (BRQ)']],
+    rail: [['Valtice', '발티체역'], ['Břeclav', '브르제츨라프역', '레드니체행 버스|buses to Lednice']],
+  },
+  litomysl: {
+    air: [PRG()],
+    bus: [['Litomyšl', '리토미슐 버스터미널', '프라하행|to Prague']],
+  },
+  kromeriz: {
+    air: [PRG()],
+    rail: [['Kroměříž', '크로메르지시역', '훌린 환승|change at Hulín']],
+  },
+  'cesky-raj': {
+    air: [PRG()],
+    rail: [['Turnov', '투르노프역'], ['Jičín', '이친역']],
+  },
   // —— sk ——
   bratislava: {
     air: [['Bratislava M. R. Štefánik (BTS)', '브라티슬라바 공항 (BTS)'], VIE()],

@@ -1821,11 +1821,6 @@
     15.45466,
     "OSM Overpass: sv. Ducha, Telč"
   ],
-  "mikulov-h7": [
-    48.73951,
-    16.75561,
-    "OSM Nominatim: Salon vín České republiky, Zámek 1, Valtice"
-  ],
   "cesky-krumlov-h8": [
     48.81233,
     14.31986,
@@ -13655,5 +13650,55 @@
     55.32045,
     15.18924,
     "OSM Nominatim: Christiansø, Christiansø Administration, Danmark (Wikipedia 106m)"
+  ],
+  "lednice-h4": [
+    48.73951,
+    16.75561,
+    "OSM Nominatim: Salon vín České republiky, Zámek 1, Valtice"
+  ],
+  "lednice-h1": [
+    48.8016,
+    16.80537,
+    "OSM Nominatim: zámek Lednice, 1, Zámek, Lednice, okres Břeclav, Jihomoravsk (cs.wikipedia 27m)"
+  ],
+  "lednice-h3": [
+    48.73934,
+    16.75585,
+    "OSM Nominatim: zámek Valtice, 1, Zámek, Valtice, okres Břeclav, Jihomoravsk (cs.wikipedia 22m)"
+  ],
+  "litomysl-h2": [
+    49.87306,
+    16.31367,
+    "OSM Nominatim: Rodný byt Bedřicha Smetany, Jiráskova, Litomyšl-Město, Litom (cs.wikipedia 195m)"
+  ],
+  "litomysl-h3": [
+    49.87057,
+    16.31632,
+    "OSM Nominatim: Portmoneum, 75, T. Novákové, Záhradí, Litomyšl, okres Svitav (cs.wikipedia 1m)"
+  ],
+  "cesky-raj-h1": [
+    50.46608,
+    15.28734,
+    "OSM Nominatim: Prachovské skály, Holín, Zámostí-Blata, okres Jičín, Králové (Wikipedia 290m)"
+  ],
+  "cesky-raj-h2": [
+    50.5164,
+    15.23025,
+    "OSM Nominatim: hrad Trosky, 28116 A, Tachov, Troskovice, okres Semily, Libe (Wikipedia 41m)"
+  ],
+  "cesky-raj-h3": [
+    50.54507,
+    15.19453,
+    "OSM Nominatim: zámek Hrubá Skála, 1, Hrubá Skála, okres Semily, Liberecký k (cs.wikipedia 27m)"
+  ],
+  "cesky-raj-h4": [
+    50.56229,
+    15.16823,
+    "OSM Nominatim: Valdštejn, 27927, Pelešany, Mašov-Pelešany-Kadeřavec, Turnov (cs.wikipedia 94m)"
+  ],
+  "hrensko-h6": [
+    50.84856,
+    14.34755,
+    "OSM Nominatim: Dolský mlýn, Grundmühlensteig, Vysoká Lípa, Jetřichovice, ok (cs.wikipedia 6m)"
   ]
 }

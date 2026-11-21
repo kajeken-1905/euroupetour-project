@@ -924,7 +924,7 @@ export const countries: Country[] = [
       background: '#E8EEF6',
       text: '#0A1A30',
     },
-    cityIds: ['prague', 'plzen', 'kutna-hora', 'brno', 'telc', 'mikulov', 'znojmo', 'cesky-krumlov', 'karlovy-vary', 'hrensko', 'ceske-budejovice', 'olomouc'],
+    cityIds: ['prague', 'plzen', 'kutna-hora', 'litomysl', 'brno', 'telc', 'mikulov', 'lednice', 'znojmo', 'cesky-krumlov', 'karlovy-vary', 'hrensko', 'cesky-raj', 'ceske-budejovice', 'olomouc', 'kromeriz'],
   },
   {
     id: 'sk',

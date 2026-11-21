@@ -1,121 +1,158 @@
 #!/usr/bin/env python3
-"""Czechia step 2 (2026-11-06, user picked all four): Plzeň, Kutná Hora, Znojmo and Hřensko (Bohemian Switzerland).
-Times from Transitous (scripts/transitous_times.py). Prague keeps its Kutná Hora day-trip sight (prague-h13).
-Reuses the batch-3 writer. Run once."""
+"""Czechia new towns (2026-11-21, user picked all four): Lednice–Valtice, Litomyšl, Kroměříž, Bohemian Paradise; plus
+Hřensko +2. Facts from English/Czech Wikipedia (Lednice–Valtice Cultural Landscape 283 km², UNESCO 1996, Liechtenstein
+land for nearly 700 years; Lednice château rebuilt in the mid-19th c. in Tudor Gothic; Valtice Baroque château, princely
+seat until 1945, national monument 1995. Litomyšl castle, Renaissance arcade castle, UNESCO 1999; Smetana born 1824 in
+the castle brewery, museum April–October; Portmoneum, Josef Váchal museum. Kroměříž castle, residence of the Olomouc
+(arch)bishops, gardens and castle UNESCO 1998. Bohemian Paradise protected area 181 km², the only UNESCO Global Geopark
+in Czechia; Prachov Rocks 5 km west of Jičín, reserve since 1933; Trosky on two basalt plugs (Baba 47 m, Panna 57 m);
+Hrubá Skála château rebuilt from the 14th-c. castle of the lords of Valdštejn; Valdštejn castle, second half of the
+13th c. Hřensko: Mariina vyhlídka 428 m north of Jetřichovice; Dolský mlýn ruined mill at the Kamenice / Jetřichovická
+Bělá confluence). mikulov-h5 and mikulov-h7 move to lednice-h5 and lednice-h4. Run once."""
+import json
+import os
+import re
 import add_daytrip_places3 as T
-from add_daytrip_places3 import trip
-from add_slovakia_cities import H
+from add_daytrip_places import rd, wr
+from sight_order import add_sights
+from review_sk import S
 
-CD = "      ta('cd'),\n"
-DAY = ('근교 당일치기', 'Day trip')
-PRG = "['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']"
+FREE = '무료입니다.|Free.'
+SEASON = '대략 4~10월에 열고 월요일에 쉬는 곳이 많습니다. 운영 시간을 확인하세요.|Mostly open roughly April–October and often closed on Mondays; check opening times.'
+PRG = "PRG()"
+COMMON = dict(hubs_file='hubs-central.ts', hubs_before='  // —— sk ——\n', itin_file='itinerary-north.ts',
+              itin_before="  'ceske-budejovice': {", visit_file='visit-central.ts',
+              visit_after=r"^  '(?:ceske-budejovice|lednice|litomysl|kromeriz|cesky-raj)-h\d+': v\(.*\),\n",
+              stay_before='  agrigento: [', transit_before='  // —— sk ——\n', places=None, daytrips=[],
+              apps="      ta('cd'),\n")
+LAST = r"^  r\('brno', 'olomouc', 'train', 75\),\n"
+
+
+def H(ko, en, dko, den, maps, mn, mx, n=None, **vk):
+    v = dict(min=mn, max=mx, **vk)
+    if n:
+        v['n'] = n
+    return dict(ko=ko, en=en, dko=dko, den=den, maps=maps, visit=v)
+
+
+def R(a, b, mode, m, n=None):
+    extra = f", {{ n: '{n}' }}" if n else ''
+    return ('routes-central.ts', LAST, f"  r('{a}', '{b}', '{mode}', {m}{extra}),\n")
+
 
 CITIES = [
-    dict(id='plzen', country='cz', after='prague', ko='플젠', en='Plzeň', native='Plzeň', lat=49.7475, lng=13.3776,
-         blurb=['1842년 황금빛 라거 ‘필스너’가 태어난 서보헤미아의 중심 도시. 양조장 투어와 옛 지하 통로, 체코에서 가장 높은 성당 탑이 있습니다.',
-                'The West Bohemian city where golden Pilsner lager was born in 1842, with its brewery tour, old underground passages and the tallest church tower in the Czech Republic.'],
+    dict(COMMON, country='cz', id='lednice', after='mikulov', ko='레드니체·발티체', en='Lednice–Valtice', native='Lednice', lat=48.8014, lng=16.8056,
+         blurb=['남모라비아의 레드니체와 발티체 두 마을과 그 사이 283km²의 숲·정원·연못을 묶은 유네스코 세계유산 경관입니다. 리히텐슈타인 가문이 700년 가까이 다스리며 영국 튜더 고딕풍 레드니체 성, 바로크 발티체 성, 숲속의 미나레트와 정자들을 하나의 정원처럼 꾸몄습니다. 체코 와인의 중심지이기도 합니다.',
+                'A UNESCO-listed landscape in South Moravia joining the villages of Lednice and Valtice and 283 km² of woods, gardens and ponds between them. The Liechtenstein family, who held it for nearly 700 years, shaped it like one great garden, with the Tudor-Gothic Lednice château, Baroque Valtice château and a minaret and follies hidden in the woods. It is also the heart of Czech wine country.'],
          highlights=[
-             H('공화국 광장과 성 바르톨로메오 대성당', 'Republic Square & St Bartholomew’s Cathedral', '구시가 중앙 광장에 선 고딕 대성당으로, 높이 102m 탑은 체코에서 가장 높은 성당 탑이며 오를 수 있습니다.', 'The Gothic cathedral on the main square, whose 102 m tower—the tallest church tower in the Czech Republic—can be climbed.', 'Katedrála svatého Bartoloměje Plzeň', 30, 60),
-             H('플젠 역사 지하도', 'Plzeň Historical Underground', '중세에 맥주와 식량을 저장하던 구시가 아래 지하 통로를 안내 투어로 걷습니다.', 'Guided tours of the medieval passages beneath the old town, once used to store beer and food.', 'Plzeňské historické podzemí', 50, 60,
-               b='rec', n='안내 투어로만 들어갑니다.|Guided tours only.'),
-             H('대 유대교 회당', 'Great Synagogue', '유럽에서 손꼽히게 큰 19세기 유대교 회당으로, 무어 양식과 로마네스크 양식이 섞여 있습니다.', 'One of the largest synagogues in Europe, built in the 19th century in a mix of Moorish and Romanesque styles.', 'Velká synagoga Plzeň', 30, 45,
-               n='겨울엔 닫는 기간이 있으니 확인하세요.|It closes for part of the winter—check ahead.'),
-             H('패튼 기념관', 'Patton Memorial Pilsen', '1945년 미군의 플젠 해방을 기리는 박물관입니다.', 'A museum on the liberation of Plzeň by the US Army in 1945.', 'Patton Memorial Pilsen', 45, 60),
-             H('필스너 우르켈 양조장', 'Pilsner Urquell Brewery', '필스너 맥주가 처음 만들어진 양조장으로, 투어 끝에 지하 저장고에서 여과하지 않은 맥주를 맛봅니다.', 'The brewery where Pilsner was first made; tours end in the cellars with a glass of unfiltered beer.', 'Pilsner Urquell Brewery', 100, 120,
-               b='rec', s='https://www.prazdrojvisit.cz/en/', n='투어 시간과 언어가 정해져 있어 온라인 예매를 권합니다.|Tours run at set times and in set languages—book online.'),
+             H('레드니체 성', 'Lednice Château', '디예강 가의 성으로, 리히텐슈타인 가문이 19세기 중반 영국 튜더 고딕 양식으로 크게 고쳐 지었습니다. 넓은 정원과 온실이 함께 있습니다.', 'A château on the Dyje, rebuilt by the Liechtensteins in the mid-19th century in English Tudor Gothic, with vast gardens and a glasshouse.', 'Zámek Lednice', 90, 120, n=SEASON),
+             H('미나레트', 'Minaret', '레드니체 성 정원 안에 18세기 말~19세기 초 세운 높이 약 60m의 이슬람풍 탑으로, 꼭대기 전망대에서 정원과 숲이 내려다보입니다.', 'An Islamic-style tower about 60 m high, built in the Lednice château park around 1800, with a lookout over the gardens and woods.', 'Minaret Lednice', 30, 45, n=SEASON),
+             H('발티체 성', 'Valtice Château', '1945년까지 리히텐슈타인 가문의 거처였던 바로크 성으로, 1995년 국가 문화재가 됐습니다.', 'The Baroque château that was the seat of the princes of Liechtenstein until 1945, a national cultural monument since 1995.', 'Zámek Valtice', 60, 90, n=SEASON),
          ],
-         hubs=f"    air: [{PRG}],\n    rail: [['Plzeň hlavní nádraží', '플젠 중앙역']],\n    bus: [['Plzeň CAN', '플젠 중앙 버스터미널']],\n",
-         hubs_file='hubs-central.ts', hubs_before='  mikulov: {\n', itin_file='itinerary-north.ts', itin_before='  telc: {',
-         itinerary=[1, 2, 3, 4, 5],
-         season='10월 초 필스너 페스트 등 맥주 행사가 열립니다. 12월엔 공화국 광장에 크리스마스 마켓이 섭니다.|Beer events such as Pilsner Fest are held in early October; a Christmas market fills Republic Square in December.',
-         visit_file='visit-central.ts', visit_after=r"^  'prague-h20': v\(.*\),\n",
-         stay=[('구시가 (공화국 광장 주변)', 'Old town (Republic Square)', 'Náměstí Republiky, Plzeň', '처음 가는 여행에 추천|Best for a first visit', '광장과 지하도, 양조장이 걸어서 닿습니다.|The square, the underground and the brewery on foot.')],
-         stay_before='  telc: [',
-         routes=[('routes-central.ts', r"^  r\('prague', 'olomouc', .*\),\n",
-                  "  r('prague', 'plzen', 'train', 95, { fa: '프라하 중앙역|Praha hl.n.' }),\n")],
-         transit=dict(modes=['walk', 'tram', 'bus', 'taxi'], ko='구시가와 양조장은 걸어서 다닙니다. 중앙역에서 광장까지 걸어서 약 15분이고 트램도 있습니다.', en='Walk the old town and to the brewery; the square is about 15 min on foot from the main station, or take a tram.'),
-         apps=CD, transit_before='  telc: {', places=None,
-         daytrips=[('prague', trip('plzen', '기차로 약 1시간 35분. 필스너 우르켈 양조장 투어와 구시가 지하도를 봅니다.|About 1 hr 35 by train: the Pilsner Urquell brewery tour and the old-town underground.'))]),
-    dict(id='kutna-hora', country='cz', after='plzen', ko='쿠트나호라', en='Kutná Hora', native='Kutná Hora', lat=49.9484, lng=15.2682,
-         blurb=['중세 은광으로 프라하와 겨룰 만큼 부유했던 도시. 뼈로 꾸민 세들레츠 납골당과 성 바르바라 대성당이 있는 유네스코 세계유산입니다.',
-                'A medieval silver-mining town once rich enough to rival Prague, with the bone-decorated Sedlec Ossuary and St Barbara’s Cathedral—a UNESCO World Heritage Site.'],
+         hubs="    air: [VIE(), ['Brno (BRQ)', '브르노 공항 (BRQ)']],\n    rail: [['Valtice', '발티체역'], ['Břeclav', '브르제츨라프역', '레드니체행 버스|buses to Lednice']],\n",
+         itinerary={'days': [['', 1, 2]], 'trips': [['발티체|Valtice', 3, 4], ['레드니체·발티체 정원 경관|Lednice–Valtice landscape', 5]]},
+         season='성과 정원이 여는 4~10월이 좋고, 9월은 포도 수확철입니다.|April–October, when the châteaux and gardens open; September is harvest time.',
+         stay=[('레드니체 마을', 'Lednice village', 'Lednice', '성 가까이|By the château', '성 정원 바로 옆 마을로, 와인 펜션이 많습니다.|The village right by the château park, with many wine guesthouses.')],
+         routes=[R('mikulov', 'lednice', 'bus', 30), R('brno', 'lednice', 'mixed', 75, '브르제츨라프에서 버스 환승|change at Břeclav for the bus')],
+         transit=dict(modes=['bus', 'train', 'walk'], ko='레드니체와 발티체 사이는 버스로 약 20분입니다. 발티체엔 기차역이 있고, 레드니체는 브르제츨라프에서 버스로 갑니다.', en='Buses link Lednice and Valtice in about 20 minutes; Valtice has a station, and Lednice is reached by bus from Břeclav.')),
+    dict(COMMON, country='cz', id='litomysl', after='kutna-hora', ko='리토미슐', en='Litomyšl', native='Litomyšl', lat=49.8719, lng=16.3106,
+         blurb=['동보헤미아의 작은 도시로, 이탈리아식 아케이드 성 가운데 가장 뛰어난 르네상스 성이 유네스코 세계유산입니다. 성 양조장에서 작곡가 베드르지흐 스메타나가 태어났고, 화가 요세프 바할의 벽화로 온 집을 채운 포르트모네움이 있습니다. 성과 함께 옛 시가가 잘 보존돼 있습니다.',
+                'A small town in eastern Bohemia whose Renaissance castle, the finest of the Italian-style arcade castles, is a UNESCO World Heritage Site. The composer Bedřich Smetana was born in the castle brewery, and the Portmoneum is a house covered inside with Josef Váchal’s paintings. The old town around the castle is well preserved.'],
          highlights=[
-             H('세들레츠 납골당', 'Sedlec Ossuary', '4만~7만 명의 유골로 샹들리에와 문장을 꾸민 작은 묘지 성당입니다.', 'A small cemetery chapel decorated with the bones of 40,000–70,000 people, down to a bone chandelier and coat of arms.', 'Sedlec Ossuary', 30, 45,
-               b='rec', s='https://www.sedlec.info/en/', n='온라인으로 시간대 예약을 권합니다.|Booking a time slot online is recommended.'),
-             H('세들레츠 성모 승천 대성당', 'Cathedral of the Assumption, Sedlec', '납골당 근처의 옛 시토회 수도원 성당으로, 바로크 고딕 양식으로 다시 지었습니다.', 'The former Cistercian abbey church near the ossuary, rebuilt in Baroque Gothic style.', 'Katedrála Nanebevzetí Panny Marie Sedlec', 30, 45),
-             H('성 바르바라 대성당', 'St Barbara’s Church', '광부의 수호성인에게 바친 고딕 대성당으로, 천막 같은 지붕과 광부 그림 벽화가 있습니다.', 'The Gothic cathedral of the miners’ patron saint, with its tent-like roofs and frescoes of miners.', 'St. Barbara’s Church Kutná Hora', 45, 60),
-             H('바르보르스카 거리와 예수회 학교', 'Barborská Street & the Jesuit College', '성 바르바라 대성당으로 가는 길에 성인 조각상이 늘어선 거리와, 옆의 옛 예수회 학교(지금은 미술관)입니다.', 'The street of saints’ statues leading to St Barbara’s and the former Jesuit college beside it, now a gallery.', 'Barborská Kutná Hora', 30, 45),
-             H('이탈리아 궁정', 'Italian Court', '왕실 조폐소였던 곳으로, 은화 ‘프라하 그로셴’을 찍던 역사를 안내 투어로 봅니다.', 'The former royal mint where the silver Prague groschen was struck, seen on guided tours.', 'Vlašský dvůr Kutná Hora', 30, 45),
-             H('체코 은 박물관과 중세 은광', 'Czech Museum of Silver & medieval mine', '흐라데크 저택의 은 박물관에서 광부 옷을 입고 좁은 중세 갱도로 내려가는 투어가 있습니다.', 'The silver museum in the Hrádek house, with a tour down a narrow medieval mine in miners’ gear.', 'České muzeum stříbra Hrádek', 90, 120,
-               b='rec', n='대략 4~11월에만 엽니다.|Open roughly April to November.'),
+             H('리토미슐 성', 'Litomyšl Castle', '체코에서 손꼽히게 큰 르네상스 성으로, 이탈리아에서 온 아케이드 성을 보헤미아식으로 발전시킨 대표작이라 1999년 유네스코 세계유산이 됐습니다. 18세기 바로크 장식이 더해졌습니다.', 'One of the largest Renaissance castles in Czechia and the outstanding example of the arcade castle, an Italian type developed in Bohemia; a UNESCO World Heritage Site since 1999, with High Baroque touches added in the 18th century.', 'Zámek Litomyšl', 60, 90, n=SEASON),
+             H('스메타나 생가', 'Smetana’s Birthplace', '작곡가 베드르지흐 스메타나가 1824년 태어난 성 양조장 1층 집으로, 그의 어린 시절과 가족을 보여 주며 〈나의 조국〉을 들려줍니다.', 'The ground-floor flat in the castle brewery where Bedřich Smetana was born in 1824, on his childhood and family, with excerpts from Má vlast.', 'Rodný byt Bedřicha Smetany', 30, 45, n='4~10월에 엽니다.|Open April–October.'),
+             H('포르트모네움', 'Portmoneum', '화가 요세프 바할이 벽과 천장, 가구까지 그림으로 채운 집으로, 지금은 바할 박물관입니다.', 'A house whose walls, ceilings and furniture were covered in paintings by Josef Váchal, now a museum of his work.', 'Portmoneum Litomyšl', 30, 45, n=SEASON),
          ],
-         hubs=f"    air: [{PRG}],\n    rail: [\n      ['Kutná Hora hlavní nádraží', '쿠트나호라 중앙역', '세들레츠 근처 · 시내까지 연결 열차|near Sedlec · connecting train to the town'],\n      ['Kutná Hora město', '쿠트나호라 시내역'],\n    ],\n",
-         hubs_file='hubs-central.ts', hubs_before='  mikulov: {\n', itin_file='itinerary-north.ts', itin_before='  telc: {',
-         itinerary=[1, 2, 3, 4, 5, 6],
-         season='6월 말 ‘은의 도시’ 중세 축제가 열립니다. 은광 투어는 겨울에 쉽니다.|The “Royal Silver” medieval festival is held in late June; the mine tour closes in winter.',
-         visit_file='visit-central.ts', visit_after=r"^  'prague-h20': v\(.*\),\n",
-         stay=[('구시가', 'Old town', 'Kutná Hora old town', '마을에서 묵기|Stay in the town', '당일 손님이 떠난 저녁 골목이 조용합니다. 세들레츠까지는 버스나 기차로 갑니다.|Quiet lanes once the day-trippers leave; take a bus or train to Sedlec.'),
-               ('프라하에서 다녀오기', 'Base in Prague', 'Prague', '거점에서 다녀오기|Day trip from a base', '기차로 약 1시간 15분입니다.|About 1 hr 15 by train.')],
-         stay_before='  telc: [',
-         routes=[('routes-central.ts', r"^  r\('prague', 'olomouc', .*\),\n",
-                  "  r('prague', 'kutna-hora', 'train', 75, { fa: '프라하 중앙역|Praha hl.n.', n: '쿠트나호라 중앙역에서 시내행 열차나 버스로 환승|change at Kutná Hora hl.n. for the town' }),\n")],
-         transit=dict(modes=['walk', 'bus', 'train'], ko='세들레츠(중앙역 근처)와 구시가는 약 3km 떨어져 있어 연결 열차나 버스를 탑니다. 구시가는 걸어서 다닙니다.', en='Sedlec (by the main station) and the old town are about 3 km apart—use the connecting train or a bus; walk the old town.'),
-         apps=CD, transit_before='  telc: {', places=None,
-         daytrips=[]),
-    dict(id='znojmo', country='cz', after='mikulov', ko='즈노이모', en='Znojmo', native='Znojmo', lat=48.8556, lng=16.0488,
-         blurb=['디이강 협곡 위의 남모라비아 와인 도시. 로마네스크 로툰다와 구시가 아래 지하 미로가 있고, 포디이 국립공원의 포도밭이 가깝습니다.',
-                'A South Moravian wine town above the Dyje gorge, with a Romanesque rotunda, a labyrinth under the old town and the vineyards of Podyjí National Park nearby.'],
+         hubs="    air: [PRG()],\n    bus: [['Litomyšl', '리토미슐 버스터미널', '프라하행|to Prague']],\n",
+         itinerary={'days': [['', 1, 2, 3]]},
+         season='성과 박물관이 여는 4~10월이 좋습니다.|April–October, when the castle and museums open.',
+         stay=[('리토미슐 옛 시가', 'Litomyšl old town', 'Litomyšl', '조용한 소도시|Quiet small town', '성과 광장 가까이에 숙소가 있어 걸어서 다닙니다.|Places to stay near the castle and square, all on foot.')],
+         routes=[R('prague', 'litomysl', 'bus', 180)],
+         transit=dict(modes=['bus', 'walk'], ko='작은 도시라 걸어서 다닙니다. 프라하에서 버스로 옵니다.', en='The town is small enough to walk; buses come from Prague.')),
+    dict(COMMON, country='cz', id='kromeriz', after='olomouc', ko='크로메르지시', en='Kroměříž', native='Kroměříž', lat=49.2989, lng=17.3931,
+         blurb=['모라바강 가의 도시로, 올로모우츠 주교·대주교가 수백 년 동안 살던 성과 바로크 정원이 유네스코 세계유산입니다. 기하학적으로 다듬은 꽃 정원과 강가의 넓은 성 정원이 성과 함께 펼쳐지고, 성을 둘러싼 옛 시가도 잘 남아 있습니다. 올로모우츠에서 당일로 다녀오기 좋습니다.',
+                'A town on the Morava whose castle, for centuries the residence of the bishops and archbishops of Olomouc, and its Baroque gardens are a UNESCO World Heritage Site. A formal Flower Garden and a broad riverside Castle Garden spread out around the castle and well-preserved old town; an easy day trip from Olomouc.'],
          highlights=[
-             H('시청 탑', 'Town Hall Tower', '구시가 위로 솟은 80m 고딕 탑으로, 전망대에서 시내와 디이강 계곡이 보입니다.', 'The 80 m Gothic tower above the old town, with views over the town and the Dyje valley.', 'Radniční věž Znojmo', 20, 30),
-             H('성 니콜라스 성당과 강 전망', 'St Nicholas Church & the river view', '디이강 협곡 끝에 선 고딕 성당으로, 옆 테라스에서 강과 댐이 내려다보입니다.', 'The Gothic church at the edge of the Dyje gorge, with a terrace overlooking the river and dam.', 'Kostel svatého Mikuláše Znojmo', 20, 30),
-             H('성 카타리나 로툰다', 'Rotunda of St Catherine', '1134년 무렵의 프레스코로 프르셰미슬 왕조를 그린 로마네스크 원형 예배당입니다.', 'A Romanesque round chapel with frescoes from around 1134 depicting the Přemyslid rulers.', 'Rotunda svaté Kateřiny Znojmo', 20, 30,
-               n='프레스코 보호를 위해 한 번에 들어가는 인원이 적고 대략 봄~가을에만 엽니다.|Small groups only to protect the frescoes, and open roughly spring to autumn.'),
-             H('즈노이모 지하 미로', 'Znojmo Underground', '구시가 아래 몇 층으로 이어진 중세 지하 통로를 안내 투어로 걷습니다.', 'Guided tours through the medieval passages that run several levels beneath the old town.', 'Znojemské podzemí', 45, 60,
-               b='rec'),
-             H('포디이 국립공원과 쇼베스 포도밭', 'Podyjí National Park & Šobes vineyard', '오스트리아 국경을 따라 흐르는 디이강 협곡 숲으로, 강가 비탈의 쇼베스는 체코에서 손꼽히는 포도밭입니다.', 'The forested Dyje gorge along the Austrian border; Šobes, on a riverside slope, is one of the Czech Republic’s best-known vineyards.', 'Vinice Šobes', 180, 240, group=DAY,
-               n='즈노이모에서 차로 약 20분, 주차장에서 숲길로 걸어 내려갑니다.|About 20 min by car from Znojmo, then a forest walk down.'),
-             H('로우카 수도원 와인 저장고', 'Louka Monastery wine cellars', '옛 프레몽트레회 수도원의 지하 저장고에서 즈노이모 와인을 시음합니다.', 'Taste Znojmo wines in the cellars of the former Premonstratensian monastery.', 'Klášter Louka Znojmo', 60, 90,
-               b='rec'),
+             H('크로메르지시 성', 'Kroměříž Castle', '올로모우츠 주교(1777년부터 대주교)의 주 거처였던 성으로, 뛰어나게 보존된 바로크 정원과 함께 1998년 유네스코 세계유산이 됐습니다.', 'The main residence of the bishops (from 1777 archbishops) of Olomouc, listed by UNESCO in 1998 together with its exceptionally well-preserved Baroque gardens.', 'Arcibiskupský zámek Kroměříž', 60, 90, n=SEASON),
+             H('꽃 정원', 'Flower Garden', '성 밖에 따로 있는 17세기 바로크 정원으로, 기하학적인 화단과 긴 열주 회랑, 원형 정자가 있습니다.', 'A 17th-century Baroque garden outside the castle, with geometric flowerbeds, a long colonnade and a rotunda.', 'Květná zahrada Kroměříž', 45, 60),
+             H('성 정원', 'Castle Garden', '성 뒤 모라바강 쪽으로 펼쳐진 넓은 풍경식 정원으로, 연못과 정자 사이를 걷습니다.', 'A broad landscape garden behind the castle towards the Morava, with ponds and pavilions to stroll among.', 'Podzámecká zahrada Kroměříž', 45, 90, b='no', n=FREE),
          ],
-         hubs="    air: [VIE('오스트리아 빈 · 기차로 약 2시간|Vienna, Austria · about 2 hrs by train'), ['Brno (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],\n    rail: [['Znojmo', '즈노이모역']],\n    bus: [['Znojmo autobusové nádraží', '즈노이모 버스터미널']],\n",
-         hubs_file='hubs-central.ts', hubs_before='  telc: {\n', itin_file='itinerary-north.ts', itin_before='  telc: {',
-         itinerary=[1, 2, 3, 4, 6, 5],
-         season='9월 즈노이모 포도 수확 축제가 가장 큽니다. 지하 미로와 로툰다는 겨울에 운영이 줄어듭니다.|The Znojmo grape-harvest festival in September is the big event; the underground and rotunda cut back in winter.',
-         visit_file='visit-central.ts', visit_after=r"^  'mikulov-h7': v\(.*\),\n",
-         stay=[('구시가', 'Old town', 'Znojmo old town', '처음 가는 여행에 추천|Best for a first visit', '광장과 지하 미로, 성당 전망대가 걸어서 닿습니다.|The square, the underground and the church viewpoint on foot.')],
-         stay_before='  brno: [',
-         routes=[('routes-central.ts', r"^  r\('brno', 'mikulov', .*\),\n",
-                  "  r('brno', 'znojmo', 'bus', 95),\n  r('vienna', 'znojmo', 'train', 120, { n: '직통 지역 열차|direct regional train' }),\n  r('mikulov', 'znojmo', 'mixed', 85, { n: '버스와 기차 · 환승|bus and train · with a change' }),\n")],
-         transit=dict(modes=['walk', 'bus', 'taxi'], ko='구시가는 걸어서 다닙니다. 역에서 광장까지 걸어서 약 15분이고, 포도밭과 국립공원은 차나 자전거로 갑니다.', en='Walk the old town, about 15 min on foot from the station; go by car or bike to the vineyards and national park.'),
-         apps=CD, transit_before='  brno: {', places=None,
-         daytrips=[('brno', trip('znojmo', '버스로 약 1시간 35분. 디이강 협곡 위 구시가와 지하 미로, 와인 저장고를 봅니다.|About 1 hr 35 by bus: the old town above the Dyje gorge, its underground and wine cellars.'))]),
-    dict(id='hrensko', country='cz', after='karlovy-vary', ko='흐렌스코 (보헤미안 스위스)', en='Hřensko (Bohemian Switzerland)', native='Hřensko', lat=50.8747, lng=14.2445,
-         blurb=['엘베강 사암 협곡 입구의 작은 마을로, 보헤미안 스위스 국립공원의 거점. 유럽 최대의 천연 사암 아치 프라브치츠카 문과 협곡 보트가 있습니다.',
-                'A small village at the mouth of the Elbe sandstone gorges and the gateway to Bohemian Switzerland National Park, with Pravčická brána—Europe’s largest natural sandstone arch—and gorge boat rides.'],
+         hubs="    air: [PRG()],\n    rail: [['Kroměříž', '크로메르지시역', '훌린 환승|change at Hulín']],\n",
+         itinerary={'days': [['', 1, 2, 3]]},
+         season='정원이 가장 아름다운 5~9월이 좋습니다.|May–September, when the gardens are at their best.',
+         stay=[('올로모우츠에서 다녀오기', 'Visit from Olomouc', 'Olomouc', '당일치기|Day trip', '기차로 1시간이 안 걸려 올로모우츠에 묵고 다녀오기 좋습니다.|Under an hour by train, so it is easy to stay in Olomouc and come for the day.')],
+         routes=[R('olomouc', 'kromeriz', 'train', 50, '훌린 환승|change at Hulín')],
+         transit=dict(modes=['train', 'bus', 'walk'], ko='역에서 성과 정원까지 걸어서 갑니다.', en='Walk from the station to the castle and gardens.')),
+    dict(COMMON, country='cz', id='cesky-raj', after='hrensko', ko='보헤미안 파라다이스', en='Bohemian Paradise', native='Český ráj', lat=50.5873, lng=15.1569,
+         blurb=['북보헤미아의 사암 바위 지대로, 체코의 유일한 유네스코 세계지질공원입니다. 바람과 비가 깎은 바위 탑 사이를 걷는 ‘바위 도시’가 이어지고, 화산암 봉우리 두 개 위에 선 트로스키 성터가 이 지역의 상징입니다. 투르노프와 이친을 거점으로 걸어서 둘러봅니다.',
+                'A sandstone region in northern Bohemia, the only UNESCO Global Geopark in Czechia. Trails wind through ‘rock towns’ of wind-carved towers, and the ruins of Trosky Castle, perched on two volcanic plugs, are its landmark. Turnov and Jičín are the bases for exploring on foot.'],
          highlights=[
-             H('프라브치츠카 문', 'Pravčická brána', '높이 16m, 폭 26m의 유럽 최대 천연 사암 아치로, 숲길을 따라 약 1시간 오릅니다.', 'Europe’s largest natural sandstone arch, 16 m high and 26 m wide, reached by about an hour’s forest walk.', 'Pravčická brána', 150, 240,
-               s='https://www.pbrana.cz/en/', n='아치 아래 전망대는 유료이고 겨울엔 여는 날이 줄어듭니다. 아치 위로는 올라갈 수 없습니다.|The viewing area is ticketed and opens fewer days in winter; climbing onto the arch is not allowed.'),
-             H('카메니체 협곡 보트', 'Kamenice gorge boat rides', '좁은 사암 협곡 안을 사공이 젓는 나룻배로 지나갑니다(에드문드 협곡·와일드 협곡).', 'Ferrymen pole boats through the narrow sandstone gorges of the Kamenice (Edmund and Wild gorges).', 'Edmundova soutěska', 120, 180,
-               n='대략 봄~가을에만 운행하니 공식 공지를 확인하세요.|Runs roughly spring to autumn—check the official notices.'),
-             H('흐렌스코 마을', 'Hřensko village', '사암 절벽 사이 엘베강 가에 목조 가옥이 모인 체코에서 가장 낮은 마을입니다.', 'The Czech Republic’s lowest-lying village, its timbered houses squeezed between sandstone cliffs by the Elbe.', 'Hřensko', 20, 30),
-             H('데친 성', 'Děčín Castle', '엘베강 위 바위에 선 성으로, 장미 정원과 긴 진입로가 유명합니다.', 'The castle on a rock above the Elbe, known for its rose garden and long walled approach.', 'Zámek Děčín', 60, 90, group=DAY,
-               n='흐렌스코에서 버스로 약 25분입니다.|About 25 min by bus from Hřensko.'),
+             H('프라호프 바위', 'Prachov Rocks', '이친 서쪽 5km의 사암 바위 지대로, 1933년부터 자연보호구역입니다. ‘기울어진 탑’, ‘코끼리’ 같은 이름의 바위 탑 사이로 길이 나 있습니다.', 'A sandstone rock city 5 km west of Jičín, a nature reserve since 1933, with paths among towers named the Leaning Tower, the Elephant and more.', 'Prachovské skály', 120, 180),
+             H('트로스키 성터', 'Trosky Castle', '화산암 봉우리 두 개 위에 지은 성터로, 낮은 봉우리(47m) 위 ‘바바(노파)’와 높은 봉우리(57m) 위 ‘판나(처녀)’ 탑이 지역의 상징입니다.', 'Castle ruins on two basalt volcanic plugs: the ‘Baba’ (Crone) on the lower 47 m peak and the ‘Panna’ (Maiden) on the higher 57 m one, the landmark of Bohemian Paradise.', 'Hrad Trosky', 60, 90, n=SEASON),
+             H('흐루바 스칼라 바위 도시와 성', 'Hrubá Skála', '사암 바위 탑 사이 숲길과, 14세기 발트슈테인 가문의 성을 고친 바위 위 성이 함께 있습니다.', 'Forest paths among sandstone towers, with a château on the rocks rebuilt from the 14th-century castle of the lords of Valdštejn.', 'Hrubá Skála', 120, 180, b='no'),
+             H('발트슈테인 성터', 'Valdštejn Castle', '투르노프 가까이의 13세기 후반 성터로, 이 지역에서 가장 오래된 성 가운데 하나입니다.', 'Ruins of a castle from the second half of the 13th century near Turnov, one of the oldest in the area.', 'Hrad Valdštejn', 45, 60, n=SEASON),
          ],
-         hubs=f"    air: [{PRG}, ['Dresden (DRS)', '드레스덴 공항 (DRS)', '드레스덴|Dresden']],\n    rail: [['Děčín hlavní nádraží', '데친 중앙역', '흐렌스코까지 434번 버스|bus 434 to Hřensko']],\n    bus: [['Hřensko', '흐렌스코 버스 정류장']],\n",
-         hubs_file='hubs-central.ts', hubs_before='  olomouc: {\n', itin_file='itinerary-north.ts', itin_before='  telc: {',
-         itinerary=[3, 1, 2, 4],
-         season='봄~가을이 걷기 좋고 협곡 보트도 이때만 다닙니다. 2022년 큰 산불이 났던 곳이라 일부 길이 닫혀 있을 수 있습니다.|Spring to autumn is best for walking and the only season for the gorge boats; after the big 2022 forest fire some trails may be closed.',
-         visit_file='visit-central.ts', visit_after=r"^  'karlovy-vary-h9': v\(.*\),\n",
-         stay=[('흐렌스코 마을', 'Hřensko', 'Hřensko', '등산로 가까이|By the trails', '숙소와 식당이 몇 곳뿐이지만 아침 일찍 걷기 좋습니다.|Only a few hotels and restaurants, but handy for an early start.'),
-               ('데친', 'Děčín', 'Děčín', '거점 도시|Base town', '역과 숙소가 많고 흐렌스코까지 버스로 약 25분입니다.|More rooms and the main station; about 25 min by bus to Hřensko.')],
-         stay_before='  olomouc: [',
-         routes=[('routes-central.ts', r"^  r\('dresden', 'prague', .*\),\n",
-                  "  r('prague', 'hrensko', 'mixed', 135, { fa: '프라하 중앙역|Praha hl.n.', n: '데친에서 434번 버스로 환승|change at Děčín for bus 434' }),\n  r('dresden', 'hrensko', 'mixed', 80, { n: 'S1 열차로 쇤나, 엘베강 나룻배로 건너감|S1 train to Schöna, then the Elbe ferry' }),\n")],
-         transit=dict(modes=['walk', 'bus', 'ferry'], ko='마을과 등산로는 걸어서 다닙니다. 데친과는 434번 버스가, 독일 쪽 쇤나역과는 엘베강 나룻배가 잇습니다.', en='Walk the village and trails; bus 434 links Děčín, and a ferry crosses the Elbe to Schöna station in Germany.'),
-         apps=CD, transit_before='  olomouc: {', places=None,
-         daytrips=[('dresden', trip('hrensko', 'S1 열차와 나룻배로 약 1시간 20분. 프라브치츠카 문과 협곡 보트를 봅니다.|About 1 hr 20 by S1 train and ferry: Pravčická brána and the gorge boats.'))]),
+         hubs="    air: [PRG()],\n    rail: [['Turnov', '투르노프역'], ['Jičín', '이친역']],\n",
+         itinerary={'days': [['', 4, 3]], 'trips': [['트로스키 성|Trosky Castle', 2], ['프라호프 바위|Prachov Rocks', 1]]},
+         season='산행하기 좋은 5~10월이 알맞습니다.|May–October suits walking.',
+         stay=[('투르노프', 'Turnov', 'Turnov', '거점 도시|Base town', '기차역과 숙소가 있고 흐루바 스칼라·발트슈테인까지 걸어서도 갑니다.|Station and hotels, with Hrubá Skála and Valdštejn within walking distance.')],
+         routes=[R('prague', 'cesky-raj', 'train', 100, '투르노프역|to Turnov')],
+         transit=dict(modes=['train', 'bus', 'walk'], ko='투르노프·이친에서 버스와 걷는 길로 바위 지대와 성을 잇습니다.', en='Buses and marked trails link the rock towns and castles from Turnov and Jičín.')),
 ]
 
+HRENSKO = [
+ (5, S('마리나 전망대', 'Mariina vyhlídka', '예트르지호비체 마을 북쪽 해발 428m 사암 봉우리 꼭대기의 전망대로, 사다리와 계단으로 올라 국립공원 숲을 내려다봅니다.', 'A lookout on a 428 m sandstone summit north of Jetřichovice, climbed by ladders and steps, looking over the national park forests.', 'Mariina vyhlídka Jetřichovice', 90, 120, b='no', n=FREE)),
+ (6, S('돌스키 물레방앗간 터', 'Dolský mlýn', '카메니체강과 예트르지호비체 벨라강이 만나는 숲속의 옛 물레방앗간 폐허로, 국립공원 산책로가 지나갑니다.', 'The ruins of an old mill in the woods where the Kamenice meets the Jetřichovická Bělá, on the national park trails.', 'Dolský mlýn', 30, 45, b='no', n=FREE)),
+]
+
+
+class Jx:
+    @staticmethod
+    def dumps(o, **k):
+        return json.dumps(o, **{**k, 'ensure_ascii': False})
+
+
+def move_from_mikulov():
+    c = rd('cities.ts')
+    vi = rd('visit-central.ts')
+    pub = os.path.join(os.path.dirname(__file__), '..', 'public', 'highlights')
+    gm_p = os.path.join(os.path.dirname(__file__), 'itinerary', 'geo-manual.json')
+    gm = json.load(open(gm_p))
+    for sn, dn in [(7, 4), (5, 5)]:
+        i = c.index(f'id: "mikulov-h{sn}"')
+        s = c.rindex(',\n      {', 0, i)
+        e = c.index('\n      }', i) + len('\n      }')
+        blk = c[s:e].replace(f'id: "mikulov-h{sn}"', f'id: "lednice-h{dn}"').replace(f'/highlights/mikulov-{sn}.jpg', f'/highlights/lednice-{dn}.jpg')
+        c = c[:s] + c[e:]
+        k = c.index('id: "lednice",')
+        j = c.index('\n    ],\n', k)
+        c = c[:j] + blk + c[j:]
+        m = re.search(rf"^  'mikulov-h{sn}': (v\(.*\)),\n", vi, re.M)
+        vi = vi.replace(m.group(0), '')
+        a = re.search(rf"^  'lednice-h{dn - 1}': v\(.*\),\n", vi, re.M)
+        val = m.group(1).replace("미쿨로프에서 기차나 버스로 약 15분입니다.|About 15 min by train or bus from Mikulov.", "발티체 성 지하에 있습니다.|In the cellars of Valtice Château.").replace("미쿨로프에서 버스로 갑니다. 성은 봄~가을 위주로 엽니다.|Reached by bus from Mikulov; the castles open mainly spring to autumn.", "넓은 지역이라 차나 자전거, 버스로 돕니다.|A large area, best toured by car, bike or bus.")
+        vi = vi[:a.end()] + f"  'lednice-h{dn}': {val},\n" + vi[a.end():]
+        if f'mikulov-h{sn}' in gm:
+            gm[f'lednice-h{dn}'] = gm.pop(f'mikulov-h{sn}')
+        if os.path.exists(os.path.join(pub, f'mikulov-{sn}.jpg')):
+            os.replace(os.path.join(pub, f'mikulov-{sn}.jpg'), os.path.join(pub, f'lednice-{dn}.jpg'))
+    c = add_sights(c, 'hrensko', HRENSKO, 'visit-central.ts')
+    wr('cities.ts', c)
+    wr('visit-central.ts', vi)
+    json.dump(gm, open(gm_p, 'w'), ensure_ascii=False, indent=2)
+    open(gm_p, 'a').write('\n')
+    it = rd('itinerary-north.ts')
+    a = "  mikulov: { days: [['', 1, 6, 4, 3, 2]], trips: [['레드니체·발티체|Lednice–Valtice', 5], ['발티체 와인 살롱|Valtice Wine Salon', 7]] },\n"
+    assert it.count(a) == 1
+    it = it.replace(a, "  mikulov: { days: [['', 1, 6, 4, 3, 2]] },\n")
+    a = "  hrensko: { days: [['', 3, 2], ['프라브치츠카 문|Pravčická brána', 1]], trips: [['데친 성|Děčín Castle', 4]] },\n"
+    assert it.count(a) == 1
+    it = it.replace(a, "  hrensko: { days: [['', 3, 2], ['프라브치츠카 문|Pravčická brána', 1]], trips: [['데친 성|Děčín Castle', 4], ['마리나 전망대|Mariina vyhlídka', 5, 6]] },\n")
+    wr('itinerary-north.ts', it)
+
+
 if __name__ == '__main__':
+    T.json = Jx
     T.CITIES = CITIES
     T.main()
+    move_from_mikulov()
