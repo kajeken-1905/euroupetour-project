@@ -88,7 +88,7 @@ export const cityIndex: CityBrief[] = [
   {"id":"odense","countryId":"dk","name":{"ko":"오덴세","en":"Odense"},"nativeName":"Odense","signatureImage":"/cities/odense.jpg","cardTagline":{"ko":"오덴세 대성당","en":"Odense Cathedral"},"lat":55.4038,"lng":10.4024},
   {"id":"aalborg","countryId":"dk","name":{"ko":"올보르","en":"Aalborg"},"nativeName":"Aalborg","signatureImage":"/cities/aalborg.jpg","cardTagline":{"ko":"알보르 성","en":"Aalborghus Castle"},"lat":57.0488,"lng":9.9217},
   {"id":"roskilde","countryId":"dk","name":{"ko":"로스킬데","en":"Roskilde"},"nativeName":"Roskilde","signatureImage":"/cities/roskilde.jpg","cardTagline":{"ko":"시내 광장","en":"Town square"},"lat":55.6415,"lng":12.0803},
-  {"id":"vienna","countryId":"at","name":{"ko":"빈","en":"Vienna"},"nativeName":"Wien","signatureImage":"/cities/vienna.jpg","cardTagline":{"ko":"쉔브룬 궁전","en":"Schönbrunn Palace"},"lat":48.2082,"lng":16.3738},
+  {"id":"vienna","countryId":"at","name":{"ko":"빈","en":"Vienna"},"nativeName":"Wien","signatureImage":"/cities/vienna.jpg","cardTagline":{"ko":"성 슈테판 대성당","en":"St. Stephen's Cathedral"},"lat":48.2082,"lng":16.3738},
   {"id":"salzburg","countryId":"at","name":{"ko":"잘츠부르크","en":"Salzburg"},"nativeName":"Salzburg","signatureImage":"/cities/salzburg.jpg","cardTagline":{"ko":"호엔잘츠부르크 성","en":"Hohensalzburg Fortress"},"lat":47.8095,"lng":13.055},
   {"id":"innsbruck","countryId":"at","name":{"ko":"인스브루크","en":"Innsbruck"},"nativeName":"Innsbruck","signatureImage":"/cities/innsbruck.jpg","cardTagline":{"ko":"황금 지붕","en":"Golden Roof"},"lat":47.2692,"lng":11.4041},
   {"id":"graz","countryId":"at","name":{"ko":"그라츠","en":"Graz"},"nativeName":"Graz","signatureImage":"/cities/graz.jpg","cardTagline":{"ko":"슐로스베르크","en":"Schlossberg"},"lat":47.0707,"lng":15.4395},

@@ -889,7 +889,13 @@ export const countries: Country[] = [
       background: '#FCEBEC',
       text: '#3A0A10',
     },
-    cityIds: ['vienna', 'salzburg', 'innsbruck', 'graz', 'hallstatt', 'linz', 'durnstein', 'bad-ischl', 'werfen', 'zell-am-see', 'kitzbuhel', 'bregenz', 'klagenfurt'],
+    cityIds: ['vienna', 'durnstein', 'linz', 'salzburg', 'hallstatt', 'bad-ischl', 'werfen', 'zell-am-see', 'innsbruck', 'kitzbuhel', 'bregenz', 'graz', 'klagenfurt'],
+    cityGroups: [
+      { title: { ko: '빈과 도나우강', en: 'Vienna & the Danube' }, cityIds: ['vienna', 'durnstein', 'linz'] },
+      { title: { ko: '잘츠부르크와 잘츠카머구트', en: 'Salzburg & the Salzkammergut' }, cityIds: ['salzburg', 'hallstatt', 'bad-ischl', 'werfen', 'zell-am-see'] },
+      { title: { ko: '티롤과 서부', en: 'Tyrol & the west' }, cityIds: ['innsbruck', 'kitzbuhel', 'bregenz'] },
+      { title: { ko: '남부', en: 'Southern Austria' }, cityIds: ['graz', 'klagenfurt'] },
+    ],
   },
   {
     id: 'cz',
