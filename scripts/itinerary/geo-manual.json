@@ -13331,5 +13331,100 @@
     60.71832,
     -46.03759,
     "OSM Nominatim: Qaqortup Katersugaasivia / Qaqortoq Museum, B-29, Torvevej,  (Wikipedia 5m)"
+  ],
+  "vienna-h6": [
+    48.21561,
+    16.39958,
+    "OSM Nominatim: Wurstelprater, Leopoldstadt, Katastralgemeinde Leopoldstadt, (Wikipedia 303m)"
+  ],
+  "vienna-h18": [
+    48.14933,
+    16.43866,
+    "OSM Nominatim: Zentralfriedhof, Simmering, Wien, Österreich (Wikipedia 366m)"
+  ],
+  "innsbruck-h4": [
+    47.26857,
+    11.39328,
+    "OSM Nominatim: Goldenes Dachl, Herzog-Friedrich-Straße, Altstadt, Innenstad (Wikipedia 2m)"
+  ],
+  "hallstatt-h4": [
+    47.5624,
+    13.64905,
+    "OSM Nominatim: Marktplatz, Lahn, Hallstatt, Bezirk Gmunden, Oberösterreich, (Wikipedia 44m)"
+  ],
+  "linz-h7": [
+    48.25707,
+    14.50019,
+    "OSM Nominatim: KZ-Gedenkstätte Mauthausen, Erinnerungsstraße, Mauthausen, B (Wikipedia 70m)"
+  ],
+  "durnstein-h5": [
+    48.40982,
+    15.59649,
+    "OSM Nominatim: Steiner Tor, 1, Südtirolerplatz, Innenstadt, Katastralgemein (Wikipedia 13m)"
+  ],
+  "durnstein-h6": [
+    48.22862,
+    15.33188,
+    "OSM Nominatim: Stift Melk, 1, Abt-Berthold-Dietmayr-Straße, Katastralgemein (Wikipedia 161m)"
+  ],
+  "werfen-h1": [
+    47.51086,
+    13.19323,
+    "OSM Nominatim: Eisriesenwelt, Eishöhlenstraße, Schlaming, Tenneck, Salzburg (Wikipedia 909m)"
+  ],
+  "zell-am-see-h2": [
+    47.32936,
+    12.73762,
+    "OSM Nominatim: Schmittenhöhe, Viehhofen, Bezirk Zell am See, Salzburg, 5752 (Wikipedia 25m)"
+  ],
+  "zell-am-see-h3": [
+    47.18804,
+    12.6875,
+    "OSM Nominatim: Kitzsteinhorn, Kaprun, Bezirk Zell am See, Salzburg, 5710, Ö (Wikipedia 1m)"
+  ],
+  "zell-am-see-h5": [
+    47.20838,
+    12.17022,
+    "OSM Nominatim: Krimmler Wasserfälle, Wasserfallweg, Krimml, Bezirk Zell am "
+  ],
+  "bregenz-h1": [
+    47.50566,
+    9.73808,
+    "OSM Nominatim: Seebühne Bregenz, Fußweg Seebühne, Bregenz, Bezirk Bregenz,  (Wikipedia 77m)"
+  ],
+  "bregenz-h2": [
+    47.50477,
+    9.75283,
+    "OSM Nominatim: Pfänderbahn, Pfänderbahn-Zugang, Fluh, Bregenz, Bezirk Brege (Wikipedia 6m)"
+  ],
+  "graz-h3": [
+    47.07119,
+    15.43833,
+    "OSM Nominatim: Hauptplatz, Graz (de.wikipedia 34m)"
+  ],
+  "hallstatt-h7": [
+    47.5349,
+    13.71871,
+    "OSM Nominatim: Dachstein-Rieseneishöhle (de.wikipedia 10m)"
+  ],
+  "bad-ischl-h5": [
+    47.68987,
+    13.58004,
+    "OSM Nominatim: Katrin, Bad Ischl (de.wikipedia 81m)"
+  ],
+  "werfen-h2": [
+    47.4827,
+    13.18859,
+    "OSM Nominatim: Festung Hohenwerfen (de.wikipedia 29m)"
+  ],
+  "zell-am-see-h4": [
+    47.15959,
+    12.71579,
+    "OSM Nominatim: Mooserboden (de.wikipedia 348m)"
+  ],
+  "werfen-h6": [
+    47.31336,
+    13.18981,
+    "OSM Nominatim: Liechtensteinklamm, 41, Alpendorf, Salzburg, 5621, Österreic (Wikipedia 295m)"
   ]
 }

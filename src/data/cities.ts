@@ -6443,7 +6443,28 @@ export const cities: City[] = [
         description: { ko: "성 아래 큰길을 따라 알록달록한 집과 식당이 이어지는 작은 장터 마을입니다.", en: "A small market village of colourful houses and inns along the main street below the castle." },
         image: "/highlights/werfen-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pfarrkirche%20Werfen",
-      }
+      },
+      {
+        id: "werfen-h4",
+        name: { ko: "성 야고보 교구 교회", en: "St James’s Parish Church" },
+        description: { ko: "마을 큰길의 교회로, 화재로 여러 번 다시 지어진 끝에 1652~1657년 잘츠부르크 궁정 건축가 요한 밥티스트 폰 드리셰의 설계로 지금 모습이 됐고 1776년 탑을 높였습니다.", en: "The church on the main street, rebuilt after several fires; the present building went up in 1652–57 to plans by the Salzburg court architect Johann Baptist von Driesche, and the tower was raised in 1776." },
+        image: "/highlights/werfen-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pfarrkirche%20Werfen",
+      },
+      {
+        id: "werfen-h5",
+        name: { ko: "베르펜벵과 비슐링회에", en: "Werfenweng & Bischlinghöhe" },
+        description: { ko: "텐넨 산맥 남쪽 기슭의 산마을로, 16세기부터 순례지였던 교회가 있고 8인승 곤돌라가 해발 1,835m 비슐링회에까지 오릅니다.", en: "A mountain village at the southern foot of the Tennengebirge, with a church that has drawn pilgrims since the 16th century and an eight-seat gondola up to the Bischlinghöhe at 1,835 m." },
+        image: "/highlights/werfen-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Werfenweng%20Bischlingbahn",
+      },
+      {
+        id: "werfen-h6",
+        name: { ko: "리히텐슈타인 협곡", en: "Liechtensteinklamm" },
+        description: { ko: "장크트요한 임 퐁가우 남쪽의 협곡으로, 전체 4km 가운데 1km를 나무 데크로 걷습니다. 높이 300m까지 솟은 바위벽 사이가 몇 m밖에 안 되는 곳도 있고 끝에 폭포가 있습니다.", en: "A gorge south of St. Johann im Pongau; 1 km of its 4 km is open on wooden walkways, between rock walls up to 300 m high that close in to a few metres, with a waterfall at the end." },
+        image: "/highlights/werfen-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Liechtensteinklamm",
+      },
     ],
   },
   {

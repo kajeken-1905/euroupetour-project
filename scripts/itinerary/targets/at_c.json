@@ -1,0 +1,126 @@
+{
+ "vienna-h4": [
+  "Universitätsring 1, Wien",
+  "Ringstraße"
+ ],
+ "vienna-h6": [
+  "Wurstelprater, Wien",
+  "Wiener Prater"
+ ],
+ "vienna-h18": [
+  "Zentralfriedhof, Wien",
+  "Vienna Central Cemetery"
+ ],
+ "salzburg-h13": [
+  "Untersbergbahn Talstation",
+  "Untersbergbahn"
+ ],
+ "innsbruck-h2": [
+  "Hungerburgbahn Talstation Congress",
+  "Nordkettenbahn"
+ ],
+ "innsbruck-h4": [
+  "Goldenes Dachl, Innsbruck",
+  "Goldenes Dachl"
+ ],
+ "graz-h3": [
+  "Hauptplatz, Graz",
+  "Hauptplatz (Graz)"
+ ],
+ "hallstatt-h2": [
+  "Salzwelten Hallstatt",
+  "Hallstatt salt mine"
+ ],
+ "hallstatt-h4": [
+  "Marktplatz, Hallstatt",
+  "Hallstatt"
+ ],
+ "hallstatt-h6": [
+  "Welterbeblick Skywalk Hallstatt",
+  "Hallstatt"
+ ],
+ "hallstatt-h7": [
+  "Dachstein-Rieseneishöhle",
+  "Dachstein Giant Ice Cave"
+ ],
+ "linz-h7": [
+  "KZ-Gedenkstätte Mauthausen",
+  "Mauthausen concentration camp"
+ ],
+ "durnstein-h3": [
+  "Kremser Tor, Dürnstein",
+  "Dürnstein"
+ ],
+ "durnstein-h4": [
+  "Schiffsstation Dürnstein",
+  "Dürnstein"
+ ],
+ "durnstein-h5": [
+  "Steiner Tor, Krems",
+  "Steiner Tor"
+ ],
+ "durnstein-h6": [
+  "Stift Melk",
+  "Melk Abbey"
+ ],
+ "bad-ischl-h2": [
+  "Esplanade, Bad Ischl",
+  "Bad Ischl"
+ ],
+ "bad-ischl-h4": [
+  "Stadtpfarrkirche St. Nikolaus, Bad Ischl",
+  "Bad Ischl"
+ ],
+ "bad-ischl-h5": [
+  "Katrin-Seilbahn",
+  "Katrin (mountain)"
+ ],
+ "werfen-h1": [
+  "Eisriesenwelt",
+  "Eisriesenwelt"
+ ],
+ "werfen-h2": [
+  "Burg Hohenwerfen",
+  "Hohenwerfen Castle"
+ ],
+ "zell-am-see-h1": [
+  "Stadtpfarrkirche Zell am See",
+  "Zell am See"
+ ],
+ "zell-am-see-h2": [
+  "Schmittenhöhe",
+  "Schmittenhöhe"
+ ],
+ "zell-am-see-h3": [
+  "Kitzsteinhorn",
+  "Kitzsteinhorn"
+ ],
+ "zell-am-see-h4": [
+  "Mooserboden",
+  "Kaprun Hydroelectric Power Plant"
+ ],
+ "zell-am-see-h5": [
+  "Krimmler Wasserfälle",
+  "Krimml Waterfalls"
+ ],
+ "zell-am-see-h6": [
+  "Großglockner-Hochalpenstraße Edelweißspitze",
+  "Grossglockner High Alpine Road"
+ ],
+ "kitzbuhel-h1": [
+  "Katharinenkirche, Kitzbühel",
+  "Kitzbühel"
+ ],
+ "bregenz-h1": [
+  "Seebühne Bregenz",
+  "Bregenz Festival"
+ ],
+ "bregenz-h2": [
+  "Pfänderbahn",
+  "Pfänderbahn"
+ ],
+ "bregenz-h5": [
+  "Mangturm, Lindau",
+  "Mangturm"
+ ]
+}

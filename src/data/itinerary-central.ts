@@ -61,7 +61,7 @@ export const itineraryCentral: Record<string, RawItinerary> = {
   linz: { days: [['', 1, 3, 2, 4, 5, 6]], trips: [['마우트하우젠 추모관|Mauthausen Memorial', 7]] },
   durnstein: { days: [['', 1, 3, 2, 4]], trips: [['크렘스|Krems', 5], ['멜크 수도원|Melk Abbey', 6]] },
   'bad-ischl': [1, 2, 3, 4, 5],
-  werfen: [1, 2, 3],
+  werfen: { days: [['', 1, 2, 3, 4]], trips: [['리히텐슈타인 협곡|Liechtensteinklamm', 6], ['베르펜벵|Werfenweng', 5]] },
   'zell-am-see': {
     days: [
       ['첼암제와 슈미텐회헤|Zell am See & Schmittenhöhe', 1, 2],

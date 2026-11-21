@@ -4962,3 +4962,6 @@ cities/tasiilaq.jpg | https://commons.wikimedia.org/wiki/File:Tasiilaq,_East_Gre
 highlights/tasiilaq-1.jpg | https://commons.wikimedia.org/wiki/File:Tasiilaq_old_church.jpg | CC BY-SA 3.0 | Clemens Stockner
 highlights/tasiilaq-2.jpg | https://commons.wikimedia.org/wiki/File:Johan_Petersen_Fjord_and_Sermilik_Fjord,_East_Greenland.jpg | CC BY-SA 2.0 | Christoph Strässler
 highlights/tasiilaq-3.jpg | https://commons.wikimedia.org/wiki/File:Kulusuk-winter-sunset.jpg | CC BY 3.0 | Algkalv (talk)
+highlights/werfen-4.jpg | https://commons.wikimedia.org/wiki/File:AT-25241_Pfarrkirche_hl._Jakobus_in_Werfen_01.jpg | CC BY 3.0 | Clemens PFEIFFER
+highlights/werfen-5.jpg | https://commons.wikimedia.org/wiki/File:Werfenweng_2018_Kat_D2_STAWOWCZYK_Waldemar-9379.jpg | CC BY-SA 4.0 | Isiwal
+highlights/werfen-6.jpg | https://commons.wikimedia.org/wiki/File:Liechtensteinklamm_35.JPG | CC BY-SA 3.0 | Zairon

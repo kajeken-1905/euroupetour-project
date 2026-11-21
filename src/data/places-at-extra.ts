@@ -114,4 +114,10 @@ export const placesATExtra: Place[] = [
   place('bregenz-bakery-1', 'bregenz', 'bakery', 'See Bäckerei', 'Mehrerauerstraße 28, 6900 Bregenz', '메레라우 거리의 빵집.', 'Bakery on the Mehrerauerstraße.'),
   place('bregenz-cafe-1', 'bregenz', 'cafe', 'La Cafè Bregenz', 'Kaiserstraße 2, 6900 Bregenz', '시내 중심 카이저 거리의 카페.', 'Café on the Kaiserstraße in the centre.'),
   place('bregenz-cafe-2', 'bregenz', 'cafe', 'Cafesito', 'Anton-Schneider-Straße 8, 6900 Bregenz', '시내 중심의 카페.', 'Café in the centre.'),
+
+  // —— durnstein: restaurants, bakeries and cafés (2026-11-21) ——
+  place('durnstein-fine_dining-2', 'durnstein', 'fine_dining', 'Schnitzer\'s seit 1988', 'Dürnstein 4, 3601 Dürnstein', '마을 중심 거리의 식당. 구글 지도 평점 4.6.', 'Restaurant on the village’s main street. Rated 4.6 on Google Maps.'),
+  place('durnstein-fine_dining-3', 'durnstein', 'fine_dining', 'Fesslhütte', 'Dürnsteiner Waldhütten 23, 3601 Dürnstein', '마을 위 숲속의 오스트리아 요리 산장 식당. 구글 지도 평점 4.7.', 'Austrian forest-hut restaurant in the woods above the village. Rated 4.7 on Google Maps.'),
+  place('durnstein-fine_dining-4', 'durnstein', 'fine_dining', 'Wachauerstube Loiben', 'Unterloiben 24, 3601 Dürnstein', '운터로이벤의 오스트리아 요리 식당. 구글 지도 평점 4.5.', 'Austrian restaurant in Unterloiben. Rated 4.5 on Google Maps.'),
+  place('durnstein-cafe-1', 'durnstein', 'cafe', 'Schloss Greisslerei', 'Dürnstein 32, 3601 Dürnstein', '마을 중심의 식료품점 겸 카페. 구글 지도 평점 4.7.', 'Delicatessen and café in the village centre. Rated 4.7 on Google Maps.'),
 ]
