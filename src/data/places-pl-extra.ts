@@ -3,11 +3,6 @@ import type { Place } from '../types'
 
 export const placesPLExtra: Place[] = [
   // —— warsaw ——
-  place('warsaw-fine_dining-1', 'warsaw', 'fine_dining', 'Senses', 'Bielańska 12, 00-085 Warszawa', '2016년 바르샤바 레스토랑 중 두 번째로 미쉐린 별을 받았던 곳. 폴란드 맛을 현대적으로 풉니다(2026년판엔 별 없음).', 'Restaurant that won Warsaw\'s second Michelin star in 2016, giving Polish flavours a modern take (no star in the 2026 guide).', { image: '/places/warsaw-fine_dining-1.jpg' }),
-  place('warsaw-fine_dining-2', 'warsaw', 'fine_dining', 'Nolita', 'Wilcza 46, 00-679 Warszawa', '유리 벽 주방이 중심인 모던 레스토랑. 아시아 풍미를 더한 요리를 내고 미쉐린 가이드에 실려 있습니다.', 'Modern restaurant built around a glass-walled kitchen, with Asian-influenced cooking; listed in the MICHELIN Guide.'),
-  place('warsaw-fine_dining-3', 'warsaw', 'fine_dining', 'Stary Dom', 'Puławska 104/106, 02-620 Warszawa', '1950년대부터 이어온 대형 폴란드 레스토랑. 골롱카 등 전통 요리를 냅니다.', 'Large Polish restaurant dating from the 1950s, serving traditional dishes like golonka.'),
-  place('warsaw-fine_dining-4', 'warsaw', 'fine_dining', 'Polka', 'Świętojańska 2, 00-288 Warszawa', '요리사 마그다 게슬레르의 구시가 레스토랑. 폴란드 전통 요리를 냅니다.', 'Chef Magda Gessler\'s Old Town restaurant serving traditional Polish dishes.', { image: '/places/warsaw-fine_dining-4.jpg' }),
-  place('warsaw-fine_dining-5', 'warsaw', 'fine_dining', 'Bibenda', 'Nowogrodzka 10, 00-511 Warszawa', '계절 채소 요리와 내추럴 와인을 내는 비스트로. 예약을 받지 않습니다.', 'Bistro with seasonal vegetable-led dishes and natural wine; no reservations.'),
 
   place('warsaw-bakery-2', 'warsaw', 'bakery', 'A. Blikle', 'Nowy Świat 35, 00-029 Warszawa', '1869년부터 이어온 바르샤바의 대표 제과점. 장미잼 퐁치키가 유명합니다.', 'Warsaw\'s landmark pastry shop since 1869, famous for rose-jam pączki.'),
 
@@ -19,9 +14,6 @@ export const placesPLExtra: Place[] = [
 
   // —— krakow ——
   place('krakow-fine_dining-1', 'krakow', 'fine_dining', 'Starka', 'Józefa 14, 31-056 Kraków', '카지미에시의 폴란드 비스트로. 직접 숙성한 보드카와 만두·훈제 오리를 냅니다.', 'Polish bistro in Kazimierz with house-aged vodkas, dumplings and smoked duck.'),
-  place('krakow-fine_dining-2', 'krakow', 'fine_dining', 'Pod Wawelem Kompania Kuflowa', 'Świętej Gertrudy 26/29, 31-048 Kraków', '바벨성 맞은편 호텔 1층의 맥주 레스토랑. 큰 맥주잔과 푸짐한 고기 요리가 특징입니다.', 'Beer restaurant on the ground floor of a hotel opposite Wawel, with big mugs of beer and hearty meat dishes.'),
-  place('krakow-fine_dining-3', 'krakow', 'fine_dining', 'Morskie Oko', 'Plac Szczepański 8, 31-011 Kraków', '아르누보 건물의 산악 지방풍 레스토랑. 저녁에는 전통 의상 차림 가수들이 공연합니다.', 'Highlander-style restaurant in an Art Nouveau building, with costumed folk singers in the evenings.'),
-  place('krakow-fine_dining-4', 'krakow', 'fine_dining', 'Szara Gęś w Kuchni Restaurant', 'Rynek Główny 17, 31-008 Kraków', '중앙광장의 모던 폴란드 레스토랑. 가금류 요리에 강하고 와인 리스트로 상을 받았습니다.', 'Modern Polish restaurant on the Main Square, strong on poultry, with an award-winning wine list.'),
   place('krakow-fine_dining-5', 'krakow', 'fine_dining', 'Pierwszy Stopień Restaurant', 'Krakowska 17, 31-062 Kraków', '카지미에시의 레스토랑. 지역 식재료로 폴란드·국제 요리를 내고 채식 메뉴가 많습니다.', 'Kazimierz restaurant cooking Polish and international dishes with local produce; plenty of vegetarian options.'),
 
   place('krakow-bakery-3', 'krakow', 'bakery', 'Chimney Cake Bakery', 'Basztowa 26A, 31-131 Kraków', '헝가리식 굴뚝빵 킈르퇴시칼라치 가게. 아이스크림을 굴뚝빵 콘에 담아 줍니다.', 'Hungarian chimney-cake shop that also serves ice cream in chimney-cake cones.'),
@@ -34,10 +26,7 @@ export const placesPLExtra: Place[] = [
   place('krakow-cafe-5', 'krakow', 'cafe', 'Camelot Cafe', 'Św. Tomasza 17, 31-021 Kraków', '민속 공예품으로 꾸민 구시가의 카페. 지하에는 극장이 있습니다.', 'Old Town café decorated with folk art, with a theatre in its cellars.'),
 
   // —— gdansk ——
-  place('gdansk-fine_dining-1', 'gdansk', 'fine_dining', 'Kubicki Restaurant', 'Wartka 5, 80-855 Gdańsk', '1918년 카페로 시작한 그단스크에서 가장 오래된 레스토랑. 모트와바 강가 자리와 피아노 연주가 있습니다.', 'Gdańsk\'s oldest restaurant, begun as a café in 1918, with riverside tables and live piano.'),
   place('gdansk-fine_dining-2', 'gdansk', 'fine_dining', 'Restauracja Bazar', 'Szafarnia 6, 80-755 Gdańsk', '폴란드 가정식을 새롭게 낸 레스토랑. 오리 피에로기가 인기입니다.', 'Restaurant giving Polish comfort food a twist; the duck dumplings are popular.'),
-  place('gdansk-fine_dining-3', 'gdansk', 'fine_dining', 'Motlava Restaurant', 'Stara Stocznia 2/1, 80-751 Gdańsk', '구시가 건너편 옛 조선소 부지의 폴란드 레스토랑. 손으로 빚은 만두를 냅니다.', 'Polish restaurant on the old shipyard site across from the Old Town, with handmade dumplings.'),
-  place('gdansk-fine_dining-4', 'gdansk', 'fine_dining', 'Swojski Smak', 'Jana Heweliusza 25/27, 80-861 Gdańsk', '구시가 중심의 폴란드 가정식 식당. 가격이 저렴합니다.', 'Polish home-cooking restaurant in the centre at affordable prices.'),
   place('gdansk-fine_dining-5', 'gdansk', 'fine_dining', 'Pierogarnia Mandu Gdańsk Śródmieście', 'Elżbietańska 4/8, 80-849 Gdańsk', '주문 즉시 빚는 피에로기 전문점. 글루텐 프리·채식 피에로기도 있습니다.', 'Pierogi house making dumplings to order, including gluten-free and vegetarian versions.'),
 
   place('gdansk-bakery-1', 'gdansk', 'bakery', 'Cukiernia W-Z', 'Słodowników 1, 80-823 Gdańsk, Poland', '그단스크에서 오래된 제과점 중 하나. 체리 퐁치키와 사과 샤를로트카가 인기입니다.', 'One of Gdańsk\'s oldest pastry shops; the cherry pączki and apple szarlotka are favourites.'),
@@ -51,10 +40,6 @@ export const placesPLExtra: Place[] = [
 
   // —— wroclaw ——
   place('wroclaw-fine_dining-1', 'wroclaw', 'fine_dining', 'Lwia Brama', 'Katedralna 9, 50-328 Wrocław', '오스트루프 툼스키 유일의 레스토랑. 붉은 벽돌 아치 천장의 중세 저택에서 전통 요리를 내고 미쉐린 가이드에 실려 있습니다.', 'The only restaurant on Ostrów Tumski, serving traditional dishes under red-brick vaults; listed in the MICHELIN Guide.'),
-  place('wroclaw-fine_dining-2', 'wroclaw', 'fine_dining', 'Konspira', 'Plac Solny 11, 50-062 Wrocław', '1980년대 연대노조 시절 아파트를 재현한 테마 식당. 피에로기·주레크를 푸짐하게 냅니다.', 'Restaurant themed on a 1980s Solidarity-era flat, serving big plates of pierogi and żurek.', { image: '/places/wroclaw-fine_dining-2.jpg' }),
-  place('wroclaw-fine_dining-3', 'wroclaw', 'fine_dining', 'Wrocławska', 'Szewska 59/60, 50-139 Wrocław', '전쟁 전 실레지아 요리를 재현한 3층 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Three-level restaurant recreating pre-war Silesian cooking; listed in the MICHELIN Guide.'),
-  place('wroclaw-fine_dining-4', 'wroclaw', 'fine_dining', 'Pod Papugami - Restaurant & Cocktail Bar', 'Sukiennice 9a, 50-107 Wrocław', '25년 넘은 광장의 레스토랑 겸 칵테일 바. 지중해·프랑스 요리와 재즈 공연이 있습니다.', 'Main-square restaurant and cocktail bar of over 25 years, with Mediterranean and French food and live jazz.'),
-  place('wroclaw-fine_dining-5', 'wroclaw', 'fine_dining', 'STÓŁ na Szwedzkiej - studio kulinarne', 'Szwedzka 17A, 51-128 Wrocław', '고정 메뉴 없이 그날 시장 재료로 요리하는 셰프의 쿠킹 스튜디오. 예약을 권합니다.', 'Chef\'s cooking studio with no fixed menu, built around the day\'s market produce; booking advised.'),
 
   place('wroclaw-bakery-1', 'wroclaw', 'bakery', 'Chimney Cake Bakery', 'Oławska 4, 50-123 Wrocław, Poland', '헝가리식 굴뚝빵을 눈앞에서 구워 주는 가게. 열 가지 토핑이 있습니다.', 'Shop baking Hungarian chimney cakes in front of you, with ten toppings.'),
   place('wroclaw-bakery-2', 'wroclaw', 'bakery', 'Poko Bakery & Cafe', 'Świętego Antoniego 2/4, 50-073 Wrocław', '빵집·제과점·카페를 합친 곳. 크루아상과 아침 샌드위치가 인기입니다.', 'Bakery, patisserie and café in one; croissants and breakfast sandwiches are popular.'),
@@ -67,10 +52,7 @@ export const placesPLExtra: Place[] = [
   place('wroclaw-cafe-5', 'wroclaw', 'cafe', 'Yerba Café', 'Księcia Witolda 21, 50-243 Wrocław', '강변 산책로의 예르바 마테 카페. 커피와 아침·브런치를 냅니다.', 'Riverside café specialising in yerba mate, with coffee, breakfast and brunch.'),
 
   // —— poznan ——
-  place('poznan-fine_dining-1', 'poznan', 'fine_dining', 'Ptasie Radio', 'Kościuszki 74/3, Poznań', '투빔의 동시에서 이름을 딴 새 테마 카페 겸 레스토랑. 20년 넘게 이어왔고 여름엔 정원이 열립니다.', 'Bird-themed café-restaurant named after a Tuwim children\'s poem, running for over 20 years, with a summer garden.'),
-  place('poznan-fine_dining-2', 'poznan', 'fine_dining', 'Wiejskie Jadło Poznań', 'Stary Rynek 77, 61-772 Poznań', '중앙광장의 폴란드 전통 식당. 빵 그릇 주레크와 골롱카가 대표입니다.', 'Traditional Polish restaurant on the Old Market Square; żurek in a bread bowl and golonka are signatures.'),
   place('poznan-fine_dining-3', 'poznan', 'fine_dining', 'Restauracja Vis A Vis Koziołków', 'Stary Rynek 40, 61-772 Poznań', '시청이 보이는 중앙광장의 레스토랑. 오리 콩피와 거위 버거를 냅니다.', 'Old Market Square restaurant facing the Town Hall, with duck confit and a goose burger.'),
-  place('poznan-fine_dining-4', 'poznan', 'fine_dining', 'Na Winklu', 'Śródka 1, 61-125 Poznań', '2015년부터 시루드카 모퉁이에 있는 피에로기 식당. 계절 메뉴가 있습니다.', 'Pierogi restaurant on a Śródka corner since 2015, with seasonal specials.'),
   place('poznan-fine_dining-5', 'poznan', 'fine_dining', 'NOOKS', 'Poplińskich 1, 61-762 Poznań', '그릴 고기와 해산물이 중심인 지하 레스토랑. 미쉐린 가이드에 실렸고 예약을 권합니다.', 'Basement restaurant centred on grilled meat and seafood, listed in the MICHELIN Guide; booking advised.'),
 
   place('poznan-bakery-2', 'poznan', 'bakery', 'ROGAL Świętomarciński', 'Stary Rynek 11/17, 61-772 Poznań', '파베우 미에샤와가 운영하는 가족 제과점. 포즈난 명물 성 마르틴 크루아상을 매일 굽습니다.', 'Family pastry shop run by Paweł Mieszała, baking Poznań\'s St Martin\'s croissants daily.'),
@@ -100,7 +82,7 @@ export const placesPLExtra: Place[] = [
   place('torun-fine_dining-1', 'torun', 'fine_dining', '4 Pory Roku', 'Przedzamcze 6, 87-100 Toruń, Poland', '아르헨티나 출신 셰프의 계절 요리 레스토랑. 튜턴 기사단 성터 근처에 있습니다.', 'Seasonal restaurant led by an Argentinian chef, near the Teutonic castle ruins.'),
   place('torun-fine_dining-2', 'torun', 'fine_dining', 'Restauracja Chleb i Wino Toruń', 'Rynek Staromiejski 22, 87-100 Toruń', '구시가 광장의 이탈리아·지중해 레스토랑.', 'Italian and Mediterranean restaurant on the Old Town Square.'),
   place('torun-fine_dining-3', 'torun', 'fine_dining', 'Pierogarnia Stary Toruń', 'Most Pauliński 2/10, 87-100 Toruń', '삶거나 구운 피에로기와 주레크를 내는 만두 식당.', 'Dumpling restaurant serving boiled or fried pierogi and żurek.'),
-  place('torun-fine_dining-4', 'torun', 'fine_dining', 'Restauracja Piernicova', 'Przedzamcze 6B, 87-100 Toruń', '구시가 성벽이 보이는 테라스의 폴란드 지역 요리 레스토랑. 미쉐린 가이드에 실려 있습니다.', 'Regional Polish restaurant with a terrace overlooking the old ramparts; listed in the MICHELIN Guide.'),
+  place('torun-fine_dining-4', 'torun', 'fine_dining', 'Restauracja Piernicova', 'Przedzamcze 6B, 87-100 Toruń', '구시가 성벽이 보이는 테라스의 폴란드 지역 요리 레스토랑. 미쉐린 빕 구르망.', 'Regional Polish restaurant with a terrace overlooking the old ramparts; MICHELIN Bib Gourmand.', { michelin: 'bib' }),
 
   place('torun-bakery-1', 'torun', 'bakery', 'Bread House Cafe', 'Fosa Staromiejska 2, 87-100 Toruń, Poland', '직접 굽는 빵과 베이글, 비건 아침 메뉴가 있는 카페.', 'Café with house-baked bread, bagels and vegan breakfasts.'),
   place('torun-bakery-4', 'torun', 'bakery', 'Kawiarnia i Cukiernia Lenkiewicz', 'Wielkie Garbary 14, 87-100 Toruń', '1945년부터 이어온 카페 겸 제과점. 퐁치키가 토룬 최고로 뽑힌 적이 있고 진저브레드 아이스크림이 있습니다.', 'Café and pastry shop since 1945, whose pączki were voted Toruń\'s best; try the gingerbread ice cream.'),
@@ -111,7 +93,7 @@ export const placesPLExtra: Place[] = [
   place('torun-cafe-3', 'torun', 'cafe', 'Torunianka Cafe', 'Franciszkańska 16/1, 87-100 Toruń', '피아노 라이브가 있는 구시가 카페. 사과 파이와 아이스크림이 유명합니다.', 'Old Town café with live piano, famous for apple pie with ice cream.'),
 
   // —— lublin: restaurants, bakeries and cafés (2026-11-04) ——
-  place('lublin-fine_dining-1', 'lublin', 'fine_dining', '2PiEr', 'Artura Grottgera 2, 20-029 Lublin', '5층에 자리한 폴란드 전통 요리 레스토랑. 미쉐린 가이드 선정.', 'Traditional Polish restaurant on the 5th floor. In the MICHELIN Guide.'),
+  place('lublin-fine_dining-1', 'lublin', 'fine_dining', '2PiEr', 'Artura Grottgera 2, 20-029 Lublin', '5층에 자리한 폴란드 전통 요리 레스토랑. 미쉐린 빕 구르망.', 'Traditional Polish restaurant on the 5th floor. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
   place('lublin-fine_dining-2', 'lublin', 'fine_dining', 'Kuchnia Otwarta', 'Nałęczowska 18, 20-701 Lublin', '모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking. In the MICHELIN Guide.'),
   place('lublin-fine_dining-3', 'lublin', 'fine_dining', 'Perłowa Pijalnia Piwa', 'Bernardyńska 15A, 20-950 Lublin', '옛 펄 양조장의 맥주홀 겸 폴란드 요리 식당. 미쉐린 가이드 선정.', 'Beer hall and Polish restaurant at the old Perła brewery. In the MICHELIN Guide.'),
   place('lublin-fine_dining-4', 'lublin', 'fine_dining', 'Raj Utracony', 'Stanisława Leszczyńskiego 25, 20-068 Lublin', '중동 요리 레스토랑. 미쉐린 가이드 선정.', 'Middle Eastern restaurant. In the MICHELIN Guide.'),
@@ -121,7 +103,7 @@ export const placesPLExtra: Place[] = [
   place('lublin-cafe-2', 'lublin', 'cafe', 'Święty Spokój Music Cafe', 'Bramowa 6, 20-111 Lublin', '구시가 골목의 음악 카페.', 'Music café in an old-town lane.'),
 
   // —— lodz: restaurants, bakeries and cafés (2026-11-04) ——
-  place('lodz-fine_dining-1', 'lodz', 'fine_dining', 'Acanti', 'Romualda Traugutta 12, 90-107 Łódź', '호텔 트라우구타의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking at the Hotel Traugutta 12. In the MICHELIN Guide.'),
+  place('lodz-fine_dining-1', 'lodz', 'fine_dining', 'Acanti', 'Romualda Traugutta 12, 90-107 Łódź', '호텔 트라우구타의 모던 요리 레스토랑. 미쉐린 빕 구르망.', 'Modern cooking at the Hotel Traugutta 12. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
   place('lodz-fine_dining-2', 'lodz', 'fine_dining', 'Malinowa', 'Piotrkowska 72, 90-105 Łódź', '그랜드 호텔의 모던 요리 레스토랑. 미쉐린 가이드 선정.', 'Modern cooking at the Grand Hotel. In the MICHELIN Guide.'),
   place('lodz-fine_dining-3', 'lodz', 'fine_dining', 'Ogień i Sól', 'Piotrkowska 295A, 93-004 Łódź', '그릴·고기 요리 레스토랑. 미쉐린 가이드 선정.', 'Grill and meat restaurant. In the MICHELIN Guide.'),
   place('lodz-bakery-1', 'lodz', 'bakery', 'Słodko czy Wytrawnie', 'Piotrkowska 101, 90-425 Łódź', '표트르코프스카 거리의 빵·디저트 카페.', 'Bakery and dessert café on Piotrkowska.'),
@@ -147,4 +129,35 @@ export const placesPLExtra: Place[] = [
   place('warsaw-bakery-3', 'warsaw', 'bakery', 'La Bomboniera', 'Al. Solidarności 82, 00-145 Warszawa', '솔리다르노시치 대로의 제과점.', 'Pastry shop on Solidarności Avenue.'),
   place('warsaw-bakery-4', 'warsaw', 'bakery', 'Canela Bakery', 'Chmielna 27, 00-020 Warszawa', '흐미엘나 거리의 빵집.', 'Bakery on Chmielna street.'),
   place('warsaw-bakery-5', 'warsaw', 'bakery', 'eter — vegan bakery', 'Hoża 5/7, 00-528 Warszawa', '비건 빵집 겸 스페셜티 커피 카페.', 'Vegan bakery and speciality coffee café.'),
+
+  // —— warsaw: restaurants, bakeries and cafés (2026-11-22) ——
+  place('warsaw-fine_dining-6', 'warsaw', 'fine_dining', 'hub.praga', 'Jagiellońska 22/LU1, 03-719 Warszawa', '프라가 지구의 레스토랑. 미쉐린 1스타.', 'Restaurant in the Praga district. One MICHELIN star.', { michelin: 'star1' }),
+  place('warsaw-fine_dining-7', 'warsaw', 'fine_dining', 'Rozbrat 20', 'ul. Rozbrat 20, 00-447 Warszawa', '와인 바에서 시작한 레스토랑. 미쉐린 1스타.', 'Restaurant that grew out of a wine bar. One MICHELIN star.', { michelin: 'star1' }),
+  place('warsaw-fine_dining-8', 'warsaw', 'fine_dining', 'NUTA', 'Plac Trzech Krzyży 10/14, 00-499 Warszawa', '세 십자가 광장의 레스토랑. 미쉐린 1스타.', 'Restaurant on Three Crosses Square. One MICHELIN star.', { michelin: 'star1' }),
+  place('warsaw-fine_dining-9', 'warsaw', 'fine_dining', 'Alon Omakase', 'ul. Jana Pawła Woronicza 33C/U4, 02-640 Warszawa', '오마카세 레스토랑. 미쉐린 1스타.', 'Omakase restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('warsaw-fine_dining-10', 'warsaw', 'fine_dining', 'Koneser Grill', 'ul. Ząbkowska 29, 03-736 Warszawa', '프라가 코네세르 단지의 그릴 레스토랑. 미쉐린 빕 구르망.', 'Grill restaurant at the Koneser complex in Praga. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— krakow: restaurants, bakeries and cafés (2026-11-22) ——
+  place('krakow-fine_dining-6', 'krakow', 'fine_dining', 'Bottiglieria 1881', 'ul. Bocheńska 5, 31-061 Kraków', '카지미에시의 레스토랑. 미쉐린 2스타.', 'Restaurant in Kazimierz. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('krakow-fine_dining-7', 'krakow', 'fine_dining', 'Nat Bistro', 'ul. Krakowska 34, 31-062 Kraków', '카지미에시의 비스트로. 미쉐린 빕 구르망.', 'Bistro in Kazimierz. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('krakow-fine_dining-8', 'krakow', 'fine_dining', 'NOAH', 'ul. Meiselsa 24, 31-058 Kraków', '카지미에시의 레스토랑. 미쉐린 빕 구르망.', 'Restaurant in Kazimierz. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— gdansk: restaurants, bakeries and cafés (2026-11-22) ——
+  place('gdansk-fine_dining-6', 'gdansk', 'fine_dining', 'Arco by Paco Pérez', 'Olivia Centre 33rd floor, Al. Grunwaldzka 472c, 80-309 Gdańsk', '올리비아 센터 33층의 레스토랑. 미쉐린 1스타.', 'Restaurant on the 33rd floor of the Olivia Centre. One MICHELIN star.', { michelin: 'star1' }),
+  place('gdansk-fine_dining-7', 'gdansk', 'fine_dining', 'Hewelke', 'ul. Jana Kilińskiego 7, 80-452 Gdańsk', '레스토랑. 미쉐린 빕 구르망.', 'Restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('gdansk-fine_dining-8', 'gdansk', 'fine_dining', 'Brut Bistro', 'Toruńska 25, 80-747 Gdańsk', '비스트로. 미쉐린 빕 구르망.', 'Bistro. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— wroclaw: restaurants, bakeries and cafés (2026-11-22) ——
+  place('wroclaw-fine_dining-6', 'wroclaw', 'fine_dining', 'Most', 'Księcia Witolda 1, 50-202 Wrocław', '레스토랑. 미쉐린 1스타.', 'Restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('wroclaw-fine_dining-7', 'wroclaw', 'fine_dining', 'BABA', 'Nożownicza 1D, 50-119 Wrocław', '구시가의 레스토랑. 미쉐린 1스타.', 'Old-town restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('wroclaw-fine_dining-8', 'wroclaw', 'fine_dining', 'IDA kuchnia i wino', 'ul. Łazienna 4, 50-133 Wrocław', '호텔 재즈의 레스토랑 겸 와인 바. 미쉐린 빕 구르망.', 'Restaurant and wine bar at Hotel Jazz. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('wroclaw-fine_dining-9', 'wroclaw', 'fine_dining', 'Pijalni', 'Michała Wrocławczyka 42/1u, 50-380 Wrocław', '레스토랑. 미쉐린 빕 구르망.', 'Restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— poznan: restaurants, bakeries and cafés (2026-11-22) ——
+  place('poznan-fine_dining-6', 'poznan', 'fine_dining', 'Muga', 'ul. Krysiewicza 5, 61-825 Poznań', '레스토랑. 미쉐린 1스타.', 'Restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('poznan-fine_dining-7', 'poznan', 'fine_dining', 'Fromażeria', 'ul. Ratajczaka 27, 61-814 Poznań', '레스토랑. 미쉐린 빕 구르망.', 'Restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('poznan-fine_dining-8', 'poznan', 'fine_dining', 'Posto', 'Kościelna 43/10, 60-537 Poznań', '레스토랑. 미쉐린 빕 구르망.', 'Restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— zakopane: restaurants, bakeries and cafés (2026-11-22) ——
+  place('zakopane-fine_dining-6', 'zakopane', 'fine_dining', 'Stary Niedźwiedź', 'Strążyska 33A, 34-500 Zakopane', '레스토랑. 미쉐린 빕 구르망.', 'Restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
 ]
