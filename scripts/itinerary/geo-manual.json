@@ -14295,5 +14295,50 @@
     45.15114,
     13.60631,
     "OSM Nominatim: crkva svetog Martina biskupa, Vidikovac Trsine, Vrsar, Općin (Wikipedia 511m)"
+  ],
+  "bratislava-h11": [
+    48.18257,
+    17.09473,
+    "OSM Nominatim: Televízna veža na Kamzíku, Cesta na Kamzík, Koliba, Nové Mes (Wikipedia 8m)"
+  ],
+  "bratislava-h12": [
+    48.33573,
+    17.30879,
+    "OSM Nominatim: Modra, okres Pezinok, Bratislavský kraj, 900 01, Slovensko (Wikipedia 643m)"
+  ],
+  "warsaw-h13": [
+    52.24093,
+    21.01131,
+    "OSM Nominatim: Grób Nieznanego Żołnierza, Plac Piłsudskiego, Staromiejskie, (Wikipedia 21m)"
+  ],
+  "warsaw-h14": [
+    52.25539,
+    21.04599,
+    "OSM Nominatim: Muzeum Polskiej Wódki, 1, Plac Konesera, Praga, Szmulowizna, (Wikipedia 178m)"
+  ],
+  "warsaw-h15": [
+    52.25322,
+    21.01447,
+    "OSM Nominatim: Bulwar Jana Karskiego, Staromiejskie, Nowe Miasto, Śródmieśc (Wikipedia 249m)"
+  ],
+  "krakow-h13": [
+    50.05492,
+    19.89335,
+    "OSM Nominatim: Kopiec Kościuszki, Kraków, województwo małopolskie, 30-210,  (Wikipedia 360m)"
+  ],
+  "krakow-h14": [
+    50.07256,
+    20.03775,
+    "OSM Nominatim: Plac Centralny imienia Ronalda Reagana, Nowa Huta, Kraków, w"
+  ],
+  "gdansk-h11": [
+    54.34967,
+    18.64802,
+    "OSM Nominatim: Złota Brama, 27, Wełniarska, Stare Przedmieście, Śródmieście (Wikipedia 6m)"
+  ],
+  "wroclaw-h10": [
+    51.1038,
+    17.05732,
+    "OSM Nominatim: Hydropolis, 19, Na Grobli, Rakowiec, Trójkąt, Przedmieście O (Wikipedia 6m)"
   ]
 }

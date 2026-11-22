@@ -956,7 +956,12 @@ export const countries: Country[] = [
       background: '#E8EEF8',
       text: '#0A1A30',
     },
-    cityIds: ['bratislava', 'kosice', 'bardejov', 'poprad', 'levoca', 'banska-bystrica', 'banska-stiavnica', 'trencin', 'nitra'],
+    cityIds: ['bratislava', 'nitra', 'trencin', 'banska-bystrica', 'banska-stiavnica', 'kosice', 'poprad', 'levoca', 'bardejov'],
+    cityGroups: [
+      { title: { ko: '서부', en: 'Western Slovakia' }, cityIds: ['bratislava', 'nitra', 'trencin'] },
+      { title: { ko: '중부', en: 'Central Slovakia' }, cityIds: ['banska-bystrica', 'banska-stiavnica'] },
+      { title: { ko: '동부·타트라', en: 'Eastern Slovakia & the Tatras' }, cityIds: ['kosice', 'poprad', 'levoca', 'bardejov'] },
+    ],
   },
   {
     id: 'hu',
@@ -1014,7 +1019,13 @@ export const countries: Country[] = [
       background: '#FCE8EC',
       text: '#3A0A10',
     },
-    cityIds: ['warsaw', 'lodz', 'krakow', 'czestochowa', 'gdansk', 'malbork', 'wroclaw', 'poznan', 'zakopane', 'torun', 'lublin'],
+    cityIds: ['warsaw', 'lodz', 'lublin', 'krakow', 'zakopane', 'czestochowa', 'gdansk', 'malbork', 'torun', 'wroclaw', 'poznan'],
+    cityGroups: [
+      { title: { ko: '중부·동부', en: 'Central & Eastern Poland' }, cityIds: ['warsaw', 'lodz', 'lublin'] },
+      { title: { ko: '남부', en: 'Southern Poland' }, cityIds: ['krakow', 'zakopane', 'czestochowa'] },
+      { title: { ko: '북부', en: 'Northern Poland' }, cityIds: ['gdansk', 'malbork', 'torun'] },
+      { title: { ko: '서부', en: 'Western Poland' }, cityIds: ['wroclaw', 'poznan'] },
+    ],
   },
   {
     id: 'mt',

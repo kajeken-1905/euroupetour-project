@@ -5181,3 +5181,12 @@ highlights/sibenik-8.jpg | https://commons.wikimedia.org/wiki/File:Island_in_NP_
 highlights/porec-6.jpg | https://commons.wikimedia.org/wiki/File:Baredine-010_(36570682564).jpg | CC BY 2.0 | Bernhard Wintersperger from Graz, Austria
 highlights/porec-7.jpg | https://commons.wikimedia.org/wiki/File:Vrsar_-_panoramio_(3).jpg | CC BY 3.0 | Tanya Dedyukhina
 highlights/korcula-6.jpg | https://commons.wikimedia.org/wiki/File:More%C5%A1ka_in_Kor%C4%8Dula.jpg | Public domain | Luka Jačov
+highlights/bratislava-11.jpg | https://commons.wikimedia.org/wiki/File:Kamz%C3%ADk_TV_Tower_2018_2.jpg | CC BY-SA 4.0 | VargaA
+highlights/bratislava-12.jpg | https://commons.wikimedia.org/wiki/File:687_06_Modr%C3%A1,_Czech_Republic_-_panoramio.jpg | CC BY-SA 3.0 | Michal Gorski
+highlights/warsaw-13.jpg | https://commons.wikimedia.org/wiki/File:Tomb_of_the_Unknown_Soldier_in_Warsaw_in_2019,_Poland,_2019_interior.jpg | CC BY-SA 4.0 | Chris Olszewski
+highlights/warsaw-14.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_Polskiej_W%C3%B3dki_Galeria_4_2018c.jpg | CC BY-SA 3.0 pl | Adrian Grycuk
+highlights/warsaw-15.jpg | https://commons.wikimedia.org/wiki/File:Bulwary_Wi%C5%9Blane,_Warszawa_(1).jpg | CC BY-SA 4.0 | Qkiel
+highlights/krakow-13.jpg | https://commons.wikimedia.org/wiki/File:DJI_0236_Kopiec_Ko%C5%9Bciuszki.jpg | CC BY-SA 4.0 | Pawelsuder
+highlights/krakow-14.jpg | https://commons.wikimedia.org/wiki/File:Nowa_Huta_-_Plac_Centralny_z_lotu_ptaka.jpg | CC BY-SA 4.0 | Piotr Tomaszewski-Guillon / dronographyapplied.com
+highlights/gdansk-11.jpg | https://commons.wikimedia.org/wiki/File:Gda%C5%84sk._Z%C5%82ota_Brama_-_panoramio.jpg | CC BY-SA 3.0 | Krzysztof Rakowski
+highlights/wroclaw-10.jpg | https://commons.wikimedia.org/wiki/File:Hydropolis,_Wroclaw_(P1180359-Pano).jpg | CC BY-SA 4.0 | Matti Blume

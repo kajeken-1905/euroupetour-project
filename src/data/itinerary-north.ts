@@ -205,8 +205,9 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   },
   warsaw: {
     days: [
-      ['구시가와 왕의 길|Old Town & the Royal Route', 10, 1, 2, 9, 8, 11],
+      ['구시가와 왕의 길|Old Town & the Royal Route', 10, 1, 2, 9, 8, 13],
       ['봉기 박물관과 도심|Rising Museum & the centre', 7, 5, 4, 12],
+      ['비스와강과 프라가|The Vistula & Praga', 15, 11, 14],
       ['와지엔키와 빌라누프|Łazienki & Wilanów', 3, 6],
     ],
   },
@@ -215,6 +216,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     days: [
       ['구시가와 바벨|Old Town & Wawel', 10, 1, 3, 11, 5, 9, 2],
       ['카지미에시와 포드구지|Kazimierz & Podgórze', 4, 12, 8],
+      ['코시치우슈코 언덕과 노바 후타|Kościuszko Mound & Nowa Huta', 13, 14],
     ],
     trips: [
       ['아우슈비츠|Auschwitz', 6],
@@ -223,14 +225,14 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   },
   czestochowa: { days: [['', 2, 1, 3]], trips: [['올슈틴 성|Olsztyn Castle', 4]] },
   gdansk: {
-    days: [['', 1, 10, 2, 9, 6, 3, 7, 4]],
+    days: [['', 11, 1, 10, 2, 9, 6, 3, 7, 4]],
     trips: [
       ['베스테르플라테|Westerplatte', 8],
       ['올리바와 해변|Oliwa & the beach', 5],
     ],
   },
   malbork: [1, 2],
-  wroclaw: [1, 4, 7, 5, 6, 2, 3, 8, 9],
+  wroclaw: [1, 4, 7, 5, 6, 2, 3, 8, 9, 10],
   poznan: [3, 8, 1, 6, 4, 2, 7, 5],
   zakopane: {
     days: [['', 2, 6, 8, 3, 1]],
@@ -277,7 +279,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   isafjordur: { days: [['', 1]], trips: [['딘얀디 폭포|Dynjandi', 2], ['비구르섬|Vigur', 3], ['혼스트란디르|Hornstrandir', 4]] },
   myvatn: { days: [['', 4, 2, 3, 1]], trips: [['크라플라|Krafla', 5]] },
   seydisfjordur: { days: [['', 1, 2, 3]], trips: [['헹이포스 폭포|Hengifoss', 4]] },
-  bratislava: { days: [['', 2, 9, 7, 4, 6, 3, 1, 8, 10]], trips: [['데빈 성|Devín Castle', 5]] },
+  bratislava: { days: [['', 2, 9, 7, 4, 6, 3, 1, 8, 10, 11]], trips: [['데빈 성|Devín Castle', 5], ['모드라|Modra', 12]] },
   kosice: [5, 9, 1, 8, 4, 6, 7, 2, 3],
   bardejov: {
     days: [['', 1, 2, 3, 4]],
