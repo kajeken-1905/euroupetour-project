@@ -5079,3 +5079,34 @@ highlights/oban-3.jpg | https://commons.wikimedia.org/wiki/File:Dunollie_Castle_
 highlights/oban-4.jpg | https://commons.wikimedia.org/wiki/File:Dunstaffnage_castle_crop.jpg | CC BY 3.0 | Eusebius
 highlights/oban-5.jpg | https://commons.wikimedia.org/wiki/File:Iona_Abbey_-_July_2011.jpeg | CC BY-SA 2.0 fr | Akela NDE (talk)
 highlights/st-ives-4.jpg | https://commons.wikimedia.org/wiki/File:Barbara_Hepworth_Museum_and_Sculpture_Gardebn_-_25824829447.jpg | CC BY-SA 2.0 | Tom Parnell
+highlights/giverny-5.jpg | https://commons.wikimedia.org/wiki/File:Giverny_eglise.jpg | Public domain | Theoliane
+highlights/giverny-6.jpg | https://commons.wikimedia.org/wiki/File:Vernon_Le_Vieux_Moulin_sur_le_Vieux_Pont_10.jpg | CC BY-SA 4.0 | Zairon
+highlights/fontainebleau-5.jpg | https://commons.wikimedia.org/wiki/File:0_Maincy_-_Ch%C3%A2teau_de_Vaux-le-Vicomte_(2).JPG | CC BY-SA 3.0 | Jean-Pol GRANDMONT
+highlights/fontainebleau-6.jpg | https://commons.wikimedia.org/wiki/File:Pont_de_Moret_sur_Loing_et_Porte_de_Bourgogne_DSC_0018.JPG | CC BY-SA 3.0 | Pline
+highlights/chartres-5.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint_Pierre_-_Chartres_(FR28)_-_2021-03-14_-_8.jpg | CC BY-SA 4.0 | Chabe01
+highlights/chartres-6.jpg | https://commons.wikimedia.org/wiki/File:Chartres_-_Palais_episcopal_02.jpg | CC BY-SA 3.0 | Selbymay
+highlights/mont-saint-michel-5.jpg | https://commons.wikimedia.org/wiki/File:Bell_tower_of_Eglise_Saint-Pierre_du_Mont_Saint-Michel_03.jpg | CC BY-SA 4.0 | John Samuel
+highlights/mont-saint-michel-6.jpg | https://commons.wikimedia.org/wiki/File:Randonneurs_travers%C3%A9e_baie_Mont_Saint-Michel.jpg | CC BY-SA 3.0 | Alexandre D.
+highlights/le-puy-en-velay-5.jpg | https://commons.wikimedia.org/wiki/File:Musee_Crozatier_facade_jardin.jpg | CC BY-SA 4.0 | La photographe Amandine Riou a cédé ses droits au Musée Croz
+highlights/le-puy-en-velay-6.jpg | https://commons.wikimedia.org/wiki/File:Forteresse_de_Polignac,_Haute-Loire,_France_(DSC0221).JPG | CC BY-SA 3.0 | Fred Scalliet
+highlights/arcachon-5.jpg | https://commons.wikimedia.org/wiki/File:Arcachon_Basilique_de_Notre-Dame.jpg | CC BY-SA 4.0 | Gitouche (changes by Rabanus Flavus)
+highlights/arcachon-6.jpg | https://commons.wikimedia.org/wiki/File:Cigognes_le_teich.jpg | CC BY-SA 3.0 | Pline
+highlights/perpignan-5.jpg | https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_d%27Art_Hyacinthe-Rigaud_(Perpignan)_(35875035812).jpg | CC BY 2.0 | Jean-Pierre Dalbéra from Paris, France
+highlights/perpignan-6.jpg | https://commons.wikimedia.org/wiki/File:Abbaye_Saint-Michel_de_Cuxa_-_Cloister_01.jpg | CC BY-SA 3.0 | H. Zell
+highlights/collioure-5.jpg | https://commons.wikimedia.org/wiki/File:Troyes_(Aube)_-_Mus%C3%A9e_d%27Art_Moderne_-_%22Hyde_Park%22_(Andr%C3%A9_Derain,_1906).jpg | CC BY-SA 2.0 | Morio60
+highlights/collioure-6.jpg | https://commons.wikimedia.org/wiki/File:Port-Vendres_historical_barque.jpg | CC BY-SA 4.0 | Palauenc05
+highlights/aigues-mortes-5.jpg | https://commons.wikimedia.org/wiki/File:Aigues-Mortes,_%C3%89glise_Notre-Dame-des-Sablons.jpg | CC BY-SA 4.0 | Rolf Kranz
+highlights/aigues-mortes-6.jpg | https://commons.wikimedia.org/wiki/File:Aigues-Mortes_-_Tour_Carbonni%C3%A8re_-_03.jpg | CC BY-SA 3.0 | EmDee
+highlights/les-baux-de-provence-5.jpg | https://commons.wikimedia.org/wiki/File:Rock_formation_in_Val_d%27Enfer_2_(Les_Baux-de-Provence).jpg | CC BY-SA 4.0 | Einaz80
+highlights/les-baux-de-provence-6.jpg | https://commons.wikimedia.org/wiki/File:L%27H%C3%B4tel_des_Porcelet,_actuel_mus%C3%A9e_Yves_Brayer,_derri%C3%A8re_l%27%C3%A9glise_Saint-Vincent_-_A8079.jpg | CC0 | Léon Auguste
+highlights/cassis-5.jpg | https://commons.wikimedia.org/wiki/File:Port-Miou_calanque_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/cassis-6.jpg | https://commons.wikimedia.org/wiki/File:Eden_Th%C3%A9atre_La_Ciotat.jpg | CC BY-SA 4.0 | Jcelestra
+highlights/cannes-5.jpg | https://commons.wikimedia.org/wiki/File:March%C3%A9_Forville_Cannes_15.jpg | CC BY-SA 4.0 | Iswoar
+highlights/cannes-6.jpg | https://commons.wikimedia.org/wiki/File:Musee_de_la_Castre,_Cannes,_Provence-Alpes-C%C3%B4te_d%27Azur,_France_-_panoramio.jpg | CC BY-SA 3.0 | M.Strīķis
+highlights/ajaccio-5.jpg | https://commons.wikimedia.org/wiki/File:Ajaccio_cathedrale_facade.jpg | CC BY-SA 3.0 | Myrabella
+highlights/ajaccio-6.jpg | https://commons.wikimedia.org/wiki/File:Corsica_Ajaccio_Place_Foch_Fontaine_des_Quatre_Lions.jpg | CC BY-SA 3.0 | Isiwal
+highlights/bonifacio-5.jpg | https://commons.wikimedia.org/wiki/File:Bonifacio,_cimitero_marino_01.jpg | CC BY 3.0 | Sailko
+highlights/bonifacio-6.jpg | https://commons.wikimedia.org/wiki/File:Phare_de_Pertusato_-_panoramio.jpg | CC BY 3.0 | cazah
+highlights/calvi-5.jpg | https://commons.wikimedia.org/wiki/File:0_Calvi_-_Cath%C3%A9drale_St-Jean-Baptiste_(1).JPG | CC BY-SA 3.0 | Jean-Pol GRANDMONT
+highlights/calvi-6.jpg | https://commons.wikimedia.org/wiki/File:StAntonino-pano.jpg | CC BY-SA 3.0 | Pierre Bona
+highlights/corte-5.jpg | https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_du_Tavignano_Refuge_de_Campiglione.jpg | CC BY-SA 4.0 | Rémih

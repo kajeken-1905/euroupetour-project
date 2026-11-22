@@ -1,0 +1,102 @@
+{
+ "giverny-h5": [
+  "Église Sainte-Radegonde, Giverny",
+  "fr:Église Sainte-Radegonde de Giverny"
+ ],
+ "giverny-h6": [
+  "Château des Tourelles, Vernon",
+  "fr:Château des Tourelles (Vernon)"
+ ],
+ "fontainebleau-h5": [
+  "Château de Vaux-le-Vicomte, Maincy",
+  "Vaux-le-Vicomte"
+ ],
+ "fontainebleau-h6": [
+  "Moret-sur-Loing",
+  "Moret-sur-Loing"
+ ],
+ "chartres-h5": [
+  "Église Saint-Pierre, Chartres",
+  "fr:Église Saint-Pierre de Chartres"
+ ],
+ "chartres-h6": [
+  "Musée des Beaux-Arts, Chartres",
+  "fr:Musée des Beaux-Arts de Chartres"
+ ],
+ "mont-saint-michel-h5": [
+  "Église Saint-Pierre, Le Mont-Saint-Michel",
+  "fr:Église Saint-Pierre du Mont-Saint-Michel"
+ ],
+ "le-puy-en-velay-h5": [
+  "Musée Crozatier, Le Puy-en-Velay",
+  "Musée Crozatier"
+ ],
+ "le-puy-en-velay-h6": [
+  "Forteresse de Polignac, Polignac",
+  "fr:Château de Polignac (Haute-Loire)"
+ ],
+ "arcachon-h5": [
+  "Basilique Notre-Dame, Arcachon",
+  "fr:Basilique Notre-Dame d'Arcachon"
+ ],
+ "arcachon-h6": [
+  "Réserve ornithologique du Teich",
+  "fr:Réserve ornithologique du Teich"
+ ],
+ "perpignan-h5": [
+  "Musée Hyacinthe Rigaud, Perpignan",
+  "fr:Musée Hyacinthe-Rigaud"
+ ],
+ "perpignan-h6": [
+  "Abbaye de Saint-Michel-de-Cuxa",
+  "fr:Abbaye Saint-Michel de Cuxa"
+ ],
+ "collioure-h5": [
+  "Musée d'Art moderne, Collioure",
+  "fr:Musée d'Art moderne de Collioure"
+ ],
+ "aigues-mortes-h5": [
+  "Église Notre-Dame-des-Sablons, Aigues-Mortes",
+  "fr:Église Notre-Dame-des-Sablons d'Aigues-Mortes"
+ ],
+ "aigues-mortes-h6": [
+  "Tour Carbonnière, Saint-Laurent-d'Aigouze",
+  "fr:Tour Carbonnière"
+ ],
+ "les-baux-de-provence-h5": [
+  "Val d'Enfer, Les Baux-de-Provence",
+  "Val d'Enfer"
+ ],
+ "cassis-h5": [
+  "Port-Miou, Cassis",
+  "fr:Calanque de Port-Miou"
+ ],
+ "cassis-h6": [
+  "Eden Théâtre, La Ciotat",
+  "fr:L'Eden Théâtre"
+ ],
+ "cannes-h5": [
+  "Marché Forville, Cannes",
+  "fr:Marché Forville"
+ ],
+ "cannes-h6": [
+  "Musée des Explorations du Monde, Cannes",
+  "fr:Musée des Explorations du monde"
+ ],
+ "ajaccio-h5": [
+  "Cathédrale Santa Maria Assunta, Ajaccio",
+  "Ajaccio Cathedral"
+ ],
+ "bonifacio-h5": [
+  "Cimetière marin, Bonifacio",
+  "fr:Cimetière marin de Bonifacio"
+ ],
+ "bonifacio-h6": [
+  "Phare de Pertusato, Bonifacio",
+  "fr:Phare de Pertusato"
+ ],
+ "calvi-h5": [
+  "Cathédrale Saint-Jean-Baptiste, Calvi",
+  "Calvi Cathedral"
+ ]
+}

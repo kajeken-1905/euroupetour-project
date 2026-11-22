@@ -9882,7 +9882,21 @@ export const cities: City[] = [
         description: { ko: "르퓌의 손뜨개 보빈 레이스 전통을 보여 주는 국립 레이스 공방입니다.", en: "The national conservatory of Le Puy’s bobbin-lace tradition." },
         image: "/highlights/le-puy-en-velay-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Atelier%20Conservatoire%20National%20de%20la%20Dentelle%20Le%20Puy",
-      }
+      },
+      {
+        id: "le-puy-en-velay-h5",
+        name: { ko: "크로자티에 박물관", en: "Musée Crozatier" },
+        description: { ko: "1868년 문을 연 박물관으로, 블레·오트루아르 지역의 미술품과 고고학 유물을 전시합니다. 2010~2018년 크게 고쳐 다시 열었습니다.", en: "A museum opened in 1868 with art and archaeology from the Velay and Haute-Loire, reopened in 2018 after a major renovation." },
+        image: "/highlights/le-puy-en-velay-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Crozatier%20Le%20Puy-en-Velay",
+      },
+      {
+        id: "le-puy-en-velay-h6",
+        name: { ko: "폴리냐크 성", en: "Château de Polignac" },
+        description: { ko: "르퓌 근처 폴리냐크 마을의 언덕 위에 선 중세 성채로, 르퓌 분지가 내려다보입니다.", en: "A medieval fortress on a hill in the village of Polignac near Le Puy, looking over the Le Puy basin." },
+        image: "/highlights/le-puy-en-velay-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Polignac%20Haute-Loire",
+      },
     ],
   },
   {
@@ -9991,7 +10005,21 @@ export const cities: City[] = [
         description: { ko: "프랑스에서 손꼽히게 높은 바다 절벽 위를 달리는 전망 도로입니다. 차가 필요합니다.", en: "A panoramic road along some of France’s highest sea cliffs; you need a car." },
         image: "/highlights/cassis-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cap%20Canaille",
-      }
+      },
+      {
+        id: "cassis-h5",
+        name: { ko: "포르미우 칼랑크", en: "Calanque de Port-Miou" },
+        description: { ko: "시내 끝에서 걸어서 닿는 가장 동쪽의 칼랑크로, 1.4km 길이의 좁은 만에 작은 배들이 정박해 있습니다.", en: "The easternmost calanque, walkable from the edge of town: a 1.4 km inlet lined with small boats." },
+        image: "/highlights/cassis-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Calanque%20de%20Port-Miou",
+      },
+      {
+        id: "cassis-h6",
+        name: { ko: "라시오타 에덴 극장", en: "Eden Théâtre, La Ciotat" },
+        description: { ko: "1889년 문을 연 이웃 도시 라시오타의 극장으로, 1895년 뤼미에르 형제의 영화를 상영했고 지금도 영화를 트는 세계에서 가장 오래된 영화관입니다.", en: "The theatre in neighbouring La Ciotat, opened in 1889, which showed the Lumière brothers’ films in 1895 and is the oldest cinema in the world still operating." },
+        image: "/highlights/cassis-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Eden%20Th%C3%A9%C3%A2tre%20La%20Ciotat",
+      },
     ],
   },
   {
@@ -13191,7 +13219,21 @@ export const cities: City[] = [
         image: "/highlights/les-baux-de-provence-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Monast%C3%A8re%20Saint-Paul-de-Mausole",
         group: { ko: "근교", en: "Nearby" },
-      }
+      },
+      {
+        id: "les-baux-de-provence-h5",
+        name: { ko: "발 당페르", en: "Val d’Enfer" },
+        description: { ko: "물에 깎인 흰 석회암 바위가 기이한 모양으로 늘어선 마을 아래 골짜기입니다.", en: "The valley below the village, cut by water into strange shapes of white limestone." },
+        image: "/highlights/les-baux-de-provence-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Val%20d%27Enfer%20Les%20Baux-de-Provence",
+      },
+      {
+        id: "les-baux-de-provence-h6",
+        name: { ko: "이브 브레예 미술관", en: "Musée Yves Brayer" },
+        description: { ko: "마을 골목의 미술관으로, 프로방스 풍경을 즐겨 그린 구상 화가 이브 브레예(1907~1990)의 작품을 전시합니다.", en: "A museum in the village lanes showing the work of the figurative painter Yves Brayer (1907–1990)." },
+        image: "/highlights/les-baux-de-provence-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Yves%20Brayer%20Les%20Baux",
+      },
     ],
   },
   {
@@ -18825,7 +18867,21 @@ export const cities: City[] = [
         description: { ko: "인상주의와 그 영향을 받은 작품을 기획 전시하는 미술관입니다.", en: "A museum of temporary exhibitions on Impressionism and its legacy." },
         image: "/highlights/giverny-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20impressionnismes%20Giverny",
-      }
+      },
+      {
+        id: "giverny-h5",
+        name: { ko: "생트라드공드 성당과 모네의 묘", en: "Sainte-Radegonde Church & Monet’s grave" },
+        description: { ko: "로마네스크 시대에 기원을 둔 마을 성당으로, 둘러싼 묘지에 모네와 가족이 묻혀 있습니다. 모네의 집에서 걸어서 갑니다.", en: "The village church of Romanesque origin; Monet and his family are buried in its churchyard, a short walk from his house." },
+        image: "/highlights/giverny-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%89glise%20Sainte-Radegonde%20Giverny",
+      },
+      {
+        id: "giverny-h6",
+        name: { ko: "베르농", en: "Vernon" },
+        description: { ko: "센강 건너편 이웃 도시로, 지베르니로 가는 기차가 서는 베르농-지베르니역이 있습니다. 강가에 13세기 투렐 성이 남아 있습니다.", en: "The neighbouring town across the Seine, with Vernon–Giverny station for trains to Giverny and the 13th-century Château des Tourelles on the riverbank." },
+        image: "/highlights/giverny-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20des%20Tourelles%20Vernon",
+      },
     ],
   },
   {
@@ -18867,7 +18923,21 @@ export const cities: City[] = [
         description: { ko: "밀레·루소 등 바르비종파 화가들이 살던 숲가 마을입니다.", en: "The forest-edge village of Millet, Rousseau and the Barbizon painters." },
         image: "/highlights/fontainebleau-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Barbizon",
-      }
+      },
+      {
+        id: "fontainebleau-h5",
+        name: { ko: "보르비콩트 성", en: "Vaux-le-Vicomte" },
+        description: { ko: "1658~1661년 재무장관 푸케를 위해 지은 바로크 성으로, 건축가 르 보, 정원사 르 노트르, 화가 르 브룅이 처음 함께 일한 곳입니다. 믈룅 근처에 있습니다.", en: "The Baroque château built in 1658–1661 for finance minister Fouquet, where Le Vau, Le Nôtre and Le Brun first worked together; near Melun." },
+        image: "/highlights/fontainebleau-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Vaux-le-Vicomte",
+      },
+      {
+        id: "fontainebleau-h6",
+        name: { ko: "모레쉬르루앙", en: "Moret-sur-Loing" },
+        description: { ko: "루앙강과 센강이 만나는 곳의 작은 마을로, 모네·르누아르·시슬레가 그림을 그렸습니다. 퐁텐블로에서 기차로 갑니다.", en: "A small town where the Loing meets the Seine, painted by Monet, Renoir and Sisley; reached by train from Fontainebleau." },
+        image: "/highlights/fontainebleau-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moret-sur-Loing",
+      },
     ],
   },
   {
@@ -18909,7 +18979,21 @@ export const cities: City[] = [
         description: { ko: "대성당과 건물들에 밤마다 빛을 비추는 조명 행사입니다.", en: "Night-time light projections on the cathedral and buildings." },
         image: "/highlights/chartres-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chartres%20en%20Lumi%C3%A8res",
-      }
+      },
+      {
+        id: "chartres-h5",
+        name: { ko: "생피에르 성당", en: "Saint-Pierre Church" },
+        description: { ko: "옛 생페르앙발레 수도원의 성당으로, 수도원의 흔적은 7세기까지 거슬러 올라갑니다. 1840년 역사 기념물이 됐습니다.", en: "The church of the former abbey of Saint-Père-en-Vallée, whose remains go back to the 7th century; a historic monument since 1840." },
+        image: "/highlights/chartres-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%89glise%20Saint-Pierre%20Chartres",
+      },
+      {
+        id: "chartres-h6",
+        name: { ko: "샤르트르 미술관", en: "Musée des Beaux-Arts de Chartres" },
+        description: { ko: "대성당 바로 옆 옛 주교관에 있는 시립 미술관으로, 회화·조각·가구 등을 전시합니다.", en: "The city art museum in the former bishop’s palace right beside the cathedral, with paintings, sculpture and furniture." },
+        image: "/highlights/chartres-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Beaux-Arts%20de%20Chartres",
+      },
     ],
   },
   {
@@ -19618,7 +19702,21 @@ export const cities: City[] = [
         description: { ko: "만 건너편 반도 끝 마을로, 굴 오두막에서 굴과 화이트 와인을 맛봅니다.", en: "The village at the tip of the peninsula across the bay—oysters and white wine at the oyster shacks." },
         image: "/highlights/arcachon-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cap%20Ferret",
-      }
+      },
+      {
+        id: "arcachon-h5",
+        name: { ko: "노트르담 다르카숑 바실리카", en: "Notre-Dame d’Arcachon" },
+        description: { ko: "16세기 예배당을 18세기에 옮겨 지은 ‘선원들의 예배당’에 19세기 성당을 이어 붙인 바실리카로, 지금은 유리벽으로 이어져 있습니다.", en: "A basilica built in the 19th century onto the Sailors’ Chapel, a 16th-century chapel moved here in the 18th; the two are now joined by a glass wall." },
+        image: "/highlights/arcachon-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20d%27Arcachon",
+      },
+      {
+        id: "arcachon-h6",
+        name: { ko: "르테슈 조류 보호구", en: "Le Teich Bird Reserve" },
+        description: { ko: "아르카숑만 안쪽의 110ha 보호구로, 산책로와 관찰 오두막에서 철새를 봅니다.", en: "A 110-hectare reserve at the head of Arcachon Bay, with trails and hides for watching migrating birds." },
+        image: "/highlights/arcachon-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=R%C3%A9serve%20ornithologique%20du%20Teich",
+      },
     ],
   },
   {
@@ -20065,7 +20163,21 @@ export const cities: City[] = [
         description: { ko: "제노바 시대 성채 옆 옛 항구로, 어선과 카페가 모여 있습니다.", en: "The old harbour beside the Genoese citadel, with fishing boats and cafés." },
         image: "/highlights/ajaccio-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Citadelle%20d%27Ajaccio",
-      }
+      },
+      {
+        id: "ajaccio-h5",
+        name: { ko: "아작시오 대성당", en: "Ajaccio Cathedral" },
+        description: { ko: "1593년 완성된 바로크 양식 대성당으로, 1771년 나폴레옹이 세례를 받은 곳입니다.", en: "The Baroque cathedral completed in 1593, where Napoleon was baptised in 1771." },
+        image: "/highlights/ajaccio-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cath%C3%A9drale%20Notre-Dame-de-l%27Assomption%20Ajaccio",
+      },
+      {
+        id: "ajaccio-h6",
+        name: { ko: "포슈 광장", en: "Place Foch" },
+        description: { ko: "구항구 앞 야자수 광장으로, 1850년 세운 제1통령 나폴레옹 동상이 서 있습니다.", en: "The palm-lined square by the old port, with the 1850 monument to Napoleon as First Consul." },
+        image: "/highlights/ajaccio-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Place%20Foch%20Ajaccio",
+      },
     ],
   },
   {
@@ -20107,7 +20219,21 @@ export const cities: City[] = [
         description: { ko: "보트로 가는 국립 자연 보호 구역의 화강암 섬들로, 맑은 바다에서 수영합니다.", en: "Granite islands in a nature reserve reached by boat, with crystal-clear water for swimming." },
         image: "/highlights/bonifacio-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%8Eles%20Lavezzi",
-      }
+      },
+      {
+        id: "bonifacio-h5",
+        name: { ko: "바다 묘지", en: "Marine Cemetery" },
+        description: { ko: "절벽 위 생프랑수아 성당 옆의 묘지로, 작은 예배당 같은 묘들이 바다를 향해 늘어서 있습니다. 해마다 50만 명이 찾습니다.", en: "The cemetery on the cliffs by Saint-François church, its chapel-like tombs facing the sea; some 500,000 people visit each year." },
+        image: "/highlights/bonifacio-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cimeti%C3%A8re%20marin%20Bonifacio",
+      },
+      {
+        id: "bonifacio-h6",
+        name: { ko: "페르투사토 등대", en: "Pertusato Lighthouse" },
+        description: { ko: "보니파시오 남동쪽 4km 곶 끝의 등대로, 절벽 위 길을 걸어 가며 구시가와 사르데냐를 바라봅니다.", en: "The lighthouse on the cape 4 km south-east of Bonifacio, reached on a clifftop path with views back to the old town and over to Sardinia." },
+        image: "/highlights/bonifacio-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Phare%20de%20Pertusato",
+      },
     ],
   },
   {
@@ -20149,7 +20275,21 @@ export const cities: City[] = [
         description: { ko: "등대가 선 곶과 작은 만들로, 해안길을 걸어 갑니다.", en: "The lighthouse headland and its little coves, reached on a coastal path." },
         image: "/highlights/calvi-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Pointe%20de%20la%20Revellata",
-      }
+      },
+      {
+        id: "calvi-h5",
+        name: { ko: "생장바티스트 성당", en: "Saint-Jean-Baptiste Cathedral" },
+        description: { ko: "성채 꼭대기의 옛 대성당으로, 국가 기념물입니다.", en: "The former cathedral at the top of the citadel, a national monument." },
+        image: "/highlights/calvi-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cath%C3%A9drale%20Saint-Jean-Baptiste%20Calvi",
+      },
+      {
+        id: "calvi-h6",
+        name: { ko: "발라뉴 언덕 마을", en: "Balagne hill villages" },
+        description: { ko: "칼비 뒤 언덕의 마을들로, ‘프랑스에서 가장 아름다운 마을’ 산탄토니노와 공방 마을 피냐가 대표적입니다.", en: "The villages in the hills behind Calvi, notably Sant’Antonino, one of the Plus Beaux Villages de France, and Pigna." },
+        image: "/highlights/calvi-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sant%27Antonino%20Corsica",
+      },
     ],
   },
   {
@@ -20252,7 +20392,14 @@ export const cities: City[] = [
         image: "/highlights/corte-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gorges%20de%20la%20Restonica",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      }
+      },
+      {
+        id: "corte-h5",
+        name: { ko: "타비냐노 계곡", en: "Tavignano valley" },
+        description: { ko: "코르테에서 바로 시작하는 강 협곡 산책로로, 맑은 물웅덩이를 따라 걷습니다.", en: "A river-gorge trail starting right from Corte, following clear pools upstream." },
+        image: "/highlights/corte-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gorges%20du%20Tavignano%20Corte",
+      },
     ],
   },
   {
@@ -20847,7 +20994,21 @@ export const cities: City[] = [
         description: { ko: "중세 상인 거래소 건물 앞의 광장으로 카페가 모여 있습니다.", en: "The square by the medieval merchants’ exchange, lined with cafés." },
         image: "/highlights/perpignan-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Loge%20Perpignan",
-      }
+      },
+      {
+        id: "perpignan-h5",
+        name: { ko: "이아생트 리고 미술관", en: "Musée Hyacinthe-Rigaud" },
+        description: { ko: "페르피냥 출신 궁정 화가 리고의 초상화와 카탈루냐 고딕 미술, 마욜·피카소의 작품을 전시합니다.", en: "Portraits by court painter Hyacinthe Rigaud, Catalan Gothic art and works by Maillol and Picasso." },
+        image: "/highlights/perpignan-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Hyacinthe%20Rigaud%20Perpignan",
+      },
+      {
+        id: "perpignan-h6",
+        name: { ko: "생미셸 드 퀵사 수도원", en: "Saint-Michel de Cuxa Abbey" },
+        description: { ko: "카니구산 기슭의 베네딕토 수도원으로, 성당 일부는 로마네스크 이전 양식이고 12세기 회랑이 남아 있습니다. 프라드 근처에 있습니다.", en: "A Benedictine abbey at the foot of the Canigou near Prades, with a partly pre-Romanesque church and a 12th-century cloister." },
+        image: "/highlights/perpignan-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Abbaye%20Saint-Michel%20de%20Cuxa",
+      },
     ],
   },
   {
@@ -20890,7 +21051,21 @@ export const cities: City[] = [
         description: { ko: "마을 뒤 언덕 위의 16세기 별 모양 요새입니다. 지금은 공사로 닫혀 있어 밖에서만 볼 수 있습니다.", en: "A 16th-century star-shaped fort on the hill behind the village, currently closed for works and seen only from outside." },
         image: "/highlights/collioure-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Fort%20Saint-Elme%20Collioure",
-      }
+      },
+      {
+        id: "collioure-h5",
+        name: { ko: "콜리우르 현대 미술관", en: "Musée d’Art moderne de Collioure" },
+        description: { ko: "1934년 화가 장 페스케가 세운 미술관으로, 1985년부터 시가 운영합니다. 콜리우르를 그린 화가들의 작품을 봅니다.", en: "Founded in 1934 by the painter Jean Peské and run by the town since 1985, with works by artists who painted Collioure." },
+        image: "/highlights/collioure-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20d%27Art%20moderne%20de%20Collioure",
+      },
+      {
+        id: "collioure-h6",
+        name: { ko: "포르방드르", en: "Port-Vendres" },
+        description: { ko: "바로 옆 어항 마을로, 생선·해산물 식당이 많습니다.", en: "The fishing port next door, known for its fish and seafood restaurants." },
+        image: "/highlights/collioure-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Port-Vendres",
+      },
     ],
   },
   {
@@ -21042,7 +21217,21 @@ export const cities: City[] = [
         image: "/highlights/aigues-mortes-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plage%20de%20l%27Espiguette",
         group: { ko: "근교", en: "Nearby" },
-      }
+      },
+      {
+        id: "aigues-mortes-h5",
+        name: { ko: "노트르담데사블롱 성당", en: "Notre-Dame-des-Sablons" },
+        description: { ko: "성벽 안 마을 한가운데의 고딕 성당입니다.", en: "The Gothic church in the middle of the walled town." },
+        image: "/highlights/aigues-mortes-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%89glise%20Notre-Dame-des-Sablons%20Aigues-Mortes",
+      },
+      {
+        id: "aigues-mortes-h6",
+        name: { ko: "카르보니에르 탑", en: "Tour Carbonnière" },
+        description: { ko: "13세기 말 에그모르트를 지키려고 세운 망루로, 마을 북쪽 약 3km 습지 한가운데에 서 있습니다.", en: "A late-13th-century watchtower built to guard Aigues-Mortes, standing in the marshes about 3 km north of the town." },
+        image: "/highlights/aigues-mortes-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tour%20Carbonni%C3%A8re",
+      },
     ],
   },
   {
@@ -21311,6 +21500,20 @@ export const cities: City[] = [
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%8Ele%20Sainte-Marguerite",
         group: { ko: "근교 당일치기", en: "Day trip" },
       },
+      {
+        id: "cannes-h5",
+        name: { ko: "포르빌 시장", en: "Marché Forville" },
+        description: { ko: "르 쉬케 아래의 지붕 덮인 시장으로, 50곳가량의 상인이 채소·생선·치즈를 팝니다.", en: "The covered market below Le Suquet, with about fifty traders selling produce, fish and cheese." },
+        image: "/highlights/cannes-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Forville%20Cannes",
+      },
+      {
+        id: "cannes-h6",
+        name: { ko: "세계 탐험 박물관", en: "Musée des Explorations du Monde" },
+        description: { ko: "르 쉬케 꼭대기, 레랭 수도사들의 중세 성터에 있는 박물관으로, 히말라야·북극·오세아니아 유물과 19세기 프로방스 풍경화를 전시합니다.", en: "A museum in the medieval castle of the Lérins monks atop Le Suquet, with objects from the Himalayas, the Arctic and Oceania and 19th-century Provençal landscapes." },
+        image: "/highlights/cannes-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20des%20Explorations%20du%20Monde%20Cannes",
+      },
     ],
   },
   {
@@ -21503,7 +21706,21 @@ export const cities: City[] = [
         description: { ko: "유럽에서 조수 간만의 차가 가장 큰 만 위로 섬이 떠오릅니다.", en: "The island appears to float above one of Europe's most extreme tidal bays." },
         image: "/highlights/mont-saint-michel-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Baie%20du%20Mont%20Saint-Michel",
-      }
+      },
+      {
+        id: "mont-saint-michel-h5",
+        name: { ko: "생피에르 성당", en: "Saint-Pierre Church" },
+        description: { ko: "그랑드 뤼 중간의 작은 성당으로, 마을의 본당이자 성 미카엘 순례 성소입니다. 지금 모습은 14~17세기에 갖췄습니다.", en: "The small church halfway up the Grande Rue, the village parish church and a pilgrimage sanctuary of St Michael; its present form dates from the 14th–17th centuries." },
+        image: "/highlights/mont-saint-michel-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=%C3%89glise%20Saint-Pierre%20Mont-Saint-Michel",
+      },
+      {
+        id: "mont-saint-michel-h6",
+        name: { ko: "갯벌 건너기 가이드 투어", en: "Guided bay walk" },
+        description: { ko: "썰물 때 공인 가이드와 함께 맨발로 갯벌을 건너는 투어입니다. 조수 간만의 차가 10m가 넘어 혼자 건너면 위험합니다.", en: "A barefoot walk across the sands at low tide with a licensed guide; the tides here rise more than 10 m, so never cross alone." },
+        image: "/highlights/mont-saint-michel-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Travers%C3%A9e%20de%20la%20baie%20du%20Mont-Saint-Michel",
+      },
     ],
   },
   {

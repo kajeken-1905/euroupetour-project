@@ -1,12 +1,9 @@
 {
-  "sofia-h6": null,
   "nicosia-h3": [
     35.17415,
     33.36142,
     "OSM Nominatim: Λήδρας, Νεμπετχανέ, Λευκωσία, Δήμος Λευκωσίας, Επαρχία Λευκω (Wikipedia 33m)"
   ],
-  "dinant-h3": null,
-  "lake-district-h1": null,
   "la-rochelle-h3": [
     46.20169,
     -1.36819,
@@ -32,13 +29,11 @@
     -8.6537,
     "manual 2026-11-08: Moliceiro pier, Canal Central"
   ],
-  "schaan-h5": null,
   "podgorica-h4": [
     42.43947,
     19.25878,
     "OSM Nominatim: old arch bridge over the Ribnica, Stara Varoš"
   ],
-  "borgo-maggiore-h1": null,
   "milan-h8": [
     45.46493,
     9.1862,
@@ -13885,5 +13880,130 @@
     50.21315,
     -5.48107,
     "OSM Nominatim: Barbara Hepworth Museum and Sculpture Garden, Barnoon Hill,  (Wikipedia 56m)"
+  ],
+  "giverny-h5": [
+    49.07755,
+    1.52359,
+    "OSM Nominatim: Église Sainte-Radegonde, Rue Claude Monet, Giverny, Les Ande (Wikipedia 3m)"
+  ],
+  "giverny-h6": [
+    49.09815,
+    1.48847,
+    "OSM Nominatim: Château des Tourelles, Impasse de la Chaussée, Vernonnet, Ve (Wikipedia 6m)"
+  ],
+  "fontainebleau-h5": [
+    48.56587,
+    2.71415,
+    "OSM Nominatim: Château de Vaux-le-Vicomte, Cour d'Honneur, Maincy, Melun, S (Wikipedia 113m)"
+  ],
+  "fontainebleau-h6": [
+    48.36336,
+    2.81352,
+    "OSM Nominatim: Moret-sur-Loing, Moret-Loing-et-Orvanne, Fontainebleau, Sein"
+  ],
+  "chartres-h5": [
+    48.44381,
+    1.4928,
+    "OSM Nominatim: Église Saint-Pierre, Rue Jérôme Pétion, Chartres, Eure-et-Lo (Wikipedia 11m)"
+  ],
+  "chartres-h6": [
+    48.44885,
+    1.48794,
+    "OSM Nominatim: Musée des Beaux-Arts de Chartres, 29, Cloître Notre-Dame, Ch (Wikipedia 16m)"
+  ],
+  "mont-saint-michel-h5": [
+    48.63612,
+    -1.51013,
+    "OSM Nominatim: Église Saint-Pierre, Impasse de la Tour Boucle, Le Mont-Sain (Wikipedia 1m)"
+  ],
+  "le-puy-en-velay-h5": [
+    45.03852,
+    3.88312,
+    "OSM Nominatim: Musée Crozatier, 2, Rue Antoine Martin, Le Puy-en-Velay, Hau (Wikipedia 11m)"
+  ],
+  "le-puy-en-velay-h6": [
+    45.06891,
+    3.86017,
+    "OSM Nominatim: Forteresse de Polignac, Impasse du Pirou, Polignac, Le Puy-e (Wikipedia 30m)"
+  ],
+  "arcachon-h5": [
+    44.66119,
+    -1.1814,
+    "OSM Nominatim: Basilique Notre-Dame, Avenue Rapp, Ville d'Hiver, Arcachon,  (Wikipedia 6m)"
+  ],
+  "arcachon-h6": [
+    44.64679,
+    -1.03596,
+    "OSM Nominatim: Réserve ornithologique du Teich, Le Teich, Arcachon, Gironde (Wikipedia 348m)"
+  ],
+  "perpignan-h5": [
+    42.69795,
+    2.89339,
+    "OSM Nominatim: Musée d'art Hyacinthe-Rigaud, Rue Mailly, Saint-Mathieu, Per (Wikipedia 23m)"
+  ],
+  "perpignan-h6": [
+    42.5949,
+    2.41722,
+    "OSM Nominatim: Abbaye de Saint-Michel de Cuxa, Route de Saint-Michel, Codal (Wikipedia 9m)"
+  ],
+  "collioure-h5": [
+    42.5236,
+    3.08804,
+    "OSM Nominatim: Le musée d’Art Moderne de Collioure, Chemin René Pous, Résid (Wikipedia 212m)"
+  ],
+  "aigues-mortes-h5": [
+    43.5669,
+    4.19053,
+    "OSM Nominatim: Église Notre-Dame-des-Sablons, Grand' Rue Jean Jaurès, Aigue (Wikipedia 3m)"
+  ],
+  "aigues-mortes-h6": [
+    43.59215,
+    4.20937,
+    "OSM Nominatim: Tour Carbonnière, D 46, Saint-Laurent-d'Aigouze, Nîmes, Gard (Wikipedia 6m)"
+  ],
+  "les-baux-de-provence-h5": [
+    43.74961,
+    4.79436,
+    "OSM Nominatim: Val d'Enfer, Route du Val d'Enfer, Carita, Les Baux-de-Prove (Wikipedia 52m)"
+  ],
+  "cassis-h5": [
+    43.20988,
+    5.52205,
+    "OSM Nominatim: Port-Miou, Avenue Notre-Dame, Cassis, Marseille, Bouches-du- (Wikipedia 730m)"
+  ],
+  "cassis-h6": [
+    43.17739,
+    5.61049,
+    "OSM Nominatim: Cinéma L'Eden Théatre, Boulevard Jean Jaurès, La Ciotat, Mar (Wikipedia 29m)"
+  ],
+  "cannes-h5": [
+    43.55213,
+    7.01214,
+    "OSM Nominatim: Marché Forville, Rue Docteur Pierre Gazagnaire, Hautes Valle"
+  ],
+  "cannes-h6": [
+    43.55015,
+    7.0102,
+    "OSM Nominatim: Musée des explorations du monde, Place de la Castre, Hautes  (Wikipedia 19m)"
+  ],
+  "ajaccio-h5": [
+    41.91739,
+    8.73786,
+    "OSM Nominatim: Cathédrale Santa-Maria-Assunta, Rue Saint-Charles, Vieille V (Wikipedia 20m)"
+  ],
+  "bonifacio-h5": [
+    41.38672,
+    9.15038,
+    "OSM Nominatim: Cimetière Marin, Bonifacio / Bunifaziu, Sartène, Corse-du-Su (Wikipedia 26m)"
+  ],
+  "bonifacio-h6": [
+    41.36751,
+    9.18443,
+    "OSM Nominatim: Phare de Pertusato, Saint-Jean, Ciappili, Bonifacio / Bunifa (Wikipedia 2m)"
+  ],
+  "calvi-h5": [
+    42.5683,
+    8.76065,
+    "OSM Nominatim: Cathédrale Saint-Jean-Baptiste, Chjappata San Ghjuvanni, Hau (Wikipedia 9m)"
   ]
 }

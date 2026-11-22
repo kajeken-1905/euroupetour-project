@@ -1,5 +1,5 @@
 """Pin new highlights by hand-made queries: OSM Nominatim coordinate cross-checked with the English Wikipedia
-article coordinate. Usage: python3 geo_pin_check.py targets.json [--write]
+article coordinate (prefix the title with fr: or de: for those Wikipedias). Usage: python3 geo_pin_check.py targets.json [--write]
 targets.json = {"<id>": ["nominatim query", "Wikipedia title"], ...}. Prints the distance between the two;
 --write stores the Nominatim point into geo-manual.json (check the printout first)."""
 import json, math, os, subprocess, sys, time, urllib.parse
@@ -27,7 +27,8 @@ T = json.load(open(sys.argv[1]))
 out = {}
 for k, (q, w) in T.items():
     n = get('https://nominatim.openstreetmap.org/search?' + urllib.parse.urlencode({'q': q, 'format': 'jsonv2', 'limit': 1}))
-    wj = get('https://en.wikipedia.org/w/api.php?' + urllib.parse.urlencode({'action': 'query', 'prop': 'coordinates', 'titles': w, 'redirects': 1, 'format': 'json'}))
+    lang, w = (w.split(':', 1) if w[:3] in ('fr:', 'de:') else ('en', w))
+    wj = get(f'https://{lang}.wikipedia.org/w/api.php?' + urllib.parse.urlencode({'action': 'query', 'prop': 'coordinates', 'titles': w, 'redirects': 1, 'format': 'json'}))
     wc = None
     try:
         for pg in wj['query']['pages'].values():
