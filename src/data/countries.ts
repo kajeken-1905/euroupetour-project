@@ -396,11 +396,11 @@ export const countries: Country[] = [
       background: '#F5F5F5',
       text: '#1A1A1A',
     },
-    cityIds: ['berlin', 'potsdam', 'hamburg', 'lubeck', 'bremen', 'cologne', 'aachen', 'cochem', 'trier', 'frankfurt', 'rudesheim', 'leipzig', 'weimar', 'dresden', 'gorlitz', 'heidelberg', 'stuttgart', 'freiburg', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen', 'lindau'],
+    cityIds: ['berlin', 'potsdam', 'hamburg', 'lubeck', 'schwerin', 'bremen', 'cologne', 'aachen', 'cochem', 'trier', 'frankfurt', 'rudesheim', 'leipzig', 'quedlinburg', 'weimar', 'eisenach', 'dresden', 'gorlitz', 'heidelberg', 'stuttgart', 'freiburg', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen', 'konstanz', 'lindau'],
     cityGroups: [
-      { title: { ko: '북부', en: 'Northern Germany' }, cityIds: ['berlin', 'potsdam', 'hamburg', 'lubeck', 'bremen'] },
-      { title: { ko: '중부', en: 'Central Germany' }, cityIds: ['cologne', 'aachen', 'cochem', 'trier', 'frankfurt', 'rudesheim', 'leipzig', 'weimar', 'dresden', 'gorlitz'] },
-      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'freiburg', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen', 'lindau'] },
+      { title: { ko: '북부', en: 'Northern Germany' }, cityIds: ['berlin', 'potsdam', 'hamburg', 'lubeck', 'schwerin', 'bremen'] },
+      { title: { ko: '중부', en: 'Central Germany' }, cityIds: ['cologne', 'aachen', 'cochem', 'trier', 'frankfurt', 'rudesheim', 'leipzig', 'quedlinburg', 'weimar', 'eisenach', 'dresden', 'gorlitz'] },
+      { title: { ko: '남부', en: 'Southern Germany' }, cityIds: ['heidelberg', 'stuttgart', 'freiburg', 'rothenburg', 'nuremberg', 'bamberg', 'wurzburg', 'regensburg', 'munich', 'berchtesgaden', 'garmisch-partenkirchen', 'fussen', 'konstanz', 'lindau'] },
     ],
   },
   {

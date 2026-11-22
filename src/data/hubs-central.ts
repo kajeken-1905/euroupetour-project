@@ -153,6 +153,23 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['EuroAirport Basel-Mulhouse-Freiburg (BSL)', '유로에어포트 (BSL)', '스위스 바젤|Basel, Switzerland'], FRA()],
     rail: [['Freiburg (Breisgau) Hbf', '프라이부르크 중앙역']],
   },
+  quedlinburg: {
+    air: [['Leipzig/Halle (LEJ)', '라이프치히/할레 공항 (LEJ)', '라이프치히|Leipzig'], ['Berlin Brandenburg (BER)', '베를린 브란덴부르크 공항 (BER)', '베를린|Berlin']],
+    rail: [['Quedlinburg', '크베들린부르크역'], ['Wernigerode', '베르니게로데역', '브로켄행 협궤 열차|narrow-gauge trains to the Brocken']],
+  },
+  schwerin: {
+    air: [['Hamburg (HAM)', '함부르크 공항 (HAM)', '함부르크|Hamburg']],
+    rail: [['Schwerin Hbf', '슈베린 중앙역']],
+  },
+  konstanz: {
+    air: [['Zürich (ZRH)', '취리히 공항 (ZRH)', '스위스 취리히|Zürich, Switzerland'], ['Friedrichshafen (FDH)', '프리드리히스하펜 공항 (FDH)', '프리드리히스하펜|Friedrichshafen']],
+    rail: [['Konstanz', '콘스탄츠역', '구시가와 항구 바로 앞|next to the old town and harbour']],
+    port: [['Konstanz Hafen', '콘스탄츠 항구', '보덴호 유람선|Lake Constance boats']],
+  },
+  eisenach: {
+    air: [['Erfurt-Weimar (ERF)', '에르푸르트-바이마르 공항 (ERF)', '에르푸르트|Erfurt'], FRA()],
+    rail: [['Eisenach', '아이제나흐역']],
+  },
   lindau: {
     air: [['Friedrichshafen (FDH)', '프리드리히스하펜 공항 (FDH)', '프리드리히스하펜|Friedrichshafen'], ['Zürich (ZRH)', '취리히 공항 (ZRH)', '스위스 취리히|Zürich, Switzerland']],
     rail: [

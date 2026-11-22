@@ -1021,6 +1021,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('uber', { ko: '면허 택시 배차', en: 'Licensed taxis via the app' }),
     ],
   },
+  quedlinburg: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 탈레·베르니게로데는 기차로, 브로켄은 베르니게로데에서 협궤 열차로 갑니다.',
+      en: 'Walk the old town; take trains to Thale and Wernigerode, and the narrow-gauge railway from Wernigerode to the Brocken.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  schwerin: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '역에서 구시가와 성까지 걸어서 갑니다. 트램과 버스도 있습니다.',
+      en: 'Walk from the station to the old town and castle; trams and buses also run.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  konstanz: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 라이헤나우·마이나우는 버스로, 메르스부르크는 배로 갑니다.',
+      en: 'Walk the old town; buses run to Reichenau and Mainau, and boats to Meersburg.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  eisenach: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 바르트부르크는 버스를 타거나 숲길을 걸어 오릅니다.',
+      en: 'Walk the old town; take the bus or walk up the forest path to the Wartburg.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   lindau: {
     modes: ['walk', 'bus', 'train', 'ferry'],
     howTo: {

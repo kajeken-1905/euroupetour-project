@@ -122,6 +122,20 @@ export const STAY: Record<string, StayArea[]> = {
     a('세인트 스티븐스 그린·그래프턴 거리', 'St Stephen’s Green / Grafton Street', 'St Stephen’s Green, Dublin', '중심가지만 덜 붐빔|Central, fewer crowds', '식당과 공원이 가까운 중심가입니다.|Central, with restaurants and green space close by.'),
     a('메리언 스퀘어', 'Merrion Square', 'Merrion Square, Dublin', '조용한 중심가|Quiet but central', '트리니티 칼리지와 템플 바가 가깝지만 한적합니다.|Near Trinity College and Temple Bar, yet calm.'),
   ],
+  quedlinburg: [
+    a('구시가에서 묵기', 'In the old town', 'Quedlinburg Altstadt', '처음이라면|First visit', '목조 가옥 호텔이 많고 성 언덕과 역이 걸어서 닿습니다.|Plenty of timber-framed hotels, with Castle Hill and the station on foot.'),
+    a('베르니게로데', 'Wernigerode', 'Wernigerode', '브로켄 거점|Base for the Brocken', '브로켄행 협궤 열차가 출발하는 목조 가옥 마을입니다.|The timber-framed town where the Brocken trains start.'),
+  ],
+  schwerin: [
+    a('구시가 (파펜타이히 주변)', 'Old town (around the Pfaffenteich)', 'Pfaffenteich Schwerin', '처음이라면|First visit', '역과 대성당, 성이 걸어서 닿습니다.|The station, cathedral and castle on foot.'),
+    a('함부르크에서 다녀오기', 'Base in Hamburg', 'Hamburg', '거점에서 다녀오기|Day trip from a base', '함부르크에서 기차로 약 1시간 20분입니다.|About 1 h 20 by train from Hamburg.'),
+  ],
+  konstanz: [
+    a('구시가', 'Old town', 'Konstanz Altstadt', '처음이라면|First visit', '역과 항구, 대성당이 걸어서 닿습니다.|The station, harbour and Minster on foot.'),
+  ],
+  eisenach: [
+    a('구시가 (마르크트 광장 주변)', 'Old town (around the Market Square)', 'Markt Eisenach', '처음이라면|First visit', '박물관과 식당이 모여 있고, 바르트부르크행 버스가 다닙니다.|Museums and restaurants close by, with buses up to the Wartburg.'),
+  ],
   lindau: [
     a('섬 구시가', 'Island old town', 'Lindau Insel', '처음 가는 여행에 추천|Best for a first visit', '항구와 구시가가 걸어서 닿습니다. 장거리 열차는 섬 밖 로이틴역에 서고 섬까지 기차로 몇 분입니다.|The harbour and old town on foot; long-distance trains stop at Reutin on the mainland, a few minutes by train from the island.'),
   ],

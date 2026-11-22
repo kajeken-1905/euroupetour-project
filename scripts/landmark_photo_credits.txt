@@ -5139,3 +5139,30 @@ highlights/riquewihr-3.jpg | https://commons.wikimedia.org/wiki/File:Vineyards_a
 highlights/riquewihr-4.jpg | https://commons.wikimedia.org/wiki/File:Hunawihr_093.JPG | CC BY-SA 4.0 | Bernard Chenal
 highlights/riquewihr-5.jpg | https://commons.wikimedia.org/wiki/File:Kaysersberg.jpg | CC BY-SA 3.0 | – Wladyslaw [Disk.].
 highlights/riquewihr-6.jpg | https://commons.wikimedia.org/wiki/File:Vue_du_ch%C3%A2teau_du_Haut-Koenigsbourg_(Orschwiller).jpg | CC BY-SA 4.0 | Gzen92
+cities/quedlinburg.jpg | https://commons.wikimedia.org/wiki/File:Altstadt_Quedlinburg._IMG_2145WI.jpg | CC BY-SA 4.0 | Kora27
+cities/schwerin.jpg | https://commons.wikimedia.org/wiki/File:2018_-_Schweriner_Schloss_-_1.jpg | CC BY-SA 4.0 | Moahim
+cities/konstanz.jpg | https://commons.wikimedia.org/wiki/File:Hafen_Konstanz_2024_004.jpg | CC BY 4.0 | Sebastian Wallroth
+cities/eisenach.jpg | https://commons.wikimedia.org/wiki/File:Eisenach_Germany_Wartburg-Castle-03.jpg | CC BY-SA 4.0 | CEphoto, Uwe Aranas
+highlights/quedlinburg-1.jpg | https://commons.wikimedia.org/wiki/File:Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg | CC BY-SA 4.0 | Avda
+highlights/quedlinburg-2.jpg | https://commons.wikimedia.org/wiki/File:Marktplatz_Quedlinburg_2017.jpg | CC BY-SA 4.0 | Tobias Paul
+highlights/quedlinburg-3.jpg | https://commons.wikimedia.org/wiki/File:KST_Lyonel_Feininger_Galerie_Jann.jpg | CC BY-SA 3.0 | © Kulturstiftung Sachsen-Anhalt, Christoph Jann
+highlights/quedlinburg-4.jpg | https://commons.wikimedia.org/wiki/File:Bodetal_Harz_Bode_Gorge.jpg | CC BY-SA 4.0 | Philipp Guttmann
+highlights/quedlinburg-5.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Wernigerode_20211225_4.jpg | CC BY-SA 4.0 | Jasnaah
+highlights/quedlinburg-6.jpg | https://commons.wikimedia.org/wiki/File:Dampfzug_am_Brocken_in_Winterlandschaft_(2).jpg | CC BY-SA 2.0 | Markus Trienke
+highlights/schwerin-1.jpg | https://commons.wikimedia.org/wiki/File:2018_-_Schweriner_Schloss_-_1.jpg | CC BY-SA 4.0 | Moahim
+highlights/schwerin-2.jpg | https://commons.wikimedia.org/wiki/File:Henry_the_Lion_Monument_in_front_of_the_Dom._Schwerin,_Germany.jpg | CC BY-SA 3.0 | Ввласенко
+highlights/schwerin-3.jpg | https://commons.wikimedia.org/wiki/File:Staatliches_Museum_Schwerin_nach_Neuer%C3%B6ffnung_2025.jpg | CC BY 4.0 | KulturkompassMV
+highlights/schwerin-4.jpg | https://commons.wikimedia.org/wiki/File:Pfaffenteich_(Schwerin).jpg | Public domain | Rosentod
+highlights/schwerin-5.jpg | https://commons.wikimedia.org/wiki/File:Schelfstadt.jpg | CC BY 3.0 | Rosentod
+highlights/schwerin-6.jpg | https://commons.wikimedia.org/wiki/File:Baudenkmal_Schloss_Ludwigslust_in_Ludwigslust_IMG_8750.jpg | CC BY-SA 3.0 | Losch
+highlights/konstanz-1.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster_Unserer_Lieben_Frau_-_Zwiefalten_01.jpg | CC BY-SA 3.0 | H. Zell
+highlights/konstanz-2.jpg | https://commons.wikimedia.org/wiki/File:Statue_Imperia_9_m_hoch_Konstanz_Hafeneinfahrt_Bodensee_Foto_Wolfgang_Pehlemann_DSCN9085.jpg | CC BY-SA 3.0 de | Wolfgang Pehlemann
+highlights/konstanz-3.jpg | https://commons.wikimedia.org/wiki/File:Petershausen_und_Niederburg,_vom_M%C3%BCnster_Konstanz_20240404_0136.jpg | CC BY-SA 4.0 | Tilman2007
+highlights/konstanz-4.jpg | https://commons.wikimedia.org/wiki/File:InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg | CC BY-SA 4.0 | Martin Steiger
+highlights/konstanz-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Burg_Meersburg_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/eisenach-1.jpg | https://commons.wikimedia.org/wiki/File:Outside_view_of_Wartburg_Castle_(4).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/eisenach-2.jpg | https://commons.wikimedia.org/wiki/File:Bachhaus_Eisenach_-_Flickr_-_tm-md_(19).jpg | CC BY-SA 2.0 | Torsten Maue
+highlights/eisenach-3.jpg | https://commons.wikimedia.org/wiki/File:20040927360DR_Eisenach_Lutherhaus_Lutherplatz_8.jpg | CC BY-SA 4.0 | Jörg Blobelt
+highlights/eisenach-4.jpg | https://commons.wikimedia.org/wiki/File:Georgenkirche_Eisenach_03.jpg | CC BY-SA 4.0 | Immanuel Giel
+highlights/eisenach-5.jpg | https://commons.wikimedia.org/wiki/File:Automobile_welt_eisenach_-_Flickr_-_KlausNahr_(2).jpg | CC BY-SA 2.0 | Klaus Nahr from Germany
+highlights/eisenach-6.jpg | https://commons.wikimedia.org/wiki/File:Drachenschlucht_Eisenach_Juni_2009.jpg | CC BY-SA 4.0 | Bonnlander

@@ -14115,5 +14115,120 @@
     48.24938,
     7.34394,
     "OSM Nominatim: Château du Haut-Kœnigsbourg, Rampe PMR, Schaflager, Orschwil (Wikipedia 37m)"
+  ],
+  "quedlinburg-h1": [
+    51.786,
+    11.13677,
+    "OSM Nominatim: Stiftskirche St. Servatius, 1G, Schloßberg, Quedlinburg, Lan (Wikipedia 7m)"
+  ],
+  "quedlinburg-h2": [
+    51.78911,
+    11.1415,
+    "OSM Nominatim: Marktplatz, Quedlinburg, Landkreis Harz, Sachsen-Anhalt, 064 (Wikipedia 485m)"
+  ],
+  "quedlinburg-h3": [
+    51.78724,
+    11.13612,
+    "OSM Nominatim: Museum Lyonel Feininger, 11, Schloßberg, Quedlinburg, Landkr (Wikipedia 60m)"
+  ],
+  "quedlinburg-h4": [
+    51.73103,
+    11.02637,
+    "OSM Nominatim: Hexentanzplatz, Thale, Landkreis Harz, Sachsen-Anhalt, 06502 (Wikipedia 381m)"
+  ],
+  "quedlinburg-h5": [
+    51.83044,
+    10.79457,
+    "OSM Nominatim: Schloss Wernigerode, Am Schloß, Nöschenrode, Wernigerode, La (Wikipedia 35m)"
+  ],
+  "quedlinburg-h6": [
+    51.79913,
+    10.61564,
+    "OSM Nominatim: Brocken, Wernigerode, Landkreis Harz, Sachsen-Anhalt, 38879, (Wikipedia 193m)"
+  ],
+  "schwerin-h1": [
+    53.62447,
+    11.41817,
+    "OSM Nominatim: Schweriner Schloss, 1, Lennéstraße, Altstadt, Schwerin, Meck (Wikipedia 58m)"
+  ],
+  "schwerin-h2": [
+    53.62972,
+    11.41443,
+    "OSM Nominatim: Schweriner Dom St. Maria und St. Johannes, 2, Am Dom, Altsta (Wikipedia 19m)"
+  ],
+  "schwerin-h3": [
+    53.62651,
+    11.41835,
+    "OSM Nominatim: Staatliches Museum Schwerin, 3, Alter Garten, Altstadt, Schw (Wikipedia 12m)"
+  ],
+  "schwerin-h4": [
+    53.63442,
+    11.41256,
+    "OSM Nominatim: Pfaffenteich, Altstadt, Schwerin, Mecklenburg-Vorpommern, De (Wikipedia 90m)"
+  ],
+  "schwerin-h5": [
+    53.63241,
+    11.4177,
+    "OSM Nominatim: St. Nikolai, Puschkinstraße, Schelfstadt, Schwerin, Mecklenb (Wikipedia 169m)"
+  ],
+  "schwerin-h6": [
+    53.32496,
+    11.4884,
+    "OSM Nominatim: Schloss Ludwigslust, 4b, Schloßfreiheit, Techentin, Ludwigsl (Wikipedia 35m)"
+  ],
+  "konstanz-h1": [
+    47.66336,
+    9.17592,
+    "OSM Nominatim: Münster Unserer Lieben Frau, 2, Münsterplatz, Altstadt, Kons (Wikipedia 35m)"
+  ],
+  "konstanz-h2": [
+    47.66075,
+    9.18111,
+    "OSM Nominatim: Imperia, Stadtgarten, Altstadt, Konstanz, VVG der Stadt Kons (Wikipedia 9m)"
+  ],
+  "konstanz-h3": [
+    47.66529,
+    9.17584,
+    "OSM Nominatim: Niederburg, Altstadt, Konstanz, VVG der Stadt Konstanz, Land (Wikipedia 34m)"
+  ],
+  "konstanz-h4": [
+    47.69564,
+    9.0592,
+    "OSM Nominatim: Reichenau, VVG der Stadt Konstanz, Landkreis Konstanz, Baden (Wikipedia 280m)"
+  ],
+  "konstanz-h5": [
+    47.69385,
+    9.27074,
+    "OSM Nominatim: Burg Meersburg, 10, Schloßplatz, Oberstadt, Meersburg, GVV M (Wikipedia 35m)"
+  ],
+  "eisenach-h1": [
+    50.9659,
+    10.30631,
+    "OSM Nominatim: Wartburg, 1, Auf der Wartburg, Eisenach, Wartburgkreis, Thür (Wikipedia 24m)"
+  ],
+  "eisenach-h2": [
+    50.97141,
+    10.32236,
+    "OSM Nominatim: Bachhaus Eisenach, 21, Frauenplan, Eisenach, Wartburgkreis,  (Wikipedia 20m)"
+  ],
+  "eisenach-h3": [
+    50.97327,
+    10.32016,
+    "OSM Nominatim: Lutherhaus, Lutherplatz, Eisenach, Wartburgkreis, Thüringen, (Wikipedia 12m)"
+  ],
+  "eisenach-h4": [
+    50.9744,
+    10.3196,
+    "OSM Nominatim: Georgenkirche, Markt, Eisenach, Wartburgkreis, Thüringen, 99 (Wikipedia 6m)"
+  ],
+  "eisenach-h5": [
+    50.98122,
+    10.32531,
+    "OSM Nominatim: Automobile Welt Eisenach, 10, Friedrich-Naumann-Straße, Eise"
+  ],
+  "eisenach-h6": [
+    50.94306,
+    10.31217,
+    "OSM Nominatim: Drachenschlucht, Eisenach, Wartburgkreis, Thüringen, Deutsch (Wikipedia 400m)"
   ]
 }
