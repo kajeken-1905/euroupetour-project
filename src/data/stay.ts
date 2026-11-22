@@ -2058,6 +2058,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('슬란베리스', 'Llanberis', 'Llanberis', '스노든산 오르기|Climbing Snowdon', '스노든 등산로와 산악열차가 마을에서 시작하고 호수와 슬레이트 박물관이 있습니다.|The Snowdon path and mountain railway start here, with a lake and the Slate Museum.'),
     a('베드겔레르트', 'Beddgelert', 'Beddgelert', '걷기·작은 마을|Walking, a small village', '두 강이 만나는 돌집 마을로 산책로가 많습니다. 숙소가 적습니다.|A stone-cottage village where two rivers meet, with many trails; few rooms.'),
   ],
+  llangollen: [
+    a('랭골렌 마을', 'Llangollen town', 'Llangollen', '처음이라면|First visit', '디강 다리 주변에 식당과 숙소가 모여 있고 보존 철도역이 가깝습니다.|Restaurants and rooms cluster around the Dee bridge, close to the heritage railway station.'),
+  ],
   tenby: [
     a('성벽 안 구시가', 'Inside the walls', 'Tenby town centre', '항구·해변 걸어서|Harbour and beaches on foot', '항구와 해변, 식당이 가깝습니다. 7~8월에는 일찍 예약해야 합니다.|Close to the harbour, beaches and restaurants; book well ahead for July and August.'),
     a('노스클리프·에스플러네이드', 'North Cliff and the Esplanade', 'The Esplanade, Tenby', '바다 전망|Sea views', '성벽 바로 밖 절벽 위로 큰 호텔과 바다가 보이는 숙소가 많습니다.|Just outside the walls on the cliffs, with larger hotels and sea-view rentals.'),

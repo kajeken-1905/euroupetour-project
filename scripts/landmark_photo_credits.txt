@@ -5166,3 +5166,11 @@ highlights/eisenach-3.jpg | https://commons.wikimedia.org/wiki/File:20040927360D
 highlights/eisenach-4.jpg | https://commons.wikimedia.org/wiki/File:Georgenkirche_Eisenach_03.jpg | CC BY-SA 4.0 | Immanuel Giel
 highlights/eisenach-5.jpg | https://commons.wikimedia.org/wiki/File:Automobile_welt_eisenach_-_Flickr_-_KlausNahr_(2).jpg | CC BY-SA 2.0 | Klaus Nahr from Germany
 highlights/eisenach-6.jpg | https://commons.wikimedia.org/wiki/File:Drachenschlucht_Eisenach_Juni_2009.jpg | CC BY-SA 4.0 | Bonnlander
+cities/llangollen.jpg | https://commons.wikimedia.org/wiki/File:Llangollen_Bridge_-_geograph.org.uk_-_5052401.jpg | CC BY-SA 2.0 | Chris Whippet
+highlights/llangollen-1.jpg | https://commons.wikimedia.org/wiki/File:Pontcysyllte_Aqueduct_from_the_south_end.jpg | CC BY-SA 4.0 | DeFacto
+highlights/llangollen-2.jpg | https://commons.wikimedia.org/wiki/File:Castell_Dinas_Bran,_May_2017.png | CC BY-SA 4.0 | Richard Nevell
+highlights/llangollen-3.jpg | https://commons.wikimedia.org/wiki/File:Steam_and_diesel_at_Llangollen_station_-_geograph.org.uk_-_8298591.jpg | CC BY-SA 2.0 | Gareth James
+highlights/llangollen-4.jpg | https://commons.wikimedia.org/wiki/File:Plas_Newydd,_Llangollen,_Sir_Ddinbych_-_cyn_gartref_i_Eleanor_Butler_a_Sarah_Ponsonby,_Cymru_(Wales)_02.jpg | CC BY-SA 4.0 | Llywelyn2000
+highlights/llangollen-5.jpg | https://commons.wikimedia.org/wiki/File:Valle_Crucis_Abbey_(2011.10.16).jpg | CC BY-SA 4.0 | Geir Hval (www.MacWhale.eu)
+highlights/llangollen-6.jpg | https://commons.wikimedia.org/wiki/File:Horseshoe_Falls_-_geograph.org.uk_-_5870132.jpg | CC BY-SA 2.0 | Stephen McKay
+highlights/llangollen-7.jpg | https://commons.wikimedia.org/wiki/File:Castell_y_Waun,_y_Waun,_Sir_Wrecsam_-_Chirk_Castle,_Wrexham_Borough,_Wales_07.jpg | CC BY-SA 4.0 | Llywelyn2000

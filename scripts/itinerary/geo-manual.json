@@ -14230,5 +14230,40 @@
     50.94306,
     10.31217,
     "OSM Nominatim: Drachenschlucht, Eisenach, Wartburgkreis, Thüringen, Deutsch (Wikipedia 400m)"
+  ],
+  "llangollen-h1": [
+    52.97024,
+    -3.08785,
+    "OSM Nominatim: Pontcysyllte Aqueduct, Llangollen Rural, Pontcysyllte, Wrexh (Wikipedia 35m)"
+  ],
+  "llangollen-h2": [
+    52.9792,
+    -3.15936,
+    "OSM Nominatim: Castell Dinas Brân, Wern Road, Wern Isaf Farm, Geufron, Llan (Wikipedia 14m)"
+  ],
+  "llangollen-h3": [
+    52.97144,
+    -3.17147,
+    "OSM Nominatim: Llangollen Railway Gift Shop, Abbey Road, Geufron, Llangolle (Wikipedia 244m)"
+  ],
+  "llangollen-h4": [
+    52.96714,
+    -3.16553,
+    "OSM Nominatim: Plas Newydd, Butlers Hill, Pengwern, Llangollen, Denbighshir (Wikipedia 5m)"
+  ],
+  "llangollen-h5": [
+    52.98868,
+    -3.18653,
+    "OSM Nominatim: Valle Crucis Abbey, A542, Llantysilio, Llangollen, Denbighsh (Wikipedia 69m)"
+  ],
+  "llangollen-h6": [
+    52.98139,
+    -3.19958,
+    "OSM Nominatim: Horseshoe Falls, Llantysilio, Llangollen, Denbighshire, Cymr (Wikipedia 42m)"
+  ],
+  "llangollen-h7": [
+    52.93504,
+    -3.08961,
+    "OSM Nominatim: Chirk Castle, Castle Road, Rhosywaun, Chirk, Wrexham, Cymru  (Wikipedia 9m)"
   ]
 }

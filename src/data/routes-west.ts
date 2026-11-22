@@ -60,6 +60,7 @@ export const routesWest: RawRoute[] = [
   r('inverness', 'isle-of-skye', 'train', 160, { fb: '카일 오브 로할시역|Kyle of Lochalsh', n: '역에서 다리 건너 스카이섬까지 버스|bus over the bridge onto Skye from the station' }),
   r('cardiff', 'tenby', 'train', 165),
   r('conwy', 'snowdonia', 'train', 30, { fa: '랜디드노 정션역|Llandudno Junction', fb: '베투스이코이드역|Betws-y-Coed' }),
+  r('chester', 'llangollen', 'mixed', 50, { n: '루아본역까지 기차 후 5번 버스|train to Ruabon, then bus 5' }),
   r('belfast', 'derry', 'bus', 110),
   r('belfast', 'derry', 'train', 130),
   r('belfast', 'giants-causeway', 'mixed', 120, { n: '콜레인까지 기차 후 버스|train to Coleraine, then bus' }),

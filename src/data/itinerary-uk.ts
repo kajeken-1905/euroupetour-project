@@ -92,6 +92,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
     ],
   },
   tenby: { days: [['', 4, 6, 5, 1, 2]], trips: [['칼디 섬|Caldey Island', 3]] },
+  llangollen: {"days": [["수로교와 마을|Aqueduct & town", 1, 4, 2], ["디 계곡|Dee Valley", 3, 6, 5]], "trips": [["처크 성|Chirk Castle", 7]]},
   belfast: [3, 5, 2, 4, 6, 1],
   'giants-causeway': [3, 5, 1, 2, 4],
   portsmouth: {"days": [["역사 조선소|Historic Dockyard", 1, 2, 3], ["사우스시|Southsea", 4, 5, 6]]},

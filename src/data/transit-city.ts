@@ -5041,6 +5041,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  llangollen: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '루아본역에서 5번 버스로 오고, 같은 버스가 수로교 근처 트레버에 섭니다. 마을은 걸어서 다닙니다.',
+      en: 'Bus 5 runs from Ruabon station, also stopping at Trevor near the aqueduct; walk around town.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   tenby: {
     modes: ['train', 'bus', 'walk'],
     howTo: {

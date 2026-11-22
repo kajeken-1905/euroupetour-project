@@ -276,6 +276,13 @@ export const visitUk: Record<string, HighlightVisit> = {
   'conwy-h4': v(45, 60, { s: 'https://cadw.gov.wales/visit/places-to-visit/plas-mawr', n: '3월부터 10월까지만 엽니다(11월 초~2월 휴관).|Open March to October only (closed early November to February).', k: '2026-10' }),
   'conwy-h5': v(15, 30, { n: '내셔널 트러스트 소유로, 겨울엔 닫거나 운영 시간이 줄어듭니다.|National Trust; closed or on shorter hours in winter.' }),
   'conwy-h6': v(120, 180),
+  'llangollen-h1': v(60, 90, { b: 'no', n: '건너는 건 무료입니다. 트레버 정류장에서 걸어서 5~10분입니다.|Free to cross; a 5–10 minute walk from the Trevor bus stop.' }),
+  'llangollen-h2': v(90, 120, { b: 'no', n: '가파른 오르막을 걸어 올라갑니다. 무료입니다.|A steep walk up; free.' }),
+  'llangollen-h3': v(90, 150, { n: '여름엔 매일, 겨울엔 주말 위주로 운행합니다.|Daily in summer, mainly weekends in winter.' }),
+  'llangollen-h4': v(45, 60),
+  'llangollen-h5': v(30, 45),
+  'llangollen-h6': v(30, 45, { b: 'no', n: '무료입니다.|Free.' }),
+  'llangollen-h7': v(120, 180),
   // Belfast
   'belfast-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.titanicbelfast.com/', k: '2026-10' }),
   'belfast-h2': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.belfastcity.gov.uk/things-to-do/city-hall', n: FREE, k: '2026-10' }),

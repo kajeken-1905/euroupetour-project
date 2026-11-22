@@ -594,6 +594,13 @@ export const hubsWest: Record<string, RawCityHubs> = {
       ['Llandudno Junction', '랜디드노 정션역', '본선 주요 역|main-line stop'],
     ],
   },
+  llangollen: {
+    air: [
+      ['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester'],
+      ['Liverpool John Lennon (LPL)', '리버풀 존 레넌 공항 (LPL)', '리버풀|Liverpool'],
+    ],
+    rail: [['Ruabon', '루아본역', '5번 버스로 랭골렌|bus 5 to Llangollen']],
+  },
   belfast: {
     air: [
       ['Belfast International (BFS)', '벨파스트 국제공항 (BFS)'],
