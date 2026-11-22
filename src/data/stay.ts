@@ -1706,6 +1706,22 @@ export const STAY: Record<string, StayArea[]> = {
   fontainebleau: [
     a('파리에서 다녀오기', 'Day trip from Paris', 'Gare de Lyon', '당일치기로 많이 감|The usual day trip', '리옹역에서 기차로 40분쯤(퐁텐블로-아봉역)입니다. 오후에는 파리행 기차가 뜸하고, 성은 화요일에 쉽니다.|About 40 minutes by train from Gare de Lyon to Fontainebleau-Avon; fewer trains back in the afternoon, and the château closes on Tuesdays.'),
   ],
+  tours: [
+    a('옛 시가지 (플뤼므로 광장 주변)', 'Vieux-Tours (around Place Plumereau)', 'Place Plumereau Tours', '처음이라면|First visit', '식당과 바가 모여 있고 걸어서 둘러보기 좋습니다.|Restaurants and bars close by, easy to explore on foot.'),
+    a('투르역 주변', 'Around Tours station', 'Gare de Tours', '고성 투어 거점|Base for château trips', '앙부아즈·슈농소·아제르리도행 기차와 투어 버스가 이곳에서 출발합니다.|Trains to Amboise, Chenonceau and Azay-le-Rideau and château tour buses leave from here.'),
+  ],
+  'saint-emilion': [
+    a('마을에서 묵기', 'In the village', 'Saint-Émilion', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁 골목이 조용합니다.|The lanes are quiet in the evening once the day-trippers leave.'),
+    a('보르도에서 다녀오기', 'Base in Bordeaux', 'Bordeaux', '거점에서 다녀오기|Day trip from a base', '보르도에서 기차로 약 30분입니다.|About 30 min by train from Bordeaux.'),
+  ],
+  caen: [
+    a('성과 생피에르 성당 주변', 'Around the castle & Saint-Pierre', 'Château de Caen', '처음이라면|First visit', '성과 두 수도원, 식당가가 걸어서 닿습니다.|The castle, both abbeys and the restaurant streets on foot.'),
+    a('캉역 주변', 'Around Caen station', 'Gare de Caen', '이동이 편함|Easy connections', '바이외·파리행 기차를 타기 좋고, 트램으로 시내에 갑니다.|Handy for trains to Bayeux and Paris, with the tram into town.'),
+  ],
+  riquewihr: [
+    a('마을에서 묵기', 'In the village', 'Riquewihr', '마을에서 묵기|Stay in the village', '당일 손님이 떠난 저녁 골목이 조용합니다.|The lanes are quiet in the evening once the day-trippers leave.'),
+    a('콜마르에서 다녀오기', 'Base in Colmar', 'Colmar', '거점에서 다녀오기|Day trip from a base', '콜마르에서 버스로 약 25분이지만 하루 몇 편뿐입니다.|About 25 min by bus from Colmar, but only a few a day.'),
+  ],
   amboise: [
     a('앙부아즈 구시가', 'Amboise town', 'Château d’Amboise', '차로 고성 여행할 때|For driving to the châteaux', '슈농소·샹보르 등 가운데 고성들과 가깝고 느긋한 분위기입니다. 관광객이 많은 편입니다.|Close to the central châteaux such as Chenonceau and Chambord, with a relaxed feel; touristy.'),
     a('투르', 'Tours', 'Gare de Tours', '기차 여행·숙소와 식당이 많음|Trains, more hotels and food', '숙소와 식당이 훨씬 많고 기차 연결이 좋으며 서쪽 고성으로 가기 편합니다. 역과 플뤼므로 광장 사이가 편합니다.|Far more hotels and restaurants, better trains and easier for the western châteaux; between the station and Place Plumereau is handy.'),

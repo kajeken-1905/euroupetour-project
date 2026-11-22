@@ -5360,6 +5360,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  tours: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 트램 A선이 역과 시내를 잇습니다. 고성은 기차나 투어 버스로 갑니다.',
+      en: 'Walk the centre; tram line A links the station and town. Reach the châteaux by train or tour bus.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'saint-emilion': {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 역에서 마을까지 걸어서 약 20분이고, 포도밭은 차나 자전거, 투어로 다닙니다.',
+      en: 'Walk the village; it is about 20 minutes on foot from the station. Visit the vineyards by car, bike or tour.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  caen: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 트램이 역과 시내를 잇습니다. 메모리알은 버스로 갑니다.',
+      en: 'Walk the centre; trams link the station and town, and a bus runs to the Mémorial.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  riquewihr: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 콜마르행 106번 버스는 하루 몇 편뿐이라 이웃 마을은 걷거나 차로 갑니다.',
+      en: 'Walk the village; bus 106 to Colmar runs only a few times a day, so walk or drive to nearby villages.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   amboise: {
     modes: ['train', 'bus', 'walk'],
     howTo: {

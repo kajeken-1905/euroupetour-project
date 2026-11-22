@@ -95,6 +95,10 @@ export const itineraryFr: Record<string, RawItinerary> = {
   },
   cannes: { days: [['', 5, 3, 6, 1, 2]], trips: [['레랭 제도|Lérins Islands', 4]] },
   'mont-saint-michel': { days: [['', 2, 5, 1, 3, 4]], trips: [['갯벌 건너기|Bay walk', 6]] },
+  tours: {"days": [["옛 시가지|Old town", 2, 3], ["대성당 지구|Cathedral quarter", 1, 4, 5]], "trips": [["아제르리도 성|Azay-le-Rideau", 6], ["랑제 성|Langeais", 7]]},
+  'saint-emilion': {"days": [["", 3, 1, 2, 4]], "trips": [["포도밭 와이너리|Vineyards", 5]]},
+  caen: {"days": [["성과 시내|Castle & centre", 1, 5, 6, 2, 3], ["메모리알|Mémorial", 4]], "trips": [["페가수스 다리|Pegasus Bridge", 7]]},
+  riquewihr: {"days": [["", 1, 2, 3, 4]], "trips": [["카이저스베르크|Kaysersberg", 5], ["오쾨니스부르 성|Haut-Kœnigsbourg", 6]]},
   monaco: { days: [['모나코빌|Monaco-Ville', 10, 1, 2, 5, 3], ['항구와 퐁비에유|Port & Fontvieille', 9, 4, 6, 7, 8]] },
   'monte-carlo': { days: [['', 2, 1, 5, 3, 6, 7, 4]] },
 }

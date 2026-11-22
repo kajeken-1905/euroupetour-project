@@ -349,6 +349,23 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Gare de Calvi', '칼비역']],
   },
 
+  tours: {
+    air: [['Tours Val de Loire (TUF)', '투르 발드루아르 공항 (TUF)'], ORY()],
+    rail: [['Gare de Tours', '투르역', '시내 중심|city centre'], ['Gare de Saint-Pierre-des-Corps', '생피에르데코르역', 'TGV 정차역, 투르역까지 셔틀 열차|TGV station, shuttle trains to Tours']],
+  },
+  'saint-emilion': {
+    air: [['Bordeaux–Mérignac (BOD)', '보르도 메리냑 공항 (BOD)', '보르도|Bordeaux']],
+    rail: [['Gare de Saint-Émilion', '생테밀리옹역', '마을까지 걸어서 약 20분|about 20 min walk to the village'], ['Gare de Libourne', '리부른역']],
+  },
+  caen: {
+    air: [['Caen–Carpiquet (CFR)', '캉 카르피케 공항 (CFR)'], CDG()],
+    rail: [['Gare de Caen', '캉역']],
+    port: [['Ouistreham', '위스트레암 여객터미널', '영국 포츠머스행 페리|ferries to Portsmouth']],
+  },
+  riquewihr: {
+    air: [['EuroAirport Basel-Mulhouse-Freiburg (BSL)', '유로에어포트 바젤 (BSL)', '바젤·뮐루즈|Basel / Mulhouse']],
+    rail: [['Gare de Colmar', '콜마르역', '106번 버스로 약 25분|about 25 min by bus 106']],
+  },
   // —— mc ——
   monaco: {
     air: [NCE('프랑스 니스|Nice, France')],

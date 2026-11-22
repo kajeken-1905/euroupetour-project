@@ -124,4 +124,10 @@ export const routesFr: RawRoute[] = [
   ['paris', 'lille', 'train', 60, true, '파리 북역|Paris Gare du Nord', '릴 플랑드르역|Lille-Flandres', 'TGV'],
   ['london', 'lille', 'train', 82, true, '런던 세인트판크라스역|London St Pancras', '릴 유럽역|Lille-Europe', '유로스타|Eurostar'],
   ['brussels', 'lille', 'train', 35, true, '브뤼셀 미디역|Brussels-Midi', '릴 유럽역|Lille-Europe', 'TGV·유로스타|TGV, Eurostar'],
+  ['colmar', 'riquewihr', 'bus', 25, false, '콜마르|Colmar', '리크비르|Riquewihr', '106번 버스 · 하루 몇 편뿐|bus 106, only a few a day'],
+  ['caen', 'bayeux', 'train', 20, false, '캉역|Caen', '바이외역|Bayeux'],
+  ['paris', 'caen', 'train', 120, false, '파리 생라자르역|Paris Saint-Lazare', '캉역|Caen'],
+  ['bordeaux', 'saint-emilion', 'train', 32, false, '보르도 생장역|Bordeaux Saint-Jean', '생테밀리옹역|Saint-Émilion', '리부른 경유|via Libourne'],
+  ['tours', 'amboise', 'train', 20, false, '투르역|Tours', '앙부아즈역|Amboise'],
+  ['paris', 'tours', 'train', 75, true, '파리 몽파르나스역|Paris Montparnasse', '투르역|Tours', 'TGV · 일부는 생피에르데코르역 도착|TGV; some arrive at Saint-Pierre-des-Corps'],
 ]

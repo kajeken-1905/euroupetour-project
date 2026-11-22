@@ -14005,5 +14005,115 @@
     42.5683,
     8.76065,
     "OSM Nominatim: Cathédrale Saint-Jean-Baptiste, Chjappata San Ghjuvanni, Hau (Wikipedia 9m)"
+  ],
+  "tours-h1": [
+    47.39558,
+    0.69446,
+    "OSM Nominatim: Cathédrale Saint-Gatien, Rue Fleury, Cathédrale, Tours, Indr"
+  ],
+  "tours-h2": [
+    47.39444,
+    0.68173,
+    "OSM Nominatim: Place Plumereau, Vieux Tours, Tours, Indre-et-Loire, Centre- (Wikipedia 489m)"
+  ],
+  "tours-h3": [
+    47.3929,
+    0.68297,
+    "OSM Nominatim: Basilique Saint-Martin, Rue Descartes, Vieux Tours, Tours, I (Wikipedia 22m)"
+  ],
+  "tours-h4": [
+    47.39526,
+    0.69506,
+    "OSM Nominatim: Musée des Beaux-Arts, 18, Place François Sicard, Cathédrale, (Wikipedia 14m)"
+  ],
+  "tours-h5": [
+    47.39707,
+    0.69363,
+    "OSM Nominatim: Château de Tours, Cour de l'Armorial, Cathédrale, Tours, Ind (Wikipedia 4m)"
+  ],
+  "tours-h6": [
+    47.25905,
+    0.46576,
+    "OSM Nominatim: Château d'Azay-le-Rideau, Allée Nord, Le Château, Azay-le-Ri (Wikipedia 31m)"
+  ],
+  "tours-h7": [
+    47.32468,
+    0.40622,
+    "OSM Nominatim: Château de Langeais, Allée des Trois Rois, Le Château, Fouge (Wikipedia 16m)"
+  ],
+  "saint-emilion-h1": [
+    44.89326,
+    -0.15631,
+    "OSM Nominatim: Église souterraine monolithe, Place de l'Église Monolithe, G (Wikipedia 8m)"
+  ],
+  "saint-emilion-h2": [
+    44.89412,
+    -0.15647,
+    "OSM Nominatim: Église collégiale Saint-Emilion, Place Raymond Poincaré, Gua (Wikipedia 2m)"
+  ],
+  "saint-emilion-h3": [
+    44.893,
+    -0.15637,
+    "OSM Nominatim: Ermitage ou Chapelle de la Trinité, Place de l'Église Monoli (Wikipedia 19m)"
+  ],
+  "saint-emilion-h4": [
+    44.89318,
+    -0.15461,
+    "OSM Nominatim: Cloître des Cordeliers, Rue des Cordeliers, Lasserre, Saint- (Wikipedia 22m)"
+  ],
+  "caen-h1": [
+    49.18638,
+    -0.36297,
+    "OSM Nominatim: Mur d'enceinte du Château de Caen, Rue des Fossés du Château (Wikipedia 14m)"
+  ],
+  "caen-h2": [
+    49.18113,
+    -0.37288,
+    "OSM Nominatim: Abbaye aux Hommes, Esplanade Jean-Marie Louvel, Saint-Ouen,  (Wikipedia 60m)"
+  ],
+  "caen-h3": [
+    49.1867,
+    -0.35269,
+    "OSM Nominatim: Abbaye aux Dames, Avenue Reine Mathilde, Le Vaugueux, Saint- (Wikipedia 35m)"
+  ],
+  "caen-h4": [
+    49.19855,
+    -0.38283,
+    "OSM Nominatim: Mémorial, Esplanade Brillaud de Laujardière, La Folie-Couvre (Wikipedia 156m)"
+  ],
+  "caen-h5": [
+    49.18629,
+    -0.36158,
+    "OSM Nominatim: Musée des Beaux Arts, Parvis de l'Accueil, Centre-Ville Anci (Wikipedia 22m)"
+  ],
+  "caen-h6": [
+    49.18401,
+    -0.36073,
+    "OSM Nominatim: Église Saint-Pierre, Boulevard des Alliés, Centre-Ville Anci (Wikipedia 13m)"
+  ],
+  "caen-h7": [
+    49.24238,
+    -0.27412,
+    "OSM Nominatim: Pegasus Bridge, Esplanade Major John Howard, Bénouville, Cae (Wikipedia 29m)"
+  ],
+  "riquewihr-h2": [
+    48.1672,
+    7.29563,
+    "OSM Nominatim: Dolder, Rue du Général de Gaulle, Riquewihr, Colmar-Ribeauvi (Wikipedia 161m)"
+  ],
+  "riquewihr-h4": [
+    48.18142,
+    7.31358,
+    "OSM Nominatim: Hunawihr, Colmar-Ribeauvillé, Haut-Rhin, Collectivité europé (Wikipedia 120m)"
+  ],
+  "riquewihr-h5": [
+    48.15719,
+    7.24109,
+    "OSM Nominatim: Kaysersberg, Kaysersberg-Vignoble, Colmar-Ribeauvillé, Haut-"
+  ],
+  "riquewihr-h6": [
+    48.24938,
+    7.34394,
+    "OSM Nominatim: Château du Haut-Kœnigsbourg, Rampe PMR, Schaflager, Orschwil (Wikipedia 37m)"
   ]
 }

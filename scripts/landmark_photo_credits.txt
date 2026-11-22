@@ -5110,3 +5110,32 @@ highlights/bonifacio-6.jpg | https://commons.wikimedia.org/wiki/File:Phare_de_Pe
 highlights/calvi-5.jpg | https://commons.wikimedia.org/wiki/File:0_Calvi_-_Cath%C3%A9drale_St-Jean-Baptiste_(1).JPG | CC BY-SA 3.0 | Jean-Pol GRANDMONT
 highlights/calvi-6.jpg | https://commons.wikimedia.org/wiki/File:StAntonino-pano.jpg | CC BY-SA 3.0 | Pierre Bona
 highlights/corte-5.jpg | https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_du_Tavignano_Refuge_de_Campiglione.jpg | CC BY-SA 4.0 | Rémih
+cities/tours.jpg | https://commons.wikimedia.org/wiki/File:St_Julien_TOURS_Vo%C3%BBte.jpg | CC BY-SA 3.0 | Reuillois
+cities/saint-emilion.jpg | https://commons.wikimedia.org/wiki/File:La_Vigne_De_Saint_%C3%89milion_(217687993).jpeg | CC BY-SA 3.0 | Amanda Hinault
+cities/caen.jpg | https://commons.wikimedia.org/wiki/File:Mairie_de_Caen_1101.JPG | CC BY-SA 3.0 | Viault
+cities/riquewihr.jpg | https://commons.wikimedia.org/wiki/File:Vignobles_de_Riquewihr.jpg | CC BY 3.0 | Glaurent
+highlights/tours-1.jpg | https://commons.wikimedia.org/wiki/File:Tours_-_Cath%C3%A9drale_Saint-Gatien_-_Exterior_-_02.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/tours-2.jpg | https://commons.wikimedia.org/wiki/File:Tours_-_Place_Plumereau_-_1.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/tours-3.jpg | https://commons.wikimedia.org/wiki/File:Basilique_Saint-Martin_-_int%C3%A9rieur_-_nef_(Tours).jpg | CC BY-SA 4.0 | Gzen92
+highlights/tours-4.jpg | https://commons.wikimedia.org/wiki/File:Tours_-_Porte_du_jardin_du_mus%C3%A9e_des_Beaux-Arts.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/tours-5.jpg | https://commons.wikimedia.org/wiki/File:Tours_-_Ch%C3%A2teau_de_Tours_-_1.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/tours-6.jpg | https://commons.wikimedia.org/wiki/File:Azay-le-Rideaux_Ch%C3%A2teau_d%27Azay-le-Rideau_Ostseite_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/tours-7.jpg | https://commons.wikimedia.org/wiki/File:Chateau_de_Langeais_vu_du_jardin.jpg | CC BY-SA 4.0 | JackyM59
+highlights/saint-emilion-1.jpg | https://commons.wikimedia.org/wiki/File:SE_-_Panoramic_view_of_Saint-Emilion_and_the_Monolithic_Church_bell_tower,_France,_2013.jpg | CC BY-SA 4.0 | Josep M. Gracia
+highlights/saint-emilion-2.jpg | https://commons.wikimedia.org/wiki/File:Saint-%C3%89milion_-_Coll%C3%A9giale_Saint-%C3%89milion_-_cloister.jpg | CC BY-SA 2.0 | londonexpat
+highlights/saint-emilion-3.jpg | https://commons.wikimedia.org/wiki/File:2023_Chapelle_de_la_Trinit%C3%A9_de_Saint-%C3%89milion_(2).jpg | CC BY-SA 4.0 | Chris06
+highlights/saint-emilion-4.jpg | https://commons.wikimedia.org/wiki/File:Clo%C3%AEtre_des_Cordeliers_%C3%A0_Saint_Emilion_(2019).jpg | CC BY-SA 4.0 | Lomer33127
+highlights/saint-emilion-5.jpg | https://commons.wikimedia.org/wiki/File:Saint-Emilion,_ch%C3%A2teau_La_Cotte_2.jpg | CC BY-SA 4.0 | Pascal MOULIN
+highlights/caen-1.jpg | https://www.flickr.com/photos/46767499@N08/15585947315 | BY-SA 2.0 | korova08
+highlights/caen-2.jpg | https://commons.wikimedia.org/wiki/File:Caen_-_Abbaye_aux_Hommes_31.jpg | CC0 | Renhour48
+highlights/caen-3.jpg | https://commons.wikimedia.org/wiki/File:Abbaye_aux_Dames_(Caen)_001.JPG | CC BY-SA 3.0 | Chatsam
+highlights/caen-4.jpg | https://commons.wikimedia.org/wiki/File:Le_M%C3%A9morial_de_Caen.jpg | CC BY-SA 4.0 | François Monier
+highlights/caen-5.jpg | https://commons.wikimedia.org/wiki/File:Caen_-_Musee_Beaux_Arts_1.jpg | CC BY-SA 3.0 | Own work
+highlights/caen-6.jpg | https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Pierre_(Caen).jpg | CC BY-SA 4.0 | Gzen92
+highlights/caen-7.jpg | https://commons.wikimedia.org/wiki/File:Benouville-Pegasus-Bridge-ouverture.JPG | Public domain | Rundvald
+highlights/riquewihr-1.jpg | https://commons.wikimedia.org/wiki/File:Rue_du_General-de-Gaulle_in_Riquewihr_02.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/riquewihr-2.jpg | https://commons.wikimedia.org/wiki/File:Riquewihr_Dolder_Stadtseite_1.jpg | CC BY-SA 4.0 | Zairon
+highlights/riquewihr-3.jpg | https://commons.wikimedia.org/wiki/File:Vineyards_around_Riquewihr_with_houses_2011.jpg | CC BY-SA 4.0 | JopkeB
+highlights/riquewihr-4.jpg | https://commons.wikimedia.org/wiki/File:Hunawihr_093.JPG | CC BY-SA 4.0 | Bernard Chenal
+highlights/riquewihr-5.jpg | https://commons.wikimedia.org/wiki/File:Kaysersberg.jpg | CC BY-SA 3.0 | – Wladyslaw [Disk.].
+highlights/riquewihr-6.jpg | https://commons.wikimedia.org/wiki/File:Vue_du_ch%C3%A2teau_du_Haut-Koenigsbourg_(Orschwiller).jpg | CC BY-SA 4.0 | Gzen92
