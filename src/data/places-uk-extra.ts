@@ -314,4 +314,17 @@ export const placesUKExtra: Place[] = [
   place('oban-cafe-3', 'oban', 'cafe', 'Anchor and Steam', '7 Albany Street, Oban', '올버니 거리의 커피숍. 구글 지도 평점 4.9.', 'Coffee shop on Albany Street. Rated 4.9 on Google Maps.'),
   place('oban-cafe-4', 'oban', 'cafe', 'Julie’s Coffee House', '33 Stafford Street, Oban', '스태퍼드 거리의 커피숍. 구글 지도 평점 4.7.', 'Coffee shop on Stafford Street. Rated 4.7 on Google Maps.'),
   place('oban-cafe-5', 'oban', 'cafe', 'Oban Chocolate Company', '34 Corran Esplanade, Oban', '바닷가 코런 에스플러네이드의 초콜릿 가게 겸 카페. 구글 지도 평점 4.7.', 'Chocolate shop and café on Corran Esplanade. Rated 4.7 on Google Maps.'),
+
+  // —— llangollen: restaurants, bakeries and cafés (2026-11-22) ——
+  place('llangollen-fine_dining-1', 'llangollen', 'fine_dining', 'The Corn Mill', 'Dee Ln, Llangollen LL20 8PN', '디강 가 옛 방앗간 건물의 펍 레스토랑. 구글 지도 평점 4.6.', 'Pub restaurant in an old mill building on the Dee. Rated 4.6 on Google Maps.'),
+  place('llangollen-fine_dining-2', 'llangollen', 'fine_dining', 'Three Eagles', 'Bridge St, Llangollen LL20 8PF', '지중해 요리 레스토랑·바. 구글 지도 평점 4.5.', 'Mediterranean restaurant and bar. Rated 4.5 on Google Maps.'),
+  place('llangollen-fine_dining-3', 'llangollen', 'fine_dining', 'Dee Side Cafe Bistro', 'Dee Ln, Llangollen', '디강 가의 비스트로. 구글 지도 평점 4.5.', 'Bistro on the Dee. Rated 4.5 on Google Maps.'),
+  place('llangollen-fine_dining-4', 'llangollen', 'fine_dining', 'Fouzi\'s Café Bar & Pizzeria', '7 Bridge St, Llangollen', '피자집 겸 카페 바. 구글 지도 평점 4.6.', 'Pizzeria and café bar. Rated 4.6 on Google Maps.'),
+  place('llangollen-fine_dining-5', 'llangollen', 'fine_dining', 'Rani Kitchen', '4-5 Victoria Square, Llangollen', '인도 요리 식당. 구글 지도 평점 4.8.', 'Indian restaurant. Rated 4.8 on Google Maps.'),
+  place('llangollen-bakery-1', 'llangollen', 'bakery', 'Anna\'s Bakery', '7 Oak St, Llangollen LL20 8NR', '동네 빵집. 구글 지도 평점 4.9.', 'Local bakery. Rated 4.9 on Google Maps.'),
+  place('llangollen-cafe-1', 'llangollen', 'cafe', 'The Little Pickle', '18 Bridge St, Llangollen', '브리지 스트리트의 작은 카페. 구글 지도 평점 5.0.', 'Small café on Bridge Street. Rated 5.0 on Google Maps.'),
+  place('llangollen-cafe-2', 'llangollen', 'cafe', 'Finley\'s Cafe & Sandwich Bar', '5 Abbey Rd, Llangollen', '카페 겸 샌드위치 가게. 구글 지도 평점 4.8.', 'Café and sandwich bar. Rated 4.8 on Google Maps.'),
+  place('llangollen-cafe-3', 'llangollen', 'cafe', 'Courtyard Coffee Shop', 'Castle St, Llangollen', '캐슬 스트리트의 커피숍. 구글 지도 평점 4.8.', 'Coffee shop on Castle Street. Rated 4.8 on Google Maps.'),
+  place('llangollen-cafe-4', 'llangollen', 'cafe', 'George\'s Cafe', '4 Market St, Llangollen', '마켓 스트리트의 카페. 구글 지도 평점 4.7.', 'Café on Market Street. Rated 4.7 on Google Maps.'),
+  place('llangollen-cafe-5', 'llangollen', 'cafe', 'Cottage Tearooms & Bistro', '5 Castle St, Llangollen LL20 8PE', '찻집 겸 비스트로. 구글 지도 평점 4.5.', 'Tearoom and bistro. Rated 4.5 on Google Maps.'),
 ]
