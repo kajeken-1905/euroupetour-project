@@ -61,14 +61,19 @@ export const visitUk: Record<string, HighlightVisit> = {
   'windsor-h2': v(20, 30, { c: 'sun,tue,wed', b: 'rec', s: RCT_WINDSOR, n: '성 입장권에 포함됩니다. 성이 화·수요일에 쉬고, 일요일에는 예배만 있어 관광 입장이 없습니다.|Included in the castle ticket. The castle is closed on Tuesdays and Wednesdays, and on Sundays the chapel is open for worship only.', k: '2026-10' }),
   'windsor-h3': v(30, 60),
   'windsor-h4': v(30, 45),
+  'windsor-h5': v(90, 180, { b: 'no', n: '무료입니다.|Free.' }),
+  'windsor-h6': v(10, 15, { b: 'no' }),
   // Canterbury
   'canterbury-h1': v(90, 120, { c: 'daily', s: 'https://www.canterbury-cathedral.org/', n: '일요일에는 성당 안이 12시 30분부터 열립니다. 예배와 행사로 일부 구역이 닫히기도 합니다.|On Sundays the cathedral itself opens at 12:30 pm. Parts may close for services and events.', k: '2026-10' }),
   'canterbury-h2': v(40, 45),
   'canterbury-h3': v(20, 30),
   'canterbury-h4': v(45, 60),
+  'canterbury-h5': v(20, 30, { b: 'no', n: '무료입니다.|Free.' }),
+  'canterbury-h6': v(45, 60, { b: 'no', n: '무료입니다.|Free.' }),
   'dover-h1': v(180, 240, { b: 'rec', s: 'https://www.english-heritage.org.uk/visit/places/dover-castle/', n: '온라인으로 미리 사면 쌉니다. 겨울엔 여는 요일이 줄어들 수 있으니 공식 사이트를 확인하세요.|Cheaper booked online; it may open on fewer days in winter, so check the official site.' }),
   'dover-h2': v(120, 180, { n: '산책로는 무료이고 방문자 센터 주차는 유료입니다.|The path is free; parking at the visitor centre is charged.' }),
   'dover-h3': v(45, 60),
+  'dover-h4': v(60, 90, { n: '내셔널 트러스트 소유로, 겨울엔 닫거나 운영 시간이 줄어듭니다.|National Trust; closed or on shorter hours in winter.' }),
   // Brighton
   'brighton-h1': v(75, 90, { c: 'daily', s: 'https://brightonmuseums.org.uk/visit/royal-pavilion-garden/', k: '2026-10' }),
   'brighton-h2': v(45, 60, { c: 'daily', b: 'no', s: 'https://www.brightonpier.co.uk/', k: '2026-10' }),
@@ -132,6 +137,8 @@ export const visitUk: Record<string, HighlightVisit> = {
   'salisbury-h2': v(60, 90, { s: 'https://www.salisburycathedral.org.uk/', n: '월~토요일 9:30~17:00(마지막 입장 16:15)에 관람하고 일요일은 시간이 다릅니다. 예배·행사로 바뀔 수 있습니다.|Sightseeing Monday–Saturday 9:30–17:00 (last entry 16:15), with different Sunday hours; services and events can change this.', k: '2026-10' }),
   'salisbury-h3': v(45, 60, { c: 'daily', s: 'https://www.english-heritage.org.uk/visit/places/old-sarum/', n: '매일 10:00~17:00(마지막 입장 16:30)입니다.|Open daily 10:00–17:00 (last entry 16:30).', k: '2026-10' }),
   'salisbury-h4': v(60, 90, { b: 'no', s: 'https://www.nationaltrust.org.uk/visit/wiltshire/avebury', n: '거석은 무료로 자유롭게 볼 수 있습니다. 주차장은 유료입니다.|The stones are free to walk among; the car park is paid.', k: '2026-10' }),
+  'salisbury-h5': v(45, 60, { n: '내셔널 트러스트 소유로, 겨울엔 닫거나 운영 시간이 줄어듭니다.|National Trust; closed or on shorter hours in winter.' }),
+  'salisbury-h6': v(90, 120, { n: '여름철에만 엽니다.|Open in summer only.' }),
   // St Ives
   'st-ives-h1': v(30, 45),
   'st-ives-h2': v(60, 90, { c: 'daily', s: 'https://www.tate.org.uk/visit/tate-st-ives', k: '2026-10' }),
@@ -223,6 +230,8 @@ export const visitUk: Record<string, HighlightVisit> = {
   'st-andrews-h2': v(45, 60, { s: 'https://www.historicenvironment.scot/visit/all/st-andrews-cathedral/', n: '유적 경내는 무료로 들어갈 수 있고 탑과 박물관만 유료입니다. 박물관은 정비로 닫혀 있습니다. 겨울 운영 시간은 공식 안내끼리 달라 방문 전에 확인하세요.|The grounds are free; only the tower and museum charge. The museum is closed for maintenance. Official winter hours disagree—check before you go.', k: '2026-10' }),
   'st-andrews-h3': v(30, 60),
   'st-andrews-h4': v(45, 60, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit-a-place/places/st-andrews-castle/prices-times/', n: '온라인으로 사면 더 쌉니다. 2026년 10월 기준 지하 갱도(mine·countermine)는 들어갈 수 없습니다.|Cheaper online. As of October 2026 the mine and countermine are closed to visitors.', k: '2026-10' }),
+  'st-andrews-h5': v(15, 20, { b: 'no' }),
+  'st-andrews-h6': v(60, 90),
   // Inverness
   'inverness-h1': v(120, 180),
   'inverness-h2': v(75, 90, { c: 'daily', b: 'rec', s: 'https://www.historicenvironment.scot/visit/all/urquhart-castle/', k: '2026-10' }),
@@ -253,6 +262,8 @@ export const visitUk: Record<string, HighlightVisit> = {
   'tenby-h2': v(45, 90),
   'tenby-h3': v(180, 240, { c: 'sun', s: 'https://caldeyislandwales.com/', n: '배는 부활절부터 10월까지 날씨가 좋은 날에만 다니고, 일요일은 여름 방학 기간에만 운항합니다. 표는 당일에 텐비 매표소에서만 팝니다.|Boats run from Easter to October in fair weather, on Sundays only in the summer holidays. Tickets are sold on the day at the Tenby kiosk only.', k: '2026-10' }),
   'tenby-h4': v(20, 30),
+  'tenby-h5': v(30, 45, { n: '내셔널 트러스트 소유로, 겨울엔 닫거나 운영 시간이 줄어듭니다.|National Trust; closed or on shorter hours in winter.' }),
+  'tenby-h6': v(15, 20, { b: 'no', n: '무료입니다.|Free.' }),
   // Snowdonia
   'snowdonia-h1': v(300, 420),
   'snowdonia-h2': v(150, 180, { b: 'rec', s: 'https://snowdonrailway.co.uk/', n: '3월 말부터 10월 말까지만 다니고 강풍이 불면 운휴합니다. 주말과 방학에는 일찍 매진됩니다.|Runs from late March to late October only and stops in high winds. Weekends and school holidays sell out early.', k: '2026-10' }),
@@ -264,6 +275,8 @@ export const visitUk: Record<string, HighlightVisit> = {
   'conwy-h2': v(30, 45, { b: 'no', s: 'https://cadw.gov.wales/visit/places-to-visit/conwy-town-walls', n: '무료로 걸을 수 있습니다.|Free to walk.', k: '2026-10', x: [['감시탑~윙 게이트 구간은 안전 공사로 닫혀 있습니다(2027년 부활절 재개방 목표).|The stretch between the Watch Tower and the Wing Gate is closed for safety works (aiming to reopen by Easter 2027).', '2027-03-28']] }),
   'conwy-h3': v(10, 15),
   'conwy-h4': v(45, 60, { s: 'https://cadw.gov.wales/visit/places-to-visit/plas-mawr', n: '3월부터 10월까지만 엽니다(11월 초~2월 휴관).|Open March to October only (closed early November to February).', k: '2026-10' }),
+  'conwy-h5': v(15, 30, { n: '내셔널 트러스트 소유로, 겨울엔 닫거나 운영 시간이 줄어듭니다.|National Trust; closed or on shorter hours in winter.' }),
+  'conwy-h6': v(120, 180),
   // Belfast
   'belfast-h1': v(120, 150, { c: 'daily', b: 'rec', s: 'https://www.titanicbelfast.com/', k: '2026-10' }),
   'belfast-h2': v(30, 60, { c: 'daily', b: 'no', s: 'https://www.belfastcity.gov.uk/things-to-do/city-hall', n: FREE, k: '2026-10' }),
@@ -282,6 +295,8 @@ export const visitUk: Record<string, HighlightVisit> = {
   'derry-h2': v(10, 15),
   'derry-h3': v(30, 45, { c: 'daily', b: 'no', s: 'https://discovernorthernireland.com/things-to-do/the-guildhall-p676211', n: '입장 무료. 가이드 투어(11:00·14:00)만 유료입니다.|Free; only the guided tours (11:00 and 14:00) are paid.', k: '2026-10' }),
   'derry-h4': v(30, 45),
+  'derry-h5': v(30, 45),
+  'derry-h6': v(60, 90),
 
   // Dublin
   'dublin-h1': v(60, 90, { c: 'daily', b: 'rec', s: 'https://www.visittrinity.ie/', n: '켈스의 서와 옛 도서관은 시간 지정 입장입니다. 옛 도서관은 보존 공사로 책 대부분이 서가에서 빠져 있습니다.|The Book of Kells and Old Library are by timed ticket. Most books have been removed from the Old Library shelves for conservation work.', k: '2026-10' }),

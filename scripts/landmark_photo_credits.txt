@@ -5039,3 +5039,18 @@ highlights/alpbach-2.jpg | https://commons.wikimedia.org/wiki/File:St._Oswald_mi
 highlights/alpbach-3.jpg | https://commons.wikimedia.org/wiki/File:Wiedersberger_Horn_0278.jpg | Public domain | Hecki at German Wikipedia
 highlights/alpbach-4.jpg | https://commons.wikimedia.org/wiki/File:Rattenberg_Innufer.jpg | CC BY-SA 3.0 at | Linie29
 highlights/alpbach-5.jpg | https://commons.wikimedia.org/wiki/File:Tiroler_Bauernh%C3%B6fe_2009a.JPG | CC BY 3.0 | Holger.Ellgaard
+highlights/windsor-5.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Great_Park_,_The_Long_Walk_-_geograph.org.uk_-_7773158.jpg | CC BY-SA 2.0 | Jim Osley
+highlights/windsor-6.jpg | https://commons.wikimedia.org/wiki/File:Guildhall,_Windsor,_Inglaterra,_2014-08-12,_DD_15.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/canterbury-5.jpg | https://commons.wikimedia.org/wiki/File:Canterbury_-_St_Martin%27s_-_church_and_churchyard_-_geograph.org.uk_-_3131968.jpg | CC BY-SA 2.0 | Rob Farrow
+highlights/canterbury-6.jpg | https://commons.wikimedia.org/wiki/File:Beaney_Institute_002.jpg | CC BY 3.0 | Storye book
+highlights/dover-4.jpg | https://commons.wikimedia.org/wiki/File:South_Foreland_Lighthouse_St._Margarets_At_Cliffe_1101512_20230813_0007.jpg | CC BY-SA 4.0 | Tilman2007
+highlights/salisbury-5.jpg | https://commons.wikimedia.org/wiki/File:The_Green,_Salisbury_Cathedral_Close_-_geograph.org.uk_-_2674298.jpg | CC BY-SA 2.0 | Len Williams
+highlights/salisbury-6.jpg | https://commons.wikimedia.org/wiki/File:WILTON_HOUSE_DSC_8752.jpg | CC BY-SA 3.0 | Henry Kellner
+highlights/st-andrews-5.jpg | https://commons.wikimedia.org/wiki/File:St_Salvators_chapel_and_north_street_-St_Andrews.jpg | CC BY-SA 2.0 | Andy Hawkins
+highlights/st-andrews-6.jpg | https://commons.wikimedia.org/wiki/File:The_R%26A_World_Golf_Museum,_St_Andrews_with_a_full_view_of_the_building.jpg | CC BY-SA 4.0 | Drkirstyross
+highlights/tenby-5.jpg | https://commons.wikimedia.org/wiki/File:Tudor_Merchant%27s_House,_Tenby_-_geograph.org.uk_-_5173284.jpg | CC BY-SA 2.0 | Derek Voller
+highlights/tenby-6.jpg | https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church,_Tenby_2015-08-01.jpg | CC BY 2.0 | Reading Tom from Reading, UK
+highlights/conwy-5.jpg | https://commons.wikimedia.org/wiki/File:Telford_Road_Bridge,_Conwy._-_geograph.org.uk_-_1724520.jpg | CC BY-SA 2.0 | Tim Marshall
+highlights/conwy-6.jpg | https://commons.wikimedia.org/wiki/File:Gardd_Bodnant_Mai_2023_-_Bodnant_Garden,_Conwy,_Wales;_05.png | CC BY-SA 4.0 | Llywelyn2000
+highlights/derry-5.jpg | https://commons.wikimedia.org/wiki/File:St_Columb%27s_Cathedral.jpg | CC BY-SA 4.0 | Pierrette13
+highlights/derry-6.jpg | https://commons.wikimedia.org/wiki/File:The_Tower_Museum_-_geograph.org.uk_-_4778814.jpg | CC BY-SA 2.0 | Ian S

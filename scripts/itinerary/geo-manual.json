@@ -13740,5 +13740,55 @@
     47.3983437,
     11.9443871,
     "OSM Nominatim: Pfarrkirche Alpbach (de Wikipedia 1m)"
+  ],
+  "windsor-h6": [
+    51.48212,
+    -0.607,
+    "OSM Nominatim: Windsor & Royal Borough Museum, High Street, Clewer New Town (Wikipedia 9m)"
+  ],
+  "canterbury-h5": [
+    51.27805,
+    1.0937,
+    "OSM Nominatim: Saint Martin's Church, North Holmes Road, St. Martin's, Cant (Wikipedia 11m)"
+  ],
+  "canterbury-h6": [
+    51.27967,
+    1.07928,
+    "OSM Nominatim: The Beaney House of Art and Knowledge, 18, High Street, The  (Wikipedia 27m)"
+  ],
+  "salisbury-h5": [
+    51.0668,
+    -1.79831,
+    "OSM Nominatim: Mompesson House, Choristers Square, The Close, Salisbury, Wi (Wikipedia 13m)"
+  ],
+  "salisbury-h6": [
+    51.07804,
+    -1.85963,
+    "OSM Nominatim: Wilton House, Palladian Bridge, Fugglestone St Peter, Wilton (Wikipedia 3m)"
+  ],
+  "st-andrews-h5": [
+    56.34138,
+    -2.79437,
+    "OSM Nominatim: St Salvator's Chapel, North Street, Town Centre, St Andrews, (Wikipedia 1m)"
+  ],
+  "st-andrews-h6": [
+    56.34394,
+    -2.80152,
+    "OSM Nominatim: R&A World Golf Museum, Bruce Embankment, Town Centre, St And (Wikipedia 15m)"
+  ],
+  "tenby-h6": [
+    51.6717,
+    -4.69961,
+    "OSM Nominatim: St. Mary's Church, High Street, Tenby, Pembrokeshire, Cymru  (Wikipedia 43m)"
+  ],
+  "conwy-h6": [
+    53.23138,
+    -3.80089,
+    "OSM Nominatim: Bodnant Garden, Eglwysbach, Eglwys-bach, Conwy, Cymru / Wale (Wikipedia 314m)"
+  ],
+  "derry-h5": [
+    54.99391,
+    -7.32297,
+    "OSM Nominatim: Saint Columb's Cathedral, London Street, The Fountain, Derry (Wikipedia 6m)"
   ]
 }

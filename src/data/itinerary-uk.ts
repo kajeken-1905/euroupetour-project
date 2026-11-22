@@ -39,14 +39,15 @@ export const itineraryUk: Record<string, RawItinerary> = {
   york: [6, 5, 1, 3, 2, 8, 7, 4],
   durham: { days: [['', 4, 1, 2, 3]], trips: [['비미시 박물관|Beamish Museum', 5]] },
   bristol: [3, 4, 2, 7, 6, 5, 1],
-  canterbury: [3, 2, 1, 4],
-  dover: [1, 2, 3],
-  windsor: [4, 1, 2, 3],
+  canterbury: [1, 3, 6, 2, 4, 5],
+  dover: { days: [['', 1, 3, 2]], trips: [['사우스 포어랜드 등대|South Foreland Lighthouse', 4]] },
+  windsor: { days: [['', 1, 2, 6, 4, 3]], trips: [['윈저 그레이트 파크|Windsor Great Park', 5]] },
   salisbury: {
-    days: [['', 2]],
+    days: [['', 2, 5]],
     trips: [
       ['올드 새럼과 스톤헨지|Old Sarum & Stonehenge', 3, 1],
       ['에이브버리|Avebury', 4],
+      ['윌턴 하우스|Wilton House', 6],
     ],
   },
   cotswolds: [5, 4, 1, 2, 3],
@@ -60,7 +61,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
   'st-ives': { days: [['', 3, 1, 2]], trips: [['세인트 마이클스 마운트와 랜즈 엔드|St Michael’s Mount & Land’s End', 4, 5]] },
   glasgow: [5, 1, 3, 2, 7, 4, 6],
   stirling: { days: [['', 1, 3, 2]], trips: [['켈피스|The Kelpies', 4], ['둔 성|Doune Castle', 5]] },
-  'st-andrews': [2, 4, 1, 3],
+  'st-andrews': [2, 4, 5, 6, 1, 3],
   inverness: {
     days: [['', 4, 5]],
     trips: [
@@ -83,17 +84,17 @@ export const itineraryUk: Record<string, RawItinerary> = {
     ],
   },
   cardiff: { days: [['', 1, 3, 2]], trips: [['캐슬 코크와 세인트 페이건스|Castell Coch & St Fagans', 4, 5]] },
-  conwy: [1, 2, 4, 3],
+  conwy: { days: [['', 1, 5, 2, 4, 3]], trips: [['보드넌트 정원|Bodnant Garden', 6]] },
   snowdonia: {
     days: [
       ['스노든과 베투시코이드|Snowdon & Betws-y-Coed', 2, 3, 4],
       ['포트메이리온|Portmeirion', 5],
     ],
   },
-  tenby: { days: [['', 4, 1, 2]], trips: [['칼디 섬|Caldey Island', 3]] },
+  tenby: { days: [['', 4, 6, 5, 1, 2]], trips: [['칼디 섬|Caldey Island', 3]] },
   belfast: [3, 5, 2, 4, 6, 1],
   'giants-causeway': [3, 5, 1, 2, 4],
-  derry: [3, 2, 1, 4],
+  derry: [1, 5, 6, 3, 2, 4],
   dublin: {
     days: [
       ['트리니티와 조지 시대 더블린|Trinity & Georgian Dublin', 1, 12, 13, 14],

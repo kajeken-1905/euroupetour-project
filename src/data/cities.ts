@@ -16498,7 +16498,21 @@ export const cities: City[] = [
         description: { ko: "598년 세워진 수도원 유적입니다.", en: "Ruins of an abbey founded in 598." },
         image: "/highlights/canterbury-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Augustine%27s%20Abbey%20Canterbury",
-      }
+      },
+      {
+        id: "canterbury-h5",
+        name: { ko: "성 마틴 교회", en: "St Martin’s Church" },
+        description: { ko: "영어권에서 가장 오래된 교회로, 지금도 예배를 드리는 잉글랜드에서 가장 오래된 교회 건물입니다. 대성당·성 아우구스티누스 수도원과 함께 세계유산입니다.", en: "The oldest existing church in the English-speaking world and the oldest English church building still in use, part of the World Heritage Site with the cathedral and St Augustine’s Abbey." },
+        image: "/highlights/canterbury-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Martin%27s%20Church%20Canterbury",
+      },
+      {
+        id: "canterbury-h6",
+        name: { ko: "비니 하우스", en: "The Beaney" },
+        description: { ko: "1899년 문을 연 튜더 리바이벌 양식 건물의 캔터베리 시립 박물관·도서관·미술관입니다.", en: "Canterbury’s museum, library and art gallery, in a Tudor Revival building opened in 1899." },
+        image: "/highlights/canterbury-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=The%20Beaney%20Canterbury",
+      },
     ],
   },
   {
@@ -16534,7 +16548,14 @@ export const cities: City[] = [
         description: { ko: "3,500년 전 청동기 시대 배 ‘도버 보트’를 전시한 시립 박물관입니다.", en: "The town museum, home to the 3,500-year-old Bronze Age Dover Boat." },
         image: "/highlights/dover-3.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dover%20Museum",
-      }
+      },
+      {
+        id: "dover-h4",
+        name: { ko: "사우스 포어랜드 등대", en: "South Foreland Lighthouse" },
+        description: { ko: "1843년 지은 흰 절벽 위 등대로, 세계 최초로 전기 불빛을 쓴 등대이자 마르코니가 무선 통신 실험을 한 곳입니다. 지금은 내셔널 트러스트 소유입니다.", en: "An 1843 lighthouse on the White Cliffs, the first to use electric light and the site of Marconi’s pioneering radio experiments, now owned by the National Trust." },
+        image: "/highlights/dover-4.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=South%20Foreland%20Lighthouse",
+      },
     ],
   },
   {
@@ -16576,7 +16597,21 @@ export const cities: City[] = [
         description: { ko: "다리 건너 이튼 칼리지가 있는 마을입니다.", en: "Village across the bridge, home to Eton College." },
         image: "/highlights/windsor-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Eton%20College",
-      }
+      },
+      {
+        id: "windsor-h5",
+        name: { ko: "윈저 그레이트 파크", en: "Windsor Great Park" },
+        description: { ko: "윈저 남쪽의 2,020ha 왕실 공원으로, 오랫동안 윈저성의 사냥터였습니다. 성에서 이어지는 롱 워크 끝으로 숲과 호수가 펼쳐집니다.", en: "A 2,020-hectare royal park south of Windsor, for centuries the castle’s hunting ground, with woods and lakes beyond the end of the Long Walk." },
+        image: "/highlights/windsor-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Windsor%20Great%20Park",
+      },
+      {
+        id: "windsor-h6",
+        name: { ko: "윈저 길드홀", en: "Windsor Guildhall" },
+        description: { ko: "1687년 짓기 시작한 윈저 시청으로, 윈저성 입구로 오르는 캐슬 힐에서 약 100m 떨어진 하이 스트리트에 있습니다.", en: "Windsor’s town hall, begun in 1687, on the High Street about 100 m from Castle Hill and the castle entrance." },
+        image: "/highlights/windsor-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Windsor%20Guildhall",
+      },
     ],
   },
   {
@@ -16618,7 +16653,21 @@ export const cities: City[] = [
         description: { ko: "마을을 둘러싼 세계 최대의 환상열석입니다.", en: "The world's largest stone circle, around a village." },
         image: "/highlights/salisbury-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Avebury%20stone%20circle",
-      }
+      },
+      {
+        id: "salisbury-h5",
+        name: { ko: "몸페슨 하우스", en: "Mompesson House" },
+        description: { ko: "대성당 경내 클로스에 1701년 완성된 저택으로, 1975년부터 내셔널 트러스트 소유입니다.", en: "A house in the Cathedral Close completed in 1701, owned by the National Trust since 1975." },
+        image: "/highlights/salisbury-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mompesson%20House%20Salisbury",
+      },
+      {
+        id: "salisbury-h6",
+        name: { ko: "윌턴 하우스", en: "Wilton House" },
+        description: { ko: "솔즈베리 근처 윌턴의 저택으로, 400년 넘게 펨브로크 백작 가문의 본거지입니다. 중세 윌턴 수도원 자리에 지었습니다.", en: "A country house at Wilton near Salisbury, seat of the Earls of Pembroke for over 400 years, built on the site of medieval Wilton Abbey." },
+        image: "/highlights/salisbury-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wilton%20House",
+      },
     ],
   },
   {
@@ -16969,7 +17018,21 @@ export const cities: City[] = [
         description: { ko: "바닷가 절벽 위 성 유적입니다.", en: "Clifftop castle ruins by the sea." },
         image: "/highlights/st-andrews-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Andrews%20Castle",
-      }
+      },
+      {
+        id: "st-andrews-h5",
+        name: { ko: "성 살바토르 예배당", en: "St Salvator’s Chapel" },
+        description: { ko: "1450년 케네디 주교가 세운 세인트앤드루스 대학교의 후기 고딕 예배당입니다.", en: "The Late Gothic chapel of the University of St Andrews, founded in 1450 by Bishop James Kennedy." },
+        image: "/highlights/st-andrews-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Salvator%27s%20Chapel%20St%20Andrews",
+      },
+      {
+        id: "st-andrews-h6",
+        name: { ko: "R&A 세계 골프 박물관", en: "R&A World Golf Museum" },
+        description: { ko: "R&A 클럽하우스 맞은편의 박물관으로, 중세부터 오늘날까지 골프의 역사를 보여 줍니다. 1990년 문을 열었습니다.", en: "The museum opposite the R&A clubhouse, telling the history of golf from medieval times to the present; opened in 1990." },
+        image: "/highlights/st-andrews-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=R%26A%20World%20Golf%20Museum",
+      },
     ],
   },
   {
@@ -17224,7 +17287,21 @@ export const cities: City[] = [
         description: { ko: "잘 보존된 엘리자베스 시대 저택입니다.", en: "Well-preserved Elizabethan townhouse." },
         image: "/highlights/conwy-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Plas%20Mawr%20Conwy",
-      }
+      },
+      {
+        id: "conwy-h5",
+        name: { ko: "콘위 현수교", en: "Conwy Suspension Bridge" },
+        description: { ko: "토머스 텔퍼드가 1822~1826년 성 옆에 놓은 99.5m 현수교로, 세계 초기의 도로 현수교입니다. 지금은 걸어서만 건넙니다.", en: "Thomas Telford’s 99.5 m suspension bridge beside the castle, built in 1822–1826 and one of the world’s first road suspension bridges; now foot traffic only." },
+        image: "/highlights/conwy-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Conwy%20Suspension%20Bridge",
+      },
+      {
+        id: "conwy-h6",
+        name: { ko: "보드넌트 정원", en: "Bodnant Garden" },
+        description: { ko: "콘위 계곡을 내려다보는 80에이커 정원으로, 1874년 시작해 5대에 걸쳐 가꿨고 1949년 내셔널 트러스트에 기증됐습니다.", en: "An 80-acre garden overlooking the Conwy valley, begun in 1874 and developed by five generations of one family before passing to the National Trust in 1949." },
+        image: "/highlights/conwy-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bodnant%20Garden",
+      },
     ],
   },
   {
@@ -17315,7 +17392,21 @@ export const cities: City[] = [
         description: { ko: "13세기 성벽과 파이브 아치 문입니다.", en: "13th-century walls and Five Arches gate." },
         image: "/highlights/tenby-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tenby%20town%20walls%20Five%20Arches",
-      }
+      },
+      {
+        id: "tenby-h5",
+        name: { ko: "튜더 상인의 집", en: "Tudor Merchant’s House" },
+        description: { ko: "15세기 말 돌로 지은 3층 상인의 집으로, 1층 가게와 2층 살림집, 3층 침실을 당시 모습으로 꾸몄습니다.", en: "A three-storey stone merchant’s house from the late 15th century, with the shop, living quarters and bedrooms furnished as they were." },
+        image: "/highlights/tenby-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tudor%20Merchant%27s%20House%20Tenby",
+      },
+      {
+        id: "tenby-h6",
+        name: { ko: "성모 마리아 교회", en: "St Mary’s Church" },
+        description: { ko: "구시가 한가운데의 교회로, 대부분 15세기에 지었고 첨탑도 15세기에 더해졌습니다.", en: "The church at the heart of the old town, mostly 15th-century, with a 15th-century spire." },
+        image: "/highlights/tenby-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Mary%27s%20Church%20Tenby",
+      },
     ],
   },
   {
@@ -17462,7 +17553,21 @@ export const cities: City[] = [
         description: { ko: "민권 운동의 역사를 담은 벽화 거리입니다.", en: "Murals of the civil rights era." },
         image: "/highlights/derry-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bogside%20murals",
-      }
+      },
+      {
+        id: "derry-h5",
+        name: { ko: "성 콜럼 대성당", en: "St Columb’s Cathedral" },
+        description: { ko: "성벽 안의 성공회 대성당으로, 종교 개혁 뒤 영국·아일랜드에서 처음 지은 성공회 대성당입니다.", en: "The Anglican cathedral inside the walls, the first built in Britain and Ireland after the Reformation." },
+        image: "/highlights/derry-5.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=St%20Columb%27s%20Cathedral%20Derry",
+      },
+      {
+        id: "derry-h6",
+        name: { ko: "타워 박물관", en: "Tower Museum" },
+        description: { ko: "1992년 문을 연 박물관으로, 선사 시대부터 오늘날까지의 데리 역사와 근처에서 난파한 스페인 무적함대 배 라 트리니다드 발렌세라를 보여 줍니다.", en: "A museum opened in 1992 with the story of Derry from prehistory to today and the local Spanish Armada wreck La Trinidad Valencera." },
+        image: "/highlights/derry-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tower%20Museum%20Derry",
+      },
     ],
   },
   {
