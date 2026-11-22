@@ -602,6 +602,24 @@ export const hubsWest: Record<string, RawCityHubs> = {
     bus: [['Foyle Street Bus Station', '포일 스트리트 버스 스테이션']],
   },
 
+  portsmouth: {
+    air: [['Southampton (SOU)', '사우샘프턴 공항 (SOU)', '사우샘프턴|Southampton'], LHR()],
+    rail: [['Portsmouth Harbour', '포츠머스 하버역', '역사 조선소 바로 앞|next to the Historic Dockyard'], ['Portsmouth & Southsea', '포츠머스 앤드 사우스시역']],
+  },
+  penzance: {
+    air: [['Cornwall Airport Newquay (NQY)', '뉴키 콘월 공항 (NQY)', '뉴키|Newquay']],
+    rail: [['Penzance', '펜잔스역', '잉글랜드 최서단 역|England’s westernmost station']],
+    bus: [['Penzance Bus Station', '펜잔스 버스 정류장', '랜즈 엔드행 1번|bus 1 to Land’s End']],
+  },
+  lincoln: {
+    air: [['East Midlands (EMA)', '이스트미들랜즈 공항 (EMA)', '노팅엄|Nottingham']],
+    rail: [['Lincoln Central', '링컨 센트럴역']],
+  },
+  oban: {
+    air: [['Glasgow (GLA)', '글래스고 공항 (GLA)', '글래스고|Glasgow']],
+    rail: [['Oban', '오번역']],
+    port: [['Oban Ferry Terminal', '오번 페리 터미널', '멀섬 크레이그뉴어행 45분|45 min to Craignure, Mull']],
+  },
   // —— ie ——
   dublin: {
     air: [['Dublin (DUB)', '더블린 공항 (DUB)']],

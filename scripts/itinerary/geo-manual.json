@@ -13790,5 +13790,100 @@
     54.99391,
     -7.32297,
     "OSM Nominatim: Saint Columb's Cathedral, London Street, The Fountain, Derry (Wikipedia 6m)"
+  ],
+  "penzance-h1": [
+    50.1184,
+    -5.47765,
+    "moved from st-ives-h4 (2026-11-22)"
+  ],
+  "penzance-h2": [
+    50.06626,
+    -5.71482,
+    "moved from st-ives-h5 (2026-11-22)"
+  ],
+  "portsmouth-h1": [
+    50.80181,
+    -1.10961,
+    "OSM Nominatim: HMS Victory, Main Road, Portsea, Portsmouth, England, PO1 3L (Wikipedia 16m)"
+  ],
+  "portsmouth-h2": [
+    50.8022,
+    -1.10893,
+    "OSM Nominatim: Mary Rose Museum, Main Road, Portsea, Portsmouth, England, P (Wikipedia 5m)"
+  ],
+  "portsmouth-h3": [
+    50.7956,
+    -1.10845,
+    "OSM Nominatim: Spinnaker Tower, The Canalside, Gunwharf Quays, Portsea, Por (Wikipedia 9m)"
+  ],
+  "portsmouth-h5": [
+    50.77816,
+    -1.08921,
+    "OSM Nominatim: Southsea Castle, Southsea Promenade, Southsea, Portsmouth, E (Wikipedia 26m)"
+  ],
+  "portsmouth-h6": [
+    50.80704,
+    -1.08729,
+    "OSM Nominatim: Charles Dickens Birthplace Museum, 393, Old Commercial Road, (Wikipedia 4m)"
+  ],
+  "penzance-h3": [
+    50.041,
+    -5.65127,
+    "OSM Nominatim: Minack Theatre, The Valley, St Levan, Penzance, Kernow / Cor (Wikipedia 58m)"
+  ],
+  "penzance-h5": [
+    50.11476,
+    -5.53149,
+    "OSM Nominatim: Jubilee Pool, Battery Road, Treneere, Gulval, Penzance, Kern (Wikipedia 4m)"
+  ],
+  "penzance-h6": [
+    50.11758,
+    -5.54121,
+    "OSM Nominatim: Penlee House, Wellington Place, Wherrytown, Heamoor, Penzanc (Wikipedia 132m)"
+  ],
+  "lincoln-h1": [
+    53.23429,
+    -0.53624,
+    "OSM Nominatim: Lincoln Cathedral, Minster Yard, Ermine, Lincoln, Lincolnshi (Wikipedia 19m)"
+  ],
+  "lincoln-h2": [
+    53.23493,
+    -0.54101,
+    "OSM Nominatim: Lincoln Castle, Castle Hill, Ermine, Lincoln, Lincolnshire,  (Wikipedia 40m)"
+  ],
+  "lincoln-h3": [
+    53.23342,
+    -0.53854,
+    "OSM Nominatim: Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnsh (Wikipedia 82m)"
+  ],
+  "lincoln-h4": [
+    53.23329,
+    -0.53617,
+    "OSM Nominatim: Medieval Bishop's Palace, Minster Yard, Ermine, Lincoln, Lin (Wikipedia 108m)"
+  ],
+  "oban-h1": [
+    56.41562,
+    -5.46959,
+    "OSM Nominatim: McCaig's Tower, Duncraggan Road, Longsdale, Oban, Argyll and (Wikipedia 30m)"
+  ],
+  "oban-h2": [
+    56.41484,
+    -5.47159,
+    "OSM Nominatim: Oban Distillery, Stafford Street, Town Centre, Oban, Argyll  (Wikipedia 76m)"
+  ],
+  "oban-h3": [
+    56.42656,
+    -5.48456,
+    "OSM Nominatim: Dunollie Castle, Ganavan Road, Little Ganavan, Dunollie, Oba (Wikipedia 21m)"
+  ],
+  "oban-h5": [
+    56.33503,
+    -6.39136,
+    "OSM Nominatim: Iona Abbey, Sràid nam Marbh, Clachanach, Baile Mòr, Argyll a (Wikipedia 169m)"
+  ],
+  "st-ives-h4": [
+    50.21315,
+    -5.48107,
+    "OSM Nominatim: Barbara Hepworth Museum and Sculpture Garden, Barnoon Hill,  (Wikipedia 56m)"
   ]
 }

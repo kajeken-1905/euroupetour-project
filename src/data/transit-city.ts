@@ -5033,6 +5033,46 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  portsmouth: {
+    modes: ['walk', 'bus', 'train', 'ferry'],
+    howTo: {
+      ko: '포츠머스 하버역에서 조선소까지 걸어갑니다. 사우스시 해안은 버스로 가거나 해안을 따라 걷습니다.',
+      en: 'Walk from Portsmouth Harbour station to the dockyard; take a bus or walk the seafront to Southsea.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  penzance: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 랜즈 엔드는 1번 버스로, 세인트 마이클스 마운트는 마라지온까지 버스로 갑니다.',
+      en: 'Walk around town; bus 1 runs to Land’s End, and buses go to Marazion for St Michael’s Mount.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  lincoln: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '역에서 대성당까지는 스티프 힐을 걸어 오르거나 버스를 탑니다. 업힐 지구는 걸어서 다닙니다.',
+      en: 'Walk up Steep Hill from the station or take a bus; the Uphill quarter is easy on foot.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  oban: {
+    modes: ['walk', 'bus', 'ferry', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 역 옆 터미널에서 멀섬행 페리가 떠납니다.',
+      en: 'Walk around town; ferries to Mull leave from the terminal next to the station.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
   derry: {
     modes: ['train', 'bus', 'walk'],
     howTo: {

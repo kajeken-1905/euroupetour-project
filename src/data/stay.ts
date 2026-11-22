@@ -2037,6 +2037,19 @@ export const STAY: Record<string, StayArea[]> = {
     a('포트러시', 'Portrush', 'Portrush', '해변·식당·골프|Beaches, dining, golf', '코즈웨이에서 10km쯤 떨어진 해변 마을로 식당과 숙소가 더 많습니다.|A seaside town about 10 km from the Causeway with more restaurants and rooms.'),
     a('밸리캐슬', 'Ballycastle', 'Ballycastle, County Antrim', '조용한 해안·라슬린섬|Quiet coast, Rathlin Island', '16km쯤 떨어진 조용한 마을로 라슬린섬 배와 페어헤드가 가깝습니다.|A quieter town about 16 km away, close to the Rathlin ferry and Fair Head.'),
   ],
+  portsmouth: [
+    a('거니 워프·올드 포츠머스', 'Gunwharf Quays & Old Portsmouth', 'Gunwharf Quays', '처음이라면|First visit', '역과 조선소, 스피네이커 타워가 걸어서 닿습니다.|The station, the dockyard and the Spinnaker Tower on foot.'),
+    a('사우스시', 'Southsea', 'Southsea', '해안가|Seafront', '디데이 스토리와 사우스시 성이 가깝습니다.|Close to the D-Day Story and Southsea Castle.'),
+  ],
+  penzance: [
+    a('펜잔스 시내', 'Penzance town', 'Penzance', '처음이라면|First visit', '역과 버스 정류장이 가까워 주변을 다니기 좋습니다.|Close to the station and bus station for trips around the area.'),
+  ],
+  lincoln: [
+    a('업힐(대성당 지구)', 'Uphill (Cathedral Quarter)', 'Bailgate Lincoln', '처음이라면|First visit', '대성당과 성 사이 옛 시가지로, 식당과 찻집이 많습니다.|The old quarter between cathedral and castle, with restaurants and tea rooms.'),
+  ],
+  oban: [
+    a('오번 항구 주변', 'Oban harbour front', 'Oban', '처음이라면|First visit', '역·페리 터미널과 식당이 항구에 모여 있습니다.|The station, ferry terminal and restaurants are all on the harbour.'),
+  ],
   derry: [
     a('성벽 안 구시가', 'Inside the walls', 'Walled City, Derry', '걸어서 성벽·식당|Walls and dining on foot', '성벽과 길드홀, 식당이 걸어서 닿습니다.|The walls, the Guildhall and restaurants on foot.'),
   ],

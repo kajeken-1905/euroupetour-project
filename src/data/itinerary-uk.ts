@@ -58,7 +58,7 @@ export const itineraryUk: Record<string, RawItinerary> = {
       ['케직과 얼스워터|Keswick & Ullswater', 4, 5],
     ],
   },
-  'st-ives': { days: [['', 3, 1, 2]], trips: [['세인트 마이클스 마운트와 랜즈 엔드|St Michael’s Mount & Land’s End', 4, 5]] },
+  'st-ives': [3, 1, 4, 2],
   glasgow: [5, 1, 3, 2, 7, 4, 6],
   stirling: { days: [['', 1, 3, 2]], trips: [['켈피스|The Kelpies', 4], ['둔 성|Doune Castle', 5]] },
   'st-andrews': [2, 4, 5, 6, 1, 3],
@@ -94,6 +94,10 @@ export const itineraryUk: Record<string, RawItinerary> = {
   tenby: { days: [['', 4, 6, 5, 1, 2]], trips: [['칼디 섬|Caldey Island', 3]] },
   belfast: [3, 5, 2, 4, 6, 1],
   'giants-causeway': [3, 5, 1, 2, 4],
+  portsmouth: {"days": [["역사 조선소|Historic Dockyard", 1, 2, 3], ["사우스시|Southsea", 4, 5, 6]]},
+  penzance: {"days": [["", 6, 5]], "trips": [["세인트 마이클스 마운트|St Michael’s Mount", 1], ["마우스홀|Mousehole", 4], ["미낙 극장과 랜즈 엔드|Minack Theatre & Land’s End", 3, 2]]},
+  lincoln: {"days": [["", 1, 4, 2, 3, 5]]},
+  oban: {"days": [["", 1, 2, 3]], "trips": [["던스태프니지 성|Dunstaffnage Castle", 4], ["멀섬과 아이오나|Mull & Iona", 5]]},
   derry: [1, 5, 6, 3, 2, 4],
   dublin: {
     days: [

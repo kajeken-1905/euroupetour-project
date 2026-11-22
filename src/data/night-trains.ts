@@ -70,7 +70,7 @@ export const NIGHT_TRAINS: NightTrain[] = [
     operator: 'GWR',
     pass: '인터레일·유레일: 좌석 무료, 침대칸은 패스 적용 안 됨(정가)|Interrail/Eurail: seats covered; sleeper cabins at full fare only',
     url: 'https://www.gwr.com/travelling-with-us/night-riviera-sleeper',
-    lines: [['london', 'st-ives']],
+    lines: [['london', 'penzance'], ['london', 'st-ives']],
     note: '런던 패딩턴–펜잔스. 세인트어스역에서 내려 세인트아이브스선으로 갈아탑니다. 토요일 밤은 운행하지 않습니다.|London Paddington–Penzance; change at St Erth for the St Ives branch. No train on Saturday nights.',
   },
   {
