@@ -17,11 +17,7 @@ export const placesADExtra: Place[] = [
   place('pas-de-la-casa-fine_dining-1', 'pas-de-la-casa', 'fine_dining', 'El Provençal', 'Carrer Catalunya 13, AD200 Pas de la Casa', '프랑스 요리 전문 레스토랑.', 'Restaurant specializing in French cuisine.'),
 
   // —— ordino ——
-  place('ordino-fine_dining-1', 'ordino', 'fine_dining', 'Restaurant Tòpic', 'Carrer Major (entrance), AD300 Ordino', '오르디노 중심가 3층 건물의 레스토랑. 1층은 카페, 테라스가 있습니다.', 'Restaurant in a three-storey building on Ordino’s main street, with a ground-floor café and terrace.'),
-  place('ordino-fine_dining-2', 'ordino', 'fine_dining', 'Vertical Ordino', 'Ordino, AD300, Andorra', '크레프·갈레트가 인기인 오르디노의 레스토랑. 테라스가 있고 글루텐·유당 없는 메뉴가 많습니다.', 'Ordino restaurant known for crêpes and galettes, with a terrace and many gluten- and lactose-free options.'),
-  place('ordino-fine_dining-3', 'ordino', 'fine_dining', 'Restaurant Hotel Gaspà', 'Ordino, AD300, Andorra', '오르디노 가스파 호텔의 레스토랑·바.', 'Restaurant and bar of Hotel Gaspà in Ordino.'),
 
-  place('ordino-bakery-1', 'ordino', 'bakery', 'Fleca Font', 'Ordino (near Hotel La Planada), AD300', '오르디노 마을 중심의 빵집.', 'Bakery in the centre of Ordino village.'),
 
   // —— escaldes-engordany: restaurants, bakeries and cafés (2026-11-21) ——
   place('escaldes-engordany-fine_dining-1', 'escaldes-engordany', 'fine_dining', 'Beç', 'Carrer Copríncep François Mitterrand 2, AD700 Escaldes-Engordany', '미쉐린 가이드에 실린 에스칼데스 중심가의 현대 요리 식당. 구글 지도 평점 4.5.', 'Contemporary restaurant in central Escaldes, listed in the MICHELIN Guide. Rated 4.5 on Google Maps.'),
@@ -67,4 +63,7 @@ export const placesADExtra: Place[] = [
 
   // —— ordino: restaurants, bakeries and cafés (2026-11-21) ——
   place('ordino-fine_dining-4', 'ordino', 'fine_dining', 'La Clota', 'Edifici Prat del Pomer, Avinguda del Casamanya, AD300 Ordino', '오르디노 마을 아래쪽의 식당. 구글 지도 평점 4.7.', 'Restaurant at the lower end of Ordino village. Rated 4.7 on Google Maps.'),
+
+  // —— ordino: restaurants, bakeries and cafés (2026-11-22) ——
+  place('ordino-fine_dining-5', 'ordino', 'fine_dining', 'Restaurant l\'Ensegur', 'Carrer Mossèn Cinto Verdaguer 1, AD300 Ordino', '카탈루냐 요리 레스토랑. 구글 지도 평점 4.7.', 'Catalan restaurant. Rated 4.7 on Google Maps.'),
 ]

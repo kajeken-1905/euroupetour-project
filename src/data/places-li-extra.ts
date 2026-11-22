@@ -21,7 +21,7 @@ export const placesLIExtra: Place[] = [
   place('malbun-fine_dining-1', 'malbun', 'fine_dining', 'Restaurant Vogeli', 'Im Malbun 11, 9497 Triesenberg, Liechtenstein', '말분에서 가장 오래된 호텔 안의 레스토랑. 지역·국제 요리를 내고 해 드는 테라스가 있습니다.', 'Restaurant in Malbun\'s oldest hotel, serving regional and international dishes, with a sun terrace.'),
   place('malbun-fine_dining-2', 'malbun', 'fine_dining', 'Pizzeria Restaurant Gitzihöll', 'Heitastrasse 3, 9497 Malbun', '직접 만든 샐러드 소스를 쓰는 피자가 대표인 말분의 피자집. 화·수요일은 쉽니다.', 'Malbun pizzeria known for pizza made with its homemade salad sauce; closed Tuesdays and Wednesdays.'),
 
-  place('malbun-cafe-1', 'malbun', 'cafe', 'Restaurant Turna', 'Im Malbun 55, 9497 Triesenberg, Liechtenstein', '셰프가 직접 지역 식재료로 요리하는 말분의 레스토랑. 정원과 테라스가 있습니다.', 'Malbun restaurant where the chef cooks with regional ingredients; garden and terrace.'),
+  place('malbun-fine_dining-3', 'malbun', 'fine_dining', 'Restaurant Turna', 'Im Malbun 55, 9497 Triesenberg, Liechtenstein', '셰프가 직접 지역 식재료로 요리하는 말분의 레스토랑. 정원과 테라스가 있습니다.', 'Malbun restaurant where the chef cooks with regional ingredients; garden and terrace.'),
 
   // —— vaduz: restaurants, bakeries and cafés (2026-11-21) ——
   place('vaduz-fine_dining-4', 'vaduz', 'fine_dining', 'Chapter Two', 'Städtle 23, 9490 Vaduz', '미쉐린 가이드에 실린 슈테틀레 거리의 현대 요리 레스토랑.', 'Contemporary restaurant on the Städtle, listed in the MICHELIN Guide.'),
