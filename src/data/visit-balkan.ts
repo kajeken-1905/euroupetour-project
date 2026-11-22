@@ -24,6 +24,8 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'zagreb-h12': v(10, 15, { n: '무료입니다.|Free.' }),
   'zagreb-h13': v(10, 20, { n: '지진 피해 뒤 복원 공사로 내부 관람이 제한될 수 있습니다.|Visits to the interior may be limited by post-earthquake restoration.' }),
   'zagreb-h14': v(15, 20, { n: '무료이며 언제든 걸을 수 있습니다. 로트르슈차크 탑과 푸니쿨라 윗역 바로 옆입니다.|Free and always open; right by the Lotrščak Tower and the upper funicular station.' }),
+  'zagreb-h15': v(45, 60),
+  'zagreb-h16': v(60, 120, { b: 'no', n: '공원은 무료이고 동물원은 유료입니다.|The park is free; the zoo is ticketed.' }),
   // Dubrovnik
   'dubrovnik-h1': v(90, 120, { c: 'daily', s: 'https://www.dubrovnikpass.com/', n: '성벽 한 바퀴는 약 2km이고 그늘이 없습니다. 두브로브니크 패스에 성벽 입장이 포함됩니다.|The circuit is about 2 km with no shade. The Dubrovnik Pass includes the walls.', k: '2026-10' }),
   'dubrovnik-h2': v(20, 30),
@@ -79,6 +81,8 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'sibenik-h4': v(30, 45),
   'sibenik-h5': v(90, 120, { n: '시내에서 배를 타거나 해안 산책로를 걸어 갑니다. 열리는 기간이 계절마다 다르니 미리 확인하세요.|Reached by boat from town or along a coastal path; opening varies by season, so check ahead.' }),
   'sibenik-h6': v(180, 300, { s: 'https://www.npkrka.hr/', n: '시베니크에서 버스로 로조바츠 입구까지 약 20분이며, 스크라딘에서 배로 들어갈 수도 있습니다. 폭포에서의 수영은 금지입니다. 성수기엔 온라인 예매를 권합니다.|About 20 min by bus to the Lozovac entrance, or arrive by boat from Skradin. Swimming at the falls is banned; book online in high season.' }),
+  'sibenik-h7': v(120, 180, { b: 'no' }),
+  'sibenik-h8': v(480, 600, { n: '배 투어로 다녀오는 하루 일정입니다.|A full-day boat trip.' }),
   // Rovinj
   'rovinj-h1': v(30, 45),
   'rovinj-h2': v(60, 90),
@@ -101,6 +105,8 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'porec-h3': v(10, 15),
   'porec-h4': v(15, 30, { n: '꼭대기는 카페 테라스로 쓰여 대체로 봄~가을에 엽니다.|The top is a café terrace, usually open spring to autumn.' }),
   'porec-h5': v(120, 180, { n: '포레치에서 차로 약 40분입니다. 버스가 적어 차나 투어가 편합니다.|About 40 min by car from Poreč; buses are few, so a car or tour is easier.' }),
+  'porec-h6': v(45, 60),
+  'porec-h7': v(60, 90, { b: 'no' }),
   // Hvar
   'hvar-h1': v(60, 75),
   'hvar-h2': v(15, 20),
@@ -115,6 +121,7 @@ export const visitBalkan: Record<string, HighlightVisit> = {
   'korcula-h3': v(20, 30, { n: '대체로 봄~가을에만 엽니다.|Usually open spring to autumn only.' }),
   'korcula-h4': v(120, 180, { n: '코르출라 시내에서 버스나 자전거로 약 15~20분입니다.|About 15–20 min from Korčula town by bus or bike.' }),
   'korcula-h5': v(120, 180, { n: '여름에 코르출라 항구에서 작은 배가 다닙니다.|Small boats run from Korčula harbour in summer.' }),
+  'korcula-h6': v(60, 75, { n: '공연 일정은 현지에서 확인하세요.|Check the performance schedule locally.' }),
   // Plitvice
   'plitvice-h1': v(30, 45, { c: 'daily', b: 'rec', s: PLIT, t: PLIT_T, n: '입장권은 입구와 시간이 정해져 있고 시간당 인원이 제한됩니다. 현장에서도 남은 표를 팔지만 성수기에는 온라인으로 미리 사세요.|Tickets are for a set entrance and time, with hourly limits. Leftover tickets are sold at the gate, but buy online ahead in high season.', k: '2026-10' }),
   'plitvice-h2': v(240, 360, { c: 'daily', b: 'rec', s: PLIT, t: PLIT_T, n: '전체 코스는 4~6시간 걸립니다. 호수에서 수영은 금지입니다.|The full routes take four to six hours. Swimming in the lakes is forbidden.', k: '2026-10' }),

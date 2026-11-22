@@ -34706,6 +34706,14 @@ export const cities: City[] = [
         group: { ko: "윗마을(고르니 그라드)", en: "Upper Town (Gornji grad)" },
       },
       {
+        id: "zagreb-h15",
+        name: { ko: "크로아티아 나이브 아트 미술관", en: "Croatian Museum of Naïve Art" },
+        description: { ko: "20세기 나이브 아트(소박파) 작품 1,900여 점을 소장한 미술관으로, 윗마을의 18세기 라파이 궁전 2층에 있습니다. 실연 박물관과 같은 거리입니다.", en: "A museum of 20th-century naïve art with more than 1,900 works, on the first floor of the 18th-century Raffay Palace in the Upper Town, on the same street as the Museum of Broken Relationships." },
+        image: "/highlights/zagreb-15.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Croatian%20Museum%20of%20Naive%20Art%20Zagreb",
+        group: { ko: "윗마을(고르니 그라드)", en: "Upper Town (Gornji grad)" },
+      },
+      {
         id: "zagreb-h8",
         name: { ko: "로트르슈차크 탑", en: "Lotrščak Tower" },
         description: { ko: "윗마을 성벽의 13세기 탑으로, 매일 정오에 그리치 대포를 쏩니다. 꼭대기에서 아랫마을이 내려다보입니다.", en: "A 13th-century tower on the Upper Town walls that fires the Grič cannon at noon every day, with views over the Lower Town." },
@@ -34783,7 +34791,15 @@ export const cities: City[] = [
         description: { ko: "아치형 묘지 산책로입니다.", en: "Arcaded cemetery walks." },
         image: "/highlights/zagreb-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Mirogoj",
-        group: { ko: "미로고이", en: "Mirogoj" },
+        group: { ko: "시내 바깥", en: "Outside the centre" },
+      },
+      {
+        id: "zagreb-h16",
+        name: { ko: "막시미르 공원", en: "Maksimir Park" },
+        description: { ko: "시내 동쪽의 316ha 공원으로, 19세기 초 영국 풍경식 정원으로 꾸민 자그레브에서 가장 오래되고 큰 공원입니다. 호수 다섯 개와 숲이 있고 자그레브 동물원이 안에 있습니다.", en: "A 316-hectare park east of the centre, Zagreb’s oldest and largest, laid out in the early 19th century as an English landscape garden with woods, five lakes and the Zagreb Zoo." },
+        image: "/highlights/zagreb-16.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Maksimir%20Park%20Zagreb",
+        group: { ko: "시내 바깥", en: "Outside the centre" },
       },
     ],
   },
@@ -35256,7 +35272,21 @@ export const cities: City[] = [
         image: "/highlights/sibenik-6.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Skradinski%20buk",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      }
+      },
+      {
+        id: "sibenik-h7",
+        name: { ko: "프리모슈텐", en: "Primošten" },
+        description: { ko: "시베니크와 트로기르 사이의 바닷가 마을로, 옛 마을은 원래 섬이었다가 둑길로 이어졌습니다(이름도 ‘다리를 놓다’에서 왔습니다). 언덕 꼭대기 1485년 성 게오르기 성당에서 바다가 내려다보이고, 돌담 포도밭이 유명합니다.", en: "A seaside town between Šibenik and Trogir whose old town was an islet until a causeway joined it to the mainland (its name comes from the word for “to bridge”). The hilltop St George’s Church (1485) looks over the sea, and its stone-walled vineyards are famous." },
+        image: "/highlights/sibenik-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Primo%C5%A1ten",
+      },
+      {
+        id: "sibenik-h8",
+        name: { ko: "코르나티 국립공원", en: "Kornati National Park" },
+        description: { ko: "섬 89개가 모인 지중해에서 가장 촘촘한 군도로, 대부분이 국립공원입니다. 시베니크 서쪽 바다에 있어 배 투어로 다녀옵니다.", en: "An archipelago of 89 islands, the densest in the Mediterranean, most of it a national park; it lies in the sea west of Šibenik and is visited on boat tours." },
+        image: "/highlights/sibenik-8.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kornati%20National%20Park",
+      },
     ],
   },
   {
@@ -35451,7 +35481,21 @@ export const cities: City[] = [
         image: "/highlights/porec-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Motovun",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      }
+      },
+      {
+        id: "porec-h6",
+        name: { ko: "바레디네 동굴", en: "Baredine Cave" },
+        description: { ko: "1995년부터 공개한 크로아티아 이스트라의 첫 관광 동굴로, 포레치·비슈냔·타르 사이 바다에서 5km 떨어진 곳에 있습니다. 입구 주변엔 올리브와 포도밭이 펼쳐집니다.", en: "The first show cave in Croatian Istria, open since 1995, between Poreč, Višnjan and Tar about 5 km from the sea, with olive groves and vineyards around the entrance." },
+        image: "/highlights/porec-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jama%20Baredine",
+      },
+      {
+        id: "porec-h7",
+        name: { ko: "브르사르", en: "Vrsar" },
+        description: { ko: "포레치에서 남쪽으로 9km 떨어진 바닷가 마을로, 언덕 위 옛 마을에 성 마르티노 성당과 40m 종탑이 서 있고 아래엔 마리나가 있습니다.", en: "A seaside village 9 km south of Poreč, with St Martin’s Church and its 40 m bell tower on the hilltop old town and a marina below." },
+        image: "/highlights/porec-7.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Vrsar",
+      },
     ],
   },
   {
@@ -35574,7 +35618,14 @@ export const cities: City[] = [
         image: "/highlights/korcula-5.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Badija",
         group: { ko: "근교 당일치기", en: "Day trip" },
-      }
+      },
+      {
+        id: "korcula-h6",
+        name: { ko: "모레슈카 칼춤", en: "Moreška sword dance" },
+        description: { ko: "15세기부터 코르출라에서 이어 온 칼춤으로, 두 무리가 베일 쓴 아가씨를 두고 칼싸움을 벌입니다. 지금은 관광객을 위해 정기적으로 공연합니다.", en: "A sword dance performed on Korčula since the 15th century, in which two groups fight a mock battle over a veiled girl; today it is staged regularly for visitors." },
+        image: "/highlights/korcula-6.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=More%C5%A1ka%20Kor%C4%8Dula",
+      },
     ],
   },
   {

@@ -14265,5 +14265,35 @@
     52.93504,
     -3.08961,
     "OSM Nominatim: Chirk Castle, Castle Road, Rhosywaun, Chirk, Wrexham, Cymru  (Wikipedia 9m)"
+  ],
+  "zagreb-h15": [
+    45.81538,
+    15.97328,
+    "OSM Nominatim: Hrvatski muzej naivne umjetnosti, 3, Ulica sv. Ćirila i Meto"
+  ],
+  "zagreb-h16": [
+    45.81875,
+    16.0124,
+    "OSM Nominatim: Park Maksimir, Mjesni odbor Ružmarinka, Gradska četvrt Maksi"
+  ],
+  "sibenik-h7": [
+    43.58633,
+    15.92278,
+    "OSM Nominatim: Primošten, Općina Primošten, Šibensko-kninska županija, 2220 (Wikipedia 319m)"
+  ],
+  "sibenik-h8": [
+    43.80544,
+    15.32207,
+    "OSM Nominatim: Kornat, Kornati, Općina Murter-Kornati, Šibensko-kninska žup"
+  ],
+  "porec-h6": [
+    45.2703,
+    13.66193,
+    "OSM Nominatim: Jama - Grotta Baredine, 55, Gedići, Općina Tar-Vabriga, Ista (Wikipedia 18m)"
+  ],
+  "porec-h7": [
+    45.15114,
+    13.60631,
+    "OSM Nominatim: crkva svetog Martina biskupa, Vidikovac Trsine, Vrsar, Općin (Wikipedia 511m)"
   ]
 }

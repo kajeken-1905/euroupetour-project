@@ -58,7 +58,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['미케네와 에피다우로스|Mycenae & Epidaurus', 6, 7], ['네메아|Nemea', 8]] },
-  zagreb: [4, 11, 3, 7, 10, 9, 6, 13, 1, 2, 8, 14, 12, 5],
+  zagreb: [4, 11, 3, 7, 10, 9, 6, 13, 1, 2, 15, 8, 14, 12, 5, 16],
   dubrovnik: {
     days: [
       ['구시가|Old town', 10, 17, 9, 2, 7, 15, 16, 8, 6, 19, 12, 11],
@@ -82,6 +82,8 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     trips: [
       ['성 니콜라 요새|St Nicholas Fortress', 5],
       ['크르카 국립공원|Krka National Park', 6],
+      ['프리모슈텐|Primošten', 7],
+      ['코르나티 국립공원|Kornati National Park', 8],
     ],
   },
   rovinj: {
@@ -98,7 +100,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['카메냐크 곶|Cape Kamenjak', 7],
     ],
   },
-  porec: { days: [['', 2, 1, 3, 4]], trips: [['모토분|Motovun', 5]] },
+  porec: { days: [['', 2, 1, 3, 4]], trips: [['모토분|Motovun', 5], ['바레디네 동굴과 브르사르|Baredine Cave & Vrsar', 6, 7]] },
   hvar: {
     days: [['', 2, 6, 8, 7, 1]],
     trips: [
@@ -107,7 +109,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
     ],
   },
   korcula: {
-    days: [['', 1, 2, 3]],
+    days: [['', 1, 2, 3, 6]],
     trips: [
       ['룸바르다|Lumbarda', 4],
       ['바디야섬|Badija', 5],

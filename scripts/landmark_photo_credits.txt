@@ -5174,3 +5174,10 @@ highlights/llangollen-4.jpg | https://commons.wikimedia.org/wiki/File:Plas_Newyd
 highlights/llangollen-5.jpg | https://commons.wikimedia.org/wiki/File:Valle_Crucis_Abbey_(2011.10.16).jpg | CC BY-SA 4.0 | Geir Hval (www.MacWhale.eu)
 highlights/llangollen-6.jpg | https://commons.wikimedia.org/wiki/File:Horseshoe_Falls_-_geograph.org.uk_-_5870132.jpg | CC BY-SA 2.0 | Stephen McKay
 highlights/llangollen-7.jpg | https://commons.wikimedia.org/wiki/File:Castell_y_Waun,_y_Waun,_Sir_Wrecsam_-_Chirk_Castle,_Wrexham_Borough,_Wales_07.jpg | CC BY-SA 4.0 | Llywelyn2000
+highlights/zagreb-15.jpg | https://commons.wikimedia.org/wiki/File:Croatian_Museum_of_Na%C3%AFve_Art_05.jpg | CC BY-SA 4.0 | Gveret Tered
+highlights/zagreb-16.jpg | https://commons.wikimedia.org/wiki/File:HR-ZG-Maksimir-Park-Entrance_01.jpg | CC BY-SA 4.0 | DutchTreat
+highlights/sibenik-7.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Primo%C5%A1ten_(view_from_the_southeast).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/sibenik-8.jpg | https://commons.wikimedia.org/wiki/File:Island_in_NP_Kornati,_Croatia.jpg | CC BY-SA 4.0 | Ajnudelim
+highlights/porec-6.jpg | https://commons.wikimedia.org/wiki/File:Baredine-010_(36570682564).jpg | CC BY 2.0 | Bernhard Wintersperger from Graz, Austria
+highlights/porec-7.jpg | https://commons.wikimedia.org/wiki/File:Vrsar_-_panoramio_(3).jpg | CC BY 3.0 | Tanya Dedyukhina
+highlights/korcula-6.jpg | https://commons.wikimedia.org/wiki/File:More%C5%A1ka_in_Kor%C4%8Dula.jpg | Public domain | Luka Jačov

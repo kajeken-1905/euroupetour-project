@@ -1251,7 +1251,14 @@ export const countries: Country[] = [
       background: '#FCE8E8',
       text: '#1A0A20',
     },
-    cityIds: ['zagreb', 'dubrovnik', 'split', 'zadar', 'sibenik', 'rovinj', 'pula', 'porec', 'hvar', 'korcula', 'plitvice', 'trogir'],
+    cityIds: ['zagreb', 'plitvice', 'pula', 'rovinj', 'porec', 'zadar', 'sibenik', 'split', 'trogir', 'hvar', 'dubrovnik', 'korcula'],
+    cityGroups: [
+      { title: { ko: '크로아티아 내륙', en: 'Inland Croatia' }, cityIds: ['zagreb', 'plitvice'] },
+      { title: { ko: '이스트라', en: 'Istria' }, cityIds: ['pula', 'rovinj', 'porec'] },
+      { title: { ko: '북부 달마티아', en: 'Northern Dalmatia' }, cityIds: ['zadar', 'sibenik'] },
+      { title: { ko: '중부 달마티아', en: 'Central Dalmatia' }, cityIds: ['split', 'trogir', 'hvar'] },
+      { title: { ko: '남부 달마티아', en: 'Southern Dalmatia' }, cityIds: ['dubrovnik', 'korcula'] },
+    ],
   },
   {
     id: 'si',
