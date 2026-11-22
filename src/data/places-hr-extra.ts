@@ -92,7 +92,7 @@ export const placesHRExtra: Place[] = [
   // —— sibenik: restaurants, bakeries and cafés (2026-11-04) ——
   place('sibenik-fine_dining-1', 'sibenik', 'fine_dining', 'Pelegrini', 'Jurja Dalmatinca 1, 22000 Šibenik', '대성당 앞의 모던 요리 레스토랑. 미쉐린 1스타. 지금은 구글지도에 임시 휴업으로 나오니(겨울 휴업일 수 있음) 가기 전에 확인하세요.', 'Modern restaurant facing the cathedral. One Michelin star. Google Maps currently shows it as temporarily closed (possibly a winter break), so check before you go.', { michelin: 'star1' }),
   place('sibenik-fine_dining-2', 'sibenik', 'fine_dining', 'Restoran Pjat', 'Trg Pavla Šubića I 3, 22000 Šibenik', '구시가 광장의 식당.', 'Restaurant on an old-town square.'),
-  place('sibenik-fine_dining-3', 'sibenik', 'fine_dining', 'Konoba Marenda', 'Ul. Bonina iz Milana 5, 22000 Šibenik', '구시가의 콘오바.', 'Konoba in the old town.'),
+  place('sibenik-fine_dining-3', 'sibenik', 'fine_dining', 'Konoba Marenda', 'Ul. Nove crkve 9, 22000 Šibenik', '구시가의 콘오바.', 'Konoba in the old town.'),
   place('sibenik-cafe-1', 'sibenik', 'cafe', 'Faust Caffe', 'Obala prvoboraca 30, 22000 Šibenik', '해안길의 카페.', 'Café on the waterfront.'),
   place('sibenik-cafe-2', 'sibenik', 'cafe', 'Moderato Coffee & Cakes', 'Ul. Stjepana Radića 1, 22000 Šibenik', '커피와 케이크를 내는 카페.', 'Café for coffee and cakes.'),
 
@@ -103,4 +103,55 @@ export const placesHRExtra: Place[] = [
   place('korcula-bakery-1', 'korcula', 'bakery', 'Cukarin', 'Ul. Hrvatske Bratske Zajednice, 20260 Korčula', '코르출라 전통 과자 쿠카린을 파는 과자점.', 'Sweet shop selling cukarin, Korčula’s traditional biscuits.'),
   place('korcula-cafe-1', 'korcula', 'cafe', 'Modro specialty coffee', 'Ul. Hrvatske Bratske Zajednice 82, 20260 Korčula', '스페셜티 커피숍.', 'Speciality coffee shop.'),
   place('korcula-cafe-2', 'korcula', 'cafe', 'Cafe Gallery', 'Prolaz Tri Sulara 6, 20260 Korčula', '구시가의 카페.', 'Café in the old town.'),
+
+  // —— zagreb: restaurants, bakeries and cafés (2026-11-22) ——
+  place('zagreb-fine_dining-6', 'zagreb', 'fine_dining', 'Beštija', 'Masarykova ul. 11/1, 10000 Zagreb', '아랫마을의 비스트로. 미쉐린 빕 구르망.', 'Bistro in the Lower Town. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— dubrovnik: restaurants, bakeries and cafés (2026-11-22) ——
+  place('dubrovnik-fine_dining-5', 'dubrovnik', 'fine_dining', 'Restaurant 360', 'Ul. Svetog Dominika 2, 20000 Dubrovnik', '옛 항구 위 성벽 안의 레스토랑. 미쉐린 1스타.', 'Restaurant set into the walls above the Old Port. One MICHELIN star.', { michelin: 'star1' }),
+
+  // —— split: restaurants, bakeries and cafés (2026-11-22) ——
+  place('split-fine_dining-4', 'split', 'fine_dining', 'Krug', 'Trumbićeva obala 17, 21000 Split', '리바 해안의 창작 요리 레스토랑. 미쉐린 1스타.', 'Creative restaurant on the Riva. One MICHELIN star.', { michelin: 'star1' }),
+  place('split-fine_dining-5', 'split', 'fine_dining', 'K.užina', 'Ul. Kraj Svete Marije 1, 21000 Split', '지중해·달마티아 요리 레스토랑. 미쉐린 빕 구르망.', 'Mediterranean and Dalmatian restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+
+  // —— zadar: restaurants, bakeries and cafés (2026-11-22) ——
+  place('zadar-fine_dining-4', 'zadar', 'fine_dining', 'Foša', 'Kralja Dmitra Zvonimira 2, 23000 Zadar', '구시가 포샤 항구 옆의 해산물 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Seafood restaurant by the little Foša harbour, listed in the MICHELIN Guide.'),
+  place('zadar-fine_dining-5', 'zadar', 'fine_dining', 'Maguro', 'Borelli ul. 10A, 23000 Zadar', '퓨전 요리 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Fusion restaurant, listed in the MICHELIN Guide.'),
+
+  // —— rovinj: restaurants, bakeries and cafés (2026-11-22) ——
+  place('rovinj-fine_dining-4', 'rovinj', 'fine_dining', 'Agli Amici Rovinj', 'Šetalište Vijeća Europe 1-2, 52210 Rovinj', '이탈리아 컨템퍼러리 요리 레스토랑. 미쉐린 2스타.', 'Contemporary Italian restaurant. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('rovinj-fine_dining-5', 'rovinj', 'fine_dining', 'Cap Aureo', 'Smareglijeva ul. 1A, 52210 Rovinj', '창작 요리 레스토랑. 미쉐린 1스타.', 'Creative restaurant. One MICHELIN star.', { michelin: 'star1' }),
+
+  // —— trogir: restaurants, bakeries and cafés (2026-11-22) ——
+  place('trogir-fine_dining-3', 'trogir', 'fine_dining', 'Franka', 'Šubićeva ul. 30, 21220 Trogir', '지중해 요리 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Mediterranean restaurant, listed in the MICHELIN Guide.'),
+  place('trogir-fine_dining-4', 'trogir', 'fine_dining', 'Konoba TRS', 'Matije Gupca 14, 21220 Trogir', '구시가의 지중해 요리 코노바로 미쉐린 가이드에 실려 있습니다.', 'Old-town konoba with Mediterranean cooking, listed in the MICHELIN Guide.'),
+  place('trogir-fine_dining-5', 'trogir', 'fine_dining', 'Restaurant Mare', 'Lučica 11, 21220 Trogir', '고기·해산물 모던 요리 레스토랑으로 미쉐린 가이드에 실려 있습니다.', 'Modern meat and seafood restaurant, listed in the MICHELIN Guide.'),
+
+  // —— sibenik: restaurants, bakeries and cafés (2026-11-22) ——
+  place('sibenik-fine_dining-4', 'sibenik', 'fine_dining', 'Konoba Centar Šibenik', 'Ul. kralja Tomislava 7C, 22000 Šibenik', '크로아티아 요리 코노바. 구글 지도 평점 4.8.', 'Croatian konoba. Rated 4.8 on Google Maps.'),
+  place('sibenik-fine_dining-5', 'sibenik', 'fine_dining', 'Bava Dining & More', 'Zlarinski prolaz 1, 22000 Šibenik', '구시가의 비스트로. 구글 지도 평점 4.7.', 'Old-town bistro. Rated 4.7 on Google Maps.'),
+  place('sibenik-bakery-1', 'sibenik', 'bakery', 'Dalma Bakery', 'Ul. Kralja Zvonimira 104, 22000 Šibenik', '동네 빵집. 구글 지도 평점 4.4.', 'Local bakery. Rated 4.4 on Google Maps.'),
+  place('sibenik-bakery-2', 'sibenik', 'bakery', 'Dan i noć', 'Ul. Kralja Zvonimira 4, 22000 Šibenik', '동네 빵집. 구글 지도 평점 4.5.', 'Bakery. Rated 4.5 on Google Maps.'),
+
+  // —— rovinj: restaurants, bakeries and cafés (2026-11-22) ——
+  place('rovinj-bakery-1', 'rovinj', 'bakery', 'Figment Artisan Bakery', 'Ul. Marka Marulića 30, 52210 Rovinj', '수제 빵집. 구글 지도 평점 5.0.', 'Artisan bakery. Rated 5.0 on Google Maps.'),
+  place('rovinj-bakery-2', 'rovinj', 'bakery', 'Pasticceria Breski', 'Ul. Ricarda Daveggie 3, 52210 Rovinj', '케이크·디저트 가게. 구글 지도 평점 4.8.', 'Cake and pastry shop. Rated 4.8 on Google Maps.'),
+  place('rovinj-bakery-3', 'rovinj', 'bakery', 'Pekara Dan i noć', 'Ul. Giosue Carduccia 7, 52210 Rovinj', '동네 빵집. 구글 지도 평점 4.4.', 'Local bakery. Rated 4.4 on Google Maps.'),
+
+  // —— dubrovnik: restaurants, bakeries and cafés (2026-11-22) ——
+  place('dubrovnik-cafe-3', 'dubrovnik', 'cafe', 'Life According to KAWA', 'Hvarska ul. 2, 20000 Dubrovnik', '플로체 문 근처의 커피숍. 구글 지도 평점 4.8.', 'Coffee shop near the Ploče Gate. Rated 4.8 on Google Maps.'),
+  place('dubrovnik-cafe-4', 'dubrovnik', 'cafe', 'GreenGo Specialty Coffee', 'Getaldićeva ul. 12, 20000 Dubrovnik', '스페셜티 커피·주스 가게. 구글 지도 평점 4.6.', 'Specialty coffee, juices and smoothies. Rated 4.6 on Google Maps.'),
+  place('dubrovnik-cafe-5', 'dubrovnik', 'cafe', 'Caffe bar Libertina', 'Zlatarska ul. 3, 20000 Dubrovnik', '구시가 골목의 카페. 구글 지도 평점 4.6.', 'Café in an old-town lane. Rated 4.6 on Google Maps.'),
+  place('dubrovnik-cafe-6', 'dubrovnik', 'cafe', 'Caffe on the Wall (Sv. Petar)', 'Poljana Mrtvo Zvono 7, 20000 Dubrovnik', '성벽 바깥 바위 위의 카페. 구글 지도 평점 4.3.', 'Café on the rocks outside the city walls. Rated 4.3 on Google Maps.'),
+
+  // —— split: restaurants, bakeries and cafés (2026-11-22) ——
+  place('split-cafe-3', 'split', 'cafe', 'Stow Coffee Roasters', 'Ul. Zrinsko Frankopanska 13, 21000 Split', '스페셜티 커피 로스터리. 구글 지도 평점 4.6.', 'Specialty coffee roastery. Rated 4.6 on Google Maps.'),
+  place('split-cafe-4', 'split', 'cafe', 'kava²', 'Ul. Ante Starčevića 2/1, 21000 Split', '커피숍. 구글 지도 평점 4.8.', 'Coffee shop. Rated 4.8 on Google Maps.'),
+  place('split-cafe-5', 'split', 'cafe', 'Caffe Bar Koko', 'Ul. Zrinsko Frankopanska 7, 21000 Split', '카페. 구글 지도 평점 4.8.', 'Café. Rated 4.8 on Google Maps.'),
+
+  // —— zadar: restaurants, bakeries and cafés (2026-11-22) ——
+  place('zadar-cafe-2', 'zadar', 'cafe', 'D16 Specialty Coffee Zadar', 'Poljana Pape Aleksandra III 3, 23000 Zadar', '구시가의 스페셜티 커피숍. 구글 지도 평점 4.6.', 'Specialty coffee shop in the old town. Rated 4.6 on Google Maps.'),
+  place('zadar-cafe-3', 'zadar', 'cafe', 'Caffe 72', 'Poljana Pavla Pavlovića, 23000 Zadar', '구시가의 카페. 구글 지도 평점 4.8.', 'Old-town café. Rated 4.8 on Google Maps.'),
+  place('zadar-cafe-4', 'zadar', 'cafe', 'Caffe Bar Doma', 'Varoška ul. 5, 23000 Zadar', '구시가 골목의 카페. 구글 지도 평점 4.8.', 'Café in an old-town lane. Rated 4.8 on Google Maps.'),
+  place('zadar-cafe-5', 'zadar', 'cafe', 'GOF', 'Ul. Prokonzula Grgura 1, 23000 Zadar', '작은 카페. 구글 지도 평점 5.0.', 'Small café. Rated 5.0 on Google Maps.'),
 ]
