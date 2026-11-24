@@ -550,7 +550,7 @@ highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_
 # cities/aveiro.jpg | IMG_0699 (2024-11-13, Aveiro canal) | owner
 # highlights/aveiro-1.jpg | IMG_0706 (2024-11-13, Canal Central) | owner
 # highlights/aveiro-2.jpg | IMG_0699 (2024-11-13, moliceiros on canal) | owner
-# landmarks/landmark-es.jpg | IMG_4137 (2025-11-18, Sagrada Família Passion façade) | owner
+# landmarks/landmark-es.jpg | IMG_4183 (2025-11-18, Sagrada Família Nativity façade) | owner
 # cities/barcelona.jpg | IMG_4183 (2025-11-18, Sagrada Família Nativity side) | owner
 # highlights/barcelona-1.jpg | IMG_4147 (2025-11-18, Sagrada Família backlit) | owner
 # highlights/paris-6.jpg | owner photo (Arc de Triomphe, Place Charles-de-Gaulle) | owner
