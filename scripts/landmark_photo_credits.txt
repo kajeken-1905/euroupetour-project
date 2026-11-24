@@ -5226,3 +5226,73 @@ highlights/treviso-5.jpg | https://commons.wikimedia.org/wiki/File:San-Nicol%C3%
 highlights/treviso-6.jpg | https://commons.wikimedia.org/wiki/File:Porta_San_Tomaso_Treviso_1.jpg | CC BY-SA 4.0 | kallerna
 highlights/treviso-7.jpg | https://commons.wikimedia.org/wiki/File:Tra_le_vigne_di_Collag%C3%B9_-_wikiraduno_Alle_colline_del_prosecco_abc_03.jpg | CC BY-SA 4.0 | Patafisik
 highlights/treviso-8.jpg | https://commons.wikimedia.org/wiki/File:Villa_Barbaro_panoramica_fronte_Marcok.jpg | Public domain | Marcok / it.wikipedia.org
+cities/metz.jpg | https://commons.wikimedia.org/wiki/File:Metz_Cathedral_001.jpg | CC BY-SA 3.0 | H. Zell
+cities/amiens.jpg | https://commons.wikimedia.org/wiki/File:Interior_da_Catedral_de_Amiens_by_Jules_Victor_Genisson,_1842.jpg | Public domain | Jules Victor Génisson
+cities/rennes.jpg | https://commons.wikimedia.org/wiki/File:Cathedrale-Saint-Pierre-de-Rennes-Esprit-Saint-byRundvald.jpg | CC BY-SA 4.0 | Rundvald
+cities/carnac.jpg | https://commons.wikimedia.org/wiki/File:Alignement_Kerlescan_Carnac.jpg | CC BY-SA 3.0 | Myrabella
+cities/orange.jpg | https://commons.wikimedia.org/wiki/File:Bridge_to_Don_Khon_seen_from_Don_Det_with_water_reflection_of_stringy_orange_clouds_at_sunrise_in_Laos.jpg | CC BY-SA 4.0 | Basile Morin
+cities/bayonne.jpg | https://commons.wikimedia.org/wiki/File:Bayonne-Pont_du_G%C3%A9nie-20140419..jpg | CC BY-SA 3.0 | Daniel VILLAFRUELA
+cities/uzes.jpg | https://commons.wikimedia.org/wiki/File:3_rue_Paul-Foussat_in_Uzes_03.jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/vezelay.jpg | https://commons.wikimedia.org/wiki/File:Saint-P%C3%A8re_depuis_V%C3%A9zelay_(2).jpg | CC BY-SA 3.0 | Ji-Elle
+highlights/paris-47.jpg | https://commons.wikimedia.org/wiki/File:Bourse_Commerce_-_Paris_I_(FR75)_-_2021-06-05_-_1.jpg | CC BY-SA 4.0 | Chabe01
+highlights/paris-48.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Marmottan_Monet_%27L%27Orient_des_Peintres%27.jpg | CC BY-SA 4.0 | ManoSolo13241324
+highlights/paris-49.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_(10629).jpg | CC BY-SA 4.0 | Another one of my pictures:
+highlights/paris-50.jpg | https://commons.wikimedia.org/wiki/File:Paris_Galerie_Vivienne_2012_04.jpg | CC BY-SA 3.0 | Lionel Allorge
+highlights/paris-51.jpg | https://commons.wikimedia.org/wiki/File:Basilica_of_Saint_Denis,_Paris,_France.JPG | CC BY 4.0 | Ninaras
+highlights/lyon-12.jpg | https://commons.wikimedia.org/wiki/File:Institut_Lumi%C3%A8re_Lyon.jpg | CC BY 2.0 | Matt Neale from UK
+highlights/lyon-13.jpg | https://commons.wikimedia.org/wiki/File:Fresque_des_Lyonnais_mural_Lyon_2026.JPG | CC BY-SA 4.0 | Mike is Michi
+highlights/marseille-8.jpg | https://commons.wikimedia.org/wiki/File:Vallon_des_Auffes_011.jpg | CC BY-SA 4.0 | Arnaud 25
+highlights/marseille-9.jpg | https://commons.wikimedia.org/wiki/File:Palais_Longchamp_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/marseille-10.jpg | https://commons.wikimedia.org/wiki/File:Panneau_des_chevaux_-_Cosquer_M%C3%A9diterran%C3%A9e.jpg | CC BY-SA 4.0 | Kleber Rossillon &amp; Région Provence-Alpes-Côte d’Azur / S
+highlights/nice-8.jpg | https://commons.wikimedia.org/wiki/File:Villefranche-sur-Mer.jpg | CC BY-SA 2.0 uk | Tom Corser
+highlights/nice-9.jpg | https://commons.wikimedia.org/wiki/File:Villa_Ephrussi_de_Rothschild_BW_2011-06-10_11-42-29a.jpg | CC BY-SA 3.0 | Berthold Werner edit by Böhringer
+highlights/bordeaux-9.jpg | https://commons.wikimedia.org/wiki/File:Bassins_de_Lumi%C3%A8res_Boreaux_2024_(1).jpg | CC BY-SA 4.0 | Benreis
+highlights/bordeaux-10.jpg | https://commons.wikimedia.org/wiki/File:Porte_Cailhau_04.jpg | CC BY-SA 4.0 | John Samuel
+highlights/nancy-6.jpg | https://commons.wikimedia.org/wiki/File:Villa_majorelle_de_Nancy.jpg | CC BY-SA 3.0 | Leogs
+highlights/metz-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedrale_Metz_Nef_pano.jpg | CC BY-SA 3.0 | Benh LIEU SONG
+highlights/metz-2.jpg | https://commons.wikimedia.org/wiki/File:Centre_Pompidou-Metz_02.jpg | CC BY-SA 4.0 | Immanuel Giel
+highlights/metz-3.jpg | https://commons.wikimedia.org/wiki/File:PA00106842-Gare_de_Metz-Ville_(2).jpg | CC BY-SA 3.0 | Johan Bakker
+highlights/metz-4.jpg | https://commons.wikimedia.org/wiki/File:Metz_Porte_des_Allemands_R07.jpg | CC BY 3.0 | Marc Ryckaert (MJJR)
+highlights/metz-5.jpg | https://commons.wikimedia.org/wiki/File:Aigues-Mortes_-_Place_Saint-Louis_-_02.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/metz-6.jpg | https://commons.wikimedia.org/wiki/File:%C3%8Ele_du_Petit-Saulcy_et_Temple_neuf_de_Metz_(juin_2019).JPG | CC BY-SA 4.0 | Florian Pépellin
+highlights/amiens-1.jpg | https://commons.wikimedia.org/wiki/File:Amiens_France_Cath%C3%A9drale-Notre-Dame-d-Amiens-09b.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+highlights/amiens-2.jpg | https://commons.wikimedia.org/wiki/File:2026_AmiensHortillonnagesJardins.jpg | CC BY-SA 4.0 | Stefan Oemisch (Germany)
+highlights/amiens-3.jpg | https://commons.wikimedia.org/wiki/File:Maison_de_Jules_Verne_2022_03.jpg | CC BY-SA 3.0 | Chatsam
+highlights/amiens-4.jpg | https://commons.wikimedia.org/wiki/File:Quartier_Saint-Leu_%C3%A0_Amiens_(Somme)_02.jpg | CC BY-SA 4.0 | Jean de l'Auxois
+highlights/amiens-5.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_Picardie._Cl._T._Rambeau-Mus%C3%A9e_de_Picardie.jpg | CC BY-SA 4.0 | T.Rambeau
+highlights/amiens-6.jpg | https://commons.wikimedia.org/wiki/File:Entrance_to_Pozieres_Cemetery_-_Somme_Battlefields_-_panoramio.jpg | CC BY-SA 3.0 | agracier - NO VIEWS
+highlights/rennes-1.jpg | https://commons.wikimedia.org/wiki/File:Palais_du_parlement_de_Bretagne,_Rennes.jpg | CC BY-SA 3.0 | Oakenchips
+highlights/rennes-3.jpg | https://commons.wikimedia.org/wiki/File:Marche_des_Lices_mise_en_place_03.JPG | CC BY-SA 3.0 | Trizek
+highlights/rennes-4.jpg | https://commons.wikimedia.org/wiki/File:Rennes_(Ille-et-Vilaine)_-_Parc_du_Thabor_-_Jardins_%C3%A0_la_fran%C3%A7aise_-_50789542768.jpg | CC BY-SA 2.0 | Morio60
+highlights/rennes-5.jpg | https://commons.wikimedia.org/wiki/File:Les_Champs_libres,_entr%C3%A9e_de_l%27auditorium_Selaouva.jpg | CC BY-SA 4.0 | Laemito
+highlights/rennes-6.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_Cath%C3%A9drale_Saint-Pierre_de_Rennes_03.jpg | CC BY-SA 4.0 | John Samuel
+highlights/carnac-1.jpg | https://commons.wikimedia.org/wiki/File:France-Carnac-Alignement_de_Kermario.jpg | CC BY-SA 3.0 | --Pinpin 17:43, 1 August 2006 (UTC)
+highlights/carnac-2.jpg | https://commons.wikimedia.org/wiki/File:Maison_des_M%C3%A9galithes_%C3%A0_Carnac_le_1er_septembre_2019.jpg | CC BY-SA 3.0 | Lionel Allorge
+highlights/carnac-3.jpg | https://commons.wikimedia.org/wiki/File:Carnac_-_Mus%C3%A9e_de_la_pr%C3%A9histoire_-_1.jpg | CC BY-SA 4.0 | This illustration was made by Peter Potrowl.
+highlights/carnac-4.jpg | https://commons.wikimedia.org/wiki/File:Tumulus_Saint-Michel,_2019-09-06.jpg | CC BY-SA 4.0 | Szilas
+highlights/carnac-5.jpg | https://commons.wikimedia.org/wiki/File:Carnac_-_Plage_L%C3%A9gen%C3%A8se_(1).jpg | CC BY-SA 3.0 | Petro
+highlights/carnac-6.jpg | https://commons.wikimedia.org/wiki/File:C%C3%B4te_sauvage_de_la_presqu%27%C3%AEle_gu%C3%A9randaise_01.jpg | CC BY-SA 4.0 | Ruyblas13
+highlights/orange-1.jpg | https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Orange_2008.jpg | CC BY-SA 2.0 | Benh LIEU SONG (Flickr)
+highlights/orange-2.jpg | https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_d%27Orange_-_Triumphal_Arch_of_Orange.jpg | CC BY-SA 4.0 | Florent Pécassou
+highlights/orange-3.jpg | https://commons.wikimedia.org/wiki/File:Colline-St-Eutrope_vierge-Marie.JPG | CC BY-SA 3.0 | Jeanlouiszimmermann
+highlights/orange-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Louis-Senlecq_l%27Isle-Adam.jpg | CC BY-SA 4.0 | BastienM
+highlights/orange-5.jpg | https://commons.wikimedia.org/wiki/File:Vaison-la-Romaine_depuis_le_pont_romain.jpg | CC BY 4.0 | Mathieu BROSSAIS
+highlights/bayonne-1.jpg | https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Sainte-Marie_de_Bayonne,_vu_du_clo%C3%AEtre.JPG | CC BY-SA 3.0 | Cinoworus
+highlights/bayonne-2.jpg | https://commons.wikimedia.org/wiki/File:Bayonne-Nive_03.JPG | CC BY-SA 3.0 | Traumrune
+highlights/bayonne-3.jpg | https://commons.wikimedia.org/wiki/File:Bayonne_Mus%C3%A9e_Basque.JPG | CC BY-SA 3.0 | Harrieta171
+highlights/bayonne-5.jpg | https://commons.wikimedia.org/wiki/File:Espelette_2025_sommer_09.jpg | CC BY-SA 4.0 | Øyvind Holmstad
+highlights/bayonne-6.jpg | https://commons.wikimedia.org/wiki/File:Petit_train_la_rhune.jpg | CC BY-SA 4.0 | --Superbass
+highlights/uzes-1.jpg | https://commons.wikimedia.org/wiki/File:Uz%C3%A8s-Le_Duch%C3%A9.jpg | CC BY-SA 3.0 | Daniel VILLAFRUELA
+highlights/uzes-2.jpg | https://commons.wikimedia.org/wiki/File:Place_aux_Herbes_(Grenoble)_on_Friday_evening.jpg | CC BY-SA 4.0 | Андрей Романенко
+highlights/uzes-3.jpg | https://commons.wikimedia.org/wiki/File:Uz%C3%A8s_Tour_Fenestrelle.jpg | CC BY 2.5 | Marc Ryckaert (MJJR)
+highlights/uzes-4.jpg | https://commons.wikimedia.org/wiki/File:Jardin_m%C3%A9di%C3%A9val_de_Bazoges_en_Pareds.jpg | CC BY-SA 4.0 | Patrimoinebazogesenpareds
+highlights/vezelay-1.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A9zelay_-_Basilique_Sainte-Marie-Madeleine_-_Int%C3%A9rieur_-_01.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/vezelay-2.jpg | https://commons.wikimedia.org/wiki/File:Grande_Rue_(Montluel)_en_d%C3%A9cembre_2021.jpg | CC0 | Benoît Prieur
+highlights/vezelay-3.jpg | https://commons.wikimedia.org/wiki/File:Basilica_Palladiana_Vicenza_1.jpg | CC BY 4.0 | Piergiovanna Grossi
+highlights/vezelay-4.jpg | https://commons.wikimedia.org/wiki/File:View_from_Old_City_Ramparts_Walk_-_Jerusalem_-_Israel_(5683986875).jpg | CC BY-SA 2.0 | Adam Jones from Kelowna, BC, Canada
+highlights/vezelay-5.jpg | https://commons.wikimedia.org/wiki/File:Fontenay_Abbey_commendatory_house_in_2016.jpg | CC BY-SA 4.0 | Pierre André Leclercq
+highlights/vezelay-6.jpg | https://commons.wikimedia.org/wiki/File:Chablis_tower_port.jpg | CC BY-SA 4.0 | Elgaard
+highlights/rennes-2.jpg | https://commons.wikimedia.org/wiki/File:Rennes_Rue_du_Chapitre_3.jpg | CC BY-SA 4.0 | Zairon
+highlights/uzes-5.jpg | https://www.flickr.com/photos/40911451@N00/5027963845 | BY 2.0 | jean-louis zimmermann
+highlights/uzes-6.jpg | https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)
+highlights/bayonne-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Basque_-_pierre_%C3%A0_chocolat_2.jpg | CC BY-SA 3.0 | Chatsam

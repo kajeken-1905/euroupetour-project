@@ -14510,5 +14510,315 @@
     45.81224,
     11.97652,
     "OSM Nominatim: Villa di Maser, Via Barbaro, Muliparte, Maser, Fonte, Trevis (Wikipedia 11m)"
+  ],
+  "paris-h47": [
+    48.86282,
+    2.34284,
+    "OSM Nominatim: Bourse de Commerce, 2, Rue de Viarmes, Quartier Les Halles,  (Wikipedia 10m)"
+  ],
+  "paris-h48": [
+    48.85941,
+    2.26726,
+    "OSM Nominatim: Musée Marmottan Monet, 2, Rue Louis Boilly, Quartier de la M (Wikipedia 13m)"
+  ],
+  "paris-h49": [
+    48.86099,
+    2.29797,
+    "OSM Nominatim: Musée du quai Branly, 37, Quai Branly, Quartier du Gros-Cail (Wikipedia 41m)"
+  ],
+  "paris-h50": [
+    48.86673,
+    2.33976,
+    "OSM Nominatim: Galerie Vivienne, Galerie Colbert, Vivienne, Paris 2e Arrond (Wikipedia 5m)"
+  ],
+  "paris-h51": [
+    48.93663,
+    2.35928,
+    "OSM Nominatim: Basilique de Saint-Denis, Place du Caquet, Gabriel Péri, Gra (Wikipedia 124m)"
+  ],
+  "lyon-h12": [
+    45.74509,
+    4.87062,
+    "OSM Nominatim: Institut Lumière, Rue du Premier Film, Monplaisir, Lyon 8e A (Wikipedia 21m)"
+  ],
+  "lyon-h13": [
+    45.76811,
+    4.82803,
+    "OSM Nominatim: La fresque des Lyonnais, Quai Saint-Vincent, Terreaux, Lyon  (Wikipedia 10m)"
+  ],
+  "marseille-h8": [
+    43.28513,
+    5.35222,
+    "OSM Nominatim: Vallon des Auffes, Endoume, Marseille 7e Arrondissement, Mar (Wikipedia 68m)"
+  ],
+  "marseille-h9": [
+    43.30424,
+    5.39461,
+    "OSM Nominatim: Palais Longchamp, Rue Édouard Stéphan, Les Cinq-Avenues, Mar (Wikipedia 11m)"
+  ],
+  "marseille-h10": [
+    43.29707,
+    5.36207,
+    "OSM Nominatim: Villa Méditerranée, Promenade Robert Laffont, La Joliette, M (Wikipedia 13m)"
+  ],
+  "nice-h8": [
+    43.70305,
+    7.31191,
+    "OSM Nominatim: Chapelle Saint-Pierre, 4, Quai de l'Amiral Courbet, La Citad (Wikipedia 222m)"
+  ],
+  "nice-h9": [
+    43.6966,
+    7.3285,
+    "OSM Nominatim: Villa Ephrussi de Rothschild, 1, Avenue Ephrussi de Rothschi (Wikipedia 7m)"
+  ],
+  "bordeaux-h9": [
+    44.87064,
+    -0.55949,
+    "OSM Nominatim: Bassins de Lumières, 284, Boulevard Alfred Daney, Bordeaux, "
+  ],
+  "bordeaux-h10": [
+    44.83875,
+    -0.56849,
+    "OSM Nominatim: Porte Cailhau, Rue de la Porte Cailhau, Bordeaux, Port de la (Wikipedia 5m)"
+  ],
+  "nancy-h6": [
+    48.68547,
+    6.16387,
+    "OSM Nominatim: Villa Majorelle, Rue Louis Majorelle, Poincaré, Foch, Anatol (Wikipedia 4m)"
+  ],
+  "metz-h1": [
+    49.12021,
+    6.17569,
+    "OSM Nominatim: Cathédrale Saint-Étienne, Place d'Armes, Metz-Centre, Nouvel (Wikipedia 32m)"
+  ],
+  "metz-h2": [
+    49.1082,
+    6.18158,
+    "OSM Nominatim: Centre Pompidou-Metz, Parvis des Droits de l'Homme, Quartier (Wikipedia 13m)"
+  ],
+  "metz-h3": [
+    49.10952,
+    6.17682,
+    "OSM Nominatim: Gare de Metz, 13, Place Général de Gaulle, Triangle Impérial (Wikipedia 41m)"
+  ],
+  "metz-h4": [
+    49.11788,
+    6.18553,
+    "OSM Nominatim: Porte des Allemands, Ancienne Ville, Bellecroix, Metz, Mosel (Wikipedia 12m)"
+  ],
+  "metz-h5": [
+    49.1165,
+    6.17881,
+    "OSM Nominatim: Place Saint-Louis, Metz-Centre, Nouvelle Ville, Metz, Mosell (Wikipedia 23m)"
+  ],
+  "metz-h6": [
+    49.12066,
+    6.17196,
+    "OSM Nominatim: Temple neuf, Place de la Comédie, Metz-Centre, Nouvelle Vill"
+  ],
+  "amiens-h1": [
+    49.89462,
+    2.30203,
+    "OSM Nominatim: Cathédrale Notre-Dame, Rue Cormont, Amiens, Somme, Hauts-de- (Wikipedia 44m)"
+  ],
+  "amiens-h2": [
+    49.89756,
+    2.31118,
+    "OSM Nominatim: Hortillonnages, Boulevard de Beauvillé, Amiens, Somme, Hauts (Wikipedia 757m)"
+  ],
+  "amiens-h3": [
+    49.88774,
+    2.30169,
+    "OSM Nominatim: Maison Jules Verne, 2, Rue Charles Dubois, Amiens, Somme, Ha (Wikipedia 18m)"
+  ],
+  "amiens-h4": [
+    49.89613,
+    2.30518,
+    "OSM Nominatim: Quai Bélu, Amiens, Somme, Hauts-de-France, France métropolit"
+  ],
+  "amiens-h5": [
+    49.89059,
+    2.29522,
+    "OSM Nominatim: Musée de Picardie, Rue Puvis de Chavannes, Amiens, Somme, Ha (Wikipedia 84m)"
+  ],
+  "amiens-h6": [
+    50.05146,
+    2.68572,
+    "OSM Nominatim: Parc Mémorial de Thiepval, Authuille, Péronne, Somme, Hauts- (Wikipedia 101m)"
+  ],
+  "rennes-h1": [
+    48.11282,
+    -1.67752,
+    "OSM Nominatim: Parlement de Bretagne, Place du Parlement de Bretagne, Les L (Wikipedia 21m)"
+  ],
+  "rennes-h2": [
+    48.11442,
+    -1.68057,
+    "OSM Nominatim: Place Sainte-Anne, Les Lices, Centre-Ville, Centre, Quartier (Wikipedia 16m)"
+  ],
+  "rennes-h3": [
+    48.113,
+    -1.68291,
+    "OSM Nominatim: Place des Lices, Les Lices, Centre-Ville, Centre, Quartiers  (Wikipedia 153m)"
+  ],
+  "rennes-h4": [
+    48.11389,
+    -1.6698,
+    "OSM Nominatim: Parc du Thabor, Thabor - Saint-Hélier - Alphonse Guérin, Qua (Wikipedia 34m)"
+  ],
+  "rennes-h5": [
+    48.10514,
+    -1.67469,
+    "OSM Nominatim: Les Champs Libres, 10, Cours des Alliés, Colombier - Champ d (Wikipedia 28m)"
+  ],
+  "rennes-h6": [
+    48.11159,
+    -1.68338,
+    "OSM Nominatim: Cathédrale Saint-Pierre, Carrefour de la Cathédrale, Les Lic (Wikipedia 23m)"
+  ],
+  "carnac-h1": [
+    47.59499,
+    -3.0675,
+    "OSM Nominatim: Kermario, Carnac, Lorient, Morbihan, Bretagne, France métrop (Wikipedia 523m)"
+  ],
+  "carnac-h2": [
+    47.59145,
+    -3.08234,
+    "OSM Nominatim: Maison des Mégalithes, 15, Route des Alignements, Le Ménec,  (Wikipedia 287m)"
+  ],
+  "carnac-h3": [
+    47.58482,
+    -3.0783,
+    "OSM Nominatim: Musée de la Préhistoire, 10, Place de la Chapelle, Kerlois,  (Wikipedia 11m)"
+  ],
+  "carnac-h4": [
+    47.58796,
+    -3.07341,
+    "OSM Nominatim: Tumulus Saint-Michel, Chemin du Tumulus, Cloucarnac, Carnac, (Wikipedia 19m)"
+  ],
+  "carnac-h5": [
+    47.57109,
+    -3.07263,
+    "OSM Nominatim: Grande Plage, Carnac-Plage, Carnac, Lorient, Morbihan, Breta"
+  ],
+  "carnac-h6": [
+    47.4791,
+    -3.13486,
+    "OSM Nominatim: Boulevard de la Côte Sauvage, Port Maria, Kervozès, Quiberon"
+  ],
+  "orange-h1": [
+    44.13577,
+    4.80924,
+    "OSM Nominatim: Théâtre Antique, Orchestra, Colline Saint-Eutrope, Orange, C (Wikipedia 66m)"
+  ],
+  "orange-h2": [
+    44.14217,
+    4.80481,
+    "OSM Nominatim: Arc de Triomphe, Arc de Triophe, Portail Lançon, Orange, Car (Wikipedia 36m)"
+  ],
+  "orange-h3": [
+    44.13276,
+    4.80786,
+    "OSM Nominatim: Colline Saint-Eutrope, Orange, Carpentras, Vaucluse, Provenc (Wikipedia 134m)"
+  ],
+  "orange-h4": [
+    44.13614,
+    4.80773,
+    "OSM Nominatim: Musée d’art et d’histoire, Rue Madeleine Roch, Colline Saint"
+  ],
+  "orange-h5": [
+    44.24076,
+    5.07574,
+    "OSM Nominatim: Vaison-la-Romaine, Carpentras, Vaucluse, Provence-Alpes-Côte (Wikipedia 310m)"
+  ],
+  "bayonne-h1": [
+    43.49053,
+    -1.47729,
+    "OSM Nominatim: Cathédrale Sainte-Marie de Bayonne, Place Louis Pasteur, Lap (Wikipedia 7m)"
+  ],
+  "bayonne-h2": [
+    43.49039,
+    -1.47412,
+    "OSM Nominatim: Quai Galuperie, Lapurdi, Petit Bayonne, Bayonne, Pyrénées-At (Wikipedia 364m)"
+  ],
+  "bayonne-h3": [
+    43.49109,
+    -1.4738,
+    "OSM Nominatim: Musée Basque et de l'histoire de Bayonne, Parvis Jean Harits (Wikipedia 102m)"
+  ],
+  "bayonne-h4": [
+    43.49207,
+    -1.47598,
+    "OSM Nominatim: Rue Port Neuf, Lapurdi, Grand Bayonne, Bayonne, Pyrénées-Atl"
+  ],
+  "bayonne-h5": [
+    43.34117,
+    -1.44808,
+    "OSM Nominatim: Espelette, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine (Wikipedia 138m)"
+  ],
+  "bayonne-h6": [
+    43.32715,
+    -1.60151,
+    "OSM Nominatim: Col de Saint-Ignace, Lapurdi, Sare, Bayonne, Pyrénées-Atlant"
+  ],
+  "uzes-h1": [
+    44.01294,
+    4.42024,
+    "OSM Nominatim: Place du Duché, Uzès, Nîmes, Gard, Occitanie, France métropo"
+  ],
+  "uzes-h2": [
+    44.01154,
+    4.41877,
+    "OSM Nominatim: Place aux Herbes, Uzès, Nîmes, Gard, Occitanie, France métro"
+  ],
+  "uzes-h3": [
+    44.01204,
+    4.4222,
+    "OSM Nominatim: Tour Fenestrelle, Place de l'Evéché, Uzès, Nîmes, Gard, Occi (Wikipedia 11m)"
+  ],
+  "uzes-h4": [
+    44.01213,
+    4.42002,
+    "OSM Nominatim: Jardin médiéval, Uzès, Nîmes, Gard, Occitanie, France métrop"
+  ],
+  "uzes-h5": [
+    43.99324,
+    4.42335,
+    "OSM Nominatim: Musée du bonbon Haribo, Pont des Charrettes, Carrignargues, "
+  ],
+  "uzes-h6": [
+    43.94707,
+    4.5356,
+    "OSM Nominatim: Pont du Gard, 400, Route du Pont du Gard, La Bégude, Vers-Po (Wikipedia 17m)"
+  ],
+  "vezelay-h1": [
+    47.46633,
+    3.7485,
+    "OSM Nominatim: Basilique Sainte-Marie-Madeleine, Nef, Vézelay, Avallon, Yon (Wikipedia 11m)"
+  ],
+  "vezelay-h2": [
+    47.46572,
+    3.74605,
+    "OSM Nominatim: Rue Saint-Pierre, Vézelay, Avallon, Yonne, Bourgogne-Franche (Wikipedia 119m)"
+  ],
+  "vezelay-h3": [
+    47.4664,
+    3.7496,
+    "Manual: terrace at the east end behind the basilica (OSM basilica 47.46633,3.7485)"
+  ],
+  "vezelay-h4": [
+    47.46623,
+    3.74459,
+    "OSM Nominatim: Porte Neuve, Rue de la Porte Neuve, Vézelay, Avallon, Yonne, (Wikipedia 167m)"
+  ],
+  "vezelay-h5": [
+    47.64,
+    4.38951,
+    "OSM Nominatim: Abbaye de Fontenay, D 32, Marmagne, Montbard, Côte-d'Or, Bou (Wikipedia 69m)"
+  ],
+  "vezelay-h6": [
+    47.81521,
+    3.80017,
+    "OSM Nominatim: Chablis, Auxerre, Yonne, Bourgogne-Franche-Comté, France mét (Wikipedia 204m)"
   ]
 }

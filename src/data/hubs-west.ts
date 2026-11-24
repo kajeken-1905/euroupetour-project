@@ -118,6 +118,39 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [['Bastia-Poretta (BIA)', '바스티아 공항 (BIA)'], ['Ajaccio Napoléon Bonaparte (AJA)', '아작시오 공항 (AJA)', '아작시오|Ajaccio']],
     rail: [['Corte', '코르테역', '코르시카 철도|Corsican railway']],
   },
+  metz: {
+    air: [['Luxembourg (LUX)', '룩셈부르크 공항 (LUX)', '룩셈부르크|Luxembourg'], ['Paris Charles de Gaulle (CDG)', '샤를 드 골 공항 (CDG)', '파리|Paris']],
+    rail: [['Metz-Ville', '메스역', '파리행 TGV·룩셈부르크행 열차|TGVs to Paris, trains to Luxembourg']],
+  },
+  amiens: {
+    air: [['Paris Charles de Gaulle (CDG)', '샤를 드 골 공항 (CDG)', '파리|Paris'], ['Paris Beauvais (BVA)', '보베 공항 (BVA)', '저가항공|low-cost flights']],
+    rail: [['Amiens', '아미앵역']],
+  },
+  rennes: {
+    air: [['Rennes Bretagne (RNS)', '렌 공항 (RNS)'], ['Paris Charles de Gaulle (CDG)', '샤를 드 골 공항 (CDG)', '파리|Paris']],
+    rail: [['Rennes', '렌역', '파리행 TGV·생말로행 열차|TGVs to Paris, trains to Saint-Malo']],
+    bus: [['Rennes gare routière', '렌 버스터미널', '몽생미셸행 버스|buses to Mont-Saint-Michel']],
+  },
+  carnac: {
+    air: [['Nantes Atlantique (NTE)', '낭트 공항 (NTE)', '낭트|Nantes'], ['Lorient Bretagne Sud (LRT)', '로리앙 공항 (LRT)', '운항편 적음|few flights']],
+    rail: [['Auray', '오레역', '619번 버스로 카르나크 약 30분|bus 619 to Carnac, about 30 min']],
+  },
+  orange: {
+    air: [['Marseille Provence (MRS)', '마르세유 공항 (MRS)', '마르세유|Marseille']],
+    rail: [['Orange', '오랑주역', '아비뇽 약 15분|about 15 min to Avignon']],
+  },
+  bayonne: {
+    air: [['Biarritz Pays Basque (BIQ)', '비아리츠 공항 (BIQ)']],
+    rail: [['Bayonne', '바욘역', '보르도·파리행 TGV|TGVs to Bordeaux, Paris']],
+  },
+  uzes: {
+    air: [['Nîmes Garons (FNI)', '님 공항 (FNI)', '운항편 적음|few flights'], ['Marseille Provence (MRS)', '마르세유 공항 (MRS)', '마르세유|Marseille']],
+    bus: [['Uzès gare routière', '위제스 버스터미널', '님·아비뇽행 버스|buses to Nîmes, Avignon']],
+  },
+  vezelay: {
+    air: [['Paris Charles de Gaulle (CDG)', '샤를 드 골 공항 (CDG)', '파리|Paris'], ['Paris Orly (ORY)', '파리 오를리 공항 (ORY)', '파리|Paris']],
+    rail: [['Sermizelles-Vézelay', '세르미젤-베즐레역', '마을까지 약 10km, 택시|about 10 km to the village, taxi']],
+  },
   reims: {
     air: [CDG()],
     rail: [

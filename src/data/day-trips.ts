@@ -67,6 +67,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'blois',
       tip: '기차로 약 1시간 30분. 블루아 왕성과 마술의 집을 봅니다.|About 1 hr 30 by train: the royal château and the House of Magic.',
     },
+    {
+      to: 'amiens',
+      tip: '기차로 약 1시간 10분. 프랑스 최대 고딕 대성당과 수상 정원을 봅니다.|About 1 hr 10 by train: France’s largest Gothic cathedral and the floating gardens.',
+    },
   ],
   lyon: [
     {
@@ -179,6 +183,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'aigues-mortes',
       tip: '성벽 위를 걷고 분홍 소금밭을 봅니다.|Walk the ramparts and see the pink salt pans.',
     },
+    {
+      to: 'uzes',
+      tip: '버스로 약 1시간. 공작 성과 에르브 광장의 토요일 시장을 봅니다.|About 1 hr by bus: the ducal castle and the Saturday market on the Place aux Herbes.',
+    },
   ],
   toulouse: [
     {
@@ -239,6 +247,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'les-baux-de-provence',
       how: '차·투어로 약 30분|About 30 min by car or tour',
       tip: '빛의 채석장과 성을 보고 생레미드프로방스에 들릅니다. 여름엔 아침 일찍 가야 덜 붐빕니다.|The light shows and the castle, then Saint-Rémy-de-Provence; go early in summer to beat the crowds.',
+    },
+    {
+      to: 'orange',
+      tip: '기차로 약 15분. 무대 벽이 남은 로마 극장과 개선문을 봅니다.|About 15 min by train: the Roman theatre with its stage wall and the triumphal arch.',
     },
   ],
   rome: [

@@ -5418,6 +5418,83 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  metz: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 굴절 버스 메틱스가 역과 시내를 잇습니다.',
+      en: 'Walk the old town; the Mettis bus rapid transit links the station and the centre.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  amiens: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다닙니다. 수상 정원 배 선착장도 걸어서 닿습니다.',
+      en: 'Walk the centre; the floating-garden boat landing is within walking distance.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  rennes: {
+    modes: ['walk', 'metro', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 무인 지하철 2개 노선이 역과 시내를 잇습니다.',
+      en: 'Walk the old town; two driverless metro lines link the station and the centre.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  carnac: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 열석 사이는 걷거나 자전거로 다니고, 오레역과는 619번 버스가 잇습니다.',
+      en: 'Walk or cycle between the village and the stones; bus 619 links Auray station.',
+    },
+    apps: [
+    ],
+  },
+  orange: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 아비뇽과는 기차로 15분입니다.',
+      en: 'Walk around town; Avignon is 15 min by train.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  bayonne: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 버스가 비아리츠·앙글레로 이어집니다.',
+      en: 'Walk the old town; buses run to Biarritz and Anglet.',
+    },
+    apps: [
+      ta('sncf'),
+    ],
+  },
+  uzes: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 님·아비뇽과는 버스로 오가고, 퐁뒤가르는 차가 편합니다.',
+      en: 'Walk the town; buses run to Nîmes and Avignon, and a car is easiest for the Pont du Gard.',
+    },
+    apps: [
+    ],
+  },
+  vezelay: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 역과 주변 마을은 택시나 차로 갑니다.',
+      en: 'Walk the village; use a taxi or car for the station and nearby villages.',
+    },
+    apps: [
+    ],
+  },
   reims: {
     modes: ['train', 'tram', 'walk'],
     howTo: {

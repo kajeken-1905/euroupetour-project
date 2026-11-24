@@ -1502,6 +1502,31 @@ export const STAY: Record<string, StayArea[]> = {
   corte: [
     a('윗마을 아래 중심가', 'Town centre', 'Corte centre', '처음 가는 여행에 추천|Best for a first visit', '성채와 광장이 걸어서 닿고 역까지 걸어서 약 15분입니다.|The citadel and square on foot, about 15 min’s walk from the station.'),
   ],
+  metz: [
+    a('구시가', 'Old town', 'Metz centre', '처음 가는 여행에 추천|Best for a first visit', '대성당과 생루이 광장 사이로, 기차역과 퐁피두 센터까지 걸어서 약 15분입니다.|Between the cathedral and Place Saint-Louis, about 15 min’s walk from the station and the Pompidou.'),
+  ],
+  amiens: [
+    a('대성당·생뢰 주변', 'Cathedral & Saint-Leu', 'Saint-Leu Amiens', '처음 가는 여행에 추천|Best for a first visit', '대성당과 운하 동네가 걸어서 닿고, 역까지 걸어서 약 15분입니다.|The cathedral and canal quarter on foot, about 15 min’s walk from the station.'),
+  ],
+  rennes: [
+    a('구시가', 'Old town', 'Rennes centre', '처음 가는 여행에 추천|Best for a first visit', '목조 가옥 골목과 시장 광장이 걸어서 닿고, 역까지 지하철로 몇 정거장입니다.|Half-timbered lanes and the market square on foot, a few metro stops from the station.'),
+  ],
+  carnac: [
+    a('카르나크 마을', 'Carnac village', 'Carnac', '열석 가까이|Near the stones', '선사 박물관과 열석이 가깝고 조용합니다.|Quiet, close to the museum and the stones.'),
+    a('카르나크플라주', 'Carnac-Plage', 'Carnac-Plage', '해변 휴양|Beach stay', '해변 앞 호텔과 식당이 모여 있습니다.|Beachfront hotels and restaurants.'),
+  ],
+  orange: [
+    a('구시가', 'Old town', 'Orange centre', '처음 가는 여행에 추천|Best for a first visit', '극장과 개선문이 걸어서 닿고 역까지도 걸어갑니다.|The theatre and arch on foot, the station within walking distance.'),
+  ],
+  bayonne: [
+    a('그랑 바욘', 'Grand Bayonne', 'Grand Bayonne', '처음 가는 여행에 추천|Best for a first visit', '대성당과 강변이 걸어서 닿고, 역은 다리 건너 약 10분입니다.|The cathedral and quays on foot; the station is about 10 min across the bridge.'),
+  ],
+  uzes: [
+    a('구시가', 'Old town', 'Uzès centre', '처음 가는 여행에 추천|Best for a first visit', '성과 광장이 모두 걸어서 닿는 작은 구시가입니다.|A compact old town with the castle and squares on foot.'),
+  ],
+  vezelay: [
+    a('베즐레 마을', 'Vézelay village', 'Vézelay', '처음 가는 여행에 추천|Best for a first visit', '대성당 아래 마을 안에 작은 호텔과 민박이 있습니다. 대중교통이 드물어 차가 편합니다.|Small hotels and B&Bs below the basilica; public transport is sparse, so a car is easiest.'),
+  ],
   reims: [
     a('대성당 주변 (시내 중심)', 'Centre-Ville (near the cathedral)', 'Cathédrale Notre-Dame de Reims', '처음 가는 여행에 추천|Best for a first visit', '대성당과 상점, 식당, 기차역을 걸어서 다닙니다. 가장 붐비는 곳입니다.|The cathedral, shops, restaurants and the station on foot; the busiest area.'),
     a('샴페인 시골 마을', 'Champagne countryside', 'Montagne de Reims', '포도밭과 샴페인 하우스|Vineyards and Champagne houses', '포도밭 전망과 작은 양조장을 즐기며 조용히 지냅니다. 차가 필요하고 마을 식당은 일찍 닫습니다.|Vineyard views and small producers in calm villages; you need a car, and village restaurants close early.'),
