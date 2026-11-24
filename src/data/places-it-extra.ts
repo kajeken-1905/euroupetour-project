@@ -498,4 +498,33 @@ export const placesITExtra: Place[] = [
   place('trapani-fine_dining-4', 'trapani', 'fine_dining', 'Ristorante Santa Chiara 19', 'Piazza Principessa Jolanda, 91100 Trapani, Italy', '구시가의 시칠리아 요리 식당.', 'Sicilian cooking in the old town.'),
   place('trapani-bakery-1', 'trapani', 'bakery', 'Pasticceria La Rinascente', 'Via Gatti 3, 91100 Trapani, Italy', '구시가 골목의 과자점.', 'A pastry shop in an old-town lane.'),
   place('trapani-bakery-2', 'trapani', 'bakery', 'Pasticceria Maria Grammatico', 'Via Vittorio Emanuele 14, 91016 Erice, Italy', '에리체 수녀원 아몬드 과자의 전통을 잇는 유명 과자점.', 'The famous Erice pastry shop carrying on the convent tradition of almond sweets.'),
+
+  // —— lipari: restaurants, bakeries and cafés (2026-11-24) ——
+  place('lipari-fine_dining-1', 'lipari', 'fine_dining', 'I Tenerumi', 'Via Vulcanello, Isola Vulcano, 98055, Italy', '불칸섬 불카넬로 쪽 리조트 안의 채식 레스토랑. 미쉐린 2스타. 리파리에서 배로 약 10분.', 'Vegetarian restaurant in a resort on Vulcano’s Vulcanello side. Two MICHELIN stars. About 10 min by boat from Lipari.', { michelin: 'star2' }),
+  place('lipari-fine_dining-2', 'lipari', 'fine_dining', 'Il Cappero', 'Via Vulcanello, Isola Vulcano, 98055, Italy', '불칸섬 불카넬로 쪽 리조트 안의 지중해 요리 레스토랑. 미쉐린 1스타. 리파리에서 배로 약 10분.', 'Mediterranean restaurant in a resort on Vulcano’s Vulcanello side. One MICHELIN star. About 10 min by boat from Lipari.', { michelin: 'star1' }),
+  place('lipari-fine_dining-3', 'lipari', 'fine_dining', 'Signum', 'Via Pastifico 12, Malfa, 98050, Italy', '살리나섬 말파 마을 호텔의 시칠리아 요리 레스토랑. 미쉐린 1스타. 리파리에서 배로 살리나까지 간 뒤 이동합니다.', 'Sicilian restaurant in a hotel in Malfa on Salina. One MICHELIN star. Take the boat from Lipari to Salina, then on to Malfa.', { michelin: 'star1' }),
+  place('lipari-fine_dining-4', 'lipari', 'fine_dining', 'Trattoria da Pina di Maniaci', 'Strada Provinciale 179, Isola Vulcano, 98055, Italy', '불칸섬의 시칠리아 가정식 트라토리아. 미쉐린 빕 구르망.', 'Sicilian home-style trattoria on Vulcano. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('lipari-fine_dining-5', 'lipari', 'fine_dining', 'Trattoria del Vicolo', 'Vico Ulisse 17, Lipari, 98055, Italy', '리파리 시내 골목 안의 시칠리아 요리 트라토리아. 미쉐린 가이드 소개. 구글 지도 평점 4.4.', 'Sicilian trattoria in a lane in Lipari town. Listed in the MICHELIN Guide; rated 4.4 on Google Maps.'),
+  place('lipari-bakery-1', 'lipari', 'bakery', 'Arte e Sapori di Pino D\'Ambra', 'Vico Morfeo 50, Lipari', '리파리 시내의 과자점. 시칠리아 과자를 냅니다. 구글 지도 평점 4.8.', 'Pastry shop in Lipari town for Sicilian pastries. Rated 4.8 on Google Maps.'),
+  place('lipari-cafe-1', 'lipari', 'cafe', 'Caffè La Vela', 'Piazza di Sant\'Onofrio 2, Lipari', '마리나 코르타 근처 광장의 카페 겸 비스트로. 구글 지도 평점 4.5.', 'Café-bistro on a square near Marina Corta. Rated 4.5 on Google Maps.'),
+  place('lipari-cafe-2', 'lipari', 'cafe', 'Eden Bar', 'Corso Vittorio Emanuele II 133, Lipari', '리파리 중심가의 카페 바. 구글 지도 평점 4.4.', 'Café-bar on Lipari’s main street. Rated 4.4 on Google Maps.'),
+  place('lipari-cafe-3', 'lipari', 'cafe', 'Bar D\'Ambra', 'Piazza di Marina Corta 5, Lipari', '마리나 코르타 항구 앞 카페 바. 구글 지도 평점 4.3.', 'Café-bar on the Marina Corta harbour. Rated 4.3 on Google Maps.'),
+  place('lipari-cafe-4', 'lipari', 'cafe', 'Cafè La Precchia', 'Corso Vittorio Emanuele II 191, Lipari', '리파리 중심가의 카페 바. 구글 지도 평점 4.3.', 'Café-bar on Lipari’s main street. Rated 4.3 on Google Maps.'),
+
+  // —— treviso: restaurants, bakeries and cafés (2026-11-24) ——
+  place('treviso-fine_dining-1', 'treviso', 'fine_dining', 'Feria', 'Via della Quercia 8, Treviso, 31100, Italy', '트레비소의 인도네시아 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9.', 'Indonesian restaurant in Treviso. Listed in the MICHELIN Guide; rated 4.9 on Google Maps.'),
+  place('treviso-fine_dining-2', 'treviso', 'fine_dining', 'Pierre - Trattoria Sartoriale', 'Viale dei Mille 1/c, Treviso, 31100, Italy', '현대식 요리를 내는 트라토리아. 미쉐린 가이드 소개. 구글 지도 평점 4.8.', 'Trattoria serving modern cooking. Listed in the MICHELIN Guide; rated 4.8 on Google Maps.'),
+  place('treviso-fine_dining-3', 'treviso', 'fine_dining', 'MARdiVINO', 'Strada del Nascimben 1/a, Treviso, 31100, Italy', '해산물 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6.', 'Fish and seafood restaurant. Listed in the MICHELIN Guide; rated 4.6 on Google Maps.'),
+  place('treviso-fine_dining-4', 'treviso', 'fine_dining', 'Le Beccherie', 'Piazza Giannino Ancilotto 9, Treviso, 31100, Italy', '구시가의 오래된 향토 요리 레스토랑으로, 티라미수를 처음 낸 곳으로 알려져 있습니다. 미쉐린 가이드 소개. 구글 지도 평점 4.5.', 'Long-standing old-town restaurant of country cooking, known as the place where tiramisù was first served. Listed in the MICHELIN Guide; rated 4.5 on Google Maps.'),
+  place('treviso-fine_dining-5', 'treviso', 'fine_dining', 'Antico Morer', 'Via Riccati 28, Treviso, 31100, Italy', '구시가의 해산물 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.5.', 'Fish and seafood restaurant in the old town. Listed in the MICHELIN Guide; rated 4.5 on Google Maps.'),
+  place('treviso-bakery-1', 'treviso', 'bakery', 'Panificio Gritti', 'Via Montello 58, Treviso', '동네 빵집. 구글 지도 평점 4.8.', 'Neighbourhood bakery. Rated 4.8 on Google Maps.'),
+  place('treviso-bakery-2', 'treviso', 'bakery', 'Panificio Bongermino', 'Via Fra\' Giocondo 19, Treviso', '구시가 안의 빵집. 구글 지도 평점 4.7.', 'Bakery inside the old town. Rated 4.7 on Google Maps.'),
+  place('treviso-bakery-3', 'treviso', 'bakery', 'I Sapori del Grano', 'Viale B. Burchiellati 60, Treviso', '성벽 바로 바깥의 빵집 겸 과자점. 구글 지도 평점 4.7.', 'Bakery and pastry shop just outside the walls. Rated 4.7 on Google Maps.'),
+  place('treviso-bakery-4', 'treviso', 'bakery', 'Panificio Vacilotto', 'Viale Luigi Luzzatti 76, Treviso', '동네 빵집. 구글 지도 평점 4.7.', 'Neighbourhood bakery. Rated 4.7 on Google Maps.'),
+  place('treviso-bakery-5', 'treviso', 'bakery', 'NonSoloPane', 'Piazza S. Pio X 2, Treviso', '빵과 과자를 파는 동네 빵집. 구글 지도 평점 4.7.', 'Neighbourhood bakery for bread and pastries. Rated 4.7 on Google Maps.'),
+  place('treviso-cafe-1', 'treviso', 'cafe', 'Taste Coffee & More', 'Vicolo Trevisi 16/21, Treviso', '구시가의 스페셜티 커피 카페. 구글 지도 평점 4.9.', 'Specialty coffee café in the old town. Rated 4.9 on Google Maps.'),
+  place('treviso-cafe-2', 'treviso', 'cafe', 'WOOD Treviso', 'Via dei Lombardi 10, Treviso', '구시가의 커피 전문점. 구글 지도 평점 4.8.', 'Coffee shop in the old town. Rated 4.8 on Google Maps.'),
+  place('treviso-cafe-3', 'treviso', 'cafe', 'Caffè e Cioccolato Treviso', 'Via Pola 4, Treviso', '커피와 핫초콜릿을 내는 카페. 구글 지도 평점 4.8.', 'Café for coffee and hot chocolate. Rated 4.8 on Google Maps.'),
+  place('treviso-cafe-4', 'treviso', 'cafe', 'Bar Caffè Manin', 'Via Daniele Manin 53, Treviso', '구시가의 카페 바. 구글 지도 평점 4.7.', 'Café-bar in the old town. Rated 4.7 on Google Maps.'),
+  place('treviso-cafe-5', 'treviso', 'cafe', 'Cooofe - Treviso', 'Via Martiri della Libertà 70, Treviso', '구시가의 에스프레소 바. 구글 지도 평점 4.5.', 'Espresso bar in the old town. Rated 4.5 on Google Maps.'),
 ]
