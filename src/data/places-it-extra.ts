@@ -178,7 +178,7 @@ export const placesITExtra: Place[] = [
 
   // —— stresa ——
   place('stresa-bakery-1', 'stresa', 'bakery', 'Pasticceria Marcolini', 'Via Vincenzo de Vit 14, 28838 Stresa', '1959년부터 마르게리티네 비스킷을 굽는 스트레사 제과점.', 'Stresa pastry shop baking Margheritine biscuits since 1959.'),
-  place('stresa-fine_dining-1', 'stresa', 'fine_dining', 'Piccolo Lago', 'Via Filippo Turati 87, 28802 Mergozzo', '메르고초 호숫가의 마르코 사코 셰프 레스토랑(스트레사에서 차로 15분). 오래 미쉐린 2스타였으나 2025년판부터 별이 없습니다.', 'Chef Marco Sacco\'s lakeside restaurant at Mergozzo, 15 minutes\' drive from Stresa; long a two-Michelin-star address, it has held no stars since the 2025 guide.'),
+  place('stresa-fine_dining-1', 'stresa', 'fine_dining', 'Piccolo Lago', 'Via Filippo Turati 87, 28802 Mergozzo', '메르고초 호숫가의 마르코 사코 셰프 레스토랑(스트레사에서 차로 15분). 오래 미쉐린 2스타였으나 2025년판부터 별이 없고, 2027년판엔 실리지 않았습니다. 구글 지도 평점 4.6.', 'Chef Marco Sacco\'s lakeside restaurant at Mergozzo, 15 minutes\' drive from Stresa; long a two-Michelin-star address, it has held no stars since the 2025 guide and is not in the 2027 guide. Rated 4.6 on Google Maps.'),
 
   // —— sirmione ——
   place('sirmione-fine_dining-1', 'sirmione', 'fine_dining', 'La Rucola 2.0', 'Vicolo Strentelle 3, 25019 Sirmione', '스칼리제라 성 근처의 미쉐린 1스타 레스토랑. 일요일은 쉽니다.', 'One-Michelin-star restaurant near the Scaliger Castle; closed Sundays.', { michelin: 'star1' }),
@@ -359,7 +359,7 @@ export const placesITExtra: Place[] = [
   place('pisa-cafe-2', 'pisa', 'cafe', 'Caffè Letterario Volta Pagina', 'Via San Martino 71, 56125 Pisa', '아르노강 남쪽의 책 카페.', 'Literary café south of the Arno.'),
 
   // —— san-gimignano ——
-  place('san-gimignano-fine_dining-1', 'san-gimignano', 'fine_dining', 'Linfa', 'Piazza Sant\'Agostino 19/A, 53037 San Gimignano', '산타고스티노 광장의 창의 요리 레스토랑. 미쉐린 가이드 선정.', 'Creative cooking on the Piazza Sant’Agostino. In the MICHELIN Guide.'),
+  place('san-gimignano-fine_dining-1', 'san-gimignano', 'fine_dining', 'Linfa', 'Piazza Sant\'Agostino 19/A, 53037 San Gimignano', '산타고스티노 광장의 창의 요리 레스토랑. 2027년판에서 새로 미쉐린 1스타를 받았습니다.', 'Creative cooking on the Piazza Sant’Agostino. New MICHELIN star in the 2027 guide.', { michelin: 'star1' }),
   place('san-gimignano-fine_dining-2', 'san-gimignano', 'fine_dining', 'San Martino 26', 'Via San Martino 26, 53037 San Gimignano', '성벽 안의 토스카나 요리 레스토랑. 미쉐린 가이드 선정.', 'Tuscan cooking inside the walls. In the MICHELIN Guide.'),
   place('san-gimignano-fine_dining-3', 'san-gimignano', 'fine_dining', 'Le Vecchie Mura', 'Via Piandornella 15, 53037 San Gimignano', '옛 성벽 아래 공간의 토스카나 요리 식당.', 'Tuscan restaurant in a space under the old walls.'),
   place('san-gimignano-bakery-1', 'san-gimignano', 'bakery', 'Forno Boboli', 'Via San Matteo 92, 53037 San Gimignano', '1909년부터 이어온 산 마테오 거리의 빵집.', 'Bakery on Via San Matteo, going since 1909.'),
