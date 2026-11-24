@@ -5190,3 +5190,20 @@ highlights/krakow-13.jpg | https://commons.wikimedia.org/wiki/File:DJI_0236_Kopi
 highlights/krakow-14.jpg | https://commons.wikimedia.org/wiki/File:Nowa_Huta_-_Plac_Centralny_z_lotu_ptaka.jpg | CC BY-SA 4.0 | Piotr Tomaszewski-Guillon / dronographyapplied.com
 highlights/gdansk-11.jpg | https://commons.wikimedia.org/wiki/File:Gda%C5%84sk._Z%C5%82ota_Brama_-_panoramio.jpg | CC BY-SA 3.0 | Krzysztof Rakowski
 highlights/wroclaw-10.jpg | https://commons.wikimedia.org/wiki/File:Hydropolis,_Wroclaw_(P1180359-Pano).jpg | CC BY-SA 4.0 | Matti Blume
+highlights/rome-34.jpg | https://commons.wikimedia.org/wiki/File:CircusMaximusSO.jpg | CC BY-SA 4.0 | Rabax63
+highlights/rome-35.jpg | https://commons.wikimedia.org/wiki/File:0030_Largo_di_Torre_Argentina,_Area_Sacra_dal_IV_al_I_sec._a.C.jpg | CC BY-SA 4.0 | Luciano Tronati
+highlights/rome-36.jpg | https://commons.wikimedia.org/wiki/File:StPaul.jpg | CC BY 4.0 | StPaul.jpg
+highlights/rome-37.jpg | https://commons.wikimedia.org/wiki/File:Ceiling_in_Galleria_Doria_Pamphilj_(Roma).jpg | CC BY-SA 4.0 | Livioandronico2013
+highlights/rome-38.jpg | https://commons.wikimedia.org/wiki/File:Rainy_Rome_Panorama,_Gianicolo_%E2%80%A2_Janiculum_Hill_(46801439302).jpg | CC BY 2.0 | Sonse
+highlights/naples-15.jpg | https://commons.wikimedia.org/wiki/File:Galleria_Umberto_I,_Interior,_Naples_(5263).jpg | CC BY-SA 4.0 | Marco Ober
+highlights/naples-16.jpg | https://commons.wikimedia.org/wiki/File:Napoli_-_Murales_Maradona_a_Montecalvario.jpeg | CC BY-SA 4.0 | Nadia Alessandra Sassi
+highlights/naples-17.jpg | https://commons.wikimedia.org/wiki/File:Toledo_(Metropolitana_di_Napoli_L1).jpg | CC0 | Zaiar95
+highlights/naples-18.jpg | https://commons.wikimedia.org/wiki/File:Catacombe_di_San_Gennaro_035.jpg | CC BY-SA 4.0 | Dominik Matus
+highlights/milan-25.jpg | https://commons.wikimedia.org/wiki/File:Tower_of_San_Maurizio_al_Monastero_Maggiore1.jpg | CC BY-SA 2.5 ca | Óðinn
+highlights/milan-26.jpg | https://commons.wikimedia.org/wiki/File:Biblioteca_Ambrosiana_facciata_pincipale_(Milano).jpg | CC BY-SA 4.0 | Paolobon140
+highlights/milan-27.jpg | https://commons.wikimedia.org/wiki/File:Milan_Santa_Maria_presso_San_Satiro_016_4699.jpg | CC BY-SA 4.0 | Ludvig14
+highlights/siena-6.jpg | https://commons.wikimedia.org/wiki/File:Siena_Palazzo_Pubblico_e_torre_del_Mangia.jpg | CC BY-SA 4.0 | Claudio Mazzocchi
+highlights/siena-7.jpg | https://commons.wikimedia.org/wiki/File:Torre_del_Mangia,_Basilica_Cateriniana_San_Domenico_,_Duomo_di_Siena._View_from_Fortezza_Medicea._Siena.jpg | CC BY 4.0 | Ввласенко
+highlights/verona-10.jpg | https://commons.wikimedia.org/wiki/File:Garden_entrance,_Giardino_Giusti,_Verona,_Italy,_August_2025_01.jpg | CC BY-SA 4.0 | Annika of Nine
+highlights/verona-11.jpg | https://commons.wikimedia.org/wiki/File:Verona_from_Castel_san_Pietro_2016a.jpg | CC BY-SA 2.0 | Thomas Woodtli from Zürich, Switzerland
+highlights/palermo-10.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_della_Martorana_(Palermo)_05.jpg | CC BY 4.0 | Derbrauni

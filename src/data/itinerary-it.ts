@@ -5,16 +5,17 @@ export const itineraryIt: Record<string, RawItinerary> = {
   rome: {
     days: [
       ['테르미니에서 스페인 광장까지|Termini to the Spanish Steps', 15, 14, 7, 3, 5, 16, 17],
-      ['고대 로마|Ancient Rome', 1, 19, 6, 20, 21, 11, 23, 32],
-      ['바티칸에서 판테온까지|The Vatican to the Pantheon', 2, 25, 8, 10, 9, 26, 31, 4, 27, 24],
-      ['아피아 가도와 라테라노|Appian Way & the Lateran', 30, 28, 29],
+      ['고대 로마|Ancient Rome', 1, 19, 6, 20, 21, 11, 23, 34, 32],
+      ['바티칸에서 판테온까지|The Vatican to the Pantheon', 2, 25, 8, 10, 9, 26, 35, 31, 4, 27, 37],
+      ['트라스테베레와 자니콜로|Trastevere & the Janiculum', 24, 38],
+      ['아피아 가도와 라테라노|Appian Way & the Lateran', 30, 28, 29, 36],
     ],
     trips: [['티볼리|Tivoli', 12], ['오스티아 안티카|Ostia Antica', 13]],
   },
   milan: {
     days: [
-      ['두오모와 브레라|Duomo & Brera', 1, 22, 2, 12, 5, 21, 16, 15],
-      ['최후의 만찬과 나빌리|Last Supper & the Navigli', 11, 13, 23, 3, 7, 14, 10, 9, 4],
+      ['두오모와 브레라|Duomo & Brera', 1, 27, 26, 22, 2, 12, 5, 21, 16, 15],
+      ['최후의 만찬과 나빌리|Last Supper & the Navigli', 11, 25, 13, 23, 3, 7, 14, 10, 9, 4],
       ['현대 밀라노|Modern Milan', 18, 17, 19],
     ],
     trips: [['파비아 수도원|Certosa di Pavia', 24], ['알파 로메오 박물관|Alfa Romeo Museum', 20]],
@@ -37,8 +38,8 @@ export const itineraryIt: Record<string, RawItinerary> = {
   },
   naples: {
     days: [
-      ['구시가와 박물관|Historic centre & museums', 13, 2, 6, 9, 1, 10, 7],
-      ['왕궁과 해안|Royal Naples & the seafront', 12, 11, 5, 3],
+      ['구시가와 박물관|Historic centre & museums', 18, 13, 2, 6, 9, 1, 10, 7],
+      ['왕궁과 해안|Royal Naples & the seafront', 12, 16, 17, 15, 11, 5, 3],
     ],
     trips: [['베수비오|Vesuvius', 4], ['파에스툼|Paestum', 8], ['카세르타 왕궁|Caserta', 14]],
   },
@@ -116,12 +117,12 @@ export const itineraryIt: Record<string, RawItinerary> = {
     ],
   },
   bologna: { days: [['', 3, 8, 5, 1, 2, 4], ['산 루카와 두카티|San Luca & Ducati', 9, 6]], trips: [['람보르기니 박물관|Lamborghini Museum', 7]] },
-  verona: { days: [['', 4, 1, 8, 3, 2, 6, 5, 7]], trips: [['발폴리첼라|Valpolicella', 9]] },
+  verona: { days: [['', 4, 1, 8, 3, 2, 11, 10, 6, 5, 7]], trips: [['발폴리첼라|Valpolicella', 9]] },
   turin: { days: [['', 3, 10, 9, 8, 1, 2, 4], ['자동차와 수페르가|Cars & Superga', 6, 7, 5]], trips: [['베나리아 레알레|Venaria Reale', 11], ['바롤로|Barolo', 12]] },
   amalfi: { days: [['', 1, 3, 4, 2, 7]], trips: [['포지타노|Positano', 5], ['라벨로|Ravello', 6]] },
-  siena: [1, 3, 4, 2, 5],
+  siena: [1, 6, 3, 4, 2, 5, 7],
   genoa: [3, 7, 2, 6, 4, 1, 5, 8],
-  palermo: { days: [['구시가|Old town', 2, 1, 4, 7, 3, 6], ['카타콤베와 몬델로|Catacombs & Mondello', 8, 9]], trips: [['몬레알레|Monreale', 5]] },
+  palermo: { days: [['구시가|Old town', 2, 1, 4, 7, 10, 3, 6], ['카타콤베와 몬델로|Catacombs & Mondello', 8, 9]], trips: [['몬레알레|Monreale', 5]] },
   'vatican-city': { days: [['', 3, 4, 1, 8, 6, 2]] },
   valletta: {
     days: [

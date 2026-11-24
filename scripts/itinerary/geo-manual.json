@@ -14340,5 +14340,90 @@
     51.1038,
     17.05732,
     "OSM Nominatim: Hydropolis, 19, Na Grobli, Rakowiec, Trójkąt, Przedmieście O (Wikipedia 6m)"
+  ],
+  "rome-h34": [
+    41.88616,
+    12.48531,
+    "OSM Nominatim: Circo Massimo, Piazzale Ugo La Malfa, Ripa, Municipio Roma I (Wikipedia 43m)"
+  ],
+  "rome-h35": [
+    41.89532,
+    12.47688,
+    "OSM Nominatim: Largo di Torre Argentina, Via di San Nicola de' Cesarini, Pi (Wikipedia 7m)"
+  ],
+  "rome-h36": [
+    41.8587,
+    12.47678,
+    "OSM Nominatim: Basilica di San Paolo fuori le mura, 1, Piazzale San Paolo,  (Wikipedia 7m)"
+  ],
+  "rome-h37": [
+    41.89782,
+    12.48156,
+    "OSM Nominatim: Palazzo Doria Pamphilj, 305, Via del Corso, Pigna, Municipio (Wikipedia 38m)"
+  ],
+  "rome-h38": [
+    41.8916,
+    12.46095,
+    "OSM Nominatim: Piazzale Giuseppe Garibaldi, Trastevere, Municipio Roma I, R (Wikipedia 15m)"
+  ],
+  "naples-h15": [
+    40.83851,
+    14.24924,
+    "OSM Nominatim: Galleria Umberto I, Via San Carlo, San Ferdinando, Municipal (Wikipedia 30m)"
+  ],
+  "naples-h16": [
+    40.84138,
+    14.24511,
+    "OSM Nominatim: Largo Maradona, Via Emanuele de Deo, Quartieri Spagnoli, Mon (Wikipedia 124m)"
+  ],
+  "naples-h17": [
+    40.84243,
+    14.24894,
+    "OSM Nominatim: Toledo, Via Armando Diaz, Rione Carità, San Giuseppe, Munici (Wikipedia 8m)"
+  ],
+  "naples-h18": [
+    40.86506,
+    14.24736,
+    "OSM Nominatim: Catacombe di San Gennaro, Piazzale Madre Landi, Capodimonte, (Wikipedia 100m)"
+  ],
+  "milan-h25": [
+    45.46541,
+    9.17896,
+    "OSM Nominatim: San Maurizio al Monastero Maggiore, Via Bernardino Luini, Br (Wikipedia 11m)"
+  ],
+  "milan-h26": [
+    45.46364,
+    9.18601,
+    "OSM Nominatim: Pinacoteca Ambrosiana, 2, Piazza Pio Undicesimo, Cinque Vie, (Wikipedia 76m)"
+  ],
+  "milan-h27": [
+    45.4627,
+    9.18783,
+    "OSM Nominatim: Chiesa di Santa Maria presso San Satiro, Via Speronari, Cinq (Wikipedia 17m)"
+  ],
+  "siena-h6": [
+    43.318,
+    11.33201,
+    "OSM Nominatim: Palazzo Pubblico, Vicolo delle Scotte, Contrada della Torre, (Wikipedia 63m)"
+  ],
+  "siena-h7": [
+    43.3198,
+    11.32692,
+    "OSM Nominatim: Basilica Cateriniana di San Domenico, Via del Camporegio, Co (Wikipedia 7m)"
+  ],
+  "verona-h10": [
+    45.44368,
+    11.00758,
+    "OSM Nominatim: Giardino Giusti, Veronetta, Centro storico, Verona, Veneto,  (Wikipedia 29m)"
+  ],
+  "verona-h11": [
+    45.44802,
+    11.00297,
+    "OSM Nominatim: Castel San Pietro, Piazzale Castel San Pietro, Città antica, (Wikipedia 34m)"
+  ],
+  "palermo-h10": [
+    38.11474,
+    13.36289,
+    "OSM Nominatim: Santa Maria dell’Ammiraglio (La Martorana), 3, Vicolo Teatro (Wikipedia 12m)"
   ]
 }
