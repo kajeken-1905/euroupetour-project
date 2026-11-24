@@ -5469,3 +5469,8 @@ highlights/palma-10.jpg | https://commons.wikimedia.org/wiki/File:Der_Palau_Marc
 highlights/montserrat-5.jpg | https://commons.wikimedia.org/wiki/File:Museum_Montserran.jpg | CC BY-SA 4.0 | Михаил Бернгардт
 highlights/montserrat-6.jpg | https://commons.wikimedia.org/wiki/File:Escolania_Montserrat.jpg | CC BY-SA 3.0 | Own work
 highlights/saint-jean-pied-de-port-7.jpg | https://commons.wikimedia.org/wiki/File:Pilgrim_Path_on_the_Napoleon_Route_to_Roncesvalles,_Navarre.jpg | CC BY 4.0 | Hayden Soloviev
+highlights/santo-domingo-de-la-calzada-1.jpg | https://commons.wikimedia.org/wiki/File:Santo_Domingo_de_la_Calzada_3.jpg | CC BY-SA 4.0 | Jemenuño
+highlights/cordoba-10.jpg | https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_del_Alc%C3%A1zar_Califal_(23855150644).jpg | CC BY 2.0 | Delegación de Cultura Ayuntamiento de Córdoba
+highlights/pamplona-8.jpg | https://www.flickr.com/photos/23012400@N03/5808557765 | BY 2.0 | Miguel. (respenda)
+highlights/saint-jean-pied-de-port-6.jpg | https://commons.wikimedia.org/wiki/File:Maison_du_p%C3%A9lerin_(Saint-Jean-Pied-de-Port).jpg | Public domain | Tangopaso
+highlights/pontevedra-2.jpg | https://commons.wikimedia.org/wiki/File:Plaza_de_la_Le%C3%B1a_(Pontevedra).jpg | CC BY 3.0 | José Luis Filpo Cabana
