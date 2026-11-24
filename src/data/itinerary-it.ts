@@ -72,6 +72,8 @@ export const itineraryIt: Record<string, RawItinerary> = {
   ischia: { days: [['', 1, 3, 2, 4]], trips: [['프로치다|Procida', 5]] },
   ragusa: [5, 3, 1, 2, 4],
   trapani: { days: [['트라파니와 에리체|Trapani & Erice', 1, 2, 3, 4]], trips: [['마르살라|Marsala', 5], ['파비냐나|Favignana', 6]] },
+  lipari: {"days": [["\uc131\ucc44\uc640 \ud56d\uad6c|Castle & harbour", 1, 3, 2, 4], ["\uc12c \ud55c \ubc14\ud034|Around the island", 5, 6]], "trips": [["\ubd88\uce78\uc12c|Vulcano", 7], ["\uc2a4\ud2b8\ub86c\ubcfc\ub9ac|Stromboli", 8], ["\uc0b4\ub9ac\ub098|Salina", 9]]},
+  treviso: {"days": [["", 1, 3, 2, 4, 5, 6]], "trips": [["\ud504\ub85c\uc138\ucf54 \uc5b8\ub355|Prosecco Hills", 7], ["\ube4c\ub77c \ubc14\ub974\ubc14\ub85c\uc640 \uc544\uc194\ub85c|Villa Barbaro & Asolo", 8]]},
   portofino: { days: [['', 5, 1, 2, 3]], trips: [['산 프루투오소|San Fruttuoso', 4]] },
   'cinque-terre': [3, 1, 5, 2, 4],
   modena: {

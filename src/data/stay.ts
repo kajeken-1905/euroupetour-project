@@ -901,6 +901,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('치타 알타', 'Città Alta (Upper Town)', 'Città Alta, Bergamo', '옛 시가지 분위기|Old-town atmosphere', '언덕 위 중세 시가지라 당일치기 손님이 떠난 아침·저녁이 특히 좋습니다. 숙박비가 비싸고 숙소가 적으며 짐 들고 오르기 힘듭니다.|The medieval hilltop town, best in the morning and evening after the day-trippers leave; pricier, fewer rooms, and hard with heavy luggage.'),
     a('치타 바사', 'Città Bassa (Lower Town)', 'Città Bassa, Bergamo', '기차·공항·당일치기에 편리|Trains, airport and day trips', '기차역과 공항버스가 가깝고 숙소가 많고 저렴합니다. 푸니콜라로 치타 알타까지 몇 분입니다. 옛 시가지 분위기는 덜합니다.|Near the station and the airport bus, with more and cheaper rooms, a few minutes from the upper town by funicular; less historic charm.'),
   ],
+  treviso: [
+    a('구시가', 'Old town', 'Treviso centro storico', '처음 가는 여행에 추천|Best for a first visit', '성벽 안 구시가로, 운하와 광장이 모두 걸어서 닿고 역까지도 걸어갑니다.|Inside the walls, with the canals and squares on foot and the station within walking distance.'),
+  ],
   padua: [
     a('역사 지구', 'Historic Centre', 'Centro Storico, Padua', '처음 가는 여행에 추천|Best for a first visit', '광장과 대성당, 해부학 극장이 걸어서 가깝고 식당과 바가 많습니다. 광장 바로 앞에는 호텔이 적어 몇 블록 떨어진 곳을 찾게 됩니다.|The squares, the cathedral and the anatomy theatre are on foot, with plenty of restaurants and bars; few hotels face the squares themselves.'),
   ],
@@ -1274,6 +1277,9 @@ export const STAY: Record<string, StayArea[]> = {
     a('산타 마리아 (역사 지구)', 'Santa Maria (historic centre)', 'Piazza dei Miracoli, Pisa', '처음 가는 여행에 추천|Best for a first visit', '사탑과 대성당, 세례당이 가깝습니다. 관광객이 많고 가장 비쌉니다.|Near the Leaning Tower, the cathedral and the baptistery; touristy and the priciest area.'),
     a('산 프란체스코', 'San Francesco', 'San Francesco, Pisa', '대학가·저녁 분위기|University area, evenings', '교회와 광장, 바가 많은 대학가로 사탑까지 걸어서 10분쯤입니다.|A university quarter of churches, squares and bars, about ten minutes on foot to the tower.'),
     a('산탄토니오', 'Sant’Antonio', 'Sant’Antonio, Pisa', '기차역·공항 근처|Near the station and airport', '아르노강 남쪽이라 중앙역과 공항이 가까워 당일치기에 좋습니다. 사탑까지 걸어서 20분쯤입니다.|South of the Arno, close to the main station and airport for day trips; about 20 minutes’ walk to the tower.'),
+  ],
+  lipari: [
+    a('리파리 시내', 'Lipari town', 'Lipari', '처음 가는 여행에 추천|Best for a first visit', '배가 닿는 마리나 룽가와 마리나 코르타 사이로, 섬 투어 배와 식당이 모두 걸어서 닿습니다.|Between the Marina Lunga and Marina Corta harbours, with island boats and restaurants on foot.'),
   ],
   taormina: [
     a('역사 지구', 'Historic centre', 'Corso Umberto, Taormina', '처음 가는 여행에 추천|Best for a first visit', '움베르토 거리와 그리스 극장, 카페를 걸어서 다닙니다. 호텔보다 B&B가 많고 가장 비쌉니다.|Corso Umberto, the Greek theatre and cafés on foot; more B&Bs than hotels, and the priciest area.'),

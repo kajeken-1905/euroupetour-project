@@ -28,6 +28,8 @@ export const SEASON_NOTES: Record<string, { r?: string; n?: string }> = {
   grasse: { n: '5월 장미 축제(엑스포 로즈)와 8월 재스민 축제 때 가장 향기롭습니다.|Best smelt during the May rose show (Expo Rose) and the August jasmine festival.' },
   'saint-tropez': { n: '7~8월은 매우 붐비고 숙박비가 비쌉니다. 기차역이 없어 생라파엘에서 버스나 배로 갑니다.|July and August are very crowded and pricey; there is no station, so come by bus or boat from Saint-Raphaël.' },
   'aix-en-provence': { n: '7월 엑상프로방스 오페라 축제 때 숙소가 빨리 찹니다. 세잔 아틀리에는 예약이 필요합니다.|Rooms go fast during the July opera festival; Cézanne’s studio needs booking.' },
+  treviso: { n: '포도 수확철인 9~10월에 프로세코 언덕이 가장 아름답고, 봄도 걷기 좋습니다.|September–October harvest time is the best for the Prosecco hills; spring is good for walking too.' },
+  lipari: { n: '배편이 많고 바다가 잔잔한 5~10월이 알맞고, 겨울엔 배가 줄고 바람에 결항이 잦습니다.|May–October, when boats are frequent and seas calm; in winter there are fewer sailings and wind often cancels them.' },
   llangollen: { n: '보존 철도가 매일 다니고 운하 산책이 좋은 5~9월이 알맞습니다.|May–September, when the heritage railway runs daily and the towpaths are at their best.' },
   eisenach: { n: '바르트부르크 언덕과 숲길이 좋은 5~10월이 알맞습니다.|May–October, for the Wartburg hill and the forest trails.' },
   konstanz: { n: '호수 유람선이 다니는 4~10월이 알맞습니다.|April–October, when the lake boats run.' },

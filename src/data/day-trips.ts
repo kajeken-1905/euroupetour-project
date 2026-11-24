@@ -365,6 +365,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'cortina',
       tip: '돌로미티 산악 마을. 여름엔 케이블카로 전망대에 오릅니다. 편도가 길어 아침 일찍 출발하세요.|The Dolomites resort; ride a cable car up in summer, and leave early as the bus is long.',
     },
+    {
+      to: 'treviso',
+      tip: '기차로 약 40분. 운하 마을 구시가와 생선 시장 섬을 봅니다.|About 40 min by train: the canal-side old town and the fish-market island.',
+    },
   ],
   verona: [
     {

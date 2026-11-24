@@ -4416,6 +4416,16 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trenitalia'),
     ],
   },
+  treviso: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 공항은 시내버스로 가깝고, 베네치아는 기차로 오갑니다.',
+      en: 'Walk the old town; a city bus serves the airport and trains run to Venice.',
+    },
+    apps: [
+      ta('trenitalia'),
+    ],
+  },
   padua: {
     modes: ['train', 'tram', 'bus', 'walk', 'bike'],
     howTo: {
@@ -4728,6 +4738,15 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('trenitalia'),
+    ],
+  },
+  lipari: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 섬 버스가 마을과 전망대를 잇습니다. 다른 섬은 항구에서 쾌속선이나 투어 배를 탑니다.',
+      en: 'Walk around town; island buses link the villages and viewpoints, and fast boats and tour boats leave the harbour for the other islands.',
+    },
+    apps: [
     ],
   },
   taormina: {

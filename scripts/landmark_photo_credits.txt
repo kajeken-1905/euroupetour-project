@@ -5207,3 +5207,22 @@ highlights/siena-7.jpg | https://commons.wikimedia.org/wiki/File:Torre_del_Mangi
 highlights/verona-10.jpg | https://commons.wikimedia.org/wiki/File:Garden_entrance,_Giardino_Giusti,_Verona,_Italy,_August_2025_01.jpg | CC BY-SA 4.0 | Annika of Nine
 highlights/verona-11.jpg | https://commons.wikimedia.org/wiki/File:Verona_from_Castel_san_Pietro_2016a.jpg | CC BY-SA 2.0 | Thomas Woodtli from Zürich, Switzerland
 highlights/palermo-10.jpg | https://commons.wikimedia.org/wiki/File:Chiesa_della_Martorana_(Palermo)_05.jpg | CC BY 4.0 | Derbrauni
+cities/lipari.jpg | https://commons.wikimedia.org/wiki/File:Lipari_Old_Town_(26219940582).jpg | CC BY 2.0 | kuhnmi
+highlights/lipari-1.jpg | https://commons.wikimedia.org/wiki/File:Castello_di_Lipari_01.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/lipari-2.jpg | https://commons.wikimedia.org/wiki/File:Museo_di_Lipari,_sezione_classica.jpg | CC BY-SA 4.0 | Davide Mauro
+highlights/lipari-3.jpg | https://commons.wikimedia.org/wiki/File:Lipari-Cath%C3%A9drale-Fa%C3%A7ade.jpg | CC BY-SA 3.0 | Ji-Elle
+highlights/lipari-4.jpg | https://commons.wikimedia.org/wiki/File:Marina_Corta,_LIpari.jpg | CC BY 4.0 | Bernard Gagnon
+highlights/lipari-5.jpg | https://commons.wikimedia.org/wiki/File:Panorama_da_Quattrocchi_02.jpg | CC BY-SA 4.0 | Davide Mauro
+highlights/lipari-6.jpg | https://commons.wikimedia.org/wiki/File:Cave_di_Pomice_Lipari.jpg | CC BY 3.0 | Unukorno
+highlights/lipari-7.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Vulcano_(view_from_the_east).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/lipari-8.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Stromboli_(view_from_the_northeast).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/lipari-9.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Salina_(view_from_the_southwest).jpg | CC BY-SA 4.0 | Carsten Steger
+cities/treviso.jpg | https://commons.wikimedia.org/wiki/File:Parco_naturale_regionale_del_Fiume_Sile,_Treviso_09.jpg | CC BY-SA 4.0 | Liridon
+highlights/treviso-1.jpg | https://commons.wikimedia.org/wiki/File:Palazzo_dei_Trecento.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/treviso-2.jpg | https://commons.wikimedia.org/wiki/File:(Treviso)_Cagnan_e_Buranelli_viste_dal_Ponte_Fra_Giocondo.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/treviso-3.jpg | https://commons.wikimedia.org/wiki/File:Treviso_-_isola_della_Pescheria.jpeg | CC BY-SA 4.0 | Phante
+highlights/treviso-4.jpg | https://commons.wikimedia.org/wiki/File:Duomo_(Treviso)_exterior_-_the_domes.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/treviso-5.jpg | https://commons.wikimedia.org/wiki/File:San-Nicol%C3%B2-Treviso-20050528-004.jpg | CC0 | Gary Houston
+highlights/treviso-6.jpg | https://commons.wikimedia.org/wiki/File:Porta_San_Tomaso_Treviso_1.jpg | CC BY-SA 4.0 | kallerna
+highlights/treviso-7.jpg | https://commons.wikimedia.org/wiki/File:Tra_le_vigne_di_Collag%C3%B9_-_wikiraduno_Alle_colline_del_prosecco_abc_03.jpg | CC BY-SA 4.0 | Patafisik
+highlights/treviso-8.jpg | https://commons.wikimedia.org/wiki/File:Villa_Barbaro_panoramica_fronte_Marcok.jpg | Public domain | Marcok / it.wikipedia.org

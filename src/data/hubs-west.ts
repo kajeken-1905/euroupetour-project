@@ -941,6 +941,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     air: [VRN(), VCE()],
     rail: [['Vicenza', '비첸차역']],
   },
+  treviso: {
+    air: [['Treviso Canova (TSF)', '트레비소 공항 (TSF)'], ['Venezia Marco Polo (VCE)', '베네치아 공항 (VCE)', '베네치아|Venice']],
+    rail: [['Treviso Centrale', '트레비소 중앙역']],
+  },
   padua: {
     air: [VCE()],
     rail: [['Padova', '파도바역']],
@@ -1189,6 +1193,10 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Catania Centrale', '카타니아 중앙역']],
     bus: [['Terminal Bus Catania', '카타니아 버스터미널', '중앙역 근처|near the main station']],
     port: [['Porto di Catania', '카타니아 항구']],
+  },
+  lipari: {
+    air: [['Catania Fontanarossa (CTA)', '카타니아 공항 (CTA)', '밀라초 항구행 버스 약 2시간|bus to Milazzo port, about 2 hrs'], ['Palermo Falcone Borsellino (PMO)', '팔레르모 공항 (PMO)', '팔레르모|Palermo']],
+    port: [['Porto di Lipari', '리파리 항구', '밀라초·메시나행 쾌속선|hydrofoils to Milazzo, Messina']],
   },
   taormina: {
     air: [CTA()],

@@ -14425,5 +14425,90 @@
     38.11474,
     13.36289,
     "OSM Nominatim: Santa Maria dell’Ammiraglio (La Martorana), 3, Vicolo Teatro (Wikipedia 12m)"
+  ],
+  "lipari-h1": [
+    38.46692,
+    14.95715,
+    "OSM Nominatim: Castello di Lipari, Montegallina, Lipari, Messina, Sicilia,  (Wikipedia 111m)"
+  ],
+  "lipari-h2": [
+    38.4679,
+    14.95688,
+    "OSM Nominatim: Museo Archeologico Regionale Eoliano, 2, Via Castello, Monte"
+  ],
+  "lipari-h3": [
+    38.46687,
+    14.95737,
+    "OSM Nominatim: Concattedrale di San Bartolomeo, Via Castello, Montegallina, (Wikipedia 9m)"
+  ],
+  "lipari-h4": [
+    38.46458,
+    14.95741,
+    "OSM Nominatim: Marina Corta, Montegallina, Lipari, Messina, Sicilia, 98055,"
+  ],
+  "lipari-h5": [
+    38.45254,
+    14.94177,
+    "OSM Nominatim: Belvedere Quattrocchi, Via Giuseppe Rizzo, Capistello, Lipar"
+  ],
+  "lipari-h6": [
+    38.51854,
+    14.95905,
+    "OSM Nominatim: Porticello, Acquacalda, Lipari, Messina, Sicilia, Italia"
+  ],
+  "lipari-h7": [
+    38.41341,
+    14.96203,
+    "OSM Nominatim: Porto di Levante, Via Porto di Levante, Vulcanello, Vulcano "
+  ],
+  "lipari-h8": [
+    38.7918,
+    15.21118,
+    "OSM Nominatim: Isola di Stromboli, Lipari, Messina, Sicilia, Italia (Wikipedia 233m)"
+  ],
+  "lipari-h9": [
+    38.55627,
+    14.85863,
+    "OSM Nominatim: Santa Marina Salina, Messina, Sicilia, 98050, Italia"
+  ],
+  "treviso-h1": [
+    45.66586,
+    12.24558,
+    "OSM Nominatim: Piazza dei Signori, San Zeno, Treviso, Veneto, 31100, Italia (Wikipedia 7m)"
+  ],
+  "treviso-h2": [
+    45.66695,
+    12.24631,
+    "OSM Nominatim: Canale dei Buranelli, Via Buranelli, San Zeno, Treviso, Vene"
+  ],
+  "treviso-h3": [
+    45.66668,
+    12.24828,
+    "OSM Nominatim: Isola della Pescheria, San Zeno, Treviso, Veneto, 31100, Ita (Wikipedia 8m)"
+  ],
+  "treviso-h4": [
+    45.66637,
+    12.24322,
+    "OSM Nominatim: Duomo di Treviso, Piazzetta Battistero, San Zeno, Treviso, V (Wikipedia 35m)"
+  ],
+  "treviso-h5": [
+    45.66325,
+    12.23974,
+    "OSM Nominatim: Chiesa di San Nicolò, Piazzetta Benedetto undicesimo, San Ze (Wikipedia 7m)"
+  ],
+  "treviso-h6": [
+    45.66965,
+    12.25068,
+    "OSM Nominatim: Porta San Tomaso, San Zeno, Treviso, Veneto, 31100, Italia (Wikipedia 2m)"
+  ],
+  "treviso-h7": [
+    45.90181,
+    11.99562,
+    "OSM Nominatim: Piazza Guglielmo Marconi, Funer, Valdobbiadene, Fonte, Trevi"
+  ],
+  "treviso-h8": [
+    45.81224,
+    11.97652,
+    "OSM Nominatim: Villa di Maser, Via Barbaro, Muliparte, Maser, Fonte, Trevis (Wikipedia 11m)"
   ]
 }
