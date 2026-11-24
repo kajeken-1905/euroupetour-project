@@ -546,7 +546,7 @@ highlights/frankfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Gro%C3%9Fe_
 # cities/lisbon.jpg | IMG_1034 (2024-11-18, Bica funicular) | owner
 # cities/porto.jpg | IMG_0618 (2024-11-12, Douro sunset) | owner
 # highlights/lisbon-1.jpg | IMG_0868 (2024-11-16, Belém Tower) | owner
-# landmarks/landmark-pt.jpg | IMG_0165 (2024-11-08, Arco da Rua Augusta) | owner
+# landmarks/landmark-pt.jpg | IMG_0873 (2024-11-16, Belém Tower) | owner
 # cities/aveiro.jpg | IMG_0699 (2024-11-13, Aveiro canal) | owner
 # highlights/aveiro-1.jpg | IMG_0706 (2024-11-13, Canal Central) | owner
 # highlights/aveiro-2.jpg | IMG_0699 (2024-11-13, moliceiros on canal) | owner
