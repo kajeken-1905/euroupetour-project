@@ -331,6 +331,8 @@ export const visitFr: Record<string, HighlightVisit> = {
   'saint-jean-pied-de-port-h3': v(15, 20),
   'saint-jean-pied-de-port-h4': v(20, 30, { n: '대략 4~10월에 엽니다.|Open roughly April to October.' }),
   'saint-jean-pied-de-port-h5': v(60, 90, { n: '생장피에드포르에서 차로 약 15분입니다.|About 15 min by car from Saint-Jean-Pied-de-Port.' }),
+  'saint-jean-pied-de-port-h6': v(15, 30, { b: 'no' }),
+  'saint-jean-pied-de-port-h7': v(420, 540, { b: 'no', n: '겨울(대략 11~3월)엔 안전 문제로 산길이 닫혀 발카를로스 쪽 길로 가야 합니다. 출발 전 순례자 사무소에서 날씨를 확인하세요.|In winter (roughly November–March) the mountain route is closed for safety and walkers take the Valcarlos road; check the weather at the pilgrim office first.' }),
   // Toulouse
   'toulouse-h1': v(20, 30),
   'toulouse-h2': v(30, 45, { c: 'daily', b: 'no', s: 'https://www.toulouse-tourisme.com/activite/la-basilique-saint-sernin/', n: '성당은 무료이고 회랑·지하 묘소만 유료입니다.|The basilica is free; only the ambulatory and crypt charge.', k: '2026-10' }),

@@ -196,6 +196,71 @@ export const STAY: Record<string, StayArea[]> = {
   burgos: [
     a('대성당 주변 구시가', 'Old town by the cathedral', 'Plaza Mayor Burgos', '처음 가는 여행에 추천|Best for a first visit', '대성당과 강변이 걸어서 닿습니다. 기차역은 시 외곽이라 버스나 택시를 탑니다.|The cathedral and riverside on foot; the station is out of town, so take a bus or taxi.'),
   ],
+  murcia: [
+    a('대성당 주변', 'Around the cathedral', 'Plaza Cardenal Belluga Murcia', '처음 가는 여행에 추천|Best for a first visit', '대성당과 카지노, 광장들이 걸어서 닿습니다. 역까지는 버스나 택시가 편합니다.|The cathedral, casino and squares on foot; take a bus or taxi to the station.'),
+  ],
+  cartagena: [
+    a('구시가와 항구', 'Old town & harbour', 'Calle Mayor Cartagena', '처음 가는 여행에 추천|Best for a first visit', '로마 극장과 항구, 중심가가 모두 걸어서 닿습니다.|The Roman theatre, harbour and main street all on foot.'),
+  ],
+  'vitoria-gasteiz': [
+    a('구시가 아래 중심가', 'Centre below the old town', 'Calle Dato Vitoria', '처음 가는 여행에 추천|Best for a first visit', '광장과 구시가가 걸어서 닿고 기차역까지 걸어서 약 10분입니다.|The square and old town on foot, about 10 min’s walk from the station.'),
+  ],
+  'a-coruna': [
+    a('항구와 구시가', 'Harbour & old town', 'Praza de María Pita A Coruña', '처음 가는 여행에 추천|Best for a first visit', '광장과 항구, 해변 산책로가 걸어서 닿습니다. 역까지는 버스나 택시를 탑니다.|The square, harbour and promenade on foot; take a bus or taxi to the station.'),
+  ],
+  lugo: [
+    a('성벽 안 구시가', 'Inside the walls', 'Praza Maior Lugo', '처음 가는 여행에 추천|Best for a first visit', '성벽과 대성당, 타파스 골목이 모두 걸어서 닿습니다.|The walls, cathedral and tapas lanes all on foot.'),
+  ],
+  sarria: [
+    a('마요르 거리 주변', 'Around the Rúa Maior', 'Rúa Maior Sarria', '순례 출발에 추천|Best for starting the Camino', '순례자 숙소와 호텔이 모여 있고, 순례길이 바로 앞을 지납니다.|Pilgrim hostels and hotels cluster here, right on the Camino.'),
+  ],
+  vigo: [
+    a('구시가와 중심가', 'Old town & centre', 'Porta do Sol Vigo', '처음 가는 여행에 추천|Best for a first visit', '항구와 굴 거리, 우르사이스역이 걸어서 닿습니다.|The port, oyster street and Urzáiz station on foot.'),
+  ],
+  pontevedra: [
+    a('구시가', 'Old town', 'Praza da Ferrería Pontevedra', '처음 가는 여행에 추천|Best for a first visit', '광장과 성당이 걸어서 닿고, 역까지 걸어서 약 15분입니다.|The squares and churches on foot, about 15 min’s walk from the station.'),
+  ],
+  'las-palmas': [
+    a('라스 칸테라스 해변', 'Las Canteras', 'Playa de Las Canteras', '해변 휴양|Beach stay', '해변 앞에 호텔과 식당이 모여 있고, 베게타까지 버스로 약 20분입니다.|Hotels and restaurants on the beach, about 20 min by bus from Vegueta.'),
+    a('베게타·트리아나', 'Vegueta & Triana', 'Triana Las Palmas', '처음 가는 여행에 추천|Best for a first visit', '구시가와 쇼핑 거리, 버스터미널이 가깝습니다.|Close to the old town, shopping street and bus station.'),
+  ],
+  lanzarote: [
+    a('푸에르토 델 카르멘', 'Puerto del Carmen', 'Puerto del Carmen', '해변 휴양|Beach stay', '해변 호텔과 식당이 가장 많고 공항이 가깝습니다.|The most beach hotels and restaurants, close to the airport.'),
+    a('아레시페', 'Arrecife', 'Arrecife', '버스 이동에 편리|Handy for buses', '섬의 중심 도시로, 버스 노선이 모입니다.|The island capital, where bus routes meet.'),
+  ],
+  gijon: [
+    a('중심가와 해변', 'Centre & beach', 'Plaza Mayor Gijón', '처음 가는 여행에 추천|Best for a first visit', '시마데비야와 해변이 걸어서 닿습니다.|Cimadevilla and the beach on foot.'),
+  ],
+  valladolid: [
+    a('마요르 광장 주변', 'Around the Plaza Mayor', 'Plaza Mayor Valladolid', '처음 가는 여행에 추천|Best for a first visit', '광장과 박물관, 대성당이 걸어서 닿고 역까지 걸어서 약 15분입니다.|The square, museums and cathedral on foot, about 15 min’s walk from the station.'),
+  ],
+  astorga: [
+    a('대성당 주변', 'Around the cathedral', 'Plaza Mayor Astorga', '처음 가는 여행에 추천|Best for a first visit', '주교관과 광장이 걸어서 닿고, 순례자 숙소도 모여 있습니다.|The palace and square on foot, with pilgrim hostels nearby.'),
+  ],
+  ponferrada: [
+    a('구시가', 'Old town', 'Plaza del Ayuntamiento Ponferrada', '처음 가는 여행에 추천|Best for a first visit', '성과 광장이 걸어서 닿습니다.|The castle and square on foot.'),
+  ],
+  almagro: [
+    a('마요르 광장 주변', 'Around the Plaza Mayor', 'Plaza Mayor Almagro', '처음 가는 여행에 추천|Best for a first visit', '광장과 극장이 걸어서 닿습니다.|The square and theatre on foot.'),
+  ],
+  siguenza: [
+    a('구시가', 'Old town', 'Plaza Mayor Sigüenza', '처음 가는 여행에 추천|Best for a first visit', '대성당과 성 사이 작은 구시가로, 역까지 걸어서 약 10분입니다.|The small old town between cathedral and castle, about 10 min’s walk from the station.'),
+  ],
+  antequera: [
+    a('구시가', 'Old town', 'Calle Infante Don Fernando Antequera', '처음 가는 여행에 추천|Best for a first visit', '알카사바와 성당이 걸어서 닿고 버스터미널이 가깝습니다.|The Alcazaba and churches on foot, close to the bus station.'),
+  ],
+  huesca: [
+    a('구시가 아래 중심가', 'Centre', 'Coso Alto Huesca', '처음 가는 여행에 추천|Best for a first visit', '대성당과 기차·버스역이 걸어서 닿습니다. 산과 마을은 차로 다닙니다.|The cathedral and the rail and bus station on foot; drive to the mountains and villages.'),
+  ],
+  cadaques: [
+    a('마을 중심', 'Village centre', 'Cadaqués', '처음 가는 여행에 추천|Best for a first visit', '바닷가와 골목이 걸어서 닿고, 포르트이가트까지 걸어서 약 20분입니다.|The seafront and lanes on foot, about 20 min’s walk to Portlligat.'),
+  ],
+  peniscola: [
+    a('북쪽 해변', 'Playa Norte', 'Playa Norte Peñíscola', '처음 가는 여행에 추천|Best for a first visit', '해변 앞 호텔이 많고 성채 마을까지 걸어서 닿습니다.|Plenty of beachfront hotels, with the walled village on foot.'),
+  ],
+  'santo-domingo-de-la-calzada': [
+    a('대성당 주변', 'Around the cathedral', 'Plaza del Santo Santo Domingo de la Calzada', '처음 가는 여행에 추천|Best for a first visit', '대성당과 순례자 숙소가 모여 있고, 성당 앞에 파라도르가 있습니다.|The cathedral and pilgrim hostels, with a Parador facing the church.'),
+  ],
   logrono: [
     a('구시가', 'Old town', 'Calle Laurel Logroño', '처음 가는 여행에 추천|Best for a first visit', '라우렐 거리와 대성당이 걸어서 닿고 역까지 걸어서 약 15분입니다.|Calle Laurel and the cathedral on foot, about 15 min’s walk from the station.'),
   ],

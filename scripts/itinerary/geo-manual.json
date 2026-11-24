@@ -14820,5 +14820,755 @@
     47.81521,
     3.80017,
     "OSM Nominatim: Chablis, Auxerre, Yonne, Bourgogne-Franche-Comté, France mét (Wikipedia 204m)"
+  ],
+  "murcia-h1": [
+    37.98407,
+    -1.12864,
+    "OSM Nominatim: Catedral de Murcia, Plaza del Cardenal Belluga, La Catedral, (Wikipedia 43m)"
+  ],
+  "murcia-h2": [
+    37.9855,
+    -1.12882,
+    "OSM Nominatim: Real Casino de Murcia, Calle Arquitecto Cerdán Martínez, La "
+  ],
+  "murcia-h3": [
+    37.98671,
+    -1.13843,
+    "OSM Nominatim: Museo Salzillo, 3, Plaza San Agustín, San Andrés, Murcia, La"
+  ],
+  "murcia-h4": [
+    37.98464,
+    -1.13313,
+    "OSM Nominatim: Plaza de las Flores, San Pedro, Murcia, La Arboleja, Murcia,"
+  ],
+  "murcia-h5": [
+    37.98277,
+    -1.13158,
+    "OSM Nominatim: Puente Viejo, La Catedral, Murcia, Barrio del Progreso, Murc"
+  ],
+  "cartagena-h1": [
+    37.59961,
+    -0.98417,
+    "OSM Nominatim: Teatro Romano de Cartagena, Calle San Isidoro, Casco Antiguo (Wikipedia 14m)"
+  ],
+  "cartagena-h2": [
+    37.60013,
+    -0.98201,
+    "OSM Nominatim: Castillo de la Concepción, Calle Scipión, Casco Antiguo, Car"
+  ],
+  "cartagena-h3": [
+    37.59772,
+    -0.98086,
+    "OSM Nominatim: Museo Nacional de Arqueología Subacuática, Paseo de Alfonso "
+  ],
+  "cartagena-h4": [
+    37.60033,
+    -0.98639,
+    "OSM Nominatim: Calle Mayor, Casco Antiguo, Cartagena Casco, Cartagena, Camp"
+  ],
+  "cartagena-h5": [
+    37.60417,
+    -0.9786,
+    "OSM Nominatim: Muralla Púnica, Plaza de las Puertas de San José, Casco Anti"
+  ],
+  "vitoria-gasteiz-h1": [
+    42.85079,
+    -2.67239,
+    "OSM Nominatim: Santa Maria Katedrala, Frai Zacarias Martinez kalea, Alde Za"
+  ],
+  "vitoria-gasteiz-h2": [
+    42.84661,
+    -2.67333,
+    "OSM Nominatim: Andre Maria Zuriaren plaza, Zabalgunea, Vitoria-Gasteiz, Gas (Wikipedia 6m)"
+  ],
+  "vitoria-gasteiz-h3": [
+    42.84994,
+    -2.67458,
+    "OSM Nominatim: Centro de Empresas del Casco Medieval, Errementari kalea, Al"
+  ],
+  "vitoria-gasteiz-h4": [
+    42.84932,
+    -2.66793,
+    "OSM Nominatim: Artium, 24, Frantzia kalea, Anglo-Vasco, Vitoria-Gasteiz, Ga"
+  ],
+  "vitoria-gasteiz-h5": [
+    42.84957,
+    -2.67093,
+    "OSM Nominatim: BiBat, 54, Aiztogile kalea, Alde Zaharra, Vitoria-Gasteiz, G"
+  ],
+  "vitoria-gasteiz-h6": [
+    42.85044,
+    -2.65071,
+    "OSM Nominatim: Salburua, Vitoria-Gasteiz, Gasteizko kuadrilla, Araba / Álav"
+  ],
+  "a-coruna-h1": [
+    43.38594,
+    -8.40652,
+    "OSM Nominatim: Torre de Hércules, 1, Estrada da Torre de Hércules, As Lagoa (Wikipedia 15m)"
+  ],
+  "a-coruna-h2": [
+    43.36979,
+    -8.39897,
+    "OSM Nominatim: Avenida da Mariña, Zalaeta, A Pescaría, A Coruña, Galicia, 1"
+  ],
+  "a-coruna-h3": [
+    43.37104,
+    -8.39594,
+    "OSM Nominatim: Praza de María Pita, A Mestranza, Cidade Vella, A Coruña, Ga"
+  ],
+  "a-coruna-h4": [
+    43.36914,
+    -8.4091,
+    "OSM Nominatim: Praia de Riazor, Riazor, A Coruña, Galicia, 15004, España"
+  ],
+  "a-coruna-h5": [
+    43.37761,
+    -8.40646,
+    "OSM Nominatim: Domus - Casa do Home, 91, Rúa Ángel Rebollo, Zalaeta, Monte "
+  ],
+  "lugo-h1": [
+    43.01144,
+    -7.56256,
+    "OSM Nominatim: Muralla romana de Lugo, Praza de Santa María, Casco Vello, L (Wikipedia 754m)"
+  ],
+  "lugo-h2": [
+    43.00912,
+    -7.55821,
+    "OSM Nominatim: Catedral de Santa María de Lugo, Praza de Santa María, Casco (Wikipedia 11m)"
+  ],
+  "lugo-h3": [
+    43.0095,
+    -7.55673,
+    "OSM Nominatim: Praza Maior, Casco Vello, Lugo, Galicia, España"
+  ],
+  "lugo-h4": [
+    43.01145,
+    -7.55933,
+    "OSM Nominatim: Rúa Nova, Casco Vello, Lugo, Galicia, 27001, España"
+  ],
+  "lugo-h5": [
+    43.01176,
+    -7.55892,
+    "OSM Nominatim: Museo Provincial de Lugo, Praza da Soidade, Casco Vello, Lug"
+  ],
+  "sarria-h1": [
+    42.77728,
+    -7.41612,
+    "OSM Nominatim: Rúa Maior, Arrabaldo, Veiga de Abaixo, Sarria, Lugo, Galicia"
+  ],
+  "sarria-h3": [
+    42.77881,
+    -7.42066,
+    "OSM Nominatim: Albergue do Mosteiro da Madalena, 60, Avenida da Mercede, Sa"
+  ],
+  "sarria-h4": [
+    42.77679,
+    -7.41785,
+    "OSM Nominatim: Fortaleza de Sarria, Rúa do Castelo, Os Esqueiredos, A Ásper"
+  ],
+  "sarria-h5": [
+    42.73213,
+    -7.3255,
+    "OSM Nominatim: Mosteiro de San Xiao de Samos, Paseo Horta da Farmacia, O Fo"
+  ],
+  "vigo-h1": [
+    42.21892,
+    -8.90558,
+    "OSM Nominatim: ZEC e ZEPA Illas Cíes, Vigo, Pontevedra, Galicia, España (Wikipedia 510m)"
+  ],
+  "vigo-h2": [
+    42.23995,
+    -8.72581,
+    "OSM Nominatim: Rua da Pescadería, A Fonte de Vigo, Beiramar, Vigo, Ponteved"
+  ],
+  "vigo-h3": [
+    42.23159,
+    -8.72634,
+    "OSM Nominatim: Monte do Castro, Vigo, Pontevedra, Galicia, 36203, España"
+  ],
+  "vigo-h4": [
+    42.2358,
+    -8.72115,
+    "OSM Nominatim: Museo de Arte Contemporánea de Vigo, 54, Rúa do Príncipe, A "
+  ],
+  "vigo-h5": [
+    42.21053,
+    -8.77618,
+    "OSM Nominatim: Praia de Samil, As Saíñas, Navia, Vigo, Pontevedra, Galicia,"
+  ],
+  "pontevedra-h2": [
+    42.43263,
+    -8.64323,
+    "OSM Nominatim: Praza da Leña, Casco Antigo, Pontevedra, Galicia, 36002, Esp"
+  ],
+  "pontevedra-h4": [
+    42.43337,
+    -8.6422,
+    "OSM Nominatim: Museo de Pontevedra (Edificio Castelao), 3, Rúa Padre Amoedo"
+  ],
+  "pontevedra-h5": [
+    42.43563,
+    -8.64405,
+    "OSM Nominatim: Ponte do Burgo, O Covo, O Burgo, Lérez, Pontevedra, Galicia,"
+  ],
+  "las-palmas-h1": [
+    28.09936,
+    -15.41447,
+    "OSM Nominatim: Vegueta, Las Palmas de Gran Canaria, Las Palmas, Canarias, 3"
+  ],
+  "las-palmas-h2": [
+    28.10138,
+    -15.41411,
+    "OSM Nominatim: Casa de Colón, 1, Calle Colón, Vegueta, Las Palmas de Gran C"
+  ],
+  "las-palmas-h3": [
+    28.10083,
+    -15.41473,
+    "OSM Nominatim: Catedral de Santa Ana, Calle del Castillo, Vegueta, Las Palm"
+  ],
+  "las-palmas-h4": [
+    28.13955,
+    -15.43663,
+    "OSM Nominatim: Playa de Las Canteras, Puerto, Santa Catalina-Canteras, Las  (Wikipedia 71m)"
+  ],
+  "las-palmas-h5": [
+    27.97082,
+    -15.6126,
+    "OSM Nominatim: Roque Nublo, Tejeda, Las Palmas, Canarias, 35368, España (Wikipedia 10m)"
+  ],
+  "las-palmas-h6": [
+    27.74388,
+    -15.5829,
+    "OSM Nominatim: Dunas de Maspalomas, San Bartolomé de Tirajana, Las Palmas,  (Wikipedia 333m)"
+  ],
+  "lanzarote-h1": [
+    29.02164,
+    -13.78124,
+    "OSM Nominatim: Parque Nacional de Timanfaya, Tinajo, Las Palmas, Canarias, "
+  ],
+  "lanzarote-h2": [
+    29.15749,
+    -13.43168,
+    "OSM Nominatim: Jameos del Agua, 109, LZ-1, Haría, Las Palmas, Canarias, 355 (Wikipedia 119m)"
+  ],
+  "lanzarote-h3": [
+    29.21442,
+    -13.48137,
+    "OSM Nominatim: Mirador del Río, LZ-202, Haría, Las Palmas, Canarias, 35540, (Wikipedia 25m)"
+  ],
+  "lanzarote-h4": [
+    28.96931,
+    -13.71494,
+    "OSM Nominatim: Bodega La Geria, Carretera La Geria, La Geria, Uga, Yaiza, L"
+  ],
+  "lanzarote-h5": [
+    29.00308,
+    -13.54727,
+    "OSM Nominatim: Fundación César Manrique, Calle Jorge Luís Borges, Teguise, "
+  ],
+  "lanzarote-h6": [
+    29.08064,
+    -13.47607,
+    "OSM Nominatim: Jardín de Cactus, Teguise, Las Palmas, Canarias, 35544, Espa (Wikipedia 50m)"
+  ],
+  "gijon-h1": [
+    43.54712,
+    -5.66308,
+    "OSM Nominatim: Cimavilla, Gijón / Xixón, Gijón, Asturias / Asturies, España (Wikipedia 216m)"
+  ],
+  "gijon-h2": [
+    43.54907,
+    -5.66298,
+    "OSM Nominatim: Elogio del Horizonte, Parque del Cerro, Cimavilla, Gijón / X (Wikipedia 17m)"
+  ],
+  "gijon-h3": [
+    43.54274,
+    -5.65902,
+    "OSM Nominatim: Playa de San Lorenzo, El Centro, Gijón / Xixón, Gijón, Astur"
+  ],
+  "gijon-h4": [
+    43.52451,
+    -5.61665,
+    "OSM Nominatim: Universidad Laboral, Calle José Luis Álvarez Margaride, Cabu"
+  ],
+  "gijon-h5": [
+    43.54545,
+    -5.66117,
+    "OSM Nominatim: Museo de las Termas Romanas de Campo Valdés / Muséu de les T"
+  ],
+  "valladolid-h1": [
+    41.65743,
+    -4.72336,
+    "OSM Nominatim: Museo de Escultura Colegio de San Gregorio, 1,2,3, Calle de "
+  ],
+  "valladolid-h2": [
+    41.65706,
+    -4.72441,
+    "OSM Nominatim: Iglesia de San Pablo, Plaza de San Pablo, San Pablo - San Ni"
+  ],
+  "valladolid-h3": [
+    41.65206,
+    -4.72855,
+    "OSM Nominatim: Plaza Mayor, Valladolid, Castilla y León, España"
+  ],
+  "valladolid-h4": [
+    41.65259,
+    -4.72339,
+    "OSM Nominatim: Catedral de Nuestra Señora de la Asunción, Plaza de Portugal (Wikipedia 45m)"
+  ],
+  "valladolid-h5": [
+    41.64818,
+    -4.72711,
+    "OSM Nominatim: Casa Museo de Cervantes, Calle del Rastro, Campo Grande, Val (Wikipedia 18m)"
+  ],
+  "valladolid-h6": [
+    41.64526,
+    -4.73236,
+    "OSM Nominatim: Campo Grande, Valladolid, Castilla y León, España"
+  ],
+  "astorga-h1": [
+    42.45781,
+    -6.05589,
+    "OSM Nominatim: Palacio Episcopal de Astorga, Calle Doctor Mérida Pérez, Ast"
+  ],
+  "astorga-h2": [
+    42.45805,
+    -6.05683,
+    "OSM Nominatim: Catedral de Astorga, Calle Doctor Mérida Pérez, Astorga, Leó (Wikipedia 31m)"
+  ],
+  "astorga-h3": [
+    42.45868,
+    -6.04973,
+    "OSM Nominatim: Museo del Chocolate, Avenida de la Estación, Astorga, León, "
+  ],
+  "astorga-h4": [
+    42.45428,
+    -6.05254,
+    "OSM Nominatim: Museo Romano La Ergástula, 2, Plaza San Bartolomé, Astorga, "
+  ],
+  "astorga-h5": [
+    42.45418,
+    -6.05298,
+    "OSM Nominatim: Ayuntamiento de Astorga, Calle Padres Redentoristas, Astorga"
+  ],
+  "ponferrada-h1": [
+    42.54403,
+    -6.59349,
+    "OSM Nominatim: Castillo de Ponferrada, Travesía del Temple, Otero, Ponferra"
+  ],
+  "ponferrada-h2": [
+    42.54423,
+    -6.59173,
+    "OSM Nominatim: Basílica de Nuestra Señora de la Encina, Plaza Virgen de la "
+  ],
+  "ponferrada-h3": [
+    42.54557,
+    -6.5912,
+    "OSM Nominatim: Torre del Reloj, Calle Carnicerías, Flores del Sil, Ponferra"
+  ],
+  "ponferrada-h4": [
+    42.45444,
+    -6.76292,
+    "OSM Nominatim: Las Médulas, Carucedo, Rubiá, El Bierzo, León, Castilla y Le (Wikipedia 550m)"
+  ],
+  "almagro-h1": [
+    38.88832,
+    -3.71185,
+    "OSM Nominatim: Corral de Comedias de Almagro, 18, Plaza Mayor, Almagro, Ciu"
+  ],
+  "almagro-h2": [
+    38.88866,
+    -3.71173,
+    "OSM Nominatim: Plaza Mayor, Almagro, Ciudad Real, Castilla-La Mancha, Españ"
+  ],
+  "almagro-h4": [
+    38.66593,
+    -3.84527,
+    "OSM Nominatim: Castillo Convento de Calatrava La Nueva, Camino del castillo (Wikipedia 42m)"
+  ],
+  "siguenza-h1": [
+    41.06873,
+    -2.64091,
+    "OSM Nominatim: Catedral de Sigüenza, 1, Plaza Mayor, Colonia La Isla, Sigüe (Wikipedia 46m)"
+  ],
+  "siguenza-h2": [
+    41.06432,
+    -2.64121,
+    "OSM Nominatim: Parador Nacional Castillo de Sigüenza, Plaza del Castillo, S"
+  ],
+  "siguenza-h3": [
+    41.06776,
+    -2.6405,
+    "OSM Nominatim: Ayuntamiento de Sigüenza, 9, Plaza Mayor, Colonia La Isla, S"
+  ],
+  "siguenza-h4": [
+    41.06579,
+    -2.64165,
+    "OSM Nominatim: Calle Travesaña Alta, Sigüenza, Guadalajara, Castilla-La Man"
+  ],
+  "antequera-h1": [
+    37.02401,
+    -4.54582,
+    "OSM Nominatim: Dólmenes de Antequera, Carretera de Málaga, Antequera, Málag"
+  ],
+  "antequera-h2": [
+    36.96108,
+    -4.55849,
+    "OSM Nominatim: El Torcal de Antequera, Antequera, Málaga, Andalucía, España"
+  ],
+  "antequera-h3": [
+    37.01444,
+    -4.55777,
+    "OSM Nominatim: Alcazaba de Antequera, Callejón del Aire, Antequera, Málaga, (Wikipedia 38m)"
+  ],
+  "antequera-h4": [
+    37.01445,
+    -4.55616,
+    "OSM Nominatim: Real Colegiata de Santa María la Mayor, Callejón del Aire, A"
+  ],
+  "antequera-h5": [
+    36.92796,
+    -4.78201,
+    "OSM Nominatim: Caminito del Rey, Ardales, Guadalteba, Málaga, Andalucía, 29"
+  ],
+  "huesca-h1": [
+    42.14044,
+    -0.40815,
+    "OSM Nominatim: Iglesia Catedral de la Transfiguración del Señor, Calle del  (Wikipedia 15m)"
+  ],
+  "huesca-h2": [
+    42.1382,
+    -0.40739,
+    "OSM Nominatim: Iglesia de San Pedro el Viejo, Plaza de San Pedro, San Pedro"
+  ],
+  "huesca-h3": [
+    42.32545,
+    -0.61271,
+    "OSM Nominatim: Castillo de Loarre, Camino de Loarre a Rasal, Loarre, Hoya d"
+  ],
+  "huesca-h4": [
+    42.41719,
+    0.13864,
+    "OSM Nominatim: Sobrarbe, Huesca, Aragón, España (Wikipedia 442m)"
+  ],
+  "huesca-h5": [
+    42.64923,
+    -0.05973,
+    "OSM Nominatim: Pradera de Ordesa, Torla-Ordesa, Sobrarbe, Huesca, Aragón, 2"
+  ],
+  "cadaques-h1": [
+    42.29327,
+    3.28601,
+    "OSM Nominatim: Casa-Museu Salvador Dalí, Avinguda de Salvador Dali, Portlli"
+  ],
+  "cadaques-h2": [
+    42.28818,
+    3.27563,
+    "OSM Nominatim: Santa Maria, Carrer del Portal del Mont, Portlligat, Cadaqué"
+  ],
+  "cadaques-h3": [
+    42.28935,
+    3.27522,
+    "OSM Nominatim: Cadaqués, Alt Empordà, Girona, Catalunya, 17488, España"
+  ],
+  "cadaques-h4": [
+    42.31947,
+    3.32237,
+    "OSM Nominatim: Cap de Creus, 17488, España (Wikipedia 48m)"
+  ],
+  "cadaques-h5": [
+    42.32335,
+    3.16633,
+    "OSM Nominatim: Monestir de Sant Pere de Rodes, Camí del Monestir, Sant Pere (Wikipedia 40m)"
+  ],
+  "peniscola-h1": [
+    40.35887,
+    0.40762,
+    "OSM Nominatim: Castell de Peníscola, Plaça d'Armes, Peníscola / Peñíscola, "
+  ],
+  "peniscola-h2": [
+    40.35787,
+    0.40737,
+    "OSM Nominatim: Carrer Major, Peníscola / Peñíscola, el Baix Maestrat, Caste"
+  ],
+  "peniscola-h3": [
+    40.35698,
+    0.40732,
+    "OSM Nominatim: lo Bufador, Peníscola / Peñíscola, el Baix Maestrat, Castell"
+  ],
+  "peniscola-h4": [
+    40.38113,
+    0.40898,
+    "OSM Nominatim: Platja Nord de Peníscola, Peníscola / Peñíscola, el Baix Mae"
+  ],
+  "peniscola-h5": [
+    40.32811,
+    0.30868,
+    "OSM Nominatim: Serra d'Irta, Peníscola / Peñíscola, el Baix Maestrat, Caste"
+  ],
+  "santo-domingo-de-la-calzada-h1": [
+    42.44106,
+    -2.95372,
+    "OSM Nominatim: Catedral de Santo Domingo de la Calzada, Calle de Cristo, Sa"
+  ],
+  "santo-domingo-de-la-calzada-h2": [
+    42.4403,
+    -2.94926,
+    "OSM Nominatim: Calle Mayor, Santo Domingo de la Calzada, La Rioja, 26250, E"
+  ],
+  "santo-domingo-de-la-calzada-h3": [
+    42.32588,
+    -2.86567,
+    "OSM Nominatim: Monasterio San Millán de Yuso, Calle Covento, San Millán de "
+  ],
+  "madrid-h29": [
+    40.41998,
+    -3.68873,
+    "OSM Nominatim: Puerta de Alcalá, Plaza de la Independencia, Recoletos, Sala (Wikipedia 14m)"
+  ],
+  "madrid-h30": [
+    40.41866,
+    -3.70625,
+    "OSM Nominatim: Monasterio de las Descalzas Reales, 3, Plaza de las Descalza"
+  ],
+  "madrid-h31": [
+    40.42343,
+    -3.68889,
+    "OSM Nominatim: Museo Arqueológico Nacional, 13, Calle de Serrano, Recoletos"
+  ],
+  "madrid-h32": [
+    40.41114,
+    -3.69357,
+    "OSM Nominatim: CaixaForum Madrid, 36, Paseo del Prado, Cortes, Centro, Madr (Wikipedia 44m)"
+  ],
+  "madrid-h33": [
+    40.41527,
+    -3.70089,
+    "OSM Nominatim: Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de M"
+  ],
+  "barcelona-h31": [
+    41.38378,
+    2.18201,
+    "OSM Nominatim: Basílica de Santa Maria del Mar, Passeig del Born, la Ribera"
+  ],
+  "barcelona-h32": [
+    41.38583,
+    2.1838,
+    "OSM Nominatim: Mercat del Born, Passeig de Picasso, la Ribera, Sant Pere, S"
+  ],
+  "barcelona-h33": [
+    41.36864,
+    2.16008,
+    "OSM Nominatim: Fundació Joan Miró, Avinguda de Miramar, Satalia, el Poble-s (Wikipedia 8m)"
+  ],
+  "barcelona-h34": [
+    41.3686,
+    2.15346,
+    "OSM Nominatim: Museu Nacional d'Art de Catalunya, Carrer Mirador del Palau "
+  ],
+  "seville-h15": [
+    37.3824,
+    -5.99632,
+    "OSM Nominatim: Torre del Oro, Paseo Alcalde Marqués del Contadero, El Arena (Wikipedia 14m)"
+  ],
+  "seville-h16": [
+    37.37477,
+    -5.98879,
+    "OSM Nominatim: Parque de María Luisa, Distrito Sur, Sevilla, Andalucía, Esp (Wikipedia 20m)"
+  ],
+  "seville-h17": [
+    37.39538,
+    -5.98941,
+    "OSM Nominatim: Palacio de las Dueñas, 5, Calle Dueñas, Feria, Casco Antiguo"
+  ],
+  "seville-h18": [
+    37.38524,
+    -5.99033,
+    "OSM Nominatim: Hospital de los Venerables, Calle Jamerdana, Santa Cruz, Cas"
+  ],
+  "seville-h19": [
+    37.4419,
+    -6.04532,
+    "OSM Nominatim: Conjunto Arqueológico de Itálica, 2, Santiponce, Sevilla, An (Wikipedia 251m)"
+  ],
+  "cordoba-h8": [
+    37.87563,
+    -4.77659,
+    "OSM Nominatim: Torre de la Calahorra - Museo Vivo de Al-Ándalus, Calle Baja (Wikipedia 10m)"
+  ],
+  "cordoba-h9": [
+    37.88357,
+    -4.77449,
+    "OSM Nominatim: Plaza de la Corredera, San Pedro, Distrito Centro, Córdoba, "
+  ],
+  "cordoba-h10": [
+    37.87791,
+    -4.78228,
+    "OSM Nominatim: Baños del Alcázar Califal, Plaza Campo Santo de los Mártires (Wikipedia 4m)"
+  ],
+  "granada-h14": [
+    37.17536,
+    -3.59919,
+    "OSM Nominatim: Alcaicería, Pasaje de la Ermita, Sagrario, Centro - Sagrario (Wikipedia 92m)"
+  ],
+  "granada-h15": [
+    37.17845,
+    -3.59299,
+    "OSM Nominatim: El Bañuelo, Calle Carrera del Darro, San Pedro, Albaicín, Gr (Wikipedia 1m)"
+  ],
+  "granada-h16": [
+    37.19199,
+    -3.5993,
+    "OSM Nominatim: Monasterio de La Cartuja, Calle Profesor Vicente Callao, Cer"
+  ],
+  "malaga-h11": [
+    36.71967,
+    -4.4216,
+    "OSM Nominatim: Calle Marqués de Larios, Centro Histórico, Centro, Málaga, M"
+  ],
+  "malaga-h12": [
+    36.72407,
+    -4.41756,
+    "OSM Nominatim: Fundación Picasso Museo Casa Natal, 15, Plaza de la Merced, "
+  ],
+  "malaga-h13": [
+    36.7216,
+    -4.42289,
+    "OSM Nominatim: Museo Carmen Thyssen Málaga, 10, Calle Compañía, Centro Hist (Wikipedia 25m)"
+  ],
+  "valencia-h9": [
+    39.4725,
+    -0.3748,
+    "OSM Nominatim: Palau del Marqués de Dosaigües, Carrer de Sant Andreu, la Xe (Wikipedia 97m)"
+  ],
+  "valencia-h10": [
+    39.47639,
+    -0.37528,
+    "OSM Nominatim: Plaça de la Mare de Déu, Ciutat Vella, València, Comarca de "
+  ],
+  "valencia-h11": [
+    39.46934,
+    -0.36816,
+    "OSM Nominatim: Mercado de Colón, Carrer de Martínez Ferrando, el Pla del Re (Wikipedia 53m)"
+  ],
+  "valencia-h12": [
+    39.46613,
+    -0.37777,
+    "OSM Nominatim: Estació del Nord, 24, Carrer de Xàtiva, Russafa, l'Eixample,"
+  ],
+  "valencia-h13": [
+    39.4759,
+    -0.38393,
+    "OSM Nominatim: Torres de Quart, Carrer de Guillem de Castro, Ciutat Vella, "
+  ],
+  "toledo-h11": [
+    39.85696,
+    -4.03029,
+    "OSM Nominatim: Sinagoga de Santa María la Blanca, Travesía de Santa María l (Wikipedia 2m)"
+  ],
+  "toledo-h12": [
+    39.85568,
+    -4.02961,
+    "OSM Nominatim: Sinagoga del Tránsito, Calle de Samuel Levi, Toledo, Castill"
+  ],
+  "toledo-h13": [
+    39.8606,
+    -4.02418,
+    "OSM Nominatim: Mezquita del Cristo de la Luz, Calle Cristo de la Luz, Santa (Wikipedia 8m)"
+  ],
+  "bilbao-h9": [
+    43.26546,
+    -2.9381,
+    "OSM Nominatim: Bilboko Arte Eder museoa, 2, Museo plaza, Abandoibarra, Inda (Wikipedia 65m)"
+  ],
+  "bilbao-h10": [
+    43.25969,
+    -2.93712,
+    "OSM Nominatim: Azkuna Zentroa, 4, Arriquibar plaza, Indautxu, Abando, Bilba"
+  ],
+  "san-sebastian-h9": [
+    43.32504,
+    -1.985,
+    "OSM Nominatim: San Telmo Museoa, Zuloaga plaza, Parte Zaharra, Erdialdea, C (Wikipedia 15m)"
+  ],
+  "santiago-h8": [
+    42.88213,
+    -8.54428,
+    "OSM Nominatim: Mosteiro e Igrexa de San Martiño Piñario e Seminario Maior,  (Wikipedia 25m)"
+  ],
+  "santiago-h9": [
+    42.87107,
+    -8.52574,
+    "OSM Nominatim: Cidade da Cultura de Galicia, O Viso, Santiago de Compostela (Wikipedia 101m)"
+  ],
+  "santiago-h10": [
+    42.8825,
+    -9.27222,
+    "OSM Nominatim: Cabo Fisterra, Fisterra, A Coruña, Galicia, 15155, España (Wikipedia 0m)"
+  ],
+  "pamplona-h5": [
+    42.81955,
+    -1.64653,
+    "OSM Nominatim: Museo de Navarra, Ingurubidea, San Zernin, Casco Antiguo, Pa"
+  ],
+  "pamplona-h6": [
+    42.818,
+    -1.64493,
+    "OSM Nominatim: Iglesia de San Saturnino, San Saturnino kalea, Nabarreria, C"
+  ],
+  "pamplona-h7": [
+    42.48173,
+    -1.64934,
+    "OSM Nominatim: Palacio Real de Olite, Paseo de Doña Leonor, Olite / Erriber (Wikipedia 11m)"
+  ],
+  "pamplona-h8": [
+    43.00917,
+    -1.32017,
+    "OSM Nominatim: Orreaga / Roncesvalles, Pirinioak, Navarra, Navarra / Nafarr (Wikipedia 14m)"
+  ],
+  "pamplona-h9": [
+    42.69143,
+    -1.81232,
+    "OSM Nominatim: Puente la Reina / Gares, Izarbeibar-Novenera, Navarra, Navar"
+  ],
+  "salamanca-h8": [
+    40.96011,
+    -5.66259,
+    "OSM Nominatim: Convento de San Esteban, Plaza del Concilio de Trento, Centr"
+  ],
+  "zaragoza-h7": [
+    41.65481,
+    -0.87817,
+    "OSM Nominatim: Museo Goya, 23, Calle de Francisco Bayeu, El Tubo, Casco Ant"
+  ],
+  "palma-h9": [
+    39.57017,
+    2.64103,
+    "OSM Nominatim: Es Baluard, Passeig de Sagrera, Puig de Sant Pere, Canavall, (Wikipedia 92m)"
+  ],
+  "palma-h10": [
+    39.56843,
+    2.64778,
+    "OSM Nominatim: Jardins del palau March, Canamunt, Districte Centre, Palma, "
+  ],
+  "montserrat-h5": [
+    41.59292,
+    1.83618,
+    "OSM Nominatim: Museu de Montserrat, Carretera de Montserrat, Monestir de Mo (Wikipedia 193m)"
+  ],
+  "montserrat-h6": [
+    41.59336,
+    1.83748,
+    "OSM Nominatim: Monestir de Montserrat, Monistrol de Montserrat, Bages, Barc"
+  ],
+  "saint-jean-pied-de-port-h6": [
+    43.16237,
+    -1.23722,
+    "OSM Nominatim: Rue de la Citadelle, Nafarroa Beherea, Larroinea, Saint-Jean"
+  ],
+  "saint-jean-pied-de-port-h7": [
+    43.14985,
+    -1.2426,
+    "OSM Nominatim: Route Napoléon, Nafarroa Beherea, Zihe, Uhart-Cize, Bayonne,"
   ]
 }

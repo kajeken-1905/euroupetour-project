@@ -2525,6 +2525,229 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('alsa'),
     ],
   },
+  murcia: {
+    modes: ['walk', 'bus', 'tram'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 트램은 북쪽 신시가지로 갑니다.',
+      en: 'Walk the old town; the tram serves the northern districts.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  cartagena: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  'vitoria-gasteiz': {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 트램이 시내를 가로지릅니다.',
+      en: 'Walk the centre; the tram crosses the city.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  'a-coruna': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 헤라클레스의 탑까지는 버스나 해변 산책로로 갑니다.',
+      en: 'Walk the centre; reach the Tower of Hercules by bus or along the promenade.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  lugo: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '성벽 안 구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town inside the walls.',
+    },
+    apps: [
+      ta('alsa'),
+    ],
+  },
+  sarria: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 사모스는 택시나 차가 편합니다.',
+      en: 'Walk the town; a taxi or car is easiest for Samos.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  vigo: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 해변과 공항엔 버스가 갑니다. 가파른 거리엔 야외 에스컬레이터가 있습니다.',
+      en: 'Walk the centre; buses run to the beaches and airport, and outdoor escalators help on the steep streets.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  pontevedra: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 차가 없어 걸어서 다닙니다.',
+      en: 'The old town is car-free; walk everywhere.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  'las-palmas': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내는 시내버스로 다니고, 섬 곳곳은 글로벌 버스가 잇습니다.',
+      en: 'Use city buses in town; Global buses cover the island.',
+    },
+    apps: [
+    ],
+  },
+  lanzarote: {
+    modes: ['bus', 'taxi'],
+    howTo: {
+      ko: '명소가 섬 곳곳에 흩어져 있고 버스가 드물어, 렌터카나 투어가 편합니다.',
+      en: 'The sights are spread around the island and buses are infrequent; a hire car or tour is easiest.',
+    },
+    apps: [
+    ],
+  },
+  gijon: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다니고, 라보랄까지는 버스를 탑니다.',
+      en: 'Walk the centre; take a bus to the Laboral.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  valladolid: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '중심가는 걸어서 다닙니다.',
+      en: 'Walk the centre.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  astorga: {
+    modes: ['walk'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다.',
+      en: 'Walk the town.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  ponferrada: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 라스 메둘라스는 차나 택시가 편합니다.',
+      en: 'Walk the old town; a car or taxi is easiest for Las Médulas.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  almagro: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다.',
+      en: 'Walk the town.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  siguenza: {
+    modes: ['walk'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다.',
+      en: 'Walk the town.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  antequera: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다. 엘 토르칼은 차나 택시가 편합니다.',
+      en: 'Walk the town; a car or taxi is easiest for El Torcal.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  huesca: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 근교 성과 산은 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the castles and mountains.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  cadaques: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 크레우스곶은 차나 여름 꼬마 기차를 이용합니다.',
+      en: 'Walk the village; use a car or the summer road train for Cap de Creus.',
+    },
+    apps: [
+    ],
+  },
+  peniscola: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 해변은 걸어서 다닙니다. 역까지는 버스나 택시를 탑니다.',
+      en: 'Walk the village and beach; take a bus or taxi to the station.',
+    },
+    apps: [
+      ta('renfe'),
+      ta('alsa'),
+    ],
+  },
+  'santo-domingo-de-la-calzada': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다. 수도원은 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the monasteries.',
+    },
+    apps: [
+      ta('alsa'),
+    ],
+  },
   logrono: {
     modes: ['walk', 'bus', 'train'],
     howTo: {

@@ -414,6 +414,104 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Burgos Rosa de Lima', '부르고스 로사 데 리마역', '시내까지 버스로 약 15분|about 15 min by bus to the centre']],
     bus: [['Estación de Autobuses de Burgos', '부르고스 버스터미널']],
   },
+  murcia: {
+    air: [['Región de Murcia (RMU)', '무르시아 공항 (RMU)'], ['Alicante–Elche (ALC)', '알리칸테 공항 (ALC)', '알리칸테|Alicante']],
+    rail: [['Murcia del Carmen', '무르시아 델 카르멘역']],
+    bus: [['Estación de Autobuses de Murcia', '무르시아 버스터미널']],
+  },
+  cartagena: {
+    air: [['Región de Murcia (RMU)', '무르시아 공항 (RMU)'], ['Alicante–Elche (ALC)', '알리칸테 공항 (ALC)', '알리칸테|Alicante']],
+    rail: [['Cartagena', '카르타헤나역']],
+    bus: [['Estación de Autobuses de Cartagena', '카르타헤나 버스터미널']],
+  },
+  'vitoria-gasteiz': {
+    air: [['Bilbao (BIO)', '빌바오 공항 (BIO)', '빌바오|Bilbao'], ['Vitoria (VIT)', '비토리아 공항 (VIT)', '운항편 적음|few flights']],
+    rail: [['Vitoria-Gasteiz', '비토리아가스테이스역']],
+    bus: [['Estación de Autobuses de Vitoria-Gasteiz', '비토리아 버스터미널']],
+  },
+  'a-coruna': {
+    air: [['A Coruña (LCG)', '아코루냐 공항 (LCG)'], ['Santiago (SCQ)', '산티아고 공항 (SCQ)', '산티아고|Santiago']],
+    rail: [['A Coruña', '아코루냐역']],
+    bus: [['Estación de Autobuses de A Coruña', '아코루냐 버스터미널']],
+  },
+  lugo: {
+    air: [['Santiago (SCQ)', '산티아고 공항 (SCQ)', '산티아고|Santiago'], ['A Coruña (LCG)', '아코루냐 공항 (LCG)', '아코루냐|A Coruña']],
+    rail: [['Lugo', '루고역']],
+    bus: [['Estación de Autobuses de Lugo', '루고 버스터미널']],
+  },
+  sarria: {
+    air: [['Santiago (SCQ)', '산티아고 공항 (SCQ)', '산티아고|Santiago']],
+    rail: [['Sarria', '사리아역']],
+    bus: [['Sarria bus stop', '사리아 버스 정류장', '루고·산티아고행|to Lugo, Santiago']],
+  },
+  vigo: {
+    air: [['Vigo (VGO)', '비고 공항 (VGO)'], ['Santiago (SCQ)', '산티아고 공항 (SCQ)', '산티아고|Santiago']],
+    rail: [['Vigo-Urzáiz', '비고 우르사이스역', '고속열차|high-speed trains'], ['Vigo-Guixar', '비고 기샤르역', '포르투행 열차|trains to Porto']],
+    port: [['Estación Marítima de Vigo', '비고 여객 터미널', '시에스 제도행 배|boats to the Cíes Islands']],
+  },
+  pontevedra: {
+    air: [['Vigo (VGO)', '비고 공항 (VGO)', '비고|Vigo'], ['Santiago (SCQ)', '산티아고 공항 (SCQ)', '산티아고|Santiago']],
+    rail: [['Pontevedra', '폰테베드라역']],
+    bus: [['Estación de Autobuses de Pontevedra', '폰테베드라 버스터미널']],
+  },
+  'las-palmas': {
+    air: [['Gran Canaria (LPA)', '그란카나리아 공항 (LPA)']],
+    port: [['Puerto de La Luz', '라 루스 항구', '테네리페·란사로테 등 섬 사이 페리|inter-island ferries']],
+  },
+  lanzarote: {
+    air: [['Lanzarote (ACE)', '란사로테 공항 (ACE)']],
+    port: [['Puerto de Arrecife', '아레시페 항구', '섬 사이 페리|inter-island ferries']],
+  },
+  gijon: {
+    air: [['Asturias (OVD)', '아스투리아스 공항 (OVD)']],
+    rail: [['Gijón', '히혼역']],
+    bus: [['Estación de Autobuses de Gijón', '히혼 버스터미널']],
+  },
+  valladolid: {
+    air: [MAD()],
+    rail: [['Valladolid Campo Grande', '바야돌리드 캄포 그란데역']],
+    bus: [['Estación de Autobuses de Valladolid', '바야돌리드 버스터미널']],
+  },
+  astorga: {
+    air: [MAD()],
+    rail: [['Astorga', '아스토르가역', '시내까지 걸어서 약 15분|about 15 min’s walk to the centre']],
+    bus: [['Estación de Autobuses de Astorga', '아스토르가 버스터미널']],
+  },
+  ponferrada: {
+    air: [MAD()],
+    rail: [['Ponferrada', '폰페라다역']],
+    bus: [['Estación de Autobuses de Ponferrada', '폰페라다 버스터미널']],
+  },
+  almagro: {
+    air: [MAD()],
+    rail: [['Ciudad Real', '시우다드레알역', '마드리드행 AVE, 알마그로까지 약 25km|AVE to Madrid; about 25 km to Almagro'], ['Almagro', '알마그로역', '지역 열차|regional trains']],
+  },
+  siguenza: {
+    air: [MAD()],
+    rail: [['Sigüenza', '시구엔사역']],
+  },
+  antequera: {
+    air: [AGP()],
+    rail: [['Antequera-Santa Ana', '안테케라 산타아나역', 'AVE, 시내까지 택시 약 15분|AVE; about 15 min by taxi to town'], ['Antequera', '안테케라역', '지역 열차|regional trains']],
+    bus: [['Estación de Autobuses de Antequera', '안테케라 버스터미널']],
+  },
+  huesca: {
+    air: [['Zaragoza (ZAZ)', '사라고사 공항 (ZAZ)', '사라고사|Zaragoza'], MAD()],
+    rail: [['Huesca', '우에스카역']],
+    bus: [['Estación Intermodal de Huesca', '우에스카 버스터미널']],
+  },
+  cadaques: {
+    air: [['Girona (GRO)', '지로나 공항 (GRO)', '지로나|Girona'], BCN()],
+    bus: [['Cadaqués bus station', '카다케스 버스 정류장', '바르셀로나·피게레스행|to Barcelona, Figueres']],
+  },
+  peniscola: {
+    air: [['Castellón (CDT)', '카스테욘 공항 (CDT)', '운항편 적음|few flights'], ['Valencia (VLC)', '발렌시아 공항 (VLC)', '발렌시아|Valencia']],
+    rail: [['Benicarló-Peñíscola', '베니카를로-페니스콜라역', '마을까지 약 7km, 버스나 택시|about 7 km to the village, bus or taxi']],
+  },
+  'santo-domingo-de-la-calzada': {
+    air: [['Bilbao (BIO)', '빌바오 공항 (BIO)', '빌바오|Bilbao']],
+    bus: [['Santo Domingo bus stop', '산토도밍고 버스 정류장', '로그로뇨·부르고스행|to Logroño, Burgos']],
+  },
   logrono: {
     air: [['Bilbao (BIO)', '빌바오 공항 (BIO)', '빌바오|Bilbao']],
     rail: [['Logroño', '로그로뇨역']],

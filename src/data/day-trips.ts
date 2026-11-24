@@ -864,6 +864,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'cuenca',
       tip: '협곡 절벽에 매달린 집과 산 파블로 다리, 대성당을 봅니다. 고속열차역이 시내에서 멀어 버스로 구시가까지 오릅니다.|The Hanging Houses over the gorge, the San Pablo Bridge and the cathedral; the high-speed station is out of town, so take a bus up.',
     },
+    {
+      to: 'siguenza',
+      tip: '기차로 약 1시간 40분. 요새 같은 대성당과 언덕 위 성이 있는 중세 도시입니다.|About 1 hr 40 by train: a medieval hill town with a fortress-like cathedral and castle.',
+    },
   ],
   barcelona: [
     {
@@ -917,6 +921,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'granada',
       tip: '알람브라를 봅니다. 입장권은 미리 예약하세요.|The Alhambra; book tickets well ahead.',
+    },
+    {
+      to: 'antequera',
+      tip: '버스로 약 1시간. 세계유산 고인돌과 알카사바를 보고, 차가 있으면 엘 토르칼에 들릅니다.|About 1 hr by bus: the World Heritage dolmens and the Alcazaba, plus El Torcal if you have a car.',
     },
   ],
   granada: [

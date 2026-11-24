@@ -57,7 +57,7 @@ export const itineraryFr: Record<string, RawItinerary> = {
   sarlat: { days: [['', 1, 2, 3]], trips: [['라스코 IV|Lascaux IV', 4], ['도르도뉴 강변 마을|Dordogne villages', 5, 6]] },
   rocamadour: { days: [['', 4, 1, 2, 3]], trips: [['파디라크 동굴|Padirac', 5]] },
   albi: { days: [['', 1, 3, 2, 4]], trips: [['코르드쉬르시엘|Cordes-sur-Ciel', 5]] },
-  'saint-jean-pied-de-port': { days: [['', 1, 3, 4, 2]], trips: [['이룰레기|Irouléguy', 5]] },
+  'saint-jean-pied-de-port': { days: [['', 1, 6, 3, 4, 2]], trips: [['나폴레옹 길|Route Napoléon', 7], ['이룰레기|Irouléguy', 5]] },
   pau: { days: [['', 2, 1, 3, 4]], trips: [['쥐랑송|Jurançon', 5]] },
   lourdes: { days: [['', 1, 2, 4, 5, 3]], trips: [['가바르니|Gavarnie', 6]] },
   bastia: { days: [['', 1, 4, 3, 2]], trips: [['카프 코르스|Cap Corse', 5], ['파트리모니오|Patrimonio', 6]] },

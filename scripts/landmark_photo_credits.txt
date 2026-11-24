@@ -5297,3 +5297,175 @@ highlights/rennes-2.jpg | https://commons.wikimedia.org/wiki/File:Rennes_Rue_du_
 highlights/uzes-5.jpg | https://www.flickr.com/photos/40911451@N00/5027963845 | BY 2.0 | jean-louis zimmermann
 highlights/uzes-6.jpg | https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg | CC BY-SA 3.0 | Benh LIEU SONG (Flickr)
 highlights/bayonne-4.jpg | https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Basque_-_pierre_%C3%A0_chocolat_2.jpg | CC BY-SA 3.0 | Chatsam
+cities/murcia.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa,_Murcia,_Espa%C3%B1a,_2022-07-12,_DD_33-35_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+cities/cartagena.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Harbor_-_Cartagena_-_Spain_(14446140775).jpg | CC BY-SA 2.0 | Adam Jones from Kelowna, BC, Canada
+cities/vitoria-gasteiz.jpg | https://commons.wikimedia.org/wiki/File:Fountain_at_Plaza_de_Sta_Maria_in_Vitoria-Gasteiz_(1).jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/a-coruna.jpg | https://commons.wikimedia.org/wiki/File:Torre_de_H%C3%A9rcules,_La_Coru%C3%B1a,_Espa%C3%B1a,_2015-09-24,_DD_12-15_PAN.JPG | CC BY-SA 4.0 | Diego Delso
+cities/lugo.jpg | https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Lugo,_Espa%C3%B1a,_2015-09-19,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+cities/sarria.jpg | https://commons.wikimedia.org/wiki/File:2017_Letreiro_anunciando_unha_hospeder%C3%ADa_en_Sarria._Galiza_01.jpg | CC BY-SA 4.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+cities/vigo.jpg | https://commons.wikimedia.org/wiki/File:Puesta_de_sol_sobre_el_puerto_de_Vigo.jpg | CC BY-SA 4.0 | Martinus Discipulus Sapientiae
+cities/pontevedra.jpg | https://commons.wikimedia.org/wiki/File:Pontevedra_capital.png | CC BY-SA 4.0 | Domi402
+cities/las-palmas.jpg | https://commons.wikimedia.org/wiki/File:Old_town_Las_Palmas_NZ7_4405_(40266701703).jpg | CC BY 2.0 | Bengt Nyman from Vaxholm, Sweden
+cities/lanzarote.jpg | https://commons.wikimedia.org/wiki/File:Lanzarote_1_Luc_Viatour.jpg | CC BY-SA 3.0 | Lviatour
+cities/gijon.jpg | https://commons.wikimedia.org/wiki/File:Panorama_of_Gij%C3%B3n_at_sunset3.jpg | CC BY 2.0 | David Álvarez López
+cities/valladolid.jpg | https://commons.wikimedia.org/wiki/File:Valladolid,_cer%C3%A1mica_art%C3%ADstica_en_Plaza_Espa%C3%B1a_de_Sevilla.jpg | CC BY-SA 4.0 | PEPE GADEIRAS
+cities/astorga.jpg | https://commons.wikimedia.org/wiki/File:Astorga.jpg | CC BY-SA 4.0 | Feranza
+cities/ponferrada.jpg | https://commons.wikimedia.org/wiki/File:Ponferrada_-_Flickr_-_Gabriel_Fr.jpg | CC BY 2.0 | Gabriel Fdez. from San Miguel de las Dueñas (León), España
+cities/almagro.jpg | https://commons.wikimedia.org/wiki/File:Almagro_-_01.jpg | CC BY-SA 3.0 | Carlos Delgado
+cities/siguenza.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa,_Sig%C3%BCenza,_Espa%C3%B1a,_2015-12-28,_DD_129-131_HDR.JPG | CC BY-SA 4.0 | Diego Delso
+cities/antequera.jpg | https://commons.wikimedia.org/wiki/File:El_Torcal_de_Antequera_karst_scenery_Andalusia_Spain.jpg | CC0 | Jebulon
+cities/huesca.jpg | https://commons.wikimedia.org/wiki/File:Real_Monasterio_de_San_Juan_de_la_Pe%C3%B1a,_Huesca,_Espa%C3%B1a,_2023-01-05,_DD_48-50_HDR.jpg | CC BY-SA 4.0 | Diego Delso
+cities/cadaques.jpg | https://commons.wikimedia.org/wiki/File:Cadaques_panorama.jpg | CC BY-SA 2.0 | Phil Tizzani from Atlanta, USA
+cities/peniscola.jpg | https://commons.wikimedia.org/wiki/File:Meerseitige_Mauern_der_Altstadt_von_Pe%C3%B1iscola-2,_Spanien.jpg | CC BY-SA 4.0 | Gordito1869
+cities/santo-domingo-de-la-calzada.jpg | https://commons.wikimedia.org/wiki/File:Santo_Domingo_de_la_Calzada_09_catedral_by-dpc.jpg | CC BY-SA 4.0 | David Perez
+highlights/murcia-1.jpg | https://commons.wikimedia.org/wiki/File:Murcia_2022_-_West_facade_2.jpg | CC BY-SA 4.0 | Fernando
+highlights/murcia-2.jpg | https://commons.wikimedia.org/wiki/File:Real_Casino,_Murcia,_Espa%C3%B1a,_2022-07-12,_DD_21.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/murcia-3.jpg | https://commons.wikimedia.org/wiki/File:Museo_Salzillo_(Murcia).jpg | CC BY-SA 3.0 es | Morini33
+highlights/murcia-4.jpg | https://commons.wikimedia.org/wiki/File:Plaza_flores_-_panoramio.jpg | CC BY 3.0 | chisloup
+highlights/cartagena-1.jpg | https://commons.wikimedia.org/wiki/File:Teatro_romano_de_Cartagena,_Espa%C3%B1a,_2022-07-16,_DD_06.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/cartagena-2.jpg | https://commons.wikimedia.org/wiki/File:Cartagena_-_Castillo_de_la_Concepci%C3%B3n_01_2017-05-27.jpg | CC BY-SA 4.0 | Rafa Esteve
+highlights/cartagena-5.jpg | https://commons.wikimedia.org/wiki/File:CI_Muralla_Punica.jpg | CC BY-SA 2.0 | VIATOR IMPERI
+highlights/vitoria-gasteiz-1.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa_de_Segovia_-_01.jpg | CC BY-SA 3.0 | Carlos Delgado
+highlights/vitoria-gasteiz-2.jpg | https://commons.wikimedia.org/wiki/File:Vitoria_-_Plaza_Virgen_Blanca_01.jpg | CC BY-SA 4.0 | Basotxerri
+highlights/vitoria-gasteiz-3.jpg | https://commons.wikimedia.org/wiki/File:Medieval_wall_in_Vitoria-Gasteiz_(4).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/vitoria-gasteiz-4.jpg | https://commons.wikimedia.org/wiki/File:Vitoria_-_Museo_Artium_01.jpg | CC BY-SA 4.0 | Basotxerri
+highlights/vitoria-gasteiz-5.jpg | https://commons.wikimedia.org/wiki/File:Vitoria_-_Bibat_029a.jpg | CC0 | Zarateman
+highlights/vitoria-gasteiz-6.jpg | https://commons.wikimedia.org/wiki/File:Salburua_Caja_Vital_01.jpg | CC BY-SA 4.0 | Basotxerri
+highlights/a-coruna-1.jpg | https://commons.wikimedia.org/wiki/File:Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/a-coruna-2.jpg | https://commons.wikimedia.org/wiki/File:Avenida_da_Mari%C3%B1a,_A_Coru%C3%B1a_2026-08-10_3184.jpg | CC BY-SA 4.0 | C messier
+highlights/a-coruna-3.jpg | https://commons.wikimedia.org/wiki/File:Plaza_de_Mar%C3%ADa_Pita,_La_Coru%C3%B1a.jpg | CC BY 3.0 | José Luis Filpo Cabana
+highlights/a-coruna-4.jpg | https://commons.wikimedia.org/wiki/File:Praias_do_Orz%C3%A1n_e_de_Riazor_separadas_pola_Coiraza.jpg | CC BY 2.0 | Luis Carrera
+highlights/a-coruna-5.jpg | https://commons.wikimedia.org/wiki/File:Hominidae.999_-_Domus_(A_Coru%C3%B1a).jpg | CC BY-SA 4.0 | Fernando Losada Rodríguez
+highlights/lugo-1.jpg | https://commons.wikimedia.org/wiki/File:Ancient_Roman_walls_of_Lugo_05.jpg | CC BY 4.0 | Joseolgon
+highlights/lugo-2.jpg | https://commons.wikimedia.org/wiki/File:Lugo_Cathedral_2023_-_West_Fa%C3%A7ade.jpg | CC BY-SA 4.0 | Fernando Pascullo
+highlights/lugo-3.jpg | https://commons.wikimedia.org/wiki/File:Praza_Maior_de_Lugo,_III.JPG | CC BY-SA 3.0 es | AdriPozuelo
+highlights/lugo-4.jpg | https://commons.wikimedia.org/wiki/File:Lugo,_R%C3%BAa_Nova.jpg | CC BY-SA 3.0 | HombreDHojalata
+highlights/lugo-5.jpg | https://commons.wikimedia.org/wiki/File:Museo_provincial_de_Lugo_-_Galicia_-_Spain.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/sarria-2.jpg | https://commons.wikimedia.org/wiki/File:Windows_Iglesia_de_El_Salvador_-_Santa_Cruz_de_La_Palma.jpg | CC BY-SA 3.0 | H. Zell
+highlights/sarria-3.jpg | https://commons.wikimedia.org/wiki/File:Medina_del_Campo-Monasterio_de_Santa_Maria_Magdalena_(MM_Agustinas)_03.jpg | Public domain | Zarateman
+highlights/sarria-4.jpg | https://commons.wikimedia.org/wiki/File:Sarria-Fortaleza_de_Sarria3.jpg | CC BY-SA 3.0 | Archivo histórico de sarria
+highlights/sarria-5.jpg | https://commons.wikimedia.org/wiki/File:Mosteiro_de_San_Xuli%C3%A1n_de_Samos_1.jpg | CC BY 2.0 | José Antonio Gil Martínez from Vigo, Galicia
+highlights/vigo-1.jpg | https://commons.wikimedia.org/wiki/File:Illas_C%C3%ADes,_Vigo._Galicia.jpg | CC BY 2.0 | Alberto Pérez
+highlights/cartagena-3.jpg | https://commons.wikimedia.org/wiki/File:Arqua_Petrarca_38_(8188278727).jpg | CC BY-SA 2.0 | Alain Rouiller
+highlights/vigo-3.jpg | https://commons.wikimedia.org/wiki/File:Monte_do_Castro_02-29.JPG | CC BY-SA 4.0 | P.Lameiro
+highlights/vigo-4.jpg | https://commons.wikimedia.org/wiki/File:Biblioteca-Centro_de_Documentaci%C3%B3n_del_MARCO,_Museo_de_Arte_Contempor%C3%A1nea_de_Vigo.jpg | CC BY-SA 4.0 | Pablohn6
+highlights/vigo-5.jpg | https://commons.wikimedia.org/wiki/File:2018._Samil._Vigo._Galiza.jpg | CC BY-SA 4.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/pontevedra-1.jpg | https://commons.wikimedia.org/wiki/File:F%C3%A1tima,_Sanctuary_of_Our_Lady_of_F%C3%A1tima_(6172325245).jpg | CC BY 2.0 | Arian Zwegers from Brussels, Belgium
+highlights/pontevedra-3.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Santa_Mar%C3%ADa_la_Mayor,_Roma,_Italia,_2022-09-16,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/pontevedra-4.jpg | https://commons.wikimedia.org/wiki/File:Museo_de_Pontevedra-Edificio_Fern%C3%A1ndez_L%C3%B3pez-Ampliaci%C3%B3n_(7247509944).jpg | CC BY-SA 2.0 | juantiagues
+highlights/pontevedra-5.jpg | https://commons.wikimedia.org/wiki/File:Pontevedra_Capital_Puente_Burgo.jpg | CC BY-SA 4.0 | Cojvgpt
+highlights/las-palmas-1.jpg | https://commons.wikimedia.org/wiki/File:Vegueta_D81_5460_(27969092969).jpg | CC BY 2.0 | Bengt Nyman from Vaxholm, Sweden
+highlights/las-palmas-2.jpg | https://commons.wikimedia.org/wiki/File:Casa_de_colon,_las_palmas_10.JPG | CC BY-SA 3.0 | sailko
+highlights/las-palmas-3.jpg | https://commons.wikimedia.org/wiki/File:Santa_Ana_Cathedral_EM1B9131_(39714570401).jpg | CC BY 2.0 | Bengt Nyman from Vaxholm, Sweden
+highlights/las-palmas-4.jpg | https://commons.wikimedia.org/wiki/File:Las_Palmas_Playa_de_las_Canteras.jpg | CC BY 3.0 | Uwe Barghaan
+highlights/las-palmas-5.jpg | https://commons.wikimedia.org/wiki/File:Roque_Nublo_24.JPG | CC BY-SA 4.0 | Basotxerri
+highlights/las-palmas-6.jpg | https://commons.wikimedia.org/wiki/File:Maspalomas_Dunes.jpg | CC BY-SA 4.0 | Handelsgeselschaft
+highlights/lanzarote-1.jpg | https://commons.wikimedia.org/wiki/File:Timanfaya-_Lanzarote-_Illas_Canarias-_Spain-T20.jpg | CC BY-SA 3.0 | Luis Miguel Bugallo Sánchez (Lmbuga)
+highlights/lanzarote-2.jpg | https://commons.wikimedia.org/wiki/File:Ornamental_pool_in_Jameos_del_Agua.jpg | CC BY-SA 4.0 | Edmundo Sáez
+highlights/lanzarote-3.jpg | https://commons.wikimedia.org/wiki/File:Platform_Mirador_Del_Rio.JPG | CC BY-SA 4.0 | Rob Koster
+highlights/lanzarote-4.jpg | https://commons.wikimedia.org/wiki/File:%2B_Besuch_der_Bodega_La_Geria._05.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/lanzarote-5.jpg | https://commons.wikimedia.org/wiki/File:At_Fundaci%C3%B3n_C%C3%A9sar_Manrique_2022_088.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/lanzarote-6.jpg | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_cactus_7049.jpg | CC BY-SA 3.0 | Alchemist-hp (talk) (www.pse-mendelejew.de)
+highlights/gijon-1.jpg | https://commons.wikimedia.org/wiki/File:Cimadevilla-261213.jpg | CC BY-SA 3.0 | FDV
+highlights/gijon-2.jpg | https://commons.wikimedia.org/wiki/File:Elogio_del_Horizonte._Gij%C3%B3n_(2).jpg | CC BY 2.0 | David Álvarez López
+highlights/gijon-3.jpg | https://commons.wikimedia.org/wiki/File:Playa_de_San_Lorenzo_durante_el_Festival_A%C3%A9reo_de_Gij%C3%B3n.jpg | CC BY-SA 4.0 | Torres05
+highlights/gijon-4.jpg | https://commons.wikimedia.org/wiki/File:Patio_de_la_Universidad_Laboral_de_Gij%C3%B3n_desde_la_biblioteca.jpg | CC0 | Torres05
+highlights/gijon-5.jpg | https://commons.wikimedia.org/wiki/File:Termas_de_Campo_Vald%C3%A9s.jpg | CC BY-SA 4.0 | Maria jose 1963
+highlights/valladolid-1.jpg | https://commons.wikimedia.org/wiki/File:National_Sculpture_Park_Museum.jpg | CC0 | Maximden
+highlights/valladolid-2.jpg | https://commons.wikimedia.org/wiki/File:San_Pablo_Church_Plaza_1.jpg | CC0 | Borgenland
+highlights/valladolid-3.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_Valladolid1_edited.jpg | CC BY 2.0 | Ángel
+highlights/valladolid-4.jpg | https://commons.wikimedia.org/wiki/File:Valladolid_-_Catedral.jpg | CC BY 2.5 | Rastrojo (D•ES)
+highlights/valladolid-5.jpg | https://commons.wikimedia.org/wiki/File:Museo-Casa-de-Cervantes-de-Esquivias-.jpg | CC BY-SA 4.0 | Jajacaan
+highlights/valladolid-6.jpg | https://commons.wikimedia.org/wiki/File:Valladolid_-_Campo_Grande.jpg | CC0 | Zarateman
+highlights/astorga-1.jpg | https://commons.wikimedia.org/wiki/File:Palacio_Episcopal_de_Astorga_(Gaudi)_15.jpg | CC0 | Coralma*
+highlights/astorga-2.jpg | https://commons.wikimedia.org/wiki/File:Astorga_Cathedral_Fa%C3%A7ade.jpg | CC BY-SA 4.0 | Fernando
+highlights/astorga-3.jpg | https://commons.wikimedia.org/wiki/File:Placa._Museo_del_Chocolate_de_Astorga.jpg | CC BY-SA 4.0 | Consuelo Fernandez
+highlights/astorga-4.jpg | https://commons.wikimedia.org/wiki/File:The_route_of_an_old_Roman_Road_in_Honeybourne_-_geograph.org.uk_-_5044106.jpg | CC BY-SA 2.0 | Philip Halling
+highlights/astorga-5.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Astorga,_con_el_edificio_del_Ayuntamiento_al_fondo.JPG | CC BY-SA 4.0 | Lancastermerrin88
+highlights/ponferrada-1.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Torija_Templar_flags_towers.jpg | CC BY-SA 4.0 | CarlosNanuk
+highlights/ponferrada-2.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Encina_(Ponferrada)._Campanario.jpg | CC BY 3.0 | José Luis Filpo Cabana
+highlights/ponferrada-3.jpg | https://commons.wikimedia.org/wiki/File:Clock_Tower,_C5M_South-West_Of_Old_Town_Hall.jpg | CC0 | Simon Cobb
+highlights/ponferrada-4.jpg | https://commons.wikimedia.org/wiki/File:Las_M%C3%A9dulas_2.jpg | CC BY-SA 4.0 | Feranza
+highlights/almagro-1.jpg | https://commons.wikimedia.org/wiki/File:Corral_de_las_Comedias,_Almagro_(512694817).jpg | CC BY 2.0 | Pablo Sanchez from Sunnyvale, CA, USA
+highlights/almagro-2.jpg | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_y_Ayuntamiento_de_Almagro.jpg | CC BY-SA 4.0 | Jl FilpoC
+highlights/almagro-3.jpg | https://commons.wikimedia.org/wiki/File:Skopje_2014_-_Museum_of_the_Macedonian_Struggle_and_National_Theatre.JPG | CC BY-SA 4.0 | Pudelek
+highlights/almagro-4.jpg | https://commons.wikimedia.org/wiki/File:Calatrava_la_nueva_17.jpg | CC BY-SA 4.0 | Xemenendura
+highlights/siguenza-1.jpg | https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa,_Sig%C3%BCenza,_Espa%C3%B1a,_2015-12-28,_DD_144.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/siguenza-2.jpg | https://commons.wikimedia.org/wiki/File:Sig%C3%BCenza_-_Castillo-Parador_1.JPG | CC0 | Zarateman
+highlights/siguenza-3.jpg | https://commons.wikimedia.org/wiki/File:Ciudad_de_Sig%C3%BCenza,_Ayuntamiento,_Plaza_Mayor_y_Calle_M%C3%A1rtires_05.JPG | CC BY-SA 3.0 es | AdriPozuelo
+highlights/siguenza-4.jpg | https://commons.wikimedia.org/wiki/File:Ciudad_de_Sig%C3%BCenza,_Casa_del_Doncel,_Calle_Travesa%C3%B1a_Alta_48.JPG | CC BY-SA 3.0 es | AdriPozuelo
+highlights/antequera-1.jpg | https://commons.wikimedia.org/wiki/File:Left_top_inside,_Dolmen_of_Menga,_Antequera,_Spain.JPG | CC BY-SA 3.0 | Juan de Vojníkov
+highlights/antequera-2.jpg | https://commons.wikimedia.org/wiki/File:El_Torcal_Iberiensteinbock_2014.jpg | CC BY-SA 3.0 | Tuxyso
+highlights/antequera-3.jpg | https://commons.wikimedia.org/wiki/File:Alcazaba_Antequera.jpg | CC0 | Jebulon
+highlights/antequera-4.jpg | https://commons.wikimedia.org/wiki/File:The_Royal_Collegiate_Church_of_Santa_Mar%C3%ADa_La_Mayor_(52864780014).jpg | CC BY 2.0 | Jeff Hitchcock from Seattle, WA, USA
+highlights/antequera-5.jpg | https://commons.wikimedia.org/wiki/File:Caminito_del_Rey,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-18,_DD_40.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/huesca-1.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_cathedral_of_Huesca_02.jpg | CC BY-SA 4.0 | Kent Wang
+highlights/huesca-3.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Loarre_-_Huesca_-_Spain_-_panoramio.jpg | CC BY-SA 3.0 | diego_cue
+highlights/huesca-4.jpg | https://commons.wikimedia.org/wiki/File:A%C3%ADnsa_from_Castillo_de_A%C3%ADnsa.jpg | CC BY-SA 4.0 | Pimlico27
+highlights/huesca-5.jpg | https://commons.wikimedia.org/wiki/File:Parque_nacional_de_Ordesa_y_Monte_Perdido,_Huesca,_Espa%C3%B1a,_2015-01-07,_DD_02.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/cadaques-3.jpg | https://commons.wikimedia.org/wiki/File:Old_Town_Bay_-_geograph.org.uk_-_5447271.jpg | CC BY-SA 2.0 | Oast House Archive
+highlights/murcia-5.jpg | https://commons.wikimedia.org/wiki/File:Puente_de_los_Peligros,_Murcia,_Espa%C3%B1a,_2022-07-12,_DD_55.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/cartagena-4.jpg | https://commons.wikimedia.org/wiki/File:Mayor_street_Cartagena_x.jpg | CC BY-SA 4.0 | Øyvind Holmstad
+highlights/sarria-1.jpg | https://commons.wikimedia.org/wiki/File:R%C3%BAa_del_Peregrino_-_Sarria_-_Lugo_-_panoramio.jpg | CC BY-SA 3.0 | Vicente Maza Gómez
+highlights/vigo-2.jpg | https://commons.wikimedia.org/wiki/File:Vigo_-_Casco_Vello_13.JPG | CC0 | Zarateman
+highlights/huesca-2.jpg | https://commons.wikimedia.org/wiki/File:San_Pedro_el_viejo_Madrid.jpg | CC BY-SA 2.0 | Enriqueluis
+highlights/cadaques-1.jpg | https://commons.wikimedia.org/wiki/File:Casa_Salvador_Dal%C3%AD_Portlligat.JPG | CC BY-SA 3.0 | CGE
+highlights/cadaques-2.jpg | https://commons.wikimedia.org/wiki/File:Kirche_Santa_Maria_in_Cadaques.jpg | CC BY 3.0 | Gordito1869
+highlights/cadaques-4.jpg | https://commons.wikimedia.org/wiki/File:From_Cap_de_Creus,_direction_to_Cadaqu%C3%A9s.jpg | CC BY-SA 4.0 | Pimlico27
+highlights/cadaques-5.jpg | https://commons.wikimedia.org/wiki/File:Sant_Pere_de_Rodes_Catalonia_Landscape.jpg | CC BY-SA 4.0 | IM027
+highlights/peniscola-1.jpg | https://commons.wikimedia.org/wiki/File:Pe%C3%B1%C3%ADscola._Castillo_del_Papa_Luna_11.jpg | CC BY-SA 4.0 | Adolfobrigido
+highlights/peniscola-2.jpg | https://commons.wikimedia.org/wiki/File:Street_inside_the_walled_old_town_in_M%C3%A9rtola_(1223622097).jpg | CC BY 2.0 | Miguel Vieira from Redwood City, CA, USA
+highlights/peniscola-3.jpg | https://commons.wikimedia.org/wiki/File:127_El_Bufador_(Pen%C3%ADscola).jpg | CC BY-SA 4.0 | Enric
+highlights/peniscola-4.jpg | https://commons.wikimedia.org/wiki/File:Playa_Norte,_Isla_Mujeres_QR_2020_01.jpg | CC BY-SA 2.0 | Bernard DUPONT
+highlights/peniscola-5.jpg | https://commons.wikimedia.org/wiki/File:Parque_Natural_de_la_Sierra_de_Irta_(Pe%C3%B1iscola).jpg | CC BY-SA 4.0 | Juan Emilio Prades Bel
+highlights/santo-domingo-de-la-calzada-2.jpg | https://commons.wikimedia.org/wiki/File:Western_Esplanade_and_old_town_walls_-_geograph.org.uk_-_7497930.jpg | CC BY-SA 2.0 | John Lucas
+highlights/santo-domingo-de-la-calzada-3.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_San_Mill%C3%A1n_de_Yuso._Iglesia.jpg | CC BY 3.0 | Jose Luis Filpo Cabana
+highlights/madrid-29.jpg | https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1_2025.jpg | CC BY-SA 4.0 | Fernando Pascullo
+highlights/madrid-30.jpg | https://commons.wikimedia.org/wiki/File:Monastery_of_Las_Descalzas_Reales_03.JPG | CC BY-SA 4.0 | Dorieo
+highlights/madrid-31.jpg | https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum,_Bulgaria_-_panorama.jpg | CC BY 2.0 | Ann Wuyts from Olen (London), Belgium (United Kingdom)
+highlights/madrid-32.jpg | https://commons.wikimedia.org/wiki/File:Caixaforum_Madrid_2024.jpg | CC BY-SA 4.0 | Fernando
+highlights/madrid-33.jpg | https://commons.wikimedia.org/wiki/File:Madrid_-_Barrio_de_las_Letras_01.jpg | CC BY-SA 4.0 | Triplecaña
+highlights/barcelona-31.jpg | https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Mar,_Barcelona_09.jpg | CC BY-SA 4.0 | Kent Wang
+highlights/barcelona-32.jpg | https://commons.wikimedia.org/wiki/File:El_Born_Centre_de_Cultura_i_Mem%C3%B2ria_(32715417280).jpg | CC BY 2.0 | Jorge Franganillo from Barcelona, Spain
+highlights/barcelona-33.jpg | https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Passeig_de_Santa_Madrona_-_View_North_on_Fundaci%C3%B3_Joan_Mir%C3%B3_1975_by_Josep_Llu%C3%ADs_Sert.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/barcelona-34.jpg | https://commons.wikimedia.org/wiki/File:(Barcelona)_Sal%C3%B3_Oval_(Museu_Nacional_d%27Art_de_Catalunya)_-_Southwest_part_of_the_room.jpg | CC BY-SA 4.0 | Didier Descouens
+highlights/seville-15.jpg | https://commons.wikimedia.org/wiki/File:Torre_del_Oro,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_72.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/seville-16.jpg | https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_4.JPG | CC BY-SA 4.0 | CarlosVdeHabsburgo
+highlights/seville-17.jpg | https://commons.wikimedia.org/wiki/File:Entrada_al_Palacio_de_las_Due%C3%B1as,_Sevilla.jpg | CC BY-SA 4.0 | Alonso de Mendoza
+highlights/seville-18.jpg | https://commons.wikimedia.org/wiki/File:Hospital_de_los_Venerables_(Sevilla)_09.jpg | CC BY-SA 4.0 | Millars
+highlights/seville-19.jpg | https://commons.wikimedia.org/wiki/File:Anfiteatro_de_las_ruinas_romanas_de_It%C3%A1lica,_Santiponce,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_34-45_PAN_HDR.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/cordoba-8.jpg | https://commons.wikimedia.org/wiki/File:Torre_de_la_Calahorra_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg | CC BY-SA 2.0 | Toni Castillo Quero
+highlights/cordoba-9.jpg | https://commons.wikimedia.org/wiki/File:Cordoba_-_Plaza_de_la_Corredera_-_01.jpg | CC BY-SA 4.0 | Xosema
+highlights/granada-14.jpg | https://commons.wikimedia.org/wiki/File:Granada_-_La_Alcaicer%C3%ADa_3.jpg | CC0 | Zarateman
+highlights/granada-15.jpg | https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_El_Ba%C3%B1uelo_(Granada).jpg | CC BY 4.0 | José Luis Filpo Cabana
+highlights/granada-16.jpg | https://commons.wikimedia.org/wiki/File:Monasterio_de_la_Cartuja,_Sevilla.jpg | CC BY-SA 2.5 | The original uploader was Asterion at English Wikipedia.
+highlights/malaga-11.jpg | https://commons.wikimedia.org/wiki/File:Calle_Marqu%C3%A9s_de_Larios_M%C3%A1laga.jpg | CC BY 2.0 | mahr
+highlights/malaga-12.jpg | https://commons.wikimedia.org/wiki/File:Casa_Natal_de_Pablo_Ruiz_Picasso_01.JPG | CC BY-SA 3.0 es | Tajchman
+highlights/malaga-13.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A1laga_-_Museo_Carmen_Thyssen_M%C3%A1laga_5.jpg | CC0 | Zarateman
+highlights/valencia-9.jpg | https://commons.wikimedia.org/wiki/File:Palace_of_the_Marquis_of_Dos_Aguas_in_Ciutat_Vella,_Valencia,_Spain,_2024_January.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/valencia-10.jpg | https://commons.wikimedia.org/wiki/File:Vitoria_-_Plaza_de_la_Virgen_Blanca_01.jpg | CC BY-SA 4.0 | Basotxerri
+highlights/valencia-11.jpg | https://commons.wikimedia.org/wiki/File:Mercado_de_Col%C3%B3n,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_06.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/valencia-12.jpg | https://commons.wikimedia.org/wiki/File:Estaci%C3%B2_del_Nord_(Valencia).jpg | CC0 | Julián Monrabal
+highlights/valencia-13.jpg | https://commons.wikimedia.org/wiki/File:Torres_de_Quart..jpg | CC BY-SA 3.0 | M4n0locervera
+highlights/toledo-11.jpg | https://commons.wikimedia.org/wiki/File:Santa_Mar%C3%ADa_la_Blanca_-_Panorama.jpg | CC BY-SA 4.0 | Fernando
+highlights/toledo-12.jpg | https://commons.wikimedia.org/wiki/File:Sinagoga_del_Tr%C3%A1nsito_-_Sala_Oraci%C3%B3n.jpg | CC BY-SA 4.0 | Fernando
+highlights/toledo-13.jpg | https://commons.wikimedia.org/wiki/File:Cristo_de_la_Luz_2025_Fa%C3%A7ade.jpg | CC BY-SA 4.0 | Fernando
+highlights/bilbao-9.jpg | https://commons.wikimedia.org/wiki/File:Ampliaci%C3%B3n_del_Museo_de_Bellas_Artes_de_Bilbao_(2026).jpg | CC0 | Xabier
+highlights/bilbao-10.jpg | https://commons.wikimedia.org/wiki/File:Bilbao_-_Azkuna_Zentroa_(29306191926).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/san-sebastian-9.jpg | https://commons.wikimedia.org/wiki/File:Murales_de_Josep_Maria_Sert_(San_Telmo_Museoa)_02.jpg | CC BY-SA 4.0 | Kent Wang
+highlights/san-sebastian-10.jpg | https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Santa_Mar%C3%ADa_del_Coro_(San_Sebasti%C3%A1n)._Fachada.jpg | CC BY 3.0 | José Luis Filpo Cabana
+highlights/santiago-8.jpg | https://commons.wikimedia.org/wiki/File:2025_Detalle_da_Fachada_do_Mosteiro_de_San_Marti%C3%B1o_Pinario._Santiago_de_Compostela.jpg | CC BY-SA 4.0 | Lmbuga
+highlights/santiago-9.jpg | https://commons.wikimedia.org/wiki/File:Biblioteca_de_Galicia,_Cidade_da_Cultura_de_Galicia_-_panoramio.jpg | CC BY-SA 3.0 | carrodeguas
+highlights/santiago-10.jpg | https://commons.wikimedia.org/wiki/File:Am_Kap_Finisterre_(Cabo_de_Finisterre)_in_Galizien_13.jpg | CC BY-SA 4.0 | JensKunstfreund
+highlights/pamplona-5.jpg | https://commons.wikimedia.org/wiki/File:Souvenir_City_%26_Shark_Museum,_Navarre,_Florida_-_Chomp.jpg | CC BY-SA 2.0 | Mike Towber
+highlights/pamplona-6.jpg | https://commons.wikimedia.org/wiki/File:Pamplona_-_Iglesia_de_San_Cern%C3%ADn_o_San_Saturnino,_retablo_mayor_03.jpg | CC0 | Zarateman
+highlights/pamplona-7.jpg | https://commons.wikimedia.org/wiki/File:Palacio_de_Olite.JPG | CC BY 3.0 | Jorab
+highlights/pamplona-9.jpg | https://commons.wikimedia.org/wiki/File:Puente_la_reina.jpg | CC BY-SA 3.0 | Piotr Tysarczyk
+highlights/salamanca-8.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_San_Esteban_Salamanca.jpg | CC BY-SA 3.0 | Rafaelji
+highlights/salamanca-9.jpg | https://commons.wikimedia.org/wiki/File:Huerto_de_Calixto_y_Melibea_1.jpg | Public domain | Shaoron88
+highlights/zaragoza-7.jpg | https://commons.wikimedia.org/wiki/File:La_Gloria_(boceto),_de_Francisco_de_Goya._(Museo_Ibercaja_Cam%C3%B3n_Aznar).jpg | Public domain | Francisco Goya
+highlights/palma-9.jpg | https://commons.wikimedia.org/wiki/File:Es_Baluard_Palma.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/palma-10.jpg | https://commons.wikimedia.org/wiki/File:Der_Palau_March_liegt_mitten_im_historischen_Stadtzentrum_-_panoramio.jpg | CC BY 3.0 | Martin Furtschegger
+highlights/montserrat-5.jpg | https://commons.wikimedia.org/wiki/File:Museum_Montserran.jpg | CC BY-SA 4.0 | Михаил Бернгардт
+highlights/montserrat-6.jpg | https://commons.wikimedia.org/wiki/File:Escolania_Montserrat.jpg | CC BY-SA 3.0 | Own work
+highlights/saint-jean-pied-de-port-7.jpg | https://commons.wikimedia.org/wiki/File:Pilgrim_Path_on_the_Napoleon_Route_to_Roncesvalles,_Navarre.jpg | CC BY 4.0 | Hayden Soloviev
