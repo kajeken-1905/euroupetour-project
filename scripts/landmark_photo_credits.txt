@@ -5696,3 +5696,6 @@ highlights/regensburg-7.jpg | https://commons.wikimedia.org/wiki/File:Kloster_We
 highlights/rudesheim-6.jpg | https://commons.wikimedia.org/wiki/File:Loreley_2025.jpg | CC BY-SA 4.0 | Jörg Braukmann
 highlights/rudesheim-7.jpg | https://commons.wikimedia.org/wiki/File:Bacharach_2025.jpg | CC BY-SA 4.0 | Jörg Braukmann
 highlights/stuttgart-8.jpg | https://commons.wikimedia.org/wiki/File:Burg_Hohenzollern_ak.jpg | CC BY-SA 3.0 | A. Kniesel (= User:-donald-), Lauffen
+highlights/karlsruhe-3.jpg | https://commons.wikimedia.org/wiki/File:Marktplatz_Karlsruhe_-_Pyramide_-_Rathaus_20220705_101753.jpg | CC BY-SA 3.0 de | Sitacuisses
+highlights/augsburg-5.jpg | https://www.flickr.com/photos/28577026@N02/47153743661 | BY 2.0 | Allie_Caulfield
+highlights/passau-5.jpg | https://commons.wikimedia.org/wiki/File:Passau,_Schiff_Sunliner_auf_der_Donau,_1.jpeg | CC0 | Renardo la vulpo
