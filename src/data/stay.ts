@@ -136,6 +136,103 @@ export const STAY: Record<string, StayArea[]> = {
   eisenach: [
     a('구시가 (마르크트 광장 주변)', 'Old town (around the Market Square)', 'Markt Eisenach', '처음이라면|First visit', '박물관과 식당이 모여 있고, 바르트부르크행 버스가 다닙니다.|Museums and restaurants close by, with buses up to the Wartburg.'),
   ],
+  hannover: [
+    a('중앙역과 크뢰프케 주변', 'Around the main station & Kröpcke', 'Kröpcke Hannover', '처음이라면|First visit', '역과 쇼핑가, 구시가가 걸어서 닿고 트램이 모입니다.|The station, shopping streets and old town on foot, with the trams meeting here.'),
+  ],
+  hameln: [
+    a('구시가', 'Old town', 'Osterstraße Hameln', '처음이라면|First visit', '전설의 집들과 식당이 모여 있고 역까지 걸어서 갑니다.|The legend houses and restaurants close by, with the station on foot.'),
+  ],
+  goslar: [
+    a('구시가', 'Old town', 'Marktplatz Goslar', '처음이라면|First visit', '광장과 황궁이 걸어서 닿고 역도 가깝습니다.|The square and palace on foot, close to the station.'),
+  ],
+  luneburg: [
+    a('구시가', 'Old town', 'Am Sande Lüneburg', '처음이라면|First visit', '광장과 옛 항구가 걸어서 닿습니다.|The squares and old harbour on foot.'),
+  ],
+  wismar: [
+    a('구시가', 'Old town', 'Markt Wismar', '처음이라면|First visit', '광장과 항구가 걸어서 닿고 역도 가깝습니다.|The square and harbour on foot, close to the station.'),
+  ],
+  rostock: [
+    a('구시가', 'Old town', 'Neuer Markt Rostock', '처음이라면|First visit', '광장과 교회가 걸어서 닿고 바르네뮌데행 전철이 가깝습니다.|The squares and churches on foot, near the S-Bahn to Warnemünde.'),
+    a('바르네뮌데', 'Warnemünde', 'Warnemünde', '바다 가까이|By the sea', '해변과 등대 바로 앞에 묵습니다.|Stay right by the beach and lighthouse.'),
+  ],
+  stralsund: [
+    a('구시가', 'Old town', 'Alter Markt Stralsund', '처음이라면|First visit', '광장과 항구, 박물관이 걸어서 닿습니다.|The squares, harbour and museums on foot.'),
+  ],
+  bonn: [
+    a('중앙역과 구시가', 'Main station & old town', 'Münsterplatz Bonn', '처음이라면|First visit', '대성당과 베토벤 하우스가 걸어서 닿고 박물관 거리로 트램이 갑니다.|The minster and Beethoven-Haus on foot, with trams to the Museum Mile.'),
+  ],
+  dusseldorf: [
+    a('구시가와 쾨니히스알레', 'Altstadt & Königsallee', 'Königsallee Düsseldorf', '처음이라면|First visit', '구시가와 강변, 쇼핑 거리가 걸어서 닿습니다.|The old town, river and shopping streets on foot.'),
+  ],
+  wuppertal: [
+    a('엘버펠트 중심가', 'Elberfeld centre', 'Wuppertal Hbf', '처음이라면|First visit', '중앙역과 미술관, 슈베베반 역이 걸어서 닿습니다.|The main station, museum and Schwebebahn on foot.'),
+  ],
+  essen: [
+    a('중앙역 주변', 'Around the main station', 'Essen Hbf', '처음이라면|First visit', '대성당과 미술관이 가깝고 촐페라인행 트램이 다닙니다.|Near the cathedral and museum, with trams to Zollverein.'),
+  ],
+  dortmund: [
+    a('중앙역 주변', 'Around the main station', 'Dortmund Hbf', '처음이라면|First visit', '축구 박물관과 도르트문더 U가 걸어서 닿고 경기장행 전철이 다닙니다.|The football museum and the U on foot, with trains to the stadium.'),
+  ],
+  munster: [
+    a('구시가', 'Old town', 'Prinzipalmarkt Münster', '처음이라면|First visit', '대성당과 프린치팔마르크트가 걸어서 닿습니다.|The cathedral and Prinzipalmarkt on foot.'),
+  ],
+  darmstadt: [
+    a('시내 중심', 'City centre', 'Luisenplatz Darmstadt', '처음이라면|First visit', '박물관이 가깝고 마틸덴회에까지 걸어서 약 20분입니다.|Near the museum, about 20 min on foot to the Mathildenhöhe.'),
+  ],
+  marburg: [
+    a('윗마을', 'Upper Town', 'Marktplatz Marburg', '처음이라면|First visit', '광장과 성이 가깝고 식당이 모여 있습니다.|Near the square and castle, with plenty of restaurants.'),
+  ],
+  kassel: [
+    a('빌헬름스회에역 주변', 'Around Wilhelmshöhe station', 'Kassel-Wilhelmshöhe', '처음이라면|First visit', 'ICE역이라 이동이 편하고 산상 공원까지 트램으로 갑니다.|The ICE station, with trams up to the Bergpark.'),
+  ],
+  mainz: [
+    a('구시가', 'Old town', 'Mainzer Dom', '처음이라면|First visit', '대성당과 와인 주점이 가깝고 역까지 걸어서 갑니다.|Near the cathedral and wine taverns, with the station on foot.'),
+  ],
+  saarbrucken: [
+    a('장크트 요하너 마르크트 주변', 'Around St. Johanner Markt', 'St. Johanner Markt Saarbrücken', '처음이라면|First visit', '광장 식당과 역이 걸어서 닿습니다.|Restaurants and the station on foot.'),
+  ],
+  karlsruhe: [
+    a('시내 중심', 'City centre', 'Marktplatz Karlsruhe', '처음이라면|First visit', '궁전과 광장이 걸어서 닿고 트램이 모입니다.|The palace and square on foot, with trams meeting here.'),
+  ],
+  'baden-baden': [
+    a('온천 지구', 'Spa quarter', 'Kurhaus Baden-Baden', '처음이라면|First visit', '온천과 카지노, 산책길이 걸어서 닿습니다.|The baths, casino and avenue on foot.'),
+  ],
+  ulm: [
+    a('대성당 주변', 'Around the minster', 'Münsterplatz Ulm', '처음이라면|First visit', '대성당과 어부 지구, 역이 걸어서 닿습니다.|The minster, Fishermen’s Quarter and station on foot.'),
+  ],
+  augsburg: [
+    a('시청 주변', 'Around the town hall', 'Rathausplatz Augsburg', '처음이라면|First visit', '시청과 큰길, 푸거라이가 걸어서 닿습니다.|The town hall, main street and Fuggerei on foot.'),
+  ],
+  landshut: [
+    a('구시가', 'Old town', 'Altstadt Landshut', '처음이라면|First visit', '교회와 박공 거리가 바로 앞이고 성까지 걸어서 오릅니다.|The church and street on your doorstep, with the castle a walk uphill.'),
+  ],
+  chiemsee: [
+    a('프린', 'Prien', 'Prien am Chiemsee', '처음이라면|First visit', '역과 선착장이 있어 배·기차 모두 편합니다.|The station and pier make boats and trains easy.'),
+  ],
+  bayreuth: [
+    a('구시가', 'Old town', 'Maximilianstraße Bayreuth', '처음이라면|First visit', '오페라 극장과 궁전이 걸어서 닿습니다.|The opera house and palaces on foot.'),
+  ],
+  nordlingen: [
+    a('구시가', 'Old town', 'Marktplatz Nördlingen', '처음이라면|First visit', '성벽 안에 묵으며 탑과 박물관을 걸어서 봅니다.|Stay inside the walls, with the tower and museum on foot.'),
+  ],
+  passau: [
+    a('구시가', 'Old town', 'Domplatz Passau', '처음이라면|First visit', '대성당과 강변, 선착장이 걸어서 닿습니다.|The cathedral, riverbanks and piers on foot.'),
+  ],
+  oberstdorf: [
+    a('마을 중심', 'Village centre', 'Oberstdorf', '처음이라면|First visit', '역과 케이블카 승강장이 걸어서 닿습니다.|The station and cable car on foot.'),
+  ],
+  meissen: [
+    a('구시가', 'Old town', 'Markt Meißen', '처음이라면|First visit', '광장과 성이 걸어서 닿고, 공방까지는 걸어서 약 15분입니다.|The square and castle on foot; the manufactory is about 15 min away.'),
+  ],
+  wittenberg: [
+    a('구시가', 'Old town', 'Markt Wittenberg', '처음이라면|First visit', '교회와 박물관이 한 거리에 모여 있습니다.|The churches and museums line one street.'),
+  ],
+  naumburg: [
+    a('구시가', 'Old town', 'Markt Naumburg', '처음이라면|First visit', '대성당과 광장이 걸어서 닿습니다.|The cathedral and square on foot.'),
+  ],
+  erfurt: [
+    a('구시가', 'Old town', 'Fischmarkt Erfurt', '처음이라면|First visit', '다리와 대성당, 역이 걸어서 닿습니다.|The bridge, cathedral and station on foot.'),
+  ],
   lindau: [
     a('섬 구시가', 'Island old town', 'Lindau Insel', '처음 가는 여행에 추천|Best for a first visit', '항구와 구시가가 걸어서 닿습니다. 장거리 열차는 섬 밖 로이틴역에 서고 섬까지 기차로 몇 분입니다.|The harbour and old town on foot; long-distance trains stop at Reutin on the mainland, a few minutes by train from the island.'),
   ],

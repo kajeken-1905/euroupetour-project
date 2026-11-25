@@ -5474,3 +5474,225 @@ highlights/cordoba-10.jpg | https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_d
 highlights/pamplona-8.jpg | https://www.flickr.com/photos/23012400@N03/5808557765 | BY 2.0 | Miguel. (respenda)
 highlights/saint-jean-pied-de-port-6.jpg | https://commons.wikimedia.org/wiki/File:Maison_du_p%C3%A9lerin_(Saint-Jean-Pied-de-Port).jpg | Public domain | Tangopaso
 highlights/pontevedra-2.jpg | https://commons.wikimedia.org/wiki/File:Plaza_de_la_Le%C3%B1a_(Pontevedra).jpg | CC BY 3.0 | José Luis Filpo Cabana
+cities/hannover.jpg | https://commons.wikimedia.org/wiki/File:Neues_Rathaus_Hannover_2013.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/hannover-1.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Herrenhausen_Gardens.jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/hannover-2.jpg | https://commons.wikimedia.org/wiki/File:20230321_Neues_Rathaus_Hannover_03.jpg | CC BY 4.0 | Flocci Nivis
+highlights/hannover-3.jpg | https://commons.wikimedia.org/wiki/File:Hannover,_de_Maschsee_vanaf_de_Karl_Thiele_Weg_IMG_4534_2018-07-01_14.20.jpg | CC BY-SA 4.0 | Michielverbeek
+highlights/hannover-4.jpg | https://commons.wikimedia.org/wiki/File:Hannover_Marktkirche_and_Seilwinderstra%C3%9Fe.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/hannover-5.jpg | https://commons.wikimedia.org/wiki/File:2013-03-02_Brunnen-Fassung_am_Leibnizufer_Mike-Gehrke-Promenade_Roter_Faden_Hannover.jpg | CC BY-SA 3.0 | Bernd Schwabe in Hannover
+highlights/hannover-6.jpg | https://commons.wikimedia.org/wiki/File:Entrance_of_the_Sprengel_Museum_Hannover.jpg | CC0 | Charleenvong
+cities/hameln.jpg | https://commons.wikimedia.org/wiki/File:Hameln_Papenstra%C3%9Fe.jpg | CC BY-SA 4.0 | Ymblanter
+highlights/hameln-1.jpg | https://commons.wikimedia.org/wiki/File:The_Pied_Piper%27s_House_(Rattenf%C3%A4ngerhaus)_in_Hameln.JPG | CC BY-SA 4.0 | Bush6984
+highlights/hameln-2.jpg | https://commons.wikimedia.org/wiki/File:Glockenspiel_Hochzeitshaus_Hameln_Germany_-_panoramio.jpg | CC BY 3.0 | Hiroki Ogawa
+highlights/hameln-3.jpg | https://commons.wikimedia.org/wiki/File:Die_Museumsgeb%C3%A4ude_der_Stadt_Hameln.jpeg | Public domain | The original uploader was MuseumHameln at German Wikipedia.
+highlights/hameln-4.jpg | https://commons.wikimedia.org/wiki/File:Hildesheimer_Dom_2015.JPG | CC BY-SA 4.0 | Roland Struwe
+highlights/hameln-5.jpg | https://commons.wikimedia.org/wiki/File:St_Michael_church_in_Hildesheim_(1).jpg | CC BY-SA 4.0 | Tournasol7
+highlights/hameln-6.jpg | https://commons.wikimedia.org/wiki/File:Marktplatz_Hildesheim_01.jpg | CC BY-SA 4.0 | Jedesto
+cities/goslar.jpg | https://commons.wikimedia.org/wiki/File:Goslar_Schuhhof.jpg | CC BY-SA 4.0 | Je-str
+highlights/goslar-1.jpg | https://commons.wikimedia.org/wiki/File:Goslar_Marktplatz.jpg | CC BY-SA 4.0 | Valeri Koshelev
+highlights/goslar-2.jpg | https://commons.wikimedia.org/wiki/File:Goslar,_Kaiserpfalz_--_2008_--_0354.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/goslar-3.jpg | https://commons.wikimedia.org/wiki/File:Goslar_-_UNESCO-Weltkulturerbe_Rammelsberg_(03-2).jpg | CC BY-SA 3.0 | Norbert Kaiser
+highlights/goslar-4.jpg | https://commons.wikimedia.org/wiki/File:Goslar_Marktkirche_seen_from_Kaiserpfalz.jpg | CC BY-SA 4.0 | Ymblanter
+cities/luneburg.jpg | https://commons.wikimedia.org/wiki/File:L%C3%BCneburg_Am_Stintmarkt_11_7_002_2015_07_12.jpg | CC BY-SA 4.0 | Friedrich Haag
+highlights/luneburg-1.jpg | https://commons.wikimedia.org/wiki/File:L%C3%BCneburg,_Am_Sande,_Bild_2.jpg | CC BY 4.0 | Dguendel
+highlights/luneburg-2.jpg | https://commons.wikimedia.org/wiki/File:Das_Rathaus_in_L%C3%BCneburg_(2017).jpg | CC BY-SA 4.0 | JoachimKohler-HB
+highlights/luneburg-3.jpg | https://commons.wikimedia.org/wiki/File:Alter_Kran_-_L%C3%BCneburg.jpg | CC BY-SA 3.0 | Oxfordian Kissuth
+highlights/luneburg-4.jpg | https://commons.wikimedia.org/wiki/File:Salzmuseum_L%C3%BCneburg_Eingang.jpg | CC BY 3.0 | Hajotthu
+highlights/luneburg-5.jpg | https://commons.wikimedia.org/wiki/File:Celle_Altstadt_Schuhstra%C3%9Fe.jpg | CC BY-SA 3.0 | Ingo2802
+highlights/luneburg-6.jpg | https://commons.wikimedia.org/wiki/File:Celler_Schloss_April_2010.jpg | CC BY-SA 3.0 | Hajotthu 09:29, 20. Apr. 2010 (CEST)
+cities/wismar.jpg | https://commons.wikimedia.org/wiki/File:11_Wismar_Altstadt_069.jpg | CC BY-SA 3.0 | Tilman2007
+highlights/wismar-1.jpg | https://commons.wikimedia.org/wiki/File:Wasserkunst_in_Wismar_(1).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/wismar-2.jpg | https://commons.wikimedia.org/wiki/File:20180921_Wismar-56.tif | CC BY-SA 4.0 | chrisaliv
+highlights/wismar-3.jpg | https://commons.wikimedia.org/wiki/File:Wismar,_Skulptur_%22Liegende_Sofia%22_--_2024_--_4784.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/wismar-4.jpg | https://commons.wikimedia.org/wiki/File:Wismar_Wassertor_2009-04-21_017.jpg | CC BY 3.0 | Niteshift (talk)
+cities/rostock.jpg | https://commons.wikimedia.org/wiki/File:N%C3%B6rdliche_Altstadt,_Rostock,_Germany_-_panoramio_(2).jpg | CC BY 3.0 | Timur Y
+highlights/rostock-1.jpg | https://commons.wikimedia.org/wiki/File:Rostock,_Rathaus_--_2024_--_5457.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/rostock-2.jpg | https://commons.wikimedia.org/wiki/File:Rostock_Marienkirche_1999-07-08.jpg | CC BY-SA 2.0 | Roger W
+highlights/rostock-3.jpg | https://commons.wikimedia.org/wiki/File:Rostock,_Universit%C3%A4t,_Hauptgeb%C3%A4ude_--_2024_--_5310.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/rostock-4.jpg | https://commons.wikimedia.org/wiki/File:WLM_-_Warnem%C3%BCnde_-_Leuchtturm_und_Teepott.jpg | CC BY-SA 4.0 | Moahim
+highlights/rostock-5.jpg | https://commons.wikimedia.org/wiki/File:Molli-Bad-Doberan.jpg | CC BY-SA 4.0 | Safewatch
+cities/stralsund.jpg | https://commons.wikimedia.org/wiki/File:WLM_-_2020_-_Stralsund_-_St._Nikolai_Kirche.jpg | CC BY-SA 4.0 | Moahim
+highlights/stralsund-1.jpg | https://commons.wikimedia.org/wiki/File:Stralsunder_Rathaus_mit_Schaufassade,_dahinter_die_Nikolaikirche-2630.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/stralsund-2.jpg | https://commons.wikimedia.org/wiki/File:Ozeaneum_Stralsund_01.jpg | CC BY-SA 4.0 | Derbrauni
+highlights/stralsund-3.jpg | https://commons.wikimedia.org/wiki/File:Marienkirche_Stralsund_2021_03.jpg | CC BY 4.0 | Unukorno
+highlights/stralsund-4.jpg | https://commons.wikimedia.org/wiki/File:Gorch_Fock,_Stralsund_(OW1A0003).jpg | CC BY-SA 4.0 | Matti Blume
+highlights/stralsund-5.jpg | https://commons.wikimedia.org/wiki/File:Nationalpark-Jasmund_K%C3%B6nigsstuhl-Skywalk_20240905_135226.jpg | CC BY-SA 4.0 | Rigorius
+highlights/stralsund-6.jpg | https://commons.wikimedia.org/wiki/File:Seebr%C3%BCcke_Binz.jpg | CC BY-SA 4.0 | Lukas Beck
+cities/bonn.jpg | https://commons.wikimedia.org/wiki/File:Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/bonn-1.jpg | https://commons.wikimedia.org/wiki/File:Bonn_Beethoven-Haus_(51800415225).jpg | CC BY 2.0 | Jorge Franganillo
+highlights/bonn-2.jpg | https://commons.wikimedia.org/wiki/File:Bonner_M%C3%BCnster.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/bonn-3.jpg | https://commons.wikimedia.org/wiki/File:Bonn_-_Altes_Rathaus_am_Markt_(tone-mapping).jpg | CC BY 3.0 | Guido Radig
+highlights/bonn-4.jpg | https://commons.wikimedia.org/wiki/File:Bonn_HausDerGeschichte.jpg | CC BY-SA 3.0 | Qualle
+highlights/bonn-5.jpg | https://commons.wikimedia.org/wiki/File:20130816_Drachenfels.jpg | CC BY-SA 3.0 | Dmitry Tonkonog and Ksenia Fedosova
+cities/dusseldorf.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorf_(DE),_Rathausufer_--_2014_--_2154.jpg | CC BY-SA 4.0 | Anıl Öztaş
+highlights/dusseldorf-1.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg | CC BY-SA 4.0 | Anıl Öztaş
+highlights/dusseldorf-2.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorf_Rheinuferpromenade.jpg | CC BY-SA 4.0 | Joschi71
+highlights/dusseldorf-3.jpg | https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorf,_Rheinturm_--_2015_--_8172.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/dusseldorf-4.jpg | https://commons.wikimedia.org/wiki/File:Neuer_Zollhof_D%C3%BCsseldorf_at_Blue_Hour.JPG | CC BY-SA 3.0 | Martin Falbisoner
+highlights/dusseldorf-5.jpg | https://commons.wikimedia.org/wiki/File:K%C3%B6nigsallee_D%C3%BCsseldorf_am_Samstagmorgen.jpg | Public domain | --Stöhrfall (talk) 09:17, 7 August 2010 (UTC)
+highlights/dusseldorf-6.jpg | https://commons.wikimedia.org/wiki/File:K20_-_Geb%C3%A4ude_der_Kunstsammlung_Nordrhein-Westfalen,_D%C3%BCsseldorf-5635.jpg | CC BY-SA 4.0 | Raimond Spekking
+cities/wuppertal.jpg | https://commons.wikimedia.org/wiki/File:Wuppertal_Schwebebahn_May_2010.jpg | CC BY 4.0 | Acediscovery
+highlights/wuppertal-1.jpg | https://commons.wikimedia.org/wiki/File:Wuppertal_Suspension_Railway_-_Wuppertaler_Schwebebahn_(21113672331).jpg | CC BY 2.0 | www.GlynLowe.com from Hamburg, Germany
+highlights/wuppertal-2.jpg | https://commons.wikimedia.org/wiki/File:Wuppertal_-_Von_der_Heydt-Museum_-_Monet_01_ies.jpg | CC BY-SA 3.0 | Frank Vincentz
+highlights/wuppertal-3.jpg | https://commons.wikimedia.org/wiki/File:Zoo_Gastst%C3%A4tten_Wuppertal_002.jpg | CC BY-SA 3.0 | Atamari
+highlights/wuppertal-4.jpg | https://commons.wikimedia.org/wiki/File:Wuppertal_-_Engels-Haus_01_ies.jpg | CC BY-SA 3.0 | Frank Vincentz
+highlights/wuppertal-5.jpg | https://commons.wikimedia.org/wiki/File:Solingen_--_M%C3%BCngstener_Br%C3%BCcke_(10403938084).jpg | CC BY-SA 2.0 | InterCityImpress
+cities/essen.jpg | https://commons.wikimedia.org/wiki/File:Tiegelgussdenkmal-Essen-Detailpanorama-2013.jpg | CC BY-SA 3.0 | Tuxyso
+highlights/essen-1.jpg | https://commons.wikimedia.org/wiki/File:Zeche-Zollverein-Geb%C3%A4ude-Schacht-12-2024.jpg | CC BY-SA 4.0 | Tuxyso
+highlights/essen-2.jpg | https://commons.wikimedia.org/wiki/File:Ruhrmuseum_Kohlenw%C3%A4scheanlage_Coalwash_Zeche_Zollverein_Essen.jpg | CC BY-SA 3.0 | Helen Simonsson
+highlights/essen-3.jpg | https://commons.wikimedia.org/wiki/File:Museum_Folkwang_Front_1.jpg | CC BY-SA 4.0 | Raimond Spekking
+highlights/essen-4.jpg | https://commons.wikimedia.org/wiki/File:Villa-H%C3%BCgel-S%C3%BCdseite-Herbst-2025.jpg | CC BY-SA 4.0 | Tuxyso
+highlights/essen-5.jpg | https://commons.wikimedia.org/wiki/File:Essen_-_Kreuzgang_des_Essener_Doms.jpg | CC BY 4.0 | Jorge Franganillo
+highlights/essen-6.jpg | https://commons.wikimedia.org/wiki/File:Baldeneysee_Wolken_Essen.jpg | CC BY-SA 3.0 | No machine-readable author provided. Baikonur assumed (based
+cities/dortmund.jpg | https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_2.jpg | CC BY-SA 3.0 de | Arne Müseler / www.arne-mueseler.com
+highlights/dortmund-1.jpg | https://commons.wikimedia.org/wiki/File:Deutsches_Fu%C3%9Fballmuseum.jpg | CC BY-SA 4.0 | Lucas Kaufmann
+highlights/dortmund-2.jpg | https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_2.jpg | CC BY-SA 3.0 de | Arne Müseler / www.arne-mueseler.com
+highlights/dortmund-3.jpg | https://commons.wikimedia.org/wiki/File:Dortmund_-_Dortmunder_U_(2).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/dortmund-4.jpg | https://commons.wikimedia.org/wiki/File:Westfalenpark_Dortmund,_Teich_am_Eingang.jpg | CC BY-SA 4.0 | Joehawkins
+highlights/dortmund-5.jpg | https://commons.wikimedia.org/wiki/File:DO-Zollern-II-IV_8636.JPG | CC BY-SA 3.0 | Mbdortmund
+highlights/dortmund-6.jpg | https://commons.wikimedia.org/wiki/File:Dortmund_-_PO-Phoenix-See_%2B_H%C3%B6rde_(Kaiserberg)_02_ies.jpg | CC BY-SA 3.0 | Frank Vincentz
+cities/munster.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/munster-1.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Historisches_Rathaus,_Giebel_--_2020_--_4096.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/munster-2.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Paulus-Dom_--_2019_--_3532.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/munster-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/munster-4.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_LWL-Museum_f%C3%BCr_Kunst_und_Kultur,_Lichtkunstwerk_%22Silberne_Frequenz%22_--_2020_--_6445.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/munster-5.jpg | https://commons.wikimedia.org/wiki/File:Kunstmuseum_Pablo_Picasso_M%C3%BCnster.jpg | CC BY 4.0 | DerStruffel
+highlights/munster-6.jpg | https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg | CC BY-SA 4.0 | Dietmar Rabich
+cities/darmstadt.jpg | https://commons.wikimedia.org/wiki/File:Darmstadt_Mathildenh%C3%B6he.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/darmstadt-1.jpg | https://commons.wikimedia.org/wiki/File:Darmstadt_Mathildenh%C3%B6he.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/darmstadt-2.jpg | https://commons.wikimedia.org/wiki/File:Russische-Kapelle-Darmstadt-2017.jpg | CC BY-SA 4.0 | Erkaha
+highlights/darmstadt-3.jpg | https://commons.wikimedia.org/wiki/File:Hessisches_Landesmuseum_f%C3%BCr_Kunst_%26_Naturgeschichte_-_Darmstadt_-_02.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/darmstadt-4.jpg | https://commons.wikimedia.org/wiki/File:Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_08.jpg | CC BY-SA 3.0 | Norbert Nagel
+highlights/darmstadt-5.jpg | https://commons.wikimedia.org/wiki/File:Messel_Necrosauridae.jpg | CC BY-SA 4.0 | Armin Reindl
+cities/marburg.jpg | https://commons.wikimedia.org/wiki/File:Marburg_Oberstadt_von_SO_(cropped).jpg | CC BY-SA 4.0 | Heinrich Stürzl
+highlights/marburg-1.jpg | https://commons.wikimedia.org/wiki/File:Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg | CC BY-SA 4.0 | Hydro
+highlights/marburg-2.jpg | https://commons.wikimedia.org/wiki/File:Marburger_Schloss_und_ehemalige_landgr%C3%A4fliche_Kanzlei.jpg | CC BY-SA 4.0 | Hydro
+highlights/marburg-3.jpg | https://commons.wikimedia.org/wiki/File:Marburg_Marktplatz_2010.jpg | CC BY-SA 4.0 | H. Helmlechner
+highlights/marburg-4.jpg | https://commons.wikimedia.org/wiki/File:Alte_Universit%C3%A4t_und_Universit%C3%A4tskirche_Marburg.jpg | CC BY-SA 4.0 | Hydro
+highlights/marburg-5.jpg | https://commons.wikimedia.org/wiki/File:Sterntaler_Universit%C3%A4tskirche_Marburg_1.jpg | CC BY-SA 4.0 | Hydro
+cities/kassel.jpg | https://commons.wikimedia.org/wiki/File:Orangerie_Kassel_Panorama.JPG | CC BY-SA 3.0 | JCS
+highlights/kassel-1.jpg | https://commons.wikimedia.org/wiki/File:Herkules_(Kassel)_(4).jpg | CC BY-SA 4.0 | Freak-Line-Community
+highlights/kassel-2.jpg | https://commons.wikimedia.org/wiki/File:Panorama-Wilhelmsh%C3%B6he-LR-HU.jpg | CC BY 4.0 | Hubertl
+highlights/kassel-3.jpg | https://commons.wikimedia.org/wiki/File:Grimmwelt_Kassel,_Eingang.jpg | CC0 | XenonX3
+highlights/kassel-4.jpg | https://commons.wikimedia.org/wiki/File:Fridericianum_mit_Zwehrenturm_Kassel.jpg | CC BY-SA 4.0 | H.Helmlechner
+highlights/kassel-5.jpg | https://commons.wikimedia.org/wiki/File:Kassel-Karlsaue-16-Orangerie-2017-gje.jpg | CC BY 4.0 | Gerd Eichmann
+cities/mainz.jpg | https://commons.wikimedia.org/wiki/File:Theodor-Heuss-Br%C3%BCcke-Mainz-Panorama_1-15000x1530.jpg | CC BY-SA 3.0 | The Last 99
+highlights/mainz-1.jpg | https://commons.wikimedia.org/wiki/File:Mainzer_Dom,_Leichhof_(2008-04-23_Sp).jpg | CC BY-SA 2.0 de | Lothar Spurzem
+highlights/mainz-2.jpg | https://commons.wikimedia.org/wiki/File:Gutenberg%27s_printing_press_in_the_Gutenberg_Museum,_Mainz,_Germany_(48988292696).jpg | CC BY 2.0 | dronepicr
+highlights/mainz-3.jpg | https://commons.wikimedia.org/wiki/File:20180825_St._Stephan_Mainz_05.jpg | CC BY 4.0 | Flocci Nivis
+highlights/mainz-4.jpg | https://commons.wikimedia.org/wiki/File:Altstadt_Mainz_Kirschgarten_Doctor_Flotte_Nacht.jpg | CC BY-SA 3.0 | Stadtlichtpunkte
+highlights/mainz-5.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/mainz-6.jpg | https://commons.wikimedia.org/wiki/File:Technikmuseum_Speyer_Panorama_2024-07-24.jpg | CC0 | R. J. Mathar
+cities/saarbrucken.jpg | https://commons.wikimedia.org/wiki/File:20201019_Alte_Br%C3%BCcke_Saarbr%C3%BCcken.jpg | CC BY 4.0 | Flocci Nivis
+highlights/saarbrucken-1.jpg | https://commons.wikimedia.org/wiki/File:Ludwigskirche_Saarbr%C3%BCcken_-_01.jpg | CC BY-SA 4.0 | NorbertNagel
+highlights/saarbrucken-2.jpg | https://commons.wikimedia.org/wiki/File:Saarbr%C3%BCcken,_Haus_St._Johanner_Markt_32_(Restaurant_%22die_Kartoffel%22).jpg | CC BY 4.0 | Dguendel
+highlights/saarbrucken-3.jpg | https://commons.wikimedia.org/wiki/File:Historisches_Museum_Saar_Saarbruecken_01.jpg | CC BY-SA 4.0 | Anna16
+highlights/saarbrucken-4.jpg | https://commons.wikimedia.org/wiki/File:20260425_Views_From_charging_platform_of_V%C3%B6lklingen_Ironworks_24.jpg | CC BY-SA 4.0 | Flocci Nivis
+highlights/saarbrucken-5.jpg | https://commons.wikimedia.org/wiki/File:20190714Baumwipfelpfad_Saarschleife_03.jpg | CC BY-SA 4.0 | Flocci Nivis
+cities/karlsruhe.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Karlsruhe_Schlossgarten_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/karlsruhe-1.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Karlsruhe_Schlossgarten_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/karlsruhe-2.jpg | https://commons.wikimedia.org/wiki/File:ZKM_Karlsruhe_I.JPG | CC BY-SA 2.5 | No machine-readable author provided. Martin-D assumed (based
+highlights/karlsruhe-4.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Karlsruhe_Schlossgarten_(view_from_the_south).jpg | CC BY-SA 4.0 | Carsten Steger
+cities/baden-baden.jpg | https://commons.wikimedia.org/wiki/File:Baden-Baden_10-2015_img41_Pump_house.jpg | CC BY-SA 3.0 | A.Savin
+highlights/baden-baden-1.jpg | https://commons.wikimedia.org/wiki/File:Baden-Baden-Friedrichsbad-07-2018-gje.jpg | CC BY 4.0 | Gerd Eichmann
+highlights/baden-baden-2.jpg | https://commons.wikimedia.org/wiki/File:Baden-Baden-Caracalla-Therme-06-gje.jpg | CC BY-SA 4.0 | Gerd Eichmann
+highlights/baden-baden-3.jpg | https://commons.wikimedia.org/wiki/File:Baden_bei_Wien_-_Casino_(1).JPG | CC BY-SA 4.0 | C.Stadler/Bwag
+highlights/baden-baden-4.jpg | https://commons.wikimedia.org/wiki/File:Baden_Baden_-_Lichtentaler_Allee_-_View_South.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/baden-baden-5.jpg | https://commons.wikimedia.org/wiki/File:Baden-Baden-Altes_Schloss_Hohenbaden-B-120-2026-gje.jpg | CC BY 4.0 | Gerd Eichmann
+cities/ulm.jpg | https://commons.wikimedia.org/wiki/File:Ulm_Panorama_02.jpg | CC BY-SA 4.0 | Uoaei1
+highlights/ulm-1.jpg | https://commons.wikimedia.org/wiki/File:2013_Ulm_L%C3%B6wenbrunnen_M%C3%BCnsterplatz.jpg | CC BY-SA 3.0 | Kreuzschnabel
+highlights/ulm-2.jpg | https://commons.wikimedia.org/wiki/File:I09_269_%C2%BBschiefes_Haus%C2%AB.jpg | CC BY-SA 4.0 | Falk2
+highlights/ulm-3.jpg | https://commons.wikimedia.org/wiki/File:UlmRathaus07162008.jpg | CC BY-SA 4.0 | User:Drombalan
+highlights/ulm-4.jpg | https://commons.wikimedia.org/wiki/File:Ulm_-_Stadtmauer_Ulm_(49203630223).jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/ulm-5.jpg | https://commons.wikimedia.org/wiki/File:T%C3%BCbingen_-_Altstadt_-_Neckarfront_-_H%C3%B6lderlinturm,_Alte_Aula,_Anlegestelle,_Stiftskirche_von_Neckarinsel_(1).jpg | CC BY-SA 4.0 | Roman Eisele
+cities/augsburg.jpg | https://commons.wikimedia.org/wiki/File:Augsburg_F%C3%BCrstbisch%C3%B6fliche_Residenz_Wappen.jpg | CC BY-SA 4.0 | Neitram
+highlights/augsburg-1.jpg | https://commons.wikimedia.org/wiki/File:Gasse_in_der_Fuggerei,_Augsburg.JPG | CC BY 3.0 de | High Contrast
+highlights/augsburg-2.jpg | https://commons.wikimedia.org/wiki/File:Augsburg_-_Goldener_Saal.jpg | CC BY 2.0 | Fred Romero from Paris, France
+highlights/augsburg-3.jpg | https://commons.wikimedia.org/wiki/File:20231023_Augsburg_Cathedral_02.jpg | CC BY 4.0 | Flocci Nivis
+highlights/augsburg-4.jpg | https://commons.wikimedia.org/wiki/File:Augsburg_-_Herkulesbrunnen_%26_Schaezlerpalais.jpg | CC BY 2.0 | Fred Romero from Paris, France
+cities/landshut.jpg | https://commons.wikimedia.org/wiki/File:Iglesia_del_Esp%C3%ADritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_02.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/landshut-1.jpg | https://commons.wikimedia.org/wiki/File:Landshut_altstadt.jpg | CC BY-SA 3.0 | 
+highlights/landshut-2.jpg | https://commons.wikimedia.org/wiki/File:Landshut_Altstadt_01.JPG | CC BY-SA 4.0 | Zairon
+highlights/landshut-3.jpg | https://commons.wikimedia.org/wiki/File:Castillo_Trausnitz,_Landshut,_Alemania,_2024-03-31,_DD_05.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/landshut-4.jpg | https://commons.wikimedia.org/wiki/File:Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-4.jpg | CC BY-SA 3.0 | Rufus46
+cities/chiemsee.jpg | https://commons.wikimedia.org/wiki/File:GER_Prien_am_Chiemsee,_Chiemsee_0001.jpg | CC BY 4.0 | -wuppertaler
+highlights/chiemsee-1.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/chiemsee-2.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Fraueninsel.jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/chiemsee-3.jpg | https://commons.wikimedia.org/wiki/File:Lokomotive_Laura_der_Chiemsee-Bahn_07.jpg | CC BY-SA 4.0 | Kritzolina
+highlights/chiemsee-4.jpg | https://commons.wikimedia.org/wiki/File:Kampenwandbahn_erste_Stuetze.JPG | CC BY 3.0 | Echtner
+cities/bayreuth.jpg | https://commons.wikimedia.org/wiki/File:Nuevo_Palacio,_Bayreuth,_Alemania,_2024-09-07,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/bayreuth-1.jpg | https://commons.wikimedia.org/wiki/File:Markgr%C3%A4fliches_Opernhaus_-_Bayreuth_-_2013.jpg | CC BY-SA 3.0 | Avda
+highlights/bayreuth-2.jpg | https://commons.wikimedia.org/wiki/File:Bayreuth_Festspielhaus_2006-07-16.jpg | CC BY-SA 2.5 | Rico Neitzel
+highlights/bayreuth-3.jpg | https://commons.wikimedia.org/wiki/File:Haus_Wahnfried_(Stra%C3%9Fenseite)_im_Winter_08.jpg | CC BY-SA 4.0 | JensKunstfreund
+highlights/bayreuth-4.jpg | https://commons.wikimedia.org/wiki/File:Nuevo_Palacio,_Bayreuth,_Alemania,_2024-09-07,_DD_01.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/bayreuth-5.jpg | https://commons.wikimedia.org/wiki/File:Bayreuth-Eremitage-WUS01751.jpg | CC BY-SA 4.0 | Rainer Halama
+cities/nordlingen.jpg | https://commons.wikimedia.org/wiki/File:N%C3%B6rdlingen,_Marktplatz_Panorama_20170830_011.jpg | CC BY-SA 4.0 | Tilman2007
+highlights/nordlingen-1.jpg | https://commons.wikimedia.org/wiki/File:Stadtmauer_von_N%C3%B6rdlingen_-_panoramio.jpg | CC BY 3.0 | qwesy qwesy
+highlights/nordlingen-2.jpg | https://commons.wikimedia.org/wiki/File:N%C3%B6rdlingen_Daniel_499.jpg | CC BY-SA 3.0 | GFreihalter
+highlights/nordlingen-3.jpg | https://commons.wikimedia.org/wiki/File:Rieskrater-Museum_(1).jpg | CC BY-SA 4.0 | Marie Čcheidzeová
+highlights/nordlingen-4.jpg | https://commons.wikimedia.org/wiki/File:Dinkelsb%C3%BChl_s%C3%BCd%C3%B6stliche_Altstadt-002-2.jpg | CC BY 3.0 | Tilman2007
+cities/passau.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_Passau.jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/passau-1.jpg | https://commons.wikimedia.org/wiki/File:Passau,_Dom_St._Stephan_(Au%C3%9Fenansicht)_(2).jpg | CC BY-SA 4.0 | Cmcmcm1
+highlights/passau-2.jpg | https://commons.wikimedia.org/wiki/File:Dreifl%C3%BCsseeck-Passau-Aerial_(P1140080E).jpg | CC0 | Hgmichna
+highlights/passau-3.jpg | https://commons.wikimedia.org/wiki/File:2011_-_Veste_Oberhaus_in_Passau.jpg | CC BY 3.0 de | High Contrast
+highlights/passau-4.jpg | https://commons.wikimedia.org/wiki/File:Passau_20190723_DSC0409_(48373780247).jpg | CC BY-SA 2.0 | s.somkuti
+cities/oberstdorf.jpg | https://commons.wikimedia.org/wiki/File:Oberstdorf_Panorama.jpg | Public domain | SB68Manm
+highlights/oberstdorf-1.jpg | https://commons.wikimedia.org/wiki/File:Oberstdorf_Germany_Nebelhornbahn-03.jpg | CC BY-SA 3.0 | CEphoto, Uwe Aranas
+highlights/oberstdorf-2.jpg | https://commons.wikimedia.org/wiki/File:Winter_im_Geotop_Breitachklamm.jpg | CC BY-SA 4.0 | Moorfan7
+highlights/oberstdorf-3.jpg | https://commons.wikimedia.org/wiki/File:Heini-Klopfer-Skiflugschanze_2012.jpg | CC BY 3.0 | Qwesy
+highlights/oberstdorf-4.jpg | https://commons.wikimedia.org/wiki/File:Freibergsee_Oberstdorf_04.jpg | CC BY-SA 4.0 | H.Helmlechner
+cities/meissen.jpg | https://commons.wikimedia.org/wiki/File:Mei%C3%9Fen_002.jpg | CC BY-SA 4.0 | Wolkenkratzer
+highlights/meissen-1.jpg | https://commons.wikimedia.org/wiki/File:Meissen_Albrechtsburg_Innenhof-01.jpg | CC BY-SA 4.0 | Radler59 (talk)
+highlights/meissen-2.jpg | https://commons.wikimedia.org/wiki/File:Mei%C3%9Fen,_Blick_vom_Kirchhof_St._Afra_zum_Dom.jpg | CC BY-SA 4.0 | Rolf Kranz
+highlights/meissen-3.jpg | https://commons.wikimedia.org/wiki/File:Sweetmeat_Stand_by_Meissen_Porcelain_Manufactory_and_Enameled_Candlesticks_by_Battersea_Ware.jpg | CC BY 4.0 | APK
+highlights/meissen-4.jpg | https://commons.wikimedia.org/wiki/File:20091101300MDR_Mei%C3%9Fen_Tuchmachertor_Frauenkirche.jpg | CC BY-SA 4.0 | Jörg Blobelt
+cities/wittenberg.jpg | https://commons.wikimedia.org/wiki/File:Lutherstadt_Wittenberg_2014-10-19_033.JPG | CC BY 3.0 | Sebastian Wallroth
+highlights/wittenberg-1.jpg | https://commons.wikimedia.org/wiki/File:J41_341_Wittenberg,_Lutherhaus.jpg | CC BY-SA 4.0 | Falk2
+highlights/wittenberg-2.jpg | https://commons.wikimedia.org/wiki/File:Wittenberg,_Schlosskirche_(Juni_2026)_1.jpg | CC0 | Romzig
+highlights/wittenberg-3.jpg | https://commons.wikimedia.org/wiki/File:Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg | CC BY-SA 4.0 | M_H.DE
+highlights/wittenberg-4.jpg | https://commons.wikimedia.org/wiki/File:CranachHof-Markt3-4_2.JPG | CC BY-SA 3.0 | Catatine
+highlights/wittenberg-5.jpg | https://commons.wikimedia.org/wiki/File:Bauhausgeb%C3%A4ude_Dessau_-_Atelierhaus.jpg | CC BY-SA 4.0 | Michael Deutsch
+highlights/wittenberg-6.jpg | https://commons.wikimedia.org/wiki/File:W%C3%B6rlitzer_Park,_Hohe_Br%C3%BCcke_(September_2023).jpg | CC0 | Romzig
+cities/naumburg.jpg | https://commons.wikimedia.org/wiki/File:Marktplatz_in_Naumburg_07.jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/naumburg-1.jpg | https://commons.wikimedia.org/wiki/File:Naumburg_Dom_80479.JPG | CC BY-SA 4.0 | Jacquesverlaeken
+highlights/naumburg-2.jpg | https://commons.wikimedia.org/wiki/File:Stadtkirche_St._Wenzel_Naumburg_Vorderseite.jpg | CC BY-SA 4.0 | RealPixelStreet
+highlights/naumburg-3.jpg | https://commons.wikimedia.org/wiki/File:Rotk%C3%A4ppchen_Sektkellerei,_Freyburg_(04).jpg | CC BY-SA 4.0 | © 1971markus
+highlights/naumburg-4.jpg | https://commons.wikimedia.org/wiki/File:2014_04_H%C3%A4ndelhaus.jpg | CC BY-SA 4.0 | DerHallenser
+highlights/naumburg-5.jpg | https://commons.wikimedia.org/wiki/File:2026-04-Halle-(Saale)-Roter-Turm-auf-Marktplatz.jpg | CC BY-SA 4.0 | Oliver Kloss
+highlights/naumburg-6.jpg | https://commons.wikimedia.org/wiki/File:Landesamt_f%C3%BCr_Denkmalpflege_und_Arch%C3%A4ologie_Landesmuseum_f%C3%BCr_Vorgeschichte,_Giebichenstein_Halle_(Saale)_-_panoramio.jpg | CC BY 3.0 | paul muster
+cities/erfurt.jpg | https://commons.wikimedia.org/wiki/File:Erfurt_-_Kr%C3%A4merbr%C3%BCcke_2_-_8.jpg | CC BY-SA 3.0 | H. Zell
+highlights/erfurt-1.jpg | https://commons.wikimedia.org/wiki/File:Erfurt_-_Kr%C3%A4merbr%C3%BCcke_2_-_8.jpg | CC BY-SA 3.0 | H. Zell
+highlights/erfurt-2.jpg | https://commons.wikimedia.org/wiki/File:ErfurterDom.png | CC BY-SA 4.0 | Varvara Kalinouskaya
+highlights/erfurt-3.jpg | https://commons.wikimedia.org/wiki/File:Erfurt_Cytadela_Petersberg_04.jpg | CC BY-SA 4.0 | Andrzej Otrębski
+highlights/erfurt-4.jpg | https://commons.wikimedia.org/wiki/File:Alte_Synagoge._Erfurt.jpg | CC BY-SA 3.0 | Vitold Muratov
+highlights/erfurt-5.jpg | https://commons.wikimedia.org/wiki/File:Erfurt_-_Augustinerkloster_03.jpg | CC BY-SA 3.0 | H. Zell
+highlights/bamberg-7.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_Kloster_Michelsberg_4298743.jpg | CC BY-SA 4.0 | Ermell
+highlights/bamberg-6.jpg | https://commons.wikimedia.org/wiki/File:Bamberg_Altenburg_Luftaufnahme-20221115-RM-111739.jpg | CC BY-SA 4.0 | Ermell
+highlights/berlin-20.jpg | https://commons.wikimedia.org/wiki/File:Gem%C3%A4ldegalerie_room_XVIII_-_2022-01.jpg | Public domain | Oursana
+highlights/berlin-19.jpg | https://commons.wikimedia.org/wiki/File:Humboldt_Forum_and_Berlin_Cathedral_June_2023_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/berlin-21.jpg | https://commons.wikimedia.org/wiki/File:Hackesche_H%C3%B6fe_Berlin1.JPG | Public domain | Schlaier
+highlights/bremen-7.jpg | https://commons.wikimedia.org/wiki/File:Havenwelten_-_Bremerhaven_02.jpg | CC BY-SA 3.0 | H. Zell
+highlights/cochem-6.jpg | https://commons.wikimedia.org/wiki/File:Beilstein_(Mosel),_2012-08_CN-01.jpg | CC BY-SA 3.0 de | kaʁstn Disk/Cat
+highlights/dresden-12.jpg | https://commons.wikimedia.org/wiki/File:Dresden_Albertinum_013.JPG | CC BY 3.0 | JoJan
+highlights/dresden-13.jpg | https://commons.wikimedia.org/wiki/File:Pillnitz-Wasseransicht.jpg | CC BY-SA 3.0 | User:Kolossos
+highlights/dresden-14.jpg | https://commons.wikimedia.org/wiki/File:Schloss_Moritzburg-024.jpg | CC BY-SA 3.0 | Tilman2007
+highlights/frankfurt-10.jpg | https://commons.wikimedia.org/wiki/File:Alte_Oper_Frankfurt_2019.jpg | CC BY-SA 3.0 de | Thomas Wolf, www.foto-tw.de
+highlights/frankfurt-11.jpg | https://commons.wikimedia.org/wiki/File:Frankfurt,_Senckenberg_Naturmuseum,_Atrium.jpg | CC BY-SA 4.0 | Dr. Thomas Liptak
+highlights/fussen-7.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_High_Castle_of_F%C3%BCssen_(view_from_the_southwest).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/garmisch-partenkirchen-6.jpg | https://commons.wikimedia.org/wiki/File:Linderhof_Palace,_August_2017.jpg | CC BY-SA 4.0 | Martin Falbisoner
+highlights/garmisch-partenkirchen-7.jpg | https://commons.wikimedia.org/wiki/File:Kloster_Ettal_Blick_vom_Osten.jpg | CC BY-SA 4.0 | Mölchlein
+highlights/hamburg-12.jpg | https://commons.wikimedia.org/wiki/File:Hamburg,_Kontorhausviertel,_Chilehaus_--_2016_--_3397.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/hamburg-13.jpg | https://commons.wikimedia.org/wiki/File:Ericush%C3%B6ft_(Hamburg-HafenCity).14.12471.ajb.jpg | CC BY-SA 3.0 de | Ajepbah
+highlights/hamburg-14.jpg | https://commons.wikimedia.org/wiki/File:Zentraler_Blick_durch_den_Alten_Elbtunnel.jpg | CC BY-SA 4.0 | GZagatta
+highlights/hamburg-15.jpg | https://commons.wikimedia.org/wiki/File:Planten_un_blomen_sommer2023_03.jpg | CC BY-SA 4.0 | Dirtsc
+highlights/heidelberg-8.jpg | https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Schwetzingen_Palace_and_gardens_(view_from_the_southeast).jpg | CC BY-SA 4.0 | Carsten Steger
+highlights/leipzig-10.jpg | https://commons.wikimedia.org/wiki/File:Auerbachs_Keller_(7412452758).jpg | CC BY 2.0 | Thomas Quine
+highlights/leipzig-9.jpg | https://commons.wikimedia.org/wiki/File:Leipzig_20260912_Zoo_04.jpg | CC0 | NutzerAusBerlin
+highlights/munich-17.jpg | https://commons.wikimedia.org/wiki/File:Asamkirche_-_M%C3%BCnchen_-_2022-04-28_-_299a.jpg | CC BY-SA 4.0 | Martinus KE
+highlights/munich-18.jpg | https://commons.wikimedia.org/wiki/File:Theatinerkirche_M%C3%BCnchen_2014.jpg | CC BY 3.0 de | High Contrast
+highlights/munich-19.jpg | https://commons.wikimedia.org/wiki/File:Allianz-Arena-M%C3%BCnchen.jpg | CC BY-SA 4.0 | Tobias Alt, Tobi 87
+highlights/nuremberg-9.jpg | https://commons.wikimedia.org/wiki/File:Handwerkerhof_N%C3%BCrnberg_003.jpg | CC BY-SA 4.0 | DALIBRI
+highlights/regensburg-7.jpg | https://commons.wikimedia.org/wiki/File:Kloster_Weltenburg_Luftbild.jpg | CC BY-SA 4.0 | SimonWaldherr
+highlights/rudesheim-6.jpg | https://commons.wikimedia.org/wiki/File:Loreley_2025.jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/rudesheim-7.jpg | https://commons.wikimedia.org/wiki/File:Bacharach_2025.jpg | CC BY-SA 4.0 | Jörg Braukmann
+highlights/stuttgart-8.jpg | https://commons.wikimedia.org/wiki/File:Burg_Hohenzollern_ak.jpg | CC BY-SA 3.0 | A. Kniesel (= User:-donald-), Lauffen

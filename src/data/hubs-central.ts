@@ -170,6 +170,137 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Erfurt-Weimar (ERF)', '에르푸르트-바이마르 공항 (ERF)', '에르푸르트|Erfurt'], FRA()],
     rail: [['Eisenach', '아이제나흐역']],
   },
+  hannover: {
+    air: [['Hannover (HAJ)', '하노버 공항 (HAJ)']],
+    rail: [['Hannover Hbf', '하노버 중앙역']],
+  },
+  hameln: {
+    air: [['Hannover (HAJ)', '하노버 공항 (HAJ)']],
+    rail: [['Hameln', '하멜른역', '구시가까지 걸어서 약 15분|about 15 min walk to the old town'], ['Hildesheim Hbf', '힐데스하임 중앙역']],
+  },
+  goslar: {
+    air: [['Hannover (HAJ)', '하노버 공항 (HAJ)']],
+    rail: [['Goslar', '고슬라어역']],
+  },
+  luneburg: {
+    air: [['Hamburg (HAM)', '함부르크 공항 (HAM)', '함부르크|Hamburg']],
+    rail: [['Lüneburg', '뤼네부르크역'], ['Celle', '첼레역']],
+  },
+  wismar: {
+    air: [['Hamburg (HAM)', '함부르크 공항 (HAM)', '함부르크|Hamburg']],
+    rail: [['Wismar', '비스마르역']],
+  },
+  rostock: {
+    air: [['Rostock-Laage (RLG)', '로스토크 공항 (RLG)', '운항편 적음|few flights'], ['Hamburg (HAM)', '함부르크 공항 (HAM)', '함부르크|Hamburg']],
+    rail: [['Rostock Hbf', '로스토크 중앙역'], ['Warnemünde', '바르네뮌데역']],
+    port: [['Warnemünde Cruise Center', '바르네뮌데 크루즈 터미널'], ['Rostock Überseehafen', '로스토크 국제항', '스칸디나비아행 페리|ferries to Scandinavia']],
+  },
+  stralsund: {
+    air: [['Rostock-Laage (RLG)', '로스토크 공항 (RLG)', '운항편 적음|few flights'], ['Berlin Brandenburg (BER)', '베를린 브란덴부르크 공항 (BER)', '베를린|Berlin']],
+    rail: [['Stralsund Hbf', '슈트랄준트 중앙역'], ['Ostseebad Binz', '빈츠역', '뤼겐섬|Rügen']],
+  },
+  bonn: {
+    air: [['Köln Bonn (CGN)', '쾰른 본 공항 (CGN)']],
+    rail: [['Bonn Hbf', '본 중앙역']],
+  },
+  dusseldorf: {
+    air: [['Düsseldorf (DUS)', '뒤셀도르프 공항 (DUS)']],
+    rail: [['Düsseldorf Hbf', '뒤셀도르프 중앙역'], ['Düsseldorf Flughafen', '뒤셀도르프 공항역']],
+  },
+  wuppertal: {
+    air: [['Düsseldorf (DUS)', '뒤셀도르프 공항 (DUS)']],
+    rail: [['Wuppertal Hbf', '부퍼탈 중앙역']],
+  },
+  essen: {
+    air: [['Düsseldorf (DUS)', '뒤셀도르프 공항 (DUS)']],
+    rail: [['Essen Hbf', '에센 중앙역']],
+  },
+  dortmund: {
+    air: [['Dortmund (DTM)', '도르트문트 공항 (DTM)'], ['Düsseldorf (DUS)', '뒤셀도르프 공항 (DUS)', '뒤셀도르프|Düsseldorf']],
+    rail: [['Dortmund Hbf', '도르트문트 중앙역']],
+  },
+  munster: {
+    air: [['Münster Osnabrück (FMO)', '뮌스터 오스나브뤼크 공항 (FMO)'], ['Düsseldorf (DUS)', '뒤셀도르프 공항 (DUS)', '뒤셀도르프|Düsseldorf']],
+    rail: [['Münster (Westf) Hbf', '뮌스터 중앙역']],
+  },
+  darmstadt: {
+    air: [FRA()],
+    rail: [['Darmstadt Hbf', '다름슈타트 중앙역']],
+  },
+  marburg: {
+    air: [FRA()],
+    rail: [['Marburg (Lahn)', '마르부르크역']],
+  },
+  kassel: {
+    air: [FRA()],
+    rail: [['Kassel-Wilhelmshöhe', '카셀 빌헬름스회에역', 'ICE 정차역|ICE station'], ['Kassel Hbf', '카셀 중앙역']],
+  },
+  mainz: {
+    air: [FRA()],
+    rail: [['Mainz Hbf', '마인츠 중앙역'], ['Speyer Hbf', '슈파이어 중앙역']],
+  },
+  saarbrucken: {
+    air: [['Saarbrücken (SCN)', '자르브뤼켄 공항 (SCN)', '운항편 적음|few flights'], FRA(), LUX()],
+    rail: [['Saarbrücken Hbf', '자르브뤼켄 중앙역']],
+  },
+  karlsruhe: {
+    air: [['Karlsruhe/Baden-Baden (FKB)', '카를스루에/바덴바덴 공항 (FKB)'], FRA()],
+    rail: [['Karlsruhe Hbf', '카를스루에 중앙역']],
+  },
+  'baden-baden': {
+    air: [['Karlsruhe/Baden-Baden (FKB)', '카를스루에/바덴바덴 공항 (FKB)']],
+    rail: [['Baden-Baden', '바덴바덴역', '시내까지 약 4km, 버스|about 4 km to the centre, by bus']],
+  },
+  ulm: {
+    air: [['Stuttgart (STR)', '슈투트가르트 공항 (STR)', '슈투트가르트|Stuttgart'], MUC()],
+    rail: [['Ulm Hbf', '울름 중앙역'], ['Tübingen Hbf', '튀빙겐 중앙역']],
+  },
+  augsburg: {
+    air: [MUC()],
+    rail: [['Augsburg Hbf', '아우크스부르크 중앙역']],
+  },
+  landshut: {
+    air: [MUC('뮌헨 (약 35km)|Munich (about 35 km)')],
+    rail: [['Landshut (Bay) Hbf', '란츠후트 중앙역', '구시가까지 버스|bus to the old town']],
+  },
+  chiemsee: {
+    air: [MUC(), SZG()],
+    rail: [['Prien am Chiemsee', '프린 암 킴제역']],
+    port: [['Prien-Stock', '프린-슈톡 선착장', '섬행 배|boats to the islands']],
+  },
+  bayreuth: {
+    air: [['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)', '뉘른베르크|Nuremberg']],
+    rail: [['Bayreuth Hbf', '바이로이트 중앙역']],
+  },
+  nordlingen: {
+    air: [MUC(), ['Nürnberg (NUE)', '뉘른베르크 공항 (NUE)', '뉘른베르크|Nuremberg']],
+    rail: [['Nördlingen', '뇌르틀링겐역']],
+  },
+  passau: {
+    air: [MUC(), ['Linz (LNZ)', '린츠 공항 (LNZ)', '오스트리아 린츠|Linz, Austria']],
+    rail: [['Passau Hbf', '파사우 중앙역']],
+    port: [['Passau Anlegestelle', '파사우 선착장', '도나우 유람선|Danube boats']],
+  },
+  oberstdorf: {
+    air: [MUC(), ['Memmingen (FMM)', '메밍겐 공항 (FMM)', '저가 항공|low-cost flights']],
+    rail: [['Oberstdorf', '오버스트도르프역']],
+  },
+  meissen: {
+    air: [['Dresden (DRS)', '드레스덴 공항 (DRS)', '드레스덴|Dresden']],
+    rail: [['Meißen', '마이센역'], ['Meißen Altstadt', '마이센 구시가역']],
+  },
+  wittenberg: {
+    air: [BER()],
+    rail: [['Lutherstadt Wittenberg Hbf', '비텐베르크 중앙역'], ['Dessau Hbf', '데사우 중앙역']],
+  },
+  naumburg: {
+    air: [['Leipzig/Halle (LEJ)', '라이프치히/할레 공항 (LEJ)']],
+    rail: [['Naumburg (Saale) Hbf', '나움부르크 중앙역', '시내까지 약 1.5km|about 1.5 km to the centre'], ['Halle (Saale) Hbf', '할레 중앙역']],
+  },
+  erfurt: {
+    air: [['Erfurt-Weimar (ERF)', '에르푸르트-바이마르 공항 (ERF)', '운항편 적음|few flights'], FRA()],
+    rail: [['Erfurt Hbf', '에르푸르트 중앙역', 'ICE 교차역|ICE hub']],
+  },
   lindau: {
     air: [['Friedrichshafen (FDH)', '프리드리히스하펜 공항 (FDH)', '프리드리히스하펜|Friedrichshafen'], ['Zürich (ZRH)', '취리히 공항 (ZRH)', '스위스 취리히|Zürich, Switzerland']],
     rail: [

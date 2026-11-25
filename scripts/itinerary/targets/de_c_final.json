@@ -1,0 +1,770 @@
+{
+"berlin-h20": [
+"Gemäldegalerie Berlin",
+"Kulturforum (Gemäldegalerie & Philharmonie)"
+],
+"berlin-h19": [
+"Humboldt Forum",
+"Humboldt Forum"
+],
+"berlin-h21": [
+"Hackesche Höfe",
+"Hackesche Höfe"
+],
+"munich-h17": [
+"Asamkirche München",
+"Asam Church"
+],
+"munich-h18": [
+"Theatinerkirche München",
+"Odeonsplatz & Theatine Church"
+],
+"munich-h19": [
+"Allianz Arena",
+"Allianz Arena"
+],
+"augsburg-h1": [
+"Fuggerei Augsburg",
+"Fuggerei"
+],
+"augsburg-h2": [
+"Goldener Saal Augsburg",
+"Town Hall & Golden Hall"
+],
+"augsburg-h3": [
+"Augsburger Dom",
+"Augsburg Cathedral"
+],
+"augsburg-h4": [
+"Schaezlerpalais Augsburg",
+"Maximilianstrasse & Schaezlerpalais"
+],
+"augsburg-h5": [
+"Augsburger Puppenkiste, Spitalgasse, Augsburg",
+"Augsburger Puppenkiste Museum"
+],
+"landshut-h1": [
+"Martinskirche, Landshut",
+"St Martin’s Church"
+],
+"landshut-h2": [
+"Altstadt Landshut",
+"Altstadt street"
+],
+"landshut-h3": [
+"Burg Trausnitz",
+"Trausnitz Castle"
+],
+"landshut-h4": [
+"Heilig-Geist-Kirche, Landshut",
+"Holy Spirit Church"
+],
+"chiemsee-h1": [
+"Schloss Herrenchiemsee",
+"Herrenchiemsee New Palace"
+],
+"chiemsee-h2": [
+"Fraueninsel Chiemsee",
+"Fraueninsel"
+],
+"chiemsee-h3": [
+"Chiemsee-Bahn Prien",
+"Chiemsee-Bahn"
+],
+"chiemsee-h4": [
+"Kampenwandbahn Aschau",
+"Kampenwand cable car"
+],
+"garmisch-partenkirchen-h6": [
+"Schloss Linderhof",
+"Linderhof Palace"
+],
+"garmisch-partenkirchen-h7": [
+"Kloster Ettal",
+"Ettal Abbey & Oberammergau"
+],
+"hamburg-h12": [
+"Chilehaus Hamburg",
+"Kontorhaus district & Chilehaus"
+],
+"hamburg-h13": [
+"HafenCity Hamburg",
+"HafenCity"
+],
+"hamburg-h14": [
+"Alter Elbtunnel",
+"Old Elbe Tunnel"
+],
+"hamburg-h15": [
+"Planten un Blomen",
+"Planten un Blomen"
+],
+"hannover-h1": [
+"Großer Garten Herrenhausen",
+"Herrenhausen Gardens"
+],
+"hannover-h2": [
+"Neues Rathaus Hannover",
+"New Town Hall"
+],
+"hannover-h3": [
+"Maschsee Hannover",
+"Maschsee"
+],
+"hannover-h4": [
+"Marktkirche Hannover",
+"Old town & Market Church"
+],
+"hannover-h6": [
+"Sprengel Museum Hannover",
+"Sprengel Museum"
+],
+"hameln-h1": [
+"Rattenfängerhaus Hameln",
+"Old town & Rattenfängerhaus"
+],
+"hameln-h2": [
+"Hochzeitshaus Hameln",
+"Hochzeitshaus & Pied Piper open-air play"
+],
+"hameln-h3": [
+"Museum Hameln",
+"Museum Hameln"
+],
+"hameln-h4": [
+"Mariendom Hildesheim",
+"Hildesheim Cathedral"
+],
+"hameln-h5": [
+"St. Michaelis Hildesheim",
+"St Michael’s Church, Hildesheim"
+],
+"hameln-h6": [
+"Knochenhaueramtshaus Hildesheim",
+"Hildesheim Market Square"
+],
+"goslar-h1": [
+"Marktplatz Goslar",
+"Old town & Market Square"
+],
+"goslar-h2": [
+"Kaiserpfalz Goslar",
+"Imperial Palace (Kaiserpfalz)"
+],
+"goslar-h3": [
+"Weltkulturerbe Rammelsberg",
+"Rammelsberg Mine"
+],
+"goslar-h4": [
+"Marktkirche Goslar",
+"Market Church tower"
+],
+"luneburg-h1": [
+"Am Sande Lüneburg",
+"Am Sande"
+],
+"luneburg-h2": [
+"Rathaus Lüneburg",
+"Lüneburg Town Hall"
+],
+"luneburg-h3": [
+"Alter Kran Lüneburg",
+"Stintmarkt & Old Crane"
+],
+"luneburg-h4": [
+"Deutsches Salzmuseum",
+"German Salt Museum"
+],
+"luneburg-h5": [
+"Altstadt Celle",
+"Celle old town"
+],
+"luneburg-h6": [
+"Schloss Celle",
+"Celle Castle"
+],
+"wismar-h1": [
+"Wasserkunst Wismar",
+"Market Square & Wasserkunst"
+],
+"wismar-h2": [
+"St. Nikolai Wismar",
+"St Nicholas’ Church"
+],
+"wismar-h3": [
+"St. Marien, Wismar",
+"St Mary’s Church tower"
+],
+"wismar-h4": [
+"Wassertor Wismar",
+"Old harbour & Wassertor"
+],
+"rostock-h1": [
+"Rathaus Rostock",
+"Neuer Markt & Town Hall"
+],
+"rostock-h2": [
+"Marienkirche Rostock",
+"St Mary’s Church"
+],
+"rostock-h3": [
+"Universitätsplatz Rostock",
+"Kröpeliner Strasse & University Square"
+],
+"rostock-h4": [
+"Leuchtturm Warnemünde",
+"Warnemünde"
+],
+"rostock-h5": [
+"Molli Bad Doberan",
+"Molli steam railway"
+],
+"stralsund-h1": [
+"Rathaus Stralsund",
+"Old Market & Town Hall"
+],
+"stralsund-h2": [
+"Ozeaneum, Hafenstraße, Stralsund",
+"Ozeaneum"
+],
+"stralsund-h3": [
+"Marienkirche Stralsund",
+"St Mary’s Church tower"
+],
+"stralsund-h4": [
+"Gorch Fock I Stralsund",
+"Gorch Fock I"
+],
+"stralsund-h5": [
+"Königsstuhl Nationalpark-Zentrum",
+"Jasmund chalk cliffs & Königsstuhl"
+],
+"stralsund-h6": [
+"Seebrücke Binz",
+"Binz"
+],
+"bremen-h7": [
+"Klimahaus Bremerhaven",
+"Bremerhaven"
+],
+"bonn-h1": [
+"Beethoven-Haus Bonn",
+"Beethoven-Haus"
+],
+"bonn-h2": [
+"Bonner Münster",
+"Bonn Minster & Münsterplatz"
+],
+"bonn-h3": [
+"Altes Rathaus Bonn",
+"Old Town Hall & Market Square"
+],
+"bonn-h4": [
+"Haus der Geschichte Bonn",
+"House of the History of the Federal Republic"
+],
+"bonn-h5": [
+"Drachenfels Königswinter",
+"Drachenfels"
+],
+"dusseldorf-h1": [
+"Altstadt Düsseldorf",
+"Altstadt & Altbier breweries"
+],
+"dusseldorf-h2": [
+"Mannesmannufer, Düsseldorf",
+"Rhine promenade"
+],
+"dusseldorf-h3": [
+"Rheinturm Düsseldorf",
+"Rheinturm"
+],
+"dusseldorf-h4": [
+"Neuer Zollhof Düsseldorf",
+"MedienHafen"
+],
+"dusseldorf-h5": [
+"Königsallee Düsseldorf",
+"Königsallee"
+],
+"dusseldorf-h6": [
+"K20 Kunstsammlung Nordrhein-Westfalen",
+"K20 Kunstsammlung NRW"
+],
+"wuppertal-h1": [
+"Schwebebahn Wuppertal",
+"Schwebebahn"
+],
+"wuppertal-h2": [
+"Von der Heydt-Museum",
+"Von der Heydt Museum"
+],
+"wuppertal-h3": [
+"Zoo Wuppertal",
+"Wuppertal Zoo"
+],
+"wuppertal-h4": [
+"Engels-Haus Wuppertal",
+"Engels House & Museum of Early Industrialisation"
+],
+"wuppertal-h5": [
+"Müngstener Brücke",
+"Müngsten Bridge"
+],
+"essen-h1": [
+"Zeche Zollverein",
+"Zollverein Coal Mine Industrial Complex"
+],
+"essen-h2": [
+"Ruhr Museum Essen",
+"Ruhr Museum"
+],
+"essen-h3": [
+"Museum Folkwang",
+"Museum Folkwang"
+],
+"essen-h4": [
+"Villa Hügel",
+"Villa Hügel"
+],
+"essen-h5": [
+"Essener Dom",
+"Essen Cathedral & treasury"
+],
+"essen-h6": [
+"Baldeneysee",
+"Lake Baldeney"
+],
+"dortmund-h1": [
+"Deutsches Fußballmuseum",
+"German Football Museum"
+],
+"dortmund-h2": [
+"Signal Iduna Park",
+"Signal Iduna Park"
+],
+"dortmund-h3": [
+"Dortmunder U",
+"Dortmunder U"
+],
+"dortmund-h4": [
+"Westfalenpark Dortmund",
+"Westfalenpark & Florianturm"
+],
+"dortmund-h5": [
+"Zeche Zollern",
+"Zollern Colliery"
+],
+"dortmund-h6": [
+"Phoenix-See Dortmund",
+"Phoenix-See"
+],
+"munster-h1": [
+"Historisches Rathaus Münster",
+"Prinzipalmarkt & Hall of Peace"
+],
+"munster-h2": [
+"St.-Paulus-Dom Münster",
+"St Paulus Cathedral"
+],
+"munster-h3": [
+"St. Lamberti Münster",
+"St Lamberti Church"
+],
+"munster-h4": [
+"LWL-Museum für Kunst und Kultur",
+"LWL Museum of Art and Culture"
+],
+"munster-h5": [
+"Kunstmuseum Pablo Picasso Münster",
+"Kunstmuseum Pablo Picasso"
+],
+"munster-h6": [
+"Aasee Münster",
+"Aasee & Promenade"
+],
+"cochem-h6": [
+"Beilstein Mosel",
+"Beilstein"
+],
+"mainz-h1": [
+"Mainzer Dom",
+"Mainz Cathedral"
+],
+"mainz-h2": [
+"Gutenberg-Museum Mainz",
+"Gutenberg Museum"
+],
+"mainz-h3": [
+"St. Stephan Mainz",
+"St Stephan’s Church"
+],
+"mainz-h4": [
+"Kirschgarten Mainz",
+"Old town & Kirschgarten"
+],
+"mainz-h5": [
+"Dom zu Speyer",
+"Speyer Cathedral"
+],
+"mainz-h6": [
+"Technik Museum Speyer",
+"Technik Museum Speyer"
+],
+"frankfurt-h10": [
+"Alte Oper Frankfurt",
+"Alte Oper & Fressgass"
+],
+"frankfurt-h11": [
+"Senckenberg Naturmuseum Frankfurt",
+"Senckenberg Natural History Museum"
+],
+"darmstadt-h1": [
+"Mathildenhöhe Darmstadt",
+"Mathildenhöhe"
+],
+"darmstadt-h2": [
+"Russische Kapelle Darmstadt",
+"Russian Chapel"
+],
+"darmstadt-h3": [
+"Hessisches Landesmuseum Darmstadt",
+"Hessisches Landesmuseum"
+],
+"darmstadt-h4": [
+"Waldspirale Darmstadt",
+"Waldspirale"
+],
+"darmstadt-h5": [
+"Grube Messel Besucherzentrum",
+"Messel Pit"
+],
+"rudesheim-h6": [
+"Loreley",
+"Loreley"
+],
+"rudesheim-h7": [
+"Bacharach",
+"Bacharach"
+],
+"marburg-h1": [
+"Elisabethkirche Marburg",
+"St Elizabeth’s Church"
+],
+"marburg-h2": [
+"Landgrafenschloss Marburg",
+"Landgraves’ Castle"
+],
+"marburg-h3": [
+"Marktplatz Marburg",
+"Upper Town & Market Square"
+],
+"marburg-h4": [
+"Alte Universität Marburg",
+"Old University"
+],
+"marburg-h5": [
+"Grimm-Dich-Pfad Marburg",
+"Grimm-Dich-Pfad"
+],
+"kassel-h1": [
+"Herkules Kassel",
+"Bergpark Wilhelmshöhe"
+],
+"kassel-h2": [
+"Schloss Wilhelmshöhe",
+"Wilhelmshöhe Palace"
+],
+"kassel-h3": [
+"Grimmwelt Kassel",
+"Grimmwelt"
+],
+"kassel-h4": [
+"Fridericianum Kassel",
+"Fridericianum"
+],
+"kassel-h5": [
+"Karlsaue Kassel",
+"Karlsaue & Orangery"
+],
+"dresden-h12": [
+"Albertinum Dresden",
+"Albertinum"
+],
+"dresden-h13": [
+"Schloss Pillnitz",
+"Pillnitz Palace"
+],
+"dresden-h14": [
+"Schloss Moritzburg",
+"Moritzburg Castle"
+],
+"meissen-h1": [
+"Albrechtsburg Meissen",
+"Albrechtsburg"
+],
+"meissen-h2": [
+"Dom zu Meißen",
+"Meissen Cathedral"
+],
+"meissen-h3": [
+"Porzellan-Manufaktur Meissen, Talstraße, Meißen",
+"Meissen Porcelain Manufactory"
+],
+"meissen-h4": [
+"Frauenkirche Meißen",
+"Old town & Frauenkirche porcelain bells"
+],
+"heidelberg-h8": [
+"Schloss Schwetzingen",
+"Schwetzingen Palace"
+],
+"nuremberg-h9": [
+"Handwerkerhof Nürnberg",
+"Handwerkerhof"
+],
+"bamberg-h7": [
+"Kloster Michelsberg Bamberg",
+"Michaelsberg Abbey"
+],
+"bamberg-h6": [
+"Altenburg Bamberg",
+"Altenburg"
+],
+"bayreuth-h1": [
+"Markgräfliches Opernhaus Bayreuth",
+"Margravial Opera House"
+],
+"bayreuth-h2": [
+"Festspielhügel, Bayreuth",
+"Bayreuth Festival Theatre"
+],
+"bayreuth-h3": [
+"Haus Wahnfried",
+"Wahnfried – Richard Wagner Museum"
+],
+"bayreuth-h4": [
+"Neues Schloss Bayreuth",
+"New Palace"
+],
+"bayreuth-h5": [
+"Eremitage Bayreuth",
+"Hermitage"
+],
+"regensburg-h7": [
+"Kloster Weltenburg",
+"Weltenburg Abbey & Danube Gorge"
+],
+"passau-h1": [
+"Dom St. Stephan Passau",
+"St Stephen’s Cathedral"
+],
+"passau-h2": [
+"Dreiflüsseeck Passau",
+"Three Rivers Corner"
+],
+"passau-h3": [
+"Veste Oberhaus Passau",
+"Veste Oberhaus"
+],
+"passau-h4": [
+"Höllgasse Passau",
+"Old town & Höllgasse"
+],
+"passau-h5": [
+"Fritz-Schäffer-Promenade, Passau",
+"Danube cruise"
+],
+"fussen-h7": [
+"Hohes Schloss Füssen",
+"Hohes Schloss (High Castle)"
+],
+"oberstdorf-h1": [
+"Nebelhornbahn",
+"Nebelhorn cable car"
+],
+"oberstdorf-h2": [
+"Breitachklamm",
+"Breitachklamm"
+],
+"oberstdorf-h3": [
+"Heini-Klopfer-Skiflugschanze",
+"Heini-Klopfer ski-flying hill"
+],
+"oberstdorf-h4": [
+"Freibergsee",
+"Freibergsee"
+],
+"ulm-h1": [
+"Ulmer Münster",
+"Ulm Minster"
+],
+"ulm-h2": [
+"Schiefes Haus Ulm",
+"Fishermen’s Quarter & Leaning House"
+],
+"ulm-h3": [
+"Rathaus Ulm",
+"Ulm Town Hall"
+],
+"ulm-h4": [
+"Stadtmauer Ulm",
+"Danube bank & city wall"
+],
+"ulm-h5": [
+"Hölderlinturm Tübingen",
+"Tübingen old town"
+],
+"saarbrucken-h1": [
+"Ludwigskirche Saarbrücken",
+"Ludwigskirche"
+],
+"saarbrucken-h2": [
+"St. Johanner Markt Saarbrücken",
+"St. Johanner Markt"
+],
+"saarbrucken-h3": [
+"Historisches Museum Saar",
+"Saarbrücken Castle & Historical Museum Saar"
+],
+"saarbrucken-h4": [
+"Weltkulturerbe Völklinger Hütte",
+"Völklingen Ironworks"
+],
+"saarbrucken-h5": [
+"Baumwipfelpfad Saarschleife",
+"Saar loop & treetop walk"
+],
+"stuttgart-h8": [
+"Burg Hohenzollern",
+"Hohenzollern Castle"
+],
+"karlsruhe-h1": [
+"Schloss Karlsruhe",
+"Karlsruhe Palace & Baden State Museum"
+],
+"karlsruhe-h2": [
+"ZKM Karlsruhe",
+"ZKM Center for Art and Media"
+],
+"karlsruhe-h3": [
+"Pyramide Karlsruhe",
+"Marktplatz & Pyramid"
+],
+"karlsruhe-h4": [
+"Schlossgarten Karlsruhe",
+"Palace gardens & Botanical Garden"
+],
+"baden-baden-h1": [
+"Friedrichsbad Baden-Baden",
+"Friedrichsbad"
+],
+"baden-baden-h2": [
+"Caracalla Therme",
+"Caracalla Spa"
+],
+"baden-baden-h3": [
+"Casino Baden-Baden",
+"Kurhaus & Casino"
+],
+"baden-baden-h4": [
+"Lichtentaler Allee",
+"Lichtentaler Allee"
+],
+"baden-baden-h5": [
+"Altes Schloss Baden-Baden",
+"Old Castle (Hohenbaden)"
+],
+"leipzig-h10": [
+"Auerbachs Keller Leipzig",
+"Auerbachs Keller"
+],
+"leipzig-h9": [
+"Zoo Leipzig",
+"Leipzig Zoo"
+],
+"wittenberg-h1": [
+"Lutherhaus Wittenberg",
+"Luther House"
+],
+"wittenberg-h2": [
+"Schlosskirche Wittenberg",
+"All Saints’ Church (Theses Door)"
+],
+"wittenberg-h3": [
+"Stadtkirche Wittenberg",
+"Town Church of St Mary"
+],
+"wittenberg-h4": [
+"Cranachhof, Wittenberg",
+"Market Square, Melanchthon House & Cranach courtyards"
+],
+"wittenberg-h5": [
+"Bauhaus Dessau",
+"Bauhaus Dessau & Masters’ Houses"
+],
+"wittenberg-h6": [
+"Wörlitzer Park",
+"Dessau-Wörlitz Garden Realm"
+],
+"naumburg-h1": [
+"Naumburger Dom",
+"Naumburg Cathedral"
+],
+"naumburg-h2": [
+"Stadtkirche St. Wenzel Naumburg",
+"Market Square & St Wenceslas"
+],
+"naumburg-h3": [
+"Rotkäppchen Sektkellerei Freyburg",
+"Freyburg (Unstrut)"
+],
+"naumburg-h4": [
+"Händel-Haus Halle",
+"Handel House, Halle"
+],
+"naumburg-h5": [
+"Roter Turm Halle",
+"Halle Market Square & Red Tower"
+],
+"naumburg-h6": [
+"Landesmuseum für Vorgeschichte Halle",
+"Nebra Sky Disc (State Museum of Prehistory)"
+],
+"erfurt-h1": [
+"Krämerbrücke Erfurt",
+"Krämerbrücke"
+],
+"erfurt-h2": [
+"Erfurter Dom",
+"Erfurt Cathedral & St Severus"
+],
+"erfurt-h3": [
+"Zitadelle Petersberg",
+"Petersberg Citadel"
+],
+"erfurt-h4": [
+"Alte Synagoge Erfurt",
+"Old Synagogue"
+],
+"erfurt-h5": [
+"Augustinerkloster Erfurt",
+"Augustinian Monastery"
+],
+"nordlingen-h1": [
+"Stadtmauer Nördlingen",
+"Town wall walk"
+],
+"nordlingen-h2": [
+"Daniel Nördlingen",
+"Daniel tower"
+],
+"nordlingen-h3": [
+"RiesKraterMuseum Nördlingen",
+"RiesKrater Museum"
+],
+"nordlingen-h4": [
+"Münster St. Georg, Dinkelsbühl",
+"Dinkelsbühl old town"
+]
+}

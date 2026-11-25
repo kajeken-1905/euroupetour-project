@@ -1181,6 +1181,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'dresden',
       tip: '츠빙거 궁전과 프라우엔 교회, 엘베 강변 테라스를 봅니다.|The Zwinger, the Frauenkirche and the Brühl Terrace on the Elbe.',
     },
+    {
+      to: 'wittenberg',
+      tip: '종교 개혁의 도시에서 루터 하우스와 논제의 문이 있는 성 교회를 봅니다.|Luther House and the Castle Church with the Theses Door, in the town of the Reformation.',
+    },
   ],
   munich: [
     {
@@ -1207,6 +1211,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'garmisch-partenkirchen',
       tip: '맑은 날 톱니바퀴 열차와 케이블카로 추크슈피체에 오르고, 내려와 파르트나흐 협곡을 걷습니다.|On a clear day, cogwheel train and cable car up the Zugspitze, then a walk through the Partnach Gorge.',
     },
+    {
+      to: 'augsburg',
+      tip: '세계에서 가장 오래된 사회 주택 푸거라이와 황금의 방을 봅니다.|The Fuggerei, the world’s oldest social housing, and the Golden Hall.',
+    },
+    {
+      to: 'landshut',
+      tip: '세계에서 가장 높은 벽돌 교회 탑과 고딕 박공 거리, 언덕 위 성을 봅니다.|The world’s tallest brick church tower, the Gothic main street and the hilltop castle.',
+    },
+    {
+      to: 'chiemsee',
+      tip: '배로 헤렌킴제 궁전과 프라우엔 섬을 둘러봅니다.|By boat to Herrenchiemsee Palace and the Fraueninsel.',
+    },
   ],
   frankfurt: [
     {
@@ -1222,11 +1238,27 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       tip: '케이블카로 니더발트 기념비에 오른 뒤 배로 라인 계곡을 내려가 로렐라이를 지나고, 강변 기차로 돌아옵니다. 배는 4~10월이 중심입니다.|Cable car to the Niederwald Monument, a boat down the Rhine Gorge past the Lorelei and the riverside train back; boats run mainly April–October.',
       x: [['2026년 12월 12일까지 뤼데스하임–마인츠 사이 철도 공사로 대체버스가 다녀 프랑크푸르트에서 약 1시간 30분 걸립니다.|Until 12 December 2026, works between Rüdesheim and Mainz mean replacement buses, so it takes about 1 hr 30 from Frankfurt.', '2026-12-12']],
     },
+    {
+      to: 'darmstadt',
+      tip: '예술가 마을 마틸덴회에와 결혼 기념탑, 러시아 예배당을 봅니다.|The Mathildenhöhe artists’ colony, its Wedding Tower and the Russian Chapel.',
+    },
+    {
+      to: 'marburg',
+      tip: '성 엘리자베트 교회와 언덕 위 성, 목조 가옥 골목을 걷습니다.|St Elizabeth’s Church, the hilltop castle and the half-timbered lanes.',
+    },
+    {
+      to: 'mainz',
+      tip: '구텐베르크의 도시에서 대성당과 샤갈의 창을 보고 구시가 와인 주점에 들릅니다.|Gutenberg’s city: the cathedral, Chagall’s windows and an old-town wine tavern.',
+    },
   ],
   stuttgart: [
     {
       to: 'heidelberg',
       tip: '고성과 대학 도시 구시가를 걷습니다.|The castle and the university old town.',
+    },
+    {
+      to: 'ulm',
+      tip: '세계에서 가장 높은 대성당 첨탑에 오르고 어부 지구를 걷습니다.|Climb the world’s tallest church steeple and stroll the Fishermen’s Quarter.',
     },
   ],
   nuremberg: [
@@ -1246,6 +1278,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'regensburg',
       tip: '돌다리와 대성당, 탑 저택이 늘어선 구시가를 걷고 소시지 주방에서 점심을 먹습니다.|The stone bridge, the cathedral and the old town of tower houses, with lunch at the sausage kitchen.',
     },
+    {
+      to: 'bayreuth',
+      tip: '바로크 변경백 오페라 극장과 바그너의 집을 봅니다.|The Baroque Margravial Opera House and Wagner’s home.',
+    },
   ],
   hamburg: [
     {
@@ -1255,6 +1291,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'bremen',
       tip: '기차로 약 1시간. 시청과 롤란트 상, 브레멘 음악대 동상, 슈노어 골목을 봅니다.|About 1 hr by train: the town hall and Roland, the Town Musicians statue and the Schnoor lanes.',
+    },
+    {
+      to: 'luneburg',
+      tip: '소금으로 부를 쌓은 한자 도시의 벽돌 박공 광장과 옛 항구를 걷습니다.|Stroll the brick-gabled squares and old harbour of the salt-rich Hanseatic town.',
     },
   ],
   dresden: [
@@ -1269,6 +1309,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'gorlitz',
       tip: '기차로 약 1시간 30분. 전쟁 피해가 없는 중세 구시가와 폴란드로 건너가는 다리를 봅니다.|About 1 hr 30 by train: an intact medieval old town and the bridge across to Poland.',
+    },
+    {
+      to: 'meissen',
+      tip: '언덕 위 알브레히츠부르크와 대성당, 도자기 공방을 봅니다. 여름엔 엘베강 배로도 갑니다.|The hilltop Albrechtsburg, cathedral and porcelain manufactory; in summer you can go by Elbe steamer.',
     },
   ],
   athens: [
@@ -1713,6 +1757,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'aachen',
       tip: '기차로 약 55분. 샤를마뉴의 대성당과 시청, 온천 분수를 봅니다.|About 55 min by train: Charlemagne’s cathedral, the town hall and the thermal fountain.',
+    },
+    {
+      to: 'bonn',
+      tip: '베토벤 하우스와 박물관 거리를 보고, 시간이 되면 드라헨펠스에 오릅니다.|Beethoven’s birthplace and the Museum Mile, then the Drachenfels if time allows.',
+    },
+    {
+      to: 'dusseldorf',
+      tip: '구시가 양조장에서 알트비어를 마시고 라인 강변과 미디어 항구를 걷습니다.|Altbier in the old-town brewery taverns, then the Rhine promenade and MedienHafen.',
+    },
+    {
+      to: 'wuppertal',
+      tip: '매달린 열차 슈베베반을 끝에서 끝까지 타고 동물원과 미술관을 봅니다.|Ride the Schwebebahn end to end and see the zoo and art museum.',
     },
   ],
   gdansk: [

@@ -7,7 +7,7 @@ import json, subprocess, sys, urllib.parse
 UA = 'EuropeTourGuide/1.0 (https://github.com/kajeken-1905/euroupetour-project) curl'
 
 
-def plan(a, b, t='2026-11-10T09:00:00Z'):
+def plan(a, b, t='2026-12-02T08:00:00Z'):
     q = urllib.parse.urlencode({'fromPlace': a, 'toPlace': b, 'time': t, 'numItineraries': 5})
     out = subprocess.run(['curl', '-s', '-m', '40', '-A', UA, f'https://api.transitous.org/api/v5/plan?{q}'],
                          capture_output=True, text=True).stdout

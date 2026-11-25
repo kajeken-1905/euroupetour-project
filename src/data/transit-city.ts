@@ -1061,6 +1061,326 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('db'),
     ],
   },
+  hannover: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걷거나 슈타트반(지상·지하 트램)을 탑니다. 헤렌하우젠 정원은 트램으로 갑니다.',
+      en: 'Walk or take the Stadtbahn light rail; trams run out to the Herrenhausen Gardens.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  hameln: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 역에서는 걷거나 버스를 탑니다.',
+      en: 'Walk the old town; walk or take a bus from the station.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  goslar: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 라멜스베르크 광산은 버스로 갑니다.',
+      en: 'Walk the old town; take a bus to the Rammelsberg.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  luneburg: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  wismar: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가와 항구는 걸어서 다닙니다.',
+      en: 'Walk the old town and harbour.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  rostock: {
+    modes: ['walk', 'tram', 'train', 'ferry'],
+    howTo: {
+      ko: '시내는 걷거나 트램을 타고, 바르네뮌데는 전철(S-Bahn)로 갑니다.',
+      en: 'Walk or take the tram; the S-Bahn runs to Warnemünde.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  stralsund: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다. 뤼겐섬은 기차나 버스로 갑니다.',
+      en: 'Walk the old town; reach Rügen by train or bus.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  bonn: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 박물관 거리는 슈타트반(트램)을 탑니다.',
+      en: 'Walk the old town; take the Stadtbahn to the Museum Mile.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  dusseldorf: {
+    modes: ['walk', 'tram', 'metro', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 트램과 슈타트반(지하 구간)이 시내를 잇습니다.',
+      en: 'Walk the old town; trams and the Stadtbahn cover the city.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  wuppertal: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '슈베베반이 골짜기를 따라 시내를 잇는 주요 교통수단입니다.',
+      en: 'The Schwebebahn is the main link along the valley.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  essen: {
+    modes: ['walk', 'tram', 'metro', 'train'],
+    howTo: {
+      ko: '트램과 슈타트반이 촐페라인과 시내를 잇습니다.',
+      en: 'Trams and the Stadtbahn link Zollverein and the centre.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  dortmund: {
+    modes: ['walk', 'metro', 'tram', 'train'],
+    howTo: {
+      ko: '슈타트반과 S-Bahn이 경기장·공원과 시내를 잇습니다.',
+      en: 'The Stadtbahn and S-Bahn link the stadium, parks and centre.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  munster: {
+    modes: ['walk', 'bike', 'bus'],
+    howTo: {
+      ko: '구시가는 걷거나 자전거를 타고, 시내버스가 다닙니다.',
+      en: 'Walk or cycle; city buses run too.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  darmstadt: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '시내는 걷거나 트램을 탑니다.',
+      en: 'Walk or take the tram.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  marburg: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '걸어서 다니며, 윗마을엔 공공 엘리베이터가 있습니다.',
+      en: 'Walk; public lifts climb to the upper town.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  kassel: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '트램이 시내와 빌헬름스회에를 잇습니다.',
+      en: 'Trams link the centre and Wilhelmshöhe.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  mainz: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  saarbrucken: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '시내는 걷거나 트램(자르반)을 탑니다.',
+      en: 'Walk or take the Saarbahn tram.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  karlsruhe: {
+    modes: ['walk', 'tram', 'train'],
+    howTo: {
+      ko: '트램이 촘촘해 시내와 근교를 잇습니다.',
+      en: 'A dense tram network links the city and region.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  'baden-baden': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 역과 시내는 버스로 잇습니다.',
+      en: 'Walk the town; buses link the station and centre.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  ulm: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  augsburg: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 역과 시내는 트램이 잇습니다.',
+      en: 'Walk the old town; trams link the station and centre.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  landshut: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 역에서는 버스를 탑니다.',
+      en: 'Walk the old town; take a bus from the station.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  chiemsee: {
+    modes: ['walk', 'ferry', 'train', 'bus'],
+    howTo: {
+      ko: '섬은 프린-슈톡 선착장에서 배를 탑니다.',
+      en: 'Boats to the islands leave from Prien-Stock.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  bayreuth: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 축제 극장과 에레미타주는 버스로 갑니다.',
+      en: 'Walk the old town; buses run to the Festival Theatre and the Hermitage.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  nordlingen: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '성벽 안은 걸어서 다니고, 딩켈스뷜은 버스로 갑니다.',
+      en: 'Walk inside the walls; take a bus to Dinkelsbühl.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  passau: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 오버하우스는 셔틀버스나 계단으로 오릅니다.',
+      en: 'Walk the old town; reach the Oberhaus by shuttle bus or on foot.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  oberstdorf: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 협곡과 호수는 버스로 갑니다.',
+      en: 'Walk the village; buses run to the gorge and lake.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  meissen: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 성까지는 계단길이나 엘리베이터로 오릅니다.',
+      en: 'Walk the old town; climb to the castle by steps or the lift.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  wittenberg: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 데사우는 기차로 갑니다.',
+      en: 'Walk the old town; take the train to Dessau.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  naumburg: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 역과 시내 사이엔 옛 트램이 다닙니다.',
+      en: 'Walk the old town; a historic tram links the station and centre.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
+  erfurt: {
+    modes: ['walk', 'tram', 'bus'],
+    howTo: {
+      ko: '구시가는 걷거나 트램을 탑니다.',
+      en: 'Walk or take the tram.',
+    },
+    apps: [
+      ta('db'),
+    ],
+  },
   lindau: {
     modes: ['walk', 'bus', 'train', 'ferry'],
     howTo: {
