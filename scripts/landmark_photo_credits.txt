@@ -5810,3 +5810,91 @@ highlights/orkney-2.jpg | https://commons.wikimedia.org/wiki/File:Ring_of_Brodga
 highlights/orkney-3.jpg | https://commons.wikimedia.org/wiki/File:Maeshowe_Chambered_Cairn_-_geograph.org.uk_-_3221595.jpg | CC BY-SA 2.0 | Russel Wills
 highlights/orkney-4.jpg | https://commons.wikimedia.org/wiki/File:Orkney_Islands_-_St_Magnus_Cathedral_-_20210815165300.jpg | CC BY-SA 4.0 | Virtual-Pano
 highlights/orkney-5.jpg | https://commons.wikimedia.org/wiki/File:Italian_Chapel_(exterior),_Orkney-PS-Edit_final.jpg | CC BY-SA 4.0 | MichaelMaggs
+cities/swansea.jpg | https://commons.wikimedia.org/wiki/File:Entering_Swansea_sign.jpg | CC0 | Kenneth C. Zirkel
+highlights/swansea-1.jpg | https://commons.wikimedia.org/wiki/File:Mumbles_Head_-_geograph.org.uk_-_5453773.jpg | CC BY-SA 2.0 | don cload
+highlights/swansea-2.jpg | https://commons.wikimedia.org/wiki/File:Rhossili_Bay_-_geograph.org.uk_-_4166902.jpg | CC BY-SA 2.0 | Gordon Hatton
+highlights/swansea-3.jpg | https://commons.wikimedia.org/wiki/File:Beautiful_Three_Cliffs_Bay,_Gower_Peninsula_Wales.jpg | CC BY-SA 4.0 | Keith Lawson 11
+highlights/swansea-4.jpg | https://commons.wikimedia.org/wiki/File:Dylan_Thomas_Centre_-_geograph.org.uk_-_5909783.jpg | CC BY-SA 2.0 | Alan Hughes
+highlights/swansea-5.jpg | https://commons.wikimedia.org/wiki/File:National_Waterfront_Museum_(19125415205).jpg | CC BY 2.0 | Reading Tom from Reading, UK
+cities/brecon-beacons.jpg | https://commons.wikimedia.org/wiki/File:Bannau_Brycheiniog_Lake_and_Fields.jpg | CC BY-SA 4.0 | UserAlbert
+highlights/brecon-beacons-2.jpg | https://commons.wikimedia.org/wiki/File:Sgwd_Clun-gwyn_in_the_Majestic_Waterfall_Country_of_Wales.jpg | CC BY-SA 4.0 | Keith Lawson 11
+highlights/brecon-beacons-3.jpg | https://commons.wikimedia.org/wiki/File:Brecon_Cathedral_(5726564531).jpg | CC BY 2.0 | David Merrett from Daventry, England
+highlights/brecon-beacons-4.jpg | https://commons.wikimedia.org/wiki/File:Big_Pit_National_Coal_Museum_-_geograph.org.uk_-_7333735.jpg | CC BY-SA 2.0 | Dave Croker
+cities/hay-on-wye.jpg | https://commons.wikimedia.org/wiki/File:Hay-on-Wye_-_town_of_books.jpg | CC BY-SA 4.0 | Immanuel Giel
+highlights/hay-on-wye-1.jpg | https://commons.wikimedia.org/wiki/File:Bookwyrm_bookshop.jpg | CC BY-SA 4.0 | Lajmmoore
+highlights/hay-on-wye-2.jpg | https://commons.wikimedia.org/wiki/File:Hay_Castle,_Hay_on_Wye_(geograph_2576049).jpg | CC BY-SA 2.0 | Paul Buckingham
+highlights/hay-on-wye-3.jpg | https://commons.wikimedia.org/wiki/File:River_Wye_in_Hereford.jpg | CC0 | Els Pam Pels
+cities/st-davids.jpg | https://commons.wikimedia.org/wiki/File:St_Davids_Coastline_-_geograph.org.uk_-_8012333.jpg | CC BY-SA 2.0 | Thomas Roberts
+highlights/st-davids-1.jpg | https://commons.wikimedia.org/wiki/File:St._David%27s_Cathedral,_Wales,_GB.jpg | CC BY 4.0 | Ввласенко
+highlights/st-davids-2.jpg | https://commons.wikimedia.org/wiki/File:Kirkwall_Bishop%27s_Palace_Inside_view_1.jpg | CC BY-SA 4.0 | Ymblanter
+cities/aberystwyth.jpg | https://commons.wikimedia.org/wiki/File:Arfordir_Aberystwyth,_Ceredigion_-_Aberystwyth_SAC_Special_Areas_of_Conservation,_West_Wales_Marine_01.jpg | CC BY-SA 4.0 | Llywelyn2000
+highlights/aberystwyth-2.jpg | https://commons.wikimedia.org/wiki/File:Mynach_Falls_Devil%27s_Bridge_-_geograph.org.uk_-_5879784.jpg | CC BY-SA 2.0 | Chris Gunns
+highlights/aberystwyth-3.jpg | https://commons.wikimedia.org/wiki/File:Aberystwyth_Cliff_Railway-2-2016-09-15.jpg | CC BY 2.0 | Werner Wilmes
+highlights/aberystwyth-4.jpg | https://commons.wikimedia.org/wiki/File:National_Library_of_Wales_(geograph_5085400).jpg | CC BY-SA 2.0 | Ian Capper
+highlights/aberystwyth-5.jpg | https://commons.wikimedia.org/wiki/File:Arfordir_Aberystwyth,_Ceredigion_-_Aberystwyth_SAC_Special_Areas_of_Conservation,_West_Wales_Marine_43.jpg | CC BY-SA 4.0 | Llywelyn2000
+cities/caernarfon.jpg | https://commons.wikimedia.org/wiki/File:Caernarfon_IMG_5679_-_panoramio.jpg | CC BY 3.0 | Paul Lakin
+highlights/caernarfon-1.jpg | https://commons.wikimedia.org/wiki/File:Castell_Caernarfon_yn_y_cyfnos_yn_2023_-_Castell_Caernarfon,_Gwynedd,_Wales_at_Dusk_-_2023_10.png | CC BY-SA 4.0 | Llywelyn2000
+highlights/caernarfon-2.jpg | https://commons.wikimedia.org/wiki/File:Caernarfon_town_walls_-_geograph.org.uk_-_4138430.jpg | CC BY-SA 2.0 | Richard Croft
+highlights/caernarfon-3.jpg | https://commons.wikimedia.org/wiki/File:Welsh_Highland_Railway_Loco_at_Caernarfon_-_geograph.org.uk_-_4083827.jpg | CC BY-SA 2.0 | Jeff Buck
+highlights/caernarfon-4.jpg | https://commons.wikimedia.org/wiki/File:Beaumaris_Castle_2015_003.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/caernarfon-5.jpg | https://commons.wikimedia.org/wiki/File:South_Stack_and_South_Stack_Lighthouse_-_geograph.org.uk_-_5482247.jpg | CC BY-SA 2.0 | Jeff Buck
+cities/strangford-lough.jpg | https://commons.wikimedia.org/wiki/File:The_Strangford_Lough_town_of_Newtownards_viewed_from_the_Leadmines_-_geograph.org.uk_-_5520926.jpg | CC BY-SA 2.0 | Eric Jones
+highlights/strangford-lough-1.jpg | https://commons.wikimedia.org/wiki/File:Mount_Stewart_April_2011.jpg | CC BY-SA 3.0 | Ulsterbeef
+highlights/strangford-lough-2.jpg | https://commons.wikimedia.org/wiki/File:Scrabo_-_Scrabo_Tower_(Londonderry_Monument)_-_20240820110149.jpg | CC BY-SA 4.0 | Elkay62
+highlights/strangford-lough-3.jpg | https://commons.wikimedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg | CC BY 3.0 | Diliff
+highlights/strangford-lough-4.jpg | https://commons.wikimedia.org/wiki/File:Nendrum_Monastic_Site_-_geograph.org.uk_-_7257779.jpg | CC BY-SA 2.0 | N Chadwick
+cities/newcastle-mourne.jpg | https://commons.wikimedia.org/wiki/File:The_High_Mournes_from_Islands%27_Park,_Newcastle_-_geograph.org.uk_-_6179410.jpg | CC BY-SA 2.0 | Eric Jones
+highlights/newcastle-mourne-1.jpg | https://commons.wikimedia.org/wiki/File:South_Promenade,_Newcastle,_Co_Down_-_geograph.org.uk_-_2079783.jpg | CC BY-SA 2.0 | Eric Jones
+highlights/newcastle-mourne-2.jpg | https://commons.wikimedia.org/wiki/File:Slieve_Donard_summit_-_geograph.org.uk_-_5220392.jpg | CC BY-SA 2.0 | Colin Park
+highlights/newcastle-mourne-3.jpg | https://commons.wikimedia.org/wiki/File:Foley%27s_Footbridge_at_Tollymore_Forest_Park_-_geograph.org.uk_-_5816875.jpg | CC BY-SA 2.0 | Eric Jones
+highlights/newcastle-mourne-4.jpg | https://commons.wikimedia.org/wiki/File:Castlewellan_forest_Park,_peace_maze.jpg | CC BY-SA 4.0 | Psyc123
+cities/armagh.jpg | https://commons.wikimedia.org/wiki/File:Armagh_Rail_Disaster_sculpture_-_geograph.org.uk_-_6996007.jpg | CC BY-SA 2.0 | Kenneth  Allen
+highlights/armagh-1.jpg | https://commons.wikimedia.org/wiki/File:Armagh_Cathedral_(Church_of_Ireland).jpg | CC BY-SA 4.0 | JohnArmagh (shifted &amp; cropped by Rabanus Flavus)
+highlights/armagh-2.jpg | https://commons.wikimedia.org/wiki/File:St_Patrick%27s_Roman_Catholic_Cathedral_-_geograph.org.uk_-_4994625.jpg | CC BY-SA 2.0 | Eric Jones
+highlights/armagh-3.jpg | https://commons.wikimedia.org/wiki/File:Northern_Ireland_-_Armagh_Observatory_College_Hill_Armagh_-_20220623113653.jpg | CC BY-SA 4.0 | Csyogi
+highlights/armagh-4.jpg | https://commons.wikimedia.org/wiki/File:Navan.jpg | Public domain | Jon Sullivan
+cities/enniskillen.jpg | https://commons.wikimedia.org/wiki/File:Enniskillen_Castle_-_geograph.org.uk_-_6873730.jpg | CC BY-SA 2.0 | Kenneth  Allen
+highlights/enniskillen-1.jpg | https://commons.wikimedia.org/wiki/File:Enniskillen_Castle_03.jpg | CC BY 2.0 | Marian McCaffrey
+highlights/enniskillen-2.jpg | https://commons.wikimedia.org/wiki/File:Marble_Arch_Caves_0004.jpg | CC BY-SA 4.0 | Dieglop
+highlights/enniskillen-3.jpg | https://commons.wikimedia.org/wiki/File:Devenish_Island_Round_Tower_2018_08_26.jpg | CC BY-SA 4.0 | Andreas F. Borchert
+highlights/enniskillen-4.jpg | https://commons.wikimedia.org/wiki/File:Castle_Coole_(3)_-_geograph.org.uk_-_5517673.jpg | CC BY-SA 2.0 | Michael Dibb
+highlights/london-31.jpg | https://commons.wikimedia.org/wiki/File:Tate_Britain_2020.jpg | CC BY 4.0 | Julian Herzog (Website)
+highlights/london-32.jpg | https://commons.wikimedia.org/wiki/File:St_Dunstan-in-the-East_in_2020.jpg | CC0 | Mx. Granger
+highlights/london-30.jpg | https://commons.wikimedia.org/wiki/File:Science_Museum,_Exhibition_Road_(cropped).jpg | CC BY-SA 4.0 | Shadowssettle
+highlights/edinburgh-15.jpg | https://commons.wikimedia.org/wiki/File:National_Gallery_of_Scotland_restitch1_2005-08-07.jpg | CC BY-SA 3.0 | 
+highlights/edinburgh-16.jpg | https://commons.wikimedia.org/wiki/File:Palm_House,_Royal_Botanic_Garden_Edinburgh.JPG | CC BY-SA 3.0 | Ham
+highlights/glasgow-9.jpg | https://commons.wikimedia.org/wiki/File:The_Willow_Tearooms_Glasgow.jpg | CC BY-SA 2.5 | 
+highlights/glasgow-8.jpg | https://commons.wikimedia.org/wiki/File:The_Burrell_Collection_-_geograph.org.uk_-_7273054.jpg | CC BY-SA 2.0 | M J Richardson
+highlights/cardiff-6.jpg | https://commons.wikimedia.org/wiki/File:Cardiff_,_National_Museum_of_Wales_-_geograph.org.uk_-_3916544.jpg | CC BY-SA 2.0 | Lewis Clarke
+highlights/cardiff-7.jpg | https://commons.wikimedia.org/wiki/File:Llandaff_Cathedral_spire_seen_from_Old_Bishop%27s_Palace.jpg | CC BY-SA 4.0 | Dominic Nelson
+highlights/belfast-7.jpg | https://commons.wikimedia.org/wiki/File:Belfast%27s_Cathedral_Quarter_-_geograph.org.uk_-_5634739.jpg | CC BY-SA 2.0 | Robert Ashby
+highlights/belfast-8.jpg | https://commons.wikimedia.org/wiki/File:Belfast_Botanic_Gardens_glasshouse.jpg | CC BY 2.0 | Robert Young
+highlights/manchester-10.jpg | https://commons.wikimedia.org/wiki/File:The_Manchester_Museum.jpg | CC BY-SA 3.0 | DrPhoenix
+highlights/liverpool-10.jpg | https://commons.wikimedia.org/wiki/File:St_Georges_Hall_Liverpool_3_(6727529617).jpg | CC BY 2.0 | Tony Hisgett from Birmingham, UK
+highlights/york-9.jpg | https://commons.wikimedia.org/wiki/File:Merchant_Adventurers%27_Hall.jpg | CC BY-SA 3.0 | Kaly99
+highlights/oxford-11.jpg | https://commons.wikimedia.org/wiki/File:Magdalen_College,_view_of_cloisters_from_Addison%27s_Walk,_Oct_2016.jpg | CC BY-SA 4.0 | LegesRomanorum
+highlights/cambridge-9.jpg | https://commons.wikimedia.org/wiki/File:The_Orchard_Tea_Garden_in_Grantchester_May_2007.JPG | Public domain | The original uploader was KF at English Wikipedia.
+highlights/bath-10.jpg | https://commons.wikimedia.org/wiki/File:Holburne_Museum,_Bath.jpg | CC BY-SA 4.0 | Neiljforsyth
+highlights/bristol-8.jpg | https://commons.wikimedia.org/wiki/File:Bristol_Bloodhound_II_(42102011935).jpg | CC BY-SA 2.0 | Hugh Llewelyn from Keynsham, UK
+highlights/dover-5.jpg | https://commons.wikimedia.org/wiki/File:Walmer_Castle_from_the_west.jpg | CC BY-SA 4.0 | DeFacto
+highlights/st-ives-5.jpg | https://commons.wikimedia.org/wiki/File:Godrevy_Lighthouse_July_2026_02.jpg | CC BY-SA 4.0 | ArildV
+highlights/stratford-upon-avon-6.jpg | https://commons.wikimedia.org/wiki/File:Mary-Arden-s-05.JPG | CC BY-SA 3.0 | Immanuel Giel
+highlights/cotswolds-6.jpg | https://commons.wikimedia.org/wiki/File:Market_Hall_-_Chipping_Campden.jpg | CC BY-SA 2.0 | Mick
+highlights/lake-district-6.jpg | https://commons.wikimedia.org/wiki/File:Derwent_Water,_Keswick_Launch_Area_-_geograph.org.uk_-_3459588.jpg | CC BY-SA 2.0 | wfmillar
+highlights/newcastle-2.jpg | https://commons.wikimedia.org/wiki/File:Newcastle_upon_Tyne_-_Keep_and_cathedral.jpg | CC BY-SA 4.0 | Benjamin Smith
+highlights/warwick-4.jpg | https://commons.wikimedia.org/wiki/File:Kenilworth_Castle_2016.jpg | CC BY-SA 4.0 | DeFacto
+highlights/winchester-3.jpg | https://commons.wikimedia.org/wiki/File:Wolvesey_Castle_38.jpg | CC BY-SA 4.0 | Simon Burchell
+highlights/jurassic-coast-2.jpg | https://commons.wikimedia.org/wiki/File:Lyme_Regis_,_Lyme_Regis_Museum_-_geograph.org.uk_-_2094711.jpg | CC BY-SA 2.0 | Lewis Clarke
+highlights/dundee-3.jpg | https://commons.wikimedia.org/wiki/File:War_Memorial,_Dundee_Law.jpg | CC BY-SA 3.0 | Mohammed Lunat
+highlights/pitlochry-1.jpg | https://commons.wikimedia.org/wiki/File:Pitlochry_dam_-_geograph.org.uk_-_4390908.jpg | CC BY-SA 2.0 | Euan Nelson
+highlights/aberdeen-5.jpg | https://commons.wikimedia.org/wiki/File:Dunnottar_Castle_2.jpg | CC BY 2.0 | Eduardo Unda from Aberdeen, UK
+highlights/speyside-3.jpg | https://www.flickr.com/photos/24725407@N07/4768558466 | BY 2.0 | Mr Craig Simpson
+highlights/cairngorms-2.jpg | https://commons.wikimedia.org/wiki/File:Reindeer,_Cairngorms_National_Park_-_geograph.org.uk_-_4641676.jpg | CC BY-SA 2.0 | Euan Nelson
+highlights/mull-2.jpg | https://www.flickr.com/photos/20545573@N00/42704236 | BY 2.0 | Martin Burns
+highlights/arran-2.jpg | https://commons.wikimedia.org/wiki/File:Goatfell_from_Brodick_Harbour.jpg | CC BY-SA 3.0 | Clydecoast
+highlights/brecon-beacons-1.jpg | https://www.flickr.com/photos/73440891@N05/9363285415 | BY 2.0 | danielthornton
+highlights/hay-on-wye-4.jpg | https://www.flickr.com/photos/90949166@N00/3848572913 | PDM 1.0 | davidgsteadman
+highlights/st-davids-3.jpg | https://commons.wikimedia.org/wiki/File:Porth_Mawr_(Whitesands_Bay)_near_Tyddewi_(St_David%27s),_Sir_Benfro,_Cymru,_Wales_15.jpg | CC BY-SA 4.0 | Llywelyn2000
+highlights/st-davids-4.jpg | https://commons.wikimedia.org/wiki/File:Ynys_Dewi_o%27r_tir_mawr_-_Ramsey_Island_from_the_mainland,_Cymru_(Wales)_14.jpg | CC BY-SA 4.0 | Llywelyn2000
+highlights/aberystwyth-1.jpg | https://www.flickr.com/photos/58415659@N00/52311304563 | BY 2.0 | kitmasterbloke
+highlights/lincoln-6.jpg | https://commons.wikimedia.org/wiki/File:International_Bomber_Command_Centre_Aerial_View.jpg | CC BY-SA 4.0 | International Bomber Command Centre
