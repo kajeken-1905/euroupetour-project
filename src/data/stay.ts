@@ -2276,6 +2276,103 @@ export const STAY: Record<string, StayArea[]> = {
   oban: [
     a('오번 항구 주변', 'Oban harbour front', 'Oban', '처음이라면|First visit', '역·페리 터미널과 식당이 항구에 모여 있습니다.|The station, ferry terminal and restaurants are all on the harbour.'),
   ],
+  newcastle: [
+    a('시내 중심과 키사이드', 'City centre & Quayside', 'Grey Street Newcastle', '처음이라면|First visit', '역과 강변, 쇼핑가가 걸어서 닿습니다.|The station, riverside and shops on foot.'),
+  ],
+  'hadrians-wall': [
+    a('헥섬', 'Hexham', 'Hexham', '처음이라면|First visit', '역과 식당이 있고 방벽까지 버스나 차로 갑니다.|Station and restaurants, with buses or a car to the wall.'),
+  ],
+  alnwick: [
+    a('안윅 시내', 'Alnwick town', 'Alnwick', '처음이라면|First visit', '성과 정원, 헌책방이 걸어서 닿습니다.|Castle, gardens and bookshop on foot.'),
+  ],
+  haworth: [
+    a('하워스 마을', 'Haworth village', 'Haworth', '처음이라면|First visit', '목사관과 찻집이 바로 옆입니다.|The parsonage and tea rooms on your doorstep.'),
+  ],
+  'peak-district': [
+    a('베이크웰', 'Bakewell', 'Bakewell', '처음이라면|First visit', '버스가 모이고 채스워스·해던 홀이 가깝습니다.|Buses meet here, close to Chatsworth and Haddon Hall.'),
+  ],
+  birmingham: [
+    a('시내 중심', 'City centre', 'Birmingham New Street', '처음이라면|First visit', '역과 운하, 쇼핑가가 걸어서 닿습니다.|The station, canals and shops on foot.'),
+  ],
+  warwick: [
+    a('워릭 시내', 'Warwick town', 'Market Place Warwick', '처음이라면|First visit', '성과 옛 거리가 걸어서 닿습니다.|The castle and old streets on foot.'),
+  ],
+  norwich: [
+    a('시내 중심', 'City centre', 'Norwich Market', '처음이라면|First visit', '대성당과 성, 시장이 걸어서 닿습니다.|The cathedral, castle and market on foot.'),
+  ],
+  winchester: [
+    a('시내 중심', 'City centre', 'Winchester High Street', '처음이라면|First visit', '대성당과 대홀이 걸어서 닿습니다.|The cathedral and Great Hall on foot.'),
+  ],
+  rye: [
+    a('구시가', 'Old town', 'High Street Rye', '처음이라면|First visit', '언덕 위 골목과 식당이 모여 있습니다.|The hilltop lanes and restaurants.'),
+  ],
+  wells: [
+    a('대성당 주변', 'Around the cathedral', 'Market Place Wells', '처음이라면|First visit', '대성당과 주교관, 장터 광장이 걸어서 닿습니다.|The cathedral, palace and market square on foot.'),
+  ],
+  'jurassic-coast': [
+    a('라임 레지스', 'Lyme Regis', 'Lyme Regis', '처음이라면|First visit', '해변과 코브, 박물관이 걸어서 닿습니다.|The beach, Cobb and museum on foot.'),
+  ],
+  'loch-lomond': [
+    a('러스·밸로크', 'Luss & Balloch', 'Balloch', '처음이라면|First visit', '기차역과 선착장이 가깝습니다.|Close to the station and piers.'),
+  ],
+  dundee: [
+    a('강변과 시내 중심', 'Waterfront & city centre', 'Dundee railway station', '처음이라면|First visit', '역과 박물관이 걸어서 닿습니다.|The station and museums on foot.'),
+  ],
+  pitlochry: [
+    a('마을 중심', 'Town centre', 'Pitlochry', '처음이라면|First visit', '역과 상점가, 댐이 걸어서 닿습니다.|The station, high street and dam on foot.'),
+  ],
+  aberdeen: [
+    a('시내 중심', 'City centre', 'Union Street Aberdeen', '처음이라면|First visit', '역과 항구, 상점가가 가깝습니다.|Close to the station, harbour and shops.'),
+  ],
+  speyside: [
+    a('더프타운', 'Dufftown', 'Dufftown', '처음이라면|First visit', '증류소들이 가까운 작은 마을입니다.|A small town close to the distilleries.'),
+  ],
+  cairngorms: [
+    a('에비모어', 'Aviemore', 'Aviemore', '처음이라면|First visit', '역과 상점, 산행 출발 버스가 모여 있습니다.|Station, shops and buses up the mountain.'),
+  ],
+  mull: [
+    a('토버모리', 'Tobermory', 'Tobermory', '처음이라면|First visit', '항구 마을에 식당과 숙소가 모여 있습니다.|Restaurants and rooms around the harbour.'),
+  ],
+  arran: [
+    a('브로딕', 'Brodick', 'Brodick', '처음이라면|First visit', '선착장과 버스가 모이는 섬의 중심 마을입니다.|The island’s main village, with the ferry and buses.'),
+  ],
+  islay: [
+    a('보모어', 'Bowmore', 'Bowmore', '처음이라면|First visit', '섬 가운데 있어 증류소 어디로든 가기 좋습니다.|Central, handy for all the distilleries.'),
+  ],
+  orkney: [
+    a('커크월', 'Kirkwall', 'Kirkwall', '처음이라면|First visit', '대성당과 버스 정류장, 식당이 모여 있습니다.|The cathedral, bus station and restaurants.'),
+  ],
+  swansea: [
+    a('시내와 해안', 'City & seafront', 'Swansea Marina', '처음이라면|First visit', '역과 박물관이 가깝고 멈블스행 버스가 다닙니다.|Near the station and museums, with buses to Mumbles.'),
+    a('멈블스', 'Mumbles', 'Mumbles', '바다 가까이|By the sea', '해변 마을에 묵으며 고워로 나갑니다.|Stay by the sea, handy for Gower.'),
+  ],
+  'brecon-beacons': [
+    a('브레콘', 'Brecon', 'Brecon', '처음이라면|First visit', '버스와 식당이 모이는 국립공원 거점 마을입니다.|The park’s base town, with buses and restaurants.'),
+  ],
+  'hay-on-wye': [
+    a('마을 중심', 'Town centre', 'Hay-on-Wye', '처음이라면|First visit', '책방과 성이 모두 걸어서 닿습니다.|The bookshops and castle all on foot.'),
+  ],
+  'st-davids': [
+    a('도시 중심', 'City centre', 'St Davids', '처음이라면|First visit', '대성당과 식당이 걸어서 닿습니다.|The cathedral and restaurants on foot.'),
+  ],
+  aberystwyth: [
+    a('해안가', 'Seafront', 'Aberystwyth Promenade', '처음이라면|First visit', '역과 해변, 철도가 걸어서 닿습니다.|The station, beach and railways on foot.'),
+  ],
+  caernarfon: [
+    a('성벽 안 구시가', 'Old town inside the walls', 'Caernarfon', '처음이라면|First visit', '성과 항구, 철도역이 걸어서 닿습니다.|The castle, harbour and railway on foot.'),
+  ],
+  'strangford-lough': [
+    a('뉴타우너즈', 'Newtownards', 'Newtownards', '처음이라면|First visit', '버스가 모이는 호수 북쪽 끝 마을입니다.|The town at the head of the lough, with bus links.'),
+  ],
+  'newcastle-mourne': [
+    a('해변가', 'Seafront', 'Newcastle County Down', '처음이라면|First visit', '해변과 산행 출발점이 가깝습니다.|Close to the beach and the mountain paths.'),
+  ],
+  armagh: [
+    a('시내 중심', 'City centre', 'The Mall Armagh', '처음이라면|First visit', '두 대성당과 천문대가 걸어서 닿습니다.|Both cathedrals and the observatory on foot.'),
+  ],
+  enniskillen: [
+    a('시내 중심', 'Town centre', 'Enniskillen', '처음이라면|First visit', '성과 버스 정류장이 걸어서 닿습니다.|The castle and bus station on foot.'),
+  ],
   derry: [
     a('성벽 안 구시가', 'Inside the walls', 'Walled City, Derry', '걸어서 성벽·식당|Walls and dining on foot', '성벽과 길드홀, 식당이 걸어서 닿습니다.|The walls, the Guildhall and restaurants on foot.'),
   ],

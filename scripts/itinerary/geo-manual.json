@@ -16525,5 +16525,750 @@
     49.06946,
     10.31993,
     "OSM Nominatim: Münster St. Georg, 1, Marktplatz, Rain, Dinkelsbühl, Landkre"
+  ],
+  "london-h31": [
+    51.49112,
+    -0.12782,
+    "OSM Nominatim: Tate Britain, Millbank, Tachbrook Estate, Millbank, City of  (Wikipedia 22m)"
+  ],
+  "london-h32": [
+    51.50968,
+    -0.0825,
+    "OSM Nominatim: St Dunstan in the East, St. Dunstan's Hill, Leadenhall Marke (Wikipedia 16m)"
+  ],
+  "london-h30": [
+    51.4974,
+    -0.17467,
+    "OSM Nominatim: Science Museum, Observatory Road, Brompton, Royal Borough of"
+  ],
+  "edinburgh-h15": [
+    55.95088,
+    -3.19561,
+    "OSM Nominatim: National Gallery, The Mound, Abbeyhill, Old Town, City of Ed (Wikipedia 7m)"
+  ],
+  "edinburgh-h16": [
+    55.96529,
+    -3.20886,
+    "OSM Nominatim: Royal Botanic Garden Edinburgh, Stockbridge/Inverleith, City (Wikipedia 78m)"
+  ],
+  "manchester-h10": [
+    53.46604,
+    -2.23373,
+    "OSM Nominatim: Manchester Museum, Oxford Road, Brunswick, Chorlton-on-Medlo (Wikipedia 61m)"
+  ],
+  "bath-h10": [
+    51.38575,
+    -2.35082,
+    "OSM Nominatim: Holburne Museum, Great Pulteney Street, Bathwick, Bath, Bath (Wikipedia 22m)"
+  ],
+  "wells-h1": [
+    51.21039,
+    -2.64354,
+    "OSM Nominatim: Wells Cathedral, Cathedral Green, Wells, Somerset, England,  (Wikipedia 11m)"
+  ],
+  "wells-h2": [
+    51.20929,
+    -2.64238,
+    "OSM Nominatim: The Bishop's Palace, Silver Street, Wells, Somerset, England"
+  ],
+  "wells-h3": [
+    51.21153,
+    -2.6437,
+    "OSM Nominatim: Vicars' Close, Wells, Somerset, England, BA5 2UJ, United Kin"
+  ],
+  "wells-h4": [
+    51.14419,
+    -2.70004,
+    "OSM Nominatim: Glastonbury Tor, Wick, Glastonbury, Somerset, England, Unite (Wikipedia 103m)"
+  ],
+  "wells-h5": [
+    51.14639,
+    -2.71547,
+    "OSM Nominatim: Glastonbury Abbey, Silver Street, Glastonbury Town Centre, G (Wikipedia 34m)"
+  ],
+  "oxford-h11": [
+    51.75451,
+    -1.24595,
+    "OSM Nominatim: Magdalen College, Mesopotamia Walk, New Marston, Oxford, Oxf"
+  ],
+  "norwich-h1": [
+    52.63198,
+    1.30115,
+    "OSM Nominatim: Norwich Cathedral, The Close, Thorpe Hamlet, Norwich, Norfol (Wikipedia 5m)"
+  ],
+  "norwich-h2": [
+    52.6284,
+    1.29604,
+    "OSM Nominatim: Norwich Castle, Castle Hill, Lakenham, Norwich, Norfolk, Eng (Wikipedia 33m)"
+  ],
+  "norwich-h3": [
+    52.63113,
+    1.29663,
+    "OSM Nominatim: Elm Hill, Heigham Grove, Norwich, Norfolk, England, NR3 1HN,"
+  ],
+  "norwich-h4": [
+    52.62848,
+    1.29284,
+    "OSM Nominatim: Norwich Market, Lakenham, Trowse, Norwich, Norfolk, England, (Wikipedia 5m)"
+  ],
+  "norwich-h5": [
+    52.71142,
+    1.40769,
+    "OSM Nominatim: Broads Tours Day Boat Hire, Norwich Road, Wroxham, Norwich, "
+  ],
+  "liverpool-h10": [
+    53.40866,
+    -2.98016,
+    "OSM Nominatim: Saint George's Hall, St George's Place, St George's Quarter "
+  ],
+  "winchester-h1": [
+    51.06073,
+    -1.31325,
+    "OSM Nominatim: Winchester Cathedral, Cathedral Close, The Close, Winchester (Wikipedia 24m)"
+  ],
+  "winchester-h2": [
+    51.06262,
+    -1.31975,
+    "OSM Nominatim: Great Hall, Castle Avenue, Fulflood, Winchester, Hampshire, "
+  ],
+  "winchester-h3": [
+    51.05906,
+    -1.30991,
+    "OSM Nominatim: Wolvesey Castle, College Street, The Close, Winchester, Hamp (Wikipedia 17m)"
+  ],
+  "winchester-h4": [
+    51.04704,
+    -1.32198,
+    "OSM Nominatim: Hospital of Saint Cross, St Cross Hospital, St Cross, Winche (Wikipedia 107m)"
+  ],
+  "york-h9": [
+    53.9579,
+    -1.07882,
+    "OSM Nominatim: Merchant Adventurers' Hall, Fossgate, Fishergate, York, York"
+  ],
+  "lincoln-h6": [
+    53.21245,
+    -0.52617,
+    "OSM Nominatim: International Bomber Command Centre, Canwick Avenue, Canwick (Wikipedia 356m)"
+  ],
+  "peak-district-h1": [
+    53.22759,
+    -1.61139,
+    "OSM Nominatim: Chatsworth House, Broadwalk, Chatsworth CP, Derbyshire Dales (Wikipedia 95m)"
+  ],
+  "peak-district-h2": [
+    53.21484,
+    -1.67586,
+    "OSM Nominatim: Bakewell CP, Derbyshire Dales, Derbyshire, East Midlands, En (Wikipedia 94m)"
+  ],
+  "peak-district-h3": [
+    53.19382,
+    -1.64954,
+    "OSM Nominatim: Haddon Hall, A6, Nether Haddon CP, Stanton-in-Peak, Derbyshi (Wikipedia 20m)"
+  ],
+  "peak-district-h4": [
+    53.24076,
+    -1.72442,
+    "OSM Nominatim: Monsal Head, Little Longstone CP, Cressbrook, Derbyshire Dal"
+  ],
+  "peak-district-h5": [
+    53.3407,
+    -1.78679,
+    "OSM Nominatim: Castleton, High Peak, Derbyshire, East Midlands, England, Un"
+  ],
+  "newcastle-h1": [
+    54.96963,
+    -1.59916,
+    "OSM Nominatim: Gateshead Millennium Bridge, Baltic Square, Mount Pleasant, "
+  ],
+  "newcastle-h2": [
+    54.96885,
+    -1.61039,
+    "OSM Nominatim: Newcastle Castle - Keep, Castle Garth, Grainger Town, Newcas"
+  ],
+  "newcastle-h3": [
+    54.97383,
+    -1.61313,
+    "OSM Nominatim: Grey's Monument, Grey Street, Grainger Town, Newcastle upon "
+  ],
+  "newcastle-h5": [
+    54.91412,
+    -1.58952,
+    "OSM Nominatim: Angel of the North, A1, Low Eighton, Lamesley, Kibblesworth, (Wikipedia 2m)"
+  ],
+  "hadrians-wall-h1": [
+    55.01322,
+    -2.33023,
+    "OSM Nominatim: Vercovicium, Military Road, Bardon Mill, Hexham, Northumberl (Wikipedia 55m)"
+  ],
+  "hadrians-wall-h2": [
+    54.99091,
+    -2.36171,
+    "OSM Nominatim: Vindolanda Fort, Henshaw, Bardon Mill, Northumberland, North (Wikipedia 62m)"
+  ],
+  "hadrians-wall-h3": [
+    55.00305,
+    -2.39083,
+    "OSM Nominatim: Steel Rigg Car Park, Steel Rigg, Once Brewed, Henshaw, North"
+  ],
+  "hadrians-wall-h4": [
+    54.97146,
+    -2.10228,
+    "OSM Nominatim: Hexham Abbey, Beaumont Street, Hexham, Northumberland, North (Wikipedia 75m)"
+  ],
+  "alnwick-h1": [
+    55.41547,
+    -1.70649,
+    "OSM Nominatim: Alnwick Castle, Bailiffgate, Alnwick, Northumberland, North  (Wikipedia 41m)"
+  ],
+  "alnwick-h3": [
+    55.41023,
+    -1.69936,
+    "OSM Nominatim: Barter Books, Wagonway Road, Alnwick, Northumberland, North  (Wikipedia 7m)"
+  ],
+  "alnwick-h4": [
+    55.60944,
+    -1.71127,
+    "OSM Nominatim: Bamburgh Castle, B1340, Bamburgh, Northumberland, North East (Wikipedia 215m)"
+  ],
+  "alnwick-h5": [
+    55.66913,
+    -1.8009,
+    "OSM Nominatim: Lindisfarne Priory, Church Lane, Holy Island, Northumberland"
+  ],
+  "haworth-h1": [
+    53.8312,
+    -1.95745,
+    "OSM Nominatim: Bronte Parsonage Museum, Church Street, Haworth Brow, Hawort (Wikipedia 9m)"
+  ],
+  "haworth-h2": [
+    53.83083,
+    -1.95515,
+    "OSM Nominatim: Main Street, Haworth Brow, Haworth and Stanbury, Haworth, Br"
+  ],
+  "haworth-h3": [
+    53.83132,
+    -1.94884,
+    "OSM Nominatim: Haworth, Station Road, Haworth Brow, Haworth and Stanbury, H"
+  ],
+  "haworth-h5": [
+    54.07268,
+    -2.15791,
+    "OSM Nominatim: Malham Cove, Malham, North Yorkshire, York and North Yorkshi (Wikipedia 211m)"
+  ],
+  "bristol-h8": [
+    51.52294,
+    -2.57885,
+    "OSM Nominatim: Aerospace Bristol, Hayes Way, Brabazon, Charlton Hayes, Harr (Wikipedia 12m)"
+  ],
+  "dover-h5": [
+    51.20002,
+    1.39992,
+    "OSM Nominatim: Walmer Castle, Liverpool Road, Upper Walmer, Walmer, Kingsdo (Wikipedia 199m)"
+  ],
+  "rye-h1": [
+    50.94996,
+    0.73177,
+    "OSM Nominatim: Mermaid Street, The Strand, Rye, Playden, Rother, East Susse"
+  ],
+  "rye-h2": [
+    50.94978,
+    0.7356,
+    "OSM Nominatim: Rye Castle, Gun Garden, Rock Channel Quay, Rye, Playden, Rot (Wikipedia 4m)"
+  ],
+  "rye-h4": [
+    50.94993,
+    0.73271,
+    "OSM Nominatim: Lamb House, West Street, Rock Channel Quay, Rye, Playden, Ro (Wikipedia 4m)"
+  ],
+  "rye-h5": [
+    50.93212,
+    0.77523,
+    "OSM Nominatim: Camber Sands, Camber, Rother, East Sussex, England, United K"
+  ],
+  "jurassic-coast-h1": [
+    50.71914,
+    -2.93824,
+    "OSM Nominatim: The Cobb, Lyme Regis, Dorset, England, DT7 3JJ, United Kingd"
+  ],
+  "jurassic-coast-h2": [
+    50.72481,
+    -2.93247,
+    "OSM Nominatim: Lyme Regis Museum, Bridge Street, Lyme Regis, Dorset, Englan (Wikipedia 0m)"
+  ],
+  "jurassic-coast-h4": [
+    50.62119,
+    -2.27692,
+    "OSM Nominatim: Durdle Door, West Lulworth, Dorset, England, BH20 5PU, Unite"
+  ],
+  "cotswolds-h6": [
+    52.05067,
+    -1.78075,
+    "OSM Nominatim: Chipping Campden Market Hall, High Street, Chipping Campden, (Wikipedia 190m)"
+  ],
+  "stratford-upon-avon-h6": [
+    52.22191,
+    -1.76147,
+    "OSM Nominatim: Mary Arden's Farm, Wilmcote CP, Stratford-on-Avon, Warwicksh"
+  ],
+  "birmingham-h1": [
+    52.47751,
+    -1.90967,
+    "OSM Nominatim: Gas Street Basin, Gas Street, Jewellery Quarter, Park Centra"
+  ],
+  "birmingham-h2": [
+    52.49063,
+    -1.91207,
+    "OSM Nominatim: Museum of the Jewellery Quarter, 70-80, Vyse Street, Jewelle (Wikipedia 229m)"
+  ],
+  "birmingham-h3": [
+    52.47969,
+    -1.90848,
+    "OSM Nominatim: Library of Birmingham, Broad Street, Jewellery Quarter, Birm (Wikipedia 11m)"
+  ],
+  "birmingham-h5": [
+    52.42976,
+    -1.93143,
+    "OSM Nominatim: Cadbury World, The Birdcage Walk, Bournville, Stirchley, Bir (Wikipedia 74m)"
+  ],
+  "warwick-h1": [
+    52.27798,
+    -1.58734,
+    "OSM Nominatim: Warwick Castle, b, Cliff Hill, Warwick, Warwickshire, Englan (Wikipedia 241m)"
+  ],
+  "warwick-h2": [
+    52.28015,
+    -1.59046,
+    "OSM Nominatim: Lord Leycester Hospital, 56, High Street, Cliff Hill, Warwic (Wikipedia 59m)"
+  ],
+  "warwick-h4": [
+    52.34794,
+    -1.5924,
+    "OSM Nominatim: Kenilworth Castle, The Tiltyard, Castle Green, Kenilworth, W (Wikipedia 4m)"
+  ],
+  "lake-district-h6": [
+    54.59433,
+    -3.14494,
+    "OSM Nominatim: Keswick Launch, Great Crosthwaite, Keswick, Cumberland, Engl"
+  ],
+  "st-ives-h5": [
+    50.24019,
+    -5.39457,
+    "OSM Nominatim: Godrevy Point, Gwinear-Gwithian, Kernow / Cornwall, England, (Wikipedia 480m)"
+  ],
+  "glasgow-h9": [
+    55.86499,
+    -4.26085,
+    "OSM Nominatim: Mackintosh at the Willow, 217, Sauchiehall Street, Blythswoo"
+  ],
+  "loch-lomond-h1": [
+    56.10117,
+    -4.63811,
+    "OSM Nominatim: Pier Road, Luss, Argyll and Bute, Alba / Scotland, G83 8NZ,  (Wikipedia 259m)"
+  ],
+  "loch-lomond-h2": [
+    56.00318,
+    -4.58317,
+    "OSM Nominatim: Sweeney's Cruises, Balloch Road, Balloch, West Dunbartonshir"
+  ],
+  "loch-lomond-h3": [
+    56.09869,
+    -4.52071,
+    "OSM Nominatim: Conic Hill, Balmaha, Stirling, Alba / Scotland, United Kingd (Wikipedia 306m)"
+  ],
+  "loch-lomond-h4": [
+    56.19036,
+    -4.63329,
+    "OSM Nominatim: Ben Lomond, Stirling, Alba / Scotland, United Kingdom (Wikipedia 31m)"
+  ],
+  "dundee-h1": [
+    56.45722,
+    -2.96704,
+    "OSM Nominatim: V&A Dundee, 1, Riverside Esplanade, Central Waterfront, Wate (Wikipedia 30m)"
+  ],
+  "dundee-h2": [
+    56.45694,
+    -2.96798,
+    "OSM Nominatim: RRS Discovery, Waterfront Place, Central Waterfront, Waterfr (Wikipedia 81m)"
+  ],
+  "dundee-h3": [
+    56.4701,
+    -2.98939,
+    "OSM Nominatim: Dundee Law, Dundee, Dundee City, Alba / Scotland, DD3 6TN, U (Wikipedia 55m)"
+  ],
+  "dundee-h4": [
+    56.46263,
+    -2.97139,
+    "OSM Nominatim: The McManus, Meadowside, Central Waterfront, City Centre, Du"
+  ],
+  "pitlochry-h1": [
+    56.70016,
+    -3.73931,
+    "OSM Nominatim: Pitlochry Dam Visitor Centre, Armoury Road, Pitlochry, Perth"
+  ],
+  "pitlochry-h2": [
+    56.77338,
+    -3.85682,
+    "OSM Nominatim: Blair Castle, Hercules Walk, Old Blair, Pitlochry, Perth and (Wikipedia 65m)"
+  ],
+  "pitlochry-h3": [
+    56.70217,
+    -3.69938,
+    "OSM Nominatim: Edradour Distillery, Edradour Road, Milton of Edradour, Kinn"
+  ],
+  "pitlochry-h5": [
+    56.743,
+    -3.77211,
+    "OSM Nominatim: Killiecrankie Visitor Centre, Killiecrankie, Perth and Kinro (Wikipedia 984m)"
+  ],
+  "aberdeen-h1": [
+    57.16393,
+    -2.10088,
+    "OSM Nominatim: King's College, College Bounds, Old Aberdeen, Aberdeen City,"
+  ],
+  "aberdeen-h2": [
+    57.1698,
+    -2.10237,
+    "OSM Nominatim: Cathedral Church of St Machar, The Chanonry, Old Aberdeen, A"
+  ],
+  "aberdeen-h3": [
+    57.14373,
+    -2.0718,
+    "OSM Nominatim: Footdee, Castlehill and Pittodrie, Aberdeen City, Alba / Sco (Wikipedia 43m)"
+  ],
+  "aberdeen-h4": [
+    57.14655,
+    -2.09499,
+    "OSM Nominatim: Aberdeen Maritime Museum, 52-56, Shiprow, Merchant Quarter,  (Wikipedia 10m)"
+  ],
+  "aberdeen-h5": [
+    56.946,
+    -2.19706,
+    "OSM Nominatim: Dunnottar Castle, A92, Arduthie, Mains of Dunnottar, Stoneha (Wikipedia 3m)"
+  ],
+  "speyside-h1": [
+    57.48676,
+    -3.20918,
+    "OSM Nominatim: Macallan Distillery, B9102, Craigellachie, Moray, Alba / Sco"
+  ],
+  "speyside-h2": [
+    57.48195,
+    -3.18118,
+    "OSM Nominatim: Speyside Cooperage, Craigellachie, Moray, Alba / Scotland, A (Wikipedia 61m)"
+  ],
+  "speyside-h3": [
+    57.45328,
+    -3.12525,
+    "OSM Nominatim: Balvenie Castle, Castle Road, Dufftown, Moray, Alba / Scotla (Wikipedia 84m)"
+  ],
+  "speyside-h4": [
+    57.34381,
+    -3.33939,
+    "OSM Nominatim: The Glenlivet Distillery, Bogarrow, Drumin, Glenlivet, Moray"
+  ],
+  "cairngorms-h1": [
+    57.12873,
+    -3.65622,
+    "OSM Nominatim: Cairngorm Mountain, Highland, Alba / Scotland, PH22 1RB, Uni"
+  ],
+  "cairngorms-h2": [
+    57.16704,
+    -3.69121,
+    "OSM Nominatim: Cairngorm Reindeer Centre, Glenmore Lodge Road, Glenmore, Av"
+  ],
+  "cairngorms-h3": [
+    57.16333,
+    -3.7142,
+    "OSM Nominatim: Loch Morlich, Glenmore, Highland, Alba / Scotland, United Ki (Wikipedia 933m)"
+  ],
+  "cairngorms-h4": [
+    57.19623,
+    -3.82362,
+    "OSM Nominatim: Strathspey Railway, Dalfaber Drive, Aviemore, Highland, Alba"
+  ],
+  "cairngorms-h5": [
+    57.1099,
+    -3.97586,
+    "OSM Nominatim: Highland Wildlife Park, Kincraig, Kingussie, Highland, Alba  (Wikipedia 151m)"
+  ],
+  "mull-h1": [
+    56.62245,
+    -6.06883,
+    "OSM Nominatim: Isle of Mull Ice Cream, Main Street, Strongarbh, Erray, Tobe"
+  ],
+  "mull-h2": [
+    56.4561,
+    -5.65478,
+    "OSM Nominatim: Duart Castle, A849, Duart, Lochdon, Argyll and Bute, Alba /  (Wikipedia 10m)"
+  ],
+  "mull-h3": [
+    56.4315,
+    -6.34136,
+    "OSM Nominatim: Fingal's Cave, Argyll and Bute, Alba / Scotland, United King"
+  ],
+  "arran-h1": [
+    55.59393,
+    -5.15075,
+    "OSM Nominatim: Brodick Castle, North Ayrshire, Alba / Scotland, KA27 8HY, U"
+  ],
+  "arran-h4": [
+    55.7053,
+    -5.29105,
+    "OSM Nominatim: Lochranza Castle, Lochranza Castle Road, Coillemore, Butt, L"
+  ],
+  "islay-h1": [
+    55.7568,
+    -6.28997,
+    "OSM Nominatim: Bowmore Distillery, School Street, Bowmore, Argyll and Bute,"
+  ],
+  "islay-h2": [
+    55.63558,
+    -6.12607,
+    "OSM Nominatim: Lagavulin Distillery, Lagavulin Drive, Ardbeg, Lagavulin, Ar"
+  ],
+  "orkney-h1": [
+    59.04872,
+    -3.3418,
+    "OSM Nominatim: Skara Brae, B9056, Orkney Islands, Alba / Scotland, KW16 3LR (Wikipedia 3m)"
+  ],
+  "orkney-h2": [
+    59.00165,
+    -3.2299,
+    "OSM Nominatim: Ring of Brodgar, Clouston, Orkney Islands, Alba / Scotland,  (Wikipedia 21m)"
+  ],
+  "orkney-h3": [
+    58.99652,
+    -3.18817,
+    "OSM Nominatim: Maes Howe, Stoneyhill Road, Bimbister, Orkney Islands, Alba  (Wikipedia 9m)"
+  ],
+  "orkney-h4": [
+    58.98142,
+    -2.95961,
+    "OSM Nominatim: Saint Magnus Cathedral, Palace Road, Kirkwall, Orkney Island (Wikipedia 98m)"
+  ],
+  "orkney-h5": [
+    58.88992,
+    -2.88943,
+    "OSM Nominatim: The Italian Chapel, A961, Lamb Holm, St Mary's, Orkney Islan (Wikipedia 46m)"
+  ],
+  "cardiff-h6": [
+    51.48597,
+    -3.17761,
+    "OSM Nominatim: National Museum Cardiff, Museum Avenue, Crockherbtown, Civic (Wikipedia 28m)"
+  ],
+  "cardiff-h7": [
+    51.49575,
+    -3.21785,
+    "OSM Nominatim: Llandaff Cathedral, The Cathedral Green, Danescourt, Llandaf (Wikipedia 6m)"
+  ],
+  "swansea-h1": [
+    51.56945,
+    -3.97521,
+    "OSM Nominatim: Mumbles Pier, Mumbles Road, Thistleboon, Mumbles, Swansea, C (Wikipedia 696m)"
+  ],
+  "swansea-h2": [
+    51.58511,
+    -4.31093,
+    "OSM Nominatim: Rhossili Bay, Rhossili, Cymru / Wales, United Kingdom"
+  ],
+  "swansea-h3": [
+    51.57159,
+    -4.11276,
+    "OSM Nominatim: Three Cliffs Bay, Penmaen, Ilston, Swansea, Cymru / Wales, S (Wikipedia 375m)"
+  ],
+  "swansea-h4": [
+    51.61922,
+    -3.93584,
+    "OSM Nominatim: Dylan Thomas Centre, Somerset Place, SA1 Swansea Waterfront,"
+  ],
+  "swansea-h5": [
+    51.61659,
+    -3.93914,
+    "OSM Nominatim: National Waterfront Museum, Oystermouth Road, Waterfront, Sw (Wikipedia 36m)"
+  ],
+  "brecon-beacons-h1": [
+    51.88405,
+    -3.437,
+    "OSM Nominatim: Pen y Fan, Powys, Cymru / Wales, United Kingdom (Wikipedia 86m)"
+  ],
+  "brecon-beacons-h2": [
+    51.77829,
+    -3.55406,
+    "OSM Nominatim: Sgŵd yr Eira, Penderyn, Rhondda Cynon Taf, Cymru / Wales, Un"
+  ],
+  "brecon-beacons-h3": [
+    51.95095,
+    -3.39223,
+    "OSM Nominatim: Brecon Cathedral, Priory Hill, Pendre, Brecon, Powys, Cymru  (Wikipedia 27m)"
+  ],
+  "brecon-beacons-h4": [
+    51.77205,
+    -3.10555,
+    "OSM Nominatim: Big Pit: National Coal Museum, Big Pit National Coal Museum, (Wikipedia 54m)"
+  ],
+  "hay-on-wye-h1": [
+    52.07478,
+    -3.12545,
+    "OSM Nominatim: Richard Booth's Bookshop, 44, Lion Street, Hay, Hay on Wye, "
+  ],
+  "hay-on-wye-h2": [
+    52.07389,
+    -3.12616,
+    "OSM Nominatim: Hay Castle, Oxford Road, Hay, Hay on Wye, Powys, Cymru / Wal"
+  ],
+  "hay-on-wye-h4": [
+    52.02291,
+    -3.10274,
+    "OSM Nominatim: Hay Bluff, Powys, Cymru / Wales, United Kingdom (Wikipedia 3m)"
+  ],
+  "caernarfon-h1": [
+    53.13935,
+    -4.27684,
+    "OSM Nominatim: Castell Caernarfon, Allt y Castell, Caernarfon, Gwynedd, Cym (Wikipedia 6m)"
+  ],
+  "caernarfon-h2": [
+    53.14068,
+    -4.27822,
+    "OSM Nominatim: Muriau Tref Caernarfon, Pen Deitsh, Caernarfon, Gwynedd, Cym (Wikipedia 845m)"
+  ],
+  "caernarfon-h3": [
+    53.13817,
+    -4.27335,
+    "OSM Nominatim: Welsh Highland Railway, Caernarfon, Gwynedd, Cymru / Wales, "
+  ],
+  "caernarfon-h4": [
+    53.26483,
+    -4.08976,
+    "OSM Nominatim: Castell Biwmares / Beaumaris Castle, Castle Street, Beaumari (Wikipedia 6m)"
+  ],
+  "caernarfon-h5": [
+    53.30675,
+    -4.69956,
+    "OSM Nominatim: Goleudy Ynys Lawd, South Stack Road, Penrhosfeilw, Holyhead, (Wikipedia 11m)"
+  ],
+  "st-davids-h1": [
+    51.88203,
+    -5.26843,
+    "OSM Nominatim: Eglwys Gadeiriol Tyddewi / Saint Davids Cathedral, The Pebbl (Wikipedia 12m)"
+  ],
+  "st-davids-h2": [
+    51.8823,
+    -5.27059,
+    "OSM Nominatim: Bishop's Palace, The Pebbles, St. David's and the Cathedral "
+  ],
+  "st-davids-h3": [
+    51.89384,
+    -5.30292,
+    "OSM Nominatim: Porth Mawr, St Davids, Cymru / Wales, SA62 6PS, United Kingd (Wikipedia 491m)"
+  ],
+  "aberystwyth-h1": [
+    52.37599,
+    -3.85597,
+    "OSM Nominatim: Vale of Rheidol Railway, A4120, Pontarfynach, Ceredigion, Cy"
+  ],
+  "aberystwyth-h2": [
+    52.37811,
+    -3.84995,
+    "OSM Nominatim: Devil's Bridge Falls, Pontarfynach, Ceredigion, Cymru / Wale"
+  ],
+  "aberystwyth-h3": [
+    52.42336,
+    -4.08334,
+    "OSM Nominatim: Aberystwyth Cliff Railway, Cliff pathway, Aberystwyth, Cered"
+  ],
+  "aberystwyth-h4": [
+    52.41446,
+    -4.06851,
+    "OSM Nominatim: National Library of Wales, Golygfa'r Eglwys, Llanbadarn Fawr (Wikipedia 26m)"
+  ],
+  "aberystwyth-h5": [
+    52.41333,
+    -4.08952,
+    "OSM Nominatim: Aberystwyth Castle, King Street, Aberystwyth, Ceredigion, Cy"
+  ],
+  "belfast-h7": [
+    54.60251,
+    -5.92774,
+    "OSM Nominatim: Cathedral Quarter, Belfast City District, County Antrim, Nor"
+  ],
+  "belfast-h8": [
+    54.58062,
+    -5.93032,
+    "OSM Nominatim: Botanic Gardens, Belfast City District, County Antrim, North"
+  ],
+  "strangford-lough-h1": [
+    54.55157,
+    -5.60198,
+    "OSM Nominatim: Mount Stewart, Portaferry Road, Newtownards, Ards and North  (Wikipedia 544m)"
+  ],
+  "strangford-lough-h2": [
+    54.58028,
+    -5.71546,
+    "OSM Nominatim: Scrabo Tower, Scrabo Road, Scrabo, Newtownards, Ards and Nor (Wikipedia 21m)"
+  ],
+  "strangford-lough-h3": [
+    54.37297,
+    -5.57877,
+    "OSM Nominatim: Castle Ward, Ballyculter Avenue, Strangford, Newry, Mourne a (Wikipedia 15m)"
+  ],
+  "strangford-lough-h4": [
+    54.49894,
+    -5.64693,
+    "OSM Nominatim: Nendrum Monastic Site Car Park, Ringneill Road, Ards and Nor"
+  ],
+  "newcastle-mourne-h1": [
+    54.20908,
+    -5.89038,
+    "OSM Nominatim: Newcastle Centre, 12, Central Promenade, Newcastle, Newry, M"
+  ],
+  "newcastle-mourne-h2": [
+    54.18022,
+    -5.92096,
+    "OSM Nominatim: Slieve Donard, Newcastle, County Down, Northern Ireland / Tu (Wikipedia 4m)"
+  ],
+  "newcastle-mourne-h3": [
+    54.21888,
+    -5.94899,
+    "OSM Nominatim: Tollymore Forest Park, Castlewellan, County Down, Northern I"
+  ],
+  "newcastle-mourne-h4": [
+    54.26795,
+    -5.96314,
+    "OSM Nominatim: Castlewellan Forest Park, Castlewellan, Newry, Mourne and Do (Wikipedia 568m)"
+  ],
+  "armagh-h1": [
+    54.3478,
+    -6.65622,
+    "OSM Nominatim: Saint Patrick's Cathedral (Church of Ireland), Vicars Hill, "
+  ],
+  "armagh-h3": [
+    54.35202,
+    -6.64873,
+    "OSM Nominatim: Armagh Planetarium, College Hill, Armagh, Armagh City, Banbr"
+  ],
+  "armagh-h4": [
+    54.34637,
+    -6.69821,
+    "OSM Nominatim: Navan Fort, Navan Fort Road, Armagh, Armagh City, Banbridge  (Wikipedia 198m)"
+  ],
+  "enniskillen-h1": [
+    54.34615,
+    -7.64505,
+    "OSM Nominatim: Enniskillen Castle, Wellington Road, Enniskillen, Fermanagh "
+  ],
+  "enniskillen-h2": [
+    54.25852,
+    -7.81319,
+    "OSM Nominatim: Marble Arch Caves, Cladagh Glen Walk, Legnabrocky, Fermanagh (Wikipedia 74m)"
+  ],
+  "enniskillen-h3": [
+    54.36982,
+    -7.65816,
+    "OSM Nominatim: Devenish Island Monastic Site, Devenish, Enniskillen, Ferman"
+  ],
+  "enniskillen-h4": [
+    54.33543,
+    -7.60134,
+    "OSM Nominatim: Castle Coole, Thomastown Road, Thomastown, Tamlaght, Fermana"
   ]
 }

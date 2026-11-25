@@ -677,6 +677,136 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Oban', '오번역']],
     port: [['Oban Ferry Terminal', '오번 페리 터미널', '멀섬 크레이그뉴어행 45분|45 min to Craignure, Mull']],
   },
+  newcastle: {
+    air: [['Newcastle (NCL)', '뉴캐슬 공항 (NCL)']],
+    rail: [['Newcastle', '뉴캐슬역']],
+  },
+  'hadrians-wall': {
+    air: [['Newcastle (NCL)', '뉴캐슬 공항 (NCL)']],
+    rail: [['Hexham', '헥섬역'], ['Haltwhistle', '홀트휘슬역', '성벽 중심부와 가까움|close to the central wall']],
+    bus: [['AD122 Hadrian’s Wall Country Bus', 'AD122 방벽 버스', '여름철 운행|summer service']],
+  },
+  alnwick: {
+    air: [['Newcastle (NCL)', '뉴캐슬 공항 (NCL)']],
+    rail: [['Alnmouth', '알른머스역', '안윅까지 버스 약 10분|about 10 min by bus to Alnwick']],
+  },
+  haworth: {
+    air: [['Leeds Bradford (LBA)', '리즈 브래드퍼드 공항 (LBA)']],
+    rail: [['Keighley', '키슬리역', '하워스까지 버스나 증기 철도|bus or steam railway to Haworth']],
+  },
+  'peak-district': {
+    air: [['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester']],
+    rail: [['Matlock', '매틀록역', '베이크웰까지 버스|bus to Bakewell'], ['Sheffield', '셰필드역', '버스 환승|change to buses']],
+  },
+  birmingham: {
+    air: [['Birmingham (BHX)', '버밍엄 공항 (BHX)']],
+    rail: [['Birmingham New Street', '버밍엄 뉴 스트리트역'], ['Birmingham Moor Street', '버밍엄 무어 스트리트역']],
+  },
+  warwick: {
+    air: [['Birmingham (BHX)', '버밍엄 공항 (BHX)']],
+    rail: [['Warwick', '워릭역'], ['Kenilworth', '케닐워스역']],
+  },
+  norwich: {
+    air: [['Norwich (NWI)', '노리치 공항 (NWI)', '운항편 적음|few flights']],
+    rail: [['Norwich', '노리치역']],
+  },
+  winchester: {
+    air: [['Southampton (SOU)', '사우샘프턴 공항 (SOU)', '사우샘프턴|Southampton'], LHR()],
+    rail: [['Winchester', '윈체스터역']],
+  },
+  rye: {
+    air: [['London Gatwick (LGW)', '런던 개트윅 공항 (LGW)', '런던|London']],
+    rail: [['Rye', '라이역']],
+  },
+  wells: {
+    air: [['Bristol (BRS)', '브리스틀 공항 (BRS)', '브리스틀|Bristol']],
+    bus: [['Wells Bus Station', '웰스 버스 정류장', '브리스틀·배스행|to Bristol, Bath']],
+  },
+  'jurassic-coast': {
+    air: [['Exeter (EXT)', '엑서터 공항 (EXT)', '엑서터|Exeter']],
+    rail: [['Axminster', '액스민스터역', '라임 레지스까지 버스|bus to Lyme Regis']],
+  },
+  'loch-lomond': {
+    air: [['Glasgow (GLA)', '글래스고 공항 (GLA)', '글래스고|Glasgow']],
+    rail: [['Balloch', '밸로크역'], ['Tarbet', '아로차 앤드 타벳역']],
+  },
+  dundee: {
+    air: [['Dundee (DND)', '던디 공항 (DND)', '운항편 적음|few flights'], ['Edinburgh (EDI)', '에든버러 공항 (EDI)', '에든버러|Edinburgh']],
+    rail: [['Dundee', '던디역', 'V&A 바로 앞|next to the V&A']],
+  },
+  pitlochry: {
+    air: [['Edinburgh (EDI)', '에든버러 공항 (EDI)', '에든버러|Edinburgh']],
+    rail: [['Pitlochry', '피틀로크리역']],
+  },
+  aberdeen: {
+    air: [['Aberdeen (ABZ)', '애버딘 공항 (ABZ)']],
+    rail: [['Aberdeen', '애버딘역']],
+    port: [['Aberdeen Harbour', '애버딘 항구', '오크니·셰틀랜드행 노스링크 페리|NorthLink ferries to Orkney and Shetland']],
+  },
+  speyside: {
+    air: [['Inverness (INV)', '인버네스 공항 (INV)', '인버네스|Inverness'], ['Aberdeen (ABZ)', '애버딘 공항 (ABZ)']],
+    rail: [['Keith', '키스역', '더프타운까지 버스|bus to Dufftown']],
+  },
+  cairngorms: {
+    air: [['Inverness (INV)', '인버네스 공항 (INV)', '인버네스|Inverness']],
+    rail: [['Aviemore', '에비모어역']],
+  },
+  mull: {
+    air: [['Glasgow (GLA)', '글래스고 공항 (GLA)', '글래스고|Glasgow']],
+    port: [['Craignure', '크레이그뉴어 선착장', '오번에서 45분|45 min from Oban'], ['Tobermory', '토버모리 선착장', '킬코언행|to Kilchoan']],
+  },
+  arran: {
+    air: [['Glasgow (GLA)', '글래스고 공항 (GLA)', '글래스고|Glasgow']],
+    port: [['Brodick', '브로딕 선착장', '아드로산행 페리|ferries to Ardrossan']],
+  },
+  islay: {
+    air: [['Islay (ILY)', '아일레이 공항 (ILY)', '글래스고 항공편|flights from Glasgow']],
+    port: [['Port Ellen', '포트엘런 선착장'], ['Port Askaig', '포트애스케이그 선착장']],
+  },
+  orkney: {
+    air: [['Kirkwall (KOI)', '커크월 공항 (KOI)']],
+    port: [['Kirkwall', '커크월 항구', '애버딘행 노스링크|NorthLink to Aberdeen'], ['Stromness', '스트롬니스 항구', '스크랩스터행|to Scrabster']],
+  },
+  swansea: {
+    air: [['Cardiff (CWL)', '카디프 공항 (CWL)', '카디프|Cardiff']],
+    rail: [['Swansea', '스완지역']],
+  },
+  'brecon-beacons': {
+    air: [['Cardiff (CWL)', '카디프 공항 (CWL)', '카디프|Cardiff']],
+    rail: [['Merthyr Tydfil', '머서티드빌역', '브레콘까지 버스|bus to Brecon'], ['Abergavenny', '애버가베니역', '버스 환승|change to buses']],
+  },
+  'hay-on-wye': {
+    air: [['Cardiff (CWL)', '카디프 공항 (CWL)', '카디프|Cardiff']],
+    rail: [['Hereford', '헤리퍼드역', '버스 약 1시간 10분|about 1 h 10 by bus']],
+  },
+  'st-davids': {
+    air: [['Cardiff (CWL)', '카디프 공항 (CWL)', '카디프|Cardiff']],
+    rail: [['Haverfordwest', '해버퍼드웨스트역', '버스 약 40분|about 40 min by bus']],
+  },
+  aberystwyth: {
+    air: [['Birmingham (BHX)', '버밍엄 공항 (BHX)', '버밍엄|Birmingham']],
+    rail: [['Aberystwyth', '애버리스트위스역']],
+  },
+  caernarfon: {
+    air: [['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester']],
+    rail: [['Bangor', '뱅거역', '카나번까지 버스|bus to Caernarfon']],
+  },
+  'strangford-lough': {
+    air: [['Belfast International (BFS)', '벨파스트 국제공항 (BFS)', '벨파스트|Belfast'], ['George Best Belfast City (BHD)', '조지 베스트 벨파스트 시티 공항 (BHD)', '벨파스트|Belfast']],
+    bus: [['Newtownards Bus Station', '뉴타우너즈 버스 정류장', '벨파스트행|to Belfast']],
+  },
+  'newcastle-mourne': {
+    air: [['Belfast International (BFS)', '벨파스트 국제공항 (BFS)', '벨파스트|Belfast'], ['George Best Belfast City (BHD)', '조지 베스트 벨파스트 시티 공항 (BHD)', '벨파스트|Belfast']],
+    bus: [['Newcastle Bus Station', '뉴캐슬 버스 정류장', '벨파스트행|to Belfast']],
+  },
+  armagh: {
+    air: [['Belfast International (BFS)', '벨파스트 국제공항 (BFS)', '벨파스트|Belfast'], ['George Best Belfast City (BHD)', '조지 베스트 벨파스트 시티 공항 (BHD)', '벨파스트|Belfast']],
+    bus: [['Armagh Bus Station', '아마 버스 정류장', '벨파스트행|to Belfast']],
+  },
+  enniskillen: {
+    air: [['City of Derry (LDY)', '데리 공항 (LDY)', '데리|Derry'], ['Belfast International (BFS)', '벨파스트 국제공항 (BFS)', '벨파스트|Belfast'], ['George Best Belfast City (BHD)', '조지 베스트 벨파스트 시티 공항 (BHD)', '벨파스트|Belfast']],
+    bus: [['Enniskillen Bus Station', '에니스킬렌 버스 정류장', '벨파스트행|to Belfast']],
+  },
   // —— ie ——
   dublin: {
     air: [['Dublin (DUB)', '더블린 공항 (DUB)']],

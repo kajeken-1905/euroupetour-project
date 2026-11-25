@@ -5685,6 +5685,326 @@ export const cityTransitById: Record<string, CityTransit> = {
       ta('trainline'),
     ],
   },
+  newcastle: {
+    modes: ['walk', 'metro', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 타인 앤드 웨어 메트로가 공항과 해안을 잇습니다.',
+      en: 'Walk the centre; the Tyne and Wear Metro runs to the airport and the coast.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'hadrians-wall': {
+    modes: ['bus', 'train', 'walk', 'taxi'],
+    howTo: {
+      ko: '여름엔 AD122 버스가 요새들을 잇고, 다른 때는 차나 택시가 편합니다.',
+      en: 'In summer the AD122 bus links the forts; at other times a car or taxi is easiest.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  alnwick: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해안은 버스나 차로 갑니다.',
+      en: 'Walk the town; reach the coast by bus or car.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  haworth: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 키슬리까지 버스나 증기 철도를 탑니다.',
+      en: 'Walk the village; take the bus or steam railway to Keighley.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'peak-district': {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '마을 사이엔 버스가 다니지만 편수가 적어 차가 편합니다.',
+      en: 'Buses link the villages but are infrequent; a car is easiest.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  birmingham: {
+    modes: ['walk', 'tram', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 웨스트미들랜즈 메트로(트램)가 주얼리 쿼터로 갑니다.',
+      en: 'Walk the centre; the West Midlands Metro tram runs to the Jewellery Quarter.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  warwick: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 케닐워스는 버스나 기차로 갑니다.',
+      en: 'Walk the town; take a bus or train to Kenilworth.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  norwich: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 브로즈는 기차나 버스로 로샘까지 갑니다.',
+      en: 'Walk the centre; take a train or bus to Wroxham for the Broads.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  winchester: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다.',
+      en: 'Walk the city.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  rye: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 캠버 샌즈는 버스로 갑니다.',
+      en: 'Walk the town; take a bus to Camber Sands.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  wells: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 글래스턴베리는 버스로 갑니다.',
+      en: 'Walk the city; take a bus to Glastonbury.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'jurassic-coast': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해안 마을 사이는 버스나 차로 이동합니다.',
+      en: 'Walk the town; use buses or a car between coastal villages.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'loch-lomond': {
+    modes: ['train', 'bus', 'ferry', 'walk'],
+    howTo: {
+      ko: '밸로크까지 기차, 호숫가 마을은 버스나 유람선으로 잇습니다.',
+      en: 'Train to Balloch; buses and boats link the lakeside villages.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  dundee: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '강변과 시내는 걸어서 다닙니다.',
+      en: 'Walk the waterfront and centre.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  pitlochry: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 블레어 성은 기차나 버스로 갑니다.',
+      en: 'Walk the town; take a train or bus to Blair Castle.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  aberdeen: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 올드 애버딘과 스톤헤이븐은 버스로 갑니다.',
+      en: 'Walk the centre; buses run to Old Aberdeen and Stonehaven.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  speyside: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '증류소 사이는 버스가 드물어 택시나 투어가 편합니다. 시음한 날엔 운전하지 마세요.',
+      en: 'Buses between distilleries are sparse; taxis or tours are easiest. Never drive after tastings.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  cairngorms: {
+    modes: ['bus', 'walk', 'train', 'bike'],
+    howTo: {
+      ko: '에비모어에서 산과 호수까지 버스가 다니고, 자전거를 빌려도 좋습니다.',
+      en: 'Buses run from Aviemore to the mountain and loch; bike hire is popular.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  mull: {
+    modes: ['ferry', 'bus', 'walk'],
+    howTo: {
+      ko: '오번에서 페리로 건너고, 섬 안은 버스가 드물어 차나 투어가 편합니다.',
+      en: 'Ferry from Oban; buses are sparse on the island, so a car or tour helps.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  arran: {
+    modes: ['ferry', 'bus', 'walk'],
+    howTo: {
+      ko: '섬을 도는 버스가 선착장 시간에 맞춰 다닙니다.',
+      en: 'Island buses run round the coast, timed with the ferries.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  islay: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '섬 버스는 드물어 택시나 투어가 편합니다.',
+      en: 'Island buses are sparse; taxis or tours are easiest.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  orkney: {
+    modes: ['bus', 'taxi', 'walk', 'ferry'],
+    howTo: {
+      ko: '본섬 유적 사이는 버스가 드물어 투어나 차가 편합니다.',
+      en: 'Buses between the sites are sparse; tours or a car help.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  swansea: {
+    modes: ['bus', 'walk', 'train'],
+    howTo: {
+      ko: '시내와 멈블스, 고워는 버스로 잇습니다.',
+      en: 'Buses link the city, Mumbles and Gower.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'brecon-beacons': {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '국립공원 안은 버스가 드물어 차가 편합니다.',
+      en: 'Buses in the park are sparse; a car is easiest.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'hay-on-wye': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 헤리퍼드역과 브레콘까지 버스가 다닙니다.',
+      en: 'Walk the town; buses run to Hereford station and Brecon.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'st-davids': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '도시는 걸어서 다니고, 해안은 해안 버스를 탑니다.',
+      en: 'Walk the city; coastal buses serve the beaches.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  aberystwyth: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다.',
+      en: 'Walk the town.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  caernarfon: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 앵글시는 버스로 갑니다.',
+      en: 'Walk the old town; take buses to Anglesey.',
+    },
+    apps: [
+      ta('trainline'),
+    ],
+  },
+  'strangford-lough': {
+    modes: ['bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '호숫가 명소 사이는 버스가 드물어 차가 편하고, 스트랭포드–포타페리 사이엔 차량 페리가 다닙니다.',
+      en: 'Buses between sights are sparse, so a car helps; a car ferry crosses between Strangford and Portaferry.',
+    },
+    apps: [
+      ta('translink', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+    ],
+  },
+  'newcastle-mourne': {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 숲 공원은 버스나 택시로 갑니다.',
+      en: 'Walk the town; reach the forest parks by bus or taxi.',
+    },
+    apps: [
+      ta('translink', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+    ],
+  },
+  armagh: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 나반 요새는 택시가 편합니다.',
+      en: 'Walk the city; a taxi is easiest for Navan Fort.',
+    },
+    apps: [
+      ta('translink', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+    ],
+  },
+  enniskillen: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 동굴은 차나 택시가 편합니다.',
+      en: 'Walk the town; a car or taxi is easiest for the caves.',
+    },
+    apps: [
+      ta('translink', { ko: '표·노선·실시간', en: 'Tickets, routes, live times' }),
+    ],
+  },
   derry: {
     modes: ['train', 'bus', 'walk'],
     howTo: {

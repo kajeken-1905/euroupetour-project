@@ -327,4 +327,265 @@ export const placesUKExtra: Place[] = [
   place('llangollen-cafe-3', 'llangollen', 'cafe', 'Courtyard Coffee Shop', 'Castle St, Llangollen', '캐슬 스트리트의 커피숍. 구글 지도 평점 4.8.', 'Coffee shop on Castle Street. Rated 4.8 on Google Maps.'),
   place('llangollen-cafe-4', 'llangollen', 'cafe', 'George\'s Cafe', '4 Market St, Llangollen', '마켓 스트리트의 카페. 구글 지도 평점 4.7.', 'Café on Market Street. Rated 4.7 on Google Maps.'),
   place('llangollen-cafe-5', 'llangollen', 'cafe', 'Cottage Tearooms & Bistro', '5 Castle St, Llangollen LL20 8PE', '찻집 겸 비스트로. 구글 지도 평점 4.5.', 'Tearoom and bistro. Rated 4.5 on Google Maps.'),
+
+  // —— newcastle: restaurants, bakeries and cafés (2026-11-25) ——
+  place('newcastle-fine_dining-1', 'newcastle', 'fine_dining', 'House of Tides', '28-30 Close, Newcastle upon Tyne NE1 3RF, United Kingdom', '현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('newcastle-fine_dining-2', 'newcastle', 'fine_dining', 'Solstice by Kenny Atkinson', '5-7 Side, Newcastle upon Tyne NE1 3JE, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 1스타.', 'Modern British restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('newcastle-fine_dining-3', 'newcastle', 'fine_dining', 'The Broad Chare', '25 Broad Chare, Newcastle upon Tyne NE1 3DQ, United Kingdom', '펍 레스토랑. 미쉐린 빕 구르망.', 'Pub restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('newcastle-fine_dining-4', 'newcastle', 'fine_dining', 'Rebel', '150 Heaton Park Road, Newcastle upon Tyne NE6 5NR, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 130개).', 'Modern British restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (130 reviews).'),
+  place('newcastle-fine_dining-5', 'newcastle', 'fine_dining', 'The French Quarter', 'Arch 6 Westgate Road, Newcastle upon Tyne, United Kingdom', '프랑스 요리 레스토랑. 구글 지도 평점 4.7(리뷰 1141개).', 'French restaurant. Rated 4.7 on Google Maps (1141 reviews).'),
+  place('newcastle-bakery-1', 'newcastle', 'bakery', 'Northern Rye', '4 Riverside Walk, Newcastle upon Tyne, United Kingdom', '빵집. 구글 지도 평점 4.9(리뷰 515개).', 'Bakery. Rated 4.9 on Google Maps (515 reviews).'),
+  place('newcastle-bakery-2', 'newcastle', 'bakery', 'Pink Lane Bakery', '40 Pink Lane, Newcastle upon Tyne, United Kingdom', '빵집. 구글 지도 평점 4.8(리뷰 524개).', 'Bakery. Rated 4.8 on Google Maps (524 reviews).'),
+  place('newcastle-bakery-3', 'newcastle', 'bakery', 'Big River Bakery', '42 Wretham Place, Newcastle upon Tyne, United Kingdom', '빵집. 구글 지도 평점 4.8(리뷰 350개).', 'Bakery. Rated 4.8 on Google Maps (350 reviews).'),
+  place('newcastle-bakery-4', 'newcastle', 'bakery', 'Breadpoint', '13 Low Friar Street, Newcastle upon Tyne, United Kingdom', '빵집. 구글 지도 평점 4.7(리뷰 358개).', 'Bakery. Rated 4.7 on Google Maps (358 reviews).'),
+  place('newcastle-cafe-1', 'newcastle', 'cafe', 'Lagom Coffee Bar', '8 Monk Street, Newcastle upon Tyne, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 559개).', 'Café. Rated 4.9 on Google Maps (559 reviews).'),
+  place('newcastle-cafe-2', 'newcastle', 'cafe', 'Sorcerer Coffee', 'Arch 4 Forth Street, Newcastle upon Tyne, United Kingdom', '스페셜티 커피 바. 구글 지도 평점 4.9(리뷰 258개).', 'Specialty coffee bar. Rated 4.9 on Google Maps (258 reviews).'),
+  place('newcastle-cafe-3', 'newcastle', 'cafe', 'Café 11', '11 Leazes Crescent, Newcastle upon Tyne, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 479개).', 'Café. Rated 4.7 on Google Maps (479 reviews).'),
+  place('newcastle-cafe-4', 'newcastle', 'cafe', 'Laneway & Co', '17-19 High Bridge, Newcastle upon Tyne, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 524개).', 'Café. Rated 4.6 on Google Maps (524 reviews).'),
+
+  // —— hadrians-wall: restaurants, bakeries and cafés (2026-11-25) ——
+  place('hadrians-wall-fine_dining-1', 'hadrians-wall', 'fine_dining', 'Pine', 'Vallum Farm, Military Road, East Wallhouses NE18 0LL, United Kingdom', '이스트 월하우시스에 있는 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant in East Wallhouses. One MICHELIN star.', { michelin: 'star1' }),
+  place('hadrians-wall-fine_dining-2', 'hadrians-wall', 'fine_dining', 'Danielle\'s Bistro', '12 Eastgate, Hexham, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 303개).', 'Restaurant. Rated 4.8 on Google Maps (303 reviews).'),
+  place('hadrians-wall-fine_dining-3', 'hadrians-wall', 'fine_dining', 'Bouchon Bistrot', '4-6 Gilesgate, Hexham, United Kingdom', '프랑스 요리 레스토랑. 구글 지도 평점 4.7(리뷰 621개).', 'French restaurant. Rated 4.7 on Google Maps (621 reviews).'),
+  place('hadrians-wall-fine_dining-4', 'hadrians-wall', 'fine_dining', 'Cilantro', '19 Market Place, Hexham, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 365개).', 'Restaurant. Rated 4.7 on Google Maps (365 reviews).'),
+  place('hadrians-wall-cafe-1', 'hadrians-wall', 'cafe', 'Marketplace Coffee', '14 Market Place, Hexham, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 109개).', 'Café. Rated 4.8 on Google Maps (109 reviews).'),
+  place('hadrians-wall-cafe-2', 'hadrians-wall', 'cafe', 'Hextol Tans', '11 St Mary\'s Chare, Hexham, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 153개).', 'Café. Rated 4.8 on Google Maps (153 reviews).'),
+  place('hadrians-wall-cafe-3', 'hadrians-wall', 'cafe', 'The Garden Coffee House', '20 Hallgate, Hexham, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 241개).', 'Café. Rated 4.7 on Google Maps (241 reviews).'),
+
+  // —— alnwick: restaurants, bakeries and cafés (2026-11-25) ——
+  place('alnwick-fine_dining-1', 'alnwick', 'fine_dining', 'Sonnet', '41 Bondgate Without, Alnwick NE66 1PR, United Kingdom', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 5.0(리뷰 130개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 5.0 on Google Maps (130 reviews).'),
+  place('alnwick-fine_dining-2', 'alnwick', 'fine_dining', 'Ristorante Tirreno', '45 Bondgate Without, Alnwick, United Kingdom', '이탈리아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 670개).', 'Italian restaurant. Rated 4.7 on Google Maps (670 reviews).'),
+  place('alnwick-fine_dining-3', 'alnwick', 'fine_dining', 'Mumbai of Alnwick', '15 Narrowgate, Alnwick, United Kingdom', '인도 요리 레스토랑. 구글 지도 평점 4.7(리뷰 654개).', 'Indian restaurant. Rated 4.7 on Google Maps (654 reviews).'),
+  place('alnwick-fine_dining-4', 'alnwick', 'fine_dining', 'Adam and Eve', '3 Clayport Street, Alnwick, United Kingdom', '레스토랑. 구글 지도 평점 4.6(리뷰 565개).', 'Restaurant. Rated 4.6 on Google Maps (565 reviews).'),
+  place('alnwick-cafe-1', 'alnwick', 'cafe', 'The Northern Angels', '7-9 Market Street, Alnwick, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 179개).', 'Café. Rated 4.9 on Google Maps (179 reviews).'),
+  place('alnwick-cafe-2', 'alnwick', 'cafe', 'Grannies', '18 Narrowgate, Alnwick, United Kingdom', '찻집. 구글 지도 평점 4.7(리뷰 258개).', 'Tea room. Rated 4.7 on Google Maps (258 reviews).'),
+
+  // —— haworth: restaurants, bakeries and cafés (2026-11-25) ——
+  place('haworth-fine_dining-1', 'haworth', 'fine_dining', 'Slow Food Kitchen', '2-4 Main Street, Haworth, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 90개).', 'Restaurant. Rated 4.9 on Google Maps (90 reviews).'),
+  place('haworth-fine_dining-2', 'haworth', 'fine_dining', 'Pavé', '98b Main Street, Haworth, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 382개).', 'Restaurant. Rated 4.8 on Google Maps (382 reviews).'),
+  place('haworth-fine_dining-3', 'haworth', 'fine_dining', 'Haworth Steam Brewing Co', '98 Main Street, Haworth, United Kingdom', '직접 맥주를 빚는 양조장 식당. 구글 지도 평점 4.8(리뷰 231개).', 'Brewpub restaurant. Rated 4.8 on Google Maps (231 reviews).'),
+  place('haworth-fine_dining-4', 'haworth', 'fine_dining', 'The Hawthorn', '103-109 Main Street, Haworth, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 676개).', 'Restaurant. Rated 4.7 on Google Maps (676 reviews).'),
+  place('haworth-cafe-1', 'haworth', 'cafe', 'The Buffet Car Cafe', '4 Station Road, Haworth, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 107개).', 'Café. Rated 4.9 on Google Maps (107 reviews).'),
+  place('haworth-cafe-2', 'haworth', 'cafe', 'Cobbles & Clay', '70 Main Street, Haworth, United Kingdom', '카페. 구글 지도 평점 4.5(리뷰 1114개).', 'Café. Rated 4.5 on Google Maps (1114 reviews).'),
+  place('haworth-cafe-3', 'haworth', 'cafe', 'Haworth Old Post Office', '121 Main Street, Haworth, United Kingdom', '카페. 구글 지도 평점 4.5(리뷰 184개).', 'Café. Rated 4.5 on Google Maps (184 reviews).'),
+
+  // —— peak-district: restaurants, bakeries and cafés (2026-11-25) ——
+  place('peak-district-fine_dining-1', 'peak-district', 'fine_dining', 'Lovage by Lee Smith', 'Bath Street, Bakewell DE45 1DS, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 201개).', 'Modern British restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (201 reviews).'),
+  place('peak-district-fine_dining-2', 'peak-district', 'fine_dining', 'Fischer\'s Baslow Hall', 'Calver Road, Baslow DE45 1RR, United Kingdom', '배슬로에 있는 현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 471개).', 'Modern cuisine restaurant in Baslow. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (471 reviews).'),
+  place('peak-district-fine_dining-3', 'peak-district', 'fine_dining', 'The Peacock at Rowsley', 'Rowsley DE4 2EB, United Kingdom', '라우슬리에 있는 현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 468개).', 'Modern British restaurant in Rowsley. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (468 reviews).'),
+  place('peak-district-bakery-1', 'peak-district', 'bakery', 'The Bakewell Tart Shop and Coffee House', '18 Matlock Street, Bakewell, United Kingdom', '과자점. 구글 지도 평점 4.3(리뷰 970개).', 'Pastry shop. Rated 4.3 on Google Maps (970 reviews).'),
+  place('peak-district-cafe-1', 'peak-district', 'cafe', 'River and Roast Upstairs Cafe', '3B Market Street, Bakewell, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 395개).', 'Café. Rated 4.9 on Google Maps (395 reviews).'),
+  place('peak-district-cafe-2', 'peak-district', 'cafe', 'Porter', '2 Bridge Street, Bakewell, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 89개).', 'Café. Rated 4.8 on Google Maps (89 reviews).'),
+  place('peak-district-cafe-3', 'peak-district', 'cafe', 'The Honey Bun Cafe', '1 Water Lane, Bakewell, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 166개).', 'Café. Rated 4.7 on Google Maps (166 reviews).'),
+
+  // —— birmingham: restaurants, bakeries and cafés (2026-11-25) ——
+  place('birmingham-fine_dining-1', 'birmingham', 'fine_dining', 'Opheem', '65 Summer Row, Birmingham B3 1JJ, United Kingdom', '인도 요리 레스토랑. 미쉐린 2스타.', 'Indian restaurant. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('birmingham-fine_dining-2', 'birmingham', 'fine_dining', 'Adam\'s', '16 Waterloo Street, Birmingham B2 5UG, United Kingdom', '현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('birmingham-fine_dining-3', 'birmingham', 'fine_dining', 'The Wilderness', '27 Warstone Lane, Birmingham B18 6JQ, United Kingdom', '현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('birmingham-fine_dining-4', 'birmingham', 'fine_dining', 'Tropea', '27 Lordswood Road, Harborne, Birmingham B17 9RP, United Kingdom', '이탈리아 요리 레스토랑. 미쉐린 빕 구르망.', 'Italian restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('birmingham-fine_dining-5', 'birmingham', 'fine_dining', 'Riverine Rabbit', '1464 Pershore Road, Stirchley, Birmingham B30 2NT, United Kingdom', '현대 요리 레스토랑. 미쉐린 빕 구르망.', 'Modern cuisine restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('birmingham-bakery-1', 'birmingham', 'bakery', 'The Layers', '179 High Street, Birmingham, United Kingdom', '빵집. 구글 지도 평점 4.9(리뷰 165개).', 'Bakery. Rated 4.9 on Google Maps (165 reviews).'),
+  place('birmingham-bakery-2', 'birmingham', 'bakery', 'The Hive Café and Bakery', '43-47 Vittoria Street, Birmingham, United Kingdom', '빵집. 구글 지도 평점 4.8(리뷰 425개).', 'Bakery. Rated 4.8 on Google Maps (425 reviews).'),
+  place('birmingham-cafe-1', 'birmingham', 'cafe', 'BERRY Coffee', '204 Newhall Street, Birmingham, United Kingdom', '스페셜티 커피 바. 구글 지도 평점 4.9(리뷰 123개).', 'Specialty coffee bar. Rated 4.9 on Google Maps (123 reviews).'),
+  place('birmingham-cafe-2', 'birmingham', 'cafe', 'The Coffee Bar Collective', '12 Temple Row, Birmingham, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 1534개).', 'Café. Rated 4.9 on Google Maps (1534 reviews).'),
+  place('birmingham-cafe-3', 'birmingham', 'cafe', 'Coffee Joint', '110 Digbeth, Birmingham, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 341개).', 'Café. Rated 4.9 on Google Maps (341 reviews).'),
+  place('birmingham-cafe-4', 'birmingham', 'cafe', 'Elio Café', '65 Wharfside Street, Birmingham, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 409개).', 'Café. Rated 4.7 on Google Maps (409 reviews).'),
+
+  // —— warwick: restaurants, bakeries and cafés (2026-11-25) ——
+  place('warwick-fine_dining-1', 'warwick', 'fine_dining', 'The Cross', '16 New Street, Kenilworth CV8 2EZ, United Kingdom', '케닐워스에 있는 현대 영국 요리 레스토랑. 미쉐린 1스타.', 'Modern British restaurant in Kenilworth. One MICHELIN star.', { michelin: 'star1' }),
+  place('warwick-fine_dining-2', 'warwick', 'fine_dining', 'HEM', '22 Market Place, Warwick CV34 4SL, United Kingdom', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 65개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (65 reviews).'),
+  place('warwick-fine_dining-3', 'warwick', 'fine_dining', 'La Mesa', '5B Old Square, Warwick, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 291개).', 'Restaurant. Rated 4.9 on Google Maps (291 reviews).'),
+  place('warwick-fine_dining-4', 'warwick', 'fine_dining', 'Red Hot Mamma', '62 Market Place, Warwick, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 1157개).', 'Restaurant. Rated 4.8 on Google Maps (1157 reviews).'),
+  place('warwick-fine_dining-5', 'warwick', 'fine_dining', 'Smith Street Greek Restaurant', '32-34 Smith Street, Warwick, United Kingdom', '그리스 요리 레스토랑. 구글 지도 평점 4.8(리뷰 165개).', 'Greek restaurant. Rated 4.8 on Google Maps (165 reviews).'),
+  place('warwick-bakery-1', 'warwick', 'bakery', 'Bread & Co', '60 Smith Street, Warwick, United Kingdom', '빵집. 구글 지도 평점 4.8(리뷰 560개).', 'Bakery. Rated 4.8 on Google Maps (560 reviews).'),
+  place('warwick-bakery-2', 'warwick', 'bakery', 'Pastelaria Portuguesa', '57 Coten End, Warwick, United Kingdom', '과자점. 구글 지도 평점 4.5(리뷰 567개).', 'Pastry shop. Rated 4.5 on Google Maps (567 reviews).'),
+  place('warwick-cafe-1', 'warwick', 'cafe', 'Jack\'s Shack', '3c Jury Street, Warwick, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 231개).', 'Café. Rated 4.9 on Google Maps (231 reviews).'),
+  place('warwick-cafe-2', 'warwick', 'cafe', 'The Coffee Junction', '1 St Johns, Warwick, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 136개).', 'Café. Rated 4.8 on Google Maps (136 reviews).'),
+
+  // —— norwich: restaurants, bakeries and cafés (2026-11-25) ——
+  place('norwich-fine_dining-1', 'norwich', 'fine_dining', 'Benedicts', '9 St Benedicts Street, Norwich NR2 4PE, United Kingdom', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 559개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (559 reviews).'),
+  place('norwich-fine_dining-2', 'norwich', 'fine_dining', 'Benoli', '5 Orford Street, Norwich NR1 3LE, United Kingdom', '이탈리아 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 937개).', 'Italian restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (937 reviews).'),
+  place('norwich-fine_dining-3', 'norwich', 'fine_dining', 'Blossom', '79 Upper St Giles Street, Norwich NR2 1AB, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 71개).', 'Modern British restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (71 reviews).'),
+  place('norwich-fine_dining-4', 'norwich', 'fine_dining', 'The Wildebeest', '82-86 Norwich Road, Stoke Holy Cross NR14 8QJ, United Kingdom', '스토크 홀리 크로스에 있는 레스토랑. 미쉐린 빕 구르망.', 'Restaurant in Stoke Holy Cross. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('norwich-fine_dining-5', 'norwich', 'fine_dining', 'J.C. Pinto', '1 St John Maddermarket, Norwich, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 480개).', 'Restaurant. Rated 4.7 on Google Maps (480 reviews).'),
+  place('norwich-bakery-1', 'norwich', 'bakery', 'Devecchio Bakery', '5 Lobster Lane, Norwich, United Kingdom', '빵집. 구글 지도 평점 4.9(리뷰 151개).', 'Bakery. Rated 4.9 on Google Maps (151 reviews).'),
+  place('norwich-bakery-2', 'norwich', 'bakery', 'Bread Source', '93 Upper St Giles Street, Norwich, United Kingdom', '빵집. 구글 지도 평점 4.6(리뷰 506개).', 'Bakery. Rated 4.6 on Google Maps (506 reviews).'),
+  place('norwich-bakery-3', 'norwich', 'bakery', 'Two Magpies Bakery', '27-29 Timber Hill, Norwich, United Kingdom', '빵집. 구글 지도 평점 4.5(리뷰 504개).', 'Bakery. Rated 4.5 on Google Maps (504 reviews).'),
+  place('norwich-cafe-1', 'norwich', 'cafe', 'Butterfly Café', '114A King Street, Norwich, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 275개).', 'Café. Rated 4.8 on Google Maps (275 reviews).'),
+  place('norwich-cafe-2', 'norwich', 'cafe', 'Carberrys Café', '18 Wensum Street, Norwich, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 192개).', 'Café. Rated 4.8 on Google Maps (192 reviews).'),
+  place('norwich-cafe-3', 'norwich', 'cafe', 'No33 Exchange Street', '31-33 Exchange Street, Norwich, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 2082개).', 'Café. Rated 4.7 on Google Maps (2082 reviews).'),
+  place('norwich-cafe-4', 'norwich', 'cafe', 'The Yard Coffee', 'Red Lion Street, Norwich, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 295개).', 'Café. Rated 4.7 on Google Maps (295 reviews).'),
+
+  // —— winchester: restaurants, bakeries and cafés (2026-11-25) ——
+  place('winchester-fine_dining-1', 'winchester', 'fine_dining', 'The Chesil Rectory', '1 Chesil Street, Winchester SO23 0HU, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 1324개).', 'Modern British restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (1324 reviews).'),
+  place('winchester-fine_dining-2', 'winchester', 'fine_dining', 'Pulpo Negro', '28 Broad Street, Alresford SO24 9AQ, United Kingdom', '얼즈퍼드에 있는 현대 스페인 요리 레스토랑. 미쉐린 빕 구르망.', 'Contemporary Spanish restaurant in Alresford. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('winchester-fine_dining-3', 'winchester', 'fine_dining', 'Toast Winchester', '6 Jewry Street, Winchester, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 699개).', 'Restaurant. Rated 4.9 on Google Maps (699 reviews).'),
+  place('winchester-fine_dining-4', 'winchester', 'fine_dining', 'Bangkok Bistro', '16 Jewry Street, Winchester, United Kingdom', '태국 요리 레스토랑. 구글 지도 평점 4.8(리뷰 844개).', 'Thai restaurant. Rated 4.8 on Google Maps (844 reviews).'),
+  place('winchester-bakery-1', 'winchester', 'bakery', 'Hoxton Bakehouse', '40 Jewry Street, Winchester, United Kingdom', '빵집. 구글 지도 평점 4.6(리뷰 344개).', 'Bakery. Rated 4.6 on Google Maps (344 reviews).'),
+  place('winchester-cafe-1', 'winchester', 'cafe', 'Josie\'s', '28 Jewry Street, Winchester, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 6514개).', 'Café. Rated 4.9 on Google Maps (6514 reviews).'),
+  place('winchester-cafe-2', 'winchester', 'cafe', 'RØST', '14 Stockbridge Road, Winchester, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 210개).', 'Café. Rated 4.9 on Google Maps (210 reviews).'),
+  place('winchester-cafe-3', 'winchester', 'cafe', 'Kavi Coffee', '12 Jewry Street, Winchester, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 359개).', 'Café. Rated 4.7 on Google Maps (359 reviews).'),
+
+  // —— rye: restaurants, bakeries and cafés (2026-11-25) ——
+  place('rye-fine_dining-1', 'rye', 'fine_dining', 'The Union Rye', '8 East Street, Rye, United Kingdom', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 751개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (751 reviews).'),
+  place('rye-fine_dining-2', 'rye', 'fine_dining', 'No 50', '50 Cinque Ports Street, Rye, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 86개).', 'Restaurant. Rated 4.9 on Google Maps (86 reviews).'),
+  place('rye-fine_dining-3', 'rye', 'fine_dining', 'Landgate Bistro', '56 Landgate, Rye, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 308개).', 'Restaurant. Rated 4.7 on Google Maps (308 reviews).'),
+  place('rye-bakery-1', 'rye', 'bakery', 'Cornish Bakery', '86 High Street, Rye, United Kingdom', '빵집. 구글 지도 평점 4.5(리뷰 551개).', 'Bakery. Rated 4.5 on Google Maps (551 reviews).'),
+  place('rye-cafe-1', 'rye', 'cafe', 'Ground Up Coffee Shop', '86 Fishmarket Road, Rye, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 294개).', 'Café. Rated 4.9 on Google Maps (294 reviews).'),
+  place('rye-cafe-2', 'rye', 'cafe', 'GROUNDED', '7 Lion Street, Rye, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 149개).', 'Café. Rated 4.8 on Google Maps (149 reviews).'),
+
+  // —— wells: restaurants, bakeries and cafés (2026-11-25) ——
+  place('wells-fine_dining-1', 'wells', 'fine_dining', 'Root', '12 Sadler Street, Wells, United Kingdom', '채식 레스토랑. 미쉐린 빕 구르망.', 'Vegetarian restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('wells-fine_dining-2', 'wells', 'fine_dining', 'Queen of Cups', '10-12 Northload Street, Glastonbury BA6 9JJ, United Kingdom', '글래스턴베리에 있는 중동 요리 레스토랑. 미쉐린 빕 구르망.', 'Middle Eastern restaurant in Glastonbury. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('wells-fine_dining-3', 'wells', 'fine_dining', 'Rona Mezze Bar', '20 Union Street, Wells, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 130개).', 'Restaurant. Rated 4.8 on Google Maps (130 reviews).'),
+  place('wells-fine_dining-4', 'wells', 'fine_dining', 'The Olive Tree', '5 Sadler Street, Wells, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 184개).', 'Restaurant. Rated 4.7 on Google Maps (184 reviews).'),
+  place('wells-fine_dining-5', 'wells', 'fine_dining', 'The Good Earth', '4 Priory Road, Wells, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 484개).', 'Restaurant. Rated 4.7 on Google Maps (484 reviews).'),
+  place('wells-bakery-1', 'wells', 'bakery', 'Loaf', '38 Market Street, Wells, United Kingdom', '빵집. 구글 지도 평점 4.6(리뷰 468개).', 'Bakery. Rated 4.6 on Google Maps (468 reviews).'),
+  place('wells-cafe-1', 'wells', 'cafe', 'Cafe Nostra', '14 Broad Street, Wells, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 186개).', 'Café. Rated 4.8 on Google Maps (186 reviews).'),
+  place('wells-cafe-2', 'wells', 'cafe', 'Blossom\'s of Wells', '25-27 Broad Street, Wells, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 93개).', 'Café. Rated 4.8 on Google Maps (93 reviews).'),
+  place('wells-cafe-3', 'wells', 'cafe', 'Niche', '21 Market Place, Wells, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 105개).', 'Café. Rated 4.6 on Google Maps (105 reviews).'),
+
+  // —— jurassic-coast: restaurants, bakeries and cafés (2026-11-25) ——
+  place('jurassic-coast-fine_dining-1', 'jurassic-coast', 'fine_dining', 'Sandro\'s', '2-3 Drakes Way, Lyme Regis, United Kingdom', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 94개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (94 reviews).'),
+  place('jurassic-coast-fine_dining-2', 'jurassic-coast', 'fine_dining', 'Eat at Millside', '1 Mill Lane, Lyme Regis, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 467개).', 'Restaurant. Rated 4.8 on Google Maps (467 reviews).'),
+  place('jurassic-coast-fine_dining-3', 'jurassic-coast', 'fine_dining', 'Harbour Inn', '23 Marine Parade, Lyme Regis, United Kingdom', '펍 레스토랑. 구글 지도 평점 4.4(리뷰 1380개).', 'Pub restaurant. Rated 4.4 on Google Maps (1380 reviews).'),
+  place('jurassic-coast-bakery-1', 'jurassic-coast', 'bakery', 'Town Mill Bakery', 'Coombe Street, Lyme Regis, United Kingdom', '빵집. 구글 지도 평점 4.7(리뷰 694개).', 'Bakery. Rated 4.7 on Google Maps (694 reviews).'),
+
+  // —— loch-lomond: restaurants, bakeries and cafés (2026-11-25) ——
+  place('loch-lomond-fine_dining-1', 'loch-lomond', 'fine_dining', 'LOMA by Graeme Cheevers', 'Cameron House Hotel, A82, Alexandria G83 8QZ, United Kingdom', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 147개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (147 reviews).'),
+  place('loch-lomond-fine_dining-2', 'loch-lomond', 'fine_dining', 'The Village Rest', 'Pier Road, Luss G83 8NY, United Kingdom', '레스토랑. 구글 지도 평점 4.5(리뷰 2040개).', 'Restaurant. Rated 4.5 on Google Maps (2040 reviews).'),
+
+  // —— dundee: restaurants, bakeries and cafés (2026-11-25) ——
+  place('dundee-fine_dining-1', 'dundee', 'fine_dining', 'Eastfield', '91 Perth Road, Dundee, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 117개).', 'Modern British restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (117 reviews).'),
+  place('dundee-fine_dining-2', 'dundee', 'fine_dining', 'Collinsons', '122 Brown Street, Broughty Ferry, Dundee DD5 1EN, United Kingdom', '클래식 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 278개).', 'Classic cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (278 reviews).'),
+  place('dundee-fine_dining-3', 'dundee', 'fine_dining', 'The Selkie', '27 Exchange Street, Dundee, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 514개).', 'Restaurant. Rated 4.8 on Google Maps (514 reviews).'),
+  place('dundee-fine_dining-4', 'dundee', 'fine_dining', 'Mirch Masala', '5 Hawkhill, Dundee, United Kingdom', '인도 요리 레스토랑. 구글 지도 평점 4.9(리뷰 1181개).', 'Indian restaurant. Rated 4.9 on Google Maps (1181 reviews).'),
+  place('dundee-fine_dining-5', 'dundee', 'fine_dining', 'Milas', '5 Whitehall Street, Dundee, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 1083개).', 'Restaurant. Rated 4.7 on Google Maps (1083 reviews).'),
+  place('dundee-bakery-1', 'dundee', 'bakery', 'Clark\'s Bakery', '3 Annfield Street, Dundee, United Kingdom', '빵집. 구글 지도 평점 4.5(리뷰 2229개).', 'Bakery. Rated 4.5 on Google Maps (2229 reviews).'),
+  place('dundee-cafe-1', 'dundee', 'cafe', 'EH9 Espresso', '248 Perth Road, Dundee, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 299개).', 'Café. Rated 4.9 on Google Maps (299 reviews).'),
+  place('dundee-cafe-2', 'dundee', 'cafe', 'Noch Coffee Co.', '69 Perth Road, Dundee, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 85개).', 'Café. Rated 4.9 on Google Maps (85 reviews).'),
+  place('dundee-cafe-3', 'dundee', 'cafe', 'Dundee Espresso Lab', '31 Commercial Street, Dundee, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 161개).', 'Café. Rated 4.7 on Google Maps (161 reviews).'),
+
+  // —— pitlochry: restaurants, bakeries and cafés (2026-11-25) ——
+  place('pitlochry-fine_dining-1', 'pitlochry', 'fine_dining', 'Killiecrankie House', 'Killiecrankie, Pitlochry PH16 5LG, United Kingdom', '킬리크랭키에 있는 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant in Killiecrankie. One MICHELIN star.', { michelin: 'star1' }),
+  place('pitlochry-fine_dining-2', 'pitlochry', 'fine_dining', 'The Old Manse of Blair', 'Blair Atholl, Pitlochry PH18 5TN, United Kingdom', '블레어 애솔에 있는 현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 218개).', 'Modern cuisine restaurant in Blair Atholl. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (218 reviews).'),
+  place('pitlochry-fine_dining-3', 'pitlochry', 'fine_dining', 'Victoria\'s Restaurant', '45 Atholl Road, Pitlochry, United Kingdom', '레스토랑. 구글 지도 평점 4.5(리뷰 2357개).', 'Restaurant. Rated 4.5 on Google Maps (2357 reviews).'),
+  place('pitlochry-cafe-1', 'pitlochry', 'cafe', 'Jessie\'s', '3A Atholl Road, Pitlochry, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 405개).', 'Café. Rated 4.8 on Google Maps (405 reviews).'),
+  place('pitlochry-cafe-2', 'pitlochry', 'cafe', 'Garden Cafe', '43 Atholl Road, Pitlochry, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 430개).', 'Café. Rated 4.7 on Google Maps (430 reviews).'),
+  place('pitlochry-cafe-3', 'pitlochry', 'cafe', 'Cafe Calluna', '90 Atholl Road, Pitlochry, United Kingdom', '카페. 구글 지도 평점 4.5(리뷰 763개).', 'Café. Rated 4.5 on Google Maps (763 reviews).'),
+
+  // —— aberdeen: restaurants, bakeries and cafés (2026-11-25) ——
+  place('aberdeen-fine_dining-1', 'aberdeen', 'fine_dining', 'Café Bohème', '23 Windmill Brae, Aberdeen, United Kingdom', '프랑스 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 622개).', 'French restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (622 reviews).'),
+  place('aberdeen-fine_dining-2', 'aberdeen', 'fine_dining', 'Mara', '40 Thistle Street, Aberdeen AB10 1XD, United Kingdom', '이탈리아 요리 레스토랑. 미쉐린 빕 구르망.', 'Italian restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('aberdeen-fine_dining-3', 'aberdeen', 'fine_dining', 'Oki Doki Georgian Restaurant', '27 Windmill Brae, Aberdeen, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 204개).', 'Restaurant. Rated 4.9 on Google Maps (204 reviews).'),
+  place('aberdeen-fine_dining-4', 'aberdeen', 'fine_dining', 'Travancore', '11 Holburn Street, Aberdeen, United Kingdom', '인도 요리 레스토랑. 구글 지도 평점 4.7(리뷰 876개).', 'Indian restaurant. Rated 4.7 on Google Maps (876 reviews).'),
+  place('aberdeen-bakery-1', 'aberdeen', 'bakery', 'Bandit Bakery', '51H Rose Street, Aberdeen, United Kingdom', '빵집. 구글 지도 평점 4.9(리뷰 312개).', 'Bakery. Rated 4.9 on Google Maps (312 reviews).'),
+  place('aberdeen-bakery-2', 'aberdeen', 'bakery', 'Fat Batch', '57 Elmbank Terrace, Aberdeen, United Kingdom', '빵집. 구글 지도 평점 4.8(리뷰 92개).', 'Bakery. Rated 4.8 on Google Maps (92 reviews).'),
+  place('aberdeen-bakery-3', 'aberdeen', 'bakery', 'The Bread Maker', '50-52 Rosemount Viaduct, Aberdeen, United Kingdom', '빵집. 구글 지도 평점 4.6(리뷰 325개).', 'Bakery. Rated 4.6 on Google Maps (325 reviews).'),
+  place('aberdeen-cafe-1', 'aberdeen', 'cafe', 'Turquoise Cafe & Eatery', '28 Holburn Street, Aberdeen, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 424개).', 'Café. Rated 4.9 on Google Maps (424 reviews).'),
+  place('aberdeen-cafe-2', 'aberdeen', 'cafe', 'Cafe Oregano', '33 Holburn Street, Aberdeen, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 353개).', 'Café. Rated 4.9 on Google Maps (353 reviews).'),
+  place('aberdeen-cafe-3', 'aberdeen', 'cafe', 'Mount', '6 Upperkirkgate, Aberdeen, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 247개).', 'Café. Rated 4.8 on Google Maps (247 reviews).'),
+
+  // —— speyside: restaurants, bakeries and cafés (2026-11-25) ——
+  place('speyside-fine_dining-1', 'speyside', 'fine_dining', 'TimeSpirit', 'The Macallan Estate, Easter Elchies, Aberlour AB38 9RX, United Kingdom', '애버라워에 있는 현대 요리 레스토랑. 미쉐린 가이드 소개.', 'Modern cuisine restaurant in Aberlour. Listed in the MICHELIN Guide.'),
+  place('speyside-cafe-1', 'speyside', 'cafe', 'The Coffee Pot', '7 Balvenie Street, Dufftown, United Kingdom', '카페. 구글 지도 평점 4.5(리뷰 301개).', 'Café. Rated 4.5 on Google Maps (301 reviews).'),
+
+  // —— cairngorms: restaurants, bakeries and cafés (2026-11-25) ——
+  place('cairngorms-fine_dining-1', 'cairngorms', 'fine_dining', 'Delaneys\' Restaurant', '131 Grampian Road, Aviemore, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 320개).', 'Restaurant. Rated 4.9 on Google Maps (320 reviews).'),
+  place('cairngorms-cafe-1', 'cairngorms', 'cafe', 'Ryvoan Café', 'Myrtlefield Business Park, Aviemore, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 341개).', 'Café. Rated 4.8 on Google Maps (341 reviews).'),
+  place('cairngorms-cafe-2', 'cairngorms', 'cafe', 'The Coffee Pot', '125 Grampian Road, Aviemore, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 843개).', 'Café. Rated 4.6 on Google Maps (843 reviews).'),
+
+  // —— mull: restaurants, bakeries and cafés (2026-11-25) ——
+  place('mull-bakery-1', 'mull', 'bakery', 'Tobermory Bakery & Tea Room', 'Main Street, Tobermory, United Kingdom', '빵집. 구글 지도 평점 4.5(리뷰 368개).', 'Bakery. Rated 4.5 on Google Maps (368 reviews).'),
+
+  // —— arran: restaurants, bakeries and cafés (2026-11-25) ——
+  place('arran-fine_dining-1', 'arran', 'fine_dining', 'The Parlour', 'Kames Cottage, Brodick KA27 8BU, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 569개).', 'Restaurant. Rated 4.8 on Google Maps (569 reviews).'),
+  place('arran-cafe-1', 'arran', 'cafe', 'Janie\'s', 'Duchess Court, Brodick KA27 8DD, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 152개).', 'Café. Rated 4.7 on Google Maps (152 reviews).'),
+
+  // —— islay: restaurants, bakeries and cafés (2026-11-25) ——
+  place('islay-fine_dining-1', 'islay', 'fine_dining', 'Bowmore Hotel Restaurant', 'Jamieson Street, Bowmore PA43 7HL, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 191개).', 'Restaurant. Rated 4.8 on Google Maps (191 reviews).'),
+  place('islay-fine_dining-2', 'islay', 'fine_dining', 'Peatzeria', '22 Shore Street, Bowmore, United Kingdom', '레스토랑. 구글 지도 평점 4.5(리뷰 832개).', 'Restaurant. Rated 4.5 on Google Maps (832 reviews).'),
+  place('islay-cafe-1', 'islay', 'cafe', 'Labels', 'Shore Street, Bowmore PA43 7LB, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 128개).', 'Café. Rated 4.9 on Google Maps (128 reviews).'),
+
+  // —— orkney: restaurants, bakeries and cafés (2026-11-25) ——
+  place('orkney-cafe-1', 'orkney', 'cafe', 'Archive Coffee', '8 Laing Street, Kirkwall, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 540개).', 'Café. Rated 4.7 on Google Maps (540 reviews).'),
+  place('orkney-cafe-2', 'orkney', 'cafe', 'SunBean Coffee House', '35 Victoria Street, Kirkwall, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 111개).', 'Café. Rated 4.6 on Google Maps (111 reviews).'),
+  place('orkney-fine_dining-1', 'orkney', 'fine_dining', 'Helgi\'s', '14 Harbour Street, Kirkwall, United Kingdom', '레스토랑. 구글 지도 평점 4.4(리뷰 825개).', 'Restaurant. Rated 4.4 on Google Maps (825 reviews).'),
+
+  // —— swansea: restaurants, bakeries and cafés (2026-11-25) ——
+  place('swansea-fine_dining-1', 'swansea', 'fine_dining', 'Beach House', 'Oxwich Beach, Swansea SA3 1LS, United Kingdom', '옥스위치에 있는 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant in Oxwich. One MICHELIN star.', { michelin: 'star1' }),
+  place('swansea-fine_dining-2', 'swansea', 'fine_dining', 'The Shed Restaurant', 'J Shed Arcade, Kings Road, Swansea, United Kingdom', '펍 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.5(리뷰 261개).', 'Pub restaurant. Listed in the MICHELIN Guide. Rated 4.5 on Google Maps (261 reviews).'),
+  place('swansea-fine_dining-3', 'swansea', 'fine_dining', 'Antep Restaurant', '84 The Kingsway, Swansea, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 124개).', 'Restaurant. Rated 4.8 on Google Maps (124 reviews).'),
+  place('swansea-fine_dining-4', 'swansea', 'fine_dining', 'Belle Vue Bistro', '6-8 Bellevue Way, Swansea, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 603개).', 'Restaurant. Rated 4.7 on Google Maps (603 reviews).'),
+  place('swansea-bakery-1', 'swansea', 'bakery', 'Saint Hugo Bakery & Café', '11 St Mary\'s Square, Swansea, United Kingdom', '빵집. 구글 지도 평점 4.7(리뷰 109개).', 'Bakery. Rated 4.7 on Google Maps (109 reviews).'),
+  place('swansea-bakery-2', 'swansea', 'bakery', 'Little Valley Bakery', '197 St Helen\'s Avenue, Swansea, United Kingdom', '빵집. 구글 지도 평점 4.6(리뷰 91개).', 'Bakery. Rated 4.6 on Google Maps (91 reviews).'),
+  place('swansea-cafe-1', 'swansea', 'cafe', 'Crafty Smuggler Coffee Roastery', '82 Western Street, Swansea, United Kingdom', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.9(리뷰 186개).', 'Coffee roastery café. Rated 4.9 on Google Maps (186 reviews).'),
+  place('swansea-cafe-2', 'swansea', 'cafe', 'GlenAlly Marina Cafe', '5 Abernethy Quay, Swansea, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 91개).', 'Café. Rated 4.9 on Google Maps (91 reviews).'),
+  place('swansea-cafe-3', 'swansea', 'cafe', 'Duck & Dough', '37 Marlborough Road, Swansea, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 107개).', 'Café. Rated 4.8 on Google Maps (107 reviews).'),
+
+  // —— brecon-beacons: restaurants, bakeries and cafés (2026-11-25) ——
+  place('brecon-beacons-fine_dining-1', 'brecon-beacons', 'fine_dining', 'The Felin Fach Griffin', 'Felinfach, Brecon LD3 0UB, United Kingdom', '현대 영국 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.5(리뷰 744개).', 'Modern British restaurant. Listed in the MICHELIN Guide. Rated 4.5 on Google Maps (744 reviews).'),
+  place('brecon-beacons-fine_dining-2', 'brecon-beacons', 'fine_dining', 'Brecon Tap', '6 Bulwark, Brecon, United Kingdom', '펍 레스토랑. 구글 지도 평점 4.6(리뷰 1290개).', 'Pub restaurant. Rated 4.6 on Google Maps (1290 reviews).'),
+  place('brecon-beacons-bakery-1', 'brecon-beacons', 'bakery', 'The Cookhouse (St Mary\'s Bakery)', '4 St Mary Street, Brecon, United Kingdom', '빵집. 구글 지도 평점 4.8(리뷰 81개).', 'Bakery. Rated 4.8 on Google Maps (81 reviews).'),
+  place('brecon-beacons-cafe-1', 'brecon-beacons', 'cafe', 'Arabellas Artisan Eatery', '35 High Street, Brecon, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 97개).', 'Café. Rated 4.7 on Google Maps (97 reviews).'),
+  place('brecon-beacons-cafe-2', 'brecon-beacons', 'cafe', 'Rich Way Cafe', '4-5 Rich Way, Brecon, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 156개).', 'Café. Rated 4.6 on Google Maps (156 reviews).'),
+
+  // —— hay-on-wye: restaurants, bakeries and cafés (2026-11-25) ——
+  place('hay-on-wye-fine_dining-1', 'hay-on-wye', 'fine_dining', 'FIR by Matt Sampson', 'Lion Street, Hay-on-Wye HR3 5AA, United Kingdom', '창작 요리 레스토랑. 미쉐린 가이드 소개.', 'Creative restaurant. Listed in the MICHELIN Guide.'),
+  place('hay-on-wye-fine_dining-2', 'hay-on-wye', 'fine_dining', 'Tomatitos', '38 Lion Street, Hay-on-Wye, United Kingdom', '타파스 바. 구글 지도 평점 4.7(리뷰 733개).', 'Tapas bar. Rated 4.7 on Google Maps (733 reviews).'),
+  place('hay-on-wye-fine_dining-3', 'hay-on-wye', 'fine_dining', 'Three Tuns', '4 Broad Street, Hay-on-Wye, United Kingdom', '펍 레스토랑. 구글 지도 평점 4.5(리뷰 848개).', 'Pub restaurant. Rated 4.5 on Google Maps (848 reviews).'),
+  place('hay-on-wye-cafe-1', 'hay-on-wye', 'cafe', 'The Bean Box', '4 Bridge Street, Hay-on-Wye, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 234개).', 'Café. Rated 4.8 on Google Maps (234 reviews).'),
+  place('hay-on-wye-cafe-2', 'hay-on-wye', 'cafe', 'The Salad Project', '1 Lion Street, Hay-on-Wye, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 133개).', 'Café. Rated 4.9 on Google Maps (133 reviews).'),
+
+  // —— st-davids: restaurants, bakeries and cafés (2026-11-25) ——
+  place('st-davids-fine_dining-1', 'st-davids', 'fine_dining', 'Blas', 'Twr y Felin Hotel, St Davids, United Kingdom', '현대 요리 레스토랑. 미쉐린 가이드 소개.', 'Modern cuisine restaurant. Listed in the MICHELIN Guide.'),
+  place('st-davids-fine_dining-2', 'st-davids', 'fine_dining', 'MINNOW', 'Ty Eurvil, Maes Dyfed, St Davids, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 137개).', 'Restaurant. Rated 4.9 on Google Maps (137 reviews).'),
+  place('st-davids-fine_dining-3', 'st-davids', 'fine_dining', 'The Bishops', '22-23 Cross Square, St Davids, United Kingdom', '펍 레스토랑. 구글 지도 평점 4.4(리뷰 1682개).', 'Pub restaurant. Rated 4.4 on Google Maps (1682 reviews).'),
+  place('st-davids-cafe-1', 'st-davids', 'cafe', 'GRAIN', '1 High Street, St Davids, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 698개).', 'Café. Rated 4.7 on Google Maps (698 reviews).'),
+  place('st-davids-cafe-2', 'st-davids', 'cafe', 'The Really Wild Emporium', '24 High Street, St Davids, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 209개).', 'Café. Rated 4.8 on Google Maps (209 reviews).'),
+
+  // —— aberystwyth: restaurants, bakeries and cafés (2026-11-25) ——
+  place('aberystwyth-fine_dining-1', 'aberystwyth', 'fine_dining', 'Ynyshir', 'Eglwys Fach, Machynlleth SY20 8TA, United Kingdom', '마컨슬레스에 있는 창작 요리 레스토랑. 미쉐린 2스타.', 'Creative restaurant in Machynlleth. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('aberystwyth-fine_dining-2', 'aberystwyth', 'fine_dining', 'Gwen', '21 Heol Maengwyn, Machynlleth SY20 8EB, United Kingdom', '마컨슬레스에 있는 현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 66개).', 'Modern cuisine restaurant in Machynlleth. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (66 reviews).'),
+  place('aberystwyth-fine_dining-3', 'aberystwyth', 'fine_dining', 'Dragonfly Bistro', '7 St James\'s Square, Aberystwyth, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 251개).', 'Restaurant. Rated 4.9 on Google Maps (251 reviews).'),
+  place('aberystwyth-fine_dining-4', 'aberystwyth', 'fine_dining', 'Y Gornel', '11 Princess Street, Aberystwyth, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 239개).', 'Restaurant. Rated 4.9 on Google Maps (239 reviews).'),
+  place('aberystwyth-fine_dining-5', 'aberystwyth', 'fine_dining', 'Kwizinn', '2A Portland Road, Aberystwyth, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 137개).', 'Restaurant. Rated 4.9 on Google Maps (137 reviews).'),
+  place('aberystwyth-cafe-1', 'aberystwyth', 'cafe', 'Medina', '10 Queen\'s Road, Aberystwyth, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 1463개).', 'Café. Rated 4.6 on Google Maps (1463 reviews).'),
+  place('aberystwyth-cafe-2', 'aberystwyth', 'cafe', 'Little Devil\'s Café', '20 Terrace Road, Aberystwyth, United Kingdom', '카페. 구글 지도 평점 4.6(리뷰 794개).', 'Café. Rated 4.6 on Google Maps (794 reviews).'),
+
+  // —— caernarfon: restaurants, bakeries and cafés (2026-11-25) ——
+  place('caernarfon-fine_dining-1', 'caernarfon', 'fine_dining', 'Sosban & The Old Butchers', 'Trinity House, 1 High Street, Menai Bridge LL59 5EE, United Kingdom', '메나이 브리지에 있는 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant in Menai Bridge. One MICHELIN star.', { michelin: 'star1' }),
+  place('caernarfon-fine_dining-2', 'caernarfon', 'fine_dining', 'The Gunroom Restaurant', 'Bontnewydd, Caernarfon LL54 7YF, United Kingdom', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 114개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (114 reviews).'),
+  place('caernarfon-fine_dining-3', 'caernarfon', 'fine_dining', 'Y Gegin Fach', '7 Pool Hill, Caernarfon, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 180개).', 'Restaurant. Rated 4.9 on Google Maps (180 reviews).'),
+  place('caernarfon-fine_dining-4', 'caernarfon', 'fine_dining', 'Osteria', '26 Hole in the Wall Street, Caernarfon, United Kingdom', '이탈리아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 252개).', 'Italian restaurant. Rated 4.6 on Google Maps (252 reviews).'),
+  place('caernarfon-fine_dining-5', 'caernarfon', 'fine_dining', 'Wal Restaurant', '4 Palace Street, Caernarfon, United Kingdom', '레스토랑. 구글 지도 평점 4.5(리뷰 707개).', 'Restaurant. Rated 4.5 on Google Maps (707 reviews).'),
+  place('caernarfon-cafe-1', 'caernarfon', 'cafe', 'Caffi Cei', '31 Bridge Street, Caernarfon, United Kingdom', '카페. 구글 지도 평점 4.5(리뷰 135개).', 'Café. Rated 4.5 on Google Maps (135 reviews).'),
+
+  // —— strangford-lough: restaurants, bakeries and cafés (2026-11-25) ——
+  place('strangford-lough-fine_dining-1', 'strangford-lough', 'fine_dining', 'RockSalt Kitchen & Bar', '18 Frances Street, Newtownards, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 133개).', 'Restaurant. Rated 4.8 on Google Maps (133 reviews).'),
+  place('strangford-lough-fine_dining-2', 'strangford-lough', 'fine_dining', 'Haptik', '29 Frances Street, Newtownards, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 731개).', 'Restaurant. Rated 4.8 on Google Maps (731 reviews).'),
+  place('strangford-lough-fine_dining-3', 'strangford-lough', 'fine_dining', 'The Foxes Den', '17 Jubilee Road, Newtownards, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 1143개).', 'Restaurant. Rated 4.7 on Google Maps (1143 reviews).'),
+  place('strangford-lough-cafe-1', 'strangford-lough', 'cafe', '7th Heaven', '8 Court Street, Newtownards, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 282개).', 'Café. Rated 4.8 on Google Maps (282 reviews).'),
+  place('strangford-lough-cafe-2', 'strangford-lough', 'cafe', 'Cafollas at the Square', '15 Conway Square, Newtownards, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 784개).', 'Café. Rated 4.7 on Google Maps (784 reviews).'),
+
+  // —— newcastle-mourne: restaurants, bakeries and cafés (2026-11-25) ——
+  place('newcastle-mourne-fine_dining-1', 'newcastle-mourne', 'fine_dining', 'Villa Vinci', '31 Main Street, Newcastle, County Down, United Kingdom', '이탈리아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 1726개).', 'Italian restaurant. Rated 4.7 on Google Maps (1726 reviews).'),
+  place('newcastle-mourne-fine_dining-2', 'newcastle-mourne', 'fine_dining', 'Ola Cantina Mexican Grill', '4 Causeway Road, Newcastle, County Down, United Kingdom', '레스토랑. 구글 지도 평점 4.9(리뷰 129개).', 'Restaurant. Rated 4.9 on Google Maps (129 reviews).'),
+  place('newcastle-mourne-cafe-1', 'newcastle-mourne', 'cafe', 'Birch', '51 Central Promenade, Newcastle, County Down, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 242개).', 'Café. Rated 4.8 on Google Maps (242 reviews).'),
+  place('newcastle-mourne-cafe-2', 'newcastle-mourne', 'cafe', 'Shimna Café', '2 Main Street, Newcastle, County Down, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 442개).', 'Café. Rated 4.7 on Google Maps (442 reviews).'),
+  place('newcastle-mourne-cafe-3', 'newcastle-mourne', 'cafe', 'Railway Street Cafe & Brew Bar', '2 Railway Street, Newcastle, County Down, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 473개).', 'Café. Rated 4.7 on Google Maps (473 reviews).'),
+
+  // —— armagh: restaurants, bakeries and cafés (2026-11-25) ——
+  place('armagh-fine_dining-1', 'armagh', 'fine_dining', 'Mulberry Bistro', '6 Cathedral Road, Armagh, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 379개).', 'Restaurant. Rated 4.7 on Google Maps (379 reviews).'),
+  place('armagh-fine_dining-2', 'armagh', 'fine_dining', 'Keegan\'s Bar & Restaurant', '48 Irish Street, Armagh, United Kingdom', '펍 레스토랑. 구글 지도 평점 4.7(리뷰 612개).', 'Pub restaurant. Rated 4.7 on Google Maps (612 reviews).'),
+  place('armagh-cafe-1', 'armagh', 'cafe', 'Sojourn Coffee', '6 Barrack Street, Armagh, United Kingdom', '카페. 구글 지도 평점 4.9(리뷰 212개).', 'Café. Rated 4.9 on Google Maps (212 reviews).'),
+  place('armagh-cafe-2', 'armagh', 'cafe', 'The Craic\'d Pot Coffee House', '25 Upper English Street, Armagh, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 414개).', 'Café. Rated 4.8 on Google Maps (414 reviews).'),
+
+  // —— enniskillen: restaurants, bakeries and cafés (2026-11-25) ——
+  place('enniskillen-fine_dining-1', 'enniskillen', 'fine_dining', '28 At The Hollow', '6 Church Street, Enniskillen, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 222개).', 'Restaurant. Rated 4.8 on Google Maps (222 reviews).'),
+  place('enniskillen-fine_dining-2', 'enniskillen', 'fine_dining', 'The Street Kitchen', '30 Paget Lane, Enniskillen, United Kingdom', '레스토랑. 구글 지도 평점 4.8(리뷰 203개).', 'Restaurant. Rated 4.8 on Google Maps (203 reviews).'),
+  place('enniskillen-fine_dining-3', 'enniskillen', 'fine_dining', 'Dollakis', '2 Cross Street, Enniskillen, United Kingdom', '레스토랑. 구글 지도 평점 4.7(리뷰 517개).', 'Restaurant. Rated 4.7 on Google Maps (517 reviews).'),
+  place('enniskillen-cafe-1', 'enniskillen', 'cafe', 'The Toastery + Supper Club', '22 Church Street, Enniskillen, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 394개).', 'Café. Rated 4.8 on Google Maps (394 reviews).'),
+  place('enniskillen-cafe-2', 'enniskillen', 'cafe', 'Westend Coffee Shop', '39 Darling Street, Enniskillen, United Kingdom', '카페. 구글 지도 평점 4.8(리뷰 138개).', 'Café. Rated 4.8 on Google Maps (138 reviews).'),
+  place('enniskillen-cafe-3', 'enniskillen', 'cafe', 'The Bees Knees Cafe', '37 Townhall Street, Enniskillen, United Kingdom', '카페. 구글 지도 평점 4.7(리뷰 472개).', 'Café. Rated 4.7 on Google Maps (472 reviews).'),
 ]

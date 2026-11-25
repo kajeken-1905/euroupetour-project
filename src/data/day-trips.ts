@@ -581,6 +581,14 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'dover',
       tip: '고속열차로 약 1시간 10분. 도버 성과 하얀 절벽 산책로를 봅니다.|About 1 hr 10 by high-speed train: Dover Castle and the White Cliffs path.',
     },
+    {
+      to: 'winchester',
+      tip: '제인 오스틴이 묻힌 대성당과 ‘아서 왕의 원탁’이 걸린 대홀을 봅니다.|The cathedral where Jane Austen lies and the Great Hall with the Round Table.',
+    },
+    {
+      to: 'rye',
+      tip: '자갈길 머메이드 스트리트와 교회 탑, 습지 풍경을 봅니다.|Cobbled Mermaid Street, the church tower and the marsh views.',
+    },
   ],
   edinburgh: [
     {
@@ -617,6 +625,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'chester',
       tip: '기차로 약 1시간. 성벽을 한 바퀴 걷고 2층 회랑 상점가 로우스를 봅니다.|About 1 hr by train: walk the city walls and browse the galleried Rows.',
     },
+    {
+      to: 'peak-district',
+      tip: '채스워스 하우스와 베이크웰 마을을 봅니다. 버스는 편수가 적으니 시간을 확인하세요.|Chatsworth House and Bakewell; buses are infrequent, so check times.',
+    },
   ],
   bristol: [
     {
@@ -633,6 +645,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'fort-william',
       tip: '버스로 약 3시간 10분이라 1박을 권합니다. 글렌코 계곡을 지나 벤네비스 아래 마을에 닿습니다.|About 3 hr 10 by coach, so an overnight is better: through Glencoe to the town below Ben Nevis.',
     },
+    {
+      to: 'loch-lomond',
+      tip: '기차로 밸로크에 가서 유람선을 타고, 러스 마을을 걷습니다.|Train to Balloch, a loch cruise and a stroll round Luss.',
+    },
   ],
   conwy: [
     {
@@ -644,6 +660,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
     {
       to: 'giants-causeway',
       tip: '육각 기둥 해안과 해안 도로를 봅니다. 대중교통은 갈아타야 해 투어가 편합니다.|The hexagonal basalt coast and the coast road; public transport needs changes, so tours are easiest.',
+    },
+    {
+      to: 'strangford-lough',
+      tip: '마운트 스튜어트 정원과 스크라보 탑에서 호수 풍경을 봅니다.|Mount Stewart’s gardens and the view from Scrabo Tower.',
+    },
+    {
+      to: 'newcastle-mourne',
+      tip: '모른 산맥 아래 해변 마을을 걷고 톨리모어 숲 공원을 봅니다.|The seaside town below the Mournes and Tollymore Forest Park.',
+    },
+    {
+      to: 'armagh',
+      tip: '언덕 위 두 성 패트릭 대성당과 천문대를 봅니다.|The two St Patrick’s cathedrals and the observatory.',
     },
   ],
   amsterdam: [
@@ -1583,6 +1611,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       how: '기차로 브리스틀 경유 약 1시간|About 1 hr by train via Bristol',
       mode: 'train',
       tip: '카디프 성과 바닷가 카디프 베이를 봅니다.|Cardiff Castle and the waterfront at Cardiff Bay.',
+    },
+    {
+      to: 'wells',
+      tip: '조각상 정면의 대성당과 해자 주교관을 보고, 글래스턴베리 토르에 오릅니다.|The statue-fronted cathedral and moated palace, then Glastonbury Tor.',
     },
   ],
   oxford: [

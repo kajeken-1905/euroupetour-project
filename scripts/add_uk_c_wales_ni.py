@@ -1,0 +1,193 @@
+#!/usr/bin/env python3
+"""UK 2nd pass, new cities — Wales and Northern Ireland (2026-11-25, user picked): Swansea & Gower, Brecon Beacons,
+Hay-on-Wye, St Davids, Aberystwyth, Caernarfon & Anglesey; Strangford Lough (Newtownards), Newcastle & the Mournes, Armagh,
+Enniskillen & Fermanagh. Facts (Wikipedia en): Mumbles pier and Oystermouth Castle; Gower the UK's first AONB (1956),
+Rhossili Bay and Worm's Head (tidal causeway), Three Cliffs Bay; Dylan Thomas born in Swansea (1914); National Waterfront
+Museum free; Brecon Beacons now Bannau Brycheiniog National Park, Pen y Fan 886 m highest in southern Britain, Waterfall
+Country (Sgwd yr Eira, walk behind the fall), Brecon Cathedral, Big Pit National Coal Museum free (Blaenavon UNESCO);
+Hay-on-Wye 'town of books', Hay Castle reopened 2022, Hay Festival late May–June; St Davids UK's smallest city by
+population, St Davids Cathedral and Bishop's Palace, Whitesands Bay, Ramsey Island boat trips, Pembrokeshire Coast
+National Park; Aberystwyth Vale of Rheidol Railway to Devil's Bridge, Cliff Railway (1896) up Constitution Hill, National
+Library of Wales; Caernarfon Castle (Edward I) part of the Castles and Town Walls of King Edward in Gwynedd UNESCO 1986
+with Beaumaris, Welsh Highland Railway, South Stack lighthouse (RSPB), Llanfairpwllgwyngyll; Mount Stewart (National
+Trust gardens), Scrabo Tower, Castle Ward (Winterfell in Game of Thrones), Strangford–Portaferry ferry, Nendrum monastic
+site; Slieve Donard 850 m highest in NI, Tollymore and Castlewellan forest parks, Murlough beach; Armagh two St Patrick's
+cathedrals, Armagh Observatory and Planetarium, Navan Fort (Emain Macha); Enniskillen Castle museums, Marble Arch Caves
+Global Geopark, Devenish Island round tower, Castle Coole. Times via Transitous (2026-11-25): Cardiff–Swansea ~55,
+Cardiff–Brecon ~2 h (rail + bus), Brecon–Hay bus ~45, Cardiff–St Davids ~4 h (Haverfordwest + bus), Birmingham–
+Aberystwyth ~3 h 05, London–Caernarfon ~4 h 15 (Bangor + bus), Belfast–Newtownards ~1 h, Belfast–Newcastle ~1 h 25,
+Belfast–Armagh ~1 h 20, Belfast–Enniskillen ~2 h 15. Run once."""
+from uk_c_common import H, R, C, day, run, FREE, DAY, NEAR, FIRST, NI
+
+WA, NIR = '웨일스', '북아일랜드'
+CWL = "['Cardiff (CWL)', '카디프 공항 (CWL)', '카디프|Cardiff']"
+BFS = "['Belfast International (BFS)', '벨파스트 국제공항 (BFS)', '벨파스트|Belfast'], ['George Best Belfast City (BHD)', '조지 베스트 벨파스트 시티 공항 (BHD)', '벨파스트|Belfast']"
+
+CITIES = [
+    C(id='swansea', group_title=WA, after='cardiff', ko='스완지·고워 반도', en='Swansea & Gower', native='Swansea / Abertawe', lat=51.6214, lng=-3.9436,
+      blurb=['웨일스 제2의 도시로 시인 딜런 토머스의 고향입니다. 서쪽으로 1956년 영국 최초의 자연 경관 보호 지역이 된 고워 반도의 해변과 절벽이 이어집니다.',
+             'Wales’s second city and Dylan Thomas’s hometown; to the west stretch the beaches and cliffs of Gower, the UK’s first Area of Outstanding Natural Beauty (1956).'],
+      highlights=[
+          H('멈블스', 'Mumbles', '스완지만 끝의 해변 마을로, 잔교와 오이스터머스 성 폐허가 있습니다.', 'The seaside village at the end of Swansea Bay, with its pier and the ruins of Oystermouth Castle.', 'Mumbles Pier', 90, 120, b='no', n=FREE),
+          H('로실리 베이와 웜스 헤드', 'Rhossili Bay & Worm’s Head', '고워 반도 끝의 긴 모래 해변과, 썰물 때만 건너는 용 모양 곶입니다.', 'The long sandy bay at the tip of Gower and the dragon-shaped headland reached only at low tide.', 'Rhossili Bay', 150, 240, group=DAY, b='no', n='웜스 헤드는 물때를 꼭 확인하세요.|Always check the tide times for Worm’s Head.'),
+          H('스리 클리프스 베이', 'Three Cliffs Bay', '세 개의 뾰족한 바위 절벽이 선 고워 반도의 해변입니다.', 'A Gower beach framed by three pointed limestone cliffs.', 'Three Cliffs Bay', 90, 150, group=DAY, b='no', n=FREE),
+          H('딜런 토머스 센터', 'Dylan Thomas Centre', '스완지 출신 시인 딜런 토머스의 삶과 작품을 보여 주는 무료 전시관입니다.', 'A free exhibition on the life and work of Swansea-born poet Dylan Thomas.', 'Dylan Thomas Centre', 45, 60, b='no', n=FREE),
+          H('국립 해안 박물관', 'National Waterfront Museum', '웨일스 산업 혁명의 역사를 보여 주는 무료 박물관입니다.', 'A free museum on the story of industry in Wales.', 'National Waterfront Museum', 60, 90, b='no', n=FREE),
+      ],
+      hubs=f"    air: [{CWL}],\n    rail: [['Swansea', '스완지역']],\n",
+      itinerary={'days': [['', 4, 5, 1]], 'trips': [['고워 반도|Gower', 3, 2]]},
+      season='해변을 즐기려면 6~9월이 좋습니다.|June–September for the beaches.',
+      stay=[('시내와 해안', 'City & seafront', 'Swansea Marina', FIRST, '역과 박물관이 가깝고 멈블스행 버스가 다닙니다.|Near the station and museums, with buses to Mumbles.'),
+            ('멈블스', 'Mumbles', 'Mumbles', '바다 가까이|By the sea', '해변 마을에 묵으며 고워로 나갑니다.|Stay by the sea, handy for Gower.')],
+      routes=[R('cardiff', 'swansea', 'train', 55)],
+      transit=dict(modes=['bus', 'walk', 'train'], ko='시내와 멈블스, 고워는 버스로 잇습니다.', en='Buses link the city, Mumbles and Gower.')),
+    C(id='brecon-beacons', group_title=WA, after='swansea', ko='브레콘 비컨스', en='Brecon Beacons', native='Bannau Brycheiniog (Brecon)', lat=51.9480, lng=-3.3910,
+      blurb=['웨일스어로 ‘반나우 브리케이니오그’라 불리는 국립공원으로, 남부 영국에서 가장 높은 펜 이 판 봉우리와 폭포 지대가 있습니다. 거점 마을은 브레콘입니다.',
+             'The national park now called Bannau Brycheiniog, with Pen y Fan, the highest peak in southern Britain, and the Waterfall Country; Brecon is the base town.'],
+      highlights=[
+          H('펜 이 판', 'Pen y Fan', '해발 886m로 남부 영국에서 가장 높은 봉우리로, 왕복 반나절 산행입니다.', 'At 886 m the highest peak in southern Britain, a half-day hike there and back.', 'Pen y Fan', 180, 240, b='no', n=FREE),
+          H('폭포 지대', 'Waterfall Country', '숲속 골짜기에 폭포가 이어진 지역으로, 스구드 이르 에이라 폭포는 물줄기 뒤로 걸어 지나갑니다.', 'Wooded valleys full of falls; at Sgwd yr Eira you walk behind the water.', 'Sgwd yr Eira', 180, 240, group=NEAR, b='no', n=FREE),
+          H('브레콘 대성당', 'Brecon Cathedral', '언덕 위의 중세 대성당과 유산 센터입니다.', 'The medieval hilltop cathedral and its heritage centre.', 'Brecon Cathedral', 30, 45, b='no', n=FREE),
+          H('빅 핏 국립 석탄 박물관', 'Big Pit National Coal Museum', '옛 광부의 안내로 지하 갱도에 내려가는 무료 박물관으로, 블레너번 산업 경관 세계유산에 속합니다.', 'A free museum where former miners take you underground, part of the Blaenavon industrial World Heritage landscape.', 'Big Pit National Coal Museum', 150, 180, group=DAY, b='no', n=FREE),
+      ],
+      hubs=f"    air: [{CWL}],\n    rail: [['Merthyr Tydfil', '머서티드빌역', '브레콘까지 버스|bus to Brecon'], ['Abergavenny', '애버가베니역', '버스 환승|change to buses']],\n",
+      itinerary={'days': [['', 3, 1], ['', 2]], 'trips': [['빅 핏|Big Pit', 4]]},
+      season='5~9월이 산행에 좋고, 산 위 날씨는 빨리 바뀝니다.|May–September for hiking; mountain weather changes fast.',
+      stay=[('브레콘', 'Brecon', 'Brecon', FIRST, '버스와 식당이 모이는 국립공원 거점 마을입니다.|The park’s base town, with buses and restaurants.')],
+      routes=[R('cardiff', 'brecon-beacons', 'bus', 120, '기차와 버스 환승|train and bus')],
+      transit=dict(modes=['bus', 'walk', 'taxi'], ko='국립공원 안은 버스가 드물어 차가 편합니다.', en='Buses in the park are sparse; a car is easiest.')),
+    C(id='hay-on-wye', group_title=WA, after='brecon-beacons', ko='헤이온와이', en='Hay-on-Wye', native='Hay-on-Wye / Y Gelli Gandryll', lat=52.0740, lng=-3.1250,
+      blurb=['헌책방이 스무 곳 넘게 모여 ‘책의 마을’이라 불리는 잉글랜드와 웨일스 경계의 작은 마을로, 해마다 5~6월 책 축제가 열립니다.',
+             'The little town on the England–Wales border called “the town of books” for its many second-hand bookshops, home of the Hay Festival each May–June.'],
+      highlights=[
+          H('헌책방 거리', 'Bookshops', '골목마다 헌책방이 이어지는 마을 중심으로, 성 앞엔 무인 ‘정직 서점’도 있습니다.', 'Lanes of second-hand bookshops, including the unstaffed “honesty bookshop” below the castle.', 'Richard Booth’s Bookshop', 90, 180, b='no', n=FREE),
+          H('헤이 성', 'Hay Castle', '복원을 마치고 2022년 다시 문을 연 성으로, 전시와 전망대가 있습니다.', 'The castle, reopened in 2022 after restoration, with exhibitions and a viewing platform.', 'Hay Castle', 60, 90),
+          H('와이강 강변', 'River Wye', '마을 아래 강가 산책길로, 카누를 빌려 강을 내려가기도 합니다.', 'The riverside walk below town; canoes can be hired for trips downstream.', 'River Wye Hay-on-Wye', 60, 120, b='no', n=FREE),
+          H('헤이 블러프', 'Hay Bluff', '블랙 마운틴스 끝 언덕으로, 와이 골짜기가 내려다보입니다.', 'The edge of the Black Mountains, looking down over the Wye valley.', 'Hay Bluff', 90, 150, group=NEAR, b='no', n=FREE),
+      ],
+      hubs=f"    air: [{CWL}],\n    rail: [['Hereford', '헤리퍼드역', '버스 약 1시간 10분|about 1 h 10 by bus']],\n",
+      itinerary=[1, 2, 3, 4],
+      season='5월 말~6월 초 책 축제 때 가장 붐비니 숙소를 일찍 잡으세요.|Busiest at the Hay Festival in late May–early June; book early.',
+      stay=[('마을 중심', 'Town centre', 'Hay-on-Wye', FIRST, '책방과 성이 모두 걸어서 닿습니다.|The bookshops and castle all on foot.')],
+      routes=[R('brecon-beacons', 'hay-on-wye', 'bus', 45)],
+      transit=dict(modes=['walk', 'bus'], ko='마을은 걸어서 다니고, 헤리퍼드역과 브레콘까지 버스가 다닙니다.', en='Walk the town; buses run to Hereford station and Brecon.')),
+    C(id='st-davids', group_title=WA, after='tenby', ko='세인트데이비즈', en='St Davids', native='St Davids / Tyddewi', lat=51.8812, lng=-5.2660,
+      blurb=['인구로는 영국에서 가장 작은 도시로, 웨일스의 수호성인 성 데이비드의 대성당이 골짜기에 숨어 있습니다. 펨브로크셔 해안 국립공원의 해변과 섬으로 나가는 거점입니다.',
+             'The UK’s smallest city by population, with the cathedral of St David, patron saint of Wales, tucked into a hollow; a base for the beaches and islands of the Pembrokeshire Coast National Park.'],
+      highlights=[
+          H('세인트데이비즈 대성당', 'St Davids Cathedral', '골짜기에 자리한 보라빛 돌 대성당으로, 중세 순례의 중심지였습니다.', 'The purple-stone cathedral in its hollow, a great medieval pilgrimage site.', 'St Davids Cathedral', 45, 60, b='no', n=FREE),
+          H('주교관 폐허', 'Bishop’s Palace', '대성당 옆의 화려한 중세 주교 궁전 폐허입니다.', 'The ornate ruins of the medieval bishops’ palace beside the cathedral.', 'St Davids Bishop’s Palace', 45, 60),
+          H('화이트샌즈 베이', 'Whitesands Bay', '서핑을 즐기는 넓은 모래 해변입니다.', 'A wide sandy beach popular with surfers.', 'Whitesands Bay', 60, 120, b='no', n=FREE),
+          H('램지섬 보트 투어', 'Ramsey Island boat trips', '섬 주변 바다 동굴과 물살을 보는 보트 투어로, 바다표범과 바닷새를 봅니다.', 'Boat trips round the island’s sea caves and tidal races, with seals and seabirds.', 'St Justinians lifeboat station', 90, 150, b='rec', n='봄~가을에 날씨가 좋을 때 다닙니다.|Run spring to autumn, weather permitting.'),
+      ],
+      hubs=f"    air: [{CWL}],\n    rail: [['Haverfordwest', '해버퍼드웨스트역', '버스 약 40분|about 40 min by bus']],\n",
+      itinerary=[1, 2, 3, 4],
+      season='4~9월이 해안 길과 보트 투어에 좋습니다.|April–September for the coast path and boat trips.',
+      stay=[('도시 중심', 'City centre', 'St Davids', FIRST, '대성당과 식당이 걸어서 닿습니다.|The cathedral and restaurants on foot.')],
+      routes=[R('cardiff', 'st-davids', 'train', 240, '해버퍼드웨스트에서 버스|bus from Haverfordwest'), R('tenby', 'st-davids', 'bus', 120)],
+      transit=dict(modes=['walk', 'bus'], ko='도시는 걸어서 다니고, 해안은 해안 버스를 탑니다.', en='Walk the city; coastal buses serve the beaches.')),
+    C(id='aberystwyth', group_title=WA, after='st-davids', ko='애버리스트위스', en='Aberystwyth', native='Aberystwyth', lat=52.4150, lng=-4.0830,
+      blurb=['카디건만의 대학 해변 도시로, 증기 철도로 데블스 브리지 폭포까지 가고 절벽 케이블 열차로 언덕에 오릅니다. 웨일스 국립 도서관이 있습니다.',
+             'A university seaside town on Cardigan Bay: ride a steam train to the falls at Devil’s Bridge or the cliff railway up the hill; the National Library of Wales is here.'],
+      highlights=[
+          H('레이돌 계곡 철도', 'Vale of Rheidol Railway', '협궤 증기 기차를 타고 골짜기를 따라 데블스 브리지까지 올라갑니다.', 'A narrow-gauge steam railway up the valley to Devil’s Bridge.', 'Vale of Rheidol Railway', 180, 240, n='봄~가을 위주로 운행합니다.|Runs mainly from spring to autumn.'),
+          H('데블스 브리지 폭포', 'Devil’s Bridge Falls', '세 개의 다리가 겹쳐 선 협곡과 폭포를 가파른 계단길로 내려가 봅니다.', 'A gorge spanned by three stacked bridges, with steep steps down past the falls.', 'Devil’s Bridge Falls', 60, 90, group=NEAR),
+          H('콘스티튜션 힐과 절벽 철도', 'Constitution Hill & Cliff Railway', '1896년 개통한 절벽 케이블 열차로 언덕에 올라 카디건만을 내려다봅니다.', 'The cliff railway of 1896 up Constitution Hill, with views over Cardigan Bay.', 'Aberystwyth Cliff Railway', 45, 60),
+          H('웨일스 국립 도서관', 'National Library of Wales', '언덕 위의 국립 도서관으로, 무료 전시실이 있습니다.', 'The national library on the hill, with free exhibitions.', 'National Library of Wales', 45, 60, b='no', n=FREE),
+          H('해안 산책로와 성 폐허', 'Promenade & castle ruins', '해변을 따라 이어진 산책로와 곶 위의 성 폐허입니다.', 'The seafront promenade and the castle ruins on the headland.', 'Aberystwyth Castle', 45, 60, b='no', n=FREE),
+      ],
+      hubs="    air: [['Birmingham (BHX)', '버밍엄 공항 (BHX)', '버밍엄|Birmingham']],\n    rail: [['Aberystwyth', '애버리스트위스역']],\n",
+      itinerary={'days': [['', 5, 3, 4], ['증기 철도|Steam railway', 1, 2]]},
+      season='증기 철도가 다니는 봄~가을이 좋습니다.|Spring to autumn, when the steam railway runs.',
+      stay=[('해안가', 'Seafront', 'Aberystwyth Promenade', FIRST, '역과 해변, 철도가 걸어서 닿습니다.|The station, beach and railways on foot.')],
+      routes=[R('birmingham', 'aberystwyth', 'train', 185)],
+      transit=dict(modes=['walk', 'bus', 'train'], ko='시내는 걸어서 다닙니다.', en='Walk the town.')),
+    C(id='caernarfon', group_title=WA, after='snowdonia', ko='카나번·앵글시', en='Caernarfon & Anglesey', native='Caernarfon', lat=53.1400, lng=-4.2730,
+      blurb=['에드워드 1세가 지은 거대한 성과 성벽이 남은 도시로, 유네스코 세계유산입니다. 메나이 해협 건너 앵글시섬엔 보마리스 성과 등대 절벽이 있습니다.',
+             'A town dominated by Edward I’s mighty castle and walls, a UNESCO World Heritage Site; across the Menai Strait, Anglesey has Beaumaris Castle and lighthouse cliffs.'],
+      highlights=[
+          H('카나번 성', 'Caernarfon Castle', '에드워드 1세가 지은 다각형 탑의 성으로, 웨일스 공 즉위식이 열린 곳입니다. 유네스코 세계유산입니다.', 'Edward I’s castle of polygonal towers, scene of the investiture of the Prince of Wales; a UNESCO World Heritage Site.', 'Caernarfon Castle', 90, 120),
+          H('카나번 성벽', 'Caernarfon town walls', '성과 함께 지은 중세 성벽이 구시가를 둘러싸고 있습니다.', 'Medieval walls built with the castle, encircling the old town.', 'Caernarfon Town Walls', 30, 45, b='no', n=FREE),
+          H('웰시 하이랜드 철도', 'Welsh Highland Railway', '카나번에서 스노든산 기슭을 지나 포스마독까지 가는 협궤 증기 철도입니다.', 'A narrow-gauge steam railway from Caernarfon past Snowdon to Porthmadog.', 'Welsh Highland Railway Caernarfon', 120, 300, n='봄~가을 위주로 운행합니다.|Runs mainly from spring to autumn.'),
+          H('보마리스 성', 'Beaumaris Castle', '앵글시섬의 동심원 구조 성으로, 해자에 둘러싸여 있습니다. 유네스코 세계유산입니다.', 'Anglesey’s moated concentric castle; a UNESCO World Heritage Site.', 'Beaumaris Castle', 60, 90, group=DAY),
+          H('사우스 스택 등대', 'South Stack Lighthouse', '앵글시 서쪽 절벽 섬의 등대로, 바닷새 서식지 전망대가 있습니다.', 'The lighthouse on a cliff islet off Anglesey, with seabird viewpoints.', 'South Stack Lighthouse', 90, 120, group=DAY, b='no', n='절벽 전망대는 무료이고 등대 투어는 계절 운영입니다.|The cliff viewpoints are free; lighthouse tours are seasonal.'),
+      ],
+      hubs="    air: [['Manchester (MAN)', '맨체스터 공항 (MAN)', '맨체스터|Manchester']],\n    rail: [['Bangor', '뱅거역', '카나번까지 버스|bus to Caernarfon']],\n",
+      itinerary={'days': [['', 1, 2]], 'trips': [['앵글시|Anglesey', 4, 5], ['웰시 하이랜드 철도|Welsh Highland Railway', 3]]},
+      season='봄~가을이 좋고, 여름엔 증기 철도가 자주 다닙니다.|Spring to autumn; steam trains run most often in summer.',
+      stay=[('성벽 안 구시가', 'Old town inside the walls', 'Caernarfon', FIRST, '성과 항구, 철도역이 걸어서 닿습니다.|The castle, harbour and railway on foot.')],
+      routes=[R('london', 'caernarfon', 'train', 255, '뱅거에서 버스|bus from Bangor'), R('conwy', 'caernarfon', 'bus', 60)],
+      transit=dict(modes=['walk', 'bus', 'train'], ko='구시가는 걸어서 다니고, 앵글시는 버스로 갑니다.', en='Walk the old town; take buses to Anglesey.')),
+    # —— Northern Ireland ——
+    C(id='strangford-lough', group_title=NIR, after='belfast', ko='스트랭포드 호수', en='Strangford Lough', native='Strangford Lough (Newtownards)', lat=54.5917, lng=-5.6930,
+      blurb=['벨파스트 남동쪽의 바다 호수로, 내셔널 트러스트 정원 마운트 스튜어트와 ‘왕좌의 게임’ 윈터펠 촬영지 캐슬 워드가 호숫가에 있습니다.',
+             'The sea lough south-east of Belfast, lined with the National Trust gardens of Mount Stewart and Castle Ward, Winterfell in Game of Thrones.'],
+      highlights=[
+          H('마운트 스튜어트', 'Mount Stewart', '호숫가 저택과 이국적인 정원으로, 내셔널 트러스트가 관리합니다.', 'A lakeside house with exotic gardens, cared for by the National Trust.', 'Mount Stewart', 120, 180),
+          H('스크라보 탑', 'Scrabo Tower', '뉴타우너즈 위 언덕의 탑으로, 호수와 섬들이 내려다보입니다.', 'The tower on the hill above Newtownards, looking over the lough and its islands.', 'Scrabo Tower', 60, 90, b='no', n=FREE),
+          H('캐슬 워드', 'Castle Ward', '두 양식이 섞인 저택과 영지로, ‘왕좌의 게임’ 윈터펠 장면을 찍었습니다.', 'A house of two styles on a wooded estate, filmed as Winterfell in Game of Thrones.', 'Castle Ward', 150, 180, group=NEAR),
+          H('넨드럼 수도원 유적', 'Nendrum Monastic Site', '호수 섬 위 초기 기독교 수도원 터로, 둥근 탑의 밑동과 돌담이 남아 있습니다.', 'An early Christian monastic site on a lough island, with the stump of a round tower and stone enclosures.', 'Nendrum Monastic Site', 45, 60, b='no', n=FREE),
+      ],
+      hubs=f"    air: [{BFS}],\n    bus: [['Newtownards Bus Station', '뉴타우너즈 버스 정류장', '벨파스트행|to Belfast']],\n",
+      itinerary={'days': [['', 2, 1, 4]], 'trips': [['캐슬 워드|Castle Ward', 3]]},
+      season='정원이 피는 봄~가을이 좋습니다.|Spring to autumn for the gardens.',
+      stay=[('뉴타우너즈', 'Newtownards', 'Newtownards', FIRST, '버스가 모이는 호수 북쪽 끝 마을입니다.|The town at the head of the lough, with bus links.')],
+      routes=[R('belfast', 'strangford-lough', 'bus', 65)],
+      transit=dict(modes=['bus', 'ferry', 'taxi'], ko='호숫가 명소 사이는 버스가 드물어 차가 편하고, 스트랭포드–포타페리 사이엔 차량 페리가 다닙니다.', en='Buses between sights are sparse, so a car helps; a car ferry crosses between Strangford and Portaferry.'),
+      apps=NI,
+      daytrips=[day('belfast', 'strangford-lough', '마운트 스튜어트 정원과 스크라보 탑에서 호수 풍경을 봅니다.|Mount Stewart’s gardens and the view from Scrabo Tower.')]),
+    C(id='newcastle-mourne', group_title=NIR, after='strangford-lough', ko='뉴캐슬·모른 산맥', en='Newcastle & the Mournes', native='Newcastle, County Down', lat=54.2170, lng=-5.8880,
+      blurb=['모른 산맥이 바다로 떨어지는 해변 마을로, 북아일랜드 최고봉 슬리브 도너드와 숲 공원들이 가까이 있습니다.',
+             'A seaside town where the Mountains of Mourne sweep down to the sea, close to Slieve Donard, Northern Ireland’s highest peak, and two forest parks.'],
+      highlights=[
+          H('뉴캐슬 해변 산책로', 'Newcastle promenade', '모른 산맥을 배경으로 한 긴 해변 산책로입니다.', 'The long seafront promenade with the Mournes as a backdrop.', 'Newcastle Promenade County Down', 45, 60, b='no', n=FREE),
+          H('슬리브 도너드', 'Slieve Donard', '해발 850m로 북아일랜드에서 가장 높은 산으로, 마을에서 바로 오릅니다.', 'Northern Ireland’s highest mountain at 850 m, climbed straight from town.', 'Slieve Donard', 300, 360, b='no', n=FREE),
+          H('톨리모어 숲 공원', 'Tollymore Forest Park', '쉬마나강을 따라 돌다리와 바위가 이어진 숲으로, ‘왕좌의 게임’ 촬영지입니다.', 'Woods along the Shimna River with stone bridges and follies, a Game of Thrones location.', 'Tollymore Forest Park', 90, 150),
+          H('캐슬웰런 숲 공원', 'Castlewellan Forest Park', '호수와 수목원, 미로 정원이 있는 숲 공원입니다.', 'A forest park with a lake, an arboretum and a maze.', 'Castlewellan Forest Park', 90, 150),
+      ],
+      hubs=f"    air: [{BFS}],\n    bus: [['Newcastle Bus Station', '뉴캐슬 버스 정류장', '벨파스트행|to Belfast']],\n",
+      itinerary={'days': [['', 1, 3, 4], ['', 2]]},
+      season='5~9월이 산행에 좋습니다.|May–September for hillwalking.',
+      stay=[('해변가', 'Seafront', 'Newcastle County Down', FIRST, '해변과 산행 출발점이 가깝습니다.|Close to the beach and the mountain paths.')],
+      routes=[R('belfast', 'newcastle-mourne', 'bus', 85)],
+      transit=dict(modes=['bus', 'walk', 'taxi'], ko='마을은 걸어서 다니고, 숲 공원은 버스나 택시로 갑니다.', en='Walk the town; reach the forest parks by bus or taxi.'),
+      apps=NI,
+      daytrips=[day('belfast', 'newcastle-mourne', '모른 산맥 아래 해변 마을을 걷고 톨리모어 숲 공원을 봅니다.|The seaside town below the Mournes and Tollymore Forest Park.')]),
+    C(id='armagh', group_title=NIR, after='newcastle-mourne', ko='아마', en='Armagh', native='Armagh', lat=54.3500, lng=-6.6530,
+      blurb=['성 패트릭이 교회를 세운 아일랜드 기독교의 중심지로, 언덕마다 성공회와 가톨릭의 두 성 패트릭 대성당이 마주 서 있습니다. 천문대와 고대 왕궁 터도 있습니다.',
+             'Ireland’s ecclesiastical capital, where St Patrick founded a church; two St Patrick’s cathedrals, Anglican and Catholic, face each other from rival hills, and there is an observatory and an ancient royal site.'],
+      highlights=[
+          H('성 패트릭 성공회 대성당', 'St Patrick’s Cathedral (Church of Ireland)', '성 패트릭이 교회를 세운 언덕 위 대성당입니다.', 'The cathedral on the hill where St Patrick founded his church.', 'St Patrick’s Cathedral Church of Ireland Armagh', 30, 45),
+          H('성 패트릭 가톨릭 대성당', 'St Patrick’s Cathedral (Roman Catholic)', '맞은편 언덕의 쌍둥이 첨탑 대성당입니다.', 'The twin-spired cathedral on the opposite hill.', 'St Patrick’s Roman Catholic Cathedral Armagh', 30, 45, b='no', n=FREE),
+          H('아마 천문대와 천체 투영관', 'Armagh Observatory & Planetarium', '18세기에 세운 천문대와 천체 투영관입니다.', 'The 18th-century observatory and its planetarium.', 'Armagh Planetarium', 90, 120),
+          H('나반 요새', 'Navan Fort', '고대 얼스터 왕들의 자리로 전해지는 언덕 위 고대 유적입니다.', 'The hilltop ancient site said to be the seat of the kings of Ulster.', 'Navan Fort', 60, 90, group=NEAR),
+      ],
+      hubs=f"    air: [{BFS}],\n    bus: [['Armagh Bus Station', '아마 버스 정류장', '벨파스트행|to Belfast']],\n",
+      itinerary={'days': [['', 1, 2, 3]], 'trips': [['나반 요새|Navan Fort', 4]]},
+      season='1년 내내 다닐 수 있고, 3월 17일 성 패트릭의 날 무렵 행사가 많습니다.|Fine all year, with events around St Patrick’s Day (17 March).',
+      stay=[('시내 중심', 'City centre', 'The Mall Armagh', FIRST, '두 대성당과 천문대가 걸어서 닿습니다.|Both cathedrals and the observatory on foot.')],
+      routes=[R('belfast', 'armagh', 'bus', 80)],
+      transit=dict(modes=['walk', 'bus', 'taxi'], ko='시내는 걸어서 다니고, 나반 요새는 택시가 편합니다.', en='Walk the city; a taxi is easiest for Navan Fort.'),
+      apps=NI,
+      daytrips=[day('belfast', 'armagh', '언덕 위 두 성 패트릭 대성당과 천문대를 봅니다.|The two St Patrick’s cathedrals and the observatory.')]),
+    C(id='enniskillen', group_title=NIR, after='derry', ko='에니스킬렌·퍼매너', en='Enniskillen & Fermanagh', native='Enniskillen', lat=54.3440, lng=-7.6380,
+      blurb=['언 호수 사이 섬 위의 마을로, 퍼매너 호수 지대의 거점입니다. 지하 강이 흐르는 마블 아치 동굴과 둥근 탑이 선 데버니시섬이 있습니다.',
+             'An island town between the Lough Erne lakes, base for Fermanagh’s lakelands, with the Marble Arch Caves and their underground river and the round tower on Devenish Island.'],
+      highlights=[
+          H('에니스킬렌 성', 'Enniskillen Castle', '호숫가의 성으로, 퍼매너 박물관과 연대 박물관이 들어 있습니다.', 'The lakeside castle housing the Fermanagh County Museum and a regimental museum.', 'Enniskillen Castle', 60, 90),
+          H('마블 아치 동굴', 'Marble Arch Caves', '배를 타고 지하 강을 지나는 석회 동굴로, 세계 지질공원에 속합니다.', 'Limestone caves explored partly by boat on an underground river, part of a Global Geopark.', 'Marble Arch Caves', 90, 120, group=NEAR, b='rec', n='봄~가을에 열며 비가 많이 오면 닫습니다.|Open spring to autumn; closes after heavy rain.'),
+          H('데버니시섬', 'Devenish Island', '호수 섬의 수도원 터로, 거의 온전한 둥근 탑이 서 있습니다.', 'A monastic site on a lough island with an almost complete round tower.', 'Devenish Island', 120, 150, group=NEAR, n='여름에 배가 다닙니다.|Boats run in summer.'),
+          H('캐슬 쿨', 'Castle Coole', '신고전주의 저택과 숲 영지로, 내셔널 트러스트가 관리합니다.', 'A Neoclassical mansion in wooded parkland, cared for by the National Trust.', 'Castle Coole', 90, 120),
+      ],
+      hubs="    air: [['City of Derry (LDY)', '데리 공항 (LDY)', '데리|Derry'], " + BFS + "],\n    bus: [['Enniskillen Bus Station', '에니스킬렌 버스 정류장', '벨파스트행|to Belfast']],\n",
+      itinerary={'days': [['', 1, 4]], 'trips': [['마블 아치 동굴|Marble Arch Caves', 2], ['데버니시섬|Devenish Island', 3]]},
+      season='동굴과 섬 배가 다니는 봄~가을이 좋습니다.|Spring to autumn, when the caves and island boats run.',
+      stay=[('시내 중심', 'Town centre', 'Enniskillen', FIRST, '성과 버스 정류장이 걸어서 닿습니다.|The castle and bus station on foot.')],
+      routes=[R('belfast', 'enniskillen', 'bus', 135)],
+      transit=dict(modes=['walk', 'bus', 'taxi', 'ferry'], ko='시내는 걸어서 다니고, 동굴은 차나 택시가 편합니다.', en='Walk the town; a car or taxi is easiest for the caves.'),
+      apps=NI),
+]
+
+
+if __name__ == '__main__':
+    run(CITIES)
