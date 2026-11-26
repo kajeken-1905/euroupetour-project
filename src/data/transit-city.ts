@@ -6823,6 +6823,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  halkidiki: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '반도 사이 버스가 드물어 차가 편합니다.',
+      en: 'Buses between the peninsulas are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  kastoria: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 호숫가는 걸어서 다니고, 프레스파는 차가 필요합니다.',
+      en: 'Walk the town and lakeside; you need a car for Prespa.',
+    },
+    apps: [
+    ],
+  },
+  parga: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해변엔 작은 배가 다닙니다.',
+      en: 'Walk the town; small boats run to the beaches.',
+    },
+    apps: [
+    ],
+  },
+  volos: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '볼로스 시내는 걸어서 다니고, 펠리온 마을은 버스가 드물어 차가 편합니다.',
+      en: 'Walk Volos; buses to Pelion villages are sparse, so a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  skiathos: {
+    modes: ['bus', 'walk', 'ferry', 'taxi'],
+    howTo: {
+      ko: '타운에서 남쪽 해안 해변들까지 버스가 자주 다닙니다.',
+      en: 'Frequent buses run from town along the south-coast beaches.',
+    },
+    apps: [
+    ],
+  },
+  skopelos: {
+    modes: ['bus', 'walk', 'ferry', 'taxi'],
+    howTo: {
+      ko: '타운에서 해변과 글로사까지 버스가 다닙니다.',
+      en: 'Buses run from town to the beaches and Glossa.',
+    },
+    apps: [
+    ],
+  },
+  lefkada: {
+    modes: ['bus', 'walk', 'taxi', 'ferry'],
+    howTo: {
+      ko: '서쪽 해변엔 버스가 드물어 차나 스쿠터가 편합니다.',
+      en: 'Buses to the west-coast beaches are sparse; a car or scooter is easiest.',
+    },
+    apps: [
+    ],
+  },
+  patras: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 리오 다리는 시내버스로 갑니다.',
+      en: 'Walk the centre; city buses go to the Rio bridge.',
+    },
+    apps: [
+    ],
+  },
+  spetses: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해변엔 작은 버스·수상택시가 다닙니다.',
+      en: 'Walk the town; small buses and water taxis run to the beaches.',
+    },
+    apps: [
+    ],
+  },
+  pylos: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해변과 유적은 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the beach and sites.',
+    },
+    apps: [
+    ],
+  },
+  lesbos: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '섬이 커서 마을 사이 버스가 드물어 차가 편합니다.',
+      en: 'The island is large and buses between villages are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  chios: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '매스틱 마을엔 버스가 하루 몇 편이라 차가 편합니다.',
+      en: 'Buses to the mastic villages run a few times a day; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  syros: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '에르무폴리는 걸어서 다니고, 아노 시로스는 버스나 계단으로 오릅니다.',
+      en: 'Walk Ermoupoli; take the bus or the steps up to Ano Syros.',
+    },
+    apps: [
+    ],
+  },
+  tinos: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '마을 사이 버스가 드물어 차나 스쿠터가 편합니다.',
+      en: 'Buses between villages are sparse; a car or scooter is easiest.',
+    },
+    apps: [
+    ],
+  },
+  folegandros: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '항구·초라·아노 메리아를 작은 버스가 잇습니다.',
+      en: 'A small bus links the port, Chora and Ano Meria.',
+    },
+    apps: [
+    ],
+  },
+  amorgos: {
+    modes: ['bus', 'walk', 'ferry', 'taxi'],
+    howTo: {
+      ko: '항구·초라·수도원·에길리를 버스가 잇습니다.',
+      en: 'Buses link the ports, Chora, the monastery and Aegiali.',
+    },
+    apps: [
+    ],
+  },
   athens: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

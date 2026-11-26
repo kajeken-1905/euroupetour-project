@@ -259,6 +259,59 @@ export const STAY: Record<string, StayArea[]> = {
     a('항구 주변', 'Around the harbour', 'Hydra port', '마을에서 묵기|Stay in the village', '돌집 게스트하우스가 많고, 당일 손님이 떠난 저녁 항구가 조용합니다. 짐은 계단을 올라야 해 가볍게 오세요.|Many stone-house guesthouses and a quiet harbour once day-trippers leave; pack light, as there are steps.'),
     a('아테네에서 다녀오기', 'Base in Athens', 'Athens', '거점에서 다녀오기|Day trip from a base', '피레우스에서 고속선으로 약 1시간 30분~2시간입니다. 여름엔 배표를 미리 사세요.|About 1 hr 30–2 hrs by fast boat from Piraeus; book tickets ahead in summer.'),
   ],
+  halkidiki: [
+    a('시토니아(니키티·네오스 마르마라스)', 'Sithonia (Nikiti, Neos Marmaras)', 'Neos Marmaras', '처음이라면|First visit', '조용한 해변이 가깝습니다.|Close to quieter beaches.'),
+    a('우라노폴리', 'Ouranoupoli', 'Ouranoupoli', '아토스 유람선|For Athos cruises', '아토스산 유람선이 출발하는 마을입니다.|The village the Athos cruises leave from.'),
+  ],
+  kastoria: [
+    a('호숫가 구시가', 'Lakeside old town', 'Doltso Kastoria', '처음이라면|First visit', '저택 구역과 호숫가 길이 가깝습니다.|Near the mansions and the lake path.'),
+  ],
+  parga: [
+    a('항구 주변', 'Harbour area', 'Parga', '처음이라면|First visit', '식당과 해변, 성이 걸어서 닿습니다.|Restaurants, beaches and the castle on foot.'),
+  ],
+  volos: [
+    a('볼로스 해안', 'Volos waterfront', 'Volos', '교통이 편한 곳|Convenient', '버스 터미널과 항구가 가깝습니다.|Near the bus station and ferries.'),
+    a('펠리온 산마을', 'Pelion villages', 'Makrinitsa', '산마을 분위기|Village stay', '돌집 게스트하우스가 많고, 차가 있으면 좋습니다.|Stone guesthouses; best with a car.'),
+  ],
+  skiathos: [
+    a('스키아토스 타운', 'Skiathos Town', 'Skiathos', '처음이라면|First visit', '항구와 식당이 모여 있고 해변 버스가 출발합니다.|The harbour and restaurants, and the beach bus starts here.'),
+  ],
+  skopelos: [
+    a('스코펠로스 타운', 'Skopelos Town', 'Skopelos', '처음이라면|First visit', '항구와 식당이 모여 있습니다.|The harbour and restaurants.'),
+  ],
+  lefkada: [
+    a('레프카다 타운', 'Lefkada Town', 'Lefkada', '처음이라면|First visit', '버스 터미널과 식당이 모여 있습니다.|The bus station and restaurants.'),
+    a('니드리', 'Nydri', 'Nydri', '보트 투어|For boat trips', '보트 투어가 출발하는 동쪽 해안 마을입니다.|The east-coast village where boat trips leave.'),
+  ],
+  patras: [
+    a('시내 중심', 'City centre', 'Patras', '처음이라면|First visit', '항구·버스 터미널·성당이 가깝습니다.|Close to the port, bus station and cathedral.'),
+  ],
+  spetses: [
+    a('다피아', 'Dapia', 'Spetses', '처음이라면|First visit', '선착장과 식당이 모여 있습니다.|By the ferry quay and restaurants.'),
+  ],
+  pylos: [
+    a('필로스 항구', 'Pylos harbour', 'Pylos', '처음이라면|First visit', '광장과 식당이 모여 있습니다.|Around the square and restaurants.'),
+  ],
+  lesbos: [
+    a('미틸리니', 'Mytilene', 'Mytilene', '처음이라면|First visit', '공항·항구·버스 터미널이 가깝습니다.|Near the airport, port and bus station.'),
+    a('몰리보스', 'Molyvos', 'Molyvos', '바닷가 마을|Village stay', '돌집 마을과 해변이 가깝습니다.|Stone village by the beach.'),
+  ],
+  chios: [
+    a('키오스 타운', 'Chios Town', 'Chios', '처음이라면|First visit', '항구와 버스 터미널이 가깝습니다.|Near the port and bus station.'),
+  ],
+  syros: [
+    a('에르무폴리', 'Ermoupoli', 'Ermoupoli', '처음이라면|First visit', '항구와 광장이 걸어서 닿습니다.|The port and square on foot.'),
+  ],
+  tinos: [
+    a('티노스 타운', 'Tinos Town', 'Tinos', '처음이라면|First visit', '항구와 성당, 버스 정류장이 가깝습니다.|Near the port, church and buses.'),
+  ],
+  folegandros: [
+    a('초라', 'Chora', 'Chora Folegandros', '처음이라면|First visit', '식당과 광장이 모여 있습니다.|Around the squares and restaurants.'),
+  ],
+  amorgos: [
+    a('카타폴라', 'Katapola', 'Katapola', '처음이라면|First visit', '주 항구로 초라행 버스가 출발합니다.|The main port, with buses up to Chora.'),
+    a('에길리', 'Aegiali', 'Aegiali', '해변과 산길|Beach & trails', '해변과 산길이 가까운 북쪽 마을입니다.|The northern village, close to the beach and trails.'),
+  ],
   athens: [
     a('플라카', 'Plaka', 'Plaka, Athens', '처음 가는 여행에 추천|Best for a first visit', '아크로폴리스 아래 옛 동네로 걷기 좋습니다. 숙박비와 식당 값이 높은 편입니다.|The old quarter under the Acropolis, good on foot; rooms and restaurants cost more.'),
     a('모나스티라키', 'Monastiraki', 'Monastiraki, Athens', '짧은 여행에 편리|Handy for a short stay', '시장과 식당, 아크로폴리스가 가깝고 활기찹니다. 잠귀가 밝다면 피하세요.|Markets, food and the Acropolis close by; lively, so not for light sleepers.'),

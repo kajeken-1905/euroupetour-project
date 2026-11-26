@@ -2,8 +2,24 @@ import type { RawItinerary } from './itinerary-helper'
 
 /** Greece, Cyprus, the Balkans, Türkiye, Bulgaria, Romania, the Caucasus, Ukraine, Moldova and Northern Cyprus. */
 export const itinerarySouth: Record<string, RawItinerary> = {
-  meteora: [1, 2, 3, 4, 6, 5],
-  delphi: { days: [['', 4, 1, 3, 2]], trips: [['아라호바|Arachova', 5]] },
+  halkidiki: {"days": [["", 1, 2]], "trips": [["아토스산 유람선|Mount Athos cruise", 3], ["페트랄로나 동굴|Petralona Cave", 4]]},
+  kastoria: {"days": [["", 1, 3, 2, 4]], "trips": [["프레스파 호수|Prespa Lakes", 5]]},
+  parga: {"days": [["", 1, 2]], "trips": [["아케론강과 네크로만테이온|Acheron & Necromanteion", 3, 4]]},
+  volos: {"days": [["", 1, 2], ["", 3]], "trips": [["펠리온 산악 열차|Pelion train", 4]]},
+  skiathos: {"days": [["", 1, 2], ["", 3, 4]]},
+  skopelos: {"days": [["", 1], ["", 2, 3, 4]]},
+  lefkada: {"days": [["", 1], ["", 2, 3]], "trips": [["니드리 보트 투어|Nydri boat trip", 4]]},
+  patras: {"days": [["", 1, 2]], "trips": [["리오 다리와 와이너리|Rio bridge & winery", 3, 4]]},
+  spetses: {"days": [["", 1, 2, 3], ["", 4]]},
+  pylos: {"days": [["", 1, 4], ["", 3, 2]]},
+  lesbos: {"days": [["", 1]], "trips": [["아야소스|Agiasos", 4], ["몰리보스|Molyvos", 2], ["화석 숲과 시그리|Petrified forest & Sigri", 3]]},
+  chios: {"days": [["", 5]], "trips": [["네아 모니|Nea Moni", 1], ["매스틱 마을|Mastic villages", 4, 2, 3]]},
+  syros: [1, 2, 3, 4],
+  tinos: {"days": [["", 1], ["", 2, 3, 4]]},
+  folegandros: {"days": [["", 1, 2], ["", 3, 4]]},
+  amorgos: {"days": [["", 1, 3, 2], ["", 4]]},
+  meteora: [1, 2, 3, 4, 6, 7, 5],
+  delphi: { days: [['', 4, 1, 3, 2]], trips: [['아라호바|Arachova', 5], ['호시오스 루카스|Hosios Loukas', 6]] },
   sounion: [4, 3, 5, 1, 2],
   zakynthos: {
     days: [['', 4]],
@@ -15,18 +31,18 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   },
   olympia: [5, 1, 3, 4, 2],
   chania: {
-    days: [['', 1, 6, 2]],
+    days: [['', 1, 6, 2, 7]],
     trips: [
       ['발로스 석호|Balos Lagoon', 3],
       ['엘라포니시|Elafonisi', 4],
       ['사마리아 협곡|Samaria Gorge', 5],
     ],
   },
-  naxos: { days: [['', 1, 2, 3]], trips: [['데메테르 신전과 할키|Temple of Demeter & Chalki', 5, 4]] },
+  naxos: { days: [['', 1, 2, 3]], trips: [['데메테르 신전·할키·아피란토스|Temple of Demeter, Chalki & Apeiranthos', 5, 4, 6]] },
   athens: {
     days: [
-      ['아크로폴리스와 플라카|Acropolis & Plaka', 1, 2, 11, 3, 12, 4, 5, 14],
-      ['신타그마와 콜로나키|Syntagma & Kolonaki', 6, 16, 7, 8, 13, 17, 10],
+      ['아크로폴리스와 플라카|Acropolis & Plaka', 1, 2, 11, 3, 12, 20, 4, 5, 14],
+      ['신타그마와 콜로나키|Syntagma & Kolonaki', 6, 16, 7, 8, 13, 21, 17, 10],
       ['박물관과 시장|Museums & market', 9, 18, 15],
     ],
     trips: [['스타브로스 니아르코스 센터|SNF Cultural Center', 19]],
@@ -34,12 +50,12 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   aegina: [2, 5, 1, 3, 4],
   hydra: [1, 2, 3, 4, 5],
   santorini: { days: [['피라·이메로비글리와 오이아|Fira, Imerovigli & Oia', 2, 6, 1], ['남쪽: 유적과 와이너리|The south: ruins & wineries', 4, 3, 7, 8, 5]] },
-  heraklion: { days: [['', 2, 5, 7, 4, 3, 6]], trips: [['크노소스|Knossos', 1]] },
+  heraklion: { days: [['', 2, 5, 7, 4, 3, 8, 6]], trips: [['크노소스|Knossos', 1], ['파이스토스|Phaistos', 9]] },
   mykonos: { days: [['', 3, 6, 1, 2, 4]], trips: [['델로스|Delos', 5]] },
   kalamata: { days: [['', 1, 2, 3]], trips: [['고대 메세니|Ancient Messene', 4], ['미스트라스|Mystras', 5], ['마니 반도|The Mani', 6]] },
   monemvasia: [1, 2, 3, 4],
   kavala: { days: [['', 1, 2, 3, 4]], trips: [['필리피|Philippi', 5], ['타소스섬|Thasos', 6]] },
-  ioannina: { days: [['', 1, 2, 3, 4]], trips: [['자고리와 비코스 협곡|Zagori & the Vikos Gorge', 5]] },
+  ioannina: { days: [['', 1, 2, 3, 4]], trips: [['자고리와 비코스 협곡|Zagori & the Vikos Gorge', 5], ['도도나|Dodona', 6]] },
   kefalonia: { days: [['', 1, 2, 3], ['', 4, 5, 6]] },
   paros: { days: [['', 1, 2, 4, 3, 5]], trips: [['안티파로스|Antiparos', 6]] },
   milos: { days: [['', 1, 4, 3, 2]], trips: [['클레프티코 보트 투어|Kleftiko boat trip', 5]] },
@@ -48,8 +64,8 @@ export const itinerarySouth: Record<string, RawItinerary> = {
   symi: [1, 2, 3],
   kos: { days: [['', 1, 2, 3, 4, 5]] },
   patmos: [4, 2, 1, 3],
-  rhodes: { days: [['', 4, 1, 6, 2, 7, 8]], trips: [['참비카 해변과 린도스|Tsambika & Lindos', 5, 3]] },
-  thessaloniki: { days: [['해안과 시장|Seafront & markets', 2, 10, 1, 5, 8, 9], ['로마 유적과 윗마을|Roman sites & the Upper Town', 6, 4, 7, 3]] },
+  rhodes: { days: [['', 4, 1, 6, 2, 7, 8]], trips: [['칼리테아 온천|Kallithea Springs', 9], ['참비카 해변과 린도스|Tsambika & Lindos', 5, 3]] },
+  thessaloniki: { days: [['해안과 시장|Seafront & markets', 2, 10, 11, 1, 5, 8, 9], ['로마 유적과 윗마을|Roman sites & the Upper Town', 6, 4, 7, 3]], trips: [['베르기나|Vergina', 12]] },
   corfu: {
     days: [['', 9, 3, 6, 1, 2, 8, 7]],
     trips: [
@@ -57,7 +73,7 @@ export const itinerarySouth: Record<string, RawItinerary> = {
       ['팔레오카스트리차|Paleokastritsa', 4],
     ],
   },
-  nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['미케네와 에피다우로스|Mycenae & Epidaurus', 6, 7], ['네메아|Nemea', 8]] },
+  nafplio: { days: [['', 3, 4, 1, 5, 2]], trips: [['티린스와 미케네|Tiryns & Mycenae', 9, 6], ['에피다우로스|Epidaurus', 7], ['네메아|Nemea', 8]] },
   zagreb: [4, 11, 3, 7, 10, 9, 6, 13, 1, 2, 15, 8, 14, 12, 5, 16],
   dubrovnik: {
     days: [

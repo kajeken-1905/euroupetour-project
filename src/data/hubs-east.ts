@@ -136,6 +136,77 @@ export const hubsEast: Record<string, RawCityHubs> = {
     port: [['Port of Rhodes', '로도스 항구', '피레우스·도데카네스 제도·튀르키예행|ferries to Piraeus, the Dodecanese and Türkiye']],
   },
 
+  halkidiki: {
+    air: [['Thessaloniki Makedonia (SKG)', '테살로니키 마케도니아 공항 (SKG)', '테살로니키|Thessaloniki']],
+    bus: [['Nikiti bus stop', '니키티 버스 정류장', '테살로니키행|to Thessaloniki']],
+    port: [['Ouranoupoli port', '우라노폴리 항구', '아토스산 유람선|Mount Athos cruises']],
+  },
+  kastoria: {
+    air: [['Thessaloniki Makedonia (SKG)', '테살로니키 마케도니아 공항 (SKG)', '테살로니키|Thessaloniki']],
+    bus: [['KTEL Kastoria', '카스토리아 KTEL 버스터미널', '테살로니키·아테네행|to Thessaloniki, Athens']],
+  },
+  parga: {
+    air: [['Aktion National (PVK)', '프레베자(악티오) 공항 (PVK)', '프레베자|Preveza']],
+    bus: [['KTEL Parga', '파르가 버스 정류장', '이오안니나·프레베자행|to Ioannina, Preveza']],
+  },
+  volos: {
+    air: [['Thessaloniki Makedonia (SKG)', '테살로니키 마케도니아 공항 (SKG)', '테살로니키|Thessaloniki'], ATH()],
+    bus: [['KTEL Volos', '볼로스 KTEL 버스터미널', '아테네·테살로니키행|to Athens, Thessaloniki']],
+    port: [['Port of Volos', '볼로스 항구', '스키아토스·스코펠로스행|ferries to Skiathos, Skopelos']],
+  },
+  skiathos: {
+    air: [['Skiathos (JSI)', '스키아토스 공항 (JSI)']],
+    port: [['Port of Skiathos', '스키아토스 항구', '볼로스·스코펠로스행|ferries to Volos, Skopelos']],
+  },
+  skopelos: {
+    air: [['Skiathos (JSI)', '스키아토스 공항 (JSI)', '배로 스키아토스 경유|via Skiathos by boat']],
+    port: [['Port of Skopelos', '스코펠로스 항구', '스키아토스·볼로스행|ferries to Skiathos, Volos']],
+  },
+  lefkada: {
+    air: [['Aktion National (PVK)', '프레베자(악티오) 공항 (PVK)', '프레베자|Preveza']],
+    bus: [['KTEL Lefkada', '레프카다 KTEL 버스터미널', '아테네행|to Athens']],
+    port: [['Nydri port', '니드리 항구', '메가니시행·보트 투어|Meganisi, boat trips']],
+  },
+  patras: {
+    air: [ATH()],
+    bus: [['KTEL Achaia', '파트라스 KTEL 버스터미널', '아테네행|to Athens']],
+    port: [['Port of Patras', '파트라스 항구', '이탈리아(바리·안코나·베네치아)·이오니아 섬행|ferries to Italy and the Ionian islands']],
+  },
+  spetses: {
+    air: [ATH()],
+    port: [['Dapia port', '다피아 항구', '피레우스·이드라행 쾌속선|fast boats to Piraeus, Hydra']],
+  },
+  pylos: {
+    air: [['Kalamata (KLX)', '칼라마타 공항 (KLX)', '칼라마타|Kalamata'], ATH()],
+    bus: [['Pylos bus station', '필로스 버스 정류장', '칼라마타·아테네행|to Kalamata, Athens']],
+  },
+  lesbos: {
+    air: [['Mytilene (MJT)', '미틸리니 공항 (MJT)']],
+    bus: [['KTEL Lesvos', '미틸리니 KTEL 버스터미널', '몰리보스·시그리행|to Molyvos, Sigri']],
+    port: [['Port of Mytilene', '미틸리니 항구', '피레우스·키오스·튀르키예 아이발리크행|ferries to Piraeus, Chios, Ayvalık']],
+  },
+  chios: {
+    air: [['Chios (JKH)', '키오스 공항 (JKH)']],
+    bus: [['KTEL Chios', '키오스 KTEL 버스터미널', '피르기·메스타행|to Pyrgi, Mesta']],
+    port: [['Port of Chios', '키오스 항구', '피레우스·레스보스·튀르키예 체슈메행|ferries to Piraeus, Lesbos, Çeşme']],
+  },
+  syros: {
+    air: [['Syros (JSY)', '시로스 공항 (JSY)']],
+    bus: [['Ermoupoli bus station', '에르무폴리 버스 정류장', '섬 해변행|to the island beaches']],
+    port: [['Port of Syros', '시로스 항구', '피레우스·미코노스·티노스행|ferries to Piraeus, Mykonos, Tinos']],
+  },
+  tinos: {
+    air: [ATH()],
+    port: [['Port of Tinos', '티노스 항구', '라피나·피레우스·미코노스행|ferries to Rafina, Piraeus, Mykonos']],
+  },
+  folegandros: {
+    air: [['Santorini (JTR)', '산토리니 공항 (JTR)', '배로 산토리니 경유|via Santorini by boat']],
+    port: [['Karavostasis port', '카라보스타시스 항구', '산토리니·밀로스·피레우스행|ferries to Santorini, Milos, Piraeus']],
+  },
+  amorgos: {
+    air: [['Naxos (JNX)', '낙소스 공항 (JNX)', '배로 낙소스 경유|via Naxos by boat']],
+    port: [['Katapola port', '카타폴라 항구', '낙소스·피레우스행|ferries to Naxos, Piraeus'], ['Aegiali port', '에길리 항구', '북쪽 항구|northern port']],
+  },
   // —— cy ——
   kalamata: {
     air: [['Kalamata (KLX)', '칼라마타 공항 (KLX)', '여름철 국제선 위주|mostly summer international flights']],

@@ -1,0 +1,314 @@
+{
+"halkidiki-h1": [
+"Kavourotrypes beach",
+"Sithonia beaches"
+],
+"halkidiki-h2": [
+"Afytos Halkidiki",
+"Afytos"
+],
+"halkidiki-h3": [
+"Ouranoupoli",
+"Mount Athos cruise"
+],
+"halkidiki-h4": [
+"Petralona Cave",
+"Petralona Cave"
+],
+"kastoria-h1": [
+"Panagia Mavriotissa Kastoria",
+"Lake Orestiada & Mavriotissa Monastery"
+],
+"kastoria-h2": [
+"Byzantine Museum of Kastoria",
+"Byzantine Museum of Kastoria"
+],
+"kastoria-h3": [
+"Doltso Kastoria",
+"Doltso & Apozari quarters"
+],
+"kastoria-h4": [
+"Dragon's Cave Kastoria",
+"Dragon's Cave"
+],
+"kastoria-h5": [
+"Agios Achilleios Prespa",
+"Prespa Lakes"
+],
+"parga-h1": [
+"Parga Castle",
+"Venetian Castle"
+],
+"parga-h2": [
+"Valtos Beach Parga",
+"Valtos Beach"
+],
+"parga-h3": [
+"Acheron Springs, Glyki",
+"Springs of the Acheron"
+],
+"parga-h4": [
+"Necromanteion, Mesopotamos",
+"Necromanteion of Acheron"
+],
+"volos-h1": [
+"Argonafton Volos",
+"Volos waterfront"
+],
+"volos-h2": [
+"Athanasakeio Archaeological Museum",
+"Athanasakeio Archaeological Museum"
+],
+"volos-h3": [
+"Makrinitsa",
+"Makrinitsa"
+],
+"volos-h4": [
+"Ano Lechonia railway station",
+"Pelion train"
+],
+"skiathos-h1": [
+"Bourtzi Skiathos",
+"Skiathos Town & Bourtzi"
+],
+"skiathos-h2": [
+"Koukounaries Beach",
+"Koukounaries Beach"
+],
+"skiathos-h3": [
+"Lalaria Beach",
+"Lalaria Beach"
+],
+"skiathos-h4": [
+"Kastro Skiathos",
+"Kastro & Evangelistria Monastery"
+],
+"skopelos-h1": [
+"Skopelos Town",
+"Skopelos Town"
+],
+"skopelos-h2": [
+"Agios Ioannis Kastri, Skopelos",
+"Agios Ioannis Kastri"
+],
+"skopelos-h3": [
+"Glossa, Skopelos",
+"Glossa"
+],
+"skopelos-h4": [
+"Panormos Beach Skopelos",
+"Skopelos beaches"
+],
+"lefkada-h2": [
+"Porto Katsiki",
+"Porto Katsiki"
+],
+"lefkada-h3": [
+"Cape Lefkada lighthouse",
+"Cape Lefkatas lighthouse"
+],
+"lefkada-h4": [
+"Nydri, Lefkada",
+"Nydri & boat trips"
+],
+"patras-h1": [
+"Agios Andreas Patras",
+"Saint Andrew’s Cathedral"
+],
+"patras-h2": [
+"Patras Castle",
+"Patras Castle & Roman Odeon"
+],
+"patras-h3": [
+"Rio–Antirrio Bridge",
+"Rio–Antirrio Bridge"
+],
+"patras-h4": [
+"Achaia Clauss",
+"Achaia Clauss winery"
+],
+"spetses-h1": [
+"Old Harbour, Spetses",
+"Dapia & Old Harbour"
+],
+"spetses-h2": [
+"Bouboulina Museum",
+"Bouboulina Museum"
+],
+"spetses-h3": [
+"Spetses Museum",
+"Spetses Museum"
+],
+"spetses-h4": [
+"Agioi Anargyroi beach Spetses",
+"Agioi Anargyroi beach"
+],
+"pylos-h1": [
+"Niokastro Pylos",
+"Niokastro"
+],
+"pylos-h2": [
+"Voidokilia Beach",
+"Voidokilia Beach"
+],
+"pylos-h3": [
+"Palace of Nestor",
+"Palace of Nestor"
+],
+"pylos-h4": [
+"Methoni Castle",
+"Methoni Castle"
+],
+"lesbos-h1": [
+"Castle of Mytilene",
+"Mytilene Castle"
+],
+"lesbos-h2": [
+"Castle of Molyvos",
+"Molyvos"
+],
+"lesbos-h3": [
+"Natural History Museum of the Lesvos Petrified Forest",
+"Petrified Forest of Lesbos"
+],
+"lesbos-h4": [
+"Agiasos",
+"Agiasos"
+],
+"chios-h1": [
+"Nea Moni, Chios",
+"Nea Moni"
+],
+"chios-h2": [
+"Pyrgi Chios",
+"Pyrgi"
+],
+"chios-h3": [
+"Mesta, Chios",
+"Mesta"
+],
+"chios-h4": [
+"Chios Mastic Museum",
+"Chios Mastic Museum"
+],
+"chios-h5": [
+"Kampos, Chios",
+"Kambos"
+],
+"syros-h1": [
+"Miaoulis Square",
+"Miaoulis Square & Town Hall"
+],
+"syros-h2": [
+"Apollo Theatre, Ermoupoli",
+"Apollo Theatre"
+],
+"syros-h3": [
+"Agios Nikolaos, Ermoupoli",
+"Vaporia & Agios Nikolaos"
+],
+"syros-h4": [
+"Ano Syros",
+"Ano Syros"
+],
+"tinos-h1": [
+"Panagia Evangelistria, Tinos",
+"Panagia Evangelistria"
+],
+"tinos-h2": [
+"Museum of Marble Crafts Tinos",
+"Pyrgos & Museum of Marble Crafts"
+],
+"tinos-h3": [
+"Volax Tinos",
+"Volax"
+],
+"tinos-h4": [
+"Tarampados, Tinos",
+"Dovecotes"
+],
+"folegandros-h1": [
+"Chora Folegandros",
+"Chora & Kastro"
+],
+"folegandros-h2": [
+"Panagia Church Folegandros",
+"Church of the Panagia"
+],
+"folegandros-h3": [
+"Ano Meria, Folegandros",
+"Ano Meria"
+],
+"folegandros-h4": [
+"Katergo Beach",
+"Katergo Beach"
+],
+"amorgos-h1": [
+"Hozoviotissa Monastery",
+"Hozoviotissa Monastery"
+],
+"amorgos-h2": [
+"Chora Amorgos",
+"Chora"
+],
+"amorgos-h3": [
+"Agia Anna Amorgos",
+"Agia Anna"
+],
+"amorgos-h4": [
+"Aegiali, Amorgos",
+"Aegiali & hiking trails"
+],
+"athens-h20": [
+"Hadrian's Library Athens",
+"Hadrian's Library"
+],
+"athens-h21": [
+"Byzantine and Christian Museum Athens",
+"Byzantine and Christian Museum"
+],
+"thessaloniki-h11": [
+"Hagia Sophia Thessaloniki",
+"Hagia Sophia"
+],
+"thessaloniki-h12": [
+"Museum of the Royal Tombs of Aigai",
+"Royal Tombs of Aigai (Vergina)"
+],
+"ioannina-h6": [
+"Ancient Theatre of Dodona",
+"Ancient Dodona"
+],
+"meteora-h7": [
+"Agios Nikolaos Anapafsas",
+"Monastery of St Nicholas Anapafsas"
+],
+"delphi-h6": [
+"Hosios Loukas",
+"Hosios Loukas Monastery"
+],
+"nafplio-h9": [
+"Archaeological Site of Tiryns",
+"Tiryns"
+],
+"naxos-h6": [
+"Apeiranthos Naxos",
+"Apeiranthos"
+],
+"rhodes-h9": [
+"Kallithea Springs Rhodes",
+"Kallithea Springs"
+],
+"heraklion-h8": [
+"Historical Museum of Crete",
+"Historical Museum of Crete"
+],
+"heraklion-h9": [
+"Phaistos Palace",
+"Palace of Phaistos"
+],
+"chania-h7": [
+"Splantzia, Chania",
+"Splantzia"
+]
+}

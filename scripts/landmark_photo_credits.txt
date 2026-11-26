@@ -6025,3 +6025,98 @@ highlights/vila-real-2.jpg | https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_
 highlights/almeida-2.jpg | https://commons.wikimedia.org/wiki/File:Muralhas_de_Almeida.jpg | CC BY-SA 3.0 | Alexa Pinto
 highlights/vila-nova-de-milfontes-2.jpg | https://commons.wikimedia.org/wiki/File:Rota_Vicentina_(19614770351).jpg | CC BY 2.0 | Emmanuel Eragne from Athens, Greece
 highlights/marvao-4.jpg | https://commons.wikimedia.org/wiki/File:Cidade_Romana_de_Ammaia_-_Portugal_(45427469695).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/halkidiki.jpg | https://commons.wikimedia.org/wiki/File:Porto_Koufo,Halkidiki-Greece_-_panoramio.jpg | CC BY 3.0 | Moni Monev
+highlights/halkidiki-1.jpg | https://commons.wikimedia.org/wiki/File:Halkidiki_Kavourotrypes_beach_4.jpg | CC BY-SA 4.0 | kallerna
+highlights/halkidiki-2.jpg | https://commons.wikimedia.org/wiki/File:Afytos_Blick_nach_Norden.jpg | CC BY-SA 3.0 | Hombre
+highlights/halkidiki-3.jpg | https://commons.wikimedia.org/wiki/File:Ouranoupolis_tower.jpg | Public domain | Dimkoa
+highlights/halkidiki-4.jpg | https://commons.wikimedia.org/wiki/File:Petralona_cave_formations.JPG | CC BY-SA 3.0 | Carlstaffanholmer
+cities/kastoria.jpg | https://commons.wikimedia.org/wiki/File:Kastoria,Greece_-_panoramio.jpg | CC BY-SA 3.0 | George Mitsouras
+highlights/kastoria-1.jpg | https://commons.wikimedia.org/wiki/File:Monastery_of_Panagia_Mavriotissa_(2).jpg | CC BY-SA 4.0 | Geraki
+highlights/kastoria-2.jpg | https://commons.wikimedia.org/wiki/File:Grecia,_doppia_icona_di_san_giorgio_a_rilievo_e_le_sante_marina_e_irene_(forse),_da_kastoria,_xiii_secolo_01.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/kastoria-3.jpg | https://commons.wikimedia.org/wiki/File:Kastoria_5597.jpg | CC BY-SA 4.0 | C messier
+highlights/kastoria-4.jpg | https://commons.wikimedia.org/wiki/File:Dragon.Cave_in_Kastoria.JPG | CC BY-SA 3.0 | Vagrand
+highlights/kastoria-5.jpg | https://commons.wikimedia.org/wiki/File:A_boat_on_the_shore_of_Lake_Prespa_at_sunrise_in_Ote%C5%A1evo.jpg | CC BY-SA 4.0 | Smihael
+cities/parga.jpg | https://commons.wikimedia.org/wiki/File:Parga,_Greece_-_panoramio.jpg | CC BY-SA 3.0 | Numenor
+highlights/parga-1.jpg | https://commons.wikimedia.org/wiki/File:Venetian_Castle_from_the_side_of_the_port.jpg | CC BY-SA 4.0 | Tommybee89
+highlights/parga-2.jpg | https://commons.wikimedia.org/wiki/File:Valtos_Beach.JPG | CC BY-SA 3.0 | Sakis Kostaris
+highlights/parga-3.jpg | https://commons.wikimedia.org/wiki/File:Walking_in_the_river_Acheron,_Greece.jpg | CC BY-SA 4.0 | Annatsach
+highlights/parga-4.jpg | https://commons.wikimedia.org/wiki/File:Acheron.jpg | CC BY-SA 4.0 | Dionysisa303
+cities/volos.jpg | https://commons.wikimedia.org/wiki/File:Volos_port_February_2023.jpg | CC BY-SA 4.0 | Khane Rokhl Barazani
+highlights/volos-1.jpg | https://commons.wikimedia.org/wiki/File:Volos_waterfront_daylight7.jpg | CC BY-SA 1.0 | User: (WT-shared) Handrian at  wts wikivoyage
+highlights/volos-2.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_Museum_Volos_Neolithic_clay_figurines_00.jpg | CC BY-SA 4.0 | Heinrich Stürzl
+highlights/volos-3.jpg | https://commons.wikimedia.org/wiki/File:Makrinitsa_Banner.jpg | CC BY-SA 3.0 | Andreas Routsias
+highlights/volos-4.jpg | https://commons.wikimedia.org/wiki/File:20081101-Pelion-Railway.jpg | CC BY-SA 3.0 | ©2008 K. Krallis, SV1XV
+cities/skiathos.jpg | https://commons.wikimedia.org/wiki/File:Skiathos_Harbor,_Greece_(51695986703).jpg | CC BY 2.0 | dronepicr
+highlights/skiathos-1.jpg | https://commons.wikimedia.org/wiki/File:Skiathos_town_from_Agios_Nikolaos_2016.jpg | CC BY-SA 4.0 | Shi Annan
+highlights/skiathos-2.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Koukounaries_Beach,_Skiathos,_Greece_(51694911777).jpg | CC BY 2.0 | dronepicr
+highlights/skiathos-3.jpg | https://commons.wikimedia.org/wiki/File:Lalaria_Skiathos.jpg | CC BY-SA 4.0 | Georgia Valachi
+highlights/skiathos-4.jpg | https://commons.wikimedia.org/wiki/File:Kastro,_Skiathos_-_panoramio.jpg | CC BY-SA 3.0 | arnepetter
+cities/skopelos.jpg | https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Skopelos_city.jpg | CC BY-SA 4.0 | Chris Taklis
+highlights/skopelos-1.jpg | https://commons.wikimedia.org/wiki/File:Grad_Skopelos_sa_brda_-_Skopelos_town_from_hill.JPG | Public domain | Ant83 at Serbian Wikipedia
+highlights/skopelos-2.jpg | https://commons.wikimedia.org/wiki/File:1008_Chapel_of_Agios_Ioannis_in_Skopelos_Photo_by_Giles_Laurent.jpg | CC BY-SA 4.0 | Giles Laurent
+highlights/skopelos-3.jpg | https://commons.wikimedia.org/wiki/File:Glossa._Drinking_and_dining_with_a_view_in_one_of_the_local_caf%C3%A9s_12_002.JPG | Public domain | User: (WT-shared) StaNik at  wts wikivoyage
+highlights/skopelos-4.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Limnonari_Beach,_Skopelos,_Greece_(51696006753).jpg | CC BY 2.0 | dronepicr
+cities/lefkada.jpg | https://commons.wikimedia.org/wiki/File:Lighthouse_Doukato_Lefkada_Greece_2022.jpg | CC BY 4.0 | DominikCK1999
+highlights/lefkada-1.jpg | https://commons.wikimedia.org/wiki/File:20250908-1913_Lefkada_replacement_pontoon_bridge_Faneromeni.jpg | CC0 | Gnurpsnewoel
+highlights/lefkada-2.jpg | https://commons.wikimedia.org/wiki/File:Porto_Katsiki_SF_0001.jpg | CC BY-SA 3.0 | Stefan Fussan
+highlights/lefkada-3.jpg | https://commons.wikimedia.org/wiki/File:Lighthouse_at_Cape_Lefkada.JPG | CC BY-SA 3.0 | Austroungarika
+highlights/lefkada-4.jpg | https://commons.wikimedia.org/wiki/File:Nydri_Lefkada_-_Greece2.jpg | CC BY-SA 2.0 | Thomas Fabian
+cities/patras.jpg | https://commons.wikimedia.org/wiki/File:Roman_Odeon_of_Patras_-_1.jpg | CC BY-SA 4.0 | Annatsach
+highlights/patras-1.jpg | https://commons.wikimedia.org/wiki/File:Cathedral_Agios_Andreas,_Patra_-_2.jpg | CC BY-SA 4.0 | Annatsach
+highlights/patras-2.jpg | https://commons.wikimedia.org/wiki/File:The_Castle_of_Patras_4.jpg | CC BY-SA 4.0 | Nikolaos Kotopoulis
+highlights/patras-3.jpg | https://commons.wikimedia.org/wiki/File:Charilaos_Trikoupis_Bridge_(Rio-Antirrio)_-_panoramio.jpg | CC BY 3.0 | darkobajic
+highlights/patras-4.jpg | https://commons.wikimedia.org/wiki/File:Achaia_Clauss_Winery_-_panoramio_(1).jpg | CC BY-SA 3.0 | aplessas
+cities/spetses.jpg | https://commons.wikimedia.org/wiki/File:Tanker_in_Mpaltizas_Port_on_Spetses,_Greece_(48759945163).jpg | CC BY 2.0 | dronepicr
+highlights/spetses-1.jpg | https://commons.wikimedia.org/wiki/File:Spetses_Old_Port.JPG | CC BY-SA 3.0 | Michrou
+highlights/spetses-2.jpg | https://commons.wikimedia.org/wiki/File:Bouboulina_Russian_engraving_19th_c.jpg | Public domain | 
+highlights/spetses-3.jpg | https://commons.wikimedia.org/wiki/File:Spetses_10.JPG | CC BY-SA 4.0 | Qweasdqwe
+highlights/spetses-4.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Agioi_Anargyri_Beach_on_Spetses,_Greece_(48760377607).jpg | CC BY 2.0 | dronepicr
+cities/pylos.jpg | https://commons.wikimedia.org/wiki/File:Pylos_Tripito_20230925_111456.jpg | CC BY-SA 4.0 | Rigorius
+highlights/pylos-1.jpg | https://commons.wikimedia.org/wiki/File:Scale_model_of_the_Castle_of_Pylos_(Niokastro)_at_Athens_War_Museum_on_November_22,_2022.jpg | CC BY-SA 4.0 | George E. Koronaios
+highlights/pylos-2.jpg | https://commons.wikimedia.org/wiki/File:2022_Voidokilia_Beach_Omega_or_ox_belly_bay.jpg | CC0 | Chris06
+highlights/pylos-3.jpg | https://commons.wikimedia.org/wiki/File:20190508_088_pylos_nestor.jpg | CC BY-SA 4.0 | Jean Housen
+cities/lesbos.jpg | https://commons.wikimedia.org/wiki/File:Lesbos_Mytilene_Fort06.JPG | Public domain | Tedmek
+highlights/lesbos-1.jpg | https://commons.wikimedia.org/wiki/File:Castle_of_Mytilene_16.JPG | CC BY-SA 4.0 | Geraki
+highlights/lesbos-2.jpg | https://commons.wikimedia.org/wiki/File:Molyvos.jpg | CC BY-SA 4.0 | Photograph by Mike Peel (www.mikepeel.net).
+highlights/lesbos-3.jpg | https://commons.wikimedia.org/wiki/File:Petrified_forest_of_Lesbos_11.jpg | CC BY-SA 4.0 | Tomisti
+highlights/lesbos-4.jpg | https://commons.wikimedia.org/wiki/File:Church_building_in_Agiasos,_Lesvos.jpg | CC BY 4.0 | Tzim78
+cities/chios.jpg | https://commons.wikimedia.org/wiki/File:Chios_-_Port_of_Chios.jpg | CC BY 2.0 | Güldem Üstün
+highlights/chios-1.jpg | https://commons.wikimedia.org/wiki/File:Chios_-_Monastery_of_Nea_Moni_-_Mosaic_(1).jpg | CC BY-SA 2.0 | Marmontel
+highlights/chios-2.jpg | https://commons.wikimedia.org/wiki/File:Chios,_Pyrgi,_Theotoukou-church.jpg | CC BY-SA 4.0 | RomkeHoekstra
+highlights/chios-3.jpg | https://commons.wikimedia.org/wiki/File:MestaXiou1.jpg | Public domain | Kostisl
+highlights/chios-4.jpg | https://commons.wikimedia.org/wiki/File:Chios_Aug_2023_12_34_51_851000.jpeg | CC BY-SA 4.0 | Robot8A
+cities/syros.jpg | https://commons.wikimedia.org/wiki/File:Syros_Ano_Syros_u_Ermoupolis140707.jpg | CC BY-SA 3.0 | Hans Peter Schaefer, http://www.reserv-a-rt.de
+highlights/syros-1.jpg | https://commons.wikimedia.org/wiki/File:Miaouli_Square.JPG | CC0 | Zacharias Mitzelos
+highlights/syros-2.jpg | https://commons.wikimedia.org/wiki/File:Oberlin-Apollo_Theatre_(OHPTC)_(8286882863).jpg | CC BY 2.0 | Ohio Office of Redevelopment from Columbus, Ohio, USA
+highlights/syros-3.jpg | https://commons.wikimedia.org/wiki/File:St._Nicolas_and_Vaporia_district,_Syros_island,_Greece_-_panoramio.jpg | CC BY-SA 3.0 | G Da
+highlights/syros-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_Ermoupoli_from_Ano_Syros_2.jpg | CC BY-SA 4.0 | Leeturtle
+cities/tinos.jpg | https://commons.wikimedia.org/wiki/File:Tinos,_Greece_(Unsplash).jpg | CC0 | Matthieu MILLION mcube
+highlights/tinos-1.jpg | https://commons.wikimedia.org/wiki/File:Our_Lady_of_Tinos_10.jpg | CC BY-SA 4.0 | Silvie June
+highlights/tinos-3.jpg | https://commons.wikimedia.org/wiki/File:Volax_Tinos_1907_Postcard.jpg | Public domain | Unknown authorUnknown author
+highlights/tinos-4.jpg | https://commons.wikimedia.org/wiki/File:Dovecotes_amidst_agricultural_terraces,_Tarambados,_Tinos,_Greece_julesvernex2-5.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+cities/folegandros.jpg | https://commons.wikimedia.org/wiki/File:Kastro,_Folegandros,_Greece.jpg | CC BY 4.0 | Etienne O. Dallaire
+highlights/folegandros-1.jpg | https://commons.wikimedia.org/wiki/File:Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_2020-08-20_14_Chora.jpg | CC BY-SA 4.0 | Manfred Werner (Tsui)
+highlights/folegandros-2.jpg | https://commons.wikimedia.org/wiki/File:Panagia_of_Folegandros,_153275.jpg | CC BY-SA 4.0 | Zde
+highlights/folegandros-3.jpg | https://commons.wikimedia.org/wiki/File:Ano_Meria_on_Folegandros,_15M6579.jpg | CC BY-SA 4.0 | Zde
+highlights/folegandros-4.jpg | https://commons.wikimedia.org/wiki/File:Katergo_Beach.jpg | CC BY-SA 4.0 | Irini Papalexi
+cities/amorgos.jpg | https://commons.wikimedia.org/wiki/File:From_Ormos_Aigiali_to_Chora_of_Amorgos,_21M3406.jpg | CC BY-SA 4.0 | Zde
+highlights/amorgos-1.jpg | https://commons.wikimedia.org/wiki/File:Hozoviotissa_2012_a.JPG | Public domain | Apenauta at Italian Wikipedia
+highlights/amorgos-2.jpg | https://commons.wikimedia.org/wiki/File:Chora_of_Amorgos,_church_of_Agioi_Pantes,_084816.jpg | CC BY-SA 4.0 | Zde
+highlights/amorgos-3.jpg | https://commons.wikimedia.org/wiki/File:Agia_Anna_beach,_Amorgos,_18M1567.jpg | CC BY-SA 4.0 | Zde
+highlights/amorgos-4.jpg | https://commons.wikimedia.org/wiki/File:View_of_Aegiali_bay,_Amorgos,_Greece.jpg | Public domain | Dcarters at en.wikipedia
+highlights/athens-20.jpg | https://commons.wikimedia.org/wiki/File:Church_of_Megali_Panagia,_Athens,_20240531_0941_9453.jpg | CC BY 4.0 | Jakub Hałun
+highlights/athens-21.jpg | https://commons.wikimedia.org/wiki/File:Byzantine_and_Christian_Museum_(Athens).jpg | CC BY-SA 4.0 | Yair-haklai
+highlights/thessaloniki-11.jpg | https://commons.wikimedia.org/wiki/File:Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef,_en_regardant_l%27occident_(Hagia_Sophia_-_Ayasofya_Mosque_nave).jpg | Public domain | Gaspare Fossati (artist, 1809-1883)
+highlights/thessaloniki-12.jpg | https://commons.wikimedia.org/wiki/File:Grave_Goods_of_a_9th_century_BCE_aristocratic_woman_buried_near_the_royal_tombs_in_the_necropolis_of_Aigai_04.jpg | CC BY-SA 4.0 | Mary Harrsch
+highlights/ioannina-6.jpg | https://commons.wikimedia.org/wiki/File:D70-0404-dodona.jpg | CC BY-SA 3.0 | Onno Zweers
+highlights/meteora-7.jpg | https://commons.wikimedia.org/wiki/File:Monastery_of_St._Nicholas_Anapausas.jpg | CC BY-SA 4.0 | Patryk Morawiec
+highlights/delphi-6.jpg | https://commons.wikimedia.org/wiki/File:Hosios_Loukas_BW_2017-10-08_14-51-10.jpg | CC BY-SA 3.0 | Berthold Werner
+highlights/nafplio-9.jpg | https://commons.wikimedia.org/wiki/File:The_Mycenean_Acropolis_of_Tiryns_on_30_March_2019.jpg | CC BY-SA 4.0 | George E. Koronaios
+highlights/naxos-6.jpg | https://commons.wikimedia.org/wiki/File:Apeiranthos_Banner_Naxos.jpg | CC BY-SA 4.0 | user:Tango7174
+highlights/rhodes-9.jpg | https://commons.wikimedia.org/wiki/File:Kallithea_(Rhodes)-11436635915.jpg | CC BY 2.0 | someone10x
+highlights/heraklion-8.jpg | https://commons.wikimedia.org/wiki/File:Historical_Museum_of_Crete_04.jpg | CC BY-SA 4.0 | Tomisti
+highlights/heraklion-9.jpg | https://commons.wikimedia.org/wiki/File:Storage_Magazines_Phaistos_Palace.jpg | CC BY 4.0 | Tholos History
+highlights/chania-7.jpg | https://commons.wikimedia.org/wiki/File:St_Rokos_and_Splantzia.JPG | CC0 | C messier
+highlights/pylos-4.jpg | https://commons.wikimedia.org/wiki/File:Methoni_castle_Burtzi.jpg | CC BY-SA 3.0 | Flyax
+highlights/chios-5.jpg | https://europeanheritageawards-archive.eu/laureates-1978-2018/detail/antouaniko-mansion-kampos | PDM 1.0 | 
+highlights/tinos-2.jpg | https://commons.wikimedia.org/wiki/File:House_with_pergola_overlooking_the_town,_Panormos_(Pyrgos),_Tinos,_Greece_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
