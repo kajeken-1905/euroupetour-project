@@ -999,6 +999,75 @@ export const hubsEast: Record<string, RawCityHubs> = {
     bus: [['Denizli Otogarı', '데니즐리 버스터미널', '데니즐리|Denizli']],
   },
 
+  iznik: {
+    air: [['Sabiha Gökçen (SAW)', '사비하 괵첸 공항 (SAW)', '이스탄불|Istanbul']],
+    bus: [['İznik Otogarı', '이즈니크 버스터미널', '부르사·이스탄불행|to Bursa, Istanbul']],
+  },
+  assos: {
+    air: [['Çanakkale (CKZ)', '차나칼레 공항 (CKZ)'], ['Balıkesir Koca Seyit (EDO)', '에드레미트 공항 (EDO)']],
+    bus: [['Ayvacık Otogarı', '아이바즉 버스터미널', '아소스행 미니버스|minibus to Assos']],
+  },
+  cesme: {
+    air: [['İzmir Adnan Menderes (ADB)', '이즈미르 공항 (ADB)']],
+    bus: [['Çeşme Otogarı', '체슈메 버스터미널', '이즈미르행|to İzmir']],
+    port: [['Çeşme Limanı', '체슈메 항구', '그리스 키오스행 페리|ferries to Chios, Greece']],
+  },
+  bergama: {
+    air: [['İzmir Adnan Menderes (ADB)', '이즈미르 공항 (ADB)']],
+    bus: [['Bergama Otogarı', '베르가마 버스터미널', '이즈미르·아이발르크행|to İzmir, Ayvalık']],
+  },
+  kusadasi: {
+    air: [['İzmir Adnan Menderes (ADB)', '이즈미르 공항 (ADB)']],
+    bus: [['Kuşadası Otogarı', '쿠샤다스 버스터미널', '이즈미르·셀추크행|to İzmir, Selçuk']],
+    port: [['Kuşadası Limanı', '쿠샤다스 항구', '크루즈·그리스 사모스행|cruise port, ferries to Samos']],
+  },
+  datca: {
+    air: [['Dalaman (DLM)', '달라만 공항 (DLM)'], ['Milas–Bodrum (BJV)', '밀라스-보드룸 공항 (BJV)']],
+    bus: [['Datça Otogarı', '다트차 버스터미널', '마르마리스행|to Marmaris']],
+    port: [['Körmen İskelesi', '쾨르멘 선착장', '보드룸행 페리|ferry to Bodrum']],
+  },
+  dalyan: {
+    air: [['Dalaman (DLM)', '달라만 공항 (DLM)']],
+    bus: [['Ortaca Otogarı', '오르타자 버스터미널', '달얀행 미니버스|minibus to Dalyan']],
+  },
+  kalkan: {
+    air: [['Dalaman (DLM)', '달라만 공항 (DLM)', '약 1시간 30분|about 1.5 hours']],
+    bus: [['Kalkan Otogarı', '칼칸 버스 정류장', '카쉬·페티예행|to Kaş, Fethiye']],
+  },
+  side: {
+    air: [['Antalya (AYT)', '안탈리아 공항 (AYT)', '약 1시간|about 1 hour']],
+    bus: [['Manavgat Otogarı', '마나브가트 버스터미널', '시데행 미니버스|minibus to Side']],
+  },
+  rize: {
+    air: [['Rize–Artvin (RZV)', '리제-아르트빈 공항 (RZV)'], ['Trabzon (TZX)', '트라브존 공항 (TZX)']],
+    bus: [['Rize Otogarı', '리제 버스터미널', '트라브존·아이데르행|to Trabzon, Ayder']],
+  },
+  sinop: {
+    air: [['Sinop (NOP)', '시노프 공항 (NOP)']],
+    bus: [['Sinop Otogarı', '시노프 버스터미널', '앙카라·삼순행|to Ankara, Samsun']],
+  },
+  amasya: {
+    air: [['Amasya Merzifon (MZH)', '아마시아 메르지폰 공항 (MZH)']],
+    bus: [['Amasya Otogarı', '아마시아 버스터미널', '앙카라·삼순행|to Ankara, Samsun']],
+  },
+  kayseri: {
+    air: [['Kayseri Erkilet (ASR)', '카이세리 공항 (ASR)']],
+    rail: [['Kayseri Garı', '카이세리역']],
+    bus: [['Kayseri Otogarı', '카이세리 버스터미널', '괴레메·앙카라행|to Göreme, Ankara']],
+  },
+  eskisehir: {
+    rail: [['Eskişehir Garı', '에스키셰히르역', '앙카라·이스탄불·콘야행 고속열차|high-speed trains to Ankara, Istanbul, Konya']],
+    bus: [['Eskişehir Otogarı', '에스키셰히르 버스터미널']],
+  },
+  van: {
+    air: [['Van Ferit Melen (VAN)', '반 페리트 멜렌 공항 (VAN)']],
+    bus: [['Van Otogarı', '반 버스터미널']],
+    port: [['Akdamar İskelesi', '아크다마르 선착장', '아크다마르섬행 배|boats to Akdamar Island']],
+  },
+  nemrut: {
+    air: [['Adıyaman (ADF)', '아드야만 공항 (ADF)'], ['Malatya (MLX)', '말라티아 공항 (MLX)']],
+    bus: [['Kâhta Otogarı', '카흐타 버스터미널', '아드야만·샨르우르파행|to Adıyaman, Şanlıurfa']],
+  },
   // —— ge ——
   tbilisi: {
     air: [['Tbilisi Shota Rustaveli (TBS)', '트빌리시 공항 (TBS)']],

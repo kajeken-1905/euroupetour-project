@@ -9194,6 +9194,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— tr ——
+  iznik: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '성벽 안 시내는 작아 걸어서 다닙니다.',
+      en: 'The walled town is small and walkable.',
+    },
+    apps: [
+    ],
+  },
+  assos: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 항구 사이는 걸어서 오르내리고, 바바칼레는 차가 편합니다.',
+      en: 'Walk between village and harbour; a car is easiest for Babakale.',
+    },
+    apps: [
+    ],
+  },
+  cesme: {
+    modes: ['bus', 'walk', 'taxi', 'ferry'],
+    howTo: {
+      ko: '체슈메·알라차트·을르자 사이에 미니버스가 자주 다닙니다.',
+      en: 'Minibuses run often between Çeşme, Alaçatı and Ilıca.',
+    },
+    apps: [
+    ],
+  },
+  bergama: {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 아크로폴리스는 케이블카, 아스클레피온은 택시가 편합니다.',
+      en: 'Walk the town; take the cable car to the acropolis and a taxi to the Asklepion.',
+    },
+    apps: [
+    ],
+  },
+  kusadasi: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '돌무쉬(미니버스)가 해변과 셀추크까지 다닙니다.',
+      en: 'Dolmuş minibuses run to the beaches and Selçuk.',
+    },
+    apps: [
+    ],
+  },
+  datca: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '반도 안 해변과 크니도스는 버스가 드물어 차가 편합니다.',
+      en: 'Buses to the beaches and Knidos are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  dalyan: {
+    modes: ['walk', 'ferry', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해변·유적·온천은 강배로 갑니다.',
+      en: 'Walk the village; river boats go to the beach, ruins and springs.',
+    },
+    apps: [
+    ],
+  },
+  kalkan: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '카쉬·파타라·페티예행 미니버스가 다닙니다.',
+      en: 'Minibuses run to Kaş, Patara and Fethiye.',
+    },
+    apps: [
+    ],
+  },
+  side: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 차가 들어가지 않아 걸어서 다닙니다.',
+      en: 'The old town is car-free; walk.',
+    },
+    apps: [
+    ],
+  },
+  rize: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '아이데르행 미니버스는 여름에 주로 다니며, 계곡 투어를 이용하면 편합니다.',
+      en: 'Minibuses to Ayder run mainly in summer; valley tours are easiest.',
+    },
+    apps: [
+    ],
+  },
+  sinop: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 함실로스와 인제부룬은 택시가 편합니다.',
+      en: 'Walk the town; take a taxi to Hamsilos and İnceburun.',
+    },
+    apps: [
+    ],
+  },
+  amasya: {
+    modes: ['walk', 'taxi', 'bus'],
+    howTo: {
+      ko: '강가 구시가는 걸어서 다니고, 성까지는 택시로 오릅니다.',
+      en: 'Walk the riverside old town; take a taxi up to the castle.',
+    },
+    apps: [
+    ],
+  },
+  kayseri: {
+    modes: ['tram', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '트램이 시내와 버스 터미널을 잇습니다.',
+      en: 'The tram links the centre and the bus station.',
+    },
+    apps: [
+    ],
+  },
+  eskisehir: {
+    modes: ['tram', 'bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '트램이 역과 시내, 오둔파자르 근처를 잇습니다.',
+      en: 'Trams link the station, the centre and Odunpazarı.',
+    },
+    apps: [
+    ],
+  },
+  van: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '성채와 아크다마르 선착장은 돌무쉬나 택시로 갑니다.',
+      en: 'Take a dolmuş or taxi to the fortress and the Akdamar pier.',
+    },
+    apps: [
+    ],
+  },
+  nemrut: {
+    modes: ['taxi', 'bus'],
+    howTo: {
+      ko: '대중교통으로 정상까지 갈 수 없어, 카흐타·카라도우트의 투어나 차를 이용합니다.',
+      en: 'No public transport reaches the summit; take a tour from Kâhta or Karadut, or drive.',
+    },
+    apps: [
+    ],
+  },
   istanbul: {
     modes: ['metro', 'tram', 'bus', 'ferry', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

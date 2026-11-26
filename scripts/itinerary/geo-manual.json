@@ -17925,5 +17925,340 @@
     35.5167,
     24.02245,
     "OSM Nominatim: Σπλάντζια, Δικαστήρια, Άη Γιάννης, Χανιά, Δήμος Χανίων, Περι"
+  ],
+  "istanbul-h28": [
+    41.04272,
+    29.04004,
+    "OSM Nominatim: Beylerbeyi Sarayı, Beylerbeyi Sarayı Tüneli, Beylerbeyi Maha (Wikipedia 24m)"
+  ],
+  "ankara-h9": [
+    39.65254,
+    31.9967,
+    "OSM Nominatim: Gordion Müzesi, Yeniköseler yolu, Karacaahmet, Polatlı, Anka"
+  ],
+  "cesme-h2": [
+    38.28476,
+    26.37452,
+    "OSM Nominatim: Alaçatı Mahallesi, Çeşme, İzmir, Ege Bölgesi, 35937, Türkiye"
+  ],
+  "cesme-h3": [
+    38.30921,
+    26.37725,
+    "OSM Nominatim: Ilıca Plajı, Celal Bayar Mahallesi, Çeşme, İzmir, Ege Bölges"
+  ],
+  "bergama-h1": [
+    39.13206,
+    27.18402,
+    "OSM Nominatim: Pergamon Akropolü, Akropol Caddesi, Ulucami Mahallesi, Berga"
+  ],
+  "bergama-h3": [
+    39.12162,
+    27.18336,
+    "OSM Nominatim: Kızıl Avlu, Kınık Caddesi, İslamsaray Mahallesi, Bergama, İz (Wikipedia 32m)"
+  ],
+  "kusadasi-h1": [
+    37.86343,
+    27.24788,
+    "OSM Nominatim: Güvercinada, Hacıfeyzullah Mahallesi, Kuşadası, Aydın, Ege B"
+  ],
+  "kusadasi-h2": [
+    37.86024,
+    27.25636,
+    "OSM Nominatim: Öküz Mehmet Paşa Kervansarayı, Mahmut Esat Bozkurt Caddesi, "
+  ],
+  "kusadasi-h3": [
+    37.84747,
+    27.24441,
+    "OSM Nominatim: Kadınlar Denizi, Kuşadası, Aydın, Ege Bölgesi, 90400, Türkiy"
+  ],
+  "kusadasi-h4": [
+    37.5831,
+    27.18292,
+    "OSM Nominatim: Dilek Yarımadası Millî Parkı, Aydın, Ege Bölgesi, Türkiye"
+  ],
+  "datca-h1": [
+    36.72265,
+    27.68999,
+    "OSM Nominatim: Datça Limanı, Atatürk Caddesi, İskele, Datça, Muğla, Ege Böl"
+  ],
+  "datca-h2": [
+    36.73912,
+    27.66497,
+    "OSM Nominatim: Eski Datça, Hızırşah, Datça, Muğla, Ege Bölgesi, 48900, Türk"
+  ],
+  "datca-h4": [
+    36.67448,
+    27.50359,
+    "OSM Nominatim: Palamutbükü, Datça, Muğla, Ege Bölgesi, Türkiye"
+  ],
+  "dalyan-h1": [
+    36.83377,
+    28.63434,
+    "OSM Nominatim: Dalyan Kaunos Kaya Mezarları, Sevgi Yolu Sokak, Dalyan, Orta"
+  ],
+  "dalyan-h3": [
+    36.78835,
+    28.62502,
+    "OSM Nominatim: İztuzu Plajı, Ortaca, Muğla, Ege Bölgesi, Türkiye (Wikipedia 621m)"
+  ],
+  "dalyan-h4": [
+    36.87371,
+    28.60262,
+    "OSM Nominatim: Sultaniye Kaplıcaları, Way to Büyükkaraaĝaç, Sultaniye, Köyc"
+  ],
+  "side-h1": [
+    36.76419,
+    31.38671,
+    "OSM Nominatim: Apollon ve Athena Tapınağı, Nergiz Sokak, Side, Manavgat, An"
+  ],
+  "side-h3": [
+    36.76907,
+    31.391,
+    "OSM Nominatim: Side Müzesi, Side Caddesi, Selimiye, Side, Manavgat, Antalya"
+  ],
+  "side-h4": [
+    36.81354,
+    31.45444,
+    "OSM Nominatim: Manavgat Şelalesi, Çayyazı, Manavgat, Antalya, Akdeniz Bölge (Wikipedia 8m)"
+  ],
+  "kalkan-h1": [
+    36.26127,
+    29.41448,
+    "OSM Nominatim: Kalkan Limani, Atatürk Caddesi, Kalkan, Kaş, Antalya, Akdeni"
+  ],
+  "kalkan-h2": [
+    36.22839,
+    29.45002,
+    "OSM Nominatim: Kaputaş Plajı, Kaş - Seydikemer Yolu, Kaş, Antalya, Akdeniz "
+  ],
+  "konya-h7": [
+    37.92821,
+    32.41847,
+    "OSM Nominatim: Sille Mahallesi, Konya, Selçuklu, Konya, İç Anadolu Bölgesi,"
+  ],
+  "kayseri-h1": [
+    38.72114,
+    35.48942,
+    "OSM Nominatim: Kayseri Kalesi, Seyyid Burhanettin Bulvarı, Seyitgazi, Hunat (Wikipedia 20m)"
+  ],
+  "kayseri-h3": [
+    38.72087,
+    35.49102,
+    "OSM Nominatim: Hunat Hatun Külliyesi, Hunat Pasajı, Cumhuriyet Mahallesi, S (Wikipedia 39m)"
+  ],
+  "kayseri-h4": [
+    38.55872,
+    35.4778,
+    "OSM Nominatim: Erciyes Kayak Merkezi, Melikgazi, Kayseri, İç Anadolu Bölges"
+  ],
+  "eskisehir-h1": [
+    39.76511,
+    30.52422,
+    "OSM Nominatim: Odunpazarı Evleri, Kemal Zeytinoğlu Caddesi, Paşa Mahallesi, (Wikipedia 705m)"
+  ],
+  "eskisehir-h2": [
+    39.76484,
+    30.5225,
+    "OSM Nominatim: Modern Sanat Müzesi, Atatürk Bulvarı, Şarkiye Mahallesi, Esk"
+  ],
+  "eskisehir-h4": [
+    39.76121,
+    30.64816,
+    "OSM Nominatim: Porsuk Çayı, Yassıhöyük, Odunpazarı, Eskişehir, İç Anadolu B"
+  ],
+  "iznik-h2": [
+    40.43037,
+    29.72886,
+    "OSM Nominatim: Yeşil Camii, İznik, Bursa, Marmara Bölgesi, 16860, Türkiye"
+  ],
+  "assos-h1": [
+    39.49075,
+    26.33685,
+    "OSM Nominatim: Temple of Athena, 17-50, Ayvacık, Çanakkale, Marmara Bölgesi"
+  ],
+  "assos-h4": [
+    39.47936,
+    26.06446,
+    "OSM Nominatim: Babakale Kalesi, Gülpınar - Babakale Yolu, Babakale, Ayvacık (Wikipedia 33m)"
+  ],
+  "rize-h2": [
+    41.01232,
+    40.99354,
+    "OSM Nominatim: Fırtına Vadisi, Yolkıyı, Çamlıhemşin, Rize, Karadeniz Bölges"
+  ],
+  "rize-h3": [
+    40.95939,
+    40.9632,
+    "OSM Nominatim: Zil Kalesi, Amukta Köprüsü, Şenköy, Çamlıhemşin, Rize, Karad"
+  ],
+  "rize-h4": [
+    40.95252,
+    41.10205,
+    "OSM Nominatim: Ayder, Kaplıca, Çamlıhemşin, Rize, Karadeniz Bölgesi, 53750,"
+  ],
+  "van-h1": [
+    38.50307,
+    43.3385,
+    "OSM Nominatim: Van Kalesi, Melen Caddesi, Yalı Mahallesi, Van, İpekyolu, Va (Wikipedia 145m)"
+  ],
+  "van-h2": [
+    38.3416,
+    43.03458,
+    "OSM Nominatim: Akdamar Adası, Gevaş, Van, Doğu Anadolu Bölgesi, Türkiye"
+  ],
+  "van-h3": [
+    41.09483,
+    29.10128,
+    "OSM Nominatim: Van Kahvaltı Sofrası, Mazi Sokağı, Plazalar, Rüzgarlıbahçe M"
+  ],
+  "van-h4": [
+    38.31715,
+    43.80177,
+    "OSM Nominatim: Hoşap Kalesi, D975, Hoşab, Gürpınar, Van, Doğu Anadolu Bölge (Wikipedia 12m)"
+  ],
+  "nemrut-h1": [
+    37.98064,
+    38.7408,
+    "OSM Nominatim: Nemrut Dağı, Kâhta, Adıyaman, Güneydoğu Anadolu Bölgesi, Tür"
+  ],
+  "nemrut-h3": [
+    37.93291,
+    38.6085,
+    "OSM Nominatim: Cendere Bridge, Burmapınar, Kâhta, Adıyaman, Güneydoğu Anado (Wikipedia 12m)"
+  ],
+  "nemrut-h4": [
+    37.86931,
+    38.58792,
+    "OSM Nominatim: Karakuş Tümülüsü, 02-03, Bağözü, Kâhta, Adıyaman, Güneydoğu  (Wikipedia 12m)"
+  ],
+  "sinop-h1": [
+    42.02461,
+    35.14243,
+    "OSM Nominatim: Tarihî Sinop Cezaevi, Çalıkuşu Sk., Kaleyazısı Mahallesi, Si"
+  ],
+  "sinop-h2": [
+    42.02467,
+    35.15082,
+    "OSM Nominatim: Sinop Kalesi, Bahçeyolu Sk., Meydankapı Mahallesi, Sinop Mer"
+  ],
+  "sinop-h3": [
+    42.056,
+    35.04769,
+    "OSM Nominatim: Hamsilos Tabiat Parkı, Abalı Köyü, Sinop Merkez, Sinop, Kara"
+  ],
+  "amasya-h1": [
+    40.65299,
+    35.82914,
+    "OSM Nominatim: Kral Kaya Mezarları, Aktav Sokak, Hatuniye, Hatuniye Mahalle"
+  ],
+  "amasya-h2": [
+    40.65229,
+    35.82979,
+    "OSM Nominatim: Hazeranlar Konağı, Hazeranlar Sokak, Hatuniye, Hatuniye Maha"
+  ],
+  "amasya-h3": [
+    40.65521,
+    35.82745,
+    "OSM Nominatim: Amasya Kalesi, Kale yolu, Hatuniye, Hatuniye Mahallesi, Amas"
+  ],
+  "amasya-h4": [
+    40.65034,
+    35.82704,
+    "OSM Nominatim: Sultan II. Bayezid Camii, Mustafa Kemal Paşa Caddesi, Hacı İ"
+  ],
+  "cesme-h1": [
+    38.32358,
+    26.30398,
+    "OSM Nominatim: Çeşme Kalesi, 2002. Sokak, İsmet İnönü Mahallesi, Çeşme, İzm (Wikipedia 33m)"
+  ],
+  "cesme-h4": [
+    38.3836,
+    26.47683,
+    "OSM Nominatim: Ildır Mahallesi, Çeşme, İzmir, Ege Bölgesi, Türkiye (Wikipedia 361m)"
+  ],
+  "bergama-h2": [
+    39.11892,
+    27.16567,
+    "OSM Nominatim: Asklepion, Kryptoporticus, Zafer Mahallesi, Bergama, İzmir, "
+  ],
+  "bergama-h4": [
+    39.11649,
+    27.1762,
+    "OSM Nominatim: Bergama Müzesi, Cumhuriyet Caddesi, Zafer Mahallesi, Bergama"
+  ],
+  "selcuk-h8": [
+    37.66132,
+    27.29598,
+    "OSM Nominatim: Priene, 09-55, Atburgazı Mahallesi, Söke, Aydın, Ege Bölgesi (Wikipedia 238m)"
+  ],
+  "datca-h3": [
+    36.68719,
+    27.3733,
+    "OSM Nominatim: Knidos, Datça, Muğla, Ege Bölgesi, Türkiye (Wikipedia 214m)"
+  ],
+  "dalyan-h2": [
+    36.82452,
+    28.62425,
+    "OSM Nominatim: Kaunos, 114. Sokak, Dalyan, Ortaca, Muğla, Ege Bölgesi, 4884 (Wikipedia 329m)"
+  ],
+  "antalya-h11": [
+    36.98418,
+    30.46263,
+    "OSM Nominatim: Termessos, Korkuteli, Antalya, Akdeniz Bölgesi, Türkiye (Wikipedia 264m)"
+  ],
+  "side-h2": [
+    36.76801,
+    31.39049,
+    "OSM Nominatim: Side Antik Tiyatro, Sümbül Sokak, Selimiye, Side, Manavgat,  (Wikipedia 207m)"
+  ],
+  "fethiye-h7": [
+    36.55402,
+    29.4187,
+    "OSM Nominatim: Tlos, Güneşli Yaka Yolu, Yakaköy, Seydikemer, Muğla, Ege Böl (Wikipedia 249m)"
+  ],
+  "kas-h7": [
+    36.25875,
+    29.9852,
+    "OSM Nominatim: Myra Antik Kenti, Matarlar Çıkmazı, Alakent, Demre, Antalya, (Wikipedia 47m)"
+  ],
+  "kayseri-h2": [
+    38.7241,
+    35.48417,
+    "OSM Nominatim: Gevher Nesibe Medresesi, Tekin Sokak, Gevher Nesibe Mahalles"
+  ],
+  "iznik-h1": [
+    40.42919,
+    29.7202,
+    "OSM Nominatim: Ayasofya, Kılıçaslan Caddesi, Mahmut Çelebi, İznik, Bursa, M (Wikipedia 4m)"
+  ],
+  "nemrut-h2": [
+    37.94322,
+    38.65469,
+    "OSM Nominatim: Arsameia, 02-09, Eski Kâhta, Kâhta, Adıyaman, Güneydoğu Anad (Wikipedia 204m)"
+  ],
+  "istanbul-h29": [
+    41.02936,
+    28.93581,
+    "OSM Nominatim: Mihrimah Sultan Camii, Eroğlu Sokağı, Karagümrük Mahallesi, "
+  ],
+  "izmir-h10": [
+    38.49715,
+    28.04277,
+    "OSM Nominatim: Sart, Uşak - İzmir Yolu, Sart, Salihli, Manisa, Ege Bölgesi,"
+  ],
+  "kalkan-h3": [
+    36.35715,
+    29.32033,
+    "OSM Nominatim: Xanthos, Kınık Yolu, Kınık, Kaş, Antalya, Akdeniz Bölgesi, T (Wikipedia 193m)"
+  ],
+  "kalkan-h4": [
+    36.26119,
+    29.31796,
+    "OSM Nominatim: Patara, Patara Plajı Yolu / Likya Yolu, Gelemiş, Kaş, Antaly"
+  ],
+  "assos-h2": [
+    39.49281,
+    26.33441,
+    "OSM Nominatim: Behramkale, Çanakkale, Marmara Bölgesi, Türkiye (Wikipedia 600m)"
   ]
 }

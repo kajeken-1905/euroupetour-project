@@ -6121,3 +6121,92 @@ highlights/pylos-4.jpg | https://commons.wikimedia.org/wiki/File:Methoni_castle_
 highlights/chios-5.jpg | https://europeanheritageawards-archive.eu/laureates-1978-2018/detail/antouaniko-mansion-kampos | PDM 1.0 | 
 highlights/tinos-2.jpg | https://commons.wikimedia.org/wiki/File:House_with_pergola_overlooking_the_town,_Panormos_(Pyrgos),_Tinos,_Greece_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
 highlights/chios-5.jpg | https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CF%8C_%CE%9F%CE%AF%CE%BA%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%BF%CE%BD_%CE%9A%CE%AC%CE%BC%CF%80%CE%BF_%CE%A7%CE%AF%CE%BF%CF%85.jpg | CC BY-SA 4.0 | Vgargan
+cities/iznik.jpg | https://commons.wikimedia.org/wiki/File:A%C5%9Fil_lahdi_%C4%B0znik_M%C3%BCzesi.jpg | CC BY-SA 4.0 | Tpinar
+highlights/iznik-1.jpg | https://commons.wikimedia.org/wiki/File:Iznik_Hagia_Sophia_Mosque_1625.jpg | CC BY-SA 4.0 | Dosseman
+highlights/iznik-2.jpg | https://commons.wikimedia.org/wiki/File:%C4%B0znik_ye%C5%9Fil_camii.jpg | CC BY-SA 4.0 | Okurahmet5
+highlights/iznik-3.jpg | https://commons.wikimedia.org/wiki/File:Iznik_Wall_at_Istanbul_Gate_8287.jpg | CC BY-SA 4.0 | Dosseman
+highlights/iznik-4.jpg | https://commons.wikimedia.org/wiki/File:Lake_Iznik_Shore_2.jpg | CC BY-SA 4.0 | Anatolian Citizen
+cities/assos.jpg | https://commons.wikimedia.org/wiki/File:Assos.jpg | CC BY-SA 2.5 | Gregorof at English Wikipedia
+highlights/assos-1.jpg | https://commons.wikimedia.org/wiki/File:Temple_of_Athena,_Assos_1.jpg | CC BY 2.0 | David Spender
+highlights/assos-3.jpg | https://commons.wikimedia.org/wiki/File:Assos_Harbour_042.jpg | CC BY-SA 4.0 | Dosseman
+highlights/assos-4.jpg | https://commons.wikimedia.org/wiki/File:Babakale_Castle_2.jpg | CC BY-SA 4.0 | Leon petrosyan
+cities/cesme.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Port_Ala%C3%A7at%C4%B1,_%C3%87e%C5%9Fme.jpg | CC0 | Gorkemssc
+highlights/cesme-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%87e%C5%9Fme_Kalesi,_%C4%B0zmir,_2020_07.jpg | CC BY-SA 4.0 | Gargarapalvin
+highlights/cesme-2.jpg | https://commons.wikimedia.org/wiki/File:Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_6.jpg | CC BY-SA 4.0 | Satirdan kahraman
+highlights/cesme-3.jpg | https://commons.wikimedia.org/wiki/File:Il%C4%B1ca..._-_panoramio.jpg | CC BY 3.0 | Sinan Şahin
+highlights/cesme-4.jpg | https://commons.wikimedia.org/wiki/File:Erythrae,_Ionia,_Turkey_-_53785577895.jpg | CC BY-SA 2.0 | Following Hadrian
+cities/bergama.jpg | https://commons.wikimedia.org/wiki/File:Pergamon_Acropolis_Sculptures.jpg | CC BY-SA 4.0 | Antoloji
+highlights/bergama-1.jpg | https://commons.wikimedia.org/wiki/File:Pergamon_Acropolis_Sculptures.jpg | CC BY-SA 4.0 | Antoloji
+highlights/bergama-2.jpg | https://commons.wikimedia.org/wiki/File:Asklepion_6.jpg | CC BY-SA 4.0 | Leon petrosyan
+highlights/bergama-3.jpg | https://commons.wikimedia.org/wiki/File:Bergama_Red_Basilica_016.jpg | CC BY-SA 4.0 | Dosseman
+highlights/bergama-4.jpg | https://commons.wikimedia.org/wiki/File:Bergama_Museum_Fragment_2b.jpg | CC BY-SA 4.0 | Dosseman
+cities/kusadasi.jpg | https://commons.wikimedia.org/wiki/File:Kusadasi_Shoreline_2.jpg | CC BY-SA 4.0 | Slyronit
+highlights/kusadasi-1.jpg | https://commons.wikimedia.org/wiki/File:G%C3%BCvercinada_Castle,_Ku%C5%9Fadas%C4%B1.jpg | CC BY-SA 4.0 | Koray
+highlights/kusadasi-2.jpg | https://commons.wikimedia.org/wiki/File:%C3%96k%C3%BCz_Mehmet_Pa%C5%9Fa_Kervansaray%C4%B1_01.jpg | CC BY-SA 4.0 | Satirdan kahraman
+highlights/kusadasi-3.jpg | https://commons.wikimedia.org/wiki/File:Kad%C4%B1nlar_Denizi_-_Ku%C5%9Fadas%C4%B1_02.jpg | CC BY-SA 4.0 | Özlem Demiir
+highlights/kusadasi-4.jpg | https://commons.wikimedia.org/wiki/File:Dilek_Yar%C4%B1madas%C4%B1-B%C3%BCy%C3%BCk_Menderes_Deltas%C4%B1_Mill%C3%AE_Park%C4%B1_2013-03-28b.jpg | CC BY-SA 4.0 | Rabe!
+cities/datca.jpg | https://commons.wikimedia.org/wiki/File:Datca_1410417_Nevit.jpg | CC BY-SA 3.0 | Nevit Dilmen (talk)
+highlights/datca-1.jpg | https://commons.wikimedia.org/wiki/File:Dat%C3%A7a,_yachts_harbour_*%C2%A9Abdullah_Kiyga_-_panoramio.jpg | CC BY 3.0 | Abdullah kıyga
+highlights/datca-2.jpg | https://commons.wikimedia.org/wiki/File:Old_Datca_-_Eski_Dat%C3%A7a_-_panoramio.jpg | CC BY-SA 3.0 | Semih Ekinci
+highlights/datca-3.jpg | https://commons.wikimedia.org/wiki/File:Knidos_Manzara.jpg | CC BY-SA 4.0 | Barış Karadirek
+highlights/datca-4.jpg | https://commons.wikimedia.org/wiki/File:Palamutbuku_Island_-_Palamutb%C3%BCk%C3%BC_Adas%C4%B1_-_panoramio.jpg | CC BY-SA 3.0 | Semih Ekinci
+cities/dalyan.jpg | https://commons.wikimedia.org/wiki/File:Dalyan_River_view_98_073.jpg | CC BY-SA 4.0 | Dosseman
+highlights/dalyan-1.jpg | https://commons.wikimedia.org/wiki/File:Dalyan,_Kaunos_Kaya_Mezarlar%C4%B1.jpg | CC BY-SA 4.0 | Mkrc85
+highlights/dalyan-2.jpg | https://commons.wikimedia.org/wiki/File:DALYAN-KAUNOS_-_panoramio.jpg | CC BY 3.0 | HALUK COMERTEL
+highlights/dalyan-3.jpg | https://commons.wikimedia.org/wiki/File:Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg | CC BY-SA 4.0 | ilknrern
+highlights/dalyan-4.jpg | https://commons.wikimedia.org/wiki/File:Sultaniye_(2842524262).jpg | CC BY-SA 2.0 | mwanasimba from La Réunion
+cities/kalkan.jpg | https://commons.wikimedia.org/wiki/File:Akdeniz-_the_mediterranean-kalkan_-_panoramio.jpg | CC BY 3.0 | HALUK COMERTEL
+highlights/kalkan-2.jpg | https://commons.wikimedia.org/wiki/File:Kaputa%C5%9F_Plaj%C4%B1_ve_Deniz.jpg | CC BY-SA 4.0 | Wape1989
+highlights/kalkan-3.jpg | https://commons.wikimedia.org/wiki/File:Xanthos_Antik_Kenti.jpg | CC BY-SA 4.0 | Mkrc85
+highlights/kalkan-4.jpg | https://commons.wikimedia.org/wiki/File:Patara_in_Turkey.jpg | CC BY 4.0 | Aliaksei Kapralau
+cities/side.jpg | https://commons.wikimedia.org/wiki/File:Sunrise_apollo_side.jpg | CC BY-SA 3.0 | Saffron Blaze
+highlights/side-1.jpg | https://commons.wikimedia.org/wiki/File:Temple_Apollo_Side_Wide.jpg | CC BY-SA 3.0 | Saffron Blaze
+highlights/side-2.jpg | https://commons.wikimedia.org/wiki/File:Side_Roman_theatre_outside_in_2012_4557.jpg | CC BY-SA 4.0 | Dosseman
+highlights/side-3.jpg | https://commons.wikimedia.org/wiki/File:Side_museum_garden_and_halls_4060.jpg | CC BY-SA 4.0 | Dosseman
+highlights/side-4.jpg | https://commons.wikimedia.org/wiki/File:Manavgat_waterfall_by_tomgensler.JPG | CC BY-SA 2.0 de | Thomas Gensler
+cities/rize.jpg | https://commons.wikimedia.org/wiki/File:Ayder_2.jpg | CC BY-SA 4.0 | Onur capıt
+highlights/rize-2.jpg | https://commons.wikimedia.org/wiki/File:ArchBridgeOverFirtinaDeresi@Rize-Turkey-1.JPG | CC BY-SA 3.0 | Dr. Zeynel Cebeci
+highlights/rize-3.jpg | https://commons.wikimedia.org/wiki/File:Zil_Kalesi.jpeg | CC BY-SA 2.5 | Ozgur13
+highlights/rize-4.jpg | https://commons.wikimedia.org/wiki/File:Ayder_05_09_2011_YaylaAyder_05_09_2011_Yayla.jpg | CC BY-SA 4.0 | Volker Höhfeld
+cities/sinop.jpg | https://commons.wikimedia.org/wiki/File:Sinop_Overview_2009.JPG | CC BY-SA 3.0 | Bjørn Christian Tørrissen
+highlights/sinop-1.jpg | https://commons.wikimedia.org/wiki/File:Tarih%C3%AE_Sinop_Cezaevi.jpg | CC BY-SA 3.0 | Tayeçe2024
+highlights/sinop-2.jpg | https://commons.wikimedia.org/wiki/File:Sinop_Castle_southern_wall_9187.jpg | CC BY-SA 4.0 | Dosseman
+highlights/sinop-3.jpg | https://commons.wikimedia.org/wiki/File:Hamsilos_burnu_ve_kayal%C4%B1klar.jpg | CC BY-SA 4.0 | Erturkercin
+highlights/sinop-4.jpg | https://commons.wikimedia.org/wiki/File:%C4%B0nceburun_Feneri.jpg | CC0 | DreamP
+cities/amasya.jpg | https://commons.wikimedia.org/wiki/File:Amasya-city.jpg | CC0 | Szgin
+highlights/amasya-1.jpg | https://commons.wikimedia.org/wiki/File:Kral_Kaya_Mezarlar%C4%B1,_Amasya.jpg | CC BY-SA 4.0 | Zeynel Cebeci
+highlights/amasya-2.jpg | https://commons.wikimedia.org/wiki/File:Hazeranlar_Kona%C4%9F%C4%B1_2015-09-29_07.55.19_1792515899.JPG | CC BY-SA 4.0 | Canercangul
+highlights/amasya-3.jpg | https://commons.wikimedia.org/wiki/File:Amasya_Kalesi_01.jpg | CC BY-SA 4.0 | Zeynel Cebeci
+highlights/amasya-4.jpg | https://commons.wikimedia.org/wiki/File:Bayezid_II_Mosque_courtyard_DSCF1149.jpg | CC BY-SA 4.0 | R Prazeres
+cities/kayseri.jpg | https://commons.wikimedia.org/wiki/File:Kayseri_B%C3%BCr%C3%BCng%C3%BCz_Camii_ve_Erciyes_Da%C4%9F%C4%B1.jpg | CC BY-SA 4.0 | Abdurrahman Çam
+highlights/kayseri-1.jpg | https://commons.wikimedia.org/wiki/File:Kayseri_Castle_-_2014.10_-_panoramio.jpg | CC BY 3.0 | rheins
+highlights/kayseri-3.jpg | https://commons.wikimedia.org/wiki/File:Hunat_Hatun_K%C3%BClliyesi_2544.jpg | CC BY-SA 4.0 | Dosseman
+highlights/kayseri-4.jpg | https://commons.wikimedia.org/wiki/File:KAYAK_ERC%C4%B0YES_.jpg | CC BY-SA 4.0 | Hmyr2021
+cities/eskisehir.jpg | https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_saygi_aniti.jpg | CC BY-SA 4.0 | Honacan
+highlights/eskisehir-1.jpg | https://commons.wikimedia.org/wiki/File:Odunpazar%C4%B1_Evleri_2_(20221117).jpg | CC BY-SA 2.0 | Kadı Kadı
+highlights/eskisehir-2.jpg | https://commons.wikimedia.org/wiki/File:Odunpazar%C4%B1_Modern_M%C3%BCze_(20221117)_2.jpg | CC BY-SA 2.0 | Kadı Kadı
+highlights/eskisehir-3.jpg | https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi_1619.jpg | CC BY-SA 4.0 | Dosseman
+highlights/eskisehir-4.jpg | https://commons.wikimedia.org/wiki/File:Flyboarding,_Porsuk_%C3%87ay%C4%B1,_Eski%C5%9Fehir-3.jpg | CC0 | Merhabaviki
+cities/van.jpg | https://commons.wikimedia.org/wiki/File:Lake_Van_and_cathedral_of_the_Holy_Cross.jpg | CC BY-SA 4.0 | Armenak Margarian
+highlights/van-1.jpg | https://commons.wikimedia.org/wiki/File:Van_Fortress_From_Northwest.JPG | CC BY-SA 3.0 | Bjørn Christian Tørrissen
+highlights/van-2.jpg | https://commons.wikimedia.org/wiki/File:Akdamar_Adas%C4%B1_,Ermeni_Kilisesi.jpg | CC BY-SA 4.0 | Gülistanbul01
+highlights/van-3.jpg | https://commons.wikimedia.org/wiki/File:Woody%27s_Breakfast_and_Burger_Van_-_geograph.org.uk_-_8327791.jpg | CC BY-SA 2.0 | Bill Kasman
+highlights/van-4.jpg | https://commons.wikimedia.org/wiki/File:Hosap-castle_(13).jpg | CC BY-SA 3.0 | Attaleiv
+cities/nemrut.jpg | https://commons.wikimedia.org/wiki/File:00_1376_Nemrut_Da%C4%9F%C4%B1_-_Provinz_Adiyaman,_T%C3%BCrkei.jpg | CC BY-SA 4.0 | W. Bulach
+highlights/nemrut-1.jpg | https://commons.wikimedia.org/wiki/File:Mount_Nemrut_sunrise.jpg | CC BY-SA 4.0 | Liselottediehl
+highlights/nemrut-2.jpg | https://commons.wikimedia.org/wiki/File:Arsameia,_kingdom_of_Commagene,_Turkey_(36620042826).jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
+highlights/nemrut-3.jpg | https://commons.wikimedia.org/wiki/File:Severan_Bridge,_Turkey_01.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/nemrut-4.jpg | https://commons.wikimedia.org/wiki/File:Tumulus_of_Karakus_01.jpg | CC BY-SA 3.0 | Bernard Gagnon
+highlights/istanbul-28.jpg | https://commons.wikimedia.org/wiki/File:Beylerbeyi_Palace,_Istanbul_-_panoramio.jpg | CC BY-SA 3.0 | Akrep Scorpion
+highlights/istanbul-29.jpg | https://commons.wikimedia.org/wiki/File:Mihrimah_Sultan_Mosque_(Edirnekap%C4%B1)_Interior.jpg | CC BY-SA 3.0 | Hans G. Oberlack
+highlights/ankara-9.jpg | https://commons.wikimedia.org/wiki/File:Ruins_of_Gordion_3.JPG | CC BY 2.5 | Stipich Béla
+highlights/izmir-10.jpg | https://commons.wikimedia.org/wiki/File:The_Bath-Gymnasium_complex_at_Sardis,_late_2nd_-_early_3rd_century_AD,_Sardis,_Turkey_(17098680002).jpg | CC BY-SA 2.0 | Carole Raddato from FRANKFURT, Germany
+highlights/selcuk-8.jpg | https://commons.wikimedia.org/wiki/File:Didim_RB10.jpg | CC BY-SA 3.0 | 
+highlights/antalya-11.jpg | https://commons.wikimedia.org/wiki/File:G%C3%BCll%C3%BCk_Mountain_National_Park_and_Termessos_ancient_city_3.jpg | CC BY-SA 4.0 | Shanti Alex
+highlights/fethiye-7.jpg | https://commons.wikimedia.org/wiki/File:Tlos.jpg | CC BY-SA 4.0 | Vano111ru
+highlights/kas-7.jpg | https://commons.wikimedia.org/wiki/File:Myra_antik_kenti.jpg | CC BY-SA 4.0 | lkarakocl
+highlights/konya-7.jpg | https://commons.wikimedia.org/wiki/File:Sille_Village,_Konya.jpg | CC BY 4.0 | Wiki leylek
+highlights/assos-2.jpg | https://commons.wikimedia.org/wiki/File:Bursa,_H%C3%BCdavendigar_Camii,_interior_towards_south.jpg | CC BY-SA 4.0 | Carl Ha
+highlights/kalkan-1.jpg | https://www.flickr.com/photos/124187379@N07/14286559261 | BY-SA 2.0 | SimplyOwners
+highlights/rize-1.jpg | https://commons.wikimedia.org/wiki/File:53270_Buzlup%C4%B1nar-%C3%87ayeli-Rize,_Turkey_-_panoramio_(1).jpg | CC BY 3.0 | Koliva
+highlights/kayseri-2.jpg | https://commons.wikimedia.org/wiki/File:Gevher_Nesibe_Medrese_(Cifte_Medrese)_DSCF1157.jpg | CC BY-SA 4.0 | R Prazeres

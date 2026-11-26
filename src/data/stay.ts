@@ -318,6 +318,60 @@ export const STAY: Record<string, StayArea[]> = {
     a('신타그마', 'Syntagma', 'Syntagma, Athens', '교통 중심|Transport hub', '도심 광장이라 어디로든 이동하기 편합니다.|The central square, easy to get anywhere from.'),
     a('쿠카키', 'Koukaki', 'Koukaki, Athens', '조용한 주거지|Quieter and residential', '아크로폴리스 박물관과 입구가 가깝고 3박 이상 머물 때 좋습니다.|Near the Acropolis Museum and entrance; good for three nights or more.'),
   ],
+  iznik: [
+    a('성벽 안 시내', 'Inside the walls', 'İznik', '처음 가는 여행에 추천|Best for a first visit', '모스크·성당·호숫가가 걸어서 닿습니다.|The mosques, church and lakeshore on foot.'),
+  ],
+  assos: [
+    a('옛 항구', 'Old harbour', 'Assos Harbour', '바닷가 분위기|By the sea', '돌집 호텔과 식당이 모인 바닷가입니다. 마을까지 가파른 길을 오릅니다.|Stone hotels and restaurants by the water; a steep climb up to the village.'),
+    a('베람칼레 마을', 'Behramkale village', 'Behramkale', '조용한 마을|Quiet village', '아크로폴리스 바로 아래 게스트하우스가 있습니다.|Guesthouses right below the acropolis.'),
+  ],
+  cesme: [
+    a('알라차트', 'Alaçatı', 'Alaçatı', '분위기 좋은 부티크 숙소|Boutique stays', '돌집 부티크 호텔과 식당이 많고 비싼 편입니다.|Stone-house boutique hotels and restaurants; pricey.'),
+    a('체슈메 항구', 'Çeşme harbour', 'Çeşme', '교통이 편한 곳|Convenient', '버스 터미널과 키오스행 항구가 가깝습니다.|Near the bus station and the Chios ferry.'),
+  ],
+  bergama: [
+    a('구시가', 'Old town', 'Bergama', '처음 가는 여행에 추천|Best for a first visit', '붉은 바실리카와 박물관, 케이블카 승강장이 가깝습니다.|Near the Red Basilica, the museum and the cable car.'),
+  ],
+  kusadasi: [
+    a('항구·시내 중심', 'Harbour & centre', 'Kuşadası', '처음 가는 여행에 추천|Best for a first visit', '항구와 식당, 셀추크행 미니버스가 가깝습니다.|Near the harbour, restaurants and minibuses to Selçuk.'),
+  ],
+  datca: [
+    a('다트차 항구', 'Datça harbour', 'Datça', '처음 가는 여행에 추천|Best for a first visit', '식당과 버스 터미널이 가깝습니다.|Near restaurants and the bus station.'),
+    a('에스키 다트차', 'Eski Datça', 'Eski Datça', '조용한 돌집|Quiet stone houses', '언덕 위 옛 마을의 돌집 숙소입니다.|Stone-house stays in the old hill village.'),
+  ],
+  dalyan: [
+    a('강가 마을 중심', 'Riverside centre', 'Dalyan', '처음 가는 여행에 추천|Best for a first visit', '강배 선착장과 식당이 모여 있습니다.|The boat quay and restaurants.'),
+  ],
+  kalkan: [
+    a('구시가', 'Old town', 'Kalkan', '처음 가는 여행에 추천|Best for a first visit', '항구와 식당이 걸어서 닿지만 비탈이 가파릅니다.|The harbour and restaurants on foot, but the lanes are steep.'),
+  ],
+  side: [
+    a('구시가 반도', 'Old town peninsula', 'Side', '처음 가는 여행에 추천|Best for a first visit', '유적과 식당 사이의 작은 호텔들입니다.|Small hotels among the ruins and restaurants.'),
+    a('해변 리조트', 'Beach resorts', 'Kumköy Side', '해변 휴양|Beach holidays', '양쪽 해안의 큰 리조트로, 구시가까지 버스나 걷기로 갑니다.|Big resorts on either coast, a bus ride or walk from the old town.'),
+  ],
+  rize: [
+    a('리제 시내', 'Rize centre', 'Rize', '교통이 편한 곳|Convenient', '버스 터미널과 식당이 가깝습니다.|Near the bus station and restaurants.'),
+    a('아이데르', 'Ayder', 'Ayder Yaylası', '고원 마을|Highland village', '나무집 숙소에서 묵고 산길을 걷습니다. 여름에만 여는 곳이 많습니다.|Wooden guesthouses and mountain walks; many open only in summer.'),
+  ],
+  sinop: [
+    a('항구·성벽 안', 'Harbour & old town', 'Sinop', '처음 가는 여행에 추천|Best for a first visit', '감옥 박물관과 항구 식당이 걸어서 닿습니다.|The prison museum and harbour restaurants on foot.'),
+  ],
+  amasya: [
+    a('강가 옛 동네', 'Riverside old quarter', 'Yalıboyu Evleri Amasya', '처음 가는 여행에 추천|Best for a first visit', '오스만 가옥을 고친 숙소에서 바위 무덤 야경이 보입니다.|Restored Ottoman houses with night views of the tombs.'),
+  ],
+  kayseri: [
+    a('시내 중심', 'City centre', 'Kayseri', '처음 가는 여행에 추천|Best for a first visit', '성과 셀주크 건축, 트램이 가깝습니다.|Near the castle, the Seljuk buildings and the tram.'),
+  ],
+  eskisehir: [
+    a('오둔파자르·시내', 'Odunpazarı & centre', 'Odunpazarı', '처음 가는 여행에 추천|Best for a first visit', '옛 동네와 강변, 트램이 가깝습니다.|Near the old quarter, the river and the tram.'),
+  ],
+  van: [
+    a('시내 중심', 'City centre', 'Van', '처음 가는 여행에 추천|Best for a first visit', '아침 거리와 식당, 시내버스가 가깝습니다.|Near the breakfast street and restaurants.'),
+  ],
+  nemrut: [
+    a('카흐타', 'Kâhta', 'Kâhta', '처음 가는 여행에 추천|Best for a first visit', '투어가 출발하는 마을로, 숙소와 식당이 있습니다.|The town tours leave from, with hotels and restaurants.'),
+    a('카라도우트 산마을', 'Karadut', 'Karadut', '일출을 볼 때|For sunrise', '정상 가까운 마을의 펜션으로, 새벽 출발이 편합니다.|Guesthouses near the summit, easier for a pre-dawn start.'),
+  ],
   istanbul: [
     a('술탄아흐메트', 'Sultanahmet', 'Sultanahmet, Istanbul', '처음 가는 여행에 추천|Best for a first visit', '아야 소피아와 블루 모스크를 걸어서 다닙니다. 저녁에는 조용하고 선택지가 적습니다.|Hagia Sophia and the Blue Mosque on foot; quieter, with fewer options, in the evening.'),
     a('카라쾨이·갈라타', 'Karaköy / Galata', 'Karaköy, Istanbul', '관광과 현지 분위기의 중간|Between sights and local life', '트램과 지하철이 편하고 이스티클랄 거리가 가깝습니다. 언덕이 가파릅니다.|Good tram and metro links near İstiklal Street; the hills are steep.'),
