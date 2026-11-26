@@ -6120,3 +6120,4 @@ highlights/chania-7.jpg | https://commons.wikimedia.org/wiki/File:St_Rokos_and_S
 highlights/pylos-4.jpg | https://commons.wikimedia.org/wiki/File:Methoni_castle_Burtzi.jpg | CC BY-SA 3.0 | Flyax
 highlights/chios-5.jpg | https://europeanheritageawards-archive.eu/laureates-1978-2018/detail/antouaniko-mansion-kampos | PDM 1.0 | 
 highlights/tinos-2.jpg | https://commons.wikimedia.org/wiki/File:House_with_pergola_overlooking_the_town,_Panormos_(Pyrgos),_Tinos,_Greece_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+highlights/chios-5.jpg | https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CF%8C_%CE%9F%CE%AF%CE%BA%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%BF%CE%BD_%CE%9A%CE%AC%CE%BC%CF%80%CE%BF_%CE%A7%CE%AF%CE%BF%CF%85.jpg | CC BY-SA 4.0 | Vgargan
