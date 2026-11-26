@@ -17270,5 +17270,355 @@
     54.33543,
     -7.60134,
     "OSM Nominatim: Castle Coole, Thomastown Road, Thomastown, Tamlaght, Fermana"
+  ],
+  "sintra-h7": [
+    38.78434,
+    -9.43818,
+    "OSM Nominatim: Convento dos Capuchos, Caminho da Boca da Mata, Colares, Sin (Wikipedia 13m)"
+  ],
+  "sintra-h8": [
+    38.79671,
+    -9.39987,
+    "OSM Nominatim: Palácio de Seteais, Caminho da Fonte dos Amores, Sintra - Sã (Wikipedia 328m)"
+  ],
+  "faro-h7": [
+    37.09517,
+    -7.90403,
+    "OSM Nominatim: Ruínas Romanas de Milreu, Coiro da Burra, Estoi, Faro, Portu"
+  ],
+  "silves-h1": [
+    37.19106,
+    -8.43836,
+    "OSM Nominatim: Castelo de Silves, Rua do Castelo, Silves, Faro, 8300-159, P (Wikipedia 41m)"
+  ],
+  "silves-h2": [
+    37.19003,
+    -8.43854,
+    "OSM Nominatim: Sé Catedral de Silves, RUA  DO SAGRADO  CORAÇÃO DE MARIA, Si (Wikipedia 16m)"
+  ],
+  "silves-h3": [
+    37.18893,
+    -8.4389,
+    "OSM Nominatim: Museu Municipal de Arqueologia de Silves, Rua da Porta de Lo"
+  ],
+  "silves-h4": [
+    37.18673,
+    -8.43819,
+    "OSM Nominatim: Ponte Velha de Silves, Silves, Faro, 8300-155, Portugal"
+  ],
+  "albufeira-h1": [
+    37.08633,
+    -8.25011,
+    "OSM Nominatim: Praia dos Pescadores, Albufeira e Olhos de Água, Albufeira, "
+  ],
+  "albufeira-h2": [
+    37.0805,
+    -8.14946,
+    "OSM Nominatim: Praia da Falésia, Albufeira e Olhos de Água, Albufeira, Faro"
+  ],
+  "albufeira-h3": [
+    37.08649,
+    -8.26701,
+    "OSM Nominatim: Marina de Albufeira, Albufeira e Olhos de Água, Albufeira, F"
+  ],
+  "tavira-h5": [
+    37.15739,
+    -7.54622,
+    "OSM Nominatim: Cacela Velha, Vila Nova de Cacela, Vila Real de Santo Antóni (Wikipedia 22m)"
+  ],
+  "monsanto-h4": [
+    40.04226,
+    -7.01635,
+    "OSM Nominatim: Penha Garcia, Idanha-a-Nova, Castelo Branco, Portugal"
+  ],
+  "almeida-h1": [
+    40.7252,
+    -6.90591,
+    "OSM Nominatim: Sabores da Fortaleza, Travessa da Pereira, Centro Histórico "
+  ],
+  "almeida-h2": [
+    40.72684,
+    -6.90338,
+    "OSM Nominatim: Casamatas, Rua da Muralha, Centro Histórico de Almeida, Arra"
+  ],
+  "almeida-h3": [
+    40.33152,
+    -7.21188,
+    "OSM Nominatim: Sortelha, Sabugal, Guarda, Portugal"
+  ],
+  "funchal-h10": [
+    32.65648,
+    -17.00445,
+    "OSM Nominatim: Cabo Girão, Miradouro do Cabo Girão, Fontainhas do Mar, Câma"
+  ],
+  "porto-moniz-h1": [
+    32.86866,
+    -17.17019,
+    "OSM Nominatim: Piscinas Naturais do Porto Moniz, Vereda das Poças, Penedia,"
+  ],
+  "porto-moniz-h2": [
+    32.82191,
+    -17.10314,
+    "OSM Nominatim: Praia do Porto do Seixal, Seixal, Porto Moniz, Madeira, Port"
+  ],
+  "porto-moniz-h3": [
+    32.8094,
+    -17.14073,
+    "OSM Nominatim: Fanal, Porto Moniz, Madeira, Portugal"
+  ],
+  "ponta-delgada-h6": [
+    37.76215,
+    -25.47637,
+    "OSM Nominatim: Lagoa do Fogo, Água de Alto, Vila Franca do Campo, Açores, P"
+  ],
+  "angra-do-heroismo-h5": [
+    38.73924,
+    -27.15626,
+    "OSM Nominatim: Praia da Vitória, Açores, Portugal"
+  ],
+  "horta-h1": [
+    38.53279,
+    -28.62605,
+    "OSM Nominatim: Marina da Horta, Matriz, Horta, Açores, 9900-016, Portugal"
+  ],
+  "horta-h2": [
+    38.52978,
+    -28.62657,
+    "OSM Nominatim: Peter Café Sport (Esplanada), Cais de Santa Cruz, Matriz, Ho"
+  ],
+  "horta-h3": [
+    38.60232,
+    -28.83249,
+    "OSM Nominatim: Vulcão dos Capelinhos, Capelo, Horta, Açores, Portugal"
+  ],
+  "horta-h4": [
+    38.58069,
+    -28.70656,
+    "OSM Nominatim: Miradouro da Caldeira, Trilho da Descida da Caldeira do Faia"
+  ],
+  "pico-h1": [
+    38.47055,
+    -28.42663,
+    "OSM Nominatim: Casa da Montanha, Trilho do Pico, Candelária, Madalena, Açor"
+  ],
+  "pico-h2": [
+    38.51417,
+    -28.5342,
+    "OSM Nominatim: Lajido da Criação Velha, Trilho Vinhas da Criação Velha, Cri"
+  ],
+  "pico-h3": [
+    38.39631,
+    -28.25342,
+    "OSM Nominatim: Museu dos Baleeiros, 13, Rua dos Baleeiros, Lajes do Pico, A"
+  ],
+  "lagos-h8": [
+    37.08977,
+    -8.41271,
+    "OSM Nominatim: Praia da Marinha, Lagoa, Lagoa e Carvoeiro, Lagoa, Faro, Por (Wikipedia 40m)"
+  ],
+  "cascais-h7": [
+    38.73316,
+    -9.47278,
+    "OSM Nominatim: Praia do Guincho, Cascais e Estoril, Cascais, Lisboa, Portug (Wikipedia 8m)"
+  ],
+  "setubal-h6": [
+    38.48592,
+    -8.88364,
+    "OSM Nominatim: Ruínas romanas de Tróia, ER 253-1, Troia, Carvalhal, Grândol"
+  ],
+  "setubal-h7": [
+    38.56597,
+    -8.90037,
+    "OSM Nominatim: Castelo de Palmela, Avenida dos Cavaleiros de Santiago e Esp"
+  ],
+  "sesimbra-h1": [
+    38.44131,
+    -9.09431,
+    "OSM Nominatim: Praia da Califórnia, Santiago, Sesimbra, Setúbal, Portugal"
+  ],
+  "sesimbra-h2": [
+    38.45142,
+    -9.10791,
+    "OSM Nominatim: Castelo de Sesimbra, Corredoura, Castelo, Sesimbra, Setúbal, (Wikipedia 186m)"
+  ],
+  "sesimbra-h3": [
+    38.41397,
+    -9.22217,
+    "OSM Nominatim: Cabo Espichel, Castelo, Sesimbra, Setúbal, 2970-191, Portuga (Wikipedia 29m)"
+  ],
+  "sesimbra-h4": [
+    38.43272,
+    -9.13031,
+    "OSM Nominatim: Praia do Ribeiro do Cavalo, Sentrão, Castelo, Sesimbra, Setú"
+  ],
+  "viseu-h1": [
+    40.6598,
+    -7.9108,
+    "OSM Nominatim: Catedral Sé de Viseu, Rua das Ameias, Centro histórico, Vise (Wikipedia 20m)"
+  ],
+  "viseu-h2": [
+    40.66014,
+    -7.91075,
+    "OSM Nominatim: Museu Nacional Grão Vasco, Adro da Sé, Centro histórico, Vis (Wikipedia 23m)"
+  ],
+  "viseu-h4": [
+    40.66136,
+    -7.90106,
+    "OSM Nominatim: Solar do Dão, Rua Cônsul Aristides Sousa Mendes, Quinta da L"
+  ],
+  "piodao-h1": [
+    40.22955,
+    -7.82476,
+    "OSM Nominatim: Piódão, Arganil, Coimbra, 3305-242, Portugal"
+  ],
+  "piodao-h3": [
+    40.24811,
+    -7.81368,
+    "OSM Nominatim: Foz d'Égua, Piódão, Arganil, Coimbra, Portugal"
+  ],
+  "bucaco-h1": [
+    40.37598,
+    -8.36482,
+    "OSM Nominatim: Palácio Hotel do Buçaco, EM 234-3, Buçaco, Luso, Mealhada, A"
+  ],
+  "bucaco-h2": [
+    40.37558,
+    -8.36195,
+    "OSM Nominatim: Mata Nacional do Bussaco, Luso, Mealhada, Aveiro, Portugal"
+  ],
+  "bucaco-h3": [
+    40.37752,
+    -8.36705,
+    "OSM Nominatim: Fonte Fria, Vale de São Silvestre, Buçaco, Luso, Mealhada, A"
+  ],
+  "bucaco-h4": [
+    40.38467,
+    -8.37254,
+    "OSM Nominatim: Fonte de São João, Estrada de Viseu, Várzeas, Luso, Mealhada"
+  ],
+  "marvao-h4": [
+    39.37067,
+    -7.38647,
+    "OSM Nominatim: Ammaia, Estrada da Calçadinha, Olhos d'Água, São Salvador da"
+  ],
+  "mertola-h1": [
+    37.63802,
+    -7.66459,
+    "OSM Nominatim: Castelo de Mértola, Rua Elias Garcia, Além-Rio, Mértola, Bej"
+  ],
+  "mertola-h2": [
+    37.63841,
+    -7.66361,
+    "OSM Nominatim: Igreja de Nossa Senhora da Anunciação, Largo da Igreja, Além"
+  ],
+  "mertola-h4": [
+    37.80446,
+    -7.63324,
+    "OSM Nominatim: Pulo do Lobo, Mértola, Beja, Portugal (Wikipedia 47m)"
+  ],
+  "mertola-h5": [
+    37.67135,
+    -7.49826,
+    "OSM Nominatim: Mina de São Domingos, Corte do Pinto, Mértola, Beja, 7750-13"
+  ],
+  "vila-nova-de-milfontes-h1": [
+    37.72183,
+    -8.78799,
+    "OSM Nominatim: Praia da Franquia, Vila Nova de Milfontes, Odemira, Beja, 76"
+  ],
+  "vila-nova-de-milfontes-h3": [
+    37.59863,
+    -8.81614,
+    "OSM Nominatim: Farol do Cabo Sardão, Estrada do Farol, Cavaleiro, São Teotó"
+  ],
+  "vila-nova-de-milfontes-h4": [
+    37.52565,
+    -8.78481,
+    "OSM Nominatim: Zambujeira do Mar, Odemira, Beja, 7630-785, Portugal (Wikipedia 70m)"
+  ],
+  "obidos-h6": [
+    39.36324,
+    -9.15739,
+    "OSM Nominatim: Livraria de São Tiago, Rua da Talhada, Pinhal, Santa Maria, "
+  ],
+  "braga-h8": [
+    41.55119,
+    -8.42974,
+    "OSM Nominatim: Museu dos Biscainhos, Rua dos Biscaínhos, Sé, Braga (Maximin"
+  ],
+  "braga-h9": [
+    41.54834,
+    -8.42271,
+    "OSM Nominatim: Palácio do Raio, 400, Rua do Raio, São José de São Lázaro, B (Wikipedia 8m)"
+  ],
+  "ponte-de-lima-h2": [
+    41.76857,
+    -8.58418,
+    "OSM Nominatim: Largo de Camões, Arca, Arca e Ponte de Lima, Ponte de Lima, "
+  ],
+  "ponte-de-lima-h4": [
+    41.76491,
+    -8.58699,
+    "OSM Nominatim: Museu dos Terceiros, Avenida 5 de Outubro, Arca, Arca e Pont"
+  ],
+  "geres-h1": [
+    41.72379,
+    -8.12987,
+    "OSM Nominatim: Cascata do Arado, Vilar da Veiga, Terras de Bouro, Braga, Po"
+  ],
+  "geres-h2": [
+    41.78795,
+    -8.14215,
+    "OSM Nominatim: Mata de Albergaria, Campo do Gerês, Terras de Bouro, Braga, "
+  ],
+  "geres-h3": [
+    41.83111,
+    -7.9426,
+    "OSM Nominatim: Mosteiro de Santa Maria das Júnias, Caminho da Cascata, Pitõ"
+  ],
+  "geres-h4": [
+    41.87232,
+    -8.26219,
+    "OSM Nominatim: Espigueiros e Eira Comunitária do Soajo, Eira do Penedo, Soa"
+  ],
+  "braganca-h1": [
+    41.80425,
+    -6.7493,
+    "OSM Nominatim: Castelo de Bragança, Rua dos Oficiais, Sé, Santa Maria e Mei"
+  ],
+  "braganca-h2": [
+    41.80347,
+    -6.74916,
+    "OSM Nominatim: Domus Municipalis, Rua Infante Dom Pedro, Cidadela de Bragan (Wikipedia 25m)"
+  ],
+  "braganca-h3": [
+    41.80386,
+    -6.74994,
+    "OSM Nominatim: Museu Ibérico da Máscara e do Traje, 24, Rua Dom Fernão O Br"
+  ],
+  "braganca-h4": [
+    41.9404,
+    -6.61651,
+    "OSM Nominatim: Rio de Onor, Bragança, Portugal"
+  ],
+  "vila-real-h1": [
+    41.29685,
+    -7.71221,
+    "OSM Nominatim: Palácio de Mateus, Pátio de Recebimento, Casal de Matos, Aba (Wikipedia 26m)"
+  ],
+  "vila-real-h2": [
+    41.29633,
+    -7.74652,
+    "OSM Nominatim: Sé de Vila Real, Pátio Elisa Batista de Sousa Pedroso, Quinc"
+  ],
+  "vila-real-h3": [
+    41.3775,
+    -7.86741,
+    "OSM Nominatim: Cascatas de Fisgas de Ermelo, Ermelo e Pardelhas, Mondim de "
+  ],
+  "vila-real-h4": [
+    41.28348,
+    -7.68212,
+    "OSM Nominatim: Santuário de Panóias, Assento, Constantim e Vale de Nogueira"
   ]
 }

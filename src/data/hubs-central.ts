@@ -1143,6 +1143,70 @@ export const hubsCentral: Record<string, RawCityHubs> = {
   'angra-do-heroismo': {
     air: [['Terceira Lajes (TER)', '테르세이라 공항 (TER)']],
   },
+  'ponte-de-lima': {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    bus: [['Ponte de Lima bus station', '폰테 드 리마 버스 터미널', '포르투·브라가행|to Porto, Braga']],
+  },
+  geres: {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    bus: [['Gerês', '제레스 버스 정류장', '브라가행|to Braga']],
+  },
+  braganca: {
+    air: [['Bragança (BGC)', '브라간사 공항 (BGC)', '운항편 적음|few flights'], ['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    bus: [['Bragança bus station', '브라간사 버스 터미널', '포르투·리스본행|to Porto, Lisbon']],
+  },
+  'vila-real': {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    bus: [['Vila Real bus station', '빌라 레알 버스 터미널', '포르투행|to Porto']],
+  },
+  viseu: {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    bus: [['Viseu bus station', '비세우 버스 터미널', '리스본·포르투·코임브라행|to Lisbon, Porto, Coimbra']],
+  },
+  piodao: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon'], ['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+  },
+  bucaco: {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    rail: [['Luso-Buçaco', '루소-부사코역']],
+  },
+  almeida: {
+    air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)', '포르투|Porto']],
+    rail: [['Guarda', '과르다역', '알메이다까지 차로 약 45분|about 45 min by car to Almeida']],
+  },
+  sesimbra: {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon']],
+    bus: [['Sesimbra bus terminal', '세짐브라 버스 터미널', '리스본행|to Lisbon']],
+  },
+  mertola: {
+    air: [['Faro (FAO)', '파루 공항 (FAO)', '파루|Faro']],
+    bus: [['Mértola bus station', '메르톨라 버스 정류장', '리스본·베자행|to Lisbon, Beja']],
+  },
+  'vila-nova-de-milfontes': {
+    air: [['Lisboa Humberto Delgado (LIS)', '리스본 공항 (LIS)', '리스본|Lisbon'], ['Faro (FAO)', '파루 공항 (FAO)', '파루|Faro']],
+    bus: [['Vila Nova de Milfontes bus stop', '밀폰테스 버스 정류장', '리스본행|to Lisbon']],
+  },
+  silves: {
+    air: [['Faro (FAO)', '파루 공항 (FAO)', '파루|Faro']],
+    rail: [['Silves', '실브스역', '마을까지 약 2km|about 2 km to town']],
+  },
+  albufeira: {
+    air: [['Faro (FAO)', '파루 공항 (FAO)', '파루|Faro']],
+    rail: [['Albufeira-Ferreiras', '알부페이라-페헤이라스역', '시내까지 버스|bus to town']],
+    bus: [['Albufeira bus terminal', '알부페이라 버스 터미널']],
+  },
+  horta: {
+    air: [['Horta (HOR)', '오르타 공항 (HOR)']],
+    port: [['Horta ferry terminal', '오르타 선착장', '피쿠섬 마달레나행|to Madalena, Pico']],
+  },
+  pico: {
+    air: [['Pico (PIX)', '피쿠 공항 (PIX)']],
+    port: [['Madalena', '마달레나 선착장', '오르타행|to Horta']],
+  },
+  'porto-moniz': {
+    air: [['Madeira (FNC)', '마데이라 공항 (FNC)', '푼샬|Funchal']],
+    bus: [['Porto Moniz bus stop', '포르투 모니스 버스 정류장', '푼샬행|to Funchal']],
+  },
   porto: {
     air: [['Porto Francisco Sá Carneiro (OPO)', '포르투 공항 (OPO)']],
     rail: [

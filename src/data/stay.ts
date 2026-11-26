@@ -615,6 +615,54 @@ export const STAY: Record<string, StayArea[]> = {
   'angra-do-heroismo': [
     a('구시가', 'Old town', 'Angra do Heroísmo', '처음 가는 여행에 추천|Best for a first visit', '구시가와 항구가 걸어서 닿고 공항까지 차로 약 25분입니다.|The old town and harbour on foot, about 25 min by car from the airport.'),
   ],
+  'ponte-de-lima': [
+    a('구시가', 'Old town', 'Largo de Camões Ponte de Lima', '처음이라면|First visit', '다리와 광장이 걸어서 닿습니다.|The bridge and square on foot.'),
+  ],
+  geres: [
+    a('제레스 마을', 'Gerês village', 'Gerês', '처음이라면|First visit', '온천 마을로 숙소와 식당이 모여 있습니다.|The spa village, with places to stay and eat.'),
+  ],
+  braganca: [
+    a('성채 아래 시내', 'Town below the citadel', 'Bragança', '처음이라면|First visit', '성채와 박물관이 걸어서 닿습니다.|The citadel and museums on foot.'),
+  ],
+  'vila-real': [
+    a('시내 중심', 'Town centre', 'Vila Real', '처음이라면|First visit', '구시가와 버스 터미널이 가깝습니다.|Near the old town and bus station.'),
+  ],
+  viseu: [
+    a('구시가', 'Old town', 'Rossio Viseu', '처음이라면|First visit', '대성당과 광장이 걸어서 닿습니다.|The cathedral and squares on foot.'),
+  ],
+  piodao: [
+    a('마을 안', 'In the village', 'Piódão', '처음이라면|First visit', '돌집 민박에 묵으며 저녁 풍경을 봅니다.|Stay in a stone guesthouse to see the village at dusk.'),
+  ],
+  bucaco: [
+    a('루소', 'Luso', 'Luso', '처음이라면|First visit', '온천 마을에 묵으며 숲까지 걸어 오릅니다.|Stay in the spa village and walk up to the forest.'),
+  ],
+  almeida: [
+    a('요새 안', 'Inside the fortress', 'Almeida', '처음이라면|First visit', '성벽 안 마을에 묵습니다.|Stay in the village inside the walls.'),
+  ],
+  sesimbra: [
+    a('해변가', 'Seafront', 'Sesimbra', '처음이라면|First visit', '해변과 식당가가 바로 앞입니다.|The beach and restaurants on your doorstep.'),
+  ],
+  mertola: [
+    a('성벽 안 구시가', 'Old town inside the walls', 'Mértola', '처음이라면|First visit', '성과 박물관들이 걸어서 닿습니다.|The castle and museums on foot.'),
+  ],
+  'vila-nova-de-milfontes': [
+    a('마을 중심', 'Village centre', 'Vila Nova de Milfontes', '처음이라면|First visit', '해변과 식당이 걸어서 닿습니다.|The beaches and restaurants on foot.'),
+  ],
+  silves: [
+    a('구시가', 'Old town', 'Silves', '처음이라면|First visit', '성과 대성당이 걸어서 닿습니다.|The castle and cathedral on foot.'),
+  ],
+  albufeira: [
+    a('구시가', 'Old town', 'Albufeira Old Town', '처음이라면|First visit', '해변과 식당가가 걸어서 닿습니다.|The beach and restaurants on foot.'),
+  ],
+  horta: [
+    a('마리나 주변', 'Around the marina', 'Marina da Horta', '처음이라면|First visit', '항구와 식당, 피쿠섬행 선착장이 가깝습니다.|Near the harbour, restaurants and the Pico ferry.'),
+  ],
+  pico: [
+    a('마달레나', 'Madalena', 'Madalena Pico', '처음이라면|First visit', '선착장과 포도밭이 가깝습니다.|Near the ferry and the vineyards.'),
+  ],
+  'porto-moniz': [
+    a('포르투 모니스', 'Porto Moniz', 'Porto Moniz', '처음이라면|First visit', '수영장 바로 앞의 작은 마을입니다.|A small village right by the pools.'),
+  ],
   porto: [
     a('히베이라', 'Ribeira', 'Ribeira, Porto', '처음 가는 여행에 추천|Best for a first visit', '강변의 옛 동네로 관광지를 걸어서 다닙니다. 가장 관광객이 많습니다.|The riverside old quarter, walkable to the sights; the most touristy part.'),
     a('바이샤', 'Baixa', 'Baixa, Porto', '중심가·교통|Downtown and transport', '상벤투역이 있는 시내 중심으로 밤에도 활기찹니다.|Downtown around São Bento station, lively at night.'),

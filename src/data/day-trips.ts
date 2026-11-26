@@ -1028,6 +1028,10 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'ericeira',
       tip: '버스로 약 1시간. 서핑 해변과 하얀 어촌을 보고 해산물을 먹습니다. 가는 길에 마프라 궁전을 들러도 됩니다.|About 1 hr by bus: surf beaches, the white village and seafood; stop at Mafra Palace on the way.',
     },
+    {
+      to: 'sesimbra',
+      tip: '어촌 해변에서 생선구이를 먹고 언덕 위 성에 오릅니다.|Grilled fish by the beach and a climb to the hilltop castle.',
+    },
   ],
   porto: [
     {
@@ -1058,11 +1062,19 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'viana-do-castelo',
       tip: '기차로 약 1시간 25분. 푸니쿨라로 산타 루지아 성당에 오르고 구시가 광장을 봅니다.|About 1 hr 25 by train: the funicular to Santa Luzia and the old-town square.',
     },
+    {
+      to: 'ponte-de-lima',
+      tip: '중세 다리와 강가 광장을 걷고, 여름엔 정원 축제를 봅니다.|Walk the medieval bridge and riverside square; see the garden festival in summer.',
+    },
   ],
   coimbra: [
     {
       to: 'aveiro',
       tip: '기차로 30분. 운하 배와 코스타 노바를 봅니다.|30 min by train: canal boats and Costa Nova.',
+    },
+    {
+      to: 'bucaco',
+      tip: '기차로 루소에 가서 부사코 숲과 궁전 호텔을 걷습니다.|Train to Luso, then walk the Bussaco forest and palace hotel.',
     },
   ],
   faro: [

@@ -4374,6 +4374,174 @@ export const cityTransitById: Record<string, CityTransit> = {
     apps: [
     ],
   },
+  'ponte-de-lima': {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다닙니다.',
+      en: 'Walk the town.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  geres: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '국립공원 안은 버스가 드물어 차가 편합니다.',
+      en: 'Buses in the park are sparse; a car is easiest.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  braganca: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 자연공원은 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the park.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  'vila-real': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 마테우스 궁전은 버스나 택시로 갑니다.',
+      en: 'Walk the town; take a bus or taxi to Mateus Palace.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  viseu: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'Walk the old town.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  piodao: {
+    modes: ['walk'],
+    howTo: {
+      ko: '마을은 걸어서 다니며, 오가는 길은 차가 필요합니다.',
+      en: 'Walk the village; you need a car to get there.',
+    },
+    apps: [
+    ],
+  },
+  bucaco: {
+    modes: ['walk', 'taxi', 'train'],
+    howTo: {
+      ko: '루소에서 숲까지 걸어 오르거나 택시를 탑니다.',
+      en: 'Walk up from Luso to the forest or take a taxi.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  almeida: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 마을 사이는 차가 필요합니다.',
+      en: 'Walk the villages; you need a car between them.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  sesimbra: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 에스피셰우곶은 버스나 차로 갑니다.',
+      en: 'Walk the town; take a bus or car to Cabo Espichel.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  mertola: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 주변 명소는 차가 필요합니다.',
+      en: 'Walk the town; you need a car for the sights around.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  'vila-nova-de-milfontes': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 해안 마을 사이는 차나 버스를 탑니다.',
+      en: 'Walk the village; use a car or bus between coastal villages.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  silves: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 역까지는 버스나 택시를 탑니다.',
+      en: 'Walk the town; take a bus or taxi to the station.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  albufeira: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내 버스가 구시가와 해변들을 잇습니다.',
+      en: 'Town buses link the old town and beaches.',
+    },
+    apps: [
+      ta('cp'),
+      ta('rede-expressos'),
+    ],
+  },
+  horta: {
+    modes: ['walk', 'taxi', 'ferry', 'bus'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 섬 일주는 차나 투어가 편합니다.',
+      en: 'Walk the town; a car or tour is easiest round the island.',
+    },
+    apps: [
+    ],
+  },
+  pico: {
+    modes: ['walk', 'taxi', 'ferry'],
+    howTo: {
+      ko: '섬 버스가 드물어 차나 투어가 편합니다.',
+      en: 'Island buses are sparse; a car or tour is easiest.',
+    },
+    apps: [
+    ],
+  },
+  'porto-moniz': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 판알 숲은 차가 필요합니다.',
+      en: 'Walk the village; you need a car for Fanal.',
+    },
+    apps: [
+    ],
+  },
   porto: {
     modes: ['metro', 'bus', 'train', 'tram', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

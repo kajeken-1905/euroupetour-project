@@ -225,4 +225,121 @@ export const placesPTExtra: Place[] = [
   place('angra-do-heroismo-fine_dining-2', 'angra-do-heroismo', 'fine_dining', 'O Cachalote', 'Rua do Rego 14, Angra do Heroísmo, Portugal', '해산물 식당. 구글 지도 평점 4.5.', 'Seafood restaurant. Rated 4.5 on Google Maps.'),
   place('angra-do-heroismo-bakery-1', 'angra-do-heroismo', 'bakery', 'O Forno Pastelaria', 'Rua de São João 67, Angra do Heroísmo, Portugal', '구시가 제과점.', 'Old-town pastry shop.'),
   place('angra-do-heroismo-bakery-2', 'angra-do-heroismo', 'bakery', 'Pastelaria Santa Bárbara', 'Rua da Guarita 12, Angra do Heroísmo, Portugal', '동네 빵집.', 'Neighbourhood bakery.'),
+
+  // —— ponte-de-lima: restaurants, bakeries and cafés (2026-11-25) ——
+  place('ponte-de-lima-fine_dining-1', 'ponte-de-lima', 'fine_dining', 'A Carvalheira', 'Rua do Eido Velho 73, 4990-620 Fornelos, Ponte de Lima, Portugal', '포르투갈 전통 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 1533개).', 'Traditional Portuguese restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (1533 reviews).'),
+  place('ponte-de-lima-fine_dining-2', 'ponte-de-lima', 'fine_dining', 'Restaurante Rio Lima', 'Rua da Matriz 6, Ponte de Lima, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 365개).', 'Restaurant. Rated 4.8 on Google Maps (365 reviews).'),
+  place('ponte-de-lima-fine_dining-3', 'ponte-de-lima', 'fine_dining', 'Taberna Porta Vermelha', 'Largo da Freiria 33, Ponte de Lima, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 447개).', 'Restaurant. Rated 4.6 on Google Maps (447 reviews).'),
+  place('ponte-de-lima-fine_dining-4', 'ponte-de-lima', 'fine_dining', 'Taverna Vaca das Cordas', 'Rua Beato Francisco Pacheco 38, Ponte de Lima, Portugal', '레스토랑. 구글 지도 평점 4.5(리뷰 965개).', 'Restaurant. Rated 4.5 on Google Maps (965 reviews).'),
+  place('ponte-de-lima-bakery-1', 'ponte-de-lima', 'bakery', 'Doce Encontro Pastelaria', 'Via do Foral Velho de Dona Teresa 19, Ponte de Lima, Portugal', '과자점. 구글 지도 평점 4.6(리뷰 306개).', 'Pastry shop. Rated 4.6 on Google Maps (306 reviews).'),
+  place('ponte-de-lima-bakery-2', 'ponte-de-lima', 'bakery', 'Pastelaria Confeitaria Bijou', 'Rua Inácio Perestrelo 32, Ponte de Lima, Portugal', '과자점. 구글 지도 평점 4.4(리뷰 159개).', 'Pastry shop. Rated 4.4 on Google Maps (159 reviews).'),
+
+  // —— geres: restaurants, bakeries and cafés (2026-11-25) ——
+  place('geres-fine_dining-1', 'geres', 'fine_dining', 'Turismo', 'Rua Santa Marinha 294, Gerês, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 829개).', 'Restaurant. Rated 4.6 on Google Maps (829 reviews).'),
+  place('geres-fine_dining-2', 'geres', 'fine_dining', 'Petiscos da Bó Gusta', 'Rua Augusto Sérgio Almeida Maia 1, Gerês, Portugal', '레스토랑. 구글 지도 평점 4.3(리뷰 1221개).', 'Restaurant. Rated 4.3 on Google Maps (1221 reviews).'),
+  place('geres-cafe-1', 'geres', 'cafe', 'Coffee Bridge', 'Avenida das Pontes 35, Gerês, Portugal', '카페. 구글 지도 평점 4.4(리뷰 1694개).', 'Café. Rated 4.4 on Google Maps (1694 reviews).'),
+
+  // —— braganca: restaurants, bakeries and cafés (2026-11-25) ——
+  place('braganca-fine_dining-1', 'braganca', 'fine_dining', 'G Pousada', 'Pousada de São Bartolomeu, 5300-271 Bragança, Portugal', '창작 요리 레스토랑. 미쉐린 1스타.', 'Creative restaurant. One MICHELIN star.', { michelin: 'star1' }),
+  place('braganca-fine_dining-2', 'braganca', 'fine_dining', 'Contradição', 'Rua da Cidadela 92, 5300-025 Bragança, Portugal', '포르투갈 전통 요리 레스토랑. 미쉐린 빕 구르망.', 'Traditional Portuguese restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('braganca-fine_dining-3', 'braganca', 'fine_dining', 'O Javali', 'Estrada do Portelo km 5, Bragança, Portugal', '지역 요리 레스토랑. 미쉐린 빕 구르망.', 'Regional cooking restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('braganca-fine_dining-4', 'braganca', 'fine_dining', 'Restaurante Solar Bragançano', 'Praça da Sé 34, Bragança, Portugal', '레스토랑. 구글 지도 평점 4.7(리뷰 2627개).', 'Restaurant. Rated 4.7 on Google Maps (2627 reviews).'),
+  place('braganca-fine_dining-5', 'braganca', 'fine_dining', 'Alma Lusa', 'Rua Alexandre Herculano 74, Bragança, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 908개).', 'Restaurant. Rated 4.6 on Google Maps (908 reviews).'),
+  place('braganca-bakery-1', 'braganca', 'bakery', 'Casa da Zinha', 'Rua 5 de Outubro 28, Bragança, Portugal', '과자점. 구글 지도 평점 4.9(리뷰 303개).', 'Pastry shop. Rated 4.9 on Google Maps (303 reviews).'),
+  place('braganca-bakery-2', 'braganca', 'bakery', 'Casa do Pão', 'Avenida Sá Carneiro 109, Bragança, Portugal', '빵집. 구글 지도 평점 4.6(리뷰 172개).', 'Bakery. Rated 4.6 on Google Maps (172 reviews).'),
+  place('braganca-cafe-1', 'braganca', 'cafe', 'Salão de Chá Docemêndoa', 'Rua Abílio Beça 86, Bragança, Portugal', '찻집. 구글 지도 평점 4.5(리뷰 288개).', 'Tea room. Rated 4.5 on Google Maps (288 reviews).'),
+  place('braganca-cafe-2', 'braganca', 'cafe', 'Pastelaria The Canelão & the Chocolate', 'Rua Padre António Vieira 1, Bragança, Portugal', '카페. 구글 지도 평점 4.5(리뷰 695개).', 'Café. Rated 4.5 on Google Maps (695 reviews).'),
+
+  // —— vila-real: restaurants, bakeries and cafés (2026-11-25) ——
+  place('vila-real-fine_dining-1', 'vila-real', 'fine_dining', 'Cais da Villa', 'Rua Monsenhor Jerónimo do Amaral, 5000-570 Vila Real, Portugal', '포르투갈 전통 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.4(리뷰 1054개).', 'Traditional Portuguese restaurant. Listed in the MICHELIN Guide. Rated 4.4 on Google Maps (1054 reviews).'),
+  place('vila-real-fine_dining-2', 'vila-real', 'fine_dining', 'Forneria', 'Rua António de Azevedo 86, Vila Real, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 2217개).', 'Restaurant. Rated 4.6 on Google Maps (2217 reviews).'),
+  place('vila-real-fine_dining-3', 'vila-real', 'fine_dining', 'Restaurante Tralha', 'Avenida Almeida Lucena 36, Vila Real, Portugal', '레스토랑. 구글 지도 평점 4.5(리뷰 1184개).', 'Restaurant. Rated 4.5 on Google Maps (1184 reviews).'),
+  place('vila-real-fine_dining-4', 'vila-real', 'fine_dining', 'Restaurante Prego Douro', 'Rua Padre Filipe Borges 6, Vila Real, Portugal', '레스토랑. 구글 지도 평점 4.5(리뷰 494개).', 'Restaurant. Rated 4.5 on Google Maps (494 reviews).'),
+  place('vila-real-bakery-1', 'vila-real', 'bakery', 'Pastelaria Casa Lapão', 'Rua da Misericórdia 64, Vila Real, Portugal', '과자점. 구글 지도 평점 4.6(리뷰 912개).', 'Pastry shop. Rated 4.6 on Google Maps (912 reviews).'),
+  place('vila-real-bakery-2', 'vila-real', 'bakery', 'Pastelaria Gomes', 'Rua António de Azevedo 2, Vila Real, Portugal', '과자점. 구글 지도 평점 4.3(리뷰 2220개).', 'Pastry shop. Rated 4.3 on Google Maps (2220 reviews).'),
+  place('vila-real-cafe-1', 'vila-real', 'cafe', 'Café Torrãozinho de Açúcar', 'Rua Dr. José Figueiredo 1, Vila Real, Portugal', '카페. 구글 지도 평점 4.8(리뷰 103개).', 'Café. Rated 4.8 on Google Maps (103 reviews).'),
+  place('vila-real-cafe-2', 'vila-real', 'cafe', 'Bica Café', 'Rua de Santa Iria 1, Vila Real, Portugal', '카페. 구글 지도 평점 4.6(리뷰 96개).', 'Café. Rated 4.6 on Google Maps (96 reviews).'),
+
+  // —— viseu: restaurants, bakeries and cafés (2026-11-25) ——
+  place('viseu-fine_dining-1', 'viseu', 'fine_dining', 'Mesa de Lemos', '3500-541 Silgueiros, Viseu, Portugal', '실게이루스에 있는 창작 요리 레스토랑. 미쉐린 1스타.', 'Creative restaurant in Silgueiros. One MICHELIN star.', { michelin: 'star1' }),
+  place('viseu-fine_dining-2', 'viseu', 'fine_dining', 'Flora (Food & Wine)', 'Rua Grão Vasco 21, 3500-138 Viseu, Portugal', '현대 요리 레스토랑. 미쉐린 빕 구르망.', 'Modern cuisine restaurant. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('viseu-fine_dining-3', 'viseu', 'fine_dining', '3 Pipos', 'Rua Santo Amaro 966, 3460-479 Tondela, Portugal', '톤다에 있는 지역 요리 레스토랑. 미쉐린 빕 구르망.', 'Regional cooking restaurant in Tonda. MICHELIN Bib Gourmand.', { michelin: 'bib' }),
+  place('viseu-fine_dining-4', 'viseu', 'fine_dining', 'DeRaiz', 'Rua Capela 13, 3500-898 São João de Lourosa, Viseu, Portugal', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 762개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (762 reviews).'),
+  place('viseu-fine_dining-5', 'viseu', 'fine_dining', 'Restaurante À Nossa Mesa', 'Rua Poeta António José Pereira 53, Viseu, Portugal', '레스토랑. 구글 지도 평점 4.9(리뷰 91개).', 'Restaurant. Rated 4.9 on Google Maps (91 reviews).'),
+  place('viseu-bakery-1', 'viseu', 'bakery', 'Sabor de Vitória', 'Rua Nova de Jugueiros 107, Viseu, Portugal', '과자점. 구글 지도 평점 4.8(리뷰 138개).', 'Pastry shop. Rated 4.8 on Google Maps (138 reviews).'),
+  place('viseu-bakery-2', 'viseu', 'bakery', 'Pastelaria Capuchinha', 'Praça da República 16, Viseu, Portugal', '과자점. 구글 지도 평점 4.4(리뷰 1845개).', 'Pastry shop. Rated 4.4 on Google Maps (1845 reviews).'),
+  place('viseu-cafe-1', 'viseu', 'cafe', 'Velvet Cupcake & Coffee', 'Praça D. João I, Viseu, Portugal', '카페. 구글 지도 평점 4.6(리뷰 794개).', 'Café. Rated 4.6 on Google Maps (794 reviews).'),
+  place('viseu-cafe-2', 'viseu', 'cafe', 'Café do Teatro', 'Largo Mouzinho de Albuquerque 28, Viseu, Portugal', '카페. 구글 지도 평점 4.5(리뷰 232개).', 'Café. Rated 4.5 on Google Maps (232 reviews).'),
+
+  // —— piodao: restaurants, bakeries and cafés (2026-11-25) ——
+  place('piodao-fine_dining-1', 'piodao', 'fine_dining', 'O Fontinha', 'Rua Eugénio Correia, 3305-242 Piódão, Portugal', '포르투갈 전통 요리 레스토랑. 구글 지도 평점 4.8(리뷰 2300개).', 'Traditional Portuguese restaurant. Rated 4.8 on Google Maps (2300 reviews).'),
+  place('piodao-fine_dining-2', 'piodao', 'fine_dining', 'Solar dos Pachecos', 'Largo Cónego Manuel Fernandes Nogueira, 3305-242 Piódão, Portugal', '포르투갈 전통 요리 레스토랑. 구글 지도 평점 4.7(리뷰 1701개).', 'Traditional Portuguese restaurant. Rated 4.7 on Google Maps (1701 reviews).'),
+
+  // —— bucaco: restaurants, bakeries and cafés (2026-11-25) ——
+  place('bucaco-fine_dining-1', 'bucaco', 'fine_dining', 'Restaurante Rei dos Leitões', 'EN1, Avenida da Restauração 17, 3050-382 Mealhada, Portugal', '메알랴다에 있는 새끼 돼지 통구이(레이탕) 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.3(리뷰 4714개).', 'Suckling-pig (leitão) restaurant in Mealhada. Listed in the MICHELIN Guide. Rated 4.3 on Google Maps (4714 reviews).'),
+  place('bucaco-fine_dining-2', 'bucaco', 'fine_dining', 'Dona Sardinha', 'Rua Igreja 85, Luso, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 541개).', 'Restaurant. Rated 4.8 on Google Maps (541 reviews).'),
+  place('bucaco-fine_dining-3', 'bucaco', 'fine_dining', 'Pedra de Sal', 'Rua Dr. Francisco António Diniz 33, Luso, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 1693개).', 'Restaurant. Rated 4.6 on Google Maps (1693 reviews).'),
+  place('bucaco-cafe-1', 'bucaco', 'cafe', 'Café Belo', 'Rua Principal 25, Luso, Portugal', '카페. 구글 지도 평점 4.7(리뷰 702개).', 'Café. Rated 4.7 on Google Maps (702 reviews).'),
+
+  // —— almeida: restaurants, bakeries and cafés (2026-11-25) ——
+  place('almeida-fine_dining-1', 'almeida', 'fine_dining', 'Paiol Bar', 'Rua da Cruz 5, Almeida, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 103개).', 'Restaurant. Rated 4.6 on Google Maps (103 reviews).'),
+  place('almeida-fine_dining-2', 'almeida', 'fine_dining', 'Jardim de Almeida', 'Rua Serpa Pinto 23, Almeida, Portugal', '레스토랑. 구글 지도 평점 4.4(리뷰 229개).', 'Restaurant. Rated 4.4 on Google Maps (229 reviews).'),
+  place('almeida-cafe-1', 'almeida', 'cafe', 'd\'Alma e Canela', 'Rua Comendador Cardoso 21, Almeida, Portugal', '카페. 구글 지도 평점 4.8(리뷰 82개).', 'Café. Rated 4.8 on Google Maps (82 reviews).'),
+
+  // —— sesimbra: restaurants, bakeries and cafés (2026-11-25) ——
+  place('sesimbra-fine_dining-1', 'sesimbra', 'fine_dining', 'Bistrot Vin\'tage', 'Rua dos Pescadores 18, Sesimbra, Portugal', '레스토랑. 구글 지도 평점 4.9(리뷰 630개).', 'Restaurant. Rated 4.9 on Google Maps (630 reviews).'),
+  place('sesimbra-fine_dining-2', 'sesimbra', 'fine_dining', 'O Zagaia', 'Rua Dr. Peixoto Correia 33, Sesimbra, Portugal', '해산물 레스토랑. 구글 지도 평점 4.8(리뷰 1232개).', 'Seafood restaurant. Rated 4.8 on Google Maps (1232 reviews).'),
+  place('sesimbra-fine_dining-3', 'sesimbra', 'fine_dining', 'Restaurante Cantinho da Regina', 'Rua Heliodoro Salgado 1G, Sesimbra, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 767개).', 'Restaurant. Rated 4.8 on Google Maps (767 reviews).'),
+  place('sesimbra-fine_dining-4', 'sesimbra', 'fine_dining', 'Casa Mateus', 'Rua Latino Coelho 7, Sesimbra, Portugal', '해산물 레스토랑. 구글 지도 평점 4.7(리뷰 2692개).', 'Seafood restaurant. Rated 4.7 on Google Maps (2692 reviews).'),
+  place('sesimbra-fine_dining-5', 'sesimbra', 'fine_dining', 'O Batel', 'Avenida dos Náufragos 3, Sesimbra, Portugal', '해산물 레스토랑. 구글 지도 평점 4.7(리뷰 763개).', 'Seafood restaurant. Rated 4.7 on Google Maps (763 reviews).'),
+  place('sesimbra-bakery-1', 'sesimbra', 'bakery', 'Natas D\'Ouro', 'Avenida 25 de Abril 6C, Sesimbra, Portugal', '과자점. 구글 지도 평점 4.9(리뷰 141개).', 'Pastry shop. Rated 4.9 on Google Maps (141 reviews).'),
+  place('sesimbra-bakery-2', 'sesimbra', 'bakery', 'O Melhor Croissant da Minha Rua', 'Largo José António Pereira 4, Sesimbra, Portugal', '빵집. 구글 지도 평점 4.5(리뷰 2465개).', 'Bakery. Rated 4.5 on Google Maps (2465 reviews).'),
+  place('sesimbra-cafe-1', 'sesimbra', 'cafe', 'Sabores da Alma', 'Rua Dr. Alberto Leite 67, Sesimbra, Portugal', '카페. 구글 지도 평점 4.8(리뷰 148개).', 'Café. Rated 4.8 on Google Maps (148 reviews).'),
+  place('sesimbra-cafe-2', 'sesimbra', 'cafe', 'Aloha Café', 'Avenida 25 de Abril 9P, Sesimbra, Portugal', '카페. 구글 지도 평점 4.6(리뷰 857개).', 'Café. Rated 4.6 on Google Maps (857 reviews).'),
+
+  // —— mertola: restaurants, bakeries and cafés (2026-11-25) ——
+  place('mertola-fine_dining-1', 'mertola', 'fine_dining', 'Espaço Vila Velha', 'Rua Dom Sancho II 41, Mértola, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 425개).', 'Restaurant. Rated 4.6 on Google Maps (425 reviews).'),
+  place('mertola-fine_dining-2', 'mertola', 'fine_dining', 'Tamuje', 'Rua Dr. Serrão Martins 16, Mértola, Portugal', '레스토랑. 구글 지도 평점 4.5(리뷰 1443개).', 'Restaurant. Rated 4.5 on Google Maps (1443 reviews).'),
+
+  // —— vila-nova-de-milfontes: restaurants, bakeries and cafés (2026-11-25) ——
+  place('vila-nova-de-milfontes-fine_dining-1', 'vila-nova-de-milfontes', 'fine_dining', 'Restaurante Cantinho Mar e Sol', 'Rua Custódio Brás Pacheco 136, Vila Nova de Milfontes, Portugal', '레스토랑. 구글 지도 평점 4.7(리뷰 320개).', 'Restaurant. Rated 4.7 on Google Maps (320 reviews).'),
+  place('vila-nova-de-milfontes-fine_dining-2', 'vila-nova-de-milfontes', 'fine_dining', 'Tasca do Celso', 'Rua dos Aviadores 34, Vila Nova de Milfontes, Portugal', '해산물 레스토랑. 구글 지도 평점 4.6(리뷰 4583개).', 'Seafood restaurant. Rated 4.6 on Google Maps (4583 reviews).'),
+  place('vila-nova-de-milfontes-cafe-1', 'vila-nova-de-milfontes', 'cafe', 'Laréu Cafetaria', 'Largo do Rossio 18, Vila Nova de Milfontes, Portugal', '카페. 구글 지도 평점 4.9(리뷰 496개).', 'Café. Rated 4.9 on Google Maps (496 reviews).'),
+  place('vila-nova-de-milfontes-bakery-1', 'vila-nova-de-milfontes', 'bakery', 'Pão Café e Companhia', 'Rua Custódio Brás Pacheco 32, Vila Nova de Milfontes, Portugal', '빵집. 구글 지도 평점 4.5(리뷰 2429개).', 'Bakery. Rated 4.5 on Google Maps (2429 reviews).'),
+
+  // —— silves: restaurants, bakeries and cafés (2026-11-25) ——
+  place('silves-fine_dining-1', 'silves', 'fine_dining', 'Bon Bon', 'Urbanização Cabeço de Pias, 8400-010 Carvoeiro, Portugal', '카르보에이루에 있는 현대 요리 레스토랑. 미쉐린 1스타.', 'Modern cuisine restaurant in Carvoeiro. One MICHELIN star.', { michelin: 'star1' }),
+  place('silves-fine_dining-2', 'silves', 'fine_dining', 'Restaurante Parsley & Thyme', 'Rua Policarpo Dias 4, Silves, Portugal', '레스토랑. 구글 지도 평점 4.9(리뷰 405개).', 'Restaurant. Rated 4.9 on Google Maps (405 reviews).'),
+  place('silves-fine_dining-3', 'silves', 'fine_dining', 'Restaurante O Segredo das Avós', 'Rua Cândido dos Reis 107, Silves, Portugal', '포르투갈 전통 요리 레스토랑. 구글 지도 평점 4.9(리뷰 320개).', 'Traditional Portuguese restaurant. Rated 4.9 on Google Maps (320 reviews).'),
+  place('silves-bakery-1', 'silves', 'bakery', 'Pão & Coisas', 'Rua João de Deus 2, Silves, Portugal', '빵집. 구글 지도 평점 4.8(리뷰 145개).', 'Bakery. Rated 4.8 on Google Maps (145 reviews).'),
+  place('silves-cafe-1', 'silves', 'cafe', 'd\'Brezel Coffee', 'Rua Francisco Pablos 1B, Silves, Portugal', '브런치 카페. 구글 지도 평점 4.9(리뷰 230개).', 'Brunch café. Rated 4.9 on Google Maps (230 reviews).'),
+  place('silves-cafe-2', 'silves', 'cafe', 'Café & Companhia', 'Rua Elias Garcia 47, Silves, Portugal', '카페. 구글 지도 평점 4.7(리뷰 2170개).', 'Café. Rated 4.7 on Google Maps (2170 reviews).'),
+  place('silves-cafe-3', 'silves', 'cafe', 'Café da Sé', 'Largo Jerónimo Osório 10A, Silves, Portugal', '카페. 구글 지도 평점 4.6(리뷰 430개).', 'Café. Rated 4.6 on Google Maps (430 reviews).'),
+  place('silves-cafe-4', 'silves', 'cafe', 'Café Inglês', 'Rua do Castelo 11, Silves, Portugal', '카페. 구글 지도 평점 4.5(리뷰 1949개).', 'Café. Rated 4.5 on Google Maps (1949 reviews).'),
+
+  // —— albufeira: restaurants, bakeries and cafés (2026-11-25) ——
+  place('albufeira-fine_dining-1', 'albufeira', 'fine_dining', 'Vila Joya', 'Estrada da Galé, 8200-416 Albufeira, Portugal', '현대 요리 레스토랑. 미쉐린 2스타.', 'Modern cuisine restaurant. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('albufeira-fine_dining-2', 'albufeira', 'fine_dining', 'Ocean', 'Rua Anneliese Pohl, Alporchinhos, 8400-450 Porches, Portugal', '포르셰스에 있는 창작 요리 레스토랑. 미쉐린 2스타.', 'Creative restaurant in Porches. Two MICHELIN stars.', { michelin: 'star2' }),
+  place('albufeira-fine_dining-3', 'albufeira', 'fine_dining', 'Al Quimia', 'EPIC SANA Algarve, Praia da Falésia, 8200-593 Albufeira, Portugal', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 283개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (283 reviews).'),
+  place('albufeira-fine_dining-4', 'albufeira', 'fine_dining', 'Taberna Saudade', 'Travessa dos Arcos 11, Albufeira, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 717개).', 'Restaurant. Rated 4.8 on Google Maps (717 reviews).'),
+  place('albufeira-fine_dining-5', 'albufeira', 'fine_dining', 'Alfredo', 'Rua 5 de Outubro 11, Albufeira, Portugal', '레스토랑. 구글 지도 평점 4.7(리뷰 2855개).', 'Restaurant. Rated 4.7 on Google Maps (2855 reviews).'),
+  place('albufeira-bakery-1', 'albufeira', 'bakery', 'Pastelaria O Cantinho', 'Rua Pedro Álvares Cabral 8, Albufeira, Portugal', '과자점. 구글 지도 평점 4.6(리뷰 174개).', 'Pastry shop. Rated 4.6 on Google Maps (174 reviews).'),
+  place('albufeira-bakery-2', 'albufeira', 'bakery', 'Pastry Sweet Almond', 'Rua Fernando Pessoa 2, Albufeira, Portugal', '과자점. 구글 지도 평점 4.6(리뷰 318개).', 'Pastry shop. Rated 4.6 on Google Maps (318 reviews).'),
+  place('albufeira-cafe-1', 'albufeira', 'cafe', 'Sugar Rabbit Kaffé', 'Rua Latino Coelho 42, Albufeira, Portugal', '카페. 구글 지도 평점 4.7(리뷰 1062개).', 'Café. Rated 4.7 on Google Maps (1062 reviews).'),
+
+  // —— horta: restaurants, bakeries and cafés (2026-11-25) ——
+  place('horta-fine_dining-1', 'horta', 'fine_dining', 'Ah! Boca Santa', 'Rua Serpa Pinto, 9900-099 Horta, Portugal', '레스토랑. 구글 지도 평점 4.9(리뷰 1114개).', 'Restaurant. Rated 4.9 on Google Maps (1114 reviews).'),
+  place('horta-fine_dining-2', 'horta', 'fine_dining', 'Cantinho das Provas', 'Rua Conselheiro Medeiros 38, Horta, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 219개).', 'Restaurant. Rated 4.8 on Google Maps (219 reviews).'),
+  place('horta-cafe-1', 'horta', 'cafe', 'Café Silva', 'Rua Vasco da Gama 4, Horta, Portugal', '카페. 구글 지도 평점 4.7(리뷰 121개).', 'Café. Rated 4.7 on Google Maps (121 reviews).'),
+
+  // —— pico: restaurants, bakeries and cafés (2026-11-25) ——
+  place('pico-fine_dining-1', 'pico', 'fine_dining', 'O Cinco', 'Rua Carlos Dabney 5A, Madalena, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 2361개).', 'Restaurant. Rated 4.6 on Google Maps (2361 reviews).'),
+  place('pico-fine_dining-2', 'pico', 'fine_dining', 'O Petisca', 'Avenida Padre Nunes da Rosa, Madalena, Portugal', '레스토랑. 구글 지도 평점 4.6(리뷰 1826개).', 'Restaurant. Rated 4.6 on Google Maps (1826 reviews).'),
+  place('pico-fine_dining-3', 'pico', 'fine_dining', 'Mercado Bife', 'Rua Carlos Dabney 6, Madalena, Portugal', '레스토랑. 구글 지도 평점 4.5(리뷰 763개).', 'Restaurant. Rated 4.5 on Google Maps (763 reviews).'),
+
+  // —— porto-moniz: restaurants, bakeries and cafés (2026-11-25) ——
+  place('porto-moniz-fine_dining-1', 'porto-moniz', 'fine_dining', 'Vila 77 North', 'ER101 73, Porto Moniz, Portugal', '레스토랑. 구글 지도 평점 4.9(리뷰 2094개).', 'Restaurant. Rated 4.9 on Google Maps (2094 reviews).'),
+  place('porto-moniz-fine_dining-2', 'porto-moniz', 'fine_dining', 'Cantina Esmeralda Brilhante', 'Rua do Lugar 17, Porto Moniz, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 492개).', 'Restaurant. Rated 4.8 on Google Maps (492 reviews).'),
+  place('porto-moniz-fine_dining-3', 'porto-moniz', 'fine_dining', 'Laurus 77', 'Hotel Euro Moniz, Rua dos Alfarrobeiras, Porto Moniz, Portugal', '레스토랑. 구글 지도 평점 4.8(리뷰 135개).', 'Restaurant. Rated 4.8 on Google Maps (135 reviews).'),
+  place('porto-moniz-bakery-1', 'porto-moniz', 'bakery', 'Bolo do Caco', 'Rua dos Alfarrobeiras 2a, Porto Moniz, Portugal', '빵집. 구글 지도 평점 4.7(리뷰 359개).', 'Bakery. Rated 4.7 on Google Maps (359 reviews).'),
 ]

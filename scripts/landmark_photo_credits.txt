@@ -5898,3 +5898,130 @@ highlights/st-davids-3.jpg | https://commons.wikimedia.org/wiki/File:Porth_Mawr_
 highlights/st-davids-4.jpg | https://commons.wikimedia.org/wiki/File:Ynys_Dewi_o%27r_tir_mawr_-_Ramsey_Island_from_the_mainland,_Cymru_(Wales)_14.jpg | CC BY-SA 4.0 | Llywelyn2000
 highlights/aberystwyth-1.jpg | https://www.flickr.com/photos/58415659@N00/52311304563 | BY 2.0 | kitmasterbloke
 highlights/lincoln-6.jpg | https://commons.wikimedia.org/wiki/File:International_Bomber_Command_Centre_Aerial_View.jpg | CC BY-SA 4.0 | International Bomber Command Centre
+cities/ponte-de-lima.jpg | https://commons.wikimedia.org/wiki/File:Ponte_Barca_Abril_2019-1c.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/ponte-de-lima-1.jpg | https://commons.wikimedia.org/wiki/File:Ponte_Barca_Abril_2019-3a.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/ponte-de-lima-2.jpg | https://commons.wikimedia.org/wiki/File:Largo_de_Cam%C3%B5es_-_Ponte_de_Lima_-_Portugal_(3944083847).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/ponte-de-lima-3.jpg | https://commons.wikimedia.org/wiki/File:Liverpool_International_Garden_Festival_Floral_Clock_1984.jpg | CC BY 3.0 | Aq42
+highlights/ponte-de-lima-4.jpg | https://commons.wikimedia.org/wiki/File:Igreja_da_Ordem_dos_Terceiros_de_Santo_Ant%C3%B3nio_-_Ponte_de_Lima_-_Portugal_(18706141216).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/geres.jpg | https://commons.wikimedia.org/wiki/File:Parque_Nacional_Peneda-G%C3%A9res,_Portugal.jpg | CC BY-SA 4.0 | Harpagornis
+highlights/geres-1.jpg | https://commons.wikimedia.org/wiki/File:Cascata_do_Arado_2023-03-13-2.jpg | CC BY-SA 4.0 | The Cosmonaut
+highlights/geres-2.jpg | https://commons.wikimedia.org/wiki/File:Mata_da_Albergaria,_Ger%C3%AAs_-_panoramio.jpg | CC BY-SA 3.0 | Carlos Cunha
+highlights/geres-3.jpg | https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_do_Mosteiro_de_Pit%C3%B5es_das_J%C3%BAnias_-_Portugal_(3963526770).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/geres-4.jpg | https://commons.wikimedia.org/wiki/File:Granaries_in_Soajo_09.jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/braganca.jpg | https://commons.wikimedia.org/wiki/File:Bragan%C3%A7a._Portugal._(53374497753).jpg | CC BY-SA 2.0 | Globetrotteur17... Ici, là-bas ou ailleurs... from La Rochel
+highlights/braganca-1.jpg | https://commons.wikimedia.org/wiki/File:Bragan%C3%A7a_Castelo_204.jpg | CC BY-SA 3.0 | GFreihalter
+highlights/braganca-2.jpg | https://commons.wikimedia.org/wiki/File:DOMUS_MUNICIPALIS_DE_BRAGAN%C3%87A_1.jpg | CC BY-SA 4.0 | Lídia Maria Faria
+highlights/braganca-3.jpg | https://commons.wikimedia.org/wiki/File:Trajes_transmontanos_no_Museu_Ib%C3%A9rico_da_M%C3%A1scara_e_do_Traje.jpg | CC BY-SA 4.0 | Jufsferreira
+cities/vila-real.jpg | https://commons.wikimedia.org/wiki/File:Mateus,_Vila_Real,_Portugal_(54706003768).jpg | CC BY-SA 4.0 | Pom' from France, European Union
+highlights/vila-real-1.jpg | https://commons.wikimedia.org/wiki/File:Mateus_-_Mateus_Palace_-_20220301143739.jpg | CC BY-SA 4.0 | Reis Quarteu
+highlights/vila-real-3.jpg | https://commons.wikimedia.org/wiki/File:Fisgas_de_Ermelo.jpg | CC BY-SA 4.0 | CMMondim
+highlights/vila-real-4.jpg | https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_Rupestre_de_Pan%C3%B3ias_-_Portugal_(235106016).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/viseu.jpg | https://commons.wikimedia.org/wiki/File:Viseu-Vista.jpg | CC BY 2.0 | User:Luso-Tuga (Pedrosimoes7
+highlights/viseu-1.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A9_de_Viseu_-_Portugal_(53217028697).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/viseu-2.jpg | https://commons.wikimedia.org/wiki/File:Museu_Gr%C3%A3o_Vasco_01.jpg | CC BY-SA 4.0 | Joehawkins
+highlights/viseu-3.jpg | https://commons.wikimedia.org/wiki/File:Viseu,_Largo_do_Rossio_(5987445942).jpg | CC BY 2.0 | Luís Sequeira from Estoril, Portugal
+highlights/viseu-4.jpg | https://commons.wikimedia.org/wiki/File:Solar_do_Vinho_do_D%C3%A3o.jpg | CC BY-SA 4.0 | MatosdaSilva
+cities/piodao.jpg | https://commons.wikimedia.org/wiki/File:Pi%C3%B3d%C3%A3o_Arganil.jpg | CC BY-SA 4.0 | Xdiogo
+highlights/piodao-1.jpg | https://commons.wikimedia.org/wiki/File:Piod%C3%A3o_03_e_(34377556703).jpg | CC BY-SA 2.0 | Antonio da Silva Martins from Aveiro, Portugal
+highlights/piodao-2.jpg | https://commons.wikimedia.org/wiki/File:Igreja_Matriz_de_Pi%C3%B3d%C3%A3o_-_Portugal_(6967984615).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/piodao-3.jpg | https://commons.wikimedia.org/wiki/File:Foz_d%27%C3%89gua_-_Portugal_(26247178556).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/bucaco.jpg | https://commons.wikimedia.org/wiki/File:Bu%C3%A7aco.JPG | CC BY-SA 3.0 | No machine-readable author provided. Edescas2 assumed (based
+highlights/bucaco-1.jpg | https://commons.wikimedia.org/wiki/File:Palace_Hotel_do_Bussaco_-_Portugal_(51149870040).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/bucaco-2.jpg | https://commons.wikimedia.org/wiki/File:Mata_Nacional_do_Bu%C3%A7aco.jpg | CC BY-SA 3.0 | Nmmacedo
+highlights/bucaco-3.jpg | https://commons.wikimedia.org/wiki/File:Fonte_Fria_-_Mata_Nacional_do_Bussaco_-_Portugal_(50211226613).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/bucaco-4.jpg | https://commons.wikimedia.org/wiki/File:Fonte_de_S%C3%A3o_Jo%C3%A3o_-_Luso_-_Portugal_(8881446464).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/almeida.jpg | https://commons.wikimedia.org/wiki/File:Fuerte_de_Almeida_entrada.jpg | CC BY-SA 4.0 | Hovallef
+highlights/almeida-1.jpg | https://commons.wikimedia.org/wiki/File:Almeida_fortaleza_0.jpg | CC BY-SA 4.0 | Xemenendura
+highlights/almeida-3.jpg | https://commons.wikimedia.org/wiki/File:Sortelha.2006.02-001.jpg | Public domain | Henrique Maia
+cities/ponte-de-lima.jpg | https://commons.wikimedia.org/wiki/File:Ponte_Barca_Abril_2019-1c.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/ponte-de-lima-1.jpg | https://commons.wikimedia.org/wiki/File:Ponte_Barca_Abril_2019-3a.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/ponte-de-lima-2.jpg | https://commons.wikimedia.org/wiki/File:Largo_de_Cam%C3%B5es_-_Ponte_de_Lima_-_Portugal_(3944083847).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/ponte-de-lima-3.jpg | https://commons.wikimedia.org/wiki/File:Liverpool_International_Garden_Festival_Floral_Clock_1984.jpg | CC BY 3.0 | Aq42
+highlights/ponte-de-lima-4.jpg | https://commons.wikimedia.org/wiki/File:Igreja_da_Ordem_dos_Terceiros_de_Santo_Ant%C3%B3nio_-_Ponte_de_Lima_-_Portugal_(18706141216).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/geres.jpg | https://commons.wikimedia.org/wiki/File:Parque_Nacional_Peneda-G%C3%A9res,_Portugal.jpg | CC BY-SA 4.0 | Harpagornis
+highlights/geres-1.jpg | https://commons.wikimedia.org/wiki/File:Cascata_do_Arado_2023-03-13-2.jpg | CC BY-SA 4.0 | The Cosmonaut
+highlights/geres-2.jpg | https://commons.wikimedia.org/wiki/File:Mata_da_Albergaria,_Ger%C3%AAs_-_panoramio.jpg | CC BY-SA 3.0 | Carlos Cunha
+highlights/geres-3.jpg | https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_do_Mosteiro_de_Pit%C3%B5es_das_J%C3%BAnias_-_Portugal_(3963526770).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/geres-4.jpg | https://commons.wikimedia.org/wiki/File:Granaries_in_Soajo_09.jpg | CC BY-SA 4.0 | Krzysztof Golik
+cities/braganca.jpg | https://commons.wikimedia.org/wiki/File:Bragan%C3%A7a._Portugal._(53374497753).jpg | CC BY-SA 2.0 | Globetrotteur17... Ici, là-bas ou ailleurs... from La Rochel
+highlights/braganca-1.jpg | https://commons.wikimedia.org/wiki/File:Bragan%C3%A7a_Castelo_204.jpg | CC BY-SA 3.0 | GFreihalter
+highlights/braganca-2.jpg | https://commons.wikimedia.org/wiki/File:DOMUS_MUNICIPALIS_DE_BRAGAN%C3%87A_1.jpg | CC BY-SA 4.0 | Lídia Maria Faria
+highlights/braganca-3.jpg | https://commons.wikimedia.org/wiki/File:Trajes_transmontanos_no_Museu_Ib%C3%A9rico_da_M%C3%A1scara_e_do_Traje.jpg | CC BY-SA 4.0 | Jufsferreira
+cities/vila-real.jpg | https://commons.wikimedia.org/wiki/File:Mateus,_Vila_Real,_Portugal_(54706003768).jpg | CC BY-SA 4.0 | Pom' from France, European Union
+highlights/vila-real-1.jpg | https://commons.wikimedia.org/wiki/File:Mateus_-_Mateus_Palace_-_20220301143739.jpg | CC BY-SA 4.0 | Reis Quarteu
+highlights/vila-real-3.jpg | https://commons.wikimedia.org/wiki/File:Fisgas_de_Ermelo.jpg | CC BY-SA 4.0 | CMMondim
+highlights/vila-real-4.jpg | https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_Rupestre_de_Pan%C3%B3ias_-_Portugal_(235106016).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/viseu.jpg | https://commons.wikimedia.org/wiki/File:Viseu-Vista.jpg | CC BY 2.0 | User:Luso-Tuga (Pedrosimoes7
+highlights/viseu-1.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A9_de_Viseu_-_Portugal_(53217028697).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/viseu-2.jpg | https://commons.wikimedia.org/wiki/File:Museu_Gr%C3%A3o_Vasco_01.jpg | CC BY-SA 4.0 | Joehawkins
+highlights/viseu-3.jpg | https://commons.wikimedia.org/wiki/File:Viseu,_Largo_do_Rossio_(5987445942).jpg | CC BY 2.0 | Luís Sequeira from Estoril, Portugal
+highlights/viseu-4.jpg | https://commons.wikimedia.org/wiki/File:Solar_do_Vinho_do_D%C3%A3o.jpg | CC BY-SA 4.0 | MatosdaSilva
+cities/piodao.jpg | https://commons.wikimedia.org/wiki/File:Pi%C3%B3d%C3%A3o_Arganil.jpg | CC BY-SA 4.0 | Xdiogo
+highlights/piodao-1.jpg | https://commons.wikimedia.org/wiki/File:Piod%C3%A3o_03_e_(34377556703).jpg | CC BY-SA 2.0 | Antonio da Silva Martins from Aveiro, Portugal
+highlights/piodao-2.jpg | https://commons.wikimedia.org/wiki/File:Igreja_Matriz_de_Pi%C3%B3d%C3%A3o_-_Portugal_(6967984615).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/piodao-3.jpg | https://commons.wikimedia.org/wiki/File:Foz_d%27%C3%89gua_-_Portugal_(26247178556).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/bucaco.jpg | https://commons.wikimedia.org/wiki/File:Bu%C3%A7aco.JPG | CC BY-SA 3.0 | No machine-readable author provided. Edescas2 assumed (based
+highlights/bucaco-1.jpg | https://commons.wikimedia.org/wiki/File:Palace_Hotel_do_Bussaco_-_Portugal_(51149870040).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/bucaco-2.jpg | https://commons.wikimedia.org/wiki/File:Mata_Nacional_do_Bu%C3%A7aco.jpg | CC BY-SA 3.0 | Nmmacedo
+highlights/bucaco-3.jpg | https://commons.wikimedia.org/wiki/File:Fonte_Fria_-_Mata_Nacional_do_Bussaco_-_Portugal_(50211226613).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/bucaco-4.jpg | https://commons.wikimedia.org/wiki/File:Fonte_de_S%C3%A3o_Jo%C3%A3o_-_Luso_-_Portugal_(8881446464).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/almeida.jpg | https://commons.wikimedia.org/wiki/File:Fuerte_de_Almeida_entrada.jpg | CC BY-SA 4.0 | Hovallef
+highlights/almeida-1.jpg | https://commons.wikimedia.org/wiki/File:Almeida_fortaleza_0.jpg | CC BY-SA 4.0 | Xemenendura
+highlights/almeida-3.jpg | https://commons.wikimedia.org/wiki/File:Sortelha.2006.02-001.jpg | Public domain | Henrique Maia
+cities/sesimbra.jpg | https://commons.wikimedia.org/wiki/File:Sunset_in_Sesimbra_(8jan2022).jpg | CC BY-SA 2.0 | José Carlos Oliveira
+highlights/sesimbra-1.jpg | https://commons.wikimedia.org/wiki/File:Sesimbra_-_Portugal_(50956102918).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/sesimbra-2.jpg | https://commons.wikimedia.org/wiki/File:Castelo_de_Sesimbra_-_vista_exterior.JPG | Public domain | No machine-readable author provided. Sacavem assumed (based
+highlights/sesimbra-3.jpg | https://commons.wikimedia.org/wiki/File:Cabo_Espichel,_Portugal,_2012-08-18,_DD_09.JPG | CC BY-SA 3.0 | Diego Delso
+highlights/sesimbra-4.jpg | https://commons.wikimedia.org/wiki/File:Praia_do_Ribeiro_do_Cavalo7.jpg | CC BY-SA 4.0 | The Cosmonaut
+cities/mertola.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A9rtola_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_(54021622132).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/mertola-1.jpg | https://commons.wikimedia.org/wiki/File:Castelo_de_M%C3%A9rtola_(5).jpg | CC BY-SA 4.0 | Hugo Ferreira
+highlights/mertola-2.jpg | https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Anuncia%C3%A7%C3%A3o_(1).jpg | CC BY-SA 4.0 | Hugo Ferreira
+highlights/mertola-3.jpg | https://commons.wikimedia.org/wiki/File:ISR-2013-Jerusalem-Temple_Mount-Islamic_Museum.jpg | CC BY-SA 4.0 | Godot13
+highlights/mertola-4.jpg | https://commons.wikimedia.org/wiki/File:Cascade_%22Pulo_do_Lobo%22_(12215286704).jpg | CC BY 2.0 | Joao Bento
+highlights/mertola-5.jpg | https://commons.wikimedia.org/wiki/File:Mina_de_S%C3%A3o_Domingos_-_Lagoa_%C3%A1cida.JPG | CC BY-SA 2.5 | Paulo Juntas
+cities/vila-nova-de-milfontes.jpg | https://commons.wikimedia.org/wiki/File:Vila_Nova_de_Milfontes_-_Portugal_(28615707970).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/vila-nova-de-milfontes-1.jpg | https://commons.wikimedia.org/wiki/File:Praia_da_Franquia_-_Portugal_(28995594405).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/vila-nova-de-milfontes-3.jpg | https://commons.wikimedia.org/wiki/File:Cabo_Sard%C3%A3o_(1).jpg | CC BY-SA 3.0 | Vanbasten 23
+highlights/vila-nova-de-milfontes-4.jpg | https://commons.wikimedia.org/wiki/File:Odemira_-_Zambujeira_do_Mar_(48885308782).jpg | CC BY 2.0 | Otávio Nogueira from Fortaleza, BR
+cities/silves.jpg | https://commons.wikimedia.org/wiki/File:Monumento_ao_Corticeiro_-_Silves_-_Portugal_(52121517364).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/silves-1.jpg | https://commons.wikimedia.org/wiki/File:Silves_-_Portugal_(52157551779).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/silves-2.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A9_de_Silves_-_Portugal_(52241259468).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/silves-3.jpg | https://commons.wikimedia.org/wiki/File:Archaeological_Museum_of_Thebes,_201218.jpg | CC BY-SA 4.0 | Zde
+highlights/silves-4.jpg | https://commons.wikimedia.org/wiki/File:PONTE_VELHA_DE_SILVES_4.jpg | CC BY-SA 4.0 | Lídia Maria Faria
+cities/albufeira.jpg | https://commons.wikimedia.org/wiki/File:Albufeira_beach_portugal.jpg | CC BY-SA 4.0 | CesareBonaparte
+highlights/albufeira-2.jpg | https://commons.wikimedia.org/wiki/File:Praia_da_Fal%C3%A9sia_(50255964768).jpg | CC BY-SA 2.0 | Paulo Valdivieso from Lisboa, Portugal
+highlights/albufeira-3.jpg | https://commons.wikimedia.org/wiki/File:Marina_de_Albufeira_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_(53843484002).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/horta.jpg | https://commons.wikimedia.org/wiki/File:Vista_de_Horta_desde_Monte_da_Guia,_isla_de_Fayal,_Azores,_Portugal,_2020-07-27,_DD_07-18_HDR_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/horta-1.jpg | https://commons.wikimedia.org/wiki/File:Marina_da_Horta_-_Portugal_(53367830190).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/horta-2.jpg | https://commons.wikimedia.org/wiki/File:Peter_Cafe_Sport_(14833037870).jpg | CC BY 2.0 | David Stanley from Nanaimo, Canada
+highlights/horta-3.jpg | https://commons.wikimedia.org/wiki/File:Capelinhos_(50666777576).jpg | CC BY-SA 2.0 | Navin75
+highlights/horta-4.jpg | https://commons.wikimedia.org/wiki/File:Faial_Caldera_panorama3.jpg | CC BY-SA 4.0 | The Cosmonaut
+cities/pico.jpg | https://commons.wikimedia.org/wiki/File:Montanha_do_Pico,_aspectos_5_ilha_do_Pico,_A%C3%A7ores,_Portugal.JPG | Public domain | José Luís Ávila Silveira/Pedro Noronha e Costa
+highlights/pico-1.jpg | https://commons.wikimedia.org/wiki/File:Montanha_do_Pico,_aspectos_5_ilha_do_Pico,_A%C3%A7ores,_Portugal.JPG | Public domain | José Luís Ávila Silveira/Pedro Noronha e Costa
+highlights/pico-2.jpg | https://commons.wikimedia.org/wiki/File:Lajido,_as_vinhas_encontram_o_mar.jpg | CC BY-SA 4.0 | Manuel Silveira
+highlights/pico-3.jpg | https://commons.wikimedia.org/wiki/File:Museu_dos_Baleeiros_na_Ilha_do_Pico.jpg | CC BY-SA 4.0 | Acfmagalhaes
+cities/porto-moniz.jpg | https://commons.wikimedia.org/wiki/File:Piscinas_naturais_-_Porto_Moniz_-_Madeira_01.jpg | CC BY-SA 3.0 | H. Zell
+highlights/porto-moniz-1.jpg | https://commons.wikimedia.org/wiki/File:Porto_Moniz_(Madeira,_Portugal),_Piscinas_Naturais_do_Porto_Moniz_--_2025_--_1779.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/porto-moniz-2.jpg | https://commons.wikimedia.org/wiki/File:Praia_do_Seixal,_Ba%C3%ADa_do_Seixal_11.jpg | CC BY-SA 4.0 | GualdimG
+highlights/porto-moniz-3.jpg | https://commons.wikimedia.org/wiki/File:Fanal_(Madeira,_Portugal),_Lorbeerwald_--_2025_--_1527.jpg | CC BY-SA 4.0 | Dietmar Rabich
+highlights/porto-moniz-4.jpg | https://commons.wikimedia.org/wiki/File:Seixal_Miradouro_do_V%C3%A9u_da_Noiva_(53511892150).jpg | CC BY 2.0 | Michael Gaylard from Horsham, UK
+highlights/sintra-7.jpg | https://commons.wikimedia.org/wiki/File:Convento_dos_Capuchos,_Sintra,_Portugal_(20791702541).jpg | CC BY-SA 2.0 | Luis Cozeto from Portugal
+highlights/sintra-8.jpg | https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Seteais_2013_10.JPG | CC BY-SA 4.0 | Gryffindor
+highlights/cascais-7.jpg | https://commons.wikimedia.org/wiki/File:Guincho_May_2012-3.jpg | CC BY-SA 3.0 | Alvesgaspar
+highlights/setubal-6.jpg | https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_Romanas.jpg | CC BY-SA 4.0 | Paula Dionísio
+highlights/setubal-7.jpg | https://commons.wikimedia.org/wiki/File:Castelo_de_Palmela_Pousada_01.jpg | CC BY-SA 4.0 | GualdimG
+highlights/faro-7.jpg | https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_Romanas_de_Milreu_-_Portugal_(35093851956).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/tavira-5.jpg | https://commons.wikimedia.org/wiki/File:Cacela_Velha_(Portugal)_(48757864783).jpg | CC BY 2.0 | Jose A.
+highlights/lagos-8.jpg | https://commons.wikimedia.org/wiki/File:Praia_da_Marinha_(2012-09-27),_by_Klugschnacker_in_Wikipedia_(86).JPG | CC BY-SA 3.0 | Klugschnacker
+highlights/obidos-6.jpg | https://commons.wikimedia.org/wiki/File:Interior_Igreja_Paroquial_de_Santiago_Obidos_06.jpg | CC BY-SA 4.0 | GualdimG
+highlights/braga-8.jpg | https://commons.wikimedia.org/wiki/File:Museu_dos_Biscainhos_2025_08.jpg | CC BY 4.0 | Joseolgon
+highlights/braga-9.jpg | https://commons.wikimedia.org/wiki/File:Braga_Pal%C3%A1cio_do_Raio_402.jpg | CC BY-SA 3.0 | GFreihalter
+highlights/monsanto-4.jpg | https://commons.wikimedia.org/wiki/File:Rota_dos_F%C3%B3sseis_VII_(35579456286).jpg | CC BY 2.0 | Pedro from Maia (Porto), Portugal
+highlights/funchal-10.jpg | https://commons.wikimedia.org/wiki/File:Glass_balcony_of_Cabo_Gir%C3%A3o_skywalk,_C%C3%A2mara_de_Lobos,_Madeira,_2023_May.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/ponta-delgada-6.jpg | https://commons.wikimedia.org/wiki/File:Lagoa_do_Fogo_2023-02-26.jpg | CC BY-SA 4.0 | The Cosmonaut
+highlights/angra-do-heroismo-5.jpg | https://commons.wikimedia.org/wiki/File:Vista_de_Praia_da_Vit%C3%B3ria_desde_miradouro_do_Facho,_isla_de_Terceira,_Azores,_Portugal,_2020-07-24,_DD_87-95_PAN.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/braganca-4.jpg | https://www.flickr.com/photos/21446942@N00/4035838408 | BY-SA 2.0 | Portuguese_eyes
+highlights/vila-real-2.jpg | https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Marqu%C3%AAs_de_Pombal_-_Vila_Real_de_Santo_Ant%C3%B3nio_-_Portugal_(46726144395).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+highlights/almeida-2.jpg | https://commons.wikimedia.org/wiki/File:Muralhas_de_Almeida.jpg | CC BY-SA 3.0 | Alexa Pinto
+highlights/vila-nova-de-milfontes-2.jpg | https://commons.wikimedia.org/wiki/File:Rota_Vicentina_(19614770351).jpg | CC BY 2.0 | Emmanuel Eragne from Athens, Greece
+highlights/marvao-4.jpg | https://commons.wikimedia.org/wiki/File:Cidade_Romana_de_Ammaia_-_Portugal_(45427469695).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
