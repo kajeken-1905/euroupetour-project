@@ -6334,3 +6334,12 @@ highlights/opava-3.jpg | https://commons.wikimedia.org/wiki/File:Main_gate_-_Hra
 highlights/prague-24.jpg | https://commons.wikimedia.org/wiki/File:India_national_museum_01.jpg | CC BY-SA 3.0 | Miya.m
 highlights/prague-25.jpg | https://commons.wikimedia.org/wiki/File:Praha,_Letn%C3%A1,_Metronom.jpg | CC BY-SA 3.0 | User:Aktron
 highlights/kromeriz-4.jpg | https://commons.wikimedia.org/wiki/File:Overview_2_of_Velk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_street_in_Krom%C4%9B%C5%99%C3%AD%C5%BE,_Krom%C4%9B%C5%99%C3%AD%C5%BE_District.jpg | CC BY-SA 4.0 | Jiří Sedláček
+cities/cheb.jpg | https://www.flickr.com/photos/44296132@N06/28778322295 | BY 2.0 | Bernd Thaller
+highlights/cheb-3.jpg | https://commons.wikimedia.org/wiki/File:Cheb_velk%C3%BD_kostel_1.jpg | CC BY-SA 4.0 | VitVit
+highlights/cheb-4.jpg | https://commons.wikimedia.org/wiki/File:Franti%C5%A1kovy_L%C3%A1zn%C4%9B_centrum_2.jpg | CC BY-SA 4.0 | VitVit
+cities/terezin.jpg | https://www.flickr.com/photos/91124353@N05/32662281967 | BY 2.0 | sky_hlv
+highlights/terezin-1.jpg | https://commons.wikimedia.org/wiki/File:Terez%C3%ADn,_Mal%C3%A1_pevnost,_I._dv%C5%AFr_(1).JPG | CC BY-SA 3.0 | PatrikPaprika
+highlights/terezin-2.jpg | https://commons.wikimedia.org/wiki/File:Terezin_CZ_Ghetto_Museum_Ater6.jpg | CC BY-SA 2.0 de | Hans Weingartz=Leonce49
+highlights/terezin-3.jpg | https://commons.wikimedia.org/wiki/File:Terez%C3%ADn_magdebursk%C3%A1_kas%C3%A1rna_5.jpg | CC BY-SA 4.0 | VitVit
+highlights/terezin-4.jpg | https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_n%C3%A1m%C4%9Bst%C3%AD_font%C3%A1na_1.jpg | CC BY-SA 4.0 | VitVit
+highlights/roznov-3.jpg | https://commons.wikimedia.org/wiki/File:Stezka-Vala%C5%A1ka03.jpg | CC BY-SA 4.0 | Hugo
