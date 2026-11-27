@@ -155,6 +155,55 @@ export const STAY: Record<string, StayArea[]> = {
   sopron: [
     a('성벽 안 구시가와 주변', 'Inside the old walls', 'Sopron old town', '처음 가는 여행에 추천|Best for a first visit', '불의 탑과 광장이 걸어서 닿고 역까지 걸어서 약 10분입니다.|The Firewatch Tower and square on foot, about 10 min’s walk from the station.'),
   ],
+  szekesfehervar: [
+    a('구시가', 'Old town', 'Városház tér Székesfehérvár', '처음 가는 여행에 추천|Best for a first visit', '광장과 유적이 걸어서 닿습니다.|The square and ruins on foot.'),
+  ],
+  veszprem: [
+    a('성채 아래 시내', 'Below the castle', 'Óváros tér Veszprém', '처음 가는 여행에 추천|Best for a first visit', '성채와 식당이 걸어서 닿습니다.|The castle and restaurants on foot.'),
+  ],
+  balatonfured: [
+    a('호숫가', 'Lakefront', 'Tagore sétány', '처음 가는 여행에 추천|Best for a first visit', '산책로와 부두 옆 호텔들입니다.|Hotels by the promenade and pier.'),
+  ],
+  sumeg: [
+    a('케스트헤이·헤비즈에서 다녀오기', 'Day trip from Keszthely or Hévíz', 'Keszthely', '거점에서 다녀오기|Visit from a base', '케스트헤이에서 버스로 약 40분입니다.|About 40 min by bus from Keszthely.'),
+  ],
+  esztergom: [
+    a('물의 도시 (비지바로시)', 'Víziváros', 'Víziváros Esztergom', '처음 가는 여행에 추천|Best for a first visit', '대성당 언덕 아래 강가 동네입니다.|The riverside quarter below the basilica hill.'),
+  ],
+  koszeg: [
+    a('구시가', 'Old town', 'Jurisics tér Kőszeg', '처음 가는 여행에 추천|Best for a first visit', '성과 광장이 걸어서 닿습니다.|The castle and square on foot.'),
+  ],
+  heviz: [
+    a('호수 주변', 'Around the lake', 'Hévíz', '처음 가는 여행에 추천|Best for a first visit', '온천 호텔이 많고 호수까지 걸어갑니다.|Spa hotels within walking distance of the lake.'),
+  ],
+  villany: [
+    a('와인 마을', 'Wine village', 'Villány', '처음 가는 여행에 추천|Best for a first visit', '와이너리 펜션에서 묵으며 걸어서 저장고를 돕니다.|Stay at a winery guesthouse and walk between cellars.'),
+  ],
+  matra: [
+    a('마트러퓌레드', 'Mátrafüred', 'Mátrafüred', '처음 가는 여행에 추천|Best for a first visit', '숲속 호텔과 산책로 입구가 있습니다.|Forest hotels by the trailheads.'),
+  ],
+  miskolc: [
+    a('미슈콜츠 시내', 'Miskolc centre', 'Miskolc', '처음 가는 여행에 추천|Best for a first visit', '트램이 다녀 온천·성으로 가기 편합니다.|Trams make the bath and castle easy.'),
+    a('릴러퓌레드', 'Lillafüred', 'Lillafüred', '숲속 휴양|Forest retreat', '호숫가 궁전 호텔과 펜션이 있습니다.|The palace hotel and guesthouses by the lake.'),
+  ],
+  aggtelek: [
+    a('미슈콜츠에서 다녀오기', 'Day trip from Miskolc', 'Miskolc', '거점에서 다녀오기|Visit from a base', '버스가 드물어 미슈콜츠에서 다녀오거나 동굴 앞 숙소에 묵습니다.|Buses are infrequent; visit from Miskolc or stay by the cave.'),
+  ],
+  sarospatak: [
+    a('성 주변 시내', 'Town centre', 'Sárospatak', '처음 가는 여행에 추천|Best for a first visit', '성과 대학이 걸어서 닿습니다.|The castle and college on foot.'),
+  ],
+  kecskemet: [
+    a('중앙 광장 주변', 'Around the main square', 'Kossuth tér Kecskemét', '처음 가는 여행에 추천|Best for a first visit', '광장과 아르누보 건물이 걸어서 닿습니다.|The squares and Art Nouveau buildings on foot.'),
+  ],
+  kalocsa: [
+    a('시내 중심', 'Town centre', 'Kalocsa', '처음 가는 여행에 추천|Best for a first visit', '대성당과 박물관이 걸어서 닿습니다.|The cathedral and museums on foot.'),
+  ],
+  godollo: [
+    a('부다페스트에서 다녀오기', 'Day trip from Budapest', 'Budapest', '거점에서 다녀오기|Visit from a base', '부다페스트에서 기차로 약 35분이라 다녀오기 좋습니다.|About 35 min by train from Budapest.'),
+  ],
+  'visegrad-hu': [
+    a('부다페스트·센텐드레에서 다녀오기', 'Day trip from Budapest or Szentendre', 'Szentendre', '거점에서 다녀오기|Visit from a base', '버스로 센텐드레에서 약 35분입니다.|About 35 min by bus from Szentendre.'),
+  ],
   budapest: [
     a('5구 (벨바로시)', 'District V (Belváros-Lipótváros)', 'District V, Budapest', '처음 가는 여행에 추천|Best for a first visit', '국회의사당과 성 이슈트반 대성당을 걸어서 다닙니다. 가장 싼 곳은 아닙니다.|Parliament and St Stephen’s Basilica on foot; not the cheapest.'),
     a('7구 (에르제베트바로시)', 'District VII (Erzsébetváros)', 'District VII, Budapest', '밤 문화|Nightlife', '유대인 지구와 폐허 바(심플라 케르트 등)가 모여 있어 밤에 시끄러울 수 있습니다.|The Jewish Quarter and ruin bars such as Szimpla Kert; it can be noisy at night.'),
@@ -201,6 +250,56 @@ export const STAY: Record<string, StayArea[]> = {
     a('뉴타운', 'New Town', 'New Town, Edinburgh', '처음 가는 여행에 무난|A good first base', '조지언 거리의 중심가로 숙소 선택지가 넓고 어디든 걸어서 갑니다.|Elegant Georgian streets with a wide choice of rooms, a short walk from everything.'),
     a('스톡브리지', 'Stockbridge', 'Stockbridge, Edinburgh', '조용한 마을 분위기|Village feel', '뉴타운에서 내리막 15분쯤의 한적한 동네입니다.|A calmer area about 15 minutes’ walk downhill from the New Town.'),
     a('리스', 'Leith', 'Leith, Edinburgh', '현지 분위기·항구|Local and harbourside', '도심에서 가장 멀지만 버스로 쉽게 오가고 식당이 많습니다.|Furthest out but well served by buses, with good places to eat.'),
+  ],
+  drogheda: [
+    a('시내 중심', 'Town centre', 'Drogheda', '처음 가는 여행에 추천|Best for a first visit', '역과 버스, 식당이 가깝습니다.|Near the station, buses and restaurants.'),
+  ],
+  wicklow: [
+    a('글렌달록·래러', 'Glendalough & Laragh', 'Laragh', '처음 가는 여행에 추천|Best for a first visit', '호텔과 B&B가 유적 가까이 있습니다.|Hotels and B&Bs near the site.'),
+    a('더블린에서 다녀오기', 'Day trip from Dublin', 'Dublin', '거점에서 다녀오기|Visit from a base', '더블린에서 버스나 투어로 하루에 다녀옵니다.|A day by bus or tour from Dublin.'),
+  ],
+  wexford: [
+    a('시내 중심', 'Town centre', 'Wexford', '처음 가는 여행에 추천|Best for a first visit', '부두와 메인 스트리트가 가깝습니다.|Near the quay and Main Street.'),
+  ],
+  athlone: [
+    a('강가 시내', 'Riverside centre', 'Athlone', '처음 가는 여행에 추천|Best for a first visit', '성과 펍, 유람선이 걸어서 닿습니다.|The castle, pubs and boats on foot.'),
+  ],
+  waterford: [
+    a('바이킹 트라이앵글', 'Viking Triangle', 'Viking Triangle Waterford', '처음 가는 여행에 추천|Best for a first visit', '박물관과 강변이 걸어서 닿습니다.|The museums and quays on foot.'),
+  ],
+  cobh: [
+    a('코크에서 다녀오기', 'Day trip from Cork', 'Cork', '거점에서 다녀오기|Visit from a base', '코크에서 기차로 약 25분입니다.|About 25 min by train from Cork.'),
+  ],
+  kenmare: [
+    a('시내 중심', 'Town centre', 'Kenmare', '처음 가는 여행에 추천|Best for a first visit', '식당과 펍이 모여 있습니다.|Restaurants and pubs together.'),
+  ],
+  cashel: [
+    a('시내 중심', 'Town centre', 'Cashel', '처음 가는 여행에 추천|Best for a first visit', '바위까지 걸어서 오릅니다.|A walk up to the rock.'),
+  ],
+  inishmore: [
+    a('킬로넌', 'Kilronan', 'Kilronan', '처음 가는 여행에 추천|Best for a first visit', '부두 가까운 B&B와 펍이 모여 있습니다.|B&Bs and pubs near the pier.'),
+    a('골웨이에서 다녀오기', 'Day trip from Galway', 'Galway', '거점에서 다녀오기|Visit from a base', '버스와 배로 하루에 다녀옵니다.|A day by bus and ferry.'),
+  ],
+  clifden: [
+    a('클리프던 시내', 'Clifden town', 'Clifden', '처음 가는 여행에 추천|Best for a first visit', '식당과 펍, 버스가 모여 있습니다.|Restaurants, pubs and buses.'),
+  ],
+  cong: [
+    a('마을 중심', 'Village centre', 'Cong', '처음 가는 여행에 추천|Best for a first visit', '작은 B&B와 펍이 있습니다.|Small B&Bs and pubs.'),
+  ],
+  sligo: [
+    a('시내 중심', 'Town centre', 'Sligo', '처음 가는 여행에 추천|Best for a first visit', '역과 식당, 강가 펍이 가깝습니다.|Near the station, restaurants and riverside pubs.'),
+  ],
+  letterkenny: [
+    a('시내 중심', 'Town centre', 'Letterkenny', '처음 가는 여행에 추천|Best for a first visit', '버스 정류장과 식당이 가깝습니다.|Near the bus station and restaurants.'),
+  ],
+  donegal: [
+    a('다이아몬드 주변', 'Around the Diamond', 'The Diamond Donegal', '처음 가는 여행에 추천|Best for a first visit', '성과 펍이 걸어서 닿습니다.|The castle and pubs on foot.'),
+  ],
+  killybegs: [
+    a('킬리벡스', 'Killybegs', 'Killybegs', '처음 가는 여행에 추천|Best for a first visit', '항구 마을의 B&B와 식당입니다.|B&Bs and restaurants in the harbour town.'),
+  ],
+  inishowen: [
+    a('카른도나·말린', 'Carndonagh & Malin', 'Carndonagh', '처음 가는 여행에 추천|Best for a first visit', '반도 북쪽 마을의 B&B입니다.|B&Bs in the northern villages.'),
   ],
   dublin: [
     a('템플 바 주변', 'Temple Bar', 'Temple Bar, Dublin', '처음 가는 여행에 추천|Best for a first visit', '트리니티 칼리지가 걸어서 5분입니다. 밤늦게까지 시끄럽고 술값이 비쌉니다.|Five minutes from Trinity College; noisy late into the night and drinks cost more.'),

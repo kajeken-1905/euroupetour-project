@@ -6343,3 +6343,159 @@ highlights/terezin-2.jpg | https://commons.wikimedia.org/wiki/File:Terezin_CZ_Gh
 highlights/terezin-3.jpg | https://commons.wikimedia.org/wiki/File:Terez%C3%ADn_magdebursk%C3%A1_kas%C3%A1rna_5.jpg | CC BY-SA 4.0 | VitVit
 highlights/terezin-4.jpg | https://commons.wikimedia.org/wiki/File:Litom%C4%9B%C5%99ice_n%C3%A1m%C4%9Bst%C3%AD_font%C3%A1na_1.jpg | CC BY-SA 4.0 | VitVit
 highlights/roznov-3.jpg | https://commons.wikimedia.org/wiki/File:Stezka-Vala%C5%A1ka03.jpg | CC BY-SA 4.0 | Hugo
+cities/szekesfehervar.jpg | https://commons.wikimedia.org/wiki/File:Orb_and_Bishop%27s_Palace,_Sz%C3%A9kesfeh%C3%A9rv%C3%A1r,_Hungary_-_panoramio_(24).jpg | CC BY 3.0 | Mister No
+highlights/szekesfehervar-1.jpg | https://commons.wikimedia.org/wiki/File:Sz%C3%A9kesfeh%C3%A9rv%C3%A1r_IMG_20190415_104105_(46824049525).jpg | CC BY-SA 2.0 | János Korom Dr.  &gt;17 Million views from Wien, Austria
+highlights/szekesfehervar-2.jpg | https://commons.wikimedia.org/wiki/File:Sz%C3%A9kesfeh%C3%A9rv%C3%A1r_1963,_V%C3%A1rosh%C3%A1z_t%C3%A9r._-_Fortepan_50765.jpg | CC BY-SA 3.0 | FOTO:Fortepan — ID 50765: Adományozó/Donor: Nagy Gyula. arch
+highlights/szekesfehervar-3.jpg | https://commons.wikimedia.org/wiki/File:Aut%C3%B3busz_p%C3%A1lyaudvar_%C3%A9s_a_Szent_Istv%C3%A1n_sz%C3%A9kesegyh%C3%A1z,_2009-04-22_Sz%C3%A9kesfeh%C3%A9rv%C3%A1r_-_panoramio.jpg | CC BY 3.0 | blatniczky
+highlights/szekesfehervar-4.jpg | https://commons.wikimedia.org/wiki/File:Sz%C3%A9kesfeh%C3%A9rv%C3%A1r_-_Bory-v%C3%A1r_-_1226.JPG | CC BY-SA 3.0 | Oliv0, Élisabeth Clary
+cities/veszprem.jpg | https://commons.wikimedia.org/wiki/File:Veszprem_Piacdomb.jpg | Public domain | Dávid Nagy (ND)
+highlights/veszprem-1.jpg | https://commons.wikimedia.org/wiki/File:Veszpr%C3%A9mi_v%C3%A1r.jpg | CC BY-SA 3.0 | Christo
+highlights/veszprem-2.jpg | https://commons.wikimedia.org/wiki/File:Szent_Mih%C3%A1ly-sz%C3%A9kesegyh%C3%A1z_(Veszpr%C3%A9m)5.jpg | CC BY-SA 4.0 | SNRTZ
+highlights/veszprem-3.jpg | https://commons.wikimedia.org/wiki/File:Veszpr%C3%A9m,_T%C5%B1ztorony_2022_01.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/veszprem-4.jpg | https://commons.wikimedia.org/wiki/File:Herend_Porcelain_Museum.jpg | CC BY-SA 4.0 | Davidi Vardi
+cities/balatonfured.jpg | https://commons.wikimedia.org/wiki/File:Balatonf%C3%BCred_utcar%C3%A9szlet4.jpg | CC0 | Explicatory
+highlights/balatonfured-1.jpg | https://commons.wikimedia.org/wiki/File:Fountain_at_Tagore_Promenade,_Balatonf%C3%BCred.JPG | CC BY-SA 3.0 | Globetrotter19
+highlights/balatonfured-2.jpg | https://commons.wikimedia.org/wiki/File:Balatonf%C3%BCred,_Kossuth_Lajos_forr%C3%A1s.jpg | CC BY 3.0 | Jarba
+highlights/balatonfured-4.jpg | https://commons.wikimedia.org/wiki/File:Balatonf%C3%BCred,_haj%C3%B3%C3%A1llom%C3%A1s._Fortepan_20084.jpg | CC BY-SA 3.0 | FOTO:Fortepan — ID 20084: Adományozó/Donor: Németh Tamás. ar
+cities/sumeg.jpg | https://commons.wikimedia.org/wiki/File:2009_03_08_S%C3%BCmeg_034_(51174574799).jpg | CC BY-SA 2.0 | János Korom Dr.  &gt;17 Million views from Wien, Austria
+highlights/sumeg-1.jpg | https://commons.wikimedia.org/wiki/File:Hungary,_S%C3%BCmeg_Castle.jpg | CC BY 3.0 | Peter Stehlik PS-2507
+highlights/sumeg-2.jpg | https://commons.wikimedia.org/wiki/File:Moscow_-_2026_-_Church_of_the_Ascension_in_Kolomenskoe.jpg | CC BY 4.0 | Юрий Д.К.
+highlights/sumeg-3.jpg | https://commons.wikimedia.org/wiki/File:U.n.p%C3%BCsp%C3%B6ki_palota_(10326._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k)_4.jpg | CC BY-SA 2.5 hu | TUX
+cities/esztergom.jpg | https://commons.wikimedia.org/wiki/File:Views_from_Esztergom_Cathedral,_2006_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/esztergom-2.jpg | https://commons.wikimedia.org/wiki/File:Varmuzeum.JPG | Public domain | WhyteAngel
+highlights/matra-1.jpg | https://commons.wikimedia.org/wiki/File:TV-torony_K%C3%A9kestet%C5%91.jpg | CC0 | MrSilesian
+highlights/matra-2.jpg | https://commons.wikimedia.org/wiki/File:S%C3%A1st%C3%B3_observation_tower.jpg | CC BY-SA 3.0 | Antissimo
+highlights/miskolc-2.jpg | https://commons.wikimedia.org/wiki/File:Di%C3%B3sgy%C5%91r_-_2015.02.07_(1).JPG | CC BY-SA 4.0 | Derzsi Elekes Andor
+cities/matra.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A1tra_K%C3%A9kestet%C5%91_-_panoramio.jpg | CC BY 3.0 | Cusito
+cities/miskolc.jpg | https://commons.wikimedia.org/wiki/File:Lillaf%C3%BCred_Lake.jpg | CC0 | Explicatory
+highlights/miskolc-1.jpg | https://commons.wikimedia.org/wiki/File:Miskolctapolca_Barlangf%C3%BCrd%C5%91_(3).jpg | CC BY-SA 4.0 | Palickap
+highlights/miskolc-3.jpg | https://commons.wikimedia.org/wiki/File:Lillaf%C3%BCred,_Palace_Hotel_(1).jpg | CC BY-SA 4.0 | Palickap
+highlights/miskolc-4.jpg | https://commons.wikimedia.org/wiki/File:Lillaf%C3%BCredi_%C3%81llami_Erdei_Vas%C3%BAt_-_panoramio.jpg | CC BY 3.0 | pzk net
+cities/aggtelek.jpg | https://commons.wikimedia.org/wiki/File:Cseppk%C5%91_Hotel,_Aggtelek,_3759_Hungary_-_panoramio_(16).jpg | CC BY 3.0 | Verőczi Zoltán
+highlights/aggtelek-1.jpg | https://commons.wikimedia.org/wiki/File:Aggtelek_-_Baradla.jpg | CC BY 3.0 | Fenyessanyi
+highlights/aggtelek-2.jpg | https://commons.wikimedia.org/wiki/File:Baradla_R%C3%B6vid-Als%C3%B3-barlang_bej%C3%A1rat2.jpg | CC BY-SA 4.0 | Szenti Tamás
+highlights/aggtelek-3.jpg | https://commons.wikimedia.org/wiki/File:Aggteleki_Nemzeti_Park_szalamandr%C3%A1ja.jpg | CC BY-SA 4.0 | Skatya86
+cities/sarospatak.jpg | https://commons.wikimedia.org/wiki/File:2026_S%C3%A1rospatak_plaque_(Comenius).jpg | CC0 | Qasinka
+highlights/sarospatak-1.jpg | https://commons.wikimedia.org/wiki/File:RO_BN_Castelul_R%C3%A1k%C3%B3czi-B%C3%A1nffy_din_Urmenis_(8).jpg | CC BY-SA 3.0 ro | Țetcu Mircea Rareș
+highlights/sarospatak-2.jpg | https://commons.wikimedia.org/wiki/File:College_of_Agriculture_Pune_(Main_building).jpg | CC BY-SA 4.0 | SBDhanawat
+highlights/sarospatak-3.jpg | https://commons.wikimedia.org/wiki/File:Swimming_Pool_Architecture_by_Imre_Makovecz_-_panoramio.jpg | CC BY-SA 3.0 | Art Anderson
+highlights/sarospatak-4.jpg | https://commons.wikimedia.org/wiki/File:Megyer-hegyi_tengerszem_2021-08-17_01.jpg | CC BY-SA 4.0 | Szilas
+cities/kecskemet.jpg | https://commons.wikimedia.org/wiki/File:Fountain_and_Reformed_church_tower,_Kossuth_Square,_Kecskem%C3%A9t_2016_Hungary.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/kecskemet-1.jpg | https://commons.wikimedia.org/wiki/File:Kossuth_Monument_and_the_Town_Hall,_2017_Ny%C3%ADregyh%C3%A1za.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/kecskemet-2.jpg | https://commons.wikimedia.org/wiki/File:Cifrapalota_-_panoramio_(1).jpg | CC BY 3.0 | Mister No
+cities/kalocsa.jpg | https://commons.wikimedia.org/wiki/File:Kalocsa,_Szenth%C3%A1roms%C3%A1g-oszlop_2020_02.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/kalocsa-1.jpg | https://commons.wikimedia.org/wiki/File:Kalocsa,_%C3%A9rseki_sz%C3%A9kesegyh%C3%A1z_2020_05.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/kalocsa-2.jpg | https://commons.wikimedia.org/wiki/File:Kalocsa,_%C3%A9rseki_palota_a_Szenth%C3%A1roms%C3%A1g-szoborral_2022_01.jpg | CC BY-SA 4.0 | Pasztilla aka Attila Terbócs
+highlights/kalocsa-3.jpg | https://commons.wikimedia.org/wiki/File:Kalocsa_Paprika_M%C3%BAzeum.jpg | CC BY-SA 2.0 | János Korom Dr.
+highlights/kalocsa-4.jpg | https://commons.wikimedia.org/wiki/File:Beer_Can_House.jpg | CC BY-SA 3.0 | Andrew Wiseman
+cities/godollo.jpg | https://commons.wikimedia.org/wiki/File:G%C3%B6d%C3%B6ll%C5%91_(19).jpg | CC BY 4.0 | Elekes Andor
+highlights/godollo-1.jpg | https://commons.wikimedia.org/wiki/File:Royal_Palace_of_G%C3%B6d%C3%B6ll%C5%91_004.JPG | CC BY-SA 3.0 | Rlevente
+highlights/godollo-2.jpg | https://commons.wikimedia.org/wiki/File:Kast%C3%A9lypark.jpg | Public domain | Zizzi
+highlights/godollo-3.jpg | https://commons.wikimedia.org/wiki/File:Capuchin_church_in_M%C3%A1riabesny%C5%91-G%C3%B6d%C3%B6ll%C5%91.jpg | Public domain | David Sallay - (WT-en) Sloshmo at English Wikivoyage
+cities/visegrad-hu.jpg | https://commons.wikimedia.org/wiki/File:Views_from_Visegr%C3%A1d_Castle,_2006_(03).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/visegrad-hu-1.jpg | https://commons.wikimedia.org/wiki/File:A_visegr%C3%A1di_fellegv%C3%A1r_a_Zsitvay-kil%C3%A1t%C3%B3b%C3%B3l.jpg | CC BY-SA 4.0 | JuniorCalogero
+highlights/visegrad-hu-2.jpg | https://commons.wikimedia.org/wiki/File:Ruins_of_Chan_Royal_Palace_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C_%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%82%E0%B8%A5%E0%B8%81_-_img_04.jpg | CC BY-SA 4.0 | Chainwit.
+highlights/visegrad-hu-3.jpg | https://commons.wikimedia.org/wiki/File:Visegr%C3%A1d_Salamon-torony_haj%C3%B3r%C3%B3l_n%C3%A9zve.JPG | CC BY-SA 3.0 | V.Mariann
+highlights/visegrad-hu-4.jpg | https://commons.wikimedia.org/wiki/File:Bobp%C3%A1lya,_2018_Visegr%C3%A1d.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/budapest-25.jpg | https://commons.wikimedia.org/wiki/File:Budapest_Museum_of_Fine_Arts,_2006_(01).jpg | CC BY-SA 4.0 | Bahnfrend
+highlights/budapest-26.jpg | https://commons.wikimedia.org/wiki/File:House_of_Hungarian_Music_(3).jpg | CC BY-SA 4.0 | Elekes Andor
+highlights/balatonfured-3.jpg | https://commons.wikimedia.org/wiki/File:J%C3%B3kai_villa.JPG | CC BY-SA 3.0 | EtelkaCsilla
+highlights/esztergom-1.jpg | https://commons.wikimedia.org/wiki/File:Az_esztergomi_bazilika_der%C5%B1s_id%C5%91ben.jpg | CC0 | Gábor Bejó (artbejo)
+highlights/esztergom-3.jpg | https://commons.wikimedia.org/wiki/File:Esztergom_2016,_%C3%89rseki_V%C3%ADziv%C3%A1ros,_Kereszt%C3%A9ny_M%C3%BAzeum.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/esztergom-4.jpg | https://commons.wikimedia.org/wiki/File:Maria-Valeria-Br%C3%BCcke,_Esztergom_01.jpg | CC BY-SA 4.0 | Pudelek
+cities/koszeg.jpg | https://commons.wikimedia.org/wiki/File:K%C5%91szeg.jpg | CC BY-SA 4.0 | Philipp Hütter
+highlights/koszeg-1.jpg | https://commons.wikimedia.org/wiki/File:K%C5%91szeg_-_Jurisics_Castle.jpg | CC BY-SA 2.5 | Unknown authorUnknown author
+highlights/koszeg-2.jpg | https://commons.wikimedia.org/wiki/File:Jurisics_ter_in_Koszeg_(2).jpg | CC BY-SA 4.0 | Krzysztof Golik
+highlights/koszeg-3.jpg | https://commons.wikimedia.org/wiki/File:K%C5%91szeg_H%C5%91s%C3%B6k_tornya_2012_05.JPG | CC BY-SA 3.0 | Pan Peter12
+highlights/koszeg-4.jpg | https://commons.wikimedia.org/wiki/File:RP_DDK_pecs%C3%A9tel%C5%91hely_%C3%8Drott-k%C5%91_kil%C3%A1t%C3%B3_OKTPH_01_DDKPH_01.jpg | CC BY-SA 4.0 | Hevesi Zoltán
+cities/heviz.jpg | https://commons.wikimedia.org/wiki/File:Medicinal_Bath_H%C3%A9v%C3%ADz_01.jpg | CC BY-SA 2.5 | Unknown authorUnknown author
+highlights/heviz-1.jpg | https://commons.wikimedia.org/wiki/File:Lake_H%C3%A9v%C3%ADz_04.jpg | CC BY 4.0 | Derbrauni
+highlights/heviz-2.jpg | https://commons.wikimedia.org/wiki/File:Szent_Magdolna-templom_%C3%A9s_a_Batty%C3%A1n-h%C3%A1t,_Egregy,_2016_Hungary.jpg | CC BY-SA 3.0 | Globetrotter19
+highlights/heviz-3.jpg | https://commons.wikimedia.org/wiki/File:Views_of_Festetics_Palace,_Keszthely_02.jpg | CC BY 4.0 | Derbrauni
+cities/villany.jpg | https://commons.wikimedia.org/wiki/File:Vill%C3%A1ny_v%C3%A1rosa_a_kil%C3%A1t%C3%B3b%C3%B3l.jpg | CC BY-SA 4.0 | Szajci
+highlights/villany-1.jpg | https://commons.wikimedia.org/wiki/File:Vill%C3%A1ny,_Baross_utcai_pincesor_egy_r%C3%A9sze.JPG | CC BY-SA 3.0 | Szajci
+highlights/villany-3.jpg | https://commons.wikimedia.org/wiki/File:Sikl%C3%B3s_Castle_(221970791).jpeg | CC BY 3.0 | Krisztián Krémer
+highlights/villany-4.jpg | https://www.flickr.com/photos/22822922@N00/21624674048 | BY-SA 2.0 | Dr Korom
+highlights/matra-3.jpg | https://commons.wikimedia.org/wiki/File:Par%C3%A1dsasv%C3%A1r,_elhagyatott_gy%C3%A1r.jpg | CC BY-SA 4.0 | Christo
+highlights/kecskemet-3.jpg | https://commons.wikimedia.org/wiki/File:Naiv_M%C5%B1v%C3%A9szek_M%C3%BAzeuma_1.jpg | CC BY-SA 3.0 | Cséplő Gábor
+highlights/kecskemet-4.jpg | https://commons.wikimedia.org/wiki/File:Sz%C3%A9kely_flag_-_Bugac,_Kurult%C3%A1j_2014_(2).JPG | CC BY-SA 4.0 | Derzsi Elekes Andor
+highlights/villany-2.jpg | https://commons.wikimedia.org/wiki/File:Vill%C3%A1nyk%C3%B6vesdi_Pet%C5%91fi_utcai_pincesor.jpg | CC BY-SA 4.0 | Györkő Zsombor
+cities/drogheda.jpg | https://commons.wikimedia.org/wiki/File:Boyne_Valley_Viaduct,_Drogheda_(2012).jpg | CC BY-SA 2.0 | William Murphy
+highlights/drogheda-1.jpg | https://commons.wikimedia.org/wiki/File:Drogheda_-_Laurence%27s_Gate_-_20130822153118.jpg | CC BY-SA 4.0 | KevForkan
+highlights/drogheda-2.jpg | https://commons.wikimedia.org/wiki/File:Drogheda_St._Peter%27s_Church_of_Ireland_SE_2019_09_13.jpg | CC BY-SA 4.0 | Andreas F. Borchert
+highlights/drogheda-3.jpg | https://commons.wikimedia.org/wiki/File:High_cross_Monasterboice.jpg | CC BY-SA 4.0 | ShaneMurphy.ie
+highlights/drogheda-4.jpg | https://commons.wikimedia.org/wiki/File:Battle_of_the_Boyne_Visitor_Centre_-_Gardens_-_geograph.org.uk_-_4637147.jpg | CC BY-SA 2.0 | Colin Park
+highlights/drogheda-5.jpg | https://commons.wikimedia.org/wiki/File:Drogheda_-_Mellifont_Abbey_-_20200901201721.jpg | CC BY-SA 4.0 | Oliver Gargan
+cities/wicklow.jpg | https://commons.wikimedia.org/wiki/File:County_Wicklow_-_Glendalough_-_20211205151932.jpg | CC BY-SA 4.0 | Dieglop
+highlights/wicklow-1.jpg | https://commons.wikimedia.org/wiki/File:The_monastic_site_at_Glendalough_-_geograph.org.uk_-_7613653.jpg | CC BY-SA 2.0 | Marathon
+highlights/wicklow-2.jpg | https://commons.wikimedia.org/wiki/File:Upper_lake,_Glendalough,_Wicklow.jpg | CC BY-SA 2.0 | Rob Hurson
+highlights/wicklow-3.jpg | https://www.flickr.com/photos/37758121@N03/30736992567 | BY 2.0 | fabianwalden
+highlights/wicklow-4.jpg | https://commons.wikimedia.org/wiki/File:County_Wicklow_-_Wicklow_Gaol_-_20200910173719.jpg | CC BY-SA 4.0 | Jonjobaker
+cities/wexford.jpg | https://commons.wikimedia.org/wiki/File:Wexford_from_Wexford_Bridge_-_geograph.org.uk_-_8415579.jpg | CC BY-SA 2.0 | Marathon
+highlights/wexford-2.jpg | https://commons.wikimedia.org/wiki/File:Sandy_Hook_Lighthouse_October_2020_001.jpg | CC BY-SA 4.0 | King of Hearts
+highlights/wexford-3.jpg | https://commons.wikimedia.org/wiki/File:Johnstown_Castle,_Wexford.jpg | CC BY-SA 2.0 | chripell
+highlights/wexford-4.jpg | https://www.flickr.com/photos/18090920@N07/22628823072 | BY 2.0 | Sean MacEntee
+cities/athlone.jpg | https://commons.wikimedia.org/wiki/File:Athlone,_Westmeath_-_geograph.org.uk_-_2493877.jpg | CC BY-SA 2.0 | Mike Searle
+highlights/athlone-1.jpg | https://commons.wikimedia.org/wiki/File:Athlone_-_Athlone_Castle_-_20210810112526.jpg | CC BY-SA 4.0 | Olliebailie
+highlights/athlone-2.jpg | https://commons.wikimedia.org/wiki/File:Sean%27s_Bar,_Athlone,_2025.jpg | CC BY 4.0 | (Oinkers42)
+highlights/athlone-3.jpg | https://www.flickr.com/photos/46383895@N00/40318323813 | BY-SA 2.0 | Strocchi
+highlights/athlone-4.jpg | https://commons.wikimedia.org/wiki/File:River_Shannon_cruise_to_Clonmacnoise_from_Shannonbridge_-_geograph.org.uk_-_6462637.jpg | CC BY-SA 2.0 | Martin Dawes
+cities/waterford.jpg | https://www.flickr.com/photos/80824546@N00/43504919932 | BY-SA 2.0 | infomatique
+highlights/waterford-1.jpg | https://commons.wikimedia.org/wiki/File:Reginalds_Tower,_Waterford_-_geograph.org.uk_-_5145986.jpg | CC BY-SA 2.0 | David P Howard
+highlights/waterford-2.jpg | https://www.flickr.com/photos/80824546@N00/26686195923 | BY-SA 2.0 | infomatique
+highlights/waterford-3.jpg | https://www.flickr.com/photos/90412460@N00/26245319876 | BY 2.0 | Jeff Pioquinto, SJ
+highlights/waterford-4.jpg | https://www.flickr.com/photos/45457437@N00/33681076938 | BY 2.0 | David Jones
+cities/cobh.jpg | https://www.flickr.com/photos/80824546@N00/7163943415 | BY-SA 2.0 | infomatique
+highlights/cobh-1.jpg | https://commons.wikimedia.org/wiki/File:Cobh_St._Colman%27s_Cathedral_2015_08_27.jpg | CC BY-SA 4.0 | Andreas F. Borchert
+highlights/cobh-2.jpg | https://commons.wikimedia.org/wiki/File:The_Titanic_Experience_Cobh_-_geograph.org.uk_-_6039327.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/cobh-3.jpg | https://commons.wikimedia.org/wiki/File:Cobh_Deck_of_Cards_24.jpg | CC BY 4.0 | Zairon
+highlights/cobh-4.jpg | https://commons.wikimedia.org/wiki/File:Fort_Mitchel,_Spike_Island_-_geograph.org.uk_-_7625645.jpg | CC BY-SA 2.0 | Mike Pennington
+cities/kenmare.jpg | https://www.flickr.com/photos/72876267@N07/28274902159 | BY-SA 2.0 | Fred Veenkamp
+highlights/kenmare-1.jpg | https://commons.wikimedia.org/wiki/File:Kenmare.jpg | Public domain | The original uploader was Alison at English Wikipedia.
+highlights/kenmare-2.jpg | https://www.flickr.com/photos/43554380@N00/34942295011 | BY 2.0 | twbuckner
+highlights/kenmare-4.jpg | https://commons.wikimedia.org/wiki/File:Gleninchaquin_Park_002.jpg | CC BY-SA 4.0 | Dieglop
+cities/cashel.jpg | https://www.flickr.com/photos/158652122@N02/40587799714 | BY 2.0 | M McBey
+highlights/cashel-1.jpg | https://www.flickr.com/photos/19994833@N00/309524 | BY-SA 2.0 | Bernie Goldbach
+highlights/cashel-2.jpg | https://commons.wikimedia.org/wiki/File:Hore_Abbey_County_Tipperary_Irland@20160604.jpg | CC BY-SA 3.0 | Hajotthu
+highlights/cashel-3.jpg | https://commons.wikimedia.org/wiki/File:Cahir-_castle-_Ireland..jpg | Public domain | No machine-readable author provided. Valdoria~commonswiki as
+cities/inishmore.jpg | https://commons.wikimedia.org/wiki/File:Inishmore_Island_10.jpg | CC BY-SA 4.0 | Dieglop
+highlights/inishmore-1.jpg | https://commons.wikimedia.org/wiki/File:Cliffs_at_D%C3%BAn_Aonghasa_%E2%80%A2_Dun_Aengus_(41231272755).jpg | CC BY 2.0 | Sonse
+highlights/inishmore-2.jpg | https://commons.wikimedia.org/wiki/File:Kilronan_aerial_view.jpg | CC BY 3.0 | Herbert Ortner
+highlights/inishmore-3.jpg | https://commons.wikimedia.org/wiki/File:Na_Seacht_dTeampaill_%E2%80%A2_The_Seven_Churches_(41412636744).jpg | CC BY 2.0 | Sonse
+highlights/inishmore-4.jpg | https://commons.wikimedia.org/wiki/File:Poll_na_bP%C3%A9ist.jpg | CC BY-SA 3.0 | Paucabot
+cities/clifden.jpg | https://www.flickr.com/photos/73293249@N00/6189056657 | BY-SA 2.0 | Olivier Bruchez
+highlights/clifden-1.jpg | https://commons.wikimedia.org/wiki/File:Clifden_Castle.jpg | CC BY-SA 3.0 | Raúl Corral
+highlights/clifden-2.jpg | https://commons.wikimedia.org/wiki/File:Connemara_National_Park_Diamond_Hill.jpg | CC BY-SA 4.0 | Karie Kuiper
+highlights/clifden-3.jpg | https://commons.wikimedia.org/wiki/File:Kylemore_October_2014-1a.jpg | CC BY-SA 4.0 | Alvesgaspar
+highlights/clifden-4.jpg | https://www.flickr.com/photos/28179929@N08/3626984237 | BY-SA 2.0 | sludgegulper
+cities/cong.jpg | https://commons.wikimedia.org/wiki/File:Cong_Abbey_-_geograph.org.uk_-_6017489.jpg | CC BY-SA 2.0 | N Chadwick
+highlights/cong-1.jpg | https://www.flickr.com/photos/126110866@N08/15969987388 | BY 2.0 | larrywkoester
+highlights/cong-2.jpg | https://commons.wikimedia.org/wiki/File:County_Mayo_-_Cong_Abbey_-_20211013111226.jpg | CC BY-SA 4.0 | Olliebailie
+highlights/cong-3.jpg | https://commons.wikimedia.org/wiki/File:Cong,_County_Mayo_0355.jpg | CC BY-SA 4.0 | Elisa.rolle
+cities/sligo.jpg | https://commons.wikimedia.org/wiki/File:Scurmore,_County_Sligo_-_geograph.org.uk_-_6217245.jpg | CC BY-SA 2.0 | Kenneth  Allen
+highlights/sligo-1.jpg | https://commons.wikimedia.org/wiki/File:Grange_Benbulben_geograph-3185640-by-Ben-Brooksbank.jpg | CC BY-SA 2.0 | Ben Brooksbank
+highlights/sligo-2.jpg | https://commons.wikimedia.org/wiki/File:Drumcliffe_Church_(3585068584).jpg | CC BY-SA 2.0 | michael clarke stuff
+highlights/sligo-3.jpg | https://www.flickr.com/photos/55615801@N04/8750449287 | BY-SA 2.0 | Ana _Rey
+highlights/sligo-4.jpg | https://commons.wikimedia.org/wiki/File:Strandhill_Beach_001.jpg | CC BY-SA 4.0 | Dieglop
+cities/letterkenny.jpg | https://www.flickr.com/photos/44124412769@N01/10827164125 | BY 2.0 | Miguel Mendez
+highlights/letterkenny-1.jpg | https://commons.wikimedia.org/wiki/File:Glenveagh_Castle_-_Lough_Veagh.JPG | Public domain | Patrice78500
+highlights/letterkenny-2.jpg | https://commons.wikimedia.org/wiki/File:Letterkenny_St._Eunan%27s_Kathedrale_Irland@20160529_01.jpg | CC BY-SA 3.0 | Hajotthu
+highlights/letterkenny-3.jpg | https://commons.wikimedia.org/wiki/File:Grianan_of_Aileach_scenic_view_01.png | CC BY-SA 4.0 | Mark McGaughey
+cities/donegal.jpg | https://www.flickr.com/photos/55615801@N04/8718322443 | BY-SA 2.0 | Ana _Rey
+highlights/donegal-1.jpg | https://commons.wikimedia.org/wiki/File:Donegal_-_Donegal_Castle_-_20170319151747.jpg | CC BY-SA 4.0 | Avramescu Marius
+highlights/donegal-2.jpg | https://commons.wikimedia.org/wiki/File:The_Diamond,_Donegal_-_geograph.org.uk_-_3533997.jpg | CC BY-SA 2.0 | Kenneth  Allen
+highlights/donegal-4.jpg | https://commons.wikimedia.org/wiki/File:Donegal_Craft_Village_-_geograph.org.uk_-_7511296.jpg | CC BY-SA 2.0 | Gerald England
+cities/killybegs.jpg | https://commons.wikimedia.org/wiki/File:Sliabh_Liag_Panorama.jpg | CC BY 2.0 | Greg Clarke
+highlights/killybegs-2.jpg | https://commons.wikimedia.org/wiki/File:Evening_at_Killybegs_Harbour_-_geograph.org.uk_-_6329893.jpg | CC BY-SA 2.0 | Colin Park
+highlights/killybegs-3.jpg | https://commons.wikimedia.org/wiki/File:Glencolmcille_Folk_Village_-_geograph.org.uk_-_8097158.jpg | CC BY-SA 2.0 | David Dixon
+highlights/killybegs-4.jpg | https://commons.wikimedia.org/wiki/File:Fintra_beach_near_Killybegs_-_geograph.org.uk_-_6886493.jpg | CC BY-SA 2.0 | Rossographer
+cities/inishowen.jpg | https://www.flickr.com/photos/80824546@N00/16640682877 | BY-SA 2.0 | infomatique
+highlights/inishowen-1.jpg | https://commons.wikimedia.org/wiki/File:Banbas_Crown.jpg | Public domain | Stevec1980
+highlights/inishowen-2.jpg | https://www.flickr.com/photos/55615801@N04/9860555804 | BY-SA 2.0 | Ana _Rey
+highlights/inishowen-3.jpg | https://www.flickr.com/photos/43762537@N00/194415060 | BY 2.0 | IrishFireside
+highlights/inishowen-4.jpg | https://commons.wikimedia.org/wiki/File:Holly_well_-_Gap_of_Mamore.JPG | Public domain | Patrice78500
+highlights/wexford-1.jpg | https://commons.wikimedia.org/wiki/File:Irish_National_heritage_Park,_Ferrycarrig_-_geograph.org.uk_-_3358946.jpg | CC BY-SA 2.0 | Jo Turner
+highlights/kenmare-3.jpg | https://commons.wikimedia.org/wiki/File:Beara_Peninsula_Ring_of_Beara_152.jpg | CC BY 4.0 | Zairon
+highlights/donegal-3.jpg | https://commons.wikimedia.org/wiki/File:Donegal_Bay_Waterbus_-_geograph.org.uk_-_5514978.jpg | CC BY-SA 2.0 | Michael Dibb
+highlights/killybegs-1.jpg | https://commons.wikimedia.org/wiki/File:Slieve_League._Donegal,.jpg | CC BY 2.0 | Giuseppe Milo
+highlights/albufeira-1.jpg | https://commons.wikimedia.org/wiki/File:Praia_dos_Pescadores_-_Albufeira_-_Portugal_(4572546342).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL

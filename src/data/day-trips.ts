@@ -842,6 +842,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'holloko',
       tip: '버스로 약 2시간 30분(환승). 유네스코 팔로츠 민속 마을과 언덕 위 성을 봅니다.|About 2 hrs 30 by bus with a change: the UNESCO Palóc village and its hilltop castle.',
     },
+    {
+      to: 'esztergom',
+      tip: '기차로 약 1시간 15분. 대성당 돔에 오르고 다리를 걸어 슬로바키아에 다녀옵니다.|About 1 hr 15 by train: climb the basilica dome and walk the bridge into Slovakia.',
+    },
+    {
+      to: 'godollo',
+      tip: '기차로 약 35분. 시시 황후의 방이 있는 바로크 왕궁과 정원을 봅니다.|About 35 min by train: the Baroque palace with Empress Sisi’s rooms and its park.',
+    },
+    {
+      to: 'visegrad-hu',
+      tip: '버스로 약 1시간 15분, 여름엔 배로도 갑니다. 성채에서 다뉴브 굽이를 내려다봅니다.|About 1 hr 15 by bus, or by boat in summer: the Danube Bend from the citadel.',
+    },
   ],
   prague: [
     {

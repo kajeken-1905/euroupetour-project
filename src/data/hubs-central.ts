@@ -2040,6 +2040,79 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Tokaj', '토카이역', '마을까지 걸어서 약 15분|about 15 min on foot to the town']],
   },
 
+  szekesfehervar: {
+    air: [BUD()],
+    rail: [['Székesfehérvár', '세케슈페헤르바르역']],
+    bus: [['Székesfehérvár autóbusz-állomás', '세케슈페헤르바르 버스터미널']],
+  },
+  veszprem: {
+    air: [BUD()],
+    rail: [['Veszprém', '베스프렘역', '시내까지 버스|bus to the centre']],
+    bus: [['Veszprém autóbusz-állomás', '베스프렘 버스터미널', '부다페스트·발라톤행|to Budapest, Lake Balaton']],
+  },
+  balatonfured: {
+    air: [BUD()],
+    rail: [['Balatonfüred', '벌러톤퓌레드역']],
+    port: [['Balatonfüred hajóállomás', '벌러톤퓌레드 선착장', '티하니·시오포크행 배|boats to Tihany, Siófok']],
+  },
+  sumeg: {
+    air: [['Hévíz–Balaton (SOB)', '헤비즈-발라톤 공항 (SOB)'], BUD()],
+    rail: [['Sümeg', '슈메그역']],
+    bus: [['Sümeg autóbusz-állomás', '슈메그 버스터미널']],
+  },
+  esztergom: {
+    air: [BUD()],
+    rail: [['Esztergom', '에스테르곰역']],
+    bus: [['Esztergom autóbusz-állomás', '에스테르곰 버스터미널', '부다페스트·비셰그라드행|to Budapest, Visegrád']],
+  },
+  koszeg: {
+    air: [VIE('오스트리아 빈|Vienna, Austria'), BUD()],
+    rail: [['Kőszeg', '쾨세그역', '솜버트헤이행|to Szombathely']],
+    bus: [['Kőszeg autóbusz-állomás', '쾨세그 버스터미널']],
+  },
+  heviz: {
+    air: [['Hévíz–Balaton (SOB)', '헤비즈-발라톤 공항 (SOB)'], BUD()],
+    bus: [['Hévíz autóbusz-állomás', '헤비즈 버스터미널', '케스트헤이·부다페스트행|to Keszthely, Budapest']],
+  },
+  villany: {
+    air: [BUD()],
+    rail: [['Villány', '빌라니역', '페치행|to Pécs']],
+  },
+  matra: {
+    air: [BUD()],
+    bus: [['Mátrafüred autóbusz-megálló', '마트러퓌레드 버스 정류장', '죈죄시행|to Gyöngyös']],
+  },
+  miskolc: {
+    air: [BUD()],
+    rail: [['Miskolc-Tiszai', '미슈콜츠 티서이역']],
+    bus: [['Miskolc Búza téri autóbusz-állomás', '미슈콜츠 버스터미널']],
+  },
+  aggtelek: {
+    air: [BUD()],
+    bus: [['Aggtelek, barlang', '아그텔레크 동굴 버스 정류장', '미슈콜츠행|to Miskolc']],
+  },
+  sarospatak: {
+    air: [BUD()],
+    rail: [['Sárospatak', '사로슈퍼터크역']],
+  },
+  kecskemet: {
+    air: [BUD()],
+    rail: [['Kecskemét', '케치케메트역']],
+    bus: [['Kecskemét Széchenyivárosi autóbusz-állomás', '케치케메트 버스터미널']],
+  },
+  kalocsa: {
+    air: [BUD()],
+    bus: [['Kalocsa autóbusz-állomás', '칼로처 버스터미널', '부다페스트행|to Budapest']],
+  },
+  godollo: {
+    air: [BUD()],
+    rail: [['Gödöllő', '괴될뢰역', '부다페스트 동역행·HÉV H8|to Budapest-Keleti; HÉV H8']],
+  },
+  'visegrad-hu': {
+    air: [BUD()],
+    bus: [['Visegrád, Nagymarosi rév', '비셰그라드 버스 정류장', '부다페스트·에스테르곰행|to Budapest, Esztergom']],
+    port: [['Visegrád hajóállomás', '비셰그라드 선착장', '부다페스트행 배·너지마로시 나룻배|boats to Budapest, ferry to Nagymaros']],
+  },
   // —— pl ——
   warsaw: {
     air: [

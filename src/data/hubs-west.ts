@@ -864,6 +864,77 @@ export const hubsWest: Record<string, RawCityHubs> = {
     rail: [['Westport', '웨스트포트역']],
   },
 
+  drogheda: {
+    air: [['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin']],
+    rail: [['Drogheda MacBride', '드로이다역']],
+    bus: [['Drogheda Bus Station', '드로이다 버스 정류장']],
+  },
+  wicklow: {
+    air: [['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin']],
+    bus: [['Glendalough (St Kevin’s Bus)', '글렌달록 버스 정류장', '더블린행 세인트 케빈 버스|St Kevin’s Bus to Dublin']],
+  },
+  wexford: {
+    air: [['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin']],
+    rail: [['Wexford O’Hanrahan', '웩스퍼드역']],
+    bus: [['Wexford O’Hanrahan Station (bus)', '웩스퍼드 버스 정류장']],
+    port: [['Rosslare Europort', '로슬레어 유로포트', '웨일스·프랑스행 페리|ferries to Wales and France']],
+  },
+  athlone: {
+    air: [['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin'], ['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon']],
+    rail: [['Athlone', '애슬론역', '더블린·골웨이행|to Dublin, Galway']],
+    bus: [['Athlone Bus Station', '애슬론 버스 정류장']],
+  },
+  waterford: {
+    air: [['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin'], ['Cork (ORK)', '코크 공항 (ORK)', '코크|Cork']],
+    rail: [['Waterford Plunkett', '워터퍼드역']],
+    bus: [['Waterford Bus Station', '워터퍼드 버스 정류장']],
+  },
+  cobh: {
+    air: [['Cork (ORK)', '코크 공항 (ORK)', '코크|Cork']],
+    rail: [['Cobh', '코브역', '코크 켄트행|to Cork Kent']],
+    port: [['Kennedy Pier Cobh', '케네디 부두', '스파이크섬행 배|ferry to Spike Island']],
+  },
+  kenmare: {
+    air: [['Kerry (KIR)', '케리 공항 (KIR)', '파란포어|Farranfore']],
+    bus: [['Kenmare Bus Stop', '켄메어 버스 정류장', '킬라니행|to Killarney']],
+  },
+  cashel: {
+    air: [['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon'], ['Dublin (DUB)', '더블린 공항 (DUB)', '더블린|Dublin']],
+    bus: [['Cashel Bus Stop', '캐셸 버스 정류장', '더블린·코크행|to Dublin, Cork']],
+  },
+  inishmore: {
+    air: [['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon']],
+    port: [['Kilronan Pier', '킬로넌 부두', '로사빌·둘린행 배|ferries to Rossaveal, Doolin']],
+  },
+  clifden: {
+    air: [['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon'], ['Ireland West Airport Knock (NOC)', '녹 공항 (NOC)', '녹|Knock']],
+    bus: [['Clifden Bus Stop', '클리프던 버스 정류장', '골웨이행|to Galway']],
+  },
+  cong: {
+    air: [['Ireland West Airport Knock (NOC)', '녹 공항 (NOC)', '녹|Knock'], ['Shannon (SNN)', '섀넌 공항 (SNN)', '섀넌|Shannon']],
+    bus: [['Cong Bus Stop', '콩 버스 정류장', '골웨이행|to Galway']],
+  },
+  sligo: {
+    air: [['Ireland West Airport Knock (NOC)', '녹 공항 (NOC)', '녹|Knock']],
+    rail: [['Sligo MacDiarmada', '슬라이고역', '더블린행|to Dublin']],
+    bus: [['Sligo Bus Station', '슬라이고 버스 정류장']],
+  },
+  letterkenny: {
+    air: [['Donegal (CFN)', '도니골 공항 (CFN)', '운항편 적음|few flights'], ['City of Derry (LDY)', '데리 공항 (LDY)', '북아일랜드 데리|Derry, Northern Ireland']],
+    bus: [['Letterkenny Bus Station', '레터케니 버스 정류장', '더블린·데리행|to Dublin, Derry']],
+  },
+  donegal: {
+    air: [['Donegal (CFN)', '도니골 공항 (CFN)', '운항편 적음|few flights']],
+    bus: [['Donegal Town Bus Stop', '도니골 버스 정류장', '더블린·슬라이고·레터케니행|to Dublin, Sligo, Letterkenny']],
+  },
+  killybegs: {
+    air: [['Donegal (CFN)', '도니골 공항 (CFN)', '운항편 적음|few flights']],
+    bus: [['Killybegs Bus Stop', '킬리벡스 버스 정류장', '도니골행|to Donegal Town']],
+  },
+  inishowen: {
+    air: [['City of Derry (LDY)', '데리 공항 (LDY)', '북아일랜드 데리|Derry, Northern Ireland'], ['Donegal (CFN)', '도니골 공항 (CFN)', '운항편 적음|few flights']],
+    bus: [['Carndonagh Bus Stop', '카른도나 버스 정류장', '레터케니·데리행|to Letterkenny, Derry']],
+  },
   // —— ch ——
   zurich: {
     air: [['Zürich Flughafen (ZRH)', '취리히 공항 (ZRH)']],

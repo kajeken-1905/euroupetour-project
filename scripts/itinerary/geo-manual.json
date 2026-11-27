@@ -18730,5 +18730,545 @@
     49.14244,
     15.00031,
     "OSM Nominatim: Hrad a Zámek Jindřichův Hradec, Dobrovského, Jindřichův Hrad (Wikipedia 277m)"
+  ],
+  "budapest-h25": [
+    47.51622,
+    19.07636,
+    "OSM Nominatim: Szépművészeti múzeum, 41, Dózsa György út, Városliget, XIV. "
+  ],
+  "budapest-h26": [
+    47.51315,
+    19.08372,
+    "OSM Nominatim: Magyar Zene Háza, 3, Olof Palme sétány, Városliget, XIV. ker"
+  ],
+  "godollo-h1": [
+    47.59559,
+    19.34765,
+    "OSM Nominatim: Gödöllői Királyi Kastély, Szabadság út, Központ, Gödöllő, Gö (Wikipedia 59m)"
+  ],
+  "godollo-h2": [
+    47.594,
+    19.34409,
+    "OSM Nominatim: Felső park, 5852, Központ, Gödöllő, Gödöllői járás, Pest meg (Wikipedia 363m)"
+  ],
+  "visegrad-hu-h1": [
+    47.79359,
+    18.98041,
+    "OSM Nominatim: Visegrádi fellegvár, 0125/5, 0125/16, 0125/17, 0125/18, 0125"
+  ],
+  "visegrad-hu-h2": [
+    47.79148,
+    18.97386,
+    "OSM Nominatim: Visegrádi Királyi Palota, 23-29, Fő utca, Újkert, Visegrád, "
+  ],
+  "visegrad-hu-h3": [
+    47.7964,
+    18.97716,
+    "OSM Nominatim: Salamon torony, Salamontorony utca, Újkert, Visegrád, Szente"
+  ],
+  "visegrad-hu-h4": [
+    47.79397,
+    18.99255,
+    "OSM Nominatim: Visegrádi Bobpálya, Panoráma út, Szentgyörgypuszta, Visegrád"
+  ],
+  "koszeg-h1": [
+    47.38937,
+    16.53845,
+    "OSM Nominatim: Jurisics-vár, Alsó vár, Belváros, Kőszeg, Kőszegi járás, Vas"
+  ],
+  "koszeg-h2": [
+    47.38897,
+    16.54087,
+    "OSM Nominatim: Jurisics tér, Belváros, Kőszeg, Kőszegi járás, Vas megye, Du"
+  ],
+  "villany-h1": [
+    45.86746,
+    18.45224,
+    "OSM Nominatim: Baross Gábor utca, Pincesor, Virágos, Villány, Siklósi járás"
+  ],
+  "villany-h3": [
+    45.85246,
+    18.29528,
+    "OSM Nominatim: Siklósi vár, Benyovszky sétány, Postaszállás, Siklós, Siklós (Wikipedia 50m)"
+  ],
+  "villany-h4": [
+    45.85015,
+    18.23581,
+    "OSM Nominatim: Harkányi Gyógyfürdő Zrt. Központi Iroda, Kossuth Lajos utca,"
+  ],
+  "kecskemet-h1": [
+    46.90663,
+    19.69168,
+    "OSM Nominatim: Városháza, 1, Kossuth tér, Villanegyed, Belváros, Kecskemét,"
+  ],
+  "kecskemet-h2": [
+    46.90849,
+    19.69492,
+    "OSM Nominatim: Cifrapalota, 1, Rákóczi út, Csilléry-telep, Belváros, Kecske"
+  ],
+  "kecskemet-h3": [
+    46.90613,
+    19.68707,
+    "OSM Nominatim: Magyar Naiv Művészek Múzeuma, 11, Gáspár András körút, Villa"
+  ],
+  "kalocsa-h1": [
+    46.52996,
+    18.97344,
+    "OSM Nominatim: Belvárosi Nagyboldogasszony Főszékesegyház, 1, Szentháromság (Wikipedia 20m)"
+  ],
+  "kalocsa-h2": [
+    46.53074,
+    18.97235,
+    "OSM Nominatim: Érseki palota, Asztrik tér, Belváros, Kalocsa, Kalocsai járá"
+  ],
+  "matra-h1": [
+    47.8726,
+    20.00798,
+    "OSM Nominatim: Kékes, Gyöngyös, Gyöngyösi járás, Heves megye, Alföld és Ész (Wikipedia 720m)"
+  ],
+  "matra-h2": [
+    47.84374,
+    19.95925,
+    "OSM Nominatim: Sástó, Mátrafüred, Gyöngyös, Gyöngyösi járás, Heves megye, A"
+  ],
+  "miskolc-h1": [
+    48.06056,
+    20.74444,
+    "OSM Nominatim: Barlangfürdő, Dehmel Nándor sétány, Miskolctapolca, Miskolc,"
+  ],
+  "miskolc-h2": [
+    48.09785,
+    20.68937,
+    "OSM Nominatim: Diósgyőri vár, Lovagi tornák tere, Diósgyőri-lakótelep, Diós (Wikipedia 44m)"
+  ],
+  "miskolc-h3": [
+    48.10463,
+    20.62311,
+    "OSM Nominatim: Lillafüred Palotaszálló, 1, Erzsébet sétány, Lillafüred, Mis"
+  ],
+  "miskolc-h4": [
+    48.1116,
+    20.61135,
+    "OSM Nominatim: Lillafüredi Állami Erdei Vasút, 2513, Lillafüred, Miskolc, M"
+  ],
+  "aggtelek-h1": [
+    48.47178,
+    20.53718,
+    "OSM Nominatim: Baradla-barlang (Vörös-tói bejárat), 2603, Aggtelek, Putnoki"
+  ],
+  "aggtelek-h2": [
+    48.48438,
+    20.53956,
+    "OSM Nominatim: Baradla-barlang, 26108, Jósvafő, Putnoki járás, Borsod-Abaúj"
+  ],
+  "sarospatak-h1": [
+    48.31559,
+    21.5689,
+    "OSM Nominatim: Rákóczi-vár, Szent Erzsébet utca, Kispatak, Sárospatak, Sáro"
+  ],
+  "sarospatak-h2": [
+    48.3226,
+    21.57193,
+    "OSM Nominatim: Sárospataki Református Kollégium Gimnáziuma, Általános Iskol"
+  ],
+  "sarospatak-h3": [
+    48.3135,
+    21.5647,
+    "OSM Nominatim: Árpád Vezér Gimnázium és Kollégium, 5-7, Arany János út, Bod"
+  ],
+  "sarospatak-h4": [
+    48.35721,
+    21.57283,
+    "OSM Nominatim: Megyer-hegyi tengerszem, Kisgát dűlő, Végardó, Sárospatak, S"
+  ],
+  "szekesfehervar-h1": [
+    47.19147,
+    18.41029,
+    "OSM Nominatim: Nemzeti emlékhely, Koronázó tér, Velinszky László-lakótelep,"
+  ],
+  "szekesfehervar-h2": [
+    47.1914,
+    18.4098,
+    "OSM Nominatim: Városház tér, Velinszky László-lakótelep, Belváros, Székesfe"
+  ],
+  "szekesfehervar-h3": [
+    47.19049,
+    18.41016,
+    "OSM Nominatim: Szent István-székesegyház, 9, Arany János utca, Velinszky Lá"
+  ],
+  "szekesfehervar-h4": [
+    47.21089,
+    18.45131,
+    "OSM Nominatim: Bory-vár, 54, Máriavölgy utca, Máriavölgy, Túrózsák, Öregheg"
+  ],
+  "veszprem-h1": [
+    47.09636,
+    17.90363,
+    "OSM Nominatim: Veszprémi Vár, Veszprém, Veszprémi járás, Veszprém megye, Du"
+  ],
+  "veszprem-h2": [
+    47.09712,
+    17.90293,
+    "OSM Nominatim: Szent Mihály-székesegyház, Vár utca, Veszprémi Vár, Veszprém"
+  ],
+  "veszprem-h3": [
+    47.09482,
+    17.90555,
+    "OSM Nominatim: Tűztorony, 9, Vár utca, Cserhát-lakótelep, Veszprémi Vár, Ve"
+  ],
+  "veszprem-h4": [
+    47.13146,
+    17.75495,
+    "OSM Nominatim: Porcelánium Bistro, 140, Kossuth Lajos utca, Herend, Veszpré"
+  ],
+  "balatonfured-h1": [
+    46.95555,
+    17.89922,
+    "OSM Nominatim: Tagore sétány, Reformkori Városrész, Balatonfüred, Balatonfü"
+  ],
+  "balatonfured-h2": [
+    46.95612,
+    17.89514,
+    "OSM Nominatim: Kossuth Lajos-forrás, Gyógy tér, Reformkori Városrész, Balat"
+  ],
+  "balatonfured-h3": [
+    46.95497,
+    17.8918,
+    "OSM Nominatim: Jókai Mór Emlékház, 1, Honvéd utca, Reformkori Városrész, Ba"
+  ],
+  "balatonfured-h4": [
+    46.95396,
+    17.89306,
+    "OSM Nominatim: Balatonfüred, hajóállomás, Jókai Mór utca, Reformkori Városr"
+  ],
+  "sumeg-h1": [
+    46.98218,
+    17.28255,
+    "OSM Nominatim: Sümegi vár, Szent István tér, Sümeg, Sümegi járás, Veszprém  (Wikipedia 36m)"
+  ],
+  "sumeg-h3": [
+    46.98072,
+    17.28176,
+    "OSM Nominatim: Püspöki palota, Szent István tér, Sümeg, Sümegi járás, Veszp"
+  ],
+  "esztergom-h1": [
+    47.79911,
+    18.73654,
+    "OSM Nominatim: Nagyboldogasszony és Szent Adalbert főszékesegyház, 1, Szent (Wikipedia 27m)"
+  ],
+  "esztergom-h2": [
+    47.79799,
+    18.73686,
+    "OSM Nominatim: Esztergomi Vármúzeum, 1, Szent István tér, Béke téri lakótel"
+  ],
+  "esztergom-h3": [
+    47.79748,
+    18.73492,
+    "OSM Nominatim: Keresztény Múzeum, 2, Mindszenty hercegprímás tere, Víziváro"
+  ],
+  "esztergom-h4": [
+    47.79495,
+    18.73165,
+    "OSM Nominatim: Mária Valéria híd, Víziváros, Esztergom, Esztergomi járás, K (Wikipedia 109m)"
+  ],
+  "heviz-h1": [
+    46.78682,
+    17.19282,
+    "OSM Nominatim: Hévízi-tó, Egregy, Hévíz, Keszthelyi járás, Zala megye, Duná (Wikipedia 48m)"
+  ],
+  "heviz-h2": [
+    46.80806,
+    17.19114,
+    "OSM Nominatim: Szent Magdolna-templom, Dombföldi utca, Egregy, Hévíz, Keszt"
+  ],
+  "heviz-h3": [
+    46.77073,
+    17.2419,
+    "OSM Nominatim: Festetics-kastély, 1, Kastély utca, Keszthely, Keszthelyi já (Wikipedia 21m)"
+  ],
+  "godollo-h3": [
+    47.59937,
+    19.39065,
+    "OSM Nominatim: Máriabesnyő, Gödöllő, Gödöllői járás, Pest megye, Magyarorsz"
+  ],
+  "koszeg-h4": [
+    47.35283,
+    16.43372,
+    "OSM Nominatim: Geschriebenstein / Írott-kő, Bozsok, Kőszegi járás, Vas megy (Wikipedia 14m)"
+  ],
+  "kecskemet-h4": [
+    46.6889,
+    19.68214,
+    "OSM Nominatim: Bugac, Kiskunfélegyházi járás, Bács-Kiskun megye, Alföld és  (Wikipedia 626m)"
+  ],
+  "drogheda-h1": [
+    53.71589,
+    -6.34705,
+    "OSM Nominatim: Laurence's Gate, Cord Road, Fair Gate ED, The Borough Distri"
+  ],
+  "drogheda-h2": [
+    53.71512,
+    -6.35218,
+    "OSM Nominatim: St. Peter's Church, West Street, Fair Gate ED, The Borough D"
+  ],
+  "drogheda-h3": [
+    53.78087,
+    -6.4198,
+    "OSM Nominatim: Monasterboice, Monasterboice ED, The Borough District of Dro"
+  ],
+  "drogheda-h4": [
+    53.72339,
+    -6.42338,
+    "OSM Nominatim: Battle of the Boyne Visitor Centre, Oldbridge Village Walk, "
+  ],
+  "wicklow-h2": [
+    53.00698,
+    -6.3442,
+    "OSM Nominatim: Glendalough Upper Lake, R757, Brockagh ED, The Municipal Dis"
+  ],
+  "wicklow-h3": [
+    53.1851,
+    -6.18713,
+    "OSM Nominatim: Powerscourt Estate, Lime Tree Avenue, Enniskerry ED, The Mun"
+  ],
+  "inishmore-h1": [
+    53.12549,
+    -9.76654,
+    "OSM Nominatim: Dún Aonghasa, Bóithrín an tSrutháin, Sruthán, Árainn, Conama (Wikipedia 108m)"
+  ],
+  "inishmore-h2": [
+    53.11804,
+    -9.66721,
+    "OSM Nominatim: Inis Mór, Main Road, Cill Éinne, Árainn, Conamara Municipal  (Wikipedia 744m)"
+  ],
+  "inishmore-h3": [
+    53.1459,
+    -9.77765,
+    "OSM Nominatim: Na Seacht dTeampaill, Boithrín an Ghleannacháin, Eoghanacht,"
+  ],
+  "clifden-h1": [
+    53.48869,
+    -10.03249,
+    "OSM Nominatim: Sky Road, Clifden, Clifden ED, Conamara Municipal District,  (Wikipedia 761m)"
+  ],
+  "clifden-h2": [
+    53.53094,
+    -9.88119,
+    "OSM Nominatim: Connemara National Park, Conamara Municipal District, County"
+  ],
+  "clifden-h3": [
+    53.56174,
+    -9.88941,
+    "OSM Nominatim: Kylemore Abbey, N59, Ballynakill ED, Conamara Municipal Dist (Wikipedia 4m)"
+  ],
+  "clifden-h4": [
+    53.48849,
+    -10.02107,
+    "OSM Nominatim: Clifden, County Galway, Connacht, Éire / Ireland"
+  ],
+  "cong-h1": [
+    53.53443,
+    -9.2846,
+    "OSM Nominatim: Ashford Castle, Cloister, Cong ED, Claremorris-Swinford Muni (Wikipedia 25m)"
+  ],
+  "cong-h2": [
+    53.5402,
+    -9.28697,
+    "OSM Nominatim: Cong Abbey, Cloister, Cong ED, Claremorris-Swinford Municipa (Wikipedia 22m)"
+  ],
+  "cong-h3": [
+    53.54085,
+    -9.28801,
+    "OSM Nominatim: Quiet Man Museum, Circular Road, Cong ED, Claremorris-Swinfo"
+  ],
+  "cobh-h1": [
+    51.85147,
+    -8.29377,
+    "OSM Nominatim: St.Colman's Cathedral, Roches Row, Cobh Urban ED, Cobh, Coun"
+  ],
+  "cobh-h2": [
+    51.84996,
+    -8.29481,
+    "OSM Nominatim: Titanic Experience, Westbourne Place, Cobh Urban ED, Municip"
+  ],
+  "cobh-h4": [
+    51.83421,
+    -8.28571,
+    "OSM Nominatim: Spike Island, Cobh Rural ED, County Cork, Munster, Éire / Ir"
+  ],
+  "waterford-h1": [
+    52.26047,
+    -7.1054,
+    "OSM Nominatim: Reginald's Tower, Parade Quay, Custom House B, Waterford Cit"
+  ],
+  "waterford-h2": [
+    52.25995,
+    -7.10694,
+    "OSM Nominatim: Medieval Museum, Constitution Square, Custom House B, Waterf"
+  ],
+  "waterford-h3": [
+    52.25909,
+    -7.10684,
+    "OSM Nominatim: House of Waterford Crystal, 37, The Mall, Park, Waterford, C"
+  ],
+  "waterford-h4": [
+    52.273,
+    -7.14767,
+    "OSM Nominatim: Waterford Greenway, Gracedieu, Waterford, County Waterford, "
+  ],
+  "cashel-h1": [
+    52.52018,
+    -7.89064,
+    "OSM Nominatim: Rock of Cashel, Tipperary Heritage Way, Cashel Urban, The Mu (Wikipedia 48m)"
+  ],
+  "cashel-h2": [
+    52.5187,
+    -7.8979,
+    "OSM Nominatim: Hore Abbey, Bohereen Bocht, Cashel Rural, The Municipal Dist (Wikipedia 195m)"
+  ],
+  "cashel-h3": [
+    52.37439,
+    -7.92713,
+    "OSM Nominatim: Cahir Castle, Cahir Bridge, Caher, The Municipal District of (Wikipedia 13m)"
+  ],
+  "kenmare-h1": [
+    51.8791,
+    -9.58395,
+    "OSM Nominatim: Kenmare, County Kerry, Munster, Éire / Ireland (Wikipedia 115m)"
+  ],
+  "kenmare-h2": [
+    51.87844,
+    -9.58821,
+    "OSM Nominatim: Kenmare Stone Circle, Gortamullin Road, Kenmare, Kenmare ED,"
+  ],
+  "kenmare-h4": [
+    51.80141,
+    -9.65785,
+    "OSM Nominatim: Gleninchaquin Park, Feorus Road, Dawros ED, Kenmare Municipa"
+  ],
+  "wexford-h1": [
+    52.34793,
+    -6.5168,
+    "OSM Nominatim: Irish National Heritage Park, R730, Carrick ED, The Borough  (Wikipedia 16m)"
+  ],
+  "wexford-h2": [
+    52.12376,
+    -6.92946,
+    "OSM Nominatim: Hook Head Lighthouse, R734, Templetown ED, New Ross Municipa (Wikipedia 12m)"
+  ],
+  "wexford-h3": [
+    52.29408,
+    -6.50552,
+    "OSM Nominatim: Johnstown Castle, The Statue Walk, Rathaspick ED, The Boroug"
+  ],
+  "wexford-h4": [
+    52.39342,
+    -6.94799,
+    "OSM Nominatim: Dunbrody Famine Ship Visitor Centre, New Ross Ring Road, New"
+  ],
+  "athlone-h1": [
+    53.4232,
+    -7.94267,
+    "OSM Nominatim: Athlone Castle, Main Street, athlone center, Athlone West Ur (Wikipedia 19m)"
+  ],
+  "athlone-h2": [
+    53.42267,
+    -7.94226,
+    "OSM Nominatim: Sean's Bar, 13, Main Street, athlone center, Athlone West Ur"
+  ],
+  "athlone-h3": [
+    53.32631,
+    -7.98574,
+    "OSM Nominatim: Clonmacnoise, Pilgrim's Path, Clonmacnoise, Clonmacnoise ED, (Wikipedia 447m)"
+  ],
+  "sligo-h3": [
+    54.2495,
+    -8.51934,
+    "OSM Nominatim: Carrowmore Megalithic Cemetery, L3508, Carrowmore, Kilmacowe (Wikipedia 152m)"
+  ],
+  "sligo-h4": [
+    54.26887,
+    -8.59513,
+    "OSM Nominatim: Beach View Park, Killaspugbrone, Knockaree ED, Sligo Municip (Wikipedia 357m)"
+  ],
+  "letterkenny-h1": [
+    55.0362,
+    -7.96863,
+    "OSM Nominatim: Glenveagh Castle, R251, Cross Roads ED, Glenties Municipal D"
+  ],
+  "letterkenny-h3": [
+    55.02383,
+    -7.42745,
+    "OSM Nominatim: Grianan of Aileach, N13, Burt ED, Inishowen Municipal Distri (Wikipedia 10m)"
+  ],
+  "donegal-h1": [
+    54.65505,
+    -8.1106,
+    "OSM Nominatim: Donegal Castle, Tirconnel Street, Donegal ED, Donegal Munici (Wikipedia 26m)"
+  ],
+  "donegal-h2": [
+    54.6538,
+    -8.11018,
+    "OSM Nominatim: The Diamond, Donegal ED, Donegal Municipal District, County "
+  ],
+  "donegal-h3": [
+    54.6528,
+    -8.11145,
+    "OSM Nominatim: Donegal Bay Waterbus, Quay Street, Donegal ED, Donegal Munic"
+  ],
+  "donegal-h4": [
+    54.64088,
+    -8.1152,
+    "OSM Nominatim: Donegal Craft Village, Rarooey Road, Donegal ED, Donegal Mun"
+  ],
+  "killybegs-h3": [
+    54.70709,
+    -8.74078,
+    "OSM Nominatim: Glencolmcille Folk Village, R263, Kilgoly ED, Donegal Munici"
+  ],
+  "inishowen-h2": [
+    55.31909,
+    -7.33308,
+    "OSM Nominatim: Five Finger Strand, Éire / Ireland"
+  ],
+  "inishowen-h3": [
+    55.30902,
+    -7.33563,
+    "OSM Nominatim: Doagh Famine Village, L10911, Ballyliffin ED, Inishowen Muni"
+  ],
+  "inishowen-h4": [
+    55.23382,
+    -7.49942,
+    "OSM Nominatim: Mamore Gap, L1531, Dunaff ED, Inishowen Municipal District, "
+  ],
+  "sligo-h2": [
+    54.32858,
+    -8.50015,
+    "OSM Nominatim: Drumcliff, Sligo Municipal Borough District, County Sligo, C (Wikipedia 525m)"
+  ],
+  "wicklow-h1": [
+    53.01094,
+    -6.32772,
+    "OSM Nominatim: Glendalough Round Tower, R757, Brockagh ED, The Municipal Di (Wikipedia 75m)"
+  ],
+  "wicklow-h4": [
+    52.97907,
+    -6.03743,
+    "OSM Nominatim: Wicklow Gaol, Market Street, Wicklow Urban ED, The Municipal (Wikipedia 33m)"
+  ],
+  "drogheda-h5": [
+    53.74226,
+    -6.46657,
+    "OSM Nominatim: Mellifont Abbey, Cloister, Monasterboice ED, The Borough Dis (Wikipedia 9m)"
+  ],
+  "killybegs-h1": [
+    54.65166,
+    -8.70721,
+    "OSM Nominatim: Sliabh Liag, Donegal Municipal District, County Donegal, Uls"
+  ],
+  "inishowen-h1": [
+    55.37479,
+    -7.39985,
+    "OSM Nominatim: Malin Head, Ardmalin ED, Inishowen Municipal District, Count"
   ]
 }

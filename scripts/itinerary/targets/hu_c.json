@@ -1,0 +1,246 @@
+{
+"budapest-h25": [
+"Museum of Fine Arts Budapest",
+"Museum of Fine Arts"
+],
+"budapest-h26": [
+"House of Music Hungary",
+"House of Hungarian Music"
+],
+"godollo-h1": [
+"Gödöllői Királyi Kastély",
+"Royal Palace of Gödöllő"
+],
+"godollo-h2": [
+"Gödöllői Kastélypark",
+"Palace park"
+],
+"godollo-h3": [
+"Máriabesnyői Bazilika",
+"Máriabesnyő Basilica"
+],
+"visegrad-hu-h1": [
+"Visegrádi Fellegvár",
+"Visegrád Citadel"
+],
+"visegrad-hu-h2": [
+"Visegrádi Királyi Palota",
+"Royal Palace ruins"
+],
+"visegrad-hu-h3": [
+"Salamon-torony",
+"Solomon’s Tower"
+],
+"visegrad-hu-h4": [
+"Visegrádi Bobpálya",
+"Nagyvillám summer bobsled"
+],
+"koszeg-h1": [
+"Jurisics-vár",
+"Jurisics Castle"
+],
+"koszeg-h2": [
+"Jurisics tér Kőszeg",
+"Jurisics Square"
+],
+"koszeg-h3": [
+"Hősök tornya Kőszeg",
+"Heroes’ Gate Tower"
+],
+"koszeg-h4": [
+"Írottkő kilátó",
+"Írottkő lookout"
+],
+"villany-h1": [
+"Baross Gábor utca Villány",
+"Wine cellar street"
+],
+"villany-h2": [
+"Bormúzeum Villány",
+"Villány Wine Museum"
+],
+"villany-h3": [
+"Siklósi vár",
+"Siklós Castle"
+],
+"villany-h4": [
+"Harkányi Gyógyfürdő",
+"Harkány thermal bath"
+],
+"kecskemet-h1": [
+"Kecskeméti Városháza",
+"Town Hall & Kossuth Square"
+],
+"kecskemet-h2": [
+"Cifrapalota Kecskemét",
+"Cifrapalota"
+],
+"kecskemet-h3": [
+"Magyar Naiv Művészek Múzeuma",
+"Museum of Hungarian Naïve Art"
+],
+"kecskemet-h4": [
+"Bugaci Karikás Csárda",
+"Bugac horse show"
+],
+"kalocsa-h1": [
+"Nagyboldogasszony-főszékesegyház Kalocsa",
+"Kalocsa Cathedral"
+],
+"kalocsa-h2": [
+"Érseki Palota Kalocsa",
+"Archbishop’s Palace & Library"
+],
+"kalocsa-h3": [
+"Paprika Múzeum Kalocsa",
+"Paprika Museum"
+],
+"kalocsa-h4": [
+"Népművészeti Tájház Kalocsa",
+"Folk Art House"
+],
+"matra-h1": [
+"Kékestető",
+"Kékestető"
+],
+"matra-h2": [
+"Sástó Mátrafüred",
+"Sástó lake & lookout"
+],
+"matra-h3": [
+"Kocsimúzeum Parádsasvár",
+"Parád Carriage Museum"
+],
+"miskolc-h1": [
+"Barlangfürdő Miskolctapolca",
+"Miskolctapolca Cave Bath"
+],
+"miskolc-h2": [
+"Diósgyőri vár",
+"Diósgyőr Castle"
+],
+"miskolc-h3": [
+"Lillafüred Palotaszálló",
+"Lillafüred Palace Hotel & Lake Hámori"
+],
+"miskolc-h4": [
+"Lillafüredi Állami Erdei Vasút",
+"Lillafüred forest railway"
+],
+"aggtelek-h1": [
+"Baradla-barlang Aggtelek",
+"Baradla Cave (Aggtelek)"
+],
+"aggtelek-h2": [
+"Baradla-barlang Jósvafő",
+"Jósvafő cave tours"
+],
+"aggtelek-h3": [
+"Aggteleki Nemzeti Park",
+"Aggtelek National Park trails"
+],
+"sarospatak-h1": [
+"Rákóczi-vár Sárospatak",
+"Rákóczi Castle"
+],
+"sarospatak-h2": [
+"Sárospataki Református Kollégium",
+"Reformed College & Great Library"
+],
+"sarospatak-h3": [
+"Árpád Vezér Gimnázium Sárospatak",
+"Makovecz architecture"
+],
+"sarospatak-h4": [
+"Megyer-hegyi Tengerszem",
+"Megyer Hill quarry lake"
+],
+"szekesfehervar-h1": [
+"Nemzeti Emlékhely Székesfehérvár",
+"Royal Basilica ruins garden"
+],
+"szekesfehervar-h2": [
+"Városház tér Székesfehérvár",
+"Old town & Town Hall Square"
+],
+"szekesfehervar-h3": [
+"Szent István-székesegyház Székesfehérvár",
+"Cathedral of St Stephen"
+],
+"szekesfehervar-h4": [
+"Bory-vár",
+"Bory Castle"
+],
+"veszprem-h1": [
+"Veszprémi vár",
+"Castle district"
+],
+"veszprem-h2": [
+"Szent Mihály-székesegyház Veszprém",
+"St Michael’s Cathedral & Gizella Chapel"
+],
+"veszprem-h3": [
+"Tűztorony Veszprém",
+"Fire Watchtower"
+],
+"veszprem-h4": [
+"Herend Porcelanium",
+"Herend Porcelain Manufactory"
+],
+"balatonfured-h1": [
+"Tagore sétány",
+"Tagore Promenade"
+],
+"balatonfured-h2": [
+"Kossuth Lajos-forrás Balatonfüred",
+"Gyógy Square & Kossuth Spring"
+],
+"balatonfured-h3": [
+"Jókai Emlékház",
+"Jókai Memorial House"
+],
+"balatonfured-h4": [
+"Balatonfüred hajóállomás",
+"Lake Balaton boat trip"
+],
+"sumeg-h1": [
+"Sümegi vár",
+"Sümeg Castle"
+],
+"sumeg-h2": [
+"Nagyboldogasszony-templom Sümeg",
+"Church of the Ascension"
+],
+"sumeg-h3": [
+"Püspöki palota Sümeg",
+"Bishop’s Palace"
+],
+"esztergom-h1": [
+"Esztergomi Bazilika",
+"Esztergom Basilica"
+],
+"esztergom-h2": [
+"Esztergomi Vármúzeum",
+"Castle Museum"
+],
+"esztergom-h3": [
+"Keresztény Múzeum",
+"Christian Museum"
+],
+"esztergom-h4": [
+"Mária Valéria híd",
+"Mária Valéria Bridge"
+],
+"heviz-h1": [
+"Hévízi-tó",
+"Lake Hévíz"
+],
+"heviz-h2": [
+"Egregyi Árpád-kori templom",
+"Egregy village & Árpád-era church"
+],
+"heviz-h3": [
+"Festetics-kastély",
+"Festetics Palace (Keszthely)"
+]
+}

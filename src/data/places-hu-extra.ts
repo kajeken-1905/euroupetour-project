@@ -115,4 +115,166 @@ export const placesHUExtra: Place[] = [
   place('keszthely-cafe-3', 'keszthely', 'cafe', 'Part Breakfast & Brunch', 'Bercsényi Miklós u. 65, 8360 Keszthely, Hungary', '호숫가 쪽의 아침·브런치 카페.', 'Breakfast and brunch café towards the lakeshore.'),
   place('keszthely-bakery-1', 'keszthely', 'bakery', 'Madárlátta Pékség', 'Kossuth Lajos u. 39, 8360 Keszthely, Hungary', '코슈트 거리의 빵집.', 'Bakery on Kossuth Street.'),
   place('keszthely-bakery-2', 'keszthely', 'bakery', 'Hosszú Pékség', 'Skála köz, 8360 Keszthely, Hungary', '시내의 빵집.', 'Bakery in the town centre.'),
+
+  // —— szekesfehervar: restaurants, bakeries and cafés (2026-11-27) ——
+  place('szekesfehervar-fine_dining-1', 'szekesfehervar', 'fine_dining', '67 Étterem (67 Sigma)', 'Oskola u. 2-4, 8000 Székesfehérvár, Hungary', '헝가리 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 577개).', 'Hungarian restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (577 reviews).'),
+  place('szekesfehervar-fine_dining-2', 'szekesfehervar', 'fine_dining', 'bEAT', 'Vörösmarty tér 1, Székesfehérvár, Hungary', '레스토랑. 구글 지도 평점 4.8(리뷰 3309개).', 'Restaurant. Rated 4.8 on Google Maps (3309 reviews).'),
+  place('szekesfehervar-fine_dining-3', 'szekesfehervar', 'fine_dining', 'Kiskulacs Vendéglő', 'Budai út 26, Székesfehérvár, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.8(리뷰 2247개).', 'Hungarian restaurant. Rated 4.8 on Google Maps (2247 reviews).'),
+  place('szekesfehervar-fine_dining-4', 'szekesfehervar', 'fine_dining', 'Pady\'s Bistro', 'Fő utca 1, Székesfehérvár, Hungary', '비스트로. 구글 지도 평점 4.7(리뷰 602개).', 'Bistro. Rated 4.7 on Google Maps (602 reviews).'),
+  place('szekesfehervar-fine_dining-5', 'szekesfehervar', 'fine_dining', 'Kiskakas Vendéglő', 'Kelemen Béla u. 93, Székesfehérvár, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.7(리뷰 2546개).', 'Hungarian restaurant. Rated 4.7 on Google Maps (2546 reviews).'),
+  place('szekesfehervar-bakery-1', 'szekesfehervar', 'bakery', 'Már Vártalak pékség, kávézó', 'Király sor 66, Székesfehérvár, Hungary', '빵집. 구글 지도 평점 4.9(리뷰 1083개).', 'Bakery. Rated 4.9 on Google Maps (1083 reviews).'),
+  place('szekesfehervar-bakery-2', 'szekesfehervar', 'bakery', 'Cream Patisserie and Cafe', 'Szabadságharcos út 40, Székesfehérvár, Hungary', '과자점. 구글 지도 평점 4.7(리뷰 3197개).', 'Pastry shop. Rated 4.7 on Google Maps (3197 reviews).'),
+  place('szekesfehervar-cafe-1', 'szekesfehervar', 'cafe', 'Jóbarátok Kávézó és Bár', 'Távirda u. 23, Székesfehérvár, Hungary', '카페. 구글 지도 평점 4.9(리뷰 397개).', 'Café. Rated 4.9 on Google Maps (397 reviews).'),
+  place('szekesfehervar-cafe-2', 'szekesfehervar', 'cafe', 'Szentjánosbogár Specialty Kávékert', 'Liszt Ferenc u. 1, Székesfehérvár, Hungary', '스페셜티 커피 바. 구글 지도 평점 4.9(리뷰 219개).', 'Specialty coffee bar. Rated 4.9 on Google Maps (219 reviews).'),
+  place('szekesfehervar-cafe-3', 'szekesfehervar', 'cafe', 'Veled Teljes Specialty Café & Bistro', 'Oskola u. 6, Székesfehérvár, Hungary', '스페셜티 커피 바. 구글 지도 평점 4.8(리뷰 190개).', 'Specialty coffee bar. Rated 4.8 on Google Maps (190 reviews).'),
+  place('szekesfehervar-cafe-4', 'szekesfehervar', 'cafe', 'Puhakuckó kávézó', 'Lépcső u. 2, Székesfehérvár, Hungary', '카페. 구글 지도 평점 4.7(리뷰 197개).', 'Café. Rated 4.7 on Google Maps (197 reviews).'),
+
+  // —— veszprem: restaurants, bakeries and cafés (2026-11-27) ——
+  place('veszprem-fine_dining-1', 'veszprem', 'fine_dining', 'GUSTO13 Bistro & Delicate', 'Csermák Antal u. 13, Veszprém, Hungary', '지중해 요리 레스토랑. 구글 지도 평점 4.8(리뷰 1437개).', 'Mediterranean restaurant. Rated 4.8 on Google Maps (1437 reviews).'),
+  place('veszprem-fine_dining-2', 'veszprem', 'fine_dining', 'Smoke & More', 'Óváros tér 26, Veszprém, Hungary', '그릴 레스토랑. 구글 지도 평점 4.8(리뷰 215개).', 'Grill restaurant. Rated 4.8 on Google Maps (215 reviews).'),
+  place('veszprem-fine_dining-3', 'veszprem', 'fine_dining', 'Nosztalgia Garden', 'Kittenberger Kálmán u. 11, Veszprém, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.8(리뷰 418개).', 'Hungarian restaurant. Rated 4.8 on Google Maps (418 reviews).'),
+  place('veszprem-fine_dining-4', 'veszprem', 'fine_dining', 'Kiskuti csárda', 'Veszprém, Hungary', '차르다(헝가리 전통 주막 식당). 구글 지도 평점 4.7(리뷰 339개).', 'Csárda (traditional Hungarian inn). Rated 4.7 on Google Maps (339 reviews).'),
+  place('veszprem-fine_dining-5', 'veszprem', 'fine_dining', 'Chill Bistro', 'Óváros tér 4, Veszprém, Hungary', '비스트로. 구글 지도 평점 4.5(리뷰 1304개).', 'Bistro. Rated 4.5 on Google Maps (1304 reviews).'),
+  place('veszprem-bakery-1', 'veszprem', 'bakery', 'Mákmoiselle Pékség', 'Megyeház tér 2, Veszprém, Hungary', '빵집. 구글 지도 평점 4.7(리뷰 355개).', 'Bakery. Rated 4.7 on Google Maps (355 reviews).'),
+  place('veszprem-bakery-2', 'veszprem', 'bakery', 'Mackó Cukrászda Veszprém', 'Megyeház tér 2, Veszprém, Hungary', '과자점. 구글 지도 평점 4.4(리뷰 1459개).', 'Pastry shop. Rated 4.4 on Google Maps (1459 reviews).'),
+  place('veszprem-bakery-3', 'veszprem', 'bakery', 'Jakova Bakeries', 'Egyetem u. 19, Veszprém, Hungary', '빵집. 구글 지도 평점 4.3(리뷰 619개).', 'Bakery. Rated 4.3 on Google Maps (619 reviews).'),
+  place('veszprem-cafe-1', 'veszprem', 'cafe', 'Tizen1', 'Kossuth Lajos u. 6, Veszprém, Hungary', '카페. 구글 지도 평점 4.8(리뷰 490개).', 'Café. Rated 4.8 on Google Maps (490 reviews).'),
+  place('veszprem-cafe-2', 'veszprem', 'cafe', 'KUNSZT!', 'Óváros tér 1, Veszprém, Hungary', '카페. 구글 지도 평점 4.6(리뷰 692개).', 'Café. Rated 4.6 on Google Maps (692 reviews).'),
+  place('veszprem-cafe-3', 'veszprem', 'cafe', 'Cafe Frei Balaton', 'Budapest út 20-28, Veszprém, Hungary', '카페. 구글 지도 평점 4.5(리뷰 1526개).', 'Café. Rated 4.5 on Google Maps (1526 reviews).'),
+
+  // —— balatonfured: restaurants, bakeries and cafés (2026-11-27) ——
+  place('balatonfured-fine_dining-1', 'balatonfured', 'fine_dining', 'Bistro Sparhelt', 'Szent István tér 7, 8230 Balatonfüred, Hungary', '비스트로. 미쉐린 빕 구르망. 구글 지도 평점 4.6(리뷰 1015개).', 'Bistro. MICHELIN Bib Gourmand. Rated 4.6 on Google Maps (1015 reviews).', { michelin: 'bib' }),
+  place('balatonfured-fine_dining-2', 'balatonfured', 'fine_dining', 'Zelna Bisztró', 'Zákonyi Ferenc u. 3-5, 8230 Balatonfüred, Hungary', '비스트로. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 357개).', 'Bistro. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (357 reviews).'),
+  place('balatonfured-fine_dining-3', 'balatonfured', 'fine_dining', 'Csopaki Resti', 'Kossuth u. 1, 8229 Csopak, Hungary', '초퍼크에 있는 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 235개).', 'Restaurant in Csopak. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (235 reviews).'),
+  place('balatonfured-fine_dining-4', 'balatonfured', 'fine_dining', 'Petrányi Pince', 'Homokbánya u. 31, 8229 Csopak, Hungary', '초퍼크에 있는 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 804개).', 'Restaurant in Csopak. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (804 reviews).'),
+  place('balatonfured-fine_dining-5', 'balatonfured', 'fine_dining', 'Víg Molnár Csárda', 'Kőkorsó u. 1, 8229 Csopak, Hungary', '초퍼크에 있는 차르다(헝가리 전통 주막 식당). 미쉐린 가이드 소개. 구글 지도 평점 4.5(리뷰 3349개).', 'Csárda (traditional Hungarian inn) in Csopak. Listed in the MICHELIN Guide. Rated 4.5 on Google Maps (3349 reviews).'),
+  place('balatonfured-bakery-1', 'balatonfured', 'bakery', 'Bergmann Cukrászda Balatonfüred', 'Petőfi Sándor u. 64, Balatonfüred, Hungary', '과자점. 구글 지도 평점 4.8(리뷰 721개).', 'Pastry shop. Rated 4.8 on Google Maps (721 reviews).'),
+  place('balatonfured-bakery-2', 'balatonfured', 'bakery', 'Füredi Strudel Shop', 'Petőfi Sándor u. 21, Balatonfüred, Hungary', '과자점. 구글 지도 평점 4.8(리뷰 201개).', 'Pastry shop. Rated 4.8 on Google Maps (201 reviews).'),
+  place('balatonfured-bakery-3', 'balatonfured', 'bakery', 'Péklány Kézműves Pékség', 'Szent István tér 5-7, Balatonfüred, Hungary', '빵집. 구글 지도 평점 4.6(리뷰 1180개).', 'Bakery. Rated 4.6 on Google Maps (1180 reviews).'),
+  place('balatonfured-bakery-4', 'balatonfured', 'bakery', 'Bergmann Confectionery Tea and Coffee', 'Zsigmond u. 1, Balatonfüred, Hungary', '디저트 가게. 구글 지도 평점 4.6(리뷰 3597개).', 'Dessert shop. Rated 4.6 on Google Maps (3597 reviews).'),
+  place('balatonfured-cafe-1', 'balatonfured', 'cafe', 'Loom Café & Co.', 'Aranyhíd stny. 8, Balatonfüred, Hungary', '카페. 구글 지도 평점 4.6(리뷰 103개).', 'Café. Rated 4.6 on Google Maps (103 reviews).'),
+  place('balatonfured-cafe-2', 'balatonfured', 'cafe', 'Carpe Diem Kávézó & Ételbár', 'Szent István tér 7, Balatonfüred, Hungary', '카페. 구글 지도 평점 4.6(리뷰 87개).', 'Café. Rated 4.6 on Google Maps (87 reviews).'),
+  place('balatonfured-cafe-3', 'balatonfured', 'cafe', 'Pazar Coffee Company Balatonfüred', 'Aranyhíd stny. 6, Balatonfüred, Hungary', '카페. 구글 지도 평점 4.5(리뷰 1238개).', 'Café. Rated 4.5 on Google Maps (1238 reviews).'),
+  place('balatonfured-cafe-4', 'balatonfured', 'cafe', 'Carolina Cafe and Cocktail Bar', 'Zákonyi Ferenc u. 4, Balatonfüred, Hungary', '카페. 구글 지도 평점 4.5(리뷰 4897개).', 'Café. Rated 4.5 on Google Maps (4897 reviews).'),
+
+  // —— sumeg: restaurants, bakeries and cafés (2026-11-27) ——
+  place('sumeg-fine_dining-1', 'sumeg', 'fine_dining', 'B terv Étterem & Kávézó', 'Kossuth Lajos u. 6, Sümeg, Hungary', '레스토랑. 구글 지도 평점 4.7(리뷰 654개).', 'Restaurant. Rated 4.7 on Google Maps (654 reviews).'),
+  place('sumeg-fine_dining-2', 'sumeg', 'fine_dining', 'Várcsárda Étterem', 'Kisfaludy kert, Sümeg, Hungary', '차르다(헝가리 전통 주막 식당). 구글 지도 평점 4.6(리뷰 3572개).', 'Csárda (traditional Hungarian inn). Rated 4.6 on Google Maps (3572 reviews).'),
+  place('sumeg-fine_dining-3', 'sumeg', 'fine_dining', 'Thirty\'s Étterem & Pizzéria', 'Fő út 84, Sümeg, Hungary', '피자 식당. 구글 지도 평점 4.6(리뷰 772개).', 'Pizza restaurant. Rated 4.6 on Google Maps (772 reviews).'),
+
+  // —— esztergom: restaurants, bakeries and cafés (2026-11-27) ——
+  place('esztergom-fine_dining-1', 'esztergom', 'fine_dining', '42 Restaurant', 'Széchenyi tér 23, 2500 Esztergom, Hungary', '현대 요리 레스토랑. 미쉐린 1스타. 구글 지도 평점 4.8(리뷰 323개).', 'Modern cuisine restaurant. One MICHELIN star. Rated 4.8 on Google Maps (323 reviews).', { michelin: 'star1' }),
+  place('esztergom-fine_dining-2', 'esztergom', 'fine_dining', 'Koriander Vendéglő', 'Simor János u. 8, Esztergom, Hungary', '레스토랑. 구글 지도 평점 4.9(리뷰 305개).', 'Restaurant. Rated 4.9 on Google Maps (305 reviews).'),
+  place('esztergom-fine_dining-3', 'esztergom', 'fine_dining', 'Nonna', 'Széchenyi tér 13, Esztergom, Hungary', '이탈리아 요리 레스토랑. 구글 지도 평점 4.8(리뷰 188개).', 'Italian restaurant. Rated 4.8 on Google Maps (188 reviews).'),
+  place('esztergom-fine_dining-4', 'esztergom', 'fine_dining', 'AO•KOI Japán Étterem & Kávézó', 'Madách Imre út 6, Esztergom, Hungary', '일본 요리 레스토랑. 구글 지도 평점 4.8(리뷰 280개).', 'Japanese restaurant. Rated 4.8 on Google Maps (280 reviews).'),
+  place('esztergom-fine_dining-5', 'esztergom', 'fine_dining', 'Primate of Esztergom Cellar and Restaurant', 'Szent István tér 12, Esztergom, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.6(리뷰 2715개).', 'Hungarian restaurant. Rated 4.6 on Google Maps (2715 reviews).'),
+  place('esztergom-bakery-1', 'esztergom', 'bakery', 'Café La Fontana Esztergom', 'Széchenyi tér 20, Esztergom, Hungary', '과자점. 구글 지도 평점 4.6(리뷰 1501개).', 'Pastry shop. Rated 4.6 on Google Maps (1501 reviews).'),
+  place('esztergom-bakery-2', 'esztergom', 'bakery', 'Isler Bakery, Bistro and Kitchen', 'Lőrinc u. 6, Esztergom, Hungary', '빵집. 구글 지도 평점 4.6(리뷰 399개).', 'Bakery. Rated 4.6 on Google Maps (399 reviews).'),
+  place('esztergom-bakery-3', 'esztergom', 'bakery', 'Központi Kávéház Szamos Cukrászda', 'Vörösmarty u. 2, Esztergom, Hungary', '과자점. 구글 지도 평점 4.4(리뷰 2096개).', 'Pastry shop. Rated 4.4 on Google Maps (2096 reviews).'),
+  place('esztergom-cafe-1', 'esztergom', 'cafe', 'BaBszem kávézó és reggeliző', 'Simor János u. 13, Esztergom, Hungary', '카페. 구글 지도 평점 4.8(리뷰 87개).', 'Café. Rated 4.8 on Google Maps (87 reviews).'),
+
+  // —— koszeg: restaurants, bakeries and cafés (2026-11-27) ——
+  place('koszeg-fine_dining-1', 'koszeg', 'fine_dining', 'Dominik Pizzéria & Étterem', 'Várkör 59, Kőszeg, Hungary', '피자 식당. 구글 지도 평점 4.8(리뷰 514개).', 'Pizza restaurant. Rated 4.8 on Google Maps (514 reviews).'),
+  place('koszeg-fine_dining-2', 'koszeg', 'fine_dining', 'Ibrahim Cafe and Restaurant', 'Fő tér 17, Kőszeg, Hungary', '레스토랑. 구글 지도 평점 4.6(리뷰 1429개).', 'Restaurant. Rated 4.6 on Google Maps (1429 reviews).'),
+  place('koszeg-fine_dining-3', 'koszeg', 'fine_dining', 'Kékfény Étterem és Pizzéria', 'Várkör 25, Kőszeg, Hungary', '레스토랑. 구글 지도 평점 4.5(리뷰 1530개).', 'Restaurant. Rated 4.5 on Google Maps (1530 reviews).'),
+  place('koszeg-fine_dining-4', 'koszeg', 'fine_dining', 'Boszorkánykonyha', 'Jurisics tér 13, Kőszeg, Hungary', '레스토랑. 구글 지도 평점 4.5(리뷰 1262개).', 'Restaurant. Rated 4.5 on Google Maps (1262 reviews).'),
+  place('koszeg-fine_dining-5', 'koszeg', 'fine_dining', 'Kék Huszár Vendéglő', 'Várkör 60, Kőszeg, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.4(리뷰 1330개).', 'Hungarian restaurant. Rated 4.4 on Google Maps (1330 reviews).'),
+  place('koszeg-bakery-1', 'koszeg', 'bakery', 'Bleona Pékség', 'Rákóczi Ferenc u. 29, Kőszeg, Hungary', '빵집. 구글 지도 평점 4.5(리뷰 233개).', 'Bakery. Rated 4.5 on Google Maps (233 reviews).'),
+  place('koszeg-bakery-2', 'koszeg', 'bakery', 'Arany Strucc Cukrászda', 'Várkör 126, Kőszeg, Hungary', '과자점. 구글 지도 평점 4.4(리뷰 280개).', 'Pastry shop. Rated 4.4 on Google Maps (280 reviews).'),
+
+  // —— heviz: restaurants, bakeries and cafés (2026-11-27) ——
+  place('heviz-fine_dining-1', 'heviz', 'fine_dining', 'Teri mama vendéglője', 'Zrínyi u. 147, Hévíz, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.7(리뷰 2878개).', 'Hungarian restaurant. Rated 4.7 on Google Maps (2878 reviews).'),
+  place('heviz-fine_dining-2', 'heviz', 'fine_dining', 'Liget Pizzeria & Restaurant', 'Petőfi Sándor u. 7, Hévíz, Hungary', '레스토랑. 구글 지도 평점 4.7(리뷰 2052개).', 'Restaurant. Rated 4.7 on Google Maps (2052 reviews).'),
+  place('heviz-fine_dining-3', 'heviz', 'fine_dining', 'Trattoria Fratelli', 'Attila u. 6, Hévíz, Hungary', '이탈리아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 800개).', 'Italian restaurant. Rated 4.6 on Google Maps (800 reviews).'),
+  place('heviz-fine_dining-4', 'heviz', 'fine_dining', 'La Montanara Pizzeria', 'Szent András u. 2, Hévíz, Hungary', '이탈리아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 3543개).', 'Italian restaurant. Rated 4.6 on Google Maps (3543 reviews).'),
+  place('heviz-fine_dining-5', 'heviz', 'fine_dining', 'Brix Bistro', 'Rákóczi u. 18, Hévíz, Hungary', '비스트로. 구글 지도 평점 4.5(리뷰 570개).', 'Bistro. Rated 4.5 on Google Maps (570 reviews).'),
+  place('heviz-bakery-1', 'heviz', 'bakery', 'Komáromy Pékség Hévíz', 'Honvéd u. 4, Hévíz, Hungary', '빵집. 구글 지도 평점 4.5(리뷰 208개).', 'Bakery. Rated 4.5 on Google Maps (208 reviews).'),
+  place('heviz-bakery-2', 'heviz', 'bakery', 'Zalaco Bakery', 'Erzsébet királyné u. 5, Hévíz, Hungary', '빵집. 구글 지도 평점 4.5(리뷰 200개).', 'Bakery. Rated 4.5 on Google Maps (200 reviews).'),
+  place('heviz-cafe-1', 'heviz', 'cafe', 'Sissy Kávézó és Fagylaltozó', 'Deák tér, Hévíz, Hungary', '카페. 구글 지도 평점 4.8(리뷰 1524개).', 'Café. Rated 4.8 on Google Maps (1524 reviews).'),
+  place('heviz-cafe-2', 'heviz', 'cafe', 'Cafe Relax', 'Széchenyi u. 2, Hévíz, Hungary', '카페. 구글 지도 평점 4.6(리뷰 1053개).', 'Café. Rated 4.6 on Google Maps (1053 reviews).'),
+  place('heviz-cafe-3', 'heviz', 'cafe', 'Macchiato Caffe & Lounge', 'Széchenyi u. 7, Hévíz, Hungary', '카페. 구글 지도 평점 4.6(리뷰 2176개).', 'Café. Rated 4.6 on Google Maps (2176 reviews).'),
+
+  // —— villany: restaurants, bakeries and cafés (2026-11-27) ——
+  place('villany-fine_dining-1', 'villany', 'fine_dining', 'SAUSKA 48', '048 10 hrsz, 7773 Villány, Hungary', '헝가리 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 954개).', 'Hungarian restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (954 reviews).'),
+  place('villany-fine_dining-2', 'villany', 'fine_dining', 'Sárga Ház Borgerező és Bisztró', 'Petőfi Sándor u. 29, Villány, Hungary', '비스트로. 구글 지도 평점 4.8(리뷰 1060개).', 'Bistro. Rated 4.8 on Google Maps (1060 reviews).'),
+  place('villany-fine_dining-3', 'villany', 'fine_dining', 'Fülemüle Csárda', 'Villány, Hungary', '차르다(헝가리 전통 주막 식당). 구글 지도 평점 4.7(리뷰 2619개).', 'Csárda (traditional Hungarian inn). Rated 4.7 on Google Maps (2619 reviews).'),
+  place('villany-fine_dining-4', 'villany', 'fine_dining', 'A.GERE Restaurant', 'Diófás u. 4-12, Villány, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.6(리뷰 83개).', 'Hungarian restaurant. Rated 4.6 on Google Maps (83 reviews).'),
+  place('villany-fine_dining-5', 'villany', 'fine_dining', 'Bock Óbor Étterem', 'Batthyány Lajos u. 15, Villány, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.6(리뷰 699개).', 'Hungarian restaurant. Rated 4.6 on Google Maps (699 reviews).'),
+  place('villany-bakery-1', 'villany', 'bakery', 'Villányi Pékség', 'Baross Gábor u. 80, Villány, Hungary', '빵집. 구글 지도 평점 4.3(리뷰 85개).', 'Bakery. Rated 4.3 on Google Maps (85 reviews).'),
+  place('villany-cafe-1', 'villany', 'cafe', 'Caffe & Pasta', 'Damjanich János u. 2, Villány, Hungary', '카페. 구글 지도 평점 4.4(리뷰 512개).', 'Café. Rated 4.4 on Google Maps (512 reviews).'),
+  place('villany-cafe-2', 'villany', 'cafe', 'Rétesház & Kávézó', 'Baross Gábor u. 60, Villány, Hungary', '카페. 구글 지도 평점 4.3(리뷰 597개).', 'Café. Rated 4.3 on Google Maps (597 reviews).'),
+
+  // —— matra: restaurants, bakeries and cafés (2026-11-27) ——
+  place('matra-fine_dining-1', 'matra', 'fine_dining', '4 Évszak - Palóc Étterem', 'Parádi út 8, Mátrafüred, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.5(리뷰 2363개).', 'Hungarian restaurant. Rated 4.5 on Google Maps (2363 reviews).'),
+  place('matra-fine_dining-2', 'matra', 'fine_dining', 'Füred Pizza Mátra', 'Parádi út 6, Mátrafüred, Hungary', '피자 식당. 구글 지도 평점 4.4(리뷰 992개).', 'Pizza restaurant. Rated 4.4 on Google Maps (992 reviews).'),
+  place('matra-fine_dining-3', 'matra', 'fine_dining', 'Benevár Étterem', 'Parádi út 10, Mátrafüred, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.3(리뷰 2930개).', 'Hungarian restaurant. Rated 4.3 on Google Maps (2930 reviews).'),
+  place('matra-fine_dining-4', 'matra', 'fine_dining', 'Kóborló vendéglő', 'Üdülősor u. 59/A, Mátrafüred, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.3(리뷰 1093개).', 'Hungarian restaurant. Rated 4.3 on Google Maps (1093 reviews).'),
+  place('matra-cafe-1', 'matra', 'cafe', 'Kávé Placc Mátraháza', 'Toboz tér, Mátraháza, Hungary', '마트러하저에 있는 카페. 구글 지도 평점 5.0(리뷰 81개).', 'Café in Mátraháza. Rated 5.0 on Google Maps (81 reviews).'),
+
+  // —— miskolc: restaurants, bakeries and cafés (2026-11-27) ——
+  place('miskolc-fine_dining-1', 'miskolc', 'fine_dining', 'Iszkor', 'Lillafüredi u. 245/5, 3645 Mályinka, Hungary', '마이잉커에 있는 비스트로. 미쉐린 빕 구르망. 구글 지도 평점 4.9(리뷰 947개).', 'Bistro in Mályinka. MICHELIN Bib Gourmand. Rated 4.9 on Google Maps (947 reviews).', { michelin: 'bib' }),
+  place('miskolc-fine_dining-2', 'miskolc', 'fine_dining', 'Végállomás bistro&wine', 'Kiss tábornok út 50-52, 3534 Miskolc, Hungary', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 2173개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (2173 reviews).'),
+  place('miskolc-fine_dining-3', 'miskolc', 'fine_dining', 'Avalon Ristorante', 'Iglói u. 15, 3519 Miskolc, Hungary', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 3891개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (3891 reviews).'),
+  place('miskolc-fine_dining-4', 'miskolc', 'fine_dining', 'Lestyán Gasztro & Bar', 'Arany János tér 1, Miskolc, Hungary', '레스토랑. 구글 지도 평점 5.0(리뷰 298개).', 'Restaurant. Rated 5.0 on Google Maps (298 reviews).'),
+  place('miskolc-fine_dining-5', 'miskolc', 'fine_dining', 'Mángold Bisztró', 'Sütő János u. 44, Miskolc, Hungary', '비스트로. 구글 지도 평점 4.8(리뷰 1075개).', 'Bistro. Rated 4.8 on Google Maps (1075 reviews).'),
+  place('miskolc-bakery-1', 'miskolc', 'bakery', 'L&L vadkovászos pékmühely', 'Balassi Bálint u. 25, Miskolc, Hungary', '빵집. 구글 지도 평점 4.8(리뷰 230개).', 'Bakery. Rated 4.8 on Google Maps (230 reviews).'),
+  place('miskolc-bakery-2', 'miskolc', 'bakery', 'Édes Szívem Cukrászda', 'Széchenyi István út 32, Miskolc, Hungary', '과자점. 구글 지도 평점 4.8(리뷰 271개).', 'Pastry shop. Rated 4.8 on Google Maps (271 reviews).'),
+  place('miskolc-bakery-3', 'miskolc', 'bakery', 'Desszertem cukrászműhely & kávézó', 'Széchenyi István u. 21, Miskolc, Hungary', '디저트 가게. 구글 지도 평점 4.7(리뷰 1262개).', 'Dessert shop. Rated 4.7 on Google Maps (1262 reviews).'),
+  place('miskolc-cafe-1', 'miskolc', 'cafe', 'Spiral Coffee', 'Széchenyi István u. 91, Miskolc, Hungary', '스페셜티 커피 바. 구글 지도 평점 4.8(리뷰 155개).', 'Specialty coffee bar. Rated 4.8 on Google Maps (155 reviews).'),
+  place('miskolc-cafe-2', 'miskolc', 'cafe', 'Sub Rosa Cafe', 'Széchenyi István u. 21, Miskolc, Hungary', '카페. 구글 지도 평점 4.8(리뷰 323개).', 'Café. Rated 4.8 on Google Maps (323 reviews).'),
+  place('miskolc-cafe-3', 'miskolc', 'cafe', 'Paris Cafe', 'Dessewffy Arisztid u. 6, Miskolc, Hungary', '카페. 구글 지도 평점 4.8(리뷰 258개).', 'Café. Rated 4.8 on Google Maps (258 reviews).'),
+  place('miskolc-cafe-4', 'miskolc', 'cafe', 'The Sweets Bar', 'Széchenyi István út 66, Miskolc, Hungary', '브런치 카페. 구글 지도 평점 4.8(리뷰 339개).', 'Brunch café. Rated 4.8 on Google Maps (339 reviews).'),
+  place('miskolc-cafe-5', 'miskolc', 'cafe', 'Antik Art Café', 'Déryné u. 2, Miskolc, Hungary', '카페. 구글 지도 평점 4.5(리뷰 308개).', 'Café. Rated 4.5 on Google Maps (308 reviews).'),
+
+  // —— aggtelek: restaurants, bakeries and cafés (2026-11-27) ——
+  place('aggtelek-fine_dining-1', 'aggtelek', 'fine_dining', 'Kertem pizzéria', 'Kossuth Lajos út 57/C, Aggtelek, Hungary', '피자 식당. 구글 지도 평점 4.9(리뷰 464개).', 'Pizza restaurant. Rated 4.9 on Google Maps (464 reviews).'),
+
+  // —— sarospatak: restaurants, bakeries and cafés (2026-11-27) ——
+  place('sarospatak-fine_dining-1', 'sarospatak', 'fine_dining', 'Béla Király Udvar Étterem-Kávézó', 'Béla király tér 3, Sárospatak, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.9(리뷰 713개).', 'Hungarian restaurant. Rated 4.9 on Google Maps (713 reviews).'),
+  place('sarospatak-fine_dining-2', 'sarospatak', 'fine_dining', 'Hotel Bodrog Étterem & Héliosz Terasz', 'Rákóczi út 58, Sárospatak, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.8(리뷰 134개).', 'Hungarian restaurant. Rated 4.8 on Google Maps (134 reviews).'),
+  place('sarospatak-fine_dining-3', 'sarospatak', 'fine_dining', 'Lángos Sütöde', 'Béla király tér 1, Sárospatak, Hungary', '랑고시(헝가리식 튀김빵) 가게. 구글 지도 평점 4.8(리뷰 256개).', 'Lángos shop. Rated 4.8 on Google Maps (256 reviews).'),
+  place('sarospatak-fine_dining-4', 'sarospatak', 'fine_dining', 'A Boros Borbár és Étterem', 'Rákóczi út 21, Sárospatak, Hungary', '와인 바 레스토랑. 구글 지도 평점 4.7(리뷰 997개).', 'Wine bar and restaurant. Rated 4.7 on Google Maps (997 reviews).'),
+  place('sarospatak-fine_dining-5', 'sarospatak', 'fine_dining', 'Collegno Pizzeria And Ristorante', 'Szent Erzsébet u. 8, Sárospatak, Hungary', '피자 식당. 구글 지도 평점 4.7(리뷰 2594개).', 'Pizza restaurant. Rated 4.7 on Google Maps (2594 reviews).'),
+  place('sarospatak-bakery-1', 'sarospatak', 'bakery', 'Heitzmann Cukrászda', 'Táncsics Mihály u. 9, Sárospatak, Hungary', '과자점. 구글 지도 평점 4.4(리뷰 505개).', 'Pastry shop. Rated 4.4 on Google Maps (505 reviews).'),
+  place('sarospatak-bakery-2', 'sarospatak', 'bakery', 'Ljikaj Pékség', 'Rákóczi út 39, Sárospatak, Hungary', '빵집. 구글 지도 평점 4.4(리뷰 188개).', 'Bakery. Rated 4.4 on Google Maps (188 reviews).'),
+  place('sarospatak-cafe-1', 'sarospatak', 'cafe', 'Mázsa Kávéház', 'Szeles u. 40, Sárospatak, Hungary', '카페. 구글 지도 평점 5.0(리뷰 81개).', 'Café. Rated 5.0 on Google Maps (81 reviews).'),
+
+  // —— kecskemet: restaurants, bakeries and cafés (2026-11-27) ——
+  place('kecskemet-fine_dining-1', 'kecskemet', 'fine_dining', 'Fekete Gólya Étterem', 'Borbás 50, Kecskemét, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.8(리뷰 8514개).', 'Hungarian restaurant. Rated 4.8 on Google Maps (8514 reviews).'),
+  place('kecskemet-fine_dining-2', 'kecskemet', 'fine_dining', 'Kecskeméti Csárda és Borház', 'Kölcsey u. 7, Kecskemét, Hungary', '차르다(헝가리 전통 주막 식당). 구글 지도 평점 4.8(리뷰 3094개).', 'Csárda (traditional Hungarian inn). Rated 4.8 on Google Maps (3094 reviews).'),
+  place('kecskemet-fine_dining-3', 'kecskemet', 'fine_dining', 'Jungle Garden', 'Hornyik János krt. 4, Kecskemét, Hungary', '현대 요리 레스토랑. 구글 지도 평점 4.8(리뷰 117개).', 'Modern cuisine restaurant. Rated 4.8 on Google Maps (117 reviews).'),
+  place('kecskemet-fine_dining-4', 'kecskemet', 'fine_dining', 'RIZZ Burger & BBQ Kecskemét', 'Csáky u. 18, Kecskemét, Hungary', '햄버거 식당. 구글 지도 평점 4.8(리뷰 806개).', 'Burger restaurant. Rated 4.8 on Google Maps (806 reviews).'),
+  place('kecskemet-fine_dining-5', 'kecskemet', 'fine_dining', 'Sasfészek Étterem', 'Alsócsalános 3, Kecskemét, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.7(리뷰 3544개).', 'Hungarian restaurant. Rated 4.7 on Google Maps (3544 reviews).'),
+  place('kecskemet-bakery-1', 'kecskemet', 'bakery', 'Abigél pékség és kávézó', 'Széchenyi tér 14, Kecskemét, Hungary', '빵집. 구글 지도 평점 4.9(리뷰 89개).', 'Bakery. Rated 4.9 on Google Maps (89 reviews).'),
+  place('kecskemet-bakery-2', 'kecskemet', 'bakery', 'Bazsalikomos kert és pékség', 'Budai u. 12, Kecskemét, Hungary', '빵집. 구글 지도 평점 4.8(리뷰 364개).', 'Bakery. Rated 4.8 on Google Maps (364 reviews).'),
+  place('kecskemet-bakery-3', 'kecskemet', 'bakery', 'Yuzu Art Cake', 'Rákóczi út 4, Kecskemét, Hungary', '케이크 가게. 구글 지도 평점 4.6(리뷰 173개).', 'Cake shop. Rated 4.6 on Google Maps (173 reviews).'),
+  place('kecskemet-cafe-1', 'kecskemet', 'cafe', 'NANO Specialty Coffee', 'Kossuth tér 6-7, Kecskemét, Hungary', '스페셜티 커피 바. 구글 지도 평점 4.9(리뷰 419개).', 'Specialty coffee bar. Rated 4.9 on Google Maps (419 reviews).'),
+  place('kecskemet-cafe-2', 'kecskemet', 'cafe', 'Lechner Kávéház', 'Kossuth tér 1, Kecskemét, Hungary', '카페. 구글 지도 평점 4.5(리뷰 273개).', 'Café. Rated 4.5 on Google Maps (273 reviews).'),
+  place('kecskemet-cafe-3', 'kecskemet', 'cafe', 'Café Plázs Kecskemét', 'Nyíri út 57, Kecskemét, Hungary', '카페. 구글 지도 평점 4.5(리뷰 726개).', 'Café. Rated 4.5 on Google Maps (726 reviews).'),
+
+  // —— kalocsa: restaurants, bakeries and cafés (2026-11-27) ——
+  place('kalocsa-fine_dining-1', 'kalocsa', 'fine_dining', 'RIZZ Burger & BBQ Kalocsa', 'Szent István király út 89, Kalocsa, Hungary', '햄버거 식당. 구글 지도 평점 4.9(리뷰 265개).', 'Burger restaurant. Rated 4.9 on Google Maps (265 reviews).'),
+  place('kalocsa-fine_dining-2', 'kalocsa', 'fine_dining', 'Diófa Vendéglő', 'Petőfi Sándor u. 67, Kalocsa, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.7(리뷰 262개).', 'Hungarian restaurant. Rated 4.7 on Google Maps (262 reviews).'),
+  place('kalocsa-fine_dining-3', 'kalocsa', 'fine_dining', 'Kék Duna Vendéglő Étterem', 'Kalocsa, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.6(리뷰 2450개).', 'Hungarian restaurant. Rated 4.6 on Google Maps (2450 reviews).'),
+  place('kalocsa-fine_dining-4', 'kalocsa', 'fine_dining', 'Il Primo Ristorante', 'Szent István király út 51, Kalocsa, Hungary', '이탈리아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 578개).', 'Italian restaurant. Rated 4.6 on Google Maps (578 reviews).'),
+  place('kalocsa-fine_dining-5', 'kalocsa', 'fine_dining', 'Nyárfa vendéglő', 'Bátyai út 13, Kalocsa, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.5(리뷰 787개).', 'Hungarian restaurant. Rated 4.5 on Google Maps (787 reviews).'),
+  place('kalocsa-bakery-1', 'kalocsa', 'bakery', 'Félegyházi Pékség', 'Szent István király út 55, Kalocsa, Hungary', '빵집. 구글 지도 평점 4.4(리뷰 157개).', 'Bakery. Rated 4.4 on Google Maps (157 reviews).'),
+
+  // —— godollo: restaurants, bakeries and cafés (2026-11-27) ——
+  place('godollo-fine_dining-1', 'godollo', 'fine_dining', 'Happy Day Barbecue & Burger Bár', 'Bajcsy-Zsilinszky u. 19, Gödöllő, Hungary', '바비큐 식당. 구글 지도 평점 4.8(리뷰 964개).', 'Barbecue restaurant. Rated 4.8 on Google Maps (964 reviews).'),
+  place('godollo-fine_dining-2', 'godollo', 'fine_dining', 'Yellow Pub Restaurant', 'Dózsa György út 64, Gödöllő, Hungary', '레스토랑. 구글 지도 평점 4.7(리뷰 2318개).', 'Restaurant. Rated 4.7 on Google Maps (2318 reviews).'),
+  place('godollo-fine_dining-3', 'godollo', 'fine_dining', 'Sziget Vendéglő', 'Szabadság út 139, Gödöllő, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.5(리뷰 1594개).', 'Hungarian restaurant. Rated 4.5 on Google Maps (1594 reviews).'),
+  place('godollo-fine_dining-4', 'godollo', 'fine_dining', 'Kemencés Vendéglő', 'Kossuth Lajos u. 31-33, Gödöllő, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.5(리뷰 1514개).', 'Hungarian restaurant. Rated 4.5 on Google Maps (1514 reviews).'),
+  place('godollo-bakery-1', 'godollo', 'bakery', 'Solier Cafe', 'Dózsa György út 13, Gödöllő, Hungary', '과자점. 구글 지도 평점 4.7(리뷰 1052개).', 'Pastry shop. Rated 4.7 on Google Maps (1052 reviews).'),
+  place('godollo-bakery-2', 'godollo', 'bakery', 'Tóth Bakery', 'Szabadság tér 8, Gödöllő, Hungary', '빵집. 구글 지도 평점 4.5(리뷰 365개).', 'Bakery. Rated 4.5 on Google Maps (365 reviews).'),
+  place('godollo-cafe-1', 'godollo', 'cafe', 'Caravella Café', 'Szilhát u. 40, Gödöllő, Hungary', '카페. 구글 지도 평점 4.9(리뷰 1027개).', 'Café. Rated 4.9 on Google Maps (1027 reviews).'),
+
+  // —— visegrad-hu: restaurants, bakeries and cafés (2026-11-27) ——
+  place('visegrad-hu-fine_dining-1', 'visegrad-hu', 'fine_dining', 'Restaurant Panoráma', 'Panoráma u. 2, Visegrád, Hungary', '레스토랑. 구글 지도 평점 4.8(리뷰 2551개).', 'Restaurant. Rated 4.8 on Google Maps (2551 reviews).'),
+  place('visegrad-hu-fine_dining-2', 'visegrad-hu', 'fine_dining', 'VIRTU Restaurant', 'Dombóvári út 28, Visegrád, Hungary', '레스토랑. 구글 지도 평점 4.7(리뷰 1509개).', 'Restaurant. Rated 4.7 on Google Maps (1509 reviews).'),
+  place('visegrad-hu-fine_dining-3', 'visegrad-hu', 'fine_dining', 'Renaissance Restaurant', 'Fő u. 11, Visegrád, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.7(리뷰 5929개).', 'Hungarian restaurant. Rated 4.7 on Google Maps (5929 reviews).'),
+  place('visegrad-hu-fine_dining-4', 'visegrad-hu', 'fine_dining', 'Kovács-Kert Étterem', 'Rév u. 4, Visegrád, Hungary', '헝가리 요리 레스토랑. 구글 지도 평점 4.5(리뷰 2794개).', 'Hungarian restaurant. Rated 4.5 on Google Maps (2794 reviews).'),
+  place('visegrad-hu-fine_dining-5', 'visegrad-hu', 'fine_dining', 'Gulyás Csárda', 'Nagy Lajos u. 4, Visegrád, Hungary', '차르다(헝가리 전통 주막 식당). 구글 지도 평점 4.3(리뷰 2026개).', 'Csárda (traditional Hungarian inn). Rated 4.3 on Google Maps (2026 reviews).'),
+  place('visegrad-hu-bakery-1', 'visegrad-hu', 'bakery', 'Édeske Alíz Cukrászda', 'Dózsa György út 21, Visegrád, Hungary', '과자점. 구글 지도 평점 4.6(리뷰 2060개).', 'Pastry shop. Rated 4.6 on Google Maps (2060 reviews).'),
+  place('visegrad-hu-bakery-2', 'visegrad-hu', 'bakery', 'Rigoletto Cukrászda', 'Rév u. 13, Visegrád, Hungary', '디저트 가게. 구글 지도 평점 4.6(리뷰 1254개).', 'Dessert shop. Rated 4.6 on Google Maps (1254 reviews).'),
 ]

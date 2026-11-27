@@ -582,6 +582,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— ie ——
+  drogheda: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 계곡 유적은 차나 투어가 편합니다.',
+      en: 'Walk the town; a car or tour is easiest for the valley sites.',
+    },
+    apps: [
+    ],
+  },
+  wicklow: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '버스가 하루 몇 번뿐이라 차나 투어가 편합니다.',
+      en: 'Only a few buses a day; a car or tour is easiest.',
+    },
+    apps: [
+    ],
+  },
+  wexford: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 근교 명소는 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the sights nearby.',
+    },
+    apps: [
+    ],
+  },
+  athlone: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 클론맥노이즈는 차나 투어로 갑니다.',
+      en: 'Walk the town; car or tour to Clonmacnoise.',
+    },
+    apps: [
+    ],
+  },
+  waterford: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 그린웨이는 자전거를 빌립니다.',
+      en: 'Walk the centre; rent a bike for the Greenway.',
+    },
+    apps: [
+    ],
+  },
+  cobh: {
+    modes: ['walk', 'train', 'ferry'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다니고, 언덕이 가파릅니다.',
+      en: 'A small, steep town on foot.',
+    },
+    apps: [
+    ],
+  },
+  kenmare: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '해안 드라이브는 차가 있어야 합니다.',
+      en: 'You need a car for the coastal drives.',
+    },
+    apps: [
+    ],
+  },
+  cashel: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다닙니다.',
+      en: 'A small town on foot.',
+    },
+    apps: [
+    ],
+  },
+  inishmore: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '자전거를 빌리거나 미니버스 투어로 섬을 돕니다.',
+      en: 'Hire a bike or take a minibus tour round the island.',
+    },
+    apps: [
+    ],
+  },
+  clifden: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 차나 투어가 편합니다.',
+      en: 'Buses are infrequent; a car or tour is easiest.',
+    },
+    apps: [
+    ],
+  },
+  cong: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다닙니다.',
+      en: 'A tiny village on foot.',
+    },
+    apps: [
+    ],
+  },
+  sligo: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 근교 명소는 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the sights nearby.',
+    },
+    apps: [
+    ],
+  },
+  letterkenny: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '국립공원은 차나 투어가 편합니다.',
+      en: 'A car or tour is easiest for the national park.',
+    },
+    apps: [
+    ],
+  },
+  donegal: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 해안은 차가 편합니다.',
+      en: 'Walk the town; a car is easiest for the coast.',
+    },
+    apps: [
+    ],
+  },
+  killybegs: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '절벽까지는 버스가 드물어 차나 투어가 편합니다.',
+      en: 'Few buses go to the cliffs; a car or tour is easiest.',
+    },
+    apps: [
+    ],
+  },
+  inishowen: {
+    modes: ['bus', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 차가 있어야 편합니다.',
+      en: 'Buses are sparse; a car is best.',
+    },
+    apps: [
+    ],
+  },
   dublin: {
     modes: ['bus', 'tram', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
@@ -2747,6 +2891,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
     apps: [
       ta('mav'),
+    ],
+  },
+  szekesfehervar: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 보리 성은 버스로 갑니다.',
+      en: 'Walk the old town; take a bus to Bory Castle.',
+    },
+    apps: [
+    ],
+  },
+  veszprem: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내버스가 역과 시내를 잇습니다.',
+      en: 'City buses link the station and centre.',
+    },
+    apps: [
+    ],
+  },
+  balatonfured: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '호숫가는 걸어서 다니고, 티하니는 버스나 배로 갑니다.',
+      en: 'Walk the lakefront; bus or boat to Tihany.',
+    },
+    apps: [
+    ],
+  },
+  sumeg: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '시내에서 성까지 걸어서 오릅니다.',
+      en: 'Walk up from the town to the castle.',
+    },
+    apps: [
+    ],
+  },
+  esztergom: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '역에서 시내까지 버스가 다니고, 대성당 언덕은 걸어서 오릅니다.',
+      en: 'Buses run from the station; walk up the basilica hill.',
+    },
+    apps: [
+    ],
+  },
+  koszeg: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '구시가는 작아 걸어서 다닙니다.',
+      en: 'The old town is small and walkable.',
+    },
+    apps: [
+    ],
+  },
+  heviz: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다니고, 케스트헤이까지 버스가 자주 다닙니다.',
+      en: 'A small town on foot; frequent buses to Keszthely.',
+    },
+    apps: [
+    ],
+  },
+  villany: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 근교는 버스로 갑니다.',
+      en: 'Walk the village; buses to nearby towns.',
+    },
+    apps: [
+    ],
+  },
+  matra: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '죈죄시에서 산마을로 버스가 다닙니다.',
+      en: 'Buses run up from Gyöngyös to the mountain villages.',
+    },
+    apps: [
+    ],
+  },
+  miskolc: {
+    modes: ['tram', 'bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '트램과 버스로 다니고, 릴러퓌레드엔 버스·숲 열차가 다닙니다.',
+      en: 'Trams and buses; buses and the forest railway go to Lillafüred.',
+    },
+    apps: [
+    ],
+  },
+  aggtelek: {
+    modes: ['bus', 'walk'],
+    howTo: {
+      ko: '버스가 하루 몇 번뿐이라 시간을 미리 확인합니다.',
+      en: 'Only a few buses a day; check times ahead.',
+    },
+    apps: [
+    ],
+  },
+  sarospatak: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다.',
+      en: 'The town is walkable.',
+    },
+    apps: [
+    ],
+  },
+  kecskemet: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 부거츠는 차나 투어로 갑니다.',
+      en: 'Walk the centre; take a car or tour to Bugac.',
+    },
+    apps: [
+    ],
+  },
+  kalocsa: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '작은 도시라 걸어서 다닙니다.',
+      en: 'A small town on foot.',
+    },
+    apps: [
+    ],
+  },
+  godollo: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '역에서 궁전까지 걸어갑니다.',
+      en: 'Walk from the station to the palace.',
+    },
+    apps: [
+    ],
+  },
+  'visegrad-hu': {
+    modes: ['bus', 'walk', 'ferry', 'taxi'],
+    howTo: {
+      ko: '강가에서 성채까지 버스가 오르거나 걸어서 오릅니다.',
+      en: 'A bus climbs to the citadel, or walk up.',
+    },
+    apps: [
     ],
   },
   budapest: {

@@ -120,4 +120,150 @@ export const placesIEExtra: Place[] = [
   place('westport-cafe-3', 'westport', 'cafe', 'The ClockHouse Cafe', 'Cahernamart, Westport, Co. Mayo F28 Y440, Ireland', '시계탑 옆의 카페.', 'Café by the clock tower.'),
   place('westport-bakery-1', 'westport', 'bakery', 'Cornrue Bakery', 'New Rd, The Demesne, Westport, Co. Mayo, Ireland', '뉴 로드의 빵집. 오후 일찍 닫습니다.', 'Bakery on New Road; closes early afternoon.'),
   place('westport-bakery-2', 'westport', 'bakery', 'Curry\'s Cottage Home Bakery & Tea Room', 'James St, Westport, Co. Mayo, Ireland', '제임스 스트리트의 빵집 겸 찻집.', 'Home bakery and tea room on James Street.'),
+
+  // —— drogheda: restaurants, bakeries and cafés (2026-11-27) ——
+  place('drogheda-fine_dining-1', 'drogheda', 'fine_dining', 'El Grito Drogheda', '3 Meat Market Lane, Drogheda, Ireland', '멕시코 요리 식당. 구글 지도 평점 4.8(리뷰 400개).', 'Mexican restaurant. Rated 4.8 on Google Maps (400 reviews).'),
+  place('drogheda-fine_dining-2', 'drogheda', 'fine_dining', 'Fujiyama Drogheda Town Centre', 'Drogheda, Ireland', '일본 요리 레스토랑. 구글 지도 평점 4.8(리뷰 992개).', 'Japanese restaurant. Rated 4.8 on Google Maps (992 reviews).'),
+  place('drogheda-fine_dining-3', 'drogheda', 'fine_dining', 'Song & Jenn\'s Kitchen', '1-2 Cord Rd, Drogheda, Ireland', '한식당. 구글 지도 평점 4.5(리뷰 373개).', 'Korean restaurant. Rated 4.5 on Google Maps (373 reviews).'),
+  place('drogheda-fine_dining-4', 'drogheda', 'fine_dining', 'D\'Vine Bistro & Tapas Bar', 'Distillery House, Dyer St, Drogheda, Ireland', '타파스 바. 구글 지도 평점 4.5(리뷰 515개).', 'Tapas bar. Rated 4.5 on Google Maps (515 reviews).'),
+  place('drogheda-fine_dining-5', 'drogheda', 'fine_dining', 'Antica Toscana', '32/33 Shop St, Drogheda, Ireland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 634개).', 'Italian restaurant. Rated 4.5 on Google Maps (634 reviews).'),
+  place('drogheda-bakery-1', 'drogheda', 'bakery', 'Buns Bakery Coffee & Cake', '10 Beechgrove Terrace, Drogheda, Ireland', '빵집. 구글 지도 평점 4.7(리뷰 189개).', 'Bakery. Rated 4.7 on Google Maps (189 reviews).'),
+  place('drogheda-bakery-2', 'drogheda', 'bakery', 'McCloskey\'s Bakery Shop', '63 Trinity St, Drogheda, Ireland', '빵집. 구글 지도 평점 4.6(리뷰 283개).', 'Bakery. Rated 4.6 on Google Maps (283 reviews).'),
+  place('drogheda-cafe-1', 'drogheda', 'cafe', 'Sagscoffee', 'Rathmullan Rd, Drogheda, Ireland', '카페. 구글 지도 평점 4.9(리뷰 269개).', 'Café. Rated 4.9 on Google Maps (269 reviews).'),
+  place('drogheda-cafe-2', 'drogheda', 'cafe', 'Ariosa Cafe', '1 St Laurence St, Drogheda, Ireland', '카페. 구글 지도 평점 4.8(리뷰 355개).', 'Café. Rated 4.8 on Google Maps (355 reviews).'),
+  place('drogheda-cafe-3', 'drogheda', 'cafe', 'Evalynn Coffee', 'Bryanstown Centre, Drogheda, Ireland', '카페. 구글 지도 평점 4.7(리뷰 297개).', 'Café. Rated 4.7 on Google Maps (297 reviews).'),
+  place('drogheda-cafe-4', 'drogheda', 'cafe', 'Five Good Things Cafe', '36 St Laurence St, Drogheda, Ireland', '카페. 구글 지도 평점 4.5(리뷰 492개).', 'Café. Rated 4.5 on Google Maps (492 reviews).'),
+
+  // —— wicklow: restaurants, bakeries and cafés (2026-11-27) ——
+  place('wicklow-fine_dining-1', 'wicklow', 'fine_dining', 'Wicklow Heather Restaurant', 'Glendalough Road, Laragh, Ireland', '래러에 있는 아일랜드식 펍. 구글 지도 평점 4.6(리뷰 5404개).', 'Irish pub in Laragh. Rated 4.6 on Google Maps (5404 reviews).'),
+  place('wicklow-cafe-1', 'wicklow', 'cafe', 'St. Kevin\'s Kitchen', 'R757, Glendalough, Laragh, Ireland', '카페. 구글 지도 평점 4.7(리뷰 120개).', 'Café. Rated 4.7 on Google Maps (120 reviews).'),
+  place('wicklow-cafe-2', 'wicklow', 'cafe', 'Sugar Mountain', 'R755, Laragh, Ireland', '래러에 있는 카페. 구글 지도 평점 4.4(리뷰 149개).', 'Café in Laragh. Rated 4.4 on Google Maps (149 reviews).'),
+
+  // —— wexford: restaurants, bakeries and cafés (2026-11-27) ——
+  place('wexford-fine_dining-1', 'wexford', 'fine_dining', 'The Old Granary Restaurant', '10 Westgate, Wexford, Ireland', '아일랜드식 펍. 구글 지도 평점 4.7(리뷰 705개).', 'Irish pub. Rated 4.7 on Google Maps (705 reviews).'),
+  place('wexford-fine_dining-2', 'wexford', 'fine_dining', 'Nori', '6 Anne St, Wexford, Ireland', '스시 레스토랑. 구글 지도 평점 4.7(리뷰 407개).', 'Sushi restaurant. Rated 4.7 on Google Maps (407 reviews).'),
+  place('wexford-fine_dining-3', 'wexford', 'fine_dining', 'La Côte Seafood Restaurant', 'Church Ln, Wexford, Ireland', '해산물 레스토랑. 구글 지도 평점 4.7(리뷰 517개).', 'Seafood restaurant. Rated 4.7 on Google Maps (517 reviews).'),
+  place('wexford-fine_dining-4', 'wexford', 'fine_dining', 'La Vista Café & Restaurant', 'High St, Wexford, Ireland', '레스토랑. 구글 지도 평점 4.7(리뷰 126개).', 'Restaurant. Rated 4.7 on Google Maps (126 reviews).'),
+  place('wexford-fine_dining-5', 'wexford', 'fine_dining', 'Jasper\'s Restaurant', 'Monck St, Wexford, Ireland', '현대 요리 레스토랑. 구글 지도 평점 4.6(리뷰 361개).', 'Modern cuisine restaurant. Rated 4.6 on Google Maps (361 reviews).'),
+  place('wexford-cafe-1', 'wexford', 'cafe', 'Wexford Coffee Roasters', 'Trimmers Ln W, Wexford, Ireland', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.8(리뷰 126개).', 'Coffee roastery café. Rated 4.8 on Google Maps (126 reviews).'),
+  place('wexford-cafe-2', 'wexford', 'cafe', 'The Trough', 'Crescent Quay, Wexford, Ireland', '카페. 구글 지도 평점 4.6(리뷰 552개).', 'Café. Rated 4.6 on Google Maps (552 reviews).'),
+  place('wexford-cafe-3', 'wexford', 'cafe', 'Joanne\'s Cafe', 'Cornmarket Centre, N Main St, Wexford, Ireland', '카페. 구글 지도 평점 4.4(리뷰 592개).', 'Café. Rated 4.4 on Google Maps (592 reviews).'),
+
+  // —— athlone: restaurants, bakeries and cafés (2026-11-27) ——
+  place('athlone-fine_dining-1', 'athlone', 'fine_dining', 'Thyme Restaurant', 'Custume Pl, Athlone, Co. Westmeath, Ireland', '아일랜드식 펍. 미쉐린 빕 구르망. 구글 지도 평점 4.8(리뷰 760개).', 'Irish pub. MICHELIN Bib Gourmand. Rated 4.8 on Google Maps (760 reviews).', { michelin: 'bib' }),
+  place('athlone-fine_dining-2', 'athlone', 'fine_dining', '1810 Steakhouse', 'Pearse Court, Pearse St, Athlone, Ireland', '스테이크 하우스. 구글 지도 평점 4.8(리뷰 461개).', 'Steakhouse. Rated 4.8 on Google Maps (461 reviews).'),
+  place('athlone-fine_dining-3', 'athlone', 'fine_dining', 'Bacchus Restaurant', 'Custume Pier, Custume Pl, Athlone, Ireland', '현대 요리 레스토랑. 구글 지도 평점 4.6(리뷰 855개).', 'Modern cuisine restaurant. Rated 4.6 on Google Maps (855 reviews).'),
+  place('athlone-fine_dining-4', 'athlone', 'fine_dining', 'Il Colosseo', '6 Northgate St, Athlone, Ireland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 1649개).', 'Italian restaurant. Rated 4.6 on Google Maps (1649 reviews).'),
+  place('athlone-fine_dining-5', 'athlone', 'fine_dining', 'Kin Khao Thai', 'Abbey Ln, Athlone, Ireland', '태국 요리 레스토랑. 구글 지도 평점 4.6(리뷰 951개).', 'Thai restaurant. Rated 4.6 on Google Maps (951 reviews).'),
+  place('athlone-bakery-1', 'athlone', 'bakery', 'Magico', 'Aherlow Court, Brideswell Street, Athlone, Ireland', '과자점. 구글 지도 평점 4.7(리뷰 221개).', 'Pastry shop. Rated 4.7 on Google Maps (221 reviews).'),
+  place('athlone-bakery-2', 'athlone', 'bakery', 'The Wandering Elk', 'Athlone, Ireland', '케이크 가게. 구글 지도 평점 4.6(리뷰 126개).', 'Cake shop. Rated 4.6 on Google Maps (126 reviews).'),
+  place('athlone-bakery-3', 'athlone', 'bakery', 'Quigleys Cafe, Bakery & Deli', 'Athlone Town Centre, Ireland', '빵집. 구글 지도 평점 4.3(리뷰 126개).', 'Bakery. Rated 4.3 on Google Maps (126 reviews).'),
+  place('athlone-cafe-1', 'athlone', 'cafe', 'The Good Cafe', 'Dublin Rd, Athlone, Ireland', '카페. 구글 지도 평점 4.6(리뷰 155개).', 'Café. Rated 4.6 on Google Maps (155 reviews).'),
+  place('athlone-cafe-2', 'athlone', 'cafe', 'Garrison Coffee Co Athlone', '37 Church St, Athlone, Ireland', '카페. 구글 지도 평점 4.6(리뷰 111개).', 'Café. Rated 4.6 on Google Maps (111 reviews).'),
+
+  // —— waterford: restaurants, bakeries and cafés (2026-11-27) ——
+  place('waterford-fine_dining-1', 'waterford', 'fine_dining', 'Everett\'s Restaurant', '22 High St, Waterford, X91 Y983, Ireland', '아일랜드식 펍. 미쉐린 빕 구르망. 구글 지도 평점 4.8(리뷰 415개).', 'Irish pub. MICHELIN Bib Gourmand. Rated 4.8 on Google Maps (415 reviews).', { michelin: 'bib' }),
+  place('waterford-fine_dining-2', 'waterford', 'fine_dining', 'Mara', '11 O\'Connell St, Waterford, X91 F304, Ireland', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.9(리뷰 218개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.9 on Google Maps (218 reviews).'),
+  place('waterford-fine_dining-3', 'waterford', 'fine_dining', 'Momo Restaurant', '47 Patrick St, Waterford, Ireland', '레스토랑. 구글 지도 평점 4.8(리뷰 1455개).', 'Restaurant. Rated 4.8 on Google Maps (1455 reviews).'),
+  place('waterford-fine_dining-4', 'waterford', 'fine_dining', 'Emiliano\'s Restaurant', '21 High St, Waterford, Ireland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.8(리뷰 1379개).', 'Italian restaurant. Rated 4.8 on Google Maps (1379 reviews).'),
+  place('waterford-fine_dining-5', 'waterford', 'fine_dining', 'McLeary\'s Restaurant', '122 Parade Quay, Waterford, Ireland', '아일랜드식 펍. 구글 지도 평점 4.7(리뷰 937개).', 'Irish pub. Rated 4.7 on Google Maps (937 reviews).'),
+  place('waterford-bakery-1', 'waterford', 'bakery', 'Sunny South Yeast Bakery', '58 Barrack St, Waterford, Ireland', '빵집. 구글 지도 평점 5.0(리뷰 187개).', 'Bakery. Rated 5.0 on Google Maps (187 reviews).'),
+  place('waterford-bakery-2', 'waterford', 'bakery', 'Seagull Bakery', '46 Patrick St, Waterford, Ireland', '빵집. 구글 지도 평점 4.8(리뷰 102개).', 'Bakery. Rated 4.8 on Google Maps (102 reviews).'),
+  place('waterford-bakery-3', 'waterford', 'bakery', 'Berkana Bakery', '86 The Quay, Waterford, Ireland', '빵집. 구글 지도 평점 4.7(리뷰 363개).', 'Bakery. Rated 4.7 on Google Maps (363 reviews).'),
+  place('waterford-bakery-4', 'waterford', 'bakery', 'Rob & Steve\'s Confectioners', '24 Lower Yellow Rd, Waterford, Ireland', '빵집. 구글 지도 평점 4.6(리뷰 120개).', 'Bakery. Rated 4.6 on Google Maps (120 reviews).'),
+  place('waterford-cafe-1', 'waterford', 'cafe', 'Under The Clock Coffee House', '26 Catherine St, Waterford, Ireland', '카페. 구글 지도 평점 4.8(리뷰 149개).', 'Café. Rated 4.8 on Google Maps (149 reviews).'),
+  place('waterford-cafe-2', 'waterford', 'cafe', 'The Rendezvous Cafe', '38 Merchants Quay, Waterford, Ireland', '카페. 구글 지도 평점 4.8(리뷰 86개).', 'Café. Rated 4.8 on Google Maps (86 reviews).'),
+  place('waterford-cafe-3', 'waterford', 'cafe', 'The Olive Cafe', '24 Barronstrand St, Waterford, Ireland', '카페. 구글 지도 평점 4.7(리뷰 442개).', 'Café. Rated 4.7 on Google Maps (442 reviews).'),
+  place('waterford-cafe-4', 'waterford', 'cafe', 'Teolaí Coffee', 'Beech House, Waterford, Ireland', '카페. 구글 지도 평점 4.7(리뷰 157개).', 'Café. Rated 4.7 on Google Maps (157 reviews).'),
+
+  // —— cobh: restaurants, bakeries and cafés (2026-11-27) ——
+  place('cobh-fine_dining-1', 'cobh', 'fine_dining', 'Azure Harbour Bistro', '11 West Beach, Cobh, Ireland', '해산물 레스토랑. 구글 지도 평점 4.7(리뷰 308개).', 'Seafood restaurant. Rated 4.7 on Google Maps (308 reviews).'),
+  place('cobh-fine_dining-2', 'cobh', 'fine_dining', 'The Arch - Cafe & Wine Bar', '5 Casement Square, Cobh, Ireland', '와인 바 레스토랑. 구글 지도 평점 4.7(리뷰 228개).', 'Wine bar and restaurant. Rated 4.7 on Google Maps (228 reviews).'),
+  place('cobh-fine_dining-3', 'cobh', 'fine_dining', 'The Rob Roy', '2-3 Pearse Square, Cobh, Ireland', '펍. 구글 지도 평점 4.7(리뷰 514개).', 'Pub. Rated 4.7 on Google Maps (514 reviews).'),
+  place('cobh-fine_dining-4', 'cobh', 'fine_dining', 'The Last Drop Cobh', '17 Westbourne Pl, Cobh, Ireland', '아일랜드식 펍. 구글 지도 평점 4.6(리뷰 197개).', 'Irish pub. Rated 4.6 on Google Maps (197 reviews).'),
+  place('cobh-fine_dining-5', 'cobh', 'fine_dining', 'Titanic Bar and Grill', '20 Casement Square, Cobh, Ireland', '그릴 레스토랑. 구글 지도 평점 4.3(리뷰 1787개).', 'Grill restaurant. Rated 4.3 on Google Maps (1787 reviews).'),
+  place('cobh-cafe-1', 'cobh', 'cafe', 'Ellens Kitchen', 'Whartons Corner, Cobh, Ireland', '카페. 구글 지도 평점 4.8(리뷰 323개).', 'Café. Rated 4.8 on Google Maps (323 reviews).'),
+  place('cobh-cafe-2', 'cobh', 'cafe', 'Seasalt Cafe and Deli Cobh', '17 Casement Square, Cobh, Ireland', '카페. 구글 지도 평점 4.7(리뷰 514개).', 'Café. Rated 4.7 on Google Maps (514 reviews).'),
+  place('cobh-cafe-3', 'cobh', 'cafe', 'Coffee Cove', '15 West Beach, Cobh, Ireland', '카페. 구글 지도 평점 4.6(리뷰 313개).', 'Café. Rated 4.6 on Google Maps (313 reviews).'),
+  place('cobh-cafe-4', 'cobh', 'cafe', 'Cuppacity Coffee', '3 Casement Square, Cobh, Ireland', '카페. 구글 지도 평점 4.5(리뷰 521개).', 'Café. Rated 4.5 on Google Maps (521 reviews).'),
+
+  // —— kenmare: restaurants, bakeries and cafés (2026-11-27) ——
+  place('kenmare-fine_dining-1', 'kenmare', 'fine_dining', 'Mulcahys', 'Main St, Kenmare, Co. Kerry, Ireland', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 494개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (494 reviews).'),
+  place('kenmare-fine_dining-2', 'kenmare', 'fine_dining', 'The Falls Restaurant', 'Sheen Falls Lodge, Kenmare, Co. Kerry, V93 HR27, Ireland', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 18개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (18 reviews).'),
+  place('kenmare-fine_dining-3', 'kenmare', 'fine_dining', 'Landline', 'Park Hotel, Shelbourne St, Kenmare, Co. Kerry, V93 X3XY, Ireland', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 5개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (5 reviews).'),
+  place('kenmare-fine_dining-4', 'kenmare', 'fine_dining', 'Lagom Restaurant', 'Kenmare, Ireland', '레스토랑. 구글 지도 평점 4.8(리뷰 189개).', 'Restaurant. Rated 4.8 on Google Maps (189 reviews).'),
+  place('kenmare-fine_dining-5', 'kenmare', 'fine_dining', 'No. 35 Kenmare Restaurant', '35 Main St, Kenmare, Ireland', '아일랜드식 펍. 구글 지도 평점 4.7(리뷰 501개).', 'Irish pub. Rated 4.7 on Google Maps (501 reviews).'),
+  place('kenmare-bakery-1', 'kenmare', 'bakery', 'Maison Gourmet', '6 Henry St, Kenmare, Ireland', '빵집. 구글 지도 평점 4.7(리뷰 852개).', 'Bakery. Rated 4.7 on Google Maps (852 reviews).'),
+  place('kenmare-cafe-1', 'kenmare', 'cafe', 'Bean & Batch Kenmare', 'Killarney Rd, Kenmare, Ireland', '카페. 구글 지도 평점 4.9(리뷰 480개).', 'Café. Rated 4.9 on Google Maps (480 reviews).'),
+
+  // —— cashel: restaurants, bakeries and cafés (2026-11-27) ——
+  place('cashel-fine_dining-1', 'cashel', 'fine_dining', 'The Bishop\'s Buttery', 'Main St, Cashel, Co. Tipperary, E25 EF61, Ireland', '현대 요리 레스토랑. 미쉐린 1스타. 구글 지도 평점 4.8(리뷰 36개).', 'Modern cuisine restaurant. One MICHELIN star. Rated 4.8 on Google Maps (36 reviews).', { michelin: 'star1' }),
+  place('cashel-fine_dining-2', 'cashel', 'fine_dining', 'Chez Hans', 'Moor Ln, Cashel, Co. Tipperary, Ireland', '현대 요리 레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 419개).', 'Modern cuisine restaurant. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (419 reviews).'),
+  place('cashel-fine_dining-3', 'cashel', 'fine_dining', 'Sam\'s Table', '15 Ladyswell St, Cashel, Ireland', '레스토랑. 구글 지도 평점 4.9(리뷰 123개).', 'Restaurant. Rated 4.9 on Google Maps (123 reviews).'),
+  place('cashel-fine_dining-4', 'cashel', 'fine_dining', 'Bowes & Co.', '24-25 Main St, Cashel, Ireland', '레스토랑. 구글 지도 평점 4.6(리뷰 686개).', 'Restaurant. Rated 4.6 on Google Maps (686 reviews).'),
+  place('cashel-fine_dining-5', 'cashel', 'fine_dining', 'Ember & Stone Cashel', 'Chapel Lane, Cashel, Ireland', '현대 요리 레스토랑. 구글 지도 평점 4.5(리뷰 90개).', 'Modern cuisine restaurant. Rated 4.5 on Google Maps (90 reviews).'),
+  place('cashel-cafe-1', 'cashel', 'cafe', 'Room4 Coffee House', '4 Main St, Cashel, Ireland', '카페. 구글 지도 평점 4.8(리뷰 673개).', 'Café. Rated 4.8 on Google Maps (673 reviews).'),
+  place('cashel-cafe-2', 'cashel', 'cafe', 'Granny\'s Kitchen', '1 Rock Ln, Cashel, Ireland', '카페. 구글 지도 평점 4.7(리뷰 202개).', 'Café. Rated 4.7 on Google Maps (202 reviews).'),
+
+  // —— inishmore: restaurants, bakeries and cafés (2026-11-27) ——
+  place('inishmore-fine_dining-1', 'inishmore', 'fine_dining', 'Joe Watty\'s Pub & Seafood Bar', 'Upper Kilronan, Inis Mór, Ireland', '해산물 레스토랑. 구글 지도 평점 4.5(리뷰 2041개).', 'Seafood restaurant. Rated 4.5 on Google Maps (2041 reviews).'),
+  place('inishmore-cafe-1', 'inishmore', 'cafe', 'Teach Nan Phaidi', 'Kilmurvey, Ireland', '킬머비에 있는 카페. 구글 지도 평점 4.7(리뷰 801개).', 'Café in Kilmurvey. Rated 4.7 on Google Maps (801 reviews).'),
+
+  // —— clifden: restaurants, bakeries and cafés (2026-11-27) ——
+  place('clifden-fine_dining-1', 'clifden', 'fine_dining', 'The Willow Tree Restaurant', 'Market St, Clifden, Ireland', '레스토랑. 구글 지도 평점 4.7(리뷰 242개).', 'Restaurant. Rated 4.7 on Google Maps (242 reviews).'),
+  place('clifden-fine_dining-2', 'clifden', 'fine_dining', 'Marconi Restaurant Clifden', 'Main St, Clifden, Ireland', '레스토랑. 구글 지도 평점 4.7(리뷰 147개).', 'Restaurant. Rated 4.7 on Google Maps (147 reviews).'),
+  place('clifden-fine_dining-3', 'clifden', 'fine_dining', 'Guys Bar Clifden', 'Main St, Clifden, Ireland', '개스트로펍. 구글 지도 평점 4.7(리뷰 1812개).', 'Gastropub. Rated 4.7 on Google Maps (1812 reviews).'),
+  place('clifden-fine_dining-4', 'clifden', 'fine_dining', 'Mannion\'s Seafood Bar & Restaurant', '1 Market St, Clifden, Ireland', '해산물 레스토랑. 구글 지도 평점 4.4(리뷰 1190개).', 'Seafood restaurant. Rated 4.4 on Google Maps (1190 reviews).'),
+  place('clifden-fine_dining-5', 'clifden', 'fine_dining', 'E J Kings Bar & Restaurant', 'Market Square, Clifden, Ireland', '레스토랑. 구글 지도 평점 4.3(리뷰 853개).', 'Restaurant. Rated 4.3 on Google Maps (853 reviews).'),
+  place('clifden-bakery-1', 'clifden', 'bakery', 'Walsh\'s Bakery Clifden', 'Market St, Clifden, Ireland', '빵집. 구글 지도 평점 4.3(리뷰 598개).', 'Bakery. Rated 4.3 on Google Maps (598 reviews).'),
+
+  // —— cong: restaurants, bakeries and cafés (2026-11-27) ——
+  place('cong-fine_dining-1', 'cong', 'fine_dining', 'George V Dining Room', 'Ashford Castle Dr, Cong, Co. Galway, F31 CA48, Ireland', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.6(리뷰 27개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.6 on Google Maps (27 reviews).'),
+  place('cong-fine_dining-2', 'cong', 'fine_dining', 'Pat Cohan\'s Gastro Pub', 'Main St, Cong, Ireland', '개스트로펍. 구글 지도 평점 4.5(리뷰 658개).', 'Gastropub. Rated 4.5 on Google Maps (658 reviews).'),
+  place('cong-cafe-1', 'cong', 'cafe', 'Mc Hughs of Cong', 'Abbey St, Cong, Ireland', '카페. 구글 지도 평점 4.7(리뷰 195개).', 'Café. Rated 4.7 on Google Maps (195 reviews).'),
+  place('cong-cafe-2', 'cong', 'cafe', 'Puddleducks Café', 'Main St, Cong, Ireland', '카페. 구글 지도 평점 4.5(리뷰 385개).', 'Café. Rated 4.5 on Google Maps (385 reviews).'),
+
+  // —— sligo: restaurants, bakeries and cafés (2026-11-27) ——
+  place('sligo-fine_dining-1', 'sligo', 'fine_dining', 'Flipside Serious Burgers Sligo', 'Rockwood Parade, Sligo, Ireland', '햄버거 식당. 구글 지도 평점 4.8(리뷰 949개).', 'Burger restaurant. Rated 4.8 on Google Maps (949 reviews).'),
+  place('sligo-fine_dining-2', 'sligo', 'fine_dining', 'Montmartre', '1 Market Yard, Sligo, Ireland', '프랑스 요리 레스토랑. 구글 지도 평점 4.7(리뷰 312개).', 'French restaurant. Rated 4.7 on Google Maps (312 reviews).'),
+  place('sligo-fine_dining-3', 'sligo', 'fine_dining', 'Coach Lane Restaurant @ Donaghy\'s Bar', '2 Lord Edward St, Sligo, Ireland', '레스토랑. 구글 지도 평점 4.6(리뷰 873개).', 'Restaurant. Rated 4.6 on Google Maps (873 reviews).'),
+  place('sligo-fine_dining-4', 'sligo', 'fine_dining', 'Eala Bhan', '5 Rockwood Parade, Sligo, Ireland', '아일랜드식 펍. 구글 지도 평점 4.6(리뷰 1034개).', 'Irish pub. Rated 4.6 on Google Maps (1034 reviews).'),
+  place('sligo-fine_dining-5', 'sligo', 'fine_dining', 'Bia Bao', '31 Castle St, Sligo, Ireland', '아시아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 981개).', 'Asian restaurant. Rated 4.6 on Google Maps (981 reviews).'),
+  place('sligo-bakery-1', 'sligo', 'bakery', 'Lyons Café and Bakeshop', 'Quay St, Sligo, Ireland', '빵집. 구글 지도 평점 4.7(리뷰 818개).', 'Bakery. Rated 4.7 on Google Maps (818 reviews).'),
+  place('sligo-bakery-2', 'sligo', 'bakery', 'O\'Hehirs Bakery & Cafe', 'Grattan St, Sligo, Ireland', '빵집. 구글 지도 평점 4.4(리뷰 105개).', 'Bakery. Rated 4.4 on Google Maps (105 reviews).'),
+  place('sligo-cafe-1', 'sligo', 'cafe', 'Tósta Café', 'Bridge St, Sligo, Ireland', '카페. 구글 지도 평점 4.8(리뷰 175개).', 'Café. Rated 4.8 on Google Maps (175 reviews).'),
+
+  // —— letterkenny: restaurants, bakeries and cafés (2026-11-27) ——
+  place('letterkenny-fine_dining-1', 'letterkenny', 'fine_dining', 'The Lemon Tree Restaurant', '32-34 Courtyard Shopping Centre, Lower Main Street, Letterkenny, Co. Donegal, Ireland', '아일랜드식 펍. 미쉐린 가이드 소개. 구글 지도 평점 4.8(리뷰 748개).', 'Irish pub. Listed in the MICHELIN Guide. Rated 4.8 on Google Maps (748 reviews).'),
+  place('letterkenny-fine_dining-2', 'letterkenny', 'fine_dining', 'AYO', 'R940 Ramelton Rd, Letterkenny, Ireland', '아시아 요리 레스토랑. 구글 지도 평점 4.8(리뷰 220개).', 'Asian restaurant. Rated 4.8 on Google Maps (220 reviews).'),
+  place('letterkenny-fine_dining-3', 'letterkenny', 'fine_dining', 'No. 9 Market Square', '9 Market Square, Letterkenny, Ireland', '레스토랑. 구글 지도 평점 4.8(리뷰 92개).', 'Restaurant. Rated 4.8 on Google Maps (92 reviews).'),
+  place('letterkenny-fine_dining-4', 'letterkenny', 'fine_dining', 'Italian Nook', 'Riverside Retail Park, Neil T Blaney Rd, Letterkenny, Ireland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 170개).', 'Italian restaurant. Rated 4.7 on Google Maps (170 reviews).'),
+  place('letterkenny-fine_dining-5', 'letterkenny', 'fine_dining', 'Yellow Pepper', '36 Lower Main St, Letterkenny, Ireland', '레스토랑. 구글 지도 평점 4.6(리뷰 1643개).', 'Restaurant. Rated 4.6 on Google Maps (1643 reviews).'),
+  place('letterkenny-bakery-1', 'letterkenny', 'bakery', 'O\'Hehirs Bakery & Cafe Shop', 'Upper Main St, Letterkenny, Ireland', '빵집. 구글 지도 평점 4.3(리뷰 186개).', 'Bakery. Rated 4.3 on Google Maps (186 reviews).'),
+  place('letterkenny-cafe-1', 'letterkenny', 'cafe', 'Bloem Coffee', 'Letterkenny Retail Park, Paddy Harte Rd, Ireland', '카페. 구글 지도 평점 4.7(리뷰 91개).', 'Café. Rated 4.7 on Google Maps (91 reviews).'),
+
+  // —— donegal: restaurants, bakeries and cafés (2026-11-27) ——
+  place('donegal-fine_dining-1', 'donegal', 'fine_dining', 'Blueberry Tea Room and Restaurant', 'Castle St, Donegal, Ireland', '레스토랑. 구글 지도 평점 4.8(리뷰 884개).', 'Restaurant. Rated 4.8 on Google Maps (884 reviews).'),
+  place('donegal-fine_dining-2', 'donegal', 'fine_dining', 'Quay West Restaurant', 'Quay St, Donegal, Ireland', '레스토랑. 구글 지도 평점 4.7(리뷰 431개).', 'Restaurant. Rated 4.7 on Google Maps (431 reviews).'),
+  place('donegal-fine_dining-3', 'donegal', 'fine_dining', 'Old Stone', 'Donegal Carpark, Ireland', '레스토랑. 구글 지도 평점 4.7(리뷰 385개).', 'Restaurant. Rated 4.7 on Google Maps (385 reviews).'),
+  place('donegal-fine_dining-4', 'donegal', 'fine_dining', 'The Harbour Restaurant & Bar', 'Quay St, Donegal, Ireland', '레스토랑. 구글 지도 평점 4.6(리뷰 668개).', 'Restaurant. Rated 4.6 on Google Maps (668 reviews).'),
+  place('donegal-fine_dining-5', 'donegal', 'fine_dining', 'Olde Castle Seafood Bar', 'Castle St, Donegal, Ireland', '해산물 레스토랑. 구글 지도 평점 4.4(리뷰 1967개).', 'Seafood restaurant. Rated 4.4 on Google Maps (1967 reviews).'),
+  place('donegal-bakery-1', 'donegal', 'bakery', 'Aroma Coffee Shop & Mini Bakery', 'Donegal, Ireland', '빵집. 구글 지도 평점 4.7(리뷰 214개).', 'Bakery. Rated 4.7 on Google Maps (214 reviews).'),
+
+  // —— killybegs: restaurants, bakeries and cafés (2026-11-27) ——
+  place('killybegs-fine_dining-1', 'killybegs', 'fine_dining', 'Killybegs Seafood Shack', 'Main St, Killybegs, Ireland', '해산물 레스토랑. 구글 지도 평점 4.7(리뷰 1255개).', 'Seafood restaurant. Rated 4.7 on Google Maps (1255 reviews).'),
+  place('killybegs-fine_dining-2', 'killybegs', 'fine_dining', 'Andersons Boathouse Restaurant', 'Main St, Killybegs, Ireland', '해산물 레스토랑. 구글 지도 평점 4.7(리뷰 404개).', 'Seafood restaurant. Rated 4.7 on Google Maps (404 reviews).'),
+  place('killybegs-fine_dining-3', 'killybegs', 'fine_dining', 'The Marina Cafe', 'Shore Rd, Killybegs, Ireland', '해산물 레스토랑. 구글 지도 평점 4.6(리뷰 408개).', 'Seafood restaurant. Rated 4.6 on Google Maps (408 reviews).'),
+  place('killybegs-cafe-1', 'killybegs', 'cafe', 'Mrs B\'s Coffee House', 'Main St, Killybegs, Ireland', '카페. 구글 지도 평점 4.8(리뷰 483개).', 'Café. Rated 4.8 on Google Maps (483 reviews).'),
+  place('killybegs-cafe-2', 'killybegs', 'cafe', 'Ahoy Cafe', 'Shore Rd, Killybegs, Ireland', '카페. 구글 지도 평점 4.7(리뷰 592개).', 'Café. Rated 4.7 on Google Maps (592 reviews).'),
+  place('killybegs-cafe-3', 'killybegs', 'cafe', 'Melly\'s Cafe', 'Main St, Killybegs, Ireland', '카페. 구글 지도 평점 4.5(리뷰 261개).', 'Café. Rated 4.5 on Google Maps (261 reviews).'),
+
+  // —— inishowen: restaurants, bakeries and cafés (2026-11-27) ——
+  place('inishowen-fine_dining-1', 'inishowen', 'fine_dining', 'Diamond Cafe', 'Carndonagh, Ireland', '레스토랑. 구글 지도 평점 4.9(리뷰 188개).', 'Restaurant. Rated 4.9 on Google Maps (188 reviews).'),
+  place('inishowen-fine_dining-2', 'inishowen', 'fine_dining', 'Mc Cleans Malin', 'Malin, Ireland', '말린에 있는 레스토랑. 구글 지도 평점 4.8(리뷰 100개).', 'Restaurant in Malin. Rated 4.8 on Google Maps (100 reviews).'),
+  place('inishowen-fine_dining-3', 'inishowen', 'fine_dining', 'The Butterbean Restaurant', 'Carndonagh, Ireland', '레스토랑. 구글 지도 평점 4.6(리뷰 534개).', 'Restaurant. Rated 4.6 on Google Maps (534 reviews).'),
+  place('inishowen-cafe-1', 'inishowen', 'cafe', 'Corner Coffee', 'Station House, Carndonagh, Ireland', '카페. 구글 지도 평점 4.9(리뷰 112개).', 'Café. Rated 4.9 on Google Maps (112 reviews).'),
+  place('inishowen-cafe-2', 'inishowen', 'cafe', 'Nancy\'s Barn Ballyliffin', 'Main St, Ballyliffin, Ireland', '밸리리핀에 있는 카페. 구글 지도 평점 4.7(리뷰 1372개).', 'Café in Ballyliffin. Rated 4.7 on Google Maps (1372 reviews).'),
+  place('inishowen-cafe-3', 'inishowen', 'cafe', 'Caffe Banba Coffee Van', 'Banba\'s Crown, Malin Head, Ireland', '말린 헤드에 있는 카페. 구글 지도 평점 4.7(리뷰 100개).', 'Café in Malin Head. Rated 4.7 on Google Maps (100 reviews).'),
+  place('inishowen-cafe-4', 'inishowen', 'cafe', 'Caffe Banba Carndonagh', 'Malin St, Carndonagh, Ireland', '카페. 구글 지도 평점 4.6(리뷰 251개).', 'Café. Rated 4.6 on Google Maps (251 reviews).'),
 ]
