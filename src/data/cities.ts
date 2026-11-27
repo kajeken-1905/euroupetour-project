@@ -8000,6 +8000,22 @@ export const cities: City[] = [
         group: { ko: "안드라시 거리와 시티 파크", en: "Andrássy Avenue & City Park" },
       },
       {
+        id: "budapest-h25",
+        name: { ko: "부다페스트 미술관", en: "Museum of Fine Arts" },
+        description: { ko: "영웅 광장의 1906년 신고전주의 미술관으로, 2018년 보수 뒤 로마네스크 홀을 되살렸습니다. 유럽 거장의 회화와 고대 이집트 유물이 있습니다.", en: "The 1906 Neoclassical museum on Heroes’ Square, reopened in 2018 with its restored Romanesque Hall; Old Masters and ancient Egyptian collections." },
+        image: "/highlights/budapest-25.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Fine%20Arts%20Budapest",
+        group: { ko: "안드라시 거리와 시티 파크", en: "Andrássy Avenue & City Park" },
+      },
+      {
+        id: "budapest-h26",
+        name: { ko: "헝가리 음악의 집", en: "House of Hungarian Music" },
+        description: { ko: "시티 파크의 숲속에 2022년 문을 연 음악 박물관으로, 후지모토 소우가 나뭇잎 같은 지붕을 설계했습니다.", en: "A music museum opened in 2022 in City Park, its leaf-like roof designed by Sou Fujimoto." },
+        image: "/highlights/budapest-26.jpg",
+        mapsUrl: "https://www.google.com/maps/search/?api=1&query=House%20of%20Music%20Hungary",
+        group: { ko: "안드라시 거리와 시티 파크", en: "Andrássy Avenue & City Park" },
+      },
+      {
         id: "budapest-h14",
         name: { ko: "머르기트 섬", en: "Margaret Island" },
         description: { ko: "다뉴브강 한가운데 길게 뻗은 공원 섬으로, 음악 분수와 중세 수도원 유적, 산책로가 있습니다.", en: "A long park island in the middle of the Danube, with a musical fountain, medieval convent ruins and paths." },

@@ -146,7 +146,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     days: [
       ['부다 왕궁 언덕|Castle Hill', 5, 7, 9, 2, 19, 10, 18],
       ['국회의사당과 다뉴브|Parliament & the Danube', 14, 1, 13, 8, 17, 20, 6, 23],
-      ['안드라시 거리와 시티 파크|Andrássy Avenue & City Park', 12, 21, 11, 15, 4, 22, 3],
+      ['안드라시 거리와 시티 파크|Andrássy Avenue & City Park', 12, 21, 11, 15, 4, 22, 3, 25, 26],
     ],
     trips: [
       ['에스테르곰|Esztergom', 16],

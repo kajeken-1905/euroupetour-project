@@ -459,6 +459,8 @@ export const visitCentral: Record<string, HighlightVisit> = {
   'budapest-h22': v(30, 60),
   'budapest-h23': v(60, 90),
   'budapest-h24': v(120, 180, { s: 'https://kiralyikastely.hu/en', n: '부다페스트에서 교외 전철 HÉV로 약 1시간입니다.|About 1 hr on the HÉV suburban train from Budapest.' }),
+  'budapest-h25': v(120, 180),
+  'budapest-h26': v(60, 90),
   'szentendre-h1': v(20, 30),
   'szentendre-h2': v(15, 20),
   'szentendre-h3': v(45, 60),
