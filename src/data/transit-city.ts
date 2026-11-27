@@ -8072,6 +8072,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— no ——
+  halden: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 운하 갑문은 차나 유람선으로 갑니다.',
+      en: 'Walk the town; reach the canal locks by car or boat.',
+    },
+    apps: [
+    ],
+  },
+  kongsberg: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 은광은 버스나 차로 갑니다.',
+      en: 'Walk the town; bus or car to the mines.',
+    },
+    apps: [
+    ],
+  },
+  tonsberg: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 베르덴스 엔데는 버스나 차로 갑니다.',
+      en: 'Walk the town; bus or car to Verdens Ende.',
+    },
+    apps: [
+    ],
+  },
+  rjukan: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 베모르크와 가우스타는 버스나 차로 갑니다.',
+      en: 'Walk the town; bus or car to Vemork and Gausta.',
+    },
+    apps: [
+    ],
+  },
+  arendal: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 섬은 작은 배를 탑니다.',
+      en: 'Walk the town; small boats go to the islands.',
+    },
+    apps: [
+    ],
+  },
+  lom: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 차가 있으면 편합니다.',
+      en: 'Buses are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  balestrand: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 피에를란은 버스나 차로 갑니다.',
+      en: 'Walk the village; bus or car to Fjærland.',
+    },
+    apps: [
+    ],
+  },
+  loen: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 차가 있으면 편합니다.',
+      en: 'Buses are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  eidfjord: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 차가 있으면 편합니다.',
+      en: 'Buses are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  andalsnes: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 트롤 벽은 차나 버스로 갑니다.',
+      en: 'Walk the village; car or bus to the Troll Wall.',
+    },
+    apps: [
+    ],
+  },
+  kristiansund: {
+    modes: ['walk', 'bus', 'ferry', 'taxi'],
+    howTo: {
+      ko: '섬 사이는 항구 배로, 대서양 도로는 차나 버스로 갑니다.',
+      en: 'Harbour boats between the islands; car or bus to the Atlantic Road.',
+    },
+    apps: [
+    ],
+  },
+  vesteralen: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 섬 안은 차가 편합니다.',
+      en: 'Walk the village; a car is easiest on the island.',
+    },
+    apps: [
+    ],
+  },
+  senja: {
+    modes: ['bus', 'taxi'],
+    howTo: {
+      ko: '버스가 드물어 차가 있어야 섬을 돌 수 있습니다.',
+      en: 'Buses are sparse; a car is needed to tour the island.',
+    },
+    apps: [
+    ],
+  },
+  alta: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '시내 버스가 있지만, 바위그림과 오로라 장소는 차나 투어가 편합니다.',
+      en: 'Town buses exist, but a car or tour is easiest for the rock art and aurora spots.',
+    },
+    apps: [
+    ],
+  },
+  kirkenes: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 투어는 숙소로 데리러 옵니다.',
+      en: 'Walk the town; tours pick up from hotels.',
+    },
+    apps: [
+    ],
+  },
+  longyearbyen: {
+    modes: ['bus', 'taxi', 'walk'],
+    howTo: {
+      ko: '마을 안은 걸어서 다니고, 마을 밖은 무장 가이드 투어로만 나갑니다.',
+      en: 'Walk within the settlement; go beyond it only on tours with an armed guide.',
+    },
+    apps: [
+    ],
+  },
   oslo: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

@@ -6499,3 +6499,93 @@ highlights/kenmare-3.jpg | https://commons.wikimedia.org/wiki/File:Beara_Peninsu
 highlights/donegal-3.jpg | https://commons.wikimedia.org/wiki/File:Donegal_Bay_Waterbus_-_geograph.org.uk_-_5514978.jpg | CC BY-SA 2.0 | Michael Dibb
 highlights/killybegs-1.jpg | https://commons.wikimedia.org/wiki/File:Slieve_League._Donegal,.jpg | CC BY 2.0 | Giuseppe Milo
 highlights/albufeira-1.jpg | https://commons.wikimedia.org/wiki/File:Praia_dos_Pescadores_-_Albufeira_-_Portugal_(4572546342).jpg | CC BY-SA 2.0 | Vitor Oliveira from Torres Vedras, PORTUGAL
+cities/halden.jpg | https://commons.wikimedia.org/wiki/File:Halden_Fredriksten_festning_Tollbubrygga_Kongens_brygge_%C3%98stfold_Viken_Norway_(2023.10.01).jpg | CC BY-SA 4.0 | Geir Hval (www.MacWhale.eu)
+highlights/halden-1.jpg | https://www.flickr.com/photos/35362323@N03/33291132415 | BY-SA 2.0 | Skau
+highlights/halden-2.jpg | https://commons.wikimedia.org/wiki/File:10brekkesluser.jpg | CC BY-SA 4.0 | Espen Franck-Nielsen
+highlights/halden-3.jpg | https://www.flickr.com/photos/35362323@N03/30413276755 | BY-SA 2.0 | Skau
+highlights/halden-4.jpg | https://commons.wikimedia.org/wiki/File:Lysbris_Seaways_Svinesundsbron_2017-3.jpg | CC BY 2.0 | News Oresund
+cities/kongsberg.jpg | https://commons.wikimedia.org/wiki/File:Buvannet_in_Kongsberg,_Norway_-_panoramio.jpg | CC BY-SA 3.0 | Janusz Cimoszuk
+highlights/kongsberg-1.jpg | https://commons.wikimedia.org/wiki/File:Silver_mine.jpg | CC BY-SA 4.0 | Espen Franck-Nielsen
+highlights/kongsberg-2.jpg | https://commons.wikimedia.org/wiki/File:Norwegian_Mining_Museum.jpg | Public domain | User:Mahlum
+highlights/kongsberg-3.jpg | https://commons.wikimedia.org/wiki/File:Kongsberg_kirke_RO-20261009-007.jpg | CC BY-SA 4.0 | Roy Olsen
+highlights/kongsberg-4.jpg | https://commons.wikimedia.org/wiki/File:Nybrufossen_fra_sor_1.jpg | CC BY-SA 4.0 | Peulle
+cities/tonsberg.jpg | https://commons.wikimedia.org/wiki/File:Blick_%C3%BCber_T%C3%B8nsberg.jpg | CC BY-SA 4.0 | Reustli
+highlights/tonsberg-1.jpg | https://commons.wikimedia.org/wiki/File:Slottsfjellet_sett_fra_T%C3%B8nsberg_gangbru.jpg | CC BY-SA 4.0 | Ssu
+highlights/tonsberg-2.jpg | https://commons.wikimedia.org/wiki/File:Slottsfjellsmuseet_T%C3%B8nsberg_Vestfold_2015-10-23_distorted_panorama_cropped_oseberg_stavn.jpg | CC BY-SA 4.0 | Wolfmann
+highlights/tonsberg-3.jpg | https://commons.wikimedia.org/wiki/File:T%C3%98NSBERG_Norway_2026-06-10_SAGA_OSEBERG_viking_ship_replica_boats_piers_gummib%C3%A5t_Vikingodden_Havn_brygge_harbour_Byfjorden_Sykkel-_og_gangbru_pedestrian_bridge_Kaldnes_brygge_IMG_6836.jpg | CC BY-SA 4.0 | Wolfmann
+highlights/tonsberg-4.jpg | https://commons.wikimedia.org/wiki/File:Wooden_cart_the_Oseberg_burial_mound_Norway.jpg | CC BY-SA 4.0 | Helen Simonsson
+highlights/tonsberg-5.jpg | https://commons.wikimedia.org/wiki/File:Verdens_ende,_Tj%C3%B8me,_Norway._F%C3%A6rder_National_Park_(bes%C3%B8kssenter,_visitors%27_centre)._View_of_Oslofjorden_towards_Skagerak._Breakwater_(molo),_port_(gjestehavn),_tipping_lantern_(vippefyr)._Sunset._Distorted_panorama_2018-09-05.jpg | CC BY-SA 4.0 | Wolfmann
+cities/rjukan.jpg | https://commons.wikimedia.org/wiki/File:Rjukan_from_Gausta_20190316.jpg | CC BY-SA 4.0 | Bengt-Inge Larsson
+highlights/rjukan-2.jpg | https://commons.wikimedia.org/wiki/File:Krossobanen_TRS_070603_074.jpg | CC BY-SA 3.0 | Trond Strandsberg
+highlights/rjukan-4.jpg | https://commons.wikimedia.org/wiki/File:Gaustatoppen_(2012.10.06).jpg | CC BY-SA 4.0 | Geir Hval (www.MacWhale.eu)
+cities/arendal.jpg | https://commons.wikimedia.org/wiki/File:Arendal_panorama_104A8434-109-38-Pano.jpg | CC BY-SA 4.0 | Jarle Hammen Knudsen (dubidubno)
+highlights/arendal-1.jpg | https://commons.wikimedia.org/wiki/File:Arendal_Tyholmen_cc.jpg | CC BY-SA 3.0 | Krg
+highlights/arendal-2.jpg | https://commons.wikimedia.org/wiki/File:Arendal_Pollen_c.JPG | CC BY-SA 3.0 | Karl Ragnar GjertsenKrg
+highlights/arendal-3.jpg | https://commons.wikimedia.org/wiki/File:Arendal_Gamle_R%C3%A5dhus_b.JPG | CC BY 2.5 | Karl Ragnar Gjertsen
+highlights/arendal-4.jpg | https://commons.wikimedia.org/wiki/File:Merd%C3%B8_strand.jpg | CC BY-SA 3.0 | KEN
+cities/lom.jpg | https://commons.wikimedia.org/wiki/File:Fossbergom,_Lom,_Norway_20170527_161318.jpg | CC BY-SA 2.0 | dconvertini
+highlights/lom-1.jpg | https://commons.wikimedia.org/wiki/File:Lom_stavkyrkje_in_Lom,_Innlandet,_Norway,_2025_June.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/lom-2.jpg | https://commons.wikimedia.org/wiki/File:Fossbergom_fra_fjellsenteret_til_stavkirken.jpg | CC BY-SA 4.0 | Jan-Tore Egge
+highlights/lom-3.jpg | https://www.flickr.com/photos/136273796@N03/42165886224 | BY 2.0 | Ole Kristian Brastad
+highlights/lom-4.jpg | https://commons.wikimedia.org/wiki/File:Sognefjellsvegen_(Fylkesvei_55)_-_Luster,_Norway_-_June_18_or_19,_1989.jpg | CC BY-SA 4.0 | Giorgio Galeotti
+cities/balestrand.jpg | https://commons.wikimedia.org/wiki/File:Balestrand_(again).jpg | CC BY-SA 2.0 | Andrew Bowden from London, United Kingdon
+highlights/balestrand-1.jpg | https://www.flickr.com/photos/23597588@N00/53877382131 | BY-SA 2.0 | Navin75
+highlights/balestrand-2.jpg | https://commons.wikimedia.org/wiki/File:Balestrand-English-Church-From-Street.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+highlights/balestrand-3.jpg | https://commons.wikimedia.org/wiki/File:Norwegian_Glacier_Museum.JPG | Public domain | 
+highlights/balestrand-4.jpg | https://commons.wikimedia.org/wiki/File:B%C3%B8yabreen,_2011_August.jpg | CC BY-SA 3.0 | Ximonic, Simo Räsänen
+highlights/balestrand-5.jpg | https://commons.wikimedia.org/wiki/File:Fjaerland-Book-Town-2020.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+cities/loen.jpg | https://commons.wikimedia.org/wiki/File:Olden_Norway.jpg | CC BY 4.0 | Cbusram
+highlights/loen-1.jpg | https://commons.wikimedia.org/wiki/File:LoenSky117BG23.jpg | CC BY-SA 4.0 | Bingar1234
+highlights/loen-2.jpg | https://commons.wikimedia.org/wiki/File:Briksdalselva_and_Briksdalsbreen,_Sogn_og_Fjordane,_Norway,_2013_June.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/loen-3.jpg | https://commons.wikimedia.org/wiki/File:Kjenndalsbreen_01.jpg | CC BY-SA 4.0 | Sundgot
+highlights/loen-4.jpg | https://commons.wikimedia.org/wiki/File:Via_Ferrata_Loen_01.jpg | CC BY-SA 4.0 | Bingar1234
+highlights/oslo-17.jpg | https://commons.wikimedia.org/wiki/File:Astrup_Fearnley_009.JPG | CC BY-SA 3.0 | Vidar Iversen
+highlights/oslo-18.jpg | https://commons.wikimedia.org/wiki/File:Deichman_Bj%C3%B8rvika_sett_fra_Operahuset_i_Oslo.jpg | CC BY-SA 4.0 | Ssu
+highlights/bergen-12.jpg | https://commons.wikimedia.org/wiki/File:Catedral,_Bergen,_Noruega,_2019-09-08,_DD_111.jpg | CC BY-SA 4.0 | Diego Delso
+highlights/trondheim-10.jpg | https://commons.wikimedia.org/wiki/File:Ringve_Museum.jpg | Public domain | User:Mahlum
+cities/eidfjord.jpg | https://commons.wikimedia.org/wiki/File:The_MS_Rotterdam_ship_with_Eidfjord_in_the_background,_Eidfjord,_Norway_julesvernex2.jpg | CC BY-SA 4.0 | Jules Verne Times Two
+highlights/eidfjord-1.jpg | https://www.flickr.com/photos/41538865@N06/52405739591 | BY 2.0 | marsupilami92
+highlights/eidfjord-2.jpg | https://commons.wikimedia.org/wiki/File:P1000530Hardangervidda_Natursenter.JPG | CC BY-SA 3.0 | G.Lanting
+highlights/eidfjord-3.jpg | https://commons.wikimedia.org/wiki/File:Am_Nordende_des_Ulvikfjords_liegt_der_Hauptort_der_Gemeinde_Ulvik._04.jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+highlights/eidfjord-4.jpg | https://commons.wikimedia.org/wiki/File:Hardangerbrua_(15028061131).png | CC0 | kronja
+cities/andalsnes.jpg | https://commons.wikimedia.org/wiki/File:%C3%85ndalsnes,_Norway,_Dec_2025_(80768).jpg | CC BY-SA 4.0 | Lee Vilenski
+highlights/andalsnes-1.jpg | https://commons.wikimedia.org/wiki/File:Romsdalsgondolen_2021.jpg | CC BY-SA 4.0 | Gran
+highlights/andalsnes-2.jpg | https://commons.wikimedia.org/wiki/File:%C3%85NDALSNES_Norway_2026-09-05_NESAKSLA_(scenic_coastal_mountain_towering_715_masl_directly_above_the_town_of_%C3%85ndalsnes)_Ottarbu_n%C3%B8dly_i_stein_(shelter,_tiny_stone_cabin_built_1987)_varde_(cairn)_Sign_post_trail_to_Rampestreken_IMG_147.jpg | CC BY-SA 4.0 | Wolfmann
+highlights/andalsnes-3.jpg | https://commons.wikimedia.org/wiki/File:Raumabanen_train.jpg | CC BY 3.0 | TomasEE
+highlights/andalsnes-4.jpg | https://commons.wikimedia.org/wiki/File:Trollveggen_from_Eikesdalen.JPG | CC BY-SA 4.0 | Moralist
+highlights/andalsnes-5.jpg | https://commons.wikimedia.org/wiki/File:Norsk_tindesenter_2016_(cropped).jpg | CC BY-SA 4.0 | Holger Uwe Schmitt
+cities/kristiansund.jpg | https://commons.wikimedia.org/wiki/File:Hamna_Kristiansund_Nordm%C3%B8re_M%C3%B8re_og_Romsdal_Norway_(2015.08.06).jpg | CC BY-SA 4.0 | Geir Hval (www.MacWhale.eu)
+highlights/kristiansund-1.jpg | https://commons.wikimedia.org/wiki/File:Aerial_View_of_Atlantic_Ocean_Road_taken_during_midnight_sun.jpg | CC BY-SA 4.0 | Stefan V. Baumgartner
+highlights/kristiansund-2.jpg | https://commons.wikimedia.org/wiki/File:Sundb%C3%A5tenAngvik2018.jpg | CC BY-SA 4.0 | Krg
+highlights/kristiansund-4.jpg | https://commons.wikimedia.org/wiki/File:Grip-Harbour-Kristiansund-Norway.jpg | CC BY-SA 3.0 | Peter John Acklam
+highlights/kristiansund-5.jpg | https://commons.wikimedia.org/wiki/File:Varden,_The_Watch_Tower_-_Kristiansund,_Norway_-_panoramio.jpg | CC BY-SA 3.0 | Sergey Ashmarin
+cities/vesteralen.jpg | https://commons.wikimedia.org/wiki/File:Andenes,_Norway_2006.jpg | CC BY-SA 3.0 | 
+highlights/vesteralen-1.jpg | https://www.flickr.com/photos/29664148@N03/11534193186 | BY-SA 2.0 | sottolestelle
+highlights/vesteralen-2.jpg | https://commons.wikimedia.org/wiki/File:Andenes_fyr_and_the_sea.jpg | CC BY-SA 4.0 | Wolfgang Hägele
+highlights/vesteralen-3.jpg | https://commons.wikimedia.org/wiki/File:Spaceship_Aurora.jpg | CC BY-SA 4.0 | Hoyd
+highlights/vesteralen-4.jpg | https://commons.wikimedia.org/wiki/File:Storvatnet,_Bleik,_Bleikstranda_og_Bleiks%C3%B8ya_sett_fra_R%C3%B8yken.jpg | CC BY-SA 4.0 | Wolfgang Hägele
+cities/senja.jpg | https://commons.wikimedia.org/wiki/File:Hus%C3%B8y_i_Senja_summer.jpg | CC BY-SA 4.0 | Jakub Job
+highlights/senja-1.jpg | https://commons.wikimedia.org/wiki/File:BERGSBOTN_utsiktsplattform_Bergsfjordv_Fv_862_SENJA_Northern_Norway_(Observation_deck_Outlook_platform_44m_2010_105_masl)_Scenic_viewpoint_towards_Nordfjorden_Bergsfjorden_fjord_village_mountains_sea_2022-06-02.jpg | CC BY-SA 4.0 | Wolfmann
+highlights/senja-2.jpg | https://commons.wikimedia.org/wiki/File:Coast_of_Tungeneset_and_Steinfjorden_in_Senja,_Troms,_Norway,_2017_April_-_2.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/senja-3.jpg | https://commons.wikimedia.org/wiki/File:Seggelskaret_walls_and_Segla_by_Mefjorden,_Senja,_Norway,_2015_September.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/senja-4.jpg | https://commons.wikimedia.org/wiki/File:Hus%C3%B8y_i_Senja_summer.jpg | CC BY-SA 4.0 | Jakub Job
+highlights/senja-5.jpg | https://commons.wikimedia.org/wiki/File:%C3%85nderdalen_nasjonalpark_3.jpg | CC BY-SA 4.0 | Bjarkan
+cities/alta.jpg | https://commons.wikimedia.org/wiki/File:K%C3%A5fjord_Church_in_K%C3%A5fjord,_Alta,_Troms_og_Finnmark,_Norway,_2023_September.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/alta-1.jpg | https://commons.wikimedia.org/wiki/File:1992.08.08_Helleristninger_i_Alta_IV.jpg | CC BY-SA 3.0 | Hans Olav Lien
+highlights/alta-2.jpg | https://commons.wikimedia.org/wiki/File:Alta,_Nordlyskatedralen_(cattedrale_delle_luci_boreali),_esterno_06.jpg | CC BY-SA 4.0 | Francesco Bini
+highlights/alta-3.jpg | https://commons.wikimedia.org/wiki/File:Maardu_Northern_lights_%E2%80%94_Estonia,_2022.jpg | CC BY 4.0 | Maxim Bilovitskiy
+cities/kirkenes.jpg | https://www.flickr.com/photos/134655623@N05/21461540400 | BY 2.0 | Oslo Architecture Triennale
+highlights/kirkenes-1.jpg | https://commons.wikimedia.org/wiki/File:SnowHotelKirkenesRoom.jpg | CC0 | 5snake5
+highlights/kirkenes-2.jpg | https://www.flickr.com/photos/18826996@N07/53977027152 | BY-SA 2.0 | risastla
+highlights/kirkenes-3.jpg | https://commons.wikimedia.org/wiki/File:Eternal_Con_2016_Cosplay_of_Athena_from_Borderlands.jpg | CC BY-SA 4.0 | LostplanetKD73
+highlights/kirkenes-4.jpg | https://commons.wikimedia.org/wiki/File:20240809_Andersgrotta,_Kirkenes_-_9156.jpg | CC BY-SA 4.0 | Zinnmann
+cities/longyearbyen.jpg | https://commons.wikimedia.org/wiki/File:Longyearbyen-spisshus-2022.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+highlights/longyearbyen-1.jpg | https://commons.wikimedia.org/wiki/File:Svalbard_Museum_outside.jpg | CC BY-SA 4.0 | In Vitrio
+highlights/longyearbyen-2.jpg | https://commons.wikimedia.org/wiki/File:North_Pole_Expedition_Museum_2022.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+highlights/longyearbyen-3.jpg | https://commons.wikimedia.org/wiki/File:Svalbard-Palm-Sunday-Confirmation.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+highlights/longyearbyen-4.jpg | https://commons.wikimedia.org/wiki/File:M%C3%B8nsted_Limestone_Mine_2017-04-15_7.jpg | CC BY-SA 4.0 | Colin
+highlights/longyearbyen-5.jpg | https://commons.wikimedia.org/wiki/File:Longyearbyen-from-above-Hiorthfjellet.jpg | CC BY-SA 4.0 | Bjørn Christian Tørrissen
+highlights/rjukan-1.jpg | https://commons.wikimedia.org/wiki/File:Vemork_nye_kraftstasjon.JPG | CC BY-SA 3.0 | PeltonMan
+highlights/eidfjord-5.jpg | https://commons.wikimedia.org/wiki/File:Kje%C3%A5sen.jpg | Public domain | Sondrekv
+highlights/kristiansund-3.jpg | https://commons.wikimedia.org/wiki/File:Milnbrygga_226801_2024-2.jpg | CC BY-SA 4.0 | Bjørn Erik Pedersen
+highlights/vesteralen-5.jpg | https://commons.wikimedia.org/wiki/File:Bleik_and_Bleiks%C3%B8ya_with_snow.jpg | CC BY-SA 4.0 | Wolfgang Hägele

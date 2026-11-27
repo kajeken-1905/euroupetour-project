@@ -1593,6 +1593,83 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     port: [['Flåm kai', '플롬 선착장', '구드방엔행 피오르 크루즈|fjord cruise to Gudvangen']],
   },
 
+  halden: {
+    air: [['Oslo Gardermoen (OSL)', '오슬로 가르데르모엔 공항 (OSL)']],
+    rail: [['Halden', '할덴역', '오슬로·예테보리행|to Oslo, Gothenburg']],
+    bus: [['Halden bussterminal', '할덴 버스터미널']],
+  },
+  kongsberg: {
+    air: [['Oslo Gardermoen (OSL)', '오슬로 가르데르모엔 공항 (OSL)'], ['Sandefjord Torp (TRF)', '산데피오르 토르프 공항 (TRF)', '저비용 항공|low-cost carriers']],
+    rail: [['Kongsberg', '콩스베르그역']],
+    bus: [['Kongsberg skysstasjon', '콩스베르그 버스 정류장']],
+  },
+  tonsberg: {
+    air: [['Sandefjord Torp (TRF)', '산데피오르 토르프 공항 (TRF)', '저비용 항공|low-cost carriers'], ['Oslo Gardermoen (OSL)', '오슬로 가르데르모엔 공항 (OSL)']],
+    rail: [['Tønsberg', '퇸스베르그역']],
+    bus: [['Tønsberg bussterminal', '퇸스베르그 버스터미널']],
+  },
+  rjukan: {
+    air: [['Sandefjord Torp (TRF)', '산데피오르 토르프 공항 (TRF)', '저비용 항공|low-cost carriers'], ['Oslo Gardermoen (OSL)', '오슬로 가르데르모엔 공항 (OSL)']],
+    bus: [['Rjukan rutebilstasjon', '류칸 버스 정류장', '오슬로·노토덴행|to Oslo, Notodden']],
+  },
+  arendal: {
+    air: [['Kristiansand Kjevik (KRS)', '크리스티안산 공항 (KRS)', '버스로 약 1시간|About 1 hr by bus']],
+    rail: [['Arendal', '아렌달역', '넬라우 환승|change at Nelaug']],
+    bus: [['Arendal rutebilstasjon', '아렌달 버스터미널']],
+  },
+  lom: {
+    air: [['Oslo Gardermoen (OSL)', '오슬로 가르데르모엔 공항 (OSL)']],
+    rail: [['Otta', '오타역', '버스로 약 1시간|About 1 hr by bus']],
+    bus: [['Lom skysstasjon', '롬 버스 정류장', '오타역행|to Otta station']],
+  },
+  balestrand: {
+    air: [['Sogndal (SOG)', '송달 공항 (SOG)', '오슬로행 소형기|small planes to Oslo'], ['Bergen Flesland (BGO)', '베르겐 공항 (BGO)']],
+    bus: [['Balestrand kai', '발레스트란 선착장', '송달·피에를란행 버스|buses to Sogndal, Fjærland']],
+    port: [['Balestrand kai', '발레스트란 선착장', '베르겐·플롬행 쾌속선|express boats to Bergen, Flåm']],
+  },
+  loen: {
+    air: [['Sandane (SDN)', '산다네 공항 (SDN)', '오슬로행 소형기|small planes to Oslo'], ['Ålesund Vigra (AES)', '올레순 공항 (AES)', '차로 약 2시간 30분|About 2½ hrs by car']],
+    bus: [['Loen', '로엔 버스 정류장', '스트륀·베르겐행|to Stryn, Bergen']],
+    port: [['Olden', '올덴 크루즈 부두']],
+  },
+  eidfjord: {
+    air: [['Bergen Flesland (BGO)', '베르겐 공항 (BGO)']],
+    bus: [['Eidfjord', '에이드피오르 버스 정류장', '보스·게일로행|to Voss, Geilo']],
+    port: [['Eidfjord', '에이드피오르 부두', '크루즈선|cruise ships']],
+  },
+  andalsnes: {
+    air: [['Molde Årø (MOL)', '몰데 공항 (MOL)', '버스로 약 1시간 30분|About 1½ hrs by bus']],
+    rail: [['Åndalsnes', '온달스네스역', '돔보스 환승|change at Dombås']],
+    bus: [['Åndalsnes stasjon', '온달스네스역 버스', '올레순·몰데행|to Ålesund, Molde']],
+  },
+  kristiansund: {
+    air: [['Kristiansund Kvernberget (KSU)', '크리스티안순 공항 (KSU)']],
+    bus: [['Kristiansund rutebilstasjon', '크리스티안순 버스터미널']],
+    port: [['Kristiansund hurtigbåtterminal', '크리스티안순 여객선 터미널', '후르티그루텐·트론헤임행 쾌속선|Hurtigruten, express boat to Trondheim']],
+  },
+  vesteralen: {
+    air: [['Andøya Andenes (ANX)', '안되야 공항 (ANX)', '오슬로·보되행|to Oslo, Bodø'], ['Harstad/Narvik Evenes (EVE)', '하르스타드·나르비크 공항 (EVE)', '차로 약 3시간|About 3 hrs by car']],
+    bus: [['Andenes', '안데네스 버스 정류장', '소르틀란·스토크마르크네스행|to Sortland, Stokmarknes']],
+    port: [['Andenes ferjekai', '안데네스 선착장', '센야 그륄레피오르행 여름 페리|summer ferry to Gryllefjord, Senja']],
+  },
+  senja: {
+    air: [['Bardufoss (BDU)', '바르두포스 공항 (BDU)', '차로 약 1시간|About 1 hr by car'], ['Tromsø Langnes (TOS)', '트롬쇠 공항 (TOS)']],
+    bus: [['Finnsnes', '핀스네스 버스 정류장']],
+    port: [['Finnsnes hurtigbåtkai', '핀스네스 쾌속선 부두', '트롬쇠행 쾌속선·후르티그루텐|express boat to Tromsø, Hurtigruten']],
+  },
+  alta: {
+    air: [['Alta (ALF)', '알타 공항 (ALF)', '시내에서 가까움|close to the centre']],
+    bus: [['Alta sentrum', '알타 버스 정류장', '함메르페스트·호닝스보그행|to Hammerfest, Honningsvåg']],
+  },
+  kirkenes: {
+    air: [['Kirkenes Høybuktmoen (KKN)', '키르케네스 공항 (KKN)', '오슬로·트롬쇠행|to Oslo, Tromsø']],
+    bus: [['Kirkenes', '키르케네스 버스 정류장']],
+    port: [['Kirkenes Hurtigruten', '키르케네스 후르티그루텐 부두', '연안 여객선 종착·출발지|start and end of the coastal voyage']],
+  },
+  longyearbyen: {
+    air: [['Svalbard Longyear (LYR)', '스발바르 공항 (LYR)', '오슬로·트롬쇠행 · 솅겐 밖|to Oslo, Tromsø · outside Schengen']],
+    bus: [['Longyearbyen', '롱위에아르뷔엔 공항버스', '항공편 시간에 맞춰 운행|timed to flights']],
+  },
   // —— is ——
   reykjavik: {
     air: [

@@ -157,4 +157,110 @@ export const placesNOExtra: Place[] = [
   place('honningsvag-bakery-1', 'honningsvag', 'bakery', 'Honni Bakes', 'Sjøgata 2, Honningsvåg', '호닝스보그의 빵집. 구글 지도 평점 4.6.', 'Bakery in Honningsvåg. Rated 4.6 on Google Maps.'),
   place('honningsvag-cafe-1', 'honningsvag', 'cafe', 'NOR Cafe & Bistro', 'Holmen 6B, Honningsvåg', '호닝스보그의 카페·비스트로. 구글 지도 평점 4.7.', 'Café and bistro in Honningsvåg. Rated 4.7 on Google Maps.'),
   place('honningsvag-cafe-2', 'honningsvag', 'cafe', 'KOS Kitchen and Small Shop', 'Storgata 22, Honningsvåg', '호닝스보그의 카페. 구글 지도 평점 4.5.', 'Café in Honningsvåg. Rated 4.5 on Google Maps.'),
+
+  // —— halden: restaurants, bakeries and cafés (2026-11-27) ——
+  place('halden-fine_dining-1', 'halden', 'fine_dining', 'Restaurant Curtisen', 'Indre Festning 2, Fredriksten festning, Halden, Norway', '파인 다이닝 레스토랑. 구글 지도 평점 4.9(리뷰 266개).', 'Fine-dining restaurant. Rated 4.9 on Google Maps (266 reviews).'),
+  place('halden-fine_dining-2', 'halden', 'fine_dining', 'Halden Chef\'s Collective', 'Torget 5, Halden, Norway', '스칸디나비아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 450개).', 'Scandinavian restaurant. Rated 4.5 on Google Maps (450 reviews).'),
+  place('halden-fine_dining-3', 'halden', 'fine_dining', 'Bryggekanten Restaurant Halden', 'Kongens Brygge 6, Halden, Norway', '레스토랑. 구글 지도 평점 4.4(리뷰 111개).', 'Restaurant. Rated 4.4 on Google Maps (111 reviews).'),
+  place('halden-fine_dining-4', 'halden', 'fine_dining', 'Bakgården Restaurant', 'Storgata 22B, Halden, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.3(리뷰 369개).', 'Norwegian restaurant. Rated 4.3 on Google Maps (369 reviews).'),
+  place('halden-fine_dining-5', 'halden', 'fine_dining', 'Dickens Restaurant', 'Storgata 9, Halden, Norway', '피자 식당. 구글 지도 평점 4.5(리뷰 221개).', 'Pizza restaurant. Rated 4.5 on Google Maps (221 reviews).'),
+  place('halden-bakery-1', 'halden', 'bakery', 'Bread & Water', 'Torget 5, Halden, Norway', '빵집. 구글 지도 평점 4.6(리뷰 116개).', 'Bakery. Rated 4.6 on Google Maps (116 reviews).'),
+  place('halden-bakery-2', 'halden', 'bakery', 'Motz&Kringla Fisketorget', 'Fisketorget 1, Halden, Norway', '빵집. 구글 지도 평점 4.5(리뷰 163개).', 'Bakery. Rated 4.5 on Google Maps (163 reviews).'),
+  place('halden-cafe-1', 'halden', 'cafe', 'Kafé Erlandsen', 'Storgata 10, Halden, Norway', '카페. 구글 지도 평점 4.3(리뷰 154개).', 'Café. Rated 4.3 on Google Maps (154 reviews).'),
+
+  // —— kongsberg: restaurants, bakeries and cafés (2026-11-27) ——
+  place('kongsberg-fine_dining-1', 'kongsberg', 'fine_dining', 'Arctic Ramen', 'Chr. IV. des gate 14, Kongsberg, Norway', '라멘 식당. 구글 지도 평점 4.9(리뷰 206개).', 'Ramen restaurant. Rated 4.9 on Google Maps (206 reviews).'),
+  place('kongsberg-fine_dining-2', 'kongsberg', 'fine_dining', 'Tråkka Mat & Vinhus', 'Nymoens Torg 2, Kongsberg, Norway', '레스토랑. 구글 지도 평점 4.9(리뷰 80개).', 'Restaurant. Rated 4.9 on Google Maps (80 reviews).'),
+  place('kongsberg-fine_dining-3', 'kongsberg', 'fine_dining', 'Vår Bistro', 'Nymoens Skrågate 2, Kongsberg, Norway', '비스트로. 구글 지도 평점 4.6(리뷰 213개).', 'Bistro. Rated 4.6 on Google Maps (213 reviews).'),
+  place('kongsberg-fine_dining-4', 'kongsberg', 'fine_dining', 'Kraft Pizzeria Kongsberg', '17. Mai Gata, Kongsberg, Norway', '피자 식당. 구글 지도 평점 4.6(리뷰 193개).', 'Pizza restaurant. Rated 4.6 on Google Maps (193 reviews).'),
+  place('kongsberg-fine_dining-5', 'kongsberg', 'fine_dining', 'Velvet Restaurant & Bar', 'Storgata 6, Kongsberg, Norway', '레스토랑. 구글 지도 평점 4.5(리뷰 138개).', 'Restaurant. Rated 4.5 on Google Maps (138 reviews).'),
+  place('kongsberg-bakery-1', 'kongsberg', 'bakery', 'Lågen Bakeri og Konditori', 'Bussedalen 1, Kongsberg, Norway', '빵집. 구글 지도 평점 4.9(리뷰 85개).', 'Bakery. Rated 4.9 on Google Maps (85 reviews).'),
+  place('kongsberg-bakery-2', 'kongsberg', 'bakery', 'Lampeland Bakeri og Konditori', 'Dyrmyrgata 5, Kongsberg, Norway', '빵집. 구글 지도 평점 4.4(리뷰 85개).', 'Bakery. Rated 4.4 on Google Maps (85 reviews).'),
+  place('kongsberg-cafe-1', 'kongsberg', 'cafe', 'Kirkens Bymisjon Kafé Kongsberg', 'Stiksrudgata 1A, Kongsberg, Norway', '카페. 구글 지도 평점 4.8(리뷰 89개).', 'Café. Rated 4.8 on Google Maps (89 reviews).'),
+
+  // —— tonsberg: restaurants, bakeries and cafés (2026-11-27) ——
+  place('tonsberg-fine_dining-1', 'tonsberg', 'fine_dining', 'Grand Café Tønsberg', 'Storgaten 24, Tønsberg, Norway', '레스토랑. 구글 지도 평점 4.8(리뷰 147개).', 'Restaurant. Rated 4.8 on Google Maps (147 reviews).'),
+  place('tonsberg-fine_dining-2', 'tonsberg', 'fine_dining', 'Kapadokya Restaurant Tønsberg', 'Nedre Langgate 28b, Tønsberg, Norway', '튀르키예 요리 레스토랑. 구글 지도 평점 4.7(리뷰 701개).', 'Turkish restaurant. Rated 4.7 on Google Maps (701 reviews).'),
+  place('tonsberg-fine_dining-3', 'tonsberg', 'fine_dining', '2 Friends Steak House', 'Conradis gate 7, Tønsberg, Norway', '스테이크 하우스. 구글 지도 평점 4.7(리뷰 198개).', 'Steakhouse. Rated 4.7 on Google Maps (198 reviews).'),
+  place('tonsberg-fine_dining-4', 'tonsberg', 'fine_dining', 'Kverneriet Tønsberg', 'Rambergveien 15, Tønsberg, Norway', '햄버거 식당. 구글 지도 평점 4.6(리뷰 1759개).', 'Burger restaurant. Rated 4.6 on Google Maps (1759 reviews).'),
+  place('tonsberg-fine_dining-5', 'tonsberg', 'fine_dining', 'Havariet', 'Nedre Langgate 30E, Tønsberg, Norway', '해산물 레스토랑. 구글 지도 평점 4.3(리뷰 1312개).', 'Seafood restaurant. Rated 4.3 on Google Maps (1312 reviews).'),
+  place('tonsberg-bakery-1', 'tonsberg', 'bakery', 'Nøtterø Bakeri & Konditori Tønsberg Torg', 'Storgaten 39, Tønsberg, Norway', '빵집. 구글 지도 평점 4.3(리뷰 261개).', 'Bakery. Rated 4.3 on Google Maps (261 reviews).'),
+  place('tonsberg-bakery-2', 'tonsberg', 'bakery', 'WITH Brød&Kaffe', 'Storgaten 29, Tønsberg, Norway', '빵집. 구글 지도 평점 4.3(리뷰 268개).', 'Bakery. Rated 4.3 on Google Maps (268 reviews).'),
+  place('tonsberg-cafe-1', 'tonsberg', 'cafe', 'Skaperverket kafé', 'Rådhusgaten 4, Tønsberg, Norway', '카페. 구글 지도 평점 4.7(리뷰 152개).', 'Café. Rated 4.7 on Google Maps (152 reviews).'),
+  place('tonsberg-cafe-2', 'tonsberg', 'cafe', 'bare barista kaffebar Jernbanen', 'Øvre Langgate 44, Tønsberg, Norway', '스페셜티 커피 바. 구글 지도 평점 4.3(리뷰 267개).', 'Specialty coffee bar. Rated 4.3 on Google Maps (267 reviews).'),
+
+  // —— arendal: restaurants, bakeries and cafés (2026-11-27) ——
+  place('arendal-fine_dining-1', 'arendal', 'fine_dining', 'Happy Time Pizza og Kebab Arendal', 'Tollbodgaten 5, Arendal, Norway', '피자 식당. 구글 지도 평점 4.7(리뷰 141개).', 'Pizza restaurant. Rated 4.7 on Google Maps (141 reviews).'),
+  place('arendal-fine_dining-2', 'arendal', 'fine_dining', 'Hong Kong Restaurant Arendal', 'Østre gate 1, Arendal, Norway', '아시아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 505개).', 'Asian restaurant. Rated 4.6 on Google Maps (505 reviews).'),
+  place('arendal-fine_dining-3', 'arendal', 'fine_dining', 'Blom Restaurant', 'Langbryggen 9, Arendal, Norway', '타파스 바. 구글 지도 평점 4.6(리뷰 248개).', 'Tapas bar. Rated 4.6 on Google Maps (248 reviews).'),
+  place('arendal-bakery-1', 'arendal', 'bakery', 'Mikrobageriet Kloppene', 'Kloppene 7B, Arendal, Norway', '빵집. 구글 지도 평점 4.7(리뷰 116개).', 'Bakery. Rated 4.7 on Google Maps (116 reviews).'),
+  place('arendal-bakery-2', 'arendal', 'bakery', 'Myrene Hjemmebakeri', 'Strømsbusletta 9, Arendal, Norway', '빵집. 구글 지도 평점 4.4(리뷰 118개).', 'Bakery. Rated 4.4 on Google Maps (118 reviews).'),
+  place('arendal-bakery-3', 'arendal', 'bakery', 'Baker Jørgensen Torvet', 'Torvet 11, Arendal, Norway', '빵집. 구글 지도 평점 4.3(리뷰 394개).', 'Bakery. Rated 4.3 on Google Maps (394 reviews).'),
+  place('arendal-cafe-1', 'arendal', 'cafe', 'Kolonialen kafé', 'Løddesølveien 1, Arendal, Norway', '카페. 구글 지도 평점 4.7(리뷰 156개).', 'Café. Rated 4.7 on Google Maps (156 reviews).'),
+  place('arendal-cafe-2', 'arendal', 'cafe', 'Cafe Victor', 'Kirkegaten 5, Arendal, Norway', '카페. 구글 지도 평점 4.5(리뷰 361개).', 'Café. Rated 4.5 on Google Maps (361 reviews).'),
+  place('arendal-cafe-3', 'arendal', 'cafe', 'Koselig Café', 'Torvgaten 3, Arendal, Norway', '디저트 가게. 구글 지도 평점 4.5(리뷰 85개).', 'Dessert shop. Rated 4.5 on Google Maps (85 reviews).'),
+
+  // —— lom: restaurants, bakeries and cafés (2026-11-27) ——
+  place('lom-fine_dining-1', 'lom', 'fine_dining', 'Brimi Sæter', 'Smørlivegen, 2685 Garmo, Norway', '가르모에 있는 노르웨이 요리 레스토랑. 구글 지도 평점 4.6(리뷰 436개).', 'Norwegian restaurant in Garmo. Rated 4.6 on Google Maps (436 reviews).'),
+  place('lom-bakery-1', 'lom', 'bakery', 'Bakeriet i Lom', 'Sognefjellsvegen 7, Lom, Norway', '빵집. 구글 지도 평점 4.5(리뷰 3592개).', 'Bakery. Rated 4.5 on Google Maps (3592 reviews).'),
+
+  // —— loen: restaurants, bakeries and cafés (2026-11-27) ——
+  place('loen-fine_dining-1', 'loen', 'fine_dining', 'Hoven Restaurant', 'Fjordvegen 1002, 6789 Loen, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.4(리뷰 1639개).', 'Norwegian restaurant. Rated 4.4 on Google Maps (1639 reviews).'),
+  place('loen-cafe-1', 'loen', 'cafe', 'Kafe Båtutleige', '6789 Loen, Norway', '카페. 구글 지도 평점 4.6(리뷰 170개).', 'Café. Rated 4.6 on Google Maps (170 reviews).'),
+
+  // —— eidfjord: restaurants, bakeries and cafés (2026-11-27) ——
+  place('eidfjord-fine_dining-1', 'eidfjord', 'fine_dining', 'Ilden kafé & Restaurant', 'Lægreidsvegen 9, Eidfjord, Norway', '바비큐 식당. 구글 지도 평점 4.9(리뷰 106개).', 'Barbecue restaurant. Rated 4.9 on Google Maps (106 reviews).'),
+  place('eidfjord-fine_dining-2', 'eidfjord', 'fine_dining', 'Vik Pensjonat', 'Simadalsvegen 10, 5783 Eidfjord, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.4(리뷰 396개).', 'Norwegian restaurant. Rated 4.4 on Google Maps (396 reviews).'),
+  place('eidfjord-cafe-1', 'eidfjord', 'cafe', 'Fjord & Mountain cafe and Kremmeri', 'Eidfjordvegen 277, 5783 Eidfjord, Norway', '카페. 구글 지도 평점 4.6(리뷰 769개).', 'Café. Rated 4.6 on Google Maps (769 reviews).'),
+
+  // —— andalsnes: restaurants, bakeries and cafés (2026-11-27) ——
+  place('andalsnes-fine_dining-1', 'andalsnes', 'fine_dining', 'Sødahlhuset', 'Gamle Romsdalsvegen 8, Åndalsnes, Norway', '레스토랑. 구글 지도 평점 4.7(리뷰 888개).', 'Restaurant. Rated 4.7 on Google Maps (888 reviews).'),
+  place('andalsnes-fine_dining-2', 'andalsnes', 'fine_dining', 'Eggen Restaurant', 'Nesaksla Mountain, 6300 Åndalsnes, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.6(리뷰 523개).', 'Norwegian restaurant. Rated 4.6 on Google Maps (523 reviews).'),
+  place('andalsnes-fine_dining-3', 'andalsnes', 'fine_dining', 'Bakgården Thai Restaurant', 'Vollan 5, Åndalsnes, Norway', '태국 요리 레스토랑. 구글 지도 평점 4.3(리뷰 411개).', 'Thai restaurant. Rated 4.3 on Google Maps (411 reviews).'),
+  place('andalsnes-cafe-1', 'andalsnes', 'cafe', 'Vollan Cafe', 'Vollan 17, Åndalsnes, Norway', '카페. 구글 지도 평점 4.3(리뷰 94개).', 'Café. Rated 4.3 on Google Maps (94 reviews).'),
+
+  // —— kristiansund: restaurants, bakeries and cafés (2026-11-27) ——
+  place('kristiansund-fine_dining-1', 'kristiansund', 'fine_dining', 'Namaste Indian Tandoori', 'Fosnagata 1, Kristiansund, Norway', '인도 요리 레스토랑. 구글 지도 평점 4.8(리뷰 258개).', 'Indian restaurant. Rated 4.8 on Google Maps (258 reviews).'),
+  place('kristiansund-fine_dining-2', 'kristiansund', 'fine_dining', 'Boteco', 'Skolegata 16, Kristiansund, Norway', '레스토랑. 구글 지도 평점 4.5(리뷰 743개).', 'Restaurant. Rated 4.5 on Google Maps (743 reviews).'),
+  place('kristiansund-fine_dining-3', 'kristiansund', 'fine_dining', 'Bryggekanten Brasserie Restaurant og Bar', 'Storkaia 1, Kristiansund, Norway', '브라세리. 구글 지도 평점 4.3(리뷰 907개).', 'Brasserie. Rated 4.3 on Google Maps (907 reviews).'),
+  place('kristiansund-fine_dining-4', 'kristiansund', 'fine_dining', 'Smia restaurant', 'Fosnagata 30B, Kristiansund, Norway', '레스토랑. 구글 지도 평점 4.3(리뷰 688개).', 'Restaurant. Rated 4.3 on Google Maps (688 reviews).'),
+  place('kristiansund-bakery-1', 'kristiansund', 'bakery', 'Tor Sevaldsen Løkkemyra', 'Industriveien 10, 6517 Kristiansund, Norway', '빵집. 구글 지도 평점 4.6(리뷰 330개).', 'Bakery. Rated 4.6 on Google Maps (330 reviews).'),
+
+  // —— vesteralen: restaurants, bakeries and cafés (2026-11-27) ——
+  place('vesteralen-fine_dining-1', 'vesteralen', 'fine_dining', 'Kvitnes Gård', 'Møysalveien 2659, 8413 Kvitnes, Norway', '크비트네스에 있는 현대 요리 레스토랑. 미쉐린 1스타. 구글 지도 평점 4.9(리뷰 207개).', 'Modern cuisine restaurant in Kvitnes. One MICHELIN star. Rated 4.9 on Google Maps (207 reviews).', { michelin: 'star1' }),
+  place('vesteralen-fine_dining-2', 'vesteralen', 'fine_dining', 'Arresten', 'Prinsensgate 6, Andenes, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.4(리뷰 1023개).', 'Norwegian restaurant. Rated 4.4 on Google Maps (1023 reviews).'),
+  place('vesteralen-fine_dining-3', 'vesteralen', 'fine_dining', 'Mea Pub', 'Sjøgata 20, Andenes, Norway', '펍. 구글 지도 평점 4.6(리뷰 203개).', 'Pub. Rated 4.6 on Google Maps (203 reviews).'),
+  place('vesteralen-cafe-1', 'vesteralen', 'cafe', 'Lysverket kafé', 'Kong Hans gate 1b, Andenes, Norway', '카페. 구글 지도 평점 4.6(리뷰 182개).', 'Café. Rated 4.6 on Google Maps (182 reviews).'),
+
+  // —— senja: restaurants, bakeries and cafés (2026-11-27) ——
+  place('senja-fine_dining-1', 'senja', 'fine_dining', 'Senja By Heart', 'Nedre Ferånna 49, 9381 Torsken, Norway', '토르스켄에 있는 노르웨이 요리 레스토랑. 구글 지도 평점 4.8(리뷰 298개).', 'Norwegian restaurant in Torsken. Rated 4.8 on Google Maps (298 reviews).'),
+  place('senja-fine_dining-2', 'senja', 'fine_dining', 'Roalden Kafè og Mathus', 'Mefjordveien 1537, 9386 Senjahopen, Norway', '센야호펜에 있는 레스토랑. 구글 지도 평점 4.8(리뷰 293개).', 'Restaurant in Senjahopen. Rated 4.8 on Google Maps (293 reviews).'),
+  place('senja-fine_dining-3', 'senja', 'fine_dining', 'Skreien Spiseri', 'Spiraveien 53, 9380 Gryllefjord, Norway', '그륄레피오르에 있는 레스토랑. 구글 지도 평점 4.7(리뷰 337개).', 'Restaurant in Gryllefjord. Rated 4.7 on Google Maps (337 reviews).'),
+  place('senja-fine_dining-4', 'senja', 'fine_dining', 'Senjastua', 'Laukhellaveien 2, 9303 Silsand, Norway', '실산에 있는 레스토랑. 구글 지도 평점 4.5(리뷰 752개).', 'Restaurant in Silsand. Rated 4.5 on Google Maps (752 reviews).'),
+  place('senja-fine_dining-5', 'senja', 'fine_dining', 'DiOne Thaimat', 'Storgata 7, Finnsnes, Norway', '태국 요리 레스토랑. 구글 지도 평점 4.4(리뷰 257개).', 'Thai restaurant. Rated 4.4 on Google Maps (257 reviews).'),
+  place('senja-cafe-1', 'senja', 'cafe', 'En Kaffe Te', 'Storgata 18, Finnsnes, Norway', '카페. 구글 지도 평점 4.6(리뷰 123개).', 'Café. Rated 4.6 on Google Maps (123 reviews).'),
+
+  // —— alta: restaurants, bakeries and cafés (2026-11-27) ——
+  place('alta-fine_dining-1', 'alta', 'fine_dining', 'Aurora Grill', 'Jernveien 1, Alta, Norway', '레스토랑. 구글 지도 평점 4.8(리뷰 88개).', 'Restaurant. Rated 4.8 on Google Maps (88 reviews).'),
+  place('alta-fine_dining-2', 'alta', 'fine_dining', 'Raus Social', 'Markedsgata 10, Alta, Norway', '레스토랑. 구글 지도 평점 4.8(리뷰 102개).', 'Restaurant. Rated 4.8 on Google Maps (102 reviews).'),
+  place('alta-fine_dining-3', 'alta', 'fine_dining', 'Norí Restaurant & Bar', 'Markedsgata 18, Alta, Norway', '레스토랑. 구글 지도 평점 4.6(리뷰 597개).', 'Restaurant. Rated 4.6 on Google Maps (597 reviews).'),
+  place('alta-fine_dining-4', 'alta', 'fine_dining', 'Vanvittig Grill', 'Skoleveien 1, Alta, Norway', '인도 요리 레스토랑. 구글 지도 평점 4.6(리뷰 442개).', 'Indian restaurant. Rated 4.6 on Google Maps (442 reviews).'),
+  place('alta-fine_dining-5', 'alta', 'fine_dining', 'Erica mat & vinbar', 'Markedsgata 21, Alta, Norway', '와인 바 레스토랑. 구글 지도 평점 4.3(리뷰 352개).', 'Wine bar and restaurant. Rated 4.3 on Google Maps (352 reviews).'),
+  place('alta-bakery-1', 'alta', 'bakery', 'Østlyngens Bakeri & Konditori', 'Altaveien 302, Alta, Norway', '빵집. 구글 지도 평점 4.6(리뷰 203개).', 'Bakery. Rated 4.6 on Google Maps (203 reviews).'),
+
+  // —— kirkenes: restaurants, bakeries and cafés (2026-11-27) ——
+  place('kirkenes-fine_dining-1', 'kirkenes', 'fine_dining', 'Johnny\'s lunch bar', 'Kielland Torkildsens gate 7, Kirkenes, Norway', '이탈리아 요리 레스토랑. 구글 지도 평점 4.8(리뷰 123개).', 'Italian restaurant. Rated 4.8 on Google Maps (123 reviews).'),
+  place('kirkenes-fine_dining-2', 'kirkenes', 'fine_dining', 'Aurora Restobar', 'Dr. Wessels gate 7, Kirkenes, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.7(리뷰 222개).', 'Norwegian restaurant. Rated 4.7 on Google Maps (222 reviews).'),
+  place('kirkenes-fine_dining-3', 'kirkenes', 'fine_dining', 'Bangkok Restaurant Kirkenes', 'Dr. Wessels gate 9, Kirkenes, Norway', '태국 요리 레스토랑. 구글 지도 평점 4.6(리뷰 250개).', 'Thai restaurant. Rated 4.6 on Google Maps (250 reviews).'),
+  place('kirkenes-fine_dining-4', 'kirkenes', 'fine_dining', 'Surf & Turf Restaurant', 'Dr. Wessels gate 2, Kirkenes, Norway', '노르웨이 요리 레스토랑. 구글 지도 평점 4.4(리뷰 558개).', 'Norwegian restaurant. Rated 4.4 on Google Maps (558 reviews).'),
+  place('kirkenes-cafe-1', 'kirkenes', 'cafe', 'Café Visit', 'Havneveien 1, Kirkenes, Norway', '카페. 구글 지도 평점 4.3(리뷰 344개).', 'Café. Rated 4.3 on Google Maps (344 reviews).'),
+
+  // —— longyearbyen: restaurants, bakeries and cafés (2026-11-27) ——
+  place('longyearbyen-fine_dining-1', 'longyearbyen', 'fine_dining', 'Gruvelageret', 'Longyearbyen 9170, Svalbard', '레스토랑. 구글 지도 평점 4.7(리뷰 152개).', 'Restaurant. Rated 4.7 on Google Maps (152 reviews).'),
+  place('longyearbyen-fine_dining-2', 'longyearbyen', 'fine_dining', 'Vinterhagen Restaurant & Bar', 'Longyearbyen 9170, Svalbard', '레스토랑. 구글 지도 평점 4.7(리뷰 485개).', 'Restaurant. Rated 4.7 on Google Maps (485 reviews).'),
+  place('longyearbyen-fine_dining-3', 'longyearbyen', 'fine_dining', 'Restaurant Polfareren', 'Vei 221, Longyearbyen 9170, Svalbard', '레스토랑. 구글 지도 평점 4.6(리뷰 115개).', 'Restaurant. Rated 4.6 on Google Maps (115 reviews).'),
+  place('longyearbyen-fine_dining-4', 'longyearbyen', 'fine_dining', 'Huset Restaurant', 'Vei 300, Longyearbyen 9170, Svalbard', '레스토랑. 구글 지도 평점 4.5(리뷰 591개).', 'Restaurant. Rated 4.5 on Google Maps (591 reviews).'),
+  place('longyearbyen-fine_dining-5', 'longyearbyen', 'fine_dining', 'Restaurant Kroa', 'Longyearbyen 9170, Svalbard', '스테이크 하우스. 구글 지도 평점 4.5(리뷰 1222개).', 'Steakhouse. Rated 4.5 on Google Maps (1222 reviews).'),
+  place('longyearbyen-cafe-1', 'longyearbyen', 'cafe', 'Café Huskies', 'Vei 509, Longyearbyen 9170, Svalbard', '카페. 구글 지도 평점 4.8(리뷰 614개).', 'Café. Rated 4.8 on Google Maps (614 reviews).'),
+  place('longyearbyen-cafe-2', 'longyearbyen', 'cafe', 'Fruene', 'Lompen Senteret, Longyearbyen 9170, Svalbard', '카페. 구글 지도 평점 4.5(리뷰 583개).', 'Café. Rated 4.5 on Google Maps (583 reviews).'),
 ]

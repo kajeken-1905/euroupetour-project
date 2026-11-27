@@ -1015,6 +1015,59 @@ export const STAY: Record<string, StayArea[]> = {
     a('신시가 (노이슈타트)', 'Neustadt', 'Neustadt, Salzburg', '쇼핑·정원|Shopping and gardens', '강 건너 미라벨 정원 쪽으로 구시가까지 걸어서 금방입니다.|Across the river by the Mirabell Gardens, a short walk to the Old Town.'),
     a('중앙역 주변', 'Elisabeth-Vorstadt (station)', 'Salzburg Hauptbahnhof', '기차 당일치기|For train day trips', '기차로 할슈타트 등 근교를 자주 다닐 때 편합니다.|Handy if you will take the train often, e.g. to Hallstatt.'),
   ],
+  halden: [
+    a('시내 중심', 'Town centre', 'Halden', '처음 가는 여행에 추천|Best for a first visit', '역과 요새, 부두가 걸어서 닿습니다.|The station, fortress and quay on foot.'),
+  ],
+  kongsberg: [
+    a('시내 중심', 'Town centre', 'Kongsberg', '처음 가는 여행에 추천|Best for a first visit', '역과 박물관, 교회가 가깝습니다.|Near the station, museum and church.'),
+  ],
+  tonsberg: [
+    a('부두와 시내', 'Waterfront & centre', 'Tønsberg', '처음 가는 여행에 추천|Best for a first visit', '역과 부두, 성곽 언덕이 걸어서 닿습니다.|The station, waterfront and castle hill on foot.'),
+  ],
+  rjukan: [
+    a('류칸 시내', 'Rjukan centre', 'Rjukan', '처음 가는 여행에 추천|Best for a first visit', '버스와 케이블카, 식당이 가깝습니다.|Near the buses, cable car and restaurants.'),
+    a('가우스타 산장', 'Gausta', 'Gaustablikk', '산행 거점|For hiking', '가우스타토펜 아래 산장과 스키 리조트입니다.|Lodges and the ski resort below Gaustatoppen.'),
+  ],
+  arendal: [
+    a('튀홀멘·폴렌', 'Tyholmen & Pollen', 'Arendal', '처음 가는 여행에 추천|Best for a first visit', '항구 둘레에 호텔과 식당이 모여 있습니다.|Hotels and restaurants around the harbour.'),
+  ],
+  lom: [
+    a('롬 마을', 'Lom village', 'Lom', '처음 가는 여행에 추천|Best for a first visit', '교회 근처 호텔과 빵집, 버스가 모여 있습니다.|Hotels, bakery and buses by the church.'),
+  ],
+  balestrand: [
+    a('발레스트란 피오르 가', 'Balestrand fjordside', 'Balestrand', '처음 가는 여행에 추천|Best for a first visit', '목조 호텔과 선착장이 모여 있습니다.|Wooden hotels and the boat quay.'),
+    a('피에를란', 'Fjærland', 'Fjærland', '빙하 가까이|Near the glaciers', '1891년 목조 호텔이 있는 조용한 마을입니다.|A quiet village with an 1891 wooden hotel.'),
+  ],
+  loen: [
+    a('로엔', 'Loen', 'Loen', '처음 가는 여행에 추천|Best for a first visit', '피오르 가 호텔과 스카이리프트가 가깝습니다.|Fjordside hotels near the Skylift.'),
+    a('올덴', 'Olden', 'Olden', '빙하 가까이|Near the glacier', '브릭스달 빙하 골짜기 입구 마을입니다.|The village at the mouth of the Briksdal valley.'),
+  ],
+  eidfjord: [
+    a('에이드피오르', 'Eidfjord', 'Eidfjord', '처음 가는 여행에 추천|Best for a first visit', '부두 가 호텔과 버스가 모여 있습니다.|Hotels and buses by the quay.'),
+    a('울빅', 'Ulvik', 'Ulvik', '사과밭 마을|Orchard village', '피오르 가 호텔과 사이다 농장이 있습니다.|Fjordside hotels and cider farms.'),
+  ],
+  andalsnes: [
+    a('역 앞 시내', 'Station area', 'Åndalsnes', '처음 가는 여행에 추천|Best for a first visit', '역과 곤돌라, 식당이 모여 있습니다.|The station, gondola and restaurants together.'),
+  ],
+  kristiansund: [
+    a('항구 중심', 'Harbour centre', 'Kristiansund', '처음 가는 여행에 추천|Best for a first visit', '부두와 버스, 식당이 모여 있습니다.|The quays, buses and restaurants together.'),
+  ],
+  vesteralen: [
+    a('안데네스', 'Andenes', 'Andenes', '처음 가는 여행에 추천|Best for a first visit', '고래 사파리 부두와 등대가 가깝습니다.|Near the whale-safari quay and lighthouse.'),
+  ],
+  senja: [
+    a('핀스네스', 'Finnsnes', 'Finnsnes', '교통 거점|Transport hub', '쾌속선과 버스, 가게가 모여 있습니다.|Express boats, buses and shops.'),
+    a('섬 북쪽 어촌', 'Northern fishing villages', 'Mefjordvær', '처음 가는 여행에 추천|Best for a first visit', '봉우리 가까이 바닷가 오두막(로르부)이 있습니다.|Seaside cabins close to the peaks.'),
+  ],
+  alta: [
+    a('알타 시내', 'Alta centre', 'Alta', '처음 가는 여행에 추천|Best for a first visit', '대성당과 식당, 버스가 모여 있습니다.|Near the cathedral, restaurants and buses.'),
+  ],
+  kirkenes: [
+    a('시내 중심', 'Town centre', 'Kirkenes', '처음 가는 여행에 추천|Best for a first visit', '호텔과 식당, 부두가 가깝습니다.|Hotels, restaurants and the quay close together.'),
+  ],
+  longyearbyen: [
+    a('롱위에아르뷔엔 시내', 'Longyearbyen centre', 'Longyearbyen', '처음 가는 여행에 추천|Best for a first visit', '숙소와 식당이 모두 마을 안에 있습니다.|All lodgings and restaurants are in the settlement.'),
+  ],
   oslo: [
     a('시내 중심 (센트룸)', 'Sentrum', 'Sentrum, Oslo', '처음 가는 여행에 추천|Best for a first visit', '박물관, 식당, 교통을 걸어서 이용합니다. 시끄럽고 비싼 편입니다.|Museums, food and transport on foot; noisier and pricier.'),
     a('아케르 브뤼게', 'Aker Brygge', 'Aker Brygge, Oslo', '피오르 물가|On the fjord', '피오르 전망과 식당이 있고 섬으로 가는 배가 뜹니다. 호텔이 적습니다.|Fjord views, restaurants and ferries to the islands; few hotels.'),

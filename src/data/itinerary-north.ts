@@ -4,15 +4,15 @@ import type { RawItinerary } from './itinerary-helper'
 export const itineraryNorth: Record<string, RawItinerary> = {
   oslo: {
     days: [
-      ['시내 중심과 항구|Centre & harbour', 1, 14, 9, 10, 8, 4],
-      ['뷔그되위와 오페라 하우스|Bygdøy & the Opera House', 13, 11, 12, 2, 6],
+      ['시내 중심과 항구|Centre & harbour', 1, 14, 9, 10, 8, 4, 17],
+      ['뷔그되위와 오페라 하우스|Bygdøy & the Opera House', 13, 11, 12, 2, 18, 6],
       ['비겔란 공원과 홀멘콜렌|Vigeland & Holmenkollen', 3, 7, 15],
     ],
     trips: [['오슬로 피오르 섬|Oslofjord islands', 16]],
   },
   bergen: {
     days: [
-      ['브뤼겐과 플뢰위엔|Bryggen & Fløyen', 3, 1, 7, 10, 2],
+      ['브뤼겐과 플뢰위엔|Bryggen & Fløyen', 3, 1, 12, 7, 10, 2],
       ['미술관과 트롤하우겐|Museums & Troldhaugen', 8, 5, 4, 9, 6],
     ],
     trips: [['하르당에르피오르|Hardangerfjord', 11]],
@@ -34,7 +34,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
       ['셰라그볼텐|Kjeragbolten', 7],
     ],
   },
-  trondheim: { days: [['', 1, 6, 4, 2, 3, 7], ['', 5, 8]], trips: [['뭉크홀멘섬|Munkholmen', 9]] },
+  trondheim: { days: [['', 1, 6, 4, 2, 3, 7], ['', 5, 8, 10]], trips: [['뭉크홀멘섬|Munkholmen', 9]] },
   alesund: { days: [['', 2, 4, 1], ['', 5, 6]], trips: [['주변 섬|Nearby islands', 3]] },
   flam: { days: [['', 1, 4, 7, 3, 5]], trips: [['내뢰위피오르 크루즈|Nærøyfjord cruise', 2], ['운드레달|Undredal', 6]] },
   fredrikstad: { days: [['', 2, 1, 3]], trips: [['발레르 제도|Hvaler', 4]] },
@@ -47,6 +47,22 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   bodo: { days: [['', 3, 4, 2, 5]], trips: [['살트스트라우멘|Saltstraumen', 1]] },
   lofoten: { days: [['스볼베르와 동쪽|Svolvær & the east', 2, 3], ['서쪽 마을|The western villages', 4, 1, 5, 6]] },
   honningsvag: { days: [['', 4]], trips: [['노르카프|North Cape', 1], ['바닷새 투어|Bird safari', 3], ['크니브셸로데|Knivskjellodden', 2]] },
+  halden: {"days": [["", 1, 3]], "trips": [["할덴 운하|Halden Canal", 2], ["스빈순|Svinesund", 4]]},
+  kongsberg: {"days": [["", 2, 3, 4]], "trips": [["은광|Silver mines", 1]]},
+  tonsberg: {"days": [["", 1, 2, 3]], "trips": [["오세베르그 고분|Oseberg mound", 4], ["베르덴스 엔데|Verdens Ende", 5]]},
+  rjukan: {"days": [["", 1, 2, 3]], "trips": [["가우스타토펜|Gaustatoppen", 4]]},
+  arendal: {"days": [["", 1, 2, 3]], "trips": [["메르되위|Merdø", 4]]},
+  lom: {"days": [["", 1, 2]], "trips": [["갈회피겐|Galdhøpiggen", 3], ["송네피엘렛|Sognefjellet", 4]]},
+  balestrand: {"days": [["", 1, 2]], "trips": [["피에를란|Fjærland", 3, 4, 5]]},
+  loen: {"days": [["", 1, 4]], "trips": [["브릭스달 빙하|Briksdal glacier", 2], ["로바트네트|Lovatnet", 3]]},
+  eidfjord: {"days": [["", 2, 1, 5]], "trips": [["울빅|Ulvik", 3, 4]]},
+  andalsnes: {"days": [["", 1, 2, 5]], "trips": [["라우마 철도|Rauma Railway", 3], ["트롤 벽|Troll Wall", 4]]},
+  kristiansund: {"days": [["", 2, 5, 3]], "trips": [["대서양 도로|Atlantic Road", 1], ["그리프|Grip", 4]]},
+  vesteralen: {"days": [["", 2, 3]], "trips": [["고래 사파리|Whale safari", 1], ["블레이크·관광 도로|Bleik & scenic route", 4, 5]]},
+  senja: {"days": [["북쪽 관광 도로|Northern scenic road", 1, 2, 4], ["", 3]], "trips": [["안데르달렌|Ånderdalen", 5]]},
+  alta: {"days": [["", 1, 2]], "trips": [["오로라 투어|Northern lights tour", 3], ["이글루 호텔|Igloo hotel", 4]]},
+  kirkenes: {"days": [["", 3, 4]], "trips": [["킹크랩 사파리|King crab safari", 2], ["스노 호텔|Snowhotel", 1]]},
+  longyearbyen: {"days": [["", 1, 2, 3], ["", 4]], "trips": [["피오르·빙하 투어|Fjord & glacier trip", 5]]},
   helsinki: {
     days: [
       ['원로원 광장과 항구|Senate Square & harbour', 4, 1, 8, 7, 3],

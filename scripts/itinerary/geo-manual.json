@@ -19270,5 +19270,205 @@
     55.37479,
     -7.39985,
     "OSM Nominatim: Malin Head, Ardmalin ED, Inishowen Municipal District, Count"
+  ],
+  "halden-h1": [
+    59.1199,
+    11.39686,
+    "OSM Nominatim: Fredriksten festning, Indre festning, Knardal, Halden, Østfo (Wikipedia 402m)"
+  ],
+  "halden-h4": [
+    59.09334,
+    11.25227,
+    "OSM Nominatim: Svinesundsbrua, E 6, Strömstads kommun, Västra Götalands län (Wikipedia 132m)"
+  ],
+  "kongsberg-h1": [
+    59.62976,
+    9.59927,
+    "OSM Nominatim: Sølvgruvene, Malmveien, Kongsberg, Buskerud, 3615, Norge (Wikipedia 471m)"
+  ],
+  "kongsberg-h2": [
+    59.66607,
+    9.65074,
+    "OSM Nominatim: Norsk Bergverksmuseum, Numedalsveien, Kongsberg, Buskerud, 3 (Wikipedia 8m)"
+  ],
+  "kongsberg-h3": [
+    59.66581,
+    9.6463,
+    "OSM Nominatim: Kongsberg kirke, Kirketorget, Kongsberg, Buskerud, 3616, Nor (Wikipedia 1m)"
+  ],
+  "rjukan-h1": [
+    59.87103,
+    8.49273,
+    "OSM Nominatim: Norsk Industriarbeidermuseum Vemork, Vemorkbrua, Våer, Bakke (Wikipedia 76m)"
+  ],
+  "rjukan-h4": [
+    59.85421,
+    8.64926,
+    "OSM Nominatim: Gaustatoppen, Rjukan, Tinn, Telemark, 3660, Norge (Wikipedia 4m)"
+  ],
+  "arendal-h3": [
+    58.4604,
+    8.76503,
+    "OSM Nominatim: Arendal Rådhus, Sam Eydes plass, Skytebanen, Blødekjær, Aren (Wikipedia 10m)"
+  ],
+  "arendal-h4": [
+    58.42509,
+    8.80065,
+    "OSM Nominatim: Merdø, Sandviga, Arendal, Agder, Norge (Wikipedia 46m)"
+  ],
+  "lom-h1": [
+    61.8398,
+    8.56605,
+    "OSM Nominatim: Lom stavkyrkje, Bergomsvegen, Prestøye, Fossbergom, Lom, Inn (Wikipedia 1m)"
+  ],
+  "balestrand-h2": [
+    61.2076,
+    6.53438,
+    "OSM Nominatim: St. Olaf’s Church, Kong Beles veg, Holmen, Tjugum, Balestran (Wikipedia 11m)"
+  ],
+  "balestrand-h3": [
+    61.42335,
+    6.7634,
+    "OSM Nominatim: Norsk Bremuseum, Fjærlandsfjorden, Sogndal, Vestland, 6848,  (Wikipedia 31m)"
+  ],
+  "loen-h2": [
+    61.66405,
+    6.89153,
+    "OSM Nominatim: Briksdalsbreen, Stryn, Vestland, Norge (Wikipedia 214m)"
+  ],
+  "eidfjord-h1": [
+    60.42705,
+    7.25088,
+    "OSM Nominatim: Vøringsfossen, Eidfjord, Vestland, 5785, Norge (Wikipedia 23m)"
+  ],
+  "eidfjord-h4": [
+    60.47863,
+    6.83018,
+    "OSM Nominatim: Hardangerbrua, Bu, Eidfjord, Vestland, 5734, Norge (Wikipedia 18m)"
+  ],
+  "andalsnes-h4": [
+    62.483,
+    7.72169,
+    "OSM Nominatim: Trollveggen, Rauma, Møre og Romsdal, Norge (Wikipedia 371m)"
+  ],
+  "kristiansund-h1": [
+    63.01665,
+    7.34912,
+    "OSM Nominatim: Atlanterhavsvegen, Hustadvika, Møre og Romsdal, 6494, Norge (Wikipedia 272m)"
+  ],
+  "kristiansund-h4": [
+    63.21958,
+    7.59365,
+    "OSM Nominatim: Grip, Kristiansund, Møre og Romsdal, Norge (Wikipedia 29m)"
+  ],
+  "vesteralen-h3": [
+    69.29572,
+    16.03033,
+    "OSM Nominatim: Spaceship Aurora, Bleiksveien, Toften, Andøy, Nordland, 8481 (Wikipedia 411m)"
+  ],
+  "senja-h4": [
+    69.5442,
+    17.6637,
+    "OSM Nominatim: Husøy, Senja, Troms, 9389, Norge (Wikipedia 225m)"
+  ],
+  "alta-h2": [
+    69.96609,
+    23.26441,
+    "OSM Nominatim: Nordlyskatedralen, Altaveien, Tollevik, Midtbakken, Alta, Fi (Wikipedia 143m)"
+  ],
+  "longyearbyen-h1": [
+    78.22238,
+    15.65231,
+    "OSM Nominatim: Svalbard Museum, Hilmar Rekstens vei, Longyearbyen, Sjøskren (Wikipedia 16m)"
+  ],
+  "longyearbyen-h2": [
+    78.22332,
+    15.65352,
+    "OSM Nominatim: North Pole Expedition Museum, Vei 400, Sjøskrenten, Gruvedal (Wikipedia 3m)"
+  ],
+  "longyearbyen-h3": [
+    78.21978,
+    15.61826,
+    "OSM Nominatim: Svalbard kirke, Vei 303, Longyearbyen, Gamle Longyearbyen, E (Wikipedia 8m)"
+  ],
+  "halden-h3": [
+    59.12268,
+    11.36852,
+    "OSM Nominatim: Rød Herregård, Herregårdsveien, Refne, Rød, Halden, Østfold, (Wikipedia 8m)"
+  ],
+  "tonsberg-h1": [
+    59.27183,
+    10.40297,
+    "OSM Nominatim: Slottsfjellet, Kaldnes, Tønsberg, Vestfold, Norge (Wikipedia 56m)"
+  ],
+  "tonsberg-h2": [
+    59.27366,
+    10.40592,
+    "OSM Nominatim: Slottsfjellsmuseet, Farmannsveien, Korten, Kaldnes, Tønsberg (Wikipedia 21m)"
+  ],
+  "arendal-h1": [
+    58.4582,
+    8.76573,
+    "OSM Nominatim: Tyholmen, Kirkebakken, Skytebanen, Blødekjær, Arendal, Agder (Wikipedia 54m)"
+  ],
+  "lom-h2": [
+    61.83799,
+    8.56566,
+    "OSM Nominatim: Norsk Fjellsenter, Brubakken, Prestøye, Fossbergom, Lom, Inn (Wikipedia 13m)"
+  ],
+  "loen-h1": [
+    61.88015,
+    6.83662,
+    "OSM Nominatim: Loen Skylift, Fjordvegen, Loen, Stryn, Vestland, 6789, Norge (Wikipedia 29m)"
+  ],
+  "andalsnes-h1": [
+    62.56427,
+    7.70416,
+    "OSM Nominatim: Romsdalsgondolen, Nordsidevegen, Tokle, Åndalsnes, Rauma, Mø (Wikipedia 26m)"
+  ],
+  "andalsnes-h5": [
+    62.56783,
+    7.69031,
+    "OSM Nominatim: Norsk Tindesenter, Jernbanegata, Nes, Åndalsnes, Rauma, Møre (Wikipedia 9m)"
+  ],
+  "kristiansund-h3": [
+    63.11543,
+    7.73898,
+    "OSM Nominatim: Norsk klippfiskmuseum, Dikselveien, Steinberget, Gomalandet, (Wikipedia 15m)"
+  ],
+  "vesteralen-h2": [
+    69.32401,
+    16.11591,
+    "OSM Nominatim: Andenes fyr, Johan Hjorts gate, Andenes, Vikan, Merket, Ande (Wikipedia 22m)"
+  ],
+  "kirkenes-h4": [
+    69.72693,
+    30.0496,
+    "OSM Nominatim: Andersgrotta, Haganesveien, Haganes, Kirkenes, Sør-Varanger, (Wikipedia 79m)"
+  ],
+  "longyearbyen-h4": [
+    78.23837,
+    15.4446,
+    "OSM Nominatim: Gruve 3, Vei 706, Nordenskiöld Land, Svalbard, Norge (Wikipedia 119m)"
+  ],
+  "oslo-h18": [
+    59.90867,
+    10.75256,
+    "OSM Nominatim: Deichman Bjørvika, Dronning Eufemias gate, Sjøtomta, Bjørvik (Wikipedia 8m)"
+  ],
+  "bergen-h12": [
+    60.39385,
+    5.33096,
+    "OSM Nominatim: Bergen domkirke, Domkirkeplassen, Vågsbunnen, Skuteviken, Be (Wikipedia 22m)"
+  ],
+  "oslo-h17": [
+    59.90693,
+    10.72194,
+    "OSM Nominatim: Astrup Fearnley Museet, Strandpromenaden, Tjuvholmen, Frogne (Wikipedia 42m)"
+  ],
+  "eidfjord-h5": [
+    60.50434,
+    7.13038,
+    "OSM Nominatim: Kjeåsen, Eidfjord, Vestland, 5783, Norge (Wikipedia 64m)"
   ]
 }
