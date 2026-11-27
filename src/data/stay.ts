@@ -19,6 +19,91 @@ const a = (ko: string, en: string, q: string, tag: string, note: string): StayAr
 }
 
 export const STAY: Record<string, StayArea[]> = {
+  'melnik-cz': [
+    a('구시가', 'Old town', 'Mělník', '처음 가는 여행에 추천|Best for a first visit', '성과 광장이 걸어서 닿는 언덕 위 동네입니다.|On the hill, walking distance to the castle and square.'),
+  ],
+  konopiste: [
+    a('베네쇼프 시내', 'Benešov centre', 'Benešov', '처음 가는 여행에 추천|Best for a first visit', '역과 식당이 가깝고 성까지 걸어갑니다.|Near the station and restaurants, a walk from the castle.'),
+  ],
+  tabor: [
+    a('구시가', 'Old town', 'Žižkovo náměstí Tábor', '처음 가는 여행에 추천|Best for a first visit', '광장과 지하 통로 입구가 가깝습니다. 역에서 걸어서 약 20분.|Close to the square and tunnels; about 20 min walk from the station.'),
+  ],
+  trebon: [
+    a('성벽 안 구시가', 'Walled old town', 'Třeboň', '처음 가는 여행에 추천|Best for a first visit', '성과 광장, 연못 산책길이 걸어서 닿습니다.|The castle, square and pond walks on foot.'),
+  ],
+  'jindrichuv-hradec': [
+    a('구시가', 'Old town', 'Jindřichův Hradec', '처음 가는 여행에 추천|Best for a first visit', '성과 연못이 걸어서 닿습니다.|The castle and pond on foot.'),
+  ],
+  slavonice: [
+    a('광장 주변', 'Around the squares', 'Slavonice', '처음 가는 여행에 추천|Best for a first visit', '르네상스 집을 고친 작은 숙소가 있습니다.|Small guesthouses in restored Renaissance houses.'),
+  ],
+  sumava: [
+    a('리프노 나드 블타보우', 'Lipno nad Vltavou', 'Lipno nad Vltavou', '처음 가는 여행에 추천|Best for a first visit', '호숫가 리조트와 나무 꼭대기 산책로가 가깝습니다.|Lakeside resorts near the treetop walk.'),
+  ],
+  'marianske-lazne': [
+    a('온천 지구', 'Spa quarter', 'Kolonáda Mariánské Lázně', '처음 가는 여행에 추천|Best for a first visit', '회랑과 공원 옆의 온천 호텔들입니다. 역에서 트롤리버스로 갑니다.|Spa hotels by the colonnade and parks; trolleybus from the station.'),
+  ],
+  cheb: [
+    a('구시가', 'Old town', 'Cheb', '처음 가는 여행에 추천|Best for a first visit', '광장과 성이 걸어서 닿고 역도 가깝습니다.|Near the square, castle and station.'),
+  ],
+  terezin: [
+    a('리토메르지체 구시가', 'Litoměřice old town', 'Litoměřice', '처음 가는 여행에 추천|Best for a first visit', '식당과 숙소가 많고, 테레진까지 버스로 약 10분입니다.|More restaurants and hotels; about 10 min by bus to Terezín.'),
+  ],
+  liberec: [
+    a('시내 중심', 'City centre', 'Liberec', '처음 가는 여행에 추천|Best for a first visit', '시청사 주변으로 트램이 다닙니다.|Around the town hall, on the tram lines.'),
+  ],
+  'hradec-kralove': [
+    a('구시가', 'Old town', 'Velké náměstí Hradec Králové', '처음 가는 여행에 추천|Best for a first visit', '광장과 대성당이 걸어서 닿습니다.|The square and cathedral on foot.'),
+  ],
+  kuks: [
+    a('흐라데츠크랄로베에서 다녀오기', 'Day trip from Hradec Králové', 'Hradec Králové', '거점에서 다녀오기|Visit from a base', '쿠크스엔 숙소가 적어 흐라데츠크랄로베에서 다녀옵니다.|Few beds in Kuks; visit from Hradec Králové.'),
+  ],
+  adrspach: [
+    a('아드르슈파흐 마을', 'Adršpach village', 'Adršpach', '처음 가는 여행에 추천|Best for a first visit', '바위 도시 입구 앞 펜션들입니다.|Guesthouses by the rock-town entrance.'),
+  ],
+  krkonose: [
+    a('슈핀들레루프믈린', 'Špindlerův Mlýn', 'Špindlerův Mlýn', '처음 가는 여행에 추천|Best for a first visit', '스키장과 산길이 가까운 리조트 마을입니다.|The resort, close to slopes and trails.'),
+    a('페츠 포드 스녜슈코우', 'Pec pod Sněžkou', 'Pec pod Sněžkou', '스녜슈카 등정|For Sněžka', '스녜슈카 케이블카가 출발하는 마을입니다.|The village where the Sněžka cable car starts.'),
+  ],
+  pardubice: [
+    a('구시가', 'Old town', 'Pernštýnské náměstí Pardubice', '처음 가는 여행에 추천|Best for a first visit', '광장과 성이 걸어서 닿습니다.|The square and castle on foot.'),
+  ],
+  trebic: [
+    a('카를로보 광장 주변', 'Around Karlovo Square', 'Karlovo náměstí Třebíč', '처음 가는 여행에 추천|Best for a first visit', '유대인 지구와 바실리카까지 걸어갑니다.|A walk to the Jewish Quarter and basilica.'),
+  ],
+  zdar: [
+    a('시내', 'Town centre', 'Žďár nad Sázavou', '처음 가는 여행에 추천|Best for a first visit', '역과 식당이 가깝고, 성당까지는 버스나 걷기로 갑니다.|Near the station; bus or walk to the church.'),
+  ],
+  slavkov: [
+    a('브르노에서 다녀오기', 'Day trip from Brno', 'Brno', '거점에서 다녀오기|Visit from a base', '브르노에서 기차로 약 30분이라 다녀오기 좋습니다.|About 30 min by train from Brno.'),
+  ],
+  pernstejn: [
+    a('브르노에서 다녀오기', 'Day trip from Brno', 'Brno', '거점에서 다녀오기|Visit from a base', '브르노에서 기차로 약 1시간이라 다녀오기 좋습니다.|About 1 hr by train from Brno.'),
+  ],
+  jeseniky: [
+    a('예세니크', 'Jeseník', 'Jeseník', '처음 가는 여행에 추천|Best for a first visit', '온천과 버스 터미널이 가깝습니다.|Near the spa and bus station.'),
+  ],
+  zlin: [
+    a('시내 중심', 'City centre', 'Zlín', '처음 가는 여행에 추천|Best for a first visit', '바타 건물들과 버스 터미널이 가깝습니다.|Near the Baťa buildings and bus station.'),
+  ],
+  luhacovice: [
+    a('온천 지구', 'Spa quarter', 'Luhačovice', '처음 가는 여행에 추천|Best for a first visit', '온천 호텔과 회랑이 모여 있습니다.|Spa hotels around the colonnade.'),
+  ],
+  velehrad: [
+    a('우헤르스케흐라디슈테', 'Uherské Hradiště', 'Uherské Hradiště', '처음 가는 여행에 추천|Best for a first visit', '식당과 버스가 많고, 벨레흐라드까지 버스로 약 15분입니다.|Restaurants and buses; about 15 min by bus to Velehrad.'),
+  ],
+  roznov: [
+    a('시내', 'Town centre', 'Rožnov pod Radhoštěm', '처음 가는 여행에 추천|Best for a first visit', '박물관과 버스 정류장이 가깝습니다.|Near the museum and buses.'),
+  ],
+  ostrava: [
+    a('시내 중심', 'City centre', 'Masarykovo náměstí Ostrava', '처음 가는 여행에 추천|Best for a first visit', '트램이 사방으로 다니고, 저녁엔 스토돌니 거리가 붐빕니다.|Trams in every direction; Stodolní Street is lively at night.'),
+  ],
+  stramberk: [
+    a('마을 광장', 'Village square', 'Štramberk', '처음 가는 여행에 추천|Best for a first visit', '목조 가옥을 고친 작은 펜션들입니다.|Small guesthouses in timber houses.'),
+  ],
+  opava: [
+    a('시내 중심', 'City centre', 'Opava', '처음 가는 여행에 추천|Best for a first visit', '박물관과 광장이 걸어서 닿습니다.|The museum and squares on foot.'),
+  ],
   prague: [
     a('구시가', 'Old Town (Staré Město)', 'Staré Město, Prague', '처음 가는 여행에 추천|Best for a first visit', '주요 관광지를 걸어서 다닙니다. 가장 붐비고 비싸며 소매치기를 조심해야 합니다.|The main sights are on foot; it is the busiest and priciest area, so watch for pickpockets.'),
     a('말라스트라나', 'Malá Strana', 'Malá Strana, Prague', '조용한 중심가|Quieter but central', '강 건너 프라하 성 아래 동네로 구시가보다 한적합니다. 낮에는 성 주변이 붐빕니다.|Below Prague Castle across the river, calmer than the Old Town; the castle area is crowded by day.'),

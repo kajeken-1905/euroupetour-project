@@ -1798,6 +1798,139 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [PRG()],
     rail: [['Turnov', '투르노프역'], ['Jičín', '이친역']],
   },
+  'melnik-cz': {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Mělník', '멜니크역']],
+    bus: [['Mělník, autobusové nádraží', '멜니크 버스터미널', '프라하행|to Prague']],
+  },
+  konopiste: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Benešov u Prahy', '베네쇼프역', '성까지 약 2km|about 2 km to the castle']],
+  },
+  tabor: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Tábor', '타보르역', '프라하·체스케부데요비체행|to Prague, České Budějovice']],
+    bus: [['Tábor, autobusové nádraží', '타보르 버스터미널']],
+  },
+  trebon: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Třeboň', '트르제본역']],
+    bus: [['Třeboň, autobusové nádraží', '트르제본 버스터미널']],
+  },
+  'jindrichuv-hradec': {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Jindřichův Hradec', '인드르지후프흐라데츠역', '좁은 궤도 열차 출발|narrow-gauge trains start here']],
+    bus: [['Jindřichův Hradec, autobusové nádraží', '인드르지후프흐라데츠 버스터미널']],
+  },
+  slavonice: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Slavonice', '슬라보니체역']],
+    bus: [['Slavonice, autobusové nádraží', '슬라보니체 버스 정류장']],
+  },
+  sumava: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Lipno nad Vltavou', '리프노 나드 블타보우역']],
+    bus: [['Lipno nad Vltavou, bus', '리프노 나드 블타보우 버스 정류장', '체스키크룸로프행|to Český Krumlov']],
+  },
+  'marianske-lazne': {
+    air: [['Karlovy Vary (KLV)', '카를로비바리 공항 (KLV)', '운항편 적음|few flights'], ['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Mariánské Lázně', '마리안스케라즈네역', '플젠·헤프행|to Plzeň, Cheb']],
+    bus: [['Mariánské Lázně, autobusové nádraží', '마리안스케라즈네 버스터미널']],
+  },
+  cheb: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Cheb', '헤프역', '독일행 열차|trains to Germany']],
+    bus: [['Cheb, autobusové nádraží', '헤프 버스터미널']],
+  },
+  terezin: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Litoměřice hlavní nádraží', '리토메르지체 중앙역']],
+    bus: [['Terezín, autobusová zastávka', '테레진 버스 정류장', '프라하행|to Prague']],
+  },
+  liberec: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Liberec', '리베레츠역']],
+    bus: [['Liberec, autobusové nádraží', '리베레츠 버스터미널', '프라하행|to Prague']],
+  },
+  'hradec-kralove': {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Hradec Králové hlavní nádraží', '흐라데츠크랄로베 중앙역']],
+    bus: [['Hradec Králové, terminál HD', '흐라데츠크랄로베 버스터미널']],
+  },
+  kuks: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Kuks', '쿠크스역', '야로메르시·트루트노프행|to Jaroměř, Trutnov']],
+  },
+  adrspach: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Adršpach', '아드르슈파흐역', '바위 도시 입구 앞|by the rock-town entrance']],
+  },
+  krkonose: {
+    air: [['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    bus: [['Špindlerův Mlýn, autobusové nádraží', '슈핀들레루프믈린 버스터미널', '프라하행|to Prague']],
+  },
+  pardubice: {
+    air: [['Pardubice (PED)', '파르두비체 공항 (PED)', '운항편 적음|few flights'], ['Praha Václav Havel (PRG)', '프라하 공항 (PRG)', '프라하|Prague']],
+    rail: [['Pardubice hlavní nádraží', '파르두비체 중앙역']],
+    bus: [['Pardubice, autobusové nádraží', '파르두비체 버스터미널']],
+  },
+  trebic: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Třebíč', '트르제비치역']],
+    bus: [['Třebíč, autobusové nádraží', '트르제비치 버스터미널']],
+  },
+  zdar: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Žďár nad Sázavou', '즈다르 나드 사자보우역']],
+    bus: [['Žďár nad Sázavou, autobusové nádraží', '즈다르 버스터미널']],
+  },
+  slavkov: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Slavkov u Brna', '슬라프코프 우 브르나역']],
+  },
+  pernstejn: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Nedvědice', '네드볘디체역', '성까지 걸어서 오름|walk up to the castle']],
+  },
+  jeseniky: {
+    air: [['Ostrava Leoš Janáček (OSR)', '오스트라바 공항 (OSR)', '오스트라바|Ostrava']],
+    rail: [['Jeseník', '예세니크역']],
+    bus: [['Jeseník, autobusové nádraží', '예세니크 버스터미널']],
+  },
+  zlin: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Zlín střed', '즐린 중앙역']],
+    bus: [['Zlín, autobusové nádraží', '즐린 버스터미널', '브르노·프라하행|to Brno, Prague']],
+  },
+  luhacovice: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Luhačovice', '루하초비체역']],
+    bus: [['Luhačovice, autobusové nádraží', '루하초비체 버스터미널']],
+  },
+  velehrad: {
+    air: [['Brno–Tuřany (BRQ)', '브르노 공항 (BRQ)', '브르노|Brno']],
+    rail: [['Staré Město u Uherského Hradiště', '스타레메스토역', '우헤르스케흐라디슈테 · 장거리 열차|for Uherské Hradiště · long-distance trains']],
+    bus: [['Uherské Hradiště, autobusové nádraží', '우헤르스케흐라디슈테 버스터미널']],
+  },
+  roznov: {
+    air: [['Ostrava Leoš Janáček (OSR)', '오스트라바 공항 (OSR)', '오스트라바|Ostrava']],
+    rail: [['Rožnov pod Radhoštěm', '로주노프역']],
+    bus: [['Rožnov pod Radhoštěm, autobusové nádraží', '로주노프 버스터미널']],
+  },
+  ostrava: {
+    air: [['Ostrava Leoš Janáček (OSR)', '오스트라바 공항 (OSR)']],
+    rail: [['Ostrava hlavní nádraží', '오스트라바 중앙역'], ['Ostrava-Svinov', '오스트라바 스비노프역']],
+    bus: [['Ostrava, ÚAN', '오스트라바 중앙 버스터미널']],
+  },
+  stramberk: {
+    air: [['Ostrava Leoš Janáček (OSR)', '오스트라바 공항 (OSR)', '오스트라바|Ostrava']],
+    rail: [['Štramberk', '슈트람베르크역']],
+  },
+  opava: {
+    air: [['Ostrava Leoš Janáček (OSR)', '오스트라바 공항 (OSR)', '오스트라바|Ostrava']],
+    rail: [['Opava východ', '오파바 동역']],
+    bus: [['Opava, autobusové nádraží', '오파바 버스터미널']],
+  },
   // —— sk ——
   bratislava: {
     air: [['Bratislava M. R. Štefánik (BTS)', '브라티슬라바 공항 (BTS)'], VIE()],

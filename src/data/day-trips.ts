@@ -860,6 +860,18 @@ export const DAY_TRIPS: Record<string, RawDayTrip[]> = {
       to: 'plzen',
       tip: '기차로 약 1시간 35분. 필스너 우르켈 양조장 투어와 구시가 지하도를 봅니다.|About 1 hr 35 by train: the Pilsner Urquell brewery tour and the old-town underground.',
     },
+    {
+      to: 'melnik-cz',
+      tip: '버스로 약 40분. 성 테라스에서 두 강의 합류를 보고 와인 저장고에서 시음합니다.|About 40 min by bus: the river confluence from the castle terrace and a tasting in the wine cellars.',
+    },
+    {
+      to: 'konopiste',
+      tip: '기차로 베네쇼프까지 약 1시간, 걸어서 성에 가 프란츠 페르디난트의 방과 장미 정원을 봅니다.|About 1 hr by train to Benešov, then a walk to the castle for Franz Ferdinand’s rooms and the rose garden.',
+    },
+    {
+      to: 'terezin',
+      tip: '버스로 약 1시간. 소요새와 게토 박물관을 보며 2차 세계대전의 역사를 돌아봅니다.|About 1 hr by bus: the Small Fortress and the Ghetto Museum, a sobering look at the Second World War.',
+    },
   ],
   'ceske-budejovice': [
     {

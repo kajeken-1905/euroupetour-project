@@ -18260,5 +18260,475 @@
     39.49281,
     26.33441,
     "OSM Nominatim: Behramkale, Çanakkale, Marmara Bölgesi, Türkiye (Wikipedia 600m)"
+  ],
+  "prague-h25": [
+    50.09474,
+    14.41594,
+    "OSM Nominatim: Pražský metronom, Bývalý Stalinův pomník, Bubeneč, Praha 7, "
+  ],
+  "prague-h24": [
+    50.07892,
+    14.43097,
+    "OSM Nominatim: Národní muzeum, 68, Václavské náměstí, Nové Město, obvod Pra"
+  ],
+  "melnik-cz-h1": [
+    50.35083,
+    14.47306,
+    "OSM Nominatim: zámek Mělník, Svatováclavská, Mělník, okres Mělník, Středoče"
+  ],
+  "melnik-cz-h4": [
+    50.352,
+    14.4747,
+    "OSM Nominatim: náměstí Míru, Mělník, okres Mělník, Středočeský kraj, Česko"
+  ],
+  "konopiste-h1": [
+    49.77958,
+    14.6561,
+    "OSM Nominatim: zámek Konopiště, 10614, Konopiště, Benešov, okres Benešov, S (Wikipedia 43m)"
+  ],
+  "konopiste-h2": [
+    49.77727,
+    14.65873,
+    "OSM Nominatim: Rosarium, Konopiště, Benešov, okres Benešov, Středočeský kra"
+  ],
+  "konopiste-h3": [
+    49.87775,
+    14.89732,
+    "OSM Nominatim: Sázavský klášter, Uhlířskojanovická, Černé Budy, Sázava, okr (Wikipedia 191m)"
+  ],
+  "pardubice-h1": [
+    50.03801,
+    15.77793,
+    "OSM Nominatim: Zelená brána, Zelenobranská, Karlovina, Staré Město, Pardubi"
+  ],
+  "pardubice-h2": [
+    50.04086,
+    15.77674,
+    "OSM Nominatim: zámek Pardubice, Zámek, Pardubice I, Pardubice, okres Pardub (Wikipedia 305m)"
+  ],
+  "pardubice-h3": [
+    50.08013,
+    15.81233,
+    "OSM Nominatim: Hrad Kunětická Hora, 2985, Ráby, okres Pardubice, Pardubický (Wikipedia 35m)"
+  ],
+  "pardubice-h4": [
+    50.07838,
+    15.80663,
+    "OSM Nominatim: Perníková chaloupka, 2985, Ráby, okres Pardubice, Pardubický"
+  ],
+  "slavkov-h1": [
+    49.15483,
+    16.87453,
+    "OSM Nominatim: Zámek Slavkov, 1, Palackého náměstí, Slavkov u Brna, okres V (Wikipedia 23m)"
+  ],
+  "slavkov-h2": [
+    49.12814,
+    16.76244,
+    "OSM Nominatim: Mohyla míru, 4176, Prace, okres Brno-venkov, Jihomoravský kr (Wikipedia 11m)"
+  ],
+  "slavkov-h3": [
+    49.18854,
+    16.76388,
+    "OSM Nominatim: Santon, Tvarožná, okres Brno-venkov, Jihomoravský kraj, Česk"
+  ],
+  "pernstejn-h1": [
+    49.45086,
+    16.31837,
+    "OSM Nominatim: Pernštejn, Kamenice, Pernštejn, Nedvědice, okres Brno-venkov (Wikipedia 4m)"
+  ],
+  "pernstejn-h2": [
+    49.35301,
+    16.40044,
+    "OSM Nominatim: Porta coeli, Předklášteří, okres Brno-venkov, Jihomoravský k"
+  ],
+  "trebic-h2": [
+    49.21776,
+    15.87935,
+    "OSM Nominatim: Zadní synagoga, Blahoslavova, Zámostí, Třebíč, okres Třebíč,"
+  ],
+  "trebic-h4": [
+    49.21999,
+    15.87979,
+    "OSM Nominatim: Židovský hřbitov, Zámostí, Třebíč, okres Třebíč, Kraj Vysoči"
+  ],
+  "zdar-h2": [
+    49.58317,
+    15.93759,
+    "OSM Nominatim: Zámek Žďár nad Sázavou, Santiniho, Žďár nad Sázavou 2, Žďár "
+  ],
+  "sumava-h1": [
+    48.65267,
+    14.23065,
+    "OSM Nominatim: Stezka korunami stromů Lipno, Stezka korunami stomů Lipno, S"
+  ],
+  "sumava-h2": [
+    48.63874,
+    14.22959,
+    "OSM Nominatim: Lipno nad Vltavou, okres Český Krumlov, Jihočeský kraj, 382 "
+  ],
+  "sumava-h3": [
+    48.6216,
+    14.30503,
+    "OSM Nominatim: Klášter, Vyšší Brod, okres Český Krumlov, Jihočeský kraj, 38 (Wikipedia 167m)"
+  ],
+  "marianske-lazne-h1": [
+    49.97842,
+    12.70635,
+    "OSM Nominatim: Kolonáda, Mariánské Lázně, okres Cheb, Karlovarský kraj, 353"
+  ],
+  "marianske-lazne-h2": [
+    49.9781,
+    12.70672,
+    "OSM Nominatim: Křížový pramen, Masarykova, Mariánské Lázně, okres Cheb, Kar"
+  ],
+  "marianske-lazne-h3": [
+    49.97125,
+    12.72009,
+    "OSM Nominatim: Boheminium, Vančurova stezka, Mariánské Lázně, okres Cheb, K"
+  ],
+  "marianske-lazne-h4": [
+    49.96771,
+    12.89096,
+    "OSM Nominatim: Klášter Teplá, Teplá, okres Cheb, Karlovarský kraj, Česko"
+  ],
+  "cheb-h1": [
+    50.07978,
+    12.37009,
+    "OSM Nominatim: Špalíček, Pelhřimov, Cheb, okres Cheb, Karlovarský kraj, Čes"
+  ],
+  "cheb-h2": [
+    50.08125,
+    12.36609,
+    "OSM Nominatim: Chebský hrad, Křižovnická, Cheb, okres Cheb, Karlovarský kra"
+  ],
+  "cheb-h4": [
+    50.12237,
+    12.34885,
+    "OSM Nominatim: Františkovy Lázně, okres Cheb, Karlovarský kraj, 351 01, Čes (Wikipedia 299m)"
+  ],
+  "terezin-h1": [
+    50.51382,
+    14.16701,
+    "OSM Nominatim: Malá pevnost, Pražská, Terezín, okres Litoměřice, Ústecký kr (Wikipedia 707m)"
+  ],
+  "terezin-h2": [
+    50.51182,
+    14.14958,
+    "OSM Nominatim: Muzeum Ghetta, 148, Komenského, Terezín, okres Litoměřice, Ú"
+  ],
+  "terezin-h3": [
+    50.50862,
+    14.15196,
+    "OSM Nominatim: Magdeburská kasárna, Tyršova, Terezín, okres Litoměřice, Úst"
+  ],
+  "terezin-h4": [
+    50.5342,
+    14.13153,
+    "OSM Nominatim: Mírové náměstí, Litoměřice-Město, Litoměřice, okres Litoměři"
+  ],
+  "liberec-h1": [
+    50.73277,
+    14.98392,
+    "OSM Nominatim: Ještěd, Liberec, okres Liberec, Liberecký kraj, 463 51, Česk (Wikipedia 114m)"
+  ],
+  "liberec-h4": [
+    50.77744,
+    15.07802,
+    "OSM Nominatim: ZOO, Riegrova, Staré Město, Starý Harcov, nečleněný Liberec, (Wikipedia 183m)"
+  ],
+  "hradec-kralove-h1": [
+    50.209,
+    15.83079,
+    "OSM Nominatim: Bílá Věž, Franušova, Hradec Králové-historické jádro, Střed "
+  ],
+  "hradec-kralove-h3": [
+    50.21292,
+    15.83451,
+    "OSM Nominatim: Muzeum východních Čech, Šimkova, Za Lázněmi, Střed města, Vě"
+  ],
+  "hradec-kralove-h4": [
+    50.21151,
+    15.82545,
+    "OSM Nominatim: Masarykovo náměstí, Za Lázněmi, Střed města, Pražské Předměs"
+  ],
+  "kuks-h1": [
+    50.39777,
+    15.89031,
+    "OSM Nominatim: hospitál Kuks, 29922, Kuks, okres Trutnov, Královéhradecký k"
+  ],
+  "kuks-h4": [
+    50.39826,
+    15.85088,
+    "OSM Nominatim: Braunův Betlém, NS Kuks - Betlém, Stanovice, okres Trutnov, "
+  ],
+  "adrspach-h2": [
+    50.61061,
+    16.13874,
+    "OSM Nominatim: Černé jezírko, Adršpach, okres Náchod, Královéhradecký kraj,"
+  ],
+  "adrspach-h3": [
+    50.59548,
+    16.14838,
+    "OSM Nominatim: Teplické skály, Nerudova, Horní Teplice, Teplice nad Metují,"
+  ],
+  "adrspach-h4": [
+    50.58652,
+    16.33388,
+    "OSM Nominatim: klášter Broumov, Klášterní, Poříčí, Broumov, okres Náchod, K"
+  ],
+  "krkonose-h1": [
+    50.73603,
+    15.73961,
+    "OSM Nominatim: Śnieżka / Sněžka, Karpacz, powiat karkonoski, województwo do (Wikipedia 48m)"
+  ],
+  "krkonose-h2": [
+    50.7757,
+    15.53614,
+    "OSM Nominatim: Pramen Labe, Bucharova cesta, Špindlerův Mlýn, okres Trutnov"
+  ],
+  "krkonose-h3": [
+    50.72564,
+    15.60676,
+    "OSM Nominatim: Špindlerův Mlýn, okres Trutnov, Královéhradecký kraj, 543 51 (Wikipedia 118m)"
+  ],
+  "krkonose-h4": [
+    50.63109,
+    15.75764,
+    "OSM Nominatim: Stezka korunami stromů Krkonoše, Stezka korunami stromů, Jan"
+  ],
+  "tabor-h1": [
+    49.4141,
+    14.65869,
+    "OSM Nominatim: Žižkovo náměstí, Čelkovice, Tábor, okres Tábor, Jihočeský kr"
+  ],
+  "tabor-h2": [
+    49.414,
+    14.65561,
+    "OSM Nominatim: Husitské muzeum, 44, nám. Mikuláše z Husi, Čelkovice, Tábor,"
+  ],
+  "tabor-h3": [
+    49.41148,
+    14.65579,
+    "OSM Nominatim: Kotnov, Klokotská, Čelkovice, Tábor, okres Tábor, Jihočeský "
+  ],
+  "trebon-h1": [
+    49.00331,
+    14.76972,
+    "OSM Nominatim: zámek Třeboň, Zámek, Třeboň Ⅰ, Třeboň, okres Jindřichův Hrad"
+  ],
+  "trebon-h2": [
+    48.99387,
+    14.74797,
+    "OSM Nominatim: Svět, Břilice, Třeboň, okres Jindřichův Hradec, Jihočeský kr"
+  ],
+  "trebon-h4": [
+    49.00243,
+    14.77223,
+    "OSM Nominatim: Pivovar Regent, 124, Trocnovské nám., Třeboň Ⅰ, Třeboň, okre"
+  ],
+  "jindrichuv-hradec-h2": [
+    49.14365,
+    15.01194,
+    "OSM Nominatim: Vajgar, Jindřichův Hradec I, Jindřichův Hradec, okres Jindři"
+  ],
+  "jindrichuv-hradec-h3": [
+    49.14351,
+    15.00043,
+    "OSM Nominatim: Muzeum Jindřichohradecka, Balbínovo nám., Sídliště U Nádraží"
+  ],
+  "slavonice-h1": [
+    48.99754,
+    15.35265,
+    "OSM Nominatim: Slavonice, Horní náměstí, Slavonice, okres Jindřichův Hradec"
+  ],
+  "slavonice-h2": [
+    48.99791,
+    15.35147,
+    "OSM Nominatim: Slavonické podzemí, náměstí Míru, Slavonice, okres Jindřichů"
+  ],
+  "jeseniky-h1": [
+    50.08324,
+    17.23087,
+    "OSM Nominatim: Praděd, Malá Morávka, okres Bruntál, Moravskoslezský kraj, Č (Wikipedia 176m)"
+  ],
+  "jeseniky-h2": [
+    50.24157,
+    17.18839,
+    "OSM Nominatim: Lázně Jeseník (kon. bus), Priessnitzova, Jeseník, okres Jese"
+  ],
+  "jeseniky-h3": [
+    50.02964,
+    17.03817,
+    "OSM Nominatim: Ruční papírna Velké Losiny, Rudé armády, Velké Losiny, okres"
+  ],
+  "jeseniky-h4": [
+    50.21456,
+    17.30144,
+    "OSM Nominatim: Rejvíz, Zlaté Hory, okres Jeseník, Olomoucký kraj, Česko"
+  ],
+  "kromeriz-h4": [
+    49.29872,
+    17.39321,
+    "OSM Nominatim: Velké náměstí, Kroměříž, okres Kroměříž, Zlínský kraj, 767 0"
+  ],
+  "zlin-h1": [
+    49.22306,
+    17.65858,
+    "OSM Nominatim: Baťův mrakodrap, 21, třída Tomáše Bati, Zlín - centrum, Mlad"
+  ],
+  "zlin-h2": [
+    49.22503,
+    17.65881,
+    "OSM Nominatim: 14-15 Baťův institut, Trávník, Zlín - centrum, Mladcová, Zlí"
+  ],
+  "zlin-h3": [
+    49.2191,
+    17.66577,
+    "OSM Nominatim: Památník Tomáše Bati, nám. T. G. Masaryka, Zlín - centrum, K"
+  ],
+  "zlin-h4": [
+    49.27614,
+    17.71809,
+    "OSM Nominatim: ZOO Zlín - Lešná, 4915, Štípa, Kostelec, Zlín, okres Zlín, Z"
+  ],
+  "ostrava-h1": [
+    49.81949,
+    18.27995,
+    "OSM Nominatim: Dolní oblast Vítkovice, Ruská, Vítkovice, Ostrava, okres Ost"
+  ],
+  "ostrava-h2": [
+    49.84165,
+    18.29161,
+    "OSM Nominatim: Nová radnice, Prokešovo náměstí, Přívoz, Moravská Ostrava a "
+  ],
+  "ostrava-h3": [
+    49.84247,
+    18.34455,
+    "OSM Nominatim: Důl Michal, Kasalického, Michálkovice, Ostrava, okres Ostrav (Wikipedia 284m)"
+  ],
+  "ostrava-h4": [
+    49.86659,
+    18.26298,
+    "OSM Nominatim: Camp Landek Park, Pod Landekem, Petřkovice, Ostrava, okres O"
+  ],
+  "stramberk-h1": [
+    49.59236,
+    18.11625,
+    "OSM Nominatim: Štramberská trúba, Jaroňkova, Štramberk, okres Nový Jičín, M"
+  ],
+  "stramberk-h2": [
+    49.59145,
+    18.11762,
+    "OSM Nominatim: Náměstí, Štramberk, okres Nový Jičín, Moravskoslezský kraj, "
+  ],
+  "stramberk-h3": [
+    49.58766,
+    18.1189,
+    "OSM Nominatim: Jeskyně Šipka, Dolní, Štramberk, okres Nový Jičín, Moravskos (Wikipedia 27m)"
+  ],
+  "stramberk-h4": [
+    49.59412,
+    18.14762,
+    "OSM Nominatim: Technické muzeum nákladních vozidel, Husova, Tatra Kopřivnic"
+  ],
+  "opava-h1": [
+    49.93738,
+    17.9083,
+    "OSM Nominatim: Slezské zemské muzeum Opava, 419/10, Komenského, Město, nečl"
+  ],
+  "opava-h2": [
+    49.93874,
+    17.90069,
+    "OSM Nominatim: Nanebevzetí Panny Marie (konkatedrála), Rybí trh, Město, neč"
+  ],
+  "opava-h3": [
+    49.86396,
+    17.87411,
+    "OSM Nominatim: Zámek Hradec nad Moravicí, 1, Městečko, Kajlovec, Hradec nad"
+  ],
+  "luhacovice-h1": [
+    49.10658,
+    17.76163,
+    "OSM Nominatim: Jurkovičův dům, 109, Lázeňské náměstí, Luhačovice, okres Zlí"
+  ],
+  "luhacovice-h2": [
+    49.10739,
+    17.763,
+    "OSM Nominatim: Vincentka, Lázeňské náměstí, Luhačovice, okres Zlín, Zlínský"
+  ],
+  "luhacovice-h3": [
+    49.10834,
+    17.76354,
+    "OSM Nominatim: Lázeňské náměstí, Luhačovice, okres Zlín, Zlínský kraj, 763 "
+  ],
+  "velehrad-h1": [
+    49.10351,
+    17.3955,
+    "OSM Nominatim: Bazilika Nanebevzetí Panny Marie, Nádvoří, Velehrad, okres U"
+  ],
+  "velehrad-h2": [
+    49.10323,
+    17.40676,
+    "OSM Nominatim: Archeoskanzen Modrá, 42826, Modrá, okres Uherské Hradiště, Z"
+  ],
+  "velehrad-h3": [
+    49.06733,
+    17.46782,
+    "OSM Nominatim: Slovácké muzeum, 179, Uherské Hradiště, okres Uherské Hradiš"
+  ],
+  "velehrad-h4": [
+    49.10733,
+    17.31101,
+    "OSM Nominatim: Buchlov, Polesí, Buchlovice, okres Uherské Hradiště, Zlínský"
+  ],
+  "roznov-h1": [
+    49.46157,
+    18.14962,
+    "OSM Nominatim: Valašské muzeum v přírodě, 147, Palackého, sídliště Záhumení"
+  ],
+  "roznov-h2": [
+    49.48961,
+    18.26515,
+    "OSM Nominatim: Pustevny, Prostřední Bečva, okres Vsetín, Zlínský kraj, 742 "
+  ],
+  "roznov-h3": [
+    49.49106,
+    18.26686,
+    "OSM Nominatim: Běžecký areál Pustevny, Stezka Valaška, Trojanovice, okres N"
+  ],
+  "melnik-cz-h3": [
+    50.35039,
+    14.47373,
+    "OSM Nominatim: svatý Petr a Pavel, Svatováclavská, Mělník, okres Mělník, St"
+  ],
+  "trebic-h1": [
+    49.2177,
+    15.87983,
+    "OSM Nominatim: Zámostí, Třebíč, okres Třebíč, Kraj Vysočina, 674 01, Česko (Wikipedia 86m)"
+  ],
+  "zdar-h1": [
+    49.58035,
+    15.94196,
+    "OSM Nominatim: Zelená hora, Žďár nad Sázavou 2, Žďár nad Sázavou, okres Žďá (Wikipedia 19m)"
+  ],
+  "liberec-h2": [
+    50.76906,
+    15.05776,
+    "OSM Nominatim: Papírnictví u radnice, náměstí doktora Edvarda Beneše, Liber (Wikipedia 84m)"
+  ],
+  "hradec-kralove-h2": [
+    50.20877,
+    15.83101,
+    "OSM Nominatim: Katedrála Svatého Ducha, Velké náměstí, Hradec Králové-histo"
+  ],
+  "adrspach-h1": [
+    50.61522,
+    16.12293,
+    "OSM Nominatim: Adršpašské skály, 30110, Havraní město, Adršpach, okres Nách (Wikipedia 703m)"
+  ],
+  "jindrichuv-hradec-h1": [
+    49.14244,
+    15.00031,
+    "OSM Nominatim: Hrad a Zámek Jindřichův Hradec, Dobrovského, Jindřichův Hrad (Wikipedia 277m)"
   ]
 }

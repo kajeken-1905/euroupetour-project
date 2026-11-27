@@ -6210,3 +6210,127 @@ highlights/assos-2.jpg | https://commons.wikimedia.org/wiki/File:Bursa,_H%C3%BCd
 highlights/kalkan-1.jpg | https://www.flickr.com/photos/124187379@N07/14286559261 | BY-SA 2.0 | SimplyOwners
 highlights/rize-1.jpg | https://commons.wikimedia.org/wiki/File:53270_Buzlup%C4%B1nar-%C3%87ayeli-Rize,_Turkey_-_panoramio_(1).jpg | CC BY 3.0 | Koliva
 highlights/kayseri-2.jpg | https://commons.wikimedia.org/wiki/File:Gevher_Nesibe_Medrese_(Cifte_Medrese)_DSCF1157.jpg | CC BY-SA 4.0 | R Prazeres
+cities/melnik-cz.jpg | https://commons.wikimedia.org/wiki/File:%C3%9A%C5%BEice,_M%C4%9Bln%C3%ADk,_east_view.jpg | CC BY-SA 3.0 | This file is available under Creative Commons BY-SA license.
+highlights/melnik-cz-1.jpg | https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk-z%C3%A1mek-z-Ho%C5%99%C3%ADna2017.jpg | CC BY-SA 4.0 | Ben Skála, Benfoto
+highlights/melnik-cz-2.jpg | https://commons.wikimedia.org/wiki/File:Mtskheta_located_at_the_confluence_of_two_rivers_(29932546290).jpg | CC BY 2.0 | shankar s. from Dubai, united arab emirates
+highlights/melnik-cz-3.jpg | https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk_kostel_sv._Petra_a_Pavla_zezadu.JPG | CC BY-SA 4.0 | VitVit
+highlights/melnik-cz-4.jpg | https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru_(Svitavy).jpg | Public domain | Mr Hyde at Czech Wikipedia
+cities/konopiste.jpg | https://commons.wikimedia.org/wiki/File:Konopi%C5%A1t%C4%9B,_2021_(73).jpg | CC BY-SA 4.0 | Draceane
+highlights/konopiste-1.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Konopi%C5%A1t%C4%9B_07.JPG | CC BY-SA 4.0 | Ondřej Kořínek
+highlights/konopiste-2.jpg | https://commons.wikimedia.org/wiki/File:Rose_Garden_-_Hever_Castle_-_geograph.org.uk_-_3530840.jpg | CC BY-SA 2.0 | Paul Gillett
+highlights/konopiste-3.jpg | https://commons.wikimedia.org/wiki/File:Aerial_view_of_S%C3%A1zava_Monastery_2019_05.jpg | CC BY-SA 4.0 | VargaA
+cities/tabor.jpg | https://commons.wikimedia.org/wiki/File:Tabor_CZ_aerial_old_town_from_north_B1.jpg | Public domain | Rudolf Kukačka=cs:User:Táborák=commons:User:Ruda
+highlights/tabor-1.jpg | https://commons.wikimedia.org/wiki/File:T%C3%A1bor_n%C3%A1m%C4%9Bst%C3%AD_ka%C5%A1na_3.jpg | CC BY-SA 4.0 | VitVit
+highlights/tabor-2.jpg | https://commons.wikimedia.org/wiki/File:Radnice_-_Husitsk%C3%A9_muzeum_-_T%C3%A1bor.JPG | CC BY-SA 4.0 | Pohled 111
+highlights/tabor-3.jpg | https://commons.wikimedia.org/wiki/File:Hrad_Kotnov.jpg | CC BY-SA 3.0 | Honzasoukup
+cities/trebon.jpg | https://commons.wikimedia.org/wiki/File:379_01_T%C5%99ebo%C5%88,_Czech_Republic_-_panoramio_(1).jpg | CC BY-SA 3.0 | Jan Muller
+highlights/trebon-1.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_T%C5%99ebo%C5%88,_T%C5%99ebo%C5%88_111.JPG | CC BY-SA 3.0 | Kralpilot
+highlights/trebon-2.jpg | https://commons.wikimedia.org/wiki/File:Rybn%C3%ADk_Sv%C4%9Bt_(T%C5%99ebo%C5%88)_11.jpg | CC BY-SA 4.0 | Pohled 111
+highlights/trebon-3.jpg | https://commons.wikimedia.org/wiki/File:T%C5%99ebo%C5%88,_Masarykovo_n%C3%A1m%C4%9Bst%C3%AD_(2).jpg | CC BY-SA 4.0 | Palickap
+highlights/trebon-4.jpg | https://commons.wikimedia.org/wiki/File:T%C5%99ebo%C5%88_-_Pivovar_Regent_-_View_ENE.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+cities/jindrichuv-hradec.jpg | https://commons.wikimedia.org/wiki/File:Jindrichuv_hradec_2.jpg | CC BY 2.5 | Herbert Ortner, Vienna, Austria
+highlights/jindrichuv-hradec-1.jpg | https://commons.wikimedia.org/wiki/File:St%C3%A1tn%C3%AD_hrad_a_z%C3%A1mek_Jind%C5%99ich%C5%AFv_Hradec.jpg | CC BY-SA 4.0 | Fotografka Marťa
+highlights/jindrichuv-hradec-2.jpg | https://commons.wikimedia.org/wiki/File:JHradec,_Vajgar_as_seen_from_n%C3%A1b%C5%99e%C5%BE%C3%AD_Ladislava_Stehny_01.jpg | CC BY-SA 4.0 | Czeva
+highlights/jindrichuv-hradec-3.jpg | https://commons.wikimedia.org/wiki/File:Muzeum_Jind%C5%99ichohradecka,_pharmacy_01.jpg | CC BY-SA 4.0 | Czeva
+highlights/jindrichuv-hradec-4.jpg | https://commons.wikimedia.org/wiki/File:Train_by_the_Durango_and_Silverton_Narrow_Gauge_Railroad.jpg | CC BY 3.0 | Michael Gäbler
+cities/slavonice.jpg | https://commons.wikimedia.org/wiki/File:Slavonice_-_Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_-_Fisheye_ICE.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/slavonice-1.jpg | https://commons.wikimedia.org/wiki/File:Slavonice_-_Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_-_Renaissance_-_ICE_Fisheye.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/slavonice-2.jpg | https://commons.wikimedia.org/wiki/File:Slavonice,_podzem%C3%AD_domu_%C4%8Dp._452..JPG | CC BY-SA 4.0 | H2k4
+highlights/slavonice-3.jpg | https://commons.wikimedia.org/wiki/File:Slavonice,_kostel_Nanebevzet%C3%AD_Panny_Marie_01.jpg | CC BY-SA 3.0 | Daniel Baránek
+cities/sumava.jpg | https://commons.wikimedia.org/wiki/File:Lipno_2023_25.jpg | CC BY-SA 4.0 | Scotch Mist
+highlights/sumava-1.jpg | https://commons.wikimedia.org/wiki/File:Stezka_korunami_strom%C5%AF._Lipno_nad_Vltavou._(7.).jpg | CC BY-SA 3.0 | Richenza
+highlights/sumava-2.jpg | https://commons.wikimedia.org/wiki/File:Lipno_nad_Vltavou_(47612326281).jpg | CC BY-SA 2.0 | দেবর্ষি রায় from Brno, Czech Republic
+highlights/sumava-3.jpg | https://commons.wikimedia.org/wiki/File:Vy%C5%A1%C5%A1%C3%AD_Brod_kl%C3%A1%C5%A1ter,_n%C3%A1dra%C5%BE%C3%AD,_z_ulice.jpg | CC BY-SA 3.0 | cs:ŠJů
+highlights/sumava-4.jpg | https://commons.wikimedia.org/wiki/File:Landscape_of_%C5%A0umava_06.jpg | CC BY-SA 4.0 | Martassino
+cities/marianske-lazne.jpg | https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B,_Goethovo_n%C3%A1m%C4%9Bst%C3%AD_2020.jpg | CC BY-SA 4.0 | Tadeáš Bednarz
+highlights/marianske-lazne-1.jpg | https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B-kolon%C3%A1da-zp%C3%ADvaj%C3%ADc%C3%AD_font%C3%A1na.JPG | CC BY-SA 4.0 | Ajemmirek
+highlights/marianske-lazne-2.jpg | https://commons.wikimedia.org/wiki/File:K%C5%99%C3%AD%C5%BEov%C3%BD_pramen_-_panoramio.jpg | CC BY 3.0 | Mister No
+highlights/marianske-lazne-3.jpg | https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_hrad_a_z%C3%A1mek_Be%C4%8Dov.jpg | CC BY-SA 4.0 | Lubor Ferenc
+highlights/marianske-lazne-4.jpg | https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1ter_Tepl%C3%A1_celek_3a.jpg | CC BY-SA 4.0 | VitVit
+highlights/cheb-1.jpg | https://commons.wikimedia.org/wiki/File:Cheb_Eger_Marktplatz-0156.jpg | CC BY-SA 4.0 | Isiwal
+highlights/cheb-2.jpg | https://commons.wikimedia.org/wiki/File:Cheb_Castle,_view_from_west.jpg | CC BY-SA 4.0 | Jan Macura
+cities/liberec.jpg | https://commons.wikimedia.org/wiki/File:Liberec_-_widok_og%C3%B3lny.jpg | CC BY 4.0 | Szymon Staniec
+highlights/liberec-1.jpg | https://commons.wikimedia.org/wiki/File:Jested.jpg | CC BY-SA 3.0 | Bernd Gutte
+highlights/liberec-2.jpg | https://commons.wikimedia.org/wiki/File:Liberec_Town_Hall_3.jpg | CC BY-SA 4.0 | NeoMeesje
+highlights/liberec-3.jpg | https://commons.wikimedia.org/wiki/File:Liberec_IQLandia_2.jpg | CC BY-SA 4.0 | VitVit
+highlights/liberec-4.jpg | https://commons.wikimedia.org/wiki/File:Down_part_of_Liberec_Zoo_in_Liberec,_Liberec_District.jpg | CC BY-SA 3.0 | Frettie - Jiří Sedláček
+cities/hradec-kralove.jpg | https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_(K%C3%B6niggr%C3%A4tz)_-_Velk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg | CC BY-SA 4.0 | Pudelek
+highlights/hradec-kralove-1.jpg | https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9,_de_B%C3%ADl%C3%A1_v%C4%9B%C5%BE_en_het_stadhuis_Dm406206-368_IMG_6854_2018-08-06_09.46.jpg | CC BY-SA 4.0 | Michielverbeek
+highlights/hradec-kralove-2.jpg | https://commons.wikimedia.org/wiki/File:Katedrala_sv._Ducha_Hradec_Kralove_%E2%80%93_letecky_pohled.jpg | CC BY-SA 4.0 | Frydolin (Prosím v případě využití fotografie mimo projekty
+highlights/hradec-kralove-3.jpg | https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_(K%C3%B6niggr%C3%A4tz)_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_v_noci.JPG | CC BY-SA 4.0 | Pudelek
+highlights/hradec-kralove-4.jpg | https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9,_Masarykovo_n%C3%A1m%C4%9Bst%C3%AD_jih.JPG | CC BY-SA 4.0 | Palickap
+cities/kuks.jpg | https://commons.wikimedia.org/wiki/File:Kuks_train_stop_01.JPG | CC BY-SA 4.0 | PetrS.
+highlights/kuks-1.jpg | https://commons.wikimedia.org/wiki/File:Kuks-Hospital-Garten-1.jpg | CC BY 4.0 | SchiDD
+highlights/kuks-2.jpg | https://commons.wikimedia.org/wiki/File:Braunovy_sochy_na_Kuksu_(05).jpg | CC BY 3.0 | Dezidor
+highlights/kuks-3.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A9k%C3%A1rna_Kuks_(1)_01.jpg | CC BY-SA 4.0 | Marie Čcheidzeová
+highlights/kuks-4.jpg | https://commons.wikimedia.org/wiki/File:Betl%C3%A9m_(Kuks)_(015).jpg | CC BY-SA 3.0 | Art Jarka
+cities/adrspach.jpg | https://commons.wikimedia.org/wiki/File:Adr%C5%A1pa%C5%A1sk%C3%A9_skaly_-_panoramio.jpg | CC BY 3.0 | Michal Jakubský
+highlights/adrspach-1.jpg | https://commons.wikimedia.org/wiki/File:Adrspach_Teplice_-_The_Suburbs_of_Rock_Town_-_panoramio.jpg | CC BY 3.0 | Adrian Farwell
+highlights/adrspach-2.jpg | https://commons.wikimedia.org/wiki/File:Adr%C5%A1pach_p%C3%ADskovcov%C3%A9_jez%C3%ADrko.jpg | CC BY-SA 4.0 | Meescha
+highlights/adrspach-3.jpg | https://commons.wikimedia.org/wiki/File:Teplick%C3%A9_skaln%C3%AD_m%C4%9Bsto_(Wekelsdorfer_Felsen)_-_Martinsk%C3%A9_st%C4%9Bny.jpg | CC BY-SA 3.0 | Pudelek
+highlights/adrspach-4.jpg | https://commons.wikimedia.org/wiki/File:Broumov,_kl%C3%A1%C5%A1ter,_2017_(01).jpg | CC BY-SA 4.0 | Draceane
+cities/krkonose.jpg | https://commons.wikimedia.org/wiki/File:Krkonose_Karkonosze_Biosphere_Reserve,_Czech_Republic_Poland_(21).jpg | CC BY-SA 4.0 | Sebastian Mierzwa
+highlights/krkonose-1.jpg | https://commons.wikimedia.org/wiki/File:%C5%9Anie%C5%BCka_(Sn%C4%9B%C5%BEka,_Schneekoppe)_-_view_from_S%C5%82onecznik_(Mittagstein,_Poledn%C3%AD_k%C3%A1men).jpg | CC BY-SA 4.0 | Pudelek
+highlights/krkonose-2.jpg | https://commons.wikimedia.org/wiki/File:Pramen_Labe.jpg | CC BY-SA 3.0 | cs:ŠJů
+highlights/krkonose-3.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0pindler%C5%AFv_Ml%C3%BDn,_horn%C3%AD_most_(02).jpg | CC BY-SA 3.0 | cs:ŠJů
+highlights/krkonose-4.jpg | https://commons.wikimedia.org/wiki/File:Stezka_korunami_strom%C5%AF_Krkono%C5%A1e.jpg | CC BY-SA 4.0 | Adam Rubáček
+cities/pardubice.jpg | https://commons.wikimedia.org/wiki/File:Pardubice_-_Z%C3%A1mek_Pardubice_-_Ramparts_View_SE_-_Renaissance_architecture.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/pardubice-1.jpg | https://commons.wikimedia.org/wiki/File:Pardubice,_%C5%A0koda_32Tr_SOR_%C4%8D._464_Zelen%C3%A1_br%C3%A1na.jpg | CC BY-SA 4.0 | Oleksandr Dede
+highlights/pardubice-2.jpg | https://commons.wikimedia.org/wiki/File:Pardubice_-_Z%C3%A1mek_Pardubice_-_Ramparts_View_SE_-_Renaissance_architecture.jpg | CC BY-SA 4.0 | Txllxt TxllxT
+highlights/pardubice-3.jpg | https://commons.wikimedia.org/wiki/File:Kun%C4%9Btick%C3%A1_hora_-_pohled_ze_severoz%C3%A1padu.JPG | Public domain | Czech Wikipedia user Marzper
+highlights/pardubice-4.jpg | https://commons.wikimedia.org/wiki/File:2017_Pern%C3%ADkov%C3%A1_chaloupka_Kuneticka_Hora.jpg | CC BY 4.0 | Jannis Raabe
+cities/trebic.jpg | https://commons.wikimedia.org/wiki/File:Trebic_vnitrni_mesto.jpg | CC BY-SA 3.0 | Nostrifikator
+highlights/trebic-1.jpg | https://commons.wikimedia.org/wiki/File:T%C5%99eb%C3%AD%C4%8D,_%C5%BEidovsk%C3%A1_%C4%8Dtvr%C5%A5_p%C5%99es_%C5%99eku_Jihlavu_01.jpg | CC BY-SA 3.0 | Czeva
+highlights/trebic-2.jpg | https://commons.wikimedia.org/wiki/File:T%C5%99eb%C3%AD%C4%8D,_Zadn%C3%AD_synagoga,_interi%C3%A9r_(07).jpg | CC BY-SA 4.0 | Palickap
+highlights/trebic-3.jpg | https://commons.wikimedia.org/wiki/File:T%C5%99eb%C3%AD%C4%8D,_bazilika_sv._Prokopa_od_z%C3%A1padu_01.jpg | CC BY-SA 3.0 | Czeva
+highlights/trebic-4.jpg | https://commons.wikimedia.org/wiki/File:Police_(okres_T%C5%99eb%C3%AD%C4%8D)_-_%C5%BEidovsk%C3%BD_h%C5%99bitov_(3).JPG | CC BY-SA 4.0 | MartinVeselka
+cities/zdar.jpg | https://commons.wikimedia.org/wiki/File:%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_(Saar)_-_Doln%C3%AD_h%C5%99bitov_(Pestfriedhof)_2.JPG | CC BY-SA 4.0 | Pudelek (Marcin Szala)
+highlights/zdar-1.jpg | https://commons.wikimedia.org/wiki/File:Pilgrimage_Church-Zelena_Hora(js).jpg | CC BY-SA 3.0 | Jerzy Strzelecki
+highlights/zdar-2.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_s_are%C3%A1lem_%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_2007-04_(01).JPG | CC BY-SA 3.0 | Maxx
+highlights/zdar-3.jpg | https://commons.wikimedia.org/wiki/File:Kloster_bzw_Schloss_Z%C4%8F%C3%A1r_nad_S%C3%A1zavou_(41437253711).jpg | CC BY 2.0 | Herbert Frank from Wien (Vienna), AT
+cities/slavkov.jpg | https://commons.wikimedia.org/wiki/File:Slavkov_u_Brna,_Husova_(1).jpg | CC BY-SA 4.0 | Palickap
+highlights/slavkov-1.jpg | https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Slavkov_u_Brna_-_n%C3%A1dvo%C5%99%C3%AD_2.jpg | CC BY-SA 3.0 | Martin Strachoň
+highlights/slavkov-2.jpg | https://commons.wikimedia.org/wiki/File:Prateck%C3%BD_kopec,_Mohyla_m%C3%ADru_(7380b).jpg | CC BY-SA 4.0 | Martin Strachoň
+highlights/slavkov-3.jpg | https://commons.wikimedia.org/wiki/File:Santon_hill.jpg | CC BY-SA 3.0 | For use outside of Wikimedia projects, you have to credit al
+cities/pernstejn.jpg | https://commons.wikimedia.org/wiki/File:Hrad_Pern%C5%A1tejn_(Pernstein)_by_Pudelek_05.JPG | CC BY-SA 4.0 | Pudelek
+highlights/pernstejn-1.jpg | https://commons.wikimedia.org/wiki/File:Hrad_Pern%C5%A1tejn_(Pernstein)_-_by_Pudelek_4.JPG | CC BY-SA 4.0 | Pudelek
+highlights/pernstejn-2.jpg | https://commons.wikimedia.org/wiki/File:Porta_Coeli_Monastery_(by_Pudelek).JPG | CC BY-SA 4.0 | Pudelek
+cities/jeseniky.jpg | https://commons.wikimedia.org/wiki/File:Pohled_na_m%C4%9Bsto_Jesen%C3%ADk.jpg | CC BY-SA 4.0 | Jan Mrosek
+highlights/jeseniky-1.jpg | https://commons.wikimedia.org/wiki/File:Zasn%C4%9B%C5%BEen%C3%BD_Prad%C4%9Bd.jpg | CC BY-SA 4.0 | Lenka Kinclová
+highlights/jeseniky-2.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A1zn%C4%9B_Jesen%C3%ADk_(Bad_Gr%C3%A4fenberg)_-_Hotel_Priessnitz.jpg | CC BY-SA 3.0 | Pudelek (Marcin Szala)
+highlights/jeseniky-3.jpg | https://commons.wikimedia.org/wiki/File:Velk%C3%A9_Losiny,_pap%C3%ADrna.jpg | CC BY-SA 4.0 | Aktron
+highlights/jeseniky-4.jpg | https://commons.wikimedia.org/wiki/File:Rejviz_cesta.JPG | Public domain | Viki2007
+cities/zlin.jpg | https://commons.wikimedia.org/wiki/File:Zl%C3%ADn,_v%C3%BDhled_z_Ba%C5%A5ova_mrakodrapu,_062.jpg | CC BY 4.0 | ŠJů
+highlights/zlin-1.jpg | https://commons.wikimedia.org/wiki/File:Zl%C3%ADn,_Ba%C5%A5%C5%AFv_mrakodrap_v_noci.jpg | CC BY-SA 4.0 | Palickap
+highlights/zlin-2.jpg | https://commons.wikimedia.org/wiki/File:14I15_BA%C5%A4%C5%AEV_INSTITUT_3.jpg | CC BY-SA 4.0 | 14I15 BAŤŮV INSTITUT
+highlights/zlin-3.jpg | https://commons.wikimedia.org/wiki/File:Zl%C3%ADn,_Pam%C3%A1tn%C3%ADk_Tom%C3%A1%C5%A1e_Bati_(2).jpg | CC BY-SA 4.0 | Palickap
+highlights/zlin-4.jpg | https://commons.wikimedia.org/wiki/File:Zl%C3%ADn-Le%C5%A1n%C3%A1_socha_a_ZOO.jpg | CC BY-SA 4.0 | VitVit
+cities/luhacovice.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A1ze%C5%88sk%C3%BD_d%C5%AFm_Jurkovi%C4%8D%C5%AFv_(Luha%C4%8Dovice),_L%C3%A1ze%C5%88sk%C3%A9_n%C3%A1m._109,_Luha%C4%8Dovice_6.JPG | CC BY-SA 3.0 | Bjalek Michal
+highlights/luhacovice-1.jpg | https://commons.wikimedia.org/wiki/File:Jurkovi%C4%8D%C5%AFv_d%C5%AFm_v_Luha%C4%8Dovicich_01.jpg | CC BY-SA 4.0 | Pudelek
+highlights/luhacovice-2.jpg | https://commons.wikimedia.org/wiki/File:Luha%C4%8Dovice_(Bad_Luhatschowitz)_-_pramen_Vincentka.jpg | CC BY-SA 4.0 | Pudelek
+highlights/luhacovice-3.jpg | https://commons.wikimedia.org/wiki/File:Luha%C4%8Dovice_l%C3%A1%C5%BEe%C5%88sk%C3%A1_kolon%C3%A1da_2015-08-21.jpg | CC BY-SA 4.0 | Vojtěch Dočkal
+cities/velehrad.jpg | https://commons.wikimedia.org/wiki/File:Uhersk%C3%A9_Hradi%C5%A1t%C4%9B,_Masarykovo_n%C3%A1m%C4%9Bst%C3%AD_(1).jpg | CC BY-SA 4.0 | Scotch Mist
+highlights/velehrad-1.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_the_Basilica_of_Assumption_and_Saints_Cyril_and_Methodius_in_Velehrad.jpg | CC BY-SA 4.0 | Pudelek
+highlights/velehrad-2.jpg | https://commons.wikimedia.org/wiki/File:Archeoskanzen_Modr%C3%A1_(by_Pudelek)_01.jpg | CC BY-SA 4.0 | Pudelek
+highlights/velehrad-3.jpg | https://commons.wikimedia.org/wiki/File:Uhersk%C3%A9_Hradi%C5%A1t%C4%9B,_Slov%C3%A1ck%C3%A9_muzeum.jpg | CC BY 3.0 | Palickap
+highlights/velehrad-4.jpg | https://commons.wikimedia.org/wiki/File:The_Buchlov_Castle.jpg | CC BY-SA 3.0 | This image is a work by Mercy.
+cities/roznov.jpg | https://commons.wikimedia.org/wiki/File:Ro%C5%BEnov_pod_Radho%C5%A1t%C4%9Bm_train_station_after_reconstruction_in_2023_2.png | CC BY-SA 3.0 | Winecko
+highlights/roznov-1.jpg | https://commons.wikimedia.org/wiki/File:Vala%C5%A1sk%C3%A9_muzeum_v_p%C5%99%C3%ADrod%C4%9B_-_Vala%C5%A1sk%C3%A1_d%C4%9Bdina_01.jpg | CC BY-SA 4.0 | Pudelek
+highlights/roznov-2.jpg | https://commons.wikimedia.org/wiki/File:Pustevny-Piskoles1.jpg | CC BY-SA 4.0 | Hugo
+cities/ostrava.jpg | https://commons.wikimedia.org/wiki/File:Vysok%C3%A1_%C5%A1kola_na_ulici_%C4%8Ceskobratrsk%C3%A1,_Ostrava,_Czech_Republic_16.jpg | CC BY-SA 4.0 | Michal Klajban
+highlights/ostrava-1.jpg | https://commons.wikimedia.org/wiki/File:Doln%C3%AD_Oblast_V%C3%ADtkovice_2024.jpg | CC BY 4.0 | Czech Tea
+highlights/ostrava-2.jpg | https://commons.wikimedia.org/wiki/File:Nov%C3%A1_radnice_Ostrava,_19._2._2024,_pr%C5%AF%C4%8Del%C3%AD.jpg | CC BY-SA 4.0 | Adam Hauner
+highlights/ostrava-3.jpg | https://commons.wikimedia.org/wiki/File:D%C5%AFl_Michal_v_zim%C4%9B.jpg | CC BY-SA 4.0 | Ikcur
+highlights/ostrava-4.jpg | https://commons.wikimedia.org/wiki/File:Ostrava,_Landek_Park,_Hornick%C3%A9_muzeum,_expozice_d%C5%AFln%C3%ADho_z%C3%A1chran%C3%A1%C5%99stv%C3%AD_(1).jpg | CC BY-SA 4.0 | Palickap
+cities/stramberk.jpg | https://commons.wikimedia.org/wiki/File:20191013_%C5%A0tramberk_1357_6208_DxO.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/stramberk-1.jpg | https://commons.wikimedia.org/wiki/File:Rozhledna_Truba_-_zdalky_1.JPG | Public domain | Czech Wikipedia user Marzper
+highlights/stramberk-2.jpg | https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_(%C5%A0tramberk)_(2).jpg | CC BY 3.0 pl | Radosław Botev
+highlights/stramberk-3.jpg | https://commons.wikimedia.org/wiki/File:%C5%A0tramberk,_are%C3%A1l_jeskyn%C4%9B_%C5%A0ipka_(01).jpg | CC BY-SA 3.0 | Jan Polák
+highlights/stramberk-4.jpg | https://commons.wikimedia.org/wiki/File:Kop%C5%99ivnice,_Technick%C3%A9_muzeum_Tatra,_vstup.jpg | CC BY-SA 3.0 | Jan Polák
+cities/opava.jpg | https://commons.wikimedia.org/wiki/File:Statue_of_John_of_Nepomuk_-_Sosnov%C3%A1,_Opava_District,_Czech_Republic_07.jpg | CC BY-SA 4.0 | Michal Klajban
+highlights/opava-1.jpg | https://commons.wikimedia.org/wiki/File:Slezsk%C3%A9_zemsk%C3%A9_muzeum,_Opava-M%C4%9Bsto,_Opava,_Moravskoslezsk%C3%BD_kraj_02.jpg | CC BY-SA 4.0 | Fry72, Karel Frydrýšek
+highlights/opava-2.jpg | https://commons.wikimedia.org/wiki/File:Opava,_Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_a_konkatedr%C3%A1la_Nanebevzet%C3%AD_Panny_Marie.jpg | CC BY 4.0 | Palickap
+highlights/opava-3.jpg | https://commons.wikimedia.org/wiki/File:Main_gate_-_Hradec_nad_Moravic%C3%AD_castle.jpg | CC BY-SA 4.0 | Pudelek
+highlights/prague-24.jpg | https://commons.wikimedia.org/wiki/File:India_national_museum_01.jpg | CC BY-SA 3.0 | Miya.m
+highlights/prague-25.jpg | https://commons.wikimedia.org/wiki/File:Praha,_Letn%C3%A1,_Metronom.jpg | CC BY-SA 3.0 | User:Aktron
+highlights/kromeriz-4.jpg | https://commons.wikimedia.org/wiki/File:Overview_2_of_Velk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_street_in_Krom%C4%9B%C5%99%C3%AD%C5%BE,_Krom%C4%9B%C5%99%C3%AD%C5%BE_District.jpg | CC BY-SA 4.0 | Jiří Sedláček

@@ -1,0 +1,422 @@
+{
+"prague-h25": [
+"Prague Metronome",
+"Letná Park & Metronome"
+],
+"prague-h24": [
+"National Museum Prague",
+"National Museum"
+],
+"melnik-cz-h1": [
+"Zámek Mělník",
+"Mělník Castle & wine cellars"
+],
+"melnik-cz-h2": [
+"Vyhlídka na soutok Mělník",
+"Confluence viewpoint"
+],
+"melnik-cz-h3": [
+"Kostel sv. Petra a Pavla Mělník",
+"Church of Sts Peter & Paul and ossuary"
+],
+"melnik-cz-h4": [
+"Náměstí Míru Mělník",
+"Míru Square"
+],
+"konopiste-h1": [
+"Zámek Konopiště",
+"Konopiště Castle"
+],
+"konopiste-h2": [
+"Růžová zahrada Konopiště",
+"Rose garden & castle park"
+],
+"konopiste-h3": [
+"Klášter Sázava",
+"Sázava Monastery"
+],
+"pardubice-h1": [
+"Zelená brána Pardubice",
+"Pernštýnské Square & Green Gate"
+],
+"pardubice-h2": [
+"Zámek Pardubice",
+"Pardubice Castle"
+],
+"pardubice-h3": [
+"Hrad Kunětická hora",
+"Kunětická hora"
+],
+"pardubice-h4": [
+"Perníková chaloupka Ráby",
+"Gingerbread House (Ráby)"
+],
+"slavkov-h1": [
+"Zámek Slavkov – Austerlitz",
+"Slavkov Castle"
+],
+"slavkov-h2": [
+"Mohyla míru",
+"Cairn of Peace"
+],
+"slavkov-h3": [
+"Santon Tvarožná",
+"Santon Hill"
+],
+"pernstejn-h1": [
+"Hrad Pernštejn",
+"Pernštejn Castle"
+],
+"pernstejn-h2": [
+"Porta coeli Předklášteří",
+"Porta Coeli Convent"
+],
+"trebic-h1": [
+"Židovská čtvrť Třebíč",
+"Jewish Quarter"
+],
+"trebic-h2": [
+"Zadní synagoga Třebíč",
+"Rear Synagogue"
+],
+"trebic-h3": [
+"Bazilika sv. Prokopa Třebíč",
+"St Procopius Basilica"
+],
+"trebic-h4": [
+"Židovský hřbitov Třebíč",
+"Jewish Cemetery"
+],
+"zdar-h1": [
+"Poutní kostel sv. Jana Nepomuckého Zelená hora",
+"Pilgrimage Church of St John of Nepomuk at Zelená Hora"
+],
+"zdar-h2": [
+"Zámek Žďár nad Sázavou",
+"Žďár Castle"
+],
+"zdar-h3": [
+"Bazilika Nanebevzetí Panny Marie Žďár nad Sázavou",
+"Basilica of the Assumption"
+],
+"sumava-h1": [
+"Stezka korunami stromů Lipno",
+"Lipno Treetop Walk"
+],
+"sumava-h2": [
+"Lipno nad Vltavou",
+"Lipno Lake"
+],
+"sumava-h3": [
+"Klášter Vyšší Brod",
+"Vyšší Brod Monastery"
+],
+"sumava-h4": [
+"Národní park Šumava",
+"Šumava National Park"
+],
+"marianske-lazne-h1": [
+"Kolonáda Mariánské Lázně",
+"Colonnade & Singing Fountain"
+],
+"marianske-lazne-h2": [
+"Křížový pramen",
+"Cross Spring pavilion"
+],
+"marianske-lazne-h3": [
+"Boheminium Mariánské Lázně",
+"Boheminium miniature park"
+],
+"marianske-lazne-h4": [
+"Klášter Teplá",
+"Teplá Monastery"
+],
+"cheb-h1": [
+"Špalíček Cheb",
+"Market Square & Špalíček"
+],
+"cheb-h2": [
+"Chebský hrad",
+"Cheb Castle"
+],
+"cheb-h3": [
+"Kostel sv. Mikuláše Cheb",
+"Church of St Nicholas"
+],
+"cheb-h4": [
+"Františkovy Lázně",
+"Františkovy Lázně"
+],
+"terezin-h1": [
+"Malá pevnost Terezín",
+"Small Fortress"
+],
+"terezin-h2": [
+"Muzeum ghetta Terezín",
+"Ghetto Museum"
+],
+"terezin-h3": [
+"Magdeburská kasárna Terezín",
+"Magdeburg Barracks"
+],
+"terezin-h4": [
+"Mírové náměstí Litoměřice",
+"Litoměřice old town"
+],
+"liberec-h1": [
+"Ještěd",
+"Ještěd Tower"
+],
+"liberec-h2": [
+"Liberecká radnice",
+"Liberec Town Hall"
+],
+"liberec-h3": [
+"iQLANDIA Liberec",
+"iQLANDIA"
+],
+"liberec-h4": [
+"Zoo Liberec",
+"Liberec Zoo"
+],
+"hradec-kralove-h1": [
+"Bílá věž Hradec Králové",
+"Great Square & White Tower"
+],
+"hradec-kralove-h2": [
+"Katedrála sv. Ducha Hradec Králové",
+"Cathedral of the Holy Spirit"
+],
+"hradec-kralove-h3": [
+"Muzeum východních Čech",
+"Museum of East Bohemia"
+],
+"hradec-kralove-h4": [
+"Masarykovo náměstí Hradec Králové",
+"Gočár’s modernist city"
+],
+"kuks-h1": [
+"Hospital Kuks",
+"Kuks Hospital"
+],
+"kuks-h2": [
+"Ctnosti a neřesti Kuks",
+"Virtues & Vices statues"
+],
+"kuks-h3": [
+"Barokní lékárna Kuks",
+"Baroque pharmacy"
+],
+"kuks-h4": [
+"Braunův Betlém",
+"Braun’s Bethlehem"
+],
+"adrspach-h1": [
+"Adršpašské skalní město",
+"Adršpach Rock Town"
+],
+"adrspach-h2": [
+"Adršpach jezírko",
+"Rock lake boat"
+],
+"adrspach-h3": [
+"Teplické skály",
+"Teplice Rocks"
+],
+"adrspach-h4": [
+"Klášter Broumov",
+"Broumov Monastery"
+],
+"krkonose-h1": [
+"Sněžka",
+"Sněžka"
+],
+"krkonose-h2": [
+"Pramen Labe",
+"Source of the Elbe"
+],
+"krkonose-h3": [
+"Špindlerův Mlýn",
+"Špindlerův Mlýn"
+],
+"krkonose-h4": [
+"Stezka korunami stromů Krkonoše",
+"Krkonoše Treetop Walk"
+],
+"tabor-h1": [
+"Žižkovo náměstí Tábor",
+"Žižka Square"
+],
+"tabor-h2": [
+"Husitské muzeum Tábor",
+"Hussite Museum & underground passages"
+],
+"tabor-h3": [
+"Hrad Kotnov",
+"Kotnov Castle tower"
+],
+"trebon-h1": [
+"Zámek Třeboň",
+"Třeboň Castle"
+],
+"trebon-h2": [
+"Rybník Svět",
+"Svět Pond"
+],
+"trebon-h3": [
+"Masarykovo náměstí Třeboň",
+"Old town square & gates"
+],
+"trebon-h4": [
+"Pivovar Regent Třeboň",
+"Regent Brewery"
+],
+"jindrichuv-hradec-h1": [
+"Státní hrad a zámek Jindřichův Hradec",
+"Jindřichův Hradec Castle"
+],
+"jindrichuv-hradec-h2": [
+"Vajgar Jindřichův Hradec",
+"Vajgar Pond"
+],
+"jindrichuv-hradec-h3": [
+"Muzeum Jindřichohradecka",
+"Krýza Mechanical Nativity"
+],
+"jindrichuv-hradec-h4": [
+"Jindřichohradecké místní dráhy",
+"Narrow-gauge railway"
+],
+"slavonice-h1": [
+"Horní náměstí Slavonice",
+"Upper & Lower Squares"
+],
+"slavonice-h2": [
+"Slavonické podzemí",
+"Underground passages"
+],
+"slavonice-h3": [
+"Kostel Nanebevzetí Panny Marie Slavonice",
+"Church of the Assumption tower"
+],
+"jeseniky-h1": [
+"Praděd",
+"Praděd"
+],
+"jeseniky-h2": [
+"Lázně Jeseník",
+"Priessnitz Spa"
+],
+"jeseniky-h3": [
+"Ruční papírna Velké Losiny",
+"Velké Losiny castle & paper mill"
+],
+"jeseniky-h4": [
+"Rejvíz",
+"Rejvíz moor"
+],
+"kromeriz-h4": [
+"Velké náměstí Kroměříž",
+"Great Square (Velké náměstí)"
+],
+"zlin-h1": [
+"Baťův mrakodrap Zlín",
+"Baťa Building 21 & moving office"
+],
+"zlin-h2": [
+"14|15 Baťův institut",
+"14|15 Baťa Institute"
+],
+"zlin-h3": [
+"Památník Tomáše Bati",
+"Tomáš Baťa Memorial"
+],
+"zlin-h4": [
+"Zoo Zlín Lešná",
+"Zlín Zoo & Lešná Castle"
+],
+"ostrava-h1": [
+"Dolní oblast Vítkovice",
+"Dolní Vítkovice"
+],
+"ostrava-h2": [
+"Nová radnice Ostrava",
+"New Town Hall tower"
+],
+"ostrava-h3": [
+"Důl Michal",
+"Michal Mine"
+],
+"ostrava-h4": [
+"Landek Park",
+"Landek Park Mining Museum"
+],
+"stramberk-h1": [
+"Trúba Štramberk",
+"Trúba Tower"
+],
+"stramberk-h2": [
+"Náměstí Štramberk",
+"Timber village"
+],
+"stramberk-h3": [
+"Jeskyně Šipka",
+"Šipka Cave"
+],
+"stramberk-h4": [
+"Technické muzeum Tatra Kopřivnice",
+"Tatra Technical Museum (Kopřivnice)"
+],
+"opava-h1": [
+"Slezské zemské muzeum Opava",
+"Silesian Museum"
+],
+"opava-h2": [
+"Konkatedrála Nanebevzetí Panny Marie Opava",
+"Co-Cathedral of the Assumption"
+],
+"opava-h3": [
+"Zámek Hradec nad Moravicí",
+"Hradec nad Moravicí Castle"
+],
+"luhacovice-h1": [
+"Jurkovičův dům Luhačovice",
+"Jurkovič House"
+],
+"luhacovice-h2": [
+"Vincentka Luhačovice",
+"Spa colonnade & Vincentka spring"
+],
+"luhacovice-h3": [
+"Lázeňské náměstí Luhačovice",
+"Spa park walk"
+],
+"velehrad-h1": [
+"Bazilika Velehrad",
+"Velehrad Basilica"
+],
+"velehrad-h2": [
+"Archeoskanzen Modrá",
+"Archeoskanzen Modrá"
+],
+"velehrad-h3": [
+"Slovácké muzeum",
+"Slovácko Museum"
+],
+"velehrad-h4": [
+"Hrad Buchlov",
+"Buchlov & Buchlovice"
+],
+"roznov-h1": [
+"Valašské muzeum v přírodě",
+"Wallachian Open-Air Museum"
+],
+"roznov-h2": [
+"Pustevny",
+"Pustevny & Radhošť"
+],
+"roznov-h3": [
+"Stezka Valaška Pustevny",
+"Valaška treetop walk"
+]
+}

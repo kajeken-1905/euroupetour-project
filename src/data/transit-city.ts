@@ -2193,6 +2193,258 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— cz ——
+  'melnik-cz': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 작아 걸어서 다닙니다.',
+      en: 'The old town is small and walkable.',
+    },
+    apps: [
+    ],
+  },
+  konopiste: {
+    modes: ['walk', 'bus', 'taxi', 'train'],
+    howTo: {
+      ko: '역에서 성까지 걸어가거나 택시를 탑니다.',
+      en: 'Walk or take a taxi from the station to the castle.',
+    },
+    apps: [
+    ],
+  },
+  tabor: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 역에서 시내버스가 다닙니다.',
+      en: 'Walk the old town; city buses run from the station.',
+    },
+    apps: [
+    ],
+  },
+  trebon: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '작은 마을이라 걸어서 다니고, 연못 둘레는 자전거가 좋습니다.',
+      en: 'A small town on foot; cycle around the ponds.',
+    },
+    apps: [
+    ],
+  },
+  'jindrichuv-hradec': {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다닙니다.',
+      en: 'The old town is walkable.',
+    },
+    apps: [
+    ],
+  },
+  slavonice: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 작아 걸어서 다닙니다.',
+      en: 'A tiny town on foot.',
+    },
+    apps: [
+    ],
+  },
+  sumava: {
+    modes: ['bus', 'walk', 'taxi', 'train'],
+    howTo: {
+      ko: '호수 주변은 자전거가 좋고, 국립공원은 차가 편합니다.',
+      en: 'Cycle round the lake; a car is easiest for the park.',
+    },
+    apps: [
+    ],
+  },
+  'marianske-lazne': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '역과 온천 지구 사이엔 트롤리버스가 다닙니다.',
+      en: 'Trolleybuses run between the station and the spa quarter.',
+    },
+    apps: [
+    ],
+  },
+  cheb: {
+    modes: ['walk', 'bus', 'train', 'taxi'],
+    howTo: {
+      ko: '구시가는 걸어서 다니고, 프란티슈코비라즈네는 기차로 약 10분입니다.',
+      en: 'Walk the old town; Františkovy Lázně is about 10 min by train.',
+    },
+    apps: [
+    ],
+  },
+  terezin: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '테레진과 리토메르지체 사이엔 버스가 다닙니다.',
+      en: 'Buses link Terezín and Litoměřice.',
+    },
+    apps: [
+    ],
+  },
+  liberec: {
+    modes: ['tram', 'bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '트램이 시내와 예스테드 케이블카 아래 역을 잇습니다.',
+      en: 'Trams link the centre and the Ještěd cable-car station.',
+    },
+    apps: [
+    ],
+  },
+  'hradec-kralove': {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내버스·트롤리버스가 역과 구시가를 잇습니다.',
+      en: 'Buses and trolleybuses link the station and old town.',
+    },
+    apps: [
+    ],
+  },
+  kuks: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '역에서 병원까지 걸어가고, 베들레헴까지는 숲길을 걷습니다.',
+      en: 'Walk from the station to the hospital and through the woods to Bethlehem.',
+    },
+    apps: [
+    ],
+  },
+  adrspach: {
+    modes: ['walk', 'train', 'bus'],
+    howTo: {
+      ko: '역에서 입구까지 바로 걸어가고, 테플리체 바위까지 산길로 이어집니다.',
+      en: 'The entrance is right by the station; a trail continues to Teplice.',
+    },
+    apps: [
+    ],
+  },
+  krkonose: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '산마을 사이 버스가 다니지만 드물어, 계획을 미리 세우는 게 좋습니다.',
+      en: 'Buses link the mountain villages but are infrequent; plan ahead.',
+    },
+    apps: [
+    ],
+  },
+  pardubice: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '트롤리버스가 역과 구시가를 잇습니다.',
+      en: 'Trolleybuses link the station and old town.',
+    },
+    apps: [
+    ],
+  },
+  trebic: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다.',
+      en: 'The town is walkable.',
+    },
+    apps: [
+    ],
+  },
+  zdar: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내에서 성과 성당까지 약 3km로, 버스나 걷기로 갑니다.',
+      en: 'The castle and church are about 3 km from town by bus or on foot.',
+    },
+    apps: [
+    ],
+  },
+  slavkov: {
+    modes: ['walk', 'bus', 'taxi', 'train'],
+    howTo: {
+      ko: '성은 역에서 걸어가고, 평화 기념비는 차나 택시가 편합니다.',
+      en: 'Walk to the castle; a car or taxi is easiest for the Cairn of Peace.',
+    },
+    apps: [
+    ],
+  },
+  pernstejn: {
+    modes: ['walk', 'train'],
+    howTo: {
+      ko: '역에서 성까지 걸어서 오릅니다.',
+      en: 'Walk up from the station.',
+    },
+    apps: [
+    ],
+  },
+  jeseniky: {
+    modes: ['bus', 'walk', 'train', 'taxi'],
+    howTo: {
+      ko: '산마을 사이 버스가 드물어 차가 편합니다.',
+      en: 'Buses between the mountain villages are sparse; a car is easiest.',
+    },
+    apps: [
+    ],
+  },
+  zlin: {
+    modes: ['bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '트롤리버스가 시내를 다닙니다.',
+      en: 'Trolleybuses run through the town.',
+    },
+    apps: [
+    ],
+  },
+  luhacovice: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '온천 지구는 걸어서 다닙니다.',
+      en: 'The spa quarter is walkable.',
+    },
+    apps: [
+    ],
+  },
+  velehrad: {
+    modes: ['bus', 'walk', 'taxi', 'train'],
+    howTo: {
+      ko: '우헤르스케흐라디슈테에서 벨레흐라드·모드라로 버스가 다닙니다.',
+      en: 'Buses run from Uherské Hradiště to Velehrad and Modrá.',
+    },
+    apps: [
+    ],
+  },
+  roznov: {
+    modes: ['walk', 'bus'],
+    howTo: {
+      ko: '푸스테브니까지는 버스와 리프트로 오릅니다.',
+      en: 'Reach Pustevny by bus and chairlift.',
+    },
+    apps: [
+    ],
+  },
+  ostrava: {
+    modes: ['tram', 'bus', 'walk', 'taxi'],
+    howTo: {
+      ko: '트램이 역·시내·돌니 비트코비체를 잇습니다.',
+      en: 'Trams link the stations, the centre and Dolní Vítkovice.',
+    },
+    apps: [
+    ],
+  },
+  stramberk: {
+    modes: ['walk', 'bus', 'train'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 코프르지브니체까지 버스로 약 10분입니다.',
+      en: 'Walk the village; Kopřivnice is about 10 min by bus.',
+    },
+    apps: [
+    ],
+  },
+  opava: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고 트롤리버스도 있습니다.',
+      en: 'Walk the centre; trolleybuses also run.',
+    },
+    apps: [
+    ],
+  },
   prague: {
     modes: ['metro', 'tram', 'bus', 'train', 'rideshare', 'taxi', 'walk'],
     airportToCity: {
