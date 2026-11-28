@@ -6763,3 +6763,80 @@ highlights/fiskars-1.jpg | https://commons.wikimedia.org/wiki/File:Mid_20th_cent
 highlights/hanko-1.jpg | https://commons.wikimedia.org/wiki/File:Hangon_huviloita_meren_rannalla.jpg | CC BY-SA 4.0 | Maaritti Siitonen
 highlights/koli-2.jpg | https://commons.wikimedia.org/wiki/File:Ukko-Koli_in_the_fall.jpg | CC BY 2.0 | Miguel Virkkunen Carvalho from Lahti, Finland
 highlights/ruka-4.jpg | https://commons.wikimedia.org/wiki/File:Reindeer_Rides_(4236939552).jpg | CC BY-SA 2.0 | Timo Newton-Syms from Helsinki, Finland &amp; Maidenhead, Be
+highlights/reykjavik-13.jpg | https://commons.wikimedia.org/wiki/File:H%C3%B6f%C3%B0i_mvp.jpg | CC BY-SA 4.0 | Miquelvp
+highlights/reykjavik-14.jpg | https://commons.wikimedia.org/wiki/File:Lago_Tj%C3%B6rnin,_Reikiavik,_Distrito_de_la_Capital,_Islandia,_2014-08-13,_DD_087.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/myvatn-6.jpg | https://commons.wikimedia.org/wiki/File:Hverfjall_aerial_view.jpg | CC BY 4.0 | Areuland
+cities/reykjanesbaer.jpg | https://www.flickr.com/photos/27718315@N02/16647329719 | BY-SA 2.0 | alljengi
+highlights/reykjanesbaer-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%8Dslendingur_02.jpg | CC BY-SA 4.0 | Neitram
+highlights/reykjanesbaer-3.jpg | https://www.flickr.com/photos/12720221@N08/34029507072 | BY-SA 2.0 | mmmmngai@rogers.com
+highlights/reykjanesbaer-4.jpg | https://commons.wikimedia.org/wiki/File:Gunnuhver_Geothermal_Area,_Iceland,_20230430_1340_3616.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/reykjanesbaer-5.jpg | https://commons.wikimedia.org/wiki/File:Reykjanesviti,_taken_from_the_hiking_trail_Reykjavegur,_Iceland_34.jpg | CC BY-SA 4.0 | Michal Klajban
+cities/borgarnes.jpg | https://commons.wikimedia.org/wiki/File:Borgarnes_2023_C.jpg | CC BY-SA 4.0 | Eysteinn Guðni Guðnason
+highlights/borgarnes-2.jpg | https://commons.wikimedia.org/wiki/File:Deildartunguhver_(14430128136).jpg | CC BY 2.0 | Rob Oo from NL
+highlights/borgarnes-4.jpg | https://www.flickr.com/photos/25999920@N00/19142804158 | BY 2.0 | aevarg
+highlights/borgarnes-5.jpg | https://commons.wikimedia.org/wiki/File:Reykholt_06.jpg | CC BY-SA 2.0 de | Christian Bickel
+cities/grundarfjordur.jpg | https://www.flickr.com/photos/63234672@N04/45524177525 | CC0 1.0 | Mustang Joe
+highlights/grundarfjordur-1.jpg | https://commons.wikimedia.org/wiki/File:Kirkjufell_mvp.jpg | CC BY 4.0 | Miquelvp
+highlights/grundarfjordur-2.jpg | https://www.flickr.com/photos/45457437@N00/30886848087 | BY 2.0 | David Jones
+highlights/grundarfjordur-3.jpg | https://commons.wikimedia.org/wiki/File:Arnarstapi_2024_(0754)_(cropped2).jpg | CC BY 4.0 | Steinninn
+highlights/grundarfjordur-4.jpg | https://commons.wikimedia.org/wiki/File:Dj%C3%BApal%C3%B3nssandur.JPG | Public domain | TommyBee
+cities/patreksfjordur.jpg | https://commons.wikimedia.org/wiki/File:Patreksfj%C3%B6r%C3%B0ur_25.07.2025.png | CC BY 4.0 | Vidirholm
+highlights/patreksfjordur-1.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A1trabjarg_Vestfir%C3%B0ir_Iceland.jpg | CC BY-SA 3.0 | Richard Bartz
+highlights/patreksfjordur-2.jpg | https://www.flickr.com/photos/106752615@N06/16286313879 | BY-SA 2.0 | Mariska van de Vosse
+highlights/patreksfjordur-3.jpg | https://commons.wikimedia.org/wiki/File:Gardar_BA_64_Shipwreck.jpg | CC BY-SA 2.0 | Eric Kilby
+cities/holmavik.jpg | https://commons.wikimedia.org/wiki/File:H%C3%B3lmav%C3%ADk_fr%C3%A1_Skeljav%C3%ADk.jpg | CC0 | Cinquantecinq
+highlights/holmavik-2.jpg | https://commons.wikimedia.org/wiki/File:Hottubs-Drangsnes.JPG | CC BY-SA 3.0 | Bromr
+cities/hvammstangi.jpg | https://commons.wikimedia.org/wiki/File:Hvammstangi_3.jpg | CC BY 4.0 | Steinninn
+highlights/hvammstangi-1.jpg | https://commons.wikimedia.org/wiki/File:Selasetur_%C3%8Dslands.jpg | CC BY-SA 4.0 | Páll L Sig
+highlights/hvammstangi-2.jpg | https://commons.wikimedia.org/wiki/File:Hv%C3%ADtserkur_Sea_Stack,_Northwestern_Region,_Iceland,_20240715_1135_0849.jpg | CC BY 4.0 | Jakub Hałun
+highlights/hvammstangi-3.jpg | https://commons.wikimedia.org/wiki/File:Borgarvirki_from_parking_lot.jpg | CC0 | Ævar Arnfjörð Bjarmason
+highlights/hvammstangi-4.jpg | https://commons.wikimedia.org/wiki/File:Koluglj%C3%BAfur2011.jpg | CC BY-SA 3.0 | Bromr
+cities/saudarkrokur.jpg | https://commons.wikimedia.org/wiki/File:Sau%C3%B0%C3%A1rkr%C3%B3kur_(0823).jpg | CC BY 4.0 | Steinninn
+highlights/saudarkrokur-2.jpg | https://commons.wikimedia.org/wiki/File:Turf_houses_in_Glaumb%C3%A6r_open-air_museum,_Iceland,_20240715_1439_0952.jpg | CC BY 4.0 | Jakub Hałun
+highlights/saudarkrokur-3.jpg | https://commons.wikimedia.org/wiki/File:V%C3%AD%C3%B0im%C3%BDrarkirkja_4.jpg | CC BY-SA 4.0 | Villy Fink Isaksen
+highlights/saudarkrokur-4.jpg | https://commons.wikimedia.org/wiki/File:Hofsos,_swimming_pool.JPG | CC BY-SA 3.0 | Danapit
+cities/siglufjordur.jpg | https://commons.wikimedia.org/wiki/File:Siglufj%C3%B6r%C3%B0ur_(2024).jpg | CC BY-SA 4.0 | ThibautRe
+highlights/siglufjordur-2.jpg | https://commons.wikimedia.org/wiki/File:Siglufj%C3%B6r%C3%B0ur_Sept_2019_1.jpg | CC BY-SA 4.0 | Kasa Fue
+cities/dalvik.jpg | https://commons.wikimedia.org/wiki/File:Dalv%C3%ADk_0063.jpg | CC BY 4.0 | Steinninn
+highlights/dalvik-1.jpg | https://www.flickr.com/photos/37581812@N00/2804292394 | BY-SA 2.0 | Francesco_G
+highlights/dalvik-2.jpg | https://commons.wikimedia.org/wiki/File:Humpback_whale_(Megaptera_novaeangliae)_Eyjafjordur_fluke_14_of_23.jpg | CC BY-SA 4.0 | Charles J. Sharp
+cities/egilsstadir.jpg | https://commons.wikimedia.org/wiki/File:Egilssta%C3%B0ir,_East_Iceland_(51335357673).jpg | CC BY 2.0 | Fabio Achilli from Milano, Italy
+highlights/egilsstadir-1.jpg | https://commons.wikimedia.org/wiki/File:Urri%C3%B0avatn.jpg | CC BY 4.0 | Steinninn
+highlights/egilsstadir-2.jpg | https://commons.wikimedia.org/wiki/File:Lagarflj%C3%B3t_Lake,_Iceland,_20240717_1556_1765.jpg | CC BY 4.0 | Jakub Hałun
+highlights/egilsstadir-3.jpg | https://www.flickr.com/photos/64210903@N02/54189938533 | BY 2.0 | Bruno Jargot
+highlights/egilsstadir-4.jpg | https://commons.wikimedia.org/wiki/File:Gunnar_Gunnarsson%27s_house_in_Skri%C3%B0uklaustur_1.jpg | CC BY-SA 4.0 | Villy Fink Isaksen
+highlights/egilsstadir-5.jpg | https://commons.wikimedia.org/wiki/File:Stu%C3%B0lagil_2.png | CC BY-SA 4.0 | ArniGael
+cities/djupivogur.jpg | https://commons.wikimedia.org/wiki/File:Pier_and_cruise_ship_in_Dj%C3%BApivogur_harbour.jpg | CC BY 3.0 | Alexander Grebenkov
+highlights/djupivogur-1.jpg | https://commons.wikimedia.org/wiki/File:Eggin_%C3%AD_Gle%C3%B0iv%C3%ADk_in_July,_2019.jpg | CC BY 3.0 | Alexander Grebenkov
+highlights/djupivogur-3.jpg | https://commons.wikimedia.org/wiki/File:Djupivogur-40-Bulandstindur-2018-gje.jpg | CC BY-SA 4.0 | Gerd Eichmann
+cities/borgarfjordur.jpg | https://commons.wikimedia.org/wiki/File:Fratercula_arctica,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_0929_1304.jpg | CC BY 4.0 | Jakub Hałun
+highlights/borgarfjordur-2.jpg | https://commons.wikimedia.org/wiki/File:%C3%81lfaborg,_Iceland.jpg | CC BY-SA 3.0 | Schorle
+highlights/borgarfjordur-3.jpg | https://www.flickr.com/photos/142245834@N03/30107813112 | BY 2.0 | jwdotjs
+cities/hveragerdi.jpg | https://commons.wikimedia.org/wiki/File:Road_38_near_Hverager%C3%B0i_town,_Iceland,_20230430_1754_3704.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/hveragerdi-2.jpg | https://www.flickr.com/photos/49399018@N00/21240820542 | BY 2.0 | amanderson2
+highlights/hveragerdi-3.jpg | https://commons.wikimedia.org/wiki/File:Raufarh%C3%B3lshellir,_Iceland,_20230502_1203_4152.jpg | CC BY-SA 4.0 | Jakub Hałun
+highlights/hveragerdi-4.jpg | https://www.flickr.com/photos/99785739@N00/28931576807 | BY 2.0 | ChrisYunker
+cities/fludir.jpg | https://www.flickr.com/photos/8743790@N06/3714305875 | BY-SA 2.0 | dalli58
+highlights/fludir-2.jpg | https://commons.wikimedia.org/wiki/File:Hrunalaug.jpg | CC BY-SA 2.0 de | Christian Bickel fingalo
+highlights/fludir-3.jpg | https://commons.wikimedia.org/wiki/File:Thj%C3%B3veldisbarinn_St%C3%B6ng02(js).jpg | CC BY-SA 3.0 | Jerzystrzelecki/Jerzy Strzelecki
+cities/hvolsvollur.jpg | https://commons.wikimedia.org/wiki/File:Caseta_cerca_de_Hvolsv%C3%B6llur,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_213.JPG | CC BY-SA 4.0 | Diego Delso
+highlights/hvolsvollur-1.jpg | https://commons.wikimedia.org/wiki/File:Lava_Centre_globe.jpg | CC BY-SA 4.0 | Birtavifils
+highlights/hvolsvollur-2.jpg | https://www.flickr.com/photos/51035650382@N01/49008962637 | BY 2.0 | happyskrappy
+highlights/hvolsvollur-3.jpg | https://commons.wikimedia.org/wiki/File:Seljalandsfoss_and_Glj%C3%BAfrab%C3%BAi,_July_2019.jpg | CC BY 3.0 | Alexander Grebenkov
+highlights/hvolsvollur-4.jpg | https://commons.wikimedia.org/wiki/File:%C3%9E%C3%B3rsm%C3%B6rk.jpeg | CC BY-SA 4.0 | Andreas Tille
+cities/kirkjubaejarklaustur.jpg | https://commons.wikimedia.org/wiki/File:Kirkjub%C3%A6jarklaustur_Aerial_2023.jpg | CC BY-SA 4.0 | Eysteinn Guðni Guðnason
+highlights/kirkjubaejarklaustur-1.jpg | https://commons.wikimedia.org/wiki/File:Kirkjug%C3%B3lf.JPG | CC BY-SA 3.0 | Bultro
+highlights/kirkjubaejarklaustur-2.jpg | https://www.flickr.com/photos/41282011@N00/4965802038 | BY-SA 2.0 | Julien Carnot
+highlights/kirkjubaejarklaustur-3.jpg | https://www.flickr.com/photos/12720221@N08/33802639910 | BY-SA 2.0 | mmmmngai@rogers.com
+highlights/kirkjubaejarklaustur-4.jpg | https://commons.wikimedia.org/wiki/File:Laki_fissure_(2).jpg | CC BY-SA 3.0 | Chmee2/Valtameri
+highlights/akureyri-9.jpg | https://commons.wikimedia.org/wiki/File:Va%C3%B0lask%C3%B3gur.jpg | CC BY-SA 4.0 | Berserkur
+highlights/borgarnes-1.jpg | https://commons.wikimedia.org/wiki/File:Settlement_Centre_in_Borgarnes.jpg | CC BY 4.0 | HełmPolski
+highlights/borgarnes-3.jpg | https://commons.wikimedia.org/wiki/File:Deildartunguhver_2024_02.jpg | CC BY-SA 4.0 | Hornstrandir1
+highlights/holmavik-1.jpg | https://commons.wikimedia.org/wiki/File:H%C3%B3lmav%C3%ADk_-_Museo_della_stregoneria.jpg | CC BY-SA 4.0 | Syrio
+highlights/holmavik-3.jpg | https://commons.wikimedia.org/wiki/File:Dj%C3%BApav%C3%ADk_herring_factory_1.jpg | CC BY-SA 4.0 | Smiley.toerist
+highlights/saudarkrokur-1.jpg | https://commons.wikimedia.org/wiki/File:Sau%C3%B0%C3%A1rkrokur_Villa_Nova.jpg | CC BY-SA 4.0 | Smiley.toerist
+highlights/siglufjordur-1.jpg | https://commons.wikimedia.org/wiki/File:Siglufj%C3%B6r%C3%B0ur-Roaldsbrakki_SaltingStation_-HiRes.jpg | CC BY-SA 3.0 | Aliochad
+highlights/dalvik-3.jpg | https://commons.wikimedia.org/wiki/File:Haven_van_%C3%81rsk%C3%B3gssandur.JPG | CC BY-SA 3.0 | Bromr at Dutch Wikipedia
+highlights/djupivogur-2.jpg | https://commons.wikimedia.org/wiki/File:Djupivogur-20-Langabud-2018-gje.jpg | CC BY-SA 4.0 | Gerd Eichmann
+highlights/borgarfjordur-1.jpg | https://commons.wikimedia.org/wiki/File:Fratercula_arctica,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_0918_1258.jpg | CC BY 4.0 | Jakub Hałun
+highlights/hveragerdi-1.jpg | https://commons.wikimedia.org/wiki/File:Hveragerdi_Leirgerdur_panoramic.jpg | CC BY-SA 3.0 | Borvan53

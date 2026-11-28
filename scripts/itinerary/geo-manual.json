@@ -19895,5 +19895,80 @@
     62.02765,
     24.57541,
     "OSM Nominatim: Joenniemen kartano, 47, Joenniementie, Aravala, Mänttä, Mänt (Wikipedia 45m)"
+  ],
+  "reykjavik-h13": [
+    64.14652,
+    -21.90636,
+    "OSM Nominatim: Höfði, 1, Félagstún, Tún, Laugardalur, Reykjavíkurborg, Höfu (Wikipedia 21m)"
+  ],
+  "reykjavik-h14": [
+    64.14452,
+    -21.94234,
+    "OSM Nominatim: Tjörnin, Miðborg, Reykjavíkurborg, Höfuðborgarsvæðið, Ísland (Wikipedia 12m)"
+  ],
+  "myvatn-h6": [
+    65.60506,
+    -16.87395,
+    "OSM Nominatim: Hverfjall, Þingeyjarsveit, Norðurland eystra, 660, Ísland (Wikipedia 709m)"
+  ],
+  "reykjanesbaer-h4": [
+    63.81944,
+    -22.68418,
+    "OSM Nominatim: Gunnuhver, Vitabraut, Reykjanesvirkjun, Reykjanesbær, Suðurn (Wikipedia 164m)"
+  ],
+  "reykjanesbaer-h5": [
+    63.81561,
+    -22.70437,
+    "OSM Nominatim: Reykjanesviti, Reykjanes-aðalviti, Reykjanesbær, Suðurnes, 2 (Wikipedia 11m)"
+  ],
+  "borgarnes-h4": [
+    64.70256,
+    -20.9806,
+    "OSM Nominatim: Hraunfossar, Borgarbyggð, Vesturland, 320, Ísland (Wikipedia 139m)"
+  ],
+  "grundarfjordur-h1": [
+    64.93995,
+    -23.30748,
+    "OSM Nominatim: Kirkjufell, Grundarfjarðarbær, Vesturland, 350, Ísland (Wikipedia 148m)"
+  ],
+  "hvammstangi-h3": [
+    65.4748,
+    -20.59661,
+    "OSM Nominatim: Borgarvirki, Borgarvegur, Húnaþing vestra, Norðurland vestra (Wikipedia 18m)"
+  ],
+  "egilsstadir-h4": [
+    65.04275,
+    -14.9511,
+    "OSM Nominatim: Skriðuklaustur, Fljótsdalshreppur, Austurland, Ísland (Wikipedia 182m)"
+  ],
+  "egilsstadir-h5": [
+    65.16233,
+    -15.30812,
+    "OSM Nominatim: Stuðlagil, Grund, Múlaþing, Austurland, Ísland (Wikipedia 127m)"
+  ],
+  "djupivogur-h3": [
+    64.69491,
+    -14.41595,
+    "OSM Nominatim: Búlandstindur, Múlaþing, Austurland, 766, Ísland (Wikipedia 366m)"
+  ],
+  "hveragerdi-h3": [
+    63.94024,
+    -21.39718,
+    "OSM Nominatim: Raufarhólshellir, Þrengslavegur, Sveitarfélagið Ölfus, Suður (Wikipedia 187m)"
+  ],
+  "holmavik-h1": [
+    65.70654,
+    -21.66539,
+    "OSM Nominatim: Galdrasýning á Ströndum, 10, Höfðagata, Hólmavík, Strandabyg (Wikipedia 18m)"
+  ],
+  "holmavik-h3": [
+    65.94422,
+    -21.55726,
+    "OSM Nominatim: Djúpavík, Árneshreppur, Vestfirðir, Ísland (Wikipedia 57m)"
+  ],
+  "kirkjubaejarklaustur-h2": [
+    63.78749,
+    -18.05965,
+    "OSM Nominatim: Systrafoss, Kirkjubæjarklaustur, Skaftárhreppur, Suðurland,  (Wikipedia 172m)"
   ]
 }

@@ -80,4 +80,86 @@ export const placesISExtra: Place[] = [
   // —— seydisfjordur: restaurants, bakeries and cafés (2026-11-14) ——
   place('seydisfjordur-fine_dining-1', 'seydisfjordur', 'fine_dining', 'Aldan Restaurant', 'Norðurgata 2, Seyðisfjörður', '세이디스피외르뒤르의 아이슬란드 요리 식당. 구글 지도 평점 4.6.', 'Icelandic restaurant in Seyðisfjörður. Rated 4.6 on Google Maps.'),
   place('seydisfjordur-fine_dining-2', 'seydisfjordur', 'fine_dining', 'Skaftfell Bistro', 'Austurvegur 42, Seyðisfjörður', '세이디스피외르뒤르의 비스트로. 구글 지도 평점 4.6.', 'Bistro in Seyðisfjörður. Rated 4.6 on Google Maps.'),
+
+  // —— reykjanesbaer: restaurants, bakeries and cafés (2026-11-28) ——
+  place('reykjanesbaer-fine_dining-1', 'reykjanesbaer', 'fine_dining', 'Oriento', 'Hafnargata, Reykjanesbær, Iceland', '지중해 요리 레스토랑. 구글 지도 평점 4.7(리뷰 770개).', 'Mediterranean restaurant. Rated 4.7 on Google Maps (770 reviews).'),
+  place('reykjanesbaer-fine_dining-2', 'reykjanesbaer', 'fine_dining', 'Antons Mamma Mia', 'Hafnargata 18, Reykjanesbær, Iceland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 549개).', 'Italian restaurant. Rated 4.5 on Google Maps (549 reviews).'),
+  place('reykjanesbaer-fine_dining-3', 'reykjanesbaer', 'fine_dining', 'NAN DEN Shawarma', 'Hafnargata 28, Reykjanesbær, Iceland', '샤와르마 식당. 구글 지도 평점 4.7(리뷰 243개).', 'Shawarma restaurant. Rated 4.7 on Google Maps (243 reviews).'),
+  place('reykjanesbaer-fine_dining-4', 'reykjanesbaer', 'fine_dining', 'Veitingastaðurinn Ráin', 'Hafnargata 19, Reykjanesbær, Iceland', '레스토랑. 구글 지도 평점 4.4(리뷰 521개).', 'Restaurant. Rated 4.4 on Google Maps (521 reviews).'),
+  place('reykjanesbaer-fine_dining-5', 'reykjanesbaer', 'fine_dining', 'LiBRARY bistro/bar', 'Hafnargata 57, Reykjanesbær, Iceland', '비스트로. 구글 지도 평점 4.3(리뷰 560개).', 'Bistro. Rated 4.3 on Google Maps (560 reviews).'),
+  place('reykjanesbaer-bakery-1', 'reykjanesbaer', 'bakery', 'Sigurjónsbakarí', 'Hólmgarður 2, Reykjanesbær, Iceland', '빵집. 구글 지도 평점 4.7(리뷰 461개).', 'Bakery. Rated 4.7 on Google Maps (461 reviews).'),
+  place('reykjanesbaer-bakery-2', 'reykjanesbaer', 'bakery', 'Kökulist Bakery', 'Hólagata 17, Reykjanesbær, Iceland', '빵집. 구글 지도 평점 4.6(리뷰 1174개).', 'Bakery. Rated 4.6 on Google Maps (1174 reviews).'),
+  place('reykjanesbaer-cafe-1', 'reykjanesbaer', 'cafe', 'Lava sweets & cafe', 'Hafnargata 23, Reykjanesbær, Iceland', '카페. 구글 지도 평점 4.9(리뷰 260개).', 'Café. Rated 4.9 on Google Maps (260 reviews).'),
+
+  // —— borgarnes: restaurants, bakeries and cafés (2026-11-28) ——
+  place('borgarnes-fine_dining-1', 'borgarnes', 'fine_dining', 'Bara Borgarnes', 'Brákarbraut 3, Borgarnes, Iceland', '레스토랑. 구글 지도 평점 4.8(리뷰 971개).', 'Restaurant. Rated 4.8 on Google Maps (971 reviews).'),
+  place('borgarnes-fine_dining-2', 'borgarnes', 'fine_dining', 'Þúfan - pizzeria & espresso bar', 'Hrafnaklettur 1b, Borgarnes, Iceland', '피자 식당. 구글 지도 평점 5.0(리뷰 309개).', 'Pizza restaurant. Rated 5.0 on Google Maps (309 reviews).'),
+  place('borgarnes-fine_dining-3', 'borgarnes', 'fine_dining', 'Settlement Centre Restaurant', 'Brákarbraut 13-15, Borgarnes, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.5(리뷰 222개).', 'Icelandic restaurant. Rated 4.5 on Google Maps (222 reviews).'),
+  place('borgarnes-fine_dining-4', 'borgarnes', 'fine_dining', 'Dirty Burger And Ribs', 'Brúartorg 6, Borgarnes, Iceland', '햄버거 식당. 구글 지도 평점 4.5(리뷰 481개).', 'Burger restaurant. Rated 4.5 on Google Maps (481 reviews).'),
+  place('borgarnes-fine_dining-5', 'borgarnes', 'fine_dining', 'Grill 66 Borgarnesi', 'Brúartorg 8, Borgarnes, Iceland', '레스토랑. 구글 지도 평점 4.3(리뷰 144개).', 'Restaurant. Rated 4.3 on Google Maps (144 reviews).'),
+  place('borgarnes-bakery-1', 'borgarnes', 'bakery', 'Geirabakarí Kaffihús', 'Borgarnes, Iceland', '빵집. 구글 지도 평점 4.4(리뷰 816개).', 'Bakery. Rated 4.4 on Google Maps (816 reviews).'),
+  place('borgarnes-cafe-1', 'borgarnes', 'cafe', 'Blómasetrið - Kaffi Kyrrð', 'Borgarnes, Iceland', '카페. 구글 지도 평점 4.8(리뷰 1052개).', 'Café. Rated 4.8 on Google Maps (1052 reviews).'),
+
+  // —— grundarfjordur: restaurants, bakeries and cafés (2026-11-28) ——
+  place('grundarfjordur-fine_dining-1', 'grundarfjordur', 'fine_dining', 'Harbour Cafe', 'Nesvegur 5, Grundarfjörður, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.8(리뷰 2588개).', 'Icelandic restaurant. Rated 4.8 on Google Maps (2588 reviews).'),
+  place('grundarfjordur-fine_dining-2', 'grundarfjordur', 'fine_dining', 'Mæstro - Street food', 'Grundargata, Grundarfjörður, Iceland', '길거리 음식 식당. 구글 지도 평점 4.7(리뷰 220개).', 'Street-food restaurant. Rated 4.7 on Google Maps (220 reviews).'),
+  place('grundarfjordur-cafe-1', 'grundarfjordur', 'cafe', 'Valeria specialty coffee, art & souvenirs', 'Grundargata 24, Grundarfjörður, Iceland', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.9(리뷰 959개).', 'Coffee roastery café. Rated 4.9 on Google Maps (959 reviews).'),
+  place('grundarfjordur-cafe-2', 'grundarfjordur', 'cafe', 'Græna kompaníið', 'Hrannarstígur 5, Grundarfjörður, Iceland', '카페. 구글 지도 평점 4.7(리뷰 270개).', 'Café. Rated 4.7 on Google Maps (270 reviews).'),
+
+  // —— holmavik: restaurants, bakeries and cafés (2026-11-28) ——
+  place('holmavik-fine_dining-1', 'holmavik', 'fine_dining', 'Café Riis', 'Hafnarbraut 39, Hólmavík, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.6(리뷰 691개).', 'Icelandic restaurant. Rated 4.6 on Google Maps (691 reviews).'),
+  place('holmavik-fine_dining-2', 'holmavik', 'fine_dining', 'Kaffi Galdur', 'Höfðagata 8-10, Hólmavík, Iceland', '해산물 레스토랑. 구글 지도 평점 4.5(리뷰 122개).', 'Seafood restaurant. Rated 4.5 on Google Maps (122 reviews).'),
+
+  // —— hvammstangi: restaurants, bakeries and cafés (2026-11-28) ——
+  place('hvammstangi-fine_dining-1', 'hvammstangi', 'fine_dining', 'Sjávarborg Restaurant', 'Strandgata 1, Hvammstangi, Iceland', '레스토랑. 구글 지도 평점 4.6(리뷰 1357개).', 'Restaurant. Rated 4.6 on Google Maps (1357 reviews).'),
+  place('hvammstangi-fine_dining-2', 'hvammstangi', 'fine_dining', 'Selur matstofa', 'Hvammstangabraut 40, Hvammstangi, Iceland', '레스토랑. 구글 지도 평점 4.5(리뷰 153개).', 'Restaurant. Rated 4.5 on Google Maps (153 reviews).'),
+
+  // —— saudarkrokur: restaurants, bakeries and cafés (2026-11-28) ——
+  place('saudarkrokur-fine_dining-1', 'saudarkrokur', 'fine_dining', 'Sauðá', 'Sauðárhlíð 70, Sauðárkrókur, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.5(리뷰 129개).', 'Icelandic restaurant. Rated 4.5 on Google Maps (129 reviews).'),
+  place('saudarkrokur-fine_dining-2', 'saudarkrokur', 'fine_dining', 'Hard Wok Cafe', 'Aðalgata 8, Sauðárkrókur, Iceland', '레스토랑. 구글 지도 평점 4.4(리뷰 419개).', 'Restaurant. Rated 4.4 on Google Maps (419 reviews).'),
+  place('saudarkrokur-fine_dining-3', 'saudarkrokur', 'fine_dining', 'Kaffi Krókur', 'Aðalgata 16, Sauðárkrókur, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.3(리뷰 349개).', 'Icelandic restaurant. Rated 4.3 on Google Maps (349 reviews).'),
+  place('saudarkrokur-bakery-1', 'saudarkrokur', 'bakery', 'Sauðárkróksbakarí', 'Aðalgata 5, Sauðárkrókur, Iceland', '빵집. 구글 지도 평점 4.7(리뷰 406개).', 'Bakery. Rated 4.7 on Google Maps (406 reviews).'),
+
+  // —— siglufjordur: restaurants, bakeries and cafés (2026-11-28) ——
+  place('siglufjordur-bakery-1', 'siglufjordur', 'bakery', 'Aðalbakarí', 'Aðalgata 26, Siglufjörður, Iceland', '빵집. 구글 지도 평점 4.7(리뷰 356개).', 'Bakery. Rated 4.7 on Google Maps (356 reviews).'),
+
+  // —— dalvik: restaurants, bakeries and cafés (2026-11-28) ——
+  place('dalvik-fine_dining-1', 'dalvik', 'fine_dining', 'Baccalá Bar', 'Hauganes, Iceland', '하우가네스에 있는 해산물 레스토랑. 구글 지도 평점 4.8(리뷰 512개).', 'Seafood restaurant in Hauganes. Rated 4.8 on Google Maps (512 reviews).'),
+  place('dalvik-cafe-1', 'dalvik', 'cafe', 'Gísli Eiríkur Helgi Kaffihús Bakkabræðra', 'Grundargata 1, Dalvík, Iceland', '카페. 구글 지도 평점 4.9(리뷰 887개).', 'Café. Rated 4.9 on Google Maps (887 reviews).'),
+
+  // —— egilsstadir: restaurants, bakeries and cafés (2026-11-28) ——
+  place('egilsstadir-fine_dining-1', 'egilsstadir', 'fine_dining', 'Frú Nielsen', 'Tjarnarbraut 1, Egilsstaðir, Iceland', '건강식 식당. 구글 지도 평점 4.8(리뷰 96개).', 'Health-food restaurant. Rated 4.8 on Google Maps (96 reviews).'),
+  place('egilsstadir-fine_dining-2', 'egilsstadir', 'fine_dining', 'Kjöt & fiskur - Fresh Fish', 'Kaupvangur, Egilsstaðir, Iceland', '피시 앤드 칩스 식당. 구글 지도 평점 4.7(리뷰 577개).', 'Fish-and-chips restaurant. Rated 4.7 on Google Maps (577 reviews).'),
+  place('egilsstadir-fine_dining-3', 'egilsstadir', 'fine_dining', 'Askur Pizzeria', 'Fagradalsbraut 25, Egilsstaðir, Iceland', '피자 식당. 구글 지도 평점 4.6(리뷰 1645개).', 'Pizza restaurant. Rated 4.6 on Google Maps (1645 reviews).'),
+  place('egilsstadir-fine_dining-4', 'egilsstadir', 'fine_dining', 'Obo Diner', 'Fagradalsbraut 13, Egilsstaðir, Iceland', '다이너. 구글 지도 평점 4.6(리뷰 269개).', 'Diner. Rated 4.6 on Google Maps (269 reviews).'),
+  place('egilsstadir-cafe-1', 'egilsstadir', 'cafe', 'Bókakaffi Hlöðum', 'Fellabær, Iceland', '페들라바이르에 있는 카페. 구글 지도 평점 4.7(리뷰 291개).', 'Café in Fellabær. Rated 4.7 on Google Maps (291 reviews).'),
+
+  // —— djupivogur: restaurants, bakeries and cafés (2026-11-28) ——
+  place('djupivogur-fine_dining-1', 'djupivogur', 'fine_dining', 'Hafið bistro', 'Vogaland 2, Djúpivogur, Iceland', '비스트로. 구글 지도 평점 4.4(리뷰 331개).', 'Bistro. Rated 4.4 on Google Maps (331 reviews).'),
+  place('djupivogur-fine_dining-2', 'djupivogur', 'fine_dining', 'Restaurant Framtíð', 'Vogaland 4, Djúpivogur, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.4(리뷰 243개).', 'Icelandic restaurant. Rated 4.4 on Google Maps (243 reviews).'),
+  place('djupivogur-cafe-1', 'djupivogur', 'cafe', 'Langabúð - Café', 'Búð 1, Djúpivogur, Iceland', '카페. 구글 지도 평점 4.5(리뷰 648개).', 'Café. Rated 4.5 on Google Maps (648 reviews).'),
+
+  // —— hveragerdi: restaurants, bakeries and cafés (2026-11-28) ——
+  place('hveragerdi-fine_dining-1', 'hveragerdi', 'fine_dining', 'Hofland Eatery', 'Sunnumörk 2, Hveragerði, Iceland', '피자 식당. 구글 지도 평점 4.8(리뷰 351개).', 'Pizza restaurant. Rated 4.8 on Google Maps (351 reviews).'),
+  place('hveragerdi-fine_dining-2', 'hveragerdi', 'fine_dining', 'Ölverk Pizza & Brewery', 'Breiðamörk 2, Hveragerði, Iceland', '직접 맥주를 빚는 양조장 식당. 구글 지도 평점 4.6(리뷰 983개).', 'Brewpub restaurant. Rated 4.6 on Google Maps (983 reviews).'),
+  place('hveragerdi-fine_dining-3', 'hveragerdi', 'fine_dining', 'Matkráin', 'Breiðamörk 10, Hveragerði, Iceland', '덴마크 요리 식당. 구글 지도 평점 4.5(리뷰 288개).', 'Danish restaurant. Rated 4.5 on Google Maps (288 reviews).'),
+  place('hveragerdi-fine_dining-4', 'hveragerdi', 'fine_dining', 'Frost & Fire restaurant', 'Hverhamar, Hveragerði, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.5(리뷰 86개).', 'Icelandic restaurant. Rated 4.5 on Google Maps (86 reviews).'),
+  place('hveragerdi-bakery-1', 'hveragerdi', 'bakery', 'Almar Bakari', 'Sunnumörk 2, Hveragerði, Iceland', '빵집. 구글 지도 평점 4.6(리뷰 602개).', 'Bakery. Rated 4.6 on Google Maps (602 reviews).'),
+  place('hveragerdi-cafe-1', 'hveragerdi', 'cafe', 'Rósakaffi', 'Breiðamörk 3, Hveragerði, Iceland', '카페. 구글 지도 평점 4.6(리뷰 229개).', 'Café. Rated 4.6 on Google Maps (229 reviews).'),
+  place('hveragerdi-cafe-2', 'hveragerdi', 'cafe', 'Reykjadalur Café', 'Reykjadalur, Hveragerði, Iceland', '카페. 구글 지도 평점 4.6(리뷰 283개).', 'Café. Rated 4.6 on Google Maps (283 reviews).'),
+
+  // —— fludir: restaurants, bakeries and cafés (2026-11-28) ——
+  place('fludir-fine_dining-1', 'fludir', 'fine_dining', 'Farmers Bistro', 'Garðastígur 8, Flúðir, Iceland', '비스트로. 구글 지도 평점 4.7(리뷰 849개).', 'Bistro. Rated 4.7 on Google Maps (849 reviews).'),
+  place('fludir-fine_dining-2', 'fludir', 'fine_dining', 'Restaurant Minilik', 'Flúðir, Iceland', '에티오피아 요리 식당. 구글 지도 평점 4.6(리뷰 555개).', 'Ethiopian restaurant. Rated 4.6 on Google Maps (555 reviews).'),
+  place('fludir-bakery-1', 'fludir', 'bakery', 'Flúða Bakarí', 'Smiðjustígur 10, Flúðir, Iceland', '빵집. 구글 지도 평점 5.0(리뷰 215개).', 'Bakery. Rated 5.0 on Google Maps (215 reviews).'),
+
+  // —— hvolsvollur: restaurants, bakeries and cafés (2026-11-28) ——
+  place('hvolsvollur-fine_dining-1', 'hvolsvollur', 'fine_dining', 'Midgard Restaurant', 'Dufþaksbraut 14, Hvolsvöllur, Iceland', '레스토랑. 구글 지도 평점 4.9(리뷰 618개).', 'Restaurant. Rated 4.9 on Google Maps (618 reviews).'),
+  place('hvolsvollur-fine_dining-2', 'hvolsvollur', 'fine_dining', 'Hotel Hvolsvöllur Restaurant & Bar', 'Hlíðarvegur 9, Hvolsvöllur, Iceland', '레스토랑. 구글 지도 평점 4.7(리뷰 80개).', 'Restaurant. Rated 4.7 on Google Maps (80 reviews).'),
+  place('hvolsvollur-fine_dining-3', 'hvolsvollur', 'fine_dining', 'Valhalla Restaurant', 'Hlíðarvegur 14, Hvolsvöllur, Iceland', '레스토랑. 구글 지도 평점 4.4(리뷰 1245개).', 'Restaurant. Rated 4.4 on Google Maps (1245 reviews).'),
+  place('hvolsvollur-fine_dining-4', 'hvolsvollur', 'fine_dining', 'Hygge Restaurant & Bar', 'Hellishólar, Iceland', '헤들리스홀라르에 있는 레스토랑. 구글 지도 평점 4.8(리뷰 1322개).', 'Restaurant in Hellishólar. Rated 4.8 on Google Maps (1322 reviews).'),
+
+  // —— kirkjubaejarklaustur: restaurants, bakeries and cafés (2026-11-28) ——
+  place('kirkjubaejarklaustur-fine_dining-1', 'kirkjubaejarklaustur', 'fine_dining', 'Klaustur Restaurant & Bar', 'Kirkjubæjarklaustur, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.6(리뷰 217개).', 'Icelandic restaurant. Rated 4.6 on Google Maps (217 reviews).'),
+  place('kirkjubaejarklaustur-fine_dining-2', 'kirkjubaejarklaustur', 'fine_dining', 'Systrakaffi', 'Kirkjubæjarklaustur, Iceland', '아이슬란드 요리 레스토랑. 구글 지도 평점 4.5(리뷰 1896개).', 'Icelandic restaurant. Rated 4.5 on Google Maps (1896 reviews).'),
 ]

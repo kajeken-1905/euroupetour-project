@@ -1861,6 +1861,67 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     air: [['Egilsstaðir (EGS)', '에길스타디르 공항 (EGS)']],
     port: [['Seyðisfjörður', '세이디스피외르뒤르 항구', '페로 제도·덴마크행 노뢰나 페리|Norröna ferry to the Faroe Islands and Denmark']],
   },
+  reykjanesbaer: {
+    air: [KEF('차로 약 10분|About 10 min by car')],
+    bus: [['Reykjanesbær', 'Reykjanesbær 정류장', 'Strætó 55번 레이캬비크행|Strætó route 55 to Reykjavík']],
+  },
+  borgarnes: {
+    air: [KEF('차로 약 1시간 30분|About 1 hr 30 min by car')],
+    bus: [['Borgarnes', 'Borgarnes 정류장', 'Strætó 50번 레이캬비크행|Strætó route 50 to Reykjavík']],
+  },
+  grundarfjordur: {
+    air: [KEF('차로 약 2시간 40분|About 2 hr 40 min by car')],
+    bus: [['Grundarfjörður', 'Grundarfjörður 정류장', 'Strætó 82번 스티키스홀뮈르행|Strætó route 82 to Stykkishólmur']],
+  },
+  patreksfjordur: {
+    air: [['Bíldudalur (BIU)', '빌뒤달뤼르 공항 (BIU)', '레이캬비크에서 노를란드에어로 약 35분, 마을까지 차로 약 30분|About 35 min from Reykjavík on Norlandair; about 30 min by car to town']],
+    port: [['Brjánslækur', '브랸슬래퀴르 항구', '스티키스홀뮈르행 발뒤르 페리, 차로 약 1시간|Baldur ferry to Stykkishólmur; about 1 hr by car']],
+  },
+  holmavik: {
+    air: [KEF('차로 약 3시간 30분|About 3 hr 30 min by car')],
+    bus: [['Hólmavík', 'Hólmavík 정류장', 'Strætó 59번 보르가르네스행|Strætó route 59 to Borgarnes']],
+  },
+  hvammstangi: {
+    air: [['Reykjavík (RKV)', '레이캬비크 공항 (RKV)', '차로 약 2시간 30분|About 2 hr 30 min by car']],
+  },
+  saudarkrokur: {
+    air: [['Sauðárkrókur (SAK)', '사우다르크로퀴르 공항 (SAK)', '레이캬비크행 에르니르, 주 3회|Ernir to Reykjavík, three times a week']],
+  },
+  siglufjordur: {
+    air: [['Akureyri (AEY)', '아쿠레이리 공항 (AEY)', '버스로 약 1시간 20분|About 1 hr 20 min by bus']],
+    bus: [['Siglufjörður', 'Siglufjörður 정류장', 'Strætó 78번 아쿠레이리행|Strætó route 78 to Akureyri']],
+  },
+  dalvik: {
+    air: [['Akureyri (AEY)', '아쿠레이리 공항 (AEY)', '버스로 약 40분|About 40 min by bus']],
+    bus: [['Dalvík', 'Dalvík 정류장', 'Strætó 78번 아쿠레이리행|Strætó route 78 to Akureyri']],
+    port: [['Dalvík', '달비크 항구', '그림세이행 사이파리 페리|Sæfari ferry to Grímsey']],
+  },
+  egilsstadir: {
+    air: [['Egilsstaðir (EGS)', '에길스타디르 공항 (EGS)', '레이캬비크행 국내선|domestic flights to Reykjavík']],
+    bus: [['Egilsstaðir', 'Egilsstaðir 정류장', 'Strætó 56번 아쿠레이리행|Strætó route 56 to Akureyri']],
+  },
+  djupivogur: {
+    air: [['Egilsstaðir (EGS)', '에길스타디르 공항 (EGS)', '차로 약 1시간 30분|About 1 hr 30 min by car']],
+  },
+  borgarfjordur: {
+    air: [['Egilsstaðir (EGS)', '에길스타디르 공항 (EGS)', '차로 약 1시간|About 1 hr by car']],
+  },
+  hveragerdi: {
+    air: [KEF('차로 약 1시간|About 1 hr by car')],
+    bus: [['Hveragerði', 'Hveragerði 정류장', 'Strætó 51번 레이캬비크행|Strætó route 51 to Reykjavík']],
+  },
+  fludir: {
+    air: [KEF('차로 약 1시간 40분|About 1 hr 40 min by car')],
+    bus: [['Flúðir', 'Flúðir 정류장', 'Strætó 72번 셀포스행|Strætó route 72 to Selfoss']],
+  },
+  hvolsvollur: {
+    air: [KEF('차로 약 1시간 50분|About 1 hr 50 min by car')],
+    bus: [['Hvolsvöllur', 'Hvolsvöllur 정류장', 'Strætó 52번 레이캬비크행|Strætó route 52 to Reykjavík']],
+  },
+  kirkjubaejarklaustur: {
+    air: [KEF('차로 약 4시간|About 4 hr by car')],
+    bus: [['Kirkjubæjarklaustur', 'Kirkjubæjarklaustur 정류장', 'Strætó 52번 레이캬비크·회픈행|Strætó route 52 to Reykjavík and Höfn']],
+  },
 
   // —— at ——
   vienna: {

@@ -337,7 +337,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   lublin: { days: [['', 2, 1, 4, 3, 5]], trips: [['카지미에시 돌니|Kazimierz Dolny', 6]] },
   reykjavik: {
     days: [
-      ['시내 중심|Downtown', 1, 8, 3, 2, 4],
+      ['시내 중심|Downtown', 1, 8, 13, 3, 2, 4, 14],
       ['박물관과 온천|Museums & lagoon', 7, 6, 9],
     ],
     trips: [
@@ -348,7 +348,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
   },
   akureyri: {
-    days: [['', 1, 8, 2, 3]],
+    days: [['', 1, 8, 2, 3, 9]],
     trips: [
       ['고다포스와 미바튼|Goðafoss & Mývatn', 5, 4],
       ['흐리세이섬|Hrísey', 6],
@@ -369,8 +369,24 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   hofn: { days: [['', 4]], trips: [['요퀼사우를론과 다이아몬드 해변|Jökulsárlón & Diamond Beach', 1, 2], ['스카프타펠|Skaftafell', 3], ['얼음 동굴 투어|Ice cave tour', 5]] },
   stykkisholmur: { days: [['', 1, 2]], trips: [['키르큐펠과 스나이펠스네스|Kirkjufell & Snæfellsnes', 3, 4], ['플라테이섬|Flatey', 5]] },
   isafjordur: { days: [['', 1]], trips: [['딘얀디 폭포|Dynjandi', 2], ['비구르섬|Vigur', 3], ['혼스트란디르|Hornstrandir', 4]] },
-  myvatn: { days: [['', 4, 2, 3, 1]], trips: [['크라플라|Krafla', 5]] },
+  myvatn: { days: [['', 4, 2, 6, 3, 1]], trips: [['크라플라|Krafla', 5]] },
   seydisfjordur: { days: [['', 1, 2, 3]], trips: [['헹이포스 폭포|Hengifoss', 4]] },
+  reykjanesbaer: {"days": [["", 1, 2]], "trips": [["레이캬네스반도|Reykjanes Peninsula", 3, 5, 4]]},
+  borgarnes: {"days": [["", 1]], "trips": [["온천과 용암 폭포|Hot springs & lava falls", 2, 5, 4, 3]]},
+  grundarfjordur: {"days": [["", 1, 2]], "trips": [["반도 끝 해안|Peninsula tip", 3, 4]]},
+  patreksfjordur: {"days": [["", 3]], "trips": [["라트라비아르그|Látrabjarg", 1], ["라우다산뒤르|Rauðasandur", 2]]},
+  holmavik: {"days": [["", 1]], "trips": [["드랑스네스|Drangsnes", 2], ["듀파비크|Djúpavík", 3]]},
+  hvammstangi: {"days": [["", 1]], "trips": [["바트스네스반도|Vatnsnes peninsula", 2, 3], ["콜루글리우푸르|Kolugljúfur", 4]]},
+  saudarkrokur: {"days": [["", 1]], "trips": [["잔디 농가와 교회|Turf farm & church", 2, 3], ["호프소스|Hofsós", 4]]},
+  siglufjordur: {"days": [["", 1, 2, 3]]},
+  dalvik: {"days": [["", 2, 3]], "trips": [["그림세이섬|Grímsey", 1]]},
+  egilsstadir: {"days": [["", 2, 1]], "trips": [["숲과 수도원|Forest & monastery", 3, 4], ["스튀들라길|Stuðlagil", 5]]},
+  djupivogur: {"days": [["", 1, 2, 3]]},
+  borgarfjordur: {"days": [["", 1, 2]], "trips": [["스토뤼르드|Stórurð", 3]]},
+  hveragerdi: {"days": [["", 1, 2]], "trips": [["용암 동굴과 지열 발전소|Lava tube & power plant", 3, 4]]},
+  fludir: {"days": [["", 1, 2]], "trips": [["스퇴운 복원 농가|Stöng reconstructed farm", 3]]},
+  hvolsvollur: {"days": [["", 1, 2, 3]], "trips": [["소르스뫼르크|Þórsmörk", 4]]},
+  kirkjubaejarklaustur: {"days": [["", 1, 2, 3]], "trips": [["라키 분화구|Laki craters", 4]]},
   bratislava: { days: [['', 2, 9, 7, 4, 6, 3, 1, 8, 10, 11]], trips: [['데빈 성|Devín Castle', 5], ['모드라|Modra', 12]] },
   kosice: [5, 9, 1, 8, 4, 6, 7, 2, 3],
   bardejov: {

@@ -8863,6 +8863,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— is ——
+  reykjanesbaer: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 공항은 버스로, 반도 끝 명소는 렌터카나 투어로 갑니다.',
+      en: 'Buses link the town and airport; reach the peninsula sights by rental car or tour.',
+    },
+    apps: [
+    ],
+  },
+  borgarnes: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 온천과 폭포는 렌터카로 갑니다.',
+      en: 'Walk the town; drive to the hot springs and waterfalls.',
+    },
+    apps: [
+    ],
+  },
+  grundarfjordur: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을과 키르큐펠은 걸어서, 반도 끝은 렌터카로 돕니다.',
+      en: 'Walk to Kirkjufell; drive around the peninsula tip.',
+    },
+    apps: [
+    ],
+  },
+  patreksfjordur: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '대중교통이 거의 없어 렌터카로 다니는 게 현실적입니다.',
+      en: 'There is little public transport; a rental car is the practical way around.',
+    },
+    apps: [
+    ],
+  },
+  holmavik: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 해안 마을은 렌터카로 갑니다.',
+      en: 'Walk the village; drive to the coastal hamlets.',
+    },
+    apps: [
+    ],
+  },
+  hvammstangi: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '대중교통이 거의 없어 렌터카로 다니는 게 현실적입니다.',
+      en: 'There is little public transport; a rental car is the practical way around.',
+    },
+    apps: [
+    ],
+  },
+  saudarkrokur: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 근교 농가와 수영장은 렌터카로 갑니다.',
+      en: 'Walk the town; drive to the farms and pool nearby.',
+    },
+    apps: [
+    ],
+  },
+  siglufjordur: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다 돕니다.',
+      en: 'The whole town is walkable.',
+    },
+    apps: [
+    ],
+  },
+  dalvik: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '마을은 걸어서, 그림세이는 페리로 갑니다.',
+      en: 'Walk the village; take the ferry to Grímsey.',
+    },
+    apps: [
+    ],
+  },
+  egilsstadir: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 숲과 협곡은 렌터카로 갑니다.',
+      en: 'Walk the town; drive to the forest and canyon.',
+    },
+    apps: [
+    ],
+  },
+  djupivogur: {
+    modes: ['walk'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 오가는 건 렌터카로 합니다.',
+      en: 'Walk the village; arrive and leave by rental car.',
+    },
+    apps: [
+    ],
+  },
+  borgarfjordur: {
+    modes: ['walk'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 오가는 건 렌터카로 합니다.',
+      en: 'Walk the village; arrive and leave by rental car.',
+    },
+    apps: [
+    ],
+  },
+  hveragerdi: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 온천 강 입구까지는 걸어서 30분 남짓이나 차로 갑니다.',
+      en: 'Walk the town; the hot-river trailhead is about a 30-minute walk or a short drive.',
+    },
+    apps: [
+    ],
+  },
+  fludir: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 근교 온천과 농가는 렌터카로 갑니다.',
+      en: 'Walk the village; drive to the nearby pools and farm.',
+    },
+    apps: [
+    ],
+  },
+  hvolsvollur: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 폭포는 렌터카로, 소르스뫼르크는 여름 산악 버스로 갑니다.',
+      en: 'Walk the village; drive to the waterfall; take the summer highland bus to Þórsmörk.',
+    },
+    apps: [
+    ],
+  },
+  kirkjubaejarklaustur: {
+    modes: ['walk', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 근교는 렌터카로 갑니다.',
+      en: 'Walk the village; drive to the sights nearby.',
+    },
+    apps: [
+    ],
+  },
   reykjavik: {
     modes: ['bus', 'taxi', 'rideshare', 'walk'],
     airportToCity: {

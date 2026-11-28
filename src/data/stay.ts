@@ -1187,6 +1187,59 @@ export const STAY: Record<string, StayArea[]> = {
     a('캄피', 'Kamppi', 'Kamppi, Helsinki', '교통·식당|Transport and food', '버스·지하철 중심지로 식당과 바가 가장 많습니다.|The transport hub, with the most restaurants and bars.'),
     a('푸나부오리 (디자인 지구)', 'Punavuori (Design District)', 'Punavuori, Helsinki', '디자인 상점·부티크 호텔|Design shops and boutique stays', '디자인 상점과 갤러리가 모인 동네로 부티크 숙소가 비교적 합리적입니다.|Design shops and galleries, with fairly priced boutique hotels.'),
   ],
+  reykjanesbaer: [
+    a('케플라비크 시내', 'Keflavík centre', 'Keflavík', '처음 가는 여행에 추천|Best for a first visit', '공항이 가깝고 항구와 식당이 걸어서 닿습니다.|Close to the airport, with the harbour and restaurants on foot.'),
+  ],
+  borgarnes: [
+    a('보르가르네스 시내', 'Borgarnes town', 'Borgarnes', '처음 가는 여행에 추천|Best for a first visit', '정착 센터와 버스 정류장이 가깝습니다.|Near the Settlement Centre and bus stop.'),
+    a('레이캬비크에서 당일치기', 'Day trip from Reykjavík', 'Reykjavík', '당일치기|As a day trip', '차로 1시간 남짓이라 근교 명소와 함께 다녀오기 좋습니다.|An hour or so by car, easy to combine with the nearby sights.'),
+  ],
+  grundarfjordur: [
+    a('그륀다르피외르뒤르 마을', 'Grundarfjörður village', 'Grundarfjörður', '처음 가는 여행에 추천|Best for a first visit', '키르큐펠이 걸어서 닿는 작은 마을입니다.|A small village with Kirkjufell on foot.'),
+  ],
+  patreksfjordur: [
+    a('파트렉스피외르뒤르 마을', 'Patreksfjörður village', 'Patreksfjörður', '처음 가는 여행에 추천|Best for a first visit', '상점과 수영장이 있는 이 지역 중심 마을입니다.|The area’s main village, with shops and a pool.'),
+  ],
+  holmavik: [
+    a('홀마비크 마을', 'Hólmavík village', 'Hólmavík', '처음 가는 여행에 추천|Best for a first visit', '박물관과 항구, 버스 정류장이 걸어서 닿습니다.|The museum, harbour and bus stop on foot.'),
+  ],
+  hvammstangi: [
+    a('크밤스타웅기 마을', 'Hvammstangi village', 'Hvammstangi', '처음 가는 여행에 추천|Best for a first visit', '물범 센터와 항구가 걸어서 닿습니다.|The Seal Center and harbour on foot.'),
+  ],
+  saudarkrokur: [
+    a('사우다르크로퀴르 시내', 'Sauðárkrókur town', 'Sauðárkrókur', '처음 가는 여행에 추천|Best for a first visit', '전시관과 식당, 상점이 모여 있습니다.|Exhibitions, restaurants and shops close together.'),
+  ],
+  siglufjordur: [
+    a('항구 주변', 'Harbour area', 'Siglufjörður', '처음 가는 여행에 추천|Best for a first visit', '박물관과 식당이 걸어서 닿습니다.|The museum and restaurants on foot.'),
+    a('아쿠레이리에서 당일치기', 'Day trip from Akureyri', 'Akureyri', '당일치기|As a day trip', '78번 버스로 다녀올 수 있습니다.|Easy on bus route 78.'),
+  ],
+  dalvik: [
+    a('달비크 마을', 'Dalvík village', 'Dalvík', '처음 가는 여행에 추천|Best for a first visit', '항구와 버스 정류장이 걸어서 닿습니다.|The harbour and bus stop on foot.'),
+    a('아쿠레이리에서 당일치기', 'Day trip from Akureyri', 'Akureyri', '당일치기|As a day trip', '버스로 40분 남짓입니다.|About 40 min by bus.'),
+  ],
+  egilsstadir: [
+    a('에길스타디르 시내', 'Egilsstaðir town', 'Egilsstaðir', '처음 가는 여행에 추천|Best for a first visit', '공항과 버스, 상점이 가까운 동부의 거점입니다.|The eastern base, close to the airport, buses and shops.'),
+  ],
+  djupivogur: [
+    a('디우피보귀르 마을', 'Djúpivogur village', 'Djúpivogur', '처음 가는 여행에 추천|Best for a first visit', '항구 주변에 숙소와 식당이 모여 있습니다.|Lodging and restaurants cluster round the harbour.'),
+  ],
+  borgarfjordur: [
+    a('바카게르디 마을', 'Bakkagerði village', 'Bakkagerði', '처음 가는 여행에 추천|Best for a first visit', '숙소 몇 곳과 카페가 있는 작은 마을입니다.|A small village with a few lodgings and a café.'),
+  ],
+  hveragerdi: [
+    a('크베라게르디 마을', 'Hveragerði town', 'Hveragerði', '처음 가는 여행에 추천|Best for a first visit', '온천 강 입구와 버스 정류장이 가깝습니다.|Close to the hot-river trailhead and bus stop.'),
+    a('레이캬비크에서 당일치기', 'Day trip from Reykjavík', 'Reykjavík', '당일치기|As a day trip', '51번 버스로 40분 남짓입니다.|About 40 min on bus route 51.'),
+  ],
+  fludir: [
+    a('플루디르 마을', 'Flúðir village', 'Flúðir', '처음 가는 여행에 추천|Best for a first visit', '시크릿 라군이 걸어서 닿습니다.|The Secret Lagoon on foot.'),
+    a('셀포스에서 다녀오기', 'From Selfoss', 'Selfoss', '거점에서 다녀오기|From a base', '72번 버스나 차로 다녀옵니다.|By bus route 72 or car.'),
+  ],
+  hvolsvollur: [
+    a('크볼스뵈들뤼르 마을', 'Hvolsvöllur village', 'Hvolsvöllur', '처음 가는 여행에 추천|Best for a first visit', '전시관과 주유소, 상점이 길가에 모여 있습니다.|The exhibitions, petrol station and shops line the main road.'),
+  ],
+  kirkjubaejarklaustur: [
+    a('키르큐바이야르클라우스튀르 마을', 'Kirkjubæjarklaustur village', 'Kirkjubæjarklaustur', '처음 가는 여행에 추천|Best for a first visit', '비크와 스카프타펠 사이에서 묵기 좋은 마을입니다.|A good overnight stop between Vík and Skaftafell.'),
+  ],
   reykjavik: [
     a('도심 (미드보르그)', 'Downtown (Miðborg)', 'Miðborg, Reykjavík', '처음 가는 여행에 추천|Best for a first visit', '관광지와 식당을 걸어서 다닙니다. 주말 밤에는 시끄럽습니다.|Sights and restaurants on foot; noisy on weekend nights.'),
     a('옛 항구', 'Old Harbour (Grandi)', 'Old Harbour, Reykjavík', '조용한 물가|Quieter, by the water', '고래 관찰·퍼핀 투어가 떠나는 곳입니다. 호텔은 적습니다.|Where whale and puffin tours leave; fewer hotels.'),
