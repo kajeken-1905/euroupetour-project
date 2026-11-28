@@ -54353,7 +54353,7 @@ export const cities: City[] = [
       },
       {
         id: "brasov-h4",
-        name: { ko: "브란 성", en: "Bran Castle" },
+        name: { ko: "브란 성(드라큘라 성)", en: "Bran Castle (Dracula’s Castle)" },
         description: { ko: "14세기 산길을 지키던 성으로, 드라큘라 성으로 알려졌고 마리 왕비가 머물던 방들을 둘러봅니다.", en: "The 14th-century castle guarding a mountain pass, famed as ‘Dracula’s Castle’, with rooms once used by Queen Marie." },
         image: "/highlights/brasov-4.jpg",
         mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bran%20Castle",
