@@ -138,4 +138,180 @@ export const placesSEExtra: Place[] = [
 
   // —— abisko: restaurants, bakeries and cafés (2026-11-14) ——
   place('abisko-fine_dining-1', 'abisko', 'fine_dining', 'Brasserie Fjällköket', 'Lapportsvägen 30, Abisko', '아비스코의 브라스리. 구글 지도 평점 4.7.', 'Brasserie in Abisko. Rated 4.7 on Google Maps.'),
+
+  // —— sigtuna: restaurants, bakeries and cafés (2026-11-27) ——
+  place('sigtuna-fine_dining-1', 'sigtuna', 'fine_dining', 'Båthuset Krog & Bar', 'Hamngatan 2, Sigtuna, Sweden', '레스토랑. 구글 지도 평점 4.7(리뷰 341개).', 'Restaurant. Rated 4.7 on Google Maps (341 reviews).'),
+  place('sigtuna-fine_dining-2', 'sigtuna', 'fine_dining', 'Cicciotto', 'Stora Gatan 34, Sigtuna, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.4(리뷰 787개).', 'Italian restaurant. Rated 4.4 on Google Maps (787 reviews).'),
+  place('sigtuna-fine_dining-3', 'sigtuna', 'fine_dining', 'Paco´s Sigtuna', 'Stora Brännbovägen 31, Sigtuna, Sweden', '멕시코 요리 식당. 구글 지도 평점 4.7(리뷰 459개).', 'Mexican restaurant. Rated 4.7 on Google Maps (459 reviews).'),
+  place('sigtuna-fine_dining-4', 'sigtuna', 'fine_dining', 'Farbror Blå', 'Stora Gatan 4d, Sigtuna, Sweden', '레스토랑. 구글 지도 평점 4.3(리뷰 486개).', 'Restaurant. Rated 4.3 on Google Maps (486 reviews).'),
+  place('sigtuna-fine_dining-5', 'sigtuna', 'fine_dining', 'Restaurang Kopparkitteln', 'Stora Gatan 31, Sigtuna, Sweden', '레스토랑. 구글 지도 평점 4.3(리뷰 613개).', 'Restaurant. Rated 4.3 on Google Maps (613 reviews).'),
+  place('sigtuna-bakery-1', 'sigtuna', 'bakery', 'Pelles och Maries brödbutik', 'Stora Gatan 29, Sigtuna, Sweden', '빵집. 구글 지도 평점 4.9(리뷰 93개).', 'Bakery. Rated 4.9 on Google Maps (93 reviews).'),
+  place('sigtuna-bakery-2', 'sigtuna', 'bakery', 'Balders Bröd Köpmangården', 'Stora Gatan 45, Sigtuna, Sweden', '빵집. 구글 지도 평점 4.4(리뷰 97개).', 'Bakery. Rated 4.4 on Google Maps (97 reviews).'),
+  place('sigtuna-cafe-1', 'sigtuna', 'cafe', 'Café Valvet', 'Stora Gatan 40c, Sigtuna, Sweden', '카페. 구글 지도 평점 4.3(리뷰 902개).', 'Café. Rated 4.3 on Google Maps (902 reviews).'),
+
+  // —— vaxholm: restaurants, bakeries and cafés (2026-11-27) ——
+  place('vaxholm-fine_dining-1', 'vaxholm', 'fine_dining', 'Unique Living Restaurant & Interior', 'Hamngatan 40, Vaxholm, Sweden', '스뫼레브뢰드(오픈 샌드위치) 식당. 구글 지도 평점 4.9(리뷰 138개).', 'Smørrebrød (open sandwich) restaurant. Rated 4.9 on Google Maps (138 reviews).'),
+  place('vaxholm-fine_dining-2', 'vaxholm', 'fine_dining', 'Dee Dee thaikök - Vaxholm', 'Söderhamnsplan 1, Vaxholm, Sweden', '태국 요리 레스토랑. 구글 지도 평점 4.7(리뷰 346개).', 'Thai restaurant. Rated 4.7 on Google Maps (346 reviews).'),
+  place('vaxholm-fine_dining-3', 'vaxholm', 'fine_dining', 'Magasinet i Waxholm', 'Fiskaregatan 1, Vaxholm, Sweden', '레스토랑. 구글 지도 평점 4.3(리뷰 148개).', 'Restaurant. Rated 4.3 on Google Maps (148 reviews).'),
+  place('vaxholm-bakery-1', 'vaxholm', 'bakery', 'Gateau Vaxholm', 'Hamngatan 12, Vaxholm, Sweden', '빵집. 구글 지도 평점 4.3(리뷰 221개).', 'Bakery. Rated 4.3 on Google Maps (221 reviews).'),
+  place('vaxholm-cafe-1', 'vaxholm', 'cafe', 'Camilles Trädgård & Café', 'Fiskaregatan 12, Vaxholm, Sweden', '카페. 구글 지도 평점 4.8(리뷰 719개).', 'Café. Rated 4.8 on Google Maps (719 reviews).'),
+  place('vaxholm-cafe-2', 'vaxholm', 'cafe', 'Roddarhuset Art Gallery & Cafe', 'Östra Ekuddsgatan 21, Vaxholm, Sweden', '카페. 구글 지도 평점 4.5(리뷰 303개).', 'Café. Rated 4.5 on Google Maps (303 reviews).'),
+  place('vaxholm-cafe-3', 'vaxholm', 'cafe', 'Glass på Hörnet', 'Hamngatan 2, Vaxholm, Sweden', '아이스크림 가게. 구글 지도 평점 4.5(리뷰 519개).', 'Ice-cream shop. Rated 4.5 on Google Maps (519 reviews).'),
+
+  // —— orebro: restaurants, bakeries and cafés (2026-11-27) ——
+  place('orebro-fine_dining-1', 'orebro', 'fine_dining', 'Restaurang Rocca', 'Engelbrektsgatan 45, Örebro, Sweden', '레스토랑. 구글 지도 평점 4.9(리뷰 262개).', 'Restaurant. Rated 4.9 on Google Maps (262 reviews).'),
+  place('orebro-fine_dining-2', 'orebro', 'fine_dining', 'Osteria da Alfonso', 'Storgatan 18, Örebro, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 430개).', 'Italian restaurant. Rated 4.7 on Google Maps (430 reviews).'),
+  place('orebro-fine_dining-3', 'orebro', 'fine_dining', 'Restaurang Amano', 'Kungsgatan 1, Örebro, Sweden', '레스토랑. 구글 지도 평점 4.6(리뷰 466개).', 'Restaurant. Rated 4.6 on Google Maps (466 reviews).'),
+  place('orebro-fine_dining-4', 'orebro', 'fine_dining', 'Blackstone Steakhouse Örebro', 'Storgatan 3, Örebro, Sweden', '스테이크 하우스. 구글 지도 평점 4.6(리뷰 365개).', 'Steakhouse. Rated 4.6 on Google Maps (365 reviews).'),
+  place('orebro-fine_dining-5', 'orebro', 'fine_dining', 'Fratelli Örebro', 'Stortorget 8, Örebro, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.4(리뷰 2859개).', 'Italian restaurant. Rated 4.4 on Google Maps (2859 reviews).'),
+  place('orebro-bakery-1', 'orebro', 'bakery', 'Malins Hembageri', 'Engelbrektsgatan 70, Örebro, Sweden', '빵집. 구글 지도 평점 4.5(리뷰 156개).', 'Bakery. Rated 4.5 on Google Maps (156 reviews).'),
+  place('orebro-bakery-2', 'orebro', 'bakery', 'Konditori Västerport', 'Ekersgatan 21, Örebro, Sweden', '빵집. 구글 지도 평점 4.4(리뷰 140개).', 'Bakery. Rated 4.4 on Google Maps (140 reviews).'),
+  place('orebro-bakery-3', 'orebro', 'bakery', 'Hälls Konditori Centralpalatset', 'Olaigatan 17, Örebro, Sweden', '과자점. 구글 지도 평점 4.3(리뷰 320개).', 'Pastry shop. Rated 4.3 on Google Maps (320 reviews).'),
+  place('orebro-bakery-4', 'orebro', 'bakery', 'Princess Konditori', 'Storgatan 47, Örebro, Sweden', '과자점. 구글 지도 평점 4.3(리뷰 328개).', 'Pastry shop. Rated 4.3 on Google Maps (328 reviews).'),
+  place('orebro-cafe-1', 'orebro', 'cafe', 'Sture Café', 'Sturegatan 2, Örebro, Sweden', '카페. 구글 지도 평점 4.6(리뷰 136개).', 'Café. Rated 4.6 on Google Maps (136 reviews).'),
+  place('orebro-cafe-2', 'orebro', 'cafe', 'Old Örebro Café & Conference', 'Bertil Waldéns gata 14, Örebro, Sweden', '카페. 구글 지도 평점 4.3(리뷰 461개).', 'Café. Rated 4.3 on Google Maps (461 reviews).'),
+
+  // —— vasteras: restaurants, bakeries and cafés (2026-11-27) ——
+  place('vasteras-fine_dining-1', 'vasteras', 'fine_dining', 'Frank', 'Stora Gatan 3, Västerås, Sweden', '레스토랑. 구글 지도 평점 4.7(리뷰 514개).', 'Restaurant. Rated 4.7 on Google Maps (514 reviews).'),
+  place('vasteras-fine_dining-2', 'vasteras', 'fine_dining', 'Vinoteket Lothar', 'Karlsgatan 4, Västerås, Sweden', '와인 바 레스토랑. 구글 지도 평점 4.6(리뷰 471개).', 'Wine bar and restaurant. Rated 4.6 on Google Maps (471 reviews).'),
+  place('vasteras-fine_dining-3', 'vasteras', 'fine_dining', 'Limone Ristorante Italiano', 'Stora Gatan 4, Västerås, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 1392개).', 'Italian restaurant. Rated 4.5 on Google Maps (1392 reviews).'),
+  place('vasteras-fine_dining-4', 'vasteras', 'fine_dining', 'Kajplats 9', 'Sjötullsgatan 2, Västerås, Sweden', '레스토랑. 구글 지도 평점 4.4(리뷰 2010개).', 'Restaurant. Rated 4.4 on Google Maps (2010 reviews).'),
+  place('vasteras-fine_dining-5', 'vasteras', 'fine_dining', 'St.Thomas Restaurang', 'Västra Ringvägen 21B, Västerås, Sweden', '레바논 요리 식당. 구글 지도 평점 4.9(리뷰 282개).', 'Lebanese restaurant. Rated 4.9 on Google Maps (282 reviews).'),
+  place('vasteras-bakery-1', 'vasteras', 'bakery', 'Bageri April', 'Vasagatan 17, Västerås, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 366개).', 'Bakery. Rated 4.6 on Google Maps (366 reviews).'),
+  place('vasteras-bakery-2', 'vasteras', 'bakery', 'Bread & Sweets by Jennie', 'Öster Mälarstrands Allé 18, Västerås, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 332개).', 'Bakery. Rated 4.6 on Google Maps (332 reviews).'),
+  place('vasteras-bakery-3', 'vasteras', 'bakery', 'Kopparlundens Bageri', 'Kopparlundsvägen 7, Västerås, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 397개).', 'Bakery. Rated 4.6 on Google Maps (397 reviews).'),
+  place('vasteras-bakery-4', 'vasteras', 'bakery', 'Nakoula Sweets', 'Bomullsvägen 1, Västerås, Sweden', '과자점. 구글 지도 평점 4.8(리뷰 106개).', 'Pastry shop. Rated 4.8 on Google Maps (106 reviews).'),
+  place('vasteras-cafe-1', 'vasteras', 'cafe', 'Vanilla Cafe', 'Karlsgatan 18, Västerås, Sweden', '카페. 구글 지도 평점 4.8(리뷰 304개).', 'Café. Rated 4.8 on Google Maps (304 reviews).'),
+  place('vasteras-cafe-2', 'vasteras', 'cafe', 'Maria Therese', 'Kungsgatan 2, Västerås, Sweden', '카페. 구글 지도 평점 4.8(리뷰 221개).', 'Café. Rated 4.8 on Google Maps (221 reviews).'),
+  place('vasteras-cafe-3', 'vasteras', 'cafe', 'Karma - All Day Brunch', 'Smedjegatan 4, Västerås, Sweden', '브런치 카페. 구글 지도 평점 4.6(리뷰 94개).', 'Brunch café. Rated 4.6 on Google Maps (94 reviews).'),
+  place('vasteras-cafe-4', 'vasteras', 'cafe', 'Cafe Mosaic', 'Smedjegatan 2, Västerås, Sweden', '카페. 구글 지도 평점 4.4(리뷰 127개).', 'Café. Rated 4.4 on Google Maps (127 reviews).'),
+
+  // —— vadstena: restaurants, bakeries and cafés (2026-11-27) ——
+  place('vadstena-fine_dining-1', 'vadstena', 'fine_dining', 'Restaurang Bakgatan', 'Bakgatan 15, Vadstena, Sweden', '레스토랑. 구글 지도 평점 4.6(리뷰 158개).', 'Restaurant. Rated 4.6 on Google Maps (158 reviews).'),
+  place('vadstena-fine_dining-2', 'vadstena', 'fine_dining', 'Ejnebergs bistro', 'Storgatan, Vadstena, Sweden', '비스트로. 구글 지도 평점 4.7(리뷰 149개).', 'Bistro. Rated 4.7 on Google Maps (149 reviews).'),
+  place('vadstena-bakery-1', 'vadstena', 'bakery', 'Bageri Hamilton', 'Hovsgatan 1, Vadstena, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 228개).', 'Bakery. Rated 4.6 on Google Maps (228 reviews).'),
+  place('vadstena-cafe-1', 'vadstena', 'cafe', 'Café Nostalgi', 'Rådhustorget 1, Vadstena, Sweden', '카페. 구글 지도 평점 4.7(리뷰 145개).', 'Café. Rated 4.7 on Google Maps (145 reviews).'),
+
+  // —— linkoping: restaurants, bakeries and cafés (2026-11-27) ——
+  place('linkoping-fine_dining-1', 'linkoping', 'fine_dining', 'JORD', 'Johannesborgsparken 1A, 582 49 Linköping, Sweden', '레스토랑. 미쉐린 가이드 소개. 구글 지도 평점 4.7(리뷰 360개).', 'Restaurant. Listed in the MICHELIN Guide. Rated 4.7 on Google Maps (360 reviews).'),
+  place('linkoping-fine_dining-2', 'linkoping', 'fine_dining', 'Restaurant Alfama', 'Apotekaregatan 8, Linköping, Sweden', '포르투갈 요리 레스토랑. 구글 지도 평점 4.7(리뷰 715개).', 'Portuguese restaurant. Rated 4.7 on Google Maps (715 reviews).'),
+  place('linkoping-fine_dining-3', 'linkoping', 'fine_dining', 'Dahlboms Mat & Bar', 'Nygatan 29, Linköping, Sweden', '레스토랑. 구글 지도 평점 4.6(리뷰 439개).', 'Restaurant. Rated 4.6 on Google Maps (439 reviews).'),
+  place('linkoping-fine_dining-4', 'linkoping', 'fine_dining', 'Stångs Magasin', 'Södra Stånggatan 1, Linköping, Sweden', '레스토랑. 구글 지도 평점 4.4(리뷰 992개).', 'Restaurant. Rated 4.4 on Google Maps (992 reviews).'),
+  place('linkoping-bakery-1', 'linkoping', 'bakery', 'Bakery Normandie', 'Torggatan 1B, Linköping, Sweden', '빵집. 구글 지도 평점 4.9(리뷰 235개).', 'Bakery. Rated 4.9 on Google Maps (235 reviews).'),
+  place('linkoping-bakery-2', 'linkoping', 'bakery', 'Lanemo Patisserie & Bakery', 'Västra Vägen 6, Linköping, Sweden', '과자점. 구글 지도 평점 4.6(리뷰 812개).', 'Pastry shop. Rated 4.6 on Google Maps (812 reviews).'),
+  place('linkoping-bakery-3', 'linkoping', 'bakery', 'Tannefors Hembageri', 'Nya Tanneforsvägen 41, Linköping, Sweden', '빵집. 구글 지도 평점 4.5(리뷰 488개).', 'Bakery. Rated 4.5 on Google Maps (488 reviews).'),
+  place('linkoping-bakery-4', 'linkoping', 'bakery', 'Petra\'s Cake', 'Storgatan 50, Linköping, Sweden', '케이크 가게. 구글 지도 평점 4.9(리뷰 154개).', 'Cake shop. Rated 4.9 on Google Maps (154 reviews).'),
+  place('linkoping-cafe-1', 'linkoping', 'cafe', 'Simon\'s Roastery & Bakery', 'Storgatan 39G, Linköping, Sweden', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.6(리뷰 1082개).', 'Coffee roastery café. Rated 4.6 on Google Maps (1082 reviews).'),
+  place('linkoping-cafe-2', 'linkoping', 'cafe', 'Babettes Kafferi', 'Stora Badstugatan 4, Linköping, Sweden', '카페. 구글 지도 평점 4.6(리뷰 1203개).', 'Café. Rated 4.6 on Google Maps (1203 reviews).'),
+  place('linkoping-cafe-3', 'linkoping', 'cafe', 'Dolce Vita Linköping', 'Johannes Magnus väg 26, Linköping, Sweden', '카페. 구글 지도 평점 4.8(리뷰 166개).', 'Café. Rated 4.8 on Google Maps (166 reviews).'),
+
+  // —— jonkoping: restaurants, bakeries and cafés (2026-11-27) ——
+  place('jonkoping-fine_dining-1', 'jonkoping', 'fine_dining', 'BASTA - Italiensk Restaurang Jönköping', 'Östra Storgatan 2, Jönköping, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.8(리뷰 2437개).', 'Italian restaurant. Rated 4.8 on Google Maps (2437 reviews).'),
+  place('jonkoping-fine_dining-2', 'jonkoping', 'fine_dining', 'Rotisserie Jönköping', 'Södra Strandgatan 25D, Jönköping, Sweden', '바비큐 식당. 구글 지도 평점 4.9(리뷰 309개).', 'Barbecue restaurant. Rated 4.9 on Google Maps (309 reviews).'),
+  place('jonkoping-fine_dining-3', 'jonkoping', 'fine_dining', 'Restaurang Mangi', 'Smedjegatan 12B, Jönköping, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.8(리뷰 141개).', 'Italian restaurant. Rated 4.8 on Google Maps (141 reviews).'),
+  place('jonkoping-fine_dining-4', 'jonkoping', 'fine_dining', 'Si Chuan', 'Klostergatan 27, Jönköping, Sweden', '아시아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 250개).', 'Asian restaurant. Rated 4.7 on Google Maps (250 reviews).'),
+  place('jonkoping-fine_dining-5', 'jonkoping', 'fine_dining', 'Indiska Köket', 'Kapellgatan 15, Jönköping, Sweden', '인도 요리 레스토랑. 구글 지도 평점 4.6(리뷰 1805개).', 'Indian restaurant. Rated 4.6 on Google Maps (1805 reviews).'),
+  place('jonkoping-bakery-1', 'jonkoping', 'bakery', 'Konditori Napoleon', 'Barnarpsgatan 17, Jönköping, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 336개).', 'Pastry shop. Rated 4.4 on Google Maps (336 reviews).'),
+  place('jonkoping-bakery-2', 'jonkoping', 'bakery', 'Wallentins Konditori', 'Kortebovägen 5, Jönköping, Sweden', '과자점. 구글 지도 평점 4.5(리뷰 103개).', 'Pastry shop. Rated 4.5 on Google Maps (103 reviews).'),
+  place('jonkoping-bakery-3', 'jonkoping', 'bakery', 'Gilberts Konditori', 'Ekhagsringen 2, Jönköping, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 127개).', 'Pastry shop. Rated 4.4 on Google Maps (127 reviews).'),
+  place('jonkoping-cafe-1', 'jonkoping', 'cafe', 'STUK - Cafe Jönköping', 'Lantmätargränd 3, Jönköping, Sweden', '카페. 구글 지도 평점 4.6(리뷰 820개).', 'Café. Rated 4.6 on Google Maps (820 reviews).'),
+  place('jonkoping-cafe-2', 'jonkoping', 'cafe', 'Lindstrom\'s Cafe', 'Klostergatan 63, Jönköping, Sweden', '카페. 구글 지도 평점 4.5(리뷰 430개).', 'Café. Rated 4.5 on Google Maps (430 reviews).'),
+
+  // —— vaxjo: restaurants, bakeries and cafés (2026-11-27) ——
+  place('vaxjo-fine_dining-1', 'vaxjo', 'fine_dining', 'PM & Vänner', 'Västergatan 10, 352 31 Växjö, Sweden', '창작 요리 레스토랑. 미쉐린 1스타. 구글 지도 평점 4.4(리뷰 1391개).', 'Creative restaurant. One MICHELIN star. Rated 4.4 on Google Maps (1391 reviews).', { michelin: 'star1' }),
+  place('vaxjo-fine_dining-2', 'vaxjo', 'fine_dining', 'Delhi 6', 'Kungsgatan 1, Växjö, Sweden', '인도 요리 레스토랑. 구글 지도 평점 4.8(리뷰 208개).', 'Indian restaurant. Rated 4.8 on Google Maps (208 reviews).'),
+  place('vaxjo-fine_dining-3', 'vaxjo', 'fine_dining', 'Saigon Kitchen', 'Västra Esplanaden 9A, Växjö, Sweden', '베트남 요리 식당. 구글 지도 평점 4.7(리뷰 120개).', 'Vietnamese restaurant. Rated 4.7 on Google Maps (120 reviews).'),
+  place('vaxjo-fine_dining-4', 'vaxjo', 'fine_dining', 'Izakaya Moshi', 'Kungsgatan 6A, Växjö, Sweden', '일본 요리 레스토랑. 구글 지도 평점 4.5(리뷰 746개).', 'Japanese restaurant. Rated 4.5 on Google Maps (746 reviews).'),
+  place('vaxjo-fine_dining-5', 'vaxjo', 'fine_dining', 'Umami Monkey', 'Storgatan 18, Växjö, Sweden', '아시아 요리 레스토랑. 구글 지도 평점 4.3(리뷰 1074개).', 'Asian restaurant. Rated 4.3 on Google Maps (1074 reviews).'),
+  place('vaxjo-bakery-1', 'vaxjo', 'bakery', 'TårtaGården Bageri & Café', 'Verkstadsgatan 18E, Växjö, Sweden', '빵집. 구글 지도 평점 4.7(리뷰 107개).', 'Bakery. Rated 4.7 on Google Maps (107 reviews).'),
+  place('vaxjo-bakery-2', 'vaxjo', 'bakery', 'Hovs Bageri', 'Östregårdsgatan 7, Växjö, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 118개).', 'Bakery. Rated 4.6 on Google Maps (118 reviews).'),
+  place('vaxjo-bakery-3', 'vaxjo', 'bakery', 'Toftastrand konditori', 'Lenhovdavägen 72, Växjö, Sweden', '과자점. 구글 지도 평점 4.5(리뷰 1033개).', 'Pastry shop. Rated 4.5 on Google Maps (1033 reviews).'),
+  place('vaxjo-bakery-4', 'vaxjo', 'bakery', 'Broqvist konditori', 'Kronobergsgatan 14, Växjö, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 745개).', 'Pastry shop. Rated 4.4 on Google Maps (745 reviews).'),
+  place('vaxjo-bakery-5', 'vaxjo', 'bakery', 'Munges Bageri & Café', 'Öjabyvägen 20A, Växjö, Sweden', '빵집. 구글 지도 평점 4.4(리뷰 171개).', 'Bakery. Rated 4.4 on Google Maps (171 reviews).'),
+  place('vaxjo-cafe-1', 'vaxjo', 'cafe', 'Bönan & Mustaschen', 'Storgatan 8, Växjö, Sweden', '카페. 구글 지도 평점 4.8(리뷰 262개).', 'Café. Rated 4.8 on Google Maps (262 reviews).'),
+  place('vaxjo-cafe-2', 'vaxjo', 'cafe', 'Top Notch Bakery', 'Klostergatan 7, Växjö, Sweden', '카페. 구글 지도 평점 4.6(리뷰 331개).', 'Café. Rated 4.6 on Google Maps (331 reviews).'),
+  place('vaxjo-cafe-3', 'vaxjo', 'cafe', 'Mammornas cafe', 'Vilhelm Mobergs gata 4, Växjö, Sweden', '카페. 구글 지도 평점 4.7(리뷰 104개).', 'Café. Rated 4.7 on Google Maps (104 reviews).'),
+  place('vaxjo-cafe-4', 'vaxjo', 'cafe', 'Askelyckans Konditori', 'Storgatan 25, Växjö, Sweden', '카페. 구글 지도 평점 4.4(리뷰 305개).', 'Café. Rated 4.4 on Google Maps (305 reviews).'),
+
+  // —— helsingborg: restaurants, bakeries and cafés (2026-11-27) ——
+  place('helsingborg-fine_dining-1', 'helsingborg', 'fine_dining', 'Restaurang Stubinen', 'Drottninggatan 30, Helsingborg, Sweden', '스칸디나비아 요리 레스토랑. 구글 지도 평점 4.9(리뷰 210개).', 'Scandinavian restaurant. Rated 4.9 on Google Maps (210 reviews).'),
+  place('helsingborg-fine_dining-2', 'helsingborg', 'fine_dining', 'Le Coq Rouge', 'Bruksgatan 19, Helsingborg, Sweden', '프랑스 요리 레스토랑. 구글 지도 평점 4.6(리뷰 473개).', 'French restaurant. Rated 4.6 on Google Maps (473 reviews).'),
+  place('helsingborg-fine_dining-3', 'helsingborg', 'fine_dining', 'Vibes', 'Ängelholmsvägen 16, Helsingborg, Sweden', '레스토랑. 구글 지도 평점 4.8(리뷰 240개).', 'Restaurant. Rated 4.8 on Google Maps (240 reviews).'),
+  place('helsingborg-fine_dining-4', 'helsingborg', 'fine_dining', 'Madame Mustache', 'Norra Storgatan 9, Helsingborg, Sweden', '프랑스 요리 레스토랑. 구글 지도 평점 4.4(리뷰 945개).', 'French restaurant. Rated 4.4 on Google Maps (945 reviews).'),
+  place('helsingborg-fine_dining-5', 'helsingborg', 'fine_dining', 'Olsons skafferi', 'Mariagatan 6, Helsingborg, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.4(리뷰 1612개).', 'Italian restaurant. Rated 4.4 on Google Maps (1612 reviews).'),
+  place('helsingborg-bakery-1', 'helsingborg', 'bakery', 'Backhaus Bageri & Café', 'Järnvägsgatan 13, Helsingborg, Sweden', '빵집. 구글 지도 평점 4.5(리뷰 1027개).', 'Bakery. Rated 4.5 on Google Maps (1027 reviews).'),
+  place('helsingborg-bakery-2', 'helsingborg', 'bakery', 'Thores Bageri', 'Strandbadsvägen 11, Helsingborg, Sweden', '빵집. 구글 지도 평점 4.5(리뷰 116개).', 'Bakery. Rated 4.5 on Google Maps (116 reviews).'),
+  place('helsingborg-bakery-3', 'helsingborg', 'bakery', 'Börjes Konditori & Bageri', 'Tågagatan 76, Helsingborg, Sweden', '과자점. 구글 지도 평점 4.6(리뷰 182개).', 'Pastry shop. Rated 4.6 on Google Maps (182 reviews).'),
+  place('helsingborg-cafe-1', 'helsingborg', 'cafe', 'Margit café', 'Kullagatan 36, Helsingborg, Sweden', '카페. 구글 지도 평점 4.7(리뷰 398개).', 'Café. Rated 4.7 on Google Maps (398 reviews).'),
+  place('helsingborg-cafe-2', 'helsingborg', 'cafe', 'Bruket kaffebar', 'Bruksgatan 9, Helsingborg, Sweden', '스페셜티 커피 바. 구글 지도 평점 4.6(리뷰 825개).', 'Specialty coffee bar. Rated 4.6 on Google Maps (825 reviews).'),
+  place('helsingborg-cafe-3', 'helsingborg', 'cafe', 'Ebbas Fik', 'Bruksgatan 20, Helsingborg, Sweden', '카페. 구글 지도 평점 4.5(리뷰 1132개).', 'Café. Rated 4.5 on Google Maps (1132 reviews).'),
+  place('helsingborg-cafe-4', 'helsingborg', 'cafe', 'Sweet House Cafe', 'Södergatan 18, Helsingborg, Sweden', '카페. 구글 지도 평점 4.4(리뷰 710개).', 'Café. Rated 4.4 on Google Maps (710 reviews).'),
+
+  // —— simrishamn: restaurants, bakeries and cafés (2026-11-27) ——
+  place('simrishamn-fine_dining-1', 'simrishamn', 'fine_dining', 'VYN', 'Höga vägen 72, 272 92 Simrishamn, Sweden', '창작 요리 레스토랑. 미쉐린 2스타. 구글 지도 평점 4.8(리뷰 410개).', 'Creative restaurant. Two MICHELIN stars. Rated 4.8 on Google Maps (410 reviews).', { michelin: 'star2' }),
+  place('simrishamn-fine_dining-2', 'simrishamn', 'fine_dining', 'Sjöfolket - Ekströms Fisk & Restaurang', 'Svartehallsvägen 11, Simrishamn, Sweden', '해산물 레스토랑. 구글 지도 평점 4.5(리뷰 1380개).', 'Seafood restaurant. Rated 4.5 on Google Maps (1380 reviews).'),
+  place('simrishamn-fine_dining-3', 'simrishamn', 'fine_dining', 'Restaurang Cimbris', 'Storgatan 10, Simrishamn, Sweden', '레스토랑. 구글 지도 평점 4.5(리뷰 137개).', 'Restaurant. Rated 4.5 on Google Maps (137 reviews).'),
+  place('simrishamn-fine_dining-4', 'simrishamn', 'fine_dining', 'Restaurang Vibe', 'Storgatan 8, Simrishamn, Sweden', '레스토랑. 구글 지도 평점 4.5(리뷰 163개).', 'Restaurant. Rated 4.5 on Google Maps (163 reviews).'),
+  place('simrishamn-fine_dining-5', 'simrishamn', 'fine_dining', 'Fuji Sushi', 'Storgatan 21, Simrishamn, Sweden', '스시 레스토랑. 구글 지도 평점 4.7(리뷰 116개).', 'Sushi restaurant. Rated 4.7 on Google Maps (116 reviews).'),
+  place('simrishamn-bakery-1', 'simrishamn', 'bakery', 'Bagaren & Konditorn på Österlen', 'Storgatan 19, Simrishamn, Sweden', '빵집. 구글 지도 평점 4.3(리뷰 247개).', 'Bakery. Rated 4.3 on Google Maps (247 reviews).'),
+  place('simrishamn-cafe-1', 'simrishamn', 'cafe', 'Mårtens Kök och Café', 'Storgatan 32, Simrishamn, Sweden', '카페. 구글 지도 평점 4.3(리뷰 218개).', 'Café. Rated 4.3 on Google Maps (218 reviews).'),
+  place('simrishamn-cafe-2', 'simrishamn', 'cafe', 'Olaols Gelato Österlen', 'Karlstorpsvägen 40, Simrishamn, Sweden', '아이스크림 가게. 구글 지도 평점 4.4(리뷰 496개).', 'Ice-cream shop. Rated 4.4 on Google Maps (496 reviews).'),
+
+  // —— smogen: restaurants, bakeries and cafés (2026-11-27) ——
+  place('smogen-fine_dining-1', 'smogen', 'fine_dining', 'Göstas Fiskekrog', 'Fiskhamnsgatan 32, Smögen, Sweden', '해산물 레스토랑. 구글 지도 평점 4.3(리뷰 915개).', 'Seafood restaurant. Rated 4.3 on Google Maps (915 reviews).'),
+  place('smogen-fine_dining-2', 'smogen', 'fine_dining', 'Thai Ja Smögen', 'Hamngatan 6, Smögen, Sweden', '태국 요리 레스토랑. 구글 지도 평점 4.7(리뷰 242개).', 'Thai restaurant. Rated 4.7 on Google Maps (242 reviews).'),
+
+  // —— karlstad: restaurants, bakeries and cafés (2026-11-27) ——
+  place('karlstad-fine_dining-1', 'karlstad', 'fine_dining', 'Kinoko Ramen by Madam Kong', 'Fredsgatan 3A, Karlstad, Sweden', '라멘 식당. 구글 지도 평점 4.8(리뷰 474개).', 'Ramen restaurant. Rated 4.8 on Google Maps (474 reviews).'),
+  place('karlstad-fine_dining-2', 'karlstad', 'fine_dining', 'Fenan Kök & Bar', 'Tynäsgatan 10, Karlstad, Sweden', '해산물 레스토랑. 구글 지도 평점 4.8(리뷰 101개).', 'Seafood restaurant. Rated 4.8 on Google Maps (101 reviews).'),
+  place('karlstad-fine_dining-3', 'karlstad', 'fine_dining', 'Sultan Kolgrill', 'Blockgatan 9, Karlstad, Sweden', '튀르키예 요리 레스토랑. 구글 지도 평점 4.8(리뷰 728개).', 'Turkish restaurant. Rated 4.8 on Google Maps (728 reviews).'),
+  place('karlstad-fine_dining-4', 'karlstad', 'fine_dining', 'Restaurang Baran', 'Stenhagsgatan 12, Karlstad, Sweden', '바비큐 식당. 구글 지도 평점 4.7(리뷰 300개).', 'Barbecue restaurant. Rated 4.7 on Google Maps (300 reviews).'),
+  place('karlstad-fine_dining-5', 'karlstad', 'fine_dining', 'Blackstone Steakhouse Karlstad', 'Tynäsgatan 10, Karlstad, Sweden', '스테이크 하우스. 구글 지도 평점 4.5(리뷰 519개).', 'Steakhouse. Rated 4.5 on Google Maps (519 reviews).'),
+  place('karlstad-bakery-1', 'karlstad', 'bakery', 'Artisan Bread', 'Kasernhöjden 4, Karlstad, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 1372개).', 'Bakery. Rated 4.6 on Google Maps (1372 reviews).'),
+  place('karlstad-bakery-2', 'karlstad', 'bakery', 'Zahraa Cake', 'Nygatan 8, Karlstad, Sweden', '케이크 가게. 구글 지도 평점 4.9(리뷰 163개).', 'Cake shop. Rated 4.9 on Google Maps (163 reviews).'),
+  place('karlstad-bakery-3', 'karlstad', 'bakery', 'V Lindhés Bageri & Konditori', 'Vikengatan 5, Karlstad, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 189개).', 'Pastry shop. Rated 4.4 on Google Maps (189 reviews).'),
+  place('karlstad-cafe-1', 'karlstad', 'cafe', 'Rådhuscaféet', 'Tingvallagatan 8, Karlstad, Sweden', '카페. 구글 지도 평점 4.6(리뷰 82개).', 'Café. Rated 4.6 on Google Maps (82 reviews).'),
+  place('karlstad-cafe-2', 'karlstad', 'cafe', 'Kafé Rosteriet', 'Tolagsgatan 2, Karlstad, Sweden', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.4(리뷰 642개).', 'Coffee roastery café. Rated 4.4 on Google Maps (642 reviews).'),
+  place('karlstad-cafe-3', 'karlstad', 'cafe', 'Café Råtorp', 'Råtorpsvägen 22, Karlstad, Sweden', '카페. 구글 지도 평점 4.4(리뷰 595개).', 'Café. Rated 4.4 on Google Maps (595 reviews).'),
+
+  // —— mora: restaurants, bakeries and cafés (2026-11-27) ——
+  place('mora-fine_dining-1', 'mora', 'fine_dining', 'Björka Brygghus', 'Kyrkogatan 35, Mora, Sweden', '직접 맥주를 빚는 양조장 식당. 구글 지도 평점 4.8(리뷰 101개).', 'Brewpub restaurant. Rated 4.8 on Google Maps (101 reviews).'),
+  place('mora-fine_dining-2', 'mora', 'fine_dining', 'Restaurang Ä:t', 'Siljanssågsvägen 11, Mora, Sweden', '레스토랑. 구글 지도 평점 4.6(리뷰 207개).', 'Restaurant. Rated 4.6 on Google Maps (207 reviews).'),
+  place('mora-fine_dining-3', 'mora', 'fine_dining', 'Käk & Plock', 'Kyrkogatan 10, Mora, Sweden', '레스토랑. 구글 지도 평점 4.4(리뷰 754개).', 'Restaurant. Rated 4.4 on Google Maps (754 reviews).'),
+  place('mora-bakery-1', 'mora', 'bakery', 'Mora Kaffestuga', 'Kyrkogatan 8, Mora, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 1392개).', 'Pastry shop. Rated 4.4 on Google Maps (1392 reviews).'),
+  place('mora-cafe-1', 'mora', 'cafe', 'Korsnäsgården', 'Moragatan 9, Mora, Sweden', '카페. 구글 지도 평점 4.7(리뷰 212개).', 'Café. Rated 4.7 on Google Maps (212 reviews).'),
+  place('mora-cafe-2', 'mora', 'cafe', 'Café Zorn', 'Vasagatan 34c, Mora, Sweden', '카페. 구글 지도 평점 4.5(리뷰 462개).', 'Café. Rated 4.5 on Google Maps (462 reviews).'),
+  place('mora-cafe-3', 'mora', 'cafe', 'Geci Coffee', 'Kyrkogatan 4, Mora, Sweden', '카페. 구글 지도 평점 4.4(리뷰 498개).', 'Café. Rated 4.4 on Google Maps (498 reviews).'),
+
+  // —— gavle: restaurants, bakeries and cafés (2026-11-27) ——
+  place('gavle-fine_dining-1', 'gavle', 'fine_dining', 'Matildas', 'Timmermansgatan 23, Gävle, Sweden', '스웨덴 요리 레스토랑. 구글 지도 평점 4.7(리뷰 438개).', 'Swedish restaurant. Rated 4.7 on Google Maps (438 reviews).'),
+  place('gavle-fine_dining-2', 'gavle', 'fine_dining', 'Verovin', 'Norra Kungsgatan 11, Gävle, Sweden', '레스토랑. 구글 지도 평점 4.7(리뷰 319개).', 'Restaurant. Rated 4.7 on Google Maps (319 reviews).'),
+  place('gavle-fine_dining-3', 'gavle', 'fine_dining', 'Blackstone Steakhouse Gävle', 'Drottninggatan 28, Gävle, Sweden', '스테이크 하우스. 구글 지도 평점 4.6(리뷰 1093개).', 'Steakhouse. Rated 4.6 on Google Maps (1093 reviews).'),
+  place('gavle-fine_dining-4', 'gavle', 'fine_dining', 'BASTA - Gävle', 'Drottninggatan 18, Gävle, Sweden', '이탈리아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 1741개).', 'Italian restaurant. Rated 4.5 on Google Maps (1741 reviews).'),
+  place('gavle-fine_dining-5', 'gavle', 'fine_dining', 'Church Street Saloon', 'Kyrkogatan 11, Gävle, Sweden', '미국식 레스토랑. 구글 지도 평점 4.4(리뷰 1613개).', 'American restaurant. Rated 4.4 on Google Maps (1613 reviews).'),
+  place('gavle-bakery-1', 'gavle', 'bakery', 'Bageri Kavlat & Klart Magasinet', 'Norra Skeppsbron 1, Gävle, Sweden', '빵집. 구글 지도 평점 4.6(리뷰 330개).', 'Bakery. Rated 4.6 on Google Maps (330 reviews).'),
+  place('gavle-bakery-2', 'gavle', 'bakery', 'Épi Bageri & Café', 'Norra Kungsgatan 11, Gävle, Sweden', '빵집. 구글 지도 평점 4.3(리뷰 401개).', 'Bakery. Rated 4.3 on Google Maps (401 reviews).'),
+  place('gavle-bakery-3', 'gavle', 'bakery', 'Konditori Lido Söder', 'Södra Kungsgatan 10, Gävle, Sweden', '과자점. 구글 지도 평점 4.3(리뷰 920개).', 'Pastry shop. Rated 4.3 on Google Maps (920 reviews).'),
+  place('gavle-cafe-1', 'gavle', 'cafe', 'Elsas Coffeeshop', 'Västra Vägen 4, Gävle, Sweden', '카페. 구글 지도 평점 4.5(리뷰 712개).', 'Café. Rated 4.5 on Google Maps (712 reviews).'),
+  place('gavle-cafe-2', 'gavle', 'cafe', 'Café Bogården', 'Kungsbäcksvägen 39, Gävle, Sweden', '카페. 구글 지도 평점 4.6(리뷰 101개).', 'Café. Rated 4.6 on Google Maps (101 reviews).'),
+
+  // —— umea: restaurants, bakeries and cafés (2026-11-27) ——
+  place('umea-fine_dining-1', 'umea', 'fine_dining', 'Hunger och Törst', 'Vasagatan 1, Umeå, Sweden', '파인 다이닝 레스토랑. 구글 지도 평점 4.6(리뷰 510개).', 'Fine-dining restaurant. Rated 4.6 on Google Maps (510 reviews).'),
+  place('umea-fine_dining-2', 'umea', 'fine_dining', 'Köksbaren', 'Rådhusesplanaden 17B, Umeå, Sweden', '개스트로펍. 구글 지도 평점 4.6(리뷰 1284개).', 'Gastropub. Rated 4.6 on Google Maps (1284 reviews).'),
+  place('umea-fine_dining-3', 'umea', 'fine_dining', 'GREKISKA grill & bar', 'Storgatan 43, Umeå, Sweden', '그리스 요리 레스토랑. 구글 지도 평점 4.6(리뷰 648개).', 'Greek restaurant. Rated 4.6 on Google Maps (648 reviews).'),
+  place('umea-fine_dining-4', 'umea', 'fine_dining', 'Tehran Restaurang Umeå', 'Rådhusesplanaden 18E, Umeå, Sweden', '페르시아 요리 레스토랑. 구글 지도 평점 4.6(리뷰 181개).', 'Persian restaurant. Rated 4.6 on Google Maps (181 reviews).'),
+  place('umea-fine_dining-5', 'umea', 'fine_dining', 'Gotthards Krog', 'Storgatan 46, Umeå, Sweden', '스웨덴 요리 레스토랑. 구글 지도 평점 4.3(리뷰 649개).', 'Swedish restaurant. Rated 4.3 on Google Maps (649 reviews).'),
+  place('umea-bakery-1', 'umea', 'bakery', 'Laure\'s Fika', 'Järnvägstorget 14, Umeå, Sweden', '빵집. 구글 지도 평점 4.9(리뷰 156개).', 'Bakery. Rated 4.9 on Google Maps (156 reviews).'),
+  place('umea-bakery-2', 'umea', 'bakery', 'Hagabröd i Umeå', 'Axlavägen 1, Umeå, Sweden', '빵집. 구글 지도 평점 4.7(리뷰 96개).', 'Bakery. Rated 4.7 on Google Maps (96 reviews).'),
+  place('umea-bakery-3', 'umea', 'bakery', 'Ullas Kondis Västerslätt', 'Timotejvägen 4, Umeå, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 266개).', 'Pastry shop. Rated 4.4 on Google Maps (266 reviews).'),
+  place('umea-bakery-4', 'umea', 'bakery', 'Nya Konditoriet i Umeå', 'Kungsgatan 57, Umeå, Sweden', '과자점. 구글 지도 평점 4.3(리뷰 695개).', 'Pastry shop. Rated 4.3 on Google Maps (695 reviews).'),
+  place('umea-cafe-1', 'umea', 'cafe', 'Bokcafé Pilgatan', 'Pilgatan 14, Umeå, Sweden', '카페. 구글 지도 평점 4.6(리뷰 196개).', 'Café. Rated 4.6 on Google Maps (196 reviews).'),
+  place('umea-cafe-2', 'umea', 'cafe', 'Costas Of Sweden Roastery & Brewbar', 'Kungsgatan 46b, Umeå, Sweden', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.5(리뷰 350개).', 'Coffee roastery café. Rated 4.5 on Google Maps (350 reviews).'),
+  place('umea-cafe-3', 'umea', 'cafe', 'Gamla bibliotekscaféet', 'Rådhusesplanaden 6, Umeå, Sweden', '카페. 구글 지도 평점 4.3(리뷰 314개).', 'Café. Rated 4.3 on Google Maps (314 reviews).'),
+
+  // —— jokkmokk: restaurants, bakeries and cafés (2026-11-27) ——
+  place('jokkmokk-fine_dining-1', 'jokkmokk', 'fine_dining', 'Krog Lokal', 'Porjusvägen 7, Jokkmokk, Sweden', '스웨덴 요리 레스토랑. 구글 지도 평점 4.5(리뷰 161개).', 'Swedish restaurant. Rated 4.5 on Google Maps (161 reviews).'),
+  place('jokkmokk-fine_dining-2', 'jokkmokk', 'fine_dining', 'Lilla Paradiset Pizzeria', 'Storgatan 28, Jokkmokk, Sweden', '피자 식당. 구글 지도 평점 4.4(리뷰 654개).', 'Pizza restaurant. Rated 4.4 on Google Maps (654 reviews).'),
+  place('jokkmokk-fine_dining-3', 'jokkmokk', 'fine_dining', 'Restaurang Ga La Mair', 'Porjusvägen 4, Jokkmokk, Sweden', '태국 요리 레스토랑. 구글 지도 평점 4.3(리뷰 295개).', 'Thai restaurant. Rated 4.3 on Google Maps (295 reviews).'),
+  place('jokkmokk-bakery-1', 'jokkmokk', 'bakery', 'City Konditoriet i Jokkmokk', 'Storgatan 28c, Jokkmokk, Sweden', '과자점. 구글 지도 평점 4.4(리뷰 330개).', 'Pastry shop. Rated 4.4 on Google Maps (330 reviews).'),
 ]

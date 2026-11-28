@@ -568,6 +568,61 @@ export const STAY: Record<string, StayArea[]> = {
     a('뇌레브로', 'Nørrebro', 'Nørrebro, Copenhagen', '현지 분위기·절약|Local and cheaper', '다양한 식당과 독립 상점이 있는 다문화 동네입니다.|Multicultural, with good restaurants and independent shops.'),
     a('크리스티안스하운', 'Christianshavn', 'Christianshavn, Copenhagen', '운하 분위기|Canal-side', '구시가 맞은편 운하 동네로 다리를 건너면 바로입니다.|The canal quarter just across the bridges from the old town.'),
   ],
+  sigtuna: [
+    a('옛 시가지', 'Old town', 'Sigtuna', '처음 가는 여행에 추천|Best for a first visit', '중심가와 호숫가가 걸어서 닿습니다.|The main street and lakeshore on foot.'),
+    a('스톡홀름에서 당일치기', 'Day trip from Stockholm', 'Stockholm', '당일치기|As a day trip', '기차와 버스로 1시간 안팎이라 스톡홀름에서 다녀오기 좋습니다.|About an hour by train and bus, easy as a day trip from Stockholm.'),
+  ],
+  vaxholm: [
+    a('박스홀름 항구', 'Vaxholm harbour', 'Vaxholm', '처음 가는 여행에 추천|Best for a first visit', '선착장과 버스, 식당이 모여 있습니다.|Near the boats, buses and restaurants.'),
+    a('스톡홀름에서 당일치기', 'Day trip from Stockholm', 'Stockholm', '당일치기|As a day trip', '배나 버스로 1시간 안팎입니다.|About an hour by boat or bus.'),
+  ],
+  orebro: [
+    a('시내 중심', 'City centre', 'Örebro', '처음 가는 여행에 추천|Best for a first visit', '역과 성, 광장이 걸어서 닿습니다.|The station, castle and square on foot.'),
+  ],
+  vasteras: [
+    a('시내 중심', 'City centre', 'Västerås', '처음 가는 여행에 추천|Best for a first visit', '역과 대성당이 가깝습니다.|Near the station and cathedral.'),
+  ],
+  vadstena: [
+    a('옛 시가지', 'Old town', 'Vadstena', '처음 가는 여행에 추천|Best for a first visit', '수도원과 성, 호숫가가 걸어서 닿습니다.|The abbey, castle and lakeshore on foot.'),
+  ],
+  linkoping: [
+    a('시내 중심', 'City centre', 'Linköping', '처음 가는 여행에 추천|Best for a first visit', '역과 대성당, 광장이 가깝습니다.|Near the station, cathedral and square.'),
+  ],
+  jonkoping: [
+    a('시내 중심', 'City centre', 'Jönköping', '처음 가는 여행에 추천|Best for a first visit', '역과 호숫가, 박물관이 가깝습니다.|Near the station, lakeshore and museums.'),
+    a('그렌나', 'Gränna', 'Gränna', '작은 마을|Small-town stay', '호숫가 작은 마을로, 비싱쇠 배가 여기서 떠납니다.|A small lakeside town where the Visingsö ferry leaves.'),
+  ],
+  vaxjo: [
+    a('시내 중심', 'City centre', 'Växjö', '처음 가는 여행에 추천|Best for a first visit', '역과 대성당, 박물관이 가깝습니다.|Near the station, cathedral and museums.'),
+    a('코스타', 'Kosta', 'Kosta', '유리 마을|Glass village', '유리 공방 옆 호텔에서 묵을 수 있습니다.|Stay at the hotel beside the glassworks.'),
+  ],
+  helsingborg: [
+    a('시내 중심', 'City centre', 'Helsingborg', '처음 가는 여행에 추천|Best for a first visit', '역과 항구, 셰르난이 걸어서 닿습니다.|The station, harbour and Kärnan on foot.'),
+  ],
+  simrishamn: [
+    a('시므리스함', 'Simrishamn', 'Simrishamn', '처음 가는 여행에 추천|Best for a first visit', '기차역과 항구, 식당이 모여 있습니다.|The station, harbour and restaurants together.'),
+    a('외스테를렌 시골 민박', 'Österlen countryside', 'Kivik', '시골 숙소|Countryside stays', '사과밭과 바닷가 마을의 민박에서 묵습니다.|B&Bs among orchards and seaside villages.'),
+  ],
+  smogen: [
+    a('스뫼겐·쿵스함', 'Smögen & Kungshamn', 'Smögen', '처음 가는 여행에 추천|Best for a first visit', '부두와 식당이 가깝습니다.|Close to the boardwalk and restaurants.'),
+    a('피엘바카', 'Fjällbacka', 'Fjällbacka', '작은 어촌|Fishing village', '바위산 아래 어촌 숙소입니다.|Small lodgings under the granite hill.'),
+  ],
+  karlstad: [
+    a('시내 중심', 'City centre', 'Karlstad', '처음 가는 여행에 추천|Best for a first visit', '역과 광장, 강가가 걸어서 닿습니다.|The station, square and riverside on foot.'),
+  ],
+  mora: [
+    a('모라 시내', 'Mora centre', 'Mora', '처음 가는 여행에 추천|Best for a first visit', '역과 소른 박물관이 가깝습니다.|Near the station and the Zorn Museum.'),
+    a('레트비크', 'Rättvik', 'Rättvik', '호숫가|Lakeside', '나무 부두 옆 호숫가 마을입니다.|The lakeside village by the long pier.'),
+  ],
+  gavle: [
+    a('시내 중심', 'City centre', 'Gävle', '처음 가는 여행에 추천|Best for a first visit', '역과 강가, 옛 동네가 걸어서 닿습니다.|The station, river and old quarter on foot.'),
+  ],
+  umea: [
+    a('시내 중심', 'City centre', 'Umeå', '처음 가는 여행에 추천|Best for a first visit', '역과 강가, 식당이 가깝습니다.|Near the station, river and restaurants.'),
+  ],
+  jokkmokk: [
+    a('요크모크 마을', 'Jokkmokk village', 'Jokkmokk', '처음 가는 여행에 추천|Best for a first visit', '박물관과 버스 정류장이 가깝습니다. 겨울 시장 주간엔 일찍 예약하세요.|Near the museum and buses; book early for market week.'),
+  ],
   stockholm: [
     a('감라스탄', 'Gamla Stan', 'Gamla Stan, Stockholm', '옛 시가지 분위기|Old-town atmosphere', '왕궁과 노벨 박물관을 걸어서 갑니다. 숙소가 비싸고 관광객이 많습니다.|The Royal Palace and Nobel Museum on foot; rooms are pricey and it gets crowded.'),
     a('노르말름', 'Norrmalm', 'Norrmalm, Stockholm', '교통과 편리함|Transport and convenience', '중앙역이 있어 공항 열차와 모든 지하철 노선이 편합니다.|Around Central Station, with the airport train and every metro line.'),

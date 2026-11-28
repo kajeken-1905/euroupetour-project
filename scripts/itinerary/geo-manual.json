@@ -19470,5 +19470,250 @@
     60.50434,
     7.13038,
     "OSM Nominatim: Kjeåsen, Eidfjord, Vestland, 5783, Norge (Wikipedia 64m)"
+  ],
+  "stockholm-h18": [
+    59.32468,
+    18.0646,
+    "OSM Nominatim: Riddarholmskyrkan, Birger Jarls Torg, Riddarholmen, Södermal (Wikipedia 8m)"
+  ],
+  "gothenburg-h13": [
+    57.68012,
+    11.95408,
+    "OSM Nominatim: Botaniska trädgården, 22A, Carl Skottsbergs Gata, Änggården, (Wikipedia 82m)"
+  ],
+  "sigtuna-h2": [
+    59.61841,
+    17.72289,
+    "OSM Nominatim: Mariakyrkan, Uppsalavägen, Sigtuna, Sigtuna kommun, Stockhol (Wikipedia 2m)"
+  ],
+  "sigtuna-h3": [
+    59.61833,
+    17.72117,
+    "OSM Nominatim: S:t Olofs kyrkoruin, Olofsgatan, Sigtuna, Sigtuna kommun, St (Wikipedia 4m)"
+  ],
+  "sigtuna-h5": [
+    59.70308,
+    17.62166,
+    "OSM Nominatim: Skoklosters slott, Skoklostervägen, Skokloster, Slottsskogen (Wikipedia 15m)"
+  ],
+  "vaxholm-h1": [
+    59.4032,
+    18.35835,
+    "OSM Nominatim: Vaxholms Kastell, Borggården, Rindö, Vaxholm, Vaxholms kommu (Wikipedia 79m)"
+  ],
+  "vaxholm-h3": [
+    59.41229,
+    18.56432,
+    "OSM Nominatim: Grinda, Värmdö kommun, Stockholms län, Sverige (Wikipedia 156m)"
+  ],
+  "orebro-h1": [
+    59.27397,
+    15.21554,
+    "OSM Nominatim: Örebro slott, 1, Kansligatan, Norr, Örebro, Örebro kommun, Ö (Wikipedia 17m)"
+  ],
+  "orebro-h3": [
+    59.28795,
+    15.22528,
+    "OSM Nominatim: Svampen, Dalbygatan, Mejeritorget, Norr, Örebro, Örebro komm (Wikipedia 11m)"
+  ],
+  "vasteras-h1": [
+    59.61251,
+    16.54126,
+    "OSM Nominatim: Västerås domkyrka, Västra Kyrkogatan, Kyrkbacken, Västerås,  (Wikipedia 8m)"
+  ],
+  "vasteras-h3": [
+    59.62197,
+    16.51811,
+    "OSM Nominatim: Vallby Friluftsmuseum, 2, Skerikesvägen, Solbacka, Vallby, V (Wikipedia 76m)"
+  ],
+  "vadstena-h1": [
+    58.45077,
+    14.89154,
+    "OSM Nominatim: Vadstena Klosterkyrka, Lasarettsgatan, Vadstena, Vadstena ko (Wikipedia 25m)"
+  ],
+  "vadstena-h2": [
+    58.44596,
+    14.88264,
+    "OSM Nominatim: Vadstena Slott, Arkivgatan, Vadstena, Vadstena kommun, Öster (Wikipedia 58m)"
+  ],
+  "vadstena-h4": [
+    58.295,
+    14.77505,
+    "OSM Nominatim: Rökstenen, E 920, Rök, Ödeshögs kommun, Östergötlands län, 5 (Wikipedia 30m)"
+  ],
+  "vadstena-h5": [
+    58.2966,
+    14.65849,
+    "OSM Nominatim: Alvastra klosterruin, E 927, Södra Djurledet, Västra Tollsta (Wikipedia 10m)"
+  ],
+  "linkoping-h1": [
+    58.41124,
+    15.61746,
+    "OSM Nominatim: Linköpings domkyrka, 7, Sankt Persgatan, Kanberget, Vasastad (Wikipedia 19m)"
+  ],
+  "linkoping-h3": [
+    58.40994,
+    15.52446,
+    "OSM Nominatim: Flygvapenmuseum, 2, Carl Cederströms gata, Kärna, Malmslätt, (Wikipedia 50m)"
+  ],
+  "jonkoping-h1": [
+    57.78466,
+    14.1596,
+    "OSM Nominatim: Tändsticksmuseet, Tändsticksgränd, Tändsticksområdet, Väster (Wikipedia 1m)"
+  ],
+  "jonkoping-h2": [
+    57.7802,
+    14.17591,
+    "OSM Nominatim: Jönköpings läns museum, 2, Slottsgatan, Kålgården, Jönköping (Wikipedia 9m)"
+  ],
+  "jonkoping-h4": [
+    58.05294,
+    14.5049,
+    "OSM Nominatim: Brahehus, E 4, Uppgränna, Gränna, Jönköpings kommun, Jönköpi (Wikipedia 21m)"
+  ],
+  "jonkoping-h5": [
+    58.05282,
+    14.34447,
+    "OSM Nominatim: Visingsö, Tunnerstad, Jönköpings kommun, Jönköpings län, Sve (Wikipedia 727m)"
+  ],
+  "vaxjo-h3": [
+    56.85713,
+    14.83422,
+    "OSM Nominatim: Teleborgs slott, Slottsallén, Teleborg, Växjö, Växjö kommun, (Wikipedia 60m)"
+  ],
+  "vaxjo-h4": [
+    56.85047,
+    15.39523,
+    "OSM Nominatim: Kosta Glasbruk, Stora Vägen, Kulla, Kosta, Lessebo kommun, K (Wikipedia 352m)"
+  ],
+  "helsingborg-h3": [
+    56.05606,
+    12.71408,
+    "OSM Nominatim: Fredriksdal museer och trädgårdar, Gisela Trapps väg, Olympi (Wikipedia 280m)"
+  ],
+  "simrishamn-h3": [
+    55.68264,
+    14.23388,
+    "OSM Nominatim: Kungagraven, Bredarörsvägen, Skogsdala, Kivik, Simrishamns k (Wikipedia 84m)"
+  ],
+  "simrishamn-h5": [
+    55.5152,
+    14.34596,
+    "OSM Nominatim: Brantevik, Simrishamns kommun, Skåne län, 272 38, Sverige (Wikipedia 148m)"
+  ],
+  "smogen-h2": [
+    58.59641,
+    11.2816,
+    "OSM Nominatim: Kungsklyftan, Fjällbacka, Tanums kommun, Västra Götalands lä (Wikipedia 412m)"
+  ],
+  "smogen-h4": [
+    57.88622,
+    11.57716,
+    "OSM Nominatim: Carlstens Fästning, Kungsgatan, Marstrand, Kungälvs kommun,  (Wikipedia 70m)"
+  ],
+  "karlstad-h2": [
+    59.38153,
+    13.50651,
+    "OSM Nominatim: Karlstads domkyrka, 2, Västra Kyrkogatan, Hagaborg, Tingvall (Wikipedia 17m)"
+  ],
+  "karlstad-h3": [
+    59.38528,
+    13.50136,
+    "OSM Nominatim: Värmlands museum, 31, Västra Torggatan, Kasernhöjden, Tingva (Wikipedia 25m)"
+  ],
+  "mora-h1": [
+    61.007,
+    14.53793,
+    "OSM Nominatim: Zornmuseet, 36, Vasagatan, Morastrand, Mora, Mora kommun, Da (Wikipedia 57m)"
+  ],
+  "mora-h3": [
+    60.9625,
+    14.64618,
+    "OSM Nominatim: Nusnäs, Mora kommun, Dalarnas län, 792 77, Sverige (Wikipedia 834m)"
+  ],
+  "mora-h5": [
+    60.94844,
+    15.10444,
+    "OSM Nominatim: Dalhalla, Dalhallavägen, Västberg, Rättviks kommun, Dalarnas (Wikipedia 10m)"
+  ],
+  "gavle-h3": [
+    60.67499,
+    17.14419,
+    "OSM Nominatim: Gävlebocken, Drottninggatan, Skolstuvan, Villastan, Gävle, G (Wikipedia 274m)"
+  ],
+  "gavle-h4": [
+    60.67379,
+    17.15024,
+    "OSM Nominatim: Länsmuseet Gävleborg, 20, Södra Strandgatan, Södertull, Gävl (Wikipedia 18m)"
+  ],
+  "umea-h1": [
+    63.82938,
+    20.28932,
+    "OSM Nominatim: Västerbottens museum, 3, Helena Elisabeths väg, Gammlia, Sta (Wikipedia 64m)"
+  ],
+  "lund-h5": [
+    55.70781,
+    13.1983,
+    "OSM Nominatim: Skissernas museum, 2, Finngatan, Norra innerstaden, Centrum, (Wikipedia 4m)"
+  ],
+  "vasteras-h4": [
+    59.63044,
+    16.64605,
+    "OSM Nominatim: Anundshög, Tibble, Västerås, Västerås kommun, Västmanlands l (Wikipedia 76m)"
+  ],
+  "linkoping-h2": [
+    58.4059,
+    15.58945,
+    "OSM Nominatim: Gamla Linköping, Majgatan, Fridhem, Östra Valla, Linköpings  (Wikipedia 34m)"
+  ],
+  "linkoping-h4": [
+    58.48571,
+    15.53024,
+    "OSM Nominatim: Bergs slussar, Vreta kloster, Berg, Linköpings kommun, Öster (Wikipedia 446m)"
+  ],
+  "vaxjo-h1": [
+    56.87737,
+    14.81213,
+    "OSM Nominatim: Växjö Domkyrka, Linnégatan, Centrum, Växjö, Växjö kommun, Kr (Wikipedia 4m)"
+  ],
+  "helsingborg-h1": [
+    56.04829,
+    12.69749,
+    "OSM Nominatim: Kärnan, Slottshagsgatan, Centrum, Helsingborg, Helsingborgs  (Wikipedia 5m)"
+  ],
+  "helsingborg-h4": [
+    56.04763,
+    12.68891,
+    "OSM Nominatim: Dunkers kulturhus, 11, Kungsgatan, Centrum, Helsingborg, Hel (Wikipedia 23m)"
+  ],
+  "simrishamn-h2": [
+    55.50091,
+    14.23093,
+    "OSM Nominatim: Glimmingehus, Borgvägen, Glimminge, Simrishamns kommun, Skån (Wikipedia 10m)"
+  ],
+  "simrishamn-h4": [
+    55.66411,
+    14.2726,
+    "OSM Nominatim: Stenshuvud, Simrishamns kommun, Skåne län, 277 35, Sverige (Wikipedia 468m)"
+  ],
+  "karlstad-h1": [
+    59.38452,
+    13.51316,
+    "OSM Nominatim: Östra Bron, Hagaborg, Haga, Karlstad, Karlstads kommun, Värm (Wikipedia 14m)"
+  ],
+  "umea-h2": [
+    63.82033,
+    20.27631,
+    "OSM Nominatim: Bildmuseet, 30 B, Östra Strandgatan, Öbacka, Öst på stan, Ce (Wikipedia 0m)"
+  ],
+  "umea-h3": [
+    63.82705,
+    20.26628,
+    "OSM Nominatim: Guitars, 59, Skolgatan, Centrum, Centrala stan, Umeå, Umeå k (Wikipedia 89m)"
+  ],
+  "vaxholm-h4": [
+    59.28785,
+    18.91783,
+    "OSM Nominatim: Sandhamn, Värmdö kommun, Stockholms län, Sverige (Wikipedia 357m)"
   ]
 }

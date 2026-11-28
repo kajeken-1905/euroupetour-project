@@ -1411,6 +1411,84 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     rail: [['Abisko Turiststation', '아비스코 투리스트스타숀역']],
   },
 
+  sigtuna: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)']],
+    bus: [['Sigtuna busstation', '시그투나 버스 정류장', '메르스타역·알란다행|to Märsta station, Arlanda']],
+  },
+  vaxholm: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)']],
+    bus: [['Vaxholm busstation', '박스홀름 버스 정류장', '스톡홀름 테크니스카 회그스콜란행|to Tekniska högskolan, Stockholm']],
+    port: [['Vaxholm', '박스홀름 선착장', '스톡홀름 스트룀카옌·군도행|to Strömkajen and the islands']],
+  },
+  orebro: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차로 약 2시간 30분|About 2 hr 30 min by train']],
+    rail: [['Örebro C', '외레브로 중앙역']],
+    bus: [['Örebro resecentrum', '외레브로 버스터미널']],
+  },
+  vasteras: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차·버스로 약 1시간 30분|About 1 hr 30 min by train or bus']],
+    rail: [['Västerås C', '베스테로스 중앙역']],
+    bus: [['Västerås resecentrum', '베스테로스 버스터미널']],
+  },
+  vadstena: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차·버스로 약 3시간 30분|About 3 hr 30 min by train and bus']],
+    bus: [['Vadstena busstation', '바드스테나 버스 정류장', '미엘뷔·모탈라행|to Mjölby, Motala']],
+  },
+  linkoping: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차로 약 2시간 30분|About 2 hr 30 min by train']],
+    rail: [['Linköping C', '린셰핑 중앙역']],
+    bus: [['Linköping resecentrum', '린셰핑 버스터미널']],
+  },
+  jonkoping: {
+    air: [['Göteborg Landvetter (GOT)', '예테보리 란드베테르 공항 (GOT)', '버스로 약 1시간 30분|About 1 hr 30 min by bus']],
+    rail: [['Jönköping C', '옌셰핑 중앙역', '네셰 환승|change at Nässjö']],
+    bus: [['Jönköping resecentrum', '옌셰핑 버스터미널']],
+  },
+  vaxjo: {
+    air: [['Växjö Småland (VXO)', '벡셰 공항 (VXO)'], ['Copenhagen Kastrup (CPH)', '코펜하겐 공항 (CPH)', '덴마크 · 기차로 연결|Denmark · linked by train']],
+    rail: [['Växjö', '벡셰역']],
+    bus: [['Växjö resecentrum', '벡셰 버스터미널']],
+  },
+  helsingborg: {
+    air: [['Copenhagen Kastrup (CPH)', '코펜하겐 공항 (CPH)', '덴마크 · 기차로 연결|Denmark · linked by train']],
+    rail: [['Helsingborg C (Knutpunkten)', '헬싱보리 중앙역']],
+    bus: [['Knutpunkten', '크눗풍크텐 버스터미널']],
+    port: [['Helsingborg', '헬싱보리 여객선 터미널', '덴마크 헬싱외르행 20분|to Helsingør, Denmark, 20 min']],
+  },
+  simrishamn: {
+    air: [['Copenhagen Kastrup (CPH)', '코펜하겐 공항 (CPH)', '덴마크 · 기차로 연결|Denmark · linked by train'], ['Malmö (MMX)', '말뫼 공항 (MMX)']],
+    rail: [['Simrishamn', '시므리스함역', '말뫼행 종착역|end of the line from Malmö']],
+    bus: [['Simrishamn busstation', '시므리스함 버스 정류장']],
+  },
+  smogen: {
+    air: [['Göteborg Landvetter (GOT)', '예테보리 란드베테르 공항 (GOT)']],
+    bus: [['Smögen', '스뫼겐 버스 정류장', '쿵스함·우데발라행|to Kungshamn, Uddevalla']],
+  },
+  karlstad: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차로 약 3시간|About 3 hr by train']],
+    rail: [['Karlstad C', '칼스타드 중앙역']],
+    bus: [['Karlstad busstation', '칼스타드 버스터미널']],
+  },
+  mora: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차로 약 4시간|About 4 hr by train']],
+    rail: [['Mora', '모라역', '레트비크역도 같은 노선|Rättvik on the same line']],
+    bus: [['Mora busstation', '모라 버스 정류장']],
+  },
+  gavle: {
+    air: [['Stockholm Arlanda (ARN)', '알란다 공항 (ARN)', '기차로 약 1시간|About 1 hr by train']],
+    rail: [['Gävle C', '예블레 중앙역']],
+    bus: [['Gävle resecentrum', '예블레 버스터미널']],
+  },
+  umea: {
+    air: [['Umeå (UME)', '우메오 공항 (UME)']],
+    rail: [['Umeå C', '우메오 중앙역']],
+    bus: [['Vasaplan', '바사플란 버스 정류장']],
+    port: [['Holmsund', '홀름순드 항구', '핀란드 바사행|to Vaasa, Finland']],
+  },
+  jokkmokk: {
+    air: [['Luleå (LLA)', '룰레오 공항 (LLA)', '버스로 약 3시간|About 3 hr by bus']],
+    bus: [['Jokkmokk busstation', '요크모크 버스 정류장', '룰레오·옐리바레행|to Luleå, Gällivare']],
+  },
   // —— fi ——
   helsinki: {
     air: [['Helsinki-Vantaa (HEL)', '헬싱키 반타 공항 (HEL)']],

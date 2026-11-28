@@ -6589,3 +6589,96 @@ highlights/rjukan-1.jpg | https://commons.wikimedia.org/wiki/File:Vemork_nye_kra
 highlights/eidfjord-5.jpg | https://commons.wikimedia.org/wiki/File:Kje%C3%A5sen.jpg | Public domain | Sondrekv
 highlights/kristiansund-3.jpg | https://commons.wikimedia.org/wiki/File:Milnbrygga_226801_2024-2.jpg | CC BY-SA 4.0 | Bjørn Erik Pedersen
 highlights/vesteralen-5.jpg | https://commons.wikimedia.org/wiki/File:Bleik_and_Bleiks%C3%B8ya_with_snow.jpg | CC BY-SA 4.0 | Wolfgang Hägele
+cities/sigtuna.jpg | https://commons.wikimedia.org/wiki/File:Sigtuna_October_2016_06.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/sigtuna-1.jpg | https://commons.wikimedia.org/wiki/File:Stora_gatan_i_Sigtuna_nr_1.jpg | CC BY-SA 3.0 | Brorsson
+highlights/sigtuna-2.jpg | https://commons.wikimedia.org/wiki/File:Mariakyrkan_September_2013_01.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/sigtuna-3.jpg | https://commons.wikimedia.org/wiki/File:Sankt_Olofs_kyrkoruin_september_2013_01.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/sigtuna-4.jpg | https://commons.wikimedia.org/wiki/File:Sigtuna_museum_October_2016_03.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/sigtuna-5.jpg | https://commons.wikimedia.org/wiki/File:Skokloster_castle_(by_Pudelek).jpg | CC BY-SA 4.0 | Pudelek
+cities/vaxholm.jpg | https://commons.wikimedia.org/wiki/File:Vaxholm_(41868)p.jpg | CC BY-SA 4.0 | Rhododendrites
+highlights/vaxholm-1.jpg | https://commons.wikimedia.org/wiki/File:Vaxholms_kastell_November_2013.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/vaxholm-2.jpg | https://commons.wikimedia.org/wiki/File:Vaxholms_hamn_2009.JPG | Public domain | Janders
+highlights/vaxholm-3.jpg | https://commons.wikimedia.org/wiki/File:Stockholm_-_2019-08-12_-_Grinda_1748.jpg | CC BY 3.0 | PierreSelim
+highlights/vaxholm-4.jpg | https://commons.wikimedia.org/wiki/File:Sandhamn_February_2013_04.jpg | CC BY-SA 3.0 | Arild Vågen
+cities/orebro.jpg | https://commons.wikimedia.org/wiki/File:%C3%96rebro_slott_May_2014_01.jpg | CC BY-SA 3.0 | ArildV
+highlights/orebro-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%96rebro_slott_May_2014_01.jpg | CC BY-SA 3.0 | ArildV
+highlights/orebro-2.jpg | https://commons.wikimedia.org/wiki/File:Wadk%C3%B6ping_May_2014_02.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/orebro-3.jpg | https://www.flickr.com/photos/59445288@N07/5603033419 | BY-SA 2.0 | Magnus MWW
+highlights/orebro-4.jpg | https://commons.wikimedia.org/wiki/File:Sculpture_of_Saint_Nicholas_above_the_south_portal,_Sankt_Nicolai_kyrka,_%C3%96rebro,_2026.jpg | CC0 | DimiTalen
+cities/vasteras.jpg | https://commons.wikimedia.org/wiki/File:Lantm%C3%A4nnen_V%C3%A4ster%C3%A5s_January_2020_02.jpg | CC BY-SA 4.0 | Arild Vågen
+highlights/vasteras-1.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A4ster%C3%A5s_domkyrka_September_2014.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/vasteras-2.jpg | https://commons.wikimedia.org/wiki/File:Kyrkbacken,_V%C3%A4ster%C3%A5s1001.jpg | CC BY-SA 2.5 | Christer Johansson
+highlights/vasteras-3.jpg | https://commons.wikimedia.org/wiki/File:Farmgeb%C3%A4ude_im_Vallby_friluftsmuseum_(2).jpg | CC BY-SA 3.0 | Robin Müller
+highlights/vasteras-4.jpg | https://commons.wikimedia.org/wiki/File:Anundsh%C3%B6g_(Ra%C3%A4-nr_V%C3%A4ster%C3%A5s_431-1)_skeppss%C3%A4ttning_3653.jpg | CC BY-SA 3.0 | Achird
+cities/vadstena.jpg | https://commons.wikimedia.org/wiki/File:00_1284_Vadstena_(Schweden)_-_Schloss_(Slott).jpg | CC BY-SA 4.0 | W. Bulach
+highlights/vadstena-1.jpg | https://commons.wikimedia.org/wiki/File:Vadstena_klosterkyrka.JPG | Public domain | User:Artifex
+highlights/vadstena-2.jpg | https://commons.wikimedia.org/wiki/File:Vadstena_slott_02.jpg | CC BY-SA 4.0 | Sniper Zeta
+highlights/vadstena-3.jpg | https://commons.wikimedia.org/wiki/File:Vadstena_folkh%C3%B6gskola_flygbild_1.jpg | CC BY-SA 4.0 | Vadstenafolkhogskola
+highlights/vadstena-4.jpg | https://commons.wikimedia.org/wiki/File:R%C3%B6kstenen_1.JPG | CC BY 1.0 | Bengt Olof ÅRADSSON
+highlights/vadstena-5.jpg | https://commons.wikimedia.org/wiki/File:Alvastra_Klosterruin.jpg | CC BY-SA 4.0 | AwesomeSauceLtd
+cities/linkoping.jpg | https://commons.wikimedia.org/wiki/File:Link%C3%B6ping-tekniska_verken.jpg | CC BY 2.0 | tomhe
+highlights/linkoping-1.jpg | https://commons.wikimedia.org/wiki/File:Link%C3%B6pings_domkyrka_fr%C3%A5n_domkyrkoparken.jpg | CC BY-SA 4.0 | Katlinke
+highlights/linkoping-2.jpg | https://commons.wikimedia.org/wiki/File:Gamla_Link%C3%B6ping_08.jpg | CC BY 4.0 | Derbrauni
+highlights/linkoping-3.jpg | https://commons.wikimedia.org/wiki/File:Flygvapenmuseum-view.jpg | CC BY-SA 3.0 | Xauxa
+highlights/linkoping-5.jpg | https://commons.wikimedia.org/wiki/File:Industrilandskapet_February_2017_04.jpg | CC BY-SA 4.0 | ArildV
+cities/jonkoping.jpg | https://commons.wikimedia.org/wiki/File:%C3%96xnehaga,_J%C3%B6nk%C3%B6ping,_Sweden_-_panoramio_(1).jpg | CC BY-SA 3.0 | George Malki
+highlights/jonkoping-1.jpg | https://www.flickr.com/photos/55671677@N00/168307768 | BY 2.0 | visulogik
+highlights/jonkoping-2.jpg | https://commons.wikimedia.org/wiki/File:J%C3%B6nk%C3%B6pings_l%C3%A4ns_museum.JPG | Public domain | Moralist
+highlights/jonkoping-3.jpg | https://commons.wikimedia.org/wiki/File:View_of_Gr%C3%A4nna.jpg | Public domain | 
+highlights/jonkoping-4.jpg | https://commons.wikimedia.org/wiki/File:Brahehus_2022b.jpg | CC0 | Tulipasylvestris
+highlights/jonkoping-5.jpg | https://www.flickr.com/photos/28577026@N02/4730125680 | BY 2.0 | Allie_Caulfield
+cities/vaxjo.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A4xj%C3%B6_Art_Site.jpg | CC BY-SA 4.0 | Växjö kommun
+highlights/vaxjo-1.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A4xj%C3%B6_Domkyrka,_20220806.jpg | CC BY-SA 4.0 | AleWi
+highlights/vaxjo-2.jpg | https://commons.wikimedia.org/wiki/File:Kulturparken_sm%C3%A5land_entre.jpg | CC BY-SA 4.0 | Kulturparken Småland
+highlights/vaxjo-3.jpg | https://www.flickr.com/photos/56433265@N04/20874225745 | BY 2.0 | webbgun
+highlights/vaxjo-4.jpg | https://commons.wikimedia.org/wiki/File:003Kosta_glasbruk.jpg | CC BY-SA 3.0 | Bernt Fransson,Lindås
+highlights/vaxjo-5.jpg | https://commons.wikimedia.org/wiki/File:The_Glass_Factory_Boda_Glasbruk_01.jpg | CC BY-SA 4.0 | Bernt Fransson,Lindås
+highlights/stockholm-17.jpg | https://commons.wikimedia.org/wiki/File:Storkyrkan_March_2025_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/stockholm-18.jpg | https://commons.wikimedia.org/wiki/File:Gamla_Stan_tunnelbanestation,_Centralbron,_Riddarfj%C3%A4rden,_Stadshus,_Riddarholmskyrkan_and_Norra_tornen,_Stockholm,_Sweden.jpg | CC BY 4.0 | OleNeitzel
+highlights/gothenburg-13.jpg | https://www.flickr.com/photos/10239508@N07/14501298209 | BY 2.0 | mmmavocado
+highlights/lund-5.jpg | https://commons.wikimedia.org/wiki/File:Skissernas_museum_%C3%B6versikt_skulpturpark.JPG | CC BY 3.0 | Boberger. Photo: Bengt Oberger
+cities/helsingborg.jpg | https://commons.wikimedia.org/wiki/File:Helsingborg_port.jpg | CC BY 2.0 | Michal Pise, Michal.Pise
+highlights/helsingborg-1.jpg | https://commons.wikimedia.org/wiki/File:Helsingborg_k%C3%A4rnan_Horizontal.jpg | CC BY-SA 4.0 | Instdeadangel
+highlights/helsingborg-2.jpg | https://commons.wikimedia.org/wiki/File:Sofiero_Fassade.JPG | CC BY-SA 3.0 | Beckstet
+highlights/helsingborg-3.jpg | https://commons.wikimedia.org/wiki/File:Fredriksdals_stadskvarter_B%C3%85n.JPG | Public domain | No machine-readable author provided. Bo491 assumed (based on
+highlights/helsingborg-4.jpg | https://commons.wikimedia.org/wiki/File:Dunkers_kulturhus_4.jpg | Public domain | Jesper Olsson
+highlights/helsingborg-5.jpg | https://commons.wikimedia.org/wiki/File:Kullaberg_betesdjur.JPG | CC BY 3.0 | Peterappelros
+cities/simrishamn.jpg | https://commons.wikimedia.org/wiki/File:Vitaby_Church_in_Simrishamn_Sk%C3%A5ne_Sweden_03.jpg | CC BY-SA 4.0 | Sinikka Halme
+highlights/simrishamn-2.jpg | https://commons.wikimedia.org/wiki/File:Glimmingehus_c-m_2.jpg | CC BY-SA 3.0 | C-M
+highlights/simrishamn-3.jpg | https://www.flickr.com/photos/48292998@N00/5872069660 | BY-SA 2.0 | Gavin Anderson
+highlights/simrishamn-4.jpg | https://commons.wikimedia.org/wiki/File:Stenshuvud_nationalpark_1.jpg | CC BY-SA 4.0 | GraBirka
+highlights/simrishamn-5.jpg | https://commons.wikimedia.org/wiki/File:Brantevik,_norra_hamnen.jpg | CC BY-SA 3.0 | Jorchr
+cities/smogen.jpg | https://www.flickr.com/photos/94053779@N08/15033169771 | BY-SA 2.0 | afpitch photographers
+highlights/smogen-1.jpg | https://commons.wikimedia.org/wiki/File:Sm%C3%B6gen_(cropped).jpg | CC BY 2.0 | Bengt Nyman from Vaxholm, Sweden
+highlights/smogen-2.jpg | https://www.flickr.com/photos/96611469@N04/52601243672 | BY 2.0 | greger.ravik
+highlights/smogen-3.jpg | https://commons.wikimedia.org/wiki/File:Tanum_rock_carvings_Aspeberget_flat_rock.jpg | Public domain | 
+highlights/smogen-4.jpg | https://commons.wikimedia.org/wiki/File:Carlstens_Fastning_Flygfoto.JPG | CC BY 3.0 | Jenbuc
+cities/karlstad.jpg | https://commons.wikimedia.org/wiki/File:Karlstad_Stonebridge.jpg | CC BY-SA 4.0 | LG Nyqvist
+highlights/karlstad-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%96stra_bron,_Karlstad.jpg | CC BY-SA 4.0 | Bene Riobó
+highlights/karlstad-2.jpg | https://commons.wikimedia.org/wiki/File:Milj%C3%B6_vinter_Karlstads_domkyrka_18.JPG | CC BY-SA 3.0 | D.O.G.A.
+highlights/karlstad-3.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A4rmlands_museum.JPG | CC BY-SA 3.0 | Jan Ainali
+highlights/karlstad-4.jpg | https://commons.wikimedia.org/wiki/File:Restaurang_Sandgrund_B.jpg | CC BY-SA 3.0 | I99pema
+cities/mora.jpg | https://commons.wikimedia.org/wiki/File:Waterfront_Walk_Mora_Dala_Horse.jpg | CC0 | Marleeashton
+highlights/mora-1.jpg | https://commons.wikimedia.org/wiki/File:Zornmuseet_Mars_2013.jpg | CC BY-SA 3.0 | Arild Vågen
+highlights/mora-2.jpg | https://commons.wikimedia.org/wiki/File:Mora-vasaloppets-hus-179.JPG | CC BY-SA 3.0 | Pimvantend
+highlights/mora-3.jpg | https://commons.wikimedia.org/wiki/File:Nusnas-Bootsschuppen.JPG | CC BY-SA 4.0 | Frank Hüncke (www.huencke.de)
+highlights/mora-4.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A5ngbryggan_R%C3%A4ttvik_05.jpg | CC BY-SA 4.0 | Mattias Mattsson
+highlights/mora-5.jpg | https://commons.wikimedia.org/wiki/File:Dalhalla_fr%C3%A5n_ovan_(2).JPG | CC BY-SA 3.0 | Calle Eklund/V-wolf
+cities/gavle.jpg | https://www.flickr.com/photos/149760945@N03/23864651828 | BY-SA 2.0 | ekaterina.kuzm
+highlights/gavle-1.jpg | https://commons.wikimedia.org/wiki/File:G%C3%A4vle-Gamla_Stan.JPG | CC BY-SA 3.0 | Baltica
+highlights/gavle-3.jpg | https://commons.wikimedia.org/wiki/File:G%C3%A4vle_goat_on_December_21,_2009.jpg | CC BY 2.0 | Seppo Laine
+highlights/gavle-4.jpg | https://commons.wikimedia.org/wiki/File:L%C3%A4nsmuseet_G%C3%A4vleborg_01.jpg | CC BY-SA 4.0 | I99pema
+cities/umea.jpg | https://commons.wikimedia.org/wiki/File:Ume%C3%A5_r%C3%A5dhus_July_2023_01.jpg | CC BY-SA 4.0 | ArildV
+highlights/umea-1.jpg | https://commons.wikimedia.org/wiki/File:V%C3%A4sterbottens_Museum.jpg | CC BY-SA 4.0 | Fredriklarssonphotography
+highlights/umea-2.jpg | https://commons.wikimedia.org/wiki/File:Bildmuseet,_Ume%C3%A5.jpg | CC BY 2.0 | Rikard Fröberg
+highlights/umea-3.jpg | https://commons.wikimedia.org/wiki/File:Guitars-TheMuseum-2014-03-29.jpg | CC BY-SA 3.0 | MikaelLindmark
+highlights/umea-4.jpg | https://commons.wikimedia.org/wiki/File:Ume%C3%A4lven_v_Ume%C3%A5_(leden_2024).jpg | CC BY 4.0 | Vojtasekd
+highlights/umea-5.jpg | https://commons.wikimedia.org/wiki/File:Byviken-Holm%C3%B6n_07-08-08.jpg | CC BY-SA 2.5 | Mikael Lindmark
+cities/jokkmokk.jpg | https://commons.wikimedia.org/wiki/File:Jokkmokk_Market_parade_reindeer.jpg | CC BY-SA 4.0 | Vicharkness
+highlights/jokkmokk-1.jpg | https://commons.wikimedia.org/wiki/File:%C3%81jtte,_Svenskt_fj%C3%A4ll_och_museum.JPG | CC BY-SA 4.0 | Dove SV
+highlights/jokkmokk-2.jpg | https://commons.wikimedia.org/wiki/File:Jokkmokks_marknad_2023.jpg | CC BY-SA 4.0 | Tunegravity
+highlights/jokkmokk-3.jpg | https://commons.wikimedia.org/wiki/File:Geografiska_polcirkeln,_Inlandsbanan_-_20260709_-_10.jpg | CC BY-SA 4.0 | AleWi
+highlights/jokkmokk-4.jpg | https://commons.wikimedia.org/wiki/File:Laponia_Naturum_Stora_Sj%C3%B6fallet.jpg | CC BY-SA 2.0 | Kari Siren from Kouvola, Finland
+highlights/linkoping-4.jpg | https://commons.wikimedia.org/wiki/File:Bergs_slussar_och_Oscars_sluss.JPG | CC BY-SA 3.0 | Catasa
+highlights/simrishamn-1.jpg | https://commons.wikimedia.org/wiki/File:Simrishamns_hamn.jpg | CC BY-SA 3.0 | Väsk
+highlights/gavle-2.jpg | https://commons.wikimedia.org/wiki/File:Sveriges_J%C3%A4rnv%C3%A4gsmuseum_Entr%C3%A9,_2016b.jpg | CC BY-SA 4.0 | Holger.Ellgaard

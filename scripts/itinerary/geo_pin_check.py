@@ -27,7 +27,7 @@ T = json.load(open(sys.argv[1]))
 out = {}
 for k, (q, w) in T.items():
     n = get('https://nominatim.openstreetmap.org/search?' + urllib.parse.urlencode({'q': q, 'format': 'jsonv2', 'limit': 1}))
-    lang, w = (w.split(':', 1) if w[:3] in ('fr:', 'de:', 'pl:', 'it:', 'no:') else ('en', w))
+    lang, w = (w.split(':', 1) if w[:3] in ('fr:', 'de:', 'pl:', 'it:', 'no:', 'sv:') else ('en', w))
     wj = get(f'https://{lang}.wikipedia.org/w/api.php?' + urllib.parse.urlencode({'action': 'query', 'prop': 'coordinates', 'titles': w, 'redirects': 1, 'format': 'json'}))
     wc = None
     try:

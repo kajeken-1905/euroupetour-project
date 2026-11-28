@@ -7904,6 +7904,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     ],
   },
   // —— se ——
+  sigtuna: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 스코클로스터는 차나 여름 유람선으로 갑니다.',
+      en: 'Walk the town; reach Skokloster by car or summer boat.',
+    },
+    apps: [
+    ],
+  },
+  vaxholm: {
+    modes: ['walk', 'ferry', 'bus'],
+    howTo: {
+      ko: '섬 사이는 군도 배(박스홀름스볼라게트)로 다니고, 마을 안은 걸어서 다닙니다.',
+      en: 'Archipelago boats (Waxholmsbolaget) link the islands; walk within each village.',
+    },
+    apps: [
+    ],
+  },
+  orebro: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 바드쾨핑은 강변 공원을 따라 걷습니다.',
+      en: 'Walk the centre; follow the riverside park to Wadköping.',
+    },
+    apps: [
+    ],
+  },
+  vasteras: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 아눈스회그와 발비는 버스로 갑니다.',
+      en: 'Walk the centre; take a bus to Anundshög and Vallby.',
+    },
+    apps: [
+    ],
+  },
+  vadstena: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 뢰크와 알바스트라는 차나 자전거로 갑니다.',
+      en: 'Walk the town; reach Rök and Alvastra by car or bike.',
+    },
+    apps: [
+    ],
+  },
+  linkoping: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 공군 박물관과 베리 갑문은 버스로 갑니다.',
+      en: 'Walk the centre; take a bus to the Air Force Museum and Berg locks.',
+    },
+    apps: [
+    ],
+  },
+  jonkoping: {
+    modes: ['walk', 'bus', 'ferry'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 그렌나는 버스, 비싱쇠는 배를 탑니다.',
+      en: 'Walk the centre; bus to Gränna and ferry to Visingsö.',
+    },
+    apps: [
+    ],
+  },
+  vaxjo: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 유리 공방 마을은 차나 지역 버스로 갑니다.',
+      en: 'Walk the centre; reach the glass villages by car or regional bus.',
+    },
+    apps: [
+    ],
+  },
+  helsingborg: {
+    modes: ['walk', 'bus', 'ferry', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 소피에로와 쿨라베리는 버스로 갑니다.',
+      en: 'Walk the centre; take buses to Sofiero and Kullaberg.',
+    },
+    apps: [
+    ],
+  },
+  simrishamn: {
+    modes: ['bus', 'bike', 'taxi'],
+    howTo: {
+      ko: '시골 명소 사이는 차나 자전거가 편하고, 여름엔 지역 버스도 다닙니다.',
+      en: 'A car or bike is easiest between the countryside sights; regional buses help in summer.',
+    },
+    apps: [
+    ],
+  },
+  smogen: {
+    modes: ['bus', 'walk', 'ferry'],
+    howTo: {
+      ko: '해안 마을 사이는 차가 편하고, 지역 버스는 환승이 많습니다.',
+      en: 'A car is easiest between the coastal villages; regional buses need changes.',
+    },
+    apps: [
+    ],
+  },
+  karlstad: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 뗏목 체험은 업체 출발지까지 차로 갑니다.',
+      en: 'Walk the centre; drive to the rafting operator’s base.',
+    },
+    apps: [
+    ],
+  },
+  mora: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '마을 사이는 기차·버스로 다니고, 호숫가는 자전거가 좋습니다.',
+      en: 'Trains and buses link the villages; cycle around the lake.',
+    },
+    apps: [
+    ],
+  },
+  gavle: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다닙니다.',
+      en: 'Walk the centre.',
+    },
+    apps: [
+    ],
+  },
+  umea: {
+    modes: ['walk', 'bus', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서 다니고, 홀름순드 항구와 공항은 버스로 갑니다.',
+      en: 'Walk the centre; buses go to Holmsund port and the airport.',
+    },
+    apps: [
+    ],
+  },
+  jokkmokk: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서 다니고, 라포니아는 여름 버스나 차로 갑니다.',
+      en: 'Walk the village; reach Laponia by summer bus or car.',
+    },
+    apps: [
+    ],
+  },
   stockholm: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

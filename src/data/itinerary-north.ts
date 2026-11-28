@@ -63,6 +63,22 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   alta: {"days": [["", 1, 2]], "trips": [["오로라 투어|Northern lights tour", 3], ["이글루 호텔|Igloo hotel", 4]]},
   kirkenes: {"days": [["", 3, 4]], "trips": [["킹크랩 사파리|King crab safari", 2], ["스노 호텔|Snowhotel", 1]]},
   longyearbyen: {"days": [["", 1, 2, 3], ["", 4]], "trips": [["피오르·빙하 투어|Fjord & glacier trip", 5]]},
+  sigtuna: {"days": [["", 1, 2, 3, 4]], "trips": [["스코클로스터 성|Skokloster Castle", 5]]},
+  vaxholm: {"days": [["", 1, 2]], "trips": [["그린다|Grinda", 3], ["산드함|Sandhamn", 4]]},
+  orebro: {"days": [["", 1, 4, 2, 3]]},
+  vasteras: {"days": [["", 1, 2, 3]], "trips": [["아눈스회그|Anundshög", 4]]},
+  vadstena: {"days": [["", 1, 3, 2]], "trips": [["뢰크 돌|Rök runestone", 4], ["옴베리·알바스트라|Omberg & Alvastra", 5]]},
+  linkoping: {"days": [["", 1, 2], ["", 3, 4]], "trips": [["노르셰핑|Norrköping", 5]]},
+  jonkoping: {"days": [["", 1, 2]], "trips": [["그렌나|Gränna", 3, 4], ["비싱쇠|Visingsö", 5]]},
+  vaxjo: {"days": [["", 1, 2, 3]], "trips": [["코스타|Kosta", 4], ["보다|Boda", 5]]},
+  helsingborg: {"days": [["", 1, 4, 3]], "trips": [["소피에로|Sofiero", 2], ["쿨라베리|Kullaberg", 5]]},
+  simrishamn: {"days": [["", 1, 5], ["", 2, 3, 4]]},
+  smogen: {"days": [["", 1]], "trips": [["피엘바카·타눔|Fjällbacka & Tanum", 2, 3], ["마르스트란드|Marstrand", 4]]},
+  karlstad: {"days": [["", 1, 2, 3, 4]], "trips": [["클라르엘벤 뗏목|Klarälven rafting", 5]]},
+  mora: {"days": [["", 1, 2, 3], ["", 4]], "trips": [["달할라|Dalhalla", 5]]},
+  gavle: {"days": [["", 1, 4, 3, 2]]},
+  umea: {"days": [["", 4, 1, 2, 3]], "trips": [["홀뫼|Holmön", 5]]},
+  jokkmokk: {"days": [["", 1, 3]], "trips": [["라포니아|Laponia", 4]]},
   helsinki: {
     days: [
       ['원로원 광장과 항구|Senate Square & harbour', 4, 1, 8, 7, 3],
@@ -100,7 +116,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   inari: { days: [['', 1, 2, 3]], trips: [['피엘파야르비 황야 교회|Pielpajärvi Wilderness Church', 4]] },
   stockholm: {
     days: [
-      ['감라스탄과 노르말름|Gamla Stan & Norrmalm', 2, 1, 5, 13, 10, 11],
+      ['감라스탄과 노르말름|Gamla Stan & Norrmalm', 2, 17, 1, 18, 5, 13, 10, 11],
       ['유르고르덴|Djurgården', 3, 12, 9, 6],
       ['쇠데르말름|Södermalm', 7, 4, 14],
     ],
@@ -112,7 +128,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   },
   gothenburg: {
     days: [
-      ['시내|City centre', 1, 4, 3, 6, 9, 8],
+      ['시내|City centre', 1, 4, 3, 6, 9, 13, 8],
       ['리세베리와 우주과학관|Liseberg & Universeum', 5, 7, 2],
     ],
     trips: [
@@ -133,7 +149,7 @@ export const itineraryNorth: Record<string, RawItinerary> = {
     ],
   },
   falun: { days: [['', 1, 3]], trips: [['카를 라르손 저택|Carl Larsson-gården', 2], ['실리안 호수|Lake Siljan', 4]] },
-  lund: { days: [['', 1, 2, 3, 4]] },
+  lund: { days: [['', 1, 2, 3, 5, 4]] },
   ystad: { days: [['', 2, 3, 4]], trips: [['알레스 스테나르|Ales stenar', 1]] },
   kalmar: { days: [['', 1, 2, 3]], trips: [['욀란드섬|Öland', 4], ['유리 왕국|Kingdom of Crystal', 5]] },
   karlskrona: { days: [['', 2, 3, 1]], trips: [['쿵스홀름 요새|Kungsholm Fortress', 4]] },
