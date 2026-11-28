@@ -6682,3 +6682,84 @@ highlights/jokkmokk-4.jpg | https://commons.wikimedia.org/wiki/File:Laponia_Natu
 highlights/linkoping-4.jpg | https://commons.wikimedia.org/wiki/File:Bergs_slussar_och_Oscars_sluss.JPG | CC BY-SA 3.0 | Catasa
 highlights/simrishamn-1.jpg | https://commons.wikimedia.org/wiki/File:Simrishamns_hamn.jpg | CC BY-SA 3.0 | Väsk
 highlights/gavle-2.jpg | https://commons.wikimedia.org/wiki/File:Sveriges_J%C3%A4rnv%C3%A4gsmuseum_Entr%C3%A9,_2016b.jpg | CC BY-SA 4.0 | Holger.Ellgaard
+highlights/helsinki-16.jpg | https://commons.wikimedia.org/wiki/File:Amos_Rex_aukio.jpg | CC BY-SA 4.0 | Kulttuurinavigaattori
+highlights/helsinki-17.jpg | https://commons.wikimedia.org/wiki/File:Helsinki._Suomen_kansallismuseo_1.jpg | CC BY-SA 4.0 | Игорь Гордеев
+highlights/helsinki-18.jpg | https://commons.wikimedia.org/wiki/File:Vanha_kauppahalli_Helsinki_2026-01-04_01.jpg | CC0 | Leonhard Lenz
+highlights/turku-9.jpg | https://commons.wikimedia.org/wiki/File:Turku_Market_Hall,_north_end2.jpg | CC BY-SA 3.0 | Zache
+cities/hameenlinna.jpg | https://commons.wikimedia.org/wiki/File:H%C3%A4meenlinna,_Finland.jpg | CC BY-SA 2.0 | kooikkari
+highlights/hameenlinna-1.jpg | https://www.flickr.com/photos/160226114@N02/48841053456 | CC0 1.0 | Kanta-Hämeen kuvapankki
+highlights/hameenlinna-2.jpg | https://commons.wikimedia.org/wiki/File:Jean_Sibeliuksen_syntym%C3%A4koti_(H%C3%A4meenlinna).jpg | CC BY-SA 4.0 | Cope Baronet
+highlights/hameenlinna-3.jpg | https://commons.wikimedia.org/wiki/File:Aulanko,_H%C3%A4meenlinna,_Finland_(43221375434).jpg | CC0 | Kanta-Hämeen kuvapankki
+highlights/hameenlinna-4.jpg | https://commons.wikimedia.org/wiki/File:Hattulan_Pyh%C3%A4n_Ristin_kirkko.jpg | CC BY-SA 4.0 | Jukka Aminoff
+highlights/hameenlinna-5.jpg | https://commons.wikimedia.org/wiki/File:Iittala_museum_Finland.jpg | CC BY-SA 4.0 | Kotivalo
+cities/lahti.jpg | https://commons.wikimedia.org/wiki/File:Lahti_sign.jpg | CC BY-SA 4.0 | kallerna
+highlights/lahti-1.jpg | https://commons.wikimedia.org/wiki/File:Lahti_Ski_Jumping_Hills_during_the_World_Championships_in_2017.jpg | CC BY-SA 4.0 | Stryn
+highlights/lahti-2.jpg | https://commons.wikimedia.org/wiki/File:Sibelius_hall_Lahti.jpg | CC BY-SA 4.0 | kallerna
+highlights/lahti-3.jpg | https://www.flickr.com/photos/70626035@N00/8665638970 | BY-SA 2.0 | jacilluch
+highlights/lahti-4.jpg | https://commons.wikimedia.org/wiki/File:Lahti_-_Ristinkirkko_0560.JPG | CC BY-SA 4.0 | Phyrexian
+highlights/lahti-5.jpg | https://commons.wikimedia.org/wiki/File:Lahti_harbour_2.jpg | CC BY-SA 4.0 | Tiia Monto
+cities/kotka.jpg | https://commons.wikimedia.org/wiki/File:Korkeakoski_casting_pier_Kymijoki_Kotka_Kymenlaakso_Finland_23July2023.jpg | CC BY-SA 4.0 | R. Henrik Nilsson
+highlights/kotka-1.jpg | https://commons.wikimedia.org/wiki/File:Kotka_maretarium.jpg | CC BY 2.5 | Alexei Kouprianov
+highlights/kotka-2.jpg | https://commons.wikimedia.org/wiki/File:Sea_museum_Vellamo.JPG | Public domain | SeppVei
+highlights/kotka-3.jpg | https://commons.wikimedia.org/wiki/File:Sapokan_Vesipuisto_-_panoramio.jpg | CC BY 3.0 | Алексей Решетников
+highlights/kotka-4.jpg | https://commons.wikimedia.org/wiki/File:Langinkoski.jpg | CC BY-SA 4.0 | Mikkoau
+cities/lappeenranta.jpg | https://commons.wikimedia.org/wiki/File:Saimaa_canal_at_Lappeenranta_Finland.jpg | CC BY-SA 3.0 | Petritap
+highlights/lappeenranta-1.jpg | https://commons.wikimedia.org/wiki/File:Lappeenrannan_linnoitus_2017_40.jpg | CC BY-SA 4.0 | Tuomas Vitikainen
+highlights/lappeenranta-2.jpg | https://commons.wikimedia.org/wiki/File:Lappeenrannan_satama_panoraama_2.jpg | Public domain | MKFI
+highlights/lappeenranta-3.jpg | https://www.flickr.com/photos/39824826@N08/14690065011 | BY-SA 2.0 | alexyv
+highlights/lappeenranta-4.jpg | https://commons.wikimedia.org/wiki/File:Etel%C3%A4-Karjalan_keskussairaala_1974_(KUVMIKN2-14_003).jpg | CC BY 4.0 | Aarne Mikonsaari
+cities/imatra.jpg | https://www.flickr.com/photos/37583176@N00/51397398177 | BY 2.0 | Ninara
+highlights/imatra-1.jpg | https://www.flickr.com/photos/39824826@N08/9427513895 | BY-SA 2.0 | alexyv
+highlights/imatra-2.jpg | https://commons.wikimedia.org/wiki/File:Imatran_Valtionhotelli_05.07.2015.jpg | CC BY-SA 4.0 | Tiiti75
+highlights/imatra-3.jpg | https://commons.wikimedia.org/wiki/File:Church_of_the_Three_Crosses_20200627_02.jpg | CC BY-SA 4.0 | Sino Yu
+cities/fiskars.jpg | https://commons.wikimedia.org/wiki/File:Fiskars_shop_-_panoramio.jpg | CC BY-SA 3.0 | Guntars Mednis
+highlights/fiskars-2.jpg | https://commons.wikimedia.org/wiki/File:Fiskars_museum_exhibits.jpg | CC0 | Ypsilon from Finland
+highlights/fiskars-3.jpg | https://www.flickr.com/photos/63457884@N04/15189717998 | BY-SA 2.0 | Bochum1805
+highlights/fiskars-4.jpg | https://commons.wikimedia.org/wiki/File:Eken%C3%A4s_Badinr%C3%A4ttning.jpg | CC BY-SA 4.0 | Mikkoau
+cities/hanko.jpg | https://commons.wikimedia.org/wiki/File:FI_Hanko_Cityview.JPG | CC BY-SA 3.0 | Digr
+highlights/hanko-2.jpg | https://commons.wikimedia.org/wiki/File:Hanko_water_tower_-_Hangon_vesitorni_C_IMG_2049.jpg | CC BY-SA 4.0 | Anneli Salo
+highlights/hanko-3.jpg | https://www.flickr.com/photos/198266808@N02/52904583015 | BY-SA 2.0 | Bambi_fotos
+highlights/hanko-4.jpg | https://commons.wikimedia.org/wiki/File:It%C3%A4satama_-_Ilmakuva_2.jpg | CC BY-SA 4.0 | Defenders FIN
+cities/pori.jpg | https://commons.wikimedia.org/wiki/File:Pori_aerial_3.jpg | CC BY-SA 4.0 | kallerna
+highlights/pori-1.jpg | https://commons.wikimedia.org/wiki/File:Pori_Jazz_2012_2.jpg | CC BY-SA 3.0 | kallerna
+highlights/pori-2.jpg | https://commons.wikimedia.org/wiki/File:Juseliuksen_mausoleumi_3.jpg | CC BY-SA 3.0 | kallerna
+highlights/pori-3.jpg | https://commons.wikimedia.org/wiki/File:Porin_taidemuseo.jpg | Public domain | Lepax
+highlights/pori-4.jpg | https://commons.wikimedia.org/wiki/File:Pond_in_Yyteri_2.jpg | CC BY-SA 3.0 | kallerna
+cities/vaasa.jpg | https://commons.wikimedia.org/wiki/File:Vaasa_Barracks.jpg | CC BY-SA 2.5 ca | Óðinn
+highlights/vaasa-1.jpg | https://commons.wikimedia.org/wiki/File:Saltkaret_2020.jpg | CC BY-SA 3.0 | LPfi
+highlights/vaasa-2.jpg | https://commons.wikimedia.org/wiki/File:Replotbron.jpg | CC BY-SA 3.0 | BEF
+highlights/vaasa-3.jpg | https://commons.wikimedia.org/wiki/File:Etel%C3%A4-Pohjanmaan_museo_P%C3%A4%C3%A4rakennus.jpg | CC BY-SA 4.0 | PtG
+highlights/vaasa-4.jpg | https://commons.wikimedia.org/wiki/File:Vanha_Vaasa_Hospital_Vaasa_Finland.jpg | CC BY-SA 3.0 | Kotivalo
+cities/koli.jpg | https://commons.wikimedia.org/wiki/File:View_from_Akka-Koli_towards_south_in_Lieksa,_Finland,_2019_July.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/koli-1.jpg | https://www.flickr.com/photos/143070752@N05/44856309702 | BY 2.0 | OutdoorsFi
+highlights/koli-3.jpg | https://commons.wikimedia.org/wiki/File:Panorama_view_to_Lake_Pielinen_at_Koli_National_Park.jpg | CC BY 4.0 | Lakleland Finland
+cities/mikkeli.jpg | https://commons.wikimedia.org/wiki/File:Mikkeli_-_Mikkeli_Cathedral_-_20180122121949.jpg | CC BY-SA 4.0 | Oliver Gargan
+highlights/mikkeli-1.jpg | https://commons.wikimedia.org/wiki/File:P%C3%A4%C3%A4majakoulu_rectilinear.jpg | Public domain | MKFI
+highlights/mikkeli-2.jpg | https://commons.wikimedia.org/wiki/File:Puhelinkeskus_viestikeskus_Lokki_2.JPG | Public domain | MKFI
+highlights/mikkeli-3.jpg | https://commons.wikimedia.org/wiki/File:Mikkelin_tuomiokirkko_11.JPG | Public domain | MKFI
+highlights/mikkeli-4.jpg | https://commons.wikimedia.org/wiki/File:Astuvansalmi_hirvia.jpg | CC BY-SA 3.0 | Ohto Kokko
+cities/mantta.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A4ntt%C3%A4_-_factory.jpg | CC BY-SA 4.0 | Tiia Monto
+highlights/mantta-1.jpg | https://commons.wikimedia.org/wiki/File:Art_Museum_G%C3%B6sta_on_12th_December_2015_Manor.jpg | CC BY-SA 4.0 | Lauren Stevens
+highlights/mantta-2.jpg | https://commons.wikimedia.org/wiki/File:Serlachius_Museum.jpg | CC BY-SA 4.0 | Tiia Monto
+highlights/mantta-3.jpg | https://commons.wikimedia.org/wiki/File:M%C3%A4ntt%C3%A4_Church_2.jpg | CC BY-SA 4.0 | Tiia Monto
+cities/ruka.jpg | https://commons.wikimedia.org/wiki/File:Rukatunturi_(31268001423).jpg | CC BY-SA 2.0 | Timo Newton-Syms from Helsinki, Finland &amp; Maidenhead, Be
+highlights/ruka-1.jpg | https://www.flickr.com/photos/93016481@N00/816299741 | BY 2.0 | Jyrki Leskelä
+highlights/ruka-2.jpg | https://www.flickr.com/photos/19935963@N00/5129016194 | BY-SA 2.0 | timo_w2s
+highlights/ruka-3.jpg | https://commons.wikimedia.org/wiki/File:Karhunkierros_-_Kiutakongas2.jpg | CC BY-SA 3.0 | Jochen.wurster
+cities/saariselka.jpg | https://commons.wikimedia.org/wiki/File:Saarisel%C3%A4ntie_in_Saariselk%C3%A4,_Inari,_Lapland,_Finland,_2021_September_-_2.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/saariselka-1.jpg | https://www.flickr.com/photos/37261725@N06/51356398821 | BY 2.0 | rtiainen
+highlights/saariselka-2.jpg | https://commons.wikimedia.org/wiki/File:Rock_cairns_on_Kuikkap%C3%A4%C3%A4_in_Urho_Kekkonen_national_park,_Sodankyl%C3%A4_(July_2018).jpg | CC BY-SA 4.0 | Markus Säynevirta
+highlights/saariselka-3.jpg | https://commons.wikimedia.org/wiki/File:Tankavaara-kultakyla-auraria.jpg | CC BY-SA 4.0 | Usm
+highlights/saariselka-4.jpg | https://commons.wikimedia.org/wiki/File:Northern_Lights_Over_Red_Roofed_Cabins_(63879565).jpeg | CC BY-SA 3.0 | Preserved Light Photography
+cities/akaslompolo.jpg | https://commons.wikimedia.org/wiki/File:%C3%84k%C3%A4slompolo_and_Yll%C3%A4s_in_Kolari,_Lapland,_Finland,_2018_September.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+highlights/akaslompolo-1.jpg | https://commons.wikimedia.org/wiki/File:Yll%C3%A4s_ski_-_panoramio.jpg | CC BY 3.0 | dr.eros
+highlights/akaslompolo-2.jpg | https://commons.wikimedia.org/wiki/File:Kellokas_Kolari_20190418.jpg | CC0 | Estormiz
+highlights/akaslompolo-3.jpg | https://commons.wikimedia.org/wiki/File:Pallastunturi_from_the_east,_Kittil%C3%A4,_Finland,_2019_January.jpg | CC BY-SA 3.0 | Ximonic (Simo Räsänen)
+cities/kilpisjarvi.jpg | https://commons.wikimedia.org/wiki/File:Saana_over_Ala-Kilpisj%C3%A4rvi,_Lapland,_Finland,_2015_April.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/kilpisjarvi-1.jpg | https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Saana_fell.jpg | CC BY-SA 4.0 | WikiLucas00
+highlights/kilpisjarvi-2.jpg | https://commons.wikimedia.org/wiki/File:Kolmen_valtakunnan_rajapyykki_-_September_2013.jpg | CC BY-SA 3.0 | TylerTheTraveler
+highlights/kilpisjarvi-3.jpg | https://commons.wikimedia.org/wiki/File:Malla_Strict_Nature_Reserve_and_Siilasvuoma_from_Saana_in_Enonteki%C3%B6,_Lapland,_Finland,_2026_August.jpg | CC BY-SA 4.0 | Ximonic (Simo Räsänen)
+highlights/fiskars-1.jpg | https://commons.wikimedia.org/wiki/File:Mid_20th_century_eight_inch_carpenters_pincers_by_Billnaes_Bruk_Fiskars_Pinjainen_Finland.jpg | CC BY 4.0 | R. Henrik Nilsson
+highlights/hanko-1.jpg | https://commons.wikimedia.org/wiki/File:Hangon_huviloita_meren_rannalla.jpg | CC BY-SA 4.0 | Maaritti Siitonen
+highlights/koli-2.jpg | https://commons.wikimedia.org/wiki/File:Ukko-Koli_in_the_fall.jpg | CC BY 2.0 | Miguel Virkkunen Carvalho from Lahti, Finland
+highlights/ruka-4.jpg | https://commons.wikimedia.org/wiki/File:Reindeer_Rides_(4236939552).jpg | CC BY-SA 2.0 | Timo Newton-Syms from Helsinki, Finland &amp; Maidenhead, Be

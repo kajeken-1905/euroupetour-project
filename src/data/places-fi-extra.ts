@@ -151,4 +151,149 @@ export const placesFIExtra: Place[] = [
   // —— inari: restaurants, bakeries and cafés (2026-11-14) ——
   place('inari-fine_dining-1', 'inari', 'fine_dining', 'PaPaNa', 'Inarintie 49, Inari', '이나리의 펍 겸 식당. 구글 지도 평점 4.3.', 'Pub restaurant in Inari. Rated 4.3 on Google Maps.'),
   place('inari-fine_dining-2', 'inari', 'fine_dining', 'ScanBurger Inari', 'Menesjärventie 1, Inari', '이나리의 버거 가게. 구글 지도 평점 4.4.', 'Burger restaurant in Inari. Rated 4.4 on Google Maps.'),
+
+  // —— hameenlinna: restaurants, bakeries and cafés (2026-11-28) ——
+  place('hameenlinna-fine_dining-1', 'hameenlinna', 'fine_dining', 'Miller\'s BBQ Hämeenlinna', 'Vanajanlinnantie 4, Hämeenlinna, Finland', '바비큐 식당. 구글 지도 평점 4.6(리뷰 1240개).', 'Barbecue restaurant. Rated 4.6 on Google Maps (1240 reviews).'),
+  place('hameenlinna-fine_dining-2', 'hameenlinna', 'fine_dining', 'Ravintola Carni', 'Hallituskatu 20, Hämeenlinna, Finland', '스테이크 하우스. 구글 지도 평점 4.6(리뷰 293개).', 'Steakhouse. Rated 4.6 on Google Maps (293 reviews).'),
+  place('hameenlinna-fine_dining-3', 'hameenlinna', 'fine_dining', 'Ravintola Siddhartha', 'Raatihuoneenkatu 13, Hämeenlinna, Finland', '네팔 요리 식당. 구글 지도 평점 4.6(리뷰 968개).', 'Nepalese restaurant. Rated 4.6 on Google Maps (968 reviews).'),
+  place('hameenlinna-fine_dining-4', 'hameenlinna', 'fine_dining', 'Fifth Avenue', 'Sibeliuksenkatu 2, Hämeenlinna, Finland', '미국식 레스토랑. 구글 지도 평점 4.4(리뷰 1901개).', 'American restaurant. Rated 4.4 on Google Maps (1901 reviews).'),
+  place('hameenlinna-fine_dining-5', 'hameenlinna', 'fine_dining', 'Popino', 'Raatihuoneenkatu 25, Hämeenlinna, Finland', '레스토랑. 구글 지도 평점 4.3(리뷰 2333개).', 'Restaurant. Rated 4.3 on Google Maps (2333 reviews).'),
+  place('hameenlinna-bakery-1', 'hameenlinna', 'bakery', 'Laurell Oy', 'Tampereentie 17, Hämeenlinna, Finland', '과자점. 구글 지도 평점 4.4(리뷰 125개).', 'Pastry shop. Rated 4.4 on Google Maps (125 reviews).'),
+  place('hameenlinna-bakery-2', 'hameenlinna', 'bakery', 'Café Laurell Konditoria-Kahvila', 'Sibeliuksenkatu 7, Hämeenlinna, Finland', '과자점. 구글 지도 평점 4.4(리뷰 1010개).', 'Pastry shop. Rated 4.4 on Google Maps (1010 reviews).'),
+  place('hameenlinna-cafe-1', 'hameenlinna', 'cafe', 'BOBO Goodman', 'Kaivokatu 7, Hämeenlinna, Finland', '카페. 구글 지도 평점 4.9(리뷰 829개).', 'Café. Rated 4.9 on Google Maps (829 reviews).'),
+  place('hameenlinna-cafe-2', 'hameenlinna', 'cafe', 'Kahvila Dois Amores', 'Raatihuoneenkatu 4, Hämeenlinna, Finland', '카페. 구글 지도 평점 4.8(리뷰 194개).', 'Café. Rated 4.8 on Google Maps (194 reviews).'),
+  place('hameenlinna-cafe-3', 'hameenlinna', 'cafe', 'Villa Marenki', 'Eteläkatu 3, Hämeenlinna, Finland', '카페. 구글 지도 평점 4.6(리뷰 902개).', 'Café. Rated 4.6 on Google Maps (902 reviews).'),
+
+  // —— lahti: restaurants, bakeries and cafés (2026-11-28) ——
+  place('lahti-fine_dining-1', 'lahti', 'fine_dining', 'Ravintola Roux', 'Rautatienkatu 7, Lahti, Finland', '레스토랑. 구글 지도 평점 4.7(리뷰 547개).', 'Restaurant. Rated 4.7 on Google Maps (547 reviews).'),
+  place('lahti-fine_dining-2', 'lahti', 'fine_dining', 'Viking Restaurant Harald', 'Vesijärvenkatu 24, Lahti, Finland', '스칸디나비아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 1338개).', 'Scandinavian restaurant. Rated 4.5 on Google Maps (1338 reviews).'),
+  place('lahti-fine_dining-3', 'lahti', 'fine_dining', 'Bistro Popot', 'Rautatienkatu 26, Lahti, Finland', '비스트로. 구글 지도 평점 4.5(리뷰 657개).', 'Bistro. Rated 4.5 on Google Maps (657 reviews).'),
+  place('lahti-fine_dining-4', 'lahti', 'fine_dining', 'Pikku Makalu', 'Vapaudenkatu 22, Lahti, Finland', '네팔 요리 식당. 구글 지도 평점 4.5(리뷰 642개).', 'Nepalese restaurant. Rated 4.5 on Google Maps (642 reviews).'),
+  place('lahti-fine_dining-5', 'lahti', 'fine_dining', 'El Toro', 'Mariankatu 8, Lahti, Finland', '스테이크 하우스. 구글 지도 평점 4.5(리뷰 1754개).', 'Steakhouse. Rated 4.5 on Google Maps (1754 reviews).'),
+  place('lahti-bakery-1', 'lahti', 'bakery', 'Kahiwa Cafe & Bakery', 'Päijänteenkatu 9, Lahti, Finland', '빵집. 구글 지도 평점 4.7(리뷰 284개).', 'Bakery. Rated 4.7 on Google Maps (284 reviews).'),
+  place('lahti-bakery-2', 'lahti', 'bakery', 'Leipomo Hyvän Olon Mestari', 'Simolanmutka 1, Lahti, Finland', '빵집. 구글 지도 평점 4.8(리뷰 101개).', 'Bakery. Rated 4.8 on Google Maps (101 reviews).'),
+  place('lahti-bakery-3', 'lahti', 'bakery', 'Konditoria-Leipomo Linkosuonio', 'Myllypohjankatu 4, Lahti, Finland', '빵집. 구글 지도 평점 4.5(리뷰 218개).', 'Bakery. Rated 4.5 on Google Maps (218 reviews).'),
+  place('lahti-bakery-4', 'lahti', 'bakery', 'Muta&Kakku', 'Launeenkatu 82, Lahti, Finland', '케이크 가게. 구글 지도 평점 4.5(리뷰 318개).', 'Cake shop. Rated 4.5 on Google Maps (318 reviews).'),
+  place('lahti-cafe-1', 'lahti', 'cafe', 'Kahvila Oskari', 'Hämeenkatu 17, Lahti, Finland', '카페. 구글 지도 평점 4.6(리뷰 1089개).', 'Café. Rated 4.6 on Google Maps (1089 reviews).'),
+  place('lahti-cafe-2', 'lahti', 'cafe', 'Asemapäällikkö konditoria', 'Askonkatu 3, Lahti, Finland', '카페. 구글 지도 평점 4.5(리뷰 614개).', 'Café. Rated 4.5 on Google Maps (614 reviews).'),
+  place('lahti-cafe-3', 'lahti', 'cafe', 'Wine Cafe Olavi', 'Aleksanterinkatu 10, Lahti, Finland', '카페. 구글 지도 평점 4.3(리뷰 695개).', 'Café. Rated 4.3 on Google Maps (695 reviews).'),
+
+  // —— kotka: restaurants, bakeries and cafés (2026-11-28) ——
+  place('kotka-fine_dining-1', 'kotka', 'fine_dining', 'Wanha Fiskari', 'Juha Vainion katu 2, Kotka, Finland', '해산물 레스토랑. 구글 지도 평점 4.5(리뷰 527개).', 'Seafood restaurant. Rated 4.5 on Google Maps (527 reviews).'),
+  place('kotka-fine_dining-2', 'kotka', 'fine_dining', 'Street Food Factory', 'Runeberginkatu 1, Kotka, Finland', '햄버거 식당. 구글 지도 평점 4.6(리뷰 678개).', 'Burger restaurant. Rated 4.6 on Google Maps (678 reviews).'),
+  place('kotka-fine_dining-3', 'kotka', 'fine_dining', 'Vausti', 'Kotkankatu 7b, Kotka, Finland', '파인 다이닝 레스토랑. 구글 지도 평점 4.4(리뷰 346개).', 'Fine-dining restaurant. Rated 4.4 on Google Maps (346 reviews).'),
+  place('kotka-fine_dining-4', 'kotka', 'fine_dining', 'Tai Hing', 'Kirkkokatu 9, Kotka, Finland', '아시아 요리 레스토랑. 구글 지도 평점 4.4(리뷰 907개).', 'Asian restaurant. Rated 4.4 on Google Maps (907 reviews).'),
+  place('kotka-fine_dining-5', 'kotka', 'fine_dining', 'Erkan Bistro & Restaurant', 'Keskuskatu 35, Kotka, Finland', '튀르키예 요리 레스토랑. 구글 지도 평점 4.3(리뷰 1240개).', 'Turkish restaurant. Rated 4.3 on Google Maps (1240 reviews).'),
+  place('kotka-bakery-1', 'kotka', 'bakery', 'Leistin Leipomo', 'Vanha Sutelantie 47, Kotka, Finland', '빵집. 구글 지도 평점 4.7(리뷰 141개).', 'Bakery. Rated 4.7 on Google Maps (141 reviews).'),
+  place('kotka-bakery-2', 'kotka', 'bakery', 'Kotkan Leipä - Turkia Bakery', 'Itäkatu 2, Kotka, Finland', '빵집. 구글 지도 평점 4.6(리뷰 288개).', 'Bakery. Rated 4.6 on Google Maps (288 reviews).'),
+  place('kotka-bakery-3', 'kotka', 'bakery', 'Coco Konditoria', 'Kauppakatu 3, Kotka, Finland', '과자점. 구글 지도 평점 4.3(리뷰 123개).', 'Pastry shop. Rated 4.3 on Google Maps (123 reviews).'),
+  place('kotka-cafe-1', 'kotka', 'cafe', 'Marina Cafe Laituri', 'Meriniementie 1, Kotka, Finland', '카페. 구글 지도 평점 4.5(리뷰 1170개).', 'Café. Rated 4.5 on Google Maps (1170 reviews).'),
+  place('kotka-cafe-2', 'kotka', 'cafe', 'Kahvila Susikoski', 'Hurukselantie 2056, Kotka, Finland', '카페. 구글 지도 평점 4.5(리뷰 310개).', 'Café. Rated 4.5 on Google Maps (310 reviews).'),
+  place('kotka-cafe-3', 'kotka', 'cafe', 'kat\'s cafe', 'Vesivallinaukio 10, Kotka, Finland', '카페. 구글 지도 평점 4.4(리뷰 257개).', 'Café. Rated 4.4 on Google Maps (257 reviews).'),
+
+  // —— lappeenranta: restaurants, bakeries and cafés (2026-11-28) ——
+  place('lappeenranta-fine_dining-1', 'lappeenranta', 'fine_dining', 'Ravintola Sumu', 'Snellmaninkatu 8, Lappeenranta, Finland', '파인 다이닝 레스토랑. 구글 지도 평점 4.8(리뷰 152개).', 'Fine-dining restaurant. Rated 4.8 on Google Maps (152 reviews).'),
+  place('lappeenranta-fine_dining-2', 'lappeenranta', 'fine_dining', 'Viet Bao Lappeenranta', 'Raatimiehenkatu 13, Lappeenranta, Finland', '베트남 요리 식당. 구글 지도 평점 4.8(리뷰 481개).', 'Vietnamese restaurant. Rated 4.8 on Google Maps (481 reviews).'),
+  place('lappeenranta-fine_dining-3', 'lappeenranta', 'fine_dining', 'Meeza Restaurant', 'Koulukatu 13, Lappeenranta, Finland', '레바논 요리 식당. 구글 지도 평점 4.7(리뷰 364개).', 'Lebanese restaurant. Rated 4.7 on Google Maps (364 reviews).'),
+  place('lappeenranta-fine_dining-4', 'lappeenranta', 'fine_dining', 'Ravintola Wolkoff', 'Kauppakatu 26, Lappeenranta, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.6(리뷰 498개).', 'Finnish restaurant. Rated 4.6 on Google Maps (498 reviews).'),
+  place('lappeenranta-fine_dining-5', 'lappeenranta', 'fine_dining', 'Satamaravintola Tilus', 'Ainonkatu 35, Lappeenranta, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.5(리뷰 84개).', 'Finnish restaurant. Rated 4.5 on Google Maps (84 reviews).'),
+  place('lappeenranta-bakery-1', 'lappeenranta', 'bakery', 'Keksi & Co', 'Kauppakatu 28, Lappeenranta, Finland', '쿠키 가게. 구글 지도 평점 4.9(리뷰 80개).', 'Cookie shop. Rated 4.9 on Google Maps (80 reviews).'),
+  place('lappeenranta-bakery-2', 'lappeenranta', 'bakery', 'My Bakery Cafe', 'Toikankatu 6, Lappeenranta, Finland', '빵집. 구글 지도 평점 4.6(리뷰 136개).', 'Bakery. Rated 4.6 on Google Maps (136 reviews).'),
+  place('lappeenranta-bakery-3', 'lappeenranta', 'bakery', 'Kesämäen Leipomo', 'Karankokatu 3, Lappeenranta, Finland', '빵집. 구글 지도 평점 4.4(리뷰 447개).', 'Bakery. Rated 4.4 on Google Maps (447 reviews).'),
+  place('lappeenranta-bakery-4', 'lappeenranta', 'bakery', 'Konditoria-kahvila Aleksandra', 'Toikankatu 1, Lappeenranta, Finland', '과자점. 구글 지도 평점 4.4(리뷰 399개).', 'Pastry shop. Rated 4.4 on Google Maps (399 reviews).'),
+  place('lappeenranta-cafe-1', 'lappeenranta', 'cafe', 'Café Majurska', 'Kristiinankatu 1, Lappeenranta, Finland', '카페. 구글 지도 평점 4.6(리뷰 1216개).', 'Café. Rated 4.6 on Google Maps (1216 reviews).'),
+  place('lappeenranta-cafe-2', 'lappeenranta', 'cafe', 'Café Luovuus', 'Valtakatu 27, Lappeenranta, Finland', '카페. 구글 지도 평점 4.7(리뷰 205개).', 'Café. Rated 4.7 on Google Maps (205 reviews).'),
+  place('lappeenranta-cafe-3', 'lappeenranta', 'cafe', 'Café Satamatie 6', 'Satamatie 6, Lappeenranta, Finland', '카페. 구글 지도 평점 4.6(리뷰 806개).', 'Café. Rated 4.6 on Google Maps (806 reviews).'),
+
+  // —— imatra: restaurants, bakeries and cafés (2026-11-28) ——
+  place('imatra-fine_dining-1', 'imatra', 'fine_dining', 'La Sal Restaurante', 'Napinkuja 2, Imatra, Finland', '레스토랑. 구글 지도 평점 4.8(리뷰 216개).', 'Restaurant. Rated 4.8 on Google Maps (216 reviews).'),
+  place('imatra-fine_dining-2', 'imatra', 'fine_dining', 'Ravintola Kassandra', 'Tainionkoskentie 68, Imatra, Finland', '그릴 레스토랑. 구글 지도 평점 4.8(리뷰 505개).', 'Grill restaurant. Rated 4.8 on Google Maps (505 reviews).'),
+  place('imatra-fine_dining-3', 'imatra', 'fine_dining', 'Restaurant Xiangfu', 'Tainionkoskentie 10, Imatra, Finland', '중국 요리 식당. 구글 지도 평점 4.4(리뷰 365개).', 'Chinese restaurant. Rated 4.4 on Google Maps (365 reviews).'),
+  place('imatra-fine_dining-4', 'imatra', 'fine_dining', 'Restaurant Buttenhoff', 'Koskenparras 4, Imatra, Finland', '레스토랑. 구글 지도 평점 4.3(리뷰 517개).', 'Restaurant. Rated 4.3 on Google Maps (517 reviews).'),
+  place('imatra-bakery-1', 'imatra', 'bakery', 'Konditoria Imatrankoski', 'Koskenparras 8, Imatra, Finland', '과자점. 구글 지도 평점 4.6(리뷰 488개).', 'Pastry shop. Rated 4.6 on Google Maps (488 reviews).'),
+  place('imatra-bakery-2', 'imatra', 'bakery', 'Leipomo Toivonen', 'Karhumäenkatu 71, Imatra, Finland', '빵집. 구글 지도 평점 4.3(리뷰 157개).', 'Bakery. Rated 4.3 on Google Maps (157 reviews).'),
+  place('imatra-cafe-1', 'imatra', 'cafe', 'Cafe Nisse', 'Koskenparras 8, Imatra, Finland', '카페. 구글 지도 평점 4.5(리뷰 200개).', 'Café. Rated 4.5 on Google Maps (200 reviews).'),
+
+  // —— fiskars: restaurants, bakeries and cafés (2026-11-28) ——
+  place('fiskars-fine_dining-1', 'fiskars', 'fine_dining', 'Loimukeisarin Rullaamo', 'Fiskarsvägen 318, Fiskars, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.9(리뷰 145개).', 'Finnish restaurant. Rated 4.9 on Google Maps (145 reviews).'),
+  place('fiskars-fine_dining-2', 'fiskars', 'fine_dining', 'Gastro Cafè Lavanderia', 'Hälleforsintie 1, Fiskars, Finland', '레스토랑. 구글 지도 평점 4.5(리뷰 98개).', 'Restaurant. Rated 4.5 on Google Maps (98 reviews).'),
+  place('fiskars-cafe-1', 'fiskars', 'cafe', 'Cafe Antique', 'Fiskarsvägen 352 C, Fiskars, Finland', '카페. 구글 지도 평점 4.3(리뷰 280개).', 'Café. Rated 4.3 on Google Maps (280 reviews).'),
+
+  // —— hanko: restaurants, bakeries and cafés (2026-11-28) ——
+  place('hanko-fine_dining-1', 'hanko', 'fine_dining', 'Kripa Hanko', 'Bulevardi 11, Hanko, Finland', '네팔 요리 식당. 구글 지도 평점 4.9(리뷰 336개).', 'Nepalese restaurant. Rated 4.9 on Google Maps (336 reviews).'),
+  place('hanko-fine_dining-2', 'hanko', 'fine_dining', 'Nöjen Vin & Öl', 'Ratakatu 10, Hanko, Finland', '와인 바 레스토랑. 구글 지도 평점 4.8(리뷰 119개).', 'Wine bar and restaurant. Rated 4.8 on Google Maps (119 reviews).'),
+  place('hanko-fine_dining-3', 'hanko', 'fine_dining', 'Stranden Bar&Kitchen', 'Rantakatu 2, Hanko, Finland', '레스토랑. 구글 지도 평점 4.4(리뷰 366개).', 'Restaurant. Rated 4.4 on Google Maps (366 reviews).'),
+  place('hanko-bakery-1', 'hanko', 'bakery', 'Cafe Bageri Lillan', 'Vuorikatu 9, Hanko, Finland', '빵집. 구글 지도 평점 4.4(리뷰 144개).', 'Bakery. Rated 4.4 on Google Maps (144 reviews).'),
+  place('hanko-cafe-1', 'hanko', 'cafe', 'Alan\'s Café', 'Raatihuoneentori 4, Hanko, Finland', '카페. 구글 지도 평점 4.6(리뷰 279개).', 'Café. Rated 4.6 on Google Maps (279 reviews).'),
+  place('hanko-cafe-2', 'hanko', 'cafe', 'Cafferie Hanko', 'Merikatu 1, Hanko, Finland', '카페. 구글 지도 평점 4.3(리뷰 503개).', 'Café. Rated 4.3 on Google Maps (503 reviews).'),
+
+  // —— pori: restaurants, bakeries and cafés (2026-11-28) ——
+  place('pori-fine_dining-1', 'pori', 'fine_dining', 'Ravintola Sairme', 'Antinkatu 23, Pori, Finland', '조지아 요리 레스토랑. 구글 지도 평점 4.9(리뷰 861개).', 'Georgian restaurant. Rated 4.9 on Google Maps (861 reviews).'),
+  place('pori-fine_dining-2', 'pori', 'fine_dining', 'Andalucia Restaurant', 'Pohjoispuisto 4, Pori, Finland', '스테이크 하우스. 구글 지도 평점 4.5(리뷰 878개).', 'Steakhouse. Rated 4.5 on Google Maps (878 reviews).'),
+  place('pori-fine_dining-3', 'pori', 'fine_dining', 'Trattoria Dante By Galle', 'Antinkatu 10, Pori, Finland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.5(리뷰 469개).', 'Italian restaurant. Rated 4.5 on Google Maps (469 reviews).'),
+  place('pori-bakery-1', 'pori', 'bakery', 'Annan Marenkileipomo', 'Uusikoivistontie 45, Pori, Finland', '과자점. 구글 지도 평점 4.7(리뷰 109개).', 'Pastry shop. Rated 4.7 on Google Maps (109 reviews).'),
+  place('pori-bakery-2', 'pori', 'bakery', 'Leipomo ja Konditoria Sarpi', 'Paperitehtaankatu 5, Pori, Finland', '과자점. 구글 지도 평점 4.3(리뷰 404개).', 'Pastry shop. Rated 4.3 on Google Maps (404 reviews).'),
+  place('pori-bakery-3', 'pori', 'bakery', 'Jauhopojat', 'Uusikoivistontie 73, Pori, Finland', '빵집. 구글 지도 평점 4.3(리뷰 317개).', 'Bakery. Rated 4.3 on Google Maps (317 reviews).'),
+  place('pori-bakery-4', 'pori', 'bakery', 'Porin Leipä', 'Karjalankatu 8, Pori, Finland', '빵집. 구글 지도 평점 4.3(리뷰 214개).', 'Bakery. Rated 4.3 on Google Maps (214 reviews).'),
+  place('pori-cafe-1', 'pori', 'cafe', 'Hellulan Kaffila', 'Tuomarinkatu 2, Pori, Finland', '카페. 구글 지도 평점 4.8(리뷰 91개).', 'Café. Rated 4.8 on Google Maps (91 reviews).'),
+  place('pori-cafe-2', 'pori', 'cafe', 'Cafe Solo', 'Pohjoisranta 11, Pori, Finland', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.6(리뷰 338개).', 'Coffee roastery café. Rated 4.6 on Google Maps (338 reviews).'),
+  place('pori-cafe-3', 'pori', 'cafe', 'Petras Cafe', 'Yrjönkatu 11, Pori, Finland', '카페. 구글 지도 평점 4.4(리뷰 1101개).', 'Café. Rated 4.4 on Google Maps (1101 reviews).'),
+
+  // —— vaasa: restaurants, bakeries and cafés (2026-11-28) ——
+  place('vaasa-fine_dining-1', 'vaasa', 'fine_dining', 'Fröj', 'Hovioikeudenpuistikko 19, Vaasa, Finland', '스칸디나비아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 211개).', 'Scandinavian restaurant. Rated 4.7 on Google Maps (211 reviews).'),
+  place('vaasa-fine_dining-2', 'vaasa', 'fine_dining', 'Restaurant Hejm', 'Sininen tie 1 B, Vaasa, Finland', '스칸디나비아 요리 레스토랑. 구글 지도 평점 4.7(리뷰 1629개).', 'Scandinavian restaurant. Rated 4.7 on Google Maps (1629 reviews).'),
+  place('vaasa-fine_dining-3', 'vaasa', 'fine_dining', 'Ravintola 1h+k', 'Hovioikeudenpuistikko 13A, Vaasa, Finland', '레스토랑. 구글 지도 평점 4.6(리뷰 471개).', 'Restaurant. Rated 4.6 on Google Maps (471 reviews).'),
+  place('vaasa-fine_dining-4', 'vaasa', 'fine_dining', 'Illyrian\'s', 'Rauhankatu 16, Vaasa, Finland', '지중해 요리 레스토랑. 구글 지도 평점 4.6(리뷰 741개).', 'Mediterranean restaurant. Rated 4.6 on Google Maps (741 reviews).'),
+  place('vaasa-fine_dining-5', 'vaasa', 'fine_dining', 'Strampen', 'Rantakatu 7, Vaasa, Finland', '레스토랑. 구글 지도 평점 4.4(리뷰 1756개).', 'Restaurant. Rated 4.4 on Google Maps (1756 reviews).'),
+  place('vaasa-bakery-1', 'vaasa', 'bakery', 'Aroma Bageri & Konditori Vasa', 'Hovioikeudenpuistikko 11, Vaasa, Finland', '빵집. 구글 지도 평점 4.7(리뷰 175개).', 'Bakery. Rated 4.7 on Google Maps (175 reviews).'),
+  place('vaasa-bakery-2', 'vaasa', 'bakery', 'OTHELLO Vaasa', 'Palosaarentie 18, Vaasa, Finland', '빵집. 구글 지도 평점 4.4(리뷰 360개).', 'Bakery. Rated 4.4 on Google Maps (360 reviews).'),
+  place('vaasa-cafe-1', 'vaasa', 'cafe', 'Aveny Café', 'Hovioikeudenpuistikko 13, Vaasa, Finland', '카페. 구글 지도 평점 4.6(리뷰 218개).', 'Café. Rated 4.6 on Google Maps (218 reviews).'),
+  place('vaasa-cafe-2', 'vaasa', 'cafe', 'Pharmacy House - Café & Bakery', 'Hovioikeudenpuistikko 9, Vaasa, Finland', '카페. 구글 지도 평점 4.5(리뷰 276개).', 'Café. Rated 4.5 on Google Maps (276 reviews).'),
+  place('vaasa-cafe-3', 'vaasa', 'cafe', 'Café Espen', 'Alatori 1B, Vaasa, Finland', '카페. 구글 지도 평점 4.5(리뷰 114개).', 'Café. Rated 4.5 on Google Maps (114 reviews).'),
+
+  // —— koli: restaurants, bakeries and cafés (2026-11-28) ——
+  place('koli-fine_dining-1', 'koli', 'fine_dining', 'Ravintola Tervaskanto', 'Kolintie 94b, Koli, Finland', '레스토랑. 구글 지도 평점 4.3(리뷰 264개).', 'Restaurant. Rated 4.3 on Google Maps (264 reviews).'),
+
+  // —— mikkeli: restaurants, bakeries and cafés (2026-11-28) ——
+  place('mikkeli-fine_dining-1', 'mikkeli', 'fine_dining', 'Herkun Kievari', 'Hietasentie 2, Mikkeli, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.9(리뷰 95개).', 'Finnish restaurant. Rated 4.9 on Google Maps (95 reviews).'),
+  place('mikkeli-fine_dining-2', 'mikkeli', 'fine_dining', 'Bistro Holvi', 'Savilahdenkatu 11, Mikkeli, Finland', '비스트로. 구글 지도 평점 4.6(리뷰 786개).', 'Bistro. Rated 4.6 on Google Maps (786 reviews).'),
+  place('mikkeli-fine_dining-3', 'mikkeli', 'fine_dining', 'Restaurant August', 'Jääkärinkatu 6-8, Mikkeli, Finland', '레스토랑. 구글 지도 평점 4.5(리뷰 210개).', 'Restaurant. Rated 4.5 on Google Maps (210 reviews).'),
+  place('mikkeli-fine_dining-4', 'mikkeli', 'fine_dining', 'Fernando\'s Restaurant', 'Maaherrankatu 17, Mikkeli, Finland', '레스토랑. 구글 지도 평점 4.4(리뷰 1034개).', 'Restaurant. Rated 4.4 on Google Maps (1034 reviews).'),
+  place('mikkeli-bakery-1', 'mikkeli', 'bakery', 'Rami Visulahti (Ramin Konditoria)', 'Metsurinraitti 1, Mikkeli, Finland', '과자점. 구글 지도 평점 4.6(리뷰 2573개).', 'Pastry shop. Rated 4.6 on Google Maps (2573 reviews).'),
+  place('mikkeli-bakery-2', 'mikkeli', 'bakery', 'Ramin Konditoria', 'Hallituskatu 7, Mikkeli, Finland', '과자점. 구글 지도 평점 4.5(리뷰 290개).', 'Pastry shop. Rated 4.5 on Google Maps (290 reviews).'),
+  place('mikkeli-cafe-1', 'mikkeli', 'cafe', 'Kirjala Coffee Roastery', 'Nuijamiestenkatu 21, Mikkeli, Finland', '직접 원두를 볶는 커피숍. 구글 지도 평점 4.7(리뷰 263개).', 'Coffee roastery café. Rated 4.7 on Google Maps (263 reviews).'),
+  place('mikkeli-cafe-2', 'mikkeli', 'cafe', 'Kahvila-konditoria Sitruunapisara', 'Hallituskatu 9, Mikkeli, Finland', '카페. 구글 지도 평점 4.4(리뷰 176개).', 'Café. Rated 4.4 on Google Maps (176 reviews).'),
+
+  // —— mantta: restaurants, bakeries and cafés (2026-11-28) ——
+  place('mantta-fine_dining-1', 'mantta', 'fine_dining', 'Sun kiinalainen ravintola', 'Valtatie 54, Mänttä, Finland', '중국 요리 식당. 구글 지도 평점 4.6(리뷰 272개).', 'Chinese restaurant. Rated 4.6 on Google Maps (272 reviews).'),
+  place('mantta-fine_dining-2', 'mantta', 'fine_dining', 'Lounaskahvila Miina', 'Johtokunnantie 11, Mänttä, Finland', '점심 뷔페 식당. 구글 지도 평점 4.5(리뷰 107개).', 'Lunch restaurant. Rated 4.5 on Google Maps (107 reviews).'),
+  place('mantta-cafe-1', 'mantta', 'cafe', 'Café Hilma ja Onni', 'Keskuskatu 11, Mänttä, Finland', '카페. 구글 지도 평점 4.7(리뷰 281개).', 'Café. Rated 4.7 on Google Maps (281 reviews).'),
+  place('mantta-cafe-2', 'mantta', 'cafe', 'Café Wilhelmiina', 'Koskelankatu 8, Mänttä, Finland', '카페. 구글 지도 평점 4.4(리뷰 161개).', 'Café. Rated 4.4 on Google Maps (161 reviews).'),
+
+  // —— ruka: restaurants, bakeries and cafés (2026-11-28) ——
+  place('ruka-fine_dining-1', 'ruka', 'fine_dining', 'Restaurant Hanki Baari - Ruka', 'Rukankyläntie 11, Ruka, Finland', '레스토랑. 구글 지도 평점 4.7(리뷰 291개).', 'Restaurant. Rated 4.7 on Google Maps (291 reviews).'),
+  place('ruka-fine_dining-2', 'ruka', 'fine_dining', 'Pizzeria Ruka', 'Rukatunturintie 4, Ruka, Finland', '피자 식당. 구글 지도 평점 4.6(리뷰 2669개).', 'Pizza restaurant. Rated 4.6 on Google Maps (2669 reviews).'),
+  place('ruka-fine_dining-3', 'ruka', 'fine_dining', 'Wild Food Restaurant Rukan Kuksa', 'Rukatunturintie 12, Ruka, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.5(리뷰 613개).', 'Finnish restaurant. Rated 4.5 on Google Maps (613 reviews).'),
+  place('ruka-fine_dining-4', 'ruka', 'fine_dining', 'Restaurant CAMP Kitchen & Bar - Ruka', 'Bistrotie 2, Ruka, Finland', '레스토랑. 구글 지도 평점 4.5(리뷰 432개).', 'Restaurant. Rated 4.5 on Google Maps (432 reviews).'),
+  place('ruka-fine_dining-5', 'ruka', 'fine_dining', 'Restaurant Vespino', 'Rukatunturintie 12, Ruka, Finland', '이탈리아 요리 레스토랑. 구글 지도 평점 4.4(리뷰 162개).', 'Italian restaurant. Rated 4.4 on Google Maps (162 reviews).'),
+  place('ruka-bakery-1', 'ruka', 'bakery', 'Kahvila-konditoria Nina Mimosa', 'Ouluntaival 3, Kuusamo, Finland', '쿠사모에 있는 과자점. 구글 지도 평점 4.5(리뷰 156개).', 'Pastry shop in Kuusamo. Rated 4.5 on Google Maps (156 reviews).'),
+  place('ruka-cafe-1', 'ruka', 'cafe', 'Café Uuttusuon Kahvila', 'Kinospolku 25, Ruka, Finland', '카페. 구글 지도 평점 4.9(리뷰 102개).', 'Café. Rated 4.9 on Google Maps (102 reviews).'),
+  place('ruka-cafe-2', 'ruka', 'cafe', 'The French Café', 'Kitkantie 2, Kuusamo, Finland', '쿠사모에 있는 카페. 구글 지도 평점 4.9(리뷰 485개).', 'Café in Kuusamo. Rated 4.9 on Google Maps (485 reviews).'),
+  place('ruka-cafe-3', 'ruka', 'cafe', 'Petäjälammen Herkku', 'Kitkantie 135, Kuusamo, Finland', '쿠사모에 있는 카페. 구글 지도 평점 4.6(리뷰 363개).', 'Café in Kuusamo. Rated 4.6 on Google Maps (363 reviews).'),
+
+  // —— saariselka: restaurants, bakeries and cafés (2026-11-28) ——
+  place('saariselka-fine_dining-1', 'saariselka', 'fine_dining', 'Fieno', 'Kiveliöntie 1, Saariselkä, Finland', '레스토랑. 구글 지도 평점 4.8(리뷰 575개).', 'Restaurant. Rated 4.8 on Google Maps (575 reviews).'),
+  place('saariselka-fine_dining-2', 'saariselka', 'fine_dining', 'Gastropub Giitu', 'Revontulentie 1, Saariselkä, Finland', '개스트로펍. 구글 지도 평점 4.7(리뷰 302개).', 'Gastropub. Rated 4.7 on Google Maps (302 reviews).'),
+  place('saariselka-fine_dining-3', 'saariselka', 'fine_dining', 'Ravintola Petronella', 'Honkapolku 5, Saariselkä, Finland', '레스토랑. 구글 지도 평점 4.6(리뷰 391개).', 'Restaurant. Rated 4.6 on Google Maps (391 reviews).'),
+  place('saariselka-fine_dining-4', 'saariselka', 'fine_dining', 'Ravintola Pirkon Pirtti', 'Honkapolku 2, Saariselkä, Finland', '레스토랑. 구글 지도 평점 4.5(리뷰 726개).', 'Restaurant. Rated 4.5 on Google Maps (726 reviews).'),
+  place('saariselka-fine_dining-5', 'saariselka', 'fine_dining', 'Kaunispään Huippu', 'Kaunispääntie 260, Saariselkä, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.4(리뷰 2938개).', 'Finnish restaurant. Rated 4.4 on Google Maps (2938 reviews).'),
+  place('saariselka-cafe-1', 'saariselka', 'cafe', 'Mettäbaari Forest Bar', 'Hirvaspirtti 2, Saariselkä, Finland', '카페. 구글 지도 평점 4.9(리뷰 172개).', 'Café. Rated 4.9 on Google Maps (172 reviews).'),
+
+  // —— akaslompolo: restaurants, bakeries and cafés (2026-11-28) ——
+  place('akaslompolo-fine_dining-1', 'akaslompolo', 'fine_dining', 'Jänkä Grilli', 'Sivulantie 3b, Äkäslompolo, Finland', '햄버거 식당. 구글 지도 평점 4.9(리뷰 216개).', 'Burger restaurant. Rated 4.9 on Google Maps (216 reviews).'),
+  place('akaslompolo-fine_dining-2', 'akaslompolo', 'fine_dining', 'Los Lompolo\'s', 'Sivulantie 5 E, Äkäslompolo, Finland', '레스토랑. 구글 지도 평점 4.7(리뷰 202개).', 'Restaurant. Rated 4.7 on Google Maps (202 reviews).'),
+  place('akaslompolo-fine_dining-3', 'akaslompolo', 'fine_dining', 'Public House Selvä Pyy', 'Tunturintie 16, Äkäslompolo, Finland', '개스트로펍. 구글 지도 평점 4.5(리뷰 952개).', 'Gastropub. Rated 4.5 on Google Maps (952 reviews).'),
+  place('akaslompolo-fine_dining-4', 'akaslompolo', 'fine_dining', 'Ravintola Rouhe', 'Lompolontie 3, Äkäslompolo, Finland', '핀란드 요리 레스토랑. 구글 지도 평점 4.4(리뷰 1504개).', 'Finnish restaurant. Rated 4.4 on Google Maps (1504 reviews).'),
+  place('akaslompolo-fine_dining-5', 'akaslompolo', 'fine_dining', 'Ylläksen Eväskori & Joiku Pub', 'Jakolantie 2, Äkäslompolo, Finland', '피자 식당. 구글 지도 평점 4.4(리뷰 859개).', 'Pizza restaurant. Rated 4.4 on Google Maps (859 reviews).'),
+  place('akaslompolo-cafe-1', 'akaslompolo', 'cafe', 'Well Kitchen & Northern café', 'Tunturintie 22, Äkäslompolo, Finland', '카페. 구글 지도 평점 4.5(리뷰 462개).', 'Café. Rated 4.5 on Google Maps (462 reviews).'),
 ]

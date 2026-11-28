@@ -1128,6 +1128,60 @@ export const STAY: Record<string, StayArea[]> = {
     a('아케르 브뤼게', 'Aker Brygge', 'Aker Brygge, Oslo', '피오르 물가|On the fjord', '피오르 전망과 식당이 있고 섬으로 가는 배가 뜹니다. 호텔이 적습니다.|Fjord views, restaurants and ferries to the islands; few hotels.'),
     a('그뤼네르뢰카', 'Grünerløkka', 'Grünerløkka, Oslo', '트렌디한 동네|Trendy', '카페, 빈티지 상점, 바가 많은 도심 북동쪽 동네입니다.|Cafés, vintage shops and bars north-east of the centre.'),
   ],
+  hameenlinna: [
+    a('시내 중심', 'Town centre', 'Hämeenlinna', '처음 가는 여행에 추천|Best for a first visit', '역과 성, 광장이 걸어서 닿습니다.|The station, castle and square on foot.'),
+    a('헬싱키·탐페레에서 당일치기', 'Day trip from Helsinki or Tampere', 'Helsinki', '당일치기|As a day trip', '기차로 헬싱키 약 1시간, 탐페레 40분 남짓이라 다녀오기 좋습니다.|About 1 hr by train from Helsinki and around 40 min from Tampere.'),
+  ],
+  lahti: [
+    a('역·시내 중심', 'Station & centre', 'Lahti', '처음 가는 여행에 추천|Best for a first visit', '역과 광장, 항구행 버스가 가깝습니다.|Close to the station, square and harbour buses.'),
+    a('헬싱키에서 당일치기', 'Day trip from Helsinki', 'Helsinki', '당일치기|As a day trip', '기차로 1시간이 안 걸려 헬싱키에서 다녀오기 좋습니다.|Under an hour by train from Helsinki.'),
+  ],
+  kotka: [
+    a('시내 중심', 'Town centre', 'Kotka', '처음 가는 여행에 추천|Best for a first visit', '벨라모와 마레타리움, 버스터미널이 가깝습니다.|Near Vellamo, the Maretarium and the bus station.'),
+  ],
+  lappeenranta: [
+    a('항구·시내 중심', 'Harbour & centre', 'Lappeenranta', '처음 가는 여행에 추천|Best for a first visit', '요새와 항구가 걸어서 닿습니다.|The fortress and harbour on foot.'),
+  ],
+  imatra: [
+    a('이마트란코스키', 'Imatrankoski', 'Imatrankoski', '처음 가는 여행에 추천|Best for a first visit', '급류와 발티온호텔리 옆입니다.|Beside the rapids and the State Hotel.'),
+    a('라펜란타에서 당일치기', 'Day trip from Lappeenranta', 'Lappeenranta', '당일치기|As a day trip', '기차로 30분 남짓이라 라펜란타에서 다녀오기 좋습니다.|About half an hour by train from Lappeenranta.'),
+  ],
+  fiskars: [
+    a('피스카스 마을', 'Fiskars Village', 'Fiskars', '처음 가는 여행에 추천|Best for a first visit', '작은 숙소가 몇 곳 있습니다.|A handful of small inns.'),
+    a('헬싱키에서 당일치기', 'Day trip from Helsinki', 'Helsinki', '당일치기|As a day trip', '기차와 버스로 1시간 30분 남짓입니다.|About 1.5 hr by train and bus.'),
+  ],
+  hanko: [
+    a('시내·동항', 'Centre & East Harbour', 'Hanko', '처음 가는 여행에 추천|Best for a first visit', '빌라 거리와 항구가 걸어서 닿습니다.|The villas and harbour on foot.'),
+  ],
+  pori: [
+    a('시내 중심', 'City centre', 'Pori', '처음 가는 여행에 추천|Best for a first visit', '역과 강변이 가깝습니다. 재즈 주간엔 일찍 예약하세요.|Near the station and river; book early for festival week.'),
+    a('위테리', 'Yyteri', 'Yyteri', '해변|Beach', '해변 리조트에 묵을 수 있습니다.|Stay at the beach resort.'),
+  ],
+  vaasa: [
+    a('시내 중심', 'City centre', 'Vaasa', '처음 가는 여행에 추천|Best for a first visit', '역과 광장, 박물관이 가깝습니다.|Near the station, square and museum.'),
+  ],
+  koli: [
+    a('콜리 언덕', 'Koli heights', 'Koli', '처음 가는 여행에 추천|Best for a first visit', '정상 옆 호텔과 마을 숙소가 있습니다.|A hotel by the summit and lodges in the village.'),
+  ],
+  mikkeli: [
+    a('시내 중심', 'City centre', 'Mikkeli', '처음 가는 여행에 추천|Best for a first visit', '역과 박물관, 광장이 가깝습니다.|Near the station, museums and square.'),
+  ],
+  mantta: [
+    a('맨태 시내', 'Mänttä centre', 'Mänttä', '처음 가는 여행에 추천|Best for a first visit', '미술관 숙소와 작은 호텔이 있습니다.|Small hotels and museum lodgings.'),
+    a('탐페레에서 당일치기', 'Day trip from Tampere', 'Tampere', '당일치기|As a day trip', '버스로 1시간 30분 남짓입니다.|About 1.5 hr by bus.'),
+  ],
+  ruka: [
+    a('루카 마을', 'Ruka village', 'Ruka', '처음 가는 여행에 추천|Best for a first visit', '리프트와 식당, 상점이 모여 있습니다.|Lifts, restaurants and shops together.'),
+  ],
+  saariselka: [
+    a('사리셀캐 마을', 'Saariselkä village', 'Saariselkä', '처음 가는 여행에 추천|Best for a first visit', '호텔과 오두막, 식당이 모여 있습니다.|Hotels, cabins and restaurants together.'),
+  ],
+  akaslompolo: [
+    a('애캐슬롬폴로 마을', 'Äkäslompolo village', 'Äkäslompolo', '처음 가는 여행에 추천|Best for a first visit', '호숫가 오두막과 호텔, 상점이 있습니다.|Lakeside cabins, hotels and shops.'),
+  ],
+  kilpisjarvi: [
+    a('킬피스예르비 마을', 'Kilpisjärvi village', 'Kilpisjärvi', '처음 가는 여행에 추천|Best for a first visit', '호텔 몇 곳과 오두막이 있습니다.|A few hotels and cabins.'),
+  ],
   helsinki: [
     a('클루우비 (중심가)', 'Kluuvi', 'Kluuvi, Helsinki', '처음 가는 여행에 추천|Best for a first visit', '중앙역, 에스플라나디 공원, 백화점이 가까운 한가운데입니다.|The very centre, by the railway station, Esplanadi and the department stores.'),
     a('캄피', 'Kamppi', 'Kamppi, Helsinki', '교통·식당|Transport and food', '버스·지하철 중심지로 식당과 바가 가장 많습니다.|The transport hub, with the most restaurants and bars.'),

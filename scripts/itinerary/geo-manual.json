@@ -19715,5 +19715,185 @@
     59.28785,
     18.91783,
     "OSM Nominatim: Sandhamn, Värmdö kommun, Stockholms län, Sverige (Wikipedia 357m)"
+  ],
+  "helsinki-h16": [
+    60.17069,
+    24.93644,
+    "OSM Nominatim: Amos Rex, 22-24, Mannerheimintie, Keskusta, Kluuvi, Eteläine (Wikipedia 265m)"
+  ],
+  "helsinki-h17": [
+    60.17497,
+    24.93177,
+    "OSM Nominatim: Kansallismuseo, 34, Mannerheimintie, Etu-Töölö, Eteläinen su (Wikipedia 132m)"
+  ],
+  "helsinki-h18": [
+    60.16616,
+    24.95279,
+    "OSM Nominatim: Vanha Kauppahalli, 9, Eteläranta, Kaartinkaupunki, Eteläinen (Wikipedia 6m)"
+  ],
+  "turku-h9": [
+    60.44975,
+    22.26606,
+    "OSM Nominatim: Kauppahalli, 16, Eerikinkatu, Puolalanmäki, VII, Keskusta, T (Wikipedia 4m)"
+  ],
+  "hameenlinna-h1": [
+    61.00363,
+    24.46,
+    "OSM Nominatim: Hämeen linna, Kustaa III:n katu, Keskusta 1, Keskusta, Hämee (Wikipedia 109m)"
+  ],
+  "lahti-h2": [
+    60.99503,
+    25.65157,
+    "OSM Nominatim: Sibeliustalo, 7, Ankkurikatu, Ankkuri, Kartano, Lahti, Lahde (Wikipedia 25m)"
+  ],
+  "kotka-h1": [
+    60.46114,
+    26.95077,
+    "OSM Nominatim: Maretarium, 2, Sapokankatu, Kotkansaari 3, Kotka, Kotkan–Ham (Wikipedia 134m)"
+  ],
+  "kotka-h3": [
+    60.45792,
+    26.94547,
+    "OSM Nominatim: Sapokan vesipuisto, 11, Katariina, Kotka, Kotkan–Haminan seu (Wikipedia 73m)"
+  ],
+  "kotka-h4": [
+    60.48927,
+    26.88564,
+    "OSM Nominatim: Langinkosken keisarillinen kalastusmaja, 118, Keisarinmajant (Wikipedia 71m)"
+  ],
+  "lappeenranta-h1": [
+    61.06571,
+    28.18295,
+    "OSM Nominatim: Linnoitus, Lappeenranta, Lappeenrannan seutukunta, Etelä-Kar (Wikipedia 25m)"
+  ],
+  "lappeenranta-h4": [
+    61.06738,
+    28.18341,
+    "OSM Nominatim: Etelä-Karjalan museo, 15, Kristiinankatu, Rapasaari, Linnoit (Wikipedia 3m)"
+  ],
+  "imatra-h1": [
+    61.16887,
+    28.77252,
+    "OSM Nominatim: Imatrankoski, Imatra, Imatran seutukunta, Etelä-Karjala, Man (Wikipedia 92m)"
+  ],
+  "imatra-h3": [
+    61.23671,
+    28.85614,
+    "OSM Nominatim: Kolmen Ristin Kirkko, 27, Ruokolahdentie, Vuoksenniskan suur (Wikipedia 5m)"
+  ],
+  "fiskars-h3": [
+    59.99168,
+    23.65075,
+    "OSM Nominatim: Raaseporin linna, Slottsknektens väg, Snappertuna, Raseborg, (Wikipedia 20m)"
+  ],
+  "hanko-h2": [
+    59.82486,
+    22.97052,
+    "OSM Nominatim: Hangon vesitorni, Kirkkomäki, Tehtaanniemi, Keskusta, Hanko, (Wikipedia 31m)"
+  ],
+  "pori-h2": [
+    61.48776,
+    21.75946,
+    "OSM Nominatim: Juséliuksen mausoleumi, 33, Maantiekatu, Käppärä, Pori, Pori (Wikipedia 3m)"
+  ],
+  "vaasa-h2": [
+    63.20669,
+    21.47272,
+    "OSM Nominatim: Replotbron, Alskatvägen, Replot, Replot-Björköby, Korsholm,  (Wikipedia 25m)"
+  ],
+  "vaasa-h3": [
+    63.09951,
+    21.60188,
+    "OSM Nominatim: Pohjanmaan museo, 3, Museokatu, Keskusta 2, Vaasa, Vaasan se (Wikipedia 12m)"
+  ],
+  "vaasa-h4": [
+    63.07341,
+    21.72278,
+    "OSM Nominatim: Vanha-Vaasa, Vaasa, Vaasan seutukunta, Österbotten, Manner-S (Wikipedia 49m)"
+  ],
+  "mikkeli-h1": [
+    61.6912,
+    27.26844,
+    "OSM Nominatim: Päämajamuseo, 4, Ristimäenkatu, Kaukola, Mikkeli, Mikkelin s (Wikipedia 37m)"
+  ],
+  "mikkeli-h2": [
+    61.69162,
+    27.26965,
+    "OSM Nominatim: Viestikeskus Lokki, 11, Vuorikatu, Kaukola, Mikkeli, Mikkeli (Wikipedia 142m)"
+  ],
+  "mikkeli-h3": [
+    61.68927,
+    27.26663,
+    "OSM Nominatim: Mikkelin Tuomiokirkko, 2, Ristimäenkatu, Kaukola, Mikkeli, M (Wikipedia 6m)"
+  ],
+  "mikkeli-h4": [
+    61.44418,
+    27.54382,
+    "OSM Nominatim: Astuvansalmen kalliomaalaukset, Astuvansalmen luontopolku, R (Wikipedia 302m)"
+  ],
+  "mantta-h3": [
+    62.0277,
+    24.62334,
+    "OSM Nominatim: Mäntän kirkko, Kirkkoaukio, Koskela, Mänttä, Mänttä-Vilppula (Wikipedia 2m)"
+  ],
+  "ruka-h3": [
+    66.36776,
+    29.32767,
+    "OSM Nominatim: Kiutaköngäs, Kiutaköngkään päiväreitti - Karhunkierros, Kuus (Wikipedia 70m)"
+  ],
+  "saariselka-h1": [
+    68.43414,
+    27.44403,
+    "OSM Nominatim: Kaunispää, Inari, Pohjois-Lapin seutukunta, Lappi, Manner-Su (Wikipedia 99m)"
+  ],
+  "saariselka-h3": [
+    68.18104,
+    27.09846,
+    "OSM Nominatim: Tankavaara, Sodankylä, Pohjois-Lapin seutukunta, Lappi, Mann (Wikipedia 266m)"
+  ],
+  "akaslompolo-h1": [
+    67.56471,
+    24.22463,
+    "OSM Nominatim: Yllästunturi, Kolari, Tunturi-Lapin seutukunta, Lappi, Manne (Wikipedia 30m)"
+  ],
+  "kilpisjarvi-h1": [
+    69.0437,
+    20.85648,
+    "OSM Nominatim: Saana, Enontekiö, Tunturi-Lapin seutukunta, Lappi, Manner-Su (Wikipedia 18m)"
+  ],
+  "kilpisjarvi-h2": [
+    69.05997,
+    20.54864,
+    "OSM Nominatim: Kolmen valtakunnan rajapyykki / Treriksrøysa Golddajávri / T (Wikipedia 0m)"
+  ],
+  "hameenlinna-h4": [
+    61.05075,
+    24.39824,
+    "OSM Nominatim: Pyhän Ristin kirkko, 41, Vanhankirkontie, Hurttala, Tenhiälä (Wikipedia 27m)"
+  ],
+  "lahti-h1": [
+    60.98347,
+    25.63017,
+    "OSM Nominatim: Salpausselän hyppyrimäet, Salpausselkä, Lahti, Lahden seutuk (Wikipedia 83m)"
+  ],
+  "kotka-h2": [
+    60.47266,
+    26.94493,
+    "OSM Nominatim: Merikeskus Vellamo, 99, Tornatorintie, Kantasatama, Kotkansa (Wikipedia 13m)"
+  ],
+  "imatra-h2": [
+    61.16877,
+    28.76898,
+    "OSM Nominatim: Imatran valtionhotelli, Torkkelinkatu, Imatrankoski, Imatra, (Wikipedia 111m)"
+  ],
+  "pori-h3": [
+    61.4901,
+    21.79413,
+    "OSM Nominatim: Porin taidemuseo, 1, Selim Palmgreninkatu, Linna, Pori, Pori (Wikipedia 4m)"
+  ],
+  "mantta-h1": [
+    62.02765,
+    24.57541,
+    "OSM Nominatim: Joenniemen kartano, 47, Joenniementie, Aravala, Mänttä, Mänt (Wikipedia 45m)"
   ]
 }

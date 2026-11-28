@@ -1567,6 +1567,79 @@ export const hubsCentral: Record<string, RawCityHubs> = {
     bus: [['Inari', '이나리 버스 정류장']],
   },
 
+  hameenlinna: {
+    air: [HEL('기차로 약 1시간|About 1 hr by train')],
+    rail: [['Hämeenlinna', '하메엔린나역']],
+    bus: [['Hämeenlinnan linja-autoasema', '하메엔린나 버스터미널']],
+  },
+  lahti: {
+    air: [HEL('기차로 약 1시간|About 1 hr by train')],
+    rail: [['Lahti', '라티역']],
+    bus: [['Lahden matkakeskus', '라티 여행 센터(버스)']],
+  },
+  kotka: {
+    air: [HEL('버스로 약 2시간|About 2 hr by bus')],
+    rail: [['Kotka', '코트카역', '코우볼라행|to Kouvola']],
+    bus: [['Kotkan linja-autoasema', '코트카 버스터미널', '헬싱키행|to Helsinki']],
+  },
+  lappeenranta: {
+    air: [HEL('기차로 약 2시간|About 2 hr by train')],
+    rail: [['Lappeenranta', '라펜란타역']],
+    bus: [['Lappeenrannan matkakeskus', '라펜란타 버스터미널']],
+  },
+  imatra: {
+    air: [HEL('기차로 약 2시간 30분|About 2.5 hr by train')],
+    rail: [['Imatra', '이마트라역']],
+    bus: [['Imatran matkakeskus', '이마트라 여행 센터(버스)']],
+  },
+  fiskars: {
+    air: [HEL('기차·버스로 약 1시간 30분|About 1.5 hr by train and bus')],
+    rail: [['Karis (Karjaa)', '카리스(카리아)역', '버스·택시로 약 15분|about 15 min by bus or taxi']],
+    bus: [['Fiskars', '피스카스 버스 정류장', '카리스역행|to Karis station']],
+  },
+  hanko: {
+    air: [HEL('기차로 약 2시간|About 2 hr by train')],
+    rail: [['Hanko', '항코역', '카리스 환승|change at Karis']],
+    bus: [['Hangon linja-autoasema', '항코 버스터미널']],
+  },
+  pori: {
+    air: [HEL('기차로 약 3시간|About 3 hr by train')],
+    rail: [['Pori', '포리역', '탐페레행|to Tampere']],
+    bus: [['Porin linja-autoasema', '포리 버스터미널']],
+  },
+  vaasa: {
+    air: [['Vaasa (VAA)', '바사 공항 (VAA)']],
+    rail: [['Vaasa', '바사역']],
+    bus: [['Vaasan linja-autoasema', '바사 버스터미널']],
+    port: [['Vaasan satama', '바사 항구', '우메오행 페리|ferries to Umeå']],
+  },
+  koli: {
+    air: [['Joensuu (JOE)', '요엔수 공항 (JOE)', '차로 약 1시간|About 1 hr by car']],
+    rail: [['Joensuu', '요엔수역', '버스·택시로 약 1시간|about 1 hr by bus or taxi']],
+  },
+  mikkeli: {
+    air: [HEL('기차로 약 2시간 30분|About 2.5 hr by train')],
+    rail: [['Mikkeli', '미켈리역']],
+    bus: [['Mikkelin linja-autoasema', '미켈리 버스터미널']],
+  },
+  mantta: {
+    air: [['Tampere-Pirkkala (TMP)', '탐페레 피르칼라 공항 (TMP)', '차로 약 1시간 30분|About 1.5 hr by car']],
+    bus: [['Mäntän linja-autoasema', '맨태 버스 정류장', '탐페레행|to Tampere']],
+  },
+  ruka: {
+    air: [['Kuusamo (KAO)', '쿠사모 공항 (KAO)', '버스로 약 30분|About 30 min by bus']],
+  },
+  saariselka: {
+    air: [['Ivalo (IVL)', '이발로 공항 (IVL)', '버스로 약 30분|About 30 min by bus']],
+    bus: [['Saariselkä', '사리셀캐 버스 정류장', '로바니에미·이발로행|to Rovaniemi, Ivalo']],
+  },
+  akaslompolo: {
+    air: [['Kittilä (KTT)', '키틸래 공항 (KTT)', '버스로 약 50분|About 50 min by bus']],
+    rail: [['Kolari', '콜라리역', '겨울철 야간열차|winter night trains']],
+  },
+  kilpisjarvi: {
+    bus: [['Kilpisjärvi', '킬피스예르비 버스 정류장', '로바니에미행|to Rovaniemi']],
+  },
   // —— no ——
   oslo: {
     air: [

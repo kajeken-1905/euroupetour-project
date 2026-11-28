@@ -8550,6 +8550,150 @@ export const cityTransitById: Record<string, CityTransit> = {
     },
   },
   // —— fi ——
+  hameenlinna: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내와 성은 걸어서, 아울랑코·이딸라는 버스나 차로 갑니다.',
+      en: 'Walk the centre and castle; reach Aulanko and Iittala by bus or car.',
+    },
+    apps: [
+    ],
+  },
+  lahti: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 항구와 스키 점프대는 버스나 걸어서 20분 남짓입니다.',
+      en: 'Walk the centre; the harbour and ski jumps are a short bus ride or a 20-minute walk.',
+    },
+    apps: [
+    ],
+  },
+  kotka: {
+    modes: ['walk', 'bus', 'taxi', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서, 랑긴코스키는 버스나 자전거로 갑니다.',
+      en: 'Walk the centre; reach Langinkoski by bus or bike.',
+    },
+    apps: [
+    ],
+  },
+  lappeenranta: {
+    modes: ['walk', 'bus', 'taxi', 'ferry'],
+    howTo: {
+      ko: '시내와 요새는 걸어서, 호수는 여름 유람선으로 나갑니다.',
+      en: 'Walk the centre and fortress; go out on the lake by summer cruise.',
+    },
+    apps: [
+    ],
+  },
+  imatra: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '급류와 호텔은 걸어서, 세 십자가 교회는 버스나 차로 갑니다.',
+      en: 'Walk to the rapids and hotel; take a bus or car to the Church of the Three Crosses.',
+    },
+    apps: [
+    ],
+  },
+  fiskars: {
+    modes: ['walk', 'bus', 'taxi', 'bike'],
+    howTo: {
+      ko: '마을은 걸어서, 라세보리·에케네스는 버스나 차로 갑니다.',
+      en: 'Walk the village; reach Raseborg and Ekenäs by bus or car.',
+    },
+    apps: [
+    ],
+  },
+  hanko: {
+    modes: ['walk', 'bike', 'taxi'],
+    howTo: {
+      ko: '시내와 해변은 걸어서, 먼 해변은 자전거로 다닙니다.',
+      en: 'Walk the centre and nearby beaches; cycle to the farther ones.',
+    },
+    apps: [
+    ],
+  },
+  pori: {
+    modes: ['walk', 'bus', 'taxi', 'bike'],
+    howTo: {
+      ko: '시내는 걸어서, 위테리는 버스로 30분 남짓입니다.',
+      en: 'Walk the centre; Yyteri is about half an hour by bus.',
+    },
+    apps: [
+    ],
+  },
+  vaasa: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 크바르켄 군도는 차나 여름 버스로 갑니다.',
+      en: 'Walk the centre; reach the Kvarken by car or summer bus.',
+    },
+    apps: [
+    ],
+  },
+  koli: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '공원 안은 걸어서 다니고, 요엔수에서는 차나 버스로 옵니다.',
+      en: 'Walk inside the park; come from Joensuu by car or bus.',
+    },
+    apps: [
+    ],
+  },
+  mikkeli: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '시내는 걸어서, 암각화는 여름 배나 차로 갑니다.',
+      en: 'Walk the centre; reach the rock paintings by summer boat or car.',
+    },
+    apps: [
+    ],
+  },
+  mantta: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '두 미술관 사이는 걸어서 20분 남짓, 여름엔 셔틀도 다닙니다.',
+      en: 'The two museums are about 20 minutes apart on foot.',
+    },
+    apps: [
+    ],
+  },
+  ruka: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 오울랑카는 차나 투어로 갑니다.',
+      en: 'Walk the village; reach Oulanka by car or tour.',
+    },
+    apps: [
+    ],
+  },
+  saariselka: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을은 걸어서, 국립공원과 탄카바라는 차나 투어로 갑니다.',
+      en: 'Walk the village; reach the park and Tankavaara by car or tour.',
+    },
+    apps: [
+    ],
+  },
+  akaslompolo: {
+    modes: ['walk', 'bus', 'taxi'],
+    howTo: {
+      ko: '마을과 스키장 사이는 스키 버스로, 팔라스는 차로 갑니다.',
+      en: 'Ski buses link the village and slopes; drive to Pallas.',
+    },
+    apps: [
+    ],
+  },
+  kilpisjarvi: {
+    modes: ['walk', 'ferry', 'taxi'],
+    howTo: {
+      ko: '마을과 사나는 걸어서, 국경 표석은 여름 배를 탑니다.',
+      en: 'Walk the village and Saana; take the summer boat to the cairn.',
+    },
+    apps: [
+    ],
+  },
   helsinki: {
     modes: ['metro', 'tram', 'bus', 'train', 'ferry', 'rideshare', 'taxi', 'walk'],
     airportToCity: {

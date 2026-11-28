@@ -81,13 +81,13 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   jokkmokk: {"days": [["", 1, 3]], "trips": [["라포니아|Laponia", 4]]},
   helsinki: {
     days: [
-      ['원로원 광장과 항구|Senate Square & harbour', 4, 1, 8, 7, 3],
-      ['중앙역과 퇴욀뢰|Central Station & Töölö', 10, 9, 11, 12, 5, 14, 6],
+      ['원로원 광장과 항구|Senate Square & harbour', 4, 18, 1, 8, 7, 3],
+      ['중앙역과 퇴욀뢰|Central Station & Töölö', 10, 9, 11, 17, 12, 16, 5, 14, 6],
       ['수오멘린나와 바닷가|Suomenlinna & seafront', 2, 13],
     ],
     trips: [['누크시오 국립공원|Nuuksio National Park', 15]],
   },
-  turku: { days: [['', 2, 7, 6, 4, 3], ['', 5, 1]], trips: [['투르쿠 군도|Turku archipelago', 8]] },
+  turku: { days: [['', 2, 7, 6, 4, 3, 9], ['', 5, 1]], trips: [['투르쿠 군도|Turku archipelago', 8]] },
   tampere: {
     days: [
       ['시내|City centre', 3, 7, 6, 4, 2],
@@ -114,6 +114,22 @@ export const itineraryNorth: Record<string, RawItinerary> = {
   kemi: { days: [['', 2]], trips: [['쇄빙선 삼포호|Icebreaker Sampo', 1], ['토르니오–하파란다|Tornio–Haparanda', 3]] },
   levi: { days: [['', 1]], trips: [['팔라스–윌래스툰투리 국립공원|Pallas-Yllästunturi National Park', 2], ['허스키·순록 썰매|Husky & reindeer safari', 3], ['오로라 투어|Northern lights tour', 4]] },
   inari: { days: [['', 1, 2, 3]], trips: [['피엘파야르비 황야 교회|Pielpajärvi Wilderness Church', 4]] },
+  hameenlinna: {"days": [["", 1, 2, 3]], "trips": [["하투라·이딸라|Hattula & Iittala", 4, 5]]},
+  lahti: {"days": [["", 1, 4, 3, 5, 2]]},
+  kotka: {"days": [["", 1, 2, 3]], "trips": [["랑긴코스키|Langinkoski", 4]]},
+  lappeenranta: {"days": [["", 1, 4, 2, 3]]},
+  imatra: {"days": [["", 1, 2, 3]]},
+  fiskars: {"days": [["", 1, 2]], "trips": [["라세보리·에케네스|Raseborg & Ekenäs", 3, 4]]},
+  hanko: {"days": [["", 1, 2, 4, 3]]},
+  pori: {"days": [["", 2, 3, 1]], "trips": [["위테리|Yyteri", 4]]},
+  vaasa: {"days": [["", 3, 4]], "trips": [["크바르켄 군도|Kvarken Archipelago", 2, 1]]},
+  koli: {"days": [["", 2, 1, 3]]},
+  mikkeli: {"days": [["", 1, 2, 3]], "trips": [["아스투반살미|Astuvansalmi", 4]]},
+  mantta: {"days": [["", 1, 2, 3]]},
+  ruka: {"days": [["", 1, 4]], "trips": [["오울랑카 국립공원|Oulanka National Park", 2, 3]]},
+  saariselka: {"days": [["", 1, 4]], "trips": [["우르호 케코넨 국립공원|Urho Kekkonen National Park", 2], ["탄카바라|Tankavaara", 3]]},
+  akaslompolo: {"days": [["", 1, 2]], "trips": [["팔라스|Pallas", 3]]},
+  kilpisjarvi: {"days": [["", 1]], "trips": [["세 나라 국경 표석|Three-Country Cairn", 2], ["말라|Malla", 3]]},
   stockholm: {
     days: [
       ['감라스탄과 노르말름|Gamla Stan & Norrmalm', 2, 17, 1, 18, 5, 13, 10, 11],
